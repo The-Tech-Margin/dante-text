@@ -1,0 +1,107 @@
+#!/usr/bin/perl
+#########################################################################
+#
+#				ddp2poemsql
+#
+# Convert a DDP poem nn.e file into a data file suitable for sqlldr to load.
+#
+# Usage: ddp2poemsql source_path comm_id comm_lang cantica_name canto_no
+#
+# The DDP nn.e file is assumed to be on stdin; the sqlldr file is
+# written to stdout.
+#
+# Strategy: Each tercet (and the final 4-line group) becomes a row of
+# the database. Read and output a tercet at a time.
+#
+# NB: This program must agree with the sqlldr control file concerning the
+# order and format of the fields in the data file.
+#
+#########################################################################
+
+#########################################################################
+#
+# A function to read a group of lines of the poem. Normally it's three;
+# The final piece of the poem has four. Groups of lines are delimited by
+# a blank line or EOF.
+#
+# Side-effects: sets text into globals; maintains starting and ending line
+# numbers.
+#
+# Returns: number of lines read: 1, 2, 3, 4, or 0 on EOF.
+#
+#########################################################################
+sub read_tercet {
+	my($ret_value) = 0;
+	$start_line_no = $end_line_no + 1;
+	while (<>) {
+		if (/^ *$/) { return $ret_value; }
+		$ret_value++;
+		$end_line_no++;
+		$tercet_line[$ret_value] = $_;
+	}
+	#
+	# EOF
+	#
+	return $ret_value;
+}
+
+#########################################################################
+#
+# A function to write a tercet to the output file.
+#
+# Usage: put_tercet(lines to put)
+#
+#########################################################################
+sub put_tercet {
+	my ($line_count) = @_;
+	my $i;
+	if ($line_count == 0) { return 0; }
+	
+	$TEXT_FMT = "\"%s\",";
+	$INT_FMT = "%d,";
+
+	$doc_id = sprintf "%s%d%02d%03d0", $comm_id, $cantica_no, $canto_no, $start_line_no ;
+
+	printf $TEXT_FMT, $doc_id;
+	printf $TEXT_FMT, $comm_id;
+	printf $INT_FMT, $cantica_no;
+	printf $INT_FMT, $canto_no;
+	printf $INT_FMT, $start_line_no;
+	printf $INT_FMT, $end_line_no;
+	printf $TEXT_FMT, $comm_lang;
+	printf $TEXT_FMT, $source_path;
+	printf "\n";
+	printf "\"<pre class=\"\"commentarytercet\"\">\n";
+	for ($i = 1; $i <= $line_count; $i++) {
+		printf "%s", $tercet_line[$i];
+	}
+	printf "</pre>\",\n###\n";
+	return 1;
+}
+
+###############
+#
+# Main routine
+#
+###############
+
+$source_path = $ARGV[0];
+$comm_id = $ARGV[1];
+$comm_lang = $ARGV[2];
+$cantica_name = $ARGV[3];
+$canto_no = $ARGV[4];
+shift; shift; shift; shift; shift;
+
+if ($cantica_name eq "inf") {
+	$cantica_no = 1;
+} elsif ($cantica_name eq "purg") {
+	$cantica_no = 2;
+} else {
+	$cantica_no = 3;
+}
+
+$start_line_no = 0;	# Keeps track of the line of the poem.
+$end_line_no = 0;
+
+while (put_tercet(read_tercet())) {
+}

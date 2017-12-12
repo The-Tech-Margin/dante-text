@@ -1,0 +1,12 @@
+#! /bin/sh
+
+COMPRESS=/usr/ucb/compress
+
+if [ $# -lt 1 ]
+then
+	echo Usage: find.compress directory ...
+	exit 1
+fi
+
+find $* -type f -links 1 -size +1 ! -name \*.Z ! -name \.\* \
+	-exec $COMPRESS {} \;

@@ -1,0 +1,72 @@
+.sh 1 "Project Overview"
+.pp
+The Dartmouth Dante Project is collecting a substantial number of
+commentaries on Dante's DC
+and entering them into a computerized text retrieval database system.
+The design of the database, its use, and the processing of the
+commentary texts are the subject of this paper.
+The paper assumes
+little or no knowledge of the DC and only a basic familiarity with
+computerized text manipulation.
+.sh 2 "Project Goals"
+.pp
+The Dartmouth Dante Project (DDP) has two primary goals:
+making the commentaries on the DC easily available to a much wider community
+of scholars than is currently possible,
+and applying the speed and power of computerized text searching to
+make research less tedious and more productive.
+.pp
+In the past a student or scholar could study a significant number of these
+commentaries only by traveling to several of the research
+libraries with major collections.
+The DDP will now make it possible for a researcher with equipment as
+simple as a computer terminal and a telephone to have these
+commentaries immediately available, no matter where he or she is
+working.
+.pp
+Even if the scholar visited the libraries with large
+Dante collections and had a number of commentary texts before him,
+the sheer volume of material makes it laborious if not impossible to trace
+a phrase, idea, or concept through the centuries of scholarship
+contained in the commentaries.
+However, with the speed of the DDP database system enabling it to perform
+sophisticated searches through millions of words of text in a matter
+of a few seconds,
+not only is much of the drudgery of research eliminated, but the
+student or scholar is likely to discover unexpected results --
+information that would have been missed in a manual search of the
+texts.
+.sh 2 "History of the Project"
+.pp
+The Dartmouth Dante Project had its beginnings in the summer of 1982
+at Dartmouth College in Hanover, New Hampshire.
+Professor Robert Hollander of Princeton University and three of his
+colleagues from Dartmouth, Kevin Brownlee, Stephen Nichols, and
+Nancy Vickers, noted that although Dartmouth College was a leading
+institution in areas such as incorporating computer technology into the
+undergraduate curriculum, its holdings of commentaries on the
+DC were weak.
+These
+.i dantisti
+decided to apply the strength to the weakness, and they approached the
+college's then Director of Academic Computing, Raymond Neff, with the
+idea of a computerized collection of commentaries.
+With initial funding from the college and from the Dante Society of America,
+and with a major grant from
+the National Endowment for the Humanities, the Dartmouth Dante
+Project was launched.
+It has since also been supported by Princeton University,
+the David and Lucile Packard Foundation, and by gifts in kind from
+Digital Equipment Corporation.
+.pp
+In the last few years the project has added to its staff 
+additional scholars, Margherita Frankel and Antonia Rossi, to act as editors;
+as well as a computer programmer, the author;
+a group of student assistants to do data entry; and a fulltime
+project administrator, Janet Stephens and then Jonathan Altman.
+.pp
+An offshoot of the project is the forthcoming publication by the
+University Press of New England of the project's newly edited text
+of the commentary by Bernardino Daniello.
+The project's editors added documentation to Daniello's biblical and
+secular citations and produced a computer-generated index of citations.

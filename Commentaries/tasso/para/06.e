@@ -1,0 +1,87 @@
+	|3.~ |(ed.  Rosini)~
+Enea.  [Da Fino]
+
+	|4.~ |(ed.  Rosini)~
+^Uccel di Dio~, Aquila.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+^E sotto l'ombra de le sacre penne~.  [Sessa]
+
+	|12.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+Compil@o le leggi.  [Da Fino]
+
+	|23-24.~ |(ed.  Rosini)~
+^A dio per grazia, piacque di spirarmi,~
+^L'alto lavoro.~
+^Spirare il lavoro~, come ^spirare la vendetta~, usato dal Petrarca.  
+[Sessa]
+
+^L'alto lavoro~, di compilar le leggi.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+Destra del ciel.  [richiamo marginale] [Sessa]
+
+	|32.~ |(ed.  Rosini)~
+^Sacrosanto segno~, aquila.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+E chi 'l.  [richiamo marginale] [Sessa]
+
+	|39.~ |(ed.  Rosini)~
+I ^tre a tre~, Orazj.  [Da Fino]
+
+	|46.~ |(ed.  Rosini)~
+Cirro.  [richiamo marginale] [Sessa]
+
+	|51.~ |(ed.  Rosini)~
+^Labi~, corri.  [Da Fino]
+
+	|53.~ |(ed.  Rosini)~
+^Colle~, di Fiesole.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|68.~ |(ed.  Rosini)~
+^Cuba~, giace.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+Da onde.  [richiamo marginale] [Sessa]
+
+	|73.~ |(ed.  Rosini)~
+^Bajulo~, sergente.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+^Lito rubro~, mar rosso.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+Che non s'apria se non in guerra.  [Da Fino]
+
+	|88-90.~ |(ed.  Rosini)~
+Perch@e fu crocifisso Cristo.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^Gigli gialli~, Franzesi.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+Correda.  [richiamo marginale] [Sessa]
+
+^Correda~, adorna.  [Da Fino]
+
+	|118.~ |(ed.  Rosini)~
+^Gaggi~, meriti.  [Da Fino]
+
+	|124.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|127.~ |(ed.  Rosini)~
+^Margherita~, stella.  [Da Fino]
+
+	|138.~ |(ed.  Rosini)~
+Pi@u di quello non avea ad avere.  [Da Fino]
+
+	|141.~ |(ed.  Rosini)~
+^A frusto a frusto~, a pezzo a pezzo.  [Da Fino]
+

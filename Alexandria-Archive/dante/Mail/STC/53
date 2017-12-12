@@ -1,0 +1,20 @@
+Return-Path: bobh@baker.dartmouth.edu
+Received: from baker by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA12472; Fri, 9 Sep 1994 11:27:02 -0400
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA03114; Fri, 9 Sep 1994 11:27:03 -0400
+Date: Fri, 9 Sep 1994 11:27:03 -0400
+From: bobh@baker.dartmouth.edu (Robert Hollander - DDP PI)
+Message-Id: <9409091527.AA03114@baker.dartmouth.edu>
+To: steve@baker.dartmouth.edu
+Subject: oddity
+
+
+I was searching for a typo: "Vl" for "VI" (Roman numeral). It occurs 4 times in Singleton, twice in Bosco.  That's no problem.  But it also shows up, when
+one searches under "vl" in Daniello for Purg. 19.9.  And when that screen
+comes up, it is garbage.  BUT, if one looks at Daniello's comm. itself thre
+is no doc. labeled 19.9.  Something very weird is happening here.  IF you
+check out Daniello at docs. 2158-2161 you'll see that all is much in order.
+Can you have a look and perhaps figure out what's going wrong?
+
+Thanks, Bob

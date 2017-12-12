@@ -1,0 +1,208 @@
+Instructions on inserting new DDP commentaries from rtf files
+
+Written by Lars Lynch June 7, 2002
+larslynch@yahoo.com or larslynch@alum.dartmouth.org
+
+Contacts: John Wallace(jwallace@dartmouth.edu),
+Steve Campbell (stephen.campbell@dartmouth.edu),
+Robert Hollander(bobh@princeton.edu)
+
+(Also consult the Dartmouth Dante Project: Editor's Style Sheet and the
+Technical Overview, but this README is the most current)
+
+<> jw- Sourcedir should look as below for scripts.
+
+The commentaries are produced and saved in RTF format in order to
+preserve the formatting and provide a universally readable file.
+The filename format should be similar to inf01.rtf, purg15.rtf,
+para24.rtf, or intro.rtf, where the first part of the filename
+indicates which part of the poem is addressed, the second part is
+the canto number, if applicable.  Each commentary author should
+have a directory with his name; Landino, Gelli, etc. Within
+each author directory, each set of commentaries should be in
+separate directories according to the part of Dantes poem that
+it addresses; inf, purg, or para. There should also be a desc
+file in each author directory. Here's an example:
+
+	landino/
+		desc
+		inf/
+			inf01.rtf
+			inf02.rtf
+		para/
+			intro.rtf
+			para08.rtf
+			para12.rtf
+		purg/
+			purg30.rtf
+			purg33.rtf   
+
+
+
+
+Desc files: Each commentary's "desc" file in the appropriate commentary
+directory.  Be sure that the  COMM:: field value is a single word, without
+quotes or spaces.  It should usually be the author's last name. The "desc"
+files must have no empty lines between fields and must end with ..LODD:
+or there will be weirdness.
+
+When in doubt, look in /people/dante/Spring2002 for examples of how the
+processed rtf files should look.
+
+When I encountered files that didn't follow the DDP spec, I hand edited
+or ran a simple sed script on the original RTF file to bring it make
+it processable.
+
+Quickstart for the impatient:
+The dante account is accessed via telnet on alexandria.dartmouth.edu on port 796.
+
+1. Locate the original RTF files on dante and tar them up for transfer.
+
+	tar -cvf Originalrtf.tar Originalrtf/
+
+2. FTP Originalrtf.tar and /people/dante/Spring2002/rtftranslationtools.tar to
+your Linux workstation.
+
+	ftp alexandria (username dante)
+
+3. Unpack the files on the Linux workstation.
+
+	tar -xvf Originalrtf.tar && tar -xvf rtftranslationtools.tar
+
+4. Install the Logictran Word/RTFtoHTML/XML converter on the same Linux
+box from www.logictran.com with a 30-day demo license.
+
+5. Read the rtftranslationtools/README.scripts file and update the RTF
+converter location in the rtfprocess.sh script.
+
+	vi rtftranslationtools/rtfprocess.sh
+
+6. Run the rtfprocess.sh script:
+
+	rtftranslationtools/rtfprocess.sh Originalrtf/ Processedrtf/
+
+7. Run the setuppreload.sh script:
+
+	rtftranslationtools/setuppreload.sh Processedrtf/.
+
+8. Tar up the Processedrtf directory.
+
+	tar -cvf Processedrtf.tar Processedrtf/
+
+9. FTP Processedrtf.tar back to dante.
+
+10. Untar the tarball 
+
+	tar -xvf Processedrtf.tar
+
+11. Place each desc file into the proper author directory.  A smarter
+way to do this is make a tarball and unpack it inside Processedrtf/,
+but that may not always be possible, so here's the long version.
+
+	mv desc Processedrtf/landino/desc (landino is the author in this example)
+	mv desc Processedrtf/buti/desc (buti is the author in this example)
+	......and so on
+
+12. Copy preloader.sh into Processedrtf/ and run it.
+
+	cp /people/dante/Spring2002/rtftranslationtools/preloader.sh Processedrtf/preloader.sh
+
+	If the script fails, go into each author directory and run:
+	preload > preload.out
+
+13. Copy the author dirs into dante/Commentaries/, but first be sure that old
+commentary directories won't be overwritten.
+
+	cp -r Processedrtf/* ~/Commentaries/
+
+14. Backup the old LoadOrder and make sure the ~/Commentaries/LoadOrder
+file is edited for the new commentaries. The format is clear from other
+entries, but make sure to include all files in inf,para,purg and any
+assorted intros.   Bob Hollander needs to approve the load order.
+
+	cp ~/Commentaries/LoadOrder ~/Commentaries/LoadOrder.old
+
+15. Compile the test database for a few hours and take a nap.
+	LoadAll > LoadAll.06.04.2002 (if today were June 6, 2002)
+
+16. Look over the new test database for any problems and have Bob Hollander
+(bobh@princeton.edu) do the same. Just ddp will bring up the production database.
+
+	ddp -x 
+
+17. Make sure the database introduction screens are updated and
+approved. These are shared with the production database, so these updates
+should happen immediately before the actual database switch in step 18.
+
+	vi /people/dante/lib/author.list.1
+	vi /people/dante/lib/author.list.2
+	vi /people/dante/lib/author.list.3
+
+18. Once the test database is approved, backup the production database
+and set the test database as the production one.
+
+	mv /moonstone/DANT /moonstone/DANT.old
+	mv /moonstone/NDDP /moonstone/DANT
+	(the test database will no longer exist)
+
+19. For each author directory, move the original rtfs into
+~/Commentaries/authorsname/raw so the rtfs are saved for posterity.
+
+	mkdir ~/Commentaries/{landino,buti,varchi}/raw (landino, buti and varchi are authors)
+	mv ~/Original/landino/* ~/Commentaries/landino/raw/
+	mv ~/Original/buti/* ~/Commentaries/buti/raw/
+	mv ~/Original/varchi/* ~/Commentaries/varchi/raw/
+	rm -rf Original
+
+20. Done!!!!!!!
+
+
+Footnotes:
+
+The LogicTran converter is not limited to HTML conversion and can accept
+translation instructions from any .trn file.  The Dante Project has
+created an ascii.trn and accomanying asciimap.txt to allow the Logictran
+converter to function as an RTFtoDDP(Dante markup language) converter.
+
+Currently the command to convert an RTF file to a DDP text file using
+the Logictran converter and the ascii.trn file is:
+
+ "r2netcmd -DTrnFile='ascii.trn' commentary.rtf".
+
+I figured out how to fix the translation of the emdash in the
+original RTF conversion, using the asciimap.txt file, mapping 0x2014 to
+"--". 0x2014 is what RTF maps the emdash into in Unicode.  I also fixed
+a problem in the same file mistranslating a simple comma into \,  .
+This was fixed by simply removing a mapping of 0x002C (the comma)
+to \, . I don't know why this was there to begin with. Fixed left
+single quote mapping in asciimap.txt by changing 0x2018 to map to "`".
+Changed capital O with a backward accent (0x00D2) to map to @O and
+capital O with a forward accent (0x00D3) to map to $O, as detailed in
+the DDP markup language.
+
+Ran into a problem preloading once on alexandria. There were problems
+with the desc files because they had Comm:: fields with entries like
+Chiose Ambrosiane, when the field must be a single word, with no quotes.
+This caused the preloader to hang.  The solution was just to make the
+Comm:: field the last name of the commentary author, as is true of the
+other commentaries.
+
+Directories "ambros" and "cagliari" were changed to "ambrosiane" and
+"cagliaritane" to reflect the true commentary name. "buti" has some old
+hand-edited files that should be kept.
+
+Section headings in bold that are not numbers like 5-8. must be enclosed
+in square brackets, like [Proemio].  This is addressed in the Dartmouth
+Dante Project: Editor's Style Sheet under Editorial Decisions.
+
+The Dartmouth Dante Project: Editor's Style Sheet under Canto and
+Section Titles within the text dictates that every file must have
+something like "INFERNO CANTO 02" as the first line.  This is to keep
+the canto information that is currently in the filename should the
+filename ever change.  But this header messes up the database process,
+so one of the rtfprocess.sh sed scripts(extralf.sed) removes these,
+provided they adhere exactly to the specification.
+
+The same sed file (extralf.sed) also puts a numbered section heading
+like 4-8. on the same line as the text following it so there are no
+extra screens in the database.

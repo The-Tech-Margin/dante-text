@@ -1,0 +1,82 @@
+	|1-11.~  To Dante, mountains are inconceivable
+except as great broken stones or crags, all their broad contours
+and undulations seem to have escaped his eye. It is, indeed, with
+his usual undertone of symbolic meaning that he describes the
+great broken stones, and the fall of the shattered mountain, as
+the entrance to the circle appointed for the punishment of the
+violent; meaning that the violent and cruel, notwithstanding all
+their iron hardness of heart, have no true strength, but, either
+by earthquake, or want of support, fall at last into desolate
+ruin, naked, loose, and shaking under the tread [line 30].
+
+     ^Modern Painters, ~ vol. iii. ch. xv. sec. 17.
+
+	|2.~  [We are told,] then, that the place was
+`Alpine': and becoming hereupon attentive, in order to hear what
+an Alpine place is like, we find that it was `like the place
+beyond Trent, where the rock, either by earthquake, or failure of
+support, has broken down to the plain, so that it gives any one
+at the top some means of getting down to the bottom' [line 9].
+This is not a very elevated or enthusiastic description of an
+Alpine scene; and it is far from mended by the following verses,
+in which we are told that Dante `began to go down by this great
+^unloading~ of stones' [line 28], and that they moved often under
+his feet by reason of the new weight. The fact is that Dante, by
+many expressions throughout the poem, shows himself to have been
+a notably bad climber; and being fond of sitting in the sun,
+looking at his fair Baptistery, or walking in a dignified manner
+on flat pavement in a long robe, it puts him seriously out of his
+way when he has to take to his hands and knees, or look to his
+feet; so that the first strong impression made upon him by any
+Alpine scene whatever, is, clearly, that it is bad walking.  When
+he is in a fright and hurry, and has a very steep place to go
+down, Virgil has to carry him altogether, and is obliged to
+encourage him, again and again, when they have a steep slope to
+go up.
+
+     ^Modern Painters,~ vol. iii ch. xv. sec. 13.
+
+	|4-10.~  Another character of these two drawings,
+which gives them especial interest as connected with our
+inquiries into mediaeval landscape is, that they are precisely
+and accurately illustrative of the two principal ideas of Dante
+about the Alps. . . . The Goldau . . . might have been drawn in
+purposeful illustration of the lines before referred to [^Modern
+Painters~, vil. iii. ch. xv. sec. 13.] as descriptive of a 
+`loco ^Alpestro~.' [Lines 4-10 here quoted, also Cayley's
+translation.]
+
+     ^Modern Painters,~ vol. iv. ch. xviii. sec 25.
+
+	|25-26.~  The divisions of the central fire are
+under three creatures, all of them partly man, partly animal.
+The Minotaur has a man's body, a bull's head (which is precisely
+the general type of the English nation to-day). The Centaur
+Chiron has a horse's body; a man's head and breast. The Spirit of
+Fraud, Geryon, has a serpent's body, his face is that of a just man,
+and his breast checquered like a lizard's, with labyrinthine lines
+[^Inf.~ xvii. 10-18].
+
+	All these three creatures signify the mingling of a
+brutal instinct with the human mind; but, in the Minotaur, the
+brute rules, the humanity is subordinate; in the Centaur, the man
+rules, and the brute is subordinate; in the third the man and the
+animal are in harmony; and both false.
+
+	Of the Centaurs, Chiron and Nessus [lines 65, 66], one,
+the type of human gentleness, justice, and wisdom, stooping to
+join itself with the nature of animals, and to be healed with the
+herbs of the ground, --- the other, the destruction of Hercules.
+
+     ^Fors Clavigera,~ xxiv.
+
+	|78.~  Dante's centaur, Chiron, dividing his beard
+with his arrow before he can speak, is a thing no mortal would
+ever have thought of, if he had not actually seen the centaur do
+it. They might have composed handsomer bodies of men and horses
+in all possible ways through a whole life of pseudo-idealism, and
+yet never dreamed of any such thing. But the real living centaur
+actually trotted across Dante's brain, and he saw him do it.
+
+     ^Modern Painters~, vol. iii. ch. vii. sec. 6.
+

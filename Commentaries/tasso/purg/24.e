@@ -1,0 +1,142 @@
+	|1.~ |(ed.  Rosini)~
+^N@e'l dir l'andar, n@e l'andar lui pi@u lento~.  Ariosto.  [Sessa]
+
+N@e per ragionare andavamo pi@u lenti, n@e nel cammino ragionavamo 
+meno.  [Da Fino]
+
+	|4.~ |(ed.  Rosini)~
+Rimorte.  [richiamo marginale] [Sessa]
+
+^Rimorte~, morte pi@u volte.  [Da Fino]
+
+	|6.~ |(ed.  Rosini)~
+Di mio viver.  [richiamo marginale] [Sessa]
+
+Si accorsero che io viveva.  [Da Fino]
+
+	|13-14.~ |(ed.  Rosini)~
+Era bella e buona.  [Da Fino]
+
+	|16.~ |(ed.  Rosini)~
+^Vieta~, nega.  [Da Fino]
+
+	|17.~ |(ed.  Rosini)~
+^Munta~, macra.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+^Dieta~, digiuno.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+In le.  [richiamo marginale] [Sessa]
+
+Papa Martino IV.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+^Rocco~, pastorale.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+Prezza.  [richiamo marginale] [Sessa]
+
+	|37.~ |(ed.  Rosini)~
+^Ei mormorava~, parlava infra s@e.  ^Gentucca~, nome proprio.  [Da Fino]
+
+	|39.~ |(ed.  Rosini)~
+^Pilucca~, tormenta.  [Da Fino]
+
+	|43.~ |(ed.  Rosini)~
+Sendo giovanetta.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+^Colui~, Dante.  [Da Fino]
+
+	|52-54.~ |(ed.  Rosini)~
+^Nota~.  [Sessa]
+
+	|55.~ |(ed.  Rosini)~
+^Issa~, ora.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|68.~ |(ed.  Rosini)~
+Suo.  [richiamo marginale] [Sessa]
+
+	|72.~ |(ed.  Rosini)~
+^Affollar del casso~, ansar del petto.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+Risposi lui.  [Sessa]
+
+	|80.~ |(ed.  Rosini)~
+^Spolpa~, priva.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+Scolpa.  [richiamo marginale] [Sessa]
+
+Nello Inferno.  [Da Fino]
+
+	|85.~ |(ed.  Rosini)~
+^La bestia~, il Diavolo.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+Con infamia muore.  [Da Fino]
+
+	|94-96.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Valchi.  [richiamo marginale] [Sessa]
+
+^Valchi~, passi.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^L@aci~, come ^lici~ e ^quici~.  [Sessa]
+
+^In l@aci~, in l@a.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+Fantolini.  [richiamo marginale] [Sessa]
+
+Comparazione.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+Ricreduta.  [richiamo marginale] [Sessa]
+
+^Ricreduta~, fallita.  [Da Fino]
+
+	|121.~ |(ed.  Rosini)~
+^Maladetti~, Centauri.  [Da Fino]
+
+	|123.~ |(ed.  Rosini)~
+^Tes@eo combatt@er coi doppi petti~.  Elocuzione.  ^Sacra profanis~.  
+[Sessa]
+
+	|127.~ |(ed.  Rosini)~
+Vivagni.  [richiamo marginale] [Sessa]
+
+	|129.~ |(ed.  Rosini)~
+^Miseri~, illeciti.  [Da Fino]
+
+	|133.~ |(ed.  Rosini)~
+^Sol tre~, soli tre.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+^Poltre~, pigre.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+^Fossi~, terza persona.  [Sessa]
+
+	|145-147.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|146.~ |(ed.  Rosini)~
+Olezza.  [richiamo marginale] [Sessa]
+
+	|150.~ |(ed.  Rosini)~
+Orezza.  [richiamo marginale] [Sessa]
+
+^Orezza~, odore.  [Da Fino]
+
+	|154.~ |(ed.  Rosini)~
+Perch@e hanno sete di cose giuste.  [Da Fino]
+

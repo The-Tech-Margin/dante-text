@@ -1,0 +1,1348 @@
+	|Proemio.~  [LEZIONE PRIMA CAPITOLO QUINTO DELLO INFERNO DI DANTE]  
+Noi ponemmo l'anno passato fine a le lezioni nostre, ascoltatori 
+nobilissimi, quando Dante e Virgilio, avendo cerco gran parte del primo 
+cerchio dello Inferno, si mossero per scender nel secondo; nel qual 
+luogo egli pose fine al quarto capitolo di questa cantica. Abbiamo 
+dunque a incominciare quest'anno la esposizion nostra al quinto 
+capitolo di essa prima cantica; nel quale ei tratta delle pene de' 
+peccatori carnali, e di quelli che furon macchiati di quel vizio che il 
+valgo chiama comunemente lussuria. Per notizia della qual cosa, cio@e 
+di quello che sia veramente questo peccato, @e da sapere, come 
+desiderando la universal natura di conservare cos@i bello e ordinato 
+come voi vedete questo universo, conobbe ci@o non poter farsi da lei 
+altramente, se non mantenendo continuamente questa grande e quasi 
+innumerabile quantit@a delle cose delle quali egli @e composto, e con 
+tanto bello e maraviglioso ordine adorno, ch'egli ne ha acquistato 
+questo nome ^mondo~, che significa ornamento. E veggendo ch'ella non 
+poteva far tal cosa, mantenendo gl'individui e le cose particulari 
+medesime (e la cagione @e, per non avere altra materia di che farle, 
+che questa elementare della quale son fatte tutte le cose che son da 'l 
+cielo della luna in gi@u; la qual materia essendo obligata e sottoposta 
+alla corruzione, se non per s@e stessa, almanco per non poter tenere 
+adosso eternalmente una forma medesima, produce ancor quelle similmente 
+corruttibili e mortali); pens@o di mantenere almanco universalmente 
+tutte le nature e specie di esse cose. Onde fu posta da lei, solamente 
+per tal cagione, in ciascuna una virt@u e una potenza seminale, la qual 
+potesse, aiutata per@o dall'influsso del cielo, generare e produr 
+continuamente delle cose simili, in luogo di quelle che tutto il 
+giorno, mediante il tempo, si corrompono e mancono. Ma perch@e nelle 
+cose animate di anima vegetativa, come son gli arbori, non pu@o questa 
+tal potenza, o difficilmente, generare senza la semenza, la 
+traspiantazione e la coltivazione; e in quelle che hanno l'anima 
+sensitiva, senza la coniunzione del maschio e della femina (lasciando 
+stare per ora, come cosa imperfetta, certi animaletti che nascon, 
+mediante la virt@u generativa universal del cielo, di putrefazione); 
+ella ordin@o che nelle vegetative, che non posson seminarsi o 
+coltivarsi da loro, sopperisse per il bisogno che egli ha di loro 
+l'uomo con l'arte della agricultura; la quale arreca ancora, oltra 
+all'utile, all'uomo tanto diletto, ch'egli (come scrive Tullio nel suo 
+Catone) non resta di darvi opera infino a che egli @e nello estremo 
+della sua vecchiezza. E nella coniunzion delle sensitive pose un 
+piacere e un diletto che le tirassi, chi a certi tempi determinati e 
+chi sempre, a dar di maniera opera a la generazione, ch'ei non mancasse 
+mai nel mondo specie alcuna di cose perfette. Il qual diletto della 
+coniunzione carnale, lasciando star per ora gli altri animali, si vede 
+poter tanto comunemente negli uomini, e massime nella giovent@u, 
+ch'egli gli fa trapassar bene spesse volte, senza aver rispetto a la 
+nobilt@a e degnit@a della lor natura, i termini e le leggi della 
+ragione. Per la qual cosa egli si ha acquistato nel mondo questo nome 
+di ^lussuria~; la qual voce, se bene ella significa un trapassamento, e 
+un darsi senza alcun freno a le volutt@a e a' piaceri e diletti del 
+senso; onde fu chiamato ancor ^lussuria~ l'uso immoderato del vino ne' 
+suoi ^Proverbii~ da Salomone; perch@e il diletto della carne e delle 
+cose veneree, superando tutti gli altri, fa gli uomini pi@u sfrenati 
+che alcuno altro, egli @e chiamato principalmente, solo infra gli 
+altri, per antonomasia e per eccellenza ^lussuria~; ed @e annoverato da 
+la religion nostra per uno di quei sette peccati ch'ella chiama mortali 
+e capitali; ancor ch'ei non sieno mancati di quelli i quali abbin 
+tenuto ch'ei non sia peccato, adducendo in confirmazion della opinion 
+loro, ch'egli @e uno appetito e una passion naturale, e che gli affetti 
+naturali non meritano n@e lode n@e biasimo; e soggiugnendo di pi@u, che 
+se l'uomo non pecca nel gittar l'altre superfluit@a che genera in lui 
+la natura o il troppo mangiare o troppo bere, ch'ei non doveva ancor 
+similmente peccare nello scaricarsi, mediante la coniunzion carnale, di 
+questa che non @e altro che una troppa superfluit@a di sustanza di 
+sangue, che avanza al nutrimento delle membra e alla conservazione e al 
+mantenimento della vita; e tanto ancor pi@u, quanto lo scaricarsi di 
+questa tende a la conservazione universal della specie, e quella delle 
+altre solamente al bene essere dello individuo particulare. 
+Nientedimanco, con tutto che costoro dichino cos@i, la religion nostra 
+tiene ch'ei sia peccato, e mortale e capitale. Peccato; perch@e egli @e 
+contro a quel che piace a Dio; il quale vuole, come scrive Paulo 
+apostolo, che noi possediamo i vasi de' corpi nostri in mondizia e 
+nettezza, e di pi@u che il servizio nostro sia ragionevole; onde quanto 
+@e una cosa pi@u necessaria all'uomo, tanto debbe essere ancora pi@u 
+osservato da lui nell'usarla il consiglio della ragione; e il 
+lussurioso rompe il suo freno, e vive al tutto secondo la concupiscenza 
+e secondo il senso. E mortale; perch@e egli ci priva della grazia di 
+Dio e di vita eterna, come scrive il medesimo Paulo a' Galati, 
+trattando della fornicazione, la quale @e una specie di essa lussuria. 
+E capitale; perch@e di lei nascono, come scrive San Tommaso, l'amor 
+proprio, l'odio di Dio, la cecit@a della mente e infiniti altri mali. 
+Onde si risponde a coloro che dicono che la lussuria @e appetito 
+naturale, che se bene gli appetiti naturali, considerati in loro 
+propii, non meriton biasimo, ei lo meritano nell'uomo, in quanto egli 
+ha la ragione, quando ei trapassono i suoi termini e non la 
+obbediscono. E a quegli che dicono ch'ella @e uno scaricamento di 
+superfluit@a di sangue, ch'ei non avviene di questa superfluit@a come 
+delle altre. Imper@o che essendo stati ordinati gli scaricamenti di 
+tutte l'altre da la natura solamente per bene esser dello individuo 
+solo, non bisogna usar nello scaricarsene consiglio alcuno della 
+ragione, altro che separarle da s@e; dove questa, essendo stata 
+ordinata da lei per cagion della generazione, debbe solamente deporsi 
+in quei modi e in quei tempi, ch'ella consegua il fine per il quale 
+ella @e stata ordinata. E per tal cagione fu instituito da la 
+Providenza divina il sacramento del matrimonio, mediante il quale 
+l'uomo pu@o a un tempo medesimo mantener, dando opera a la generazione, 
+la specie, e sadisfare senza offesa della onest@a, e senza fare 
+ingiuria a Dio, a cos@i impetuoso e quasi insuperabile appetito. La 
+guerra e stimolo del quale, s@i per la grandezza del diletto e s@i per 
+la connaturalit@a ch'egli ha con l'uomo, essendo noi (come dice il 
+Profeta) concetti in quello, @e tanto grande ch'ei son rari quelli che 
+non cedino qualche volta al suo furore. Per la qual difficolt@a dicono 
+i nostri teologi che la bont@a divina ha preparato nel regno del cielo 
+ai vergini, oltre a la corona comune della eterna beatitudine la quale 
+conseguono tutti gli eletti, un'altra coronetta particolare, chiamata 
+da loro ^aureola~; la quale @e un certo grado di gloria accidentale 
+(come ella ha fatto ancora ai martiri e ai dottori), mediante il quale, 
+oltre al gaudio ch'eglino hanno insieme con gli altri beati di fruir la 
+faccia di Dio, nella qual cosa consiste vita eterna, i martiri hanno un 
+contento grandissimo particulare di non esser stati spaventati dalla 
+morte, la quale @e la pi@u orribil cosa che si ritruovi al mondo, e 
+d'aver messa la propria vita per confessare e magnificare il nome di 
+Dio; i dottori, di aver insegnato la sua legge, e dimostro la sua via e 
+le sue opere maravigliose al mondo; e i vergini, d'aver legittimamente 
+combattuto e superato lo incendio della carne, il quale e per la 
+grandezza del diletto, e per esser conceputo insieme con noi nel ventre 
+medesimo, e per combatter continovamente col nostro spirito, @e (come 
+noi dicemmo di sopra) uno de' maggiori e pi@u pericolosi e occulti 
+nimici che abbia in questa vita l'uomo. Di questo peccato della carne 
+chiamato, come noi dicemmo di sopra, comunemente ^lussuria~, volendo 
+adunque trattare il Poeta, considerando quanto ei sia per le ragioni 
+dette, e per la fragilit@a della nostra carne, se ei si pu@o dir cos@i, 
+pi@u scusabile che gli altri, pone ch'ei sia punito nel secondo cerchio 
+dell'Inferno; il qual cerchio @e posto immediate sotto il Limbo, e 
+(secondo il Giambullari) miglia ottocento dodici e mezzo sotto la 
+superficie della terra; e il suolo del suo piano, cio@e da' fianchi del 
+vano a l'orlo della sboccatura, @e miglia settantacinque. E questo 
+viene in verit@a a esser il primo cerchio dello Inferno, non essendo 
+esso inferno distinto dal limbo (come vogliono i Tommisti, fra i quali 
+il Poeta nostro fu grandissimo), se non perch@e nel limbo non @e, come 
+noi dicemmo di sopra, pena alcuna sensibile, afflittiva del corpo, e 
+nello inferno s@i; e questo @e il primo cerchio, nel quale @e pena 
+sensibile. E per@o il Poeta pone che tutte l'anime, che son dannate a 
+lo inferno, descendino primieramente insieme in questo cerchio; e 
+quelle che non hanno altri peccati che carnali vi si restano a esser 
+puniti di quelli nella maniera ch'ei dir@a di sotto; e l'altre sieno 
+giudicate e mandate da Minos, il qual egli mette che sia in questo 
+medesimo cerchio, ciascuna in quel luogo il qual meritono le sue colpe.
+
+	|1-6.~  Questo cerchio adunque volendo nel principio di questo 
+capitolo descrivere il Poeta, e avendo narrato nel fine del precedente 
+che il savio duca, cio@e Virgilio, da poi ch'egli ebbero girato gran 
+parte del Limbo, lo cav@o di strada e menollo per un'altra via, dice 
+incominciando questo quinto capitolo:
+
+	^Cos@i discesi del cerchio primaio~
+^Gi@u nel secondo, che men luogo cinghia,~
+^E tanto pi@u dolor, ch'ei punge a guaio.~
+^	Stavvi Minos orribilmente, e ringhia;~
+^Esamina le colpe nella entrata,~
+^Giudica e manda, secondo che avvinghia;~
+
+descrivendolo primieramente da la sua grandezza, dicendo come per esser 
+egli pi@u verso il centro, dove il vano universale dello Inferno andava 
+sempre ristrignendo, ei venia a esser minore, e circundare e contenere 
+molto manco luogo che il primo; onde dice ^che men luogo cinghia~; e di 
+poi secondariamente dalla qualit@a delle pene; perciocch@e essendo in 
+questo pena afflittiva di corpo, il che non era nel Limbo, vi viene a 
+esser tanto maggior dolore; perch@e dove quelle anime che son nel 
+Limbo, per non poter conseguire il lor fine, solamente sospirano, 
+queste per esser tormentate dalle pene sensibili che si diranno metton 
+guai e strida e voci dolorosissime; onde dice: ^E tanto pi@u dolor 
+ch'ei punge a guaio;~ e descrivendolo ultimamente da lo offizio che 
+esercita in tal luogo Minos, il quale egli dice che esamina e giudica 
+le anime, ciascuna al luogo conveniente a le sue colpe. Per pi@u aperta 
+notizia della qual cosa @e da considerare, secondo che scrive in questo 
+luogo M. Pier Francesco Giambullari in uno comento ch'egli faceva sopra 
+questo poeta, non condotto da lui se non a pochi canti del Purgatorio, 
+per esserci stato tolto con non piccola perdita da la morte; onde dove 
+egli @e stato sempre allegato fino a qui da me sotto questo nome lo 
+^interprete~ o lo ^espositore moderno~, io lo allegher@o or sempre, per 
+non tor quello onore a le fatiche de' suoi studii ch'elle meritano, per 
+il suo nome proprio: dice adunque il Giambullari sopra questo luogo, 
+ch'ei non @e di piccola importanza farsi nimici gli scrittori, e 
+massimamente quelli che sono di qualche credito e di qualche stima; e 
+che tal cosa sia vera, lo dimostra questo esempio di Minos. Il quale, 
+ancor ch'ei fusse figliuolo di Giove, Re de' Cretensi, e uomo tanto 
+savio ch'egli dette loro le leggi; perch@e egli fece guerra, ancor che 
+giustissima, con gli Ateniesi i quali gli ammazzarono un suo figliuolo 
+per invidia, egli si procacci@o tanto odio con tutti gli studiosi de' 
+quali Atene era in quel tempo madre, che non bastando loro di avergli 
+vituperato falsamente co' loro scritti la moglie e le figliuole, 
+messero ancor lui nello inferno, per giudice delle anime dannate; non 
+per onorarlo come giusto, poi che non vi messero n@e Solone n@e alcun 
+degli altri legislatori; ma per vituperarlo come crudele, facendolo 
+eglino solamente giudice del male. La qual cosa seguitando il Poeta 
+nostro, lo pone ancora egli a fare il medesimo offizio in questo luogo; 
+e per conformarsi ancora in qualche parte con la religione cristiana, 
+egli lo fa diavolo, dicendo che ei ringhiava orribilmente, a guisa che 
+fanno qualche volta per ira i cani, torcendo il muso, avanti ch'ei 
+comincino abbaiar forte contro a qualcuno ch'ei l'abbino in odio o 
+ch'ei ne abbino paura (ch@e cos@i significa nella lingua nostra 
+^ringhiare~); e dandogli di poi in segno di bestialit@a ancor la coda, 
+con la quale egli dice che avvinghiandosi egli manda l'anime a' luoghi 
+ch'ei giudica che meritino i lor peccati.
+
+	|7-15.~  La qual cosa volendo egli pi@u apertamente dichiarare, 
+soggiugne nuovamente:
+
+	^Dico, che quando l'anima mal nata~
+^Gli viene inanzi, tutta si confessa;~
+^E quel cognoscitor delle peccata~
+^	Vede qual luogo d'inferno @e da essa:~
+^Cignesi con la coda tante volte,~
+^Quantunche gradi vuol che gi@u sia messa.~
+^	Sempre dinanzi a lui ne stanno molte;~
+^Vanno a vicenda ciascuna al giudizio;~
+^Dicono e odono, e poi son gi@u volte;~
+
+dimostrando come questo Minos esercita il suo offizio del giudicare le 
+^mal nate~, cio@e infelici, anime che gli arrivono innanzi, in questa 
+maniera, che subito ciascuna confessa il suo fallo e il suo peccato; e 
+allora egli che ne @e conoscitore e giudice, veggendo qual luogo dello 
+Inferno ella merita, si cigne il dosso tante volte con la coda, 
+^quantunche gradi~, per quanti (per quella figura la qual concede il 
+poter aggiugnere a una parola una sillaba) ei vuole ch'ella sia ^messa 
+gi@u~, cio@e nel fondo dell'Inferno. E per tal cagione dice che ne 
+stanno sempre inanzi a lui molte; le quali subito ch'elle hanno 
+confessato il lor peccato, e udita, cio@e veduta, dar la sentenzia nel 
+modo detto, ^son volte~, cio@e tirate, da la divina giustizia al luogo 
+ove elle son giudicate. La qual cosa egli conferma ancor chiaramente di 
+sotto, nel ventisettesimo capitolo di questa medesima cantica, 
+facendosi dire da l'anima del Conte Guido da Montefeltro, la quale era 
+nell'ottavo cerchio dell'Inferno:
+
+	^A Minos mi port@o; e quegli attorse~
+^Otto volte la coda al dosso duro....~
+^Per che io l@a dove vedi son perduto.~
+
+Significa adunque Minos, dicono gli espositori, e pi@u distintamente di 
+alcuno altro il Giambullari, nello inferno essenziale la divina 
+giustizia, e nel morale quel rimorso della conscienza, che ha ciascuno 
+nel principio del peccato, espresso da lui per il ringhiare, e che di 
+poi col fine, significato da lui per la coda, fa conoscere a ciascuno 
+la pena e il biasimo ch'ei merita Ed @e posto da 'l Poeta in questo 
+secondo cerchio dello Inferno, e non nel primo, cio@e nel Limbo; 
+perch@e l'anime che sono nel Limbo non possono aver tal rimorso della 
+conscienza. E la ragione @e perch@e quelle, che usciron di vita inanzi 
+gli anni della discrezione, non conobbero n@e il bene n@e il male; e 
+quelle di coloro che vissero moralmente non fecer cosa di che elle si 
+abbino a pentire.
+
+	|16-21.~  A questo luogo arrivato adunque il Poeta nostro, Minos 
+subito ch'egli lo vide gli disse, lasciando star lo uffizio del 
+giudicare:
+
+	^O tu che vieni al doloroso ospizio,....~
+^Guarda come entri, e di cui tu ti fide;~
+^Non ti vinca l'ampiezza dell'entrare.~
+
+Nelle quali parole fa il Poeta chiaramente comprendere ciascuno, quanto 
+il diavolo cerchi sempre di levare in qualunche modo l'uomo da le buone 
+opere; poi che Minos, al quale non pareva che si aspettasse altro 
+offizio che giudicare, posta da canto quella severit@a che si conviene 
+a la persona di un giudice, cerca come insidiatore e tentatore 
+spaventar Dante, che ei non proceda pi@u oltre nella virtuosa 
+speculazione de' vizii incominciata da lui; e imitando Virgilio, il 
+qual disse, parlando dello inferno, ^..... facilis descensus Averni,~ 
+dice ancora egli a Dante, che guardi come egli entra in quel luogo e di 
+chi egli si fidi, avvertendo di non essere ingannato da la ampiezza e 
+facilit@a dello entrare. Nelle quali parole dice il Landino che Dante 
+dimostra con maravigliosa dottrina, che l'uomo pu@o bene da s@e stesso 
+con la libert@a del suo arbitrio entrar ne' vizii, ma ch'egli non ne 
+pu@o gi@a poi uscire, senza la grazia e lo aiuto divino.
+
+	|22-24.~  A le quali parole rispose Virgilio a Minos: ^Non impedir lo 
+suo fatale andare,~ cio@e il viaggio di costui, fatto per volont@a 
+divina; non significando altro ^fato~, secondo Boezio, cristianamente 
+parlando, che la disposizione della volont@a divina circa le cose;
+
+^Vuolsi cos@i col@a, dove si puote~
+^Ci@o che si vuole, e pi@u non domandare.~
+
+E perch@e ei non si pu@o vincere e superare la malignit@a e potenza del 
+diavolo, se non in virt@u delle parole di Dio sopra delle quali @e 
+fondata la nostra fede (onde diceva Pietro apostolo, che chi voleva 
+resistere al diavolo stessi forte nella fede; e Paulo, che chi si 
+voleva difender da le sue armi pigliassi lo scudo della fede); 
+Virgilio, cercando di vestirne Dante, gli dimostra (con dire a Minos 
+che non domandasse pi@u, ch@e ei voleva cos@i colui che puote il 
+tutto), che insino alle potenze infernali obbediscono e fanno riverenza 
+al comandamento di Dio; onde fu detto da Iacobo apostolo: ^daemones 
+credunt et contremiscunt~, come mette qui il Poeta che facesse Minos; 
+il qual tacendo e quietandosi a queste parole dettegli da Virgilio, gli 
+lasci@o passare oltre.
+
+	|25-30.~  Per la qual cosa, volendo il Poeta cominciare a narrar la 
+qualit@a di questo secondo cerchio, dice:
+
+	^Ora incomincian le dolenti note~
+^A farmisi sentire; or son venuto~
+^L@a dove molto pianto mi percuote.~
+^	Io venni in luogo d'ogni luce muto....~
+
+Ove @e da notare, che se bene ei si chiaman propriamente ^note~ quei 
+caratteri con i quali i musici notano e scrivono i loro canti, ei si 
+chiamano ancor dipoi per translazione ^note~ le voci proferite secondo 
+le regole di quelli, e di pi@u di poi ancor ^note~ per similitudine 
+tutte le voci e suoni e accenti che si proferiscono con tuono pi@u alto 
+che favellando, come erano i rammarichi e le grida che facevano l'anime 
+di questo cerchio. E per@o il Poeta, arrivando a quello e non avendo 
+pi@u sentito cos@i fatti lamenti, dice: ora incominciano a farmisi 
+sentire le note e le voci piene di dolore, e ora sono io arrivato in 
+luogo, dove ^molto~, cio@e grande e profondo, pianto ^mi percuote~, 
+cio@e mi risuona nelle orecchie; usando con maravigliosa dottrina 
+questo verbo ^mi percuote~, in cambio di sentire, per dimostrar pi@u 
+propriamente il modo come si faccia e si generi nella nostra anima 
+questo effetto del sentire. Per dichiarazione della qual cosa, parlando 
+cos@i brevemente, @e da sapere che il senso dell'udito @e una delle 
+potenze della nostra anima, con la quale ella sente i romori e le voci; 
+onde ha, universalmente parlando, per obietto suo proprio il suono; e 
+ricevelo e comprendelo per mezzo d'una cartilagine e d'un panno, il 
+quale @e disteso (a guisa che stanno le carte in su i tamburi) sopra 
+uno buco dello osso petroso, il quale @e appunto posto sotto il ceppo 
+del nostro orecchio; e dentro a questo panno @e rinchiusa certa aria, 
+nata insieme con noi e mescolata con lo spirito nostro vitale. La qual 
+aria per esser, come si @e detto, nata insieme con noi, e conservarsi 
+sempre dipoi, mentre che noi stiamo in vita, in quel luogo, @e chiamata 
+da chi aria ^connaturale~, e da chi aria ^connata~. Quando adunque si 
+fa il suono, il quale e uno spezzamento e rifrangimento dell'aria 
+comune che ci @e dattorno, generato in lei dalla percussione di due 
+corpi solidi e lisci e delicati insieme, ei si va spargendo per via di 
+moto per essa aria, incominciandosi ove si @e fatto tal repercotimento, 
+in quel proprio modo che noi veggiamo ancora spargersi per l'acqua quel 
+movimento che fa un sasso o qualche altra cosa grave, quando ella vi @e 
+gittata dentro. E se egli in questo allargarsi camina tanto ch'egli 
+arrivi ed entri dentro a le nostre orecchie, e percuota quel panno, e 
+quel panno l'aria mescolata con lo spirito che noi dicemmo esser chiusa 
+dentro a quelle, questo tal percotimento muove e percuote ancora egli 
+similmente due nervi, chiamati i nervi ^uditivi~, che sono sotto il 
+cervello tirati a guisa di corde di liuto; i quali portano tal suono al 
+senso comune, il qual giudica dipoi egli e discerne che suono sia 
+quello, e da che corpi e in che modo egli @e causato; ma tutto per@o 
+con l'aiuto e col discorso della ragione. Sentendosi adunque da noi in 
+questa maniera (cos@i come si sentono i suoni) le strida e i lamenti, 
+fu dottamente detto da 'l Poeta, ch'era venuto in luogo, ove molto e 
+grandissimo pianto gli percoteva le orecchie. E questo luogo soggiugne 
+egli dipoi ch'era ancora privo d'ogni luce, e oscurissimo, usando 
+questa voce ^muto~ con la medesima licenza ch'ei disse di sopra, come 
+noi mostrammo nello esporre allora quel luogo: ^Mi ripigneva l@a dove 
+il sol tace;~ e oltre a di questo, rispetto a quei lamenti i quali 
+erono suoni e strida indeterminate e spaventevoli, era simile a 'l 
+mare, quando ei mugghia ^Se da contrarii venti @e combattuto.~ E qui 
+ponendo il Poeta fine al ragionar pi@u della qualit@a del luogo, 
+porremo fine ancor similmente noi a questa lezione.
+
+	|31-33.~  [LEZIONE SECONDA]
+
+	^La bufera infernal, che mai non resta,~
+^Mena gli spirti con la sua rapina,~
+^Volando e percotendo gli molesta.~
+
+Se quegli che hanno biasimato Dante, dicendo ch'egli non ha usato in 
+questa sua opera quello stile alto, candido e bello, e quelle parole 
+dolci, terse e leggiadre, che hanno fatto ne' loro poemi molti altri 
+poeti volgari, fiorentini e toscani e di qual si voglia altro paese, 
+avesser considerato un poco con pi@u diligenza il termine nel quale si 
+truovava la nostra lingua quando egli scrisse, la poca notizia che si 
+aveva delle cose de' Greci e de' Latini, e la materia e la qualit@a del 
+soggetto della opera, io non credo mai che il lor giudizio si fosse 
+tanto ingannato, ch'ei si avesser lasciato uscir di bocca simili 
+parole. Imper@o che la nostra lingua, ch'@e la prima cosa ch'ei 
+dovevano considerare, era in quei tempi tanto rozza e tanto povera, 
+ch'ei fu pi@u tosto cosa da ammirarla che da crederla, che Dante 
+facesse con quella una opera piena de' pi@u alti e pi@u dotti concetti 
+che si trovino in filosofia, in teologia, in matematica, in astrologia 
+e in molte altre scienze ed arti, delle quali non era stato mai pi@u 
+favellato altro in tal lingua, che quel poco che fece Ser Brunetto 
+Latini, suo maestro, nel suo ^Tesoro~. Onde avvenne propiamente a lui 
+come a Lucrezio, il qual volendo scriver quando la lingua romana non 
+era in quella perfezione, nella quale ella venne dopo lui, delle cose 
+di filosofia, ove egli era obbligato a non poter uscire e andar vagando 
+fuori de' termini di tal dogma, non potette e per l'una e per l'altra 
+cagione trattar delle cose naturali con quella altezza e bellezza dello 
+stile, che fece Virgilio nel suo tempo, che la lingua era in molto 
+maggior perfezione, delle cose favolose di Enea; n@e con quella 
+candidezza e leggiadria, che fecer Catullo e Tibullo i loro amori; 
+nella qual cosa ei non eran necessitati se non a dir quei concetti i 
+quali pareva lor potere esprimer con belle e dolci parole; il che non 
+avviene a chi si obbliga a voler scriver cose appartenenti a qualche 
+scienza, avendo ciascuna di quelle i suoi termini e le sue voci 
+particulari, non cos@i grate molte volte o per la novit@a o per il lor 
+suono a l'orecchio, come son le voci e le parole amorose; della qual 
+cosa si vede manifestissimo esempio in Manilio e in Quinto Sereno, che 
+scrissero in versi, l'uno cose di astrologia, e l'altro di medicina. E 
+chi vuole accertarsi quanto questo ch'io ho detto sia vero nel Poeta 
+nostro, consideri se non tutti gli scrittori che furon inanzi a lui, o 
+ancor ne' tempi suoi medesimi, almanco i pi@u famosi e i pi@u pregiati; 
+e conoscer@a manifestamente che Dante inalz@o e miglior@o molto pi@u 
+egli la lingua nostra da lo stato nel qual ella era inanzi, che non ha 
+fatto dipoi mai alcuno altro scrittore da 'l termine, ove la pose egli, 
+a quel ch'ella @e stata o @e al presente. E a chi opponesse a questa 
+nostra opinione il Petrarca, il qual la condusse a quella altezza ove 
+forse ella non pu@o salir pi@u su, si risponde che egli @e maggior 
+differenza da la imperfezione a la perfezione che la condusse Dante, 
+che da quella a dove la condusse dipoi dopo Dante il Petrarca; e oltre 
+a di questo, che il Petrarca ebbe inanzi a s@e un Dante, il quale gli 
+fece maggior lume che non avevan fatto a Dante tutti quelli che furono 
+inanzi a lui; e il Petrarca stesso lo confessa, avendolo egli messo ne' 
+suoi ^Trionfi~ inanzi a Guittone d'Arezzo, a Cino da Pistoia, a Guido 
+Cavalcanti, a Guido Guinizzelli e a tutti gli altri scrittori di rime 
+toscane che fussero stati insino a' tempi suoi. La seconda cosa, la 
+quale dovevano considerar costoro, @e la poca notizia che si aveva in 
+quei tempi, rispetto a lo essersi, non che smarrite, perdute quasi 
+affatto la lingua greca e la latina, delle scienze e delle buone arti, 
+e particularmente della retorica e della poetica. Onde come ei non 
+arebbero mai fatte i Latini cos@i belle e perfette le loro opere, se ei 
+non avesser vedute le cose de' Greci ch'ei viddero, con le quali eglino 
+arricchirono e onorarono tanto la lingua loro, cos@i non potevano ancor 
+similmente fare i volgari belle e perfette in quei tempi le loro, non 
+avendo vedute le cose de' Latini. La terza e ultima cosa ch'ei dovevano 
+considerare, era la materia e il soggetto della opera di Dante, e 
+quella di tutti gli altri poeti volgari; i quali, o eglino scrivono 
+concetti amorosi in canzoni, sonetti, madrigali e altri poemi simili, i 
+quali oltre al non essere obligati alla continuazione (con ci@o sia 
+cosa ch'ei possino dire quando ch'erano lieti, e quando ch'erano mesti, 
+e quando lodarsi e quando dolersi di amore, secondo che aggrada pi@u 
+loro e ch'ei veggon di poter dir pi@u leggiadramente), ei possono 
+finire ove ei vogliono le loro opere, ch'elle son sempre perfette, e se 
+eglino hanno fatto per grazia di esempio cento sonetti, mandarne a luce 
+solamente quei tanti che piaccion pi@u loro, o ch'ei giudicon che sian 
+pi@u belli e migliori: o eglino scrivon battaglie o cose fabulose, ove 
+avendo eglino un soggetto vago e indeterminato, ei possono attender 
+molto pi@u a l'ornamento dello stile e a la bellezza delle parole, che 
+non poteva far Dante, volendo egli trattar di questi tre regni, 
+Inferno, Purgatorio e Paradiso, ne' quali si contengono tante varie e 
+diverse cose, e oltre a di questo non potendo egli finire a sua posta 
+come loro, ma avendo a fare una opera intera e continovata, simile a un 
+corpo composto di diverse parti, ma eterogenee e dissimilari, come @e 
+verbigrazia un corpo umano, il quale @e composto di ossa, di carne, di 
+nervi, di musculi e di molte altre varie cose; e non un corpo omogeneo 
+e composto di parti similari, come @e verbigrazia l'acqua e la terra, 
+le parti de' quali corpi son tutti acqua e terra. Onde volendo 
+osservare quel decoro che si conveniva a ciascuna parte e a ciascuna 
+persona ch'egli introduce in quella, gli bisogna usare quando stile 
+basso, quando mediocre, quando alto, quando dolce, quando aspro, quando 
+facile e quando duro; e cos@i ancor similmente, per esprimer meglio e 
+con maggior propiet@a i suoi concetti, parole e basse e mediocri e alte 
+e aspre e dolci e straniere e nuove; per non si esser, come io dissi di 
+sopra, pi@u trattato di tali cose in lingua volgare, e oltre a questo 
+perch@e la poesia in simili opere lo concede; le quali parole, se bene 
+elle esprimono meglio il concetto del Poeta, che non farebbono quelle 
+dolci e leggiadre che dicono costoro che hanno usato molti altri poeti 
+volgari, elle non arrecono altrui a gli orecchi quella dolcezza e quel 
+diletto che arrecono quelle. Laonde se Dante, avendo a trattar di cose 
+s@i alte, attese in questa sua opera molto pi@u a esprimere bene i 
+concetti, che alla bellezza e dolcezza delle parole, egli debbe e 
+merita di esser di tal cosa lodato, e non biasimato come fanno questi 
+suoi calunniatori. E se ei fu tanto lodato Virgilio suo maestro, quando 
+per esprimer la paura ch'ebbe Enea nel vedersi apparire inanzi, mentre 
+che Troia andava a ferro e a fuoco, l'ombra di Creusa sua moglie, la 
+quale ei non sapeva che fusse stata morta, ei disse: ^Obstupui, 
+steteruntque comae....~ mutando quello ^steterunt~, il quale @e di sua 
+natura lungo, in breve, per dimostrar quanto se gli arricciarono per la 
+paura subitamente i capelli in capo; debbe ancor similmente esser 
+lodato Dante, usando egli nel descriver gli accidenti di questa sua 
+opera parole, o per natura loro stessa o per licenza di qualche figura, 
+tanto proprie e tanto accomodate alla materia ch'ei tratta, al luogo 
+ove ei si trova, o alle persone ch'egli introduce, ch'ei non @e 
+possibile immaginare, non che dir meglio; e massimamente, lasciando 
+star per ora gli altri due regni, in questo dello Inferno, ove ei si 
+serve spessissime volte, pel porci innanzi alli occhi della mente con 
+maggior efficacia i tormenti e le pene delle anime dannate, di parole 
+tanto orribili e tanto crude, ch'elle fanno non manco arricciare i 
+capelli a chi le considera, che si facesse (come noi dicemmo di sopra) 
+nella rovina di Troia la immagine di Creusa a Enea. E ne abbiamo un 
+manifestissimo esempio nel testo che noi abbiamo a leggere oggi; ove 
+volendo egli dimostrare quanto fosse grande e tempestoso il vento, da 
+'l quale son per pena del lor peccato trasportati in questo secondo 
+cerchio in qua e in l@a, percotendosi e urtando miserabilmente l'un 
+nell'altro, senza aver mai posa, i peccatori carnali, egli lo chiama 
+^bufera~. Il significato della qual voce volendo noi esprimere, 
+lasciando star quanto ne dice il Landino, il qual vuole ch'ella 
+significhi quando il vento trasporta e aggira con rapina in qua e in 
+l@a la neve che cade in su le montagne, e conoscendo di non poter far 
+tal cosa meglio che si facesse in questo luogo il Boccaccio, vi 
+reciter@o le parole sue proprie, le quali son queste:
+	<La bufera, se io ho ben compreso, nel parlar usato delle genti @e un 
+vento impetuoso, il quale percuote, abbatte e rompe ci@o che se gli 
+para dinanzi, ed @e quello (se io comprendo bene) che Aristotile 
+chiama, nelle ^Meteore~, Enefia. Ed @e causato questo vento, come sono 
+ancora gli altri, da esalazioni calde e secche, levantesi da terra e 
+saglienti in alto; le quali come elle pervengono su nell'aria e 
+truovano qualche nugola, dalla frigidit@a della quale elle sieno 
+cacciate e ripinte indietro con impeto, elle divengono vento, non 
+solamente impetuoso, ma valido, potente e di tanta forza, che egli, per 
+quella parte ove ei discorre, abbatte case, sveglie e schianta arbori, 
+e percuote e uccide e uomini e animali. Ed @e il vero, ch'egli non @e 
+universale e non dura molto; inanzi discorre, a guisa di una striscia, 
+vicino al luogo ove egli @e creato. E quanto pi@u da 'l suo principio 
+si dilunga, pi@u diviene di mano in mano debole, insino a tanto che fra 
+poco tempo ei si risolve tutto.>
+	Sino a qui dice il Boccaccio. Le parole del quale, se elle saranno ben 
+considerate, faranno conoscere chiaramente a ciascuno, che il Poeta 
+nostro non poteva esprimere con voce alcuna pi@u propia la natura di 
+questo vento, che menava con la sua rapina in qua e in l@a, volando in 
+questo cerchio, i peccatori carnali a percuotersi l'un l'altro, che 
+chiamandolo, come egli ha fatto, ^bufera~ (perci@o che questa tal voce 
+ha molto maggior forza, e meglio esprime il suo impeto e il suo furore, 
+che non farebbe se egli lo avesse descritto con quella leggiadria, che 
+fanno i loro, gli altri poeti toscani o volgari, chiamandogli quando 
+impetuosi, quando crudi, quando importuni e quando rabbiosi), e 
+soggiugnendo, per esprimer ancor meglio quanto ella fosse cruda e 
+orribile, ch'ella ^non resta mai~, ma dura sempre nella maniera 
+medesima. Imper@o che dove nelle bufere, che accaggiono a noi, la 
+speranza ch'elle abbino a durar poco (ch@e cos@i @e, come voi 
+intendeste di sopra, la lor natura) ce le fa parer manco crude e manco 
+da averne paura, il saper che questa ha a durar eternamente la fa, per 
+il contrario, molto pi@u paurosa e pi@u spaventevole. Nella qual 
+clausula, se voi esaminate bene ciascuna delle sue parti, egli non 
+solamente descrive questo vento cos@i impetuoso, come poeta, ma egli 
+dichiara la sua natura, come filosofo, e definiscelo, come logico; 
+ponendo primieramente, in luogo del genere, cio@e di vento, ^bufera~; 
+di poi, in quel della specie, ^infernale~; e ultimamente, in quel della 
+differenza propia, ^che mai non manca~; mediante la qual cosa, se voi 
+considerate ora nuovamente bene questi tre versi:
+
+	^La bufera infernal, che mai non resta,~
+^Mena gli spirti con la sua rapina,~
+^Volando e percotendo gli molesta,~
+
+ei vi parr@a propiamente veder realmente e in fatto quelle infelici 
+anime esser menate, volando, dalla rapina di quella bufera e di quel 
+vento cos@i impetuoso a percuotersi miserabilmente, senza aver mai 
+posa, l'una ne l'altra. Onde voi sarete finalmente forzati a 
+confessare, che in questo Poeta sia, oltre a la dottrina e alla 
+grandezza de' concetti, tanto grande l'arte nel sapere esprimergli, che 
+questi ai quali piacciono pi@u quegli altri poeti (che cercando molto 
+pi@u dilettare che giovare, scrivon con pi@u leggiadria e pi@u eleganza 
+ch'ei sanno concetti e pensieri dolci d'amore) che non piace Dante, si 
+possono assomigliare a quegli a' quali piacciono pi@u, per la vaghezza 
+de' colori e per la variet@a de' paesi che sono in quelle, le pitture 
+fiandresche (per darvi uno esempio nella pittura, la quale @e tanto 
+simile alla poesia, che le pitture si chiamano poesie che non parlano, 
+e le poesie pitture che parlano), che non farebbe un quadro di 
+Michelagnolo, ove fussero in un campo scuro, e d'un color solo, che 
+figure si volessero, che mostrassero, come egli @e solito fare, e con 
+le attitudini e con gli scorci, che l'arte, se ella potesse dare alle 
+cose ch'ella fa la vita e il moto, come fa la natura, ella non arebbe 
+da vergognarsi punto da lei; senza considerare, oltre a di questo, 
+quanto ei sia maggiore arte il fare uno uomo, ch'@e una delle pi@u 
+belle cose che facesse mai la natura, che stia bene e secondo il 
+naturale, che non @e il fare un paese o un arbore o un prato fiorito. 
+N@e sia alcuno che si maravigli che io abbia cos@i detto di 
+Michelagnolo pi@u tosto che d'uno altro; ch@e io l'ho fatto per parermi 
+ch'ei tenga quel luogo fra i pittori, che tiene Dante fra i poeti.
+
+	|34-36.~  E giudicando che sia detto ormai a bastanza in defensione di 
+questa voce ^bufera~, che non pare ad alcuni cos@i leggiadra come ei 
+vorrebbono, torneremo al testo. Ove il Poeta chiama con considerazion 
+grandissima questa pena de' peccatori carnali generalmente ^rovina~, 
+potendosi chiamar con gran ragione ^rovinate~ tutte quelle cose che 
+conseguitan contrario fine a quel per il quale elle sono state fatte e 
+ordinate, come queste infelici anime. Le quali egli dice che per tal 
+cagione, dimostrando con tale atto d'animo efferato e bestiale ancor 
+maggiormente la lor pena e la lor miseria, che bestemmiavano, piangendo 
+e lamentandosi continovamente, la bont@a divina, chiamando Dio crudele 
+e ingiusto, e per altri cos@i fatti nomi che non gli convengono; non 
+essendo altro, come voi sapete, la bestemmia, che il torre o il dare a 
+Dio quel che non gli conviene.
+
+	|37-39.~  E cos@i avendo finalmente descritto, nella maniera che voi 
+vedete, la mala contentezza e la pena di queste anime, egli incomincia 
+ora a narrar distintamente la colpa per la quale elle sian dannate a 
+tal pena, dicendo:
+
+	^Io intesi che a cos@i fatto tormento~
+^Eran dannati i peccator carnali,~
+^Che la ragion sommettono al talento;~
+
+dimostrando come in tal peccato (e per@o il pi@u delle volte par che ei 
+dispiaccia a l'uomo, poi ch'egli lo ha commesso) si sottomette al tutto 
+la ragione alla voglia e al piacere; ch@e cos@i significa ancor questa 
+voce ^talento~ nella lingua nostra, e lo dimostra chiaramente il nostro 
+Poeta pi@u gi@u, quando egli dice di M. Farinata Cavalcanti:
+
+	^D'intorno mi guard@o, come talento~
+^Avesse di veder s'altri era meco.~
+
+Per notizia delle quali parole @e da sapere, che come l'anima nostra ha 
+due potenze che conoscono, e queste sono il senso e l'intelletto, cos@i 
+ne ha ancor similmente due che appetiscono, che sono lo appetito e la 
+volont@a; ch@e lo appetito serve al senso, onde cerca il delettabile; e 
+la volont@a allo intelletto, onde cerca il vero, e conseguentemente il 
+bene. Per la qual cosa, seguitandosi nel peccato carnale l'appetito e 
+la concupiscenza, e non la ragione ch'@e la scorta dell'intelletto, il 
+Poeta dice (come voi avete sentito nel testo) che i peccatori carnali 
+sottomettono la ragione al talento e al piacere; e perci@o son 
+condannati da la divina iustizia a tal pena.
+
+	|40-45.~  La qual volendo egli pi@u apertamente descrivere, narra con 
+una bellissima similitudine il modo, come ei son menati da la rapina di 
+quella bufera, volando e percotendosi insieme, dicendo:
+
+	^E come gli stornei ne portan l'ali~
+^Nel freddo tempo, a schiera larga e piena,~
+^Cos@i quel fiato gli spiriti mali~
+^	Di qua, di l@a, di gi@u, di su gli mena;~
+^Nulla speranza gli conforta mai,~
+^Non che di posa, ma di minor pena;~
+
+dimostrando che, come l'ali loro ne portono gli stornegli in varie 
+parti del mondo nella stagion fredda e nel tempo del verno (perci@o che 
+nel tempo della state stanno eglino in luoghi, che noi non gli 
+veggiamo) a schiera ^larga e piena~, cio@e grande e folta, per aver 
+eglino in costume di volar sempre assai insieme; per la qual cosa non 
+trovando eglino, per essere tanti, ove poi ei si posano, da cibarsi 
+copiosamente, son sempre quasi tutti magri; cos@i quel vento impetuoso, 
+chiamato per variet@a ora ^fiato~, dice che mena di l@a e di qua, e di 
+gi@u e di su, questi spiriti ^mali~, cio@e rei e dannati. I quali, 
+oltre a tal pena, dice che hanno ancor questo altro tormento, ch'ei non 
+hanno ancora, onde ei possin prender conforto, speranza alcuna, non che 
+di posarsi, di non avere a sentire giammai minor pena di quella.
+
+	|46-51.~  Dopo la qual cosa egli soggiugne ancora e narra, con 
+un'altra bellissima comparazione, il modo com'egli vide venir verso di 
+s@e una schiera di questi spiriti, dicendo:
+
+	^E come i gru van cantando i lor lai,~
+^Facendo in aer di s@e lunga riga,~
+^Cos@i vidi io venir, traendo guai,~
+^	Ombre portate dalla detta briga.~
+
+Scrive Plinio nel decimo libro della sua ^Istoria naturale~, trattando 
+de' gru (uccelli, ancor che peregrini e forestieri, per la lunghezza 
+grande del collo e del becco notissimi a ciascuno), che quando eglino 
+si partono dal loro luogo per venire a noi, ch'@e nel tempo 
+dell'autunno, eglino eleggono di comun concordia un di loro per scorta 
+e guida. Il quale subito ch'egli si vede cos@i eletto (il che eglino 
+fanno con lo applaudargli con la voce e con i gesti, cantando e 
+battendo l'ali e aggirandosigli attorno), egli si muove e si eleva 
+molto in alto per scoprire pi@u paese. E di quivi cominciando, verso 
+quella parte che gli aggrada, a volare, gli altri lo seguitano tutti, 
+facendo quasi sempre di loro una riga e un filo solo, o al pi@u due a 
+guisa di un sesto, nel capo e nel principio del quale sta quel che gli 
+guida, e di poi nel fine uno altro, ma scambievolmente e a vicenda, che 
+grida a ogni poco per mantenergli in fila ed in ordinanza; e questo 
+medesimo dice che fa ancor la guardia quando ei si posono, stando 
+vigilante ch'ei non sieno offesi da cosa alcuna a lo improviso; e per 
+non si addormentare, quando dormono gli altri poi che si son cibati, 
+egli sta ritto in su un pi@e solo, e tiene nell'altro, ch'egli ha 
+sospeso, un sasso il quale, quando pure ei si addormentassi, cadendogli 
+in terra lo desti; della qual cosa si serv@i tanto piacevolmente, 
+quanto voi sapete, nelle sue novelle il Boccaccio. E per@o gli Egizii, 
+quando ei volevano figurare ne' loro ieroglifici la custodia e la 
+vigilanza, dipignevano un gru in questa maniera. E perch@e quelle voci, 
+che mettono i gru mentre che ei volano, hanno un certo tuono che tiene 
+del pietoso e del lamentevole, egli le chiama ^lai~, cio@e versi 
+dolorosi e mesti; ch@e cos@i dice il Boccaccio, che significa in lingua 
+franzese questa voce; per la qual cagione egli chiama ancor 
+medesimamente ^lai~ altrove i canti delle rondini, dicendo:
+
+	^Nella ora che incominciai i tristi lai~
+^La rondinella presso a la mattina,~
+^Forse a memoria de' suoi primi guai,~
+
+seguitando Ovidio, il quale scrive nel suo ^Metamorfosi~, che la 
+rondine fu una figliuola di Pandione, re degli Ateniesi; la quale, per 
+vendicare l'ingiuria che aveva fatto Atreo suo sposo a Filomena sua 
+sorella, gli d@ette mangiare il proprio figliuolo; della qual cosa 
+accorgendosi egli, per vederle macchiato il petto di sangue, si lev@o 
+da mensa per ammazzarla; da la qual furia volendo scamparla gli Dei, 
+dice che la trasmutarono in rondine; e per questa cagione ella ha quel 
+rosso nel petto, e abita dimesticamente con noi nelle case, e si 
+lamenta cantando, dice il Poeta nostro, a memoria de' suoi guai. In 
+quella maniera adunque che volano a schiera i gru (uccelli, come voi 
+avete veduto, molto amichevoli l'uno con l'altro, e per tal cagione 
+presi per comparazione da 'l Poeta), dice egli che vide venire verso 
+s@e, traendo e mettendo guai e lamenti, una schiera di quelle ombre, 
+portate da la briga e da la rapina di quella bufera; la quale @e 
+finalmente la pena, con la quale (imitando Virgilio, quando disse:
+
+^...... aliae panduntur inanes~
+^Suspensae ad ventos.....~)
+
+egli mette che siano punite l'anime dei peccatori carnali; pene 
+certamente molto convenienti, come dicono gli espositori, a tal 
+peccato. Imper@o che volendo la divina giustizia che ogni peccato sia 
+punito con conveniente pena, e peccandosi in questo vizio non solamente 
+col senso del tatto, ma con quel del vedere e dello udire, in cercar 
+tutte quelle delicatezze che arrechino diletto a tali sentimenti, ella 
+ha ordinato (oltre al percuotersi l'una l'altra, ch'elle fanno, portate 
+da la furia e rapina di quella bufera, senza speranza alcuna ^Non che 
+di posa; ma di minor pena,~ per punizione del senso del tatto), che il 
+luogo sia privo al tutto d'ogni luce per punizione di quel del vedere, 
+e ch'ei mugghi per le strida e per i lamenti loro, a guisa che fa nelle 
+tempeste il mare, per punizione di quel dello udire. Le quali cose 
+tutte si scorgono e si verificano, ancor moralmente parlando, come 
+scrive Benvenuto da Imola, ne' peccatori carnali e ne' lussuriosi, 
+abituati e confermi in tal vizio. Imper@o che lo essere il luogo oscuro 
+significa che, dove domina questo incendio della carne, si spegne o 
+almeno si offusca il lume della ragione; e i venti contrarii, che gli 
+trasportono violentemente percotendosi l'uno l'altro in qua e in l@a, 
+gli ardori, i travagli e i dispiaceri, che molestano altrui e inanzi e 
+da poi che si @e ottenuto il suo desiderio; onde disse 
+elegantissimamente il Poliziano in un suo epigramma, trattando di tal 
+passione:
+
+	^Urit in affectu Venus anxia; sordet in actu;~
+^Polluit et tota quando patratur opus.~
+^	Post factum fecisse piget; cito praeterit illud~
+^Quod iuvat; aeternum quod cruciabit erit.~
+
+Ove notando il Leneo Bolognese, che il Poeta dice: ^Di qua, di l@a, di 
+gi@u, di su gli mena.....~ raccontando quasi tutte le posizioni de' 
+luoghi che pongono i filosofi, dice ch'egli vuol dimostrare 
+allegoricamente, ch'ei non @e pericolo alcuno n@e di fama n@e di 
+ricchezza n@e di disagi, insino a quel della propria vita, nel qual non 
+sieno trasportati da questa passione coloro che si lascion troppo 
+superare e vincer da lei. E i lamenti e le strida che fanno mugghiar 
+quel luogo a guisa del mare quando egli ha tempesta, insieme con il 
+bestemmiar che fanno quelle anime quando elle son giunte a questa 
+rovina, la mala contentezza e la disperazione nella quale stanno sempre 
+quegli, che non solamente lascion combatter del continovo la carne con 
+lo spirito, ma lo lascion vincere e superar da lei. E queste pene 
+avendo finalmente vedute e considerate il nostro Poeta, e di pi@u 
+essendo divenuto desideroso di saper chi fussero particularmente quelle 
+ombre, chiamate da lui ^genti~, che punite e castigate in quello aere 
+oscuro venivano cos@i verso loro, ne dimand@o Virgilio;
+
+	|52-54.~  il quale gli rispose, come la prima di quelle, ch'ei voleva 
+saper nuove, ^Fu imperatrice di molte favelle.~ E questa fu, come egli 
+dimostra pi@u chiaramente di sotto chiamandola per nome, Semiramis 
+regina degli Assirii, chiamata da lui ^imperatrice di molte lingue~, 
+perch@e a quel regno eran sottoposte molte provincie e molti diversi 
+popoli.
+
+	|55-60.~  La qual Semiramis fu tanto inclinata, come si legge nella 
+sua istoria, a' diletti venerei, che per potere cavarsi senza infamia e 
+biasimo de' suoi popoli liberamente tutte le voglie sue, ella fece per 
+legge publica ch'ei fosse lecito a ciascuno, senza rispetto di grado o 
+di sanguinit@a o di cosa alcuna, far tutto quello che gli piacesse 
+nelle cose veneree. Onde soggiugne Virgilio: ^Al vizio di lussuria fu 
+s@i rotta,~ che ^il libito~ (cio@e tutto quel che piace) fe' ^licito~ 
+in sua legge ^Per torsi il biasmo in che era condotta.~ E volendo, 
+detto questo, descriver la citt@a di Babilonia (la quale @e la citt@a 
+regale, dove ella teneva la residenza sua, e dove ella era successa, 
+regnando, a Nino suo sposo), egli la chiama la terra che il Soldano 
+^corregge~, cio@e governa; perci@o che in quella sta la somma podest@a 
+e il supremo principe di quel regno, che significa questa voce 
+^Soldano~ in lingua Caldea.
+
+	|61-63.~  E da poi ch'egli gli ha mostro costei, egli gli mostra ancor 
+similmente Dido, regina di Cartagine, descrivendola (per seguitar 
+Virgilio) da lo essersi ella morta per aver rotta la fede a Sicheo suo 
+marito, in accettar Enea, quando egli fuggendo da la rovina di Troia 
+pass@o in Italia; ancora che la verit@a fusse ch'ella si ammazzasse per 
+osservargli la fede della viduit@a, essendo ella tanto molestata di 
+rimaritarsi da alcuni principi suoi vicini, ch'ella non poteva pi@u far 
+resistenza a i preghi e a le forze loro. Onde disse il nostro M. F. 
+Petrarca, mettendola nel suo ^Trionfo della castit@a~:
+
+	^Poi vidi fra le donne peregrine~
+^Quella che per lo suo diletto e fido~
+^Sposo, non per Enea, volse ire al fine:~
+^	Taccia il vulgo ignorante; io dico Dido,~
+^Cui studio di onestate a morte spinse,~
+^Non quel di Enea, come @e il pubblico grido.~
+
+	|64-72.~  Dopo la quale egli gli dimostra, come noi usiamo dire, ^a 
+dito~, cio@e accennandole col dito, Cleopatra, Elena, Achille, Paris, 
+Tristano (le istorie de' quali pu@o veder ciascuno che vuole e nel 
+Landino e nel Vellutello), e pi@u di mille altre ombre, delle quali 
+egli dice (chiamando, come fa ancora il vulgo, questo peccato della 
+carne, per le cagioni che noi diremo in questa altra lezione, ^amore~), 
+^Ch'amor di nostra vita dipartille,~ cio@e le condusse per varii 
+accidenti a morte. Le quali nobili donne e famosi cavalieri udendo egli 
+nominare, dice: ^Piet@a mi giunse, e fui quasi smarrito,~ dimostrando 
+come egli rest@o quasi fuora di s@e, per la piet@a e compassione che 
+gli venne al cuore, non perch@e elle fussero dannate a tal pena da la 
+volont@a divina (a la qual noi non dobbiamo in modo alcuno opporci; ed 
+egli medesimo lo dimostr@o, quando ei disse:
+
+^Chi @e pi@u scelerato di colui~
+^Che al giudizio di Dio passion porta?~)
+
+ma per conoscere che questo @e un peccato, il qual non nasce da 
+malignit@a di mente o efferit@a d'animo, come fanno quegli che nocendo 
+e offendendo il prossimo guastano e rovinano il consorzio umano, ma 
+nasce da una umanit@a, e se ei si pu@o dir cos@i, da una certa 
+benignit@a e dolcezza di natura e di sangue. Onde si vede comunemente 
+che gli uomini carnali son molto manco avari e crudi e maligni, e molto 
+pi@u liberali e amorevoli e discreti, che gli altri. E oltre a questo 
+@e tanto inserto e piantato naturalmente in noi, ed @e tanto nostro 
+domestico, come noi dicemmo nella lezione passata, questo affetto, 
+ch'ei par che l'uomo sia alquanto scusabile, quando egli @e vinto da 
+lui. E lo dimostr@o chiaramente quello uomo, che Dio disse aver trovato 
+secondo il cuor suo; il quale, da poi ch'egli ebbe chiesto perdono a 
+Dio dallo adulterio ch'egli aveva commesso, dicendogli:
+
+^Miserere di me, Signore Dio,~
+^Secondo la tua grande alta pietade,~
+
+egli soggiunse, con una certa sicurt@a reverente, in sua escusazione:
+
+	^Ecco in peccato, oim@e, concetto fui,~
+^E mi accese al peccar la madre mia;~
+
+ch@e cos@i tradusse il nostro diligentissimo Lenzoni, seguitando la 
+traduzione di alcuni moderni; la qual, dove l'antica dice: ^et in 
+peccatis concepit me mater mea~, ha: ^et mater mea concepit me pronum 
+ad malum, vel inclinatum ad peccandum~; ch@e cos@i dicono che dice la 
+verit@a ebrea.
+
+	|73-75.~  Da questa compassione d'animo commosso adunque il nostro 
+Poeta, voltosi a Virgilio, dice come voi avete nel testo:
+
+	^Incominciai: poeta, volentieri~
+^Parlerei a quei due, che insieme vanno,~
+^E paion s@i al vento esser leggieri;~
+
+dimostrandogli (e ci@o era fatto da lui per sfogare alquanto, 
+ragionando con loro, quella compassione che gli era venuta di loro 
+nello animo) come egli arebbe parlato molto volentieri a due ch'egli 
+vedeva andare volando insieme tanto velocemente, ch'ei parevan molto 
+pi@u leggieri a quel vento, che gli altri; per la qual cosa era ancora 
+divenuto pi@u desideroso di parlar loro, che a gli altri. A la qual 
+domanda noi indugieremo a sentir quel che rispondesse Virgilio, per non 
+esser oggi pi@u lunghi, nella prima lezione che verr@a.
+
+	|76-78.~  [LEZIONE TERZA]
+
+	^Ed egli a me: vedrai, quando saranno~
+^Pi@u presso a noi; e tu allor gli prega~
+^Per quello amor che ei mena, ed ei verranno.~
+
+Chi vuol conoscere quanto gli uomini abbino comunemente in odio l'esser 
+biasimati (essendo la infamia una specie di disonore, e lo onore @e 
+desiderato per natura da ciascuno), consideri, infra le azioni loro, 
+particularmente questa: che tutti quegli che sono di sano intelletto 
+non solamente difendono e scusano, con pi@u ragioni ch'ei possono, 
+quelle passioni della parte loro o concupiscibile o irascibile, le 
+quali ei conoscono essere in loro tanto potenti ch'ei non posson fare 
+senza grandissima difficult@a, se bene elle arrecono loro biasimo, 
+ch'ei non cedino qualche volta a la loro forza; ma ei mutono loro i 
+nomi, e pongonne loro alcuni o equivoci o metaforici e somiglianti, i 
+quali le rendono in qualche parte lecite e giuste, o almanco pi@u 
+comportabili e manco degne di biasimo, che non fanno i loro propii. 
+Laonde lo avaro, oltre al mostrar che le ricchezze son tanto necessarie 
+a la vita umana, ch'egli @e somma prudenza il ragunarne, e ragunate che 
+altrui ne ha, non le spendere acciocch@e elle non manchino di poi 
+altrui nella vecchiezza, quando ei se ne ha maggior bisogno, e che 
+altrui non @e pi@u a tempo a guadagnarne, chiama sempre l'avarizia o 
+cura diligente delle cose familiari o masserizia utilissima. E lo 
+iroso, oltre al mostrare che lo accendimento del sangue, che @e la 
+cagion material della ira, @e uno sprone a la volont@a nelle imprese 
+onorate, ma ardue e difficili, e che il non far resistenza e non 
+vendicar le ingiurie @e cosa d'animi effeminati e vili, chiamer@a la 
+ira fortezza o generosit@a di animo. N@e accaggiono queste cose, 
+secondo che pu@o giudicarsi, solamente oggi; ma elle dovettero essere 
+cos@i sempre, poi che Salustio referisce che quel santissimo vecchio di 
+Catone si doleva grandemente, in quella orazione ch'egli fece nel 
+Senato Romano sopra la coniura di Catilina, che la loro Republica 
+avessi di gran tempo innanzi smarriti i veri nomi delle cose. Con ci@o 
+sia che il donar i beni d'altrui si chiamasse comunemente liberalit@a, 
+e l'audacia delle cose ree e fare ingiuria ad altri, audacia. Ma infra 
+le altre passioni umane a le quali gli uomini hanno posto un nome, non 
+solamente onesto e degno di scusa, ma santo e divino, @e questo 
+appetito delle cose veneree e carnali, del qual tratta in questo 
+capitolo il Poeta; poich@e eglino lo chiamano, come voi vedete, 
+^amore~. Il qual nome, propiamente parlando, @e tanto eccellente e 
+alto, che la religion nostra lo predica sustanzialmente della terza 
+persona divina. E la cagione che gli uomini, tornando al proposito 
+nostro, hanno chiamato questo affetto cos@i, @e una certa similitudine 
+ch'egli ha con quello che @e, secondo il nostro Poeta, veramente amore. 
+Imper@o che quello @e, secondo ch'egli mostra nel Purgatorio, una 
+inclinazione della parte nostra divina e capace di ragione verso quel 
+che @e buono, e conseguentemente bello; e questo una inclinazione della 
+parte nostra sensitiva e concupiscibile verso quel che piace e diletta; 
+onde egli @e per tal cagione chiamato dagli uomini ^bello~. E perch@e 
+in tal passione si sottomette, come voi sentiste nell'altra lezione, 
+totalmente la ragione al piacere e al senso (onde disse il nostro 
+Petrarca, sentendosi ancora egli di tal pece macchiato:
+
+^So come amor sopra la mente rugge,~
+^E come ogni ragione indi discaccia~);
+
+non si accorgendo questi tali che chiamono questo appetito carnale 
+^amore~, che nelle cose sopranaturali e spirituali il buono e il bello 
+si convertono al tutto insieme; imper@o che ogni bello @e buono, e ogni 
+buono @e bello; e nelle cose materiali e sensibili non avviene cos@i, 
+ma si dice pi@u tosto: ci@o che piace @e bello, e ci@o che @e bello 
+piace; vogliono che la definizione del vero amore, che @e desiderio di 
+bellezza, si predichi ancor similmente di questo. E questo nasce, penso 
+io, perch@e questo appetito carnale ha il suo sfogamento nella cosa che 
+piace e che diletta al senso; e perch@e quel che piace si desidera, e 
+quel che si desidera si ama, ei chiamano tale affetto, come voi vedete, 
+^amore~. E non accade questa cosa, come io dissi di sopra di quelle 
+altre, solamente ne' tempi nostri, ma ella fu cos@i ancora ella sempre; 
+e avetene quel bellissimo esempio di Pisistrato, tiranno di Atene, il 
+quale essendo stimolato e spinto da la moglie a vendicarsi contro a uno 
+il quale essendo innamorato della figliuola, e scontrandola per una 
+strada, le fece alcuni atti manco che onesti; dicendogli, secondo che 
+narra il nostro Poeta nel Purgatorio raccontando la sua istoria:
+
+	^Vendica te di quelle braccia ardite,~
+^Che abbracciar nostra figlia, o Pisistrato;~
+
+Pisistrato, ancor che fosse principe d'animo altiero, e colui persona 
+privata, considerando tale atto esser cagionato da questo appetito 
+carnale, e non da 'l voler lor far violenza o ingiuria alcuna, rispose:
+
+^Che farem noi a chi mal ne desira,~
+^Se quel, che ci ama, @e per noi condannato?~
+
+Questo comun modo di parlare (per doversi sempre, come dice il 
+Filosofo, favellare come i pi@u) seguitando nella lezione d'oggi, 
+Virgilio chiama similmente ancora egli ^amore~ il peccato e la colpa 
+per la quale quelle due ombre, che gli venivano incontro, eran portate, 
+volando insieme appartate alquanto dall'altre, da quella bufera; 
+rispondendo al nostro Poeta, che gli aveva detto che parlerebbe 
+volentieri con loro: aspetta, e quando tu vedrai ch'ei saranno
+
+^Pi@u presso a noi; e tu allor gli prega~
+^Per quello amor che ei mena, ed ei verranno.~
+
+Imper@o che, sentendo eglino nominare amore, il quale @e la cagione che 
+gli mena e guida cos@i insieme eternalmente congiunti, ei verranno 
+subitamente a te, s@i per sentirsi pregare per quel che piacque tanto 
+loro, e s@i perch@e la maggior parte di quegli che sono inclinati e 
+dediti a questa passione amorosa, son di natura benigna, e molto facili 
+a piegarsi a le voglie altrui.
+
+	|79-81.~  Secondo il qual consiglio facendo, il nostro Poeta dice:
+
+	^S@i tosto come il vento a noi gli piega,~
+^Mossi la voce: o anime affannate,~
+^Venite a noi parlar, s'altri nol niega.~
+
+Il senso de' quali versi, leggendo ^muovi la voce~, come hanno la 
+maggior parte de' testi, e non ^mossi~, come facciamo seguitando alcuni 
+testi antichi noi, @e molto difficile, bisognando intendervi o ^dopo 
+che io ebbi detto questo~, o qualche altra parola simile; dove leggendo 
+^mossi~, e concedendo che il Poeta abbia posto ^piega~ nel presente, 
+per ^pieg@o~ nel passato, con la licenza di quella figura che concede 
+gli scambiamenti de' tempi, ei diventa facile e piano, e non ha bisogno 
+di esposizione. Ma ei ci son bene in questi versi due cose degne di 
+grandissima considerazione. La prima delle quali @e, quanto il Poeta 
+esprima e dimostri bene, con questa voce ^affannate~, l'alterazione e 
+il travaglio che dava a queste anime quella bufera. Con ci@o sia che 
+uno de' maggior fastidii e noie, che dia altrui gran vento, @e che egli 
+impedisce altrui il respirare; onde non si pu@o, come diciamo noi 
+volgarmente, ^alitare~, cio@e tirare e mandar fuori il fiato 
+liberamente e senza difficult@a; da la qual cosa nasce, che non essendo 
+il cuore infrescato cos@i spesso, come ei soleva, da' polmoni (che son 
+quegli che tirano a loro dell'aria nuova fresca, e rimandonla di poi 
+fuori quando ella @e riscaldata), ha da 'l suo calore naturale una 
+certa alterazione e una certa stracchezza, per la quale ei par che 
+altrui affoghi. La quale alterazione si chiama comunemente ^affanno~; 
+onde non poteva il Poeta, volendo esprimer tal travaglio, usare alcuna 
+altra voce pi@u propia, che dire ^affannate~. La seconda cosa @e, con 
+quanta arte il Poeta, volendo ottenere di ragionar con loro, dica (per 
+cattar benevolenza) che venghino a parlar seco, se egli non @e lor 
+negato da altri che possa pi@u di loro; dimostrando con tali parole, 
+ch'egli gli giudicava di natura tanto benigna e facile, ch'ei si 
+prometteva, se gi@a ei non era negato e tolto loro da altri che potesse 
+pi@u, ch'eglino avessero in ogni modo a sodisfare al suo desiderio.
+
+	|82-87.~  Il che egli narra che and@o appunto secondo il suo disegno; 
+perciocch@e, sentendo dette ombre lo affettuoso grido di cos@i 
+amorevoli preghi, dice il testo ch'elle usciron subitamente di quella 
+schiera (chiamata da lui ^schiera di Dido~, per essere ancor Dido, 
+secondo il Poeta, ita a morte per amore, come costoro), e vennero verso 
+lui velocemente per quell'aere oscuro e maligno:
+
+	^Quali colombe da il desio chiamate,~
+^Con l'ali alzate e ferme al dolce nido~
+^Volan per l'aer da il voler portate.~
+
+	Nella qual comparazione io non credo ch'ei pigliassi le colombe, 
+perch@e elle sieno chiamate e tirate (tenendo le ali ^alzate~ 
+acciocch@e elle piglino assai aria, e ^ferme~ per sostenervisi sopra, e 
+gittarsi di poi, fendendo l'aria, ove piace loro) da maggior desio di 
+riveder il nido ove sono i loro figliuoli, che gli altri uccelli; 
+perch@e io credo che lo instinto ch'eglino hanno tutti di allevare i 
+figliuoli, dato loro da la natura per mantenimento della loro specie, 
+sia pari e uguale. Ma penso che ei pigliassi le colombe, perch@e questo 
+uccello @e molto lussurioso; e per tal cagione lo dedicarono gli 
+antichi a Venere.
+
+	|88-93.~  E in questa maniera appressatesi al nostro Poeta, e divenute 
+ancora esse ombre desiderose, per la compassione ch'elle scorgevano 
+ch'egli aveva di loro, di sfogare alquanto la lor doglia con dolersi e 
+narrargli la loro infelice sorte, lo ringraziono primieramente di 
+quella affettuosa piet@a, ch'egli aveva di loro, dicendogli:
+
+	^O animal grazioso e benigno,~
+^Che visitando vai per lo aer perso~
+^Noi che tignemmo il mondo di sanguigno;~
+^	Se ei fosse amico il Re dello universo,~
+^Noi pregheremmo lui per la tua pace,~
+^Poi che hai piet@a del nostro mal perverso;~
+
+dichiarandolo primieramente ^animale~, per essere in lui unite insieme 
+l'anima e il corpo, da 'l quale legamento nasce lo animale; e ^grazioso 
+e benigno~, cio@e pietoso e compassionevole, per andargli visitando in 
+quello aere ^perso~, cio@e oscuro. Imper@o che ^perso~ propiamente 
+significa un colore azzurro, ma oscurissimo e buio; onde si chiaman 
+^persi~ quei panni che si fanno in S. Martino, non tinti di nero in 
+lana, come sono quegli che ei chiamono ^monachini~, ma tinti solamente 
+in azzurro scuro, che si chiamono di poi, quando ei son fatti neri, 
+^neri di perso~. E perch@e questo nome @e vocabolo nostro fiorentino 
+particulare e, come voi vedete, dell'arte della lana e del membro di 
+San Martino, alcuni forestieri, che ne hanno voluto parlare e sopra 
+quel verso del Petrarca, ^Verdi panni, sanguigni, oscuri e persi,~ e 
+sopra quell'altro, pur di Dante, ch'@e pi@u gi@u, ^L'acqua era buia, 
+assai vie pi@u che persa,~ non sapendo la distinzione ch'@e fra il 
+nero, o vero scuro, e il perso, hanno detto molte cose fuori di 
+proposito; e non hanno conosciuto quanto questo colore perso, cio@e 
+azzurro oscuro, sia propio dell'aria non inluminata, e dell'acqua che 
+ha assai fondo, e quanto il Poeta abbia usato e altrove e qui 
+propiamente tal voce. Parla adunque Francesca, e non Paulo (ch@e cos@i 
+avevano nome, come voi intenderete di sotto, queste ombre), perch@e il 
+Poeta vuol dimostrare quanto sia pi@u facile la donna, che non @e 
+l'uomo, a manifestare i segreti; e oltre a di questo per esser pi@u 
+querula e pi@u rammarichevole negli affanni; e ringrazia Dante, ch'egli 
+sia venuto a visitargli in quel luogo, chiamandolo ^animale~, a 
+differenza di Virgilio il quale era solamente l'anima, e ^grazioso e 
+benigno~, per conoscer mediante la compassione ch'egli aveva della lor 
+sorte, ch'egli era pieno di quella prontezza d'animo, la qual desidera 
+di compiacere a ciascuno, non per comodo suo, ma per bene d'altri, che 
+noi chiamiamo comunemente ^benignit@a~; promettendogli in ricompensa di 
+tal compassione, che se il Re dello universo, cio@e Dio ottimo e 
+grandissimo, fosse loro amico, onde ei fussero nella sua grazia (ch@e 
+cos@i vuol dire avere Dio per amico), ei lo pregherebbero per la sua 
+pace; e di poi offerendogli che mentre che il vento, il quale si era 
+alquanto fermo, si taceva, che parlerebbero e udirebbero tutto quel 
+ch'ei voleva.
+
+	|94-99.~  E avendogli per@o detto inanzi, come ei tinsero il mondo di 
+sangue, cio@e il terreno ove ei furono uccisi, gli narra, pensando che 
+ei volesse saper questo distintamente, la loro istoria; la quale 
+racconta il Boccaccio, che fu vicino a quei tempi, in questa maniera. 
+Che avendo guerreggiato gran tempo insieme M. Guido da Polenta signor 
+di Ravenna, e i Malatesta signori di Rimini, fu finalmente concluso 
+infra loro pace, e in confirmazione di quella un parentado, nel quale 
+fu data per moglie Francesca figliuola di M. Guido, fanciulla molto 
+graziosa e bella, a un figliuolo di M. Malatesta chiamato ^Gianciotto~, 
+cio@e ^Gianni~ e di pi@u ^ciotto~, per essere egli zoppo; e ^ciotto~ 
+significa nella loro lingua zoppo. Per la qual cosa dubitando M. 
+Malatesta, per intendere che Madonna Francesca era non manco altiera e 
+superba che bella, che veggendo ella questo ^Gianciotto~ non lo 
+volessi, mand@o a sposarla un suo fratel minore, chiamato Polo, molto 
+bello e graziato. Il quale veggendo ella un giorno, per opera d'una sua 
+fantesca, passar per la via inanzi ch'egli andasse a vederla, e non 
+sapendo ch'egli non era Gianciotto, s'inamor@o fieramente di lui; onde 
+non volse mai poi bene a Gianciotto, ma ebbe sempr'inclinato l'animo a 
+Polo. Della qual cosa accorgendosi egli, s'inamor@o ancora egli 
+similmente di lei; e stimolati da tale amore amendue si trovarono 
+insieme pi@u e pi@u volte; infra le quali, sopraggiunti una volta da 
+Gianciotto che ne aveva sospetto, furon l'uno e l'altro con una 
+medesima spada morti. Questa Francesca adunque, volendo narrare tal 
+cosa, descrive primieramente Ravenna, citt@a donde ella fu, dicendo 
+ch'ella siede ed @e posta ove il Po (chiamato Eridano, di poi Pado, e 
+ora da noi Po, fiume principalissimo d'Italia, il qual nasce nelle 
+montagne che la dividono da la Provenza, in uno monte chiamato Vesulo) 
+scende e cala con i fiumi suoi seguaci, fra i quali scrive il Boccaccio 
+esserne trenta principalissimi, per avere insieme con essi pace nel 
+mare Adriatico; usandosi dire vulgarmente, i fiumi aver pace entrando 
+nel mare, per metafora e per similitudine; con ci@o sia ch'ei tendino 
+tutti, come in lor fine, a quello; e ci@o che ottiene e conseguisce il 
+suo fine si quieti e abbia pace.
+
+	|100-102.~  Dopo la qual cosa volendo ella narrar il peccato per il 
+quale ella era giudicata insieme con Polo da la divina iustizia a tal 
+pena, ella non solamente lo scusa con le ragioni ch'ella dir@a, ma ella 
+gli muta ancora ella nome, e seguitando il costume degli altri, lo 
+chiama ^amore~, dicendo: ^Amor che al cuor gentil ratto si apprende.~ 
+Questa proposizione, detta qui da Francesca dello amore lascivo, 
+insieme con alcuna altra ch'ella dice di poi, se bene ella si conviene 
+a quello amore ch'@e veramente amore (la diffinizione del quale @e 
+^desiderio di bellezza~, ma di animo, mediante le virt@u e morali e 
+speculative, concatenate con tale ordine insieme, ch'ei ne nasca una 
+dolcissima e maravigliosissima armonia, da la quale son subitamente 
+mossi i cuori gentili e nobili), conviene ancora similmente allo amore 
+lascivo; ma impropiamente, o almanco equivocamente, essendo egli 
+desiderio di bellezza, ma corporea, per sfogar con diletto la troppa 
+sustanza di sangue, che genera in noi la natura per mantener, come noi 
+dicemmo di sopra, la specie umana. Ed ella lo confessa, soggiugnendo:
+
+^Prese costui della bella persona~
+^Che mi fu tolta, e il modo ancor mi offende.~
+
+Perci@o che amando egli il corpo che le fu tolto, ed essendo preso di 
+lui, e non di lei ch'era l'anima, lo amor suo veniva a esser lascivo, e 
+non amor vero. E se bene ella dice che tale amore si apprende e si 
+appicca tosto ne' cuori gentili, ei non si ha intendere qui ^gentile~ 
+per nobile, cio@e pieno di virt@u, ma si ha intendere, come dice il 
+Boccaccio, per flessibile, e che si lascia facilmente piegare da questo 
+affetto e da questa passione. La qual cosa mostrando ella avvenire pi@u 
+facilmente a chi @e dolce e facile di natura, che a chi @e austero e 
+rozzo, ella viene ancora a scusare in gran parte tal passione da la 
+cagion sua materiale, seguitando sempre, o il pi@u delle volte, i 
+costumi dell'animo, secondo Galeno, la complessione e la temperatura 
+del corpo; essendo di ci@o cagione la unione grande ch'eglino hanno 
+insieme, e lo amor grande ch'ei portono l'uno a l'altro. Per la qual 
+cagione, essendo il bene e il male loro comune, ella si duole del modo 
+che il suo le fu tolto; il che fu ancor forse detto da lei (dice il 
+Giambullari), per essersi saputo e divulgato, mediante tal morte, il 
+loro peccato e il loro amore.
+
+	|103-105.~  In escusazione del quale ella adduce ancora questa altra 
+ragione:
+
+	^Amor, che a nullo amato amar perdona,~
+^Mi prese di costui piacer s@i forte,~
+^Che come vedi ancor non mi abbandona;~
+
+dimostrando come ei piace e diletta tanto a ciascuno lo essere amato, 
+ch'egli @e quasi impossibile non riamare chi altrui vede che ti ama. La 
+qual cosa @e detta da 'l Poeta con questo modo del dire che voi 
+sentiste, cio@e: amore il quale ^non perdona~ mai a ciascuno che sia 
+amato amare, cio@e riamarlo; per usar noi questo modo del favellare, 
+quando noi vogliamo dire che uno fa una cosa senza misura, e in certo 
+modo senza freno alcuno; onde diremo verbigrazia di uno che per cavarsi 
+qualche sua voglia spendessi largamente o durassi ogni fatica: ei non 
+perdona n@e a spendere n@e a fatica alcuna. E questa proposizione, che 
+ha detto qui Francesca per scusa del suo fallo, @e ancora ella 
+solamente vera nello amore vero e virtuoso; ove la virt@u desta e muove 
+parimente lo amato e lo amante, in quel modo che fa un'armonia medesima 
+due strumenti temperati nel tuono medesimo, che movendo l'uno si muove 
+ancor l'altro; e lo pu@o vedere a posta sua ciascuno che vuole, 
+pigliando verbigrazia due leuti temperati in su il medesimo tuono, che 
+sonandone uno, ei vedr@a ancor muovere le corde dell'altro. Il che 
+avviene nello amor virtuoso, per avere ancor lo amante e lo amato il 
+medesimo concetto, che @e il diletto della virt@u, nella mente; onde 
+subito ch'egli apparisce o nello amato o nello amante, egli sveglia 
+l'uno ad amar l'altro. e lo dimostra chiaramente il nostro Poeta nel 
+ventiduesimo capitol del Purgatorio, facendo dire a Stazio:
+
+	^............ amore,~
+^Acceso di virt@u, sempre altro accese,~
+^Pur che la fiamma sua paresse fore.~
+
+Ma ella non @e gi@a vera nello amor lascivo e carnale, veggendosi a 
+ogni ora molte persone, amate di tale amore da altri, non solamente non 
+riamare chi le ama, ma avergli alcuna volta in odio; il che nasce per 
+non avere il medesimo obbietto e il medesimo fine l'uno, che ha 
+l'altro. Perci@o che di molte volte uno di loro ar@a per obbietto, per 
+grazia di esempio, il diletto, e l'altro l'utile. Niente di manco, 
+perch@e chiunche ama di questo amore lascivo, il pi@u delle volte vi 
+accieca dentro; e ne avete veduto esempli manifestissimi in molti 
+uomini litterati ed eccellentissimi, che hanno perduto per tal passione 
+di maniera il discorso della ragione, ch'ei si son condotti, per 
+piacere alle lor donne, chi a dire ch'ella @e la sua stella, chi la sua 
+vita, chi che ha posto per una donna in non cale ogni pensiero, e chi 
+una frenesia e chi un'altra, molto manco degna di uno uomo, che non @e 
+pi@u degno egli d'una donna; in questa maniera adunque persuadendosi 
+questa Francesca avere scusato gran parte del suo fallo, conosciuto da 
+lei or ch'ella ne sopportava la pena, cio@e con mostrare di essere 
+stata quasi forzata a commetter tal colpa; per il che accorgendosi 
+ella, che egli s'invagh@i s@i fieramente di lei, ch'ei non fu gi@a mai 
+di poi diviso da lei, onde dice: ^Che come vedi ancor non mi 
+abbandona;~ ella dimostra che per punizione di tal cosa eglino erano 
+condannati a essere menati, volando cos@i sempre insieme, da quella 
+bufera; non perch@e ei traessero di tal cosa contentezza o piacere 
+alcuno, ch@e questo non pu@o accadere nell'inferno, ma perch@e eglino 
+avessero maggior pena, non potendo eglino mai levarsi dinanzi agli 
+occhi la cagione della eterna dannazione loro.
+
+	|106-111.~  La qual cosa volendo ella ancor pi@u chiaramente 
+esprimere, dice: ^Amor condusse noi a una morte,~ essendo eglino stati 
+morti amendue, come voi sentiste di sopra, con una medesima spada e da 
+uno medesimo; il quale ella, accesa e accecata di sdegno, chiama 
+traditore, dicendo: ^Caina attende chi in vita ci spense.~ Ove @e da 
+notare che se bene il Poeta si @e sforzato, narrando in questo capitolo 
+le pene con le quali sono puniti nello inferno essenziale i peccatori 
+carnali, mostrare quanto sieno trasportati e offesi nel morale quei che 
+si lascion vincere da tale appetito, e quanto egli offuschi e spenga in 
+loro il lume della ragione, egli lo dimostra maggiormente che mai in 
+questo fine, con lo esempio di questa Francesca; la qual egli mostra 
+che fosse tanto accecata da questa passione, ch'ella chiama il marito 
+traditore, ancor ch'egli l'ammazzasse giustamente e con ragione, 
+trovandola egli in adulterio in casa sua propria; la qual cosa @e e fu 
+sempre reputata tanto brutta, che gli Ebrei permettevano il ripudio; e 
+i gentili, come scrivono Pomponio e Ulpiano sopra la legge Iulia, che 
+il padre potesse ammazzar la figliuola e lo adultero, ma in casa sua o 
+del genero, e ad un tempo medesimo; e il marito lo adultero, ma in su 
+il fatto, e discacciar e rifiutar lei; e Giustiniano nel Codice, 
+ch'ella perda la dote, sia battuta e condannata alla carcere perpetua; 
+e le leggi canoniche, ch'ella sia priva e separata del letto maritale, 
+e racchiusa in uno monasterio o in uno altro luogo simile. E 
+nientedimanco, bench@e le leggi civili oltre a tutte cose dichino, che 
+quando ancora il marito in simil caso ammazzassi la moglie, ch'ei sia 
+punito leggermente, ella lo chiama traditore, in quel proprio modo 
+ch'ella arebbe fatto, se ei la avesse morta ingiustamente e senza 
+cagione alcuna. Onde dice: ^Caina~, cio@e quel luogo (detto cos@i da 
+Caino, per l'omicidio ch'ei commesse a tradimento nella persona d'Abel 
+suo fratello) ove son puniti i traditori, ^attende~, cio@e aspetta 
+(onde il Petrarca: ^Che pure agogni, onde soccorso attendi?~), ^chi in 
+vita ci spense~, cio@e chi ci diede la morte, usando questo modo 
+metaforico di parlare, per esser propiamente il viver nostro simile al 
+mantenersi acceso un lume. Imper@o che come quello, se ei non @e spento 
+da qualche cagion violenta, dura tanto acceso, quanto egli ha esca da 
+nutrirsi, cos@i dura ancor similmente tanto la vita nostra, se qualche 
+accidente non ci soffoca violentemente gli spiriti vitali, quanto ha 
+umido radicale da pascersi il calor nostro naturale. E qui avendo posto 
+fine Francesca alle sue parole, dette da lei in nome di amendue (onde 
+dice il Poeta: ^Queste parole da lor ci fur porte~), egli riguardando, 
+come vinto da la compassione, questa lor morte violenta, non come pena 
+conveniente al lor fallo, ma come ingiuria e crudelt@a usata loro (onde 
+non le chiama anime ^punite~, ma ^offese~), abbass@o e chin@o il volto 
+per la piet@a alla terra, e tennelo cos@i fino a tanto che Virgilio gli 
+disse: ^che pense?~
+
+	|112-114.~  Nel qual mentre avendo egli considerato quanto fosse 
+degno, non che di scusa, di compassione il lor peccato; con ci@o sia 
+cosa che l'et@a, le comodit@a e le occasioni ch'eglino avevano avuto 
+fossero state tali, ch'ei sarebbe stato cosa maravigliosa ch'ei si 
+fossero saputi o potuti tenere di non inc@orre in tal laccio; rispose, 
+quasi esclamando:
+
+^Quanti dolci pensier, quanto desio~
+^Men@o costoro al doloroso passo!~
+
+dimostrando con queste parole, le quali sono al giudizio mio cos@i 
+affettuose e dolci, quanto altre che io sentissi mai, che i pensamenti 
+e i desiri che gli avevano condotti a questa morte (chiamata da lui 
+^dolorosa~, per essere stata violenta e col ferro, e ^passo~, perch@e 
+mediante lei si varca da questa vita all'altra) erano stati tanto 
+dolci, ch'egli era da aver compassione di loro.
+
+	|115-120.~  E da queste considerazioni svegliata in lui la parte 
+ragionevole, cominciando egli a discorrere ch'ei non @e altro rimedio a 
+difendersi da cos@i pericolose occasioni, che come scrive Ovidio in 
+quel libro ch'egli fa del remedio dello amore, che ostare a' principii, 
+non si potendo spegnere, se non difficilissimamente, poi ch'ei son 
+cresciute in noi tali fiamme, egli per nostro ammaestramento e per 
+nostro esempio fa raccontare a questa Francesca tutta la istoria; il 
+che egli non fa forse con tanta diligenza pi@u di alcuna altra in tutta 
+questa sua opera. E per indurla a farlo, egli, avanti ch'ei ne la 
+preghi, le dice per cattar da lei benevolenza, come i suoi mart@iri e 
+le sue miserie lo hanno renduto tanto maninconoso e pietoso della lor 
+disgrazia, ch'ei non si poteva tenere di lacrimare; e perci@o egli la 
+pregava, che per consolazione di questa sua compassione gli dicessi a 
+che segni e in che modo questa loro passione, chiamata ancor da lui 
+^amore~, concedette loro nel tempo ch'ei sospiravano per dolcezza, e 
+non come allora per doglia, ch'ei conoscessero i desiri e le voglie 
+dubbiose e celate l'uno dell'altro.
+
+	|121-123.~  Alla qual cosa volendo rispondere, Francesca fa prima 
+scusa del piangere ch'ella faceva continovamente, con dire che ci@o 
+nasceva dal ricordarsi ella, in quelle pene, de i diletti ch'ella ebbe 
+nel mondo, non essendo dolore alcuno maggiore che il ricordarsi del 
+tempo felice nelle miserie; adducendo in testimonianza di tal cosa 
+Virgilio, il quale era seco, che lo aveva ancora egli detto nella 
+narrazione della rovina di Troia e del dolore di Dido.
+
+	|124-129.~  E di poi incominciando a narrare come andasse il fatto, 
+ella adduce, come nota il Giambullari, in escusazione sua cinque cose 
+tanto gagliarde e potenti, ch'egli arebbe avuto fatica a difendersi da 
+loro un filosofo morale, non che una fanciulla di tenera et@a e 
+delicata, come era ella. E queste sono lo essere innamorata, il 
+trovarsi oziosa, lo esempio di persone grandi, essere a solo a solo con 
+l'amante, ed esser senza alcun sospetto. E perch@e ella aveva parlato 
+dello esser innamorata di sopra, ch'@e la prima, ella la lascia 
+adietro; e incominciandosi da la seconda, dice: ^Noi leggevamo un 
+giorno per diletto;~ il che facendo eglino per piacere, e non per 
+bisogno, dimostra come eglino erano oziosi, ch'@e la seconda. E di poi 
+dice: ^Di Lancilotto, come amor lo strinse;~ ch'@e la terza, cio@e lo 
+esempio di gran personaggi; e questi furono, come si legge in un libro, 
+chiamato ^La tavola ritonda~ (ove si tratta cose favolose di alcuni 
+cavalieri, simili a' Paladini chiamati erranti, perch@e eglino andavano 
+acquistando fama per il mondo), Lancilotto figliuolo del re Ban di 
+Benuc, e Ginevra figliuola di Art@u re della Bretagna maggiore, 
+chiamata oggi Inghilterra.
+
+	|130-138.~  Ove essendo eglino insieme, soli senza sospetto alcuno, 
+che son le due cose ultime, e trovando la materia e lo esempio conforme 
+(perci@o che Lancilotto e Ginevra erano ancor eglino innamorati l'uno 
+dell'altro), furon pi@u volte da molti accidenti ch'ei trovarono, i 
+quali erano avvenuti similmente loro nel loro amore, sospinti da tal 
+lettura a riguardarsi l'uno l'altro, e in tal riscontro a vedersi, 
+quando mutare i volti in rossi per la vergogna, e quando in pallidi e 
+scoloriti pel timore. Nientedimanco intra questi fu un punto solo, dice 
+Francesca, quello che ci vinse, e ci sforz@o a rompere il freno della 
+onest@a. E questo fil, che trovando noi, nel leggere, come Lancilotto, 
+essendo un giorno solo con Ginevra, si assicur@o e prese ardire di 
+baciarla, ^questi~, cio@e Polo, che per tale cagione mai pi@u si 
+partir@a e fia diviso da me, ^La bocca mi baci@o tutto tremante.~ Con 
+le quali parole, non dicendo ella che sfuggisse o cansasse il volto, 
+ella dimostra che consent@i ancora ella a tal atto e a quel che di poi 
+ei fecero; la qual cosa il Poeta ci d@a ad intendere con non meno arte 
+che onest@a, dicendo:
+
+^Quel giorno pi@u non vi leggemmo avante;~
+^Galeotto fu il libro e chi lo scrisse,~
+
+prima perch@e, dicendo ella che lasciarono stare subitamente il 
+leggere, si viene a intendere che ei detteno opera ad altro, e di poi 
+con il chiamare il libro e chi lo scrisse mezzano al condurgli a simile 
+atto. Perci@o che ^galeotto~, come scrive Benvenuto da Imola, 
+significava in quei tempi ruffiano e mezzano a condurre effetti 
+d'amore; per la qual cosa insegnandosi e persuadendosi assai simili 
+cose nel ^Cento Novelle~, credo io che gli fusse posto quel cognome di 
+^Principe Galeotto~, che hanno nel titolo molti testi antichi.
+
+	|139-142.~  E qui mostra ultimamente che ponesse fine Francesca a le 
+sue parole, dicendo:
+
+	^Mentre che l'uno spirto cos@i disse,~
+^L'altro piangeva s@i, che di pietade~
+^Io venni meno s@i come io morisse;~
+
+dimostrando come, mentre che Francesca narrava loro questi accidenti 
+amorosi, e ultimamente la lor dolorosa morte, Polo piangeva in tal 
+maniera, che Dante si venne meno e tramort@i. Ove @e da notare che 
+questo accidente, che Dante narra che gli avvenne per la pietade di 
+queste due ombre (chiamato da i Greci ^sincopa~, e dai Latini 
+^defectus~ o vero ^deliqium animi~, e da noi ^venirsi meno~ o 
+^tramortire~), nasce da essere impediti che ei non possino andare al 
+capo quegli spiriti, chiamati per tale cagione ^vitali~, che nascono 
+continovamente da 'l cuore, ovvero da quel sangue ch'@e nella cassa ove 
+egli @e racchiuso; il qual sangue, essendo continovamente mosso e 
+riscaldato, manda spiriti e fumi al capo, che lo mantengono vivo. 
+Quando adunque questi spiriti, o per oppilazione e rituramento delle 
+vie donde ei passano, come avviene nel mal caduco, o per debolezza e 
+mancamento loro, come negli sfinimenti, o per ristringersi eglino e 
+ritirarsi intorno al cuore per difenderlo, quando ei sentono per 
+qualche cagione ch'egli si altera, come nelle paure, non vanno al capo 
+e al cervello ove si fa il senso, l'uomo non sente pi@u cosa alcuna, ma 
+manca e si viene subitamente meno. E questa @e la cagione, che chi sa 
+trovar quelle due vene del collo nostro, per le quali ei passano, e 
+stringele a uno, colui (come dice Aristotele ne' ^Parvi naturali~) si 
+vien manco, e cadde subitamente in terra. E con questa ragione solve 
+Macrobio quel quesito ch'egli fa ne' suoi problemi, per quel che i 
+fanciulli, correndo inanzi o indietro, o verso la parte sinistra o 
+verso la destra, non caggiono, e aggirandosi, s@i; dicendo che ci@o 
+avviene loro, perch@e in quel moto circulare gli spiriti si 
+smarriscono, e non vanno pi@u al capo; laonde, truovandosi egli 
+abbandonato da loro, @e forza che il corpo caggia, e non possa star 
+pi@u ritto. Sta adunque l'uomo in questo accidente, come se egli fusse 
+morto, insino a tanto che i detti spiriti ricominciono a salire al 
+capo. E per@o si usa in tal caso, o gittar dell'acqua nel volto, acci@o 
+che la natura, sentendo quel freddo che le @e nimico, pignendo, come 
+ella @e solita fare, gli spiriti, ove ella sente offendersi, in quel 
+luogo, gli mandi verso il capo; o bagnare le tempie e il naso di aceto, 
+e fargli fiutare cose odorifere che recreino e ringagliardischino essi 
+spiriti, avendo detto Galeno sopra quello anforisimo di Ippocrate, il 
+quale dice: ^facilius est repleri potu quam cibo~, che chi vuol 
+ristorar presto la debolezza degli spiriti, lo faccia col bere, e chi 
+la vuol ristorar pi@u presto, lo faccia con gli odori. Assal@i adunque 
+tanta piet@a di questi due amanti il cuore del Poeta nostro, che gli 
+spiriti, dubitando della perdita della vita, per stare ella nel cuore, 
+si ritiraron tutti, per aiutarlo, inverso quello. Laonde, abbandonando 
+il capo, egli si venne meno: ^E cadde, come corpo morto cade,~ e pose 
+per tal cagione fine a questo capitolo.
+

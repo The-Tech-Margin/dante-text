@@ -1,0 +1,874 @@
+
+Document parameters:
+	Doc. type  = Description
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante        367 Apr 28 13:05 staging/desc
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Fosca
+	Language   = Italian
+	Pub. Year  = 2003
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/01
+
+Filtering 01.e...
+Verifying ../staging/inf/01...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 279.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 343.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 514.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 619.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 721.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 754.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1107.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1329.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1363.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1904.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 2005.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 2037.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     107600 Apr 28 13:05 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/02
+
+Filtering 02.e...
+Verifying ../staging/inf/02...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 720.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1038.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1571.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1623.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1762.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     103131 Apr 28 13:05 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/03
+
+Filtering 03.e...
+Verifying ../staging/inf/03...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 81.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 603.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 713.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 940.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1258.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1702.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1934.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      93555 Apr 28 13:05 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/04
+
+Filtering 04.e...
+Verifying ../staging/inf/04...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 512.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 567.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 663.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 693.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 839.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 877.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1746.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1826.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1882.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     116853 Apr 28 13:05 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/05
+
+Filtering 05.e...
+Verifying ../staging/inf/05...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 106.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 382.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 809.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 874.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 930.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1177.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1729.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1854.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      94477 Apr 28 13:05 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/06
+
+Filtering 06.e...
+Verifying ../staging/inf/06...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 232.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 932.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1252.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      64308 Apr 28 13:05 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/07
+
+Filtering 07.e...
+Verifying ../staging/inf/07...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 730.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1021.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1161.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1500.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1556.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      78123 Apr 28 13:05 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/08
+
+Filtering 08.e...
+Verifying ../staging/inf/08...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 240.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 433.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 558.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      69734 Apr 28 13:05 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/09
+
+Filtering 09.e...
+Verifying ../staging/inf/09...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1190.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      71280 Apr 28 13:05 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/10
+
+Filtering 10.e...
+Verifying ../staging/inf/10...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 190.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 751.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 807.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 999.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1231.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      77820 Apr 28 13:05 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/11
+
+Filtering 11.e...
+Verifying ../staging/inf/11...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 396.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 666.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      45258 Apr 28 13:05 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/12
+
+Filtering 12.e...
+Verifying ../staging/inf/12...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 201.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      64432 Apr 28 13:05 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/13
+
+Filtering 13.e...
+Verifying ../staging/inf/13...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 888.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1091.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1131.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      74592 Apr 28 13:05 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/14
+
+Filtering 14.e...
+Verifying ../staging/inf/14...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 233.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 680.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      65480 Apr 28 13:05 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/15
+
+Filtering 15.e...
+Verifying ../staging/inf/15...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 80.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 306.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 647.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1112.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1493.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      79180 Apr 28 13:05 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/16
+
+Filtering 16.e...
+Verifying ../staging/inf/16...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 572.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1129.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1294.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      67134 Apr 28 13:05 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/17
+
+Filtering 17.e...
+Verifying ../staging/inf/17...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 164.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 621.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 801.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1179.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      67892 Apr 28 13:05 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/18
+
+Filtering 18.e...
+Verifying ../staging/inf/18...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 344.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 479.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 866.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1349.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      69437 Apr 28 13:06 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/19
+
+Filtering 19.e...
+Verifying ../staging/inf/19...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 204.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 283.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 629.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 933.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      73981 Apr 28 13:06 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/20
+
+Filtering 20.e...
+Verifying ../staging/inf/20...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 46.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 182.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 401.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 434.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 512.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1107.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1149.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1387.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      82671 Apr 28 13:06 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/21
+
+Filtering 21.e...
+Verifying ../staging/inf/21...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      64254 Apr 28 13:06 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/22
+
+Filtering 22.e...
+Verifying ../staging/inf/22...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 58.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 158.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 263.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1228.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1442.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      69722 Apr 28 13:06 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/23
+
+Filtering 23.e...
+Verifying ../staging/inf/23...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 117.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 428.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 677.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1278.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      70635 Apr 28 13:06 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/24
+
+Filtering 24.e...
+Verifying ../staging/inf/24...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 76.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 382.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1078.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1136.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      73462 Apr 28 13:06 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/25
+
+Filtering 25.e...
+Verifying ../staging/inf/25...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 932.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 973.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1018.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1361.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      64214 Apr 28 13:06 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/26
+
+Filtering 26.e...
+Verifying ../staging/inf/26...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 982.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1110.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1333.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1609.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1672.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1842.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     101513 Apr 28 13:06 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/27
+
+Filtering 27.e...
+Verifying ../staging/inf/27...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 206.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1041.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1347.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      70328 Apr 28 13:06 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/28
+
+Filtering 28.e...
+Verifying ../staging/inf/28...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 120.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 149.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 566.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 851.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1064.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1394.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1478.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1524.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1577.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1634.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      85201 Apr 28 13:06 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/29
+
+Filtering 29.e...
+Verifying ../staging/inf/29...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 365.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 441.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 628.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 895.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 928.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1018.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      69289 Apr 28 13:06 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/30
+
+Filtering 30.e...
+Verifying ../staging/inf/30...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 375.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1050.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1369.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1400.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      68956 Apr 28 13:06 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/31
+
+Filtering 31.e...
+Verifying ../staging/inf/31...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 387.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 817.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1403.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1458.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      68409 Apr 28 13:06 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/32
+
+Filtering 32.e...
+Verifying ../staging/inf/32...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 81.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 115.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1103.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      76806 Apr 28 13:06 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/33
+
+Filtering 33.e...
+Verifying ../staging/inf/33...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 772.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 911.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1097.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1139.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      81539 Apr 28 13:06 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/34
+
+Filtering 34.e...
+Verifying ../staging/inf/34...
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 267.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 408.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 598.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 940.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1020.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1075.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1268.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1408.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 1,   Paragraph Label TEXT,   Input Line Number 1485.
+New sentence has been started for paragraph to avoid termination.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      79845 Apr 28 13:06 ../staging/inf/34

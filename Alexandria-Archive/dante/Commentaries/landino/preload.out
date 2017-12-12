@@ -1,0 +1,395 @@
+
+Document parameters:
+	Doc. type  = Description
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+*** Line  14: Input line is too long (79 characters per line, maximum).
+
+Total Verification Errors: 1
+-rw-r--r--   1 dante    dante        596 Jun  4 13:36 staging/desc
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Landino
+	Language   = Italian
+	Pub. Year  = Florence, 1481
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/01
+
+Filtering 01.e...
+Verifying ../staging/inf/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     123678 Jun  4 13:36 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/02
+
+Filtering 02.e...
+Verifying ../staging/inf/02...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      97800 Jun  4 13:36 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/03
+
+Filtering 03.e...
+Verifying ../staging/inf/03...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      77513 Jun  4 13:36 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/04
+
+Filtering 04.e...
+Verifying ../staging/inf/04...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      91374 Jun  4 13:36 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/05
+
+Filtering 05.e...
+Verifying ../staging/inf/05...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      49847 Jun  4 13:36 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/06
+
+Filtering 06.e...
+Verifying ../staging/inf/06...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      47120 Jun  4 13:36 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/07
+
+Filtering 07.e...
+Verifying ../staging/inf/07...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      81321 Jun  4 13:36 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/08
+
+Filtering 08.e...
+Verifying ../staging/inf/08...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      53691 Jun  4 13:36 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/09
+
+Filtering 09.e...
+Verifying ../staging/inf/09...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      79375 Jun  4 13:36 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/10
+
+Filtering 10.e...
+Verifying ../staging/inf/10...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      54894 Jun  4 13:36 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/11
+
+Filtering 11.e...
+Verifying ../staging/inf/11...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      37764 Jun  4 13:36 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/12
+
+Filtering 12.e...
+Verifying ../staging/inf/12...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      56349 Jun  4 13:36 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/13
+
+Filtering 13.e...
+Verifying ../staging/inf/13...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      40665 Jun  4 13:36 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/14
+
+Filtering 14.e...
+Verifying ../staging/inf/14...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      55491 Jun  4 13:36 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/15
+
+Filtering 15.e...
+Verifying ../staging/inf/15...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      34741 Jun  4 13:36 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/16
+
+Filtering 16.e...
+Verifying ../staging/inf/16...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      36161 Jun  4 13:36 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/17
+
+Filtering 17.e...
+Verifying ../staging/inf/17...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      32903 Jun  4 13:36 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/18
+
+Filtering 18.e...
+Verifying ../staging/inf/18...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      32100 Jun  4 13:36 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/19
+
+Filtering 19.e...
+Verifying ../staging/inf/19...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      40772 Jun  4 13:36 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/20
+
+Filtering 20.e...
+Verifying ../staging/inf/20...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      39174 Jun  4 13:36 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/21
+
+Filtering 21.e...
+Verifying ../staging/inf/21...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      32346 Jun  4 13:36 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/22
+
+Filtering 22.e...
+Verifying ../staging/inf/22...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      27014 Jun  4 13:36 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/23
+
+Filtering 23.e...
+Verifying ../staging/inf/23...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      53151 Jun  4 13:36 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/24
+
+Filtering 24.e...
+Verifying ../staging/inf/24...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      59553 Jun  4 13:36 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/25
+
+Filtering 25.e...
+Verifying ../staging/inf/25...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      40890 Jun  4 13:36 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/26
+
+Filtering 26.e...
+Verifying ../staging/inf/26...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      53321 Jun  4 13:36 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/27
+
+Filtering 27.e...
+Verifying ../staging/inf/27...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      37606 Jun  4 13:36 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/28
+
+Filtering 28.e...
+Verifying ../staging/inf/28...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      40241 Jun  4 13:36 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/29
+
+Filtering 29.e...
+Verifying ../staging/inf/29...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      28523 Jun  4 13:36 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/30
+
+Filtering 30.e...
+Verifying ../staging/inf/30...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      30209 Jun  4 13:36 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/31
+
+Filtering 31.e...
+Verifying ../staging/inf/31...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      35010 Jun  4 13:36 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/32
+
+Filtering 32.e...
+Verifying ../staging/inf/32...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      26970 Jun  4 13:36 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/33
+
+Filtering 33.e...
+Verifying ../staging/inf/33...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      34733 Jun  4 13:36 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/34
+
+Filtering 34.e...
+Verifying ../staging/inf/34...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      35069 Jun  4 13:36 ../staging/inf/34

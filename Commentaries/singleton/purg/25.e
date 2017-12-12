@@ -1,0 +1,1369 @@
+	|1.  Ora era onde 'l salir non volea storpio~: Virgil has
+already stated that the time allotted for the journey through
+Purgatory must be apportioned (^Purg.~ XXIII, 5-6), and the
+opening statement of this canto echoes a note of that urgency,
+which is the "stimolo" implied in vs. 6.       |non volea
+storpio~: Freely, "could do without impediment."  The passageway
+is narrow, the climb steep, and time presses, for the sun has
+already passed the meridian.  For ^storpio~ in the sense of
+"obstacle," see the examples given by E. G. Parodi (1957), p.
+284; also see M. Barbi (1934+b~), p. 231.
+
+	|2-3.  ch$e 'l sole... Scorpio~: E. Moore (1887, p. 108)
+explains: "The Sun being now rather backward in Aries, the time
+when Taurus is on the Meridian of Noon, and the opposite sign of
+Scorpio on that of midnight as here described, would be generally
+understood to be about 2 P.M. though, as each constellation
+covers many degrees of space, the indication is only an
+approximate one."  (See Fig. 4, p. 590.)  As so often through
+Purgatory, the reader is reminded of the antipodal position of
+Jerusalem with respect to this mountain, and of the hour there. 
+The wayfarers have spent almost four hours on the terrace of the
+gluttons (see ^Purg.~ XXII, 118-120.
+
+	|merigge~: From the Latin ^meridies.~  Cf. ^Purg.~
+XXXIII, 104.
+
+	|4.  non s'affigge~: Cf. ^Inf.~ XII, 115 and ^passim;
+Purg.~ XI, 135.
+
+	|5.  vassi~ = ^si va.~  The reflexive serves to
+"distance" the subject and to reflect his determination to
+continue on his way.  	|che che~: I.e., ^qualsiasi cosa.~ 
+	|li~ = ^gli.~ 	    |appaia~ = ^apparisca.~
+
+	|6.  se di bisogno stimolo~: The more usual word order
+would be "se stimolo di bisogno." 	|trafigge~: "Pierces,"
+"goads."
+
+	|7.  callaia~: Elsewhere such a narrow passageway is
+termed a ^calla~: ^Purg.~ IV, 22; IX, 123.  See E. G. Parodi
+(1957), p. 245.
+
+	|8.  uno innanzi altro~: The three proceed in single
+file, Virgil first, Statius second, and Dante last.  And the
+reader is to conceive of them as so positioned all during
+Statius' fairly lengthy disquisition.
+
+	|9.  artezza~: "Narrowness."  Cf. "arte" in ^Purg.~
+XXVII, 130.  		|dispaia~: "Unmates," i.e., forcing them
+to proceed in single file.
+
+	|13.  accesa e spenta~: I.e., now kindled and now
+extinguished, even as the storkling's wing was raised, then
+lowered.
+
+	|14-15.  infino a l'atto... s'argomenta~: Even to the
+point of opening his mouth.
+
+	|dicer~ = ^dire.~ 	|s'argomenta~: "Makes ready."
+
+	|16-18.  Non lasci@o... ma disse~: I.e., "non lasci@o di
+parlare, ma disse."
+
+	|per l'andar che fosse ratto~: Though our pace was fast.
+
+	|Scocca l'arco... tratto~: The metaphor is that of an
+arrow in a bow drawn back so far that the head, the iron, touches
+the bow itself.  The image of the bow and arrow implied in the
+verb ^scoccare~ was commonly used to express intention, purpose;
+here it refers to Dante's pressing question.  Cf. ^Inf.~ XXV, 96;
+^Purg.~ VI, 130-131.
+
+	|20.  Come si pu@o far magro~: Porena comments: "Dovrebbe
+dire 'come si pu@o farsi magro?' ma l'uno dei due ^si~, il
+riflessivo, @e soppresso, assorbito dal ^si~ soggetto
+impersonale."  ("He should say 'how can one make oneself lean?'
+but one of these two ^si~'s, the reflexive, disappears, absorbed
+by the ^si~ which is the impersonal subject.") 
+
+	|21.  l@a dove l'uopo di nodrir non tocca~: Porena
+paraphrases this as follows: "dove non si @e toccati dal bisogno
+di nutrirsi" ("where the need to nourish oneself is not felt"). 
+Since these are shades and hence do not have real bodies, Dante
+wonders how it is possible for them to become lean.
+
+	|22-23.  t'ammentassi~ = ^ti rammentassi.~  Cf. ^Purg.~
+XIV, 56.
+
+	|come Meleagro... stizzo~: Meleager, son of Oeneus, king
+of Calydon in Aetolia, took part in the expedition of the
+Argonauts under Jason and afterwards was leader of the heroes who
+slew the Calydonian boar.  He gave the skin of the boar to
+Atalanta, whom he loved, but his mother's brothers, the sons of
+Thestius, took it from her, whereupon Meleager in fury slew them. 
+He thus unwittingly brought about his own death.  When he was
+seven days old the Fates had declared that his life would last as
+long as the piece of wood which was burning on the hearth should
+remain unconsumed.  His mother, Althaea, hearing this,
+extinguished the firebrand and kept it carefully concealed; but
+now, to avenge the death of her brothers, she threw it into the
+fire and it was consumed, whereupon Meleager expired.  Althaea
+then, in despair at what she had done, put an end to herself.  In
+^Metam.~ VIII, 445-532, Ovid tells of Meleager's end.  See
+especially vss. 513-525:
+
+     aut dedit aut visus gemitus est ipse dedisse
+     stipes, ut invitis conreptus ab ignibus arsit.
+     Inscius atque absens flamma Meleagros ab illa
+     uritur et caecis torreri viscera sentit
+     ignibus ac magnos superat virtute dolores.
+     quod tamen ignavo cadat et sine sanguine leto,
+     maeret et Ancaei felicia vulnera dicit
+     grandaevumque patrem fratresque piasque sorores
+     cum gemitu sociamque tori vocat ore supremo,
+     forsitan et matrem.  crescunt ignisque dolorque
+     languescuntque iterum; simul est exstinctus uterque,
+     inque leves abiit paulatim spiritus auras
+     paulatim cana prunam velante favilla.
+
+The brand either gave or seemed to give a groan as it was caught
+and consumed by the unwilling fire.
+
+     Unconscious, far away, Meleager burns with those flames; he
+     feels his vitals scorching with hidden fire, and o'ercomes
+     the great pain with fortitude.  But yet he grieves that he
+     must die a cowardly and bloodless death, and he calls
+     Ancaeus happy for the wounds he suffered.  With groans of
+     pain he calls with his dying breath on his aged father, his
+     brothers and loving sisters and his wife, perchance also
+     upon his mother.  The fire and his pains increase, and then
+     die down.  Both fire and pain go out together; his spirit
+     gradually slips away into the thin air as white ashes
+     gradually overspread the glowing coals.
+
+In an attempt to help Dante understand how the souls, which are
+incorporeal, can become lean, Virgil asks him to compare this
+situation with that in which there is no visible bond between the
+wasting away of Meleager and the consuming of a firebrand.
+
+	|stizzo~: Cf. ^Inf.~ XIII, 40.
+
+	|24.  fora~ = ^sarebbe.~ 	|agro~: "Harsh-tasting." 
+Cf. "duro," vs. 27.
+
+	|25.  al vostro guizzo~: The shift to the second person
+plural (continued in "vostra image" in the following verse)
+obviously generalizes the experience.  |Guizzo~ and ^guizzare~
+suggest the least -- the slightest -- movement, any movement
+whatsoever.
+
+	|27.  vizzo~: "Soft" and, more literally, "easy to chew." 
+Cf. ^avvizzito.~
+
+	|28.  Ma perch$e dentro a tuo voler t'adage~: Here "voler"
+(as "disio" in ^Purg.~ XXIV, 111, and elsewhere in the poem)
+denotes the object of the will, i.e., "in order that you may rest
+in the truth you desire to know." 	|adage~: Subjunctive.
+
+	|29.  ecco qui Stazio~: We must bear in mind that the
+three are proceeding in single file, with Virgil th the lead and
+Statius second.  The words, therefore, do not point out Statius
+so much as they say: "Here we have Statius." 	|chiamo e prego~:
+"I call upon him and I entreat him."
+
+	|30.  de le tue piage~: Though we may conceive of
+ignorance as a wound, it is hard to feel that the poet's hand has
+not been a little forced by the rhyme at this point.     |piage~
+= ^piaghe.~  See ^Inf.~ XXV, 31, where "biece" is used for
+^bieche.~
+
+	|31.  la veduta etterna~: A view exceeding Virgil's
+understanding in some respects, since it involves a divine
+mystery which only the Christian Statius has some knowledge of,
+namely, the "breathing in" of the individual and immortal soul by
+God (vss. 70-72).       |dislego~: Literally, "untie."  Cf. the
+Latin ^explicare.~
+
+	|32.  l@a dove tu sie~: Literally, "there where you are." 
+|sie~ = ^sia.~
+
+	|33.  discolpi me~: The whole phrase "non potert'io far
+nego" serves as subject of the verb, which is in the subjunctive:
+"Let my inability to deny you excuse me."
+
+	|36.  fiero~ = ^saranno.~  "Parole mie" (vs. 34) is the
+subject.  	|al come che tu die~: "Concerning the 'how' which
+you say," i.e., about which you ask.      |die~ = ^di' (dici~).
+
+	|37-44.  Sangue perfetto... dire~: B. Nardi (1960, pp.
+46-47) notes: "Secondo appunto la ben nota definizione dello
+Stagirita, lo sperma @e un ^excrementum alimenti sanguinei~, ^quod
+ultimum in membra digeritur~; e secondo quella non meno nota di
+Avicenna, ^sperma est superfiuitas digestionis quartae, resudans
+a venis, tertia digestione iam expleta.~"  ("According to the
+well-known definition of the Stagyrite, the sperm is an
+'excretion of the sanguineous nourishment that is digested in the
+members last'; and according to the equally well-known definition
+of Avicenna, 'sperm is the superfluity of the fourth digestion,
+which comes forth from the veins after the third digestion is
+over.'")  See Aristotle, ^De gener. animal.~ I, 17-19, especially
+726+a~-726+b~; II, 3, 737+a~; and the reference to Avicenna's
+^Canon~ cited by Nardi (p. 47, n. 2).  Nardi continues (p. 47):
+
+     Secondo il concetto aristotelico, l'alimento non si converte
+     nella sostanza del corpo nutrito se non dopo una serie di
+     trasformazioni o ^digestioni~, attraverso le quali cessa di
+     essere ^dissimile~ ed @e reso perfettamente ^assimilabile.~ 
+     Queste digestioni per le quali il cibo passa, secondo
+     Avicenna, sono quattro: la prima si compie nello stomaco e
+     nel ventre; la seconda nel fegato, ove il chilo comincia a
+     trasformarsi in sangue; la terza nelle vene, ove il sangue
+     grezzo e imperfetto, uscito dal fegato, vien depurato dalle
+     superfluit@a acquose e si converte in sangue perfetto che si
+     raccoglie nel lago del cuore; finalmente la quarta
+     digestione avviene nelle singole membra, delle quali
+     l'alimento sanguigno ristora le perdite e produce lo
+     sviluppo.
+
+     According to the Aristotelian concept, food converts itself
+     into the substance of the body it nourishes only after a
+     series of transformations, or ^digestions~, through which it
+     ceases to be dissimilar and becomes perfectly ^assimilable.~ 
+     According to Avicenna, food must pass through four of these
+     digestions: the first is accomplished in the stomach and in
+     the belly; the second is in the liver, where the chyle
+     begins to be transformed into blood; the third is in the
+     veins, where the crude and imperfect blood sent forth by the
+     liver is purified of its watery superfluities and converted
+     into perfect blood, which gathers in the lake of the heart;
+     finally, the fourth digestion takes place in the individual
+     members, where the sanguineous nourishment replaces losses
+     and produces development.
+
+See Aristotle, ^De anima~ II, 4, 416+b~, and the references
+afforded by Nardi (p. 47, n. 5) to Avicenna's ^De animalibus~ and
+^Canon.~  Nardi (p. 48) goes on to say:
+
+     Sotto la guida della virt@u ^informativa~, derivata dal
+     cuore, il sangue vien recato, per le vene, al convito delle
+     membra, ove si celebra, come dice Alberto, la quarta
+     digestione.  E la parte pi@u sottile dell'alimento
+     sanguigno, la pi@u eletta e quindi suscettibile di migliore
+     virt@u, va a nutrire i ^membra radicalia~, cio@e quelle
+     parti che sono la radice e il fondamento di tutto
+     l'organismo, come il cuore e il cervello.  Ma non tutto
+     quello che @e stato loro imbandito si beve dalle assetate
+     vene e si fa membra; anzi una parte rimane, come superfluo,
+     ^quasi alimento che di mensa leve.~  Di questo
+     ^superfluo~, anzi, secondo Alberto, del superfluo
+     dell'alimento di cui si son cibati i ^membra radicalia~, si
+     genera appunto lo sperma.  Per questo appunto Avicenna dice
+     che "sperma fit ex sanguine bono et decocto decoctione bona
+     et completa," e che esso @e una ^superfluitas~ dell'ultima
+     digestione.
+
+     Under the guidance of the formative virtue, which derives
+     from the heart, the blood is taken through the veins to the
+     banquet in the members, where, as Albertus says, the fourth
+     digestion is celebrated.  The most subtle part of the
+     sanguineous nourishment, the most select and therefore
+     susceptible of the highest virtue, goes to nourish the
+     fundamental members, that is to say, those parts that are
+     the basis and the foundation of the whole organism, like the
+     heart and the brain.  But not all of that which has been
+     served to them is drunk by the thirsty veins, to become
+     members; in fact, a portion remains, as though superfluous,
+     "quasi alimento che di mensa leve."  From this superfluity
+     -- in fact, according to Albertus, from the superfluity of
+     the nourishment taken by the fundamental members --
+     precisely the sperm is generated.  That is why Avicenna
+     says: "Sperm is made of good blood and distilled from a good
+     and complete digestion"; and it is a superfluity of the
+     final digestion.  
+
+See Albertus Magnus, ^De animalibus~ III, ii, 8, and Nardi's
+reference (p. 48, n. 5) to Avicenna's ^De animalibus.~  Nardi
+(pp. 48-49) explains:
+
+     Ma il residuo dell'ultima digestione non @e ancora sperma
+     atto alla generazione, ed ha bisogno di una nuova digestione
+     per diventarlo.  Questa nuova digestione avviene nei
+     condotti, pei quali il sangue perfetto, residuo dell'ultima
+     digestione, discende dall'aorta e dai reni ai testicoli, e
+     quindi nei vasi seminali ^ad basem virgae~, ^ov'@e pi@u~
+     ^bello tacer che dire~, come si esprime Dante parafrasando
+     Aristotele.  Nei vasi seminali avviene la cos@i detta
+     ^digestio spermatica~, nella quale il sangue, residuo della
+     quarta digestione, perde il color rosso e si fa bianco e
+     disposto alla generazione di un nuovo organismo.
+
+     But the residue of the final digestion is not yet sperm that
+     can generate; to become that, it must go through another
+     digestion.  This new digestion takes place in the veins
+     through which perfect blood, the residue of the final
+     digestion, descends from the aorta and the kidneys to the
+     testicles, and thence to the seminal vessels at the base of
+     the penis, "of which it is better to be silent than to
+     speak," as Dante says, paraphrasing Aristotle.  In the
+     seminal vessels, the so-called digestion of the sperm takes
+     place, in which the blood, residue of the fourth digestion,
+     loses its red color and becomes white and capable of
+     generating a new organism.  
+
+See Aristotle, ^Hist. animal.~ III, 1, 510+a~; ^De gener.
+animal.~ I, 13, 720+a~.
+
+	|39.  leve~ = ^levi~, "you remove," i.e., one removes.
+
+	|40-41.  prende nel core... informativa~: On the
+informative virtue, or formative virtue, as it was also called,
+Nardi (1949, pp. 262-263) writes:
+
+     In particolare, non @e ben chiaro che cosa sia, per
+     Aristotele, la virt@u o natura posseduta dal seme maschile,
+     e quale ne sia la funzione nella formazione e nello sviluppo
+     dell'embrione.  In un altro luogo del ^De gener. animal.~,
+     III, c. 11, egli dice che "gli animali e le piante son
+     generate dalla terra e dall'umore, perch@e nella terra @e
+     l'umore, nell'umore lo spirito, e il calore animale @e da
+     per tutto, di guisa che in certo modo tutte le cose son
+     piene di anima."  Riferendosi appunto a questo concetto,
+     egli afferma (II, c. 3), che quello che rende fecondi i semi
+     @e "il cos@i detto calore," che non @e fuoco ma spirito e
+     natura analoga dell'elemento degli astri.  Questa virt@u del
+     seme @e quella che Galeno chiam@o ^formativa~, perch$e
+     presiede alla formazione dell'embrione e del feto....
+
+     ...Poich@e dunque il seme paterno @e considerato come
+     l'agente strumentale della generazione, gli Scolastici ne
+     conclusero ch'esso dovesse possedere una virt@u attiva
+     derivata dall'anima dell'agente principale, il padre.  A
+     questa virt@u che d@a impulso e presiede allo sviluppo del
+     nuovo organismo vivente, fu da essi riservato il nome di
+     ^virt@u formativa~ o ^informativa.~
+
+     In particular, it is not very clear what virtue or nature
+     the male seed possesses, according to Aristotle, or what its
+     function is in the formation and development of the embryo. 
+     In another place in ^De gener. animal.~ III, 11 [762+a~], he
+     says that "animals and plants are generated by the earth and
+     by humors; for the humor is in the earth, the spirit is in
+     the humor, and animal heat is everywhere, so that in a
+     certain sense all things are full of soul (^anima~)." 
+     Referring precisely to this concept, he affirms (II, 3
+     [736+b~]) that what renders the seed fertile is "the so-called
+     heat," which is not fire, but spirit and nature analogous to
+     the element of the stars.  This virtue in the seed is the
+     one Galen called "formative," because it presides over the
+     formation of the embryo and the fetus....
+
+     ...Therefore, since the paternal seed is considered the
+     instrumental agent of generation, the Scholastics concluded
+     that it must possess an active virtue derived from the soul
+     of the principal agent, the father.  For this virtue, which
+     gives the impulse to and presides over the development of
+     the new living organism, they reserved the name of
+     formative, or informative, virtue.
+
+In the ^Convivio~ (IV, xxi, 4) Dante terms it "la vert@u de
+l'anima generativa" and "la vert@u formativa."
+
+	The phrase "a tutte membra umane virtute informativa"
+should be construed "virtute informativa a tutte membra umane,"
+i.e., as B. Nardi observes (1960, p. 49), directed toward
+creating the members of a new organism.
+
+	|41-44.  come quello... vane~: See n. to vss. 37-44. 
+Under the direction of the formative virtue the perfect blood
+which collects in the lake of the heart flows forth therefrom
+into the veins, where the "third digestion" takes place, and then
+into the individual members where nourishment replaces losses and
+produces development.  That which becomes the male sperm retains
+this virtue.  As Nardi observes (1960, p. 49): "La stessa ^virt@u
+informativa~ che aveva il sangue per la sua assimilazione nelle
+membra, diventa, nel seme, ^virt@u informativa~ diretta a creare
+le membra di un nuovo organismo."  ("The same formative virtue
+which the blood possessed in order to become assimilated in the
+members becomes, in the sperm, the formative virtue directed
+toward creating the members of a new organism.")
+
+	|vane~ = ^va~ with the addition of ^ne~, often made when
+the verb form ends in an accented vowel.  For other instances,
+see ^Inf.~ XI, 31 ("p@one"), ^Inf.~ XVIII, 87 ("f$ene"), and
+^Purg.~ IV, 22 ("sal@ine").  See E. G. Parodi (1957), p. 243.
+
+	|Ancor digesto... dire~: See nn. to vss. 37-44.
+
+	|45.  e quindi poscia geme... vasello~: And thence, from
+the testicles, the perfect blood, now having become the sperm
+through another "digestion," issues forth and drips (see "geme"
+in ^Inf.~ XIII, 41) over the blood of the female in a natural
+vessel, the uterus.  B. Nardi (1960, p. 49) explains: "Il seme
+mascolino, cos@i elaborato, ^geme sovr'altrui sangue in natural
+vasello~, cio@e sul ^sanguis menstruus~ fornito dalla madre." 
+("Thus elaborated, the masculine seed 'drips over the blood of
+the other, in a natural vessel'; that is to say, over the
+menstrual blood furnished by the mother.")  Nardi continues:
+"Anche il sangue femmineo @e un ^superfluo~ della quarta
+digestione, come il seme paterno; ma al primo manca
+quell'ulteriore digestione complementare, che @e propria invece
+del secondo."  ("The female blood is also a superfluity of the
+fourth digestion, like the paternal seed; but the former lacks
+that final complementary digestion, which is proper to the
+latter.")  In ^Conv.~ IV, xxi, 4, Dante says: "E per@o dico che
+quando l'umano seme cade nel suo recettaculo, cio@e ne la
+matrice, esso porta seco la vert@u e l'anima generativa."  ("And
+therefore I say that when the human seed falls into its
+receptacle, that is, into the matrix, it bears with it the virtue
+of the generative soul.")
+
+	|46.  Ivi s'accoglie l'uno e l'altro insieme~: There is
+mingled the one blood with the other.
+
+	|47.  l'un disposto a patire e l'altro a fare~: Nardi
+(1960, p. 49) comments: "Il ^sanguis menstruus~ @e un principio
+essenzialmente passivo.  L'uno, afferma Dante con Aristotele, @e
+disposto a patire, l'altro a fare; l'uno fornisce la materia del
+processo genetico, l'altro la forma."  ("The menstrual blood is
+an essentially passive principle.  Dante, following Aristotle,
+affirms that the one is disposed to undergo, and the other to do. 
+The one furnishes the matter of the genetic process, the other
+furnishes the form.")  See Aristotle, ^De gener. animal.~ I, 2,
+716+a~; I, 19, 727+a~; II, 4, 738+b~.  Cf. Thomas Aquinas, ^Summa
+theol.~ I, q. 118, a. 1, ad 4: "In animalibus perfectis, quae
+generantur ex coitu, virtus activa est in semine maris, secundum
+Philosophum in lib. 1 de Generat. animal., cap. 2 et 20; materia
+autem foetus est illud quod ministratur a femina."  ("In perfect
+animals, generated by coition, the active force is in the semen
+of the male, as the Philosopher says, ^De Gener. Animal.~  ii, 3
+[737+a~]; but the foetal matter is provided by the female.")
+
+	|48.  perfetto loco~: The heart, where the blood, through
+digestion, is made perfect and whence it flows, is pumped,
+through the aorta to become the sperm.
+
+	|49-50.  e, giunto lui... prima~: B. Nardi (1960, pp.
+49-50) says: "Tosto che il seme ha raggiunto nella matrice il
+principio passivo, comincia ad agire su questo, ed anzi tutto lo
+coagula....  Aristotele infatti compara l'azione del seme
+mascolino sul sangue femmineo all'azione del caglio sul latte.  E
+l'idea, ripresa e sviluppata da Avicenna, era divenuta comune
+nell'embriologia medievale."  ("As soon as the semen has reached
+the passive principle in the womb, it begins to act on it, and in
+fact it coagulates it completely....  In fact, Aristotle compares
+the action of the male semen on the female blood to the action of
+curd on milk.  And this idea, taken up and developed by Avicenna,
+had become common in medieval embryology.")  See Aristotle, ^De
+gener. animal.~ II, 4, 739+b~ and the references afforded by
+Nardi (p. 50, n. 4) to Avicenna's ^Canon~ and ^De animalibus.~ 
+Cf. Iob 10:10; Sapien. 7:2.  The ^Anonimo fiorentino~, commenting
+on vs. 43, states: "come il presame fa il latte" ("just as rennet
+does in milk").
+
+	|e poi avviva~: "And then vivifies," gives life to.  The
+^virt@u informativa~ is thus a ^virt@u vivificans~, effecting a
+vegetative soul, first of all.  On this point, see the
+interesting observations by B. Nardi (1960, pp. 50-51) regarding
+the difference at this point between the doctrine adopted by
+Dante and that of Albertus Magnus.
+
+	|51.  ci@o che per sua matera f$e constare~: That which the
+male sperm, the perfect blood that took on the informing virtue
+in the heart, has now caused to coagulate and become consistent,
+to serve as its material, i.e., the female menstrual blood.
+
+	|52-54.  Anima fatta... riva~: B. Nardi (1960, p. 52)
+elaborates:
+
+     Allo stesso modo che nel ^Convivio~, l'^anima in vita~, cio@e
+     l'anima sensitiva in atto, era tirata dalla potenza attiva
+     del seme, per virt@u del cielo, cos@i qui la virt@u attiva
+     del seme si fa anzi tutto anima vegetativa simile a quella
+     delle piante.  Con questa differenza, tuttavia, che l'anima
+     delle piante @e ^a riva~, cio@e ha compiuto tutto il suo
+     sviluppo e non @e capace di ulteriore perfezione; invece, la
+     virt@u attiva del seme umano, divenuta anima vegetativa, @e
+     ^in via~ a diventare anima sensitiva; poich@e l'anima del
+     generante, da cui deriva, tende a trasfondere nel generato
+     la propria forma, secondo il motto scolastico: ^agens agit~
+     ^sibi simile.~  E perci@o l'anima vegetativa, nell'animale e
+     nell'uomo, non si limita ad attuare nell'embrione le
+     funzioni puramente vegetative, ma ^ipsae virtutes~
+     ^vegetabilis non vegetant nisi ad formam sensus, eo quod in~
+     ^sensitivo complentur.~
+
+     Just as in the ^Convivio~, the live soul, that is to say,
+     the sensitive soul in act, was drawn by the active potency
+     of the seed, by virtue of the heavens, so here the active
+     virtue of the semen becomes first of all a vegetative soul,
+     similar to that of plants.  But with this difference: that
+     the soul of plants is at the shore [i.e., at its
+     destination], that is to say, it has accomplished its entire
+     development and is not capable of any further perfection. 
+     Instead, the active virtue of the human semen, which has
+     become a vegetative soul, is ^in via~ [on the way] to
+     becoming a sensitive soul.  For the soul of the generator
+     from whom it derives tends to transfuse its own form into
+     that which it generates, according to the Scholastic
+     formulation: "The acts of any agent are similar to the
+     agent."  And so in men and animals, the vegetative soul does
+     not limit itself to actuating the purely vegetative
+     functions in the embryo; rather, "these vegetative virtues
+     vegetate only in the direction of the sensitive form,
+     because they find their completion in the sensitive."
+
+For the quotation that closes this passage from Nardi, see
+Albertus Magnus, ^De nat. et orig. animae~ I, 4.
+
+	For the three ^potentiae~ or "souls" -- vegetative,
+sensitive, and intellective -- see ^Conv.~ III, ii, 11-14:
+
+     Dico adunque che lo Filosofo nel secondo de l'Anima,
+     partendo le potenze di quella, dice che l'anima
+     principalmente hae tre potenze, cio@e vivere, sentire e
+     ragionare: e dice anche muovere; ma questa si pu@o col
+     sentire fare una, per@o che ogni anima che sente, o con
+     tutti i sensi o con alcuno solo, si muove; s@i che muovere @e
+     una potenza congiunta col sentire.  E secondo che esso dice,
+     @e manifestissimo che queste potenze sono intra s@e per
+     modo che l'una @e fondamento de l'altra; e quella che @e
+     fondamento puote per s@e essere partita, ma l'altra, che si
+     fonda sopra essa, non pu@o da quella essere partita.  Onde
+     la potenza vegetativa, per la quale si vive, @e fondamento
+     sopra 'l quale si sente, cio@e vede, ode, gusta, odora e
+     tocca; e questa vegetativa potenza per s@e puote essere
+     anima, s@i come vedemo ne le piante tutte.  La sensitiva
+     sanza quella essere non puote, e non si truova in alcuna
+     cosa che non viva; e questa sensitiva potenza @e fondamento
+     de la intellettiva, cio@e de la ragione: e per@o ne le cose
+     animate mortali la ragionativa potenza sanza la sensitiva
+     non si truova, ma la sensitiva si truova sanza questa, s@i
+     come ne le bestie, ne li uccelli, ne' pesci e in ogni
+     animale bruto vedemo.  E quella anima che tutte queste
+     potenze comprende, e perfettissima di tutte l'altre, @e
+     l'anima umana, la quale con la nobilitade de la potenza
+     ultima, cio@e ragione, participa de la divina natura a guisa
+     di sempiterna intelligenzia; per@o che l'anima @e tanto in
+     quella sovrana potenza nobilitata e dinudata da materia, che
+     la divina luce, come in angelo, raggia in quella: e per@o @e
+     l'uomo divino animale da li filosofi chiamato.
+
+     I say then that the Philosopher in the second ^Of the Soul~
+     [see Aristotle, ^De anima~ II, 2, 413+b~] when analysing its
+     powers, says that the soul has in the main three powers, to
+     wit, life, sense and reason; and he also mentions motion,
+     but this may be united with sense, for every soul that has
+     sense (either with all the senses or some one of them only),
+     has motion also; so that motion is a power inseparable from
+     sense.  And, as he says, it is quite plain that these powers
+     are so related to each other that one is the foundation of
+     the other.  And that which is the foundation may exist by
+     itself apart; but the other, which is founded upon it, may
+     not exist apart from it.  Wherefore the vegetative power,
+     whereby things live, is the foundation upon which rests the
+     sensitive life, to wit, sight, hearing, taste, smell and
+     touch; and this vegetative power may constitute a soul in
+     itself, as we see in all the plants.  The sensitive power
+     cannot exist without this; there is nothing that feels,
+     without being alive.  And this sensitive power is the
+     foundation of the intellectual power, to wit the reason; and
+     therefore, amongst mortal things that have life, the
+     rational power without the sensitive is not to be found; but
+     the sensitive power is to be found without the other, as we
+     see in the beasts and in the birds and in the fishes and in
+     every brute animal.  And that soul which embraces all these
+     powers is the most perfect of all the rest.  And the human
+     soul, which is associated with the nobility of the highest
+     power, to wit reason, participates in the divine nature
+     after the fashion of an eternal intelligence; because the
+     soul is so ennobled, and stripped of material, in this
+     sovran power, that the divine light shines in it as in an
+     angel; and therefore man has been called by the philosophers
+     the "divine animal."
+
+	|55-56.  tanto ovra poi... marino~: Nardi (1960, p. 52)
+explains:
+
+     Onde la stessa virt@u attiva del seme, che s'era fatta anima
+     vegetativa, diventa ora anima sensitiva che ^si move e~
+     ^sente~, in quanto il suo atto ^si prende nel disposto~
+     ^paziente~, cio@e nel corpo che dall'anima acquista la
+     capacit@a di muoversi e di sentire.
+
+     ^Si move e sente~, non per@o ancora alla maniera degli
+     organismi perfetti la cui sensibilit@a @e differenziata
+     nella variet@a dei loro organi; ma piuttosto come gli
+     animali pi@u imperfetti, come fungo marino, cio@e come la
+     spugna, che, secondo la zoologia aristotelica e medievale,
+     occupa il posto infimo nella scala degli animali e si trova
+     sul confine del regno animale e di quello vegetale.
+
+     Whereupon the same active virtue of the semen, which had
+     become a vegetative soul, now becomes a sensitive soul that
+     "moves and feels," inasmuch as it "takes its act in the
+     predisposed subject" [^Conv.~ II, ix, 7], that is to say, in
+     the body which gets its ability to move and feel from the
+     soul.
+
+     "It moves and feels," but not yet like a perfect organism,
+     whose sensibility is differentiated in the variety of its
+     organs.  Rather, it moves and feels like more imperfect
+     animals, like a sea fungus, that is to say, like a sponge,
+     which according to Aristotelian and medieval zoology
+     occupies the lowest place in the scale of animals and is on
+     the border between the animal and vegetable worlds.  
+
+See Aristotle, ^Hist. animal.~ VIII, 1, 588+b~; V, 16, 548+b~;
+Albertus Magnus ^De animalibus~ XXI, i, 6; XXI, ii.  Also see E.
+Moore (1896), p. 137.
+
+	|57.  ad organar le posse ond'@e semente~: Referring to
+Aristotle, ^De anima~ II, 4, 415+b~, Nardi notes (1960, pp.
+52-53):
+
+     Come quelli della spugna anche i primi movimenti
+     dell'embrione si riducono alla semplice costrizione.  E la
+     sua prima sensibilit@a, indifferenziata e confusa, si
+     determina man mano che l'anima vien costruendo gli organi
+     nei quali attua le sue ^posse~, cio@e le sue potenze e
+     capacit@a: giacch@e, secondo il profondo concetto di
+     Aristotele, l'anima non solo @e atto, ma altres@i causa e
+     principio del corpo vivente.
+
+     Also like those of the sponge, the first movements of the
+     embryo amount to simple constriction.  Its first
+     sensibility, undifferentiated and confused, is gradually
+     determined as the soul builds the organs in which it will
+     actuate its powers, that is to say, its potencies and
+     capacities.  For, according to the profound concept of
+     Aristotle, the soul is not only act, but also the cause and
+     principle of the living body.
+
+	|58-60.  Or si spiega... intende~: See Nardi (1960), p.
+53: "E tosto che la virt@u attiva proveniente dal cuor del
+generante, 'dove natura a tutte membra intende,' ha preso ad
+avvivare la materia fornita dalla madre, nutrendosi di quella,
+comincia a fabbricare l'organismo, dispiegando le sue latenti
+capacit@a, e distendendosi nelle membra da s@e create."  ("And as
+soon as the active virtue that comes from the head of the
+generator, 'where nature makes provision for all the members,'
+has begun to enliven the matter furnished by the mother, while it
+nourishes itself thereupon, it begins to form the organism,
+unfolding its latent potentialities and extending itself into the
+members that it has created.")
+
+	|61.  Ma come d'animal divegna fante~: Nature has now
+carried her handiwork as far as she can: the fetus has all its
+organs and the animal stage as such is complete.  But how the
+animal becomes a human being, how it acquires a soul, is the
+difficult point, "forte ad intendere," as Dante, referring to
+Rom. 11:33, says in the ^Convivio~ (IV, xxi, 6):
+
+     Non si maravigli alcuno, s'io parlo s@i che par forte ad
+     intendere; ch@e a me medesimo pare maraviglia, come cotale
+     produzione si pu@o pur conchiudere e con lo intelletto
+     vedere.  Non @e cosa da manifestare a lingua, lingua, dico
+     veramente, volgare.  Per che io voglio dire come l'Apostolo:
+     "O altezza de le divizie de la sapienza di Dio, come sono
+     incomprensibili li tuoi giudicii e investigabili le tue
+     vie!"
+
+     Let no man marvel if I speak in such wise as seems hard to
+     understand; for to me myself it seems a marvel how such a
+     producing can be arrived at by argument and perceived by the
+     intellect; and it is not a thing to expound in language -- I
+     mean in any language truly vernacular.  Wherefore I would
+     say like the apostle: "Oh, height of the wealth of the
+     wisdom of God, how incomprehensible are thy judgments, and
+     thy ways past finding out!"
+
+	|fante~: A human being (cf. ^Purg.~ XI, 66).  |Fante~ is
+from the Latin ^fari~, "to speak," the capacity that
+distinguishes man from other animals.  See Dante, ^De vulg.
+eloqu.~ I, ii-iii, especially I, ii, 1: "Nam eorum que sunt
+omnium soli homini datum est loqui, cum solum sibi necessarium
+fuerit."  ("For to man alone of all existing beings was speech
+given, because for him alone was it necessary.")  This ability
+signifies the rational soul that is specifically human.  Thus, in
+a passage in the ^Convivio~ in which Dante speculates on the
+subtraction of the rational faculty from man, he observes
+(^Conv.~ IV, vii, 15): "Come levando l'ultimo canto del
+pentangulo rimane quadrangulo e non pi@u pentangulo, cos@i levando
+l'ultima potenza de l'anima, cio@e la ragione, non rimane pi@u
+uomo, ma cosa con anima sensitiva solamente, cio@e animale bruto." 
+("Just as if you withdraw the last side of a pentagon you have a
+quadrangle left, but no longer a pentagon, so if you withdraw the
+last power of the soul, that is the reason, the man is no longer
+left, but something with a sensitive soul only; that is, a brute
+animal.")
+
+	|62-66.  quest'@e tal punto... assunto~: This wiser one is
+Averro,es, who, as Dante says in ^Inf.~ IV, 144, "made the great
+commentary" of Aristotle.  B. Nardi (1960, p. 54) notes: "Per il
+commentatore arabo di Aristotele, ^l'intelletto possibile~ @e una
+sostanza separata da materia e disgiunta dall'anima sensitiva che
+@e forma e atto del corpo, alla quale si unisce solo
+nell'operazione dell'intendere."  ("For the Arab commentator on
+Aristotle, the possible intellect is a substance separate from
+matter and unconnected with the sensitive soul, which is the form
+and act of the body, and with which it is united only in the
+operation of understanding.")  See Averro,es, ^Comm. De anima~
+III, comm. 5.  As Dante will indicate (vss. 72-75), this is an
+erroneous interpretation.
+
+	|67-72.  Apri a la verit@a... repleto~: How the embryo
+acquires a rational soul is the point where Statius' knowledge
+exceeds Virgil's ken -- i.e., the light of natural reason -- and
+partakes of the "eternal view," of a revealed supernatural order
+of knowledge.  Aristotle, to be sure, also held that the rational
+soul comes from without, but he left the mystery at that. 
+Statius, the Christian, knows more, at least as much as is
+revealed to us in the Bible.  See Gen. 1:27: "Et creavit Deus
+hominem ad imaginem suam; ad imaginem Dei creavit illum, masculum
+et feminam creavit eos."  ("God created man in his image.  In the
+image of God he created him.  Male and female he created them.") 
+Also see Sapien. 15:10-11: "Cinis est enim cor eius, et terra
+supervacua spes illius, et luto vilior vita eius; quoniam
+ignoravit qui se finxit, et qui inspiravit illi animam quae
+operatur, et qui insufflavit ei spiritum vitalem."  ("Ashes his
+heart is! more worthless than earth is his hope, and more ignoble
+than clay his life; because he knew not the one who fashioned
+him, and breathed into him a quickening soul, and infused a vital
+spirit.")  But Statius, it must be admitted, also knows a good
+deal of specifically ^scholastic~ theology!
+
+	In good Christian doctrine the intellective soul which
+God now breathes into the completed handiwork of Nature must
+indeed come from Him and cannot have a natural origin, i.e.,
+cannot come from the seed of the parent.  Thus Thomas Aquinas
+(^Summa theol.~ I, q. 118, a. 2, resp.) says on the ^anima
+intellectiva~:
+
+     Et cum sit immaterialis substantia, non potest causari per
+     generationem, sed solum per creationem a Deo.  Ponere ergo
+     animam intellectivam a generante causari, nihil est aliud
+     quam ponere eam non subsistentem, et per consequens corrumpi
+     eam cum corpore.  Et ideo haereticum est dicere, quod anima
+     intellectiva traducatur cum semine.
+
+     Moreover, since it is an immaterial substance it cannot be
+     caused through generation, but only through creation by God. 
+     Therefore to hold that the intellectual soul is caused by
+     the begetter, is nothing else than to hold the soul to be
+     non-subsistent, and consequently to perish with the body. 
+     It is therefore heretical to say that the intellectual soul
+     is transmitted with the semen.
+
+Marco Lombardo, claiming that he was a "vera spia" of the truth,
+expounded this orthodox Christian doctrine in ^Purg.~ XVI, 85-86,
+where he stated that the soul "esce di mano a lui che la
+vagheggia / prima che sia, a guisa di fanciulla."
+
+	|69.  l'articular del cerebro~: The finishing touch of
+Nature's handiwork.
+
+	|70.  lo motor primo a lui si volge~: For the action of
+the First Mover (the term is Aristotelian) in giving the
+intellective soul to be the body's form, see Thomas Aquinas,
+^Summa theol.~ I, q. 105, a. 2, resp.:
+
+     Nam omnis motus corporis cuiuscumque vel consequitur formam
+     aliquam, sicut motus localis gravium et levium consequitur
+     formam quae datur a generante, ratione cuius generans
+     dicitur movens; vel est via ad formam aliquam, sicut
+     calefactio est via ad formam ignis.  Eiusdem autem est
+     imprimere formam, et disponere ad formam, et dare motum
+     consequentem ad formam.  Ignis enim non solum generat alium
+     ignem, sed etiam calefacit, et sursum movet.  Cum igitur
+     Deus possit immediate formam materiae imprimere, consequens
+     est ut possit secundum quemcumque motum corpus quodcumque
+     movere.
+
+     For every movement of any body whatever, either results from
+     a form, as the movements of things heavy and light result
+     from the form which they have from their generating cause,
+     for which reason the generator is called the mover; or else
+     tends to a form, as heating tends to the form of heat.  Now
+     it belongs to the same cause, to imprint a form, to dispose
+     to that form, and to give the movement which results from
+     that form; for fire not only generates fire, but it also
+     heats and moves things upwards.  Therefore, as God can
+     imprint form immediately in matter, it follows that he can
+     move any body whatever in respect of any movement whatever.
+
+The choice of the term ^motor primo~ thus suggests the moving,
+the launching into life of the intellective soul, the "spirito
+novo" of vs. 72.        |a lui~: To the fetus, now fully formed. 
+|lieto~: Cf. ^Purg.~ XVI, 89: "lieto fattore."
+
+	|71.  sovra tant'arte di natura~: As if God admired
+Nature's handiwork!  By this turn of phrase the line between
+Nature's province and God's is stressed.     |e spira~: As in the
+Bible (see quotations in n. to vss. 67-72).  There is nothing of
+this, needless to say, in Aristotle's philosophy.
+
+	|72.  spirito novo, di vert@u repleto~: The intellective
+soul, the immortal part of the human creature and form of the
+body.  This rational soul, though its two powers are the
+intellect and the will, takes its name from that of intellect --
+see Thomas Aquinas, ^Summa theol.~ I, q. 79, a. 1, ad. 1:
+"Denominatur enim anima sensitiva nomine principalioris suae
+potentiae, quae est sensus; et similiter anima intellectiva
+quandoque nomine intellectus, quasi a principaliori sua virtute." 
+("For the sensitive soul takes its name from its chief power,
+which is sense.  And in like manner the intellectual soul is
+sometimes called intellect, as from its chief power.") 
+Similarly, the rational soul is sometimes denoted by the more
+specific term of ^intellectus possibilis.~  See Dante, ^Conv.~
+III, ii, 14.
+
+	|73.  ci@o che trova attivo quivi~: The powers of the
+vegetative and sensitive souls.
+
+	|73-74.  tira in sua sustanzia~: On this particular
+point, when the new spirit draws into its substance that which it
+finds active already in the souls of the fetus, see B. Nardi
+(1960), p. 55:
+
+     Tosto che l'anima sensitiva ha finito di ^organar le posse~
+     ^ond'@e semente~, e ^l'articular del cerebro @e perfetto~,
+     il Primo Motore, cio@e Dio, si volge all'embrione cos@i
+     organizzato, e, compiacendosi ^di tant'arte di natura~, la
+     reca a compimento spirando uno ^spirito nuovo~ che assorbe
+     in s@e e ^tira in sua sustanzia~ quello ^che trova attivo~
+     ^quivi.~  Lo ^spirito nuovo~, creato direttamente da Dio, @e
+     ^l'intelletto possibile~ del ^Convivio~; ed @e ripieno di
+     virt@u, in quanto "potenzialmente in s@e adduce tutte le
+     forme universali, secondo che sono nel suo produttore," e
+     non nel senso che esso rechi con s@e, nell'embrione, una
+     nuova virt@u vegetativa e sensitiva.  Che questa venga
+     creata da Dio non ve n'@e bisogno, poich@e lo ^spirito~
+     ^nuovo~ la trova gi@a attiva nell'embrione, e non fa che
+     tirarla ^in sua sustanzia~, per formare con essa ^un'alma~
+     ^sola~, dotata di vita vegetativa, di senso e del potere di
+     riflessione, cio@e di pensiero.
+
+     As soon as the sensitive soul has finished developing the
+     organs for the powers whereof it is the germ, and the
+     articulation of the brain is perfected, the First Mover,
+     that is, God, turns to the embryo thus organized and
+     rejoicing over such handiwork of nature, completes its
+     formation by breathing a new spirit which absorbs into
+     itself and draws into its own substance that which it finds
+     active there.  This new spirit, created directly by God, is
+     the possible intellect of the ^Convivio~, and it is full of
+     power, in that it "potentially absorbs into itself all the
+     universal forms, according as they are in its producer," and
+     not in the sense that it brings with it, into the embryo, a
+     new vegetative and sensitive power.  That this [power]
+     should be created by God is not needful, since the new
+     spirit finds it already active in the embryo and only draws
+     it into its own substance to form with it a single soul,
+     endowed with vegetative life, with senses, and with the
+     power of reflection, that is, of thought.
+
+	|74-75.  e fassi un'alma sola... rigira~: Cf. ^Purg.~ IV,
+5-6.  On the unity of the soul, see Thomas Aquinas, ^Summa
+theol.~ I, q. 76, a. 3, resp.:
+
+     Si igitur homo ab alia forma haberet quod sit vivum,
+     scilicet ab anima vegetabili, et ab alia forma quod sit
+     animal, scilicet ab anima sensibili, et ab alia quod sit
+     homo, scilicet ab anima rationali; sequeretur quod homo non
+     esset unum simpliciter, sicut et Aristoteles argumentatur
+     contra Platonem, in 3 Metaph. (text. 20), quod si alia esset
+     idea animalis, et alia bipedis, non esset unum simpliciter
+     animal bipes.  Et propter hoc, in 1 de Anima (text. 90),
+     contra ponentes diversas animas in corpore inquirit, quid
+     contineat illas, id est quid faciat ex eis unum.  Et non
+     potest dici, quod uniantur per corporis unitatem; quia magis
+     anima continet corpus, et facit ipsum esse unum, quam e
+     converso....  Sic ergo dicendum quod eadem numero est anima
+     in homine, sensitiva et intellectiva et nutritiva.
+
+     Quomodo autem hoc contingat, de facili considerari potest,
+     si quis differentias specierum et formarum attendat. 
+     Inveniuntur enim rerum species et formae differre ab invicem
+     secundum perfectius et minus perfectum; sicut in rerum
+     ordine animata perfectiora sunt inanimatis, et animalia
+     plantis, et homines animalibus brutis: et in singulis horum
+     generum sunt gradus diversi.  Et ideo Aristoteles, in 8
+     Metaph. (text. 10), assimilat species rerum numeris, qui
+     differunt specie secundum additionem vel subtractionem
+     unitatis; et in 2 de Anima (text. 30 et 31), comparat
+     diversas animas speciebus figurarum, quarum una continet
+     aliam, sicut pentagonum continet tetragonum, et excedit. 
+     Sic igitur anima intellectiva continet in sua virtute
+     quidquid habet anima sensitiva brutorum, et nutritiva
+     plantarum.  Sicut ergo superficies quae habet figuram
+     pentagonam non per aliam figuram est tetragona, et per aliam
+     pentagona, quia superflueret figura tetragona, ex quo in
+     pentagona continetur; ita nec per aliam animam Socrates est
+     homo, et per aliam animal, sed per unam et eamdem.
+
+     If, therefore, man were ^living~ by one form, the vegetative
+     soul, and ^animal~ by another form, the sensitive soul, and
+     ^man~ by another form, the intellectual soul, it would
+     follow that man is not absolutely one.  Thus Aristotle
+     argues, ^Metaph.~ viii. [6, 1045+a~] (Did. vii. 6), against
+     Plato, that if the idea of an animal is distinct from the
+     idea of a biped, then a biped animal is not absolutely one. 
+     For this reason, against those who hold that there are
+     several souls in the body, he asks (^De Anima~ i. 5
+     [411+b~]), ^what contains them?~-- that is, what makes them
+     one?  It cannot be said that they are united by the one body;
+     because rather does the soul contain the body and make it
+     one, than the reverse....
+
+     We must therefore conclude that in man the sensitive soul,
+     the intellectual soul, and the nutritive soul are
+     numerically one soul.  This can easily be explained, if we
+     consider the differences of species and forms.  For we
+     observe that the species and forms of things differ from one
+     another, as the perfect and the imperfect; as in the order
+     of things, the animate are more perfect than the inanimate,
+     and animals more perfect than plants, and man than brute
+     animals; and in each of these genera there are various
+     degrees.  For this reason Aristotle, ^Metaph.~ viii. [3,
+     1043+b~-1044+a~] (Did. vii. 3), compares the species of things
+     to numbers, which differ in species by the addition or
+     subtraction of unity.  And (^De Anima~ ii. 3 [414+b~]) he
+     compares the various souls to the species of figures, one of
+     which contains another; as a pentagon contains and exceeds a
+     tetragon.  Thus the intellectual soul contains virtually
+     whatever belongs to the sensitive soul of brute animals, and
+     to the nutritive soul of plants.  Therefore, as a surface
+     which is of a pentagonal shape, is not tetragonal by one
+     shape, and pentagonal by another -- since a tetragonal shape
+     would be superfluous as contained in the pentagonal -- so
+     neither is Socrates a man by one soul, and animal by
+     another; but by one and the same soul he is both animal and
+     man.
+
+Dante, in ^Conv.~ IV, vii, 15, makes use of this passage from
+Aristotle's ^De anima~ comparing souls to figures (see quotation
+in n. to vs. 61); see also ^Conv.~ IV, xix, 6.
+
+	Aquinas goes on (^Summa theol.~ I, q. 76, a. 3, ad 1) to
+point out that the sensitive soul becomes incorruptible when it
+is united with the rational soul:
+
+     Anima sensitiva non habet incorruptibilitatem ex hoc quod
+     est sensitiva; sed ex hoc quod est intellectiva, ei
+     incorruptibilitas debetur.  Quando ergo anima est sensitiva
+     tantum, corruptibilis est, quando vero cum sensitivo
+     intellectivum habet, est incorruptibilis; licet enim
+     sensitivum incorruptionem non det, tamen incorruptionem
+     intellectivo auferre non potest.
+
+     The sensitive soul is incorruptible, not by reason of its
+     being sensitive, but by reason of its being intellectual. 
+     When, therefore, a soul is sensitive only, it is
+     corruptible; but when with sensibility it has also
+     intellectuality, it is incorruptible.  For although
+     sensibility does not give incorruptibility, yet it cannot
+     deprive intellectuality of its incorruptibility.
+
+This is a point that counts for a good deal in the argument here
+as it proceeds, since the soul, when separated from the body at
+death, is said to bear with it, ^in virtute~, the sensitive soul,
+now one with the intellective and incorruptible, because the
+intellective soul has drawn the sensitive and the nutritive souls
+"into its substance."
+
+	|74.  fassi~ = ^si fa.~  The subject is "spirito novo"
+(vs. 72).  This transformation, brought about by the spirit,
+bears witness to its new power, its virtue.
+
+	|75.  vive e sente e s$e in s$e rigira~: The verbs denote
+the activities of the vegetative, the sensitive, and the rational
+"souls," now better termed ^potentiae~, respectively.  See n. to
+vss. 52-54.  For "s$e in s$e rigira" to denote intellection, see
+^Conv.~ IV, ii, 18: "Per@o che essa filosofia, che @e... amoroso
+uso di sapienza, se medesima riguarda... che altro non @e a dire,
+se non che l'anima filosofante non solamente contempla essa
+veritade, ma ancora contempla lo suo contemplare medesimo." 
+("Because philosophy, which... is 'the loving exercise of
+wisdom,' contemplates herself... what else is this but to say
+that the philosophising soul not only contemplates the truth, but
+also contemplates its own contemplation.")
+
+	|76.  la parola~: My words.
+
+	|77-78.  guarda il calor... cola~: See B. Nardi (1960),
+p. 56, n. 3: "Materialmente l'immagine dantesca @e suggerita da
+Cicerone, ^De sen.~, XV, 53, ma idealmente essa deriva
+dall'immagine consimile dell'unione della luce solare e di quella
+del fuoco nell'aria."  ("Materially, the Dantesque image is
+suggested by Cicero, ^De senectute~ XV, 53; but ideally, it
+derives from the similar image of the union of the light of the
+sun and the light of fire in the air.")  Note Nardi's reference
+on this point.  Thus, analogously, the new spirit, joined to the
+fetus, Nature's handiwork, results in a new substance, which is
+both human, i.e., natural (juice of the vine), and divine (the
+sun).
+
+	|giunto a~: "Blended with." 	|l'omor che de la vite
+cola~: The grape, of course, after it has been gathered from the
+vine, is pressed to make wine.  The process of fermentation was
+not understood at the time.
+
+	|79.  Quando L@achesis non ha pi@u del lino~: At the moment
+of death.  See ^Purg.~ XXI, 25.
+
+	|80.  solvesi~ = ^si solve.~  The subject is the ^anima~
+or "alma" of vs. 74.  B. Nardi (1960, p. 58) says: "Al separarsi
+dal corpo, trae seco ^e l'umano e 'l divino~, cio@e appunto
+l'anima vegetativo-sensitiva, venuta per generazione dalla virt@u
+del generante, e l'intelletto possibile, che @e lo spirito nuovo
+creato da Dio."  ("Upon separating itself from the body, it [the
+human soul] takes with it both the human and the divine, that is
+to say, precisely the vegetative-sensitive soul, which came by
+way of generation by virtue of the generator, and the possible
+intellect, which is the new spirit created by God.")
+
+	|80-81.  e in virtute... divino~: The "divine" is, of
+course, the intellective soul created by God, the "human" part is
+what was called nature's handiwork, the vegetative and sensitive
+powers.  It is these that are "in virtute," since the divine part
+is now said to be more acute than before.  B. Nardi (1960, p. 58)
+explains:
+
+     Le facolt@a vegetative e sensitive... per esser prive dello
+     strumento necessario, cessano dal loro atto secondo, e
+     perdurano solo nel loro atto primo, in quanto son congiunte
+     all'intelletto.  In altre parole, la parte vegetativa e
+     sensitiva dell'anima, non potendo pi@u spiegarsi e
+     distendersi nelle membra del corpo, che @e disciolto, torna
+     a vivere di quella vita latente ch'era propria del seme
+     umano, ossia ritorna ad essere pura ^virt@u informativa.~
+
+     The vegetative and sensitive faculties... being deprived of
+     the necessary instrument, discontinue their second act and
+     perdure only in their first act, inasmuch as they are
+     conjoined with the intellect.  In other words, because the
+     vegetative and sensitive part of the soul is no longer able
+     to unfold and extend itself into the members of the body,
+     which is dissolved, it goes back to live that latent life
+     which was proper to the human semen; that is, it goes back
+     to being pure formative virtue.
+
+This would seem to be the meaning of "in virtute."
+
+	Thomas Aquinas uses ^virtute~ in a way similar to that of
+"in virtute."  See ^Summa theol.~ I, q. 77, a. 8, resp.:
+
+     Quaedam vero potentiae sunt in coniuncto sicut in subiecto,
+     sicut omnes potentiae sensitivae partis et nutritivae. 
+     Destructo autem subiecto, non potest accidens remanere. 
+     Unde corrupto coniuncto, non manent huiusmodi potentiae
+     actu, sed virtute tantum manent in anima sicut in principio
+     vel radice.  
+
+     But other powers are subjected in the composite;
+     as all the powers of the sensitive and nutritive parts. 
+     Now accidents cannot remain after the destruction of the
+     subject.  Wherefore, the composite being destroyed, such
+     powers do not remain actually; but they remain virtually
+     in the soul, as in their principle or root.
+
+Also see ^Summa theol.~ I, q. 76, a. 4, resp.:
+
+     Unde dicendum est, quod nulla alia forma substantialis est
+     in homine nisi sola anima intellectiva, et quod ipsa sicut
+     virtute continet animam sensitivam et nutritivam, ita
+     virtute continet omnes inferiores formas, et facit ipsa
+     sola quidquid imperfectiores formae in aliis faciunt.
+
+     Whence we must conclude, that there is no other substantial
+     form in man besides the intellectual soul; and that the
+     soul, as it virtually contains the sensitive and nutritive
+     souls, so does it virtually contain all inferior forms, and
+     itself alone does whatever the imperfect forms do in other
+     things.
+
+	|82.  l'altre potenze tutte quante mute~: "Altre"
+anticipates the naming of the three powers in the next verse; and
+since the three yet to be named are powers of the intellective
+soul, these "mute" powers must be those of the vegetative and
+sensitive souls.
+
+	|83.  memoria, intelligenza e volontade~: B. Nardi (1960,
+p. 58) writes: "Le tre facolt@a della psicologia agostiniana,
+nelle quali risplende l'immagine della Trinit@a, cio@e la memoria,
+l'intelligenza e la volont@a, libere ormai dal corpo di cui non
+hanno bisogno per la loro operazione, sono pi@u attive di quando
+erano legate alla materia."  ("The three faculties of Augustinian
+psychology, in which there shines forth the image of the Trinity,
+that is, the memory, the intelligence, and the will, liberated
+now from the body, which they no longer need for their operation,
+are more active than they were when bound to matter.")  See
+Augustine, ^De Trinitate~ IX and X. In ^De Trinitate~ X, xi, 18,
+Augustine states: "Memoria, intelligentia, voluntas [sunt] una
+mens."  ("The memory, the intelligence and the will constitute
+one mind.")
+
+	|85-86.  Sanza restarsi~: The ^anima~ is the subject.
+
+	|per s$e stessa... rive~: The soul falls either to the
+shore of Acheron (^Inf.~ III, 122-123) or to the shore near the
+mouth of the Tiber (^Purg.~ II, 100-102).
+
+	|mirabilmente~: Mysteriously and by divine decree.
+
+	|87.  quivi conosce prima le sue strade~: Only when it
+finds itself on the one shore or the other does the soul know
+what its eternal destiny is.
+
+	|88.  Tosto che loco l@i la circunscrive~: Strictly
+speaking, the soul, without the body, may not be said to be
+circumscribed by space; but the soul, in this case, is going to
+take on at least the semblance of a body, and the locating of it
+in space anticipates the fact.  Compare Thomas Aquinas, ^Summa
+theol.~ I, q. 52, a. 2, resp.:
+
+     Sic igitur patet quod diversimode esse in loco convenit
+     corpori, et Angelo, et Deo.  Nam corpus est in loco
+     circumscriptive, quia commensuratur loco: Angelus autem non
+     circumscriptive, cum non commensuretur loco, sed definitive;
+     quia ita est in uno loco quod non in alio; Deus autem neque
+     circumscriptive, neque definitive, quia est ubique.
+
+     So, then, it is evident that to be in a place appertains
+     quite differently to a body, to an angel, and to God.  For a
+     body is in a place in a circumscribed fashion, since it is
+     measured by the place.  An angel, however, is not there in a
+     circumscribed fashion, since he is not measured by the
+     place, but definitively, because he is in one place in such
+     a manner that he is not in another.  But God is neither
+     circumscriptively nor definitively there, because He is
+     everywhere.
+
+	|89-90.  la virt@u formativa... vive~: Writes B. Nardi
+(1960), p. 58: "La stessa ^virt@u informativa~ che aveva
+organizzato il corpo terreno nel seno materno, raggia intorno
+nell'aere vicino e imprende a organizzare un corpo pi@u sottile e
+leggiero, nel quale riacquista l'atto di anima vegetativa e
+sensitiva con tutti i cinque sensi."  (The same formative virtue
+that had organized the earthly body in the maternal womb now
+radiates into the nearby air and begins to organize a lighter,
+more subtle body in which it re-acquires the act of the
+vegetative and the sensitive soul with all five senses.")  The
+air, as will now be explained, serves in lieu of the material
+body ("membra vive").
+
+	|91.  piorno~ = ^piovorno~, "full of moisture," as of
+rain (^piova~).
+
+	|92.  l'altrui raggio~: The ray of the sun.  "Altrui"
+here is possessive.
+
+	|93.  di diversi color diventa addorno~: The rainbow. 
+Thus, the comparison suggests, souls in the afterlife have, as it
+were, "rainbow bodies."
+
+	|95.  in lui~: "In it," i.e., the air.  |suggella~: The
+subject is "l'alma che ristette" in the following verse.
+
+	|96.  virtualmente~: See n. to vss. 80-81 for the use of
+the Latin ^virtute.~ 	|l'alma che ristette~: The soul that has
+found its place on the one shore or the other.  See n. to vss.
+85-86.
+
+	|97-98.  e simigliante... il foco~: According to this
+conception, the fire is the invisible element, the flame its
+visible manifestation, i.e., that which it forms in the air.
+
+	|99.  sua forma novella~: The subject of "segue."
+
+	|100.  Per@o che~ = ^per ci@o che.~ 	|quindi~:
+"Thereby," i.e., by way of the aerial body.      |sua paruta~:
+"Its visibility."
+
+	|101-102.  @e chiamata ombra~: Because it is unsubstantial
+but visible.       |organa~ = ^organizza.~
+
+	|organa poi... veduta~: Thus all the senses are
+organized, that is, the activities of the sensitive soul, which
+is brought with it ^in virtute.~
+
+	|103.  Quindi~: By virtue of the aerial body.  Cf.
+Virgil, ^Aen.~ VI, 733: "hinc metuunt cupiuntque, dolent
+gaudentque" ("hence their fears and desires, their griefs and
+joys").  
+
+	|106.  ci affligono~: "Affect us."  Cf. the Latin ^nos
+afficiunt.~
+
+	|107.  l'ombra si figura~: The shade takes on this or
+that appearance -- of extreme emaciation in the present case,
+from a desire to eat.  Their apparently wasted bodies are thus
+the expression of a desire, not the result of actual starvation,
+which is not possible here.
+
+	|108.  quest'@e la cagion di che tu miri~: This was the
+cause of Dante's wonder and brought up the whole question.
+
+	|109-110.  E gi@a venuto... s'era per noi~: Cf. the Latin
+^ventum erat a nobis.~  See ^Inf.~ I, 126 ("per me si vegna") and
+^Purg.~ XXII, 85 ("per me si stette").
+
+	|l'ultima tortura~: This confirms what the knowledgeable
+reader would expect -- namely, that the seventh terrace, which
+Statius, Virgil, and Dante now come to, is the last and contains
+the last purgatorial "torture."
+
+	|e v@olto~: I.e., "e si era volto per noi."
+
+	|112-114.  Quivi la ripa... sequestra~: From the upright
+inner wall a horizontal flame shoots forth as far as the outer
+edge of the terrace, but there a vertical blast of air by
+deflecting the flame upward "sequesters a path" along the outside
+edge of the terrace.
+
+	|balestra~: "Sweeps," suggesting a powerful sweep
+of fire.
+
+	|e la cornice~: The outer edge of the terrace.
+
+	|che la reflette~: Which turns it, blows it back. 
+|da lei~: I.e., from the fire.
+
+	|115.  ne~ = ^ci.~ 	|convenia~ = ^conveniva.~
+
+	|117.  quinci~: I.e., on the left side. 	|quindi~:
+I.e., on the right side, which is "free."
+
+	|120.  per@o ch'~ = ^perci@o che.~ 	|potrebbesi~ =
+^si potrebbe.~
+
+	|121.  Summae Deus clementiae~: See E. Moore (1899), pp.
+260-261:
+
+     Here arises a curious point well worthy of our attention.  A
+     hymn beginning with these precise words is used on one of
+     the Festivals of the Blessed Virgin ("Septem Dolorum"); but
+     there is another hymn beginning, "Summae ^Parens~
+     clementiae," which occurs in the regular office for Matins
+     on Saturday.  Now the contents of this latter hymn are most
+     appropriate for the purpose to which Dante applies it, while
+     those of the other hymn, "Summae ^Deus~ clementiae," are not
+     at all so.  It has sometimes therefore been supposed that
+     Dante intended to refer to this Matins Hymn, though he has
+     not quite accurately quoted it.  The true explanation is
+     curiously different from this.  The Matins hymn originally,
+     and in Dante's time, was in fact in the form "Summae ^Deus~
+     clementiae," not ^Parens~, exactly as Dante quotes it,
+     though it is no longer so in the present Breviary.  The
+     alteration in this line (as well as several others coming
+     afterwards in the same hymn) was introduced in the year
+     1631, at the revision of Urban VIII, by whom many of the
+     ancient hymns were somewhat modernized, harsh or rugged
+     expressions being softened down, and other adaptations or
+     supposed improvements introduced.  If any one will refer to
+     this Saturday Matins hymn in some of the ancient uses (such
+     e.g. as Sarum, Hereford, York), it will be found in the form
+     quoted by Dante.  Indeed, he could no more be expected to
+     quote it in any other, than Milton could be expected to
+     recognize the version of Brady and Tate.  Thus we see in all
+     these cases that Dante drew upon very familiar and well-
+     known parts of the Offices of the Church, in prescribing
+     prayers or meditations for the discipline of the several
+     classes of penitents.
+
+M.  Britt (1955, pp. 45-46) affords the following text and
+translation of the Saturday Matins hymn:
+
+     Summae Parens clementiae,
+     Mundi regis qui machinam,
+     Unius et substantiae,
+     Trinusque personis Deus:
+
+     Nostros pius cum canticis
+     Fletus benigne suscipe:
+     Ut corde puro sordium
+     Te perfruamur largius.
+
+     Lumbos, iecurque morbidum
+     Flammis adure congruis,
+     Accincti ut artus excubent,
+     Luxu remoto pessimo.
+
+     Quicumque ut horas noctium
+     Nunc concinendo rumpimus,
+     Ditemur omnes affatim
+     Donis beatae patriae.
+
+     Praesta, Pater piissime,
+     Patrique compar Unice,
+     Cum Spiritu Paraclito
+     Regnans per omne saeculum.
+
+     Great God of boundless mercy hear;
+     Thou Ruler of this earthly sphere;
+     In substance one, in Persons three,
+     Dread Trinity in Unity!
+
+     Do Thou in love accept our lays
+     Of mingled penitence and praise;
+     And set our hearts from error free,
+     More fully to rejoice in Thee.
+
+     Our reins and hearts in pity heal,
+     And with Thy chastening fires anneal;
+     Gird Thou our loins, each passion quell,
+     And every harmful lust expel.
+
+     Now as our anthems, upward borne,
+     Awake the silence of the morn,
+     Enrich us with Thy gifts of grace,
+     From heaven, Thy blissful dwelling place!
+
+     Hear Thou our prayer, Almighty King;
+     Hear Thou our praises, while we sing,
+     Adoring with the heavenly host
+     The Father, Son, and Holy Ghost.
+
+	|123.  che di volger mi f$e caler non meno~: Which made
+me no less concerned to attend to the singing, no less concerned,
+that is, than I was to watch my step also, because of the danger
+of falling over.  Cf. vss. 125-126.
+
+	|126.  compartendo la vista a quando a quando~: Dividing
+my gaze between the souls in the fire and my steps.
+
+	|127.  Appresso il fine ch'a quell' inno fassi~: The poet
+makes a special point of the fact that the spirits sing the hymn
+in its entirety, thus suggesting that the reader recall it all --
+especially its third stanza.    |fassi~ = ^si fa.~
+
+	|128.  gridavano~: The past descriptive tense (instead of
+a narrative ^gridarono~) suggests repetition.  Cf.
+"ricominciavan" in the following verse and the other verbs that
+follow here.  ^Virum non cognosco~: Cf. Luc. 1:34: "Dixit autem
+Maria ad angelum: Quomodo fiet istud, quoniam virum non
+cognosco?")  ("But Mary said to the angel, 'How shall this
+happen, since I do not know man?'")
+
+	|129.  bassi~: The spirits shout aloud the examples, then
+lower their voices as they sing the hymn.
+
+	|130-132.  anco~: "Once more."
+
+	|Al bosco si tenne Diana... t@osco~: Helice or Callisto,
+daughter of Lycaon, king of Arcadia, was one of Diana's nymphs,
+but was dismissed when Diana discovered that she had been seduced
+by Jupiter, by whom she became the mother of Arcas.  The story is
+told by Ovid, ^Metam.~ II, 401-530.
+
+	|caccionne~ = ^ne cacci@o.~  Cf. ^Metam.~ II, 465: "deque
+suo iussit secedere coetu" ("and so expelled her from her
+company").
+
+	|134.  fuor~ = ^furono.~
+
+	|135.  imponne~ = ^ci impone~, singular verb with dual
+subject.
+
+	|136.  questo modo~: The constant alternation of the hymn
+and the recitation of examples of chastity.     |lor~: Dative.
+
+	|138-139.  cura... pasti... piaga~: The terms bear a
+medical connotation that is confirmed in the final "si ricuscia." 
+The cure is the fire (and the third stanza of the hymn should be
+remembered); the diet is the hymn and the examples recited.
+
+	|da sezzo~: "At last."  Cf. ^Inf.~ VII, 130.
+
+

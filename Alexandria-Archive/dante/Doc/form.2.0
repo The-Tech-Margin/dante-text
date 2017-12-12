@@ -1,0 +1,374 @@
+\~
+\~	FORM File for XDAN Database
+\~
+
+\~	Long Version of Database Label
+      banner:	Experimental DDP Database
+
+\~	Sub-paragraph Break Markers
+    parbreak:	\n
+
+\~	Number of Spaces to Skip on Each Input Line
+ inputindent:	0
+
+
+\~
+\~	XDAN Paragraph Specifications
+\~
+
+   shortname: DOCN
+    longname:	BRS Assigned Accession Number
+   inputname:	..Document-Number:
+       flags:	NOSRCH DPST-WORD VALALL-NP 
+         vfy:	MIN=1 CNT=1 MASK=999999999
+
+\~
+
+   shortname: COMM
+    longname:	Commentary Name
+   inputname:	..COMM:
+       flags:	SRCH DPST-WORD NOSTOP 
+         vfy:	ANY MIN=1 MAX=75 CNT=1
+
+\~
+
+   shortname: LANG
+    longname:	Language of the Commentary
+   inputname:	..LANG:
+       flags:	SRCH DPST-WORD NOSTOP 
+         vfy:	ALPHA MIN=1 MAX=20 CNT=1
+
+\~
+
+   shortname: DTYP
+    longname:	Type of Document ("Description" or "Text")
+   inputname:	..DTYP:
+     default:	Text
+       flags:	SRCH DPST-WORD NOSTDSTOP 
+         vfy:	SALPHA MIN=1 MAX=20 CNT=1
+
+\~
+
+   shortname: AUTH
+    longname:	Commentary Author
+   inputname:	..AUTH:
+       flags:	SRCH FMT DPST-WORD 
+         vfy:	ANY MIN=1 
+
+\~
+
+   shortname: PUBL
+    longname:	Original Publisher or Editor
+   inputname:	..PUBL:
+       flags:	SRCH FMT DPST-WORD 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: EDTR
+    longname:	Dante Project Editor
+   inputname:	..EDTR:
+       flags:	SRCH FMT DPST-WORD 
+         vfy:	ANY MIN=1 LINE=79 
+
+\~
+
+   shortname: ATTR
+    longname:	Technical Attributes of the Commentary
+   inputname:	..ATTR:
+       flags:	SRCH DPST-WORD 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: NOTE
+    longname:	Miscellaneous Notes
+   inputname:	..NOTE:
+     subpars:	1000
+       flags:	SRCH FMT DPST-WORD 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: DENT
+    longname:	Data Entry Information
+   inputname:	..DENT:
+       flags:	SRCH DPST-WORD 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: LODD
+    longname:	Date of Loading (YYMMDD)
+   inputname:	..LODD:
+       flags:	NOSRCH DPST-WORD 
+         vfy:	CNT=1 MASK=999999
+
+\~
+
+   shortname: CTCA
+    longname:	Cantica Name
+   inputname:	..CTCA:
+       flags:	SRCH DPST-WORD NOSTDSTOP 
+         vfy:	SALPHA MIN=1 MAX=20 CNT=1
+
+\~
+
+   shortname: CNTO
+    longname:	Canto Number (or "Proemio")
+   inputname:	..CNTO:
+       flags:	SRCH DPST-WORD VALALL-NP 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: LINE
+    longname:	First (or only) Line Number Reference
+   inputname:	..LINE:
+       flags:	SRCH DPST-WORD NOSTDSTOP NOABBREV VALALL-NP 
+         vfy:	ANY LINE=79
+
+\~
+
+   shortname: ENDL
+    longname:	Ending Line Number Reference
+   inputname:	..ENDL:
+       flags:	SRCH DPST-WORD NOSTDSTOP NOABBREV VALALL-NP 
+         vfy:	NUMBERS MAX=10 CNT=1
+
+\~
+
+   shortname: TEXT
+    longname:	Commentary text
+   inputname:	..TEXT:
+     eoslist:	".", "?", "!", ".~"
+     subpars:	1000
+       flags:	SRCH DPST-WORD NOALTSTOP 
+         vfy:	ANY LINE=79
+
+\~
+\~	Equivalencies for XDAN
+\~
+
+   shortname: SHRT
+ equivalence:	COMM,CTCA,CNTO,LINE,ENDL
+
+   shortname: DESC
+ equivalence:	COMM,AUTH,LANG,PUBL,EDTR,NOTE
+
+\~
+\~	Primary Alternate Stopword List for XDAN Database
+\~
+
+altstoplist1:
+	&
+	A
+	AD
+	AGLI
+	AL
+	ALL'
+	ALLE
+	ANCORCHE
+	ASSAI
+	BENCHE
+	BENE
+	CE
+	CHE
+	CI
+	CIO
+	COL
+	COLL'
+	CON
+	CONCERNANTE
+	COSI
+	D.C.
+	DA
+	DAL
+	DALL'
+	DALLE
+	DALLO
+	DANTE
+	DEL
+	DELL
+	DELLA
+	DELLE
+	DELLO
+	DI
+	DIFATTI
+	DIV.
+	DUNQUE
+	E
+	ECC.
+	EGLI
+	ERA
+	ERANO
+	ESSA
+	FRA
+	FRATTANTO
+	FU
+	FURONO
+	GIA
+	IL
+	IN
+	INFATTI
+	INFRA
+	INTANTO
+	INTRA
+	LA
+	LE
+	LEI
+	LI
+	LUI
+	MA
+	MENO
+	MENTRE
+	MOLTO
+	NE
+	NEL
+	NELL
+	NELLA
+	NELLE
+	NELLO
+	NON
+	PER
+	PERCHE
+	QUALE
+	QUALI
+	QUANDO
+	QUANTO
+	QUI
+	QUINDI
+	SENZA
+	SONO
+	SOPRA
+	SOTTO
+	SU
+	SUL
+	SULL'
+	SULLA
+	SULLE
+	SULLO
+	TANTA
+	TANTE
+	TANTI
+	TANTO
+	TRA
+	TUTTA
+	TUTTE
+	TUTTI
+	TUTTO
+	UN
+	UN'
+	UNA
+	UNO
+:end
+
+\~
+\~	Secondary Alternate Stopword List for XDAN Database
+\~
+
+altstoplist2:
+	&
+	&C
+	A
+	AB
+	AC
+	AD
+	ANTE
+	ARQUE
+	AT
+	BENE
+	CAUSA
+	CIRCA
+	CIRCUM
+	CONTRA
+	CUM
+	CUMQUE
+	DANTIS
+	DE
+	DEINDE
+	DUM
+	E
+	EA
+	EAM
+	EI
+	ERANT
+	ERAT
+	EST
+	ET
+	ETC
+	EUM
+	EX
+	EXTRA
+	HIC
+	HINC
+	IAM
+	IBI
+	ID
+	ILLIC
+	IMMO
+	IMO
+	IN
+	INTER
+	INTERDUM
+	INTRA
+	IS
+	ITA
+	ITAQUE
+	IVI
+	MALE
+	NE
+	NISI
+	NON
+	NUNC
+	OB
+	PAULO
+	PER
+	POETA
+	POST
+	PROPTER
+	QUA
+	QUANDO
+	QUANDUM
+	QUANTO
+	QUI
+	QUID
+	QUIS
+	QUO
+	QUOD
+	SAEPE
+	SE
+	SED
+	SI
+	SIC
+	SICUT
+	SINE
+	SUB
+	SUM
+	SUNT
+	SUPER
+	SUPRA
+	TALE
+	TALIS
+	TAMQUAM
+	TANQUAM
+	TANTUM
+	TRANS
+	TUM
+	UT
+:end
+
+\~
+\~	Abbreviation List for XDAN Database
+\~
+
+abbrevlist:
+	INF.
+	PAR.
+	PURG.
+:end
+
+
+\~
+\~	End of XDAN Form File
+\~

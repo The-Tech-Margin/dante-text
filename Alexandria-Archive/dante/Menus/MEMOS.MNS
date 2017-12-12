@@ -1,0 +1,245 @@
+{MEMOS}
+;
+;	SCCS ID "@(#) BRS Mate: Menu MEMOS.MNS v41.4 (2/14/88) { Release 4.1 }"
+;
+
+:COMPARE @SELECTION
+
+     TO ""
+
+	:COMPARE @PTEXT
+	     TO "S"
+		:SET @P1 ~\n\t\o2S\f2 to Search~
+		:SET @M1 ~$S|~
+		:SET @DEFAULT ~S~
+	     TO "Q"
+		:SET @P1 ~\n\t\o2Q\f2 to return to Special Functions Menu~
+		:SET @M1 ~$Q|~
+		:SET @DEFAULT ~Q~
+	:DONE
+
+	:PRINT ~@HEADING_Options for Electronic Memorandums are:\n
+	\o2R\f2 to Read outstanding memorandums (if any)
+	\o2C\f2 to Compose a memorandum
+	\o2L\f2 to Print names and mail addresses of DDP users
+	\o2H\f2 to display Help@P1\n\n~
+
+	:GET @SELECTION ~Enter your selection [@DEFAULT]: ~ "$RCHL|@M1"
+	:PARSE @SELECTION UPPER
+
+     TO ""
+	:SET @SELECTION ~@DEFAULT~
+
+     TO "H"
+	:SET @SELECTION ~~
+	:SET @HLP ~MainMenu~
+	:MENU ~MEMOS_H~
+
+     TO "@M1"				; quit or search
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "C|c1"
+	:PRINT ~@HEADING~
+
+	:SET @TMP ~#USER\t\t#DATE~
+	:PARSE @TMP UPPER
+	:PRINT ~From:\t@TMP\n~
+
+     TO "C"
+	:GET @NAME ~To:\t~
+	:COMPARE @NAME
+	     TO "?|$H"
+		:SET @SELECTION ~C~
+		:SET @HLP ~ToName~
+		:MENU ~MEMOS_H~
+	     TO ""
+		:SET @SELECTION ~~
+		:MENU
+	:DONE
+
+     TO "c1"
+	:PRINT ~To:\t@NAME\n~
+	:SET @SELECTION ~C~
+
+     TO "C"
+        :COMPARE #OS
+             TO "UNIX*|VMS"
+
+		:SET @P1 ~#GETMSG~
+		:SET #GETMSG ~\t\o5 Subject is required \f5\n~
+		:GET @SUBJ ~Subj:\t~ "*"
+		:SET #GETMSG ~@P1~
+
+		:COMPARE @SUBJ
+	     	     TO "?|$H"
+			:SET @SELECTION ~c1~
+			:SET @HLP ~Subject~
+			:MENU ~MEMOS_H~
+		:DONE
+	:DONE
+
+	:PRINT ~
+Enter the text of your message.  Hit RETURN at the end of each line.
+When finished, type a line that contains only a single period.\n\n~
+
+	:FILE PARSE ~TMP()~
+	:SET @FN ~#LEFTOVER~
+	:RUN ~/people/dante/bin/mailcat @FN~
+
+	:FILE PARSE ~SYS(@FN)~ STATUS
+	:PARSE #RESULT EXTRACTING @TMP
+
+	:COMPARE @TMP
+
+	     TO "0"
+
+		:COMPARE #RESULT
+		     TO "*R*"
+			:PARSE #RESULT EXTRACTING @SIZE
+			:SET @SIZE ~#RESULT~
+			:SET #RESULT ~~
+		     TO "*"
+			:SET @TMP ~1~
+		:DONE
+
+	     TO "1-"
+
+		:PRINT ~
+\o5 Temporary file not found.  Composing cancelled. \f5\n~
+		:PAUSE
+		:SET @SELECTION ~~
+		:MENU
+	:DONE
+
+     TO "C|c2"
+	:SET @TMP ~#USER\t\t#DATE~
+	:PARSE @TMP UPPER
+
+	:PRINT ~@HEADING_Electronic Memorandum Entered.\n
+	From:\t@TMP
+	  To:\t@NAME \n~
+
+	:COMPARE #OS
+
+ 	     TO "UNIX*|VMS"
+
+		:PRINT -
+~	Subj:\t@SUBJ
+	Size:\t@SIZE characters\n~
+
+             TO "CMS"
+
+		:PRINT -
+~       Size:\t@SIZE lines\n~
+        :DONE
+
+        :PRINT -
+~Options are:\n
+	\o2M\f2 to Mail memorandum
+	\o2H\f2 to display Help
+	\o2!\f2 to cancel\n\n~
+
+	:GET @P1 ~Enter your selection [M]: ~ "$HM|!|"
+	:PARSE @P1 UPPER
+
+	:COMPARE @P1
+
+	     TO "H"
+		:SET @HLP ~Send~
+		:SET @SELECTION ~c2~
+		:MENU ~MEMOS_H~
+
+	     TO ""
+		:SET @P1 ~M~
+
+	     TO "!"
+		:PRINT ~\n\o5 Memorandum Cancelled \f5\n~
+		:SET #RESULT ~~
+		:SET #RC ~-1~
+
+	     TO "M"
+		:MAIL TO ~@NAME~ USING ~SYS(@FN)~ SUBJECT ~@SUBJ~
+	:DONE
+
+	:COMPARE #RESULT
+	     TO "*"
+		:PARSE #RESULT EXTRACTING @TMP
+		:COMPARE @TMP
+		    TO "0"
+			:SET @TMP ~~
+		    TO "*"
+			:SET #RC ~255~
+		:DONE
+	:DONE
+
+	:COMPARE #OS
+	    TO "VMS"
+		:COMPARE #RC
+		    TO "1"		; 1 is normal exit for VMS
+			:SET #RC ~0~	; convert to what we want to test
+		:DONE
+	:DONE
+
+	:COMPARE #RC
+	     TO "0"
+                :COMPARE #OS
+                     TO "UNIX*|VMS"      
+		        :PRINT ~\nMemorandum sent.\n~
+                :DONE
+
+	     TO "1-"
+		:PRINT ~\n\o5 Failed (code #RC): #RESULT \f5\n~
+	:DONE
+
+	:FILE DELETE ~SYS(@FN)~
+	:SET @SELECTION ~~
+
+        :COMPARE #OS
+             TO "VMS|UNIX*"
+	        :PAUSE
+        :DONE
+
+
+     TO "R"
+
+	:PRINT ~@HEADING_Read outstanding memorandums.\n
+This selection invokes the operating system's messaging program.  It may
+be possible, using this program, to perform functions such as sending
+messages as well.  You may also be notified that there are no messages
+waiting.\n~
+	:PAUSE
+
+	:MAIL READ
+        :COMPARE #OS
+             TO "VMS|UNIX*"
+	        :PAUSE
+        :DONE
+
+	:SET @SELECTION ~~
+
+     TO "L"
+	:PRINT ~@HEADING_List addresses of DDP users.\n
+\tThis selection prints out a complete listing of the Dante Project
+database users.  The format of the list is to show the full name of the
+user, followed by their account name in angle brackets.  A sample entry
+might look like this:\n	Chris Smith <ddpchris>.\n
+\tWhat this list will let you do is find out who else has an account
+to use the database, and then what address to use to send mail to that
+person.  So, after using this list, you would know that to send mail to
+Chris Smith, you would have to use the address ddpchris.  Names
+preceded by an asterisk (*) are Dante Project staff you may direct
+general questions to.
+
+Please mail all potential errors in texts to dante.\n~
+
+	:PAUSE
+	:PRINT ~@HEADING_\o1Database User\t\tAddress\t\tDatabase User\t\taddress\f1\n~
+	:FILE DISPLAY ~sys(/people/dante/users/userlist.brs)~
+	:PAUSE BOTTOM
+
+	:SET @SELECTION ~~
+
+:DONE
+
+:MENU

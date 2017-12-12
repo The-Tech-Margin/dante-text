@@ -1,0 +1,828 @@
+	|Proemio.~  Dante non fu il primo poeta che descrivesse
+l'Inferno e i suoi tormenti.  Prima di lui, nel Medio Evo, c'@e in
+Italia e fuori tutta una letteratura (che si suol chiamare
+^visionistica~ per il fatto che quasi sempre gli autori narrano
+di aver contemplato in visione quanto riferiscono ai lettori) in
+cui le pene infernali (o quelle del Purgatorio, che in questa
+letteratura primitiva si concepisce, salvo la temporaneit@a, tanto
+simile all'Inferno) sono descritte con una tal quale abbondanza
+ed efficacia.  Mi basti qui ricordare una Visione di Frate
+Alberico, monaco Cassinese del XII secolo, scritta in latino, che
+Dante assai probabilmente conobbe.  E c'@e poi nel mondo classico
+la celeberrima narrazione che, nel libro VI dell'^Eneide~, Enea
+fa della sua discesa agl'Inferi, che Dante ha avuto vivissima
+nella memoria, nel concepire e descrivere il suo Inferno
+cristiano.  Della visita di Ulisse agl'Inferi, nel libro XI
+dell'^Odissea~, non parlo perch@e Dante non conobbe Omero.
+
+	Senza entrare in un esame comparativo fra l'arte di Dante
+e quella de' suoi predecessori, che richiederebbe un discorso
+lunghissimo, e dovrebbe in ogni caso seguire e non precedere lo
+studio del poema dantesco, voglio qui accennare ad alcune
+differenze profonde di carattere generale fra il concepimento
+dell'Inferno dantesco e quello dei visionisti.  Nei visionisti la
+figurazione dei luoghi @e vaga, indeterminata, tanto da rendere
+impossibile il tentativo di chi, a illustrazione del loro
+racconto, volesse disegnare quei luoghi e tracciarne una pianta. 
+L'Inferno @e da essi concepito come un insieme di forme naturali
+accidentali, non dominate e costruite da una volont@a e da
+un'intelligenza creatrice.  Salvo qualche elemento particolare, @e
+nell'insieme un paesaggio sotterraneo, direi speleologico, di
+baratri, caverne, fiumi, stagni, rupi, che potrebbe ugualmente
+esistere senza lo scopo di accogliere i dannati.  Per questo
+rispetto l'Inferno virgiliano non ne differisce gran che, salvo
+che nel Tartaro, l'Inferno punitivo, concepito come una citt@a
+vera e propria, che per altro @e assai vagamente abbozzato.
+
+	Dante per primo concepisce l'Inferno come una costruzione
+divina, destinata ad accogliere, debitamente classificati, i
+peccatori.  Quale sia questa costruzione, lo vedremo meglio via
+via che la lettura del testo ci dar@a appiglio concreto a
+spiegarla; ma insomma @e una vera e propria architettura, di cui
+l'architetto @e Dio; e che se nella sua rigidit@a e geometricit@a
+parla alla fantasia meno di quei paesaggi sotteranei dei
+visionisti e di Virgilio, @e per@o espressione perfetta della
+sapienza e della volont@a divina.  E una tale costruzione ci
+voleva per dar luogo a una classificazione di peccati quale i
+predecessori di Dante non avevano neppur lontanamente sognata. 
+Nelle loro visioni (e altrettanto si pu@o dire di Virgilio)
+l'enumerazione dei vari gruppi di ombre @e incompiuta,
+disordinata, saltuaria, spesso puerile.  Dante per primo ci d@a
+una classificazione organica, informata a principi generali da
+cui risultano per analisi ragionata le vare categorie e
+sottocategorie di peccati; dimodoch@e ogni umana colpa viene ad
+avere il suo luogo all'Inferno.  Anche questa classificazione la
+vedremo quando il testo ci dar@a occasione a spiegarla.
+
+	Ma quel che, per le sue conseguenze poetiche, costituisce
+il pi@u gran distacco fra Dante e i visionisti, @e l'importanza che
+nella ^Divina Commedia~ conserva nel mondo di l@a il carattere del
+peccatore.  In quei predecessori di Dante si pu@o dire che l'anima
+dannata viva del solo tormento fisico datole in punizione, e che
+in questo tormento esemplare si esaurisca tutto l'interesse
+dell'autore e tutta la commozione che egli vuol destare nel
+lettore.  Sentimenti, passioni, caratteri, si cercano invano tra
+i cittadini di quegl'inferni e anche di quei purgatori, cio@e si
+cerca invano quello che solo pu@o costituire elemento di vero e
+grande interesse poetico.  Si potrebbe dire che in quelle
+visioni, per l'arte, i corpi son vivi e le anime sono morte. 
+Dante lascia sussistere nel mondo di l@a, anche in mezzo ai pi@u
+atroci tormenti, la vita dell'anima.  I dannati hanno sentimenti,
+passioni, caratteri; ricordano, profetizzano, chiedono notizie
+del mondo; e in tal modo il mondo di qua e la sua storia rivivono
+nel mondo di l@a con tutti i loro interessi.  Onde pochi libri ci
+d@anno una rappresentazione della vita umana come ce la d@a questo
+poema dei morti: il che, anche a prescindere dall'arte di Dante
+infinitamente superiore, basta gi@a a dare alla ^Divina Commedia~
+un interesse infinitamente superiore.  Tutto questo vedremo
+meglio direttamente leggendo il poema.  Qui voglio aggiungere
+soltanto che in questo trasporto della vita nel regno della
+morte, Dante ha avuto il suo grande predecessore in Virgilio e in
+alcuni famosi episodi del IV libro dell'^Eneide.~  Nel Tartaro,
+che corrisponde pel significato morale all'Inferno cristiano
+perch@e @e il luogo della dannazione e punizione eterna, Virgilio,
+come negl'inferni visionistici, non mostra che tormenti.  Ma nel
+resto del suo Inferno pagano, che corrisponde al cristiano solo
+di nome, perch@e @e invece nella sostanza regno dei morti in
+generale, vive, scevra di tormenti, l'anima umana spirituale. 
+Dante trasport@o nel suo Inferno cristiano questa condizione
+dell'Inferno virgiliano, facendo vivere l'uomo spirituale anche
+nello strazio dei tormenti corporei: con maggiore drammaticit@a, e
+con una ricchezza e una profondit@a che supera di molto il
+modello.  Ma si comprende come potesse generosamente considerare
+Virgilio quale maestro, e nutrire anche di ci@o quella gratitudine
+per lui, che @e una delle note pi@u commoventi della ^Divina
+Commedia.~
+
+	|1.~  Dice Dante stesso nel IV trattato del ^Convivio~
+che la vita umana @e quasi un arco, il cui colmo corrisponde al
+trentacinquesimo anno.  Dante era nato nel 1265, sicch@e il tempo
+a cui qui accenna @e l'anno 1300.  Sulla scelta di questa data, e
+su alcune discrepanze ad essa relative, vedi la nota finale n. 1
+{qui di seguito}. 
+
+	NOTA FINALE N. 1.  LA DATA DEL VIAGGIO DANTESCO.  Dante
+non indic@o mai espressamente in anno, mese e giorno, la data del
+suo viaggio.  E fece benissimo: sent@i che una finzione collocata
+matematicamente in un tempo in cui la sua vita reale ebbe
+tutt'altre vicende, sapute non solo da lui ma anche da altri,
+riceveva, da questo crudo e contradittorio contatto con la realt@a
+vera, una smentita nocevole all'illusione fantastica del lettore. 
+Entro di s@e una data la pens@o e volle anche che il lettore
+potesse in qualche modo dedurla, ma la circond@o di una certa nube
+di vago, come la finzione richiedeva.  Gi@a nel primo verso del
+poema, dicendo che si trov@o smarrito nella selva nel mezzo del
+cammino di sua vita, viene a indicare, come abbiam detto nelle
+note, il suo trentacinquesimo anno.  In questo canto stesso, nei
+versi 38-40, indica un tempo dell'anno prossimo all'equinozio di
+primavera.  E queste due indicazioni si confermano e si precisano
+maggiormente in altri luoghi del poema che via via rileveremo; ma
+soprattutto in un passo del canto XXI dell'^Inferno~ (vv.
+112-114) da cui risulta, sia pure senza esser detto
+esplicitamente, che il giorno in cui egli intraprese il suo
+viaggio, si compievano a mezzogiorno 1266 anni dalla morte di
+Cristo.  Ora si riteneva generalmente in quei tempi che Cristo
+fosse morto il 25 marzo, nel giorno in cui si compievano i 34
+anni dalla sua incarnazione: che sommati con 1266 fanno appunto
+1300 e precisamente 25 marzo 1300.  Il qual giorno, per di pi@u,
+in Firenze (dove si contavano gli anni non ^a nativitate~ ma ^ab
+incarnatione~) era il primo giorno del 1300.  Questa coincidenza
+(quantunque poi nel poema egli segua il calendario ^a
+nativitate~) dov@e piacere a Dante come indizio di una fatale
+predisposizione.  La data dell'equinozio gli era anche comoda
+perch@e in quel tempo dell'anno il Sole sorge e tramonta alla
+stessa ora per tutti i luoghi della Terra, e tutti i fenomeni
+relativi all'apparente giro del Sole intorno alla Terra sono
+quindi pi@u semplici, e rappresentano a dir cos@i una media delle
+variazioni che subiscono durante l'anno.  Quanto alla data del
+1300, essa era opportuna anche perch@e fu l'anno del famoso primo
+Giubileo bandito da Bonifazio VIII, che fu anno di espiazione e
+di perdono per tutta l'umanit@a; e il viaggio di Dante, oltre che
+simboleggiare una vicenda personale del poeta, simboleggia anche,
+nella sua persona, una vicenda morale per tutta l'umanit@a.  C'@e
+chi considera il passo ricordato del XXI ^Inferno~, come un
+indizio che il giorno in cui Dante si mise in viaggio fosse un
+Venerd@i Santo; e poich@e il Venerd@i Santo cadde nel 1300 agli 8 di
+aprile, opta per questa data.  Ma i versi di quel passo, a ben
+considerarli, @e evidente che non indicano una ricorrenza di
+solennit@a ecclesiastica, ma sono una misura di tempo con
+precisazione perfino di ore, e non possono indicare se non il
+tempo matematico in cui i 1266 anni si compievano.  Ben maggior
+divergenza dalla data che noi adottiamo @e quella che risulterebbe
+dai ragionamenti d'un illustre astronomo dantista, Filippo
+Angelitti; il quale vorrebbe che l'anno del viaggio dantesco
+fosse non il 1300 ma il 1301, perch@e i numerosi accenni
+astronomici che troviamo nel poema convengono meglio alla
+posizione degli astri nella primavera del 1301.  (Cfr. ^Sulla
+data del viaggio dantesco ecc.~, Napoli, Accademia Pontaniana,
+1897).  Ora, non soltanto questa data contrasta con accenni
+storici indubitabili che la rendono assurda (basterebbe la morte
+di Guido Cavalcanti nell'autunno del 1300, mentre egli, come
+risulta da ^Inf.~ X, 111, era ancor vivo al tempo del viaggio di
+Dante); ma, che pi@u mi preme sottolineare, i ragionamenti
+dell'illustre studioso si fondano sul concetto, per me
+profondamente erroneo (ma purtroppo assai diffuso tra i
+dantisti), che nel poema di Dante bisogni sempre presuppore un
+ossequio assoluto alla verit@a scientifica, anche quando Dante non
+si erge espressamente a maestro di quella verit@a.  @E un non
+intendere la natura vera della ^Divina Commedia~: opera
+certamente di dottrina e d'intelletto, ma anche, e non meno, anzi
+pi@u, di fantasia, di poesia; a servigio delle quali Dante ha
+spesso violato e la ragione e la scienza.  Io non mi stancher@o di
+mostrare queste violazioni ogni volta che l'occasione ne verr@a. 
+E incomincio da un passo di questo stesso canto, e proprio un
+passo astronomico: i vv. 38-40.  Dice in essi il poeta che la
+mattina seguente alla notte terribile il Sole saliva in cielo con
+quelle stelle con cui si trovava quando Dio cre@o il firmamento:
+le quali stelle, come risulta indubbiamente da altri passi del
+poema, son quelle dell'Ariete.  Ora Dante conosceva benissimo il
+fenomeno della cosiddetta <precessione degli equinozi>, per cui
+il punto del cielo in cui @e il Sole all'equinozio, si sposta
+continuamente, s@i che all'equinozio di primavera esso, gi@a a'
+tempi di Dante, non era pi@u, come quando gli astronomi fissaron
+prima le tappe del suo cammino annuo, con le stelle dell'Ariete,
+ma con quelle dei Pesci.  E Dante riteneva che il mondo fosse
+stato creato da 6500 anni circa (cf. ^Par.~ XXVI, 118-123); onde,
+fatto un calcolo semplicissimo, la sua scienza doveva dirgli che
+alla creazione il Sole doveva essere con le stelle del Toro.  Ma
+di tutto questo Dante non ha voluto tener conto e ha preferito
+seguire la spensierata ma poetica tradizione che, non sapendo
+nulla di precessione degli equinozi e confondendo le
+costellazioni coi segni [I ^segni~ sono le dodici parti in cui @e
+diviso lo Zodiaco, a cominciare dal punto equinoziale di
+primavera; e conservano i nomi delle costellazioni che una volta
+erano in essi.  Nel poema Dante non cura mai la distinzione], si
+compiace di pensare che il Sole equinoziale di primavera sia
+sempre stato e sar@a sempre con le stelle dell'Ariete.  Affermo
+solennemente una volta per sempre che con tali rilievi non
+intendo punto muovere accusa alla libert@a del poeta; bens@i a una
+critica che gli attribuisce, di fronte al vero scientifico, una
+posizione che non @e la sua, confondendo il Dante sempre filosofo
+e scienziato del ^Convivio~, col Dante anche e soprattutto poeta
+della ^Divina Commedia.~  Una cosa @e da avvertire bene: che la
+data del viaggio, qualunque essa pi@u precisamente sia, non ha un
+esatto valore biografico rispetto a Dante.  Del traviamento
+morale di lui non abbiamo altre notizie certe se non quelle che
+ci d@a Dante stesso nel suo poema, che non son molte.  Ma possiamo
+ritenere probabile che esso cadde fra il 1292 e 1295; onde non @e
+certo nella primavera del 1300 che egli se ne riscosse.  Non
+altrettanto possiam dire della data del suo traviamento
+intellettuale se, come io credo fermamente, esso ci fu come
+allontanamento dall'ortodossia cattolica.  Ma insomma resta
+sempre che il 1300 @e una data tutta convenzionale della finzione
+poetica.  Sul traviamento di Dante, vedi soprattutto i canti XXX
+e XXXI del ^Purgatorio~, la nota finale a quest'ultimo, e la nota
+finale n. 2 al XXXIII.
+
+	|2-3.~  La |selva oscura~ simboleggia il vizio, l'errore,
+il traviamento intellettuale e morale, come la |diritta via~ @e
+quella della virt@u e della verit@a.  Il traviamento simboleggiato
+nella selva @e in parte il traviamento dell'umanit@a in generale,
+ma rappresenta anche una fase della vita di Dante, il quale
+nell'allegoria spirituale del poema @e contemporaneamente e l'uomo
+in genere e il suo proprio individuo.  Anche sulla data del
+traviamento di Dante, vedi la nota finale n. 1 {qua sopra}.
+
+	|4-6.~  Costruisci: <Ah quanto @e cosa dura il dir qual
+era ecc.>.  (Invece di |Ah~, altri legge ^E~).  |Dura~: difficile
+(o, anche, penosa).  |Selvaggia~: disabitata, incolta, e quindi
+|aspra~ (intricata) |e forte~ (difficile a percorrere, impervia). 
+|Che nel pensier~ ecc.: solo a ricordarla, si riprova la paura
+allora provata.  |Selva selvaggia~ @e una di quelle artificiose
+replicazioni di cui la retorica medievale si compiaceva come d'un
+bell'ornamento di stile; e Dante non ne rifugge, come avremo
+spesso occasione di vedere.
+
+	|7.~  @E un modo comune di dire <brutto come la morte>. 
+Ma qui la morte @e la morte dell'anima, la dannazione, e il poeta
+vuol dire che il suo stato di colpa era tale, che egli rasentava
+la dannazione.  Ci@o corrisponde esattamente a quanto Virgilio
+dir@a di lui a Catone (^Purg.~ I, 58-60).  Altri riferisce |amara~
+a ^cosa~ (v. 4); ma sarebbe strana esagerazione affermare che il
+descrivere la selva sia amaro quasi come la morte.  E poi
+mancherebbe quel senso allegorico della morte, che @e cos@i pieno
+di significato.
+
+	|8-9.~  Per giungere al racconto del |bene~ che gli
+capit@o nella selva (l'incontro di Virgilio) deve prima narrare di
+altre cose, e queste tristi anch'esse, vedute nella selva: le tre
+fiere.
+
+	|10-12.~  Si cade in peccato anche per mancanza di retto
+discernimento fra il bene e il male, l'errore e la verit@a: e
+questa debolezza dell'intelletto @e simboleggiata dal |sonno~ (v.
+11).
+
+	|13-18.~  Sappiamo cos@i che la selva @e collocata in una
+valle: bassura, dunque, e tenebre, cio@e colpa ed errore.  Il
+colle illuminato (che forma la testata di quella valle), altezza
+e luce, simboleggia il contrario: virt@u e verit@a; e il Sole che
+ne illumina le spalle, cio@e la parte alta, simboleggia qui, come
+spesso nel poema, la grazia e la luce divina.  L'ufficio di
+guidare altrui nel retto sentiero, conviene al Sole cos@i nel
+senso letterale come nel senso allegorico.  |Compunto~: trafitto,
+affannato.  |Pianeta~: Il Sole @e chiamato |pianeta~ perch@e ai
+tempi di Dante si credeva che anch'esso girasse, e girasse
+intorno alla Terra, immobile nel centro dell'universo.
+
+	|20.  lago del cor~: |del cor~ corrisponde a un genitivo
+epesegetico latino: il lago costituito dal cuore; e il cuore @e
+detto lago perch@e @e il centro della circolazione sanguigna, cui
+fan capo e da cui partono i vasi sanguigni.
+
+	|22.  lena affannata~: respiro  affannoso.
+
+	|24.  guata~: guatare @e un guardare con speciale
+intensit@a ed espressione, quale @e appunto lo sguardo del naufrago
+rivolto alle onde in cui ha rischiato di morire.
+
+	|26-27.  lo passo~: |passo~ @e un qualunque luogo per cui
+si transita: qui @e la selva oscura.  Che la selva non abbia mai
+lasciato scampare nessuno (v. 27), @e un senso puramente
+allegorico, ch@e di quella selva nel senso letterale Dante non
+potrebbe affermarlo, non sapendone nulla.  E quanto a
+quell'allegoria, bisogna riferirla non alla selva, che @e il
+peccato, da cui per quanto grave chiunque pu@o scampare col
+pentimento; ma a quella morte dell'anima in cui si cade non
+svincolandosi dal peccato.
+
+	|28-30.  piaggia~: il pendio del colle.  Quanto al verso
+30, ne sono state date le pi@u svariate e bizzarre
+interpretazioni.  Per semplificare: che il poeta salga, e salga
+direttamente verso l'alto, non par dubbio, se il suo scopo @e
+quello di raggiungere la cima del colle: ma che egli con quel
+verso voglia rappresentare l'effetto materiale che il salire
+produce sulla collocazione rispettiva dei due piedi, par da
+escludere come cosa assolutamente inutile e puerile.  Egli avr@a,
+invece, voluto dire qualche cosa che valeva la pena di aggiungere
+alla pura e semplice rappresentazione del salire; e probabilmente
+questo: che saliva, ma non era ancora una salita risoluta,
+animosa; e perci@o, come in chi sale esitando, era sempre fidato e
+piantato pi@u saldamente sul piede pi@u basso che su quello messo
+innanzi per salire (|fermo~ corrisponderebbe al ^firmus~ latino). 
+Il che allegoricamente significa poi che il suo desiderio di
+salire verso la verit@a e la virt@u era ancora impacciato,
+esitante.  Credo che cos@i interpretasse l'Ariosto l@a dove
+descrive il passo di uno che cammina con grande esitazione,
+riecheggiando Dante: e ^sempre in quel~ [il piede] ^di dietro
+Tutto si ferma, e l'altro par che muova A guisa di chi dar tema
+nel vetro~ (^Furioso~ XXVIII, str. 63).
+
+	|32.  una lonza~: La parola lonza viene etimologicamente
+da ^lynx~ = lince; ma designava allora piuttosto un leopardo. 
+Sul significato allegorico di questa fiera e delle altre due che
+Dante presto incontrer@a, si veda la nota finale n. 2 {dopo la
+nota ai vv. 49-51}.  Certamente rappresentano dei peccati.
+
+	|36. ritornar... volto~: ritornare indietro.  Per il
+|volte volto~ si veda la nota ai vv. 4-6.
+
+	|37-43.~  Era opinione del tempo che quando Dio cre@o il
+cielo e impresse i loro moti agli astri (|quelle cose belle~) il
+Sole occupasse il posto che occupa all'equinozio di primavera: s@i
+che Dante viene qui a dirci che si era al principio della
+primavera (ma di ci@o v. la nota finale n. 1 {qua sopra, ai vv.
+1-3}).  E si credeva che in quella collocazione il Sole
+esercitasse sulla Terra una pi@u benefica influenza.  Per di pi@u
+il |tempo~ (cio@e l'ora) era circa (|dal~) il |principio del
+mattino~: ora di letizia e di fiducia: sicch@e, insomma, Dante era
+confortato a sperare che quella lonza non gli potesse fare troppo
+male.  |Sperar... di quella fera~ @e il costrutto latino ^sperare
+de...~  |Gaietta pelle~: graziosa per le sue screziature; o forse
+anche semplicemente <screziata, variopinta>.  Nel francese antico
+^gai~ aveva appunto questo senso.
+
+	|44.  ma non s@i...~: ma quella fiducia non era tanto
+forte che gl'impedisse d'aver paura ecc.
+
+	|46.  venesse~: forma meno usata di ^venisse~, fatta
+sull'analogia delle desinenze della seconda coniugazione. 
+Richiamo qui l'attenzione su un fenomeno linguistico notevole
+nella ^Divina Commedia~: la frequenza con cui in rima troviamo
+forme un po' anormali rispetto all'uso linguistico pi@u comune di
+Dante stesso, anche in poesia.  Sono forme popolari di Firenze o
+di altri dialetti toscani, voci della lingua poetica colta che
+precede Dante spesso provenienti da altre regioni d'Italia,
+francesismi, provenzalismi, latinismi, qualche volta parole
+coniate da Dante stesso.  (Cfr. E. G. Parodi: ^La rima e i
+vocaboli in rima nella D. C.~, nel ^Bull. Soc. Dantesca Ital.~,
+vol. III).  Si spiegano con la necessit@a di allargare le
+strettoie della rima, attingendo a un fondo pi@u ampio di quello
+consueto della sua lingua poetica.  Noter@o volta per volta le pi@u
+singolari di queste forme.  Qui una volta per tutte, richiamo
+l'attenzione su una delle pi@u frequenti: la desinenza in ^e~
+nella II persona singolare dell'indic. e del cong. pres.,
+soprattutto della I coniugazione: ^Tu pense~ o ^che tu pense~,
+^tu gride~ o ^che tu gride~, ^che tu diche~, ^che tu sente~, ecc.
+
+	|49-51.  E d'una lupa~: dipende da |la vista~ del v. 45. 
+Altri legge |ed una lupa~, sottintendendo ^m'apparve.~  Notare il
+contrasto concettoso fra |carca~ e |magrezza~, che viene a dire
+che appunto perch@e scarsa di carne appariva piena di fame.  |e
+molte genti~ ecc.: @e una notizia (come quella della selva che non
+lasci@o giammai persona viva) che si riferisce al senso allegorico
+della lupa, ch@e di questa lupa come animale Dante non pu@o saper
+nulla.  |Grame~: dolenti.
+
+	NOTA FINALE N. 2.  LE TRE FIERE.  @E indiscusso che le
+tre fiere le quali impediscono a Dante la desiderata ascesa al
+colle, debbano rappresentare tre disposizioni peccaminose che
+frustrano nel peccatore indurito il suo desiderio di
+purificazione: come le tre fiere di Geremia (V, 6): un leopardo,
+un leone e un lupo anch'esse (da cui Dante ha certamente derivato
+la sua invenzione) rappresentano i vizi che conducono Gerusalemme
+alla perdizione.  Ma dispiaceri e dispute imperversano circa la
+loro pi@u precisa interpretazione.  Un'opinione che ha molti
+seguaci, e seducente in apparenza, @e che esse rappresentino
+quelle che nel canto XI dell'^Inferno~ saranno chiamate ^le tre
+disposizion che il ciel non vuole~: incontinenza, violenza e
+frode, che costituiscono il fondamento della classificazione
+delle colpe infernali.  Ma, a parte il fatto che tale
+insegnamento resterebbe incomprensibile finch@e non si fosse letto
+il canto XI, quale verit@a ne risulterebbe?  Quella davvero
+lapalissiana che il peccato @e ostacolo a uscire dal peccato:
+giacch@e quelle tre disposizioni costituiscono prese insieme tutto
+quanto il peccato.  Pi@u accettabile quindi l'opinione di coloro
+che vedono nelle tre fiere tre vizi speciali, sulla cui
+perniciosit@a Dante voglia pi@u richiamar l'attenzione.  Ma @e
+opinione che si concreta in molte interpretazioni diverse.  Per
+me, quanto alla lupa, mi pare impossibile anche l'ombra d'un
+dubbio.  Nel XX canto del ^Purgatorio~ Dante, imprecando contro
+l'avarizia, la chiama ^antica lupa, che pi@u di tutte l'altre
+bestie hai preda per la tua fame senza fine cupa~ {10-12}; e
+subito dopo domanda al cielo quando verr@a colui che ne liberer@a
+il mondo.  Sono tali e cos@i precise le corrispondenze con quanto
+in questo primo canto @e detto della lupa e del veltro, che
+l'identificazione delle due lupe non potrebbe essere pi@u certa. 
+Dunque la lupa del primo canto @e anch'essa l'avarizia: avarizia,
+nel senso antico di cupidigia.  Quasi altrettanto certo (ed @e del
+resto opinione comune) mi pare che il leone simboleggi la
+superbia, con la sua testa alta: i superbi nel ^Purgatorio~ Dante
+li punir@a curvando le loro teste a terra col peso di grandi
+macigni.  La lonza @e per lo pi@u interpretata o come invidia o
+come lussuria.  Preferisco la lussuria.  Nel XVI dell'^Inferno~
+Dante ci dichiara che con una corda che aveva cinta alle reni
+(quasi certamente il cordone di S. Francesco; vedi di ci@o la nota
+finale n. 1 al canto stesso), aveva sperato altra volta prender
+^la lonza alla pelle dipinta~ {106-108}; deve dunque trattarsi
+d'un vizio da cui era stato ossessionato (^non mi si partia
+d'inanzi al volto~, dice in questo canto {34}); e se va bene la
+lussuria, di cui sappiamo aver Dante gravemente peccato in
+giovinezza, non va bene l'invidia di cui egli stesso si dichiara
+quasi alieno (cfr. ^Purg.~ XIII, 134-135).  La triade dei peccati
+su cui Dante con le tre fiere vorrebbe richiamar fortemente
+l'attenzione, sarebbe dunque avarizia, superbia, lussuria.  E ce
+lo spieghiamo perfettamente, con ragioni biografiche per gli
+ultimi due, con ragioni generali per il primo.  Superbia e
+lussuria sappiamo che furono due massimi vizi di Dante, e lo
+vedremo confermato nel corso del poema.  Dell'avarizia Dante
+opinava che fosse il massimo flagello dell'umanit@a, corrotta
+soprattutto per cattivo esempio dei pontefici cupidi di ricchezze
+mondane (vedi il canto XVI del ^Purgatorio~).  Onde,
+rappresentando allegoricamente in se stesso e nel suo viaggio
+espiatorio da un lato una sua storia morale, ma dall'altro anche
+una storia morale di tutta l'umanit@a, si comprende benissimo che
+in questo preludio allegorico del racconto abbia rappresentato in
+queste tre fiere, massimi ostacoli alla rigenerazione, le due
+colpe che pi@u furon dannose a lui personalmente, e la colpa che @e
+pi@u dannosa all'umanit@a tutta.  N@e sarei alieno dal ritenere che,
+poich@e un'altra pecca caratteristica di Dante fu l'ira (ne avremo
+le prove leggendo il poema), il leone possa, in linea secondaria,
+rappresentare anche l'ira (che alla superbia @e, del resto, tanto
+connessa) con la sua ^rabbiosa fame~: l'iroso @e definito da Dante
+in un passo di ^Purg.~ XVII (vv. 121-122) colui che per offesa
+ricevuta ^si fa della vendetta ghiotto.~  Accanto al significato
+allegorico morale, non @e impossibile che nell'episodio ve ne sia
+anche uno politico e storico.  Dante simboleggerebbe anche il
+cittadino, e particolarmente l'italiano, che aspirerebbe a uscire
+dal disordine doloroso della selva (le tristi condizioni
+politiche del mondo e dell'Italia) e a salire verso l'ordine e la
+pace (^il dilettoso monte~); ma @e avversato dalle tre potenze
+politiche che pi@u si opponevano all'attuarsi del sogno politico
+di Dante d'un'Italia non pi@u discorde, centro e sede dell'Impero
+universale di Roma: e cio@e il papato temporale (la lupa avida),
+la superba casa di Francia (il leone) e Firenze guelfa (la lonza
+dalla pelle screziata simboleggiante i partiti che dividevano la
+citt@a).
+
+	|52-54.  gravezza~: affanno.  |Vista~: aspetto.  |Perdei
+la speranza~: di poter salire in alto, sul colle.
+
+	|55-58.~  @E una di quelle similitudini solo apparenti (le
+chiameremo pseudosimilitudini) che Dante usa spesso.  L'immagine
+usata non @e un'immagine diversa da quella di Dante in quel
+momento, ma enumera tutti elementi convenienti alla situazione di
+Dante, che era appunto uno che volentieri acquistava andando su
+per l'erta, e viene il momento che perde quel che ha acquistato,
+e si attrista ecc. ecc.  La vera similitudine @e un'immagine
+diversa che contiene elementi simili.  |Bestia senza pace~: che
+non d@a tregua altrui; ovvero che non trova mai pace nel suo
+desiderio insaziabile.
+
+	|60.  dove il Sol tace~: <nel fondo tenebroso della
+valle>; efficace rappresentazione figurata delle tenebre come
+silenzio della luce.
+
+	|62.  mi si fu offerto~: @e un uso frequente del tempo il
+trapassato remoto per indicare la subitaneit@a d'un fatto che si
+avverte quando gi@a @e avvenuto.  Oggi diremmo: <mi si offr@i
+improvvisamente>.
+
+	|63.~  Come poteva Dante accorgersi che colui che gli @e
+apparso (Virgilio) era |fioco~, prima che parlasse?  Anche qui @e
+evidente che Dante (come nei vv. 27 e 51) pensa solo al senso
+allegorico.  Poich@e, come meglio esporremo, Virgilio simboleggia
+la ragione umana, Dante vuol dire che la voce della ragione,
+quando comincia a ridestarsi nell'animo del traviato, in
+principio ha poca forza.
+
+	|65-66.  miserere~: @e pretta voce latina del verbo
+^misereor~: abbi piet@a.  |Uomo certo~: uomo vero e proprio, in
+carne e ossa.
+
+	|70-72.~  Virgilio nacque nel 70 a. C. quando Giulio
+Cesare aveva solo trent'anni, non era imperatore, e non aveva
+neanche in parte compiuto le grandi imprese per cui @e immortale. 
+Quindi il |sub Iulio~ (a meno che Dante non peccasse di inesatta
+informazione cronologica) andr@a inteso come un <vivente Giulio
+Cesare>, e il |fosse tardi~ significher@a che Virgilio nacque
+troppo tardi per poter essere conosciuto e ammirato da Cesare,
+come fu poi da Augusto: ch@e quando Cesare mor@i, Virgilio era
+ventiseienne.  Il |buono~ del v. 71 va inteso probabilmente come
+un ^valente~, secondo un frequente uso dantesco.  Notare che
+degli dei del paganesimo, cui ora nel mondo di l@a gli si @e
+rivelata la falsit@a, Virgilio parla con animo e mente di
+cristiano.
+
+	|73-75.  cantai~ ecc.: nell'^Eneide.~  |Giusto~: la
+giustizia e la rettittudine sono carattere fondamentale di Enea
+nel poema Virgiliano.  |Ilion~: Ilione o Ilio, sono sinonimi di
+Troia.  Troia era famosa per la sua superbia (^superbum Ilium~ la
+chiama Virgilio nell'^En.~ III, 2-3), e Dante pi@u volte ricorda
+tale superbia nel suo poema, e l'incendio di Troia @e uno degli
+esempi di superbia punita nel 1+o~ girone del Purgatorio. 
+|Combusto~: bruciato.
+
+	|76.  noia~: aveva nell'antico italiano un senso molto
+pi@u forte che non abbia oggi, e indicava anche un affanno
+estremo, un dolore intollerabile.
+
+	|78.~  Anche in questo verso si allude soprattutto al
+significato allegorico del colle: la virt@u e la verit@a.
+
+	|79-81.~  La poesia di Virgilio, larga, fluida, limpida,
+ristoratrice, @e paragonata a un fiume capace di dissetare e beare
+senza limiti.  |Vergognosa fronte~: fronte abbassata per
+verecondia avanti a cos@i alto spirito.
+
+	|83-84.  vagliami~: <mi valga ad acquistarmi la tua
+protezione, la tua assistenza>.  |Cercar~: studiare a fondo,
+esplorare.  |Lo tuo volume~: l'^Eneide~, o, in generale, le opere
+di Virgilio.
+
+	|85-87.~  Nelle parole |'l mio autore~ c'@e ben pi@u che il
+senso di autore preferito; qui autore @e colui che crea e plasma,
+e dire |sei il mio autore~ @e come dire <io sono tua creatura>, ed
+@e una progressione rispetto a |tu sei lo mio maestro.~  Quanto al
+|bello stile~ che qui Dante dichiara di dovere a Virgilio, esso
+non pu@o essere quello della ^Divina Commedia~, che Dante non
+aveva scritto non solo quando, nella finzione poetica, cos@i
+parlava a Virgilio, ma neanche quando, nella realt@a, scriveva il
+primo canto del poema.  Egli deve alludere dunque allo stile
+nobile ed elevato delle sue grandi liriche, che ei considerava,
+secondo le partizioni della retorica medievale, come ^stile
+tragico~, di cui eran caratteri ^cum gravitate sententiae, tam
+superbia carminum quam constructionis elatio et excellentia
+vocabulorum~ (^De Vulgari eloquentia~ II, iv): caratteri tutti di
+cui @e modello insuperato Virgilio.
+
+	|89-90.  famoso saggio~: Virgilio era considerato da
+Dante non solo sommo poeta, ma grande sapiente e grande filosofo. 
+|I polsi~: sono le arterie, in quanto pulsano.  Il tremore della
+paura o d'altra forte passione, era dalla scienza del tempo
+localizzato nel sangue (cfr. ^Purg.~ XI, 138 e XXX, 46-47).
+
+	|94-111.~  Sul significato allegorico della lupa e del
+veltro, si vedano le note finali 2 e 3.  Qui diremo soltanto che
+la lupa rappresenta un peccato, un vizio pernicioso per
+l'umanit@a, e il veltro qualcuno che ne liberer@a il mondo.
+
+	|100-102.~  Di questo v. {100} si danno due spiegazioni. 
+Una: molti sono gli altri vizi a cui quello rappresentato dalla
+lupa si accoppia.  L'altra: molti sono gli uomini (|animali~ ha
+spesso in Dante tale senso) a cui quel vizio si apprende.  @E
+preferibile la seconda, ch@e il potere d'un vizio di generarne
+altri non si comprende perch@e dovrebbe aumentare col tempo. 
+|Veltro~: @e un cane da caccia di quelle razze che non solo
+puntano ma azzannano la preda, e di cui ci si serve per cacciare
+lupi, volpi, cervi, cinghiali ecc.
+
+	NOTA FINALE N. 3.  IL VELTRO.  La profezia del Veltro @e
+la prima delle molte che troveremo nel poema.  Vedremo che quasi
+tutte sono in uno stile volutamente oscuro, che fa intravvedere
+le cose pi@u che dirle espressamente: e ci@o o per imitazione degli
+antichi oracoli e profezie, famosi per la loro oscurit@a e
+ambiguit@a, o per rendere l'incertezza con cui le anime dell'al di
+l@a che non siano del Paradiso vedono il futuro, o perch@e, come in
+questo caso, esse accennino a mere speranze e desideri di Dante,
+che non poteva compromettersi a determinare troppo esattamente. 
+Questa oscurit@a spiega in parte come intorno a tali profezie
+pulluli la pi@u strana variet@a d'interpretazioni.  Intorno al
+Veltro c'@e un'intera biblioteca.  Vediamo di semplificare.  Prima
+di tutto questa profezia non pu@o prendersi alla lettera, come se
+Dante accennasse a qualcuno che davvero facesse sparire
+l'avarizia dal mondo.  Come potrebbe un uomo fare quel che n@e
+Cristo, n@e gli apostoli, n@e quell'imitazione vivente di Cristo
+che fu S. Francesco, riuscirono a ottenere con la predicazione e
+con l'esempio?  Bisognerebbe pensare che Dante alludesse, secondo
+una diffusa credenza medievale, a un ritorno di Cristo sulla
+Terra per rigenerarla.  Ma il confronto della profezia del Veltro
+con altri passi del poema che evidentemente la richiamano,
+mostrano che Dante non pensava a Dio ma a un uomo.  Bisogner@a
+dunque intendere la sua funzione di far disparire l'avarizia dal
+mondo, in modo relativo.  Abbiamo gi@a accennato all'opinione di
+Dante (e meglio lo vedremo leggendo il poema) che la causa
+principale della cupidigia degli uomini fosse il cattivo esempio
+dei pontefici, cui il potere temporale aveva dato il gusto e la
+smania dei beni mondani.  La missione del Veltro sar@a dunque
+quella di far cessare il potere temporale dei papi e riportare la
+Chiesa alla povert@a evangelica primitiva.  Solo cos@i si spiega
+benissimo anche l'altro effetto benefico cui nella profezia si
+accenna: la salute della misera Italia.  Dante infatti pensava
+che, cessato il dominio temporale dei papi, sarebbe caduto il
+principale ostacolo a quella restaurazione dell'Impero universale
+di Roma, che egli riteneva voluto anch'esso da Dio, con vantaggio
+di Roma e dell'Italia che dell'Impero dovevan essere il centro. 
+Quanto alla persona del Veltro, oggi, dopo tanto discutere, si
+propende a credere che Dante pensasse a un imperatore, capace di
+assolvere il compito che abbiam detto.  Ma se nella profezia di
+Beatrice nel canto XXXIII del ^Purgatorio~, che tanto richiama
+questa prima, l'allusione a un imperatore @e evidente, io credo, e
+non sono il solo a crederlo, che quando scriveva questo I canto
+dell'^Inferno~ Dante pensasse invece a un papa che spontaneamente
+si privasse del dominio temporale.  Le parole ^questi non ciber@a
+terra n@e peltro~ {103} non convengono davvero al detentore
+dell'autorit@a temporale su tutta la Terra, quale doveva essere
+l'imperatore della concezione dantesca.  Mentre invece convengono
+perfettamente a un papa spirituale.  E quanto alle parole che
+seguono: ^ma sapienza, amore e virtute~ {104}, esse, indicando le
+tre persone della Trinit@a, vengono insomma a significare Iddio. 
+Orbene, in un importantissimo episodio del ^Purgatorio~, dopo
+aver ascoltato da Marco Lombardo come la causa della corruzione
+del mondo sia la cupidigia dei pontefici, Dante soggiunge: ^or
+discerno perch@e dal retaggio li figli di Lev@i furon esenti~
+(^Purg.~ XVI, 131-132); alludendo a quel passo della Bibbia
+(^Numeri~, XVIII, 20) in cui Dio, parlando al gran sacerdote
+Aronne dei diritti e dei doveri dei Leviti (cio@e dei sacerdoti)
+rispetto agli Ebrei delle altre trib@u, dice ^In terra eorum nihil
+possedebitis, nec habebitis partem inter eos: ego pars et
+hereditas tua in medio filiorum Israel.~  I sacerdoti cio@e non
+debbono possedere terra n@e averi, ma solo Dio: ^terra n@e peltro,
+ma sapienza amore e virtude.~  Dunque mi par chiaro che nella
+profezia del Veltro si accenni al sacerdote per eccellenza, a un
+papa: seppure sia certo che in altre profezie, che nel poema
+troveremo, d'un liberatore del mondo, a un papa non si accenner@a
+mai pi@u.  Di ci@o vedi soprattutto la nota finale a ^Par.~ XXXIII.
+
+	Oscurissimo @e il verso ^e sua nazion sar@a tra feltro e
+feltro~ {105}; e solo enumerare le vecchie interpretazioni e le
+nuove che di tanto in tanto sbocciano, sarebbe compito
+lunghissimo.  Pretendere di dare una spiegazione semplice ed
+evidente sarebbe un disconoscere il proposito di mistero che le
+profezie del poema vogliono avere.  Oggi che nel Veltro si vuole
+vedere un sognato imperatore, le interpretazioni pi@u accreditate
+di quelle parole sono: ^a~) <nascer@a tra Feltre e Montefeltro>;
+sar@a dunque un imperatore italiano, della regione nord orientale. 
+(Ma perch@e tale esigenza?  e perch@e storpiare Feltro e
+Montefeltro in feltro e feltro?).  ^b~) <nascer@a di umile
+condizione>, perch@e il feltro @e un panno grossolano e popolare. 
+(Ma perch@e un imperatore popolano?  E non era norma in quel tempo
+che l'imperatore si eleggesse anzi tra i principi?).  ^c~)
+<risulter@a da elezione fatta con bossoli feltrati>, come si
+facevano le elezioni alle cariche civili in molti comuni
+italiani.  (Ma l'elezione imperiale si faceva cos@i?  E se s@i, in
+che cosa l'espressione indicherebbe un'elezione imperiale e non
+una semplice elezione comunale?).  Quest'ultima interpretazione @e
+recente, di Aurelio Regis, ma ha avuto l'onore di essere accolta
+negli ^Studi danteschi~ diretti da un insigne dantista: Michele
+Barbi.  Pi@u recente ancora @e l'interpretazione di Leonardo
+Olschki (<Tra feltro e feltro>, Roma, Nuova Antologia, 1952) che
+vede nel feltro il pileo di feltro di Castore e Polluce,
+rappresentati in cielo dalla costellazione dei Gemelli; e il
+Veltro sarebbe Dante stesso, nato col Sole in Gemelli (v. ^Par.~
+XXII, 112-117).  Il che (a parte la nuova interpretazione del
+^feltro~) @e stato pensato anche da altri; ma @e da escludere
+assolutamente anche perch@e il ^sua nazion sar@a~ accenna
+esplicitamente a qualcuno ancora non nato.  Per un pi@u accurato
+esame della questione puoi vedere la mia nota <Una nuova chiosa
+alla profezia dantesca del Veltro liberatore>, in ^Rendiconti di
+S. M. dei Lincei~, maggio-giugno 1953.  Quanto a me, che credo
+che il Veltro sia un papa, penso che, dando a nazione il senso
+generico di origine, provenienza, e a feltro quello di povero
+panno, Dante possa aver voluto dire che tale papa spirituale
+sorger@a di tra le povere cappe dei francescani, sar@a un figlio
+non degenere di San Francesco, che la legge di povert@a applicher@a
+prima di tutto al papato.  Che alluda personalmente al papa
+Benedetto XI, successore di Bonifazio VIII, come qualcuno ha pur
+creduto, non @e possibile.  Quando Dante scriveva questa profezia,
+Benedetto era morto da alcuni anni, e Dante sapeva troppo bene
+che, pur essendo stato un papa per molti rispetti conforme ai
+suoi ideali, non aveva davvero operato quel che egli mostra
+aspettarsi dal Veltro.  Soprattutto nel secolo scorso, ebbe molto
+credito l'opinione che Dante alludesse col Veltro o a Cangrande
+della Scala o a Uguccione della Faggiola, potenti signori
+ghibellini suoi contemporanei.  Ma furono personaggi
+sproporzionati a s@i grande profezia; e poi il periodo in cui
+fior@i la loro gloria (secondo decennio del secolo XIV) @e
+posteriore al tempo in cui Dante dov@e scrivere questo I Canto. 
+(Si veda la nota finale n. 1 a ^Par.~ XXXIII).  Non tacer@o (ch@e @e
+pure un documento umano) della follia di coloro che, attribuendo
+a Dante vero spirito profetico, han voluto vedere nel Veltro o
+Lutero, o Vittorio Emanuele II, o Garibaldi, o altro di simile.
+
+	|103.  peltro~: lega di zinco e argento; ma qui sta per
+metallo, danaro in genere.
+
+	|106.  umile Italia~: Cos@i chiama Virgilio le basse
+sponde italiane che prima scorgono i compagni d'Enea venendo
+dall'Epiro.  Ma l'espressione virgiliana @e qui rivolta a un senso
+morale, e vale ^misera Italia~: l'Italia infelice e in basso
+stato dei tempi in cui Dante scriveva (cfr. ^Purg.~ VI, 76-87).
+
+	|107-108.~  Allude a personaggi dell'^Eneide~, morti
+nella guerra che si combatt@e fra Enea co' suoi alleati e la lega
+a loro avversa: guerra in cui si trattava del predominio sul
+Lazio (e quindi, poi, sull'Italia tutta) della stirpe d'Enea. 
+|Camilla~ era figlia di Metabo, re dei Volsci, avversi ai
+Troiani.  |Turno~: re dei Rutuli, mor@i ucciso da Enea.  |Eurialo
+e Niso~ erano giovani troiani, protagonisti d'un famoso episodio
+del poema di Virgilio.
+
+	|111.~  Quale che sia il pi@u preciso significato
+allegorico della lupa, certo essa @e un grave peccato, e i peccati
+sono stati mandati sulla Terra dal demonio, invidioso
+dell'umanit@a, affinch@e gli uomini si dannino.  Il |prima~ pu@o
+essere inteso come aggettivo riferito a |invidia~ (come Dio @e il
+^primo amore~, cos@i il diavolo @e la ^prima invidia~); ovvero come
+avverbio, <primamente>, riferito a |dipartilla.~
+
+	|112.  per lo tuo me'~: pel tuo meglio, pel tuo
+vantaggio.  |Discerno~: giudico.
+
+	|114-117.  Il loco eterno~ ecc.: @e l'Inferno, dove le
+anime lamentano ad alte grida la morte dell'anima, cio@e la
+dannazione.  Ma non @e impossibile che |grida~ possa significare
+^invoca~, e che il poeta voglia dire invece che quei miseri
+invocano di poter terminare di esistere per cessare i tormenti. 
+La |seconda morte~ sarebbe in questo caso l'annullamento anche
+dell'anima.  @E vero per@o che per indicare tale morte, che @e tutta
+ipotetica ed effettivamente non esiste, il poeta avrebbe
+probabilmente detto ^una seconda morte~ e non usato la formula
+consueta e consacrata della perdizione spirituale: |la seconda
+morte.~  ^Secunda mors~ chiama appunto Dante la morte spirituale
+nell'Epistola ai Fiorentini (cap. II, 5).
+
+	|119.  nel foco~: veramente solo una classe di anime
+purganti, i lussuriosi, Dante ci mostrer@a penanti nel fuoco; ma
+qui Virgilio parla secondo la concezione comune del Purgatorio
+come fuoco per tutti.  |Speran~: il verbo ^sperare~ in Dante pu@o
+indicare anche una sicura aspettativa di cosa futura, com'@e
+appunto quella che le anime purganti hanno del Paradiso.
+
+	|122.~  Quest'|anima pi@u degna~ sar@a quella di Beatrice
+Portinari, la donna misticamente amata da Dante nella sua
+giovinezza, morta nel 1290.
+
+	|125-126.  ribellante~: non nel senso attivo della
+parola, che noi riserveremmo a chi avesse operato scientemente
+contro la religione: Virgilio fu semplicemente alieno dalla legge
+di Dio.  |Per me~: ^da me~; @e un complemento di agente, non di
+mezzo.
+
+	|127.~  Il dominio di Dio si estende a tutto l'universo,
+ma la vera sua sede, donde governa, @e il Paradiso: qui @e la sua
+citt@a, cio@e la Chiesa trionfante, accolta di tutti i beati; e qui
+@e il suo trono.
+
+	|129.~  Le parole di Virgilio si chiudono con un sospiro
+verso quella beatitudine che egli non potr@a mai godere.  @E raro
+che Virgilio scopra l'immedicabile suo dolore: si direbbe che ne
+senta il pudore e che abbia la delicatezza di non voler
+affliggere il suo alunno.
+
+	NOTA FINALE N. 4.  VIRGILIO GUIDA DI DANTE.  Dante,
+abbiam detto, fa di Virgilio il simbolo della retta ragione e
+della sana filosofia.  Il suo ufficio di guidare Dante attraverso
+all'Inferno e al Purgatorio fino al Paradiso terrestre, vuol
+significare che anche col semplice uso della retta ragione non
+illuminata dalla fede, l'uomo pu@o, contemplando la colpa, averne
+orrore, pu@o purificarsi, pu@o raggiungere quella perfezione morale
+capace di dare anche in Terra una specie di felicit@a.  Per
+conseguire la beatitudine eterna la ragione non basta; ci vuole
+la rivelazione: Virgilio cede il posto a Beatrice.  Ma perch@e
+Dante sceglie proprio Virgilio a rappresentare l'umana sapienza? 
+Virgilio, @e vero, era ritenuto nel Medio Evo non solo grande
+poeta ma anche grande scienziato e sapiente; e Dante lo cred@e
+tale anche lui.  Ma non fino al punto da non ritenere che il
+filosofo per antonomasia, il ^maestro di color che sanno~ (^Inf.~
+IV, 131), ^il maestro e duce della ragione umana~ (^Convivio~ IV,
+vi, 8) fosse Aristotele.  La scelta di Virgilio dov@e dunque esser
+determinata da altre cagioni che non la sola della sua sapienza. 
+Una pot@e essere che egli fu nell'^Eneide~ il cantore della
+divinit@a dell'Impero di Roma: di quell'impero che secondo Dante
+(@e il concetto su cui s'impernia tutto il suo famoso trattato
+latino ^Monarchia~) era stato ordinato da Dio per la felicit@a del
+genere umano in Terra, e il cui capo avrebbe dovuto avere anche
+la missione di guidare gli uomini per le vie della sana morale. 
+Poi Virgilio era stato a Dante maestro di poesia; e di tutti i
+racconti di viaggi nel regno dei morti che Dante aveva avanti a
+s@e quando si accinse a immaginare e scrivere il suo, quello da
+cui, senza paragone possibile, doveva pi@u derivare era la discesa
+di Enea agl'inferi nel libro VI dell'^Eneide~; e questo, sia pure
+non avendo ancor messo mano al poema, Dante doveva gi@a sentirlo
+come disposizione e come proposito.  Onde dov@e piacergli che la
+sua guida fantastica attraverso il regno dei morti fosse colui
+che gi@a sentiva sua guida nell'immaginazione poetica.  Ma per me
+non basta; e credo di non fare troppo ardita supposizione
+pensando anche che quella storia ideale di un Virgilio ragione
+umana che mostra all'uomo l'orrore della colpa e lo porta al
+pentimento e all'espiazione e lo consegna nelle mani della
+teologia perch@e questa provveda a svelargli il divino e condurlo
+alla felicit@a eterna, possa riprodurre qualcosa della storia
+reale di Dante.  Un fratello di Dante nella venerazione
+entusiastica per Virgilio, il poeta latino Stazio, che Dante ci
+presenta in un lungo e famoso episodio del ^Purg.~ (XXI e XXII),
+dichiarer@a che, prima ancora di convertirsi al cristianesimo,
+egli dovette a Virgilio la coscienza di essere peccatore per
+prodigalit@a e per altri vizi; e quindi il suo pentimento.  Io
+penso (e meglio lo spiegher@o a suo luogo commentando detto
+episodio) che Dante rappresenti in Stazio se stesso, e che
+davvero, nel periodo del suo traviamento, lo studio di Virgilio
+possa aver contribuito a una sua rigenerazione morale e preparato
+il terreno al suo pieno ritorno alla fede cattolica.
+
+	|134-135.  La porta di San Pietro~: quella che si apre e
+si serra con le chiavi che Dio affid@o al suo vicario.  Dante,
+staccandosi nettamente dall'immaginazione comune, vedremo che la
+colloca al principio del Purgatorio.  Ci@o @e implicito anche nelle
+parole che ora egli pronunzia, se, enumerando i luoghi ove
+Virgilio gli ha detto che lo condurr@a e dove egli consente di
+andare, esse debbono accennare all'Inferno (|color cui tu fai
+cotanto mesti~ e al Purgatorio (|la porta di san Pietro~).  Il
+|fai~ del verso 135 vale: <rappresenti, dici che sono>.
+
+	|Conclusione.~  Riassumo a grandi linee il significato
+allegorico di questo primo Canto.  La selva @e il peccato e
+l'errore.  Lo smarrimento in essa di Dante rappresenta un periodo
+di traviamento della sua vita, e in genere l'uomo travolto dalla
+colpa.  Il colle illuminato dal Sole sorgente (la grazia divina)
+rappresenta la verit@a e la virt@u verso cui l'uomo vorrebbe
+salire; ma lo impediscono tre fiere, simboleggianti tre gravi
+vizi.  Virgilio che appare a Dante quando @e per cadere
+definitivamente, @e il simbolo della ragione e della virt@u; il
+quale predica a Dante la venuta di tale che rigenerer@a il mondo. 
+Attraverso la contemplazione della colpa (l'Inferno) e
+l'espiazione (il Purgatorio), Virgilio si offre di condurre Dante
+dove Beatrice (la Rivelazione) porter@a Dante all'eterna salute
+(il Paradiso).  Per il pi@u preciso significato delle diverse
+figure allegoriche, vedi le note finali 2, 3 e 4.

@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Benvenuto
+	Language   = Latin
+	Pub. Year  = 1373
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       92320 Feb 19 14:43 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59986 Feb 19 14:43 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56250 Feb 19 14:43 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       91993 Feb 19 14:44 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       61817 Feb 19 14:44 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46936 Feb 19 14:45 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54575 Feb 19 14:45 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53045 Feb 19 14:45 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53003 Feb 19 14:46 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55078 Feb 19 14:46 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39366 Feb 19 14:47 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       74586 Feb 19 14:47 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       76174 Feb 19 14:48 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59198 Feb 19 14:48 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58122 Feb 19 14:48 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53404 Feb 19 14:48 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55589 Feb 19 14:49 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55428 Feb 19 14:49 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59270 Feb 19 14:49 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58006 Feb 19 14:50 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58851 Feb 19 14:50 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55354 Feb 19 14:50 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       63434 Feb 19 14:51 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       66528 Feb 19 14:51 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       63975 Feb 19 14:51 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.f into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       64966 Feb 19 14:52 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       64360 Feb 19 14:52 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       92851 Feb 19 14:53 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55153 Feb 19 14:53 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       68775 Feb 19 14:54 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       65246 Feb 19 14:54 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       64087 Feb 19 14:54 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50025 Feb 19 14:54 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.f into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45656 Feb 19 14:55 ../staging/inf/34

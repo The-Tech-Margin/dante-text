@@ -1,0 +1,95 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id SAA06802
+	for <steve@avalon.dartmouth.edu>; Tue, 30 Mar 1999 18:03:45 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id SAA30940
+	for <Steve.Campbell@Dartmouth.EDU>; Tue, 30 Mar 1999 18:03:44 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 40594 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68561-22136>; Tue, 30 Mar 1999 18:02:48 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA01515
+	for <Steve.Campbell@dartmouth.edu>; Tue, 30 Mar 1999 18:02:34 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id SAA22908
+	for <Steve.Campbell@dartmouth.edu>; Tue, 30 Mar 1999 18:02:34 -0500 (EST)
+Message-ID: <37015469.41AA9AE2@phoenix.princeton.edu>
+Date: 	Tue, 30 Mar 1999 17:47:05 -0500
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: [Fwd: DDP]
+Content-Type: multipart/mixed; boundary="------------ED9563CC3BBA8E36716B4271"
+
+This is a multi-part message in MIME format.
+--------------ED9563CC3BBA8E36716B4271
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Fine with me if it doesn;t make problems for
+you or give away too much of the store (I
+don't think it does).  Best, Bob
+--------------ED9563CC3BBA8E36716B4271
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Return-Path: <Theodore.Cachey.1@nd.edu>
+Received: from mail.Princeton.EDU ([127.0.0.1]) by imap.Princeton.EDU
+          (Netscape Messaging Server 3.6)  with ESMTP id AAA7157
+          for <bobh>; Mon, 29 Mar 1999 17:27:23 -0500
+Received: from dagger.nd.edu (dagger.nd.edu [129.74.250.101])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id RAA29006
+	for <bobh@phoenix.Princeton.EDU>; Mon, 29 Mar 1999 17:27:22 -0500 (EST)
+Received: from [129.74.181.228] (cachey.decio.nd.edu [129.74.181.228])
+	by dagger.nd.edu (8.8.8/SMS 2.0.4-beta-2) with ESMTP id RAA11150;
+	Mon, 29 Mar 1999 17:27:21 -0500 (EST)
+Date: Mon, 29 Mar 1999 17:27:21 -0500 (EST)
+Message-Id: <v03007804b32564325486@[129.74.181.228]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: bobh@phoenix.Princeton.EDU
+From: Ted Cachey <Theodore.Cachey.1@nd.edu>
+Subject: DDP
+
+Dear Bob,  I hope this finds you well.  I look forward
+to seeing you in Eugene and to the presentation of
+your Dante project there.  We'll have a chance to catch up
+there so I'll be brief.
+As you're probably aware, Chris Dupont has been corresponding
+with Steve Campbell at Dartmouth about the new Web version
+of the DDP that our ItalNet group's been working on. Over
+the past few months, Chris and Mark Olsen have studied some different options
+based on the structure of the data and the kind of searches users will want to
+perform, taking the Dartmouth TelNet application as a model.
+At this point they're ready to do some test loading of the data.
+In order to minimize the amount of time and effort needed to write
+data conversion programs, Mark and Chris would like to work with the
+"final" marked-up version of the data, since the small samples that
+Steve has recently sent them indicate that it would be in
+a format very close to what we need.
+Last fall Steve sent the full-text of two commentaries and portions of seven
+others. These texts, however, were marked up only in a preliminary format, not
+the final full-markup that Dartmouth uses when it loads the text into the
+BRSearch system.  It would save them considerable time if they could have
+these texts in the final markup format rather than the preliminary format.
+Also,
+we'd like to request the final marked-up versions of
+the whole of Inferno and Purgatorio so that we can perform test searches
+involving multiple cantiche. In short, the more data they have to work with in
+Dartmouth's final mark-up form, the more quickly and effectively they can put
+together a test database for Web access.
+Thanks for your consideration of this request and for the
+opportunity to collaborate with you on this. We're excited about it here.
+Mark and Chris have begun to figure things out: Olsen has made
+some real advances on the search engine development side of late.
+Enough or too much for now.  I look forward to hearing from you
+and to be talking with you soon in Eugene.  Be well meanwhile and all
+best,  Ted
+
+
+
+--------------ED9563CC3BBA8E36716B4271--
+

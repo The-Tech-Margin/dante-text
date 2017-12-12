@@ -1,0 +1,587 @@
+	|Proemio~ {^chiose sincrone~}.  Hic Auctor principaliter
+duo facit primo exordium ponit usque ibi.  ^Ora incominciano
+ledolenti etc.~  Ibi incipit tractare de animabus dampnatis
+propter peccatum carnis in libidine et hoc usque ad finem hujus
+capituli.  Ad primam auctor postquam dixit de primo circulo seu
+limbo inferni in quo posuit puniri animas infantium puerorum et
+aliorum de quibus dictum est supra non pena sensus sed dampni
+quod non actualiter et non conscientialiter peccaverunt hic dicit
+de animabus damnatis illorum qui actualiter et conscientialiter
+peccaverunt ut incontinentes et alii de quibus modo dicet
+patientibus penam dampni et sensus fingit se in ingressu hujus
+secundi circuli invenire Minoem ut Judicem infernalem sequendo
+Virgilium ad litteram ut in sexto in textu Mynoem sub figura et
+typo. conscientie auctor hic et Virgilius in sexto ponit et
+merito nam nullum actuale peccatum committi potest conscientia
+non mordente.  Item in eo quod dicit quod dictus mynos examinat
+animas in tali introytu ut Judex notat auctor quomodo conscientia
+in hoc mundo circa bonas et malas operas nos quasi inquirendo
+facit confiteri intellectualiter quod fuerit sequendum vel non. 
+Item in eo quod tangit Mynoem. judicare. tangit. quod accusatio
+conscientie precesserit que fit contra nos. in nobis ipsis dum
+peccavimus. item quod precesserit testimonium conscientie item in
+tertio nos judicat condemnando.  Ultimo in eo quod dicit quod
+dictus mynos sub dicto significatu mandat animas secundum quod
+cingit se cum dicta cauda refert se auctor ad executionem
+Judicii. conscientie predicti que fit in cauda idest in finali
+parte nostre vite in qua malos immemores dei ducit ad infernum ad
+debita supplicia vel refert auctor se hic dum sic dicit de cauda
+dicti Mynois ad executionem in fine mundi fiendam in qua ut
+scriptum est nullus accusabit alium sed sola conscientia
+accusabit quemlibet.
+
+        {^Chiose posteriori~}.  Cosi descesi del cierchio
+primaio.~  In superiori capitulo auctor noster tractavit de primo
+circulo inferni in quo puniuntur pueri innocentes et viri
+illustres nunc consequentur in isto quinto capitulo describit
+secundum circulum inferni in quo tractat de luxurie vitio et
+luxuriosorum supplicio et dividitur in quinque partes generales
+in quarum prima tractat de introitu hujus circuli et de judice
+qui reperitur in ipso introitu.  In secunda tractat de generali
+pena luxuriosorum ibi ^Or incomincian etc.~  3.+a~ tractat in
+speciali de quibusdam antiquis qui laboraverunt isto morbo ibi
+^Et como i grui.~  4.+o~ tractat de quibusdam modernis ibi
+^Poscia chi ebe.~  5.+o~ movet questionem alteri duorum spirituum
+circa materiam narratam per ipsum ibi ^Poi me revolsi.~  Alie
+partes particulares patebunt discurrendo per singulas.  
+
+	|1.~  {^chiose posteriori~}.  ad primam ergo dico quod
+auctor continuans se ad precedentia describit introitum secundi
+circuli dicens. |Cos@i descesi.~ scilicet sicut dictum est cum
+solo Virgilio. |del cerchio primaio.~ idest primo inferni.
+inferius in secundum quia inferno semper tendit deorsum vel sic
+|che men luocho cenge.~ idest quem circulus secundus cengit et
+claudit minus loci ad quod notandum quod infernus fingitur ab
+auctore esse locus rotundus distinctus per gradus et circulos qui
+incipit ab amplo et continuo gradatim arctatur usque ad centrum
+instar corbis bononie. et subdit quod licet iste circulus sit
+minor primo circulo tamen continet majorem penam.  |discesi.~
+sicut dictum est cum solo Virgilio.  
+
+	|2.  che men~ {^chiose posteriori~}. et licet sit minor
+circulus tamen majorem penam habet.  |cinghia.~ qui circulus
+minus loci cingit.  
+
+	|3.  aguaio~ {^chiose posteriori~}. et cinget tanto plus
+doloris quia compellit hominem ad clamandum.
+
+	|4.  ringhia~ {^chiose interlineari~}. actus canis
+mordacis acuentis dentis.
+
+	|stava~ {^chiose posteriori~}.  Describit judicem
+generalem inferni et ejus officium.  Ad sciendum quis sit iste
+minos notandum est quod homo quidam recte condemnari est
+condamnandus a justo judice ideo introducit minoem quia fuit
+justissimus et rex cretensis de quo et ejus politie loquitur
+aristoteles primo politicorum.  Minos primus tradidit leges
+cretensibus que viguere usque ad tempora metelli qui cretam cepit
+tempore pompei et eis dedit leges romanorum.  Minos moraliter
+capitur pro conscientia que est judex cujuslibet quia omnis
+peccans portat secum suum judicem unde boetius: Extra te ne
+quesieris ultorem.  Nunc ad litteram.  |Stava Minos.~  Nota actum
+justi judicis quia examinat diligenter culpas ut pro qualitate
+culpe det qualitatem pene.  |Mynos.~ in introitu. |ringhia.~ et
+bene quia conscientia semper mordet nos.  
+
+	|6.  chavinghia~ {^chiose posteriori~}. secundum se
+cingit cum cauda. sicut cauda est extrema pars animalis ita
+ponitur hic pro extrema sententia peccatoris.
+
+	|7.~  {^chiose posteriori~}.  Ostendit justum judicium. 
+|mal nata.~ quia ad damnationem.  
+
+	|8.  livien~ {^chiose posteriori~}. ad examen
+conscientie.  |si confessa.~ quia nemo potest conscientiam
+fallere.  
+
+	|10.  e da essa~ {^chiose posteriori~}. i. quem circulum
+meretur introire.
+
+	|12.  sia messa~ {^chiose posteriori~}. quia si vult quod
+damnetur ad primum circulum dat unam volutionem si ad secundam
+dat duas etc.
+
+	|14.  giudicio~ {^chiose posteriori~}. quia sicut caron
+semper trasportat ita ista semper judicat.
+
+	|15.  dicono~ {^chiose posteriori~}. earum culpas. 
+|odono.~ sententias.  |volte.~ ad penam destinatam.
+
+	|16.  O~ {^chiose posteriori~}.  Ostendit quomodo se
+habuerit erga Dantem minos.  |hospitio.~ quia est hospitium
+eterni doloris.
+
+	|17.  mi vide~ {^chiose posteriori~}. vivum venientem ad
+examen.
+
+	|18.  offitio~ {^chiose posteriori~}. ipsum minoem
+dimittendo examen et condemnationem animarum.
+
+	|19.  Guarda~ {^chiose posteriori~}. sc. descriptionem
+inferorum.  |ti fide.~ utrum Virgilius sit sufficiens te ducere
+quia revera moraliter erat sufficiens essentialiter non quia
+Virgilius non recte novit infernum.  
+
+	|20.  lampiecza~ {^chiose posteriori~}. Virgilius in
+6.+o~ facilis descensus averni.  |delintrare.~ quia licet
+introitus sit facilis exitus tamen est difficilis.  Leve est
+intrare viam vitiorum sed exire difficile. vel facile est ingredi
+opus arduum sed difficile sequi.
+
+	|21.  alui~ {^chiose posteriori~}. dixit.  |pur gride.~
+quasi diceret frustra.
+
+	|22.  Non~ {^chiose posteriori~}.  Et ideo non.  |fatale
+andare.~ quia datum est a celo et predestinatum a deo.
+
+	|23.  vuolse~ {^chiose poster iori~}. quasi diceret auctor
+vadit de speciali gratia ut patuit capitulo 2.+o~.  |si puote.~
+nam velle et posse non differunt in eternis et in deo.
+
+	|24.  si vuole~ {^chiose posteriori~}. in celo.  |non
+dimandare.~ sc. quare vel quomodo ex quo deus vult.
+
+	|25.  Or~ {^chiose sincrone~}.  Hic incipit secunda pars
+huius capituli in qua incipit auctor tractare de septem peccatis
+principalibus incontinentie et de animabus propter illa dampnatis
+in inferno.  Et primo de peccato luxurie carnalis hic dicere
+incohat fingendo in isto circulo secundo inferni puniri in tali
+vento tempestuoso animas illorum qui in hoc mundo rationem
+submiserunt libidinoso appetitui que submissio rationis fit in
+quolibet coitu preterquam in coitu uxoris.
+
+	|Or~ {^chiose posteriori~ }.  2.+a~ pars generalis in qua
+agit de generali pena luxuriosorum et primo premittit signum
+doloris et pene dicens |Or.~  |dolenti nuote.~ i. note doloris.
+
+	|27.  mipercuote~ {^chiose posteriori~}. risus amoris
+cito parit plantum qui est proprius amatorum.
+
+	|28.  Io~ {^chiose posteriori~}. describit locum et penam
+dicens quod luxuriosi rapiuntur a ventis contrariis et invicem
+colliduntur. instar maris quod agit tempestates propter
+contrarios ventos et est bona comparatio quia sicut mare
+contrariis ventis turbatur et impellitur ita amor. nam multa sunt
+in amore ut ait Terentius. 2.+a~ comedia: ire inducie inimicitie
+bellum pax rursum etc.  |muto.~ ad differentiam superioris
+circuli ubi erat lumen.
+
+	|30.  contrari venti~ {^chiose posteriori~}. sicut a
+borea et ab austro.
+
+	|31.  bufera infernal~ {^chiose posteriori~}. impetuosa
+sufflatio quia luxuria est impetuosa et velocissima.  |non
+resta.~ quia animus amantis numquam quiescit.
+
+	|33.  li molesta~ {^chiose sincrone~}.  Nam ait ovidius
+actibus innumeris mens oppugnatur amantis ut lapis equoriis
+undique pulsus aquis.
+
+	|voltando~ {^chiose poster iori~}. quia iterum atque
+iterum eos ducit ad idem periculum non ostante timore dei.
+infamia etc.  |percotendo.~ quia sepe veniunt ad arma.
+
+	|34.  Quando giungon davanti ala ruina~ {^chiose
+interlineari~}. quando se ad invicem obvianti in tali revolutione
+tempestatis.
+
+	|ala ruina~ {^chiose posteriori~}. vel quando veniunt ad
+miserabilem iacturam quia vi amoris multi pereunt.
+
+	|35.  listrida~ {^chiose posteriori~}. sunt.
+
+	|36.  biastemevan~ {^chiose posteriori~}. ex
+desperatione.
+
+	|37.  Intesi~ {^chiose posteriori~}.  Describit qui sint
+isti dicens. |cosi facto.~ tam amaro.
+
+	|38.  enno~ {^chiose posteriori~}. vel ^sono.~ idest
+sunt.  |carnali.~ luxuriosi qui ponunt felicitatem suam in carnis
+resolutione.
+
+	|39.  altalento~ {^chiose interlineari~}. ad libitum.
+
+	|altalento~ {^chiose posteriori~}. qui summitunt rationem
+appetitui.
+
+	|40.~  {^chiose posteriori~}.  Comparatio.  |e come.~ 
+Describit formam raptus istarum per comparatioem.  |li stornei.~
+que sunt aves luxuriose et gregabiles et leves et recedunt ad
+partes calidas. ita amantes sunt luxuriosi. incedunt sociati de
+facili capiuntur et tendunt ad calorem libidinis. et fugiunt
+frigidas mulieres.  
+
+	|41.  nel freddo~ {^chiose posteriori~}. adveniente hieme
+quando faciunt transitum ad partes calidas.  |piena.~ quia maxima
+est multitudo ipsorum amantium discurrentium per contratas.
+
+	|42.  fiato~ {^chiose interlineari~}. sc. ventus.
+
+	|fiato~ {^chiose posteriori~}. luxurie.
+
+	|43.  limena~ {^chiose posteriori~}. quia ventus luxurie
+ducit amantem post amasiam ad templum ad fontem ad nuptias ad
+mortuos et quocumque incedat.
+
+	|45.  minor pena~ {^chiose posteriori~}. nedum spem
+quietis habent sed nec spem mitioris pene et hoc est verum quia
+insatiabilis est appetitus.
+
+	|46.~  {^chiose posteriori~}.  3.+a~ pars generalis in
+qua tractat in speciali de spiritibus pollutis vitio luxurie et
+primo premittit comparationem ad explicandam conditionem eorum et
+dicit quod unus volabat per aerem post alium longa linea
+querelando instar gruum.  Nota quod auctor facit multas
+comparationes volantium ad denotandum quod amor est volatilis. et
+ideo alatus scribitur.  |E come i grui.~  Comparatio.  |lor lai.~
+suos versus.  
+
+	|47.  riga~ {^chiose posteriori~}. linea.
+
+	|48.  guai~ {^chiose posteriori~}. conquerendo dolorose.
+
+	|49.  briga~ {^chiose posteriori~}. a concertatione
+ventorum.
+
+	|50.~  {^chiose posteriori~}.  Petitio Dantis.  |per
+chio.~ per quam rem.
+
+	|51.  si castiga~ {^chiose posteriori~}. quas aer niger
+ita punit.
+
+	|52.~  {^chiose posteriori~}.  Responsio Virgilii in qua
+nominat personas speciales et primo semiramim.
+
+	|53.  alocta~ {^chiose posteriori~}. iste Virgilius tunc.
+
+	|54.  favelle~ {^chiose posteriori~}. quia habuit multas
+nationes sub se.
+
+	|56.  sua legge~ {^chiose posteriori~}. quia statuit ut
+pater filie et frater sorori jungerentur jure.  Cum hec lex
+inhonesta juberet abusive dicitur lex.
+
+	|58.  Semyramis~ {^chiose sincrone~}.  Semiramis. que
+fuit uxor nini regis babylonie mater nini filii dicti nini et
+ipsius semiramis. que cum multis suis consanguineis fornicata est
+post mortem dicti nini et ideo statuit esse licitum quodcumque
+juvaret.
+
+	|Semyramis~ {^chiose posteriori~}.  Orosius de semirami
+ait sanguine sitiens libidine ardens secum concubentes
+interficiebat.
+
+	|59.  sua sposa~ {^chiose posteriori~}. quam filius
+interfecit quod et secum etiam fornicari voluerat.
+
+	|60.  laterra~ {^chiose posteriori~}. sc. babilloniam.
+
+	|61.  colei~ {^chiose sincrone~}.  Dido fuit filia regis
+heli regina tiriorum que propter amorem enee se interfecit hoc
+patet in Virgilio.
+
+	|colei~ {^chiose posteriori~}. de didone contrarium est
+veritas nam CCC annis ante didonem eneas venit in italiam teste
+augustino de civitate dei sed dicendum quod auctor sequitur
+Virgilium et sic excusandus.  |amorosa.~ per amorem.
+
+	|63.  cleopatras~ {^chiose interlineari~}. soror tholomei
+regis egipti qui interfecit pompejum magnum.
+
+	|Cleopatras~ {^chiose sincrone~}.  Cleopatras fuit soror
+tholomei regis egypti filia regis lagi de egyptho que ut cum
+Julio cesare jacere posset tractavit mortem dicti sui fratris et
+ad effectum perduxit et cum regibus orientalibus adulterata est
+ut legitur in cornelio tacito.
+
+	|64.  Elena~ {^chiose posteriori~}.  uxor menelai
+pulcherrima secundum homerum primo rapta a theseo duce athenarum
+ovidius.  A juvene et cupido credatur reddita virgo.  2.+o~ a
+pari. quare ortum est bellum troyanum.
+
+	|65.  Acchille~ {^chiose sincrone~}.  Auctor historiace
+vult tangere quod legitur de ipso Acchille. scilicet quod occiso
+hectore a dicto Acchille greci eum trojanis treuguam fecerunt
+adeo firmatam quod trojani in castra grecorum greci in troiam
+ibant tunc vero accidit quod dum Eccuba uxor priami. et mater
+hectoris cum pulisena sua filia et aliis dominabus trojanis
+exisset extra trojam ad exequias anniversarias. faciendas dicti
+hectoris dictus Acchilles adeo phylocaptus est de dicta pulisena
+quod eam petiit in uxorem quod dicta Eccuba sibi facere promisit
+se faceret quod exercitus grecorum inde recederet quod facere non
+volens dictus Acchilles. cum sua gente de dicto exercitu recessit
+indignatus. nichilominus dicta Eccuba memor mortis dicti sui
+filii et in ejus vindictam cum tractatu paridis sui filii
+ordinavit quod dictus Acchilles una die veniret ad quoddam
+templum apollinis positum juxta troiam ad complendum dictum
+conjugium qui Acchilles venit ad dictum templum insultatus fuit
+insidiose a dicto paride et a multis aliis troianis qui Acchilles
+eis non valens resistere reduxit se ad statuam dicti Apollinis
+ubi sagitta mortuus est a paride predicto dicto apolline
+dirigente manus et sagittam dicti paridis in dictum acchillem.
+
+	|tempo~ {^chiose posteriori~}. quia per X. annos.
+
+	|66.  combateo~ {^chiose posteriori~}. quia propter
+amorem polisene obiit.
+
+	|67.  Paris~ {^chiose posteriori~}.  Paris totus
+venereus. primo aspectu quia juvenis formosus et vagus secundo
+habitu quia incedebat indutus pelle pardi de qua dictum est primo
+capitulo.  3.+o~ armis quia sagictator sicut cupido.  4.+o~
+mollitie virium.  |Tristano.~ Tristanus cum isocta patrui uxore.
+sc. regis marci de cornuvaglia peccavit. hic percussus telo
+venenato de gratia regis amplexus illam strictam in ulnis
+ferventissimo amore simul secum aspiravit.
+
+	|69.  chamor~ {^chiose posteriori~}. quos amor.
+
+	|70.  Posscia~ {^chiose posteriori~}.  4.+a~ pars
+generalis in qua tractat de duobus spiritibus modernis.
+
+	|72.  smarito~ {^chiose posteriori~}. affectus fuit
+pietate ipsorum quia ipse etiam laboravit paxione amoris.
+
+	|74.  parlarei~ {^chiose posteriori~}. describerem. 
+|du.~ moderni.
+
+	|75.  alvento~ {^chiose posteriori~}. libidinis. 
+|legieri.~ quasi diceret videntur esse satis morosi.
+
+	|79.~  {^chiose posteriori~}.  Exequitur consilium
+Virgilii Dantes.  |li piega.~ immediate quod ventus illos ad nos
+plicavit.
+
+	|80.  muovi~ {^chiose posteriori~}. ego movi.  |la voce.~
+et dixi.
+
+	|82.  Quale~ {^chiose posteriori~}.  Comparatio.  Ponit
+sue petitionis effectum.  |Colombe.~  Columba est avis dedicata
+veneri que sublatis pullis a loco etiam in eodem nidificat non
+ostante damno propter luxuriam suam ita amorosi non ostantibus
+damnis proprie infamie iterum ad eamdem amasiam revertuntur. 
+|disio.~ ab appetitu.
+
+	|84.  voler~ {^chiose posteriori~}. naturali voluntate.
+
+	|85.  ove dido~ {^chiose posteriori~}. de societate
+luxuriosorum inter quos est dido.
+
+	|86.  malingno~ {^chiose posteriori~}. inquietum qualis
+est in luxuriosis.
+
+	|87.  grido~ {^chiose posteriori~}. tam efficax fuit
+adiuratio quam feci eis.
+
+	|88.~  {^chiose posteriori~}.  Ponit orationem unius
+illorum spirituum. sc. francisce ad petitionem dantis in qua
+primo exordium 2.+o~ narrationem ponit.  Exorditur captans
+benevolentiam multipliciter. dicens Danti |O...benigno.~ ex
+pietate et compassione quam habes ad nos.
+
+	|89.  perso~ {^chiose interlineari~}. sc. nigro.
+
+	|90.  sanguigno~ {^chiose sincrone~}.  Ista fuit umbra.
+d. Francische filie domini Guidonis de polenta domini civitatis
+Ravenne posite juxta litus maris adriaci ubi padus intrat mare
+illud cum suis sequacibus fluminibus uxor olim Joannis Ciotti de
+Malatestis de Arimino.  Item umbra pauli fratris dicti Joannis. 
+Que dicta d. Francisca et paulus ejus cognatus deprehensi simul
+in adulterio a dicto Joanne occisi sunt ambo ab eodem Joanne. 
+Modo ut auctor ostendat ad nostram moralitatem a quo nobis cavere
+debemus ne capiamur ab isto amore concupiscibili inducit dictam
+d. Franciscam ad dicendum quomodo dictus paulus phylocattus est
+de pulcra persona motus a nobili corde cui citius talis amor
+insurgit propter cibaria pretiosa et otia quam cordi plebei.
+
+	|91.  universo~ {^chiose posteriori~}. sc. si deus esset
+nobis amicus ita quod nostre preces exaudirentur.
+
+	|92.  da la tua pace~ {^chiose posteriori~}.  Ecce
+quomodo optime captat benevolentiam quia optat sibi id quo maxime
+indigent amantes qui semper sunt inquieti ut dictum est.  Sicut
+etiam dicimus egrotis Deus det tibi sanitatem vel sic |dela tua
+pace.~ i. ut ponat in pace et quiete tuos labores perducendo tuum
+opus ad beatum finem et sic te ad portum quietis. et ista 2.+a~
+expositio est melior et ecce causam ^da chai pieta.~ etc.
+
+	|95.  udiremo~ {^chiose interlineari~}. vos.
+
+	|96.  citace~ {^chiose posteriori~}. non murmurat.
+
+	|97.  laterra~ {^chiose interlineari~}. scilicet ravenna
+que est prope mare per tria miliaria.
+
+	|98.  marina~ {^chiose posteriori~}. super adriaco mari. 
+|dovel po.~ padus flumen.  |discende.~ intellige quantum ad
+rectum brachium intrat namque padus mare in loco qui dicitur
+primarium.
+
+	|99.  coiseguaci suoi~ {^chiose posteriori~}. cum
+fluminibus cum quibus luctaretur nisi intraret mare.  Nota quod
+padus transcurrit per medium lombardie et colligit aquas a
+dextris et sinistris et omnes secum ducit ad mare.
+
+	|100.  Amor~ {^chiose posteriori~}.  Narrat quomodo
+paulus fuerit primo amoratus de ea. et primo ad excusationem
+pauli assignat causam amoris quoniam ille tamquam nobilis cito
+accensus est amore ejus que similiter erat nobilis et pulcra. et
+dicit ergo |saprende.~ propter otium quod maxime nobiles habent.
+
+	|101.  persona~ {^chiose interlineari~}. mea. francische.
+
+	|custui~ {^chiose posteriori~}. paulum.
+
+	|102.  che~ {^chiose interlineari~}. idest que persona.
+
+	|tolta~ {^chiose posteriori~}. violenter. 
+|mofende.~ quia adhuc viget infamia in mundo et pena in inferno.
+
+	|103.  cha nullo amato amar perdona~ {^chiose
+interlineari~}. quia cogit amor amatum amare amantem.
+
+	|Amor~ {^chiose posteriori~}.  Narrat quomodo redamaverit
+ipsum et excusat se dicens quod amor est tante virtutis quod
+cogit personam amatam redamare amantem.  |perdona.~ qui non
+remittit alicui amato amare amantem.
+
+	|104.  siforte~ {^chiose posteriori~}. placere isti ita
+me strinxit.
+
+	|105.  mabandona~ {^chiose posteriori~}. etiam post
+mortem sicut in vita.
+
+	|106.  Amor~ {^chiose posteriori~}.  Concludit quia par
+fuit culpa et ideo par pena. et subjungit auctorem mortis eorum
+dicens qui interfecit eos ibit ad fundum inferni ubi ponuntur
+occisores consanguineorum in glacie in ea parte que appellatur
+cayna a chaym primo interfectore fratris sui. 
+
+	|107.  cispense~ {^chiose posteriori~}. expectat illum
+qui interfecit nos. sc. ioannem sancatum maritum meum qui nobis
+vitam eripuit.
+
+	|108.  queste~ {^chiose posteriori~}. concludit.
+
+	|109.  Quando~ {^chiose posteriori~}. alias ^poscia.~ 
+|ch'intesi.~ ponit effectum narrationis ex parte sua.
+
+	|110.  ilviso~ {^chiose posteriori~}. intellectum. 
+|tenni basso.~ ego stupefactus tali affectu amantium.
+
+	|112.  o lasso~ {^chiose posteriori~}. heu miserum
+dolenter refero.
+
+	|113.  dolci pensier~ {^chiose posteriori~}. quia amor
+est dulce venenum et suavis mors.  |disio.~ quam ardens
+desiderium.
+
+	|114.  doloroso passo~ {^chiose posteriori~}. mortis
+violente et infamis.
+
+	|115.  Poi~ {^chiose posteriori~}.  5.+a~ pars generalis
+in qua ponit declarationem unius dubii a predicto spiritu.  sed
+primo ponit orationem suam ad predictos in qua primo facit
+exordium 2.+o~ petitionem.  et alloquitur ipsam franciscam que
+primo fuerat locuta secum dicens.  |mi rivolsi.~ postquam fuit
+loquutus Virgilio.  
+
+	|117.  tristo~ {^chiose posteriori~}. ex dolore.
+
+	|118.  Ma~ {^chiose posteriori~}. petit.  |disiri.~ quia
+latenter optabat antequam detegerem flammam.
+
+	|119.  e come~ {^chiose posteriori~}. ad quod et
+qualiter.
+
+	|120.  disiri~ {^chiose posteriori~}. suspiri idest
+quomodo potuisti cognoscere quod paulus amaret te nam erat dubium
+propter affinitatem.
+
+	|121.  E~ {^chiose posteriori~}.  Responsio.  
+
+	|123.  doctore~ {^chiose posteriori~}. id. Virgilius. 
+Nam expoliatus fuerat bonis sicut ceteri mantuani ut patet in
+buccolicis. vel quia in mundo habuerat prosperitatem cum
+octaviano et nunc erat damnatus. vel et melius quia Virgilius
+ponit similem modum loquendi quem facit eneas didoni narraturus
+excidium troye lib. 2.+o~ ibi. ^Infandum~ etc.
+
+	|124.  la prima~ {^chiose posteriori~}. particulariter.
+
+	|128.  lo strinse~ {^chiose posteriori~}. erga reginam
+ginevram.
+
+	|129.  soli~ {^chiose posteriori~}. nota opportunitatem
+loci.
+
+	|130.  ci so spinse~ {^chiose posteriori~}.  Ovidius:
+alter in alterius jactantes lumina vultum.
+
+	|131.  scoloroccil viso~ {^chiose posteriori~}. proprium
+est amantium palescere. profecto trepidant mea membra et fiunt
+croceo pallidiora croco.
+
+	|132.  un punto~ {^chiose posteriori~}. illius lecture. 
+|civinse.~ quia reverentia et verecundia prius tenuerat nos.
+
+	|133.  ildisiato riso~ {^chiose interlineari~}. genevre
+qui pro riso ponitur in quo risus. aparet.
+
+	|Quando~ {^chiose posteriori~}.  Explicat illud punctum.
+
+	|134.  amante~ {^chiose sincrone~}.  Visus et alloquium
+tactus post obscula factum iste sunt linee amoris.
+
+	|amante~ {^chiose posteriori~}. a lancillotto.
+
+	|136.  tremante~ {^chiose posteriori~}. ex pudore.
+
+	|137.  Galeocto~ {^chiose interlineari~}. galeoctus.
+fuerunt scilicet respectu mei et pauli.
+
+	|Galeocto~ {^chiose sincrone~}.  Legitur in gestis
+illorum ^de la tabula rotunda.~ quod galeoctus amore lanzalotti
+fecit quod quedam dama de Malaut proca dicti galeocti conduxit
+reginam geneveram ad quoddam viridarium. ubi breviter dictus
+lanzaloctus ejus procus secrete osculatus est eam.  Unde dicit
+dicta d. Francisca. quod sicut ille galeoctus fuit causa osculi
+dati a lancellocto dicte regine ita fuit dictus liber qui de hoc
+tangit. et ipse galeoctus a remotis causa obsculi dati a paulo
+dicte d. Francische.
+
+	|Galeocto~ {^chiose posteriori~}. mediator vel leno. 
+|libro.~ liber vel auctor libri.
+
+	|139.  Mentre~ {^chiose posteriori~}.  Concludit.
+
+	|140.  laltro~ {^chiose posteriori~}. spiritus pauli.
+
+	|142.  cade~ {^chiose sincrone~}.  Nota quod demon quidam
+huic vitio luxurie attributus est. idest diabolicus motus ad
+libidinem qui ebraice dicitur abadon et grece appollion latine
+exterminas. et a Job vocatur leviathon. a poetis cupido qui primo
+discribitur cecus ex eo quod nos in hoc mundo cecat circa
+aspectum mulierum et e contrario in non videndo quid faciamus et
+quid concupiscamus. et ideo auctor fingit se intrasse locum omni
+luce carentem qui locus attributus est amatoribus propter eorum
+cecitatem in hoc mundo.  Secundo scribitur dictus demon sive
+diabolicus motus alatus secundum ysiderum dicentem. cupido
+fornicatoris demon eum alis pingitur et ideo auctor animas talium
+amatorum vento tempestuoso puniri quasi aves volantes. ut
+allegorice tangat statum talium in hoc mundo viventium qui semper
+in motu et circuitu est. et quod dicit alarum pertinet ad
+velocitatem in discurrendo modo huc modo illuc.  Tertio scribitur
+archiger. et sagiptator ex eo quod perforat cor amantis variis
+cogitationibus. etc.  Et ideo fingit auctor semper a dicto vento
+percuti et feriri. 
+
+	|cade~ {^chiose posteriori~}.  Nota quod id quod auctor
+nunc fingit. scilicet quod cecidit accidit sibi dum erat amoratus
+amore beatricis.  Cum enim accessisset ad quoddam convivium ubi
+erat beatrix illa occurrente sibi ascendenti per scalas cecidit
+quasi semimortuus et asportatus super lectum aliquandiu stetit
+sine usu sensuum.  
+
+

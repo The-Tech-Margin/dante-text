@@ -1,0 +1,12 @@
+This directory contains source for some small test programs and, more important,
+the source for two lex(1) filter programs used to load DDP date: ddp2html.l and
+html2ddp.l.  The former is used routinely in loading DDP text into the database.
+The latter is used rarely to do the reverse mapping.
+
+To compile these programs on OS X, use the following commands:
+
+	flex whatever.l
+	cc -ll lex.yy.c -o whatever
+
+where "whatever" is the base name of the lex source file.
+

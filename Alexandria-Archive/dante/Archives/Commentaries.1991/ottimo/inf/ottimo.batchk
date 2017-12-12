@@ -1,0 +1,100 @@
+#! /bin/sh
+
+#	Convert a batch of *.k files into *.s files.  This is a
+#	batch version of cleank.  Special modification for use
+#	on L'Ottimo
+#
+#	Usage:	ottimo.batchk  [-f sedfile]  [-c cantica ]  file ...
+#
+#		where -f is a sed script file, asked for if not given here,
+#		      -c is the cantica (INFERNO..), derived from the 
+#			 path name of the cwd if not given here.
+
+if [ $# -eq 0 ]
+then
+	echo "Usage: batchk  [-f sedfile]  [-c cantica]  file ..."
+	exit 1
+fi
+
+LIB=/dante/lib
+SEDFILE=
+CANTICA=
+
+while [ $# -gt 0 ]
+do
+	case $1 in
+		-f)	SEDFILE=$2
+			shift; shift
+			;;
+		-c)	CANTICA=$2
+			shift; shift
+			;;
+		-*)	echo "Unknown argument: $1"
+			exit 1
+			;;
+		*)	break
+			;;
+	esac
+done
+
+if [ $SEDFILE. = . ]
+then
+	echo -n "Enter name of sed script file: "
+	read SEDFILE
+fi
+
+if [ $CANTICA. = . ]
+then
+	case `pwd` in
+		*inf)	CANTICA=INFERNO ;;
+
+		*purg)	CANTICA=PURGATORIO ;;
+
+		*para)	CANTICA=PARADISO ;;
+
+		*)	echo "Can't determine Cantica. Where the hell am I?"
+			exit 1
+			;;
+	esac
+fi
+
+for INPUT
+do
+	if [ ! -r $INPUT ]
+	then
+		echo "File $INPUT does not exist.  Skipping it."
+		continue
+	fi
+
+	case $INPUT
+	in
+		[0-9][0-9].k)	CANTO=`base $INPUT`
+				OUTPUT=$CANTO.s
+				HEADER="|$CANTICA CANTO $CANTO~"
+				;;
+
+		*)		echo "$INPUT is not a .k file.  Will skip it."
+				continue ;;
+	esac
+
+	echo ""
+	echo "Processing $INPUT into $OUTPUT.  Header will be:"
+	echo $HEADER
+
+	if [ -s $OUTPUT ]
+	then
+		echo "Warning: file $OUTPUT already exists.  Will overwrite it."
+	fi
+
+	( echo; echo $HEADER ) | cat - $INPUT |
+	uniq |
+	fixroman |
+	sed -f $SEDFILE -f $LIB/cleank2.sed |
+	uniq |
+	tee $CANTO.m |
+	nroff $LIB/cleank.nr - |
+	uniq |
+	sed -f tilde.fix -f $LIB/cleank3.sed | checktilde > $OUTPUT
+	wc $INPUT $OUTPUT
+
+done

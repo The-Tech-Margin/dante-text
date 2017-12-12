@@ -1,0 +1,313 @@
+	|Proemio.~  Incomincia il trentadue Capitolo di purghatorio.
+
+	|1-36.~ 
+	^Tanto eran gli occhi miei fissi e atenti~
+^a disbramar la decenne sete~
+^che gli altri sensi m'eran tutti spenti.~
+
+Discritto l'altore pienamente quella donna cio@e Beatricie per la qual 
+fighura santa teologia ora in questo chapitolo vuole discrivere chome 
+tutto quello hoste ed ello esercito tornasse alla sua patria e al suo 
+luogho cio@e al cielo e puotesi dividere questo chapitolo in quatro 
+parti gienerali.  In questa prima parte l'altore continuando alla 
+materia passata discrive la disposizione di quello exercito e oste 
+diciendo l'altore chome dieci anni egli era istato ch'egli non avea 
+atteso alla teologia anzi avea atteso a gieometria e a ffilosofia e ad 
+altre iscienzie morali e ora torner@a alla teologia come chomincia il 
+presente chapitolo.
+
+	^E lla disposizion ch'a vedere @ee~
+^negli occhi pur test@e dal sol percossi~
+^sanza la vista alquanto esser mi fee.~
+
+L'altore fa di s@e stesso questa disposizione e dicie che ghuardando 
+Beatricie gl'intervene chome a uno che ghuardi nella spera del sole e 
+che poi volgiendosi altrove non vede niente per la gran chiarezza che 
+ha veduta e che a poco a poco viene discernendo l'altre chose.  Cos@i a 
+ssimile avendo ghuardato l'altore Beatricie e lla sua grande chiarezza 
+risplendere dicie che gli abarbagli@o che altro non potea vedere insino 
+a tanto che non valich@o quel barbaglio di quella chiarezza e dicie 
+chos@i
+
+	^Vidi in sul dextro braccio essere rivolto~
+^lo grazioso esercito e tornarsi~
+^col sole e colle sette fiamme al volto.~
+
+Dicie l'altore che vide quel grande esercito di giente rivolti tutti 
+per partirsi inverso il braccio destro e con que' sette chandellieri 
+inanzi acciesi e mostrati il modo del partire di chostoro per una 
+comperazione a ssimile chome fa una schiera di chavalieri quando 
+vogliono fare un drappello e ristringhonsi insieme che il drappello si 
+piglia in sul braccio destro s@i cche gli scudi rimanghono da lato di 
+fuori in difensione delle loro persone.
+
+	^Quella milizia del cielesto regno~
+^che precedeva tutta trapassonne~
+^pria che piegasse il charro il primo legnio.~
+
+L'altore parla qui di questo primo legnio del charro per lo temone che 
+ffa ch'egli @e il primo legnio dinanzi dal charro e per questo timone 
+di charro di santa chiesa altro non vuol dire se non che s'erano 
+adenpiute tutte le profezie e leggi di questo avvenimento di Cristo e 
+dell'ordinamento di questo charro di santa chiesa.
+
+	^La bella donna che mi trasse al varcho~
+^e Stazio ed io seghuitavan la rota~
+^che ffe' l'orbita sua co minore archo.~
+
+Dicie qui l'altore che questa contessa Matelda che qui @e posta per la 
+vita attiva e Istazio ed egli dicie ch'andavano pure dalla dextra parte 
+della ruota del charro.  E di cielo per significhazione ch'eglino erano 
+dal lato di quella ruota che fecie l'orbita sua che @e minor cierchio.  
+L'orbita si chiama quel segnio che ffa la ruota del charro per terra 
+quando si volgie a man destra a un volgiere di via che sai che quella 
+ruota che @e a quella mano fae minor cierchio che ll'altra.  E per 
+questo si puote intendere in due modi l'uno per la dextra ruota si de' 
+intendere per lo nuovo testamento che @e tempo di grazia e sempre 
+ser@a.  Ancora puoi intendere per la ruota minore overo volta minore 
+che piglia quella ruota per la leggie nuova la quale @e di minor vilume 
+che lla vecchia assai tanto che gli @e ta[l] libro solo nella leggie 
+vecchia che ssi contiene pi@u che non fa in tutti quegli della leggie 
+nuova.
+
+	|37-63.~ 
+	^I' senti' mormorare a tutti Adamo~
+^po' cierchiaro una pianta dispogliata~
+^di fiori e d'altra fronda in ciascun ramo.~
+
+In questa seconda parte l'altore discrive la fondazione di quella 
+giente e della santa chiesa di Dio e fingie ch'egli sentisse dire a 
+tutti choloro e ricordare Adamo e che tutti andassono intorno a un 
+albero grandissimo d'altezza e ispogliato di rami e di foglie.  E per 
+questo albero dei 'ntendere la obedienzia la quale @e chomandata da Dio 
+a Adamo e a Eva che non dovessino mangiare di quel pome ed Eva ruppe il 
+suo comandamento e si ne mangi@o e per quello dispogli@o quell'albero e 
+furono chacciati fuori del paradiso e chome per l'albero fumo 
+dispogliati chos@i per l'albero fumo rivestiti della grazia di Dio 
+quando sofferse morire per noi in su[l] legnio della crocie per lo 
+pecchato del primo huomo e per la disubidienza e per quella paxione 
+l'albero di nostra vita rinverd@i e rifior@i.  E datti questo albero 
+chome gli @e grande questa comparazione cos@i diciendo l'altore
+
+	^La chioma sua che tanto si dilata~
+^pi@u quanto pi@u @e su fora dagl'Indi~
+^ne' boschi loro per altezza amirata,~
+
+Questo tolse l'altore da Virgilio e scrive tutti i privilegi ' degnit@a 
+c'hanno tutte le regioni del mondo e in brieve egli mette Italia per la 
+pi@u bella e nobile provincia e gientile di gienti e d'ogni altra chosa 
+che veruna altra regione del mondo e scrive che in India fra ll'altre 
+chose meravigliose che vi sieno si @e una gienerazione d'albori che 
+sono tanti alti che veruno balestro non porta tanto alto e scrive 
+ch'eglino menano pomi odoriferi e soavi tanto che avendo alchuno preso 
+veleno e mangiando di que' pomi il veleno no' nuocie e subito 
+ghuariscie.  E per@o l'altore tolse questo da V. per questo albero che 
+Eva avea mangiato cio@e del suo frutto in dannazione della humana 
+gienerazione.
+
+	^Beato se' grifon che non discindi~
+^col beccho d'esto legnio dolcie al ghusto~
+^poscia che mal si torse il ventre quindi.~
+
+Altro per queste parole non vuole dire l'altore se non ch'egli 
+ringrazia Iddio diciendo beato se' Iddio imper@o che ttu non fusti 
+quello che mangiasti il pome ma fosti quello che per quello mangiare 
+del pome che fecie Eva ci diliberasti colla tua santissima paxione in 
+sul santo legnio della crocie.  E mostra l'altore questo rifiorire 
+dell'albero per una comperazione a' nostri cos@i diciendo
+
+	^Come le nostre piante quando chascha~
+^gi@u la gra[n] lucie mischiata con quella~
+^che raggia dietro alla cieleste lascha.~
+
+Dicie l'altore che quello albero rifior@i d'ogni fiore odorifero a 
+ssimile de' nostri quando tutti gli albori cominciano a rifiorire di 
+diversi colori s@i chome sono diverse gienerazioni di frutti e dicie 
+che allora chominciano a ffiorire quando il sole @e in quel segnio 
+detto Pescie ch'entra di febraio e di marzo s@i cche per la lascha 
+intendi quel segnio.
+
+	|64-99.~ 
+	^S'i' potessi ritrar chom'asonnaro~
+^gli occhi ispiatati udendo di Siringha~
+^gli occhi a chui pi@u veghiar chost@o s@i charo.~
+
+In questa terza parte l'altore iscrive i[n] ritornamento che ffe' tutto 
+questo hoste al cielo.  E per questo fingie ch'egli s'adormentasse e 
+quando egli si dext@o non vedesse veruno di tutta quella giente perch@e 
+tutta s'era partita e ita in cielo salvo il charro trionfale e quelle 
+sette donne cio@e le sette virt@u.  E questo si @e vero che bench@e gli 
+appostoli e vangielisti e dottori e i dittatori di santa chiesa sieno 
+andati a vita eterna il charro e lle sette virt@u son pure rimase cio@e 
+la chiesa di Dio in terra.  E ogni volta che ll'altore fa una bella 
+fizione ed egli fingie ch'egli s'addormenti che altro per quello non 
+vuol dire se non che allora l'animo conviene che sia d'ogni altro 
+pensiero estratto e perch@e gli @e malagievole a potere disciernere il 
+sognio si llo ti dicie a simiglianza d'Argho e di questa istoria 
+d'Argho iscrive Ovidio che Iupiter chogniobbe una donna ch'ebbe nome Io 
+e Iuno donna d'Iupiter la riprese e per quel fallo e si fe' convertire 
+questa Io in una vaccha e diella a ghuardia ad Argho il quale dicie 
+avea ciento occhi.  Jupiter rivogliendo Io dicie se n'and@o a Merchurio 
+e si llo pregh@o che togliesse ad Argho quella vaccha di che Merchurio 
+se n'and@o ad Argho chon un suono chiamato siringha e cominci@o a 
+sonare s@i dolciemente che Argho s'addorment@o e allora Merchurio gli 
+tolse la vaccha cio@e questa Io.  L'alleghoria si @e questa che questa 
+Io fu vero ch'ella fu chogniosciuta da Iupiter charnalmente e per 
+questo finsono i poeti ch'ella divent@o vaccha e chos@i son quelle che 
+si danno pi@u ch'a uno huomo.  E dicie che ffu data in ghuardia ad 
+Argho ch'avea ciento occhi e poi gli fu tolta.  Per questo dei 
+intendere che mai non si pu@o ghuardare quella femina che ss'@e data a 
+essere vaccha se l'uomo n'avesse mille degli occhi e visi acuti.  Poi 
+questa Io fu la verit@a ch'ella se n'and@o in Egitto e ffu la prima 
+femina che in quel paese insegni@o a filare lino e lana e tessere e a 
+ffare panno e s@i ssi mut@o nome e feciesi chiamare Isis e dopo la sua 
+morte fu adorata per iddea per quell'arti e 'nsegniamenti ch'ella fe'.
+
+	^E vedero scemata loro squola~
+^cos@i di Mois@e chome d'Elia~
+^e al maestro lor changiata stola.~
+
+Qui fingie l'altore che quando egli si svegli@o dal sonno ch'egli 
+ghuard@o e non vide, quella giente che s'era gi@a partita e ita in 
+cielo altro che 'l charro e lle sette donne chome @e detto di sopra e 
+fingie ch'a simile gli 'ncontrasse chome incontr@o a san Piero e a san 
+Giovanni e a sa[n] Iacopo quando andarono con Cristo in sul monte e 
+ch'egli si trasfighur@o e venegli a pparlare Moises ed Elia e che 
+questi appostoli chaddono in terra e non poterono vedere alchuna chosa 
+e quando si levarono non vidono altro che Cristo benedetto.
+
+	|100-160.~ 
+	^Qui sara' tu poco tempo silvano~
+^e sara' mecho sanza fine cive~
+^di quella turba onde Cristo @e romano.~
+
+In questa quarta parte l'altore introducie Beatricie a pparlare chon 
+esso lui e si gli narra la perseghuizione che de' avere questa chiesa 
+di Dio e diciegli i' voglio che ttu sappi chome questa chiesa di Dio @e 
+maltrattata e chom'ella @e perseghuitata e per@o tien fissi ora gli 
+occhi al charro e ffa che vegga ora quello che vincier@a s@i cche 
+quando sarai tornato al mondo tu llo scriva.
+
+	^Non sciese mai con s@i velocie moto~
+^fuoco di spessa nube quando piove~
+^da quel confine che pi@u @e remoto.~
+
+Qui scrive l'altore le prime perchosse che ricievette mai santa chiesa 
+dopo la morte di Cristo e dicie che vide disciendere dal cielo 
+un'aquila la quale diram@o e disfogli@o tutto quello albero di santa 
+chiesa.  E per questo dei 'ntendere la grande perseghuizione ch'ebbono 
+nel chominciamento i cristiani di santa chiesa dagli imperadori imper@o 
+che per dieci imperadori furono perseghuitati e destrutti e 
+dischacciati e disfatte assai chiese e fu il primo Nerone imperadore il 
+quale la perseghuit@o aspramente.
+
+	^Poscia vidi avventarsi nella chuna~
+^del trionfal veiculo una volpe~
+^che d'ogni pasto buon pare digiuna.~
+
+Questa @e la seconda perseghuizione ch'ebbe santa chiesa dagli eretici 
+che ffurono assai e sono che hanno forte abassata la chiesa e ghuasti 
+assai cristiani co lloro resie e pure alla fine teologia e vinto e 
+sconfitti tutti questi eretici che v'erano tra lloro di valenti huomini 
+chi non s'ha voluto lasciare vinciere co ragione @e stato vinto colla 
+forza del fuoco s@i cche santa chiesa @e pur champata e camper@a dalle 
+loro mani.  E questo l'@e adivenuto e adiviene chome fu alla naviciella 
+che @e in gran fortuna e percossa da l'onde del mare pieghandosi ella 
+ora in qua e ora i[n] ll@a e pure alla fine si dirizza al suo viaggio.  
+Simile ha fatto questa santa chiesa che con quante aversit@a hae aute e 
+ha tutto d@i pur sempre @e acresciuta ed @e maggiore che mai sempre 
+sar@a insino a questo d@i.
+
+	^Poscia per indi ond'era pria venuta~
+^l'aghuglia vidi isciender gi@u nell'archa~
+^del charro e llasciar lei di s@e pennuta.~
+
+Questa fu la terza perseghuizione di santa chiesa e ffa l'altore che 
+questa sia una perseghuizione e disfacimento e in erore di santa chiesa 
+e questo fu Ghostantino imperadore che dot@o la chiesa.  Che essendo 
+Ghostantino imperadore di Roma era lebroso e perseghuitando i cristiani 
+si gli fu detto che s'egli si racchomandasse a san Silvestro ch'era 
+allora papa ch'egli il ghuarebbe onde Ghostantino il mand@o cierchando 
+per@o che s'era naschoso per paura cogli altri cristiani e avendolo 
+trovato cos@i si rimisse nelle sue mani e san Salvestro com prieghi e 
+orazioni che fecie a Dio subito il ghuar@i onde per questo si convert@i 
+alla fede cristiana e don@o allora a san Salvestro e agli altri e don@o 
+la chiesa di Roma per la qual cosa si dicie che fu manchamento e 
+confusione di nostra fede e di santa chiesa bench@e Ghostantino il 
+faciesse a buona e perfetta fede ed @e stata questa peggio che ll'altra 
+dinanzi e per@o dicie l'altore le sopradette parole del testo.
+
+	^Poi parve a mme che lla terra s'aprisse~
+^tr'ambo le ruote e vidi uscirne un dragho~
+^che per lo charro su la choda affisse.~
+
+Qui discrive l'altore la quarta grande perseghuizione ch'ebbe santa 
+chiesa la quale @e stata maggiore che tutte l'altre e ffu questa quella 
+di Maumetto e seghuitonne grande manchamento di santa chiesa e di 
+nostra fede.  E fu u[n] monacho danastiner [sic] il quale usava in 
+corte di Roma ed era molto savio e gra[n] litterato e buon cristiano e 
+avea nome Nicholaio e pel suo gran senno e sapere egli se n'and@o nelle 
+parti di Mecca i quali uomini e gienti non avevano veruna leggie se non 
+paghana e ffu a questo Maumetto imper@o ch'era grande huomo in Arabia 
+che @e chapo di Chaldea e si era savio huomo secondo l'usanza del paese 
+e questo monacho Nicholaio rech@o lui e tutti i suoi alla fede 
+cristiana.  E 'l papa ci@o sentendo mand@o loro per ghovernatore un 
+patriarcha e quando questo monacho Nichol@o sent@i questo ne fu molto 
+dolente perch@e credette essere egli signiore e ghovernatore di que' 
+paesi.  Allora questo monacho per ire e superbia and@o a questo 
+Maumetto contro a sua coscienzia il quale molto gli credeva perch'era 
+huomo di buona fede e coscienzia e fegli credere chome Iddio l'avea 
+fatto suo messo per predichare sua novella leggie.  Maumetto gli di@e 
+in sua compagnia dieci valenti huomini e s@i chome prima avea 
+predichato la fede cristiana chos@i rivolt@o molte chose avea 
+insegniato e rimut@o il batesimo e fecie che si lavavano i polsi cho 
+ll'acqua e lla circhuncisione e dovessono t#orre tre moglie e altre 
+chose assai contro a nostra f@e cristiana le quali piacievano molto a 
+tutti gli uomini e donne e per questo uscirono della diritta via e fede 
+per la qual chosa isciem@o pi@u cche lla met@a della cristianit@a per 
+questo monacho Nicholaio.
+
+	^Quel che rimase chome di gramignia~
+^vivacie terra della piuma offerta~
+^forse con intenzione sana e benignia.~
+
+Per queste parole dicie l'altore che san Salvestro che ffu il primo 
+papa e pastore di santa chiesa che ricievette la dota da Ghostantino 
+che lui e gli altri che seghuiti gli sono dietro hanno saputo ritenere 
+ben questa dota e saputala acresciere a ddiritto e a ttorto raunando e 
+amichando l'avere intanto che i[n] lloro @e nata tutta avrarizia con 
+tutti gli altri pecchati mortali.
+
+	^E trasformato s@i 'l dificio santo~
+^misse fuor teste per le parti sue~
+^tre sovra 'l temo e una in ciascun canto.~
+
+L'altore dimostra questi sette pecchati mortali in questa comperazione 
+iscritta qui nel testo che llui vedesse apparire tre bestie con tre 
+corna in testa per una e quatro bestie con uno solo corno in testa per 
+una e per le tre prime bestie togli per la superbia invidia e ira 
+questi tre sono i maggiori pecchati.  E per le quatro bestie c'hanno un 
+sol corno intendi per l'accidia avarizia e ghola e luxuria e questi 
+sono i sette pecchati mortali.
+
+	^Sichura quasi roccha in alto monte~
+^seder sovr'esso una puttana sciolta~
+^m'apparve colle ciglia intorno pronte.~
+
+Per queste parole fingie l'altore che una puttana scienda sopra il 
+charro e per questa puttana dei 'ntendere la chiesa cio@e i suo pastori 
+i quali la ruffianano vendolla e barattolla tutto d@i vendendo i 
+benefici di santa chiesa per danari e a uomini non degni di tali 
+benefici ma i danari il fanno e sia uomo savio e valente in tutte le 
+scienzie che se non ha danari da potere ispendere in corte non pu@o 
+venire a perfezione di niente.  E dicie l'altore che dietro a questa 
+puttana veniva un gighante il quale l'abracciava e baciava alchuna 
+volta per questo giughante intendi i re di Francia i quali hanno 
+sottoposto a lloro per lunghi tempi i prelati di santa chiesa ed eglino 
+la premono e munghono di ci@o che pu@o fare.  E ffu cominciatore in 
+ispezialit@a il re Filippo il quale fu crudelissimo tiranno e ffu 
+quegli che condusse la corte di Roma ' Avignione e disfecie l'ordine 
+del tempio e altri beni di santa chiesa e ffu egli al tempo di papa 
+Chimento che inanzi era arciveschovo di Bordella che bene si confe' il 
+nome.
+

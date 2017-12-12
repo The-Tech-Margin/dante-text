@@ -1,0 +1,72 @@
+Script started on Sun Jan  7 15:43:34 1990
+% foreach FILE (*.l)
+? ls $FILE; checktilde $FILE > /dev/null
+? end
+01.l
+Warning: 119 extra tildes
+02.l
+Warning: 82 extra tildes
+03.l
+Warning: 71 extra tildes
+04.l
+Warning: 50 extra tildes
+05.l
+Warning: 37 extra tildes
+06.l
+Warning: 69 extra tildes
+07.l
+Warning: 85 extra tildes
+08.l
+Warning: 63 extra tildes
+09.l
+Warning: 165 extra tildes
+10.l
+Warning: 112 extra tildes
+11.l
+Warning: 82 extra tildes
+12.l
+Warning: 158 extra tildes
+13.l
+Warning: 55 extra tildes
+14.l
+Warning: 154 extra tildes
+15.l
+Warning: 97 extra tildes
+16.l
+Warning: 53 extra tildes
+17.l
+Warning: 116 extra tildes
+18.l
+Warning: 127 extra tildes
+19.l
+Warning: 91 extra tildes
+20.l
+Warning: 186 extra tildes
+21.l
+Warning: 0 extra tildes
+22.l
+Warning: 0 extra tildes
+23.l
+Warning: 0 extra tildes
+24.l
+Warning: 0 extra tildes
+25.l
+Warning: 0 extra tildes
+26.l
+Warning: 0 extra tildes
+27.l
+Warning: 0 extra tildes
+28.l
+Warning: 128 extra tildes
+29.l
+Warning: 155 extra tildes
+30.l
+Warning: 83 extra tildes
+31.l
+Warning: 94 extra tildes
+32.l
+Warning: 265 extra tildes
+33.l
+Warning: 103 extra tildes
+% 
+script done on Sun Jan  7 15:44:26 1990

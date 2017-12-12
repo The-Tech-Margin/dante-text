@@ -1,0 +1,74 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id MAA11457
+	for <steve@avalon.dartmouth.edu>; Thu, 18 Feb 1999 12:35:12 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id MAA17858
+	for <Steve.Campbell@dartmouth.edu>; Thu, 18 Feb 1999 12:35:12 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 45208 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68225-4690>; Thu, 18 Feb 1999 12:34:05 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id MAA15440
+	for <Steve.Campbell@dartmouth.edu>; Thu, 18 Feb 1999 12:33:52 -0500 (EST)
+Received: from yuma.Princeton.EDU (yuma.Princeton.EDU [128.112.128.14])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id MAA16677;
+	Thu, 18 Feb 1999 12:33:50 -0500 (EST)
+Received: (from bobh@localhost)
+	by yuma.Princeton.EDU (8.9.1/8.9.1) id MAA25023;
+	Thu, 18 Feb 1999 12:33:49 -0500 (EST)
+Message-Id: <199902181733.MAA25023@yuma.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Thu, 18 Feb 1999 12:33:50 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU, bobh@phoenix.Princeton.EDU
+Subject: M-j problem
+
+OK, here's what Ihave for you:
+
+M-j             #e
+
+>From now on, the siglum "#" stands for any number in
+the text (1,2,3,122, etc.).  And I will put first the
+name of the comm. where the phenomenon first appears in
+your list in C.ng.  It should be clear.
+
+BOSCO
+
+#M-0a           #a              [e.g., 2a, 3a, 100a]
+
+#M-0o           #+o~            [why these not right?]
+
+#M-0ae          #ae             [often Romans: IIae,
+                                 etc.]
+#M-0.           #+o~.
+
+2M-064~         2(64)           to indicate 64th power;
+                                occurs at least once
+                                more: Vandelli
+CAMPI: a problem: see below
+
+MATTALIA
+
+mM-jnte         mente           [this looks like a
+                                glitch; only M-j NOT =
+                                e circumflexed
+#M-0)           #+o~
+
+#M-0o~          #+o~
+{sorry, these last 3 start with POLETTO, not Mattalia}
+
+PORTIRELLI
+
+perchM-j        perch$e         [2nd M-j exception]
+
+ROSSETTI
+
+Roman#M-0a.~    Roman#a.        [e.g., IIa., IXa.]
+
+
+That's it.  Now the CAMPI problem.  There are loads of
+"M-a" in him, starting I think in Paradiso.  I've
+checked, and in Inf. it is often "(M.)"; but I am
+not sure.  I'll see if I can find Campi Par. in Lib.
+today.
+
+All for now, Bob

@@ -1,0 +1,531 @@
+	|Canto XVII dell'Inferno, nel quale si contiene come
+Dante vide gli usurai nella sopraddetta arena, e come poi
+cavalcando sopra Gerione, bestia di frode, fu portato all'ottavo
+cerchio de' fraudolenti.~
+
+	|Proemio.~  Veduto abbiamo nei tre prossimi precedenti
+Canti farsi special menzione di alcuni violenti, che hanno
+peccato contra la persona di Dio, e di alcuni che contra la
+natura sua figlia.  Nel presente Canto XVII, innanzi che i Poeti
+siano fuora del settimo cerchio, vedremo di alcuni usurai
+peccatori contra l'arte figlia di natura, e nipote di Dio; ed
+indi si far@a passaggio al cerchio ottavo.  In tre parti
+principali dobbiamo distinguere il Canto presente: nella prima
+Dante descrive la malizia e la figura di quella sozza bestia,
+della quale fu parlato nel fine del precedente Canto, e dice,
+com'ella venne suso a riva.  Nella seconda, come essendole
+approssimati, Virgilio ed egli, Virgilio lo mand@o a vedere gli
+usurai, che nell'arena arsiccia sedevano sotto la pioggia del
+fuoco, tra i quali ebbe notizia di alcuni, ivi: ^Lo Duca disse.~ 
+In due particelle possiamo dividere questa parte.  La prima
+contiene, come approssimarono ambedue a quella fiera: la seconda,
+come Dante and@o a vedere le anime degli usurari tra i quali d@a a
+conoscerne alcuni, ivi: ^Cos@i ancor.~  Nella terza {parte
+principale} descrive, come per comandamento di Virgilio mont@o
+sopra il dosso alla sopraddetta bestia, dalla quale furono
+portati ambedue gi@u nel cerchio ottavo, ivi: ^Et io temendo.~
+
+	|1-9.~  Nella prima parte, dice Dante, lo mio Duca
+Virgilio cominci@o a dire: |Ecco la fiera colla coda aguzza, che
+passa i monti, e rompe muri ed armi~: Questa @e colei che appuzza,
+di puzza ammorba e corrompe tutto il mondo.  Dico, che s@i
+cominci@o a dire lo mio Duca, ed accennolle, e le fece di cenno a
+quella fiera che venisse a proda, a riva, |vicino al fin dei
+passeggiati marmi~, vicino al luogo, dove si finiva quell'argine
+di marmo, sopra il quale avevamo passeggiato attraverso l'arena
+del terzo girone.  Ed al cenno di Virgilio sen' venne quella
+sozza imagine di froda, ed arriv@o, e pose sulla riva la testa e
+il busto; ma non vi trasse la coda.
+
+	|10-18.~  Descrive la figura di questa bestia; |la faccia
+sua era faccia d'uom giusto~, tanto benigna avea di fuor la
+pelle; e tutto l'altro fusto, tutto il restante del busto era di
+un serpente.  |Due branche avea pilose infin' l'ascelle~: avea lo
+dosso, il petto, ed ambedue le coste dipinte di nodi e di
+rotelle, cio@e con vari colori figurate.  Quanto fosse variato, e
+dipinto il busto di questa bestia per due similitudini lo denota
+Dante.  Per evidenza della prima dico, che i Turchi ed i Tartari
+sogliono fare loro drappi di seta di diversi colori sottotessuti
+l'uno l'altro, ed ancora di un colore affigurato di diverse
+figure, in modo che pare alquanto differenziato, quali vediamo
+essere i drappi camoccia e damaschini.  Per evidenza della
+seconda similitudine dobbiamo sapere, che Aragne fu una femmina
+molto industriosa in tessere, ed in ci@o fu tanto presuntuosa,
+ch'ella si volle preferire o vantare di saperne pi@u che Pallade,
+Dea degli artefici.  Ora dice adunque Dante: Tartari n@e Turchi
+non fer ma' in drappo sommesse, e soprapposte con pi@u colore,
+quali sono camoccia, e damaschini: n@e mai fur tai tele cos@i varie
+in colore, ed in figura imposte al telaio per Aragne, come era
+variata quella sozza imagine di froda.
+
+	|19-27.~  Per due altre similitudini mostra, come quella
+si accostasse alla riva; onde dice: |come tal volta stanno a riva
+i burchi~: |burchi~ son navigli che hanno il fondo piano, e son
+propriamente da navigare per fiumi; or come stanno a riva i
+burchi, che spessa fiata stanno parte in acqua, e parte in terra,
+come si vede in Venezia, e come tra li Todeschi lurchi si assetta
+lo bivero, col busto fuor dell'acqua, e con la coda entro, per
+far sua guerra ai pesci, cos@i la fiera pessima sopraddetta si
+stava col busto sull'orlo della riva, che essendo di pietra,
+serra il sabbione del settimo cerchio, sicch@e non pu@o ruinare
+nell'ottavo.  E guizzava, moveva tutta sua coda nel vano,
+nell'aere vacuo, guizzava, dico, torcendo in su la venenosa forca
+della sua coda biforcelluta, che a guisa di scorpion armava la
+sua punta.  Addotta @e di sopra una similitudine del bivero molto
+conforme al proposito nostro, conciosiach@e il bivero @e animale
+molto astuto, del quale si dice, che sopra le rive del Danubio in
+Alemagna, quando vuol pescare, suol stare col busto fuora
+dell'acqua, ascoso intra certe sue case che gi@a si ha fatte, e
+tiene la sua coda nel fiume, con la qual guizzando ivi si
+congregano diversi pesci all'odor suo, dei quali ne piglia in
+copia.  |Lurchi~ appella Dante i Tedeschi per disprezzo; faccia
+egli come gli piace: non @e mia intenzione diffamar Nazione
+alcuna, e tal cosa non aspetta da me il magnanimo Principe nostro
+del quale usanza @e lodare i buoni e non lasciarsi uscir di bocca
+parole disprezzevoli di alcuno, quanto si voglia nemico, molto
+meno di amici nobili, e di alto cuore.  Vengo alla esposizion
+morale.  Secondo la testual sentenza di questa parte veduto
+abbiamo, che Dante apertamente dice, questa fiera terribile
+rappresentare la frode, la quale @e punita in dieci bolge nel
+cerchio seguente.  Udiremola di sotto per suo proprio nome esser
+chiamata Gerione, per cui @e a sapersi, secondo che dice Giustino
+breviator di Trogo, nell'ultimo libro di sua istoria, che tre
+fratelli regnarono in una parte di Spagna, dei quali Gerione
+maggiore d'et@a, per la grande unione di volont@a, ch'era tra loro,
+fu finto da' Poeti aver tre corpi, e bench@e fortissimo fosse, pur
+fu vinto da Ercole.  Considerando adunque l'autor nostro, che la
+frode si puo dire aver tre corpi, uno della frode, che si
+commette in parole, qual @e di mali consiglieri, di adulatori, di
+seminatori di discordia, di ruffiani e simili: l'altra @e di
+quella che si commette in operazioni, qual @e d'ipocriti, di
+barattieri, simoniaci, e simili: la terza nelle cose operate,
+qual @e de' falsari.  Finge l'imagine della frode essere Gerione,
+e gli attribuisce la faccia d'uomo giusto e benigno a denotare il
+principio d'ogni frode, perocch@e chi altri vuole ingannare prima
+studia di acquistar buon credito d'uomo giusto, verace, puro ed
+amico di colui, a cui vuol fare inganno: il busto @e di serpente
+di vari colori dipinto a nodi e rotelle, ed ha le branche folte e
+coperte di peli fino alle ascelle; perocch@e il processo della
+conversazion sua, della pratica ed operazione tutto @e coperto di
+molte e molto diverse astuzie e simulazioni di diversi colori e
+varie figure, onde si cuopre il cuor serpentino, sicch@e l'amico
+non si avveda dell'inganno.  La coda @e a guisa di scorpione,
+perocch@e alla fine, incorrendo l'ingannato in danno, sente poi la
+frode, e lo inganno.  Ed @e biforcuta quella coda, secondo che a
+due persone si pu@o far frode; cio@e a chi fidanza in noi non ha,
+ed a chi si fida di noi.  Tanto aguzza ha la coda questa fiera,
+ch'essa passa i monti, muri ed armi, cio@e penetra, e s'insinua
+per tutto, n@e saviezza, n@e possanza, n@e fortezza vale contra la
+frode.  E veramente questo vizio appuzza e corrompe tutto il
+mondo, conciosiach@e non pare, che si possa trovar paese alcuno,
+non grado d'uomini, non et@a, purch@e sappian parlare, non forma di
+contratto, non artificio, non scienza, non esercizio, non pratica
+di vivere, non vincolo di sangue, d'amicizia o di religione, ove
+non si commetta frode per infiniti e vari modi.  E peggio @e, che
+la frode in tanto onor @e venuta, che pi@u non par vizio, ma
+prudenza @e reputata, e massimamente paiono grazia acquistare ed
+onoranza quelli che sanno mentire e simulare.  Degli altri
+fraudolenti voglio tacere.  Che poi il capo col busto sulla riva
+tenga Gerione, ci@o introduce l'autore per far verisimile, com'ei
+potesse montargli addosso, perch@e fosse da lui portato gi@u nel
+cerchio inferiore.
+
+	|28-36.  Lo Duca disse~: In questa seconda parte
+principale del Canto descrive l'autore, come approssimarono
+Virgilio ed ei a quella bestia, appresso la quale rimanendo
+Virgilio, and@o egli per suo comandamento a veder le anime degli
+usurari dannati nel passeggiato giron terzo del settimo cerchio. 
+Nella prima particella dice: lo Duca Virgilio mia guida disse a
+me: or convien, che la nostra via si torca, si pieghi un poco
+fino a quella bestia malvagia che si corca, si riposa col@a: per@o
+egli, ed io scendemmo alla destra mammella, verso mano destra,
+essendo il fiumicello alla sinistra, e sull'estremo di quella
+riva, la quale fu detto di sopra ch'era di pietra, noi femmo, noi
+fecimo dieci passi per ben cessar l'arena e le fiammelle, per
+esser ben da lungi dall'arena arsiccia e dalle fiammelle che
+piovevano.  E quando noi venuti semo a lei, a quella bestia, io
+poco pi@u oltre veggio seder gente in sull'arena propinqua al loco
+scemo, all'orlo di quel cerchio, oltra il quale pareva scemo e
+vacuo il luogo, essendo profondo e basso l'altro cerchio.
+
+	|37-42.~  Quivi il Maestro mio Virgilio mi disse, o
+Dante, acciocch@e tu porti piena esperienza di questo loco, |va, e
+vedi la lor mena~, la condizione e il loro menar delle mani per
+iscuotersi il fuoco d'intorno, di quelli che siedono col@a
+sull'arena.  Li tuoi ragionamenti sien corti: mentre che tu
+ritorni, io parler@o con questa bestia di Gerione, |che ne conceda
+i suoi omeri forti~, ch'ella ne lasci montare sulle spalle forti,
+sopra le quali sedendo discendiamo con lei insieme al cerchio
+inferiore.
+
+	|43-51.  Cos@i ancor su per la estrema testa~: Continuando
+il parlare, descrive Dante in questa seconda particella, come per
+consiglio di Virgilio egli and@o a vedere le sopraddette anime,
+che sedevano, onde dice: cos@i avvisato da Virgilio com'@e detto,
+io tutto solo andai ancor su per la estrema testa, su per l'orlo
+del settimo cerchio; andai, dico, ove sedeva nell'arena la
+usuraria |gente mesta~, e ben dice |mesta~, perocch@e gli usurari,
+ancor che siano in gran sollazzi, sono grami sempre, tenendo il
+pensiere occupato in ischivare danni, o crescere guadagni. 
+Descrive in generalit@a qual era la condizione di questa gente e
+dice: Lo lor duolo, il loro dolore scoppiava fuor degli occhi,
+lacrimando essi.  Con le mani, per difendersi dall'arsura,
+scorrevan di qua e di l@a, quando al vapore, e quando al caldo
+suolo; scorrevano con le mani alcuna volta alle fiammelle che
+cadevano, alcuna volta al candente ed affuocato suolo dell'arena,
+che sotto loro era accesa per quelle fiammelle, che in essa
+cadevano come fu detto nel XIV Canto.  Per una similitudine
+dichiarasi come scorrevano le loro mani.  Onde dice:  non
+altramente fanno di state i cani ora col ceffo, ora coi piedi,
+quando son morsi da pulci o da mosconi o da tafani.  Intendiamo
+noi: non altramente fanno i cani, come facevano qui costoro per
+farsi schermo contro il fuoco, il quale di sotto e di sopra gli
+ardeva.  E molto congruamente @e qui introdotta la similitudine
+dei cani, e decevolmente son posti a sedere gli usurieri,
+continuamente con le mani scorrendo qua e l@a, a rappresentare la
+loro meschina vita, ristretta, avara e misera, la quale loro
+discorre, sedendo essi a banco per la maggior parte del tempo, e
+mai non riposando con le mani in contar denaro.
+
+	|52-57.~  Di alcuni si fa special menzione nel testo che
+seguita, non per nome proprio, ma per certi contrassegni, dicendo
+Dante: Poich@e a certi, di quei dannati, io porsi gli occhi nel
+viso, nel qual casca il doloroso fuoco, io non ne conobbi alcuno;
+ma io mi accorsi, che a ciascun di loro pendeva dal collo una
+tasca, che avea certo colore e certo segno, e quindi in questa
+tasca par che si pasca il loro occhio.  Che di questi usurai non
+abbia Dante al viso conosciuto alcuno, tanto era cotto ed
+abbruciato, ma solamente gli abbia potuti conoscere alle tasche
+loro, nelle quali pareva, che pascessero lo sguardo, fing'ei,
+attendendo che in usura mai non si trova virt@u, e rare volte si
+trova operazione alcuna laudabile per la quale si facciano
+conoscere gli usurieri.  Ma solamente sogliono essere conosciuti
+alle borse, alle ricchezze loro, nelle quali hanno posto tutto il
+loro amore, tutta la loro beatitudine, sicch@e in niente altro
+mirano.
+
+	|58-63.~  Come poi alle borse ne abbia potuto conoscere
+alcuni lo mostra Dante, descrivendo le insegne di alcune di esse:
+onde continuando dice: io mi accorsi, che dal collo a ciascuno
+pendeva una tasca che avea certo colore e segno.  E com'io vegno,
+riguardando tra loro, io |in una borsa gialla~, pendente dal
+collo ad uno di loro, |vidi azzurro che d'un leone avea faccia e
+contegno.~  Vuol dire: io vidi un leone azzurro in campo giallo. 
+Poi procedendo il curro, lo discorrimento di mio guardo, vidine
+un'altra rossa, come sangue, mostrando un'oca bianca pi@u che
+burro: aveva un'oca bianca in campo rosso.  Per queste due tasche
+disegna due usurai che furono di due parentele di Fiorenza.
+
+	|64-73.~  Seguita nel testo: ed un altro spirito ivi
+dannato che avea il suo sacchetto bianco segnato di una scrofa
+azzurra e grossa, avea una scrofa azzurra in campo bianco mi
+disse: che fai tu, o anima viva, in questa fossa del settimo
+cerchio?  Or te ne va, or vattene, e perocch@e sei ancora vivo io
+voglio che tu sappia, che il mio vicino Vitaliano seder@a qui dal
+mio sinistro fianco.  Questo fu Vitaliano del Dente, Paduano,
+grande e famoso usuraio, il quale ancor viveva al tempo di Dante. 
+Perocch@e spessa fiata accade, diverse parentele in diverse citt@a
+portare un medesimo signale, una parentela in una citt@a e l'altra
+parentela in un'altra, ed in una citt@a medesima rare volte questo
+si trova; indi @e, che lo spirito, il qual parla, nomina di qual
+patria sono egli, e gli altri dei quali Dante ha veduto il
+signale nella tasca.  Onde facilmente si potr@a conoscere di quali
+parentele siano, e chi.  Dice adunque quello spirito: con questi
+Fiorentini io son Paduano, e secondo che ha nominato gi@a un suo
+Paduano usuriere, il quale viveva ancora, cos@i dice: quei
+Fiorentini, che ivi con seco siedono, aspettano di giorno in
+giorno un grandissimo usuraio cavalier Fiorentino, non per anche
+morto.  Continuando adunque il parlare dice: Io son Paduano con
+questi Fiorentini, ed eglino spessa fiata m'intronan, mi
+stordiscono gli orecchi, gridando essi: |vegna il cavalier
+sovrano~; dice per ironia sovrano, cio@e infame e vilissimo, che
+arrecher@a |la tasca con tre becchi.~  Per li signali di queste
+tasche facilmente si puo investigare in Fiorenza e Padua di quali
+parentele furono costoro, e chi furono.  A me non pare onesto,
+che per cagion di antichi peccatori debba Dante diffamare lor
+parentele, sicch@e tal infamia in alcun modo venga in disprezzo, e
+biasimo di molti innocenti, e buoni di quelle parentele.  Per@o a
+chi di queste novit@a ed istorie moderne sapere desia, dalle quali
+non frutto alcuno, ma scandalo assai e danno si pu@o facilmente
+riportare, non incresca, se potendosi tacere, da me non le ode. 
+
+	|74-75.~  Seguita nel testo, come quello spirito fece
+fine al suo parlare.  Onde dice, qui finite le sopraddette parole
+distorse quello spirito la bocca per lo incendio ch'ei si sentiva
+d'intorno, e trasse fuor la lingua per leccarsi le labbra dal
+fuoco arse; trasse, dico, la lingua come bue, che si lecchi il
+naso.  Questo disprezzevole atto, con disprezzevole similitudine
+adduce Dante a vilipendio degli usurai.  Vero @e che ben deserve
+ancora al proposito di sua poesia per dimostrare, che grande era
+il desio di quelle anime di refrigerarsi un poco intorno la
+bocca.  Altro non mi pare, che qui sia da dire.
+
+	|76-84.  Et io temendo che il pi@u star~: Contiene questa
+terza parte principale la discesa di Virgilio, e Dante all'ottavo
+cerchio, al quale furono portati da Gerione.  In molte particelle
+potrebb'essere divisa, non mi curo assegnarle.  Assai accoglier
+si potranno nella esposizione del testo.  Descrive prima Dante,
+come ritornato da vedere gli usurai trov@o, che Virgilio era
+montato a cavalcioni sopra quella orribile fiera, e per suo
+comandamento, quantunque temesse, pur mont@o anch'ei sopra il suo
+dosso.  Continuando adunque dice: nel detto modo fece fine al suo
+parlare quell'usuraio dalla scrofa azzurra, ed io temendo, che il
+pi@u star ivi crucciasse, facesse corrucciare lui, Virgilio, che
+ammonito mi aveva di poco stare, io torn@ami indietro dalle anime
+lasse di quelli usurieri.  Tornato ch'io fui, trovai lo mio Duca
+Virgilio, che gi@a era salito in su la groppa del fiero animale
+Gerione.  E disse a me il mio Duca: o Dante, tu fosti portato
+oltre il fiume Acheronte, e non sapesti come: Flegias ti pass@o
+oltre la stigia palude: un messo celestiale t'introdusse nella
+citt@a di Dite: Nesso centauro ti port@o oltra il fosso di sangue. 
+Ora sii forte ed ardito: omai si scende, si dismonta per s@i fatte
+scale, qual @e questa bestia.  Monta dinanzi sopra il suo dosso,
+che io voglio esser mezzo intra te e la coda sua, s@i che essa non
+ti faccia male.
+
+	|85-93.~  Quanta paura ebbe Dante per lo parlare di
+Virgilio, appare nel testo che seguita per una comparazione: qual
+@e colui che si appressa al riprezzo, al sopravvegnimento della
+quartana, che ha smorte gi@a le unghie, e trema tutto, pur
+guardando il rezzo, pur guardando quel rigore che vede venire per
+lo smorire delle unghie.  Tal divenni io per le parole porte da
+Virgilio, temendo di montare sopra tanto orribile, e mostruosa
+fiera.  Ma vergognar mi fen le sue minacce, che fan servo forte,
+e danno ardimento nanti a buon signore.  Quali fossero quelle
+minacce di Virgilio ciascun lo pensi a suo modo.  Tai furono, che
+avevano non punto a sbigottire, ma a far buon cuore, ed
+accrescere ardimento.  Prosegue Dante il suo parlare.  Io mi
+assettai in su quelle spallacce, e s@i volli dire a Virgilio: |fa
+che tu mi abbracce~, ma la voce non venne com'io credetti.  Vuol
+dire: la voce mi venne meno, tanta era stata la mia paura.
+
+	|94-99.~  Ma esso Virgilio che altra volta mi sovvenne,
+intendiamo in caso alquanto simile, quando cavalcai sopra il
+Centauro nel passare il fosso di sangue; ora, tosto ch'io fatto
+forte ed ardito montai ad alto, tosto che fui montato sopra
+questa bestia, ei m'avvinse, mi abbracci@o e mi sostenne con le
+sue braccia.  Possiamo ancora in altro modo dire, tosto, ch'io
+montai ad alto, ei mi avvinse forte con le braccia e mi sostenne,
+e poi disse alla bestia, nominandola per nome proprio: O Gerion,
+moviti omai; le rote, le tue volte per questo aere siano larghe,
+e lo scender, lo dismontare sia poco.  Vuol dire: prendi la tua
+volta larga in dismontare, scendi a poco a poco, perocch@e se tu
+volessi dismontare, ed avvicinarti al fondo cos@i presto, come sei
+usato, forse non ti sosterebbe il poco aere, come suole.  Pensa
+la nova soma, il nuovo peso, che tu hai sopra te, perocch@e hai il
+corpo grave di Dante, e non sei usato portare, se non anime
+incorporali.  Poeticamente descrive l'autor nostro qual fosse la
+discesa gi@u da questa ripa, e non fu intenzion sua importare
+moralit@a per ogni parola.
+
+	|100-105.  Come la navicella esce del loco~: Dante,
+facendo alcune similitudini, mostra, come a petizione di Virgilio
+si mosse Gerione, onde dice: come la navicella che sta a ripa,
+quando deve pigliar viaggio esce del suo luogo indietro indietro;
+s@i quindi, cos@i da qui si tolse Gerion indietro indietro
+facendosi gi@u dalla ripa salda.  E poi che al tutto si sent@i a
+giuoco in aere, ove gli convenia muoversi, e nuotare a modo che
+in acqua, rivolse la coda l@a ove prima era il petto, sicch@e poi
+venne a rivoltar la coda verso il settimo cerchio dal quale si
+partiva, ed il petto all'ottavo dal quale dismontava, e tosto
+mosse quella coda, come anguilla, quando nuota, e con le branche
+raccolse l'aere a s@e navigando per esso.
+
+	|106-108.~  Quanto allora fosse il timore di Dante per
+due comparazioni lo denota.  Per notizia della prima dobbiamo
+sapere la favola di Fetonte, figlio del Sole e di Climene. 
+Dicono i poeti, che avendo un giorno rimproverato Epafo, figlio
+di Giove, a Fetonte, ch'ei non era figlio del Sole, e che non
+sapeva chi fosse suo padre, gran lamenti fece costui con Climene
+sua madre, dalla quale informato del cammino che dovea tenere per
+trovar il padre, ed essere certo di ci@o che ella sempre gli aveva
+detto, and@o, fintanto che giunse alla paterna regal stanza; ove
+entrato, e con gran festa ricevuto dal Sole, ed invitato a
+dimandare qual grazia volesse da lui, dimand@o che gli concedesse
+bal@ia di regger quel giorno la carretta sua con la quale soleva
+fare suo corso attorno il cielo, ed illuminare il mondo.  A
+questo, diceva Fetonte, che conoscerebbe, se veramente fosse suo
+figlio, quando non si sdegnasse commettergli l'officio suo.  A
+simile domanda rispose il Sole, disconfortando Fetonte da tal
+desio per lo gran pericolo che gli accadeva.  Ma pur trovandolo
+pertinace ed ostinato nel suo proposito, e, per giuramento
+ch'egli aveva fatto, sentendosi astretto a compiacergli, fece
+giungere i quattro cavalli alla carretta, ed ammaestrando il
+figlio de' modi che doveva servare, lo mise in cammino. 
+Cominciarono prima i cavalli a tener la trita via, e godevasi
+Fetonte di vedere tante meravigliose cose; veder nel cielo
+innumerabili stelle e segni del Zodiaco, sotto i quali ei
+passava: veder i pianeti, e l'ordine del cielo; veder la terra e
+il mare, che parevano una minima cosa posta nel mezzo dell'aere
+senza alcun retenimento.  Parevagli esser sufficiente a governare
+il mondo, non meno che il padre.  N@e pensava il giovine
+temerario, che ancora gli restava a fare gran cammino, innanzi
+che fosse a casa, e non sapeva ci@o ch'era per trovare.  Cos@i
+adunque gloriabondo continuamente montava in alto; quando venuto
+al cospetto del segno, chiamato scorpione, e da esso spaventato,
+lasci@o alquanto la briglia ai cavalli; per la qual cosa, sentendo
+essi, che non erano governati dal loro consueto rettore, e che la
+carretta sopra s@e non aveva lo usitato peso, cominciarono ad
+uscire della carreggiata: scorrevano qua e l@a, e trovando diverse
+figure nel Cielo che non eran usati trovare; pi@u continuamente si
+smarrivano, non tenendo via n@e sentiero: trasportavansi da un
+luogo ad un altro, ora venendo verso tramontana, ora
+allontanandosene pi@u che non conveniva, ora discendendo in gi@u
+verso la terra, ora montando in su verso gli altri cieli.  Per la
+qual cosa arsero non solo quelle parti del cielo per le quali
+passarono, ma bruciando arbori e piante, seccando fonti, fiumi e
+laghi, fecero molte fenditure nel suolo della terra.  La quale,
+gran lamento gittando al cielo di tanta crudelt@a, mosse gli Dei a
+misericordia: onde Giove fulmin@o con una delle saette sue, e
+gett@o Fetonte gi@u dal cielo, il quale cascando nel fiume nostro
+di Lombardia, chiamato P@o, diedegli nome da s@e, conciosiach@e per
+altro nome fu chiamato Eridano, che cos@i pure chiamavasi Fetonte. 
+Secondo verit@a di storia, Fetonte, per proprio nome detto
+Eridano, fu figlio di un re di Egitto, il quale poich'ebbe
+occupata la Etiopia, fu per onoranza appellato Sole dagli amici e
+soggetti suoi.  Questo suo figlio Eridano desideroso di
+acquistare nuova gloria, si mise con li suoi a navigare gi@u per
+lo gran fiume Nilo verso il mare, al quale pervenuto, e stendendo
+le vele ai venti prosperi giunse alla riviera dove ora @e Genova
+situata, ed ivi dismont@o, faticato per lunga navigazione. 
+Deliberando poi per consiglio de' suoi trasferirsi intra terra,
+con alcuni accompagnato, lasci@o alla marina per guardia delle
+navi un suo compagno nominato Genuino, il qual era molto spossato
+per lunga malattia patita in mare.  Questo Genuino, accordatosi
+con li fieri ed indomiti uomini di quella riviera, dicesi, che
+edific@o Genova.  Fetonte pass@o la montagna di Appennino, e
+pervenuto nella pianura di Lombardia, seppe egli pure mitigare
+gli uomini di questo paese riducendoli ad umanit@a e vita civile,
+tra i quali regnando, edific@o la citt@a di Torino situata in cima
+della fiumara di P@o, nella quale finalmente casc@o percosso da una
+saetta del cielo; onde fu chiamata Eridano quella fiumara. 
+Succedettegli nel regno un suo figlio, nominato Ligo, dal quale
+fu appellato Liguria quel paese, e distese il suo nome fino al
+mare di Genova, dagl'istoriografi chiamato mar Ligustico.  Or nel
+tempo che dall'Egitto Fetonte fece il suo passaggio, fu nelle
+parti orientali, e si distese fino in Italia una eccessiva arsura
+del Sole, tal che bruciava arbori e piante, seccava fonti e
+fiumi, ed apriva la terra in molte parti con distruzione e
+sorbimento di castella e citt@a.  Indi fu, ch'essendo proceduto
+questo dal Sole, ed in quel medesimo tempo non sapendosi ci@o che
+fosse di Fetonte, figliuolo del Sole, il quale si era partito
+dall'Egitto, finsero i Poeti, ch'egli era andato a trovar suo
+padre, e da lui avendo impetrato di reggere la sua carretta, per
+non saperla governare conseguita era tanta arsura.  Essendosi poi
+saputo, che Fetonte fulminato era cascato in P@o, finsero che
+saettato dal cielo, fosse precipitato laggi@u.
+
+	|109-114.~  Per notizia dell'altra comparazione nel testo
+fatta, dobbiamo sapere la favola, ed anche la storia d'Icaro e
+Dedalo suo padre.  Onde sotto brevit@a dico, ch'essendo venuto a
+notizia di Minos, che per industria ed opera di Dedalo avea
+Pasife regina, sua moglie, commesso adulterio col toro, e che
+ancora per consiglio suo dato ad Arianna, Teseo aveva ucciso il
+Minotauro, e condotto con seco quella fanciulla e Fedra, figlie
+di esso Minos, secondo ch'io dissi nel XII Canto, fece Minos
+racchiudere in prigione Dedalo col suo figlio Icaro, dalla quale
+fingono i poeti, che uscisse in tal modo.  Diede ad intendere
+Dedalo ai guardiani della prigione, ch'ei voleva fare un'opera
+meravigliosa e darla al re, onde sperava fermamente, che per tal
+dono si placherebbe la iracondia sua, ed indurrebbesi a
+misericordia di s@e e dell'innocente figlio; e, per tal opera
+fare, dimand@o, che gli fosse portata cera e pece in copia, e
+penne di uccelli grandi e piccole.  Non sapendo i guardiani
+pensare, come di tal maniera si potesse fare instrumento alcuno
+atto a fuggire, gli portarono ci@o che dimandava.  Indi ei fece
+due paia d'ale, uno per s@e, e l'altro per il figlio, tanto
+grandi, che potessero sostenere per aere i corpi loro, e legando
+le braccia distese sotto quelle ali, si mise a volare a traverso
+del mare verso la Sicilia, egli primo, ed Icaro secondo. 
+Comandato aveva prima al figlio, che volasse dietro a s@e, e non
+tenesse troppo basso il suo cammino, n@e troppo alto.  Ma il
+giovane, quando si vide nell'aere largo, parendogli esser pi@u
+possente che il padre, volle tener ad alto; e tanto mont@o che il
+calor del Sole fu sufficiente a risolvere e dileguare la cera, e
+la pece.  Onde, disfacendosi le ali, casc@o in mare.  La verit@a
+fu, che Dedalo ebbe maniera di fuggire in alcune navi lunghe,
+ovvero galee, che sono di fuori tutte unte di pece, e navigando
+con gran moltitudine di remi, i quali dall'una parte e dall'altra
+insieme mettendosi in acqua, ed insieme levandosi in aere, paiono
+aver ali, e volare.  Per@o finsero i Poeti, che Dedalo fatto si
+avea a s@e ed al figlio ali, con le quali avevano volato oltra il
+mare.  Ma il figlio casc@o per troppo alto volare, perocch@e ci si
+sommerse con la sua fusta, per non voler seguir la via del padre. 
+Ora venendo noi a proposito nostro, creder si pu@o, che grande fu
+la paura di Fetonte, quando, smarriti i cavalli del padre, ei si
+vide trascorrere senz'ordine per lo Cielo, e finalmente ruinare
+in terra: grande ancora la paura ch'ebbe Icaro, quando
+nell'altissimo aere si sent@i dileguare la cera dalle spalle, e
+cascare le ali, donde ruin@o gi@u nel profondo.  Delle quali due
+paure, seguitando la loro finzione, adduce Dante comparazione
+alla paura, che ora ebbe esso, quando assettato sopra il dosso a
+Gerione si sent@i portare per l'aere scuro.  Dice adunque: maggior
+paura non credo, che fosse, quando Fetonte abbandon@o i freni, coi
+quali dovea reggere i cavalli, e ben governare la carretta del
+Sole suo padre; perch@e il Cielo si cosse, si arse, come pare
+ancora, essendo in esso una parte chiamata la via combusta.  N@e
+Icaro ebbe maggior paura, quando il misero si sent@i spennar le
+reni per la scaldata cera, quando si sent@i cadere le pennute ali
+dalla schiena per la cera, che troppo era dal Sole scaldata, e
+risolvevasi per lo suo esser montato ad alto, gridando il padre
+suo Dedalo a lui: |mala via tieni~, o figlio, non volare cos@i
+alto: tieni al mezzo.  Dico io Dante, ch'io non credo, che la
+paura d'alcun di costoro maggior fosse, che la mia, quando vidi,
+ch'io era nell'aere da ogni parte, |e vidi spenta~, vidimi tolta
+|ogni veduta, fuor che della fiera~; sicch@e pi@u non vedeva n@e le
+fiammelle, che piovevano nel settimo cerchio, n@e altra cosa se
+non la fiera bestia di Gerione che ci portava.  Veduta abbiamo la
+partita di questa fiera dall'alta ripa; ormai lo processo del suo
+dismontare @e descritto nel testo che seguita.
+
+	|115-123.  Ella sen' va rotando lenta lenta~: Dice Dante:
+ella sen' va, quella fiera bestia di Gerione, rotando, facendo
+sue ruote, lenta lenta, pian piano, a simiglianza dei grossi
+uccelli, che quando dismontano da luogo alto a terra non rotano
+dritto, ma volteggiano un poco, quasi facendo alquanto arco in
+aere col loro volare, quando sono approssimati a terra.  Cos@i
+dico, che sen' va quella fiera rotando lenta lenta: rota essa,
+volteggia; ma io non me ne accorgo, ch'ella discenda se non che
+mi venta, mi fa vento disotto al viso, e per questo solo conobbi
+ch'io discendeva.  Essendomi stato prima a man sinistra il
+cadimento del fiumicello, ora, passato quello, io gi@a sent@ia
+dalla man destra far un orribile stroscio, un orribile suono del
+cadimento d'acqua.  Per questo apparve che gi@a eravamo di l@a
+dall'acqua, ancora che fossimo in aere.  Seguita nel testo. 
+Perch@e, per lo qual stroscio del gorgo, che sentiva a man destra,
+io sporgo in gi@u la testa con gli occhi a guardare: allor io fui
+pi@u timido allo scoscio, a muovermi, perocch'io vidi fuochi, e
+sentii pianti; perch'io, tremando di nuova paura, tutto mi
+riscoscio, mi squassai per lo gran tremore.  Ovvero, secondo
+altri libri, |io tutto mi raccoscio~, mi raffermo sulla bestia
+con le cosce stringendola, come si stringerebbe un cavallo per
+non cascar gi@u.
+
+	|124-126.  E vidi poi~: dico poi, perocch@e davanti nol
+vedeva; dico, ch'io vidi lo scendere, e il girare, che faceva
+Gerione per li gran mali, che si appressavano da diversi canti,
+dal canto destro, dal sinistro, davanti, di dietro, e di sotto da
+noi.
+
+	|127-136.~  Come finalmente fosse posto a terra da
+Gerione, lo manifesta per gentil similitudine, dicendo, |come
+falcone ch'@e stato assai sull'ali~ in aere levato mirando, s'ei
+vede in che far sua preda, che, senza veder logoro, senza vedere
+il suo richiamo, il qual @e fatto di penne e di corame a modo che
+ala, per richiamarlo al pugno, o senza veder uccello da prendere,
+fa con disdegno dire al falconiere: oim@e tu cali: dolendosi il
+falconiere, che il falcone cali gi@u in quel modo.  E come lasso
+discende per cento rote, facendo molte volte, onde si movea
+snello, per lo contrario di ci@o che fatto avea quando usc@i di
+pugno volando su snello, e veloce: dico, che come lasso discende
+per cento rote volteggiando, e disdegnoso e fello, cio@e irato,
+niente avendo preso, si pone da lungi dal suo maestro il
+falconiere; cos@i Gerione, il quale soleva portar anime laggi@u a
+pene eterne, ora, avendo portato noi non a pena, ma a merito ne
+pose al fondo dell'ottavo cerchio a pi@e a pi@e della scagliata
+rocca, che chiude di sopra il settimo cerchio dal quale eravamo
+discesi, e discarcate che ebbe le nostre persone, si dilegu@o dal
+nostro cospetto cos@i, come da corda d'arco velocemente si parte
+la cocca, la saetta, quando si tira d'arco.  |Cocca~ @e quella
+cruna della saetta nella qual entra la corda dell'arco; ma qui
+dobbiamo intender essa saetta.

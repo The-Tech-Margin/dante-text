@@ -1,0 +1,14 @@
+Return-Path: bobh@baker.dartmouth.edu
+Received: from baker.dartmouth.edu (baker.dartmouth.edu [129.170.16.11]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id QAA23093 for <steve@avalon.dartmouth.edu>; Thu, 28 Mar 1996 16:14:07 -0500
+Received: (from bobh@localhost) by baker.dartmouth.edu (8.7.4/8.7.3) id QAA06530 for steve; Thu, 28 Mar 1996 16:14:11 -0500
+Date: Thu, 28 Mar 1996 16:14:11 -0500
+From: Robert Hollander - DDP PI <bobh@baker.dartmouth.edu>
+Message-Id: <199603282114.QAA06530@baker.dartmouth.edu>
+To: steve@baker.dartmouth.edu
+Subject: glitch in DDP
+
+
+In the SApegno comm. we loaded some of Purg. 16 as a "double" and labeled that part "Purg. 19".  It is screens 4878 through 4902, all of which need to be
+dumped.  I'll add this to my list, but thought telling you would not hurt.
+
+Best, Bob

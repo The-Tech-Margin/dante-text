@@ -1,0 +1,781 @@
+|INFERNO CANTO 02~
+
+	|1-5.~  Son passate 12 ore dall'apertura del poema sino a
+questo punto: poich@e, essendo il primo equinozio, da quell'ora
+che ^il Sol montava~ all'altra che |il giorno se ne andava~, @e
+appunto un corso di 12 ore.
+
+	|6.~  Perch@e non @e soggetta ad errare sar@a ben tosto
+significato.  Essendo il Sole simbolo della ragione, chi sa che, al
+partir di lui, la ragion di Dante non voglia ricader negli
+errori?  Egli si @e fatto seguace della Filosofia Ghibellina; ma
+chi sa che non se ne penta, e non torni Guelfo?
+
+	|7-9.~  Cio@e, qui si appaleser@a, qui si vedr@a a pruova la
+tua nobilt@a.  ^La mente che non erra~ @e l'intelletto; ^la mente
+che ha nobilt@a~, e ^che scrisse quel che vide~, @e la memoria; e
+l'|alto ingegno~ @e la fantasia poetica, che perci@o viene
+accoppiata alle Muse.  Se si uniscon insieme queste tre cose,
+Dante ci apparir@a (come alcuni han giudicato) un superbo ed un
+vano, bello e buono.  E pure non @e cos@i: il suo intelletto |non
+erra~, la sua memoria ha ^nobilt@a~, la sua fantasia @e ^alta~, ed
+egli cos@i dicendo non @e n@e vano n@e superbo: Ed ecco perch@e.  Ei
+finge scrivere questo suo misterioso viaggio, pel triplice regno
+de' morti, appena disceso dal Paradiso, dove il suo tritavo gli
+avea detto: ora che torni in Terra ^manifesta tutta la tua
+visione~ {^Pd~ XVII 128}, per istruzione degli uomini; e quindi
+egli scrisss il poema.  Or dunque ei lo scrisse dopo aver veduto
+Iddio istesso, fonte della verit@a, alla cui vista ineffabile ^la
+sua anima fatta dritta e sana~ era stata ^sciolta da ogni nube di
+mortalit@a~, talch@e egli era divenuto ^figiuol di grazia~; ^e il
+suo vedere era maggiore che ogni umano discorso~.  Tutto ci@o ei
+dice nel Paradiso, ed altro ancora; e quindi il suo intelletto
+|non erra~, la sua memoria ha ^nobilt@a~ la sua fantasia @e ^alta~,
+altissima, ed ei s@i dicendo non @e n@e vano n@e superbo. Sarebbe
+superbo o vano un Beato che ci@o dicesse?  Cos@i lo @e Dante: ci@o @e
+lode di Dio, e non sua.  Ma come mai entrare nella sua
+intenzione, onde comprendere sul principio quello ch'ei spiega
+nel termine?  Questa @e un'altra questione.  Ecco il suo modo di
+poetare, ed io avr@o occasione di mostrarlo non una volta.
+
+	|7-9 {Nota Aggiunta}: O Muse o alto ingegno~ ecc.:
+L'|alto ingegno~, che qui alle |Muse~ si accoppia, @e quella
+facolt@a inventrice ch'@e propria de' grandi vati: e la parola che
+l'esprime (^ingenium~) deriva dal verbo ^gigno~, creare.  I
+Francesi l'hanno tradotto in loro lingua col vocabolo ^g$enie~; e
+noi, che abbiamo il nostro, il quale sente pi@u la sua nobile
+origine, quello che Dante usava nell'accingersi alla pi@u mirabile
+creazione; noi, mal conoscendone il valore, l'abbiamo cambiato
+pel ^g$enie~ de' Francesi, che tradotto in lingua nostra ha
+tutt'altro significato.  Impariamo da Dante che ne avea uno ben
+|alto~, e che egli a proposito invocava nell'essere regolato
+dalle Muse impariamo, ripeto, che di proprio vocabolo noi non
+manchiamo ad esprimere una facolt@a che contraddistinse sempre lo
+spirito Italiano: ed attendiamo solo a far buon uso e della
+facolt@a e del vocabolo.
+
+	|10-12.~  Principiamo vedere in questa diffidenza gli
+effetti della mancanza del Sole.  E si badi che dobbiamo
+trasportarci col pensiero al tempo che l'anima di Dante errava,
+perch@e non ancora era stato nel Paradiso.  Egli racconta ora
+tutto ci@o che gli avvenne prima di andarvi.  |Io cominciai~, ecc. 
+Mostrer@o in appresso che il verbo ^cominciare~ @e impiegato da
+Dante l@a dov'ei vuole esprimere o mente confusa, o cuore agitato,
+o animo commosso.
+
+	|10-12 {Nota Aggiunta}: Io cominciai, poeta che mi guidi~
+ecc.: L'esame di molti e molti passaggi mi ha pienamente convinto
+che il verbo ^cominciare~, usato assolutamente, in luogo di
+^cominciare a dire~, @e impiegato quasi sempre da Dante a dinotare
+una specie di commozione d'animo nel farsi incontro a cosa che la
+produca: ed oser@o avventurare qualche congettura sulla propriet@a
+di tal verbo, in questo senso adoperato.  In latino si disse
+talvolta ^in-ire in aliquam rem~, quasi ^introire in eam~, cio@e
+in essa introdursi, e perci@o cominciarla; bella metafora desunta
+dal moto: e da ^inire~ si f@e ^initium~, cominciamento.  Al lat.
+^in-ire~ assai somiglia il ^coman~ Sassone, e il ^come in~
+Inglese che hanno un significato assai analogo; e da ^coman~ o
+^come in~ credo derivato ^cominciare~, cio@e quasi aggredire la
+cosa e spingervisi incontro.  Perci@o Dante nell'esprimere una
+specie di spirituale moto, si valse sempre di un tal verbo in cui
+si contiene commozione di animo.  Circa all'etimologia potr@o
+forse ingannarmi, ma non circa al senso in cui verr@a da lui usato
+costantissimamente, quando l'impiega cos@i assoluto, e senza verbo
+dopo.
+
+	|13-15.~  Cio@e, ^visibilmente~, talch@e poteva essere
+veduto andarvi; e non gi@a come le anime che non son vedute da
+alcuno.  Con la sola frase di ^secolo immortale~ include
+l'eternit@a de' dannati prima, e quella de' beati dopo; onde vi
+and@o Enea, e vi and@o Paolo, uno sotto e l'altro sopra.
+
+	|13-15 {Nota Aggiunta}: Tu dici... e fu sensibilmente~:
+Il vero significato di |sensibilmente~ @e qui ^visibilmente~ e non
+gi@a quello che sinora si @e sognato, cio@e ^fornito di sensi~, il
+che @e gi@a compreso nel |corruttibile~ di sopra.  Se alcuno
+dicesse, ^tu vai sensibilmente alla tua perdizione~: ed uno
+spiegasse, tu vai alla tua rovina fornito di tutti i sensi; ed un
+altro, tu vi vai visibilmente: qual vi parrebbe migliore?  Ci@o
+basta; senza entrare a considerare la vera natura dell'avverbio
+di maniera (ch'@e sempre modificazion dell'azione, e non mai
+aggiunto alla sostanza) perch@e appaja pi@u sensibilmente una tal
+verit@a.
+
+	|16-21.  Empireo~: ultimo e pi@u alto cielo, sede di Dio,
+detto qui |avversario d'ogni male~, perch@e per mezzo di Enea
+preparava l'Impero, che ai disordini della societ@a dovea porre un
+riparo.
+
+	|22-24.~  Enea fu eletto nel Cielo per esser padre
+dell'alma Roma e del suo Impero; ma quella Roma e quell'Impero
+non furono, |a voler dir lo vero~ (a voler considerare le cose
+come sono, e non come si pretendono) stabilite per altro che |pel
+loco santo ove siede il successor del maggior Piero~; cio@e,
+maggior di ogni altra potest@a, e quindi anche della imperiale.  E
+per farsi meglio intendere, distingue |la quale~ Roma, e |il
+quale~ Impero; formola scolastica, che a primo aspetto pare
+ineleganza, ed @e usata qui con finissimo artifizio, per
+significare che s@i l'una che l'altro non erano fini, come
+pretendeano i Ghibellini; ma mezzi, come voleano i Guelfi, onde
+produrre il successor di Pietro a tutti superiore.  E chiama Enea
+perci@o ^padre di Silvio~ {13}, e non gi@a di ^Giulio~, per non
+dare a ^Giulio~ e a chi n'eredit@o il trono un dritto di
+successione e di compimento di tanta preparazione.
+
+	|25-27.  Papale ammanto~: per papale dignit@a, metonimia. 
+|Intese~: vuol dire ^pienamente comprese~, come in seguito
+mostrer@o.  E segue a dire, che |le cose~ ch'Enea intese negli
+Elisi |furono cagione di sua vittoria, e del papale ammanto~; non
+gi@a della porpora imperiale, no, ma del papale ammanto.  Ecco il
+vero linguaggio de' Guelfi di quel tempo, i quali pretendevano
+che tutto il potere della precedente Roma e del suo Impero altro
+non fosse se non una preparazione per produrre il Papa con piena
+potest@a temporale e spirituale, a cui tutt'i Re dovessero esser
+soggetti.  Cos@i Dante, al mancar di sua ragione, tiene un
+linguaggio da Guelfo, e nega di pi@u seguir Virgilio.  Si noti
+per@o che dallo stesso parlare da Guelfo traspare lo spirito
+Ghibellino del Poeta: e perch@e manifesto appaja, metter@o in pieno
+giorno un nascostissimo suo concetto.  Il suo sistema
+politico-morale @e questo: L'Imperadore dee regolare le cose che
+riguardano la Terra, il Papa quelle che mirano al Cielo: onde
+Iddio volle dare agli uomini una duplice direzione, perch@e
+risultassero due ordini, il temporale e lo spirituale.  Enea fu
+prescelto a produrre il primo, Paolo a meglio assodare il
+secondo: Onde fu concesso ad ambo l'andare ^a secolo immortale~;
+l'uno, perch@e fu eletto nell'empireo Cielo per essere il padre
+dell'alma Roma e del suo Impero; l'altro, per recarne conforto a
+quella fede ch'@e principio alla via di salvazione.  E mette Enea
+precedente a Paolo, non solo perch@e l'ordine cronologico lo
+richiede, ma per significare che la potest@a Imperiale era nata
+prima della Pontificia; e che quindi non era da quella
+dipendente: su che si fonda gran parte del suo libro ^de
+Monarchi#a~.  Dante non sapea cessar di esser Ghibellino anche
+nella finzione di parlar da Guelfo.
+
+	|28-30.  Il Vaso di elezione~: @e S. Paolo, chiamato da G.
+C., ^Vas electionis~, che nel testo greco @e ^vaso eletto~; e par
+che Dante voglia dire che un tal vaso fu prescelto a contenere e
+recar conforto alla fede.  <Dice principio, perch@e nessuno si pu@o
+salvare senza la fede; ma questa non @e tutto; imperocch@e la fede
+senza l'opere @e morta>, il Landino.
+
+	|33 {Nota Aggiunta}: Me degno a ci@o!  n@e io, n@e altri il
+crede~: Il modo con cui ho punteggiato questo verso, non solo lo
+rende leggiadramente drammatico e naturale, ma fa sparire di pi@u
+quella irregolarit@a di sintassi che risultava dalla maniera in
+cui fu scritta sinora: |Me degno a ci@o, n@e io, n@e altri il
+crede.~
+
+	|36 {Nota Aggiunta}: Sei savio, e intendi me' ch'io non
+ragiono~: Dante in una canzone, oltremodo misteriosa, si dirige
+al suo Ghibellinismo ch'ei chiama ^Amore~; e, chiedendogli aita
+contro al Guelfismo avverso cos@i si esprime: <Onor ti sar@a
+grande, se m'ajuti, Ed a me ricco dono, Tanto quanto conosco ben
+ch'io sono L@a ov'io non posso difender mia vita: Ch@e gli spiriti
+miei son combattuti Da tal ch'io non ragiono>.  Vale a dire che
+gli chiede aita perch@e, trovandosi col@a ove il poter papale era
+sommo, conoscea di non poter difender la sua vita: per cui gli
+spiriti suoi eran combattuti da un tale che lo costringeva a non
+ragionare: quasi dicesse: <|io non ragiono~, perch@e ho paura; e
+temendo il Capo de' Guelfi, in poter di cui sono, non osando dir
+quel che penso, mi veggo costretto a mascherare il mio vero
+sentimento>.  Ci@o posto, io credo che il citato verso, con cui
+conchiude quel suo Guelfesco ragionamento in questo canto,
+contenga un finissimo equivoco, e voglia dire: |Sei savio e
+intendi me~ (parola intera e non tronca, accusativo di ^io~, e
+non accorciamento di ^meglio~), perch@e, s@i dicendo, |io non
+ragiono.~  In fatti, che gli risponde Virgilio?  ^Se io ho ben la
+tua parola intesa..., L'anima tua @e da viltade offesa~ {43-45}:
+Vale a dire, se ho compresa bene quella tua parola di doppio
+senso (|me~), tu parli in tal guisa non gi@a perch@e cos@i senti, ma
+perch@e hai paura, cio@e, parli contro coscienza per evitar
+pericoli.  E soggiunge: ^Da questa tema acciocch@e tu ti solve,
+Dirotti perch'io venni~ {49-50}: e racconta che Beatrice gli avea
+detto che ^il suo amico era volto indietro per paura~: e perch@e
+pi@u visibilmente una tal paura risultasse, Virgilio @e detto
+^magnanimo~, e Dante, ^anima offesa da vilt@a.~  Se il Mantovano
+avesse voluto riprendere il suo seguace di falso ragionamento
+avrebbe dovuto dirgli: Se ho ben compreso da che derivi questo
+tuo linguaggio, veggo che la tua mente @e confusa: e non gi@a, ^se
+ho ben intesa la tua parola, la tua anima @e offesa da vilt@a.~ 
+Converremo che quest'@e la maniera retta d'interpretar que' due
+versi, quando arriveremo a persuaderci delle tre segg. verit@a, di
+cui a lungo andare potr@o convincere fin S. Tommaso: I.  Che Dante
+fa grand'uso di equivoci finissimi con cui ha saputo nasconder il
+suo vero disegno fino ai d@i nostri.  II.  Che grandissima @e la
+forza ch'ei d@a al verbo ^intendere~, e a tutte le voci di questo
+verbo di che avremo belle pruove: onde i due vv. 36 e 43 che
+abbiam sott'occhio, ^Sei savio e intendi me, ch'io non ragiono~,
+e, ^Se io ho ben la tua parola intesa~, valgono: 1.  Tu sei savio
+e come tale comprendi bene me; perch@e vedi, ch'io con tal
+linguaggio non ragiono (e con ci@o dichiari ^savj~ i Ghibellini e
+^stolti~ i Guelfi); 2.  Se ho ben col pensier penetrata quella
+tua parola anfibologica, veggo che tu favelli cos@i perch@e temi, e
+non gi@a perch@e cos@i pensi (e con ci@o ci svela che quella tanta
+arte da lui impiegata nel celar la sua mente @e derivata dal suo
+timore; il che prover@o altrove sino all'evidenza).  III.  Che fra
+tutti gli scritti suoi vi @e una strettissima connessione, ed una
+relazione tale che spesso un passaggio di un'altra sua opera ci
+pu@o esser di guida ad interpretarne uno difficile e nascosto
+della ^Commedia.~  Molte delle sue rime apparentemente amatorie
+sono realmente politico- morali: e tutta la sua ^Vita Nuova~ @e un
+mistero continuato, che chiude la vera chiave della ^Commedia~: e
+da ci@o nasce quel linguaggio mistico che da per tutto vi @e
+sparso, e quel Platonismo apparente  che si eleva al di sopra del
+comun sentire; sino al punto che mi fo ardito a dire ch'esse non
+furono sinora mai comprese.  Se la sorte mi conceder@a agio, io
+disegno far di esse quel che or fo del poema.  Di ci@o persuasi
+(n@e pu@o essere a meno che nel seguito nol siamo) converremo che
+il senso di questi due passi @e quello che ho qui esposto, e non
+quello che ho dato nel canto.  Non l'ho introdotto col@a, per
+uniformarmi alla intenzion di Dante.  Egli ha voluto usar
+l'equivoco, ed io l'ho lasciato; ha voluto nascondere un senso
+segreto, ed io lo svelo.
+
+	|37-42.~  Germe di molto sviluppo si contiene in quella
+|oscura costa~.  Il dire ch'ei si fece come colui |che disvuole
+ci@o che volle~; cio@e, che disvuole il bene che gi@a voleva quando
+il Sole lo illuminava, e che lo ^disvuole in quella oscura
+costa~, non @e diverso dal dire ch'ei disvuole quel bene pel nuovo
+adombramento di sua ragione, che in quella oscurit@a comincia
+quasi a dormire.  Ed ecco pi@u chiaramente spiegato, perch@e quando
+entr@o nella selva de' vizj egli era pien di sonno.  L'ombra e il
+sonno sono idee associate; perch@e la notte @e il tempo in cui si
+dorme.  L'entrar ne' vizj non pu@o esser cagionato se non da un
+falso giudizio della ragion non vigile; e quindi ^il disvolere il
+bene nella oscura costa~; e ^l'entrar nella selva oscura quando
+era pien di sonno~, si equivalgono; non essendo diverso il
+disvolere il bene dal volere il male: e se nol credete udite che
+dice {nei vv. 20-27}.  Se prima con quel ^pi@e fermo ch'era sempre
+il pi@u basso~ egli ha voluto indicare la forza dell'abitudine
+dell'uomo che dal vizio passa alla virt@u; con questo discorso,
+dopo di che non vuole pi@u seguir Virgilio |in quella oscura
+costa~, vuol significare l'ondeggiare di sua ragione vacillante
+nel passare da un partito all'altro.  Tali passaggi non possono
+farsi per salti: l'essere stato lungamente vizioso lo facea
+ricader nel vizio; e l'esser vissuto da Guelfo per tanti anni lo
+strascinava di nuovo al Guelfismo: e tanto pi@u che temea
+attirarsi l'odio del partito che abbandonava.  Ci@o risulter@a
+anche pi@u chiaro per quel che verr@a in appresso.
+
+	|41-42 {Nota Aggiunta}: Perch@e... tosta~: Io spiegherei
+questi due versi cos@i: ^Perch@e misurando col pensiero l'impresa
+sino alla sua consumazione, ne previdi tutte le conseguenze; la
+quale impresa nel cominciare fu cotanto tosta~, cio@e dura, onde
+^disvolli quel che volea.~  ^Faccia tosta~ dicesi per faccia
+dura, significato che l'aggettivo ^tosto~ ritiene ancora in tutto
+il regno delle due Sicilie, onde ^star tosto~, ^pane tosto~,
+^uova toste~, ecc.  E se ben si bada quel |tosta~ per ^sollecita~
+mal si appropria ad impresa, e benissimo per ^dura.~  ^Sollecito~
+poteva esser Dante nell'intraprendere l'azione, e non gi@a che
+l'azione stessa potesse esser ^sollecita~; ma ^dura~, e non
+^sollecita~ dov@e essere per lui quell'impresa che nel fargli
+seguir Virgilio, o sia nel farlo divenir Ghibellino, lo esponeva
+a tutto l'odio de' Guelfi, e ad una catena di avversit@a ch'ei
+troppo preveder dovea.  Dir@o francamente che preferisco questa
+mia interpretazione all'altrui.  Non l'ho esposta a suo luogo,
+perch@e il primo senso dell'equivoco di sopra lo esclude.
+
+	|43-45.~  Cio@e, se ho ben compreso questo tuo Guelfesco
+linguaggio, tu non vuoi seguirmi pi@u per paura che hai del
+partito opposto; e si noti l'antitesi di |magnanimo~, ed ^anima
+offesa da vilt@a.~
+
+	|46-48.~  Con quel |falso vedere~ indica chiaramente il
+falso giudizio che nasce dall'assenza della ragione; e con la
+somiglianza della bestia vuol dire, che l'uomo, perduto ci@o che
+dagli altri animali lo distingue, diviene quasi una bestia.  Il
+cavallo ombroso @e il cavallo che non vuol avanzarsi per falso
+vedere, onde la somiglianza @e giustissima; tanto pi@u che |quando
+ombra~ ha una fina relazione con la ^oscura costa~: e vuol forse
+significare ^quando fa ombra.~
+
+	|49-51.~  Virgilio, volendo persuader Dante che il suo
+cambiar di partito era stato stabilito nel Cielo, gli dice quanto
+segue.
+
+	|52 {Nota Aggiunta}: Io era tra color che son sospesi~:
+L'Anonimo Inglese crede che Dante conoscesse il Corano, poich@e,
+al dir suo, i dottori Maomettani chiamano il Limbo ^al Araf~, dal
+verbo ^Arafa~, che vuol dire ^separare~ ed ^innalzare~; cosicch@e
+^al Araf~ significa luogo separato e sospeso fral Paradiso e
+l'Inferno.  E quindi il Limbo pu@o dirsi sospeso in tre sensi, s@i
+perch@e @e uno stato neutrale, sospeso quasi in bilancia fral
+piacere e 'l dolore; s@i perch@e i patriarchi vi erano in istato di
+sospensione, prima di andare in Paradiso; e s@i perch@e pende al di
+sopra dell'Inferno, come a suo luogo vedremo.  Sia pur vero quel
+ch'ei dice: non mi par probabile per@o che il poeta Cristiano
+desumesse le sue teorie dai dottori Maomettani.
+
+	|55.~  Quella |stella~ in singolare @e senza dubbio il
+sole, detto innanzi ^pianeta~: <La bella stella che il tempo
+misura> Dante lo chiama in una canzone; e l'assimila a Beatrice
+<Pel ^lume che nel viso le dimora~>, cio@e, pel lume degli occhi,
+tanto valendo ^viso~, come cento volte vedremo.  E che una tale
+|stella~, pi@u di cui |lucevan gli occhi~ di Beatrice, sia quel
+luminoso simbolo della ragione, ci sar@a con piena e ripetuta
+pruova mostrato da gran parte del Paradiso, dove i misteriosi
+occhi di questa celeste guida colpiranno pi@u e pi@u volte quelli
+di Dante: ed ei ne dice nel ^Convito~ che <gli occhi di questa
+donna son le sue dimostrazioni>; e in una canzone cos@i si
+esprime: <E pria riguardo dentro gli occhi begli Che passan per
+gli miei dentro dal core, Con tanto vivo e lucente splendore 
+Che propriamente par che dal Sol esca>.
+
+	|56-57.  Cominciommi a dir soave e piana~: Questi due
+aggettivi, che han qui forza di avverbj, riguardano il ^cuore~ e
+l'^intelletto~, e voglion dire in maniera persuasiva (soave) e
+chiara (piana).  |Con angelica voce, in sua favella~: @e una
+estensione dello stesso concetto; cio@e con |soave~ voce angelica,
+e in sua |piana~ favella, da non lasciar dubbio alcuno intorno
+alle sue vere intenzioni.  E dice ci@o Virgilio per allontanare
+sempre pi@u da Dante i dubbj.
+
+	|59-60.~  Cio@e, ^durer@a in estensione quanto il mondo
+stesso~.  Quel |lontana~, applicato a fama, non pu@o aver altro
+valore.  ^Lontan digiuno~, in senso di digiuno sofferto per lungo
+tempo, ei dir@a altrove.
+
+	|61-63.~  Ecco che Virgilio dice chiaramente a Dante: tu
+temi de' Guelfi: e gliel dice per bocca di Beatrice, la quale gli
+avea narrato che ^il suo amico per paura era volto~ alle valle, o
+sia ai vizj dell'et@a sua dal Guelfismo corrotta.  Ed ora
+apertamente si vede che quelle fiere non venivano per divorar
+Dante, ma per impedire che dalla valle montasse al colle. 
+|L'amico mio e non della ventura~: @e come se dicesse ^il mio caro
+e sventurato amico~: e tale era Dante, amato dalla sapienza e non
+dalla fortuna: <Dov'@e molta virt@u ivi @e poca fortuna>, avea
+scritto il suo Aristotile.  Ma potrebbe anche significare
+^l'amico mio e non della mia fortuna~, il che si conforma a quel
+di Nipote, <se non fortunae sed hominibus solere esse amicum>; e
+vuol dire che avendo amato lei, e non la fortuna di lei, @e troppo
+giusto che nel periglio ella venga a soccorrerlo.  ^Ne' bisogni si
+conoscono gli amici~, diciamo noi; ^A friend in need is a friend
+indeed~, dicono gl'Inglesi.  Preferisco per@o il primo senso,
+perch@e pi@u reclamato dal contesto e pi@u immediato.
+
+	|65.~  Dice |levata~ perch@e sedeva, come dir@a dopo.
+
+	|67-69.~  A |parola ornata~ aggiunge |ci@o ch'ha mestieri
+al suo campare~, perch@e dovea persuader lui a seguirlo, e dovea
+di pi@u difenderlo dalle fiere.
+
+	|70-72.~  Delicatissimo modo @e quello, |Vegno di loco ove
+tornar disio;~ poich@e Virgilio era nell'Inferno (tale essendo il
+Limbo); e sarebbe stato un affligerlo il nominargli il Paradiso,
+ov'egli non poteva andare: innanzi ai poveri non si dee far pompa
+di ricchezze.  Ricordiamoci di questo bel modo, perch@e anche
+Virgilio se ne servir@a pi@u sotto.  Chi sia Beatrice lo vedemmo
+nella vita di Dante: ora aggiungeremo ch'ella era di nobile
+stirpe, come quella che vantava in sua famiglia un ammiraglio
+dell'ordine Gerosolimitano.  Dopo la perdita amara, Dante ne
+conserv@o sempre dolcissima rimembranza, ed avea disegnato <di dir
+di lei quello che mai non fu detto di alcuna> (^Vita Nuova~).  E
+dichiar@o che poich@e ella era morta, e vivea con gli angeli nel
+Cielo e con la sua anima in Terra, ei quind'innanzi <la
+riguardava come la Sapienza felicissima e suprema> (^Convito~). 
+E dir@o cosa tanto vera quanto nuova: per ora mi contento solo di
+asserirla, ma altrove la mostrer@o all'evidenza.  Dante, nel calor
+della sua passione che dava la tinta alla sua immaginazione,
+concep@i l'esagerata idea che Beatrice fosse da Principio in Cielo
+la stessa ^Sapienza Divina~; e che poi, presa umana carne,
+rimanesse in Terra per qualche tempo, finch@e fu richiamata da Dio
+alle sue altissime funzioni.  Onde la donna ch'egli ador@o e la
+^Divina Sapienza~ vengono ad esser per lui una sola e stessissima
+persona.  Non @e dunque, come finor si @e creduto, che questa sua
+Beatrice debba intendersi talvolta in un senso, e talvolta in un
+altro, con perpetua trasfigurazione; poich@e questi due sensi
+coincidono, e si confondono nel solo unicissimo ente allegorico
+di Beatrice; la quale segue a dire cos@i.
+
+	|70 {Nota Aggiunta}: Io son Beatrice~, ecc.: Dante
+riguard@o Beatrice, quand'era viva, con una specie di religioso
+rispetto, e direi quasi di ^latria spirituale~: si consideri da
+ci@o qual dovesse essere ella agli occhi suoi poich@e fu morta. 
+Questo amore trasmesso dalla Cavalleria era il genio e il
+carattere de' tempi suoi, e fu quello stesso che poi produsse
+tutte l'estasi platoniche del Petrarca.  E perch@e si vegga quale
+specie di culto le rendesse in vita, e perch@e si abbia insieme un
+saggio del suo modo di poetar lirico, ci piace trascrivere il
+seguente sonetto; a confronto di cui non so quale fra i
+moltissimi del delicato cantor di Laura possa reggere senza
+sgomento: <Tanto gentile e tanto onesta pare La donna mia,
+quand'ella altrui saluti, Ch'ogni lingua divien tremando muta, E
+gli occhi non l'ardiscon di guardare. Ella sen va sentendosi
+laudare Umilemente d'onest@a vestuta; E par che sia una cosa
+venuta Dal Cielo in Terra, a miracol mostrare.  Mostrasi s@i
+piacente a chi la mira, Che d@a per gli occhi una dolcezza al
+core, Che intender non la pu@o chi non la prova. E par che dalle
+sue labbra si muova Uno spirto soave pien d'amore, Che va dicendo
+all'anima, sospira>.
+
+	|73-75.~  Lodarsi di uno ad un altro, vuol dire farne
+l'elogio, e mostrarsene soddisfatto per servigi ricevuti.  Ma che
+giova a Virgilio, il quale @e fra i perduti, che Beatrice se ne
+lodi con Dio?  Potr@a forse con ci@o meritargli ch'esca dal Limbo e
+vada nel Cielo?  Mai no: che significa dunque ci@o?  Un mistero
+che non @e ancor tempo di svelare.
+
+	|75 {Nota Aggiunta}: Tacquesi allora, e poi cominciai
+io~: Cos@i nel codice di cui si valse il Boccaccio pel suo
+comento; e mi piace leggere col gran Certaldese ^tacquesi~,
+piuttosto che |tacette~ con l'Accademia della Crusca, la quale
+prefer@i questo a quello, forse perch@e pi@u Fiorentino che
+Italiano.  Non ignoro che Dante scrisse ^tacetti~ altrove, ma il
+f@e per rima; cos@i scrisse anche ^aia~ per abbia, ed altre simili
+licenze.  Siccome per@o non ha detto mai ^aia~ fuori di rima, cos@i
+@e probabile che non abbia neppur detto ^tacette~ a principio di
+verso.  Non credo necessario indicare i fonti da cui ho tratte
+tutte le altre lezioni che diversificano da quelle che si leggono
+nella edizione dell'Accademia; poich@e sono oramai notissimi, dopo
+che il codice Bartoliniano gi@a stampato e le varianti rapportate
+dalla edizione Romana del 1820, e quelle citate dal Volpi, dal
+Poggiali, dal Biagioli, e da altri, tratte da accreditatissimi
+manoscritti, van per le mani di tutti.  Follia sarebbe accumular
+note su note per simili inezie.
+
+	|76-78.  Contento~: @e ^contentum~ lat. cio@e, cosa
+contenuta: il |Cielo che ha minori i cerchi suoi~ @e il Ciel della
+Luna, ch'@e il pi@u picciolo, e il primo che circondi la Terra,
+secondo il sistema di Tolomeo: e dice |cerchi~ plur. perch@e ogni
+sfera ha quanti cerchi si vogliono.  Dice che per la Sapienza
+Divina l'uomo avanza ogni cosa sublunare, perch@e l'uomo si eleva
+su tutte le cose terrestri nella contemplazione della Sapienza
+Divina; o pure, perch@e questa ha fatto l'uomo superiore a quanto
+in terra vive.
+
+	|82-84.~  Dice |in questo centro~, non perch@e il Limbo
+fosse il centro dell'Inferno, ma perch@e la Terra era creduta il
+centro di tutto il sistema mondiale; onde soggiunge |dall'ampio
+loco ove tornar tu ardi~, ossia dalla gran periferia di quel
+centro; e si serve della stessa frase di Beatrice che avea detto,
+^Vegno di loco ove tornar disio.~  Dante previde una difficolt@a
+che gli si potea fare, ed @e: perch@e facesse scendere una Beata
+nell'Inferno, a discapito della sua beatitudine: per dissiparla
+fa far da Virgilio questa domanda.  Ma oltre quello che Beatrice
+risponder@a, si sappia, essere stata opinione di alcuni Teologi,
+che gli angeli e i santi facessero frequenti visite al Limbo. 
+(Vedi il Sarpi ^Stor. del Con. Trid.~, cap. ii, pag. 165.)
+
+	|82-87 {Nota Aggiunta}: Ma dimmi la cagion... qua entro~:
+La questione di Virgilio e la risposta di Beatrice son introdotte
+dal poeta, s'io non m'inganno, per qualche profonda allusione,
+ch'io non ho saputo scoprire: ed @e chiaramente indicato dal v.
+85, |Da che tu vuoi saper cotanto addentro.~  Son quindi poco
+soddisfatto della interpretazione che ho data all'altro v. 93, ^E
+fiamma d'esto incendio non m'assale~; poich@e non pare che qui si
+parli d'^incendio infernale~ da Beatrice ch'era nel Limbo, dove
+non @e incendio alcuno, come l@a vedremo.  Tanto pi@u vado dubitando
+che un'allusione sia stata con arte in questo passaggio nascosta,
+quanto che osservo che Virgilio si trattiene a dir tutto ci@o con
+poca naturalezza, giacch@e perde tempo nel fare tal questione,
+mentre Dante era in imminente pericolo a cui dovrebbe egli
+volando accorrere, dopo aver detto: ^Tanto m'aggrada il tuo
+comandamento Che l'ubbidir, se gi@a fosse, m'@e tardi; Pi@u non t'@e
+uopo aprirmi il tuo talento~ {79-81}.  Tali incongruenze mi fan
+sempre supporre in Dante gran motivi per farle, siccome da varj
+casi simili ho potuto ritrarre.  E se si bada, la risposta di
+Beatrice alla domanda di Virgilio @e innestata con poco buon garbo
+nel dialogo, poich@e ella, che parea aver detto tutto intorno a
+Dante, ripiglia poi la sua narrazione intorno a ci@o ch'era
+accaduto nel Cielo e la f@e scendere in Terra: e perde cos@i tempo
+ancor ella, dopo aver detto: ^E temo che non sia gi@a s@i smarrito
+Ch'io mi sia tardi al soccorso levata.~  Non oserei fare tali
+irriverenti osservazioni, se non fosse che il metterle in vista
+pu@o indurre un pi@u felice investigatore a scoprire ci@o ch'io non
+so vedere.
+
+	|86.  Dirotti brevemente~: quest'avverbio @e posto per
+significar la premura che Beatrice avea di sbrigar Virgilio, onde
+accorresse in aita di Dante tostamente.
+
+	91-93.~  La ragione per cui i Beati non sentono piet@a de'
+dannati sar@a estesamente esposta nel Paradiso: ed in breve @e, che
+i Beati non possono voler altro se non quello che Dio vuole, il
+che forma parte della loro beatitudine; ma Iddio per effetto di
+sua giustizia vuole le pene de' dannati, dunque anche i Beati le
+vogliono; e quindi Beatrice non ne sente piet@a.  Il fuoco
+infernale poi @e di tal natura che non ha forza se non sul solo
+vizio; ma Beatrice @e ^donna di virt@u~, dunque quel fuoco non pu@o
+assalirla: <Cum ambulaveris in igne non comburieris, et flamma
+non ardebit in te>: disse Isaia del giusto.  <Si ambulavero in
+medio umbrae mortis non timebo mala, quoniam tu mecum es>, cant@o
+Davide di s@e stesso.
+
+	|94-96.~  Questa donna gentile @e la Piet@a di Dio, che
+quasi frange la spada alla Giustizia di lui, e si adopera a
+richiamar l'uomo dall'errore; |duro giudicio~ @e il ^judicium
+durissimum~ della Scrittura, in senso di severissima giustizia.
+
+	|97-99.~  Questa Lucia @e la Grazia, detta per metafora
+^luce dell'anima~, perch@e la illumina; e quindi @e personificata
+col nome di |Lucia~: allegoria appoggiata al suono della parola,
+come quella di Veltro e di Lupa.  ^Aglae~, prima fra le Grazie,
+significa ^splendida~, che molto si accosta a |Lucia.~  Dante @e
+fedele a |Lucia~ perch@e ne avea seguite le inspirazioni, quando
+ella con la ^luce~ del Sole gli mostr@o il cammino del Colle: e
+pare che il Sole montasse sull'orizzonte, per illuminar Dante,
+giusto nel punto che accadeva in Cielo tutta l'azione che vien
+qui descritta.  La Donna gentile preg@o Lucia perch@e la piet@a di
+Dio @e il motivo impellente alla Grazia per illuminar l'uomo.
+
+	|100-102.  Lucia~ @e |nemica di ciascun crudele~ perch@e la
+Grazia abborisce que' barbari che vogliono impedire all'uomo di
+seguire le sue ispirazioni; e quindi dovea essere nemica di que'
+tre infesti animali crudelissimi ch'erano d'impedimento a Dante a
+salir sul Colle, ch'ella per mezzo del Sole gli mostrava. 
+|Rachele~: @e figura della vita contemplativa, secondo i sacri
+espositori; siccome la sua sorella ^Lia~ figura dell'attiva: ci@o
+essendo, la Sapienza non pu@o esser tale se non per mezzo della
+meditazione; e quindi Beatrice siede con Rachele, la quale @e
+detta |antica~ per significare diuturna meditazione.
+
+	|102 {Nota Aggiunta}: Che mi sedea con l'antica Rachele~:
+Essendo Beatrice figura della Scienza della Divinit@a, il poeta
+l'ha posta a sedere con l'|antica~ Rachele non solo per
+significare diuturna meditazione, come sponemmo, ma per indicare
+ancora che la Dottrina delle cose divine ha per prima base
+l'Antico Testamento; e che nella contemplazione di quelle prische
+carte si alimenta, come primo e genuino fonte della rivelazione. 
+^Beatrice che siede con Rachele~ fu vagamente imitato dal Milton
+nel suo ^Como~ con queste parole: ^Wisdom's self with her best
+nurse Contemplation: <La Sapienza stessa con la sua miglior
+nutrice la Contemplaione>.  L'Anglico Omero molto del nostro
+Italiano si compiacea, sino al punto che ne prese in pi@u luoghi
+pensieri ed espressioni.  Tale @e quella che deriv@o dalle due
+frasi ^il Sol tace~, e ^luogo muto di luce~: <The Sun to me is
+dark And silent, as the Moon When she deserts the night> (Scuro e
+muto m'@e il Sol, come la Luna Quand'ella lascia vedova la notte). 
+E bene un sacro cantore potrebbe dire all'altro: ^Tu sei lo mio
+maestro e 'l mio autore~; e dirglielo con quel suo verso
+medesimo: <Thou art my father, thou my author, thou>.  Onde cant@o
+di lui in un sonetto: <Dante shall give Fame leave to set thee
+higher Than his Casella, whom he woo'd to sing, Met in the milder
+shades of Purgatory>.  Per non render pi@u lunghe le nostre note,
+dobbiam rinunziare al disegno di andarne rammentando le belle
+imitazioni; tanto pi@u che questo @e stato maestrevolmente eseguito
+dall'illustre Cary nella sua applaudita traduzione Inglese della
+^Divina Commedia.~
+
+	|103-105.~  La Sapienza Divina @e dell'Eterno la vera
+lode.  Dante era uscito dalla volgare schiera per Beatrice;
+perch@e per esser degno di lei avea cercato di acquistar virt@u e
+fama: <Perocch@e s'io procaccio di valore Il fo perch@e sua cosa in
+pregio monti>, aveva egli liricamente cantato: e cos@i pure il
+Petrarca, di Laura: <Questa sola dal volgo m'allontana>.  Si noti
+con quanta propriet@a di nomi e di aggiunti son caratterizzate
+queste tre celesti donne: La Clemenza @e detta ^generosa~ perch@e
+accorre spontaneamente in soccorso dell'uomo; la Grazia @e detta
+^Lucia,~ perch@e lo illumina: la Sapienza @e detta ^Beatrice~,
+perch@e lo rende felice: ma n@e l'una n@e l'altra di quest'ultime ^@e
+generosa~, perch@e il loro ajuto non @e spontaneo, ma richiesto.
+
+	|106-108.  La fiumana... vanto~: @e Acheronte, fiume
+infernale, il quale, secondo i Mitologi qui seguiti da Dante, non
+isbocca nel mare, come tutti gli altri fiumi, ma si sprofonda
+sotterra verso il centro; e perci@o il mare non ha vanto, non ha
+dritto in quello che non gli d@a tributo di onde.  Non ho bisogno
+di mostrar pi@u oltre questa palpabile verit@a, perch@e dovremo
+viaggiare lungo il corso di questo fiume, e vedremo qual sia.  Al
+^combattere~ poi io darei il senso di assalir per istrascinare
+chi si difende contrastando, e nega di cedere; onde spiego:
+Potrebbe anche significare che il vizio gli facea assalto poco
+lungi dal fiume infernale, poich@e |sulla fiumana~ suona anche
+alcune miglia lungi da essa: cos@i si dir@a che Ravenna ^siede
+sulla marina~, mentre @e tre miglia lungi da quella.
+
+	|115-117.  Gli occhi lucenti~: perch@e ^lucevan come la
+stella.~  Bellissimo @e il decoro di Beatrice che, per nascondere
+a Virgilio le sue lagrime, volge da banda |gli occhi lucenti~: ed
+a chi dicesse che con poca propriet@a si fa qui piangere una beata
+risponder@o che, posto che i beati vogliono quello che Dio vuole,
+Beatrice di necessit@a dee piangere.  Poich@e siccome essi non
+sentono piet@a de' reprobi, perch@e la giustizia di Dio non ne
+sente, cosi ^lagrimano~ su gli errori degli uomini, poich@e la
+clemenza di Dio ^se ne compiange.~  Ed @e superfluo il dire che
+giustizia di Dio, clemenza di Dio, e Dio son tutt'uno: ^Quidquid
+est in Deo est ipse Deus.~  |Mi fece del venire~ ecc.: circa
+all'atto del venire.
+
+	|118-120.~  Qui Virgilio tace delle altre due fiere, e
+parla solo della Lupa, per le ragioni che dicemmo.
+
+	|121-123.~  Si noti quel |perch@e~ che rincalza per 4
+volte, e quella ^Corte del Cielo~ per Corte dell'Imperador che
+lass@u regna.
+
+	|124-126.~  Tre erano le Donne che prendevano cura di
+Dante, la Clemenza, la Grazia, e la Sapienza.  Rachele, ch'@e la
+Meditazione, era presso Beatrice, ma non prese parte all'opera:
+la meditazione @e ben diversa dall'azione.  Si noti il concetto
+significato con la successiva operazione di questi personaggi
+allegorici, s@i in Cielo che in Terra.  La Clemenza @e causa
+impellente alla Grazia, e questa alla Sapienza Divina, perch@e per
+mezzo della Scienza Politica corra in soccorso dell'uomo
+smarrito.  La Scienza Politica gli fa contemplare quali sono gli
+effetti de' vizj che derivano da una societ@a mal regolata; e
+glieli mostra nell'Inferno; la Sapienza Divina poi gli fa
+osservare quali sono gli effetti della virt@u che derivano da una
+societ@a ben ordinata; e glieli mostra nel Paradiso; per mezzo di
+ci@o l'uomo si corregge, e si salva; e quindi la Sapienza Divina
+fa un'opra che torna a gloria del Cielo: ed ecco perch@e Beatrice
+ch'era ^mossa dall'amore~ disse ^Vengo di loco ove tornar disio~:
+cio@e la mia operazione dal Ciel deriva e torna al Cielo.  Il che
+vuol dire in breve che Dio misericordioso illumina l'uomo ch'@e in
+errore, perch@e divenga saggio e beato, e che l'uomo ottiene ci@o
+per due vie, l'una di preparazione e l'altra di compimento,
+Virgilio e Beatrice.
+
+	|127-132.~  Ammirabile @e questa similitudine, e impiegata
+con un giudizio pi@u che umano.  Mi si conceda di svilupparla.  Il
+Sole @e assente per cui Dante era prostrato di animo e inviluppato
+di mente: ecco Virgilio che ne viene a far le veci, e con
+propriet@a, poich@e la Filosofia @e la ragione stessa perfezionata. 
+Or essendo Dante paragonato ad un fioretto ^chinato e chiuso dal
+notturno gelo~; cio@e prostrato di animo (chinato) inviluppato di
+mente (chiuso) dall'errore che produceva paura (notturno gelo);
+Virgilio, paragonato al Sole, gli solleva l'animo, e gli sviluppa
+la mente (|imbianca~ il fioretto e lo rialza aperto su lo stelo):
+e vien detto |imbianca~ in luogo d'^irraggia~, perch@e la luce @e
+chiara, e produce i due effetti d'^illuminare~ e di ^riscaldare~,
+onde illumina l'annebbiato spirito di Dante (notturno) e riscalda
+il suo sgomentato cuore (gelo), e con ci@o lo affranca dall'errore
+riguardo allo spirito annebbiato, e gli d@a ardire riguardo al
+cuore sgomentato; onde |tanto buon ardire al cuor~ gli corse che
+egli cominci@o |come persona franca~; in corrispondenza a quel che
+Virgilio gli disse sopra; ^Perch@e ardire e franchezza non hai?~ 
+E noter@o che quel |buon ardire~ indica il coraggio che fa
+risolver l'uomo al ^bene~; che |persona franca~ mostra l'esser
+uscito dai lacci del partito opposto; che l'^imbiancare~ dice
+purificazione dalle precedenti macchie, e che i |fioretti~ in
+plur. vale a significare s@i la mente offuscata che il cuore
+indebolito per cui tai fioretti son |chiusi~ e son |chinati~, due
+qualit@a che son in complesso accolte in quella frase |virtute
+stanca~; e che finalmente il |cominciai~ esprime la sua
+commozione.  Il Poeta accenna la stessa idea in una Canzone, ove
+fingendo di parlare all'Amore parla al Ghibellinismo, quasi
+volesse dirlo ^amore della umanit@a e dell'ordine~: onde un tal
+amore ch'egli origina dal Cielo @e un vero sinonimo di Virgilio,
+messo in moto da Beatrice: <Amor che muovi tua virt@u dal Cielo,
+Come il Sol lo splendore, E com'ei fuga oscuritate e gelo Cos@i,
+alto Signore, Tu scacci la viltate d'ogni core>, ecc.
+
+	|135.~  Cio@e, alle parole piene di veracit@a che ti
+esprimevano il mio vero stato.  ^Porger la parola,~ dirigerla.
+
+	|133-135 {Nota Finale}: O pietosa colei~: sclama di
+Beatrice; e |tu cortese~ dice a Virgilio.  Or questi due agg.,
+oltre i sensi apparenti, ne hanno due altri nascosti ch'esprimono
+quasi l'essenza di Beatrice e di Virgilio.  Il |pietoso~
+qualifica l'una come presidente alle cose della religione, onde
+fu detta ^vera lode di Dio~, dove quel ^vera~ esprime la retta
+religione e non la corrotta, com'@e la superstizione che Dante
+combatteva; e il |cortese~ caratterizza l'altro come chiamato a
+reggere gli umani stati, onde ^anima cortese mantovana~ lo disse
+anche prima, e ^maestro cortese~ lo dir@a nel canto seguente. 
+Riguardo al primo aggiunto diremo che che ^pietosi Trojani~,
+^Pietoso Enea~; ^Pietosi indovini e poeti~, ^Pietose e buone
+opere~, ^Pietosa credenza del popolo Cristiano~, ^impresa santa e
+Pietosa~, e fin ^armi Pietose~ si trova nello stesso senso presso
+antichi Toscani; onde il Tasso cant@o l'^armi Pietose~ (Si vegga
+la Proposta del chiariss. Monti alla voce ^Pietoso~, dov'ei, da
+quel valoroso campione ch'@e, vendica Torquato <dai morsi
+dell'invidia> e <dai ringhi della pedanteria> dell'Infarinato e
+dell'Inferigno, che avean, o per ^ignoranza~, o per ^malizia~,
+deciso che <Pietoso in sentimento di Pio non @e Toscano>.  Alle
+molte autorit@a che quel critico dottissimo adduce, aggiungasi
+anche questa di Dante, ch'ei forse si accorder@a meco a chiamare
+la pi@u grave e la pi@u decisiva di quante ei ne arreca.)  E,
+riguardo al secondo, Dante medesimo scrive nel suo ^Convito~: <Si
+tolse questo vocabolo dalle Corti, e fu tanto dir Cortesia quanto
+uso di Corte>.  Talch@e Virgilio che accompagna Dante all'Inferno,
+e Beatrice che lo scorta nel Cielo sono quasi una ripetizione di
+Enea che all'Inferno scese perch@e da lui dovea nascere l'Impero;
+e di Paolo che al Cielo sal@i per meglio stabilire la Religione: e
+rifletter@o che in Lia, la quale @e nel Paradiso terrestre ad
+operare, e in Rachele, ch'@e nel Paradiso celeste a contemplare,
+la stessa idea @e quasi triplicata; e quadruplicata la mostrer@o
+nel IV c. ov'@e il Limbo.  Dante non cessava di battere su questo
+chiodo ch'@e quasi il perno su cui si appoggia tutta la macchina
+del suo poema.  Questo richiamo d'idee allo stesso oggetto, ed
+una corrispondenza di parti tendente all'armonia del tutto, e fin
+una correlazione di frasi e di modi formano un de' caratteri
+distintivi del suo poetare e del suo stile.  Il volerli notare un
+per uno sarebbe il non volerla finire mai.  Oltre quelle che
+osservammo, altre ve ne sono che abbiam tralasciato per brevit@a. 
+Per esempio: Virgilio dice a Dante sul principio di questo canto:
+^L'anima tua @e da viltade offesa~; ed al termine gli replica:
+^Perch@e tanta vilt@a nel cuore allette?~  Dante, diffidando delle
+proprie forze, dice a Virgilio: ^Guarda la mia virt@u s'ella @e
+possente, Prima che all'ALTO passo tu mi fidi~: e poi, preso
+coraggio, si paragona ad un fioretto ravvivato, ed esclama: ^Tal
+mi fec'io di mia virtude stanca~; ed ^entr@o nell'ALTO cammino.~ 
+E cos@i di altre impercettibili correlazioni, che per non cader
+nel minuto abbandoniamo all'altrui sagacia.
+
+	|136-140.~  Eccolo di nuovo, e per sempre, e del tutto
+Ghibellino; egli @e tornato al primo proposito di seguir Virgilio;
+un solo @e il voler di amendue; Virgilio @e la sua guida; Virgilio
+@e il suo capo; Virgilio @e il suo precettore.  E tale si fu Dante
+sino al termine di sui vita; ogni suo passo, ogni suo ufficio,
+ogni suo detto furono tutti di Ghibellino deciso: e il suo poema
+e tutte le altre opere sue ne fanno testimonianza.  Queste tre
+qualit@a che Dante d@a a Virgilio saranno da lui spessissimo
+impiegate nel corso del poema, ma con un'arte sopraffina; e non
+metter@a mai a caso una delle tre, ma sempre a ragion veduta: sino
+al punto che il ben esaminare i differenti luoghi e le varie
+azioni in cui le adopera ci sar@a non rara guida a belle scoverte. 
+E si noti che, prima di dichiararlo suo duca, suo signore, e suo
+maestro, lo ha precedentemente appellato col semplice nome di
+poeta; ^poeta, io ti richieggio~ {I 130}, ^poeta che mi guidi~
+{II 10}.  Noi andremo osservando questo impercettibile magistero
+per tutto il primo volume; e poi lo abbandoneremo all'esame
+dell'accorto lettore.
+
+	|139-140 {Nota Finale}.~  Il vero spirito di questo canto
+risulter@a chiaro a chiunque avr@a letto con ponderazione il libro
+^de Monarchi#a.~  Il poeta col@a confessa che nel suo vecchio
+errore credea il Romano Impero nato dalle armi; ma che poi meglio
+riflettendo vide che quello era stata opera di Dio, prodotto pel
+bene temporale della umanit@a: onde riprendendo s@e stesso di
+stolto pei falsi ragionamenti precedenti, che altri tuttora
+facevano, e cangiata l'ammirazione in disprezzo pel partito
+opposto che all'Impero facea guerra, si propose, quasi per
+emenda, d'illuminar gli altri, con esortarli a scuotere di s@e il
+giogo della parte Guelfa, ed a spezzare i lacci che a quella gli
+attaccava.  <Sed postquam medullitus oculos mentis infixi, et per
+efficacissima signa divinam providentiam hoc effecisse cognovi,
+admiratione cedente, derisiva qu@@aedam supervenit despectio; cum
+gentes noverim contra Romani populi ^pr@@aeminentiam~ fremuisse; cum
+videam populos vana meditantes, ^ut ipse solebam...~  Naturalis
+amor ut Sol aestivus qui, disjectis nebulis matutinis, oriens
+luculenter irradiat, derisione omissa, lucem correctionis
+effundere mavult...  Cum propheta sanctissimo meme subsequentem
+hortabor: ^Disrumpamus vincula eorum, et projiciamus a nobis
+jugum ipsorum> (lib. ii. 1).  Ecco che ha voluto significare con
+quel suo Guelfesco linguaggio, ecco l'immagine di quel suo
+risolversi a seguir Virgilio dichiarandolo suo Duca, suo Signore,
+e suo Maestro.  Ei quindi si fa a combattere i cavilli di tutti
+coloro che seguivano a delirare, com'egli aveva delirato, e che
+troppo parziali pel successor del maggior Piero la discorreano
+cos@i: <Petrus potuit solvere omnia et ligare; successor Petri
+potest quidquid Petrus potuit, ergo successor Petri potest omnia
+solvere et ligare, et per consequens potest auctoritatem et
+decreta Imperii solvere et ligare>.  E dimostra poi che questi
+tali non ragionavano; ma, pria di mostrarlo, chiaro in lui si
+legge il timor che ha de' Guelfi, e si fa molte replicate
+proteste.  <Quid timeam, cum Spiritus Patri et Filio coaeternus
+dicat per os David: in memoria aeterna erit justus, et ab
+auditione mala non timebit?...  Quaestio igitur praesens inter
+duo luminaria magna versatur, Romanum scilicet Pontificem et
+Romanorum Principem...  Illa reverentia fretus quam pius filius
+debet patri, quam pius filius matri, pius in Christum, pius in
+Ecclesiam, pius in Pastorem, pius in omnes Christianam religionem
+profitentes, pro salute veritatis in hoc libro certamen incipio>. 
+E conchiude quell'opera dimostrando che due guide bisognano
+all'uomo per ottenere due felicit@a, in questo mondo e nell'altro;
+cio@e una guida temporale ed una spirituale, ch'egli figura in
+Virgilio e Beatrice; s@i che questi @e d'impulso a quella, onde
+l'uomo sia giusto quaggi@u per esser beato lass@u.  E perch@e meglio
+si vegga, come il poema a quest'idea corrisponde, seguir@o anche a
+riflettere {vedi ^133-135 {Nota Finale}~).

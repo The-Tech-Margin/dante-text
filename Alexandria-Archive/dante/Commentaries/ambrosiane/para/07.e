@@ -1,0 +1,63 @@
+	|1.~  ^Osanna~ -- Interiectio hebrayce deprecantis, quasi `osy' a 
+obsecro, `anna' idest salvifica.  ^Osanna~ -- Oratio Iustiniani est in 
+hoc effectum, videlicet: <Sanctus Deus et dominus exercituum, 
+superillustrans claritate tua felices ignes horum sprirituum missorum 
+vel nunctiorum, obsecro, salvifica>, sive respectu Dantis et Beatricis 
+sive respectu sprituum beatorum existentium cum eodem ita deprecabatur. 
+ ^Sabaoth~ -- Idest Deus vel dominus exercituum vel virtutum.
+
+	|3.~  ^Malahot~ -- Hebrayce, angelus grece, nuntius vel missus latine 
+dicitur.  \<^Malohoth~\> Aliter Malachot hebrayce genitivo plurali, 
+idest regnorum, unde construttio huius testus satis clare patere 
+potest.  Horum malachot, idest horum regnorum, ut hic notatur in 
+lectura ordinaria.
+
+	|5.~  ^Sustanza~ -- Scilicet Iustiniani anima.
+
+	|6.~  ^Doppio~ -- Sui fulgoris et planete et aliorum.
+
+	|10.~  ^Dubitava~ -- Minus peccatur taciturnitate quam loquacitate.
+
+	|12.~  ^Stille~ -- Scilicet guctis.
+
+	|12-13.~  ^S'endonna -- Disseta~ -- Verba verbalia sunt.
+
+	|26.~  ^Freno~ -- Precepti obedientie.  ^Prode~ -- Scilicet ut 
+mereatur obedientia.  ^Non nacque~ -- Quia creatus primus.
+
+	|27.~  ^Prole~ -- Infecta est massa in primo parente.
+
+	|29.~  ^Seculi~ -- Scilicet VmCLXXXXVIIII annis.
+
+	|33.~  ^Amore~ -- Quia conceptus de Spiritu Sancto.  Nam Christus fuit 
+in Adam secundum corpulentam substantiam solum, non secundum seminalem, 
+fomaliter autem a Spiritu Sancto et materialiter de Maria Virgine.
+
+	|37.~  ^Per se stessa~ -- Propter inobedientiam, quia comedit de ligno 
+vetito.
+
+	|41.~  ^Assumpta~ -- Quantum ad humanitatem assumptam.
+
+	|44.~  ^S'offerse~ -- Scilicet quantum ad divinitatem que se obtulit.
+
+	|47.~  ^A Dio~ -- Zelo redemptionis humani generis ex caritate.  ^Ai 
+Iudei~ -- Zelo invidie, avaritie et livoris.
+
+	|48.~  ^Trem@o~ -- Terra tremuit et quievit.
+
+	|72.~  ^Nove~ -- Scilicet influentie celorum.
+
+	|83.~  ^Riempie~ -- Per satisfationem, quia non remictitur nisi 
+restituatur.
+
+	|106.~  ^Gradita~ -- Summa caritas et summa iustitia intervenit ne 
+dyabolus conqueri posset.
+
+	|129.~  ^Secure~ -- Dubitat qui sicut homo fuit restitutus ad salutem, 
+sic res reintegrari debuissent.
+
+	|132.~  ^Intero~ -- Respondet quod res corporales subiacent influentie 
+celorum et animales inrationales, sed anima hominis, que inmediate 
+spiratur a Deo, non inficitur ab influentia superiorum corporum et 
+elementorum.
+

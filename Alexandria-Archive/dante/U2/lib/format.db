@@ -1,0 +1,144 @@
+:VALID DANT XDDP NDDP
+\~
+\~	Print-time formatting for DANT
+\~
+:SET PAGECT=1
+:SET BUF0=COMM
+:SET BUF1=DTYP:1C "T"
+:SET BUF7=ATTR
+:IF BUF1 = "D"
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\nInformation about \o1#BUF0\f1\n
+:SET FMT=ON
+:SET INDENT=0
+|||||Author:
+:SET INDENT=14
+[AUTH]\n\n
+:SET INDENT=0
+|||Language:
+:SET INDENT=14
+[LANG]\n\n
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\nInformation about \o1#BUF0\f1 (cont.)\n
+:SET INDENT=0
+Publication:
+:SET INDENT=14
+:SET SUBNL=2
+[PUBL]\n\n
+:SET INDENT=0
+|||||Editor:
+:SET INDENT=14
+[EDTR]\n\n
+:IF DENT
+:SET INDENT=0
+|Data Entry:
+:SET INDENT=14
+[DENT]\n\n
+:ENDIF
+:IF LODD
+:SET INDENT=0
+||Load Date:
+:SET INDENT=14
+[LODD: DS]\n\n
+:ENDIF
+:IF ATTR
+:SET INDENT=0
+|Attributes:
+:SET INDENT=14
+[ATTR]\n\n
+:ENDIF
+:IF NOTE
+:SET INDENT=0
+||||||Notes:
+:SET INDENT=14
+[NOTE]
+:ENDIF
+:ENDIF
+\~
+\~	Formatting for Text documents
+\~
+:IF BUF1 = "T"
+:SET BUF2=CTCA: A3C 3C
+:SET BUF3=CNTO
+:SET BUF4=LINE
+:SET BUF5=ENDL
+:SET BUF6=PUBD
+:IF BUF4
+:IF BUF4 ! BUF5
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6), ^#BUF2~. #BUF3.#BUF4-#BUF5\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ELSE
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6), ^#BUF2~. #BUF3.#BUF4\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ENDIF
+:ELSE
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6), ^#BUF2~. #BUF3\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ENDIF
+:SET SUBNL=2
+:SET INDENT=0
+:IF BUF7 = "copyright"
+:SET FMT=ON
+[Copyrighted Material]|
+:ENDIF
+:IF BUF7 = "litterale"
+:SET FMT=ON
+[Esposizione Litterale]|
+:ENDIF
+:IF BUF7 = "allegorica"
+:SET FMT=ON
+[Esposizione Allegorica]|
+:ENDIF
+[TEXT]
+:ENDIF
+\~
+\~	Formatting for non-line-specific documents
+\~
+:IF BUF1 = "I"
+:SET BUF2=CTCA: A3C 3C
+:SET BUF3=CNTO
+:SET BUF6=PUBD
+:IF BUF2
+:IF BUF3
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6), ^#BUF2~. #BUF3. Nota.\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ELSE
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6), ^#BUF2~. Nota.\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ENDIF
+:ELSE
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+\o1#BUF0\f1 (#BUF6) Nota.\l50Doc #DOC of #RSLT, Screen#PAGE\n
+:ENDIF
+:SET SUBNL=2
+:SET INDENT=0
+:IF BUF7 = "copyright"
+:SET FMT=ON
+[Copyrighted Material]|
+:ENDIF
+:IF BUF7 = "litterale"
+:SET FMT=ON
+[Esposizione Litterale]|
+:ENDIF
+:IF BUF7 = "allegorica"
+:SET FMT=ON
+[Esposizione Allegorica]|
+:ENDIF
+[TEXT]
+[BTXT]
+:ENDIF
+\~
+\~	Formatting for The Poem
+\~
+:IF BUF1 = "P"
+:SET BUF2=CTCA: A3C 3C
+:SET BUF3=CNTO
+:SET BUF4=LINE
+:SET BUF5=ENDL
+:SET HEAD=\t\o4Dartmouth Dante Project\f4\n\n-
+Divina Commedia, ^#BUF2~. #BUF3.#BUF4-#BUF5\l65Doc #DOC of #RSLT\n\n
+:SET INDENT=6
+:SET FMT=OFF
+[TEXT]
+
+:SET INDENT=0
+[Copyrighted Edition]
+:ENDIF

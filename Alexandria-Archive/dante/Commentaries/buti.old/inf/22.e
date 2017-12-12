@@ -1,0 +1,721 @@
+	|Proemio.~  ^Io vidi gi@a cavalier~ ec.  In questo XXII
+canto l'autor nostro continua lo suo cammino trattando ancora della
+quinta bolgia; e dividesi principalmente in due parti, perch@e
+prima pone come seguitarono il loro cammino e lo strazio che fu
+fatto di uno peccatore che fu giunto da quelli demoni; nella
+seconda pone che fine ebbe il fatto di colui, et all'ultimo il loro
+dipartire dalla compagnia de' demoni, quivi: ^Lo Duca dunque~ ec.
+
+
+	|1-63.~  La prima parte si divide in sei parti, perch@e
+prima pone come li demoni si partirono, et ellino con loro: nella
+seconda pone il processo del loro cammino, e dimostra in che modo
+vedea de' peccatori, quivi: ^Noi andavam~ ec.; nella terza pone
+come uno peccatore rimaso alla riva fu tirato, e come fu concitato
+Rubicante contra lui, quivi: ^E come all'orlo~ ec.; nella quarta,
+come Dante priega Virgilio che sappi chi elli @e, quivi: ^Io
+sapea gi@a di tutti~ ec.; nella quinta, come Virgilio pregato
+da Dante domanda chi elli @e, e com'elli si manifesta, quivi: ^Lo
+Duca mio gli s'accost@o~ ec.; nella sesta, come fu straziato da'
+demoni, quivi: ^E Ciriatto, a cui~ ec.  Divisa la lezione, ora @e
+da vedere la sentenzia litterale.  Dice adunque cos@i:
+
+	Io Dante vidi gi@a cavalier muover campo e cominciar
+battaglia e far lor mostra, e tal volta ricogliersi per scampare;
+e vidi fare scorrerie per la terra vostra, o Aretini, e vidi
+andar gualdane e ferire in torneamenti e correre a giostre, quando
+con trombe e quando con campane, quando con tamburi e con cenni
+di castella; cio@e fuochi o fummi e con cose nostrali e con
+istrane: e mai non vidi muovere cavalieri e pedoni con s@i fatta
+ceramella, come quella con che si mossono li demoni, n@e mai vidi
+muover nave a segno di terra o di stella.  Noi andavamo Virgilio
+et io, dice Dante, coi dieci demoni: ahi fiera compagnia che
+quella era! ma nella chiesa conviene che l'uomo si truovi coi
+santi, et in taverna coi ghiottoni e nell'inferno coi demoni.  Io
+era pur inteso alla pegola, per vedere ogni contegno di quella
+bolgia e della gente che v'era incesa dentro.  E fa una
+similitudine che, come li dalfini quando fanno cenno ai
+marinari con l'arco della schiena, che s'argomentino di campar
+lor legno alla fortuna che viene; cos@i tal volta alcuno di
+quelli peccatori mostrava il dosso, per alleggerire la pena, et
+appiattavasi in meno che uno baleno: e come stanno li ranocchi
+all'orlo di uno fosso col muso fuori e tutto l'altro tengono
+nell'acqua; cos@i stavano d'ogni parte i peccatori: ma quando
+s'appressava Barbariccia con la sua brigata, si ritraevano sotto
+i bollori.  E dice ch'elli vide, et ancora ne li viene
+raccapriccio, uno aspettare come addiviene alcuna volta che
+alcuno ranocchio rimane alla riva e li altri saltano alla riva, o
+vero nell'acqua; et allora Graffiacane, che gli era pi@u
+d'incontro che gli altri, lo prese col ronciglio per le chiome
+impegolate delli capelli, e tirollo su che parve una lontra.  E
+dice Dante ch'elli sapea gi@a il nome de tutti li demoni: s@i
+li not@o quando furono eletti, et ancor quando si chiamavano
+attendea come; sicch@e vidi gridare a tutti quelli maladetti:
+O Rubicante, fa che tu metta li unghioni a dosso a costui s@i,
+che tu lo scuoi.  Et allora disse Dante a Virgilio: O Maestro
+mio, fa fa, se puoi, che tu sappi chi @e lo sciagurato venuto a
+man de' nimici suoi.  Allora Virgilio li s'accost@o al lato e
+domandollo onde elli era; e quelli rispuose: Io fui nato del
+regno di Navarra e fui figliuolo d'una gran donna che mi gener@o
+d'uno ribaldo distruggitor di s@e e di sue cose; ond'ella mi pose
+servo d'uno signore e poi divenni famiglio del buon re Tebaldo; e
+quivi mi misi a far baratteria, della quale rendo ragione in
+questo caldo.  Detto questo, Ciriatto a cui usciva di bocca da
+ogni lato, come a porco, una sanna, li fe sentire come l'una
+sdrucia: lo sorco era venuto tra mille gatte; ma Barbariccia
+il chiuse con le braccia e disse alli altri: State in l@a mentre
+io lo inforco; e volse la faccia in verso Virgilio e dissegli:
+Domanda ancora, se pi@u desideri di sapere da lui, prima ch'altri
+lo disfaccia, come aviamo cominciato.  E qui finisce la sentenzia
+litterale di questa lezione: ora @e da vedere il testo con
+l'esposizioni.
+
+	|1-12.~  In questi quattro ternari
+l'autor nostro, ammirandosi della mossa di Barbariccia con la sua
+decina, che fu fatta come detto @e di sopra, dice che fu diversa
+da tutte le mosse del mondo, e per@o dice: ^Io~; cio@e Dante,
+^vidi gi@a cavalier muover campo~; cio@e stazione, che @e usanza,
+quando si muovono e levansi da campo, che parte dell'esercito fa
+la guardia e li altri fanno le some, e raccolta la salmeria, la
+mettono in mezzo e prendono cammino con suoni di tamburelli, di
+corni, di nacchere, di trombe, trombette e cennamelle; e
+cos@i quando si pongono e s'accampano, sempre fanno la guardia,
+che se fossono assaliti sia chi li difenda: e per questo mostra
+che gi@a sia stato nelli eserciti, e ch'elli sia stato uomo
+pratico d'ogni cosa.  ^E cominciare stormo~; cio@e romore
+battaglieri @o veduto gi@a io Dante, ^e far lor mostra~; delli
+cavalieri, ^E tal volta partir~; del campo e raccogliersi, ^per
+loro scampo~; cio@e per loro scampamento, ^Corritor vidi~; io
+Dante, ^per la terra vostra~; cio@e scorrere, ^O Aretini~; cio@e,
+o cittadini d'Arezzo.  E questo dice: imper@o che, quando li
+ghibellini furono cacciati di Fiorenza, se n'andarono ad Arezzo e
+corsono la terra e cacciarono fuori i guelfi, et allora vi si
+ritrov@o, come a uomo a cui non piacea il reggimento
+de' guelfi, bench@e fosse guelfo esso Dante, s@i che ben li vide.
+^e vidi gir gualdane~; cio@e cavalcate le quali si fanno alcuna
+volta in sul terreno de' nimici a rubare et ardere e pigliar
+prigioni, nelli quali forse che alcuna volta si trov@o l'autore;
+e per@o ben dice che vide.  ^Ferir torniamenti~; torniamenti si
+faceano, quando si convenivano volentorosamente li cavalieri a
+combattere dentro ad uno palancato, fatto a modo di steccato, per
+acquistare onore, nel quale torniamento l'uno ferisce l'altro a
+fine di morte, se non si chiama vinto; e questo ancora vide
+l'autore nostro.  ^e correr giostra~; giostra @e quando l'uno
+cavaliere viene contra l'altro, o ver corre, con l'asti
+broccate col ferro di tre punte, ove non si cerca vittoria se non
+dello scavallare l'uno l'altro; et in questo @e differente dal
+torniamento, ove si combatte a fine di morte molti insieme contra
+molti insieme; e queste cose vide tutte fare l'autore.  ^Quando
+con trombe e quando con campane, Con tamburi~; cio@e tamburelli e
+nacchere, ^e con cenni di castella~; cio@e fummi, se @e di di'; o
+con fuochi, se @e di notte, ^O con cose nostrali o con istrane~;
+cio@e o con altri segni usati da noi, o strani da noi: ^N@e gi@a
+con s@i diversa cennamella~; come fu quella di Barbariccia, che
+fu naturale sonata di sotto con lo strumento naturale.  La
+cennamella @e uno istrumento artificiale musico che si suona
+con la bocca di sopra s@i, che ben fu diversa da questa quella di
+Barbariccia, ^Cavalier vidi muover, n@e pedoni, N@e nave a segno
+di terra o di stella~; di marinai.  Li marinai quando navicano,
+seguitano due segni; l'uno si @e la terra quando la possono
+vedere: imper@o che vanno al segno del monte che veggono da
+lungi, e questi cotali monti chiamano li poeti promuntoria,
+come da Pisa la Verruca; e quando sono in mare che non possono
+vedere la terra, navicano al segno della tramontana, le quali
+non vide mai Dante muover con s@i fatta cennamella, come quella
+di Barbariccia.
+
+	|13-24.~  In questi quattro ternari
+l'autor nostro finge il processo del cammin suo, e quel che vide
+nella quinta bolgia andando coi detti demoni, e dice cos@i:
+^Noi~; cio@e Virgilio et io Dante, ^andavam con li dieci demoni~;
+detti di sopra, ^Ahi fiera compagnia!~  Questo ^ahi~ @e
+intergezione che significa ammirazione, e ^fiera compagnia~
+viene appositive ai dieci demoni ^ma nella chiesa Coi santi,
+et in taverna coi ghiottoni~; per questo risponde all'obiezione
+che si potrebbe fare; cio@e: S'ella ti parea fiera compagnia,
+perch@e l'accettasti?  Dicendo io non potea fare altro ch'io era
+nell'inferno s@i, ch'io non potea avere altra compagnia che di
+demoni, come chi @e nella chiesa si truova coi santi, e chi @e
+nella taverna si truova co' ghiottoni; e cos@i chi @e
+nell'inferno si truova coi demoni e co' pessimi.  Et @e qui
+notabile che l'uomo d@e fuggire i tristi luoghi e disonesti, se
+non si vuol trovare co' tristi e disonesti uomini.  E continua la
+sua intenzione, dicendo: ^Pur alla pegola era la mia intesa~;
+cio@e lo mio intendimento, ^Per veder della bolgia ogni
+contegno~; cio@e ogni contenimento, ^E della gente ch'entro
+v'era incesa~; cio@e alcuno della gente che in essa s'incendea.
+^Come i dalfini~; questi sono pesci grandi in mare, ^quando fanno
+segno A' marinar con l'arco della schiena~; mostrandosi fuor
+dell'acqua, ^Che s'argomentin di campar lor legno~; qui fa una
+similitudine che, come i dalfini fanno segno a' marinari della
+fortuna che d@e venire, mostrandosi loro a galla: per@o che
+la senton venire infin dal fondo, e per fuggirla si fanno in su,
+li marinai vedendoli pronosticano: Fortuna sar@a tosto, e
+ricoverano pi@u tosto che possono ai porti; e cos@i faceano
+quelli peccatori, che si mostravano con la schiena un poco fuori,
+per isventarsi, e subitamente ritornavano per paura delli
+Malebranche; e per@o dice: ^Talor cos@i~: cio@e come detto @e de'
+dalfini, ^ad alleggiar la pena~; che aveano, ^Mostrava alcun de'
+peccatori il dosso, E nascondeva in men che non balena~: cio@e
+che non appare e spare lo baleno, che subitamente s'accende e
+subitamente si spegne, perch@e @e ver vapore umido che monta
+suso; e perch@e @a poco d'umidit@a, per@o tosto s'accende e
+tosto si spegne come veggiamo alcuna volta, gittando poco d'acqua
+in sul fuoco, subito s'accende e subito si spegne.
+
+	|25-36.~  In questi quattro ternari l'autor
+nostro finge come vide di quelli peccatori, ponendo prima una
+similitudine per dimostrare come fu possibile ch'elli ne
+vedesse, dicendo cos@i: ^E come all'orlo dell'acqua d'un fosso
+Stanno i ranocchi col muso di fuori, Sicch@e celano i piedi e
+l'altro grosso~; del corpo: questo @e manifesto; ^S@i stavan
+d'ogni parte i peccatori~; per questo modo col capo fuori della
+pegola, da ogni riva dall'un lato e dall'altro.  ^Ma come
+s'appressava Barbariccia~; ch'era lo decurio delli dieci demoni,
+e per lui s'intendono li altri, ^Cosi@ si ritraen sotto i
+bollori~; della pegola per paura de' dimoni.  Et aggiugne lo
+strazio che vide fare d'uno che non fuggie, dicendo: ^Io~;
+Dante, ^vidi, et anco il cor me n'accapriccia~; cio@e la
+memoria me ne spaventa: lo cuore si piglia qui per la memoria;
+capriccio significa paura, e per@o capricciare o vuogli
+raccapricciare; cio@e spaurire, ^Uno aspettar~; di quelli ch'eran
+col capo di fuori, ^cos@i, com'elli incontra~; cio@e addiviene;
+e seguita la similitudine presa: ^Ch'una rana rimane~; fuor
+dell'acqua e non fugge, ^e l'altra spiccia~; cio@e salta sotto
+l'acqua.  ^E Graffiacan~; ch'era uno de' X demoni, ^che li era pi@u
+d'incontra~; che li altri nove demoni a quello misero peccatore,
+^Gli arroncigli@o~; cio@e col ronciglio prese, ^le impegolate
+chiome~: chioma @e la capellatura che pende dalle spalle; e dice
+^impegolate~, perch'era stato sotto la pegola.  E per fare
+verisimile che potesse tirare che i capelli reggessono, dice: ^E~
+^trassel su~; della pegola, ^che mi parve una lontra~; lontra @e
+uno animale che @e vago de' pesci, del quale fu detto di sopra
+cap. XVII.  Et @e qui da notare che questo testo appruova quel
+che @e detto di sopra, cap. XXI; cio@e che Graffiacane
+significava lo disfacimento de' vivi nel mondo, per la figura
+ch'elli @a di gatta che graffia con li artigli, che significano qui
+le parole; e cos@i fa la infamia.  E qui dimostra l'autore ch'elli
+volle significare questo, in quanto finge che Graffiacane
+trasse fuor della pegola questo peccatore, che allegoricamente
+significa diffamarlo e publicarlo: per@o che di sopra fu detto
+che la pegola significava occultazione, onde elli disse nel testo
+cap. XXI prima cantica: ^Disser: Coverto convien che qui balli,
+S@i che, se puoi, nascosamente accaffi.~  E litteralmente finge
+l'autore che questo risponda di l@a in pena; cio@e stare sotto
+la pegola bogliente et esserne cavato venga a strazio e derisione
+ai demoni, come colui, che publicato nel mondo, viene in
+derisione e strazio alli uomini del mondo, ch'ognuno lo strazia
+e deride e schernisce.  E finge l'autore che costui rimanesse
+alla riva e fosse tratto fuori, o vero su, perch@e fu diffamato
+moccobellatore o barattiere; e poi soggiugne com'elli seppe che
+fu Graffiacane, et occultamente manifesta la cagione, perch'elli
+@a cos@i nominato questi demoni per li effetti loro, e quello che
+per questo @a voluto intendere.
+
+	|37-45.~  In questi tre ternari l'autor
+nostro finge onde era la cagione, perch'elli sapea i nomi de'
+demoni; e com'elli priega Virgilio che sappi chi @e lo sciagurato
+venuto alle mani delli demoni, dicendo: ^Io~; cio@e Dante, ^sapea
+gi@a di tutti quanti~; quelli demoni, ^il nome~; e per@o non ti
+maravigliare, se io li nomino: ^S@i li notai, quando furon
+eletti~; ecco che dimostra che studiosamente li nominasse cos@i,
+e non per fortuna, ^E poi che si chiamaro~; l'uno l'altro,
+^attesi come~; cio@e si chiamarono; et aggiugne uno de'
+chiamamenti: ^O Rubicante~; questo @e il nome di quell'altro
+demonio del quale fu detto di sopra, che significa ostinato
+furore al quale vengono i barattieri che sono nel mondo, quando
+usano la baratteria publicamente contra ciascuno, facendo il
+peggio che possono, e levando infino alla pelle il pi@u che
+possono, et ancora la pelle quando si sottomettono l'uomo.  E
+litteralmente vuole l'autore che risponda di l@a in pena debita,
+ch'elli sieno scoiati dal detto dimonio.  ^fa che tu li metti Gli
+unghioni a dosso s@i che tu lo scuoi~; a ci@o che li risponda
+debita pena e pari al peccato che @a usato nel mondo.  E questo
+finge, perch@e tutti li gradi precedenti inducono questo ultimo;
+e per@o finge che tutti gridano, e per@o dice: ^Gridavan tutti
+insieme i maladetti~; cio@e quelli altri dimoni.  Et aggiugne
+come elli preg@o Virgilio che sapesse chi elli era, dicendo: ^Et
+io~; cio@e Dante a Virgilio dissi: ^Maestro mio, fa, se tu puoi,
+Che tu sappi chi @e lo sciagurato Venuto a man delli avversari
+suoi~; cio@e delli demoni detti di sopra.
+
+	|46-54.~  In questi tre ternari l'autor
+nostro finge come quel peccatore domandato da Virgilio, per suo
+impronto si manifesta chi elli @e, dicendo: ^Lo Duca mio~; cio@e
+Virgilio, ^gli s'accost@o al lato~; a quello sciagurato,
+^Domandollo~; Virgilio, ^onde fosse, e quei~; cio@e
+l'addomandato, ^rispuose: Io fui del regno di Navarra nato~; e
+per@o @e qui da sapere che Dante finge che costui fosse uno
+ch'ebbe nome Giampolo, e fu figliuolo d'una gentil donna di
+Navarra e d'un padre che fu cattivo uomo, ^Distruggitor di s@e,
+e di sue cose.~  Questo suo padre, come dice lo testo, fu uno
+ribaldo e per le sue ribalderie fu morto, e per@o dice lo testo:
+^Distruggitor di s@e~; et innanzi che morisse ribaldeggi@o e
+destrusse il suo, e per@o disse: ^e di sue cose~; onde morto il
+padre, la madre per necessit@a, ch'era venuto meno la roba per
+lo cattivo padre, quando fu grandicello lo pose per servo d'uno
+barone del re Tebaldo ch'era re di Navarra.  Et in processo di
+tempo costui cresciuto divenne famiglio del re, e seppe s@i fare
+che tutti i fatti del re andavano per sue mani e tutta la corte:
+imper@o ch'elli fu saputo uomo, secondo il mondo.  E quando fu
+venuto in questa grandezza, elli si diede a far baratteria,
+vendendo le grazie e li offici et ogni cosa che poteva: e per@o
+lo pone condannato in questo luogo, e per@o dice: ^Mia madre a
+servo d'un signor mi pose~; ecco la cagione: ^Ch@e m'avea
+generato d'un ribaldo~: ribaldo tanto @e a dire, quanto rio
+baldo; cio@e ardito, rio uomo, e non si dee intendere per@o che
+fosse nato, se non legittimamente: per@o che delle grandi donne
+alcuna volta si maritano ai tristi uomini.  ^Distruggitor di s@e,
+e di sue cose~; ecco che appruova che fosse ribaldo, che tenne
+tal vita che fu cagione della destruzione della persona sua e
+delle sua facult@a.  ^Poi~; cio@e poi ch'io fui servo di quel
+signore, ^fui famiglio del buon re Tebaldo~; che fu buono,
+secondo la fama che di lui @e ancora: imper@o che intra l'altre
+virt@u ch'ebbe, fu onestissimo, intanto che mai non dorm@i con
+la sua reina, se non vestito, s@i che mai non vide le parti
+disoneste l'uno dell'altro: o puossi intendere che fosse buono
+non solamente a s@e nella sua onest@a; ma ad ognuno: imper@o che
+sanza grande eccellenzia non avrebbe detto l'autore: ^del buon re
+Tebaldo: Quivi~; cio@e nella sua corte, ^mi misi a far
+baratteria~, cio@e a vendere le grazie e li offici, ^Di che~;
+cio@e della qual baratteria, ^io rendo ragione in questo caldo~;
+cio@e in questa pegola bogliente, nella quale io sono punito
+della mia baratteria.
+
+	|55-63.~  In questi tre ternari l'autor
+nostro dimostra lo strazio, che finge esser fatto di questo
+Giampolo, dicendo: ^E Ciriatto~; ecco l'altro demonio ch'avea
+figura di porco, e per@o dice: ^a cui di bocca uscia D'ogni parte
+una sanna, come a porco~: imper@o che sua similitudine avea, ^Gli
+fe sentir~; a Giampolo, ^come l'una sdrucia~; imper@o che l'una
+lo percosse e ferillo.  E qui si verifica quello che fu detto
+di sopra nell'altro canto precedente, che Ciriatto significa
+l'offensione che fanno li barattieri nel mondo inverso il
+prossimo; e litteralmente dimostra che risponda loro simile pena
+nello inferno; cio@e com'elli @anno offeso, cos@i sieno offesi.
+E perch@e costui avea offeso pur in uno modo, per@o finge che il
+ferisse pur coll'una, et aggiugne poi una transunzione, dicendo:
+^Tra male gatte~; cio@e tra Malebranche, ^era venuto il sorco~;
+cio@e il topo; cio@e il misero peccatore ch'era cos@i tra loro,
+come il topo tra le gatte; ^Ma Barbariccia il chiuse con le
+braccia~; cio@e l'abbracci@o e ricevettelo frodolentemente; e
+per@o seguita: ^E disse~; alli altri, cio@e demoni: ^State in
+l@a~; voi altri, ^mentr'io~; cio@e Barbariccia, ^lo inforco~;
+cio@e mentr'io l'afferro con le braccia, o vero col forcone del
+ferro ch'avea in mano.  E qui si verifica quel che fu detto di
+sopra; cio@e che Barbariccia figurava la fraudulenta asconsione:
+imper@o che frodolentemente l'appiatta alli altri, mostrandosi di
+doverlo inforcare; et elli fece per appiattarlo alli altri, e poi
+ch'ebbe abbracciato, ^volse la faccia~; a Virgilio, e per@o
+dice: ^Et al Maestro mio~; cio@e a Virgilio, ^volse~;
+Barbariccia, ^la faccia: Domandal, disse~; Barbariccia a Virgilio,
+^ancor, se pi@u disii~; cio@e desideri, ^Saper da lui, prima
+ch'altri il disfaccia~; e per questo si mostra che l'appiattasse,
+abbracciandolo con intenzione che rispondesse a Virgilio.  E
+questo volle dimostrare l'autore quello che intendeva per
+Barbariccia; cio@e fraudolente asconsione; e se altri opponesse:
+Elli non fu disfatto poi; rispondesi: Elli seppe s@i fare che
+elli fugg@i, come apparir@a di sotto nel testo.  E qui finisce la
+prima lezione, seguita la seconda.
+
+	|64-151.~  ^Lo Duca adunque~ ec.  Poich@e il nostro autore
+@a detto lo loro cammino e come fu giunto quel peccatore da'
+demoni, ora dimostra che fine ebbe il suo parlare e come si
+partirono dai demoni; e dividesi questa lezione in sette parti,
+perch@e si pone come Virgilio domanda e lo Navarrese risponde, e
+come uno demonio li fece mal giuoco; nella seconda, come Virgilio
+lo domanda ancora da capo, et elli ancor risponde, quivi:
+^Quand'elli un poco~ ec.; nella terza, com'elli si scusa di dire
+pi@u e truova malizia per partirsi, quivi: ^O me!  vedete~ ec.;
+nella quarta, come Cagnazzo uno de' dimoni scuopre la malizia, e
+com'elli risponde et un altro demonio fa beffe di lui, quivi:
+^Cagnazzo a cotal motto~ ec.; nella quinta pone lo scampamento
+del Navarrese, e come uno de' dimoni li si gitt@o dietro per
+pigliarlo; ma pur scamp@o, quivi: ^O tu, che leggi~ ec.; nella
+sesta, come li demoni feciono zuffa insieme, crucciati della
+beffa, quivi: ^Irato Calcabrina~ ec.; nella settima, come li
+demoni caduti nella pegola, dai compagni furono presi, e come
+Virgilio e Dante si partirono da loro, quivi: ^Barbariccia con li
+altri~ ec.  Divisa adunque la lezione, ora @e da vedere la
+sentenzia litterale, la quale @e questa.
+
+	Poich@e Barbariccia disse a Virgilio, come detto fu di
+sopra, Virgilio disse al Navarrese: Or d@i, conosci tu alcuno
+delli altri rii sotto la pece che sia latino?  Et elli rispose: Io
+mi parti', poco @e, da uno che fu vicino di l@a nel mondo ai
+latini: cos@i foss'io lui, ch'io non temerei unghia, n@e
+uncino di questi dimoni.  Et allora quel dimonio che @e chiamato
+Libicocco disse: Troppo aviam sofferto, e prese il braccio col
+ronciglio e stracciatolo, ne port@o uno lacerto.  E Draghignazzo
+ancor li volle dar di piglio giuso alle gambe, onde il decurio
+loro si volse tutto presto intorno con mal piglio; e quando
+que' dimoni furono un poco rappacificati, Virgilio domand@o colui
+che ancora riguardava le sue ferite: D@i, chi @e colui dal quale
+tu d@i che mal ti partisti?  Allora colui rispose: Fu frate Gomita
+di Gallura, vasel d'ogni froda, ch'ebbe l'inimici del suo signore
+in sua bal@ia e lasciolli andar via per danari: e nelli altri
+offici ancor fu barattieri non piccolo; ma sovrano.  Et aggiugne
+che con esso @e donno Michel Zanche, e parlano de' fatti di
+Sardigna e di ci@o non si stancano; et aggiugne: Om@e vedete
+l'altro dimonio che digrigna!  Io direi anche; ma io temo ch'elli
+s'apparecchi a grattarmi la tigna.  Et allora Barbariccia volto a
+Farferello che stralunava li occhi per ferire, disse: Fatti in
+cost@a, malvagio uccello; e quello Navarrese incominci@o allora a
+dire: Se voi volete, o Toscani, o Lombardi, io ne far@o venire
+per uno ch'io sono, sette, stando in questo luogo; ma stieno le
+male branche un poco da cesso s@i, che non abbino paura delle
+loro minaccie e vendette, ch'io fischier@o come @e nostro uso di
+fare, allora ch'alcun si mette fuori.  Allora Cagnazzo lev@o il
+muso a quello motto, e disse: Odi malizia ch'elli @a pensata per
+gittarsi giuso!  E quello Navarrese ch'avea lacciuoli a gran
+dovizia rispuose: Io sono troppo malizioso, quando desidero a'
+miei maggiore tristizia.  Et Alichino a questo non s'attenne; ma
+innanzi alli altri disse a lui: Se tu ti cali, io non ti verr@o
+di rietro gualoppando; ma batter@o l'alie sopra la pegola:
+abbandonisi questo colle e sia la ripa scudo, a vedere se tu solo
+vali pi@u di noi.  Et aggiugne l'autore attenzione al lettore,
+dicendo: O tu, che leggi, udirai nuovo giuoco.  Ciascuno di
+quelli demoni si volse dall'altra parte, e quel fu il primo che
+si mostrava pi@u aspro.  Et allora quello Navarrese, veduto il
+tempo, ferm@o le piante a terra, et allora salt@o e levossi
+dinanzi dal proposito nostro, o vero loro; per la qual cosa
+ciascuno si reput@o colpelvole; ma pi@u quello che fu cagione del
+difetto, e per@o elli si mosse e tenneli dietro e grido: Tu se'
+giunto; ma poco li valse, che l'alie non poterono avanzare il
+sospetto: quel peccatore and@o sotto, e il dimonio dirizz@o
+volando suso il petto.  E fa una similitudine che, non altrimenti
+l'anitra di subito, quando il falcone s'approssima, s'attuffa
+giuso sotto l'acqua, et elli ritorna su crucciato e rotto.
+Allora Calcabrina crucciato della beffa li tenne dietro volando,
+invaghito che il peccatore campasse per aver la zuffa col suo
+compagno; cio@e con Alichino.  E come fu sparito lo
+barattieri, cos@i volse li artigli al suo compagno Alichino; e
+quelli fu bene sparvier grifagno ad inghermir ben lui, e
+cos@i ghermiti amendui caddono nella pegola bogliente; ma il
+caldo li fe subito schermire; ma non si poteano per@o levare:
+s@i aveano inveschiate l'alie.  Allora Barbariccia dolente con li
+altri suoi ne fece volar quattro dall'altra costa, e con tutti i
+raffi, et assai prestamente discesono di qua e di l@a alla posta;
+e porsono li uncini in verso l'impaniati, ch'erano gi@a cotti
+dentro dalla costa; e cos@i Virgilio e Dante li lasciarono
+impacciati et andarono alla loro via.  E qui finisce la sentenzia
+litterale: ora @e da vedere il testo con le allegorie e
+moralitadi.
+
+	|64-75.~  In questi quattro ternari
+l'autor nostro finge come Virgilio mosso per quello ch'aveva
+detto Barbiriccia, domand@o ancora lo Navarrese, dicendo cos@i:
+^Lo Duca~; cio@e Virgilio che mi guidava ^dunque~: cio@e per@o
+che Barbariccia @e contento ch'io domandi: ^Or d@i, delli altri
+rii~; cio@e peccatori, ^Conosci tu alcun, che sia Latino~;
+cio@e italiano, ^Sotto la pece~; cio@e sotto la pegola?  ^E
+quelli~; cio@e lo Navarrese, rispuose a Virgilio: ^Io mi partii,
+Poco @e, da un che fu di l@a~; cio@e nel mondo, ^vicino~;
+dell'Italia, s'intende, ^Cos@i foss'io con lui ancor coperto~;
+cio@e sotto la pegola, ^Che io non temerei unghia, n@e uncino~;
+di questi dimoni com'io ora temo; e per questo appare che
+quelli demoni aveano le mani unghiate et aveano li raffi: chi
+fosse colui lo dir@a immantinente.  ^E Libicocco: Troppo avem
+sofferto, Disse~; allora, ^e preseli il braccio col ronciglio~;
+che avea in mano, ^S@i che, stracciando, ne port@o un
+lacerto~; cio@e un braccio.  E questo finge l'autore, secondo la
+lettera, per mostrare che fosse conveniente pena a tal peccato:
+imper@o che chi lascia impedire l'opera della giustizia per lo
+ricevimento del pregio, perda il braccio che significa la potenza
+dell'opera.  E qui si verifica quella allegoria che fu detta di
+sopra cap. XXI, che Libicocco s'intendeva l'occupazione
+dell'opera: imper@o che col dono si toglie al giudice, quando lo
+riceve, l'opera della giustizia.  E per@o dice che li prese il
+braccio col ronciglio, e per lo braccio s'intende la potenzia
+dell'opera, la quale @e occupata quando lo dono e il pregio @e
+ricevuto; e dice che stracciando, ne port@o un lacerto: lacerto
+@e propriamente congiunzione di pi@u capi di nervi insieme, et @e
+in alcune parti del braccio; ma comunemente s'intende per la
+parte di sopra del braccio; e notantemente dice che ne port@o
+uno, perch@e il dimonio induce ad alcuno atto singulare lo
+barattiere, nel quale li toglie, quando li fa pigliar lo dono, la
+potenzia d'operarvi giustamente.  Et aggiugne: ^Draghignazzo~;
+cio@e quell'altro demonio, ^anche i volle dar di piglio Giuso
+alle gambe~; del detto Navarrese; ^onde il decurio loro~; cio@e
+Barbariccia, e chiamasi ^decurio~ da dieci e cura, perch'era
+capitano e cura di dieci; cio@e capodieci, come centurio capo di
+cento, ^Si volse intorno intorno~; a tutti li demoni, ^con mal
+piglio~; cio@e con mal volto, per farli stare ch'elli potesse
+rispondere a Virgilio: et ancora qui significa quel che fu
+detto di sopra cap. XXI, che Draghignazzo significava
+implicazione e scongiugnimento d'affezione; e questo appare
+in quanto dice, che ancor volle dare di piglio giuso alle gambe.
+Le gambe e li piedi significano l'affezioni umane, e notabilmente
+pone che volesse; ma nol fece per@o, a denotare che non sempre
+nella baratteria @e legata l'affezione: imper@o che alcuna volta
+il barattieri desidera di fare il contrario, e per avarizia fa
+che non dee; ma Libicocco ne port@o pure uno lacerto: imper@o che
+non n'@e mai che, se il barattier piglia il premio, che
+l'opera della giustizia non sia impedita.  E cos@i Ciriatto lo
+percosse: imper@o che il barattiere sempre offende il prossinio o
+la giustizia, altrimenti non sarebbe barattiere.  E litteralmente
+debita pena @e l'afferramento e stracciamento delle gambe a chi
+@a avuto legata la sua affezione a mal fare.
+
+	|76-90.~  In questi cinque ternari l'autor
+nostro dimostra, come Virgilio domand@o ancora a questo Navarrese
+di quelli di sotto la pegola, dicendo: ^Quand'elli~; cio@e li
+detti dimoni, ^un poco rappaciati fuoro~; cio@e dell'ira
+ch'aveano presa contra lo misero peccatore, ^A lui~; cio@e al
+Navarrese, ^che ancor mirava sua ferita~; che avea ricevuta nel
+braccio, ^Dimand@o il Duca mio~; cio@e Virgilio, ^sanza~
+^dimoro~; cio@e sanza indugio: ^Chi fu colui, da cui mala partita
+D@i che facesti?~  imper@o che mal s'era partito a suo uopo,
+^per venire a proda~; cio@e per venire alla ripa?  ^Et ei~;
+cio@e lo Navarrese, ^rispuose~; a Virgilio: ^Fu frate Gomita~; e
+poi ch'@a detto lo propio nome, dice l'origine e il vizio, ^Quel
+di Gallura.~  Gallura @e chiamato uno de' giudicati di Sardigna.
+^vasel d'ogni froda~; cio@e contenimento d'ogni inganno, ^Ch'ebbe
+i nimici di suo donno in mano~; cio@e di suo signore; parla
+l'autore a modo sardesco, in sua potenzia, ^E fe s@i lor che~
+^ciascun se ne loda~; di quelli nimici del suo signor; et
+aggiugne come, dicendo: ^Denar si tolse~; cio@e frate Gomita, ^e
+lasciolli di piano~; cio@e liberamente, sanza impedimento, ^S@i
+com'el dice~; cio@e frate Gomita, ^e nell'altri offici anche
+Barattier fu non picciol, ma sovrano~; cio@e grande.  Et @e qui
+da sapere che l'isola di Sardigna anticamente fu dell'infedeli e
+fu acquistata per li Pisani e per li Genovesi nelli anni domini
+MXVI e ridotta alla fede catolica, e nel MXVII fu racquistata dal
+re Musetto e da' Saracini; e quel medesimo anno ancora da' Pisani
+e da' Genovesi racquistata, et ordinati furono in essa quattro
+giudicati; cio@e quel di Gallura e quello d'Alborea e quello
+di Logodoro, o vero delle torri, e quello di Calleri.  Et in
+ciascuno di questi era uno signore e governatore che si chiamava
+giudice, e cos@i v'@e ancora quel d'Alborea, li altri paiono
+venuti meno; e sotto lo giudice di Gallura, lo nome del quale non
+@o trovato, fu uno uficiale che si chiam@o frate Gomita che fu
+pieno di tutte le spezie delle frode, et a costui vennono in mano
+li nimici del suo signore giudice; il modo come non @o trovato, e
+per danari li lasci@o andar via, et ancora nelli offici commise
+assai baratterie.  Et aggiugne poi: ^Usa con esso~; cio@e con
+frate Gomita, ^donno Michel Zanche~; donni si chiamano in
+Sardigna li signori, e per@o disse di sopra: ^di suo donno in
+mano~  -- ^Di Logodoro~; o vero torri: @e il nome del terzo
+giudicato di Sardigna.  Et @e qui da sapere che lo imperadore
+Federigo secondo puose nel giudicato di Logodoro, o vero delle
+torri, uno suo figliuolo naturale ch'ebbe nome Enzio, del
+quale fu siniscalco questo Michele Zanche, del quale dice
+l'autore.  Et avvenne caso che questo Enzio usc@i dell'isola e
+mor@i a Bologna in prigione; et allora questo Michele ordin@o con
+suoi inganni e con danari di prendere per moglie la madre del suo
+signore, che era rimasa donna del giudicato, et a questo modo
+divenne signore.  Et imparentossi poi con messer Branca Doria o
+vero che li desse una sua figliuola per moglie al detto messer
+Branca, o vero ch'elli ricevesse la sirocchia del detto
+messer Branca; e poi questo messer Branca lo tradie, come appare
+nel penultimo canto di questa cantica.  E perch@e questo donno
+Michele Zanche us@o baratteria ad acquistare la signoria, per@o
+lo mette in questo luogo, et aggiugne: ^et a dir di Sardigna~;
+questo @e il nome, e dicesi essere stata nominata cos@i da uno
+figliuolo d'Ercole, ch'ebbe nome Sardo che passando in Affrica,
+fece residenzia alcun tempo in quella isola, ^Le lingue lor~;
+cio@e di frate Gomita e di Michele Zanche, ^non si sentono
+stanche~; a dir di Sardigna.  E puossi intendere qui ch'elli
+diceano delle baratterie ch'aveano fatte in Sardigna, o vero
+delle condizioni dell'isola, e per questo si pu@o intendere che i
+Sardi sono grandi parlatori.
+
+	|91-105.~  In questi cinque ternari
+l'autor nostro dimostra l'uficio e l'operazione di Farferello,
+del quale fu detto di sopra cap. XXI, che significa la
+mutescenzia alla quale viene il barattiere, quando @e scoperta la
+sua baratteria, e cos@i si conferma in quanto l'autor lo induce
+che digrignava e stralunava li occhi; ma non parlava e per@o
+dice: ^O me!~ dice lo Navarrese, et @e qui intergezione che
+significa paura, ^vedete~; dice Virgilio e Dante, ^l'altro~;
+cio@e dimonio, ^che digrigna~; cio@e apre la bocca in traverso
+storcendola: ^Io direi anco~; di quel che volete udire; ^ma io
+temo ch'ello Non s'apparecchi a grattarmi la tigna~; e parla
+qui secondo l'usanza de' volgari, dicendo che teme che non, che
+veramente temea del s@i, e non del no; e parla transuntivamente e
+figuratamente; cio@e: Io @o paura ch'elli s'apparecchi ad
+aggiugnere male a male; cio@e aggiugnere male alli altri mali
+ch'io @o ricevuti, come fa colui che gratta la tigna che la fa
+crescere.  ^E il gran proposto~; cio@e Barbariccia: proposto @e
+nome d'oficiale e significa maggioria, ^volto a Farferello~;
+cio@e a quel dimonio ch'avea cos@i nominato l'autore, ^Che
+stralunava li occhi per ferire~; come fa spesse volte chi @a
+mala intenzione, ^Disse: Fatti in cost@a, malvagio uccello~;
+tutti li dimoni si possono chiamare uccello, perch@e sono alati.
+E che l'autor finga che alcun dimonio tocchi costui et alcun no,
+e che il capitano lo difenda artificiosamente, @a fatto a
+dimostrare quali gradi della baratteria sono quelli che dannano
+l'anima alla dannazione eterna, e quali no; e perch@e la
+mutescenzia non @e sempre nella baratteria, per@o finge che nol
+toccasse; ma quelli che il toccano sono quelli, sanza i quali non
+si pu@o commettere baratteria e non pu@o seguire la dannazione
+eterna.  E per@o @a detto che Graffiacane lo tirasse su, non
+perch@e non possa essere la baratteria sanza l'infamia e
+publicazione; ma perch@e costui, del quale si tratta qui, era
+diffamato e publicato per lui: per@o che ne facea menzione in
+questo libro.  Appresso finge che tutti i demoni gridano a
+Rubicante che lo scuoi: per@o che sanza l'ostinazione non pu@o
+essere il peccator dannato; la quale ostinazione @e significata
+per Rubicante, che significa la finale impenitenzia; appresso
+pone che Ciriatto lo ferisca con l'una delle sanne: per@o che
+sanza l'offensione del prossimo non si commette la baratteria; e
+cos@i che Libicocco ne porti uno lacerto: per@o che sanza
+l'occupazione della giustizia non si commette la baratteria; ma ben
+si pu@o fare sanza lo impaccio della baratteria o vero
+dell'affezione; e per@o finge che Draghignazzo volesse ferire; ma
+pur nol fer@i, e cos@i @a detto di Farferello.  Et incontanente
+aggiugne di Cagnazzo, Alichino e Calcabrina, come si dir@a
+allora; ma ben puose che Barbariccia lo chiudesse con le braccia:
+imper@o che sempre la baratteria @e con la fraude.  ^Se voi~;
+Virgilio e Dante, ^volete vedere, o udire, Ricominci@o lo~
+^spaurato~; cio@e Giampolo per quel che minacciava Farferello,
+^appresso~; a quello che detto avea, ^Toschi, o Lombardi~; che
+sono Italiani, ^io ne far@o venire~; qua su alla riva.  ^Ma
+stien le malebranche un poco in cesso~; cio@e scostati sieno li
+demoni chiamati malebranche, come detto fu di sopra, ^S@i ch'ei
+non teman~; li peccatori, ^delle lor vendette~; cio@e delle lor
+pene, che si danno in vendetta di giustizia; ^Et io, sedendo in
+questo luogo stesso~; dice lo navarrese Giampolo; e dice sedendo,
+per mostrare ch'elli non voglia fuggire, ^Per un ch'io son, ne
+far@o venir sette~; e questo dice, perch@e sa che i demoni sono
+vaghi del male, per inducerli a cessarsi un poco acci@o ch'elli
+abbi spazio di poter fuggire, ^Quando sufoler@o, com'@e nostr'uso
+Di fare a lor che fuor alcun si mette~; per dare l'afferma
+al fatto mentisce ch'elli sufoler@a, come @e uso di fare, ^a
+lor~; cio@e ai dannati; o vero dice lo testo ^allor~; cio@e al
+lotta, quando alcuno esce fuori e non vede Malebranche, perch@e
+gli altri si vengano a sciorinare un poco; e questo non pu@o
+essere, che parrebbe che tralli dannati fosse carit@a, la quale
+non v'@e niente.
+
+	|106-117.~  In questi quattro ternari
+l'autor nostro dimostra l'uficio di Cagnazzo e l'opera
+d'Alichino, dicendo che Cagnazzo che significa la irragionevole
+locuzione, come fu detto di sopra cap. XXI, parl@o e scoperse la
+malizia di costui: imper@o che il corruttore e lo corrotto
+parlandosi insieme, scuoprono li lor maliziosi concetti l'uno
+all'altro, e per@o dice: ^Cagnazzo a cotal motto lev@o il
+muso~: muso propriamente si dice la bocca del cane, et a questo
+demonio fu dato di sopra la figura del cane, ^Crollando il
+capo~; accorgendosi della malizia come sagace; e cotal atto fa
+chi s'accorge della malizia o chi minaccia, ^e disse~; Cagnazzo:
+^Odi malizia Ch'elli~; cio@e Giampolo, ^@a pensato per gittarsi
+giuso~; cio@e nella pegola.  Ecco il fine.  ^Ond'ei ~: cio@e
+Giampolo, ^ch'avea lacciuoli~; cio@e inganni da pigliar quelli
+dimoni, come si pigliano li uccelli, ^a gran dovizia~; questo
+dice, perch@e non avea pochi; ma assai, ^Rispuose~; a Cagnazzo:
+^Malizioso son io troppo~; ecco che confessa esser malizioso nel
+modo che dir@a, per compiacere a' demoni, ^Quand'io procuro a'
+miei maggior tristizia~; cio@e a quelli che sono sotto la
+pegola, i quali finge esser maggior di s@e, per farne pi@u
+desiderosi li demoni i quali sono pi@u vaghi di schernire e di
+straziare li grandi spiriti, che li piccoli; e questo disse
+Giampolo, perch@e li demoni si scostassono pi@u volentieri,
+com'elli volea, per gittarsi giuso.  Ora dimostra l'officio e
+l'opra d'Alichino, fingendo che Alichino col suo parlare
+inclinasse la volont@a de' compagni a volgersi in l@a, e colui a
+voler fuggir da loro, in quanto dice: ^Alichin~; cio@e quel dimonio
+cos@i chiamato, del quale fu detto di sopra cap. XXI, ^non si
+tenne~; quando ud@i cos@i parlare colui con Cagnazzo, ch'elli non
+rispondesse; et in questo si nota il subito movimento della
+volont@a, ^e di rintoppo Alli altri~; cio@e innanzi alli altri
+demoni, ^disse a lui~: cio@e a Giampolo: ^Se tu ti cali~; giuso
+nella pegola, ^Io non ti verr@o dietro di gualoppo~: gualoppare
+@e meno che correre; ma @e pi@u che trottare, ^Ma batter@o
+sopra la pece l'ali~; et in questo lo induce a mettersi a
+fuggire, e li altri demoni a volgersi indietro; et aggiugne:
+^Lascisi il colle~; cio@e gittianci d'in su questo colle, ^e
+sia la ripa scudo~; cio@e lascianci la ripa di rietro, come fa il
+cavalier quando combatte che si gitta lo scudo di dietro, per
+poter meglio menar le mani o per non esser ferito di dietro, se
+si mette a fuggire, ^A veder se tu sol pi@u di noi vali~; che
+siamo dieci: ecco la superbia del dimonio.
+
+	|118-132.~  In questi cinque ternari
+l'autor nostro finge come lo Navarrese ingann@o li demoni, e
+prima fa lo lettore attento, dicendo: ^O tu, che leggi, udirai
+nuovo ludo~; questo @e dell'arte della Retorica di fare attento
+l'uditore, quando l'oratore vuol dire cosa giocosa; e cos@i fa
+qui l'autore, promettendo di dire cosa nuova.  ^Ciascun~; delli
+demoni, ^dall'altra parte li occhi volse~; cio@e in verso la ripa
+sesta, ^Quel prima~; che li altri demoni, ^ch'@a ci@o fare era
+pi@u crudo~; e questi fu Cagnazzo che scoperse la malizia.  ^Lo
+Navarrese~; cio@e Giampolo, ^ben suo tempo colse; Ferm@o le
+piante a terra~; per gittarsi pi@u velocemente e con maggior
+forza, ^et in un punto Salt@o~; nella pegola, ^e dal
+proposto lor~; cio@e dalla intenzione e proposito loro, ^si
+tolse~; andandone sotto la pegola, ch'elli s'avien proposto di
+stracciarlo.  ^Di che ciascun di colpa fu compunto~; cio@e
+ciascun si riput@o colpevole del suo fuggire; ^Ma quei pi@u, che
+cagion fu del difetto~; e questi fu Alichino, perch'elli diede
+col suo dire sicurt@a alli altri, che lo Navarrese non
+potesse fuggire, ^Per@o si mosse~, perch@e li parea esser
+colpevole, ^e disse: Tu se' giunto~; Giampolo; e cos@i li vol@o
+dietro.  ^Poco li valse~; s'intende il volare et il gridare:
+^ch@e l'alie il sospetto Non potero avanzar~; qui vuol dire che
+il Navarrese and@o piuttosto per la paura, che il dimonio per la
+sua propria volont@a, e per@o dice che l'ali d'Alichino, che
+portavano Alichino per la sua propria volont@a, non poterono
+avanzare lo sospetto; cio@e la paura del Navarrese:
+proverbialmente si dice: Paura fa vecchia trottare.  E per@o @e
+qui da notare che il movimento, che @e da volont@a non @e s@i
+veloce, come quello ch'@e incitato da paura: imper@o che l'uomo
+in tal caso si gitta e non guarda come; come fece lo Navarrese,
+come finge l'autore per fare verisimile lo suo poema; ma Alichino
+volava con riguardo di non toccare la pegola. ^quelli~; cio@e
+Giampolo, ^and@o sotto~; la pegola, ^E quei~; cio@e Alichino,
+^drizz@o, volando suso, il petto~; tornando in su.  ^Non
+altrimenti l'anitra~; aggiugne qui una similitudine dell'anitra,
+che @e uccello aquatile e del falcone, pigliando l'anitra per
+Giampolo, e lo falcone per Alichino, ^di botto~; cio@e di colpo
+gittandosi, ^Quando il falcon~; questo @e un uccello, con che
+s'uccella ai grandi uccelli, ^s'appressa~; a lei, ^gi@u~
+^s'attuffa~; cio@e sotto l'acqua, ^E quei~; cio@e lo falcone,
+^ritorna su~; in aere, ^crucciato e rotto~, perch@e non l'@a
+potuto pigliare; e cos@i tornava Alichino.
+
+	|133-144.~  In questi quattro ternari
+l'autor nostro dimostra l'uficio di Calcabrina, fingendo che
+s'inghermisca con Alichino e caggia nella pegola: imper@o che,
+quando lo inchinamento della volont@a s'aggiugne col
+deliberamento e corrompesi, cade nella pegola; cio@e nella fraude;
+cio@e nella baratteria; e per@o dice cos@i: ^Irato~; cio@e
+crucciato, ^Calcabrina~; cio@e quel dimonio cos@i chiamato,
+^della buffa~; che avieno tutti ricevuta da Giampolo, ^Volando
+dietro li tenne~; ad Alichino, ^invaghito~; cio@e Calcabrina,
+^Che quei~; cio@e Giampolo, ^campasse~; delle lor mani, ^per aver
+la zuffa~; con Alichino che n'era stato cagione.  ^E come il
+barattier~; cio@e Giampolo che baratteria avea commessa, e per
+quel finge che fosse dannato quivi, ^fu disparito~; cio@e sotto
+la pegola, ^Cos@i volse li artigli~; cio@e Calcabrina, ^al suo
+compagno~; cio@e ad Alichino, ^E fu con lui sopra il fosso
+ghermito~; cio@e afferrato con li artigli.  ^Ma l'altro~; cio@e
+Alichino, ^fu bene sparvier grifagno~; cio@e superbo et animoso,
+^Ad artigliar ben lui~; cio@e Calcabrina, ^et amendue~; cio@e
+Calcabrina et Alichino, ^Cadder nel mezzo del bogliente stagno~;
+cos@i ghermiti, perch@e l'uno tirava qua, e l'altro l@a.  ^Lo
+caldo~; della pegola bogliente, ^sghermitor subito fue~; cio@e
+che sentendo il caldo si sghermirono di subito, e cos@i lo
+caldo fu sghermitore; ^Ma per@o di levarsi era niente~:
+imper@o che non poteano: ^S@i aveano inveschiate l'ali sue~; e
+quest'era la cagione, perch@e non si poteano levare della pegola:
+imper@o che non potean volare.
+
+	|145-151.~  In questi due ternari et
+uno verso l'autor nostro finge il suo partimento, dicendo:
+^Barbariccia~; ch'era lo decurio, come detto fu di sopra cap.
+XXI, ^con li altri suoi~; compagni, ^dolente~; di quel ch'era
+avvenuto, ^Quattro~; de' suoi demoni ^ne fe volar dall'altra
+costa~; della bolgia, ^Con tutti i raffi~; per pigliar
+l'impaniati, ^et assai prestamente Di l@a, di qua~; cio@e
+dall'una ripa e dall'altra della bolgia, quattro di qua e quattro
+di l@a: ^Porser li uncini~, perch@e vi s'afferrassono, ^in
+verso gl'impaniati~; cio@e Calcabrina et Alichino, ^Ch'eran gi@a
+cotti dentro dalla crosta~; della ripa, bench@e non vi fossono
+stati molto: s@i era calda la pegola, ^E noi lasciammo~; cio@e
+Virgilio et io Dante, ^lor~; cio@e tutti quei demoni dentro dalla
+crosta della bolgia, dov'era la pegola, ^cos@i impacciati~; come
+@e detto di sopra.  E questo finge l'autore essere stata la
+cagione che si poterono partire da loro, che li demoni non se ne
+avvidono.  E qui finisce il canto XXII, et incomincia il canto
+XXIII.

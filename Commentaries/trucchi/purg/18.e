@@ -1,0 +1,662 @@
+	Testo e Commento.  -- Nel Canto precedente si @e definito
+l'ordinamento del Purgatorio secondo tre diverse aberrazioni
+d'amore unico e libero movente d'ogni nostra azione, che ci rende
+meritevoli di premio o di castigo.  Affermazione consonante con
+la filosofia cristiana, ma che gli Epicurei ribattevano negando
+il libero arbitrio: donde la convenienza d'una dimostrazione
+filosofica dell'esistenza del libero arbitrio nell'uomo, che
+forma l'argomento della prima met@a del Canto: con questa si
+chiude il ragionamento illustrativo del Purgatorio, per passare
+alla breve descrizione della quarta Cornice.
+
+	Il Canto si apre con una scenetta di scuola, tra maestro
+e discepolo, quasi idilliaca: il maestro, tutto pervaso dal
+piacere d'insegnare, terminato il suo discorso, spia negli occhi
+del discepolo, per assicurarsi d'esser stato compreso; il
+discepolo, tutto infiammato dal desiderio di apprendere, vorrebbe
+domandare ancora; ma teme di rendersi importuno; Virgilio lo
+comprende e incoraggia Dante a palesare il suo desiderio.  Una
+scenetta che mette anche in evidenza il metodo della scienza
+dialettica, che <procede con pi@u sofistici e probabili argomenti
+pi@u che altra> (^Conv.~, II, XIII, 12): ^sofistici~, cio@e
+sottili, nel senso migliore della parola.
+
+	|1-3.~  Virgilio, |alto dottore~ per l'elevatezza degli
+argomenti trattati e per competenza, riguarda |in vista~, negli
+occhi Dante, per vedere se @e soddisfatto.
+
+	|4-6.~  Dicendo l'^alto dottore~ {v.2} Dante ci ha
+mostrato che @e rimasto convinto; ma non @e soddisfatto, pendendo
+incerto tra nuova sete di scienza che lo spinge a domandare
+ancora, e il timore d'essere indiscreto che lo fa tacere.
+
+	|7-9.~  Ma Virgilio non @e soltanto l'^alto dottore~
+{v.2}; @e anche il |padre verace~, e gli viene in aiuto
+|parlando~: avr@a chiesto se le sue parole non eran parse ben
+chiare, e Dante risponde elogiando la chiarezza dell'esposizione
+e la forza degli argomenti; per@o...
+
+	|10-12.~  Non dubbi su ci@o che ha inteso turbano Dante;
+egli discerne chiaro tutto ci@o che |la ragion~, il ragionamento
+di Virgilio |porti~ o |descriva~, enunciati e dimostrazioni.  Ma
+@e un'aggiunta che vorrebbe.
+
+	|13-18.~  L'ultimo verso annuncia un'intonazione polemica
+nel nuovo discorso di Virgilio che le divisioni delle scuole
+filosofiche spiegano.
+
+	Virgilio, ^savio gentil che tutto seppe, mar di tutto
+senno~, simbolo della ragione umana ossia della piena attuazione
+dell'intelletto possibile, conosce quanto ^ragion qui vede~, come
+egli stesso dir@a fra poco: conosce cio@e tutte le premesse
+scientifiche che conducono alla verit@a, per quanto @e concesso di
+conoscerla al vivente per mezzo della ragione.
+
+	Dante invece rappresenta qui la scienza deficiente, che
+non vede le ultime conclusioni, perch@e difetta di alcune
+premesse: ha piena fiducia negli insegnamenti del maestro e animo
+ben disposto ad accettar la verit@a; ma, chiedendo a lui quello
+che ignora, fa la parte dei contradditori, dei negatori del
+libero arbitrio, dei |ciechi che si fanno duci~, in una parola
+degli Epicurei, tanto inferiori ai peripatetici, la cui parola
+<puotesi appellare quasi cattolica opinione> (^Conv.~, IV, VI, 
+16).
+
+	Gli Epicurei infatti si fermavano a considerare l'amor
+naturale e il sensitivo, per cui <ciascuno animale tosto che nato
+@e, quasi da natura dirizzato nel debito fine, fugge dolore e
+domanda allegrezza>, sicch@e conchiudevano ^ciascun amore in s@e
+laudabil cosa~ {v.36}, come udiremo fra poco, e quindi <essere
+voluptade> (^Conv.~, IV, VI, 11) il fine dell'uomo: dunque nessun
+amore merita castigo.
+
+	Invece i peripatetici, con Aristotele, <agguardando pi@u
+sottilmente>, riconobbero che oltre all'amor naturale ed al
+sensitivo, @e in noi l'amor razionale, per cui <ne le nostre
+operazioni si potea peccare nel troppo e nel poco>, e <dissero
+che la nostra operazione senza soperchio e senza difetto, 
+misurata col mezzo per nostra elezione preso, ch'@e virt@u, era
+quel fine... al quale l'uomo @e ordinato in quanto elli @e uomo, ...
+e chiamaronla operazione con virt@u> (^Conv.~, IV, VI, 13 e 7), 
+concludendo per il merito e demerito degli atti umani.
+
+	Dante adunque chiede a Virgilio di dimostrargli
+l'esistenza dell'amor razionale, e Virgilio risponde mostrandogli
+anzitutto come questo amor razionale esista e come derivi
+dall'amor naturale che @e proprio di tutti gli esseri creati e
+dall'amor sensitivo, proprio di tutti gli animali, perch@e l'uomo
+ha in pi@u di questi un intelletto.
+
+	Nel Canto precedente Virgilio aveva bens@i gi@a parlato
+d'amor razionale o ^d'animo~; ma come d'un fatto accettato: non
+aveva spiegato i suoi rapporti con gli altri amori o appetiti
+inferiori; aveva tralasciato di dire come nasce e in che
+consiste; e questa lacuna chiede ora Dante che gli sia colmata. 
+In tal modo ci si apre la via alla dimostrazione del libero
+arbitrio, fondamento della scienza morale, ^termine e bellezza~
+(^Conv.~, III, XI, 17 e III, XV, 2) della Filosofia.
+
+	|19-21.~  Dell'amore naturale e del sensitivo Virgilio si
+sbriga rapidamente, con questa terzina.  L'animo umano @e creato
+disposto ad amore, come tutte le cose, per l'amor naturale o
+istintivo che ogni cosa ha e per cui ogni cosa tende al fine per
+cui fu creata: cos@i la terra tende al centro, il fuoco a salire, 
+le piante ad un terreno conveniente alla natura, gli animali al
+cibo per la sostentazione del loro corpo.  Ma negli animali, 
+dotati di senso, l'amor naturale produce l'amor sensitivo, per il
+piacere che desta la soddisfazione dell'amore naturale; ed ecco
+quindi anche l'animo umano desto subito dal piacere a muoversi
+verso la cosa amata, nel che appunto consiste l'amor sensitivo o
+animale.
+
+	Or come dall'amor naturale si passa all'amor sensitivo
+per gli animali forniti di senso, nello stesso modo l'uomo passa
+dall'amor sensitivo al razionale, perch@e fornito d'intelletto, 
+che comincia dalla fantasia o ^apprensiva~ {v.22}.
+
+	|22-27.~  Quando l'|esser verace~, la cosa sensibile, col
+piacere che provoca in noi ha desto in atto l'amor sensitivo, 
+l'|apprensiva~, la fantasia ne tragge l'|intenzione~, ossia, 
+secondo la terminologia scolastica, l'immagine, la conserva
+dentro di s@e, e quindi ripresentandola all'animo lo fa volgere
+verso di questa.  Per@o il volgersi del l'animo all'immagine della
+cosa sensibile piacente non @e ancora amor razionale; questo
+comincia se l'animo, rivolto all'immagine, si piega verso di lei
+e la vagheggia.
+
+	Anche l'amor razionale adunque ha un'origine naturale: @e
+natura che per mezzo del piacere stringe con l'uomo un secondo
+legame: prima ha destato in noi l'amor sensitivo della cosa
+piacente, ora desta in noi amore anche per l'immagine della cosa
+piacente.  Ma l'animo non s'arresta qui.
+
+	|28-33.~  Ogni amore @e <unimento de l'anima e de la cosa
+amata> (^Conv.~, III, II, 3); quindi come il fuoco |per la sua
+forma~, per la sua essenzial natura, tende in alto, al cielo
+della Luna, dov'@e il suo proprio luogo (^Conv.~, III, III, 2), 
+cos@i l'animo nostro entra in desiderio della cosa rispondente
+all'immagine che vagheggia, mettendo in gioco un'altra sua
+facolt@a, la volont@a, che @e |moto spiritale~, moto dello spirito
+proprio dell'uomo, e che mai non posa finch@e non ha raggiunto la
+cosa amata che lo faccia godere.
+
+	|34-39.~  Gli epicurei <affermavano che ogni amore in s@e
+era buono, e movevansi da questo: l'animo non ama se non le cose
+che li apparecchia l'apprensiva e l'apprensiva nolli apparecchia
+se non le cose che hanno vero essere, e le cose che hanno vero
+essere sono buone: dunque ogni amore @e buono> (Buti).  No!
+risponde Virgilio: non ogni amore @e di necessit@a lodevole, perch@e
+fra la cosa piacente che @e per s@e buona e la nostra volont@a, si
+frammette l'immagine della cosa piacente, che, essendo frutto
+della fantasia pu@o esser vera o falsa: come la cera buona non @e
+sempre prova della bont@a del sigillo che su di essa si appone. 
+La cosa piacente buona pu@o essere falsata nell'immagine che la
+fantasia ci rappresenta.  Come la buona cera pu@o essere
+improntata da un brutto sigillo, o da sigillo troppo o troppo
+poco calcato, cos@i l'immagine pu@o esser, sia non rispondente alla
+bont@a della cosa, donde l'amore per falso obbietto, sia troppo o
+troppo poco chiara, donde l'amore per troppo o per poco di
+vigore, secondo la dimostrazione del Canto precedente.
+
+	|40-45.~  Dante ha compreso perfettamente, ma non @e ancor
+soddisfatto.  Virgilio ha risposto alla sua domanda secondo la
+lettera, ^che mi dimostri amore~ {v.14}, non secondo
+l'intenzione, che era di conoscere perch@e le nostre azioni siano
+meritevoli di premio o di castigo, posto che tutte, buone o
+cattive, come gi@a aveva affermato il maestro, provengono da
+amore.
+
+	Per@o la prima lezione di Virgilio, se par monca a Dante, 
+non lo @e senza motivo.  Con la prima parte del suo ragionamento
+infatti Virgilio ha dimostrato <in nuova forma l'universalit@a
+d'amore, attributo di Dio e spirito di divina armonia nel mondo>
+(Tarozzi), tanto nel mondo fisico come nel mondo morale:
+altissimo concetto dantesco che informa tutto il Poema.
+
+	Al fine ultimo che il Poeta si riprometteva soddisfer@a la
+seconda parte del ragionamento del maestro, dopo che il
+discepolo, senza pi@u attender licenza, gli abbia rivolto la sua
+seconda damanda, in forma di obbiezione, dicendo le ragioni del
+suo dubitare: se amore ci viene dagli oggetti esterni, e l'anima
+non ha altro impulso che questo alle sue operazioni, queste
+dipendono dall'esterno, l'uomo non @e agente, ma paziente, e non
+merita lode n@e biasimo.  Cos@i Dante produce l'opinione di
+Aristippo, confuso con Epicuro, che pens@o il nostro arbitrio
+dipendere dalle cose esterne.
+
+	Per ben comprendere la seguente dimostrazione di
+Virgilio, giova ripetere le sue ultime conclusioni in rapporto
+con la teoria generale di Dante sul libero arbitrio.
+
+	Il bene @e nell'unit@a, il male nella pluralit@a (^Mon.~, I, 
+XV): ogni cosa sensibile @e per s@e buona; ma dalla fantasia umana
+@e diversamente immaginata, sicch@e le immagini delle cose
+sensibili, essendo mutevoli e multiple, tante quante son le umane
+fantasie, non possono essere perfette.  Ma tra la fantasia e
+l'amore che ci spinge a ricercare o fuggir queste cose, secondo
+l'immagine che ce ne siamo fatta, intercede la ragione, ^forma~
+{v.49}, principio sostanziale dell'anima umana; la quale ragione
+non @e mossa da amore, ma determina essa l'amore (^Mon.~, I, XII):
+questa ragione @e per s@e capace di giudicare e libera nel
+giudizio, e in questa libert@a della ragione consiste la libert@a
+del volere.  Tra l'apprensione, che non @e imputabile all'uomo, e
+l'amore razionale o intellettivo o d'animo intercede adunque un
+giudizio, non necessitato dall'esterno, ma dalla ragione, libera
+e sufficiente a conoscere e giudicare, perch@e illuminata dalle
+verit@a assiomatiche e dai primi appetiti naturali, infusi e
+quindi perfetti: donde la cagione del merito e demerito delle
+azioni umane.  Ch@e se anche picciol bene, come ha detto Marco
+Lombardo, prima che la ragione sia matura in noi, destando
+l'amore sensitivo, possa trarci in inganno con l'esca del
+piacere, alla deficienza del singolo supplisce la societ@a umana;
+l'errore d'amore sensitivo dell'individuo pu@o essere risanato
+dalla ragione universale, manifesta nei precetti dei filosofi, 
+divenuta freno in mano dell'Imperatore.  Ecco ci@o che vede la
+ragione stessa, e che Virgilio spiega: Beatrice poi insegner@a
+come la Fede venga in aiuto della ragione umana con la verit@a
+rivelata (^Par.~, V, 76-78), principio della morale cristiana, 
+bastevole tanto per la vita individuale quanto per la vita
+sociale: all'Imperatore, che @e il freno, si unir@a il Pontefice, 
+che @e guida.
+
+	|46-48.~  Terzina importante anche per la simbologia di
+Virgilio e di Beatrice nel Poema: il Poeta latino @e la ragione, 
+Beatrice la Teologia: all'uno compete spiegare quanto vede la
+filosofia razionale umana, all'altra la verit@a rivelata; e con
+una e con l'altra scienza, filosofica e teologica, ha rapporto la
+questione del libero arbitrio, che qui Virgilio illustra con
+argomenti filosofici, e che Beatrice affermer@a esistente in noi, 
+come il ^maggior don~ che Dio largisse creando a tutte e sole le
+creature intelligenti, Angeli ed uomini (^Par.~, V, 19-24).
+
+	|49-54.~  Come gi@a abbiamo detto, e lo ripeteremo con le
+parole del Tarozzi, <per Dante, filosoficamente, |forma~
+significava proprio l'opposto di quel che intendiamo noi; per noi
+|forma~ @e l'aspetto esteriore; per lui e per il Medio Evo |forma~
+era ci@o che v'ha nelle cose di pi@u intimo e permanente, ossia
+l'essenza intima, l'essenziale natura>.  Perci@o anche San Tommaso
+chiamava l'anima umana ^forma substantialis hominis~ (^S. T.~, I, 
+LXXVI, 4), come fa qui Dante.  Intendiamo adunque: l'anima umana
+che @e |setta~, separata dalla materia e nello stesso tempo unita
+a lei, ossia unita alla materia senza confondersi con essa e
+rimanendo distinta, possiede una |specifica virt@u~, l'intelletto, 
+il cui oggetto @e il vero, che la rende atta a conoscere ed amare. 
+Finch@e questa virt@u specifica @e in potenza noi non la conosciamo:
+essa non ci si manifesta che quando @e posta in atto, esplicando
+la sua attivit@a, come nelle piante noi non conosciamo la vita se
+non quando emettono le fronde.
+
+	|55-60.  Per@o~, perci@o, da quanto precede, che cio@e
+l'anima porta seco nascendo la virt@u specifica di conoscere e
+d'amare, a noi ignota finch@e @e in potenza, ne risulta che noi non
+possiamo conoscere nemmeno come nascono in noi le prime direzioni
+che pur possiede l'anima in potenza: queste direzioni sono, per
+ci@o che riguarda il conoscere, le prime |notizie~, le verit@a
+assiomatiche che l'uomo crede senza bisogna che gli vengano
+dimostrate (^Par.~, II, 45-46), e per ci@o che riguarda l'amore, 
+l'|affetto dei primi appetibili~, l'istinto che ci fa rivolgere
+dapprima alle cose di cui abbiamo bisogno, come @e ad esempio il
+latte materno.  Prime notizie e primi appetibili sono adunque in
+noi istintivi, come @e nell'ape lo studio di fare il miele, e
+perci@o non imputabili, non meritevoli di lode n@e di biasimo, e
+del resto esenti da errore.
+
+	Sin qui gli Epicurei ed i Peripatetici concordano. 
+Virgilio adunque comincia con una concessione: sia pure che gli
+affetti umani abbiano inizi di cui siamo inconsci, e non
+dipendenti da noi; ma guardiamo a ci@o che avviene poi.
+
+	|61-63.~  Abbiamo visto che le prime notize e i primi
+appetibili nostri sono infusi e retti: ci@o significa che a questi
+si devono ^raccogliere~, uniformare, anche le cognizioni e gli
+appetiti che vengono poi, e perch@e cos@i avvenga ci @e dato il lume
+della ragione, la virt@u che |consiglia~, e che, come guardiana, 
+deve seder alla porta del nostro intelletto, esaminare le
+immagini che la fantasia ci presenta, giudicarle, come pu@o fare
+per la sua virt@u, e respingere le male, accettare le buone, 
+correggere le imperfette, prima che in noi si desti l'amore di
+esse!  Quest'amore pertanto non ci @e imposto dalle cose esteriori
+n@e dalla fantasia, ma @e diretto dal libero e divino lume della
+ragione.
+
+	|64-66.~  Noi siamo adunque liberi di raccogliere amori
+buoni o cattivi, secondo il vaglio delle immagini che ci formiamo
+delle cose attraverso la ragione; ed ecco il principio che
+stabilisce la cagione del merito o del demerito delle azioni
+umane, la cagione del premio o del castigo.  Vigliare, spiega il
+Borghini, <@e un pi@u minuzioso ed ultimo mezzo di ripulitura del
+grano, per togliergli le ultime scorie, baccelli di vecce
+selvatiche e altri semi nocivi; e si fa con certe granate piatte
+di ginestre o d'altre erbe, dette ruscie, o con vincastri di
+olmi, o d'altri alberi, legati insieme, che si vanno leggermente
+fregando sopra la massa, per separare dal grano quelle scorie
+nocive>.  Nessuna immagine poteva convenire meglio a questa
+nobilissima parte dell'anima umana, signora e regolatrice d'ogni
+altra potenza, che, intendendo alla scelta dei nostri appetiti, 
+tanto intellettivi che sensitivi, guida l'uomo alla felicit@a
+(^Mon.~, I, V, 4).
+
+	|67-69.~  Alta lode dei Peripatetici, scopritori della
+libert@a del volere, e quindi fondatori della morale!
+
+	|70-72.~  Anche Marco Lombardo aveva detto: poniamo che
+in voi si inizino tutti i vostri movimenti per virt@u dei cieli:
+ma voi siete liberi di ritenere o respingere gli appetiti.  Ed
+ecco cos@i dimostrato <quod primum principium nostrae libertatis
+est libertas arbitrii>, perch@e <si iudicium moveat omnino
+appetitum et nullo modo proveniatur ab eo, liberum est; si vero
+ab appetitu quocumque modo proveniente iudicium moveatur, liberum
+esse non potest, quia non a se, sed ab alio captivum trahitur>
+(^Mon.~, I, XII, 4).
+
+	Disgraziatamente anche la ragione umana non @e perfetta, 
+<mentre che l'anima umana @e legata e incarcerata per li organi
+del nostro corpo> (^Conv.~, II, IV, 17); non @e perfetta
+sprattutto nei giovani, sviluppandosi a poco a poco con lo studio
+che @e in rapporto con la scienza umana, anch'essa progressiva e
+quindi imperfetta.  Ma guai a chi si ostina nell'errore <quando
+la verit@a gli @e discoperta> (^Purg.~, IX, 68).  E per ci@o che si
+riferisce alla libert@a di volere e ai doveri morali non ci fu la
+verit@a rivelata dalla parola di Cristo?  Ultima e decisiva
+argomentazione di Virgilio, che ricorda a Dante Beatrice:
+l'innata libert@a dei Peripatetici in Teologia prende nome di
+libero arbitrio; ricordalo per quando Beatrice ti parler@a del
+libero arbitrio (^Par.~, V, 16-24).
+
+	|73-75.~  Cos@i termina il lungo ragionamento filosofico, 
+che spiega la natura stessa del Poema dantesco, inteso a
+considerare come l'uomo sia premiato per i suoi meriti e punito
+per i suoi demeriti.
+
+	Riprendiamo la narrazione, con la descrizione della IV
+Cornice, o dell'Accidia, rappresentata dal Poeta negli esempi
+come una pigrizia spirituale e fisica: in contrapposto con la
+pigrizia spirituale, il tempo passato in questa Cornice @e speso
+per la maggior parte in ragionamenti filosofici; in contrapposto
+con la pigrizia fisica, le anime purganti sono sollecitate da
+tanta fretta, che la descrizione ne @e necessariamente breve.
+
+	@E la notte piena.  L'ordine della rappresentazione si
+svolge con l'ordine stesso delle altre Cornici, se non che manca
+un numero, quello della preghiera delle anime, con la ripetizione
+del versetto biblico che si convenga alla loro special
+contrizione: omissione voluta dal Poeta, forse in considerazione
+del loro peccato, o come parte della loro pena: <anche il lungo
+salmeggiare @e accidia, osserva il Perez, se il corpo ne trae
+allettamento al suo agio, e l'anima @e lontana dal pensiero di
+Dio>.
+
+	|76-81.~  <Ha del sublime in questi versi.  La cagione
+del sublime si @e forse perch@e si innalzano sopra il senso che
+inganna, e ci fan travedere e grande e portentoso il vero sistema
+dell'universo> (Tommaseo).
+
+	Per l'interpretazione letterale occorre tener presente:
+1) che la Luna dopo il suo pieno, si leva ogni sera pi@u |tarda~
+di circa 15', cio@e, nel giorno in cui siamo, quinto del
+plenilunio, un'ora circa prima di mezzanotte: luna |tarda~ o
+tardiva, quasi essa pure accidiosa; 2) che la Luna calante
+mostrandosi scema nella sua semicirconferenza volta a ponente, 
+pu@o paragonarsi ad un secchione di rame che abbia il fondo
+rotondo e la parte superiore tronca; 3) che il corso apparente
+della Luna calante @e da occidente ad oriente, |contro~, 
+contrariamente al corso del cielo stellifero che @e da oriente ad
+occidente; 4) che il Sole, nel solstizio invernale, per chi lo
+riguardi da Roma, tramonta fra la Corsica e la Sardegna, ponente
+di Roma, che @e gi@a Levante rispetto al Purgatorio.
+
+	Intenderemo adunque: era vicina la mezzanotte, e la Luna, 
+tarda a levarsi perch@e vicina al suo ultimo quarto, per la sua
+forma falcata sembrava un secchione ardente, cos@i luminosa da
+offuscare le stelle minori e lasciar scorgere soltanto le
+maggiori: essa era nel salire, correndo le vie del cielo in senso
+opposto a quello del Sole, ora a ponente di Roma.
+
+	Tanto apparato scenico celeste, e la menzione del Sole, 
+assente in quell'ora, fa pensare ad un'allegoria; e questa sar@a
+chiara se noi ricordiamo che per Dante il Sole simbleggia la
+grazia che illumina ogni nostra conoscenza, e la Luna, che riceve
+la luce dal Sole, ma anche ha una piccola luce propria (^Mon.~, 
+III, IV, 17), rappresenta la ragione umana o la filosofia, che
+studia anche ^le prime sustanze~, ma non pu@o intenderle che ^per
+gli effetti~, non nella loro essenza, riservata alla Rivelazione
+(^Conv.~, II, XIV).
+
+	Scomparso il Sole, sotto la luce della Luna, quanto pu@o
+esser chiara, Dante ha ricevuto da Virgilio la spiegazione
+filosofica del libero arbitrio, e ne @e rimasto contento; ma @e
+anche preso dal sonno, che, come sappiamo dal Canto I
+dell'Inferno, mostra la mente assorta in pensieri estranei alla
+vita contemplativa.
+
+	|82-86.~  Virgilio, quell'anima gentile per cui Pietola, 
+l'antica Andes, poco discosta da Mantova, sulla riva destra del
+Mincio, va pi@u gloriosa della stessa Mantova, mi aveva liberato
+dal dubbio, e s'era liberato egli stesso dal carico che io gli
+aveva addossato con le mie domande.  E io che aveva |ricolta~
+chiara e certa la ragione delle mie tre quistioni (qual peccato
+si purga qui? che cosa @e amore? come l'anima pu@o meritare o
+demeritare?), non pi@u stimolato dal desiderio di apprendere, 
+stava come l'uomo che, presso ad addormentarsi, comincia a
+^vanare~, a non seguire pi@u il filo d'un ragionamento, passando
+confusamente da un pensiero ad un altro, come avviene nel
+dormiveglia.
+
+	|88-90.~  Ma se Dante sta per posare dalla sua faticosa
+giornata con soddisfazione intellettuale, non posano gli spiriti
+che in vita sfuggirono la fatica intellettuale e corporea.  La
+legge del Purgatorio vieta l'andare in su di notte, non
+l'aggirarsi intorno, e gli Accidiosi anche di notte corrono
+frettolosamente: essi corrono senza riposo, a tondo pel girone, 
+come gli Ignavi dell'Inferno, perch@e il circolo che non ha
+principio n@e fine, ricorda loro che non seppero mai trovar
+principio all'opera, o terminarla se le dieder principio.  Se non
+che nell'Inferno corrono per punizione senza speranza, qui per
+purgazione, con acuto fervore.  Ora essi, compiuto gi@a il loro
+giro, irrompono |dopo~, dietro alle spalle del Poeta, e passando
+rapidamente dinanzi a lui, ombre scialbe e fugaci, lo ridestano
+al desiderio di conoscere e ritardano ancora il suo giusto
+riposo; cos@i sulla terra l'inerzia dei molti ricarica la fatica
+dei pochi volonterosi.
+
+	|91-96.~  Bacco era tebano e patrono dei Tebani, i quali
+ricorrevano a lui nei loro momenti di angustia: quando
+desideravano che piovesse, andavan di notte correndo con faci
+accese lungo i fiumi Ismeno ed Asopo, cantando le lodi del dio
+con accompagnamento di nacchere, tamburi e altri strumenti
+musicali; in altre necessit@a invece si recavan sul monte Citeron
+vestiti di pelli e armati di aste.  Anche Stazio (^Tebaide~, IX, 
+434; cfr. Virgilio ^Egloga~ VI, 82) fa cos@i parlare il fiume
+Ismeno: <Ille ego, clamatus sacris ululatibus amnis, Qui molles
+tyrsos Baccheaque cornua puro Fonte lavare feror.  Frater tacitas
+Asopos eunti conciliat vires>.
+
+	Alla sollecitudine dei Tebani bisognosi e imploranti
+paragona Dante la fretta degli Accidiosi purganti, per quanto li
+vedesse di sfuggita, venir ^falcando~ il passo: l'immagine del
+falcare pu@o esser stata suggerita al Poeta dalla falce in
+movimento, o dai cavalli ancora poco docili al freno o di sangue
+generoso, dei quali si dice che falcano il passo, quando correndo
+inarcano la sciena e le gambe a modo di falce: immagine che si
+continua nel buon volere e giusto amore che |cavalca~ e sprona
+gli Accidiosi, cara a Dante (^Conv.~, IV, XXVI, 6; IV, IX, 10).
+
+	|97-98.~  @E da notarsi l'accenno alla |turba magna~ di
+questa Cornice in contrasto con la scarsa popolazione delle
+altre.  Il gran numero di Accidiosi, si domanda il Perez, 
+<vorrebbe forse accennare che pi@u son coloro che errano per poco
+amore al vero bene, che non coloro che errano per deliberato
+amore al male?  E sarebbe fors'anco per la stessa ragione, che
+tanto spazio si assegna all'Antipurgatorio, dove pur non si
+punisce che un modo di Accidia?>.  Anche fra gli Ignavi
+dell'Inferno il Poeta aveva insistito sulla ^lunga tratta~ di
+quegli spiriti dannati.
+
+	Rapida, ma di sorprendente evidenza @e la visione che ora
+s'affaccia all'immobile viatore: passano dinanzi a lui in lunga
+schiera le ombre fuggenti e piangenti: due in testa gridano due
+esempi di solerzia esaltata, due in coda altrettanti esempi del
+vizio punito, mentre la moltitudine a vicenda si stimola a
+sollecitudine con altre grida.  Nelle Cornici 1, 2, 3, 6 gli
+esempi vengono dal di fuori; in questa come nella 5 e 7 sono
+gridati dalle anime stesse.
+
+	|99-102.  Due dinanzi~ e due in coda; due esempi virtuosi
+prima e due viziosi poi: anche qui domina il numero due che per
+Dante, secondo la cabala pitagorica, significa pluralit@a, 
+divisione, contrariet@a, tutto il male, come osservammo nelle
+premesse del Canto XIV.
+
+	Secondo la regola generale il primo esempio di alacrit@a @e
+tolto dalla vita di Maria, e nei due esempi la storia sacra si
+mescola alla profana.  Ma quant'arte nello sceglierli ed unirli!
+
+	L'esempio di Maria @e tolto dal racconto di Luca (^Cap.~, 
+I), dove si narra che Maria si rec@o sollecitamente ad Ebrom per
+visitare Elisabetta, a cui pure l'Arcangelo Gabriele aveva
+annunciato che sarebbe, contro ogni sua speranza, divenuta madre
+del Battista.
+
+	L'esempio di Cesare @e tolto dai ^Commentarii De Bello
+civili~ (I, XXXVI).  Pompeo, fuggendo d'Italia, aveva fatto
+ribellare a Cesare Marsiglia, e quando Cesare vi giunse per
+recarsi in Ispagna a debellarvi le ultime coorti nemiche, quella
+citt@a gli chiuse le porte.  Che fare?  Lasciare Marsiglia dietro
+di s@e, libera di operar contro di lui, era pericoloso; fermarsi
+ad assediarla era mettere in forse la spedizione di Spagna, 
+perdendo un tempo prezioso.  Qui rifulse il genio del capitano. 
+Egli aveva pronte sei legioni: tre della Gallia Narbonese, 
+comandata da Q. Fabio, e tre che aveva condotto seco da Rimini. 
+Queste tre ultime destin@o all'assedio di Marsiglia, ordinando che
+immediatamente con il legname tolto dai boschi vicini si
+costruisse una flotta per bloccare il porto, e mand@o Q. Fabio
+colle altre tre legioni a superare i monti dei Pirenei e
+sgombrarli da ogni impedimento.  Intanto ordinava a Trebonio, che
+stava nella Gallia settentrionale con altre due legioni, di
+mettersi subito in cammino per raggiungere Fabio in Ispagna; ed
+egli, prendendo denaro in prestito persino dai tribuni, dai
+centurioni e dai soldati, assoldava nuove milizie in Aquitania. 
+In un mese la flotta fu allestita e l'assedio posto a Marsiglia
+per terra e per mare; e Cesare, lasciato a Trebonio il comando
+delle milizie e a Decimo Bruto quello della flotta, partiva per
+la Spagna, dove i pompeiani Afranio e Petrejo si erano accampati
+sulle alture a settentrione della citt@a di Ilerda, oggi Lerida, 
+sul fiume Segre, e riport@o su di loro quella grande vittoria che
+egli stesso riconosceva vinta piuttosto dalla celerit@a
+dell'azione che dal valore delle armi: la vittoria infatti doveva
+spettare a chi per primo avesse occupato le alture intorno alla
+citt@a.
+
+	Si considerino ora insieme i due esempi: Maria che, 
+<fatta ancor pi@u agile e lieve dal Dio che Ella porta nel grembo, 
+or s'adima per valli, or s'inerpica per pendii, mentre
+tutt'intorno le s'inchina la natura> (Perez), va ad annunziare la
+nascita di Ges@u e della Chiesa; Giulio Cesare, rapidissimo nel
+proposito, nella vittoria, nella punizione, stabilisce
+definitivamente il Romano Impero: i due fatti pi@u provvidenziali
+della storia umana sono premio alla virt@u dell'Alacrit@a.
+
+	|103-105.~  Abbiamo gi@a osservato che in questa Cornice
+manca la solita preghiera degli spiriti purganti; ne fa le veci
+questo coro, che ci d@a anche la ragione della continua cura di
+Virgilio di non perder tempo, sicch@e le |studio~, ossia la
+sollecitudine del ben fare rinnovi e rinvigorisca la grazia di
+Dio: <nolite negligere, nolite cessare> (^Giudici~, XVIII, 9).
+
+	|106-111.~  Il |forse~ non @e dubitativo, perch@e Virgilio
+sa che qui si punisce l'accidia, ma cortesemente riguardoso. 
+^Bugiare~ in senso di dir burgia si trova anche in prosa
+(Cavalca, ^Specchio di croce~: <l'uomo per suo bugiare o mentire
+a niuno giova>).
+
+	|112-114.~  Come si vede, per la ragione pi@u volte
+accennata, gli Accidiosi eran sopraggiunti dalla sinistra del
+monte rispetto a Dante e andavan verso destra.  Breve @e la
+risposta dell'unico spirito che parla; ma egli sente il bisogno
+di scusare la sua brevit@a.
+
+	|115-117.~  Il primo verso, dolcissimo, mostra come le
+pene del Purgatorio siano ad un tempo amare e care.  Le corte
+parole dello spirito che parla non sono dovute a ripresa
+dell'antico modo, come in Belacqua, ma a desiderio ardente di
+compiere la punizione.  N@e per quanto affrettato quello spirito
+tralascia di dar a Dante notizie di s@e e d'un altro che possono
+giovargli.
+
+	|118-120.~  Altre notizie di s@e non dar@a questo abate.
+Fra gli Ignavi dell'Inferno abbiam visto accennato un Pontefice;
+fra gli Accidiosi del Purgatorio un Abate: entrambi indicati da
+una perifrasi, colui ^che fece per viltade il gran rifiuto~, e
+|abate di San Zeno a Verona~ al tempo |del buon Barbarossa.~
+
+	Quest'attributo di |buono~ dato ad un Imperatore di cui, 
+a distanza di tanti anni, ancora si ricorda con dolore un'intera
+citt@a, Milano, da lui distrutta nel 1162, fu ritenuto ironico; ma
+sembra pi@u consono alle idee del Poeta, interpretare buon per
+valoroso, perch@e Federico sostenne vigorosamente i diritti
+imperiali, e Dante dovette considerare come giusta punizione la
+distruzione di Milano che aveva osato ribellarglisi.  Non
+altrimenti nella Epistola VI ai Fiorentini, il Poeta ricord@o loro
+l'esempio di Milano e di Spoleto, e nell'Epistola ad Arrigo
+incitava l'Imperatore a punire la ribelle Firenze.
+
+	Non @e facile determinare chi sia questo abate di quel
+celebre monastero di San Zeno in Verona, di cui rimangono ancora
+il chiostro e la chiesa: una delle pi@u belle chiese romaniche
+d'Italia, rifatta tra il secolo XI e il XII, dedicata a San
+Zenone (morto nel 380), il Santo Vescovo a cui si attribuisce la
+conversione dei Veronesi al Cristianesimo.
+
+	Gli antichi commentatori tacciono.  Il Biancolini trov@o
+che ai tempi del Barbarossa fu abate di quel monastero un
+Gherardo o Girardo II, morto nel 1187, che, aggiunge il Barozzi, 
+nel 1184, in ricompensa d'onorevole accoglienza, fu dal
+Barbarossa investito della giurisdizione di molti villaggi.  Ma
+pi@u che la storia, ancora incerta, di quest'abate, a noi
+interessa quella d'un suo successore di cui qui si continua a
+parlare per incidenza.
+
+	|121-126.~  Colui che nel 300 poteva ben dirsi che avesse
+gi@a un pi@e nella fossa @e Alberto della Scala, morto l'anno dopo, 
+il 10 Settembre 1301, lasciando tre figli legittimi, Bartolomeo, 
+Alboino e Can Grande, e un figlio illegittimo, Giuseppe, da lui, 
+nel 1292 fatto eleggere, abusando della sua |possa~, abate di San
+Zeno.  Questo Giuseppe (1263-1313) era indegno di tal prelatura, 
+dice il Lana, per le tre ragioni apportate dal Poeta: <imprima
+ch'ello era zoppo del corpo, secondo ch'elli era cos@i difettoso
+dell'anima come del corpo, terzo ch'elli era figliuolo
+illegittimo>.  @E vero che quest'ultimo difetto gli era stato
+sanato nel 1286 dal Pontefice Onorio IV, grato ad Alberto d'aver
+perseguitato i paterini che si erano rifugiati sul Garda.
+
+	Benvenuto dice che Giuseppe non era nato cattivo; uomo in
+giovent@u integro e probo, poi, avendo per consiglio medico ^tacta
+muliere~, quasi inquinato di diabolica pece, divenne
+scelleratissimo: animo pravo, lupo violento e rapace, usciva la
+citt@a nottetempo con bande armate a rubare ed empiva il monastero
+di meretrici.  Nel 1304, narra l'Imolese, quando il fratello
+Alboino successe a Bartolomeo e pensava di richiamare a Verona i
+Conti di San Bonifacio, antichi nemici degli scaligeri, Giuseppe
+si oppose accusando di pusillanimit@a Alboino, e d'accordo col
+giovinetto Cangrande trucid@o i San Bonifacio all'isola della
+Scala.  Il Talice aggiunge le parole che in tal circostanza il
+violento Abate avrebbe rivolto al fratellastro Alboino: <Se non
+vuoi la signoria, lasciala a questo fanciullo>, cio@e a Cangrande.
+
+	Per@o la strage dei Conti di San Bonifacio non @e
+accertata, e tanto meno la compartecipazione al delitto di
+Cangrande, allora in et@a di quattordici anni.  Quanto ad Alboino
+la sua debolezza e incapacit@a al governo era nota e riconosciuta
+da tutti, e testimoniata anche da Dante nel ^Convivio~ (IV, XVI, 
+6).  Ma resta l'accusa ad Alberto della Scala, che gitta un'ombra
+di dispregio su tutta la famiglia degli Scaligeri: altra prova
+della virile coscienza del Poeta, che n@e ammirazione, n@e
+gratitudine di liberale ospitalit@a, potevano ritrarre dalla via
+della giustizia e della verit@a.
+
+	|127-132.~  L'occhio di Dante segue ancora l'Abate di San
+Zeno; ma Virgilio, suo soccorso, stimolo a bene, freno a non
+eccedere, lo richiama all'argomento del Canto.  Gli Accidiosi son
+gi@a tutti trascorsi, e, colla foga degli altri, passano gli
+ultimi due, senza nome, non quasi persone, ma voci minacciose
+della giustizia divina: l'ultimo bellissimo verso dice l'ira bona
+che ridesta il peccato, in chi ormai se ne @e separato.  Ed ecco i
+due esempi d'accidia punita, l'uno biblico e l'altro profano.
+
+	|133-135.~  A Maria sollecita ad ascender la montagna per
+esser la prima a salutare nella madre sua il Battista che doveva
+aprire la via al proprio Figlio, si contrappongono gli Ebrei che, 
+superato il Mar Rosso, intolleranti delle fatiche del viaggio, 
+mormorarono contro Mos@e e perirono nel deserto, prima che la
+terra promessa, irrigata dal Giordano, ricevesse coloro a cui
+Iddio l'aveva promessa, come eredi di Abramo (^Esodo~, XIV, 
+10-20).  All'alacrit@a di Cesare si contrappone similmente
+l'ignavia di coloro che dovevano preparare lo ^loco santo~ della
+Chiesa e dell'Impero, l'alma Roma.
+
+	|136-138.~  Narra Virgilio (^Eneide~, V, 604) che
+parecchi compagni di Enea, vecchi e stanchi, sbarcarono in
+Sicilia, raccomandati da Enea ad Aceste, dal cui nome chiamarono
+la citt@a che quivi costrussero; nell'ultimo dei nostri versi
+risuona il virgiliano ^animos nil magnae laudis egentes.~ 
+Neppure la vecchiaia ci scusa dall'obbligo di compiere un alto
+dovere, sembra qui ammonire il Poeta, pi@u severo che non sia
+stato nel ^Convivio~ (IV, XXVI, 11) verso i compagni di Enea
+rimasti in Sicilia.
+
+	|139-145.~  Gli Accidiosi sono scomparsi, i due Poeti son
+soli, e Dante pu@o alfine cedere al sonno, lasciando che il
+pensiero vaneggi.  <Nel prendere sonno, dice il Tarozzi, la mente
+rimane fissata sopra un pensiero, fissata con una dolcezza tale
+che a noi sembra non esser noi che ci affisiamo ad esso, il che
+porta fatica, ma che esso pensiero sia, che s'insinui entro noi. 
+E mentre crediamo di rimanere in quel pensiero, esso non @e gi@a
+pi@u identico a s@e, @e gi@a un altro, anche poco legato col primo, e
+via son due e pi@u che nascon da s@e anche senza legame fra loro. 
+@E il vaneggiare>, che precede il sonno ed il sogno: <fin allora
+era pensiero, ad un tratto @e sogno>, come vedremo al principio
+del Canto seguente.  All'osservazione fisiologica si aggiunga la
+bellezza dei versi, e del periodo lungo, molle, quasi
+evanescente, l'armonia dei suoni che sembrano allontanarsi: <gli
+stessi suoni lenti e la scelta delle parole lunghe da ultimo, 
+rendono al vero la cosa> (Tommaseo).

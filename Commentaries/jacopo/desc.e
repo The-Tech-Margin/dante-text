@@ -1,0 +1,23 @@
+..COMM:
+Jacopo
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Jacopo Alighieri
+..PUBD:
+1322
+..PUBL:
+[^Inferno only~]
+Chiose alla Cantica dell'Inferno di Dante Alighieri scritte
+da Jacopo Alighieri, pubblicate per la prima volta in corretta
+lezione con riscontri e facsimili di codici, e precedute da una
+indagine critica per cura di Jarro [Giulio Piccini].  Firenze, R.
+Bemporad e figlio, 1915.
+..DENT:
+KDEM
+..EDTR:
+Margherita Frankel
+..LODD:
+870407

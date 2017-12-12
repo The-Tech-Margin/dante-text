@@ -1,0 +1,39 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.1
+date     89.04.03.14.35.07;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@shell script to reorg the database
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+#	Do a reorganization of the DDP database
+
+#	$Header$
+
+BRSConfig=/usr/lib/brssearch3.0
+export BRSConfig
+LOG=/dante/doc/load.log
+
+echo "" >> $LOG
+echo -n "Reorg started on " >> $LOG
+date >> $LOG
+exec brsload DANT -reorg inv < /dev/null >> $LOG
+@

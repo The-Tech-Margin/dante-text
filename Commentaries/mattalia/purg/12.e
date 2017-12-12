@@ -1,0 +1,603 @@
+	|1.  Di pari~... |giogo~: a fianco a fianco, a passo a
+passo, come procedono i buoi aggiogati e costretti perci@o ad
+armonizzare il passo, per evitare troppi urti e scosse del giogo. 
+Il verso, in s$e assoluto, fa proverbio.
+
+	|2.  io~: anche Dante procede curvo, sotto il giogo del
+pensiero della superbia, di cui egli si sente, e confessa
+peccatore.  Cfr. ^Inf.~, XV, 43-44.  -- |quell'anima carca~:
+Oderisi da Gubbio, carico del peso del suo macigno.  -- |carca~:
+usitato, a cominciare da ^Inf.~, VIII, 27.
+
+	|3.  sofferse~: toller@o, permise: usitato.  --
+|pedagogo~: variante di <maestro>: propriamente maestro di
+fanciulli.
+
+	|4.  varca~: procedi oltre; cfr. ^Purg.~, X, 53.
+
+	|5-6.  ch$e~... |barca~: @e opportuno e saggio (|buon~) che
+ciascuno spinga quanto pi@u pu@o la sua propria barca, usando vela
+e remi, tutti i mezzi di cui pu@o disporre.  L'avvertimento
+contiene un insegnamento di carattere generale; ed @e formulato in
+termini e tono di proverbio.  In lat. <velis remisque
+contendere>; Ovidio, ^Eroidi~, XIII, 101: <remoque move veloque
+carinam>.  -- |remi~: cfr. ^Purg.~, XVII, 87: ^il mal tardato
+remo~ (dell'accidia).  -- |ciascun~: come a dire: a ognuno la sua
+pena, e i suoi problemi: e i tuoi, per il momento, son diversi, e
+non li devi perder di vista.  -- |pinger~: spingere; usitato.
+
+	|7-9.  dritto~... |scemi~: all'esortazione del Maestro. 
+Dante si rif@a |dritto~ con la persona, riprende la posizione
+normale, come |vuolsi~, si deve fare per |andar~, procedere
+normalmente, sebbene (|avvegna che~) i pensieri dentro di lui,
+consapevole d'essere anche troppo impeciato di superbia,
+continuassero a rimanergli curvi (|chinati~) in segno di umilt@a,
+e |scemi~, diminuiti, privi della loro baldanza e vivacit@a
+ordinarie.  Cfr. ^Purg.~, XI, 118-120.  -- |scemi~: privi di... e
+significati affini; usitato; cfr. ^Purg.~, VII, 65; XIII, 126,
+ecc.
+
+	|10.  m'era mosso~: accelerando l'andatura, prima
+lentissima.  -- |volentieri~: di buona voglia.
+
+	|12.  leggieri~: andando spediti mostravano quanto
+fossero |leggieri~, non carichi di macigno, come i superbi. 
+Dante si @e liberato di quella sensazione d'incubo, di cui ai vv.
+26-27 del canto precedente.
+
+	|13.  ed el~: a un certo punto, poco dopo.
+
+	|14-15.  buon~... |tue~: ti sar@a utile, per ingannare la
+lunghezza e la fatica del cammino, osservare (|veder~) il
+pavimento della cornice, che fa da |letto~ alle tue |piante~, sul
+quale posi, adagi tranquillamente le piante dei piedi, senza
+accorgerti di quanto ti sta sotto.  -- |tranquillar~: per
+camminar pi@u sicuro, secondo il Vandelli e altri.  Ma Virgilio
+richiama l'attenzione di Dante su qualcosa che val la pena di
+essere osservato, pi@u che su possibili ostacoli materiali.  Dante
+si era appena rimesso in posizione normale e aveva appena
+incominciato a camminar <leggiero>, che Virgilio torna a fargli
+chinare il capo: la disciplina, la terapia della superbia
+riprende, insistente e quasi senza pause.  <Tranquillare>,
+perci@o, potrebbe esser sottilmente ironico: di tranquillanza,
+infatti, non ce n'@e punto...  <Per render pi@u piacevole e vario
+il cammino>, interpreta il Casini-Barbi, con rimando al sonetto
+dantesco ^Deh ragioniamo~...: <il viaggio ne parr@a minore
+prendendo un cos@i dolce tranquillare>.  -- |buon~: e |buon~
+sopra, al v. 5: il ^dolce~ {v.3} pedagogo @e un po' secco, e
+dirige con tutta energia.  Non lo persuadeva del tutto, l'andar
+di Dante a quel modo: disciplina penitenziale? o non piuttosto un
+modo per riposare, tirare il fiato?  ^Buon~ {v.5}... |buon~...
+|tranquillar~... |letto~...
+
+	|16-17.  Come~: il pavimento della cornice, costellato di
+bassorilievi, ricorda al poeta il pavimento di chiese o chiostri
+cosparso di |tombe terragne~, in cui cio@e il vuoto della tomba @e
+sotto la superficie della terra e la lastra sepolcrale che lo
+copre, anch'essa ornata di bassorilievi, @e al livello del
+pavimento.  Il richiamo @e assai intonato: nessun luogo migliore
+di una tomba per meditare sulla superbia; visivo <memento> del
+<Memento> ecclesiastico: <Pulvis es, et in pulverem reverteris>. 
+-- |perch$e~... |sia~: affinch$e... resti.
+
+	|18-21.  portan~... |calcagne~: la lastra sepolcrale
+porta inciso, segnato, figurato nel marmo, quel che il sepolto
+era prima di morire, la sua figura o ritratto di vivo (ora
+polvere e ossa!); e per quella figura, che richiama visivamente
+il defunto, |l@i~, sulla tomba, si torna spesso a piangerlo (|si
+ripiagne~) per la dolorosa puntura del rinnovato ricordo, il
+quale tuttavia solo ai |pii~, ai giusti, che hanno conservato il
+ricordo del defunto e si preoccupano della sua sorte
+nell'oltretomba, |d@a delle calcagne~, punge e addolora.  --
+|puntura~: ^punge d'amore~, in ^Purg.~, VIII, 5-6.  --
+|calcagne~: come il cavaliere, col calcagno, portante lo sprone,
+punge i fianchi del cavallo.  In senso proprio, in ^Purg.~, XIX,
+61; <c@alcar> in lat., sprone; e lo sprone appoggia al calcagno. 
+Traslato pesante, ma non improprio, commenta il Tommaseo.
+
+	|22.  di miglior sembianza~: pi@u bello a vedere.
+
+	|23.  secondo l'artificio~: quanto alla esecuzione
+artistica; <secundum>, usitato nel lat. scolastico e dantesco. 
+|Artificio~ @e cosa fatta od operazione condotta secondo le norme
+dell'arte: <artificioso>, quindi, nel linguaggio del tempo, vale:
+artistico.  Anche di questi bassorilievi l'artefice @e Dio, come
+di quelli descritti in ^Purg.~ X.  -- |figurato~: scolpito,
+inciso a figura.
+
+	|24.  quanto~... |avanza~: quanto sporge fuor del monte e
+serve di via alle anime, il pavimento della cornice o girone. 
+Cfr. ^Purg.~, X, 23.  Seguono tredici ^figurati~ esempi di
+superbia punita, costituenti il secondo momento della terapia
+morale della superbia: il primo momento (meditazione su esempi di
+umilt@a premiata e conseguente stimolo a praticare questa virt@u) @e
+affidato a tre soli, sebben memorabili esempi; il secondo momento
+(meditazione su esempi di superbia punita e conseguente freno a
+cedere alla superbia) @e affidato a ben tredici esempi, ed @e
+dunque il pi@u importante -- e dev'essere oggetto di cure
+particolari: l'uomo, questo il succo, @e pi@u accessibile allo
+stimolo del timore che al puro richiamo della virt@u.  I primi
+dodici esempi, suddivisi in tre gruppi di quattro ciascuno, e
+iniziati rispettivamente con le lettere V. O. M., data
+l'equivalenza grafica di V. e U., formano acrostico: U. O. M.
+(uomo); acrostico poi ripetuto nelle lettere iniziali della
+terzina 61-63, contenente l'ultimo esempio, il tredicesimo.
+
+	|25-27.  Vedea~... |lato~: primo esempio: Lucifero,
+creato da Dio pi@u perfetto (|nobil~) di ogni altra creatura,
+precipitare dal cielo a modo di folgore.  Cos@i nel ^Vang.~ di
+Luca X, 18 <Videbam Satanam sicut fulgur de caelo cadentem>; e
+cos@i Enea, nel I dell'^Eneide~, osserva in Cartagine i
+bassorilievi evocanti fatti della storia troiana: <namque
+videbat...>.  -- |da un lato~: da un lato della via, da legare
+con |Vedea~; ^dall'altra parte~, al v. 28.  I bassorilievi eran
+dunque disposti a due a due ai lati della via, con in mezzo uno
+spazio libero al passaggio: doppio ^giogo~ per gli occhi, e per
+l'anima.
+
+	|28-30.  Briareo~... |gelo~: Briareo, il gigante dalle
+cento braccia (Cfr. ^Inf.~, XXXI, 98), punito per aver preso
+parte alla ribellione dei Titani contro gli D@ei, giace, trafitto
+(|fitto~) dal dardo celeste, e sembra, con la sua smisurata e
+fredda salma (|mortal gelo~: gelo della morte) riuscire pesante
+(|grave~) persino alla terra.  @E un particolare, in primo piano:
+il quadro d'insieme @e nella terzina che segue.  Si noti
+l'alternanza di esempi biblici e classico-orientali: ogni fatto e
+momento della storia umana, compresi i miti creati dalla fantasia
+dell'uomo, pu@o essere utilmente oggetto di meditazione morale, e
+fare <esempio>.  -- |grave~: in |grave~ l'idea del corpo
+smisurato, in |mortal gelo~ quella di cadavere, fredda salma.
+
+	|31-33.  Timbreo~... |sparte~: @e il quadro generale e
+conclusivo, complementare al precedente, visto dall'alto,
+dall'angolo visuale delle divinit@a vittoriose e fieramente
+soddisfatte: Apollo (detto |Timbreo~ da Timbra, citt@a della
+Troade, dove sorgeva un tempio in suo onore), Pallade, Marte,
+ancora in armi (ch$e la gran battaglia @e appena finita ed essi ne
+sentono ancora il fremito), stretti intorno a Giove, osservano i
+corpi dei giganti sparsi qua e l@a, per l'ancur fumigante campo di
+battaglia.  -- |sparte~: il quadro @e un condensato, venato di
+ricalchi verbali, delle gigantomachie che Dante leggeva nei suoi
+poeti: Virgilio, Ovidio, Stazio.
+
+	|34-36.  Nembr@ot~... |foro~: Nembr@ot, il biblico
+cacciatore (Cfr. ^Inf.~, XXXI, 58-81) ideatore della Torre di
+Babele, ai piedi del |gran lavoro~ incompiuto, essendo
+sopravvenuta la confusione del linguaggio, osserva smarrito e
+stupefatto, non riuscendo a capacitarsi come il lavoro non
+proceda pi@u, le genti che, in Senna@ar, si resero corree della sua
+folle superbia, collaborando alla costruzione della gigantesca
+torre.  Cfr. ^Gen.~, X, 10.  -- |gran~: grande e famoso.  --
+|lavoro~: alla latina: fatica, sforzo.  -- |foro~: furono.
+
+	|37-39.  O~: segna un mutamento, anche psicologico: i
+primi quadri rappresentano esempi impressionanti e grandiosi; ne
+seguono altri quattro, compassionevoli e pietosi.  -- |Niob@e~...
+|spenti~: Niobe, moglie di Anfione Re di Tebe e madre di
+quattordici figli, sette maschi e sette femmine, aveva menato
+vanto della sua fecondit@a offendendo Latona, madre di due soli
+figli, Diana e Apollo: per punire l'offesa questi le uccisero
+tutti i figli, e Niobe fu trammutata in statua.  -- |segnata~:
+figurata nel marmo, come al v. 18.  La fonte nelle ^Metam.~
+ovidiane, VI, 146-312.  -- |sette e sette~: la duplicazione
+sembra aumentare il numero: una vera strage.
+
+	|40-42.  Sa@ul~... |rugiada~: Saul, primo re degli Ebrei,
+abbandonato da Dio per la sua superbia, si uccise gettandosi
+sulla propria spada sul monte Gelbo@e, o Gelboa (Palestina), alla
+fine di una sfortunata battaglia contro i Filistei.  E Davide,
+racconta la Bibbia (II ^Re~, I, 21) scagli@o su quel monte la
+maledizione: <Montes Gelb,oe, nec ros nec pluvia veniant super
+vos>.  -- |parevi~: apparivi (spettacolo miserando!) |morto.~  --
+|morto~: ^su la propria spada~: suicida, dunque.  -- |non sent@i~:
+non ebbe pi@u beneficio di...
+
+	|43-45.  O folle~... |f$e~: il dramma di Aracne, famosa
+tessitrice di Lidia, |folle~ per aver osato sfidare Minerva
+nell'arte della tessitura e punita con la sua trasformazione in
+ragno, @e raffigurato nel momento pi@u impressionante, a met@a cio@e
+del processo di trasformazione, quando la donna @e gi@a |mezza
+ragna~, stesa sui resti (|stracci~) sbrindellati della tela che
+da lei, per gareggiare con Minerva, |male~, per sua sventura, era
+stata tessuta.  Tema, anche questo, delle cit. ^Metam.~, VI,
+5-145.  Cfr. ^Inf.~, XVII, 18.  -- |folle~: <stolidae cupidine
+palmae>, in ^Metam.~ l. c. -- |trista~: di condanna e
+compassione.  -- |per te~: da te.
+
+	|46-48.  Roboam~... |cacci~: Roboamo, re degli Ebrei dopo
+Salomone, con la sua crudele e superba oltracotanza spinse a
+rivolta il popolo esasperato, e fu costretto a fuggire:
+l'episodio nel ^Libro dei Re~, III, XII, 14.  La vicenda di
+Roboamo @e colta nel suo momento espiatorio: la figura (|segno~)
+del re, nel bassorilievo, appare tutt'altro che minacciosa: anzi
+egli fugge alla disperata su di un carro, in preda al panico,
+anche prima che il popolo si getti a <cacciarlo>, a inseguirlo. 
+-- |gi@a~: davvero...  -- |segno~: figura <segnata>, incisa,
+scolpita: cfr. v. 18.
+
+	|49.  pavimento~: @e soggetto; duro, materialmente, e
+metaforicamente, dato il carattere, impressionante, delle
+figurazioni.
+
+	|50-51.  Almeon~... |adornamento~: Anfiarao, la cui
+vicenda @e toccata in ^Inf.~, XX, 34, preconoscendo con la sua
+arte di indovino di dover morire nell'assedio di Tebe, si era
+nascosto; ma il luogo del suo rifugio fu svelato dalla moglie
+Isifile, corrotta da Polinice col dono di una preziosa collana. 
+Anfiarao dovette cos@i prender parte alla guerra e vi trov@o la
+morte.  Fu vendicato dal figlio Alemeone, che uccise la madre per
+ordine del padre.  Cfr. ^Par.~, IV, 102-105.  Il bassorilievo
+mostra Alcmeone in atto di uccidere la madre (in realt@a pi@u
+vanitosa che superba) facendole apparire anche troppo |caro~,
+acquistato a caro prezzo (della vita), quell'ornamento
+(|adornamento sventurato~) causa della morte del padre.  Al fatto
+accennano Stazio, ^Teb.~, II, 265 sgg.; Ovidio, ^Metam.~, IX,
+407; Virgilio, ^En.~, VI, 445.  -- |sventurato~: la collana era
+stata originariamente fabbricata da Vulcano per le nozze di
+Armonia e Cadmo; ma pass@o poi, dono infausto, per le mani di una
+serie di donne sventurate: Giocasta, Semele, Argia, Erifile. 
+<Aurum fatale... infaustos ornatus>, nella definizione di Stazio.
+
+	|52-54.  Mostrava~... |lasciaro~: l'episodio nel IV
+^Libro dei Re~, XVIII, 13; XIX, 37; e in ^Isaia~ XXXVI, 1;
+XXXVII, 38.  Sennacherib, re degli Assiri, in guerra contro gli
+Ebrei, ne aveva oltraggiato il re Ezechia, provocando
+l'indignazione del Signore che invi@o un Angelo a sterminarne
+l'esercito.  Rientrato sconfitto a Ninive, Sennacherib fu ucciso
+dai figli durante una funzione religiosa.  -- |morto lui~: lo
+lasciarono l@i, ucciso, |lui~, loro padre.  Siamo, con gli ultimi
+quattro esempi, nel campo delle punizioni feroci, disumane.
+
+	|55-57.  la ruina~... |empio~: l'episodio @e in ^Orosio~
+II, 7, 6, dal cui testo son tratte direttamente le parole messe
+in bocca a Tamiri: <Satia te sanguine, quem sitisti>.  Tamiri,
+regina degli Sciti, infuriata contro Ciro, re di Persia, che
+disprezzando le sue preghiere le aveva ucciso il figlio, mosse
+guerra ai persiani e, sconfittili, e preso Ciro prigioniero, lo
+fece decapitare gettandone il capo in un otre pieno di sangue. 
+Il bassorilievo mostra nello sfondo il quadro della strage
+dell'esercito persiano (|ruina~), e in primo piano il feroce
+|scempio~ del cadavere di Ciro, commentato dalle parole, vibranti
+di vendicativa ferocia, di Tamiri.  -- |sitisti~: fosti assetato
+di...  -- |empio~: riempio, sazio: cfr. ^Inf.~, I, 98; ^Par.~,
+VII, 121.
+
+	|58-60.  Mostrava~... |martiro~: dalla Bibbia, ^Giudici~
+XI e XIV, 4, 16.  Oloferne, generale di Nabucodonosor, re di
+Assiria, stava assediando Betulia, in Giudea: ma la citt@a ebbe
+salvezza da Giuditta, una bella e giovane donna la quale,
+recatasi da Oloferne e fattolo invaghire, lo uccise poi
+decapitandolo.  La vista del capo mozzo del comandante gett@o lo
+scompiglio e la fuga nell'esercito assiro.  -- |in rotta~: rotto,
+sbaragliato, in ^Purg.~, XIII, 118.  -- |morto~: ucciso.  -- |le
+reliquie~... |martiro~: i resti dello strazio, dello scempio, e
+cio@e il cadavere decapitato o, forse meglio: il capo mozzo.  @E in
+tono con l'esempio precedente: ed anche qui il quadro risulta di
+due elementi: la scena di fondo, e il primo piano, con
+l'orripilante particolare.  Gli esempi, nel loro susseguirsi,
+sono raggruppati per affinit@a, grandiosi e impressionanti;
+compassionevoli; feroci.
+
+	|61-63.  Troia~... |discerne~: la figurazione (|segno~)
+che l@i si scorgeva, mostrava, riassuntivamente, un esempio di
+punizione collettiva: Troia la superba e potente Troia (cfr.
+^Inf.~, I, 75; XXX, 14) trasformata in cenere e in cavernose
+rovine; e la sua rocca, |Ilio~, gi@a superbamente alta e
+minacciosa, rasa al suolo (|basso~) e oggetto di derisione o
+compassione (|vile~).  -- |segno~: figurazione, bassorilievo,
+come sopra.  -- |discerne~: ben chiaro: attirava l'occhio, e
+colpiva l'animo.
+
+	|64-66.  Qual~... |sottile~: nel suo significato
+generale, la terzina torna a svolgere (cfr. ^Purg.~, X, 31-32) il
+motivo della prodigiosa perfezione artistica dei bassorilievi. 
+Qualche divergenza nell'interpretazione letterale dei vv. 64-65
+e, particolarmente, sull'esatto significato dei due termini
+|ombre~ e |tratti~, e del verbo |ritraesse~, ch'@e poi la chiave
+dell'interpretazione.  In genere s'interpreta: mai artista
+ritrasse (dal vero) o figur@o le sue |ombre~ e |tratti~ con una
+perfezione paragonabile a quella per cui l@i, quegli intagli,
+avrebbero fatto meravigliare anche l'|ingegno~, il giudice o
+critico, diremmo oggi, pi@u |sottile~, pi@u acuto e profondo.  Ma @e
+interpretazione generica che svigorisce la vivace affermazione
+della perfezione suprema di quei bassorilievi.  Secondo il
+Grabher, tutto il concetto @e impostato sulle diverse possibilit@a
+della pittura e della scultura, e perci@o sulla impossibilit@a, o
+estrema difficolt@a, l@i superata, di ottenere nella plastica i
+delicati effetti della pittura e del disegno; mai pittore o
+disegnatore ritrasse |ombre~ e |tratti ch'ivi~, i quali l@i, al
+modo che l@i, ecc...  Resta tuttavia la difficolt@a del costrutto
+sintattico: |che ritraesse l'ombre e i tratti ch'ivi~ ecc., e il
+concetto potrebbe, forse, essere un altro, e tale da render pi@u
+efficace l'affermazione della suprema perfezione dei
+bassorilievi, affidata al concetto della difficolt@a non solo di
+eguagliarli, per <produzione>, in un'arte pi@u ricca di risorse,
+ma anche solo di <riprodurli>, d'imitarli, di farne degna copia. 
+-- |ombre e' tratti~: ombreggiature, effetti di chiaroscuro; e
+lineamenti, contorni; |tratti~ in piano e in rilievo secondo il
+Torraca; figure disegnate e i loro lineamenti secondo il Del
+Lungo.  |Ombre~, comunque, sar@a da riferire a <pennello> (v. 64),
+e |tratti~ a stile, verghetta di piombo o stagno usata dai
+disegnatori.
+
+	|67.  Morti~... |vivi~: pronunziato con energia;
+veramente, veristicamente morti apparivano i morti, e vivi i
+vivi.
+
+	|68-69.  non vide~... |givi~: perci@o chi vide il |vero~,
+chi vide realmente i fatti, non vide |m@ei~, meglio, pi@u
+efficacemente di me, quanto io |calcai~ coi miei propri piedi
+rappresentato sul pavimento della cornice, finch$e me ne andai
+(|givi~) a capo chino.  Come in ^Purg.~ X, il massimo dell'arte @e
+la perfetta riproduzione o imitazione del |vero~, del reale.  --
+|calcai~: esprime anche atteggiamento morale: Dante, calcando gli
+esempi, apprende a <calcare> la superbia.
+
+	|70-72.  Or~... |sentero~: avvertimento e chiusa
+vibratamente ironici: e ora, anche dopo siffatta
+esemplificazione, continuate pure a insuperbirvi, o figli d'Eva,
+figli del peccato originale, e a procedere a testa spavaldamente
+eretta; e guardatevi bene dal chinare il volto alla terra (comune
+madre e nostra ultima dimora) per scoprire la cattiva strada che
+percorrete.  Riprende, variando, l'aspro ammonimento di ^Purg.~,
+X, 120-129.
+
+	|73-75.  pi@u~... |sciolto~: dai due poeti (|per noi~: da
+noi) era gi@a stato |v@olto~, percorso in circolo |pi@u~ del fianco
+della montagna, e del |cammin del sole~, del giorno, |speso~ in
+quel percorso pi@u di quanto non si fosse accorto l'animo, |non
+sciolto~, tutto preso e intento a osservare i bassorilievi...:
+tempo e cammino trascorsi in volo!  -- |sciolto~: cfr. ^Purg.~,
+IV, 7-12: ^vassene il tempo e l'uom non se n'avvede.~
+
+	|76.  colui~: Virgilio.  -- |atteso~: intento, osservando
+attentamente; d'uso normale.
+
+	|78.  sospeso~: assorto, meditabondo.  La terapia della
+superbia @e finita, ed ha la sua consacrazione nel gesto
+dell'Angelo che con un battito d'ala cancella dalla fronte del
+poeta il primo ^P~, simbolo grafico della superbia, primo dei
+sette peccati mortali.
+
+	|79.  un angel~: l'Angelo guardiano del primo girone.
+
+	|80-81.  torna~... |sesta~: l'ora sesta se ne torna dopo
+aver prestato il suo servizio al Giorno: @e gi@a passato
+mezzogiorno.  ^Ancelle~... ^del giorno~ le ore in ^Purg.~, XXII,
+118, definizione derivata dalla mitologia classica, secondo la
+quale le dodici Ore erano addette come ancelle al carro del Sole
+(cfr. Ovidio, ^Metam.~, II, 118 sgg.).  Il soggiorno dei poeti
+nella prima cornice @e durato un po' pi@u di due ore (10-12).
+
+	|82-84.  Di~... |raggiorna~: Virgilio invita Dante ad
+<adornare>, ornare, atteggiare a reverenze il viso e
+l'atteggiamento di tutta la persona affinch$e all'Angelo (|i~:
+gli) piaccia, cortesemente e lietamente, vedendo che tutto @e in
+ordine, ^inviarli~, metterli sulla via che porta al girone
+successivo; si ricordi inoltre il discepolo che il tempo perduto
+non torner@a pi@u; che quel giorno non <raggiorner@a>, non
+rispunter@a mai pi@u all'orizzonte.  Giorno passato, per sempre! 
+-- |diletti~: cfr. ^Purg.~, XIV, 124; XVII, 20.  -- |lo
+'nviarci~: cfr. ^Purg.~, XXI, 72.
+
+	|85-87.  lo~... |chiuso~: il sentenzioso ammonimento
+finale, come il |drizza la testa~ iniziale, erano stati un po'
+secchi: quanto alla necessit@a di non perdere inutilmente il
+tempo, il Maestro gliel'aveva ripicchiata tante volte in testa,
+che Dante ha un leggero moto d'impazienza.  Letteralmente: io ero
+talmente |uso~, abituato agli ammonimenti del Maestro, sempre e
+insistentemente (|pur~) in rapporto alla necessit@a di non perdere
+tempo, che, ormai, su questo argomento (|matera~, materia) non mi
+poteva pi@u parlare |chiuso~, in modo che io non lo capissi.  Come
+a dire: questa volta, era proprio inutile.  -- |matera~: usitato
+per: materia.  -- |chiuso~: oscuro, mal comprensibile, come in
+^Par.~, XI, 73.
+
+	|88.  la creatura bella~: <L'aggettivo |bella~, in s$e
+banale, acquista luce dalla posizione che fa poggiare su di esso
+il movimento e il fascino del verso, e fa di esso il centro fermo
+di tutta la rappresentazione> (Momigliano).
+
+	|89.  bianco vestito~: vestito di bianco: maschile,
+riferito a senso, ^a creatura bella~ {v.88}, l'Angelo.  Gli
+Angeli appaiono, in genere, vestiti di bianco nei ^Vangeli~: cfr.
+^Matteo~, XXVIII, 3; ^Marco~, XVI, 5; ^Luca~, XXIV, 4;
+^Giovanni~, XX, 12.  Bianco vestito @e l'Angelo traghettatore, in
+^Purg.~, II, 23.
+
+	|90.  par~... |stella~: e cos@i luminoso in volto che la
+sua vista tremolava ai miei occhi, come appare, tremolante, la
+luce della stella del mattino.  <Sidere pulchrior> in Orazio,
+^Odi~, III, 9: <Culgebunt quasi splendor firmamenti... et quasi
+stellae> in ^Daniele~, XII, 3.
+
+	|91.  aperse~: gesto di nobile e lieta accoglienza.
+
+	|92.  gradi~: i gradini della scala che porta al secondo
+girone.
+
+	|94.  A questo~... |radi~: Cristo, in ^Matteo~, XXII, 14:
+<Multi enim sunt vocati, pauci vero electi>, ma qui il senso @e
+diverso: l'Angelo par deprecare che la superbia sia, nella
+maggior parte dei casi, causa di eterna dannazione.  Le parole
+sono, s'intende, e naturalmente, dell'Angelo, al quale si possono
+attribuire, senza forzatura, anche i due versi che seguono, di
+alto e grave compatimento.
+
+	|95-96.  o gente~... |cadi~: o gente umana, nata s@i per
+volare in alto, verso Dio, ma con altre ali da quelle della
+superbia, le quali, moralmente, sono deboli ali e si abbattono a
+terra all'urto di anche |poco~ vento.  @E richiamato il ^Padre
+nostro~ cantato dai superbi, col suo fermo insistere sul motivo
+dell'umana debolezza.
+
+	|99.  sicura~: libera da impedimenti.
+
+	|100-105.  Come~... |doga~: la scala <tagliata> nella
+roccia ricorda a Dante una particolarit@a della salita che dal
+ponte di Rubaconte, poi detto delle Grazie, porta diritto alla
+chiesa di San Miniato al Monte che sovrasta direttamente
+(|sovra~) il detto ponte e domina dall'alto (|soggioga~) Firenze:
+a un certo punto la via presentava una biforcazione il cui ramo
+destro era costituito da una scalinata, con percorso allungato,
+ma di ascesa pi@u agevole.  -- |soggioga~: cfr. ^Par.~, XII, 54. 
+-- |la ben guidata~: ironico: la mal governata (cfr. ^Purg.~, VI,
+127-129).  |Rubaconte~: il ponte di Rubaconte, cos@i denominato
+dal podest@a di Firenze Rubaconte di Mondello, che ne pose la
+prima pietra nel 1237, come informa il Villani (^Cron.~, VI, 26).
+-- |si rompe~... |foga~: si rompeva la pendenza, ma era una
+salita da mozzare il fiato, da farci il fiato grosso, come usa
+dire.  Letteralmente: si ^rompeva~, allentava, percorrendo la
+scalinata di destra, |l'ardita foga~, il respiro accelerato di
+chi saliva.  -- |foga~: <Foga @e andamento sanza trattenersi, e
+operamento sanza tramezzare respiro> (Buti).  Cfr. ^Par.~, XII,
+50.  -- |per le scalee~: in grazia della scalinata.  Cfr. ^Inf.~,
+XXVI, 13; ^Par.~, XXXII, 21.  -- |che si fero~... |doga~: che si
+fecero, furono costruite in tempi in cui erano sicuri, esenti da
+frodi e falsificazioni, il |quaderno~ e la |doga.~  Non c'@e che
+accettare questa brusca intrusione, preannunciata dall'ironico
+|ben guidata~, di un motivo polemico in un riferimento puramente
+topografico: non si riesce tuttavia a vedere il rapporto fra la
+costruzione della scalinata e i due grossi scandali ai quali si
+allude nel v. 105.  Il primo, lo scandalo del |quaderno~, narrato
+anche dal Compagni (^Cron.~, I, 19) e confermato dai documenti,
+avvenne nel 1299 durante la podesteria di Monfiorito da Padova,
+resosi responsabile di numerosi arbitrii e falsi
+nell'amministrazione della giustizia, per cui nel maggio 1299
+veniva deposto dalla carica e imprigionato: durante le inchieste
+che ne seguirono, si arriv@o alla scoperta di una manomissione
+degli atti o |quaderni~ giudiziari compiuta da Nicola Acciaiuoli,
+dei Priori, del bimestre 15 agosto - 15 ottobre 1299, poi a sua
+volta sottoposto a processo e condannato.  Consigliere e complice
+dell'Acciaiuoli fu il Baldo Aguglioni nominato in ^Par.~, XVI,
+56.  Il secondo, lo scandalo del sale, largamente narrato
+dall'^Anonimo~ e da altri commentatori trecenteschi, scoppi@o nel
+1283, ed ebbe come protagonista un Donato dei Chiaramontesi,
+<camarlingo> o direttore amministrativo dell'ufficio incaricato
+della distribuzione del sale alla cittadinanza.  Poich$e il sale
+veniva consegnato dal Comune all'ufficio in staia a doghe di
+legno di una determinata misura, il Chiaramontesi ricorse
+all'accorgimento, una volta ricevuto il sale, di trarre una doga
+per ogni staio o bigoncia, diminuendone ovviamente la
+circonferenza e distribuendo il sale in base alle nuove misure. 
+Del sale eccedente egli faceva commercio in proprio.  Scoperto,
+fu processato e condannato e il ricordo di questo disonore grav@o
+a lungo, come risulta da ^Par.~, XVI, 105, sul casato dei
+Chiaramontesi.  Si suol citare una canzonetta satirica che corse
+in Firenze sul fatto: <Egli @e tratta una doga dal sale -- e gli
+uffici son tutti salviati>.
+
+	|106.  s'allenta~: allenta la propria pendenza.
+
+	|107.  ratta~: veloce, cio@e ripidissima: per concettosa
+trasposizione da <pendenza> a <caduta>; ^piomba~ in ^Inf.~, XIX,
+9.
+
+	|108.  ma~... |rade~: ma la scala @e stretta e dai due
+lati |l'alta pietra~, le pareti della scala, <radono>, sfiorano
+chi sale.  <Radere> @e forse tratto da ^En.~, V, 169 sgg., dove
+della nave di Cloanto @e detto che, procedendo essa tra la nave di
+un altro compagno e le risonanti scogliere, <radit iter>.
+
+	|109.  Noi volgendo~: mentre noi volgevamo in quella
+direzione.
+
+	|110.  Beati~...: cos@i Cristo nel ^Vangelo~ di ^Matteo~,
+V, 3: @e la prima delle cosiddette <beatitudini> evangeliche, in
+grazia delle quali @e garantito all'uomo il <regno dei cieli>. 
+Povert@a di spirito: qui, nel significato diametralmente opposto
+a: superbia.  -- |voci~: imprecisate; nei gironi successivi @e
+sempre l'Angelo a cantare la <beatitudine>: e potrebbe quindi
+trattarsi, come sostiene il D'Ovidio, di un plurale puramente
+<stilistico>, logicamente equivalente a un singolare: voce, la
+voce dell'Angelo, come in ^Purg.~, XXII, 5.
+
+	|111.  s@i~... |sermone~: con tale dolcezza che non @e
+possibile esprimere a parole.
+
+	|112.  foci~: aperture, entrate; ricorda, forse, per
+ricalco fonico, le virgiliane <fauces grave olentis Averni>
+(^En.~, VI, 201).
+
+	|113-114.  per canti~: in mezzo a; accompagnati, accolti
+da canti.  -- |feroci~: aspri, discordi, soverchianti.  @E
+negazione di |canti~, il <lamento>.
+
+	|115.  scaglion~: gradini (cfr. ^Purg.~, IX, 94): propri
+delle chiese, secondo il Buti.  -- |santi~: gradini della scala
+della purificazione e della santit@a.
+
+	|116-117.  troppo~: molto, assai; d'uso normale.  --
+|che~... |davanti~: mi pareva di essere assai pi@u leggero
+(|leve~) di quanto non mi pareva di essere prima (|davanti~),
+procedendo in piano.  La ragione @e spiegata in ^Purg.~, IV,
+88-94; e cfr. poi ^Purg.~, XXVII, 121-123.
+
+	|118.  cosa greve~: cosa pesante, peso.
+
+	|119-120.  nulla~: alla latina: nessuna (|fatica~).  --
+|per me~: da me.  -- |si riceve~: dal costrutto del lat.
+<accipere>: <ricevere inganno>, in ^Inf.~, XX, 96: patire,
+subire.
+
+	|121-126.  Rispuose~... |sospinti~: quando i sei ^P~ che
+ancora rimangono sulla fronte di Dante, ma |presso che stinti~,
+saranno completamente cancellati (|rasi~) come ora @e stato il
+primo di essi, i piedi del poeta saranno (|fier~) cos@i vinti dal
+|buon voler~, dalla forte e attiva volont@a di procedere (di fare
+il bene), che non solo (|pur~) non sentiranno fatica, ma sar@a per
+essi motivo di piacere |esser sospinti~, mossi, incalzati dal
+buon volere.  Rimandiamo ancora a ^Purg.~, IV, 88-94,
+completando: l'eliminazione dell'abito del peccato e la
+corrispondente generazione o rigenerazione dell'abito della
+virt@u, render@a sempre pi@u forte e attiva la volont@a di fare, di
+continuare sulla via del bene, e poich$e, secondo un corrente e
+profondo principio aristotelico, a ogni perfetta operazione
+dell'anima si accompagna gioia, a un certo momento Dante non solo
+non prover@a pi@u fatica, ma il salire gli sar@a motivo di piacere,
+|presso che stinti~: si pu@o dedurne che la cancellazione del
+primo P (superbia) abbia avuto come conseguenza di attenuare il
+colore degli altri: forse a convalida del detto
+dell'^Ecclesiaste~ (X, 15) la superbia esser la radice di ogni
+male, e a ricordo che dalla superbia si origin@o il peccato
+originale.  Ma @e forse meglio pensare alla superbia come al
+peccato pi@u difficile a vincere, e a questa prima difficile
+vittoria, e liberazione, che rende, di conseguenza, pi@u agevole
+il successivo processo di rigenerazione spirituale.
+
+	|127-132.  Allor~... |veduta~: il canto chiude con un
+finale graziosamente comico: Dante ha l'aria di non ricordare pi@u
+che l'Angelo gli aveva tracciato sette ^P~{v.121} in fronte col
+puntone della spada (cfr. ^Purg.~, IX, 112); o forse pensava
+trattarsi di un gesto puramente simbolico.  E invece no, eran
+proprio sette ^P~ ch'egli s'era venuto portando in fronte, e ne
+prova un'impressione strana, levando, comicamente, la mano a dita
+allargate a tastarsi la fronte... Dante -- interpretando
+letteralmente -- fa il gesto che fanno, d'istinto, coloro che se
+ne vanno portando in testa qualcosa ch'essi ignorano (e l'effetto
+@e in tal caso quasi sempre comico) ma di cui alla fine sospettano
+l'esistenza (|sospecciar~: sospettare) dai cenni e ammiccamenti
+altrui: per cui la mano (atto istintivo) s'ingegna di |accertar~,
+verificare la cosa, e cerca in capo e finisce col trovare,
+adempiendo a quel compito (|officio~) di controllo che non si pu@o
+fare per mezzo dell'occhio (|veduta~), ch$e nessuno in strada, a
+meno di avere uno specchio a disposizione, pu@o guardarsi in capo. 
+@E reso felicemente l'improvviso imbarazzo, la sensazione
+vischiosa di anormalit@a, e la comicit@a, verbalmente forse troppo
+commentata e aulicamente rigirata, del gesto.
+
+	|133-135.  e~... |tempie~: cos@i, Dante, con le dita
+allargate (|scempie~: semplici o isolate, una per una, e quindi
+allargate; cfr. ^Purg.~, XVI, 55) della mano destra fa il
+controllo e constata che erano |pur~, solo, (ridotte a) sei le
+lettere incisegli (la memoria gli @e tornata prontamente) in
+fronte dall'Angelo |dalle chiavi~, depositario delle due chiavi
+(cfr. ancora ^Purg.~, IX, 117-120) con le quali si apre la porta
+del Purgatorio.  -- |dalle chiavi~: costrutto ablativale di
+qualit@a, alla latina; in ^Inf.~, XXVIII, 93: ^colui dalla veduta
+amara.~
+
+	|136.  a che~... |sorrise~: e osservando il gesto...:
+sorriso di Virgilio ch'@e, anche, il sorriso del lettore.  E un
+sorriso del |duca~, alla fine!...  -- nel commento segreto del
+discepolo.  -- E tanto ci volle!  Cfr. ^Inf.~, IV, 99.

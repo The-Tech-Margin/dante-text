@@ -1,0 +1,304 @@
+From steve@avalon.dartmouth.edu Wed Aug 30 11:55:02 1995
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA05503; Wed, 30 Aug 1995 11:55:00 -0400
+Received: from avalon (localhost [127.0.0.1]) by avalon.dartmouth.edu (8.6.11/8.6.9) with ESMTP id LAA24618 for <bobh@baker>; Wed, 30 Aug 1995 11:54:58 -0400
+Message-Id: <199508301554.LAA24618@avalon.dartmouth.edu>
+To: bobh@baker.dartmouth.edu
+Subject: Lorenzo's list
+Reply-To: Stephen.Campbell@Dartmouth.EDU
+Date: Wed, 30 Aug 1995 11:54:52 -0400
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+
+-------------cover to first message------------
+
+         Hello Steve,
+ I send you in an attached file the results of the searching in our
+dictinary for the test file. I'm working now in translating in English the
+coding apparatus of our dictionary and I will send you as soon as possible.
+This means that will be more easy for you to understand the meanig of
+inflectional and  gramatical code inside the file. I' sorry for the delay,
+but I'm very busy.
+                Bets regards to Hollander,
+
+                                        Lorenzo
+
+
+------- second message ------------------
+
+Date:    Wed, 30 Aug 1995 16:46:46 +0200
+From:    lorenzo@ilc.PI.CNR.IT (Lorenzo Moretti)
+To:      Stephen.Campbell@Dartmouth.EDU
+Subject: Test File
+
+        Steve,
+I don't know what kind of E:Mail handler have you. My E:mail system is the
+version 2.00 of Eudora which I found to be very useful and easy in sending
+and receiving messages. Anyway, I try to send the test list of words
+attaching it directely to this msg. The reason why I've sent the previous
+list as an attached document is that, if you have a DB system, it is very
+easy to import because it contains as field delimeter the tab character and
+the format comes from a SQL DB management system.
+
+                        Ciao=20
+
+                                                Lorenzo
+
+______________________________________________________________
+
+
+
+
+forma	flessione	codgram	lemma
+abitai	s1ir	vti	abitare
+affrontava	s3ii	vtbp	affrontare
+altitudine	fs	sf	altitudine
+alzi	mp	sm	alzo
+alzi	s2ips1cps2cps3cp	vtpr	alzare
+ammanta	s3ips2mp	vtrp	ammantare
+appenninica	fs	a	appenninico
+appesantisca	s1cps2cps3cp	vtp	appesantire
+assecondare	f	vt	assecondare
+assister=E0	s3if	vit	assistere
+assuma	s1cps2cps3cp	vt	assumere
+attendo	s1ip	vti	attendere
+avellana	fs	a	avellano
+avellana	fs	sf	avellana
+avellana	fs	sm	avellano
+benedettini	mp	a	benedettino
+benedettini	mp	sm	benedettino
+benedettini	mp	sn	benedettino
+biennio	ms	sm	biennio
+bombardamento	ms	sm	bombardamento
+braccieri	mp	sm	bracciere
+camaldolesi	mp	a	camaldolese
+camaldolesi	mp	sm	camaldolese
+camaldolesi	np	a	camaldolese
+camaldolesi	np	sm	camaldolese
+caricatura	fs	sf	caricatura
+carrozza	fs	sf	carrozza
+carrozza	s3ips2mp	vt	carrozzare
+caudatari	mp	sm	caudatario
+causa	fs	sf	causa
+causa	s3ips2mp	vt	causare
+cavalcature	fp	sf	cavalcatura
+centinaio	ms	sm	centinaio
+cessarono	p3ir	vitr	cessare
+chiarit=E0	fn	sf	chiarit=E0
+comandate	fp	a	comandato
+comandate	fp	sf	comandata
+comandate	fppr	vit	comandare
+comandate	p2ipp2mp	vit	comandare
+concernente	ns	a	concernente
+concernente	nspp	vt	concernere
+conoscerebbe	s3dp	vtrbi	conoscere
+consorta	fs	a	consorto
+consorta	fs	sm	consorto
+consorta	fs	sn	consorto
+contemplativi	mp	a	contemplativo
+contemplativi	mp	si	contemplativo
+continuarono	p3ir	vtiy	continuare
+controbilanciando	g	vtb	controbilanciare
+cornacchie	fp	sf	cornacchia
+corteggio	ms	sm	corteggio
+corteggio	s1ip	vt	corteggiare
+corvi	mp	sm	corvo
+derivante	ns	a	derivante
+derivante	nspp	vi	derivare
+derivante	nspp	vtip	derivare
+difettosi	mp	a	difettoso
+disfiori	s2ips1cps2cps3cp	vt	disfiorare
+distano	p3ip	vi	distare
+ecclesiale	ns	a	ecclesiale
+entusiastico	ms	a	entusiastico
+erigenda	fs	a	erigendo
+esecutrici	fp	sn	esecutore
+estati	fp	sf	estate
+fica	fs	sf	fica
+fruttare	f	vit	fruttare
+fumma	s3ips2mp	v	fummare
+gibbo	ms	sm	gibbo
+gibbosit=E0	fn	sf	gibbosit=E0
+grassezza	fs	sf	grassezza
+grigi	mp	a	grigio
+grigi	mp	sm	grigio
+imbatterono	p3ir	vp	imbattersi
+impenetrabile	ns	a	impenetrabile
+incarcerata	fs	a	incarcerato
+incarcerata	fspr	vt	incarcerare
+incassato	ms	a	incassato
+incassato	mspr	vtip	incassare
+inducendo	g	vtp	indurre
+ingrassare	f	vte	ingrassare
+innoltra	s3ips2mp	vtp	innoltrare
+intirizzite	fp	a	intirizzito
+intirizzite	fppr	vte	intirizzire
+intirizzite	p2ipp2mp	vte	intirizzire
+inverni	mp	sm	inverno
+inverni	s2ips1cps2cps3cp	vip	invernare
+ipallage	fs	sf	ipallage
+latria	fs	sf	latria
+limitai	s1ir	sm	limitare
+limitai	s1ir	vtr	limitare
+limitarono	p3ir	sm	limitare
+limitarono	p3ir	vtr	limitare
+limitati	mp	a	limitato
+limitati	mppr	sm	limitare
+limitati	mppr	vtr	limitare
+longobardico	ms	a	longobardico
+manducate	fppr	vt	manducare
+manducate	p2ipp2mp	vt	manducare
+mangiate	fp	a	mangiato
+mangiate	fppr	sm	mangiare
+mangiate	fppr	vt	mangiare
+mangiate	p2cp	sm	mangiare
+mangiate	p2cp	vt	mangiare
+mangiate	p2ipp2mp	sm	mangiare
+mangiate	p2ipp2mp	vt	mangiare
+mediamo	p1ipp1cp	vit	mediare
+meni	s2ips1cps2cps3cp	vtb	menare
+mentite	fp	a	mentito
+mentite	fp	sf	mentita
+mentite	fppr	sm	mentire
+mentite	fppr	vit	mentire
+mentite	p2ipp2mp	sm	mentire
+mentite	p2ipp2mp	vit	mentire
+meritoria	fs	a	meritorio
+moderasse	s3ci	vtr	moderare
+moralizzazione	fs	sf	moralizzazione
+mulacchie	fp	sf	mulacchia
+munta	fs	a	munto
+munta	fspr	vt	mugnere
+munta	fspr	vt	mungere
+nidificarono	p3ir	vi	nidificare
+organizzato	ms	a	organizzato
+organizzato	ms	si	organizzato
+organizzato	mspr	vtr	organizzare
+ostin=F2	s3ir	vtp	ostinare
+palafreni	mp	sm	palafreno
+paradisiache	fp	a	paradisiaco
+pareggio	ms	sm	pareggio
+pareggio	s1ip	vtnre	pareggiare
+partite	fp	a	partito
+partite	fp	sf	partita
+partite	fp	sm	partito
+partite	fppr	vi	partire
+partite	fppr	vtp	partire
+partite	p2ipp2mp	vi	partire
+partite	p2ipp2mp	vtp	partire
+peggioramento	ms	sm	peggioramento
+pergola	fs	sf	pergola
+pinguedine	fs	sf	pinguedine
+pole	fp	sf	pola
+pole	s3ip	sm	potere
+pole	s3ip	vi	potere
+pomposa	fs	a	pomposo
+portantina	fs	sf	portantina
+portantini	mp	sm	portantino
+posero	p3ir	vtir	porre
+pote	s3ip	sm	potere
+pote	s3ip	vi	potere
+precostituito	ms	a	precostituito
+precostituito	mspr	vt	precostituire
+predestinata	fs	a	predestinato
+predestinata	fspr	vt	predestinare
+preordinato	ms	a	preordinato
+preordinato	mspr	vt	preordinare
+presuma	s1cps2cps3cp	vn	presumire
+presuma	s1cps2cps3cp	vti	presumere
+presumma	s1cps2cps3cp	vti	presummere
+pretermise	fppr	vt	pretermettere
+pretermise	s3ir	vt	pretermettere
+previste	fp	a	previsto
+previste	fp	sm	previsto
+previste	fppr	vt	prevedere
+propaggine	fs	sf	propaggine
+prorompente	ns	a	prorompente
+prorompente	nspp	vi	prorompere
+rapporta	s3ips2mp	vtp	rapportare
+rialzo	ms	sm	rialzo
+rialzo	s1ip	vtirp	rialzare
+riconfermando	g	vtr	riconfermare
+ridea	s1cps2cps3cp	vi	ridovere
+riferisci	s2ips2mp	vt	riferire
+riferisci	s2ips2mp	vtpi	riferire
+rifissi	s1ir	vt	rifiggere
+rimasa	fs	a	rimaso
+rimasa	fs	sf	rimasa
+rimasa	fs	sm	rimaso
+rimasa	fspr	vip	rimanere
+rincalzare	f	vt	rincalzare
+rincalzi	mp	sm	rincalzo
+rincalzi	s2ips1cps2cps3cp	vt	rincalzare
+riversato	ms	a	riversato
+riversato	mspr	vtp	riversare
+saresti	s2dp	sm	essere
+saresti	s2dp	viy	essere
+schiarare	f	vte	schiarare
+schiarire	f	vtey	schiarire
+scintillante	ns	a	scintillante
+scintillante	nspp	vi	scintillare
+sfoga	s3ips2mp	vtip	sfogare
+sfruttato	ms	a	sfruttato
+sfruttato	mspr	vt	sfruttare
+soddisferebbe	s3dp	vne	soddisfare
+solitari	mp	a	solitario
+solitari	mp	a	solitaro
+solitari	mp	sm	solitario
+solitari	mp	sm	solitaro
+solleone	ms	sm	solleone
+sollevavano	p3ii	vtp	sollevare
+somnio	s1ip	vtie	somniare
+sontuoso	ms	a	sontuoso
+sorteggia	s3ips2mp	vti	sorteggiare
+sostieni	s2ips2mp	vtrp	sostenere
+squassante	nspp	vtr	squassare
+staffieri	mp	sm	staffiere
+strascico	ms	sm	strascico
+strascico	s1ip	vtri	strascicare
+sublimi	mp	a	sublime
+sublimi	mp	a	sublimo
+sublimi	mp	sm	sublime
+sublimi	np	a	sublime
+sublimi	np	sm	sublime
+sublimi	s2ips1cps2cps3cp	vit	sublimare
+sublimi	s2ips1cps2cps3cp	vtp	sublimare
+temperasse	s3ci	vtrp	temperare
+tormentatissima	fss	a	tormentato
+tormentatissima	fss	sn	tormentato
+tralucere	f	vi	tralucere
+travasa	s3ips2mp	vtp	travasare
+travasare	f	vtp	travasare
+ubbidiscono	p3ip	vni	ubbidire
+ulivi	mp	sm	ulivo
+ulivi	s2ii	vi	ulire
+volesse	s3ci	sm	volere
+volesse	s3ci	vtb	volere
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * *
+*                Lorenzo Moretti
+*
+*     Organization: Istituto di Linguistica Computazionale - CNR
+*
+* Correspondance Address:     Via della Faggiola n. 32
+*
+*               City:        Pisa
+*
+*               Zip:         56126
+*
+*               Country:     Italy
+*
+*               Phone:       +39 50 560481
+*
+*               Fax:         +39 50 589055
+*
+*               E.Mail:      lorenzo@ilc.pi.cnr.it
+*
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * *
+
+
+------- End of Forwarded Message
+
+

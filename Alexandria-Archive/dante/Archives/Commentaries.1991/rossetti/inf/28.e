@@ -1,0 +1,363 @@
+|INFERNO CANTO 28~
+
+	|1-6.  Chi potria mai dire~ (n@e gi@a in versi ch'inceppano
+il pensiero, ma pur |con parole sciolte~ in cui il pensiero @e
+libero), chi mai dir potrebbe appieno, anche per narrar che il
+facesse pi@u volte, le scene del sangue e delle piaghe che Dante
+vide allora (|ora~) che giunse nella nona bolgia.  Ogni lingua
+per certo verria meno a tanta impresa, a cagione del nostro uman
+linguaggio e della nostra mente limitata, che hanno a tanto
+contenere poca capacit@a (|poco seno~).  @E tale, direbbe il
+Petrarca, <Che comprender nol pu@o prosa n@e verso, Che il dir
+nostro e 'l pensier vince d'assai>.  <La lingua non @e di quello
+che lo intelletto vede compiutamente seguace>: ^Convito~: <Multa
+namque per intellectum videmus, quibus signa vocalia desunt>:
+Dedica a Can Grande.
+
+	|7-21.~  Se anche si adunasse in un sol luogo tutta
+quella gente che nella fortunale terra di Puglia fu gi@a dolente
+del suo sangue dai Romani sparso; e quell'altra, spenta per la
+lunga guerra trilustre che delle anella dei Latini cavalieri
+produsse s@i alte spoglie ai Cartaginesi, che giunsero a 3 moggi e
+mezzo, siccome scrive Livio che sembra esagerato e pur non erra;
+con quella de' Saracini che, per aver contrastata la conquista di
+Sicilia a Roberto Guiscardo, sent@i dai colpi di quel valoroso ben
+aspre doglie; e con quell'altra ancora che per@i nella pugna fra
+Carlo e Manfredi, e il cui ossame ancor si accoglie a Ceperano,
+l@a dove ciascun Pugliese nell'abbandonare il suo re, cui avea
+giurata fedelt@a, fu bugiardo e mancatore; e con quell'altra
+finalmente che cadde non lungi da Tagliacozzo, ove il vecchio
+cavaliere Alardo vinse per istratagemma e quasi senz'arme
+l'esercito di Corradino; se anche, ripeto, tutti coloro che nelle
+enumerate battaglie furono trucidati si adunassero insieme; e
+qual di loro mostrasse un suo membro forato, e qual lo mostrasse
+mozzo, nulla sarebbe l'impresa d'agguagliare il modo orrendo
+della nona bolgia, sozzo per sangue.  <Qui rixam et discordiam ex
+fraterno corde provocat, quasi necessaria ultra modum emungens,
+sanguinem elicit>: S. Geronimo ci annunzia chi son costoro. 
+Cinque spettacoli sanguinosi vengon qui rammentati, di cui diremo
+alcune pi@u distinte particolarit@a.  1.  Nella Puglia s@i soggetta
+alle vicende della fortuna (|fortunata~, obs. in questo senso)
+mor@i moltissima gente nelle battaglie, accadute sotto i Coss.
+Petelio, Papirio e Decio.  2.  Nella seconda guerra Punica, che
+dur@o oltre a 16 anni, fu in Canne memoranda giornata, dove Roma
+perd@e <tanti cittadini che tre moggia d'anella in Affrica furon
+portate> (^Convito~); anzi <dimidium super tres modios>: cosa
+incredibile, ma pur Livio che il narra, secondo Dante, non erra. 
+3.  Poich@e Alessio, imperador di Costantinopoli, ebbe pei suoi
+eserciti occupata la Sicilia con parte della Calabria, Roberto
+Guiscardo, duca di Puglia, ne discacci@o gl'invasori con strage
+maravigliosa di quelli.  4.  Nell'azione bellicosa accaduta a
+Ceperano, borgo presso Monte Cassino, fra Manfredi re di Napoli,
+e Carlo conte d'Angi@o, vi fu carneficina orrenda; e la terza
+schiera composta tutta di Pugliesi, mancando da bugiarda alla f@e
+giurata al suo monarca, pass@o dal lato nemico.  5.  Presso a
+Tagliacozzo, nell'Abbruzzo ulteriore, lo stesso Carlo d'Angi@o,
+dopo aver morto Manfredi, ebbe conflitto con Corradino, nipote di
+lui; e dovette la vittoria ai consigli di Alardo da Villieri che,
+con aguato ingegnosissimo e poche forze, strapp@o la palma gi@a
+quasi colta di mano al vincitore, e gli mise in pezzi l'esercito
+tutto.
+
+	|22-27.  Veggia~ @e botte, e dee qui intendersi una di
+quelle che ha il fondo composto di tre pezzi; il mezzano @e il
+|mezzule~, e ognun degli altri due, di qua e di l@a, @e |lulla.~ 
+^Trullare~ @e produr vento: vedi la Crusca.  Il poeta adunque dice
+che una botte, per perdere o il mezzule o la lulla, non si
+pertugia e spacca gi@a cos@i com'ei vide uno spirito, rotto dal
+mento in fino a tutto il basso ventre; talch@e le budella
+(|minugia~) gli pendevan gi@u fra le gambe, ed apparivan tutte le
+viscere dentro il suo corpo, per davanti spaccato.  L'allegoria @e
+chiara, e sar@a dal poeta stesso spiegata.  Chi pria divise gli
+animi ch'eran fatti per essere uniti, ha ora divise le sue membra
+congegnate per esser congiunte; ma con vario modo, corrispondente
+alla colpa.  Costui divise il corpo morale e politico della sua
+nazione, e fetida peste sparse ad ammorbar la terra con indigeste
+dottrine di cui mal nutrito s'era convertite in congerie corrotta
+e corruttrice; onde tien diviso il suo corpo fisico.  Un altro
+impieg@o il suo cervello a spacciar falsi dogmi che produssero
+scisma; onde ha partito tutto il cerebro dal mento al ciuffo.  Un
+altro che si valse della lingua per cagionar dissidj, ha la
+lingua tagliata nella strozza.  Un altro che stese audace le mani
+a vibrar colpo funesto, onde nacquero discordie e stragi, ha
+mozza l'una e l'altra mano, ed @e tutto insanguinato.  Di qualche
+altra pi@u terribile punizione farem motto a luogo proprio.
+
+	|22-31 {Nota Finale}.~  Che Maometto sia figura dello
+scisma di Firenze, o forse di un tale che spargeva col@a
+dissenzioni politiche, ce ne assicura Dante con le parole di
+quella licenza, altrove citata: <Tu te n'andrai, canzone, ardita
+e fiera, Dentro la terra mia ch'io dolgo e piango, Ch@e stentando
+vive ella, E la divoran ^Capaneo~ e Crasso, Agrauro, ^Simon
+Mago~, e 'l falso Greco, E ^Maometto~ cieco>.  Vedemmo che
+Capaneo ebbe gran relazione con Firenze, e pare che quel
+^divoran~ ne indichi le grosse somme di denaro che venivan da
+quella citt@a spedite a Tebaldo Brissato, perch@e continuasse a
+tener ribelle la pertinace Brescia.  Vedemmo che Simon Mago coi
+suoi seguaci ve l'ebbe anche, e pi@u grande e pi@u fatale; onde
+possiamo con giusta illazione inferirne che questo Maometto ve
+l'avesse altres@i.  E se rammentiamo che, al giunger di Arrigo
+innanzi a Firenze, quella citt@a perd@e il ^Mezzule~, luogo cos@i
+detto, ci accorgeremo che la strana similitudine della |Veggia~
+che al perdere il |Mezzule~ si dilacca, non @e introdotta a caso. 
+Per certo questo Maometto @e figura di un Ghibellino scellerato,
+il quale de' salutari alimenti, onde s'era nutrito, aveva fatto
+mal pro (^Che merda f@e di quel che si trangugia~); e tali direm
+pur gli altri, poich@e essi fur ^vivi~ ^seminator di scandolo e di
+scisma~; e quando intesero che ^morte~ non avea giunto ancora
+Dante, si arrestarono con sorpresa a riguardarlo ^Per maraviglia
+obbliando il martiro~ {54}.  Ma, divergendo da ciascun altro lo
+sguardo, arrestiamolo sopra un solo che a s@e pi@u lo richiama.
+
+	|28-33.~  Mentre che Dante fissa tutta la sua attenzione
+a veder quello spirito (tutto in lui veder s'attacca), quello lo
+guard@o, e si aperse con le mani lo squarciato petto, dicendo: Or
+vedi come io m'apro e spacco (|mi dilacco~).  E manifesta esser
+lui Maometto e quello che piangendo gli va dinanzi esser Al@i, suo
+genero, inventore e predicatore di fallaci dottrine, per cui @e
+fesso dal mento al ciuffetto (sommit@a del capo); cio@e ha tagliata
+la bocca che predic@o, e il cerebro che invent@o que' sogni suoi.
+
+	|34-42.~  Questi perversi seminatori di scandalo e di
+scisma (<qui seminant inter fratres discordiam>: Proverb.), che
+vanno a cerchio per questa bolgia, sono cos@i mal conci da un
+diavolo ch'@e poco dietro, cio@e alla voltata del muro circolare,
+per dove ciascuno ha da passare forzatamente.  Quel ministro di
+giustizia ha una tagliente spada, e con quella squarcia, spacca,
+mutila (|accisma~) ognuno che a lui si presenta: perocch@e le
+ferite si richiudono e guariscono per s@e medesime, prima che
+quello gli rivada innanzi, volta che ha tutta quella strada di
+dolore.  <Vae homini illi per quem scandalum venit> (S. Matt.). 
+<Semper jurgia quaerit malus; angelus autem credulis mittetur
+contra eum> (Proverb.).  <Tunc contra eum, quem possidet,
+diabolus acrius saevit> (Grisost.).  Cos@i questi neri fogli di
+risma diabolica, che formarono i degni volumi della biblioteca di
+Lucifero, son ben risecati e rifilati con continui tagli. 
+|Taglio della spada~ e filo della spada son sinonimi: si dice
+<mettere i nemici a fil di spada>, e il porveli e riporveli @e
+espresso con la frase ^rimettendo al taglio della spada.~ 
+
+	|43-45.~  Maometto segue a dire: |Ma tu chi sei~ che in
+sul ponte scoglioso stai con labbra strette fra stupore e
+spavento, |forse per indugiar d'ire alla pena~, ecc.  ^Musare~,
+star senza fare, da che ^musorno~ stupido, scioperato: cos@i
+^muser~ fran. perder tempo, ^to muse~ ingl. ruminar fra s@e: forse
+da ^muo~ greco, ^muso~ futuro, star con muso serrato, guardando
+indeciso fral s@i e 'l no.
+
+	|52-63.~  Favellato ch'ebbe, Maometto stava per girsene,
+ma quando ud@i che Dante era vivo, maravigliato con pi@u di cento
+altri, si rivolse a guardarlo con attenzione, e, sospeso il pi@e
+ch'era in mossa, disse al poeta queste parole: Or dunque, tu che
+forse in breve rivedrai il sole, di' a Fra Dolcino che, s'egli
+non vuol ben tosto qui seguitarmi, s'armi cos@i e provvegga di
+vivanda, che stretta ed assedio di neve non rechi al Novarese la
+vittoria, che non sarebbe lieve acquistarla altrimenti.  Ci@o
+detto, stese il piede, e part@i.  Questo Romito, che si spacciava
+apostolo di Cristo, predicava la comunanza de' beni, e fin delle
+mogli; e giunse ad avere per settatori ben tremila uomini armati,
+oltre una turba innumerevole di donne; i quali tutti mettevano in
+piena pratica il suo strano vangelo.  Perseguitato con la sua
+comitiva, si era ridotto sui monti di Novara, ove stretto dalla
+neve fu preso per fame.  Attenagliato ed arso, sostenne con
+ammirabil fortezza d'animo il barbaro strazio, senza mai cangiar
+faccia, e mutar voce.  Fornito di seduttrice eloquenza, confort@o
+i suoi seguaci a restar saldi negli adottati dogmi; e segu@i a
+perorare finch@e vita e lena gli rimase.  Margherita sua compagna,
+giovane, bella, e ricca, avrebbe potuto scampar la morte; ma
+volle seguire il fato del consorte e imitarne l'indomabil
+fermezza, anzi che rinegarne i praticati precetti.  Par dritto
+che Maometto prenda pensiero del fraticello, poich@e egli fu pi@u
+fortunato, ma men coraggioso di lui.
+
+	|64-75.~  Era costui Pier da Medicina, vero spirito di
+vertigine e scommettitore de' cuori pi@u congiunti.  Sogliam dire
+di chi intriga, ch'ei ficca il naso in ogni buco, e questo ha il
+naso tagliato.  Sogliam dire che i fatti altrui deggiono entrarci
+per una orecchia ed uscir per l'altra; e questo ha recisa quella
+da cui non uscirono; ed ha forata quella gola ch'erutt@o il fiato
+maligno che a tanti fuochi di discordie soffi@o; e ha insanguinata
+quella canna, o sia bocca, che narrando all'uno ci@o che fu detto
+dall'altro, produsse sanguinolente liti, ed aizz@o e separ@o i
+principi pi@u amici.  <Homo perversus suscitat lites, et verbosus
+separat principes>: Proverb.  Virgilio dichiar@o che ^colpa non
+mena~ {46} Dante quaggi@u; onde costui gli dice: |O tu cui colpa
+non condanna.~  Da Vercelli, citt@a in Piemonte, a Marcab@o,
+castello oggi distrutto sulla foce del Po, @e compreso e dichina
+l'ameno e dolce piano di Lombardia, che si estende per dugento
+miglia e pi@u.
+
+	|76-81.~  Il Mastin nuovo da Verrucchio, o sia Malatesta
+il Giovane signor di Rimini (quello stesso che fece il malgoverno
+del gentil cavaliere Montagna) avea in odio Guido del Cassero ed
+Angiolello da Cagnano, due de' migliori e pi@u nobili cittadini di
+Fano.  Dopo aver meditato come disfarsene finse seco loro sincera
+riconciliazione; e scorsi alquanti d@i gl'invit@o a desinar secolui
+sopra mare, per trattar di grave negozio; e que' due furon s@i
+ciechi da fidarsi a quel segnato da Dio che avea un sol occhio,
+ma ben vigile al maleficio.  Giunti in faccia alla Cattolica,
+terra sul lido adiatico tra Fano e Rimini, furon per preparata
+insidia gettati nel mare, anzi |mazzerati~, cio@e chiusi e legati
+in un sacco con un gran sasso.  Di ci@o vuol farli avvertiti
+questo susurrone, che non da piet@a ma da spirito di scandalo @e
+mosso a parlare, come allora che coi suoi stimoli attizz@o quel
+Mastino rabbioso e Guido da Polenta a lacerarsi fra loro.
+
+	|82-90.~  Dante ha voluto esprimere che anche con la gola
+forata non sa tacersi; onde fa dirgli: In tutta l'estensione del
+Mediterraneo, compresa fra Cipro e Majorca (principio e termine),
+Nettuno non vide mai fallo s@i grande, non da violenti pirati, e
+non da Greci ingannatori (|gente Argolica~).  Quel traditore che
+pur con un sol occhio tanto vede, colui che tien quella terra
+(Rimini) che vi @e un tale qui meco il quale non avrebbe voluto
+mai vederla (|vorrebbe di vedere esser digiuno~) far@a venirli
+secolui a parlamento sul mare: ma poi operer@a s@i che non sar@a
+loro mestieri far voto n@e prego al vento di Focara: Monte presso
+alla Cattolica, dal quale soffiano impetuosi venti che fan
+ricorrere i marinari a far voti; ma non ebbero bisogno di farne
+que' due, non per turbine, ma per tradimento, sommersi.  Son due
+volte che Dante attribuisce agli occhi ci@o ch'@e proprio della
+bocca: nell'incontrare Caccianimico disse: ^Gi@a di veder costui
+non son digiuno~ {XVIII 42}; ed or fa dire di uno di questi
+spiriti che avrebbe voluto ^esser digiuno di veder~ Rimini: il
+che ne fa intendere che l'averlo veduto gli produsse amarezze.
+
+	|91-93.~  E Dante disse a Pier da Medicina: Se vuoi ch'io
+porti novella di te lass@u |dimostrami e dichiara~ chi @e colui al
+quale fu amara la veduta di Rimini?
+
+	|94-102.~  Era questi Curione il quale scacciato come
+disturbatore da Roma, dove avea pria seguito Pompeo, and@o a
+raggiunger Cesare, che indeciso rimaneasi presso Rimini.  Egli
+spense ed affog@o in lui quel dubitare dicendogli: l'uomo fornito
+del necessario ad un'impresa sofferse sempre con danno l'attender
+e differire: <Semper nocuit diferre paratis>: Lucan.  Curione che
+fu cos@i ardito a dir ci@o, avea tagliata nella strozza la lingua
+che il profer@i, e parve a Dante tutto sbigottito al pensiero del
+gran male che produsse.  Malvagio!  che prima avea adulato Pompeo
+e poi instig@o Cesare; susurrone e bilingue maledetto, che la pace
+di tanti popoli turb@o!  <Sussurro et bilinguis maledictus, multos
+enim turbavit pacem habentes>: Eccles.
+
+	|85-102 {Nota Finale}.~  Di chi sar@a mai figura quel
+Curione?  Dante @e ravvisato da Pier da Medicina, e pare ch'essi
+siensi assai fra lor conosciuti.  Sappiamo in fatti dalla storia
+ch'eran tutti e due amici di Guido da Polenta; ond'@e
+probabilissimo che nell'usare appo quello, divenuti fossero anche
+compagni; per cui il poeta ne sa s@i bene la vita e i costumi; e
+'l susurrone nel riconoscerlo rest@o a riguardarlo con sorpresa e
+pria degli altri gli parl@o spontaneo, raccomandandogli di portar
+quell'imbasciata ai due migliori di Fano.  Sappiamo di pi@u che
+Dante, scacciato dalla patria, scrisse cos@i al suo Cesare che
+mostravasi troppo lento a correre contro quella: <Intuoni in te
+ancora quella voce di Curio a Cesare: ^Tolle moras: semper nocuit
+differre paratis~>.  Or ecco i punti di contatto: Pier da
+Medicina @e detto ^compagno~ di Curione: ^Curione, scacciato~
+dalla patria, |sommerse il dubitare in Cesare~, dicendo |che il
+fornito sempre con danno l'attender sofferse~; e tutto ci@o pu@o di
+Dante egualmente ripetersi; poich@e, oltre le indicate parole,
+altro anche di pi@u forte egli disse al Cesare suo; eccone alcun
+tratto: <Intuoni ancora in te quella voce discesa dal cielo,
+increpando contro Enea: ^Si te nulla movet tantarum gloria rerum,
+Respice cui regnum Italiae, Romanaque tellus Debentur...~  Te il
+Signore unse Re, e miseti il Signore in via, e disse: Va, uccidi
+i peccatori d'Amalec; imperocch@e tu sei sagrato Re, acciocch@e tu
+percuota il popolo d'Amalec.  Vendica colui il quale ti mand@o
+della gente bestiale...  E forse tu nol sai Firenze?  Questa,
+crudel morte @e chiamata; questa @e Mirra scelerata ed empia, la
+quale s'infiamma nel fuoco degli abbracciamento del padre... 
+Adunque rompi le dimoranze...>.  N@e ci@o @e tutto.  Pier da
+Medicina con un'incidenza ch'@e visibilmente introdotta a disegno,
+perch@e non pare n@e necessaria n@e naturale, anzi sembra
+imbarazzante, dice parlando di Malatesta: Colui che |tien la
+terra~, cio@e Rimini, |che tale @e qui meco vorrebbe di vedere
+esser digiuno~ (e Dante l@i era seco) |far@a venirli~ ecc. e dopo
+che ha seguito a parlar di altro, il poeta, che non ha perduta di
+vista quella preparata incidenza, ripiglia: |Dimostrami e
+dichiara, Se vuoi ch'io porti su di te novella, chi @e colui dalla
+veduta amara~, ecc.  Or perch@e tant'ansiet@a di domandar di colui,
+ch'era stato sol di passaggio accennato?  Si noti di pi@u che
+Curione profer@i quelle parole in terra Latina; e Piero dice a
+Dante `io t'ho veduto ^in terra Latina~': ^Dalla veduta amara~ @e
+detto Curione; e amarissimo doveva essere a Dante il veder in lui
+la sua immagine.  |Ahi quanto mi pareva ^sbigottito~ @e detto
+dell'uno; e sbigottito dovea esser l'altro alla rimembranza delle
+instigazioni che f@e ad Arrigo contro Firenze.  |A dicer cos@i
+ardito~ fu il Romano, e arditissimo a dire fu il Fiorentino.  Ma
+il verso ^Se troppa somiglianza non m'inganna~ {72} d@a, pi@u che
+altro, gran peso a quanto dicemmo.  E finalmente dir@o che come
+Dante pianse alla vista degl'Indovini, perch@e in essi vide la
+propria immagine, cos@i ora le luci sue saranno s@i inebriate di
+lagrime per le pene osservate in questa bolgia, che saran ^vaghe
+dello stare a piangere~ {XXIX 3}; e come Virgilio lo rimprover@o
+allora, cos@i lo rimproverer@a anche adesso.  Se troppa somiglianza
+non m'inganna, Dante in Curione dipinse s@e stesso: e sia questa
+una pruova di pi@u, che questi dannati non son altro che ombre e
+figure.
+
+	|103-111.~  Buondelmonte de' Buondelmonti avea promesso
+in Firenze di torre in moglie una nobil fanciulla degli Amidei, e
+poi ne spos@o un'altra dei Donati.  Tutto il parentado della
+donzella delusa si ragun@o a decidere sul modo di vendicarsi; e
+Mosca degli Uberti (costui che parla), proponendo l'assassinio
+del mancatore, profer@i quel proverbio: ^Cosa fatta capo ha~; cio@e
+una cosa quando @e fatta ha gi@a il principio, e avr@a il termine in
+un modo o un altro; volendo dire, diam cominciamento alla cosa, e
+poi si penser@a al resto.  Egli in fatti uccise Buondelmonte,
+potentissimo per consanguinei, i quali si riunirono anch'essi dal
+lato loro per far la vendetta sui vindici; onde la citt@a si
+divise in due parti, che poi presero aspetto di Ghibellina e
+Guelfa, |mal seme~ di eccidj per la gente Tosca, e che frutt@o la
+morte di quasi tutta la schiatta del Mosca uccisore; perloch@e
+egli, al sentirsela rammentare, accumulando al presente duolo
+quello di s@i trista rimembranza, |come persona trista~, e per
+eccesso di affanno quasi delira e matta, smaniando |sen g@io.~
+
+	|112-117.~  Gran cosa per certo si appresta Dante a
+narrare, poich@e senza la compagnia della coscienza, ei si
+crederebbe s@i solo che, mancando di testimonianza e pruova
+ulteriore, avrebbe paura di contarla; ma quella buona compagnia
+l'assicura, quella che rende l'uomo franco a dire, quella che, al
+sentirsi pura di menzogna, @e come sotto un usbergo da sostener
+qualunque attacco.  <Hic murus oeneus esto Nil conscire sibi>:
+Oraz.  <Fortitudo tua, fiducia fidelis conscientiae>: S. Bern.
+
+	|118-126.~  Vide Dante andare a cerchio per la bolgia,
+siccome andavan tutti gli altri della trista greggia di questi
+bestiali, un busto, dritto sui pi@e, ma senza capo; e il capo
+tronco sel tenea con la mano, pesolo per le chiome |a guisa di
+lanterna~; e quel capo parlante e veggente mirava i due poeti
+ch'eran sul ponte, e dicea affannoso: |Oim@e!~  Quel perduto non
+avrebbe senza ci@o potuto camminare, ma con una parte di s@e (la
+testa) faceva lucerna a s@e stesso; talch@e potea dirsi due parti
+in un solo spirito, e uno spirito in due parti distribuito;
+malgrado che l'anima sia principio semplice e indivisibile.  Come
+ci@o pu@o essere lo sa colui che onnipotente governa s@i le cose di
+laggi@u, come qui narransi.
+
+	|130-136.~  Bertran dal Bornio, visconte del Castello
+d'Altaforte in Guascogna, trovator sublime di cui Dante fa elogio
+nella sua ^Volg. El.~; armigero pi@u che altri mai, e travagliato
+dalle tempeste dell'amore e dell'odio, fu ne' due affetti ognor
+eccedente, talch@e scrisse di s@e: <Guerra m platz, sitot guerra m
+fan Amors e Madomna, tot l'an>; <Guerra mi piace, e ben guerra mi
+fanno Ed Amore e Madonna in tutto l'anno>.  Ed altrove: <N@e di
+luned@i, n@e di marted@i curo punto; tutte per me son eguali le
+settimane, i mesi, gli anni, pronto in ogni tempo a sperdere chi
+mi nuoce>.  Divenuto sviscerato amico del primogenito di Enrico
+II d'Inghilterra, detto il |Re Giovane~, perch@e incoronato in
+giovanile et@a turbulento com'ei si era, stimol@o con mali conforti
+il suo regale amico a ribellarsi contro il padre per ben due
+volte, talch@e il mal consigliato da ribelle fin@i.
+
+	|137-142.~  Certo che l'artificioso Achitofelle non f@e
+giuoco d'Absalone e di Davide coi suoi malvagi consigli, pungoli
+istigantissimi (pungelli), pi@u di quello che f@e Bertramo di quel
+figlio e quel padre, divenuti per lui infelicissimi.  E perch@e ei
+part@i persone cos@i dalla natura congiunte, or porta diviso il suo
+cerebro dal suo principio, o sia dal cuore, ch'@e in quel troncone
+ambulante.  Cos@i si osserva in lui la legge del taglione, detta
+dal poeta il |contrappasso~, secondo la espression d'Aristotile,
+cio@e contraccambio del mal fatto.  Nel cuore, ch'@e nel corpo
+<primum vivens, et ultimum moriens>, giusta la frase medica, gli
+antichi posero il principio vitale.

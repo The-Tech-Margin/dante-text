@@ -1,0 +1,626 @@
+|PURGATORIO CANTO 15~
+
+	|Proemio.~  ^Quanto tra l'ultimar~ ec.  In questo XV canto lo nostro 
+autore finge come elli sallitte dal secondo balso del purgatorio, dove 
+@ae finto che si purghi la invidia, al terso balso dove finge che si 
+purghi lo peccato dell'ira.  E dividesi questo canto in due parti, 
+perch@e prima descrive lo tempo, e finge come li apparve l'angiulo e 
+guidolli a la tersa scala, e come mosse a Virgilio dubbio de le cose 
+ditte di sopra, e come ne dimand@o dichiaragione; ne la seconda, come 
+Virgilio lo dichiara e come si trova nel terso balso, e la visione che 
+ebbe, e come trova una grande nebbia; et @e la seconda, quive: ^Et elli 
+a me~ ec.  La prima, che ser@a la prima lezione, si divide in 5 parti: 
+imper@o che prima pone la descrizione del tempo e l'accidente che li 
+avvenne; ne la seconda manifesta per similitudine lo splendore che 
+l'abballiava, e dimanda Virgilio de la cagione, e Virgilio li risponde, 
+quive: ^Come quando~ ec.; ne la tersa parte finge come pervenneno a la 
+scala et incomincionno a montare suso, e come dimanda Virgilio del 
+dubbio, quive: ^Poi giunti fummo~ ec.; ne la quarta parte finge come 
+Virgilio solve lo dubbio, quive: ^Perch'elli a me~ ec.; ne la quinta 
+finge come da capo elli muove la dubitazione, quive: ^Io son d'esser~ 
+ec.  Divisa adunqua la lezione, ora @e da vedere l'esposizione 
+litterale coll'allegorie, o vero moralitadi.
+
+	|1-15.~  In questi cinque ternari lo nostro autore descrive lo tempo, 
+e manifesta l'accidente che li avvenne, dicendo: ^Quanto~; cio@e 
+spazio, ^tra l'ultimar~; cio@e tra 'l finire, ^dell'ora terza~; che 'l 
+Sole @e montato suso dall'orizonte in alto in fine al punto dove si 
+dice tersa, perch'@e la tersa parte de lo spazio che @e da l'orizonte 
+in fine al pi@u alto luogo che monti lo Sole, che @e mezzo d@i.  Et a 
+volere vedere questo, debbiamo sapere che lo nostro emisperio @e diviso 
+in sei parti equali, incominciando da l'orizonte orientale e finendo 
+all'orizonte occidentali s@i, che montando lo Sole la prima parte, fa 
+tersa; la seconda, sesta; la tersa, nona, e siamo al mezzo: poi 
+incomincia a discendere, e sceso la prima parte, fa mezzo vespro; la 
+seconda fa vespro; e la tersa, sera; e chiamasi tersa, perch@e 
+l'emisperio @e distinto in parti 6 equali, e cos@i l'altro ancora; e 
+fanno 12 le quali segner@o per numeri ternari in fine in 36, 
+incominciando da esso e poi pilliando 3 et adiungendo poi ad ogni parti 
+3: imper@o che 12 segni sono, che 6 nascono lo d@i e 6 la notte, unde 
+l'altezza de l'orizonte orientale ch'@e da 36 a 3 ch'@e uno segno che 
+si chiama tersa; et a 6, sesta, et a 9 fa nona, e desceso dal nono al 
+XII fa mezzo vespro, e poi al XV fa vespro; e poi al XVIII, venuto a 
+l'orizonte fa sera.  Et acci@o che mellio s'intenda, descriver@o uno 
+emisperio in 6 parti equali partito, come appare ne lo spazio, et 
+adiunger@ovi l'altro, perch@e si vedano tutti li sesti che sono 
+nell'uno e nell'altro, e cos@i verr@a la spera tonda, come @e posta di 
+fuore ne lo spazio.  E per@o dice l'autore: Quanto spazio @e da 
+l'orizonte orientale dov'e posto 36 all'ultimo de la tersa, dov'@e 
+posto 3, tanto era sceso nell'altro emisperio lo Sole inverso l'occaso 
+dell'altro emisperio, che @e a l'oriente, s@i ch'era giunto lo Sole al 
+33 sicch@e cos@i era, come quando @e ad ivi al 15, che @e vespro; e 
+cos@i era di l@a al segno di vespro, che @e tanto in verso la sera, 
+quant'@e dal principio del d@i a la tersa: imper@o che l@i li spazi 
+sono equali in ciascuno emisperio.  Et @e da notare che ogni linea pu@o 
+essere termine di emisperio, unde s'io sono in su la linea del 3 e del 
+21 al centro de la spera dov'@e la terra, la linea diametrale del mio 
+emisperio ser@a 30 e 12; e per questo seguita che 'l d@i non incomincia 
+ad una ora ad ogni uno; ma a chi pi@u tosto, et a chi pi@u tardi, 
+secondo lo sito u' elli @e posto; e per questo @e chiaro quello che 
+l'autore dice di sotto, che lo mosterr@o quando sar@o ad esso.  Dice: 
+^E 'l principio del d@i~; che abbiamo posto per caso che sia a la linea 
+del 36, secondo Gerusalem, ^par de la spera~; cio@e del tondo sperico 
+del cielo, montato dal Sole, ^Che sempre, a guisa di fanciullo, 
+scherza~: imper@o che sempre gira la spera celeste e mai non sta in 
+posa, come lo fanciullo che non pu@o stare che non si muova e che non 
+giuochi, quando non dorme, ^Tanto~; cio@e spazio, ^parea gi@a in ver la 
+sera~; cio@e in verso l'occaso, ^Esser al Sol del suo corso rimaso~; 
+cio@e uno sesto; e per@o seguita: ^Vespro era l@a~; cio@e in quello 
+emisperio, dove io era allora, ^e qui~; cio@e in questo emisperio, in 
+quello sito dove sono avale che scrivo quello ch'io viddi allora, 
+^mezza notte era~; non nel sito, dov'@e Gerusalemme, che quinde erano 
+passate le 5 parti de la notte et era a passare la VI, e nel nostro 
+sito era mezza notte dove siamo ora noi; e per dare ad intendere 
+questo, diedi a la figura l'altro emisperio che prima non avea fatto se 
+non l'uno.  Et ad intendere questo debbiamo notare la finzione 
+dell'autore, ch'elli finse di sopra che 'l monte del purgatorio sia nel 
+mezzo per opposito a Gerusalemme; unde a quello luogo la linea 
+diametrale de l'emisperio, che fa orizonte, @e 36 e 18, e 'l Sole era 
+in su la linea 33 e 15, che fa vespro di l@a lo 33, e di qua lo 15 a 
+chi fusse per opposito al purgatorio; ma noi siamo al centro de la 
+spera, u' @e la tersa in tale sito che la linea diametrale, che @e lo 
+nostro orizonte, conviene essere 6 e 24, sicch@e quando lo Sole ser@a a 
+la linea del 6, incominci a fare lo d@i.  E per questo volse lo nostro 
+autore fare questa finzione, per mostrare la ragione de la Geometria, e 
+per@o descrisse lo tempo a questo modo.  ^E i raggi~; cio@e del Sole, 
+^ne ferian per mezzo naso~; cio@e a Dante; e rende la cagione perch@e 
+li raggi li davano nel volto, perch@e parrebbe impossibile quello che 
+dice se non rendesse la cagione: conci@o sia cosa che abbia ditto di 
+sopra che andava verso l'oriente, come dice avale che il Sole era a 
+vespro, ch'@e presso uno sesto a l'occaso, e che il Sole dice che li 
+dava per lo volto; e per@o rende la cagione, dicendo: ^Perch@e per 
+noi~; cio@e per Virgilio e per me, ^girato era s@i 'l monte~; del 
+purgatorio ch'era tondo, che ben che la mattina andasseno in verso 
+l'oriente, la sera si trovonno avere s@i girato che si trovonno andare 
+in verso l'occaso; e per@o dice: ^Che gi@a dritti andavam~; cio@e 
+Virgilio et io Dante, ^in ver l'occaso~: tanto eravamo andati intorno 
+al monte, ^Quando senti'~; cio@e io Dante, ^a me gravar la fronte~; 
+cio@e mia, ^A lo splendor assai pi@u che di prima~: imper@o che questo 
+fa lo splendore de la nuova grazia portata dall'angiulo, che venia 
+verso lui che era maggiore che quello di prima; e per@o dice che li 
+gravava la fronte, perch'era maggiore e pi@u si vergognava del peccato 
+che prima.  ^E stupor m'eran~; cio@e a me Dante, ^le cose non conte~; 
+cio@e non manifeste; cio@e meravilliavami perch'io non sapea la cagione 
+del gravamento.  ^Ond'io~; cio@e Dante, ^levai la mano in ver la cima~; 
+cio@e in verso la sommit@a, ^De le mie cillia~; cio@e puosimi la mano 
+sopra le cillia, ^e fecemi solecchio~; cio@e riparo, come si fa per lo 
+troppo splendore del Sole alli occhi: questo @e nome diminutivo, cio@e 
+del Sole, picculo Sole; e questo @e fare lo Sole, che @e splendore 
+grandissimo sicch@e la vista nol pu@o sostenere, si picculo che la 
+vista lo sostegna come lo fuoco o lo lume, lo quale come contemperato 
+al viso, l'occhio lo sostiene; e per@o dice quil che seguita; cio@e 
+^Che del soverchio visibile lima~; cio@e che @e mancamento de 
+l'avansante visibile: quando la cosa visibile @e contemperata a la 
+vista dell'occhio, l'occhio la vede sensa fatica; ma quando la cosa 
+fulgida avansa la potenzia visuale, l'occhio abballia per lo superchio 
+e non pu@o ragguardare l'eccessivo splendore, e per@o @e necessario o 
+che l'omo chiuda l'occhio, o che faccia co la mano solecchio a le 
+cillia; lo quale vocabulo @e a dire picculo Sole, per parificamento e 
+reduzione del superfluo a parit@a et equalit@a de la porta visiva.  Ma 
+qui si pu@o muovere questo dubbio; cio@e perch@e ponendo la mano al 
+cillio a fare tetto, l'omo sostiene a guardare in ver lo Sole?  A che 
+si d@e rispondere: imper@o che la mano ripara che i raggi, che vegnano 
+in gi@u non feriscono li occhi: imper@o che la mano ripara.
+
+	|16-33.~  In questi sei ternari lo nostro autore pone una 
+similitudine, dove si tocca la sentenzia che si chiama perspettiva, e 
+dimanda Virgilio de la cagione del suo abballio, a che Virgilio li 
+risponde.  Dice cos@i: ^Come quando da l'acqua~; dove ferisce lo raggio 
+del Sole, ^o da lo specchio~; nel quale similmente ferisca lo raggio 
+del Sole, ^Salta lo raggio all'opposita parte~; cio@e lo raggio che 
+esce dall'acqua o de lo specchio salta ne la parte opposita; cio@e se 
+lo Sole fusse in oriente lo raggio serebbe in verso l'occidente, e 
+cos@i per opposito; e se lo Sole @e a mezzo d@i, risulta in verso 
+settentrione; e se per diritta linea fusse sopra l'acqua, lo raggio 
+estornerebbe per retta linea in su.  E dice che per quil modo lo raggio 
+reflesso va in ins@u, per lo quale cade del Sole in gi@u; e per@o dice: 
+^Salliendo su~: cio@e in alto a l'opposito, ^per lo modo parecchio~; 
+cio@e pari, ^A quel che scende~; cio@e a lo raggio che scende ne 
+l'acqua, o vero ne lo specchio; et adiunge similitudine a similitudine 
+per modo differente, dicendo che lo raggio che cade, non cade a modo de 
+la pietra che cade con spazio di tempo; ma lo raggio del Sole che cade 
+e scende gi@u nell'acqua o ne lo specchio, scende sensa distanzia di 
+tempo, sicch@e quello che si leva dall'acqua, et o da lo specchio, si 
+leva su subito; come quello che scende, scende subito sensa mezzo di 
+tempo.  ^e in tanto si diparte~; cio@e e solamente differente quil che 
+cade in giuso, ^Dal cader de la pietra~; che non cade per destanzia a 
+tempo; e per@o dice: ^in egual tratta, S@i come mostra esperienzia et 
+arte~; cio@e la prova che si pu@o vedere de la pietra et anco del 
+raggio del Sole ne l'acqua e ne lo specchio, come riverbera a 
+l'opposito; ma che sia per lo modo pari, questo si mostra per la 
+Prospettiva.  Ora Dante adatta la similitudine a proposito: ^Cos@i mi 
+parve~; cio@e a me Dante, ^da luce rifratta~; cio@e da una luce 
+riverberata; cio@e simile a quella che esce dell'acqua o de lo 
+specchio, che l'occhio nolla pu@o sostenere, anco accecherebbe se 
+troppo l'omo la patisse: non sensa cagione dice l'autore ^luce 
+rifratta~, volendo dare ad intendere che la luce eterna; cio@e Iddio 
+ferisce ne la faccia dell'angiulo, et inde rifrangesse nel suo volto, 
+^Ivi~; cio@e quive: ^dinanzi a me~; cio@e a me Dante: imper@o che, 
+secondo che l'autore finge, questo era l'angiulo lo quale venia per 
+assolverlo del peccato de la invidia, lo cui splendore finge che non 
+potesse patire, ^esser percosso~; cio@e de la detta luce, ^Per che a 
+fuggir la vista mia fu ratta~: imper@o che finge che chiudesse li 
+occhi.  Questi angiuli, che l'autore finge che siano ad ogni balso, 
+sono le grazie prevenenti, illuminanti, cooperanti e consumanti, che 
+Dio dona e manda ai peccatori ad uscire del peccato; le quali grazie la 
+sensualit@a non pu@o comprendere, quando sono di lunge, perfettamente 
+se non coll'opera, per la quale bench@e vincano la sensualit@a; niente 
+di meno si puonno comprendere e cognoscere alquanto.  E per@o finse che 
+co la mano rimediasse al soperchio visibile: imper@o che, se per altro 
+non potessemo intendere la grandessa de la grazia di Dio, possiamola 
+cognoscere in parte per l'opera, ch'@e significata per la mano; ma la 
+grazia cooperante e consumante, che segueno di po' la perveniente et 
+illuminante, non si pu@o cognoscere se la sensualit@a non @e 
+ammaestrata da la ragione; e per@o finge che fuggisse la vista 
+sensitiva, e ch'elli dimandasse la ragione; che @e quello che non pu@o 
+la vista sensitiva comprendere?  E per@o dice: ^Che @e quel, dolce 
+Padre~; a Virgilio parla, ^a che non posso Schermir lo viso~; cio@e 
+difendere con la mano come feci di sopra, ^tanto che mi vallia~; come 
+mi valse di sopra, ^Diss'io~; cio@e Dante, ^e parve ver noi esser 
+mosso~; cio@e lo detto splendore?  ^Non ti meravilliar~; dice Virgilio 
+a Dante, ^s'ancor t'abballia La famillia del Cielo~; cio@e li angiuli, 
+^a me~; cio@e a me Dante, ^rispuose~; cio@e Virgilio; ecco che li 
+manifesta chi @e, dicendo: ^Messo @e~; questo splendore, cio@e angiulo, 
+^che viene ad invitar~; cio@e ad invitare di questo, ^ch'om sallia~; 
+cio@e che l'omo sallia all'altro balso: imper@o che la grazia di Dio 
+sempre ci promuove e sollicita d'andare di bene in mellio; et anco 
+possiamo tener che Dio ci mandi li angiuli suoi, a confortarci di ci@o. 
+ ^Tosto ser@a che a veder queste cose Non ti fia grave~; cio@e a te 
+Dante non fi' grave comprendere queste cose col sentimento, ^ma fieti 
+diletto~; cio@e vedere queste cose, ^Quanto natura a veder ti 
+dispuose~; cio@e tanto, quanto la natura; cio@e naturalmente, cio@e 
+Iddio t'@a disposto et ordinato a poter vedere.
+
+	|34-45.~  In questi quattro ternari lo nostro autore finge come 
+pervenneno a la scala del terso balso, e come montando suso, dimand@o 
+Virgilio del dubbio de le parole di sopra ditte da messere Guido, 
+dicendo cos@i: ^Poi~; cio@e che Virgilio disse le fatte parole, ^giunti 
+fummo~; cio@e Virgilio et io, ^e l'Angel benedetto~; lo quale avea 
+gittato quella luce nel volto a Dante, ^Con lieta voce disse~; cio@e 
+l'angiulo a noi: ^Entrate quinci~; cio@e su per questa scala, ^Ad un 
+scaleo~; cio@e ad una scala, ^via men che li altri eretto~; cio@e non 
+s@i erta, come erano stati li altri; questo determina quello ^fummo 
+giunti~, et @e qui la figura pentesis.  ^Noi montavamo gi@a~; cio@e 
+Virgilio et io per la detta scala, ^partito linci~; cio@e di quinde 
+l'angiulo; se 'l testo dice: ^partiti~; s'intende di loro, cio@e 
+partiti del secondo girone, ^E Beati misericordes s@i ci fue Cantato 
+dietro~; cio@e dall'angiulo che aveano lassato di rietro, o vero 
+dall'anime del secondo balso: questa @e parola de l'evangelio di santo 
+Matteo, cap. V: ^Beati misericordes, quoniam misericordiam 
+consequentur~; e finge che fusse cantato di rieto a loro nel balso dove 
+si purga la invidia, perch@e misericordia @e virt@u opposita a la 
+invidia: imper@o che 'l misericordioso @ae compassione a chi @a male; e 
+lo invidioso @e lieto del male altrui; sicch@e questo finge l'autore 
+che fusse cantato di rieto a loro a commendazione e confortamento di 
+chi @a, purgatosi de la invidia, come avea fatto elli, ^e: Godi tu che 
+vinci~; similmente finge che fusse cantato di rieto a loro, similmente 
+per confortamento e commendamento: ^Godi tu che vinci~; li peccati 
+purgandoti d'essi; e questo @e ne la fine del ditto evangelio, quando 
+dice: ^Gaudete et exultate in illa die, quoniam merces vestra copiosa 
+est in coelis~; s@i che bene d@e godere chi vince li vizi, pensando s@i 
+fatto premio, quale Ges@u promisse.  ^Lo mio Maestro~; cio@e Virgilio, 
+^et io~; cio@e Dante, ^soli ambedue~: imper@o che niuno altro era con 
+noi, ^Suso andavam et io~; cio@e Dante, ^pensai, andando, Prode 
+acquistar ne le parole sue~; cio@e di Virgilio.  ^E dirizza'mi a lui~; 
+per porgere in verso lui lo parlare, ^s@i dimandando~; cio@e cos@i: 
+^Che volse dir lo spirto di Romagna~; cio@e messere Guido del Duca, ^E 
+divieto e consorte mensonando~; cio@e quando disse di sopra: ^O gente 
+umana, perch@e poni 'l core Dov'@e mistier di consorte divieto?~  E 
+questo finge l'autore, non perch@e non sapesse che voleano significare 
+le ditte parole; ma per dirvi suso altre notabili sentenzie, le quali 
+finge che li dica Virgilio; cio@e la ragione s@i, come apparr@a nella 
+parte che seguita.
+
+	|46-57.~  In questi quattro ternari lo nostro autore finge come 
+Virgilio li dichiara le ditte parole di sopra da messere Guido, 
+dicendo: ^Perch'elli~; cio@e Virgilio, ^a me~; cio@e Dante, rispuose, 
+s'intende: ^Di sua maggior magagna~; cio@e di suo maggior peccato, 
+^Cognosce 'l danno~; cio@e lo dotto messere Guido; e per questo d@a ad 
+intendere ch'elli avea anco altri peccati; ma pi@u quello de la invidia 
+che li altri, ^e per@o non s'ammiri~; cio@e l'omo non si meravilli, 
+cognoscendo ora la sua offesa, ^Se ne riprende~; ora altrui: imper@o 
+che n'@ae coscienzia, ^perch@e men sen piagna~; cio@e perch@e meno vi 
+si pecchi: imper@o che quelli del purgatorio @anno carit@a perfetta, e 
+vorrebbeno ch'ogni uno fusse santo e buono.  Et ora rende la cagione 
+unde si muove la invidia, sicch@e prima dichiar@o perch'elli finse che 
+facesse messere Guido la predetta esclamazione, et avale rende la 
+cagione per che finse che le dicesse nella preditta forma, ponendo 
+^divieto~ e ^consorte~, dicendo: ^Perch@e~; cio@e: imper@o che, 
+^s'appuntano i vostri disiri~; cio@e s'assottilliano li desid@eri di 
+voi omini, ^Dove per compagnia parte si scema~; cio@e in quil bene che 
+non si pu@o aver tutto, se con altri si partecipa: e per@o dice che 
+^per compagnia parte si scema.  Invidia move 'l mantaco~; cio@e lo 
+pulmone che @e mantaco del cuore, et attrae e mette fuora l'aire, ^ai 
+sospiri~; li quali si muoveno per lo dolore che cagiona la invidia nel 
+cuore umano, quando vede ch'altri abbia parte di quil bene ch'elli 
+vorrebbe tutto.  ^Ma se l'amor de la spera suprema~; cio@e del Cielo; 
+cio@e del Bene Eterno, ^Torcesse in suso~: cio@e in ver lo Cielo, ^il 
+desiderio vostro~; cio@e di voi omini, ^Non vi sarebbe al petto quella 
+tema~; cio@e di non averlo tutto, come @e nel cuore paura di non avere 
+tutto lo bene mondano.  ^Ch@e, per quanto si dice pi@u l@i~; cio@e in 
+Cielo, ^nostro~; cio@e quanto pi@u possessori vi sono, ^Tanto possede 
+pi@u di ben ciascuno~; cio@e a ciascuno cresce pi@u lo contentamento, 
+quanto pi@u compagni si vede, ^E pi@u di carit@a arde in quel 
+chiostro~; cio@e di paradiso: pi@u cresce l'ardore de la carit@a, 
+quanto da pi@u si participia lo sommo bene, ch'@e Iddio.
+
+	|58-63.~  In questi due ternari lo nostro autore finge di non rimanere 
+chiaro de la soluzione data di sopra al primo dubbio; anco mostra che 
+per quella sia in maggior dubbio che prima, e per@o muove anco lo 
+dubbio a Virgilio, dicendo: ^Io~; cio@e Dante, ^son d'esser contento~; 
+per la soluzione datami di sopra, ^pi@u digiuno, Diss'io~; cio@e Dante, 
+^che s'io mi fusse pria taciuto~; cio@e che s'io non avesse udito la 
+tua soluzione, ^E pi@u di dubbio ne la mente aduno~; per la tua 
+soluzione ch'io non avea prima; e manifesta lo suo motivo, dicendo: 
+^Com'esser puote~; cio@e questo ch'io dir@o ora, ^che un ben 
+distributo~; cio@e diviso, ^In pi@u posseditor~; cio@e che pi@u 
+posseditori lo participino, ^faccia pi@u ricchi Di s@e~; li suoi 
+posseditori, ^che se da poghi @e posseduto?~  E se volessi tu, lettore, 
+dare questa risposta; perch@e da tutti @e posseduto tutto, pare 
+impossibile che uno bene sia posseduto da pi@u tutto; cio@e sicch@e 
+ciascuno l'abbia tutto.  E posto che sia possibile, seguita ancora che 
+non possa fare pi@u ricchi li posseditori, che se @e posseduto da 
+poghi; ma parimente ricchi s@i; ma non pi@u; unde ben fa l'autore a 
+muovere questo dubbio, per dichiararlo mellio ne la seguente lezione.
+	^Et elli a me~ ec.  Questa @e la secunda lezione del canto XV, ne la 
+quale lo nostro autore finge che Virgilio solva lo dubbio mosso di 
+sopra; e come a lui apparveno molte visione, poi che elli si trov@o in 
+sul terso girone; e come Virgilio lo solicita; e come s'avvenne in una 
+oscura nebbia.  E dividesi questa lezione in sette parti, perch@e prima 
+finge che Virgilio solva lo suddetto dubbio; ne la seconda finge che, 
+trovatosi in su l'altro girone; cio@e in sul terso, ebbe una bella 
+visione, et incomincia quive: ^Com'io volea~ ec.; ne la tersa, come di 
+po' la prima visione ebbe la seconda, et incomincia quive: ^Indi 
+m'apparve~ ec.; ne la quarta, com'elli di po' la seconda, la tersa 
+visione, quive: ^Poi viddi gente~ ec.; ne la quinta finge che, 
+ritornato in s@e di po' le ditte visioni, fu sollicitato da Virgilio, 
+quive: ^Quando l'anima mia~ ec.; ne la sesta finge come Virgilio lo 
+dichiara de le visioni ch'elli ebbe, quive: ^Et ei: Se tu avessi~ ec.; 
+ne la settima pone lo processo del suo cammino, quive: ^Noi andavamo~ 
+ec.  Divisa adunqua la lezione, ora @e da vedere lo testo co 
+l'esposizione literale e morale, o vero allegorica.
+
+	|64-81.~  In questi sei ternari lo nostro autore finge come Virgilio 
+solve lo secondo dubbio, dicendo cos@i: ^Et elli~; cio@e Virgilio, ^a 
+me~; cio@e a Dante, disse, s'intende: ^Per@o che tu rificchi La mente 
+pure a le cose terrene~; cio@e pensi pure sopra questi beni terreni, e 
+come non possano esser possiduti tutti da pi@u, sicch@e ciascuno li 
+abbia tutti; cos@i pensi che non si possa possedere lo Sommo Bene; e 
+per@o dice: ^Da vera luce~; cio@e da la vera chiarezza, cio@e da la 
+chiara verit@a, ^tenebre dispicchi~; cio@e errore di grazia; et ora 
+solve lo dubbio, dicendo: ^Quello infinito et ineffabil Bene~; cio@e 
+Iddio, che non @a fine e con parole non si pu@o esprimere, ^Che lass@u 
+@e~; cio@e in cielo, ^cos@i corre ad amore~; cio@e Iddio corre a chi 
+l'ama, e dassi a chi l'ama; ^Come a lucido corpo raggio vene~; e qui fa 
+una bella similitudine: imper@o che, come lo Sole invariabile @e nel 
+mondo; cos@i @e Iddio in vita eterna; ma pi@u eccessivamente; e per@o 
+fa la similitudine; cio@e come lo raggio del Sole tutti li corpi lucidi 
+de le stelle illumina, e se pi@u ne trovasse pi@u ne illuminarebbe, et 
+@e uno solo; cos@i Iddio, che solo @e sommo bene, molto maggiormente e 
+sensa comparazione tutte le anime che amano lui glorifica; e quanto 
+pi@u ve ne vanno, tanto pi@u ne glorifica, e maggior splendore di 
+gloria riluce in cielo de le molte che de le poghe, perch@e pi@u appare 
+la bont@a di Dio.  Questa @e bella e vera similitudine, bench@e non sia 
+equivalente: imper@o che niuna cosa in qualit@a, n@e in quantit@a si 
+pu@o assimilliare a Dio, n@e in niuno altro modo, se non con mancamento 
+da la parte de la cosa assimilliata, e con smisurato avansamento de la 
+parte di Dio.  ^Tanto si d@a~; cio@e Iddio, ^quanto trova d'ardore~; 
+cio@e di carit@a in verso di lui et in verso lo prossimo in dell'anime 
+beate, e quine @e perfetta carit@a, e per@o Iddio a ciascun'anima si 
+d@a perfettamente; cio@e quanto in lei ne cape, sicch@e ciascheduna @e 
+contentissima e niente desidera pi@u.  ^S@i che quantunque carit@a 
+s'accende~; cio@e in quantunqua cresce la carit@a, tanto cresce la 
+gloria; e per@o dice: ^Cresce sopra essa~; cio@e carit@a, ^l'eterno 
+valore~; cio@e l'eterna bont@a di Dio, e pi@u d@a di gloria, ^E quanto 
+gente pi@u lass@u~; cio@e in vita eterna, ^s'attende~; cio@e si vede, 
+^Pi@u vi d@a bene amore~; cio@e pi@u cresce l'amore, e cos@i 'l bene, 
+^e pi@u vi s'ama~; che prima, ^E come specchio l'uno all'altro rende~; 
+qui fa la similitudine che, come se pi@u specchi si ponesseno a la 
+spera del Sole, sicch@e la spera percotesse in ciascuno e stesseno in 
+s@i fatto sito, che lo raggio dell'uno riferisse nell'altro, 
+moltiplicherebbe lo splendore; cos@i lo Sole Divino, percotendo 
+nell'anime beate, le fa rilucere e la luce dell'una ripercuote l'altra, 
+et e converso: imper@o che l'una gode del bene dell'altra, per la 
+perfetta carit@a; e cos@i cresce lo contentamento et allegrezza in 
+ciascuna, quanto pi@u ve ne vanno, e per@o pi@u cresce lo bene di 
+ciascuna.  E per questo seguita che tutte abbiano infinito bene, in 
+quanto tutta via cresce; et Iddio, che @e infinito bene, tutta via a 
+loro si comunica e dona; ma questo crescere s'intende accidentalmente, 
+che essenzialmente ciascuna @e beata, secondo lo suo grado 
+perfettamente.  ^E se la mia ragion~; dice Virgilio a Dante, ^non ti 
+disfama~; cio@e non ti sazia e non sodisfa, ^Vedrai Beatrice~; cio@e la 
+Santa Teologia, o vero la grazia di Dio beatificante, ^et ella 
+pienamente Ti torr@a questa e ciascun'altra brama~; cio@e ciascuno 
+altro desiderio.  ^Procaccia tosto pur che siano spente~; tu, Dante, in 
+te, ^Come son gi@a le du'~; cio@e li du' P, cio@e li du' peccati 
+mortali scritti ne la tua fronte; cio@e superbia et invidia, ^le cinque 
+piaghe~; cio@e li rimanenti cinque peccati, ^Che si richiudon per esser 
+dolente~; cio@e le piaghe del peccato si richiudeno per la contrizione. 
+ Li peccati sono piaghe dell'anime, e la loro medicina a sanare s@i 
+fatte piaghe @e la contrizione e 'l dolore; e cos@i @ae soluto lo 
+dubbio Virgilio a Dante, mosso da lui, sopra l'esclamazione fatta de 
+messere Guido del Duca ditta di sopra.
+
+	|82-93.~  In questi quattro ternari lo nostro autore finge come 
+pervenne in sul terso girone, e come li apparve una visione ne la 
+fantasia, dicendo cos@i: ^Com'io~; cio@e Dante, ^volea dicer: Tu 
+m'appaghe~; a Virgilio, ^Viddimi giunto in sull'altro girone~; cio@e in 
+sul terso, dove si purga lo peccato dell'ira, ^S@i che tacer mi fer le 
+luci vaghe~, cio@e le luci dei miei occhi vaghe di vedere, e tolsemi lo 
+rispondere a Virgilio.  ^Ivi~; cio@e in quil luogo, ^mi parve in una 
+visione Estatica~; cio@e quando la mente non @e alienata da stupore; ma 
+@e s@i legata ad alcuna revelazione et occupatasi tutta, che niuna 
+altra pi@u intende, n@e niuna potenzia adopera; e dicesi da estasi, che 
+@e elevamento di mente da ogni operazione, et apponimento ad alcuno 
+singulare pensieri, ^di subito esser tratto~; cio@e tirato quinde, dove 
+io era, ^E vedere in un tempio~; a quale mi parea esser menato, ^pi@u 
+persone~; come fu Cristo: essendo ancora garzone intr@o nel tempio e 
+disputava coi Sacerdoti, e co li Scribi, e Farisei; e la Madre, e 
+Giosef l'andavano cercando, e stetteno 3 d@i che nol potetteno trovare. 
+ ^Et una donna~; cio@e mi parve vedere: questa fu la Virgine Maria, ^in 
+sull'entrar~; del tempio, ^con atto Dolce di madre dicer: Filliuol 
+mio~; cio@e in verso suo filliuolo, ^Perch@e @ai tu cos@i verso noi 
+fatto?~  Queste sono le parole de l'Evangelio che dice: ^Fili, quid 
+fecisti nobis sic?  Ego et pater tuus dolentes quaerebamus te~; e per@o 
+seguita: ^Ecco dolenti lo tuo padre~; cio@e Giosep che era padre, 
+quanto a cura, o putative secondo che pensava la gente, ^et io~; cio@e 
+tua madre, ^Ti cercavamo~; che non t'abbiamo trovato, gi@a @e tanti 
+d@i.  ^e come qui~; cio@e in questo parlare, ^si tacque~; cio@e parve a 
+me che quella madre tacesse ne la visione, ^Ci@o che pareva prima, 
+dispario~; cio@e partitte da la mia fantasia la visione preditta.  E 
+perch@e l'autore incomincia a trattare del purgamento del peccato 
+dell'ira, del quale fu ditto ne la prima cantica quello che 
+s'apparteneva, non si replica qui; lo quale peccato finge l'autore che 
+si punisca e purghi nel terso girone.  E per conforto d'intrare a la 
+penitenzia di tale peccato, finge le visioni e li pensieri che si d@e 
+fare la mente sopra la virt@u contraria a s@i fatto peccato, ch'@e la 
+pazienzia; e per@o finge che avesse la visione ditta di sopra de la 
+Virgine Maria, la quale con tutta pazienza riprese dolcemente lo suo 
+Filliuolo.  E questo pensieri al quale si diede la mente sua, finge che 
+fusse la sua visione che li apparve prima, ch'@e de la Santa Scrittura.
+
+	|94-105.~  In questi quattro ternari finge lo nostro autore come di 
+po' la prima visione ditta di sopra, la quale si contiene ne la Santa 
+Scrittura, ebbe un'altra visione d'una istoria che pone Vallerio in 
+libro V, capitulo ^De Clementia~; cio@e come Pisistrato duca delli 
+Ateniesi ebbe una sua filliuola, la quale andando uno d@i co la madre 
+ad una festa, ornata come vanno le giovane, uno giovano suo cittadino, 
+che lungo tempo avea amata, vedendola cos@i bella, non si poteo 
+attenere che non si mettesse tra tutte le donne, et abbracciasse la 
+ditta giovana e baciasse; unde la madre molto turbata lev@o grande 
+grido, e tornata subito al palasso scapilliata e con lagrime gittossi 
+innanti al duca, dimandando vendetta del giovano ch'avea commesso s@i 
+grande fallo.  E 'l duca con benignit@a e con temperansa rispuose a la 
+duchessa: O che faremo ai nostri inimici, se coloro che ci amano sono 
+condannati da noi?  Ecco questa istoria ben rimove l'animo di chi la 
+pensa da ogni furore d'ira, et inducelo a temperansa, la quale @e 
+contraria all'ira, la quale si d@e avere da chi si vuole purgare 
+dell'ira; e per@o finge l'autore che li apparisce, perch@e sopra questa 
+ebbe lo suo pensieri, quando incominci@o a volersi ritraere da s@i 
+fatto peccato, e d'insegnare al lettore a ritraersene.  Dice cos@i lo 
+testo: ^Indi~; cio@e di po' la preditta visione, ^m'apparve~; cio@e ne 
+la mia fantasia, ^un'altra~; cio@e donna; cio@e la duchessa donna di 
+Pisistrato duca d'Atene, ^con quelle acque~; cio@e lagrime, ^Gi@u per 
+le gote~: imper@o che le lagrime cadeno dalli occhi gi@u per le gote, 
+^che~; cio@e le quali, ^il dolor distilla~; cio@e fa distillare delli 
+occhi: lo dolore @e cagione, perch@e l'omo piange, ^Quando da gran 
+dispetto in altrui nacque~: spesse volte viene lo dolore da dispetto 
+che l'omo pillia, come prese la detta duchessa dal giovano ch'avea 
+abbracciato e baciato la filliuola, ^E dir~; cio@e mi parve, dice 
+l'autore, la ditta donna cos@i piangendo innanti al marito: ^Se tu se' 
+sire~; cio@e signore, ^de la villa~; cio@e de la citt@a d'Atene, la 
+quale descrive non volendola nominare, ^Del cui nome fra ' dei fu tanta 
+lite~; cio@e tra Pallade e Nettuno fu grande contenzione qual di loro 
+dovesse ponere nome a la citt@a d'Atene, poich@e fu fatta e fu 
+determinato da li dii chi producesse millior cosa per li omini ponesse 
+nome a la citt@a; sicch@e Pallade produsse l'olivo, perch'ella fusse 
+pacifica; e Nettuno produsse lo cavallo ch'@e atto a le battallie.  
+Unde li dii indiconno che era mellio la pace per li omini che la 
+battallia, e che Pallade dovesse dare lo nome a la citt@a et ella la 
+nomin@o Atene dal nome suo: imper@o che Pallade @e chiamata Atene; 
+cio@e immortale; e per@o dice l'autore che del nome di quella citt@a fu 
+tanta lite tra li dei.  ^Et unde ogni scienzia disfavilla~; cio@e e da 
+la quale citt@a d'Atene risplende ogni scienzia: imper@o che in essa 
+era lo studio in tutte l'arti, come ora a Parigi.  Ecco per descrizione 
+@ae manifestato lo nome de la citt@a d'Atene, nella quale stetteno li 
+savi che composeno libri de le scienzie, li quali traslatati di greco 
+in latino @anno inluminato lo mondo.  ^Vendica te di quelle braccia 
+ardite~; cio@e di quil giovano ardito, ^Ch'abbracciar nostra fillia~; 
+come ditto @e di sopra ne la istoria, ^o Pisistrato~; questo @e lo nome 
+del duca d'Atene, lo quale finge l'autore che li parea che chiamasse 
+per nome.  ^E 'l signor~; cio@e Pisistrato, ^mi parea~; a me Dante ne 
+la mia visione, ^benigno e mite~; cio@e misericordioso e mansueto, 
+^Risponder lei~; cio@e rispondere a lei; cio@e a la duchessa, ^con viso 
+temperato~; cio@e non turbato, n@e mosso a furore: ^Che farem noi a chi 
+mal ne disira~; cio@e a chi male ci desidera, ^Se quei che ci ama @e 
+per noi condennato~; quasi dica: A quella medesima ragione che faremo a 
+l'inimico, se noi condenniamo l'amico?
+
+	|106-114.~  In questi tre ternari lo nostro autore finge come ne la 
+sua visione li fu presentato a la fantasia la lapidazione di santo 
+Stefano, unde dice cos@i: ^Poi~; cio@e di po' la preditta visione, 
+^viddi~; io Dante, ^gente accese in foco d'ira~; questo dice, perch@e 
+l'ira riscalda l'omo come lo fuoco, et accende a furore, ^Con pietre un 
+giovanetto ancider~; cio@e santo Stefano, come appare ne la leggenda 
+sua: giovanetto prima di po' Cristo sostenne martiro, e per@o @e 
+chiamato protomartir; cio@e primo martire, ^forte Gridando a s@e~; 
+cio@e a loro medesimi: ^Pur martira, martira~; cio@e confortavano l'uno 
+l'altro: Dateli bene de le pietre; a la quale lapidazione fu san Paolo 
+lo quale era chiamato Saulo, e serbava li panni a coloro che lapidavano 
+santo Stefano.  ^E lui~; cio@e santo Stefano, ^vedea~; io Dante; cio@e 
+mi parea vedere ne la mia visione, ^chinarsi per la morte, Che 
+l'aggravava gi@a, in ver la terra~: imper@o che cadea in terra, perch@e 
+moria per li colpi ricevuti, ^Ma delli occhi facea sempre al Ciel 
+porte~; cio@e che sempre ragguardava lo cielo colli occhi; sicch@e 
+^porte~; cio@e porgimenti, o vero ^porte~; cio@e aprimenti, perch@e per 
+essi intrava la visione del cielo; unde dice la Santa Scrittura: 
+^Stephanus vidit coelos apertos --, Pregando l'alto Sire~; cio@e Iddio, 
+^in tanta guerra~; in quanta elli era, che era percosso continuamente 
+da le pietre; ecco grande carit@a, ^Che perdonasse ai suoi 
+persecutori~; e ben fu esaudita la sua orazione in santo Paolo, che si 
+convert@i e fu apostolo di Cristo, ^Con quello aspetto che piet@a 
+disserra~; cio@e con quello ragguardamento che esce da piet@a, o vero 
+devoto tanto, che apre la piet@a: imper@o che cos@i ragguardava Iddio 
+con pietoso aspetto, che aperse la piet@a di Dio; o vero con quelli 
+occhi lacrimosi che piet@a induce.  E questo @e lo terzo esemplo che 
+l'autore @ae indutto contra l'ira, che desidera vendetta de' suoi 
+persecutori.
+
+	|115-126.~  In questi quattro ternari lo nostro autore finge come, 
+ritornato in s@e da le preditte visioni, fu ripreso da Virgilio e 
+sollicitato, dicendo: ^Quando l'anima mia torn@o di fori~; parla 
+l'autore de la sua anima, che fu raccolta dentro da s@e a considerare 
+le preditte tre istorie; e questo @e essere in estasi, quando l'omo d@a 
+lo pensieri suo sopra una cosa tutto, sicch@e niuna altra cosa sento di 
+fora, ^A le cose che sono fuor di lei vere~; cio@e torn@o a considerare 
+le cose che sono fuora di lei vere et in essere: ch@e quelle cose ch'io 
+avea veduto in visione estafica non erano state vedute veramente; ma 
+con fantasia, ^Io~; cio@e Dante, ^ricognovi i miei non falsi errori~; 
+cio@e ricognovi veramente li miei errori, stati veri e non falsi: cio@e 
+ch'io era veramente ito errando co la mente sopra le ditte tre istorie. 
+ ^Lo Duca mio~; cio@e Virgilio, ^che mi potea vedere Farmi com'om~, 
+cio@e come omo, ^che del sonno si slega~; cio@e che si svellia, ^Disse: 
+Che @ai~; cio@e Virgilio a me Dante, ^che non ti puoi tenere~; cio@e in 
+sulle gambe, ^Ma se' venuto pi@u che mezza lega~: lega @e misura che @e 
+per 4 millia, ^Velando~; cio@e coprendo, ^li occhi e co le gambe 
+avvolte~; et adiunge la similitudine, ^A guisa~; cio@e a similitudine, 
+^di cui vino o sonno piega~; cio@e di colui che 'l vino o 'l sonno 
+piega?  Unde l'autore si vuole scusare, e dice cos@i: ^O dolce Padre 
+mio~; dice Dante a Virgilio, ^se tu m'ascolte~; cio@e se tu mi vuoi 
+udire, ^Io ti dir@o, diss'io~; cio@e io Dante a Virgilio, ^ci@o che 
+m'apparve~; cio@e ne la mia fantasia, ^Quando le gambe mi furon s@i 
+tolte~; che io non potea andare, come tu @ai detto.  Seguita per questo 
+che la ragione riprende l'omo, quando troppo sta sopra uno pensieri e 
+tanto si profonda in esso, che dell'altre cose non sente.
+
+	|127-138.~  In questi quattro ternari lo nostro autore finge come 
+Virgilio risponde a la scusa che Dante volea fare, e prevennelo sapendo 
+quelle visioni ch'elli avea avuto, dicendo cos@i: ^Et ei~; cio@e 
+Virgilio rispose a me Dante: ^Se tu avessi cento larve~; cio@e mascare, 
+che si metteno a la faccia quelli che si volliono camuffare, o vero 
+contraffare, ^Sopra la faccia~; cio@e tua: ecco che parla 
+similitudinariamente; cio@e che come lo volto aperto manifesta l'omo, e 
+celato lo cela; cos@i la volont@a aperta manifesta lo pensieri, e 
+celata lo cela, ^Non mi sarian chiuse Le tuoe cogitazion, quantunqua 
+parve~; ecco che ben dimostra chiaramente l'autore ch'elli intende per 
+Virgilio la ragione, a la quale @e noto ci@o che apprende la fantasia: 
+non @e niuna s@i minima cosa che apprenda la fantasia, che la ragione 
+non n'abba incontenente lo suo indicio.  Et ora li manifesta che @anno 
+significato le visione ch'elli @a veduto, dicendo: ^Ci@o che vedesti~; 
+tu, Dante, ^fu perch@e non scuse~; cio@e non rifiuti, ^D'aprir lo 
+cuore~; cio@e tuo, ^a l'acque de la pace~; cio@e de la abondanzia de la 
+carit@a e de la pace, ch'@e contraria all'ira, ^Che da l'eterno Fonte 
+son diffuse~; cio@e da Dio eterno, che @e fonte d'ogni bene, sono 
+sparte.  ^Non dimandai~; io Virgilio a te Dante: ^Che @ai~; tu, Dante? 
+^per quel che face, Chi guarda pur coll'occhio~; cio@e corporale, ^che 
+non vede~; cio@e l'occhio corporale non vede niente, ^Quando 
+disanimato~; cio@e privato dell'anima, ^il corpo giace~; cio@e quando 
+l'omo @e morto.  ^Ma dimandai~; io Virgilio te Dante, ^per darti forza 
+al piede~; cio@e per farti pi@u veloce e sollicito.  ^Cos@i frugar~; 
+cio@e sollicitar, ^conviensi i pigri lenti~: molti sono li pigri; cio@e 
+che non si sanno mettere a le fatiche; ma pur quando vi si mettono, 
+fanno la cosa spacciatamente; e molti sono pigri e lenti che non si 
+sanno mettere a le fatiche, e quando vi si mettono, o sono fatti 
+mettervisi, adoperano lentamente, et intanto @e differenzia tra pigro e 
+lento: pu@o essere l'omo lento e non pigro, e pigro e non lento; ma chi 
+@e l'uno e l'altro @e peggio; e cos@i dice Virgilio a l'autore, ch'elli 
+era pigro e lento, ^Ad usar lor vigilia~; cio@e loro opera; ma parla 
+per similitudine di quelli che guardano di notte, che convegnono 
+vegghiare a vicenda; e per@o dice: ^quando riede~; cio@e quando ritorna 
+la loro guardia: uno esercizio non @e dato a tutti, chi @a una grazia e 
+chi un'altra; e per@o ciascuno d@e esser sollicito in quello che tocca 
+a lui, come la guardia d@e guardare sollicitamente, quando li tocca la 
+sua gita.
+
+	|139-145.~  In questi due ternari et uno versetto lo nostro autore 
+finge come seguitteno loro viaggio su per lo girone terso; e come vi 
+trovonno una grande nebbia, dicendo cos@i: ^Noi~, cio@e Virgilio et io 
+Dante, ^andavamo in ver lo vespro attenti~; cio@e in verso la parte 
+occidentale: dice ^attenti~, per vedere se trovasseno alcuna gente, 
+^Oltre quanto potean li occhi~; cio@e nostri, ^allungarsi~; cio@e 
+quanto potevamo guardare alla lunga, ^Contra i raggi serotini~; cio@e 
+contra li raggi del Sole che si calava in ver la sera, come ditto fu di 
+sopra, ^e lucenti~; cio@e e risplendenti, che impedivano pi@u la vista. 
+ ^Et ecco a poco a poco un fummo farsi Verso di noi~; cio@e in verso 
+Virgilio e me, ^come la notte scuro~; cio@e questa nebbia era 
+nerissima, come fummo, o come la notte.  ^N@e da quell'era loco da 
+cansarsi~: per@o che occupava tutto 'l balso, sicch@e nollo potevamo 
+cessare.  Ecco la pena, che l'autore finge che sia nel terso balso, per 
+purgare lo peccato dell'ira; cio@e una nebbia oscura che non lassava 
+vedere l'anime che v'erano, e questa nebbia oscura tollieva la 
+chiarit@a dell'aire; e cos@i privava li occhi de la vista: imper@o che 
+l'occhio non pu@o vedere, se non per mezzo de la luce; e per@o dice 
+l'autore: ^Questo~; cio@e fummo, ^ne tolse~; cio@e a me Dante tolse, 
+^li occhi~; che sono lo strumento visuale, ^e l'aire puro~; che @e lo 
+mezzo, per lo quale si vede.  E finge l'autore che questo fummo non sia 
+per tutto lo girone; ma l'anime che si purgano non esceno d'esso; ma 
+vanno qua e l@a come lo volere le porta, sicch@e non escano de la 
+nebbia.  E questa @e conveniente pena a purgare lo peccato dell'ira: 
+imper@o che la penitenzia, che purga l'anima, d@e essere s@i fatta che 
+faccia ricognoscere a l'anima lo peccato suo e l'errore suo, a ci@o 
+ch'ella si dollia del vizio seguitato, e diventi desiderosa de la 
+virt@u abbandonata, come noi veggiamo: l'ira @e turbazione de la mente, 
+et accieca la ragione e lo intelletto, tolliendo la grazia di Dio, e 
+per tanto si parte l'omo da la pace e da la temperansa; e per@o finge 
+l'autore che l'anime vadano per questo fummo, o vero nebbia, ripensando 
+la loro ciechit@a e turbulenzia che ebbeno ne la vita, e dolliansi 
+debitamente d'averla avuta e desiderino di venire a tranquillit@a di 
+mente e pace vera.  E cos@i finge l'autore che vi passasse, elli 
+guidato da Virgilio; cio@e da la ragione, per significare che a quel 
+modo si purgasse del peccato dell'ira; unde Persio satiro ne la tersa 
+satira dice: ^Magne pater Divum, saevos punire Tyrannos Haud alia 
+ratione velis, cum dira libido Moverit ingenium ferventi tincta veneno: 
+Virtutem videant, intabescantque relicta~.  E se lo lettore movesse qui 
+dubbio, perch@e l'autore ne lo inferno finge altre pene ai peccati che 
+nel purgatorio; e perch@e distingue li peccati in pi@u specie che non 
+fa qui, come appare de la superbia e de la invidia che ne tratta dentro 
+a la citt@a di Dite in pi@u specie, come ditto @e ne la esponizione di 
+quella, pu@osi rispondere che altra pena si richiede a la punizione et 
+altra a la purgazione: imper@o che la punizione si fa con acerbit@a, e 
+la purgazione con clemenzia; unde Boezio nel libro IV de la Filosofica 
+Consolazione dice: ^Nulla ne animarum supplicia post defunctum corpus 
+relinquis?  Et magna quidem.  Quorum alia poenali acerbitate, alia vero 
+purgatoria clementia excerceri puto~.  E per@o a la punizione si 
+richiedeno diverse pene ai peccati, secondo le loro specie, per 
+sodisfare a la iustizia di Dio, che dirittamente punisce dando, secondo 
+la gravit@a del peccato, la gravit@a de la pena.  A la purgazione una 
+pena @e soff@icente a tutte le specie del peccato, per sodisfare a la 
+misericordia di Dio che tutte le pene arreca a quella, sensa la quale 
+non si pu@o purgare lo peccato; e questa @e lo ricognoscimento del 
+peccato che induca contrizione, e lo ricognoscimento de la virt@u 
+contraria che induca amore di quella; unde disse Cristo ne l'Evangelio: 
+^Nolo mortem peccatoris; sed ut convertatur et vivat~.  E per@o al 
+superbo vasta che ricognosca quanto fallo fu lo suo inalzarsi sopra lo 
+prossimo suo o contra Iddio, lo pi@u che @a potuto, e di questo si 
+dollia et adumilisi quanto pu@o; la quale cosa significa lo peso che 
+@ae finto che portasseno addosso li superbi, e ciascuno dicesse: ^Pi@u 
+non posso~; e lo invidioso, cuciti li occhi col filo di ferro, pianga 
+lo suo errore e non vollia vedere li beni mondani che lo movevano ad 
+invidia per freddezza di carit@a; e l'iracundo ricognosca la sua 
+turbazione de la mente, ripensandola e dolendosene, ritornando a la 
+tranquillit@a.  E questo vasta in qualunque specie dei ditti peccati, 
+che l'omo abbia peccato; cio@e ^ut convertatur a via mala et ab 
+errore~; cio@e che si converta de la via ria e dall'errore e viva 
+virtuosamente, e questa @e la vera penitenzia e la vera purgazione.  
+Seguita lo canto XVI, compiuto lo XV.
+

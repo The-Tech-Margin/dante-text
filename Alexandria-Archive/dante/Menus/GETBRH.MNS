@@ -1,0 +1,73 @@
+{GETBR_H}
+;
+;	SCCS ID "@(#) BRS Mate: Menu GETBRH.MNS v43.2 (3/15/89) { Release 5.0 }"
+;
+
+:SET #HEADING ~\cDDP\l30\o2 Query Select Help \f2\l62#DATE\n~
+
+:COMPARE @SELECTION
+     TO "D"
+	:PRINT ~#HEADING
+     To  DISPLAY  documents  on  the  screen, you must first specify the
+     result set that contains the document(s) you wish to display.
+
+     If  there is more than one outstanding result set, you are prompted
+     to  enter  the result set number (query number) in which the target
+     documents  are located.  Any valid result set number can be chosen.
+     Strike RETURN to specify the most recently created set.
+
+     For  example,  if  you  have just created result set 5, but wish to
+     display documents from result set 3, enter the following:
+
+     Enter query number for display; H for help; S to Search [5]: 3\n~
+
+     TO "P"
+	:PRINT ~#HEADING
+     To  PRINT documents on a remote printer, you must first specify the
+     result set that contains the document(s) you wish to have printed.
+
+     If  there is more than one outstanding result set, you are prompted
+     to  enter  the result set number (query number) in which the target
+     documents  are located.  Any valid result set number can be chosen.
+     Strike RETURN to specify the most recently created set.
+
+     For  example,  if  you  have just created result set 5, but wish to
+     print documents from result set 3, enter the following:
+
+     Enter query number for print; H for help; S to Search [5]: 3\n~
+
+     TO "R"
+	:PRINT ~#HEADING
+     To REDIRECT output to a named operating system file, you must first
+     specify  the  result  set that contains the document(s) you wish to
+     redirect.
+
+     If  there is more than one outstanding result set, you are prompted
+     to  enter  the result set number (query number) in which the target
+     documents  are located.  Any valid result set number can be chosen.
+     Strike RETURN to specify the most recently created set.
+
+     For  example,  if  you  have just created result set 5, but wish to
+     redirect documents from result set 3, enter the following:
+
+     Enter query number for redirect; H for help; S to Search [5]: 3\n~
+
+     TO "M"
+	:PRINT ~#HEADING
+     To  MODIFY documents via this selection, you must first specify the
+     result set that contains the document(s) you wish to modify.
+
+     If  there is more than one outstanding result set, you are prompted
+     to  enter  the result set number (query number) in which the target
+     documents  are located.  Any valid result set number can be chosen.
+     Strike RETURN to specify the most recently created set.
+
+     For  example,  if  you  have just created result set 5, but wish to
+     modify documents from result set 3, enter the following:
+
+     Enter query number for modification; H for help; S to Search [5]: 3\n~
+
+:DONE
+
+:PAUSE BOTTOM
+:RETURN

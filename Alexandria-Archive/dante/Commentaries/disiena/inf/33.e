@@ -1,0 +1,4708 @@
+	|1.  La bocca sollev@o~ ec.  S@i potenti furono le parole
+del Poeta (C. prec. vv. 133-139) a fare che Conte Ugolino, nella sua
+fame rabbiosa, lasciasse il fiero pasto per rispondere a lui!
+Questo canto si continua al precedente: e noi non ancora siam fuor
+dell'Antenora, n@e della narrazione incominciata (C. prec. v. 124
+segg.).  Qui: ^voi udite e grave e terribil principio, e numero di
+versi pieno e sonoro.~  Ces.
+
+	|Sollev@o~ leggono tutt' i comentatori con l'edizione del
+Burgofranco (Ven. 1529), con la 2+a.~ Rovilliana (Lion. 1515) e con
+la pi@u parte degli altri testi.  Il codice Cassin. e l'ediz. di
+Jesi hanno: ^si lev@o.~  Il Vat. 3199: ^si lev@o~, forse per s@i
+lev@o~, qual si legge nel cod. Riccard. n. 1028, e nelle prime
+edizioni di Foligno, di Mantova (an. 1472), di Napoli (an. 1474), e
+nel famoso cod. Filippino.  Noi saremmo tentati di prescegliere
+quest'ultima lettera pel nostro testo: tanto ci pare propria a
+dinotar la continazione nella forma del favellare, il legame tra i
+pensieri, l'effetto che seguita alla dimanda del Poeta; e, quel che
+pi@u monta, il valore del verbo ^lev@o~, la cui forza @e p@iu molta
+a significarci la violenza dell'atto e il totale distacco dal pasto
+a poter favellare.  Pure Lucan., VI;
+
+     ^Haec ubi fata, caput, spumantiaque ora, levavit.~
+
+ove il latino ^levare~ ha sentimento non solo di ^alzare,~ ma
+eziandio di ^auferre.~  A questo, secondo a noi pare, mal
+risponderebbe la voce ^sollevare.~
+
+	|Fiero.~  Chi potrebbe mangiar del capo nonch@e d'un uomo
+qual si sia, ma d'un Arcivescovo, altri che una fiera?  Solo una
+belva non guarderebbe alla nobile forma umana e all'imponente
+maest@a di una cherica grande.  Gli animali feroci non mangiano
+carne della propria specie.  Qui veramente ^homo homini lupus.~
+Quindi |fiero~ per ^crudele, orribile, spaventevole.~
+
+	|2.  Forbendola.~  ^Nettando la bocca~ tanto che potesse
+favellare.  Appo Stazio simigliantemente Polinice piangendo su Tideo
+gi@a morto gli terge la bocca ancora immonda del sangue di
+Menalippo.  (Theb., IX): ^Etiamnum lubrica tabo Ora viri tergit
+lacrymis~ [^Ora~ s'intende anche per tutto il viso; e qui
+principalmente per la ^bocca~; come in Dante va intesa con la bocca
+eziandio tutta la faccia sollevata dal fiero pasto.].  -- <Quel
+^fiero pasto~, @e ben fiera cosa, ma quel forbire la bocca ai
+capelli della nuca, @e un cotal atto di sprezzo insieme e di rabbia,
+ed una tratta maestra; cio@e delle usate particolarit@a, che danno
+un mezzo rilievo a certi luoghi di Dante>.  Cesari.  -- ^Hai
+l'orribile della pittura senza la tabe~ [Il Ch. Tommaseo pone un
+confronto tra questi versi di Dante e quelli di Stazio:
+
+     ^Atque illum effracti perfusum tabe cerebri
+     Aspicit, et vivo scelerantem sanguine fauces.~
+
+	Abbiamo fatto tesoro delle sue preziose parole (Illustr. al.
+C. XXXII, p. 477, (1))]. ^che imbrodola il roditore; ch'anzi... il
+forbire la bocca ai capelli @e mondezza pi@u orribile d'ogni
+sozzura.~
+
+	|Forbendola.~  Questa voce prest@o argomento al Colombo, per
+dimostrare che la ^forza del dire~ dipende in gran parte dall'uso
+proprio de' vocaboli [<La vera forza del dire non dipende tanto dal
+valore de'vocaboli, quanto dall'uso ^proprio~ che se ne fa.
+Allorch@e Dante mi dice nel principio del canto XXXIII dell'Inferno:
+^La bocca sollev@o~ ec. (1-3), con quel ^forbendola~ egli mi
+rappresenta la cosa con pi@u d'evidenza che se mi rappresenta la
+cosa con pi@u d'evidenza che se mi avesse detto ^sfregandola~, o
+^strofinandola.~  E pure ^sfregare~ e ^strofinare~ sono termini di
+maggior significazione, e per conseguente di maggior forza che
+^forbire~; ma perch@e non esprimono propriamente quello che ivi era
+da dirsi, poco o nessuno effetto essi avrebbono prodotto.  Al
+contrario il vocabolo ^forbire~, quantunque esso sia per s@e stesso di
+signficazione pi@u debole, perch@e esprime la cosa appuntino, ce la
+mette proprio davanti agli occhi.  Aggiungasi che con quel
+|forbendola a' capelli~ ci viene a dire il poeta, che in quel modo
+colui se la nettava cos@i alla meglio, tanto che potesse parlare: il
+che fa presumere che gli restassero ancora su per le labbra i segni
+di quel sangue di cui le aveva imbrattate.  A me par di vederli que'
+segni; e ci@o rende la pittura ancora pi@u viva.  Oh questa si @e
+^vera forza~!]
+
+	|3.  Avea di retro guasto~ (C. prec. v. 128 seg.).
+|Guasto~: ^guastato.~  Lat. ^vastaverat: aveane sconciato la forma,
+distrutta, rovinata~ con impeto di feroce nemico.
+
+	|Di retro.~  Pietro Alighieri crede ci@o detto
+figuratamente, a significare che la atrocit@a del fatto di Conte
+Ugolino offende la memoria di Ruggieri: ^Nam sicut~ (Ugolinus)
+^rodit caput dicti Archiepiscopi, ita mors dicti Comitis rodit
+memoriam, quae in cerebro fuit dicti domini Archiepiscopi.~
+
+	|Di retro.~  L@a dove covarono ^i mai pensieri~ (v. 16).
+
+	|4-5.  Rinnovelli~ ec.  @E pretto miniato il modo Virgiliano
+(En. II 2):
+
+     ^Infandum, regina, jubes renovare dolorem.~
+
+	<Ma il ^disperato dolor~ vantaggia l'^infandum~ di cento
+tanti, ed @e cosa atroce>.  Cesari.  -- Perciocch@e @e in Ugolino
+dolore non confortato da nessuna speranza; quindi immensurabile e
+d'una intensit@a infernale che non muta e non aspetta meglio;
+laddove il dolor d'Enea se nasce dall'amara e orribile rimembranza
+della patria distrutta, lo mitigano i Fati con la promessa d'una
+nuova Troja.  -- |Disperato.~  ^Morirono in cinque giorni; e
+vedendosi il Conte morire, domand@o un ferate per confessore, e non
+gli fu dato.~  L'Anonimo, e G. Vill. Lib. VII. Cap. 127.
+
+	|Disperato dolor~ ec.  In Virgilio, l'eroe Trojano scampato
+dalla tempesta, e tuttavia nell'apprensione di altri futuri
+pericoli, compone a speranza il sembiante, preme il timore
+nell'animo, si sforza di parer sicuro, e si fa animo ad incuorare i
+suoi (En. I. 198-209): nella tempesta che travolge l'animo
+d'Ugolino, accade l'opposto.  Di Enea vi @e detto: ^curis ingentibus
+aeger Spem vultu simulat~; di lui: ^disperato.~  L'uno: ^dictis
+moerentia pectora mulcet~; l'altro non ha questa forza, guarda nel
+viso ai suoi figliuoli (v. 47 seg.), n@e trova, fuor d'ogni speranza
+egli stesso, un motto solo onde gli conforti.  ^Quet@ami... per non
+farli pi@u tristi~ (v. 64); -- ^Quel d@i e l'altro stemmo tutti
+muti~ (v. 65).  Enea: ^premit altum corde dolorem~: ebbe almanco la
+potenza di comprimerlo nel fondo del cuore: Ugolino manca di questa
+forza; e il ^dolore~ s'indonna di lui, gli opprime e serra lo
+spirito: questo @e ^disperato dolore!~  Dante pare a noi ne abbia
+concepita l'infernale atrocit@a per riflessione sul Virgiliano:
+
+     ^Spem vultu simulat, premit altum corde dolorem.~
+
+	I due casi sembra che abbiano appena alcuna lontana
+simiglianza; ma il Poeta Fiorentino sa dal suo Maestro non solamente
+togliere lo stile, ma trovar nelle parole di quello il germe di
+certi concetti, ch'egli poi eleva all'ultimo segno della poetica
+ideal perfezione.
+
+	|6-9.  Gi@a pur pensando~ ec.  Il pensar senza pi@u a ci@o
+che dir deggio di quel disperato dolore, m'opprime gi@a pria ch'io
+ne ragioni.  -- |Pur~: ^solamente.~
+
+	|Ma se~ ec.  Nondimeno, se dal racconto del fatto seguir@a
+infamia al traditore nemico, io torner@o per quelle fiere memorie,
+tutto ch'io contener non mi possa, che in parlando non lacrimi
+insieme.  En. II. 6 seg.:
+
+        ^....Quis talia fando
+     Temperet a lacrimis?....
+     ........................
+     Sed si tantus amor casus cognoscere nostros,
+     Et breviter Trojae supremum audire laborem:
+     Quamquam animus meminisse horret, luctuque refugi
+     Incipiam.~
+
+	|Seme~: ^cagione.~  -- Conv.: ^Se la prossimitade @e seme
+d'amist@a... manifesto @e, ch'ella @e delle cagioni stata
+dell'amore, ch'io porto alla mia loquela, che @e a me prossima pi@u
+che l'altre.~  -- Questa locuzione bellissima, delle parole ^seme
+che frutti~, @e a nostro credere presa dalla Bibbia (Matth. XIII;
+Marc. IV; Luc. VIII), dove il Verbo di Dio @e assomigliato al grano
+della semina.
+
+	|Esser den seme.~  @E detto ci@o conforme alla promessa del
+Poeta (C. prec. vv. 138 seg.):
+
+     Nel mondo suso ancor io te ne cangi,
+     Se quella con ch'io parlo non si secca.
+
+	|9.  Parlare e lagrimar... insieme.~  Il Petrarca: ^In guisa
+d'uom che parla e plora.~  Inf. V. 126:
+
+     Far@o come colui che piange e dice.
+
+	Ma all'espressione dello stesso pensiero, quanto diverse
+suonano le parole nella bocca del Conte rabbioso, da quelle che
+proferse l'innamorata Francesca!  ^Si osservi il gran Maestro che
+non scambia mai tono, e sa adattar l'armonia alla natura degli
+affetti e delle cose che rappresenta.~  Bianchi.
+
+	|Parlare e lagrimar vedrai.~  <Con questa evidente
+espressione viene a dire, che molte parole di quello sciaurato
+sarebbero nel racconto soffocate e mozze per l'angoscia del pianto;
+onde non le avrebbe gi@a ^udite~, ma piuttosto ^vedute~, meglio
+argomentandole dall'atto della faccia e del labbro, che dal rotto
+suono di esse>.  Perticari (Prop. vol. I. P. I. fac. 151).  -- Forse
+sar@a troppo sottile questa considerazione del gran letterato;
+perciocch@e il ^lagrimare~ non @e propriamente tutt'uno col
+^piangere~; e Ugolino stesso dice che il Poeta lo vedrebbe ^parlare~
+e ^lagrimare insieme~; il che importa che le parole del dannato non
+venivano dalle lagrime n@e mozze n@e soffocate.  -- Dante alla voce
+^vedrai~ d@a, per catacresi, il significato di ^udrai~: intendendosi
+rigorosamente ^vedrai lagrimare~ e ^udrai parlare~: e se il vocabolo
+^vedere~, che proprio significa un atto della facolt@a visiva,
+talora si usa in sentimento di ^giudicare, contemplare~ ec., che
+sono funzioni dell'intelletto; dovr@a meno recar maraviglia quando
+esso si legga tolto a dinotar quelle delle sensazione.  N@e questa
+@e s@i ardita figura, che si disdica anche al comun favellare.  Vedi
+ora come il Tasso fa obiettivo del ^vedere~, quel che naturalmente
+non @e che del solo ^udire~ (Ger. IV):
+
+     Qui mille immonde arpie vedresti, e mille 
+     Centauri e sfingi e pallide Gorgoni,
+     Molte e molte ^latrar~ voraci ^scille~,
+     E ^fischiar idre~ e ^sibilar pitoni~ ec.
+
+	Alla fin fine poi Ugolino dice; ^Vedrai me parlare e
+lagrimare~ insieme: cio@e ^me parlante e lagrimante~ ec. 
+
+	L'obietto della visione @e il Conte; le parole e le lagrime
+son percepite in esso per mezzo de'sensi adatti di colui che lo
+vede.
+
+	|10-12.  Io non so chi tu sie~ ec.  Chi parla @e naturale
+che voglia saper con chi.  Ugolino non am@o sapere come il Poeta si
+trovasse laggi@u, n@e chi egli si fosse: curiosit@a che molti di
+quegli spiriti vollero appagata.  Lo stato d'Ugolino ci@o non
+richiedeva.  Egli cerca solo che le sue parole non sieno sparse al
+vento.  Gli basta a cui egli parla, sia Fiorentino, cio@e nemico ai
+Pisani, per esser certo che il suo pietoso racconto sar@a per
+produrre il frutto desiderato.
+
+	|10.  Tu sie~:  ^tu sii, o sia.~  Albertano, Cap. 2: ^Sia la
+tua mano sopra la tua bocca, acci@o non sie ripreso a parola
+stolta.~  ^Sie~ anticamente per tutte a tre le persone singolari del
+presente congiuntivo; indi ^sieno~, per la terza plurale, che oggi
+@e pi@u a grado che ^siano.~  I nostri primi scrittori chiusero in E
+le anzidette voci in tutte le coniugazioni (Inf. XXV, 6, nota.);
+^Sie~ in ispezialit@a segu@i la forma latina antica ^siem, sies,
+siet.~
+
+	|11-12.  Fiorentino mi sembri... quand' io t' odo.~  --
+Farinata simigliantemente (Inf. X. 250 gli dice;
+
+     La tua loquela ti fa manifesto
+     di quella nobil patria natio ec.
+
+	|13.  Ugolin~ conte di Donoratico fu dei Gherardeschi da
+Pisa.  Guelfo disert@o la sua fazione, e con l'Arcivescovo Ruggieri
+ed altri compartitanti Ghibellini fece a tradimento cacciar fuori di
+Pisa il Giudice Nino suo nipote, per occupar la signoria che quegli
+vi teneva.  Dipoi a non molto, l'Arcivescovo trad@i il traditore, e
+imputandogli d'avere per qualsisia cagione tradite e rendute ai
+Fiorentini e ai Lucchesi molte castella, il popolo rivoltatoglisi
+contro, corse furibondo al palagio, e preso lui con due figli e due
+nipoti, gli mise in prigione, dove furono tutti dopo alcun tempo
+lasciati miseramente perir di fame.  Ugolino trad@i per ambizione il
+suo partito, e questa colpa fece pi@u grave e pi@u brutta col
+tradimento del proprio sangue.  Il Villani (Lib. VII. Cap. 120.):
+^Il Conte Ugolino anzi che il Giudice Nino si partisse, per coprire
+suo tradimento, ordinata la cacciata del Giudice, si part@i di Pisa,
+e andossene a un suo Maniere~ [^Abituro nobile e forte.~] ^chiamato
+Settimo, e come seppe la partita del Giudice Nino, torn@o in Pisa con
+grande allegrezza e festa, e da' Pisani fu fatto Signore con gran
+trionfo e onore; ma poco stette in Signoria, che la fortuna gli si
+volse a contrario, come piacque a Dio, per li suoi tradimenti e
+peccati; che di vero si disse che fece avvelenare il Conte Anselmo
+da Capraia suo nipote figliuolo della serocchia per invidia ch'ebbe
+di lui, perch@e era tenuto in Pisa molto grazioso, temendo non gli
+togliesse suo stato.~  Gli stette adunque bene la posta datagli dal
+Poeta, l@a dove sono i pi@u rei dell'Antenora, e proprio sulla linea
+che @e confine tra questa zona e la Tolomea.
+
+	Var. ^Fui 'l Conte Ugolino~ lez. pi@u comune.  ^Fui Conte
+Ugolino~ hanno i codici Cassin., Filipp., Vat. 3199, le quattro
+prime edizioni di Foligno, Mant., Jesi e Nap., la 1+a delle
+Sansoviniane, il testo Barg., e il MS. Estense, che legge:
+
+     Tu dei saper ch'io fui conte Ugolino.
+
+	Sulla quale lettera, prescelta eziandio dal Witte, cos@i il
+Parenti: <Nessun poeta esiter@a mai nella scelta.  Come si levi
+acconciamente l'articolo a simili titoli d'autorit@a, lo mostra per
+tutti quel verso dell'Ariosto nella prima stanza del suo poema:
+^Sopra Re Carlo Imperator Romano.~  Chi sa che un qualche giorno un
+saccente non s'avvisi di correggere: ^Sopra il Re Carlo~?  Ma in
+questo caso almeno il verso non diventer@a di dodici sillabe (Ann.
+2, 164)>.  Anche nel VI del Purgatorio si dice (v. 19): ^Vidi
+Cont'Orso~ ec.
+
+	|14.  L'Arcivescovo~ ec.  -- Ruggieri degli Ubaldini,
+arcivescovo di Pisa cospir@o con Lanfranchi, con Sismondi, con
+Gualandi ed altre case Ghibelline, per abbattere la parte Guelfa,
+a far cadere di stato Nino di Gallura col tradimento del Conte
+Ugolino suo zio; e, messo questo in luogo di quello, privar poscia
+anche lui di signoria e di vita, con quanti dei suoi pi@u cari si
+potesse, e cacciarne e sperderne i seguaci dell'avverso partito
+[Dalle parole di G. Villani pare si possa inferire questo essere
+stato il vero disegno preconcetto dal Ghibellino Arcivescovo, che
+prima appaga la perfida ambizione di Conte Ugolino, e poi a non
+molto lo tradisce.
+
+	<Tosto li sopravvenne, come piacque a Dio per li suoi
+tradimenti, e peccati come era conceputo per lo Arcivescovo di Pisa,
+e suoi seguaci, di cacciare di Pisa il Giudice Nino, e'suoi col
+tradimento, e trattato del Conte Ugolino.  Scemata la forza
+de'Guelfi l'Arcivescovo ordin@o di tradire il Conte Ugolino, e
+subitamente a furore di popolo il fece assalire e combattere al
+palagio, facendo intendere al popolo, ch'elli avea tradite e vendute
+le loro castella ai Fiorentini, e Lucchesi, e senza nullo riparo
+rivoltolisi il popolo addosso, si arrendeo preso; e nel detto
+assalto fu morto un suo figliuolo bastardo, e un suo nepote, e preso
+il Conte Ugolino, e due suoi figliuoli, e due nepoti figliuoli del
+figliuolo, e li misono in prigione, e cacciarono di Pisa la sua
+famiglia e' suoi seguaci, e Visconti, e Ubizinghi, e Guatani, e
+tutte l'altre case Guelfe, e cos@i fu lo ingiusto traditore dal
+traditore tradito giustamente.  Onde parte Guelfa di Toscana fue a
+grande abbassamento, ed esaltazione de'Ghibellini, che per questa
+rivoluzione di Pisa crebbe molto la loro forza, e dei Ghibellini
+d'Arezzo ec.>.  Vill. Lib. VII. Cap. 120.  -- L'indole perfida e
+truce di Ugolino; l'uccisione d'un nipote del'Arcivescovo fatta da
+Ugolino stesso, o da un suo parente, per gelosia d'una donna; il
+malo stato di Pisa sotto la signoria del Conte; le castella per fame
+d'ora vendute ai nemici de'Pisani; e il sapersi che nella battaglia
+della Meloria, sin dal 1284, avea egli gi@a nel forte della mischia
+con un terzo delle forze pisane voltate le spalle ai Guelfi genovesi
+non per vilt@a, ma per fare che la Ghibellina Pisa scemata di forza
+potesse cadere sotto il dominio di lui; inducono a credere ch'esso
+Conte Ugolino non fosse, almeno nell'opinione de'maggiorenti, avuto
+in conto di personaggio degno che reggesse i destini di quel comune:
+sicch@e i disordini accaduti tra il mese di luglio 1288 e il mese di
+marzo seguente non fecero, che accelerare la rovina di quel despota
+signorotto, assai tempo innanzi gi@a preordinata.
+
+	E questo fu ^l'effetto de'mai pensieri~ cio@e ^dei malvagi
+disegni~ dell'Arcivescovo (v. 16), coi quali niente ha che fare, a
+nostro giudizio, n@e il tradimento delle castella pisane, n@e la
+vendetta che Ruggieri volesse fare del nipote che gli fu morto;
+essendo tutte queste cose materia di fatto, non mica di ^pensiero~,
+di ^consiglio~, di ^sospetto~, come hanno finora franteso i
+comentatori.  Secondo la nostra esposizione, i vv. 16-18, aprono il
+vero concetto del Poeta; il quale, senza partirsi dalla storia,
+volle, con un di que'suoi tratti maestri, delinear l'orditura di
+quella trama, in cui l'infelice Conte Ugolino si lasci@o corre,
+tradito meno dagli altri, che dalla propria ambizione.]
+
+	Ugolino e Ruggieri entrambi nella stessa buca (C. prec. v.
+125), dove la seconda cerchia di Cocito confina con la terza: in
+modo per@o che il Conte sia l'ultimo, come il pi@u reo tra gli
+spiriti dell'Antenora; l'Arcivescovo (avvegnacch@e, qual reo di
+tradita amicizia, pi@u grave colpa lo prema) sia posto il primo,
+come men reo, fra i dannati della Tolommea, s@i perch@e trad@i chi
+non avea gi@a gran ragione di fidarsi in lui, ch'era uomo di avverso
+partito, ed @e detto vero che ^inimico tuo ne credas in aeternum~;
+s@i ancora perch@e il Conte stesso mal pretendeva osservata s@i la
+fede che non era egli usato di tenere altrui.  Dante in quella fossa
+seppellisce due colpe di diverso grado, e che si toccano negli
+estremi: e forse non @e dove abbai egli pi@u studiosamente meditato,
+e lasciato da meditare, che in questo luogo, a trovare e intendere
+come la ragione de' delitti e delle pene assegni in tanto spazio un
+medesimo punto a due traditori di ordine diverso, i quali, per
+l'intento della invenzione poetica, hanno pure a star vicini l'un
+dell'altro e fitti insieme nello stesso ghiaccio.
+
+	|15.  Perch@e i son.~  Abbiamo prescelta questa lezione che
+si nota nelle ^Varior.~ del Witte.  La pi@u comunemente segu@ita @e
+^perch'io~, e ^perch'i'.~  Il Fanfani scrive: <Se dovessi dir io,
+questa graf@ia qui adottata da tutti gli editori (cio@e
+^perch'i'~), e l'altra simile ^perch'io son tal vicino,~ non @e la
+sua vera. ^Ti dir@o perch@e io son tal vicino~: qui si desidera o un
+pronome o una particella pronominale che ci dica ^vicino a chi~; e
+questo desiderio si adempie grafizzando,
+
+     ^Or ti dir@o perch@e i son tal vicino.~
+
+Allora avremo quella ^i~ particella pronominale di terzo caso, la
+quale accomoda ogni cosa; e il discorso riescir@a pi@u chiaro>.  --
+E infatti la prima edizione di Jesi ha ^perch@e li~; il cod. Filipp.
+e quel di Santa Croce, ^perch'ei son.~  Generalissimo fra gli
+antichi nostri scrittori l'uso di cotesto ^i~ nell'anzidetto
+sentimento (Inf. V. 78, nota), e il Nostro in vari luoghi non ne fu
+schivo.
+
+	|Tal vicino.  Tal~: ^divoratore di lui.~ Tommas.  -- ^Cos@i
+molesto.~  Bianchi.  -- ^Tale quale tu mi vedi, cio@e trattandolo
+s@i fieramente.~  Biag. -- |Tal vicino~ per ^tormentatore.~  --  E
+non ha dubbio che in sentenza vi si vuol dire, come spose il
+Guiniforte: ^or ti dir@o perch'io gli son tal vicino, perch'io gli
+rodo il capo.~  -- ^Vicino in tal modo~, spone il Fanfani -- ^Vicino a
+tal~, chiosa il Volpi.  -- Per noi ^vicino~ @e qui un sustantivo.
+L'ediz. di Jesi, e il Cod. di Santa Croce leggono ^mal vicino~; le
+^Varior.~ del Witte ^del suo mal.~ -- Niente di peggio che un ^mal
+vicino.~  La vicinanza genera dimsticheza ed amore.  Il Conte era
+bens@i vicin dell'Arcivescovo, ma quella prossimit@a pi@u lo infiammava
+contro il nemico, ed egli mostrava l'odio suo ^per s@i bestial segno~
+(C. prec. v. 133).
+
+	|16-18.  Che~ ec.  -- In sentenza: ^Non dico quello che gi@a
+tutti sanno, come io fidavami di lui, ed egli covava nell'animo suo
+in che modo potesse perdermi; e tanto fece che i suoi malvagi
+disegni furono compiuti.~
+
+	|Mal pensiero~: ^mal consiglio.~  Barg.  -- |Mai pensieri~:
+^erano le instigazioni della sua gelosia, e il desiderio della
+vendetta.~  Bianc.  -- <|Pensieri~ per ^sospetti~, che avesse cio@e
+il Conte rendute, o disegnato di rendere ai Fiorentini e Lucchesi le
+castella, delle quali si erano i Pisani impadroniti.  Che non fosse
+cotale tradimento se non in sospetto, pare lo indichino i versi 85,
+e 86.:
+
+     Che se 'l Conte Ugolino aveva voce
+     D'aver tradita te delle castella. --> Lomb. --
+
+Noi non tocchiamo n@e le critiche fatte dal Biagioli a questa
+interpretazione, e n@e quelle che altri fece a lui.  Ci parrebbe
+vano insistere su coteste chiose; essendo certi che i ^mai pensieri~
+qui accennati dal Conte Ugolino altri non sono, se non quelli che si
+arguiscono dalle parole del Villani: |Come era conceputo~ ^per lo
+Arcivescovo di Pisa, e suoi seguaci, di cacciare di Pisa il Giudice
+Nino, e' suoi col tradimento e trattato del Conte Ugolino.  Scemata
+la forza dei Guelfi, l'Arcivescovo ordin@o di tradire il Conte
+Ugolino.~  I pi@u illustri comentatori citano a questo passo dantesco
+lo storico fiorentino; ma non hanno attentamente considerato che,
+fuori d'ogni controversia, il Poeta e il Cronista s'accordano a
+dire, che la rovina del Conte era gi@a premeditata da quando egli
+perfido e soro si fidava di quel prete ghibellino e degli altri
+parziali.  (Vedi v. 14, nota (a)).
+
+	|Per l'effetto de'...mai pensiero.~  Michaea, VII, 13:  ^Et
+terra erit in desolationem propter habitatores suos, et propter
+fructum cogitationum eorum.
+
+	|Mai~: ^Mali.~  (Vedi v. 87, nota a ^figliuoi~).
+
+	|17.  Fidandomi di lui.~  Avea Ugolino fatto a trattato
+proditorio co'Ghibellini, a capo de' quali era l'Arcivescovo.
+Finch@e non ^fu preso~ segutava a fidarsene: or come cotesto, se
+avess'egli gi@a prima ucciso per lieve cagione un nipote di quel
+prelato?  Questo @e dunque un'altro argomento che rincalza ci@o che
+per noi su @e detto (vv. 16-18); e fa parere aliena dalla mente del
+nostro Poeta, la sentenza, che col Landino ed altri tenne il Ch.
+Tommaseo: ^Cacciato Nino di Gallura, Ugolino, per pretesto da nulla,
+uccise il nipote del'arcivescovo: di l@i la vendetta.~ [^Fidava
+l'incauto nell'amicizia che quel prete dissimulatore gi@a
+dimostrava, n@e pi@u pensava all'ingiuria; ma chi la fa, la scrive
+sulla rena; e chi la riceve, nel marmo.~  Bianchi. -- Dato pure che
+tanta buaggine fosse in quel Conte, da credere amico, a cui aveva
+ucciso un nipote, tanta indolenza in un arcivescovo di quel tempo,
+da poter dissimulare s@i grave offesa; resta per@o sempre salda
+l'opinione che abbiamo di sopra esposta.].
+
+	Questo ^fidandomi di lui~ ha valore di significare la colpa
+speciale di ciascun de' due traditori.  Ugolino Guelfo non pu@o
+fidarsi dell'arcivescovo Ghibellino, che tradendo il proprio
+partito: e l'Arcivescovo trade chi per vincolo di congiura eraglisi
+collegato in amicizia.  L'uno e l'altro usaron ^la frode in colui
+che si fida~ (Inf. XI, 53).  Al poeta fu necessario il porre quel
+^fidarmi~ nel senso che abbiamo spiegato; perciocch@e altrimenti non
+sarebbe toccata a messer Ruggieri quella posta fra i traditori.
+
+	|18.  Morto~ per ^ucciso~ intende il Blanc, siccome prender
+si deve nel Purgatorio (V. 52):
+
+     Noi fummo gi@a tutti per forza morti.
+
+Ma se Ugolino non fu propriamente ^ucciso,~ secondo che suona questo
+vocabolo, s@i ^lasciato perir di fame~; ci avvisa che il ^fossi~,
+avente innanzi  a ^preso~ piena forza di verbo, sia da sottintendere
+poi come semplice ausiliario davanti al participio ^morto~; e che
+questo ritenga la voce intransitiva, al contrario che nelle frasi
+^avere~ ed ^esser morto.~
+
+	|Dir non @e mestieri.~  La fama pubblica dovea aver gi@a
+detto abbastanza del tradimento fatto ad Ugolino, e della sua morte
+in carcere.  Ma se con rapida preterizione trasanda i minuti
+particolari del fatto, accenna per@o tutte le fila principali della
+trama funesta (v. 16-18, nota).
+
+	|19-21.  Per@o~ ec. In sent.: ^Perci@o io narrer@o soltanto
+quel che nel segreto del carcere mi avvenne, e niuno @e, da cui abbi
+potuto saperlo.~  Ci@o che non puoi avere |Inteso~ ^da altri~,
+|Udirai~ ^da me.~  -- |E saprai~ ^con certezza;~ poich@e sono io
+medesimo che tel racconto. @E notabile la propriet@a delle voci qui
+uste: ^avere inteso, udirai, saprai.~  Il Poeta (C. prec. v. 137)
+dice: 
+
+     Sappiendo chi voi siete, e la sua pecca.
+
+Ad Ugolino stesso pi@u che alla fama incerta debb'egli credere, per
+intender la ragione di quell'odio immortale; e su poi nel mondo
+cangiargliene, come fece, di santa ragione.
+
+	|20.  Come la morte mia fu cruda.~  Ecco la chiave che ci
+apre il segreto di questa narrazione.  Ognuno gi@a sapeva che
+^cruda~ dovette'essere ^la morte~ di Ugolino perito di fame; egli
+dunque pi@u che alla fame, ad altre cose riferisce l'atrocit@a della
+sua morte.  Concorrono a rendere ineffabile lo strazio tutto intimo
+e spirituale molte e svariate cagioni: l'indole d'uomo non sai dire
+se pi@u incivilito che fiero, il quale dal culmine dell'ottenuta
+signoria va travolto nel fondo d'una tetra prigione a furori di quel
+popolo che l'avea festeggiato; l'esser ferito a morte nel proprio
+orgoglio da avversari che l'aveano superato nelle arti del
+tradimento:
+
+     Tu d@ei saper ch'io fui Conte Ugolino!
+
+Sentirsi moltiplicato nell'anima il tormento vedendo seco
+iniquamente dannati alla stessa pena gl'innocenti figliuoli; lo
+spettacolo dell'attuale realt@a, che tutte manda in fumo le
+lusinghiere beatitudini del passato; il sogno che coi suoi funesti
+fantasmi gli aggrava l'idea del presente, e spalanca dinanzi
+l'abisso d'uno spaventoso avvenire: tutti questi pensieri in
+quell'uomo che non ha istante di tempo, n@e punto di luogo dove gli
+riluca barlume di speranza che lo conforti, assalgono con pi@u
+forocia e lacerano l'anima con morsi pi@u crudeli e pi@u acuti, che
+la fame non infigge nelle membra lungamente digiune.
+
+	Le particolarit@a che fecero |cruda~ la morte di Conte
+Ugolino non furon le comuni di coloro che periscono della fame.  Fu
+disperato dolore che ancora, gi@a pur pensando, premevagli il cuore
+(v. 5 seg.); e dolore, non fame gli fa morder le mani (v. 58).
+Quella stessa che soffrono gl'innocenti figliuoli, moltiplica nella
+fantasia del padre le imagini dei lor patimenti, e l'amore tutti gli
+riversa sopra di s@e, e gliene fa sentire pi@u acuti che della
+propria le trafitture e gli spasimi; famelico egli stesso tanto
+maggiormente patisce, quanto la privazione del cibo necessario vie
+pi@u gliene aguzza la brama, e il disperato pensiero di mai non
+poterla appagare aggrava il male col presentimento di un lungo
+soffrire.  Il contrasto e la prevalenza di questo moral sentimento
+sulla stessa natura corporea dell'uomo, la quale reclama l'alimento
+necessario alla propria conservazione, @e il vero punto obiettivo che
+il Poeta ebbe in mira.  Egli con la potenza dell'arte sua raccoglie in
+unit@a gli sparsi elementi delle cose, rende spirituale quel ch'@e pi@u
+materiale nel mondo di fuori, e tribuisce al pensiero la parte maggiore
+ch'esso prende, come nelle delizie, cos@i nelle angosce della vita.
+^Nel fatto di Ugolino la parte pi@u rilevante in s@e stessa, quella che
+moralmente e civilmente pi@u premeva al poeta, non era gi@a descrivere
+uno o pi@u uomini che basiscono di fame, ma un superbo e traditore
+della sua patria che in pena dell'orgolgio e del misfatto @e tradito, e
+muore morte lunghissima non tanto in s@e quanto nella fame de' suoi
+cari innocenti.  Il dolore corporeo de' quali egli non poteva sentire
+in s@e stesso se non colla fantasia e con l'amore e con la meditazione
+assidua del presente spettacolo fierissimo; onde'@e che il dolore
+corporeo stesso a lui si converte in dolore dell'anima, e cos@i si fa
+pi@u crudo e pi@u penetrante.~  Tommaseo.
+
+	|21.  E saprai se m' ha offeso~, cio@e, ^tanto, che non abbi
+a maravigliarti dell'odio, ch'io gli porto, e della ferocia, ond'io
+gli rodo il teschio~ (C. prec. v. 133 seg.).  Ad offendere Ugolino
+bast@o il solo tradimento; non bastava a giustificare quell'odio
+ch'egli mostr@o ^per s@i bestial segno.~
+
+	|22.  Breve~: ^piccolo, stretto.~  -- |Pertugio~ per
+^finestrello; fesso~, o ^apertura in un muro.~  -- Franc. ^pertuis,~
+buco, foro: Biag.  -- Proviene dal Lat.  ^Pertundere~, perforare.
+
+	|Muda~: ^carcere buia.~  -- Gli antichi usarono ^mudare~
+per ^mutare~, a cagione della stretta affinit@a delle lettere ^d~ e
+^t.~  Quindi anche ^muda~ per ^muta.~  Bandino Padovano:
+
+     Di mia sentenza per@o non mi mudo.
+
+^Muda~ s'intende per la ^sita~ dove si serano gli uccelli a mutare
+le penne.  Nella torre, ove fu chiuso il Conte Ugolino, mudavano,
+dice il Buti, le aquile del comune.  ^Muda~ nondimeno si disse
+anticamente la ^muta~ delle guardie che sopravvegghiavano ai
+fortilizi e a luoghi simili.  Nel Dittam. Lib. III, Cap. I:
+
+     ....Ov' @e un lago,
+     Che si guarda la state a muda a muda.
+
+Non volendo pensare che quell'infelice Conte venisse assimigliato
+dal Poeta a un fringuello messo nella torre a mutar le piume; si
+potrebbe almanco sospettare che in questo verso la ^muda~ presa nel
+senso di ^custodia~ o di ^guardia~, significasse il luogo stesso
+custodito e guardato; siccome anche oggid@i si dice ^guardia~ al
+luogo dalle ascolte munito.  Dante per@o usurpa qui la voce |Muda~
+in significato di ^prigione~, chiamandola egli stesso (v. 56),
+^%doloroso carcere.~  In simil guisa il Petrarca (trionf. d'Am.,
+Cap. 4) disse:
+
+     In cos@i tenbrosa e stretta gabbia
+       Rinchiusi fummo; ove le penne usate
+       Mutai per tempo, e le mie prime labbia.
+
+Il Guiniforti spone il traslato: |Dentro dalla muda~: ^dalla
+prigione, la qual, ben posso chiara muda, a similitudine di quella
+degli uccelli, perocch'io vi mutai entro le penne, mutai mia
+fortuna, e vi lasciai il corpo.~  -- Il Buti: ^Muda chiama quella
+torre, o forse perch@e cos@i era chiamata, perch@e vi si tenessono
+le aquile del comune a mudare; o per transunzione, che vi fu
+rinchiuso il Conte e li figliuoli come gli uccelli nella muda.~ -->
+Contrapposto terribile @e chiamar ^muda~ il doloroso carcere>.
+Tomm.
+
+	|23.  Per me~: ^per questo fatto.~
+
+	|Titol della fame~:  @E detta; ^la torre della fame.~  --
+|Titolo~, che propriamente vale ^gloria, vanto~, pare qui adoperato
+con amara ironia.  -- Il Vill. Lib. VII. Cap. 127: ^E da allora
+innanzi fu la detta torre chiamata la torre della fame, e sar@a
+sempre.~
+
+	|24.  E in che~ ec.  Ugolino ci@o non dice perch@e vegga di
+lontano quel che il tempo era per seco addurre (Inf. X, 100
+segg.);
+ma perch@e crede che ad altri facilmente incontrer@a quello che a
+lui, in una citt@a soggetta a spese mutazioni, per causa del civile
+disordine e pel furore degli opposti partiti.  Noi non crediamo che
+Ugolino, e n@e Dante, profetasse qui nulla.  I vaticini de' poeti
+son di cose passate; e a voler tener per profetiche queste parole,
+farebbe mestieri che, dal 1288 al tempo della visione Alligheriana,
+fosse avvenuto qualche altro caso simile a quello del Conte Ugolino
+[Terremmo come vatidica la sentenza di quello spirito, se vero fosse
+ci@o che si legge in un codice della Biblioteca Chigiana; e se il
+Poeta avesse voluto a quel fatto riferire la predizione.  <Un figlio
+del Conte Ugolino fu dalla nutrice sottratto al comune destino de'
+suoi.  Fatto grande, e saputo il caso, ne prese s@i disperato
+dolore, che da Lucca, ove fu cresciuto e dimorava, recossi a Pisa,
+dicendo che egli era col@a venuto per correre la sorte comune di sua
+gente.  Udito ci@o i Pisani lo ebbero per pazzo e lo sostennero in
+carcere.  Dopo un anno la donna che lo aveva allevato, domand@o di
+essere messa a' servigi di lui.  Le fu conceduta la domanda a patto
+di seco starsi rinchiusa.  Per tale comunione di vita non venne meno
+la prosapia di Conte Ugolino.  Carlo IV, che pass@o di col@a, mise
+in libert@a que'due, de'quali lo scritto non parla avanti>.
+Strocchi.].
+
+	Var. ^E che...altrui~, il Cod. Cassin., il Filipp., le
+quattro prime edizioni di Fol., Mant., Jes., Nap.; i Codd. Vat. n.
+3199, e Caetani.  Secondo la quale lettera il verso direbbe:
+
+     E che conviene ancor ch'altrui si chiuda.
+
+molto per verit@a pi@u conforme al concetto; perciocch@e Ugolino non
+vuol significare che altri verrebbe chiuso nella torre, il che
+poteva accadere senza condanna di morte; ma che la porta della torre
+si chiuderebbe ad altri come a lui, che ^intese chiavar l'uscio di
+sotto~,  segno evidente della terribile sentenza, e al quale ci
+avvisa voler egli alludere in questo luogo.
+
+	|25.~  ^Forame~; il ^vano~ o ^l'apertura~ del foro.  Un
+famoso comentatore chiosa; <Per ^lo suo forame~, il sopraddetto
+breve pertugio, ^pel suo foro~>.  -- Ma se ^pertugio~ @e, anche
+secondo lui, ^buco, foro~; ne seguiterebbe che ad Ugolino il ^foro~
+avesse ^pel suo foro~ mostrato ^pi@u lune~: il che pare
+inconveniente, chi voglia stare alla propriet@a de' vocaboli, che in
+Dante, pi@u che in altri, rigorosamente si osserva.
+
+	|26.  Pi@u lume.~  Preferiamo questo lezione all'altra |pi@u
+lune~, che dalla Crusca fu tenuta come la vera, e che gli espositori
+moderni prescelsero pe' loro testi.  ^Pi@u lume~ hanno  le edizioni
+di Mil. e di Jesi (an. 1472), il cod. del Boccaccio (Vat. n. 3199);
+il testo Bargigi, e Landino, l'ediz. del Burgofr. Ven. 1529; la 2+a~
+delle Rovilliane, Lion. 1551; la 1+a~ delle Sansov., Ven 1564; la
+Fulgon., Rom. 1791; quella del De Romanis, Rom. 1822, e molti altri
+autorevoli testi editi e MSS. antichissimi.  Le prime edizioni di
+Foligno e di Napoli, e il cod. di Berlino leggono ^pi@u lieve,~ e
+non favoriscono la lezione comunemente adottata ^pi@u lune~, che
+trovasi nel cod. Cassinese e nella Nidobeatina, dalla quale il
+Lombardi questa volta discostasi, scrivendo e chiosando |pi@u lume~:
+^molto lume.~  <Cos@i amo di leggere con molte antiche edizioni, tra
+le quali l'Aldina, e con la maggior parte de' mss. veduti dagli
+Accademici della Crusca, e non ^pi@u lune~, come la Nidob. e i detti
+Accademici, sull'autorit@a di soli otto fra un centinaio di testi.
+^Essendo stato il Conte Ugolino~ (ecco la ragione che recano gli
+Accademici di aver cangiato ^pi@u lume~ in ^pi@u lune~), ^come
+racconta Gio. Villani, dall'Agosto al Marzo in prigione, volle il
+Poeta, secondo noi, mostrar la lunghezza di quella prigionia con le
+parole~ |pi@u lune.~  Hanno per@o essi Accademici mancato di
+avvertire che il tempo della prigionia del Conte Ugolino doveva
+essere cosa a Dante gi@a nota: e che non vuole il Conte dire se non
+di quello che Dante non pot@e ^aver inteso~, v. 19.  Al contrario
+^pi@u lume~ non solo ha nulla d'incoerente o di superfluo, ma serve
+ottimamente ad indicare la cagione per cui prestasse egli al sogno
+fede.  Imperocch@e dicendo che ^pi@u lume~ cio@e ^lume molto~ gi@a
+gli si era fatto vedere quando sogn@o, viene a dire, ch'era quella
+l'ora
+
+          .... ^che incomincia i tristi lai
+     La rondinella~ .....
+       E che la mente nostra pellegrina
+     Pi@u dalla carne, e men da' pensier presa
+     Alle sue vision quasi @e divina.~ (^Pur.~ IX, 13 seg.)
+
+N@e perch@e poi dica Ugolino, ^Quand'io fui desto innanzi la dimane~
+ec. (v. 37) viene perci@o questo senso a turbarsi, come oppone il
+Daniello.  Basta che distinguasi l'aurora dalla ^dimane,~ cio@e dal
+giorno, che incominca all'uscir del Sole: ed avvertasi che l'aurora in
+Marzo (tempo in cui, testimonio il Villani, sostenne il Conte la crudel
+morte) dura un'ora e mezza, e facilmente s'intender@a come potesse il
+medesimo Conte incominciare il mal sogno dopo nata l'aurora, e
+terminarlo ^innanzi la dimane~, cio@e durante la stesa aurora>.
+Lombardi.  -- Al Zacheroni parve soverchio di aggiungere altro, dopo
+tutto questo ch'@e stato detto dal Lombardi, per guistificare la
+lezione ^pi@u lume~, che si ha nel testo del Guiniforti.  Ma secondo il
+Biagioli @e cotesto ^uno de' troppo spessi scappucci che il Lombardi
+suol fare camminando in questo aspro sentiero.~  Ponderiamo le ragioni
+che allega in contrario il sottile comentatore.  -- <1+o.~  Che
+l'espressione ^pi@u lume~ non mi par giusta, n@e conveniente ad
+esprimere l'aurora per quanto avanzata sia> -- Non giusta n@e
+conveniente, quando in modo assoluto, o, come dicevano gli Scolastici,
+^sic et simpliciter~ volesse altri dinotare l'aurora per la frase ^pi@u
+lume~, la quale potrebbe significare un eccesso qualunque di lume in
+tutte le ore diurne per effetto della luce solare, e nell notturne per
+quello della luce artificiale: ma nel caso del Conte Ugolino ch' era in
+carcere buia, l'espressione ^pi@u lume~ @e relativa all'oscurit@a
+precedente della notte, n@e pu@o altro significare che l'effetto della
+nuova luce apparsa sull'orizzonte e per lo spiraglio dell'orribile
+torre penetratavi entro.  -- <Negli antichissimi codici che si
+conservano nel nostro Istituto, havvi ^pi@u lume.~ In quello segnato
+col n+o.~  135 si legge ^pi@u lume~ (idest ^oriebatur dies~, cos@i @e
+comentato>.  Mazzoni Toselli [Dizionario, voc. ^Dimani.~].
+
+	<2.+o~  Che se fosse com'egli dice, bisognerebbe che Ugolino
+si fusse destato per vedere quel ^pi@u lume~, addormentatosi poi, e
+fatto quel terriblie sogno; il che quanto impossibil sia ognuno per
+s@e lo vede.>  -- Il Sig. Biagioli non crede che quel misero
+condannato potesse aver avuti sonni interrotti!  A noi pare
+impossibile il contrario.  I pensieri fugano il sonno.  Nel turbine
+degli affetti che agitavano l'anima di Ugolino, ^l'impossibile~ @e
+concepire ch'ei potesse far soave e riposato sonno.  E nondimeno
+questi valorosi comentatori, contro i fatti della pi@u volgare
+esperienza, danno ai guai la virt@u narcotica, e vogliono che il
+Conte, in quello stremo tormentosissimo, legasse l'asino a buona
+caviglia.  Concediamo pure al valentuomo (3.+o~ e 4.+o~ dei suoi
+argomenti contro il Lombardi) che Ugolino potesse accennar di volo
+il tempo della sua prigionia, quantunque noto a Dante; e che il ci@o
+fare fosse cosa naturalissima ed aggravasse, anzi che no, il suo
+tragico fine: ma non sembra ragionevole lo aggiugnere che ^il Poeta
+deve e vuol dirlo a chi doveva leggere i suoi scritti mille e mille
+anni dopo;~ perciocch@e Dante vuol esser poeta, non cronologo; e chi
+dopo i secoli de'secoli avr@a vaghezza di saper ^la durata della
+prigionia~, andr@a a consultare non gi@a la Divina Commedia, ma le
+cronache e le storie del tempo; e trover@a che neppure gli
+storiografi si son curati di narare appunto appunto quello stesso,
+che il Biagioli pretende che il Poeta dovesse e volesse dire.
+Finalmente, concesso che Dante pot@e far checchessia, da ci@o non
+viene che l'abbia fatto.  Non @e dunque il solo Lombardi che
+scappucci per questo aspro sentiero.
+
+	Pi@u speciosi, ma non meno futili, sono gli argomenti
+pe' quali il Ch. P. Costa s'induce a seguitare la lezione del Volpi e
+del Venturi.  <Il Conte Ugolino, dic'egli, fu desto ^innanzi la
+dimane,~ cio@e innanzi al principio del giorno; perci@o @e che, se
+prima di quell'ora egli aveva sognato, non pu@o essere che ^pi@u lume~
+gi@a fosse entrato per lo forame della torre.>  -- Qui s'abusa il
+vocabolo ^dimane,~ definendolo, cos@i vagamente, pel ^principio del
+giorno~, e facendo intender ^principio del giorno~ i primi albori,
+che appariscono sull'orizzonte ortivo; quando che il su overo
+significato @e piuttosto quello che gli assegna il Lombardi.  Gli
+antichi interpretarono |mane~, ^dies clarus.~  Alcuni, a
+testimonianza di Varrone, fanno la voce dal verbo ^manare; quod tum
+manat dies.~  Festo riferisce essersi antichissimamente usitata la
+frase ^Solem manare~ significativa di quel punto di tempo, che
+cominciano a gittarsi sulla terra i raggi del Sol nascente.  Ugolino
+sogn@o dunque innanzi la ^dimane~, e pria che sognasse, avea veduto
+di quel ^lume~ che al d@i chiaro precede.  Il Toselli scrive: <Sarebbe
+mai voce composta di ^D@i~ giorno, e di ^Man ~ grande, la voce
+^Dimani~?  I Galli al riferire di Cesare contavano il tempo dalle
+notti.  In Francia il giorno comincia dalla mezza notte, e l'Alba @e
+chiamata Petit jour~, e lo spazio dopo l'Alba ^Grand jour.~  Altre
+volte in Itali acontavasi il giorno dal principio della notte, e lo
+spazio che @e dopo l'Alba dicesi da' Bolognesi ^Degrand.~  Da tutto
+ci@o si potrebbe congetturare che ^Dimani~ avessi in origine
+significato ^giorno grande~, cio@e lo spazio dopo l'Alba.  Il Conte
+Ugolino vide ^pi@u lume~, cio@e ^l'Alba~ o ^l'Aurora~ prima di fare
+^il mal~ sogno; e questo fece dopo l'Alba e prima della Dimane.> --
+Ma seguita il Costa: <E quand'anche esso Conte avesse sognato dopo
+l'Aurora, era cosa naturale, che egli dicesse che pi@u lume gli avea
+mostrato la torre per lo suo forame? chi sogna dorme, chi dorme non
+vede.>  -- ^Mi avea mostrato~, dice Ugolino; dunque vid' egli lume
+prima di dormire e di sognare.  Noi crediamo che quell'infelice
+sostenne penosa veglia fino allo spuntar del primo raggio mattutino;
+che questa luce benefica fugando parte de'tristi fantasmi che seco
+la notte adduce, contribu@i molto a fare che quel misero, combattuto
+da'pensieri, cadesse per istanchezza, come ad altri addivenir suole,
+nel sonno; il quale non fu nemmanco quiete ed obblio momentaneo
+delle sue sciagure; che mentre dorme gli @e turbato lo spirito da
+fiere visioni.  -- <Leggiamo dunque ^pi@u lune~ (il Costa), e
+interpretiamo coi sopraddetti chiosatori: ^gi@a eran passati pi@u
+mesi dalla mia prigionia~ (cio@e dall'Agosto al Marzo, secondo che
+narra Giovanni Villani).  @E cosa naturale che colui che sta chiuso
+e solitario in carcere discerna e noti i mesi dal risplendere che fa
+la luna d'intervallo in intervallo di tempo.  Si noti ancora che
+quando Ugolino parla del secondo giorno dopo il sogno, dice: ^Come
+un poco di raggio si fu messo nel doloroso carcere ec.~  Se il
+raggio era poco nell'ora che il Sole, come si @e detto nel verso
+antecedente, era uscito nel mondo, manifesto @e che ^pi@u lume~ non
+poteva essere entrato in essa torre sul far dell'Alba.>
+
+	L'espressione ^pi@u lume~ @e relativa al buio notturno, e
+tal pot@e dirsi di qualsivoglia gradazione si fosse: l'altra
+espressione ^un poco di raggio~ @e riferita alla luce sfolgorante
+del Sole gi@a nato, in rapporto alla quale ^poco~ veramente esser
+dovea qualunque ^raggio~ luminoso, che penetrar potesse nel
+tenebroso carcere.  Adunque il ^pi@u lume~ non pu@o mettersi in
+confronto col ^poco di raggio~: quello sta ben detto, ancorch@e
+scarso e fievol fosse, al paragone della notte; questo bene ancora
+detto ^poco~, rispetto al molto che irradiava il mondo, e rispetto
+eziandio alla quantit@a necessaria a poter chiaramente vedere nella
+scura torre i visi de'figliuoli.  I quali visi dice il padre d'aver
+non ^veduti~, ma ^scorti~; nel che il Poeta, osservando la stretta
+propriet@a de'vocaboli, ci fa intendere come quello ^scorgere~
+non fosse senza sbirciare in alcun modo in mezzo alla scarsa luce,
+non fosse che un ^vedere a fatica.~  Dopo questa considerazione noi
+possiamo rigorosamente concludere contro il Ch. Costa, che quel
+^poco lume~ era maggiore del ^pi@u lume.~  La Grammatica ci vede un
+assurdo se corre dietro alla lettera morta; la ragione, che cerca lo
+spirito nella lettera, in questi paradossi apparenti rintraccia il
+vero.
+
+	Che poi per ^le pi@u lune~ abbia il Conte Ugolino misurato il
+tempo della sua prigionia, concedasi pure ai sapientissimi Accademici
+della Crusca; concedasi al Ch. Tommaseo, e  ad altri, che sia un
+^contrapposto terribile~ il far penetrare per lunghi mesi in quel buio
+il notturno lume della luna, e poi di giorno ^un poco di raggio~ quanto
+a vedere i quattro moribondi figliuoli; non potr@a mai all'ill. Costa
+mandarsi buona, che, se al chiaro sole ^poco lume~ v'entrava, e
+all'alba pochissimo, potesse poi Ugolino nel fondo di torre buia, nelle
+notti invernali, che le nuvole oscurano il cielo, veder tanto chiaror
+di lume lunare per s@i piccol foro, da misurare i tristi mesi della sua
+prigionia.  A noi pare che il Conte meglio potea contarli, discernendo
+i d@i dalle notti per la luce diurna, che vi permetteva il breve
+pertugio; quando per@o non altre cure avuto avesse colui, che di
+calcolare il tempo, notando le fasi del nostro satellite, da una
+specola, per verit@a, nulla acconcia alla compilazione de'calendari.  E
+a noi, dietro l'autorit@a di s@i grandi uomini, non sarebbe dispiaciuto
+che Conte Ugolino, il quale non avea guardato mai alle stelle, fosse
+ito in prigione per apparare di Astronomia; ma ci pare impossibile che,
+ne'torbidi dell'anima sua, potesse egli avanzarvisi e non errare
+ne'calcoli, che dimandano mente tranquilla e serena.  Ancora, com'@e
+mai che Ugolino contasse molti mesi pel pertugio di quella prigione,
+dov'egli pure non giacque che pochissimi giorni?  Nella stampa di
+Venezia 1568, appo Pietro da Fino, @e a questo luogo la lettera ^pi@u
+lumi~, cio@e, ^pi@u giorni~, secondo l'interpretazione di Torquato
+Tasso [Nel 1400 anche i prosanti usarono ^lume~ in sentimento di
+^giorno.~  Da Prato, Stor. Milan.: ^Il lume seguente poi, che fu il
+giorno septimo d'octobre~ ec. ^Lumen~ per ^giorno~ dissero eziandio i
+Latini.  Virg. AEn. 356: ^Vix lumine quarto~ ec.].  E ne'frammenti
+della Storia Pisana scritta da autore contemporaneo e pubblicata dal
+Muratori si legge: ^Presono lo Conte Ugolino, e li figliuoli, e li
+nepoti, e tenorli sostenuti, e presi; e feciono loro metter i ferri, e
+tenere, e guardare presi in del Palasso del Popolo pi@u di XX d@i, in
+fine che fu acconcia la pregione della Torre de i Gualandi Da Sette
+vie.  E poi ve li feciono mettere entro in de la dicta pregione che fu
+poi chiamata la Pregione della fame.~  @E dunque probabile che il Conte
+e i suoi figliuoli, custoditi gi@a in altra prigione, venissero poi
+messi nella Torre, quando, giunto a Pisa Guido da Montefeltro, furono
+condannati a morir di fame [Gio. Vill. Lib. VII. Cap. 127: ^I Pisani
+elessero per loro Capitano di guerra il Conte Guido da Montefeltro,
+dandogli grande giurisdizione, e signoria, il quale ruppe i confini,
+c'haveva dalla Chiesa e partissi di Piemonte, e venne in Pisa.  Per la
+qual cosa egli, e'figliuoli, e tutta sua famiglia, e tutto il Comune di
+Pisa dalla Chiesa di Roma furo scomunicati.  E giunto il detto Conte in
+Pisa del detto mese di marzo, i Pisani, i quali haveano in pregione il
+Conte Ugolino, due figliuoli, e due nepoti figliuoli del Conte Guelfo
+suo figliuolo, come addietro facemmo menzione in una Torre in su la
+piaza delli Anziani, fecero chiavar la porta della Torre, e la chiave
+gittare in Arno, e vietarono ai detti prigioni ogni vivanda.~ ec.].  Il
+che meglio si fa chiaro dal comento di Benvenuto da Imola che visse
+poco tempo dopo il Poeta: ^Comes vero dedit se captivum: et cum duobus
+filiis et duobus nepotibus traditus est carceri. Comes igitur [Prendasi
+qui la voce ^igitur~ nel significato di ^tum, postea, deinde~ ec.]
+^infelix cum filiis et nepotibus positus est in Turri... et clausa
+porta deiectae sunt claves in Arnum.~ etc.  E ai versi:
+
+     Gi@a eran desti, e l'ora s'appressava
+     Che 'l cibo ne soleva essere addotto.
+
+cos@i ancor l'Imolese: ^Quasi dicat: appropinquabat hora qua
+eramus soliti prandere.~  ANTEQUAM ESSEMUS CAPTI.  ^Vel dic~ --
+HORA QUA SOLEBAT NOBIS AFFERRI CIBUS ANTEQUAM PONEREMUR IN TURRI.
+^Quia non statim fuerunt adjudicati huic supplicio extremo, nisi
+post adventum Comitis Guidonis de Montefeltro~ etc. -- <Ma a ci@o
+potrebbe rispondersi che Dante, giudizioso trasceglitore delle 
+circostanze nelle sue descrizioni, non ha stimato d'alcun interesse
+il rilevare questa traslazione, ed ha immaginato che sin da
+principio fosse il Conte rinchiuso nella muda de'Gualandi; e che la
+verit@a storica non @e stata da lui sostanzialmente alterata,
+perch@e sta sempre fermo che il Conte fu detenuto in una oscura
+carcere, e che dopo lungo tempo fu privato degli alimenti.
+Ritengasi adunque sicuramente la lez. ^pi@u lune~, e si abbia
+l'altra per uno de' soliti errori o saccenterie dei copisti>. B.
+Bianchi.  -- L'atrocit@a della condanna a cui andarono soggetti
+Ugolino e i figliuoli, comincia dalla torre e finisce con la loro
+cruda morte.  Al Poeta torn@o pi@u comodo lasciar supporre il tempo
+men fiero della prigionia precedente, per chiarare e concentrare
+l'attenzione de'lettori ai d@i funesti della curdele catastrofe.
+Avrebbe violate le leggi della Poetica, se gli fosse piaciuto di
+alterare punto le circostanze di un fatto recentemente accaduto, e
+ne' pi@u minuti particolari allora noto all'universale.  Questo Ch.
+comentatore osa intanto dire che ^bisognerebbe aver ben poco lume
+per adottare~ l'altra lezione; e conforta a ritener la sua
+^sicuramente,~ come se l'autorit@a de'codici antichi pi@u preziosi
+fosse nulla, e dovesse tenersi come errore da menanti quello che non
+si @e curato di riconoscere autentico con la guida della sana
+critica.  Anche il Cesari dice: ^Erano passati pi@u mesi.  Gli
+Accademici della Crusca me ne stan pagatori, e Gio. villani, che
+dice, dal marzo all'agosto essere il Conte Ugolino stato nella
+torre; ed io non ne vo'meglio~>.  -- Gli Accademici credetter simile
+il concetto di questo luogo a quello che il Poeta stesso spieg@o in
+una sua canzone:
+
+     ....Onde s'i' ebbi colpa,
+     Pi@u lune ha v#olto il Sol perch@e fu spenta.
+
+Ma invero non @e cos@i germana la frase che il ^pertugio mostri pi@u
+lune~, anzich@e ^pi@u lume~; come l'altra che ^il Sol volga
+pi@u lune.~  N@e vero @e poi che il Villani scriva,
+la prigionia del Conte esser durata dal Marzo all'Agosto.  Verso la
+fine di Luglio accadde la cacciata del Giudice Nino.  Dall'Agosto al
+Marzo di quell'anno corse tutto il tempo che Ugolino venne Signore
+di Pisa tra le acclamazioni del popolo festante; ed @e naturale che
+ad ingraziarsi co' nuovi soggetti seguitasse egli la politica del re
+leone; il quale celando il fiero istinto, giur@o che di erbe sarebbe
+il suo pasto, e poi fu creduto pei dottori di Corte, che alla vita di
+Sua Maest@a era necessario curarne la debolezza dello stomaco,
+facendolo tornare alle usate vivande.  Altro tempo scorse, in cui
+concep@i sospetto che un suo nipote potesse privarlo di Signoria, e
+cerc@o modo come farlo morire.  ^Essendo~ (scrive il Vill.) ^in
+grande e felice stato fece per lo giorno della sua nativitade una
+ricca e magna festa, ove hebbe i figliuoli e nipoti e tutto suo
+linguaggio~ ec. Vi si legge che un savio al quale, quando fu egli al
+tutto chiamato Conte di Pisa, dimandava che gliene paresse di sua
+grandezza e potenza, francamente gli rispose: ^Non vi falla se non
+l'ira d' Iddio.~  Parea dunque che forza d'uomo non potesse
+scrollarlo.  Costituirsi siffattamente; ordire tante trame e
+credersi incrollabile; tentare o consumare il tradimento delle
+castella; incorrere, a cagione del mal governo, nell'odio di quel
+popolo, che con grande allegrezza lo avea fatto Signore; son cose
+che non paiono di poter accadere nella breve successione di pochi
+mesi, nonch@e di giorni.  Sicch@e le parole del Cronista: ^tosto li
+sopravvenne~, non son da pigliare nel senso che in Agosto, che fu il
+tempo del suo innalzamento, venisse Ugolino preso e messo in
+prigione; ma che pochi mesi ch'egli stette al potere, furono assai
+breve tempo, rispetto a quello, che i pi@u di codesti tirannelli vi
+si sogliono mantenere; e che non @e mai ^tardi~ quando che essi
+rovinino.  Stando al frammento della storia Pisana, @e probabile che
+tra le presura del Conte e la sua morte non sia entrato in mezzo
+neanche tutto intero un sol mese: n@e l'Arcivescovo e gli altri
+Ghibellini sarebbero stati s@i matti, da tener tanto lungamente, per
+otto mesi, lui e suoi figliuoli nel carcere, in mezzo all'ardente
+furore delle avverse fazioni.  Adunque per siffatte ragioni @e anche
+improbabile che Conte Ugolino avesse durata nella muda la prigionia
+di ^pi@u lune.~  
+
+	Noi pertanto crediamo tenerci all'antica lettera ^pi@u
+lume~, sponendone la sentenza col Guiniforte: ^Dentro da quella muda
+una piccola finestrella, nel far del giorno mi avea gi@a mostrato
+alquanto lume, quando ricominciai a dormire~ ec.  L'autorit@a
+de' testi pi@u insigni, i documenti storici, le chiose antiche e la
+sana critica, ci francheranno dalla taccia di poco lume o di poco
+senno in aver seguitato una interpretazione, che fu anche data dal
+Landino e dal Vellutello, sostenuta dal Lombardi e dal Toselli; e
+che a noi @e parso poter di ragione sostenere contro gli attacchi
+di chiarissimi comentatori.
+
+	|26.  Feci 'l mal sonno.~  Lodati comentatori pigliano qui
+^sonno~ in sentimento di ^sogno~, come nel v. 38 di questo canto, e
+nel XII, 65, del Paradiso.  A noi pare che anche ne'luoghi citati
+possa stare alla voce il significato che l'@e proprio, e da quel
+dell'altra bene distinto, come si vede in questo verso del
+Forteguerri (Ricciard. VIII, 96):
+
+     Si ruppe il sonno, ed il sogno disparve.
+
+E pare che Ugolino si dicesse ^aver fatto il mal sonno~, nel senso
+che quel riposo gli venne turbato dalle forme spaventose, che gli
+furon viste in dormendo: il che significa gi@a ch' ei sognasse, non
+mica che ^sonno~ e ^sogno~ fosser tutt'uno.  La sentenza che si cava
+dalla sintesi delle voci, non @e da confondere col significato che
+propriamente legasi alle singole.  Dove Cicerone (De Divin. Lib. I.)
+scrive: ^Annibalem, cum cepisset Saguntum, visum esse~ IN SOMNIS ^a
+Jove in Deorum concilium vocari~, non @e dubbio che Annibale non
+facesse un sogno; ma @e certissimo che lo scrittore latino non
+confuse la significazione di ^somnus~ con quella di ^somnium~, che
+distintamente us@o nell'altro luogo (Ibid.): ^Eandem~ IN SOMNIIS
+^admonitionem fuisse tertiam.~  Etc.  -- Dove Dante (v. 38 di questo
+canto) dice:
+
+     Pianger sentii nel sonno i miei figliuoli
+
+non vediamo necessit@a di prender ^sonno~ per ^sogno~; perciocch@e
+Ugolino vuol dire che i figliuoli ^piangevano~ mentre ^dormivano~;
+il che significa invero che i loro sonno non erano tranquilli, e che
+^nel sonno~ dovean pur essi veder cosa che gli turbasse.  Il
+Forteguerri (Ricc. VIII, 16 segg.) usa l'identica frase ^fra il
+sonno~: 
+
+     Ma sazi ben si sono i ferri vostri
+     Del sangue lor, che quasi ^uomin fra il sonno~
+     Uccidete, e mandata ai negri chiostri.
+
+Dove si vuol fare intendere che quegli uomini venivano facilmente
+uccisi senza far le sue difese, quasi immersi ^nel sonno~; e
+non quasi chi dormendo ^sognasse.~
+
+	Nel Paradiso si legge:
+
+     Vide nel sonno il mirabile frutto:
+
+cio@e, la visione non fu ^nella veglia~; ma ^mentre si dormiva.~ Il
+^sogno~ si rileva dall'insieme delle parole che fanno la sentenza,
+non gi@a dalla sola voce ^sonno~, che sempre ci avvisa ritenere il
+suo proprio significato.  L@a dove Dante volle dir ^sogno~, adoper@o
+il vocabolo dirittamente; siccome al v. 45:
+
+     E per suo sogno ciascun dubitava.
+
+E qui nessuno sognerebe di porre ^sonno~ per ^sogno.~  Nel passo che
+noi esponiamo, altri dir@a che il Poeta fu stretto dalla rima ad
+usar l'una voce per l'altra: noi stiamo fermi nel tenere, che a lui
+sieno le licenze di simil genere piaciute meno che non si crede.
+
+	|27.  Del futuro mi squarci@o il velame~: ^Il mal sonno, non
+mi fu di quiete, ma~ (perci@o detto MAL SONNO) ^col sogno, che in
+esso mi apparve, mi svel@o il futuro: quello che tra breve esser
+doveva di me e de'miei cari.~  Il sogno poi, come vien narrato
+ne'vv. 28-39, @e rappresentativo non solamente della misera morte e
+del male estremo, che dopo il sogno dovea incogliere al Conte; ma
+eziandio di ci@o che occorso gli era stato gi@a innanzi: sicch@e
+l'ora in cui egli sognava e parte delle visioni avverate, facevano
+pi@u credibile la realt@a di quello che gli stava per avvenire.
+Anche nella forma @e terribile il modo, di cui si vale quel misero,
+per dire: ^il mal sonno mi tolse dinanzi dagli occhi della mente
+l'ignoranza del futuro.~  Ci@o che facea velo all'intelligenza di
+Ugolino, perch@e non potesse egli, nonch@e prevedere, ma n@e
+conietturare quanto gli sarebbe accaduto, era forse la fallace
+opinione del contrario.  L'abituale sentimento della sua potenza, e
+della sua autorit@a, il rispetto che, ora o poi, si fosse dovuto
+avere della sua persona gli facean presumere, che cessato quel primo
+furor di popolo e di partito, verrebbe egli, se non lasciato libero,
+mandato o in esilio, o comechessia cacciato di Pisa; non mai per@o
+costretto a sostenere le angosce di morte s@i cruda.  Ed in questo
+sentimento @e mirabile la potenza del vocabolo |squarci@o~, che ti
+pare significativo come di turbinoso vento, il quale inopinatamente
+percuota e laceri di forza la vela gonfia delle sue illusioni, lasci
+tuttavia contemplare gli effetti della violenza nemica, e pei
+cincischi dello stracciato velame intravedere il futuro, vacillando
+sospeso in un dubbio pi@u tormentoso di una infelice realt@a.  Pi@u
+forte e pi@u appropriatamente, del suo funesto sogno qui dice
+Ugolino:
+
+     Che del futuro mi squarci@o il velame;
+
+di quel che in Virgilio sia detto della Sibilla, che apriva le
+occulte e le future cose:
+
+     ...^magnam cui mentem animumque
+     Delius inspirat vates~, APERITQUE FUTURA.
+
+	|28.  Questi~: ^il traditor ch'io rodo.~
+
+	|28-29.  Maestro e donno, cacciando~ ec.  -- Un Arcivescovo
+dovea rappresentare nella chiesa il Cristo, Maestro nella dottrina
+santa, Signore qual capo dei suoi fedeli [S. Johan. XIII. 13: ^Vos
+vocatis me~ MAGISTER ET DOMINE: ^et bene dicitis; sum etenim.~ --
+Vagheggiando l'idea religiosa, il Poeta vide orrenda cosa, che un
+Arcivescovo si mettesse a capo de'faziosi, e gl'incitasse alle
+vendette ed al sangue: cagne magre in caccia di lupi, e prepotenti
+del secolo erano i ^messi~ (v. 33) dell'Arcivescovo Ruggieri; in
+antitesi degli umili Apostoli che chiamaron Ges@u loro MAESTRO E
+DONNO, e si misero in cerca di pecore per convertirle alla greggia
+del Signore.]; ma Ruggieri qui, per terribile contrapposto, si pone
+qual ^Maestro e donno, Cacciando~ ec. cio@e (come intende il Cesari)
+^capocaccia.~  -- Virgilio chiam@o ^maestro~ il ^pastore.~  (Ecl.
+III.):
+
+     ^Idem amor exitium est pecori, pecorisque magistro.~
+
+e (AEn. IX, 173) adoper@o la stessa voce in sentimento di ^grande
+dell'esercito, sommo duce~ ec.: 
+
+     ^Rectores juvenum etrerum dedit esse magistros.~
+
+Festo: ^Magister populi, cuius erat in populum summa potestas.~ Anche
+nella Bibbia.  Deut., XVI, 18.  -- Deut., XVI, 18.  ^Judices et
+magistros constitues.... ut judicent populos.~  -- |Donno~ @e pi@u che
+^maestro~; potendo valere ^Signore, padrone, re~ ec.  Virgilio l'usa in
+significato di ^tiranno~ (AEn. VI, 621 seg.), dove pone nel Tartaro
+chi vend@e la patria, o la pose al giogo de'despoti ec.
+
+     ^Vendit hic auro patriam, dominumque potentem
+     Imposuit, fixit leges pretio, atque refixit.~
+
+	|Cacciando~: ^cacciante, che cacciava,~ o ^nel cacciar~, ec.
+-- Michaea, VII, 2: ^Vir fratrem suum ad mortem venatur.~
+
+	|Il lupo e i lupicini.~  Ugolino sognando vide s@i figurato
+nel ^lupo~, i figliuoli e i nipoti ne' ^lupicini~: non gi@a che quei
+nomi a loro ei credesse convenirsi, ma perch@e alcuna simiglianza
+v' era tra la caccia che suol darsi a cotesti animali, e parte di
+quello ch' era gi@a intervenuto nella sua presura.  Per s@i tremenda
+visione diviene ormai indovino del suo male, e ne prende l'augurio,
+ch'egli e i suoi cari figliuoli verrebbero consunti e lacerati da
+fame rabbiosa, come lupo da magre cagne inseguenti.  Il Poeta, che
+fe' parte da s@e, amico solo alla rettitudine, non la risparmia qui ai
+Guelfi, n@e ai Ghibellini; e quelli adombra sotto l'imagine di
+lupi, questi di cagne.  L'Ottimo vide in Ugolino ^lupo~ significata
+la tirannide o il Licaone della Favola.
+
+	|29-30.  Monte, per che~ ec. ^Monte San Giuliano~, ch' @e tra
+Lucca e Pisa; ^onde non possono i Pisani veder l'emula citt@a~, tutto
+non pi@u che un dodici miglia da essa lontani.  -- ^Questi~ (il lupo e
+i lupicini) ^correvano inverso monte Pisano~ ec.; ^e questo significa,
+che il Conte dubitando, havea ordinato di ridursi a Lucca dove
+reggevano i Guelfi.~  Landino.  -- ^Lo cacciano verso Lucca per
+rinfacciargli le castella tradite a Lucca e a Firenze.~ Tomm. Com. --
+^@E taciuto anco il nome del monte, e disegnato esso monte per questo
+ch' e' toglie a Pisa la veduta di Lucca, come se ogni cosa divesse qui
+essere tinto d'odio e muto di luce.~  Tomm., Illustraz. al C. XXXII, in
+fine.
+
+	|30.  Ponno~: ^possono.~  Innanzi a questa voce pongono il
+punto fermo il Landino col Vellutello, il Bargigi, il Volpi, il
+Venturi, il Lombardi, il Biagioli, il Niccolini ec., il Bianchi ed
+altri.  Ma: ^Io~ (dice il Cesari) ^tiro innanzi questo costrutto,
+con sola una virgola posta qui; parendomi che le cagne vadano
+congiunte al cacciare del lupo.~  Il Tommaseo segue la stessa
+interpunzione; e tengono amendue la sentenza, che Ruggieri, menando
+egli quel tradimento, s'avea messo dinanzi dalla fronte quelle
+^cagne magre~ ec. intese per le famiglie potenti messe in faccenda
+contro Ugolino; quindi dopo ^conte~ van posti i due punti, essendo
+secondo loro i due versi 32, 33 una esplicazione della sentenza
+precedente. Il Biagioli accomoda la identica interpretazione,
+ancorch@e con diversa punteggiatura, per una sottigliezza forse pi@u
+fina, che vera.  D@a alla particola |con~ del v. 31 il significato
+di ^come~ [N@e pu@o negarsi che talvolta le convenga.  Le voci ^col~
+(Purg. XIII, 9; XXIX, 145), ^colle~ (Par. XXXI, 61), valgono
+^come'l, come le.~  Dante da Majano scrive:
+
+     Col parpallion m'ha morto in disianza.
+
+il qual verso non fu inteso dal Monti, che prese il ^col~ come
+preposizione articolata.  Ma qui @e egli certo che la particella
+^con~ abbia a togliersi nel sentimento che vuole il Biagioli,
+anzich@e delle altre identiche, messe dal Poeta nel corso dello
+stesso costrutto?] e intende cos@i: |con cagne magre~ ec.  ^Egli si
+aveva messi dinanzi dalla fronte Gualandi con Sismondi e con
+Lanfranchi~ |come~ ^cagne magre studiose e conte.~  Il ch. Tommaseo
+[Com. al C. XIII, in fine.] scrive: <Di questo strazio tutto intimo
+e spirituale @e parte non piccola il sogno nel quale egli vede le
+cagne caccianti lui lupo; e in quelle (come suole ne' sogni, che le
+imagini si confondono per pi@u illustrarsi alla coscienza in luce
+nuova fulminea), riconosce i nemici suoi, i Sismondi, i Lanfranchi,
+i Gualandi, nomi come il suo germanici tutti>.  -- A noi pare, che
+nella visione del Conte son da sceverare el ^cagne~ da' maggiorenti
+Pisani che alla caccia del lupo accompagnavano il capocaccia
+Ruggieri; e non gi@a che Ugolino spiegasse egli a s@e stesso nel
+sogno, come quelle cagne significassero le tre famiglie potenti,
+alle quali non crediamo si possa applicare l'epiteto di |magre~ che,
+anche a sentimento dell'ill. uomo, ^Simboleggia la fame, come le
+vacche del re Faraone.~  Ugolino vide in sogno l'Arcivescovo, i suoi
+satelliti Gualandi ec. ^che s'avea messi dinanzi dalla fronte~, e le
+cagne, che non son da confondere con quei nobili.  Tutte queste
+specie fantastiche costituivano un sogno solo; nel quale nessuna
+parte era il prodotto dell'attivit@a intellettiva dello spirito
+sopito nel sonno; e tutte nel loro complesso erano ordinate a
+rendere al Conte, poi che si fosse desto, il tristo presagio de'
+casi suoi.
+
+	Il Venturi non avrebbe, con questo avviso, fatta colpa al
+Poeta d'aver egli, colla interposizione delle potenti famiglie
+Pisane, ^interrotto il suo parlare allegorico sotto metafore~; e
+Dante fu qui censurato perch@e franteso.
+
+	Il Landino, il Vellutello, il Venturi, e generalmente i pi@u
+antichi, intesero ^cagne magre~ per la ^plebe~: e quegli assennati
+espositori schivarono le difficolt@a nelle quali restano involti i
+chiosatori moderni.
+
+	|31.  Con cagne magre~ ec. ^Pel prelato si dimostra
+l'Arcivescovo; e per le cagne il popolo.~  Land.  -- ^Parveli nel
+sonno vedere l'Arcivescovo insieme con le tre famiglie di sopra
+dette, e con~ |le cagne magre~, ^intese per la plebe, cacciare un
+lupo coi lupicini.~  Vellut. -- ^Rappresentava questo sogno la
+caccia, che dato avea a s@e ed ai suoi figli l'Arcivescovo con le
+dette parentele, loro dando la caccia con~ |cagne magre e conte~,
+^ovvero avvezzate al mestiere, cio@e col popolo minuto, nel quale
+erano uomini senza fama, poveri, e pronti a fare novit@a.~  Bargigi.
+
+	|Magre~: ^gracili, snelle~; acciocch@e potessero essere pi@u
+leggiere al corso, pi@u anelanti alla preda, e pi@u specchiato sengo
+della fame che dovea consumare Ugolino.
+
+	|Studiose~: ^spedite, pronte, sollecite incacciare.~  @E
+voce significativa insieme di fretta, diligenza, ardore e favore,
+onde un fa opera a cui per naturale ingegno @e ordinato e disposto.
+I Toscani hanno ^studiarsi~ per ^affrettarsi~; ma qui la voce
+ritiene anche dal latino la nozione di ^fautore, benevolo,
+parziale~, che fuori dell'allegoria quadra molto bene a quelle
+cagne aissate da una contro un'altra fazione.
+
+	|Conte~: ^ammaestrate a simil caccia, avvezzate al
+mestiere.~  Pietro dal Rio crede pi@u aggiustatamente spiegar questa
+voce, applicandole il significato generico di ^acconce~ cio@e ^atte,
+idonee, da ci@o.~  Nella quale opinione egli riconfermasi, dopo che
+il Fornaciari ebbe notato non potere in altro sentimento pigliarsi
+questo vocabolo l@a dove Francesco da Barberino (Docum. VII, 8)
+dice, che i cavalli alti sono ^troppo pi@u conti~ a passar fiumi,
+fanghi e monti, che i cavalli bassi; e che a passar fiumi ci ha
+mestieri di ^ferme navi e conte.~  Cotal nozione recar buona
+sentenza nelle frasi ^saette conte~ (Purg.~ II, 56), ^le parole tue
+sien conte~ (Inf. X, 39).  Il Buti, ch' @e autore della prima
+spiegazione, fa la voce ^conte~ sincope del lat. ^cognitae~, usata
+in questo luogo in significato attivo, cio@e: ^istruite alla caccia.~
+I latini ebbero eziandio ^notus~ ne' due sensi di ^chi @e noto~ e di
+^chi conosce.~ Altri trae ^conto~ da ^comptus~ [Nel Convito si
+legge: <^E cos@i dicere che la nobile natura lo suo corpo
+abbellisca, e faccia~ COMPTO ^e accorto non @e altro dire, se non
+che l'acconcia a perfezione d'ordine.~  La nostr'anima opera gran
+parte delle sue operazioni con organo corporale; e allora opera
+bene, che 'l corpo @e bene per le sue parti ordinato e disposto.  I
+fautori dell'anzidetta etimologia, col sig. Fanfani, potrebbero
+intendere per |cagne conte~ quelle, che per naturale disposizione
+del corpo loro andavano pi@u spedite all'assalto; e lasciare ai due
+epiteti di ^magre~ e di ^sollecite~, l'officio di significare
+l'abitudine non naturale ed acquisita da quelle cagne nella
+dimestichezza co' loro padroni.].  Il Landino, il Vellutello, il
+Cesari, nonch@e altri, non ci aprono la loro mente circa il
+significato della parola ^conte.~  IL Sansovino scrive: <|Contezza~,
+^conoscenza~, voce usata leggaidramente da'poeti Provenzali e
+nostri.  Il Petr.: E dir@o cose ^manifeste e Conte~, i. note> --
+^Conto per cognito, conosciuto~, @e in Fran Guittono (Lett. XXII):
+^Acciocch@e~ (perciocch@e) ^voi, che non~ |conto~ ^m'avete gi@a, ma a
+voce d'alcun cortese, che senza merto altrui lauda, mosso vi siete
+amore offerendomi~ -- E nel Novellino, II; ^Maestro, avvisa questo
+destriere, che mi @e fatto~ |conto~, ^che tu se'molto saputo.~  --
+Quindi anche ^conto~ per ^nobile, famoso rinomato~ ec. Per la qual
+cosa parve al Ch. Tommaseo bene chiosare: <E forse anche ^conte~,
+perch@e di famiglie cospicue e note troppo a Ugolino>.  -- Noi che
+non mandiamo tra ^le cagne~ le chiara parentele de'Gualandi ec.,
+adottiamo l'antica esposizione del Buti, e dippi@u diciamo che
+^conte~ pu@o qui significare (senza le tante stiracchiature) quel
+che il vocabolo per s@e porta, cio@e ^cognite~, ch' @e pi@u che
+^note.~  E fuori allegoria si direbbe che le persone mandate
+all'assolto d'Ugolino fossero per lunga pruova giudicate idonee
+all'impresa, quasi cani dimestici e fidi al loro signore.  E di
+cotesti ve ne dovettero essere in mezzo ai popolani che, a detta del
+Villani, corsero furibondi al palagio del Conte.  Meo abbracciavacca
+in una epistola a Fra Guittone usa la voce ^contanza~, nel sentimento
+di ^familiarit@a~ pi@u probabilmente, che di ^fama~ o ^celebrit@a~:
+ed @e fuori dubbio che ^contezza~ non vale se non ^dimestichezza~ in
+questo passo del Novellino (XCI): ^Questi li promise~ (certi
+fiorini), ^e partissi, e prese tanta contezza che vi torn@o l'altra
+mattina.~  Si vede quindi quali ^cagne~ stesser pronte a'servigi di
+Messer l'Arcivescovo.
+
+	|33.  Messi.~  ^Lo infamarono a istigazione del Vescovo.~
+Tomm.
+
+	|Fronte.~  ^Voce d'uso militare e in latino e in italiano.~
+Tomm.
+
+	|S'avea messi dinanzi dalla fronte.~  ^Menando egli quel
+tradimento s' era, quasi duce di quell'assalto~ (significato per la
+caccia), ^messo a capo del popolo, e lo precedevano immediatamente i
+Gualandi~ ec.  Egli chiudeva le schere degli assalitori.
+
+	|34-36.  In picciol corso~ ec.  ^In breve tempo si
+straccarono. Il che dinota che non poteron condursi a Lucca.  Onde
+le cagne lo giunsero, perch@e il popolo lo prese.~  Landino. --
+Cos@i interpreta anche il Bargigi (vv. 29-30, nota).  Ma di quel
+tradimento non pare che Ugolino avesse pur sospettato; ch@e
+avrebb' egli comechessia provveduto al suo salvamento, o cercato di
+far le sue difese.  Il Villani scrive: ^Tosto li spravvenne... come
+era conceputo per lo Arcivescovo~ ec.  -- ^L'Arcivescovo ordin@o di
+tradire il Conte Ugolino, e subitamente a furore di popolo il fece
+assalire~ ec.  Se quel sogno fu ombra del vero, il Conte vorr@a qui
+significarci ill breve tempo che corse dalla sua presura alla morte.
+E questo sarebbe un'altro argomento contro l'opinione che ammette la
+lunga prigionia di ^pi@u lune~; di che abbiamo pi@u sopra (v. 26,
+nota) ragionato.
+
+	|Lo padre e i figli~: ^il lupo e i lupicini~ [^Lupus ad
+personam hominis avari et infidi refertur... Sin a lupo vulneratum,
+vel morsum se videre visus fuerit: cruciatum et vim ab hoste iniusto
+et avaro feret.~  (Jo. Sambuci, De significatis et eventis somnior.
+ex Ind., Pers., AEgipt. disciplina. Francof. 1577).  Non senza
+ragione il Poeta d@a il nome di ^lupo~ ad Ugolino, Guelfo e
+traditore; che non assale, ma @e assalito dai cani.  ^Canes ad
+inimicos referuntur.~  -- ^In visis regiis per quemlibet canem miles
+intelligitur.~].
+
+	|35.  Scane~: ^zanne~ o ^sanne~, si dice ai denti di presa
+cos@i del cane, come del cinghiale e simili.  All. ^Zahn.~  Secondo
+tal' etimologia il Blanc crede preferibile a questa lezione l'altra
+^sane~, che il Lombardi fa voce sincopata, del pari che ^Bacco~ per
+^Bacco~ (Inf. XX, 59).  E ^sane~ hanno la Nidob., l'ediz. Mant.,
+1472; la Fulgon., Rom. 1791: l'adottarono il Biagioli, gli editori
+della Minerva, Pad. 1822; e il Witte la registra tra le sue
+^Variorum.~  Ma il Buti legge ^scane~ chiosando; ^scane~ hanno i
+codd. Cassin., Ang., Caet., e Vatic. 3199; la 3+a~ ediz. Rom., i
+testi del Barg., del Land., del Vellut., del Volpi, del Vent. del
+Cesari, del Niccolini, del Bianchi del Tommaseo ec.
+
+	|36.  Fender li fianchi.~  <Viva pittura di questa
+rincalzata caccia!  Questo allassamento e questi morsi al Conte
+presagivano fame, o morte>.  Cesari. -- [Ecco l'interpretazione di
+simiglianti sogni, secondo il Sambuci nell'opera citata: ^Si quis
+adlatrantem sibi canem videre visus fuerit, verbis infami cum homine
+dimicabit.  Ac si quidem a cane visus sibi fuerit morsus, ab
+eiusmodi hoste vexabitur -- Si videre visus fuerit, canem lacerantem
+vestes suas, ab hoste infami divitiarum et gloriae detrimentum
+sentiet.  Si quis eas partes~ (coxas et renes) ^fractas videre visus
+sit, vel quod ex earum morbo nequeat ambulare: in adflictionem, et
+morubm, et orbitatem liberorum incidet.  -- Si quis videre visus sit
+coxas falgris aut gladio confractas, brevi morietur.~].
+
+	|37-39.  Innanzi la dimane~: ^prima dell'aurora~, o ^avanti
+l'alba~, dicono gli espositori che precelgono la lettera ^pi@u lune~
+pel v. 26.  -- |Dimane~, quasi ^l'ora di mane.~  Cesari.  -- Vedi la
+nota al verso citato.  -- L'ora del sogno fa ad Ugolino pi@u
+credibile l'annunzio tristissimo (Inf. XXVI, 7).
+
+	|Pianger sentii fra 'l sonno~ ec.  I figliuoli sognando
+piangono, e dimandan del pane; ch@e gi@a prima di sentir l'uscio
+inchiodato, il padre ed essi aveano patita alcuna penuria di cibo, e
+tutti omai presentono la fame nel sogno, innanzi che i suoi morsi
+gli laceri crudamente, nella realt@a: ^Il sogno non @e solamente
+l'apprensione ma la memoria del patimento.~  Tommaseo.
+
+	|Fra 'l sonno~: ^dormendo~ (v. 26, nota, a pag. 606).
+
+	|I miei figliuoli.~ Gio. Villani dice ^due figliuoli e due
+nipoti del Conte.~  Chi dice vero, il Cronista o il Poeta?
+^Quantunque che l'uno, e l'altro autore fosse nel medesimo tempo
+d'esso Conte, a noi piace di credere a Dante, perch@e... egli chiama
+essi suoi figliuoli ciascuno per lo suo proprio nome.~ Vellut.  --
+Jacopo Mazzoni stim@o che il Poeta intese, alterando la storia,
+^giovare alla misericordia ch'egli allora volea commuovere;~ e di
+quest' alterazione lo riprende dicendo, ch'^era tanto fresca la
+memoria di quel fatto al tempo di Dante, e tanto vicino il luogo ove
+avvenne, ch'egli l'avrebbe sempre con sigliato a raccontarla in quel
+modo medesimo che successe.~  -- Torquato Tasso attribu@i al Poeta
+lo stesso fine in avere alterata la storia; ma nonsi mostra, come il
+Mazzoni, s@i pronto a porger consigli a Dante.  Al ve. 61 osserva:
+^Altera Dante qui la istoria facendo che tutti questi fossero
+figliuoli, perch@e parte ve n'era di nepoti; ma forse ci@o fece per
+muover maggior compassione.~  -->  Ma il Poeta non alter@o punto
+questa storia, e Dante e il Villani facilmente si concilian fra
+loro.  Dante gli chiama tutti e quattro ^Figliuoli~: ci@o per@o non
+s'oppone a quanto narra il Villani, perch@e dice nello stesso tempo
+che i ^due Nipoti~ d'Ugolino erano ^figliuoli del Figliuolo~;
+sicch@e suoi figliuoli ancor' essi si poteano per lui chiamare.  N@e
+alterando questa Storia nel modo che falsamente crede il Mazzoni
+aver fatto Dante, ^si giova alla misericordia~; perch@e anzi maggior
+^misericordia~ producono ^due Mipoti figliuoli del Figliuolo~; se @e
+vero, com'@e verissimo, che l'amore de' generanti ne' generati
+discenda>.  Rosa Morando.  -- |Figliuoli~ ^appella Ugolino anche i
+nipoti con quell'uso che tutti ci diciamo figli di Adamo.~  Lomb. --
+^Ma, se cos@i fosse, fratelli e non figliuoli dovrebbegli chiamare.
+Adunque chiamagli figliuoli e pel vincolo del sangue, e per la
+differenza dell'et@a, e perch@e poteva amarli come figliuoli~ ec.
+Biag.  
+
+	|Dimandar del pane.~  Jer. Thr., 4: ^Parvuli petierunt
+panum, et non erat qui frangeret eis.~
+
+	|40-42.  Ben sei crudel~ ec.  Quel parlare e pianger
+de'figliuoli fra 'l sonno ammonisce il padre, che anch'essi gi@a
+sognano di sventura.  L'agonia del ferale supplizio ch'ei gi@a
+presentiva, moltiplica ora il tormento, e con pi@u fieri colpi gli
+percuote il cuore l'angoscia e l'amaro caso de' suoi diletti.  Tutto
+sopra l'anima sua scende il cumulo degli strazi e dei mali che seco
+porta la comune sciagura.  Strazi ineffabili, dacch@e aspettati son
+peggiori che il mal presente.  Ora chi ascolta Ugolino sarebbe
+crudele, se non sentisse, e non mostrasse sentir piet@a del caso che
+il sogno di lui e de'figliuoli gli presagivano: e questo |gi@a~ (v.
+40) prima che non fosse quegli venuto alla fine della dolorosa
+narrazione.  L'esclamazione compresa in questo trinario non rompe
+oziosamente il racconto.  Rivela l'anima tuttavia esacerbata
+d'Ugolino; invita l'uditore ad attendere |Pensando~ (v. 40), quasi
+^pensando~ ed estimando la portata del gravissimo suo dolore; chiede
+che altri per s@e contempli quello che potenza di parola non vale a
+significare; dispone il Poeta in suo favore contro l'Arcivescovo; e
+lo aguzza, perch@e non si lasci scappar via come ciancia sonora
+nemmeno un accento di quello ch'egli sta per proferire.  Pietro
+Alighieri a questo luogo cita la sentenza di Cassiodoro: ^Piaculum
+quoddam est inter tristes velle gaudere, et humanitatis refugit
+affectu qui dolorem non seguitur alienum.~  Per Dante @e ^piet@a~
+quella nobile disposizione d'animo apparecchiata di ricevere amore,
+misericordia ed altre caritative passioni; e dire pietoso @e la
+maggior lode che ad altri si faccia: nemico di piet@a @e tanto
+quanto fiero, crudele, villano: amiche le sono, o tutt'uno con lei,
+l'umanit@a, la gentilezza, il valore, la cortesia.  Chi non
+rimpiange Beatrice, ita pur gloriosa in loco degno:
+
+     Cuore ha di pietra, s@i malvagio, e vile,
+     Ch'entrar non vi pu@o spirito benegno.
+     Non @e di cuor villan s@i alto ingegno;
+     Che possa immaginar di lei alquanto;
+     E per@o non gli vien di pianger voglia {*}.
+
+[{*} Vita Nuova, canz.: ^Gli occhi dolenti~ ec.]  @E chiamata ^gentile~
+la ^donna~ che si ^compiange~ dell'impedimento ove la ^pietosa~
+Beatrice manda il ^cortese~ Virgilio; ed @e Lucia detta nemica di
+ciascun ^crudele.~  Piet@a, gentilezza e amore son principio e fine
+di tutto il sacro Poema: ed il Poeta come uomo morto cade vinto dalla
+piet@a per la Francesca, e all'animo gentile pesa finanche l'affanno
+di Ciacco.  Com' @e mai che a noi pare vederlo ora s@i freddo alla
+presenza di Ugolino, che questi sclami: BEN SEI CRUDEL... E SE NON
+PIANGI DI CHE PIANGER SUOLI?  Cio@e, come spone il Cesari: ^O tu
+sei spietato, che non piangi mai di miseria che tu vegga; ovvero se
+non sei cos@i, qual'altro dolore aspetti vedere maggior di questo,
+che ti cavi le lacrime?~  Noi non sapremmo strigarci di questo
+dubbio che ci @e surto in mente, se non considerando: 1+o~ Che omai
+debbe il Poeta aver fatta sua la sentenza della Ragione che lo
+guida:
+
+     Qui vive la piet@a quand'@e ben morta.
+
+2+o~ Che il nostro mistico pellegrino camminando per questo primo
+stadio del suo viaggio, ch' @e la via purgativa per opera del
+pentimento, l@a pi@u s'attrista, scolorisce nel viso, e piange, dove
+sente in sua coscianza il morso del vizio che vi si punisce; e
+poich@e da tradimento non ebb'egli mai l'anima offesa, ci sembra in
+questa cerchia disamorato il suo cuore e irrigidito, come il
+ghiaccio che fascia gli spiriti dei traditori.  -- 3+o~ Ugolino fu
+uomo feroce.  Dicono ferisse di pugnale nel braccio a un nipote, che
+gli consigliava provvedesse di vettovaglie la citt@a [Tronci, Ann.
+Pis., 1287.].  Or non merita compassione chi altrui non la ebbe.  --
+4+o.~  Ancora, il poeta con questa sua impassibilit@a ci vuol
+significare il ribrezzo ch'egli sentiva del tradimento; onde pu@o
+dirsi che da questo gelo, che difende a quel cuore la misericordia,
+divampi la fiamma dell'ira sua contro i traditori, e l'ardore
+dell'affetto che portava alla patria, all'amicizia, all'ospitalit@a,
+al benefizio, alla fede privata e alla pubblica.  E da ci@o fu che
+l'esser villano a Frate Alberigo, anima crudele dell'ultima posta
+(Inf. XXXIV), tenn'egli in luogo di cortesia.
+
+	|41.  Pensando~ ec.  <Ho letto in un codice, ^che 'l mio
+cuor s'annunziava,~ cio@e, ^annunziava a s@e~; che @e troppo pi@u
+vero e vivo del comune, ^al mio cuor s'annunziava~>. Cesari. -- N@e
+un codice, n@e un ms. solo ha questa lezione; ma ^chel mio cuor
+sanumptiava~ legg il Cassinese; ^ci@o che 'l mio~ le quattro prime
+edizioni di Fol., Mant., Jes., e Nap.; il MS. Filippino; i Pucciani
+1, 2, 5, 7, 8, 9.; i Riccard. 1004, 1026, 1027, 1031; il MS.
+Frullani, il Magl., il Dante Antinori, i Patavini 2, 9, 67, l'ediz.
+Ven. del 1491; un esemplare della Div. Comm. del 1487 veduto dal Pr.
+Rosini, il quale tenne in pregio anch'egli questa lezione, e vi
+not@o come cosa mirabile ^il cuore~ paterno che ha presentimento
+della grande sventura; ne scrisse a G. B. Niccolini, e questi
+credette prescieglier la detta lezione pel suo testo, sendo essa
+corrispondente a quel dettato <^me lo diceva il cuore~>: ^E~,
+soggiunse il valentuomo, ^a dire eil vero, in mezzo alle sventure
+viene comunemente in sulle labbra, e Dante l'ha pure usato nel
+sonetto che incomincia~ <Deh Peregrini, che pensosi andate> ^dicendo
+nella prima terzina~:
+
+     Certo lo core ne'sospir mi dice
+     Che lagrimando n'uscireste pui.
+
+Cos@i hanno eziandio i testi del Land. e Vellut., del Lomb., e del
+Bargigi.  A quest'ultimo il Zacheroni nota: <^Che il mio cor
+s'annunziava~ o ^si nunziava~ @e espressione tutta della natura, dice
+il Viviani, ed io aggiungo esser anche familiare, dicendosi
+comunemente: ^il cuor me lo diceva~>.  Il Witte scelse questa
+lettera pel suo testo, e segn@o l'altra fra le ^Variorum.~ Il
+Bianchi scrive dopo tutto questo: <Altri men felice mente leggono:
+
+     ^Pensando ci@o che al mio cor s' annunziava~>
+
+La nostra lezione @e del Cod. Caetani, delle ediz. del Burgofr. Ven.
+1529, del Rovellio, Lion. 1551 ecc. segu@ita dal Venturi, dal Volpi,
+dal Biagioli e recentissimamente dal Ch. Tommaseo. La variet@a
+delle due lezioni sta nello scambio, potuto di leggieri farsi dai
+copisti, d'una vocale per l'altra: e a noi par bene questa volta non
+istare alla fede de'molti testi; perciocch@e se pu@o rettamente
+dirsi ^me 'l diceva il cuore~, non pu@o mica del pari ammettersi la
+forma ^il cuor s'annunziava.~  Un annunzio ci richiama
+necessariamente l'idea d' un'entit@a esterna a chi esso si fa, e un
+cuore che annunzi a s@e stesso dovrebb' esser simultaneamente in s@e
+e fuori di s@e: dire a s@e stesso una cosa ch' ei non si sapeva,
+sarebbe un cuore sciente ed ignorante insieme, il che @e assurdo.
+Quando ^diciam il cuore~ o ^il pensiero me'l diceva~, la lingua non fa
+contro l'Ideologia.  Sebbene le facolt@a psichiche sieno l'anima
+stessa, i suoi affetti, i suoi atti e le suscettivit@a sue si
+considerano per astrazione distinte da lei; ma questo facciamo
+rispetto alle modificazioni ch'ella per le sue potenze attive opera
+sopra s@e stessa, o che in lei si operano nello stato passivo,
+ovvero che una facolt@a sopra un'altra influisca; non @e mai per@o
+che queste potenze agiscano come che sia sopra s@e medesime, o che i
+sentimenti e gli affetti sieno centro a s@e stessi della propria
+virt@u, termine obiettivo alla propria attivit@a.  Cos@i diciamo che
+l'intelletto illumina la mente, e non s@e stesso; che il desiderio
+muove non s@e stesso, ma la volont@a; che amor ci muove, sdegno ci
+sospinge, ira ci trasporta a checchessia, non mai che l'amore, lo
+sdegno e l'ira muovano, sospingano e trasportino s@e stesse.  La
+stessa coscienza non vede s@e in s@e stessa, ma @e lo spirito che in
+quella si specchia.  I sensi esterni sono all'anima nunzi del mondo
+sensibile; ma gli occhi vedono, gli orecchi odono altro da s@e
+medesimi.  La frase ^il cuor s'annunziava~ ci pare dunque
+illegittima, poich@e contraria alle leggi ideologiche, le quali
+governano l'umano linguaggio.  Questa lezione infatti snatura il
+concetto dell'autore, il quale descrive il sogno d'Ugolino, e
+accenna quello similmente fatto da'figliuoli, appunto per dare ad
+intendere che cotesti sogni, e non il cuore, prenunziavano
+all'infelice Conte l'imminente sciagura.  Se diamo al cuore la forza
+di presentirla, svanir@a tosto l'importanza del sogno, con grave
+detrimento dell'invenzione poetica; e se anche diciamo che il cuore
+abbiane il presentimento per effetto di quel sogno, noi confonderemo
+i termini, chiamando col nome di presentimento, ch' @e spontaneo e
+inesplicabile, ci@o che @e un presagio, un nunzio, un avviso che
+muove da nota cagione.  Dante d@a al sogno d'Ugolino la stessa
+efficacia che il Tasso attribuisce a quello di Arsete (Ger. XII,
+37-40); il quale da un sogno, come da un ^messaggier del cielo~,
+intende gli strani accidenti ond' era minacciata Clorinda.  Cos@i
+appo Virgilio (AEn.  XII, 845-868) Turno stupisce, si raggriccia e
+divien muto, per la paura che gli mette la Dira mandata da Giove; la
+quale in forma d'uccello gli s'aggira svolazzando intorno, e con le
+ali gli percuote lo scudo, inaugurio funesto di vicina morte.  Dove
+dunque piacque anche al nostro poeta di creare una simigliante
+cagione, che operasse sul cuore turbato del Conte Ugolino, non @e
+chi possa ragionevolmente annientarla, contraffacendo alle norme
+dell'arte, e pi@u a quelle dell'Ideologia, della lingua e del senso
+comune [Mons. Luigi della Vecchia, nella sua versione latina
+elegantissima [Se ne leggono pi@u tratti nell'^Omaggio a Dante
+Alighieri offerto da' cattolici Italiani nel maggio 1865, sesto
+centenario della sua nascita.~ Roma. Tip. Monaldi 1865.] della
+Divina commedia, reca il concetto dantesco di questo luogo, ne'
+seguenti versi:
+
+     Dura silex tibi corde riget, ni totus inhorres,
+     Vel reputans animo quid cor patris ista monerent.].
+
+	|43.  Eran desti.~  Tra le ^Varior.~ del Witte @e annoverata
+la lezione ^eram desti~, che fu adottata dal Volpi e dal Venturi, e
+trovasi nella stampa di Ven. 1757 per Ant. Zatta ec.  Il Biagioli
+chiosa: ^Gi@a er@am desti~, intendi ^tutti noi~, io e tutti miei
+figliuoli poch'anzi non ben d#esti ancora.  E, se il Lombardi avesse
+capito il senso giusto del ^fra 'l sonno~, non avrebbe scritto ^gi@a
+eran desti~, come vuole la Nidob., per l'istesso errore.  E, in
+pruova del sentimento nostro leggesi in margine all'edizione della
+Crusca: ^Crediamo che stesse meglio er@am, prima persona, perch@e
+meglio risponderebbe a quel~ ne soleva, ^e che sia scorso s@i fatto
+errore per la mala e confusa ortografia di quei tempi.~  -- Ma, con
+la buona pace del sig. Biagioli, non @e la sola @e ancora de' Codd.
+Cassin., Filipp., Pucciani, Riccard. 1004, 1024, 1025, 1026, 1027,
+1031; del MS. Frullani, Magl., del Dante Antinori, de' quattro
+Patavini, del Bargigi, dell'ediz. Mantov. 1472, della 1+a~ Sansov.,
+Ven. 1564, della Fulgon., Rom. 1791, del De Romanis, Rom. 1822, e
+della Minerva.  La ritennero Benvenuto nel suo comento, il Land. e
+Vellut.: Poscia anche il Cesari, il Bianchi, il Tommaseo.  Il Witte
+la prescelse pel suo testo; il Perazzini la difese, e G. B.
+Niccolini scrive: ^Nel verso 37 avendo gi@a detto Ugolino~ <Quando
+fui desto innanzi la dimane> ^non gli rimaneva ora  di annunziare
+che il destametno de'figli.  Egli @e per questo che insieme col
+Lombardi fu da noi prescelta la lezione~ eran desti ^della
+Nidobeatina....  N@e come pensa il Biagioli le fa contro
+l'espressione~ fra 'l sonno ^del verso 38, perocch@e per essa non
+vuol dirsi che Ugolino mezzo tra il sonno e la vigilia sentisse i
+figli piangere e domandar del pane, ma sibbene che destatosi prima
+di loro gli ud@i far l'una e l'altra di queste cose, mentre ei
+dormivano.~  -- Se il Biagioli mostra il proprio errore nello
+sforzarsi di riprendere altrui, non @e questo un argomento che
+vaglia contro la lettera che a lui piacque; e, considerato bene ogni
+cosa, si vedr@a che potrebbe egualmente aver luogo ed ^eran~ ed
+^eram.~  Non poteva egli dire Ugolino ^eram~, quando ben l'uno fosse
+desto prima degli altri?  Ed era egli necessario si dicesse ^er#am~
+per le ragioni addotte dalla Crusca? A ritener come la pi@u
+probabilmente vera la lettera ^eran desti~, muove noi la concorde
+aurit@a di preziosissimi testi; e il considerare che ove si tolga il
+trinario (40-42) di esclamazione, il Conte che avea test@e detto:
+
+     Pianger sentii fra 'l sonno i miei figliuoli ec.
+
+doveva poco dipoi soggiugnere ch'eglino ^eran gi@a desti,~ non
+volendo mica far pensare che quelli piangessero in sonno eterno
+[^Er#am~ per ^eravam~ us@o anche il Nostro (Purg. XXXII, 35):
+
+     Forse in tre voli tanto spazio prese
+     Disfrenata saetta, quanto eramo ec.
+
+	Il B. Iacopone, Lib. II. C. II, 17:
+
+     Li quai per lo peccato eramo in pena.
+
+Ed in prosa, il Galilei, Dial. I. ^Mentre er@amo sul considerare la
+difficolt@a.~  -- Firenz., Asin. 228: ^E appena er@amo camminati.~
+E cos@i antichissimamente Matteo Spinelli ed altri molti ebbero
+familiare cotesta voce, venuta dalla latina inflessione ^eramus~,
+che il volgo mut@o lievemente in ^$eramu~, come tuttod@i s'odon dire
+i Calabresi, e poscia polirono in ^er@amo~ i nostri primi
+scrittori.].
+
+	|S'appressava~ @e la lezione della pi@u parte de' codici
+antichi e delle edizioni.  La ritennero ne'loro testi i pi@u solenni
+comentatori Benvenuto da Imola, Land. e Vellutello (Ven. 1578),
+Bargigi, Volpi, Venturi, Lombardi, Biagioli, Cesari, Niccolini,
+Tommaseo ec. Le ^Variorum~ del Witte hanno ^trapassava~, che il
+Bianchi crede ^pi@u bella senza dubbio della comune.~  Piacque
+cotesta variante al Pr. Rosini, opinando che ^l'effetto dell'inchiodar
+della porta della Torre~ dovesse essere pi@u terribile dopo
+^trapassata~, che all'^avvicinarsi~ dell'ora nella quale soleva ai
+prigioni apportarsi il cibo.  Ma, oltre che l'inchiodar dell'uscio
+dovea incutere lo stesso terrore prima o dopo che si facesse, la
+lezione preferita dal Rosini e dal Bianchi @e contraria al contesto:
+perciocch@e ivi si dice che ^pel suo sogno ciascuna ubitava, che
+all'ora usata non fosse per recarsi loro il cibo:~ or questo dubbio
+sarebbe stato certezza ponendo come trapassata l'ora che il cibo soleva
+essere addotto; e quindi si recherebbe non al sogno, come dice Ugolino,
+ma al fatto reale la cagione del lor dubitare; il quale secondo
+l'intendimento del poeta tanto pi@u lungo ed atroce diviene, quanto
+pi@u anticipamente sorge negli animi di quei miseri, cio@e s@i tosto
+com'ebber finito di sognare, anzich@e al trapassar dell'ora che soleano
+cibarsi [Pietro dal Rio, nell'Appendice di osservazioni aggiunta
+all'edizion della Div. Comm. per David Passigli, Fir. 1847, scrive: ^Si
+potrebbe dimandar... se non @e pi@u bello e pi@u animato in questa
+circostanza il~ dubitare ^del cibo quando~ s'appressava l'ora~, ^che
+non @e il~ dubitarne ^quando gi@a~ l'ora trapassava; ^perch@e nel primo
+caso addita il timore per effetto del~ sogno; ^nel secondo si nota un
+sospetto che, riguardo all'ora usata, @e una certezza, e non ha nulla
+di novo, essendo cosa naturalissima nel caso presente.~].
+
+	|44.  Addotto~: ^recato, apportato.
+
+	|45.  E per suo sogno~ ec. ^Essendo gi@a l'ora che era
+portato loro mangiare, aspettavano con sospetto quello che avvenne.~
+Cesari.  -- Benvenuto: ^Quia quilibet filiorum fecerat somnium
+simile Patri.~  A questo sogno bisogna attribuire efficacia
+dall'istante che fu fatto, e al dubbio, che negli animi per quello
+si ingenera, la cagione di continuo prolungato martirio.  Il Tommaseo
+che seriamente medit@o sopra questo canto, scrive: ^La pi@u profonda
+bellezza della narazione @e, al mio vedere, quel cupo che ci domina
+da capo a fondo, e vibrando lume incerto su cose terribili,
+aggiunge all'orrore... -- Dico che un non so che, foscamente
+indeterminato, scorre per la narrazione tutta... -- Del sogno
+de'giovani non @e detto chiaro, ma che~ CIASCUN NE DUBITAVA, ^ e il
+dubbio passa nell'anima di chi ascolta~ [Illustrazioni, in fine del
+C. XXXII, pag. 478 seg.].  -- ^Questo @e veramente artifizio da
+poeta: trasportare l'anima nel futuro, e la realt@a nel campo
+dell'ideale, che nella sua vastit@a indeterminata fa e le cose
+allegre e le tetre apparir pi@u grandi~ [Illustraz. in fine del C.
+XXXIII, pag. 498.].
+
+	|46.  Ed io~: ^quando ecco~ ec. Quel dubbio @e omai v#olto~
+in amara certezza dal sentir inchiodare la porta della torre.
+
+	|Ed.~  Va detto di questa particola qui, ci@o ch' @e notato
+al v. 50 nel canto XXV di questa cantica.
+
+	|Io sentii.~  Essendo gi@a desti tutti quanti, dovettero
+sentire anche gli altri, ma si dice principalmente di Ugolino che
+sentisse l'inchiodarsi dell'uscio; perciocch@e gl'innocenti figiuoli
+se ricevono per l'orecchio quel suono, non per@o sanno, come il
+padre, che sia parola di morte.
+
+	|Chiavar~:  ^conficcar con chiodi, inchiodare, sprangare.~
+Gio. Villani scrive: ^Fecero chiavar la porta della Torre e le
+chiavi gittare in Arno.~  ~Altri sottilizzando pu@o da queste parole
+inferire che quella chiudenda fosse fatta cos@i a chiavi, come a
+chiodi; ma non pare dir si possa: ^inchiodarono la porta e le chiavi
+gittarono in Arno;~ poich@e la porta non s'inchioda con chiavi; onde
+ci avvisa che secondo il cronista questo verbo abbia il significato
+generico di ^serrare, chiudere~, siccome il provenzale ^clavar.~  
+
+	^Suppone questo parlare~, dice il Lombardi, ^che rimanesse
+quell'uscio sempre, almen di giorno, aperto; ed accenna avvenuto in
+quel punto ci@o che gli storici raccontano, che facessero cio@e i
+Pisani~ chiavar la porta della torre, e la chiave gittare in Arno -- Il
+Biagioli al contrario nega che cotesto ^chiavare~ volesse dire
+^chiudere colle chiavi~, come chiosano il Volpi ed il Venturi, e chiama
+la supposizione del Lombardi, che la torre fosse sempre aperta, ^cosa
+che se l'@e indovintata da s@e, ma che da noi non si corre.~  Ma prima
+del Biagioli avea il Poggiali fatta al vocabolo la dubbia
+significazione di ^chiudere con chiavi, o conficcar con chiodi.~  E il
+Nannucci origina la voce ora dal latino ^clavare, chiodare, inchiodare~
+[Anal. crit. de verbi it. pag. 289.  not. (2). Fir. 1843.], or da
+^clavis, chiave~, siccome da ^navis~ fu detto ^navare~ per ^navigare~
+[Manuale della letterat. del primo sec., vol. I, pag. 347, not. (b).
+Fir. 1856.].  @E certo che i nostri primi scrittori fecero da ^clavus~,
+chiovo, chiodo, e ^chiovare~ per ^inchiodare.~  Il B. Jacopo ne dice:
+
+     Battuto e fragellato
+     Fosti per me tapino...
+     Ed in croce chiovato
+
+Di questa voce presa in senso traslato di ^figere, imprimere~, ha un
+esempio nel Purgatorio (VIII, 137); e del quadrello, che si
+disserra, disfrena e scocca dalla noce dell'arco o della balestra,
+@e detto nel Par. II, 24:
+
+     E vola, e dalla noce si dischiava.
+
+Fra Giord. Predic.: <^Veggiamo che alla croce si fa tanta riverenza,
+perch@e Cristo vi stette chiavato>~ cio@e ^confitto.~  -- E Franco
+Sacchetti: ^Le mani use alle cose dilicate di vita eterna, chiovi aspri
+e duri ebbono, chiavandogliele i perfidi Giudei.~  Comunque per
+l'analogia della lingua potesse il vocabolo derivarsi da ^clavus~, o da
+^clavis~ egualmente bene; comunque serrato l'uscio a chiavi e queste
+gittate in Arno, non paia che d'altro facesse mestieri: pure crediamo
+che quell'^inchiodar dell'uscio~ serviva al Poeta pi@u che ai Pisani,
+per significare in qual modo spaventevole venisse ai prigioni
+annunziata la crudele sentenza.  Benvenuto da Imola: ^Intellige cum
+clavis ferreis, ne amplius aperiretur.  Quia iam clavatum fuerat cum
+clavibus, quas abiecerant in Arnum.~
+
+	|Di sotto~: ^al basso.~  -- <A quel che pare, erano nel
+piano di sopra.  Tommaseo.
+
+	|47-48.  Ond'io guardai nel viso...~ -- Sentito il conficcar
+dell'uscio, Ugolino sguarda tosto i figliuoli, col vivo parlar degli
+occhi quasi lor dicendo: ^Ecco quel, che io temeva; udiste voi?~
+Tale, @e secondo il Cesari, il senso di quelle parole.  Ma Ugolino
+che il romore di quella serratura avea inteso, ^non fa motto~:
+guarda muto quegl' innocenti <^per leggere a essi nel viso se sieno
+accorti del vero, se ad essi incominci l'agonia, il cui calice egli
+ha nel pensiero gi@a bevuto tutto.~ [Tommaseo. ^Illustraz.~ al C.
+XXXIII, pagin. 499.].
+
+	|Figliuoi~ per ^figliuoli~, fognata la ^l~, siccome ^crudei~
+per ^crudeli.~  Din. Comp., Intell.:
+
+     Per te far@o crudei cose saggiare.
+
+Fra Guitt., Lett. ai Fior.; ^In ci@o che vale quanto avete, anima e
+corpo e figliuoi vostri @e danno.~  E Rim.:
+
+     Che abbandoni figliuoi che picciol vede,
+     Com' io tre picciol miei abbandonai {*}.
+
+[{*} Dice esser fiera crudelt@a la sua stata, che per
+rendersi frate abbandon@o moglie e figliuoli.]
+
+	Cos@i  ^quai, tai, mai, animai~ ec. per ^quali, tali, mali~
+ec.  Si fogn@o l'^elle~ nelle simili cadenze de'verbi.  IL Barberino:
+^Come tu mi suoi dire~, cio@e ^&suoli.~  Per la stessa ragione si trova
+^duoi~ per ^duoli~, ed altrettali voci in iscritture di tempi
+posteriori.
+
+	|49.  Io non piangeva~ ec.  Premeva egli il dolore
+nell'animo, o meglio, com'ebbe, dopo quel terribile annunzio,
+guardato in viso i figliuoli, l'atrocissimo dolore rendutol quasi di
+pietra nol lasica n@e piangere, n@e parlare: effetto naturale delle
+passioni veementi, che legano i sensi, e il corpo irrigidiscono.  Di
+Arsete, il Tasso (Ger. XII, 101( dice:
+
+     Ei, come gli altri, in lagrime non solve
+     Il duol, che troppo @e d'indurato affetto.
+
+	Reg. I. XXV, 37: ^Emortuum est cor eius intrinsecus, et
+factus est quasi lapis.~
+
+	|50.  Piangevan elli~:  ^tamquam teneriores.~  Benv. da
+Imola.  -- I fanciulli piangevano, vedendo negli occhi e nello
+istupidimento del padre il suo accuoramento.  L'et@a giovine
+rendevagli incapaci di profondo dolore, e n@e addentravano essi tanto
+il pensiero, quanto Ugolino faceva, nell'abisso che innanzi  loro
+s'apriva.
+
+	|Elli~: ^eglino.~  (Inf. XXXII, 124, nota (a); III, 42,
+nota).
+
+	|Anselmuccio~: un de'nipoti [Stor. Pis.; Murat. Ital. rer.
+script. I, XXIV, 655.].  |Anselmuccio mio~: ^Qui erat unus ex filiis
+meis.~  L'Imolese. -- Quanto pi@u si fa feroce il dolore, tanto in
+Ugolino cresce il senso della piet@a, e le parole vanno pi@u e pi@u
+prendendo espressione di tenerezza.  Gi@a prima dice (vv. 38 e 48)
+^i miei figliuoli~: ora comincia a chiamarli per nome.
+
+	|51.  Tu guarda s@i! Padre, che hai?~  Ci@o dimostra che
+nuovo modo di sguardar disperato facesse il Conte nel viso ai
+figliuoli (vv. 47, seg.), perch@e quell'inesperto fanciullo cos@i
+gli parli, dicendo, in sentenza: ^Che vuoi tu dir, padre?  Tu ci
+guardi fiso, e nulla ne dici: che hai~?  Cesari.
+
+	|Che hai~?  ^Pi@u orribile che chiedergli pane.  Questi
+almeno non s'era ancora accorto del vero; n@e il punto in cui gli
+altri s'accorgono @e fermato: silenzio tremendo.~  Tommaseo.
+
+	|52-54.  Per@o.~  La conseguenza parea dover essere che il
+padre ^piangesse~ al pianger de' figli (v. 50), e ^rispondesse~ alla
+dimanda (v. 50) d'Anselmuccio; ma egli n@e manda fuor degli occhi
+pur una ^lacrima~, nonch@e pianga, e in suon di querela disfoghi il
+dolore; n@e risponde: e questa orribile mutolezza,  questo stupore
+d'animo quasi impietrito, non @e per un istante, ma dura |tutto quel
+giorno~ e |la notte appresso.~  Del quale crudelissimo stato @e resa
+ragione in un motto solo (v. 49), |dentro impietrai.~  Le parole di
+Ugolino:
+
+     ..non lagrimai, n@e rispos' io
+     Tutto quel giorno, n@e la notte appresso ec.
+
+fanno inferire che tutto quel tratto di tempo fu passato in una
+veglia crudele, tra una scena d'orrore; dove debb' essere stata
+frequente la cagione del piangere e del rispondere, senza che per@o
+abbia il padre impietrito dal dolore mai n@e risposto un accento,
+n@e lacrimato.  -- ^Commuove l'affetto se ci duole di chi piange:
+quanto ci dovr@a di chi, pel dolore non pu@o piangere?  Gran merore
+era al padre il pianto de' figliuoli: grande a' figliuoli, che il
+padre non potesse piangere.~  Land.
+
+	|Infin che l'altro sol nel mondo usci@o.~  ^Idest, usque ad
+alium ortum Solis.~  Benvenuto da Imola.  -- ^Fino al d@i seguente.~
+-- Il Tasso (Ger. I, 75):
+
+     Sorgeva il ^nuovo Sol~ da' lidi Eoi.
+
+Cos@i i Latini usarono metonimicamente ^lumen~ per ^dies~; e ^Sol~
+per ^isplendore~ e per ^giorno.~ (Vedi pag. 604, not. (a); e C.
+XXIX, 105 nota).  -- L. Della Vecchia: 
+
+     ^Altera dum solis fulsit lux aurea mundo.~
+
+	|55-58.  Come~: ^s@i tosto come, come prima~ ec., Lat. ^ut
+primum~, ec.
+
+	|Un poco di raggio.~  (Vedi nota al v. 26, pag. 604).  Ecco
+la luce che il gran Poeta pittore trova confacevole a far che meglio
+risaltino le tinte del suo lugubre quadro.  Essa non discende amica
+gi@u nel carcere, per rinfrancare alcun poco l'animo del misero
+Ugolino, dileguando parte de' pensiero funesti che tutto quel primo
+giorno e la notte appresso, l'aveano atrocemente martoriato: viene
+con gli orrori d'una fiaccola sepolcrale a rendere visibile al
+genitore gli effetti della patita inedia e del dolor morale,
+sulle
+facce pallide e scarne di quattro innocenti figliuoli.  E qui egli
+infuria, e, rotto ogni ritegno, si morde le mani per rabbbia non g@ia
+di fame, ma di dolore.  -- L'Imolese: ^Hic Comes narrat, quomodo
+invalescente dolore, secunda die factus est rabidus, visis filiis
+suis.~
+
+	|56-57.  Scorsi.~  ^Scorgere~ @e qui vedere ci@o che prima
+per alcun impedimento non si vedea.  Quando la luce diurna faceva
+chiare le sembianze de'figli, Ugolino dice semplicemente (v. 47
+seg.): ^ond'io guardai Nel viso~ ec. Qui e vede egli s@i tosto come
+fu dileguata l'oscurit@a notturna; e quegli aspetti argomentano il
+suo.  Questo verbo ha la forza del ^cernere~ e ^discernere~
+de'Latini; ed @e con mirabile propriet@a adoperato dal nostro Poeta
+(Vedi a pag. 604).
+
+	|56-57.  Scorsi Per quattro visi il mio aspetto stesso~:
+^potei discernere lo smarrimento e l'atto del proprio sembiante ne'
+visi de' miei figliuoli~: l'imgine mia da' quattro aspetti quasi da
+altrettanti specchi a me si rifletteva, ed io pensai ch'ei fossero s@i
+contraffatti per patimenti e dolori simili a quelli ch' io sosteneva; e
+la mia disperazione tanto incrud@i, che: |ambo le mani~ ec.  -- ^Il
+Conte scorge in quattro volti il suo volto, cio@e le sue fattezze di
+padre, e lo squallore della faccia sparuta.~ Tomm.  [Illustraz. Inf.
+XXXII, pag. 479] -- |Aspetto~: ^simili a me e per sangue e per fame.~
+Tommaseo [Comento]. -- |Sc#orsi Per quattro visi il mio aspetto
+stesso~, ^significa, se piace, lo sfigurarsi che per la morte lunga
+venivano facendo i visi e i corpi de' giovani, come il suo; ma
+significa ancora pi@u, che in quegli specchi di morte il padre
+riconosce atterrito s@e stesso, si sente autore del nascere e del
+morire loro, s'immedesima nel lor patimento.  Non dice |in quattro
+visi~ ^ma~ |per~, ^facendo errare moltiplicato e ripercosso per quattro
+aspetti un sentimento quasi pi@u tremendo del nulla.~  Tommaseo
+[Illustraz. Inf. XXXIII, pag. 499-500.]. -- L'Imolese chiosa; |per
+quattro visi il mio aspetto stesso~: ^Idest, in quatuor faciebus
+filiorum meorum.  Filius enim et Pater una persona et eadem censentur;
+vel quia erant simillimi patri.~  -- Di Latino (Tasso, Ger. IX, 35) a
+cui Solimano uccise cinque figliuoli, il poeta, imitando in certo modo
+questo luogo del Nostro, dice:
+
+     Il padre (ah non pi@u padre! ahi fera sorte
+     Ch' orbo di tanti figli a un punto il face!)
+     Rimira in cinque morti or la sua morte,
+     E della stirpe sua che tutta giace.
+
+	|58.  Ambo le mani~ ec. Vedi vv. 55-58, nota.
+
+	<Ecco un verso fiero, bellissimo, di un'armonia che si sente
+al fondo dell'anima, e d'un gran colorito, che d' una sola pennellata
+ti fa la pittura del disperato Ugolino, e tutto questo in virt@u
+delle due semplicissime trasposizioni del verbo e del caso obliquo.
+Volete voi troncare a questo verso i suoi nervi?  Recidete la
+trasposizione del verbo, e dite:
+
+    ^Mi morsi pel dolor ambo le mani.~
+
+Il volete versaccio da colascione?  Toglieteli l'una e l'altra
+trasposizione:
+
+     ^Mi morsi ambo le mani per dolore.~
+
+Le trasposizioni adunque sono spesso la vita del verso e della
+sentenza; ma mal adoprate l'uccidono. Vediamolo in questo verso
+medesimo colle parole diversamente distribuite:
+
+     ^Per dolore mi morsi ambo le mani.~
+
+Qui tanto il verbo che il caso obliquo sono trasposti; ma la
+sentenza ha perduto gran parte del suo vigore; e perch@e?  Perch@e
+tutta la sua veemenza, tutta la sua evidenza sta nel verbo ^mi
+morsi~, col quale scoppia la disperazione.  Nel verso dell'Alighieri
+per tutto il tratto ^ambo le mani per dolor~, l'anima
+dell'ascoltante resta sospesa: e il cuore palpita nell'aspettazione,
+non potendo antivedere che debba succedere di quelle mani delle
+quali io posso fare pi@u usi; sollevarle al cielo, cacciarle dentro
+ai capelli, o portarle ad altro atto conveniente al dolore che mi
+possiede.  Viene finalmente quel disperato ^mi morsi,~ e ti solleva
+nell'anima tutto in un punto il fremito del terrore e della
+compassione.  Otteniamo noi per intero questo patetico colla
+trasposizione che abbiamo fatta?  Non certamente.  Il verbo adunque
+^mi morsi~, trasposto nel mezzo della sentenza, ne distrugge
+l'effetto; trasposto alla fine, la chiude mirabilmente, e con un
+tratto di Michelangelo termina il quadro della disperazione>. V.
+Monti [^Considerazioni su la Protasi dell'Iliade.~]
+
+	Il Tasso (Ger. IV) imitando questo verso, disse di Pluto:
+
+     Ambo le labbra per furor si morse.
+
+	|59-60.  Quei~: ^i miei figliuoli~ -- |Pensando~ ec.  ^Al
+vedere il padre mordersi le mani, non imaginerebbero certo che e' lo
+facesse per necessit@a di mangiare, se non sentissero in s@e
+medesimi quella necessit@a crudelmente.  E cos@i dagli indizi e
+dagli effetti argomentasi lo stato loro pi@u pienamente forse che non
+farebbe l'espressa parola.~  Tommaseo.  -- @E notevole eziandio che
+la rabbia, la quale suole invadere il famelico, erasi in Ugolino
+tutta conversa in atrocissimo dolor morale: il che vuol essere
+innanzi tratto avvertito, per ischivare l'insensata conclusione che
+tramuta un padre s@i misero, in antropofago de'propri figliuoli.
+|Pensando~ ^che il facessi~ (chiosa Benvenuto da Imola~): ^ex rabie
+famis potius, quam ex rabie doloris.  Et tamen contrarium erat.~
+
+	|Mangiar~: ^mangiar.  Manicare~ @e voce fatta dal lat.
+^Manducare~, mutata la ^d~ in ^n~, o fognata affatto, siccome in
+diversi dialetti si ha ^bannera, banno, dicenno~ ec. per ^bandiera
+bando, dicendo~, ec.; e in Prevenzale ^bandera~ e ^ban@era.~  Dante
+us@o anche pretto il ^Manducare~ (Inf. XXXII, 127).  Male avvis@o
+egli ^Manucare~ fosse voce propria dell'idioma fiorentino;
+perciocch@e la si trova eziandio in altri dialetti, siccome nel
+romano.  Framm. Stor. rom., Lib. I. Cap. VIII: ^O missore
+Ubertiello, manuca bene.~  -- Nella Vita do Cola di Renzo, C.
+XXXVII: ^E meglio manicava e meglio dormeva.~  Folcacchiero de'
+Folcacchieri, Sanese:
+
+     Li drappi di vestir non mi s' agenza,
+     N@e bono non mi sa lo manicare.
+
+Nel lamento di Cecco da Varlungo (St. XI):
+
+     E vadia pure il manicare al diascolo.
+
+Se fu cotesta voce, com' @e tuttavia, del contado fiorentino ec., non
+lasciarono per@o d'adoperarla qual voce polita molti altri autori;
+come fece Bono Giamboni nelle sue scritture, per finezza, nettezza
+e magistero di lingua pregevolissime.  Intr. Alle virt@u, Cap. VII:
+^I padri nostri manicarono le uve acerbe, e li denti de' figliuoli ne
+sono allegati.~ -- Nella Miser. dell'uomo, Tratt. III., Cap. VII:
+^Non siate solleciti di dire Che manicheremo, o Che beremo~ ec. --
+Onde vogliamo inferire che sebbene per Dante fosse codesto
+^manicare~ del volgar fiorentino; pure l'adoper@o egli qual voce
+entrata gi@a nel dominio della lingua comune e non indegna del
+^Volgare illustre~; che non @e da confondere n@e col volgar
+fiorentino, e n@e con qualsivoglia altro di tutti gl' idiomi d'Italia.
+Il Ch. tommaseo: ^Questa voce @e condannata come plebea fiorentina
+nella Volgare Eloquenza.  Segno non unico che il poema @e scritto
+nel volgar fiorentino.~  Noi trattammo altrove questo argomento
+[Inf. XX, 130 -- XXXII, 9, note.].  Quantunque gran peso ci facciano
+le parole di questo illustre uomo; non sappiamo intendere come si
+potessero quali voci di lingua non forbita intrudere il ^manicare~,
+l'^introcque~, il ^dindi~, il ^babbo~ e simiglianti, in questi carmi
+divini, pe' quali udiamo il Poeta (Par. XXXIII. 67 segg.) implorare
+da Dio qualcosa di meglio, che non @e poi il volgar plebeo
+fiorentino:
+
+     O somma luce, che tanto ti lievi
+       Dai concetti mortali, alla mia mente
+       Ripresta un poco di quel che parevi;
+    E fa la lingua mia tanto possente,
+       Ch'una favilla sol della tua gloria
+       Possa lasciare alla futura gente.
+
+	|Levorsi~: ^si levarono.~  @E sincope di ^levorosi~, non,
+come altri not@o, di ^levoronsi.~  (Inf. XXVI, 36, nota).
+
+	|61-63.  Padre.~  Il Tasso not@o aver qui il Poeta alterata
+la storia, ^forse per muover maggior compassione~ (v. 38, nota).
+Figliuoli o nipoti che fossero, quando ei |disser Padre~ pi@u
+toccarono l'animo di lui, che se chiamato l'avessero con altro nome.
+^Magis tetigerunt animum suum, quam si dixissent: O Comes.~  Benv.
+da Imola.
+
+	|Ci fia men doglia, se~ ec.: ^sar@a a noi minor dolore, che a
+vedere te morir di fame~; o meglio, come chios@o l'Imolese: ^quam si
+comedas de te.~  -- Nelle Rime, Canz. XIX, il Nostro, volto ad Amore
+e pregatolo a rendere meno orgogliosa la sua donna, gli dice:
+
+     Poscia, se tu m' uccidi, ed haine voglia,
+     Morr@o sfogato e fiemene men doglia.
+
+E in questo trinario venne al Poeta non s@i felicmente adoperata una
+tal forma, come nella canzone amorosa.  L'artifizio da lui usato nel
+condurre e ordinare le idee, trovare e comporre i vari accidenti di
+quell'amarissimo caso, aiuta ben due tanti l'atrocit@a del fatto e il
+senso della piet@a; e tanto @e mirabile, quanto meno si pare e non
+@e punto avvisato.  Dante va d' un passo con la natura in tutto questo
+pietoso racconto di Ugolino; e a servar la norma del natural modo
+negli affetti della compassione che intese commuovere, studi@o
+sottilmente nell'indole di questa passione, e schiv@o i raffinati
+ornamenti, i contrapposti, le arguzie e le vane pome di pellegrini
+concetti, che guastano il bello dell'arte, e fuor di natura la
+tirano, dovecch@e negli affetti vuol sola e spontanea signoreggiare.
+Ma quell'offerirsi che fanno i figliuoli in cibo al padre che si
+morde le mani, par cosa nonch@e ferina, in tutto strana, esagerata,
+e fuor del naturale; e in questo luogo apparisce manifestamente il
+Poeta che parla, non i figliuoli che facciano l'orribile proposta.
+
+	Il Tasso nondimeno mai non rifiniva di levare a cielo questo
+terzetto, siccome per pi@u secoli han fatto i savi d'ogni nazione, e
+perfino i maggior nemici di Dante.  Pot@e forse in loro, pi@u che
+la ragione d'una critica imparziale e severa, la novit@a del
+pensiero, e il lasicarsi per maraviglia trasportare dietro al
+diletto che messo @e nell'animo da un artifizio s@i risentito.  La
+sconvenenvolezza d' un concetto che appaga, sfugge talvolta alla
+riflessione; come lieve difetto in bella pittura suol celarsi agli
+sguardi degli ammiratori.  Valerio Massimo conta di quella
+figliuola, che al vecchio padre porse la poppa, e col suo latte gli
+mantenne la vita: ma questo esempio di filiale piet@a non ha nulla
+che fare con s@i fiera cosa, qual sarebbe che i figli s'offerissero
+al padre in cibo, promettendogli che ci@o sarebbe loro men doglia
+che a vederlo mordere e manicar s@e medesimo.  N@e vale quella
+ragione, che ad indurnelo si fa da loro arrecare: ^Tu ne vestisti
+queste misere carni, e tu le spoglia~; dacch@e ci@o importerebbe un
+rinnegare il sentimento della propria individualit@a, alla quale
+forte la natura ci stringe; e fare che contro l'istinto
+della prorpria conservazione, che ci accompagna sino all'estremo
+termine della vita, noi concediamo ai padri il dritto di poterlaci
+torre.  Nell'assalto di Gerusalemme trovaronsi genitori, che negli
+stretti pi@u disperati della fame divorarono i propri figliuoli; ma
+non si legge che questi s'offerisser lor in pasto.  E pi@u, in quei
+padri e in quelle madri avea la rabbia del male messo gi@a in bando
+dlal'animo con la ragione l'affetto naturale verso la loro prole: la
+qual cosa non ebbe luogo in Ugolino, che ^per dolor si morse~, e in
+cui la fame fu niente al paragone dell'angoscia mortale che nel
+cuore lo travagliava.  Si dir@a che bello @e il sacrifizio della
+propria vita per salvar l'altrui, e che bene poteano esser quei
+figliuoli prodighi del proprio sangue per campar dalla morte il
+padre loro.  Ma la profferta ch' ei gli fanno, non @e generosit@a
+virtuosa, @e una frenesia, un sentimento di carnale piet@a che
+l'offende; poich@e lo suppone peggior di un belva crudele, capace
+di tranguggiarsi le carni de' propri figli, che @e cosa da cui la
+ragione naturalmente rifugge.
+
+	<Non mi pare che quei giovanetti e forse fanciulli dovessero
+non pur fare, ma n@e cader loro in mente quella fiera cosa, di offerire
+i lor copri da mangiare al padre...: il che appena par che potesse non
+pure dire in tal caso, ma n@e scrivendo pensare un uomo; il quale per
+essere molto usato nel mondo, e spesso trovatosi in termini assai
+forti, ed avere amato focosamente, avesse l'animo avvezzo a quelle
+dissoluzioni di smaniosi affetti e feroci:  il che de' giovanetti puri
+e semplici non @e verisimile... -- Se non che questo medesimo
+contrapposto del, ^tu ne vestisti~, coll' ^e tu le spoglia~ (da che i
+cos@i raffinati concettini e giuochetti di parole piacquero sempre)
+pigli@o cos@i l'animo de' lettori, e di Dante medesimo nel caldo dello
+scrivere, che non avvisarono l'irragionevolezza del concetto.  -- Que'
+giovanetti, quando cos@i offersero al padre le loro carni a mangiare,
+doveano il meno aver cominciato sentire i morsi e 'l languor della
+fame.  Or in questo termine, che dava loro tanto da pensare di s@e
+medesimi, e l'animo teneva s@i amaramente occupato, hanno tanto di agio
+e di voglia di far al padre quella proposta? nol posso creder
+possibile, e (che @e vie pi@u) la detta proposta gliela fanno con quel
+vago contrapposto di studiato concetto?  Tutto questo m'induce a
+credere, che forse forse (chi ben cercasse) queste difficolt@a medesime
+a qualcun altro dieder negli occhi>.  Cesari.  -- E invero fa
+maraviglia che Benvenuto da Imola, avvegnacch@e confessi, queste parole
+^Tu ne vestisti~ ec.  poter muovere un cor di sasso, e ch' ei medesimo
+ne lagrimava; non creda poi che le fosser da giovanetti, bens@i
+dell'autore che seppele oratoriamente ordinare al patetico [TU NE
+VESTISTI QUESTE MISERE CARNI, E TU LE SPOGLIA.  -- ^Et hic nota,
+Lector, verba motura esse cor saxeum, quae sine lacrymis scribere non
+possum.  Sed numquid isti juvenes dixerunt ea? hoc non credo.  Sed
+Auctor, tamquam bonus Orator scivit ea bene dicere; et ponit effectum
+pietatis dictorum verborum, dicens:~ QUET@AMI ALLOR... -- Benv. da
+Imola.].  E questo @e argomento del buon gusto, e d 'una cotal critica
+temperata e giudiziosa, che in secoli da noi remoti, agl' Italiani non
+fu mestieri recar da Oltremonti -- Il Tommaseo scrive: <I figliuoli gli
+si offrono in cibo: e se qualche macchia dovessimo qui notare, sarebbe
+quella forma di mezzaa amplificazione:  ^Tu ne vististi queste misere
+carni, e tu le spoglia~, che sa d'artifizio, sebbene sia da notare che
+a que' tempi nutriti nella lettura de' libri biblici, l'imagine del
+corpo umano figurata come una veste era comune tanto da non parere
+inverisimile anco in momenti di dolore supremo.  Ma, dopo confessato
+che questa terzina, da taluni lodata come delle pi@u belle, @e la meno;
+corre debito di soggiungere che la piet@a de' figliuoli e la quasi
+oltraggiosa ignoranza loro dell'amore paterno doveva essere a lui
+doppia pena, e che il comprimere il dolore per non farli pi@u tristi
+doveva far crescere la sua ambascia [Illustr. al Canto XXXIII.]>.  --
+Noi diciamo che pot@e Dante, come Omero, sonnacchiare alcuna volta; n@e
+per questo gliene verrebbe di nulla scema la sua gloria.  Niun uomo @e
+s@i grande che in qualche cosa talor non travegga.  Che se l'assoluta
+perfezione e fuori la natura di tutte le opere umane; dove queste pi@u
+a quella s'appressino, ripeteremo con Orazio [De Arte poet. v. 351
+seg.]:
+
+     ^....Ubi plura nitent in carmine, non ego paucis
+     Offendar maculis, quas aut incuria fudit,
+     Aut humana parum cavit natura...
+     Indignor, quandoque bonus dormitat Homerus.
+     Verum opere in longo fas est obrepere somnum.~
+
+	Le opere de' grandi splendono come astri nel firmamento della
+umanit@a.  Si scuoprono delle macchie anche nel Sole; ma che sarebbe
+senza questa perenne sorgente di luce, di calore e di vita?
+
+	|64.  Queta'mi~:  ^mi quetai; lasciai di pi@u mordermi le
+mani.~  Ch@e fu egli ^cheto~, ma non ^tranquillo~; essendo ^quies~,
+ond' @e fatta la voce ^chetare~ o ^quetare~, propriamente cessazione
+d'opera materiale o d' atto sensibile; ^tranquillitas~, riposo
+dell'animo.  Cos@i vuol qui dire Ugolino, che anche repressosi di
+quell'atto feroce, non era egli per@o dentro men crudamente lacerato
+dall'acerbo dolore; massime che vie pi@u lo impiagava quella dolce
+piet@a degl' innocenti figliuoli che gli dicono: ^mangia di queste
+nostre carni come di cosa tua propria.~
+
+	Var. lez.  ^Quetami~ il Cod. Cassin. e molti altri.  E
+^quetami~ i testi di autorevoli comentatori, come del Land. e
+Vellut.; ^quet@ami~ scrivono col Bargigi, il Lomb., il Vent., il
+Volpi, il Biag., il Niccolini, il Tommaseo.  Il Cesari, il Bianchi
+ec. leggono ^queta'mi.~  Vedi Inf. XIV. 3; XVII. 122; XXIV. 58,
+note.
+
+	|65.  Quel di'~ [<Noto che ^di'~, giorno, va scritto con
+l'apostrofo, essendo troncamento di ^die~ o ^dia~: che ^d@i~ seconda
+persona sing. del pres. dell'Indicativo e dell'Imperativo, richiede
+l'accento per esser voce intera.., e per distinguerla da ^di~
+segnacaso, che non vuole n@e apostrofo n@e accento.  I grammatici
+poi malamente scrivono con l'accento ^d@i~ per giorno, e
+coll'apostrofo ^di'~ per ^dici~>.  Nannucci ^Anal. crit. de' Verb.~,
+pag. 321. Fir. Le Monn., 1843. -- Il Bianchi segu@i questa graf@ia,
+e noi l'imitiamo, non ostante che molti pregevoli comentatori
+scrivano ^d@i~ secondo i testi antichi, i quali in questa parte non
+fanno autorit@a.]  ^Lo d@i~ hanno il Cod. Cassin., l'ediz. di Mant., del
+Burgofr. Ven., 1529, del Rovell., Lion. 1551, e del Witte; tra le
+cui ^Variorum~ @e registrata la lez. ^l'un d@i~, con l'altra ^quel
+giorno~, che trovasi nell'ediz. del De Romanis, Roma 1822.  La
+nostra @e di questi tutti gli altri testi antichi, e adotata
+nell'edizioni del Zatta, Ven. 1757, del Fulgoni, Rom. 1791, e dalla
+pi@u parte dei comentatori.
+
+	|Stemmo tutti muti~:  ^Due d@i stanno tutti muti, non solo
+per la rinchiusa ambasica alla quale ogni sfogo sarebbe poco, non
+solo per non si angosciare a vicenda, ma perch@e la fame li ha mezzo
+sepolti, in quel suo letargo ch' @e tra l'obblivione e il sentimento,
+tra la morte e la vita.  E di qui cresce potenza all'esclamazione~ |Ahi
+dura terra~!  Tommaseo.  -- Ne' due primi di' sta muto il padre
+soltanto, che non risponde neanche alla dimanda d'Anselmuccio, il quale
+gli dice, ^che hai?~ ed egli invece di proferir verbo, prorompe in atti
+di disperato dolore:  negli altri due di' seguenti questa orribile
+mutolezza non @e sola in lui ma in |tutti~; e non la rompono poscia, se
+non le parole estreme d'un moribondo (v. 69)! -- ^Un padre con quattro
+figliuoli in fondo di torre con la morte negli occhi per la certezza di
+dover morire di fame, che insieme si guardano senza parlare, @e una
+scena di inesplicabile orrore, che a pena si pu@o concepire.~  Cesari.
+
+	|66.  Ahi dura terra~ ec.  Al solo rimembrarsi di quello
+stato infelice, Ugolino esce naturalmente in questa veementissima
+esclamazione: segno d'animo tuttavia forte concitato e commosso.
+
+	|Perch@e non t' apristi~?  ^Ut ostenderes te sentire tam
+impiam crudelitatem, et clamare vindictam ad Deum.  Et hic nota,
+quod non solum cibus corporis fuit denegatus, sed quod fuit
+crudelius, cibus spiritualis quum saepius petiissent.~  Benv. da
+Imola.  -- <Volendo Ugolino ora raccontare la morte, stretto da
+dolore grid@o: ahi dura e crudele terra, perch@e non ti apristi per
+ingoiarmi, piuttostoch@e lasciarmi veder ci@o che io vidi?> Bargigi.
+
+	|Dura terra.~  Nella irreparabili sventure l'uomo, quasi
+fuori di sua ragione, si volge anche agli esseri inanimati; e
+pretende trovare in quelli la piet@a, e la vendetta che non ottiene
+dai suoi simili.  Perci@o (Virg. Ecl. V.):
+
+     ^Atque Deos atque vocat crudelia mater.~
+
+E talora i poeti attribuiscono ad essi vita, senso e ragione, Nella
+morte di Cesare s'ecclissa il sole per la piet@a, e trema, e s'
+apre
+la terra, come nella suprema passione del Cristo.  (Virg. Geor. I,
+466 seg.).  Ugolino dice alla terra: ^perch@e non t'apristi~,
+poich@e voleva ch' ella medesima non dovesse sostenere, n@e reggere a
+quello strazio; e si fosse aperta a tranghiottirlo, e seppellire
+nelle sue profonde voragini con la sua miseria e gli uomini e la
+loro iniquit@a.  Son modi esprimenti il desiderio del finimondo,
+quando si @e caduto nello stremo della disperazione.  Cos@i Giuturna
+(En. XII, 883.):
+
+               ....^O quae satis alta dehiscat
+     Terra mihi? Manesque Deam demittat ad imos?~
+
+Per la corruzione che regna nelle citt@a, un poeta [Luigi Tansillo,
+^Podere, Cap. III.~] non sa capire come il mondo non vada in
+subisso:
+
+     Mi maraviglio (a tal vedo ridotta
+       La fera turba che qui dentro alberga)
+        Come il terren non s'apra, e non ne inghiotta;
+     O come il mar tant'alto un d@i non s' erga,
+        Che avanzi questi monti, e 'n noi s'attuffe,
+        E in un punto ne affoghi, e ne sommerga.
+     La poca f@e, le ruberie, le truffe,
+       Le proprie utilit@a, le altrui gravezze, 
+       Le tante uccision, le tante zuffe;
+     Le pompe, le lascivie, e le mollezze
+       Non men nelle berrette, che ne' veli,
+       Le bestemmie, il mal dire, e le alterezze;
+     E le altre scelleraggini crudeli,
+       Il cui lezzo l@a su credo che saglia,
+       Non so come soffrir possano i cieli.
+
+	|67.  Al quarto di' venuti.~  ^Quarto~, computando il primo
+gi@a scorso quando fu sentito inchiodar l'uscio della torre.  Se si
+contasse da questo punto in poi, cadrebbero gli altri figliuoli, men
+verisimilmente, tra il sesto di' e il settimo, da che preso aveano
+l'ultimo cibo; che non tra il quinto e il sesto, come dice il Poeta.  E
+dippi@u il Conte si farebbe morire dopo nove giorni, secondo la lettera
+^due d@i li chiamai~ (v. 74), o dopo dieci giorni di durissima fame,
+secondo la lettera ^tre d@i li chiamai~: il che darebbe nello strano.
+Il Dal Rio @e col Toselli, di credere che questo ^quarto d@i~ abbiasi
+ad intendere pel ^quarto giorno~ da che il Conte e i figliuoli erano
+stati gitati nella torre: la quale interpretazione si accorda con la
+chiosa dell'Imolese.  V. not. al v. 26, pag. 605.
+
+	|Di' venuti.~  Le prime edizioni di Mantova e di Jesi hanno
+^Divenuti.~  Questa lettera piacerebbe al Torelli; perch@e ^d@i~ @e
+stato gi@a detto pi@u sopra.  ^Divenire~ poi per ^giugnere, arrivare~,
+trovasi anche altrove (Inf. XIV, 76; XVIII, 68 -- Purg.  III, 46 --
+Par. XIII, 62) usato dal Nostro.  Ma noi non siamo schifiltosi a queste
+ripetizioni.  Il Poeta ripete (vv. 72, 74) ben due altre volte la
+stessa voce.  Conte Ugolino parla concitato dalla passione, e se usar
+dee modi ellittici, non sono egli certo cotesti, dove ha egli
+necessario di significare con pienezza d'espressione; que' giorni, che
+gli stanno ancor fitti nella memoria.  Anocra, dopo la frase ^quel di'
+e l'altro~, verrebbe in ordine ^il terzo.~  Finito il costrutto, il
+Poeta dice: ^al quarto di'~, riferendosi a un punto ben pi@u lontano.
+Noi non crediamo ragionevole partirci dalla comune lezione per seguir
+quella di pochi codici, e l'opinione di chi va cercando parsimonia di
+parole, dove l'animo appassionato di chi favella non debb'essere avaro
+a profonderle.  Il Poeta dipingea la natura quando i grammatici non si
+erano ancora creato un mondo fantastico nel vuoto della loro zucca, per
+credersi pi@u sapienti di Domeneddio, e osar di rinnegare le leggi
+dello spirito umano; che come sente e pensa dentro, cos@i va fuori
+significando co' colori della favella.
+
+	|68.  Gaddo~, il minore de'due figliuoli d'Ugolino. Tra i
+quattro giovanetti l'ultimo nato @e il primo a morire; perciocch@e
+al tormento della fame l'et@a pi@u tenera regge meno.
+
+	|Gaddo mi si gitt@o~ ec. <Il verso che si protende come corpo
+presso a spegnersi negli ultimi movimenti, ^Gaddo mi si gitt@o
+disteso a'piedi...,~ dice qualcosa anco a'sensi>.  Tomm.
+
+	|Disteso a' piedi~: <Svenuto, spiega il Lombardi, dalla
+fame.  Morto., dico io, e lo dice il Poeta due versi sotto>.  Biag.
+-- Piano, sig Biagioli!  La frasi ^misi gitt@o~ @e significativa d'un
+atto volontario, del quale @e incapace chi @e morto.  Direste voi: ^mi
+si gitt@o morto~?  Se fosse come voi sostenete, Dante avrebbe forse
+detto piuttosto: ^mi cadde morto o disteso ai piedi~; e allora non
+facea mestieri di soggiungere (v. 70), ^quivi mor@i~; ci@o vuol dire
+che quel fanciullo fu gi@a prima caduto e prosteso ai pi@e del padre,
+che morto: il che se non fosse, come potea egli volgergli quelle
+pietose parole: ^Padre mio, ch@e non m' aiuti?~ Il quivi~ o si prenda
+come avverbio locale, o di tempo, significher@a che Gaddo svenuto della
+fame e non ptendo pi@u reggersi, si abbandon@o ai piedi del padre, e
+l@i spir@o; ovvero che la sua vita si spense col suono ultimo delle sue
+parole.
+
+	|69.  Che non m'aiuti~?  <La natura supera nel giovine la
+piet@a, n@e pi@u si ricorda d'aver detto anch' egli: ^Ci fia men doglia
+se tu mangi di noi~ [Tommaseo, ^Illustraz.~ C. XXXII. p.  480.] -- Pare
+contradizione il dargli mangiare le carni proprie e poi il dire di
+Gaddo: ^padre mio, ch@e non m'ajuti~?  Io non so s' io abbia a dire che
+cotesta @e una delle contradizioni tante della misera nostra natura, la
+quale, dopo sinceramente proffertasi al sacrifizio, richiede poco
+appresso da altrui quello di che ell' era pronta a fare dono; o s' io
+abbia a dire piuttosto che l'aiuto invocato dal moribondo non @e di
+pane, impossibile omai a trangugiare, e di cui nel delirio del dolore
+egli ha smarrito il bisogno e quasi l'idea, ma l'aiuto de'conforti e
+dell'affetto del padre il quale, tenendosi tanto lungamente mutolo in
+mezzo ad essi, par noncurante di loro, e come fantasma li spaventa.
+Onde il prego, suonando rimprovero, giungeva come nuova saetta al suo
+cuore [Tommaseo, ^Illustraz.~ C. XXXIII, p. 500.]>.
+
+	|70.  Quivi~: ^ai miei piedi.~  Bene l'Imolese: ^Scilicet,
+ante pedes meos, me vidente et audiente.~  Ovvero.  ^Quivi: in quel
+punto~, come nel Purg. V. 52 segg.:
+
+     Noi fummo gi@a tutti per forza morti,
+       E peccatori infino all'ultim' ora:
+       Quivi lume del ciel ne fece accorti ec.
+
+E ^quivi!~ eziandio per ^allora~, Inf. V. 35, 36. -- ^Ibi~ per
+^Tunc~ usararono anche i Latini.
+
+	|70-71.  Come tu mi vedi, vid' io~ ec.  ^S@i certamente come
+tu vedi me.~  Cesari.  -- ^Quasi dicat: sicut tu vides nunc me
+loquentem coram te, ita ego vidi illos coram me morientes.~  Benv.
+-- In s@i atroci miserie non furono ad Ugolino amiche le tenebre
+della torre, che celassero agli occhi suoi l'acerbo lutto: egli
+mirava gli atti e i visi de'figliuoli morenti, a quel grado di
+barlume funesto ch' era in Inferno, e per lo quale il Poeta potea
+vedere Ugolino.  I dolori di morte che per tanti figli estinti
+moltiplicavano nel cuore del padre, lo rendevano non meno fiero e
+infellonito in carcere, che nella ghiaccia mostrasse di essere sul
+capo dell'Arcivescovo traditore.
+
+	|Come tu mi vedi, Vid' io cascar li tre~, ^dipinge anco gli
+atti che precedono al cadere loro; e ha doppio significato: come
+vedi me qui, cos@i io in quel buoi con gli occhi offuscati dal
+digiuno li vidi, nel fiero lume del dolore mio e loro, cascare e
+morire: come tu vedi me qui disperato, fremente di dolore iracondo,
+nell'atto di sfogarlo sul teschio dell'arcivescovo, cos@i disperato
+ero in allora e sparuto e livido e compreso della morte mia e della
+loro~ [Tommaseo, ^Illustraz.~ C. XXXIII, p 498.].
+
+	|71.  Li tre~: ^L'altro figlio e due nipoti; gli altri tre
+fratelli di Gaddo.~  |Ad uno ad uno.~  Secondo che per ragion di
+et@a, o varia complessione, pot@e l'un pi@u che l'altro sostener la
+fame; e quindi non cascaron morti tutti in un punto.  Ci@o mentre
+s'accorda con le leggi fisiologiche, @e anche detto, come chiosa
+Benvenuto, ^Ad augumentum doloris sui~; perciocch@e la piaga che la
+morte di Gaddo avea test@e fatta nel cuore del Padre, viene pi@u e
+pi@u inasprendosi, come si muoiono man mano gli altri: ed egli
+assaggia a stilla a stilla le amarezze di morte durissima,
+parendogli di agonizzare e morir gi@a in quattro figliuoli, prima
+che morisse egli stesso.
+
+	|73.  Gi@a cieco~: Per lungo digiuno e per dura intensit@a
+di pene veniagli meno la potenza visiva, come face al mancar
+dell'alimento.  Al quarto di' venuto pot@e col solo senso degli occhi
+veder Gaddo morto ai suoi piedi.  La vista gli si venne quindi pi@u
+e pi@u intorbidando, e tra il quinto e il sesto giorno vide cascar
+gli altri tre, ma non s@i chiaro che con certezza potesse giudicarli
+gi@a finiti.  La vista, (vedi miracolo di poetica invenzione!)
+eragli bastata appena sino al termine di questi casi amari.  Orbo di
+figli, @e ora divenuto cieco: quasi che con la morte di quelli si
+spegnesse la luce degli occhi suoi.  Omai non ha pi@u nulla a veder;
+ma quell'offuscamento, o che dir si voglia cecit@a completa, se leva
+un sipario tra lui e lo spettacolo orribile di quattro cadaveri, non
+per@o pone termine alla tragica scena; perciocch@e, entratogli
+nell'animo quel dubbio tremendo, il misero padre a mille doppi
+trambascia, e privo di forze com' era, abbandonatosi alla violenza
+del dolore si getta su' figliuoli, e con mani tremanti, qual d'uomo
+vicino a morire, va tra le addoppiate tenebre or questo
+abbracciando, or quell'altro.  Gli brancica e palpa, cercando se
+dessero ancor segno di vita; e mentre @e tormentato da quell'ansia
+crudele, gli trapassa nell'anima un gelo di morte.  Non troviamo in
+che altro modo si compia il vuoto, anzi la contradizione apparente
+tra il ^Vid' io cascar li tre~ e ^l'ond'io mi diedi gi@a cieco~ ec.
+Il Poeta accenna i punti pi@u salienti del suo concetto, lasciando
+al leggitore di contemplarne per s@i l'orrore di tutto il resto che
+ei non s' attenta d' esprimere, e ricpore sotto mestissimo velo.
+
+	Ma @e egli verisimile che Ugolino potesse per fame diventar
+cieco d'un tratto?  E perch@e mai, tra per lo lungo digiuno, tra per
+quegl 'ineffabili dolori di spirito, non gli si poteano, in torre
+anche buia, offuscare ed appannare gli occhi di guisa, che non
+vedendo egli pi@u lume si dicesse divenuto |Gi@a cieco~?  Il
+Vellutello avea chiosato dicendo: ^Ed egli gi@a fatto cieco, perch@e
+dell'uomo la prima parte a morire sono sempre gli occhi.~  Il
+Lombardi: ^Gi@a per mancanza d' alimento intorbidata essendogli la
+vista.~  Cos@i anche il Torelli.  Ma il Biagioli spiega altrimente:
+^Gi@a fatto cieco dal mio disperato dolore.~  Or perch@e mai con la
+causa morale non potesse concorrere anche la fisica a produrre un
+tale effetto, noi non vediamo.  Men ragionevole @e l'asserire che il
+concetto poetico si affievolisca  per la spiegazione del Lombardi;
+villano poi lo scompisciarsi delle risa: ^cah, cah, cah,~ nel
+riportare le parole del Vellutello.  -- <Quanto all'esser lui fatto
+gi@a ^cieco~, io il credo effetto del languore mortale, e del
+dilaceramento delle viscere, per la fame in lui avvenuto: e non
+credo, che qui abbiano luogo le grasse risa, n@e il ^cah, cah, cah~
+che taluno fece sopra questa sposizione.  -- Come le grasse risa?
+Ci fallissero anche le ragioni naturali, che portano per la fame lo
+appannarsi degli occhi, noi l'abbiam provato per la Scrittura.
+Gionato essendo rifinito per la fame, non vedea lume: venutogli
+trovato del mele gocciato sopra la terra, ne prese alcune gocce; e
+dice la Scrittura, che queste l'ebbero riavuto, ^et illuminati sunt
+oculi eius.~  Altro che ^cah, cah, cah~ (I. Reg. C. XIV).  -- Il
+ridere @e cosa assai facile, e non c'@e uomo s@i misero e oscuro
+che benissimo nol sappia fare: ma spesso chi ride cos@i ci fa
+ridere: e ne' siffatti troppo bene @e verificato il proverbio
+de' pifferi di montagna, che andarono per sonare, e furono sonati>.
+Cesari.
+
+	La possibilit@a di quell'acciecamento non crediam noi
+accettabile per la pruova biblica, siccome pretende il padre Cesari;
+ma s@i perch@e non va fuori la sfera delle cose naturali.  N@e Dante
+stesso pretenderebbe operato un miracolo nel fatto di Ugolino, quale
+v' ha degli espositori che lo riconoscono avvenuto nel caso di
+Gionata.  Il Poeta ritrae qui un fatto vivo, e la cui realt@a non
+gli vien contrastata dalle leggi ordinarie della natura, ne'supremi
+dolori che un uomo sostiene.  Quel brancolare che fa il Conte,
+vedetelo nell'infeliscissima Niobe, la quale (Ovid. Met. VI, 276
+seg.):
+
+     ^Corporibus gelidis incumbit, et ordine nullo,
+     Oscula dispensat natos suprema per omnes.~
+
+E cos@i l'uno gi@a fatto cieco, siccome dell'altra si dice (Ivi vv.
+301, seg.):
+
+                      ......^Orba resedit
+     Exanimes inter natos, natasque virumque.~
+
+Quella (v. 302):
+
+     ^Diriguitque malis: nullos movet aura capillos.
+     In vultu color est sine sanguine: lumina moestis
+     Stant immota genis: nihil est in imagine vivi.
+     Ipsa quoque interius cum duro lingua palato 
+     Congelat, et venae desistunt posse moveri.
+     Nec flecti cervix, nec brachia reddere gestus,
+     Nec pes ire potest: intra quoque viscera saxum est:
+     Flet tamen~ etc.
+
+Questi ^impietra~ per lo dolore e non piange.  L'Allighieri tolse
+alcune tinte pel suo quadro dal poeta latino; ma in poche e semplici
+parole: ^dentro impietrai, -- gi@a cieco -- mi diedi a brancolar
+sopra ciascuno~, tocca i punti pi@u sensibile del cuore, ed apre al
+pensiero del leggitore pi@u larga scena, dove la fantasia trovi per
+s@e pi@u di patetico, che non ispirano le molte parole d'Ovidio; il.
+quale sembra che ti lasci freddo come la sua Niobe, appunto per
+volertene troppo rinfocolare gli affetti anatomizzando il dolore come
+le parti irrigidite, e dentro e fuori, da' capelli ai pi@e della
+moglie d'Anfione.  Dante agguaglia, anzi identifica il concetto con
+la realt@a; e mentre imita chi lo precesse, d@a alle forme che
+toglie, atto di sostanza naturale e di vita, e v' imprime il suggello
+della eternit@a, cio@e del vero che trovi sempre in fondo dell'umana
+natura.  Nulla di nuovo disse adunque il Nostro con quel ^Gi@a
+cieco~ ec. che non fosse eziandio per altri prima gi@a detto; ma lo
+disse con pi@u forza e pi@u efficacia nel lampeggiar di brevi motti,
+di quel che non si facesse Ovidio, nonch@e l'Anguillara
+parafrasando:
+
+     Tosto che nelle figlie amate, e morte
+       Ferma la madre misera la luce,
+       E i dolci, e i cari suoi figli e consorte
+       Vede giacer distesi, e senza luce;
+       Lo stupor, e 'l dolor l'ange s@i forte,
+       Che pi@u per gli occhi suoi Febo non luce,
+       E lo stupor in lei si fa s@i intenso,
+       Che stupido rigor le toglie il senso.
+     Il crin, che sparso avea pur dianzi il vento,
+       Or se vi spira, ben muover non puote;
+       Stassi ne' tristi lumi il lume spento,
+       Le lagrime di marmo ha nelle gote.
+       Il palato, la lingua, il dente, e 'l mento,
+       Il core, il sangue e l'altre parte ignote,
+       Son tutti un marmo, e s@i di senso privo,
+       Che l'immagine sua null' ha di vivo.
+
+	|Brancolar sopra ciascuno.~  Questo atto magistralmente
+imitato dal ^Prensantem nequidquam umbras~ (Virg. Georg. IV, 501),
+produce una commozione di piet@a non men viva inverso il padre
+infelice, di quella che le parole del Mantovano ti destano per
+Orfeo; il quale brancola indarno a toccare l'amata Euridice
+dileguantesi come fumo fra le ombre dell'Erebo.
+
+	|74.  Due di'~ ec. Il Vellutello reputa corrotti que'testi
+che dicono ^E tre~ e non ^due d@i li chiamai.~  Il Landino: ^Egli
+gi@a cieco sopravvisse due giorni, cio@e tutto il sesto e il
+settimo.~  -- ^Du di~ ha il cod. Cassin.; ^due~ leggono le prime
+edizioni di Foligno, Jesi, Napoli, la Venez. del 1491; i codici
+Filippino, Pucciani, Riccard. 1004, 1024, 1025, 1026, 1027, 1031; i
+Patavini, 9, 67, 316; il Dante Antinori, la Nidobeatina, i MSS.
+Frullani e Poggiali.  @E anche lettera della Fulgon. Rom. 1791,
+della Minerva, Pad. 1822.  La prescelsero pe' loro testi il Bargigi,
+il Lombardi, il Niccolini, il Bianchi, il Witte, il Tommaseo ec.
+Con altri codici di minore autorit@a leggono ^tre d@i~ il Venturi,
+il Biagioli, il Cesari ec. Ma scrivendo il Buti: ^Dopo gli otto d@i
+ne furon cavati, e portati invuluppati nelle stuore al luogo delli
+Frati minori a S. Francesco, e sotterrati nel monumento ch'
+@e allato
+agli scaglioni, a montare in chiesa, co' ferri a gamba: li quali
+ferri vid'io cavati dal ditto monumento;~ non pu@o adottarsi la
+lezione ^tre d@i~, se non da chi voglia dire, che, rotto dopo gli
+otto giorni l'uscio della torre, si sia trovato ancor vivo il Conte
+Ugolino.
+
+	|Due di' li chiamai poi ch' e' fur morti.~  Il pensiero che
+lamentandosi farebbe pi@u tristi i figliuoli (v. 64) @e omai, morti
+ch' ei sono, del tutto svanito; onde nulla pi@u lo rattiene ch'egli
+non s'abbandoni alla foga del dolore, e nol disfoghi chiamando con
+immensurabile passione e con profondo sentimento di tenerezza
+paterna, que' figli che pi@u non sono.  Tancredi mosso da impeto
+interno d'intensa doglia per la morta Clorinda, geme ad ora ad ora,
+e scioglie la lingua a lamentarsi ora seco parlando, or con l'anima
+sciolta dai corporei legami: e (Tasso, Ger. XII, 90):
+
+       Lei nel partir, lei nel tornar del sole
+     Chiama con voce stanca, e prega, e plora;
+     Come usignol, cui 'l villan duro invole
+     Dal nido i figli non pennuti ancora,
+     Che in miserabil canto afflitte e sole
+     Piange le notti, e n'empie i boschi e l'ora.
+
+Questo effetto dell'amore che vince la ragione, e apre libera la via
+al sentimento e alla passione, @e cosa naturalissima e dipinta dai
+poeti ed illustrata per similitudini, siccome qui fece il Tasso
+imitando Virgilio; il quale (Georg. IV, 507 segg.) dice d'Orfeo:
+
+     ^Septem ilum totos perhibent ex ordine menses
+     Rupe sub a,eria deserti ad Strymonis undam
+     Flevisse, et gelidis haec evolvisse sub antris,
+     Mulcentem tigres, et agentem carmine quercus.
+     Qualis populea moerens philomela sub umbra
+     Amissos queritur fetus, quos durus arator
+     Observans nido implumes detraxit: at illa
+     Flet noctem, ramoque sedens miserabile carmen
+     Integrat, et moestis late loca questibus implet.~
+
+Simile della madre d'Eurialo (Virg. AEn. IX, 477 seg.), che
+all'infausta nuova del morto figliuolo:
+
+     ^Evolat infelix, et femineo ululatu,
+     Scissa comam, muros amens atque agmina cursu
+     Prima petit, non illa vir#um, non illa pericli
+     Telorumque memor; coelum questibus implet:
+     Hunc ego te, Euriale, adspicio? tunc illa senectae
+     Sera meae requies?...~
+
+Virgilio (AEn. XI, 180) ci fa udire l'infelice Evandro
+prendersela, per disperato dolore, con la divinit@a di Pallade, e
+dire che, morto Pallante suo figlio, non pi@u curava egli la 
+propria vita:
+
+     ....^Non vitae gaudia quaero:
+     Nec fas: sed gnato Manes perferre sub imo.~
+
+	Se a Dante furono presenti le scene luttuose di tanta
+miseria per le forme onde le dipinse ^lo suo maestro e il suo
+autore~; non pare cosa pi@u assurda che, in conseguenza di tanto
+amore quanto ne mostra Ugolino in chiamando i figliuoli ben due o
+tre giorni poi che furon morti, abbiasi ad imbandire una mensa
+de' lor gelidi corpi.  |Chiamai~, chiosa assai bene il Tommaseo, ^Non
+stava dunque a mangiarli.~  E noi pensiamo che la vita di Ugolino
+si spegnesse nel nome de' suoi figliuoli, come nel nome di Maria
+perd@e Buonconte la parola, e giacque (Purg. V. 100 segg.).  Tanta
+fu nell'uno la divozione che lo salva, quanto nell'altro l'amore
+che lo tormenta; perciocch@e un affetto che ha messo radici nel
+cuore, non si estingue che con la vita; anzi resta ad essa
+superstite come i Poeti ci significano di Orfeo, che diviso dal
+mondo per Euridice non pi@u sua, e dopo sette mesi di lagrime fatto a
+brani dalle spregiate donne di Tracia; pure mentre le onde dello
+Strimone ne volgono il sanguinoso capo:
+
+     ...Misera Euridice ancor dicea
+     L'anima fuggitiva, ed Euridice
+     Euridice la ripa rispondea {*}.
+
+[{*} Il Monti (Mascher. I) cos@i reca ne' suoi i versi Virgiliani
+(Georg. IV, 523 seg.):
+
+     ^Tum quoque, marmorea caput a cervice revulsum
+     Gurgite quum medio portans oeagrius Hebrus
+     Volveret, Eurydicen vox ipsa, et frigida lingua
+     Ah miseram Eurydicen! anima fugiente vocabat:
+     Eurydicen toto referebant flumine ripae.~]
+
+Ognun vede come in un solo verso: ^E due d@i li chiamai poi ch' e' fur
+morti~ @e pi@u effetto di passione, che ne'molti gi@a ddotti dagli
+altri poeti.  Nello spirito dannato che narra l'atrocit@a del suo caso,
+la memoria degli strazi patiti ringagliardisce il sentimento, e non
+consente n@e pi@u ample espressioni e n@e le similitudini e gli ornati,
+che si concedono a chi descrive non gi@a le proprie, ma le altrui
+sventure.
+
+	|75.  Poscia pi@u che 'l dolor pot@e 'l digiuno.~  Prima,
+dunque, pi@u che il digiuno avea potuto il dolore.  Son qui, a nostro
+vedere, significate due forze in colluttazione: la fame con la sua
+potenza consumatrice non valse tanto a distruggere Ugolino quanto
+l'intensit@a del dolore a mantenerlo in una vita di crudele martirio;
+ma poi comunque grande fosse la virt@u del dolore, trionf@o il
+digiuno.  I forti affetti fan meno sentire la necessit@a dell'alimento:
+quasi che l'anima concitata si ritragga dalla materia, o che innanzi
+alle turbolenze dello spirito stia il corpo paralizzato, come servo al
+cospetto di sdegnato signore.  Il Venturi chiosa: ^Pi@u pot@e il
+digiuno che il dolore; perch@e il digiuno m'uccise, e non il dolore,
+bench@e era cagione sufficiente ad uccidermi, e gi@a anch'egli veniva
+uccidendomi.  Non vuol dir dunque, che si mettesse a mangiar le carni
+de'suoi figliuoli, oramai troppo frolle; e n@e meno, che da ultimo gli
+fosse tanto pi@u sensibile il tormento della fame che gi@a non sentisse
+pi@u il suo cordoglio; ci@o che ancora sarebbe contro il decoro della
+persona: ma n@e meno a mio parere vuol dire, che il dolore l'aveva
+conservato in vita pi@u tempo, per il contrastare che fa naturalmente
+contro la fame la fortezza del dolore collo stringere il cuore, e tutto
+il resto, che dissolvendosi ne vien la morte, ma che in fine l'aveva
+vinta il digiuno, non ostante la virt@u preservativa del dolore:
+perch@e io anzi stimo che,~ ceteris paribus, ^morirebbe pi@u presto chi
+insieme fosse trafitto dal dolore e afflizione dell'animo, che chi
+avesse a morire di sola fame.~  Secondo quest'ultima conclusione le due
+forze dissolventi, fame e dolore, avrebber dovuto concorrere a far
+morire Ugolino gi@a prima del tempo in che si dice esser morto.  Il
+dotto comentatore non ammette ^contrasto tra la fame e il dolore~; ma
+dal testo @e chiaro che il dolore non cospir@o col digiuno ad
+accellerar la morte, s@i combatt@e contr' esso a prolungare la vita.
+Per lui era il dolore ^causa sufficiente ad uccidere~ l'illustre
+prigione, e veniva gi@a uccidendolo; ma del dolore fu pi@u micidiale il
+digiuno.  La fame, dic' egli, non strinse per@o il padre a mangiare le
+carni de' figli oramai ^troppo frolle~; come, se meno frolle state
+fossero, divorate l'avrebbe.  Il Conte sente da ultimo, pel Venturi,
+sommo il tormento della fame, ma nell'intensit@a di questa gli d@a
+qualche puntura anche il cordoglio.  Dunque, la vittoria del digiuno
+sul dolore tornerebbe a questo, che Ugolino avea minor voglia di
+piangere, che di mangiare; e che non il dolore, ma la rabbia della fame
+fu possente a ucciderlo.  Il Venturi abborre dal dargli la nota di
+feroce o di vile; ma la sua sposizione lascia sospettare che potess'
+esser l'uno e l'altro.
+
+	Se il digiuno pot@e pi@u del dolore, ci@o significa, dicono
+altri, che alla fine il padre, vinto dalla fame, si mise a mangiare
+le carni de' figli morti.  Cotesta opinione, fu messa innanzi da
+Martin Novarese; ^al quale~, diceva il Landino, ^Iddio accresca la
+prudenza, e diminuisca l'arroganza.~  E tuttoch@e ^absona~ la
+reputasse quell'autorevole espositore; v'ebbe anche tra i moderni
+de'chiarissimi uomini, che osarono sostenerla per loro argomenti [Al
+Dal Rio parve la pi@u degna di Dante.  Tommaso Gargallo tenne come
+articolo di fede che il ^pot@e~ accenni in questo luogo al ^mangiare
+de' figli~; e in una ^Lezione Accademica~ discute ^Se il verso~ (75)
+^di Dante meriti lode di sublime, o taccia d'inetto.~  Anche Luigi
+Muzzi espone in una sua lettera le ragioni che militano per cotesta
+interpretazione, la quale non cadde in pensiero agli antichi savi
+espositori.  Ai moderni parve abbandonarla affatto come
+inverosimile, e la chiama schifosa il Ch. Tommaseo.].  Noi
+ributtiamo una tale interpretazione, come di cosa che n@e Ugolino,
+secondo l'avviso di sapienti Fisiologi, avrebbe potuto fare, e n@e
+Dante, secondo i maestri di Poetica, potuto dire.  In momenti s@i
+amari, non @e possibile che, a prezzo di s@i fiero pasto, Ugolino
+cercasse sostentare una vita che altri pur si troncherebbe a forza
+per volerla finita; massime che, sendo egli cieco, pi@u viva era
+l'immaginazione, quanto l'occhio meno vedea.  Egli era gi@a tutto
+chiuso nel suo pensiere: l'anima gli si gira sopra s@e stessa: non
+vede dove che sia, se non dolore senza consolazione e senza
+speranza: fluttuante tra gli spasimi d'una realt@a insopportabile, e
+i paurosi fantasmi, e gli orrori del nulla, sorbe a stilla a stilla
+gli strazi del pi@u crudele martirio; e lo spavento che gli corre
+per le ossa, non aguzza mica la voglia di quelle dape nefande, ma
+moltiplica e accelera le angosce dell'estrema agonia.
+
+	Dante avea ventitr@e anni nel 1288, quando avvenne la fine
+tragica d'Ugolino.  Il Villani scrive che il Conte e i figliuoli
+furon tratti morti della torre e vilmente sepolti.  Il Buti dice
+dippi@u, che involti nelle ^stuore~ e con catene di ferro ai piedi
+vennero interrati al tale luogo (v. 74, nota): che a lui furon
+vedute quelle catene.  Gl'infelici prigioni, scrivono i
+contemporanei, aveano la pelle attaccata alle ossa: tutti sparufi,
+negri, quasi scheletri che incutevano lo spavento della loro fine.
+Nessun cronista ci lasci@o detto che alcuno de' morti figli venisse
+cavato fuori della muda mutilo d'un membro, smozzicato le orecchie
+od il naso, o senza brandello di polpa che fosse servita all'improbo
+ventre del crudo padre.  Non @e concepibile che la storia e la
+tradizione avrebbero trasandato di trasmettere ai posteri una
+circostanza cos@i notabile; la quale non poco discolperebbe i nemici
+di Ugolino dell'aver fatto crudelmente morire un uomo s@i barbaro e
+s@i feroce.
+
+	Or Dante non avrebbe osato di mentire alla storia d'
+un fatto
+noto all'universale.  Che se questo verso dovesse intendersi come
+piacque al Novarese, noi diremmo che assai pi@u infamia
+frutterebbero a Conte Ugolino le sue stesse parole, di quel che non
+fanno al traditor ch' ei rode; e che il Poeta invece di porlo come
+cane affamato sulla cherica di Ruggieri, avrebbe pi@u giustamente
+applicato cento tigri d'Inferno alla cervice e al petto di quel
+padre che si fosse disfamato su' cadaveri de' propri figliuoli.  Ma le
+parole del testo non favoriscono punto siffata interpretazione.  Il
+Poeta non dice che pi@u del dolore potesse la ^fame~, ch' @e
+^desiderio di cibo~; ma bens@i il ^digiuno~ ch' @e ^privazione di
+cibo.~  Or l'^inedia~ pu@o stare senza la ^fame~; anzi questa, dopo
+alcun tempo che s'@e durata, incomincia a diminuire in ragione
+inversa di quella.  Cos@i in Ugolino, quando fu egli venuto
+all'ottavo d@i, il dolore avea gi@a toccato l'estremo della sua
+intensit@a, e quanto era pi@u lungo il sostenuto digiuno, tanto meno
+avvertivasi omai lo stimolo della fame.  Valenti comentatori, non
+attesero alla propriet@a delle voci, e ne scambiarono, e confusero
+le significazioni; onde si @e pi@u ostinatamente voluto attribuire
+all'autore la sentenza ch' egli non tenne.
+
+	Tra quelli che sdegnano la chiosa di Martin Novarese alcuni
+dicono: ^Che se il Poeta volea mostrare il dolor di costui essere
+stato tanto smisuratamente grande, come la fa, e che ragionevolemtne
+@e da creder che fosse, lo dovea far morir di dolore e non di fame.~
+A questi rispose gi@a il Vellutello, facendo osservare che di dolore
+morir si puote ne' subiti e inopinati casi, e che ci@o avvenir suole
+pi@u specialmente nella donna, per esser di natura pi@u fragile e
+meno considerata nelle  passioni, che non @e l'uomo: ^Ma delle cose,
+di che l'uomo @e ancor incerto, e che a poco a poco ne vien in
+cognizione del vero, come fu questa del Conte Ugolino, non accadon
+mai queste subite morti, ma s@i bene per lunga operazione.~  Secondo
+la variante de' codici Bartoliniano e Caetani:
+
+     Poich@e il dolor pot@e pi@u che il digiuno
+
+avrebbe il Poeta fatti gi@a paghi i desid@eri di questi dotti.  Il
+Monti dapprima fu di costoro; poi si part@i dalla nobile schiera,
+perocch@e, tutto posatamente considerato, stim@o preferibile la
+comune lezione.  <Vero @e (scrive egli in una lettera) che questa,
+secondo la chiosa di quasi tutti gli espositori non fa molto onore
+al dolor di Ugolino, mettendo con erroneo giudizio ad una stessa
+bilancia l'effetto del dolore e del digiuno, e spiegando che questo
+fu pi@u potente di quello a privarlo della vita: il che per certo
+non imprime nell'anima quell'alta idea che ognuno s'aspetta del
+^disperato dolor che il cor mi preme.~  Ma bene e fortemente
+l'imprimer@a se si considera questo dolore, non come mezzo ad
+ucciderlo, ma come mezzo a farlo sopravvivere tre giorni alla morte
+de' cari suoi figli: essendo verit@a incontrastabile che nei forti
+caratteri una grande passione somministra forze quasi soprannaturali
+a poter resistere all'ultima dissoluzione dell'esistenza.  Il che
+intese assai bene Torquato l@a dove disse:
+
+     O che sanguigna e spaziosa porta
+     Fa l'una e l'altra spada ovunque giugna
+     Nell'armi e nelle carni! e se la vita
+     Non esce, sdegno tienla al petto unita.
+
+E l@a pure ove parlando di Sveno cant@o:
+
+     La vita no, ma la virt@u sostenta
+     Quel cadavero indomito e feroce.
+
+E allo stesso effetto di valor disperato conviene riferire quei
+versi:
+
+     Moriva Argante, e tal moria qual visse,
+     Miniacciava morendo e non languia.
+
+Dietro le quali osservazioni, tratte dal fondo vero della fisica e
+della morale ecco l'interpretazione, che dividendomi [Il grand'uomo
+non si divideva da tutti gli espositori, ma piuttosto s'univa ai
+pi@u reputati fra gli antichi.  Il Buti, ad esempio, chiosa: ^Poscia
+lo digiuno finitte la mia vita, la quale conservava lo dolore; e
+cos@i rende ragione che potette tanto vivere, e dice che ne fu
+cagione lo dolore.~  Benvenuto da Imola: ^Ac si dicat quod fames
+prostravit eum, quem tantus dolor non potuerat interficere nec
+vincere.~  Nelle quali parole si adombra quella specie di
+combattimento tra il dolore e la fame.  Il postillatore di un codice
+del secolo XIV che ha la lezione ^Poich@e il dolor pot@e pi@u~ ec.
+annota cos@i questo passo: ^Quia dolor fecit eum vivere plusquam
+debuerit.~  Sicch@e il concetto che il Monti fa suo, verebbe anzi
+pi@u chiaramente espresso dalla lettera ch'egli rifiuta.  Ed anche
+il Guiniforti avea gi@a intorno a quattro secoli prima del Monti
+fatta questa limpida sposizione: ^Poscia che cos@i gli ebbi chiamati
+due d@i, alla fine dell'ottavo d@i il digiuno pot@e pi@u ad
+uccidermi che il dolore a mantenermi in pianto: ond' io morii.~] da
+tutti gli espositori, (e credo di non ingannarmi) io do al verso in
+quistione:
+
+     Poscia pi@u che il dolor pot@e il digiuno.
+
+Cio@e dopo essere io sopravvissuto tre giorni ai miei figli, dopo
+averli per tutto quello spazio di tempo chiamati, barcollando gi@a
+cieco sovra i loro cadaveri, finalmente pi@u che la forza del dolore
+e del furore a tenermi vivo, pot@e la forza della fame a darmi la
+morte.  -- Con questa interpretazione a me pare che il dolore di
+Ugolino acquisti una qualit@a di grandezza che la pi@u non pu@o
+darsi, e che salvi quel misero dalla taccia di esser morto pi@u di
+fame che di dolore; mentre appunto, perch@e fu immenso il suo dolore
+ed immensa la sua disperazione, pot@e in lui operarsi il prodigio
+di render vano per tre giorni l'effetto terribile della fame>.
+
+	Secondo altri la prevalenza del digiuno al duolo farebbe
+contro il disegno del Poeta.  Questi mir@o, dicono, a dipinger qui
+un nobil uomo, il quale prima per agonia di potenza fu traditore,
+indi dai suoi complici medesimi tradito e posto a crudissima morte.
+Brama d'impero, amor di padre, desio di vendetta sono le pi@u
+gagliarde passioni che vanno messe in campo per dar colori
+spaventevoli ai tradimenti, alle smodate ambizioni e a qual si sia
+odio di parte.  A lumeggiar le figure secondo che la gran tela
+domandava, non si potea di Ugolino fare n@e un pusillanime, n@e una
+iena.  In questa scena (dove, giusta l'avviso del Ch. Ab. Mirabelli,
+l'Alighieri ha dato un primo saggio dell'italiana tragedia) se il
+digiuno trionfer@a del dolore, se la fame uccider@a Ugolino; farem
+di lui un protagonista famelico che si muore nella brama del cibo
+negato, non mica un altero patrizio, e molto meno un eroe.
+
+	Ma quando le parole stesse di Conte Ugolino significano
+questa vittoria de digiuno sul dolore:
+
+     Poscia pi@u che 'l dolor pot@e il digiuno
+
+potremo noi interpretarle altramente?
+
+	Marcantonio Parenti il primo sospett@o [Catalog. di spropos.
+con note di Emm. Rocco.] che questo verso, standovi la |tmesi~,
+costruir si dovesse: ^Poscia che il dolor pot@e pi@u il digiuno.~
+Il che porterebbe la sentenza: ^Morti che furono i miei figliuoli,
+io li chiamai per due d@i; perciocch@e il dolore sostenne pi@u
+lungamente il digiuno.~  Il Ch. Oronzio Petitti in una eruditissima
+lettera a Fm. Torricelli [Torricelli, Studii sul sacro poema di
+Dante Aligh., Vol. I, pag. 763, segg.] intende dimostrare non altra
+da questa dover essere l'interpretazione di questo luogo; poich@e,
+dic' egli: ^Avremo queste ultime parole non dirette a fare di tal
+protagonista un debole o un vorator di cadaveri, ma s@i a
+manifestare la nautrale virtuosissima cagione del sopravvivere di
+lui a quei miseri figliuoli.  Esse ci daranno bello e nitido quel
+concetto, cui Vincenzo Monti ed altri solenni uomini volean trovare
+in questo luogo strascinando la mente del Sommo per viottole
+malagevoli e non sue.  Gli altissimi ingegni non sogliono aver la
+pazienza di scendere a grammaticali riflessioni: onde spesso vediamo
+ch'egli aguzzano ben bene i loro ferri a disputare intorno alla
+materia, senza darsi molta briga di porre a minuto esame la forma
+cui quella deve tutta la sua chiarezza.  Da ci@o non di rado
+conseguita che i pi@u splendidi passi di celeberrimi scrittori nelle
+lor mani divengano que' teatri diurni, ove i comici non lascian
+pentrare la chioma di Apollo, per diffondervi essi la luce
+artifiziata che meglio convegna alle loro finzioni.~  Ma, con la
+buona pace del dotto filologo Napoletano, a noi non pare che la
+sposizione del Monti meno ingrandisca e nobiliti il dolore di Conte
+Ugolino; n@e ci avvisa che punto trascini la mente del Poeta per vie
+malagevoli e non sue.  Il Parenti e il Petitti con cotesta loro
+|tmesi~ cercano cinque piedi al montone.  Che ci abbia esempi di
+^potere~ per ^sostenere~ nol neghiamo: che Dante qui l'usasse in tal
+sentimento nol crediamo.  Nel passo del Boccaccio: ^Simil dolore non
+si sent@i mai, a quello che io ho poscia portato che io ti perdei,~
+la tmesi @e patente; ma oltre che chiara si rende dalla stessa forma
+del costrutto, il ^poscia che~ non vi sta mica come particola
+causale, s@i bene in significato di ^dopo che~ ec., conforme all'uso
+che le mille volte ne han fatto Dante e tutti gli scrittori di
+nostra lingua.  L'argomento di analogia per fare un ^perch@e~ d'un
+^poscia che~, per noi @e pi@u sottile che vero; n@e concediamo
+all'Alighieri ^il dritto di coniare a sua posta vocaboli e maniere
+di lingua, e dar loro quel senso ed espressione che pi@u gli
+aggradava~: perciocch@e abbiamo pi@u volte notato come il Poeta
+fosse in ci@o meno licenzioso che per altri non fu creduto.  Egli
+si tenne stretto alle leggi di nostra favella, a nobilitar la quale
+gli bast@o l'altissimo ingegno, senz' uopo di snaturare le voci e i
+modi, torcendone il senso da quello ch'era comunemente ricevuto.
+Male, se ad intendere ci@o, che nella spontanea semplicit@a delle
+sue parole dir ci volle Ugolino, fosse mestieri delle tmesi e delle
+sottilit@a grammaticali schierate in campo dall'egregio Petitti;
+peggio poi se a queste si dovesse il vanto d'aver dopo cinque secoli
+levata una macchia al Febo delle italiche Muse.  Dice questo dotto
+critico: <Se le voci estreme di Ugolino fossero: ^Quantunque il mio
+dolore per la perdita de' figli miei sia stato eccessivo, pur
+nondimeno vi confesso che la fame valse pi@u di quello ad
+uccidermi~, come restereste voi?  -- Resteremmo trasecolati,
+rispondiamo, a vedere che un valoroso cultore della nostra favella
+frantenda qui egli stesso il nostro poeta: il quale non dice la
+^fame~, s@i bene il ^digiuno~ avere in Ugolino potuto poscia pi@u
+che il dolore; e ^fame~ non @e punto da confondere con ^digiuno.~
+Se il morir di digiuno scemasse la gloria del protagonista, non
+vedremmo in che modo eroi chiamar si potessero coloro, i quali dappoi
+che valorosamente ebbero pugnato, lasciarono pure alla fine la loro
+vita su' campi.  Ugolino secondo questa teoria, non avrebbe dovuto
+nemmanco memorare che per lui la torre de' Gualandi ^ha il titol
+della fame~; n@e pi@u ad onore gli tornerebbe il dire che ^il dolore
+pi@u pot@e il digiuno~, di quel che alla fine ^pot@e farlo morire il
+digiuno, pi@u che non avea fatto il dolore.~
+
+	Noi gi@a non crediamo che Dante intendesse far di quel Conte
+un erorre; ma fosse pure, era egli necessario sottrarlo alla legge
+fatale dell'umana natura che abbisogna di nutrimento alla vita?
+Bello davvero che ove Dante ci pone innanzi lo spettro d' un uomo
+dannato a morir di fame, non possa egli per divieto dell'arte
+poetica fargli poi dire: ^Io era nel pi@u crudele dolore; e vi sarei
+stato per tutta la vita, se il lungo digiuno non me l'avesse
+troncata~; o che, a porre in salvo il decoro d'un cavaliere, abbia
+dovuto aver tanti riguardi in s@i picciola cosa, mentre poi tel
+pianta per traditore nella pozza d'Inferno, dove dice averlo veduto
+qual sozzo can sbramare l'eterna fame in quel fiero pasto.
+
+	Finalmente, Ugolino avea promesso di dire ^come la morte sua
+fu cruda~; e non che a cagion dell'eccessivo dolore foss' egli
+rimasto due o tre d@i superstite ai suoi figliuoli: ed egli osserva
+fedelmente la sua promessa, narrando non gi@a la morte, che accade
+in un punto indivisibile, ma la vita onde quella prende sua
+qualit@a.  Cos@i, avendo egli patito dolore che vinse lo stimolo
+della fame, non pote @e per digiuno finire che nel dolore; e la morte
+non gli sottrasse un solo attimo della vita alla violenza di quel
+duro martirio.  Proferisce da ultimo la voce ^digiuno~, quasi per
+attenuarne l'idea, e far sovr' essa giganteggiare il sentimento del
+suo duolo.  Quest'ultimo verso magnifica, per una di quelle
+circollocuzione di cui Dante fu s@i gran maestro, il concetto
+^Poscia morii~, a scioglimento della promessa.  Ed @e notabile che
+nel primo emistichio:
+
+     Poscia pi@u che 'l dolor
+
+si sente come un suono romoroso dell'ira, e quella virt@u che di@e
+lena al padre di chiamar mentre visse i figliuoli: nel secondo
+
+     pot@e il digiuno.
+
+s'ode quel tono cupo che ti ritrae il lungo gemito e quella muta
+finale desolazione, in cui la forza del dolore svanisce, come
+favilla che pi@u divampi poco innanzi che non si spenga.
+
+	Il padre Cesari non rifina d'innalzare al possibile questo
+canto dell'Ugolino; ma fa cos@i entrare a ragionamento il Rosa
+Morando: <Questo e quell'altro luogo di Francesca d'Arimini sono i
+soli lavati a cielo di questo poeta; quando egli ne ha troppi
+altri, de' quali nessuno ha parlato mai, e forse n@e eziandio letti;
+ma che tuttavia non cedono a questi, e forse (chi ben la pensa)
+vantaggiano in artifizio, lavoro poetico, eleganza e forza di
+avvivato e caldo parlare.  La morte di Ugolino @e tanto pietosa per
+se medesima, che senza aiuto d'arte n@e valor poetico a tutti cava
+le lagrime, e commoverebbe ogni lettore eziandio rozzo e villano, a
+descriverla anche in prosa spoglia d'eleganza e bellezza: sicch@e il
+pregio e l'eccellenza di quella pittura dipende forse dalla naturale
+piet@a destata da quelle misere e tenere circostanze, pi@u che
+dall'ingegno e valor del Poeta; comech@e anche questo ivi si paia
+con molta evidenza.  Laddove pi@u altre pitture del poema di Dante,
+non sono per altro maravigliose, che per l'artifizio, per
+l'invenzione e per que' lumi di colore, e per quel colore, e per quel
+caldo poetico onde le ha fiorite e animate.  L'inflessibile
+orgoglio di Capaneo sotto la pioggia del fuoco che nol matura;
+l'altezza del suo parlare, la foga del suo scagliarsi contro di
+Giove, insultandolo quasi come debole a vendicarsi; non ha bellezza
+al mondo che la vinca, e forse n@e eziandio che la uguagli: la
+venuta dell'Angelo per la palude, e l'imperioso atto dell'aprire la
+porta della citt@a di Dite, e le forti e veementi parole che i
+demonj attutirono ed atterrarono; @e un gioiello d'inestimabile
+valuta: la ruota che fanno i tre con Ser Brunetto, parlando a Dante
+tuttavia volgendosi attorno, e le parole da loro dette: la pegola,
+e'demonj che co'farconi arroncigliano i peccatori; e quivi medesimo
+la beffa lor fatta dal Novarese, per cavarsi loro di mano: e la
+pittura di Bertran dal Bornio portante la propria testa, e (forse di
+tutte la pi@u magnifica) la trasformazion d'uomo in serpente ed e
+contrario (Canto XXV), e pi@u altre che gi@a vedemmo, sono
+capolavori d'ingegno e di arte squisita, sia quanto a' concetti, sia
+al numero, ovvero all'artifizio, eleganza, eloquenza, forza,
+dolcezza.  E questo dico del solo Inferno: che nel Purgatorio e nel
+Paradiso, v' ha de' luoghi mirabili di bellezza; come la descrizione
+del paradiso terrestre; la discesa di Beatrice; i rimproveri da lei
+fatti a Dante, e mille altre lautezze e ghiottornie, nelle quali ad
+ogni pi@e sospinto si abbatte il lettore: le quali tutte cose
+trov@o, dipinse, abbell@i con marvigliosa opera il solo ingegno, la
+fantasia, la lingua e 'l poetico valore di Dante>.
+
+	Posta pure comme innegabile la fecondit@a dell'ingegno
+Dantesco, e il fino magistero dell'arte in questi altri luoghi del
+suo poema, sarebbe da cercar la ragione, onde agli episodi della
+Francesca e del Conte Ugolino sia quasi da tutti e sempre data la
+preminenza.  ^Scendere sino al volgo e mantenervisi per molti secoli
+@e il pi@u sicuro indizio di un merito superiore.  Ma nessuno scende
+sino al volgo senza perdere una parte della sua personalit@a,
+essendo il giudizio del volgo, cio@e il giudizio de'secoli, un
+lavoro di purificazione e di eliminazione~ [Francesco De Sanctis,
+^Saggio crit. sul Petrarca.~].  E come avviene che il volgo ignori
+il Convito, e s'appropri la Divina Commedia; cos@i in questa
+medesima, quasi tra pi@u parti d'una stessa persona o d'uno stesso
+sembiante, l'una ha per esso pi@u forza attrattiva e pi@u vaghezza
+dell'altra; e spesso il suo criterio non falla.  La finitezza delle
+forme, le frasi eleganti e squisite, il lavor@io dell'ingengo che
+opera la mirabile metamorfosi delle diverse nature, le creazioni
+degli enti simbolici e le morali allegorie sono di gran lunga
+sorpassate in pregio da questa narrazione, che nuda di ogni
+artifizio di formale tecnicismo raggiunge il pi@u alto effetto
+estetico.  Niente di pi@u facile che dire: ^Ugolino si mor@i di
+dolore e di fame~; ma raccogliere e coordinare tutti gli elementi
+del patetico; far salire il dolore ad una tragica sublimit@a;
+penetrar la scena dell'uomo pe' diversi gradi di sua passione, e
+spirarvi per entro il racconto il calore  d'un sentimento vero e
+purificato da quel filosofismo onde Dante non si pot@e sempre
+sciogliere, @e appunto la difficile facilit@a nella quale consiste
+l'eccellenza dell'arte.  ^La verit@a @e~ (cos@i il sommo critico
+italiano) ^che in Poesia nonci @e propriamente n@e contenuto, n@e
+forma, ma che, come in natura, l'uno @e l'altro.  Il gran poeta @e
+colui che uccide la forma, di modo che questa sia esso medesimo il
+contenuto~ [De Sanctis, op. cit. pag. 98. Nap. 1869, pe' frat.
+Testa.].  Se a tale altezza Dante spesso s'accosta, qui @e dove a
+noi pare che vi attinga.  ^Finch@e la critica formale giudica belle
+certe forme di dire o certi concetti, o certe immagini, o certe
+movenze, fa opera utile.  Ma quando secondo questi critierii giudica
+l'opera, e dichiara Bellezza della~ Divina Commedia ^le Bellezze del
+padre Cesari, perverte il gusto e impedantisce~ [De Sanctis. Op. Cit.
+pag. XIX.].
+
+	Chiudiamo il lungo comento di questo luogo con le parole del
+Ch. Tommaseo: ^Se altro poeta possa in altrettanto spazio di versi
+condensare tanta verit@a di dolore, e distendersi nella dipintura di
+cose materiali senza che la parte spirituale ci perda, io non so;
+n@e oserei per ammirazione irriverente, porre alla potenza dell'arte
+limiti ingiuriosi.  Ma dico: mi si mostri un altro simile o
+dissimile tratto di poesia, dove altrettante bellezze d'affetto e di
+stile e di numero siano pi@u pensatamente insieme e pi@u
+schiettamente adunate, pi@u modestamente insieme e pi@u fortemente~
+[Tomm. Illustraz. Inf. XXXIII.].
+
+	|76-78.  Quando~ ec.  Come Ugolino ebbe fatto fine al
+racconto, addenta di nuovo il cranio dell'Arcivescovo con tanto
+furore, che mastino no piglierebbe con avidit@a pi@u rabbiosa, n@e
+con pi@u forza a dirompere e stritolare un osso.  Cos@i d@a in atto
+pi@u pieno significato all'ultima parola |digiuno~; e mostra con
+quegli |occhi torti~ raccendimento d' odio, e sicurezza d'aver gi@a
+dimostrato quanto a ragione roda egli il traditore, che fecelo s@i
+miseramente perir di fame.  (C. XXXII, 133-139).
+
+	|77.  Misero.~  Nel v. 63 @e detto: ^misere carni.~
+Virgilio (AEn. II, 215): ^Miseros morsu depascitur artus.~
+(AEn. III, 41): ^Quid miserum, AEneum, laceras?~
+
+	In questo terzetto ti pare non di leggere, ma di vedere
+l'atto feroce di quello spettro.  L'ultimo de' tre versi ha poi nelle
+parole gran comprensione d'idee e mirabile forza imitativa nella sua
+struttura.
+
+	|78.  Furo all'osso~ -- Var. lez. ^Fuoro~ ha il Cod.
+Cassin., ^Forar l'osso~ leggono i Codd. delle biblioteche Reali di
+Berlino e di Parigi, il Bartoliniano, il testo Bargigi, la stampa di
+Vincenzo Bonanni (an. 1572).  Il Viviani prepose a questa variante la
+comune lezione, creduta da lui un errore degli amanuensi.  Ma ^il far
+de' denti succhio~, altrove detto dal Poeta, non pare s' accomodi
+troppo bene al fatto di Ugolino; il quale a simiglianza di cane
+dirompea, non trivellava le ossa del teschio nemico.  Laonde sembra che
+n@e per forza di espressione, n@e per bellezza di forma sia alla
+lettera comune da preferir quella del Viviani.
+
+	|79-84.  Ahi Pisa~ ec.  -- Con questa terribile apostrofe
+imprecativa inveisce il Poeta contro i Pisani, che dannarono a morte
+crudelissima Ugolino e gl' innocenti figliuoli.  Simile a questa @e
+l'invettiva fatta a Pistoia patria di Vanni Fucci.  (Vedi C. XXV,
+10-12, nota).
+
+	|80.  Bel paese~ ec. ^L'Italia~, della quale non ha in tutto
+il mondo regione pi@u bella.  Per questo leggiadra perifrasi @e
+indubitatamente significata ^Italia~ nella sua totalit@a:
+avvegnacch@e il Lombardi, il Poggiali e altri moderni sospettino
+potersi intendere la sola Toscana, dove il proferimento del S@i,
+pi@u che in altra parte della penisola, si fa con qualche sibilo
+risuonare.  Prima  di questi valentuomini era gi@a venuto in tale
+opinione Benvenuto da Imola, il quale scrive: ^Vel dicas~: |del bel
+paese~, ^scilicet Tusciae, quae est ornatissima pars Italiae,~ |l@a
+dove il s@i suona~, ^in qua res ista inepta resonat.~  Il Biagioli
+arreca in contrario buone ragioni [E le son quelle che con pi@u
+ordine e pi@u pienezza si leggono nella nota (2) alla Vita Nuova,
+pag. 35. Venezia 1758. Ant. Zatta.]; ma dell'Imolese lascia
+maliziosamente le addotte parole che a lui non approdano, e che
+farebbero autorit@a al Lombardi, cui dic' egli voler rimettere la testa
+al segno.  E lo fa: se non che con tutt' i luoghi di Dante stesso e del
+Varchi ec. ch'egli cita, pare che cavi una con altra sottigliezza
+<^Come in asse si fa chiodo con chiodo~>.  Nel Convito va inteso per
+^Volgare del s@i~, la stessa ^lingua italica~, il ^Volgar proprio
+nostro~ e di tutti, non mica de' soli Toscani.  Questa verit@a appare
+nella massima sua chiarezza l@a dove (^De Vulg. eloquio~, lib. I, cap.
+8) Dante scrive: ^Alii~ Oc, ^alii~ Oil, ^alii~ S@i, ^affirmando
+loquuntur, ut puta Hispani, Franci, et Latini.~  Quelli che di questo
+trisono linguaggio hanno il S@i, tengono la parte orientale da'
+genovesi confini fino a quel promontorio d'Italia, onde comincia il
+seno del mare Adriatico, e alla Sicilia: ^Qui autem~ S@i ^dicunt, a
+praedictis finibus Orientalem~ (partem) ^tenent.  Videlicet usque ad
+promontorium illud Italiae, qua sinus Adriatici maris incipit et
+Sciliam.~  Sicch@e ben pi@u estesi che della Toscana furono per Dante i
+termini del ^bel paese dove il~ s@i ^suona.~  Questo si riconferma per
+quello che poco appresso (Lib. I. Cap. 10) egli dice, dubitando a quale
+de' tre linguaggi abbiasi a dar la preminenza, e poscia risolvendosi
+per l'Italiano; dacch@e: ^Grammaticae positores inveniuntur accepisse~
+SIC, ^adverbium affirmandi, quod quandam anterioritatem erogare videtur
+Italis~ (non dice ^Tuscis~), ^qui~ S@I, ^dicunt.~
+
+	Var. lez. ^ladove si suona~, il Cod. Cassin.; ^la ove si~,
+il Riccardiano, num 1028; ^l@a dove s@i~, il testo Bargigi ec.
+
+	|L@a dove.~  Da ci@o che test@e @e detto si vede non aver
+potuto Dante significare per cotesto ^l@a~ la Toscana ond'era egli
+lontano.  Il Lombardi, il Costa ec. questo pur credettero indotti
+dal valor della voce ^l@a~, non considerando che nelle forme ^l@a
+dove, laddove~ @e pleonastica come si ha da esempi di altri
+scrittori, e di Dante stesso, che parlando di luogo dov'egli gi@a
+era (Purg. II, 92), dice:
+
+     Casella mio, per tornare altra volta
+       Laddove io son, fo io questo viaggio.
+
+E di luogo ov'era Virgilio, a cui parlava Stazio (Purg. XXV, 31
+segg.):
+
+     Se la veduta eterna gli dispiego
+       ....laddove tu sie,
+       Discolpi me non potert' io far niego.
+
+|Suona~: ^s'ode proferire.~  Il Tasso, Ger. VIII, 78:
+
+     Tal si mostra a coloro, e tal ragiona,
+     N@e come d'uom mortal la voce suona.
+
+Ivi XIII, 49:
+
+     ...io n'ho la voce udita,
+     Che nel cor flebilmente anco mi suona.
+
+	|81-84.  Poich@e~ ec.  In sentenza: Quando gli uomini son
+tardi a punirti; faccia le sue vendette la giusta ira di Dio,
+movendo a tuo sterminio gli elementi insensibili della terra e
+dell'acqua.
+
+	|81.  I vicini~:  Fiorentini e Lucchesi da pezza nemici ai
+Pisani.
+
+	|Son lenti.~  Ma la vendetta di s@i empia crudelt@a che al
+tempo del Poeta parea ritardarsi, parve fatta non molto dipoi:
+^Nam~, scrive l'Imolese, ^opera Florentinorum ista Civitas
+antiquissima, et olim potentissima mari et terran, deducta est ad
+infimum et infirmum statum, licet diu ante istud peccatum fuisset
+fracta insolentia Pisanorum, et libertas conculcata viribus
+Januensium.~
+
+	|82.  Muovansi.~  Notisi di quanto valore sia questa voce
+messa in contrapposto di ^lenti~, e detta di due scogli. -- Var.
+lez. ^Muovasi, Movasi.~
+
+	|La Capraia e la Gorgona.~  Due isolette del Tirreno,
+intorno alla Toscana, di lungi dalla foce d'Arno, la prima 64
+chilometri, e la seconda 20 chilometri in circa.  Felicemente dunque
+il Poeta invoca l'una a muoversi prima dell'atra.  La famosa Delo
+che prima andava errante per le onde dell'Egeo, fu poscia da Apollo
+stretta tra Giaro e Micone, e fatta isola immota alle tempeste ed ai
+venti (Virg. AEn. III, 73-77).  Da questa favola pot@e venire al
+Nostro l'arditissimo pensiero di voler mosse a sua posta, e
+contrario, le due immobili isole del mar Tirreno.  Se non che questo
+Poeta assume, quando gli accade, la potenza di Dio, che nell'ira sua
+scuote ad un cenno le fondamenta della terra, ed apre le cateratte
+del cielo a punire la malizia degli uomini.  Lo ispira la Bibbia pi@u
+che la Favola.
+
+	|83.  Faccian siepe~ ec.  Chiudano la foce d'Arno, sicch@e
+non potendo il fiume avere sbocco in mare, le acque soprabbondino,
+traripino, e si faccia di quella tura un pelago che ingoi le mura e
+gli abitanti dell'imprecata citt@a.
+
+	|84.  Egli~:  ^Arno.~  Ben qui detto ^egli~ del fiume, che
+impedito d'entrare in mare, si ritorce indietro rigonfio contro
+Pisa, quasi messo della divina giustizia.  Ma qui parrebbe potere
+star questo ^egli~ come ripieno, e ^annieghi~ come intransitivo
+assoluto, a cui facesse da subietto ^ogni persona.~  -- Al. lez.
+^S@i che anneghi.~
+
+	|In te ogni persona.~ Benvenuto chiosa: ^Omnes in te
+habitantes, ut locus tam infaustus reddatur inhabitabilis.~ 
+
+	|In te~: ^nel recinto delle tue mura.~
+
+	|Ogni persona.~  Quell'^alma sdegnosa~ di Dante pare che qui
+reputando a tutto un popolo il misfatto di pochi, si dica fuor di
+ragione:
+
+     Purch@e il reo non si salvi il giusto pera
+     E l'innocente....
+
+Franceso Buti non si porta in pace l'acerbezza di questa trafittura
+fatta a Pisa sua patria, e scrive: ^L'autore pare contraddire a s@e;
+imperocch@e per ingiustizia e per crudelt@a prega egli o desidera
+maggiore crudelt@a.  Imperocch@e se male era avere ucciso cos@i
+crudelmente quattro figliuoli del Conte Ugolino, perch@e erano
+innocenti del peccato del padre, maggior crudelt@a era a uccidere et
+annegare tutti i figliuoli innocenti de'Pisani.~  Poi giustifica il
+Poeta, dicendo ch'egli qui parla rettoricamente ^per exsuperatione~,
+e che ^non @e ingiustizia a desiderare che sia punita la
+universit@a, quando la universit@a ha commesso peccato.~  Il P.
+Cesari anche nota che in questo e simili altri luoghi Dante per
+l'indole sua avventata ^rompe le cavezzine~; indi sulla ferita
+pone,
+come fece il Buti, un empiastro che non la sana.  @E contento
+d'altronde che ^niun negher@a, che non sia questo tratto di Dante un
+bellissimo esempio di affocata e velenosa eloquenza.~  Ma il volere
+annegati tutti gl'innocenti di Pisa, per soli quattro che ne fur
+fatti ingiustamente morire, @e secondo il Ch. Tommaseo: ^Esecrabile
+voto, massime dopo la battaglia della Meloria; esecrabile in uomo
+nemico e straniero, nonch@e in Bianco e Toscano.~  Pure a noi sembra
+ci@o stesso dimostrare anzi la rettitudine di Dante e l'animo
+incontaminato ed imparziale; poich@e n@e le sconfitte della
+Ghibellina Pisa lo fan verso lei pi@u pietoso, n@e il tradimento
+della Meloria lo rende pi@u disumano contro Ugolino.  Per noi @e
+l'ira del nostro vate simile al santo zelo de'profeti di Dio, che a
+ritrarre dalla corruzione le citt@a peccatrici, minacciavano loro  a
+nome del Signore il totale sterminio [Is. I, 4, 7: ^Vae genti
+peccatrici, populo gravi iniquitate, semini nequam, filiis
+sceleratis...Terra vestra deserta: civitates vestrae succensae
+igni.~  -- V, 24: ^Sicut devorat stipulam lingua ignis, et calor
+flammae exurit: sic radix eorum quasi favilla erit, et germen eorum
+ut pulvis ascendet.~  -- VIII, 7: ^Dominus adducet super eos aquas
+fluminis fortes et multas..et ascendet super omnes rivos eius, et
+fluet sper universas ripas eius, et ibit per Iudam inundans, et
+transiens usque ad collum veniet.  Et erit extensio alarum eius,
+implens latitudinem terrae tuae.~  Ecco la imagine d'Arno che inonda.
+Volete anche quella delle isole che muovonsi dal loro sito?  Dante
+trova nella Bibbia di che ispirare la sua Musa divina.  Ivi XIII,
+13: ^Movebitur terra de loco suo, propter indignationem Domini.~
+Gi@a la potenza di Dio @e (Is. XXVIII, 2): ^Sicut impetus aquarum
+multarum inundatium, et emissarum super terram spatiosam.~  -- XXX,
+28:  ^Spiritus eius velut torrens inundans usque ad medulla colli,
+ad perdendas gentes in nihilum, et fraenum erroris quod erat in
+maxillis populorum.~  -- Ezech.  XXVII.  ^Cum...adduxero super te
+abyssum et operuerint te aque multae.~  Di quell' |anneghi in te
+ogni persona~ anche ti sembra vera una frase non dissimile, dove lo
+stesso Ezech. (XXVIII, 34 seg.) apostrofa Tiro: ^In profundis
+aquarum opes tuae, et omnis multitudo tua, quae erat in medio tui,
+ceciderunt.~]  Dalle tempeste della vita attiva e politica, ridottosi
+Dante al porto della contemplativa ed intellettuale, si lev@o quasi
+tutt'altro uomo dalla terra al cielo, e il Sacro Poema unico suo
+pensiero non soltanto infior@o del bello ch'egli attinse da'rigagnoli
+della scienza umana; ma lo arricch@i di quanta sublimit@a pot@e
+dedurre dalle fonti inesauribili della Sapienza.  Ora i voti di lui
+non paiono esecrabili, quando non vuol egli mica pi@u di quello che
+si accorda co' giudizi imperscrutabili di Jeova, il quale (Ezech.
+VII, 27) dice: ^Secundum viam eorum faciam eis, et secundom judicia
+eorum judicabo eos.~  -- (Jer. VI, 2): ^Dabo in populum istum
+ruinas, et ruent in eis patres et filii simul.~ -- (Is. XIV, 21):
+^Praeparate filios... occisioni in iniquitate patrum suorum.~  Un
+popolo che cade al fondo de' suoi delitti non d@a sperare che i
+nepoti sien per essere men corrotti degli avi.  E Dio lo distrugge;
+perciocch@e appo lui (Is. LX, 15): ^Ecce, gentes quasi stilla
+situlae et quasi momentum staterae reputatae sunt.~  Ma il giusto
+non perisce in eterno [Is. XXVI, 19; LVII, 1.  -- Ezech. XXXVI, 11;
+XXXVII, 12, etc.]; e per siffatti castighi Iddio stesso
+rinnova pure in meglio le umane generazioni, quasi richiamandole dal
+sepolcro, e infondendo loro, siccome alle ossa aride vedute ad
+Ezechiele, lo spirito della vita.  Chi dice esecrabile il voto di
+Dante, oda un po'questo d'Isaia (LXIV): ^Utinam dirumperes coelos,
+et descenderes: a facie tua montes defluerent.  Sicut exustio ignis
+tabescerent, aquae arderent igni, ut notum fieret nomen tuum
+inimicis tuis.~  E vedr@a che l'autore del poema <al quale han posto
+mano cielo e terra> seguiva il linguaggio biblico a disfogare non la
+rabbia, ma lo zelo del bene; e che non era egli mosso da nessuna
+passione privata, n@e lasciaviasi menar dietro all'impeto di sua
+altera e sdegnosa natura, dove si dice che abbia egli rotte le
+cavezzine.
+
+	|85-90.  Che se 'l Conte~ ec.  Se giusto era si punisse il
+padre, non cos@i i figliuoli innocenti.  ^Di questa crudelt@a furono
+i Pisani per lo universo mondo, ove si seppe, forte biasimati, non
+tanto per lo Conte, che per li suoi difetti, e tradimento era per
+avventura degno di s@i fatta morte, ma per li figliuoli, e nepoti
+che' erano giovani garzoni, ed innocenti.  Gio: Villani.
+
+	|85.  Aveva voce~: ^avea fama.  Dar voce~, in senso opposto,
+@e bel modo usato altrove (Inf. VII, 93).  I Latini: ^Bene~ o ^male
+de se audire.~  E noi anche: ^Mettere in voce una cosa~, per
+^bandirla, trombettarla.~  -- Le ^Varior.~ del Witte hanno la lez.
+^avea ria voce.~
+
+	|86.  Aver tradita te delle castella~ (v. 13, nota).  La
+frase AVEVA VOCE fa credere, che il tradimento d'Ugolino non era
+pi@u che una ^voce~, avvegnacch@e quegli fosse pubblicamente infamato
+per traditore [Benvenuto da Imola scrive: ^Comes Ugolinus de
+Comitibus Gherardeschis adeptus dominium Civitatis Pisarum..., ad
+confirmandum statum suum, dedit unam suam filiam Comiti Guidoni de
+Battifolle Guelpho.  Et ne ex hoc haberetur suspectus, dedit aliam
+Comiti Aldobrandino de Sanctaflore, ut fertur. Et nomine dotium
+ipsarum filiarum, et ut melius fiderent de eo, dedit aliqua Castra
+Comitatus Pisarum, videlicet Comiti Guidoni Castrum Ripae Fractae
+sub custodia Lucanorum, et Domino Comiti Aldobrandino Castrum
+Siverotti sub custodia Florentinorum.  Propter quod Ghibellini sumta
+suspicione, suggerente Archiepiscopo, fecerunt postea de ipso, sicut
+dictum est.~]
+
+	Il Witte registr@o la variante ^tradite tre delle
+castella~, la quale si accorda con quel che leggiamo
+riferito da Pietro di Dante: ^Ugolinus... contulit Lucanis
+castrum Ripafractae, castrum Asciani et castrum Venae.~  La
+lettera comune ha nondimeno un non so che di nuovo e di
+bello, esprimendo in uno e chi fu tradito e al materia del
+tradimento.  ^Delle~, o, come hanno altri testi antichi, ^De
+le~ ha qui, secondo che a noi par di vedere, al forza del
+^de~ per ^circa~ appo i Latini.
+
+	|87.  Dovei~: ^dovevi.~  Vedi Inf. XXX, 110, nota.
+
+	|Figliuoi~: ^figliuoli.~  Vedi v. 48, nota.
+
+	|Croce~: ^tormento, supplizio.~  L'innocenza de'
+figli d'Ugolino dannati a durissima morte pare abbia qui
+risvegliato alla mente dil Poeta l'idea del patibolo dove fu
+immolato l'agnello di Dio.  Tra e ^Varior.~ del Witte si
+legge questo verso: 
+
+     Non doveano i figliuoi portar tal croce.
+
+Il Codice Cassinese ha:
+
+     Non dovei tu porre i figliuoli a tal croce.
+
+Rimessi ^figliuoi~ dove per errore del copista fu scritto
+^figliuoli~, la lezione del Cassinese diviene:
+
+     Non dovei tu porre i figliuoi a tal croce.
+
+Qui la triplice pausa sulla quarta, settima e decima rende il verso
+pi@u attempato e pi@u grave, e sotto la fine quella forza che viene
+dalla pronunzia stessa delle prime parole, cade poi man mano, quasi
+dileguandosi col proferimento delle cinque vocali ^iuoi a~, che ti
+esprimono lo stento e il languore di chi ha portato il lungo
+martirio.
+
+	Il Petrarca (Trionf. d'Am., Cap. II) dice, meno forse
+efficacemente, che fra gli amanti ignudi e presi era dietro il
+crudel carro trionfale tratto:
+
+     Ifi, che amando altrui in odio s@e ebbe,
+     Con pi@u altri dannati a simil croce.
+
+	|88.  Innocenti~, almeno della colpa addebitata al padre;
+poich@e essendo ^giovani garzoni~, come dice il Villani, erano
+inesperti delle pubbliche cose, n@e ancora iniziati ne' secreti
+della falsa politica, di mantenere e reggere gli stati con
+l'ipocrisia, con la perfidia e co'tradimenti.
+
+	|Et@a novella~: ^et@a giovanile.~  Delle quattro ^etadi~
+nelle quali la vita si parte: ^La prima si chiama Adolescenza, cio@e
+accrescimento di vita...Ella dura infino al venticinquesimo anno: e
+perocch@e infino a quel tempo l'anima nostra intende al crescere, e
+allo abbellire del corpo; onde molte e grandi trasmutazioni sono
+nella persona: non puote perfettamente la razional parte discernere,
+perch@e la ragione vuole che dinanzi a quella et@a l'uomo non possa
+certe cose fare sanza curatore di perfetta et@a.~  Convito.  -- Le
+parole del Nostro bastano sole a troncare in mezzo tutte le
+quistioni agitate tra i dotti, intorno alla retta intelligenza di
+questo luogo, per ci@o che s'attiene all'et@a e all'innocenza dei
+figliuoli di Conte Ugolino.
+
+	|89.  Novella Tebe~: ^O Tebe di oggid@i, empia e crudele
+come l'antica~ dove i cittadini, nati de'denti del fiero dragone,
+faceano strage del proprio sangue.  ^Furie di Tebe~ nomina altrove
+(Inf. XXX, 22) il Poeta.  @E detto alcuna cosa (Inf. XXXII, 11,
+nota) di questa famosa citt@a; alla quale @e assimigliata Pisa madre
+micidiale de' propri figliuoli, e dove i fratelli uccidevano i
+fratelli.  Si vede, secondo noi, anche da questo confronto, qual
+fosse nel pensiero di Dante il concetto di quel ch'esser dovrebbero
+le comunanze civili.  <E Stazio gli dettava forse quella potente
+parentesi, ch'egli, l'autore della Tebaide, non avrebbe trovata:
+^Innocenti facea l'et@a novella (novella Tebe!)...~>  Tomm.  -- E di
+tanto maggior valore ed efficacia, dopo che il Verbo divino ebbe
+proclamata l'umana fratellanza: sicch@e il ^voto~ del Poeta
+cristiano: |Muovasi la Capraia~ ec. non fu anco per questo da dirsi
+^esecrabile~, che una citt@a dove tra gli odii fraterni si
+moltiplicano i tragici casi di Tebe, vuoi che sia sterminata col
+fuoco siccome Sodoma e Gomorra, vuoi con l'acqua, @e meglio, ad
+esser tale, che pi@u non esista [Pietro di Dante non seppe con
+certezza perch@e suo padre chiamasse Pisa ^novella Tebe.~  Una delle
+ragioni da lui arrecate @e quella che crediamo la vera, cio@e:
+^Vocat novellum Thebam... propter infinitas iniquitates ibi
+factas.~].
+
+	|Uguccione~: figlio di Ugolino.  |Brigata~:  Nino, nipote,
+Il da Imola: ^Nomina sunt duorum filiorum Comitis...Lex Civilis
+appellat filios et nepotes liberos, vel forte fuerunt tantum filii,
+sicut alii scribunt.~
+
+	|90.  Gli altri duo~:  Anselmuccio e Gaddo.
+
+	|Suso~ vv. 50, 68.  -- |Appella~: ^nomina.~
+
+	|91.  Passamm' oltre~  ec.  Entrano i poeti nella Tolomea.
+(Vedi la nota al principio del Canto XXXII.) -- |Gelata~: ^gelo
+ghiaccio~; quasi ^acqua gelata~; avvegnacch@e i participii femminini
+si togliessero sovente per sustantivi: come ^nominata, eletta,
+pensata, annunziata~ ec. per ^nome, elezione, pensiero, annunzio~
+ec.
+
+	|92.  Ruvidamente.~  Se questa voce si vuol fatta dalla
+latina ^rubidus~ che significa ^avente colore rossiccio che va molto
+al negro, a guisa di ferro coverto di ruggine.~  avremo per essa
+dinotata la durezza e il tetro colore del luogo, dove in pena
+de'traditori pi@u rei la ghiaccia non @e polita da fare specchio
+agli spiriti che vi sono immersi.  ^Ruvido vale anche ^rozzo,
+villano~: e qui @e appunto dove il Poeta disse: 
+
+     E cortesia fu lui esser villano
+
+a uno di que'dannati, che sotto finta cortesia tradirono l'amicizia
+ne' conviti, e la fede dell'ospitalit@a.  Se da ^rubus~, rovo: e
+allora ^rubeus~ vale aspro, scabroso; e bene si accomoda a questo
+avverbio la sposizione del Cesari: |Ruvidamente~ ^dice l'asprezza
+del ghiaccio, non liscio, ma rozzo e risaltante in ischegge e quasi
+gropposo.~  Anime pi@u crudeli attornia pi@u duro ghiaccio,
+significativo in figura difetto di carit@a.  |Fascia~: ^ricinge,
+stringe, ravvolge attorno.~
+
+	|93.  Non volta in gi@u~, qual fu veduta l'altra gente fitta
+nella Caina (Inf. XXXII, 37, 53).
+
+	|Tutta riversata~ Nella Caina stanno i dannati fitti nella
+ghiaccia col capo chino tutto fuori dello stagno: quelli
+dell'Antenora col solo capo anche fuori, ma dritto, sicome ci @e
+dato inferire dai vv. 78, e 89 del C. XXXII: questi qui della
+Tolomea stan supini con soltanto la faccia sopra Cocito: nella
+Giudecca hanno tutto il corpo coverto dal gelo e fittovi entro come
+che sia (C. XXXIV, 11-15).  Dopo questa osservazione il senso
+allegorico si chiarisce da s@e.  Cos@i dei tiranni e de'violenti
+(Inf. XII):
+
+     Che dier nel sangue e nell'aver di piglio,
+
+vedemmo nell'ampia fossa del ^bollor vermiglio~ qual pi@u, qual meno
+immerso, secondo il grado di sua colpa: altri infino al ciglio,
+altri infino alla gola, ed altri a cui quel sangue si facea pi@u
+basso, e copriva i soli piedi.
+
+	|Riversata~: ^Come gente che in vita ebbe riversato il viso
+mostrano dolo altramente di fuora che non aveva dentro il cuore,
+mostrandolo buono ed amicabile, dove tutto era per lo contrario.~
+Barg.  -- E perch@e ^il maggior tormento vien loro dalla postura
+medesima.~  Ces. -- |Riversata~ @e dal lat. ^Reverti~, e val quasi
+^retro-versa~, rivescia, rimboccata, supina ec.  -- Il B. Iac. da
+Todi (Lib. II, C, 32):
+
+       Piccola pietra fane
+     Gran carro riversare.
+
+L'Ariosto (Orl. Fur. XXX, 66):
+
+     Ruggier stordito in terra si riversa.
+
+Dello scoscendimento d'una roccia infernale (Inf. XII, 45) il Poeta
+dice: 
+
+     Qui e altrove tal fece riverso.
+
+	|94-99.  Lo pianto stesso l@i~ ec. La falsa piet@a di quei
+crudeli non fu altrui di conforto in vita, ma aperse la via pi@u
+facile al tradimento: quivi son date loro in pena lagrime vere, tali
+per@o che serino il varco a qual si sia sfogo d'affanno; e il pinato
+non versato sugl'infelici, dacch@e la durezza del cuore respingeva
+da s@i ogni vivo e caldo affetto di carit@a, omai lor si raggela
+sugli occhi, e ricaccia indietro le nuove lagrime per pi@u grave
+doglia.  Gente affogata nel ghaiccio e nelle lagrime del meritato
+dolore!
+
+	|95.  Duolo~:  ^le lagrime~, effetto del duolo.
+
+	|96.  Si volve in entro.~  Dice pi@u che non le parole di
+Seneca: ^Premo interim gemitus meos, et introrsus haerentes~ (al.
+^arentes~) ^lagrymas ago.~
+
+	|97.  Fanno groppo.~  <Som.: ^Fletus corporalis fit per
+quamdam resolutionem lacrymarum.~>.  Tomm. -- Il Tasso (Ger. XII,
+101) dice di Arsete:... ^in lagrime non solve Il duol...~ -- Le
+lagrime, come gocciole d'acqua, l'una per gelo rappresa
+all'altra, rendono simiglianza d'un nodo; onde viene spontanea la
+presente metafora, con la quael si vuol dire, che le prime lagrime 
+non s@i tosto vengon fuori su pel concavo delle occhiaie a
+que' miseri dalla faccia supina, ch'elle vi s'agghiacciano, e
+impediscono alle altre l'uscita.
+
+	|98.  Visiere di cristallo~: ^Quasi occhiali.~  Land.,
+Vellut., Daniello.  La Crusca definisce |visiera~, ^quella parte
+dell'elmo che cuopre il viso~; ma il Lombardi considerando che qui i
+ghiacci cuopron solo gli occhi e lasciano scoperta la faccia,
+dovech@e la visiera lascia libero il vedere; pensa che le ^visiere
+di cristallo~ sieno dette dal Poeta a somiglianza degli occhiali
+incastrati ne' fori che l'elmo lascia davanti agli occhi.  Il
+Biagioli e il Bianchi accettano questa interpretazione, la quale a
+noi sembra pi@u sottile che vera: 1+o~ Perch@e nel presente luogo se
+le due visiere intender si dovessero quali spiegano i detti
+comentatori, farebbero stranamente supporre quattr' occhi in
+ciascheduno spettro: 2+o~ Visiera vuol intendersi tutta la buffa,
+cio@e quella parte dell'elmo che cuopre il viso, non mica i soli
+fori che lasciano libera la veduta; e in sentimento di cosa che non
+apre, ma chiude ed impedisce la vista: 3+o~ La metafora difetterebbe
+nella similitudine in che principalmente si fonda, se il Poeta
+intendesse paragonare quei due ghiaci degli occhi alle visiere degli
+elmi.  Crediamo che Dante abbia in questo luogo adoperata la voce
+^visiera~ nel significato di ^velo~ o ^benda~, siccome fu in uso
+appo i Francesi: <|visi@ere.~  S'est dit autrefois pour mouchoir, ou
+bandeau.~  ^Sudarium, velum.~  Merlin dit, que la Veronique avoit
+une figure humaine en sa ^visi@ere~>.  Dict. univers. de Trevoux. --
+E gi@a lo stesso Dante chiama (v. 112) ^duri veli~ quelli che qui
+son detto ^visiere di cristallo.~  Se non ci apponiamo in fallo, la
+voce ^visiera~ andr@a cos@i nel vocabolario di nostra lingua
+registrata con un significato nuovo, che pur le appartiene; e che
+rende luminosa e semplice l'intelligenza di questo luogo Dantesco.
+
+	|99.  Sotto 'l ciglio tutto il coppo~:  ^Tutto il coppo~ che
+@e ^sotto 'l ciglio.~ -- |Coppo~: ^tana.~  Buti.  -- ^Concavit@a~ e
+^Concavo.~  Land., Vellut., Volp., Vent. -- ^Cavit@a.~  Lomb.,
+Biag., Bianchi ec. -- ^Quel come nido o buca, che fa la proda delle
+occhiaje.~  Ces. -- |Tutto il coppo~: ^Tutto ci@o che~ (sotto il
+ciglio) ^potrebbe esser vuoto.~  Barg. -- Il Tommaseo chiosa al
+contrario, |Coppo~: ^cavit@a convessa di fuori~, allegando
+l'autorit@a del Berni (Orl. III, 6, 36): -- ^Il coppo dell'elmetto.~
+Dove non @e s@i certo che per ^coppo~ abbia ad intendersi piuttosto
+la parte convessa, che la concava dell'armatura.  Dicendo quel poeta
+che Mordante:
+
+     Ebbe in mezzo all'assalto un strano intoppo:
+     Fu ferito in mezzo della faccia,
+     L'elmetto vol@o via con tutto il coppo, 
+     Mezza la testa @e nell'elmo che vola,
+     Rimase il resto attaccato alla gola.
+
+vuole, a creder nostro, significare tutta la cavit@a dell'elmo che
+va via con entrovi la mezza testa del ferito.
+
+	Se per |coppo~ s'intendesse il bulbo dell'occhio, e non anzi
+il vano che lo circonda tra l'arco del sopracciglio, il naso e il
+pomello della gota; il |riempie~ ricolmerebbe cosa non vacua, ma per
+s@e gi@a piena.  La cavit@a e la convessit@a essendo due modi
+dell'estensione, l'uno in senso contrario e fuori dell'altro; non
+possono assolutamente l'una dell'altra predicarsi a vicenda.  Una
+^cavit@a convessa~, come una ^convessit@a concava~, @e un
+impossibile, non altramente che una ^retta curva~, o un ^cerchio
+quadrato~; sicch@e la chiosa, |Coppo~: ^cavit@a convessa di fuori
+val quanto dire:
+
+     |Coppo~ = a - a = o.
+
+	La sposizione antica @e reclamata eziandio dalla propriet@a
+del vocabolo.  ^Coppo, coppa, cupo, covo, cupola~ ec. ci vennero
+probabilmente da %chi%upsilon%varphi%o%varsigma\, ^cavit@a~; donde
+anche ai Latini ^cavus~ affine di ^chaos~, inanit@a; e ^caupo~ e
+^caupona~ da ^cavipa~ (forse la nostra ^coppa~) quasi ^cavipo~ e
+^cavipona~ da ^locis cavis~, e che poscia divennero ^copo~ e
+^copona, copa, cupa.~  ^Coppo~ vale anche ^orcio.~  L'Ebr. ^Cof,~,
+vase, diede a noi ^coffa~, gabbia, e il ^cofano~ di comune co' Greci
+e co' Latini.  ^Cubo~ e ^gobbo~ son due voci lontanissime di
+significato tra loro; pure dall'una all'altra non @e differenza
+d'origine, ed hanno con ^coppo~ strettissima parentela: poich@e
+quella si fa da %chi%upsilon%pi%tau%o~, ^pronum esse, propendere~, e
+questa da %chi%upsilon%varphi%o%varsigma\ ^incurvus~ ec.  Quindi
+eziandio le ^catacombe~ da %chi%alpha%tau%alpha\, ^sotto~ e
+%chi%upsilon%mu%beta%eta\, ^cavit@a~; quinci ^cymba~ che i Latini
+dissero alla ^nave~, e ^navi~ son l'anagramma di ^vani~; quindi
+^cymbium~, bicchiere, e ^cymbalum~, cembalo, dall'idea della lor
+vacuit@a.  Dove in somma che ci volgiamo a rintracciare l'origine
+del ^coppo~, noi non ci avvenghiamo che in un caos di caverne, di
+spechi, di camere terrene, di bettole, di vasi d'ogni spezie dalla
+coppa degli Dei fino al truogolo del maiale, di scrignuti, di tombe,
+di stromenti musicali ec.: tutte cose nate nel ^cavo~ e nel ^vacuo~;
+sicch@e di loro stirpe e di loro genia diresti veramente con
+Salomone: ^Vanitas vanitatum et omnia vanitas.~  Speriamo non sieno
+per@o vani gli argomenti da noi arrecati a dimonstrare ^vacuo~ il
+^coppo~ Dantesco, e vacua l'anzidetta chiosa, avvegnacch@e fatta da
+quel nobilissimo ingegno di Niccol@o Tommaseo.
+
+	|100-103.  E avvegna che~ ec.  In sent.:  ^E sebbene a
+cagione del freddo s'era il mio viso intormentito; parvevami
+nondimeno sentire del vento.~  Ordina il testo: ^E avvegna che
+ciascun sentimento avea, per la freddura, cessato stallo del mio
+viso, s@i come d'un callo; gi@a mi parea~ ec.  Ma @e ben qui da
+notare il valore delle particelle ^E, gi#a~ nel primo e quarto di
+questi verso; con le quali il poeta d@a cominciamento a nuova
+sentenza.  Elle vanno pi@u sovente accosto l'una dell'altra, come
+nel verso (Inf. IX, 64):
+
+     E gi@a venia su per le torbid' onde ^ec.~
+
+Il che ci fa tenere come in parentesi tutte le voci che corrono da
+^avvegna~ sino a ^stallo~, onde spicchi svelto il pensiero: ^E gi@a
+mi parea sentire alquanto vento:~  dove, col Cod. Cassinese e
+co' testi pi@u corretti leggiamo ^E~, non ^Ed.~  Per ci@o che spetta
+al metro @e utile riferire le parole del Cesari: <Forse a molti il
+primo verso sar@a paruto zoppo, di una sillaba meno.  Ma @e da por
+mente... che Dante non mangia mai, massime al principio di verso, la
+vocale che seguita a monosillabo, e via meno se accentato: il che fa
+anche il Petrarca: come l@a dove comincia la Canzone, ^O aspettata
+in ciel, beata e bella~, ecc. e per@o, come qui sarebbe a leggere
+spiccato l'A da O, quasi come fosse scritto OD; cos@i nel presente
+luogo di Dante vuolsi leggere, come dicesse; ^Ed avvegna che~,
+ec.>.
+
+	|101.  Freddura~:  ^freddo~ (Inf. XXXII, 53, nota).
+
+	|Ciascun sentimento~: ^ogni senso~, o ^sensazione.~  E qui
+va preso per solo quel del tatto toccato dal vento, e non nella sua
+pi@u ampia accettazione come altrove (Inf. III. 135).
+
+	|102.  Cessato avesse... stallo~:  ^Fosse partito dal mio
+viso.~  Avea gi@a molto bene il Guiniforte chiosato questo luogo
+parso ai pi@u dotti invilluppato e contorto: ^E avvegna che per la
+freddura ciascun sentimento avea cessato stallo del mio viso, cio@e
+lasciato la stanza di mia faccia, s@i come di un callo: vuol dire,
+quantunque per lo freddo non mi era nel viso rimasto alcun
+sentimento, sicch' io in esso non sentiva freddo, n@e cos'altra pi@u,
+come s'ei fosse diventato un callo; nondimeno gi@a mi pareva sentire
+alquanto vento, onde pensar pu@o ciascuno ch'egli era forte, s'io lo
+sentiva, avendo cos@i perduto gi@a ogni senso.  -- |Cessare~ @e
+anche ^rimuovere, allontanare~; onde |Cessato stallo~ vale ^rimosso
+stallo~, cio@e ^stanza~, come spose il Landino.  E parrebbe qui
+metafora tolta dagli uccelli, che sgombrano il nido natio, quando
+l'intemperie dell'aere gli caccia in cerca di pi@u miti regioni.  Ma
+^cessare~ ebbero i Latini per ^lasciare~; e ^cedere loco~ dissero in
+sentimento di ^partirsi, andar via~ ec.  Or questo ^cessare~ ch'@e il
+frequantativo di ^cedere~, ci avvisa che sia molto opportuno in
+questo luogo a significare la ^cessazione~, non mica lo assoluto
+^abbandono~ della facolt@a sensitiva; la quale si sospende, non si
+annulla nell'organo intorpidito.
+
+	|Stallo~ @e dal latino barbaro ^stallum~ [E lo stesso barb.
+^stallum~ fu fatto dal lat. ^stabulum~ per questa scala: ^stabulum,
+stavulum, stavlum, stallum.~] per ^stanza, dimora, luogo~ in genere;
+onde nel Dittamondo (Lib. VI. Cap. VIII):
+
+     Moltiplicava come la mala erba
+     Se non @e coltivata in buono stallo.
+
+Quindi i nostri antichi dissero ^ostale~ per ^ostello, sede,
+albergo~; e ^stallare, ristallare~ per ^indugiare, traporre dimora~
+ec.  La ragion poetica di questa frase, in assengare una sede al
+sentimento, ovvero al senso o sensibilit@a esterna, @e quella
+medesima onde gli antichi filosofi considerarono il capo come la
+magione dell'anima, e quivi posero pi@u celle alle virt@u o potenze
+diverse che natura le diede.  Ser Brunetto Latini, primo maestro di
+Dante, scrive nel Tesoretto:
+
+     Nel capo son tre celle:
+       Io ti dir@o di quelle.
+     Davanti @e lo ricetto
+       Di tutto lo'ntelletto,
+     E la forza d'apprendere
+       Quello che puoe intendere.
+     Nel mezzo @e la ragione,
+       E la discrez,ione,
+     Che cerne ben da male,
+       E 'l torto dall'iguale.
+     Di dietro sta con gloria
+       La valente memoria,
+     Che ricorda e ritene
+       Quello, che in essa vene.
+
+	|103.  Sentire alquanto vento~ nel viso quasi incallito e
+e reso insensibile, l@a dov'era il Poeta, pu@o moralmente
+significare: ^Che come nel supremo cielo nasce dalla potentia, et
+sapientia divina lo Spirito santo, il quale infiamma la carit@a, et
+per questo @e assomigliato al fuoco, et al vento Austrino; cos@i da
+Lucifero procede il frigidissimo vento della superbia, il quale
+ammortisce ogni caldo di carit@a, et indurisce, et agghiaccia tutti
+gli humani cuori.~  Altri dir@a che cotesto senso morale qui di
+Messer Landino pute un poco di clericalismo; pure gli @e quello
+inteso dal Divino Poeta.  Se togli la buccia teologica, ci troverai
+buon frutto.  Chi va a Superbia perde a poco a poco ogn'altro
+sentimento, fuor quello della vanit@a, che gli gonfia l'anima e la
+vota d'ogni valore.  Dante che in simbolo @e l'Umanit@a,
+s'appressava a Lucifero, detto ^L'Imperator del doloroso regno~; or
+vedi se agli uomini che usano a corte di Principi, di Re, e
+d'Imperatori, non accade spesso sotto l'influenza di quelle aure
+ci@o che in Inferno addiveniva al nostro mistico viaggiatore!
+
+	|104-105.  Questo chi muove?~ ecc.  ^Donde mai procede~
+|questo~ ^vento? che essendo movimento d'aere, non son egli qui
+vapori ed esalazioni che il Sole levi su dalla terra a causare cotal
+fenomeno.
+
+	|Muove.~  ^Vento~ @e voce che per molti si trae da ^venio~;
+^quia sit aeris motus, venire autem sit moveri.~  Scalig. L.L. c.
+67.
+
+	|105.  Non @e quaggiuso~ ec.  ^Fin da ora egli sente il
+freddo vento delle ali di Satana; e domanda la cagione, e Virgilio
+lo lascia in sospeso.  Questa preparazione @e tocco maestro.~  Tomm.
+
+	|Vapore spento.~  Cic. 2, de Divin.: ^Placet enim Stoicis,
+eos anhelitus terrae, qui frigidi sint, cum fluere coeperint, ventos
+esse.~  E Vitruv.: ^Ventus est aeris fluens unda.... Nascitur cum
+fervor offendit humorem, et impetus fractionis exprimit in spiritus
+flatum.~
+
+	|106.  Avaccio~:  ^tosto, presto~ [In Ebr. ^hava~ essere, ed
+^atz~ celere, precipitoso, fanno il verbo ^hhaphatz~ affrettarsi,
+precipitarsi; onde ai nostri primi padri della lingua venne
+^avacciare, avaccezza, avaccianza, avacciamento, avaccevole,
+avacciatamente,~ ed ^avaccio~ or sust., or addiet., e pi@u spesso
+come qui, avverbialmente usato.  Coteste voci antiquate non si
+vogliono oggi adoperare.]
+
+	|107-108.  Fiato~: ^vento~ (Inf. V. 42, nota).  -- Il
+Petrarca, P. I, son. 33:
+
+     Del lito occidental si muove un fiato,
+       Che fa securo il navigar senz' arte.
+
+|Piove~: ^manda da alto~; usato  per ^Catacresi~ e molto
+opportunamente; perciocch@e quel fiato @e mosso dalle ali di
+Lucifero, il quale s'innalza a smisrata altezza sulla ghiacciata
+lacuna di Cocito.
+
+	Di ^piovere~ att., in sentimento di ^versare~ o ^spargere
+quasi a similitudine di pioggia~, ecco esempio del Frescobaldi:
+
+     Io sento piover nella mente mia
+       Amor quelle bellezze, che in voi vede.
+
+E ben mille altri ce n' ha, da' quali il Gherardini induce che a
+questo verbo @e propria la forza attiva, senza che s'intenda usato
+traslativamente [Gio. Gher., Voci e maniere di dire italiane.]
+
+	|109.  Fredda crosta~ (Vedi Inf. XXXII, 25, nota).  --
+^Gelate croste~ (Inf. XXXIV, 75).  |Fredda~, anche per distinguerla
+dalla superficie del lago di pece bollente che fu detta anche
+^crosta~ (Inf. XXII, 150).
+
+	|110.  Anime crudeli.~  Lo spirito che qui parla, crede che
+i due Poeti sieno dei dannati che vadano al luogo della loro pena.
+
+	|Crudeli.~  Altrove (Inf. XI, 88) son detti ^felli~ i
+traditori, in genere.  Qui @e tanto meglio appropriato questo
+epiteto alla ^Malizia,~ per la quale (Inf. XI, 61 segg.):
+
+     ....quell'amor s'obblia
+     Che fa natura, e quel ch'@e poi aggiunto 
+     Di che la fede spezial si cria.
+
+D'ogni malizia odiata in Cielo, quella che qui si punisce @e la pi@u
+perversa: e come ^bont@a~ @e mitezza, nobilt@a, umanit@a, cortesia
+ec.; cos@i gli spiriti sommamente ^mali~ di questa cerchia sono a
+rigor di vocabolo appellati ^crudeli~; e non mica perch@e (come
+dicono il Landino ed altri) non sovvengano a Frate Alberigo.  La
+tripartizione dell'Inferno Dantesco @e fatta secondo l'Etica di
+Aristotile, che distingue i colpevoli in ^Incontinenti~ [E questi
+son puniti ne'primi cerchi dell'Inferno di Dante.], ^Bestiali~
+[Puniti nel VI cerchio.], e ^Maliziosi~ [Puniti ne' cerchi VII, VIII
+e IX.].  San Tommaso, seguendo eziandio la dottrina dello Stagirita,
+scrive: ^Peccatum humanum reducitur ad haec principia: Ignorantiam,
+Passionem, et Malitiam.~  Or nell'ultima lacuna di Cocito @e la
+^Malizia~ somma, contraria alla somma ^Bont@a~ che @e in tutto
+nemica di ciascun ^crudele.~
+
+	|111.  Tanto che~ ec.   I pi@u legano il ^tanto che~ col
+^crudeli~, e intendono: ^O anime tanto crudeli, che~ ec.  Al Cesari
+parve che qui fosse da prendere ^tanto che~ in sentimento di
+^mentre che, in questo mezzo, che, finch@e~ ec. [Cos@i nel Boccaccio
+ove Calandrino che va per lo Mugnone in cerca dell'Elitropia, dice:
+^A me pare, che noi abbiamo a ricogliere tutte quelle~ (pietre) ^che
+noi vedremo nere, tanto che noi ci abbattiamo in essa.~], e leggere
+con quest'appuntatura: ^O anime crudeli, Tanto che siate condotti
+pi@u basso, levatemi~ ec.  E cos@i presso a poco avea gi@a sposto il
+Guiniforte: ^Nanti che voi siate posti nell luogo, dove poi dobbiate
+sempre stare, levatemi~ ec.  Cos@i il Landino: ^Insino a tanto che
+non vi @e dato la ultima posta~ ec.  Alla prima delle due
+interpretazioni s'attenne il Biagioli.  I Poeti presi per dannati
+soccorrerebbero secondo lui tanto pi@u volentieri allo spirito che
+parla, per quanto si terrebbero gloriosi della loro pi@u grave
+reit@a.  Cotesto non piacque al Cesari: <Conciossiach@e, quantunque
+i peccatori amino i loro misfatti, non hanno per@o cos@i perduto
+ogni natural lume, che se ne possano anche gloriare [Ma ne'Prov. 2,
+sta scritto di cotestoro appunto: ^Laetantur cum male fecerint, et
+exultant in rebus pessimis.~], e ad onor reputarseli; massime certi
+pi@u infami peccati, come questo di tradimento: n@e certo alcuno per
+lusingar chicchessia, vorrebbe chiamarlo, Messer lo ladro,
+assassino, spergiuro.  Ma io starei a una spiegazione pi@u semplice.
+Costui volea dire: ^O crudeli, che potete mirare questo mio
+tormento senza piangere~ ecc.> -- Suppone anche sien chiamati
+^crudeli,~ come fratelli d'una stessa famiglia, ai quali dovea
+calere de' loro consorti.  Ma i dannati, per s@e, n@e si pentono
+de'loro falli, e n@e gli abborrono per disonore ed infamia che lor
+ne venga; poich@e sarebbe pur questa una buona volont@a, ch'essi
+affatto non hanno [^Velle se non peccasse propter turpitudinem
+iniquitatis est bona voluntas; sed hoc non erit in damnatis.~ S.
+Thom., Summ. suppl., Quaest. XCVIII, Art. 2.].  Quel lume naturale
+che resta in loro, pu@o mai far volere cosa che sia lodevole e
+buona?  La naturale inclinazione al bene e all'onesto @e in quelli
+gi@a corrotta dall'abito della malizia, la quale fa ch'ei tengano il
+bene per male, e il male per bene [S. Th., loc. cit., Art. 1.].
+Supporre adunque ne' pi@u perversi traditori il menomo grado di
+vergogna, e pensare che potessero avere a male che altri gli appelli
+^crudelissimi~, tanto @e a dire, quanto che cotestoro sieno in
+Inferno pi@u onesti o meno rei, che non furono in questo mondo;
+laddove: ^Major est perversitas damnatorum, quam peccatorum in hoc
+mundo~ [S. Th., loc. cit. Art. 2.].
+
+	Senza mettere in mezzo la ^gloria~ che i maligni spiriti dar
+si potessero de' loro misfatti, o l'idea del ^consorzio~ che render
+gli dovesse umani verso i lor pari; noi crediamo che il senno del
+Poeta fosse anzi di farci intendere, che tra quelle anime perdute @e
+fatale che a ciascuno sia, per giustizia cio@e senza ingiuria, dato
+il titolo che gli conviene; e che la loro natura @e pervertita a tal
+segno, da non gravar pi@u loro le parole contumeliose, le quali di
+qua tra noi alienerebbero il nostro animo dall'offensore.
+
+	Noi dunque ordiniamo col Biagioli le parole di questo luogo,
+e le interpretiamo diversamente, secondo che or ora @e detto.  Le
+chiose del Bargigi, del Landino e del Cesari hanno tre principali
+inconvenienti: 1+o~ La frase ^Tanto che dato v'@e~, intesa nel senso
+loro, sarebbe una sgrammaticatura, perciocch@e pigliando il ^Tanto
+che~ per ^finch@e~, questo vocabolo richiederebbe, a rigore, il
+tempo futuro, non mica il presente, come ha il testo; dovendosi
+rigolarmente dire ^Finch@e vi sia dato~, o ^Fino a che non vi sar@a
+dato~ ec.
+
+	Dante stesso (Purg. X, 85 segg.):
+
+     .....Ora aspetta
+     Tanto ch'io torni. --
+
+2+o~ Farebbe supporre non ancor ^dato~ ai dannati, che hanno omai
+valico tutto l'Inferno, il luogo di pena, gi@a tanto innanzi
+assegnato loro per la coda del severo Minosse. -- 3+o~ Il ^Fino a
+tanto che ~ pone in mezzo un tempo, che non si d@a presso quel
+tribunale, tra la condanna e l'esecuzione.  Le anime mal nate (Inf.
+V):
+
+     Dicono e odono, e poi son gi@u volte.
+
+e si precipitano al deputato luogo, senza punto d'indugio; dacch@e
+la divina giustizia gli sprona:
+
+     S@i che la tema si volge in disio.
+
+Intendiamo perci@o il presente luogo cos@i: ^O anime tanto crudeli,
+che v'@e data,~ cio@e ^v'@e stata gi@a data~ [Dante (Rim., Canz.
+XIV) disse:
+
+     L'esilio, che m'@e dato a onor mi tegno.
+
+dove il ^m'@e dato~ vale il ^mihi datum est~ o ^fuit~ de' Latini, che
+rechiamo nel nostro volgare, ^mi @e stato~ o ^mi fu dato.~  Avea
+gi@a ^pi@u lune volto il sole~, dacch@e Dante era in esilio e questo
+scriveva.  Vedi anche Inf. XXIV, 34-36, nota.] ^l'ultima posta~ ecc.
+
+	|Posta~: ^Posto, luogo.~  Cos@i ^ghiaccia,~ per ^ghiaccio~
+(Inf. VII, 20; XXXII, 26, 35, note).
+
+	|Ultima posta~, come a rei del pi@u grave tradimento.  Di
+Minosse (Inf. V, 7) @e detto che:
+
+     ...quando l'anima malnata
+       Li vien dinanzi, tutta si confessa;
+       E quel conoscitor delle peccata
+       Vede qual loco d'inferno @e da essa.
+
+Or costui attorce nove volte la coda al duro dorso, quando danna
+traditori, del cui novero lo spettro che parla credette che fossero
+i due Poeti.  Ma, primamente, qual'@e quest'^ultima posta~?  Il
+Lombardi, il Biagioli, il Cesari ec. pensano che sia la Giudecca,
+l'ultimo de' quattro gironi del IX cerchio.  Il Bargigi, il Landino
+ec. intendono |ultima posta~, ^ultimo luogo, ove sempre avete a
+stare.~  Il Tommaseo (v. 117): ^L'ombra credendolo un dannato della
+Tolommea, gli d@a fede.~  E pare a prima vista abbia egli dato nel
+segno, considerando che altrimenti poco accorto si mostrerbbe il
+malizioso Alberigo; il quale sa gi@a fin da ora, che i Poeti vanno a
+Lucifero, e lasciasi poi non pertanto s@i leggermente ingannare alle
+false promesse di Dante, che gli dice (vv. 116 seg.):
+
+     ...E s'io non ti disbrigo.
+     Al fondo della ghiaccai ir mi convegna.
+
+Ma al contrario, non @e da confondere ^l'ultima posta~ (che secondo
+noi ben va intesa per la Giudecca) col ^fondo della ghiaccia~, ch'@e
+la parte inferiore (Inf. XXXIV, 117):
+
+     Che l'altra faccia fa della Giudecca.
+
+E il Poeta dice: |Al fondo della ghiaccia~ ec. ^nonch@e nell'ultima
+posta, che tu di', ma gi@u affatto nel fondo.~  Se ^ultima posta~ si
+chiamasse la Tolommea, non capiremmo perch@e cotal nome convenir
+non potesse eziandio alla Caina e all'Antenora; e allora a che la
+distinzione di ^ultima~?  Pigliar per essa tutto il IX cerchio,
+sarebbe poi annullare affatto con la gradazione de'quattro
+scompartimenti che nella Ghiaccia son posti, le varie specie di
+traditori.
+
+	Secondamente, onde mai sepp'egli, quel dannato, che i Poeti
+s'andavano all'ultima posta?  ^Dal sentire che verso quella cammin
+facevano.~  Lomb.  -- ^Da che pel suo compartimento passavano senza
+esser fitti nel ghiacio.~  Cesari -- Ricordimao che ad Alberigo gli
+occhi erano stretti dalle lagrime raggelate; che i Poeti non anco
+avean passata la zona ov'era fitto quel misero; e che per@o dal solo
+udito non potea egli arguire o che quelli andassero oltre, o che
+nella stessa ghiaccia fossero per essere immersi.  Ma come i Poeti
+furono in andando a lui s@i presso, che Virgilio potette esser udito
+rispondere a Dante (vv. 106 segg.):
+
+     ...Avaccio sarai dove
+     Di ci@o ti far@a l'occhio la risposta,
+     Veggendo la cagion che 'l fiato piove.
+
+ed egli, senza bisogno d'argomentare, ha gi@a per quelle parole
+chiaramente appreso ch'ei sarebbero iti fino a Lucifero, dov'@e
+^l'ultima posta~ d'Inferno.  Questa interpretazione ci @e insinuata
+dal contesto, e cessa dal Frate Gaudente la taccia di cattivo loico,
+quale il farebbero s@i valenti comentatori.
+
+	|112.  Duri veli~, detti per altro modo  ^visiere di
+cristallo~ (v. 98), e ^invetriate lagrime~ (v. 128).
+
+	|133.  Impregna~: ^gonfa, empie, ingombra, ingrossa.~
+Provenz. ^empreinar~; Spagn. ^emprenar~ -- Il B. Jacopone (Lib. VI.
+C. VIII, 7):
+
+     O cor tapino, e che t'ha emprenato,
+     Che t'ha el dolore cos@i circondato?
+
+<Quell'^impregnar~ che fa il cuor il dolore, dice un milion di cose>.
+Cesari -- E di tante il valent' uomo non ce n'apre pur una.  Certo @e
+qui significata la piena del duolo, che trovando rintoppo sugli
+occhi del misero (v. 96):
+
+     Si volve in entro a far crescer l'ambascia.
+
+	|114.  Un poco~: ^Sfoghi unm poco il dolore.~  Sa che quello
+sfogo non potrebbe essere che per pochi istanti, quanto ne
+correrebbero dall'uscita delle nuove lagrime, al raggelarsi di
+quelle sugli occhi (vv. 94-99).  Pessima delle miserie, e luogo
+privo d'ogni consolazione, dov'@e anche vano il desiderio del
+pianto!
+
+	|116.  Fosti.~  Nella pi@u parte de'codd. si legge ^Sei,
+Se'~, e ^Se.~  Questa lettera tennero il Bargigi, il Landino e
+Vellut., il Lomb., e tra i moderni il Niccolini, il Bianchi ec.
+L'altra, che noi prescegliamo, hanno le ediz. del Burgofranco, Ven.
+1529; e dello Zatta, Ven. 1575.  Si registra nelle ^Varior.~ del
+Witte; e fu prima di noi adottata dal Volpi, dal Venturi, dal
+Biagioli, dal Cesari, dal Tommaseo ec.  La scelta non @e di poco
+rilievo; e per@o udiamo le ragioni de' dotti. -- <^Chi se'~, la
+Nidob., e la Fulgin., ed accorda colla risposta ^io son~ due versi
+sotto>.  Lombardi. -- <Finocchi! che errore ha fatto Dante!  Forse
+lo fece perch@e ^se'~ e ^s'i'~ sonava male al suo orecchio.  Ma per
+s@i poco accordar un passato con un presente?  Ah! questo poi @e
+troppo!>.  Biagioli.  -- Voi date in ciampanelle, signori
+comentatori! voi, sig. Lombardi coi vostri accordi di tempi; e voi,
+sig. Biagioli, con le vostre ciance sonore, che aveano a dilettar
+l'orecchio del divino Poeta.  La poesia viva e vera, schiva della
+leziosa sonorit@a delle voci, reclama sostanzialmente l'accordo del
+pensiero con la realt@a.  Dante crede parlare all'ombra d'un
+trapassato, e ben le dice ^chi fosti~: quegli, vivo ancora in
+Inferno, risponde ^io sono~, e lo ripete due volte, in contrapposto
+a quel ^fosti~: nella quale opposizione sta l'accordo ideologico
+eminentemente estetico, contro cui nulla valgono le sottilit@a della
+gretta pedanteria.
+
+	|117.  Al fondo~ ecc.  -- Chi creder@a lecite le restrizioni
+mentali ne' giuramenti, nelle imprecazioni e in ogni maniera di
+favellare, mandi buona all'Alighieri l'ambiguit@a di questa
+sentenza, intesa da lui diversamente, che dal Faentino Frate
+Alberigo.  Si d@a forma imprecativa a una proposizione ottativa,
+promettendo ci@o che si ha in animo di non attenere.  Se il Tosco sa
+che le sue parole son prese dal Romagnuolo in senso diverso da quel
+ch'egli intende, in quello stesso ch'ei parla, falle chi l'ode; e
+non sapremmo come si potesse asserire che qui Dante non dica falso.
+Noi ammiriamo in questo luogo pi@u l'astuzia, che la onest@a  del
+Poeta; la quale quando fosse perfetta, per niuna cosa del mondo
+permetterebbe, che si parlasse a bello studio per abusare l'altrui
+fede, sia in questo mondo con qualsivoglia uomo, sia nell'Inferno
+co'traditori; poich@e l'altrui demerito non fa lecita una
+indegnit@a.  ^E' doveva andar fino al centro: onde non dice falso.~
+Tomm. -- Dice vero quanto a s@e, che sa che si dica; falso quanto ad
+Alberigo, che non ha l'obbligo di sapere che Dante si vada in carne
+ed ossa aggirando per l'altro mondo; e prende le parole di lui come
+porta il loro significato e la forma imprecativa onde sono espresse.
+Agli onesti non si consente il parlare con l'intento d'ingannare
+altrui.  Se Dante avesse in vita proseguito quest'arte, sarebbe
+tanto potuto avanzarvisi, da restare per lui anche un posto nella
+cerchia de'traditori.  -- ^Il Poeta crede lecite con un traditore le
+restrizioni mentali.~  Tomm. -- O son elle in s@e oneste, o no: nel
+primo caso le sono oneste con tutti, nel secondo non sono con
+nessuno.  La morale delle ^restrizioni mentali~ porge pretesti allo
+spergiuro; l'inviolabilit@a de' giuramenti divien trastullo da
+vecchi.  -- Aug., de Evang. (II, 22).  ^Non ogni cosa che si finga
+@e menzogna, quando fingiamo cosa che niente significa di vero
+allora @e menzogna; ma quando la finzione nostra risponde a una
+qualche signficato, non n@e menzogna; @e una certa figura di
+verit@a.~  Tomm. -- Quersto egregio uomo cita qui il S. Dottore,
+come Voltaire i passi della Bibbia.  S. Agostino (Quaest. Evang.
+Lib. II, LI, 1), intende parlare delle figure che sono ombre del
+vero, quali furono per il Cristo le parabole, per Esopo gli
+apologhi.  Ci@o che dice Dante non @e figura di nessun vero; ma @e
+il vero stesso esposto sotto forme fallaci.  L'autorit@a del S.
+Padre non suffraga al Poeta.  Potrebb'egli dirsi di Dante, quel che
+S. Agostino scrive (Joann. Tract. XXII, 2) di Cristo?  ^Non tamen
+sine causa loquitur nobis, nisi quia verum est quod promittit
+nobis.~  Altrove leggiamo (Epist. Joann. Cap. II Tract. III, 6):
+^Non dixit quddam mendacium non est ex veritate.  Sententiam
+attendite: ne vos palpetis, ne vos aduletis, ne vos decipiatis, ne
+vos illudatis: Omne mendacium non est ex veritate.~  E quivi: ^Ideo
+mendax~ (Antichristus) ^quia aliud loquitur, aliud agit.~  Dante non
+era dove gli fosse stato mestieri, parlando alle turbe, fare uso
+delle parabole, n@e lo stringeva l'ira de'despoti a covrire sotto
+il velo delle favolette la temuta schiettezza del vero: anzi che la
+figura, gli era debito seguire la verit@a reale, e parlare
+veridicamente ^est est, non non~; come vuol che si parli l'Evangelio
+comentato da S. Agostino.  @E per@o che qui ci ricorre alla mente
+il detto della Ciciliana:
+
+     Chi ha a far con Tosco
+     Non vuol esser losco.
+
+Ed in vero Dante mostra qui d'essere anzi un astuto Fiorentino, che
+il Poeta della rettitudine.
+
+	|Ir mi convegna.~  E conveniva a Dante discendere sino al
+centro infernale; siccome per tradimento fatto a Beatrice (Purg.
+XXX, 136 segg.), simbolo della Sapienza, era egli caduto nel fondo
+della Selva oscura.
+
+	|118.  Frate alberigo.~  Costui fu dei Manfredi signori di
+Faenza.  Vecchio si rese Cavalier Godente (Inf. XXII, 103, nota).
+Essendo discordia tra lui ed altri Frati di quel consorzio, cov@o
+levarseli di impaccio; e acciocch@e il tradimento avesse pi@u
+sicuro effetto, mostrava in sembiante d'essersi gi@a rappattumato
+con esso loro; poi gl' invit@o a mensa, e verso la fine del desinare,
+dicendo lui: ^Fuori le frutta~, a questo segnale usc@i sopra
+quegl' infelici l'aguato de' sicari onde furono uccisi [Land., Vellut.,
+Biag., ec.].  Secondo il Cassinese, i traditi furon due fratelli
+Manfredo e Alberghetto, nipoti di esso Alberigo.  Pietro di Dante
+dice Alberghetto figliuol di Manfredo.  IL Boccaccio aggiunge che
+questo garzoncello corse, in quell'assalto, a nascondersi sotto la
+cappa del traditore, e fu l@i stesso trucidato.  Il Bargigi fa
+Manfredo cugino d'Alberigo.  Il Tonduzzi (^Stor. di Faenza~) pone il
+fatto avvenuto nel Contado Acarisi in Pieve di Ces@a, al Castel di
+Cerata, l'anno 1285.  L'Imolese narrandone pi@u per minuto i
+particolari, ci apre le cagioni che poteron muovere il Frate a s@i
+atroce misfatto: ^Ad sciendum ergo, quis fuerit iste spritus,
+oportet scire, quod iste vocatus est Frater Albericus de Faventia
+Civitate de Manfredis Nobilibus et potentibus, qui saepe habuerunt
+dominium illius Civitatis.  Et fuit iste de Fratribus
+Gaudentibus.... Fuerunt autem in Domo praedicta tres consanguinei
+eodem tempore, scilicet Albericus iste praedictus, Alberghettus, et
+Manfredus.  Accidit autem, quod in MCCLXXXVI, Manfredus iste,
+juvenis animosus, cupiditate regnandi, struxit insidias Fratri
+Alberico.  Et quum devenisset ad graves verborum contentiones,
+Manfredus ductus impetu irae, dedit Fratri alapam magnam, scilicet
+Fratri Alberico.  Sed ipse Frater Albericus sagacior illo rem hanc
+aliquandiu dissimulavit et tulit.  Et tandem quum iste credidit
+injuriam hanc excidisse a memoria illius, finxit velle reconciliari
+sibi.  Deinde Manfredus ipse dixit, quod parcendum erat calori
+juvenili.  Fact#a igitur pace, Albericus ipse fecit convivium, cui
+interfuerunt Manfredus et unus filius eius.  Finit#a coenm#a cum
+magna alacritate dixit Albericus: VENIANT FRUCTUS.  Et subito
+erupuerunt famuli armati, qui latebant ibi post unam cortinam, qui
+crudeliter trucidaverunt patrem et filium, Alberico vidente et
+congaudente.
+
+	|119.  Delle frutte~, @e la lezione dei pi@u preziosi
+codici.  ^Da le fructa~, il Cod. Cassin, e ^Dalle frutta~ hanno con
+la Nidobeatina la pi@u parte delle edizioni antiche.  Alcuno tra i
+moderni ama dir ^dalle frutte~, e alcun altro ^delle frutta.~
+Ottima di tutte le varianti reputiamo che sia ^dalla frutta.~
+Contro il Venturi e gli Accademici, i quali sentenziarono, non
+trovarsi ^frutta~ al numero del pi@u, sta fra gli altri l'esempio
+di G. Villani: ^Viveano quasi come bestie di frutta e di ghiande.~
+E pu@o ben dirsi ^le frutta~, come ^le mascella, le grida, le legna~
+ec., che son voci terminate alla maniera de' nomi lat. della prima,
+siccome appo i Provenzali si dice ^la verba, las verbas; la gesta,
+las gestas; la fruita, las fruitas~ ec.; e simile appo gli Spagnuoli
+^la vierba, las vierbas; la fructa, las fructas~, ec. -- ^Frutte~ @e
+poi il plurale di ^frutta~, come ^travaglie~ di ^travaglia~ (Inf.
+VII, 20, nota).
+
+	|120.  Riprendo dattero per figo~, come dire: ^ne son pagato
+a stajo ben colmo; ne son castigato a misura di carboni; mi @e reso
+pan per focaccia, tre pan per coppia;~ o altro simile.  Non vogliam
+giudicare se stia ben messo in bocca del Frate un motto, che lo fa
+parere quasi voler la baia del fato suo; lui che test@e udito
+abbiamo implorar misericordia alle sue ambasce: ma non pare che
+questo modo possa dinotare altro da quel che gi@a ne dissero il
+Landino, il Bargigi, il Volpi, il Venturi, il Lombardi ecc.; la
+sposizion de'quali torna a questo del Vellutello: |Riprendo dattero
+per figo~: ^Perch@e di quanto il dattero @e pi@u eccellente frutto
+del fico,di tanto vuol inferire, ch'era maggior pena quivi la sua,
+di quella che diede ai suoi consorti nel farli morire.~  Il Biagioli
+frantende la chiosa del Lombardi, e il ^dattero per figo~ vuol che
+significhi la ^pena pari alla colpa.~  Noi non gli contendiamo ci@o
+che dice, non esser vero che il dattero sia del fico pi@u pregiabile,
+forse che questo gli sapeva pi@u buono alla bocca, ed ei si vuol
+lasciare a ciascuno il gusto suo; ma egli prende un granchio a
+secco, per non aver considerato che qui non sono, stando al
+contesto, messe in relazione ^colpa~ e ^pena~; ch@e mal si direbbe
+Alberigo aver data la colpa e riavuta la pena; ma sta detto ch'egli
+tradendo tolse altrui la vita mortale (e questo @e il fico e le
+frutta ch'ei diede), e gli fu data in pena della gravissima colpa,
+la morte eterna, significata nel dattero, che vuol prendersi
+ironicamente per l'amarissimo frutto che ne ricolse.
+
+	|Figo~: ^fico~ (Inf. XXV, 1-3, nota in fine).
+
+	|121.  Oh! dissi~ ec.  Maraviglia il Poeta trovar qui ora
+sepolto in Cocito, colui che poco innanzi avea lasciato vivo nel
+mondo.
+
+	|Lui~: ^a lui~ (Inf. I, 81, nota).
+
+	|Ancor.~  Il Blanc col Lombardi prendono questa particola nel
+sentimento del ^quoque~ o ^etiam~ de'Latini.  Ma il Biagioli
+originando il vocabolo dalla frase ^ad hanc horam~, lo spiega per
+^gi@a~; e in questo senso, non avvisato dalla Crusca e il Gherardini
+dallo stesso Dante (Purg. XXIII, l82):
+
+     Come se'tu quass@u venuto ancora? (^s@i presto?~)(a).
+
+[(a) Altri punteggiano:
+
+     Come se'tu quass@u venuto?  Ancora
+       Io ti credea trovar laggi@u di sotto ^ecc.~
+
+e il Gherardini pare non tenga conto di questo esempio, a dimostrare
+l'^ancora~ usato per ^s@i presto~; adducene in pruova il passo del
+Boccaccio.]. e dal Boccaccio (G. IX, n+o.~ 4): ^E veggendo
+l'Angiulieri in concio di cavalcar, disse: Che @e questo,
+Angiulieri? vogliamcene noi andar ancora?~ (cos@i presto?) ^Deh!
+aspettati un poco.~
+
+	|122-123.  Come il~ ec.: ^Non so in che modo possa il mio
+corpo da me disgiunto rizzarsi in piedi, stare, reggersi, andare;
+anzich@e giacer cadavere.~
+
+	|122.  Stea~:  ^stia.~  Par. II, 101:
+
+     ....Fa che dopo il dorso
+       Ti stea un lume che i tre specchi accenda.
+
+	Nel Novellino, nov. XX: ^Non piaccia a Dio che l'anima di
+cos@i valente uomo stea in prigione per moneta~ [Da ^Stere~, forma
+antica del verbo ^Stare~, provenivano regolatamente al presente del
+congiuntivo le inflessioni ^sta, sta, sta... stano~, come ^tema~ ecc.
+da ^temere~; ma queste essendo anche voci dell'Indicativo presente
+dellos tesso verbo ^stare~, fatte dal lat. ^stas, stat~ ecc. si
+conformarono sulle latine ^timeam, timeas~ ecc., e si disse ^stea;
+stea, stei; stea... steano~; e quindi, mutata l'^e~ in ^i~, ^stia~ ec.
+Alle stesse fasi and@o soggetto il verbo ^Dare~; onde al v. 126
+leggiamo ^dea~ per ^dia.~  Se ne trova esempi negli antichi
+scrittori.  Ne' volgari di Toscana fu s@i propria questa cadenza,
+che Cecco Angiolieri, motteggiando disse:
+
+     Deh! che ti dea 'l mal an fi della putta.]
+
+	|123.  Nulla scienzia porto~:  ^Non so se paia vivo o
+morto.~  Barg., Vellut., Lomb. -- Ma quegli sapeva gi@a d'aver
+lasciato un diavolo in sua vece nel corpo suo; sapeva ci@o che
+accade ai traditori del suo conio (vv. 129-133).  Non, dunque, che
+ei non sapesse che il corpo suo, sotto il governo del dimonio che vi
+tenea vece dell'anima, stava, e moveasi, e andava come d'uom vivo;
+ma non aveva affatto |scienzia~, cio@e ^conoscenza perfetta~ o
+^notizia certa~ del |come~ tutto questo addivenir potesse:
+imperciocch@e ^forma~ del nostro corpo non @e lo spirito diabolico,
+ma l'anima umana, la quale ha specifica virt@u, che dimostrasi per
+effetto nelle funzioni della vita sensitiva ed intellettiva
+dell'uomo.  Ci avvisa perci@o che i prelodati espositori non
+abbiano qui dato nel segno; e n@e che in questo luogo il vocabolo
+^scienza~ si tolga convenevolmente per una ^notizia~ qualunque,
+anzich@e per quella che viene non dalla nuda certezza del fatto, ma
+dalla intelligenza de' princip#i e delle ragioni ond'esso si spiega.
+Contro questa nostra interpretazione sta l'autorit@a del Tommaseo,
+il quale chiosa: <|Scienzia.~  Per sapere di notizie anche minime,
+era delle Scuole; e tuttod@i: ^di certa scienza~> e che la frase del
+testo |nulla scienzia porto~ parrebbe accennare ad alcuna fra molte
+notizie quali che sieno; laddove la cognizione perfetta d'una cosa
+non pu@o esser pi@u che una, come uno @e il vero.
+
+	Rispondiamo: 1.+o~  Uno e indivisible @e il vero in s@e;
+pure vi si pu@o pervenire per molte vie, e la varia disposizione e
+natura degli argomenti che lo dimostrano, costituiscono la
+diversit@a della scienza, nonvaria in s@e, ma nel modo onde ella
+s'apprende: 2.+o~  Le parole: ^Nulla scienzia porto come il corpo
+stea~ ci dicono abbastanza che Alberigo non ignorava il ^fatto~, ma
+l'^etiologia~; non sapendosi egli medesimo render ragione del
+^come~: 3.+o~  ^Nulla scienzia porto~ egli antichi, e co' moderni lo
+stesso Ch. Tommaseo, tutti rendono per la frase: ^non so,~ alla
+quale giunto il ^come~, si avr@a una forma significativa di qualcosa
+pi@u che d'una ^notizia minima~: 4.+o~ |Nulla~ val ^niuna~; ma
+ricorderemo eziandio che il ^nullus~ appo i Latini fu frequentemente
+adoperato in sentimento del semplice avverbio negativo: 5.+o~ In
+tutti gli altri luoghi del Poema (Inf. IV, 73; VI, 106 -- Purg. XV,
+99 -- Par. V, 41) e sovente altrove eziandio, Dante usa il vocabolo
+^scienzia~ nello stretto senso che qui diciamo.
+
+	|124-126.  Cotal vantaggio~ ec.  ^Questa cerchia sta innanzi
+alle altre in questo, che in tutti gli altri luoghi d'Inferno non va
+dannata anima, se non dopo il tempo della morte: qui cade prima, e
+mentre il peccatore @e ancor vivo.~  Quasi a chi sotto specie di
+ospitalit@a e di benevolo affetto tradisce a mensa il congiunto o
+l'amico non sia da indugiar la pena fino a quel termine; e che il
+delitto stesso con pi@u forza della Parca inesorabile tiri gi@u
+nell'inferno l'anima di s@i rei traditori, e vivi ancora
+gl' inghiotta l'abisso.  Davide contro uomini di tal risma (Salm.
+LIV, 16) sclama al Signore: ^Veniant mors super illos et descendant
+in infernum viventes.~  Il concetto Alligheriano vince in efficacia
+e bellezza l'imprecazione del Re salmista, e, come vedremo, alle
+stesse imagini tolte dalla Bibbia d@a quasi forma plastica e colori
+s@i naturali e s@i vivi, che non @e uomo che non aborrisca una colpa
+la quale @e degna di tanta pena.
+
+	|124.  Vantaggio~:  ^prerogativa.~  Vellut. -- Ironia, per
+dire ^questo ha di peggio.~  Land., Vent., Lomb., Biag., Bianchi,
+Tomm., ec.  -- Il Costa, il Poggiali ed altri spiegano ^vantaggio~
+per ^soprappi@u~, ed escludono il senso ironico.
+
+	|Tolommea~ s'intitola questa terza sfera o dal traditore del
+gran Pompeo, ovvero, come ne dicono gli antichi [Vedi Pietro Aligh.,
+Barg., Land., Vellut., ec.], da quel Tolommea, che a splendido
+convito uccise in Gerico il suocero e due suoi cognati (Machab. Lib.
+I. Cap. 16, vv. 11-17).  Frate Alberigo e Branca d'Oria somigliano,
+come traditori, pi@u al duce ebreo, che al re egiziano [^Ptolemaeus
+filius Abobi constitutus erat dux in campo Jericho, et habebat
+argentum et aurum multum; erat etiam gener summi sacerdotis.  Et
+exaltatum est cor eius, et volebat obtinere regionem, et cogitabat
+dolum adversus Simonem et filios eius, ut tolleret eos.  Simon autem
+perambulans civitates quae erant in regione Iudaeae, et
+solicitudinem gerens earum, descendit in Jericho ipse et Mathathias
+filius eius, et Judas... -- Et suscepit eos filius Abobi in
+munitiunculam, quae vocatur Doch. cum dolo, quam aedificaverat: et
+fecit eis convivium magnum, et abscondit illic viros.  Et cum
+inebriatus esset Simon et filii eius, surrexit Ptolemaeus cum suis,
+et sumpserunt arma sua, et intraverunt in convivium, et occiderunt
+eum, et duos filios eius, et quosdam pueros eius: et fecit deceptionem
+magnam in Isra,el, et reddidit mala pro bonis.~]; onde crediamo che
+Pietro di Dante, meglio che non fanno i moderni, intendesse le
+ragioni, per le quali a questo terzo scompartimento della Ghiaccia
+venne imposto il nome di ^Tolommea.~
+
+	|126.  Innanzi che~ ecc.: ^prima che per morte non sia~
+(l'anima) ^partita del corpo.~
+
+	|Atropos~, quella delle tre Parche, la quale, secondo le
+Favole, avea l'ufficio di recidere lo stame della vita umana.  S@i
+detta dal greco vocabolo %Alpha%tau%rho%o%pi%o%varsigma\; dappoich@e
+la Dea fatale, ch'@e l'^indomita mors~ d'Orazio (II. Od. 14), ^non
+si svolge,~ @e ^immutabile, inesorabile.~
+
+	|Mossa le dea~: ^le dia la pinta.~  Espressione relativa
+all'idea del ^cadere~ (v. 125); perciocch@e l'anima ch'@e il
+principio vitale, imaginata attenersi ad un filo, fa che si pensi
+come troncandosi questo dalle forbici di Atropo debba se fu virtuosa
+salir come fiamma viva a Dio, se rea e gravata dal peso delle sue
+iniquit@a (Inf. XXXII, 73-74, nota) ^ruinare in siffatta cisterna~
+(v. 133).  -- <Bello questo ^mossa le dea~>.  Cesari.  -- Abbiamo
+tentato renderci ragione di questa bellezza; anche perch@e si vegga
+quanto la comune lezione sia preferible alla variante ^morso le
+dea~, ch'@e notata nelle ^Varior.~ del Witte, e leggesi nel testo
+Bargigi con una postilla del Zacheroni; a cui per cotesto ^morso~
+sembra meglio indicato l'ufizio dell Parca, che a stroncare il filo
+adopra or le fobici, ed ora i denti.
+
+	|Dea~: ^dia~, come ^stea~ per ^stia~ (v. 122).
+
+	|127.  Rade~: ^rada~ (Inf. XXV, 6, nota).
+
+	|128.  Invetriate~: ^congelate e dure fatte in sembianza di
+vetro; vetrificate,~ (v. 98, e C. XXXII, 23-24, nota).
+
+	|129-147.  Sappi che~ ec.  In sent.: ^Chi tradisce l'amico,
+il congiunto, l'ospite, in quello che gli si finge mostrare
+benevoglienza ed affetto, lascia incontanente il corpo suo sotto il
+governo del diavolo, che vi tien vece dell'anima, gi@a ruinata in
+Cocito, tutto quel tempo che gli era prescritto a star tra i
+viventi.~  Il Poeta si mostra rest$io a credere questa terribile
+metamorfosi: Alberigo allega in conferma del fatto suo i casi di
+Branca d'Oria e di altri.  Secondo le Scritture sante, Dio @e vita
+dell'anima, siccome l'anima @e vita del corpo.  Chi vive in colpa
+grave @e morto spiritualmente: e poich@e Dio non @e seco ed egli pur
+ci sembra vivo; dunque altro principio che non @e l'anima gi@a morta
+debbe reggere quelle membra: questo principio diverso da Dio e
+dall'anima ragionevole @e il Demone che muove cotal uomo a opere
+d'iniquit@a.  Alla Bibbia @e dovuto il sublime concetto di
+riguardare caduto vivo in Inferno e animato dallo Spirito delle
+tenebre chi persevera nel peccato [Come color che son ripieni di
+perfetta carit@a, dir possono di s@e: ^Nostra mansio est in coelis~,
+e con S. Paolo (Ad. Galat. II, 20): ^Vivo autem jam non ego, vivit
+vero in me Christus~; cos@i, e converso, questi traditori, in cui @e
+spenta ogni favilla di amore, potrian dire: ^Nostra mansio est in
+poenis; Vivo ego jam non ego, quia vivit in me Diabolus.~  Pietro
+Alighieri allega (da' ^Decret.~) la sentenza: ^Peccato moritur
+anima, disjungitur a Deo et jungitur Diabolo~; quella che di Giuda
+leggiamo (Johan. XIII, 27): ^Introivit in eum Satanos~; e il testo
+dell'Apocalisse (III, 1): ^Scio enim opera tua, quod nomen habes
+quod vivas, sed mortuus es.~  Dippi@u, il peccato per lo quale
+avviene la separazione dell'anima da Dio ch'@e vera Vita, si appella
+^Morte~: or ^Morte~ s'appella eziandio il Diavolo, per la cui
+invidia venne al mondo il peccato, entra il Diavolo; e dov'@e il
+Diavolo, quivi @e l'Inferno.  ^Separatio animae a Deo Mors
+appellatur... Et ipse auctor mortis hujus, Diabolus, Mors
+appellatur.~  Origene.].  Dante quelle imagini <Fatte dal tempo omai
+tacite e nere> ravviva di freschi colori, e alle astrusit@a
+speculative della Mistica sostituendo l'evidenza dialogica di
+persone vive e reali, ti suggella indelebilmente nel pensiero
+l'altissima idea che adombra il traditore sotto le forme spaventose
+d'un dimonio incarnato.
+
+	|129-132.  L'anima trade.~  Innanzi alla divina Giustizia il
+peccato @e imputabile fin nel pensiero; ma ^L'anima del traditore,
+appena pensato il tradimento precipita nell'Inferno.  Ella lo pensa:
+un demonio lo compie~ (Tomm.).  Questo si @e voluto significare
+eziandio per quelle parole (v. 144 seg.), ov'@e detto che Michel
+Zanche non anco era giunto nella pegola bollente,che il Diavolo fu
+gi@a entrato nel corpo del traditore.  Dante non va notando i reati
+secondo le sanzioni de'codici umani; ma giusta le leggi della
+^Monarchia divina~, la quale spia nel secreto dell'anima il mal
+pensiero, e lo condanna, senza che le faccian mestieri elementi o
+indizi esterni di colpabilit@a.
+
+	|129.  Trade~: ^tradisce.~  -- <^Trade~ l'Ottimo lo dice in
+prosa>.  Tomm. [A cotesto ^Trade~ arricciano il naso i letterai.
+Ma, e non si dice anche bene ^aborre, compie, nutre, pente, molce,
+pate~ e mille altri?  Intorno ai verbi della terza Coniugazione che
+han doppia uscita al presente dell'Indicativo, l'uso degli approvati
+scrittori or ti sembra ragionevole, ora affatto arbitrario.  @E, ad
+es., perch@e si rifiuti ^ammone, guare, fine, orde, colore~, ecc.
+per ^ammonisce, guarisce, finisce, ordisce, colorisce~, ec.: nessuna
+ragione, onde abbiasi a fare mal viso a ^Trade.~  I Latini ebbero
+^sentiscit~; noi non il ^sentisce~, ma il ^sente.~  Non @e chi speri
+di spiegarci perch@e mai in cotesta razza di verbi alcuni hanno una
+sola delle due desinenze, altri tutte a due, altri questa a
+preferenza di quella.  Dante bene assimigli@o la Grammatica alla
+Luna.  E pure ha le sue leggi madonna Cinzia, l'altra non s@i; la
+quale ai suoi spasimati vagheggini @e la Taide che a Fedria conturba
+il cervello.  Spesso di codesta monna Grammatica ti verrebbe detto
+quello che di Amore sentenzi@o Parmenone (Ter. Eun. I, 1, 16):
+
+            ....^Incerta haec si tu postules
+     Ratione certa facere, nihilo plus agas
+     Quam si des operam, ut cum ratione insanias.]
+
+	|130.  	Come fec'io.~  @E detto a distinzione della terza
+specie di traditori, i quali han soli il maladetto privilegio di
+ruinare ancor vivi nella Tolommea.  Leggiamo perci@o ad un fiato
+^trade come fec'io,~ senza porre, come altri fanno, la virgola dopo
+il ^trade.~  -- Dante appena ebbe tradito Beatrice, cadde in anima
+nel fondo della Selva oscura, e vi stette pi@u anni, tuttoch@e
+paresse vivo ancor di sopra.  Ma da lui ad Alberigo @e questo:
+ch'egli si pose nel ^Cocito Etiopico~ de' peccatori, onde si pot@e
+rilevare; il Frate ruin@o nel ^Cocito infernale~, dov'@e morta ogni
+speranza di bene [Vedi il Torricelli, ^studi sul Dante~, vol. 1,
+pag. 332-343.  Ediz. Nap. 1850.]
+
+	|Suo... tolto.~  Con quanta propriet@a ed efficacia
+s'esprime la padronanza e l'impero che l'anima ha sopra il corpo
+^suo~, e la diabolica rapina che le ne vien fatta a cagione del
+tradimento!
+
+	|131.  Governa~:  ^concia male, bistratta, signoreggia
+dabolicamente.~  |Governa~ per ^regge.~  Ironia.  -- Virg. AEn.
+IV, 136: 
+
+     ^Dum memor ipse mei, dum spiritus hos regit artus.~
+
+	E il Petrarca a Cola di Renzo:
+
+     Spirto gentil, che quelle membra rggi.
+
+	|132.  Mentre che~: ^finch@e, infino a che~ ec.
+
+	|'L tempo suo~: cio@e ^quello che, prima del misfatto, era
+gi@a stato alla vita di lui assegnato e prescritto~ [Job, XIV, 5:
+^Breves dies hominis sunt, numerus mensium ejus apud te est:
+constituisti terminos ejus, qui praeteriri non poterunt.~]
+
+	|Sia volto~: ^sia scorso, passato; se ne sia compiuto il
+giro~ (Inf. V, 64 seg., nota).
+
+	|133.  Cisterna~ @e il ^Pozzo~ (Inf. XVIII, 5, 18; XXIV, 38;
+XXXI, 32; XXXII, 16); ma con maggior propriet@a vien qui per tal
+nome significato il lago di Cocito, dove si raccolgono e ristagnano
+le acque impure de'fiumi infernali (Inf. XIV, 115-120).
+
+	|134.  Forse.~  ^Poich@e non avendo scienza del proprio
+corpo, neanche l'ha di quello d'altri.~  Bianchi.  -- No! Alberigo
+dubita se sia anco morto naturalmente Ser Branca; perciocch@e pi@u
+anni eran:
+
+     Poscia passati ch'ei fu s@i racchiuso.
+
+e in questo tempo potea il traditore esser trapassato, e quindi non
+parere suso il corpo suo come vivo.  Ci@o fanno manifesto le parole
+del v. 136.  (Vedi anche la nota al v. 22 seg., e al v. 137, not.
+(a)).
+
+	|Pare~: ^apparisce, sembra~, ma non @e corpo vivo, se non in
+quanto @e animato e mosso da un demone, non mica dal proprio
+spirito, che sta penando nel ghiaccio.
+
+	|Suso~: ^lass@u, nel mondo su~ (v. 123).
+
+	|135.  Dietro mi~: ^dietro me~ (il testo Barg.) -- Vedi
+malizia del Frate Godente, che per questo motto fa intendere quel
+traditore esser pi@u reo di lui!
+
+	|Verna.~  ^Vernare~ vale ^Passare il verno in alcun
+luogo,
+Svernare~ [^Vernare~ non sembra si possa intender qui usato n. ass.
+in significato di ^Far verno~ ec.], ed anche il cantare che fan gli
+uccelli nell'uscir del verno [Baldo da Passignano:
+
+     E gli uccelletti per amore
+     Isvernano s@i dolcemente
+     I lor versetti in fra gli albore ec.
+
+Il che si disse anche ^Fare sbaldore, Sbaldire, Sbraitare~, e
+^Vernare.~  Vedi per quest'ultima voce un esempio nel Diz. del
+Gherardini.].  Non rifiutiamo la sposizione che antichi e moderni
+comentatori fanno del vocabolo ^verna~, per ^Sta fitta nel ghiaccio,
+patisce freddo, trema di freddo, gela~ ec.  Ma sarebb'egli strano il
+pur pensare che il Poeta qui con amara ironia facesse allusione alle
+voci dolorose che metton fuori quei mali spiriti, le quali sono ben
+altro che lo ^sbraitare~ e lo ^sbaldire~ de'canori uccelli al tornar
+di primavera?  Forse anche tra cotestoro ^da bocca il
+freddo...testimonianza si procaccia,~ siccome i consorti della Caina
+eran dolenti nel gelo:
+
+     Mettendo i denti in nota di cicogna.
+
+Nel Purgatorio (XXIV, 64) si tocca degli ^augei che vernan lungo il
+Nilo~; nel Paradiso (XXX, 126) @e detto ^Sol che sempre verna,~
+cio@e ^fa primavera.~  O da ^hibernare~, o da ^ver~ che la provenga,
+non @e dubbio che ^verna~ non sia qui voce adoperata
+traslativamente; ch@e nel ghiaccio dell Tolommea n@e bene si
+^sverna~, n@e non si saluta con soavi canti il rivenire dell'alma
+stagione.  Per non lasciar nulla inosservato confessiamo che la
+forma ^mi verna~ ci ha fatto per un istante andare all'idea, non
+abbia Dante coverto anche sotto il ^verna~ il significato primitivo
+della voce lat. ^vernare~, ch'@e quello di ^germogliare, pullulare~;
+quasi Alberigo accennasse a Ser Branca d'Oria sporto con quella
+testaccia fuor dello stagno come rampollo che metta della sua
+ceppaia.
+
+	|136.  Pur mo~: ^pur ora, pur dianzi, test@e~ ec.  Mo
+risponde al ^modo~ de' Latini.  Ben ventidue volte fu questa
+particola usata dal Nostro nella Divina Commedia, e pi@u che mille
+nelle loro scritture da ottimi autori.  Non la @e dunque da far
+propria de' soli Lombardi, come pretese il Minucci nel comento al
+Malmantile; n@e da reputarla indegna dello stil grave.
+
+	|137.~ seg. |Ser Branca d'Oria~, Genovese, invit@o a mensa
+Michel Zanche, suo suocero, e vel fece uccidere a tradimento, per
+occupare il Giudicato di Logodoro (Inf. XXII, 88 seg., nota).
+Perci@o caduto in anima nella Tolommea, venne quivi racchiuso e
+fasciato dal ghiaccio, com' era incolto a Frate Alberigo.
+
+	|Son pi@u anni~ ec.  Ordina: ^Son passati pi@u anni poscia
+che~ (dappoi che, dopo che, dacch@e ec.) ^fu s@i racchiuso~ [Nel
+1308 Branca d'Oria con Opicino Spinola signoreggi@o Genova tenedone
+in bando i Fieschi.  Pria Ghibellino, poi datosi ai Guelfi (Ferreto
+VII).  Viveva egli dunque nel 1300, tempo della Visione.  E
+poich@e il tradimento fu compiuto nel 1275 (Inf. XXII, 88, nota);
+eran gi@a passati ben venticinque anni dacch@e stava Branca fitto in
+Cocito, quando Alberigo parlava al Poeta.].
+
+	|Poscia passati che.~  Tmesi.
+
+	|139.~ seg. |M'inganni~, pi@u che ^mi dica falso~ o
+^mentisca.~  Il Poeta si sta in guardia dal traditore: tanto pi@u
+ch'egli sapeva Branca d'Oria esser tra i vivi.
+
+	|140.  Unquanche~ tutt'uno con ^unquanco~ usato dallo stesso
+Poeta (Purg. IV, 76; Parad. I, 48) in forza di ^mai.~  @E
+dall'^unquam~ de' Latini.  Quell' ^anche~ o ^anco~ vi @e di giunta
+nel suo ordinario significato di ^ancora~, cio@e ^usque ad hanc horam~;
+e val quanto dire ^mai fino a quest'ora.~  Dunque: ^Branca d'Oria non
+mor@i unquanche~  torna lo stesso che i ^Branca d'Oria, non @e ancor
+morto.~  Pare eziandio ^unquanche~ valer ^mai mai~, che col ^non~
+farebbe pi@u intensiva la negazione: ed ^anche~ fu appo noi tolto nel
+senso di ^mai~, come l'^anc~ provenzalesco; onde (Nell'Intell. poem.
+attribuito al Comp.) leggiamo:
+
+     E disse (^Cesare~): Roma, incontra te non vegno,
+     Ma torno, ch'io son tuo pi@u c'anche (^mai~) fosse.
+
+Ma gli stessi filologi si peritano di analizzare questa particella,
+contenti a conglierne appena il senso.
+
+	|141.  E mangia~ ec.  ^Le quali operazioni non fanno se non
+uomini vivi.~  Bargigi.  -- ^Nota come in questo verso si citano
+tutti gl'indizi d'una vita animale, nessuno della vera vita
+dell'uomo.~  Bianchi.  -- Dante, a quanto dice il Corbinelli,
+leggeva e faceva la glosa de' versi di Fra Jacopone al re di Francia,
+nel tempo che col@a si trovava.  Ebbe da quelli tratte non poche
+forme di dire, come in pi@u d'un luogo abbiamo notato.  Ora di ci@o
+nel fa anche fede4 questo verso, il quale @e conforme a quello del
+Todino:
+
+     Magno e dormo e vesto panni.
+
+Se non che essendo pi@u corto, come ottonario, il verso di Jacopone,
+e quel di Dante dovendo essere endecasillabo; si vede che il pio e
+divoto rimatore murava a secco, dovecch@e il nostro Poeta rese la
+sentenza pi@u compiuta, volendo che Branca d'Oria non stesse
+contento al solo cibo, ma annaffiasse anche il gorgozzule.  Ed ha
+veramente un'aria di comico questa frase; la quale ci dice, fra le
+altre cose, che quel tale col diavolo incorpo scuffiava a due
+palmenti, e cioncava alla Tedesca.
+
+	|142-147.~  In sent.: ^Il diavolo s'incarn@o in Ser Branca
+vivo, prima che Michel Zanche, morto da lui a tradimento, giunto
+fosse nella bolgia di Malebranche~ (Inf. XXII, 88).
+
+	|144.~ seg. |Non era giunto.. che:~ ^non era ancor
+giunto..., quando~ (Vedi la not. al v. 129 seg.).
+
+	|Michel Zanche~: cio@e ^l'anima di lui.~  Sinecdoche.
+
+	|146.  Prossimano~ val propr. ^prossimo, vicino~, qui
+^congiunto~; poich@e complice del tradimento dicono che fosse un
+cugino del d'Oria.
+
+	Var. ^Ed un suo~ ha il cod. di Santa Croce, il cod. della
+Bibl. Reale di Berl., e il testo Bargigi ec.  -- ^D'un suo~ @e
+lettera comune di quasi tutti gli altri: secondo la quale si
+direbbe: ^Questi lasci@o un diavolo~ (al. lez. ^il diavolo~) ^in sua
+vece nel corpo suo, e~ (nel corpo) ^di un suo prossimano~: ma non
+intendiamo come dir si possa che l'anima di Ser Branca lasciasse il
+diavolo nel corpo suo e del suo prossimano, per sostener le veci
+dell'anima sua anche nel corpo d'un altro.  Con la lez. ^ed un...~ si
+dice: ^Questi lasci@o un diavolo in sua vece; ed un suo prossimano
+fece il simigliante.~  Dove l'^ed~ fa sottintendere le parti
+necessarie al compimento della sentenza; e forse potrebbesi prendere
+in sentimento di ^ancora, eziandio,~ siccome l'^et~ per ^etiam~ appo
+i Latini.  In ambo questi casi il costrutto meglio farebbe
+all'intento d'Alberigo, che vuole convalidare il suo detto con la
+pluralit@a degli esempi, al Poeta che non aggiusta fede alle parole
+di lui.  Tutto bene considerato, noi abbiamo prescelta pel nostro
+testo una lettera, il cui valore sta nel peso delle ragioni
+filolgiche, anzi che nel numero degli esemplari; dove pot@e di
+leggieri scriversi:
+
+     ^e dun~ o ^e d'un~
+
+Invece che:
+
+     ^ed un~
+
+dagl' imperiti menanti, e anche da' buoni amanuensi e copisti che in
+qualche momento scriveano sonniferando.
+
+	|147.  Insieme~ da ^simul~ (onde si disse ^in sieme, a
+sieme, di sieme~) dinota la simultaneit@a del tempo, quando il
+^prossimano~ faceva il tradimento; |Con lui,~ cio@e ^in compagnia di
+Branca.~  Questo @e benanche il valore del lat. ^simul cum eo.~  E
+niente @e superfluo nel nostro Poeta.
+
+	|148.  Ma distendi oramai~ (al. lez. ^oggimai~) ec. -- Il
+Poeta gli avea detto (v. 115):
+
+     ....Se vuoi ch'io ti sovvegna,
+     Dimmi chi fosti...
+
+e il Frate satisfece abbondevolmente alla condizione postagli; ch@e
+(siccome usati son di fare i traditori) e disse chi egli era, e
+pales@o i nomi di altri condannati.
+
+	|149.  Ed io non gliele apersi.~  N@e solo non gli rade ^le
+invetriate lagrime dal volto~; ma con disdegno senza punto curarsene
+lo lascia quivi piantato, e in compagnia del suo Duca prosegue il
+cammino.  Passano silenziosi gl'istanti che corrono da questo punto
+a quello, d'onde si cominciano a sbirciare le ali di Satanasso.  Il
+che ci rende ragione della forma assoluta, con cui si d@a principio
+al seguente canto.
+
+	Var. ^Glieli, gli le, glie l', li l'.~  Di ^gliele~ per
+^glieli~ ha infiniti esempi negli scrittori. V. il Cinonio.
+
+	|150.  E cortesia fu lui~ ec.  L'esser villano non @e
+cortesia a nessuno.  @E chi dice: ^A traditore sta bene esser
+deluso.~  Non per@o da chi non sia suo pari.  Chi ha a cuore la pura
+verit@a si guarderebbe dal deludere anche un traditore, e direbbe
+materia di episodi poetici quella magnifica esclamazione (Gerus.
+lib. II,):
+
+     Magnanima menzogna! or quando il vero
+     @E s@i bel, che si possa a te preporre?
+
+L'Ottimo: ^L'alleviare il dolore del reo @e far contro la divina
+giustizia.~  Inf. XX: ^Qui vive la piet@a quand' ella @e morta.~  --
+@E vero; ma non @e quistione di ci@o.  Trattasi che Dante avrebbe
+meglio fatto secondo giustizia, a non promettere quell'alleviamento,
+che promesso non attenerlo, usando l'astuzia dell'anfibologica
+imprecazione (v. 116 e 117).  Secondo l'ordine della Sapienza e
+Giustizia divina non possono menomamente essere alleviati dalla
+miseria gli spiriti mali; e la piet@a di costoro non tange neanco i
+Beati. S. Th. suppl. 3 part., Quaest. 94, art. 2: ^Charitas tunc est
+compassionis principium, quando possumus ex charitate velle
+remotionem miseriae alicuius: sed sancti ex charitate hoc velle non
+possunt de damnatis, cum divinae justitiae repugnet, unde~ etc.
+[Vedi a questo luogo dell'Angelico i comenti di Seraf. a Porrecta e
+del Cajetano.  Noi non confutiamo, come potremmo, i passi che gli
+espositori adducono in difesa di Dante dagli autori profani:
+arrechiamo anzi contro di lui l'autorit@a di quel sapiente, ch'egli
+vide sfolgorante di luce nel Sole di Paradiso.].  Ma starebbe egli
+per@o bene a un ^comprensore~, che disceso in Inferno, per la sola
+curiosit@a di sapere i nomi de'dannati, e parlasse volpeggiando come
+Dante, e si profferisse loro d'un soccorso che sa di non poter
+prestare?
+
+	Il P. Lombardi: <^Cortesia~ per ^azione giusta, dovuta,~ s@i
+per riguardo alla divina giustizia, che per riguardo al di lui
+merito, non si meritando fede chi la fede tradisce> -- Ma per Dante
+stesso: ^Cortesia e onestade @e tutt'uno; e perocch@e nelle corti
+anticamente le virtudi, e li belli costumi s'usavano, siccome oggi
+s'usa il contrario; si tolse questo vocabolo dalle corti: e fu tanto
+a dire cortesia, quanto uso di corte: lo qual vocabolo, se oggi si
+togliesse dalle corti, massimamente d'Italia non sarebbe altro a
+dire, che turpezza.~  Conv. pag. 104.  Ediz. Zatta.
+
+	Or quando @e mai che la divina giustizia trasformi una
+villania in cortesia, o in azione giusta e dovuta?  Permetter@a ella
+le logomachie, le anfilologie, le ambiguit@a, che agli onesti non
+son consentite dalla ragione del favellare? o sar@a ella da meno, nonch@e
+del ^Gius~ naturale, ma dello stesso Messer Galateo; il quale vieta
+l'offerirsi di cose men che oneste?  Noi abbiamo sciauratamente
+troppo basso concetto della Divinit@a e della morale; e le idee pi@u
+sublimi e pi@u pure, come sieno entrate nello spirito umano, pare
+che si contaminino tra il loto della creta mortale! -- ^Non merita
+fede chi la fede tradisce~, vuol dire che mal si pu@o viver sicuro
+nella fede de'traditori, che non si vuol credere a loro; ma tradire
+un traditore non @e altra cosa che tradimento.  Egli perde il dritto
+all'altrui fede, ma in nessuno cessa il dovere della lealt@a.  Se
+guardiamo il fatto dantesco attraverso i vetri colorati delle umane
+passioni, e, diciam cos@i, poeticamente, non moralmente; esso ne
+diletta quanto il vedere cogliere una fiera tra' lacci, e deludere,
+arcare, gabbare ec. colui che si tien mastro di macchinazioni e di
+frodi: se con la sesta e con l'archipenzolo della ragion morale
+spassionata e severa vorremo esaminarlo e giudicarlo, ed esso ci
+parr@a in degno di chi esce della Selva col nobile intento di
+elevarsi alla contemplazione del Vero e del Bene assoluto.  Il
+Tommaseo: ^Poi aprirgli gli occhi era un fargli sentir pi@u fiero il
+tormento delle lagrime che tornerebbero a congelarsi; un fargli
+veder chi avrebbe annunziata tra gli uomini la sua pena.~
+
+	Dante non mostra d'aver voluto esser villano per piet@a, ma
+s@i discortese verso un traditore; il comento del valent'uomo pare
+non faccia al caso.  Il Poeta con parole capziose gabba Frate
+Alberigo, dandogli a credere, s@e avere orrore d'andare, dove pur
+andava di propria voglia.  Oltredich@e quegli potea pi@u del Poeta
+sapere se il raderglisi ^le invetriate lagrime~ dagli occhi fosse
+anzi di alleviamento, che di maggior pena (vv. 112-114).
+
+	Il Bargigi al testo, |E cortesia fu~ ec. dice: ^Notabile
+parola @e questa, che a quelli che hanno meritato bene da noi, se
+richiedono cosa non lecita, allora @e cortesia esser loro discortese
+e non compiacerli di ci@o che vorrebbero.~  Ma non si vuol
+confondere la scortesia con l'onest@a, che non accorda, anche ai
+pi@u cari, cosa che si dimandi contro il dovere; e n@e si tien
+lecito il profferirsi di cose illecite, siccome fece Dante nel
+promettere di levare i duri veli dicendo:
+
+     ...Se vuoi ch'io ti sovvegna
+     Dimmi chi se', e s'io non ti disbrigo,
+     Al fondo della ghiaccia ir mi convegna.
+
+imperocch@e, dir di fare ci@o, che non si vuole n@e si pu@o
+fare, non
+@e far da galantuomo, dove e con chi che sia.  L'onesto @e anche
+fonte del bello.  L'astuzia che Ciampolo da Navarra (Inf. XXII, 121)
+usa, per salvarsi da dieci diavoli, sommamente diletta; perch@e ha
+luogo tra dannati e dimoni, e perch@e naturale @e l'istinto della
+propria difesa: quella tra Dante e Alberigo riesce disaggradevole,
+chi ha senso squisito per gustare le bellezze d'una schietta morale.
+(Vedi v. 117).  N@e da ultimo crediamo che Virgilio potesse qui dir
+di Dante ci@o che questi sclama in lode di quello nel terzo canto
+del Purgatorio:
+
+     O dignitosa coscienza e netta,
+     Come t'@e picciol fallo amaro morso!
+
+@E notabile che la Ragione personificata in Virgilio non prende la
+menoma parte in questa scappata dantesca; e che la stessa fredda
+posta dove penano i traditori, pare che offenda di  maligna
+influenza le anime stesse che vanno a perfezione.  Se a questo fine
+il Poeta finse trascorrere, e noi terremo questo tratto poetico non
+meno che gli altri bello e fecondo di morale ammaestramento.
+
+Avevamo fatto punto a questo nostro ragionamento, ed esposto il
+proprio parere senza tema non altri ci giudicasse irriverenti verso
+il sommo Poeta, e con la franchezza che ci consentivano il puro
+sentimento e l'amore del vero; quando ci vennero sotto gli occhi le
+brevi ma potenti chiose del Gioberti: il quale tuttoch@e grande
+ammiratore del Divino Alighieri; pure a questo passo suggella la sua
+aurea sentenza:
+
+     QUI DANTE NON MI PIACE.
+
+	|151.~ seg. |Diversi d'ogni costume~: ^traviati dalla
+rettitudine d'ogni buon costume~ [Ch@e qui si vuol prendere in
+ispezialit@a come il ^mos~ de' Latini per consuetudine approvata
+ch'@e legge di civilt@a, e indole e natura buona.], ^alieni da ogni
+bont@a~; ed al contrario |Pieni d'ogni magagna~: ^Pieni d'ogni
+vizio; guasti internamente e corrotti: Compiutamente cattivi>.~
+Land.  -- Altri intendono |Diversi d'ogni costume~: ^diversi in
+tutt' i costumi dalle altri genti~; strani dunque e singolari nella
+vita e nelle usanze: ovvero |Uomini diversi~, cio@e ^di strana
+natura e disumani~ (siccome Cerbero @e detto ^fiero diversa~ [Vedi
+Inf. VI, 13, nota.], e |d'ogni costume~, cio@e ^senza carattere~,
+pieghevoli secondo l'utile a ogni costume buono o reo, come sarebbe
+il %pi%o%lambda%upsilon%tau%rho%o%pi%o%iota\ de'Greci.  Ma qui
+|diversi~ val ^travolti~, dal ^vertere~ de' Latini, onde si ha
+^diversus~ e ^perversus.~  @E ovvia la frase biblica: ^Diverte a malo
+et fac bonum.~  Coll'opra fanno in senso opposto i viziosi; ^divertunt
+a bono et faciutn malum~, come l'Alighieri sembra aver voluto
+significare de'Genovesi di quel tempo.
+
+	|153.  Perch@e...del mondo spersi~:  ^sterminati, che nel
+mondo pi@u non s'oda il vostro nome~ ec. -- Per lo solo Branca
+d'Oria traditore, qual ragione voleva che Dante si scagliasse contro
+tutt' i Genovesi con una conversione s@i fieramente imprecativa e
+con s@i amara rampogna?  La rende egli stesso, se valga, nelle
+parole de'quattro ultimi versi, dove ^un tal di voi~ ha forza di
+fare intendere la stessa malvagia natura ne' pi@u, come nell'uno che
+di quelli era parte.  E Dante, senza le altre cagioni private, che
+tocca qualche comentatore, e senza il fatto particolare che qui si
+narra, dovette col suo Duca tenere, che i conterranei del d'Oria
+fossero ancora traditori; poich@e fin dalla pi@u remota antichit@a
+portarono i Liguri la triste nota della frode e del tradimento;
+quantunque in vero quella regione abbia dati all'Italia degli uomini
+altamente onesti e gloriosi.  Virgilio narra del Bellicoso figliuol
+d'Auno, Genovese, con quali astuzie cercasse cansar la morte dalla
+mano di Camilla; che lo chiama non ultimo de'Luguri nell'arte
+d'ordine frodi.  (AEn. XI, 701 segg.):
+
+     ^Haud Ligurum extremus, dum fallere fata sinebant.~
+
+e che tornatagli vana ogni astuzia, la giovane valorosa l'uccide,
+dicendogli:
+
+     ^Vane Ligus, frustraque animis elate superbis, 
+     Nequidquam patrias tentasti lubricas artes, 
+     Nec fraus te incolumem fallaci perferet Auno.~
+
+	|154.  Col peggiore spirto di Romagna~:  ^Con Alberigo
+de'Manfredi.
+
+	|Col peggiore~ ec.  -- ^@E universale fama che i Romagnuoli
+siano di pessimi costumi.  Onde il proverbio: Toscano rosso,
+Lombardo nero, Romagnuolo di ogni pelo.  Adunque se un Genovese @e
+peggiore che un Romagnuolo, non si pu@o salire pi@u alto ne'vizi.~
+Vellut.
+
+	|155.  Un tal di voi~: ^Ser Branca d'Oria Genovese.~
+-- |Di voi~, ^Lat. Vestras.~
+
+	|Opra~: qui ^misfatto, opera malvagia~ ec.
+S'intende per gli effetti, dal modo come fu meritata.  (Inf.
+XVI, 119, nota).
+
+	|156.~ seg. |In anima... e in corpo~ consiste l'uomo
+vivente, come ^in~ due parti essenzialmente inseparabili
+perch@e sia uomo.  Dante le disgiunge, e mantenendo agli
+elementi del tutto la forma che essi avevano nel complesso
+dell'espressione, accresce per le stesse parole efficacia al
+maraviglioso della metamorfosi che patiscono i traditori.
+Perocch@e mentre niuno pu@o naturalmente esser uomo n@e in
+anima sola senza corpo, n@e in corpo solo senz'anima; Branca
+per forza soprannaturale ci si mostra lo stesso individuo
+umano vivente, tuttoch@e stia in anima in un luogo, e in
+corpo in un altro.  E questo importa qualcosa dippi@u che
+non quella ^propriet@a di lingua~ onde si dice ^in zoccoli,
+in abito da frate~, ricordataci a questo luogo dal padre
+Cesari.  Gli zoccoli e l'abito sono estrinseci alla persona
+Il dannato non @e nel mondo ^col corpo~ essendo fuori del
+corpo, non @e in Cocito ^coll'anima~, non essendo quivi
+altro che anima; n@e per@o pu@o dirsi l'una o l'altra cosa
+esser di lui, come gli zoccoli e l'abito rispetto al frate.
+Noi con la propriet@a di lingua troviamo in questo luogo un
+esempio fra gli altri mille chiarissimo, di ci@o che possa
+la facolt@a di astrarre dal subjetto, e la sintesi
+immaginativa poetica, nel divino ingegno dell'Alighieri.

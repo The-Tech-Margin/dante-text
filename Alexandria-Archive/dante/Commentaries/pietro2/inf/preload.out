@@ -1,0 +1,95 @@
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Pietro2
+	Language   = Latin
+	Pub. Year  = 1344-1355
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/05
+
+Filtering 05.e...
+Verifying ../staging/inf/05...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      16834 Jul 19 12:07 ../staging/inf/05
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Pietro2
+	Language   = Latin
+	Pub. Year  = 1344-1355
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/25
+
+Filtering 25.e...
+Verifying ../staging/inf/25...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      11131 Jul 19 12:07 ../staging/inf/25
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Pietro2
+	Language   = Latin
+	Pub. Year  = 1344-1355
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/28
+
+Filtering 28.e...
+Verifying ../staging/inf/28...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      13542 Jul 19 12:07 ../staging/inf/28
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Pietro2
+	Language   = Latin
+	Pub. Year  = 1344-1355
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/29
+
+Filtering 29.e...
+Verifying ../staging/inf/29...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante       8686 Jul 19 12:07 ../staging/inf/29
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Pietro2
+	Language   = Latin
+	Pub. Year  = 1344-1355
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/30
+
+Filtering 30.e...
+Verifying ../staging/inf/30...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      10928 Jul 19 12:07 ../staging/inf/30

@@ -1,0 +1,894 @@
+	|1.  Quando~: ora di crepuscolo avanzato.  -- |colui~...
+|alluma~: il sole.  @E, verbalmente variata, la stessa perifrasi
+di ^Inf.~, XXVI, 26; ^la lucerna del mondo~ in ^Par.~, I, 38. 
+Cfr. ^Par.~, X, 28; XXVII, 135; ^Purg.~, IV, 62-63.  -- |tutto~:
+il sole illumina |tutto~ l'universo fisico, <tutte le corpora
+celestiali e le elementali> (^Conv.~, III, 12).
+
+	|2.  dell'emisperio~: dall'emisfero (cfr. ^Par.~, I, 45);
+|nostro~, in senso generico, nota il Porena, cio@e nel punto in
+cui uno si trovi, il fenomeno verificandosi in qualunque parte
+della terra.  -- |s@i discende~: @e disceso di tanto dietro
+l'orizzonte: il tempo presente di fenomeno costante e periodico. 
+Si tratta del momento successivo a quello fermato in ^Par.~, XIV,
+70-72.
+
+	|3.  d'ogne parte~: in tutta l'estensione dell'orizzonte
+visibile, e con uguale distribuzione o intensit@a dell'ombra: con
+l'orizzonte (cos@i in ^Purg.~, XXVII, 71-72) ^d'uno aspetto~ in
+^tutte le sue parti immense.~  -- |si consuma~: va consumato,
+spento.  <Consumpta nocte> in ^En.~, II, 795.
+
+	|4.  lo ciel~: il cielo stellato, che ha ^tante vedute~
+(^Par.~, II, 115).  -- |che~... |s'accende~: durante il giorno,
+la luce solare soverchiando quella di ogni altra stella. 
+^Georg.~, I, 251: <Illic sera rubens accendit lumina Vesper>.  --
+|prima~: delimita, probabilmente, la parte del cielo stellato in
+cui |prima~ s'accendono le stelle per essere stata la |prima~
+accesa dal sole al suo sorgere, e cos@i trovandosi in posizione
+diametralmente opposta e pi@u lontana dalla zona del tramonto: la
+parte orientale.
+
+	|5.  subitamente~: obbiettivamente non esatto, e in
+contrasto con quanto detto in ^Par.~, XIV, 70-72: ma qui, forse,
+Dante vuol esprimere quella sensazione d'improvvisa e quasi
+magica scoperta di chi, prima disattento ed occupato altrove,
+levi, a un certo momento, gli occhi al cielo e...  -- |parvente~:
+appariscente, visibile; cfr. ^Par.~, X, 42; XXI, 18 ecc.
+
+	|6.  luci~: stelle: come in ^Par.~, II, 145.  -- |una
+risplende~: la luce della sorgente solare, alla quale ogni altra
+stella attinge.  Lo stesso motivo in ^Par.~, XXIII, 28-30.
+
+	|7.  atto del ciel~: comportamento, fenomeno celeste.  --
+|venne a mente~: cfr. ^Par.~, XIV, 1-7.
+
+	|8.  come~: quando.  -- |segno del mondo~: l'Aquila: l@i
+figura e, simbolicamente, insegna universale, ^pubblico segno~ al
+quale tutto il ^regno mortal~, l'umanit@a, @e soggetta per volere
+di Dio: cfr. ^Par.~, VI, 84, 100.  @E l'idea centrale della
+dottrina politica dantesca; e si noti la rispondenza tra il sole,
+che illumina ^tutto 'l mondo~ {v.1}, e l'Aquila (Impero) |segno
+del mondo~, principio di un ordinamento unitario per cui nel
+mondo umano si esempla l'ordinamento del mondo celeste.  --
+|duci~: guide, supremi reggitori del mondo: gli imperatori, la
+cui insegna @e l'Aquila.  ^Sommo duce~ Dio, in ^Inf.~, X, 102;
+^Par.~, XXV, 72; e |duci~ degli uomini i ^raggi~ del sole, in
+^Purg.~, XIII, 21.
+
+	|9.  nel~... |tacente~: l'Aquila tacque nel |rostro~; il
+suo becco cess@o di aprirsi e chiudersi a parlare.  |Benedetto~ @e
+aggettivo assoluto di sapore religioso-liturgico, come il
+^benedetto agnello~ di ^Par.~, XXIV, 2: sacrosante, vuol dire, le
+parole pronunziate dall'Aquila; ma di una santit@a, nello stile
+espressivo, combattivo e sferzante.
+
+	|10.  vive luci~: le anime luminose componenti la figura
+dell'Aquila.  <Vivo>, detto di luce, vale usualmente: intenso:
+^fiamma viva~ (^Purg.~, XXX, 33); ^luce viva~ (^Par.~, XXX, 49)
+ecc.: ma @e pi@u vero nell'altro e proprio senso, trattandosi di
+luce di anime <vive>, di |luci~-<vite> (^vita~ per: anima, in
+^Par.~, XII, 127).
+
+	|11.  lucendo~: brillando.  Di modulo scritturale:
+<lux... lucet...>, <luceat... lux>.  -- |canti~: l'analogia, come
+rileva l'Andreoli, @e tra le ^molte~ stelle accendentisi dopo il
+tramonto dell'^una luce~ del sole, e il canto delle molte anime
+che succede all'<uno> o individuale parlare dell'Aquila: come
+sappiamo dal canto precedente, vv. 10-12.
+
+	|12.  memoria~: la ragione ripetutamente addotta, per
+giustificare la rinunzia ad esprimere, da ^Par.~, I, 5-9 in poi. 
+-- |labili e caduci~: |labili~ (come ^razionabile~ di ^Par.~,
+XXVI, 127) indica la natura o carattere di quei canti e la
+conseguente tendenza a produrre certi effetti: |caduci~, come gi@a
+notava il Tommaseo, l'atto o fatto conseguitone.  Per |labili~ si
+cita Virgilio, ^Egl.~, I, 63: <...nostro illius labatur pectore
+vultus>; <caducus>, nell'uso latino, indica tanto possibilit@a
+quanto atto o fatto.
+
+	|13.  O dolce~... |t'ammanti~: dall'ardente cavit@a il
+riso-gioia delle anime e da questo il riso-luce; conformemente a
+^Par.~, V, 94-99, 124-138; VIII, 46-54; IX, 13-15, 67-72; X,
+61-63; ecc.
+
+	|14.  parevi~: apparivi.  -- |ardente~: l'entit@a
+dell'ardore @e attestata dall'intensit@a della luce, nonch$e dal
+tono dei canti.  -- |flailli~: termine assai discusso e di
+svarianti lezioni (^flavillii, fravilli, favilli, frailli~) e
+spiegazione etimologica.  Per eliminazione, la luminosit@a essendo
+gi@a indicata in ^riso~ {v.13}, |flailli~ si riferir@a al canto,
+come dice, del resto, il verso seguente; e l'etimo pi@u probabile
+sar@a il lat. <flare> cos@i il Blanc, seguito dal Parodi, Vandelli,
+Sapegno, spiegandosi: piccoli flauti (nel francese ant.
+<flavel>).  Secondo altre spiegazioni: faville, facelle
+(Tommaseo, Torraca).
+
+	|15.  spirto~: o soffio (proprio degli strumenti a
+fiato), ci@o ch'@e <spirato> o soffiato o effuso a voce o in canto
+(cfr. ^Par.~, I, 19).  -- |sol~: <nei quali i santi pensieri
+tenevano il luogo di soffio> (Parodi); spiranti santit@a di
+affetti e pensieri.  -- |santi~: ben diversi da quelli dei re
+passati in rassegna alla fine del canto prec.
+
+	|16.  cari~... |lapilli~: le anime, sempre, componenti la
+figura dell'Aquila: pietre (|lapilli~: in lat. <lapillus>)
+preziose (|cari~) e lucenti (|lucidi~).  Nei termini dell'usuale
+intercambio analogico anima-luce-pietra preziosa: ^luculenta e
+cara gioia~ (^Par.~, IX, 37); ^gemma~ (^Par.~, XV, 22; XVIII,
+115); ^topazio~ (^Par.~, XV, 69); ^cara cosa e fin balasso~
+(^Par.~, IX, 68-69) ecc.
+
+	|17.  ingemmato~: ornato, come da gemme (cfr. ^Par.~,
+XVIII, 117), ma da gemme densamente ^conserte~ o <conteste>
+(^Par.~, XIX, 3 e 58).  -- |sesto lume~: Giove, sesto,
+nell'ordine, dei pianeti; ^la stella sesta~ in ^Par.~, XVIII,
+68-69; ^luci~, stelle, al v. 6.
+
+	|18.  puoser silenzio~: cessarono (cfr. ^Par.~, XV, 4). 
+-- |angelici~: per dolcezza: e cos@i parla, Beatrice, ^con
+angelica voce~, in ^Inf.~, II, 57.  L'Angelo, convenzionalmente,
+@e misura di perfezione.  -- |squilli~: ^dolci tube~, i canti
+delle anime, in ^Par.~, XII, 8.
+
+	|19.  mormorar di fiume~: mormorio di (abbondanti) acque
+correnti.  Paragone in combinata chiave classico-biblica: <et vox
+erat ei quasi vox aquarum multarum> (^Ezech.~, XLIII, 2; item
+^Apocal.~, I, 15); <ecce... undam elicit: illa cadens raucum per
+levia murmur -- saxa ciet...> (^Georg.~, I, 108-110); <...ceu
+saxa morantur cum rapidos amnis, fit clauso gurgite murmur...>
+(^En.~, XI, 298).
+
+	|20.  chiaro~: trasparente, limpido: ma da riferire
+analogicamente al tono (limpidamente musicale) del <mormorio>
+uscente dal collo dell'Aquila.  Il <mormorio> @e prodotto dal
+<fiato> delle molte anime; ed @e la sostanza fonica di fondo da
+cui poi si formano il suono e la parola veri e propri.  Quanto
+era avvenuto alla fiamma di Ulisse (^Inf.~, XXVI, 85-86), che
+prima di <gittar> ^voce~ <si crolla> ^mormorando~; e alla fiamma
+di Guido da Montefeltro (^Inf.~, XXVII, 58-59) che parla, dopo
+avere ^alquanto rugghiato.~  -- |di~... |pietra~: senza caduta,
+non c'@e mormorio.
+
+	|21.  l'ubert@a~: pregnanza, abbondanza d'acque: corrente
+abbondante, quindi.  -- |cacume~: cima, vetta (in lat.
+<cacumen>): cfr. ^Par.~, XVII, 113.
+
+	|22-24.  E~... |penetra~: si suol citare il Buti: <E come
+lo suono della chitarra prende sua forma, cio@e suo essere, al
+collo della chitarra, dove tiene lo sonatore le dita de la mano
+sinistra, stringendo le corde al legno, or con un dito, or
+coll'altro, e or con pi@u...>.  Ed @e spiegazione esatta,
+avvertendo tuttavia che |suono~ indica il suono prodotto dalle
+varie corde, il quale solo al |collo~ della cetra o chitarra
+prende |forma~, natura e forma di musica, secondo le regole
+dell'arte.  E altrettanto si dica del |vento~, o aria
+<penetrante>, cio@e soffiato nella zampogna, nel successivo
+paragone.  -- |collo~: manico.  -- |forma~: la |forma~ s'intende,
+dell'<arte>, di cui il |suono~ @e l'elemento e materia> (cfr.
+^Par.~, I, 127-129); e |sua~, propria dell'arte di cui la |cetra~
+@e strumento.  -- |pertugio~: foro; la serie dei fori, mobilmente
+coperti e scoperti dalle dita del suonatore.  -- |vento~: moto
+d'aria.  -- |che penetra~: perch$e soffiato: ^vento che va via~,
+in ^Inf.~, XIII, 42.
+
+	|25.  rimosso~... |indugio~: senza indugio; subito: e
+senza sforzo, vorr@a dire, per sottolineare il fatto, sorprendente
+e prodigioso; e a differenza dello stento con cui Ulisse e Guido
+da Montefeltro (cfr. n. 20) erano arrivati a parlare.  --
+|d'aspettare~: di attesa, s'interpreta: ma rimuover l'indugio
+vale gi@a, di per s$e, eliminazione di attesa, e in |aspettare~,
+perci@o, sar@a conservato il significato etimologico: stare a
+osservare: quel che Dante, appunto, stava facendo.
+
+	|26.  aguglia~: aquila.
+
+	|27.  bugio~: vuoto, forato; dell'uso vivo.  Il fatto @e
+osservato con attento interesse: la figura dell'Aquila non @e
+piatta, ma a dimensioni complete.
+
+	|28.  Fecesi~: divenne, si trasform@o in |voce~, voce
+umana: ^si convert@i quel vento in cotal voce~ in ^Inf.~, XIII,
+92.  -- |quivi~: nel ^collo~ {v.27}: seconda fase della
+trasformazione; la successiva e ultima @e nel ^becco~ {v.29}
+(corrispondente alla bocca dell'uomo), dove il ^suono~ {v.22},
+poi divenuto |voce~ (nel collo) si articola e definisce in
+^parole~ {v.29}, assumendo un valore logico in dipendenza
+dell'impulso impresso dall'intelletto, e diventando <signum>
+sensuale-razionale.  -- |quindi~: di qui, dal collo.  In
+sequenza: suono-voce-parola.
+
+	|29.  forma di parole~: la parola @e, appunto, <voce
+formata>.
+
+	|30.  scrissi~: <scolpire>, si dice correntemente
+parlando di <cuore>: ma <scrivere> richiama l'usitata metafora
+memoria-libro (cfr. ^Inf.~, II, 8: ^o mente che scrivesti~...).
+
+	|31.  me~: parte del tutto @e un membro od organo.  --
+|che vede~: l'occhio, organo della facolt@a del vedere.  --
+|pate~: sopporta, pu@o sopportare; cfr. ^Par.~, IV, 73; e pi@u
+oltre al v. 94.  -- |il sole~: solo l'aquila, tra gli animali,
+pu@o fissare impunemente il sole: e si cfr. ^Par.~, I, 47-48.
+
+	|32.  mortali~: terrestri, e, come tali, soggette a
+morte.  -- |incominciommi~: prese a dirmi.
+
+	|33.  fisamente~: e quindi: con attenzione.  --
+|riguardar~: osservare, guardare: il suo complem. ogg. in ^la
+parte~ {v.31}.  -- |si vole~: si deve, @e opportuno: cfr. ^Purg.~,
+XXIII, 6.  Dante, insomma, @e invitato a osservare attentamente
+gli occhi dell'Aquila.
+
+	|34-35.  fuochi~: anime ardenti di carit@a, e splendenti. 
+-- |ond'io~... |fommi~: dalle molte anime unite insieme si @e
+formata la |figura~ dell'Aquila.  -- |quelli~: |fuochi~, anime;
+|onde~: di cui, per cui.  -- |l'occhio in testa~: uno dei due
+occhi: l'Aquila, come nelle insegne araldiche, si presenta di
+profilo, e quindi Dante ne scorge un occhio solo.
+
+	|36.  e'~: essi.  -- |gradi~: di tutte le anime ch'ebbero
+in terra il loro stesso <grado> o rango (reggitori di popoli
+imperatori e re).  -- |sommi~: per virt@u e meriti: e perci@o
+adibiti a formare l'occhio, l'organo-simbolo della potenza
+intellettiva, e organo pi@u nobile degli altri perch$e in esso, con
+pi@u vivace immediatezza, si esprimono i moti dell'anima: cfr.
+^Conv.~, III, 8-10.  Dell'occhio, poi, la parte pi@u importante @e
+la pupilla: cfr. ^Par.~, II, 144.
+
+	|37.  in~... |pupilla~: al centro, fungendo da pupilla.
+
+	|38.  il cantor~...: Davide, re d'Israele, l'autore dei
+^Salmi~, dei quali Dante, con questa definizione, rileva
+l'ardente ispirazione religiosa: ^sommo cantor del sommo duce~ in
+^Par.~, XXV, 72; ^l'umile salmista~ in ^Purg.~, X, 65, cantore
+della speranza in Dio (cfr. ^Par.~, XXV, 71-75) e dell'umana
+nobilt@a (cfr. ^Conv.~, IV, 19).  La sua nascita, quasi
+fatidicamente (cfr. ^Conv.~, IV, 5), coincise con la data della
+fondazione di Roma: e dalla stirpe di David discese la Vergine. 
+-- |dello~... |Santo~: afferma l'ispirazione divina dei ^Salmi~;
+e forse ricorda (cit. Fraticelli) I, ^Re~, XVI, 13, dove @e detto
+che dopo la consacrazione di Samuele <directus est spiritus
+Domini a die illa in David et deinceps>: insigne esempio di
+subordinazione a Dio, e di fecondo accordo tra potere politico e
+autorit@a religiosa.
+
+	|39.  di~... |villa~: di luogo in luogo; o di citt@a in
+citt@a (alla francese: <ville>), come in ^Inf.~, XXIII, 95 e
+^Purg.~, XV, 97.  L'^arca santa~ (cfr. ^Purg.~, X, 55 sgg.),
+prima custodita nella casa di Abinabad, a Gabaon, fu, per ordine
+di David, e con solenni accompagnamenti processionali, trasferita
+a Geth e, infine, a Gerusalemme.
+
+	|40.  canto~: i ^Salmi~ venivano cantati come dice il
+termine stesso, e risulta da numerosi ^incipit~: <In finem, in
+carminibus; psalmus David>; <Magistro chori; fidibus; psalmus
+David>; <Psalmus David, quem cantavit Domino...> ecc.  E in
+^Ecclesiastico~ (XLVII, 7-10), tra le altre lodi di Davide: <Et
+stare fecit cantores contra altare -- et in sono eorum dulces
+fecit modos...>.
+
+	|41.  effetto~: cosa prodotta, risultato.  -- |suo
+consiglio~: non dello Spirito Santo, che merito non ci sarebbe;
+ma della sua libera decisione, in quanto scelse, come pi@u utile e
+degno, quel genere di |canto.~
+
+	|42.  per lo remunerar~: dalla remunerazione o premio
+David conosce, ora, il <merito> del |suo~ canto.  --
+|altrettanto~: dalla grandezza del premio, per la giusta
+proporzione tra merito e premio, s'inferisce la grandezza dei
+meriti: cfr. ^Par.~, VI, 118-120.
+
+	|43.  cinque~: il |ciglio~ @e formato da cinque anime
+equidistanti: al centro, e sommit@a dell'arco, @e Costantino.  --
+|per ciglio~: in funzione di ciglio (|ciglio~ di una ^figura~
+{v.34}, non reale).
+
+	|44.  mi~: dativo etico: ravviva, semplicemente,
+l'indicazione.  -- |s'accosta~: @e vicino.
+
+	|45.  la~... |figlio~: Traiano: e ricorda l'esempio
+famoso, di umilt@a e giustizia, rappresentato nel terzo dei
+bassorilievi di ^Purg.~, X, 73 sgg.
+
+	|46-48.  caro costa~: cfr. ^Inf.~, XXIX, 21; ^Purg.~,
+XXXII, 66; ^Par.~, XII, 37-38.  Traiano aveva appreso gi@a nel
+Limbo, dove si trovava relegato prima della grazia
+interpretatagli da papa Gregorio, quanto costi |non seguir~, non
+praticare o non conoscer la dottrina di Cristo: ma la sua
+conoscenza, ora, @e tanto pi@u profonda per l'esperienza da lui
+fatta della |dolce vita~ paradisiaca e dell'^opposta~ (nel
+Limbo).  Ne ha, in altra parole, la doppia e pi@u persuasiva
+misura: quella negativa e quella positiva.  -- |dolce vita~: cfr.
+^Par.~, IV, 35.
+
+	|49-50.  circumferenza~: dell'occhio, il cui |arco
+superno~ @e il ciglio superiore.
+
+	|51.  morte~... |penitenza~: si tratta di Ezechia, re di
+Giuda il quale, essendo gravemente malato e avendogli il profeta
+Isaia annunziata la morte imminente, pianse <actu magno>
+ottenendo da Dio un'aggiunta di quindici anni di vita.  Il fatto
+in IV ^Re~, 1-11; ^Isaia~, XXVIII.  Il punto d'appoggio
+principale dell'accenno dantesco @e il ^Canticum Ezechiae~ che si
+legge nel testo di ^Isaia~, e in cui il re accenna ai suoi
+<peccati>: donde la |penitenza~, attribuitagli da Dante, in forza
+della quale egli ottenne da Dio ecc.  Che Ezechia fosse re
+giusto, risulta chiaramente dal testo biblico: <memento -- cos@i
+il re a Dio -- quomodo ambulaverim coram te in veritate et in
+corde perfecto, et quod bonum est in oculis tuis fecerim>.  In
+colpa, di vanit@a, -- nel racconto di ^Isaia~ -- il re cadde dopo
+la concessione.
+
+	|52.  giudicio etterno~: il giudizio, il decreto di Dio:
+cfr. ^Par.~, XIX, 99.
+
+	|53.  si trasmuta~: si altera, modifica;, e gi@a in
+^Purg.~, VI, 37-39.  -- |preco~: preghiera (cfr. ^Inf.~, XXVIII,
+90).
+
+	|54.  fa~... |dell'odierno~: |la gi@u~, in terza, fa
+domani dell'oggi, rimanda al domani quello che avrebbe dovuto
+esser oggi.  Si tratta, cio@e, non di una modificazionc del
+giudizio in s$e, ma di una semplice modificazione dei termini
+della sua procedura o applicazione: cosa attinente alla giustizia
+cummutativa, non alla distributiva.  -- |crastino~: dal lat.
+<cras>, domani; @e rimasto in <procrastinare>.  Oggi e domani
+hanno qui valore generico, significando semplicemente spostamento
+di date.
+
+	|55.  che segue~: terzo, nell'ordine; al culmine
+dell'arco ciliare.  L'imperatore Costantino I il Grande, del
+quale sono qui ricordati, con una appena velata nota di biasimo,
+il trasferimento della sede imperiale a Bisanzio (cfr. ^Par.~,
+VI, 1-2) e la famosa donazione del territorio di Roma alla
+Chiesa, prima spinta alla degenerazione temporalistica della
+Chiesa divenuta poi fomite di disordine spirituale e politico nel
+mondo.  @E uno dei grandi ^leit-motiv~ del poema e del ^Mon.~:
+cfr. ^Inf.~, XIX, 115-118; ^Purg.~, XXXII, 124-126; ^Mon.~, II,
+11-12; III, 10, dove si tocca dell'illecito arbitrio commesso
+nell'alienare una sia pur piccola parte del territorio di
+giurisdizione imperiale; e Costantino, pur riconoscendosi la sua
+<pia intentio> @e definito <infirmator ille Imperii>.  -- |con le
+leggi~: col governo, di cui le leggi son norma e strumento (cfr.
+^Purg.~, XVI, 97); ma l'espressione, cos@i congegnata, si prolunga
+nell'allusione che, trasferiti il governo e la sede imperiali a
+Bisanzio, l'occidente rimase senza |leggi~ civili, esposto a
+possibili disordini.  -- |meco~: con l'Aquila (autorit@a
+imperiale) di cui (cfr. ^Par.~, VI, 7-9, 57, 73) l'imperatore @e
+^baiulo~ o portatore.
+
+	|56.  f@e~: produsse.  -- |mal frutto~: cfr. ^Inf.~, XIX,
+115-118, e la nota al v. 55.
+
+	|57.  cedere~: ritrarsi davanti: in segno di onorevole,
+ma pericolosamente eccessiva deferenza.  -- |al pastor~:
+all'autorit@a religiosa, al Pontefice.  -- |greco~: con una
+sfumatura reprobativa, come ^Alberto Tedesco~ (molto tedesco e
+poco romano) di ^Purg.~, VI, 97.  Col suo trasferimento a
+Bisanzio, l'Impero minacci@o di perdere l'attributo di <romano>,
+l'unico che, per ragioni storiche ideali e provvidenziali, avesse
+valore e significato universali.  Il gravame della tesi svolta
+nel ^Mon.~ e, di scorcio, in ^Inf.~, XIX e ^Purg.~, XXXII (loc.
+cit.) si fa sentire nella presentazione di Costantino ch'@e, in
+sostanza, negativa, o di un positivo negativamente contorto.  E
+sar@a da ricordare, con M. Maccarrone, che la questione, in s$e
+astrattamente storica, della <translatio Imperii>, a cominciare
+dalla bolla <Venerabilem> di Innocenzo III s'innest@o, sulla
+discussione del problema dei rapporti dei due Poteri e fu
+accampata come <argomento> a sostegno della tesi teocratica. 
+Essa, informa sempre il Maccarrone, @e richiamata anche nella
+famosa <Allegacio> (1303) di Bonifacio VIII.  E il |dedutto~ del
+v. 58 fa pensare appunto alle <deduzioni> delle discussioni
+dottrinali con cui la Chiesa cercava di avallare e giustificare
+la sua intrusione temporalistica; male derivato, conseguente a:
+ch'@e il secondo significato, incluso, del termine.
+
+	|59.  bene operar~: intenzionalmente buono |operar~... --
+|@e nocivo~: nuoce, @e considerato come colpa.  Si cita San
+Tommaso, ^S. T.~, I, 2, 20, 5: <Eventus malus non facit actum
+malum qui erat bonus, nec bonum qui erat malus>.  Scopo della
+distinzione @e lo scarico della responsabilit@a da Costantino sulle
+spalle dei Pontefici, dei quali, unicamente, @e la responsabilit@a
+e la colpa.
+
+	|60.  avvegna che~: sebbene.  -- |'l mondo~: ^lo regno
+mortal~, l'umanit@a (^Par.~, VI, 84).  -- |indi~: di qui, in
+conseguenza della donazione.  -- |distrutto~: in preda a
+scompiglio: per la ragione dichiarata in ^Purg.~, XVI, 94-114.
+
+	|61.  declivo~: discendente.
+
+	|62-63.  Guiglielmo~: Guglielmo II, il Buono, re di
+Sicilia dal 1166 al 1189, la cui fama di giustizia e liberalit@a,
+celebrata dagli storici del Regno, era ancor viva nella
+tradizione, ed @e qui polemicamente contrapposta al malgoverno
+aragonese ed angioino.  -- |cui~: oggetto di |plora~: rimpiange,
+ricorda nostalgicamente: con valore intensivo.  -- |quella
+terra~: la Sicilia e la Puglia, nel 1300 vittime: la Puglia o
+Italia meridionale del malgoverno di Carlo II; e la Sicilia di
+quello di Federico: cfr. ^Par.~, XIX, 127-135.  -- |piagne~:
+deplora, lamentandosi (cfr. ^Par.~, XIX, 118, 147): verbo,
+nell'uso del poema, tipicamente applicato a motivi di espiazione,
+o di protesta o lamento per danno o per malgoverno od oppressione
+politica.  -- |vivo~: ambedue <vivi>, e quanto malfamati: e
+quanto <viva> la fama di quel <morto> (Guglielmo), pur cos@i
+lontano nel tempo!...
+
+	|64-65.  s'innamora~: intensivo: @e cosa tanto rara, un
+|giusto rege~!  -- |al sembiante~: dal suo apparire,
+dall'intensit@a del suo fulgore.
+
+	|66.  ancora~: anche: col suo vivo fulgore, espressione
+di una felicit@a proporzionata al merito.
+
+	|67.  gi@u~: segna il solito stacco, fortemente
+differenziale, tra cielo e terra -- |mondo errante~: tra gli
+uomini, soggetti ad errore: non i beati: e la ragione in ^Par.~,
+III, 31-33; V, 1-6.  |Mondo errante~, l'eresia, in ^Par.~, XII,
+94.
+
+	|68.  Rifeo~: troiano, personaggio, ma di scarso rilievo,
+del poema virgiliano (^En.~, II, 426-427), vantato come
+<...iustissimus unus -- qui fuit in Teucris et servantissimus
+aequi>, e perito nella difesa di Troia.  Il salvataggio
+dell'oscuro guerriero troiano non ha nulla di eccezionale e di
+audace, avendo l'appoggio, oltre che di correnti leggende e
+credenze medievali che davano per salvi altri personaggi
+dell'antichit@a pagana, come Traiano e Alessandro Magno, della
+riserva possibilistica propria della teologia patristica e
+scolastica sul tema della salvazione.  Lo pseudo-Dionigi (^De
+Hier.~, IX) afferma che <multi gentiles per angelos reducti sunt
+ad Deum>; e Sant'Agostino (^De civit. Dei~, I, 18 e XVIII, 47),
+oltre ad affermare non essere incongruo credere che anche a
+uomini di altre genti Dio abbia concesso una speciale
+rivelazione, ricorda la leggenda di un pagano, Denocrate, salvato
+dall'Inferno per le preghiere di Santa Perpetua, sua sorella e
+martire (cit. Tommaseo e Busnelli).  Per nomi del genere, abbiamo
+gi@a osservato a proposito di Catone, non insorgevano, o in forma
+assai ridotta, gravi e preclusive questioni di natura
+teologico-dottrinale, come invece per Aristotele: <per <salvare>
+il quale manc@o, a Dante, la necessaria audacia teologica.  --
+|tondo~: circolo, ciglio.
+
+	|70.  Ora conosce~: solo ora: ripetuto ben sei volte.  --
+|assai~: abbastanza (di quantit@a limitata): d'uso normale.  --
+|'l mondo~: gli uomini, i viventi, con la loro limitata
+intelligenza.
+
+	|72.  il fondo~: le ragioni ultime; con diretto richiamo
+all'immagine di ^Par.~, XIX, 58-63.
+
+	|73.  allodetta~: lodoletta (<alauda> in latino;
+<lauzeta> in provenz.); diminutivo puramente poetico.  Spunto,
+d'<impronta> provenzale (@e in Bernard da Ventadorn) non raro
+nella poesia italiana, ripreso e rinnovato da Dante <sottraendolo
+all'atmosfera emblematica e convenzionale dei bestiari e
+imprimendole un tono di viva freschezza> (Sapegno).
+
+	|74.  contenta~: felice: <contentarsi... si @e essere
+beato> (^Conv.~, III, 8): e cfr. ^Purg.~, II, 116.
+
+	|75.  l'ultima dolcezza~: <dolce>, nel poema, @e attributo
+costante di canto, e raramente @e predicato della luce: |ultima
+dolcezza~, perci@o, surrogando il termine al quale va solitamente
+unito l'epiteto, significher@a: le ultime note del suo canto. 
+Altri intende: dei raggi del sole, sazia ed ebbra di sole;
+legando strettamente la comparazione allo spunto com'@e svolto da
+B. da Ventadorn; al qual proposito il Vandelli osserva: <La
+similitudine dantesca fa ripensare al principio di una nota
+poesia del trovatore Bernardo di Vetadorn, dove si descrive la
+lodoletta che gioiosa si leva a volo verso il sole, e poi
+inebbriata del sole si oblia e si lascia cadere per la dolcezza
+che le scende in cuore; ma @e somiglianza generica, non
+imitazione>.
+
+	|76-78.  sembi@o~: sembr@o, apparve, si comport@o.  Il verbo
+pone in modo non rigido il rapporto tra i termini del paragone:
+finito il discorso, l'Aquila tace, caritatevolmente lieta e paga
+del suo dire, continuando a librarsi alta sopra Dante.  In cielo,
+in ogni operazione caritativa @e letizia; e carit@a @e conformanza
+ai voleri di Dio: cfr. ^Par.~, III, 52-54, 73-85.  --
+|l'imago~... |diventa~: tre versi tormentati e di ben calibrata
+difficolt@a, e la difficolt@a @e in parte aumentata dall'aggiunta
+|al cui disio~... |diventa~, che tuttavia, come in altri casi,
+pu@o essere un'aggiunta integrativa ma non strettamente
+condizionante.  Richiamando i termini e le definizioni usati nei
+due canti precedenti parlandosi dell'Aquila, si potr@a
+interpretare: l'imagine (^la bella image~ in ^Par.~, XIX, 2) o
+figura (dell'Aquila) foggiata o lasciata dall'impronta (del
+suggello) del divino |piacere.~  -- |piacere~: legato a |disio~
+(moto affettivo) acquista il preminente significato di <bene>
+(generatore di amore), ricordando la ricorrente definizione di
+Dio ^infinito~ o ^sommo bene~; il canto delle anime (della
+figura) al ^ben ch'a s$e le move~ di ^Par.~, XVIII, 99; e
+l'affermazione di Piccarda (^Par.~, III, 52-54): gli ^affetti~
+dei beati <letiziare> in quanto ^infiammati~... ^nel piacer dello
+Spirito Santo~ e del ^suo ordine formati.~  @E l'interpretazione
+pi@u in tono col paragone scelto (^allodetta~ {v.73}... ^contenta~
+{v.74}... ^dolcezza~ {v.75}) e col concetto di <bene> (^cosa~...
+^che piace~: ^Purg.~, XVIII, 20) imposto da |disio~ (tensione
+dell'animo verso un bene, come sappiamo da ^Purg.~, XVII-XVIII). 
+Il significato primo e principale del termine |piacere~, include,
+per stretta correlazione, l'altro: volont@a o beneplacito di Dio:
+ma il motivo-chiave resta qui l'idea di tripudio nel godimento
+del supremo bene.  -- |al cui disio~: desiderando il quale, con
+l'affetto o amore rivolto verso il quale: nell'ambito del
+principio ricorrente e capitale: l'affetto indirizzato verso Dio
+(si dica esso ^amore, o disio~, come in ^Purg.~, XVII-XVIII, si
+dica ^istinto~ come in ^Par.~, I), @e stimolo a perfezione.  --
+|cosa~: cosa e creatura.  -- |qual ell'@e~: da riferire a
+|imprenta~, seguendo la lezione vandelliana, escludendosi cos@i
+ogni rapporto comparativo di perfezione con Dio, e intendendosi
+che la creatura, pi@u @e perfetta, pi@u @e simile o conforme al
+^sommo bene~ (cfr. ^Par.~, VII, 80) e porta intatta l'impronta
+impressale da Dio col suo sigillo, conformemente a ^Par.~, VII,
+68-69: ^non si move~ -- ^la sua imprenta quand'ella sigilla.~ 
+Secondo un'altra interpretazione: a desiderio, a volont@a del
+quale, e il senso sarebbe totalmente diverso: <la volont@a divina
+@e giustificata in se stessa; tutto il creato dipende dalla sua
+amorosa iniziativa> (Montanari).  Una terza interpretazione, che
+avanziamo possibilisticamente, @e la seguente: ogni cosa |diventa~
+qual essa (cosa) @e per sua natura o <forma>, intendendosi ch'essa
+si svolge secondo l'intima legge del proprio essere.
+
+	|79.  avvegna che~: sebbene.  -- |al dubbiar mio~: cio@e
+quanto al mio <dubbio>; qui: stupore da <dubbio>.
+
+	|80.  l@i~ in cielo, dove le anime vedono tutto in Dio, e
+la parola, di conseguenza, @e inutile.  -- |vetro~... |veste~:
+trasparente; com'@e il vetro rispetto al colore (perfettamente
+percepibile) dell'oggetto ch'esso copre o avvolge.  I dannati
+della Giudecca -- in ^Inf.~, XXXIV, 12.  -- ^trasparian come
+festuca in vetro~; e in ^Conv.~, III, 8: <l'anima... quasi
+velata, spesse volte si dimostra... ne la bocca, quasi come
+colore dopo vetro>.  Il Torraca cita ibid. III, 9: <Coloro, che
+vogliono fare parere le cose nello specchio d'alcuno colore,
+interpongono di quel colore tra 'l vetro e il piombo, sicch@e il
+vetro ne rimane compreso>: e in tal caso, come qui, @e il |colore~
+che |veste~ il vetro.
+
+	|81.  tempo~... |pat@io~: non ebbe pazienza di aspettar
+tempo tacendo, di prolungare il silenzio.  Il sogg. @e ^dubbiar
+mio~ {v.79}; e cos@i pure di ^pinse~, del v. 83.
+
+	|82.  della bocca~: dalla bocca.  Nella faccia si attua
+l'ultima potenza della materia, cio@e la sua capacit@a di
+espressione spirituale; occhi e bocca, poi, sono gli organi pi@u
+vivamente rivelatori dell'anima: cfr. ^Conv.~, III, 8; ^Purg.~,
+XXI, 111; ^Par.~, II, 144; XVIII, 22-24.  -- |Che cose son
+queste~: espressione vivacissima e incontrollata, quasi un:
+diamine! com'@e possibile? un pagano come Rifeo, soprattuttto,
+cos@i lontano dai tempi cristiani!...  Incredibile!  Cfr. ^Purg.~,
+XXIX, 21.
+
+	|83.  pinse~: spinse; da <pingere>: usitato.  -- |peso~:
+esatto: il |peso~ @e nella mente, nel cervello, e di l@i, quasi per
+forza di gravit@a, fa pressione sulla bocca <pingendo> fuor le
+parole.
+
+	|84.  coruscar~: balenare, sfavillare.  -- |gran feste~:
+^festa grande~ in ^Par.~, XII, 22: manifestazioni di gioia, per
+l'ardore caritativo con cui le anime si accingono a placare il
+nuovo dubbio di Dante.  Qui, in un'atmosfera cos@i solenne, niente
+sorriso, come invece in ^Par.~, III, 67.  E cfr. ^Par.~, XVI,
+28-30.
+
+	|85.  appresso~: di successione immediata.  -- |acceso~:
+splendente.
+
+	|86.  benedetto segno~: l'Aquila; ^sacrosanto segno~
+(^Par.~, VI, 32).
+
+	|87.  ammirar~: meraviglia, stupore; usitato.  --
+|sospeso~: cfr. ^Par.~, XXVI, 30; XXXII, 92; ^Purg.~, XXIX, 32. 
+<In admiratione suspensus>, nell'^Epist.~ ai Cardinali.
+
+	|88-89.  credi~... |come~: Dante <crede>, accetta
+(dall'autorit@a sacrale dell'Aquila) il <quia>, il fatto, della
+cui verit@a egli non dubita; ma non <vede>, con l'intelletto, il
+|come~ (esso sia possibile), non sa trovarne una spiegazione
+razionale.  Cfr. ^Inf.~, XXIV, 112.
+
+	|90.  credute~... |ascose~: il <credere> per fede o per
+autorit@a, non toglie che una verit@a possa riuscire <ascosa>,
+nascosta, inaccessibile all'intelletto umano.  (Cfr. ^Purg.~,
+XVIII, 24; ^Par.~, XVII, 141): verit@a creduta, non <intelletta>.
+
+	|91.  per nome~: non il solo e puro nome, si badi; ma,
+poich$e <nomina sunt consequentia rerum>, la reale esistenza della
+cosa attestata dal nome stesso, e le qualit@a dell'oggetto
+ricavabili dall'interpretazione del nome.  Cfr. ^Par.~, XII,
+67-69, 79-81.
+
+	|92.  quiditate~: essenza, natura intrinseca; cos@i in
+^Par.~, XXIV, 66.  Termine del linguaggio filosofico: <quia illud
+per quod res constituitur in proprio genere vel specie est hoc
+quod significatur per diffinitionem indicantem quid res est; hinc
+est quod nomen essentiae in nomen quidditatis a philosophis
+mutatur> (San Tommaso, ^De ente et essentia~, I). 
+L'apprendimento ^per nome~ {v.91} (o nominalistico) corrisponde a
+un grado di conoscenza esteriore e incompleta (la <cognitio
+sensitiva> di San Tommaso), incapace di attingere l'<essenza>
+della cosa, riservata a quella che, sempre nel linguaggio di San
+Tommaso, si chiama la <cognitio intellectiva>.
+
+	|93.  pu@o~: @e incapace di.  -- |prome~: dal lat.
+<promere>: mette fuori; spiega, illustra.
+
+	|94.  Regnum coelorum~: la tipica e vulgatissima
+espressione evangelica: e da ^Matteo~, XI, 12, tutto il concetto
+della terzina: <Regnum coelorum vim patitur et violenti rapiunt
+illud>.  -- |pate~: tollera, sopporta (cfr. v. 31).  |Violenza~ @e
+usato per metafora, per indicare forte impegno di atti e volont@a,
+e da questa idea di violenza, di lotta, la catena
+verbale-concettuale: ^vince~ {v.96}... ^esser vinta~ {v.98}...
+^vinta~ {v.99}... ^vince~ {v.99}.
+	
+	|95.  amore~... |speranza~: due delle tre virt@u
+teologali.  N'@e esclusa, per il momento, la terza (Fede), e
+|amore~ @e distinto per ora dalla Carit@a cristianamente intesa:
+^vero amor~ al v. 116.
+
+	|96.  che~... |volontate~: che (amore e speranza) vincono
+ecc.  La volont@a di Dio, vorr@a dire, si piega ben volentieri a
+ricompensare ^amore e speranza~ {v.95}.
+
+	|97.  non~: chiarisce la natura particolare di questa
+lotta o prova di forza in cui, a differenza di quanto accade fra
+gli uomini, l'antagonista Dio, nella sua ineffabile bont@a,
+gradisce la sconfitta; e la sconfitta della cui ^volontate~
+{v.96} si risolve nella vittoria della sua ^beninanza~ {v.99},
+benignit@a, caritatevole bont@a.  -- |sobranza~: soverchia,
+sopraff@a: dal prov. <sobransar>.  Vittoria di prepotenza questa,
+commenta il Venturi; di carit@a l'altra.
+
+	|98-99.  vince~... |vinta~: il soggetto sar@a |lei~ (la
+divina volont@a) e il concetto concettosamente configurato il
+seguente: la divina volont@a, proprio perch$e vuol essere vinta,
+|vince~ (moralmente): e |vinta vince~, da questa voluta sconfitta
+(vittoria negativa) trae un'altra vittoria (positiva), il vincere
+con la sua |beninanza.~  Secondo l'altra interpretazione: la
+^violenza~ (di ^amore~ {v.95} e ^speranza~ {v.95}) vince lei, la
+divina volont@a (oggetto): ma s'introduce un brusco cambiamento di
+soggetto nel v. 99, e va perduta la precisazione contenuta in
+|vince lei~: lo sconfitto essere in realt@a un vincitore, e tale
+proprio perch$e vuol essere sconfitto.  -- |vuole~: ama, gradisce. 
+Il Buti, a proposito di ^volontate~ {v.96}, distingue in Dio la
+volont@a assoluta e la volont@a relativa: la prima @e immutabile; la
+seconda, pur non essendo mai in disaccordo con la prima, pu@o
+muoversi in un senso particolare per il verificarsi di
+determinate circostanze: nel caso in questione, ad esempio, Dio,
+<vinto> dall'ardente carit@a e dalla viva speranza, interviene a
+creare le circostanze per cui i due pagani Traiano e Rifeo
+possano <vestire> anche la terza virt@u teologale, la Fede
+(credere in Cristo, venturo o venuto), condizione assoluta per la
+salvazione.  -- |beninanza~: provenzalismo, dell'uso letterario.
+
+	|100.  prima vita~: la prima anima, Traiano; cfr. ^Par.~,
+IX, 7; XII, 127; XIV, 6.  -- |la quinta~: Rifeo.
+
+	|101-102.  ne~: di esse, della loro presenza.  --
+|dipinta~: ornata; presenti in cielo, Rifeo e Traiano, e pi@u
+precisamente nella figura dell'Aquila, <dipinta> da Dio (cfr.
+^Par.~, XVIII, 109).
+
+	|103.  suoi~: loro: alla latina, e d'uso normale.
+
+	|104.  gentili~: pagani.  -- |fede~: credenza; credendo
+fermamente (cfr. ^Par.~, XVII, 140).
+
+	|105.  quel de' passuri~: Rifeo credette nei |piedi~ di
+Cristo destinati a esser confitti in croce; nella venuta del
+Redentore.  L'idea di <venuta> @e implicita in |piedi~: |passuri~
+@e un part. fut. attivo di tipo deponenziale alla latina
+(<passurus>: da <pati>): e cos@i per il passato: |passi~, che
+hanno patito.  -- |de' passi piedi~: Traiano credette in Cristo
+venuto e crocifisso per la redenzione degli uomini.  ^Mon.~, III,
+3: <Illi... qui... in filium Dei Christum, sive venturum, sive
+iam passum, crediderunt>.
+
+	|106-107.  l'una~: Traiano.  -- |dello 'nferno~: dal
+Limbo, presumibilmente, che tuttavia @e parte dell'Inferno: il
+^limbo dello 'nferno~ in ^Purg.~, XXII, 14.  Altri intende
+l'Inferno vero e proprio, appoggiandosi autorevolmente a quanto
+dice San Tommaso in un passo della ^Summa~ (III, Sup. 71, 5) a
+proposito della questione della salvazione di Traiano: la
+condanna all'Inferno di queste anime, secondo San Tommaso, non @e
+definitiva, essendo da Dio gi@a prevista la loro salvazione. 
+|u'~: dove, nel quale.  -- |non~... |voler~: anche qui @e
+correntemente citato San Tommaso (^Summa~, III, S. 98, 1-2),
+secondo il quale la disposizione spirituale dei dannati, negativa
+o peccaminosa, @e immutabile e irreversibile: <voluntas eorum
+numquam poterit esse bona>.  Ma @e principio troppo duro, se
+applicato a Traiano.  -- |si riede~: si ritorna, si pu@o
+ritornare.  -- |buon voler~: moto di volont@a o atto <buono):
+ossia, <buono> in s$e, ma non pi@u tale da poter mutare il destino
+dell'anima.  <Buoni>, in questo senso, sono i voleri e pensieri
+dei grandi del Limbo.  -- |all'ossa~: al suo corpo; con
+suggerimento di corpo sepolto e corrotto.  Cfr. ^Purg.~, III,
+127.
+
+	|108.  mercede~: ricompensa, premio.
+
+	|109.  viva spene~: la viva speranza di San Gregorio
+Magno, che infuse |possa~, forza, potenza, nelle sue preghiere.
+
+	|110.  suscitarla~: richiamarla a vita, farla
+resuscitare: @e termine del linguaggio evangelico.
+
+	|111.  s@i~... |mossa~: cosicch$e la volont@a di Traiano
+(|sua~) potesse muoversi nuovamente e liberamente, al bene: a
+credere, amare e sperare.
+
+	|112.  L'anima gloriosa~: di Traiano, |gloriosa~, perch$e
+gloriante in cielo e, anche, per ^l'alta gloria~ che di essa si
+ricorda: cfr. ^Purg.~, X, 73-74.
+
+	|113.  tornata nella carne~: cfr. ^Purg.~, X, 74-75. 
+L'anima di Traiano, per insigne grazia impetratagli da papa
+Gregorio, usc@i dal Limbo e si ricongiunse, per poco, col corpo,
+potendo cos@i, credendo amando e sperando, assolvere alla
+condizione prescritta.  Di ci@o discorre anche San Tommaso in
+^Summa~, III, s. q. LXXI, 5.
+
+	|114-116.  in lui~: Dio, Cristo.  -- |potea aiutarla~:
+accenna alla Speranza; |credette~ alla Fede; |vero amor~ alla
+Carit@a, |vero amor~ perch$e rivolto a Dio.  -- |seconda~: tornato
+vivo, Traiano mor@i, infatti (insigne deroga alla legge normale)
+una seconda volta.
+
+	|117.  gioco~: gioia, festa: dal provenzale, e perci@o
+vocabolo illustre: cfr. ^Purg.~, XXVIII, 96; ^Par.~, XXXI, 133
+ecc.  ^E venni dal martiro a questa pace~ in ^Par.~, XV, 148.
+
+	|118.  L'altra~: il troiano Rifeo.  -- |profonda~:
+ribadisce il motivo dell'imperscrutabilit@a del divino operare:
+cfr. ^Purg.~, VIII, 68-69; e ^Purg.~, III, 34-36; ecc.
+
+	|119.  fontana~: sorgente: cfr. ^Par.~, IX, 27.  --
+|creatura~: essere creato da Dio; qui: uomini e angeli: e cfr.
+^Par.~, XIX, 40-57.
+
+	|120.  pinse~: spinse, affond@o.  -- |prima onda~: l'onda
+del fondo, dove primamente l'acqua scaturisce.  ^Lo suo primo
+perch$e~ in ^Purg.~, VIII, 69.
+
+	|121.  drittura~: giustizia: la quale <est quedam
+rectitudo sive regula, obliquum hinc inde abiciens> e <ordina noi
+ad amare e operare dirittura in tutte cose> (cfr. ^Mon.~, I, 11;
+^Conv.~, IV, 17).
+
+	|122-123.  li~: gli, a Rifeo.  -- |aperse~... |futura~:
+lo mise in grado di credere, per via di una rivelazione
+particolare, nella |futura~ venuta del Redentore.  La casistica
+dei teologi, in questi casi, e per bocca di San Tommaso (^Summa~,
+II, II, 9, II, 7), distingueva due specie di <fede> ottenuta per
+graziosa rivelazione: una esplicita, formalmente concordante con
+la cristiana; l'altra implicita, o generica, ma sostanzialmente
+concordante.  Poich$e Rifeo da quel momento abbandon@o il
+paganesimo, si tratter@a di fede esplicita.
+
+	|124.  in quella~: nella ^redenzion futura~ {v.123}.  --
+|sofferse~: soffr@i, sopport@o.
+
+	|125.  da indi~: d'allora in poi.  -- |puzzo~:
+popolescamente espressivo: cfr. ^Purg.~, XXII, 85-88, dove Stazio
+parla della propria conversione.
+
+	|126.  riprend@iene~: ne riprendeva, cercando di
+correggerle, predicando la vera fede.  -- |perverse~: non
+<malvage>, ma: erranti, traviate; ^ingannate~ in ^Par.~, XXII,
+39; ^l'antico errore~ in ^Par.~, VIII, 6.  Rifeo, nota il
+Poletto, @e presentato come una sorta di Paulo (San Paolo) in
+anticipo, che, non solo si converte, ma si d@a a fervida
+predicazione.
+
+	|127.  tre donne~: le tre virt@u teologali, che Dante
+(cfr. ^Purg.~, XXIX, 121-126) aveva gi@a visto danzare, nel
+Paradiso terrestre, alla ruota destra del carro tirato dal
+Grifone e rappresentante la Chiesa.  -- |per battesmo~: in
+funzione di battesimo.  Rifeo, ovviamente, non pot$e ricevere
+battesimo; ma tale difetto fu in lui compensato dall'ardente
+pratica delle tre virt@u teologali, le quali furono, per cos@i
+dire, il suo fonte battesimale.
+
+	|129.  dinanzi~... |millesmo~: pi@u di mille anni prima
+del |battezzar~, dell'uso e rito del battezzare, introdotto da
+San Giovanni Battista, e da Cristo poi praticato e prescritto ai
+discepoli.  Il battesimo, nella dottrina cristiana, @e sacramento
+condizionante per l'accesso alla fede e alla comunit@a dei fedeli:
+cfr. ^Inf.~, IV, 36.  -- |millesmo~: millesimo (anno); secondo
+l'uso latino di esprimere le date con l'ordinale.  Cfr. ^Purg.~,
+XXII, 93; ^centesmo~, in rima con ^paganesmo~ {v.125}.
+
+	|130.  predestinazion~: secondo la definizione di San
+Tommaso (^Summa~, III, 24), <predestinato> @e ci@o che da Dio @e
+preordinato <ab aeterno>, e si verificher@a per intervento della
+divina grazia.  -- |remota~: lontana; e perci@o: inaccessibile,
+incomprensibile.
+
+	|131.  radice~: la ragion prima e profonda.  --
+|aspetti~: occhi (intelligenze): usitato.
+
+	|132.  la prima cagion~: Dio, causa prima, principio
+fontale dell'essere, <primo agente>.  @E definizione di sapore
+speculativo, come <motor primo>, <prima mente> e affini: <primo>,
+in assoluto, essendo predicabile solo di Dio.  -- |tota~: tutta,
+completamente; nella forma latina, come in ^Par.~, VII, 85.  N$e
+uomo, n$e angelo, con la loro intelligenza, possono abbracciare
+l'infinit@a di Dio.  Concetto ricorrente (cfr. ^Par.~, XX, 40-57):
+e dall'impossibilit@a di veder |tota~ la |prima cagion~,
+l'impossibilit@a d'intendere la remotissima ^radice~ {v.131} della
+predestinazione.
+
+	|133.  mortali~: viventi in terra, e quindi con
+intelligenza pi@u limitata di quella degli angeli e dei beati.  --
+|tenetevi stretti~: avari, ritegnosi, cauti; il contrario di
+<largo>, che in tal caso vorrebbe dir avventato.  Rinnova, ancora
+una volta, l'ammonimento di ^Purg.~, III, 37-39; ^Par.~, XIII,
+112-114, 130-132, ecc.
+
+	|134.  Dio vedemo~: direttamente: condizione privilegiata
+e abilitante a sapere...
+
+	|135.  eletti~: predestinati a salvazione: termine
+dell'uso scritturale.
+
+	|136.  $enne~: ci @e.  -- |scemo~: sost.: difetto,
+limitazione di conoscenza.
+
+	|137.  perch$e~... |s'affina~: il <bene>, la felicit@a
+delle anime, come aveva gi@a spiegato Piccarda in ^Par.~, III,
+52-54, 70-81, @e nella carit@a o conformanza al volere di Dio: il
+nostro |ben~, afferma l'Aquila, usando per la prima volta, prima
+di scomparire alla vista di Dante, il ^noi~ {v.138} invece
+dell'^io~, |ben si affina~, si fa pi@u puro e pieno |in questo~,
+proprio e appunto nel fatto che noi ci uniformiamo totolmente
+alla volont@a di Dio.  <Bene>, insomma, @e tutto quanto Dio vuole;
+e per la stessa ragione le anime del cielo della Luna non bramano
+un grado di felicit@a pi@u alto, e queste un maggior grado di
+conoscenza (cfr. ^Par.~, III, 70-79).
+
+	|138.  che~: riprende, determinando, ^in questo~ {v.137}
+del verso precedente: causa della felicit@a delle anime @e il
+conformarsi alla volont@a di Dio; e il non-conoscere, di
+conseguenza, non @e un bene in se stesso, ma in quanto cosa da Dio
+voluta.  Il Poletto preferisce accentare, ^ch$e~; il |che~, in
+ogni modo, non pu@o aver valore consecutivo, andandone sovvertita
+la linea logica e dottrinale del discorso.  -- |e noi~: anche noi
+(di pronta e assoluta rispondenza).
+
+	|139.  imagine divina~: cfr. v. 86; 76-77 ecc.; ^Par.~,
+XIX, 101-102, 95; ^quella image~ in ^Par.~, XIX, 21.
+
+	|140.  chiara~: capace di vedere; di apire: ^con occhio
+chiaro~ in ^Par.~, VI, 7.  -- |corta~: ^corta d'una spanna~ in
+^Par.~, XIX, 81.
+
+	|141.  medicina~: medicamento (d'informazioni, argomenti,
+ammaestramenti).  -- |soave~: efficace e gradito.
+
+	|142.  buon~... |buon~: il godimento @e maggiore quando
+|cantore~ e |citarista~ siano, buoni, valenti, e ci sia accordo
+delle due valentie.
+
+	|143.  fa seguitar~: per accompagnamento.  -- |lo
+guizzo~: la vibrazione, e da questa il suono.
+
+	|145.  parl@o~: l'Aquila.  -- |s@i~: ripetuto; il ricordo @e
+rimasto vivissimo!
+
+	|146.  le due luci~: le anime splendenti di Rifeo e di
+Traiano (tema del discorso dell'Aquila), situate ai due punti
+estremi dell'arco ciliare.  -- |benedette~: cfr. n. al v. 9.
+
+	|147.  pur come~: proprio: esattamente come...  --
+|batter d'occhi si concorda~: con perfetta sincronia: cfr.
+^Par.~, XII, 26-27.
+
+	|148.  con le parole~: in rapporto e sincronia con le
+parole dell'Aquila.  -- |mover le fiammette~: <fiammetta> @e
+l'usuale diminutivo poetico-affettivo (cfr. v. 45); |mover le
+fiammette~ significher@a: sfavillare, corruscare, a tratti,
+secondo i punti e il ritmo del discorso.

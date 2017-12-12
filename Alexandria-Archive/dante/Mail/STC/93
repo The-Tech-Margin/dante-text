@@ -1,0 +1,50 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id PAA23759
+	for <steve@avalon.dartmouth.edu>; Tue, 3 Jun 1997 15:34:43 -0400
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.5+DND/8.8.5) with ESMTP id PAA11740
+	for <Steve.Campbell@Dartmouth.EDU>; Tue, 3 Jun 1997 15:34:40 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 3123 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <541738-29353>; Tue, 3 Jun 1997 15:34:30 -0400
+Received: from tucson.Princeton.EDU (tucson.Princeton.EDU [128.112.131.153]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id PAA24036; Tue, 3 Jun 1997 15:34:20 -0400
+Received: (bobh@localhost) by tucson.Princeton.EDU (SMI-8.6/8.6.12) id PAA27812; Tue, 3 Jun 1997 15:34:20 -0400
+Message-Id: <199706031934.PAA27812@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Tue, 3 Jun 1997 15:34:19 -0400
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU, bobh@phoenix.Princeton.EDU
+Subject: Porena problem
+
+Margherita entered some stuff in the Porena comm. that
+I think we need to change.  What she did is exactly
+what we want to do, but the modality is perhaps
+problematic.  Porena has end notes for every canto.
+They, however, are really extended discussions of
+particular verses rather than general remarks.  Thus MF
+has, intelligently, keyed them to the verses in
+question; i.e., a disc. of the three beats in Inf. I is
+put right after the brief disc. of that passage where
+it occurs in the commentary.  BUT (and here's the
+possible source of problems) she has put them in as
+though they were separate entities.  Easiest if I show
+you:
+
+|129.~ blahblahblahblahblah.
+
+|NOTA FINALE N. 4.  VIRGIL BUDDY OF CAMPBELL.~  And now
+comes a couple of pages on Campbell's unworthiness to
+be V's friend, how dante works this into the text so
+skilfully that Campbell's best friends have to admit he
+was unworthy of V's friendship, etc.
+
+|134-135.~ blahblahjblahblah blsh.
+
+
+Now, will the "Nota Finale" appear AS PART OF the text
+under 129, or will it read as a SEPARATE entity because
+of the "|" indicator?  If it does the first of these,
+we are home free.  If the second, we need to go through
+all the Porena files removing the "|" before and the
+"~" after all these "NOTA FINALE" passages.
+
+I hope that was clear.  Best, Bob

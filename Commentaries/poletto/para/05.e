@@ -1,0 +1,1044 @@
+	|Nota~ Il Tommaseo.  <Badisi al cominciamento de' Canti, come
+variato, come sovente lirico come talvolta drammatico e ora
+filosofico e ora famigliare.  Uno di que' tanti predicatori che
+non consacrano l'arte profana al sentimento religioso, ma questo
+ammorzano tuffandolo in quella, studiava come modello d'esordi il
+principio de' Canti del Furioso, certamente pi@u comico della
+Commedia; ma senza che i predicatori prendano ad imitare i poeti,
+e specialmente poeti imitatori di imitatori, gioverebbe agli
+oratori quali che sieno attingere alla poesia nelle pi@u pure e
+alte sue fonti; perch@e l'arte della parola @e tutta un'arte, e
+perch@e poetica @e l'eloquenza de' libri sacri fin nella semplicit@a
+del Vangelo e dalle Epistole e ne' Padri pi@u grandi, e talvolta
+fin nelle aride dispute della Somma.>  Dal crescere della luce e
+della bellezza di Beatrice d'uno in altro Cielo, crederei potersi
+dire quello che sentimmo nel precedente Canto dell'apparir
+dell'anime nelle sfere; tale apparizione era segno sensibile del
+loro grado di grazia; e cos@i il crescere della luce, del sorriso,
+della bellezza della celeste donna non @e altro, come ho detto
+poco fa, che un segno sensibile delle ascensioni intellettuali
+dell'anima nella via del bene e del vero.  Cf. ^Nota~ al Canto
+III.
+
+	|1-6.  S'io ti fiammeggio~; il Biagioli: <Alfieri spiega
+^t'infiammo~; io da semplice grammatico; ^sono al tuo sguardo
+fiammeggiante.~>  Certo, non altro vuol dire il Poeta che questo:
+Se nel caldo dell'amore, che m'accende, fiammeggio a tuoi occhi,
+sfavillo di luce ecc.  Il Giuliani (Postilla ined.: <Se io ti
+^vibro~ da' miei occhi ^faville d'amor~ (^Par.~, IV, 140),
+^fiammelle di fuoco~, cio@e ardor d'amore (^Conv.~, III, 8).>  Cf.
+^Par.~, XXI, 61-63, nel commento.  S. Bonaventura (^Teol. Mist.~,
+nel prol.) ha le frasi: ^accostarsi a Dio con fiammeggianti
+affetti~: -- ^con fiammeggianti affezioni levar la mente.~ 
+Veggasi il passo di S. Gregorio al v. 5.  -- |Di l@a dal modo~
+ecc.; cf. ^Purg.~, XVII, 45; ^Par.~, I, 54; XIII, 22.  Il
+Tommaseo: <Paragonisi quello che degli occhi della sua donna @e
+detto da Dante con quello che della sua dal Petrarca, e si
+misurer@a distanza grande d'animi e d'ingegni e di tempi.>  --
+|Degli occhi tuoi~ ecc.; la tua potenza visiva (cf. ^Par.~, IV,
+138-142).  Nel ^Conv.~, III, canz., st. 4:
+
+     Cose appariscon nello suo aspetto,
+     Che mostran de' piacer del Paradiso;
+     Dico negli occhi e nel suo dolce riso,
+     Che le vi reca Amor com'a suo loco.
+     Elle soverchian lo nostro intelletto,
+     Come raggio di Sole un fragil viso:
+     E perch'io non le posso mirar fiso,
+     Mi convien contentar di dirne poco.
+     Sua belt@a piove fiammelle di fuoco,
+     Animate d'un spirito gentile,
+     Ch'@e creatore d'ogni pensier buono.
+
+E ivi, cap. 15: <Nella faccia di costei (cio@e della Sapienza)
+appaiono cose che mostran de' piaceri del Paradiso...  Gli occhi
+della Sapienza sono le sue dimostrazioni...: e il suo riso sono
+le sue persuasioni.>  -- |Il valore~; il tuo mortal potere
+(^Par.~, XXI, II).  -- |Procede~ ecc.; non si capisce perch@e
+alcuni moderni, seguendo il Buti, abbian voluto riferire il
+|perfetto veder~ a Dante, anzich@e a Beatrice; ella non altro vuol
+dire se non questa idea semplicissima (spiegazione del fatto
+accennato nel chiudersi del Canto precedente): S'io vibro raggi
+cos@i potenti, da abbagliare la tua vista, non devi maravigliarne,
+perch@e ci@o procede dalla perfezione della mia vista, che quanto
+pi@u si fissa in Dio, e pi@u ritrae e diffonde della sua luce (come
+il Poeta ne accerta nel ^Par.~, XIV, 40-42, il qual luogo
+s'impronta radicalmente all'altro, ^Par.~, XXVIII, 106-112).  --
+|Apprende~; secondo il modo dell'apprensione; quanto i Beati pi@u
+veggono in Dio, e tanto pi@u lo amano e ne sono allumati;
+l'Angelico domanda (^Summ. Theol.~, I, 26, 2, in resp.): ^Quis
+amare valeat, quod ignorat~?  E S. Gregorio (^Homil.~, 34), delle
+Sostanze angeliche: ^Quo subtilius claritatem divinitatis eius
+adspiciunit, eo validus in eius amore flammescunt.~  -- |Muove il
+piede~; avanza nell'amore di Dio a misura che se n'accresce la
+cognizione; secondo la cognizione vigoreggia l'affetto.  |Piede~
+per ^volere~, anche altrove (^Purg.~, XVIII, 44).  Il Tommaseo
+cita dall'Angelico: ^La volont@a segue all'aprensione
+dell'intelletto.~
+
+	|7-12.~  Notati dall'Alfieri.  |Risplende~; nel ^Conv.~,
+II, 5: <Risplende nel nostro intelletto alcuno lume della
+vivacissima loro essenza (^parla delle Sostanze angeliche~), in
+quanto vedemo le soppraddette ragioni.>  -- |L'eterna Luce~; Dio,
+il suo lume (cf. ^Par.~, XXXIII, 124).  -- |Vista sola~ ecc.;
+alcuni intendono col Lombardi: ^veduta che siasi una volta~; il
+Bianchi ed altri: ^al solo vederla~; e ci@o dipende anche dal modo
+d'interpunzione: per@o, a ben pensarci, e l'una e l'altra chiosa
+porta alla stessa conclusione, e ambedue s'informano a quanto il
+Poeta ne dice altrove (^Par.~, XXXIII, 100-102):
+
+     A quella Luce cotal si diventa,
+     Che volgersi da lei per altro obbietto,
+     @E impossibil che mai si consenta;
+
+     Per@o che il ben, ch'@e del volere obbietto,
+     Tutto s'accoglie in lei; e fuor di quella
+     @E difettivo ci@o ch'@e l@i perfetto;
+
+idea, che in altre parole ripete quella del ^Par.~, III, 31-33. 
+-- |Sempre~ ecc.; eccita negli animi eterno amore.  Nel ^Conv.~,
+III, 14: <Siccome il divino Amore @e tutto eterno, cos@i conviene
+che sia eterno lo suo oggetto di necessit@a, sicch@e eterne cose
+siano quelle ch'egli ama.>  -- |Seduce~; inganna lusingando;
+notabile verbo, che inchiude tutti gli amori traviati e
+travianti, e le lusinghe della strega sognata (^Purg.~, IX, 7 e
+segg.), e le ^false immagini di bene~, a cui l'uomo corre dietro
+sperando di trovare in esse la felicit@a (^Purg.~, XXX, 131).  --
+|Vestigio~; un'orma (^Par.~, I, 103), un raggio di essa luce
+(^Par.~, XXVI, 33) uno splendore (^Par.~, XIII, 53), che si
+mostra nelle cose create, perch@e la luce di Dio penetra per tutto
+l'universo, per@o in vario grado (^Par.~, I, 3; ^Conv.~, III, 7;
+cf. ^Purg.~, XV, 16, nel commento).  Nella ^Mon.~, I, 10: ^Totum
+universum nihil est aliud, quam vestigium quoddam divinae
+Bonitatis.~  -- |Mal conosciuto~; che l'uomo confonde o non ben
+distingue, credendo di trovare il vero bene dove in fatti non @e;
+ed @e quello che accenna altrove (^Purg.~, XVI, 88-93; e il passo
+del ^Conv.~, IV, 12, ivi riferito).  -- |Quivi~; in quell'|altra
+cosa~ (v. 10), cio@e nei beni transitori.  -- |Traluce~; il
+Tommaseo: <Per modo di splendore riverberato, dice nel Convivio. 
+Aristotele (^de An.~, III): ^L'anima mai non erra nel tendere al
+bene, ma ne' gradi del bene.~>
+
+	|13-15.  Tu vuoi saper~ (cf. ^Par.~, IV, 136: ^Io vo'
+saper~) ecc.; Beatrice riassume il desiderio del Poeta, se con
+altre buone opere si possa compensare un voto infranto, in guisa
+che l'anima vada immune di responsabilit@a con Dio (^Par.~, IV,
+136-138).  -- |Per manco voto~; per voto mancato (cf. ^Par.~,
+III, 30).  |Voto manco~ @e ^voto fallito~, dice il Cesari.  --
+|Render~ (cf. v. 30); restituire: perch@e un voto fatto @e un
+debito contratto con Dio; e vale anche dare in ricambio, come
+^Purg.~, XI, 125.  Ne' ^Salmi~ (LXXV, 12): ^Vovete et reddite
+Domino~; nell'^Ecclesiaste~ (V, 3-4): ^Si quid vovisti Deo, ne
+moreris reddere; displicet enim ei infidelis et stulta promissio. 
+Sed quodcumque voveris, redde.  Multoque melius est non vovere,
+quam post vitam promissa non reddere.~  -- |Sicuri~ ecc.; liberi
+l'anima da contrasto colla giustizia di Dio.  Il Tommaseo: <Il
+debito innanzi alla giustizia divina @e quasi litigio tra il male
+e il bene, tra i buoni spiriti e i tristi (-- ^si rammenti il
+litigio tra il Diavolo~ e ^l'Angelo custode per l'anima di
+Buonconte~, ^Purg.~, V, 104 e segg., ^e l'altro tra il Diavolo~ e
+^S. Francesco per quella di Guido da Montefeltro~ --).  Nella
+Biblia l'idea di giudizio @e frequente.>
+
+	|16-18.~  L'Alfieri not@o i due ultirni.  Il Tommaseo:
+<Terzina che pare inutile; ma prepara all'importanza che vuol
+dare il Poeta alle cose seguenti.>  Invece il Casini: <Con questa
+formula interrompe Dante il discorso di Beatrice come per
+avvertire il lettore che i versi precedenti formano quasi un
+proemio al ragionamento che segue; e l'osservazione del Tommaseo
+circa l'inutilit@a di questa terzina pare superflua.>  -- |S@i
+com'uom~ ecc.; come chi parla di seguito, senza interruzione.  --
+|Spezza~; rompe, interrompe; il Tommaseo allega quello di
+Virgilio (^Aen.~, IV, 388), ^sermonem abrumpit~; e soggiunge: <Ma
+qui ^spezzare~ @e pi@u proprio che ^rompere.~>  Il Venturi
+(Similit. ecc.; 209) not@o pure che questa di Dante rammenta la
+citata espressione virgiliana, ch'@e in senso inverso; ma poscia
+aggiunge che la similitudine, spiega ^il medesimo con il
+medesimo~, e qui poco o nulla aggiunge; ma il Casini avvisa, che
+<la similitudine non deve aggiungere, basta che chiarisca e
+illustri; e tale pregio, chi ben guardi, @e anche in questa di
+Dante.>  -- |Processo santo~; santo ragionamento; il ragionamento
+di Beatrice e di tal forma: Il pi@u grande dei doni, onde il
+Signore arricch@i l'uomo, si @e il libero arbitrio.  Pertanto,
+quando l'uomo si lega ad un voto, fa sacrificio a Dio della sua
+libert@a, sotto certe condizioni, e il venirvi meno non pu@o essere
+compensato (vv. 19-33).  In certi casi per@o puossi avere la
+dispensa dal voto (vv. 34-42); ma si deve notare che all'essenza
+del voto dovendo concorrere due condizioni, la materia cio@e ed il
+patto, questo non si scancella mai, mentre quella pu@o venir
+mutata dall'autorit@a della Chiesa (vv. 43-54); e ogni
+permutazione @e invalida, se non sia fatta col consenso di tale
+autorit@a, e se alla materia che si commuta non @e sostituita altra
+maggiore (vv. 55-63); onde scaturisce quanta cautela e
+ponderazione debbano gli uomini usare nel far voti, per non
+aversene poi a pentire e a trovarsi in litigio colla divina
+giustizia (vv. 64-84).  -- |Processo~; discorso, ragionamento; e
+^processus~ nella ^Mon.~, III, 6.  Il Poeta al Maestro (^Inf.~,
+XI, 67):
+
+     assai chiaro ^procede~
+     La tua ragione.
+
+	|19-24.~  Notati dall'Alfieri.  |Lo maggior don~ ecc.; il
+massimo dei doni @e il libero arbitrio, donde il merito o il
+demerito delle umane azioni (cf. ^Purg.~, XVI, 71 e XVIII, 49-75,
+nel commento).  Nella ^Mon.~, I, 14: ^Sciendum, quod principium
+primum nostrae libertatis~ (-- ^libert@a innata, l@a onde si piglia
+cagion di meritare in noi~: ^Purg.~, XVIII, 64 --), ^est libertas
+arbitrii~...  ^Haec libertas, sive principium hoc totius nostrae
+libertatis, est maximum donum humanae naturae a Deo collatum;
+quia per ipsum hic felicitamur, ut homines; per ipsum alibi
+felicitamur, ut dii~ (cf. ^Conv.~, IV, 26; ^Par.~, VII, 67-74). 
+-- |Per sua larghezza~; cf. ^Purg.~, XXX, 112; ^Par.~, VII, 91. 
+-- |Creando~: creando l'uomo.  -- |Conformato~; rispondente,
+conforme; il Tommaseo: <Dice che questo @e il dono pi@u conforme
+alla divina bont@a, perch@e veramente il poter peccare @e insieme la
+facolt@a di ben meritare, la possibilit@a del dolore e la
+possibilit@a della gioia.  E la Somma: ^L'uomo immagine di Dio @e
+principio delle opere proprie, avendo il libero arbitrio e la
+potest@a d'esse opere.  La volont@a non si muove al bene, se non in
+quanto esso @e appreso dall'intelletto.  L'atto della volont@a che
+immediatamente da essa viene, @e il volere.  Un'altra specie
+d'atto della volont@a @e quello da lei comandato ad altra potenza,
+come camminare o simili.  Il libero arbitrio pu@o ugualmente
+eleggere il bene o il male, quanto alla natura sua; ma poi ha
+ragioni per le quali si piega a questa parte o a quella.  Il
+peccato non ha ragione di colpa se non in quant'@e volontario; ch@e
+a nessuno imputasi a colpa alcun atto inordinato, se non quanto
+il farlo @e in sua potest@a.  L'uomo, peccando, ha perdiito il
+libero arbitrio, non quanto alla libert@a che riguarda il non
+essere sforzato, ma quanto alla libert@a che @e scemata dalla colpa
+e dalla miseria.~>  -- |Pi@u apprezza~; perch@e, nota il Tommaseo,
+la libert@a fa l'uomo simile a Dio.  -- |Di che~ ecc.; della quale
+libert@a della volont@a o libero arbitrio furon dotate e dotate
+sono tuttavia le sole creature intelligenti, cio@e gli Angeli e
+gli uomini (cio@e ^le creature che hanno intelletto ed amore~:
+^Par.~, I, 120).  -- |Furo e son~; il Lombardi, seguito dal
+Bianchi e da altri, intende che <|furo~ risguarda le gi@a create,
+e |son~ risguarda le anime degli uomini, che si creano da Dio di
+mano in mano che si hanno ad infondere ne' corpi;> ma troppo
+meglio lo Scartazzini opina, che con que' due tempi <il Poeta
+intende insegnarci che il libero arbitrio non and@o perduto per lo
+peccato;> e perci@o le anime umane, non ostante il peccato
+originale, son dotate tuttavia di questo dono eccellentissimo.  E
+un punto luminoso di dottrina cattolica contro Lutero.  Cf.
+^Summ. Theol.~, I, 83, 3.  E ivi, 59, 3: ^Liberum arbitrium est
+in Angelis etiam excellentius, quam in hominibus, sicut et
+intellectus.~  Cf. ^Vulg. El.~, I, 2.  Il Lana: <Nota che anche
+gli Angeli ebbono questo dono.>  E l'Angelico (^Summ. contra
+Gent.~, II, 47) tratta la proposizione: ^quod Substantiae
+intellectuales sint volentes.~
+
+	|25-30.  Ti parr@a~; ti si far@a palese.  -- |Quinci~;
+dall'essere il libero arbitrio il maggior dono da Dio conferito
+all'uomo, e dal fatto che l'uomo col voto lo obbliga a Dio.  --
+|Argomenti~; cf. ^Par.~, IV, 19 e 49.  -- |S'@e siffatto~ ecc.; se
+il voto @e di cosa tale, che Dio acconsenta di accettarla quando
+tu glien fai dono (cf. v. 33, nel commento).  Il Lana: <|S'@e
+siffatto~, cio@e vertudioso, il quale Dio accetta quando si fae.>
+L'idea, in germe, @e pure in questi versi (^Par.~, III, 101-102):
+
+     quello Sposo, ch'ogni voto accetta,
+     Che caritate a suo piacer conforma.
+
+Onde l'Aquinate (^Summ. Theol.~, II, II, 88, 12): ^Votum est
+promissio Deo facta de aliquo, quod sit Deo acceptum~ (cf. v. 33,
+nel commento).  -- |Voto~; l'Angelico (^Summ. Theol.~, II, II,
+88, 1, e sar@a bene leggere tutti i dodici ^articoli~ di tale
+^questione~) definisce: ^Votum est conceptio boni propositi cum
+animi deliberatione formata, qua quis ad aliquid faciendum, vel
+non faciendum se Deo obligat~; e soggiunge: ^ipsum nomen voti
+videtur a voluntate assumptum; dicitur enim aliquis proprio voto
+facere, quae voluntarie facit.~  -- |Fermar~... |il patto~;
+altrove ^fermare un punto~ (^Purg.~, VI, 40), per affermare,
+stabilire, mettere in sodo un'opinione, una teoria; qui
+stabilire, formare un patto; come diciamo stabilire una legge, e
+cos@i ^rompere~ o ^non tenere~ i patti (^Inf.~, XXI, 93), come
+^rompere le leggi~ (^Purg.~, I, 46; cf. ivi, 76, e XXX, 142).  --
+|Vittima~ ecc.; quando l'uomo fa un voto, fa a Dio sacrificio
+della propria volont@a, che @e la cosa pi@u eccellente ch'egli
+abbia; e questo atto lo compie colla stessa sua libera volont@a. 
+-- |Tesoro~; cio@e |lo voto~, chiosa il Lana; non bene; bens@i
+vittima della propria libert@a, facendone sacrificio ed olocausto
+a Dio.  -- |Tal~ ecc.; tanto prezioso, come dissi.  L'Angelico
+(^Summ. Theol.~, II, II, 88, 1): ^ad votum tria ex necessitate
+requiruntur.~  Primo ^quidem deliberatio~; secundo ^propositum
+voluntatis~; tertio ^promissio, in qua perficitur ratio voti.~
+
+	|31-33.~  L'Alfieri not@o il primo.  |Render~; cf. v. 14. 
+-- |Per ristoro~ (cf. ^Purg.~, XIV, 34); in compenso, in ricambio
+(cf. v. 48, nel commento).  -- |Se credi bene usar~ ecc.; il
+Lombardi: <Se pretendi di poter adoperare come tua, ed impiegare
+in altro bene quella libert@a, della quale con l'offerta fatta a
+Dio te ne sei privato, egli @e questo un pretendere di far |buon
+lavoro~, buona opera, di cosa mal tolta, di far meritevole
+limosina con roba rubata, di fondare spedali, dice a proposito il
+Venturi, da starci bene quell'iscrizione:
+
+     Fond@o questo spedal persona pia;
+     Ma i poveri da starci fece pria.>
+
+-- |Mal tolletto~; il Casini: <^Maltolletto~ o ^maltolto~ (lat.
+ined. ^maltollettum~) si disse nel medioevo il frutto della
+^tollette~, cio@e delle rapine, delle estorsioni, delle truffe
+(cf. ^Inf.~, XI, 36), e per@o Dante us@o assai a proposito questa
+voce, nella quale s'include una specie di comparazione: fra
+coloro che credono ottenere il perdono da Dio impiegando in opere
+di carit@a quello che hanno rapito o truffato agli altri.>  --
+|Buon lavoro~; il Tommaseo: <Chi d@a a matrimonio la castit@a
+servata a Dio @e, dice Dante, ladro che spende in opere pie la
+cosa rubata.  Nel Convivio grida contro ai rubatori che offrono a
+Dio della preda.>  Nella ^Mon.~, II, 6: ^Licet fur de furto
+subveniat pauperi, non tamen eleemosyna dicendum est; sed est
+actio quaedam, quae si de propria substantia fieret, eleemosynae
+formam haberet.~  Nel ^Conv.~, IV, 27: <Ahi malestrui e malnati!
+che disertate vedove e pupilli, che rapite alli meno possenti,
+che furate e occupate l'altrui; e di quello corredate conviti,
+donate cavalli e arme, robe e denari; portate le mirabili
+vestimenta; edificate li mirabili edificii e credetevi
+^larghezza~ fare!  E che @e questo a fare altro che levare il
+drappo d'in su l'altare, e coprirne il ladro e la sua mensa?> 
+Sant'Ambrogio (^ex lib., VIII, in Luc.~), parlando di Zacheo:
+<Dives certe Zachaeus, et electus a Christo, sed dimidium bonorum
+suorum pauperibus largiendo, reddendo etiam in quadruplum, quae
+fraude sustulerat (alterum enim non sat est, nec habet gratiam
+liberalitatis, si iniura perseverat, quia ^non spolia, sed dona
+quaeruntur~) ecc.>  E nella ^Mon.~, III, 12: <Dominus vult
+oblationes esse immaculatus...  Stultum enim est credere Deum
+velle recipi, quod prohibet exhiberi;> il che rafferma, in
+sostanza, il v. 27.
+
+	|34-39.  Maggior punto~; la quistione capitale (cf.
+^Purg.~, VI, 40; XXV, 62), il punto pi@u rilevante, cio@e che il
+voto per s@e stesso non pu@o venir compensato con altre buone
+opere, che non vi @e ^ristoro~, ossia che il voto non si cancella
+(v. 46).  -- |Dispensa~; esonera dall'osservanza d'un dato voto;
+sulla ^dispensazione~, della quale in questi versi, e sulla
+^commutazione~, di cui parla nei seguenti, cos@i l'Angelico
+(^Summ. Theol.~, II, II, 88, 10, in resp.): ^Dispensatio, voti
+intelligenda est ad modum dispensationis, quae fit in observantia
+alicuius legis; quia lex ponitur respiciendo ad id, quod est ut
+in pluribus bonum.  Sed quia contingit huiusmodi in aliquo casu
+non esse bonum, oportuit per aliquem determinari, in illo
+particulari casu legem non esse servandam.  Et hoc proprie est
+dispensare in lege~...  ^Similiter autem ille qui vovet,
+quodammodo sibi statuit legem, obligans se ad aliquid, quod est
+secundum se, et ut in pluribus bonum.  Potest tamen contingere,
+quod in aliquo casu sit vel simpliciter malum, vel inutile, vel
+majoris boni impeditivum; quod est contra rationem eius, quod
+cadit sub voto.  Et ideo necesse est, quod determinetur in tali
+casu votum non esse servandum.  Et si quidem absolute
+determinetur aliquod votum non esse servandum, dicitur esse~
+dispensatio voti; ^si autem pro hoc quod servandum erat, aliquid
+imponatur, dicitur~ commutatio voti.  ^Unde minus est votum
+commutare, quam in voto dispensare.  Utrumque tamen in potestate
+Ecclesiae consistit.~  -- |Par contra~ ecc.; pare contrario a ci@o
+ch'io ti dissi, che il voto cio@e non si pu@o commutare, che @e
+ancor meno del dispensare nel voto.  -- |Sedere~ ecc.; stare ad
+ascoltare; il Poeta consiglia il proprio lettore, uditi da lui
+certi accenni, a ^rimanersi sovra~ il suo ^banco~, a continuare
+di per s@e la proficua meditazione di quell'alto soggetto per
+avvivar la mente e scoldarsene il cuore.  E l'immagine del
+|sedere a mensa~, per far acquisto di verit@a, che @e cibo
+dell'anima (^Purg.~, XXXI, 128), la sentimmo anche nel ^Convito~
+(I, 1), altrove citato (cf. ^Par.~, II, 12, nel commento). 
+Quindi fame l'amor della scienza o d'una verit@a (^Par.~, XIX,
+26); e |mensa~ la fruizione di Dio, onde in eterno si giocondano
+i Beati (^Par.~, XXIV, 5); e di qui ^il saziare~ (^Par.~, III,
+11): cf. ^Par.~, XVII, 131-132.  Il Lombardi: <Accenna il costume
+delle ben regolate mense, che dopo i cibi rigidi, duri a
+digerirsi, apprestinsi altri cibi o liquori che giovino alla
+digestione di quelli; e siccome nella guisa che un voto per
+l'altro si smaltisce, cos@i l'una per l'altra dottrina si
+rischiara; per@o fa Dante che Beatrice, in luogo di dire ^Convien
+che altro parlare ti rischiari il fin qui detto~; traslativamente
+dica: |Convienti ancor sedere.~>  -- |A tua dispensa~; alla tua
+digestione; a farti andare in succo e in sangue (cio@e a render
+chiara e perci@o proficua al tuo intelletto la dottrina, che ti
+diedi) il cibo che prendesti.  La digestina non @e, osserva il
+Lombardi, se non una separazione e dispensa delle varie parti del
+cibo a vari condotti che dal ventricolo si partono, e diramano
+per varie parti del corpo.
+
+	|40-42.~  Notati dall'Alfieri.  |Apri~ ecc.; sta bene
+attento; altrove altro maestro disse al Poeta (^Purg.~, XXV, 67;
+cf. ivi, nel commento):
+
+     Apri alla verit@a, che viene, il petto;
+
+e ^aprir il cuore all'acque della pace~ (^Purg.~, XV, 131).  --
+|Fermalvi entro~; ve lo ferma ben bene, fa di fissarvelo (cf.
+^Par.~, I, 11).  Per questo Currado Malaspina sentimmo parlare di
+^chiavare in mezzo della testa~ una cosa con ^chiovi~ ecc.
+(^Purg.~, VIII, 137).  -- |Non fa scienza~ ecc.; Pietro qui cita
+Seneca: ^Melius est si pauca sapientiae praecepta teneas et illa
+in promptu sint, quam si multa disceres, et non habeas ad manum.~ 
+E poi Cassiodoro: ^Esto conceptaculum, quod audita retineas, quod
+suscepta non fundas; quia nihil proderit, si auribus tuis
+transitura placeant, et in cordis finibus se omnia non defigant.~
+
+	|43-45.  Sacrificio~; della propria volont@a; altrove
+^fare~ olocausto (^Par.~, XIV, 89).  -- |Di che si fa~; la
+materia del voto.  -- |La convenenza~; il patto che si fa con
+Dio; dunque, materia e forma.
+
+	|46-51.  Quest'ultima~ (la convenienza) |non si cancella~
+ecc.; cio@e nessuno pu@o dispensare dal debito di mantenere a Dio
+la data fede; bens@i la materia si pu@o mutare.  ^Ipsa dicta
+conventio~, chiosa Pietro, ^nunquam mutatur, et super ea non
+dispensatur; super re vota sic.~  -- |Di sopra~ ecc. (cf. vv.
+31-33); ci@o che fu detto di sopra, che il voto non ha ristoro,
+s'intende quanto al debito di servar la promessa, ovvero la
+^convenenza~ {v.45}.  -- |Per@o~; per la detta ragione, che la
+^convenenza~ del voto |non si scancella.~  -- |Necessitato fu~
+ecc.; locuzione barbarica la dice, non si sa perch@e, un
+chiosatore moderno, bench@e sia costretto ad ammettere che @e
+accettata dai pi@u; qualche codice ha ^necessit@a.~  Il senso @e:
+Quantunque agli Ebrei, come devi sapere (dalla S. Scrittura) si
+commutasse una in altra offerta, fu tenuto l'offerire, fu reso
+loro necessario.  Il Bianchi: <|Necessitato~ @e un participio
+sostantivato; seppure fu |necessitato~ non piacesse spiegarlo: fu
+fatta necessit@a, fu comandato assolutamente.>  Il Venturi: ^Fu
+ingiunto agli Ebrei per necessit@a indispenisabile l'obbligo
+d'offerire, ancorch@e in vece di una cosa potessero offerirne
+un'altra; per esempio, due tortore, o due colombe, in vece di un
+agnello, come faceva la povera gente.~  Per@o sottilmente risponde
+il Lombardi; <Io dubito molto se mirasse qui Dante alle offerte
+che comand@o Dio nel Levitico (Capo XII) alle partorienti Ebree, e
+non piuttosto alle altre offerte che per ispontaneo voto
+promettevano gli Ebrei stessi a Dio; dalle quali nel medesimo
+Levitico (Capo ultimo) abbiamo, che in alcuni capi non v'era
+luogo a permuta; e che in altri capi, ove la permuta avea luogo,
+conveniva che la cosa sostituita eccedesse in valore la promessa
+di una quinta parte.>  -- |Saper dei~; e Dante sel sapeva
+davvero; ^cf. Mon.~, III, 12.
+
+	|52-54.  L'altra~, delle due cose (v. 43), cio@e la
+materia del voto (^di che si fa~, v. 45).  -- |T'@e aperta~; t'@e
+fatta conoscere (cf. ^Par.~, XIX, 67); nel ^Conv.~, I, 12:
+<Sentenza del Filosofo aperta nell'ottavo e nel nono dell'Etica.> 
+-- |Falla~; chi lo prende per congiuntivo di ^fallire~, o
+dell'antiquato ^fallere~; ma che ragione v'ha mai di ricorrere a
+congiuntivi e ad antiquati? se uno dicesse: ^Capisco; la cosa pu@o
+esser tale che non si sbaglia a credere che~ ecc., chi si
+sentirebbe il coraggio di dire che questo non @e un parlare
+italiano? eppure @e indicativo; lasciam dunque le sottigliezze. --
+|Si converta~; si muti, si cambi.  L'Angelico (^Summ. Theol.~,
+II, II, 82, 10), si chiede: ^utrum possit in voto dispensari~: e
+conchiude affermativamente; nell'artic. seg. discorre ^utrum in
+voto solemni continentiae possit fieri dispensatio~; e sta per il
+no; nell'artic. poi dodicesimo tratta la questione ^utrum ad
+commutationiem, vel dispensationem voti requiratur Praelati
+auctoritas~; e la conclusione del Teologo @e identica a quella che
+or ora vedremo del Poeta.
+
+	|55-57.~  L'Ottimo: <Mostrato che il voto non si pu@o
+dimettere, ma che la cosa di che si fa il voto si pu@o permutare;
+ora mostra che @e necessario a fare la permutazione.  E dice, che
+sono due cose: l'una @e l'autoritade del pastore che abbia a ci@o
+podestade, e per@o dice, ch'elli dee essere tale, che possa
+prosciogliere e legare; s@i che ogni pastore non ha questa bal$ia;
+e dice, che nessuno ordini per suo arbitrio permutarsi il voto;
+l'altra @e che la cosa, nella quale tu permuti la cosa votata, sia
+maggiore di quella, s@i che contenga in s@e quella, e la met@a di
+quella; siccome il numero del sei contiene il numero del quattro,
+e la met@a pi@u; o almeno sia maggiore di quella.>  -- |Carco~;
+ogni dovere, per quanto soave, @e un peso; anche Cristo disse:
+^jugum meum suave est, et onus meum leve.~  -- |Senza la volta~
+(la girata) ecc.; senza l'autorit@a, la permissione della Chiesa,
+che da nostro Signore ebbe le due chiavi in sua bal$ia (^Inf.~,
+XIX, 92; cf. ivi, XXVII, 104; ^Purg.~, IX, 117; ^Mon.~, III, 8). 
+Di queste due Chiavi l'Angelico (^Summ. Theol.~, Suppl., XVII, 3,
+in resp.), al quesito propostosi ^utrum sint duae claves, vel
+tantum una~, scrive: <In omni actu qui requirit idoneitatem ex
+parte recipientis, duo sunt necessaria ei qui debet actum illum
+exercere, scilicet judicium de idoneitare recipientis; et
+expletio actus.  Et ideo etiam in actu justitiae, per quam
+redditur alicui hoc quo dignus est, oportet esse judicium, quo
+discernatur, an iste sit dignus ad ipsam redditionem: et ad
+utrumque horum auctoritas quaedam, sive potestas exigitur; non
+enim dare possumus, nisi quod in potestate nostra habemus: nec
+judicium dici potest, nisi vim coactivam habeat; eo quod judicium
+ad unum jam determinatur: quae quidem determinatio in
+speculativis fit per virtutem primorum principiorum, quibus
+resisti non potest, et in rebus practicis per vim imperativam in
+judicante existentem.  Et quia actus clavis requirit idoneitatem
+in eo, in quem excercetur, quia recipit per clavem judex
+ecclesiasticus ^dignos, et excludit indignos~, ut ex dicta
+definitione patet, ideo indiget judicio discretionis, quo
+idoneitatem judicet ex ipso receptionis actu: et ad utrumque
+horum potestas quaedam, sive auctoritas requiritur.  Et secundum
+hoc distinguuntur duae claves; quarum una pertinet ad judicium de
+idoneitate eius, qui absolvendus est; et alia ad ipsam
+absolutionem.  Et hae duae claves non distinguuntur in essentia
+auctoritatis, quia utrumque ex officio sibi competit, sed ex
+comparatione ad actus, quorum unus alium praesupponit.>
+
+	|58-60.~  E ritieni vana, insufficiente ogni commutazione
+di voto, se la materia che si commuta non @e assai inferiore a
+quella che le si sostituisce; ovvero se la materia che si prenda
+poi, non @e assai maggiore di quella che si lascia.  -- |Stolta~;
+qui |stolta~ la permutazione; pi@u sotto, |stolta~ Agamennone per
+non aver permutato (v. 68).  -- |Dimessa~; vale, nota il
+Tommaseo, e ^omessa~ e ^condonata~, come ^dimitte debita.~ 
+^Inf.~, XXIX, 15: ^m'avresti~... ^lo star dimesso.~  --
+|Sorpresa~; presa poi, surrogata; cos@i ^sorvenire~ per ^venire
+poi.~  -- |Come il quattro~ ecc.; il Cesari: <Vagamente e
+propriamente detto, che la materia surrogata (|sorpresa~) dee
+avvantaggiar a pezza la permutata.>  Nel ^Levitico~, XXVII, 15
+(cf. nel v. 49 la nota del Lombardi): ^Sin autem illi qui
+voverat~ (domum), ^voluerit redimere eam, dabit quintam partem
+aestimationis supra, et habebit domum.~  Per@o credo che il Poeta
+non voglia colla sua espressione dir nulla di fisso e
+determinato, ma solo stabilire confronto tra quantit@a minore e
+maggiore.  Nel ^Conv.~, I, 8: <Acciocch@e sia laudabile il mutare
+della cosa, conviene sempre essere al migliore; perciocch@e deve
+essere maggiormente laudabile; e questo non pu@o fare, se per
+trasmutare non diviene pi@u caro.>  E l'Angelico (^Summ. Theol.~,
+II, II, 106, 1, in resp.): ^Secundum diversas causas, ex quibus
+aliquid debetur, necesse est diversificari debiti reddendi
+rationem; ita tamen quod semper in majori illud quod minus est
+contineatur.~  -- |Raccolta~; compresa, contenuta.  Il Tommaseo:
+<Alla legge da Dante posta del permutare il quattro col sei, il
+gesuita Venturi esclama: ^Dante rigorista~! e il Biagioli, gli
+risponde: ^Ah gattone~!  Il fatto si @e che ne' tempi di volere
+ferreo, e nel bene e nel male, e quando il Cristianesimo teneva
+tuttavia dello spirito mosaico, l'inviolabilit@a del voto dovea
+parere non solo religione, ma punto d'onore e quasi necessit@a
+naturale; e l'infrangerlo pure in parte, non solo empiet@a ma
+vilt@a.  Senonch@e consigliando ^siate Cristiani a muovervi pi@u
+gravi~ {v.73}, e' s'intende d'insegnare non solo costanza
+nell'osservare la fede data, ma ritegno eziandio nel non
+disavvedutamente obbligarla.>
+
+	|61-63.~  L'Alfieri not@o i due primi.  Quando una cosa
+offerta a Dio @e di sua natura tale, da non poter in valore
+trovarsene altra di maggiore, non pu@o essere commutata con
+alcun'altra.  Ma la verginit@a non pu@o aver nulla di pregio
+maggiore, dunque il voto di essa non pu@o essere n@e dispensato, n@e
+commutato.  Il Cesari: <V'ha certe cose di tanto pregio, che
+vince ogni ragguaglio: e, a modo di peso, fanno contro ogni
+contrapeso, traboccar la bilancia dalla lor parte; non trovandosi
+altro peso, che possa tenerle in bilico, queste cose non
+patiscono permutazione...  Exempligrazia il voto di castit@a:
+perch@e, come dice la Scrittura (^Eccl.~, XXVI, 20), ^Ominis
+ponderatio non est digna animae continentis~; e' ^par~ che Dante
+avesse l'occhio qui, e che quinci abbia preso la figura della
+bilancia...  Anzi prova ci@o medesimo S. Tommaso (-- ^Summ.
+Theol.~, II, II, 88, 11, ^in voto solemnizzato per professionem
+religionis non potest per Ecclesiam dispensari~ --) colla
+ragione, e colla autorit@a della Decretale, che nel detto voto, se
+egli @e solenne, n@e eziandio il Papa pu@o dispensare: conciossiach@e
+per esso l'uomo dedica e sagra a Dio s@e medesimo: e per@o, essendo
+fatto cosa di Dio, non pu@o permutarsi ad altro uso; ed allega
+quella legge del Levitico (XXVII, 9): ^Animal, quod immolari
+potest Domino si quis voverit, sanctum erit; et mutari non
+poterit, nec melius malo, nec peuis bono.~>  -- |Tragga~; faccia
+tracollare, chiosa il Tommaseo; e circa il ^pesare~ avverte che @e
+immagine biblica (^Daniel.~, V).  -- |Ogni bilancia~; pi@u sotto
+(^Par.~, XIII, 41-42), dice che Cristo colla sua Passione
+
+                       tanto soddisfece,
+     Che d'ogni colpa vince la bilancia.
+
+Qui |bilancia~; pi@u sopra udimmo ^stadera~ (e si leggano, e a
+queste si raffrontino quelle parole), ^Par.~, IV, 136-138.  --
+|Con altra spesa~; con altra materia in luogo di quella che fu
+promessa.
+
+	|64-66.  A ciancia~ (altrove ^pigliare a gabbo~: ^Inf.~,
+XXXII, 7; cf. ^Par.~, XXIII, 67-69).  -- |Fedeli~; esatti
+osservatori della fede data.  -- |Bieci~; ^occhio bieco~ diciamo
+di chi guarda torvo e sospettoso (^Inf.~, VI, 91); qui il Poeta
+inculca semplicit@a e sincerit@a d'opere e d'intenti, quant'a dire
+rettitudine, la quale non pu@o andare congiunta che a bont@a di
+animo e alla scienza necessaria di giudizio; altrove ^mirare~ un
+ordine di fatti
+
+     Con occhio chiaro e con affetto puro
+
+(^Par.~, VI, 87); |bieci~ avrebbe dunque il significato di
+^sconsiderati, leggieri~, che si lascian muovere da affetti non
+ben pesati (e tal senso @e confermato dal v. 73), e che perci@o
+veggono e giudicano stortamente le cose e stortamente le operano. 
+Degli ipocriti dice il Poeta che lo rimiraron ^con l'occhio
+bieco~ (^Inf.~, XXIII, 85).  ^Opere biece~ quelle d'un ladro
+(^Inf.~, XXV, 31); ^parole biece~ (^Par.~, VI, 136) quelle di
+certi cortigiani; e giova rammentare che dell'invidia, che @e loro
+signora, disse che ha ^gli occhi putti~ (^Inf.~, XIII, 65), come
+della sognata strega ci disse che gli apparve ^con gli occhi
+guerci~ (^Purg.~, XIX 8).  -- |Mancia~; regalo, dono, offerta
+(cf. ^Inf.~, XXXI, 4).  De' chiosatori alcuni spiegano |mancia~
+per ^figlia~; ma altri obbietta che Jefte di figlie non aveva che
+quest'unica (cf. ^Iudic.~, XI, 34: ^unigenita filia~), il che
+Dante non poteva ignorare; altri intendono la vittoria riportata;
+meglio coi moderni intendere offerta, sacrificio, forse
+riferendosi il Poeta alle parole del sacro testo (^Iudic.~, XI,
+31): ^Quicumque primus fuerit egressus de foribus domus meae~...
+^eum holocaustum offeram Domino.~  -- |Jefte~ andando contro agli
+Ammoniti promise a Dio che se n'avesse avuto vittoria avrebbegli
+fatto sacrificio di chi primo di sua casa gli fosse venuto
+incontro (si legga ^Indic.~, XI, 29 e segg.).  Sul fatto di Jefte
+scrive l'Angelico (^Summ. Theol.~, II, II, 88, 2, ad 2): <Quaedam
+sunt, quae in omnem eventum sunt bona, sicut opera virtutis; et
+talia bona possunt absolute cadere sub voto.  Quaedam vero in
+omnem eventum sunt mala, sicut ea quae secundum se sunt peccata:
+et haec nullo modo possunt sub voto cadere.  Quaedam vero sunt
+quidem in se considerata bona; et secundum hoc possunt cadere sub
+voto: possunt tamen habere malum eventum; in quo non sunt
+observanda.  Et sic accidit in voto Jephte; qui, ut dicitur
+Iudic: <^Votum vovit Domino, dicens: Si tradideris filios Ammon
+in manus meas quicumque primus egressus fuerit de foribus domus
+mae, mihique occurrerit revertenti in pace, eum offeram
+holocaustum Domino.~  Hoc autem poterat malum eventum habere, si
+occurreret ei aliquod animal non immolandum, sicut asinus vel
+homo: quod etiam accidit.  Unde et Hieron. dicit: ^In vovendo
+fuit stultus, quia discretionem non habiut, et in reddendo
+impius.~  Praemititur tamen ibidem, quod ^factus est super eum
+spiritus Domini~; quia fides, et devotio ipsius ex qua motus est
+ad vovendum, fuit a Spiritu sancto; propter quod ponitur in
+catalogo Sanctorum, et propter victoriam quam obtinuit, et quia
+probabile est eum paenituisse de facto iniquo, quod tamen aliquod
+bonum figurabat.>
+
+	|67-72.  Mal feci~, a fare tal voto.  -- |Peggio~; mala
+la promessa, peggio il mandarla ad effetto, uccidendo la
+figliuola (e Dante questo intende coll'Aquinata, loc. cit.:
+^filiam innocentem occidit propter votum~; ed @e posteriore
+opinione che non l'uccidesse, ma l'avesse obbligata a perpetua
+virginit@a).  Pietro cita le parole di sant'Isidoro (^in
+Decretis~): ^In malis promissis rescinde fidem, et in turpi voto
+muta decretum; et quod incaute vovisti, non facias.  Impia est
+promissio quae scelere adimpletur.~  Il Tommaseo (con citazioni,
+credo, errate, perch@e i luoghi citati non trovo) allega dalla
+^Summ. Theol.~: ^Se uomo promise quel che @e manifestamente
+illecito, promettendo ha errato; e, mutando proposito, ben fa~... 
+^Vovere est voluntatis; tenere autem est necessitatis.~  Il
+Tirino: ^Tertulliano, Ambrogio, Procopio, Tommaso reputano che
+qui Jefte pecc@o.~  -- |Cos@i stolto~ (cf. v. 58); al pari di
+Jefte.  -- |Duca~ ecc.; Agamennone, re di Argo e comandante
+supremo dei Greci contro Troia, trattenuto forzosamente in Aulide
+da venti sfavorevoli, fu dall'indovino Calcante avvertito (cf.
+^Inf.~, XX, 105-111), che il mare non si sarebbe calmato se prima
+non avesse sacrificato a Diana la figlia Ifigenia (cf. ^Aen.~,
+II, 116 e segg.; Lucrezio, ^Rer. Nat.~, I, 85 e segg.), gi@a da
+lui promessa in voto alla dea, sin da quando egli uccise in
+caccia una cerva sacra a quella divinit@a.  Sulla differente
+esposizione del racconto si vegga il Lombardi e Pietro.  Boezio
+(^Consol. Filos.~, IV, r. 7):
+
+     Cinque e cinqu'anni guerreggiando Atride
+     La moglie tolta a Menelao suo frate
+     Vendic@o, presa e disolata Troia.
+     Questi, per muover gi@a le greche armate,
+     Compra i venti col sangue in Aulide;
+     E padre vuol che la sua figlia muoia.
+
+-- |Li folli~ ecc.; il Bianchi: <Tanto gli ignoranti e i
+fanatici, come i giusti discernitori delle cose;> e altri altro;
+ma come per dir tutti, diciam frequente ^piccoli e grandi, ricchi
+e poveri~, o altro di simile, cos@i credo giusta la spiegazione
+del Buti, che intende cos@i, cio@e ogni fatta di persone.  --
+|Colto~; culto religioso (^Par.~, XXII, 45, ^empio culto~; e ivi
+pure alcuni testi leggono |colto~); forma primitiva, della quale
+abbiamo esempi ne' nostri antichi scrittori di prosa.  E |colto~
+per ^culto~, aggettivo, diciamo ancora.
+
+	|73-75.~  Notati dall'Alfieri.  |Pi@u gravi~ (^non bieci~,
+v. 65); pi@u considerati, pi@u cauti nel far voti, per non
+pentirvene poi.  -- |Vento~; l'Apostolo (^Ephes.~, IV, 14): ^Non
+simus parvuli fluctuantes, et circumferamur omni vento doctrinae
+in nequitia hominum.~  Nell'^Ecclesiastico~ (V, 11): ^Non
+ventiles te in omnem ventum, et non eas in omnem viam.~  -- |Non
+crediate~ ecc.; n@e crediate che qualunque offerta torni grata a
+Dio, valga a ottenervi perdono delle vostre colpe.  -- |Lavi~;
+cf. ^Inf.~, XXVII, 108; ^Purg.~, IX, 113; XXXI, 98.  Il Tommaseo:
+<Consigliando |siate~... ^a muovervi pi@u gravi~, e' s'intende
+d'insegnare non solo costanza nell'osservare la fede data, ma
+ritegno eziandio nel disavvedutamente obbligarla.>  E in altro
+luogo (nel transunto del Canto): <Nel voto religioso, del quale
+tante cose declam@o la fiacchezza moderna, pi@u vergognosamente
+denudando s@e stessa che i torti altrui, Dante vede un esercizio
+della libert@a, un vincolo ch'ella pone spontaneamente a se
+stessa, per essere, nelle cose essenziali alla grandezza dello
+spirito, e quindi agli stessi incrementi sociali, libera pi@u
+pienamente.  Quelle anime forti si vestivano di voti, come i
+corpi di ferro: e le une e le altre armi a reggere destramente e
+quasi con leggiadria, erano nate valenti.>
+
+	|76-78.  Vecchio~ ecc.; nella ^Mon.~, III, 13: ^Omnis
+divina Lex duorum Testamentorum gremio continetur.~  E ivi, 3:
+^Vetus et Novum Testamentum in aeternum mandatum est.~  -- |Il
+Pastor della Chiesa~ ecc.; qui sta il forte; non basterebbe avere
+la S. Scrittura, se non avessimo chi con autorit@a infallibile ce
+la interpreti.  S. Pietro (II, 1, 20-21): ^Omnis prophetia
+Scripturae propria interpretatione non fit.  Non enim voluntate
+humana allata est aliquando prophetia; sed Spiritu sancto
+inspirati locuti sunt sancti Dei homines.~  Cf. ^Par.~, XIX,
+82-84 (cf. ^Par.~, VI, 16-22).
+
+	|79-81.  Mala cupidigia~; fini non retti, scopi di
+materiale interesse; e l'intento, da parte del Poeta, sarebbe qui
+identico al biasimo che altrove infligge sulla non ben pensata
+scelta del proprio stato di vita, donde tanti malanni derivano,
+non ch'altro allo stesso civile consorzio (^Par.~, VIII,
+139-148).  Altri per@o intende qui un biasimo ai religiosi avari e
+cattivi, che allettavano i semplici a far voti a Dio di offerte
+materiali per godersele; ma dopo quanto abbiamo sentito che il
+Poeta venne discorrendo sui voti, ragionevolmente non parmi che
+il senso sia questo.  -- |Uomini~... |pecore~ ecc.; nel ^Conv.~,
+III, 7: <Veggiamo molti uomini tanto vili e di si bassa
+condizione, che quasi non pare essere altro che bestia; e cos@i @e
+da porre e da credere fermamente, che sia alcuno tanto nobile e
+di s@i alta condizione, che quasi non sia altro che Angelo.>  Per
+questo dice che la ^Natura in Aristotele messo avea ingegno quasi
+divino~ (ivi, IV, 6).  E ivi, I, II, di certi che operano senza
+discernimento e si lasciano trascinare dalle apparenze e dalla
+voce altrui: ^Questi sono da chiamare pecore, e non uomini~; che
+conviene col ^Pur.~, III, 82-84.  Onde di uomini savi e istrutti
+dichiara, che costoro ^gregum vestigia sectari non decet,
+quinimmo suis erroribus~ (della gente idiota) ^obviare tenentur~
+(^Epist.~, X, 2).  Cf. ^Inf.~, XXVI, 119, nel commento.  -- |Il
+Giudeo~ ecc.; s@i che i Giudei, che sono tra voi, vedendovi coi
+fatti far contro alla religione che professate, o questa far
+consistere in facili promesse, che poi non mantenute, non s'abbia
+a burlare di voi.  Nel ^Conv.~, IV, 28, per dimostrare che a
+farsi uomini veramente religiosi non @e sempre necessario farsi
+monaci o frati, cita S. Paolo (^Rom.~, II, 28-29): ^Non qui in
+manifesto, Iudaeus est~...; ^sed qui in abscondito, Iudaeus est.~ 
+E allo squallore in che era venuta la societ@a italica e cristiana
+pel trasporto della Sede pontificia di Roma in Avignone, scrive
+ai Cardinali (^Epist.~, VIII, 3): ^Impietatis fautores, Iudaei,
+Saraceni, et gentes sabbata nostra rident, et, ut fertur,
+conclamant~: Ubi est Deus eorum?  ^Et forsan suis insidiis ae
+potestati contra defensantes Angelos hoc adscribunt.~  E si vede
+che Dante (e non erano certo giunti a quel che possono ora nel
+mondo e sul mondo) questi discendenti di Giacobbe li giudicava
+capaci di qualche bel tiro contro la famiglia cristiana; perch@e
+in quel ^defensantes Angeli~ io intendo i Cardinali, e
+nell'espressione ^insidie e potest@a~ i mezzi di corruzione,
+l'oro, che Dante pensava avessero usato perch@e il Papa non
+tornasse in Roma, vedendo essi in ci@o il miglior modo di
+abbattere il Cristianesimo: pensiero doloroso, ma profondo e pur
+bello, e che caratterizza codesti Isacchetti, direbbe il
+Fusinato, sempre intenti con ogni mezzo ai nostri danni.
+
+	|82-84.~  Notati dall'Alfieri.  Il Venturi (^Similitud.~
+ecc., 410): <L'uomo che abbandona l'autorit@a della Chiesa e dei
+Libri sacri, @e come agnello che lascia il latte, e imbizzarrito
+qua e l@a saltellando, nuoce a s@e stesso.  Nota come bene al
+concetto risponda ogni parola della similitudine.>  -- |Lascivo~;
+nel senso del ^lascivus~ de' Lat., allegro, vivace, scherzoso; e
+richiama l'idea del non prendere il voto a ciancia (v. 64),
+lasciando il latte salubre della soda religione per seguire certe
+pratiche sconsiderate e di mera esteriorit@a, e assumerle con
+leggerezza, e con leggerezza poi maggiore capricciosamente
+abbandonarle.  Questa @e prudenza che @e degna di qualunque grande
+Dottore della Chiesa.  E questo luogo, almeno in parte, ha
+relazione con altro, chi vi pensi (^Par.~, XIII, 139-142).  -- |A
+suo piacer~, a capriccio suo; |combatte~, si trastulla, ^saltando
+e corneggiando~ dice il Buti.
+
+	|85-87.~  L'Alfieri not@o i due ultimi.  Nelle cose gravi
+e rilevanti suole sempre il Poeta mettere il discorso in bocca
+altrui, e farsene anche dare comando di narrar poi pubblicamente
+le cose udite o vedute (cf. ^Purg.~, XXXII, 103-105; XXXIII,
+52-54; ^Par.~, XVII, 127 e seg.; XXVII, 64, e altrove).  --
+|Cos@i, com'io~ ecc.; senza ch'io v'aggiunga o levi.  -- |A quella
+parte~ ecc.; lasciando l'opinione di quei chiosatori, che
+intendono (n@e se ne capisce il perch@e, quando non fosse pel falso
+supposto che Dante con Beatrice dalla vetta del Purgatorio
+salisse al cielo al levar del Sole, cf. ^Par.~, I, 43) la parte
+di levante, sto con quelli che intendano l'Equatore, dov'ora si
+trova il Sole, ovvero l'Empireo, ch'@e quel cielo che ^pi@u prende
+della luce~ di Dio (^Par.~, I, 4), perch@e ^pi@u ferve e pi@u
+s'avviva nell'abito di Dio e nei costumi~ (^Par.~, XXIII, 113;
+cf. II, 112); e tra queste due interpretazioni, come nota il
+Casini, non v'ha contraddizione; ond'@e che lo Scartazzini di
+queste due ne fa pur una, osservando che qui il Poeta stando per
+salire dalla Luna in Mercurio, fa che Beatrice tenga lo stesso
+modo che per ascendere dal Purgatorio nella Luna, cio@e guardando
+nel Sole (^Par.~, I, 47): ora, il Sole essendo sull'Equatore, per
+guardare in esso di necessit@a doveva guardare in alto verso
+l'Empireo, appunto (ed ecco nuovo argomento per dover ammettere
+che quel primo salire fu di mezzod@i) come fece per montare dalla
+terra nella Luna (cf. ^Par.~, I, 47; II, 22).  -- |Il mondo~;
+tutta la macchina celeste (alcuni Codd. ^modo~; il Daniello,
+^moto~).  -- |Disiante~; o perch@e il Sole @e immagine di Dio, o
+perch@e i desiderii de' Santi sempre son volti al Paradiso.
+
+	|88-90.~  D'uno in altro Cielo salendo Beatrice diviene
+sempre pi@u bella e luminosa (cf. vv. 1-3; ^Par.~, III, in
+^Nota~).  -- |Tacere~; perch@e fissa nella contemplazione.  --
+|Poser silenzio~; cf., ^Par.~, XV, 4.  -- |Cupido~; voglioso di
+nuovi ammaestramenti, di nuova scienza.
+
+	|91-93.~  Notati dall'Alfieri.  Il Venturi (^Similit.~
+ecc. 488): <Anche qui la celerit@a dell'ascensione @e espressa con
+la medesima similitudine della freccia (cf. ^Par.~, II, 22), ma
+con variet@a d'immagine.  La saetta ha gi@a colto nel segno, e la
+corda dell'arco tremola ancora.  Virgilio, delle Api: ^Ut nervo
+pulsante sagittae, Prima leves ineunt si quando praelia Parthi~
+(^Geor.~, IV, 313).>  Il Cesari: <Ama il nostro Poeta questa
+similitudine, che @e assai espressiva; ma in questo @e mirabile,
+che le d@a sempre nuovo atto e forma: qui @e bellissimo
+l'immaginare la rapidit@a del quadrello, che imberci@o gi@a nel
+segno, e la corda dell'arco tremola ancora.>  Cf. ^Par.~, II,
+23-24.  -- |Queta~; prima che sieno cessate le vibrazioni di
+essa: cf. ^Inf.~, VIII, 13 e segg.; XVIII, 123 e segg.  --
+|Secondo regno~ (cf. ^Par.~, VII, 3); il secondo cielo (v. 95),
+ch'@e quello di Mercurio (cf. ^Par.~, VI, 122), dove al Poeta
+appariscono le anime beate di coloro che in vita furono attivi
+per lasciare dietro a s@e fama onorata.
+
+	|94-99.~  Notati dall'Alfieri.  |Lieta~ (^beata e bella~,
+^Inf.~, II, 53); per essersi avvicinata un grado pi@u al fonte
+d'ogni gaudio, ch'@e Dio (^Vulg. El.~, I, 4).  -- |Stella~; il
+pianeta di Mercurio (cf. ^Par.~, II, 30).  -- |Si cambi@o~; si
+fece pi@u lucente.  -- |Rise~; come mostrasse giocondit@a.  Nel
+^Conv.~, III, 8: <Che @e ^ridere~, se non una corruscazione della
+dilettazione dell'anima, cio@e un lume apparente di fuori secondo
+che sta dentro?>  Cf. ^Par.~, IX, 70-72.  -- |Trasmutabile~ ecc.;
+se la bellezza e la letizia di Beatrice esercit@o la sua influenza
+per fin sul pianeta, che di sua natura, qual creatura immediata
+di Dio, non @e trasmutabile; che sar@a egli stato di me al vederla
+cos@i bella e luminosa, che di natura mia perch@e uomo, sono
+soggetto a tutto il variar delle sensazioni?  Nella ^Vulg. El.~,
+I, 9: ^Homo est instabilissimum atque variabilissimum animal.~
+
+	|100-105.~  Notati dall'Alfieri.  Il Cesari: <Egli @e ben
+vaghissima e ridente questa immagine, del muoversi nuotando per
+quel come lago di purissima luce, e quelle fiaccole a schiere a
+schiere verso i due venuti> (la stampa ha ^poeti~, che @e
+manifesto errore).  -- |Tranquilla~ ecc.; cf. ^Par.~, III.  --
+|Traggono~ (v. 104); ha implicita l'idea di fretta e calca (cf.
+^Purg.~, II, 72).  Il Venturi (^Similit.~ ecc.; 419): <Nota nella
+comparazione bellezza e propriet@a di consonanze.  I due epiteti
+|tranquilla~ e |pura~ rispondono alla quiete somma e alla
+serenit@a della sp$era celeste; e l'immagine dei pesci, che si
+volgono a ci@o che stimano cosa di lor pastura, concorda col
+desiderio che hanno quelle anime di pascersi di carit@a.  Di pi@u;
+come i pesci, i quali visti in fondo alla peschiera si
+distinguono appena, saliti al sommo si veggono chiaramente; cos@i
+quei beati via via si fanno pi@u risplendenti per la carit@a che
+gl'infiamma e che nell'avvicinarsi a Dante va crescendo.>  -- |A
+ci@o che vien di fuori~; qui abbiamo i pesci, che dal fondo
+vengono alla superficie del lago; altrove l'idea dalla superficie
+al fondo (cf. ^Purg.~, XXVI, 135).  -- |Ecco chi~ ecc.; di questo
+|chi~ i pi@u dei commentatori non ci dicono chi si debba
+intendere; Benvenuto intende s@i Beatrice che Dante; e il Cesari,
+ch'@e di pari avviso, cos@i scrive: <Veggendo quelle luci (o anime)
+due creature razionali, elle son tratte ad amarle, e far loro
+ogni bene; e l'amare @e la loro gioia e beatitudine; la quale @e
+loro cresciuta per la sopravvegnente materia del loro amore. 
+Questo concetto avea tocco Dante nel ^Purg.~, XV, 73:
+
+     E quanta gente pi@u lass@u s'intende,
+     Pi@u v'@e da bene amare, e pi@u vi s'ama.>
+
+Il Vellutello per@o, seguito dal Tommaseo, dallo Scartazzini e dal
+Casini, intende del solo Dante e chiosa: <Ecco Dante, il quale
+aumenter@a la virt@u della carit@a in noi, perch@e di quella, nel
+solvere i suoi dubbi, potremo usare.>  Lo Scartazzini corrobora
+siffatta opinione, osservando che, <per tacere che ovunque nelle
+regioni celesti i Beati si rallegrano di vedere Dante, risulta ad
+evidenza dai versi 115 e segg. del presente Canto che @e di lui
+che essi parlano: dal v. 118 e segg. risulta poi che la carit@a di
+cui questi spiriti sono accesi vuole manifestarsi nel ^chiarire~
+il Poeta.>  -- |Mille~ (moltitudine immensa; ^Conv.~, II, 15:
+<Questo |mille~ @e il maggior numero, e pi@u crescere non si pu@o se
+non questo moltiplicando>).  -- |Splendori~ (cf. ^Par.~, III,
+109; IX, 13), anime lucenti; che altrove pur dice ^fiamme~
+(^Par.~, XIV, 66), fuochi (ivi, XX, 34; XXII, 46; XXIV, 31, e
+altrove), ^lucerne~ (ivi, VIII, 19) ecc.; cf. ^Dizionario
+Dantesco~, alla voce Beati, {Paragraph.} I.
+
+	|106-108.  E s@i come~ ecc.; e di mano in mano che
+ciascuno di que' beati pi@u mi s'avvicinava, si discerneva l'anima
+piena di beatitudine, che si svelava nello splendore che da essa
+raggiava.  Il Ronchetti, allegato dallo Scartazzini: <Veda qui il
+lettore di spiegare nel senso che si vedesse la figura dell'ombra
+distinta dentro del fulgore che in segno della sua letizia essa
+emanava, e allora potr@a capire il successivo contrapposto: ^Per
+pi@u letizia s@i mi si nascose~ (v. 136).  E poi ben naturale che
+in segno di un minor grado di gloria cos@i queste anime come le
+gi@a viste del primo cerchio siano meno rischiarate delle altre,
+in cui la figura sar@a tutt'affatto celata dalla luce che le
+circonda; e si noti infatti come questa differenza sia da Dante
+avvertita anche con similitudine per gli spiriti del cielo
+seguente, che fin dal primo loro mostrarsi gli appariscono tutto
+celati nel lume: ^Quasi animal di sua seta fasciato~, VIII, 54.> 
+Cf. ^Par.~, III, 20, nel commento.
+
+	|109-114.~  L'Alfieri not@o |questi~ del v. 112 e i due
+seguenti.  Il Tommaseo, e con ragione, dice ^debole~ la prima
+terzina, certo badando alla frase e alla struttura; il Cesari
+invece, tenendo l'occhio pi@u alla novit@a del concetto, cos@i
+riassume e giudica delle due terzine <Vuol Dante far intendere al
+lettore la voglia, ch'egli aveva caldissima di sapere delle lor
+condizioni; e gliel fa indovinare da quella curiosit@a, che esso
+lettore proverebbe di sapere quello che egli lor disse, se Dante
+non fosse proceduto egli a contarlo.  Or questo @e bene un trovato
+nuovo e solenne: non mi ricorda aver mai letto nulla di simile in
+latino n@e greco poeta.>  -- |Carizia~; dal lat. ^carere~, cio@e
+carestia, penuria; ma gi@a, moralmente, la cosa ben si risolve in
+^desderio~, che ^desiderare~, in sostanza, ^@e mancare, difettare~
+d'una cosa.  Il Tommaseo: <^Purg.~, XII, v. 44: ^Di questo cibo
+avrete caro.~  All'idea di carestia congiungendosi quella di
+pregio e di desiderio, come nel latino, la voce @e propria comech@e
+suoni strano; Pitti: ^Aveva carestia di guastatori.~>  -- |Per
+te~; di per te, da te stesso (cf. ^Inf.~, XXXIV, 26).  --
+|Condizioni~; sorti (^Par.~, III, 41).
+
+	|115-120.~  L'Alfieri not@o i tre ultimi.  |Bene nato~;
+cf. ^Par.~, III 37.  -- |Troni~ (cf. ^Par.~, IX, 61); per dire
+ch'era da Dio graziato cos@i, da poter, vivo tuttavia, esser
+levato fino all'altissimo de' Cieli, adduce i Troni, che sono il
+terzo degli angelici giri della prima Gerarchia (cf. ^Par.~,
+XXVIII, 98-126).  -- |Grazia~; cf. ^Purg.~, VIII, 66; XIV, 11;
+^Par.~, X, 83.  -- |Prima che~ ecc.; prima d'aver deposto
+l'ingombro mortale, ancora in prima vita: cf. ^Purg.~, I, 58;
+VIII, 59; XIV, 2; ^Par.~, XXV, 55.  -- |Milizia~; alla milizia @e
+paragonata la vita presente (^Job.~, VII, 1); onde ^militante~ @e
+detta la Chiesa di quaggi@u (^Par.~, XXV, 52; ^Epist.~, VIII, 4). 
+-- |Del lume~ ecc.; del fuoco dell'eterna carit@a, che si diffonde
+per tutti i cieli.  -- |Per@o se~ ecc.; per questo che siamo
+ardenti della carit@a di Dio, la quale @e sempre pronta ad
+assecondare ogni giusta voglia ecc.; @e, in sentenza, quanto disse
+Piccarda (^Par.~, III, 43-45), @e dir@a Carlo Martello (^Par.~,
+VIII, 38-39), e poi Tommaso d'Aquino (^Par.~, X, 88-90.  -- |Da
+noi~; altri ^di noi~; la prima lez. ammette senso pi@u ampio, cio@e
+schiarimenti di cose anche oltre alle speciali ^condizioni~ di
+queste anime (v. 113); n@e per questo @e mestieri a |lume~ dare il
+significato di ^sapienza~, dacch@e la carit@a pur quella comprende;
+e come S. Tommaso d'Aquino, pel solo motivo della carit@a
+chiarisce il Poeta di molte cose, anche oltre alle speciali
+condizioni delle anime del cielo del Sole (^Par.~, X, 80 e
+segg.), e cos@i qui Giustiniano.  -- |A tuo piacer~ ecc.; chiedi
+pure quello che vuoi.  Nell'^Inf.~, XXII 62: ^Dimanda~... ^se pi@u
+disii saper.~  E un saggio di questa carit@a e prontezza di
+Paradiso in beneficio del prossimo il Poeta gi@a se l'ebbe da
+Matelda nel Paradiso Terrestre (^Purg.~, XXVIII, 82-84).
+
+	|121-123.  Credi~; cf. ^Par.~, III, 31 e segg.; IV,
+94-96.  -- |Dii~; nella ^Mon.~, I, 14, parlando del libero
+arbitrio, scrive: ^Per ipsum hic felicitamur, ut homines; per
+ipsum alibi felicitamum, ut dii.~  Nel ^Conv.~, IV, 20: ^Quelli
+che hanno questa grazia, cio@e questa divina cosa~ (cio@e la vera
+nobilt@a), ^sono quasi come Dei.~  Sant'Agostino (^Serm. 13 del
+tempore~): ^Factus est Deus homo, ut homo fieret Deus.~  E
+altrove (non rammento il luogo).  ^Si terram diligis, terra es;
+si Deum diligis, quid dicam?  Deus eris.~  San Girolamo (^lib. 3
+Comm. in Matth.~, cap. 16), chiosando le parole di Cristo
+(^Matth.~, XVI, 13 e 15) agli Apostoli (^quem dicunt homines esse
+Filium hominis~...  ^Vos autem quem me esse dicitis~), scrive:
+<Prudens lector, attende quod ex consequentibus textuque
+sermonis, Apostoli nequaquam homines, sed dii appellantur.  Cum
+enim dixisset: ^Quem dicunt homines esse Filium hominis~?
+subjecit: ^Vos autem quem me esse dicitis~? illis, quia homines
+sunt, humana opinantibus, vos qui estis dii, quem me esse
+existimatis?>  E l'Aquinate (nel ^Brev. Rom.~, nella festa del
+^Corpus Domini~): <Dei Filius, suae divinitatis volens nos esse
+participes, nostram naturam assumpsit, ut homines deos faceret
+factus homo.>  Dante altrove chiama ^Numi~ le anime beate
+(^Par.~, XIII, 31); e ^Diva~ il sentimmo dire Beatrice (^Par.~,
+IV, 118); e ^divus~ il suo Imperatore (^Epist.~, V, 2).  Boezio
+(^Consol. Fil.~, III, pr. 10): <Diventando gli uomini beati
+mediante l'acquisto della beatitudine, ed essendo la beatitudine
+essa Divinit@a, chiaro @e che gli uomini mediante l'acquisto della
+beatitudine divengono beati; ma, come chi acquista la giustizia
+diventa giusto, chi la sapienza saggio; cos@i chi acquista la
+divinit@a @e necessario per la medesima ragione che divenga Dio; di
+che seguita che ciascuno, il quale @e beato, sia Dio; e sebbene
+Dio per sua natura @e un solo, possono per@o essere per
+partecipazione moltissimi Dii.>
+
+	|124-129.~  L'Alfieri not@o i tre primi.  |Io veggio~
+ecc.; si pu@o dire che la lez. ^corruscan~ riferito a |occhi~, e
+|corrusca~, riferito a |lume~, gode di eguale autorit@a.  Il
+Casini: <Io vedo come tu sei circondato dal tuo proprio splendore
+e che lo effondi per gli occhi, poich@e essi corruscano,
+scintillano quando tu ridi.>  Questa chiosa, ch'@e pur di tanti
+altri, confesso ch'io non la capisco, e mi pare un gruppo di
+parole che non conchiudono niente.  Innanzi tutto la frase |dagli
+occhi il traggi~ vale ^effondere~ o ^trasfondere per gli occhi~,
+o non anzi ^ricevere mediante gli occhi~? il Giuliani con altri @e
+di questa opinione, onde del ^corruscan~ nel testo del Bianchi ei
+tagli@o via la ^n~ finale (e |corrusca~ si legge nell'ediz. da lui
+procurata), e il ^trasfondi~ del commento mut@o in ^ricevi~, e nel
+margine not@o: <|corrusca~ a misura della tua letizia 136:> e
+nella parte opposta: <quant'@e la tua letizia tanto si accresce lo
+splendore di che si ammantano> (dove si pare che non pi@u
+|corrusca~ ma ^corruscano~ leggesse).  Ad ogni modo, secondo il
+Giuliani ed altri, il Poeta qui non farebbe che ridire come la
+luce nelle anime sia in proporzione alla beata visione, e a
+questa sia proporzionata la beatitudine (cf. ^Par.~, XIV, 40-42;
+XXVIII, 106-113); e il senso viene bello e chiarissimo.  --
+|T'annidi~; ti rinserri, ti chiudi dentro (cf. vv. 136-138;
+^Par.~, XXI, 82); bellissima e chiarissma altrove la terzina, che
+a questa serve di schiarimento (^Par.~, VIII, 52-54); e cos@i, in
+parte, l'altra (^Par.~, XXVI, 97-99).  -- |Il grado~ ecc.; il
+grado di gloria (cf. ^Par.~, IV, 37-39, nel commento).  --
+|Spera~ ecc.; nel ^Con.~, II, 14: <Mercurio @e la pi@u piccola
+stella (-- cf. ^Par.~, VI, 112 --) del cielo; che la quantit@a del
+suo diametro non @e pi@u che di dugento trentadue miglia,
+secondoch@e pone Alfargano, che dice quello essere delle vent'otto
+parti l'una del diametro della terra, lo quale @e seimila
+cinquecento miglia.  L'altra propriet@a si @e, che pi@u va velata
+de' raggi del Sole, che null'altra stella.>  E pi@u si vela dei
+raggi del Sole, per essere ad esso pi@u vicino.  L'Antonelli:
+<Ecco determinato il cielo al quale @e asceso il Poeta.  @E il
+secondo, cio@e la spera di Mercurio, che gli antichi pure
+riconobbero la pi@u prossima a quella del Sole tanto che rimane
+velato dai raggi di questo e difficilmente pu@o scorgersi la
+stella.  Non ebbero per@o contezza n@e delle distanze n@e delle
+dimensioni di Mercurio, che oggi sappiamo essere le seguenti:
+Distanza media di Mercurio dal sole 31 milioni di miglia
+italiane.  Distanza minima di Mercurio dalla terra 49.  Distanza
+massima di Mercurio dalla terra 111.  Suo diametro 2600 miglia
+ital.  Il suo volume un po' meno d'un diciottesimo di quello
+della terra.  Compie il suo giro intorno al sole in giorni 88; ha
+un moto di rotazione sopra se stesso, poco meno celere di quel
+della terra, durando 9 minuti di pi@u; ed @e il pianeta pi@u denso
+che si conosca, racchiudendo sotto un egual volume maggiore
+quantit@a di materia.>
+
+	|130-132.  Diritto~; direttamente, rivolto.  -- |Lucente
+pi@u~ ecc., per la letizia di esercitare la sua carit@a verso Dante
+(cf. ^Par.~, III, 46-48, e altrove)
+
+	|133-139.~  Notati dall'Alfieri.  |S@i come~ ecc.; in
+quella guisa che il sole nasconde s@e stesso per la troppa luce,
+allorquando il calore de' suoi raggi ha disciolto, distrutto i
+vapori ecc.; nel ^Purg.~, XVII, 52-53:
+
+     Ma come al Sol, che nostra vista grava,
+     E per soverchio sua figura vela ecc.
+
+Il soverchio della luce (il soverchio visibile, ^Purg.~, XV, 15)
+toglie alla nostra vista gli oggetti (cf. ^Purg.~, II, 38-39;
+VIII, 35-36; IX, 82-84; ^Par.~, IV, 141; VIII, 53; XXV, 118 e
+segg.; XXVI, 9).  -- |Egli stessi~; cf. ^Inf.~, IX, 58.  -- |Ha
+rose~; da ^rodere~, consumate (quasi mangiate).  Il Cesari:
+<Quando la forza del calor suo ha strutti i vapori grassi, che
+temperavano agli sguardi altrui la sua luce.>  -- |Temperanze~
+ecc.; cf. ^Purg.~, XXX, 26.  Nel ^Conv.~, II, 16: <Caggiono (i
+dubbi) quasi come nebulette mattutine alla faccia del Sole.>  --
+|Chiusa chiusa~; del tutto nascosta dentro al suo cresciuto
+splendore.  Il Cesari: <Questo |chiusa chiusa~ quanto a lingua,
+vol ^tutta chiusa~; ed @e bellissima grazia di parlar l'una e
+l'altra.>  Il Tommaseo cita il Tasso (^Gerus. Lib.~, XII, 93):
+
+     Poi nel profondo de' suoi rai si chiuse
+
+(che arieggia all'altro di Dante, ^Par.~, IX, 22-23); e
+soggiunge: <Modestia nella gloria, verecondia nella gioia,
+impenetrabilit@a nel chiarore.>  -- |Canto canta~; cf. ^Inf.~,
+XIII, 25.  Il Tommaseo: <|Nel modo che il seguente Canto canta~,
+verso che precede alla storia dall'aquila trionfale, cos@i come ^E
+cominci@o questa santa orazione~ (^Par.~, XXXII, v. ult.) precede
+a ^Vergine Madre~..., par fatto apposta per dar uggia ai poeti
+retori e in manichini.>
+
+	Nota le terzine 1, 2, 4, 8, 9, 11, 20, 22; 24 alla 36;
+40, 44, 45, 46.

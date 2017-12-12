@@ -1,0 +1,428 @@
+	|1.  Quel sol~: Beatrice.  |che pria d'amor mi scald@o 'l
+petto~: Dante's love for Beatrice began when he was nine years
+old.  See ^Vita nuova~ II, 2, where Dante speaks of this.
+
+	|2-3.  di bella verit@a~... |aspetto~: In normal prose
+form and order this would read "mi aveva scoperto il dolce
+aspetto di bella verit@a," i.e., the whole truth regarding the
+spots of the moon.  |riprovando~: "Refuting."  The reader will
+recall how Beatrice began her argument by refutation (^Par.~ II,
+61-105).
+
+	|4.  corretto e certo~: Corrected by the refutation and
+made certain by the truth, as expounded by Beatrice.
+
+	|6.  proferer~ = ^proferire~, "to speak."  |erto~ =
+^eretto.~
+
+	|7.  visione~: "Vision" only in the sense of "that which
+becomes visible."  Dante uses the word in this sense elsewhere in
+the poem.
+
+	|8.  per vedersi~ = "through sight of it."
+
+	|9.  non mi sovvenne~: The impersonal use in the third
+person of the verb ^sovvenire.~  Cf. ^Purg.~ XVI, 147.
+
+	|10.  vetri~: "Panes" of glass.
+
+	|12.  persi~: This could be either the past participle of
+^perdere~, meaning "lost," or the adjective ^perso~, meaning
+"dark" (cf. ^Inf.~ V, 89).  Either meaning might serve here, but
+since the poet goes on to speak of reflections, the sense of the
+past participle seems preferable.  The bottom can be seen, and
+the water reflects better for that reason.
+
+	|13.  tornan~: "Are reflected."  To Dante the faces seem
+to be reflected.  |postille~: Literally, "notes" such as might
+be found on a manuscript page surrounding the main text; here,
+metaphorically, "outlines," "lineaments," "contours" of the face.
+
+	|14-15.  debili s@i~... |pupille~: These faces are as
+faint to Dante's sight as is a pearl on a white forehead.  The
+reference is to a feminine fashion of Dante's day and later,
+which may be seen depicted in various portraits.  Hence the image
+arises from something familiar to the reader of the time.
+
+	|17-18.  per ch'io~... |fonte~: Narcissus took his
+reflection in the fountain to be a real person, whereas Dante
+takes these real beings to be reflections, as the first part of
+the simile suggests and as is stated in vs. 20.  See n. to
+^Inf.~ XXX, 128.
+
+	|21.  per veder di cui fosser, li occhi torsi~: Dante
+turns around to see the real faces which he assumes must be
+behind him.  |di cui~ = ^di chi.~
+
+	|22.  ritorsili~ = ^li ritorsi.~
+
+	|26.  appresso~: "Following."  |coto~: "Thought."  It is
+|puerile~ because completely mistaken.  For another instance of
+|coto~ in this sense, see ^Inf.~ XXI, 77.
+
+	|27.  poi~ = ^poich$e.~  |'l vero~: These supernatural
+realities.  |ancor lo pi@e non fida~: The thought does not yet
+trust its foot thereon.
+
+	|28.  ma te rivolve, come suole, a v@oto~: The subject is
+^coto~ {v.26}, which is said to turn him in error.  Beatrice's
+chiding, begun at the summit of the mountain of Purgatory,
+continues in the phrase |come suole~ ("as it is wont") and bears
+a reference to Dante's mistaken thought concerning the moon's
+spots.  Concerning the rhyming of |v@oto~ here with ^voto~
+(pronounced ^v$oto~) in vs. 30, see a similar case in ^Inf.~ XII,
+75.  |v@oto~ = ^vuoto~, "emptiness," "vanity."
+
+	|29.  vere sustanze~: "Real souls," not reflected images. 
+A "substance" is any being or thing possessing independent
+existence.  See Dante, ^Vita nuova~ XV, 1-2.  The human soul is
+a substance, of course, by this definition.
+
+	|30.  qui rilegate~: The term "relegated" is ambiguous,
+for it can suggest that these souls have their constant abode
+here in this sphere.  This question is discussed in the next
+canto (^Par.~ IV, 28-63), where we learn that the souls abide in
+the Empyrean and simply appear (mysteriously) in the different
+spheres as Dante rises from one to another.  "Dante leaves us in
+doubt whether, in the literal sense of his narrative, the souls
+actually leave their seats in the Empyrean and come to meet him,
+or merely project their images into the several spheres.  In the
+8th heaven all the elect are seen by him, even those who have
+previously appeared below.  The idea that the blessed can change
+their places, without losing sight of God and thus interrupting
+their beatitude, is in no wise contrary to Christian doctrine. 
+St. Thomas tells us as much in his ^Summa Theologiae~, Tertia,
+Suppl., Qu. lxix, Art. 3, and Qu. lxxxiv, Art. 1 and 2; also in
+^De Veritate Catholicae Fidei contra Gentiles~, IV, lxxxvi, where
+he discusses the active life of the spirits in Heaven.  For their
+existence does not wholly consist of passive receptivity; they
+have the power of locomotion, they take interest in one another
+and (without diminution of their everlasting joy) in the world
+beneath" (Gr).  |per manco di voto~: The inconstant moon is the
+appropriate sphere in which those who were inconstant in life
+manifest themselves to Dante.  Though we actually hear only of
+and from inconstant nuns, we may suppose, as Grandgent observes,
+"that all weak and inconstant persons who win salvation at all
+are to be connected with this sphere, the nuns being chosen as
+extreme examples."
+
+	|31.  Per@o~ = ^perci@o.~
+
+	|32.  la verace luce~: God's light, which is the truth.
+
+	|33.  da s$e~: From Itself, the truth.  |torcer li piedi~:
+Again "feet" are used to express movements of the soul.  Cf. vs.
+27.
+
+	|35.  drizza'mi~ = ^mi dirizzai.~
+
+	|36.  cui~ = ^che~ (direct object).  |smaga~: "Bewilders." 
+Cf. ^Inf.~ XXV, 146; ^Purg.~ X, 106.
+
+	|40.  grazioso~ = ^gradito.~
+
+	|41.  del nome tuo e de la vostra sorte~: The reader will
+do well to note the shift here to the plural |vostra.~  The
+plural "your" includes ^all~ the spirits who have presented
+themselves in the sphere of the moon.
+
+	|43.  non serra porte~: Literally, "does not close its
+doors," i.e., does not deny satisfaction (to any rightful
+desire).
+
+	|44.  se non come quella~: "Any more than that" (God's
+love).
+
+	|45.  tutta sua corte~: All the blessed in Heaven.
+
+	|46.  vergine sorella~: A nun.
+
+	|47.  e se la mente tua ben s$e riguarda~: "If your memory
+examines itself well."
+
+	|48.  non mi ti celer@a l'esser pi@u bella~: |L'esser pi@u
+bella~ is the subject of the verb.
+
+	|49.  Piccarda~: Piccarda was the daughter of Simone
+Donati and the sister of Corso and Forese and was related by
+marriage to Dante through his wife, Gemma, daughter of Manetto
+Donati.  According to the early commentators, she entered a
+convent but was forced thence by her brother Corso so that he
+might marry her to a Florentine named Rossellino della Tosa. 
+(See n. to ^Purg.~ XXIV, 10.)  She is spoken of in ^Purg.~
+XXIV, 10-15, in connection with Dante's encounter with Forese,
+where it is said that she already enjoys her crown "on high
+Olympus."
+
+	|50.  posta~: "Placed."  The ambiguity which was first
+evident in ^rilegate~ in vs. 30, continues here.
+
+	|51.  la spera pi@u tarda~: "The sphere of the moon, being
+nearest to the center, turns slowest in the diurnal revolution of
+the heavens.  This comparative sluggishness of motion symbolizes
+a relatively low degree of love and of beatitude" (Gr).  This
+means that the spirits here "placed" are lowest in the heavenly
+hierarchy, which explains what is said in vs. 55.
+
+	|53.  piacer~: "Will."  The Holy Ghost is eternal Love.
+
+	|54.  letizian del suo ordine formati~: They "rejoice in
+whatever grade of bliss is assigned to them in that order of the
+universe which is the form that makes it like unto God" (Norton).
+
+	|55.  par gi@u cotanto~: "Appears so lowly."
+
+	|56.  per@o~ = ^per ci@o.~  |n'@e~ = ^ci @e.~
+
+	|57.  v@oti~ = ^vuoti.~
+
+	|59.  risplende non so che divino~: In the faces of these
+souls there now shines a wondrous supernatural light.
+
+	|60.  che vi trasmuta da' primi concetti~: Which changes
+your appearance as it was on earth and as it is remembered
+(|primi concetti~) by those who saw and knew you there.  "Compare
+Dante's words to Ciacco, ^Hell~, Canto VI, 43-45.  In Hell
+anguish, in Paradise joy transfigures the spirits and makes
+recognition of them difficult" (Norton).
+
+	|61.  festino~: From the Latin ^festinus~, "quick."
+
+	|63.  latino~: "Easy."  This is a use of the noun as
+adjective or adverb which is common in early Italian.  Cf.
+"latinamente" as used in ^Conv.~ II, iii, 1.
+
+	|64.  voi~: The reader should note that Dante continues
+to speak in the plural, i.e., of all the souls "relegated" to
+this sphere.
+
+	|66.  per pi@u vedere e per pi@u farvi amici~: "'In order
+to see more and make yourselves more intimate' with God.  The
+souls that are spiritually nearest to God are endowed with the
+keenest intellectual vision; they therefore see God clearest and
+love him most" (Gr).
+
+	|67.  Con quelle altr'ombre pria sorrise un poco~:
+Piccarda and the other souls smile at Dante's naive question.
+
+	|68.  da indi~: "Then."  From the Latin ^deinde.~
+
+	|69.  ch'arder parea d'amor nel primo foco~: Piccarda
+seems to glow with the love of the Holy Ghost, "first" love in
+this sense (see ^Inf.~ III, 6).
+
+	|70.  Frate~: On the use of this form of address, which
+in the poem often introduces a statement correcting some
+misconceived opinion of the person spoken to, cf. ^Purg.~ XXVI,
+115, and ^passim.~
+
+	|70-71.  la nostra volont@a~... |carit@a~: |Volont@a~, in
+this construction, is the object of the verb |quieta.~  Cf.
+^Conv.~ III, xv, 10, where Dante states: "E questa @e la ragione
+per che li Santi non hanno tra loro invidia, per@o che ciascuno
+aggiugne lo fine del suo desiderio, lo quale desiderio @e con la
+bont@a de la natura misurato."  ("And this is why the saints envy
+not one another, because each one attains the goal of his
+longing, which longing is commensurate with the nature of his
+excellence.")  |virt@u di carit@a~: The "power of love" for God. 
+|fa volerne~: "Makes us wish."
+
+	|74.  foran~ = ^sarebbero.~
+
+	|75.  qui ne cerne~: "Assigns us to this place" (this
+lowest order of beatitude).
+
+	|76.  non capere~: "Have no place," "would not be
+fitting."  |capere~: Pronounced |cap$ere.~  |in questi giri~:
+Piccarda now extends her statement to include all the spheres of
+heaven.
+
+	|77.  essere in carit@a~: Desiring and loving in
+conformity with God's will and the "first" love, the love of the
+Holy Ghost.  |necesse~: A "necessity."  The Latin expression
+^necesse est~ belongs to scholastic language and is often used to
+express ^logical~ necessity.
+
+	|78.  se la sua natura ben rimiri~: "If you consider well
+the very nature" of love, which implies conformity of the will on
+the part of the lover to that of the beloved.
+
+	|79.  formale~: "Essential," "inherent."  |ad esto beato
+esse~ = ^a questo essere beato~, i.e., to this our condition of
+beatitude.
+
+	|80-81.  tenersi dentro~... |stesse~: Piccarda continues
+to speak of ^all~ the elect and their love of God.  "Tenersi
+dentro a la divina voglia" is another way of expressing the
+perfect conformity of their wills to God's, so that in Heaven the
+many wills are but one, in this sense.  |fansi~ = ^si fanno.~
+
+	|82.  sem~ = ^siamo.~  |soglia~: The word here means
+"station" or "rank."  Cf. ^Purg.~ XXI, 69 and ^passim.~
+
+	|83.  a tutto il regno piace~: The subject of |piace~ is
+the preceding clause.
+
+	|84.  lo re che 'n suo voler ne 'nvoglia~: And this order
+pleases God who conforms our will to His.  |ne~ = ^ci.~
+
+	|85.  E 'n la sua volontade @e nostra pace~: Cf. Eph.
+2:14: "Ipse enim est pax nostra."  ("For he himself is our
+peace.")  See also the quotation from Augustine, n. to ^Par.~ I,
+116.
+
+	|86-87.  ell'@e quel mare~... |face~: Just as all water
+comes from the sea (by evaporation) and returns to the sea by the
+many rivers that flow into it (cf. ^Purg.~ XIV, 34-36; ^Par.~
+I, 116), so all creatures formed directly by God (angels and
+human souls) return to Him, and those formed by Nature seek their
+proper resting-place.  The metaphor is explicit in Francesca's
+words in ^Inf.~ V, 98-99, where she speaks of the Po as seeking
+peace, while she desires peace with God, which she, being damned
+to Hell, shall never have.
+
+	|88.  ogne dove~: Here, as ^passim~, the adverb |dove~
+becomes a noun: every ^where~, i.e., every place, station, or
+rank that is allotted to each soul who enjoys the beatitude of
+Heaven.
+
+	|89.  etsi~: A Latinism, meaning "although."
+
+	|90.  d'un modo~: "In the same measure," equally.
+
+	|91.  elli avvien~: "It happens."
+
+	|93.  chere~ = ^chiede.~  |Chere~, from the Latin
+^quaerere~, is common in old Italian.  |e di quel~: That is, for
+the food already had.
+
+	|95-96.  per apprender~... |spuola~: Dante would now hear
+more from Piccarda concerning her statement about herself in vss.
+46 and 56-57.  This is the cloth (|tela~) which she has begun but
+has not finished weaving, as the metaphor of these two verses has
+it.  Or, in Dante's desire to hear it, in the other metaphor of
+the two foods (one had, the other desired), this becomes the
+second food.  Some commentators take the |tela~ to refer
+specifically to Piccarda's broken vow itself, but this seems less
+acceptable as the precise meaning of the metaphor even though,
+out of metaphor, it amounts to the same thing.  |onde non trasse
+infino a co la spuola~: "In which she did not draw the shuttle to
+the end."  |co~ = ^capo.~  Cf. ^Inf.~ X, 76, and ^passim.~
+
+	|97-99.  Perfetta vita~... |vela~: The reference is to
+St. Clare, who, with St. Francis, founded a Franciscan conventual
+institution for women, the Clarisse.  She was born of a noble
+family of Assisi in 1194, founded in 1212 under the direction of
+St. Francis the order of nuns which bears her name (Order of Poor
+Clare), and died in 1253.  She was canonized, by Alexander IV, in
+1255.  The rule of her order was characterized by extreme
+austerity.  |inciela~: "Enheavens."  Dante invents the verb. 
+|pi@u s@u~: We are never told just how high in Heaven St. Clare is,
+but one must think that her saintly life gives her a very high
+station indeed.     |a la cui norma~: "According to whose rule."
+
+	|100.  perch$e~: "In order that."  |si vegghi~ = ^si vegli~
+(subjunctive of ^vegliare~).
+
+	|101.  con quello sposo~: With Christ, in mystical union
+(marriage) with Him.
+
+	|102.  che caritate a suo piacer conforma~: "Which love
+conforms to His will."
+
+	|103-104.  Dal mondo~... |fuggi'mi~: To follow St. Clare,
+"fleeing from the world," even as St. Francis had done, in taking
+the vow of poverty.  |fuggi'mi~ = ^mi fuggii.~  The reflexive
+pronoun is the familiar so-called pleonastic reflexive, here in
+its distancing function.  Piccarda entered the convent of the
+Clarisse of Monticelli, near Florence.
+
+	|105.  la via de la sua setta~: Cf. vs. 98: ^norma.~
+
+	|106-108.  Uomini poi~... |fusi~: The men were her
+brother Corso Donati and his followers, who compelled her to
+marry.  This took place around 1288.  The date of her death is
+not known, but vs. 108 suggests that, contrary to legend, her
+married life outside the convent lasted for a considerable time
+after she was taken from it.  |Iddio si sa~: Here the value of
+the reflexive may be translated as "only" or "alone": "God only
+knows."  |fusi~ = ^si fu.~  This is again the pleonastic reflexive
+which commonly follows the verb "to know" and in this case has
+its identifying value: "what my life was then," i.e., how
+terrible it was.
+
+	|109-111.  E quest'altro splendor~... |nostra~: For the
+first time we are told that the spirits are resplendent in their
+joy and love, a feature of Paradise which will become very
+familiar.  The reference is to the soul of the "great Constance"
+(as is then declared), who would seem to outshine all other
+spirits in this heaven of the moon, or at least to be resplendent
+to the maximum degree.
+
+	|112.  ci@o ch'io dico di me, di s$e intende~: "Applies to
+herself what I say of me," i.e., she too was a nun who was taken
+from the cloister by violence and forced to marry.
+
+	|114.  l'ombra de le sacre bende~: The nun's veil, called
+"shade" because it may be said, literally, to shade the face.  As
+Chimenz observes, however, the "shade" is also spiritual,
+"shading" from the world.
+
+	|115.  pur~: "Again," this being then re-echoed in the
+^ri~- of |rivolta.~
+
+	|117.  non fu dal vel del cor gi@a mai disciolta~: "She
+was never stripped of the veil of the heart," i.e., she remained
+a nun at heart.
+
+	|118-120.  Quest'@e la luce~... |possanza~: This most
+resplendent of the souls is thus finally named "the great
+Constance."  Constance (1154-1198) was the daughter of Roger II,
+king of Naples and Sicily, and wife of the Emperor Henry VI, by
+whom she became the mother of the Emperor Frederick II.  She was
+the last heir of the Norman dynasty.  See ^Purg.~ III, 113.
+
+	Villani (V, 16), following the belief current among
+Guelphs, states that the marriage between Constance and Henry was
+desired by Pope Clement III and the archbishop of Palermo for the
+purpose of getting the kingdom out of the hands of Constance's
+nephew, Tancred, who showed no respect for the interests of the
+Church.  But William the Good was still alive at the time of the
+marriage, and, as a matter of fact, on his death in 1189,
+Tancred's election was ratified by Clement, as a bar to the
+pretensions of Henry, though Henry's wife was the rightful
+heiress.
+
+	William the Good, son of William the Bad, having no issue
+by his wife Joan (daughter of Henry II of England), his aunt
+Constance became presumptive heiress to the throne, which the
+Emperor Frederick Barbarossa desired to acquire for his own
+house.  To effect his object he projected an alliance between
+Constance and his son Henry, duke of Swabia, afterwards emperor
+as Henry VI.  The marriage took place in 1186, when Constance was
+over thirty and Henry twenty-one, but their son, Frederick of
+Palermo, the heir to the throne, was not born until eight years
+later (December 1194), only four years before the death of his
+mother (November 1198).
+
+	It is now generally thought by historians that Constance
+was never a nun, as the poet would have it.  Dante has simply
+followed a current legend.  It is interesting to note (see E.
+Levi, 1921, p. 69) that Piccarda took the name Costanza when she
+entered the order.
+
+	|119.  secondo vento di Soave~: "The Swabian Emperors are
+called `blasts' because of the violence and the brief duration of
+their activity.  Frederick I (Barbarossa) was the first; the
+'second wind' was Constance's husband, Henry VI; the third and
+last was her son, Frederick II.  -- |Soave~ (German ^Schwaben~) =
+^Svevia.~  Formerly |Soave~ was the usual form" (Gr).
+
+	|122.  vanio~ = ^van@i~ (^svan@i~).
+
+	|124.  seguio~ = ^segu@i.~
+
+	|126.  volsesi~ = ^si volse.~  |al segno di maggior
+disio~: Beatrice, who is a greater "target" or object of desire
+for Dante than is Piccarda.
+

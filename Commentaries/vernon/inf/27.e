@@ -1,0 +1,206 @@
+	|Proemio.~  Incomincia il venzetteximo chapitolo dello inferno.
+
+	|1-30.~ 
+
+   ^Gi@a era in sulla fiamma ritta e queta~
+   ^per non dir pi@u e gi@a da noi sen gia~
+   ^cholla licenza del dolcie poeta.~
+
+Trattato l'altore dell'astuzia ora tratta di quella medesima materia e 
+dividesi questo chapitolo in tre parti gienerali.  Nella prima 
+continuando e restando di parlare d'Ulisse seghuita che un altro 
+spirito dopo Ulisse inchiuso in una fiamma gridasse e danne l'altore 
+per quello gridare questa similitudine diciendo chos@i chome il testo 
+dicie
+
+   ^Come il bue ciciliano che mughi@o prima~
+   ^col pianto di cholui e ci@o fu dritto~
+   ^che ll'ave' temperato con suo lima.~
+
+Valerio Massimo iscrive nel suo libro che nell'ixola di Cicilia grandi 
+e crudeli tiranni hae auti de' quali ve ne furono due crudelissimi 
+sopra gli altri l'uno fu Dioniso e re e l'altro fu Fallaris da 
+Agrigiento.  Chostui fu crudelissimo tiranno e dilettavasi di fare 
+crudelixime giustizie.  Onde nella sua citt@a d'Agrigiento si v'era un 
+orafo finissimo il quale tentato da spirito diabolicho si pens@o di 
+fare un belliximo artificio e donallo al signiore e si fecie un bue di 
+rame chon uno isportelletto s@i artificiatamente che quando era serrato 
+non si vedeva veruna chomettitura.  E portollo al signiore e dise 
+perch'io so che voi vi dilettate fare aspre giustizie io vi presento 
+questo ingiegnio che mai none fu uno maggiore n@e pi@u aspro n@e co 
+maggior pena diciendo se volete fa morire uno aspramente mettetelo per 
+questo isportello e poi serrate e fate fare il fuoco di sotto al bue di 
+rame.  Costui per la pena del chaldo griderr@a e il bue mugghier@a.  E 
+a questo modo morr@a e mai non si sent@i maggior pena.  E questo orafo 
+aveva nome Perillo.  Fallaris veggiendo il fiero edificio e 
+considerando la crudelt@a d'esso cio@e di lui signiore e anche quella 
+del maestro orafo ch'ava nome Perillo disse Fallaris il dono io 
+accietto ma voglio che 'l primo huomo che 'l pruovi sia tu e chos@i fu 
+e fello mettere dentro e morire nel vitello di rame con quella 
+crudelt@a ch'egli avea divisata.  E questa @e la comperazione che dd@a 
+l'altore per quella anima che sent@i mughiare in quel luogho.  E fingie 
+che quell'anima crollando in qua e i[n] ll@a la cima della sua fiamma a 
+ssimile chome crolla e mena la linghua quando vuole parlare simile si 
+mosse questa fiamma a pparlare contro a Virgilio cos@i diciendo
+
+   ^Udimo dire o tu a chui i' drizzo~
+   ^la vocie e che parlavi mo lombardo~
+   ^diciendo issa ten va pi@u non t'adizzo.~
+
+Questo spirito che parla qui @e lo spirito del conte Ghuido da 
+Montefeltro e dicie contro a Virgilio quando il vide pigliare chomiato 
+da Ulisse e Diomede che gli debba piaciere a restare a pparlare secho.  
+E lla prima domanda ch'egli fa domanda s'egli giugnie pure allora in 
+quel luogho credendo ch'egli sia spirito che vengha di nuovo per essere 
+tormentato e si llo chomincia a dimandare di novelle cio@e de' fatti di 
+Romagnia in che modo ist@a di presente.  Laonde Virgilio si volgie a 
+Dante e dicie gli risponda perch'egli @e latino e Dante risponde cos@i 
+diciendo cio@e
+
+	|31-54.~ 
+
+   ^Io era anchora in giuso atento e chino~
+   ^quando il mie ducha mi tent@o di costa~
+   ^diciendo parla tu quest'@e latino.~
+
+In questa seconda parte l'altore risponde alla domanda dello spirito 
+del conte Ghuido da Montefeltro e signiore istato per adietro d'Urbino 
+e d'altre terre chontandoli di parte in parte tutto lo stato di 
+Romagnia che ffu al tempo dell'altore mentre che vivette chos@i 
+rispondendogli
+
+   ^Romagnia tua non @e e non fu mai~
+   ^sanza ghuerra ne' quor de' suo tiranni~
+   ^ma in palese nessuna or vi lasciai.~
+
+L'altore risponde a questo spirito diciendogli che Romagnia non fu mai 
+sanza ghuerra cio@e ne' lor chuori de' Romagniuoli per le loro tirannie 
+e malvagit@a ma che al presente non ve ne aveva lasciata veruna che ssi 
+vedesse in palese e comincia l'altore a Ravenna perch@e era la pi@u 
+nobile citt@a di Romagnia ed eziandio per tutto il mondo per due 
+ragioni.  La prima per antichit@a per@o che Ravenna fu prima che Roma 
+di pi@u di cinqueciento anni.  La seconda che perch'ella @e la pi@u 
+nobile che vvi sia si @e che Ravenna sia chardinale chome Roma che non 
+@e citt@a che ll'abbia al mondo se non Roma e Ravenna.  Anche dicie che 
+lla tiene Ciervia sotto le sue alie.  E questo pone perch@e l'arme del 
+signiore di Ravenna @e una aquila ghuelfa.  Poi gli fa menzione 
+l'altore cos@i diciendo
+
+   ^La terra che ffe' gi@a la lungha pruova~
+   ^e de' Francieschi il sanghuinoso mucchio~
+   ^sotto le branche verde si ritruova.~
+
+Qui parla Dante della citt@a di Frull@i e di cholui che lla 
+signioreggiava a ssuo tempo e quando e' fecie questo libro che ffu nel 
+MCCLXXXII anni era allora signiore di Frull@i il conte Ghuido degli 
+Ardalaffi ed essendo signiore gli venne a dosso un conte Giovanni de 
+Apia il quale era stato fatto conte di Romagnia per papa Martino terzo 
+e s@i ssi part@i questo Giovanni da Faenza e si venne addosso a Frull@i 
+e aveva seco ottociento Kavalieri francieschi e assai pedoni e strinse 
+s@i forte la citt@a di Frull@i ch'egli ebbe l'uno de' borghi per forza 
+e alla fine usc@i fuori il conte Ghuido col popolo e isconfissogli e 
+chacciorogli e tornoronsi a Faenza e i pedoni del conte Giovanni furono 
+rotti s@i cche la battaglia rimase sola tra 'l popolo di Frull@i e ' 
+chavalieri francieschi e ffu sicura la battaglia che de' Francieschi 
+pochi ne champarono e se non fosse si ritirassono chol loro chonte 
+Giovanni privantivamente.  E per@o dicie cos@i ^Che ffe' de' 
+Francieschi il sanghuinoso mucchio~.
+
+	Questo verso @e solo e sta bene bench@e questo conte Giovanni chacci@o 
+di Frull@i questo conte Ghuido e prese la terra per la chiesa.  E per@o 
+dicie l'altore che a quel tempo si ritruovava sotto le branche verdi 
+perch@e il conte Ghuido era degli Ordalaffi da Froll@i i quali 
+portavano u[n] lione verde nel chanpo biancho per arme.
+
+   ^E 'l mastin vecchio e 'l nuovo dal Verrucchio~
+   ^che fecie di Montagnia il mal ghoverno~
+   ^l@a dove soglion far de' denti succhio.~
+
+Per queste parole dei 'ntendere per la citt@a di Rimino e de' signiore 
+Malatesti qua' furono del chontado di Rimino d'u[n] luogho che si 
+chiamava il Verrucchio.  Ed essendo eglino abitatori di Rimino 
+cresciendo eglino e multipricando im persone e collo aiuto d'un gran 
+cittadino da Rimino che avea nome Ormanno de' Romani uccisono un gran 
+chavaliere e cittadino di Rimino che aveva nome messer Montagnia e 
+d'allora in qua i Malatesti tennono e usurparono la citt@a e lla 
+signioria di Rimino.
+
+   ^La citt@a di Lamone e di Santerno~
+   ^conducie i[l] lionciel dal nido biancho~
+   ^che muta parte dalla state al verno.~
+
+Per queste parole l'altore parla di due citt@a di Romagnia cio@e Faenza 
+e Imola le quali signioreggiava u[n] Maghinardo Paghano del podere 
+ch'@e nell'alpi che ggi@a il tenevano gl'Ubaldini in parte e parte i 
+Fiorentini e oggi il tenghono tutto i Fiorentini.  E lla chagione @e 
+perch@e la famiglia di Maghinardo @e venuta tutta meno s@i cche quella 
+chasa portava per arme u[n] lione azzurro nel champo biancho.  Questo 
+Maghinardo fu savissimo e ffu nimicho de' pastori di santa chiesa e 
+teneva in Toschana parte ghuelfa e i[n] Romagnia parte ghibellina.  E 
+per@o dicie l'altore ch'egli mutava parte dalla state al verno.  Ancora 
+il dicie per un'altra chagione migliore che ll'alpi dividono la 
+Toschana dalla Romagnia che lla Toschana @e volta verso le parti chalde 
+e lla Romagnia @e posta volta inverso le parti fredde e tramontane.
+
+   ^E quella chui il Savio bagnia il fiancho.~
+
+	 L'altore parla qui di Ciesena e dicie a quello spirito ch'ella si sta 
+chome ell'@e stata per adrieto per molt'anni cio@e si reggie a popolo e 
+ch'ell'era fasciata intorno di molti tiranni cio@e da tutte le citt@a 
+di Romagnia e da' lor tiranni.  E altro di Ciesena no' ragiona a questo 
+spirito di questo conte Ghuido da Montefeltro.
+
+	|55-136.~ 
+
+   ^Ora chi sse' ti priegho che ne conte~
+   ^non essere duro pi@u ch'altri sie stato~
+   ^se 'l nome tuo nel mondo tengha fronte.~
+
+In questa terza parte fa l'altore che questo spirito gli faccia la sua 
+risposta cos@i diciendo chome seghita
+
+   ^S'io credessi che mia risposta fosse~
+   ^a persona che mai tornasse al mondo~
+   ^questa fiamma staria sanza pi@u schosse.~
+
+Queste parole fa dire l'altore a questo spirito e dicie che ss'egli 
+credesse che di lui tornasse mai novelle al mondo ch'egli no' gli 
+direbbe chi e' fosse.  Ma perch@e di questo luogho non ne usc@i mai 
+veruno con sichurt@a ti dicho chi io sono e chi io fui e disse ch'era 
+il conte Ghuido da Montefeltro signiore di Frull@i e d'Urbino.  E 
+cominci@o a narrare all'altore tutti i fatti d'arme e di malizie 
+ch'aveva adoperate nel tempo di sua giovanezza e chome fu rubello di 
+santa chiesa e mali assai ch'egli aveva fatti.  Poi essendo io giunto 
+al tempo della et@a grossa nella quale ciasquno si doverrebbe 
+richogniosciere e far bene io ricognosciuto de' miei mali e pecchati 
+ch'io avea fatti s@i mmi rendei in colpa e tornai a penitenzia e 
+abandonai il mondo e fecimi frate minore di san Franciescho.  Ed 
+essendo io frate e in buona disposizione e pentuto di ci@o ch'io avevo 
+fatto per lo adrieto s@i ch'io stavo bene con Dio e cos@i nell'ordine 
+santo.  E papa Bonifazio mand@o per me avendo egli ghuerra grandissima 
+co' colonesi e non potendo egli vinciere mand@o per me udendo dire de' 
+miei fatti d'arme e d'astuzie.  Ed io andando a llui egli mi ricievette 
+graziosamente e vollemi fare chapitano di ghuerra della sua giente e 
+farmi grande dono e io pigliassi tale impresa e ghuerra.  Ed egli pure 
+veggiendo che in ci@o io no' mmi voleva impacciare m'insegni@o ch'io 
+gli 'nsegniassi i modi di vinciere quella ghuerra e ch'egli mi 
+perdonava ogni cholpa e pena che ci@o poteva fare e anzi ch'io avessi 
+chomesso il peccato.  L@a io inghannato da llui gli dissi queste parole 
+qui di sotto
+
+   ^Di quel pechato ove mo chader deggio~
+   ^lunghe impromesse chollo attender corto~
+   ^ti faran trionfar nell'alto seggio.~
+
+Il papa intese il motto misse e mand@o amici di mezzo e disse che 
+voleva perdonare a' Cholonnesi l'offese a llui fatte e che dovesse 
+tornare a Roma e abitare a chorte.  Laonde i Cholonnesi ci@o credendo e 
+fidandosi tornarono e stando cos@i indi a cierto tempo quando si vide 
+il bello si vendich@o e tutti gli disfecie.  Bench@e po' Isciarra de' 
+Cholonnesi ne 'l pagh@o.  E per@o dicie lo spirito all'altore che solo 
+per questo mal consigno ch'egli diede a papa Bonifazio egli @e perduto 
+cos@i diciendo
+
+   ^Franc.o venne a mme po' ch'io fu' morto~
+   ^ma uno degli neri cherubini~
+   ^disse deh lascia star che mmi fa' torto.~

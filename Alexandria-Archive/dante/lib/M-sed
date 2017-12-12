@@ -1,0 +1,12 @@
+s/M-j/#e/g
+s/M-e/a/g
+s/\.M-0/+o~/g
+s/M-0)/+o~)/g
+s/M-0o~/+o~/g
+s/M-0o/+o~/g
+s/M-0\./+o~./g
+s/M-0ae~/ae/g
+s/M-0a~/a/g
+s/M-0a\.~/a./g
+s/M-0a/a/g
+s/M-0/+o~/g

@@ -1,0 +1,474 @@
+	|1-9.  Come l'augello~... |nasca~: These three opening
+tercets, presenting the first term of a simile, are laden
+with sentiment, as every reader will feel: |augello~, |amate
+fronde~, |dolci nati~ {v.2}, |aspetti disiati~ {v.4}, |ardente
+affetto~ {v.8}.
+
+	|2-3.  posato al nido~... |la notte~: "Having sat on the
+nest throughout the night."  It is important that the reader
+should get his bearings with the first term of the simile: the
+present action of the mother bird, after having sat on the nest
+through the night, is given in vss. 7-9.  |dolci nati~: Her
+beloved nestlings.
+
+	|4-5.  che, per veder~... |nasca~: The mother bird has longed
+all night for the sight of the faces of her nestlings and for the
+light of day, so that she may find food for them, and such labor is
+sweet to her.
+
+	|6.  labor~ = ^lavori.~  |Labor~ is a Latinism.  |li~=
+^gli.~  There is no feminine form for ^uccello~, hence the
+construction is in the masculine, though the bird in question is
+certainly the mother bird.  |aggrati~: Adjective probably formed
+on the adverbial phrase ^a grato~ and meaning "pleasant," "to
+one's liking."
+
+	|7.  previene il tempo~: Anticipates daybreak, as vs. 9
+makes clear.  |in su aperta frasca~: The mother bird thus leaves
+the nest for the open bough that she may see her ^dolci nati~
+{v.2} and the coming of the dawn.
+
+	|8-9.  pur che l'alba nasca~: |Pur~ stresses the mother
+bird's persistent waiting for the dawn.  Through all the
+sentiment-laden first term of the simile, the awaiting of sunrise
+is the guiding central motif, and it should be remembered that
+the rising sun is the image of the coming of Christ (cf. ^Purg.~
+XXX, 22-27, and see C. S. Singleton, 1958, p. 73).  That His
+Advent is to be realized now symbolically in the action of the
+poem the reader does not yet know, but will soon realize as the
+canto develops.
+
+	|10-12.  cos@i la donna mia~... |fretta~: Thus, in the
+second term of the simile, Beatrice replaces the mother bird, and
+Dante must somehow replace her nestlings (but in the singular). 
+Spiritual is the food that now comes for him, food that comes by
+way of Beatrice, in the allegory.  But the most curious feature
+of the simile is that ^this~ "dawn," this advent, is expected,
+not on the horizon, but at the zenith: |la plaga sotto la quale
+il sol mostra men fretta.~  Christ and the hosts of the blessed
+appear there, descending from on high.  (Actually, Beatrice and
+Dante are above the sun, hence the indication is metaphorical and
+not literal at this point.)  |la plaga~... |fretta~: In the
+middle of the sky the sun seems to move more slowly than it does
+near the horizon.  |plaga~: "Quarter."  Cf. ^Par.~ XIII, 4.
+
+	|13.  vaga~: "Eager."
+
+	|14.  fecimi~ = ^mi feci.~  |quei~ = ^quegli~ (singular).
+
+	|15.  vorria~ = ^vorrebbe.~  |sperando s'appaga~:
+"Contents himself with hope."
+
+	|16.  quando~: Here used as a noun, "moment."
+
+	|18.  lo ciel venir pi@u e pi@u rischiarando~: This keeps
+this advent as a dawn, even though it is at the meridian.
+
+	|19-21.  e Beatrice~... |spere~: Finally we are told what
+comes, though the whole scene is entirely symbolical, as the
+reader must realize.  Christ will now appear as a sun
+illuminating many stars, and the action of the canto will develop
+from and through such symbolism.  Here is the host of the blessed
+who were, so to speak, "harvested" out of time, the fruit
+gathered in from the turning of the spheres, a turning which is
+the very image of time, for it determines time for mortals on
+earth.  This notion of "harvest out of time" also appears at the
+end of the canto, vss. 130-132.  |Triunfo~, as distinguished from
+^militia~ (Christ's army still on earth and in time), bears in
+itself this latent metaphor.  Such, then, is the wayfarer's
+experience in the heaven of the fixed stars, where, unlike the
+planetary heavens, there is no single body, no planet, but a
+multitude of bodies, ^all~ the stars.
+
+	|22.  Pariemi~ = ^mi pareva.~
+
+	|24.  che passarmen convien sanza costrutto~: "That it
+behooves me to leave it without phrasing."  For |costrutto~ in
+this sense, cf. ^Par.~ XII, 67.  |passarmen~ = ^passarmene.~
+
+	|26.  Trivia~: "The goddess at the three ways," a term
+applied by Virgil (e.g., ^Aen.~ VI, 13, 35; VII, 516, 774) and
+other Latin poets to Diana (whose temple was frequently placed
+where three roads met), and hence by Dante to the moon, Diana
+being goddess of the Moon.  |ride~: "Shines."  |ninfe~:
+"Stars."  Thus even as nymphs made up the following of the
+goddess, so here the stars make up the following of the moon. 
+Cf. Horace, ^Epodes~ XV, 1-2: "Nox erat et caelo fulgebat Luna
+sereno / inter minora sidera."  ("Twas night, and in a cloudless
+sky the moon was shining amid the lesser lights.")  The poet has
+been obliged to shift, through simile, to a night scene as we now
+see, in order to have the major body (which at first was the sun
+but now is the moon) shining amidst many lesser lights.  And yet,
+in the second term of the simile, that body is still the sun, and
+since the stars derive their light from the sun, it is proper
+that this symbolic sun should illumine all the lights, ^lucerne~
+(vs. 28) here.
+
+	|27.  seni~: "Parts."  Cf. ^Par.~ XIII, 7.
+
+	|28.  sopra migliaia di lucerne~: Some commentators
+attempt to determine just which particular group of the blessed
+is here intended by these "thousands of lights," but surely the
+symbolism is calculated to convey the meaning that there is
+represented here the entire host of the blessed, ^all~ of
+Christ's "triumph" in that sense -- ^represented~, not all
+necessarily ^present~ in the many lights.
+
+	|29-30.  che tutte quante~... |superne~: "Christ
+illumines all the blessed, just as our material sun illumines all
+the stars -- `the phenomena on high' (cf. II, 115).  See ^Conv.~
+II, xiii, 15: `del suo lume tutte le altre stelle s'informano'
+['all the other stars are informed by his light'].  Cf. ^Par.~
+XX, 6.  -- A. Santi, ^Giorn. dant.~, XXII, 229, attempts to show
+that in Dante's belief the light of the stars does not come
+entirely from the sun.  We find that both opinions were current
+in the Middle Ages" (Gr).  |viste~: Cf. ^vedute~ in ^Par.~ II,
+115; also see ^Par.~ XXX, 9.
+
+	|31-32.  e per la viva luce~... |chiara~: Through the
+effulgence of this sun, the person of Christ, the source of this
+light, which is itself a shining substance, can be seen. 
+|Sustanza~ is used in the scholastic sense (^substantia~),
+denoting that which has separate existence, as contrasted with
+"accident," which is a quality existing in a substance.  See
+Dante's use of these terms in ^Vita nuova~, XXV, 1-2.  With this
+term the stress is rather on the human Christ.  The whole vision
+is symbolic, however -- a point not to be forgotten.
+
+	|35.  sobranza~: "Overcomes."  Cf. ^Par.~ XX, 97.
+
+	|36.  virt@u~: "Power."  Cf. vs. 37, ^possanza.~  |nulla~:
+That is, |virt@u.~
+
+	|37.  Quivi @e la sapienza e la possanza~: See I Cor.
+1:24: "Christum Dei virtutem et Dei sapientiam."  ("Christ, the
+power of God and the wisdom of God.")  Usually Christ is
+identified with wisdom.
+
+	|38.  ch'apr@i le strade tra 'l cielo e la terra~: From
+Adam's sin to the Advent of Christ, the way to Heaven was closed. 
+Even the virtuous who believed in Him went to Limbo to await His
+"opening of the way."  And there in Limbo the long desire for His
+coming was felt, as it was on earth among those who believed in
+Him as the Redeemer.  Adam, as he tells us later (^Par.~ XXVI,
+118-120), waited in Limbo 4,302 years for Christ's harrowing, which
+took him forth.
+
+	|40.  foco~: "Lightning."  |di nube~ = ^dalla nube.~
+
+	|41.  per dilatarsi~: "Expanding."  |non vi cape~: "Is no
+longer contained therein."  |cape~: From ^capere.~
+
+
+	|42.  e fuor di sua natura in gi@u s'atterra~: It is the
+nature of fire to rise.  Cf. ^Par.~ I, 115; ^Conv.~ III, iii,
+2.  |fuor di~: "Contrary to."
+
+	|43.  dape~: Meaning "viands." from the Latin ^dapes~,
+but with a plural ending in ^e~ instead of ^i.~
+
+	|44.  di s$e stessa usc@io~: This is the ^excessus mentis~
+of the mystics, wrought by the power of Christ, here present
+symbolically.  |usc@io~ = ^usc@i.~
+
+	|45.  che si fesse~: "What it became."  The pleonastic
+reflexive (here |si~) is very commonly used, in older Italian,
+after ^non sapere.~  |fesse~ = ^facesse.~  |sape~ = ^sa.~
+
+	|46-48.  Apri li occhi~... |mio~: Dante has not seen
+Beatrice's smile since entering the heaven of Saturn, because he
+could not have endured it (^Par.~ XXI, 4-12), but now that he
+has seen the ^triunfo di Cristo~ (vs. 20) and Christ in His
+effulgence, his eyes can endure the sight of her radiant smile.
+
+	|49.  come quei che si risente~: "As one who comes to
+himself."
+
+	|50.  di visione oblita~: "From a vision that has faded
+away."  |Oblita~ is a Latinism, "obliterated."
+
+	|51.  ridurlasi~ = ^ridursela.~
+
+	|53.  grato~: "Gratitude."  |stingue~ = ^estingue.~
+
+	|54.  del~ = ^dal.~  |libro che 'l preterito rassegna~:
+The book of memory.  For the book of memory, cf. Dante, ^Rime~
+LXVII, 59; ^Vita nuova~ I; C. S. Singleton (1949).  |preterito~:
+A Latinism.  |rassegna~: "Records."
+
+	|55.  quelle lingue~: The tongues of poets.
+
+	|56.  Polimnia~: Here pronounced ^Polimn@ia.~  Polyhymnia,
+the Muse of the Sublime Hymn.  |con le suore~: "With her
+sisters." the other Muses.  The Muses nourish (or "fatten") the
+tongues of poets.  |fero~ = ^fecero.~
+
+	|59.  verria~ = ^verrebbe.~
+
+	|60.  e quanto il santo aspetto facea mero~: It (the
+smile) "lighted up" the face of Beatrice.
+
+	|61.  figurando~: "Depicting."
+
+	|62.  poema~: The subject of "saltar."
+
+	|63.  riciso~: "Cut off." "barred."
+
+
+	|67-68.  pareggio~: There has been much discussion
+concerning the correct reading here, whether "pileggio" or
+"pereggio" or "poleggio."  There is also a Low Latin ^parigium~
+to be reckoned with.  Petrocchi's acceptance of |pareggio~ seems
+justifiable.  See his vol. I, ^Introduzione~, pp. 240-241, where
+he admits that other forms are possible, but that in any case the
+poet means by the term "a long and difficult stretch of sea."  In
+fact, the metaphor here returns the reader to the opening of
+^Par.~ II, particularly with the touch |che fendendo va l'ardita
+prora~ (vs. 68).
+
+	|69.  a s$e medesmo parca~: "Who would [seek to] spare
+himself"; from the Latin ^sibi parcat.~
+
+	|70-72.  Perch$e la faccia mia~... |s'infiora~?  Cf.
+^Par.~ XVIII, 20-21.  |bel giardino~: Now all the lights of the
+blessed, irradiated by the sun, who is Christ, become a beautiful
+garden.  The flower metaphor continues in the following verses.
+
+	|73.  la rosa~: Mary, the "Mystic Rose" of the liturgy. 
+Cf. ^rosario~, rosary, a series of prayers to the Virgin.  
+|verbo divino~: Christ.  See ^Ioan.~ 1:14: "Et Verbum caro
+factum est."  ("And the Word was made flesh.")
+
+	|74.  gigli~: The apostles.  "In his unfinished
+commentary on Isaiah, St. Thomas discusses the resemblance of
+saints to lilies" (Gr).  See G. Busnelli (1911a), pp. 128-129, n.
+3.
+
+	|75.  a~: "By."  |al cui odor si prese il buon cammino~:
+See II ^Cor.~ 2:14: "Deo autem gratias, qui semper triumphat nos
+in Christo Iesu, et odorem notitiae suae manifestat per nos in
+omni loco."  ("But thanks be to God who always leads us in
+triumph in Christ Jesus, manifesting through us the odor of his
+knowledge in every place.")
+
+	|78.  cigli~: "Brows." for "eyes."
+
+	|79-87.  Come a raggio~... |possenti~: In three tercets the
+poet suggests, by such a transition from the preceding image, the
+Ascension of Christ: the sun withdrawn -- having risen, as it were,
+above the clouds -- but still shining through upon the company of
+the elect.  Grandgent comments: "'As ere now my eyes, covered by a
+shadow, have seen a flowery meadow under a sunbeam that streams
+clear through a rifted cloud': an exceedingly beautiful simile used
+to describe the vast throngs of flowerlike souls illumined from
+above by the dazzling light of Christ, who has risen once again to
+the Empyrean, in order that Dante's own eyes may not be entirely
+blinded by his brightness." 
+
+	|79.  mei~: "Pours down."  Cf. ^Par.~ XIII, 55.  |Mei~ is
+subjunctive to suggest the hypothetical though common scene.
+
+	|80.  fratta~: "Broken," here "rifted."  Cf. ^Purg.~
+XVII, 42.
+
+	|83.  folgorate~: "Illuminated."
+
+	|84.  principio di folg$ori~: In this instance, Christ,
+the sun, withdrawn, "arisen," as the following tercet makes
+clear.
+
+	|85.  li `mprenti~: "Do stamp them."
+
+	|87.  non t'eran possenti~: "Were not able to endure
+Thee" (your light).
+
+	|88.  nome~: The mention of Mary by Beatrice in vs. 73. 
+Among the bright lights, hers is now the greatest (vs. 90).
+
+	|89-90.  mane~ = ^mattina.~  |tutto mi ristrinse l'animo~:
+Made me concentrate all my attention on.  |avvisar~: "Make out,"
+"distinguish."
+
+	|91.  come~: "When."  |luci~: "Eyes."  |dipinse~: The
+subject of |dipinse~ is the phrase in vs. 92.
+
+	|92.  il quale e il quanto~: "The quality and bigness." 
+Cf. ^Par.~ II, 65.  |la viva stella~: |Stella~ is another of the
+names of Mary in the liturgy: "stella mattutina," "maris stella."
+
+	|93.  che l@a s@u vince come qua gi@u vinse~: Mary outshines
+all the other stars up there, even as on earth she outshone all
+other creatures.
+
+	|94-96.  una facella~... |ella~: The "torch" seems
+certainly to be the Archangel Gabriel, the messenger of the
+Annunciation.  He now forms a circling halo around the head of
+the Virgin, re-enacting, as it were, the great moment.  But this
+is only a ritualistic celebration of the Annunciation and does
+not take its place ^chronologically~ in the events symbolized,
+for Christ has already "ascended."  |cinsela~ = ^la cinse.~ 
+|girossi~ = ^si gir@o.~  |ella~ = ^lei.~
+
+	|99.  parrebbe nube che squarciata tona~: See Ovid,
+^Metam.~ XII, 51-52: "qualemve sonum, cum Iuppiter atras /
+increpuit nubes, extrema tonitrua reddunt" ("or like the last
+rumblings of thunder when Jove has made the dark clouds crash
+together").
+
+	|100.  quella lira~: The singing Gabriel who circles and
+thus "crowns" Mary, the most beautiful sapphire in Heaven.  Cf. a
+similar crowning of Dante, described in ^Par.~ XXIV, 152-154.
+
+	|102.  il ciel pi@u chiaro~: The Empyrean.
+
+	|103.  giro~: "Encircle."
+
+
+	|104.  ventre~: "Womb."
+
+	|105.  nostro disiro~: Christ, the object of desire.  Cf.
+vss. 37-39.
+
+	|106-108.  girerommi~ = ^mi girer@o.~  |mentre che~...
+|entre~: I.e., until Mary shall rise to the highest heaven,
+following Christ, which she does (vs. 120).  |dia~: "Divine." 
+Cf. ^Par.~ XIV, 34.  |perch$e li entre~: "By entering it."  |li~:
+The unaccented |li~ here is the unemphatic adverb, corresponding
+to ^vi.~  |entre~ = ^entri.~
+
+	|110.  si sigillava~: "Sealed itself," i.e., ended.
+
+	|112-114.  Lo real manto~... |mondo~: "The royal cloak of
+all the revolutions of the world" is the ninth sphere, the Primum
+Mobile, which encircles the eight revolving heavens, the seven
+planetary spheres plus the sphere of the fixed stars where the
+wayfarer now is.  |volumi~: For the word in this sense, cf.
+^Par.~ XXVI, 119; XXVIII, 14.  Also see Ovid, ^Metam.~ II, 71. 
+|che pi@u ferve~... |costumi~: The Primum Mobile, or ninth sphere,
+is said to "burn" most (with desire) and be most "living" through
+the spirit (|alito~) of God and His operations or ways
+(|costumi~).  Cf. Dante, ^Conv.~ II, iii, 8-9:
+
+     Veramente, fuori di tutti questi, li cattolici pongono lo
+     cielo Empireo, che @e a dire cielo di fiamma o vero
+     luminoso; e pongono esso essere immobile per avere in s@e,
+     secondo ciascuna parte, ci@o che la sua materia vuole.  E
+     questo @e cagione al Primo Mobile per avere velocissimo
+     movimento; ch@e per lo ferventissimo appetito ch'@e 'n
+     ciascuna parte di quello nono cielo, che @e immediato a
+     quello, d'essere congiunta con ciascuna parte di quello
+     divinissimo ciel quieto, in quello si rivolve con tanto
+     desiderio, che la sua velocitade @e quasi incomprensibile.
+
+     But beyond all these the Catholics assert the empyrean
+     heaven, which is as much as to say the heaven of flame, or
+     the luminous heaven; and they assert it to be immovable,
+     because it hath in itself with respect to every part that
+     which its matter demandeth.  And this is the cause of the
+     ^primum mobile~ having the swiftest motion, because by
+     reason of the most fervid appetite wherewith every part of
+     this ninth heaven, which is next below it, longeth to be
+     conjoined with every part of this divinest, and tranquil
+     heaven, it revolves therein with so great yearning that its
+     swiftness is scarce to be comprehended.
+
+It should be remembered that the desire which the spheres have
+for the unmoved Mover is basically Aristotelian in conception. 
+The very last verse of the whole poem will echo this doctrine. 
+Moreover, in imagery that is to come (^Par.~ XXX, 106-108) the
+reader will see how this ninth heaven receives God's light and
+power.
+
+	|115-117.  avea sopra~... |appariva~: The concave inner
+surface ("bank") of the ninth heaven is said to be so far beyond
+the reach of Dante's eyes that, as he looks up, he cannot see it. 
+The reader should recall that, in this cosmology, each of the
+nine spheres is conceived as having material existence.  |ancor
+non appariva~: |Ancor~ has reference to the upward journey, of
+course, and clearly implies that the "bank" will be visible
+later.
+
+	|118.  per@o~ = ^per ci@o.~
+
+	|119.  la coronata fiamma~: Mary.
+
+	|120.  sua semenza~: Christ, the "seed" or child of Mary.
+
+	|121-126.  E come fantolin~... |palese~: The simile
+clearly casts the Virgin Mary in the role of mother (^mater
+gratiae~, ^mater misericordiae~) and is an excellent example of the
+vivid earthly and everyday imagery which the poet introduces, in
+the first terms of his similes, throughout this rarified realm of
+Paradise.  All readers will remember having seen the flush on a
+baby's face after it has suckled and the way it may reach out its
+little arms towards its mother.  Literally, flames are conceived
+of as "reaching upward," through their desire to reach home (the
+sphere of fire), and this conception forms the background of the
+second term of the simile, these "flames" being souls.  |per
+l'animo che `nfin di fuor s'infiamma~: "'Because of the spirit
+(of grateful love) which breaks even into external flame' --
+which, in default of words, finds expression in a gesture" (Gr). 
+|ciascun di quei candori in s@u si stese~: All the bright souls
+extend their flames upward after Mary.  |candori~: "Glowing
+lights" (cf. ^Par.~ XIV, 77).  |si stese~ = ^si protese.~ 
+|avieno~ = ^avevano.~
+
+	|128.  Regina celi~: "Regina coeli," antiphon in praise
+of the Virgin Mary, Queen of Heaven, which is sung in the Office
+at Easter.  See P. Gu$eranger (1888), p. 39:
+
+     Regina coeli, laetare, alleluia,
+     Quia quem meruisti portare, alleluia,
+     Resurrexit sicut dixit, alleluia.
+     Ora pro nobis Deum, alleluia.
+     Gaude et laetare, Virgo Maria, alleluia.
+     Quia surrexit Dominus vere, alleluia.
+
+     Rejoice, O Queen of heaven, alleluia,
+     For he whom thou deservedst to bear, alleluia,
+     Hath risen, as he said, alleluia.
+     Pray to God for us, alleluia.
+     Rejoice and be glad, O Virgin Mary, alleluia.
+     For the Lord hath truly risen, alleluia.
+
+	|130.  ubert@a~: "Abundance."  |si soffolce~: "Is stored,"
+from the Latin ^suffulcire.~
+
+	|131.  arche~: "Bins" or "coffers," the blessed souls.
+
+	|132.  bobolce~: Feminine plural of ^bobolco~, from the
+Latin ^bubulcus~, "a ploughman."  The plural reflects ^anime.~ 
+The meaning is "husbandmen," "tillers and sowers."  The souls are
+now filled with the good which they sowed on earth.  Cf. Gal.
+6:8 [7]: "Quae enim seminaverit homo, haec et metet."  ("For what
+a man sows, that he will also reap.")  Other commentators take
+|bobolce~ to mean "fields," but this seems less fitting in the
+context.
+
+	|134-135.  lo essilio di Babill@on~: The "exile of
+Babylon" is the earthly life.  Cf. ^Ps.~ 136 [137]:1: "Super
+flumina Babylonis illic sedimus et flevimus, cum recordaremur
+Sion."  ("By the streams of Babylon we sat and wept when we
+remembered Sion.")  |Babill@on~ = ^Babilonia.~  |ove si lasci@o
+l'oro~: "On earth `they forsook gold,' following the precept of
+Jesus" (Gr).  See Matt. 19:21: "Ait illi Iesus: si vis
+perfectus esse, vade, vende quae habes, et da pauperibus, et
+habebis thesaurum in caelo."  ("Jesus said to him, `If thou wilt
+be perfect, go, sell what thou hast, and give to the poor, and
+thou shalt have treasure in heaven.'")
+
+	|137.  di sua vittoria~: "By his victory."  The canto
+ends on the note of "triumph" and "victory" with which it began.
+
+	|138.  e con l'antico e col novo concilio~: "In company
+with the souls of the Old and the New Covenant.  Prophets and
+Apostles preached the same faith" (Gr).
+
+	|139.  colui~: "Colui," St. Peter, is the subject of
+^triunfa~ in vs. 136.  |tien le chiavi di tal gloria~: Cf.
+Matt. 16:19: "Et tibi dabo claves regni caelorum."  ("And I
+will give thee the keys of the kingdom of heaven.")  The final
+verse thus presents Peter -- who, as the reader will soon see, is
+the most prominent of these figures -- with keys and an
+examination suggesting that the journey has now reached an
+"entranceway" into Heaven.

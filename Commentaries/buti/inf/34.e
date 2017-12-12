@@ -1,0 +1,747 @@
+	|Proemio.~  ^Vexilla Regis prodeunt~ ec.  In questo XXXIIII
+canto ed ultimo della prima cantica; cio@e dello Inferno, l'autor
+nostro tratta del quarto giro ed ultimo del nono cerchio che si
+chiama Giudecca da Giuda, come si dir@a di sotto, nel quale sono li
+traditori ch'@anno tradito i loro maestri, signori e
+benefattori; et imper@o ci pone lo Lucifero nel centro della
+terra, perch@e si lev@o contra il suo Fattore, e dividesi in due
+parti: imper@o che prima pone come venne nel quarto giro, e
+descrive le pene che vi trov@o et il peccato che vi si punisce
+per li peccatori che quivi nomina, et all'ultimo pone come
+pass@o lo centro della terra et uscie fuori dell'inferno, quivi:
+^Come a lui piacque~ ec.
+
+	|1-69.~  La prima si divide in sei parti:
+imper@o che prima pone come ebbe da lungi apparenzia del
+Lucifero; nella seconda descrive il modo della pena di quelli del
+quarto giro, quivi: ^Gi@a era (e con paura~ ec.; nella terza
+pone come Virgilio li mostra lo Lucifero, che lo chiama Dite,
+quivi: ^Quando noi fummo fatti~ ec.; nella quarta descrive come
+@e fatto Dite, quanto alla statura, quivi: ^Lo Imperador
+del doloroso~ ec.; nella quinta lo descrive, quanto alle
+condizioni del corpo, quivi: ^O quanto parve a me~ ec.; nella
+sesta pone com'elli tormenta certi gravi peccatori, quivi: ^Da
+ogni bocca~ ec.  Divisa la lezione, ora @e da vedere la sentenzia
+litterale la quale @e questa.
+
+	Dice l'autore che, poich@e si part@i da frate Alberigo et
+and@o oltre verso il mezzo, Virgilio li cominci@o a parlare, e
+disse: In verso di noi si manifestano li gonfaloni del re
+dell'inferno, et imperci@o ragguardati inanzi se tu lo discerni.
+Allora dice Dante che, ragguardando li parve vedere come uno
+mulino da vento in una nebbia, o quando @e di notte; e, perch@e
+qui diveniva un gran vento, si ristrinse dietro a Virgilio; e
+per@o che non v'era altro riparo da quel vento e gi@a era venuto
+nel quarto giro, e quivi dice che l'anime stavano tutte coperte
+nella ghiaccia, e trasparevano come la festuca quando @e nel
+vetro; e dice che quale stava levata col capo, e quale con le
+piante, e quale stava come arco col volto a' piedi.  E quando
+fummo tanto iti oltre, che a Virgilio piacque di mostrare a Dante
+Dite, dice che se li lev@o dinanzi e disse: Ecco Dite, ecco lo
+luogo ove ti conviene esser forte.  Et allora dice Dante ch'ebbe
+grande paura, e vide l'imperadore dello inferno, il quale era da
+mezzo lo petto in su fuori della ghiaccia, et era pi@u che uno
+gigante, e questo mostravano le braccia che erano maggiori che di
+gigante, et era tanto brutto e laido che bene dee da lui
+procedere ogni pianto, et ogni male; et avea tre faccie; l'una
+dinanzi vermiglia, l'altra in su la spalla ritta et era tra
+bianca e gialla, e l'altra in su la spalla manca et era nera; et
+avea tre alie grandi pi@u che vele di mare, per diritto di
+ciascuna faccia, una; e menava queste alie, e quindi si
+generavano tre venti che agghiacciavano Cocito; et avea sei occhi
+coi quali piangeva, e tre menti e quindi gocciolava lo sangue e
+la bava, e da ogni bocca avea pendente un'anima; da quella di
+mezzo pendeva co' piedi in gi@u, e quella dice Virgilio a Dante
+ch'era Giuda; e della bocca nera pendeva un'anima col capo di
+sotto, e quella dice Virgilio che era Bruto; e dall'altra bocca
+tra bianca e gialla pendeva un'altra anima col capo di sotto, e
+quella dice Virgilio che era Cassio; e queste tre anime frangeva
+coi denti come la maciulla frange lo lino.  E poi che Virgilio li
+manifest@o quelli peccatori, ammonisce Dante che tempo @e da
+partirsi dell'inferno: imper@o che tutto @e veduto.
+
+	|1-9.~  In questi tre ternari l'autor
+nostro finge che Virgilio li parlasse, e mostrasseli di lungi lo
+Lucifero e facesselo cauto che guardasse se lo vedea, dicendo
+cos@i: ^Vexilla Regis prodeunt Inferni~; finge l'autore che
+Virgilio parli, e dica le parole dette di sopra che sono in
+Grammatica, che in volgare dicono cos@i: Li gonfaloni del Re
+dello Inferno si manifestano; e queste erano l'alie del Lucifero,
+come si mosterr@a di sotto, ^Verso di noi; per@o dinanzi mira~;
+tu, Dante, ^Disse il Maestro mio~; cio@e Virgilio, ^se tu il
+discerni~; cio@e se tu il puoi scorgere.  ^Come quando una grossa
+nebbia spira~; discerne il tempo, dicendo come quando @e una
+grossa nebbia; o come, ^0 quando l'emisperio nostro annotta~;
+pone un'altra condizione di tempo; cio@e come nel nostro mondo si
+fa notte: emisperio tanto @e a dire, quanto mezza spera, e cos@i
+@e la nostra parte che noi veggiamo del cielo ch'@e mezza spera:
+per@o che per la terra non ne possiamo veder pi@u, ^Par di
+lungi un molin che al vento gira~; ora agguaglia la
+similitudine dicendo che, come parrebbe di notte, e quando fosse
+grande nebbia, uno molino che girasse a vento; cos@i li parve
+vedere simile l'edificio; e per@o dice: ^Veder mi parve un tal
+dificio allotta~; a me Dante: ^Poi per lo vento~; che venia, ^mi
+ristrinsi retro Al Duca mio~; cio@e a Virgilio, ^che non v'era
+altra grotta~; cio@e perch@e non v'era altra reparazione: e
+questo @e quanto alla lettera.  Ma allegoricamente intese
+l'autore che da Lucifero vengono tre venti, ch'elli spira sempre
+battendo le sue alie: cio@e ingratitudine, crudelt@a et odio; dai
+quali venti chi non vuole essere offeso riparisi con la ragione,
+come fece elli di rietro a Virgilio che significa la ragione,
+ponendo incontro a questi venti la ragione, la quale vede questi
+tre venti essere noiosi, e cessali da s@e; e cos@i si ripara da
+essi, adducendo li suoi contrari; cio@e gratitudine, piet@a et
+amore.
+
+	|10-15.~  In questi due ternari narra
+l'autore la differenzia delle pene, che finge essere a quelli del
+quarto giro, li quali @anno tradito li loro maestri, signori e
+benefattori, dai quali @anno ricevuti grandissimi benef@ici.  E
+finge che una pena sia comune a tutte; cio@e che sono tutte
+coperte sotto la ghiaccia: imper@o che tutte sono state private
+d'ogni carit@a et amore.  E quattro differenzie pone in quella
+pena: imper@o che quale parimente sta a giacere riverta, quale
+col capo in su e co' piedi in gi@u un poco erta, quale per lo
+contrario; cio@e col capo in gi@u e coi piedi in su, e quale col
+ventre in su levato, tenendo il capo a' piedi, e la schiena
+di fuori a modo di cerchio.  E queste quattro differenzie pone,
+perch@e quattro sono le differenzie di questi traditori: imper@o
+che altri sono che usano tradimento alli benifattori suoi pari, e
+questi finge che stiano parimente a giacere; et altri sono che
+l'usano contra li maggiori benefattori tanto, come sono i
+signori, e maggiori, e maestri e qualunque altro grado di
+maggioria, e questi stanno col capo in gi@u e co' piedi in su; et
+altri sono che l'usano contra li minori che sono loro
+benefattori, come li signori contra li sudditi, e questi stanno
+col capo in su e co' piedi in gi@u; et altri sono che l'usano
+contra li minori e contra li maggiori parimente, e questi stanno
+inarcocchiati col capo, e coi piedi parimente in gi@u nella
+ghiaccia, e tutti stanno riverti; cio@e rovescio, perch@e
+sfacciatamente sanza alcuno ricoprimento @anno usato lo
+tradimento.  E questo medesimo allegoricamente si truova in
+quelli del mondo, de' quali intese propiamente l'autore: imper@o
+che tutti questi traditori de' benefattori loro sono sfacciati; e
+se usano lo tradimento alli loro pari benefattori, sono parimenti
+a giacere nel freddo della crudelt@a e dell'odio; e se l'usano
+pure contro a' maggiori, sono col capo pi@u in gi@u in quanto
+mostrano pi@u l'abominevole odio e crudelt@a; e se l'usano pure
+contro a' minori, stanno co' piedi pi@u in gi@u, e col capo pi@u
+su, perch@e viene meno abominevole l'odio e la crudelt@a; e
+se l'usano quando contra i maggiori e quando contra minori, stanno
+inarcocchiati col capo pari a' piedi, perch@e mostrano odio e
+crudelt@a, e pi@u e meno abbominevole.  Or dice cos@i il testo:
+^Gi@a era~; io Dante andato oltre verso il mezzo, (^e con paura
+il metto in metro~; cio@e lo dico ora in questi versi: imper@o
+che raccordarlo mi spaurisce) ^L@a, dove l'ombre tutte eran
+coperte~; cio@e dalla ghiaccia: cosa paurosa @e a pensare che
+l'uomo sia al tutto privato d'ogni amore e d'ogni carit@a, e sia
+al tutto crudele et odioso.  ^E trasparean come festuca in
+vetro~; questa @e fizione poetica verisimile che, se erano nella
+ghiaccia, doveano trasparere; et @e atta similitudine che, cos@i
+doveano parere sotto la ghiaccia, come pare la festuca quando @e
+rinchiusa nel vetro.  ^Altre stanno a giacere~; cio@e parimente
+rovescio, ^altre stanno erte~; cio@e levate in suso; ma pure
+nondimeno rovescio, ^Quella col capo~; ecco come
+differentemente stavano erte: cio@e col capo in su e co' piedi in
+gi@u, ^e quella con le piante~; cio@e stava erta s@i, che i
+piedi erano in su, e 'l capo in gi@u, ^Altra, com'arco, il collo
+ai piedi inverte~; e cos@i stava inarcocchiata e tenea parimente
+in gi@u il capo et i piedi.
+
+	|16-27.~  In questi quattro ternari
+finge l'autore che Virgilio li mostrasse Dite, e come vedendolo
+ebbe paura, e per@o dice: ^Quando noi~; cio@e Virgilio ch'era
+inanzi, et io Dante che gli era dietro, ^fummo fatti tanto
+avante~; cio@e tanto inverso il centro, ^Che al mio Maestro~;
+cio@e Virgilio, ^piacque di mostrarmi~; cio@e a me Dante, ^La
+creatura ch'ebbe il bel sembiante~; cio@e ch'ebbe la bella
+apparenza; cio@e Lucifero, che Idio fece di tanta bellezza,
+^Dinanzi mi si tolse~; perch@e s'era riparato dopo lui, per lo
+vento, come detto fu di sopra, ^e fe restarmi~; cio@e me Dante,
+perch'io comprendessi meglio, ^Ecco Dite, dicendo~: Dite chiamano
+li poeti lo idio dell'inferno; quasi ricco, perch@e delle morti
+delli uomini cresce lo suo imperio per signoria, et arricchisse,
+e da costui denomin@o di sopra l'autore la citt@a di Dite:
+ancora lo chiamano li poeti Plutone. ^et ecco il loco, Ove
+convien che di fortezza t'armi~: imper@o che convenia che di lui
+facessono scala, se voleano discendere al centro et uscire
+dell'inferno.  ^Com'io divenni allor gelato e fioco~; dice
+l'autore, ^Nol domandar, Lettor, ch'io non lo scrivo~; et assegna
+la cagione: ^Per@o ch'ogni parlar sarebbe poco~; a volere
+esprimere la mia paura; ora pur la descrive in brievi parole,
+dicendo: ^Io non mori', e non rimasi vivo~; s@i ch'elli rimase
+in quel mezzo; cio@e n@e vivo, n@e morto: ^Pensa oggimai per te,
+s'@ai fior d'ingegno~; tu, Lettor, ^Qual io~; cio@e Dante,
+^divenni, d'uno e d'altro privo~; cio@e privato del vivere e del
+morire.  Conveniente cosa @e che a veder cos@i fatta cosa elli
+finga avere avuta s@i fatta paura.
+
+	|28-36.~  In questi tre ternari l'autor
+nostro descrive la statura di Dite, e il luogo dove elli era,
+dicendo cos@i: ^Lo Imperador del doloroso regno~; cio@e
+dell'inferno, che @e luogo di dolore, ^Dal mezzo il petto uscia
+fuor della ghiaccia~; ecco lo luogo dove era; cio@e fitto nella
+ghiaccia nel centro della terra, e da mezzo il petto in su si
+vedeva fuori della ghiaccia; non che la ghiaccia il toccasse, che
+non sarebbe verisimile che, afferrandosi a' peli suoi, fossono
+discesi infino al foro del centro della terra; ma avea d'intorno
+la ghiaccia che occupava in fino al mezzo il petto, ^E pi@u con
+un gigante io mi convegno~; cio@e io Dante pi@u m'agguaglio a
+uno gigante, lo quale @e tanto maggiore di me, ^Che i giganti non
+fan con le sue braccia~; cio@e che non s'agguagliano li giganti
+alle braccia sue; cio@e del Lucifero: imper@o che le braccia sue
+di Dite; cio@e del Lucifero, sono molto maggiori che uno gigante.
+^Vedi oggimai~; tu, Lettore, ^quant'esser dee quel tutto, Che a
+cos@i fatta parte si confaccia~; cio@e si convenga, secondo la
+sua proporzione e secondo la dimensione de' corpi, a s@i fatta
+parte, come erano le braccia sue; o vogliamo intendere da
+mezzo il petto in su.  ^S'el fu s@i bel, com'egli @e ora brutto~;
+questa similitudine @e vera, bench@e l'autore la proferisca sotto
+dubitazione: imper@o che giusta cosa @e che tanto cadesse di
+sotto all'altre creature, quanto elli avanzava l'altre creature;
+sicch@e questa @e vera che tanto fu bello, quanto ora @e brutto,
+^E contra il suo Fattore alz@o le ciglia~; questo aggiugne alla
+similitudine ancora per vera, bench@e che la proferisca a
+quello medesimo modo: imper@o che contro a Dio si lev@o per
+superbia, volendosi porre pari a lui, dicendo: ^Ponam sedem meam
+in aquilone, et ero similis altissimo.~  E di questo
+antecedente l'autore induce questa vera consequenzia, ^Ben dee
+da lui procedere ogni lutto~; cio@e ogni pianto e miseria.
+Questa consequenzia @e verissima; e per inducere questa, premise
+quello antecedente di sopra, sotto modo di dubitazione, ben
+ch'elli l'abbia fermissimo.
+
+	|37-54.~  In questi sei ternari lo
+nostro autore, poi ch'@a discritto la statura di Dite, descrive
+particularmente le condizioni di quello che di Dite si vedea
+fuori della ghiaccia; e tutto finge sotto figura et allegoria
+come si mosterr@a, e dice cos@i: ^O quanto parve a me~; Dante,
+^gran maraviglia, Quando vidi tre faccie alla sua testa!~  In
+questa sua fizione vuole dimostrare l'autore come sia vera la
+consequenzia fatta da lui di sopra; cio@e ben dee procedere da
+lui ogni vizio e peccato; et a mostrare questo, finge che
+Lucifero abbia la testa, prima crestuta; la quale cresta
+significa la superbia e l'invidia che @e sua figliuola: ove @e la
+madre, incontanente vi nasce la figliuola; appresso, che abbia
+tre faccie, che significano li altri tre vizi e peccati
+spirituali; cio@e ira, avarizia, accidia: imper@o che finge che la
+faccia dinanzi sia vermiglia, e questa significa l'ira che @e
+accesa di furore; l'altra, la quale @e dalla spalla ritta, finge
+che sia smorta: imper@o che dice che @e tra bianca e gialla, e
+questa significa l'avarizia che @e sempre affamata; la terza, che
+@e dalla spalla manca, finge che sia nera, e questa significa
+l'accidia che @e sempre oscura.  E finge che ciascuna di queste
+faccie abbia due occhi; cio@e due respetti; cio@e che l'ira @a
+respetto disordinato et immoderato a conservare lo bene, e
+questo @e l'uno occhio; cio@e l'occhio ritto; l'altro immoderato
+respetto @e a cessare lo male, e questo @e l'occhio manco.  E
+cos@i l'avarizia @a due respetti; cio@e respetto immoderato del
+bene suo giudicandolo poco, e questo @e l'occhio ritto; l'altro
+respetto immoderato @e al bene altrui che non @ae, giudicandolo
+assai, e questo @e l'occhio manco.  E cos@i l'accidia @a due
+respetti; l'uno @e rispetto immoderato di partirsi dalla fatica,
+e questo @e l'occhio manco; l'altro respetto @e immoderato, @e
+accostarsi al riposo, e questo @e l'occhio ritto.  E finge che
+ciascuna faccia abbia sotto di s@e due grandissime alie non
+pennute di penne; ma di pongiglioni come il vilpistrello, a
+significar li levamenti che ciascuno di questi vizi e peccati
+@ae, che sono due.  Ecco l'ira @a due levamenti; cio@e turbazione
+e furore; le quale alie generano il vento della crudelt@a, come
+detto fu di sopra.  L'avarizia similmente @a due levamenti; cio@e
+rapacit@a e tenacit@a; e queste due alie generano il vento della
+ingratitudine, della quale si disse ancora di sopra.  E l'accidia
+ancora @a due levamenti; cio@e tristizia e negligenza; e queste
+due alie generano il vento dell'odio, del quale ancora fu detto
+di sopra.  E finge che queste alie abbiano pungiglione: imper@o
+che sempre stimolano e pungono; e non penne che alleggeriscono e
+lievano in alto s@i, che da queste alie; cio@e dalle due,
+nomina un vento; e cos@i da sei alie tre venti, onde dall'alie
+dell'ira ven@ia la crudelt@a, dall'alie dell'avarizia ven@ia la
+ingratitudine, e dall'alie dell'accidia veniva l'odio; e questi
+tre venti agghiacciavano Cocito, e li peccatori ch'erano in esso,
+a significare ch'era stata spenta ogni carit@a, ogni piet@a, et
+ogni cognoscenza in loro, o vero gratitudine.  E finge che l'alie
+erano grandissime, a denotare che eccessivamente crescono gli
+levamenti da vizi, e che da poco vengono ad assai; e per@o dice
+che le levava.  Finge che abbia tre bocche; cio@e ciascuna
+faccia, una, a denotare che ciascuno de' sopra detti peccati
+divora e tormenta molti uomini; cio@e quelli che vi caggiono, dei
+quali per esemplo ne porr@a di sotto tre.  Finge che abbiano
+tre menti, onde gocciola il pianto che viene dalli occhi, e la
+sanguinosa bava che gli esce di bocca, a significare che ciascuno
+di questi tre peccati e delli due altri capitali viene all'ultimo
+o a pianto o ad angoscia di penitenzia o di punizione eterna.
+Dice adunque cos@i il testo: ^L'una dinanzi~; avea di quelle tre
+faccie, ^e quella era vermiglia~; e quella @e la faccia
+dell'ira: imper@o che s@i fatto colore si conviene all'ira che
+accende; ^L'altre eran due, che s'aggiugneano a questa~;
+diinanzi l'una dall'un lato, l'altra dall'altro, ^Sovresso il
+mezzo di ciascuna spalla~; cio@e della destra e della sinistra; e
+notantemente dice ^che s'aggiugneano a questa~; a volere
+mostrare che' vizi sono concatenati l'uno con l'altro, e per@o
+dice: ^E si giungneano al sommo della cresta~; cio@e alla invidia
+e superbia, che @e significata per quel luogo.  ^La destra~;
+cio@e faccia, ^mi parea tra bianca e gialla~; cio@e pallida, e
+quella era la faccia dell'avarizia: imper@o che s@i fatto colore
+si conviene all'avarizia, che sempre sta affamata; ^La sinistra a
+vedere era tal, quali Vegnon di l@a, onde il Nilo s'avvalla~;
+cio@e era nera come sono li Etiopi, tra' quali discende il
+Nilo che @e uno de' fiumi che divide l'Egitto dall'Asia, e viene
+dell'oriente e non si truova la sua fonte, n@e il suo principio;
+e fa questa circuizione, a denotare l'Etiopia orientale, che ne
+sono due; una in verso l'oriente, e l'altra in verso l'occidente;
+e quella era la faccia dell'accidia: imper@o che s@i fatto colore
+si conviene all'accidia che fa stare l'uomo tristo e malinconico.
+^Sotto ciascuna~; cio@e faccia, ^uscian due grandi ali~; s@i
+ch'erano sei, ^Quanto si conveniva a tanto uccello~; questo
+dice, per mostrare che li levamenti non sono iguali; ma sono pi@u
+e meno, secondo la pravit@a dell'animo, e per@o le mette
+grandissime a costui: imper@o ch'ebbe maggiore pravit@a che
+avesse mai alcuno; e per@o dice: ^Vele di mar non vid'io mai
+cotali~; s@i grandi, come erano quelle ali.  ^Non avean penne~:
+per@o che s@i fatte alie non sono da levare in alto; ma da
+priemere in gi@u, e per@o dice: ^ma di vilpistrello Era lor modo~;
+cio@e di vilpistrello con pungiglioni, per istimolare e pugnere,
+^e quelle svolazzava~; per sventare, ^S@i che tre venti si
+movean da ello~; de' quali fu detto di sopra.  ^Quindi Cocito
+tutto s'aggelava~; per quelli tre venti s'aggelava lo fiume
+infernale che significa pianto, a significare che il pianto
+de' traditori non viene mai da ardore di carit@a; ma da gielo
+d'ingratitudine, crudelt@a et odio, ^Con sei occhi piangea~;
+perch'ogni faccia n'avea due, ^e per tre menti Gocciava il pianto
+e sanguinosa bava~; per li peccatori che finge di sotto che
+frangea coi denti, dice che la barba era sanguinosa.
+
+	|55-69.~  In questi cinque ternari
+l'autor compie la descrizione del Lucifero, e lo sollicitamento
+di Virgilio del partirsi, perch@e aveano compiuto il cammino
+primo, dicendo cos@i: ^Da ogni bocca~; di quelle tre lo
+Lucifero, ^dirompea coi denti~; suoi, ^Un peccatore a guisa di
+maciulla~; cio@e della gramola che dirompe lo lino: cos@i quello
+peccatore dirompea coi denti, ^S{@}i che tre ne facea cos@i
+dolenti~; dei peccatori traditori tre ne pone essere puniti
+diversamente dalli altri nelle tre bocche da Lucifero, a
+dimostrare che questi tre, come usarono eccessivo tradimento per
+rispetto delle persone tradite; cos@i eccessivamente sieno puniti
+per rispetto degli altri: imper@o che tradirono li maggiori
+signori che fossono nel mondo; cio@e Giuda Scariot lo nostro
+signore Ges@u Cristo, che fu lo maggiore tradimento che mai
+potesse essere; e Bruto e Cassio che tradirono Giulio Cesare
+imperatore, che fu il maggiore signore che avesse il mondo
+allora; et a ciascuno appropria la sua bocca, per notare alcuna
+circustanzia di peccato che usarono in quel tradimento, e per@o
+dice: ^A quel dinanzi~; cio@e a Giuda, ^il mordere era nulla~;
+che facea coi denti, ^Verso il graffiar~; ch'elli facea con
+li artigli delle branche sue, ^che tal volta la schiena Rimanea
+della pelle tutta brulla~; cio@e tutta netta, che ne la
+portavano li unghioni.  ^Quell'anima lass@u ch'@a maggior pena~;
+tra per lo rompere coi denti, e per lo graffiare, ^Disse il
+Maestro~; cio@e Virgilio, ^@e Giuda Scariotto~: nota @e la
+storia del tradimento di Giuda a tutti i Cristiani, e mettelo
+nella bocca dell'ira, perch@e usoe ancora ira in quello
+tradimento, ^Che il capo @a dentro, e fuor le gambe mena~; e
+questo finge l'autore per maggiore pena, perch@e il suo fu
+maggiore peccato.  ^Delli altri due che @anno il capo di
+sotto~; sicch@e sono dentro con le gambe nelle bocche, ^Quel che
+pende dal nero ceffo, @e Bruto~; e questo si dee intendere che
+fosse accidioso oltre al tradimento: ^Vedi come si storce, e
+non fa motto~; per la pena finge che si storcea, ^E l'altro @e
+Cassio, che par s@i membruto~; nell'altra bocca; cio@e
+pallida: perch@e era avaro finge ch'elli fosse con le gambe.
+Questi due; cio@e Bruto e Cassio tradirono Giulio Cesare
+imperadore: nota @e ancora la storia, e per@o la lascio.  E poi
+Virgilio ammonisce e conforta Dante dello spaccio, ammonendolo del
+tempo e dicendo: ^Ma la notte risurge~; cio@e ritorna, e cos@i
+mostra che si facesse notte; e per questo pare che una notte et
+uno di', infino al principio dell'altra notte, finga l'autore che
+penasse a cercare l'inferno fino al centro: imper@o che da sera
+entr@o nel cammino, come appare nel principio del secondo
+canto; cio@e: ^Lo giorno se n'andava, e l'aer bruno~ ec.: et ora
+finge che la notte ritorni, e di sopra nel XX canto mostra che la
+prima notte fosse passata; e cos@i mostra che stesse una notte et
+uno di' infino al principio dell'altra notte. ^et oramai~; cio@e
+oggimai, ^@E da partir~; cio@e dello inferno, ^che tutto aven
+veduto~; cio@e tutto ci@o ch'era dello inferno a vedere in sino
+al centro della terra.  E qui finisce la prima lezione: seguita
+la seconda.
+
+	|70-139.~  ^Come a lui piacque.~ Questa @e la seconda
+lezione et ultima di questo canto e della prima cantica; nella
+quale lezione finge la sua partita dell'inferno, e dividesi in sei
+parti: imper@o che prima finge il modo, come discese al centro
+della terra, e come lo pass@o; nella seconda pone come, passando di
+l@a del centro, Virgilio l'ammonisce che si attenga bene, e come
+lo posoe gi@u, quivi: ^Attienti ben~ ec.; nella terza pone come,
+vedendo le gambe dello Lucifero, si maraviglia, e come Virgilio
+lo conforta ad andare pi@u in su, quivi: ^Io levai li occhi~ ec.;
+nella quarta pone com'elli domanda Virgilio, per essere chiaro,
+quivi: ^Non era caminata~ ec.; nella quinta pone la dichiarazione
+che fa Virgilio, quivi: ^Et elli a me~ ec.; nella sesta descrive
+lo luogo unde usc@i della terra, e pervenne di sopra alla terra
+nell'altro emisperio, quivi: ^Luogo @e l@a gi@u~ ec.  Divisa
+adunque la lezione, ora @e da vedere la sentenzia litterale la
+quale @e questa.
+
+	Come Virgilio m'ebbe ammonito del partire, dice l'autore
+come detto fu di sopra, io li avvinghiai il collo; et elli,
+quando li parve tempo e luogo, s'appigli@o alle vellute coscie
+del Lucifero, e di vello in vello discese tra 'l pelo del
+Lucifero e le croste della ghiaccia che gli erano d'intorno.  E
+quando Virgilio et io fummo al principio della coscia ov'ella
+s'annoda con l'anche, Virgilio con fatica si volse e mise il
+capo quivi, ove avea li piedi; e voltatosi cominci@o ad appigliarsi
+al pelo del Lucifero e cominci@o a salire, onde Dante dice ch'elli
+si credea ancora tornare nell'inferno.  Et allora Virgilio lo
+conforta, e cos@i confortandolo dice che Virgilio usc@i fuori d'un
+foro d'un sasso e pose Dante a sedere in su l'orlo del buco, e
+poi pass@o a lui.  Allora dice l'autore che lev@o li occhi,
+credendosi vedere lo Lucifero com'elli l'avea veduto prima, et
+elli vide pure le gambe tenere in su; e dice che s'elli divenne
+travagliato, pensilo la gente grossa, che non vede quale @e quel
+punto ch'egli avea lasciato.  Allora Virgilio lo conforta
+ch'elli si lievi, considerando che la via era lunga e 'l cammino
+malvagio, e gi@a era alta mattina; e descrive lo luogo quivi,
+dove erano, ch'era oscuro et avea mala via e sconcia.  E finge
+che andando, domanda Virgilio delle cose ch'aveano lasciate della
+ghiaccia del Lucifero, ch'era volta cos@i sottosopra, e della
+mutazione del tempo, che di l@a era sera, e quivi ove si truova
+ora era mattina.  A che Virgilio risponde che l'immaginare suo lo
+ingann@o, ch'elli si credea essere di l@a dal centro della terra,
+ov'elli s'apprese al vello del Lucifero; et aggiugne a
+dichiaragione che tanto fu di l@a, quando discese, e quando elli
+si volse allora si pass@o il centro; e che era giunto nell'altro
+emisperio, che @e opposito a quello che coperchia la gran terra
+in sul colmo della quale fu crucifisso Cristo; e che era co'
+piedi in su quel tondo, che dall'altro lato avea la Giudecca
+ch'elli avea lasciato; e che non si maravigliasse del tempo:
+imper@o che quivi era da mattina, quando di l@a era da sera; e
+che non si maravigliasse del Lucifero che cos@i era fitto, come
+quando lo vide, e ch'elli cadde col capo dinanzi da quello
+emisperio; e che la terra che prima di l@a era fuori dell'acqua,
+fugg@i all'altro emisperio e ricopersesi del mare per paura di
+lui, e forse che lasci@o questo luogo voto, per fuggire il
+Lucifero e ricorse di l@a.  E poi che @a posto la risposta di
+Virgilio, descrive il luogo onde usc@i, dicendo ch'@e uno luogo
+remoto da Belzebub, tanto grande quanto era mestieri a venire
+alla superficie della terra; e dice che non si vedea per
+l'oscurita che v'era; ma sentivasi per lo suono d'un'acqua che
+quivi discendeva.  E per quello buco oscuro finge l'autore
+che ritornasse fuori della concavit@a della terra alla superficie
+per uno buco, che vidono tondo, che mostrava loro la chiarezza
+del cielo; e per quel buco uscie prima Virgilio e poi Dante, a
+riveder le stelle della notte: per@o che allora quivi era notte.
+E qui finisce lo canto: ora @e da vedere il testo coll'allegorie.
+
+	|70-81.~  In questi quattro ternari
+l'autor nostro finge che, poi che Virgilio l'avea confortato del
+partire, elli diede opera a discendere al centro; e per@o dice:
+^Come a lui piacque~; cio@e Virgilio, ^il collo gli avvinghiai~;
+io Dante, ^Et el~; cio@e Virgilio, ^prese di tempo e luogo
+poste~; cio@e @a posto lo tempo quando si dovesse aggrappare,
+e luogo dove si dovesse appigliare, ^E quando l'alie furo aperte
+assai~; cio@e del Lucifero, delle quali fu detto di sopra,
+^Appigli@o s@e~; cio@e Virgilio, ^alle vellute coste~; del
+Lucifero.  ^Di vello in vello gi@u discese poscia~; cio@e
+Virgilio, avendo avvinghiato Dante al collo, ^Tra il folto pelo~;
+del Lucifero, ^e le gelate croste~; della ghiaccia che gli era
+d'intorno.  ^Quando noi~; cio@e Virgilio et io Dante, ^fummo
+l@a, dove la coscia~; del Lucifero, ^Si volge a punto in
+sul grosso dell'anche~; cio@e alla fine dell'anche, ove
+s'incaviglia e s'annoda la coscia, ^lo Duca~; cio@e Virgilio, ^con
+fatica e con angoscia Volse la testa ov'elli avea le zanche~;
+perch'era scieso al centro, li convenia montare, imper@o finge che
+si volgesse, ^Et aggrappossi al pel~; del Lucifero, ^com'uom
+che sale~; perch@e finge che insino a quivi era disceso, ^S@i che
+in Inferno io credea tornar anche~; dice Dante che si credea
+tornare ancora in Inferno, perch@e lo vedea salire quivi, ove
+prima era disceso; e questa @e fizione dell'autore, per fare
+verisimile suo poema, e non ci @e allegoria.
+
+	|82-87.~  In questi due ternari l'autor
+nostro finge che Virgilio, salendo l'ammonisca dell'attenersi bene,
+e come lo pos@o in sul sasso ch'era fuor del centro, dicendo:
+^Attienti ben~; Dante, ^Disse il Maestro~; cio@e Virgilio,
+^ansando~; cio@e angosciando, ^come uom lasso~; cio@e stanco; e
+puossi intendere allegoricamente ch'elli intendea la ragione sua e
+l'ingegno suo affaticato dalla materia, ^che per cotali scale~;
+come sono queste del Lucifero, che ci @e convenuto scendere e
+salire per li velli suoi faticosamente, ^Conviensi dipartir da
+tanto male~: quanto @e l'inferno.  E moralmente si pu@o notare
+che ogni fatica si dee sostenere volentieri, per cessarsi dal
+male; et allegoricamente che, volendosi l'uomo partire
+dall'inferno; cio@e dal peccato che mena l'anima all'inferno, dee
+discendere e salire per li peli del Lucifero; cio@e dee
+considerare la sua bellezza e grandezza, quanta fu quando fu
+creato; e quanto fu sozzo e misero e vile, quando cadde
+per lo peccato.  ^Poi usc@i fuor~; Virgilio con
+lui, ^per lo foro d'un sasso~; nel quale era confitto lo
+Lucifero, in sul mezzo del quale era il centro della terra, ^E
+puosesi in sull'orlo~; di quel sasso, ^a sedere~; ^Appresso porse a
+me l'accorto passo~; venendo quivi ov'io era a sedere, lasciato lo
+Lucifero.
+
+	|88-96.~  In questi tre ternari finge
+l'autore che, posato che fu in sul sasso fuori del centro, elli si
+travagli@o tutto, vedendo le gambe del Lucifero, e per@o dice:
+^Io levai li occhi~; cio@e io Dante, stando a sedere, ^e credetti
+vedere Lucifero, com'io l'avea lasciato~; cio@e col capo e con
+l'alie, ^E vidigli le gambe in su tenere~; perch'era passato il
+centro della terra dell'altro emisperio.  ^E s'io divenni
+allora travagliato~; vedendo questa mutazione, ^La gente grossa
+il pensi, che non vede Qual @e quel punto, ch'io avea passato~;
+cio@e lo centro della terra; quasi dica: Li uomini sottili non se
+ne maravigliano: imper@o che veggono la cagione; ma li uomini
+grossi s@i.  ^Levati su, disse il Maestro, in piede~; a me Dante,
+e cos@i mi confort@o dell'andare: ^La via @e lunga~: imper@o che
+aveano a tornare nel nostro emisperio, come si mosterr@a di sotto
+che tornarono, ^el cammino @e malvagio~: imper@o che non vi si
+vedea lume et era la via mal piana, ^E gi@a lo Sole a mezza terza
+riede~; e questo dice: imper@o che, quando si part@i del nostro
+emisperio, era gi@a venuta la notte; et ora ch'era nell'altro,
+era presso a mezza terza: imper@o che, quando di qua si fa notte,
+di la si fa di': e come di qua ne viene la notte; cos@i di l@a ne
+viene lo di'.
+
+	|97-105.~  In questi tre ternari l'autor
+nostro finge che domandasse Virgilio, per uscire d'errore, di tre
+cose; e per@o dice, mostrando prima la difficult@a del cammino:
+^Non era caminata di palagio~; cio@e non era sala di palazzo: i
+signori usano di chiamare le loro sale caminate, massimamente in
+Lombardia; e questo dice, perche le sale de' palagi de' signori
+sogliono essere ben piane e ben luminose, e quivi era lo spazzo
+disiguale et aspro, et eravi grande oscurit@a, ^L@a 'v'eravam~;
+cio@e Virgilio et io, ^ma natural burella~: cio@e luogo oscuro,
+ove non si vede raggio di sole s@i, che v'@e poco lume et il
+terreno vi @e molle e diseguale, e per@o dice: ^Che avea mal
+suolo, e di lume disagio~; come la burella.  ^Prima che
+dell'abisso mi divella~; cio@e prima ch'io mi spacci di questo
+luogo profondo, ^Maestro mio, diss'io quando fui dritto~; cio@e
+poi ch'io fui levato in piedi, ^A trarmi d'erro un poco mi
+favella~; questo finge l'autore, per dichiarare li lettori, se
+sopra questo prendessono dubbio: ^Ove la ghiaccia~; dice Dante a
+Virgilio: Ove @e quella ghiaccia, sopra la quale io andava,
+ov'erano fitti li traditori?  ^e questi~; cio@e Lucifero, ^come
+fitto Di sotto sopra?~  Questo dice, per mostrare che li paresse
+in quel montare esser montato, o vero ritornare, in su
+l'emisperio del quale era uscito, dove avea veduta la ghiaccia et
+il capo del Lucifero s@i, che essendo nel detto luogo, li
+sarebbe necessario che fosse volto sottosopra, vedendo ora le
+gambe quivi, ove vedeva prima il capo.  ^e come in s@i poca ora~:
+poco spazio era che, essendo nell'emisperio nostro, Virgilio avea
+detto che la notte risurgea; e per@o dice: ^e come in s@i poca
+ora, Da sera a mane @a fatto il Sol tragitto~; come dicesse: Pur
+test@e; o vuogli dire: Ora era sera, come dicesti, et io veggio
+diventato cos@i tosto mattina?  E questo era verisimile, come si
+mosterr@a di sotto che, quando nel nostro emisperio comincia la
+notte, nell'altro comincia il di'; e Dante in poco spazio di
+tempo era passato dall'uno emisperio all'altro tanto, ch'era in
+su la mezza terza dal lato di l@a, di qua forse un'ora e mezza
+di notte; e per@o dice che il sole li pareva ito subito da sera a
+mane, non per@o che cos@i fosse; ma pareali, perch@e avea mutato
+emisperio.
+
+	|106-126.~  In questi sette ternari
+finge l'autore Virgilio risponda alle sue domande che @a fatte di
+sopra, e prima premette le cagioni dell'errore che @e la falsa
+imaginazione, e questa toglie via, dicendo cos@i prima: ^Et
+elli~; cio@e Virgilio, disse, ^a me~; cio@e Dante: ^Tu imagini
+ancora D'esser di l@a dal centro~: cio@e della spera ^mundi~,
+che per la fizione che pone di sotto, se 'l non fosse la terra
+equalmente da ogni parte in mezzo della spera, come dimostra
+quella fizione, addiverrebbe che il centro del mondo non sarebbe
+a punto nel mezzo della terra; ma sarebbe in quel luogo della
+terra, ove fosse il punto mezzo di tutte le spere; e per@o si dee
+intendere come detto @e.  ^ov'io mi presi~; dice Virgilio, ^Al pel
+del vermo reo~; cio@e del Lucifero, il quale egli chiama vermo:
+imper@o che come il vermo rompe e rode e guasta lo legno;
+cos@i elli corruppe il mondo; e ben dice ^reo~, perch'elli
+indusse ogni ret@a, vizio e peccato, ^che il mondo fora~;
+cio@e penetra, quanto alla lettera: imper@o che, cadendo for@o
+la terra e rimase nel centro, ove vanno tutte le gravi cose;
+et allegoricamente elli fu colui che corruppe primamente il
+mondo a' vizi e peccati, et ancora corrompe s@i, che ben dice
+che fora il mondo; et intende esser di l@a dal centro; cio@e
+dall'emisperio nostro, ove siamo noi al presente. ^Di l@a fosti
+cotanto~; tu, Dante, ^quant'io scesi~; attenendomi a' peli del
+Lucifero, quando m'avvinghiasti il collo: ^Quand'io mi volsi~;
+come appare di sopra, ^tu passasti il punto~; e finge che si
+volgesse, per affermare quello che dicono i filosofi; cio@e che
+infino al centro della terra, ogni cosa scende, e poi monta
+quando @e di l@a, ^Al qual si traggon d'ogni parte i pesi~:
+imper@o che come dice il Filosofo: Di natura alle cose gravi
+s'appartiene di discendere s@i, che da ogni parte del cielo
+discenderebbono infino al centro, se la terra fosse forata da
+ogni superficie, e di sotto e di sopra e d'amendu' li lati
+discenderebbe la cosa grave infino al centro.  ^E se' or sotto
+l'emisperio giunto, Ch'@e apposito a quel, che la gran Secca~;
+cio@e la terra a quello emisperio che cuopre; cio@e
+l'emisperio nostro, ^Coverchia~; cio@e cuopre; cio@e
+l'emisperio nostro del nostro cielo cuopre la terra che appare
+fuori dell'acque, che appare sopra il mare la quarta parte, ^e
+sotto il cui colmo~; cio@e dell'emisperio, che @e il cielo che
+cuopre la terra, ^consunto~; cio@e morto, ^Fu l'uom che nacque
+e visse sanza pecca~; cio@e Cristo, nel quale in veruno modo fu
+peccato, n@e nacque di peccato originale come gli altri uomini,
+n@e fece mai peccato e fu crocifisso in Gerusalem, ove si dice
+essere nel mezzo del mondo, o vero della superficie della terra
+s@i, che a punto sopra essa viene lo colmo del cielo, che
+inchiude la terra; cio@e lo stellifero.  ^Tu @ai li piedi in su
+piccola spera~; cio@e in piccola rotondit@a: spera @e corpo
+ritondo da ogni parte; onde finge l'autore ch'altrettanto fosse
+il giro del tondo in sul quale Dante era co' piedi, quanto era
+quello ove era di qua il quarto giro intorno al centro che si
+chiama, secondo che fu detto di sopra, la Giudecca; e per@o dice:
+^Che l'altra faccia~; cio@e di questa spera, ^fa della Giudecca~;
+cio@e di quel giro, che @e chiamata Giudecca: questo quarto giro
+non avea ancora nominato l'autore, e per@o lo nomina qui e
+chiamalo Giudecca: imper@o che quivi si puniscono li traditori,
+che tradiscono li loro benefattori o signori o minori o pari che
+si sieno; e per@o Giuda Scariot tradie lo suo maestro e signore e
+benefattore; cio@e Cristo che gli aveva fatto cotanto bene e
+perdonatili s@i grandi peccati, quanto e quali elli avea fatti
+che sono noti nella istoria sua, e fattolo suo descepolo e
+spenditore, per@o si denomina quel giro Giudecca dal maggiore
+traditore che dire si possa, avendo rispetto cui esso trad@i; et
+@e si noto questo tradimento,, che per@o lo lascio.  Mostrata la
+falsa imaginazione che Dante avea, dichiara li errori che quindi
+seguitano, dicendo: ^Qui @e da man, quando di l@a @e sera~;
+quasi dica: Non @e maraviglia che tu veggi ora lo sole, che
+quando era di l@a incominci@o la notte, e questo chiaro si vede
+che quando nell'uno emisperio @e notte conviene che nell'altro
+sia il di', per la circulare revoluzione che fa il sole, il quale
+con la sua presenzia fa il di', e con la sua assenzia fa la
+notte.  ^E questi che ne fe scala col pelo~; cio@e lo Lucifero,
+al cui pelo attenendomi, io discesi, e cos@i fece la scala al
+mio discenso, ^Fitto @e ancora s@i, come prima era~; cio@e
+nella ghiaccia col capo verso all'altro emisperio, e con li piedi
+verso questo, bench@e la crosta della ghiaccia fosse scostata da
+lui: puossi ancora dire fitto nel sasso, che @e il centro della
+terra forato per lo suo {ca}dimento, ^Da questo parte~; cio@e
+dall'emisperio contrario al nostro, ove finge Dante che allora
+era, ^cadde gi@u dal Cielo~; quando fu straboccato per la sua
+superbia: finge l'autore, per fare la sua poesi verisimile, che
+fosse straboccato dell'altro emisperio, ^E la terra, che pria
+di qua si sporse~; cio@e la terra che apparia di qua di fuori
+dell'acqua; e dice ^di qua~, parlando di quello emisperio nel
+quale finge che allora fosse, che @e contrario al nostro, ^Per
+paura di lui~; cio@e del Lucifero, ^fe del mar velo~; cio@e del
+mare oceano coprimento di s@e, appiattandosi sotto lui.  Et @e
+qui da notare che l'autore finge che la terra apparisse nella
+creazione del mondo fuori dell'oceano dell'altro emisperio, come
+ora fa di questo; e che poi, quando cadde lo Lucifero da quella
+parte, ella s'appiattasse sotto il mare et approssimandosi al
+nostro emisperio; e non era tanto quello ch'era sporto di l@a
+fuori del mare, che avesse altrettanto sporto di qua: imper@o che
+v'era la grande altezza dell'acqua; ma approssimossi alla
+superficie dell'acqua del nostro emisperio.  Et a questo modo la
+spera della terra sarebbe mutata e fatta pi@u su, e non sarebbe
+lo centro suo centro di tutte le spere celesti, che non n'@e
+vero; ma elli disse questo poeticamente, fingendo per fare
+verisimile la sua poesia: e come prima di qua non era, se non
+acqua; ora cos@i di l@a non @e se non acqua, e cos@i si tiene per
+li scentifichi, bench@e l'autore finga poeticamente che ancora la
+terra rifuggisse e ricorresse all'altro emisperio e facesse
+un'isola, ove finge essere lo monte di purgatorio, e 'l paradiso
+^delitiarium~.  ^E venne all'emisperio nostro~; cio@e tutta la
+spera della terra si fe in verso noi, dice Virgilio a Dante, s@i
+che quivi v'@e primavera, di lungi dal nostro emisperio, e molto
+sotto l'acqua venne presso alla superficie dell'acqua, ^e forse,
+Per fuggir lui~; cio@e lo Lucifero, ^lasci@o qui il luogo voto~;
+ora rende ragione, perch@e lo luogo dell'inferno ov'egli era, era
+vacuo, dicendo che la terra che era, ove ora @e lo Lucifero, per
+fuggire lui and@o su e lasci@o lo luogo intorno al Lucifero
+vacuo; e fu tanta questa terra, ch'ella soprabond@a l'acqua
+del mare e parve fuori del nostro emisperio tanta, quanta ella
+@e; e questo sarebbe cagione, perch@e tanto vacuo @e nella terra,
+quanto finge l'autore che sia l'inferno che poeticamente @a
+descritto; et ancora ricorse suso nell'altro emisperio, a fare
+l'isola e 'l monte del purgatorio, sopra lo quale finge essere il
+paradiso ^delitiarum~.  E finge l'autore questo, per fare
+verisimile la sua poesia; et in segno ch'egli fingesse,
+notantemente dice nel testo: ^e forse, Quella che par di l@a~;
+cio@e la superficie della terra, che si vede fuor dell'acqua dal
+nostro emisperio, ^e su ricorse~; cio@e e quella terra che
+ricorse nell'altro emisperio, che fa l'isola e il monte del
+purgatorio forse, per fuggire lo Lucifero, ^lasci@o qui il luogo
+voto.~  E ben s'intende dell'altro emisperio, notando lo luogo
+ove finge l'autore che fosse Virgilio, quando disse le predette
+parole; et ancora in quanto dice: ^Quella che par di l@a~; ove
+intende del nostro emisperio.
+
+	|127-139.~  In questi quattro ternari
+et uno verso l'autore nostro dimostra la sua tornata
+dell'inferno, descrivendo in prima lo luogo, e poi aggiungendo lo
+modo del tornare; e dice prima cos@i: ^Luogo @e l@a gi@u~; cio@e
+di l@a dal centro, ^da Belzebub remoto~; cio@e da Lucifero, che
+@e chiamato Belzebub; cio@e lo idio delle mosche: imper@o che,
+quando si facea sacrifizio al primo idolo, per lo sangue le
+mosche vi correano e montavano addosso all'idolo che si chiama
+Belo, e Zebub s'interpetra mosca; s@i che era detto idio delle
+mosche.  E perch@e nell'idoli parlavano li demoni, per@o piacque
+all'autore chiamare lo Lucifero Belzebub.  ^Tanto quanto la tomba
+si distende~; questa tomba @e il luogo voto, che l'autore finge
+essere intorno a Lucifero, lo quale @e lo nono cerchio che di sopra
+chiam@o pozzo, che era voto infino al fondo quivi, ove @a posto i
+traditori; et in su la ripa d'intorno @a posti li giganti fitti
+nella ghiaccia; e cos@i figura che sia in tondo, voto dall'altro
+lato del centro, e che ritornando al mondo, elli si scost@o da
+Lucifero et and@o alto su per la tomba infino alla superficie
+dell'altro emisperio.  E quindi Virgilio et elli uscirono della
+concavit@a della terra, salvi per quel cammino oscuro inverso
+l'altro emisperio tanto, che vennono ad uno buco tondo; unde
+uscirono, tornando nel mondo, dalla parte dell'altro emisperio,
+in una isola che finge essere circundata dal mare oceano, nella
+quale finge essere uno monte, intorno al quale monte finge
+l'autore il purgatorio essere di grado in grado, come si
+mosterr@a nella seguente cantica, et in cima del monte essere lo
+paradiso ^delitiarum~.  E per@o descrivendo lo luogo, dice che
+quel luogo onde andarono @e tanto di lunge del Lucifero, quanto
+era lo giro del pozzo, ^Che~; cio@e del quale luogo, ^non per
+vista~: imper@o che non si pu@o vedere per lo buiore che v'@e;
+^ma per suono @e noto~; cio@e che si conoscea al suono dell'acqua;
+ma non perch@e si vedesse, ^D'un ruscelletto~: @e quello che
+l'autore @a finto di sopra nel canto XIV, che venga del mondo e
+vada nell'inferno e crei di s@e Acheronte e Stige e Flegeton, e
+poi discenda giuso al centro della terra e faccia Cocito, che
+s'agghiaccia per li venti dell'alie dello Lucifero, et entri nel
+fondo del pozzo di questo luogo, che l'autore descrive. ^che~;
+cio@e il quale ruscelletto, ^quivi~; cio@e in quello fondo,
+^discende~; venendo di su dal mondo, e dalli altri fiumi
+infernali ch'elli crea, ^Per la buca d'un sasso, ch'egli @a
+roso~: ora pone lo luogo, onde questo roscelletto entra nel pozzo
+al centro della terra, ^Col corso che l@i~; cio@e quivi, a quel
+sasso, ^avvolge~; questo ruscelletto che descende, girandosi per
+li giri e cerchi dell'inferno, e quando a traverso come detto fu
+di sopra; ma quivi girava intorno al pozzo alquanto, ^e poco
+pende~; che non cadeva quivi molto da alto.  ^Lo Duca et io~;
+cio@e Virgilio et io Dante, ^per quel camino ascoso~; cio@e
+occulto per le tenebre che vi sono, ^Entrammo~; per montare suso,
+come in fino al centro eravamo scesi, ^a ritornar nel chiaro
+mondo~; cio@e dall'altro emisperio pigliamo la via, che ci
+rimenava al chiaro mondo, e questo dice per rispetto delle
+tenebre, che finge che fossono quivi; ^E sanza cura aver d'alcun
+riposo~; questo dice, per mostrare che la tornata fu sanza punto
+posarsi, ^Salimo suso, el~; cio@e egli, ^primo et io secondo~;
+cio@e Dante; e dice salimmo, per mostrare che, come erano scesi
+entrando nell'inferno; cos@i ora salivano uscendone fuor,
+^Tanto~; cio@e salimo, che noi venimmo al sommo, ^ch'io viddi~;
+dice Dante, ^delle cose belle~; cio@e delle stelle, ^Che porta il
+Ciel, per un pertugio tondo~; e per questo mostra che uno di' e
+parte d'una notte penasse a salire et uscire fuori dell'inferno,
+dal centro infino alla superficie della terra che @e nell'altro
+emisperio; nel quale uscito trov@o la notte, e di l@a dal centro
+trov@o lo sole gi@a a mezza terza; sicch@e come una notte et uno
+di' era stato di qua dal centro nel nostro emisperio
+discendendo; cos@i di l@a dal centro nell'altro emisperio stette
+un di'e gran parte della notte, montando su alla superficie
+della terra dell'altro emisperio: imper@o che dice che vide delle
+stelle, sicch@e non era ancora finita la notte; ma appariva
+l'aurora, come si mosterr@a nella seguente cantica.  ^E quindi~;
+cio@e per quel pertugio tondo, ^uscimo~; cio@e Virgilio et io
+Dante nell'altro emisperio, ove non era ancora finita la notte
+che v'era incominciata, poi che pass@o il di' incominciato,
+quando pass@o lo centro della terra; ma bene era presso al fine
+la notte, ^a riveder le stelle~; le quali non aveano vedute
+mentre ch'erano stati nell'inferno.  E qui finisce lo XXXIV canto
+e la prima cantica.  ^Deo gratias, amen.~  Compiuto nelli anni
+del nostro Signore Ges@u Cristo MCCCCVII nel XV di' d'Aprili.

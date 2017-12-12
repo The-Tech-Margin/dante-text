@@ -1,0 +1,324 @@
+	|1.  Simon mago~ di Samaria, vedendo che per la semplice 
+imposizione delle mani degli apostoli Pietro e Giovanni sul capo 
+dei battezzati nel nome di Ges$u questi ricevevano lo Spirito 
+Santo, offr$i loro danaro perch$e a lui dessero questa potenza. 
+Ma Pietro gli rispose: <Vadano i tuoi danari teco in 
+perdizione, dacch$e tu hai stimato che il dono di Dio si 
+acquisti con danari> (^Atti degli Apostoli~, cap. VIII).  Da 
+questo Simone furon detti Simoniaci coloro che fanno mercato 
+delle cose sacre, e Simon$ia, tale mercato. 
+ 
+	|2-4.  Che le cose di Dio~ ec.: I beni spirituali devono 
+esser concessi soltanto ai buoni, e voi invece ne fate mercato e 
+pervertite (|avolterate~), prostituendoli col concederli a 
+persone indegne. 
+ 
+	|7-9.  Gi@a eravamo~ ec.: Gi@a eravamo alla terza bolgia 
+e al mezzo del ponte che sovrasta ad essa: <al dosso dell'arco, 
+ove lo scoglio pi@u sovrasta> (C. XVIII, 110-111).  Spiegare 
+|tomba~ per sommit@a del ponte, oltre che essere una 
+stiracchiatura, verrebbe a dire ci@o che @e detto chiaramente 
+nei due versi seguenti.  E d'altra parte la parola |tomba~ qui 
+molto conviene alla terza bolgia, dove sono sepolti, ^hanno 
+loro cimiterio~ i simoniaci. 
+ 
+	|10-12.  O somma sapienza~ ec.: Il Poeta dallo 
+spettacolo dell'<orribil arte di giustizia> nei simoniaci 
+assorge ammirato e commosso alla considerazione dell'arte divina 
+nell'Universo intero; e per@o chiama |somma~ la Sapienza donde 
+tale arte procede.  Questo salire dal particolare al generale 
+sempre avviene ogni qualvolta l'animo umano @e vivamente commosso 
+da un fatto che oltrepassa ogni sua aspettazione. 
+ 
+	C'@e in questa apostrofe un compiacimento fiero e 
+sdegnoso e un sentimento di ammirazione e gratitudine a Dio per 
+aver saputo cos$i bene colpire rei di tal fatta.  In nessun'altra 
+apostrofe alla divina giustizia troviamo tanto: C. VII, 19-21; 
+XIV, 16-18; XXIV, 119-120. 
+ 
+	|16-21.  Non mi parean~ ec.: Si veda ci@o che a 
+proposito di questi versi s'$e detto nell'^Introduzione~ 
+(^Composizione e pubblicazione della~ Commedia).  Qui poi 
+crediamo opportuno aggiungere che male interpretano coloro con 
+l'affermare che i pozzetti del Battistero di San Giovanni erano 
+fatti perch$e i sacerdoti battezzatori v'entrassero per immergere 
+nella vasca i bambini, e difendersi cos$i dalla calca.  Strano 
+veramente che non ci fosse altra via che questa; pi$u strano 
+ancora che, secondo si afferma, i sacerdoti vi si dovessero 
+cacciar dentro entrandovi coi piedi per di sopra fino alla 
+cintola; stranissimo poi che, per esserci caduto un infante, o 
+sia pure un fanciullo, non fosse possibile trarlo fuori se non 
+rompendo il pozzetto, che pur dovendo contenere la persona di un 
+sacerdote, doveva avere una certa capacit@a.  Se a tutto ci@o si 
+aggiunge poi che nei pozzetti v'era l'acqua benedetta, e lo dice 
+chiaramente Dante con le parole |per un dentro~ che |vi 
+annegava~, come si pu@o ammettere che essi fossero fatti perch$e 
+v'entrassero i sacerdoti?  N$e il verso |fatti per loco 
+de' battezzatori~ @e tale da non potersi interpretare nel senso 
+che a noi sembra veramente ragionevole, perch$e rispondente a 
+tutto il contesto, cio@e che i pozzetti attorno alla vasca erano 
+appunto il luogo dove i sacerdoti compivano la funzione del 
+battesimo.  La vasca serviva di serbatoio dell'acqua 
+battesimale, parte della quale era distribuita opportunamente ai 
+vari pozzetti, dove avveniva l'immersione.  Cos$i si aveva 
+maggiore facilit@a di riscaldarla debitamente, come si usa anche 
+oggi, non ostante che il battesimo non si faccia pi$u per 
+immersione. 
+ 
+	|24.  Infino al grosso~: Fino al polpaccio. 
+ 
+	|27.  Ritorte~: Legami attorcigliati, di vimini; 
+|strambe~: altra specie di legami intrecciati, probabilmente 
+fatti con erba lunga e disseccata. 
+ 
+	|28-30.  Qual suole~ ec.: La fiamma appiccata 
+all'estremit@a d'una cosa unta lieve trascorre da un capo 
+all'altro, lambendola e avvolgendola tutta all'esterno.  Cos$i 
+bruciavano le piante dei piedi di quei dannati, movendo la 
+fiamma a fior di pelle dalle calcagna alla punta delle dita.  
+Singolare spettacolo offre questa bolgia <tutta seminata di piedi 
+ardenti come torce: v'@e forse qualche cosa di chiesastico in 
+una simile illuminazione, e forse una punta di sarcasmo anche in 
+ci@o> (D'OVIDIO, ^Nuovi studi~ ec., p. 358).  Si potrebbe 
+stabilire un rapporto tra gli eretici e i simoniaci, sacrileghi 
+tutti, e condannati <simile con simile> dentro avelli e buche, 
+e alla pena del fuoco.  Si noti poi che i piedi pi$u rosseggianti 
+e che pi$u scalciano sono quelli che sporgono dalla buca dei 
+Papi. 
+ 
+	|33.  Succia~: Succhia, lambisce.  Si noti la 
+rispondenza di questo verso con la similitudine precedente. 
+ 
+	|37-39.  Tanto m'@e bel~ ec.: <Or va', ch$e un sol 
+volere @e d'ambedue; Tu duca, tu segnore e tu maestro> (C. II, 
+139-140). -- |E sai quel che si tace~: <Per@o a la dimanda che mi 
+faci Quinc'entro satisfatto sara tosto E al disio ancor che tu mi 
+taci> (C. X, 16-18). -- Questo fare complimentoso e nello 
+stesso tempo tutto confidenziale di Dante con Virgilio mostra il 
+vivo desiderio che egli aveva di parlare con quel capofitto.  Egli,
+come nel Cerchio degli eretici aveva timidamente domandato se
+potevasi vedere la gente che giaceva ne li sepolcri, da che questi 
+erano aperti e nessuno v'era a guardia che lo impedisse (C. X, 
+7-9), qui pure si limita a domandare chi fosse colui che 
+pi$u smaniosamente agitava i piedi.  E Virgilio che avea inteso il
+suo <parlar coverto>, che cio@e avea letto il suo desiderio, 
+manifestato con tanta temperanza, lo compiace a pieno. 
+ 
+	|40-42.  Argine quarto~: cio@e l'Argine che divide la 
+terza bolgia dalla quarta. 
+ 
+	|Mano stanca~: Mano sinistra, detta anche |stanca~ 
+perch$e opera meno della destra. 
+
+	|Arto~, dal latino ^Arctus~, Stretto.  Il fondo della 
+bolgia, dice il Poeta era stretto, e ci@o a causa del 
+pendio dei due argini.  Si ricordi che i fori erano sparsi ^per 
+le coste e per lo fondo~ (v. 1). 
+ 
+	|43-45.  Lo buon maestro~ ec.: Virgilio aveva sollevato 
+Dante, tenendolo addossato all'anca, e non lo depose fin che 
+non giunse alla buca dove il misero mostrava il suo dolore di 
+pianto, ^guizzando~ le gambe: <si cruccia guizzando> (v. 31-32). 
+ 
+	|Zanca~ o Cianca, significa Gamba Cos$i C. XXXIV, v. 
+79, Virgilio, giunto dentro della Terra, ove era confitto 
+Lucifero, per passare all'altro emisfero <Volse la testa ov'egli 
+avea le zanche>. 
+ 
+	|49-51.  Io stava~ ec.: Dante stava chino alla buca, 
+come il frate confessore sta su la fossa del perfido 
+assassino, il quale lo richiama per ritardare di qualche 
+istante la morte.  Secondo le leggi d'allora i grandi malfattori 
+erano condannati ad essere sepolti vivi col capo all'ingi$u, e 
+tal supplizio, con vocabolo tolto dall'agricoltura, era detto 
+propagginazione.  La similitudine @e non meno oltraggiosa che 
+pittoresca. 
+ 
+	|52-54.  Ed el grid@o~ ec.: I dannati, secondo che 
+immagina il Poeta, leggono nel futuro, e per@o ^l'anima 
+trista~ di papa Nicol@o III, che da circa venti anni giaceva 
+confitta nella buca, sapeva, perch$e cos$i era scritto nel 
+libro del futuro, che Bonifazio VIII sarebbe venuto fra tre 
+anni (11 ott. 1303) a occupare il suo posto; di qui la sua 
+maraviglia, espressa efficacemente con parole brevi, rapide e 
+ripetute.  Nicol@o III era capofitto, e per@o non poteva 
+vedere; quella era la buca dove si propagginavano i papi, e 
+per@o non poteva diversamente supporre; naturalissimo quindi 
+l'equivoco. 
+ 
+	|Se' tu gi@a cost@i ritto~ ec.: <Il creduto Bonifazio 
+l'avea motteggiato sul tenere il di sotto di su e sembrare un 
+palo conficcato in terra, e lui picchia e ripicchia sull'esser 
+Bonifazio |ritto~, nel che lampeggia e l'invidia che quei sia 
+ancor ritto, e l'ironia perch$e tra poco nol sar@a pi$u> 
+(D'OVIDIO, op cit. {^Nuovi studi~}, p. 377). 
+ 
+	|55-57.  Se' tu s@i tosto~ ec.: Accenna alle mali arti 
+con cui Bonifazio VIII per ambizione e avidit@a di ricchezze 
+giunse al possesso della Chiesa di Roma (|la bella donna~), di 
+cui poi fece strazio. 
+ 
+	|58.  Tal mi fec'io~ ec.: Dante con <squisito trovato 
+della passione> (come nota il Tommaseo) ci rappresenta una scena 
+tutta drammatica e umoristica, fondata sopra un equivoco, il 
+cui effetto egli prolunga maliziosamente, fingendo di non 
+capire.  Non poteva trovare pi$u felice espediente per condannare 
+in anticipazione all'Inferno due papi, l'uno dei quali nel 
+1300, al tempo dell'immaginata Visione, era ancor vivo, e 
+l'altro, di l@a da venire. 
+ 
+	|62.  Non son colui, non son colui~ ec.: Questa 
+ripetizione @e energica, in contrapposto al ripetuto ^Se' tu 
+gi@a cost@i ritto.~ 
+ 
+	|64.  Tutti storse i piedi~: In segno di malcontento e di 
+dispetto. 
+ 
+	|70.  E veramente~ ec.: I nomi sono conseguenza delle 
+cose: <^Nomina sunt consequentia rerum~>, afferma Dante nella 
+^Vita Nova~ (Cap. XIII).  Nicol@o III, della famiglia degli 
+Orsini di Roma (^de filiis Ursi o Ursae~ si dicevano i membri di 
+questa famiglia) si mostrava veramente tale, perch$e, come 
+l'orso @e ingordo e attaccatissimo alla prole, cos$i Nicol@o III 
+si era mostrato avidissimo per avanzare i propri congiunti, 
+tanto che su nel mondo imbors@o danaro, e se stesso gi$u 
+nell'Inferno dentro a una buca. 
+ 
+	|73-75.  Di sotto~ ec.: Di sotto alla buca dove Nicol@o 
+era confitto si trovavano ammucchiati e quasi compressi l'uno 
+sopra l'altro, per lo spaccato della pietra, i papi simoniaci 
+suoi predecessori, tratti o spinti gi$u di mano in mano che uno 
+doveva cedere il posto all'altro. 
+ 
+	|79-84.  Ma pi@u @e 'l tempo~ ec.: Erano gi@a vent'anni 
+che Nicol@o III si trovava piantato nella buca; Bonifazio VIII 
+ci sarebbe stato soltanto dieci anni e mezzo, perch$e sarebbe 
+andato a rilevarlo (il 20 aprile 1314) Clemente V guascone (|di 
+ver' ponente~), Beatrice, nello spettacolo marviglioso della 
+Rosa celeste, nella quale appariscono trionfanti i Beati, 
+indicando a Dante il seggio predestinato all'alto Arrigo, cio@e 
+all'imperatore Arrigo VII, e accennando all'opposizione che 
+questi incontrer@a su la Terra da parte di Clemente V nell'opera 
+sua di restaurazione, dice che poco dopo la morte 
+dell'imperatore (24 agosto 1313) morr@a anche lui, e sar@a 
+dannato: <Ma poco poi sar@a da Dio sofferto Nel santo uffizio, 
+ch'ei sar@a detruso L@a dove Simon mago @e per suo merto, E 
+far@a quel d'Alagna esser pi$u giuso> (^Par.~, XXX, 145-148). 
+ 
+	Il verso |Tal che convien che lui e me ricopra~ non 
+significa soltanto l'atto materiale riguardante l'occupazione 
+della buca infernale ma anche il fatto che tante saranno le laide 
+opere di lui che faranno quasi dimenticare quelle di Nicol@o III 
+e di Bonifazio VIII. 
+ 
+	|Tal che~: Un tal pastore, il quale ec. 
+ 
+	|85-87.  Nuovo Iason~ ec.: Si legge nel Libro II dei 
+^Maccabei~ che Giasone, giudeo, ottenne per danaro dal re 
+Antioco di Siria di succedere nel sommo sacerdozio a suo fratello 
+Onia.  Clemente V ottenne da Filippo il Bello con solenni 
+promesse il pontificato. 
+ 
+	Cos$i <mediante una voce d'oltretomba, per bocca d'un 
+Papa son serviti due Papi; anzi tre, se si conta quello che 
+parla.  Anche il buon Cesari, che da un lato non si sa dar pace 
+che il Poeta se la pigliasse tanto coi pontefici, dall'altro non 
+la finirebbe pi$u di magnificare il bel trovato, per cui Dante 
+seppe prendere <tre colombi a una fava.>  Ma Dante era uomo da 
+prender tutta una colombaia, e a Clemente seppe fare oltre il 
+pelo anche il contrappelo.  Il posto che Nicol@o gli tiene in 
+caldo ha pure il suo riscontro nel seggio bell'e preparato, con 
+tanto di corona sopra, per Arrigo VII, nell'anfiteatro 
+dell'Empireo> (D'OVIDIO, op. cit. {^Nuovi studi~}, p. 397-98). 
+ 
+	|88.  Folle~: Stolto a contendere, a perdermi con un 
+dannato. 
+ 
+	|90-96.  Deh, or mi di'~ ec.: Il Poeta si vale 
+d'immagini e ricordi biblici per combattere gli avversari con le 
+loro proprie armi.  Innanzi tutto porta l'esempio di Ges$u 
+Cristo, il quale, affidando a Pietro le chiavi del regno dei 
+Cieli, null'altro volle da lui se non che lo seguisse; porta 
+poi l'esempio di Pietro e degli Apostoli, che non chiesero 
+danaro a Mattia quando lo elessero al posto lasciato vuoto 
+dall'anima rea di Giuda. 
+ 
+	|98-99.  E guarda ben~ ec.: E ora tieni ben custodite le 
+ricchezze iniquamente accumulate, che ti dettero ardire di 
+osteggiare Carlo d'Angi@o.  Questo @e detto con amaro sarcasmo. 
+ 
+	|100-117.  E se non fosse~ ec.: Si noti d'arte mirabile 
+di Dante, il quale dietro l'egida della |reverenza delle somme 
+chiavi~, non solo dice tutto quello che vuole dire, ma fa 
+pensare che ci @e ancora molto di pi$u di quel che non dice.  E 
+parole pi$u gravi far@a dire da San Pietro contro Bonifazio VIII 
+nel Paradiso (C. XXVII, 22-26).  Si noti poi in questa uscita 
+sdegnosa il passaggio dal particolare al generale; il 
+generalizzare @e naturalissimo in un animo commosso: <Ab uno 
+disce omnes.> 
+ 
+	|106-111.  Di voi, pastor~ ec.: Le vostre laide opere 
+vide San Giovanni Evangelista, allorch$e ebbe la visione d'una 
+donna sedente sopra molte acque, a cavallo d'una bestia con 
+sette teste e dieci corna, e con la quale avean fornicato i re 
+della Terra. -- La donna e la bestia che formano una sola cosa 
+secondo l'Evangelista rende l'immagine di Roma pagana, 
+dominatrice di popoli; le sette teste, i sette colli; le dieci 
+corna, dieci re della Terra che daranno la loro potenza e 
+potest@a ad essa e poi l'odieranno e la renderanno deserta e nuda 
+(^Apocalisse~, Cap. XVII).  Questa immagine allegorica fu 
+trasportata da Dante e da altri a rappresentare Roma cristiana, 
+la Chiesa, nata dai sette Sacramenti, e accresciutasi (|ebbe 
+argomento~) con i dieci precetti mosaici, |fin che virtude al 
+suo marito piacque~, cio@e al Papa; ma allorch$e questi da mala 
+cupidigia fu preso, la ^bella donna~ cominci@o a corrompersi e a 
+fornicare coi re della Terra. 
+ 
+	|112-114.  Fatto v'avete~ ec.: Dell'oro e dell'argento 
+ve ne siete fatto un dio.  Questo, sostanzialmente, corrisponde 
+alle parole di Osea nella Bibbia (Cap. VIII, v. 4-5): 
+<^Argentum suum et aurum suum fecerunt sibi idola.> 
+ 
+	|E che altro @e~ ec.: E qual'altra differenza v'ha tra 
+voi e coloro che adorarono il vitello d'oro, se non che quelli 
+ne adorarono uno, e voi cento, cio@e d'ogni pezzo d'oro e 
+d'argento vi fate un dio. 
+ 
+	|115-117.  Ahi, Costantin~ ec.: Qui il Poeta dalle colpe 
+e dal tralignamento dei papi risale alla causa prima e 
+determinante, cio@e, alla creduta donazione di Costantino.  Si 
+veda al Capitolo <I concetti politici ec.> nell'^Introduzione.~ 
+ 
+	|120.  Forte spingava~ ec.: Forte lanciava in su calci 
+con ambo le piante dei piedi (|le piote~).  ^Spingare~ @e derivato 
+dal tedesco ^Springen~, saltare. 
+ 
+	|124-132.  Per@o con ambo~ ec.: Perci@o, in conseguenza 
+del suo magnanimo sdegno ec.  Dante s'era accorto che mentre egli 
+^cantava cotai note~ al capofitto, il suo Maestro aveva 
+ascoltato con molto piacere e attentamente, come dimostrava 
+all'aspetto, il suono delle sue parole, cio@e, la sua 
+cantata, che gli veniva dal cuore; e ora glielo dimostra anche 
+col fatto, perch$e, dovendolo prendere per trasportarlo dal 
+fondo della terza bolgia su per l'argine, inaccessibile a 
+persona viva, se lo prende fra le braccia e se lo stringe al 
+petto, come un padre farebbe a un caro figlio, e solo al colmo 
+dello scoglioso ponte della quarta bolgia lo depone |soavemente~, 
+con amore, con tutta la cura: e ci@o quasi in premio dei nobili 
+sentimenti da lui espressi.  Consimile dimostrazione di 
+affettuosit@a riguardosa da parte di Virgilio verso il suo caro 
+alunno, che sempre pi$u si faceva degno delle sue cure, ci 
+richiama la scena dell'abbraccio e del bacio dinanzi a Filippo 
+Argenti (C. VIII, 43-45). 
+
+	|Soave~, come avverbio, @e ripresa naturale del 
+|Soavemente~, che ha la sua ragione in ci@o che abbiamo detto 
+innanzi e nelle parole che seguono. -- Virgilio soavemente depose 
+Dante al colmo dell'arco, soavemente, con molta delicatezza e 
+garbo, e per viva commozione d'affetto e per la natura stessa 
+del luogo, erto e scoglioso (|per lo scoglio~) sul quale 
+malamente avrebbero potuto inerpicarsi le capre.  Voler riferire 
+|soave~, come aggettivo, a |carco~, mi parrebbe lezioso, n$e a 
+proposito, importando qui a Dante di rappresentarci e mettere in 
+evidenza gli atti di tenero affetto del suo Maestro.  
+

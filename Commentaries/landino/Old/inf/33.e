@@ -1,0 +1,397 @@
+	|1-21.~  [c.162v]|~ @E optimamente collegato questo .xxxiii. canto al 
+superiore perch$e continua la narration gi@a facta: Et induce uno de' 
+due gi@a trovati a rispondere.  Adunque sequita la narratione di questo 
+secondo gyro: Et di poi entrerr@a nel terzo.  Et @e questo principio 
+accomodatissimo a captare attentione s@i per l'acto crudele del conte 
+Ugolino: s@i per le sue parole che promettono chose rare et inusitate 
+|Sollev@o adunque~: cio@e inalzo el conte la bocca |dal fiero pasto~: 
+dal capo del quale efferatamente si pasceva: et quella bocca forb@i a' 
+capegli di tal capo: el quale gi@a rodendo haveva questo di drieto 
+nella collottola.  Et apparecchiato a narrare dimostra quanto gl'habbia 
+a dolere se le sue parole hanno a dar fama all'arcivescovo: el qual lui 
+si rodeva.  Di poi dimostra s$e essere el conte Ugolino: et quel che 
+lui rode l'arcivescovo Ruggieri: Et dimostra non volere narrare chome 
+per fidarsi di lui fu da quello tradito: et per tale tradimento preso 
+et morto: perch$e tale historia era notissima.  Ma vuole narrare della 
+forma crudele della sua morte la quale lui stima esser men nota.  Tace 
+adunque quello che narrandolo sarebbe di sua infamia.  Et narra quello 
+che habbia a essere ad perpetua ignominia del suo inimico.  Questo 
+conte Ugolino fu de' conti della Gherardesca: et s@i grande ciptadino 
+che governava Pisa: Et in quegli tempi e' pisani perderono la maggior 
+parte del contado che fu loro tolto da' fiorentini: et altri guelfi di 
+Toscana fu oppinione che lui bench$e fussi ghibellino s'intendessi co' 
+guelfi et volessi extenuar le forze de' pisani per farsene signore.  
+Era in quegli tempi arcivescovo di Pisa messer Ruggieri Ubaldini: et 
+intervenne che // c.163r un suo nipote fu morto da un parente del conte 
+per gelosia d'una donna la quale ciaschuno di loro amava la quale 
+ingiuria l'arcivescovo pens@o di vendicare sopra del conte.  Accrebbe 
+adunque quella suspictione: et concitogli molti inimici: et maxime tre 
+famigle principali Gualandi Sismondi et Lanfranchi in forma che 
+concitorono el popolo contra di lui: et lui in persona con la croce 
+conduxe el popolo a chasa del conte Fu preso lui et quattro suoi 
+figluoli et incarcerati nella torre la quale @e in sulla piaza 
+degl'Antiani: Et le chiave della carcere gittorono in Arno accioch$e 
+nessuno la potessi aprire: Et agl'imprigionati fu negato el cibo Onde 
+tal torre da quel tempo in qua fu chiamata la Torre della Fama.  El 
+poeta adunque in persona del conte narra come morirono tutti di fame: 
+et le circunstantie le quali in vero n$e el poeta n$e altri poteva 
+sapere: Ma perch$e era manifesto che erano morti di fame finge le 
+circunstantie et fa la chosa verisimile: et induce el conte che dice 
+|Per@o quel che non puoi havere inteso~.
+
+	|22-36.  Breve pertuso dentro dalla Muda~: Muda chiamono luogho dove 
+rinchiuggono gl'uccegli di rapto perch$e mudino cio@e mutino le penne.  
+Ma qui per conveniente translatione chiama questo carcere Muda.  |Lo 
+quale per me ha el titolo della fame~ perch$e per la morte mia @e 
+chiamata la Torre della Fame.  |In che conviene che anchora altri si 
+chiuda~: questo imagina per le spesse mutationi che faceva quella 
+citt@a.  |M'havea mostrato per lo suo forame~: pel suo buco et piccola 
+finestra.  Dimonstra che anchora era desto quando l'aurora venne in 
+forma che tal finestra facea gi@a lume: poi s'adorment@o et sogn@o: Et 
+chome di sopra dicemmo el sogno presso al d@i @e vero |Che del futuro 
+mi squarci@o~: mi ruppe.  |El velame~: la scurit@a: perch$e per questo 
+sogno intesi quello che haveva a essere El sogno fu che gli parea che 
+gli fussi mostro uno prelato che facessi caccia: et menava seco le tre 
+famigle decte.  |Et cagne~ |magre~ et prompte.  Pel prelato si dimostra 
+l'arcivescovo: et per le cagne el popolo.  Cacciavono un lupo co' suoi 
+lupicini: che era el conte co' figluoli: Questo correvono inverso monte 
+Pisano el quale @e tra Pisa et Lucca: et togle la veduta che da Pisa 
+non si pu@o veder Lucca.  Et questo significa che el conte dubitando 
+havea ordinato di ridursi a Lucca dove reggevono e' guelfi.  Ma in 
+brieve tempo si straccorono.  Il che dinota che non poteron condursi a 
+Lucca.  Onde le cagne lo giunson perch$e el popolo lo prese.
+
+	|37-48.  Quando fu desto inanzi la dimane~ innanzi la mattina et al 
+chiaro giorno |senti' e' mie figluoli pianger nel sonno~: perch$e 
+sognavono chome haveo sognato io la lor miseria et la fame ventura et 
+per@o adomandavon del pane.  Et interviene molte volte che quelle 
+medesime constellatione che inducon la miseria: inducono similmente 
+sogni che la manifestono Et questo @e che pocho di sotto dice |et per 
+suo sogno ciaschun dubitava~.
+
+	|49-75.  Io non piangea~: perch$e io m'impetrai: cio@e induri' dentro. 
+ Che 'l gran dolore impedisca le lachrime @e manifesto.  |Piangievon 
+elli~ Qui l'auctore da ogni luogo che pu@o commuovere misericordia et 
+compassione: prima dal pronostico del suo sogno: et di quel de' 
+figluoli.  Cos@i Virgilio: ^In somnis ecce ante oculos mestissimus 
+hector Visus adesse mihi~.  Di poi da' figluoli: perch$e @e grandissimo 
+dolore al padre vedere e' figluoli in extrema miseria: et non potere 
+aiutargli.  |Poscia che fumo al quarto d@i venuti~.  Dimostra // c.163v 
+el poeta che insino al quarto d@i vixono tutti sanza cibo: et nel 
+quarto d@i Gaddo pi@u giovane mor@i vinto dalla fame.  Di poi tra 'l 
+quinto e 'l sexto morirono e' tre restati figluoli: et lui gi@a ciecho 
+sopravixe due giorni ^id est~ tutto el sexto et el septimo.  Di poi 
+arroge che el digiuno pot@e pi@u che 'l dolore.  Il che @e 'l nostro 
+Martino Novarese: al quale iddio accresca la prudentia et diminuisca 
+l'arrogantia interpreta che el digiuno pot@e pi@u che 'l dolore ^id 
+est~ che el desiderio del cibarsi vinse la piet@a et amore paterno et 
+sforzollo a pascersi della carne de' figluoli: La qual sententia quanto 
+sia absona lascier@o al giudicio del lectore: Et sforzerommi d'aprire 
+due luoghi egregii da lui non conosciuti: co' quali l'auctore come 
+poeta et phisico sommamente orn@o questa oratione: Et prima tracteremo 
+phisice della tollerantia del digiuno.  N$e @e incognito ad alchuno che 
+per l'assidua res[o]lutione dell'homore naturale nel corpo vivente @e 
+necessario che venendo la fame la quale niente altro @e che cupidit@a 
+et desiderio del secco: et la sete dell'humido l'animale del continuo 
+con nuovo cibo: et nuovo poto generi nuovo chilo el quale ristori el 
+mancamento: et non prendendo nutrimento in brieve spatio manca: Ma 
+perch$e tanta resolutione del nutritivo homore che uccide l'huomo non 
+si fa parimente in ciaschuno per@o interviene che alchuni meno alchuni 
+pi@u sanza sua pernitie sopportano la inedia et el digiuno: Et 
+ricercando e' physici le cagioni della variet@a l'atribuiscono 
+maximamente a quattro chose All'et@a Alle complexioni Alla substantia 
+dell'homore et A' pori.  Chi adunque @e o in tenera et@a et non anchora 
+consolidata et ferma.  Overo in et@a deficiente meno la soportono che 
+l'huomo constituto in et@a consistente.  Onde e' fanciugli et vecchi 
+ricercono pi@u frequente nutrimento che l'huomo posto in et@a perfecta 
+Nel secondo luogo noteremo le complexioni nelle quali quanto meno @e 
+l'homore o pi@u risolubile tanto meno si pu@o sopportare la fame.  
+Adunque in brevissimo spatio perisce el collerico: Poco pi@u sopporta 
+el melancolico: Alquanto pi@u el sanguigno: et pi@u sanguigno si 
+sostenta la complexione temperata: Et finalmente pi@u che e' quattro 
+gi@a decti dura el phlegmatico perch$e abonda d'homore: et quello 
+perch$e @e molto viscoso non facilmente si dissolve: Et dissolvendosi 
+facilmente si converte in sangue apto ad sobstentare la vita.  Il 
+perch$e veggiamo molti animali phlegmatici: chome sono serpi tassi 
+ghiri et simili intanare el verno et vivere sanza cibo: perch$e la 
+phlegma che abbonda nello stomaco si converte lentamente in sangue et 
+nutrisce.  ^Preterea~ si nota la essentia dell'homore in qualunque 
+complexione: la quale quanto pi@u @e sottile in pi@u brieve tempo @e 
+resolubile: et meno sopporta la fame: Et per l'opposito quanto pi@u @e 
+grossa tanto pi@u fa contrario effecto.  Notasi anchora la porosit@a: 
+Imper@o che el corpo pi@u poroso / pi@u presto s'evacua.  Onde pi@u 
+presto sente fame: Et nel meno poroso intendi l'opposito.  Ho se non mi 
+inganno con somma brevit@a piutosto accennato che narrato le naturali 
+cause della tollerantia del digiuno.  Ma non poco anchora conferiscono 
+gl'accidenti extrinsechi chome aria o grossa o sobtile a chalda o 
+fredda: chome cibi o pi@u o meno resolubili: et altre chose simili: Ma 
+maxime fanno e' varii accidenti dell'animo.  Imper@o che chome la 
+letic[i]a relaxando et diffondendo l'animo diffonde ^etiam~ gl'homori 
+et fagli pi@u risolubili: Onde meno si sopporta la fame: Chos@i el 
+dolore ristringendo gli fa meno resolubili.  Il perch$e quanto maggiore 
+@e il dolore tanto pi@u sopporta l'huomo el digiuno: et pi@u vive sanza 
+cibo.  Le quali tutte cose note al poeta distinxe la longitudine del 
+digiuno secondo l'et@a et secondo el dolore.  Et perch$e e' figluoli 
+erono nell'augumento dell'et@a prima gl'induce a morire: et tra quegli 
+pone el primo e 'l pi@u tenero d'et@a: Et di poi gl'altri secondo che 
+erono pi@u o meno provecti negl'anni.  Et lui pone l'ultimo s@i perch$e 
+era nella consistentia dell'et@a.  S@i anchora perch$e era oppresso da 
+maggior dolore.  El primo induce morire el quarto giorno: gl'altri 
+d'hora in hora insino al sexto: Lui gli pianse di poi due giorni ^id 
+est~ el sexto et el septimo: Et nel septimo bench$e el dolore 
+condensando et constringendo gl'homori prohibissi la resolutione Il che 
+prolungava la vita.  Nientedimeno la lungheza del digiuno pot@e pi@u 
+che la prohibitione del risolvere che procedea dal dolore.  N$e sanza 
+naturale ragione prese e' termini del quarto et del septimo giorno: 
+perch$e nella vita humana questi d@i sono cr[i]tici pel movimento che 
+fa la natura in quegli.  Il che procede // c.164r dal corso lunare.  
+Imper@o che la luna nel suo primo quarto ha movimento al suo sextile et 
+nel septimo alla quadratura: E' quali moti molto possono nella vita 
+humana.  N$e @e incredibile del septimo d@i.  Imper@o che Ficino 
+phisico et cerusico non ignobile padre del nostro Marsilio Ficino 
+afferma essere stato nello spedale di sancta Maria Nuova chi dicea 
+haver veduto in quel luogo Lionardo Pistolese huomo molto religioso et 
+di tanta continentia che diradando e' d@i nel digiunare in processo di 
+tempo si conduxe a mangiare una sola volta la septimana.  Habbiamo 
+decto credo ad suficientia del digiuno.  Ma non mi pare da 
+pretermettere gl'ornamenti et forza oratoria co' quali questa oratione 
+del conte l'auctore ha in forma scripta: che ogni durissimo cuore pu@o 
+commuovere ad compassione.  Ma accioch$e meglo s'intenda l'artificio 
+sieci noto che e' rhetorici chiamano oratione pathetica quella la quale 
+commuove gl'animi degl'auditori o ad ira et odio: o ad misericordia et 
+compassione: perch$e ^pathos~ in greco significa passione et 
+perturbatione: et tale movimento @e concitato da' varii luoghi.  Et 
+prima gran commiseratione concita el modo et el luogo.  Adunque qui 
+dimostra che tal morte fu nella torre tenebrosa Chos@i Virgilio: ^Et 
+latos iuvenem sparsere per agros~: Et altrove: ^Altaria ad ipsa 
+trementem traxit.~  Concita commiseratione dal mondo.  Imper@o che duro 
+@e uccidere l'huomo: Ma molto pi@u ucciderlo con la fame che col ferro: 
+Et per questo Cicerone si duole di quello che era stato morto a fumo di 
+legne verdi.  Et Virgilio: ^Mortua quin etiam iungebat corpora vivis~.  
+Muove adunque l'auditore non tantoch$e sia morto.  Ma che sia morto in 
+prigione et morto di fameni ^Preterea~ pon el sogno: Chos@i Virgilio: 
+^In somnis ecce ante oculos moestissimus hector Visus adesse largosque 
+effundere fletus.  Item Ipsa sed in sonnis inhumati venit imago 
+Coniugis ora modis attollens pallida miris~.  N$e si narra sanza 
+commiseratione quando viene calamit@a gi@a tenuta.  Onde optimamente et 
+per suo sogno ciaschun dubitava: N$e questo pretermesse Virgilio: ^Haud 
+ignarus eram quantum nova gloria in armis~.  Molto ancora perturba 
+perdere la speranza: Et per questo @e chosa lachrimabile quando dice.  
+Et io sent@i chiavare l'uscio di sobto dell'horribile torre.  Onde 
+Sinone in Virgilio: ^Nec mihi iam patriam antiquam spes ulla videndi.  
+Nec dulces natos~.  Adunque se ci duole di chi piange / quanto ci 
+dorr@a di chi pel dolore non pu@o piangere.  Gran merore era al padre 
+el pianto de' figluoli.  Grande a' figluoli che 'l padre non potessi 
+piangere.  Commuove la lungheza del tempo nel quale furono afflicti 
+dalla fame.  Questo luogo spesso induce Virgilio: ^Unde septem illum 
+totos perhibent ordine menses~: Et in Palinuro: ^Vix lumine quarto 
+prospexi Italiam summa sublimis ab unda~.  Commuove la debilit@a.  Onde 
+dixe: ^Et io mi diedi gi@a cieco a brancolare sopra a ciaschuno~: 
+Chos@i Virgilio di Mesentio: ^At tollit in egrum se femur~.  Commuove 
+l'et@a puerile Virgilio: ^Infelix puer atque impar congressus Achilli~. 
+ ^Item~ el conspecto: ^Ut impositique rogis iuvenes ante ora parentum~: 
+Et perch$e da maggior dolore vedere la calamit@a che udirla / Dixe: |Et 
+chome tu mi vedi / Vid'io cascar li tre~: Chos@i Viriglio: ^Queque ipse 
+miserrima vidi~.  Pi@u altri luoghi potrei mostrare in questa oratione 
+aptissimi ad commuover compassione.  Ma chon questi potremmo et qui et 
+in molte altre parti dell'opera investigare el sommo artificio del 
+poeta.
+
+	|76-90.~  Subito che el conte hebbe narrato ritorn@o a mordere el 
+teschio del nimico.  Il che finge el poeta: pe[r]ch$e sempre colui el 
+quale @e ingiuriato: et la 'ngiuria sta innanzi agl'occhi di chi ha 
+ingiuriato: et giorno et nocte lo stimola et mordegli la conscientia.  
+|Ah Pisa vituperio delle genti / del bel paese l@a dove suona s@i~: 
+cio@e vituperio del bel paese d'Italia nella quale suona el s@i.  
+Imper@o che chome el franzese dice ^oy~: et el tedesco ^io~.  el greco 
+^ne~: Chos@i tutta Italia dice ^s@i~: Et certamente vituperio 
+degl'italiani non havendo punito tanta crudelt@a: el quale vitio @e 
+molto abhominevole nella natione italica: la quale pi@u che l'altre 
+sempre fu humana et misericordiosa.  |Poich$e vicini ad te punir son 
+lenti / muovasi la Capraia et la Gorgona~.  Queste sono due isolette 
+poste in mare non lontane dalla foce d'Arno.  queste vuole adunque che 
+soppongano ad Arno accioch$e non havendo uscita in mare rigonfi in Pisa 
+per la quale passa et allaghila.  El conte Ugolino per stabilire el suo 
+stato Marit@o due figluole una al conte Guido di Battifolle: et l'altra 
+ad Aldobrando conte Sancta Fiore A Guido decte in dota Ripafracta: et 
+ad Aldobrandino Suveroto.  |Che se 'l conte Ugolino haveva voce~: cio@e 
+havea fama: Molto artificiosamente parla prima che fu gran crudelt@a 
+uccidere el conte non havendo el certo di suo tradimento: Ma concediamo 
+che dovessi credere |Alla voce~: cio@e alla fama: et per // c.164v 
+questo lo dovessi punire.  Nientedimeno non dovevi punire e' figluoli 
+maxime con tal croce: cio@e con s@i grave martoro: Et assegnala 
+ragione.  Imper@o che l'et@a loro novella et tenera gli facea 
+innocenti: perch$e erono anchora s@i giovinetti che n$e per s$e 
+pensavono agli stati: n$e dal padre erono convocati in alchun suo 
+consiglio.  |Novella Tebe~.  Citt@a s@i crudele chome fu Tebe: Nella 
+quale e' primi fondatori frategli et nati de' seminati denti del 
+serpente s'uccisono: et la madre et le zie uccisono Pentheo.  Athamante 
+uccise el figluolo Learco: Edippo us@o con la madre: Etheocle et 
+Pollinice frategli s'uccisono per cupidit@a di regnare.  Di poi 
+dimostra che l'et@a de' figluoli era anchora novella nominando quegli 
+Uguccione et Brigata et erono e' due maggiori: et gl'altri due e' quali 
+|El canto suso~: Questo capitolo su di sopra |Appella~ / nomina: E' 
+quali furono Gaddo et Anselmuccio: Et ordina el texto chos@i.  O 
+novella Tebe l'et@a novella d'Uguccione et del Brigata |et degl'altri 
+due che 'l canto appella~ di sopra gli facea innocenti.
+
+	|91-99.~  Questo @e el terzo giro: et chiamasi Ptolomea Qui l'anime 
+stanno nel ghiaccio arrovescio: et le lachrime prime che escon fuori: 
+perch$e non possono sfogare aghiacciano nel concavo degl'occhi et fanno 
+chome una visiera di christallo.  Di poi quelle che sequitano trovando 
+l'uscita richiusa ritornono indrento et fanno cresere l'ambascia: Et 
+questo finge perch$e qui si puniscono quegli che sobto spetie di 
+benevolentia et d'amore hanno tradito.  Hanno adunque dimostro segno di 
+carit@a perch$e meno si guardi chi voglon tradire: Et questo exprimelo 
+stare supino che @e guardare in su inverso el cielo.  Ma non stanno in 
+forma che le lachrime possino uscire: perch$e tale carit@a @e ficta.  
+Adunque el pianto non lascia piangere: et crescie l'ambascia: perch$e 
+quella ficta carit@a accrescie el tradimento Onde merita maggior 
+supplicio.  |Visiere~ quasi occhiali.  |Tutto el coppo~: tutta la 
+concavit@a che @e sobto el ciglo: nella quale sono gl'occhi.
+
+	|100-108.  Et advegna~ |che~ bench$e |ciaschun sentimento havessi 
+chos@i cessato~: cio@e rimosso |stallo~ cio@e stanza dal mio viso 
+|chome da un callo~: cio@e che la mia faccia non havea pi@u senso in 
+s$e che habbia un callo: el quale perch$e @e carne morta non sente: Et 
+questo m'adivenia |per la freddura~.  Insententia bench$e el mio viso 
+pel freddo fussi intormentito che non sentissi n$e freddo n$e caldo 
+altrimenti che si faccia el callo: Nientedimeno mi parve sentire 
+alquanto vento di che mi maraviglai.  Imper@o che el vento nasce di 
+vapori caldi et secchi elevati da alchune stelle.  et maxime dal sole: 
+la forza delle quali non par che possi penetrare insino nel centro a 
+risolvere e' vapori in vento.  |Ond' egli ad me avaccio sarai dove~: 
+perch$e le cagione di molte chose non si posson vedere con gl'occhi: 
+n$e sentire con alchuno consenso @E di bisogno che si dimostrino chon 
+ragione naturale.  Ma dove el senso lo 'ntende per s$e medesimo non 
+bisogna ragione.  Adunque el senso dimostrerr@a donde @e causato questo 
+vento.  Et @e sobtilissima fictione che chome nel suppremo cielo nasce 
+dalla potentia et sapientia divina lo Spirito Sancto el quale infiamma 
+ad carit@a: Et per questo @e assomiglato al fuoco et al vento austrino 
+chos@i da Lucifero procede el frigidissimo vento della superbia: el 
+quale amortisce ogni caldo di carit@a: et indurisce et aghiaccia tutti 
+gl'humani cuori.
+
+	|109-120.~  Mentre che passava tra gl[i] ghiacciati frate Alberigo lo 
+priega gli levi el ghiaccio dagl'occhi: Et Danthe gli promette di farlo 
+con execratione di quello che a ogni modo disiderava di fare: et questo 
+era andare insino al fondo dell'Inferno.  |O anime crudeli~: poich$e 
+non sovvenite alla mia pena|.  Tantoch$e dato v'@e l'ultima posta~.  
+Credeva che anchora Danthe et Virgilio fussino dannati per tradimento: 
+et giunti di nuovo non fussino anchora collocati dove havessi //c.165r 
+sino a stare Onde dice |Tanto~: Infino a |Tantoch$e non @e dato 
+l'ultima posta~ / l'ultimo luogho ove sempre havete a stare.  Levatemi 
+el velo che mi vela gl'occhi accioch$e con le lagrime possi sfogare el 
+dolore: el quale non isfogando m'impregna el cuore.  Dimostra che 
+bench$e e' dannati: et quegli che hanno facto habito nel tradimento 
+alchuna volta voglino aprir gl'occhi della carit@a el ghiaccio della 
+superbia et dell'odio non lascia.  |Io son frate Alberigo~.  Chostui fu 
+de' Manfredi signori di Faenza: Et nella sua ultima et@a divent@o 
+cavalier Gaudente: Onde fu decto frate Alberigo: Et fu tanto crudele 
+che essendo in discordia co' consorti cupido di levargli di terra finse 
+volere riconciliarsi con loro: Et dopo la pace facta gli convit@o 
+magnificamente: et nella fine del convito comand@o che venissino le 
+fructe: le quali era segno dato a quegli che havessino a uccidergli.  
+Adunque di subito saltorono dentro et uccisono tutti quegli che 
+Alberigo voleva che morissino.  Onde anchora ne' nostri d@i 
+proverbialmente quando voglamo dimostrare alchuno essere stato percosso 
+diciamo che ha havuto delle fructe di frate Alberigho.  Adunque dixe 
+|delle fructe del mal orto~ perch$e fu captivo orto quello che decte 
+tali fructi.  |Che qui~: in questo Inferno |Riprendo~: ricevo dactilo 
+in luogo di fico: che quanto pi@u @e excellente el dactilo che el fico 
+tanto @e maggiore la pena che lui riceve qui: che quella che decte a' 
+consorti quando gl'ammaz@o.
+
+	|121-138.  Tal vantaggio~.  Per hironia dixe.  Imper@o che oltra 
+agl'altri mali el traditore ha questo che l'anima sua viene all'eterne 
+pene innanzi che venga el tempo della sua morte.  Et finge che un 
+dimonio entra nel corpo del traditore: et governalo infino alla debita 
+morte.  Et per questo vuol significare che l'obstinatione del traditore 
+@e tanta che mai si pente.  Il che dimostra anchora el Vangelista di 
+Iuda dicente che dopo el tradimento el diavolo entr@o nel corpo di 
+Iuda: et lui disperandosi dixe: ^Maius est peccatum meum quam ut veniam 
+merear~.  Il perch$e non obstante che viva molti anni dopo el facto 
+tradimento possiamo dire che l'anima sia dannata: perch$e obstinata nel 
+peccato: et un diavolo ^id est~ tale obstinatione governa el corpo: in 
+forma che pare che sia huomo vivo Ma quanto a' costumi @e diavolo.  
+|Ptolomea~: Chome el superiore cerchio fu decto Antenora da Antenore: 
+Chos@i questo Ptolomea da Ptolomeo.  Il che accioch$e meglo s'intenda 
+ripetiremo con brevit@a del libro de' Machabei: chome e' Machabei doppo 
+e' tempi d'Alexander Magno regnorono in Israel: Et furono tre frategli 
+ornati d'excellentissime virt@u Iuda Machabeo.  Ionatas et Simone Et 
+successive furono sommi sacerdoti: et fortissimi in facti d'arme: et 
+maxime Simone el quale con somma iustitia et forteza difese la libert@a 
+del popolo ebreo contro a' molti re: et rinov@o la confederatione co' 
+romani.  Chostui hebbe gener@o Ptolomeo da Bobo al tutto dissimile a 
+s@i buon suocero: et scelerato et impio contro a chi tanto l'havea 
+honorato.  Essendo adunque constituto da Simone duca in Hierico et 
+fidandosi ne' suoi grandi thesori ard@i tentare con somma scelerateza 
+torre el principato et el sommo sacerdotio al suocero.  Venne Simone in 
+Hierico con due figluoli: et Simone gli riceve magnificentissimamente: 
+et con splendido convito: et alla fine di quello fece uccidere el 
+vecchio et e' figluoli et tutti gl'altri che seco eran venuti.  
+|Atropos~.  Pongono e' poeti tre: le quali chiamano Parce: Et per 
+quelle dimonstrano el principio el progresso el corso: et la fine della 
+vita humana.  Adunque la prima che significa el nostro nascimento @e 
+decta Cloto.  la quale tiene la roccha con lo stame.  La seconda @e 
+Lachesis decta: perch$e ^lanchano~ in greco significa assortire et 
+distribuire: perch$e ad ogni huomo che nasce d@a la sua sorte cio@e 
+quella parte che gli tocca della vita: Et per@o fingono che questa fili 
+lo stame che ha Cloto: perch$e produce el corso della vita.  La terza 
+dinota el fine del corso che @e la morte.  Onde fingono che rompi et 
+spezi le fila di Lachesis et chiamonla Atropos: perch$e ^a~ in greco 
+significa non: et ^trepin~ voltare: perch$e la morte non si volta n$e 
+piega ad instantie d'alchuno et a nessuno perdona.  Ma @e immobile et 
+inflexibile.  E' latini poeti antichi appellorono queste tre Parce Nona 
+Decima et Morta.  |El tempo tutto sia volto~ Bene dixe volto: perch$e 
+el tempo non @e altro che misura di movimento: et nasce dalla 
+revolutione et cir- // c.165v cuito de' pianeti: et maxime del sole: el 
+quale nella revolutione che fa per dodici segni fa l'anno.  Et forse 
+che el corpo dell'ombra la quale m'inverna: cio@e sta el freddo qua 
+drieto ad me Anchora sta su: Quasi dica si mantiene vivo per un demonio 
+che 'l governa: et tu'l debbi sapere Se pur mo: pur test$e: Tu vien 
+giuso allo 'nferno.  |Egl' @e ser Brancha Doria~.  Questo messer Branca 
+fu genovese della casa Doria genero di messer Zanche signore di 
+Logodoro di Sardigna del qual si f$e mentione di sopra nella bo[l]gia 
+della pegola.  Et per havere la signoria invito a desinare el suocero 
+et fello uccidere.  Il perch$e Danthe finge che subito dopo el 
+tradimento l'anima sua fussi tirata allo 'nferno: et nel corpo entrassi 
+un diavolo: perch$e invero quando Danthe scripse questo messer Branca 
+era ancor vivo: Et dixe ser et non messere per derisione: perch$e e' 
+genovesi chiamano messere ogni gentile huomo.  O veramente induce 
+chos@i a parlare questo romagnuolo: perch$e la natura loro @e di non 
+honorare alchuno di parole.
+
+	|139-150.~  In questi versi non accade molta expositione.  Imper@o che 
+Danthe non crede che Brancha Doria sia morto havendo veduto el corpo 
+suo usare tutti gl'uficii del vivo: et lo spirito gli risponde quello 
+che gi@a @e decto di sopra: et dimostra che in questo modo @e anchora 
+con lui el parente suo che insieme con lui uccise ad tradimento Michel 
+Zanche/ |Ma distendi oggi mai~: Dimostra che richiedendolo della 
+promessa lo spirito Danthe non glene observe: Et per questo vuole 
+inferire che non dobbiamo attendere alchuno promessa contra a 
+giustitia: Et quivi somma in giustitia era impedire la divina 
+giustitia.  ^Preterea~ non @e male per trarre la verit@a da uno usare 
+astutia maxime observando el giuramento Imper@o che Danthe gli dixe se 
+io non t'attengho la promessa ire possi io al fondo: et chos@i andr@a.  
+Et conchiude che in simili huomini @e somma cortesia usare villania.
+
+	|151-157.~  Degna et ben collocata exclamatione nel genovese popolo 
+per molti rispecti: e' quali per non usare invectiva contra a mia 
+consuetudine al presente non pongo Ma sono noti quasi a tutti.  
+|Huomini diversi / d'ogni chostume~: perch$e sete alieni et contrarii 
+da ogni buon costume Et pieni d'ogni magagna: chome non @e 
+compiutamente buono chi si guarda da' vitii se non usa le virt@u chos@i 
+non si pu@o chiamare absoluto captivo chi @e alieno dalle virt@u se non 
+usa e' vitii.  Et per questo volendo dimostrare e' genovesi essere 
+compiutamente captivi dixe pieni d'ogni magagna.  |Perch$e non sete~.  
+Maraviglasi chome la divina giustitia gli patisce et non gli spegne.  
+Ma come scrive Valerio: ^Lento enim passu diuna procedit ira 
+tarditatemque supplicii gravitate compensat~.  |Che col piggiore spirto 
+di Romagna~.  @E un grande accrescimento in questa comperatione.  Il 
+che accioch$e meglo s'intenda @E universale fama che e' romagnuoli 
+sieno di pessimi costumi.  Onde @e el proverbio toscano: rosso lombardo 
+nero romagnuolo d'ogni pelo.  Adunque se un genovese @e peggiore che un 
+romagnuolo non si pu@o salire pi@u alto ne' vitii.
+
+

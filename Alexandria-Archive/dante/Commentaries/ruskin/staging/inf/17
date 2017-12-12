@@ -1,0 +1,710 @@
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+1
+..ENDL:
+105
+..LRNG:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85
+86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105
+..REFS:
+EN-A10-O17-L1 A10-O17-L1
+EN-A10-O17-L2 A10-O17-L2
+EN-A10-O17-L3 A10-O17-L3
+EN-A10-O17-L4 A10-O17-L4
+EN-A10-O17-L5 A10-O17-L5
+EN-A10-O17-L6 A10-O17-L6
+EN-A10-O17-L7 A10-O17-L7
+EN-A10-O17-L8 A10-O17-L8
+EN-A10-O17-L9 A10-O17-L9
+EN-A10-O17-L10 A10-O17-L10
+EN-A10-O17-L11 A10-O17-L11
+EN-A10-O17-L12 A10-O17-L12
+EN-A10-O17-L13 A10-O17-L13
+EN-A10-O17-L14 A10-O17-L14
+EN-A10-O17-L15 A10-O17-L15
+EN-A10-O17-L16 A10-O17-L16
+EN-A10-O17-L17 A10-O17-L17
+EN-A10-O17-L18 A10-O17-L18
+EN-A10-O17-L19 A10-O17-L19
+EN-A10-O17-L20 A10-O17-L20
+EN-A10-O17-L21 A10-O17-L21
+EN-A10-O17-L22 A10-O17-L22
+EN-A10-O17-L23 A10-O17-L23
+EN-A10-O17-L24 A10-O17-L24
+EN-A10-O17-L25 A10-O17-L25
+EN-A10-O17-L26 A10-O17-L26
+EN-A10-O17-L27 A10-O17-L27
+EN-A10-O17-L28 A10-O17-L28
+EN-A10-O17-L29 A10-O17-L29
+EN-A10-O17-L30 A10-O17-L30
+EN-A10-O17-L31 A10-O17-L31
+EN-A10-O17-L32 A10-O17-L32
+EN-A10-O17-L33 A10-O17-L33
+EN-A10-O17-L34 A10-O17-L34
+EN-A10-O17-L35 A10-O17-L35
+EN-A10-O17-L36 A10-O17-L36
+EN-A10-O17-L37 A10-O17-L37
+EN-A10-O17-L38 A10-O17-L38
+EN-A10-O17-L39 A10-O17-L39
+EN-A10-O17-L40 A10-O17-L40
+EN-A10-O17-L41 A10-O17-L41
+EN-A10-O17-L42 A10-O17-L42
+EN-A10-O17-L43 A10-O17-L43
+EN-A10-O17-L44 A10-O17-L44
+EN-A10-O17-L45 A10-O17-L45
+EN-A10-O17-L46 A10-O17-L46
+EN-A10-O17-L47 A10-O17-L47
+EN-A10-O17-L48 A10-O17-L48
+EN-A10-O17-L49 A10-O17-L49
+EN-A10-O17-L50 A10-O17-L50
+EN-A10-O17-L51 A10-O17-L51
+EN-A10-O17-L52 A10-O17-L52
+EN-A10-O17-L53 A10-O17-L53
+EN-A10-O17-L54 A10-O17-L54
+EN-A10-O17-L55 A10-O17-L55
+EN-A10-O17-L56 A10-O17-L56
+EN-A10-O17-L57 A10-O17-L57
+EN-A10-O17-L58 A10-O17-L58
+EN-A10-O17-L59 A10-O17-L59
+EN-A10-O17-L60 A10-O17-L60
+EN-A10-O17-L61 A10-O17-L61
+EN-A10-O17-L62 A10-O17-L62
+EN-A10-O17-L63 A10-O17-L63
+EN-A10-O17-L64 A10-O17-L64
+EN-A10-O17-L65 A10-O17-L65
+EN-A10-O17-L66 A10-O17-L66
+EN-A10-O17-L67 A10-O17-L67
+EN-A10-O17-L68 A10-O17-L68
+EN-A10-O17-L69 A10-O17-L69
+EN-A10-O17-L70 A10-O17-L70
+EN-A10-O17-L71 A10-O17-L71
+EN-A10-O17-L72 A10-O17-L72
+EN-A10-O17-L73 A10-O17-L73
+EN-A10-O17-L74 A10-O17-L74
+EN-A10-O17-L75 A10-O17-L75
+EN-A10-O17-L76 A10-O17-L76
+EN-A10-O17-L77 A10-O17-L77
+EN-A10-O17-L78 A10-O17-L78
+EN-A10-O17-L79 A10-O17-L79
+EN-A10-O17-L80 A10-O17-L80
+EN-A10-O17-L81 A10-O17-L81
+EN-A10-O17-L82 A10-O17-L82
+EN-A10-O17-L83 A10-O17-L83
+EN-A10-O17-L84 A10-O17-L84
+EN-A10-O17-L85 A10-O17-L85
+EN-A10-O17-L86 A10-O17-L86
+EN-A10-O17-L87 A10-O17-L87
+EN-A10-O17-L88 A10-O17-L88
+EN-A10-O17-L89 A10-O17-L89
+EN-A10-O17-L90 A10-O17-L90
+EN-A10-O17-L91 A10-O17-L91
+EN-A10-O17-L92 A10-O17-L92
+EN-A10-O17-L93 A10-O17-L93
+EN-A10-O17-L94 A10-O17-L94
+EN-A10-O17-L95 A10-O17-L95
+EN-A10-O17-L96 A10-O17-L96
+EN-A10-O17-L97 A10-O17-L97
+EN-A10-O17-L98 A10-O17-L98
+EN-A10-O17-L99 A10-O17-L99
+EN-A10-O17-L100 A10-O17-L100
+EN-A10-O17-L101 A10-O17-L101
+EN-A10-O17-L102 A10-O17-L102
+EN-A10-O17-L103 A10-O17-L103
+EN-A10-O17-L104 A10-O17-L104
+EN-A10-O17-L105 A10-O17-L105
+..TEXT:
+Let us look who it is whom Dante makes
+the typical Spirit of Treachery. The eighth or lowest pit of hell
+is given to its keeping [^Inf.~ xv. 52]; at the edge of which pit
+Virgil casts a ^rope~ down for a signal; instantly, there rises,
+as from the sea, `as one returns who hath been down to loose some
+anchor [^Inf.~ xvi. 134],' `the fell monster with the deadly
+sting, who passes mountains, breaks through fenced walls, and
+firm embattled spears; and with his filth taints all the world.'
+..TEXT:
+Think for an instant of another place: `Sharp stones are
+under him, he laugheth at the shaking of a spear.' We must yet
+keep to Dante, however. Echidna, remember, is half-maiden,
+half-serpent; --- hear what Dante's Fraud is like: ---
+..TEXT:
+<<<FORMATTING-OFF>>>
+     Forthwith that image vile of fraud appear'd,
+     His head and upper part exposed on land,
+     But laid not on the shore his bestial train.
+     His face the semblance of a just man's wore,
+     So kind and gracious was its outward cheer;
+     The rest was serpent all: two shaggy claws
+     Reached to the armpits; and the back and breast,
+     And either side, were painted o'er with nodes
+     And orbits. Colours variegated more
+     Nor Turks nor Tartars e'er on cloth of state
+     With interchangeable embroidery wove,
+     Nor spread Arachne o'er her curious loom.
+     As oft-times a light skiff moor'd to the shore
+     Stands part in water, part upon the land,
+     Or, as where dwells the greedy German boor,
+     The beaver settles, watching for his prey;
+     So on the rim, that fenced the sand with rock,
+     Sat perch'd the fiend of evil. In the void
+     Glancing, his tail upturn'd, its venomous fork
+     With sting like scorpion's arm'd.
+..TEXT:
+You observe throughout this description the leaning on
+the character of the ^Sea~ Dragon; a little farther on, his way
+of flying is told us: ---
+..TEXT:
+<<<FORMATTING-OFF>>>
+     As a small vessel, backing out from land
+     Her station quits: so then the monster loos'd
+     And, when he felt himself at large, turn'd round
+     There, where the breast had been, his forked tail.
+     Thus, like an eel, outstretch'd at length he steer'd,
+     Gathering the air up with retractile claws.
+..TEXT:
+And lastly, his name is told us: Geryon. Whereupon,
+looking back at Hesiod, we find that Geryon is Echidna's brother.
+Man-serpent, therefore, in Dante as Echidna is woman-serpent.
+..TEXT:
+We next find that Geryon lived in the island of Erytheia
+(blushing), only another kind of blushing than that of the
+Hesperid Erytheia. But it is on, also, a western island, and
+Geryon kept red oxen on it (said to be near the red setting sun);
+and Hercules kills him, as he does the Hesperian dragon; but, in
+order to be able to reach him, a golden boat is given to Hercules
+by the Sun, to cross the sea in. . . .
+..TEXT:
+The Hesperian dragon is, in fine, the `Pluto il gran
+nemico' of Dante [^Inf.~ vi. 115]; the demon of all evil passions
+connected with covetousness; that is to say essentially of fraud,
+rage, and gloom.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Modern Painters,~ vol. v. IX. ch. x. sec. 13-15.
+..TEXT:
+Geryon is the evil spirit of wealth, as arising from
+commerce; hence, placed as a guardian of isles in the most
+distant sea, and reached in a golden boat.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Modern Painters~, vol. v IX. ch. x sec. 19.
+..TCHR:
+3145
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+16
+..ENDL:
+17
+..LRNG:
+16 17
+..REFS:
+EN-A10-O17-L16 A10-O17-L16
+EN-A10-O17-L17 A10-O17-L17
+..TEXT:
+[Carpaccio's Sultan] --- "variegated
+like Geryon, to the innermost mind of him --- to the lightest
+gleam of his pencil: `con pi$u color, sommesse e sopraposte; non
+f#er mai drappi Tartari n$e Turchi;' and all for good."
+..TEXT:
+<<<FORMATTING-OFF>>>
+     Anderson, quoted in ^St. Mark's Rest~, Supp. i.
+..TCHR:
+268
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+45
+..ENDL:
+45
+..LRNG:
+45
+..REFS:
+EN-A10-O17-L45 A10-O17-L45
+..TEXT:
+To receive either a `remuneration,' or a
+`portion,' or a `share,' for the loan of anything, without
+personally working, was held by Dante and other such simple
+persons in the middle ages to be one of the worst sins that could
+be committed ^against~ nature: and the receivers of such interest
+were put in the same circle of Hell with the people of Sodom and
+Gomorrah.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Fors Clavigera,~ xi.
+..TCHR:
+386
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+64
+..ENDL:
+64
+..LRNG:
+64
+..REFS:
+EN-A10-O17-L64 A10-O17-L64
+..TEXT:
+[Enrico Scrovegno, a noble Paduan, built in
+1303 a fortified palace and a chapel dedicated to the Annunciate
+Virgin,] and Giotto appears to have been summoned to decorate the
+chapel, he being at that time (1306) the acknowledged master of
+painting in Italy. . . . For the power of making this purchase,
+Scrovegno was in all probability indebted to his father,
+Reginald, who, for his avarice, is placed by Dante in the seventh
+circle of the Inferno, and regarded apparently as the chief of
+the usurers there, since he is the only one who addresses Dante.
+..TEXT:
+Noting the visages of some who lay
+<<<FORMATTING-OFF>>>
+     Beneath the pelting of that dolorous fire,
+     One of them all I knew not: but perceived
+     That pendent from his neck each bore a pouch,
+     With colours and with emblems variously marked,
+     On which it seemed as if their eye did feed.
+     And when amongst them looking round I came,
+     A yellow purse I saw, with azure wrought,
+     That wore a lion's countenance and port.
+     Then, still my sight pursuing its career,
+     Another I beheld, than blood more red,
+     A goose display of whiter wing than curd.
+     ^And one who bore a fat and azure swine~
+     ^Pictured on his white scrip, addressed me thus~:
+     What dost thou in this deep? Go now and know,
+     Since yet thou livest, that my neighbor here,
+     Vitaliano, on my left shall sit.
+     A Paduan with these Florentines am I.
+     Ofttimes they thunder in my ears, exclaiming,
+     Oh! haste that noble knight, he who the pouch
+     With the three goats will bring. This said, he writhed
+     The mouth, and lolled the tongue out, like an ox
+     That licks his nostrils.
+..TEXT:
+This passage of Cary's `Dante' is not quite so clear as
+that translator's work usually is. `One of them all I knew not'
+is an awkward periphrasis for `I knew none of them.' Dante's
+indignant expression of the effect of avarice in withering
+away distinctions of character, and the prophecy of Scrovegno,
+that his neighbour Vitaliano, then living, should soon be with
+him, to sit on his left hand, is rendered a little obscure by the
+transposition of the word `here.' Cary has also been afraid of
+the excessive homeliness of Dante's imagery; `whiter than curd'
+being in the original `whiter than butter.' The attachment of the
+purse to the neck, as a badge of shame, in the Inferno, is found
+before Dante's time; as, for instance, in the windows of Bourges
+cathedral (see Plate III. of MM. Martin and Cahier's beautiful
+work). And the building of the Arena Chapel by the son, as a kind
+of atonement for the avarice of the father, is very
+characteristic of the period, in which the use of money for the
+building of churches was considered just as meritorious as its
+unjust accumulation was criminal. I have seen, in a MS. Church-
+service of the thirteenth century, an illumination representing
+Church-consecration, illustrating the words, `Fundata est domus
+domini supra verticem montium,' surrounded for the purpose of
+contrast, by a grotesque, consisting of a picture of a miser's
+death-bed, a demon drawing his soul out of his mouth, while his
+attendants are searching in his chests for his treasures.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Giotto and his Works.~
+..TEXT:
+In the middle ages, wealth seems to have been looked upon
+by the best of men not only as contemptible, but as criminal.
+The purse around the neck [line 55] is, then, one of the
+principal signs of condemnation in the pictured inferno; and the
+Spirit of Poverty [^Para.~ xi. 58] is reverenced with subjection
+of heart, and faithfulness of affection, like that of a loyal
+knight for his lady, or a loyal subject for his queen.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^A Joy Forever~, Lect. i. (1st paragraph).
+..TCHR:
+3586
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+105
+..ENDL:
+105
+..LRNG:
+105
+..REFS:
+EN-A10-O17-L105 A10-O17-L105
+..TEXT:
+Geryon, the type of avaricious fraud, as he
+flies, gathers the ^air~ up with retractile claws.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Unto this Last,~ Essay iv.
+..TCHR:
+125
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+134
+..ENDL:
+134
+..LRNG:
+134
+..REFS:
+EN-A10-O17-L134 A10-O17-L134
+..TEXT:
+[As regards rocks] Dante's thoughts are
+clearly fixed altogether on the question of mere accessibility or
+inaccessibility. He does not show the smallest interest in the
+rocks, except as things to be conquered; and his description of
+their appearance is utterly meagre, involving no other epithets
+than `erto' (steep or upright), Inferno, xix. 131; Purgatorio,
+iii. 47, etc.; `sconcio' (monstrous), Inferno, xix. 131;
+`stagliata' (cut), Inferno, xvii. 134; `maligno' (malignant),
+Inferno, vii. 108; `duro' (hard), xx. 25; with `large' and `broken'
+(rotto) in various places. No idea of roundness, massiveness, or
+pleasant form of any kind appears for a moment to enter his mind;
+and the different names which are given to the rocks in various
+places seem merely to refer to variations in size: thus a `rocco'
+is part of a `scoglio,' Inferno, xx. 25 and xxvi. 17; a
+`scheggio' (xxi. 60, 89 and xxvi. 17) is a less fragment yet; a
+`petrone' or `sasso' is a large stone or boulder (Purgatorio, iv.
+101, 104), and `pietra' a less stone, --- both of these last
+terms, especially `sasso,' being used for any large mountainous
+mass, as in Paradiso, xi. 106; and the vagueness of the word
+`monte' itself, like that of the French `montagne,' applicable
+either to a hill on a post-road requiring the drag to be put on,
+--- or to the Mont Blanc, marks a peculiar carelessness in both
+nations, at the time of the formation of their languages, as to
+the sublimity of the higher hills; so that the effect produced on
+an English ear by the word `mountain,' signifying always a mass
+of a certain large size, cannot be conveyed either in French or
+Italian.
+..TEXT:
+In all these modes of regarding rocks we find (rocks
+being in themselves . . . by no means monstrous or frightful things)
+exactly that inaccuracy in the mediaeval mind which we had been
+led to expect, in its bearing on things contrary to the spirit of
+that symmetrical and perfect humanity which had formed its
+ideal; and it is very curious to observe how closely in the terms
+he uses, and the feelings they indicate, Dante here agrees with
+Homer. For the word `stagliata' (cut) corresponds very nearly to
+a favourite term of Homer's respecting rocks `sculptured,' used
+by him also of ships' sides; and the frescoes and illuminations
+of the middle ages enable us to ascertain exactly what this idea
+of `cut' rock was. [Homer and Dante] had observed the concave
+smoothness of certain rock fractures as eminently distinctive of
+rock from earth, and use the term `cut' or `sculptured' to
+distinguish the smooth surface from the knotty or sandy one,
+having observed nothing more respecting its real contours than is
+represented in [rock-drawings of Ghirlandajo and Filippo
+Pesellino] which look as if they had been hewn out with an adze.
+Lorenzo Ghiberti preserves the same type, even in his finest
+work.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Modern Painters~, vol. iii. ch. xv. sec. 14-16.
+..TEXT:
+These upper precipices . . . illustrate the favourite
+expression of Homer and Dante --- ^cut~ rocks. However little
+satisfied we had reason to be with the degree of affection shown
+towards mountain scenery by either poet, we may now perceive,
+with some respect and surprise, that they had got at one
+character which was in the essence of the noblest rocks, just as
+the early illuminators got at the principles which lie at the
+heart of vegetation. As distinguished from all other natural
+forms, --- from fibres which are torn, crystals which are broken,
+stones which are rounded or worn, animal and vegetable forms
+which are grown or moulded, --- the true hard rock or precipice
+is notably a thing ^cut~, its inner ^grain~ or structure seeming
+to have less to do with its form than is seen in any other object
+or substance whatsoever; and the aspect of subjection to some
+external sculpturing instrument being distinct in almost exact
+proportion to the size and stability of the mass.
+..TEXT:
+<<<FORMATTING-OFF>>>
+     ^Modern Painters~, vol. iv. ch. xvi. sec. 19.
+..TCHR:
+3865
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+10
+..ENDL:
+18
+..LRNG:
+10 11 12 13 14 15 16 17 18
+..REFS:
+EN-A10-O17-L10 A10-O17-L10
+EN-A10-O17-L11 A10-O17-L11
+EN-A10-O17-L12 A10-O17-L12
+EN-A10-O17-L13 A10-O17-L13
+EN-A10-O17-L14 A10-O17-L14
+EN-A10-O17-L15 A10-O17-L15
+EN-A10-O17-L16 A10-O17-L16
+EN-A10-O17-L17 A10-O17-L17
+EN-A10-O17-L18 A10-O17-L18
+..TEXT:
+See above, canto xii.
+..TCHR:
+21
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+45
+..ENDL:
+47
+..LRNG:
+45 46 47
+..REFS:
+EN-A10-O17-L45 A10-O17-L45
+EN-A10-O17-L46 A10-O17-L46
+EN-A10-O17-L47 A10-O17-L47
+..TEXT:
+See above, canto vii.
+..TCHR:
+21
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+103
+..ENDL:
+105
+..LRNG:
+103 104 105
+..REFS:
+EN-A10-O17-L103 A10-O17-L103
+EN-A10-O17-L104 A10-O17-L104
+EN-A10-O17-L105 A10-O17-L105
+..TEXT:
+See below, canto xxxi.
+..TCHR:
+22
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+*** BRS DOCUMENT BOUNDARY ***
+\~ Warning: Automatic document break caused by repeat of paragraph
+..COMM:
+Ruskin
+..LANG:
+English
+..PUBD:
+1903
+..LODD:
+040428
+\~ Date was Replaced
+..DTYP:
+T
+..CTCA:
+10-Inferno
+..CNTO:
+17
+..LINE:
+118
+..ENDL:
+119
+..LRNG:
+118 119
+..REFS:
+EN-A10-O17-L118 A10-O17-L118
+EN-A10-O17-L119 A10-O17-L119
+..TEXT:
+See below, canto xxxi.
+..AUTH:
+..PUBL:
+..EDTR:
+..ATTR:
+..NOTE:
+..DENT:
+..BTXT:
+..TCHR:

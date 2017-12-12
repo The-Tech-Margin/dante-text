@@ -1,0 +1,43 @@
+TYPIST INFORMATION for the DARTMOUTH DANTE PROJECT.
+
+This file is intended to be a quick style reference for keyboarded
+texts.  For more complete information, see the printed technical
+memo, available from the DDP office, 301 Bartlett Hall
+(language lab building).
+
+STANDARD DDP TEXT FORMAT, ON UNIX:
+
+CANTO TITLE, flush to the left (no commands needed).
+PARAGRAPHS, standard indent. (Use ".P" command on line by
+     itself preceding each new paragraph.)
+INDENTED QUOTES, use ".I" command on line by itself preceding each
+     section of indented quotes.
+ LINE NUMBER references to canto, use bold face (see 
+      Font Change section below).
+Special characters (accents, ligatures, european quotes, etc.,
+     see Escape Sequence section below).
+FONT CHANGES (italics, boldface, greek) see Font Change section
+     below).
+
+ESCAPE SEQUENCE CODES FOR SPECIAL CHARACTERS:
+
+Grave accent over letter (`):  @(letter)
+Acute   "     "     "    ('):  $   " 
+Umlaut  "     "     "    ("):  ,   "
+
+Left quote (european <<)    :  <word
+Right quote (   "     >>)   :  word>
+Degree mark                 :  word/number+ (word/number,plus sign)
+Ligature (connected "ae"
+or "oe")                    :  @@(letters)
+
+FONT CHANGE CODES:
+
+Bold face      :  |word/s~ (vertical bar,word/s,tilde)
+Italics        :  ^word/s~ (caret,word/s,tilde)
+Go to greek    :  %escape characters~ (percent,escapes,tilde)
+     (A complete list of the escape characters for greek is
+     on the technical memo available from the DDP office.  If
+     you are caught without this memo, and you come across a 
+     greek work or phrase, MARK THE LOCATION with %______~ so
+     the word/s can be filled in later.)

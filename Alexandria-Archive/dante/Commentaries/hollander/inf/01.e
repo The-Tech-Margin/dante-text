@@ -1,0 +1,1029 @@
+	|1.~  The first of the 14,233 lines that constitute the ^Comedy~ 
+immediately establishes a context for the poem that is both universal 
+and particular.  It also immediately compels a reader to realize that 
+this is a difficult text, one that may not be read passively, but must 
+be 'interpreted.'  And the exegetical tradition that has grown upon 
+(and sometimes over) the text is so responsive to these characteristics 
+that it often seems to overwhelm its object.  There are so many issues 
+raised in the poem, so many raised by its commentators, that one reads 
+Francesco Mazzoni's extraordinarily helpful gloss to this single verse 
+with admiration and instruction without, at first, even noticing that 
+it is twelve pages in length (Mazzoni, ^Saggio di un nuovo commento 
+alla "Divina Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 
+1967], pp. 14-25).
+	Many commentators have pointed out that this opening verse echoes a 
+biblical text, Isaiah's account of the words of Hezekiah, afflicted by 
+the 'sickness unto death' (Isaiah 38:10): 'in dimidio dierum meorum 
+vadam ad portas inferi' (in the cutting off of my days, I shall go to 
+the gates of the nether region).  A recent commentator has suggested 
+that Dante's view of his kinship with Hezekiah, like himself 'a model 
+of the sinner who finds himself and redeems himself by means of 
+repentance and hope,' was shaped by Bernard of Clairvaux, whose 
+thoughts about Hezekiah are found in his ^Sermones de diversis~ III, PL 
+183.546-51 (see Anthony K. Cassell,  ^Lectura Dantis Americana~: 
+^"Inferno" I~ [Philadelphia: University of Pennsylvania Press, 1989], 
+p. 13).  It is also true that many another potential 'source' has found 
+proponents, but this one is so apposite that it has probably received 
+more attention than any other.  One other should also be mentioned 
+here, the ^Tesoretto~ of Brunetto Latini (see note to ^Inf~. XV.50).
+	The centuries-long debate as to whether we should read the ^Comedy~ as 
+an allegory, in which the surface action is to be understood as a 
+fictive wrapping meant to bring the reader moralizing messages, or as 
+the 'historical' record of an actual visit to the afterworld by a 
+specific individual begins right here.  Exemplary of the first tendency 
+is the allegorical reading of the first verse found in Guido da Pisa 
+(comm. to ^Inf~. I.1): 'Per istud dimidium nostre vite accipe somnum' 
+(for this 'middle of our life' understand 'sleep'), a reading found as 
+well in Dante's son Pietro (Pietro1 to ^Inf~. I.1), who also glosses 
+the meaning of the line as ^somnus~ -- 'sleep' -- and thus indeed 
+'dream' (the related term ^somnium~ has both meanings in Latin).  The 
+poem, as a result, is seen as a 'dream vision,' which must be 
+interpreted allegorically, as a ^fabula~ with a hidden meaning that 
+needs to be teased out of it.  Mazzoni demonstrates that this basic 
+view of the poem was common to many of its early commentators.  
+However, alongside of it there existed a second view (sometimes 
+combined with the first, sometimes at least intrinsically opposing it), 
+one which held that the reference is to the age of Dante when he made 
+his voyage (he was thirty-five years old in 1300, half of the biblical 
+'three score and ten' of Psalms 89:10).  This tradition begins with his 
+elder son (and commentator) Jacopo and reaches its clearest expression 
+in the Ottimo's third redaction, ca. 1340 (unpublished, see Mazzoni, 
+^Saggio di un nuovo commento alla "Divina Commedia": "Inferno" --Canti 
+I-III~ [Florence: Sansoni, 1967], p. 15, for the text), citing Dante's 
+own ^Convivio~ (IV.xxiii.9-14) by name and chapter (and this is perhaps 
+the first ^precise~ textual citation of ^Convivio~ that we possess) for 
+the discussion of the four ages of man found there.
+	These conflicting ways of looking at the narrative, present here at 
+its very threshold, force us to make a choice as to whether we should 
+take the poem as presenting an autobiographical narrative that, even 
+though we know it to be fictive, must be dealt with as though it were 
+'historical,' or as merely a fiction, and thus to be dealt with as we 
+have been taught to deal with 
+any such human poetic production, by 'allegorizing' it to find a deeper 
+meaning.
+	Related issues are also debated by the earliest commentators, in 
+particular the date of the vision.  While there has been disagreement 
+even about the year of the journey to the otherworld, indicated at 
+various points as being 1300 (e.g., ^Inf~. X.79-80, ^Inf~. XXI.113, 
+^Purg~. II.98, ^Purg~. XXXII.2), it is pellucidly clear that Dante has 
+set his work in the Jubilee Year, proclaimed by Pope Boniface VIII in 
+February of 1300.  Far more uncertainty attends the question of the 
+actual days indicated.  Dante's descent into hell is begun either on 
+Friday 25 March or on Friday 8 April, with the conclusion of the 
+journey occurring almost exactly one week later.  There is a large 
+bibliography on the question.  For a review see Bruno Basile, 'viaggio' 
+(ED.1976.5), pp. 995-99.  Basile and this writer both find most 
+convincing the arguments of Amerindo Camilli, "La cronologia del 
+viaggio dantesco," ^Studi Danteschi~ 29 (1950), 61-84, who argues 
+strongly for the March dates.  There can hardly be a more propitious 
+date for a beginning, as Camilli pointed out.  March 25th is, for 
+Dante, the anniversary of the creation of Adam, of the conception and 
+of the crucifixion of Christ, and also marks the Florentine 'New Year,' 
+since that city measured the year from the Annunciation (25 March).
+	There is a further and related problem that will detain us a moment 
+longer.  At least since Plato's time the ^annus magnus (~'great year'), 
+that cycle that brings all the stars back to their original alignment 
+in the heavens, was thought to last 36,000 years.  In ^Convivio~ 
+(II.v.16) Dante accepts that traditional view.  It is, however, an 
+interesting fact that Filippo Villani, commenting on the first canto of 
+the poem early in the fifteenth century, says that the ^annus magnus~ 
+contains 13,000 years (ed. Bellomo, p. 83).  For Villani the number 
+does not count the years of the great revolution of the heavens, but 
+the years of human life on earth.  His number is interesting, since it 
+has the effect of making Dante's journey occur at nearly the precise 
+mid-point of the cycle of the years allotted to humanity's earthly 
+'voyage,' a second sort of 'great year,' as it were, in the year 6499 
+(extractable from Dante's numeration of the ages found in ^Par~. 
+26.118-123).  Bellomo's note to the passage in Villani suggests that 
+there was one Christian tradition that saw the year 1300 as, indeed, 
+the midpoint in this 13,000-year cycle.  Villani's interpretation is 
+that what is at stake here is not the story of one life but that of 
+humanity (see Mazzoni, ^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967],  pp. 18, 
+21), for discussion of Villani's gloss, which is not acceptable in its 
+excision of Dante's life from the equation, but has other promising 
+aspects).  If we follow Villani, we can see that Dante's first verse, 
+with something approaching terrifying precision, dates the opening of 
+his poem to the midpoint of his own life and to that of the life of the 
+species.  And thus 'Nel mezzo del cammin di nostra vita' 
+means exactly two complementary things: when the author had lived 35 of 
+the 70 years alloted to humans; when the human race had lived the first 
+half of its allotted time on earth.  For the most recent discussion to 
+link a 13,000-year ^annus magnus~ and Dante's opening verse see 
+Guglielmo Gorni, ^Dante nella selva: il primo canto della "Commedia"~ 
+(Parma: Pratiche, 1995), p. 60.
+
+	|2.  mi ritrovai~ (I came to myself) has the sense of a sudden shocked 
+discovery.  Padoan has said this well (comm. to ^Inf~. I.2): 'It is the 
+pained amazement of one who has only now, for the first time, become 
+aware that he is in peril.'
+	The grammatical solecism ('Nel mezzo del cammin di ^nostra~ vita / 
+^mi~ ritrov^ai~'), mixing plural and singular first-persons, is another 
+sign of the poet's desire to make his reader think, realizing the 
+relation between the individual and the universal, between Dante and 
+all humankind.  His voyage is meant to be understood as ours as well.
+	The ^selva oscura~ is one of the governing images of this canto and of 
+the poem.  Many commentators point to the previous metaphorical 
+statement found in the Dantean work that is probably nearest in time to 
+it, the fourth treatise of his ^Convivio~ (IV.xxiv.12), where the 
+author refers to 'la selva erronea di questa vita' (the error-filled 
+wood of this life).  But here the wood is to be taken 'historically' in 
+at least a certain sense, and seems to reflect, to some readers, the 
+condition of Eden after the Fall.  In such a reading, Dante's sinful 
+life is as though lived in the ruins of Eden, the place to which he has 
+let himself be led, away from the light of God.  In any case, and to 
+agree with Mazzoni (^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967] ), p. 85, 
+the wood indicates not sin itself, but human life lived in the 
+condition of sin.
+
+	|3.~  See Wisdom (Sap. 5:7): 'Lassati sumus in via iniquitate et 
+perditionis, et ambulavimus vias difficiles; viam autem Domini 
+ignoravimus' (We grew weary in the way of iniquity and perdition, and 
+we walked difficult pathways; to the way of the Lord, however, we paid 
+no attention).  The citation is found in Padoan (comm. to ^Inf~. III.3).
+	The word ^ch$e~ has been a source of energetic debate.  All students 
+of Dante understand that the accents and marks of punctuation in 
+editions of his texts are necessarily problematic.  We have no 
+autograph manuscript to turn to, and fourteenth-century scribal 
+practice in this respect is various in itself and different from our 
+own.  Here we are dealing with a dispute that has gone on for centuries 
+(for a review see Mazzoni [^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ (Florence: Sansoni, 1967), pp. 
+31-32]).  While there are a number of solutions that have been put 
+forward, the two current views that have large numbers of supporters 
+are that of Antonino Pagliaro (^Ulisse~: ^ricerche semantiche sulla 
+"Divina Commedia"~ [Messina-Florence: D'Anna, 1967]), pp. 14-15 (n. 9), 
+for whom ^che~ is a 'relative conjunction' used to express mode, or 
+result (i.e., 'so that the straight way was lost') and that of Giorgio 
+Petrocchi (^La Commedia secondo l'antica vulgata~ [Florence: Le 
+Lettere, 1994 (1966)], ^Inferno~, p. 3), who argues for the causal 
+conjunction ^ch$e~.  We, if we were editing rather than translating the 
+text, would side with Pagliaro (and now with Gorni, ^Dante nella selva: 
+il primo canto della "Commedia"~ [Parma: Pratiche, 1995], pp. 64-65). 
+
+	|5.  forte~  (dense): see Boccaccio (comm. to ^Inf~. I.5), cited by 
+Padoan (comm to ^Inf~. I.5): 'difficult to move through and to escape 
+from.'
+
+	|7.~  Perhaps the first serious interpretive tangle for readers of the 
+poem.  (There will be many more.)  See the summary of the various 
+arguments presented by Mazzoni (^Saggio di un nuovo commento alla 
+"Divina Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967]), 
+pp. 49-51.  The problem is a simple one to describe: what is the 
+antecedent of the implicit subject of the verb ^@e~ ('^It~ is so 
+bitter...')?  There are three feminine nouns that may have that role, 
+since the predicate adjective, ^amara~ (bitter), is also in the 
+feminine: ^cosa~ (v. 4), ^selva~ (v. 5), ^paura~ (v. 6).  Mazzoni, 
+Pagliaro (^Ulisse~: ^ricerche semantiche sulla "Divina Commedia"~ 
+(Messina-Florence: D'Anna, 1967), p. 639, and Petrocchi (^La Commedia 
+secondo l'antica vulgata~, ^Inferno~), all are convinced that ^selva~ 
+is the antecedent.  Our translation attempts to leave the at least 
+apparent ambiguity of Dante's phrasing intact.  On the other hand, in 
+the role of commentator, this writer is close to certain that a 
+sixteenth-century commentator had long ago solved the problem (and had 
+many followers through the nineteenth century, e.g., Campi, comm. to 
+^Inf~. I.7): the antecedent is the phrase ^cosa dura~ (Castelvetro, 
+comm. to ^Inf~. I.7).  Indeed, the entire passage makes good sense when 
+read this way.  To tell of his experience in the dark and savage wood 
+is difficult (vv. 4-6) and so bitter that only dying seems more bitter; 
+^but~, in order to treat of the better things he found in the wood, he 
+^will~ speak.  In verse 4 it was difficult to speak of such things; in 
+v. 9 he will speak of them (the same verb is used in each verse, 
+^dire~).  Further, the present tense of the verb in v. 7 works against 
+^selva~ as antecedent: the writer is no longer in the wood.  
+Grammatically, ^selva~, currently the most popular choice, is the least 
+likely of the three.  And Dante's fear (^paura~), which ^is~ present, 
+just does not make as much logical sense as ^cosa dura~ as antecedent.  
+Gorni (^Dante nella selva: il primo canto della "Commedia"~ [Parma: 
+Pratiche, 1995],  pp. 63-64) also believes that ^cosa dura~ is the 
+antecedent.
+
+	|8-9.~  These innocent-sounding lines have been the cause of 
+considerable puzzlement.  For a review see Mazzoni (Mazzoni, ^Saggio di 
+un nuovo commento alla "Divina Commedia": "Inferno" --Canti I-III~ 
+[Florence: Sansoni, 1967]), pp. 51-55.  What is 'the good' that Dante 
+found?  What are the 'other things'?  As Parodi (cited by Mazzoni, p. 
+55) has argued, these terms are in antithetic relation.  This is not 
+the usual interpretation, but perhaps a convincing one, given Dante's 
+own earlier formulation, put in evidence by Parodi: 'lo bene e l'altro' 
+of a person, that is, the worth and failings of a being (^Convivio~ 
+II.x.9).  See also, centuries earlier, Filippo Villani (ed. Bellomo, p. 
+93), 'de bonis et malis in silva repertis' (of the good and the bad 
+found in the forest).  Following this interpretation yields the 
+following general sense of the passage: 'Even in the depths of my sin I 
+found God in terrible things.'  And thus the ^ben~ is not here Virgil 
+(as many commentators suggest, despite the fact that Virgil does not 
+appear to Dante ^in~ the forest), but, this writer would argue, God's 
+grace in allowing Dante to learn of His goodness even in his worst 
+experiences.
+
+	|11.  pien di sonno~.  The date is Thursday 24 March (or 7 April?) 
+1300.  As the text will later make clear (see ^Inf~. XXI.112-114), we 
+are observing the 1266th anniversary of Good Friday (which fell on 8 
+April in 1300, even if Dante pretty clearly also indicates 25 March as 
+the supposed date of the beginning of the journey [see the note to 
+^Inf~. I.1]).  This would indicate that the poem actually begins on 
+Thursday evening, the 1266th anniversary of Maundy Thursday, when the 
+Apostles slept while Christ watched in the garden, and then even when 
+He called to them to rise.  That this moment is recalled here seems 
+likely: Dante, too, is 'asleep' to Christ in his descent into sin.  See 
+Matthew 26:40-46.  This interesting observation was, as far as one can 
+tell, first made some years ago by a student, Andrew Bramante 
+(Dartmouth '81).
+	Filippo Villani (ed. Bellomo, pp. 95-96), here thinks of the 
+temptation by the serpent of Adam who 'quando, ratione in ipso penitus 
+dormiente,... sensualitati factus est obediens' (when, his reason 
+sleeping within him,... became ruled by his senses).
+
+	|13.~  The |colle~ (hill) is generally interpreted as signifying the 
+good life attainable by humankind under its own powers; some, however, 
+believe it has a supernatural meaning, e.g., Tristano Bolelli, "Il 
+'dilettoso monte' del I canto dell'^Inferno~ (v. 77)," in ^Studi in 
+onore di Alberto Chiari~ (Brescia: Paideia, 1973), pp. 165-68.  For 
+discussion and strong support for the first reading, based in texts of 
+Aristotle, Brunetto Latini, and Dante himself (esp. ^Mon~. III.xvi.7: 
+^beatitudo huius vitae~ [the blessedness of this life]), see Mazzoni 
+(^Saggio di un nuovo commento alla "Divina Commedia": "Inferno" --Canti 
+I-III~ [Florence: Sansoni, 1967]), pp. 58-60.  Recently Anthony Cassell 
+has tried to make the case that this attempted climb on Dante's part is 
+prideful and to be condemned as a sort of 'Pelagian' assault on God's 
+grace (^Lectura Dantis Americana~: ^"Inferno" I~ [Philadelphia: 
+University of Pennsylvania Press, 1989],  pp. 22-30), a reading that 
+has not proven particularly convincing, in part because it means that 
+we must consider Virgil's later exhortation of Dante to climb the 
+mountain (^Inf~. I.76-78) an error of considerable weight, and this 
+seems a forced interpretation in that circumstance.
+
+	|14.  valle~ (valley): another key word in this landscape.  Dante's 
+descent into the valley where the ^selva~ is located marks a major 
+moral failure and brings him close to death.  What all this means in 
+terms of Dante's actual life is extremely difficult to say.  It also 
+raises the question of ^when~ this or these misadventure(s) occurred, 
+before March 1300, or after the imagined date of the poem's action.  
+This is a matter addressed centrally by Lino Pertile in "Dante's 
+^Comedy~: Beyond the ^Stilnovo~," ^Lectura Dantis [virginiana]~ 13 
+(1993), 47-77, if with respect to passages in the ^Purgatorio~, but in 
+ways that are relevant to the question whenever it is posed.  Does 
+Dante restrict reference in the poem to events and activities that have 
+occurred before 1300 (except when he develops 'prophetic' 
+intercalations to excuse such advance knowledge)?  Or does he feel free 
+to violate the temporal boundaries that he himself has established in 
+order to include more of his experience as material for his poem?  In 
+disagreement with Pertile, this writer supports the second alternative.
+
+	|15.  paura~ (fear), as many have pointed out, is perhaps the key 
+word, in the beginning of the poem, that describes Dante's perilous 
+inner condition.  It occurs five times in the canto: ^Inf~. I.6; here; 
+^Inf~. I.19; ^Inf~. I.44; ^Inf~. I.53.
+
+	|16.  guardai in alto~.  For classical and patristic texts that 
+present mankind as upright and up-looking, and thus as different from 
+(and vastly superior to) the beasts, see Mazzoni, ^Saggio di un nuovo 
+commento alla "Divina Commedia": "Inferno" --Canti I-III~ (Florence: 
+Sansoni, 1967), pp. 61-68.
+
+	|17.  pianeta~: the rays of the sun are meant.
+
+	|18.  altrui~ (other men): all those who walk in the ways of the Lord.
+
+	|20.~  For Boffito's studies on the theories of the circulation of the 
+blood in Dante's time see Singleton (comm. to ^Inf~. I.20).  Singleton 
+also mentions, as does many another modern commentator, that for 
+Boccaccio (comm. to ^Inf~. I.20) this 'lake' or 'concavity' (or 
+'ventricle'?) is the place to which emotions flow in us; Boccaccio goes 
+on to mention fear as the exemplary emotion.
+	For a possible earlier Dantean use of the phrase 'lago del cor' see 
+^Rime dubbie~ III.8-9.
+	In an early article in which he discusses ^Inferno~ II.108, another 
+Dantean passage about perilous waters that has caused commentators 
+difficulty, Singleton ("'Sulla fiumana ove 'l mar non ha vanto' 
+[^Inferno~, II, 108]," ^Romanic Review~ 39 [1948], 269-77), cites a 
+passage from Hugh of St. Victor (d. 1141) on Noah's Ark: 'And now let 
+us understand the concupiscence of the world that is in the heart of 
+man as waters of the flood.'  It might seem that this passage is even 
+more apposite to the text before us than to the later one.  For here 
+Dante, having come back to his senses from his concupiscent wandering, 
+moves from appetite to shamefast fear.  That is the first step in his 
+journey out of the 'flood' that threatens to 'drown' him.
+
+	|22-27.~  This is the first simile in a poem that is filled with 
+similes, as many as four hundred of them in the three ^cantiche~.  
+Here, in response to the first of them, it is perhaps helpful to 
+observe that 'similes' in Dante are varied, and perhaps fall into three 
+rough categories: 'classical' similes, like this one, perfectly 
+balanced and grammatically correct; 'improper classical' similes, which 
+are similarly balanced but not expressed with grammatical precision; 
+simple comparisons, which are brief and unembellished.  There will be 
+more along these lines in response to individual similes and 
+comparisons.  For a study in English of the Dantean simile see Richard 
+Lansing, ^From Image to Idea: A Study of the Simile in Dante's 
+"Commedia"~ (Ravenna: Longo, 1977); for bibliography, see Madison U. 
+Sowell, "A Bibliography of the Dantean Simile to 1981," ^Dante Studies~ 
+101 (1983), 167-80.
+	According to Hollander (^Allegory in Dante's "Commedia"~ [Princeton: 
+Princeton University Press, 1969)]), pp. 84-86, this simile takes its 
+setting from the ^Aeneid~ (I.180-181) and begins a series of linking 
+allusions to the narrative of the first book of that poem that run 
+through ^Inferno~ I and II.  He argues that Dante begins his role as 
+protagonist in this 'epic' as the 'new Aeneas'; his first words as 
+speaker will later suggest that he is the 'new David' as well (^Inf~. 
+I.65).
+
+	|24.  guata~.  Mazzoni (^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967]), p. 79, 
+describes this verb as an intensive form of ^guardare~ that means 'to 
+stare fixedly.'
+
+	|25.  animo~.  For a series of useful distinctions about the animating 
+forces within us see Mazzoni, ^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ (Florence: Sansoni, 1967), p. 79, 
+citing St. Thomas's redeployment of concepts found in St. Augustine.  
+The soul (^anima~) animates the body, while the ^animo~ is the force 
+within us that wills.  English still has the word ^animus~ that 
+remembers this distinction.  We have translated with the word ^mind~, 
+hoping that it will have the feeling of 'that in us which decides.'
+
+	|26-27.~  A much-disputed passage.  For a summarizing discussion see 
+Mazzoni (^Saggio di un nuovo commento alla "Divina Commedia": "Inferno" 
+--Canti I-III~ [Florence: Sansoni, 1967]), pp. 79-86.  Almost all 
+commentators equate the ^passo~ with the ^selva~ (see note to ^Inf~. 
+I.2).  The debate centers on whether the relative pronoun ^che~ is 
+objective or subjective, i.e., do we say 'the pass that never let a 
+mortal being go alive' or 'the pass no mortal being ever left behind'?  
+Mazzoni offers convincing evidence for the second reading, on the basis 
+of Dante's elsewise constant use of the verb ^lasciare~ in this way (to 
+mean 'abandon,' 'leave behind'), even if his position is not always 
+accepted (see, e.g., Padoan, comm. to ^Inf~. I.27).  We have followed 
+Mazzoni in our translation.
+	Dante's verse may reflect one of the first vernacular poems in 
+Italian, the 'Laudes creaturarum' of St. Francis, vv. 27-28: 'Laudato 
+si', mi' Signore, per sora nostra morte corporale, / de la quale nullu 
+homo vivente p@o skappare' (Blessed be thou, my Lord, for our 
+sister mortal death, from whom no living man can escape).  Whether or 
+not this is the case (and we might consider a second possible citation 
+of Francis's poem in ^Inf~. I.117 -- see the note to ^Inf~. I.117), the 
+meaning would seem to be that Dante's extraordinary voyage into the 
+afterworld will uniquely separate him, if only temporarily, from the 
+world of the living while he is still alive.  This is not, as Padoan 
+proposes, an obvious or banal verse if it is so construed.
+
+	|29.  la piaggia diserta~: the gently sloping plain between the edge 
+of the forest and the steeper incline of the hill.  See Barbi 
+(^Problemi di critica dantesca~ [Florence: Sansoni, 1934]), pp. 
+200-201, 235-36.  Singleton (comm. to ^Inf~. I.29) insists that 
+^piaggia~ may here also mean 'shore' (because he is intent on 
+associating the Exodus with this line).  This seems a less than 
+convincing reading.
+
+	|30.~  Another source of exacerbation in the commentaries.  Are we to 
+read this line literally? metaphorically? or both ways?  Practice has 
+varied for centuries and debate will undoubtedly continue.  For a 
+review see Mazzoni (^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967]), pp. 
+91-99.  And it is good to keep in mind Mazzoni's view that the 
+allegorical elements of this canto are perhaps better referred to as 
+metaphors (p. 3).  See also Zygmunt G. Baranski's study of the various 
+kinds of allegory found in this first canto of the poem ("La lezione 
+esegetica di ^Inferno~ I: allegoria, storia e letteratura nella 
+^Commedia~," in ^Dante e le forme dell'allegoresi~, ed. M. Picone 
+[Ravenna: Longo, 1987], pp. 79-97).  Here it seems wisest to believe 
+that the words are meant both literally and figuratively: Dante, sorely 
+beset by his fatigue and probably by his fear as well, is inching up 
+the slope toward the hill by planting his bottom foot firm and pushing 
+off it to advance the higher one.  However, and as Filippo Villani was 
+first to note, there is a Christian tradition for such a difficult 
+progress toward one's goal, found precisely in St. Augustine, who for a 
+long time remained a catachumen before he chose his life in Christ (ed. 
+Bellomo, p. 109).  John Freccero, without apparently consulting him, 
+revisited some common ground with Villani.  According to Freccero's 
+article 'Dante's Firm Foot and the Journey without a Guide' (1959), 
+reprinted in ^Dante: The Poetics of Conversion~, ed. Rachel Jacoff 
+(Cambridge: Harvard University Press, 1986), Dante moves forward with 
+the right foot, representing the intellect, supported by the left foot, 
+representing his will.  Freccero goes on to show that the resultant 
+figuration is one of ^homo claudus~, a limping man, wounded in both his 
+feet by Adam's sin.  What Freccero has not apparently noticed is that 
+Villani (ed. Bellomo, pp. 110-11) had said much of what he says (for 
+this observation see Hollander, ^Allegory in Dante's "Commedia"~ 
+(Princeton: Princeton University Press, 1969, pp. 262-63): Dante's 
+'firm foot' is his left foot, the foot of his will, steady in its fear 
+of the Lord; the upper right foot is his affection for God (Villani's 
+formulation is dependent, as Bellomo points out, on that of Guido da 
+Pisa [comm. to ^Inf~. I.30]).  Villani concludes by comparing the left 
+foot to the Old Testament, the right to the New (ed. Bellomo, p. 111).
+
+	|32-54.~  The ^lonza~ (for the identity of this beast as hybrid born 
+of leopard and lion see Singleton (comm. to ^Inf~. I.32) is the first 
+of three beasts to move against Dante as he attempts to mount the hill. 
+ Commentators (beginning perhaps with Tommaseo [comm. to ^Inf~. 
+I.49-51]) frequently point to a biblical passage as lying behind 
+Dante's three beasts, the passage in Jeremiah (Ier. 5:6) that describes 
+three wild animals (lion, wolf, and 'pard' [a leopard or panther]) that 
+will fall upon Jerusalemites because of their transgressions and 
+backsliding.  The details are close enough, and the typological 
+identification of the sinful protagonist with the backsliding Hebrews 
+fitting enough, to make the literal sense of the situation clear.  Less 
+positive claims may be made regarding its metaphorical valence.  For a 
+thorough review of one of the most vexed passages in a canto filled 
+with difficulty, see Gaetano Ragonese, 'fiera' (ED.1970.2), pp. 
+857b-861b (with extensive bibliography through 1969, if it omits the 
+useful study of Aldo S. Bernardo ["The Three Beasts and Perspective in 
+the ^Divine Comedy~," ^PMLA~ 78 (1963), 14-24]).  Ragonese's history of 
+the interpretation of the three beasts includes the following details: 
+The early commentators are strikingly in accord; for them the beasts 
+signify |(1) three of the seven mortal sins: lust, pride, and avarice.~ 
+ Modern interpreters mainly -- but not entirely, as we shall see -- 
+reject this formulation.  One school cites ^Inf~. VI.75 for the three 
+'sparks' that have lit evil fires in the hearts of contemporary 
+Florentines, according to Ciacco, who is seconded by Brunetto Latini 
+(^Inf~. XV.68): |(2) envy, pride, and avarice~.  Others suggest that 
+there is no reason here to believe that Dante is referring to the 
+mortal sins|~ because there is no precise textual confirmation that 
+such was his plan.  They suggest that such a confirmation is found in 
+^Inferno~ XI.81-82, where, describing the organization of the 
+punishment of sin, Virgil speaks of |(3) 'the three dispositions Heaven 
+opposes, incontinence, malice, and mad brutishness.'~  In this 
+approach, there are strong disagreements as to which beast represents 
+which Aristotelian/Ciceronian category of sin: is the leopard fraud or 
+incontinence? is the she-wolf incontinence or fraud? (the lion is seen 
+by all those of this 'school' as violence).  For instance, some have 
+asked, if the leopard is fraud, the worst of the three dispositions to 
+sin, why is it the beast that troubles Dante the least of them?  A 
+possible answer is that the scene, which takes place on earth and not 
+in hell, is meant to show Dante's tendencies with respect to the three 
+large areas of sin punished in hell.  If the leopard represents fraud 
+(as its spotted hide might indicate -- it is beautiful but 'maculate' 
+[see the argument in this vein of Padoan, comm. to ^Inf~. I.33]), it is 
+the disposition least present in Dante.  Perhaps the single most 
+important passage in the text of ^Inferno~ that identifies at least one 
+of the three beasts in such a way as to leave no doubt occurs in 
+^Infern~o XVI.106-108, where Dante tells us that he was wearing a cord 
+that he once used to attempt to capture the beast with 'the painted 
+pelt.'  That this cord is used as a challenge to Geryon, the guardian 
+of the pit of Fraud, makes it seem nearly necessary that in this 
+passage the leopard is meant to signify fraud.  If that is true, it 
+would seem also necessary that the lion would stand for Violence and 
+the she-wolf for Incontinence.  The last formulation is the trickiest 
+to support.  The she-wolf is mainly associated, in the poem (e.g., 
+^Purg~. XX.10-15), with avarice.  But avarice ^is~ a sin of 
+Incontinence.  Thus Dante presents himself as most firm against Fraud, 
+less firm against Violence, and weak when confronted by Incontinence.  
+In his case the sin of incontinence that afflicts him most is lust, not 
+avarice.  This is the best understanding that this reader has been able 
+to manage.  It is not one that gathers anything like immediate consent. 
+ The three beasts are another of the ^Comedy~'s little mysteries likely 
+to remain unsolved.  But see the extended discussion in Gorni, ^Dante 
+nella selva: il primo canto della "Commedia"~ (Parma: Pratiche, 1995), 
+pp. 23-55.
+	The formulation of the early commentators (|[1] lust, pride, and 
+avarice~) has had a resurgence in our time.  It would certainly be 
+pleasing to have reason to assent to their nearly unanimous 
+understanding.  Mazzoni (^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967], pp. 
+99-102) has given, basing his argument on texts found in the Bible and 
+in the writings of the Fathers and Doctors of the Church, good reason 
+for returning to this view.  (For an opposing argument, advancing five 
+reasons for which the ^lonza~ cannot represent lust, see Romano 
+Manescalchi [^Il prologo della "Divina Commedia"~ (Turin: Tirrenia, 
+1998)], pp. 13-36.)  If it were not for the passage in ^Inf~. 
+XVI.106-108, it would be easy to be convinced by his argument.  
+However, the passage is there, and seems unalterably to associate 
+Geryon and the ^lonza~.  And then the field of reference seems far more 
+likely to be that established within the poem for the three major sins 
+punished in ^Inferno~ than anything else.
+	It should also be noted that a number of still other modern 
+interpreters have proposed various political identities for the three 
+beasts, perhaps the most popular being |(4) the leopard as Dante's 
+Florentine enemies, the lion as the royal house of France, the she-wolf 
+as the forces of the papacy~.  It is difficult to align such a view 
+with the details in the text, which seem surely to be pointing to a 
+moral rather than a political view of the situation of the protagonist 
+as the poem begins.
+	For a lengthy discussion of the problem in English see Cassell, 
+^Lectura Dantis Americana~: ^"Inferno" I~ (Philadelphia: University of 
+Pennsylvania Press, 1989), pp. 45-76.
+
+	|33.  di pel macolato...coverta~ (covered with a spotted pelt).  For 
+the resonance of the ^Aeneid~ (I.323), the phrase ^maculosae tegmine 
+lyncis~ (the spotted hide of the lynx) see the tradition in the 
+commentaries perhaps begun by Pietro Alighieri (Pietro1, comm. to 
+^Inf~. I.33) and furthered by Benvenuto da Imola (comm. to ^Inf~. 
+I.33).  This citation is now pretty much a commonplace.
+	
+	|38.~  Dante and others in his time believed that the sun was in the 
+constellation of Aries at the creation.
+
+	|48.  ^tremesse~~ (trembled).  The 1921 edition had ^temesse~ 
+(feared), a reading supported by the vast bulk of the MSS but, as 
+Petrocchi argues, a ^lectio facilior~ (^La Commedia secondo l'antica 
+vulgata~ (Florence: Le Lettere, 1994 [1966]), vol. I, Introduzione, pp. 
+165-66.  Did the very air seem 'fearful'?  Or did it seem to 'tremble'? 
+ Mazzoni (^Saggio di un nuovo commento alla "Divina Commedia": 
+"Inferno" --Canti I-III~ [Florence: Sansoni, 1967], pp. 108-9, strongly 
+supports Petrocchi for the second alternative.  Our translation 
+necessarily follows Petrocchi's choice, even if we believe that 
+the question remains open.
+
+	|52.~  For the word |gravezza~ in the sense of 'grave malessere 
+corporeo' (serious bodily illness), Chiamenti ("Un'altra ^schedula~ 
+ferina: Dante, ^Inf~. I 52," ^Lingua nostra~ 60 (1999), 34-38) cites 
+^Bestiari medievali~, ed. L. Morini (Torino: Einaudi, 1987), pp. 
+435-36, as well as Lewis and Short, eds., ^Oxford Latin Dictionary~, 
+the second definition of the Latin ^gravitas~.  The bestiary's 
+description of the wolf, cited by Chiamenti, gives the animal's glance 
+the power to cause in the man that it beholds a loss of all his 
+physical powers, to move, to speak, etc.  It is in this sense then, 
+according to Chiamenti, that the protagonist 'lost hope of making the 
+ascent' (v. 54).
+
+	|55-60.~  Dante's second simile in the canto turns from the semantic 
+field of epic and perilous adventure to the more mundane but not much 
+less perilous activity of the merchant or the gambler, his financial 
+life hanging in the balance as he awaits news of an arriving ship or 
+the throw of the dice -- just at that moment at which his stomach sinks 
+in the sudden awareness that he has in fact, and unthinkably, lost.  
+See the stunning simile involving gambling and gamblers that opens 
+^Purgatorio~ VI (^Purg~. VI.1-12).  Gianfranco Contini (^Un' idea di 
+Dante~ [Turin: Einaudi, 1976]), p. 138, insists that Dante is thinking 
+of gambling here, too.
+
+	|61.~  For Dante's verb ^rovinare~ see Mazzoni (^Saggio di un nuovo 
+commento alla "Divina Commedia": "Inferno" --Canti I-III~ [Florence: 
+Sansoni, 1967], p. 114, citing ^Conv~. IV.vii.9: 'La via... de li 
+malvagi @e oscura.  Elli non sanno dove rovinano' (The path of the 
+wicked is a dark one.  They do not know where they are rushing).  
+Mazzoni points out that Dante is translating Proverbs 4:19, substituing 
+^ruinare~ for the biblical ^correre~.
+
+	|62.~  Dante's phrasing that describes Virgil's appearance to the 
+protagonist ('dinanzi a li occhi mi si fu offerto') reminded Tommaseo 
+(comm. to ^Inf~. I.62) of the phrasing that describes Venus's 
+appearance to her son, Aeneas, when the latter is intent on killing 
+Helen in order to avenge the harm done to Troy by the Greek surprise 
+attack within the walls of Troy: 'mihi se... ante ocul[o]s... obtulit.' 
+ Any number of later commentators have also made this ascription.
+
+	|63.~  For lengthy reviews of the problems raised by centuries of 
+exegesis of this difficult verse see Giorgio Brugnoli ("Chi per lungo 
+silenzio parea fioco," in ^Letterature comparate: problemi e metodo.  
+Studi~ ^in onore di Ettore Paratore~, vol. 3 [Bologna: P@atron, 
+1981], pp. 1169-82) and Hollander (^Il Virgilio dantesco: tragedia 
+nella "Commedia"~ [Florence: Olschki, 1983]), pp. 23-79.  Both of these 
+writers independently agree on most of the key elements in the puzzle: 
+^fioco~ is to be taken as visual rather than aural; ^silenzio~ is 
+understood as deriving from the Virgilian sense of the silence of the 
+dead shades (e.g., ^Aen~. VI.264: ^umbrae silentes~).  It is fair also 
+to say that neither deals convincingly with the adjective ^lungo~.  How 
+can one ^see~ that a 'silence' is of long duration?  A recent 
+intervention by Gino Casagrande ("Parole di Dante: il 'lungo silenzio' 
+di ^Inferno~ I, 63," ^Giornale storico della letteratura italiana~ 174 
+[1997], 246-48) makes a strong case for interpreting the adjective 
+^lungo~ as here meaning 'vast, extensive.'  Casagrande's second point, 
+that the 'silence' refers to the wood is well argued and seems 
+attractive.  He believes (pp. 251-54) that Uguccione da Pisa, one of 
+Dante's main encyclopedic sources, in the MS Can Misc. 305 in the 
+Bodleian Library at Oxford, dating from 1262, offers the Greek word 
+^xylon~ as equivalent to the Latin ^lignum~ for 'forest.'  The Latin 
+^silva~ may thus derive from a word that means, according to Uguccione, 
+'vastitas vel silentium.  Inde silva ubi sunt loca vasta et deserta et 
+silentio plena' (vastness or silence; and thus a ^silva~ is a place 
+marked by a space that is extensive, deserted, and full of silence).  
+There is perhaps no other brief passage ever adduced that is as close 
+to Dante's line.  Casagrande's paraphrase of the verse is thus 'uno che 
+nella grande selva appariva indistinto' (one who in the vast forest was 
+hard to make out).  This would be convincing except for a single 
+detail: Virgil does not appear to Dante in the ^selva~ but on the plain 
+between forest and mountain, as the protagonist runs back down toward 
+the forest (but not into it).  And thus one may be disposed to accept 
+Casagrande's reading of ^lungo~ while adjusting his sense of ^silenzio~ 
+to make it refer to the 'silent' space between the mountain and the 
+wood.  See the note to ^Inferno~ I.64.
+	Padoan makes the point (comm. to ^Inf~. I.63) that it is Aristotle, 
+and not Virgil, who is 'maestro e duca de la ragione umana' (^Conv~. 
+IV.iv.8), not to mention 'maestro di color che sanno' (^Inf~. IV.131).  
+Virgil is more significant a figure for being a poet, and is also seen 
+as having come closer, in some mysterious way, to the truths of 
+Christianity.  On this subject see Courcelle ("Les P@eres de 
+l'$Eglise devant les Enfers virgiliens," ^Archives d'histoire 
+doctrinale et litt$eraire du Moyen Age~ 30 (1955), 5-74.
+	For a more recent discussion of this tormented verse see Anthony 
+Cassell, "Il silenzio di Virgilio: ^Inferno~ I, 62-63," ^Letture 
+classensi~ 18 (1989), 165-76 and his ^Lectura Dantis Americana~: 
+^"Inferno" I~ (Philadelphia: University of Pennsylvania Press, 1989), 
+pp. 84-93.  For a previous review of the dispute over the verse's 
+meaning, arguing for the resonance in Dante's verse of the death of 
+Misenus (^Aen~. VI.149), see Sanguineti, Federico, "L'ombra di Miseno 
+nella ^Commedia~," ^Belfagor~ 40 (1985), 403-16.  For considerations of 
+the implications of the silence surrounding Virgil's first 
+appearance in the poem, see Denise Heilbronn-Gaines, "^Inferno~ I: 
+Breaking the Silence," in ^Dante's "Inferno."  The Indiana Critical 
+Edition~, trans. and ed. M. Musa (Bloomington: Indiana University 
+Press, 1995), pp. 286-98; see also Andreas Heil, "Dantes Staunen und 
+die Schaum Vergils: Bemerkungen zu ^Inferno~ 1, 61-87," ^Deutsches 
+Dante-Jahrbuch~ 77 (2002), 27-43. 
+	
+	|64.~  Virgil appears to Dante |nel gran diserto~.  The adjective is 
+probably meant to recall the first description of the place, ^la 
+piaggia diserta~ (^Inf~. I.29).
+
+	|65-66.~  Dante's first spoken word as character is his own poem is 
+Latin (^Miserere~, 'Have mercy').  This is interesting linguistically, 
+as it indicates a Latin capacity in the author/protagonist that might 
+serve as a defense against those who think the poem, if it is to be 
+taken 'seriously,' should have been written in Latin.  But the Latin in 
+question has a more important aspect: it is the language of the Church, 
+the first word of the fiftieth Psalm (Psalms 50:1).  Thus our hero is 
+idenitified as a son of the Church -- albeit a currently failing one -- 
+at the outset of the work.  For several of the recurring references to 
+that Psalm in the ^Commedia~, see Hollander, "Dante's Use of the 
+Fiftieth Psalm," ^Dante Studies~ 91 (1973), 145-50.  Vincent Truijen, 
+'David,' states that David is the personage in the Old Testament most 
+referred to by Dante (ED.1970.2, p. 322b).  It has also been pointed 
+out that, typically enough, this first utterance made by the 
+protagonist involves a double citation, the first biblical, the second 
+classical, Aeneas's speech to his mother, Venus (^Aen~. I.327-330).  
+See Hollander, ^Allegory in Dante's "Commedia"~ (Princeton: Princeton 
+University Press, 1969), pp. 88-89.  (For an earlier appreciation of 
+the echo of Virgil's ^o dea certe~ in Dante's ^od omo certo~ see 
+Tommaseo, comm. to ^Inf~. I.66.)  As for the meaning of the word 
+^ombra~: the nature of shades in Dante is addressed by Domenico 
+Consoli, 'ombra' (ED.1973.4), pp. 141-45.
+
+	|67-87.~  See Gian Carlo Alessio and Claudia Villa, "Per ^Inferno~ I, 
+67-87," in ^Dante e la "bella scola" della poesia: Autorit@a e 
+sfida poetica~, ed. A. A. Iannucci (Ravenna: Longo, 1993 [1984], pp. 
+41-64), for an important consideration of Dante's debt to the 
+traditional classical and medieval 'lives of the poets' in formulating 
+his own brief ^vita Virgilii~ in this passage.  Among other things, 
+such a view effectively undercuts those interpreters who try to make 
+Virgil an 'allegory' of reason.  He is presented as a real person with 
+a real history and is thoroughly individuated.  No one could mistake 
+the details of this life for that of another, and no one has.  For 
+sensible opposition to the notion that Virgil stands for the abstract 
+quality of reason, see Davis (^Dante and the Idea of Rome~ [Oxford: 
+Oxford University Press, 1957]), pp. 124-32.
+
+	|70.~  This much-debated verse has left many in perplexity.  In what 
+sense are we to take the phrase ^sub Iulio~?  What is the implicit 
+subject of the verb ^fosse~?  What is the precise meaning of ^tardi~ 
+('late')?  Virgil was born in 70 B.C., Julius died in 44 B.C., and 
+Virgil died in 19 B.C.  For a discussion in English see Michael 
+Wigodsky, "'^Nacqui~ sub Iulio' (^Inf~. I, 70)," ^Dante Studies~ 93 
+(1975), 177-83.  Hardly any two early commentators have the same 
+opinion about this verse.  Has Dante made a mistake about the date of 
+Julius's governance?  Or does ^sub Iulio~ only mean 'in the days of 
+Julius'?  Was Virgil's birth late for him to have been honored by 
+Julius?  Or does the clause indicate that, although he was born late in 
+pagan times, it was still too early for him to hear of Christianity?  
+The most usual contemporary reading is perhaps well stated by Padoan 
+(comm. to ^Inf~. I.70): the Latin phrase is only meant to indicate 
+roughly the time of Julius, and nothing more specific than that; when 
+Julius died, Virgil was only 26 and had not begun his poetic career, 
+which was thus to be identified with Augustus, rather than with Julius. 
+ Alessio and Villa ("Per ^Inferno~ I, 67-87," in ^Dante e la "bella 
+scola" della poesia: Autorit@a e sfida poetica~, ed. A. A. Iannucci 
+[Ravenna: Longo, 1993 (1984)], p. 49), point out, however, that there 
+was at least one source that would have made Dante's line make clear 
+literal sense: a ninth-century French text of the works of Virgil with 
+a ^vita Virgilii~ that insisted that the poet was born ^after~ Julius 
+had come to political power (in the triumvirate with Pompey and 
+Crassus).  Thus it is at least possible that all the exertion of 
+commentators is vain and that Dante is resorting to a source that makes 
+Virgil's life run under the authority of ^both~ the first two Caesars.  
+(It is important for modern readers to know that Dante believed, in 
+accord with medieval tradition, that Julius was in fact the first Roman 
+emperor.)  For a development of this discussion, suggesting that the 
+difficult verse has a fairly straightforward explanation, see Violetta 
+de Angelis and Gian Carlo Alessio, "'Nacqui sub Julio, ancor che fosse 
+tardi' (^Inf~. 1.70)," ^Quaderni di Acme (Facolt@a de 
+Lettere e Filosofia, Universit@a degli Studi di Milano~) 41 (2000), 
+pp. 127-45.  De Angelis and Alessio point out the following. Various 
+biographies of Virgil at least potentially available to Dante placed 
+the Roman poet's birth in 59-58 B.C. (not in the year 70) and also told 
+that Julius held his first consulship in Mantua in 59 B.C. Thus Virgil 
+in these lines refers to these two facts and really means that he was 
+born ^sub Iulio~, while lamenting that Caesar's death in 44 B.C., when 
+Virgil was only fourteen or fifteen years old, deprived him of the 
+opportunity to have been known to Caesar once he had begun writing his 
+Eclogues, ca. 30 B.C. This seems clearly the best hypothesis that we 
+currently have in order to explain this line.
+
+	|71.~  See Barbi (^Problemi di critica dantesca~ [Florence: Sansoni, 
+1934]), pp. 201-2, for the force and frequent presence of ^buon~ in 
+this sense in Dante: i.e., Augustus was excellent in his role as 
+emperor.
+
+	|73.~  The word ^poeta~ is one of the most potent words in Dante's 
+personal vocabulary of honor and esteem.  It is used 30 times in all 
+throughout the poem in this form, seven more times in others.  In its 
+first use, here, it constitutes Virgil's main claim as Dante's guide.
+
+	|74.~  The word |di~ here, as is frequently the case in Dante, means 
+^da~ (from), not 'of.' 
+
+	|75.~  The phrase ^superbo Il,i$on~ clearly mirrors ^Aeneid~ 
+III.2-3, 'superbum / Ilium.'  It almost certainly has a moralizing 
+overtone here (see also note to ^Inf~. I.106), while in Virgil it 
+probably only indicates the 'topless towers of Troy'; in Dante it gives 
+us some sense that Troy may have fallen because of its ^superbia~, or 
+pride.
+
+	|77.  dilettoso monte~: in no ways different from the ^colle~ of verse 
+13.  See note to ^Inf~. I.13.
+
+	|79.~  At this first appearance of Virgil's name in Dante's text (it 
+will appear 30 times more), it is probably worth noting that Dante's 
+spelling of the name is not only his, but a medieval Italian 
+idiosyncrasy.  Translating 'Vergilius' with 'Virgilio' was intended to 
+lend the Latin poet a certain dignity (by associating him with the noun 
+^vir~, man) and/or a certain mysterious power (by associating him with 
+the word ^virga~, or 'rod' with magical power).
+	For Virgil as ^fons~ or 'source,' Mazzoni (^Saggio di un nuovo 
+commento alla "Divina Commedia": "Inferno" --Canti I-III~ [Florence: 
+Sansoni, 1967]), p. 121, adduces Donatus's ^Life of Virgil~ (cited by 
+P$ezard, ^Dante sous la pluie de feu~ [Paris: Vrin, 1950], p. 352), in 
+which Homer is said to be a 'largissimus fons' (unlimited source) of 
+things poetic.
+
+	|81.~  Why is Dante's head 'bent low in shame'?  Torraca (comm. to 
+^Inf~. I.81), citing ^Convivio~ (IV.xxv.10), argues that the 
+protagonist feels shame for a fault committed, his having lost the true 
+way.  Barbi (^Problemi di critica dantesca~ [Florence: Sansoni, 1934], 
+p. 202) argues, citing a passage just previous to the one adduced by 
+Torraca (^Convivio~ IV.xxv.4-5), in which ^vergogna~ is defined as 
+amazement in beholding wonderful things, that Dante is here expressing 
+his dazzled admiration at the coming of Virgil, not his shame for his 
+own fault.  That is an attractive view.  Mazzoni's treatment (^Saggio 
+di un nuovo commento alla "Divina Commedia": "Inferno" --Canti I-III~ 
+[Florence: Sansoni, 1967], p. 122) essentially makes room for both 
+these interpretations.  However, a simpler solution recommends itself.  
+The immediate context is that of Virgil's rebuke to Dante for his 
+failure to climb the hill and consequent ruinous flight.  It is for 
+this reason, the argument runs, supporting Torraca's sense of the 
+word's meaning (but not his precise interpretation), that he feels 
+ashamed.  For a differing solution of the problem, see Andreas Heil, 
+"Dantes Staunen und die Schaum Vergils: Bemerkungen zu ^Inferno~ 1, 
+61-87," ^Deutsches Dante-Jahrbuch~ 77 (2002), 27-43.
+
+	|84.~  For the lofty resonance of the word ^volume~ in the ^Comedy~ 
+(as compared with ^libro~, another and lesser word for 'book') see 
+Hollander, ^Allegory in Dante's "Commedia"~ (Princeton: Princeton 
+University Press, 1969, pp. 78-79.  The Bible is the only other book so 
+referred to.  Hollander continues by pointing out that two other words 
+that usually refer to God's divine authority are also each used once to 
+refer to Virgil or his writing: ^autore~ (^Inf~.I. 85) and ^scrittura~ 
+(^Purg~. VI.34).  For the meaning of ^cercare~ see Bellomo's note (ed. 
+Bellomo, p. 167) to Villani's similar Latin verb (^recircare~): 
+'studiare a fondo' (to study deeply).
+
+	|86-87.~  There has been much discussion of exactly what the 'noble 
+style' is and where it is to be found in Dante's work.  Mazzoni 
+(^Saggio di un nuovo commento alla "Divina Commedia": "Inferno" --Canti 
+I-III~ [Florence: Sansoni, 1967]), pp. 124-25, follows Parodi in a 
+straightforward explanation.  The style is the 'high style' or 'tragic 
+style' found in Virgil and other classical poets and was achieved by 
+Dante in his odes (three of which are collected in ^Convivio~), as he 
+himself indicated in ^De vulgari Eloquentia~ (II.vi.7).
+	Dante's formulation here goes further, making Virgil his sole source.  
+His later interactions with other poets in hell (e.g., Pier delle Vigne 
+[^Inf~. XIII], Brunetto Latini [^Inf~. XV]) or relatives of poets 
+(Cavalcante [^Inf~. X]) show that not one of them is interested in the 
+identity of Dante's guide, a fact that reflects directly on the poems 
+left by these three practitioners, which are markedly without sign of 
+Virgilian influence.  Thus, not only is Virgil Dante's sole source for 
+the 'noble style,' but Dante portrays himself as Virgil's sole follower 
+among the recent and current poets of Italy.  Perhaps more than any 
+other claim for a literary identity, this sets him apart from them.  
+For the opinion that Dante's insistence on Virgil as the sole source of 
+his poetic excelling is a cut at Guido Cavalcanti, see Riccardo 
+Bacchelli "'Per te poeta fui,'" ^Studi Danteschi~ 42 (1965), 8-9.
+
+	|88-99.~  If the hidden identities of the three beasts have caused 
+lengthy discussion, the she-wolf, as she is presented here, has been 
+greeted by a nearly unanimous reponse: she represents cupidity.  This 
+sin, associated with Incontinence, is discovered in much of humankind, 
+including Dante.  It is probably most often identified with avarice, 
+but is related to all wrongful appetites.  It is thus the most common 
+of sins and, because of its ready ability to infect all, the most 
+dangerous.  See St. Paul's saying, 'Radix malorum est cupiditas' (For 
+the love of money is the root of all evil [I Timothy 6.10]).
+
+	|90.~  ^le vene e i polsi~.  Padoan (comm. to ^Inf~. I.90) cites 
+Dante's previous reference to the pulses (^VN~ II.4), those places 
+where agitation of the blood is evident at the body's surface, and 
+Boccaccio's gloss to this verse (comm. to ^Inf~. I.90), which states 
+that the veins and pulses tremble when blood rushes from them, a 
+phenomenon occurring when the heart is troubled, according to 
+Boccaccio, by fear.
+
+	|100-105.~  In a canto filled with passages that have called forth 
+rivers of commentators' ink, perhaps none has resulted in so much 
+interpretive excitement as this one.  For this writer's view, see 
+^Allegory in Dante's "Commedia"~ (Princeton: Princeton University 
+Press), pp. 89-91.  What we deal with here is the first of three (see 
+also ^Purg~. XXXIII.37-45, ^Par~. XXVII.142-148) 'world-historical' 
+prophecies of the coming of a political figure (in the last two nearly 
+certainly an emperor) who, in his advent, also looks forward to the 
+Second Coming of Christ.  The present prophecy, insofar as Dante, as 
+maker of prophetic utterance, wants to allow his audience to penetrate 
+the veil, however, is of Cangrande della Scala.  That is one man's 
+opinion.  It finds much fellowship in the late nineteenth century 
+(e.g., Campi's comm. to ^Inf~. I.101), but is opposed by most who 
+have considered the problem in the past century (e.g., Emilio Pasquini, 
+^Dante e le figure del vero: La fabbrica della "Commedia"~ (Milan: 
+Bruno Mondadori, 2001), p. 163, basing his rejection on the fact that 
+in 1300 Cangrande was a mere nineteen years old.  But see the note to 
+^Paradiso~ XVII.76-78.  For an excellent review of the entire problem 
+see C. T. Davis, 'veltro' (ED.1976.5), pp. 908a-912b.  The view of this 
+reader is largely in accord with Mazzoni's (^Saggio di un nuovo 
+commento alla "Divina Commedia": "Inferno" --Canti I-III~ [Florence: 
+Sansoni, 1967]), pp. 131-33, namely, that the prophecy is insistently 
+'Ghibelline,' and not of a good pope or of a reform of the mendicant 
+orders, etc.  For the view that there is indeed a Virgilian (and 
+imperial) source for Dante's prophecy in the prediction of Augustan 
+rule in ^Aeneid~ I (vv. 286-296) see Hollander, ^Allegory in 
+Dante's "Commedia"~ (Princeton: Princeton University Press, 
+1969), pp. 90-91.  This view was anticipated in a discussion that has 
+not received much attention.  The so-called 'Ottimo commento' (comm. to 
+^Inf~. I.100-111) minces no words about the resonance of that Virgilian 
+passage here.  One wonders why his observation has been so neglected.
+
+	|101.~  As for the potentially absurd but nonetheless recurring notion 
+that the prophecy is of Dante himself, the 'poeta veltro,' it was 
+perhaps first advanced by one Pompeo Azzolino in a letter to Gino 
+Capponi in 1837, according to Carlo Cuini (^Qualche novit@a nella 
+Divina Commedia: Il Veltro, "il gran rifiuto" ed altro~ [Agugliano: 
+Bagaloni, 1986]).
+
+	|104.~  Against those who would argue that these three 'theological' 
+qualities move the prophecy in a religious rather than a political 
+direction, Mazzoni (^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967], pp. 
+133-35) responds that the attribution of such qualities to secular 
+figures was common enough in Dante's time, and even in Dante, who says 
+similar things about Cangrande (^Par~. XVII.83-84).
+
+	|105.~  This 'felt' has been variously explained: the felt caps of the 
+Dioscuri, the felt tents of the great Khan, the felt of the urns in 
+which ballots were cast for the emperor, etc.  For a review in English 
+see Anthony Cassell, ^Lectura Dantis Americana~: ^"Inferno" I~ 
+(Philadelphia: University of Pennsylvania Press, 1989), pp. 94-113.  
+For still another attempt to unscramble the riddle, this time on the 
+basis of names of parts of chivalric weaponry (e.g., OF ^feutre~, the 
+outcropping from a saddle on which a charging knight rests his lance) 
+-- see Fabrizio Franceschini ("'Tra feltro e feltro': l'interpretazione 
+di Guido da Pisa e un gallicismo nell'italiano antico," in ^Scrinium 
+Berolinense: Tilo Brandis zum 65. Geburtstag~, vol. II, ed. P. J. 
+Becker & others [Berlin: Staatsbibliothek-Preussischer Kulturbesitz, 
+2000]), p. 1023.  Those who believe that the verse refers to 
+geographical sites in Italy and thus to the zone in which the young 
+Cangrande would be of importance (he was only 9 years old in 1300, but 
+was in charge of the armies of Verona only a few years later -- and 
+before Dante first came to Verona in 1304) are few in number in the 
+current age, but were far more numerous in the nineteenth century.  
+This writer is one in that camp.  The translators have, as always, 
+respected the text of Petrocchi; their own version would read 'between 
+Feltre and Feltro.'  The strongest case against such a reading is 
+lodged in the 'fact' that in the fourteenth century ^nazione~ only 
+meant 'birthplace' and not 'nation.'  Consultation of the ^Grande 
+Dizionario~ shows that this may not always be the case.  For instance, 
+soon after Dante, Boccaccio, in the ^Decameron~ (II.viii.4) uses the 
+word in its modern sense (if he perhaps significantly does ^not~ do so 
+in his gloss of this verse).  In addition, Latin ^natio~ frequently 
+also had this meaning, and Dante's noun may translate that usage (see, 
+for example, Dante's own use of ^nationes~ at ^Dve~ I.viii.4).  It is, 
+however, true that the 'geographic' reading of the verse is a late 
+phenomenon, perhaps beginning with the ^Anonimo fiorentino~ at the very 
+end of the fourteenth century (comm. to ^Inf~. I.101-105).  It was 
+repeated by John of Serravalle (comm. to ^Inf~. I.105) only to be 
+ridiculed by that commentator.  However, beginning with Guiniforto in 
+1440 (comm. to ^Inf~. I.100-111), it gradually become the dominant 
+understanding in the Renaissance, and is put forward by Vellutello, 
+Daniello, and Castelvetro, all of whom believe that the prophecy refers 
+to Cangrande.
+
+	|106.~  The phrase ^umile Italia~ surely recalls Virgil's ^humilem... 
+Italiam~ (^Aen~. III.522-523), as has been frequently noted.  Some have 
+argued that, in Dante, the words have a moral tint.  See Mazzoni, 
+^Saggio di un nuovo commento alla "Divina Commedia": "Inferno" --Canti 
+I-III~ (Florence: Sansoni, 1967), pp. 135-36, for those, especially 
+Parodi, who are of this opinion, mainly contending that the reference 
+is to Italy's current lowly political condition.  In accord with this 
+view, Mazzoni cites Dante's own similar formulations: ^Epist~. V.5: 
+^miseranda Ytalia~; ^Epist~. VI.3: ^Ytalia misera~; ^Purg~. VI.76: 
+^serva Italia~.  Some have argued for a positive valence for the word 
+here: see Alessandro Ronconi ("Per Dante interprete dei poeti latini," 
+^Studi Danteschi~ 41 [1964], p. 31), who sees Italy's 'humility' as 
+indicating her worthiness to be saved by the Veltro.
+
+	|107-108.~  The curious intermingling of enemies (Camilla and Turnus 
+fought ^against~ the Trojan invaders, Euryalus and Nisus ^with~ them) 
+helps establish Dante's sense that the war was a necessary and just 
+one, its victims as though sacrificed for the cause of establishing 
+Rome, the 'new Troy.'
+
+	|109-111~.  Mazzoni (Mazzoni, ^Saggio di un nuovo commento alla 
+"Divina Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967]), 
+pp. 137-38, argues strongly for the interpretation of ^prima~ as an 
+adjective modifying ^invidia~, and thus for a phrase meaning 'primal 
+envy,' when death entered the created world precisely because of 
+Satan's envy (see Sap. 2:24).  He notes the resulting parallel between 
+this line and ^Inferno~ III.6, where God is, in His third person, 
+'Primo Amore' (Primal Love).
+
+	|117~.  The possibilities for interpreting this verse are various.  
+The 'second death' may refer to what the sinners are suffering now (in 
+which case they cry out either for a cessation in their pain -- a 
+'death' of it -- or against their condition) or it may refer to the 
+'death' they will suffer at the end of time in Christ's final Judgment 
+(in which case they may either be crying out ^for~ that finality or 
+^against~ that horrifying prospect).  Barbi (^Problemi di critica 
+dantesca~ [Florence: Sansoni, 1934]), p. 260, argues for the 'death' of 
+the soul at the moment of damnation, rejecting the tradition in the 
+commentaries that associates the phrasing here both with the Book of 
+Revelation (Apoc. 20:14): the damned, at the Last Judgment, who will 
+undergo a 'second death' (^secunda mors~), and with Dante's own phrase 
+in ^Epist~. VI.5, which also makes the 'terror secundae mortis' the 
+fear of the wicked Florentines of their fates at the Last Judgment.  
+Anna Maria Chiavacci Leonardi (^Inferno, con il commento di A. M. C. 
+L.~ [Milan: Mondadori, 1991]), p. 33, agrees with Barbi on which 
+'death' is at stake (the present one in hell), but not with his view 
+that the sinners long for the 'second death,' and believes that they 
+are lamenting its horror.  She also suggests that we hear an echo here 
+(also adduced by Mazzoni, ^Saggio di un nuovo commento alla "Divina 
+Commedia": "Inferno" --Canti I-III~ [Florence: Sansoni, 1967]), p. 143, 
+and Padoan [comm. to ^Inf~. I.117) of v. 31 of St. Francis's 'Laudes 
+creaturarum' (for an earlier possible citation of that poem see the 
+note to ^Inf~. I.27): 'ka la morte secunda no 'l farr@a male' (the 
+good soul, liberated by death, hopes that it will not suffer eternal 
+damnation at the Last Judgment).  That the main supporting texts 
+invoked by discussants all involve the Last Judgment would certainly 
+lend support to that interpretation.  Thus one possibility is that the 
+damned cry out for that future moment, either so that their pain will 
+be eased (even though it will not be, since we learn it will be worse 
+[^Inf~. VI.109-111]), or at least to put this terrible state behind 
+them, a thoroughly comprehensible, if irrational, wish.  Another, and 
+it is one embraced by Mazzoni, pp. 139-45, is that the sinners are 
+crying out in fear of the punishments to come after the Last Judgment.  
+One can find arguments for or against this position.  It seems the most 
+defensible (Mazzoni cites a series of texts from St. Augustine to 
+buttress his notion that it is the Last Judgment that confronts us 
+here).  The only potential challenge to it is that, as Umberto Bosco 
+claims, no one has been able to find an instance of the word ^gridare~ 
+that is used in this negative way (i.e., 'to cry out ^against~').  And 
+thus Bosco/Reggio (comm. to ^Inf~. I.117) approve the judgment of 
+Letterio Cassata, 'morte' (ED.1971.3), pp. 1040a-41b, that the damned 
+'invoke' the Last Judgment.  It seems to this reader that Mazzoni's 
+solution is the most sensible, especially since, a mere two dozen lines 
+earlier, Dante has used the verb ^gridare~ with exactly such a negative 
+valence (^Inf~. I.94), when Dante is portrayed as crying out in fear 
+because of the she-wolf.
+
+	|122.~  Virgil's self-description as unworthy may reflect a similar 
+self-description, that of John the Baptist.  See John 1:27 and related 
+discussion in Hollander, ^Il Virgilio dantesco: tragedia nella 
+"Commedia"~  (Florence: Olschki, 1983), pp. 63, 71-73.  In this 
+formulation Virgil is to Beatrice as John was to Christ.  For an 
+earlier moment in Dante's writing that is based on exactly such a 
+typological construction, one in which Guido Cavalcanti's Giovanna/John 
+the Baptist is portrayed as the 'forerunner' to Dante's 
+Beatrice/Christ, see ^Vita nuova~ XXIV.3-4.
+
+	|125.~  For Cassell's consideration of the striking word ^ribellante~, 
+see ^Lectura Dantis Americana~: ^"Inferno" I~ (Philadelphia: University 
+of Pennsylvania Press, 1989), pp. 77-84.  His treatment of the way in 
+which Dante thought of Virgil (much in the way that a long Christian 
+tradition insisted of the Hebrews) as owing his faith to the true God 
+has the result of making Virgil guilty of turning his back on a God 
+whom he in some ways knew.  The problem with such a formulation is that 
+it would make Virgil's placement in Limbo problematic -- he would have 
+had to be placed deeper in hell, for such behavior would have been an 
+active sin against God.  Nonetheless, it is also fair to say that most 
+commentators dodge this troublesome word.  (See, for example, 
+Bosco/Reggio, according to whom all that is meant here is that God will 
+not allow Virgil to enter Paradise because he was born and lived a 
+pagan and thus had no possibility of believing in Christ to come [comm. 
+to ^Inf~. I.124-126].  That is not a satisfying gloss to so strong a 
+phrasing.)  For an attempt to find a difficult middle ground see 
+Hollander, ^Il Virgilio dantesco: tragedia nella "Commedia"~  
+(Florence: Olschki, 1983), pp. 145-51, and, perhaps more convincingly, 
+Bortolo Martinelli, "Canto VII," in ^Lectura Dantis Neapolitana: 
+"Purgatorio,"~ ed. Pompeo Giannantonio (Naples: Loffredo, 1989), pp. 
+157-58, distinguishing ^rebellio lumini~ (Job 24:13), an intentional 
+and prideful act of hostility to God ('rebellion against the light') 
+from a merely ignorant failure to have faith, as is the case with 
+Virgil.  We should also remember that, within the fiction of the poem, 
+this formulation is Virgil's own and may simply reflect his present 
+sense of what he should have known when he was alive.  That is, Virgil 
+may be exaggerating his culpability.
+
+	|132.~  'This harm' is Dante's present situation in the world; 'and 
+worse' would be his damnation.
+
+	|134-135.~  Dante has apparently understood clearly enough that Virgil 
+will lead him through hell and purgatory, but not paradise.  Having 
+read the poem, we know that Beatrice will assume the role of guide for 
+the first nine heavens.  Virgil seems to know this (see ^Inf~. 
+I.122-123), but not Dante, who is aware only that some soul will take 
+up the role of Virgil when his first guide leaves him.

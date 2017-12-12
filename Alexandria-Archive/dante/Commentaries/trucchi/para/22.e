@@ -1,0 +1,727 @@
+	Testo e Commento.  -- L'iniziazione del Poeta alla vita
+contemplativa si perfeziona in questo Canto, nettamente
+divisibile in due parti.
+
+	Nella prima parte il Poeta, che @e gi@a dinanzi agli
+spiriti contemplativi e a Beatrice, ma ancora quasi inetto a
+comprenderli, ricalca l'argomento del Canto precedente, con
+leggiere variazioni che segnano il suo progresso.  Come al
+principio del Canto precedente infatti, cos@i al principio di
+questo, vediamo Dante tutto volto a Beatrice, ma anche tutto
+pieno di stupore, e siamo ancora ai piedi della santa scala; se
+non che a Pier Damiano succede San Benedetto, che fu pi@u
+intensamente dedito alla contemplazione, e il cui ragionamento @e
+divisibile in tre parti analogamente a quello di San Pier
+Damiano: questi aveva insegnato a Dante che non si deve presumere
+di conoscere il mistero della predestinazione divina, e San
+Benedetto gli insegna che non si deve presumere di veder compiuti
+i nostri desideri se non nell'Empireo; poi il Santo ravennate
+aveva narrato la sua vita e inveito contro il mal costume degli
+alti prelati moderni, e anche San Benedetto narra la sua vita e
+inveisce contro il tralignamento degli ordini religiosi; ma San
+Pier Damiano aveva parlato di vendetta divina, e San Benedetto
+annuncia il soccorso divino; il discorso del primo fu seguito da
+un urlo che intimorisce Dante, il discorso del secondo da una
+festa di spiriti, a cui Dante si unisce.
+
+	La seconda parte del Canto descrive la maravigliosa
+ascesa degli Spiriti contemplativi e di Dante dietro ad essi, su
+per la santa scala, da Saturno al cielo stellifero; ed ecco
+adesso il Poeta, che nel XXII dell'Inferno era in compagnia dei
+demoni, e nel XXII del Purgatorio di Virgilio e di Stazio, nel
+XXII del Paradiso, fatto alfine della famiglia contemplativa, 
+sollecito e ardente di volare con questa alla rappresentazione
+del trionfo di Cristo, che former@a l'argomento del Canto
+seguente.  La terra, il cui pensiero in principio del Canto
+turbava ancora la mente del Poeta, alla fine del Canto gli appare
+quale veramente @e, un nulla di fronte all'immensa volta dei
+cieli.
+
+	|1-9.~  Il Canto precedente, svoltosi in mistico
+raccoglimento, @e poi terminato con un grido altissimo
+d'indignazione dei Beati, e quel grido ha |oppresso~ Dante |di
+stupore.~  Pericoloso stupore, ultimo assalto del male alla
+debolezza terrena del Poeta, perch@e lo stupore, come insegna
+Boezio (I, 11), pu@o indurci in disperazione.  E infatti se anche
+i Principi della Chiesa, unica guida rimasta al mondo pien di
+malizia, sono sviati, e se anche i Santi che ci potrebbero
+soccorrere, sono pieni d'ira, a chi chieder@a esempio o aiuto
+l'umanit@a, che, come pargolo, ha bisogno di una guida amorosa e
+materna?  Ecco presso a Dante @e Beatrice, l'interprete della
+parola divina, che spiega il significato dell'alto grido e addita
+le vie del cielo.  Ricordati, essa dice a Dante, che tu sei in
+cielo, dove tutto @e santo: santo il luogo, santi gli abitatori, 
+sante le opere, e quindi anche l'ira che viene da buon zelo.
+
+	|10-12.~  Or vedi, continua Beatrice, come t'avrebbe
+trasmutato il canto dei Beati o il mio riso, se tanto ti ha
+colpito il grido che hai udito in questo cielo; il che
+allegoricamente significa: or vedi come tu sia per ora poco atto
+a comprendere gli alti misteri divini, se cose d'origine terrena, 
+quali sono la corruzione degli ecclesiastici e lo sdegno che ne
+provano i giusti, sono bastate per empirti di stupore.
+
+	|13-15.~  E che altro significava quel grido, se non una
+preghiera rivolta dai Beati a Dio, perch@e affretti la punizione
+degli indegni prelati?  Ora, poich@e la volont@a dei celesti
+aderisce alla volont@a divina, quella punizione non pu@o mancare, 
+annuncia Beatrice, e tu la vedrai prima di morire.
+
+	Profezia che forse non si riferisce tanto ad un fatto
+particolare, come la cattura di Bonifazio VIII in Anagni, o il
+trasferimento della sede pontificia ad Avignone, o l'avvento del
+Veltro, ma, come chiosa l'Ottimo, generica, ch@e <tutto d@i chi
+guarda con la mente sana, si vede di queste vendette o punizioni
+divine>.
+
+	|16-18.~  La spada dell'eterna giustizia, che ^non teme
+suppe~ (^Purg.~, XXXIII, 36), non cade sul colpevole n@e troppo
+presto n@e troppo tardi, se non secondo il parere degli uomini, 
+che, vivendo nel tempo, o l'affrettano col desiderio sopra gli
+altri da cui soffersero ingiustizia, o, sentendosi rei, 
+vorrebbero ritardarla sovra s@e stessi: altra lezione da
+aggiungere a quelle di San Pier Damiano e di San Benedetto, per
+Dante che della tempestivit@a della divina giustizia aveva altrove
+mostrato di dubitare (^Purg.~, VI, 118; ^Par.~, IV, 68; XIX, 70).
+
+	|19-21.~  Curato cos@i Dante del suo ^stupore~ {v.1} che
+gli avrebbe potuto impedire di comprendere come in questo stesso
+cielo, partendo dalla stessa causa, che @e il tralignamento del
+clero, San Pier Damiano abbia profetato l'ira della giustizia
+divina, e San Benedetto il soccorso della divina misericordia, e
+ad entrambi faccia coro tutta la moltitudine dei contemplativi, 
+Beatrice gli consiglia di rivolgere ancora gli occhi da s@e alle
+anime beate: il |redui~ non indica per@o soltanto ^rivolgi~ o
+^riconduci~ la vista, ma anche ridurla, quasi dal tutto alla
+parte, dal maggiore al minore; significa cio@e che a questo punto
+pi@u che l'insegnamento di Beatrice, ossia dei dogmi teologici, 
+doveva essere utile al Poeta l'esempio degli illustri spiriti che
+furono pi@u illuminati dalla parola divina: anche Sant'Agostino
+confessava di essere stato condotto al disprezzo del secolo dagli
+esempi dei giusti, prima che dall'intelligenza delle sacre carte
+(^Confessioni~, lib. VII).
+
+	|22-27.~  Ubbidisce Dante al consiglio della madre ^che
+il suol ben disporre~ {v.6}, e gi@a la sua mente ha abbandonato il
+pensiero dei prelati corrotti, per tornare a considerare la
+moltitudine dei giusti che con la luce della loro carit@a
+s'illuminarono a vicenda nel mondo e mostrarono altrui la vera
+via, sicch@e ancora insieme s'illuminano e godono nel cielo.
+
+	Queste cento sperule che s'affacciano alla vista di Dante
+e il suo timore di chiedere, raffigurano i cento nomi di
+religiosi che si offrivano a lui, studioso di sua materia, quando
+ricercava il modo di continuare l'argomento del suo Canto.  Egli, 
+per un poco rimase dubbioso nella scelta, e si paragona all'uomo
+che vorrebbe chieder consiglio altrui e |repreme~ o reprime
+questo acuto desiderio; ma presto alla sua mente balen@o la luce e
+la scelta fu fatta, e non poteva esser migliore.  Fra quelle
+cento sperule, mentre egli considera ad uno ad uno i suoi maestri
+di vita contemplativa, si fa sempre ^maggiore e pi@u luculenta~
+{v.28} la figura di San Benedetto.
+
+	|28-30.~  San Benedetto, primo fondatore d'ordini
+monastici in Occidente (^Conv.~, IV, XXVIII, 9), nacque a Norcia, 
+nell'Umbria, da nobili parenti, l'anno 480, e da fanciullo fu
+educato a Roma; ma gi@a in et@a di quattordici anni, abbandonato il
+secolo, si ritir@o in un'alta grotta del monte Subiaco, dove visse
+per tre anni, ignoto a tutti, fuorch@e ad un eremita di nome
+Romano che gli provvedeva il necessario per il suo sostentamento. 
+Tuttavia la fama della sua santit@a non tard@o a divulgarsi, ed
+accorrevano a lui altri eremiti, desiderosi di vederlo e di
+udirlo.  Nel 510 fu fatto capo d'una congregazione di religiosi a
+Vicovaro, fra Subiaco e Tivoli; ma presto quei religiosi, 
+insofferenti della rigida disciplina da lui imposta, tentarono
+d'avvelenarlo.  Torn@o alla sua grotta, e quivi crebbe talmente il
+numero dei discepoli, che dovette fondare dodici monasteri, a
+capo di ciascuno dei quali poneva un superiore, a s@e riserbando
+la suprema autorit@a.  Nel 528 si rec@o a Monte Cassino, dove
+ancora si adorava Apollo, e, distruttovi il tempio del dio
+pagano, vi edific@o il Monastero che doveva divenire la culla
+dell'Ordine benedettino.  Narrasi che Totila, avendo udito la
+fama della sua sapienza, per accertarsene, gli mandasse un suo
+soldato, vestito dei paramenti regali, come se fosse lo stesso
+Totila; ma fu immediatamente smascherato dal Santo, il quale
+predisse alcuni avvenimenti e l'anno della morte di Totila.  Egli
+stesso mor@i in Cassino il 21 di Marzo del 543, e gi@a conosciamo
+la leggenda, narrata dal suo biografo Gregorio Magno, della scala
+apparsa ai monaci suoi discepoli: la santa scala dantesca.
+
+	<Cancellare le orme della vecchia e della nuova
+superstizione; richiamare ed applicare alla pratica il vero
+spirito della religione di Cristo, con quella carit@a che ne forma
+la base, e che discese dal cielo ad emendar la natura; rallentare
+le catene della servit@u personale e militare; aprire un asilo
+alla sventura illustre ed alla miseria tapina, ad ogni
+condizione, ad ogni et@a, ad ogni sesso; rianimare l'industria
+sedentaria ed attiva, le scienze, la storia, le arti, dalle pi@u
+belle alle pi@u rozze, l'agricoltura, la pastorizia, allontanando
+la criminosa inerzia dalla miseria; reprimere le usure con mezzi
+di pubblico sovvenimento; sboscar le montagne, nido di nomadi e
+di ladroni; asciugar paludi, fonti di miasmi e di contagi;
+riapire le antiche vie romane al commercio; ristabilire
+l'ospitalit@a; raccomandare la cura degli infermi e derelitti;
+ripopolare ville e castelli abbandonati, assicurando
+l'abbondanza; pregar tranquillamente da Dio e dagli uomini pace, 
+ristoro e concordia, ed abbracciar finalmente tutti questi
+oggetti e queste pratiche in una sola famiglia, in un solo
+istituto, a cui @e centro un monastero donde si diffonde per tutta
+Europa luce di dottrina e d'esempi; fu questo il gran disegno di
+San Benedetto, da lui concepito e mandato a fine nella
+contraddizione dei secoli> (M. Ricci).
+
+	Come in San Pier Damiano @e la figura del prelato
+incorrotto, degno esecutore dell'ufficio ecclesiastico, cos@i San
+Benedetto @e in Occidente il massimo archimandrita di quella
+grande divulgazione della parola di Cristo alle plebi semipagane
+che fu l'istituzione degli ordini religiosi.
+
+	Ecco il Santo scelto dal Poeta per esser fatto da lui
+della famiglia dei contemplanti; il Santo che ora a Dante, ben
+disposto da Beatrice, appare come la maggiore e la pi@u luculenta
+margherita, fra tanti spiriti ferventi di carit@a, e che si offre
+spontaneamente a contentar la sua voglia.
+
+	|31-36.  Se tu vedessi com'io la carit@a che tra noi
+arde~, comincia San Benedetto; e noi siamo tratti a farci una
+domanda importante per l'intelligenza del nostro Canto.  Non
+conosceva dunque ancora Dante che la carit@a @e l'essenza dei
+Beati?  Si, certamente, tante volte l'aveva udito affermare e ne
+aveva visto gli effetti.  Ma egli non aveva ancora compreso tutta
+l'estensione di quella carit@a, che tanto ci sublima.  Come
+Sant'Agostino che, sul punto della sua conversione era stato a
+lungo trattenuto, a sua insaputa, dalle <nugae nugarum et
+vanitates vanitatum> (^Confessioni~, VIII, XI, 2), cos@i il Poeta
+che poco prima s'era vantato ^tolto da ogni altro intento
+terreno~ (XXI, 3), non lo era che in apparenza, e lo stupore
+ond'era stato oppresso al primo ricordo del mondo corrotto
+dimostrava che le vanit@a della terra gli facevano ancor velo per
+comprendere la carit@a secondo l'insegnamento di Cristo.  La
+lezione di San Benedetto comincia dal punto in cui l'aveva
+lasciata Beatrice al Canto VII: non si progredisce in vita
+contemplativa, non si comprendono interamente gli alti misteri
+della Teologia, se non si @e invincibilmente armati contro gli
+assalti che ci tende il male sulla terra, e l'armatura ci @e data
+soltanto dalla carit@a: solo quando questa @e perfetta si @e presso
+|a l'alto fine~, all'ultima salute, morti al mondo e viventi in
+Dio, fatti capaci di sostenere il riso di Beatrice e il canto dei
+Beati di Saturno, di comprendere il trionfo di Cristo; il quale
+alla Samaritana maravigliata che un Giudeo le chiedesse da bere, 
+rispondeva: <si scires donum Dei> (^Giovanni~, IV, 4-12)...  Le
+stesse parole ripete a un di presso San Benedetto: se tu vedessi
+la carit@a che tra noi arde, non esiteresti a richiederci per tuo
+bene; ma io soddisfer@o al pensiero che tu sei tanto riguardoso di
+esprimere, affinch@e tu, per aspettare, non ritardi l'|alto fine~
+del tuo viaggio, che @e quello di veder Dio; quel fine a cui io in
+terra cercai di rivolgere il cuore degli uomini, quando fondai il
+Monastero di Monte Cassino.
+
+	|37-45.~  Dopo quanto precede, si comprende come il
+Santo, di tutta sua vita, non ricordi che la fondazione del
+Monastero di Monte Cassino, culla dell'Ordine benedettino e
+principio della vita monastica in Occidente; come si comprende
+che il popolo della Campania, ancora dedito al culto del
+paganesimo quando vi giunse San Benedetto, sia da lui chiamato
+gente |mal disposta~, in antitesi con Dante che @e ^ben disposto~
+da Beatrice; e ci s'illumina di tutta la sua magnificenza la
+parafrasi dell'Evangelio nel verso |la verit@a che tanto ci
+sublima.~
+
+	Il |monte a cui Cassino @e ne la costa~ @e il monte Cairo, 
+nella costa del quale sorge il monastero e sulla cui cima era il
+tempio dedicato ad Apollo, dove il popolo ingannato accorreva a
+far sacrifizi per ottener le risposte dell'oracolo.
+
+	I nostri versi compendiano con molta esattezza le parole
+di San Gregorio Magno nella Vita di San Benedetto: <Castrum, quod
+Casinum dicitur, in excelsi montis latere situm est (qui
+videlicet mons distenso sinu hoc idem castrum recipit, sed per
+tria milia in altum se subrigens velut ad a, era cacumen tendit), 
+ubi vetustissimum fanum fuit, in quo ex antiquorum more gentilium
+a stulto rusticorum populo Apollo celebrabatur.  Circumquaque in
+culto demonum luci excreverant, in quibus adhuc eodem tempore
+infidelium insana multitudo sacrificiis sacrilegis insudabat. 
+Illuc itaque vir Dei perveniens, contrivit idolum, subvertit
+aram, succendit lucos atque ipso in templo Apollinis oraculum
+Mariae Virginis, ubi vero ara ejusdem Apollinis fuit, oraculum S.
+Iohannis construxit, et commemorantem circumquaque multitudinem
+praedicatione continua ad fidem revocavit>.  Rievocando la sua
+opera insigne, e pi@u di tutto l'efficacia della sua predicazione, 
+San Benedetto ne riferisce tutto il merito alla grazia; poi
+addita a Dante l'esempio di tanti altri spiriti contemplanti che
+ora intorno a lui rifulgono nella gloria.
+
+	|46-48.~  Questi altri fuochi che tu vedi qui furono
+tutti uomini dati a vita contemplativa, accesi di quella carit@a
+che fa nascere i meriti cui consegue il frutto della beatitudine
+celeste.
+
+	|49-51.~  La Chiesa venera due Santi che portarono il
+nome di Maccario: l'uno detto l'^Egiziaco~ o anche il
+^cittadino~, fu discepolo di Sant'Antonio abate, visse nelle
+solitudini della Libia, e mor@i nel 391; l'altro, detto il
+^Grande~ o ^alessandrino~, pur discepolo di Sant'Antonio ed
+eremita in Libia, fu il fondatore e il gran promotore del
+monachesimo in Oriente, dal Nilo al Mar Rosso, e mor@i nel 404.  A
+quest'ultimo, a meno che il Poeta non confondesse in una sola
+persona i due eremiti, pare che debba accennare San Benedetto, 
+per celebrare in lui il fautore della vita monastica d'Oriente, 
+come in San Romualdo il fautore della vita monastica d'Occidente.
+
+	<Nato verso il 907, dall'illustre famiglia degli Onesti, 
+in Ravenna, Romualdo giovinetto vide il padre uccidere un
+parente.  Atterrito, entra nella Badia di Classe, e, resosi
+monaco di San Benedetto, corre a Venezia presso l'eremita Marino;
+va in Spagna, vi fonda monasteri e fa proseliti che manda a
+predicare nel Settentrione d'Europa.  Uno di questi @e ucciso in
+Russia e Romualdo se ne va in Russia con la speranza, direi con
+l'ambizione, del martirio.  Ma sano e salvo ritorn@o in Italia, 
+dove fond@o pi@u di cento conventi, e mor@i a 120 anni> (Pasolini).
+
+	Fra questi conventi fu poi specialmente celebre quello di
+Camaldoli in Toscana, fondato da San Romualdo nel 1018, e la
+regola di quel convento fu il principio del grande Ordine
+Camaldolese, a cui appartenne San Pier Damiano, che scrisse la
+Vita del fondatore.  Ed @e notevole che nella storia di San
+Romualdo e dell'Ordine camaldolese ritorni ad apparire la
+leggenda della scala santa che apparve ai primi benedettini, e da
+cui il Poeta tolse la figura del cielo di Saturno.  Poich@e nelle
+^Costituzioni~ del Beato Rodolfo, priore di Camaldoli, del 1080, 
+si narra come Romualdo andando in cerca d'un luogo idoneo a
+fondare un eremo, giunto nel territorio di Arezzo, s'imbatt@e in
+un certo Mandolo, che gli offr@i un suo campo posto sull'alpe, di
+grande amenit@a, e sacro a lui per un miracolo occorsogli.  Ch@e un
+giorno, mentre dormiva, a somiglianza di Giacobbe, vide una scala
+eccelsa che toccava quasi il cielo con la sua cima; e su per
+quella scala ascendere una moltitudine di gente vestita di bianco
+e di luce.  A questa rivelazione Romualdo, come se un responso
+divino lo avesse illuminato, va sul luogo e vi fonda l'eremo di
+Camaldoli.
+
+	Dopo Maccario e Romualdo, San Benedetto addita i suoi
+fedeli seguaci che, entrati a far parte dell'Ordine, |tennero il
+cor saldo~ contro le tentazioni del mondo, e |fermi i piedi~ al
+convento: sono, dopo i contemplanti operosi, i contenti ai soli
+pensier contemplativi, le ^pole~ della similitudine dantesca, che
+non si dipartono dal nido.
+
+	|52-60.~  L'affetto con cui San Benedetto ha parlato, ha
+aperto l'anima di Dante alla confidenza, come dice la bella
+similitudine della rosa che si dilata al calore del Sole: anche
+nel ^Convivio~ (IV, XXVII, 4) si legge che, nella ^senettute~, 
+<conviensi aprire l'uomo quasi com'una rosa che pi@u chiusa stare
+non puote, e l'odore che dentro @e generato spandere>.  E Dante
+espande la sua confidenza chiamando Benedetto |padre~, e
+chiedengogli di mostrarglisi, se egli ne @e degno, |con imagine
+scoverta~, senza cio@e quella veste di luce che dal cielo della
+Luna in poi ha sempre pi@u compiutamente nascosta la forma umana
+degli spiriti beati.
+
+	Qui s'affaccia spontanea al lettore una nuova domanda:
+perch@e questo desiderio non @e nato prima nell'animo di Dante, 
+nemmeno in presenza dell'avo suo Cacciaguida?  <A che si pu@o
+rispondere, spiega il Buti e ripete il Landino, perch@e lo luogo
+ne fu cagione: imper@o ch'elli era salito alla spera dei
+contemplativi>, i quali <contemplando la creatura s'innalzano a
+contemplare lo creatore>.  Spiegazione tutt'altro che vacua, come
+dovette sembrare ai commentatori che ne tacciono o la fanno
+seguire da un punto interrogativo (Scartazzini), se noi
+rammentiamo che per Dante (^Conv.~, III, VIII, 6), l'anima umana
+traluce specialmente nella faccia dell'uomo ch'essa stessa
+intende ad adornare: quanto doveva essere adorna la sembianza di
+San Benedetto! come doveva esser degna che da questa il Poeta
+prendesse le mosse per alzarsi a contemplare il Creatore, a quel
+modo che, quasi fanciullo, dalla bellezza terrena di Beatrice era
+stato da prima sospinto ad amar la virt@u!  <A creatura ad
+Creatorem>, dice Sant'Agostino.
+
+	|61-69.~  A Dante che l'ha chiamato ^padre~ {v.58}, San
+Benedetto risponde chiamandolo |frate~, ma alla sua domanda di
+mostrarglisi con imagine scoverta, risponde che il suo desiderio
+non pu@o esser soddisfatto che nell'Empireo, come il desiderio che
+egli stesso prova di compiacerlo, come tutti gli altri desideri:
+e di fatto nel cielo Empireo, dove @e la vera sede dei celesti, 
+questi si mostreranno al Poeta in sembianza umana, e fra gli
+altri San Benedetto.  Ma questi aggiunge anche che il desiderio
+di Dante, per quanto nobile, |alto disio~, deve esser soddisfatto
+soltanto nell'Empireo, dove i desideri si purificano: dunque il
+desiderio di Dante poteva avere qualche cosa d'impuro o di
+pericoloso; ed infatti, se @e vero, secondo il detto di
+Sant'Agostino, che dalla contemplazione della creatura noi
+possiamo elevarci alla contemplazione di Dio, non @e men vero che
+la bellezza umana, quando noi la consideriamo prescindendo da
+Dio, pu@o indurci o in superbia per la perfezione della nostra
+natura o in invidia, per veder questa stessa perfezione maggiore
+in altri che in noi.
+
+	Avendo nominato l'Empireo, San Benedetto non pu@o non
+fermarsi un momento a magnificarlo: ivi solamente ogni desiderio
+@e |perfetto~, perch@e aderisce al volere divino, |maturo~ perch@e
+non pu@o pi@u crescere, |intero~ perch@e rimarr@a sempre quale @e, e
+interamente appagato: <satiabor cum apparuerit gloria tua>
+(^Salmo~, XVI, 15).  O ineffabile sede, dove |ogni parte @e l@a
+dove sempr'era~, ossia immobile ed immutabile; che |non @e in loco
+e non s'impola~, cio@e non ha luogo, come la terra, circoscritta
+dalle acque, l'acqua circoscritta dall'etere, l'etere dai cieli
+(^Conv.~, III, XV, 16), ma tutto circoscrive; |e non s'impola~, 
+non ha poli intorno a cui giri, come tutti gli altri cieli, che
+son forniti di movimento, perch@e il movimento @e proprio di ci@o
+che tende ad altro (^Conv.~, II, III, 8-10), e l'Empireo @e fermo, 
+avendo in s@e la quiete che raffigura il compimento di ogni
+desiderio.  Chi mai non vorr@a giunger l@a su? ecco, conchiude il
+Santo, la scala che vi conduce.
+
+	|70-72.~  La scala santa giunge sino all'Empireo, quale
+la vide il Patriarca Giacobbe, quando, benedetto dal padre
+Isacco, e mandato in Siria a prender moglie dalle figlie di Laban
+e non di Canaan, ebbe una notte in sogno la sua grande visione:
+<vidit in somnis scalam stantem super terram, et cacumen illius
+tangens coelum: Angelos quoque Dei ascendentes et descendentes
+per eam> (^Genesi~, XXVIII, 12).
+
+	|73-75.~  Le prole del ^Genesi~ che ha in mente, ^super
+terram~, offrono facile trapasso a San Benedetto per l'invettiva
+contro i monaci che non si diparton |da terra.~  Anche nel
+^Monarchia~ (I, XIII, 4) Dante ricorda il nome di Giacobbe quando
+sta per riprendere i religiosi <qui bona loquendo et mala
+operando credunt alios vita et moribus informare>.
+
+	Nel cielo del Sole San Tommaso, domenicano, e San
+Bonaventura, francescano, lamentarono ciascuno la decadenza
+dell'Ordine proprio: a tutti gli Ordini monastici, perch@e di
+tutti pu@o dirsi fonte, rivolge il suo rimprovero San Benedetto:
+|nessuno~ diparte i piedi da terra: tutti i religiosi son dati
+alla ^sinistra cura.~  Ma tosto anche San Benedetto riguarda
+specialmente l'Ordine suo, i suoi benedettini, anch'essi
+degeneri, sicch@e |la regola mia~, egli esclama, |rimasa @e per
+danno de le carte~, cio@e, si suol intendere, per sciupar carta a
+copiarla e ricopiarla.  Ma Benvenuto ricorda di aver udito dal
+Boccaccio che, essendosi questi recato a visitar la Biblioteca di
+Monte Cassino, la trov@o senza porta, e presi in mano i volumi, ne
+trov@o sgualciti i fogli e sottratti interi quaderni, perch@e i
+monaci, per guadagnar qualche soldo, vendevan le pagine come
+salterioli o brevi a donnicciuole e ragazzi.
+
+	|76-78.~  Le mura che gi@a solevano essere ospizi di
+carit@a, ora son fatte spelonche di malviventi, e le |cocolle~ o
+cappe monacali, non sono pi@u vesti d'umilt@a; anzi non si devon
+dir pi@u cappe, ma sacchi, pieni di farina, e non di farina da far
+ostie!  La prima allusione @e presa da testi sacri: <numquid ergo
+spelunca latronum facta est domus ista, in qua invocatum nomen
+tuum?>  (^Geremia~, VII, 11); <Domus mea domus orationis
+vocabitur; vos autem fecistis eam speluncam latronum> (^Matteo~, 
+XXI, 13); la seconda fu forse suggerita dal color bianco delle
+cappe di alcuni rami dell'Ordine benedettino, come i Camaldolesi.
+
+	|79-84.~  Ma tanto non |si tolle~, ossia insorge o si
+leva contro il piacer di Dio, ossia non l'offende tanto grave
+usura, quanto l'appropriarsi che fanno i monaci di quel frutto
+che li rende folli, ossia delle rendite ecclesiastiche; perch@e
+tutto ci@o che la Chiesa |guarda~ o custodisce, non l'ha come
+posseditrice, ma come depositaria per pietose elargizioni; tutto, 
+toltone il necessario per le sacre suppellettili e per il
+sostentamento dei monaci, appartiene ai poveri; non @e dei parenti
+dei religiosi, |n@e d'altro pi@u brutto~, cio@e, come dice il Lana
+senza tante reticenze, <di femmine di mondo>.
+
+	Il Todeschini ritrov@o il concetto di questi versi in una
+Decretale di Alessandro III: <quod monachi, abbates et priores
+accipiunt, gravius est usura>: @e simonia, che il Poeta pun@i nel
+suo Inferno pi@u gravemente dell'usura.  E Dante stesso sembra
+darci il commento di questo passo nel ^Convivio~ (IV, XXVII, 
+13-14) <Ah malestrui e malnati, che disertate vedove e pupilli, 
+che rapite alli men possenti> ecc.
+
+	|85-87.~  Le fiere parole che ha udito potrebbero tornare
+ad opprimere Dante di stupore, come quelle di San Pier Damiano, 
+se, a questo punto del suo discorso, San Benedetto non mutasse
+accortamente tono, in modo da suggerire a Dante le necessarie
+distinzioni tra la debolezza della moltitudine e le eroiche virt@u
+dei pochi che nominer@a, per ripetere la profezia di San Pier
+Damiano, ma non pi@u parlando di vendetta, bens@i di soccorso
+divino.
+
+	La carne dei mortali @e tanto blanda, egli dice, che in
+terra <il fervor onde si comincia un religioso istituto
+difficilmente si conserva sempre tale da dare quei frutti che
+dovrebbero seguire> (Cornoldi): non basta cominciare bene, 
+bisogna perseverare nel bene, come non basta che vi siano le
+leggi, se non v'@e chi ^pon mano ad esse~ (^Purg.~, XVI, 97).  E
+valgan gli esempi.
+
+	|88-90.~  Come San Pier Damiano, San Benedetto
+contrappone ai tristi esempi gli ottimi, cominciando con San
+Pietro: San Pietro, San Benedetto, San Francesco! quali esempi
+sublimi e confortanti!  San Pietro che intraprese il suo
+apostolato senz'oro n@e argento: <Petrus autem dixit: argentum et
+aurum non est mihi> (^Atti degli Apostoli~, III, 6); San
+Benedetto che inizi@o con orazione e con digiuno la vita monastica
+di tutto l'Occidente; San Francesco che, sposandosi alla Povert@a, 
+insegn@o che le ricchezze non sono soltanto non necessarie, ma da
+fuggirsi.
+
+	|91-93.~  Ma oggimai i successori di San Pietro fatto
+s'hanno Dio ^d'oro e d'argento~; i Benedettini son dati ai
+piaceri della mensa o d'altro pi@u brutto; i Francescani han cura
+di ben fornire le loro dispense (^Par.~, XII, 118): <o buon
+principio, a che vil fine convien che tu caschi!> esclamer@a anche
+San Pietro nel XXVII del Paradiso.
+
+	|94-96.~  Ma volgiamo gli occhi alla Provvidenza;
+pensiamo che ella veglia su di noi!  A Lei che separ@o le acque
+del Mar Rosso al passaggio degli Ebrei, guidati da Mos@e; a Lei
+che fece volgere a monte le acque del Giordano, al passaggio
+degli Ebrei guidati da Giosu@e, -- quid est mare, quod fugisti? et
+tu, Iordanis, quare conversus es retrorsum?  (^Salmo~, CXIII, 3)
+-- a Lei non sar@a difficil cosa, e tanto mirabile come quelle a
+vedersi, soccorrere alle presenti condizioni.  Come?  Se noi
+riguardiamo l'ultima parola del Santo, |soccorso~ e non punizione
+o vendetta, e la precedente terzina con cui egli parve in parte
+scusare il traviamento dei monaci, attribuendolo a debolezza
+umana; se noi ricordiamo che qui si tratta di cupidigia, e che
+cupidigia e volont@a debbono essere per Dante raffrenati
+dall'Imperatore, perch@e <mortalium voluntates propter blandas
+concupiscentiae delectationes indigunt directivo>; e se noi
+ancora osserviamo come lo stesso annuncio di San Benedetto sar@a
+poi ripetuto da San Pietro (^Par.~, XXVII, 61-63), non ci sar@a
+difficile vedere che nel promesso soccorso divino ritorna
+velatamente la profezia del Veltro, dell'Imperatore, cavalcatore
+delle umane volont@a.
+
+	|97-99.~  Con questa magnifica immagine delle anime che, 
+raccoltesi intorno a San Benedetto, tutte insieme si slanciano in
+alto, come turbine luminoso, portate dall'impeto della loro
+carit@a a Dio, e invitanti il Poeta a seguirle, con questa
+mirabile terzina che rompe all'ultimo la continuit@a statica dei
+Canti di Saturno, termina la rappresentazion di questo cielo.
+
+	A nessun'altro cielo il Poeta ha dedicato cos@i poco
+spazio, poco pi@u d'un Canto e mezzo, con l'apparizione di due
+soli Beati.  Dopo San Pier Damiano, San Benedetto: dal Cardinale
+discendemmo al semplice monaco; dal rigido osservatore della
+regola camaldolese, vissuto nel secolo XI, ascendemmo al
+fondatore dell'Ordine Benedettino del secolo V; dal religioso
+eminente in vita attiva e contemplativa, passammo al religioso
+dedito sovrattutto alla contemplazione; ma l'insegnamento non
+parve mutare.  Eppure un grande perfezionamento si compie in
+Dante durante questi due Canti, e con quant'arte da lui stesso
+riprodotto!  Egli esce dal cielo di Saturno del tutto rinnovato, 
+disposto a passare dallo studio della Teologia naturale a quello
+della Teologia dommatica, dalla filosofia morale poggiata sulla
+ragione, a quella della filosofia divina rivelata!
+
+	Grande passaggio! poich@e a chi non sia maturo di tali
+studi, le due filosofie possono sembrare dapprima cos@i
+contrastanti da indurlo in eresia.
+
+	Tutto il viaggio del Poeta @e stato finora di
+contemplazione; ma soltanto sulla prima parte della Teologia, su
+quella che parla alla ragione ^che ha corte l'ali~ (^Par.~, II, 
+57); e ora il Poeta sta per passare a quella parte della
+Teologia, pi@u alta, ma anche pi@u ardua ai mortali, perch@e qui
+^chiave di senso non disserra~ (^Par.~, II, 54).  Attraversando
+l'Inferno, il Purgatorio ed i primi sei cieli, dove si premiano i
+meriti degli uomini giusti in vita attiva, Dante ha visto il male
+ed il bene, ha imparato ad odiare quello ed amare questo; ma ha
+anche compreso che sulla terra il male supera di gran lunga il
+bene.  Ora la Teologia dommatica insegna che Dio @e solo bene:
+come conciliare i due fatti? come da Dio, puro bene, pu@o
+conseguire il male? come ascendere dalla considerazione del male
+alla contemplazione del bene puro?
+
+	Guidato da Virgilio Dante ha rettificato il suo arbitrio, 
+poi con Beatrice @e giunto sino a questo cielo con l'aspettazione
+d'una mirabile visione; e, quivi giunto, una grande delusione gli
+@e stata riservata.  Il riso di Beatrice non splende pi@u; il canto
+dei Beati tace; il che appunto significa che la bellezza della
+Teologia si @e per un momento occultata agli occhi suoi.  Di pi@u, 
+il primo contemplante che egli incontra o studia o interroga, 
+tuona contro il mal costume di coloro medesimi che dovrebbero
+esser maestri agli uomini, e un tuono terribile d'ira accompagna
+le sue parole.  Dante ne @e atterrito, e sta per disperare, 
+dimentico degli insegnamenti precedenti, che anche il male @e
+necessario per il bene, perch@e prodotto di quel libero arbitrio
+che @e il ^maggior don che Dio fesse creando.~
+
+	Dante @e atterrito; ma @e pur presso a Beatrice, a colei
+ond'egli ha appreso ad aspettare ^il come e il quando del dire e
+del tacer~, sempre cara come madre; e Beatrice l'invita ad
+ascoltare o ricercare la paterna parola di San Benedetto, che a
+poco a poco dissipa le ombre, riconduce la speranza nel cuore di
+Dante, ricordandogli esempi sublimi ed altri pi@u modesti di
+virt@u, compatendo l'errore dei monaci traviati, annunciandogli
+prossimo il ^soccorso~ {v.96} della Providenza.  A questa voce il
+Poeta si rianima; ed eccolo, lui, poco prima oppresso di stupore, 
+lanciarsi dietro il turbine luminoso dei Contemplanti, fatto
+della loro famiglia, perch@e il gran passo dalla teologia naturale
+alla dommatica @e compiuto; eccolo alfine dalla considerazione dei
+pi@u elementari insegnamenti teologici, salire a quella dei pi@u
+eccelsi, abbandonata alfine veramente la terra che presto gli
+apparir@a spregevole, vinta alfin per virt@u di Beatrice la sua
+corporal natura, sicch@e s'innalza di per s@e, al sol cenno di
+Beatrice, con le forze della sua ala.  Il suo perfezionamento @e
+compiuto, e si @e compiuto nel cielo settimo.
+
+	|100-105.~  Anche a Beatrice @e cresciuta virt@u, e Dante
+che ora finalmente vede con lucidit@a tutta la sua ^seconda
+bellezza~ (^Purg.~, XXXI, 138), la chiama |dolce~, e mosso da un
+piccolo, ma potentissimo cenno di lei, trascorre con la |sua~ ala
+lo spazio da Saturno al cielo stellifero, contrapponendo il moto
+celerrimo dello spirito a quello lento della materia.
+
+	|106-111.~  Sul punto di descrivere il suo istantaneo
+passaggio all'ultimo cielo sensibile, il Poeta rivolge la parola
+al lettore per la sedicesima ed ultima volta, quasi che, giunto
+sulla soglia dell'eternit@a, volesse prender congedo degnamente da
+lui, ricordandogli la necessit@a della contrizione per raggiunger
+l'eterna salute.  Poi, volendo dare un'immagine della celerit@a
+del suo ascendere, si serve d'una similitudine attissima e nuova, 
+presa dall'atto naturalissimo di chi, toccando il fuoco, subito
+lo ritira; ma dice prima ^tolto~ che |messo~ il dito, perche
+l'atto @e cos@i immediato che il prima e il poi sono un punto solo.
+
+	Dal cielo di Saturno Dante @e dunque salito al cielo
+stellifero, e precisamente al |segno~ o costellazione che segue
+quella del Tauro, cio@e alla costellazione dei Gemelli.
+
+	Cielo VIII o Stellifero.  La Chiesa Trionfante.
+
+	Il cielo stellifero, dal Poeta nel ^Convivio~ (II, XIII, 
+8 e XIV, 1) paragonato alla metafisica, e nel Poema (^Par.~, II, 
+130-138) definito gi@a come quello che dalla propria intelligenza
+motrice riceve le forme individuanti la materia, ha molteplici
+virt@u (^Quaestio~, 69 e seg.) per il gran numero di stelle che lo
+formano.  Fra queste, le stelle che compongono il segno di Gemini
+inducono negli uomini sottilezza d'ingegno e scienza di
+scrittura, specialmente quando il Sole si trova in loro
+congiunzione, com'era quando nacque il Poeta; per ci@o egli ha
+scelto questa costellazione per descriver da essa il cielo VIII, 
+e ne comincia la descrizione con un rendimento di grazie alle
+stelle ^gloriose~ {v.112}, da cui oltre l'ingegno riconosceva
+altre virt@u, temperamento d'onest@a e di religione, larghezza
+d'animo e bont@a e liberalit@a che a quegli astri solevano
+riferirsi.
+
+	|112-120.~  Questi versi attestano che il Poeta nacque
+nel mese fra il 14 Maggio e il 14 Giugno, perch@e in quei giorni, 
+tenuto conto della correzione Gregoriana del calendario, il Sole
+era in congiunzione coi Gemelli: il giorno @e incerto; ma se noi
+prendessimo alla lettera l'indicazione astronomica che il Sole
+nasceva e s'ascondeva con quella costellazione, dovremmo ritenere
+che Dante nascesse quando il Sole era nel 15o di Gemini, cio@e il
+29 di Maggio.
+
+	Il Sole @e qui detto |padre d'ogni mortal vita~ e quindi
+anche degli uomini tutti, secondo la dottrina aristotelica:
+<generat homo hominem et sol>: da lui quindi in gran parte
+dipende la costituzione fisica; i Gemelli per la nota virt@u degli
+astri influiscono le qualit@a intellettuali; e poich@e Beatrice non
+contraddice alla dottrina di Platone che torni alle stelle
+^l'onor de l'influenza e il biasmo~ (^Par.~, IV, 49-60), era
+giusto che il Poeta entrando nell'|alta rota~ del cielo
+stellifero, fosse ricevuto nella costellazione dei Gemelli.
+
+	|121-123.~  Due volte grato alla costellazione che gli
+diede coi natali l'ingegno, e che l'accolse nel suo salutifero
+viaggio, il Poeta al rendimento di grazie aggiunge nuova
+invocazione, per essere aiutato |nel passo forte~ a cui si
+accinge, cio@e di descrivere tutta riunita la Chiesa trionfante
+che prima aveva veduto divisa in gruppi nei sottostanti pianeti, 
+e specialmente il trionfo di Cristo che forma l'argomento del
+Canto seguente.
+
+	|124-126.~  Tu sei s@i presso |a l'ultima salute~, cio@e, 
+come dicemmo, a Cristo, dice Beatrice, che i tuoi occhi, 
+corporali secondo la lettera, dell'intelletto allegoricamente, 
+devono essere |chiari~, cio@e non offuscati da passioni, ed
+|acuti~, cio@e sottili a discernere e vedere la vilt@a del mondo:
+<accedendo enim ad Dominum, illuminatur ignorantia et
+corroboratur infirmitas, data sibi intelligentia qua videat et
+charitas qua serviat> (Sant'Agostino).
+
+	|127-132.~  E pertanto prima che tu pi@u |t'inlei~, verbo
+foggiato da Dante, prima che tu ti approssimi a far parte del
+trionfo di Cristo, rivolgi gli occhi in gi@u, e vedi quanto mondo
+per me ti @e gi@a sotto i piedi: espressione pi@u forte che se
+avesse semplicemente detto quanto su ti levai, sicch@e fa meglio
+sentire il contrasto con la maestosa terzina che segue, sonora
+per |la turba trionfante~, e per |questo etera tondo~: etere, 
+propriamente si dice lo spazio fra la terra e i cieli, ma qui
+metaforicamente @e detto per il cielo stellifero.
+
+	L'idea della scena che segue, ossia d'uno sguardo rivolto
+dal pi@u alto dei cieli siderei ai cieli sottostanti e alla terra, 
+si trova gi@a in poeti latini, come Virgilio, Seneca, Lucano, e
+principalmente nel ^Somnium Scipionis~ di Cicerone, dove il <sed
+quod sis, Africane, alacrior>, sembra riecheggiare nel costrutto
+dantesco: |s@i che il tuo cor, quantunque pu@o, giocondo.~
+
+	|133-138.~  Nel ^Somnium Scipionis~ l'Africano @e
+rimproverato di tener gli occhi troppo fissi alla terra, e
+richiamato dalla sua guida alla contemplazione dei cieli, 
+cominciando dall'Empireo e di l@a discendendo collo sguardo fino
+alla Luna: allora appare a Scipione la piccolezza della terra, e
+la guida lo esorta a contemplare sempre le cose celesti e
+spregiar le umane.
+
+	Dante non ha bisogno del rimprovero: ritornando con gli
+occhi per le sette sfere sino alla terra, di per s@e ne riconosce
+l'enorme inferiorit@a, e ne sorride, chiamando veramente |probo~, 
+cio@e con senno unito a rettitudine, secondo il significato che
+questa parola sempre riveste in Dante, colui che pi@u spregia la
+terra e pi@u si affissa nelle cose celesti.  Poi dalla terra torna
+ad alzare gli occhi, e rivede i pianeti su su, dalla Luna alla
+costellazione in cui si trova.
+
+	|139-141.~  Rifacendo con gli occhi il cammino dalla
+terra al cielo ottavo, Dante torna a nominare dalla loro
+designazione mitologica i sette pianeti, dividendoli in tre
+gruppi: prima la figlia di Latona, la Luna o Diana; e aggiunge di
+vederla senza quelle ombre che si vedon da noi e che furon
+cagione dei suoi dubbi nel Canto II del Paradiso, per confermare
+la teoria metafisica gi@a esposta: perch@e le virt@u dei cieli
+superiori sulla faccia che ora il Poeta riguarda dall'alto, non
+si sono ancora miste con la sostanza del corpo lunare, e quindi
+le macchie lunari non appariscono che sulla faccia volta verso la
+terra.
+
+	|142-144.~  Una terzina riunisce i tre pianeti seguenti
+alla Luna, cominciando dal Sole, figlio di Iperione, e nepote di
+Urano e della Terra nelle favole antiche, e Dante manifesta il
+suo piacere per aver potuto sostenere in quel punto, in grazia
+della sua cresciuta potenza visiva, la vista del Sole, tanto da
+non esserne abbagliato e poter distinguere anche i figli di Maia
+e di Dione, cio@e Mercurio e Venere, che si |movon circa~, in
+tondo, in prossimit@a relativa del Sole stesso.
+
+	|145-147.~  Giove @e il pianeta temperato, fra il freddo
+del padre, Saturno, e l'ardore del figlio, Marte; e tutti e tre
+mostrano chiaramente al Poeta, |quindi~ dal cielo stellifero, le
+ragioni e il modo dei loro movimenti.
+
+	|148-150.~  Abbracciando con lo sguardo dall'alto tutti e
+sette i pianeti, il Poeta pu@o osservarne le differenze secondo la
+grandezza, la velocit@a e le distanze che li separano, o come egli
+dice, il |distante riparo~: riparo @e ci@o che gli astronomi
+chiamano ^casa~ o sito di ciascun pianeta; ma Dante preferisce la
+parola |riparo~ forse perch@e contiene anche l'idea che i pianeti
+nei loro moti non si impediscono l'un l'altro: tutto ci@o @e in
+rapporto manifesto con la teoria della virt@u informativa da cielo
+a cielo.
+
+	|151-153.~  Volgendosi con gli eterni Gemelli, 
+incorruttibili e pregni di virt@u, Dante vede tutta la parte
+abitabile della terra, dall'Atlantico al Gange, dai gruppi
+montani, che sono al centro dei continenti, al mare, e sorride
+nuovamente della sua piccolezza e della vanit@a degli uomini che
+combattono tra loro per il transitorio possesso di s@i misera
+cosa, che chiama |l'aiuola che ci fa tanto feroci~, come Seneca
+il <punctum in quo bellatis> (^Epist. ad Lucillum~).
+
+	Ora perch@e Dante potesse vedere tutta la terra abitabile, 
+noi lo dobbiamo immaginare levato sul meridiano di Gerusalemme, 
+centro della terra abitabile, ma su ci@o dovremo ritornare (XXVII, 
+79-88).
+
+	|154.~  Cos@i i Canti di Saturno terminano, come erano
+incominciati entrambi, con l'affisarsi di Dante in Beatrice.

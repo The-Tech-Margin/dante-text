@@ -1,0 +1,61 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.07.23;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Converts IBM PC 8-bit characters into "standard" escapes
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+:	deibm   input  output
+:
+:		Converts IBM PC 8-bit characters into "standard" escapes
+
+if
+	test $# -ne 2
+then
+	echo "Usage: $0  input  output"
+	exit 1
+fi
+if
+	test ! -r $1
+then
+	echo "$1 does not exist"
+	exit 1
+fi
+if
+	test -s $2
+then
+	echo -n "$2 already exists.  Type y to overwrite - "
+	if
+		read REPLY
+		test "$REPLY" != "y"
+	then
+		exit 1
+	fi
+	rm $2
+fi
+
+LIB=$Dante/lib
+
+echo deibming $1
+tr -d '\015\032' < $1 | \
+catbsd -v | \
+sed -f $LIB/deibm.sed > $2
+@

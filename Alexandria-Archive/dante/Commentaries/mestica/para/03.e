@@ -1,0 +1,338 @@
+	|1.  Quel sol che pria~ ec.: Si noti la bella propriet@a di
+questa perifrasi: Beatrice fu per Dante <l'alta virt@u> che lo 
+tratisse <prima che fuor di puerizia fosse> (^Purg.~, XXX, 41-42);
+fu a lui fuoco d'amore, di che poi arse sempre (^Par.~, 
+XXVI, 15), e come fuoco gli scald@o il petto guidandolo al 
+bene; e poi gli fu <lume tra 'l vero e lo 'ntelletto> (^Purg.~, 
+VI, 45), gli scovr$i cio@e il bello aspetto di dolci verit@a 
+<Che mostran de' piacer del Paradiso>, e <soverchian lo nostro 
+intelletto Come raggio di sole un frale viso> (^Conv.~, Trattato 
+III, ^Canzone~, st. 4). 
+
+	|3.  Provando e riprovando~: <Al trattare lo vero 
+s'intende principalmente: a riprovare lo falso s'intende in tanto 
+in quanto la veritade meglio si fa apparire> (^Conv.~, Tratt. IV, 
+c. II).  E qui Beatrice <prima ripruova lo falso, acci@o che, 
+fugate le male oppinioni, la veritade poi pi@u liberamente 
+^fosse~ ricevuta> (^Ivi~).  Si veda C. II, v. 61-63 e v. 
+109-111). 
+
+	Queste parole |provando~ e |riprovando~ che mirabilmente 
+sintetizzano la dottrina della Filosofia sperimentale, furono 
+prese come motto dall'Accademia del Cimento, ma nel senso di 
+Provare e tornando a provare. 
+
+	|5-6.  Tanto quanto~ ec.: Dante al vedersi brillare 
+dinanzi agli occhi dell'intelletto s$i viva luce di verit@a, 
+lev@o pi$u alto il capo quanto era di bisogno, per poi chinarlo, 
+a dimostrare (come si @e soliti) anche con segno materiale che 
+egli era corretto dell'errore e pienamente convinto della verit@a 
+dimostratagli. 
+
+	|7-9.  Ma visione apparve~ ec.: La stessa cosa era 
+avvenuta a Dante con Virgilio: Egli voleva ringraziare il Maestro 
+d'uno schiarimento e < dicer: Tu m'appaghe> (^Purg.~, XV, 82), 
+ma essendo in quel momento giunto nella Cornice degli iracondi, 
+tacque alla visione di esempi di dolci mitezze.  Questa subita 
+distrazione e anche perdita di memoria quando un qualche fatto 
+viene a colpire vivamente i nostri sensi, o l'anima nostra @e 
+preoccupata da un forte pensiero, @e fenomeno dei pi$u comuni, e 
+il Poeta in pi$u luoghi accenna ad esso: Talvolta <appare 
+Subitamente cosa che disvia Per maraviglia tutto altro pensare> 
+(^Purg.~, XXVIII, 37-39); < Maggior cura... spesse volte la 
+memoria priva> (C. XXXIII, 124-125) ec. 
+
+	|12.  Non s@i profonde~ ec.: Non tanto profonde che non 
+se ne abbia a vedere il fondo.  |Persi~: Perduti, come al v. 
+125; ma potrebbe anche prendersi nel significato di Oscuri, 
+come al C. V, v. 89 dell'^Inferno~; e al C. IX, v. 97 del 
+^Purgatorio.~  Se il fondo delle acque non si vedesse, e fosse 
+conseguentemente oscuro, resterebbero esse terminate come vetro 
+piombato, ossia specchio, e chiare e forti sarebbero allora le 
+immagini delle cose da quelle riflesse. 
+
+	|13.  Le postille~: I lineamenti del volto, l'immagine, 
+l'orma, la posta, l'impronta.  Cos$i: <Dietro a le poste de le 
+care piante> (^Inf.~, XXIII, 148); <Ne l'immagine mia apparve 
+l'orma> di Progne (^Purg.~, XVII, 21); <L'ombra del beato 
+regno> (^Par.~, I, 23); <L'orma De l'etterno valore> (^Ivi~, v. 
+106-107).  ~Postille~ propriamente @e una breve nota o 
+riassunto d'un passo nel margine d'un testo. 
+
+	|14.  Perla in bianca fronte~: La <bianchezza @e uno 
+colore pieno di luce corporale pi@u che nullo altro> (^Convivio~, 
+Tratt. IV, c. XXII); e la perla per molta chiarit@a di diafano @e 
+luminosa, cos$i che debolmente questa si discerne quando posa su 
+bianca fronte per il moltiplicamento di luce.  La leggiadra 
+comparazione rende con mirabile evidenza il concetto delle 
+immagini leggermente riflesse da vetri trasparenti e tersi o da 
+acque nitide e tranquille, trasparenti al fondo. 
+
+	|17-18.  Dentro a l'error~ ec.: Dice il Poeta che 
+giudicando quelle deboli parvenze di Spiriti <specchiati 
+sembianti> cadde nell'errore contrario a quello di Narciso, il 
+quale, stando presso a un fonte, vista la sua bellissima 
+immagine, la credette vera e se ne innamor@o (OVIDIO, ^Metam.~, 
+III, 415-431). 
+
+	|26.  Appresso il tuo pueril coto~: In seguito al tuo 
+fanciullesco pensiero.  |Coto~ dal latino ^Cogito~, Penso 
+(^Inf.~, XXXI, 77). 
+
+	|27-28.  Poi sopra 'l vero~ ec.: Poich$e il tuo 
+pensiero (^coto~) non si ferma ancora sul vero, ma ti fa 
+vaneggiare dietro le apparenze. 
+
+	|31-33.  E odi e credi; Che la verace luce~ ec.: 
+<Ch'alma beata non poria mentire, Per@o ch'@e sempre al primo 
+vero appresso> (C. IV, 95-96). 
+
+	|36.  Quasi com'uom~ ec.: L'animo umano al troppo si 
+confonde; un desiderio eccessivo lo agita e perturba.  |Smaga~: 
+Si veda la nota al v. 146, C. XXV dell'^Inferno.~ 
+
+	|39.  Che, non gustata~: Dante parlando dei mirabili 
+effetti della vista della sua Gentilissima allorch$e era su la 
+Terra, dice che <d@a per li occhi una dolcezza al core Che 
+'ntender non la pu@o chi non la prova> (^Vita Nuova~, Cap. XXVI, 
+^Sonetto~). 
+
+	|43-45.  La nostra carit@a~ ec.: L'ardore di carit@a 
+che c'infiamma @e sempre sollecito a sodisfare una giusta voglia 
+(cio@e conformata alla <prima volont@a>, ch$e <cotanto @e giusto 
+quanto a li consuona> (C. XIX, 88), e ci@o non diversamente 
+dalla carit@a di Dio, il quale <a suo voler ne invoglia> (v. 
+84) e vuole che tutto il regno dei Beati si conformi a lui, 
+<per ch'una fansi nostre voglie stesse> (v. 81). 
+
+	|47-48.  E se la mente~ ec.: Se riguardi bene nella 
+tua mente l'immagine mia, troverai che si riscontra con questa 
+che vedi, ancorch$e questa sia pi$u bella. -- E Dante risponde 
+che ^non fu a rimembrar festino~ (v. 61), cio@e non fu pronto 
+a ritrovare la immagine di quello Spirito tra le altre della sua 
+mente.  Altri: ^E se la mente tua ben mi riguarda~; ma non mi 
+sembra lezione accettabile, perch$e la memoria pu@o ricercare 
+dentro di s$e, ma non fuori.  Dante era gi@a fiso in quello 
+Spirito, il quale, sebbene cresciuto in bellezza, perch$e su nel 
+Cielo <per letiziar fulgor s'acquista> (C. IX, 70), pur doveva 
+mantenere i segni, le postille delle primitive sembianze, e 
+questi con l'accenno di <vergine sorella> potevano bastare a 
+ridestarne l'immagine nella mente di Dante.  Non @e qui il caso 
+identico di Beatrice che invita Dante a levare il viso e fisarla 
+bene per riconoscerla: <Guardaci ben! Ben son, ben son Beatrice> 
+(^Purg.~, XXX, 73); @e piuttosto il caso di Farinata, il quale 
+al nome dei maggiori di Dante <lev@o le ciglia un poco in soso> 
+(^Inf.~, X, 45), che appunto @e l'atto di chi vuol leggere ci@o 
+che la memoria ha scritto nel suo libro. 
+
+	|49.  Piccarda~: Piccarda fu figlia di Simone Donati e 
+sorella di Corso e di Forese.  Secondo i Commentatori antichi era 
+bellissima e virtuosa, il che attesta pure Dante facendola 
+ricordare da Forese nel Girone dei golosi: <La mia sorella, che 
+tra bella e buona Non so qual fosse pi@u, triunfa lieta Ne l'alto 
+Olimpo gi@a di sua corona> (^Purgatorio~, XXIV, 13-15).  Entr@o
+giovinetta nel Monastero di Santa Chiara, dell'Ordine dei Frati
+Minori, e prese i voti religiosi, tra i quali era primo quello
+della castit@a.  Ma i fratelli, e segnatamente Corso Donati, la
+trassero a forza dal Monastero per maritarla a un gentiluomo di
+Firenze, Rossellino della Tosa.  Piccarda mor$i non si sa quando,
+ma non molto dopo il matrimonio.  Fin qui tutto @e storico.  Circa
+il modo della morte alcuni Commentatori antichi aggiungono che la
+giovane, perseverando sempre nel proposito di mantenere i voti
+fatti prima di sposare, chiese a Dio che le mandasse, se non la
+morte, tal morbo che le facesse conservare intatta la sua
+verginit@a; che infatti fu presa da una lebbra, ed essa presto ne
+mor$i.  Questi particolari hanno del favoloso, e la loro falsit@a
+si deve arguire anche da ci@o, che Dante, il quale certamente
+sapeva il fatto, viene a smentirli apertamente, collocando Piccarda
+non tra le vergini pi$u in alto, ma in questo primo Cielo tra
+coloro che avevano, sia pure per forza, mancato ai loro voti.  
+Dunque Piccarda aveva con la volont@a concorso in qualche modo a
+subire la violenza fattale.  La morte sua pu@o mettersi
+probabilmente dopo il 1290, forse prima di quella del suo fratello
+Forese, la quale segu$i, il 28 luglio 1296 (^Purg.~, XXIII, 76); si
+deve poi tener per certo che seguisse prima del marzo 1300, in cui
+s'immagina la Visione. 
+
+     <La storia di Piccarda @e delle pi$u patetiche fra le 
+rammentate da Dante, ed @e maraviglia che fra le parecchie a lui 
+tolte dai poeti moderni non sia stata pur questa>.  Cos$i Cesare 
+Balbo nella ^Vita di Dante~ (pag. 105); e noi rispondiamo: Nessuna 
+maraviglia di ci@o, poich$e chi nei tempi moderni avesse preso a 
+trattare di Piccarda o con un dramma o con un romanzo, avrebbe 
+dovuto fare l'apoteosi del monachismo e dell'ascetismo. 
+
+	|52-57.  Li nostri affetti~ ec.: Noi che amiamo e 
+desideriamo solo quello che @e in piacere dello Spirito Santo 
+godiamo in quella forma o misura che a Lui piacque assegnarci; e 
+questo grado di beatitudine che tanto apparisce inferiore a 
+quello degli altri Beati fu a noi assegnato perch$e non 
+mantenemmo in tutto l'integrit@a dei voti. 
+
+	|63.  M'@e pi@u latino~: M'@e pi$u facile.  Cos$i 
+^latinamente~ per facilmente: <A pi$u latinamente vedere la 
+sentenza litterale ec.> (^Conv.~, Trattato II, c. III).  Giovanni 
+Villani parlando di papa Giovanni XXII dice che era <assai latino 
+di dare udienza>, cio@e molto facile (^Cron.~, XI, cap. XX).  
+L'uso di questa parola in tale significato deriv@o dal fatto che 
+nel periodo di formazione del volgare italico la lingua latina 
+era propria dei dotti e intesa ancora in parte dai volghi, e 
+meglio di altre lingue. 
+
+	|66.  Per pi@u vedere~ ec.: Per vedere e godere pi$u da 
+vicino la Divinit@a che @e somma beatitudine e per farvi pi$u 
+cari ad essa.  Alcuni interpretano il |per pi@u farvi amici~, per 
+farvi un maggior numero di amici; interpretazione puerile. 
+
+	|69.  Ch'arder parea~ ec.: Pareva il suo volto raggiasse 
+nel sommo grado di beatitudine.  Altri: Nel fuoco d'un primo 
+amore.  Bella interpretazione e attraente, perch$e ci riporta su 
+la Terra al pi$u vivo e caro dei sentimenti umani, ma non ci 
+sembra doversi accettare, perch$e nel fuoco d'un primo amore il 
+volto non apparisce beato, ma quasi ricoperto da un velo di soave 
+mestizia; <d'un colore palido quasi come d'amore> (^V. N.~, cap. 
+XXXVI). 
+
+	|70-87.  Frate, la nostra~ ec.: Qui Piccarda esplica a 
+Dante ci@o che concettosamente aveva detto nei versi 52-54. -- 
+L'ardore di carit@a rende quieto e felice a pieno l'animo nostro, 
+s$i che null'altro possiamo desiderare.  Se desiderassimo pi$u 
+alto grado di beatitudine, ci@o sarebbe discorde dalla volont@a 
+divina; ma questa discordanza non pu@o aver luogo in Cielo, se 
+qui @e necessario (come @e infatti) essere in ardore di carit@a, 
+n$e d'altro modo si godrebbe la <vita integra d'amore> (C. XXVII, 
+8), e se ben consideri la natura di questa carit@a, la quale 
+non pu@o lasciar bramare altro da quello che vuole colui che tu 
+ami.  Che anzi @e essenziale (|formale~) a questo vivere beato 
+l'uniformarsi al volere divino, donde la conformit@a delle nostre 
+voglie stesse.  Per conseguenza la distribuzione di noi di grado 
+in grado pel beato regno piace a tutti i Celesti, come piace a 
+Dio che fa volerne ci@o ch'Egli vuole.  Nella sua volont@a @e la 
+nostra beatitudine, poich$e @e il sommo bene in cui si queta 
+l'anima nostra, @e il fine di tutti i nostri desideri; essa @e 
+quel mare a cui tendono tutti gli esseri o immediatamente da lui 
+creati, o mediatamente dalla Natura, i quali costituiscono <lo 
+gran mar de l'essere> (C. I, 113). -- 
+
+	|95-96.  Qual fu la tela~ ec.: Dante chiede a Piccarda 
+non gi@a il racconto della sua vita, ma soltanto come fu che non 
+pot$e compiere i suoi voti. -- |Infino a co~; A capo, A termine.  
+<In co del ponte> (^Purg.~, III, 128). 
+
+	|97-102.  Perfetta vita~ ec.: Questa donna collocata 
+in pi$u alto Cielo, che @e quello di Saturno assegnato a quei 
+contemplanti <che dentro ai chiostri Fermar li piedi e tennero il 
+cor saldo> (C. XXII, 50-51), @e Santa Chiara di Assisi 
+(1194-1253), secondo la cui regola nel mondo si prendono gli 
+abiti e il velo monacali.  Essa, giovinetta, animata dalla calda 
+parola del suo concittadino San Franceso, fond@o un Ordine 
+monastico (1212) che fu detto delle Clarisse. 
+
+	|Perfetta vita~: @E la vita contemplativa che <si @e non 
+operare per noi, ma considerare le opere di Dio e de la natura> 
+(^Conv.~, Tratt. IV, c. XXII). 
+
+	|Inciela~: Verbo dantesco, come ^imparadisa~, ^india~, 
+^infutura~, ^insempra~, ec. 
+
+	|Ogni voto accetta Che caritate~ ec.: Ges$u Cristo, detto 
+nel Vangelo ^Sposo celeste~, accetta solo quei voti che la 
+carit@a conforme al piacere suo.  E il voto @e una promessa a Dio 
+di compiere quegli atti di virt@u che a lui tornano graditi. 
+
+	|106.  Uomini poi~ ec.: Accenna ai Donati e principalmente a
+messer Corso (Si veda ^Purg.~, XXIV, v. 82-90, in nota).  Ecco
+ci@o che di esso scrive Giovanni Villani: <Della Casa de' Donati
+era capo messer Corso, e egli e quelli di sua Casa erano gentili
+uomini e guerrieri e di non soperchia ricchezza: ma per motto
+erano chiamati ^Malefammi~ (^Cron.~, lib. VIII, c. XXXIX). 
+
+	|108.  Iddio si sa~ ec.: Questo verso pieno di malinconia 
+e di rassegnazione ci richiama il mestissimo della Pia: <Salsi 
+colui ec.> (^Purg.~, V, 135). -- |Fusi~: Si fu. 
+
+	Riguardo al modo con cui Piccarda ha tratteggiata qui la 
+sua vita ci piace riferire alcune osservazioni del professor 
+Vittorio Capetti: <Quando il Poeta con atto e con parole le 
+chiede perch$e la tela della sua vita monastica restasse 
+incompiuta, ella senza palesare alcuna commozione per questo 
+risvegliarsi delle sopite memorie, quasi sdegnando di fermarsi 
+sovra i pensieri mondani, indugia sugli affetti del chiostro.  
+Nel principio della narrazione senti adunque la vergine suora che 
+celebra la Santa fondatrice del suo Ordine, esalta la regola 
+monastica e non pensa che alla vita spirituale; ma poich$e @e pur 
+necessario accennare la violenza patita e i dolori sofferti, lo 
+fa con brevit@a efficacissima, con riserbo verecondo.  I 
+congiunti violenti e sanguinari sono uomini <a mal pi@u ch'a bene 
+usi>; la violenza che le fecero fu un rapirla alla dolce 
+chiostra; ma quanto strazio in quelle parole, quante memorie di 
+dolcezze, di contemplazioni spirituali; qual contrasto fra i 
+tumulti del mondo e una pace non ricuperata nel mondo mai pi$u!  
+Ma tutti i dolori, tutte le angoscie, tutte le ripugnanze d'una 
+nuova maniera di vita che non era la sua sono in quell'ultimo 
+verso, mirabile, nel quale Dio che le ha dato la palma @e 
+chiamato a testimonio di quello che nessuno potr@a mai penetrare.  
+E di s$e non dice pi$u nulla, ma come se troppo si fosse 
+indugiata nelle memorie della vita trascorsa, s'affretta ad 
+accennare un altro Spirito, mossa da carit@a e da riverenza> 
+(^Osservazioni sul Paradiso~, Venezia, 1888, pag. 11-12). 
+
+	|109-120.  E quest'altro splendor~ ec.: Costanza, 
+figlia di Ruggero II re di Sicilia, spos@o nel 1185 Arrigo VI 
+di Svevia, figlio di Federico I Barbarossa.  Mortole nel 1197 il 
+marito, si stabil$i col figlioletto Federico, nato in Iesi, nel 
+regno di Sicilia che essa aveva ereditato, e ne tenne la reggenza 
+fino al 1198 in cui mor$i.  Qui Dante segue la falsa opinione, ai 
+tempi suoi accreditata e durata quindi per lunghe et@a, che 
+Costanza fosse stata monaca; opinione inventata dalla malignit@a 
+dei papisti e dei Guelfi nemici di Federico II per metterlo in 
+mala visto presso le moltitudini credule e superstiziose, quasi 
+che egli fosse l'Anticristo, che secondo un'opinione in voga nel 
+medio evo doveva nascere da una monaca. 
+
+	|Non fu dal vel del cor~ ec.: Verso bellissimo per la 
+novit@a dell'ardita e felice espressione. 
+
+	|Che del secondo vento~ ec.: Qual brevit@a per significare gli
+sconvolgimenti causati in Italia da quella Casa!  Con la parola
+|vento~ il Poeta ci delinea, come con un guizzo, la storia di
+centosedici anni.  Il |secondo vento~, che @e Arrigo VI, ne ricorda
+che ve n'era stato anche un primo, Federico Barbarossa.  Il |terzo
+vento~ poi, Federico II, con piena verit@a storica @e chiamato
+|l'ultima possanza~, perch$e Federico II fu grande e poderoso
+davvero, pi$u d'ogn'altro, e perch$e dopo lui non v'ebbe alcun
+altro imperatore che facesse tanto valere in Italia la potest@a
+imperiale; ch$e Arrigo VII di Lussemburgo, il quale fece dipoi
+l'ultimo tentativo serio, fin$i senza aver nulla concluso. 
+
+	Non ci sembra punto accettabile la comune interpretazione 
+di |vento~ come se fosse posto a forma di participio contratto 
+per significare ^venuto~, sottintendendo il luogo, cio@e venuto 
+in Italia.  Spiegata cos$i tale espressione, oltrech$e verrebbe a 
+perdere il suo significato storico veramente grande per assumerne 
+uno di minore importanza, quale sarebbe quello della discesa di 
+tali imperatori in Italia, essa non riuscirebbe conforme 
+pienamente alla realt@a.  Poich$e @e ben vero che Federico 
+Barbarossa e il suo figlio Arrigo vennero dalla Germania in 
+Italia, ma chi non sa che Federico II nacque invece e fu allevato 
+tra noi e qua visse quasi sempre?  Aggiungasi che quel |vento~, 
+nel senso metaforico cos$i forte, @e della ^Sacra Scrittura~, di 
+Ezechiello, dal quale Dante tolse tante altre immagini, l@a dove 
+quel profeta chiama il re Nabuccodonosor ^ventus turbinis.~  
+Infine le frasi |secondo venuto~ e |terzo venuto~ non sono certo 
+conformi all'uso degli scrittori trecentisti, ma troppo sentono 
+del moderno. 
+
+	|Soave~ o ^Soavia~ era detta comunemente la Svevia 
+(^Schwaben~), provincia dell'Alemagna, donde ebbero origine gli 
+imperatori della Casa degli Hohenstaufen. 
+
+	|123.  Come per acqua cupa cosa grave~ ec.: Con questa 
+bellissima comparazione tolta da un fatto naturale e dei pi$u 
+comuni il Poeta ottiene un doppio effetto, di rappresentarci il 
+rapido dileguarsi di Piccarda e a un tempo il lontanarsi e il 
+cessare del suo canto.  Gi@a precedentemente per rappresentarci 
+il dileguarsi del Guinizelli tra le fiamme dei lussuriosi Dante 
+si era valso di consimile immagine: <Disparve per lo foco, Come 
+per l'acqua pesce andando al fondo> (^Purg.~, XXVI, 134-135). 
+

@@ -1,0 +1,24 @@
+From steve@avalon.dartmouth.edu Fri Feb  5 13:40:24 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA13937; Fri, 5 Feb 1993 13:40:20 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9302051840.AA13937@avalon.dartmouth.edu>
+Subject: words
+To: bobh@baker.dartmouth.edu (Bob Hollander)
+Date: Fri, 5 Feb 1993 13:40:19 -0500 (EST)
+Content-Type: text
+Content-Length: 577       
+Status: R
+
+Putting together a program to turn our text file into a word list
+took about an hour.  Generating the list from the Inferno of the
+Comedia takes about 15 seconds.  For your information there are 6,382
+separate words ranging from "a" to "zuffa."  If you are curious, take
+a look at the file ~dante/Commentaries/poem/inf/words.
+
+Luigi (we're on a firstname basis now) is supposed to look at the
+database this weekend and tell me which comms he would like to have
+turned into word lists.  I'll let you know what happens.
+
+                                                    Steve
+

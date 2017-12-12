@@ -1,0 +1,393 @@
+	|1-3.  alta ripa~: @e il pendio scosceso e profondo che
+dal sesto cerchio scende al settimo, non stagliato nella roccia
+intera e liscia; essa @e rotta, scogliosa, scabra.  @E |in cerchio~
+come tutte le ripe che separano un cerchio dall'altro. 
+Erroneamente si dice che qui Dante accenni gi@a allo scarico di
+pietre franate per cui discenderanno poi nel settimo cerchio. 
+Per ora quelle pietre Dante non le vede neppure, n@e esse sono
+disposte in cerchio.  |Stipa~: calca di anime affollate nel
+cerchio successivo; @e |pi@u crudele~ perch@e comprende colpe
+maggiori e maggiori tormenti.
+
+	|4-6.  soperchio~: eccesso.  |Dietro ad un coperchio~: @e
+una conferma di quanto ho detto sulla forma degli avelli nella
+nota finale n. 1 al canto precedente.  Essendo sollevati da
+terra, non possono far riparo al ^tristo fiato~ {12}: lo fa,
+invece, un gran coperchio messo a terra.
+
+	|8-9.~  Dante segue una voce erronea, che dur@o qualche
+secolo ancora dopo di lui, secondo la quale il papa Anastasio II
+(sec. V) dal diacono Fotino di Tessalonica sarebbe stato tratto
+nell'eresia di credere che Cristo avesse avuto una sola natura, e
+non la divina e l'umana.
+
+	|11-12.  s'a@usi~: s'adusi (si abitui).  |Tristo fiato~:
+il soffio puzzolente che viene dal basso.  |Non fia riguardo~:
+<non avremo pi@u bisogno di riguardarci>.
+
+	|16.  cotesti sassi~: i sassi che formano la ripa di cui
+nei vv. 1-2, che viene quasi ad abbracciare tutti i cerchi
+seguenti.
+
+	|20.  ti basti pur la vista~: <vedendoli, non abbi
+bisogno di altre spiegazioni>.  Effettivamente qualche altra
+illustrazione particolare ci vorr@a, ma le linee generali saranno
+ormai chiare a Dante.
+
+	|22-23.  malizia~ ha in Dante due significati: uno di
+male, colpa in genere, in contrapposto al bene e alla virt@u (vedi
+p. es. ^Purg.~ XVI, 75); l'altro, pi@u ristretto, di colpa
+commessa con astuzia.  Qui si discute quale abbia.  Per me ha
+indubbiamente il primo, limitato per@o dalle parole |ch'odio in
+cielo acquista~: Virgilio parla di quelle colpe che al cielo
+riescono pi@u odiose; ma si tratta della malizia nel secondo
+senso.  Di ci@o, vedi la nota finale {alla fine del canto}.  Dice
+dunque Virgilio che di tutti i peccati pi@u odiosi a Dio, il fine
+@e l'|ingiuria~ cio@e l'offesa, il danno, il pregiudizio arrecato a
+qualcuno.
+
+	|24.~  Ecco dunque la divisione fondamentale delle colpe
+d'|ingiuria~: quelle che ledono altrui con la |forza~, quelle che
+ledono con la |frode.~
+
+	|25-26.  de l'uom proprio male~: perch@e la frode
+presuppone l'uso dell'intelligenza.  Violento pu@o essere anche un
+animale, frodolento solo un uomo.  |Di sutto~ (sotto, lat.
+^subter~): in luogo pi@u basso.
+
+	|28-30.  I violenti~: son dunque quelli che ledono altrui
+con la forza.  Essi occupano il |primo cerchio~ che ora i poeti
+debbono visitare, cio@e il settimo dell'Inferno.  |Si fa forza~
+ecc.: la violenza si pu@o usare contro tre specie di persone.  |In
+tre gironi~: Questi |gironi~ sono zone concentriche parallele,
+come i cerchi d'un bersaglio.
+
+	|31-33.  si puone~: si pu@o.  @E una forma popolare simile
+a ^sine~ per ^s@i~, ^vane~ per ^va~, ecc.  |Aperta ragione~:
+discorso esplicito.
+
+	|34-39.~  <Al prossimo si pu@o dare morte violenta e
+dolorose ferite, e contro gli averi del prossimo si posson
+compiere rovine, incendi e depredazioni; onde omicidi e feritori
+colpevoli (|mal fiere~ = ferisce malamente, cio@e a torto),
+devastatori e predoni sono tormentati in diverse schiere nel
+primo girone>.  |Tolletto~ o |tolletta~ (da ^tollo~), dov@e
+significare in origine cosa tolta; ma si trova sempre usata con
+un avverbio o un aggettivo di senso cattivo, per indicare un
+furto.
+
+	|40-45.~  <Si pu@o (|omo~ corrisponde al francese ^on~)
+avere mano violenta contro se stesso (uccidendosi) o contro le
+proprie sostanze; onde chiunque si priva della vita e sperpera
+nelle bische o distrugge (|fonde~) in altro modo le proprie
+sostanze, si pente inutilmente nel secondo girone>.  Quanto al
+pentirsi, quello dei dannati non @e il vero pentimento, come
+dolore d'aver offeso Dio (contrizione), ma dolore del peccato pei
+tristi effetti che ha avuto su di loro (attrizione).  Ed @e un
+pentimento inutile, perch@e dopo la morte non conta nulla.  Le
+parole |e piange~ ecc. (v. 45) non @e chiaro che cosa voglian
+dire.  C'@e chi le riferisce ai soli scialacquatori, come se il
+poeta dicesse che, sperperate le loro facolt@a, piangono, mentre
+con le loro ricchezze avrebbero potuto esser lieti.  Altri
+riferisce quelle parole anche ai suicidi: essi e gli
+scialacquatori piangono nel mondo di l@a, mentre se avessero ben
+impiegato vita e ricchezze avrebbero dopo morti goduto il
+Paradiso.  Ma sono osservazioni troppo ovvie, superflue, e per di
+pi@u riferibili a ogni specie di peccatori.  Io credo che Dante si
+riferisca ai soli scialacquatori, ma voglia dire che essi in
+Terra piangono di non aver pi@u le loro ricchezze, mentre di tale
+povert@a, che non d@a pi@u a loro occasione di peccare, dovrebbero
+esser lieti.  @E una mossa improntata allo stesso sentimento per
+cui nel canto VII dell'^Inferno~ egli ha esaltato la Fortuna che
+lo ha fatto povero.  Si vedano di ci@o i versi 91-93 di detto
+canto VII, e la nota finale ad esso.  E non sarei alieno dal
+credere che Dante con quel verso, legandolo strettamente al
+precedente, abbia voluto distinguere gli scialacquatori colpevoli
+che si attristano d'esser ridotti in povert@a, da coloro che
+rinunziano alle loro ricchezze per sentimento caritatevole ed
+ascetico, e di questa voluta e santa povert@a arrivano ad
+allietarsi.
+
+	|46-51.~  <Si pu@o usar violenza contro la divinit@a, o
+semplicemente negandola nell'intimo del cuore, o anche
+esteriormente bestemmiandola, e dispregiando nella natura la
+bont@a di Dio; onde il girone pi@u piccolo imprime del suo suggello
+(cio@e bollando a fuoco: si vedano i vv. 28-42 del canto XIV) i
+violenti contro natura (|Sodoma~, citt@a famosa pel brutto vizio
+di lussuria contro natura), e gli usurai (|Caorsa~: Cahors, citt@a
+della Francia, famoso nido di usurai), e chi parla riflettendo
+ne' suoi discorsi il dispregio di Dio che ha nel cuore: il
+bestemmiatore>.  @E curioso che non nomini in questa conclusione
+anche chi spregia Dio in silenzio!  Notare che quel |suggella del
+segno suo~ @e cenno enigmatico che avr@a la sua spiegazione solo
+nel canto XIV.  (Si confronti la nota ai vv. 34-36 del canto V).
+
+	|52-54.~  <La frode, di cui ogni coscienza sente il
+rimorso (perch@e @e peccato che si compie col concorso
+dell'intelligenza, e quindi pienamente cosciente) si pu@o usare o
+contro chi ha fiducia (in colui che usa la frode), o contro chi
+non ha tale fiducia nella sua borsa (cio@e non possiede tale
+fiducia)>.  Conveniamo che l'immagine @e poco bella e del tutto
+inutile.  Ma @e in rima!
+
+	|55-56.~  <Questo secondo modo @e chiaro che viene a
+infrangere soltanto quel vincolo d'amore fra gli uomini che @e
+creato dalla natura>, cio@e quello che lega uomo ad uomo solo in
+quanto uomo, non per alcun rapporto speciale.
+
+	|57-60.~  Per effetto di tale modo di frode, nel secondo
+cerchio (secondo di quelli di sotto di loro, ottavo per
+l'Inferno) si annida l'ipocrisia, chi lusinga altri fingendo
+amore o stima, chi compie fatture pretendendo avere poteri
+soprannaturali (maghi, stregoni, ecc.), i falsari, i ladri con
+astuzia, i simoniaci (trafficanti di beni spirituali), i
+ruffiani, i barattieri (pubblici funzionari che vendono la
+propria coscienza).  Virgilio non menziona qui altre due
+categorie di peccatori che troveremo nell'ottavo cerchio: i
+cosiddetti consiglieri frodolenti e i seminatori di discordie.
+
+	|61-63.~  Con l'altro modo di frode (quella usata contro
+|chi si fida~, v. 53) si dimentica non soltanto il vincolo
+d'amore naturale fra uomo e uomo, ma anche quello che pu@o essere
+aggiunto da speciali rapporti (parentela, concittadinanza, ecc.)
+di cui si creano le forme speciali di fiducia.
+
+	|64-66.~  <E quindi nell'ultimo cerchio, il pi@u piccolo,
+dove @e il centro della Terra, su cui poggia la citt@a di Dite>
+(che @e la parte pi@u bassa del cono infernale avente il vertice
+suppergi@u in quel centro) <sono eternamente consumati dal
+tormento tutti coloro che tradiscono>.  Dunque i traditori sono
+per Dante i frodolenti contro chi |si fida.~  |Dite~ crede alcuno
+che sia Lucifero (cos@i chiamato altrove da Dante) e non la citt@a. 
+Ma Lucifero ha il centro della Terra nel centro del proprio
+corpo, e quindi mal si direbbe che |siede~ su esso.
+
+	|68.  la tua ragione~: il tuo discorso.
+
+	|70-75.~  Il dubbio che Dante qui espone nasce da questo,
+che i peccatori di cui Virgilio ha parlato sono quelli di
+^malizia ch'odio in cielo acquista~ (v. 22).  Ma allora, pensa
+Dante, quelli che ho visto fuori della citt@a di Dite, non sono
+odiati da Dio?
+
+	|70-72.~  Designa qui gli accidiosi d'ira e gl'iracondi
+puniti nella crassa palude Stigia, i lussuriosi travolti dalla
+bufera, i golosi percossi dalla pioggia, gli avari e i prodighi
+che cozzano fra loro insultandosi.
+
+	|73.  la citt@a roggia~: Dite, rovente di fuoco.
+
+	|75.~  <E se non li ha in ira, perch@e sono in quelle
+condizioni?>.
+
+	|76-78.  delira~: si allontana dalla sua solita saggezza. 
+<Delirare> @e, etimologicamente, l'uscir dell'aratro dal solco
+(^lira~ in latino).  |Altrove mira~: <mira a qualche cosa di
+diverso da quello che esplicitamente domandi, ha un secondo
+fine>.
+
+	|80.  la tua Etica~: l'^Etica~ d'Aristotile,
+ammiratissima da Dante.  |Pertratta~: tratta diffusamente.
+
+	|82-84.  malizia~: ha qui, io credo, il senso di colpa
+commessa con astuzia, sinonimo di frode, e non il senso generico
+che ha nel v. 22.  Ma di ci@o vedi la nota finale {alla fine del
+canto}.  |Accatta~: si procaccia.
+
+	|86-87.  chi son quelli~ ecc.: essi (quelli puniti fuori
+di Dite) sono per l'appunto incontinenti, il cui peccato non ha
+arrecato ^ingiuria~ ad alcuno, ma @e consistito nel non
+^contenersi~ nei giusti limiti dell'amor carnale, della gola,
+dell'amore al danaro, dell'irascibilit@a.  Anche di ci@o vedi la
+nota finale {alla fine del canto}.
+
+	|88.  felli~: @e parola di molti significati.  Qui vuol
+indicare peccatori pi@u scellerati.
+
+	|91.  vista turbata~: mente intorbidata (cio@e offuscata
+dal dubbio).
+
+	|95-96.~  Virgilio aveva infatti enumerato tra i violenti
+contro Dio gli usurai (^Caorsa~, v. 50).  |Il groppo solvi~:
+<sciogli il nodo> (spiega come mai l'usura sia violenza contro
+Dio).
+
+	|97-99.  Filosofia~ ecc.: Dice cos@i in genere, ma si
+riferisce anche qui ad Aristotile, sommo dei filosofi per Dante. 
+Usa l'espressione generica anche perch@e, come dice, il concetto
+della natura ch'egli espone non @e espresso in un luogo speciale
+d'una speciale opera d'Aristotile, ma torna pi@u volte.  |Natura
+lo suo corso prende~ ecc.: la Natura, nei suoi procedimenti e
+nelle sue leggi, si modella sull'intelletto divino e sull'opera
+divina.
+
+	|100.  la tua Fisica~: la ^Fisica~ d'Aristotile.  Il
+passo cui poi si riferisce pare sia nel libro II, 2: <l'arte
+imita la natura in quanto pu@o>.
+
+	|104.  come il maestro fa il discente~: |maestro~ @e
+oggetto, |discente~ soggetto.  Il verbo ^fare~ sostituisce il
+verbo specifico <segue> (che qui ci vorrebbe) per evitare una
+ripetizione.
+
+	|105.~  L'arte viene ad essere considerata quale
+imitazione di secondo grado rispetto a Dio, come il nipote @e un
+figlio in secondo grado.  Si avverta bene che Virgilio, (ossia
+Dante) per |arte~ intende qui parlare di lavoro in genere,
+diretto a qualunque fine, sicch@e |vostr'arte~ significa in genere
+il lavoro umano.
+
+	|106-108.~  Nel secondo capo del ^Genesi~ @e detto che Dio
+impose a Adamo di coltivare il suolo del Paradiso Terrestre, e
+poi lo condann@o a cibarsi col sudore della fronte.  Ci@o @e inteso
+come una prescrizione all'uomo di trarre la sua vita dalla Natura
+e dal proprio lavoro.
+
+	|109-111.~  Usuraio @e colui che si procura guadagno
+prestando danaro a frutto illecito: dunque non trae quel guadagno
+n@e dalla Natura n@e dal lavoro, quindi offende la legge dell'umano
+lavoro, offende la Natura, e, indirettamente, Dio.
+
+	|113-114.  i Pesci~: costellazione che spunta
+all'orizzonte un paio d'ore prima di quella dell'Ariete, in cui
+nel periodo dell'equinozio primaverile si trova il Sole.  Il
+|Carro~, cio@e l'Orsa Maggiore, nel medesimo periodo si trova
+nella regione del cielo di nord ovest (|Coro~ era precisamente il
+punto dell'orizzonte intermedio fra il settentrione e
+l'occidente) tra le quattro e le cinque del mattino.  Questa @e
+dunque l'ora indicata da Virgilio.  Ricordiamo che le indicazioni
+astronomiche date nell'^Inferno~ si riferiscono al cielo di
+Gerusalemme.  |Orizzonta~ @e la forma dell'accusativo greco di
+questa parola.
+
+	|115.  via l@a oltre~: <lontano di qui>.  Il punto dove si
+pu@o scendere il |balzo~ (da ^balteus~: cintura; cio@e la ripa che
+ricinge il settimo cerchio) non @e quello dove prima si sono
+affacciati, ritirandosi s@ubito pel puzzo, ma @e alquanto lontano;
+onde, data anche l'ora, Virgilio consiglia doversi rimettere in
+cammino.  Dante non dice se questo punto dove si discende sia a
+destra o a sinistra; ma poich@e la norma generale @e che essi,
+quando procedono in giro, girano verso sinistra, cos@i avverr@a
+anche qui, e cos@i ho rappresentato nella figura 2.
+
+	NOTA FINALE.  LA CLASSIFICAZIONE DEI PECCATORI INFERNALI
+{16-90}.  Dalla lezione di Virgilio e dalle giunte ad essa
+provocate da domande di Dante risulta chiaramente che Dante
+colloca un primo gruppo di peccatori, gl'incontinenti, fuori
+della citt@a di Dite, dal secondo al quinto cerchio; e dentro, dal
+settimo al nono, i peccatori di |ingiuria~, in due gruppi:
+violenti e frodolenti, divisi questi alla loro volta in
+frodolenti semplici e traditori.  Restano fuori di tale
+classificazione gl'ignavi del vestibolo e gli spiriti del Limbo,
+perch@e non sono veri peccatori, e (problema alquanto spinoso) gli
+eretici del sesto cerchio.  Una questione fondamentale @e se con
+questa classificazione Dante intenda d'accettare la tripartizione
+dell'etica aristotelica ricordata da Virgilio (v. 79-84).  V'@e
+chi opina che la citazione virgiliana serva soltanto a confermare
+che gli incontinenti siano rei di men gravi colpe e quindi meno
+odiati da Dio, ma che non implichi un'accettazione totale di
+quella tripartizione, da cui Dante per il resto si sarebbe
+staccato.  Non sono di questa opinione.  Troppa @e l'ammirazione
+di Dante per Aristotile, traboccante in questo canto con un
+continuo riferirsi al suo pensiero; troppo solenne la citazione
+di Virgilio, troppa autorit@a viene con essa a riconoscere
+all'^Etica~ del filosofo greco, per poter ritenere che quella
+tripartizione non sia accettata.  La questione @e dunque quale sia
+il rapporto fra le categorie aristoteliche |matta bestialit@a~ e
+|malizia~, e le categorie dantesche |violenza~ e |frode.~  Io sto
+con quelli (e oggi son forse i pi@u) che ritengono corrispondere
+la frode alla malizia e la violenza alla matta bestialit@a.  Che i
+violenti danteschi corrispondano ai bestiali di Aristotile, @e
+chiarissimo.  Gi@a la caratteristica della frode di essere |de
+l'uom proprio male~ (v. 25) implica, come dicemmo, che la
+violenza invece sia comune all'uomo e alla bestia.  E il custode
+del cerchio dei violenti (lo vedremo or ora) @e il Minotauro,
+l'essere mostruoso nato dal congiungimento d'una donna bestiale
+(cfr. ^Purg.~ XXVI, 87) con una bestia, mezz'uomo e mezzo bestia
+esso stesso, che Virgilio apostrofa come ^bestia~ e chiama ^ira
+bestiale~ {XII, 19 e 33}; e i custodi speciali dei due primi
+gironi del cerchio stesso sono anch'essi bestiali: i Centauri e
+le Arpie.  Ora noi sappiamo che i guardiani dei vari cerchi
+simboleggiano le colpe punite in essi.  Si aggiunga che fra le
+colpe che l'^Etica~ aristotelica enumera come bestiali sono la
+sodomia e la crudelt@a tirannica, punite da Dante nel settimo
+cerchio.  Orbene, se @e evidente che i bestiali aristotelici
+corrispondono ai violenti danteschi, ne risulta chiaramente che i
+maliziosi aristotelici corrisponderanno ai frodolenti.  Non
+bisogna lasciarsi traviare dal fatto che Virgilio, trattando dei
+peccati d'ingiuria, esordisca chiamandoli |malizia ch'odio in
+cielo acquista~ {XI, 22}; e credere perci@o che la malizia
+aristotelica corrisponda alle dantesche violenza e frode prese
+insieme.  Ho gi@a detto che in Dante e nella lingua del tempo
+|malizia~ aveva due sensi: uno generico corrispondente a male,
+colpa in genere; uno specifico, di colpa commessa con astuzia. 
+Ora nella frase |malizia ch'odio in cielo acquista~, quella
+parola ha il suo significato generico; nella tripartizione
+aristotelica Dante le d@a invece il suo significato specifico:
+ecco tutto.
+
+	Dallo schema che Virgilio viene a tracciare con la sua
+lezione e co' suoi successivi schiarimenti, resta esclusa, come
+accennavamo, l'eresia: non peccato d'incontinenza, e non peccato
+d'ingiuria.  Come avr@a inteso Dante di ricongiungerla
+organicamente al quadro dei peccati infernali?  La spiegazione
+pi@u probabile mi sembra quella che il d'Ovidio ne d@a nel suo
+saggio sulla ^Topografia morale dell'Inferno~ [nel volume ^Studii
+sulla divina commedia~, Napoli, Guida], a cui molto debbo di
+quanto contiene questa mia nota.  Nel ^Convivio~ Dante, a
+proposito dei negatori dell'immortalit@a dell'anima, esce in
+queste parole: <Dico che intra tutte le bestialitadi quella @e
+stoltissima e dannosissima che crede dopo questa vita non essere
+altra vita>.  Dunque gli epicurei sono dei bestiali: non bestiali
+nell'azione come i violenti, ma bestiali a dir cos@i teoretici.  E
+poich@e agli epicurei (lo abbiam visto) Dante ha pensato
+soprattutto nell'architettare il suo cerchio dell'eresia, insieme
+con essi ha considerato tutti gli eretici come bestiali,
+comprendendoli nella categoria aristotelica della bestialit@a. 
+Insomma, la ripartizione dell'Inferno, ridotta in termini
+aristotelici, sarebbe questa: Incontinenti (dal secondo al quinto
+cerchio), Bestiali (sesto e settimo), Maliziosi (ottavo e nono). 
+Nel suddividere poi in classi minori le grandi categorie, Dante
+si @e comportato liberamente, secondo i suoi fini morali e
+poetici.
+
+	Un'altra questione assai dibattuta @e quella dei rapporti
+fra la classificazione dantesca e il canone cristiano dei sette
+vizi capitali.  Poich@e nei cerchi dal secondo al quinto i titoli
+dei peccati corrispondono a quelli di altrettanti vizi capitali:
+lussuria, gola, avarizia, ira, e (secondo la comune opinione)
+accidia, v'ha chi crede che Dante in principio avesse adottato
+pel suo Inferno tale classificazione, e a un certo punto l'avesse
+abbandonata per attenersi all'aristotelica; e altri che pensa di
+dover ritrovare nei peccati dal sesto cerchio in gi@u un'analisi
+dei due vizi capitali rimasti fuori: superbia e invidia.  Non
+credo n@e l'una n@e l'altra cosa.  La parziale coincidenza coi vizi
+capitali si spiega altrimenti.  I peccati d'incontinenza
+consistono nel non aver serbato la giusta misura nella
+soddisfazione d'istinti naturali, ma non sono peccati d'ingiuria,
+perch@e non vi fu lesione intenzionale di nessuno (si veda al
+proposito la nota al v. 49 del canto XII).  Naturale quindi che
+la loro specificazione risulti non da un'analisi di delitti, di
+atti peccaminosi, del genere di quelle che Dante fa dei peccati
+d'ingiuria, quasi da codice penale; ma da un'analisi di tendenze
+psicologiche, quale @e appunto l'analisi cristiana dei sette vizi
+capitali.  Onde nell'enumerare i peccati d'incontinenza Dante ha
+potuto tener d'occhio lo schema di quei vizi.  Dei quali peraltro
+solo quattro facevano al caso suo.  Essendo l'incontinenza un
+allontanamento dal giusto punto di una tendenza naturale, ben si
+pu@o ammettere un giusto punto per l'amor carnale, l'amore dei
+cibi e delle bevande, l'amore al danaro, l'irascibilit@a; ma non
+c'@e un giusto punto di accidia, d'invidia, di superbia!  Ecco
+perch@e questi tre peccati (vedi per l'accidia quanto dico nella
+nota finale n. 2 al canto VII) non figurano nella classificazione
+dantesca.  Ma anche nei peccati d'incontinenza, enumerati
+sostanzialmente secondo lo schema cristiano, c'@e una punta di
+aristotelismo nell'aver accoppiato all'avarizia la prodigalit@a e
+all'ira l'incapacit@a d'ira, secondo la dottrina aristotelica
+degli eccessi contrari.  Di che vedi ancora la nota or ora
+ricordata.  Che se si domandasse perch@e Dante non abbia applicato
+tale dottrina anche nei cerchi secondo e terzo, la risposta @e
+ovvia: non era possibile considerare addirittura come peccato
+mortale l'assoluta astinenza dai piaceri della carne e della
+gola, se pure, da un punto di vista puramente umano, Dante
+potesse ritenerla un eccesso.

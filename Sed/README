@@ -1,0 +1,6 @@
+This directory contains sed(1) scripts used in converting original commentary
+texts into DDP markup language. These scripts are typically used on our
+personal computers, but they could be run here on the server. 
+
+The expandabbr.sed script expands some abbreviations used in the
+Chiavacci commentary.

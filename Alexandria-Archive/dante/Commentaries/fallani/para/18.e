@@ -1,0 +1,470 @@
+	|1-3.  Gi@a si godea...~: Cacciaguida, compenetrato nella
+visione beatifica, si compiace del suo pensiero (|verbo~); come
+in uno specchio, i beati riflettono la divina luce (cfr.
+^Parad.~, IX, 61-62).  Dante gustava nella sua mente le cose
+udite, che contenevano cose dolci, quale l'annuncio
+dell'ospitalit@a degli Scaligeri, la punizione dei malvagi, la
+sua fama e gloria di poeta (cfr. ^Parad.~, XVII, 70-92; 124-42);
+cose acerbe, come la profezia dell'esilio e le conseguenti
+sventure (^ivi~, 46-69).
+
+	|5-6.  Muta...~: Beatrice lo esorta a non pensare ai
+dolori futuri, ma piuttosto a riflettere che ella @e presso Dio,
+e, se l'ha soccorso sin qui, mai tralascer@a di adempiere la sua
+missione, poich$e <Iddio ogni torto disgrava e dirizza con la sua
+giustizia> (Buti), <Mea est ultio, et ego retribuam in tempore>
+(^Deuter.~, XXXII, 35).
+
+	|7-9.  Io mi rivolsi...~: nel chiamare Beatrice: |mio
+conforto~, Dante mostra di aver ben compreso le parole e di aver
+ripreso vigore e fiducia; negli occhi santi di lei vede un amore
+puro che rifulge, un amore che presso Dio @e solo <charitas> e
+rimane perci@o indescrivibile (|qui l'abbandono~).  -- |conforto~:
+lo stesso titolo @e dato a Virgilio (^Inf.~, IV, 18; ^Purg.~,
+III, 22)
+
+	|10-12.  non perch'io...~: difficolt@a di parole,
+difficolt@a di memoria.  L'aiuto della Grazia (|altri~) potrebbe
+solo richiamargli alla mente quello che vide allora.  Concetto
+pi$u volte espresso in ^Inf.~, V, 81; ^Parad.~, I, 5-9; XXIII,
+49-51; XXXIII, 58-60).  <Memoria non potest referre que
+intellectus videt supra vires suas, cum sit alligata organo
+corporali, ut patuit circa principium huius Paradisi, quasi
+dicat: loquela non sufficit, et memoria est defectiva>
+(Benvenuto).
+
+	|13-18.  Tanto...~: pu@o dire solamente, di quel momento,
+che rimirando la sua guida, sente il cuore finalmente libero da
+ogni desiderio, cio@e in pace e per nulla turbato sul suo futuro.
+<Iddio dirizzava li raggi suoi in Beatrice, e quelli poi da lei
+in me rifletteano, s$i che questo secondo aspetto mi contentava>
+(Ottimo).  La luce divina inonda Beatrice e si riflette (|secondo
+aspetto~, cfr. ^Parad.~, I, 49-53), nel poeta.
+
+	|19-21.  Vincendo me...~: lo distoglie con un nuovo
+fulgore (|un sorriso~) dalla contemplazione, e l'invita a
+volgersi a Cacciaguida e agli altri beati, per ascoltare ci@o che
+gli dir@a il suo trisavolo, poich$e la beatitudine (|paradiso~),
+aggiunge in tono giustificativo, non @e solo la contemplazione di
+lei, nel suo significato di simbolo.
+
+	|22-27.  Come si vede...~: per ristabilire il contatto
+tra Dante e Cacciaguida, interviene un'osservazione
+psicologicamente vera, riscontrabile nella vita quotidiana.  Nel
+viso, e principalmente negli occhi, si manifesta per intero il
+sentimento dell'anima, quando tutte le potenze vi concorrono
+(|s'ello @e tanto~), concentrate su di un unico obbietto:
+<conoscer si pu@o, la sua presente passione, chi bene l@a mira>
+(^Conv.~, III, VIII, 9).  (Cfr. ^Parad.~, V, l24-26).
+Cacciaguida nel chiaro lume, di cui era circonfuso, gli mostr@o
+con fulgore pi$u vivo il desiderio di parlare ancora un poco.
+
+	|28-33.  In questa...~: nel cielo di Marte, considerato
+come il quinto grado (|soglia~, cfr. ^Parad.~, XXXII, 13)
+dell'ordinamento del ^Paradiso~, il poeta vede, per un momento,
+lo sviluppo della gloria celeste, come un albero immenso, che
+assurge a emblema, non partecipando alla natura dell'albero
+terreno; esso infatti vive della linfa vitale e della luce che
+gli viene dall'alto, cio@e da Dio, e non dalle radici; produce
+frutti sempre nuovi e perenni, e non soggiace al variare delle
+stagioni e all'invecchiamento.  Fuori metafora, i santi vivono
+della visione beatifica di Dio, il cielo si popola sempre di
+nuovi eletti, e tale beatitudine non @e occasionale, ma permane
+in eterno.  <Visio (Dei) quae intellectuales creaturas facit
+beatas, non est in tempore, sed in aeternitate.  Impossibile est
+ergo quod, ex quo illius particeps aliquis fit, ipsam amittat>
+-(S. Tommaso, ^S. contra Gent.~, III, c. LXII).  -- |fuor di gran
+voce~: i beati che Cacciaguida sta per nominare furono nel mondo
+(|gi$u~) uomini di grande fama, da offrire ai poeti (l'epica del
+Medioevo n'@e ricca) materia di poema e di storia.
+
+	|34.  ne' corni de la croce~: nei bracci destro e
+sinistro della croce.
+
+	|35-36.  far@a l'atto...~: l'anima, chiamata a nome,
+perch$e Dante possa conoscerla nella miriade di luci,
+risplender@a, tra le altre, pi$u vivamente, come il baleno
+attraverso la nube.
+
+	|37-39.  Io vidi...~: vede un lume muoversi velocemente,
+nell'istante stesso in cui Cacciaguida ne pronunzia il nome:
+Giosu@e, figlio di Nun, della trib$u di Efraim, che guid@o il
+popolo d'Israele e lo introdusse nella terra promessa, dopo la
+morte di Mos@e, il quale con la imposizione delle mani lo aveva
+costituito suo successore.  Conquist@o Gerico e tutta la regione
+meridionale e settentrionale di Canaam, e a Sichem eresse un
+monumento e parl@o della fedelt@a alla legge di Dio.  Il libro di
+^Giosu@e~ occupa il sesto posto, dopo il ^Pentateuco~, nella
+Bibbia.
+
+	|40-42.  l'alto Maccabeo...~: Giuda Maccabeo (166-160 a.
+c.) che liber@o il popolo ebreo dal giogo del re di Siria,
+Antioco IV Epifane che aveva proibito a osservanza del sabato,
+della circoncisione, delle astinenze legali.  Giuda ottenne,
+combattendo, la revoca delle misure di vessazione contro gli
+Ebrei, e rientr@o a Gerusalemme, dove fu di nuovo compiuto, nel
+Tempio, sull'altare degli olocausti, il sacrificio a Jahweh.  La
+rivolta condotta da Giuda Maccabeo @e narrata nei due libri
+<deuterocanonici> del Vecchio Testamento (^I~ e ^II Mach.~).  --
+|roteando...~: la luce si muoveva in giro, e la sua letizia era
+come la sfera (|ferza~) che aiuta la trottola (|paleo~) a ruotare
+pi$u celeremente.  La similitudine @e in Virgilio, a proposito
+del furore della regina Amata (cfr. ^Aen.~, VII, 378-84).
+
+	|43.  Cos$i...~: |Carlo Magno~ (742-814), re dei Franchi,
+collocato qui per la difesa recata alla Chiesa nella lotta contro
+i Longobardi (^Parad.~, VI, 94-96), e nei combattimenti contro i
+Saraceni (^Inf.~, XXXI, 16-17).  Fu incoronato imperatore
+d'Occidente la notte del 24 dicembre dell'anno 800 dal papa Leone
+III.  -- |Orlando~: paladino di Carlo Magno ed eroe caduto, in
+difesa dei cristiani, a Roncisvalle, e celebrato insieme
+all'imperatore nell'epopea di Francia, per la guerra contro
+Agramante, re dei Mori.
+
+	|45.  com'occhio...~: il falconiere segue attentamente,
+con l'occhio, il volo del falco in caccia.
+
+	|46.  Guiglielmo...~: duca d'Orange.  Secondo la leggenda
+fu il pi$u celebre dei figli di Amerigo, conte di Narbona.  Mor$i
+monaco nell'812 a Gellone.  -- |Renoardo~: Rainouart, uomo di
+eccezionale forza fisica al seguito di Guglielmo d'Orange:
+avanzava con la sua clava terribile.  La sua collocazione tra i
+beati lascia perplessi (cfr. Parodi, ^Bull. soc. dant.~, XIII
+62).  La porta centrale del duomo di Verona reca ai lati le due
+statue di Guglielmo e di Renoardo.  -- |Gottifredi~: Goffredo di
+Buglione (1058-1100), duca di Lorena, combattente crociato:
+partecip@o all'assedio di Nicea e di Antiochia, espugn@o
+Gerusalemme (1099) e fu eletto re della citt@a santa.  La
+tradizione ha coordinato attorno alla sua figura l'epopea della
+prima crociata.  -- |Ruberto Guiscardo~: normanno (1015-1085),
+figlio di Tancredi d'Altavilla, duca di Puglia e di Calabria dal
+1058 al 1085, anno della sua morte, avvenuta a Palermo.  Promosse
+l'impresa nel 1061 contro i Musulmani per la riconquista della
+Sicilia.
+
+	|49-51.  Indi...~: poi, dopo aver fatto conoscere queste
+anime beati di guerrieri, Cacciaguida si ricongiunge con gli
+altri spiriti che sono nella croce e cantano, dando un'ultima
+prova di quanto fosse grande la sua arte di cantore delle cose
+divine.
+
+	|54.  o per parlare~: attende, con parole o con cenni,
+che Beatrice gl'indichi che cosa deve fare.
+
+	|55-57.  vidi...~: avviene nell'istante il passaggio dal
+cielo quinto di Marte al cielo sesto di Giove: il volto
+(|sembianza~) della sua guida supera, in sereno splendore, i suoi
+aspetti consueti (|solere~), persino l'ultimo, descritto nei vv.
+7-18.
+
+	|58-63.  E come...~: chi ama la virt$u (|bene operando~)
+ne prova gioia, e tale gioia @e segno che la virt$u @e cresciuta
+in lui (|la sua virtute avanza~).  Il poeta s'accorge, dalla
+circonferenza di un cielo pi$u ampio (|avea cresciuto l'arco~),
+ch'era salito a un cielo superiore, ma se n'avvede perch$e
+Beatrice (|quel miracol~, cfr. ^Vita Nuova~, XIX, 11) si @e
+ancor pi$u trasfigurata nella sua bellezza.  Si bilanciano, nella
+similitudine, i valori della vita morale e i valori della
+perfezione del creato: l'uomo che avanza nella virt$u sente la
+gioia del bene, come chi ascende ad un cielo pi$u alto sente una
+letizia superiore.  E tutto questo converge in Beatrice: cos$i
+ella si accresce di bellezza, i cieli di splendore e il poeta
+avvalora e dispone il suo ingegno alla comprensione delle cose
+celesti.
+
+	|64-66.  E qual...~: con una nuova similitudine,
+prospetta il cambiamento dell'ambiente in cui opera la visione.
+Una donna passa, quasi nell'istante, dal rossore (|il carco~, il
+peso) della vergogna al suo colorito bianco naturale.
+
+	|67-69.  tal fu...~: negli occhi del poeta, in quel modo,
+rapidamente si compie il passaggio (^varco~) dal colore rossastro
+di Marte al colore bianco e argenteo di Giove.  -- |quando fui
+v@olto~: sia a Beatrice che al nuovo pianeta.  -- |la temprata
+stella sesta~: <Tolomeo dice... che Giove @e stella di temperata
+complessione, in mezzo de la freddura di Saturno e de lo calore
+di Marte... Intra tutte le stelle bianca si mostra, quasi
+argentata> (^Conv.~, II, XIII, 25).
+
+	|70.  giovial facella~: l'astro di Giove @e <temperato>;
+gli antichi dissero che <la cagione della felicitade era nel
+circolo di Giove> (Ottimo).
+
+	|71.  l'amor che l$i era~: le anime beate l@a apparse.
+
+	|72.  segnare...~: comporre lettere con i segni del
+nostro alfabeto.
+
+	|73-75.  E come augelli...~: le gru, dopo essersi
+dissetate alla riva di una corrente o fiume (|rivera~, cfr.
+^Inf.~, III, 78; XII, 47), si levano a volo, liete del passato,
+disponendosi a forma di cerchio o in altre figure.  <Strymona sic
+gelidum bruna pellente, relinquunt -- poturae te, Nile, grues,
+primoque volatu -- effingunt varias, casu monstrante, figuras; --
+mox ubi percussit tensas Notus altior alas, -- confusos temere
+immistae glomerantur in orbes -- et turbata perit dispersis
+litera pennis> (Lucano, ^Phars.~, V, 711-16).  Osserva il
+Momigliano: <Immagine di mansuetudine e di pace, di quiete
+dell'anima, una di quelle che sono disseminate per tutto il
+^Paradiso~ e ne costituiscono come lo sfondo sentimentale: sono
+ottenute con significativa frequenza interpretando umanamente gli
+atteggiamenti degli uccelli, mettendo in rilievo quel senso di
+tranquillit@a che essi d@anno con le loro mosse e con il loro
+canto>.
+
+	|77-78.  faciensi...~: le anime beate si disponevano
+insieme, in varie forme, in modo da rappresentare ora l'una, ora
+l'altra lettera dell'alfabeto.
+
+	|79-81.  Prima...~: si muovevano cantando, seguendo il
+ritmo e la nota del loro canto, poi prendendo la forma di una
+lettera (|l'un di questi segni~) si fermavano un poco e tacevano.
+Dante aveva perci@o modo e tempo di veder la lettera, di
+accostarla, nella memoria, alle precedenti, individuando le
+sillabe e le parole.
+
+	|82-84.  O diva Pegasea...~: una delle muse, educatrici
+del cavallo Pegaso, nato dal sangue di Medusa, e appartenente a
+Perseo.  Da un calcio del mitico cavallo scatur$i in Elicona la
+fonte detta Pegasea.  Non @e precisato a quale musa il poeta
+rivolga l'invocazione: alcuni ritengono Euterpe, o Calliope, o
+Urania, altri la musa in genere, il che ci sembra pi$u probabile.
+La divina poesia rende gloriosi e immortali gli ingegni dei poeti
+(il <nome che pi$u dura e pi$u onora> ^Purg.~, XXI, 85); ed essi
+con l'aiuto celeste (|teco~) eternano la fama delle citt@a e dei
+regni.  Questa preoccupazione della fama in Dante non @e fuor di
+luogo, essendo la fama, secondo S. Tommaso, il principale fra i
+beni esteriori, che rende l'uomo capace di adempiere i propri
+doveri: <fama praeeminet divitiis, eo quod propinquior est
+spiritualibus bonis; unde dicitur ^Prov.~, XXII, 1: Melius est
+nomen bonum quam divitiae multae> (^S. theol.~, II, II, q.
+LXXIII, art. 3).
+
+	|85-87.  illustrami...~: supplica una virt$u superiore
+per rendere, con evidenza, il movimento e il vario atteggiarsi
+dei beati.  -- |paia tua possa~: appaia la tua potenza.  -- |versi
+brevi~: nel giro breve del ritmo della terzina.
+
+	|88.  cinque volte sette~: il primo versetto del ^Liber
+Sapientiae~ @e formato di trentacinque lettere, tra vocali e
+consonanti.
+
+	|90.  come mi parver dette~: secondo l'ordine, in cui
+apparvero espresse.
+
+	|91-93.  Diligite...~: nel dipinto si mostrarono prima
+(|primai~, cfr. ^Inf.~, V, 1), un verbo e un nome; per ultimi
+(|sezzai~, cfr. ^Inf.~, VII, 130) i segni dell'alfabeto che
+formano le altre parole.  La scritta deve essere immaginata, come
+ben vide il Caetani (^Corrispondenza dantesca di M. Caetani~,
+Firenze 1903), in caratteri maiuscoli gotici per comprendere la
+naturalezza della successiva trasformazione.  Un valore assoluto
+acquistano le parole bibliche stampate, con segni cos$i preziosi,
+come sono le anime dei beati, nel cielo di Giove.  L'aspirizione
+alla giustizia, ch'@e nel cuore della societ@a e di Dante,
+trascende la vicenda terrena e diviene un ammonimento per coloro
+che sono i ministri della giustizia, di quella religiosa, come di
+quella civile.  |Diligite~ @e un imperativo categorico che
+colpisce, nel momento che Dante scrive, l'Imperatore e il
+Pontefice, l'uno e l'altro lontani dalla loro sede, dal giardino
+dell'Impero: dall'Italia e da Roma.  L'autore della ^Monarchia~
+stabilisce nel canto uno dei caratteri fondamentali del poema.
+L'idea figurativa di una simile rappresentazione pu@o essere
+venuta in Dante, secondo noi, dal rilievo e dall'importanza
+solenne e rituale che acquistano nei corali e negli antifonari
+miniati le lettere in apertura.  Sfogliando quei grandi volumi con
+miniature si ha questa impressione, che colpisce la fantasia,
+osservando la successione delle iniziali, specialmente nei testi
+in uso per il canto corale.  Oderisi e Franco Bolognese (^Purg.~,
+XI, 79-84) erano, al tempo del poeta, miniatori rinomati.
+
+	|94-96.  Poscia...~: le anime dei beati, fermandosi sulla
+lettera M della parola: ^terram~ (il |vocabol quinto~), fecero
+sembrare il pianeta argenteo di Giove come fregiato d'oro in quel
+punto.  <C'@e in questi versi (vv. 70-90)... una chiarezza quasi
+matematica dell'organizzazione, razionalmente evidenziata: si
+noti l'esattezza delle indicazioni temporali e spaziali (^dentro,
+prima, poco, poi, or..., or~), i parallelismi di costruzione
+sintattica (^cantando, diventando~), la rispondenza accuratissima
+della similitudine degli uccelli con le anime beate (^or tonda,
+or lunga schera -- or D, or I, or L~), dove l'accento @e da
+porre proprio su questo calcolo mirabile dei mezzi e delle
+utilizzazioni figurative pi$u che sull'immagine osservata in modo
+autonomo.  E la riprova del rigore costruttivo...@e data proprio
+dalla presenza del numero, nella seconda parte della descrizione,
+sottolineata in una funzione di moltiplicazione.  Sono versi in
+cui spicca il gusto tutto medievale per la chiarezza razionale
+della matematica, come ordinamento perspicuo e armonico delle
+cose> (G. Barberi Squarotti, ^Il c. XVIII del Parad.~, in
+^Lett. dant.~, Firenze 1961, pp. 374-75.)
+
+	|98.  il colmo de l'emme~: nella parte culminante della
+M.  <Nel cielo di Giove appare in quel fulgore di scintille d'oro
+la figura che si fa, si rende visibile il divenire dell'immagine
+e il suo dissolversi in vista di un'altra.  Dalla scrittura che
+@e gi@a ^dipinto~ passiamo a un emblema che @e figura viva> (G.
+Marcovaldi, ^Il c. XVIII del Parad.~, Roma 1956, p. 24).
+
+	|99.  cantando...~: @e certo (|credo~) che quanto veniva
+lass$u cantato erano laudi a Dio, al bene verso il quale erano
+attratte.
+
+	|100-102.  Poi, come...~: i ceppi arsi dal fuoco, se
+percossi, sprigionano faville, e gli sciocchi, secondo il numero e
+la direzione delle faville, traggono gli auspicii.  <Fulgebunt
+iusti et tanquam scintillae... discurrent> (^Sap.~, III, 7).  --
+|augurarsi~: <Est enim de more in partibus Italie, quod pueri
+stantes in hyeme de sero iuxta ignem percutientes stipitem
+augurantur sibi, dicentes: tot civitates, tot castella, tot
+agnelli, tot porcelli> (Benvenuto).
+
+	|103-105.  resurger...~: dal colmo della M, si leva
+improvviso un numero indeterminato (|pi$u di mille~) di anime
+lucenti, e vanno ad occupare un posto pi$u alto o pi$u in basso,
+nella formazione emblematica di un'aquila, simbolo dell'Impero, a
+indicare il grado della loro beatitudine (|come il sol...
+sortille~).
+
+	|106-108.  e quietata...~: terzina molto discussa.  Il
+Chimenz giustamente propone di considerare: ^pi$u di mille luci~
+soggetto di |rappresentare~, e |a quel distinto foco~ complemento
+di luogo, e interpreta: <vidi quelle luci sorte dal collo dell'M
+rappresentare, formare la figura del collo e della testa di
+un'aquila ^a quel distinto foco~, in quell'oro fiammeggiante
+che si distingueva nel candore di Giove>.
+
+	|109-111.  Quei...~: Dio, autore della figurazione
+apparsa, non ha bisogno di riferirsi, come fanno i pittori alla
+natura, ad alcun esemplare; tutte le cose imitano Lui, e da Lui
+ogni cosa riceve la virt$u informativa, come ad esempio gli
+uccelli (esseri che si formano nei loro |nidi~).  La frase si @e
+conclusa con gli uccelli, in quanto, parlando della virt$u, ch'@e
+|forma~ degli esseri che si generano in terra, era forse l'idea
+prima che poteva venire in mente, davanti all'aquila.
+
+	|112-114.  L'altra...~: le anime, ferme prima sulla
+sommit@a della M, formanti cos$i il giglio araldico, con lieve
+movimento prendono la forma e l'impronta dell'aquila.  L'accenno
+dell'|ingigliarsi a l'emme~ non @e di trascurabile peso, se si
+collega questo passo a ci@o che Dante disse della casa di Francia
+(^Purg.~, XX, 43-45), dell'Impero e dei gigli della monarchia
+francese (^Parad.~, VI, 110-11), se si ha presente la visione del
+Paradiso terrestre, la deformazione del carro simbolico, la scena
+della meretrice e del gigante (Filippo il Bello) che la flagella
+(^Purg.~, XXXII, 142-60) e il trasferimento della sede papale,
+lamentato in quell'episodio.  Il giglio, e cio@e la monarchia di
+Francia, deve essere riassorbito nell'unica autorit@a: l'Impero.
+S'intendono cos$i i versi finali del canto e l'invettiva contro
+il pontefice, allora ad Avignone.
+
+	|116-117.  nostra giustizia...~: la giustizia umana @e un
+effetto dell'influenza che esercita sulla terra la ^dolce stella~
+di Giove.
+
+	|118-120.  Per ch'io prego...~: Dante prega Dio, che d@a
+moto e virt$u al cielo di Giove, che guardi il luogo della
+cupidigia (|ond'esce il fummo~), che annebbia e non lascia pi$u
+vedere (|vizia~) il lume della giustizia.
+
+	|121-122.  s$i ch'un'altra fiata...~: supplica che si
+rinnovi la cacciata dei profanatori del tempio di Gerusalemme,
+avvenuta nella zona del cortile pi$u esterno, dove potevano
+eccedere anche i pagani, in mezzo ad una folla di trafficanti.
+<Et intravit Jesus in templum Dei, et eiciebat omnes vendentes et
+ementes in templo, et mensas nummulariorum, et cathedras
+vendentium columbas evertit.  Et dicit eis: Scriptum est: Dumus
+mea, domus orationis vocabitur: vos autem fecistis illam
+speluncam latronum> (^S. Mat.~, XXI, 12-13).
+
+	|123.  che si mur@o...~: la chiesa s'innalz@o in virt$u
+dei miracoli (|segni~) e dei martiri, testimonianza apologetica
+della sua verit@a.
+
+	|124-126.  O milizia...~: invita le anime del cielo di
+Giove a intervenire come milizia, per l'amore ch'ebbero per la
+giustizia -- in questo momento che scrive le contempla ancora --
+a favore della cristianit@a, sviata dietro l'esempio di
+cupidigia.
+
+	|127-129.  Gi@a si solea...~: la guerra si combatteva,
+per consuetudine, con le armi, ma ora s'interviene togliendo
+all'uno o all'altro popolo il pane eucaristico (con la
+scomunica), cibo spirituale che Dio (|'l pio Padre~) ha elargito
+per tutti.  Perdura, nell'accenno, l'eco dolorosa dei fatti di
+Palestrina (cfr. ^Inf.~, XXVII, 85-90), o forse, come pens@o il
+Parodi (^Bull. soc. dant.~, XVIII, 73), si allude alla
+scomunica di Giovanni XXII contro Cangrande nell'anno 1317.
+
+	|130-132.  Ma tu...~: si rivolge direttamente al
+pontefice.  L'apostrofe @e una <digressione>, che si riferisce
+agli anni in cui scrive, non al tempo della visione.  L'invettiva
+non pu@o considerarsi indeterminata, essendoci un'accusa
+esplicita, quella della manomissione dei documenti: i decreti di
+scomunica si scrivono, con l'intenzione di cancellarli poi, a
+scopo di lucro.  Si ritiene che la persona esposta al dileggio
+sia il papa Giovanni XXII, nato a Cahors verso il 1245,
+cancelliere di Carlo II re di Sicilia, vescovo di Fr$ejus, poi di
+Avignone, eletto papa a Lione nel 1316.  Fu un grande canonista e
+attese alla riforma della Chiesa (come lo provano le ^Clementine~
+e le ^Extravangantes~) e alla sua riorganizzazione.  Per
+continuare ad amministrare l'Impero ne prolung@o la vacanza,
+respingendo l'elezione di Ludovico di Baviera.  La polemica
+dantesca pu@o aver avuto origine anche dal fatto che Giovanni
+XXII accentr@o tutta la collazione dei benefici ecclesiatici
+nelle sue mani.  Mor$i ad Avignone nel 1334 (cfr. P. Fedele,
+^Studi per Dante~, Milano 1935, pp. 147 e sgg.).  Dante ricorda
+al pontefice, dimentico della sua missione, che sono sempre vivi
+i principi degli Apostoli: Pietro e Paolo, che subirono il
+martirio per la Chiesa (|la vigna~) di cui egli @e scandalo
+(|che guasti~).
+
+	|133-136.  Ben puoi tu dire...~: immagina che il
+pontefice ascolti l'invettiva e che abbia pronta una evasiva
+risposta, che lo renda maggiormente colpevole, nel suo scettico
+cinismo.  Il papa si dichiara devoto di S. Giovanni Battista, che
+visse nel deserto (|solo~) e che fu martirizzato per il ballo
+della figliola di Erodiade (|per salti~), che chiese e ottenne
+dal padre, per suggerimento materno, in premio della danza, il
+capo del Precursore (^S. Mat.~, XIV, 6-8).  Tale devozione @e in
+sostanza una beffa, poich$e si fonda sull'attaccamento del papa
+al fiorino d'oro di Firenze, che recava sulla moneta il suggello
+di S. Giovanni Battista (cfr. ^Inf.~, XXX, 74).  Ancor pi$u
+tristemente, il pontefice conclude di non saper nulla di Pietro,
+che era un semplice pescatore, e neppure di Paolo che, con tono
+popolaresco, chiama: Polo.  I versi non sono nel clima ideologico
+del ^Paradiso~, se non per lo sdegno morale e il volere di
+rinnovamento politico-religioso a cui principalmente mirano.  
+
+	Il simbolo dell'Aquila, il concetto della giustizia, 
+riconducono il poeta al suo ideale politico.  <Imperator est 
+animata lex in terris>, scrivevano a Gregorio IX i vescovi di 
+Salisburgo e di Regensburg; non una persona astratta, bens$i 
+un monarca @e l'atteso, incarnazione della legge e del bene, 
+esente da ogni avidit@a terrena, essendo il suo potere esteso a 
+tutta la terra.
+
+	La suprema giurisdizione @e in lui rappresentata; Augusto 
+e Giustiniano sono i suoi predecessori, anche se l'autorit@a @e
+fuori d'Italia, e l'autorit@a @e passata dai Franchi ai Tedeschi;
+l'imperatore @e cittadino romano, e a Roma soltanto pu@o cingere
+la corona di Cesare.  Contro di lui sono, come s'@e visto, i
+giuristi francesi di Filippo il Bello e i suoi consiglieri:
+Guglielmo Nogaret, Pietro Dubois, fra Giovanni di Parigi, che
+difendono l'autonomia del regno di Francia dall'Impero; ostili
+alla sua venuta e al possesso della sua autorit@a legittima sono
+i decretalisti, che vogliono al potere regale sovrapporre il
+potere del pontefice; con speculazioni cavillose gli si oppongono
+i tiranni d'Italia, le rivalit@a delle casate ghibelline e i
+partiti imperiali e antimperiali, e le signorie recenti, pronte
+alle guerriglie e alle violenze.  L'^Unam Sanctum~ di Bonifacio
+VIII, le opere ^De potestate ecclesiastica~ di Egidio Romano, ^De
+regimine christiano~ di Giacomo da Viterbo, ^De potestate~ papae
+di Enrico da Cremona e vari capitoli di teologi e di canonisti
+davano il carattere di sanzione formulata e acquisita alla teoria
+ierocratica.  Negli anni dell'^interregnum~ sembr@o che l'Impero
+avesse compiuto, con la morte di Federico II, il suo ciclo
+storico.  Dante ne riafferma la validit@a ^de iure~: Virgilio gli
+aveva rivelato, con la celebrazione dell'Impero, la missione
+sacra di Roma.  Gi@a nel IV libro del ^Convivio~ (capp. IV, V,
+IX) la dottrina e lo schema sull'Impero universale @e presente.
+

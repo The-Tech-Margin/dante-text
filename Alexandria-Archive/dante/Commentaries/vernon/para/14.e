@@ -1,0 +1,128 @@
+	|Proemio.~  Incomincia il quatordecimo chapitolo di Paradiso.
+
+	|1-33.~ 
+	^Dal cientro al cierchio e s@i dal cierchio al cientro~
+^movesi l'acqua in u[n] retondo vaso~
+^secondo che percosso fuori o dentro.~
+
+E trattato il nostro altore e dichiarato un dubbio nato dinanzi per le 
+parole di san Tomaso ancora rimuove un'altra quistione di nuovo e 
+puotesi dividere questo chapitolo in quatro parti gienerali.  In questa 
+prima parte l'altore continuando muove un dubbio e s@i llo comincia in 
+questa comperazione chome chomincia questo chapitolo facciendo 
+comperazione che 'l suo animo cio@e egli e Beatricie fosse in cientro e 
+il mezzo di quelle due chorone d'anime le quali anime erano loro 
+accierchiate in tondo.  E si fingie ch'egli di quel mezzo avenisse le 
+parole del dubbio il quale egli avea e del cierchio uscisse e venisse 
+bench@e ritornavano a llui al cientro del mezzo a chiarifichallo di 
+quel dubbio ch'egli avea e s@i tti d@a per questo questa comperazione 
+chome vedi che comincia questo chapitolo.
+
+	^Nella mia mente fe' subito chaso~
+^questo ch'i' dico s@i chome si tacque~
+^la gloriosa vita di Tommaso.~
+
+Dicie qui l'altore che chome san Tomaso ebbe compiuto di dire e di 
+chiarifichargli il dubbio secondo che di subito a llui vene un altro 
+pensieri e che questo egli non manifestava se non che Beatricie movea 
+il dubbio contro a quelle anime per chiarifichare Dante del suo dubbio 
+chos@i diciendo Beatricie a quell'anime.
+
+	^A chostui fa mestiero e nol vi dicie~
+^n@e colla vocie n@e pensando ancora~
+^d'un altro vero andare alla radicie.~
+
+Per queste parole dicie Beatricie a queste XXIIII.° anime beatifichate 
+poste pe ll'altore in due grilande che gli bisogniava di sapere se lla 
+lucie la quale @e s@i chiara in noi durer@a in sempiterno eternalmente 
+di rieto al d@i novissimo e se i corpi nostri risuciteranno insieme 
+chon esso voi e potranno patire e sostenere tanto e tale lume di 
+chiarezza qual ora @e in noi.
+
+	|34-66.~  E restata che ffu Beatricie della sua domanda dicie che 
+quell'anime tutte mosse a un'ora con gran chanti d'allegrezza lodando e 
+magnificando il Padre e 'l Figliuolo e llo Spirito Santo poi restate 
+una di loro parl@o cos@i diciendo
+
+	^E io udi' nella luce pi@u dia~
+^del minor cierchio una vocie modesta~
+^forse qual fu dell'angelo a Maria.~
+
+In questa seconda parte l'altore fa che a llui sie fatta la soluzione 
+della sua seconda quistione e fingie che Salamone risponda e solva la 
+detta quistione il quale pone ch'era nella minore chorona cio@e di giro 
+e di cielo per questa similitudine detta nel testo ch'egli rispuose 
+cos@i benignio e s@i rispuose alla prima domanda che gli fecie 
+Beatricie e risponde di s@i che sempre aranno questo lume e chiarore si 
+chiamer@a ardore per la grazia della charit@a che per lo corpo ch'egli 
+ripiglieranno al d@i novissimo nonn ha fighura per@o la loro chiarezza 
+e splendore se non chome fa la fiamma che dentro al charbone acieso il 
+quale si vede con tutto ch'elli sia lasciato dalla fiamma e di cielo 
+Salamone cos@i diciendo
+
+	^Ma ss@i chome charbon che fiamma rende~
+^e per vivo chalor quella soverchia~
+^s@i cche la suo parvenza si difende.~
+
+	|67-108.~  Seghue i versi del testo chos@i diciendo il nostro Dante 
+poeta fiorentino
+
+	^Ed eccho intorno di chiarezza pari~
+^nasciere u[n] lustro sopra quello che v'era~
+^per ghuisa d'orizonte che rischiari.~
+
+In questa terza parte l'altore fingie chom'egli uscisse della spera del 
+Sole ed entrasse in quella di Marte di sopra ne' chapitoli paxati si 
+fingie due corone nella spera del Sole d'exciellenti dottori or fingie 
+che gli apparischa a quelle due corone farsi un giro intorno di nuovo a 
+quelle altre due dinanzi e datele in similitudine chome tu odi qui di 
+sopra e fingie che lui entrato in questa coresio [sic] o spera di Marte 
+Beatricie si faciesse pi@u lucida e risplendiente tanto pi@u che 
+l'altre stelle che dicie che no' lo ti saprebbe ricontare e per@o no' 
+lo si mette a scrivere e questo fu sempre a ogni salita di cielo che 
+Beatricie sempre diventi pi@u lucida.  E per questo puoi intendere che 
+quanto pi@u si monta di cielo in cielo tanto pi@u trapassi a dDio il 
+quale rilucie sopra tutto.
+
+	^Come distinta da minori e magi~
+^lumi biancheggia tra ' poli del mondo~
+^ghalasia s@i cche fa dubbiar ben sagi.~
+
+Qui ti dimostra l'altore per una comperazione in gienerale gli spiriti 
+che sono in questa spera di Marte e s@i dicie di ghalassia.  Ghalassia 
+si @e appellata quella istrada la quale noi veggiamo in cielo di stelle 
+le quali noi appelliamo la strada che vva a sa[n] Iacopo che ssono 
+tanto fitte e spesse insieme l'una e ll'altra che pare una strada di 
+per s@e dall'altre e molti istrolagi e filosafi e gieometri di queste 
+hanno detto e tenute diverse oppenioni ne' lor detti.  E per@o dicie 
+che fa dubiar que' saggi.  Tornando all'altore fa e fingie che gli 
+truovi in questa spera di Marte una crocie che per quella crocie stieno 
+in questa spera di Marte e volino quella moltitudine d'anime della 
+spera di Marte.
+
+	|109-139.~ 
+	^Di corno in corno e tra lla cima e 'l basso~
+^si movean lumi scintillando forte~
+^nel chongiugniersi insieme e nel trapasso.~
+
+In questa quarta parte l'altore discrive in gienerale che sono in 
+questa crocie e s@i tte lo dimostra per una comperazione cos@i diciendo
+
+	^Cos@i si veghon qui diritte e torte~
+^velocie e tarde rinovando vista~
+^le minuzie de' corpi lunghe e corte.~
+
+La comperazione che ffa qui l'altore si @e che ti dicie in contado 
+sotto un fraschato e il sole e dd@a in su quelle frasche picchole e 
+maggiori in gran copie e quale ti pare grande e qual piccola e quale 
+torta e qual diritta e quale a u[n] modo e quale a un altro secondo che 
+@e la percossa del sole e del vento che lle fa tremolare e simile 
+fingie che tante anime gli paresse vedere in gienerale.  Ancora adducie 
+un'altra comperazione di queste anime agli stormenti i quali hanno 
+assai e diverse corde e discordanze ne' suoni cos@i ne' chanti di 
+costoro cos@i diciendo
+
+	^E come gigha e arpa in tempra tesa~
+^di molte corde fa dolcie tintinno~
+^a tal da chui la nota non @e 'ntesa.~
+

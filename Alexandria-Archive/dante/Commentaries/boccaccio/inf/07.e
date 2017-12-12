@@ -1,0 +1,2389 @@
+&&attributes litterale
+
+	|Proemio.~  <Pap@e Sat@an, pap@e Sat@an, aleppe> etc.  Nel
+presente canto l'autore, s@i come @e usato ne' passati,
+continuandosi alle cose precedenti, dimostra primieramente come
+nel quarto cerchio dello 'nferno discendesse; e poi, vicino alla
+fine del canto, dimostra come discendesse nel quinto, discrivendo
+quali colpe e nell'un cerchio e nell'altro si puniscano.  E
+dividesi questo canto in due parti principali: nella prima mostra
+l'autore esser puniti gli avari e' prodighi; nella seconda mostra
+esser puniti gl'iracundi e gli accidiosi.  E comincia la seconda
+quivi: <Or discendiamo omai a maggior pieta>.
+
+	La prima parte si divide in tre: nella prima,
+continuandosi alle cose precedenti, mostra come trov@o Plutone e
+come da Virgilio fosse la sua rabbia posta in pace; nella seconda
+discrive qual pena avessero i peccatori nel quarto cerchio e chi
+e' fossero; nella terza dimostra che cosa sia questa che noi
+chiamiamo <fortuna>.  La seconda comincia quivi: <Cos@i
+scendemmo>; la terza quivi: <Maestro, diss'io lui>.
+
+	Nella {seconda parte del presente canto} l'autore fa tre
+cose: prima dimostra come discendesse nel quinto cerchio dello
+'nferno, dove dice trov@o la padule chiamata Stige; nella seconda
+dimostra in questo quinto cerchio esser tormentati due spezie di
+peccatori, iracundi e accidiosi; nella terza scrive come per lo
+cerchio medesimo procedesse avanti.  La seconda comincia quivi:
+<Ed io che di mirar>; la terza quivi: <Cos@i girammo>.
+
+	|1.~  Dice adunque che, avendo, come nella fine del
+precedente canto dimostra, trovato Plutone, <il gran nimico>, che
+esso Plutone, come gli vide, ^admirative~ cominci@o a gridare e ad
+invocare il prencipe de' dim@oni, dicendo: |Pap@e.~  Questo
+vocabolo @e ^adverbium admirandi~ e perci@o, quando d'alcuna cosa
+ci maravigliamo, usiamo questo vocabolo, dicendo: |^pap@e!.~  E da
+questo vocabolo si forma il nome del sommo pontefice, cio@e
+<papa>, l'autorit@a del quale @e tanta che ne' nostri intelletti
+genera ammirazione; e non senza cagione, veggendo in uno uomo
+mortale l'autorit@a divina e di tanto signore, quanto @e Idio, il
+vicariato.  E i Greci ancora chiamano li lor preti <^papas~>,
+quasi <ammirabili>: e ammirabili sono in quanto possono del pane
+e del vino consecrare il corpo e 'l sangue del nostro signor Ges@u
+Cristo; e, oltre a ci@o, hanno autorit@a di sciogliere e di legare
+i peccatori che da loro si confessano delle lor colpe, s@i come
+pi@u pienamente si dir@a nel ^Purgatorio~, alla porta del quale
+siede il vicario di san Piero.
+
+	|Sat@an~: Sat@an e Satan@as sono una medesima cosa, ed @e
+nome del prencipe de' dem@oni, e suona tanto in latino quanto
+<avversario> o <contrario> o <transgressore>, per ci@o che egli @e
+avversario della verit@a e nimico delle virt@u de' santi uomini; e
+similmente si pu@o vedere lui essere stato transgressore, in
+quanto non istette fermo nella verit@a nella quale fu creato, ma
+per superbia trapass@o il segno del dovere suo.  |Pap@e Sat@an~:
+Questa iterazione delle medesime parole ha a dimostrare
+l'ammirazione esser maggiore; e seguita: |aleppe.~  <^Al@ep~> @e la
+prima lettera dell'alfabeto de' Giudei, la quale egli usano a
+quello che noi usiamo la prima nostra lettera, cio@e <a>; ed @e
+<^alep~> appo gli Ebrei ^adverbium dolentis~; e questo
+significato dicono avere questa lettera, per ci@o che @e la prima
+voce la quale esprime il fanciullo come @e nato, a dimostrazione
+che egli sia venuto in questa vita, la quale @e piena di dolore e
+di miseria.
+
+	Maravigliasi adunque Plutone, s@i come di cosa ancora pi@u
+non veduta, cio@e che alcuno vivo uomo vada per lo 'nferno; e
+temendo questo non sia in suo danno, invoca quasi come suo
+aiutatore il suo maggiore, e, acci@o che egli il renda pi@u pronto
+al suo aiuto, si duole.  O voglian dire, seguendo le poetiche
+dimostrazioni, Plutone, ricordandosi che Teseo con Peritoo vivi
+discesero in inferno a rapire Proserpina, reina di quello, e poi,
+dopo loro, Ercule, e questo essere suto in danno e del luogo e
+degli uficiali di quello, veggendo l'autore vivo venire n$e temer
+de' dimoni ad un'ora si maraviglia e teme, e per@o ^admirative~ e
+dolendosi chiama il prencipe suo.
+
+	|2.  Cominci@o Pluto~, ^supple~: a dire, o a gridare, |con
+la voce chioccia~, cio@e non chiara n$e espedita, come il pi@u fanno
+coloro li quali da s@ubita maraviglia sono soprapresi.  E, oltre a
+ci@o, cominci@o Pluto a gridare per ispaventar l'autore, s@i come
+ne' cerchi superiori si son sforzati Min@os e Cerbero nella
+entrata de' detti cerchi, acci@o che per quel gridare il ritraesse
+di procedere avanti e dal dare effetto alla sua buona intenzione. 
+Ma, avanti che pi@u inanzi si proceda, @e da sapere che, secondo
+che i poeti dicono, Plutone, il quale i Latini chiamano
+^Dispiter~, fu figliuolo di Saturno e di Opis e nacque ad un
+medesimo parto con Glauca; e, secondo che Lattanzio dice, egli
+ebbe nome Agesilao, e, secondo dice Eusebio ^in libro Temporum~,
+il nome suo fu Aidoneo: fu costui dagli antichi chiamato re di
+ninferno e la sua real citt@a dissero essere chiamata Dite e la
+sua moglie dissero essere Proserpina.  Le@on Pilato diceva essere
+stato un altro Pluto, figliuolo di Iasonio e di Cerere.  De'
+quali quantunque qui siano assai succintamente le fizioni
+descritte, se elle non si dilucidano, non aparir@a perch$e l'autore
+qui questo Pluto introduca: ma, per ci@o che pi@u convenientemente
+pare che si debbano l@a dove l'altre allegorie si porranno, quivi
+le riserberemo e diffusamente con la grazia di Dio l'apriremo.
+
+	|3.  E quel savio gentil che tutto seppe~, cio@e Virgilio;
+il qual veramente, quanto all'arti e scienze mondane apartiene,
+tutto seppe: per ci@o che, oltre all'arti liberali, egli seppe
+filosofia morale e naturale e seppe medicina e, oltre a ci@o, pi@u
+compiutamente che altro uomo a' suoi tempi seppe la scienza
+sacerdotale, la quale allora era in grandissimo prezo.
+
+	|4-6.  Disse, per confortarmi: non ti noccia La sua
+paura~, la quale egli o mostra d'avere in s$e o vuol mettere in te
+di s$e; e dove della paura di Plutone dica, vuol mostrare l'autore
+per ci@o esser da Virgilio confortato, per@o che generalmente ogni
+fiero animale si suol muovere a nuocere pi@u per paura di s$e che
+per odio che abbia nella cosa contro alla qual si muove; e deesi
+qui intender la paura di Plutone esser quella della quale poco
+avanti @e detto; |ch$e poter ch'egli abbia Non ti terr@a lo scender
+questa roccia~, cio@e questo balzo.
+
+	|7-12.  Poi si rivolse a quella enfiata~, superba,
+|labbia~, cio@e aspetto, |E disse: taci, maladetto lupo.~  Per ci@o
+il chiama |lupo~, acci@o che s'intenda per lui il vizio
+dell'avarizia, al quale @e preposto: il qual vizio meritamente si
+cognomina |lupo~, s@i come di sopra nel primo canto fu assai
+pienamente dimostrato; |Consuma dentro te con la tua rabbia~, la
+quale continuamente, con inestinguibile ardore di pi@u avere, ti
+sollicita e infesta; |Non @e sanza cagion l'andare~, di costui,
+|al cupo~, cio@e al profondo inferno, vedendo; |Vuolsi~, da Dio,
+ch'egli vada, |nell'alto~, cio@e in cielo, |l@a dove Michele~,
+arcangelo, |F$e la vendetta del superbo strupo~, cio@e del
+Lucifero, il quale, come nell'^Apocalissi~ si legge, fu da questo
+angelo cacciato di paradiso, insieme co' suoi seguaci.  E
+chiamalo |strupo~, quasi violatore col suo superbo pensiero della
+divina potenzia, alla quale mai pi@u non era stato chi violenza
+avesse voluto fare; per che pare lui con la sua superbia quello
+nella deit@a aver tentato che nelle vergini tentano gli
+strupatori.
+
+	|13-15.  Quali dal vento le gonfiate vele~: Qui per una
+comparazione dimostra l'autore come la rabbia di Plutone vinta
+cadesse, dicendo che quali le vele gonfiate dal vento soperchio
+|Caqgiono avolte~, e aviluppate, |poi che l'alber~, della nave,
+|fiacca~, per la forza dell'impeto del vento, |Tal cadde a terra
+la fiera crudele~, cio@e Plutone.
+
+	|16-18.  Cos@i scendemmo~: Qui comincia la seconda parte
+della prima di questo canto, nella quale l'autore dimostra qual
+pena abbiano i peccatori, li quali in questo quarto cerchio si
+puniscono, e chi essi sieno; e dice: |Cos@i~, vinta e abattuta la
+rabbia di Plutone, |scendemmo nella quarta lacca~, cio@e parte
+d'inferno, cos@i dinominandola per consonare alla precedente e
+alla seguente rima; |Pigliando pi@u della dolente ripa~, cio@e
+mettendoci pi@u infra essa, che ancora messi ci fossimo; e, acci@o
+che di qual ripa dica s'intenda, segue: |Che 'l mal~, cio@e le
+colpe e i peccati, |dell'universo~, di tutto il mondo, |tutto
+insacca~, cio@e in s$e insaccato riceve.
+
+	|19-21.~  Ed esclamando segue: |Ai, giustizia di Dio! 
+tante chi stipa Nuove travaglie~; vuolsi questa lettera intendere
+^interrogative~ e con questo ordine: <Ai, giustizia di Dio!, chi
+stipa>, cio@e ripone, <tante nuove travaglie> |e pene~, cio@e
+diversi tormenti e noie, |quante io vidi~ in questo luogo, |E per
+che~, cio@e: per le quali, |nostra colpa~, cio@e il nostro male
+adoperare peccando, |se ne scipa?~, cio@e se ne confonde e guasta
+e attrita, o in noi vivi temendo di quella pena, o ne' morti
+dannati che quella sostengono.  E vuole in queste parole mostrare
+l'autore di maravigliarsi per la moltitudine.
+
+	|22-24.~  Poi per una comparazione ne dimostra che
+maniera tengano in quel luogo i peccatori nel tormento loro dato
+dalla giustizia; e dice: |Come fa l'onda~, del mare, |l@a sovra
+Cariddi~, cio@e nel Fare di Messina.  Intorno alla qual cosa @e da
+sapere che tra Messina in Cicilia e una punta di Calavria, ch'@e
+di rincontro ad essa, chiamata Capo di Volpe, non guari lontana
+ad una terra chiamata Catona e a Reggio, @e uno stretto di mare
+pericolosissimo, il quale non ha di largo oltre a tre miglia,
+chiamato il Fare di Messina.  E dicesi <fare> da <^pharos~>, che
+tanto suona in latino quanto <divisione>; e per ci@o @e detto
+<divisione>, perch$e molti antichi credono che gi@a l'isola di
+Cicilia fosse congiunta con Italia e poi per tremuoti si
+separasse il monte chiamato Peloro di Cicilia dal monte
+Appennino, il quale @e in Italia, e cos@i quella, che era
+terraferma, si facesse isola; e sono de' moderni alcuni li quali
+affermano ci@o dovere essere stato vero: e la ragione, che a ci@o
+inducono, @e che dicono vedersi manifestamente, in quella parte di
+questi due monti che si spart@i, grandissime pietre nelle rotture
+loro essere corrispondenti, cio@e quelle d'Appennino a quelle che
+sono in Peloro, ed ^e converso.~  E, come di sopra @e detto,
+questo mare cos@i stretto @e impetuosissimo e pericolosissimo
+molto; e la ragione @e per ci@o che, quando avviene che' venti
+marini traggano, come @e lebeccio e ponente, e ancora maestro, che
+non @e marino, essi sospingono il mare impetuosamente verso questo
+Fare, e per questo Fare verso il mare di Grecia: e, se allora
+avviene che, il mare di verso Grecia [ritraendosi in verso il
+mare Mediterraneo] per lo fiottare del mare Occeano, il quale due
+volte si fa ognind@i naturale, che sospignendo la forza de' venti
+marini il mare verso la Grecia, ed il mare per lo fiotto si
+ritragga in verso il mare Mediterraneo, scontrandosi questi due
+movimenti contrari, con tanta forza si percuotono e rompono, che
+quasi infino al cielo pare che le rotte onde ne mandino; e qual
+legno in quel punto vi si abattesse ad essere, niuna speranza si
+pu@o aver della sua salute.  E cos@i ancora, sospignendo i venti
+orientali, cio@e il greco, levante e scilocco, il mare di Grecia
+verso il Fare, e per quello verso il mare Tireno, e il fiotto
+mettendosi, avvien quel medesimo che dinanzi @e detto.  E questo @e
+quello che l'autore vuol dire: |come fa l'onda {...} Che si
+frange con quella in cui s'intoppa.~  E sono in questo mare due
+cose monstruose, delle quali l'una ci@o che davanti le si para
+trangugia, e questa si chiama Silla, ed @e dalla parte d'Italia;
+l'altra si chiama Cariddi, e questa gitta fuori ci@o che Silla ha
+trangugiato; ma, secondo il vero, questa Cariddi, la quale @e di
+verso Cicilia, @e il luogo dove di sopra dissi l'onde scontrarsi
+insieme, le quali levandosi in alto per lo percuotersi, par che
+sieno del profondo gittate fuori, da coloro che non veggiono la
+cagione della elevazione.
+
+	Dice dunque l'autore che, in quella guisa, che di sopra @e
+mostrato, le due onde di due diversi mari si scontrano, cos@i
+convenirsi quivi due maniere di diverse genti o peccatori
+convenirsi scontrare.  E questo intende in quanto dice: |Cos@i
+convien che qui~, cio@e in questo quarto cerchio, |la gente
+riddi~, cio@e balli, e, volgendo, come i ballatori, in cerchio,
+vengano impetuosamente a percuotersi, come fanno l'onde predette.
+
+	|25-27.  L@i~, nel quarto cerchio, |vid'io gente, pi@u
+ch'altrove, troppa~; e di questo non si dee alcun maravigliare,
+per ci@o che pochi son quegli che in questo vizio, che quivi si
+punisce, non pecchino.  E poi dice a qual tormento questa gente
+cotanta @e dannata, dicendo: |E d'una parte e d'altra, con
+grand'urli~, cio@e a destra e sinistra, miseramente per la fatica
+e per lo dolore urlando, s@i come appresso pi@u chiaro si
+dimosterr@a; |Voltando pesi~, gravissimi, |per forza di poppa~,
+cio@e del petto, ponendo qui la parte per lo tutto.
+
+	|28-31.  Percotevansi incontro~, cio@e l'un contra l'altro
+con questi pesi, li quali per forza voltavano, |e poscia~, che
+percossi s'erano, |pur l@i~, cio@e in quello medesimo luogo, |Si
+rivolgea ciascun, voltando a retro~, cio@e per quel medesimo
+sentiero che venuti erano; in questo voltare, |Gridando~, quegli
+dell'una parte incontro all'altra: |perch$e tieni?~; |e~, incontro
+a questa, gridava l'altra: |perch$e burli?~, cio@e getti via. 
+|Cos@i tornavan~, come percossi s'erano e avean gridato, |per lo
+cerchio tetro.~  Apare per queste parole che 'l viaggio di
+costoro era circulare, e che, venuta l'una parte dal mezzo del
+cerchio nella parte opposita, scontrava l'altra parte, la quale,
+partitasi dal medesimo termine che essi, era gi@a giunta, e quivi,
+percossisi e dette l'un contra l'altro le parole di sopra dette,
+ciascuna parte si rivolgeva indietro e veniva al punto del
+cerchio donde prima partita s'era; e quivi ancora con l'altra,
+che in una medesima vi pervenia, si percotevano e quelle medesime
+parole l'un contra l'altro diceano; e cos@i senza riposo
+continuavano questa loro angoscia, volgendosi |per lo cerchio
+tetro~, cio$e logoro per lo continuo scalpitio.
+
+	|32-33.  Da ogni mano~, da destra e da sinistra, nella
+guisa detta andavano |all'oposito punto~, del cerchio, a quello
+onde partiti s'erano, |Gridandosi anco~, come usati erano, |in
+loro ontoso~, vituperevole, |metro~, cio@e: <perch$e tieni?  e
+perch$e burli?>.  Il quale l'autore chiama |metro~, non perch$e
+metro sia, ma largamente parlando, come il pi@u volgarmente si fa,
+ogni orazione o brieve o lunga misurata o non misurata, @e
+chiamata metro: e dicesi metro da <^metros~>, ^grece~, che in
+latino suona <misura>; e quinci, propiamente parlando, i versi
+poetici sono chiamati <metri>, per ci@o che misurati sono da
+alcuna misura, secondo la qualit@a del verso.
+
+	|34-35.  Poi si volgea ciascun~, di questi che voltavano
+i pesi, |guando era giunto~, al punto del mezzo cerchio, come di
+sopra @e detto, |Per lo suo mezzo cerchio~, cio@e per quel mezzo
+cerchio il quale a lui era dalla divina giustizia stabilito,
+|all'altra giostra~, cio@e percossa: e chiamala |giostra~, per ci@o
+che a similitudine de' giostratori s'andavano a ferire e a
+percuotere insieme.
+
+	|36-39.  Ed io, ch'avea lo cuor quasi compunto~, di
+compassione, la quale portava a tanta fatica e a tanto tormento,
+quanto quello era il quale nel percuotersi sofferivano; e, oltre
+a ci@o, aveva la compunzione per lo vermine della conscienza, il
+quale il rodeva, cognoscendosi di questa colpa esser peccatore:
+il che esso assai chiaramente dimostra nel primo canto, dove dice
+il suo viaggio essere stato impedito dalla lupa, cio@e
+dall'avarizia.  E in questo @e da comprendere invano esser da noi
+conosciuti i vizi e' peccati, se, sentendoci inviluppati in
+quegli o poco o molto, noi non abbiam dolore e compunzione; n$e
+osta il dire: <Come avea l'autore compunzione dell'essere avaro,
+che ancora, come nelle seguenti parole apare, non sapea chi essi
+si fossero?>, per ci@o che qui usa l'autore una figura chiamata
+<preoccupazione>.  |Dissi: maestro mio~: Qui domanda l'autore
+Virgilio che gente questa sia e per qual colpa dannati, dicendo:
+|or mi dimostra Che gente @e questa~, la quale @e qui cos@i
+dolorosamente afflitta; e, dopo questo, gli muove un altro
+dubbio, dicendo: |e~, oltre a quel che domandato t'ho, mi d@i |se
+tutti fur cherci Questi chercuti alla sinistra nostra~:
+|Chercuti~ gli chiama, per ci@o che avevano la cherica in capo, e
+da questo ancora comprendeva loro per quello dovere esser
+cherici.
+
+	|40-42.  Ed egli a me~: Qui Virgilio primieramente
+generalmente di quegli che erano cos@i a man destra come a man
+sinistra ditermina, e poi, distinguendo, risponde alla domanda
+fattagli dall'autore; e dicegli, oltre a ci@o, per qual colpa
+quivi dannati sieno, primieramente dicendo: |tutti quanti~, cio@e
+quanti tu ne vedi, a destra e a sinistra, |fur guerci~, cio@e con
+non diritto vedere, come color ci paiono, li quali non hanno le
+luci degli occhi dirittamente, come gli altri uomini, poste negli
+occhi.  Il qual difetto talora avviene per natura e talora per
+accidente; per accidente avviene per difetto le pi@u delle volte
+delle balie, le quali questi cotali, essendo piccioli fanciulli,
+hanno avuti a nudrire, ponendo loro la notte un lume di traverso,
+o di sopra a quella parte ove tengon la testa; o esse medesime,
+come spesse volte fanno, stando loro sopra capo, gli inducono a
+guatarsi indietro, e i fanciulli, vaghi della luce, torcono gli
+occhi, e s@i in quella parte dove il lume veggono e', non
+potendosi muovere, si sforzano e torcono le luci al lume; ed
+essendo tenerissimi, agevolmente rimuovono la luce, o le luci,
+dal lor natural movimento in questo accidentale e divengon
+guerci.  Questa spezie d'uomini, quantunque non sia del tutto
+reputata giusta, non ha pertanto tanta di malizia quanta hanno
+coloro li quali guerci nascono, li quali, per quegli che
+fisonomia sanno, sono reputati uomini astuti, maliziosi e
+viziati, e il pi@u si credono non altrimenti avere il giudicio
+della mente lor fatto che essi abbiano gli occhi.  E per@o dice:
+|Tutti quanti fur guerci S@i della mente~, cio@e s@i perverso e
+malvagio giudicio ebbero nella mente loro intorno alle cose
+temporali, |en la vita primaia~, cio@e in questa; |Che con misura
+nullo spendio ferci~, in questa vita: e ci@o fu che o essi
+strinsero troppo le mani l@a dove esse eran da allargare, o essi
+l'allargaron troppo l@a dove eran da strignere, liberalmente
+spendendo dove e come e quanto e in cui [non] si conviene; e cos@i
+n$e nell'una parte n$e nell'altra servarono alcuna misura.
+
+	|43-45.  Assai la voce lor chiaro l'abbaia~, cio@e il
+manifesta, quando dicono: <perch$e tieni?  e perch$e burli?>,
+usando questo vocabolo |abbaia~ nell'anime de' miseri in
+detestazion di loro, il quale @e propio de' cani; |Quando vengono
+a' due punti del cerchio~, mostrati di sopra, dove si dicono:
+<perch$e tieni?  e perch$e burli?>, |Ove colpa contraria gli
+dispaia~, cio@e gli divide, faccendogli tenere contrario cammino,
+s@i come nelle colpe furon contrari.  Le quali colpe vuole
+l'autore che sien queste: avarizia e prodigalit@a; delle quali
+l'una appresso egli apre e l'altra per l'aver detto |contraria~
+vuol che s'intenda.
+
+	|46-47.~  E dice: |Questi son cherci, che non han
+coperchio Piloso al capo~, per ci@o che la cherica, la quale @e
+rasa, @e nella superior parte del capo.  E vogliono alcuni i
+cherici portare la cherica in dimostrazione e reverenzia di san
+Piero, al quale dicono questi cotali quella essergli stata fatta
+da alcuni scellerati uomini in segno di pazia: per ci@o che, non
+intendendo e non volendo intendere la sua santa dottrina, e
+vedendolo ferventemente predicare dinanzi a' prencipi e a'
+popoli, li quali quella in odio aveano, estimavano che egli
+questo facesse come uomo che fuor del senno fosse.  Altri
+vogliono che la cherica si porti in segno di degnit@a, in
+dimostrazione che coloro, li quali la portano, sieno pi@u degni
+che gli altri che non la portano; e chiamanla <corona>, per ci@o
+che, rasa tutta l'altra parte del capo, un sol cerchio di capelli
+vi dee rimanere, il quale in forma di corona tutta la testa
+circunda, come fa la corona.  E chiamansi questi cotali, che
+questo cerchio portano, <clerici> da <^cleros~>, ^grece~, che in
+latino suona quanto <uomini la sorte de' quali sia Idio>; |papi e
+cardinali~: @E il papa in terra vicario di Ges@u Cristo, dal quale,
+mediante san Piero, hanno l'autorit@a grandissima, la quale santa
+Chiesa ne predica; della quale autorit@a, e in ^Purgatorio~ e in
+^Paradiso~, s@i come in luoghi dove pi@u convenientemente il
+richiede la materia che qui, si dir@a, e perci@o qui pi@u non mi
+stendo.  Onde questo nome <papa> venga, @e poco avanti stato
+mostrato.  |Cardinali~ @e sublime nome di dignit@a; e, come che,
+oltre alla Chiesa di Roma, abbiano la Chiesa di Ravenna, quella
+di Napoli e alcune altre cherici li quali si chiamano
+<cardinali>, non sono per@o in preeminenzia n$e in officio n$e in
+abito da comparare a quegli della Chiesa di Roma, per ci@o che
+questi per eccellenzia portano il cappello rosso e hanno a
+rapresentare nella Chiesa di Dio il sacro collegio de'
+settantadue discepoli, li quali per coaiutori degli apostoli
+furono primieramente instituiti: e il cardinalato di Roma @e il
+pi@u alto e il pi@u sublime grado, appresso il papa, che sia nella
+Chiesa.  E per ci@o che a loro s'apartiene, insieme col papa, di
+diliberare le cose spettanti alla salute universale de' cristiani
+e ogni altra cosa contingente alla Chiesa di Dio, e pare che
+sopra la loro diliberazione si volga il s@i e 'l no delle cose
+predette, sono chiamati cardinali da questo nome
+<^cardo-cardinis~>, il quale ne significa quella parte del cielo
+sopra la quale tutto il cielo si volge, per altro nome chiamata
+<polo>, o <poli>, per ci@o che sono due, e cos@i da <^cardo~> vien
+cardinale; o, secondo che alcuni altri dicono, da quella parte
+della porta, sopra la quale si volge tutto l'uscio.
+
+	|48.  In cui~, cio@e ne' quali, |usa avarizia il suo
+soperchio.~  @E avarizia, secondo Aristotile nel IIII della sua
+^Etica~, la 'nferiore estremit@a di liberalit@a, per la quale oltre
+ad ogni dovere iniuriosamente si disidera l'altrui, o si tiene
+quello che l'uom possiede: della quale pi@u distesamente diremo
+dove discriveremo l'allegorico senso della parte presente di
+questo canto.  Questo vizio dice l'autore usare |il suo
+soperchio~, cio@e il disiderare pi@u che non bisogna e tenere dove
+non si dee tenere, ne' cherici, li quali tutti intende per queste
+due maggiori qualit@a nominate: la qual cosa se vera @e o no, @e
+tutto il d@i negli occhi di ciascuno, e perci@o non bisogna che io
+qui ne faccia molte parole.
+
+	E, avendo qui l'autore dichiarato qual sia in parte quel
+vizio che in questo quarto cerchio si punisce, cio@e avarizia,
+vuol che s'intenda, per le parole dette di sopra: <ove colpa
+contraria gli dispaia>, con questo vizio insieme punircisi
+l'opposito dell'avarizia, cio@e la prodigalit@a, la quale @e il
+superiore estremo di liberalit@a: e come l'avarizia consiste in
+tenere stretto quello che spendere bene e dar si dovrebbe, cos@i
+la prodigalit@a @e in coloro, li quali danno dove e quando e come
+non si conviene; bench$e poco appresso l'autore alquanto pi@u
+apertamente dimostri s$e intender qui punirsi questi due vizi.
+
+	|49-51.  Ed io: maestro, tra questi cotali~, che tu mi d@i
+che furon cherici, e ancora tra gli altri, |Dovre' io ben
+riconoscere alcuni~, per ci@o che furono uomini di grande autorit@a
+e molto conosciuti, come noi sappiamo che sono i papi e'
+cardinali e' signori e gli altri che in questi due peccati
+peccano; o vogliam dire: per ci@o che l'autor pecc@o in avarizia, e
+l'un vizioso cognosce l'altro; |Che furo~, vivendo, |immondi~,
+cio@e brutti e macolati, |di cotesti mali~, cio@e d'avarizia e di
+prodigalit@a.
+
+	|52-54.  Ed egli a me: vano~, cio@e superfluo, |pensiero
+aduni~, cio@e con gli altri tuoi racogli.  E incontanente gli dice
+la cagione, seguendo: |La sconoscente vita~, cio@e sanza
+discrezione menata, |che i f@e sozi~, di questi due vizi, e per
+consequente indegni di fama, |Ad ogni conoscenza~, ragionevole,
+|or gli fa bruni~, cio@e oscuri e non degni d'alcun nome.
+
+	|55-57.  In eterno verranno alli due cozi~, cio@e a' due
+punti del cerchio, li quali di sopra son dimostrati, dove insieme
+si percuotono.  |Questi~, cio@e gli avari, li quali apare essere
+dall'un dei lati, |risurgeranno del sepulcro~, il d@i del giudicio
+universale, |Col pugno chiuso~, testificando per questo atto la
+colpa loro, cio@e la tenacit@a, la qual per lo pugno chiuso
+s'intende; |e questi~, cio@e i prodighi, |co' crin mozi~, per li
+quali crin mozi similemente testificheranno la loro prodigalit@a. 
+E la ragione per che questo per gli crin mozi si testifichi @e
+questa: intendono i dottori moralmente per li capelli le
+sustanzie mondane, e meritamente, per ci@o che i capelli in s$e non
+hanno alcuno omore, n$e altra cosa la quale alla nostra corporal
+salute sia utile; sono solamente alcuno ornamento al corpo, e per
+questo ne son dati dalla natura; e cos@i dirittamente sono le
+sustanzie temporali, le quali per se medesime alcuna cosa prestar
+non possono alla salute dell'anime nostre, ma prestano alcuno
+ornamento a' corpi; e perci@o dirittamente sentono coloro li quali
+intendono per li capelli le predette sustanzie.  Risurgeranno
+adunque i prodighi co' crin mozi, a dimostrare come essi
+stoltamente e con dispiacere a Dio diminuissono le loro temporali
+riccheze.
+
+	|58-60.  Mal dare~, la qual cosa fanno i prodighi, |e mal
+tener~, il che fanno gli avari, |lo mondo pulcro~, cio@e il cielo,
+nel quale @e ogni belleza, |Ha tolto loro~, s@i come apare, poich$e
+in inferno dannati sono, |e~, hannogli gli due detti vizi, |posti
+a questa zuffa~, cio@e di percuotersi insieme co' pesi li quali
+volgono, e col rimproverarsi l'una parte all'altra le colpe loro. 
+|Quale ella sia~, la zuffa di costoro, |parole non ci pulcro~,
+cio@e non ci ordino, o non ci abellisco, dicendo; quasi voglia
+dire che assai di sopra sia stato dimostrato.
+
+	|61-63.  Or puoi, figliuol, vedere~: In questa parte
+continuando Virgilio le parole sue, gli mostra quanto sia vana la
+fatica di coloro, li quali tutti si danno a congregare o ad avere
+di questi beni temporali, e apregli la cagione.  E dice adunque:
+|Or puoi, figliuol, veder~, in costoro, |la corta buffa~, cio@e la
+brieve vanit@a, |De' ben~, cio@e delle riccheze e degli stati, |che
+son commessi alla Fortuna~, secondo il volgar parlare delle genti
+e ancora secondo l'oppinion di molti; |Per che~, cio@e per li
+quali beni, |l'umana gente si rabuffa.~  Il significato di questo
+vocabolo |rabuffa~ par ch'importi sempre alcuna cosa intervenuta
+per riotta o per quistione, s@i come @e l'essersi l'uno uomo
+acapigliato con l'altro, per la qual capiglia i capelli sono
+rabuffati, cio@e disordinati, e ancora i vestimenti talvolta; e
+per@o ne vuole l'autore in queste parole dimostrare le quistioni,
+i piati, le zuffe, le guerre e molte altre male venture, le quali
+tutto il d@i gli uomini hanno insieme per li crediti, per
+l'eredit@a, per le occupazioni e per li mal regolati disideri;
+venendo quinci a dimostrarne quanto sien le fatiche vane che
+intorno all'acquisto delle riccheze si mettono.
+
+	|64-66.~  E dice: |Ch$e tutto l'oro ch'@e sotto la luna~,
+cio@e nel mondo, |O che fu gi@a, di queste anime stanche~, in
+queste fatiche del circuire, che di sopra @e dimostrato, |Non
+poterebbe farne posar una~, non che trarla di questa perdizione. 
+Apare adunque in questo quanto sia stata utile e laudabile la
+fatica di questi cotali, che in ragunare tesoro hanno posta tutta
+la loro sollicitudine, quando, per tutto quello che per la loro
+sollicitudine s'@e acquistato, non se ne puote avere non che
+salute, ma solamente un poco di riposo in tanto affanno, in
+quanto posti sono.
+
+	|67-69.~  Le quali parole udite da Virgilio, muovono
+l'autore a fargli una domanda dicendo: |Maestro, diss'io lui, or
+mi d@i anche.~  Qui comincia la terza parte della prima principale
+di questo canto, nella quale l'autore scrive come Virgilio gli
+dimostrasse che cosa sia fortuna; e per@o dice: |Maestro, or mi d@i
+anche~; quasi dica: <Tu m'hai detto che tutto l'oro del mondo
+non potrebbe fare riposare una di queste anime, e per questo
+m'hai mostrato quanto sia vana la fatica di coloro li quali,
+posta la speranza loro in questi beni commessi alla Fortuna,
+intorno all'acquistarne e all'adunarne si faticano; ma dimmi
+ancora: |Questa Fortuna, di che tu mi tocche~, dicendo de' beni
+che le son commessi, |Che @e?~, cio@e: che cosa @e?, |che' ben del
+mondo ha s@i tra branche~, cio@e tra le mani e in sua podest@a>.
+
+	|70-72.  E quegli a me~, rispose, dicendo: |o creature
+sciocche~, |Quanta ignoranza @e quella che v'offende!~, credendo
+come voi non dovete credere, cio@e che i beni temporali sieno in
+podest@a della Fortuna come suoi, con ci@o sia cosa che essa sia
+ministra in distribuirgli, e non donna in donargli, s@i come apare
+nelle parole seguenti.  |Or vo' che tu mia sentenzia ne
+'mbocche~, cio@e che tu ne senta quello che ne sento io; e dice
+|ne 'mbocche~, cio@e riceva, non con la bocca corporale, la quale
+quello che riceve manda allo stomaco, ma con la bocca dello
+'ntelletto, il quale, rugumando ed essaminando seco quello che
+per li sensi esteriori e poi per gli interiori concepe, quel sugo
+fruttuoso ne trae spesse volte che per umano ingegno si puote.
+
+	|73-76.~  E quinci seguita Virgilio a dichiarare quello
+che egli senta della Fortuna, dicendo: |Colui, lo cui saver tutto
+trascende~, cio@e Idio, il quale @e somma sapienza, e appo il quale
+ogni altra sapienza @e stoltizia, |Fece li cieli~, nella creazion
+del mondo, |e di$e lor chi conduce.~  E in questo sente l'autore
+con Aristotile, il quale tiene che ogni cielo abbia una
+intelligenzia, la quale il muove con ordine certo e perpetuo: e
+che l'autore questo senta, non solamente qui, ma in una delle sue
+canzone distese dimostr@o {^Conv.~ II}, dicendo:
+
+	Voi, che 'ntendendo il terzo ciel movete etc.
+
+E queste cotali intelligenzie muovono i cieli loro commessi da
+Dio, |S@i ch'ogni parte~, della lor potenzia, |ad ogni parte~,
+mondana e atta a ricevere, |splende~, cio@e splendendo infonde,
+|Distribuendo igualmente la luce.~  Dice |igualmente~ non in
+quantit@a, ma secondo la indigenzia della cosa che quella luce o
+influenzia riceve: |igualmente~, cio@e con equale affezione e
+operazione, distribuiscono nelle creature la potenzia loro.
+
+	|77-80.~  E poi segue che Domenedio ha queste
+intelligenzie preposte a conducere i cieli e a distribuire i loro
+effetti ne' corpi inferiori, cos@i: |Similemente agli splendor
+mondani~, cio@e alle riccheze e agli stati e alle preeminenzie del
+mondo, |Ordin@o general ministra e duce, Che permutasse a tempo~,
+cio@e di tempo in tempo, |li ben vani~, cio@e le riccheze e gli
+onori temporali, li quali chiama |beni vani~, per ci@o che in essi
+alcun salutifero frutto non si truova n$e stabilit@a; e volle che
+questa cotal duce, cio@e ministra, tramutasse questi |ben vani Di
+gente in gente~, cio@e d'una nazione in un'altra, s@i come noi
+leggiamo essere infinite volte avvenuto ne' tempi passati nelle
+gran cose, non che nelle minori.  Noi leggiamo il reame e lo
+'mperio degli Assiri esser trapassato ne' Medi, e de' Medi ne'
+Persi, e de' Persi ne' Greci, e de' Greci ne' Romani; e,
+lasciando stare gli antichi, de' quali di molti altri regni e
+signorie si potrebbe dire il simigliante, noi abbiamo veduto ne'
+nostri d@i la gloria e l'onore dell'armi e della magnificenzia de'
+Franceschi esser trapassata negl'Inghilesi; e quivi non @e da
+credere che ella debba star ferma, ma, come in coloro @e stata
+transportata, cos@i ancora e in brieve tempo si transmuter@a in
+altrui.
+
+	E segue: |e d'uno in altro sangue~, la sentenzia delle
+quali parole, quantunque una medesima possa essere con la
+superiore, nondimeno, volendola a pi@u brieve permutazione e di
+minor fatto deducere, possiam dire: <d'una famiglia in un'altra>,
+in quanto d'un medesimo sangue si tengono quegli che d'una
+medesima famiglia sono, s@i come, acci@o che le cose antiche
+postpognamo, abbiam potuto vedere e veggiamo nella citt@a nostra,
+piena di queste transmutazioni.  Furon de' nostri d@i i Cerchi, i
+Donati, i Tosinghi e altri in tanto stato nella nostra citt@a, che
+essi come volevano guidavano le piccole cose e le grandi secondo
+il piacer loro, ove oggi appena @e ricordo di loro; ed @e questa
+grandigia trapassata in famiglie, delle quali allora non era
+alcun ricordo: e cos@i da quegli, che ora son presidenti, si dee
+credere che trapasser@a in altri.
+
+	|81.~  E questo senza alcun fallo adiviene |Oltre la
+defension de' senni umani~: Alla dimostrazione della qual verit@a
+si potrebbono inducere infinite istorie e mille dimostrazioni;
+ma, per ci@o che assai pu@o a ciascuno esser manifesto i senni
+degli uomini non valere a potere gli stati temporali fermare, si
+pu@o fare senza pi@u stendersene in parole.
+
+	|82-84.~  E per queste permutazioni avviene |Per che una
+gente impera~, signoreggiando, |e altra langue~, servendo; e ci@o
+avviene, |Seguendo~, i mondani beni, |il giudicio di costei~,
+cio@e di questa ministra; [|Che~], il qual giudicio, |sta
+occulto~, a' sensi umani, |come in erba l'angue.~  <^Anguis~> @e
+una spezie di serpenti, la quale ha la pelle verde, e volentieri,
+e massimamente la state, abita ne' prati fra l'erbe; e, per ci@o
+che egli @e con l'erbe d'un medesimo colore, rade volte fra quelle
+@e prima veduto che toccato e sentito.  E cos@i, dice l'autore, il
+giudicio o il consiglio di questa ministra @e s@i occulto a' sensi
+umani, ch'egli non pu@o prima esser conosciuto che sentito.
+
+	|85.~  Ed oltre a questo, roborando ancora l'autore la
+predetta ragione, seguita: |Vostro saver non ha contasto a lei~,
+quasi voglia in queste parole pretendere che, ancora che noi o
+per industria o ancora per chiara dimostrazione conoscessimo o
+vedessimo a quello a che il giudicio di questa ministra
+s'inchina, non pare che per nostro sapere o ingegno possiamo a
+quello contastare o opporci in guisa che valevole sia.  E questo
+essere vero s'@e gi@a per molte manifeste cose veduto: Creso, re di
+Lidia, vide in sogno essergli tolto Atis, suo figliuolo, da ferro
+etc.; mostr@o Idio ad Astiage, re de' Medi, in due sogni che il
+figliuolo, il quale ancora non era generato di Madianne, sua
+figliuola, il dovea privare dello 'mperio d'Asia: n$e gli giov@o il
+maritarla ad uomo non degno di moglie nata di real sangue, n$e il
+far poi gittare il figliuolo natone alle fiere, che quello non
+avvenisse che gi@a nel consiglio di questa ministra [era] fermato;
+non poterono l'avere cacciato del regno d'Alba in villa Numitore,
+l'avere ucciso Lauso, suo figliuolo, l'aver fatta vergine vestale
+Ilia, sua figliuola, adoperare che esso [Amulio] non fosse del
+regno gittatovi, e restituitovi Numitore.  Infiniti sarebbono gli
+essempli che ad aprovar questo si potrebbon mostrare, lasciandoci
+tirare all'attitudine dataci da' cieli: ma, se noi vorremo essere
+prudenti e seguire il consiglio della ragione, con la forza del
+libero arbitrio che noi abbiamo, noi contrasteremo a lei, s@i come
+dice Iovenale:
+
+     ^Nullum numen etc.~,
+
+per ci@o che il seguir noi il disiderio concupiscibile ne fa
+rimaner vinti da' movimenti di questa ministra etc.
+
+	|86-87.~  E perci@o segue: |Ella~, cio@e questa ministra e
+duce, |provede, iudica e persegue Suo regno.~  E dice |provede~,
+in quanto provedute paiono quelle cose le quali da ordinato e
+discreto fattore produtte sono, s@i come son queste terrene da
+ordinato movimento de' cieli produtte, secondo la potenzia de'
+quali esse si permutano, non altramente che se da giudicio dato
+si movessono; e cos@i par questa ministra da singulare ed occulta
+diliberazion perseguire quello che giudicato pare, cio@e le cose
+commesse a lei, |come il loro~, regno, |gli altri dei~, cio@e
+l'intelligenzie, delle quali di sopra @e detto.  E in questa parte
+l'autore, quanto pi@u pu@o, secondo il costume poetico parla, li
+quali spesse volte fanno le cose insensate, non altrimenti che le
+sensate, parlare e adoperare, ed alle cose spirituali danno forma
+corporale, e, che @e ancora pi@u, alle passioni nostre apropian
+deit@a e danno forma come se veramente cosa umana e corporea
+fossero: il che qui l'autore usa, mostrando la fortuna aver
+sentimento e deit@a; con ci@o sia cosa che, come appresso aparir@a,
+questi accidenti non possano avvenire in quella cosa la quale qui
+l'autore nomina <Fortuna>, se poeticamente fingendo non
+s'attribuiscono.  Dalle quali fizioni @e venuto che alcuni in
+forma d'una donna dipingono questo nome di Fortuna, e fascianle
+gli occhi e fannole volgere una ruota, s@i come per Boezio, ^De
+consolatione~, apare.  Ma chi le fascia gli occhi non intende
+bene ci@o che fa, per ci@o che, come appresso aparir@a, ogni
+permutazion di costei va a diterminato e veduto fine; e, se
+l'effetto di quella non segue, non @e per ignoranza de' causatori
+della permutazione, ma per lo libero arbitrio di colui in cui si
+diriza, il quale avvedutamente quella ischifa.
+
+	|88-89.  Le sue permutazion~, che questa ministra fa nei
+beni temporali, |non hanno triegue~, cio@e intermessione alcuna,
+s@i come coloro che guerreggiano hanno ne' tempi delle triegue; e,
+per ci@o che nelle sue permutazioni non @e alcun riposo, pu@o
+aparire che |Necessit@a la fa esser veloce.~  E in queste parole
+vuole intendere l'autore i movimenti di questa ministra continui
+essere di necessit@a: le quali parole, non bene intese, potrebbon
+generare errore, il quale con la grazia di Dio si torr@a via qui
+appresso, dove, esplicato il testo a questa ministra pertenente,
+dimosterr@o quello che intendo essere questa Fortuna.
+
+	|90.  S@i spesso vien~, il suo permutare, nel quale ella
+apare esser veloce, |che vicenda consegue~, cio@e che egli pare
+questo suo permutare vicendevolmente seguire, in quanto alcuna
+volta veggiamo uno medesimo uomo, di quale che stato si sia,
+essere e felice e misero pi@u volte nella vita sua.
+
+	|91-93.  Questa~, cio@e Fortuna, |@e colei che tanto @e
+posta in croce~, dalle bestemmie e da' ramarichii, |Pur da color
+che le dovrian dar lode~, s@i come uomini ben trattati da lei,
+|Dandole biasmo a torto e mala boce~, cio@e ne' loro ramarichii
+dicendo s$e esser male trattati da lei, dove sono trattati bene e
+molto meglio che essi non son degni.
+
+	|94-96.  Ma ella s'@e beata~, cio@e eterna, |e ci@o non
+ode~, cio@e le bestemmie e' ramarichii; |Con l'altre prime
+creature~, cio@e co' cieli e con le intelligenzie separate, |lieta
+Volge sua spera~, cio@e la ruota, per la quale si discrivono le
+sue veloci circunvoluzioni delle sustanzie temporali; |e beata si
+gode~, non curando di queste cose.
+
+	Ora, avanti che pi@u oltre si proceda, @e da vedere che
+cosa sia questa Fortuna, della qual qui l'autore domanda
+Virgilio, quantunque molte cose in dimostrarlo n'abbia dette
+l'autore: e', conchiudendo, mostra di volere lei essere una
+ministra di Dio, posta sopra il governo delle cose temporali. 
+Dalla qual conclusione non @e mia intenzion di partirmi, ma di
+dilucidarla alquanto pi@u, secondo che Idio mi prester@a.  E, come
+che molti per avventura abbian creduto o credano, io estimo
+questa ministra dei beni temporali non essere altro se non
+l'universale effetto de' vari movimenti de' cieli, li quali
+movimenti si credono esser causati dal nono cielo, e il movimento
+uniforme di quello esser causato dalla divina mente; e cos@i per
+questi mezzi sar@a l'universale effetto de' movimenti de' cieli
+causato dalla divina mente, e per conseguente dato da essa
+amministratore e ordinatore de' beni temporali, de' quali essi
+movimenti de' cieli sono causatori.  E dicesi dato ministro, pi@u
+tosto a dimostrazione che cosa possa essere questo nome <fortuna>
+attribuito a questi mutamenti delle cose che perch$e alcun
+ministerio vi bisogni, se non essa medesima operazion de' cieli. 
+E per ci@o che di questo effetto sono propinquissima causa i
+cieli, e sia oppinion de' filosofi il causato almeno in certe
+parti esser simile al causante, s@i come le pi@u volte suole esser
+simigliante il figliuolo al padre, pare che seguir debba che, se
+i cieli sono in continuo moto, che l'universale loro effetto, il
+quale @e intorno alle cose inferiori e temporali, similemente
+debba essere in continuo movimento: e se l'universale effetto @e
+in movimento continuo, le sue particularit@a similemente in
+continuo movimento saranno; e cos@i seguir@a le cose governate
+essere convenienti e conformi alla cosa che le causa e dispone, e
+per conseguente quelle ottimamente dover seguire la disposizione
+data dal governante.
+
+	E per ci@o che egli non par possibile cosa che gli ingegni
+umani comprendano le particularit@a infinite di questo universale
+effetto de' cieli, s@i come noi possiamo comprendere nelle
+continue fatiche, e le pi@u delle volte vane, degli strologhi; li
+quali, quantunque l'arte sia da s$e vera e da certi fondamenti
+fermata, nondimeno non paiono gli ingegni umani essere di tanta
+capacit@a che essi possan comprendere ogni particularit@a di cos@i
+gran corpo, come @e il cielo, n$e ancora pienamente le revoluzioni,
+congiunzioni, mutazioni e aspetti de' corpi de' pianeti, e per
+conseguente cognoscere n$e quello che il cielo dimostra dover
+producere n$e quello che a ci@o seguire o fuggire, per avere o per
+fuggire quello che s'aparecchia, sia sofficiente n$e bastevole: e
+per@o ottimamente dice l'autore i consigli umani non poter
+comprendere n$e contastare alle occulte, quanto @e a noi,
+operazioni di questo effetto.  Ed esso effetto non @e altro che
+permutazioni delle cose prodotte da' cieli, le quali, non avendo
+stabilit@a coloro da' quali causate sono, n$e esse similmente
+possono avere stabilit@a: e se i movimenti de' cieli son veloci e
+le cose causate da loro seguono la similitudine del causante,
+sar@a di necessit@a questo loro effetto universale esser mobile e
+di veloce moto, come essi sono; e seguiranne quello che noi
+continuamente nelle cose temporali veggiamo, cio@e le revoluzioni
+continue e le permutazioni e delle gran cose e delle minori.
+
+	N$e osta quello che per avventura alcuni potrebbon dire,
+cio@e di vedere alcune cose non muoversi mai, o muoversi di rado e
+con difficult@a, s@i come sono le citt@a e simili cose, le quali
+lungo tempo consistono: intorno alla qual cosa @e da intendere le
+revoluzioni de' cieli adoperare secondo la disposizione delle
+cose, le quali esse operazioni de' cieli ricevono.  Domenedio
+cre@o la terra stabile e perpetua, e per@o non @e atta ad alcun moto
+per se medesima; ma, se dalle mani degli uomini ella @e messa in
+alcuna opera e tratta della sua stabilit@a, adoperano i cieli
+sopra questa materia tarda e grave tardamente: ma nondimeno,
+quantunque tardo e rado sia il movimento, pur la muovono.  E per@o
+le citt@a, che di materia terrea paion composte, non senza gran
+cagione si muovono tardamente: e nondimeno questo tardo
+movimento, considerata la natura della cosa che si muove, si pu@o
+dire veloce etc.
+
+	Ora hanno gli uomini a questo effetto posto nome
+<fortuna> a beneplacito, come quasi a tutte l'altre @e stato
+posto; e, secondo che le cose secondo i nostri piaceri o
+contrarie n'avvengono, le chiamiamo <buona fortuna> e <mala
+fortuna>.  E furono in tanta simplicit@a, anzi scioccheza, i
+Gentili, che, non avendo riguardo alla sua origine, la stimarono
+una singular deit@a, in cui fosse potenzia di dar bene e male,
+secondo il beneplacito suo; e per averla benivola, le fecero
+templi e ordinarono sacerdoti e sacrifici, seguendo per
+avventura, pi@u che la verit@a, la sentenzia di questi versi:
+
+     ^Si Fortuna volet, fies de rhetore consul~;
+     ^si volet hec eadem, fies de consule rhetor etc.~
+
+E se alcune genti furono che intorno a questa bestilit@a
+peccassero, i Romani pi@u che altri vi peccarono.  Nondimeno,
+quantunque di necessit@a paia, come detto @e, questa Fortuna nelle
+sue amministrazioni esser veloce, non @e questa necessit@a imposta
+se non sopra il movimento delle cose causate da' cieli, delle
+quali l'anime nostre non sono, per ci@o che sopra i cieli sono
+create da Dio e infuse ne' corpi nostri dotate di ragione, di
+volont@a e di libero albitrio; e perci@o niuna necessit@a in noi pu@o
+causare in farci ricchi o poveri, potenti o non potenti contro a
+nostro piacere.  Il che in assai s'@e potuto vedere, in Senocrate
+e in Diogene, in Fabrizio e in Curzio e in altri assai; il che
+chiaramente Giovenale ne dimostra nel verso preallegato, dicendo:
+
+     ^Nullum numen abest, si sit prudentia; sed te~
+     ^nos facimus, Fortuna, deam celoque locamus.~
+
+E questo avviene per la nostra scioccheza, seguendo pi@u tosto con
+l'appetito la sua volubilit@a che la forza del nostro libero
+arbitrio, per lo quale n'@e conceduto di potere scalpitare e aver
+per nulla ogni sua potenza.
+
+	Adunque questo effetto universale de' movimenti de' cieli
+e delle loro operazioni, secondo il mio piccolo conoscimento,
+credo si possa dire essere quella cosa la quale noi chiamiamo
+<fortuna>, e la qual noi vogliamo esser ministra e duce de' beni
+temporali.  E in questa oppinione, se io intendo tanto, mi par
+che fossero que' poeti, li quali sentirono che l'una delle tre
+sorelle chiamate Parche, o Fate che vogliam dire, cio@e Cloto,
+Laches@is e Antrop@os, alle quali la concezione e 'l nascimento di
+ciascun mortale, e similmente la vita e la morte attribuiscono,
+fosse questa Fortuna: e quella di queste tre vogliono che sia
+Laches@is, cio@e quella la quale dicono che, nascendo noi, ne
+riceve e nutrica in vari e molti mutamenti, infino al d@i della
+morte; e questa, secondo la qualit@a della vita di ciascuno, il
+parer degli uomini seguitando, dicono essere buona e malvagia
+Fortuna.  E per ci@o che, come detto @e, in essa vita consistono le
+revoluzioni e' mutamenti di ciascuno, assai apare ci@o non essere
+altro che l'universale effetto di tutti i cieli, da' quali questi
+movimenti, quanto al corpo, son causati in noi.
+
+	E questa Fortuna chiama l'autore <dea>, poeticamente
+parlando e secondo l'antico costume de' Gentili, li quali ogni
+cosa, la qual vedeano che lungamente durar dovesse o esser
+perpetua, deificavano, s@i come i cieli, le stelle, i pianeti, gli
+elementi, i fiumi e le fonti, li quali tutti chiamavano <dei>: e
+per@o vuol l'autore sentire per questa deit@a la perpetuit@a di
+questo effetto, il quale tanto dobbiam credere che debba durare
+quanto i cieli dureranno e produceranno gli effetti li quali
+producer veggiamo.  Ora, che che io m'abbia detto intorno a
+questa fortuna, intendo che, in questo e in ogn'altra cosa,
+sempre sia alla verit@a riservato il luogo suo.
+
+	|97-99.  Or discendiamo omai a maggior pieta~ etc.: Qui
+comincia la seconda parte del presente canto.  Dice adunque: |Or
+discendiamo omai~, quasi dica: <Assai abbiamo ragionato della
+fortuna, e per@o discendiamo |a maggior pieta~, cio@e a maggior
+dolore>.  E mostra la cagione per la quale il sollicita allo
+scendere, dicendo: |Gi@a ogni stella scende che saliva Quando mi
+mossi~; nelle quali parole l'autore discrive che ora era della
+notte, e mostra che egli era passata mezza notte, per ci@o che
+ogni stella, la quale sovra l'orizonte orientale della regione
+cominciava a salire in su il farsi sera, come era quando si
+mossono, ed egli stesso il dimostra, dicendo: <Lo giorno se
+n'andava>, era salita infino al cerchio della mezza notte; donde,
+poi che pervenute vi sono, cominciano, secondando il cielo il suo
+girare, a discendere verso l'orizonte occidentale.  E fatta
+questa discrizion dell'ora della notte, quasi per quella voglia
+dire aver mostrato loro essere stati molto, subgiugne la seconda
+cagione per la quale il sollicita a discendere, dicendo: |e il
+troppo star si vieta~, cio@e m'@e proibito da Dio, per lo mandato
+del quale io vengo teco.
+
+	|100-102.  Noi ricidemmo il cerchio~, cio@e pel mezzo
+passammo, e andammone |all'altra riva~, cio@e alla parte opposita;
+e quivi pervennero |Sovra una fonte che bolle~, per divina arte,
+|e riversa~, l'acqua cos@i bogliente, |Per un fossato che da lei
+diriva~, cio@e si fa dell'acqua che essa fonte riversa.
+
+	|103.  L'acqua~, la qual questa fonte riversa, |era
+buia~, cio@e oscura, |assai~, vie, |pi@u che persa.~  @E il perso un
+colore assai propinquo al nero, e perci@o, se questa acqua era pi@u
+oscura che il color perso, seguita che ella doveva esser
+nerissima.  Pigliano l'acque i colori, i sapori, i calori e
+l'altre qualit@a nel ventre della terra, ^ut~: Ponto, quasi nera,
+per lo luogo che ha a dar quel colore; a Teano quasi lattea,
+perch$e passa per luoghi piombosi; l'olio petroio da laccone,
+l'acqua da Volterra, l'acqua d'Ambra, l'acqua da santa Lucia di
+Napoli.
+
+	|104-105.  E noi~, Virgilio e io, |in compagnia dell'onde
+bige~, cio@e lunghesso l'acque bige, come i compagni vanno l'uno
+lunghesso l'altro per un cammino: e chiama quest'acqua oscura e
+nera <bigia>, non volendo per@o per questo vocabolo mostrarla men
+nera, ma, largamente parlando, lo 'ntende per nero; e cos@i
+andando con queste onde bige, |Entrammo gi@u~, discendendo, |per
+una via diversa~, cio@e malvagia.
+
+	|106-108.~  Poi segue: |Una padule fa, c'ha nome Stige,
+Questo tristo ruscel~; e vuolsi questa lettera cos@i ordinare:
+<questo tristo ruscello>, cio@e rivicello, <fa una padule>,
+ragunandosi in alcuna parte concava del luogo, donde l'acqua non
+aveva cos@i tosto l'uscita, <c'ha nome Stige>.  E quinci dice:
+quando questo ruscello fa la padule, cio@e |quando @e disceso~,
+correndo, |Al pi@e delle malvage piagge grige~, le quali in quel
+cerchio sono.  Di questa padule chiamata Stige molte cose si
+scrivono da' poeti, la quale essi dicono essere una padule
+infernale ed essere stata figliuola del fiume chiamato Acheronte
+e della Terra.  E, secondo che dice Alberico nella sua ^Poetria~,
+questa Stige fu nutrice e albergatrice degli idii del cielo, e
+per essa iurano essi idii e non ardiscono, quando per lei iurano,
+spergiurarsi, s@i come dice Virgilio:
+
+     ^.....................Stigiamque paludem,~
+     ^dii cuius iurare timent et fallere numen~ ^etc.~
+
+{Per un commento pi@u esteso sulla palude Stigia, si veda la
+Esposizione allegorica.}
+
+	|109-111.  Ed io che di mirar mi stava inteso~: Qui
+comincia la seconda parte della seconda principale di questo
+canto, nella quale dimostra essere tormentati in questa padule
+bogliente gli iracundi e gli accidiosi.  Dice adunque: |Ed io che
+di mirar~, in questa palude, |mi stava inteso~, cio@e sollicito,
+|Vidi genti fangose in quel pantano~, cio@e in quella padule; e
+dice |fangose~, per ci@o che le padule sono generalmente tutte
+nelli lor fondi piene di loto e di fango, per l'acqua che sta
+oziosa e non mena via quel cotal fango, come quelle fanno che
+corrono, e perci@o chi in esse si mescola di necessit@a @e fangoso;
+|Ignude tutte, con sembiante offeso~, per lo tormento s@i del
+bollor dell'acqua e s@i ancora delle percosse che si davano.
+
+	|112-114.  Questi~, fangosi, |si percotean non pur con
+mano~, battendo e offendendo l'un l'altro e se medesimi, |Ma con
+la testa~, cozando l'uno contro all'altro, |e col petto~, l'un
+contro all'altro impetuosamente scontrandosi, |e co' piedi~,
+dandosi de' calci, e |Troncandosi co' denti~ le membra e la
+persona, |a brano a brano~, cio@e a pezo a pezo.
+
+	|115-120.  Lo buon maestro disse~: Qui gli dichiara
+Virgilio chi costor sieno che cos@i si troncano, e dice: |figlio,
+or vedi L'anime di color cui vinse l'ira~, mentre vissero in
+questa vita; |Ed anco vo' che tu per certo credi Che sotto
+l'acqua~, di questa padule, |ha gente che sospira~, cio@e che si
+duole.  E, sospirando, |fanno pullular quest'acqua al summo.~ 
+Noi diciamo nell'acqua <pullulare> quelle gallozole o bollori li
+quali noi veggiamo fare all'acqua, o per aere che vi sia sotto
+rachiusa e esca fuori o per acqua che di sotterra vi surga. 
+|Come l'occhio~, cio@e il viso, |ti dice, u' che s'agira~; e cos@i
+mostra in queste parole la padule esser piena di questi bollori,
+e per conseguente dovere esser molta la gente la quale sotto
+l'acqua sospirava o si doleva.
+
+	|121-123.  Fitti nel limo~: |limo~ @e quella spezie di
+terra la qual suole lasciare alle rive de' fiumi l'acqua torbida,
+quando il fiume viene scemando, la qual noi volgarmente chiamiamo
+<belletta>; e di questa maniera sono quasi tutti i fondi de'
+paduli.  Dice adunque che in questa belletta nel fondo del padule
+sono fitti i peccatori, li quali |dicon: tristi fummo, Nell'aer
+dolce che del sol s'allegra~, cio@e si fa bella e chiara,
+|Portando dentro~, nel petto nostro, |accidioso fummo~, cio@e il
+vizio dell'accidia, il quale tiene gli uomini cos@i intenebrati e
+oscuri, come il fummo tiene quelle parti nelle quali egli si
+ravolge.
+
+	|124.~  Poi segue: e per ci@o che noi fummo tristi
+nell'aer dolce, qui |Or ci attristiam~, cio@e piagnamo e
+dogliamci, |nella belletta negra~, in quel fango di quella
+padule, l'acqua della quale ha di sopra mostrata essere nera; e
+perci@o conviene che la belletta sia nera altress@i, in quanto ella
+suole sempre avere il color dell'acqua sotto la quale ella sta e
+che la mena.
+
+	|125-126.  Quest'inno~: Gli <inni> son parole composte di
+certe spezie di versi e contengono in s$e le laude divine, s@i come
+apare nello ^Innario~ il quale compose san Gregorio e che la
+Chiesa di Dio canta ne' suoi ufici; ma in questa parte scrive
+l'autore il vocabolo, ma non l'effetto di quello, per ci@o che
+dove l'inno contiene la divina laude propriamente, quello, che
+questi peccatori piangendo e dolendosi dicono in modo d'inno,
+contiene la lor miseria e la lor pena; |si gorgoglian nella
+stroza~: La |stroza~ chiamiam noi quella canna la qual muove dal
+polmone, e vien su insino al palato, e quindi spiriamo e abbiamo
+la voce, nella quale se alcuna superchia umidit@a @e intrachiusa,
+non pu@o la voce nostra venir fuori netta ed espedita, e sono
+allora le nostre parole pi@u simili al gorgogliare che fa talvolta
+alcuno uccello che ad umana favella; e per ci@o che questi
+peccatori hanno la gola piena del fango e dell'acqua del padule,
+@e di necessit@a che essi si gorgoglino questo lor doloroso inno
+nella stroza, per ci@o |Che dir nol posson con parola int@egra~,
+perch$e @e intrarotta dalla superchia umidit@a.
+
+	|127-130.  Cos@i girammo~: Qui comincia la terza parte di
+questa seconda parte principale, nella quale l'autore dimostra il
+processo del loro andare e dove pervenissero, dicendo: |Cos@i~,
+riguardando i miseri peccatori che nella padule si offendevano, e
+ragionando, |girammo della lorda poza Grand'arco~, cio@e gran
+quantit@a volta in cerchio, a guisa d'un arco; e chiamala |poza~,
+il quale @e propio nome di piccole ragunanze d'acque; e questo,
+come altra volta @e detto, @e conceduto a' poeti, cio@e d'usare un
+vocabolo per un altro, per la stretta legge de' versi, della
+quale uscir non osano.  E quinci dice che egli girarono |tra la
+ripa secca~, alla quale non agiugneva l'acqua del padule, |e il
+mezzo~, del padule, |Con gli occhi volti a chi del fango ingoza~,
+cio@e a' peccatori, li quali erano in quel padule.  |Venimmo al
+pi@e d'una torre al da sezo~, cio@e poi che noi avemmo lungamente
+agirato.
+
+&&attributes allegorica
+
+	|Table of Contents of the Esposizione Allegorica.~
+{|i.  Plutone (vv. 1-15)~}
+{|ii.  Avarizia: origini e natura~}
+{|iii.  Prodigalit@a~}
+{|iv.  Conformit@a della pena al peccato d'avarizia e prodigalit@a (vv. 22-35)~}
+{|v.  La palude Stigia (vv. 103-108)~}
+{|vi.  Ira (vv. 109-116)~}
+{|vii.  Accidia (vv. 117-126)~}
+
+	|Proemio.  Pap@e Satan, pap@e Sat@an, aleppe~ etc.: Dimostr@o l'autore
+nel precedente canto come la ragione gli dimostrasse qual fosse
+la colpa della gola, e che supplicio fosse dalla divina giustizia
+imposto a' gulosi, li quali in quel peccato morivano; e
+continuandosi alle cose precedenti, discrive come, seguendo la
+ragione, gli fosse da lei dimostrato che cosa fosse il peccato
+dell'avarizia e similmente quello della prodigalit@a, e similmente
+qual pena ne fosse data a coloro che in esse erano vivuti e morti
+peccatori, e sotto il cui imperio puniti fossero; procedendo
+appresso in questo medesimo canto, come, veduti questi, seguendo
+la ragione, gli fossero dalla detta ragione mostrate altre due
+spezie di peccatori, cio@e gli iracundi e gli accidiosi, e il loro
+tormento.
+
+	E per@o primieramente vedremo, come di sopra si promise,
+quello che l'autore intenda per Plutone, prencipe di questo
+cerchio; e, appresso, che cosa sia avarizia e in che pecchi
+l'avaro, e poi che cosa sia prodigalit@a e in che pecchi il
+prodigo; e quinci qual sia la pena lor data per lo peccato
+commesso e come la pena si confaccia al peccato; e, questo
+veduto, procederemo a vedere che peccato sia quello dell'ira e
+poi quello dell'accidia, e qual pena agli accidiosi e agli
+iracundi data sia, e come essa si conformi alla colpa.
+
+	|1-15.  Plutone.~
+
+	Truovansi adunque, secondo che esponendo la lettera @e
+detto, essere stati due Plutoni, de' quali per avventura ciascuno
+potrebbe assai attamente servire a questo luogo, quantunque l'uno
+molto meglio che l'altro, s@i come aparir@a appresso.  Diceva
+adunque Le@on Pilato che uno, il quale fu chiamato Iasonio, aveva
+amata Cerere, dea delle biade, e con lei s'era coniunto, e di lei
+aveva ricevuto un figliuolo, il quale aveva nominato Pluto. 
+Sotto il qual fabuloso parlare @e questa istoria nascosa, cio@e
+che, al tempo del diluvio il quale fu in Tesaglia a' tempi del re
+Ogigio, si trov@o in Creti un mercatante, il quale ebbe nome
+Iasonio; e questi essendo molto ricco, e avendo, per la fertilit@a
+stata il precedente anno, trovata grandissima copia di grano, e
+quella comperata a quel pregio che esso medesimo aveva voluto,
+udendo il diluvio stato in Tesaglia e come egli aveva non
+solamente guasti i campi e le semente del paese, ma ancora
+corrotta ogni biada, la quale per li tempi passati ricolta vi si
+trov@o, e i circustanti popoli esserne mal forniti a dover potere
+sovenirne quegli delle contrade dove stato era il diluvio,
+caricati pi@u legni di questo suo grano, l@a navic@o e di quello
+ebbe da' paesani ci@o che egli adomand@o; e in questa guisa,
+ispacciatol tutto, fece tanti danari che a lui medesimo pareva
+uno stupore: e in questa maniera di Cerere, cio@e del suo grano,
+gener@o Plutone, cio@e una smisurata riccheza.  E in questo luogo
+si pone Plutone, per lo quale s'intendono le riccheze mondane, a
+tormentare coloro che quelle seppero male usare, s@i come appresso
+aparir@a; e perci@o assai convenientemente qui si potrebbe di
+questo Plutone intendere.
+
+	Ma, come di sopra dissi, molto meglio si conformer@a al
+bisogno questo altro, del quale si legge: che Plutone il quale in
+latino @e chiamato ^Dispiter~, fu figliuolo di Saturno e della
+moglie, il cui nome fu Opis, e, come altra volta gi@a @e detto,
+nacque ad un medesimo parto con Glauca, sua sorella, e
+occultamente, sanza saperlo Saturno, fu nutricato e allevato. 
+Costui finsero gli antichi esser re dello 'nferno e dissero la
+sua real citt@a esser chiamata Dite, della quale assai cose scrive
+Virgilio nel VI dell'^Eneida~, quivi:
+
+     ^Respicit Eneas; subito et sub rupe sinistra~
+     ^menia lata videt~ ^etc.~;
+
+e, appresso a Virgilio, discrive la sua corte e la sua maest@a
+Stazio nel suo ^Thebaidos~, dicendo:
+
+     ^Forte sedens media regni infelicis in arce~
+     ^dux Herebi populos poscebat crimina vite~,
+     ^nil hominum miserans, iratus omnibus umbris.~
+     ^Stant Furie circum varieque ex ordine Mortes~,
+     ^sevaque multisonas exercet Pena catenas~:
+     ^fata ferunt animas~ ^etc.~
+
+E, oltre a questo, gli attribuirono un carro, s@i come al sole;
+ma, dove quello del sole ha quatro ruote, disson questo averne
+pur tre, e chiamarsi <triga>; e quello dissero esser tirato da
+tre cavalli, li nomi de' quali dissono esser questi: Meteo,
+Abastro e Novio.  E, oltre a ci@o, acci@o che sanza moglie non
+fosse, dice Ovidio esso aversela in cos@i fatta maniera trovata,
+che, essendosi un d@i Tifeo con maravigliose forze ingegnato di
+gittarsi da dosso Trinacria, alla quale egli @e sottoposto, parve
+a Plutone che, se questo avvenisse, essere possibile a dover
+poter trapassare infino in inferno la luce del giorno; e perci@o,
+venuto a procurare come fondata e ferma fosse Trinacria, e a
+quella andando d'intorno ed essendo pervenuto non lontano a
+Siragusa, gli venne veduta in un prato una vergine chiamata
+Proserpina, la quale con altre vergini andava cogliendo fiori; e
+per ci@o che essa sprezava le fiamme di Venere e recusava i suoi
+amori, avvenne che, come Plutone veduta l'ebbe, subitamente
+s'inamor@o della sua belleza: e per@o, piegato il carro suo, n'and@o
+in quella parte e, presa Proserpina, la quale di ci@o non
+sospicava, seco ne la port@o in inferno e quivi la prese per
+moglie.  E, oltre a questo, dicono lui avere avuto un cane, il
+quale aveva tre teste ed era ferocissimo, e quello avere posto a
+guardia del suo regno; del quale cane dice cos@i Seneca tragedo
+nella tragedia d'^Ercule furente~:
+
+     ^Post hec avari Ditis apparet domus.~
+     ^Hic sevus umbras territat Stygius canis~,
+     ^qui terna vasto capita concutiens sono~
+     ^regnum tuetur; sordidum tabo caput~
+     ^lambunt colubre; viperis horrent iube~
+     ^longusque torta sibilat cauda draco.~
+     ^Par ira forme~ ^etc.~
+
+	Le quali molte fizioni al nostro proposito io intendo
+cos@i: Plutone voglion molti, come altra volta @e stato detto,
+vegna tanto a dire quanto <terra>: come che, secondo Fulgenzio,
+Plutone in latino suona tanto quanto <riccheza>; e perci@o @e
+chiamato da' Latini ^Dispiter~, quasi <padre delle riccheze>: e
+che le periture riccheze consistano in terra, o di sotterra si
+cavino, questo @e chiarissimo; ed Opis @e chiamata la terra, e
+perci@o meritamente Plutone @e detto non solamente <terra>, ma
+ancora <figliuolo della terra>.  Ma, per ci@o che le prime
+riccheze, non essendo ancora trovato l'oro, aparvero in parte
+provenire del lavorio della terra e Saturno fu colui il quale
+primieramente insegn@o lavorare la terra, @e per questo meritamente
+chiamato padre di Plutone.
+
+	Alle riccheze, le quali per Plutone intendiamo, @e
+meritamente data una citt@a, la quale ha le mura di ferro e per
+guardia Tesifon@e; acci@o che per questo noi intendiamo le menti
+degli avari, a' quali le riccheze commesse sono, esser di ferro e
+conosciamo la crudelt@a loro intorno alla guardia e tenacit@a di
+quelle; e in questa citt@a dice Virgilio non essere licito ad
+alcun giusto d'entrare:
+
+     ^Nulli fas casto sceleratum insistere limen~,
+
+acci@o che egli apaia che il cercare o il servare le riccheze
+senza ingiustizia non potersi fare.
+
+	Per la real corte e per li circunstanti a questo Plutone
+si deono intendere l'angosce e l'ansiet@a delle sollicitudini
+infinite e ancora le fatiche dannevoli, le quali hanno gli avari
+nel ragunar le riccheze, e ancora le paure di perderle, dalle
+quali sono infestati coloro li quali con aperta gola intendono
+sempre a ragunarle; e per lo carro dobbiamo considerare le
+circuizioni e i ravolgimenti per lo mondo, ora in questo e ora in
+quel paese discorrendo, che fanno coloro li quali e tirati e
+sospinti sono dal disiderio di divenir ricchi; e l'essere il
+detto carro sopra tre ruote tirato nulla altra cosa credo
+significhi se non la fatica, il pericolo e la incertitudine delle
+cose future, nelle quali coloro, che vanno datorno, continuamente
+sono.
+
+	E cos@i i cavalli tiranti questo carro dicono esser tre, a
+dimostrarne di tre accidenti, li quali in questi cotali,
+atornianti il mondo per aricchire, par che sieno.  Chiamasi
+adunque il cavallo primo Meteo, il quale @e interpetrato <oscuro>,
+per lo quale s'intende l'oscura, cio@e stolta, diliberazione
+d'acquistare quello che non @e di bisogno, dalla quale il cupido,
+senza riguardare il fine, si lascia tirare.  Il secondo cavallo @e
+chiamato Abaster, il quale tanto viene a dire quanto <nero>,
+acci@o che per questo si conosca il dolore e la tristizia de'
+discorrenti, li quali spessissime volte si truovano in cose
+ambigue e in evidenti pericoli e in paure grandissime.  Il caval
+terzo @e nominato Novio, il quale tanto vuol dire quanto <cosa
+tiepida>, acci@o che per lui cognosciamo che per la paura de'
+pericoli e ancora pe' casi sopravegnenti cade la speranza di
+coloro che ferventissimamente disiderano d'acquistare, e cos@i
+intiepidisce l'ardore il quale allora a ci@o stoltamente gli
+confortava.
+
+	Il maritaggio di Proserpina, la quale alcuna volta
+significa <abondanza>, e massimamente qui, ad alcuno non @e dubbio
+che con altrui che co' ricchi non si fa, e spezialmente secondo
+il giudicio del vulgo raguardante, la cui estimazione
+spessissimamente @e falsa; per ci@o che esso quasi sempre crede che
+l@a, dove vede i granai pieni, come appo li ricchi si veggono, che
+quivi sia abondanza grandissima; dove in contrario, essendo le
+menti vote, s@i come l'avarizia procura, v'@e fame e gran penuria
+d'ogni bene; e di questo maritaggio niuna cosa si genera che
+laudevole o degno di memoria sia.
+
+	Cerbero, cane di Plutone, estimano alcuni essere stato
+vero cane, e perci@o essere detto lui aver tre teste, per tre
+singulari propiet@a, le quali erano in lui: egli era nel latrato
+d'alta voce e di sonora ed era mordacissimo e, oltre a ci@o, era,
+in tenere quello che egli prendeva, fortissimo.  Nondimeno, sotto
+la verit@a di questo cane, sentirono i poeti essere altri sensi
+riposti, in quanto @e detto <guardiano di Dite>; e per@o, con ci@o
+sia cosa che per Dite si debbano intender le riccheze, s@i come
+davanti @e mostrato, non potremmo dirittamente dire alcuno essere
+guardiano di quelle se non l'avaro; e cos@i per Cerbero ser@a da
+intendere l'avaro, al quale perci@o sono tre teste discritte, a
+dinotare tre spezie d'avari: per ci@o che alcuni sono li quali s@i
+ardentemente disiderano l'oro, che essi cupidamente in ogni
+disonesto guadagno, per averne, si lascian correre, acci@o che
+quello che acquistato avranno, pazamente spendano, donino e
+gittin via; li quali, avvegna che guardiani delle riccheze dir
+non si possano, nondimeno sono pessimi e dannosi uomini.  La
+seconda spezie @e quella di coloro li quali con grandissimo suo
+pericolo e fatica ragunano d'ogni parte e in qualunque maniera,
+acci@o che tengano e servino e guardino, e n$e a s$e n$e ad altrui
+dell'acquistato fanno pro o utile alcuno.  La terza spezie @e
+quella di coloro li quali non per alcuna sua opera o ingegno o
+fatica, ma per opera de' suoi passati, ricchi divengono e di
+queste riccheze sono s@i vigilanti e studiosi guardiani che essi,
+non altrimenti che se da altrui loro fossero state diposte, le
+servano, n$e alcuno ardire hanno di toccarle: e questi cotali sono
+da dire tristissimi e miseri guardiani di Dite.
+
+	I serpenti, li quali sono a Cerbero aggiunti alle come,
+sono da intendere per le tacite e mordaci cure, le quali hanno
+questi cotali intorno all'acquistare e al guardare l'acquistato.
+
+	Oltre a questo, gli antichi chiamarono questo Plutone
+Orco, s@i come apare nelle ^Verrine~ di Tullio, quando dice: <^Ut
+alter Orcus venisse Ethnam, et non Proserpinam, sed ipsam Cererem
+rapuisse videbatur~> ^etc.~  Il quale dice Rabano cos@i essere
+chiamato, per ci@o che egli @e ricettatore delle morti; con ci@o sia
+cosa che egli riceva ogni uomo, di che che morte si muoia, e cos@i
+l'avaro ogni guadagno riceve, di che che qualit@a egli si sia.
+
+	E questo basti ad aver detto intorno a quello che per
+Plutone in questo luogo si debba intendere: il che racogliendo,
+sono le riccheze e i malvagi guardatori e spenditori di quelle. 
+E cos@i significher@a questo dimonio il peccato e la cagion del
+peccato, il quale in questo quarto cerchio miseramente si
+punisce.
+
+	Son certo che ci ha di quegli che si maraviglieranno, per
+ci@o che l'allegoria, la quale io ho al presente data a questo
+cane infernale, cio@e a Cerbero, non @e conforme a quella la quale
+gli diedi nella esposizione allegorica del precedente canto: dove
+mostrai lui significare il vizio della gola, e qui dimostro io
+per lui significarsi tre spezie d'avari.  Ma io non voglio che di
+questo alcuno prenda ammirazione, per ci@o che la divina
+^Scrittura~ @e tutta piena di simili cose, cio@e che una medesima
+cosa ha non solamente uno, ma due e tre e quatro sentimenti,
+secondo che la variet@a del luogo, dove si truova, richiede: la
+qual cosa acci@o che voi per manifesto essemplo veggiate, mi piace
+per alcuna figura e per la variet@a de' sensi di quella
+mostrarvelo.
+
+	Leggesi nel ^Genes@i~ che il serpente venne ad Eva e
+confortolla che assaggiasse del cibo, il quale l'era stato
+comandato che ella non n'assaggiasse: e per questo serpente
+doversi intendere il nimico della umana generazione tutti i santi
+uomini e dottori della Chiesa s'acordano.  Similemente scrive san
+Giovanni nell'^Apocalissi~ che fu fatta una battaglia in cielo,
+come nell'esposizione litterale fu detto, nella quale san Michele
+arcangiolo uccise il serpente; e per questo serpente similemente
+s'intende, per tutti, il nimico nostro antico: per che potete
+vedere, per gli essempli posti, per lo serpente intendersi il
+diavolo.
+
+	Ma in altra parte si legge nella ^Scrittura~ che, essendo
+il popolo d'Isra@el venuto, dietro alla guida di Mois@e, in parte
+del diserto piena di serpenti, [e] che questi serpenti
+trafiggevano e molestavano forte il popolo, e non solamente gli
+offendevano d'infermit@a, ma egli ve ne morivano per le trafitte
+velenose: la qual cosa come Mois@e sent@i, per comandamento di Dio
+fece un serpente di rame e, dirizata nel mezzo del popolo una
+colonna, vel pose suso e comand@o che qualunque del popolo
+trafitto fosse, incontanente che trafitto fosse, mostrasse quella
+puntura o quella piaga, che dal serpente avesse ricevuta, a
+questo serpente da lui elevato ed egli sarebbe guerito: e cos@i
+avveniva.
+
+	Intendesi in questa parte questo serpente elevato esser
+Cristo, il quale, nel mezzo del popolo ebraico elevato in su la
+colonna della croce, san@o e sana tutte le piaghe delle colpe
+nostre, per li conforti e per le tentazioni de' serpenti, cio@e
+de' nimici nostri, fatte nelle nostre anime: le quali come noi le
+mostriamo a questo serpente elevato, cio@e a Cristo, per la
+contrizione e per la confessione e per la satisfazione,
+incontanente siamo per la sua passion liberati e gueriti dalle
+piaghe, le quali a morte perpetua ci traeano.  E fu questo
+serpente, cio@e Cristo, di rame, secondo due propiet@a del rame, il
+quale @e di colore rosso ed @e sonoro; per ci@o che Cristo nella sua
+Passione divenne tutto rosso del suo prezioso sangue, versato per
+le punture della corona delle spine, per le battiture delle
+verghe del ferro, per le piaghe fattegli nelle mani e ne' piedi
+da' chiovi, co' quali fu confitto in su la croce, e per lo
+costato, quando gli fu aperto con la lancia.  Fu ancora questo
+serpente sonoro, in quanto la sua dottrina infino agli estremi
+del mondo fu predicata e udita, e ancora si predica e predicher@a
+mentre il mondo durer@a.  E cos@i in una medesima figura avete il
+serpente significare Cristo e 'l dimonio: Cristo in quanto
+libera, il dimonio in quanto offende.
+
+	Leggesi ancora per la pietra essere assai spesso nelle
+sacre lettere significato Cristo, e talora l'ostinazion del
+dimonio.  Dice il Salmista: <^Lapidem, quem reprobaverunt
+edificantes, hic factus est in caput anguli~>: e vogliono i
+dottori per questa pietra significarsi Cristo.  Fu nella
+edificazion del tempio di Salamone pi@u volte da' maestri, che 'l
+muravano, provato di mettere, tra l'altre molte che v'erano, una
+pietra in lavorio, n$e mai si potevano abattere a porla in parte
+dove paresse loro che ella bene risedesse; ultimamente,
+provandola ad un canto, il quale congiugneva due diversi pareti
+del tempio, trovarono questa pietra ottimamente farsi in quel
+canto e nella congiunzion de' due pareti.  Vogliono adunque i
+dottori questi due pareti avere a significare due popoli de'
+quali Cristo compuose il tempio suo, de' quali l'uno fu di parte
+de' Giudei e l'altro fu de' Gentili, de' quali Cristo, come che
+due pareti fossero, fece una Chiesa.  Significano ancora le due
+pareti i due ^Testamenti~, il ^Nuovo~ e 'l ^Vecchio~, alla
+congiunzion de' quali solo Cristo fu sofficiente, in quanto il
+suo nascimento, la sua predicazione e la sua passione furono
+quelle che apersero i segreti misteri del ^Vecchio Testamento~,
+velati da dura corteccia sotto la lettera, e cos@i quegli che per
+opera congiunse con la sua dottrina, la qual noi leggiamo nel
+^Nuovo Testamento~; e cos@i potete veder qui per la pietra
+significarsi Cristo.  Oltre a questo, si legge nell'^Apocalissi~:
+<^Substulit angelus lapidem quasi molarem et misit in mare~>, per
+la qual pietra vogliono i dottori s'intendano i pessimi e malvagi
+uomini; ed Ezechi@el dice: <^Auferam eis cor lapideum~>, per la
+quale intendono i dottori la dureza della infedelit@a; e il
+Salmista dice: <^Descenderunt in profundum quasi lapis~>,
+intendendo per questa pietra il peso e la graveza del peccato.
+
+	E per@o, senza por pi@u essempli, potete vedere, com'@e
+detto, una medesima cosa avere diversi sensi e diverse
+esposizioni; il che, come delle figure del ^Vecchio Testamento~
+adiviene, cos@i similmente adiviene delle fizioni poetiche, le
+quali significano quando una cosa e quando un'altra.
+
+	Ora si suole intorno a queste esposizioni spesse volte
+dire per li laici la ^Scrittura~ avere il naso di cera, e perci@o
+i predicatori e i dottori, secondo che lor pare, torcerlo ora in
+questa parte e ora in quella.  La qual cosa non @e vera: per ci@o
+che la ^Scrittura~ di Dio non ha il naso di cera, anzi l'ha di
+diamante, del quale non si pu@o levare n$e vi si pu@o appiccare
+alcuna cosa, n$e si pu@o rintuzare, s@i come quella la quale @e
+fondata e ferma sopra pietra viva, e questa pietra @e Cristo; ma
+puossi pi@u tosto dire questi cotali avere il cuore, lo 'ntelletto
+e lo 'ngegno di cera, e perci@o vedere con gli occhi incerati; e
+come son fatti eglino pieghevoli ad ogni dimostrazione vera e non
+vera, cos@i par loro sia fatta la ^Scrittura~; non conoscendo che
+la variet@a de' sensi @e quella che n'apre la verit@a nascosa sotto
+il velo delle cose sacre, la quale noi aver non potremmo, se
+sempre volessimo ad una medesima cosa dare un medesimo
+significato.  Non si dovranno adunque alcuni maravigliare, se in
+altra parte Cerbero signific@o il vizio della gola e in questa gli
+s'attribuisce la guardia delle riccheze.
+
+	|Nota.  Avarizia: origini e natura.~
+
+	Ma, acci@o che noi alle spezie de' due peccati ci
+deduciamo, dico che, secondo che i poeti scrivono, ne' tempi che
+Saturno regn@o, fu una et@a tanto laudevole, tanto piacevole e
+tanto, a coloro che allora vivevano, graziosa e inocente che essi
+la chiamarono, come altra volta @e detto, l'<et@a dell'oro>.  E,
+quantunque essi vogliano quella in ciascuno atto umano essere
+stata virtuosa, intorno all'appetito delle riccheze del tutto la
+discrivono inocua, per ci@o che essi dicono, regnante Saturno
+predetto, tutti i beni temporali, avvegna che pochi e rozi
+fossero, essere stati comuni a ciascheduno e perci@o non essersi
+allora trovato alcuno che servo fosse, o che in ispezialit@a alcun
+mercennaio servigio facesse; ciascuno era e signore e servo di s$e
+parimente, n$e era campo alcuno che da alcun termine o fossa o
+siepe segnato fosse; alcuno armento non era che d'esser pi@u d'uno
+che d'un altro si conoscesse; di niuna pecunia era notizia, s@i
+come di quella che ancora non era stata da alcuna stampa segnata;
+n$e mercatante n$e navilio o alcuna altra cosa, per la quale aparer
+potesse alcuno in singularit@a avere appetito di possedere quello
+che agli altri non fosse comune, si conoscea.  E per questo
+vogliono, e meritamente, in que' secoli il mondo avere avuta
+lieta pace e consolata, n$e alcun vizio ancora esser potuto
+entrare nelle menti de' mortali: la quale benignit@a e di Dio e
+della natura delle cose se continuata fosse stata da noi, come
+mostrata ne fu ne' primi tempi per doverla seguire e continuare,
+non @e dubbio alcuno che, dove, avendola lasciata, @e preso altro
+cammino e per quello i vizi ne trasviano allo 'nferno, che noi,
+dopo riposata vita mortale, non fossimo similmente saliti
+all'eterna.
+
+	Ma, poi che tra tanta simplicit@a, tra tanta inocenzia,
+nella vita piena di tranquillit@a, essendone operatore il nimico
+dell'umana generazione, furon questi due pronomi, <mio> e <tuo>,
+seminati, tanto il santo ordine si turb@o che grandissima parte di
+quegli, li quali a dovere riempiere in paradiso le sedie degli
+angioli ribelli creati furono e sono, ruvinano ad acrescere il
+lor numero in inferno.  Entrato adunque co' due pronomi il veleno
+pestifero, del volere ciascuno pi@u che per bisogno non gli era,
+nelle menti degli uomini, si cominciarono i campi a partire con
+le fosse, a racogliere nelle propie chiusure le greggi e gli
+armenti, a separare le abitazioni e a prezolar le fatiche; e,
+cacciata la pace e la tranquillit@a dell'animo, entrarono in lor
+luogo le sollicitudini, gli affanni superflui, le servitudini, le
+maggioranze, le violenze e le guerre: e, quantunque con onesta
+povert@a alcuni vincessero e scalpitassero un tempo l'ardente
+disiderio d'avere oltre al natural bisogno, non pot$e per@o
+lungamente la vert@u de' pochi adoperare, che il vizio de' molti
+non l'avanzasse.
+
+	E, non bastando allo 'nsaziabile appetito le cose poste
+dinanzi agli occhi nostri e nelle nostre mani dalla natura, trov@o
+lo 'ngegno umano nuove ed esquisite vie a recare in publico i
+nascosi pericoli: e, pertugiati i monti ed eviscerata la terra,
+del ventre suo l'oro, l'argento e gli altri metalli recarono suso
+in alto; e similmente, pescando, delle profondit@a de' fiumi e del
+mare tirarono a vedere il cielo le pietre preziose e le
+margherite; e non so da quale esperienza ammaestrati, col sangue
+de' pesci e co' sughi dell'erbe transformarono il color della
+lana e della seta; e, brievemente, ogni altra cosa mostrarono, la
+qual potesse non saziare, ma crescere il misero appetito de'
+mortali; di che Boezio, nel primo libro ^De consolatione~,
+fortemente dolendosi, dice:
+
+     ^Heu primus qui fuit ille~
+     ^auri qui pondera tecti~
+     ^gemmasque latere volentes~
+     ^pretiosa pericula fodit?~
+
+Ma, poi che lo splendor dell'oro, la chiarit@a delle pietre
+orientali e la belleza della porpore fu veduta, in tanto
+s'acceser gli animi ad averne, che, con abandonate redine, per
+qualunque via, per qualunque sentiero a quel crediam pervenire,
+tutti corriamo; e in questo inconveniente, non solamente ne'
+nostri giorni, ma gi@a sono migliaia di secoli, si trascorse; e
+cos@i la prima simplicit@a e l'onesta povert@a e i temperati
+disideri scherniti, vituperati e scacciati, ad ogni illicito
+acquisto siam divenuti.  Per la qual cosa l'umana carit@a, la
+comune fede e gli essercizi laudevoli, non solamente diminuiti,
+ma quasi del tutto essinaniti sono; e, che @e ancora molto pi@u
+dannevole, con ogni astuzia e con ogni sottiglieza s'@e cercato e
+cerca continuo l'odio di Dio: pensando che, dove noi dobbiam lui
+sopra ogni altra cosa amare, onorare e reverire, noi l'oro e
+l'ariento, i campi e l'umane sustanzie in luogo di lui amiamo,
+onoriamo e adoriamo.  Laonde segue che, per lo non saper por modo
+all'appetito e non sapere o non volere con ragione spendere
+l'acquistato, morendo ci convien qui lasciare quello che noi ne
+vorremmo portare e portarne quello che noi vorremmo poter
+lasciare; e col doloroso incarico delle nostre colpe, in eterna
+perdizione, dalla divina giustizia a voltare i faticosi pesi,
+come l'autore ne dimostra, mandati siamo.
+
+	E, acci@o che meglio si comprenda la gravit@a di questa
+colpa e quello che l'autore intende in questa parte di
+dimostrare, e che l'uomo ancora si sappia con pi@u avvedimento
+dalla meglio conosciuta colpa guardare, pi@u distintamente mi pare
+che sia da dire che cosa sia e in che, brievemente, consista
+questo vizio dell'avarizia.
+
+	@E adunque l'avarizia, secondo che alcuni dicono, <^auri
+cupiditas~>, cio@e disiderio d'oro; san Paolo dice, ^Ad Ephesios~,
+v: <^Avaritia est idolorum servitus~>.  E, secondo la sentenzia
+d'Aristotile nel IIII dell'^Etica~, l'avarizia @e difetto di dare
+ove si conviene e soperchio volere quello che non si conviene. 
+Che l'avarizia sia cupidit@a d'oro in parte @e gi@a dimostrato e pi@u
+ancora si dimosterr@a appresso; che ella sia un servire agl'idoli,
+seguendo la sentenzia dell'apostolo, assai bene il dimostra san
+Geronimo in una sua p@istola a Rustico monaco, dove dice:
+<^Extimato malo pondere peccatorum, levius alicui videtur peccare
+avarus quam idolatra; sed non mediocriter errat.  Non enim
+gravius peccat qui duo grana thuris proicit super altare
+Mercurii, quam qui pecuniam avare, cupide et inutiliter
+congregat: ridiculum videtur quod aliquis iudicetur idolatra, qui
+duo grana thuris offert creature, que Deo debuit offerre, et ille
+non iudicetur idolatra, qui totum servitium vite sue, quod Deo
+debuit offerre, offert creature~>.
+
+	Che ella sia difetto di dare ove si conviene, e soperchio
+volere quello che non si conviene, dimosterr@a il seguente
+trattato.  Sono adunque alcuni, li quali, non essendo, in tanto
+disiderio s'accendono di divenir ricchi, che il trapassar l'Alpi
+e le montagne o' fiumi, e navicando divenire alle nazioni strane,
+tirati dalla speranza e sospinti dal disiderio, par loro
+leggierissima cosa; avendo del tutto in dispregio ci@o che Seneca
+intorno a queste fatiche scrive a Lucillo, l@a dove dice: <^Magne
+divitie sunt lege nature composita paupertas.  Lex autem illa
+nature scis quos terminos nobis statuat?  non esurire, non
+sitire, non algere.  Ut famem sitimque depellas, non est necesse
+superbis assidere liminibus, nec supercilium grave et
+contumeliosam etiam humilitatem pati; non est necesse maria
+temptare, nec sequi castra; parabile est quod natura desiderat et
+appositum.  Ad supervacua sudatur: illa sunt que togam conterunt,
+que nos senescere sub tentorio cogunt, que in aliena litora
+impingunt.  Ad manum est, quod sat est: qui cum paupertate bene
+convenit dives est~>.  E se questi cotali fossono contenti quando
+ad alcun convenevole termine pervenuti sono, o fossero contenti
+di pervenire a questo termine con onesta fatica e laudevole
+guadagno, forse qualche scusa il naturale appetito, il quale
+abbiamo infisso, d'avere, gli troverebbe; ma per ci@o che, a
+questo, modo non si sa porre, tutti nel miserabile vizio
+trapassiamo, cio@e in soperchio volere pi@u che non si conviene.  @E
+il vero che il trapassar per questa via il convenevole par
+tolerabile, quando a quelle che molti altri tengono si riguarda.
+
+	Sono i pi@u s@i offuscati dall'appetito concupiscibile ch'@e
+ogni onest@a, ogni ragione, ogni dovere cacciato da s$e, in dover
+per qualunque via ragunare, non solamente pi@u che non bisogna ad
+uno, ma ancora pi@u che non bisognerebbe a molti: e, per pervenire
+a questo, altri si danno senza alcuna conscienza a prestare ad
+usura, altri a rubare e occupare con violenza l'altrui, altri ad
+ingannare e fraudolentemente acquistare, e con altri essercizi
+simili, non pi@u d'infamia che di fama curando, si sforzano le lor
+fortune ampliare.  Contro a questi cotali dice Tullio nel libro
+III ^Degli offici~: <^Detrahere igitur alteri aliquid et hominem
+hominis incommodo suum commodum augere magis est contra naturam
+quam mors, quam paupertas, quam dolor, quam cetera que possunt
+aut corpori accedere aut rebus externis~> ^etc.~
+
+	Sono nondimeno alcuni altri, li quali pare che ^prima
+facie~ che vogliano, e ingegnansi d'avere, pi@u che il bisogno non
+richiede, li quali sono a distinguere da questi, per ci@o che,
+dove i predetti sono pessima spezie d'avari, quegli, de' quali
+intendo di dire, non si possono con ragione dire avari, n$e sono. 
+Sono di quegli li quali, in nulla parte passato il dovere, con
+diligenzia s'ingegneranno di fare che i lor campi loro
+abondevolmente rispondano: questo @e giusto disiderio e giusta
+operazione, quantunque ella trapassi il bisogno, per ci@o che quel
+pi@u in assai cose commendabili si pu@o poi a luogo e a tempo
+adoperare.  Alcuni altri, per non stare oziosi, con ogni lealt@a
+faranno una loro arte, alcuna mercatantia, li quali, quantunque
+pi@u che lor non bisogna avanzin di questa, non sono perci@o da
+reputare avari.  Altri s'ingegnano di riscuotere e di racquistare
+quello o che hanno creduto o che hanno prestato del loro ad
+altrui: n$e questo @e da dire avarizia, quantunque sia pi@u che quel
+che bisogna a chi il radomanda.  E similemente sono alcuni altri,
+li quali col sudore e con la fatica loro, o per prezo o per
+provisione, si fien messi al servigio d'alcun altro e con fede
+l'avranno servito: il domandar questo, e il volerlo, niuna
+ragione vuole che sia reputata avarizia.
+
+	@E, oltre alla predetta, la seconda spezie d'avarizia, la
+quale consiste in difetto di dare dove e quanto si conviene; e in
+questa quasi tutta l'universit@a degli uomini pecca.  Sonne alcuni
+che, poi che per loro opera o per l'altrui sono divenuti ricchi,
+sono s@i fieramente tenaci che, non che piet@a o misericordia gli
+muova a sovenire eziandio d'una piccola quantit@a un bisognoso, ma
+a' figliuoli, alle mogli e a se medesimi sono s@i scarsi, che, non
+che in altro si ristringano, ma essi n$e beono n$e mangiano quanto
+il naturale uso disidera; e dell'altrui prenderebbono, se loro
+dato ne fosse.  Alcuni altri ne sono li quali n$e onore n$e dono
+vogliono ricevere da alcuni, per non avere a dare o ad onorare.
+
+	Alcuni altri ne sono li quali non solamente alle loro
+vigilie o a' cassoni ferrati li loro tesori fidano, ma, fatte
+profondissime fosse ne' luoghi men sospetti, gli sotterrano: di
+che segue assai sovente, come essi, vivendo, non n'hanno avuto
+bene, cos@i, dopo la morte loro, non ne puote avere alcun altro. 
+E pallian questi cotali la lor miseria col dire: <Noi siamo
+solenni guardatori del nostro, acci@o che alcuno bisogno non ne
+costringa a dimandar l'altrui, o a fare altra cosa che pi@u
+disonesta fosse che l'avere ben guardato il suo>.  E di questi
+cotali sono alcuni pi@u da riprendere che alcuni altri; s@i come
+noi veggiamo spesse volte avvenire che alcuno per eredit@a diverr@a
+abondante, senza avere in ci@o alcuna fatica durata, e nondimeno
+ser@a pi@u tenace che se per sua industria o procaccio ricco
+divenuto fosse; il che, oltre al vizio, pare una cosa mirabile,
+per ci@o che in loro non dovrebbe avvenire quello che in coloro
+avviene, li quali con suo grandissimo affanno hanno ragunato
+quello che essi poi con sollicitudine guardano; e ciascuno
+naturalmente, secondo che dice Aristotile ama le sue opere pi@u
+che l'altrui, come i padri i figliuoli, e i poeti i versi loro.
+
+	E di questi medesimi si posson dire essere i cherici, ne'
+quali @e questo peccato tanto pi@u vituperevole quanto con men
+difficult@a l'ampissime entrate posseggono, non di loro
+patrimonio, non di loro acquisto pervenute loro; e, oltre a ci@o,
+con men ragione le ritengono, per ci@o che i loro essercizi deono
+essere intorno alle cose divine, all'opere della misericordia e
+di ciascuna altra pietosa cosa: deono stare in orazione,
+digiunare, sobriamente vivere, e dar di s$e buono essemplo agli
+altri in disprezare le cose temporali e 'l mondo, e seguire con
+povert@a le vestige di Cristo, acci@o che, bene adoperando, apaiano
+le loro opere esser conformi alla dottrina.  Le quali cose come
+essi le fanno, Idio il vede.
+
+	@E, appresso, questo vizio meno abominevole in una et@a che
+in un'altra, per ci@o che l'essere un giovane avaro senza dubbio
+non riceve scusa alcuna, per ci@o che l'et@a del giovane @e di sua
+natura liberale, s@i come quella che si vede forte e atante ne'
+bisogni sopravegnenti, ed @e piena di mille speranze e
+d'altrettanti aiuti, e molte vie o vede o le par vedere da potere
+risarcire quello che speso fosse o d'acquistar di nuovo; il che
+ne' vecchi non puote avvenire, per ci@o che essi, li quali il pi@u
+sono astuti e avveduti, non si veggono, procedendo avanti nel
+tempo, rimanere alcuno amico, se non le sustanze temporali; e in
+contrario si veggono ognind@i pieni di bisogni nuovi e inoppinati
+e similmente s'accorgono che, essendo essi delle dette sustanze
+abondevoli, non mancar loro l'essere serviti e aiutati e avuti
+cari, da coloro spezialmente li quali sperano, secondo il loro
+adoperare, verso loro doversi nella fine dettare il testamento;
+dove spesso, se essi senza danari e senza derrate sono, non che
+da' pi@u lontani, ma dalle mogli, da' figliuoli, da' fratelli sono
+scacciati, ributtati e aviliti e avuti in dispregio.  La qual
+paura se considerata fia, non sar@a alcuno che si maravigli se
+essi son tenaci e ancora cupidi d'avanzare, se il come vedessero.
+
+	Contro a costoro gridano la dottrina evangelica i santi
+e' filosofi e' poeti.  Leggesi nell'^Evangelio~ di Luca, capitolo
+V: <^Ve vobis, divitibus!~>; e nella ^Canonica~ di san Iacopo,
+capitolo V: <^Agite nunc, divites, plorate ululantes in miseriis,
+que evenient vobis~>; e nello ^Evangelio~: <^Mortuus est dives,
+et sepultus est in inferno~>.  Ed Abac@uc, capitolo II, dice:
+<^Ve, qui congregat non sua!~>; ed esso medesimo, capitolo [II]:
+<^Ve, qui congregat avaritiam malam domui sue!~>; ed
+^Ecclesiastici~, X: <^Avaro nichil est scelestius~>; e santo
+Augustino dice: <^Ve illis qui vivunt ut augeant res perituras,
+unde eternas amittunt~>; ed esso medesimo: <^Maledictus
+dispensator avarus, cui largus est Dominus~>.  E Seneca a
+Lucillo, epistola XVII, scrive: <^Multis parasse divitias non
+finis miseriarium fuit, sed mutatio~>; e Tullio ^in primo
+Officiorum~: <^Nichil est tam angusti animi parvique quam amare
+divitias, nichil honestius magnificentiusque quam pecuniam
+contemnere, si non habeas, si habeas, ad beneficentiam
+liberalitatemque conferre~>; e Virgilio nel III dell'^Eneida~:
+
+     ^...quid non mortalia pectora cogis,~
+     ^auri sacra fames~;
+
+e Persio scrive:
+
+     ^Discite, o miseri, et causas cognoscite rerum~:
+     ^quis modus argento, quid fas optare, quid asper~
+     ^utile nummus habet~ ^etc.~;
+
+e Iovenale ancora dice:
+
+     ^Sed quo divitias per hec tormenta coactas~,
+     ^cum furor haud dubius, cum sit manifesta frenesis,~
+     ^ut locuples moriaris, egenti vivere fato~ ^etc.~
+
+	|Nota.  Prodigalit@a.~
+
+	Mostrato che cosa sia avarizia e in che pecchi l'avaro,
+per ci@o che in quel medesimo luogo e tormento sono i prodighi
+tormentati, @e sotto brevit@a da vedere che cosa sia prodigalit@a e
+in che il prodigo pecchi.  @E prodigalit@a, secondo che Aristotile
+vuole nel IIII dell'^Etica~, l'uno degli estremi della
+liberalit@a, opposito all'avarizia; e, cos@i come l'avarizia
+consiste in tenere dove e come e quando non si conviene e
+disiderare e adoperare d'avere pi@u che non si conviene e onde e
+da cui non si conviene, cos@i la prodigalit@a consiste in donare e
+spendere quanto e come e dove non si conviene.
+
+	E sta questo <quanto> nel trapassare ogni termine di
+debita spesa intorno a quella cosa, la quale alcun far vuole o
+che si conviene: come ne' vestimenti e negli ornamenti veggiamo
+spesse volte alcuni trasandare, senza considerare la qualit@a, la
+nazione o lo stato suo, e le entrate e' frutti delle sue
+possessioni; come ancora veggiamo nel convitare, nel quale, senza
+considerare a cui o quando o dove il convito s'aparecchi, quella
+spesa si fa per privati uomini e di bassa condizione o di vile
+che se per alcun prencipe o venerabile uomo si facesse: come si
+legge faceva il figliuolo d'Isopo filosafo, il quale, rimaso del
+padre ricchissimo, per dar mangiare a' suoi pari, comperava gli
+usignuoli, i montanelli, i calderugi, i pappagalli, li quali gli
+uomini hanno carissimi per lo lor ben cantare, e, quando grassi
+gli trovava, non gli lasciava per danari, e quegli arostiti poi
+poneva inanzi a' suoi convitati, per che talvolta avveniva essere
+per avventura costato il boccone diece fiorini d'oro; o come
+ancora si pu@o fare in cose assai.
+
+	Il <come> consiste negli aparati: coroneranno alcuni le
+sale, ornerannole di drappi ad oro, metteranno le mense
+splendide, faranno venire i trombatori, i saltatori, i cantatori,
+i trastullatori, i servidori pettinati, azimati e leggiadri, non
+come se scellerati e scostumati uomini vi dovesser mangiare, come
+le pi@u volte fanno, ma re o imperadori; useranno ancora
+maravigliosa sollicitudine, non dico nelle sale o nelle camere,
+ma nelle stalle e ne' cellieri in fare le mangiatoie intarsiate,
+i sedili iscorniciati e gli altri vasi a questi luoghi oportuni
+cos@i esquisiti, come se negli occhi sempre aver gli dovessero e
+al lor propio uso adoperargli.
+
+	Peccasi ancora nel <dove> i doni e le spese
+smisuratamente si fanno, cio@e in cui: in quanto le pi@u delle
+volte a ghiottoni, a lusinghieri, a ruffiani, a buffoni, a
+feminette di disonesta vita e di vilissima condizione si faranno
+doni magnifichi, li quali sarebbono ad eccellentissimi uomini
+acettevoli; aparecchierannosi loro cavalcature, farannosi letti e
+scalderannosi i bagni non altramenti che se nobili e segnalati
+uomini dovessero pervenirvi: e, se per avventura un valente uomo
+capitasse alle case di questi cotali gittatori, con tristo viso,
+con leggieri spese malvolentieri ricevuto vi fia.  Ora in queste
+e in simili cose consiste il vizio della prodigalit@a e il prodigo
+gitta via il suo.
+
+	@E, oltre a questo, il prodigo in parte simile all'avaro,
+in quanto esso disidera, e con ardente sollicitudine,
+d'acquistare; e in ci@o posta giuso ogni conscienza, ogni onest@a e
+dovere, non cura come n$e donde si venga l'acquisto: per che
+talvolta commette baratterie, frodi e inganni e violenze, ma nol
+fa al fine che l'avaro, cio@e per adunare, ma per avere pi@u che
+gittar via.
+
+	E se alcuni sono in questo vizio oltre ad ogni misura
+peccatori, sono i cherici, cio@e i gran prelati, per ci@o che essi
+il pi@u, senza avere alcun riguardo a Dio, n$e al popolo loro
+commesso, o alla qualit@a di colui in cui conferiscono, concedono,
+anzi gittano, gli arcivescovadi, i vescovadi, le badie e l'altre
+prelature e' benefici di santa Chiesa ad idioti, ebriachi,
+manicatori, furiosi, d'ogni scellerateza viziosi e cattivi
+uomini: di che il popolo cristiano non solamente non @e
+all'oportunit@a sovenuto, ma dalle miserie e cattivit@a di cos@i
+fatti pastori son trasviati allo 'nferno, dietro al malo
+essempio.
+
+	Piace, oltre alle dette cose, ad Aristotile questo vizio
+della prodigalit@a essere assai men dannevole che quello
+dell'avarizia, per ci@o che, non ostante che dell'avarizia n$e
+l'avaro n$e alcun altro abbia alcun bene, dove della prodigalit@a
+pur n'hanno bene alcuni, quantunque mal degni, pare la
+prodigalit@a non debba potersi acrescere n$e divenir maggiore, per
+ci@o che il prodigo continuamente diminuisce le sostanze sue,
+senza le quali la prodigalit@a non si pu@o mandare ad essecuzione,
+e, diminuendosi, pare di necessit@a si debba diminuire il vizio:
+il che dell'avarizia non avviene, per ci@o che l'avaro
+continuamente acresce il suo, e, acrescendolo, acresce la
+cupidigia dell'aver pi@u.  Appresso, il vizio il quale si pu@o in
+alcuna maniera curare pare esser minore che quello che curar non
+si pu@o: e la prodigalit@a si pu@o curare, il che non si pu@o
+l'avarizia; e per@o pare la prodigalit@a esser minor vizio che
+l'avarizia.  Il che, quantunque per una ragione di sopra mostrato
+si sia, si pu@o ancora mostrar con due altre, cio@e che la
+prodigalit@a si possa curare.  Delle quali ragioni @e l'una questa:
+curasi la prodigalit@a dal tempo, per ci@o che, quanto l'uomo pi@u
+s'avvicina alla vecchieza, tanto diventa pi@u inchinevole a
+ritenere, per la ragione di sopra mostrata, dove si disse perch$e
+i vecchi eran pi@u avari che' giovani: e non @e alcun dubbio le
+riccheze naturalmente disiderarsi, acci@o che l'uom possa per
+quelle sovenire a' difetti umani; e per ci@o convenevole pare,
+quanto alcuno sente i difetti maggiori, tanto pi@u inchinevole sia
+a quelle cose, per le quali si puote o rimediare o sovenire a
+quegli.  La seconda ragione @e per ci@o che la povert@a @e ottima
+medica a cotale infermit@a e in essa si perviene assai agevolmente
+da chi gitta e scialacqua senza modo e senza misura il suo, s@i
+come i prodighi fanno: e chi in essa diviene non pu@o donar n$e
+spendere, e cos@i si truova guerito di questo vizio; il che
+dell'avarizia non avviene, come mostrato @e.
+
+	Pare adunque, per le ragioni dette, la prodigalit@a essere
+minor vizio che l'avarizia.  E se cos@i @e, sar@a chi mover@a qui una
+quistion cos@i fatta: <Se la prodigalit@a @e minor vizio che
+l'avarizia, perch$e dimostra qui l'autore essere in igual tormento
+puniti i prodighi e gli avari, con ci@o sia cos@i che il minor
+vizio meriti minor pena?>; puossi a questa cos@i rispondere: che
+il vizio della prodigalit@a non @e in s$e minore che l'avarizia, per
+ci@o che, dove l'avarizia procede da naturale appetito, pare che
+la prodigalit@a abbia origine da stoltizia, ch'@e spezie di
+bestialit@a.  Laonde, se alcuna cosa di questo vizio pare che
+diminuisca l'essere curabile, questa bestialit@a della stoltizia
+pare che il supplisca; e, oltre a ci@o, quantunque curabile paia
+questo vizio, egli non si cura n$e per volont@a n$e per opera
+laudevole del vizioso, e cos@i per questo il vizioso non merita; e
+similmente, quantunque cessata sia la cagione, e per conseguente
+l'effetto, per le sopradette ragioni, nel prodigo, dove il
+disidero non cessi di quel medesimo adoperare, avendo di che, non
+pare, non che curato sia, ma diminuito il vizio.
+
+	E nelle nostre colpe riguarda la divina giustizia non
+solamente l'opere, ma ancora la volont@a: e non pecca in assai
+cose meno chi vuole e non puote che chi vuole e puote; e perci@o,
+non diminuendosi l'abito preso del vizio, non diminuisce il vizio
+nello abituato: laonde convenientemente segue in igual supplicio
+punirsi il prodigo e l'avaro.
+
+	E per ci@o che questi due peccati sono radice e principio
+di molti mali, agramente insieme puniti sono, acci@o che in
+eterno si pianga l'avere per loro non solamente dimenticato Idio
+e in luogo di lui avere adorati e onorati i danari, ma ancora
+vendutolo come fece Giuda, e come molti altri fanno, che,
+giurando e spergiurando, simoneggiando e ingannando, tutto il
+giorno il vendono: e l'avere venduta la giustizia, corrotte le
+leggi, falsificati i testamenti, i metalli e le monete, assediate
+le strade, commessi i tradimenti, i furti, gli omicidi; l'essere
+lusinghiere divenuto e ad ogni malvagio guadagno inchinevole;
+l'aver la loro virginit@a, la pudicizia, l'onest@a e ogni
+vergogna posta gi@u, e l'essere divenute menandare, maliose,
+venefiche e indovine.
+
+	|22-35.  Conformit@a della pena al peccato d'avarizia e prodigalit@a.~
+
+	La pena adunque attribuita a questi peccatori @e da vedere
+come sia conforme al peccato.  Come detto @e, tutta la
+sollicitudine dell'avaro @e in ragunare e in tenere il ragunato e
+in guardarlo pi@u che non si conviene; e quella del prodigo @e in
+procurare con ogni studio d'avere e di male spendere quello che
+aver puote: e per@o assai convenevolmente pare che dalla divina
+giustizia puniti sieno nel continuo volgere gravissimi pesi col
+petto, e con quegli l'avaro e 'l prodigo amaramente urtarsi e
+percuotersi insieme.  Per lo quale atto @e da intendere che, come
+in questa vita, senza darsi alcun riposo, a diversi e contrari
+fini faticarono, sodisfacendo all'appetito loro e in quello
+sentendo dannosa dilettazione, cos@i in inferno, perduti, con
+grande afflizion di loro son posti in continuo essercizio di
+volgere col petto pesi che sien loro faticosi e noiosi; e con
+quegli come a diversi fini, vivendo, affannarono, diverse
+oppinioni seguitando, cos@i, l'uno incontro all'altro faccendosi,
+si percuotano e molestino e in lor maggior dolore la loro viziosa
+vita con ontoso verso si rimproverino.  E, acci@o che nel tormento
+loro si dimostri essi mai nella presente vita alcuna quiete non
+avere avuta n$e doverla in quella sperare, vuole la giustizia che
+il loro discorrimento a tanta noia sia circulare.
+
+	Appresso, l'essere queste due spezie di vizio poste sotto
+la giurisdizion di Plutone si dee credere non esser fatto senza
+ragione.  Io vi mostrai di sopra questo Plutone essere disegnato
+per lo padre delle riccheze, e quello che la sua citt@a, la corte,
+i circunstanti, il carro, lo sterile matrimonio e il can
+Tricerbero era da intendere: le quali sono tutte cose spettanti
+ed all'un vizio ed all'altro, se sanamente si riguarder@a; e
+perci@o, come che l'autor non scriva questo dimonio alcuna cosa
+adoperare in costoro, che sotto la sua giurisdizion son dannati,
+nondimeno si pu@o comprendere lui, cio@e il suo significato, oltre
+all'ontoso verso che l'una parte contro all'altra dice, sempre
+con la sua presenzia raccendere nella memoria degli avari i
+tesori tanto amati da loro e per molte vie acquistati e con
+vigilante cura guardati essere stati da loro lasciati e, in un
+punto, tutti li lor pensieri, tutte le loro speranze, tutte le
+lor fatiche non solamente essere evacuate e vane, ma essi ancora
+esserne venuti a perdizione.  Per che creder si dee loro con vana
+compunzione piagnere e dolersi che, poich$e pur da loro partir si
+doveano, non li aveano con liberale animo a' bisognosi
+participati: della qual cosa loro sarebbe seguita eterna salute,
+dove essi, per lo non farlo, ne son caduti in perpetua
+perdizione.
+
+	E cos@i similmente i prodighi per l'aspetto di Plutone si
+ricordano, se per caso alcuno loro uscisse di mente, de' loro
+tesori e delle loro riccheze disutilmente, anzi dannosamente,
+spese, donate e gittate, e dove, bene e debitamente spendendole,
+potevano acquistare quella gloria che mai fine aver non dee, dove
+per lo contrario si veggiono in tormento e in miseria sempiterna. 
+La quale assidua ricordazione si dee credere esser loro afflizion
+continua e incomparabile dolore, il quale con inestinguibile
+fiamma sempre di nuovo accende le coscienze loro.
+
+	|103-108.  La palude Stigia.~
+
+	E la cagione per la quale essi {gli idii} temono,
+giurando per Istige, di spergiurarsi, @e per paura della pena, la
+quale @e che quale idio, avendo giurato per Stige, si spergiura
+sia privato infino a certo tempo del divino beveraggio, il quale
+i poeti chiamano <nettara>, cio@e dolcissimo e soave: e questa
+onorificenzia vogliono esserle stata conceduta, per ci@o che la
+Vittoria, la quale fu sua figliuola, fu favorevole agl'idii
+quando combatterono co' figliuoli di Titano, e vollesi pi@u tosto
+concedere a loro che a' detti figliuoli di Titano.
+
+	L'allegoria di questa favola, quantunque non paia del
+tutto oportuna al proposito, pure, perch$e in parte, e qui e
+altrove, potr@a esser utile, la scriver@o.  Questo nome Stige @e
+interpetrato <tristizia>, e perci@o @e detta figliuola d'Acheronte,
+il qual, come davanti @e detto, viene a dire <senza allegreza>. 
+Pare ad Alberico che colui, il quale @e senza allegreza,
+agevolmente divenga in tristizia, anzi quasi par di necessit@a che
+egli in tristizia divenga; e cos@i dall'essere senza allegreza
+nasce la tristizia.  Che ella sia figliuola della Terra par che
+proceda da ragion naturale, per@o che, con ci@o sia cosa che tutte
+l'acque procedano da quello unico fonte mare Occeano, e di quindi
+venire per le parti intrinseche della terra infino al luogo dove
+esse fuori della terra si versano, pare assai conveniente dovere
+esser detto figliuolo della Terra ci@o che esce del ventre suo,
+come l'acqua fa che @e in questa palude.
+
+	Che ella sia nutrice e albergatrice degl'idii, non
+vollero i poeti senza cagione.  Intorno al qual senso @e da sapere
+che sono due maniere di tristizia: o l'uomo s'attrista per ci@o
+che egli non pu@o a' suoi dannosi disideri pervenire, o l'uomo
+s'attrista cognoscendo che egli ha alcuna o molte cose meno
+giustamente commesse.  La prima spezie di tristizia non fu mai
+nutrice n$e albergatrice degl'idii, anzi @e loro inimica e odiosa,
+intendendo gli <idii> per l'anime de' beati; ma la seconda fu ed
+@e nutrice degl'idii, cio@e di coloro li quali divengono idii, cio@e
+beati: per ci@o che il dolersi e l'attristarsi delle cose men che
+ben fatte niuna altra cosa @e che prestare alimenti alle vert@u,
+per le quali i Gentili andarono nelle lor deit@a, secondo che le
+loro istorie ne mostrano, e noi cristiani per l'attristarci de'
+nostri peccati n'andiamo in vita eterna, nella quale noi siamo
+veri idii e non vani.  Queste due spezie di tristizia mostra
+Virgilio d'avere ottimamente sentite nel VI del suo ^Eneida~, l@a
+dove egli manda i perfidi e ostinati uomini in quella parte dello
+'nferno, la quale esso chiama Tartaro, nella quale non @e alcuna
+redenzione; e gli altri, li quali hanno sofferto tristizia e pena
+per le lor colpe, mena ne' Campi Elisi, cio@e in quello luogo ove
+egli intende che sieno le sedie de' beati.
+
+	O vogliam dire quello che per avventura pi@u tosto i poeti
+sentirono, gl'idii, li quali costei nutrica e alberga, essere il
+sole e le stelle, le quali alcuna volta ne vanno in Egitto; e
+questo @e nel tempo di verno, quando il sole, essendo rimoto da
+noi, @e in quella parte del zodiaco, la quale gli astrologhi
+chiamano <solestizio antartico>; per ci@o che, oltre agli Egizi
+meridionali in quelle parti abitanti, esso fa quello che gli
+astrologhi chiamano <^Cenit capitis~>: e in questo tempo sono
+nutriti il sole e le stelle dalla palude di Stige, secondo
+l'oppinione di coloro li quali stimavano che i fuochi de' corpi
+superiori della umidit@a de' vapori surgente dall'acqua si
+pascessero; e appo questa padule di Stige, mentre nel mezzod@i
+dimorano, stanno e albergano.  Che questa padule di Stige,
+secondo la verit@a, sia sotto la plaga meridionale, il dimostra
+Seneca in quel libro il quale egli scrisse ^Delle cose sacre
+d'Egitto~, dicendo che la palude di Stige @e appo coloro che nel
+superiore emisperio sono, mostrando appresso che non guari
+lontano da Siene, estrema parte d'Egitto verso il mezzod@i, essere
+un luogo il quale @e chiamato da' Greci <^Phiale~>, il quale @e
+tanto a dire quanto <amiche>, e appo quel luogo essere una
+grandissima padule, la quale, con ci@o sia cosa che a trapassarla
+sia molto malagevole e faticoso, per ci@o che @e molto limosa e
+impedita da' giunchi, li quali essi chiamano <papiri>, @e
+appellata Stige per ci@o che @e cagion di tristizia per la troppa
+fatica a' trapassanti.
+
+	Che gl'idii giurino per questa padule di Stige pu@o esser
+la ragion questa: noi siamo usati di giurare per quelle cose le
+quali noi temiamo, o per quelle le quali noi disideriamo; ma chi
+@e in somma allegreza, non pare che abbia che disiderare,
+quantunque abbia che temere; e questi cotali sono gl'idii, li
+quali i Gentili dicevano esser felici: e perci@o, non avendo
+costoro che disiderare, resta che giurino per alcuna cosa la
+quale sia loro contraria, e questa @e la tristizia.  E che chi si
+spergiura sia privato del divin beveraggio credo per ci@o essere
+detto, per ci@o che coloro, li quali di felice stato son divenuti
+in miseria, solevan dire essersi spergiurati, cio@e men che bene
+avere adoperato, e cos@i essere divenuti dalla dolceza del divin
+beveraggio, cio@e dalla felicit@a, nell'amaritudine della miseria.
+
+	Costei esser madre della Vittoria si dice per tanto che
+delle guerre non s'ha vittoria per far festa, mangiare e bere,
+ballare o cantare, n$e ancora per fortemente combattere, ma per lo
+meditare assiduo e faticarsi intorno alle cose oportune, in far
+buona guardia, in ispiare i mutamenti e gli andamenti de' nemici,
+in por gli aguati, in prendere i vantaggi e simili cose, le quali
+senza alcun dubbio hanno ad affligger l'uomo e a tenerlo, almeno
+nel sembiante, tristo.
+
+	|109-116.  Ira.~
+
+	|Or discendiamo omai a maggior pieta~ etc.  Questa @e la
+seconda parte principale di questo settimo canto, nella quale, s@i
+come nella esposizion testuale apare, l'autore del cerchio quarto
+discende nel quinto; e avendogli la ragion dimostrato che colpa
+sia quella del vizio dell'avarizia e della prodigalit@a e che
+tormento per quella ricevano i dannati, in questo quinto cerchio
+gli dimostra punirsi la colpa dell'ira e quella dell'accidia.  Le
+quali acci@o che alquanto meglio si comprendano e pi@u piena
+notizia s'abbia della 'ntenzione dell'autore, @e alquanto da
+dichiarare in che questi due vizi consistano, e quindi verremo a
+dimostrare come con la pena si confaccia la colpa.
+
+	Se noi adunque vogliam sanamente guardare, assai
+leggiermente potrem vedere che alcuno de' quatro elementi non @e
+il quale sia tanto stimolato, tanto infestato, n$e tanto percosso
+e rivolto dal cielo, dall'acqua e dagli uomini quanto @e la terra. 
+Questa nelle sue parti intrinseche @e con vari strumenti cavata e
+ricercata, acci@o che di quelle i metalli nascosi si traggano,
+evellansi i candidi marmi, i durissimi porfidi e l'altre pietre
+di qualunque ragione, facciansi cadere le forteze sopra gli alti
+monti fermate, e facciansi pervie quelle parti, le quali da s$e
+non prestavano leggiermente l'andare.  Questa nella sua superfice
+ora da' marroni, ora da' bomeri e ora dalle vanghe @e rivolta,
+cavata e rotta e d'una parte in un'altra gittata; questa da'
+templi mirabili, dagli edifici eccelsi delle citt@a grandissime @e
+oppressa, caricata e premuta; questa dagli animali, da' carri e
+da ponderosissimi strascinii @e attrita e scalpitata; questa dal
+mare, da' fiumi e da' torrenti @e rosa, estenuata e transportata;
+questa dalle selve, dall'erbe e dalle semente continue @e poppata,
+sugata e munta; questa @e dagli incendi evaporanti arsa, dalle
+folgori celestiali percossa e da' tremuoti subterranei
+dicrollata; questa @e dai diluvi dilavata, da' raggi solari
+essusta e da' ghiacci ristretta.  Chi potrebbe assai pienamente
+racontare le molestie, dalle quali ella @e senza alcuna
+intermessione offesa e malmenata?  N$e per tutte le racontate
+ingiurie, n$e per molte altre, leggiamo o veggiamo che essa alcuna
+volta ramaricata si sia o si ramarichi; tanta @e la sua umilt@a
+constante e paziente.
+
+	Per la qual cosa forse creder si potrebbe esser pi@u tosto
+piaciuto al nostro Creatore d'aver di quella il corpo dell'uom
+composto che d'altro elemento o d'altra materia, acci@o che la
+natura di questa, della qual fu composto, seguitando, fosse
+paziente, e con toleranzia fermissima sostenesse i casi per
+qualunque cagione emergenti.  Le quali cose mal considerate da
+noi, non come terrei, ma quasi come se di fuoco fossimo stati
+formati, chi per nobilt@a di sangue, chi per eccellenzia di
+dignit@a, chi per altezza di stato, chi per sublimit@a di scienza,
+chi per abondanza di riccheze, chi per corporal forza, chi per
+belleza, chi per destreza di membri, tanto fastidiosi divenuti
+siamo, teneri e descoli e impazienti, che per ogni leggierissima
+cosa ci accendiamo; e, non potendo l'un dell'altro sofferire i
+costumi, non solamente per ogni piccola ingiuria ci adiriamo, ma
+come fiere salvatiche da' cacciatori e da' cani irritate, in pazo
+e bestial furore trascorriamo, tumultando, gridando e arabbiando. 
+E cos@i nelle tenebre dell'ignoranza offuscati, spesse volte e noi
+e altrui in miseria quasi incomportabile sospigniamo.
+
+	Di che, provocata sopra noi la divina ira, avviene che la
+sua giustizia ne manda in parte dove gli splendor mondani e le
+riccheze e le dignit@a avute son per niente, e noi non altramenti
+che porci siamo aviluppati, convolti e strascinati in puzolente e
+fastidioso loto, dove con misera ricordazione e continua, senza
+pro, cognosciamo che noi eravam terrei, quando, adirati, di
+percuotere il cielo, non che altro, ci sforzavamo.
+
+	Alla dimostrazione della qual cosa acci@o che deducendoci
+pervegnamo, prima mi par di dimostrare in che questo vizio
+consista, che di procedere ad altro; acci@o che per questa
+dichiarazione sia meglio conosciuto e, per conseguente, dal
+meglio conosciuto meglio guardar ci possiamo, e, oltre a ci@o, con
+men difficult@a veggiamo come attamente l'autor disegni dalla
+giustizia di Dio essere alla colpa dato conveniente supplicio.
+
+	Dico adunque che, secondo che ad Aristotile pare nel IIII
+dell'^Etica~, che l'ira, la quale meritamente si dee reputar
+vizio, @e un disordinato appetito di vendetta; e per ci@o pare
+questa essere causata da tristizia nata nell'adirato, per alcuna
+ingiuria ricevuta in s$e o in altrui di cui gli caglia, o nelle
+sue cose, o falsa o vera che quella ingiuria sia.  E in tanto @e
+questo appetito vizioso, in quanto questi cotali iracundi si
+turbano verso coloro, verso li quali non @e di bisogno turbarsi, e
+per quelle cose per le quali turbar non si deono, e quando turbar
+non si deono, e ancora pi@u velocemente che non deono, e pi@u tempo
+perseverano in stare adirati che essi non deono.  E di questi
+cotali adirati o iracundi, secondo che Aristotile medesimo
+dimostra, son tre maniere.  La prima delle quali @e quella
+d'alcuni, che, per ogni menoma cosa che avviene, non che per le
+maggiori, solamente che loro non sodisfaccia, subitamente
+s'adirano e gridano e prorompono in furore; ma in essa non
+lungamente perseverano, quasi lor sia bastevole d'aversi mostrati
+adirati, o perch$e subitamente vien loro fatto di prender vendetta
+della cosa per la quale adirati si sono; e cos@i, essalata l'ira,
+ritornano nella quiete prima: la qual cosa in questi cotali @e
+commendabile, quantunque non sia perci@o stata la colpa
+dell'adirarsi minore.  E pare che in questa spezie d'ira siano
+fieramente inchinevoli coloro li quali sono di complession
+collerica, dalla velocit@a e sottiglieza della quale par che venga
+questa subiteza.
+
+	La seconda maniera @e quella di coloro li quali non troppo
+correntemente n$e per ogni piccola cagion s'adirano, ma pure in
+quella, dopo alquanto aver sofferto, pervengono: l'ira de' quali
+@e s@i pertinace e ferma, che non senza difficult@a si dissolve.  E
+questi stanno lungamente adirati, servando dentro a se medesimi
+l'ira loro, n$e quasi mai quella risolvono, se della ingiuria, la
+quale par loro aver ricevuta, alcuna vendetta non prendono; n$e
+questa tengono ascosa senza lor gravissima noia, per ci@o che,
+quanto il fuoco pi@u si ristrigne in poco luogo, pi@u cuoce; e
+perci@o, mentre penano a sodisfare a questo loro disordinato
+appetito, tanto servano l'ira e se medesimi affliggono e
+molestano.  Ed @e questa ira men curabile in quanto @e nascosa, per
+ci@o che n$e amico n$e altri pu@o a questi cotali persuadere alcuna
+cosa, per la quale questa ira nascosa si diminuisca o si lasci;
+per che segue esser di necessit@a o che per vendetta o che per
+lungheza di tempo, nella quale ogni cosa diminuisce, ella
+intiepidisca e ismaltiscasi e ritorni in niente.  E son questi
+cotali non solamente a se medesimi molesti, ma ancora alle lor
+famiglie, a' compagni e agli amici, co' quali essi, stimolati
+dalla turbazione intrinseca, vivere con alcuna consolazione non
+possono.  E da questa spezie d'ira sono infestati
+maravigliosamente quegli che son di complessione malinconica, per
+ci@o che in essi, per la grosseza dell'omor terreo, la impression
+ricevuta persevera lungamente.
+
+	La terza maniera di questi iracundi sono alcuni, li
+quali, adirati, in alcuna maniera non lascian l'ira, n$e per
+consiglio d'alcuno, n$e per lusinga, n$e ancora per lungheza di
+tempo, senza aver prima presa vendetta dell'offesa, la quale par
+loro avere ricevuta: e questi sono pessimi adirati, per ci@o che,
+come assai chiaramente veder si pu@o, essi hanno l'ira convertita
+in odio.  Della qual maladizione fieramente son maculati i
+Toscani, e tra loro in singularit@a i Fiorentini, li quali per
+alcuno ammaestramento datoci non ci sappiamo recare a perdonare;
+e, che ancora @e molto peggio, mandandoci Domenedio per questo il
+giudicio suo sopra, tanto impazientemente il comportiamo che di
+questo male in molti altri strabocchevolmente trapassiamo,
+bestemmiandolo, rinegandolo e chiamandolo ingiusto; non volendoci
+per alcuna maniera ricordare delle sue parole nello ^Evangelio~,
+nel quale egli, per farci al perdonare inchinevoli, per figura
+dimostra di quel signore, il quale volle rivedere la ragione
+dell'amministrazione che un de' suoi servi aveva fatta de' fatti
+suoi.  Trov@o che 'l servo gli doveva dare cento talenti e per@o
+comand@o che esso, ogni sua cosa venduta, fosse messo in prigione,
+infino a tanto che egli avesse interamente pagato: ma, pregandolo
+con umilt@a il servo gli perdonasse, impetr@o rimessione del
+debito; e poi, liberato, fece, senza voler perdonare, prendere un
+suo conservo, [che] diece talenti dar gli dovea, e metterlo in
+prigione.  Il che udendo il signore, che cento n'avea perdonati a
+lui, il fece prendere e d'ogni suo bene spogliare e gittare nelle
+tenebre esteriori, per ci@o che verso il prossimo suo era stato
+ingrato, non volendosi ricordare di ci@o che esso avea dal suo
+signor ricevuto.
+
+	Alle quali cose se noi riguardassimo, cognosceremmo
+questo signore essere Idio Padre e il servo che dar dovea i cento
+talenti essere ciascheduno uomo: e perch$e possibile non ci era
+pagare il debito, mand@o di cielo in terra il Figliuolo, il quale
+con la sua passione e morte ne liber@o da cos@i ponderoso debito. 
+E noi poi, mal grati di tanta grazia, non ci possiamo, n$e ci
+lasciamo, recare a' conforti di coloro che saviamente ne
+consigliano a perdonare alcuna ingiuria, quantunque menoma, l'uno
+all'altro: di che egli avviene che, privati d'ogni nostro bene,
+siamo per giudicio di Dio gittati in casa il diavolo.
+
+	Ma, quantunque l'uno pecchi meno che l'altro, di queste
+tre maniere d'iracundi, nondimeno tutte offendono gravemente
+Idio, s@i nel non aver saputo porre il freno della temperanza agli
+$empiti loro, e s@i per la ragione detta di sopra, e s@i ancora per
+avere avuto in dispregio il comandamento di Dio, dove nello
+^Evangelio~ dice: <^Michi vindictam et ego retribuam~>.  E per
+questo nell'ira sua divenuti e in quella morti, quello ne segue
+che poco davanti si disse, cio@e che, dannati, siam mandati al
+supplicio, il quale l'autore ne discrive.
+
+	@E nondimeno questo vizio spesse volte non solamente per
+lo futuro supplicio dannoso molto all'iracundo, ma ancora nella
+vita presente.  Ercule, adirato e in furor divenuto, uccise
+Megera, sua moglie, e due suoi figliuoli; e Medea, adirata,
+similemente due suoi figliuoli di Giansone acquistati, uccise;
+Etiocle, re di Tebe, in singular battaglia contro a Pollinice,
+suo fratello, discese; Atreo diede tre suoi nepoti mangiare a
+Tieste, suo fratello; Aiace Telamonio, il quale non avean potuto
+vincere l'armi troiane, vinto dall'ira, se medesimo uccise;
+Amata, moglie del re Latino, veduta Lavina, sua figliuola,
+divenuta moglie d'Enea troiano, turbata, si mise il laccio nella
+gola e divenne misero peso delle travi del real suo palagio;
+Anibale cartaginese, chiaro per molte vittorie, per non poter
+sofferire di venire alle mani de' Romani, radomandantilo al re
+Prusia, incontro a s$e adiratosi, preso volontariamente veleno, si
+mor@i.
+
+	Che bisogna racontarne molti?  con ci@o sia cosa che
+manifesto sia l'ira, poi che il consiglio della ragione ha tolto
+dell'uomo, col furor suo molti n'abbia gi@a in misera e
+detestabile ruina condotti; li quali, come che in questa vita e
+seco medesimi e con altrui crudelmente si trattino, ne mostra
+l'autor nell'altra non esser meglio dalla giustizia trattati,
+mostrandone loro essere nella palude di Stige, torbida di fetido
+fango e orribile per lo suo fervore e per lo fummo continuo, il
+quale da essa continuamente essala, tuffati e pieni d'abominevole
+fastidio, e in quella non solamente con le mani lacerarsi, ma
+ancora con la testa e con ciascuno altro membro fieramente
+percuotersi e co' denti mordersi e troncarsi le persone e
+stracciarsi tutti.
+
+	Sotto la corteccia delle quali parole, mescolando il
+moral senso, spettante a noi che vivi siamo, con lo spirituale,
+il quale a' dannati apartiene, si pu@o vedere il dannoso costume
+degli iracundi in questa vita e la gravosa pena de' dannati
+nell'altra.  Il percuotersi con la testa, col petto e co' piedi
+niuna altra cosa @e che un disegnare gl'impeti furiosi degli
+iracundi, quando dal focoso accendimento dell'ira sono incitati.
+
+	Possiamo nondimeno intendere per la testa dell'iracundo i
+pensieri, gli intendimenti, le diliberazioni dell'iracundo, tutti
+posti e dirizati dietro al disiderio della vendetta: e questo,
+per ci@o che nella testa consistono tutte le virt@u sensitive
+interiori e ancora le 'ntellettive, dalle quali sono formate le
+predette cose.  E per ci@o che nel petto consistono le virt@u
+vitali e le nutritive, dobbiam sentire co' petti offendersi gli
+iracundi, non l'un l'altro, ma se medesimi; in quanto, quando
+molto si pon l'animo intorno all'effetto d'alcun disiderio, non
+si prende da colui, che cos@i @e occupato, n$e la quantit@a del cibo
+usata, n$e ancora con l'ordine consueto, per che conviene che la
+vert@u nutritiva sia intorno al suo uficio talvolta molto
+impedita; dal quale impedimento seguita la deboleza e il
+diminuimento delle virt@u vitali: e cos@i, mentre che l'iracundo
+con tutto il suo disiderio sta inteso a doversi dell'ingiuria
+ricevuta vendicare, offende pi@u se medesimo che 'l nemico.  E
+cos@i ancora per li piedi dobbiamo intender le affezioni di
+qualunque persona; per ci@o che, s@i come i piedi portano il corpo,
+cos@i le affezioni menano l'animo e sono guida di quello: e per
+ci@o che tutte le affezioni dell'iracundo sono pronte e
+inchinevoli a dovere nuocere a colui o a coloro contro a' quali @e
+adirato, dice qui l'autore gl'iracundi co' piedi offendersi.
+
+	Il troncarsi coi denti le carni e levarsele con essi a
+pezo a pezo @e efficacissima dimostrazione di quanta potenzia sia
+lo impeto di questo vizio, poich$e non solamente offusca lo
+'ntelletto e la ragione nell'adirato, ma ancora il priva del
+senso corporale.  Il che se non fosse, basterebbe all'adirato
+l'aversi morso una sol volta, per ci@o che il dolore ricevuto di
+quella il farebbe rimanere di pi@u volte mordersi: dove noi
+possiamo avere udito e veduto essere stati alcuni di tanta e s@i
+furiosa ira accesi che, in se medesimi, non potendo quel che
+disideravano, come cani rabbiosi rivoltisi, co' denti troncarsi
+le propie carni delle mani e delle braccia e poi sputarle.
+
+	E questo medesimo ancora sono stati di quegli che,
+avendone il destro, hanno adoperato nelle persone state odiate da
+loro: s@i come ne scrive Stazio, nel suo ^Thebaidos~, di Tideo,
+amico di Pollinice, il quale, sentendosi essere stato fedito a
+morte da uno chiamato Menalippo, con furia domand@o d'averlo, e
+ultimamente, non senza gran zuffa e morte di molti, essendo stato
+Menalippo nel mezzo della battaglia preso e menato dinanzi da
+lui, al quale poca vita restava, come un cane rabbiosamente co'
+denti gli si gitt@o addosso e in questo bestiale atto, pi@u che
+umano, mor@i egli e uccise il nemico.
+
+	L'essere in quella padule fitti, la qual dice calda, nera
+e nebulosa e piena di loto, assai ben si pu@o comprendere la
+tristizia esser causativa dell'ira, per ci@o che, se quelle cose
+che avvegnono delle quali l'uomo s'adira, se esse non ci
+contristassono, senza dubbio noi non ci adireremmo, e cos@i per
+l'essere contristati ci adiriamo: e perci@o, acci@o che i miseri
+iracundi sieno nel vizio loro medesimo puniti e afflitti e per
+quello senza pro riconoscano s$e dovere avere con pazienzia
+schifata la tristizia, donde la loro ira nacque, in questa padule
+di Stige, la quale @e interpetrata <tristizia>, demersi bollono e
+in continua ira, in danno di se medesimi, come dimostrato @e,
+s'accendono.
+
+	L'essere la padule calda e nera e nebulosa ne pu@o assai
+ben dimostrare le tre qualit@a degl'iracundi, delle quali di sopra
+@e detto: intendendo per la caldeza del pantano la qualit@a
+degl'iracundi, la qual dissi subitamente accendersi, e ci@o
+procedere dall'omor collerico, il quale @e caldo e secco.  Per la
+nebula del padule possiamo intendere l'altra qualit@a
+degl'iracundi, la qual dissi lungamente servare l'ira acolta, ma
+poi per lungheza di tempo a poco a poco risolversi, s@i come
+veggiamo che le nebule de' pantani, state quasi salde e intere
+per buona parte del d@i, pure alla fine si risolvono e tornano in
+niente.  La terza qualit@a degl'iracundi, li quali dissi non
+solamente non lasciar mai l'ira presa, ma quella, convertita in
+odio, mai non dimettere senza aver presa vendetta dell'offesa, la
+quale gli pare aver ricevuta, e ci@o procedere da complession
+malinconica, cio@e terrea, si pu@o intender per la nereza del
+pantano, in quanto la terra di sua natura @e nera, e la
+interpetrazion del nome della malinconia si dice da <^melan~>,
+^grece~, il quale in latino suona <nero>.  E questi cotali
+malinconici son sempre nell'aspetto chiusi, bubbi e oscuri, per
+che assai paion conformarsi al colore del padule.
+
+	O vogliam dire queste tre propriet@a, le quali l'autor
+discrive esser di questa padule, dover significare tre propriet@a
+degl'iracundi, cio@e: per la nereza la tristizia; per la nebula la
+caligine dell'ignoranzia, la quale l'ira para dinanzi agli occhi
+dello 'ntelletto, e cos@i non pu@o, offuscato, vedere quello che
+sia da fare; e per lo caldo il furor dell'iracundo nel quale
+s'accende.  Per lo loto, nel quale sono imbrodolati e brutti
+tutti, possiamo intendere la soza e fetida macula, la quale l'ira
+mette nelle menti di qualunque ad essa vincere si lascia, e
+ancora per gli effetti di quella, li quali maculano e bruttano
+ogni onesta fama.
+
+	|117-126.  Accidia.~
+
+	Resta a vedere del vizio opposito all'iracundia, il quale
+in questa medesima padule di Stige si punisce con gl'iracundi,
+cio@e l'accidia.  Alla quale rimuovere delle menti umane, assai
+cose ne sono dalla natura delle cose mostrate, oltre agli
+ammaestramenti datine dalla filosofia e dagli uomini virtuosi:
+ma, se ogni altra cosa dinanzi dagli occhi del nostro intelletto
+e de' corporali levata ne fosse, assai forza dovrebbe avere, al
+sospignerci ad esser ne' tempi debiti in continuo essercizio, il
+riguardare la bruna schiera delle formiche, piccolissimi animali,
+nel tempo estivo.
+
+	La quale, se noi ogni cosa vorremo attendere, senza avere
+n$e astrolago o altro maestro, senza vedere albero o prato
+fiorito, senza salire in alcun luogo rilevato a considerare se
+incerate son le biade ne' campi, o altra qualit@a di tempo, come
+talvolta fanno i navicanti, dentro dalla sua cava standosi,
+cognosce quando la state ne viene, e quando sono le semente
+mature, e in quali contrade si ricolgano; e allora, purgata la
+via e aperta l'uscita della sua cava, la quale per ventura le
+piove del verno e' piedi degli animali aveano riturata a piena
+schiera tutte escon fuori e, senza guida alcuna, tutte si
+dirizano all'aie, dove i lavoratori le biade segate ragunano e
+battono e mondano, e a' granai, ne' quali quelle ripongono, e a
+qualunque altro luogo per li campi fosser per ventura ristrette:
+e quivi, ottimamente dalla lor natura ammaestrate, discernendo
+dalla paglia le granella, quello che possono prendono; e, volti i
+passi loro, sollicitamente, senza aver chi le stimoli o solliciti
+altri che se medesime, con quel che preso hanno, ritornano alla
+lor tana; e quello salvamente riposto, senza alcuna
+intermessione, quanto il sole sta sopra la terra, ritornano al
+cominciato uficio.  N$e son contente d'un sol d@i essersi faticate,
+ma, mentre il caldo dura, ciascuna mattina col sole levandosi,
+ritornano al loro essercizio; mostrando assai bene, in quello,
+essere a loro manifesto quello nel verno non potere operarsi, s@i
+per le piove continue e s@i perch$e quello che la state truovano in
+molte parti, e presto @e aperto loro, quello il verno troverebbono
+in poche, e serrato; avvedendosi ancora che, se cos@i
+nell'abondanza della state fatto non avessono o non facessono,
+convenirle di verno perire di fame.
+
+	La qual cosa sanamente riguardata non dubito che a
+ciascuno non prestasse utile dimostrazione contro all'oziosit@a e
+contro al porre indugio alle cose oportune e a dovere, quanto @e
+per lo corpo, s@i adoperare nella nostra fervida et@a, cio@e nella
+giovaneza, che poi, vegnendo nella fredda e impotente vecchieza,
+si potesse senza vergogna e senza stento aspettar l'ultimo
+giorno, quando a Dio piacesse mandarlo: e, oltre a ci@o, per la
+futura vita s@i, mentre prestato n'@e nella presente vita,
+adoperare che, vegnendo il freddo della morte, noi possiamo avere
+lieto e glorioso luogo intra' beati, e non esser gittati nella
+morte perpetua dello 'nferno, dove sar@a pianto e stridor di
+denti.
+
+	Ma, per ci@o che l'adormentato intelletto di molti, n@e per
+disciplina, n$e per sollicitudine, n$e per utili essempli non si
+pu@o destare n$e inducere da alcuni stimoli a volere la fatica, la
+solerzia, il discreto essemplo del piccolo animale non che
+imitare, ma pur riguardare, avviene spesso che questi cotali in
+questa vita vegnono in estrema miseria e nell'altra tuffati
+bollono nella padule di Stige, come nel presente canto ne
+discrive l'autore.
+
+	E, acci@o che pi@u chiaramente si comprenda che vizio
+questo sia, e per conseguente meglio ce ne sappiamo guardare, ed,
+oltre a ci@o, pi@u leggiermente vedere quello che voglia l'autor
+sentire per la pena loro attribuita dalla divina giustizia, dico
+ch'@e l'accidia: secondo che nel III dell'^Etica~ mostra ad
+Aristotile di piacere colui essere accidioso, il quale dove
+bisogna non s'adira, dicendo essere atto di stolto il non
+adirarsi, dove e quanto e in quel che bisogna, per ci@o che pare
+che questo cotale non abbia sentimento d'uomo, e per@o di nulla
+cosa s'attristi, e cos@i non essere vendicativo; e aggiugne che
+sostenere lo 'ngiuriante e il non avere gli amici in prezo sia
+atto servile.
+
+	Della qual sentenzia considerata bene la cagione, credo
+n'aparir@a ogni altra cosa che all'accidioso s'attribuisce dover
+nascere e venire.  Che dobbiam noi credere altro di questa
+rimession d'animo dell'accidioso se non quella procedere da un
+torpore, da una vilt@a, da una oziosit@a di mente, per le quali
+esso senza turbarsi sostiene le 'ngiurie?  Se ci@o avvenisse per
+umilt@a, o per essere obbediente a' comandamenti di Dio, come
+molti santi uomini hanno gi@a fatto, non potrebbe per@o senza
+alcuna perturbazion d'animo essere avvenuto; per ci@o che non pu@o
+vittoria seguire, dove il nemico non @e comparito e dove battaglia
+non @e stata; e noi diciamo i santi uomini essere stati vittoriosi
+nelle passioni.  Turbasi adunque il santo e savio uomo quante
+volte vede o ode in s$e o in altrui dire o operare quello che n$e
+dire n$e operare si convegna; ma prima ch'egli lasci tanto avanti
+la perturbazione procedere, che ad atto di peccato potesse
+pervenire, con umilt@a e con buona pazienza vince la turbazione e,
+di questa, vittoria merita.
+
+	Ma l'accidioso non @e cos@i; per ci@o che non per vert@u, ma
+per cattivit@a @e paziente, e tutto dimessosi per la vilt@a
+dell'animo suo all'ozio, in tutti i suoi pensieri, in tutte le
+sue meditazioni s'attrista, ognora divenendo pi@u vile, in tanto
+che la sua vita, quasi non fosse vivo, trapassa; e in essa
+dolorosa non @e cosa alcuna, quantunque menoma, la quale esso
+s'attenti di cominciare; e, se pure tanto lo 'nfesta la necessit@a
+che egli alcuna ne cominci, nel cominciamento medesimo invilisce,
+s@i che le pi@u volte intralasciatala, non la conduce alla fine. 
+Il tempo freddo il ratrappa, il caldo il dissolve, il giorno gli
+@e noioso e la notte grave; ciascheduna ora, e in qualunque
+stagione, ha in s$e, al giudicio del pigro, alcuno impedimento
+intorno alle cose che occorrono da fare, e cos@i il tempo nuvolo e
+'l sereno.  La cura familiare sempre gli peggiora tra le mani;
+non visita, non sollicita le possessioni sue, non i lavoratori di
+quelle, non i servi, e l'essergli di quelle i frutti diminuiti
+non se ne cura per traccutanza.  Alle publiche cose non ardirebbe
+di salire, alle quali se pur sospinto fosse per li meriti d'alcun
+suo, come uno adormentato si starebbe in quelle; il letto, le
+notti lunghissime e i sonni, non pi@u corti che quelle, gli sono
+graziosissimo e disiderabile bene: la solitudine, le tenebre e il
+silenzio prepone ad ogni dilettevole compagnia.  Ma postponendo
+gli atti morali e alquanto parlando degli spirituali, non visita
+gl'infermi, non visita gl'incarcerati, non soviene di consiglio
+a' bisognosi, non visita la chiesa, non onora il corpo di Cristo
+per non trarsi il cappuccio all'usanza di Fiandra, non si
+confessa a' tempi, non prende i sacramenti, non dispone n$e i
+fatti dell'anima n$e quegli del corpo.
+
+	Ma che molte parole?  L'uomo si potrebbe stendere assai,
+volendo pienamente racontare ogni parte di questa miseria: ma,
+per ci@o che disutile @e la materia, in poche conchiudendo le molte
+parole, dico che la vita dell'accidioso @e, quanto pi@u pu@o,
+simigliante alla morte.  @E nondimeno questo vizio origine e
+cagione di molti mali: di costui nasce non solamente povert@a, ma
+indigenzia e miseria, nella quale rognoso, scabbioso, bolso,
+malinconico e pannoso si diviene; nasce ancor da costui afflizion
+d'animo, odio di se medesimo e rincrescimento di vita; nascene
+ignoranza di Dio, vilipension di virt@u, perdimento di fama e
+moltitudine di pensieri vani, tiepideza di spirito, prolungazion
+d'opere e fastidio general d'ogni bene, e, ultimamente, dopo la
+trista vita, eterna perdizion dell'anima.
+
+	E per ci@o che tutti gli atti di coloro, li quali sono da
+questo vizio occupati, sono freddi, torpenti e rimessi, e in
+quanto possono, nascosi e occulti, gli fa assai convenientemente
+l'autore stare nascosi e riposti, senza potere esser veduti, nel
+fangoso fondo della misera padule bogliente, nera e nebulosa; e
+in quella gorgogliare con la gola piena del fastidio di quella e
+piagnere e senza pro dolersi della vita trista e negligente, la
+quale menarono: volendo per questo s'intenda primieramente, per
+lo calor della padule, il calor della divina ira, il quale, s@i
+come contrario alla freddeza del lor peccato, gli tormenta e
+punisce in gravissimo e intolerabile dolore.
+
+	E per l'essere la padule nera vuol s'intenda la tenebrosa
+lor vita e la oscurit@a delle loro opere, delle quali mai in luce
+alcuna non aparve.  E per questo ancora vuole loro stare tuffati,
+sotterrati e occulti sotto l'onde, acci@o che si comprenda loro
+nella presente vita non essere per alcuna loro operazione stati
+conosciuti.
+
+	L'essere la padule nebulosa, o fummosa, che vogliam dire,
+ha a dimostrare la caligine della ignoranzia, dalla quale furono
+offuscati gli occhi dello 'ntelletto loro, li quali mai riguardar
+non vollono s$e essere uomini nati ad essercizio laudevole, e non
+a detestabile ozio; l'avere la stroza piena di fango e
+gorgogliare, in quali cose il lor misero adoperare si faticasse,
+il quale in alcuna altra cosa non si distese se non in pensieri e
+in meditazioni malinconiche, le quali sono di natura terree, e,
+s@i come grosse e fastidiose, hanno ad oppilare i meati della
+chiareza del suono della laudevole fama, della quale niente
+curano gli accidiosi.

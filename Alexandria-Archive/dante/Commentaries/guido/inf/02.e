@@ -1,0 +1,652 @@
+	|Proemio.~  ^Incipit secundus cantus prime cantice
+Comedie.~  In isto secundo cantu autor prohemizat ad istam primam
+singulariter Comediam.  Nam ponit hic quod gratie supernaturales
+et virtutes celestes de sua salute gerebant in celo solicitam
+valde curam.  Unde una ipsarum, descendens in Limbum, rogavit
+Virgilium ut in succursum eius pergat, et Inferni sibi penas
+ostendat.
+
+	In isto cantu secundo continentur quatuor comparationes
+{*vv. 37-39; 48; 109-111; 127-132*}, una questio {*vv. 82-83*} et
+unum notabile {*88-90*}.
+
+	|Deductio textus de vulgari in latinum~.
+
+	Postquam in superiori cantu ad iter suum persequendum
+preparatum autor se ostendit iamque inibi iter arripiens, in isto
+secundo horam sue progressionis per hec verba describit: <Lo
+giorno se n'andava, et l'aer bruno>.  Hoc est: In mei processus
+initio lux diurna vergebat, et per consequens aer nocturnis
+{^Br.~ nocturnus} nebulis caligatus animalia ab eorum laboribus
+removebat.  Veruntamen ego solus ad tolerandum {^Br.~
+tollerandam} guerram pietatis et gressus me siquidem exponebam,
+quam mens nequaquam a veritate exorbitans figurabit.  Et quia
+nunc habet ardua et difficilia enarrare, divinum implorans
+auxilium ait ita: O musa, o sublime ingenium michi suffragium
+ministrate.  O mens etiam que scripsisti omnia per me visa, hic
+tua nobilitas patefiet.  Facta itaque invocatione, ut poetarum
+moris est, ad Virgilium se convertit.  O poeta, inquiens, qui me
+ducis, meam virtutem intuere si est valens, antequam ad iter
+arduum me secures.  Dicis enim quod Silvii parens, dum {^Br.~
+cum} adhuc corruptibilis foret, ad immortale seculum sensibiliter
+penetravit.  Ideoque si adversarius omnis mali sibi extitit
+curialis, altum effectum premeditans ex eodem prosilire debentem,
+nequaquam homini intelligenti videtur indignum.  Quia ipse Silvii
+genitor, alme urbis suique imperii in celo fuit empyreo
+preelectus.  Que et quod ad veritatem volendam exprimere, pro
+loco sancto stabilita fuere ubi Petri maioris successor assistit
+in trono.  De isto itinere unde ipsum laudibus dignum facis, ni
+mirum quidam intellectui demandavit, que sue causam victorie
+contulerunt, ac etiam ammanti papalis.  Iterum illuc vas
+electionis descendit, ut illi fidei robur adiceret et referret,
+que principium ad viam salutis existit.  Sed ego cur vel ad quid
+illuc descenderem et venirem, aut quis hoc concedendo permittit? 
+Ego certe nec sum Eneas, nec Paulus, ac dignus ad hoc nec ego nec
+alius certe credit.  Propter quam causam, si ad veniendum me
+imprudenter expono, incautum, trepido, meum fore processum. 
+Itaque, quia prudens, quam eloquar longe melius intus legis.
+
+	Veruntamen quare autor et qualiter a primo proposito sit
+mutatus, sic exemplificando declarat cum subdit: Et qualis est
+ille cui displicet quicquid velle proposuit, et pro novo
+arbitratu resiliens a primo proposito totaliter se evellit, talem
+in illa obscura costa me reddidi, quia novo superveniente
+cogitatu consumavi, idest explevi, et ad finem deduxi id quod in
+principio tam velociter apprehendi.  Audiens autem magnanimus
+Maro autoris propositum immutatum, ait illi: Si bene percipio
+verba tua, anima tua pusillanimitate gravatur, que quidem
+pusillanimitas multotiens taliter invadit hominem, quod ipsum ab
+honorata inceptione revolvit, sicut falsus aspectus revolvit
+bestiam umbre causa trepidantem.  Et ut ab isto timore te solvas,
+tibi mei adventus causam reserabo, et etiam illud quod intellexi
+in puncto primo quo tibi fui certe compassus.  Eram enim inter
+illos qui suspensi consistunt, et una domina me vocavit, taliter
+curialis et pulcra quod ipsam ut michi preciperet requisivi. 
+Lucebant enim sui oculi plus quam faciat una stella, et incepit
+michi dicere suaviter atque plane, cum angelica voce, iuxta sue
+locutionis ritum: O curialis anima mantuana, de qua in mundo
+adhuc fama perviget, et tam diu certe durabit quam diu motus, hoc
+est celorum revolutio, creditur permansurus, amicus meus siquidem
+et non fortune adeo in deserto est litore prepeditus quod, timore
+perterritus, ab itinere resilivit.  Et quod ita non sit devius,
+reformido quod tarde ad eius non surrexerim nunc succursum, per
+ea que de ipso in celo auditu percepi.  Itaque iter arripias et,
+tuo ex polito sermone, ac cum omni eo quod ad sue vite evasionem
+necessarium esse cernis, ipsum iuva taliter quod ex inde valeam
+consolari.  Ego enim sum Beatrix, que tibi ut vadas suadeo. 
+Venio de loco ad quem gestio remeare.  Pietas me movit, que
+quidem pietas me ad loquendum compellit.  Quando in Domini mei
+conspectum rediero, me sibi de te laudabo frequenter.  His autem
+prelibatis Beatrix verbis, silentium posuit et poeta respondit: O
+domina, inquit, virtutis per quam solummodo humana species omne
+quod continetur, ab illo celo videlicet qui minoris ambitus
+circulos habere perhibetur, excedit, tantum michi tuum
+gratificatur mandatum, quod mea, etiam si tarda, obedientia
+foret.  Ulterius nichil dicere opus est nisi ut michi tuam
+aperias voluntatem.  Sed michi causam manifesta, cur tibi non
+caves in hunc centrum descendere ab illo loco, videlicet, ad quem
+redire festinas.  Cui illa respondit: Postquam ad tam profunda
+penetrare desideras, brevi tibi sum affamine responsurus cur huc
+declinare non titubo.  Timenda sunt enim illa solummodo que
+possunt inferre alicui nocumenta; e contra de aliis, nam
+formidabilia non existunt.  Ego enim a Deo, sua benignitate,
+facta sum talis quod nec vestra miseria me contingit, nec huius
+flamma incendii me invadit.  Domina siquidem nobilis est in celo,
+que ex impedimento ad quem removendum te micto [^sic~]
+compatitur, adeo quod durum iudicium frangit illam.  Istam Luciam
+sua petitione petivit et dixit eidem: Modo tuus fidelis eget tui,
+et ego tibi eum fideliter recommendo.  Itaque Lucia, cuiuscumque
+inimica crudelis, se movit et ad locum ubi eram pervenit, que cum
+antiqua Racchele sedebam, et ait: O Beatrix, vera divina laus,
+cur non illi succurris, qui te adeo predilexit quod a vulgari se
+comitiva subtraxit?  Nonne tu audis sui gemitus pietatem?  Nonne
+etiam vides mortem in ipsum insultantem super flumina
+fluctuantia, adeo quod ipsorum comparatione mare nichil esse
+videtur?  Quibus auditis, dico tibi Virgili quod nunquam in mundo
+persone adeo fuere ad eorum utilitatem et profectum velociter
+operandum, nec ad eorum damnum celeres evitandum, sicuti me ipsum
+celerem post hec reddidi que fuere narrata.  Hucque de meo trono
+beato delapsa perveni, de tua confidens morali honestaque
+facundia, que te non modo, verum illos etiam qui eandem
+intellectui demandarunt.  Postquam vero Beatrix suis sermonibus
+finem fecit, Virgilius referendo prosequitur dicens: Cumque
+Beatrix predicta na[r]rasset, oculos avertit lacrimando lucentes. 
+Cuius siquidem lacrimatu solertius in tuum presidium anelavi.  Et
+sicut illi placuit, ad te veni et ab illius bestie te conspectu
+seposui, que pulcri cachuminis tibi surripuit iter breve.  Ergo
+quid habes?  Cur, cur immobilis permanes atque fixus?  Cur tantam
+in corde congeris vilitatem?  Cur audaciam securitatemque non
+habes?  Postquam tales tres domine benedicte in aula celesti tui
+vigilem curam habent, et tantum tibi boni mea spondet oratio?
+
+	Ad hec autem fuit autor a secundo proposito totaliter
+immutatus ad primum, dicens quod quemadmodum flosculi sive flores
+a nocturno gelu declinati et clausi, postquam a sole fuerint
+calefacti, erigunt in eorum stipitibus se apertos, talem utique
+se reddidit in sua fessa virtute et tantum bone audacie suo in
+corde resumpsit, quod sicut audax et proba persona fuit ipsum
+Virgilium taliter allocutus: O piam -- sup[p]le dico -- illam que
+meo succursui properavit et te curialem -- sup[p]le dico, -- qui
+verbis veracibus tibi ab eadem directis rapido cursu obtemperare
+maluisti.  Tu quidem adeo tuis orationibus cor meum cum desiderio
+ad iter concitasti neglectum, quod primum propositum iam
+resumpsi.  Procede nunc igitur, nam amborum una solummodo est
+voluntas.  Tu dux, tuque dominus, tu magister.  Quasi dicat: Tu
+dux ad ducendum et ego sequar, tu dominus ad precipiendum et ego
+obediam, tu magister ad docendum et ego adiscam.  Quod audiens,
+Virgilius statim iter arripuit, et Dantes secutus est eum.  Ideo
+ait in textu:
+
+     intrai per lo cammino alto et silvestro.
+
+                        (^Inf.~ II. 142)
+
+	|1-2.  Lo giorno se n'andava.~  Hic ponit autor quod
+totam diem in ambulando per silvam et in preliando cum feris
+consumpsit, et qualiter incipiente nocte iter suum initiavit. 
+Ideo dicit: <et l'aer bruno / tolleva li anima' {^Br.~ animali}
+che sono in terra / da le fatiche loro>.  Quia omnia animalia in
+die, sicuti homo, laborantia, nocte quiescunt.  Et videtur
+sumptum de nono ^Eneydorum~ libro, ubi sic dicitur:
+
+     Cetera per terras omnes animalia somno
+     laxabant curas et corda oblita laborum:
+     ductores teucrum primi, delecta iuventus,
+     Consilium regni summis de rebus habebant.
+
+                        {^Aeneid~ IX. 224-227 (^adapted~)}
+
+	|3-6.  Et io sol uno,~ idest ego solus inter homines otio
+et negligentia vacantes, me preparabam ad tot et tales labores
+diversimode tolerandos.  Ideo dicit: <m'apparecchiava a sostener
+la guerra / s@i del cammino et s@i de la pietate, / che ritrarr@a la
+mente che non erra>.  Hoc est, ego me preparabam, idest paratum
+exhibebam, ad labores non solummodo corporales verum etiam
+animales: in corpore, dico, quantum ad itineris asperitatem, eo
+quod asperum et pericolosum iter erat; in mente vero, sive in
+anima, quantum ad penarum diversitatem, eo quod diversa ac varia
+penarum tormenta conspexi, que quidem ad pietatem et
+misericordiam me movebant.  Nam semper pietas ad misericordiam
+commovetur.  Quod autem dicit: <che ritrarr@a la mente>, etc., sic
+intellige: Mens mea, que visiones prefatas tenaciter adnotavit,
+easdem forma poetica explicabit, et quia multa ardua inspidaque
+conspexit, immediate Musarum implorat suffragium, ut ipsarum
+adiutorio melius suam queat retexere visionem.
+
+	|7.  O musa, o alto 'ngegno, or m'aiutate.~  More
+poetarum, in sue narrationis principio invocat iste Musas.  Ubi
+nota quod, sicut legitur in quadam glosa super libro ^Eneydorum,~
+ad poetam spectant tria, scilicet invocare, narrare, et invenire. 
+Invocant enim divinum adiutorium, sine quo <nullum rite fundatur
+exordium>, ut ait Boetius, libro ^De Consolatione~ {^Cons.~ III.
+pr. 9.104}.  Narrant enim res gestas, sicut narravit Virgilius
+gesta Enee, Lucanus gesta Cesaris et Pompei, et Statius gesta
+septem regum qui Thebas obsiderunt.  Inveniunt, idest fabulas ex
+veris gestis et fictis componunt.  Unde beatus Ysidorus, VIII
+libro ^Ethymologiarum~ {Cf. ^Etym.~ VIII. vii. 10} ait: Officium
+poete in eo est ut ea, que vere gesta sunt, in alias speties
+obliquis figurationibus cum decore aliquo conversa transducant. 
+Iste itaque autor et invocat Musas et narrat res gestas, et multa
+fabulosa pulcra et venusta compositione componit et fingit.
+
+	|10-11.~  Quia, secundum Aristotilem, actus activorum
+sunt in patiente disposito, ideo Dantes scire voluit a Virgilio
+utrum ipse esset ita dispositus ad sequendum, ut erat ipse
+Virgilius ad ducendum et precedendum. 
+
+	|13-15.~  Licteram sic construe: O Virgili, tu dicis quod
+pater Silvii, dum adhuc esset corruptibilis, idest dum adhuc
+viveret in mortali corpore, ivit ad seculum immortale, hoc est ad
+Infernum, in quo vivunt anime immortales; et hoc iter sensibile
+fuit, non per visionem vel ymaginationem.  Iste pater Silvii fuit
+Eneas, qui ex Lavinia uxore sua, filia Latini regis, habuit
+filium, qui dictus est Silvius Postumus.  Dictus est enim Silvius
+quia in silvis natus fuit; postumus vero, quia post mortem patris
+natus.  Unde omnes qui nascuntur post mortem patrum postumi
+vocantur.  Et fuit iste Silvius Postumus tertius rex Latinorum,
+et ab isto omnes reges latini Silvii denominati sunt.  Ubi nota
+quod de stirpe Troyanorum regnaverunt in Ytalia XV reges antequam
+Roma esset.  Quorum nomina sunt ista: primus Eneas, qui
+edificavit Lavinium; secundus Ascanius, ipsius Enee filius ex
+uxore sua Creusa, qui Albam condidit; tertius Silvius Postumus,
+filius Enee ex Lavinia; quartus Silvius Latinus, frater Silvii
+Postumi; quintus Silvius Eneas, filius Silvii Postumi; sextus
+Silvius Alba, filius Silvii Enee; septimus Silvius Achis; octavus
+Silvius Capis; nonus Silvius Carpentus; decimus Silvius
+Tiberinus, a quo fluvius qui transit per Romam dictus est
+Tyberis, quia in eo mortuus est; qui quidem fluvius prius
+dicebatur Albula; undecimus Silvius Agrippa; duodecimus Silvius
+Aremulus; tertius decimus Silvius Aventinus, a quo unus ex septem
+montibus qui sunt intra muros urbis dicitur Aventinus, quia iste
+Silvius Aventinus ibi est mortuus et sepultus; quartus decimus
+Silvius Procas; quintus decimus Silvius Amulius.  Huius Silvii
+Amulii fuerunt nepotes Romulus et Remus, qui Romam edificaverunt. 
+Isti enim sunt XV reges de stirpe Troyanorum, qui regnaverunt in
+Ytalia per CCCCLII annos, antequam Roma edificaretur.  Ante quos
+regnaverant in ipsa Ytalia quinque reges, per annos circiter CL. 
+Primus fuit Ianus, qui edificavit Ianuam.  Huic Iano gentiles
+omnem introitum et exitum sacraverunt; unde Lucanus: <Ferrea
+belligeri compescat limina iani> {^Phars.~ I. 62}.  Huic etiam
+Iano primus mensis a Romanis consecratus est, scilicet Ianuarius. 
+Secundus fuit Saturnus, pater Iovis, qui iuxta Ianiculum
+saturninum fecit.  Tertius fuit Picus; quartus fuit Faunus;
+quintus vero Latinus, pater Lavinie, que fuit uxor Enee.
+
+	|16-24.  Per@o, se l'aversario d'ogni male,~ idest: Si
+Deus curialis fuit ipsi Enee, |pensando l'alto effecto~ /
+|c'uscir dovea di lui, e 'l chi e 'l quale~ / |non pare indegno
+ad omo d'intellecto~; quia {^Br.~ quod} ipse Eneas fuit in
+empireo celo electus pater urbis et imperii; |la quale e 'l
+quale,~ idest Roma et Imperium, |furono stabiliti per lo loco
+santo~ / |u' siede 'l successor del magior Piero.~  Maior Petrus
+est Christus, cui successit Petrus, et Petro succedunt alii pape.
+
+	|25-27.~  Di quest'andata onde li dai tu vanto,~ /
+|intese cose che furon cagione~ / |di sua victoria et del papale
+ammanto.~  Sicut enim scribit Virgilius, sexto libro ^Eneydorum,~
+Eneas, duce Sibilla, descendit ad inferos, et ibi pater suus
+Anchises ei demonstravit quomodo de stirpe sua urbs alma debebat
+oriri, que esset caput mundi et totius etiam mundi imperium
+obtineret.  Unde Virgilius:
+
+     En huius, nate, auspitiis illa inclita Roma
+     Imperium terris, animos equabit Olimpo.
+     Septemque uno {Text has ^una~} sibi muro circumdabit arces.
+
+                        {^Aeneid~ VI. 781-783}
+
+	Ideo dicit autor: <intese cose che furon cagione / di sua
+victoria et del papale ammanto>.  Hic ponit utramque potestatem
+romanam, temporalem scilicet et spiritualem.
+
+	|28-30.  Andovi poi lo Vas d'electione,~ idest beatus
+Paulus apostolus.  Legitur enim in quodam libro, licet apocripho,
+quod beatus Paulus fuit ductus per angelum ad Infernum.  Et
+assignat hic autor causam dicens: <per recarne conforto a quella
+fede / ch'@e principio a la via di salvatione>.  Et bene dicit
+fidem esse principium salvationis, quia sine fide impossibile est
+Deo placere, ut dicit Apostolus.  Et licet sit principium, non
+tamen salvat hominem sine operibus bonis.  Unde idem Apostolus:
+<Fides sine operibus mortua est> {^Epistola Beati Iacobi~ 2.26}. 
+Et beatus Iacobus in canonica sua: <Credis Deum, bene facis; nam
+et demones credunt et contremiscunt> {^ibid.~ 2.19}.  Quasi
+dicat: Si sine operibus fidem habes, ita salvaberis sicut demon.
+
+	|31-32.~  Quasi dicat: O poeta, duo homines leguntur ad
+inferos cum corporibus descendisse, Eneas scilicet, duce Sibilla,
+et apostolus Paulus, duce angelo.  Sed istis duobus ideo
+concessum fuit, quia primus fundator esse debebat Romani Imperii,
+secundus vero summus doctor Ecclesie.  Primus, idest Eneas, vidit
+in Inferno qualiter et quomodo fundare debebat imperium; secundus
+vero, scilicet Paulus, vidit penas quas peccatoribus predicabat. 
+Sed ego neque Eneas sum, neque apostolus Paulus; et ideo vellem
+scire unde michi conceditur, et a quo.  Respondit ei Virgilius,
+et dicit unde veniat quod ad inferos possit secure descendere,
+ibi: <S'i' @o ben la parola tua intesa> {*v. 43*}.
+
+	|37-39.~  ^PRIMA COMPARATIO.~  Lictera est plana.
+
+	|48.~  ^SECUNDA COMPARATIO.~  |Com'a falso veder bestia
+quand'ombra.~  Sicut enim bestia, cum obumbratur, habet falsum
+videre, sic anima, cum timida efficitur, timet ea que timeri non
+debent, et tunc timor ipsam animam ab honorabili revolvit
+incepto.
+
+	|58.  O anima cortese mantovana.~  Nota quod Virgilius
+fuit de Mantua, que est in provincia Lombardie.  Unde Ovidius:
+
+     Mantua Virgilio gaudet, Verona Catullo.
+
+                        {^Amores~ 3.15.7}
+
+	Ideo Beatrix ait: <O anima curialis de Mantua>.  Et facit
+hic tria: Primo, Virgilii benivolentiam captat, cum dicit: O
+anima curialis, cuius fama adhuc durat in mundo, et adhuc durabit
+quantum durare debet motus primi mobilis, idest celi.  Ubi nota
+quod laudes et fame damnatorum, licet fuerint boni, sapientes et
+virtuosi, non usque ad diem erunt novissimam durature.  Unde
+Sacra Scriptura: Laus impiorum peribit, beatorum autem laudes et
+fame in perpetuum consistent.  Unde Sacra Scriptura: Iusti autem
+in perpetuum vivent.  
+
+	|61.~  Secundo, causam quare ad inferos descenderit
+exprimit, ibi: |L'amico mio et non de la ventura.~  Et bene dicit
+Dantem esse amicum suum et non fortune, quia illi qui sunt amici
+Dei, inimici sunt mundi, cuius regnum fortuna gubernat.  Unde
+beatus Apostolus: <Qui voluerit esse amicus huius mundi, inimicus
+Dei constituetur> {^Ep. Beati Iacobi~ 4.4}.  Fortuna enim quos
+Deus diligit odit, et quos Deus odit ipsa diligit e converso. 
+Unde quedam glosa super Evangelium Iohannis: Suscipit Christus
+quos eicit mundus, Et psalmista: <Quoniam pater meus et mater mea
+dereliquerunt me, Dominus autem assumpsit me> {^Ps.~ 26.10}. 
+
+	|67.~  Tertio, auxilium suum implorat, ut scilicet in
+auxilium amici sui pereuntis vadat, ibi: |Or muovi, et con la tua
+parola ornata~, etc.
+
+	|76-80.~  Sic construe licteram: O domina, propter cuius
+virtutes solummodo humana natura excedit omnia que continentur ab
+illo celo quod habet sub se minores circulos.  Celum enim
+stellatum continet intra se omnes circulos, qui quidem dicuntur
+minores respectu circulorum superiorum.  Omnes autem istos
+circulos minores, et omnia que continentur ab eis, humana natura
+excedit solum propter beatitudinem ad quam participandam et
+percipiendam fuit a Deo creata.  Et Beatrix huius beatitudinis
+typum gerit.
+
+	|82-83.~  ^QUESTIO~ est ista: <Ma dimmi la cagion che non
+ti guardi / de lo scender qua giuso in questo centro>, etc.  Hic
+movet Virgilius unam questionem Beatrici.  Questio autem talis
+est: Ponatur quod unus beatus descendat in Infernum, nunquid
+sentiet ibi penam?  Respondit {^Br.~ respondet} Beatrix Virgilio
+et dicit quod homo debet timere solummodo illa que habent nocendi
+potentiam.  Penam autem Inferni nullus beatus timere potest, quia
+est a Deo in beatitudine confirmatus.  Et similiter ubicunque est
+damnatus, est in damnatione.  Et sic tenendum est quod, si
+sanctus Petrus descenderet in Infernum, quod nullam penam ibi
+sentiret; et si unus damnatus, permissione divina, in celum
+ascenderet, quod non sentiret ibi aliquid de gloria, sed
+solummodo penam suam.  Unde in libro Iob {^Iob.~ 1.6} legitur
+quod dum quadam die assisterent filii Dei, idest angeli, ante
+Deum, affuit inter eos et Sathan; qui quidem, licet esset ante
+Deum, non de minus damnatus erat, ut est.  Et ideo bene beatus
+ait Anselmus: Quilibet debet magis eligere in Inferno esse sine
+culpa quam in Paradiso cum culpa; quia in Inferno innocens non
+sentiret penam, et peccator in Paradiso de gloria non gauderet.
+
+	|88-90.~  ^NOTABILE.~  In isto notabili nos autor admonet
+quod illa timere solummodo nos debemus que possunt inferre
+aliquid nocumentum.  Illa vero que nocere non possunt nullatenus
+timere debemus.  Nam fortitudo, que est una ex quatuor virtutibus
+cardinalibus, hoc habet proprium, quod nec ad nimiam audaciam nec
+ad pusillanimitatem aliquatenus se extendit.  Stat enim ista
+virtus fortitudinis inter ista duo extrema, scilicet inter
+audaciam nimiam et pusillanimitatem vecordem.  Ipsa vero ad ista
+extrema non tendit, sed audenda audet, et non audenda non audet. 
+Similiter, et timenda timet et non timenda non timet.  Et sic
+patet secundus cantus prime cantice Comedie. 
+
+	|94.  Donna @e gentil nel ciel che si compiagne.~  Hic
+ponitur a Beatrice quod in Paradiso sunt tres domine, que de
+Dante pereunte solicitam curam habent, quarum ultima, que fuit
+ipsa, descendit in Limbum rogans ipsum Virgilium ut in succursum
+properet pereunti.  Prima domina non habet nomen, quod patet ibi
+per textum: <Donna @e gentil nel ciel che si compiange>, etc. 
+Secunda vocatur Lucia, quod patet ibi: <Questa chiese Lucia in
+suo domando> {*v. 97*}, etc.; et ibi:
+
+     Lucia, nimica di ciascun crudele,
+     si mosse, et venne al loco dov'io era, etc.
+
+                        (^Inf.~ II. 100-101)
+
+	Tertia vero dicitur Beatrix, quod patet ibi: <I' son
+Beatrice che ti faccio andare> {*v. 70*}.  Prima, que est sine
+nomine, movit sua oratione Luciam; Lucia, mota ab ista prima,
+movit Beatricem; Beatrix vero, a Lucia sic mota, descendit in
+Limbum et movit Virgilium; et sic Virgilius motus in auxilium
+venit ei.  Ad quorum omnium evidentiam est sciendum quod nos non
+possumus beatitudinem celestem acquirere nisi habeamus in nobis
+tria, ut simus scilicet spirituales, quia, teste Apostolo,
+animalis homo non percipit que Dei sunt.  Et Christus ait Petro:
+Spiritus quidem promptus est, caro autem infirma.  Sed quia sine
+virtutibus spirituales esse non possumus, ideo oportet nos
+virtutibus adornari.  Est enim virtus, teste Ysidoro, cultus
+divinitatis et eterne beatitudinis meritum.  Cuius sunt quatuor
+partes principales, que designantur per quatuor Paradisi flumina:
+prudentia, fortitudo, iustitia, et temperantia.  Quarum virtutum
+diffinitio, secundum Ysidorum {cf. ^Etym.~ II. xxiv. 6 ff.},
+talis est: Prudentia est rerum divinarum humanarumque prout
+homini datum est scientia, per quam intelligitur quid cavendum
+sit, vel quid faciendum.  Et hoc est quod in Psalmo legitur:
+Diverte a malo et fac bonum.  Fortitudo est animi prudentia et
+longanimitas et perseverantia in operibus bonis et victoria
+contra vitiorum genera.  Iustitia est animi nobilitas, unicuique
+rei propriam tribuens dignitatem.  In hac divinitatis cultus et
+humanitatis iura et iusta iudicia et equitas totius vite
+conservatur.  Temperantia est vite modus, ne quis homo nimis amet
+vel habeat odio; sed omnes huius vite varietates considerata
+temperet diligentia.  Virtuosi autem esse non possumus sine
+ratione, quia homo carens ratione est velut animal brutum.  Unde
+Tullius, in primo libro ^De Natura Deorum~ {I. xl. 110}; Beatus,
+inquit, esse sine virtute nemo potest, nec virtus potest sine
+ratione constare.  Et hunc ordinem possumus in mundi cursu
+respicere.  Currit enim mundus ab initio sui usque ad finem per
+tria tempora: primum tempus dicitur tempus ante legem, et istud
+tempus duravit a creatione primi hominis usque ad Moysen;
+secundum dicitur tempus sub lege, et istud tempus duravit a Moyse
+usque ad Christum; tertium tempus dicitur tempus gratie, et istud
+durat a Christo usque ad finem mundi.  In primo tempore dedit
+Deus homini legem rationalem et naturalem, ut que vellet sibi
+fieri alteri irrogaret; et que sibi fieri respueret, alteri
+nequaquam inferre moliretur.  Et de hac lege habetur in Psalmo:
+Signatum est super nos lumen vultus tui, Domine {^Ps.~ 4.7}.  In
+secundo tempore dedit legem, que consistit in duobus, scilicet in
+declinare a malo et facere bonum, que duo virtutes superius
+posite plenissime nos edocent.  In tertio vero tempore dedit
+legem evangelicam, que docet nos temporalia et carnalia
+relinquere, et spiritualibus inherere.  Prima igitur lex ducit
+nos ad rationem, secunda ad virtutes, tertia vero ad spiritum. 
+Et ideo oportet quod primo simus rationales, secundo virtuosi, et
+tertio spirituales.
+
+	Et secundum istum modum iste poeta summus suam Comediam
+in tres canticas dividit et distinguit.  In prima enim ducit eum
+Virgilius, qui ponitur pro ratione.  In secunda, licet Virgilius
+eum associet, tamen Cato, qui ponitur pro virtute, qua mediante
+servus de servitute ad libertatem progreditur, sibi viam
+ostendit, et sine sua licentia ratio ulterius non procedit.  In
+tertia vero cantica ducit eum Beatrix, que ponitur pro vita
+spirituali et scientia sacre theologie, que docet quod qui facit
+peccatum servus est peccati, qua servitute per virtutes
+liberamur, et sic liberati in Dei filios adoptamur.  Et est
+Beatrix una ex illis tribus dominabus que de eo solicitam curam
+habere dicuntur in celo.  Ubi nota, tu devote Lucane, qui
+informari virtutibus concupiscis et gratiis protegi celestibus
+optas, quod Dantes in se ipso assummit personam hominis
+penitentis, hominis dico de peccato exire volentis, ad virtutes
+hanelantis, et ex hoc beatitudinem celestem habere sperantis. 
+Sed ad hoc ut peccator recte exeat de peccato et ad Deum
+totaliter se convertat, indiget tribus gratiis, scilicet gratia
+preveniente, gratia illuminante, gratia cooperante.  Primo dico
+quod indiget gratia preveniente, sine qua bene et recte non
+possumus penitere.  Sed quia nescimus unde veniat ista gratia,
+ideo prima domina, que signat istam gratiam, non habet nomen. 
+Non enim scire possumus unde veniat quod homo, existens in actu
+vel voluntate peccandi, a divina gratia preveniatur, quia tunc
+gratia divina non venit ad hominem propter merita sua; et hoc
+apparet in beato Paulo apostolo, qui dum iret, summa autoritate
+Iudeorum munitus, ad persequendum {^Br.~ prosequendum} et
+capiendum illos qui invocabant nomen Christi, dum appropinquaret
+Damascum subito circumfulsit eum lux de celo, que eum totaliter
+ab actu et voluntate persequendi {^Br.~ prosequendi} retraxit, et
+huius nominis quod prius persequebatur, predicatorem effecit. 
+Unde Ananie ait Dominus: Vas electionis est michi iste, ut portet
+nomen meum coram regibus et principibus et filiis Israel {^Actus
+Apostolorum~ 9.15}.  Et quia ista gratia primo venit ad hominem
+quam homo illam suis meritis mereatur, ideo gratia preveniens
+appellatur.  Secundo indiget gratia illuminante, sine qua
+nescimus quid agere debeamus; et ista secunda gratia signatur per
+secundam dominam, que vocatur Lucia, que ipso nomine demonstrat
+gratiam illuminantem sive proficientem.  Et ista gratia etiam in
+Apostolo apparuit, qui postquam fuit a Deo in terram
+p{*r*}ostratus et lumine oculorum privatus, in quo apparuit
+gratia preveniens, tribus diebus et tribus noctibus non
+manducavit neque bibit; et tunc a Deo plenissime illuminatus fuit
+in evangelica lege.  Unde ipse ait: Neque ab homine accepi illud,
+neque didici, sed per revelationem Iesu Christi {^Ep. ad Galatas~
+I. 12}.  Et quia ista gratia in viam mandatorum Dei nos dirigit,
+ideo gratia illuminans nominatur; et quia illuminat, ideo sub
+nomine Lucie ponitur ab autore.  Tertio indiget gratia cooperante
+sive consumante, quia quantumcunque simus illuminati et bene
+sciamus quid agere debeamus, tamen ad bene operandum debiles et
+pigri atque tardi, ut plurimum, sumus.  Unde Dominus ait
+discipulis suis: Servus sciens voluntatem domini sui et non
+faciens, plagis vapulabit multis {cf. ^Lucas~ 12.47}.  Sine
+gratia enim cooperante sive consumante, nullum opus perfectum
+possumus operari.  Ideo in Evangelio ait Iesus discipulis suis:
+Sine me nichil potestis facere.  Et ista tertia gratia signatur
+per tertiam dominam, que vocatur Beatrix, que suo nomine gratiam
+cooperantem demonstrat; quia non gratia preveniens nec gratia
+illuminans, sed gratia cooperans efficit nos beatos.  Multi enim
+fuerunt et preventi et illuminati, et tamen dannati.  Istam etiam
+tertiam gratiam se habuisse Apostolus manifestat cum ait: Omnia
+possum in eo qui me confortat.  Igitur, cum ista sit illa gratia
+sine qua homo beatificari non potest, ideo ab autore hic ponitur
+sub nomine Beatricis.
+
+	Adhuc nota, Lucane, quod prima gratia facit hominem exire
+de vitiis et ad virtutes accedere; secunda facit proficere de
+virtute in virtutem; tertia facit transire de miseria ad gloriam.
+De prima ait Exechiel propheta: Exite de medio Babilonis {cf.
+^Isaias~ 48.20}.  De secunda ait psalmista: Ibunt de virtute in
+virtutem {^Ps.~ 83.8}.  De tertia idem immediate: Videbitur Deus
+deorum in Syon.  Sub figura istarum trium gratiarum dixit Moyses
+ad Pharaonem: Ibimus viam trium dierum ut sacrificemus Domino Deo
+nostro {cf. ^Exodus~ 5.17}.  Primus dies est peccata relinquere;
+secundus, virtutes adipisci et in eis proficere; et tertius, de
+hac miseria ad gloriam transfretare.  Et tunc offertur verum
+sacrificium Deo, cum anima suo sponso perpetuo in illa vera
+requie copulatur.
+
+	Hec etiam tres gratie figuraliter continentur sub
+triplici phase idest pascate, quod celebraverunt filii Israel ab
+exitu de Egypto usque ad introitum terre promissionis.  Nam illud
+festum quod ebrei vocant phase, nos christiani vocamus pasca. 
+Mandaverat enim Dominus Moysi, ut habetur in libro Numeri
+{^Numeri~ 9.2}, quod omni anno filii Israel celebrarent phase in
+memoriam quod egressi erant de Egipto, et ipsi ab exitu de Egipto
+usque ad terre promissionis ingressum per annos quadraginta non
+celebraverunt nisi tria phase.  Quod ideo, permissione illius qui
+mandaverat, non fuit nisi ter celebrandum, ut esset figura istius
+triplicis transitus spiritualis.  Egyptus enim significat mundum
+et peccata; desertum significat penitentiam et bonam operationem;
+terra vero promissionis significat Paradisum.  Et sicut filii
+Israel non poterant terram promissionis intrare nisi transirent
+per desertum, et desertum intrare non poterant nisi de Egypto
+exirent, sic et nos non possumus vitam beatam habere nisi per
+bonam et virtuosam operationem.  Operationes autem bonas operari
+non possumus nisi exiverimus de Egypto.  Oportet, ergo, ut tres
+transitus sive saltus, unum post alium, faciamus: primus
+transitus est exire de Egypto, idest de vitiis, et in desertum
+ire, idest virtuosas operationes operari; secundus, per desertum
+ire, idest de virtute in virtutem proficere; tertius, terram
+promissionis intrare, idest per bona opera que facimus vitam
+eternam sperare.  Horum autem transituum et harum gratiarum
+figuram continent illa tria phase que celebrata sunt a filiis
+Israel ab exitu de Egypto usque ad terre promissionis introitum,
+ut dictum est.  Primum nanque phase celebraverunt in finibus
+Egypti, circa Ramasse, ut habetur Exodi, XII+o~ capitulo
+{^Exodus~ 12.37}.  Secundum celebraverunt ad radicem montis
+Sinay, secundo anno egressionis, ut habetur Numeri, nono capitulo
+{^Numeri~ 9.1}.  Et ex tunc intermissum fuit usque ad ingressum
+terre promissionis, ut habetur Iosue, quinto capitulo {^Iosue~
+5.10}.  Et tunc in introitu terre sancte celebraverunt tertium
+phase.  Iste itaque tres solemnitates phase significant istos
+tres transitus, quos facere nequimus sine tribus gratiis superius
+nominatis, quibus indigemus ab exitu de Egipto usque ad introitum
+terre sancte.  Primo nanque ut exeamus de Egypto, idest de
+vitiis, indigemus gratia preveniente.  Secundo, ut possimus per
+desertum ire et ibi non deficere, idest de virtute in virtutem
+proficere, indigemus gratia illuminante, sive proficiente, que
+est velut manna a Domino pluens; quo manna in deserto penitentie
+anima ne deficiat sustentatur.  Tertio, in introitu terre sante,
+que beatam patriam prefigurat, indigemus gratia cooperante sive
+consumante.
+
+	Et secundum istam triplicem divisionem gratie, sua
+Comedia dividitur in tres partes: In prima nanque parte, dum
+autor tractat de Inferno, prima gratia excludit eum a vitiis et
+exire facit.  In secunda, dum tractat de Purgatorio, secunda
+gratia facit eum proficere de virtute in virtutem.  Et ideo in
+introitu Purgatorii apparuit sibi in visione Lucia, in figura
+unius aquile auree, que secundam gratiam prefigurat.  In tertia
+vero parte, dum tractat de Paradiso, tertia gratia facit eum
+transire de miseria ad gloriam, et ideo, lustrato paradiso
+terresti [^sic~], Beatrix cum septem nimphis ad eum descendit et
+per se solam ad celestia ipsum vehit.  Sed postquam vidimus istas
+tres gratias in utroque sacre pagine testamento figuraliter
+contineri, videamus quid Sancta Mater Ecclesia sentiat de eisdem. 
+Sancta enim Ecclesia primam et tertiam gratiam omni die implorat
+in hora prime, dicens: Actiones nostras [quaesumus] quas Domine
+aspirando preveni et adiuvando prosequere, ut cuncta nostra
+oratio et operatio a te semper incipiat, et per te cepta
+finiatur, per Christum Dominum nostrum.  Et in dominica XVII post
+Trinitatem: Tua nos, Domine, gratia semper et preveniat et
+sequatur, ac bonis operibus iugiter prestet esse intentos.  Et de
+hiis duabus gratiis ait beatus Augustinus: Gratia prevenit ut
+velimus, subsequitur ne frustra velimus.  Sed quia, positis
+principio atque fine, intelligitur medium, ideo secundam gratiam
+quotidie implorat in psalmo dicens: Illumina oculos meos ne
+unquam obdormiam in morte {^Ps.~ 12.4}.
+
+	|102.  Che mi sedea con l'antica Racchele.~  Cum Racchele
+uxore Iacob Beatrix sedere se dicit, quia beatitudo nil aliud est
+quam contemplari Deum, et per Racchelem vita contemplativa, sicut
+per Liam sororem suam activa vita signatur.  Habuit enim
+patriarca Iacob duas uxores que erant ambe germane, ut legitur
+Genesis, XXVIIII+o~ capitulo {^Genesis~ 29.27}.  Una dicebatur
+Lya, que erat lippis oculis; altera dicebatur Racchel, que erat
+pulcra facie et venusto aspectu.  Iste due uxores Iacob, secundum
+expositiones doctorum, duas vitas in ecclesia significant:
+activam scilicet et contemplativam.  Lia significat primam,
+scilicet vitam activam; Rachel vero secundam, scilicet vitam
+contemplativam.  Iste enim sunt due sponse veri nostri Iacob,
+idest Christi, ex quibus duabus uxoribus generat in Ecclesia suos
+filios.  Nam omnes filii Dei aut nascuntur ex vita activa aut ex
+contemplativa.  Vita activa est servire alteri in operibus
+misericordie, que opera sunt X: primum est cibare famelicum,
+secundum potare sitibundum, tertium vestire nudum, quartum
+hospitari peregrinum, quintum redimere captivum, sextum visitare
+infirmum, septimum sepelire mortuum, octavum ieiunare pro
+mortuis, nonum elemosinam dare pro eis, decimum orare pro ipsis. 
+Et de his decem operibus accipe duos versus:
+
+     Colligo poto, cibo, redimo, tego, visito, condo,
+     et vice defuncti ieiuno largior oro.
+
+	Spectant etiam ad vitam activam predicare, evangelizare,
+confessiones audire, et omnia alia tam spiritualia quam
+temporalia, in quibus invenitur utilitas proximorum.  Vita vero
+contemplativa est omnia relinquere et soli Deo vacare.  Sed nota
+quod in hoc mundo utraque vita vivit; in celo vero vita activa
+moritur, et efficitur contemplativa.  Non enim in celo datur
+indumentum, quia nullus est ibi nudus; non cibus, quia nullus ibi
+famelicus; et sic de aliis.  Et ideo cum sola Rachele sedet
+Beatrix, quia in contemplando Deum beatus quilibet requiescit.
+
+	|105.  C'usc@i per te de la volgare schiera.~  Amore
+adipiscende beatitudinis homo sapiens de scientiis secularibus
+exit et studio sacre theologie intendit.  Unde dicit: qui exiit
+propter te de vulgari acie, idest propter amorem tuum scientias
+liberales omisit, et philosophiam et alias scientias universas,
+que ideo vulgares dicuntur, quia vulgi famam et gloriam
+consequuntur.  Non enim reputantur in vulgo nisi qui vel
+philosophi vel medici fuerint, aut iudices.  Et ideo tales, quia
+vulgi famam habent, mundi gloriam, idest pecuniam, apprehendunt. 
+Scientia vero sacre theologie nec mundi gloriam querit, nec
+marsupia proximorum vacuare intendit.  Solum enim querit illum in
+quo sunt omnia que possunt satiare hominis appetitum; cetera
+vero, preter ipsam famem, potius quam satietatem inducunt.  Et
+hoc considerans, Augustinus aiebat: Si Deus universa que habet
+michi daret, non me satiaret nisi se ipsum dare promitteret
+{^Sermo~ CLVIII, cap. VII (^Pat. Lat.~, vol. 38, p. 865)}.  Et
+idem: Inquietum est cor nostrum donec in te requiescat.  Et ideo
+bene dicit Ieronimus: Vana est omnis scientia in qua non queritur
+Christus.
+
+	|109-111.~  ^TERTIA COMPARATIO.~  In hac comparatione
+notatur quam sit liberalis et curialis animus diligentis.  Ille
+enim qui vere diligit alium, statim quod audit vel cernit
+necessitatem amici, sine tarditate aliqua currit velociter ad
+succursum.  Unde beatus Augustinus: Sufficit, inquit, amanti
+solummodo nuntiare.
+
+	|127-132.~  ^QUARTA COMPARATIO.~  Nos videmus quod omnes
+flores, preter florem cucurbite, in nocte propter gelu
+clauduntur, et in die propter calorem aperiuntur.  Dicit ergo
+autor quemadmodum flores a gelu nocturno inclinati et clausi, ad
+calorem solis aperiuntur et eriguntur, ita ego, qui prius timore
+et desperatione in animo cecideram, ad verba Virgilii exurrexi. 
+Et ideo ait: <Io cominciai come persona franca: O pietosa colei
+chemmi soccorse>, etc. 

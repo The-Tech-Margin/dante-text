@@ -1,0 +1,80 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id LAA16885
+	for <steve@avalon.dartmouth.edu>; Mon, 30 Nov 1998 11:14:43 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id LAA24116
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 30 Nov 1998 11:14:43 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 45269 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68234-29096>; Mon, 30 Nov 1998 11:13:35 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id LAA00514
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 30 Nov 1998 11:13:02 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup12.Princeton.EDU [128.112.71.12])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id LAA11468
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 30 Nov 1998 11:12:55 -0500 (EST)
+Message-ID: <3662C423.54366F7C@princeton.edu>
+Date: 	Mon, 30 Nov 1998 11:13:23 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: Boccaccio
+X-Priority: 3 (Normal)
+References: <199811291913.OAA13757@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> I've taken care of the "Table of Contents" problems and the duplicated
+> text in Boccaccio.  Here's a suggestion. As it is now, the text of
+> these tables of contents gets displayed as continuous text. See for
+> example Boccaccio document number 54. It looks like this:
+> 
+> |Table of Contents of the Esposizione Allegorica.~  {|a. Oscurit@a
+> della
+> poesia~} {|b. Sensi allegorici~} {|i. Sonno (vv. 10-12)~} {|ii.  Sonno
+> mentale
+> (10-12)~} {|iii.  Via smarrita (v. 3)~} {|iv.  Ravedimento (v. 2)~}
+> {|v. Mezzo
+> della nostra vita (v. 1)~} {|vi.  Selva oscura (vv. 4-7)~} {|vii.
+> Mattino
+> (vv. 37-43)~} {|viii.  Colle e sole (vv. 13-18)~} {|ix.  Perch@e cessa
+> la
+> paura (vv. 19-21)~} {|x. Le tre bestie (vv. 31-60~} {|xi.  Virgilio
+> (vv.
+> 61-87)~} {|xii.  Veltro (vv. 101-111)~}
+> 
+> Wouldn't be better to have it formatted like this:
+> 
+> |Table of Contents of the Esposizione Allegorica.~
+> {|a. Oscurit@a della poesia~}
+> {|b. Sensi allegorici~}
+> {|i. Sonno (vv. 10-12)~}
+> {|ii.  Sonno mentale (10-12)~}
+> {|iii.  Via smarrita (v. 3)~}
+> {|iv.  Ravedimento (v. 2)~}
+> {|v. Mezzo della nostra vita (v. 1)~}
+> {|vi.  Selva oscura (vv. 4-7)~}
+> {|vii.  Mattino (vv. 37-43)~}
+> {|viii.  Colle e sole (vv. 13-18)~}
+> {|ix.  Perch@e cessa la paura (vv. 19-21)~}
+> {|x. Le tre bestie (vv. 31-60~}
+> {|xi.  Virgilio (vv. 61-87)~}
+> {|xii.  Veltro (vv. 101-111)~}
+> 
+> If so, let me know and I will set that up for the new load.
+> 
+>                                                                 Steve
+
+You are ABSOLUTELY right: the second way is much better.  The only
+problem for ALL these separated Table of Contents pages in Bocc's
+Espositione Allegorica is this one: How will a user come upon them if he
+is doing anything else but scrolling through the entire comm.?  Have you
+got a bright idea how we could call them to user's attention?
+
+All for now, Bob

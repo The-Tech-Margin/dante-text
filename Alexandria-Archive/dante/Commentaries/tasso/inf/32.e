@@ -1,0 +1,152 @@
+	|1.~ |(ed.  Rosini)~
+^Chiocce~, roche.  [Da Fino]
+
+	|3.~ |(ed.  Rosini)~
+Rocce, coste.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+Impresa ^da~, non ^di~.  [Sessa]
+
+^Gabbo~, guoco.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+Il Landino dichiara questo verso cos@i: ^Scrivere fondo, cio@e 
+oscuramente a tutto l'universo, a tutti gli uomini~; e il Vellutello: 
+^Descrive, poetando oscuro a tutto l'universo~.  Il Tasso v'ha apposto: 
+^Non l'intendono~.  [Sessa]
+
+	|9.~ |(ed.  Rosini)~
+Putto.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+^Quelle donne~, Muse.  [Da Fino]
+
+	|13.~ |(ed.  Rosini)~
+Traditori.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+^Duro~, aspro.  [Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+Me' ...  zebe.  [richiamo marginale]
+	Il Landino, chiosando il verso 16 e seguenti, accenna i quattro minori 
+cerchi, in cui Dante parte il nono, e Torquato ivi pone questa 
+annotazione: <Pare che il secondo (cio@e contro la patria) sia pi@u 
+grave del terzo o del quarto rompimento di fede (cio@e contro gli 
+amici) e per ci@o che l'Antenora dovesse almeno esser sotto la 
+Tolommea>.  [Sessa]
+
+^Zebe~, capre.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+Diacciato.  [Da Fino]
+
+	|25-27.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+^Austericch~, Austria.  [Da Fino]
+
+	|28-29.~ |(ed.  Rosini)~
+^Tabernicch~, ^Pietrapana~, nomi.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+^Cricch~, nome finto dal suono.  [Sessa]
+
+^Cricch~, strepito alcuno.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+^Spigolare~, raccoglier le spighe.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|36.~ |(ed.  Rosini)~
+Battendoli.  [Da Fino]
+
+	|38.~ |(ed.  Rosini)~
+Vedendosi l'alito e le lacrime.  [Da Fino]
+
+	|46-48.~ |(ed.  Rosini)~
+Energia.  [Sessa]
+
+	|49.~ |(ed.  Rosini)~
+Spranga.  [richiamo marginale] [Sessa]
+
+Comparazione.  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+^In noi ti specchi~, ci guardi.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+^Fue di loro~.  La regola vorrebbe, che si dicesse: ^fue loro~, ma 
+precedendo alla prima voce, a cui si d@a il segno del caso, si deve 
+anche dare alla seconda.  [Sessa]
+
+	|60.~ |(ed.  Rosini)~
+Traslazione, essendo in quel loco.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Rotto il petto e l'ombra~.  Dice ^l'ombra~, perch@e il Sole passando 
+per il petto, e riuscendo per le reni, fa sparir l'ombra.  [Sessa]
+
+	|61-63.~ |(ed.  Rosini)~
+Istorie.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+Scagioni.  [richiamo marginale] [Sessa]
+
+Essendo egli tanto empio, ch'io non sar@o cos@i reputato.  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+^Rezzo~, ombra.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+Eppur cammin@o sovra i golosi!  [Sessa]
+
+	|87.~ |(ed.  Rosini)~
+^Rampogni~, riprendi.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+Di non esser nominato.  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+^Lagna~, noja.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Lama~, valle.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+^Cuticagna~, capelli.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+^Tomi~, tormenti.  [Da Fino]
+
+	|104.~ |(ed.  Rosini)~
+Come gli tirava i capelli, se questi corpi sono intangibili, come 
+appare di sotto in Casella?  [Sessa]
+
+	|105.~ |(ed.  Rosini)~
+^Latrando lui~.  Il gerundio col quarto caso.  [Sessa]
+
+	|115.~ |(ed.  Rosini)~
+Perch@e fu corrotto da loro con danari.  [Da Fino]
+
+	|120.~ |(ed.  Rosini)~
+^Gorgiera~, gola.  [Da Fino]
+
+	|126.~ |(ed.  Rosini)~
+Un capo sopra l'altro.  [Da Fino]
+
+	|127.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|129.~ |(ed.  Rosini)~
+^Nuca~, collottola.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+^Per tal convegno~, con questo patto.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+

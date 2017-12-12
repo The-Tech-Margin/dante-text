@@ -1,0 +1,549 @@
+	|Proemio.~  1-12.  CANTO E SOSPIRO.  Nel vedere lo
+strazio del Carro-Chiesa, le 7 ninfe, figuranti le virt@u
+teologali e cardinali, cominciano a cantare alternamente con
+espressione dolce, ma non senza lagrime di dolore, i versetti di
+un salmo; e B. le ascolta sospirando e con faccia atteggiata a
+piet@a; poi, fattasi in volto rossa come fuoco, risponde
+annunziando vicino il rimedio ai mali da quelle deplorati.
+
+	13-78.  COLLOQUIO PER VIA TRA D. E B.  ANNUNZI PROFETICI
+DI B. CIRCA LA CHIESA E L'IMPERO E UNA MISSI0NE A D. IN PRO DEI
+VIVENTI.  Per volere di B. tutti s'allontanano dall'albero in un
+ordine analogo a quello della processione: precedono le sette
+ninfe coi candelabri; poi viene B.; ultimi Dante, Matelda e
+Stazio.  Dopo pochi passi, B. invita amorevolmente D. a farsele
+pi@u vicino: potr@a cos@i intender bene ci@o ch'ella gli dir@a.  D. la
+obbedisce, ed ella gli chiede perch@e non le faccia alcuna
+domanda.  D., tutto compreso di timida reverenza e di vergogna,
+risponde <sanza intero sono> che ella conosce da s@e ci@o che a lui
+giova sapere.  B. lo incuora a deporre verso di lei ormai ogni
+timore e vergogna; poi soggiunge che Dio far@a presto vendetta
+dello strazio che la Chiesa subisce.  L'aquila avr@a un erede,
+cio@e sorger@a un imperatore, il quale, messo di Dio, uccider@a e la
+meretrice e il gigante che pecca con lei.  B. sa, e lo dichiara,
+di parlare oscuramente, ma i fatti prossimi chiariranno le sue
+parole.  D. se le imprima nella mente e le riferisca ai viventi
+per il loro bene, quando sar@a tornato tra loro.  E non taccia
+quello che ha veduto accadere all'albero, due volte derubato.  B.
+prosegue poi ragionando ancora di ci@o che si attiene alla pianta,
+in termini cos@i mal comprensibili per D., che ella stessa,
+avvedendosi di ci@o, conclude col dire che le basta che D. porti
+seco almeno un'immagine di quel che da lei @e stato detto.
+
+	79-102.  L'ULTIMO RIMPROVERO.  Il P. assicura prima B.
+che le parole di lei sono ormai stampate indelebilmente nel suo
+cervello; ma poi le domanda, perch@e ella parli in modo cos@i
+sublime che l'intelletto di lui non la pu@o seguire.  <Perch@e tu
+conosca> gli risponde B. <l'insufficienza di quella scuola alla
+quale ti sei dato, e comprenda quanto inferiore @e la sua alla mia
+dottrina>.  <Ma io non mi ricordo di essermi mai straniato da
+voi>.  <Non te ne ricordi perch@e oggi hai bevuto, e questo lo
+rammenti di sicuro, l'acqua di Let@e; ma codesta stessa
+dimenticanza @e prova della tua colpa.  Da questo momento per@o le
+mie parole saranno chiare quanto @e necessario, perch@e il senso
+loro sia prontamente colto dal tuo rozzo intelletto>.
+
+	103-145.  IL DOLCE BERE DELL'EUNO@E. D. PRONTO AD
+ASCENDERE AL CIELO.  @E imminente il mezzogiorno.  B., D.,
+Matelda, Stazio e le sette ninfe arrivano presso la sorgente
+comune del ^Let@e~ e dell'^Euno@e.~  D., maravigliato, chiede
+spiegazioni su quei due fiumi, e B. gli dice di chiederne a
+Matelda; ma questa osserva subito d'aver gi@a fornito a D. le
+dichiarazioni desiderate.  B. scusa benignamente il P. della
+momentanea dimenticanza; poi ordina alla ^bella donna~ di
+condurlo all'Euno@e e di ravvivare con l'acqua di questo la
+tramortita virt@u di lui.  Matelda eseguisce l'ordine. 
+Quell'acqua @e cos@i dolce che D. non si sazierebbe mai di berne. 
+Per la virt@u di essa egli finalmente si sente rinnovellato: @e
+ormai perfettamente ^puro e disposto a salire alle stelle~, cio@e
+al Par. celeste.
+
+	|1-2.  ^Deus~: <Deus, venerunt gentes in hereditatem
+tuam; polluerunt templum sanctum tuum; posuerunt Ierusalem in
+pomorum custodiam>; ^Ps.~ LXXVIII, 1.  D. opportunamente applica
+questo Salmo, in cui si piange la distruzione di Gerusalemme e
+del suo Tempio per opera de' Caldei e s'invoca la vendetta divina
+sui colpevoli, alle tristi vicende della Chiesa adombrate nelle
+figurazioni ultime del canto precedente.  |Or tre~ ecc.: <le 3
+[virtudi] diceano l'uno verso, e le 4 diceano l'altro verso con
+pianti e con canto>; ^Ott.~
+
+	|4-6.  Sospirosa e pia~: per compassione della Chiesa
+straziata.  |S@i fatta~: cos@i mutata in volto.  |Si cambi@o~: di
+colore e d'espressione, allorch@e vide il Figliuolo patire e morir
+sulla croce.
+
+	|7-9.  Dier... dir~: avendo le altre finito di cantare il
+salmo, diedero agio a lei di parlare.  |Come foco~: rossa in
+viso, perch@e accesa, nell'atto di farsi profetessa, di santo zelo
+di carit@a e anche di santa ira per le offese e i danni recati
+alla Chiesa di cui ella @e guardiana (^Purg.~ XXXII, 95).  <Cui
+plurimus ignem Subiecit rubor et calefacta per ora cucurrit>;
+Virg., ^Aen.~ XII, 65.
+
+	|10-12.  ^Modicum~ ecc.: parole di Cristo ai discepoli
+per annunziare la sua morte e la sua resurrezione: <Un poco, e
+non mi vedrete; e di nuovo un poco, e mi vedrete>; ^Giov.~ XVI,
+16.  Questi versi annunziano, nel 1300, in forma di profezia,
+probabilmente questo: che tra poco (1305) la Chiesa sar@a
+allontanata dalla sua sede, ma di l@i a un altro poco ricomparir@a
+nel posto suo, cio@e quando verr@a chi ne otterr@a la liberazione
+materiale e la purificazione morale, secondo che D. non solo
+sperava, ma riteneva per certo (vv. 34-45).
+
+	|15.  La donna e 'l savio~: Matelda e Stazio. 
+|Ristette~: rimase insieme con noi, quando V. s'allontan@o; cfr.
+^Purg.~ XXX, 49 sgg.
+
+	|17.  Decimo~: i 10 passi avranno un senso allegorico; ma
+quale?  cfr. ^Purg.~ XXIX, 81.  ^G. Manni~ ci vede un accenno ai
+10 comandamenti e alla loro osservanza, opportuno nel momento in
+cui sta per essere profetato <quanto castigo @e serbato a chi da
+quella osservanza allontanandosi, rovin@o il carro>; ^Lect. D.~,
+p. 11; per altri sarebbero figura dei 10 anni di esilio che non
+finiranno di passare prima che la Chiesa torni al posto suo,
+secondo le previsioni e sicure speranze del P. (Parodi, ^Bull.~
+XV, 35 sg. e XVI, 282).  Il vero @e che i passi non sono dieci, se
+stiamo, com'@e dovere, alle parole del P., ma non pi@u di nove e
+che ogni congettura sul loro valore simbolico rester@a sempre mera
+congettura.
+
+	|18.  Quando~ ecc.: allorch@e, guardandomi in viso,
+percosse (cfr. ^Purg.~ XXX, 40 sgg. e si noti la potenza
+dell'espressione) gli occhi miei col forte fulgore de' suoi.
+
+	|19-21.  Con tranquillo aspetto~: non pi@u severa e dura,
+come allorch@e gli rinfacciava i suoi traviamenti, ^Purg.~ XXX, 70
+sgg., n@e pi@u ^sospirosa e pia~ come test@e, mentre la ^dolce
+salmodia~ delle 7 donne deplorava le sciagure della Chiesa; e
+neppure accesa di santo zelo, come quando s'era poi drizzata in
+piedi a profetare `^Modicum~ etc.': oramai si sta avverando la
+profezia del v. 12.  |Vien~ ecc.: accelera il passo e vienimi a
+paro, sicch@e, se io ti parlo, tu possa udirmi bene.
+
+	|22-24.  Dovea~: non potendo disubbidire all'invito. 
+|Seco~: di fianco a B.  |Non t'attenti~: non ardisci.
+
+	|25-27.  Reverenti~: <Reverenza non @e altro che
+confessione di debita subiezione per manifesto segno>; ^Conv.~
+IV, viii, 11.  Se si pensa a ci@o di cui B. @e figura, si vede il
+perch@e di tanta reverenza.  |Viva~: forte, distinta.
+
+	|28-30.  Sanza intero sono~: sommessamente e poco
+distintamente, cio@e non con tutta la forza e chiarezza della voce
+mia naturale.  |Mia bisogna~ ecc.: che cosa mi @e necessario e ci@o
+che @e bene che voi mi diciate per provvedere a tali necessit@a.
+
+	|31-33.  Disviluppe~: disviluppi, liberi.  <Tema e
+vergogna (come nel canto XXXI, 13, ^confusione e paura insieme
+miste~) fanno un viluppo tra s@e, e avviluppano il sentimento e il
+pensiero, e quindi la parola di Dante>; ^Tom.~  |Com'om che
+sogna~: con parole sommesse e confuse, simili al borbott@io di chi
+parla sognando.  <Qualia non totas peragunt insomnia voces>;
+Stat., ^Theb.~ V, 543.  Cfr. Petrarca I, ^Son.~ XLI, 7 sg.;
+Tasso, ^Gerus.~ XIII, 30.
+
+	|34-35.  Il vaso~: il carro.  |Serpente~: il drago, di
+^Purg.~ XXXII, 130-135, che del carro trasse parte del fondo. 
+|Fu e non @e~: parole dell'^Apocalisse~ XVII, 8: <La bestia che
+hai veduta fu e non @e>.  Per D., il seggio papale in Avignone non
+era la cattedra di S. Pietro, n@e Bonifazio VIII e Clemente V
+successori legittimi di lui, ma usurpatori; cfr. ^Par.~ XXVII, 22
+sgg.  |Chi~: il gigante della fine del canto preced.  |Creda~: si
+persuada.
+
+	|36.  Suppe~: <qui [il Poeta] intromette una usanza
+ch'era anticamente nelle parti di Grecia in questo modo: se uno
+uccidea un altro, [e] egli potea andare nove d@i continui a
+mangiare una suppa per d@ie suso la sepoltura del defunto, n@e 'l
+Comune n@e i parenti del morto non faceano pi@u alcuna vendetta. 
+Ed usasi a Firenze di guardare per nove d@i la sepoltura d'uno che
+fosse ucciso, acci@o che non vi sia suso mangiato suppa>; ^Lan.~ 
+A questo uso superstizioso riferiscono il presente verso tutti
+gli antichi comm., anche se non senza qualche ragionevole dubbio,
+e il pi@u dei moderni.  Di certo il P. vuol dire, ed @e ci@o che pi@u
+importa, che <vendetta di Dio @e sicura da prescrizione>; Manni,
+^Lect. D.~, p. 16.  Per altre interpretazioni cfr. ^Comm. Lips.~;
+^Bull.~ XII, 282 e XXVI, 149 sgg.; ^Studi danteschi~ XII, 102
+sgg.
+
+	|37-39.  Reda~: erede; cfr. ^Inf.~ XXXI, 116 ecc. 
+L'Impero non sar@a per sempre (|tutto tempo~) vacante.  D. lo
+consider@o tale dalla morte di Federigo II fino all'elezione di
+Arrigo VII; cfr. ^Conv.~ IV, iii, 6.  |Lasci@o... carro~: cfr.
+^Purg.~ XXXII, 124 sgg.  |Per che~: per le quali penne (= beni e
+cure temporali) il carro prima si trasform@o in mostro, poi
+divenne preda del gigante; cfr. ^Purg.~ XXXII, 142 sgg.
+
+	|40-45.  Ch'io veggio~ ecc.: poich@e io vedo in Dio con
+tutta chiarezza e certezza, e per@o espongo la cosa apertamente,
+essere prossime a sorgere stelle che, libere da ogni contrasto ed
+ostacolo (|intoppo~ e |sbarro~) che ne possa arrestare l'azione,
+col loro influsso renderanno degno e conveniente il tempo loro
+alla venuta di un Messo di Dio, che uccider@a la meretrice ed il
+gigante.  |Un cinquecento~ ecc.: D. ha l'occhio anche qui
+all'^Apocalisse~ (XIII, 18), dove col numero 666 @e designato
+^Nerone~, per la ragione che si ha 666, se si scrive in lettere
+ebraiche ^Neron Cesar~ e si sommano i numeri rappresentati da
+queste lettere.  In Dante pare che l'espressione, volutamente
+enigmatica, possa valere `duce, capitano' in quanto le lettere
+del numero romano DXV sono le stesse della parola DVX = duce.  Il
+P. esprime pertanto, cos@i si @e pensato, la speranza in un ^duce~
+venturo, che sar@a ^reda~ dell'aquila, cio@e un imperatore, e che,
+come dice il ^Manni~, <fiaccher@a l'orgoglio sia della Curia,
+|fuia~, ladra dei diritti imperiali, e del re francese, gigante,
+che pecca con lei>.  E poich@e D. mostra di avere in mente un
+personaggio determinato, potr@a ben essere Arrigo VII, e la
+profezia sar@a stata scritta lui vivo; quell'Arrigo, a cui D.
+scriveva: <Rompi gli indugi, confida nel Dio degli eserciti alla
+cui presenza tu operi, e con la fionda della tua sapienza e con
+la pietra delle tue forze abbatti questo ^Golia~ [il re di
+Francia], morto il quale, ne' Filistei entrer@a la paura, in
+Israele la libert@a>.  La profezia purtroppo non si avver@o; ma ci
+fu un tempo in cui Arrigo parve veramente colui che avrebbe
+attuato quel che D. desiderava.  Molti identificarono il DXV col
+Veltro (cfr. ^Inf.~ I, 100-111), e dal ^Vell.~ in poi si @e
+opinato da parecchi che il DXV sia Cangrande della Scala. 
+^Ruggero della Torre~ consacr@o un grosso volume a dimostrare che
+D. allude a s@e stesso.  Alcuno ha voluto leggere ^Dante Xristi
+Vertagus~ o ^Domini Xristi Vertagus~ (= Veltro), oppure ^Domini
+Xristi Vicarius~, intendendo di un papa.  <Adhuc sub iudice lis
+est, e forse `semper erit'>.  Cfr. ^Comm. Lips.~ II, 801-817; e
+inoltre Moore, ^The DXV prophecy~ in ^Studies in Dante~, Third
+Series, pp. 253-83 (Oxford, 1903); ^Bull.~ XII, 194 sg.; E.
+Proto, ^L'Apocalisse nella D. C.~, Napoli, Pierro, 1905, cap. 5+o~
+(cfr. ^Bull.~ XIII, 37 sgg.); Parodi, ^Bull.~ XV, 30 sgg.; XVI,
+282 sgg. e ^Poesia e storia nella D. C.~, p. 454 sgg.; Manni,
+^Lect. D.~, pp. 17-20, ecc. ecc.
+
+	|44-45.  Fuia~: ladra; cfr. ^Inf.~ XII, 90; ^Par.~ IX, 75
+e ^Bull.~ III, 152.  Degno appellativo della meretrice, che
+usurpa i diritti imperiali.  |Con lei delinque~: pecca insieme
+con lei come suo drudo (^Purg.~ XXXII, 153, e cfr. ^Inf.~ XXI,
+108), e anche con l'usarle violenza flagellandola <dal capo infin
+le piante>; ^Purg.~ XXXII, 156.
+
+	|46-48.  Narrazion~: cfr. il ^narro~ del v. 40.  |Buia~:
+oscura a intendersi.  |Temi~: lat. ^Themis~, Temide, personaggio
+mitologico, figlia di Urano e della Terra, celebre per l'oscurit@a
+dei suoi oracoli; cfr. Ovid., ^Met.~ I, 347-415.  |Sfinge~: la
+favolosa e mostruosa figlia di Tifone e della Chimera, dalla
+faccia muliebre e di natura feroce, che abitava sul monte Fino
+presso Tebe e uccideva i viandanti che non sapevano sciogliere
+certo suo enigma: questo alla fine fu sciolto da Edipo.  <Si
+Sphingos iniquae Callidus ambages, te praemonstrante, resolvi>;
+Stat., ^Theb.~ I, 66-67.  Cfr. Ovid., ^Met.~ VII, 759 sgg. 
+|Perch'a lor modo~ ecc.: perch@e la mia narrazione rende chiuso il
+tuo intelletto in quanto non ve ne lascia penetrare il senso,
+cos@i come gli oracoli di Temide e l'enigma della Sfinge.  Gli
+antichi comm. o non spiegano |attuia~, o ne d@anno dichiarazioni
+che mostrano come davanti al vocabolo inusitato pendessero
+incerti.  Si escogit@o perci@o la var. `^accuia~', intesa come
+`acuisce'.  Un |attuia~ del Frezzi, ^Quadriregio~ II, 79 vale
+`ottura' (ogn'uomo... s'^attuia~ gli occhi per non vederla).  Il
+senso qui dev'essere che la narrazione buia non permette
+all'intelletto di coglierne il senso; dunque per essa
+l'intelletto @e impedito, chiuso.  Cfr. il provenz. ^aturar~
+`impedire, trattenere'.  Di `attuiare', oltre questi due di D. e
+del ^Frezzi~, suo imitatore, non si sono fin qui citati altri
+esempi.  Cfr. ^Bull.~ III, 137 e XXIII, 49.
+
+	|49-51.  Ma tosto~ ecc.: ma presto i fatti daranno la
+soluzione dell'enigma difficile (|forte~) chiuso nelle mie
+parole.  |Naiade~: ninfe fatidiche, con allusione ad Ovid.,
+^Metam.~ VII, 759 sg., dove si legge ^Laiades~, cio@e Edipo,
+figlio di Laio; ma D. nel testo suo di Ovidio dov@e leggere
+^Naiades~, ch'@e la lezione data realmente da codd. delle ^Metam.~ 
+Cfr. Monti, ^Saggio dei molti errori~, ecc., 95 sg.  |Sanza~
+ecc.: senza che ne derivi quel danno che ebbero a soffrire i
+Tebani, contro i quali Temide, come dea dei vaticinii, perch@e il
+^Laiades~ aveva interpretato l'enigma della Sfinge e questa n'era
+morta, mand@o, per vendicare costei, una fiera che ne divor@o le
+greggi e devast@o i campi; cfr. Ovid., ^Met.~ VII, 762 sg.
+
+	|52-54.  Porte~: dette; cfr. ^Inf.~ II, 135; V, 108 ecc. 
+|Segna~: `designa, fa rilevare'; ^Del Lungo.~  |Del viver~ ecc.:
+della prima vita, che @e una corsa verso la morte; cfr. ^Purg.~
+XX, 39.
+
+	|55-57.  Aggi~: arc., abbi; cfr. ^Bull.~ III, 129. 
+|Qual~: <la di lei altezza, il modo di spandere i rami, il
+dispogliamento in cui si trovava di fiori e di frondi prima che
+ad essa fosse legato il trionfale carro> (^Lomb.~) e il suo
+posteriore rinverdire e rifiorire.  |Due volte~: chi intende
+`dall'aquila e dal gigante'; chi `da Adamo e dal gigante'; chi
+`da Adamo e dall'aquila'; chi altrimenti; l'|or~ che precede a
+|due volte~ e a tutt'e due le volte si riferisce, ci fa
+accogliere la prima interpretazione.  La colpa di Adamo @e
+compresa nella generalizzazione che segue: `Qualunque ecc.'.
+
+	|58-60.  Schianta~: ne strappa, ne stacca qualche parte. 
+|Di fatto~: bestemmia ben pi@u empia che quella di parole. 
+|All'uso suo~ ecc.: la cre@o santa, cio@e inviolabile, perch@e
+servisse solo a' suoi alti fini di giustizia.  Si tenga presente
+ci@o che si disse nella nota ai vv. 38-39 del canto preced. circa
+il significato simbolico della pianta.
+
+	|61-63.  Per morder~: per aver dato di morso al frutto di
+essa pianta.  |In pena~ ecc.: l'anima prima, Adamo, bram@o per pi@u
+di 5000 anni gi@u nel Limbo, penando, perch@e privo della visione
+di Dio, e sempre disiandola (^Inf.~ IV, 42), la venuta del Cristo
+che pun@i nella sua persona, soffrendo e morendo, la colpa di quel
+morso.  I 5000 anni e pi@u, propriam. 5232, risultano dai 930
+vissuti in terra e 4302 trascorsi nel Limbo (cfr. ^Par.~ XXVI,
+118 sgg.); D. si attiene alla cronologia di Eusebio, che pone la
+nascita di Cristo nell'a. 5200 dalla creazione del mondo.
+
+	|64-66.  Dorme~: @e assopito, epper@o inetto a pensare e
+comprendere.  |Estima~: giudica.  |Eccelsa~ ecc.: cfr. ^Purg.~
+XXXII, 40 sgg.
+
+	|67-68.  Se stati~ ecc.: se i tuoi vani pensieri non
+avessero incrostata e quindi chiusa la tua mente.  |Acqua
+d'Elsa~: che, ricca in certa parte del suo corso (^Bass.~, p.
+315) di carbonato di calce, ha ivi la propriet@a d'incrostare i
+corpi che vi restino qualche tempo immersi.  L'Elsa @e un
+fiumicello che nasce ne' monti ad ovest di Siena, bagna parte dei
+territorio senese e del Fiorentino, e si getta nell'Arno a pochi
+chilometri da Empoli e da Ponte a Elsa.  |Intorno alla tua
+mente~: se i |pensieri vani~ non sono ^nella~ mente, ma |intorno~
+ed essa, @e chiaro che D. con |pensier vani~ intende dire `la
+vanit@a delle cose a cui pensavi': cos@i torna, del resto,
+ottimamente il paragone tra |acqua d'Elsa~ e |pensier vani~ per
+quanto riguarda i loro effetti.
+
+	|69.  E 'l piacer~ ecc.: e se il piacere che ti davano
+quelle vane cose, non avesse macchiata, offuscata la tua mente,
+come Piramo col suo sangue macchi@o i frutti del gelso, che di
+bianchi divennero rossi; cfr. Ovid., ^Met.~ IV, 55-166; ^Purg.~
+XXVII, 37 sgg.  |Gelsa~: il frutto del gelso.
+
+	|70-72.  Per tante~ ecc.: anche solo <per queste
+circostanze [della straordinaria sua ^altezza e dell'essere
+travolta nella cima~] riconosceresti all'albero, cio@e
+dall'albero... moralmente, nel suo significato morale, la
+Giustizia di Dio che proib@i di toccarlo>; Manni, ^Lect. D.~ 39. 
+|Interdetto~: proibizione di togliere alcun che alla pianta.
+
+	|74-75.  Fatto di pietra~ ecc.: non solamente indurito
+come pietra, ma anche oscurato (|tinto~), s@i che la luce delle
+mie parole soverchiandone la offuscata, debole virt@u visiva, la
+abbaglia.
+
+	|76-78.  Voglio anco~ ecc.: voglio che se anche non porti
+entro di te tutto nitidamente |scritto~ il detto mio, giacch@e
+l'attuale indurimento e offuuscamento del tuo intelletto non lo
+consentirebbe, almeno ne porti in te una qualche immagine (|almen
+dipinto~) per la ragione stessa per cui i pellegrini tornanti
+dalla Palestina portano il |bordone~, cio@e il bastone, fasciato
+di foglie di palma a ricordo e prova dell'essere stati in Terra
+Santa.
+
+	|79-81.  S@i come cera~: cfr. ^Purg.~ X, 45.  Come la cera
+prende e serba inalterata la figura impressavi dal suggello, cos@i
+la mia mente accoglie e serber@a l'impronta delle vostre parole.
+
+	|82-84.  Veduta~: intellettuale, ossia capacit@a di
+comprendere.  |Dis,iata~: bramata da me.  |Che pi@u la perde~ ecc.:
+che, quanto pi@u l'intelletto s'affatica ad intenderla, tanto pi@u
+glie ne sfugge il senso.
+
+	|85-90.  Quella scola~: della scienza umana, della mera
+filosofia che cerca la verit@a di ragione, scuola che D. ha
+seguitato con tanto ardore, che l'amore per la filosofia, da lui
+giudicata ^somma cosa~, <cacciava e distruggeva ogni altro
+pensiero> (^Conv.~ II, xii, 5-7), e poco egli curava la pi@u alta
+scienza, quella delle verit@a rivelate, raffigurata in B.  Cfr.
+^Manni~, o. c., 25 sg.  |Come~ ecc.: come gl'insegnamenti
+(|dottrina~) di tale scuola non permettano la comprensione e
+contemplazione delle verit@a superiori che la scienza di cui @e
+figura B., ragiona ed insegna.  |Vostra~: umana e mondana.  |Si
+discorda~: @e distante.  <Non enim cogitationes meae, cogitationes
+vestrae; neque ^viae vestrae viae meae~, dicit Dominus.  Quia
+^sicut exaltantur coeli a terra, sic exaltatae sunt viae meae a
+viis vetris~, et cogitationes meae a cogitationibus vestris>;
+^Isaia~ LV, 8-9.  |Festina~: lat. ^festinat~, si affretta.  <Il
+cielo che pi@u velocemente ruota @e il ^Primo mobile~, secondo il
+sistema di Tolomeo.  Per impulso di questo tutti i cieli
+inferiori movendosi insieme uniformemente, @e chiaro che il pi@u
+alto o pi@u remoto dal centro comune sar@a il pi@u veloce>;
+^Antonelli.~  Non vogliamo tacere che, secondo alcuni interpreti,
+qui si alluderebbe ancora e solo all'amore di D. per le ^presenti
+cose~ di ^Purg.~ XXXI, 34 sgg.; e, secondo altri, sia in questi
+vv. 85-90, sia nei precedenti 52-78, B. tratterebbe pur sempre e
+solo dell'Impero: la |scuola~ del v. 85 sarebbe quella dei
+teologi propugnanti e teorizzanti la supremazia papale, divenuta
+dottrina canonica; la |via~ del v. 88 sarebbe quella di tali
+teorici e dei pi@u de' contemporanei di D. che non comprendono
+ancora l'origine divina dell'Impero di cui Dio impose agli uomini
+il rispetto e l'obbedienza <fin dal principio del Genesi, con la
+prima delle sue sante e irrevocabili Leggi>.  Solo cos@i, secondo
+il ^Parodi~, <le parole di Beatrice... formano una salda e
+indivisibile unit@a>.  Vero @e che i tre ultimi versi hanno <l'aria
+di un significato pi@u generico>; ma ci@o si spiegherebbe con <le
+necessit@a drammatiche della scena>, e sarebbe mera apparenza;
+^Bull.~ XVI, 282-5.
+
+	|91-93.  Onde~: per il rimprovero contenuto nelle ultime
+parole di B.  |Stran,iasse me~: mi straniassi, allontanassi.  |Che
+rimorda~: che mi rimproveri di ci@o.
+
+	|96.  Ancoi~: oggi.  Cfr. ^Purg.~ XIII, 52; XX, 70.
+
+	|97-99.  E se~ ecc.: <s@i come quando si vede fummo, egli
+@e notorio che quivi @e fuoco, cos@i quando l'uomo per la detta
+acqua @e in oblivione [latinismo = obblio], egli @e notorio che
+prima vi fu vizio>; ^An. Fior.~  |Conchiude~ ecc.: porta a
+concludere, che nell'aver tu rivolta la tua volont@a ad altro che
+a me, fu colpa, giacch@e delle sole colpe il Let@e toglie la
+memoria.
+
+	|100-102.  Veramente~ ecc.: Ma (|veramente~) d'ora in poi
+le mie parole saranno |nude~, cio@e non pi@u avvolte in un lume
+abbagliante (v. 75), tanto nude quanto converr@a porgerle (|quelle
+scovrire~), affinch@e siano afferrate dall'occhio del tuo
+intelletto (|tua vista~), occhio rude, cio@e non educato, inetto a
+sostener tanto lume.
+
+	|103-105.  Corusco~: fiammeggiante, splendente.  |Passi~:
+pi@u lento nel suo corso; cfr. ^Par.~ XXIII, 11 sg.  Sul mezzod@i
+il sole sembra a noi sia pi@u fulgido e pi@u lento.  |Il cerchio di
+merigge~: il meridiano; cfr. ^Purg.~ XXV, 2.  |Che qua~ ecc.: il
+qual meridiano si fa ora qua ora l@a, si sposta, secondo la
+longitudine dei luoghi da cui si guarda.  Cos@i a un dipresso i
+pi@u.  Invece l'^Antonelli~: <il quale meriggio si fa in questo e
+nell'altro emisfero secondo le relazioni di posizione>; oppure:
+<E il sole teneva il cerchio di meriggio con pi@u splendore e con
+pi@u lenti passi che nei precedenti; perciocch@e in questo e
+nell'altro emisfero si fa (avviene) secondo le relazioni di
+posizione>.  Altri tentarono altre spiegazioni, pi@u sottili che
+persuasive.
+
+	|106-111.  Quando s'affisser~ ecc.: quando le sette ninfe
+(le virt@u portanti i sette lumi) si fermarono cos@i come chi
+cammina come guida (|per iscorta~) in testa a una compagnia di
+persone, si ferma se incontra qualche novit@a o tracce
+(|vestigge~, arc. per `vestigia, orme') di novit@a; si fermarono
+l@a dove finiva un'ombra |smorta~, cio@e non eccessivamente cupa,
+come quelle che l'alta montagna porta, cio@e ha, sotto le foglie
+verdi e i rami negri (|nigri~ @e latinismo) presso i suoi freddi
+torrenti.  Il |sovra~ qui pare che si debba intendere per
+`presso' come, per es., in ^Inf.~ XXIII, 95 e ^Par.~ VIII, 68,
+dove pur si tratta di acque; e in vicinanza di acque si sono qui
+fermate le sette donne; sicch@e, cos@i intesa, calza meglio la
+similitudine.  <Sicubi nigrum Ilicibus crebris sacra nemus
+accubet umbra>; Virg., ^Georg.~ III, 333 sg.
+
+	|112-114.  E,ufrat@es e Tigri~: sono 2 dei 4 fiumi del Par.
+terrestre, secondo ^Genes.~ II, 10 sg., derivanti da una medesima
+sorgente.  D. per@o li nomina qui come termini di confronto
+[|veder ^mi parve~]; e se pot@e ripensare, nominandoli, ai fiumi
+di cui parla il ^Gen.~, di certo ei non intese ricordarli come
+fiumi del Par. terrestre.  Qui si parla di ^Euno@e~ e ^Let@e~, che
+escono, dice D., d'una sola fonte, cos@i come non pure l'Eufrate e
+il Tigri edenici, ma anche, secondo si credeva, l'Eufrate e il
+Tigri reali.  A D. forniva questa notizia Boezio, ^Cons. phil.~
+V, met. 1: <Tigris et Euphrates uno se fonte resolvunt Et mox
+abiunctis dissociantur aquis>; delle quali parole udiamo come
+un'eco nel v. 114.  |Quasi amici~: <que' due fiumi mostravano
+d'andar lenti per il dispiacere di doversi dividere, come
+sogliono gli amici.  Concetto affettuosamente gentile> (L. Vent.,
+^Simil.~ 182), che D. aggiunse a ci@o che gli offriva Boezio.
+
+	|115.  Luce~: cfr. ^Inf.~ II, 76 sg.  La frase s@i
+vivacemente colorita @e biblica.  <Lucerna pedibus meis verbum
+tuum, et lumen semitis meis>; ^Psalm.~ CXVIII, 105.  <Ego sum lux
+mundi>; ^Giov.~ VIII, 12.  <Ego lux in mundum veni, ut omnis qui
+credit in me, in tenebris non maneat>; ^ibid.~ XII, 46.  Ci@o che
+qui il P. dice a B. si conviene a lei, considerata nel suo valore
+simbolico.
+
+	|116-117.  Si dispiega~ ecc.: scaturita da una sola fonte
+si dirama in due corsi allontanando cos@i s@e da s@e stessa, cio@e
+una sua parte dall'altra.
+
+	|118-120.  Per cotal~ ecc.: per aver fatto io tale
+preghiera, mi fu risposto da B. che pregassi Matelda di dirmi
+quel che desideravo sapere (|'l ti dica~, cio@e `il ti dica' @e
+costr. norm. in antico per `tel dica, te lo dica').  Qui
+finalmente, quando non ce l'aspettavamo, ci @e detto il nome della
+^bella donna.~  @E un procedimento di cui non si vede bene la
+ragione.  |Da colpa si dislega~: <La colpa @e nodo che avvince
+l'animo; e, come tale, lo slegarsene @e pi@u di sciogliersene>; L.
+Vent., ^Simil.~ 265.
+
+	|121-123.  Questo e altre cose~: Matelda aveva illuminato
+il P. e circa le acque del Par. terrestre, e circa il vento di
+lass@u e le condizioni del luogo e i suoi primi abitatori; ^Purg.~
+XXVIII, 88-144.  |Non lil nascose~: togliendo essa acqua la
+memoria del peccato, non d'altro (|lil~ arc. per `gliel').
+
+	|124-126.  Maggior cura~: come potrebb'essere per D. il
+pensiero delle tante e singolarissime cose che ha vedute e udite
+dopo le spiegazioni di Matelda.  |Che~: nominativo.  |La
+memoria~: accusativo.  |Priva~: di sua virt@u.  |Fatt'ha~ ecc.: ha
+offuscato la sua memoria (|mente~); sicch@e, dimentico delle tue
+spiegazioni, non ha capito essere questa la fonte di cui tu gli
+hai gi@a parlato.
+
+	|127-129.  Diriva~: si dirama.  |E come tu se' usa~ ecc.:
+e, come suoli, ridestagli con l'acqua dell'Euno@e la virt@u, cio@e
+la memoria, tramortita.  La frase |come tu se' usa~ ci fa capire
+come Matelda abbia l'ufficio di ravvivare in tutte le anime che
+stanno per salire al cielo la memoria del bene con le acque
+dell'Euno@e.
+
+	|130-132.  Non fa scusa~ ecc.: non adduce scuse per
+esimersi dal fare ci@o che altri le chiede; ma conforma la sua
+alla volont@a del richiedente, cio@e si apparecchia volonterosa ad
+appagarlo.  |Per segno fuor dischiusa~: in qualsiasi modo
+espressa: |segno~ si pu@o dire qualunque esterna manifestazione
+dell'animo.
+
+	|133-135.  Preso~: per mano.  |Stazio~: @e ricordato qui
+per l'ultima volta nel Poema.  |Donnescamente~: col garbo proprio
+della donna.
+
+	|136-137.  S'io avessi~ ecc.: La mossa fa ripensare a
+Virg., ^Georg.~ IV, 116 sgg.: <Atque equidem, extremo ni iam sub
+fine laborum Vela trahami et terris festinem advertere proram,
+Forsitan et pinguis hortos quae cura colendi Ornaret, canerem>. 
+|In parte~: ch@e nessun ingegno o parola di poeta, anche se
+potesse soffermarvisi a lungo, ridirebbe intera quella dolcezza.
+
+	|138.  Ber~: dell'acqua di Euno@e.  I pi@u affermano che D.
+vi si tuffasse come nel Let@e.  Veramente d'una immersione e poi
+sommersione nell'Euno@e il P. non fa parola; possiamo bens@i
+supporla per analogia con ci@o che s'@e visto avvenne per il ^Let@e~
+(^Purg.~ XXXI, 94-96 e 101 sg.), e anche perch@e, cos@i, della
+assistenza ed aiuto di Matelda (vv. 128 sg.) vediamo meglio la
+ragione.
+
+	|139-141.  Piene... seconda~: nel Poema, D. osserva con
+cura le leggi della simmetria e delle proporzioni.  Ogni cantica
+ha 33 canti a cui @e premesso quello che, canto I dell' ^Inf.~, @e
+pi@u veramente proemio generale a tutta l'opera; dei 14,233 versi
+che la Commedia conta, ciascuna cantica ne ha press'a poco lo
+stesso numero, con un lieve crescendo dall'^Inf.~ al ^Par.~; cio@e
+^l'Inf.~ 4720, il ^Purg.~ 4755, il ^Par.~ 4758 e anche la
+lunghezza dei canti non @e molto varia.  Dalla frase che stiamo
+dichiarando pare proprio che Dante avesse determinato
+anticipatamente la lunghezza approssimativa di ogni cantica,
+assegnando a ciascuna un dato numero di carte, come poi, dalla
+composizione di molti codici, risulta che fecero spesso gli
+antichi trascrittori del Poema.  |Ordite~: preparate, come ordito
+a tela.  |Lo fren dell'arte~: le norme che regolano l'arte,
+quella in particolare che vuole rispettata la proporzione tra le
+parti d'un'opera.
+
+	|142-145.  Ritornai~: l@a dove aveva lasciata B. 
+|Rifatto~: <collectum robur viresque ^refectae~>; Virg., ^Georg.~
+III, 235.  <Armis animisque ^refecti~>; Virg. ^Aen.~ XII, 788. 
+|Rinovellate~ ecc.: ravvivate e rivestite di nuove fronde;
+<^Renovamini~ autem spiritu mentis vestrae>; ^Efes.~ IV, 23. 
+<Rursus ^renovari~ ad poenitentiam>; ^Hebr.~ VI, 6.  Del ramo
+d'oro strappato da Enea e rinascente V. dice: <Quale solet silvis
+brumali frigore viscum ^Fronde~ virere ^nova~>; ^Aen.~ VI, 205
+sg.  Cfr. ^Purg.~ XXXII, 52 sgg.  |Stelle~: con questa parola
+terminano tutte e tre le cantiche, come gi@a s'ebbe a rilevare,
+accennandone la ragione, nell'ultima nota all'^Inferno.~

@@ -1,0 +1,1305 @@
+	|1-3.~  [LEZIONE QUINTA CAPITOLO TERZO DELLA PRIMA CANTICA DI DANTE]  
+Camminarono tanto i nostri Poeti per quella caverna, nella quale eglino 
+erano entrati sotto la terra, ch'eglino arrivarono finalmente a la 
+porta dell'Inferno. Della quale innanzi che noi parliamo altramente, ci 
+par molto a proposito esaminare alquanto e donde ei si partissero e 
+verso qual parte ei si movessero e indirizzassero il loro cammino. Per 
+il che @e primieramente da considerare, che ritrovandosi il Poeta 
+nostro smarrito nella selva oscura, disse nel primo canto, che vide la 
+mattina al levar del sole le spalle del colle, a pi@e del quale egli 
+era arrivato,
+
+^Vestite gi@a de' raggi del pianeta,~
+^Che mena dritto altrui per ogni calle.~
+
+Laonde ricordandoci noi, come i primi raggi che appariscon la mattina 
+del sole, quando egli si leva e vien fuori del nostro orizzonte, 
+appariscono e si veggono splendere ne' monti del nostro ponente, ma 
+nella faccia la quale @e volta verso levante, conosceremo chiaramente 
+ch'ei camminava allora con la faccia volta e diritta verso ponente. E 
+perch@e, detto questo, egli soggiugne, che cominciando egli a salir la 
+piaggia deserta di esso colle, se gli fecero incontro la lonza e il 
+lione, attraversandogli il cammino, e ultimamente fu cacciato e ripinto 
+da la lupa l@a ove non risplendevano i raggi del sole, veggiamo ancor 
+manifestamente ch'egli veniva a essersi rivolto, tornando indietro, 
+verso levante nella selva oscura. Dentro a la quale veggendosi egli 
+apparir inanzi Virgilio, e raccomandandosi a lui, e chieggiendogli 
+aiuto, Virgilio dopo molte parole gli dice, che se egli vuole scampare 
+da quelle crudelissime fiere e uscire di quel luogo, egli gli @e di 
+bisogno tenere altro viaggio, e che giudica che il suo meglio sia ch'ei 
+lo s@eguiti; ch@e lo trarr@a di quivi per un luogo eterno, ov'egli 
+udir@a i dolorosi lamenti di coloro che son dannati, e vedr@a quegli 
+che si stanno contenti nel fuoco, per sperare di salire a le genti 
+beate; a le quali se egli vorr@a di poi salire, sar@a un'anima pi@u 
+atta a ci@o di lui, che lo condurr@a. A le quali parole non solo 
+acconsentendo Dante, ma pregandonelo strettamente, Virgilio, volte le 
+spalle al monte, lo conduce per un profondo e silvestro cammino d'una 
+oscura caverna, finta da 'l Poeta sotto la terra, fino a la porta 
+dell'Inferno; la qual porta viene a esser, per le ragioni dette di 
+sopra, nella parte opposta al monte inluminato da' raggi del sole, e da 
+la banda di levante. E questa tal porta, non facendo il Poeta menzione 
+alcuna, quando eglino passarono per lei, ch'ella si aprisse, viene a 
+essere posta da lui che stia sempre aperta; a imitazione di Virgilio, 
+il qual disse ancor egli, parlando di lei: ^Noctes atque dies patet 
+atri ianua Ditis.~ Sopra della quale egli pone che sieno scritte le 
+orribili e spaventose parole, che sono nel principio di questo terzo 
+canto. Per dichiarazione delle quali @e da sapere che ricercando il 
+Filosofo nella sua ^Posteriora~ che cosa sia propiamente il sapere, 
+disse ch'egli non @e altro che intendere e conoscer le cose per le loro 
+ragioni. La qual cosa volendo egli ancor di poi nel proemio della 
+^Fisica~ confermare, disse che allora solo noi sappiamo e pensiamo 
+d'intendere le cose, quando noi conosciamo e intendiamo le lor cause. 
+Le quali riducendo egli di poi per maggior facilit@a a quattro, le 
+chiama Materiale, Formale, Agente e Finale. Materiale quella che ci d@a 
+notizia della loro materia; Formale quella che ci dimostra il loro 
+essere; Agente quella che scuopre chi le ha prodotte in essere; e 
+Finale quella che ne dimostra per qual fine esso agente si movesse, 
+operando sempre ciascuno per il fine. Questa dottrina e questo ordine 
+seguita ancora il nostro Dante nel dimostrarci e dichiararci questo suo 
+Inferno. E per proceder secondo l'arte della poesia, egli finge che ci 
+parli in persona sua e dello Inferno essa porta, usando quella figura 
+che concede ch'ei si possa attribuire a una cosa quel ch'ella non ha da 
+per s@e; conciossia ch'egli le attribuisca questa propriet@a del 
+parlare, la quale @e solamente dell'uomo; onde fu detto da 'l medesimo 
+nostro Poeta nella ultima parte di questa sua opera: ^Natural cosa @e 
+che ogni uomo favella.~ Incomincia adunque a parlare essa porta; e per 
+dare maggiore efficacia in questo principio a le sue parole, ella usa 
+quel colore che i rettorici chiamano repetizione, replicando in tutti a 
+tre questi primi versi questa clausula ^per me~, ma aggiugnendo sempre 
+nientedimanco qualcosa a quello ch'ella aveva detto prima. Imper@o che 
+ella dice primieramente, che per lei si va e si entra nella citt@a 
+piena di dolore; di poi, che tal dolore @e eterno; e ultimamente, 
+ch'egli @e senza alcuna speranza di bene; onde chiama perdute e dannate 
+quelle genti che sono l@a dentro. Ne' quali primi tre versi ella viene 
+a dimostrare la cagione materiale e la formale di esso Inferno; la 
+materiale, dimostrando come egli @e una concavit@a della terra; e la 
+formale, come in quello stanno le genti perdute e dannate eternalmente 
+in dolore sotto una medesima sentenzia, in quel modo che stanno molti 
+cittadini in una citt@a sotto a una medesima legge. Dice adunque 
+parlando essa porta: ^Per me si va nella citt@a dolente,~ chiamando lo 
+Inferno ^citt@a~ per la ragione detta, o veramente a imitazione di 
+Agostino, il quale chiama ancora egli la moltitudine de' reprovati la 
+citt@a di Babilonia e della confusione, e quella degli eletti, di 
+Ierusalem e della visione della pace; onde la chiam@o ancor cos@i 
+Virgilio, quando disse:
+
+^Che quello Imperator, che l@a su regna,~
+^Non vuol che in sua citt@a per me si vegna.~
+
+E di poi, seguitando pi@u oltre, dice: ^Per me si va nello eterno 
+dolore,~ essendo cosa conveniente, che avendo quelle infelici anime 
+appresso di loro sempre il fuoco, il ghiaccio, lo stridore de' denti e 
+le altre pene le quali sono nello Inferno, elle vivino eternalmente in 
+dolore. E ultimamente dice: ^Per me si va fra la perduta gente;~ 
+chiamando meritamente ^perdute~ esse anime dannate; conciosia cosa 
+ch'elle fussero create da Dio per conseguire la eterna beatitudine, ed 
+elleno per i loro falli se ne son prive; potendosi chiamare a ragione 
+perdute e vane tutte quelle cose, le quali son prive de 'l lor fine.
+
+	|4-6.~  Dopo la qual cosa avendo narrato essa porta, nel modo che voi 
+vedete, la cagione materiale e la formale dello Inferno, ella narra 
+nello altro verso che segue la agente e la finale. E perch@e, sebbene 
+il fine @e la ultima cosa che si consegue in ciascuna operazione, egli 
+@e sempre il primo nella intenzione (come dimostra espressamente il 
+Filosofo nel primo libro della ^Etica~), ella parla la prima cosa del 
+fine e della cagione la quale mosse lo agente a produrre in essere esso 
+Inferno; e questa dice essere stata quella iustizia, la quale si 
+ritruova e ritrov@o ab eterno in Dio, chiamato da lei, per essere stata 
+egli la causa agente, il suo ^alto fattore~; onde dice: ^Iustizia mosse 
+il mio alto fattore.~ Ma perch@e questa cognizione, cos@i generale, di 
+chiamare Dio ^alto fattore~ @e simile a quella che ne d@a la sapienza 
+umana, chiamandolo prima causa o primo motore, e il Poeta procede col 
+lume della Teologia la quale ne d@a molto pi@u perfetta e pi@u vera 
+cognizione, egli soggiugne:
+
+^Fecemi la divina potestate,~
+^La somma sapienza e il primo amore,~
+
+dandone con tali parole quella cognizione che ne ha dato a la religione 
+antica Mosaica, e a la moderna Cristiana, lo Spirito Santo per le sacre 
+scritture, e il Figliuolo unigenito di Dio per la bocca sua stessa; 
+cio@e ch'egli @e una sustanza sola, distinta in tre persone; cosa non 
+mai compresa n@e intesa da intelletto alcuno umano, se non per mezzo 
+del santissimo e certissimo lume della fede; chiamando il Padre la 
+^podest@a divina~, il Figliuolo la ^somma sapienza~ e lo Spirito Santo 
+il ^primo amore~; perch@e al Padre si attribuisce la potenza, al 
+Figliuolo la sapienza e a lo Spirito Santo lo amore. Ma perch@e questo 
+nome ^potenza~ significa nella via peripatetica, per la quale camminava 
+Dante, imperfezione e mancamento, egli non dice ^potenza~, ma 
+^podest@a~, la qual significa per il contrario perfezione e imperio, 
+per non attribuire a Dio con tal nome imperfezione alcuna; instruito da 
+San Tommaso, della dottrina del quale ei fu molto studioso, che 
+dividendo (per fuggire questa equivocazione) la potenza in attiva e 
+passiva, dice la passiva essere al tutto aliena da Dio, e non si poter 
+porre in modo alcuno in lui. Dipoi chiama il Figliuolo ^somma 
+sapienza~, per esser egli quella sapienza la quale non pu@o in modo 
+alcuno errare; e lo Spirito Santo il ^primo amore~, perch@e solamente 
+mosso da amore cre@o Dio e produsse in essere il mondo; onde dice il 
+Poeta medesimo nel decimo canto del Paradiso:
+
+	^Guardando nel suo Figlio con lo amore,~
+^Che l'uno e l'altro eternalmente spira,~
+^Lo primo ed ineffabile valore,~
+^	Quanto per mente e per occhio si gira~
+^Con tanto ordine f@e, ch'esser non puote~
+^Senza gustar di lui chi ci@o rimira.~
+
+E questo @e il vero senso, e quel che cavano i buoni interpetri di 
+queste parole. Nientedimanco ei non si trova per@o alcuno, il quale 
+consideri per qual cagione il Poeta abbia usato qui questo modo del 
+favellare, ponendo tre nominativi, cio@e la divina potestate, la somma 
+sapienza e il primo amore, che fanno numero plurale, e di poi il verbo 
+^fecemi~, cio@e fece me, nel numero singulare. Ma lo scusano con dire, 
+ch'egli lo ha fatto per quella figura, la qual concede che quando ei si 
+d@a a un verbo pi@u nominativi, ei si pu@o accordarlo con quello che 
+gli @e pi@u appresso; la qual cosa @e verissima e non pu@o negarsi, 
+parlando secondo la grammatica. Nientedimanco il Poeta lo fece con 
+altra considerazione, che non @e questa; anzi @e questo uno di quei 
+luoghi, nel quale egli ha dimostro grandissima dottrina e grandissima 
+arte. E perch@e voi ne siate capaci, voi avete a sapere come, volendo 
+scrivere Moses la creazione del mondo revelatagli da Dio, cominci@o il 
+suo primo libro del Genesis in questa maniera: ^Beres@it Bar@a Elo@im~. 
+Le quali parole, tradotte appunto secondo la lettera nella lingua 
+nostra, dicono cos@i: ^In principio cre@o gli Dii~. Ove egli mette, 
+inluminato da lo Spirito Santo, il nominativo nel numero del pi@u, 
+dicendo ^gli Dii~, e il verbo nel numero del meno, dicendo ^cre@o~, per 
+dimostrarci la Trinit@a, e come se bene in Dio sono tre persone 
+distinte, egli @e un Dio solo, e ha una essenzia sola. Imper@o che se 
+bene egli @e, come dice Atanasio, Dio il Padre, Dio il figliuolo e Dio 
+lo Spirito Santo, eglino per@o non sono tre Dii, ma @e un Dio solo. E 
+se i Settantadue Interpetri, e con loro insieme San Ieronimo, 
+tradussero ^Dio~ nel numero singulare, ei lo fecero (come scrive 
+Ieronimo medesimo) per non dare occasione a' Gentili di credere che i 
+Cristiani adorassero pi@u Dii.
+
+	|7-9.~  Questo modo del parlare considerando adunque il Poeta nostro 
+essere stato usato da Moses, anzi da lo Spirito Santo, nella creazione 
+del mondo, gli parve cosa conveniente dovere usarlo ancora egli in 
+questo luogo; nel quale tratta ancora egli della creazion dello 
+Inferno, il quale ei tien, come voi vedeste nella lezione passata, che 
+fusse creato insieme con tutto lo universo; onde gli fa ancor dire:
+
+	^Dinanzi a me non fur cose create,~
+^Se non eterne, ed io eterno duro.~
+
+Per intelligenza della qual cosa @e da sapere, ch'ei sono state due le 
+opinioni del quando fussero creati da Dio gli Angeli. La prima delle 
+quali vuole ch'egli gli creasse da loro stessi, innanzi al cielo e a la 
+terra e a nessuna altra cosa. E fondonsi quegli che la tengono in su 
+quelle parole, le quali scrive nella sua ^Sapienza~ Salomone, che 
+dicono che la sapienza fu creata da lo Altissimo innanzi a tutte le 
+altre cose. Il qual detto non si potendo intendere in modo alcuno della 
+sapienza divina e del Verbo eterno e Figliuolo unigenito di Dio; 
+conciosia ch'egli non sia stato creato da 'l Padre, ma proceda e sia 
+proceduto ab eterno da lui consustanzialmente per via di generazione, 
+come canta ogni giorno la Chiesa; fa ch'eglino dicono ch'ei bisogna 
+intenderlo della natura angelica; la quale, per esser creatura 
+spirituale e intellettuale, @e chiamata Sapienza; e di lei si ha a 
+intendere, dicono costoro, questa autorit@a di Salomone. La seconda 
+opinione tiene ch'ei fussero ancor creati gli Angeli insieme con 
+l'altre cose, esponendo con l'autorit@a di Agostino quelle parole, 
+quando Moses dice che Dio cre@o il cielo e la terra, in questa maniera: 
+ch'ei si abbia a intendere per il cielo le creature invisibili e 
+divine, le quali sono gli Angeli, e per la terra le visibili e terrene, 
+le quali cascano tutte, mediante la corporeit@a loro, sotto la nostra 
+cognizione sensitiva. E questa seconda opinione era ancor tenuta, 
+secondo che scrive il dottissimo Giovanni Damasceno, dai pi@u ne' tempi 
+suoi, come ella @e oggi. Nientedimanco il predetto Damasceno, 
+accostandosi a Gregorio Nazianzeno, dottore ancora egli similmente 
+greco, chiamato da lui per la divinit@a della sua alta e maravigliosa 
+dottrina il ^Dottore diviniloquo~, al quale egli attribuisce quella 
+prima opinione, la tiene ancora egli; dicendo esser cosa molto pi@u 
+ragionevole e conveniente, ch'ei fusser prima create le cose invisibili 
+e divine, e di poi le visibili e corporee, governando le cose 
+superiori, come si vede manifestamente, le inferiori. Laonde fu di poi, 
+il sesto giorno dopo tutte le altre cose, da Dio fatto e composto e de 
+l'una e de l'altra natura l'uomo, il quale partecipa e comunica con 
+l'anima, con le cose divine, e col corpo colle terrene; onde dice la 
+Scrittura, ch'egli fu creato da Dio di terra, e di poi fatto vivo da 'l 
+suo fiato. Per la qual cosa egli fu chiamato da Mercurio Trismegisto il 
+vincolo e il legamento della natura. Questa opinione di Giovanni 
+Damasceno e di Gregorio Nazianzeno si vede nel testo, che tiene ancora 
+il nostro Poeta; poi ch'egli fa dire a lo Inferno, che innanzi a lui 
+non furono altre cose, che quelle che furono create eterne. Dove a 
+voler intendere chiaramente questo luogo @e da sapere che i teologi 
+pongono di tre maniere enti e cose, e cos@i ancor similmente di tre 
+sorti misure da misurare la durazion loro. Le prime sono quelle, le 
+quali non ebbero mai principio, n@e aranno similmente ancor mai fine; 
+bench@e di queste non si ritruova secondo loro se non Dio, onde non 
+pu@o esser misurato se non con la eternit@a, la quale @e una misura che 
+non ha ancora ella principio n@e fine, n@e si pu@o porre in lei n@e 
+prima n@e poi, ma @e sempre tutta insieme invariabilmente, e senza 
+successione e trasmutazione alcuna; onde disse Boezio, parlando di lei: 
+^aeternitas est interminabilis vitae tota simul et perfecta possessio~. 
+Ma secondo i filosofi sono ancora eterne, oltre a Dio il quale @e 
+appresso loro il primo motore, il Cielo e la prima materia. La seconda 
+maniera di cose sono quelle, le quali hanno avuto principio, ma elle 
+non aranno gi@a mai fine; e queste sono gli Angeli, e le anime nostre, 
+le quali furono create da Dio con tale legge. Per il che non vengono a 
+essere eterne propiamente n@e per natura, ma state fatte e mantenute 
+cos@i da la potenza stessa di Dio; onde son chiamate da loro 
+^eviterne~, e non ^eterne~; e ci@o nasce perch@e la durazione loro si 
+misura con una misura, chiamata da loro ^evo~, nella quale si truova 
+bene il principio, ma non gi@a il fine; onde non viene a esser quel 
+medesimo che il tempo, e lo dimostr@o il medesimo Boezio, dicendo: ^qui 
+tempus ab aevo ire iubes~. La terza maniera delle cose sono queste 
+generabili e corruttibili, che hanno principio e fine; onde son 
+misurate da 'l tempo, il quale ha ancora egli principio e fine, secondo 
+il prima e il poi, immaginato in lui (a guisa di due punti) da l'anima 
+nostra, come dice il Filosofo. E se qualcuno opponesse che i filosofi 
+misuron pure ancora col tempo il moto del cielo, il quale @e appresso 
+di loro eterno; si risponde che ei non misurono il moto eterno e 
+infinito di quello, perch@e come infinito ed eterno non si pu@o egli 
+misurare; ma misurano le circulazioni sue, facendone anni e mesi e 
+giorni, con porre in lui il prima e il poi, secondo che accomoda loro; 
+onde non si pu@o dire che il cielo, e conseguentemente il moto suo, sia 
+misurabile secondo il tutto, ma secondo le parti, cos@i come ei non si 
+pu@o ancor dire ch'ei muti luogo secondo il tutto, e secondo le parti 
+s@i. Della maniera delle seconde cose, chiamate dai teologi ^eviterne~, 
+e da noi ^eterne~, ma impropiamente e licenziosamente, perci@o che 
+(come noi dicemmo di sopra) solo Dio @e ^eterno~, vuole adunque Dante 
+ch'ei sia lo Inferno. E per@o gli fa dire: innanzi a me non furono cose 
+alcune create, se non quelle che furono create eterne come me, il quale 
+durer@o ancora io eterno. Dove lo interpetre moderno dice, che a voler 
+parlare rettamente egli aveva a dire ^perpetuo~, e non ^eterno~; 
+perci@o che quello che i teologi chiamano ^eviterno~ @e chiamato da 
+noi, a parlar propiamente, ^perpetuo~, e non ^eterno~. Nientedimanco 
+chi osserver@a ben la lingua nostra trover@a molte volte usato l'uno 
+per l'altro, e che noi chiamiamo ancora ^eterni~ gli Angeli e le anime 
+nostre, se bene elle hanno avuto principio, perch@e elle hanno a durar 
+sempre; e in questo modo usa tal nome qui il Poeta. Dove per quelle 
+cose, le quali ei dice che furon create ^eterne~ inanzi a lui, non si 
+trovando altre cose di tal natura che gli Angeli e le anime nostre, 
+parlando secondo la religion Cristiana, bisogna intendere 
+indubitatamente gli Angeli; perci@o che le anime son create da lui di 
+mano in mano, quando i corpi sono atti a riceverle; e quella di Adam, 
+fu similmente creata da lui, da poi ch'egli ebbe formato il sesto 
+giorno il suo corpo, ^et quod Deus insufflavit in faciem eius 
+spiraculum vitae~, come dice il testo del Genesis. Se ei non si truova 
+adunque altre cose, le quali sieno state create da Dio eterne, che gli 
+Angeli e le anime nostre; e l'anima del primo uomo fu creata da lui 
+dopo tutte le altre cose, e le altre dipoi (come si @e detto) tempo per 
+tempo; e lo Inferno fu creato, secondo Dante, il primo giorno insieme 
+con la terra; ed ei dice ch'ei non furono innanzi a lui, se non cose 
+create eterne; ei bisogna concluder necessariamente, ch'egli intenda 
+solamente degli Angeli, e che la divina iustizia lo creasse, come egli 
+dice, principalmente per punire dentro di lui quella parte di loro che 
+apostarono e si ribellarono, insieme con Lucifero, da Dio; s@i come ei 
+fu per il contrario creato da lui il regno di vita eterna per l'uomo. E 
+che ci@o sia il vero, che lo Inferno fusse creato principalmente per 
+carcere de gli Angeli rebelli a Dio, e il regno del cielo per l'uomo, 
+lo dimostra chiaramente lo Evangelio, nel quale si legge che il 
+Figliuolo di Dio, quando ei verr@a nella maest@a sua a giudicare il 
+mondo, dir@a a gli eletti: venite, benedetti da 'l mio Padre, a 
+possedere il regno, il quale vi fu apparecchiato da lui insino avanti 
+ch'ei fusse fatto il mondo; e di poi a' reprovati: andate, maledetti, 
+nel fuoco eterno il quale fu apparecchiato al diavolo e a gli angeli 
+suoi, nel qual luogo voi starete eternalmente insieme con quegli. Per 
+il che bisogna che tal luogo duri ancora egli similmente in eterno, 
+come egli dice. Dopo le quali condizioni egli soggiugne che ha ancora 
+quest'altra, la quale non @e manco grave e spaventosa di quelle ch'egli 
+ha detto sino a qui, che chiunche @e condennato e confinato da la 
+divina iustizia dentro di lui, @e ancora insieme privo di ogni speranza 
+di aver mai pi@u a uscirne, perch@e in Inferno, come @e scritto nelle 
+sacre lettere, ^nulla est redemptio~. Onde non si truova in luogo 
+alcuno autentico, che egli ne uscisse mai alcuno per esserne liberato, 
+ma solamente per quanto @e stato permesso da la divina providenza per 
+giovamento ed esempio de' mortali, facendogli loro apparire per mostrar 
+la lor miseria. Onde conclude ultimamente e finisce essa scrittura con 
+questa orribilissima sentenzia: ^Lasciate ogni speranza, voi 
+ch'entrate.~ La qual cosa parve tanto cruda e spaventosa al nostro 
+Poeta, ch'egli si volse al suo maestro, e dissegli quel che per non 
+v'infastidir pi@u oggi l'orecchie voi udirete in quest'altra lezione.
+
+	|10-12.  [~LEZIONE SESTA]
+
+	^Queste parole di colore oscuro~
+^Vidi io scritte al sommo d'una porta;~
+^Perch@e io: maestro, il senso lor mi @e duro.~
+
+Parvero tanto crude e orribili le parole che il nostro Poeta racconta 
+aver vedute scritte di colore oscurissimo sopra la porta dell'Inferno, 
+ch'egli si volse tutto spaventato a Virgilio suo maestro, e gli disse 
+che il senso e la sentenzia di quelle gli era molto duro e difficile a 
+intendere. Nel qual modo di favellare egli dimostra a un tempo medesimo 
+la riverenza ch'egli portava a Virgilio, e la modestia grande de 
+l'animo suo. Imper@o che avendogli promesso Virgilio non solo di 
+guidarlo a lo Inferno, ma di trarlo ancor di quello, e facendolo passar 
+per mezzo di color che si stanno contenti nelle fiamme del fuoco, 
+condurlo ove sarebbe chi, volendovi egli salire, lo guiderebbe a le 
+beate genti; e trovando ora scritto nel frontone della porta di esso 
+Inferno, che chi entrava dentro a quella lasciasse ogni speranza di 
+averne mai pi@u a uscire; non volse, non che risolversi, dubitare o 
+pensare n@e che Virgilio gli avesse promesso o detto il falso, n@e che 
+ancor quella cos@i orribile e spaventosa sentenzia, scritta in quel 
+luogo da la divina sapienza per giovamento e ammaestramento degli 
+uomini, non fusse vera. Ma reputando, guidato da la sua modestia, che 
+la contrariet@a, la quale gli pareva che fusse infra le parole di 
+Virgilio e quelle ch'erano scritte in quel luogo, nascesse da 'l poco 
+saper suo, gli disse, chiamandolo per reverenza Maestro, che il senso 
+di tali parole gli era duro e difficile, e che non sapeva finalmente 
+intenderle.
+
+	|13-15.~  Laonde accorgendosi come persona accorta Virgilio, che a 
+Dante nel vedere scritto nell'entrata dell'Inferno tali parole si era 
+aggiunta nuova paura, gli disse:
+
+^Qui si convien lasciare ogni sospetto,~
+^Ogni vilt@a convien che qui sia morta,~
+
+dimostrandogli come chi vuole entrare, per suo ammaestramento e per suo 
+bene, nella cognizione de' vizii, debbe scacciar da s@e ogni sospetto 
+dell'avere a esser vinto o superato pi@u ch'egli si voglia da loro; 
+conciosia cosa ch'ei non possin vincere, come dice il divino 
+Crisostomo, se non chi vuole essere vinto. Ed oltre a di questo bisogna 
+che in lui sia morta ogni vilt@a e ogni timidit@a, acci@o ch'ei non sia 
+tirato, quasi che non volendo da qualche apparenza di bene a eleggergli 
+e a seguitargli E qui @e da avvertire, che se bene la paura e il 
+sospetto sono realmente e in fatto una cosa medesima, perch@e non sono 
+altro ciascun di loro che un timore di futuro male; questo tal timore, 
+quando ei nasce da cagioni potenti e certe, si chiama ^paura~; e quando 
+ei nasce da deboli e dubbiose, si chiama ^sospetto~. E questo pu@o 
+conoscer chiaramente ciascun che osserva l'uso comune della lingua 
+nostra; perci@o che ei vedr@a che quando noi temiamo a ragione di 
+qualcosa, noi usiamo dire: io ho ^paura~ della tal cosa; e quando noi 
+ne temiamo per qualche coniettura debole, noi usiamo dire: io ho 
+^sospetto~ della tal cosa. Veggendo adunque Virgilio, che la paura che 
+aveva Dante non nasceva da cagione la quale fusse sufficiente e da 
+temere, la chiama ^sospetto~, e non ^paura~. E di poi, per dichiarare 
+ancor meglio l'intenzione sua, egli la chiama ancor ^vilt@a~, 
+dicendogli che quivi bisognava al tutto lasciarla.
+
+	|16-18.~  E perch@e egli avesse a fare maggiormente tal cosa, egli gli 
+riduce a memoria, che quando egli gli promesse di cavarlo della selva, 
+egli gli disse che lo merrebbe per uno luogo eterno, ove egli udirebbe 
+le dolorose strida di quegli spiriti i quali son tanto pieni di doglia, 
+ch'ei gridano e chiamano continovamente la seconda morte; onde dice:
+
+	^Noi siam venuti al luogo ove io ti ho detto~
+^Che tu vedrai le genti dolorose,~
+^Che hanno perduto il ben dell'intelletto.~
+
+Dove volendo egli di nuovo descrivere lo stato e la miseria d'esse 
+anime dannate, egli narra la maggior pena che in verit@a elle 
+sopportino, dicendo ch'elle hanno perduto e son prive del bene 
+dell'intelletto. Per intendimento della qual cosa @e da sapere, che 
+tutte le potenze dell'anima nostra, per non far cosa alcuna la natura 
+invano, hanno uno obbietto proprio in luogo di fine, nella fruizione 
+del quale consiste la loro perfezione, e si pu@o dire la felicit@a e il 
+bene loro, avendo ogni fine, come pruova il Filosofo nel secondo della 
+^Fisica~, ragione di bene, e non si desiderando n@e cercando cosa 
+alcuna, se non sotto spezie di bene. Da la qual cosa s@eguita 
+manifestamente, ch'ei non possa per il contrario accadere ad alcuna di 
+esse potenzie la maggiore infelicit@a, ch'esser priva di non poter 
+conseguire tal fine; come si pu@o verbigrazia vedere della potenza 
+nostra visiva, a la qual non pu@o accadere la maggiore miseria, n@e 
+cosa alcuna altra che le apporti maggior dolore, che lo essere priva di 
+vedere; laonde fu risposto da Tobia, il qual si stava vecchio e cieco 
+nelle sue case, a l'Angelo, che gli disse, salutandolo, GAUDIUM SIT 
+TIBI: ^et quid gaudii mihi esse potest, qui in tenebris sedeo et lumen 
+coeli non video?~ Stando adunque questo fondamento, sono a ragione 
+chiamate da 'l nostro Poeta dolorose e infelici quelle genti, lo 
+intelletto delle quali (che @e la pi@u degna e la pi@u nobile potenza 
+dell'anima, e quella sola che tiene del divino, e che ci fa capaci di 
+ragione) @e privo sempre del suo fine, ch'@e la cognizione della prima 
+verit@a; e questa @e Dio ottimo e grandissimo, nella visione del quale, 
+come @e scritto nel sacro Evangelio, consiste vita eterna, cio@e la 
+felicit@a e beatitudine nostra.
+
+	|19-21.~  E cos@i avendo Virgilio descritto e dimostrato di nuovo 
+appieno lo stato e la miseria delle anime dannate a Dante, egli lo 
+introdusse finalmente fra loro nel modo che narra il Poeta, dicendo:
+
+	^E poi che la sua mano a la mia pose~
+^Con lieto volto, onde io mi confortai,~
+^Mi messe dentro a le segrete cose;~
+
+dimostrando come Virgilio lo esort@o a lasciare ogni sospetto e ogni 
+viltate, non solamente con le parole, ricordandogli come egli aveva 
+promesso di condurlo a salvamento a Beatrice, ma con cenni e co' gesti, 
+mostrandogli il volto (nel qual si suole scorgere il pi@u delle volte 
+il cuore e l'animo) assai pi@u lieto che prima; della qual cosa dice il 
+Poeta, che prese conforto e contento grandissimo; e di poi pigliandolo 
+per la mano, e facendolo passare dentro a essa porta dello Inferno 
+seco. Il quale Inferno @e chiamato da lui il luogo delle ^segrete 
+cose~, s@i da la parte della divina iustizia, e s@i da la natura del 
+peccato. Da la parte della divina iustizia, per essere segretissimi e 
+occultissimi i giudicii di Dio: e da la parte delle colpe umane, 
+perci@o che essendo elleno tutte operazioni contro a quanto ne detta e 
+ne ricerca la ragione, e contro a 'l vero e a 'l bene, o naschino da 
+fragilit@a o procedino da malizia, l'uomo cerca sempre di tenerle 
+segrete, e di occultarle e ricoprirle il pi@u ch'ei pu@o, scusandole 
+con nomi e con ragioni, se non del tutto vere, almanco tanto simili al 
+vero, ch'elle apparischino, se non degne di lode, almanco di scusa e di 
+perdono.
+
+	|22-30.~  Nel qual luogo entrato il Poeta, e volendo cominciare a 
+narrare alcune sue qualitadi, e primieramente quel ch'egli udisse; 
+perci@o che se bene l'occhio nostro @e pi@u veloce nelle sue 
+operazioni, che non @e l'orecchio (e l'esperienza lo dimostra 
+chiaramente nel tagliare un legno o spezzare una pietra, ch@e chi @e 
+discosto vede molto prima dare il colpo, ch'egli oda il romore), 
+perch@e quivi era l'aria tinta e oscura, fecero per il contrario prima 
+l'operazion loro gli orecchi, che gli occhi; onde dice:
+
+	^Quivi sospiri, pianti ed alti guai~
+^Risonavan per l'aere senza stelle,~
+^Perch@e io al cominciar ne lacrimai.~
+^	Diverse lingue, orribili favelle,~
+^Parole di dolore, accenti d'ira,~
+^Voci alte e fioche, e suon di man con elle,~
+^	Facevano un tumulto, il qual si aggira~
+^Sempre in quella aria senza tempo tinta,~
+^Come la rena quando al turbo spira.~
+
+Sono i ^sospiri~ quelle voci maninconose e rammarichevoli, le quali per 
+cagion di qualche grave dolore o di qualche pensiero timoroso gli 
+uomini, avendo prima tirato alquanto a loro lo alito, mandon fuori sin 
+da 'l profondo del loro petto. Laonde si scorge e si discerne in loro, 
+oltre a esse voci rammarichevoli, una certa stracchezza e un certo 
+fastidio. E i ^guai~ son dipoi, come dice in questo luogo lo espositore 
+moderno, quelle altre voci le quali ei mandon fuori, spignendo 
+impetuosamente lo alito, con suono il quale si senta da lunge, ma non 
+si discerna terminazione alcuna in lui. E i ^pianti~ sono quei lamenti 
+i quali si fanno per qualche gran dolore, accompagnando la voce a le 
+lacrime, per sfogare da pi@u bande la doglia che altrui ha. Le quali 
+tutte a tre cose dice il Poeta, che facevano un risonare e un 
+rimbombamento d'uno eco tanto maninconoso e miserabile per quello aere 
+infernale (chiamato da lui ^senza stelle~, per non si poter vederle di 
+quel luogo, rispetto a quella falda della terra, la quale ricuopre, 
+come noi dicemmo di sopra, il vano d'esso Inferno), ch'egli, bench@e ei 
+non fusse ancora arrivato a la sboccatura e a l'orlo, ove si comincia a 
+potere scendere dentro a quello, cominci@o a sentirlo. Onde non si 
+potette tenere, mosso da la compassione dell'esser quelle cos@i 
+infelici e misere genti pur della specie medesima ch'era egli, ch'ei 
+non lacrimasse cos@i alquanto. Dopo le quali cose egli soggiugne, per 
+esprimere ancor maggiormente e la miseria loro e le crude e spaventose 
+qualitadi d'esso Inferno, che queste sei cose, cio@e diverse lingue, 
+orribili favelle, parole di dolore, accenti d'ira, voci alte e fioche, 
+e con quelle insieme suono e percotimento di mani, facevano un tumulto, 
+aggirandosi continovamente per quella aria oscura senza tempo, in quel 
+propio modo che fa in su i liti la rena, quando il turbo, nodo di 
+vento, spira ed esala; intendendo per ^diverse lingue~ i varii idiomi 
+delle molte e straniere genti le quali concorrono di qualsivoglia paese 
+quivi, dolendosi ciascuna nel suo linguaggio della sua miseria; per le 
+^orribili favelle~, i rammarichevoli ragionamenti ch'elle facevano per 
+il dolore insieme; per ^parole di dolore~, le miserie nelle quali elle 
+raccontavano l'una a l'altra, che si ritrovavano; per ^accenti d'ira~, 
+certe voci, o per meglio dire strida e suoni indeterminati, i quali son 
+segni manifestissimi di dolore e d'ira, per le qualit@a loro, e non 
+perch@e ei si comprenda tal cosa da 'l significato propio; perch@e sono 
+(come io ho detto) voci indeterminate, le quali si potrebbero chiamare 
+ancora da noi ^mugghia~, usando noi dire nella nostra lingua, quando 
+uno grida forte per qualche dolore: ^ei mette mugghia~, o ^ei mugghia~; 
+onde disse il nostro Poeta di sotto, parlando di colui il quale era nel 
+toro di Fallari:
+
+	^Come il bue Sicilian che mugghi@o prima~
+^Col mugghio di colui, e ci@o fu dritto,~
+^Che l'avea temperato con sua lima.~
+
+Per voci ^alte e fioche~ egl'intende dipoi certe voci acute, le quali 
+pare che venghino per stracchezza quasi manco. N@e credo ch'ei sia 
+possibile, come nota in questo luogo l'espositore moderno, immaginare 
+voci pi@u strane e spiacevoli a l'orecchio, che di questa sorte che 
+dice il Poeta, chiamandole ^alte~ per la grandezza del dolore il quale 
+le faceva acute, e ^fioche~ per aver durato assai a gridare; il che 
+facendole mancare, e togliendo loro alquanto di suono, faceva apparire 
+in loro una certa stracchezza e una certa debolezza, che le faceva 
+maggiormente compassionevoli e meste. E ultimamente per ^suono di 
+mani~, il qual dice ch'era insieme con quelle, il battimento delle 
+palme l'una nell'altra, che facevano quelle genti. Il che @e segno, 
+nelle cose meste, di dolore; onde lo usano fare, per mostrar maggior 
+doglia, in alcuni paesi le donne nella morte de' loro mariti. E tutte 
+queste cose mescolate insieme facevano, dice il Poeta, un tumulto e uno 
+strepito strano e spiacevole, il quale si aggirava in quella aria 
+^tinta~, cio@e turbata e rabbaruffata; usandosi dir nella nostra 
+lingua, quando egli @e una aria simile: egli @e un tempo ^tinto~; e 
+cos@i ancor quando ei minaccia piove rovinose con baleni, tuoni e altre 
+cose simili: il tempo ^si tingne~. E per meglio esprimere e descrivere 
+tal cosa egli assomiglia questo tumulto cos@i confuso, che si aggirava 
+per quell'aria oscura, a uno di quei nodi di vento, che i latini 
+chiamano ^turbo~, e noi vulgarmente ^girone~; il quale voi vedete tal 
+volta entrare fra la rena e fra la polvere, e sollevarla e innalzarla 
+da terra, facendola girare per l'aria, a guisa di una trottola o di uno 
+paleo, chiamato da i latini ^turbo~; per il che sono chiamati, per 
+metafora, ancor da loro similmente tali venti, ^turbi~. E generansi 
+questi ^turbi~, o altramente ^tifoni~ (ch@e cos@i gli chiama ancora 
+Aristotile nel secondo delle ^Meteore~), della medesima materia che si 
+generano ancor tutti gli altri venti, cio@e di quella esalazione fumosa 
+e secca, che il sole cava con il calor suo della terra; e si fanno, 
+secondo ch'ei mostra dipoi nel principio del terzo, in uno di questi 
+due modi: o abbattendosi a essere nell'aria a riscontro l'uno da 
+l'altro due nugoli ne' quali @e racchiusa di questa esalazione, la 
+quale fuggendo, come contrario, la frigidit@a d'essi nugoli, gli 
+spezza, ma cos@i per fianco; laonde uscendo di essi nugoli, e 
+riscontrandosi l'una parte nell'altra, e non potendo andare in su per 
+cagion del freddo dell'aria, se ne vengono aggirandosi l'una parte 
+dietro a l'altra verso la terra; dove trovando polvere o altre cose 
+simili, le fanno aggirare come voi vedete, insino a tanto ch'elle si 
+consumano e vengono manco: o veramente quando una quantit@a di tale 
+esalazione @e in uno nugolo, e aggirandosi per uscirne, spezza tal 
+nugolo da la parte di sotto, ove egli @e sempre pi@u sottile e pi@u 
+debole; perci@o che di sopra @e egli sempre ricondensato e ingrossato 
+da la frigidit@a dell'aria ch'esce di quello; e discende cos@i 
+aggirandosi sino in terra, e fa lo effetto medesimo che noi dicemmo che 
+facevan quelle due.
+
+	|31-33.~  In questo modo adunque sentendo il Poeta aggirarsi quel 
+tumulto in quell'aria tinta e oscura, dice:
+
+	^Ed io che avea di error la testa cinta,~
+^Dissi: maestro, che @e quel che io odo?~
+^E che gente @e, che par da il duol s@i vinta?~
+
+Dove il Boccaccio, che ha il suo testo che dice ^orrore~, espone paura; 
+e il Landino, che ha ^errore~, espone ignoranza. Il che quadra meglio 
+al testo; perch@e ei non fu la paura, ma la ignoranza, quella che lo 
+fece domandare, e che romore era quello ch'egli udiva, e che gente 
+fusse quella la quale pareva cos@i vinta e sopraffatta ^da il~ dolore, 
+o vero ^nel~ dolore, secondo certi altri testi.
+
+	|34-36.~  A la quale domanda risponde Virgilio, che le anime di tutti 
+quegli, i quali vissono al mondo in tanta pigrizia ch'ei non meritarono 
+mai n@e fama n@e loda alcuna, tenevano il modo ch'egli udiva, essendo 
+cos@i punite di tal fallo in quel luogo. Il quale @e, come dimostra il 
+Giambullari, una caverna la quale @e fra la porta dell'Inferno e il 
+fiume di Acheronte. Il qual fiume corre e si trova avanti che altrui 
+arrivi a l'orlo, dove si comincia a scendere nel vano dello Inferno. E 
+questa caverna @e nella grossezza della falda del terreno che lo 
+ricuopre. N@e gira per@o tal caverna attorno al vano, come vogliono 
+alcuni, ma si distende solamente e dura da la porta a la fiumara, con 
+tanta larghezza, quanta si conviene a un ricetto posto inanzi a una 
+fabbrica cos@i grande.
+
+	|37-42.~  E questo luogo dimostra Virgilio essere assegnato a tali 
+anime in compagnia di quegli angeli, i quali non si accostarono nella 
+rebellione di Lucifero n@e a lui n@e a Dio, ma si stettero ambigui e di 
+mezzo. Per il che i cieli, per non macchiare in modo alcuno, ricevendo 
+una cosa impura, la lor purit@a e la lor bellezza, gli cacciaron da 
+loro. N@e manco gli ricevette ancora il profondo Inferno, acci@o che i 
+demoni, i quali son dentro a quello, non avessero questo contento di 
+veder dannati insieme con loro in un luogo medesimo di quegli che non 
+peccarono come loro. La quale opinione, recitata qui da Dante per la 
+bocca [di] Virgilio, che infra gli Angeli fussero alcuni che non 
+volsero accostarsi n@e a Dio n@e [a] Lucifero, fu gi@a di alcuni 
+dottori antichi, e particularmente di Origenes; de' quali alcuni 
+dissero, ch'ei fu assegnato loro per carcere, infino a tanto che Dio 
+non deliberasse altro di loro, questo aere caliginoso; alcuni, ch'ei 
+furon messi in questa parte dell'Inferno, che dice Dante; e alcuni, 
+ch'ei son riservati in certa parte del cielo, donde ei descendon poi 
+tempo per tempo, secondo che dispone la providenza divina (e queste son 
+le nostre anime) ne' corpi umani, che si generano continovamente; ne' 
+quali ei son dipoi forzati, mentre ch'essi corpi sono in vita, a 
+dichiararsi se ei vogliono seguitare Dio o ribellarsi da lui. La quale 
+opinione tenne Matteo Palmieri, poeta e cittadin nostro fiorentino, nel 
+suo libro della ^Citt@a di vita~; il qual libro fu dipoi vietato e 
+dannato, per esser tal opinione contraria a la determinazione della 
+Chiesa; la quale tiene, come scrive il Maestro delle sentenzie nella 
+terza e quarta distinzione del secondo, che tutti gli Angeli, i quali 
+non si accostarono a Dio, peccassero e sieno dannati insieme con 
+Lucifero. Ma perch@e a tempo di Dante non era cos@i dichiarata questa 
+opinione, come ella @e a' tempi nostri, Dante seguitando, come egli ha 
+fatto in molte altre cose, i dottori antichi, tiene quella che noi 
+abbiamo detto; come dicono le parole del testo, le quali son tanto 
+chiare, ch'elle non hanno bisogno d'altra esposizione.
+
+	|43-45.~  Per il che (passando pi@u oltre) Dante, poi ch'egli ebbe 
+inteso da Virgilio quali fussero quelle genti, gli venne ancor voglia 
+di sapere per qual cagione elle si lamentassero cos@i amaramente, e che 
+pena fusse la loro; onde s@eguita il testo:
+
+	^Ed io: Maestro, che @e tanto greve~
+^A lor, che lamentar gli fa s@i forte?~
+
+A la qual domanda volendo sadisfar Virgilio, come egli aveva sadisfatto 
+ancora a l'altre, dice ch'ei ^Rispose: dicerolti molto breve,~ volendo 
+inferire, con dirgli che gli risponderebbe a ci@o molto brevemente, che 
+la lor vita era stata tanto bassa e inutile, ch'ei non faceva mestieri 
+favellare molto di loro, come vi sar@a esposto pi@u chiaramente da noi 
+nella lezione che verr@a.
+
+	|46-48.~  [LEZIONE SETTIMA]  Avendo dimandato il nostro Poeta, come 
+voi sentiste nella lezione passata, qual cagione fusse quella la quale 
+aggravasse tanto quegli spiriti negligenti, ch'ei si lamentassero cos@i 
+forte, gli fu risposto brevemente da Virgilio:
+
+	^Quanti non hanno speranza di morte,~
+^E la lor cieca vita @e tanto bassa,~
+^Che invidiosi son d'ogni altra sorte.~
+
+Per notizia e dichiarazione della qual risposta voi avete a sapere, 
+ch'ei non si truova cosa alcuna in questo universo, che non abbia 
+qualche operazione propria, secondo la quale non operando ella, ella si 
+pu@o chiamar vana e imperfetta, e oltre a di questo dire in certo modo 
+ch'ella non sia quello ch'ella @e. E la cagione @e, per procedere nelle 
+cose tali operazioni da la natura e da la forma loro; e la forma @e 
+quella ella sola, come voi avete inteso pi@u volte, che d@a a le cose 
+quello essere ch'elle hanno. Onde non operando elleno, si pu@o dire 
+ch'elle non abbino forma, e non avendo forma, ch'elle similmente non 
+sieno. E di questo voi ne potete veder la esperienza fra le cose 
+artificiali, per grazia di esempio in una sega, la quale subito che 
+ella mancasse di segare, ella mancherebbe ancor di esser pi@u sega; il 
+che nascerebbe da lo aver perduta quella forma, la quale la faceva 
+esser sega. Imper@o che ella non segava, per esser ferro (ch@e se cos@i 
+fusse, ei segherebbe ci@o che fusse di ferro), ma solamente per esser 
+sega. Da la qual cosa segue, che quanto una forma @e pi@u nobile e pi@u 
+perfetta, tanto sono ancor pi@u nobili e pi@u perfette l'operazioni che 
+procedon da lei; onde son pi@u nobili l'operazioni degli animali, che 
+quelle delle piante; perch@e la lor forma, la quale @e l'anima 
+sensitiva, @e pi@u nobile e pi@u perfetta che quella delle piante, la 
+quale @e l'anima vegetativa. Per il che par cosa molto conveniente, 
+ch'ei sien degne di maggior biasimo quelle forme, che son pi@u nobili e 
+pi@u perfette, e si stanno ociose e non operano, che quelle che son 
+manco nobili e manco perfette, e si stanno similmente ancor elleno 
+ociose e senza operare. Conoscendo adunque il nostro Poeta, come 
+l'anima umana, per esser capace della ragione, @e la pi@u nobil forma 
+che si ritrovi in questo universo, e massimamente da 'l cielo della 
+luna in gi@u (per il che doverebbe l'uomo operare e pi@u e meglio di 
+alcuna altra cosa), sono con gran considerazione poste da lui in questa 
+caverna, innanzi a la entrata dello Inferno, nella pena che si vedr@a 
+di sotto, quelle di tutti coloro i quali furon tanto negligenti e pigri 
+a operare, ch'ei non lasciaron di lor fama o nome alcuno al mondo. 
+Conciosia cosa che il non operar l'uomo secondo che si conviene a la 
+natura sua sia non solamente vietato dalla legge Cristiana, la qual 
+chiama quei servi che nascondono i talenti, dati loro da 'l lor 
+signore, ^servi inutili~, ma ancor da la naturale. E lo dimostra 
+apertamente Plutarco, quando riprendendo egli coloro i quali usavan 
+dire a' tempi suoi: Vivi s@i e in tal modo che nessuno senta che tu sia 
+vivuto; ei dice che l'animo di chi si vive ocioso e non opera, ancor 
+ch'ei sia buono, fa come l'acque che stanno ferme e non corrono, che si 
+corrompono e marciscono in breve tempo, e come l'acciaio che non si 
+adopera, che ancor che sia lucido e pulito, genera nel non esser 
+adoperato una ruggine la quale lo guasta e consuma tutto.
+
+	|49-51.~  Sono adunque posti da 'l Poeta con gran ragione in questo 
+luogo quegli, la vita de' quali egli dice che fu tanto bassa e cieca 
+(ove si ha a intendere ^cieca~ passivamente, cio@e non veduta, in quel 
+modo che noi chiamiamo ancor ^cieca~ una fossa che non si vede), ch'ei 
+non hanno lasciato al mondo nome o fama alcuna di loro. Per la qual 
+cosa soggiugne il testo: ^Misericordia e iustizia gli sdegna,~ come 
+cose vili e inutili, non gli accettando l'una nel cielo, e non 
+disponendo l'altra ch'ei sien puniti insieme con gli altri dannati 
+nell'Inferno, ma stieno in questo luogo; ove non avendo eglino speranza 
+di morte, cio@e che questo misero e infelice stato loro abbia mai a 
+finire, eglino stanno in tanta angoscia e in tanta pena, ^Che invidiosi 
+son d'ogni altra sorte,~ insino a quella di coloro che son posti in 
+maggior pena di loro; tanto @e grande la doglia che apporta loro la 
+vergogna della bassezza loro. Della quale non parendo a Virgilio, che 
+fusse pi@u da favellare, n@e manco da considerar pi@u loro, dice 
+ultimamente: ^Non ragionar di ci@o, ma guarda e passa,~ confortandolo a 
+non mettere lo studio o perdere il tempo in soggetti cos@i bassi.
+
+	|52-54.~  La qual cosa volendo far Dante, dice che vide nel levar gli 
+occhi una insegna ovvero bandiera grandissima aggirarsi con tanta 
+velocit@a e prestezza per quel luogo, ch'ei pareva ch'ei non se le 
+convenisse posa o fermezza alcuna; ch@e cos@i espongono gl'interpreti 
+quel verso: ^Che d'ogni posa mi pareva indegna.~ La qual cosa significa 
+come, chi non si risolve a operar per qualche fine, non ha mai quiete o 
+riposo alcun ne l'animo.
+
+	|55-57.~  E dietro a questa insegna dice il Poeta che correva s@i 
+lunga ^tratta~, ovvero tirata, cio@e una moltitudine tanto grande di 
+gente, ch'ei non arebbe mai creduto prima ^Che morte tanta ne avesse 
+disfatta.~ 
+
+	|58-60.~  Infra la quale, poscia ch'egli ebbe conosciuti alcuni, egli 
+dice che guard@o e vide l'ombra e l'anima di colui, ^Che fece per 
+vilt@a lo gran rifiuto.~ E questo, secondo i buoni espositori 
+(lasciando stare quel che dice il nipote del Poeta, di Diocliziano il 
+quale rifiut@o l'imperio, e quel che dice il Landino, di Esa@u che 
+rifiut@o la primogenitura paterna), fu frate Piero de Mairona, 
+fondatore dell'Ordine de' monaci Celestini. Il quale essendo, mentre 
+ch'egli si stava solitario in un certo eremo presso a l'Aquila, eletto 
+Papa dopo la morte di Niccolao quarto (mediante la discordia de' 
+Cardinali, i quali non si accordaron mai a far un del lor collegio), 
+rifiut@o, secondo che mostra qui il Poeta, per il suo poco animo tal 
+degnit@a. Bench@e ei si truova di quegli i quali dicono ch'ei fece tal 
+cosa, ingannato da la malignit@a di quello che successe dopo lui in tal 
+luogo, chiamato Bonifazio ottavo. Il quale conoscendo la simplicit@a 
+sua, lo condusse a tale con le sue astuzie, ch'egli dopo il sesto mese, 
+reputandosi non esser sufficiente a tale officio, lo rifiut@o 
+pubblicamente, e si ritorn@o nel suo eremo a fare penitenzia. Laonde 
+pensando molti, attesa la santit@a della sua vita, ch'egli lo avesse 
+fatto per umilt@a, egli fu dipoi da Clemente quinto canonizzato, e 
+ascritto al numero de' santi. E che il Poeta intenda di costui, lo 
+dimostra (come nota in questo luogo con gran diligenza lo espositore 
+moderno) chiaramente il modo del favellare de 'l Poeta; il quale non 
+dicendo, ne che egli gli fusse detto chi egli era da Virgilio n@e da 
+altri, n@e manco ch'egli se gli dessi a conoscer da s@e, come ei fa di 
+tutti gli altri che non furono a' tempi suoi, ma che lo riconobbe da 
+s@e, mostra di averlo conosciuto in vita. Il che potette molto bene 
+essere; imper@o che egli fu creato Papa l'anno MCCXCIII, nel qual tempo 
+Dante aveva anni XXVIII; e and@o poco di poi ambasciadore a Roma a 
+Bonifazio suo successore, ove ei potette facilmente conoscerlo e 
+vederlo. E se qualcuno si opponesse, dicendo: come mette mai Dante 
+costui nello Inferno, avendolo canonizzato la Chiesa e messo nel numero 
+de' santi? si risponde, ch'ei non era seguito ancor tal cosa. E se 
+qualcuno oltre a di questo si maravigliasse, ch'essendo egli persona 
+tanto semplice e di cos@i poco animo, egli fusse eletto al papato, si 
+gli risponde, oltre a lo esserne stata cagione (come noi dicemmo di 
+sopra) la discordia la qual si ritrovava fra' Cardinali, ch'ei non 
+aveva avuto mai fino allora occasione di dar saggio della 
+pusillanimit@a sua, come egli ebbe da poi ch'ei fu posto in tal 
+grandezza; non essendo cosa alcuna la quale scuopra pi@u gli animi 
+degli uomini e dimostri chi in fatto ei sieno, che il porgli in qualche 
+grandezza o in qualche amministrazione di magistrato e di signoria; 
+onde si usa dire quasi che per proverbio: ^Magistratus virum ostendit~. 
+Perci@o che egli avvien proprio allora a gli uomini, come dice Plutarco 
+che avviene a' vasi; i quali subito che tu gli empi, si vede se ei 
+versano, e da qual parte ei versano. 
+
+	|61-63.~  Veggendo adunque e riconoscendo Dante costui, dice che 
+conobbe subitamente, come questa era la schiera de' cattivi, cio@e non 
+buoni, ma vili e disutili, e perci@o spiacenti a Dio; e tal moltitudine 
+dice che era grandissima, dimostrando (come disse ancora il nostro 
+Petrarca) ^Che infinita @e la schiera degli sciocchi,~ i quali 
+consumano in vilissimo ozio la lor vita, senza pensar mai a che fine ei 
+siano stati creati da Dio.
+
+	|64-69.~  E questi dice che seguitono tutti una insegna, la quale egli 
+non pone che fusse pi@u di un colore che di uno altro, n@e manco 
+contrasegnata con impresa o livrea alcuna, solamente per mostrare come 
+questi tali non si eran mai risoluti, come si @e detto di sopra, in 
+vita n@e a far bene n@e a far male; onde son chiamati da lui ^Gli 
+sciagurati che mai non fur vivi,~ convenendosi questo nome ^non esser 
+vivo~ propriamente, non solo a' morti, ma ancora a quegli i quali non 
+operono mai cosa alcuna o poco in vita, se non degna di lode, almanco 
+di biasimo, come fece colui il quale arse, per acquistar fama, il 
+tempio di Diana in Efeso. Al quale proposito recita in questo luogo il 
+nipote di Dante, come essendo ne' tempi suoi in Ravenna dato la nuova a 
+un cavaliere onoratissimo, chiamato M. Lucio da Cesena, che un 
+figliuolo ch'egli aveva (il quale era tanto dappoco, ch'egli non aveva 
+potuto solamente mai farlo dare a piacere alcuno, ma si stava tutto il 
+giorno senza far cosa alcuna a sedere fra i pi@u vili servi di casa) 
+era morto, egli rispose a quel tale che gli arrec@o le novelle: Tu 
+dovevi dir sotterrato, se tu volevi dirmi cosa nuova, ch@e morto mi 
+sapeva io che egli @e stato sempre. Il qual bellissimo concetto scrisse 
+elegantissimamente, fra i suoi tumuli, d'uno uomo simile, chiamato Hia, 
+il Pontano dicendo:
+
+	^Nunquam vixit Hias, sed Hias hoc conditur antro;~
+^Si vixit nunquam, mortuus est neque Hias.~
+
+E la pena con la quale son puniti questi tali @e, secondo che dice il 
+testo, ch'ei sono ignudi e continovamente ^stimolati~, cio@e punti 
+(modo di dire metaforico, tolto da quel pungetto da buoi, che usano i 
+nostri contadini, chiamato da loro ^stimolo~), da mosconi e da vespe le 
+quali fanno, trafiggendo loro la persona e il volto, cader loro il 
+sangue, mescolato con le lacrime del lor pianto, insino a' piedi in su 
+la terra, ov'egli @e dipoi da fastidiosi e puzzolentissimi vermini 
+raccolto; dimostrando per i mosconi che gli pungono, i quali sono 
+animali che si pascono d'ogni bruttura, i vili e bassi pensieri loro; e 
+per le vespe, le quali pungono acerbissimamente, le punture di chi 
+ragionevolmente gli biasima della vile e bassa vita ch'ei tengano.
+
+	|70-78.~  Dopo la qual cosa levando egli, come gli aveva detto 
+Virgilio, da loro gli occhi, e ragguardando pi@u oltre, egli soggiugne: 
+^Vidi gente a la riva di un gran fiume.~ Le quali domandando egli a 
+Virgilio chi elle fussero, e per qual cagione elle parevano, secondo 
+ch'ei discerneva per quel lume cos@i fosco e oscuriccio, tanto pronte e 
+desiderose di voler trapassare quel fiume, gli fu risposto da Virgilio, 
+ch'egli gli sarebbe racconto il tutto, subito ch'eglino fermerebbero i 
+passi sopra la trista riviera d'Acheronte. Per il che, temendo il Poeta 
+di non gli essere stato grave e molesto col troppo dimandare, dice che 
+^si trasse~, cio@e si ritir@o di pi@u parlare (ch@e in questo medesimo 
+significato us@o ancor poi pi@u gi@u questo verbo il Poeta, dicendo: 
+^Traemmoci cos@i da l'un de' lati,~ cio@e ritirammoci), insino a tanto 
+ch'eglino arrivarono a la riva del fiume. Questo fiume di Acheronte, 
+ch@e cos@i lo chiama il testo, posto tra il fine di questa caverna 
+degli sciagurati e lo orlo e sboccatura del vano dell'Inferno, scrive 
+Dante nel quattordecimo capitolo di questa cantica, che nasce insieme 
+con gli altri tre fiumi infernali, cio@e Stige, Flegetonte e Cocito, 
+nella isola di Creta da le lacrime ch'escon degli occhi di una certa 
+statua, la quale egli dice essere in sul monte d'Ida; le quali, forando 
+la terra e scendendo dentro a lo Inferno, fanno questi quattro fiumi, 
+il primo de' quali @e questo chiamato Acheronte, cio@e privazion di 
+gaudio, per dimostrare come chi scende a lo Inferno passa in uno luogo 
+privo d'ogni letizia e d'ogni allegrezza. Onde fu convenientissimo 
+epiteto questo che dette il Poeta a la sua riviera, chiamandola 
+^trista~, cio@e maninconiosa; ch@e cos@i significa questa voce, quando 
+ella @e usata propiamente nella nostra lingua, come ella significa 
+ancora nella latina, dond'ella @e derivata nella nostra, e in questo 
+significato l'usano i buoni scrittori; onde disse il Petrarca, nella 
+canzone S@I @E DEBILE IL FILO, ^mantienti, anima trista~, e il 
+Boccaccio, nella ^Fiammetta~, ^quando aran fine i tristi e dolenti miei 
+pensieri~; se bene ei si usa oggi vulgarmente ^tristo~ per sciagurato e 
+per cattivo.
+
+	|82-87.~  E a questo fiume arrivato insieme con Virgilio, il Poeta 
+dice:
+
+	^Ed ecco verso noi venire per nave~
+^Un vecchio bianco per antico pelo.~
+
+E questo era Carone nocchiere, finto da 'l Poeta vecchio e canuto, a 
+imitazione di Virgilio, il qual disse ancora egli di lui:
+
+^Terribili squallore Caron, cui plurima mento~
+^Canicies inculta iacet....~
+
+Questo essere passate l'anime, che vanno a lo Inferno, da Carone hanno 
+tratto i poeti (secondo che scrive in questo luogo, allegando Diodoro 
+Siculo, lo espositore moderno) da 'l costume il quale usavano 
+anticamente, nel seppellire i loro morti, gli Egizii. Le leggi de' 
+quali proibivano ch'ei non si potesse dare sepoltura a corpo alcuno, se 
+egli non n'era prima giudicato degno. E il modo ch'ei tenevano nel 
+darne la sentenzia era questo, ch'ei conducevano il giorno deputato ai 
+giudici, i quali erano sopra tal cosa, il corpo del morto, facendolo 
+passare un lago, il quale era innanzi al luogo ov'eglino stavano, in 
+una barca dai parenti sotto la custodia del nocchiere di essa barca, il 
+quale si chiama nella lor lingua Carone; dove essendo dipoi e accusato, 
+e a rincontro difeso, se egli era giudicato, non per nobiltade o per 
+ricchezza, ma per essere vivuto virtuosamente, degno di sepoltura, ei 
+lo seppellivan quivi pubblicamente con molte cerimonie; ed essendo 
+altrimenti, se lo riportavano a casa, e seppellivanlo nelle loro case 
+secretamente senza cerimonia alcuna. E perch@e il medesimo nocchiere 
+riguidava nel riportarlo a casa (il che era cosa disonorata) la barca, 
+i poeti dicono che Carone, preso da chi per la concupiscenza, da chi 
+per il tempo e per la consuetudine, e da chi per il libero arbitrio, 
+guida l'anima con la barca della volutt@a nell'Inferno del peccato e 
+del dolore; per il che dice il Poeta, che come egli gli vide, egli 
+grid@o ^guai~ (voce che significa dolore e male contro a chi ella si 
+pronunzia) a voi, anime prave e viziose; soggiugnendo che il primo 
+male, ch'egli annunziava loro, era ch'elle non sperassero mai pi@u di 
+avere a veder il cielo; perci@o che egli le menava nelle tenebre 
+eterne, cio@e nella privazione eterna della luce, e oltre a di questo 
+in dolore e in pena grandissima, in caldo e in gelo; ch@e cos@i causano 
+all'uomo queste due qualit@a, quando elle eccedono e trapassano quel 
+grado d'intensione, ch'egli pu@o sopportare. Le quali tre pene, cio@e 
+tenebre, caldo e gelo, cava il Poeta nella Scrittura antica da le 
+parole di Iob, e nella nuova da quelle de lo Evangelio; per@o che 
+parlando Iob de i dannati, dice: ^in tenebris sicut in luce ambulant, 
+et ad nimium calorem transibunt ab aquis nivium~; e ne lo Evangelio @e 
+chiamato lo Inferno ^le tenebre esteriori~, nelle quali ^est ignis 
+aeternus et frigus et stridor dentium~. Delle quali tre pene si serve 
+finalmente ancora il nostro Poeta in questo suo Inferno; primieramente 
+delle tenebre, cio@e della privazion della luce nel Limbo, per 
+punizione di quegli che non hanno avuto il lume della fede e il 
+battesimo; del fuoco, per pena e gastigo de' peccati della fragilit@a e 
+della malizia, i quali son puniti per tutti quei cerchi che si truovano 
+avanti il burrato di Gerione; e del freddo e del ghiaccio, per punire 
+quelli della efferit@a e bestialit@a, i quali son puniti nel fondo e 
+nel centro dell'Inferno.
+
+	|88-93.~  Ma perch@e Carone si accorse in questo mentre come Dante era 
+vivo, onde non era venuto ancora il tempo ch'egli dovesse portarlo al 
+conspetto di Minos a essere giudicato al luogo che meritavano le colpe 
+sue, come egli faceva le altre anime; egli gli disse: ^E tu che sei 
+cost@i, anima viva,~ (cio@e che d@ai vita a cotesto corpo, mentre che 
+tu vi stai dentro) p@artiti da coteste anime, le quali essendo sciolte 
+dai loro corpi son giunte al termine ch'elle debbono esser giudicate e 
+punite dei loro falli, il che non avviene a te, il quale per essere 
+ancora in vita sei a tempo a purgartene. E veggendo ch'egli per tali 
+parole non si partiva, gli disse, negandogli finalmente il passaggio, 
+ch'egli passerebbe quel fiume per altra via e per altri porti, perci@o 
+che pi@u lieve legno che il suo lo porterebbe; volendo significare per 
+tali parole, come molto pi@u leggieri cagioni, che non era la 
+dannazione eterna, erano atte, mentre ch'egli era cos@i vivo, a farlo 
+passare nella privazion del gaudio e della quiete. Conciosia cosa ch'ei 
+non sia errore alcuno, per minimo ch'egli sia, che non partorisca nella 
+conscienza di chi vuol vivere secondo la ragione e moralmente, dolore e 
+rimorso grandissimo.
+
+	|94-96.~  Le quali parole di Carone avendo udite Virgilio, e 
+conoscendo per il lume ch'egli aveva avuto da Beatrice, come ei non era 
+potenza alcuna la quale potessi opporsi e resistere a la divina, gli 
+rispose in difesa di Dante:
+
+	^...... Caron, non ti crucciare,~
+^Vuolsi cos@i col@a, dove si puote~
+^Ci@o che si vuole, e pi@u non domandare.~
+
+	|97-99.~  Laonde intendendo Carone, che cos@i era stato deliberato da 
+colui del quale @e scritto: ^omnia quaecumque voluit fecit~, ferm@o il 
+suo parlare; ch@e cos@i vuole inferire il Poeta, dicendo:
+
+	^Quinci fur quete le lanose gote~
+^Al nocchier della livida palude,~
+^Che intorno agli occhi avea di fiamme rote;~
+
+chiamando le gote pilose di Carone, metaforicamente e per similitudine, 
+^lanose~, per essere i peli a gli uomini in luogo delle lane a le 
+pecore; e la fiumana di Acheronte ^palude~, per mostrar ch'ella stia 
+pi@u tosto ferma, a guisa che fanno l'acque ne' luoghi paludosi, 
+ch'ella corresse; e ^livida~, per apparir le sue acque, in quell'aria 
+cos@i oscura e nel barlume di quei fuochi, di quel color pagonazziccio 
+luccicante, che appariscon quei segni che nascono da battiture o da 
+percosse, i quali noi chiamiamo vulgarmente ^lividi~; e dicendo che 
+esso nocchiere, cio@e Carone, aveva intorno a gli occhi ruote di 
+fiamme, non tanto per imitar Virgilio, il qual disse di lui: ^...... 
+stant lumina flammae,~ quanto per dimostrar con tal segno la crudelt@a 
+e la ira sua verso di esse anime.
+
+	|100-105.~  Le quali egli dice che subito ch'elle udirono le crude e 
+dispietate parole sue, essendo lasse e stracche per il dolore, e nude e 
+spogliate d'ogni aiuto, cangiarono per la paura il colore, e tremando e 
+dibattendo i denti cominciarono a guisa di disperate come elle erano, a 
+bestemmiare e maledire ^Dio~, esecutore in loro della sua iustizia; ^i 
+loro parenti~, i quali l'avevano generate; ^l'umana specie~, dolendosi 
+di non essere pi@u tosto anime di altri animali, che di uomo; il 
+^luogo~ e il ^tempo~, dove e quando elle nacquero, e di pi@u il ^seme~, 
+^Di lor semenza e di lor nascimenti,~ cio@e della generazione del loro 
+composto; imper@o che ei non basta a la generazione de l'uomo, per 
+essere egli animale perfettissimo, la materia e la virt@u universale 
+vivificativa del cielo, come ella fa nella generazione di molti animali 
+imperfetti i quali nascono di putrefazione; ma gli bisogna ancora 
+l'operazione dello agente univoco, cio@e della specie medesima; onde 
+disse il Filosofo: ^sol et homo generat hominem~.
+
+	|106-108.~  Dopo la qual cosa dice il Poeta ch'elle si ritrassero 
+piangendo amaramente tutte insieme, accostandosi a la malvagia e 
+dolente riva, la quale ^attende~, cio@e aspetta (ch@e in tal 
+significato usarono molte volte quei tempi questo verbo), ciascuno 
+peccatore; ch@e altro non vuol dire ^chi Dio non teme~, se non chi @e 
+peccatore. Perci@o che non si potendo temere Dio come male, essendo 
+egli il vero e sommo bene, non vuol dire altro il ^non temerlo~, che il 
+non temer di offenderlo, cos@i come per il contrario il ^temerlo~, 
+temere di offenderlo; il che @e cosa tanto santa e pia, che il Profeta 
+disse che il principio della sapienza era il timor di Dio.
+
+	|109-111.~  A questa malvagia riva adunque raccoglie queste infelici 
+anime Carone demonio, con occhi infiammati a guisa di ^bragia~, cio@e 
+brace accesa; ch@e l'una e l'altra voce usa la nostra lingua. E batte e 
+percuote col suo remo ciascuna che ^si adagia~, cio@e non si affretta; 
+il quale verbo @e qui formato ad arte da 'l Poeta, per maggiore 
+espressione del suo concetto, da questo nome ^agio~, il quale significa 
+una certa commodit@a, e un fare le cose senza fretta o prestezza alcuna.
+
+	|112-117.~  Per la qual cagione, temendo elleno tali battiture, dice 
+ch'elle si gittavano ad una ad una da quel lito a i cenni di Carone, in 
+quel propio modo che si levano e cascano lo autunno le foglie da i rami 
+de gli arbori l'una appresso l'altra, insino a tanto che lo arbore vede 
+in terra tutte le sue spoglie, cio@e non gnene resta alcuna; o come si 
+getta un augello, cio@e uno sparviere o falcone o altro uccello rapace, 
+a i cenni e al richiamo del padrone; comparazioni tolte da Virgilio nel 
+sesto, e dette da 'l nostro Poeta (come pu@o veder ciascun che vuole) 
+non manco leggiadramente in questa lingua, che se le dicesse Virgilio 
+in quella.
+
+	|118-120.~  In questa maniera adunque dice il Poeta che se ne andavano 
+quelle anime (chiamate da lui ^il mal seme di Adamo~, non per esser 
+nate di lui, come i loro corpi, ma per l'affinit@a e unione grande 
+ch'elle ebbero con quegli, mediante la quale elle si procacciaron 
+parimente e per loro e per quegli la dannazione eterna) ^su per l'onda 
+bruna~, cio@e su per l'acque di Acheronte, chiamate da lui dianzi 
+^livide~, e ora ^brune~, a maggior espressione della brutta qualit@a di 
+quelle. Ove ^avanti~, cio@e prima, che queste imbarcate ^sieno discese~ 
+e smontate di l@a nell'altra ripa, ^anco~, cio@e ancora, ^si aduna~, si 
+raccoglie e ristringe insieme, ^di qua~, in su la proda ov'erano i 
+nostri Poeti, un'altra ^schiera~ e un'altra moltitudine di anime per 
+passare ancora elleno similmente a l'altra riva. Nelle quali parole 
+egli dimostra esser grandissimo il numero delle anime le quali venivano 
+in quel luogo per passare a lo Inferno. Il che non @e maraviglia, 
+considerando ch'ei convengono quivi non solamente quelle de' Cristiani, 
+ma quelle di tutte le sette, e finalmente quelle di tutte le parti del 
+mondo. A questa riva di Acheronte essendo adunque arrivati i nostri 
+Poeti, Virgilio volendo sadisfare a Dante, il quale lo aveva domandato 
+che genti fossero quelle, e qual cagione era quella che le faceva parer 
+cos@i pronte al passare, gli risponde quel che voi udirete (per non 
+essere al presente pi@u lungo) domenica che verr@a.
+
+	|121-123.~  [LEZIONE OTTAVA]
+
+	 ^Figliuol mio, disse il maestro cortese....~
+
+Avendosi sentito il nostro Poeta, quando Virgilio volle rispondere a la 
+sua domanda, chiamare ^figliuolo~ (il qual nome, se bene egli significa 
+una certa superiorit@a, importa e dimostra insieme con quella uno amore 
+grandissimo), chiama ancora egli, Virgilio, oltre a maestro, ^cortese~ 
+e pieno d'ogni bel costume, e particularmente di quella liberalit@a e 
+di quel desiderio di ammaestrare e giovare altrui, che Platone stimava 
+esser tanto proprio dell'uomo, ch'ei diceva ch'egli era nato solo per 
+questo. Da la qual cortesia mosso Virgilio, volendo primieramente 
+rispondere a la prima parte della domanda fattagli da Dante, la qual 
+fu: che genti fossero quelle, dice:
+
+^Quegli che muoion nella ira di Dio~
+^Tutti convengon qui d'ogni paese.~
+
+Ove @e da notare che se bene la morte @e comune a tutti gli uomini (o 
+sia per necessit@a e propriet@a naturale della materia della qual son 
+composti i loro corpi, la quale essendo, come vogliono i filosofi, in 
+potenza a tutte le forme, si spoglia del continovo della una, e vestesi 
+de l'altra; o sia per avercela procacciata il primo nostro padre Adamo 
+con la sua disubbidienza, come tiene la religione cristiana), ella non 
+fa per@o in tutti il medesimo effetto. Imper@o che ella fa trapassare 
+gli eletti, e quegli che muoiono nella grazia di Dio, da una vita 
+mortale e piena di miserie a una immortale e felicissima; e i 
+reprobati, e che muoion nella sua disgrazia, per il contrario da una, 
+che ha pur nome di vita, a una morte che non muor mai, e a una miseria 
+inestimabile e grandissima. Onde @e chiamata da le sacre scritture la 
+morte de' giusti ottima, e quella de' peccatori pessima. La qual cosa 
+volendo esprimere il Salvator nostro ne' suoi evangelii con una parola 
+sola, chiam@o la morte sonno, rispondendo a coloro che gli dissero come 
+Lazero era morto: Lazero, amico nostro, dorme; assomigliando la morte a 
+il sonno; perci@o che come il sonno @e a i sani un riposo e un ristoro 
+delle fatiche e degli affanni loro, e oltre a di questo gli rende da 
+poi pi@u espediti e pi@u atti a operare; e a gl'infermi e pieni di 
+cattivi umori @e inquieto e fastidioso, di maniera che egli ne conduce 
+molti al fine; cos@i ancor la morte @e similmente a gli eletti e giusti 
+un fine di tutte le lor fatiche e affanni, e rendegli pi@u atti ed 
+espediti a l'operazioni loro propie, le quali sono fruire e vedere la 
+faccia di Dio nella eterna beatitudine; e a i reprovati e impii cagione 
+di maggior travagli e di condurgli finalmente a la dannazione eterna. 
+Ma perch@e se ben ei muoiono (come si @e detto) tutti gli uomini, ei 
+non possono andare in luogo di salute se non quegli che hanno avuto il 
+battesimo e il lume della fede, e di questi non per@o ancora tutti; e 
+il numero de' cristiani @e quasi un niente a rispetto di quello delle 
+altre sette e religioni, e di quegli che vivono secondo la natura; il 
+Poeta dice che questa moltitudine della gente, che correva a la riva di 
+quel fiume per passarlo, era tanto grande, ch'ei non avrebbe mai 
+creduto prima, che la morte ne avesse disfatta tanta. Per il che 
+domandando Virgilio chi elle fossero, egli gli rispose (come voi 
+sentiste) che queste eran l'anime di tutti quegli i quali morivano in 
+qualsivoglia luogo e parte del mondo nella ira e nella disgrazia di 
+Dio. Dove non si ha a intendere, se bene il Poeta usa per esprimere con 
+maggiore efficacia il concetto suo questo modo del dire, che in Dio sia 
+ira alcuna; perci@o che in Dio (come voi avete inteso pi@u volte), 
+essendo egli semplicissimo e perfettissimo, non pu@o cadere n@e ira n@e 
+misericordia n@e alcuna altra passione o affetto simile, in quel modo 
+ch'elle caggiono, con perturbazione e alterazione degli animi nostri, 
+nella parte nostra concupiscibile e irascibile. Ma si dice, come voi 
+avete inteso altra volta, Dio essere adirato o avere misericordia, 
+secondo gli effetti o d'ira o di misericordia, che si veggon procedere 
+pi@u in un tempo che in uno altro da lui. E perch@e voi possiate 
+intender meglio e con maggior facilit@a tal cosa, voi avete a sapere, 
+che in ciascuna di queste passioni si posson considerare, secondo la 
+dottrina de' teologi, due cose; l'una delle quali @e chiamata da loro 
+l'^affetto~, e l'altra l'^effetto~. L'affetto chiamano eglino, 
+verbigrazia nella misericordia, quella compassione che noi sentiamo tal 
+volta dentro di noi delle miserie degli uomini o di qualche altra cosa 
+simile; la qual compassione nasce in noi e si sente sempre con qualche 
+poco di dolore, o almanco con qualche alterazione dell'animo nostro. E 
+l'effetto @e dipoi quello aiuto e quel soccorso, che noi porgiamo a 
+quegli che noi veggiamo esser posti in tal miseria. E di queste due 
+cose la prima, cio@e lo affetto, dicono i teologi ch'@e alieno al tutto 
+da Dio, e non si pu@o porre in modo alcuno in lui. Imper@o che essendo 
+egli eterno e immutabile, non pu@o cadere in lui alterazione o 
+compassione alcuna delle miserie nostre. Ma l'altra, cio@e lo effetto, 
+@e ben posto da loro in lui; e questo @e quello aiuto e quel soccorso, 
+ch'egli porge tutto il giorno a coloro che invocano e chiamano il suo 
+nome nelle tribulazioni e ne' bisogni loro. E cos@i viene a essere in 
+Dio non l'affetto, ma solamente l'effetto della misericordia, della ira 
+e delle altre passioni simili, attribuitegli in molti luoghi delle 
+sacre scritture. E per@o David profeta, il quale conosceva per 
+inluminazione dello Spirito Santo quanto importassero nella essenzia 
+divina questi simili effetti, pregava il Signore, che non lo arguisse 
+ed esaminasse nel suo furore, e non lo correggesse nella sua ira; il 
+che non era altro che pregarlo ch'egli gli perdonassi i peccati ch'egli 
+aveva commessi, e non mostrasse in lui, gastigandolo e correggendolo, 
+segni di furore e d'ira. E Ieremia profeta, parendogli troppo grave il 
+flagello e la tribulazione la quale ei prevedeva, per revelazione 
+divina, dovere venire sopra la citt@a di Ierusalem, diceva al Signore: 
+^nimium iratus es nobis, Domine~. Per la qual cosa, dicendo Virgilio al 
+nostro Poeta, che quelle anime, le quali concorrevano e descendevano da 
+ogni paese e da tutte le parti del mondo in quel luogo, eron tutte 
+quelle di coloro i quali morivan nella ira e nella disgrazia di Dio, si 
+ha a intendere ch'elle eran quelle nelle quali esercitando Dio, per 
+punirle della lor mala vita, la infallibile iustizia sua, mostrava in 
+loro segni e effetti di furore e d'ira, s@i come ei mostra per il 
+contrario in quelle di coloro che muoiono nella sua grazia, operando in 
+loro la ineffabile bont@a sua segni di liberalit@a e di misericordia. E 
+in questo modo viene aver finalmente Virgilio sadisfatto a pieno a la 
+prima domanda di Dante. Per maggior dichiarazione della quale nota ed 
+avvertisce in questo luogo lo espositore moderno, che il morire ^nella 
+ira di Dio~ non @e il cadere nel peccato, come dice nel suo comento il 
+Landino; conciosia che se questo fosse, non si salverebbe persona 
+alcuna, essendo scritto nelle sacre lettere ch'ei non @e alcuno s@i 
+giusto, che qualche volta non caggia; ma @e il perseverare 
+ostinatamente in quello. Imper@o che faccendo tale abito senza 
+pentimento alcuno, e senza mai ricorrere a Dio, si muore giustamente e 
+veramente nella sua ira.
+
+	|124-126.~  La seconda domanda, che fece il nostro Poeta a Virgilio, 
+fu qual costume e qual cagione fusse quella, che le faceva parer 
+cotanto pronte a trapassar il fiume. A la quale rispondendo egli con la 
+medesima cortesia, dice:
+
+	^E pronti sono a trapassar lo rio,~
+^Ch@e la divina iustizia gli sprona~
+^S@i, che la tema si volge in disio;~
+
+dimostrandogli, ci@o nascere e procedere da la iustizia divina, la 
+quale gli sprona e spinge s@i e in tal maniera, che il timore e la 
+paura, ch'elle hanno della dannazione eterna, diventa e si muta loro in 
+desio e voglia; cosa certamente molto dura e grave al pensarla, non si 
+potendo desiderar secondo la natura mai in modo alcuno il male; ma 
+dichiarata con gran dottrina dai sacri teologi e da i dottori santi, 
+inluminati da lo spirito divino, i quali dicono ch'egli @e tanto grande 
+lo spavento che porge a' dannati la faccia di Dio irata, ch'eglino si 
+gitterebbono in ogni grandissimo supplizio per fuggir dinanzi a quella. 
+Per il che fu detto da Iob in persona di queste infelici anime: ^ubi 
+fugiam miser a facie indignationis tuae?~ mostrando che chi ha Dio per 
+nimico fuggirebbe in qual si voglia luogo per non veder la sua faccia 
+sdegnata contro di lui. Laonde se queste anime paion tanto pronte e 
+desiderose di scendere dentro a l'inferno nel luogo deputato da la 
+divina iustizia per loro, elle non lo fanno per elezione libera, 
+eleggendo tal cosa come bene, ma per fuggire un maggior male. Imper@o 
+che come quei mercanti, i quali si ritrovano in una fortuna tanto 
+grande e pericolosa, ch'ei veggono ch'ei bisogna, o scaricar la nave 
+facendo getto, o perder la vita, gettono, per fuggire la perdita della 
+vita, ch'@e il maggior male, le loro robe in mare, cos@i ancor queste 
+infelici anime, per fuggir lo spavento che d@a loro la faccia di Dio 
+adirata, come maggior male, desiderono, spronate da la divina iustizia, 
+per levarsi dinanzi a quella, di condursi nell'inferno, per discostarsi 
+il pi@u ch'elle possono da Dio; non sapendo le poverette, che la 
+sapienza umana dice per bocca di Virgilio: ^Iovis omnia plena~, e la 
+divina per quella di David profeta: ^si ascendero in coelum, tu illic 
+eris, et si descendero in infernum, ades~.
+
+	|127-129.~  Dopo le quali cose dubitando Virgilio, che Dante non 
+avesse preso qualche dispiacere nell'animo di quelle parole che gli 
+disse Carone, ancor ch'egli gli rispondesse per lui che ^non si 
+crucciasse~ (cio@e non si adirasse o sdegnasse; ch@e cos@i significa 
+questo verbo, formato da questo nome ^corruccio~; onde disse il nostro 
+M. F. Petrarca: ^Ingiuria da corruccio, e non da scherzo~), ch@e cos@i 
+era stato disposto e ordinato da la potenza divina; egli cercando, 
+spinto da quella cortesia della quale noi ragionammo di sopra, di 
+levarglielo e torglielo al tutto da lo animo, gli dice:
+
+	^Quinci non pass@o mai anima buona;~
+^E per@o se Caron di te si lagna,~
+^Ben puoi sapere omai che 'l suo dir suona;~
+
+cio@e, per questo luogo, dove Carone trapassa l'anime, non pass@o mai 
+anima alcuna buona, cio@e che dovesse salvarsi. Perch@e, quanto a la 
+lettera, quelle che vanno in luogo di salute scrive il Poeta che vanno 
+per la marina al purgatorio; donde elle sono dipoi, come pu@o veder 
+chiaramente ciascun che vuole nel principio e nel fine della seconda 
+cantica, tolte e guidate da l'Angelo al regno del cielo. E secondo il 
+senso morale, i buoni non passan mai questo fiume di Acheronte, 
+privazione d'ogni gaudio, cio@e non si disperano mai affatto; e se bene 
+ei cascon talvolta in peccati che sieno gravissimi, ei consideron che 
+la misericordia di Dio gli supera tanto di grandezza, ch'eglino sperano 
+sempre in lei. E il Poeta stesso lo dimostr@o nel Purgatorio nella 
+persona di Manfredi; onde gli fece dire:
+
+	^Orribil furon gli peccati miei;~
+^Ma la bont@a divina ha s@i gran braccia,~
+^Che apprende ci@o che si rivolge a lei.~
+
+E perch@e nessuna di queste anime, le quali posson trovar misericordia 
+e perdono dei lor falli appresso Dio (per il che elle son chiamate da 
+lui ^buone~, essendo buono solamente colui il quale @e reputato da Dio 
+per sua grazia tale; onde disse David profeta: ^beati quorum remissae 
+sunt iniquitates~, e: ^beatus cui non imputavit Dominus peccatum~), 
+pass@o mai per questo luogo, ma solamente quelle che son giudicate da 
+la divina iustizia ree e degne delle pene eterne; il che @e fatto da 
+lei quando elle escono de' loro corpi, perci@o che allora finisce il 
+tempo di penitenzia e di grazia; eccetto per@o in quegli che 
+perseverano ostinatamente nel peccato della incredulit@a, leggendosi 
+nella verit@a evangelica, che chi non crede @e gi@a giudicato; Carone 
+conoscendo che tu Dante, dice Virgilio, sei ancora in vita, onde non 
+sei giudicato, ti disse che tu ti partissi da quelle altre che 
+cercavan, per le cagioni dette di sopra, con tanta prontezza di esser 
+passate da lui. E veggendo di poi che tu non ti partivi per il suo 
+dire, ti disse cos@i alquanto sdegnosamente quelle altre parole che tu 
+sentisti; delle quali tu non debbi pigliare dispiacere n@e sdegno 
+alcuno, perci@o che se egli si lagna e si duole di te, che tu venga a 
+passare donde tu non debbi e non ti si appartiene, tu puoi oramai 
+sapere e conoscere per te stesso che suoni il dire suo, cio@e quello 
+che voglino inferire le parole sue, e come la cagione della sua querela 
+@e il voler passar tu che non sei, per essere ancor vivo, giudicato e 
+dannato, donde non passano se non i dannati.
+
+	|130-136.~  Il qual parlare non aveva appena finito Virgilio, ch'egli 
+avvenne quel che narra il Poeta dicendo:
+
+	^E detto questo, la buia campagna~
+^Trem@o s@i forte, che dello spavento~
+^La mente di sudore ancor mi bagna.~
+^	La terra lacrimosa diede vento,~
+^E balen@o una luce vermiglia,~
+^La qual mi vinse ciascun sentimento;~
+^	E caddi come l'uom cui sonno piglia.~
+
+Non si possono le cose, che procedono immediatamente da la volont@a di 
+Dio, provare in altro modo, che con l'autorit@a delle sacre scritture, 
+o col miracolo; il quale miracolo @e una operazione ch'eccede e 
+trapassa la forza e il potere della natura, in quel proprio modo 
+ch'eccede e trapassa ancora la divina sapienza la cognizione e il 
+sapere umano. E per@o se voi avvertirete bene, voi troverete che quando 
+gli Apostoli cominciarono a predicare nella primitiva Chiesa la 
+dottrina evangelica, perch@e ella dependeva immediatamente da Dio per 
+Cristo suo figliuolo, eglino la confermavano subitamente co' miracoli. 
+Il quale ordine conoscendo il Poeta nostro che aveva ancora similmente 
+osservato in lui la divina grazia, e volendolo descrivere, dice che 
+subito che Virgilio inluminato da Beatrice, mandata da la divina 
+grazia, ebbe detto a Carone che lo passasse, perci@o che ei voleva 
+cos@i colui che puote tutto quello ch'egli vuole; e a Dante la cagione 
+per la quale Carone si lagnava di lui; la divina potenza mostr@o 
+subitamente in confirmazione di tali parole questo miracolo, che il 
+luogo ove eglino erano (chiamato da 'l Poeta ^la buia campagna~, per 
+non vi essere altro lume che quello che fanno i fuochi, che sono in 
+varii luoghi dell'inferno) trem@o e si dibatt@e tanto forte e con tanto 
+romore e impeto, che la mente, cio@e la memoria ch'io ne ho, dice il 
+Poeta, mi fa ancor sudare per lo spavento che io ne presi; essendo cosa 
+molto consueta, che il ritornarsi nella mente qualche grandissima paura 
+passata partorisca tal volta in altrui sudori freddi e altri accidenti 
+simili. E ^la terra lacrimosa~, cio@e il suolo della caverna degli 
+sciagurati, bagnata (come disse di sopra) da le loro lacrime mischiate 
+col sangue che usciva da le punture delle vespe e de' mosconi che gli 
+trafiggono, ^diede vento~, cio@e esal@o vapore; il quale, accendendosi 
+nella caliginosit@a di quella aria infernale, apparse a gli occhi di 
+Dante alquanto pi@u vermiglio e sanguigno, che non fanno i baleni che 
+si generano in questa nostra aria, la quale @e pi@u pura; la qual cosa 
+gli vinse e tolse di tal maniera ciascuno sentimento, che gli spiriti 
+gli mancarono, e cadde in terra, come fa uno uomo ch'essendo preso da 
+'l sonno, non pu@o pi@u sostenere il capo, onde convien ch'egli caggia 
+in terra o si appoggi a qualcosa che lo regga. E in tal maniera 
+addormentato il nostro Poeta, convenne ch'ei fusse preso da Carone o da 
+Virgilio, e messo nella barca e portato di l@a da 'l fiume; ponendo 
+egli qui fine a questo capitolo, e dicendo nel principio dell'altro, 
+quando egli si dest@o, che si ritrov@o in su la proda della valle 
+infernale. A la quale prima che passiamo ancor noi con l'esposizione 
+nostra, mi par che non sia da lasciar passare senza considerazione, che 
+descrivendo il Poeta il modo com'egli entrasse in ciascuno di questi 
+tre regni de' quali egli scrive in questa sua opera, egli dice che fu 
+portato in tutti dormendo; in questo dell'Inferno, nel modo che voi 
+avete udito; in quello del Purgatorio, da Lucia, onde gli fu poi detto 
+nel nono capitolo da Virgilio:
+
+	^Dianzi nell'alba che precede il giorno,~
+^Quando l'anima tua dentro dormia~
+^Sopra li fiori, onde l@a gi@u @e adorno,~
+^	Venne una donna, e disse: io son Lucia;~
+^Lasciatemi pigliar costui che dorme;~
+
+e di poi, ritrovandosi nel paradiso terrestre, e volendo Beatrice 
+guidarlo nel regno del cielo, egli dice medesimamente che si 
+addorment@o di tal maniera, per la dolcezza dell'inno che cantavano 
+intorno al carro, sopra il quale era il Grifone, quelle genti che lo 
+seguitavano, ch'ei non sa ridirlo; ma sa bene che tal sonno gli fu 
+rotto da uno splendor grandissimo, e da un chiamare insieme con quello: 
+^surgi, che fai?~ La qual cosa non @e da pensare che fusse fatta da 'l 
+Poeta senza dottrina e senza arte. E nientedimanco ella non @e notata 
+da espositore alcuno, eccetto che da 'l Vellutello; il quale 
+considerando tal cosa dice, seguitando quel senso morale il qual pone 
+per tutta questa parte il Landino, che volendo la grazia inluminante 
+disporre il Poeta, posto per la parte sensitiva, bisogn@o ch'ella lo 
+addormentasse. Imper@o che essa parte sensitiva, se ella non avesse 
+fatto cos@i, arebbe sempre recalcitrato, e non arebbe obbedito mai 
+totalmente a la ragione superiore, significata per Virgilio. La quale 
+esposizione @e molto bella e arguta, e merita certamente gran lode. 
+Nientedimanco io vo' dare a questo luogo ancora questa altra 
+esposizione, e pigli dipoi ciascheduno quella che pi@u gli piace: Che 
+il Poeta abbia finto d'essere stato portato in ciascun di questi tre 
+regni addormentato, e quando l'anima sua ragionevole non poteva fare 
+operazione alcuna speculativa perfetta, solamente per dimostrare come 
+egli non poteva entrare in modo alcuno in nessuno di quegli tre stati, 
+cio@e nella perfetta cognizione de' vizii, nella salutifera purgazione 
+di quegli, e nella contemplazione di Dio e delle cose divine, con le 
+forze e col valor suo; non essendo sufficiente per s@e stesso l'uomo, 
+come @e scritto nelle sacre scritture, pure a pensare, non che a fare 
+una minima opera buona; per il che bisogna a chi vuole camminare, come 
+il Poeta, al regno del cielo, disporre primieramente l'intenzione e la 
+volont@a, e dipoi diffidandosi al tutto delle forze sue (ch@e questo 
+significa lo addormentarsi) rimettersi nella bont@a divina; la quale ne 
+porta poi ella con la sua grazia chiunche @e cos@i disposto, e ricorre 
+a lei, nella cognizion de' vizii, nel pentimento di quegli, e nella 
+contemplazione della grandezza e bont@a sua. E questo @e quanto io ho 
+che dirvi sopra questo terzo capitolo di questa prima cantica; il quale 
+essendo finito qui, finir@o ancora io insieme con quello questa lezione.
+
+

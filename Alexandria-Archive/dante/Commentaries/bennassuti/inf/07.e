@@ -1,0 +1,503 @@
+|INFERNO CANTO 07~
+
+	|1  Pape~ ecc.  Queste parole sono ebraiche fuor d'ogni
+dubbio, e ciascuna suona cos@i: ^Pa~ ovvero ^pe~ significa qui:
+^Satan~, Satana: ^aleppe~ (da ^alaph~ coll'inflessione italiana)
+significa comand@o.  Quindi
+
+     Qui qui Satan, qui qui Satan comanda.
+
+	Questo senso, e questo solo senso regge a capello col
+contesto della seconda terzina.  In fatti Virgilio, ^che tutto
+seppe~ (cio@e che seppe il senso di tutte quelle parole, come
+tutto seppe a questo mondo) le intese cos@i, e perci@o rivolto a
+Dante, spiegando il senso di quelle parole, lo conforta dicendo:
+Lascia pure che Pluto si vanti che qui Satanasso comanda, e non
+altri, che per quanto potere egli abbia, ti assicuro io ch'egli
+non potr@a impedirti la discesa in questo quarto cerchio
+d'Inferno.  Il demonio Pluto cerca impedirti Dante, come gli
+altri primi.  Ci@o @e  tanto chiaro, che non ha bisogno di
+maggior prova, e per@o dee cadere ogni altra interpretazione.  Il
+merito di questa unica e vera interpretazione @e dovuto al ch.
+poliglotta Abb. Giuseppe Venturi di Verona, interpretazione che
+lod@o immensamente ed accett@o lo stesso Monti: ed io mi
+maraviglio come dopo s@i bella scoperta, i moderni commentatori
+seguano ancora le insussistenti interpretazioni passate.
+
+	Un dubbio.  Non si sa che Dante abbia mai studiato
+l'ebraico, e qui parrebbe che s@i.  -- Rispondo.  Accordo che non
+si sappia, ma per questo si potr@a conchiudere per certo che non
+l'abbia studiato nemmeno un poco?  Questo verso dice che s@i.
+Dico inoltre che non @e necessario saper l'ebraico per far questo
+verso, bastando l'averne Dante dimandato a qualche dotto Rabbino,
+pregandolo che gli traducesse alla lettera: ^Qui qui Satan, qui
+qui Satan comanda~: e tutto era fatto.
+
+	Una ricerca: Perch@e Dante fa parlare in ebraico Plutone?
+
+	Rispondo: Per molte ragioni.  1.  Perch@e l'ebraico @e la
+lingua pi@u antica del mondo, e perci@o convenientemente si d@a
+agli angeli creati poco prima di Adamo.  2.  Per indicare che la
+cupidigia dei beni terreni @e la pi@u antica e la pi@u diffusa di
+tutte.  3.  Per indicare che gli stessi Ebrei sono oggimai quelli
+nel mondo che pi@u di tutti hanno Pluto per loro Dio.  Pare
+appunto che ^la voce chioccia~, attribuita a Pluto, sia messa per
+indicar la nazione che pi@u delle altre @e divota a Pluto, cio@e
+la ebraica, perch@e questa, se ben si osserva, ha sempre un
+parlar ^chioccio~, quasi aperto contrassegno della loro schiatta.
+
+	|2  Che tutto seppe.~  Anche l'ebraico.  Invece di
+Virgilio, era Dante che lo sapeva, o che almeno l'aveva studiato
+alquanto, come apparisce in questo e in altri luoghi della
+^Divina Comedia~, che vedremo.
+
+	|3  A quella enfiata labbia.~  A quella bocca arrogante.
+
+	Si dice anche Bibbia in singolare sebbene sia un plurale
+neutro.
+
+	Dunque qual maraviglia che si faccia cos@i di labbia?
+
+	|4  Lupo.~  Opportunamente @e cos@i chiamato Pluto,
+perch@e anche nel Canto I, la cupidigia dei beni terreni, fu
+simboleggiata per la lupa: ^E di una lupa che~ ecc.
+
+	|5  Al cupo.~  L'andar pi@u gi@u dove crescon le tenebre.
+
+	|6  Vuolsi~ ecc.  La solita ragione: Dio, che cos@i
+vuole, detta in diversa maniera dalle antecedenti.
+
+	A questo demonio, come pi@u superbo degli altri
+incontrati prima, @e naturale che Virgilio rammenti la sua
+sconfitta, avuta da Michele, per farlo umiliare.
+
+	|7  Strupo~ per stupro.  Si dice anche ^ghirlanda e
+grillanda.~
+
+	Stupro @e una specie di peccati, ma qui @e preso per il
+peccato di superbia.  Si prende la specie per il genere, cio@e
+stupro per peccato.
+
+	Anche nella ^Bibbia~ si chiama stupro il peccato in
+genere.
+
+	|8  Quali~ ecc.  Questa similitudine @e bella assai.
+Essa indica l'altezza e la larghezza della superbia, e insieme la
+sua improvvisa sconfitta.
+
+	|9  Quarta lacca.~  Quarto cerchio, quarta vallea.
+
+	|10  Prendendo~ ecc.  Inoltrandomi pi@u gi@u per
+l'Inferno.
+
+	|11  Insacca.~  Accoglie tutti i peccatori e tutte le
+pene del mondo.
+
+	|12  Stipa.~  Unisce, aduna, stringe.
+
+	|13  Nostra colpa.~  La cupidigia, detta nostra colpa per
+antonomasia.  ^Scipa.~  Sconcia, guasta.
+
+	|14  Come fa~ ecc.  In quello stretto tra l'Italia e la
+Sicilia si combattono due mari, il Tirreno al nord e 'l Jonio al
+sud.
+
+	Avvenendo burrasca, si fa sensibilissimo e pericoloso lo
+scontro di questi due mari.  Scilla e Cariddi son due voragini di
+quello stretto.
+
+	Sono anche paesi di quelle spiaggie.
+
+	|15  Riddi.~  Balli, ma cos@i come l'onda di Cariddi, che
+quella sopra s'urta con quella sotto, e si riversa indietro.
+
+	|16  Pi@u che altrove troppa.~  Assai pi@u che nei cerchi
+passati (escluso per@o l'atrio) perch@e la cupidigia @e pi@u
+generale degli altri vizj.
+
+	|17  E d'una parte~ ecc.  Gli avari ed i prodighi sono
+messi allo stesso tormento, ma quelli in una met@a del cerchio, e
+questi nell'altra met@a, voltando col petto massi enormi, e
+percotendoseli incontro ai due punti del cerchio, dove i due
+semicerchi si univano, e gridandosi villanie.
+
+	Tre ricerche: 1.  Perch@e si d@a questo tormento?  2.
+Perch@e si d@a lo stesso tormento a peccatori opposti?  3.
+Perch@e questi si pongono pi@u profondi dei primi?
+
+	Rispondo alla 1.  Perch@e lor conveniente: furono
+attaccati alla terra o di lei abusarono fin che vissero; dunque
+alla terra stieno attaccati anche morti: siccome poi l'oro e
+l'argento sta nelle miniere dei monti, dunque volgan i pezzi di
+monte: e siccome colle ricchezze fecero il male, cos@i dai massi
+onde vennero, ricevano urti e tormenti.
+
+	Rispondo alla 2.  Perch@e i prodighi abusarono delle
+ricchezze quanto gli avari, sebbene in modo diverso, anzi in modo
+l'uno contrario all'altro; i prodighi per eccesso, gli avari per
+difetto: e questi modi contrarj sono espressi appuntino
+dall'urtarsi gli uni contro gli altri, in un semicerchio
+contrario all'altro.
+
+	Rispondo alla 3.  Perch@e per riguardo alla societ@a,
+questo vizio porta pi@u male che gli altri puniti sopra.
+
+	|18  Gridando~ ecc.  I prodighi agli avari dicono:
+Perch@e tieni, cio@e perch@e sei tenace delle ricchezze?  E gli
+avari ai prodighi: Perch@e mi burli tu che sei alla stessa pena?
+
+	|19  Alla sinistra nostra~, ecc.  Dante era smontato a
+questo quarto cerchio proprio nel punto in cui i due semicerchi
+dei prodighi e degli avari si univano, e perci@o dimanda chi sono
+questi alla sinistra.  Egli gli giudica chierici, perch@e gli
+vede tonsurati, ed erano appunto chierici, come vedremo.  Ma
+perch@e i chierici condannati coi secolari hanno da aver la
+sinistra, che @e la peggiore?  Perch@e a pari circostanze pi@u
+pecca un chierico che un secolare.
+
+	|20  Ed egli a me~ ecc.  Dante avea domandato chi erano
+quei dalla sinistra; ma Virgilio prima gli dice di tutti in
+generale, e poi viene a quelli che stavano alla sinistra di cui
+volea saper Dante.  Dice dunque che si gli uni che gli altri
+furon ^guerci della mente~, ossia di mente travolta in modo che
+nessuno serb@o la giusta misura nel loro spendere: non la
+serbarono gli avari per difetto; non la serbarono i prodighi per
+eccesso.
+
+	|21  Assai~ ecc.  Quel che si dice l'un l'altro al punto
+di urtarsi dichiara (^abbaja~) questa lor colpa contraria, e
+quindi si conosce chi appartiene ai prodighi, e chi agli avari;
+perch@e i prodighi dicono: Perch@e tieni?  e gli avari rimbeccano
+l'offesa con dire ai prodighi: Perch@e burli?
+
+	|22  Gli dispaja.~  Perch@e l'avversione che gli uni
+hanno pegli altri, attesa la colpa contraria della prodigalit@a e
+dell'avarizia, gli eccita a colpirsi vicendevolmente, e ad
+ingiuriarsi, e poi a ritornare ciascuno pel suo mezzo cerchio per
+rinnovare la scena al punto opposto.
+
+	|23  In cui~ ecc.  Sia ringraziato il Signore, non gi@a
+perch@e i cherici sieno messi all'Inferno (ce ne sar@a pur troppo
+anche di questi), ma perch@e i cherici finalmente hanno trovato
+un Dante che li incolpa non gi@a di avarizia, ma invece del suo
+contrario, cio@e di prodigalit@a.  Che cosa @e infatti il
+soperchio dell'avarizia?
+
+	@e il contrario del difetto dell'avarizia: chi pecca in
+avarizia per difetto @e propriamente avaro, e chi pecca in
+avarizia per eccesso (^soperchio~) @e propriamente prodigo.  Vedi
+la Nota 20.
+
+	Il signor Tommaseo, giunto a questo punto, scambia il
+luogo ai poveri chierici, e li mette tra i veri avari, cio@e tra
+quelli che peccarono per difetto.  Li lasci almeno dove li ha
+posti Dante, che mi par sufficiente.  Egli dice: ^Sempre a
+sinistra il peggio.~
+
+	Scusi; ma non @e il luogo.  Non vede che ci mette Papi e
+Cardinali, che Dante sempre condanna per troppo fasto?  Il fasto
+non @e della cupidigia per difetto, ma per eccesso.
+
+	Tommaseo, come altri, forse fu ingannato dalla voce
+^avarizia~ posta in questo verso.
+
+	|24  Tra questi cotali.~  Tra i prodighi e gli avari
+indistintamente.
+
+	|25  La sconoscente vita.~  La vita che non conosce la
+vera e giusta misura dello spendio.  E lo stesso senso che
+^Guerci della mente~ detto di sopra.
+
+	|26  Bruni.~  Impossibili a conoscere.  Per conoscere un
+oggetto ci vuol chiarezza.
+
+	|27  Questi~ ecc.  Invece di questi e quelli si dice
+anche: questi e questi.  Gli avari col pugno chiuso: i prodighi
+coi crin mozzi.
+
+	|28  Col pugno~ ecc.  Qui @e detto, anche pi@u chiaro di
+prima, che quelli dal crin mozzo (chierici) sono prodighi per la
+ragione che quelli dal pugno chiuso sono avari.
+
+	|29  Mal dare~ (il vizio della prodigalit@a in cui cadono
+pi@u universalmente i chierici, quelli della sinistra).  ^Mal
+tener~ (il vizio dell'avarizia, in cui cadono pi@u generalmente i
+secolari, quelli della destra).  Questi due vizj hanno tolto il
+paradiso (^lo mondo pulcro~).
+
+	|30  Qual ella~ ecc.  @E cos@i visibile e chiara per s@e
+questa pena, che non occorre studiarvi dietro parole per
+descriverla.
+
+	|31  Or puoi~ ecc.  Siamo qui alla solita istruzione, e
+va bene, perch@e il poeta cristiano non dee fare come il gentile.
+
+	Tanto pi@u Dante, che si propose la correzione del mondo.
+
+	^Buffa~ @e baja da nulla.  Tali sono le ricchezze.
+
+	|32  Sotto la luna.~  Qui in terra, che @e sotto la luna,
+perch@e la luna @e il pianeta a lei pi@u vicino.  Risponde al
+detto nel Canto secondo: ^Ogni contento -- Da quel ciel che ha
+minor li cerchi sui.~
+
+	|33  Posar~ @e contentare.
+
+	|34  Questa fortuna~ ecc.  Finge Dante di avere un'idea
+superstiziosa e pagana della fortuna, cio@e di crederla un essere
+reale, e come un'altra divinit@a, per dar campo a Virgilio di
+disingannare i credenzoni.  Ai tempi di Dante, siccome grande era
+la simplicit@a, cos@i grande era la superstizione in pi@u cose:
+questo, rispetto al popolo minuto, che avea assai ristretta
+istruzione.  Ma anche il dotto non era scevro di pregiudizj
+superstiziosi, colpa primamente la educazion dell'infanzia, che
+si ha d'ordinario tra gente di poca levatura, e colpa
+secondariamente la letteratura stessa dei classici latini, che
+rinacque non molto prima di Dante, e che innest@o cos@i nella
+generazione cristiana le false credenze del paganesimo, di che,
+forse per la stessa ragione, non sono immuni nemmeno i tempi
+presenti.
+
+	|35  Colui~ ecc.  Dio.
+
+	|36  Chi conduce.~  Segue il sistema di Tolomeo, che d@a
+ad ogni cielo, che s'aggira intorno alla terra, fatta centro
+dell'universo, un'Intelligenza motrice.
+
+	|37  Ogni parte~ ecc.  La circolazione degli astri
+intorno alla terra nel sistema Tolemaico @e fatta per portare la
+loro luce ugualmente a tutte le parti di essa.  Questa
+circolazione di luce effettuata da una Intelligenza motrice, @e
+portata per similitudine di circolazione di splendori d'altro
+genere, cio@e dei beni cos@i detti di fortuna, anche pei quali
+era conveniente una Intelligenza motrice come pei cieli,
+Intelligenza subordinata a Dio che la ^Ordin@o general ministra e
+duce.~
+
+	|38  Che permutasse~ ecc.  La quale Intelligenza,
+^ministra e duce degli splendor mondani~, a tempo determinato da
+Dio, togliesse i beni della terra agli uni per darli agli altri.
+
+	|39  Di gente in gente.~  Di nazione in nazione.  Si
+vegga, per esempio, la nazione greca, quanto scaduta; e prima di
+lei l'Assiria, l'Egitto, la Persia, imperj cos@i possenti e cos@i
+doviziosi, cos@i culti, ora caduti poco meno che
+nell'abbrutimento, per le permute in discorso.  Si veggano per lo
+contrario le due Americhe, un tempo tutte selvagge e immiserite,
+poi divenute fonti di ricchezze anche a vantaggio del mondo
+antico, ed ora forse destinate a subire altre permute a proprio
+danno.
+
+	^D'uno in altro sangue.~  D'una famiglia in un'altra.
+Basta dare uno sguardo alla nostra stessa societ@a che abbiamo
+sotto gli occhi, ai nostri stessi concittadini, per vedere quante
+famiglie antiche ed opulenti sieno cadute in basso, e quante
+invece, che pochi anni fa erano povere di tutto, or sono per
+potenza e ricchezze nel luogo delle antiche.  La povera
+Aristocrazia veneta ne @e un esempio che stringe il cuore.
+
+	|40  Oltre~ ecc.  Senza che si possa opporsi con umani
+accorgimenti.  @E il ^Non est prudentia, non est consilium contra
+Dominum~ (Prov. 21, 30).
+
+	|41  Ched @e~ ecc.  Qual cosa pi@u deliziosa che
+aggirarsi in un bel praticello?  ma eccoti l@i una serpe nascosa,
+che nel pi@u bello de'tuoi piaceri ti morde ed uccide.  Tale @e
+la cos@i detta fortuna: ti coglie in mezzo alle tue ricchezze, e
+in un momento, quando men te ne accorgi, ti separa da esse, n@e
+lo imperch@e tu sai.
+
+	^Ched~ sta per ^che~, all'uso antico.  Noi conserviamo
+^Ed~ per ^e.~
+
+	|42  Ella~ ecc.  Sono atti che dee fare ognuno, che
+amministri una cosa, un regno.
+
+	|43  Gli altri Dei.~  Chi sono questi altri Dei?  Sono le
+altre Intelligenze motrici dei cieli test@e toccate, che si
+chiamano Dei, non perch@e Virgilio credesse che vi fossero pi@u
+Dei, ma perch@e quelli Spiriti motori sono i rappresentanti di
+Dio nel governo mondiale, e sono quasi Dei essi stessi.  Gli
+angeli e gli stessi uomini, investiti di grande autorit@a da Dio,
+sono spesso nella Scrittura chiamati Dei.
+
+	|44  Le sue~ ecc.  Questa cos@i detta fortuna, che abbiam
+veduto essere Intelligenza motrice, continua a permutar i ben
+vani senza posa, per cui chi @e povero lo @e per poco, e
+parimenti chi @e ricco lo @e per poco.
+
+	|45  Necessit@a~ ecc.  Perch@e si dice che: ^Necessit@a
+la fa esser veloce~?  Sarebbe questo il ^Fato~ dei pagani?
+Tutt'altro.
+
+	Questa Necessit@a @e una circostanza intrinseca alla
+natura umana.
+
+	L'uomo vive poco: ^Breves dies hominis sunt; numerus
+mensium ejus apud te est; constituisti terminos ejus qui
+praeteriri non poterunt~ (Job. 14, 5); e altrove: ^Generatio
+praeterit, generatio advenit~ (Eccle. 1, 4).  Dunque se l'uomo ha
+corta vita, se una generazione succede all'altra velocemente, la
+fortuna o la Intelligenza, che ha per incarico di permutar i
+beni, o lo dee far con prontezza, o nol far@a mai, perch@e il
+soggetto su cui dee agire passa e trasvola.
+
+	|46  S@i spesso vien~ ecc.  Cos@i spesso eccoti comparire
+chi vicenda (o prospera o avversa) consegue.  Oppure: tanto @e
+frequentemente il caso, che sorge (^vien~) continuamente chi va
+nello stato (^vicenda~), in cui era un altro prima di lui.  Per
+esempio: oggi sorge un povero che per mutamento di stato va a
+stare nel palazzo e nelle possessioni di un ricco, e questo ricco
+va a stare nella capanna di quel povero: e cos@i del continuo
+c'@e sempre chi va, e chi viene, chi sale e chi discende.  Gli
+uomini che son lunghesso la ruota della Fortuna sulla facciata di
+S. Zeno di Verona, rendono scolpito questo pensiero del poeta.
+
+	|47  Quest' @e colei~ ecc.  Chi e quando uno si lamenta
+della fortuna?  Sono i ricchi che hanno gi@a goduto de'suoi
+favori, e si lamentano di lei al momento di perderli, quando
+invece dovrebbero ringraziarla di averli loro fatti godere per un
+tempo determinato.
+
+	|48  Ma ella~ ecc.  Questa che si dice fortuna @e
+un'Intelligenza celeste che riceve i suoi ordini da Dio e gode di
+Dio, dunque ella @e beata, e non si cura dei lagni degli ingrati;
+ma continua il suo lavoro (^volve sua spera~), come le altre
+Intelligenze motrici dei cieli (^con l'altre prime creature~).
+
+	|49  A maggior pi$eta.~  Quanto pi@u si discende
+nell'Inferno si trovano maggiori tormenti (^maggior pi$eta~) per
+colpe maggiori.
+
+	|50  Gi@a ogni stella~, ecc.  Virgilio si mosse I,
+^Inf.~, 136:
+
+     Allor si mosse ed io gli tenni dietro.
+
+	Quando si mosse tramontava il sole: perci@o nel II
+^Inf.~, 1, si disse:
+
+     Lo giorno se n'andava......
+
+	Ma se tramontava il sole all'occidente, nascevano
+all'oriente altre stelle (la Libra, perch@e il sole era allora in
+Ariete).
+
+	Or bene, queste stelle (Libra) che salivano quando
+Virgilio si mosse, ora cadono, e cadono perch@e hanno passato il
+meridiano sino al quale salgono.  Ma le stelle dal nascere
+all'orizzonte al giungere e varcare il meridiano impiegano sei
+ore.  Dunque si vuol dire che da quando Virgilio si mosse
+passarono sei ore.  Ma egli si mosse alle 6:30 (tramonto del sole
+add@i 8 aprile).  Dunque si vuol dire che ora sono le 12:30 di
+notte.
+
+	Il poeta lascia a noi la cura di ripartire pe'sei Canti
+(dal I esclusive al VII inclusive sin qui) queste sei ore.  La
+ripartizione pi@u naturale e pi@u ovvia @e la seguente:
+
+     1:30 si assegna al II Canto, perch@e al principio del III
+     son gi@a terminati i crepuscoli ed @e il principio della
+     vera notte, ora la pi@u propria alla discesa in Inferno, e
+     cos@i vedremo che l'Inferno tutto sar@a percorso in ore
+     ventiquattro giuste, ossia in un giorno.  Eccoci alle otto
+     pome ridiane.  Rimangono ore 4:30 per giungere alle 12:30).
+
+     1: -- si assegna al III Canto.  Rimangono 3:30.
+     1: --  "  al IV  "  "  2:30.
+     1: --  "  al V  "  "  1:30.
+     1: --  "  al VI  "  "  -- :30.
+
+      -- :30 si assegnano al VII, perch@e incompleto.  Eccoti
+     esaurite tutte le sei ore.
+
+	Vedile cos@i distribuite nei casellini delle Ore della
+mia Tav. II, ^Inf.~
+
+	|51  Ricidemmo~ ecc.  Trapassammo per traverso il quarto
+cerchio, sino all'altra riva.  Ogni cerchio era fiancheggiato da
+due rive.  La prima riva, o la riva pi@u alta di questo quarto
+cerchio, l'avevano recisa o passata al punto che trovarono
+Plutone.  L@a si fermarono a veder la zuffa della sinistra e
+della dritta, dei prodighi e degli avari.  Restava adesso da
+attraversar tutto il cerchio.  Lo attraversano (^ricidemmo~) e
+giungono all'altra riva che separa il quarto dal quinto; stando
+sulla qual riva si veggono sotto i piedi una fonte.
+
+	|52  L'acqua~ buja @e pi@u oscura che non l'acqua persa,
+la qual serba un po'di color purpureo.
+
+	|53  Bige.~  Perch@e bige, ossia cinerognole?  perch@e le
+acque contraggono il colore del corpo circostante.  Ora il corpo
+circostante erano le piagge grige.  Dunque anche le acque
+dovevano esser tali.
+
+	|54  Per una via diversa.~  Per una via tortuosa, qual'@e
+quella via che fanno i ruscelli discendendo per una costa di
+monte.
+
+	|55  Piagge grige.~  Tal colore contraggono le rocce di
+nudo sasso, quali erano queste.
+
+	|56  In quel pantano.~  Nella palude Stige, formata dal
+tristo ruscello stavano gli iracondi sopra, gli accidiosi sotto.
+
+	|57  Questi~ ecc.  @E inutile dire la convenienza di
+questa pena con la loro colpa.  Gli irosi fanno qui quel che
+facevano in vita, ma pi@u spietatamente.
+
+	|58  Gente.~  Gli accidiosi.
+
+	|59  Pullular.~  Perch@e fanno pullular l'acqua al sommo?
+
+	Perch@e aprono la bocca a pronunciar lamenti; e perci@o
+alla superficie dell'acqua dee succedere questo effetto per
+ragion dell'aria, che si sprigiona dalla strozza dei parlanti.
+
+	|60  Dicon~ ecc.  Ecco i lamenti che fanno.
+
+	|61  Accidioso fummo.~  L'accidia @e un tedio e
+rincrescimento del bene.  Questo tedio e tristezza che sente in
+s@e l'accidioso si chiama fumo.  Perch@e fumo?  Per la ragion
+quasi a dir dei contrari.
+
+	L'accidia @e il contrario dello zelo.  Come dunque lo
+zelo @e tutto fiamma, cos@i l'accidia @e tutto fumo.  Inoltre il
+fumo genera tristezza, e la luce genera allegrezza.  Essi dunque
+furono cos@i sciocchi, e il conoscono e se ne lagnano adesso, che
+in mezzo ad un mondo di luce, che dovea esser per loro cagion di
+letizia, non vissero che di fumo accidioso, che li riempiva di
+tristezza.
+
+	|62  Or ci attristiam~ ecc.  E cos@i sta bene: tristezza
+per tristezza.
+
+	|63  Nol posson~ ecc.  Non posson proferire che parole
+mozze per l'acqua che entra loro in gola, e che strozza a mezzo
+la parola.  Anche questo non poter pronunciar le parole intere @e
+una pena molto propria degli accidiosi, i quali per accidia chi
+sa mai quante preghiere avranno mozzicate con danno della loro
+anima?
+
+	Ma perch@e gli accidiosi sono puniti cogli iracondi?  Per
+la medesima ragione che gli avari furono puniti coi prodighi.
+Sono due vizj contrarj s@i gli uni che gli altri: e i peccatori
+non ponno aver tormento maggiore che di dovere convivere coi loro
+rivali.
+
+	|64  Tra la ripa secca, e il m$ezzo.~  La ripa secca era
+^al pi@e delle maligne piaggie grige~, dove erano discesi i
+poeti, e dove vi avea un argine, il quale stava cos@i tra le
+piaggie grige (^ripa secca~) e il m$ezzo, ossia pantano.
+^M$ezzo~ pronunciatelo con la ^e~ stretta.  Di quest'argine
+girarono gran tratto d'arco, tenendo a sinistra, come sempre
+faranno per l'Inferno.
+
+	|65  Con gli occhi volti~ ecc.  A chi guardavano i poeti?
+
+	Non gi@a agli iracondi, ma agli accidiosi, che erano
+quelli che ingozzavano del fango.  Ma se gli accidiosi erano
+sott'acqua, a che tenere ad essi rivolti gli occhi?  Appunto,
+perch'erano sott'acqua, ad essi stavano attenti; e ci@o per la
+speranza che alcuno un momento o l'altro si sciorinasse, e cos@i
+si palesasse.  @E naturalissimo.  

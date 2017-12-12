@@ -1,0 +1,174 @@
+.sh 1 "Document Processing"
+.pp
+This section describes the processing of commentary text from
+the original manuscripts to the DDP database.
+The processing consists of data entry, pre-edit text
+processing, editing, pre-load text processing, and database loading.
+.sh 2 "Data Entry"
+.pp
+The printed commentaries on the DC range in age from a few years to hundreds
+of years, and several older ones are not available in modern
+editions.
+The texts have been collected from a variety of sources, mainly
+research libraries, where they were photocopied for entry at Dartmouth.
+Most have been entered 
+by being read by an optical character scanner.
+Some -- mostly older printings -- could not be scanned
+and were typed in at a computer terminal.
+.pp
+The DDP uses an optical character scanner called a Kurzweil
+Data Entry Machine, or KDEM.
+The KDEM resembles a photocopier; there is a glass surface
+on which the manuscript pages are placed.
+Instead of producing a printed reproduction of the page, the KDEM scans
+the text line by line and converts it into a computer file of
+standard ASCII characters.
+The KDEM is programmed with pattern-recognition algorithms
+that can recognize characters in different, often poor-quality print faces.
+.pp
+During a phase of the data entry process called \*(lqtraining,\*(rq the
+operator places samples of the text to be scanned on the machine and
+then corrects the machine's initial guesses about what
+characters its scanner sees.
+A skilled operator can train the machine to recognize correctly almost 100% of
+the characters scanned; the exact percentage depends on the
+quality of the original print.
+.pp
+After training the machine, which typically takes
+from several minutes to several
+hours, scanning of the manuscript begins.
+After a page is scanned, the machine displays the
+text it has read on its console,
+and the operator compares this to the original,
+making any needed corrections before the text file is stored.
+.pp
+When a sufficiently large volume of text has been scanned, 
+checked, and stored on the KDEM, it is transferred to our Unix\*#
+minicomputer.
+.(d
+\*# Unix is a trademark of AT&T Bell Laboratories.
+.)d
+This can be done by writing a 9-track tape on the KDEM or by a
+direct communications channel between the two machines.
+.pp
+About one third of the commentary manuscripts could not be scanned
+with a high enough accuracy to justify the time required.
+These manuscripts have been typed directly into computer files using
+conventional text editors.
+All typists follow stylistic norms that produce text in a format
+close enough to that produced by the KDEM that it can be processed
+just as if it had been scanned.
+.sh 2 "Pre-Edit Processing"
+.pp
+Raw commentary text is processed before being sent to the
+Dante scholars who will edit it.
+This processing is done on the same minicomputer on which the
+final database resides.
+The computer is a Digital Equipment Corporation VAX 11/785.
+It runs the 4.3 Berkeley Software Distribution (BSD) of the
+Unix operating system.
+The computer is used at Dartmouth for general academic computing
+as well as for the DDP.
+We have found the Unix operating system to be particularly well
+suited to the project.
+Aside from the fact that our database manager program is Unix-based,
+the system is rich in utilities for text processing.
+Very little programming has been necessary in the project;
+most functions have been performed by combining Unix utilities
+through the mechanism of shell scripts.
+.pp
+Pre-edit processing eliminates some of the peculiarities of scanned
+text and produces a good \*(lqrough draft\*(rq format that the editors can
+handle easily.
+Scanned text often has hyphenated words at the ends of
+lines;
+pre-edit processing eliminates these and adjusts line length for
+convenient screen editing.
+The scanner sometimes inserts blanks in places where they should not
+be, such as immediately before a comma.
+This condition is corrected.
+Similarly, multiple blank lines are collapsed to a single line.
+Finally, the pre-editing script allows an operator to check the rough text
+with a screen editor to catch any problems that the automatic
+procedures miss.
+.pp
+The pre-edit processing produces files of commentary text that are
+ready for scholarly editing.
+The files usually contain all of a commentary's text on
+a particular CANTO of the poem.
+They typically contain anywhere from 50 to 500 lines of text, with an
+average of about 200.
+.sh 2 "Editing"
+.pp
+DDP editors are fluent in the language in which the commentary is
+written, and are also recognized Dante scholars.
+Their function is to recheck the accuracy of the commentary
+text, to ensure uniform citation formats, and to make minor
+corrections in the text.
+This process is time-consuming, and the editors are widely disbursed
+geographically.
+For these reasons, the editors use personal microcomputers in their
+homes or offices.
+The computers are Digital Equipment Corporation Rainbows\*#.
+.(d
+\*# Rainbow is a trademark of Digital Equipment Corporation.
+.)d
+They run the MS-DOS\*# operating system,
+.(d
+\*# MS-DOS is a trademark of Microsoft, Inc.
+.)d
+and the DDP editors use the FinalWord\*# word processing program.
+.(d
+\*# FinalWord is a trademark of Mark of the Unicorn, Inc.
+.)d
+This word processor was chosen in part because it can process the
+European characters that the Rainbow can display.
+.pp
+Commentary text files are transferred from the Unix computer to the
+editors' Rainbows either by mailing floppy disks or by a direct
+communications link between the Unix machine and the Rainbow.
+This direct link uses a communications program called MLINK\*# that provides
+error-free transmission of text files between computers.
+.(d
+\*# MLINK is a trademark of Corporate Microsystems, Inc.
+.)d
+When the editors have completed a group of files, the edited text
+is transferred back to the Unix machine using the same techniques.
+Both the downloading from Unix to Rainbow and the uploading from
+Rainbow to Unix are done with semi-automatic procedures 
+that handle details such as file name changes, character
+translation, and logging.
+.sh 2 "Database Loading"
+.pp
+Commentary text files returned by the editors are essentially in
+their final form, and are ready to be loaded into the database.
+Our database manager is a commercial product called BRS/Search\*#.
+.(d
+\*# BRS/Search is a trademark of BRS Information Technologies.
+.)d
+It is a large set of programs that provide sophisticated indexing,
+storage, and retrieval of text.
+.pp
+Edited commentary text is prepared for loading into the database by adding
+the database paragraph labels and identification information such as
+publication date, CANTO number, and poem line number.
+Pre-load processing on the Unix computer provides this information
+and runs the results through a verification program that is part of
+the BRS system.
+The verification program is a final check that all necessary data
+is supplied and in the proper format.
+.pp
+The final stage is running the database loader program.
+It is this BRS program which builds the database index and text
+files.
+The loader allow incremental loading: the database can be
+built up in small pieces by adding to the existing files.
+It is our practise, however, to load an entire commentary as a unit.
+This makes it easier to keep track of what has been loaded and also
+guarantees that the text of a given commentary will be displayed
+in the proper order.
+.pp
+After each commentary is added to the database, we make archive
+copies of all the database files.
+This makes it relatively easy to \*(lqback out\*(rq a commentary if it
+becomes necessary to reload it for any reason.

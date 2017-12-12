@@ -1,0 +1,1057 @@
+	|1.  affetto al suo piacer~: "Lovingly intent on his
+delight."  The whole phrase is a kind of ablative modifier. 
+|Piacer~ is here the ^object~ of delight.  Cf. ^Inf.~ V, 104;
+^Purg.~ XXXI, 52; and ^passim.~  Compare "disio" in a similar
+objective focus in ^Purg.~ XXIV, 111.  Thus |piacer~ here
+signifies the Blessed Virgin, whose great lover Bernard was. 
+|contemplante~: Again there is stress on Bernard's qualification
+for his role here.  See ^Par.~ XXXI, 111, and n. to ^Par.~ XXXI,
+110-111.
+
+	|2.  libero~: Spontaneous and generous.  Cf.
+^liberamente~ in ^Inf.~ XIII, 86, and ^Purg.~ XXVI, 139.
+
+	|3.  parole sante~: The use of the adjective may be
+compared with the use of the adjectives in ^morta poes@i~,
+^Purg.~ I, 7, and ^alta fantasia~, ^Par.~ XXXIII, 142. 
+Bernard's words are |sante~ because they focus on and expound
+"holy" things.
+
+	|4-6.  La piaga~... |punse~: The wound (^vulnus~ or
+^vulneratio~) of original sin.  See Thomas Aquinas, ^Summa
+theol.~ I-II, q. 85, a. 3, resp.:
+
+     Per iustitiam originalem perfecte ratio continebat
+     inferiores animae vires; et ipsa ratio a Deo perficiebatur
+     ei subiecta.  Haec autem originalis iustitia subtracta est
+     per peccatum primi parentis, sicut iam dictum est, qu. 81,
+     art. 2.  Et ideo omnes vires animae remanent quodammodo
+     destitutae proprio ordine, quo naturaliter ordinantur ad
+     virtutem; et ipsa destitutio ^vulneratio naturae~ dicitur.
+
+     As a result of original justice, the reason had perfect hold
+     over the lower parts of the soul, while reason itself was
+     perfected by God and was subject to Him.  Now this same
+     original justice was forfeited through the sin of our first
+     parent, as already stated (q. 81, a. 2); so that all the
+     powers of the soul are left, as it were, destitute of their
+     proper order, whereby they are naturally directed to virtue;
+     which destitution is called a wounding of nature.
+
+The reader may recall that the figure of Dante the wayfarer, as
+seen at the outset of the journey, exemplified the wound, in that
+he was "limping man."  See ^Inf.~ I, 30, and the note to that
+verse.  On the loss of original justice, see C. S. Singleton
+(1958), pp. 230-245.
+
+	"Mary is often represented as the counterpart of Eve. 
+The word ^Ave~, with which she is greeted, is the reverse of
+^Eva~; so says, among others, Dante's son Pietro.  St. Bernard,
+^Sermo de Beata Maria Virgine~, compares Mary to a rose, Eve to a
+thorn: G. Busnelli, ^Il concetto e l'ordine del `Paradiso'
+dantesco~, I, 1911, 227-228" (Gr).
+
+
+	It is interesting to note that the early commentary of
+Buti finds in the |richiuse e unse~ of vs. 4 and in the |aperse~
+and |punse~ of vs. 6 an instance of the rhetorical figure of
+^hysteron proteron~, which the poet uses elsewhere (^Par.~ II,
+23-24; XXII, 109-110): "Usa qui l'autore una figura di
+Grammatica; ^hysteron proteron~, imper@o che prima @e pungere che
+aprire."  ("Here the author uses a grammatical figure: hysteron
+proteron, since `pricking' precedes `opening'.")  Buti continues:
+"E cos@i ne la sentenzia di sopra, prima @e ungere la piaga che
+richiudere, et elli mette innanti |chiuse~, e poi |unse~; ecco
+che la sentenzia muta lo diritto ordine."  ("And thus in the
+preceding sentence salve is applied to the wound before it is
+closed, but he puts `closed' first and then `applied the salve';
+therefore, the sentence changes the normal order.")  See nn. to
+^Par.~ II, 23-24 and XXII, 109-111.  Sapegno observes that the
+whole sentence is constructed in such a way as to place the
+memory of redemption before that of sin.  Indeed this serves to
+commemorate the plan of providential history in terms of final
+cause, and to begin our "eye tour" of the rose with the note that
+Eve is seated at Mary's feet is to begin to delight in that
+providential order which is thus manifest.  |Maria~... ^cantor~
+{v.11}: In the descending order of this seating arrangement one
+notes a chronological principle which allows the higher seat to
+the elder.  It should also be noted that since seven, and seven
+only, are named in this line beginning with Mary, the number can
+scarcely be accidental.  It was underscored before, in the count
+of the angelic orders first seen as wheels of fire.  Cf. ^Par.~
+XXVIII, 31-33, and the corresponding note; and see, on the number
+seven, C. S. Singleton (1965).  |unse~: "Dressed with ointment,"
+as a wound.
+
+	|7.  ordine~: The "order" is the entire third tier of
+seats.  |sedi~: Plural of ^sedio~ (archaic for ^seggio~).
+
+	|8-9.  siede Rachel~... |Beatrice~: The seating
+arrangement here noted is true to Beatrice's report to Virgil in
+Limbo.  That Rachel stands for contemplation all readers know,
+from a certain dream -- the ^third~ dream -- in Purgatory
+(^Purg.~ XXVII, 100-108; see nn. to ^Purg.~ XXVII, 100-108,
+106).  The number is significant here, and it was brought out in
+the first transmission of grace, as recounted by Beatrice to
+Virgil in Limbo (see ^Inf.~ II, 94-114), grace passing as it did
+from the Virgin Mary to Lucy (note, in Fig. 5 {p.534}, Lucy's
+position directly opposite Adam in the rose), and then from Lucy
+to Beatrice.  The reader will note from Fig. 5 that Lucy had to
+move through a whole semicircle of seats in order to go, as was
+said, to where Beatrice was sitting with ancient Rachel (^Inf.~
+II, 12). 
+
+	It should be observed that to have Beatrice sit on Rachel's
+right is to accord her an honored position, directly under none
+other than St. Peter, who sits to the right of the Virgin Mary. 
+|di sotto da~ = ^di sotto di.~  |costei~: Mary.
+
+
+	|10-12.  Sarra~ = ^Sara~ (see Petrocchi's justification of
+this older form).  Sarah was the wife of Abraham and mother of
+Isaac.  |Rebecca~: Rebecca, daughter of Bethuel and sister of
+Laban.  Rebecca married Isaac, her father's cousin, by whom she
+became the mother of Esau and Jacob (see vss. 67-69).  |Iud@it~:
+Judith is the heroine of the book of Judith, in which she is
+represented as the ideal type of piety (Iudith, 8:6), of beauty
+(11:19), and of courage and chastity (16:26).  When Holofernes,
+general of the armies of Nebuchadnezzar, was besieging Bethulia,
+Judith entered his camp, and, having by her beauty gained free
+access to his tent, she one night took advantage of his being in
+a drunken sleep to cut off his head with his own sword.  She then
+returned to Bethulia with it and had it displayed upon the walls
+of the city.  The Assyrians, struck with panic at the death of
+their leader, took to flight and were pursued with great
+slaughter by the Jews, who hailed Judith as their deliverer
+(Iudith, 10-15).  |e colei~... |cantor~: Ruth, the Moabitish
+wife of Boaz, by whom she became the great-grandmother of David
+(Matt. 1:5-6), the |cantor~ here referred to.  |al cantor~...
+|mei~: David, who is thus named by circumlocution, even if his
+place in the amphitheater is not specified.  Cf. ^Inf.~ IV, 58;
+^Purg.~ X, 65 (where he is referred to as the ^umile salmista~);
+and ^Par.~ XX, 37, where he is allowed the most honored place in
+the eagle, the pupil of its eye.  |Fallo~ here alludes to David's
+adultery with Bathsheba (II Reg. 11-12) and his compassing the
+death of Uriah (II Reg. 11).  |Miserere mei~: "Have mercy upon
+me" (Ps. 50:3 [51:1]).  Cf. ^Purg.~ V, 24, and Dante's cry to
+Virgil, ^Inf.~ I, 65.
+
+	|13.  soglia~: Tier of seats, as before.
+
+	|14-15.  gi@u digradar~: "In graded descent."  |proprio
+nome~... |foglia~: Actually Bernard will not rebegin the specific
+naming until vs. 118.  |foglia~: |Foglia~ here means "petal" of
+the rose, i.e., each of the blessed in his or her assigned seat,
+as is even clearer from vss. 22-24, where the metaphor is used
+again.
+
+	|16.  settimo grado~: See n. to vss. 4-6 on this
+singling-out of the number seven.
+
+	|17.  succedono Ebree~: Thus a most remarkable feature of
+the seating arrangement and total order of the rose is made
+manifest: the seats in the direct line below Mary are all
+occupied by Hebrew women of the Old Testament who, by such a
+line, together with one directly across from them (see vss.
+31-36), divide vertically the entire amphitheater into two equal
+parts, from top to bottom.
+
+	|18.  dirimendo~: "Parting."  |chiome~: The "locks" of
+the flower are the tiers of seats, which are then termed ^le
+sacre scalee~ (vs. 21).
+
+	|19-21.  secondo lo sguardo~... |Cristo~: "According to
+the look which faith turned on Christ," i.e., according as the
+faith of the Hebrews and of certain pagans looked forward to
+Christ to come, whereas the faith of Christians looks back to
+Christ crucified (see the principle in miniature in ^Par.~ XX,
+105).  Cato (^Purg.~ I), Ripheus (^Par.~ XX, 68), and
+presumably many another pagan must not be forgotten here. 
+|queste sono~... |scalee~: On the line of women as one great
+dividing line, Tommaseo observes that this wall both separates
+and unites: between the Old and New Testament these women are a
+bond, a bond of maternity, of expectation, of love.  It should be
+noted that since B.C. time and A.D. time become the basis for
+this great dividing line, the Virgin Mary, in the topmost
+position of the line, figures as one who lived in both spans of
+time, even as did John the Baptist, who will occupy the top
+position in the line of men opposite.  |scalee~: The tiers of the
+amphitheater.
+
+	|22-24.  Da questa parte~: This phrase suggests a gesture
+or pointing by Bernard as he utters the words.  The reader knows
+that he and Dante are standing in the yellow center of the rose,
+on the floor of the amphitheater.  They are presumably facing the
+line of Hebrew women that begins with the Virgin Mary, and so,
+significantly enough, they face towards her for this exposition,
+and Bernard must be pointing to the left of Mary (see Fig. 5, p.
+534), which means to his right.  |onde 'l fiore~... |venturo~:
+|Foglie~ in the sense of "petals" is again used.  Thus Bernard is
+saying, in metaphor, that all the B.C. half of the amphitheater
+is completely filled, no seats remain, and he is soon to say that
+the other half is almost full (in A.D. 1300, at least, the
+fictional year of the journey).  This is according to God's
+providential plan, ^as conceived by the poet.~  To take a view of
+the matter from outside the fiction of the poem (which is not
+presented as a fiction, of course) the reader should realize that
+the poet has given us a view of God's providence in this respect
+that is, in a certain sense, astounding, even "absurd" according
+to some commentators (see Chimenz'[s] n. on ^Par.~ XXXII, 37-39). 
+One has only to think how many souls of those who lived in B.C.
+time would have had to be taken forth from Limbo in the harrowing
+of Hell, for one thing!  But also one might well ask: Did the
+actual Advent of Christ, opening the door to salvation, not count
+for more than this, i.e., for more than the salvation apparently
+effectuated in God's plan for B.C. time?
+
+	The fact is that we glimpse here, in the poet's
+conception, a completely overriding desire to witness, in God's
+providential plan and His foreordained seating arrangement of His
+amphitheater, the principle of symmetry and balance, a principle
+everywhere apparent in His creation of the universe itself, which
+Dante's great poem everywhere mirrors in itself.  But that
+principle, carried out so exactly in the rose and its petals,
+puts something of a strain on Christian doctrine and a cardinal
+tenet of the faith, namely, that Christ's coming ^did~ count for
+more than this balance with salvation out of B.C. time.  The
+balance, this symmetry, we are asked in vss. 37-39 to wonder
+over, as we contemplate it.
+
+	|25.  da l'altra parte~... ^visi~ {v.27}: Bernard now
+points to his left and thus to the Virgin Mary's right -- the
+more honored sector because right is simply better than left, and
+Mary is the fixed point of reference (cf. ^Par.~ XXXIII, 3,
+^termine fisso~) -- where sit those souls who lived in New
+Testament times.  |intercisi~: A Latinism, meaning
+"interspersed."  The semicircles in this sector are interspersed
+or "broken" by empty space, that is, some seats here and there
+are still vacant in the A.D. half of the rose.
+
+	|26.  v@oti~ = ^vuoti.~  |semicirculi~: Actually this
+conception of two semicircular divisions is not made clear until
+we read of the other great dividing line that establishes this
+fact (vss. 31-36).  |si stanno~: The reflexive here is the
+so-called pleonastic reflexive, serving its usual function of
+setting apart, of distinguishing.
+
+	In conceiving that, as of A.D. 1300, there are but few
+seats left in the A.D. sector, the poet is introducing an abiding
+conception in Christian doctrine, namely, that the end of the
+world and of time may be at hand.  If the salvation of souls, the
+"harvest out of time" (cf. ^Par.~ XXIII, 20-21, and n. to ^Par.~
+XXIII, 19-21), continues at a normal rate (whatever that might
+mean), all seats are soon to be filled, and the curtain must then
+fall on the drama of salvation.  The fact that only a few seats
+remain in the one sector has been noted by Beatrice already (see
+^Par.~ XXX, 131-132).  And Dante, in the ^Convivio~ (II, xiv,
+13), echoes the familiar notion, which is out of the Gospel
+truth, moreover, for more than once Christ himself spoke of the
+imminent end of the world.  See n. to ^Par.~ XXX, 132.
+
+	|30.  cerna~ = ^cernita~, "division," from the Latin
+^cernere.~
+
+	|31.  quel del gran Giovanni~... ^anni~ {v.33}: Here
+again, in his choice of the top figure in the great dividing line
+opposite Mary, the poet has chosen one who lived in both B.C.
+time and A.D. time, thus matching her.  The poet's choice of John
+the Baptist finds ample support in the Gospels.  See Matt.
+11:11: "Non surrexit inter natos mulierum maior Ioanne Baptista." 
+("Among those born of women there has not risen a greater than
+John the Baptist.")  Also see Luc. 7:28.
+
+	|32.  sempre santo~: See Luc. 1:15: "Spiritu Sancto
+replebitur adhuc ex utero matris suae."  ("He shall be filled
+with the Holy Spirit even from his mother's womb.")  |'l
+diserto~: Cf. ^Purg.~ XXII, 151-152.  |'l martiro~: Cf. ^Par.~
+XVIII, 135.
+
+	|33.  l'inferno~: In Limbo, where John, after his death,
+had to wait some two years for the descent of Christ to the
+harrowing of Hell.  |da~: The preposition has the value here of
+^circa.~  John died in August and Jesus in April, two years
+later; thus John was in Limbo for some twenty months.
+
+	|34.  cerner sortiro~: It "fell to their lot [in God's
+ordinance] to divide."  Cf. the noun ^cerna~ in vs. 30.
+
+	|35-36.  Francesco~... |giro~: Thus the poet has chosen
+for the highest seats, after that of the great John, only three
+names of saints (in contrast with the six of Hebrew women under
+Mary directly opposite), all of whom lived, it is clear, in A.D.
+time.  Hence we are to admit another feature of God's symmetry
+and balance here: both Mary and John span B.C. and A.D. time. 
+But the figures under Mary all belong to the Old Testament
+sector, whereas the three saints mentioned here (and presumably
+those unnamed who continue the line) belong to the A.D. half.
+
+	It will also be noted that St. Francis is given the
+highest place after John the Baptist and that this is not on any
+chronological principle, as in the Hebrew women, but solely, it
+would seem, on the principle of excellence.  This being the case,
+it is interesting to note that St. Benedict rates a higher seat
+than St. Augustine.  On St. Francis, see ^Par.~ XI, 43-117; on
+Benedict, see ^Par.~ XXII, 28-98.  Augustine is barely named in
+the ^Paradiso~ (^Par.~ X, 120).
+
+	|40-42.  E sappi~... |si siede~: The dividing line
+running horizontally around the amphitheater half way down is now
+pointed to as one evidenced by all the children who are assigned
+to this lower half.  Though the poem does not again make the
+point, the reader should remember that the adults who fill the
+two vertical dividing lines that begin with Mary and with John
+the Baptist must extend from the top to the very bottom. 
+Therefore all in the lower half are children except these adults
+who extend the two lines beyond the halfway point.
+
+	Since the amphitheater slopes inward from its upper rim
+to its floor (the yellow center of the rose where Dante and
+Bernard are standing), it follows that, in actual number, there
+are fewer seats in the lower half than in the upper half.  Still,
+even as before, the reader may be surprised at the poet's
+conception (see n. to vss. 22-24), surprised in this case that so
+many children are saved, one half of all the elect (with the
+reservation just noted)!  And there is another surprise here for
+any reader familiar with established opinion in medieval
+theology, for according to that opinion the bodies of all the
+elect will rise, at the Resurrection, in the aspect of the prime
+of life, no matter at what age they die.  But we already know,
+since Bernard has been seen as an old man, that the poet does not
+intend to follow any such opinion.  And now all the babes!  The
+opinion of Thomas Aquinas is stated in ^Summa theol.~ III,
+Suppl., q. 81, a. 1, resp.:
+
+     Homo resurget absque omni defectu humanae naturae; quia
+     sicut Deus humanam naturam absque defectu instituit, ita
+     sine defectu reparabit.  Deficit autem humana natura
+     dupliciter: uno modo quia nondum perfectionem ultimam est
+     consecuta; alio modo quia jam ab ultima perfectione
+     recessit; et primo modo deficit in pueris, secundo modo
+     deficit in senibus.  Et ideo in utrisque reducetur humana
+     natura per resurrectionem ad statum ultimae perfectionis,
+     qui est in juvenili aetate, ad quam terminatur motus
+     augmenti, et a qua incipit motus decrementi.
+
+     Man will rise again without any defect of human nature,
+     because as God founded human nature without a defect, even
+     so will He restore it without defect.  Now human nature has
+     a twofold defect.  First, because it has not yet attained to
+     its ultimate perfection.  Secondly, because it has already
+     gone back from its ultimate perfection.  The first defect is
+     found in children, the second in the aged: and consequently
+     in each of these human nature will be brought by the
+     resurrection to the state of its ultimate perfection which
+     is in the youthful age, at which the movement of growth
+     terminates, and from which the movement of decrease begins.
+
+On the poet's differing from this ruling in established doctrine,
+Grandgent remarks: "In his striking departure from current
+belief, Dante was influenced certainly by a desire for
+significant visible contrast and also, we may conjecture, by that
+love of little children which he has more than once revealed. The
+sweet conception of an encircling sea of baby faces, all
+twittering with baby voices, must have charmed him as it charms
+us."
+
+	|43.  per l'altrui~: |Altrui~ is here possessive, thus
+|per l'altrui~ ("through [the merit] of others," i.e., of the
+parents, as will be made clearer as certain conditions are set
+forth).
+
+	|44.  asciolti~: "Released" from the burden of original
+sin.  See ^Inf.~ IV, 30 (^infanti~) and 33-39.
+
+	|45.  prima ch'avesser vere elezioni~: These children
+died before reaching the age of free will or free choice.
+
+	|46-48.  Ben te ne puoi~... |ascolti~: See n. to vss.
+40-42.
+
+	|49-51.  Or dubbi~... |sottili~: "Dante is silently
+wondering why, if these children never won merit by the exercise
+of their free will, some have higher seats than others.  He
+learns presently that the degree of beatitude (symbolized by the
+height of the seat) is determined by predestination, not by one's
+own acts" (Gr).  |dubbi~ = ^dubiti.~  |sili~: "You are silent,"
+from the Latin ^siles.~  |discioglier@o~ = ^scioglier@o.~  |li
+pensier sottili~: The subtle thoughts with which in vain you try
+to resolve a question of faith.
+
+
+	|52-54.  Dentro a l'ampiezza~... |fame~: Not a particle
+of chance can find a place here in the rose.  Everything has a
+definite cause.  |Punto~ contrasts with |ampiezza~ (and how vast
+the rose is we have been told).  |se non come~: "Any more than." 
+The three conditions here named are obviously inconceivable in
+the state of eternal beatitude.  See Apoc. 7:13-17:
+
+     Et respondit unus de senioribus et dixit mihi: Hi qui amicti
+     sunt stolis albis, qui sunt et unde venerunt?  Et dixi illi:
+     Domine mi, tu scis.  Et dixit mihi: Hi sunt qui venerunt de
+     tribulatione magna, et laverunt stolas suas et dealbaverunt
+     eas in sanguine agni; ideo sunt ante thronum Dei, et
+     serviunt ei die ac nocte in templo eius, et qui sedet in
+     throno habitabit super illos: non esurient neque sitient
+     amplius, nec cadet super illos sol, neque ullus aestus,
+     quoniam agnus qui in medio throni est reget illos, et
+     deducet eos ad vitae fontes aquarum; et absterget Deus omnem
+     lacrimam ab oculis eorum.
+
+     And one of the elders spoke and said to me, "These who are
+     clothed in white robes, who are they? and whence have they
+     come"?  And I said to him, "My lord, thou knowest."  And he
+     said to me, "These are they who have come out of the great
+     tribulation, and have washed their robes and made them white
+     in the blood of the Lamb.  Therefore they are before the
+     throne of God, and serve him day and night in his temple,
+     and he who sits upon the throne will dwell with them.  They
+     shall neither hunger nor thirst any more, neither shall the
+     sun strike them nor any heat.  For the Lamb who is in the
+     midst of the throne will shepherd them, and will guide them
+     to the fountains of the waters of life, and God will wipe
+     away every tear from their eyes."
+
+	|55.  etterna legge~: God's "eternal law" is His
+predestination, which is here witnessed, respecting the degree of
+beatitude in the seating of these babes, explicitly stated in
+vss. 58-60.
+
+	|56-57.  giustamente ci si risponde~... |dito~: There is
+exact correspondence, even as there should be between the size of
+a ring and the finger it is to fit.  |ci si risponde~: I.e., ^si
+corrispondono fra loro.~  ^Rispondere~ is used impersonally.
+
+	|58-59.  per@o~ = ^perci@o.~  |festinata~: "Hurried," as it
+were, coming as babes to eternal beatitude, |a vera vita~ (vs.
+59).  For ^festinare~ in this sense, cf. ^Purg.~ XXXIII, 90.
+
+	|60.  intra s$e qui pi@u e meno eccellente~: The
+often-quoted scriptural verse from Ioan. 14:2, "in domo Patris
+mei mansiones multae sunt" ("in my Father's house there are many
+mansions"), is brought out by the assignment of higher and lower
+seats even to babes, for the reason now to be stated.
+
+	|61.  Lo rege~ = ^il re~, i.e., God.  |pausa~ = ^posa~,
+i.e., ^riposa~, "is at rest."  |Pausa~ is a Latinism.
+
+	|62.  in tanto amore e in tanto diletto~: It will be
+recalled from the lesson in love at the center of the poem that
+love does not rest until it attains its object (in this case the
+vision of God face to face), and with the attainment comes joy
+(|diletto~).  See ^Purg.~ XVIII, 28-33, and n. to ^Purg.~
+XVIII, 32-33.
+
+	|63.  @e di pi@u ausa~: "Ventures to aspire to more." 
+|ausa~ = ^oso~ (cf. ^Purg.~ XI, 126; XX, 149; ^Par.~ XIV, 130). 
+|Ausa~ is a Latinism comparable to "pausa."
+
+	|64-66.  nel suo lieto aspetto creando~: Cf. ^Purg.~
+XVI, 85-90.  The reader already knows of the "happy Creator" and
+His joyous act of creating the individual human soul.  See also
+^Purg.~ XXV, 70-75.  |a suo piacer~... |diversamente~: See Peter
+Lombard, ^Sent.~ III, xxxii, 2: "Electorum ergo alios magis,
+alios minus dilexit."  ("Of the elect therefore He loved some
+more and some less.")  See also Thomas Aquinas, ^Summa theol.~
+I-II, q. 112, a. 4.  |e qui basti l'effetto~: "And let the fact
+itself suffice" (that is, ask no further).  Cf. ^Purg.~ III, 37,
+Virgil's "quia"; also see ^Par.~ XX, 130-135; XXI, 91-99.
+
+	|67-69.  E ci@o espresso~... |commota~: Grandgent notes
+that "Jacob and Esau `struggled together' in their mother's womb"
+(Gen. 25:22-25 [22-26]), and he calls attention to the
+following passages from the Bible.  See Mal. 1:2-3: "Dilexi
+vos, dicit Dominus, et dixistis: In quo dilexisti nos?  Nonne
+frater erat Esau Iacob? dicit Dominus; et dilexi Iacob, Esau
+autem odio habui."  ("I have loved you, saith the Lord.  And you
+have said: Wherein hast thou loved us?  Was not Esau brother to
+Jacob, saith the Lord, and I have loved Jacob, but have hated
+Esau?")  Also see Rom. 9:10-15:
+
+     Non solum autem illa, sed et Rebecca ex uno concubitu habens
+     Isaac patris nostri: cum enim nondum nati fuissent aut
+     aliquid boni egissent aut mali, ut secundum electionem
+     propositum Dei maneret, non ex operibus sed ex vocante,
+     dictum est ei: Quia maior serviet minori; sicut scriptum
+     est: Iacob dilexi, Esau autem odio habui.
+
+        Quid ergo dicemus?  Numquid iniquitas apud Deum?  Absit.
+     Moysi enim dicit: Miserebor cuius misereor.
+
+     And not she only; but also Rebecca, who conceived by one
+     man, Isaac our father; for before the children had yet been
+     born, or had done aught of good or evil, in order that the
+     selective purpose of God might stand, depending not on
+     deeds, but on him who calls, it was said to her, "The elder
+     shall serve the younger"; as it is written, "Jacob I have
+     loved, but Esau I have hated."
+
+        What then shall we say?  Is there injustice with God?  By
+     no means!  For he says to Moses, "I will have mercy on whom
+     I have mercy."  
+
+See Thomas Aquinas, ^Summa theol.~ I, q. 23, a. 3.  |vi~: "To
+you" mortals.
+
+	|70-72.  Per@o~ = ^perci@o.~  |Per@o, secondo~...
+|s'incappelli~: "`Therefore the heavenly light must crown us
+fitly, according to the complexion of that grace.'  Our halo, or
+reward, in Heaven is proportionate to the grace bestowed on us at
+birth.  For |s'incappelli~, cf. XXV, 9.  The odd expression, `the
+color of the hair of that grace,' was evidently suggested by
+Esau's red hair: Gen. xxv, 25.  Esau, without apparent reason,
+differed in looks from Jacob, just as he differed from him in
+character and in divine favor" (Gr).
+
+	|73.  merc$e~: "Merit."  |costume~: "Conduct," "actions,"
+as is made clear in vss. 76-84.
+
+	|75.  primiero acume~: The original endowment of spiritual
+sight and capacity for it, which is bestowed by God when He
+creates the soul.
+
+	|76.  Bastavasi~ = ^bastava.~  ^Bastarsi~ is an archaic
+reflexive form.  |secoli recenti~: These first centuries are
+"new" in the sense of being fresh from creation.  "New" is the
+original meaning of the Latin ^recens.~  The period referred to
+is the time from Adam to Abraham.  See Thomas Aquinas, ^Summa
+theol.~ III, q. 70, a. 2, ad 1:
+
+     Immediate post peccatum primi parentis, propter doctrinam
+     ipsius Adae, qui plene instructus fuerat de divinis, adhuc
+     fides et ratio naturalis intantum vigebat in homine, quod
+     non oportebat determinari hominibus aliqua signa fidei et
+     salutis: sed unusquisque pro suo libito fidem suam aliquibus
+     signis protestabatur.  Sed circa tempus Abrahae diminuta
+     erat fides, plurimis ad idololatriam declinantibus:
+     obscurata etiam erat ratio naturalis per augmentum carnalis
+     concupiscentiae usque ad peccatum contra naturam.  Et ideo
+     convenienter tunc et non ante fuit instituta circumcisio ad
+     profitendum fidem, et ad minuendum carnalem concupiscentiam.
+
+     Immediately after the sin of our first parent, on account of
+     the knowledge possessed by Adam, who was fully instructed
+     about Divine things, both faith and natural reason
+     flourished in man to such an extent, that there was no need
+     for any signs of faith and salvation to be prescribed to
+     him, but each one was wont to make protestation of his
+     faith, by outward signs of his profession, according as he
+     thought best.  But about the time of Abraham faith was on
+     the wane, many being given over to idolatry.  Moreover, by
+     the growth of carnal concupiscence natural reason was
+     clouded even in regard to sins against nature.  And
+     therefore it was fitting that then, and not before,
+     circumcision should be instituted, as a profession of faith
+     and a remedy against carnal concupiscence.
+
+	|78.  la rede d'i parenti~: This faith in adults, in the
+first period, sufficed to render meritorious of salvation such of
+their children who died in their innocence.
+
+	|79.  le prime etadi~: The division into "ages" here may
+reflect the customary distinction of two ages from Adam to
+Abraham: the age from Adam to Noah, and that from Noah to
+Abraham.
+
+	|80-81.  convenne ai maschi~... |virtute~: Thomas Aquinas
+(^Summa theol.~ III, q. 70, a. 1, resp.) writes:
+
+     Baptismus dicitur sacramentum fidei, inquantum scilicet in
+     baptismo fit quaedam fidei professio; et per baptismum
+     aggregatur homo congregationi fidelium.  Eadem autem est
+     fides nostra, et antiquorum patrum, secundum illud Apostoli
+     2 Cor. 4, [13]: ^Habentes eumdem spiritum fidei credimus.~ 
+     Circumcisio autem erat quaedam protestatio fidei... unde et
+     per circumcisionem antiqui aggregabantur collegio fidelium. 
+     Unde manifestum est quod circumcisio fuit praeparatoria ad
+     baptismum et praefigurativa ipsius secundum quod antiquis
+     Patribus omnia in figuram futuri contingebant, ut dicitur 1
+     Corinth. 10, sicut et fides eorum erat de futuro.
+
+     Baptism is called the Sacrament of Faith; in so far, to wit,
+     as in Baptism man makes a profession of faith, and by
+     Baptism is aggregated to the congregation of the faithful. 
+     Now our faith is the same as that of the Fathers of old,
+     according to the Apostle (2 Cor., iv, 13): ^Having the same~
+     ^spirit of faith... we... believe.~  But circumcision was a
+     protestation of faith; wherefore by circumcision also men of
+     old were aggregated to the body of the faithful. 
+     Consequently, it is manifest that circumcision was a
+     preparation for Baptism and a figure thereof, forasmuch as
+     ^all things happened~ to the Fathers of old ^in figure~ (1
+     Cor., x, 11); just as their faith regarded things to come.
+
+In ^Summa theol.~ III, q. 70, a. 2, resp., Aquinas continues:
+
+     Sicut dictum est art. praec., circumcisio erat praeparatoria
+     ad baptismum, inquantum erat quaedam professio fidei
+     Christi, quam etiam in baptismo nos profitemur.  Inter
+     antiquos autem patres primus Abraham promissionem accepit de
+     Christo nascituro, cum dictum est ei Gen. 22, 18: ^In~
+     ^semine tuo benedicentur omnes gentes terrae.~  Ipse etiam
+     primus se a societate infidelium segregavit, secundum
+     mandatum Dei dicentis sibi, Gen. 12, 1: ^Egredere de terra
+     tua et de cognatione tua.~  Et ideo convenienter circumcisio
+     fuit instituta in Abraham.
+
+     As stated above (a. 1) circumcision was a preparation for
+     Baptism, inasmuch as it was a profession of faith in Christ,
+     which we also profess in Baptism.  Now among the Fathers of
+     old, Abraham was the first to receive the promise of the
+     future birth of Christ, when it was said to him: ^In thy~
+     ^seed shall all the nations of the earth be blessed~ (Gen.,
+     xxii, 18).  Moreover, he was the first to cut himself off
+     from the society of unbelievers, in accordance with the
+     commandment of the Lord, Who said to him (Gen., xii, 1):
+     ^Go forth out of thy country and from thy Kindred.~ 
+     Therefore circumcision was fittingly instituted in the
+     person of Abraham.
+
+For the metaphor of "wings" and "strength" (|virtute~), cf.
+^Purg.~ XII, 95.  In circumcision the male is singled out, in
+the belief that the guilt of original sin is transmitted through
+the male, beginning with Adam.  Aquinas notes (^Summa theol.~
+I-II, q. 81, a. 5, resp.):
+
+     Manifestum est autem secundum doctrinam Philosophorum, quod
+     principium activum in generatione est a patre, materiam
+     autem mater ministrat.  Unde peccatum originale non
+     contrahitur a matre, sed a patre.  Et secundum hoc, si Adam
+     non peccante, Eva peccasset, filii originale peccatum non
+     contraherent; e converso autem esset, si Adam peccasset, et
+     Eva non.
+
+     Now it is evident that in the opinion of philosophers, the
+     active principle of generation is from the father, while the
+     mother provides the matter.  Therefore original sin is
+     contracted, not from the mother, but from the father: so
+     that, accordingly, if Eve, and not Adam, had sinned, their
+     children would not contract original sin: whereas, if Adam,
+     and not Eve, had sinned, they would contract it.
+
+	|82-84.  ma poi che 'l tempo~... |si ritenne~: "After
+the Crucifixion, the unbaptized innocent children were `confined
+below' in the Limbus: cf. ^Inf.~ IV, 30, 34-36.  Since the
+Redemption, there has been no salvation without baptism in
+Christ" (Gr).  See ^Summa theol.~ III, q. 70, a. 2, ad 3, where
+Aquinas writes: "Baptismus in se continet perfectionem salutis,
+ad quam Deus omnes homines vocat."  ("Baptism contains in itself
+the perfection of salvation, to which God calls all men.") 
+Aquinas then states: "Circumcisio autem non continebat
+perfectionem salutis, sed figurabat ipsam ut fiendam per
+Christum."  ("On the other hand, circumcision did not contain the
+perfection of salvation, but signified it as to be achieved by
+Christ.")  See ^Summa theol.~ III, q. 62.
+
+	|83.  Cristo~: Readers interested in numerology and the
+balance of symmetries expressed in numbers in this great
+structure may be interested to note that |Cristo~ in rhyme with
+itself occurs four times in the poem, the present instance being
+the last.  But this four were perhaps best construed as three
+plus one.  See C. S. Singleton (1965).  The other three instances
+also occur in the ^Paradiso~: ^Par.~ XII, 71-75; XIV, 104-108;
+XIX, 104-108.
+
+	|84.  tale innocenza l@a gi@u si ritenne~: "It is
+noteworthy that Bernard himself, in a treatise addressed to Hugo
+of St. Victor, shrinks from the appalling conclusion that
+unbaptized children are doomed to Limbo.  See ^Inf.~ IV.  `We
+must suppose that the ancient sacraments were efficacious as long
+as it can be shown that they were not notoriously prohibited. 
+And after that?  It is in God's hands.  Not mine be it to set the
+limit'!" (TC).
+
+	|85-87.  Riguarda omai~... |Cristo~: The prompting of
+Bernard, urging Dante to look upon Mary's face, brings the "eye
+tour" of the rose to a return upon itself and thus completes a
+circle, for Bernard began the tour with Mary.  Her brightness
+alone can further dispose the pilgrim to greater vision, the
+vision of Christ which will be granted him at the end of the
+journey that is now so near.  And it is with the vision of
+Christ, second person of the Trinity, that the whole experience
+will be concluded.
+
+	The reader will recall that the disposing of the pilgrim
+to this higher vision begins in ^Par.~ XXX, 52.  But the pilgrim
+has yet to realize that Christ will not be seen at the end in any
+human form that resembles, in countenance, the features of his
+mother, as these verses seem to suggest.
+
+	|88.  sopra lei~: In Mary's face, the |allegrezza~ being
+expressed in a radiance of beatitude.
+
+	|89-90.  portata ne le menti~... |altezza~: The "holy
+minds" are the angels, also called Intelligences.  They are pure
+spirit, pure mind, of course, even though they have, in the
+poet's conception, the semblance of a body, as witnessed so often
+throughout the poem.  They were created for Heaven, of course,
+and have wings to fly there.  They were first glimpsed, as the
+final vision began to open up to the eyes of the pilgrim, as
+sparks that flew in and out of flowers (^Par.~ XXX, 64-69) and
+then became bees in metaphor.  In ^Par.~ XXXI, 7-9, and the
+verses following there, it is made clear that their chief
+occupation is to carry the blessings of beatitude to the petals
+of the rose.
+
+	|91.  quantunque~: Cf. vs. 56, where the word bears the
+same meaning: "everything."  |davante~: I.e., ^prima.~
+
+	|93.  di Dio tanto sembiante~: "Such resemblance to God." 
+But see n. to vss. 85-87.
+
+	|94.  amor~: The angel Gabriel.  |che primo l@i discese~:
+The exact meaning of |l@i~, the emphatic adverb, is somewhat
+obscure.  Most commentators take it to refer to the symbolic
+vision of the Annunciation which the pilgrim beheld in the eighth
+heaven (^Par.~ XXIII, 94-96), and accordingly |primo~ would
+refer to that preceding moment in the poem.  But, though the
+angel Gabriel was there seen symbolically to descend as a light
+which circled Mary, declaring that he would continue to do so
+(^Par.~ XXIII, 106-108) as Mary symbolically rose in what
+represented her Assumption, it was not said that he "sang" then
+the words he spoke to Mary at the Annunciation: |Ave, Maria,
+gratia plena.~  It seems best, therefore, to take the |primo~ and
+the |l@i~ of this verse to refer to the actual Annunciation to
+Mary, of which this now is the re-enactment and celebration in
+eternity of that great moment in time (Luc. 1:28).  Note also
+how that moment in history is then explicitly celebrated in the
+poet's verses (vss. 112-114) while Gabriel remains at the center
+of attention.
+
+	|97.  cantilena~: The term implies a solemn chant.
+
+	|98.  la beata corte~: Both "courts" of Heaven, angels
+and human souls, are here seen as one, even though they were
+named as two courts in ^Par.~ XXX, 96.
+
+	|99.  vista~: "Face."  |serena~: "Luminous," with joy. 
+For this meaning of the adjective, cf. ^Par.~ XIII, 5.
+
+	|100.  comporte~: "Deign."  Dante's words express humble
+gratitude.
+
+	|102.  sorte~: Cf. the corresponding verb ^sortire~ as
+repeatedly used in such a context, e.g., in vs. 34 of the present
+canto.
+
+	|103-105.  qual @e~... |foco~?  The narrator Dante has
+already answered the question, of course, but the pilgrim Dante
+is now represented as one who asks it; and his question is
+phrased so as to celebrate again the great moment of the
+Annunciation and Gabriel's enamorment of Mary, which continues
+throughout eternity.  |gioco~: I.e., ^festa~, implying joyous
+celebration.  Cf. ^Par.~ XX, 117.  |par di foco~: Cf. ^Par.~
+XXIII, 94, where Gabriel is symbolically represented as a "torch"
+("facella").
+
+	|106-107.  la dottrina~... |Maria~: Cf. ^dottore~, as
+Bernard is termed in vs. 2.  |ch'abbelliva~ = ^che si abbelliva~
+(cf. ^Par.~ XXII, 24).
+
+	|108.  stella mattutina~: Venus.  The reference adds
+further meaning to the context of love here.
+
+	|109-111.  Ed elli a me~... |sia~: This and the
+following tercet, in this final celebration of the angel
+Gabriel's great role, serve to single him out among all the
+angels as the greatest, for the poem nears its end and no other
+angel will be brought into such central focus.  |Baldezza~ =
+^baldanza.~  The term bears a connotation of pride, which can
+only be good pride here, pride in the great role assigned to him. 
+|leggiadria~: Joy of spirit and beauty in bearing.
+
+	|110-111.  quant'esser puote~... |lui~: The statement is
+clear in its uplifting of Gabriel to the highest position among
+all creatures (excepting Mary) be they angels or human souls.  |e
+s@i volem che sia~: "And we are in accord," we (all creatures,
+angels and men) are willing that Gabriel should be so exalted --
+even as it is God's will that it should be so.  Cf. ^Par.~ III,
+70-78; XX, 138.
+
+	|112-113.  port@o la palma giuso a Maria~: |Giuso~ in this
+phrase would seem to support the meaning of ^l@i~ as construed in
+vs. 94.  See n. to vs. 94.  Gabriel is commonly represented in
+painting as bearing a palm frond in one hand, this being the
+symbol of victory which declared Mary to be above all other
+women.
+
+	|114.  carcar si volse de la nostra salma~: When Christ,
+the second person of the Trinity, chose to become flesh and take
+on our burden of sin.  Cf. ^Par.~ VII, 30-33.  |carcar~=
+^caricar.~  |volse~ = ^volle.~
+
+	|115-116.  Ma vieni omai~... |parlando~: |Omai~ implies
+that it is now time to get on with the "eye tour" of the rose,
+which has paused for so long with Mary and Gabriel in the central
+focus.  |i gran patrici~: The term, along with ^Agusta~ as
+applied to Mary (vs. 119), bears the explicit suggestion of
+empire.  These now are to be the greatest of those who sit in
+this great colosseum.  |patrici~ = ^patrizi~, the patricians of
+this court of which Mary is the empress.
+
+	|118.  Quei due~: These, as we are to be told, are St.
+Peter and Adam, to whom are assigned the highest seats of all
+(after Mary) on this (Mary's) side of the rose, for they are
+nearest to "the Empress."
+
+	|119.  Agusta~ = ^Augusta.~  ^Augusta~ was an established
+title for the wife of the emperor.  Mary is, of course, the
+mother.  Cf. ^agosta~, the corresponding adjective, in ^Par.~
+XXX, 136; see also ^Inf.~ XIII, 68.  The term ^imperio~ (vs.
+117) has prepared the way for this.
+
+	|120.  son d'esta rosa quasi due radici~: This use of
+"roots" as it comes in the context of the rose exalts these two
+to a place of the highest importance, after Mary's.  Both are
+then termed "fathers," as the verses continue to focus on them.
+
+	|121-123.  colui che~... |gusta~: It will be noted that
+Adam sits on the left of "the Empress," a place of less honor,
+obviously, than St. Peter's, on her right.  In this we are to
+admire, as everywhere in the seating arrangement, the marvelous
+balance and symmetry in God's providential ordering, borne out on
+the grandest scale in having the whole rose divided into halves,
+with a B.C. half and an A.D. half.  Adam is thus properly seated
+in the former.  See Fig. 5, p. 534.  |le s'aggiusta~: "Is next to
+her."  Cf. the Latin ^iuxta.~  |ardito gusto~: Adam's tasting of
+the fruit was an act of pride, hence |ardito~ as none other. 
+|tanto amaro~: All the bitter consequences of original sin are
+implied.  Cf. ^Purg.~ I, 26-27, the lament that points to this,
+and Adam's own words in ^Par.~ XXVI, 115-117.
+
+	|124-126.  dal destro~... |venusto~: St. Peter sits in
+the seat of highest honor -- after Mary -- on Mary's right. 
+|vetusto~: "Ancient."  |le chiavi~... |venusto~: See Matt.
+16:19.  Cf. ^Inf.~ XIX, 91-92; XXVII, 104; ^Purg.~ IX, 117-120. 
+The angel at the gate of Purgatory proper holds the keys to that
+realm.  And now, by the turn of phrase here, the keys are said to
+be "keys to this lovely flower," the Rose.  St. Peter's keys were
+also remembered when Dante was passing his "entrance examination"
+with Peter himself (^Par.~ XXIV, 35-36).
+
+	|127-129.  E quei~... |clavi~: This is St. John, the
+author of the Apocalypse, who prophesied the difficult times and
+the calamities of the Church.  Cf. ^Purg.~ XXIX, 143-144, and
+such prophecies as set forth in the dumb show of ^Purg.~ XXII,
+109-160, on the model of St. John's prophecy.  |sposa~: The
+Church, as so often in the poem (^Par.~ X, 140; XI, 32-33;
+XXVII, 40).  |con la lancia~: Cf. Ioan. 19:34: "Sed unus
+militum lancea latus eius aperuit."  ("But one of the soldiers
+opened his side with a lance.")  |clavi~: I.e., ^chiodi~,
+referring to the nails that nailed Christ to the Cross.  For the
+form, which is latinizing (|clavi~ for ^chiavi~), cf. the verb
+^chiavare~ as it is used in ^Inf.~ XXXIII, 46; ^Purg.~ VIII,
+137; ^Par.~ XIX, 105.
+
+	|130.  esso~: Peter.  St. John the Evangelist sits on
+Peter's right, always the "better" side.  |lungo l'altro~: Beside
+Adam.
+
+	|131-132.  quel duca~... |retrosa~: Moses.  See Exod.
+16:14-35; for the manna given to the Israelites in the desert,
+see Exod. 16:14-16.  As every reader of the account of the
+Exodus knows, the people led by Moses did indeed prove to be
+"fickle and backward-looking," many times over.
+
+	|133-135.  Di contr'~... |osanna~: St. Anna, the mother
+of Mary, sits directly opposite St. Peter (see Fig. 5, p. 534). 
+This gives her the position of honor, since it places her to the
+right of John the Baptist, so that in this respect her seat
+corresponds to that of Peter, to the right of Mary.  To conceive
+that Anna keeps her gaze constantly on her daughter, on the
+opposite rim of the great amphitheater, even as all the while she
+continues to join in the chorus that sings the praises of the
+Lord, is a strikingly human touch introduced by the poet at this
+point.  Mother gazes constantly at daughter, instead of gazing
+upwards to enjoy the direct vision of God!  |per cantare.~ 
+"While singing" or perhaps "despite her singing," that is, she
+does not allow her singing to interfere with her gazing
+constantly upon her beloved daughter Mary.
+
+	|136-138.  e contro~... |ciglia~: St. Lucy, who
+twice came to Dante's aid, first in the relay of grace that took
+place in Heaven, as recounted by Beatrice in Limbo (see ^Inf.~
+II, 97-108), then in carrying Dante up the steep mountain to the
+gate of Purgatory proper (^Purg.~ IX, 52-63).  |che mosse~...
+|ciglia~: The reference is to the moment (^Inf.~ I, 55-60) when
+the she-wolf was driving Dante back into the darkness ("where the
+sun is silent") and to the moment then reported by Beatrice to
+Virgil, in ^Inf.~ II, when Lucy, having come to where Beatrice
+sat beside ancient Rachel, exhorted Beatrice to proceed to the
+rescue of her "faithful" one with words that refer to his being
+thrust back "on that flood over which the sea has no vaunt" (see
+^Inf.~ II, 103-108).  Thus, at the end of the poem the action is
+again coming full circle, in coming back to Lucy now, as to Mary
+(with whom it began) and to Beatrice, whose role was remembered
+in the paean addressed to her (^Par.~ XXXI, 79-90).  |quando
+chinavi, a rovinar, le ciglia~: The words give to Dante's falling
+back into the darkness (as told in ^Inf.~ I, 55-63) the
+connotation of falling asleep, that is, a falling back into the
+sleep of sin.  See C. S. Singleton (1948), p. 274.
+
+	|139.  Ma perch$e 'l tempo fugge che t'assonna~: Since,
+within the poem, this journey to the afterlife has never been
+termed a ^dream~, but has always been presented as ^real~, it is
+not possible to understand this verse, with the verb ^assonnare~,
+to contradict this fundamental postulate of the experience.  Many
+differing views have been held of the meaning (see ^Enciclopedia
+Dantesca~, s.v. ^assonnare~).  The view that seems most
+persuasive in the total context would see in the phrase |che
+t'assonna~, modifying |tempo~, a clear reference to the accepted
+fact that the experience of rising so high, all the way to God,
+on the part of a man who is still mortal, must of necessity be of
+the briefest duration.  (Cf. "mortal weight," ^Par.~ XXVII, 64.) 
+The blessed and the angels are privileged to gaze upon God
+through all eternity, but a mortal man can have the experience
+through the ^light of glory~ only momentarily.  Thus Thomas
+Aquinas, under the standard heading "Of Rapture" (^Summa theol.~
+II-II, q. 175, a. 3, ad 2), states: "Divina essentia videri ab
+intellectu creato non potest nisi per lumen gloriae, de quo
+dicitur in psal., 35, 10: ^In lumine tuo videbimus lumen.~  Quod
+tamen dupliciter participari potest.  Uno modo per modum formae
+immanentis: et sic beatos facit sanctos in patria.  Alio modo per
+modum cuiusdam passionis transeuntis."  ("The Divine Essence
+cannot be seen by a created intellect save through the light of
+glory, of which it is written [Ps. XXXV, 10 (36:9)]: ^In Thy
+light we shall see light.~  But this light can be shared in two
+ways.  First by way of an abiding form, and thus it beatifies the
+saints in heaven.  Secondly, by way of a ^transitory passion~
+[italics added].")  The "transitory passion" was the experience
+of St. Paul when rapt to the third heaven.
+
+
+	Thus St. Bernard, with his phrase |il tempo che
+t'assonna~, is (given the moment and the context) referring to
+the fundamental difference between the pilgrim's mortal condition
+(his mortal weight that will pull him down) and the condition of
+the blessed, which is his own.  "Your experience here," he means,
+"is necessarily ^transitory~ and can last only for the briefest
+time."  Accordingly, the following simile of the tailor suggests,
+"Let us make the most of the time that is left to you." 
+^Assonnare~ is thus not literal in its meaning but bears an
+allusion that makes it metaphorical.  "Sleep" is a falling away
+from the final experience, which must happen soon, for the mortal
+man's experience of the light of glory is most transitory.  (On
+the ^light of glory~ see Singleton, 1958, pp. 15-23.)
+
+	The "falling away" from the vision will be insistently
+represented in the final experience as given in the last canto,
+but there as a "fading away" in the poet's memory as he strives
+to regain a true recollection of the experience had.
+
+	The reader will note how the reference to sleep and a
+falling-back into sleep serves to clinch the coming "round to
+full circle" of the action, here so near the end.  Dante was
+about to "fall asleep" at the beginning, i.e., fall back into the
+"sleep of sin," because of his burden of original sin (hence he
+was limping; see ^Inf.~ I, 30, with the corresponding note, as
+well as the note to vss. 4-6 of this canto).  Now he is about to
+"fall asleep," not in the sense of "sleep" at the beginning, but
+to "fall away" from the high experience of rapture here at the
+end, due to his ^mortal pondo~ (^Par.~ XXVII, 64), because no
+living man can endure, except ever so briefly, any such
+experience.
+
+	|140-141.  come buon sartore~... |gonna~: The reader will
+not fail to remark the very humble simile which this medieval
+poet uses here at the height of his great argument and so near to
+God.  One imagines an everyday scene in a tailor shop in the
+Florence of Dante's day, the tailor sitting cross-legged over his
+work and carefully measuring the amount of cloth he has left for
+making the skirt (|gonna~ should be conceived as the typical
+garment of a man; see n. to ^Inf.~ XV, 24).  How far we are from
+Milton and a Renaissance conception of the sublime!  One does
+well to recall, in this connection, that Dante termed his style
+humble and low-pitched (^Epist.~ XIII, 30: "comedia vero remisse
+et humiliter") in justifying his title ^Comedia.~  And how
+constant the poet has been in maintaining this level of style
+from beginning to the very end, even now before God!
+
+	|142-143.  e drizzeremo~... ^fulgore~ {v.144}: The tercet
+states completely the final "act" of the ^Comedy~ in precise
+terms, and the reader should reflect (through such terms) on the
+cardinal fact that Dante the pilgrim, though in this Empyrean
+heaven he has been made ready for the final vision of God by all
+he has seen (cf. ^Par.~ XXX, 54), has been seeing by reflected
+light all the while and has never actually ventured to look
+directly upwards into the descending light of glory through which
+alone the vision of God face to face can be had (cf. ^Par.~ XXX,
+100-103, where this is clearly stated).
+
+	It should be noted that God is specifically termed
+|amore~, "primo amore."  Thus God as the God of love is stressed
+by Bernard (whose accent on the affective nature of the final
+experience has been witnessed) here, as it is by the poet at the
+very end and in the very last verse of the whole poem: ^l'amor
+che move il sole e l'altre stelle.~
+
+	|144.  quant'@e possibil per lo suo fulgore~: It is
+important to note the qualification made by the phrase "as far as
+possible" and to bear it in mind in reading of Dante's final
+experience as reported in the last canto, for that touch brings
+out an accepted point of doctrine regarding the beatific vision
+on the part of human soul or angel, on the part of any and all
+creatures, namely, that each sees according to the measure of the
+divine endowment of capacity made by the Creator when He creates
+the soul (cf. vs. 75, ^primiero acume~, and the note to that
+verse).  Hence what the poet reports as his own limit in the
+attainment of the beatific vision (^Par.~ XXXIII, 139-141)
+should be viewed within the context of this qualification as
+expressed here by Bernard.  And the final experience will indeed
+be represented as a penetration (^pen@etri~ {v.143} here). 
+|Fulgore~ signifies, of course, the light of glory.
+
+	|145.  Veramente~: |Veramente~, from the Latin ^verum~,
+here means "but," as it so often does in the poem (cf. ^Par.~ I,
+10, and ^passim~).  |ne~: Latin, meaning "lest."
+
+	|146.  movendo l'ali tue~: Thus, the final upward
+penetration into the light of glory is presented as an upward
+flight in which the wayfarer strives to move his own "wings." 
+This ^cooperation~ on the part of the living man in the final
+gradual attainment of the supreme vision will be insistently
+brought out in the next canto.  But it is God's grace that makes
+the cooperation effective.  |credendo oltrarti~: The phrase may
+recall ^Purg.~ XI, 14-15, in the paraphrase of the Lord's
+Prayer.
+
+	|147.  orando grazia conven che s'impetri~: Other editors
+have adopted the punctuation: ^orando, grazia~....  But it seems
+better to understand |grazia~ as the object of |orando.~
+
+	|148.  grazia da quella che puote aiutarti~: Grace,
+through Mary, must now be sought, in Bernard's prayer opening the
+last canto.  No reader forgets, of course, that it was grace
+obtained through Mary's intervention that made the journey of
+this living man possible, a journey recounted in no fewer than
+ninety-nine cantos.  And now the last lap of this journey, above
+and beyond Mary and all human creatures, is to be made possible
+by another intercession on her part.  The way in which the action
+of the poem thus comes full circle and then extends beyond that
+circle in a final upward line may easily be represented by the
+simple diagram seen in Fig. 6 {p. 558}, which graphically brings
+out the presence, symbolically, of a Transcendental One,
+throughout the poem.  Ninety-nine cantos have that one canto
+added to them in which the vision of God face to face is had and
+by which the perfect number one hundred is attained.  This "plus
+one" feature is brought out in the number of verses allotted to
+each of the cantos (which vary in length, as the reader knows),
+in that in no canto is the total number of verses exactly
+divisible by three.  The division by three always leaves a "plus
+one" verse.
+
+	|149-150.  e tu mi seguirai~... ^orazione~ {v.151}:
+Bernard continues, with |affezione~ and with |cor~ to stress the
+affective aspect of the final experience.  It is ^love~ that
+finally attains the Object, or so he seems to imply.  We know
+however that ^vision~ (which is intellective) must precede the
+love that attains (which is of the will).  See ^Par.~ XXVIII,
+109-111.  Bernard's injunction also emphasizes the necessity of
+Dante's cooperation (|tu mi seguirai~... |s@i che~... |lo cor non
+parti~).  |parti~ = ^parta~, "separate."
+
+	|151.  orazione~: Thus the ninety-ninth canto is so
+designed that its last word is |orazione~ and the number of its
+verses is 151, which (by the established practice in medieval
+numerology of adding the digits) presents the number seven, which
+is also found at the exact center of the whole structure.  See C.
+S. Singleton (1965).

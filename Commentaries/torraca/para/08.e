@@ -1,0 +1,723 @@
+	|1-3.~  Il discorso di Beatrice, nel c. VII, @e lungo 129
+versi: ora, come per dar riposo alla nostra mente affaticata, il
+poeta ci mena un po' per i campi della mitologia e della poesia
+antica.  ^Al tempo degli Dei falsi e bugiardi~ (^Inf.~, I, 72),
+il |mondo~ credeva che la dea Venere, girando (con la sua stella)
+nel cerchietto del terzo cielo, ispirasse agli uomini l'amore
+sensuale.  -- |Periclo~: lat. ^periclum~, pericolo, rischio;
+maggiore di ogni altro il pericolo di perder la vita eterna. 
+Altrove (^Par.~, XXII, 39) dir@a che era ^la gente ingannata e mal
+disposta~: all'inganno allude il v. 6.  -- |La bella Ciprigna~:
+Venere era, tra le Dee, la pi@u bella.  <Quelli di Pafo>
+nell'isola di Cipro (^Inf.~, XXVIII, 82) credevano <che appresso
+loro, prima ch'altrove, Venere dall'onde uscisse>, e l'adoravano
+in un tempio famoso.  ^Boccaccio~, ^Genealogie~, III.  -- |Il
+folle amore~: non <fino>, ma quello, che regge <sanza lo fedele
+consiglio della ragione>, ^V. N.~, I: ebbe il battesimo di
+|folle~ dai Provenzali.  ^C. Davanzati~, ^Messere, omo~: <Non @e
+pi@u degna cosa di volere Intra noi due amar di folle amore; Ma di
+cortese, puro e di piacere>.  Cfr. ^Tav. Rit.~, XLIII: <Pensate
+voi ch'io v'ami di folle amore?>  -- |Raggiasse~: cfr. ^Par.~,
+VII, 74.  ^Conv.~, II, 6: <Prende la forma del detto cielo (di
+Venere) uno ardore virtuoso, per lo quale le anime di quaggi@u
+s'accendono ad amare secondo la loro disposizione>.  -- |Volta~:
+voltata, portata in giro; cfr. ^Par.~, XXVII, 78.  -- |Nel terzo
+epiciclo~: gli astronomi antichi supposero che, eccettuato il
+sole, ognuno degli altri sei pianeti, oltre il suo cielo o spera,
+avesse un cielo pi@u piccolo o <speretta>, che per s@e medesimo <in
+esso cielo (grande) si volgeva, lo cerchio della quale chiamarono
+|epiciclo~>; ^Conv.~, II, 4.  ^Ristoro~, I, 12: <Noi troviamo
+ciascuno pianeta essere portato inverso oriente da uno suo grande
+cerchio, lo quale @e chiamato deferente; e ciascuno di questi
+cerchi, se non se quello del sole, porta un altro cerchietto, lo
+quale @e chiamato epiciclo; e 'l centro di questo epiciclo siede
+in su questo grande cerchio, il quale @e chiamato deferente; e 'l
+centro del corpo del pianeta ist@a in su questo cerchietto, lo
+quale @e chiamato epiciclo...  E lo grande cerchio, il quale @e
+chiamato deferente, porta lo epiciclo e porta il pianeta>.  --
+|Terzo~, perch@e in esso si volge il terzo pianeta.
+
+	|4.  Per che~: per questa credenza.
+
+	|5.  Di votivo grido~: di invocazione; @e il lat. ^divos
+in vota~ o ^votis vocare.~
+
+	|6.  Le genti antiche~: cfr. ^Inf.~, XXIX, 62.  --
+|Nell'antico errore~: nell'idolatria.  Cfr. ^Fra Giordano~, XXII:
+<E ben si convenia alla miseria nostra (che Cristo venisse),
+acciocch@e di tanto errore fussimo tratti, che non conosceano ie
+genti Iddio, anzi adoravano gl'idoli e le imagini.  |Antiche~,
+|antico~ danno al v. lentezza e quasi malinconia.
+
+	|7-8.~  ^Non pure~ {v.4}, non soltanto ^a lei faceano
+onore~ {v.4}, ma |onoravano Dione per sua madre e Cupido per suo
+figlio.~  -- |Dione~: cfr. ^En.~, III, 19.  <Alla madre Dionea>
+(a Venere).  -- |Per figlio~: <E perch@e gli antichi s'accorsono
+che quel cielo era quaggi@u cagione d'amore, dissono Amore essere
+figliuolo di Venere siccome testimonia ^Virgilio~ nel primo
+dell'^Eneide~ (664)... e ^Ovidio~>; ^Conv.~, II, 6.
+
+	|9.  Dido~: cfr. ^Inf.~, V, 85.  Nell'^En.~, I, 657
+segg., ^Cupido~ {v.7}, per desiderio della madre, assume le forme
+del figliuoletto di Enea, Ascanio, che Didone si toglie |in
+grembo~ <non sapendo quanto grande Dio segga su le sue
+ginocchia>.
+
+	|10-12.  E da costei~, dalla dea Venere, |ond'io piglio
+principio~ a questo canto, ^le genti antiche~ {v.6} |pigliavano
+il vocabol~, il nome della |stella, che il sol vagheggia or da
+coppa~, guardando indietro, |or da ciglio~, guardando innanzi. 
+Cfr. ^Par.~, IV, 61-63 n.  -- |Il vocabol~: cfr. ^Purg.~, XIV, 26
+n.  -- |Che 'l sol~ ecc.  <Accompagna e va tuttavia quasi col
+sole, e quando (esso) le va dinanzi, e quando dietro>; ^Ristoro~,
+I, 18.  <Venere e Mercurio sorgono e tramontano sia nelle ore
+mattutine sia nelle vespertine, perch@e il corso di entrambi @e pi@u
+veloce di quello del sole.  Quando, dunque, uno di essi @e vicino
+al sole ed ha corso diretto, precorre al sole ed emerge dai raggi
+(di esso), e perci@o nasce in occidente di sera finch@e non
+raggiunga la massima distanza dal sole: allora il pianeta
+rallenta il moto e ritorna sotto i raggi del sole; e perci@o
+tramonta di sera in occidente.  Quando poi il sole si @e pi@u
+allontanato da Venere e da Mercurio, allora essi emergono di
+nuovo dai raggi, e sorgono in oriente di mattina, sino a che,
+giunti alla maggior distanza dal sole, accelerino il corso e
+seguano il sole, ragione per cui tramontano in oriente di
+mattina>.  ^Alfragano~, XXIV.  Questo precedere o seguire il
+sole, che @e portato dal proprio deferente <il cui piano giace nel
+piano dello Zodiaco>, dipende dal moto corrispondente del cerchio
+deferente di Venere e di Mercurio.  Ma queste ragioni
+astronomiche, nell'imaginazione di Dante, si convertono in
+sentimento, che egli attribuisce al sole, il quale pare non si
+stanchi di guardar ammirando il pianeta bellissimo.  -- |Da
+coppa~: cfr. ^Inf.~, XXV, 22.
+
+	|13-15.~  Cfr. ^Par.~, V, 91-96; l'ascensione al terzo
+cielo @e tanto pi@u rapida, che solo il crescer della bellezza di
+Beatrice ne d@a indizio quando essa @e gi@a avvenuta.  -- |In ella~:
+cfr. ^Inf.~, III, 27 ecc.  -- |Assai~: cfr. ^Par.~, I, 17.
+
+	|16-21.~  Nella gran luce di Venere, che @e <lucentissima>
+(^Conv.~, II, 4), Dante pur vede |muoversi altre lucerne~, altri
+^splendori~ (^Par.~, III, 109 ecc.).  Mostra come ci@o avvenga per
+mezzo di due garbatissime similitudini, la prima tratta da un
+fatto analogo, la seconda da un fatto diverso da quello, che sta
+per narrare; e la seconda par che incalzi la prima (|e come~...
+|e come~); e l'una e l'altra, sebbene procedano spedite, tengono
+sospesa l'attenzione posponendo ci@o, che |si vede~ e |si
+discerne.~  |Nella fiamma si vede~ spesso la |favilla~, che la
+traversa; |e quando una voce @e ferma~ sopra la stessa nota, e
+|un'altra voce~, al tempo stesso, |va e riede~ per note diverse
+questa |si discerne~ in quella.  -- |Lucerne~ cfr. ^Par.~, XXI,
+73; XXIII, 28.  -- |In giro~: non cos@i gli spiriti apparsi ne'
+due cieli precedenti.  E queste lucerne corrono |pi@u o meno~,
+suppone il poeta, secondo la maggiore o minore vista degli
+spiriti, che vi son dentro.  |Credo~: non @e certo, ma probabile e
+conforme a ci@o, che il poeta ha osservato negli altri due mondi,
+che i beati godano la vista di Dio diversamente non solo da
+^scanno~ a ^scanno~, ma da spirito a spirito nello stesso scanno;
+cfr. ^Par.~, IV, 31-39.  -- |Correnti~: cfr. ^Inf.~, XIII, 125.
+
+	|22-27.~  E si accostarono |lasciando il giro~, non pi@u
+girando, cos@i veloci, che gli stessi baleni sarebbero parsi
+|impediti e lenti~ al confronto.  Cfr. ^Purg.~, V, 37-40, tanto
+per la comparazione quanto per la costruzione: -- <non vid'io --
+che non tornassero> -- e le n.  |Venti visibili~: <vapori
+accesi>.  |Venti~, baleni, fulmini, stelle cadenti, nella fisica
+dantesta, che @e quella di ^Aristotile~ (^Inf.~, XI, 101): son
+tutti <vapori>; cfr. ^Purg.~, V, 109-114 e le n.  I |venti~, che
+discendon |festini~ (cfr. ^Par.~, III, 61) |di fredda nube~, ma
+non |visibili~, si odono perch@e producono i tuoni.  ^Latini~,
+^Tesoro~, I, iii, 107: <E quando i venti, che tra loro si
+combattono cos@i maravigliosamente, entrano nelle nuvole e sono
+chiusi dentro il loro corpo, essi le muovono e fanno urtare l'una
+contro l'altra.  E perch@e la loro natura non soffre che sieno
+chiusi, essi le rompono di tutta forza, e allora fanno tuono.  Ed
+@e natura di tutte le cose, che si possono urtare e percuotere
+insieme, che fuoco ne possa nascere.  E quando @e quel forte
+incontro delle nuvole e de' venti e frattura di tuono, natura ne
+fa uscire fuoco, che getta grande chiarore, come voi vedete
+sovente quando il lampo getta la sua luce; e questa @e la vera
+cagione de' lampi e de' tuoni>.  -- |Impediti~: cfr. ^Purg.~,
+VII, 50.  -- |E lenti~: pure, la velocit@a del vento e del baleno
+@e proverbiale; cfr. ^Inf.~, XXII, 24.  -- |Divini~: non allude
+solo allo splendore; ne' |lumi~ sono spiriti beati, fatti quasi
+Dei; cfr. ^Par.~, V, 123 n.  -- |In gli alti Serafini~:
+nell'Empireo, dove sono i Serafini, l'ordine angelico pi@u alto;
+cfr. ^Par.~, XXVIII, 99.
+
+	|28-30.  Dentro a quei~: il canto partiva dall'interno di
+|quei~ ^lumi~ {v.25}; |che pi@u innanzi appariro~: che, lasciato
+^il giro~ {v.26}, giunsero prima degli altri.  Cfr. ^Par.~, X,
+82.  -- |S@i che~ ecc.  La fermata, che la voce deve fare tra
+|che~ ed |unque~, la dieresi di |r,iudir~, il suono di |non fui~ e
+di |disiro~ rendono <sospirosa> e dolce l'espressione del
+desiderio.
+
+	|32-33.  Solo~: cfr. ^Par.~, V, 121.  -- |Presti al tuo
+piacer~: cfr. ^Purg.~, XXVIII, 83-84.  -- |Ti gioi~: gioisca in
+te.
+
+	|34-39.~  Questo spirito gentile non aspetta che Dante
+gli chieda della <loro sorte>, del <loro grado>; cfr. ^Par.~,
+III, 41; V, 128.  |Principi celesti~: i Principati, terzo ordine
+degli angeli; cfr. ^Par.~, XXVIII, 125.  Gli spiriti |si volgono
+con essi d'un giro~, facendo lo stesso giro quanto al tempo:
+|d'un girare~ quanto al modo, alla velocit@a; |d'una sete~ quanto
+alla cagione del |girare~, che @e il vedere Dio.  -- |Ai quali~
+ecc.  Veramente nel ^Conv.~, II, 6, aveva detto <movitori> del
+cielo terzo non i Principati, ma i Troni, <li quali, naturati
+dell'amore del Santo Spirito, fanno la loro operazione
+connaturale ad esso, cio@e lo movimento di quello cielo pieno
+d'amore>; poi modific@o la sua opinione.  Cfr. ^Par.~, XXVIII, 130
+segg.  -- |Voi~ ecc.  @E la prima canzone del ^Conv.~, ricordata,
+come qui, per il primo verso, anche nel son. ^Parole mie.~  Dante
+racconta (^Conv.~, I, 2) di averla composta quando in lui
+combattevano ancora l'amore antico per Beatrice morta e l'amore
+nuovo per la <gentil donna, di cui fece menzione nella fine della
+^Vita Nuova~>, apparsagli primamente quando <la stella di Venere
+due fiate era rivolta in quello suo cerchio, che la fa parere
+serotina e mattutina secondo i due diversi tempi> dopo la morte
+di Beatrice -- ovvero, secondo la spiegazione allegorica (ivi,
+13), quando l'amore per la Filosofia <lo levava dal pensiero del
+primo amore>.  Per il senso del v., cfr. ^Par.~, II, 136 segg. 
+-- |Pien d'amor~ ecc.  Pare che ripeta il gi@a detto (vv. 82-83);
+ma, invece, lo dichiara e lo compie.  Grande amore davvero,
+eccelsa <virt@u di carit@a> se, per |piacere~ a Dante, non solo
+hanno interrotto il piacer loro di mirar Dio; ma non trovano |men
+dolce~ quetarsi |un poco~, star l@i fermi a discorrere con lui! 
+Anche in terra <pu@o accadere che alcuno acquisti maggior merito
+nelle opere della vita attiva che non un altro nelle opere della
+vita contemplativa; per esempio, se, per l'abbondanza dell'amor
+divino, affinch@e la volont@a di esso s'a dempia, per la gloria di
+esso sostiene talora di privarsi, per un certo tempo, della
+dolcezza della divina contemplazione>.  ^Somma t.~, II-II, 182.
+
+	|40-42.~  Parlano gli occhi.  Dante guarda Beatrice
+reverentemente, per chiederle se possa fare una domanda;
+Beatrice, guardando lui, lo contenta, approvando che la faccia, e
+l'assicura a farla.  Cfr. ^Par.~, IX, 16-18.  -- |Si furo
+offerti~: ritrae il moto degli occhi, riguardoso, quasi timido
+nell'incertezza.
+
+	|43-45.  Alla luce~: cfr. ^Par.~, III, 118; VI, 128.  --
+|Tanto~: con offerta cos@i larga e cos@i cortese.  -- |S'avea~: si
+era.  -- |Di', chi siete~?  Cfr. ^Par.~, III, 4O-41.  -- |Di
+grand'affetto impresa~: mostrandosi piena di desiderio.
+
+	|46-48.~  Aggiunta la |nuova allegrezza~ di soddisfare
+quel desiderio alle |allegrezze~ dello spirito, Dante <rividel
+pi@u lucente e maggior fatto> (^Purg.~, II, 21, cfr. ^Par.~, V,
+131-132, 139); ma |quanta pi@u e quale piue~ si fece la ^luce~
+{v.43}, non sa dire: il lettore, se lo imagini dall'esclamazione,
+dall'energia e dall'indeterminatezza stessa e di questo |quanta~,
+e di questo |quale.~
+
+	|49-51.  Cos@i fatta~: ^pi@u lucente e maggiore~, cfr.
+^Purg.~, X, 134.  -- |Il mondo~ ecc.  Breve fu la mia vita: e, se
+pi@u fosse durata, molto male accadr@a, che non sarebbe accaduto. 
+Non rimpiange la bella giovinezza troncata sul fiore; gli
+rincresce del male, che la sua morte immatura ha reso possibile. 
+Discorre pacatamente, non allude se non a fatti, che sono
+avvenuti o avverranno, non lascia trapelare alcun suo sentimento;
+ma l'impressione delle parole @e malinconica, perch@e sono dolorosi
+quei fatti.  -- |Se pi@u~: se pi@u tempo.
+
+	|52-54.~  Non dice: -- Tu non mi ravvisi; ma lo lascia
+bene intendere.  -- |La mia letizia, che mi raggia d'intorno~:
+cfr. ^Par.~, V, 136-138, ^Purg.~, XXV, 89.  -- |Animal~ ecc.:
+Baco da seta nel bozzolo, cfr. ^Purg.~, X, 124-126 n.  --
+|Fasciato~: avvolto.  Nell'^Inf.~, XXVI, 48, i cattivi
+consiglieri si fasciano delle fiamme, che li ardono.
+
+	|55-57.~  Tu non mi ravvisi, perch@e mi ti cela la mia
+luce; eppure...  |Assai m'amasti~, e me lo meritavo!  Ma non si
+rivela ancora; gli piace trattenersi a dar ragione di ci@o, che ha
+cos@i sicuramente asserito, |avesti bene onde~: -- Se fossi
+vissuto, ti avrei mostrato pi@u che |le fronde del mio amore~, te
+ne avrei mostrato i frutti.  Cfr. per l'imagine ^Guinizelli~,
+^Con gran disio~, st. 2a: <L'amor, crescendo, fiori e foglie ha
+messe, e 'l frutto non ricoglio>.
+
+	|58-63.~  Quando ne fosse giunto il |tempo~, sarei stato
+|signore~ della Provenza e dell'Italia meridionale.  Questo @e, in
+breve, il senso; ma egli non sa pensare ai paesi, che sarebbero
+stati suo retaggio, e non raffigurarseli nell'imaginazione per
+ci@o, che distingue ognun d'essi dagli altri, per i confini e per
+altri particolari caratteristici.  Anche qui, e ne' quattro
+terzetti seguenti, pare che racconti e descriva, a tratti brevi e
+rapidi, sereno, impassibile, come conviene a spirito del
+Paradiso; ma che de' ricordi terreni dolci e cari si compiaccia
+in s@e stesso, si vede, non foss'altro, dall'abbondanza e dalla
+precisione loro.  Parla l'anima di Carlo Martello, (1270?-1295),
+che, figliuolo primogenito di Carlo II lo zoppo (^Purg.~, VII,
+127; XX, 79; ^Par.~, VI, 106 ecc.), avrebbe ereditato gli stati
+paterni, Provenza (cfr. ^Purg.~, XX, 61-65) e Sicilia di qua dal
+Faro.  Fu a Firenze nel marzo del 1294 <con sua compagnia di
+duecento cavalieri a sproni d'oro, Franceschi e Provenzali e del
+Regno, tutti giovani, vestiti con lui d'una partita di scarlatto
+e verde bruno, e tutti con selle d'una assisa a palafreno
+rilevate d'ariento e d'oro, con l'arme a quartieri a gigli ad
+oro... che parea la pi@u nobile e ricca compagnia che anche avesse
+uno giovane re con seco.  E in Firenze stette pi@u di venti d@i
+(otto)... e da' Fiorentini gli fu fatto grande onore, ed egli
+mostr@o grande amore a' Fiorentini, ond'ebbe molto la grazia di
+tutti>.  ^Villani~, VIII, 18.  Allora, come pare certo, conobbe
+Dante, e lesse o ud@i da lui la canzone, che, con pensiero
+gentilissimo, ha ricordata (v. 87).  -- |Quella sinistra riva~
+ecc.  La Provenza propriamente detta si stende dalla riva
+sinistra del |Rodano~ (^Inf.~, IX, 112) alle Alpi; a oriente del
+|Rodano~, non ad occidente come dicono parecchi commentatori
+moderni, se il sole non @e uscito <fuor del cammin vecchio>.  |Si
+lava~, non <si bagna> (cfr. ^Inf.~, XX, 64), forse con allusione
+al corso impetuoso del <Rapido fiume, che d'alpestra vena,
+Rodendo intorno... scende>.  Cfr. ^Tesoro~, I, iv, 124: <Entra
+nel gran mare cos@i rudemente, che trasporta le navi dentro il
+mare per ben cinque leghe e pi@u>.  -- |Sorga~: il fiumicello, <il
+rio> celebrato dal Petrarca, n. presso Valchiusa e si versa nel
+Rodano pochi chilometri a settentrione di Avignone.  -- |E quel
+corno~ ecc.  L'Italia peninsulare, al mezzogiorno, ha due corni;
+cfr. ^M. Capella~, VI, 644, ^Tesoro~, ivi, <la citt@a di Otranto
+sul corno sinistro d'Italia>; ma non pare che Carlo voglia
+alludere solo al corno destro.  -- |D'Ausonia~: cfr. ^Mon.~, II,
+13.  -- |S'imborga di~, come prima |si lava di~; ha per suoi
+borghi.  Si chiamavano |borghi~, nel Medio Evo quelli, che noi
+chiamiamo sobborghi, e il nome resta ad alcune vie ora centrali
+delle nostre citt@a, perch@e queste, allargandosi, man mano,
+compresero i |borghi~ dentro la cinta delle mura; cfr. ^Par.~,
+XV, 97.  Secondo ^Orosio~, VII, 32, i Borgognoni tolsero il nome
+<dalle numerose abitazioni costruite alla frontiera, che
+volgarmente chiamano borghi>.  Carlo indica come i vertici di un
+gran triangolo (cfr. ^Inf.~, XX, 67-68 n.), che circoscrive gran
+parte di |quel corno~; |Bari~ su l'Adriatico, |Gaeta~ (^Inf.~,
+XXVI, 92) sul Tirreno, poco lontano dalla foce del |Verde~, e
+|Catona~ sul Faro, dirimpetto a Messina.  Quasi ignota, ora,
+|Catona~; ma, durante la guerra de' Vespri Siciliani (cfr. v.
+75), aveva tremato al torvo cipiglio di Carlo d'Angi@o, veduto
+teride e galere innumerevoli adunarsi e apparecchiarsi a portar
+nell'isola sventura e morte, e -- nell'anno, che precedette
+l'incontro del poeta con Beatrice -- patito gl'incendi e la
+strage degli Almogaveri.  -- |Da ove~ ecc.  |Quel corno d'Italia,
+che~ ecc. m'aspettava |per suo signore da ove~ ecc., di l@i in
+gi@u.  Cos@i Carlo Martello non solo indica la linea, donde
+comincia geograficamente il |corno d'Ausonia~, l'Italia
+meridionale; ma anche il confine del Regno, che si stendeva dalla
+foce dell'uno alla foce dell'altro fiume.  Cfr. ^Purg.~, V,
+68-69.  Se, invece, si desse a |da ove~ il senso di ^dal quale~,
+intendendo che |Tronto~ e |Verde~ sgorgano da |quel corno~,
+l'espressione, imprecisa e poco felice, sarebbe, in verit@a, una
+zeppa.  -- |Verde~: cfr. ^Purg.~, III, 131.
+
+	|64-66.  Fulgeami gi@a~: @e solo una notizia storica, o non
+anche una ricordanza grata?  -- |Quella terra~ ecc.  L'Ungheria. 
+Carlo Martello nacque da Maria figliuola di Stefano V d'Ungheria;
+quella |corona~ gli |fulgeva in fronte~ dal marzo del 1292.  --
+|Danubio~: cfr. ^Inf.~, XXXII, 26.  |Poi che le ripe~ ecc.  <E
+sappiate che il Danubio @e un gran fiume... che nasce ne' grandi
+monti dell'Alemagna, in occidente>; ^Tesoro~, I, iv, 124. 
+|Riga~: cfr. ^Orosio~, I, 2: <Il Milo riga le pianure
+dell'Egitto>.
+
+	|67-75.~  E la Sicilia avrebbe |ancora~, mentre ti parlo,
+e pi@u tardi, |atteso~ per suoi re, dopo me, i discendenti di
+Carlo e di Rodolfo |nati per me, se mala signoria non avesse
+mosso Palermo~ ecc.  La rivoluzione de' Vespri, come tutti sanno,
+sottrasse l'isola al dominio degli Angioini.  |La bella
+Trinacria~: |bella~ e perduta per sempre.  |Trinacria~ anche
+nella ^V. E.~, I, 11; II, 6.  -- |Caliga~: lat. si copre di
+caligine, fuma; cfr. ^Purg.~, XI, 30.  |Non per Tifeo~: non
+perch@e sia sotto di essa sepolto il gigante Tifeo, come
+credettero gli antichi, cfr. ^Inf.~, XXXI, 124 n.  <La vasta
+isola di Trinacria @e sovrapposta alle membra del gigante, e preme
+con grandi moli Tifeo, che os@o sperare le sedi eteree.  Bene si
+sforza egli, e tenta spesso di sollevarsi.  La mano destra giace
+sotto all'ausonio Peloro, la sinistra sotto a te, o Pachino; le
+gambe son premute da Lilibeo>.  ^Ovidio~, ^Metam.~, V, 646 segg. 
+|Ma per nascente solfo~: rifiuta la favola, lo spirito, che vede
+la verit@a in Dio (cfr. v. 90); e, poi che gliene capita il
+destro, le sostituisce una spiegazione, per quei tempi,
+scientifica.  <Il calore del sole entra per lo corpo della terra
+e anche quello dell'altre stelle; truova la miniera del zolfo, la
+quale @e esca del fuoco, e @e acconcia a ricevere lo fuoco; per lo
+calore del sole, scaldasi per lungo tempo e accendesene lo fuoco;
+e quando questo fuoco truova la terra aperta e forata, vediamne
+uscire fuori lo fumo e, per istagione la fiamma>.  ^Ristoro~,
+VII, iv, 7.  |Nascente~; delle pietre, de' minerali, si diceva
+<nascono> per <si trovano> in un luogo.  ^M. Polo~, CXLI: <In
+questa provincia nasce oro in grande quantit@a; -- CL: In questa
+isola nascono i buoni e nobili rubini, e non nascono in niuno
+luogo del mondo piue; e qui nascono zaffiri ecc.>.  -- |Tra
+Pachino e Peloro~: fuma per Mongibello (^Inf.~, XIV, 56) tra il
+capo Passaro e il capo Faro; cfr. ^Ovidio~, ^Metam.~, V, 346.  La
+Sicilia, l'Etna, i bei campi di Peloro, cant@o Dante anche nella
+seconda egloga, poco prima della sua morte.  -- Fuma per
+Mongibello |sopra il golfo~, che da |Euro~, pi@u che dagli altri
+venti, |riceve briga.~  Quale |golfo~?  Ai tempi di Dante, non
+usava chiamare golfo di Catania il tratto di mare che ora porta
+questo nome, a oriente della Sicilia; e mi pare probabile che
+egli avesse in mente le parole di ^Orosio~, I, 2: <Il sito
+dell'Italia si distende da Circio (maestro) in Euro (scirocco),
+avendo da Africo (sud-ovest) il mare Tirreno, da borea ^il seno~,
+Adriatico>.  Anche il ^Tesoro~ pone la Sicilia tra il mare
+Adriatico e il Tirreno>.  -- |Euro~: <I marinai lo chiamano
+scirocco e non so perch@e>; ^Tesoro~, I, ii, 107.  Cfr. ^Purg.~,
+XXVIII, 21.  -- |Nati per me di~ ecc.  Cfr. ^Purg.~, XX, 50. 
+Modestamente, non dice: I miei figliuoli: ma: I nipoti di mio
+padre |Carlo~ (II d'Angi@o) e di mio suocero |Rodolfo~; cfr.
+^Purg.~, VI, 103; VII, 94.  Il matrimonio di Carlo Martello con
+Clemenza figliuola di Rodolfo, conchiuso quando essi erano ancora
+in tenera et@a, fu consumato nel 1287.  ^Schipa~, ^Carlo Martello
+angioino.~  -- |Se mala signoria~ ecc.  Parla cos@i un re, un
+principe, che tenne il governo parecchi anni nell'assenza del
+padre; parla cos@i, del governo di Carlo I in Sicilia, il nipote
+di Carlo I.  <Lagrime e terrore nell'isola...  Manomessa la
+nazione, manomessi i privati; non magistrato che rendesse
+ragione, non principe che riparasse i torti, n@e un domestico
+asilo rimanea dove l'abbominato accento straniero non penetrasse
+a ricordare pi@u scolpitamente la servit@u.  Delle facolt@a loro non
+eran padroni; vilipesi nelle persone, ingiuriati nelle donne;
+della vita in sospetto sempre o in pericolo.  A tanto la Sicilia
+venne per le violate leggi e il dominio straniero!>  ^Amari~,
+^St. d. Vespro Siciliano.~  -- |Mala signoria mosse Palermo~: il
+30 marzo 1282.  Il ^Villani~, VII, 61, racconta che il popolo
+corse all'armi gridando: <Muoiano i Franceschi!>  Anticipando di
+sei secoli le indagini e il giudizio della storia, Dante d@a la
+sola spiegazione ^rigorosamente verace~ della rivoluzione
+siciliana.  Non lunghi pazienti apparecchi, non trame tenebrose,
+non trattati, non patti, non giuramenti; ma grido e moto concorde
+di popolo, provocato e preparato dalla superbia, dall'avarizia e
+dall'imprevidenza.  -- |Mora, Mora~!  Cfr. ^V. N.~, son. ^Ci@o che
+m'incontra~: <Le pietre par che gridin: -- Moia, Moia!>.
+
+	|76-78.  Mio frate~: Roberto, che successe a Carlo II nel
+1309, e gi@a nel 1296 era stato designato alla successione.  --
+|Questo antivedesse~: che mala signoria sempre accora i popoli
+soggetti; cfr. ^Inf.~, XXXIII, 78.  -- |L'avara povert@a~: causa
+ed effetto, il farsi o l'apparir poveri per avarizia: gi@a
+eviterebbe di essere taccagno, spilorcio come un catalano.  I
+Catalani avevano fama di turchi <stretti>; cfr. ^B. d'Auriac~,
+^Nostre reys~, e il partimento tra Alberto e il Monaco, dove,
+discutendo se valgan meglio i Catalani o i Francesi, il Monaco
+dice de' primi: <Con loro non vi empirete la pancia, se non
+rubate alla strada o depredate i romei...  Io ne ho visto
+cinquecento cavalieri, e non li vidi mai stare a cavallo, anzi si
+pu@o scambiarli per servitori.  Per un dono, che fanno, si
+prendono tre tanti>.  Una novella del ^Boccaccio~ (^Decam.~, VI,
+3) ritrae la spilorceria del catalano don Diego de la Rat,
+<maniscalco per lo re Roberto> in Firenze.  Si vuole che Dante
+alluda alla |povert@a di Catalogna~ perch@e quando Carlo II, preso
+nella battaglia del 15 giugno 1284 (^Purg.~, XX, 79) e <mandato
+in Catalogna>, ottenne la libert@a; <lasci@o per istadichi
+(ostaggi) tre suoi figliuoli>, tra cui Roberto (^Villani~, VII,
+125), e allora questi pot@e contrarre il vizio del paese. Ma, pur
+lasciando da parte che i tre principi furono tenuti in cortese e
+benigna prigionia a Saragozza, che @e in Aragona, non in
+Catalogna; i vv. 82-84 mostrano chiaro che Dante giudicava
+Roberto taccagno per natura: dunque egli ricorda |l'avara povert@a
+di Catalogna~ a modo di adagio.  -- |Perch@e non gli offendesse~:
+non gli recasse danno, non gli nuocesse alienandogli l'animo dei
+sudditi.  <Elli conviene che i re e i prenzi sieno amati da
+quelli, che sono sotto loro; e perci@o che 'l popolo ama molto ei
+re quando ellino sono larghi e dipartono ei loro beni come ellino
+debbono, s@i s'avviene (conviene) che i re sieno larghi e
+liberali>.  ^Colonna~, I, ii, 18.  <E che altro cotidianamente
+pericola e uccide le citt@a, le contrade, le singulari persone,
+tanto quanto lo nuovo raunamento d'avere appo alcuno?  Lo quale
+raunamento nuovi desiderii discuopre, al fine delle quali sanza
+ingiuria d'alcuno venire non si pu@o>.  ^Conv.~, IV, 12.
+
+	|79-81.  Per lui o per altrui~; bisogna che egli od altri
+provveda all'emenda.  |Altrui~: si deve, forse, riferire a Carlo
+II, che visse e regn@o altri nove anni dopo il 1300.  -- |A sua
+barca~ ecc.  Son gi@a troppe le altre sue magagne.  Cfr. ^Par.~,
+XVI, 94-96.
+
+	|82-84.  La sua natura~, la sua indole, |che discese
+parca di larga~: pu@o parere immeritata questa lode di larghezza
+(cfr. ^Purg.~, XIX, 122 n.) a Carlo II, al quale Dante, nel
+poema, rimprovera d'aver venduto la figlia patteggiandone come un
+corsaro (ivi, XX, 80-81) per avarizia, e nella ^V. E.~ (I, 12),
+di essere, con gli altri principi italiani, protettore de'
+carnefici, degl'ingannatori, de' seguaci dell'avarizia; il quale
+nel ^Conv.~ (IV, 6) paragona a nibbio, che fa <altissime rote
+sopra cose vilissime>.  Ma la lode @e data a Carlo dal figliuolo,
+cfr. ^Purg.~, III, 115-116 n.  Inoltre, <dice Tullio nel libro
+degli ^Ufficii~: -- Sono molti desiderosi d'essere apparenti e
+gloriosi, che tolgono agli altri per dare agli altri, credendosi
+esser buoni tenuti se arricchiscono gli amici per qual ragione
+esser voglia>; ^Conv.~, IV, 27, cfr. ^Par.~, V, 33 n.  Cos@i il
+giudizio di Dante si concilia con la lode di Carlo Martello e con
+l'affermazione del Villani, VIII 108, che Carlo II <fu uno de'
+larghi e graziosi signori che al suo tempo vivesse, e nel regno
+fu chiamato il secondo Alessandro per la cortesia>.  -- |Parca~:
+anche in lat. ^parco~ ha qualche volta il senso di scarso nel
+dare, spilorcio.  -- Questa @e una delle invenzioni di Dante pi@u
+intimamente drammatiche.  Il nipote narra e condanna il mal
+governo dell'avo; il fratello rivela e biasima l'indole trista
+del fratello.  -- |Avria mestier~ ecc.  Alcuni, congiungendo il
+senso di questo v. con quello del v. 77 intendono per |milizia~ i
+cavalieri catalani, che Roberto ebbe al suo servizio.  Senonch@e,
+1+o~ quei cavalieri, fino al 1309, furono propriamente al servizio
+di Carlo II, non di Roberto; 2+o~ erano soldati stipendiati,
+mercenari, che solo in guerra, ne' <guasti> e ne' saccheggi,
+potevano procurare |di metter in arca~; 3+o~ qui si parla della
+|natura parca~ di Roberto; |discesa~, qui, e poi il dubbio di
+Dante (v. 93) e la risposta di Carlo Martello (specialmente i vv.
+130 segg.) mostran chiaro che quella era veramente |natura~,
+insita in Roberto prima ancora della nascita, da che la madre lo
+concep@i, non vizio acquisito.  Or come avrebbe giovato a
+correggerla il non aver |milizia~ curante di accumular danaro? 
+Anche con soldati o <cavalieri> morigerati, non avidi di guadagno
+o di bottino, quella |natura~ sarebbe rimasta qual era. 
+|Milizia~ era l'ordine cavalleresco, considerato come scuola
+severa, disciplina austera di ogni virt@u e gentilezza: ai pu@o,
+perci@o, intendere: -- Avrebbe bisogno di tale educazione
+cavalleresca |che non curasse~ ecc.  Nel 1300 Roberto era ancor
+molto giovine, aveva soli 22 anni; poteva correggersi.  Lo
+spirito ha gi@a detto (v. 80) che |altri~ avrebbe potuto
+provvedere a fargli fuggire la taccagneria; ora indicherebbe il
+modo di provvedere, non senza rimprovero indiretto al padre
+debole o trascurato.  Cfr. ^Conv.~, IV, 24: <L'adolescente,
+ch'entra nella selva erronea di questa vita non saprebbe tenere
+il buon cammino, se dalli suoi maggiori non gli fosse mostrato. 
+N@e il mostrare varrebbe se alli loro comandamenti non fosse
+obbediente>.  -- ^Tav. Rit.~, LXII: <Se alcuno aveva cura di
+reame o di citt@a o di castello, non poteva essere (cavaliere
+errante) legittimamente, acci@o che la sollecitudine della
+avarizia nollo traesse dalla prodezza...  E da s@e egli dovea
+cessare ogni altro pensiero di non avere cura n@e a rendite, n@e a
+ricchezze, n@e a tesoro, n@e a cosa, che in sua cavalleria lo
+potesse impedimentire>.  -- |Di mettere in arca~: cfr. ^Purg.~,
+XXXII, 125, ^Guittone~, ^Lett.~, I: <Ricchezze cresce ad arca... 
+Come pi@u arca s'empie animo pi@u si vota>.  Nella bella ballata
+per la battaglia di Montecatini (1315, cfr. ^Purg.~, XXIII,
+110-111 n.), un guelfo dice alla madre di Roberto: <Il re
+Roberto, fonte d'avarizia, Per non scemar del colmo della Bruna
+(i tesori ammucchiati nella torre Bruna), Passer@a esta fortuna E
+smaltir@a il disonor temendo il danno>.
+
+	|85-90.  Signor mio, l'alta letizia, che il tuo parlar
+m'infonde, m'@e pi@u grata per@o ch'io credo che per te si veggia~,
+tu la vegga |ov'ogni ben si termina e s'inizia, come la vegg'io~
+dentro di me; la profonda |letizia~, che io provo per le tue
+parole, mi d@a maggior piacere perch@e credo che tu la veda in Dio,
+onde Dio stesso ne @e testimone.  -- |Signor mio~: Carlo ha
+ricordato che, nel mondo, Dante l'am@o assai (v. 55); e Dante
+torna alle consuetudini cortesi del mondo.  -- |Ove ogni ben~
+ecc.  ^Lett. a Cang.~, 33: <Trovato il principio, il primo, ossia
+Dio, non @e da cercar altro, per@o ch'Egli sia alfa ed omega, cio@e
+principio e fine>.  -- |Ed anche~ ecc.  Ed anche |mi @e caro~ che
+tu |discerni~ questo (che <il tuo parlare alta letizia
+m'infonde>), |rimirando in Dio~; mi piace che sei tra i beati del
+cielo, che soli veggono in Dio.  Parla l'amico all'amico, cfr.
+^Purg.~, VIII, 53-54.
+
+	|91.  Mi fa chiaro~: cfr. ^Par.~, V, 120.
+
+	|93.~  Com'@e che, da padri buoni, nascono figli cattivi? 
+Cfr. per il concetto e per la costruzione il v. 82; per l'imagine
+^Purg.~, XVI, 114 n.
+
+	|94-96.~  Se mi riesce di |mostrarti~ una verit@a, avrai
+dinanzi a te, vedrai con gli occhi tuoi, |quel, che dimandi~, che
+ora non vedi, a cui ora volgi le spalle.  Cfr. vv. 12 e 136.
+
+	|97-99.~  ^Com'esser pu@o~ {v.93}?  Cos@i @e ordinato da
+Dio, perch@e il genere umano, l'umana societ@a possa esistere e
+durare.  La risposta dello spirito ha due parti: la prima, la
+quale svolge il concetto che in terra non accade niente, che non
+sia predisposto da Dio, va sino al v. 114.  -- La divina bont@a
+(cfr. ^Par.~, VII, 109) fa che la sua |provvidenza~ sia |virt@u~
+di queste stelle.  La |virt@u~ delle stelle non procede a caso,
+opera come Dio ha prestabilito; cfr. ^Par.~, I, 121; II, 127
+segg.  Si badi che qui |provvidenza~ ha il significato originario
+di vedere da lontano, prevedere.  <La provvidenza riguarda oltre
+(il presente) a quello, che pu@o avvenire>; ^Conv.~, III, 1.  Cfr.
+^Somma t.~, II-II, 49.  -- |Scandi~: sali, ascendi; cfr. lat.
+^scandere.~  -- |Volge~ muovendolo; |contenta~ tenendolo insieme,
+regolando il moto con leggi perpetue.  Cfr. il lat. ^contentus~
+da ^contineo.~
+
+	|100-102.  Le nature~: il dubbio di Dante @e sorto
+dall'accenno alla ^natura~ di Roberto, v. 82.  Si ricordi che ^si
+chiama natura l'essenza della cosa~, cfr. ^Par.~, II, 116.  --
+|Nella mente~ ecc.  Da Dio, che @e perfettissimo.  <Ci@o, che le
+creature ricevono da Dio, @e la loro natura>; ^Somma t.~, I, 103. 
+-- |Con la lor salute~: con la loro conservazione.  Cfr.
+^salvare~ per conservare nel ^Conv.~, II, 9, dove @e anche detto:
+<La natura umana trasmuta nella forma umana la sua conservazione
+di padre in figlio>.
+
+	|103-105.  Quest'arco~: la virt@u dei cieli.  Ogni
+^natura~, che i cieli |saettano~ su la terra, @e |disposta~, anzi
+predisposta a |fine~ prestabilito.  Cfr. ^Par.~, I, 119.  -- |A
+provveduto fine~: <Rispetto alla causa universale, all'ordine
+della quale non si pu@o sottrarre l'effetto, si dice esser
+provveduto, come l'andata contemporanea di due servi allo stesso
+luogo @e provveduta dal padrone, che scientemente ve li manda cos@i
+che uno non sappia dell'altro>.  ^Somma t.~, I, 22.  -- |S@i come~
+ecc.  Cfr. ^Par.~, I, 125-126 n.  -- |Cocca~: cfr. ^Inf.~, XVII,
+136.
+
+	|106-108.~  L'arte consiste <nel far le cose con retta
+ragione>, bene; ^Somma t.~, I-II, 57.  Se le influenze de' cieli
+non fossero rette dalla provvidenza divina, opererebbero
+ciecamente, non con |arte~; non produrrebbero |effetti~ ordinati
+al fine e concordi, ma |ruine.~
+
+	|109-111.  Gl'intelletti, il Primo~: le intelligenze
+celesti, Dio.  -- |Manchi~: difettosi.  -- |Perfetti~: per
+compiere in tutto bene l'uffizio loro; cfr. ^Par.~, XXII, 64.
+<Dell'ottimo @e produrre ottime cose...  Non conviene alla divina
+bont@a che non conduca a perfezione le cose prodotte>; ^Somma t.~,
+l. cit.
+
+	|112.~  Vuoi tu che ti appaia pi@u chiara questa verit@a? 
+-- |Imbianchi~: cfr. ^Inf.~, II, 128.
+
+	|113-114.~  Risponde pronto e sicuro.  |Non gi@a~!  Non ha
+bisogno di altre dichiarazioni, perch@e vede |impossibile che la
+natura~ non compia quel, che deve.  <Tutte le cose sono per la
+propria operazione...  Parrebbe che tutte le cose create fossero
+invano se private della propria operazione>.  ^Somma t.~, I, 95. 
+<Nelle cose necessarie, Dio e la natura non vengon meno>. 
+^Mon.~, I, 12.  -- |Natura~ nel senso <di principio materiale e
+formale di qualunque moto>; (^Somma t.~, I, 29); <la natura
+universale di tutto, che ha giurisdizione quanto @e tutto il
+mondo, dico quanto il cielo e la terra si stende>.  ^Conv.~, IV,
+9, ^Inf.~, XI, 99-100.  -- |Quel, ch'@e uopo~: ci@o, che Dio ha
+provveduto, deve necessariamente essere.  Ma bisogna distinguere
+<la ragione dell'ordine delle cose provvedute al fine,
+dall'esecuzione dell'ordine.  Quanto alla prima, Dio provvede
+immediatamente a tutte le cose: avendo nel suo intelletto la
+ragione di tutte le cose anche minime, e assegnando certe cause a
+certi effetti, dette loro la virt@u di produrre quegli effetti. 
+Quanto all'esecuzione, vi sono de' mezzi (strumenti) della divina
+provvidenza, che le cose inferiori governa mediante le
+superiori...  La provvidenza, per cui si provvede alle singole
+cose generate e corruttibili, attribu@i Dio alle sostanze separate
+(intelligenze, angeli), che muovono circolarmente i corpi
+celesti>.  ^Somma t.~, I, 22.  -- |Stanchi~: si stanchi.  Dante
+spesso omette la particella pronominale dei verbi riflessi.
+
+	|115-116.~  Passa a un altro ordine di idee.  Pu@o l'uomo,
+|in terra~, vivere solo?  No, <perch@e un uomo, che viva solo, non
+basta a s@e... onde naturalmente @e imposto all'uomo di vivere in
+societ@a>.  ^Somma t. i G.~, III, 85; cfr. ^Mon.~, I, 4, ^Conv.~,
+IV, 4: <La umana civilt@a a uno fine @e ordinata, cio@e a vita
+felice; alla quale nullo per s@e @e sufficiente a venire senza
+l'aiuto d'alcuno; conciossiacosach@e l'uomo abbisogna di molte
+cose, alle quali uno solo satisfare non pu@o>.  -- |Cive~:
+cittadino o, come Dante dice, membro della <umana civilt@a>; cfr.
+^Purg.~, XXXII, 101.
+
+	|118-119.  Esser~: esser ^cive~ {v.116}.  Non v'@e
+<civilt@a> senza ordine, e l'ordine importa distribuzione e
+distinzione di |offici.~
+
+	|120.~  Il |maestro~ ^di color che sanno~ (^Inf.~, IV,
+131), il ^Filosofo~ <nella ^Politica~ dice che, quando pi@u cose a
+uno fine sono ordinate, una di quelle conviene essere regolante
+ovvero reggente, e tutte le altre rette e regolate da quella. 
+Siccome vedemo in una nave, che diversi uffici e diversi fini di
+quella a uno solo fine sono ordinati>.  ^Conv.~, IV, 4.
+
+	|121.~  Cos@i, per domande e risposte, lo spirito |venne
+deducendo~, traendo una verit@a dall'altra, |insino~ a
+quest'ultima.
+
+	|122-123.~  Posto che, al buon assetto della societ@a,
+sono necessari ^diversi offici~ {v.119}, @e necessario che gli
+uomini uniti in societ@a abbiano disposizioni, doti, attitudini
+diverse.  Queste sono le |radici~ degli |effetti~ umani di quel,
+che gli uomini fanno.  Cfr. ^Par.~, II, 70-71.
+
+	|124-126.~  E questa @e la ragione perch@e gli uomini
+nascono ^con diverso ingegno~ (^Par.~, XIII, 72), diversamente
+disposti, adatti a cose diverse; uno a far leggi savie, un altro
+a tentare pazze imprese, un terzo ad essere ottimo sacerdote, un
+quarto ad eccellere nell'arte.  -- |Solone~ dette ad Atene <le
+antiche leggi>, ^Purg.~, VI, 139; @e ricordato nel ^Conv.~, III,
+11, primo di <quelli sette savii antichissimi, che la gente
+ancora nomina per fama>.  -- |Serse~: cfr. ^Purg.~, XXVIII, 71 n. 
+-- |Melchisedech~: sacerdote e re di Salem, ^Genesi~, XV, 18:
+Secondo ^S. Paolo~, |Melchisedech~ <s'interpreta re di
+giustizia>, e re di Salem <viene a dire re di pace>;
+rassomigliato al figliuol di Dio, rimane sacerdote in eterno,
+<come tipo>.  ^Lett. agli Ebrei~, VII, 2.  -- |Quello, che,
+volando~ ecc.  Dedalo, cfr. ^Inf.~, XVII, 109-111; XXIX, 116.
+
+	|127-129.~  Il cielo, col suo moto circolare, |fa sua
+arte~, forma i corpi e d@a loro la vita; ma non @e esso, che
+destina un corpo a ricevere una piuttosto che altra |natura.~  --
+|Ch'@e suggello~ ecc.  Cfr. ^Par.~, I, 41-42; XIII, 64-67; ^Somma
+t.~, I, 104: <Il primo moto (del cielo), cio@e il diurno, @e causa
+della continuit@a della generazione; il secondo (annuale), che si
+compie nello Zodiaco, @e causa della diversit@a secondo la
+generazione e la corruzione>.  -- |Ostello~: cfr. ^Purg.~, VI,
+76.
+
+	|130-132.~  Per ci@o, che le diversit@a di natura non sono
+prodotte dal cielo, accade che i figli dello stesso padre non
+sieno simili l'uno all'altro, e che il figlio non sia simile al
+padre.  Non il cielo, ma la provvidenza divina fa che Isacco
+generi |Esa@u~ diverso da |Giacobbe~, e che |Quirino~ venga da |s@i
+vil padre~, che la nascita sua si attribuisca a |Marte.~  --
+|Esa@u~, |Giacobbe~: cfr. ^Par.~, XXXII, 68, ^Inf.~, IV, 59. 
+^Genesi~, XXV, 26: <Allorch@e furono adulti, Esa@u divenne buon
+cacciatore e uomo di campagna, e Giacobbe, uomo semplice, abitava
+ne' padiglioni>.  -- |Per seme~: erano gemelli; dunque, la
+differenza tra loro cominci@o fin dalla concezione.  -- |Quirino~:
+Romolo.  -- |Di s@i vil padre~: Dante credeva (^Conv.~, IV, 16)
+che ^nobile~ venisse da ^non vile~, <onde ^nobile~ @e quasi ^non
+vile~>.  |Si rende~: @e reso, attribuito.  <La vestale (Rea
+Silvia) avendo partorito due gemelli, o che cos@i credesse, o
+perch@e l'esser un dio autore della colpa era pi@u decoroso,
+design@o Marte come padre dell'incerta prole>.  ^Livio~, I, 3.
+
+	|133-135.~  I figli sarebbero per indole e attitudini
+|sempre~ simili ai padri, se la provvidenza divina non disponesse
+altrimenti.  <Nelle creature non v'@e comunicazione di natura se
+non per generazione, -- ogni generante genera il simile a s@e, --
+il generato @e a somiglianza del generante>; ^Somma t.~, I, 27. 
+<Il divino seme (di vera nobilt@a) non cade in ischiatta, cio@e in
+istirpe, ma cade nelle singolari persone>; ^Conv.~, IV, 20.
+
+	|136.~  Cfr. v. 96.  Ora vedi ci@o, che non vedevi; ora
+sai perch@e ^seme amaro~ {v.93} pu@o uscire ^di seme dolce~ {v.93},
+perch@e la ^natura parca~ {v.82} di Roberto sia discesa da natura
+^larga~ {v.82}.
+
+	|137-138.  Perch@e sappi che di te~ mi compiaccio, cfr.
+^Purg.~, IV, 54.  -- |Un corollario~ ecc.  Voglio aggiungere alla
+risposta, che t'ho data, un corollario; cfr. ^Purg.~, XXVIII,
+136.  Questa aggiunta ti mostri il mio compiacimento.  --
+|T'ammanti~: paragona il corollario a un manto, in cui Dante
+debba avvolgersi; cfr. ^Par.~, XX, 13.
+
+	|139-141.  Natura~, posta qui con |ogni altra semente~,
+non pu@o esser che la |natura~ in senso particolare; cfr. v. 100
+n.  -- |Se truova fortuna discorde a s@e~: contraria; come ci@o
+accada, si vedr@a nel c. XIII, 67 segg.  -- |Fuor di sua region~:
+<Le piante hanno amore a certo luogo pi@u manifestamente,
+secondoch@e la complessione richiede...  Le quali se si
+trasmutano, o muoiono del tutto, o vivono quasi triste come cose
+disgiunte dal loro amico>.  ^Conv.~, III, 3.
+
+	|142-144.  Natura~, che |pone~ il |fondamento~ al
+carattere e alle azioni, @e la ^radice degli effetti umani~; cfr.
+v. 128.  Se a questa verit@a il mondo ponesse attenzione,
+|seguendo~ quel |fondamento~, secondando la |natura~, avrebbe |la
+gente buona~, perch@e ognuno terrebbe l'^officio~ (v. 119), al
+quale fosse pi@u adatto.
+
+	|145-147.~  Si badi al tono solenne dell'osservazione,
+rivolta non a Dante, ma a tutto <il mondo>, all'efficacia di
+|torcete~, all'antitesi tra |re~ e |tal ch'@e da sermone~: |fate
+re~ uno, ch'@e solo buono a predicare!  Nel |re da sermone~ si pu@o
+veder designato Roberto, il quale veramente compil@o sermoni
+freddi e prolissi, e, sin dal 1310, fu, per la sua dottrina
+teologica e per l'eloquenza, lodato pubblicamente in Firenze dal
+frate Remigio Girolami.
+
+	|148.~  Chiude con un'asserzione recisa in tono secco. 
+|La traccia~: il cammino.

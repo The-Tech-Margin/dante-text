@@ -1,0 +1,32 @@
+#! /bin/sh
+
+#	dedos   input  output
+#
+#		Delete the \r and control-Z from DOS files.
+
+if
+	test $# -ne 2
+then
+	echo "Usage: $0  input  output"
+	exit 1
+fi
+if
+	test ! -r $1
+then
+	echo "$1 does not exist"
+	exit 1
+fi
+if
+	test -s $2
+then
+	echo -n "$2 already exists.  Type y to continue - "
+	if
+		read REPLY
+		test "$REPLY" != "y"
+	then
+		exit 1
+	fi
+fi
+
+echo dedosing $1
+tr -d '\015\032' < $1 > $2

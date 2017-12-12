@@ -1,0 +1,425 @@
+	|1-6.  Poi fummo~ ecc.  Dopo che fummo al di l@a della
+soglia di quella |porta~ (del Purgatorio) |che~ (compl. ogg.) |'l
+malo amor~ (sogg.) delle anime |disusa~, fa disusata, fa che si
+apra di rado perch$e |l'amore~ rivolto ai falsi beni fa agli
+uomini |parer dritta la via torta~ (^Purg.~, XVI, 91-93) ecc.  --
+|sonando.~  Cfr. ^C. pr.~, n. 139-145.  -- |e s'io avesse~ ecc. 
+Dante era stato proprio allora ammonito di non volgersi indietro
+(^C. pr.~, 131-2).
+
+	|7-12.  Noi salivam~ ecc.  Si noti l'opprimente asprezza
+del cammino.  I due Poeti salgono |per una pietra fessa~, cio@e
+per uno strettissimo calle incassato nella roccia, e le due
+pietrose pareti, poich$e il sentiero @e tortuoso, |si movono d'una
+e d'altra parte~ s'inclinano l'una in dentro, l'altra in fuori, a
+seconda della direzione in cui esso piega; s@i che, mutando spesso
+la loro reciproca posizione, sembrano due onde parallele di cui
+l'una |s'appressa~, inclinandosi in dentro, mentre l'altra
+|fugge~ inclinandosi in fuori.  @E quindi necessario usare |un
+poco d'arte~ nell'|accostarsi~ -- ora a destra, ora a sinistra --
+verso il |lato che si parte~, che "fugge" (9) inclinandosi in
+fuori e che non impedisce quindi l'andare.  L'immagine dell'|onda
+che fugge e s'appressa~ coglie plasticamente la dinamica parvenza
+di un paesaggio di pietra.  C'@e per@o chi vede nientemeno che un
+vero e proprio moto ondeggiante delle due ripe.  Ma se queste son
+di |pietra~ e il sentiero @e stretto come ^cruna~ (16), ci
+vorrebbe altro che "|un poco~ d'arte" per guardarsi!  Il supposto
+traballare delle due ripe, coi due Poeti che dovrebbero giuocare
+a rimpiattino per schivare di continuo i colpi, @e assurdo e
+grottesco.  Che la montagna si scuota tutta quando le anime
+purganti ne escono per salire al Cielo (^Purg.~, XX, 127 sg.;
+XXI, 34 sgg.; XXIII, 132 sg.) @e un'altra cosa!
+
+	|13-16.  E questo~ ecc.  |E questo~ -- cio@e l'accennata
+caratteristica del sentiero che aumentava la difficolt@a del
+salire (7-12) -- rese |scarsi~ -- brevi (^Purg.~, XX, 16) e,
+quindi, anche lenti -- |i nostri passi~; tanto che |lo scemo de
+la luna~ -- la luna che era scemata, non pi@u piena come nel
+plenilunio (^Inf.~, XX, 127) -- era giunto di nuovo |al letto
+suo~ per coricarsi nuovamente, era gi@a tramontato, prima che noi
+uscissimo fuori di quel sentiero cos@i stretto da sembrare quasi
+la |cruna~ di un ago.  Qui, come altre volte, il moto della luna
+-- non visibile col sole gi@a alto -- serve solo a indicare l'ora. 
+Secondo i calcoli astronomici, il sole adesso @e salito nel cielo
+da 4 ore o pi@u.  ^Gi@a pi$u che due ore er'alto~ quando Dante si
+era destato (^C. pr.~, 44).
+
+	|17-21.  ma quando~ ecc.  All'oppressione provata nella
+strettoia del sentiero, succede un respiro liberatore e due
+parole si espandono gioiose: |liberi e aperti.~  Anche il monte,
+che si raccoglie, |si rauna in dietro~ con la sua massiccia
+parete di roccia, per lasciare un'aperta spianata circolare
+tutt'intorno, rimove l'opprimente peso.  -- |,io stancato~ ecc. 
+Il ritmo, le pause e quell'|,io~ iniziale che si distende
+bisillabo, commentano la stanchezza di Dante -- gravato dal corpo
+-- e l'incertezza di ambedue: riguardo al cammino.  Si ricordi
+che anche Virgilio nel Purgatorio appare talvolta come sperduto e
+ha bisogno di guida (102; ^Purg.~, II, 61-3; III, 61-3; ecc.). 
+L'incertezza @e qui accresciuta e drammatizzata da quel senso di
+solitudine (|solingo~... |diserti~), che @e una nota non rara nel
+paesaggio del Purgatorio, quale si @e presentato fin qui.  Si
+ricordi il <^solingo piano~> e il <^lito diserto~> (^Purg.~, I,
+118 e 130).
+
+	|22-27.  Da la sua sponda~ ecc.  |Questa cornice~ -- cos@i
+@e detto il ^piano~ (20) circolare, in quanto incornicia il monte
+--, considerata in tutta la sua larghezza -- e cio@e dall'orlo
+esterno (|sponda~) che confina col vuoto (|vano~) fino all'orlo
+interno da cui si leva |l'alta ripa~ che continua a salire (|pur
+sale~) -- era tale che |un corpo umano~ la misurerebbe
+(|misurrebbe~) |in tre volte~; insomma tale cornice era larga tre
+volte circa la lunghezza di un uomo e, secondo quanto l'occhio
+mio poteva "volare" lontano (|trar d'ale~), mi appariva sempre
+della stessa larghezza (|cotale~) sia alla nostra destra, sia
+alla nostra sinistra.  I Poeti, salendo, si trovano con la faccia
+rivolta verso |l'alta ripa~, che @e la costa del monte.
+
+	|29-33.  quand'io conobbi~ ecc.: quando io mi accorsi che
+|quella ripa intorno~ ecc. era |di marmo candido e adorno
+d'intagli~ -- sculture: in bassorilievo -- cos@i perfetti che non
+solo Policleto -- famoso scultore greco del V sec. a. C.,
+contemporaneo ed emulo di Fidia -- |ma la natura~ stessa |l$i~
+sarebbe rimasta scornata; perch$e non avrebbe potuto creare cose
+cos@i vive.  Tali sculture sono infatti opera di Dio (94-6).  I
+bassorilievi si trovano |intorno~ alla |ripa~ (cfr. v. 23), ma
+sulla parte pi@u bassa che, formando una specie di contrafforte a
+lieve inclinazione, aveva propriamente (|dritto~: ^Inf.~, IV,
+118) |manco~, mancanza |di salita~ (altri intendono: <aveva meno
+drittezza di salita>).  In tal modo, i peccatori di questa
+cornice, i superbi, a cui i massi piegano il capo in basso,
+permettendo solo di torcerlo un poco lateralmente, possono vedere
+tali bassorilievi, e ci@o @e necessario poich$e la purgazione si
+compie anche con la meditazione sul peccato punito, i cui esempi
+sono incisi sul pavimento (^Purg.~, XII, 13 sgg.), e sulla virt@u
+opposta, i cui esempi sono in questi "|intagli~" laterali.
+
+	|34-45.  L'angel~ ecc.  L'Arcangelo Gabriele che,
+annunziando la nascita di Cristo, annunzi@o anche la decisione
+(|decreto~) di Dio di riconciliarsi con l'uomo -- di far quella
+|pace lacrimata~: rimpianta e invocata dall'uomo con lacrime --
+mediante il sacrificio della Croce che avrebbe lavato la macchia
+del peccato originale, aprendo agli uomini il Cielo chiuso a loro
+per |lungo divieto~: dal peccato d'Adamo in poi.  -- |pareva s$i~
+ecc.: appariva qui scolpito in modo |s$i verace~ ecc.  -- |Ave.~ 
+La prima parola della salutazione angelica alla Vergine: <|Ave~,
+^gratia plena~...> (Luca, I, 28).  -- |imaginata quella~ ecc.:
+ritratta l'immagine della Vergine (|quella~) che apr@i (|volse~,
+gir@o, |la chiave ad aprir~) agli uomini l'amore di Dio (|l'alto
+amor~) "chiuso" ad essi dopo il peccato originale.  Essa, proprio
+con la stessa nitidezza di una figura impressa dal suggello sulla
+cera, portava |impressa in atto~, nell'atteggiamento, |esta
+favella~: le parole cio@e da Lei umilmente -- @e questo il primo
+esempio di umilt@a -- risposte all'Angelo: |Ecce ancilla Dei~
+(<Ecco l'ancella di Dio>).
+
+	|46-48.  Non tener~ ecc.  "Non rivolgere l'attenzione
+solo (|pur~) a una di queste rappresentazioni", disse Virgilio,
+che mi aveva alla sua sinistra (|da quella parte~ ecc.).
+
+	|49-54.  per ch'i'~ ecc.  Per la qual cosa io mi mossi
+con lo sguardo (|viso~) e, alla mia destra -- da quella parte
+(|costa~) dalla quale avevo Virgilio |che mi movea~, come guida
+--, vedevo, dopo Maria (|di retro da Maria~), |un'altra storia~:
+scolpita anch'essa sul marmo e |imposta~, posta, |ne la roccia.~ 
+I bassorilievi di marmo costituiscono una fascia incastonata
+tutt'intorno nella base della "ripa" (23 e 29).  -- |varcai
+Virgilio~: passai al di l@a di Virgilio; alla sua destra.  --
+|disposta~: esposta in modo ben visibile.
+
+	|55-57.  Era intagliato~ ecc.  Era scolpito l@i ecc. 
+Questo secondo esempio di umilt@a mostra il re David che, facendo
+trasportare |l'arca santa~ dalla casa di Abinadab a Gerusalemme,
+non si vergogna di abbandonarsi, in onore di Dio, a una sfrenata
+danza (65).  Cfr. ^Lib. II dei Re~, VI, 1 sgg.  -- |traendo~:
+traenti, in atto di trarre.  -- |per che~ ecc.: per cagione della
+quale "arca" |si teme~ un |officio non commesso~, non affidato a
+noi: da Dio.  Qui si allude a Oza -- uno dei figli di Abinadab --
+il quale, essendo accorso per sostenere l'arca traballante sul
+carro, fu fulminato da Dio per la sua temerariet@a, perch$e solo ai
+sacerdoti era lecito toccare l'arca.  Di Oza Dante fa cenno anche
+nell'^Epist. "ai Cardinali"~, 12.
+
+	|58-63.  parea~: appariva.  -- |partita~: divisa.  -- |a'
+due mie' sensi~ ecc.  L'orecchio non udiva le voci e negava
+(|No~) che quella "gente" cantasse, ma l'occhio ne aveva
+l'illusione perfetta e diceva: |"S$i, canta".~  Lo stesso effetto
+faceva il fumo degl'incensi bruciati dinanzi all'arca e che l@i
+era rappresentato (|imaginato~: 41 n.); onde |li occhi e 'l naso~
+si fecero (|fensi~ = si fenno) |discordi~ fra loro, poich$e i
+primi affermavano la cosa come reale (|s$i~) l'altro la negava
+(|no~).  Questa lotta di sensazioni ricorda un po' l'incerto
+giungere delle voci, ^l'or s$i, or no~ di ^Purg.~, IX, 145; ma in
+confronto l'effetto appare pi@u ragionato che sentito.
+
+	|64-66.  benedetto vaso~: l'arca santa, in quanto
+conteneva (|vaso~: ricettacolo) le "tavole della legge" e, in
+esse, lo spirito di Dio.  -- |trescando alzato~: abbandonandosi,
+con le vesti rialzate, a una danza sfrenata (cfr. ^tresca~:
+^Inf.~, XIV, 40 n.).  -- |salmista~: David autore dei Salmi
+^Par.~, XX, 37 sgg.).  -- |e pi$u e men~ ecc.: Era |men che re~
+agli occhi di chi, come Micol, (67-9), guardava solo dal di fuori
+e vedeva nel suo atteggiamento qualche cosa che lo rendeva
+abietto; era |pi$u che re~ agli occhi di Dio e di chi comprendeva
+come egli si umiliasse in suo nome.  Non era l'abito pontificale
+che lo rendeva "pi@u che re".  Si ricordi che <chi si umilia sar@a
+esaltato>.
+
+	|67-69.  Mic@ol~ ecc.  Micol figlia di Saul, dalla
+finestra (|vista~: ^Inf.~, X, 52 n.) |d'un gran palazzo~, la
+reggia, guardava meravigliata (|ammirava~) in atteggiamento
+sprezzante (|dispettosa~: ^Inf.~, X, 36 n.) e crucciato
+(|trista~: pu@o significare anche "addolorata", ma qui prende la
+sfumatura cattiva che spesso @e nella parola).  Micol cos@i
+rimprover@o David: <Che bell'onore s'@e fatto oggi il re d'Israele
+scoprendosi (cfr. ^alzato~: 65) davanti agli occhi delle serventi
+de' suoi servitori e mostrando le sue nudit@a come farebbe un
+buffone!>  (^Lib. II dei Re~, VI, 20).
+
+	|71-72.  un'altra storia~ ecc.  La |storia~ -- terzo
+esempio d'umilt@a --, che Dante voleva osservare attentamente
+(|avvisar~: ^Inf.~, XXIV, 28), @e una leggenda assai diffusa nel
+Medioevo: quella di Traiano imperatore (98-117 d. C.) che, stando
+per andare ad una guerra, umilmente si lasci@o piegare dalle
+lacrime di una ^"vedovella"~ {v.77} e si ferm@o per ascoltarla e
+renderle giustizia, punendo colui che le aveva ucciso il
+^figliuolo~ {v.84}.  Dante si attenne alla tradizione ma
+stringendo in una viva sintesi la scena.  Per la leggenda -- che
+si trova nel ^Novellino~ e in altri testi antichi -- cfr. ^A.
+Graf~, ^Roma~ ecc.; ^G. Paris~, ^La l$egende de Traian~; ^Barbi~,
+^Per Nozze Flamini-Fanelli.~  -- |mi biancheggiava~:
+biancheggiava ai miei occhi.  Viva @e l'impressione di quel
+<candido marmo> (31).
+
+	|73-75.  stor,iata~ ecc.: istoriato il fatto gloriosissimo
+del principe -- |principato~ come "magistrato", <esprime la
+persona e la dignit@a> (^Vandelli~) -- romano, cio@e Traiano, la
+cui virt@u (|valore~) mosse il pontefice |Gregorio~ I a pregare
+per lui, ottenendo che l'anima di lui pagano, discesa nel Limbo,
+tornasse per poco nel corpo onde convertirsi e salire al Cielo. 
+Di qui la |gran vittoria~ sull'Inferno.  Cfr. ^Par.~, XX, 44 sgg.
+e 106 sgg.
+
+	|79-93.  Intorno~ ecc.  Lo spazio intorno a lui appariva
+(|parea~) affollato da una calca ecc.  -- |l'aguglie~ ecc.: le
+aquile romane effigiate in campo d'oro.  Dante si riferisce a
+bandiere -- "si movono al vento" -- come ai suoi tempi, mentre le
+insegne dei Romani, d'oro o d'altro metallo, erano fissate su
+aste.  -- |fammi vendetta~: rendimi giustizia (^Inf.~, XIV, 16
+n.).  -- |s'affretta~: incalza.  -- |Chi fia dov'io~ ecc.  Chi
+sar@a al mio posto, cio@e il mio successore, |la ti far@a~: ti
+render@a giustizia (|la~ @e riferito a |vendetta~ del v. 83).  --
+|L'altrui bene~ ecc.  Il bene fatto da altri che sar@a (|fia~) per
+te, a che ti giover@a, se tu trascuri, dimentichi quello che
+dovresti fare tu personalmente? -- |solva~ ecc.: sciolga (lat.
+^solvere~) l'obbligo che il |mio dovere~ m'impone e ci@o prima che
+io parta (|mova~); |giustizia~ lo |vuole e piet@a mi ritene~, mi
+trattiene qui.
+
+	|94-96.  Colui~ ecc.  Dio, |che mai non vide cosa nova~,
+cosa impensabile -- perch$e a lui tutto @e noto e possibile --,
+|produsse~ questo |parlare~, che s'intuisce vedendo le
+espressioni e gli atteggiamenti delle figure; questo |visibile
+parlare~ che @e |novello~ -- inusitato e impensabile -- per noi,
+|perch$e qui~, nel mondo umano, non se ne ha il pi@u lontano
+esempio.
+
+	|31-96.~  ^I bassorilievi e il~ "|visibile parlare~". 
+Nei bassorilievi, che ora abbiamo visti, non mancano tratti assai
+belli, ma l'intenzione di renderli vivi e parlanti oltre le
+possibilit@a espressive della scultura si risolve talora in
+situazioni che tradiscono lo sforzo: specialmente nel voler far
+intuire, dall'atteggiamento delle figure, non gi@a solo qualche
+parola facilmente immaginabile -- come quell'|Ave~ (40) o
+quell'|Ecce ancilla Dei~ (44) --, ma addirittura un intero
+dialogo, come avviene nella scena di Traiano e della vedovella. 
+Questa scena @e in s$e felicemente c@olta e disegnata, ma non riesce
+a concilare i due piani diversi secondo cui @e concepita; cio@e
+scultura e racconto, visione e azione drammatica.  Dante avrebbe
+potuto crearla facendo astrazione, con la fantasia, dal
+presupposto che essa @e scolpita nel marmo; ma ci richiama a
+questo particolare proprio all'inizio -- <un'altra storia, che di
+dietro a Mic@ol |mi biancheggiava~> -- e alla fine insiste sul
+prodigio del |visibile parlare.~  Il Poeta vuole che si pensi
+sempre e proprio alla scultura, impedendo cos@i che non si noti,
+per esempio il contrasto tra quell'|oro~, che fa da sfondo alle
+aquile (80), e il |biancheggiare~ del marmo che esclude ogni
+altro colore; impedendo inoltre che tutto il movimento della
+scena e il suo non breve dialogo possano vivere in un'atmosfera
+indipendente dalla marmorea figurazione, che @e invincibilmente
+legata all'immobilit@a e al silenzio.  N$e basta richiamarsi al
+miracolo -- che cio@e quella scultura col suo |visibile parlare~ @e
+opera di Dio (94-6) -- poich$e nessun divino miracolo pu@o
+giustificare poeticamente una simile animazione del marmo; del
+quale, per giunta, qui Dante vuole che non ci dimentichiamo. 
+Nelle "figurazioni terragne" della superbia punita (^Purg.~, XII,
+25-63 n.) troveremo maggior coerenza, perch$e l@i il Poeta mostrer@a
+solo ci@o che "si vedeva", senza pretendere di trarre dalle
+sculture alcun forzato effetto.  Nei seguenti gironi, messa da
+parte la scultura e salendo verso forme che, libere da ogni
+elemento corporeo, sono pi@u aderenti allo spirito del Purgatorio,
+Dante far@a s@i che gli esempi dei vizi puniti e delle virt@u
+premiate siano gridati dai peccatoti stessi o da ignote voci
+trasvolanti l'aria, o che appaiano mediante la tutta interiore
+illuminazione della ^visione estatica~, come avviene nel girone
+degl'iracondi (^Purg.~, XV, 85 sgg.; XVII, 19 sgg.).
+
+	|98-102.  di tante umilitadi~: di s@i grandi (lat.
+^tantus~) atti d'umilt@a.  -- |e per lo fabbro~ ecc.: immagini
+|care~ a vedersi, anche perch$e il loro artefice (|fabbro~: nel
+largo senso lat.) @e Dio.  -- |radi~: lenti.  Cfr. ^Inf.~, VIII,
+117.  -- |genti~: i superbi puniti nel 1+o~ girone.  -- |ne
+'nvieranno~ ecc.: ci guideranno -- indicandoci la via per salire
+-- ai gironi superiori, detti |gradi~, perch$e sono come gradini
+per cui si sale verso l'alto (cfr. ^Inf.~, V, 12 n.).
+
+	|106-111.  Non vo' per@o~ ecc.  Non voglio per@o, lettore,
+che tu |ti smaghi~, -- perdendo coraggio ti allontani: ^Purg.~,
+III, 11 n.  -- dal virtuoso |proponimento~ della penitenza, |per~
+il fatto di |udire~ con quanta sofferenza (|come~) |Dio vuole~
+che sia pagato dal peccatore il suo |debito~ verso di lui.  Non
+badare alla |forma del martire~ -- alla qualit@a, alla durezza
+della pena --, ma |pensa la succession~ -- ci@o che succeder@a,
+seguir@a alla pena e cio@e l'eterna beatitudine --; |pensa ch'al
+peggio~, nel peggiore dei casi, tale pena |non pu@o ire~ -- non
+pu@o andare, durare -- |oltre la gran sentenza~, che @e il Giudizio
+Universale (^Inf.~, VI, 104).
+
+	|112-114.  quel ch'io~ ecc.: quel ch'io vedo muovere
+verso di noi non mi sembra un insieme di persone, come hai detto
+(101), |e non so che~ sembri, che sia; |s$i vaneggio nel veder~:
+tanto mi aggiro nel vano, guardando; tanto mi riesce vano il
+guardare: perch$e non riesco ad avere una chiara percezione.
+
+	|115-120.  La grave condizione~...  Qui, entrando nel
+vivo della poesia, la rappresentazione diviene vigorosa e
+drammatica.  Il |tormento~ dei superbi @e c@olto nel suo pi@u
+plastico aspetto.  Si notino quei massi (|sassi~) che, gravando
+sulla cervice dei peccatori, fanno penosamente piegare e
+contrarre i corpi come in una nicchia -- |a terra li rannicchia~:
+immagine che sar@a potentemente sviluppata nei suoi riflessi di
+pena ai vv. 130-9 --; e si noti l'invito di Virgilio a Dante --
+|disviticchia~ ecc. -- che indirettamente presenta ancora
+l'atteggiamento "rannicchiato" di quelle anime e fa sentire lo
+sforzo che deve fare l'occhio (|viso~) per svellere, di sotto il
+masso che le opprime e le nasconde, quelle figure contratte,
+quasi "avviticchiate" in un confuso viluppo.  Infatti gli |occhi~
+hanno dovuto sostenere una vera e propria lotta (|tencione~:
+tenzone; cfr. ^Inf.~, XVIII, 108 n.) prima di poter ravvisare con
+sicurezza.  -- |si picchia.~  Alcuni intendono: <@e battuto
+castigato> (cfr. ^Parodi~, ^Bull.~, XXIII 42-3).  Ma si pu@o e
+meglio, intendere che ciascuno si batteva il petto con le braccia
+(cfr. ^Barbi~, ^Probl.~, ^I~, 224-5).
+
+	|121-129.  O superbi cristian~...  Qui il tono del Canto
+improvvisamente si solleva; la passione, a lungo contenuta,
+esplode in un'apostrofe che, suscitata dalla drammatica visione
+della pena dei superbi, @e tutta vibrante di quel dramma e traduce
+la sua mossa polemica in una pensosa contemplazione.  Qui, dalla
+terra dove i |superbi cristian miseri lassi~, ciechi di mente,
+hanno fede nei |retrosi passi~, dalla terra dove gli uomini non
+sono altro che |vermi~, si balza di colpo alla visione
+dell'|angelica farfalla~, dell'anima, cio@e, che, liberatasi dal
+corpo, |vola~ incontro |a la giustizia~ di Dio senza pi@u i vani
+|schermi~ della mondana potenza.  Qui lo slancio passionale fa
+germinare vigorosa l'immagine delle cose con la stessa
+naturalezza con cui dai bruchi della terra si libera la farfalla;
+e passiamo dal fango al cielo, dal corpo allo spirito con la
+leggerezza di un volo.  Ma all'immagine della "farfalla" che
+ascende, si contrappone ora -- ahim@e quanto misera e vana! --
+un'altra ascesa: quella dell'|animo~ umano che cecamente monta in
+superbia e che il Poeta vede come "galleggiare", portato su dalla
+sua fatuit@a: |in alto galla~ (^Inf.~, XXI, 57).  Ad umiliare tale
+superbia torna qui l'immagine del "verme", ma non pi@u congiunta a
+quella della "farfalla"; del verme che resta solo a strisciare
+sulla terra: |poi siete quasi entomata in difetto, s$i come vermo
+in cui formazion falla.~  In tutto il passo, il tono della voce
+si fa vigoroso in un'austera pacatezza, che distacca nitidissime
+le parole come per farci posare su ognuna in grave meditazione.
+
+	|121-123.  miseri lassi~: infelici in tanta miseria
+(^Inf.~, XXXII, 21).  Ma |lassi~ -- propriamente: "stanchi"
+(^Inf.~, IX, 84; ^C. sg.~, 29) -- sembra qui suggerito dalla
+visione dei superbi fiaccati sotto i massi, oltre che dalle
+mondane gare e passioni che non d@anno pace ai vivi.  -- |che, de
+la vista~ ecc.: che, |infermi~ in quanto alla |vista de la
+mente~, cio@e ciechi di mente, avete fede in quei |passi~ che,
+rivolti ai falsi beni del mondo, d@anno l'illusione del
+progredire, mentre invece sono |retrosi~: cio@e vanno e ci portano
+indietro.
+
+	|125-126.  l'angelica farfalla.~  @E l'anima, essenza
+spirituale per cui l'uomo partecipa della qualit@a delle nature
+angeliche, che sono puri spiriti.  Ma |angelica~ richiama anche
+quella celeste purezza che l'anima umana sarebbe destinata ad
+avere se l'uomo non si volgesse al fallace miraggio dei beni
+terreni.  -- |schermi~: difese.  Sono gradi, onori, ricchezze,
+per cui l'uomo si sente cos@i forte e difeso sulla terra.
+
+	|127-129.  Di che~ ecc.  A cagione di che cosa, basandovi
+su che cosa, l'animo vostro ecc.  -- |poi siete~ ecc.: poi che,
+dal momento che siete simili a insetti difettivi, proprio come
+|vermo in cui formazion falla~: in cui manca (^Inf.~, XIII, 122)
+il compiuto ciclo di sviluppo, perch$e ancora non si @e trasformato
+in farfalla.  Insomma gi@u nel mondo siete solo vermi, siete solo
+esseri vili e imperfetti: di fronte alla perfezione che @e solo
+nell'anima e che potr@a essere pienamente raggiunta solo quando
+questa sar@a liberata dal corpo.  -- |entomata~: insetti; dal
+greco ^$entomon~, il cui plurale @e ^$entoma.~ che Dante --
+probabilmente scambiandolo per un singolare -- ha fatto plurale:
+come in latino, da ^poema~, ^poemata~; e simili.
+
+	|130-135.  Come per sostentar~...  Ora che il Poeta,
+secondo il consiglio di Virgilio (118), guarda con attenzione
+(|puosi ben cura~: v. 135), ecco l'immagine profilata di scorcio
+ai vv. 115-120 svilupparsi nella incisiva rappresentazione delle
+cariatidi, che d@a corpo a quel dolore e a quelle ombre.  |Come
+tal volta una figura~, una cariatide -- che serve |per mensola~,
+cio@e come appoggio, |per sostentar~, sostenere, |solaio~,
+soffitto, |o tetto~ -- |si vede giugner~, congiungere, |le
+ginocchia~ avvicinandole |al petto~ -- che si piega sotto il peso
+sostenuto dalla cervice --; |la quale~ figura, dal suo tormento
+|non vero, fa nascere, in chi la vede~, un'impressione di |vera~
+angoscia (|rancura~: ^Inf.~, XXVII, 129); |cos$i fatti~ -- cio@e
+nello stesso penoso atteggiamento delle cariatidi -- il Poeta
+vide l@i i peccatori.  Niente, meglio delle cariatidi, poteva
+rendere l'immagine esteriore e interiore della pena dei superbi,
+oppressi dal grave pondo; e Dante vive quel tormento nei minimi
+riflessi, facendone sentire tutta la rodente acutezza.  La
+similitudine, secondo noi, non richiama affatto la nota storia
+delle donne di Caria -- condotte schiave dai Greci -- onde trarne
+un significato allegorico da riferire ai superbi -- <la schiavit@u
+dovuta a chi insuperb@i e si lev@o sopra i fratelli> -- perch$e
+questi sarebbero dei presupposti intellettualistici e culturali
+completamente estranei a una simile rappresentazione tutta
+sgorgata dalla realt@a: dall'osservazione delle cariatidi, come
+elementi architettonici largamente usati nel Medioevo.  -- |una
+figura.~  Riguardo alle "cariatidi" come elementi architettonici,
+il cui nome deriv@o appunto dalle "donne di Caria", si racconta
+che statue di donne sarebbero state sostituite alle colonne, per
+ricordare in perpetuo l'onta degli abitanti di Caria, nel
+Peloponneso, alleatisi coi Persiani contro gli altri Greci.
+
+	|136-139.  Vero @e~...  I superbi erano |pi$u~ o |meno~
+rannicchiati, anzi |contratti~, a seconda del masso pi@u o meno
+pesante che li gravava sulla cevice (|secondo ch'av$ien pi$u e meno
+a dosso~) e che era proporzionato alla maggiore o minore gravit@a
+del peccato di superbia commesso.  Il tormento era cos@i acuto che
+|qual pi$u paz,ienza avea ne li atti~ -- cio@e colui che,
+nell'atteggiamento e nell'espressione, mostrava di sopportare pi@u
+degli altri -- |piangendo parea dicer "Pi$u non posso".~  Qui
+|pazienza~ vuol dire "sopportazione", secondo il senso prevalente
+del latino ^pati~; ed @e errato, secondo noi, intendere |pazienza~
+per "patimento": soprattutto per ragioni di coerenza; poich$e
+Dante, che ha rappresentato in un continuo crescendo
+l'ossessionante incubo di tale pena, non ha bisogno di
+aggiungere, cosa davvero ovvia, che chi "mostrava di soffrire pi@u
+che gli altri" non resisteva pi@u, ma che anche i pi@u forti
+apparivano disfatti.  Questo particolare, cos@i inteso, completa
+il quadro e ci porta fino al parossismo di un tormento che pesa
+tanto anche sul ritmo accasciato degli ultimi due versi e
+specialmente dell'ultimo, spezzato da pause continue e terminante
+con tre parole che fanno sentire quasi l'ultimo sospiro di un
+mortale sfinimento: |"Pi$u non posso".~  Ecco un ^visibile
+parlare~ (95 n.) in cui le parole sottintese (|parea dicer~) non
+sono sovrapposte all'atteggiamento, ma sgorgano immediate da esso
+come una sua naturale proiezione.

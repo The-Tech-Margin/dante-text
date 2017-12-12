@@ -1,0 +1,25 @@
+Return-Path: bobh@baker.dartmouth.edu
+Received: from baker.dartmouth.edu (baker.dartmouth.edu [129.170.16.11]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id SAA13247 for <steve@avalon.dartmouth.edu>; Thu, 14 Mar 1996 18:25:26 -0500
+Received: (from bobh@localhost) by baker.dartmouth.edu (8.7.4/8.7.3) id SAA23427; Thu, 14 Mar 1996 18:25:21 -0500
+Date: Thu, 14 Mar 1996 18:25:21 -0500
+From: Robert Hollander - DDP PI <bobh@baker.dartmouth.edu>
+Message-Id: <199603142325.SAA23427@baker.dartmouth.edu>
+To: bobh@phoenix.princeton.edu, steve@baker.dartmouth.edu
+Subject: DDP errors
+
+
+Noticed in Daniello tonight a very curious run of bad text.  You
+_may_ find ref. to this in earlier communication from me (as I
+vaguely rememeber).  Here is what happens:
+
+doc. #	canto & lines
+
+2184	19.97-99	OK
+2185	19.100-105	corruption begins part way through
+2186	19.9	[thus numbered]  corruption continues
+2187	19.64	[  "	"]	 corruption ends
+2188	19.121-126	numbering funny: lines missing
+2189	19.13		  "	    "
+2190	20.nota			seems OK again.
+
+Looks like a VERY bad glitch.  Best, Bob

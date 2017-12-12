@@ -1,0 +1,510 @@
+	|Proemio.~  Nel presente capitolo tocca l'Auttore sei
+cose.  La prima poetando discrive sua disposizione circa alcuni
+dubbj; la seconda palesa al detto messere Cacciaguida sue
+dubitazioni; la terza tocca come la prescienzia di Dio non induce
+necessit@a nelle cose sottoposte allo libero arbitrio; la quarta
+fa risponder la detta anima ^ad interrogata~; la quinta manifesta
+alcune improbitate degli cortigiani, et alcune probitate di
+messer Bartolomeo e di messer Cane della Scala di Verona; la
+sesta domanda l'Auttore consiglio all'anima circa lo palesar di
+tutta sua ^Commedia~; e cos@i compie suo capitolo.  La prima nella
+esposizione del testo apparir@a.  Alla seconda cosa si @e da sapere
+che, s@i come @e detto nell'^Inf.~ X, 79-81, parlando l'Auttore con
+messer Farinata degli Uberti parole che promossono lo detto
+messer Farinata ad ira, elli disse all'Autore: ^Ma non cinquanta
+volte~ etc., s@i com'@e detto, ivi gli predisse alcuno arduo che
+infra quello tempo gli dovea avvenire.  Ancora nel ^Purg.~ XI,
+140-141, parlando con Odorisi, circa la fine gli disse: ^Ma poco
+tempo andr@a~ etc., s@i come ivi @e dichiarato.  Per le quali parole
+l'Auttore dubitava che arduo era quello che in cos@i brieve tempo
+doveva sostenere: e per@o fece domanda a messer Cacciaguida
+ch'egli gliel dovesse palesare, con ci@o sia cosa che egli lo
+sapea, ch'egli lo vedea in Dio, l@a dove ogni cosa era palese. 
+Alla terza cosa s@i @e da sapere che messer Cacciaguida prepose
+alcune parole innanzi che venisse alla risposta in singularit@a,
+le quali toccarono, come in Dio si vedea tutto sanza alcuna
+differenzia di tempo; e che cos@i chiaro si vede le future
+contingenzie come le presenti, come eziandio le passate: la quale
+cosa non induce alcuna necessitade, n@e alle presenti n@e alle
+future.  Et ad intendere bene lo punto di queste parole, s@i @e da
+sapere che le cose che avvegnono al mondo si stanno in suo
+avvenimento in due modi: o elle vegnon ^necessario~ o elle vegnon
+^contingenter~: le necessarie non sono suddite allo libero
+arbitrio, s@i come lo levar del sole in oriente la mattina; lo
+movimento del cielo sopra gli suoi poli; la scurazione del sole
+per lo interponimento della luna et similia: e le contingenti
+sono sottoposte allo libero arbitrio, perch@e, se fossono
+necessarie, non sarebbe libertade d'arbitrio.  Or par contradire,
+secondo nostra cognizione, la prescienzia di Dio allo libero
+arbitrio in questo modo, imper@o che, se la prescienzia di Dio @e
+ch'io debbia esser virtudioso, e' conviene essere delle due cose
+l'una, o ch'io sar@o virtudioso o no; e s'io non sar@o virtudioso,
+la prescienzia di Dio falla, e non sar@a vera: dunque @e bisogno e
+necessario, acci@o ch'ella sia vera, s@i come in quello in cui @e
+tutte perfezioni, ch'io sia di necessitade virtudioso: se
+necessit@a mi face ci@o, adunque che mi vale libero arbitrio? 
+certo nulla: del che si seguirebbe grandi inconvenienze, se
+libero arbitrio non fosse; in prima dalla parte della justizia di
+Dio, la quale punirebbe e remunererebbe non justamente; imper@o
+che, se di necessitade io sono virtudioso, e non per mio libero
+arbitrio, io non merito; e s'io non merito, lo remunerare non @e
+justo; e similmente, s'io sono vizioso di necessitade, e non per
+mio libero arbitrio, la pena non @e giusta: e cos@i si seguirebbe,
+non esser giustamente ordinato n@e lo 'nferno per punire gli
+peccati, n@e 'l purgatorio per lavargli, n@e 'l paradiso per
+premiar gli meriti: la qual cosa @e assurda.  Eziand$io contra la
+fede cattolica, da parte dell'uomo si seguirebbe inconvenienza:
+s'egli non fosse libero arbitrio, e' non sarebbe animale
+razionale; ch@e da che egli non potesse raziocinando eligere, e
+tutto gli avvenisse di necessitade, ello sarebbe privo di tale
+razionabilitade.  Ancora le poliz$ie e gli ordini delle terre
+sarebbono fatte indarno et invano, perch@e se l'uomo per libert@a
+non si potesse drizzare a vertude, e rimuoversi da' vizj, e tutto
+fosse di necessitade, la fine a che le dette sono dirette
+sarebbono van$ia.  Ancora ogni intento d'artista sarebbe indarno,
+imper@o che, se fosse necessit@a che una casa dovesse aver due
+solari, e l'uomo la 'maginasse di tre, non la potrebbe fare
+l'arte ch'ella fosse di tre: e moltissime altre inconvenienzie si
+seguirebbe, che sarebbono lunghe a dire, da parte dell'uomo. 
+Ancora ogni orazione che l'uomo facesse sarebbe indarno, se di
+necessitade l'uomo si potesse perdere o salvare.  Ancora negare
+lo libero arbitrio, non @e altro che negare la misericordia di
+Dio; imper@o che, se tutto fosse necessario, e' non potrebbe esser
+misericordio: le quali cose sono assurde e d@evie dalla veritade. 
+Or, veduto come Dio @e perfetto in tutto, @e per s@e ^notus~ sanza
+dimostrazion altra al presente; e veduto come libero arbitrio @e
+di certo; et @enne tanto detto che dovrebbe essere ad ogni
+intelligente per s@e ^notus~; appare la difficultade circa la
+nostra cognizione, come pu@o esser la prescenzia di Dio vera, dato
+che in noi sia libero arbitrio?  Ov'@e da sapere che quanta
+difficultate appare in questa cosa procede solo dalla nostra
+cognizione bassa, la quale non pu@o ben comprendere lo modo della
+scienzia ch'@e in Dio, lo quale @e tanto excelso et altissimo che
+da nulla creatura pu@o esser compreso, ma solo da s@e medesimo; ma
+tutta volta lo sano intelletto per alcuni esempj pu@o immaginare
+esser di tale distanzia; e prenderne fede argomentando per gli
+detti esempj, puossi fare in questo modo.  Noi veggiamo
+diversitade nella virtude conoscitiva degli animali, ch'uno
+conosce pi@u perfettamente che un altro: l'agnello fugge lo lupo,
+e conoscelo da natura; l'uomo conosce lo lupo pi@u perfettamente;
+ch@e sa ch'egli @e animale sensitivo, e sa ch'egli @e furo, e sa
+ch'@e animale di mala razza, e similmente ha l'uomo da natura tale
+cognizione.  Ora, avvegna che queste conoscibilitadi dell'uomo,
+del lupo e dell'agnello sieno diverse; pure lo lupo non muta
+essere, n@e non @e pi@u cognito n@e meno.  Cos@i a simili le cose
+contingenti sono considerate dalla cognizione dell'uomo pi@u
+imperfettamente che da quella di Dio: or, perch@e Iddio le conosca
+pi@u perfettamente che l'uomo, le cose contingenti non mutan per
+ci@o ^esse~, n@e son per s@e pi@u cognite o meno.  Or Dio, s@i come
+perfettissimo e che sopra lo tempo vede e discerne, e' sa s@i le
+future cose come le presenti, come eziand$io le passate, s@i che
+sua prescenzia e cognizione non aggiugne n@e non minuisce alle
+cose contingenti fatte per libero arbitrio umano, vel per difetto
+di naturale corso; ch@e anche l'avvenimento de' mostri @e
+contingente, ma @e la sua scienzia tanto alta e perfetta che vede
+pi@u che lo intelletto umano e d'ogni altra creatura.  Or
+l'Auttore pone nel testo un altro esemplo e bello.  Egli pone
+andare per uno fiume uno navilio, lo qual vada per l'arbitrio del
+suo nocchiero da levante a ponente; e pone stare in sulla riva
+uno che vegga questo navilio: or negli occhi e nelle pupille del
+detto che @e in sulla riva, s@i appare la spera del detto navilio,
+e s@i vede e discerne per la perfezione dell'organo visivo, ci@o @e
+dell'occhio, la via che fa lo detto navilio in quello presente
+tempo.  Or ^tacite~ dice l'Auttore, cos@i come l'occhio di quello
+che sta in sulla riva non impone necessit@a per lo suo vedere al
+viaggio del navilio, ch'@e secondo lo libero arbitrio del
+nocchiero; cos@i la prescienzia di Dio non induce necessitade agli
+atti contingenti, gli quali sono negli arbitrj di quegli che gli
+fanno.  Veramente che questo esemplo non @e perfetto, imperci@o che
+non si pu@o perfettamente assomigliar la veduta umana con quella
+di Dio: ch@e, s@i come @e detto, Dio vede e conosce pi@u
+perfettamente e vede per tutto lo decorso del tempo, s@i 'l futuro
+come 'l presente, vel passato, che non conosce o vede l'uomo.  Ma
+basti al sano intelletto averne segno, vel indizio: cos@i ne
+possiamo ricogliere una regola, com'@e detto, ch'ello si dee,
+circa la cognizione delle cose, considerare lo consideratore, e
+secondo sua perfezione aver quella cognizione per vera: che, s@i
+com'@e detto, le cose considerate non mutano natura n@e @egli
+imposto necessitade.  E questo basti alla terza cosa toccata nel
+presente capitolo.  Alla quarta cosa s@i @e da sapere che l'Auttore
+non vuol mostrare, se non che gli predetti messer Farinata e
+Oderigi nell'^Inferno~ e nel ^Purgatorio~ vaticinando gli
+palesassono la cacciata de' Bianchi di Firenze, della qual parte
+fue l'Auttore.  E acci@o che ordinatamente si sappia come gli
+Fiorentini per gli tempi passati si sono retti, s@i @e da sapere
+che poi che la parte de' Buondelmonti fue cacciata fuori di
+Firenze, la casa degli Uberti, et alcune altre case di sua parte,
+erano s@i oltraggiosi et arroganti, che non era persona che
+innanzi a loro potesse campare: s@i che le casale mezzane
+pensarono: la signor$ia di costoro @e troppo oltraggiosa; e non ci
+ha se non uno rimedio, che noi facciamo popolo, e colla signor$ia
+e rabbia del popolo noi terremo costoro a freno.  Veduto e
+consigliato che questo era lo meglio, ordinarono di fare
+capitudine, ovvero brigate, per la terra, gli quali ciascuno si
+ragunasse sotto certo gonfalone e insegna; e ogni volta che la
+cotale campana sonasse, fossoro armati in sulla piazza colla sua
+insegna.  Ordinato questo, uno giorno fu dato mano alla campana e
+tutto lo popolo fue in piazzi: uno grid@o: <muoja gli Uberti>, e
+tutti gli altri gridaron: <muoja muoja>; onde eglino e tutte le
+casate oltraggiose furono cacciate di Firenze.  Ora rimane
+Firenze in mano delle casate mezzane della parte degli Uberti, e
+del popolo, e questo per trattato delle mezzane casate.  In
+processo di tempo lo popolo venne prendendo pi@e e signor$ia; e
+disse che volea che tutti i fuorusciti di Firenze rientrassero
+dentro, salvo quelle superbe casate, com'era Uberti, Abati,
+Scolaj etc., e cos@i fue fatto.  Tornati i Buondelmonti e sua
+parte, e prendendo pi@e e signor$ia, cominci@o loro a dispiacere la
+signor$ia del popolo.  Secretamente mandarono ambasciadori a corte
+di Papa, esponendogli come Firenze era pi@u a parte d'Imperio che
+a parte della Ecclesia, e come portava grande prejudicio alla
+Ecclesia tale essere, imper@o che Firenze era la porta mastra di
+Toscana; e se a ci@o non si provedesse, che si potea dire parte di
+Ecclesia morta in Toscana; e se in Toscana, per tutta Italia. 
+Inteso questo, lo Papa e 'l suo consiglio providero che Carlo
+senza terra venisse per signore in Toscana, e per vicario della
+Ecclesia, lo quale era terzo fratello del re di Francia; ed
+eragli detto sanza terra, imper@o che nulla reditava del
+patrimonio, con ci@o sia che soccedeano i fratelli maggiori. 
+Venne costui a Firenze con meno di CC cavalieri franceschi, e
+domand@o la terra da parte della Ecclesia, s@i come Vicario: fugli
+data incontanente: quegli mezzani che reggeano perdettero lo
+vigore: Buondelmonti, Donati e tali arrabbiati casati Guelfi
+presono lo freno in mano, et abbassarono quegli popolari
+ch'aveano luogo: altri cacciarono; altri furono spezzati; altri
+rimasono nella terra, ma convennono stare quatti como topo in
+farina: degli quali cacciati fue Dante, ch'era di quegli mezzani
+che reggeano, et amava troppo lo ben comune; e sanza dubbio tutti
+quegli che della presente etade hanno voluto non essere iniqui et
+attendere al ben comune, hanno perduta loro opera, per che gli
+popoli sono disposti come la mala coltura, nella quale ogni buona
+semente fa mala pruova etc.  Onde a questa quarta cosa risponde
+messer Cacciaguida come appar nel testo: Tu, Dante, sarai
+cacciato di Firenze per disonesta e disconcia opera, ovver
+cagione (intendi da parte degli cacciatori), e ci@o s@i si ordina
+in quello luogo dove Cristo benedetto, che si diede in mano degli
+Giudei per salvarci, si vende e fassi di lui mercato e
+baratter$ia, pur come fosse una mercatanz$ia e una esteriore cosa. 
+Alla quinta cosa si @e da sapere che 'l detto messer Cacciaguida,
+datogli ed espostogli gli dubbj, s@i gli volle alcune cose
+palesare del conseguente di sua vita; e breve gli disse com'egli
+verrebbe cortigiano, e mangerebbe lo pane altrui.  Vero @e che non
+sarebbe d'una condizione cogli altri cortigiani: quasi a dire,
+gli altri cortigiani sono tutti invidiosi, malidicoli, e
+commettitori di mali, chi per odio altrui, chi per compiacere al
+Signore; e in fine tal vizio fae vergogna, fa arrossire le tempie
+e 'l viso; ma tu sarai virtudioso cortigiano, porterai ogni buona
+novella d'altrui, e guarderatti di commettere male tra le
+persone; per le quali condizioni tu sarai solo in tua parte, e
+non seguirai la vestigia di molti altri cortigiani.  Ancora
+arriverai a Verona a casa di messer Bartolommeo della Scala, lo
+quale, per sua liberalitade, provveder@a a te innanzi che da te a
+lui proceda alcuna domanda, lo quale atto di liberalitade, s@i
+come @e secondo negli altri uomini, ci@o @e che prima @e la domanda
+poi l'effetto alla domanda, cos@i sar@a tra voi prima l'effetto
+sanza alcuna domanda.  Poi sogjunse alcune probitadi di messer
+Cane fratello del detto messer Bartolommeo, lo quale in quel
+tempo avea XVIIJ anni; e ci@o appare quando dice che le rote,
+dov'egli era entro, erano volte IX volte: e s@i come dice, ogni
+revoluzione di Marte s@i comprende in s@e due anni solari; del
+quale egli predice molta curialitade, et appresso molta gloria
+circa gli doni di Marte, gli quali sono, secondo naturale corso,
+influenti circa la fine e lo intento delle battaglie e pugne,
+arguendo dalla posizione; ch@e l'Auttore pone esser messer Cane
+impresso del pianeto di Marte, et esecutore delle sue influenzie,
+s@i come appar nel testo.  Alla sesta cosa si @e da sapere che, s@i
+come @e detto nell'VIII di questo ^Paradiso~, lo benigno creatore
+del mondo per sua largitade hae ordinato nelle creature che hanno
+virtude informativa, quelle addurre nel mondo ogni sua
+necessitade, s@i come uomini adatti a religione, uomini adatti ad
+altre necessitadi; e per@o, s'egli si conoscessero, egli farebbe
+pi@u pro' in quello a che sono adatti che ad altro, perch@e la
+influenzia celeste l'ajuterebbe.  Sono molti che, per suo libero
+arbitrio, possono deviare e disviano, ma non con poca briga; s@i
+come ne scrive Cato al figliuolo: ^Quod natura negat, nemo
+feliciter audet.~  Or quanto spetta a proposito, se l'uomo @e nato
+adatto a scienzia, egli @e tenuto quella scienzia palesare nel
+mondo, acci@o che quello fine che fu intenzione della natura
+quando lo produsse, s@i lo ottegna; e s'ello nollo palesa, dato
+ch'egli l'abbia imparata, egli dev$ia dal proposito naturale, e
+non @e sanza peccato, imper@o che 'l prossimo, che per quella
+scienzia s'alluminerevbe, rimane oscuro e ignorante.  E questo @e
+quello che dice l'Apostolo I ad Corintios VIIJ: ^Vae enim mihi,
+si non evangelizzavero: si enim volens hoc ago, mercedem habebo,
+si autem invitus, dispensatio mihi credita est~ etc.  Vero @e che
+S. Paolo non ebbe da natura tale scienzia; ma ebbela per special
+grazia di Spirito Santo.  Ma niente meno tale s'ebbe da natura,
+quale mediante gli cieli e' s'ebbe per grazia immediate: tutto ci
+@e dato dal Creatore benivolo e benigno, s@i come S. Jacopo nella
+p$istola canonica dice: ^Omne datum optimum et omne donum
+perfectum a patre descendit luminum~ etc.  Onde l'Auttore,
+vogliendo mostrare che ragione lo costrignea a palesare quella
+scienzia ch'@e piaciuto al Creatore di dargli, acci@o che alcuno
+frutto se ne potesse trarre per gli suoi prossimi, si mise a
+compilare la presente ^Commedia~, della quale si @e la intenzione
+finale, s@i come fue detto nel proemio universale, rimuovere
+l'uomo dagli vizj e reducerlo a s@emita di virtudi.  Et acci@o che
+non fosse estimato improvido, dice qui, come l'uomo non dee la
+veritade tacere, et occ$orrane quello arduo che pu@o; per@o che
+meglio @e assomigliarsi al Creatore e conformarsi con lui,
+ch'esser collega con quegli che sono nel mondo tanto oscurati,
+che la superna chiarezza non si conforma colla virtute visiva del
+suo intelletto.  Questa @e brievemente la intenzione del capitolo.
+
+	|1-6.  Qual venne~: Qui introduce una fabula, della quale
+fue ragionato nel XVII dell'^Inferno~, come Feton and@o ad Climene
+sua madre, per accertarsi d'alcune parole dette a lui da Epafo
+figliuolo di Jupiter; et @e distinta la fabula et allegor$ia: cos@i
+egli a simile, udito le parole di messere Cacciaguida circa gli
+Fiorentini, come chiaro @e detto, volle, dopo la accertazione di
+Beatrice, avere dichiarazione dal detto messer Cacciaguida
+d'alcuni suoi dubbj.
+
+	|7-9.  Perch@e mia~: Segue 'l poema.
+
+	|10-12.  Non perch@e nostra~: Qui @e da notare che, avvegna
+che nostre bisogne siano notevoli a Dio, egli fa bisogno, acci@o
+che nostra subiezione appaja, che con propria bocca le
+domandiamo; e per@o l'Auttore sotto tale stile di parlare lo
+mostra, e per@o dice.
+
+	|13-15.  O cara pianta~: Ci@o @e, o anima beata, la quale
+vedi in Dio cos@i certo ogni cosa contingente, come certo la mente
+umana, sanza altra dimostrazione, dic@erne che in uno triangolo
+non pu@o esser due ottusi cantoni, quasi a dire ogni contingenzia
+nell'aspetto divino @e per s@e ^notum~; e di sopra n'@e toccato
+circa la prescenzia di Dio.  Circa lo qual simile s@i @e da sapere
+ch'egli @e tre spezie d'anguli, l'una s@i @e appellata angulo retto,
+e questo si @e quando una linea retta cade perpendicularmente
+sopra un altra retta, s@i come qui appare di linea a.b. sopra
+b.c.; l'altra spezia si @e appellata angulo acuto, e questo si @e
+quando una linea retta cade sopra un'altra retta, ma non
+perpendicularmente, anzi declina alla parte della linea sopra che
+cade, s@i come appar quie di linea d.e. sopra e.f.  La terza
+spezia si @e appellata angulo ottuso; e questo si @e quando una
+linea retta cade sopra un'altra retta non perpendicularmente, e
+non che declini alla parte della linea sopra che cade, ma declina
+alla opposita parte, s@i come appare quie di linea g.h. sopra
+linea h.i., s@i che, veduto le tre spezie degli anguli, chiaro
+appare come in uno triangulo non pu@o esser due angoli ottusi; e
+la ragione si @e questa, che ogni triangolo consiste di tre linee:
+se noi facciamo che le due si avessono per angulo retto, adesso
+si segue che gli due anguli sono acuti, siccome se meniamo da a.
+a c. una linea, seguesi che quella linea per rispetto ad a.b.
+costituisce in a. angulo acuto, perch@e dichina sopr'essa linea:
+similemente se la consideri per rispetto alla linea c.b.
+costituisce in c. angulo acuto, perch@e dichina sopr'essa linea:
+similemente, se noi facciamo che le due linee si abbiano per
+angulo acuto, seguesi che lo secondo @e retto, vel acuto; s'ello @e
+retto, com'@e detto, lo terzo conviene esser acuto; se 'l secondo
+e 'l primo sono acuti, ello nolli pu@o essere se non uno ottuso; e
+se uno @e ottuso, di necessitade gli due convengono essere acuti,
+s@i come appare per la linea tratta da g. ad i.  S@i che chiaro
+appare che uno triangolo ch'abbia pur tre angoli, non pu@o aver
+pi@u d'uno angulo obtuso; e pu@o esser sanza esso, s@i com'@e
+dimostrato.
+
+	|16-18.  Mirando al punto~: Ci@o @e a Dio.
+
+	|19-21.  Mentre ch'io era~: Ci@o @e, com'@e trattato nel X
+dell'^Inferno~ e nell'XI del ^Purgatorio~, avvegna che l'Auttore
+antipofori quie, ch@e mette quel di dietro dinanzi, nel testo.
+
+	|22-24.  Dette mi fur~: Chiaro appare per le predette
+cose.
+
+	|25-27.  Perch@e la voglia~: Qui fa sua petizione dopo lo
+suo esordio e narrazione.  |Ch@e saetta previsa~: Qui conchiude
+proverbialmente che, se l'uomo si vede venire una saetta o
+pietra, e' vi pu@o avere alcuno riparo: per la qual riparazione
+quella saetta imprime meno di sua malizia, et alcuna volta pu@o
+esser tutta schifata, s@i come pone Avicenna ^De impressione
+corporum coelestium~, e dice che, se l'uomo @e provvido d'alcuna
+pestilenzia, o corruzione d'aiere, egli pu@o s@i disporre, o con
+evacuazioni, o con altre preparazioni, che la detta pestilenzia,
+vel corruzione, nollo dannificher@a; e se pure lo toccher@a, sar@a
+s@i lieve che agevole rimedio lo torner@a su quella qualitade ch'@e
+sanitade del corpo umano, e per ogni etade.  Onde Salomone dice:
+^Jaculum praevisum minus laedit.~
+
+	|28-30.  Cos@i diss'io~: Segue 'l poema.  |E come volle~: 
+Ci@o @e che Beatrice era contenta a tale domanda; quasi a dire che
+@e dubbio teologo.
+
+	|31-36.  Non per ambage~: ^Ambago agis, idem est quod
+dubia locutio.~  Qui vuol mostrare come quella alma, ci@o @e messer
+Cacciaguida, chiaramente e con lucida responsione rispuose a sua
+domanda; e dice che non gli rispuose per ambagie, ci@o @e per
+dubbia responsione, s@i come faceano quegli spiriti che faceano
+risposta nelle scolture e negli idoli, innanzi che Cristo venisse
+al mondo ad incarnarsi.  Dice che |invescava~, imper quello
+ch'era uno idolo in quel tempo, ch'era appellato Iddio delle
+mosche, ed era appellato Balzebut, ci@o @e interpretato Iddio di
+mosche; e avea tal nome, per@o che innanzi a lui sempre avea
+moltitudine di mosche, et in esso ven$ia lo demonio e dava
+risposta, e sempre parlava s@i equivoco che pur dopo il fatto s@i
+si intendea quello ch'avea risposto.  Dice gli dottori che
+stavano intorno ad esso tante mosche, imper@o che quegli gentili
+gli faceano spesso sacrificio, et uccideano agnelli e vitelli, s@i
+che per quello sangue le mosche traevano molto l@a a quello luogo,
+s@i come fanno alla beccher$ia.  |L'Agnel di Dio~: S@i com'@e detto,
+Cristo, per la cui morte fu s@i legato lo demonio che non ebbe pi@u
+tal familiarit@a colla umana generazione.
+
+	|37-42.  La contingenza~: Qui risponde, e dice: le cose
+contingenti, che per scienzia umana voi non potete sapere, si
+veggiono tutte in Dio; e perch@e la similitudine sia in esso,
+com'@e detto, non prende per@o che necessit@a le stringa, s@i com'@e
+detto di sopra ^de praescientia Dei.~  |Se non come~: Qui tocca
+lo esemplo predetto, come la visione dell'uomo che @e in sulla
+riva non induce necessitade allo navilio che per torrente vada,
+ci@o @e per fiume.
+
+	|43-45.  Da indi s@i~: Ci@o @e, s@i come dallo stormento
+sonabile viene per quello aiere, che @e conforme mezzo, alle
+orecchie il suono, cos@i alla mia vista, dice messer Cacciaguida,
+viene da Dio lo tempo tuo futuro, s@i ch'io veggio chiara ogni tua
+predestinazione.
+
+	|46-48.  Qual si part@i~: Qui introduce una fabula poetica
+a dimostrare che, s@i come molte volte le persone vogliono esser
+suddutte a fare uno vizio, e se non si piegano, lo sudduttore gli
+adovra male secondo sua possanza; et @essene gi@a portati di grandi
+ardui; ma in fine lo benevolo Creatore ristituisce tali
+continenti in grazia.  E fue la fabula in questo modo.  Innanzi
+che la sorte toccasse a Teseo, figliuolo del Duca d'Atene,
+d'esser mandato in Creti per cibo al Minotauro, s@i come chiaro @e
+detto nel XII dell'^Inferno~, lo detto Teseo ebbe uno figliuolo
+nome Ippolito, ch'egli ebbe di Ipolite reina delle Amazzoni, s@i
+come Ovidio tratta nel II ^de Fastis~, lo quale Ippolito, quando
+Teseo and@o in Creti, rimase col suo avolo.  Or in processo di
+tempo lo detto Teseo torn@o con Fedra, s@i com'@e detto nel
+preallegato capitolo, la quale Fedra fu poi matrigna d'Ippolito. 
+Or ella fu cos@i spietata e perfida, come egli appare: primo
+ch'ello, per sua perfidia et empiezza, consent@i a lasciar la
+sorella sulla isola, colla quale lo detto Teseo era stato
+carnalmente, prima che con lei: poi richiese lo detto Ippolito
+d'amore; e perch'egli non avea voluto consentire, ella disse a
+Teseo che Ippolito l'avea voluta sforzare; onde Teseo, credendo
+ci@o, corse a furore, et andava cercando lo detto Ippolito per
+ucciderlo; s@i che lo detto Ippolito si convenne partire da Atene. 
+Or dice la storia che Teseo maladisse Ippolito, onde Ippolito
+mor@i et and@o allo 'nferno: ad Esculapio, ch'era lo grande Iddio,
+ne venne pietade, s@i come fingeano gli poeti: risuscitollo, s@i
+come pone Ovidio nel XV ^Metamorfoseos.~  Or vuol dire ^a simili~
+messer Cacciaguida, s@i come Ippolito si part@i da Atene, perch@e
+non volle osservare la seduzione della sua mala matrigna, e mor@i,
+e poi risuscit@o; cos@i tu, Dante, perch@e non vorrai consentire
+agli barattieri dello tuo comune, sarai fatto esulo di Firenze;
+ma dopo molta briga tu vedrai tal vendetta degli tuoi nemici, che
+tu sarai ristituito nelle tue ragioni e stato.
+
+	|49-51.  Questo si vuole~: Ci@o @e in Corte, com'@e detto di
+sopra, nel quale luogo Cristo @e spesso venduto, e mercanteggiasi
+come fosse lana o lino o altra mercatanz$ia, s@i in dare
+prelazioni, s@i in signor$ie, vel vicar$ie ecclesiastiche; s@i in
+vendere la benedizione, che scomunicando togliono al popolo et
+alla congregazione cristiana.
+
+	|52-54.  La colpa~: Ci@o @e che la voce sar@a che Dante, e
+quegli che a quello tempo saranno espulsi, siano persone di mala
+condizione e contrarj della santa madre Ecclesia.  |Ma la
+vendetta~: Ci@o @e la vendetta che ne far@a Iddio testimoner@a bene
+l@a dove sar@a la colpa: quasi a dire, jud$icio cader@a sopra tali
+prelati e sopra tali suoi esecutori.
+
+	|55-57.  Tu lascerai~: Or qui tocca l'Auttore in
+singularit@a, come, per tale cacciata, abbandoner@a lo vertudioso e
+buono operare in poliz$ia, vel ben comune; lascerai eziandio
+l'ammaestrare lo vulgo, lo dirizzarlo a virtudioso suo sentiero. 
+|E questo @e quello~: Chiaro appare.
+
+	|58-66.  Tu proverai~: Ci@o @e tu verrai cortigiano, gli
+quali adoperranno incontro a te viziose insidie, ^vel~ pugne; ma
+in fine elle saranno conosciute, onde tu n'avrai onore, et eglino
+vergogna: e per@o dice: |Ella non tu n'avrai rossa la tempia~, ci@o
+@e d'essi cortigiani.
+
+	|70-72.  Lo primo tuo~: Ci@o @e in corte di messer
+Bartolommeo della Scala, il quale porta il segno dello 'mperio
+sopra la scala.
+
+	|73-75.  Che 'n te avr@a~: Chiaro appare.  |Fie primo~:
+Ci@o @e anzi sar@a lo dare che 'l chiedere; lo quale ordine @e
+contrario in tutti gli altri.
+
+	|76-78.  Con lui vedrai~: Ci@o @e messer Cane il quale egli
+pone esser martino, e per@o dice: |nascendo s@i da questa stella~,
+ci@o @e di Marte, nel quale pianeto erano.
+
+	|79-81.  Non se ne son~: Per la picciola etade: nota,
+che, secondo un'altra esposizione, messer Cane avea pur VIIIJ
+anni nel MCCC; e credola pi@u vera.
+
+	|82-84.  Ma pria che 'l Guasco~: Ancora predice lo detto
+messer Cacciaguida, come dee essere uno papa di Guascogna, lo
+quale inganner@a l'altro Arrigo, ci@o @e uno imperadore venturo,
+nome Enrigo, et innanzi che sia questo inganno, egli appariranno
+le magnifiche et escelse opere del detto messer Cane.
+
+	|85-87.  Le sue magnificenzie~: Ci@o @e di messer Cane.
+
+	|88-90.  A lui t'aspetta~: Segue 'l poema, mostrando che
+'l detto messer Cane cambier@a gli cortigiani del detto messer
+Bartolomeo suo fratello, gli quali saranno mal disposti.
+
+	|91-93.  Et portera'ne~: Nota qui la sagacit@a
+dell'Auttore, il quale si volle riserbare a dire alcune cose,
+imper@o che 'l detto messer Cane, dal quale egli aspettava premio,
+non curasse pi@u di questa ^Commedia~ che della sua persona.
+
+	|94-96.  Po' giunse~: Ci@o @e, or'@e dichiarato quello
+oscuro che t'era detto nell'^Inferno~, come eziand$io nel
+^Purgatorio.~
+
+	|97-99.  Poscia che~: Qui tocca che tanto viver@a che
+vedr@a la detta vendetta.
+
+	|100-102.  Per@o che~: Segue 'l poema.  |In quella tela~:
+Ci@o @e risponsione alla domandagione.
+
+	|103-105.  Incominciai~: Chiaro appar lo testo.
+
+	|109-111.  Perch@e di provedenza~: Quasi a dire: s'io
+ponessi silenzio a mia scienza, potrei schifare tale esilio.
+
+	|112-117.  Gi@u per lo mondo~: Ci@o @e per lo 'nferno e per
+lo Purgatorio, io hoe nomate molte persone e biasimati gli vizj:
+sanza dubbio alcuni, ci@o vedendo, ne prenderanno avverso me
+corruccio.
+
+	|118-120.  E s'io al vero~: Ci@o @e, s'io taccio la verit@a,
+cos@i perder@o io la beatitudine, e diverr@o accidioso.
+
+	|121-123.  La luce in che~: Ci@o @e messer Cacciaguida.
+
+	|124-129.  Indi rispose~: Ci@o @e, le tue parole pure
+parranno brusche a qualche persona; ma in loro @e la rogna, ci@o @e
+lo difetto et in loro sia lo grattare, ci@o @e lo contristarsene; e
+per@o fa pur manifesta tua visione.
+
+	|130-132.  Ch@e, se la voce~: Ci@o @e chi masticher@a le tue
+parole ch'elle vegnano ad esser digeste, essi s'avvedranno come
+'l tuo parlare @e poetico, e com'egli @e fittivo, e di esempi
+fingitivo; s@i che non ne prenderanno ira alcuna, imper@o che ad
+esemplificare non si prende fede per esempio, ma acquistasi
+scienzia della cosa esemplificata.
+
+	|133-135.  Questo tuo grido~: Ci@o @e questa poetria tocca
+pure vizj escelsi, che tegnono grado estremo, e cos@i virtudi; et
+acci@o che meglio s'intenda per tutti, fa bisogno a porre per
+esemplo persone pi@u per tutti conosciute, acci@o che non si
+procedesse in quella fallacia che prova ^ignotum per ignotius.~
+
+	|136-138.  Per@o ti son mostrate~: Chiaro appare.
+
+	|139-142.  Che l'animo~: S@i com'@e detto, per esemplo non
+si acquista fede, n@e per modo d'argomentare, salvo se la radice,
+ci@o @e la prima posizione, non @e a sufficienzia cognita.  Or la
+radice, ci@o @e la prima posizione di questa poetria, si @e che
+l'Auttore sognando vidde questa sua visione.  Et qui compie la
+'ntenzione del XVII capitolo.

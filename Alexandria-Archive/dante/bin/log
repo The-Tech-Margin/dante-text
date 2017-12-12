@@ -1,0 +1,32 @@
+#!/bin/sh
+
+# create a log entry for a commentary
+
+LOGDIR=/amber/Dante/Log
+
+case $# in
+0)	echo -n "Which commentary? "
+	read COMM
+	;;
+1)	COMM=$1
+	;;
+*)	echo "Usage: log [commentary]"
+	exit 1
+	;;
+esac
+LOGFILE=$LOGDIR/$COMM
+
+if [ ! -f $LOGFILE ]; then
+	echo -n "$LOGFILE does not exist. Create it [y]? "
+	read ANS
+	case $ANS in
+	y*|Y*|'')
+		;;
+	*)
+		exit 0
+		;;
+	esac
+fi
+
+echo Enter text. End with control-D.
+cat >> $LOGFILE

@@ -1,0 +1,644 @@
+	|1-3.  Poscia che Costantin~... |tolse~: "Constantine,
+transferring the seat of Empire from Rome to Byzantium, carried
+the Eagle from West to East, counter to the course which it took
+with Aeneas from Troy to Italy, where he was to become the father
+of the Roman people, and the founder of the Empire of whose power
+the bird of God was the symbol" (Norton).  Byzantium was renamed
+Constantinople and inaugurated as the new capital in 330.  (See
+n. to ^Inf.~ XIX, 116; also see ^Par.~ XX, 55-60.)  |aquila~:
+The object of |volse~ ("turned").  |l'antico che Lavina tolse~:
+"The man of old who wedded Lavinia" was Aeneas, who brought the
+imperial eagle from Troy.  Dante mentions Lavinia, who was the
+mother of Silvius and thus the co-founder of the Roman race, in
+^Inf.~ IV, 126; ^Purg.~ XVII, 37; and ^De mon.~ II, iii, 16.
+
+	|4-5.  cento e cent'anni~... |ritenne~: Constantine
+reigned from 306 to 337, Justinian -- who is speaking -- from 527
+to 565.  See P. Toynbee (1902), pp. 298-299:
+
+     Justinian says that when he became Emperor the Roman eagle
+     had been at Constantinople for more than two hundred years
+     (|cento e cent'anni e pi@u~).  According to the chronology
+     accepted at the present day this statement presents no
+     difficulty, the period from the foundation of Constantinople
+     in 324 (as distinguished from the dedication in 330) to the
+     accession of Justinian in 527 being just over two hundred
+     years.  This, however, was not the chronology of Dante's
+     day.  Brunetto Latino, for instance, in his ^Tr$esor~ (p.
+     82, ed. Chabaille) assigns the transference of the seat of
+     empire from Rome to Constantinople to the year 333, and the
+     accession of Justinian to the year 539.  This gives an
+     interval of 206 years between the two dates, and I have
+     little doubt that the ^Tr$esor~, with which, of course,
+     Dante was well acquainted, was his authority for the
+     reckoning of |cento e cent'anni e pi@u.~
+
+|l'uccel di Dio~: The eagle, symbol of imperial power.
+
+	|6.  vicino a' monti de' quai prima usc@io~: While at
+Constantinople, the imperial eagle was relatively near the site
+of ancient Troy.
+
+	|7-9.  e sotto l'ombra~... |pervenne~: In Constantinople
+the Eagle, descending from emperor to emperor, governed the
+world, which was under the shadow of its wings.  Cf. Ps. 16
+[17]:8: "Sub umbra alarum tuarum protege me."  ("Hide me in the
+shadow of your wings.")  |mia~: I.e., |mano.~
+
+	|10.  Cesare fui e son Iustiniano~: The same contrast
+between the |fui~ and the |son~ is used in ^Purg.~ V, 88. 
+|Iustiniano~: Justinian I, surnamed the Great, was emperor of
+Constantinople from 527 to 565.  He was born in Illyricum in 483,
+married Theodora in 523, and died in 565.  During his reign
+Justinian's great general Belisarius overthrew the Vandal kingdom
+in Africa and the Gothic kingdom in Italy.  Justinian is best
+known, however, not by his conquests but by his legislation.  In
+^The History of the Decline and Fall of the Roman Empire~, Edward
+Gibbon (1908, p. 441) says:
+
+     The vain titles of the victories of Justinian are crumbled
+     into dust; but the name of the legislator is inscribed on a
+     fair and everlasting monument.  Under his reign, and by his
+     care, the civil jurisprudence was digested in the immortal
+     works of the Code, the Pandects, and the Institutes; the
+     public reason of the Romans has been silently or studiously
+     transfused into the domestic institutions of Europe; and the
+     laws of Justinian still command the respect or obedience of
+     independent nations.
+
+See n. to ^Purg.~ VI, 88-89.
+
+	|11.  per voler del primo amor ch'i' sento~: This is love
+of God, but with stress on the Holy Ghost.  Cf. ^Inf.~ III, 6.
+
+	|12.  d'entro le leggi trassi il troppo e 'l vano~: See
+n. to vs. 10 and, for Justinian's codification of the law, see n.
+to ^Purg.~ VI, 88-89.
+
+	|13.  ovra~ = ^opera~, i.e., the reformation and
+codification of law.
+
+	|14-15.  una natura~... |contento~: It was believed that
+Justinian was attached to the Eutychian or Monophysite heresy,
+which held that Christ was divine but not also human.  As Butler
+observes, however, it appears to have been not Justinian himself,
+but his wife Theodora who held heterodox opinions.
+
+	|16-18.  'l benedetto Agapito~... |sue~: Dante's
+reference here is to Agapetus I, who was pope from 535 to 536, a
+time when the Ostrogothic power in Italy was being destroyed by
+Belisarius.  The story is that he was sent by Theodat, king of
+the Ostrogoths, to make terms with Justinian at Constantinople,
+and while on his mission he convinced Justinian to accept the
+orthodox doctrine of the two natures of Christ.  Dante's
+authority for his statement about the conversion of the emperor
+by Agapetus may have been Brunetto Latini (^Tresor~ I, lxxxvii,
+5), who says concerning Justinian: "Ja soit ce k'il fust au
+comencement en l'erreur des erites, a la fin reconut il son
+erreur de par le conseil Agapite, ki lors estoit apostoiles." 
+("Although he was in the beginning in the error of the heretics,
+in the end he recognized his error through the counsel of
+Agapetus, who was then pope.")  According to the ^Liber
+pontificalis~ (LIX, 2), Agapetus convinced Justinian as to the
+two natures of Christ: "Cui beatissimus Agapitus episcopus
+constantissime fidei apostolicae responsum reddidit de domino
+Iesu Christo Deum et hominem, hoc est duas naturas in uno
+Christo."  ("To whom [to the Emperor Justinian] the very blessed
+Bishop Agapetus sent back a reply according to the very firm
+apostolic faith concerning our Lord Jesus Christ man and God,
+that is, two natures in one Christ.")
+
+	|19-21.  li~ = ^gli.~  |e ci@o che~... |vera~: What he
+(and afterward I) accepted on faith, without being able to
+comprehend it, I can now see as a fact, as clearly as thou seest
+an axiomatic truth -- for instance, that if a proposition is
+false, its opposite must be true (cf. ^Mon.~ II, xi, 4).  Of the
+two natures of Christ, Dante beheld a symbolic presentment in the
+Griffin: ^Purg.~ XXXI, 121-126" (Gr).  Cf. also ^Par.~ II,
+40-45.
+
+	It is a cardinal point of Dante's belief that in the
+perfect state all ^effort~ both of will and intellect shall
+cease, while their ^activity~ reaches its highest point. Even
+truths that now seem paradoxical shall be seen as axioms, and the
+facts that now seem perplexing or distressing shall be felt as
+axiomatically right and beautiful.  But unfathomed depths of the
+Divine Nature and Will shall ever remain, adored but
+uncomprehended.  Compare ^Parad.~ XIX, 40-57; XXI, 82-102, etc.
+
+	Both in this passage and in II, 40-45 the union of the
+divine and human natures in Christ is the point which Dante
+declares will be as clear to souls in bliss as `the initial truth
+which man believeth,' or is as clear to Justinian as that `every
+contradiction is both false and true.'  Now `the initial truth
+which man believeth' is not a generic term for axiomatic truth,
+but a specific reference to the `law of contradictories' on which
+the whole system of Aristotelian logic is built up.  It asserts
+that the propositions ^this is so~ and ^this is not so~ cannot
+both be true in the same sense and at the same time....  And 
+it follows immediately from this fundamental axiom, that
+of the two propositions `all A's are B's' and `some A's are
+not B's,' or of the two propositions `no A's are B's' and cannot
+both be true or both false in the same sense at the same time.  
+For example, if the proposition `some A's are not B's' be true,
+the proposition `all A's are B's' is false; for if not, take one
+of the A's that is not a B; now since all A's are B's, that
+particular A is a B; therefore that particular A both is and is
+not a B, which is impossible, ^therefore~, etc. Propositions so
+related are called contradictories, and therefore every
+'contradiction' or `pair of contradictories' is `both false and
+true' axiomatically" (TC).
+
+	|25.  Belisar~: Belisarius, the famous general of the
+Emperor Justinian, was born on the borderland between Thrace and
+Illyricum ca. 505 and died in 565.  His great achievements were
+the overthrow of the Vandal kingdom in Africa, the reconquest of
+Italy from the Goths, and the foundation of the exarchate of
+Ravenna upon the ruins of the Gothic dominions.  When he was
+nearly sixty, he was accused of being privy to a conspiracy
+against Justinian, in consequence of which, according to the
+popular tradition, his property was confiscated, his eyes were
+put out, and he was compelled to beg in the streets of
+Constantinople, crying to the passers-by, "Date obolum
+Belisario."  In truth, however, his disgrace lasted only eight
+months, during which he was confined to his own palace.  The
+emperor, having satisfied himself that the charge was false,
+restored Belisarius to favor, and he lived in possession of his
+wealth and honors until his death two years later (in 565),
+Justinian himself dying a few months afterwards.
+
+	It is probable that Dante, who does not hint at the
+ingratitude of Justinian towards his great general, did not know
+more of the history of the latter than is contained in the
+medieval chronicles.  Villani (II, 6) concludes his account as
+follows: "Belisario... bene avventurosamente e con vittoria in
+tutte parti vinse e soggiog@o i ribelli dello `mperio, e tenne in
+buono stato mentre vivette, infino agli anni di Cristo 565, che
+Giustiniano imperadore e Belisario moriro bene avventurosamente." 
+("Belisarius... with great strategy and winning victory
+everywhere, overcame and subjugated the rebels to the Empire and
+held it in good order all his lifetime until the year A.D. 565
+when Justinian the emperor and Belisarius died in their daring
+ventures.")
+
+	|26.  cui~: This is the dative.
+
+	|28.  a la question prima~: See ^Par.~ V, 127.  |s'appunta~: "Comes to an end."
+
+	|29-30.  sua condizione~... |giunta~: Justinian's reply
+has made it necessary for him to mention the Roman Eagle. 
+|seguitare~ = ^far seguire.~
+
+	|31.  veggi~ = ^vegga~ or ^veda.~  |quanta~: "How little."
+
+	|33.  e chi 'l s'appropria e chi a lui s'oppone~: |Chi~
+and |chi~ (Ghibelline and Guelph) are subjects of "move."
+
+	|34-36.  e cominci@o~... |regno~: "It -- the valor
+(|virt@u~) of heroes -- `began from that hour when Pallas' -- son
+of the Latin king Evander --`died to give it (the ^segno~ {v.32})
+a kingdom.'  Pallas, leading Latin troops to help Aeneas, was
+killed by Turnus (^Aen.~ X, 479-489); to avenge his death,
+Aeneas slew Turnus (^Aen.~ XII, 945-952), and gained possession
+of Latium" (Gr).  Virgil represents the Trojan Aeneas, when he
+landed on the shores of Italy, as becoming involved in war with
+Turnus, king of the Latins, and as seeking and gaining the
+alliance of Evander, who had established a kingdom on the seven
+hills, afterwards to be the site of Rome.
+
+	|37-39.  Tu sai~... |ancora~: The kingdom of Aeneas "was
+founded, however, not on the seven hills, but at Lavinium, whence
+it was transferred by his son Ascanius to Alba Longa where it
+remained for more than 300 years, till, in the reign of Tullus
+Hostilius (670-638 B.C.), Alba fell under Rome, on the defeat of
+the three Alban champions, the Curiatii, by the survivor of the
+three Roman champions, the Horatii" (TC).
+
+	|40-41.  dal mal de le Sabine~... |Lucrezia~: "Meanwhile
+the Alban outcast, Romulus, had founded a camp of refuge on the
+Palatine (one of the seven hills), and had provided the
+desperadoes, who gathered there, with wives, by seizing the
+Sabine women who had come to attend the public games.  Under him
+and his six successors Rome gradually extended her power, till
+the outrage offered to Lucretia by Sextus, the son of the last
+king, so roused the indignation of the people that the monarchy
+was swept away (510 B.C.)"  (TC).
+
+	|43-53.  Sai quel ch'el~... |Scipione~: "The long
+period of the Republic, up to the beginning of Caesar's campaigns
+in Gaul (58 B.C.), is passed over rapidly by Dante, without
+notice of constitutional and social struggles; but the main
+aspects of the outward history are dealt with by rapid and
+effective strokes.  During this period Rome established her
+supremacy over the other Latin tribes, repelled invasions of
+Italy, both by civilised and barbarous peoples, and extended her
+dominion by counter invasions.  Lucius Quintius Cincinnatus (from
+^cincinnus~ = a curl), called from the plough to the dictatorship,
+conquered the Aequians (458 B.C.); against Brennus (390, etc.,
+B.C.) and his Gauls, one of the Fabii, and Titus Manlius
+Torquatus (as well as others, notably Camillus), distinguished
+themselves.  The Decii, -- father, son and grandson, -- died
+self-devoted deaths in serving against the Latins (340 B.C.), the
+Samnites (295 B.C.) and the Greek invader Pyrrhus (280 B.C.);
+while the greatest of all the Fabii, Quintus Fabius Maximus
+(Cunctator), saved Rome from Hannibal who crossed the Alps and
+victoriously invaded Italy in 218 B.C., in which same year Scipio
+Africanus (the Elder), a boy of seventeen, won military fame by
+saving his father's life at the defeat of Ticinus.  It was he who
+subsequently organised the counter invasion of Africa which
+compelled Hannibal to withdraw from ltaly.  Cf. XXVII, 61 seq." 
+(TC).
+
+	|48.  mirro~: "Embalm," "preserve."
+
+	|49.  Ar@abi~: "Arabs" is a term applied by an anachronism
+to the Carthaginians, whose territory in Dante's day was occupied
+by the Arabs, the reference being to their passage of the Alps
+under Hannibal and their subsequent defeat by Scipio Africanus.
+
+	|51.  l'alpestre rocce~: Although Dante several times
+uses the word "alpine" to refer to any mountainous place, here it
+refers to the Alps themselves.  |labi~: "You descend."  From the
+Latin ^labi.~
+
+	|52-96.  Sott'esso~... |soccorse~: "By a great leap
+Dante now brings us to the achievement of Pompey, the great
+conqueror of the eastern kings and queller of the faction of
+Marius.  He celebrated a triumph when not yet twenty-five (81
+B.C.).  After a passing reference to the mythical exploits of the
+great Romans in reducing Fiesole which overhangs Florence, and
+which was the refuge of Catiline (Villani, i, 31-37), we find
+ourselves following the career of Caesar preparatory to the
+founding of the Roman Empire.  Lines 58-60 refer to the campaigns
+in Gaul (58-50 B.C.); lines 61-63 to Caesar's crossing the
+Rubicon (49 B.C.) between Ravenna and Rimini, thereby leaving his
+province, without orders from the Senate, and so formally
+beginning the civil war.  In the same year he overcame formidable
+opposition in Spain, and next year unsuccessfully besieged Pompey
+in Dyrrachium, and then utterly defeated him at Pharsalia in
+Thessaly.  Pompey escaped to Egypt, where he was treacherously
+slain by Ptolemy (lines 64-66).  Caesar crossed the Hellespont
+and, says Lucan, visited the Troad (cf. l. 6).  He took Egypt
+from Ptolemy and gave it to Cleopatra, subdued Juba king of
+Numidia who had protected his opponents after Pharsalia, and then
+returned to Spain (45 B.C.) where Pompey's sons had raised an
+army (lines 67-72).  After the murder of Caesar his nephew
+Augustus defeated Mark Antony at Modina (43 B.C.); then, with
+Antony as his ally, defeated his uncle's assassins, Brutus and
+Cassius (cf. ^Inf.~ XXXIV), at Philippi (42 B.C.), and
+afterwards Antony's brother Lucius at Perugia (41 B.C.).  In 31
+B.C. at Actium he finally defeated his rival Mark Antony, who
+soon afterwards committed suicide, and his example was followed
+by his paramour Cleopatra, who died by the tooth of a viper
+(lines 76-78).  This made Augustus master of the whole Roman
+Empire to the remotest ends of Egypt, and the temple of Janus,
+the gates of which were always open in war-time, was, for the
+third time only in the history of Rome, closed in sign of
+universal peace.  Heaven `had brought the world to its own serene
+mood' (line 56), and all was ready for the birth of Christ (lines
+79-81), who was crucified under Tiberius, the successor of
+Augustus, whereby the sin of human nature at the fall was avenged
+(lines 82-90).  Jerusalem fell, under Titus, whereby the sin of
+slaying Christ was avenged on the Jews (lines 91-93).
+
+	The epilogue of the defence of the Church by Charlemagne
+against the Lombard king Desiderius, whom he dethroned in A.D.
+774, produces a disjointed effect upon the modern reader, but
+would seem natural enough to Dante and his contemporaries" (TC).
+
+	|55-56.  che tutto 'l ciel~... |sereno~: See Dante,
+^Conv.~ IV, v, 6-8:
+
+     E per@o @e scritto in Isaia: "Nascer@a virga de la radice di
+     Iesse, e fiore de la sua radice salir@a"; e Iesse fu padre
+     del sopra detto David.  E tutto questo fu in uno temporale,
+     che David nacque e nacque Roma, cio@e che Enea venne di
+     Troia in Italia, che fu origine de la cittade romana, s@i
+     come testimoniano le scritture.  Per che assai @e manifesto
+     la divina elezione del romano imperio, per lo nascimento de
+     la santa cittade che fu contemporaneo a la radice de la
+     progenie di Maria.  E incidentemente @e da toccare che, poi
+     che esso cielo cominci@o a girare, in migliore disposizione
+     non fu che allora quando di l@a su discese Colui che l'ha
+     fatto e che 'l governa; s@i come ancora per virt@u di loro
+     arti li matematici possono ritrovare.  N@e 'l mondo mai non
+     fu n@e sar@a s@i perfettamente disposto come allora che a la
+     voce d'un solo, principe del roman popolo e comandatore, s@i
+     come testimonia Luca evangelista.  E per@o [che] pace
+     universale era per tutto, che mai, pi@u, non fu n@e fia, la
+     nave de l'umana compagnia dirittamente per dolce cammino a
+     debito porto correa.
+
+     Wherefore it is written in Isaiah [11:1] "a rod shall spring
+     out of the root of Jesse and a flower shall spring up from
+     his root."  And Jesse was the father of the above-said
+     David.  And it was all at the same point of time wherein
+     David was born and Rome was born, that is to say AEneas
+     came into Italy from Troy, which was the origin of
+     the... city of Rome, as testify the scriptures.  Whereby the
+     divine election of the Roman empire is manifest enough; to
+     wit by the birth of the holy city being at the same time as
+     the root of the family of Mary.  And incidentally we may
+     note that since the heaven itself began to roll it ne'er was
+     in better disposition than at the time when he who made it
+     and who rules it came down below; as even now by virtue of
+     their arts the mathematicians may retrace.  Nor was the
+     world ever so perfectly disposed, nor shall be again, as
+     then when it was guided by the voice of one sole prince and
+     commander of the Roman people, as Luke the evangelist
+     beareth witness.  And therefore there was universal peace
+     which never was before nor shall be, and the ship of the
+     human fellowship was speeding straight to the due port in
+     tranquil voyage.
+
+See also C. S. Singleton (1958), pp. 96-98.
+
+	|57.  Cesare per voler di Roma il tolle~: "'Caesar takes
+(|tolle~ = ^toglie~) it (the ^segno~ {v.32}) at the bidding of
+Rome': in accordance with a popular mandate (^Phars.~ V,
+389-394)" (Gr).  Caesar was regarded by Dante as the first of the
+Roman emperors -- a popular misconception in the Middle Ages.
+
+	|58.  Varo~: The Var is a river of southern France.
+
+	|59-60.  Isara vide~... |pieno~: "`The rivers Is@ere,
+Loire, and Seine beheld,' and all the tributaries of the Rhone. 
+For |Era~, see ^Giorn. dant.~ XIV, 47, and ^Rendiconti del R.
+Istituto Lombardo di scienze e lettere~, Serie II, Vol. XLI, p.
+757.  See also H. Hauvette, ^$Etudes sur la Divine Com$edie~, 226:
+the Italian name for the Loire was ^Era~, from Old French ^Leire~
+or ^Lere~, understood as ^L'Ere~" (Gr).
+
+	|62.  e salt@o Rubicon~: See ^Inf.~ XXVIII, 97-99.
+
+	|65.  Durazzo~: Dyrrachium, the ancient Epidamnus, a
+seaport in Illyria; it is the modern Durr,es.  |Farsalia~:
+Pharsalia is the district in eastern Thessaly in which Pharsalus
+is situated.  This was the scene of the decisive battle between
+Pompey and Julius Caesar, which made the latter master of the
+Roman world in 48 B.C.
+
+	|66.  s@i ch'al Nil caldo si sent@i del duolo~: The
+consequences of Caesar's victory over Pompey at Pharsalia were
+felt in Egypt, where Pompey was murdered.
+
+	|67-68.  Antandro e Simeonta~... |rivide~: It was from
+the town of Antandros, near the river Simo,is, that the Eagle
+first set forth with Aeneas (Virgil, ^Aen.~ III, 5-6).  When
+Caesar was pursuing Pompey, he stopped to visit the Troad (Lucan,
+^Phars.~ IX, 961-999).  |l@a dov'Ettore si cuba~: Hector was
+buried at Troy.  |si cuba~: "Lies."
+
+	|69.  e mal per Tolomeo poscia si scosse~: "`And then
+shook itself, ill for Ptolemy,' who was deprived by Caesar of the
+kingdom of Egypt, and soon perished" (Gr).  |Tolomeo~: Ptolemy
+XII was king of Egypt from 51 to 47 B.C.  He was the eldest son
+of Ptolemy Auletes, and by his father's will the sovereignty was
+left jointly to him and his sister Cleopatra, but the latter was
+expelled after sharing the throne for three years.  Having
+collected an army, however, Cleopatra invaded Egypt and with the
+help of Julius Caesar, who espoused her cause, defeated her
+brother, who was drowned while attempting to escape.  Ptolemy had
+been accessory to the murder of Pompey, who fled to Egypt after
+the battle of Pharsalia (48 B.C.).  Ptolemy had his head cut off
+and sent to Caesar, but the latter to show his abhorrence of the
+deed caused the murderers to be put to death.
+
+	|70.  Iuba~: Juba, king of the Numidians, was an ally of
+Pompey.
+
+	|71.  occidente~: Spain, where the followers of Pompey
+were defeated in the battle of Munda.
+
+	|73.  col baiulo seguente~: Augustus.   |baiulo~: A
+Latinism, pronounced |b@aiulo~ and meaning "keeper."
+
+	|74.  Bruto con Cassio ne l'inferno latra~: Brutus and
+Cassius, defeated by the imperial eagle, "bark" of its victory in
+Hell (^Inf.~ XXXIV 64-67).  For the use of |latra~, cf. Dante,
+^Rime~ CIII, 59 and ^Conv.~ IV, iii, 8.
+
+	|75.  e Modena e Perugia fu dolente~: Mark Antony was
+beaten near Modena, his brother Lucius at Perugia.  Dante's
+coupling of Modena and Perugia is a direct echo of Lucan,
+^Phars.~ I, 41-42: "his, Caesar, Perusina fames Mutinaeque
+labores / accedant fatis" ("though to these be added the famine
+of Perusia and the horrors of Mutina").
+
+	|76.  Piangene~ = ^ne piange.~  |trista~: The adjective
+may well be used here in the pejorative sense, with reference to
+Cleopatra's wantonness (^Inf.~ V, 63).
+
+	|77-78.  che, fuggendoli innanzi~... |atra~: After the
+final defeat of Mark Antony at Actium, Cleopatra, fleeing before
+the imperial eagle, is said to have killed herself with an asp
+(|colubro~).  |li~ = ^gli.~
+
+	|79.  lito rubro~: The shore of the Red Sea.  (Cf.
+Virgil, ^Aen.~ VIII, 686, "litore rubro.")  With Augustus the
+imperial eagle reached this shore, in the conquest of Egypt.
+
+	|80-81.  con costui~... |delubro~: "The temple of Janus
+-- of which the doors were closed only in time of peace, for in
+time of war the god was supposed to be absent with the armies --
+had been locked up but twice during the whole life of the Roman
+Republic.  But under Augustus they were closed three times; and
+in one of those periods when `Heaven willed to bring the world to
+its own serene mood' (v. 56) it has been supposed that Christ was
+born; and then, `no war, or battle's sound was heard the world
+around'" (Norton).  See n. to vss. 55-56.
+
+	|83.  era fatturo~: "Was about to do," a Latinism.
+
+	|91.  t'ammira~: I.e., ^meravigliati.~  |repl@ico~: "Unfold."
+
+	|92-93.  poscia con Tito~... |antico~: The Emperor Titus
+is referred to in ^Purg.~ XXI, 82-84 (see n. to those verses) by
+Statius, with a reference to the point here mentioned, a point
+which is discussed at length in ^Par.~ VII, 19-51.  The theory
+that Titus, as the destroyer of Jerusalem (in A.D. 70), was the
+avenger of the death of Christ was borrowed by Dante from
+Orosius, who, in recording the triumph of Titus after his
+victory, says (^Hist.~ VII, iii, 8, ix, 9):
+
+     Capta eversaque urbe Hierosolymorum, sicut prophetae
+     praenuntiaverunt, extinctisque Iudaeis Titus, qui ad
+     vindicandum Domini Iesu Christi sanguinem iudicio Dei fuerat
+     ordinatus, victor triumphans cum Vespasiano patre Ianum
+     clausit....  iure enim idem honos ultioni passionis Domini
+     inpensus est, qui etiam nativitati fuerat adtributus.
+
+     After the capture and overthrow of Jerusalem, as the
+     prophets had foretold, and after the total destruction of
+     the Jewish nation, Titus, who had been appointed by the
+     decree of God to avenge the blood of the Lord Jesus Christ,
+     celebrated with his father Vespasian his victory by a
+     triumph and closed the Temple of Janus....  It was indeed
+     right that the same honor should be paid to the avenging of
+     the Lord's Passion as had been bestowed upon His Nativity.
+
+	|94-96.  E quando il dente~... |soccorse~: "In 773 Pope
+Adrian I invoked the aid of Charlemagne against Desiderius, king
+of the Longobards or Lombards.  Charlemagne -- who now, in
+Dante's mind, represented the Empire, although he was not crowned
+until 800 -- came to the aid of the Church under the pinions of
+the Eagle" (Gr).  |dente~: The metaphor is from the Bible: cf.
+Pss. 3:8 [7], 56:5 [57:4], 123 [124]:6, and Prov. 30:14.
+
+	|97-99.  Omai puoi giudicar~... |mali~: Cf. vss. 31-33.
+
+	|100-101.  L'uno al pubblico segno~... |oppone~: The
+Guelphs oppose the French arms and influence to the Empire. 
+|quello~: The |segno.~  |a parte~: "To a party," i.e., the
+Ghibelline.  They appropriate the Eagle as their own sign and for
+their own purposes.
+
+	|102.  forte~: "Hard."  |si falli~: The |si~ here is the
+so-called pleonastic |si~ used to specify identity ("which one").  For 
+^fallare~ in this sense, see ^Par.~ V, 53.
+
+	|106.  esto Carlo novello~: "This younger Charles" is
+Charles II of Naples, son of Charles of Anjou.  See ^Purg.~ XX,
+79.  He was not crowned until 1289 and died in 1309.
+
+	|107.  Guelfi~: The Guelphs were supporters of the
+Church, as opposed to the Ghibellines, who were supporters of the
+Empire.  They are mentioned by name only once in the poem.  The
+standard of the Guelph party, in Florence, bore the arms of
+Clement IV, over which they later placed a small scarlet lily, as
+is recorded by Villani (VII, 2):
+
+     Volle il detto papa che per suo amore la parte guelfa di
+     Firenze portasse sempre la sua arme propria in bandiera e in
+     suggello, la quale era, ed @e, il campo bianco con una
+     aguglia vermiglia in su uno serpente verde, la quale
+     portarono e tennero poi, e fanno insino a' nostri presenti
+     tempi; bene v'hanno poi aggiunto i guelfi uno giglietto
+     vermiglio sopra il capo dell'aquila.
+
+     The aforesaid pope decreed that in allegiance to him the
+     Guelph party of Florence should always bear his own coat of
+     arms on their flag and on their seal, which was and is,
+     against a white background, a red eagle upon a green
+     serpent, which coat of arms they did bear and did keep as
+     they still do in our own present day; to be sure, the
+     Guelphs later added a red lily over the head of the eagle.
+
+|li artigli~: "The claws" of the imperial eagle.
+
+	|109-110.  Molte fiate gi@a~... |padre~: Charles is warned
+that the consequences of his folly may fall on his children.
+
+	|111.  armi~: The eagle.
+
+	|112.  Questa picciola stella~: Justinian now proceeds to
+answer Dante's second question (^Par.~ V, 127-129).
+
+	|114.  perch$e onore e fama li succeda~: "In order that
+honor and fame should follow them" on earth.
+
+	|115-117.  e quando li disiri~... |vivi~: When desires
+are set on earthly honor and fame (thus deviating from true
+love), then it must follow that the rays of true affection mount
+heavenwards less intensely.
+
+	|118-120.  Ma nel commensurar~... |maggi~: Part of the
+heavenly joy of these spirits consists in their seeing that there
+is an exact correspondence between their desert and their reward. 
+One is reminded of Piccarda's words in ^Par.~ III, 50-57, 70-75. 
+|Gaggi~ (cf. the French ^gages~) is the equivalent of the English
+^wages.~  |maggi~ = ^maggiori.~  Cf. ^Inf.~ VI, 48; XXXI, 84.
+
+	|121.  giustizia~: The subject of |addolcisce.~
+
+	|123.  nequizia~: "Iniquity," i.e., envy, in this case.
+
+	|124-126.  Diverse voci~... |rote~: The simile (made such
+by |cos@i~, vs. 125) compares the harmony of many voices singing
+together to the harmony of the many "benches" (|scanni~) or
+orders of blessedness witnessed by the pilgrim in these heavens. 
+Latent here is a metaphor of cosmic harmony and order that will
+be variously restated in the cantos that lie ahead.  There is a
+cosmic symphony, the cosmos is a work of art making use of
+darkness as well as light.  In vs. 126 one hears the echo of the
+established notion of the harmony of the spheres.  Cf. ^Par.~ I,
+78, and see Beatrice's whole discourse in ^Par.~ I, 103-141,
+concerned as it is with cosmic order.
+
+	|128-142.  Romeo~... |loderebbe~: "Raymond
+Berengar IV of Provence (reigned 1209-1245), to be distinguished
+from his contemporary and opponent Raymond VII of Toulouse
+(reigned 1222-1249), was notorious for his liberality and his
+patronage of poets and other men of genius.  His daughter,
+Margaret, married Louis IX of France (St. Louis).  Eleanor
+married Henry III of England.  Sancha married Henry's brother,
+Richard of Cornwall; and Beatrice, his youngest daughter, whom he
+made his heiress, married Charles of Anjou after her father's
+death.  Raymond's able and upright chamberlain, Romeo of
+Villeneuve (1170-1250), is also an historical character; but his
+name, Romeo, is the current term for one who has made a
+pilgrimage to Rome, or a pilgrim generally (see ^Vita Nuova~
+[XL, 6-7]).  Hence arose the romantic legend recorded by Villani
+[VI, 91], and here followed by Dante.  `There came to his
+[Raymond Berengar's] court a certain Romeo, who was returning
+from S. James', and hearing the goodness of Count Raymond abode
+in his court, and was so wise and valorous, and came so much into
+favour with the Count, that he made him master and steward of all
+that he had....  Four daughters had the Count and no male child. 
+By prudence and care the good Romeo first married the eldest for
+him to the good King Louis of France by giving money with her,
+saying to the Count, "Leave it to me, and do not grudge the cost,
+for if thou marriest the first well thou wilt marry all the
+others the better for the sake of her kinship and at less cost." 
+And so it came to pass; for straightway the King of England, to
+be of kin to the King of France, took the second with little
+money; afterwards his carnal brother, being the king elect of the
+Romans, after the same manner took the third; the fourth being
+still to marry the good Romeo said, "For this one I desire that
+thou shouldst have a brave man for thy son, who may be thine
+heir," -- and so he did.  Finding Charles, Count of Anjou,
+brother of King Louis of France, he said, "Give her to him for he
+is like to be the best man in the world," prophesying of him: and
+this was done.  And it came to pass afterwards through envy,
+which destroys all good, that the barons of Provence accused the
+good Romeo that he had managed the Count's treasure ill, and they
+called upon him to give an account.  The worthy Romeo said,
+"Count, I have served thee long while, and raised thy estate from
+small to great, and for this, through the false counsel of thy
+people, thou art little grateful.  I came to thy court a poor
+pilgrim, and I have lived virtuously here; give me back my mule,
+my staff, and my scrip, as I came here, and I renounce thy
+service."  The Count would not that he should depart; but, for
+nought that he could do would he remain; and, as he came so he
+departed, and no one knew whence he came or whither he went.  But
+many held that he was a sainted soul'" (TC).
+
+	|130.  fecer contra lui~: "Who worked against him" with
+their calumnies.
+
+	|131.  non hanno riso~: I.e., they were punished for
+their evil deed by passing under the harsh rule of the Angevins,
+by way of Beatrice's marriage in 1246 to Charles of Anjou.  Since
+Beatrice was her father's heiress and at the time of her marriage
+was countess of Provence, her union with Charles of Anjou brought
+Provence into the possession of the royal house of France.  See
+^Purg.~ XX, 61.  |e per@o mal cammina~: "And that shows that he
+travels an evil road."  |per@o~ = ^perci@o.~
+
+	|132.  qual si fa danno~: "Whoever does himself harm." 
+|del ben fare altrui~: "By reason of another's good works." 
+Those who maligned Romeo did themselves damage, for they sinned
+in envy.  Cf. the definition of envy, ^Purg.~ XVII, 118-120.
+
+	|134.  li~ = ^gli.~
+
+	|136.  il~: Raymond.  |biece~ = ^bieche~, "crooked."  Cf.
+^Par.~ V, 65.
+
+	|137.  ragione~: "An accounting," i.e., of his
+administration.
+
+	|138.  che li assegn@o sette e cinque per diece~: "Who had
+rendered him twelve for ten."  |li~ = ^gli.~  |assegn@o~: The term
+^assegnare ragione~ belongs to the mercantile language of the day
+(see M. Barbi, 1934, p. 251).

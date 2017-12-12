@@ -1,0 +1,85 @@
+Return-Path: Robert.J.Brentrup@Dartmouth.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id JAA23678
+	for <steve@avalon.dartmouth.edu>; Mon, 9 Feb 1998 09:49:06 -0500
+Received: from dancer.Dartmouth.EDU (dancer.dartmouth.edu [129.170.208.7])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with SMTP id JAA26994;
+	Mon, 9 Feb 1998 09:49:00 -0500 (EST)
+Message-id: <52969471@dancer.Dartmouth.EDU>
+Date: 09 Feb 98 09:49:00 EST
+From: Robert.J.Brentrup@Dartmouth.EDU (Robert J. Brentrup)
+Subject: Re: Dante Project query
+To: kirk@princeton.edu
+Cc: steve@avalon.dartmouth.edu (Stephen Campbell),
+        information-systems@alexandria.dartmouth.edu
+
+--- You wrote:
+  2) We have been poking recently at the limited access capability
+that has been built at Dartmouth for accessing some of the
+Dante material via the Web:  
+http://dciswww.dartmouth.edu/cgi-bin/dcis/wdi?&Alexandria.Dartmouth.EDU&51001&Da
+rtmouth%20Dante%20Project&s   
+Again, we are wondering both how queries are formulated here, whether
+these are documented and whether this is an ongoing effort that
+will likely be extended.  We would consider linking our project
+to this one if the search capabilities (via URL) are strong enough.
+--- end of quote ---
+
+Hi,
+	Steve Campbell forwarded your message and asked me to respond to the
+question about the web interface to Dante.
+
+	We are supporting a number of other BRS databases on the web and tried
+to incorporate the Dante database too.  We plan to maintain and improve the web
+interface to DCIS.  There are a couple of issues that need to be addressed to
+make the Dante database work reasonably on the DCIS interface.  Some
+modifications to the Dante database or our software (or possibly both) could be
+made to improve access to the Dante database.  Obviously we need to understand
+Bob Hollander's objectives for a web interface too.
+
+	The basic keyword searching functionality of DCIS supports most of the
+capabilities of BRS.  DCIS has tried to abstract the search language from the
+underlying database because it works with several other engines too, so the
+search expressions need to formulated somewhat differently from BRS commands. 
+The basic functionality of the interface is documented at:
+
+http://www.dartmouth.edu/~library/infosys/dciswww/dcishelp.html
+
+	Using this information and some knowledge of the search fields, one can
+express the same kinds of queries documented in the "Dartmouth Dante Project
+Searchable Database User's Guide".  The line search is the major exception.  A
+database specific help page explaining the DANTE search fields could be added
+to the DCIS interface which would help new users.
+
+	The line search of the telnet interface relies on a field added to each
+record that encodes the language, cantica, canto number and line number in a
+compact form.  The language, cantica name and canto number are also available
+in text form and can be searched from DCIS in that way by "anding" 3 terms
+together (though not as efficiently).  However the line numbers are not readily
+accessible for the last term needed.  It is possible to get a similar effect
+with a truncated search on the coded field, but this is both inefficient and
+opaque to most users.  Either DCIS has to be extended to provide similar front
+end processing of the line search from an enduser (which we have not done
+because this is the only database in the collection that needs this capability
+and is a non trivial modification) or this coding needs to be redesigned to be
+allow more direct enduser use of this information.  For example a field
+containing only the list of line numbers.
+
+	The other issue with the database is the encoding of non-ASCII
+characters and typographic highlights in the data.  An SGML entity encoding for
+the extended character set would fit with current practice in the e-texts
+field.  DCIS is using SGML entities in a number of similar databases.  The
+typographic highlights could likewise be defined using SGML tags.  Otherwise a
+custom procedure is needed in the software to convert the database's current
+encoding to HTML on display.
+
+	Please let me know what else you are thinking are the "limitations" of
+the current system.  We would also be interested in knowing how you were
+planning to approach a web interface to the Dante Project.  Happy to continue
+this conversation by phone as would be useful to you.
+
+Robert Brentrup
+Director, Information Systems
+(603)646-1413
+
+	

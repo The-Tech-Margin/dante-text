@@ -1,0 +1,220 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id TAA31885
+	for <steve@avalon.dartmouth.edu>; Mon, 4 Jan 1999 19:53:51 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id TAA06340
+	for <Steve.Campbell@dartmouth.edu>; Mon, 4 Jan 1999 19:53:51 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 63100 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67516-22843>; Mon, 4 Jan 1999 19:53:08 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA04074
+	for <Steve.Campbell@dartmouth.edu>; Mon, 4 Jan 1999 19:52:54 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup70.Princeton.EDU [128.112.71.70])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA18615
+	for <Steve.Campbell@dartmouth.edu>; Mon, 4 Jan 1999 19:52:53 -0500 (EST)
+Message-ID: <3691627C.53EE3FFB@princeton.edu>
+Date: 	Mon, 04 Jan 1999 19:53:16 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: load order
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="------------586D302C7A21E17737613C28"
+
+This is a multi-part message in MIME format.
+--------------586D302C7A21E17737613C28
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------586D302C7A21E17737613C28
+Content-Type: text/html; charset=us-ascii; name="loadordr.htm"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="loadordr.htm"
+Content-Base: "file:///A|/loadordr.htm"
+
+<HTML>
+<HEAD>
+<META NAME="Generator" CONTENT="Corel WordPerfect 8">
+<TITLE></TITLE>
+</HEAD>
+<BODY TEXT="#000000" LINK="#0000ff" VLINK="#551a8b" ALINK="#ff0000" BGCOLOR="#c0c0c0">
+
+<P>Here is my cut at the load order for the new database. This list contains the </P>
+
+<P>comms in the order I propose to load them. The dates are mostly from the desc </P>
+
+<P>files, not the front matter. Two of the comms, landino and provenzal, will not </P>
+
+<P>actually be loaded this time, but they are in the list anyway as placeholders.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Please review this list for errors and advise.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>							Steve</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>Steve, three things first:</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>1) Cannot we keep a RANGE of dates for some comms., e.g., </P>
+
+<P>		Jacopo della Lana [lana], 1324-28</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>2) I trust you intend to keep the old footnotes intact (+ signs, * signs), with
+explanations at bottom of screen, as things are now.</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>3) The "footnote" about Pietro di Dante in that same space should be removed (we've
+now corrected that error).</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<BR WP="BR1"><BR WP="BR2">
+<P>I have entered changes AFTER the entries that should have same.  In certain cases
+this involves a change of order (just where marked by *), in others just a change in
+the date(s).</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>poem : 1320		poem: 1321</P>
+
+<P>jacopo : 1322</P>
+
+<P>lombardus : 1322</P>
+
+<P>lana : 1324			*graziolo: 1324</P>
+
+<P>graziolo : 1324		*lana: 1324-28</P>
+
+<P>guido : 1327		guido: 1327-28</P>
+
+<P>ottimo : 1333</P>
+
+<P>selmiano : 1337</P>
+
+<P>pietro1 : 1340		pietro1:1340-41</P>
+
+<P>pietro2 : 1355		pietro2:1344-55</P>
+
+<P>pietro3 : 1359		pietro3: 1359-64</P>
+
+<P>boccaccio : 1373		*cassinese: 1350-75[??]</P>
+
+<P>cassinese : 1375		*boccaccio: 1373-75</P>
+
+<P>benvenuto : 1380</P>
+
+<P>				*buti: 1385-95</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>NB: all changes in placement are ABOVE this line</P>
+
+<BR WP="BR1"><BR WP="BR2">
+<P>fiorentino : 1400</P>
+
+<P>serravalle : 1416		serravalle: 1416-17</P>
+
+<P>guiniforto : 1440</P>
+
+<P>landino : 1481		OMIT</P>
+
+<P>vellutello : 1544</P>
+
+<P>daniello : 1568</P>
+
+<P>castelvetro : 1570</P>
+
+<P>venturi : 1732</P>
+
+<P>lombardi : 1791		lombardi:1791-92</P>
+
+<P>portirelli : 1804		portirelli: 1804-05</P>
+
+<P>costa : 1819			costa: 1819-21</P>
+
+<P>rossetti : 1826-27</P>
+
+<P>tommaseo : 1837		tommaseo: 1837 [ed. of 1865]</P>
+
+<P>andreoli : 1856</P>
+
+<P>buti : 1858			SEE ABOVE: move up (1385-95)</P>
+
+<P>bennassuti : 1864		OMIT (he's not edited yet)</P>
+
+<P>longfellow : 1867</P>
+
+<P>disiena : 1867</P>
+
+<P>bianchi : 1868</P>
+
+<P>scartazzini : 1900		scartazzini: 1872-82 [2<SUP>nd</SUP> ed., 1900]</P>
+
+<P>campi : 1888-93</P>
+
+<P>berthier : 1892		berthier: 1892-97</P>
+
+<P>poletto : 1894		</P>
+
+<P>oelsner : 1899</P>
+
+<P>tozer : 1901</P>
+
+<P>ruskin : 1903</P>
+
+<P>carroll : 1904</P>
+
+<P>torraca : 1905</P>
+
+<P>grandgent : 1909		grandgent: 1909-13</P>
+
+<P>mestica : 1921		mestica: 1921-22  [1909]</P>
+
+<P>casini : 1921</P>
+
+<P>steiner : 1921</P>
+
+<P>dellungo : 1926</P>
+
+<P>vandelli : 1929</P>
+
+<P>grabher : 1934		grabher: 1934-36</P>
+
+<P>trucchi : 1936</P>
+
+<P>provenzal : 1938		OMIT</P>
+
+<P>pietrobono : 1946		pietrobono: 1946 [1924-30]</P>
+
+<P>momigliano : 1946		momigliano: 1946-51</P>
+
+<P>porena : 1946		porena: 1946-48</P>
+
+<P>sapegno : 1957		sapegno: 1955-57</P>
+
+<P>mattalia : 1960</P>
+
+<P>chimenz : 1962</P>
+
+<P>fallani : 1965</P>
+
+<P>padoan : 1967</P>
+
+<P>giacalone : 1968</P>
+
+<P>singleton : 1970		singleton: 1970-75</P>
+
+<P>bosco : 1979</P>
+
+<P>pasquini : 1982</P>
+
+<BR WP="BR1"><BR WP="BR2">
+</BODY>
+</HTML>
+
+--------------586D302C7A21E17737613C28--
+

@@ -1,0 +1,6 @@
+Tue Feb 14 17:10:13 EST 1989 preloaded para jvs
+Sat Apr 15 23:02:17 EDT 1989 jvs corrected .load files using checknew
+Sat Apr 15 23:02:30 EDT 1989 jvs preloaded corrected .load files
+Thu Apr 27 19:36:45 EDT 1989 jvs corrected load files using checknew and xfercheck
+Thu Apr 27 19:36:54 EDT 1989 jvs preloaded corrected files
+Mon Jul 31 10:37:23 EDT 1989 jvs deleted old pa.e file, renamed pa.f to pa.e

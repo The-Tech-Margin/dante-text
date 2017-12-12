@@ -1,0 +1,144 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.12.23.19.14.28;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@	/*
+	 * Strings for the 
+	 */
+	{
+/* BOLD */
+	"",
+/* ITALIC */
+	"",
+/* ROMAN */
+	"",
+/* DEGREE */
+	"",
+/* L_EUROPE */
+	"",
+/* R_EUROPE */
+	"",
+/* UP_AE */
+	"",
+/* LOW_AE */
+	"",
+/* UP_OE */
+	"",
+/* LOW_OE */
+	"",
+/* UP_GR_A */
+	"",
+/* LOW_GR_A */
+	"",
+/* UP_GR_E */
+	"",
+/* LOW_GR_E */
+	"",
+/* UP_GR_I */
+	"",
+/* LOW_GR_I */
+	"",
+/* UP_GR_O */
+	"",
+/* LOW_GR_O */
+	"",
+/* UP_GR_U */
+	"",
+/* LOW_GR_U */
+	"",
+/* UP_GR_Q */
+	"",
+/* LOW_GR_Q */
+	"",
+/* UP_AC_A */
+	"",
+/* LOW_AC_A */
+	"",
+/* UP_AC_E */
+	"",
+/* LOW_AC_E */
+	"",
+/* UP_AC_I */
+	"",
+/* LOW_AC_I */
+	"",
+/* UP_AC_O */
+	"",
+/* LOW_AC_O */
+	"",
+/* UP_AC_U */
+	"",
+/* LOW_AC_U */
+	"",
+/* UP_AC_Q */
+	"",
+/* LOW_AC_Q */
+	"",
+/* UP_CEDILLA */
+	"",
+/* LOW_CEDILLA */
+	"",
+/* UP_UM_A */
+	"",
+/* LOW_UM_A */
+	"",
+/* UP_UM_E */
+	"",
+/* LOW_UM_E */
+	"",
+/* UP_UM_I */
+	"",
+/* LOW_UM_I */
+	"",
+/* UP_UM_O */
+	"",
+/* LOW_UM_O */
+	"",
+/* UP_UM_U */
+	"",
+/* LOW_UM_U */
+	"",
+/* UP_CAR_A */
+	"",
+/* LOW_CAR_A */
+	"",
+/* UP_CAR_E */
+	"",
+/* LOW_CAR_E */
+	"",
+/* UP_CAR_I */
+	"",
+/* LOW_CAR_I */
+	"",
+/* UP_CAR_O */
+	"",
+/* LOW_CAR_O */
+	"",
+/* UP_CAR_U */
+	"",
+/* LOW_CAR_U */
+	"",
+/* TERMINIT */
+	"",
+/* TERMDEINIT */
+	"",
+	}
+@

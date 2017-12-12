@@ -1,0 +1,35 @@
+#
+# This is the second part of the preload shell script
+# found in each commentary directory. 
+
+PRELOAD=pl.jw
+
+#
+# Preload the desc file
+#
+
+$PRELOAD -desc desc
+
+#
+# Preload each of the inf, purg, and para subdirectories
+#
+
+[ -d inf ] && (
+	cd inf
+	[ -n "$INFPROEM" ] && $PRELOAD -proemio $INFPROEM
+	[ -n "$INFCOMM"  ] && $PRELOAD -comm $INFCOMM
+	echo Preloaded | note > /dev/null
+)
+[ -d purg ] && (
+	cd purg
+	[ -n "$PURGPROEM" ] && $PRELOAD -proemio $PURGPROEM
+	[ -n "$PURGCOMM"  ] && $PRELOAD -comm $PURGCOMM
+	echo Preloaded | note > /dev/null
+)
+[ -d para ] && (
+	cd para
+	[ -n "$PARAPROEM" ] && $PRELOAD -proemio $PARAPROEM
+	[ -n "$PARACOMM"  ] && $PRELOAD -comm $PARACOMM
+	echo Preloaded | note > /dev/null
+)
+echo Preloaded | note > /dev/null

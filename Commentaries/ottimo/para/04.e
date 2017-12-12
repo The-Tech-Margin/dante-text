@@ -1,0 +1,684 @@
+	|Proemio.~  Poi che l'Autore hae trattato nel precedente
+capitolo del voto, e manco d'esso, e' resta a vedere di certe
+dubitazioni circa il voto.  In questo capitolo, proseguendo la
+detta materia, intende di toccare li detti dubbi; e puotesi
+dividere il capitolo in V parti.  Nella prima parte l'Autore
+discrive la presente sua disposizione per essemplo.  Nella IJ
+muove due dubbi; l'uno circa il votato, tratto della essecuzione
+del voto per forza, se ne conseguita minore merito alla etterna
+gloria; l'altro dubbio @e circa la creazione dell'anime secondo la
+oppinione di Plato.  Nella terza risponde alle dette dubitazioni,
+e prima alla IJ, e poi alla prima.  Nella IIIJ dichiara uno
+dubbio, che potrebbe nascere dalle parole di Piccarda sopradette,
+e le parole del presente capitolo.  Nella V inchiere, se 'l voto
+si pu@o permutare.  La IJ parte comincia quivi -- ^Tu argomenti~
+ec.; la IIJ comincia quivi -- ^Ma perch@e puote~ ec.; la IIIJ
+quivi -- ^Ma or ti s'attraversa~ ec.; la V ed ultima quivi -- ^Io
+vo' saper, se l'uom pu@o soddisfarvi.~  Alla prima parte l'Autore,
+volendo mostrare sua disposizione al presente, introduce quella
+per essemplo.  Elli avea due dubbi nell'animo, ed avea iguale
+disio di sapere la veritade s@i dell'uno, come de l'altro; onde
+non sapea da quale si cominciare a volersi dichiarare, e per@o
+sta[va] quieto e nulla dicea; e pone li essempli cos@i: Se fosse
+uno uomo che per iguale distanzia di luogo avesse inanzi due
+cibi, l'uno a destra, l'altro a sinistra, ed avesse iguale
+desiderio cos@i dell'uno come dell'altro, dice che il detto uomo
+per sua libertade starebbe, e non accederebbe n@e all'uno, n@e a
+l'altro, s@i che si morrebbe di fame.  E la ragione @e questa:
+quando l'uomo @e libero, elli non accede a fare alcuna cosa sanza
+alcuno principio di volontade; lo quale principio viene nelli
+mangiari da appetito del cibo desiderato.  Or dato che li
+predetti cibi li sieno igualmente di lungi, ed igualmente
+desiderati, seguesi che 'l principio di volontade non puote
+essere pi@u all'uno che a l'altro, e per conseguente mai non
+deliberrebbe d'andare pi@u a l'uno che a l'altro; e cos@i starebbe
+in quiete.  Simile essemplo toglie: se uno agnello fosse intra
+due lupi, per la equale paura che avrebbe s@i dell'uno come
+dell'altro, non attenderebbe di fuggire da l'uno, perch@e essa
+fuga sarebbe accedere a l'altro, e cos@i starebbe in quiete.  Un
+altro simile essemplo pone d'uno catellino chiamato da due donne,
+che igualmente lo lusingassono, o igualmente lo minacciassono,
+che esso starebbe, n@e accederebbe n@e all'una n@e a l'altra, non
+sappiendo diliberare a quale s'andasse.  E cos@i dice l'Autore: io
+era sospinto da' miei dubbi s@i igualmente, ch'io non sapea da
+quale io mi cominciassi; e per@o tacea, e nulla dicea.  Alla IJ e
+IIJ parte @e da sapere, che il voto il quale alcuno fae, s@i @e
+promessione a Dio fatta, la quale di necessitade si dee ridurre
+in atto; e richiede due parti, le quali contraggono la
+obbligazione del voto: l'una @e colui che promette, l'altra @e
+colui a cui @e promesso; e per@o che 'l voto @e promessione fatta a
+Dio, chi promettesse a Dio di fare uno peccato, Dio non accetta
+il voto, per@o ch'[in] Dio non cade peccato; e per conseguente non
+@e obbligatoria cotale promessione, e non @e da osservare, per@o che
+l'una parte de' contraenti non @e contenta.  E per@o dice santo
+Tommaso, nella Seconda della Seconda: il voto non dee essere di
+vizi, per@o che Dio non [lo] acetterebbe.  Ancora, non cade voto
+sotto necessit@a di cosa che per altro modo non si possa avere, s@i
+come chi botasse a Dio: io convengo pure morire; o, io voto a
+Dio, ch'io non sono uccello.  E per@o intorno a cotali cose non @e
+inteso il voto; ma cade voto nelle cose contingenti che possono
+venire, e possono non venire, s@i come promettere religioni, che
+puote essere e non essere: li quali voti debitamente fatti, cio@e
+di vertuosi atti, si convengono osservare ed aempiere; onde il
+Salmista: ^Reddam tibi vota mea.~  Onde veduto, che il voto
+debitamente fatto si dee ridurre a perfezione; dato, come @e
+detto, che Piccarda facesse voto debitamente d'osservare
+religione, perch@e 'l voto @e atto virtuoso; seguesi a dubitare, se
+essa fu tratta di tale voto per forza, se le dee essere diminuito
+merito alla seconda vita; e pare che non sia ragionevole, n@e
+giusto di diminuirgliele.  Alla quale dubitazione risponde
+Beatrice con distinzione; e dice, che la volont@a ossoluta non pu@o
+essere sforzata, ma quella che per rispetto ad alcuna cosa puote
+bene essere sforzata.  La soluta, come pruova il Filosofo nel IIJ
+dell'Etica, non pu@o mai sottrarsi dal debito; ed ordinato fu il
+voto della religione, ad avere e possedere quella ultima
+felicitade, che @e beatitudine; ma la volont@a respettiva alcuna
+volta fae e consente uno male, per ischifare uno maggiore. 
+Piccarda venne in questa volontade seconda, e lasciosi anzi trare
+fuori del monisterio, e consent@ie, anzi che volesse stare in
+sulla volontade ossoluta, e lasciarsi morire.  E per@o che alcuna
+cosa conferisce la sua volontade a colui ch'@e isforzato, per
+volere scampare la vita usc@ie del monisterio, e non stete
+costante alla volont@a assoluta: per@o la giustizia di Dio, che
+giusta contrapesa, [le scem@o] la gloria che si confae alla
+perfezione del voto ch'ella fece.  E questo ch'@e detto di
+Piccarda, secondo questa Commedia, si dee intendere anche di
+quella Gostanza.  Alla seconda dubitazione si @e da sapere, che li
+filosofi antichi usavano discrivere alcuna volta loro filosofie
+in forma poetica, e con molte metafore e allegorie; intra le
+quali Plato, volendo trattare dell'anima, scrisse che si formava
+lo embrione [del] corpo umano, e quando viene al punto d'animarsi
+il feto, allora l'anima li ven@ia dalli cieli: ad alcuno viene dal
+cielo di Mercurio, ad alcuno dal cielo di Marte, ad alcuno dal
+cielo di Saturno ec.; ed unita stava col corpo tutta la vita
+dell'uomo; e quando per morte si partiva, tornava al suo primo
+luogo: se era discesa dal cielo di Mercurio, al cielo di Mercurio
+si tornava ec.  Della quale oppinione fa il Filosofo menzione nel
+primo dell'Anima, l@a dove connumera l'oppinioni de' filosofi
+circa l'anima; e li ripruova, chi per essere scritto in forma
+poetica, che non si conviene a Filosofo; e chi per difetto
+d'ignoranzia della vera essenzia e [diffini]zione dell'anima. 
+Alla questione predetta e dubitazione responde Beatrice, dicendo
+quello che Plato nel Timeo scrisse intorno a questo fatto
+dell'anima.  [E] se s'intendesse come la lettera suona, sarebbe
+errore; ma forse elli ebbe altro intendimento, cio@e che li uomini
+ricevano influenzia dalle stelle, e sicondo essa operano per
+naturale instinto; e cos@i secondo cotale operazione si riferisce
+l'onore e 'l disonore alle stelle; ch@e Jove, secondo astronomia,
+fa li uomini di tale complessione, che sono adatti ad essere
+benivoli; Marte ad essere iracundiosi; Mercurio a scrittura: e
+questo, secondo ch'@e detto, per naturale [i]stinto.  Adunque si
+puote intendere la lettera di Plato, che la influenzia viene
+dalle stelle, e l'onore e l'altro si pu@o referire alle stelle.  E
+secondo l'Autore, se s'intendesse per questo modo, non sarebbe
+mala sentenzia.  Alla IIIJ parte, la volontade assoluta, per@o che
+procede dallo intelletto razionale, mai non consente ad alcuno
+disordine, secondo santo Tomaso nella IJ della IJ: ^Actus
+voluntarius nihil est aliud, quam inclinatio quaedam procedens ab
+interiori principio cognoscente.~  E per@o, se la volontade
+assoluta consentisse ad alcuno disordine, o vero danno, sarebbe
+contra la sua naturale inclinazione; ch'@e impossibile.  Ma la
+volontade respettiva pu@o bene consentire a disordine e danno,
+credendo schifare maggiore danno, o maggiore disordine.  Lo primo
+movimento li viene di fuori, s@i come per paura di morire, per la
+quale somette l'uomo a fare alcuno vizio, per lo quale fare
+schiferebbe la morte.  Onde dice santo Tomaso predetto, che
+quello che intende la volontade, peccando eziandio se si[a] male,
+e contra la razionale natura, s'aprende secondo la verit@a della
+cosa, [e] come buono e conveniente alla natura, in quanto @e
+conveniente allo uomo, come @e che il senso schifa alcuna
+possanza; o secondo alcuno abito corrotto: onde la volont@a @e da
+distinguere, s'ella @e assoluta o respettiva.  Il dubbio, che
+Beatrice dice, si @e, che se Piccarda o Gostanza fossero state
+costante e ferme alli suoi monesterii, ed avessero auta volont@a
+assoluta, non avrebbero auta minore gloria; ma perch@e
+consentirono alla violenza loro fatta, si scem@o il merito, e per@o
+la giustizia di Dio scem@o loro la gloria.  E Piccarda ha detto di
+sopra, che mai ella n@e Gostanza non furono mai sciolte n@e partite
+dal velo; sicch@e si pare contraddire Beatrice e Gostanza, e nulla
+anima pu@o mentire: alla quale cosa @e da sapere, che l'una e
+l'altra dice vero, e che Beatrice assolve per distinzione, come
+appare nel testo; ch@e Beatrice intese della volont@a assoluta, e
+Piccarda intese della non assoluta.  Piccarda e Gostanza aveano
+volont@a non assoluta, ma secondo ^quid~; cio@e disposta a
+religione; ma per paura di morte si dispuosero alla voglia de'
+suoi parenti, la quale non fu voglia assoluta.  Alla V cosa, il
+voto @e promessione fatta a Dio, alla quale si richiede la
+volontade ed affermazione delle parti; il quale fatto ragionevole
+non @e giusto da se medesimo permutarlo.  Se ragione mi d@ae ch'io
+mi possa obligare, io medesimo non mi concedo, ch'io sanza pagare
+possa me medesimo dalla obligazione assolvere.  Il voto @e uno
+sagrificio a Dio, ed uno unirsi di volont@a con lui; nel quale
+sacrificio hae due cose, l'una si @e quella di che dee essere il
+voto, come @e viaggio o digiuno, l'altra @e la promissione fatta
+nel voto.  La prima si pu@o permutare pel consiglio del prelato
+eclesiastico che ne abbia autoritade, lo quale @e vicario di Dio
+in terra; ma non @e bello a fare cotali permutazioni. ^In actibus
+Apostolorum: quodcumque voveris, redde.~  La promessione, secondo
+l'Autore, non si pu@o permutare n@e assolvere, per@o che cadrebbe in
+infidelitade; s@i che mai, se non pagata, non @e prosciolta questa
+seconda cosa.  %c.  0 4
+
+	|1-4.  Intra due cibi~... |S@i si starebbe~ ec.  Chiaro
+appare, per quello ch'@e detto.
+
+	|7.  Perch@e s'io mi tacea~ ec.  E questo s'induce alli
+toccati essempli.
+
+	|10-11.  Io mi tacea~ ec.  Dice, che nella sua faccia si
+di[s]cernea il dubbio (nella faccia dell'uomo si legge la sua
+secreta volontade); e non sola la voglia li appareva, ma gi@a la
+domanda con la voglia.
+
+	|13-15.  Fessi Beatrice~ ec.  Dice, che Beatrice, vedendo
+l[i] att[i] dell'Autore, e conoscendo in essi li secreti
+dell'animo, si fece tale, quale Daniello profeta fece
+Nabucdonosor re della grande Bambilonia, levandolo della ira,
+nella quale elli era contra li magi ed arioli ed indovini del
+paese; la quale ira li aveva contra coloro fatto contra giustizia
+di malo intendimento.  Leggesi nella Bibia, libro di Daniello,
+cap. XI, come @e detto di sopra, capitolo XIX ^Inferni~, che 'l
+detto Nabucdonosor sogn@oe una notte uno terribile sogno, il quale
+il turb@oe tanto, che poi nulla se ne ricordava.  Fece convocare
+li magi, arioli, ed indovini ed astrologi d'Assiria e da
+l'Oriente, alli quali disse: sognai cotale notte uno sogno, il
+quale m'hae molto ispaventato; d'esso non mi ricordo; voglio da
+voi il sogno e la sua significazione.  Rispuosero, che poi che
+esso, che l'aveva veduto, nol sapeva commemorare, che essi nol
+poteano sapere; ma dicesse il sogno, ed elli lo sporrebbono.  Il
+re adirato disse, ch'elli erano ingannatori del mondo, per@o che
+s'elli sapessono per alcuno modo la significazione, per quel
+medesimo sapere dovevano la sustanzia del sogno: feceli mettere
+in carcere con intenzione di farli morire il d@i appresso, se 'l
+sogno non avessero detto ed interpetrato.  In quelli tempi era
+essuta la presura del popolo d'Isdrael fatta per lo detto re; ed
+infra li presi era Daniel profeta, il quale domand@o questi savi,
+perch@e erano messi in pregione; ed udita la cagione, mand@o per lo
+mastro giustiziero, e disse: va al signore, ed anu[n]ziali che
+s'egli vole, io li dir@o domane il suo sogno e la sua
+significazione; ma voglio ch'elli ritardi la morte alli savi,
+infino a tanto ch'elli oda il sogno, poi ne faccia quello che gli
+piace.  Fatta l'ambasciata, piacque a Nabuc.  Daniello si misse
+in orazione, e preg@o Idio che li rivelasse il sogno e la
+significazione.  Dio lo essaud@i.  La mattina fu dinanzi dal
+signore, e disse a lui, che per iscienzia umana non si poteano
+sapere tali cose; ma solamente si sapeano per revelazione del
+Creatore del Cielo e della terra, il quale era Idio che esso
+Daniello adorava; il quale liber@oe il popolo d'Isdrael delle mani
+di Faraone; dal quale elli aveva per revelazione, che Nabuc aveva
+sognato ch'elli vedeva una imagine avente la testa d'oro, il
+collo e le spalle d'argento, il busto di rame, le gambe di rame,
+li piedi una parte di ferro ed una di terra; ed una pietra
+partita dal monte sanza operazione di mani, la quale percosse la
+statua nelli suoi piedi del ferro e di terra, e diminuilli;
+allora atutati sono parimente il ferro, la terra, il rame,
+l'argento e l'oro, e redutte quasi in favolesca che sia portata
+dal vento; e [in] nullo luogo @e trovata ess[a]; e la pietra @e
+fatta grande, e empi@eo tutta la terra.  La quale significava il
+decorso delle Signorie per l'etadi del mondo: per la testa, il
+regno di Bambilonia; per lo argento, il secondo regno apresso
+quello; per lo rame, il regno d'Alessandro; per lo ferro, quello
+de' Romani; per lo ferro e terra, quello medesimo regno, il quale
+fia diviso in s@e; la pietra @e Cristo, il quale nelli d@i delli
+regni su[s]citer@a il regno, il quale non si dissiper@a in etterno;
+ed il regno suo non sar@ae dato ad altri.  Il quale regno
+comminuir@ae e consumer@ae tutti gli altri regni, ed esso star@ae in
+etterno.  Narrato il sogno, e fatta la esposizione, il re usc@ie
+della ira e mal volere che aveva contra li savi, per@o che
+cognobbe che per iscienzia umana cotali cose non si poteano
+sapere, e trasse Daniello di pregione, e fecelo principe sopra
+grande parte del suo imperio.  Onde l'Autore essemplifica, che s@i
+come Daniello fu ramentatore e dichiaratore del sogno di
+Nabucdonosor, per lo quale elli era adirato e infellonito
+ingiustamente contra li savi; cos@i Beatrice fue pronosticatrice e
+revelante [de]lli pensieri e dubbi che avea l'Autore, non
+esprimendo, n@e sappiendo, n@e potendo per s@e per le ragioni sopra
+dette manifestare alcuna cosa.
+
+	|16-18.  E disse: Io veggio~ ec.  In questa parte
+Beatrice manifesta all'Autore il disiderio ed occupazione ch'elli
+hae, e la cagione dello impedimento perch'ello non lo manifesta.
+
+	|19-24.  Tu argomenti~ ec.  In questa parte Beatrice
+manifesta allo Autore e propone due dubbi, che tirano l'animo
+dello Autore: l'uno @e, se 'l buono volere dura, come la violenza
+scema il merito; l'altro, se gli @e vera la posizione che gli
+parve ch'avesse Plato filosofo, che tenea che l'anime si
+partissino dalle stelle, quando veniano nel corpo umano, poi
+nella morte si ritornassono ad esse.
+
+	|25-27.  Queste son le question~ ec.  Propo[st]e le due
+questioni, dice destinguendo, che l'una @e pi@u amara che l'altra e
+velenosa; e per@o d'essa tratta e disputa prima; e dice, che
+avegnach@e li predetti dubbi pontino igualmente nella volont@a
+dell'Autore, impertanto elli erano troppo diseguali; e per@o che
+'l dubbio, che puote generare eresia, @e troppo pi@u crudo e amaro
+che gli altri, tenere dell'anima altro che quello che ne sente la
+Chiesa, @e pravitade eretica; onde cotale dubbio @e venenoso:
+dubitare del pi@u o meno merito dell'anima, non puote ingenerare
+eresia.
+
+	|28-39.  De' Serafin~ ec.  |Non hanno~... |Qui si
+mostraro~ ec.  Alla principale questione, cio@e quella che puote
+tenere vizio, e tiene di resia, qui Beatrice risponde in questa
+forma: Quello spirito dell'ordine de' Serafini, che pi@u @e presso
+a Dio, che per caritade (se dire si potesse) pi@u s'acosta alla
+essenzia divina; e Mois@e, il conducitore del popolo di Dio, e
+primo ricevitore della legge di Dio, e Samuel profeta; e quello
+san Giovanni, che tu, o uomo, prendere vogli, non prendendo
+quello che il nostro Signore diede in sulla croce in figliuolo
+alla sua sconsolata Madre, ma quello del quale Cristo disse:
+<Intra coloro che sono nati delle femine, non si lev@o maggiore di
+Giovanni Batista>; non hanno in altro Cielo li loro scanni, che
+Piccarda e Gostanza: e quelli altri spiriti che ora ti
+apparirono, n@e sono n@e pi@u vecchi, n@e pi@u giovani di quelli, ma
+tutti adorano il primo e grandissimo Cielo; avegna che diferenzia
+abbia dalla dolcezza della vita di quelli, alla dolcezza della
+vita di questi: per@o che quello Serafin, che pi@u sente dell'amore
+divino, e quello Mois@e datore della riceuta legge, e quello
+Samuel primo unitore delli re del popolo di Dio, e quello
+Giovanni, primo batezzatore e profeta dimostrativo, sentono
+maggiore dolcezza, per@o che 'l meritano, e per conseguente
+giustamente sono pi@u capaci di gloria, che quelle professe nelli
+monisterii, e tratte al mondo non acquistarono; e per lo minore
+merito sono meno capaci, e per conseguente s'empiono di minore
+gloria.  Ma qui si mostrano, non perch@e questa infima spera sia
+in loro parte, ma per dimostrazione di gradi celestiali, e che
+questo @e il pi@u basso grado delli beati, e per@o sono meno saliti
+verso il cospetto di Dio.  E cos@i tacitamente solve e toglie via
+la oppinione di Plato, la quale parea seguitare l'Autore intorno
+alle anime.  Onde qui si mostra per lo detto di Beatrice, che la
+grazia di Dio non stae in distanzia locale, ma in ca[pacit@a]
+d'intelligenzia del Creatore.  E puotesi dare cotale essemplo in
+questi sensibili atti: Aristotile fu greco, e componitore di
+libri di grande intendimento; fia uno in Grecia, ed avr@a li suoi
+libri nella cittade, dove elli fue sepolto, intenderalli
+perfettamente; sar@ae uno similemente in Inghilterra, avr@ae li
+simili libri, e intenderali in quello grado di perfezione che il
+Greco: per distanzia di luogo non sar@ae nello intendere
+vantaggio; e ci@o aviene, perch@e le scienzie sono obietto de'
+sensi, avegnach@e, qu[anto] a l'ordine di parlare, a noi abbia
+principio dalli sensi; e questo avviene per la compagnia che
+l'anima hae con lo corpo, lo quale la offusca, e tra[e]la alle
+basse e vili passioni.  Cos@i a simile, l'anime che sono in
+Paradiso secondo questa oppinione, che [si] contiene nella
+soluzione di Beatrice, sendo distanzia locale non hanno
+differenzia, ma sono differenti secondo intendere pi@u e meno
+della eccellenzia del Creatore.  Li Serafini sono moltitudine di
+celestiali spiriti, li quali ardono ed incendono dentro d'amore
+di Dio, per@o che propio di questo ordine @e dinanzi alli altri
+ardere in caritade, e di promuovere li altri allo amore divino; e
+per@o, secondo Isidero, [i] Serafini sono [de]tti Ardenti, per@o
+che non si dubita ch'elli facciano li altri ardenti nel divino
+amore.  E dice, che intra li Serafini e Dio nulli Angioli altri
+sono in mezzo, e per@o cuoprono la faccia e li piedi di Dio
+sedente, per@o che tutti gli altri Angeli non possono pi@u
+perfettamente di costoro apprendere la divina maiestate; e per@o
+di tanta maggiore caritade senza dubbio sono illuminati, quan[t]o
+di pi@u ardente movimento del divino amore sono infiamati.  Mois@e
+ebbe tanta grazia nel cospetto di Dio, ch'elli il fece
+conducitore del suo popolo, e per le sue mani diede le leggi alli
+Giudei, e maravigliose cose fece per le sue operazioni ed
+orazioni, le quali sono scritte ne l'Essodo, nel Levitico, nel
+libro de' Numeri, e nel Deuteronomio; nella fine del quale libro
+@e scritta la sua morte, dinanzi alla quale Dio li mostr@oe la
+terra di promessione, dicendo: <Questa @e la terra per la quale io
+giurai ad Abraam, Isaac, e Iacob, dicendo: io la dar@oe al seme
+tuo; tu l'hai veduta, ma tu non passerai ad essa.  Morto @e
+adunque Mois@e, servo di Dio, nella terra di Moab, comandante il
+Signore; e fue seppellito nella valle della terra di Moab contra
+Fegor, e non seppe uomo la sepoltura sua in fino nel presente
+die.  Di CXX anni era quando elli mor@ie, e non erano incaliginati
+li occhi suoi, n@e li suoi denti mossi>.  Samuel nacque per le
+orazioni che fece la sua madre a Dio; per mano di costui unse
+Idio Saul e Davit primi re de' Giudei; per la cui bocca dava Idio
+molte risposte e comandamenti s@i al popolo, e s@i alli detti re. 
+E molti miracoli fece per lui san Giovanni Battista: questi
+nacque di santa Elisabet, [cu]gina di santa Maria, e di Zacheria;
+questi fue anu[n]ziatore di Jes@u Cristo, e fu l'utimo de'
+profeti; elli profetezz@oe Cristo anzi che esso [nascesse].  Idio
+il santific@oe nel ventre della madre; elli conobbe Idio anzi che
+l'avesse veduto, e mostrollo a dito; elli medesimo il battizz@oe;
+suo vestimento fue lana di ca[mme]llo; abit@oe in romitaggio e
+deserto; sua vivanda fue mele e locuste; alla perfine Erode il
+misse in pregione, perch@e egli dicea male, e il biasimava della
+moglie del fratello, che gli aveva tolta; donde poi a' prieghi
+d'Erodia[de] sua figliuola li fece tagliare la testa, e donolla
+alla fanciulla; ed ella la present@oe alla madre.  Fue sepellito
+in Sabastia, a una villa di Palestina.
+
+	|40-48.  Cos@i parlar~ ec.  Qui mostra l'Autore, come fue
+convenevole parlare per cotale modo, quale elli fece, discrivendo
+quelle anime nella spera della Luna, per mostrare che gradi di
+distanzia di luogo abbia in Paradiso; la quale distanzia per
+altra pi@u convenevole guisa non vide ch'elli potesse mostrare. 
+Cos@i di voi, dice elli, parlare conviensi al vostro ingegno, per@o
+che voi non potete intendere per voi, se prima tale intendere non
+ha essordio dalli vostri sensi.  Dunque fue di bisogno, per
+dar[vi] a intendere li gradi di Paradiso, mostrarlivi per
+differenze sensibili, acci@o che per li siti e luoghi pi@u alti e
+meno voi intendiate, quelle anime pi@u altamente e meno altamente
+intendere la essenzia e la grazia del Creatore; e per conseguente
+quella, che perfettamente intende, pi@u participare della gloria
+del Signore.  E che ci@o sia vero, aduce per pruova quello che ne
+fa la Chiesa nelle sue figure e scritture, la quale, acci@oe che
+meglio s'intendano, iscrive Idio in figura d'uomo, ed
+atribuiscegli mani e piedi, capo e viso, avvegnach@e tali
+distinzioni sieno similitudini e allegorie; e dipinge li Angioli
+in figura umana, come Michel, Gabriel, e Raffael; s@i che la
+Chiesa condiscende a cotali termini per agevolare nostro
+intendimento.  Onde l'Autore, seguitando cotale stile, vuole dare
+ad intendere il pi@u e il meno nella gloria; descrivendo l'anime
+pi@u e meno alte secondo il sito; e dice: cos@i condiscende la
+santa Scrittura alla nostra possibilitade, attribuendo a Dio
+capo, ed intendendo per quello, ch'elli @e capo e principio di
+tutto: ^Ego sum alpha et omega~, cio@e principio e fine.  Ed
+atribuisceli mano, nella quale si denota ed intende la potenzia;
+piede, nel quale consiste tutta la pausazione e fermitade della
+essenzia.  Gabriel fu quello, che fue mandato alla Vergine Maria
+ad anu[n]ziare la Incarnazione di Cristo: ^Missus est Angelus
+Gabriel ad Mariam~ ec.  Michael, questi @e descritto princip[e]
+della milizia celestiale nel cacciamento delli spiriti superbi
+dal Cielo nell'abisso.  Rafael fu quello Angelo, che Dio mand@o a
+sanare e consolare Tobia.  Fue Tobia del tribi di Neftalin, sua
+moglie Anna, suo figliuolo T[o]bia.  Costui, dimorando intra li
+captivati Giuderi in Ninive in grande povertade, adorava
+divotamente Idio, e molto era pietoso ed ossequioso circa le
+sepolture degli uccisi Giuderi; il quale fatigato un die circa il
+sepellire, si gitt@o per posare in sullo letto; una rondine
+trapassante li schizz@oe nelli occhi il suo sterco, ond'elli perd@e
+la veduta; non si turb@oe, ma refer@ie grazie a Dio.  Anna pasceva
+il marito ed il piccolo figliuolo della sua fatica.  Il cieco
+padre chiama il figliuolo: vedi, disse, la nostra povertade;
+Gabello di Ragies @e nostro debitore, ed avemone scritta di sua
+mano; io voglio che tu vada a lui; va alla piazza, e cerca
+d'alcuno che ti sia guida e conducati in quelle contrade; tu lo
+provederai della sua fatica.  And@oe, e trov@oe uno molto bello
+giovane, ed aconcio a caminare; al quale elli rispuose, che
+andava in Ragies; menollo al padre.  Questi @e quello Rafael, di
+che qui si fa menzione, che aveva presa forma umana.  Convennesi
+col vecchio Tobia, e promissegli di menare e di ritornare il
+figliuolo sano e salvo.  Era Raguel della trib@u di Neftalin, a
+cui era una figliuola ch'aveva auti VIJ mariti, strangolati
+ciascuno la prima notte del matrimonio da uno demonio che
+adombrava costei.  La quale cosa il padre si riputava a grande
+vergogna, e pensoso n'era.  Una serviziale d'essa lo rafront@oe
+alla fanciulla; ond'ella ador@oe, e preg@o divotamente Idio, che la
+liberasse di quella infamia.  L'orazione piacque a Dio; l'Angiolo
+conduce il piccolo Tobia verso Ragies; una sera giunti in sulla
+riva d'Eufrates, disse l'Angelo al fanciullo: buono @e che ti lavi
+li piedi nel fiume; gioveratti al caminare.  Tobia obbed@ie, e
+lavandosi vide uno grande pesce, e per comandamento di Rafael il
+prese; tolse il fegato e il fele, e conservolli.  Approssimandosi
+a Ragies, l'Angelo disse: noi andremo a Ragies; elli @e
+ricchissimo uomo, ed @e del t[u]o tribri; hae una figliuola,
+voglio che tu la tolga per moglie, e daratti grande parte delle
+sue ricchezze.  Tobia disse che non la volea, per@o ch'ella
+occidea tutti li suoi mariti; e cos@i era da temere di lui. 
+Rafael disse: non temere; quando tu l'arai isposata, e sarai con
+lei in camera, far@ati apportare carboni accesi, e gitter@avi suso
+il terzo del fegato del pesce che tu hai, e farai cos@i tre notti,
+e non la toccare, ma stae in orazione; la quarta notte sta con
+lei, e non dubitare.  Ma elli @e da fare cos@i: noi perveremo alla
+casa di Raguel, e daremolici a conoscere; elli ci far@a grande
+festa; allora tu di' che non mangerai n@e berai, se non ti fa uno
+dono; quando l'ar@ae promesso, domandagli la figliuola per moglie. 
+Cos@i feciono.  Furono fatte le nozze; nella quale festa ricover@oe
+il debito, ebbe moglie, ed ebbe dote, mezze le facultadi di
+Raguel.  L'Angelo il rimen@oe con la nuova moglie a casa.  Tobia,
+secondo l'amonimento di Rafael, unse gli occhi del cieco padre
+col riserbato fiele del preso pesce; Dio li ristitu@i la veduta. 
+Volle dare il promesso merito e pi@u doni a Rafael; colui ricusa
+li doni, e dimostra s@e essere messo da Dio, dispar@ie, e torna ad
+aministrare dinanzi allo suo Creatore.  Questa istoria fu figura
+di Cristo, s@i come si manifesta per li dottori nella esposizione
+del libro di Tobia.
+
+	|49-51.  Quel che Timeo~ ec.  In questa parte dice il
+testo, che l'Autore non sent@ie, n@e ebbe quella oppinione ch'ebbe
+Plato quando scrisse il libro chiamato Timeo; del[la] quale
+oppinione e reduzione a comportabile lettera @e scritto di sopra
+nella grande chiosa sopra tutto il capitolo, dicendo: come elli
+argomentava quivi, cos@i pare ch'elli senta; ma quello che qui
+s'introduce, @e per alleggiare fatica allo intelletto umano, il
+quale solo da sensato apprende.
+
+	|52-54.  Dice che l'alma~ ec.  Qui introduce le parole di
+Plato, il quale disse che quando l'anima si part@ia dal suo mortal
+corpo, ch'ella tornava a quella stella, della quale elli credea
+ch'ella si fosse partita e gi@u caduta, quando la natura la diede
+per [f]orma ad alcuno corpo.  L'anima @e forma, e il corpo @e
+materia.
+
+	|55-60.  E forse~ ec.  Qui si sforza di salvare la
+lettera di Plato, dicendo che forse elli la intese con intenzione
+da non essere schernita, cio@e che l'onore e l'altro che l'uomo
+hae per influenzia d'alcuna stella, torna a quella stella, s@i
+come @e detto nella soprascritta grande chiosa.  Cio@e, s'elli
+intende che li atti umani, che seguono le passioni, sieno causati
+dal Cielo, e dalli moti e dalli aspetti de' corpi celesti, ed a
+quelli referiscene l'onore e biasimo di quelli atti; s@i come
+azioni naturali e procedenti dalla complessione qualitata dalli
+corpi di sopra in parte, s@i come manifestano li savi e medici
+naturali; non @e stolta cosa a dire.  Ed aduce l'antica
+consuetudine de' Pagani, che considerava la complessione
+dell'uomo; e se era benivola, diceva che l'anima sua era del
+cielo di Jove; se sottile, del cielo di Mercurio ec.; credendo, e
+semplicemente confessando essere l'anime di l@a su da quell[i]
+[cieli] descese e dispiccate: la quale supposizione sarebbe
+eronea contra la fede cattolica, e contra a libero arbitrio.
+
+	|61-63.  Questo principio~ ec.  Dice, che perch@e quelli
+antichi male intesero il testo di Plato, in ci@oe che andarono
+pure alla intenzione superficiale della lettera, credendo che da
+quegli pianeti fosse ogni nostra operazione buona e rea, s@i
+deificano li pianeti ed adorano, faccendo a ciascuno suo
+singulare sacrificio e festa e consuetudini, s@i come appare in
+libro ^De sacrificiis Deorum.~
+
+	|64-69.  L'altra dubitazion~ ec.  Qui tocca l'altra
+dubitazione, dicendo ch'ella hae meno veneno, per@o che non puote
+menare uomo da quello che tiene la teologia ad alcuna eresia; e
+rende la ragione, che @e questa: che per@o che ad alcuno paia, che
+la giustizia di Dio sia ingiusta, s@i come @e diminuire la gloria a
+colui che non ha compiuto il suo voto, per@o ch'elli fue
+interrotto per forza, non @e argomento ch'elli erri in fede, anzi
+@e argomento ch'elli crede che Idio sia (poich'elli lo fae alcuna
+volta) meno giusto; come se io dico: quelli @e uomo rigido; io non
+dico per@o ch'elli non sia uomo.
+
+	|70-72.  Ma perch@e puote~ ec.  Quasi dica: l'assoluzione
+di questo dubbio fia tale, che si conformer@a a[l] piacere di voi
+uomini; e, secondo vostro morale vedere, vedrai il vero.
+
+	|73-75.  Se violenza~ ec.  Ad intelligenzia di questo
+testo @e da sapere, che il Filosofo parte e distingue l'appetito
+in volontario, e in involontario; e lo involontario, in
+involontario per forza, e involontario per ignoranza; e quello
+ch'@e per violenza, in violenza semplice, e in violenza
+respettiva.  E dice, che come il voluntario hae suo principio
+dentro; cos@i lo involuntario simplicemente @e quando l'appitito
+dentro non concorre; ed hae differenzia l'appitito involontario
+simplicemente, dallo appetito involontario respettivo; per@o che
+al respettivo concorre alcuno consentimento dentro per schifare
+alcuna cosa grave.  In quanto questo secondo elegge per ischifare
+peggio, egli @e quasi azione la quale @e premio di vendetta, se @e
+peccato, o premio di virt@u: adunque questo [@e] premio di
+giustizia che remunera e punisce li atti umani.  Se @e violenza
+semplicemente, quella non pi[ega] la volontade, n@e l'appetito @e
+in alcuno modo o vero luogo, e per@o non li consegue alcuna
+novitade n@e di merito, n@e di pena: e s'ella @e violenza
+respettiva, tanto quanto l'appetito conferisce dentro alla
+violenza, tanto le ne segue novitade; per@o che, come @e detto, a
+tale violenza si segue quasi volontade, in quanto opera quello
+principio di volere, s@i che ella @e volontade eziandio respettiva. 
+E se l'operatore facesse novitade, nullo dubita che la giustizia
+ricompenserebbe o in grazia o in pena, secondo tale operare [@e]
+vizio o virtude.  Onde chiaro appare, che l'uno stremo si @e
+involontario non violentato; l'altro stremo @e involontario, al
+quale non concorre alcuno consentimento intrinseco; l'altro si @e
+involontario, ma concorregli alcuno principio d'apetito dentro. 
+-- |Se violenza @e quando~ ec., dell'uno stremo, cio@e
+involontario, al quale non concorre appetito.  -- |Non foran~
+ec., cio@e non sarebbe scemata la gloria in Piccarda e Gostanza.
+
+	|76-78.  Ch@e volont@a~... |Ma fa come natura~ ec.  Qui
+pone essemplo a questo stremo, ch'@e simile alle naturali azioni;
+s@i come appare nella fiamma del fuoco, che infino ch'ella dura,
+sempre tende in su; e se alcuna volta per vento piega in
+traverso, come tosto cessa il vento, s@i torna in su, come @e sua
+natura; e cos@i la volont@a asoluta, se mai @e piegata a traverso,
+come cessa lo sforzare, cos@i ritorna in suo stato, n@e mai
+conferisce, n@e s@e conforma allo sforzato[re].
+
+	|79.  Perch@e s'ella si piega~ ec.  Qui tocca il mezzo
+intra le due stremitadi; cio@e, quando la voglia dello sforzato
+conferisce e conformasi con la voglia dello sforzatore.
+
+	|80-81.  E cos@i queste fero~ ec.  Cio@e, potendo usare
+voglia assoluta, la quale l'arebbe sempre repinte nel monisterio.
+
+	|82-87.  Se fosse~... |Come tenne Lorenzo~ ec.  |E fece
+Muzio~ ec.  Cio@e, se il loro volere fosse stato cos@i assoluto,
+come fu quello che tenne santo Lorenzo in sulla graticola del
+ferro; il quale volere fece Muzio Scevola cos@i rigido contra la
+sua mano; immantanente quello volere l'arebbe ripinte per quella
+strada, per la quale elle furono tratte del monisterio, cos@i
+tosto come elle fossono state in loro libertade: ma cos@i salda e
+intera volontade @e in poche persone. Laurenzio, martire di
+Cristo, fue arostito, ed era sciolto, non legato; e qui se
+denota, che la sua volontade fue assoluta, e 'l martirio non lo
+recus@oe, ma alli suoi persecutori disse, quando avieno arostita
+l'una parte, che 'l volgessono dall'altra; anni ^Domini~ circa
+CCXLII, imperante Decio giovane, nato di Panonia, sotto lo quale
+fue fatta la VIJ persecuzione contra li Cristiani.  Beato
+Laurenzio ed Ipolito con molti altri li furono presenti, e per
+lui dati al martirio, s@i come nella sua leggenda chiaro appare. 
+Muzio Scevola mostr@o la sua voglia assoluta, in ci@o ch'egli
+Romano, essendo la citt@a di Roma assediata da uno Porsenna re di
+Chiusi, il quale aveva riceuta la schiatta del superbo cacciato
+Tarquino (del quale @e scritto, capitolo quarto ^Purgatorii~),
+disarmato il detto Muzio con uno coltello sotto, pass@oe nell'oste
+de' nimici, ed entr@oe sotto la tenda del re, e quivi menato da
+errore, credendo che fosse Porsena, fed@ie uno suo uficiale; il
+quale, poi che fu menato preso dinanzi al signore, domandato non
+neg@o s@e essere cittadino romano, ed essere venuto con ordine
+fatto ad uccidere il re nimico del popolo di Roma, ed essaminato
+sopra la fermezza del suo animo, rispuose: io mostrer@o per
+esperienzia con quale costanzia d'animo io venni ad aoperare
+nella tua morte, e nel tuo cospetto punir@o l'errore della mia
+destra; e col ferro, che ancora sanguinoso tenea, sopra il fuoco
+del sacrificio che vi si faceva stese la mano, e tanto immobile
+la tenne, sanza mutare la ferocit@a del viso, che l'arse; del
+quale fatto fu sopranominato Scevola.  Spaurito Porsenna del
+fatto di costui, e temendo morte per l'ordine che Muzio recit@oe
+essere fatto contra lui, composto con li Romani si lev@o
+dall'assedio subitamente.
+
+	|88.  E per queste parole~ ec.  Qui conchiude, che per@o
+che seguirono la voglia dello sforzatore, s@i [@e in loro]
+giustamente menomata la grazia.
+
+	|91.  Ma or ti s'attraversa~ ec.  In questa parte tocca
+la con[trad]dizione, che pare fare in se medesima Piccarda.
+
+	|94-96.  Io t'ho per certo~ ec.  Qui fa Beatrice sua
+presuposizione, ponendo come anima beata non puote mentire.  Ed
+acordasi con santo Tomaso, IIIJ ^contra Gentiles~; per@o che se
+l'anime beate sono aggiunte con la prima veritade, e da essa non
+torcono, adunque non possono mentire; che @e contro a Dio.
+
+	|97-98.  E poi potesti~ ec.  Ci@o che Piccarda disse, ed
+anche d'essa s'intende, per@o che Gostanza sempre tenne la
+effezione del velo.
+
+	|100.  Spesse fiate~ ec.  Qui tocca della voglia
+rispettiva, ch'@e mezzo tra lo appitito volontario assoluto, e lo
+involontario semplicemente.
+
+	|103-105.  Come Almeone~ ec.  Essemplificando quello ch'@e
+detto della volont@a, che consiste intra la paura assoluta ed
+intra lo involontario appetito simplicemente, introduce una
+istoria che scrive Simonides poeta; per la quale appare come
+Almeon, volendo osservare piatade per lo morto padre, fue crudele
+verso la madre: e cos@i le dette donne, per fuggire paura di
+corporale danno, caddero in danno molto maggiore, cio@e in
+diminuzione di loro gloria.  Almeon fu figliuolo d'Anfi[a]rao,
+del quale si tocca, XX capitolo ^Inferni~, e XXII ^Purgatorii.~ 
+Anfi[a]rao, veduto per sue sorti che s'elli venisse ad oste sopra
+Tebe con Polinice, ch'elli vi morrebbe, a schifare questo
+pericolo si nascose; la cui moglie per una nusca d'oro, che
+n'ebbe dalla moglie di Polinice, il rivel@oe; [e] and@oe ne l'
+oste, nella quale essendo chiam@oe Almeon, e disse: per malizia di
+tua madre sono io qui, dove io morr@o; onde ti comando, che quando
+tu torni a casa tu l'uccida, acci@o ch'ella sia punita del suo
+fallo.  Mor@ie nella detta guerra Anfi[a]rao.  Almeon, volendo
+osservare la volont@a del padre, quando torn@oe a casa uccise la
+propia madre.  E per@o dice: per non perdere piet@a verso il padre,
+si fece spietato contra la madre.  Pietade, dice Tulio, @e una
+virt@u per la quale amiamo il padre e la madre.
+
+	|106-107.  A questo punto~ ec.  Cio@e per distinzione, che
+la forza col volere si mischia, e cos@i esce del simplicemente, e
+fassi per rispetto ad altro.
+
+	|108.  Sicch@e scusar~ ec.  Cio@e, poich@e alcuna voglia
+concorre, essa dee essere punita.
+
+	|109-110.  Voglia assoluta~ ec.  Bene dice, |voglia
+assoluta~; ma quando ella vi consente per qualunque modo, non @e
+assoluta, ma @e ^secundum quid.~
+
+	|112-114.  Per@o quando~ ec.  Proceduto con sua
+difinizione, ve[ri]fica il detto di Piccarda e quello di
+Beatrice.
+
+	|115-117.  Cotal fu~ ec.  Dice l'Autore: cotale fue
+l'ond[eg]giar, cio@e toccando dell'una voglia e dell'altra del
+santo rio, cio@e della santa Scrittura di teologia, dalla quale
+ogni veritade procede; la quale intr'amendue i mei dubbi che mi
+tengono cos@i igualmente, come dice il principio del capitolo,
+[mi] puose in pace e content@oe.
+
+	|118-122.  O amanza del primo~ ec.  Qui commenda
+Beatrice, cio@e la teologia, dicendo ch'ella @e amanza di Dio,
+primo amante; e ch'ella @e divina, e che il suo parlare inaffia e
+scalda, pianta, e riga.  Scusa s@e d'insufficienza, rendendole
+grazie dell'assoluzione: cos@i fece di sopra.
+
+	|124-126.  Io veggio ben~ ec.  Saviamente, e per sottile
+modo e notabile induce l'Autore un'altra domanda.  E poni bene
+mente, lettore, come a poco a poco per acattare benivolenzia elli
+si diduce, inanzi ch'elli muova la quistione.  Elli dice: io
+veggio bene, che 'l nostro intelletto non pu@o ricevere perfezione
+se non da quella luce celestiale, la quale noi non potemo avere
+se non per grazia.
+
+	|127-128.  Posasi in esso~ ec.  Qui vole mostrare che apo
+lo intelletto umano, perch@e non agiugne tanto alto, tuttavia
+desidera il fine finale, al qual[e] le sue propie e naturali
+azioni ello dirizza, od in quello fine giunto posa e quieta.  E
+questo conviene essere di necessitade, per@o che non @e processo in
+infinito; e d@a essemplo, che s@i come uno animale caccia l'altro,
+s@i come l'ha preso, posa nella sua caverna; cos@i nostro
+intelletto, quando @e in quello fine che @e l'ultimo e [a] che @e
+diretto, posa ed @e in quietazione; lo quale fine, secondo il
+Filosofo nel primo e nel X dell'Etica, @e beatitudine, della quale
+di sopra @e fatto menzione in pi@u luoghi.
+
+	|130-135.  Nasce per quello~ ec.  Ora persuadendo
+l'Autore Beatrice, s@i s'assicura a domandare de l'altro dubbio, e
+dice: [la] natura dello intelletto che, com'@e detto, va cercando
+lo sopra detto fine, nascendo pi@u volte di vero dubbio, ed ^e
+converso~, e' dice, mi d@a sicurtade di domandare d'un'altra cosa,
+imper@o ch'io discerno non essere io ancora in quello prezioso e
+santo fine, al quale per grazia mi con[du]cerai.
+
+	|136-137.  Io vo' saper~ ec.  Questa @e la domanda, se si
+pu@o permutare il voto che altri ha promesso, come sarebbe
+limosina [in] digiuno.
+
+	|139.  Beatrice~ ec.  Questo testo @e chiaro, nel quale
+compie il capitolo, e riserba il dubbio a solvere nel seguente
+canto.
+

@@ -1,0 +1,37 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA09249; Fri, 24 Dec 1993 16:16:50 -0500
+Received: from Princeton.EDU by dartvax.dartmouth.edu (8.6.4+DND/4.5HUB)
+	id QAA29244; Fri, 24 Dec 1993 16:16:51 -0500
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.103/princeton)
+	id AA18297; Fri, 24 Dec 93 16:15:01 -0500
+Received: from ernie.Princeton.EDU by ponyexpress.princeton.edu (5.65c/1.113/newPE)
+	id AA12949; Fri, 24 Dec 1993 16:14:59 -0500
+Received: by ernie.Princeton.EDU (920330.SGI/Simple Client)
+	id AA01109; Fri, 24 Dec 93 16:14:58 -0500
+Message-Id: <9312242114.AA01109@ernie.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Fri, 24 Dec 1993 16:14:58 EST
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU, bobh@phoenix.Princeton.EDU
+Subject: ddp problem
+
+A weird bit of business in the Serravalle comm.  ALl
+seems in order up through screen 2289 (=Purg. 32.1-6);
+then screen 2290 {Steve, I scrolled thru
+Serravalle[comm] for these results} says it TOO = Purg.
+32.1-6, but it is in fact Purg. 28.1-6.  Screens
+2291-2306 then continue with Purg. 28, piece by piece
+(as one would expect if one were searching THAT canto),
+with screen 2306 representing Purg. 28.82-84).  THEN
+the next entry (screen2307) is Purg. 32. 157-160, that
+is, it's finally back into the real text of Purg. 32.
+In short, probably in loaidng (or maybe in my
+saving???), we got the first and last entries for Purg.
+32 right, while all between are really from Purg. 28.
+
+I'll try to see what the archivbes show, if Serrav. is
+there.  Ciao, Bob
+
+PS I've sent myself a copy of this for my records.
+

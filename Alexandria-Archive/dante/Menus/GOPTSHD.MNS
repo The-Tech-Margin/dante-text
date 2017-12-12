@@ -1,0 +1,14 @@
+{GOPTS_HD}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Display Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The D option enables you to display documents, or selected portions
+     of  documents,  at  your  terminal.  After selecting D, a number of
+     prompts  permit  you to precisely specify the documents you wish to
+     view, and format of display.
+
+     Extensive Help is available at every subsequent prompt.\n~
+
+:PAUSE BOTTOM
+:RETURN

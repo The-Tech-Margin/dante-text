@@ -1,0 +1,213 @@
+	|1.~  COS@I DISCESI DEL CERCHIO PRIMAIO: questa @e la terza parte 
+generale de l'Inferno, ove si puniscon i luxuriosi.
+
+	|2.~  CHE MEN LUOGO CINGHIA, perch@e, partendosi da la circumferentia 
+e andando verso il centro, @e forza che vada restringendosi.  ^Cinghia~ 
+ha detto per la rima, ma @e errore: `cingo' @e della seconda, dovrebbe 
+far `cinghe'.
+
+	|3.~  CHE PUNGE A GUAIO: ha fatto uno adverbio da questo nome `guai', 
+come se dicesse che punge cum guai, idest, guaiatim; e dice che questi 
+sentiano guai a differentia di quelli ch'eran del Limbo, che disse ^non 
+avea pianto ma che di sospiri~, perci@o che li sospiri vengono solo da 
+dolor d'animo senza niuna passion del corpo; i guai sono lamenti che 
+vengono anch'essi da l'animo ma con passion e dolor del corpo.  Vedremo 
+che quanto s'andr@a stringendo il luogo, tanto pi@u cresceran le pene.
+
+	|4.~  STAVI MINOS etc.  Virgilio il pone lui ancor, ma non in forma di 
+cane: <Quaesitor Minos urnam movet: ille silentum> etc.  `Ringhiare' @e 
+proprio del cane, non quando apertamente baia, ma tra ' denti fa romore.
+
+	|5.~  EXAMINA LE COLPE E GIUDICA E MANDA SECONDO CHE AVINGHIA: 
+`avinghiare', secondo che di sotto egli stesso si expor@a, @e cingere e 
+ligare atorno, che i latini dicono `vincire'.
+
+	|8.~  TUTTA SI CONFESSA, che risponde a quello ^examina~;
+
+	|10.~  VEDE QUAL LUOCO, che disse ^giudica~;
+
+	|11-12.~  CINGESI CON LA CODA TANTE VOLTE QUANTUNQUE GRADI VUOL CHE 
+GI@U SIA MESSA, che risponde a quello che avea detto ^e manda secondo 
+che avinghia; quantunque gradi~, idest, quanti gradi, che il Petrarca 
+<quantunque volte a merc@e viene>.
+
+	|14.~  VANNO A VICENDA, idest, vicissim;
+
+	|15.~  DICONO E ODENO E POI SON GI@U VOLTE, che risponde a quelle tre 
+cose che due volte avea di sopra messo, come trovarai alli segni.
+
+	|20.~  NON T'INGANNI L'AMPIEZZA DE L'INTRARE, perch@e in VI: <facilis 
+descensus Averni>.
+
+	|23-24.~  VOLSI COS@I COL@A: questi dui versi ha posti ancor ivi dove 
+parla a Caron: @e modo di Omero molto familiare, ma non da imitare, per 
+non generar fastidio.  Virgilio us@o una simil cosa nel IV de l'oration 
+di Giove detta ad Enea per Mercurio.
+
+	|28.~  D'OGNI LUCE MUTO: non [s]cord@o d'aver detto nel primo 
+capitulo ^dove il sol si tace~.
+
+	|31.~  LA BUFERA INFERNAL: ^bufera~, non secondo il Landino che 
+s'inganna, @e quel vento che noi chiamiamo `buora'; CHE MAI NON RESTA, 
+dice a differentia di questa che a noi soffia, perch@e la buora ha tal 
+natura che vien con empito e fassi sentire per un poco e poi sta queta 
+un pezzo, come se in questo mezzo ripigliasse le sparse forze, e torna 
+a soffiare con quel primo empito, onde dicemo noi <fa buffa> a' putti, 
+quando gli facciam gonfiar le galte e se gli d@a, onde ne vien quel 
+fiato con romore fuori e cessa poi presto; e quantunque dica ^che mai 
+non resta~, non vuole inferire per ci@o che continuamente con un 
+istesso impeto soffii ivi, perch@e dir@a di sotto ^mentre che 'l vento 
+come fa si tace~; ma dice ^che mai non resta~ a differentia di quella 
+che soffia in questo mondo, che non @e d'ogni tempo n@e cos@i spessa.
+
+	|32.~  CON LA SUA RAPINA, col suo rapimento che fa: e certo che 
+convenevole pena @e questa.
+
+	|34.~  QUANDO GIUNGON DAVANTI ALLA RUINA: il Landino, che non intese 
+quale si fosse questa ruina, passa subito all'alegoria, ma @e da sapere 
+che Dante, come pi@u a pieno vedrem di sotto, dove ci@o tratta, finge 
+che quando gli angeli dannati ruinorno gi@u dal cielo, cascando fecero 
+una rottura nella terra, che andava infino al centro, e questo @e 
+l'Inferno; e perci@o le sponde da capo in fin de l'Inferno sono de' 
+sassi aguzzi e rotti, e perci@o dice ora Dante che quando questi 
+innamorati, portati da la bufera, giongeva dinanzi alla rottura, 
+dinanzi alle sponde de l'Inferno, ch'@e una rottura, cridano qui, 
+perch@e, come disse nel verso di sopra, ^e percotendo gli molesta~.
+
+	|36.~  BIASTEMAN QUIVI LA VIRT@U DIVINA, come quelli c'hanno fatto 
+abito nel peccato.
+
+	|38.~  ENNO: vedi quello che heri nel principio del superiore capitolo 
+dicemo.
+
+	|42.~  COS@I QUEL FIATO GLI SPIRITI MALI: cos@i il vento gli spiriti 
+portava come l'ali gli stornei: chi ha veduto il bozzaro volar dei 
+stornelii, facilmente intender@a la comparatione.
+
+	|52.~  LA PRIMA DI COLOR: @e da notar che sempre il Poeta far@a far 
+mentione delle istorie antique e di quelle fino al tempo di Virgilio a 
+Virgilio, le moderne ad altri, e fu bella prudentia.
+
+	|56.~  CHE LIBITO, idest, il piacer e non l'ingiuria.
+
+	|60.~  TENNE LA TERRA CHE 'L SOLDAN CORREGGE: sono state due 
+Babilonie, una di Egitto, ora detta Archaior, e in questa sta il 
+Soldano; l'altra @e nella Siria, in su l'Eufrate, e questa @e quella 
+che edific@o Semiramis, ma Dante pu@o dire perch@e a suo tempo il  
+Soldan segnoriggiava quella di Siria ancora.
+
+	|61.~  L'ALTRA @E QUELLA, ch'@e Didone: non la dice per nome proprio 
+per fuggire la satiet@a, avendo da dire di sotto, ^della schiera ove @e 
+Dido~.
+
+	|71.~  LE DONNE ANTICHE E ' CAVALIERI: sempre dir@a ^cavalieri~, 
+ancora che e Dante e il Petrarca nel numero del meno us@o `donno', e 
+non dicono `donni' in quel del pi@u, come fa `donna' e `donne'.
+
+	|78.~  E PAION S@I AL VENTO ESSER LEGGIERI, che, essendo menati s@i 
+veloci dal vento, @e segno che maggior pena fosse la sua.
+
+	|80-87.~  O ANIME AFFANNATE etc.: sono parole di Virgilio, che insegna 
+a Dante, e tamen poi non dice che Dante dica loro quelle parole, ma fa 
+che venghino ^quali colombe~ etc.; ma @e da notare che 'l Poeta il fece 
+per non dir due volte quelle medesme parole e generar fastidio; ma 
+quando di sotto dir@a ^s@i forte fu l'affettuoso grido~, ci dar@a 
+intendere ch'egli gridoe.
+
+	|88.~  O ANIMAL etc.: dice ^animal~, essendo di corpo e anima, a 
+differenza di s@e che sola anima era, e questa @e Francesca.
+
+	|89.~  PER L'AER PERSO, ^perso~ @e color oscuro: vedi quello ch'@e 
+notato nella canzon del Petrarca ^Verdi panni~ etc.
+
+	|92.~  NOI PREGHEREMMO, idest, pregheressimo;
+
+	|93.~  POI C'HAI PIET@A, avendo egli detto ^O anime affannate~, che 
+catte benivolentia.
+
+	|94.~  DI QUEL CHE UDIR E CHE PARLAR TI PIACE, avendo detto ^venite a 
+noi parlar~.
+
+	|96.~  MENTRE CH'IL VENTO COME FA SI TACE, avendo detto nella dimanda 
+^s'altri nol niega~.
+
+	|97.~  SIEDE LA TERRA: discrive in questo ternario Ravenna.
+
+	|99.~  PER AVER PACE CO' SEGUACI SUI: quel ^pace~ co' ^seguaci~ si 
+rispondono.  Chiama ^seguaci~ quelli fiumi che metton capo in Po i 
+quali seguitan col suo corso il Po, quasi seguaci; ^per aver pace~, 
+perch@e, come ariva in mare, non correno pi@u e cos@i ha pace.  ^Sui~ 
+non @e proprio tosco ma ravignan, e perci@o @e da notare che Dante pone 
+le parole molte volte secondo la lingua di quelli ch'egli induce a 
+parlare, come il Boccaccio.
+
+	|100.~  AMOR CH'AL COR GENTIL: pone in questi tre ternarii quella 
+figura detta <repetitione>, che porta molto d'ornamento, e in questo 
+verso vole escusare lo amante con questa sententia.
+
+	|103.~  AMOR CH'A NULLO AMATO AMAR PERDONA: cos@i come nel terzetto di 
+sopra avea detto che Paulo s'avea inamorato et excusatolo, cos@i in 
+questo, s@e iscusando, mostra che di lui s'innamor@o altres@i.  Il 
+construtto di questo primo verso va cos@i: <Amor che non perdona ad 
+alcuno amato amare>, idest, che vole che ognun che sia amato ami, e 
+quella negativa ^non~ si cava di quella particella ^nullo~, che tanto 
+mette quanto `non alcun'.
+
+	|104.~  MI PRESE DI COSTUI PIACER: modo di dir bello, idest, mi prese 
+del piacer di costui;
+
+	|105.~  CHE COME VEDI, ^che~, il qual piacere.
+
+	|107.~  CAINA ATTENDE CHI 'N VITA CI SPENSE: Caina @e luoco dove si 
+puniscon i traditori che hanno i lor parenti traditi, cos@i detto da 
+Caim, che trad@i il fratello; ^attende~, aspetta, et @e bello; il 
+Petrarca nella canzon ^Spirto gentil~: <ogni soccorso di sua man 
+s'attende>.
+
+	|109.~  DA CH'IO INTESI: di questa particella vedi quello che nella 
+prima sestina del Petrarca, su quel verso <e io da che comincia> etc., 
+ho notato.
+
+	|113.~  QUANTI DOLCI PENSIER, QUANTO DISIO: mut@o il numero per pi@u 
+di vaghezza.
+
+	|116.~  E COMINCIAI FRANCESCA: vedi quanto a llungi e al suo loco ha 
+portato il nome proprio;
+
+	|120.~  CHE CONOSCESTI I DUBBIOSI DESIRI: ^dubiosi~ chiama, ch@e, 
+ancora che dui amino parimente, pur temeno non essere amati, e massime 
+parenti come eran, e un teme scoprirlo a l'altro.
+
+	|121.~  NESSUN MAGGIOR DOLOR: verissima sententia;
+
+	|123.~  E CI@O SA IL TUO DOTTORE: s'inganna il Landino, che Virgilio 
+in niun luoco dice questa sentenza, ma chiama il suo dottore Boetio, il 
+quale, come fu bandezzato, subito scrisse una consolatione del suo 
+bando, che @e quel libro che ora si chiama ^Consolation filosofica~.  
+Dante nella ^Vita nova~ dice che, subito che fu bandito, si diede a 
+leggere detta ^Consolatione~ di Boetio, e dice che ne prese molto 
+conforto e sempre lo portava seco, ovunque s'andasse; e Boetio dice 
+questa sententia: <quod nullum genus infelicitatis maius est quam 
+fuisse felicem>.
+
+	|127-129.~  NOI LEGGIAVAM: descriver@a tutte cose atte all'incitar 
+luxuria: ^per diletto, come amor lo strinse, soli e senza alcun 
+sospetto~.
+
+	|133.~  QUANDO LEGGEMO IL DISIATO RISO: ^riso~, ch'@e l'effetto, ha 
+posto per la causa, cio@e per la bocca, perch@e dicendo ^la bocca mi 
+basci@o~ facea fastidio.
+
+	|137.~  GALEOTTO FU IL LIBRO E CHI LO SCRISSE: questa @e argutia 
+troppo da spagniol: vuole dire, perch@e si legge che in questo 
+namoramento di Lancilotto e di Genevra uno che avea nome Galeotto fu 
+mezzano, e cos@i dice ora Francesca: il libro e chi lo scrisse fu al 
+nostro amor galeotto Galeotto, e fu quello a noi che fu a quelli 
+Galeotto, cio@e ruffiano.
+
+	|138.~  QUEL GIORNO PI@U NON VI LEGGEMO AVANTI: prudentemente d@a a 
+veder quello che fecero il Poeta, come fa Terentio che, avendo detto 
+alcune cose e non volendo dire quello che si potea intendere, vien 
+dimandato: <quid tunc? Quid tum fatue!> etc.: vedi quello che ho notato 
+nel II della ^Metamorfose~ sopra quel luoco: <Nec se sine crimine 
+prodit>.

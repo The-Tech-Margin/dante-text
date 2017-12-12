@@ -1,0 +1,45 @@
+Checking file 01.f
+Warning: Single line indent at line 110
+>>>     Iustitia movet meum altum Factorem;
+
+Checking file 02.f
+Checking file 03.f
+Checking file 04.f
+Error at line 247: First indent not five spaces
+>>>                                .
+
+Checking file 05.f
+Warning: Single line indent at line 52
+>>>     Io dico vero,
+
+Checking file 06.f
+Warning: Single line indent at line 63
+>>>     Ay Italia serva,
+
+Checking file 07.f
+Checking file 08.f
+Checking file 09.f
+Checking file 10.f
+Checking file 11.f
+Checking file 12.f
+Checking file 13.f
+Checking file 14.f
+Checking file 15.f
+Checking file 16.f
+Checking file 17.f
+Checking file 18.f
+Checking file 19.f
+Checking file 20.f
+Checking file 21.f
+Checking file 22.f
+Checking file 23.f
+Checking file 24.f
+Checking file 25.f
+Checking file 27.f
+Checking file 28.f
+Checking file 29.f
+Checking file 30.f
+Checking file 31.f
+Checking file 32.f
+Checking file 33.f
+Checking file pream.f

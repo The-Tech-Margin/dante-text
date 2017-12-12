@@ -1,0 +1,1808 @@
+From JMEEK@ucs.indiana.edu Wed Aug 12 14:42:57 1992
+Received: from iugate.ucs.indiana.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA21324; Wed, 12 Aug 92 14:42:44 -0400
+Message-Id: <9208121842.AA21324@dartvax.dartmouth.edu>
+Received: from PRISM.DECnet by PO1.Indiana.EDU; id AA27471
+	(5.65c+jsm/2.5jsm); Wed, 12 Aug 1992 13:40:21 -0500
+Date: Wed, 12 Aug 92 13:42:43 EST
+From: JMEEK@ucs.indiana.edu
+X-To: PO%"dante@dartmouth.edu"
+Subject: using telnet to get into Dante
+To: dante@Dartmouth.EDU
+Status: OR
+
+
+Per Art St. George and Barron, I have tried logging into Dante both of the 
+following ways:  telnet eleazar.dartmouth.edu.   
+	         129.170.16.2
+
+I'm told that the host is unknown.  Has something changed since the list
+came out, for example?
+
+Thank you for any help you can provide.
+
+		Janet Meek
+		Indiana University
+
+From bobh Wed Aug 12 16:46:56 1992
+Date: Wed, 12 Aug 92 16:46:55 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  ftp
+Status: OR
+
+Got it! Yes, they made me.  It's now "tigger".  Don't tell anyone!
+
+From bobh Wed Aug 12 16:47:57 1992
+Date: Wed, 12 Aug 92 16:47:55 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  par01.and
+Status: OR
+
+OK, thanks.  I'll see if that worked when I get home.  B.
+
+From bobh Wed Aug 12 16:49:47 1992
+Date: Wed, 12 Aug 92 16:49:46 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  Anon. lomb.
+Status: OR
+
+Great!  Please send me a copy for me to chack over. B.
+
+From bobh Wed Aug 12 16:51:12 1992
+Date: Wed, 12 Aug 92 16:51:10 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  MFrankel
+Status: OR
+
+MF needs to be on budget thru 12/31/92, as we promised her.
+I should talk to someone about how the DDP will be managed
+after that date.  Suggestions?
+
+From bobh Wed Aug 19 19:17:18 1992
+Date: Wed, 19 Aug 92 19:17:16 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  andreoli
+Status: OR
+
+ GThank you!  I'll get you all of Andreoli pronto.  B
+
+From macdonal@NNSC.NSF.NET Fri Aug 28 14:51:53 1992
+Received: from NNSC.NSF.NET by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA02702; Fri, 28 Aug 92 14:51:35 -0400
+Message-Id: <9208281851.AA02702@dartvax.dartmouth.edu>
+From: NNSC - NSF Network Service Center <macdonald@NNSC.NSF.NET>
+To: Janet Sephens <siena@Dartmouth.EDU>
+Cc: dante@Dartmouth.EDU
+Cc: resource-guide@NNSC.NSF.NET
+Subject: Reminder to Please update Section 3.15 of the Internet Resource Guide
+Reply-To: resource-guide@NNSC.NSF.NET
+Date: Fri, 28 Aug 92 14:51:32 -0400
+Sender: macdonal@NNSC.NSF.NET
+Status: OR
+
+
+Hello,
+
+We realize that this is a busy vacation time, but we would like to
+remind you that we have not received your updated section of the
+Internet Resouce Guide.  Please send us your update so we may include
+it in the revised Internet Resouce Guide.
+
+Attached below is a copy of the previous message we sent to you.
+
+Thank you for your assistance in this matter.
+
+Sincerely,
+
+Alanna MacDonald
+NSF Network Service Center (NNSC) Staff
+
+------- Forwarded Message
+
+From: Charlotte Mooers <nnsc@NNSC.NSF.NET>
+To: Janet Sephens <siena@dartmouth.edu>
+cc: dante@dartmouth.edu, resource-guide@NNSC.NSF.NET
+Subject: Please update Section 3.15 of the Internet Resource Guide
+Date: Fri, 17 Jul 92 16:04:57 -0400
+Sender: nnsc@NNSC.NSF.NET
+
+Your entry is
+
+Section 3.15  
+Dartmouth Dante Database
+
+A copy appears below.
+
+The NNSC (NSF Network Service Center) has begun a thorough-going
+update of the Internet Resource Guide.  We are asking our
+contributors to revise and update their entries in the Guide.
+
+We plan to produce a short version of the Guide as a companion to
+the present guide.  We will also continue the present format with the
+modifications noted below.
+
+For the Compact Internet Resource Guide, we are asking each
+contributor to prepare a ONE-LINER -- a summary containing only the
+most essential description of the Resource, in 72 characters or less.
+
+The Introduction to the Compact Guide will direct the user who wishes
+to learn more to the Resource Guide itself, and, at the contributor's
+option, to longer documents.
+
+Since you have a current entry in the Internet Resource Guide, 
+we include in this message:
+
+     *  A copy of your current entry.  Please update as required, and
+	keep it short -- no more than 2 or 3 pages.
+
+     *  A template for your revised entry.  Please note that we have
+        included three new headings:
+
+	o  Item (9) - The ONE-LINER, to be extracted for the
+	   Compact Internet Resource Guide.
+
+	o  Item (10) - One or more documents about the Resource,
+	   of any reasonable length, to be made available by the
+	   NNSC staff through anonymous FTP and the NNSC
+           Info-Server.
+
+	o  Item (11) - References to documents about the Resource
+	   to be made available by the Resource staff (NOT the
+           staff of the NNSC) through anonymous FTP or electronic
+           mail.
+
+The Internet Resource Guide has been very well received in the
+Internet community.  The Compact Guide should make it easier for
+users to get an idea of the Resources that are available, and
+encourage other Resource providers to contribute entries to the
+Guide.
+
+Thank you again for your contribution.  We hope you will help
+us improve and strengthen the Guide.
+
+- ---Charlotte Mooers
+   NNSC Internet Resource Guide
+
+
+*******************************************************************************
+
+HERE IS YOUR PRESENT ENTRY FOR THE INTERNET RESOURCE GUIDE
+
+This entry was formatted at the NNSC; please ignore the footnote
+and footers, and don't put underlines or footers in your
+submission--they will be added later!  A sample of the Compact
+Guide (with one-liners) will be available in the near future.
+
+       *********************************************************
+
+
+
+
+
+
+
+                  Dartmouth Dante Database
+
+
+Address:
+Dartmouth Dante Project
+1 Reed Hall, HB 6087
+Dartmouth College
+Hanover NH 03755
+
+Email: dante@dartmouth.edu
+
+Phone: (603)646-2633
+
+
+Description
+
+The Dartmouth Dante database contains 600 years of  line-by-
+line  commentary  to  Dante's  Divine Comedy, as well as the
+Petrocchi version of the poem  itself.   All  texts  are  in
+their  original languages (Italian, Latin, and English) with
+no translations.  Ancient commentaries have been parsed  for
+the  users'  convenience.   The  search  program utilized is
+BRS/Search.
+
+Network Access
+
+Domain name: dartmouth.edu
+Machine address: eleazar (or 129.170.16.2)
+
+Who Can Use the Database
+
+Anyone may access the database.  There are currently no fees
+connected with the service.
+
+A public demonstration account (ddpdemo) is  available,  and
+personal/institutional  accounts are available upon request.
+The database is accessible by direct modem  connection,  the
+Telenet network, or the Internet.
+
+Miscellaneous Information
+
+Janet Stephens (Administrator), siena@dartmouth.edu
+_________________________
+The information in this section is provided  in  accor-
+dance  with the copyright notice appearing at the front
+of this guide.
+
+
+
+
+April 5, 1990               NNSC       Section 3.15,  Page 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 5, 1990               NNSC       Section 3.15,  Page 2
+
+
+*******************************************************************************
+
+
+INTERNET RESOURCE GUIDE TEMPLATE
+
+ (1) Name of the Resource
+
+     We encourage you to use a combination of a short name or acronym
+     followed by a longer descriptive name.  Example:
+
+     COSMIC - Software Distribution Center for NASA
+
+ (2) Postal Address
+
+     The complete postal address where people can send written
+     requests for more information.
+
+ (3) E-mail Address
+
+     A general or central address, so the information will be as
+     stable as possible.
+
+ (4) Phone 
+
+     Use a central phone number (again, so the information will be as
+     stable as possible).  Phone numbers for alternate ways
+     of reaching the central answering service, such as Fax and TDD,
+     should be included here.  Example:
+
+     Phone: (000) 000-0000
+     Fax: (000) 000-0000
+     TDD: (000) 000-0000
+
+     Any additional phone numbers may be listed under
+     Miscellaneous Information (below).
+
+ (5) Description of Resource
+
+     This should be written in the style of your current entry. Try to
+     keep the entire entry within 3 pages.
+
+ (6) Network Access
+
+     Describe how to access the resource from the Internet.  Feel free
+     to include any additional methods of access such as dial-in,
+     public data networks, or special protocols.
+
+ (7) Who Can Use the Resource/Restrictions
+
+     Give some general guidelines to encourage appropriate use.
+
+ (8) Miscellaneous Information
+
+     Information that may be of use to the reader: additional contacts
+     and phone numbers, related mailing lists, etc.
+
+ (9) [NEW] SHORT ONE-LINE Description (no longer than 72 characters)
+
+     Try to make the first words categorize the Resource as quickly
+     and uniquely as possible so that your Resource can be readily
+     identified by searchers.  Example:
+
+     COSMIC software, NASA-funded. 1400+ programs. Free abstracts, searches.
+
+(10) [NEW AND OPTIONAL] Supplementary Documents on nnsc.nsf.net
+
+     One or more documents about the Resource, of any reasonable
+     length, to be made available by the NNSC staff through anonymous
+     FTP and the NNSC Info-Server.  You may send these as separate
+     messages.  If so, please include a separate copy of the STATEMENT
+     FROM CONTRIBUTOR (below).  Whether or not you send the documents
+     separately, you should include references to them here.
+
+(11) [NEW AND OPTIONAL] References Available on the Internet
+
+     References to documents about the Resource that are available (by
+     anonymous FTP or electronic mail) from the Resource host, or from
+     some other well-known source of documents on the Internet.  These
+     documents must be maintained by the Resource staff and NOT by the
+     staff of the NNSC.
+
+
+*******************************************************************************
+
+STATEMENT FROM CONTRIBUTOR:
+
+By completing and returning this template, I certify that I am authorized to
+submit this information for publication.
+
+     Name:                          
+     E-mail address:
+
+     Please type in your name here -- The name of the person who has
+     supplied the information.  This name will not be included in the
+     Resource-Guide entry.
+
+
+------- End of Forwarded Message
+
+
+From MARCUSC@ACFcluster.NYU.EDU Sat Sep 26 16:06:19 1992
+Received: from ACF7.NYU.EDU by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA26430; Sat, 26 Sep 92 16:06:10 -0400
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GP8VF599SM9TDWTC@ACFcluster.NYU.EDU>; Sat, 26 Sep 1992 16:05:39 EDT
+Date: 26 Sep 1992 16:05:39 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Personal account
+To: dante@Dartmouth.EDU
+Message-Id: <01GP8VF599SO9TDWTC@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"dante@dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+I have recently sent you an application for a personal account with my
+chek for $25.00 and was wondering if you had had time to process it yet.
+Thanking you for your time
+C. Marcus
+NYU
+
+From dante@baker.dartmouth.edu Wed Sep 30 15:46:33 1992
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA26048; Wed, 30 Sep 92 15:46:18 -0400
+Received: by baker.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA26141; Wed, 30 Sep 92 15:45:50 -0400
+Date: Wed, 30 Sep 92 15:45:50 -0400
+From: dante@baker.dartmouth.edu (Dartmouth Dante Project)
+Message-Id: <9209301945.AA26141@baker.dartmouth.edu>
+To: MARCUSC@acfcluster.nyu.edu, dante@Dartmouth.EDU
+Subject: Re:  Personal account
+Status: OR
+
+Hi! I have been on vacation, and will be setting the wheels of burocracy
+in motion this week.  will notify you when set.  Cheers, Janet
+Stephens, Dante Database.
+
+From MARCUSC@ACFcluster.NYU.EDU Thu Oct  1 11:59:28 1992
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GPFMB4ETOG9TE4ZI@ACFcluster.NYU.EDU>; Thu, 1 Oct 1992 11:58:42 EDT
+Date: 01 Oct 1992 11:58:42 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Re:  Personal account
+To: dante@baker.dartmouth.edu
+Message-Id: <01GPFMB4F3BM9TE4ZI@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"dante@baker.dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+thank you!    look forward   to hearing from you
+Clifford Marcus
+
+From MAILER-DAEMON Fri Oct  2 21:15:54 1992
+Date: Fri, 2 Oct 92 21:15:48 -0400
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: Host unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+550 setonvm.tcp... 550 Host unknown
+550 FBUTRYM@SETONVM... Host unknown
+
+   ----- Unsent message follows -----
+Received: by baker.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA21926; Fri, 2 Oct 92 21:15:48 -0400
+Date: Fri, 2 Oct 92 21:15:48 -0400
+From: dante (Dartmouth Dante Project)
+To: FBUTRYM@SETONVM, dante@Dartmouth.EDU
+Subject: Re:  Access to Dante database
+
+Dear Colleague;
+
+Enclosed is the information you have requested on the Dartmouth Dante
+Project database, as well as basic login information.
+
+If you have any further questions which are not covered in the
+information that we have sent you, please feel free to call or write us
+and ask.  We are eager to answer any questions you may have.
+
+We hope that information about the Dante Project will spread far.  If
+you know of others who may be interested in the Project, please have
+them contact us.  Also, feel free to pass any of this information along
+to colleagues you know who might be interested in the Dante Project.
+
+Thank you for your interest,
+
+Janet Stephens
+Administrator
+dante@dartmouth.edu
+-------------------------------------------------------------
+
+***Dartmouth Dante Project Searchable Database Information Sheet***
+
+The Dartmouth Dante Project database combines computer technology with
+more than 600 years of commentary tradition on Dante Alighieri's major
+poem, the _Divina Commedia_.  This gives scholars easier access to the
+full texts of important critical works, many of which are rare and
+difficult to obtain.
+
+The Dante Project has combined the commentaries with a search program,
+called BRS/Search(TM).  BRS/Search(TM) allows for very rapid textual
+searches.  Consultations of text taking many days to complete in a
+library can be performed in minutes using the Dartmouth Dante
+Database.
+
+By reducing the time and effort required by preliminary research, the
+Dartmouth Dante Database allows scholars to spend more time actively
+working out ideas.  In addition, the speed and flexibility of the
+searches may enhance scholars' insight into their material.
+
+The Dartmouth Dante Project is an ongoing effort to put the entire text
+of over 60 commentaries into a searchable database which anyone can
+access via computer.  We currently have 46 of those commentaries.  More
+will be added as they become ready for inclusion.  We are also
+constantly seeking to improve our searching program, so you may notice
+changes in the database from time to time. 
+
+Many of the texts available for searching through the Dante Project are
+copyrighted.  Under restrictions of the owners of the texts we cannot
+distribute copies of the database itself.
+
+DATABASE FACTS:
+
+The database is normally available every day, all day except Friday
+mornings 00:00-03:00 Eastern Time.
+
+The database is available on a nonsubscription basis, as part of the
+Dartmouth College Library Online System.  This benefits users in a
+number of ways.  There is no waiting for an account and you can also
+utilize the online catalog and other database services available
+through it.
+
+The latest edition of our user manual is now available for $4.00 from
+the address listed at the end of this message.  It is possible,
+however, to use the new database without documentation:  there are full
+HELP menus for all basic functions.  The following "login" information
+will help you get started: the following info is NOT exhaustive, and
+assumes that you have used networks or modems before.
+
+I.  CONNECTING TO THE BAKER LIBRARY HOST:
+
+A) INTERNET ACCESS:
+
+In order to logon to the library.dartmouth.edu host via the Internet,
+first logon to your personal account on your local Internet host.
+Then, use the following commands:
+
+telnet library.dartmouth.edu [return]
+
+or, if this doesn't work, use this computer's IP number instead
+(this is the computer's Internet serial number, not an alias, or
+"nickname"):
+
+telnet 129.170.16.11 [return]
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+B) TELENET USERS:
+
+The host identification number for the Dartmouth College Library
+Online System is 60320g
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+NB: All Telenet connection fees are the responsibility of the
+user.  The Dartmouth College network will not accept collect
+calls.
+
+C) DIRECT MODEM ACCESS:
+
+Use phone number 603 643 6300
+
+NB: The Dartmouth College network will not accept collect calls.  All
+toll charges are the responsibility of the user.
+
+Once you have executed your host connection routine, you should see our
+network flag.  It will look something like the following:
+
+   Kiewit Network, Dartmouth College, port 24/16 (type HELP for assistance) 
+   @
+
+If you don't see it, press <return> a couple of times: this 
+will either get you the flag, or you will be disconnected, 
+and you can try again.
+
+Once you see the network flag, type:
+
+c library [return]
+
+Continue with instructions in section II. following.
+
+II. CONNECTING TO THE DARTMOUTH DANTE DATABASE
+
+You will now see the online catalog program start up.  At the prompt, 
+type:
+
+connect dante [return]
+
+You will now be connected to the newest version of the database.
+
+Next, you will be prompted to identify your terminal type.  If you are
+uncertain, or you run into display problems with your specific terminal
+type, try identifying yourself as:
+
+vt100
+
+This is a sort of "industry standard" and should resolve most of
+your problems.
+
+III.  USING THE DATABASE:
+
+There are a number of introductory screens.  Press return until your
+screen displays the following:
+
+   Enter search or option letter (eg Line search Help, Option list, Quit):
+   1_:
+
+You may now begin searching.  Use the Help menus for guidance.
+
+-----------------------------------------------------------
+The new user manual is now available.  If you would like one, please
+send us your name, address, and a check or money order for $4.00 (to
+cover printing and postage).
+
+     Dartmouth Dante Project
+     1 Reed Hall
+     HB 6087
+     Dartmouth College
+     Hanover, NH 03755
+
+     Phone:(603)646-2633
+     Electronic mail to
+     dante@dartmouth.edu
+
+From dante@baker.dartmouth.edu Fri Oct  2 21:15:55 1992
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA01159; Fri, 2 Oct 92 21:15:50 -0400
+Received: by baker.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA21926; Fri, 2 Oct 92 21:15:48 -0400
+Date: Fri, 2 Oct 92 21:15:48 -0400
+From: dante@baker.dartmouth.edu (Dartmouth Dante Project)
+Message-Id: <9210030115.AA21926@baker.dartmouth.edu>
+To: FBUTRYM@setonvm, dante@Dartmouth.EDU
+Subject: Re:  Access to Dante database
+Status: OR
+
+Dear Colleague;
+
+Enclosed is the information you have requested on the Dartmouth Dante
+Project database, as well as basic login information.
+
+If you have any further questions which are not covered in the
+information that we have sent you, please feel free to call or write us
+and ask.  We are eager to answer any questions you may have.
+
+We hope that information about the Dante Project will spread far.  If
+you know of others who may be interested in the Project, please have
+them contact us.  Also, feel free to pass any of this information along
+to colleagues you know who might be interested in the Dante Project.
+
+Thank you for your interest,
+
+Janet Stephens
+Administrator
+dante@dartmouth.edu
+-------------------------------------------------------------
+
+***Dartmouth Dante Project Searchable Database Information Sheet***
+
+The Dartmouth Dante Project database combines computer technology with
+more than 600 years of commentary tradition on Dante Alighieri's major
+poem, the _Divina Commedia_.  This gives scholars easier access to the
+full texts of important critical works, many of which are rare and
+difficult to obtain.
+
+The Dante Project has combined the commentaries with a search program,
+called BRS/Search(TM).  BRS/Search(TM) allows for very rapid textual
+searches.  Consultations of text taking many days to complete in a
+library can be performed in minutes using the Dartmouth Dante
+Database.
+
+By reducing the time and effort required by preliminary research, the
+Dartmouth Dante Database allows scholars to spend more time actively
+working out ideas.  In addition, the speed and flexibility of the
+searches may enhance scholars' insight into their material.
+
+The Dartmouth Dante Project is an ongoing effort to put the entire text
+of over 60 commentaries into a searchable database which anyone can
+access via computer.  We currently have 46 of those commentaries.  More
+will be added as they become ready for inclusion.  We are also
+constantly seeking to improve our searching program, so you may notice
+changes in the database from time to time. 
+
+Many of the texts available for searching through the Dante Project are
+copyrighted.  Under restrictions of the owners of the texts we cannot
+distribute copies of the database itself.
+
+DATABASE FACTS:
+
+The database is normally available every day, all day except Friday
+mornings 00:00-03:00 Eastern Time.
+
+The database is available on a nonsubscription basis, as part of the
+Dartmouth College Library Online System.  This benefits users in a
+number of ways.  There is no waiting for an account and you can also
+utilize the online catalog and other database services available
+through it.
+
+The latest edition of our user manual is now available for $4.00 from
+the address listed at the end of this message.  It is possible,
+however, to use the new database without documentation:  there are full
+HELP menus for all basic functions.  The following "login" information
+will help you get started: the following info is NOT exhaustive, and
+assumes that you have used networks or modems before.
+
+I.  CONNECTING TO THE BAKER LIBRARY HOST:
+
+A) INTERNET ACCESS:
+
+In order to logon to the library.dartmouth.edu host via the Internet,
+first logon to your personal account on your local Internet host.
+Then, use the following commands:
+
+telnet library.dartmouth.edu [return]
+
+or, if this doesn't work, use this computer's IP number instead
+(this is the computer's Internet serial number, not an alias, or
+"nickname"):
+
+telnet 129.170.16.11 [return]
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+B) TELENET USERS:
+
+The host identification number for the Dartmouth College Library
+Online System is 60320g
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+NB: All Telenet connection fees are the responsibility of the
+user.  The Dartmouth College network will not accept collect
+calls.
+
+C) DIRECT MODEM ACCESS:
+
+Use phone number 603 643 6300
+
+NB: The Dartmouth College network will not accept collect calls.  All
+toll charges are the responsibility of the user.
+
+Once you have executed your host connection routine, you should see our
+network flag.  It will look something like the following:
+
+   Kiewit Network, Dartmouth College, port 24/16 (type HELP for assistance) 
+   @
+
+If you don't see it, press <return> a couple of times: this 
+will either get you the flag, or you will be disconnected, 
+and you can try again.
+
+Once you see the network flag, type:
+
+c library [return]
+
+Continue with instructions in section II. following.
+
+II. CONNECTING TO THE DARTMOUTH DANTE DATABASE
+
+You will now see the online catalog program start up.  At the prompt, 
+type:
+
+connect dante [return]
+
+You will now be connected to the newest version of the database.
+
+Next, you will be prompted to identify your terminal type.  If you are
+uncertain, or you run into display problems with your specific terminal
+type, try identifying yourself as:
+
+vt100
+
+This is a sort of "industry standard" and should resolve most of
+your problems.
+
+III.  USING THE DATABASE:
+
+There are a number of introductory screens.  Press return until your
+screen displays the following:
+
+   Enter search or option letter (eg Line search Help, Option list, Quit):
+   1_:
+
+You may now begin searching.  Use the Help menus for guidance.
+
+-----------------------------------------------------------
+The new user manual is now available.  If you would like one, please
+send us your name, address, and a check or money order for $4.00 (to
+cover printing and postage).
+
+     Dartmouth Dante Project
+     1 Reed Hall
+     HB 6087
+     Dartmouth College
+     Hanover, NH 03755
+
+     Phone:(603)646-2633
+     Electronic mail to
+     dante@dartmouth.edu
+
+From bobh Fri Oct  9 10:41:52 1992
+Date: Fri, 9 Oct 92 10:41:49 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  Andreoli/graziolo
+Status: OR
+
+To clarify, you want Andreoli Par01 from me, right?  Let me be sure and 
+I'll send as soon as I find it (I pry that I find it).
+
+Ciao, Bob
+
+PS I never did hear from you about status of DDP's "staff" as of 1/1/93.
+What's up?
+
+From bobh Mon Oct 12 23:36:25 1992
+Date: Mon, 12 Oct 92 23:36:21 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: dante
+Subject: Re:  Andreoli/graziolo
+Status: OR
+
+OK.  It won't be the same w/o you.  Does D'mth realize that
+we need someone who can do some occasional work?  It ain't friction-
+free, this database.  Please do let me hear what Steve has to say.
+
+Ciao, Bob
+
+PS: I have Par01.and ready to mail.
+
+From cknoxq@Willamette.EDU Tue Oct 13 11:13:42 1992
+Received: from jupiter.willamette.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA27797; Tue, 13 Oct 92 11:13:26 -0400
+Received: by Willamette.EDU (4.1/SMI-4.1)
+	id AA27332; Tue, 13 Oct 92 08:10:58 PDT
+Date: Tue, 13 Oct 1992 08:07:27 -0700 (PDT)
+From: Carolyn Knox-Quinn <cknoxq@jupiter.Willamette.EDU>
+Subject: Help!
+To: dante@Dartmouth.EDU
+Message-Id: <Pine.3.03.9210130827.A27240-9100000@jupiter>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: OR
+
+Help...I need excellent software for the Macintosh.  I was hired here as
+part of a grant that brought Macs to a very IBM entrenched school
+(Willamette University in Oregon).  I hear you have databases and other
+wonderful (hypercard based) programs that would not only be useful in our
+labs, but would serve to break the faculty here out of their prejudices
+and limitations.  Can you help? Carolyn Knox-Quinn
+
+
+
+From MARCUSC@ACFcluster.NYU.EDU Thu Oct 15 12:24:00 1992
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GPZ76NNO44A3E7OV@ACFcluster.NYU.EDU>; Thu, 15 Oct 1992 12:23:29 EDT
+Date: 15 Oct 1992 12:23:29 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Re:  Personal account
+To: dante@baker.dartmouth.edu
+Message-Id: <01GPZ76NNO46A3E7OV@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"dante@baker.dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+Dear Ms Stephens
+Thank you for your message
+My address is 
+4 Washington Square Village
+Apt. 2C
+New York
+NY 10012
+
+You can email me the account confirmation if you wish, so I can get started
+sooner
+Thank you again
+Clifford Marcus
+
+From MARCUSC@ACFcluster.NYU.EDU Wed Oct 21 11:25:02 1992
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GQ7IWF570WA3ETF7@ACFcluster.NYU.EDU>; Wed, 21 Oct 1992 11:24:27 EDT
+Date: 21 Oct 1992 11:24:27 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Re:  Personal account
+To: dante@baker.dartmouth.edu
+Message-Id: <01GQ7IWF5GO2A3ETF7@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"dante@baker.dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+Thank you so much.  Does this mean that we may expect some glitches in the
+system over the next few days?
+
+Clifford Marcus
+
+From msmith@lobo.rmhs.colorado.edu Fri Oct 23 20:38:07 1992
+Received: from lobo.RMHS.Colorado.EDU by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA05120; Fri, 23 Oct 92 20:38:00 -0400
+Received: by lobo.rmhs.colorado.edu (AIX 3.1/UCB 5.61/4.03)
+          id AA35428; Fri, 23 Oct 92 18:36:19 -0600
+From: msmith@lobo.rmhs.colorado.edu (Matthew Smith)
+Message-Id: <9210240036.AA35428@lobo.rmhs.colorado.edu>
+Subject: Usage, my
+To: dante@Dartmouth.EDU
+Date: Fri, 23 Oct 92 18:36:19 MDT
+X-Mailer: ELM [version 2.3 PL0]
+Status: OR
+
+Greetings, I am a student of Fort Collins High School in Fort Collins, CO.  In 
+my AP Lit&Comp class, we are studying Dante's Inferno.  The teacher passed an 
+article around about your system (so that we could see the artwork, but I read 
+the article anyway).  After searching through several databases, I came up 
+with dante@dartmouth.edu  , but so far that hasn't done me any good.  My hope 
+is that someone besides me will read this and send me mail about how to get in.
+        msmith@lobo.rmhs.colorado.edu
+                                                Thank You
+                                                Matthew P. Smith
+
+
+From <@DARTCMS1.DARTMOUTH.EDU:F028@SETONMUS.BITNET> Mon Oct 26 18:27:59 1992
+Received: from dartcms1.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA12889; Mon, 26 Oct 92 18:27:52 -0500
+Received: from DARTCMS1.DARTMOUTH.EDU by DARTCMS1.DARTMOUTH.EDU
+   (IBM VM SMTP V2R1) with BSMTP id 8294; Mon, 26 Oct 92 18:28:29 EDT
+Received: from SETONVM.BITNET by DARTCMS1.DARTMOUTH.EDU (Mailer R2.07) with
+ BSMTP id 8293; Mon, 26 Oct 92 18:28:27 EDT
+X-Delivery-Notice:  SMTP MAIL FROM does not correspond to sender.
+Received: from SETONMUS (MUSIC@SETONVM) by SETONVM.BITNET (Mailer R2.08) with
+ BSMTP id 6169; Mon, 26 Oct 92 18:27:05 EDT
+Message-Id:  <26OCT92.19926743.0025.MUSIC@SETONMUS>
+Date:        Mon, 26 Oct 92 18:27:02 EST
+From: F028000 <F028@SETONMUS.dartmouth.edu>
+To: <dante@Dartmouth.EDU>
+Subject: request for a personal acct.
+Status: OR
+
+Dear Ms. Stephens,
+
+Please allow me to request a personal acct. for the dante db.  I am
+a prof. of Italian at Seton Hall U. in NJ.  I once had an acct. on
+the database, as a grad. student at U. Cal. Berkeley, but I now have
+much better facilities through the Internet and I am interested in
+exploring the db more fully.
+
+I have accessed it as a guest, but only through on-line Dartmouth,
+that is, 129.170.16.11.  Should I try instead 129.170.16.2?  Any
+shortcut would be more than welcome, as our system is usually very
+slow.
+
+Thank you,
+
+
+David Beneteau
+Modern Language Dept.
+
+From steve@avalon.dartmouth.edu Tue Oct 27 09:04:54 1992
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA21500; Tue, 27 Oct 92 09:04:39 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9210271404.AA21500@avalon.dartmouth.edu>
+Subject: Re: Dante account for Clifford
+To: dante (Dartmouth Dante Project)
+Date: Tue, 27 Oct 92 9:04:38 EST
+Cc: david.fisher@mac.dartmouth.edu
+In-Reply-To: <9210160305.AA24102@baker.dartmouth.edu>; from "Dartmouth Dante Project" at Oct 15, 92 11:05 pm
+Status: OR
+
+> Date: Thu, 15 Oct 92 23:05:47 -0400
+> From: dante@baker.dartmouth.edu (Dartmouth Dante Project)
+> To: david.fisher@mac.dartmouth.edu, steve@baker.dartmouth.edu
+> 
+> Dear David & Steve: 
+> 
+> this is the bloke who wants a private DDP account on u6:
+> 
+> Clifford Marcus
+> 4 Washington Square Village
+> Apt. 2C
+> NY 10012
+> 
+> How about the following for account name  & password:
+> 
+> ddpcmarc              abc123
+> 
+> As you remember, he can only have ddp permissions, nothing
+> else.
+> 
+> Please contact me as soon as is set up, so I can test it.
+> Much obliged, Janet Stephens
+
+I have created the account on [the new] machine.  I tested it, and it
+seems to be OK.  The account can save searches.  You should remind 
+Mr Clifford of these details:  He should telnet to host
+baker.dartmouth.edu (or alias library.dartmouth.edu or IP address
+129.170.16.11).  Owing to the special function of this machine,
+he MUST remember to telnet to port 796 in order to get a regular
+login prompt.  To accomplish all this, he should type the command
+
+	telnet baker.dartmouth.edu 796
+
+If he forgets the 796, he will get connected to the Baker Online System,
+which he may find interesting, but is probably not what he wants.
+
+							Steve
+
+From steve@avalon.dartmouth.edu Tue Oct 27 11:32:16 1992
+Received: from avalon.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA00885; Tue, 27 Oct 92 11:30:52 -0500
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA21778; Tue, 27 Oct 92 11:30:26 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9210271630.AA21778@avalon.dartmouth.edu>
+Subject: new machine
+To: dantisti@Dartmouth.EDU
+Date: Tue, 27 Oct 92 11:30:25 EST
+Status: OR
+
+As you may have noticed, we successfully moved everyone to a new machine
+last Thursday, the 22nd.  Since most of you have logged in since then,
+I trust you find things working, perhaps even working faster.
+
+If you need to, you can still connect to the old machine, which has a new
+name.  The name is dartlib.dartmouth.edu.  Your accounts and passwords
+are still valid there until we decommission the machine sometime in the next
+month or two.  The easiest way to connect to the old machine is to log onto
+the new machine first, then type the command "rlogin dartlib".  No additional
+password is needed.  When you are finished on the old machine, just type
+logout or whatever you usually use to end your session, and you will be
+back on the new machine.
+
+							Steve
+
+PS: I will be in Africa from Oct 30 through Nov. 13.  
+
+From dante Wed Oct 28 08:37:10 1992
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA05966; Wed, 28 Oct 92 08:37:00 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA27000; Wed, 28 Oct 1992 08:37:04 -0500
+Date: Wed, 28 Oct 1992 08:37:04 -0500
+From: dante (Dartmouth Dante Project)
+Message-Id: <9210281337.AA27000@baker.dartmouth.edu>
+To: F028@SETONMUS.dartmouth.edu, dante@Dartmouth.EDU
+Subject: Re:  request for a personal acct.
+Status: OR
+
+Dear Colleague;
+
+Enclosed is the information you have requested on the Dartmouth Dante
+Project database, as well as basic login information.
+
+If you have any further questions which are not covered in the
+information that we have sent you, please feel free to call or write us
+and ask.  We are eager to answer any questions you may have.
+
+We hope that information about the Dante Project will spread far.  If
+you know of others who may be interested in the Project, please have
+them contact us.  Also, feel free to pass any of this information along
+to colleagues you know who might be interested in the Dante Project.
+
+Thank you for your interest,
+
+Janet Stephens
+Administrator
+dante@dartmouth.edu
+-------------------------------------------------------------
+
+***Dartmouth Dante Project Searchable Database Information Sheet***
+
+The Dartmouth Dante Project database combines computer technology with
+more than 600 years of commentary tradition on Dante Alighieri's major
+poem, the _Divina Commedia_.  This gives scholars easier access to the
+full texts of important critical works, many of which are rare and
+difficult to obtain.
+
+The Dante Project has combined the commentaries with a search program,
+called BRS/Search(TM).  BRS/Search(TM) allows for very rapid textual
+searches.  Consultations of text taking many days to complete in a
+library can be performed in minutes using the Dartmouth Dante
+Database.
+
+By reducing the time and effort required by preliminary research, the
+Dartmouth Dante Database allows scholars to spend more time actively
+working out ideas.  In addition, the speed and flexibility of the
+searches may enhance scholars' insight into their material.
+
+The Dartmouth Dante Project is an ongoing effort to put the entire text
+of over 60 commentaries into a searchable database which anyone can
+access via computer.  We currently have 46 of those commentaries.  More
+will be added as they become ready for inclusion.  We are also
+constantly seeking to improve our searching program, so you may notice
+changes in the database from time to time. 
+
+Many of the texts available for searching through the Dante Project are
+copyrighted.  Under restrictions of the owners of the texts we cannot
+distribute copies of the database itself.
+
+DATABASE FACTS:
+
+The database is normally available every day, all day except Friday
+mornings 00:00-03:00 Eastern Time.
+
+The database is available on a nonsubscription basis, as part of the
+Dartmouth College Library Online System.  This benefits users in a
+number of ways.  There is no waiting for an account and you can also
+utilize the online catalog and other database services available
+through it.
+
+The latest edition of our user manual is now available for $4.00 from
+the address listed at the end of this message.  It is possible,
+however, to use the new database without documentation:  there are full
+HELP menus for all basic functions.  The following "login" information
+will help you get started: the following info is NOT exhaustive, and
+assumes that you have used networks or modems before.
+
+I.  CONNECTING TO THE BAKER LIBRARY HOST:
+
+A) INTERNET ACCESS:
+
+In order to logon to the library.dartmouth.edu host via the Internet,
+first logon to your personal account on your local Internet host.
+Then, use the following commands:
+
+telnet library.dartmouth.edu [return]
+
+or, if this doesn't work, use this computer's IP number instead
+(this is the computer's Internet serial number, not an alias, or
+"nickname"):
+
+telnet 129.170.16.11 [return]
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+B) TELENET USERS:
+
+The host identification number for the Dartmouth College Library
+Online System is 60320g
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+NB: All Telenet connection fees are the responsibility of the
+user.  The Dartmouth College network will not accept collect
+calls.
+
+C) DIRECT MODEM ACCESS:
+
+Use phone number 603 643 6300
+
+NB: The Dartmouth College network will not accept collect calls.  All
+toll charges are the responsibility of the user.
+
+Once you have executed your host connection routine, you should see our
+network flag.  It will look something like the following:
+
+   Kiewit Network, Dartmouth College, port 24/16 (type HELP for assistance) 
+   @
+
+If you don't see it, press <return> a couple of times: this 
+will either get you the flag, or you will be disconnected, 
+and you can try again.
+
+Once you see the network flag, type:
+
+c library [return]
+
+Continue with instructions in section II. following.
+
+II. CONNECTING TO THE DARTMOUTH DANTE DATABASE
+
+You will now see the online catalog program start up.  At the prompt, 
+type:
+
+connect dante [return]
+
+You will now be connected to the newest version of the database.
+
+Next, you will be prompted to identify your terminal type.  If you are
+uncertain, or you run into display problems with your specific terminal
+type, try identifying yourself as:
+
+vt100
+
+This is a sort of "industry standard" and should resolve most of
+your problems.
+
+III.  USING THE DATABASE:
+
+There are a number of introductory screens.  Press return until your
+screen displays the following:
+
+   Enter search or option letter (eg Line search Help, Option list, Quit):
+   1_:
+
+You may now begin searching.  Use the Help menus for guidance.
+
+-----------------------------------------------------------
+The new user manual is now available.  If you would like one, please
+send us your name, address, and a check or money order for $4.00 (to
+cover printing and postage).
+
+     Dartmouth Dante Project
+     1 Reed Hall
+     HB 6087
+     Dartmouth College
+     Hanover, NH 03755
+
+     Phone:(603)646-2633
+     Electronic mail to
+     dante@dartmouth.edu
+
+From MAILER-DAEMON Wed Oct 28 08:37:11 1992
+Date: Wed, 28 Oct 1992 08:37:04 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: Host unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+550 setonmus.dartmouth.edu (tcplocal)... 550 Host unknown
+554 F028@SETONMUS.dartmouth.edu... 550 Host unknown (Authoritative answer from name server)
+
+   ----- Unsent message follows -----
+Date: Wed, 28 Oct 1992 08:37:04 -0500
+From: dante (Dartmouth Dante Project)
+To: F028@SETONMUS.dartmouth.edu, dante@Dartmouth.EDU
+Subject: Re:  request for a personal acct.
+
+Dear Colleague;
+
+Enclosed is the information you have requested on the Dartmouth Dante
+Project database, as well as basic login information.
+
+If you have any further questions which are not covered in the
+information that we have sent you, please feel free to call or write us
+and ask.  We are eager to answer any questions you may have.
+
+We hope that information about the Dante Project will spread far.  If
+you know of others who may be interested in the Project, please have
+them contact us.  Also, feel free to pass any of this information along
+to colleagues you know who might be interested in the Dante Project.
+
+Thank you for your interest,
+
+Janet Stephens
+Administrator
+dante@dartmouth.edu
+-------------------------------------------------------------
+
+***Dartmouth Dante Project Searchable Database Information Sheet***
+
+The Dartmouth Dante Project database combines computer technology with
+more than 600 years of commentary tradition on Dante Alighieri's major
+poem, the _Divina Commedia_.  This gives scholars easier access to the
+full texts of important critical works, many of which are rare and
+difficult to obtain.
+
+The Dante Project has combined the commentaries with a search program,
+called BRS/Search(TM).  BRS/Search(TM) allows for very rapid textual
+searches.  Consultations of text taking many days to complete in a
+library can be performed in minutes using the Dartmouth Dante
+Database.
+
+By reducing the time and effort required by preliminary research, the
+Dartmouth Dante Database allows scholars to spend more time actively
+working out ideas.  In addition, the speed and flexibility of the
+searches may enhance scholars' insight into their material.
+
+The Dartmouth Dante Project is an ongoing effort to put the entire text
+of over 60 commentaries into a searchable database which anyone can
+access via computer.  We currently have 46 of those commentaries.  More
+will be added as they become ready for inclusion.  We are also
+constantly seeking to improve our searching program, so you may notice
+changes in the database from time to time. 
+
+Many of the texts available for searching through the Dante Project are
+copyrighted.  Under restrictions of the owners of the texts we cannot
+distribute copies of the database itself.
+
+DATABASE FACTS:
+
+The database is normally available every day, all day except Friday
+mornings 00:00-03:00 Eastern Time.
+
+The database is available on a nonsubscription basis, as part of the
+Dartmouth College Library Online System.  This benefits users in a
+number of ways.  There is no waiting for an account and you can also
+utilize the online catalog and other database services available
+through it.
+
+The latest edition of our user manual is now available for $4.00 from
+the address listed at the end of this message.  It is possible,
+however, to use the new database without documentation:  there are full
+HELP menus for all basic functions.  The following "login" information
+will help you get started: the following info is NOT exhaustive, and
+assumes that you have used networks or modems before.
+
+I.  CONNECTING TO THE BAKER LIBRARY HOST:
+
+A) INTERNET ACCESS:
+
+In order to logon to the library.dartmouth.edu host via the Internet,
+first logon to your personal account on your local Internet host.
+Then, use the following commands:
+
+telnet library.dartmouth.edu [return]
+
+or, if this doesn't work, use this computer's IP number instead
+(this is the computer's Internet serial number, not an alias, or
+"nickname"):
+
+telnet 129.170.16.11 [return]
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+B) TELENET USERS:
+
+The host identification number for the Dartmouth College Library
+Online System is 60320g
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+NB: All Telenet connection fees are the responsibility of the
+user.  The Dartmouth College network will not accept collect
+calls.
+
+C) DIRECT MODEM ACCESS:
+
+Use phone number 603 643 6300
+
+NB: The Dartmouth College network will not accept collect calls.  All
+toll charges are the responsibility of the user.
+
+Once you have executed your host connection routine, you should see our
+network flag.  It will look something like the following:
+
+   Kiewit Network, Dartmouth College, port 24/16 (type HELP for assistance) 
+   @
+
+If you don't see it, press <return> a couple of times: this 
+will either get you the flag, or you will be disconnected, 
+and you can try again.
+
+Once you see the network flag, type:
+
+c library [return]
+
+Continue with instructions in section II. following.
+
+II. CONNECTING TO THE DARTMOUTH DANTE DATABASE
+
+You will now see the online catalog program start up.  At the prompt, 
+type:
+
+connect dante [return]
+
+You will now be connected to the newest version of the database.
+
+Next, you will be prompted to identify your terminal type.  If you are
+uncertain, or you run into display problems with your specific terminal
+type, try identifying yourself as:
+
+vt100
+
+This is a sort of "industry standard" and should resolve most of
+your problems.
+
+III.  USING THE DATABASE:
+
+There are a number of introductory screens.  Press return until your
+screen displays the following:
+
+   Enter search or option letter (eg Line search Help, Option list, Quit):
+   1_:
+
+You may now begin searching.  Use the Help menus for guidance.
+
+-----------------------------------------------------------
+The new user manual is now available.  If you would like one, please
+send us your name, address, and a check or money order for $4.00 (to
+cover printing and postage).
+
+     Dartmouth Dante Project
+     1 Reed Hall
+     HB 6087
+     Dartmouth College
+     Hanover, NH 03755
+
+     Phone:(603)646-2633
+     Electronic mail to
+     dante@dartmouth.edu
+
+From Bruce.Duncan@Dartmouth.EDU Wed Oct 28 10:24:19 1992
+Received: from prancer.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA12546; Wed, 28 Oct 92 10:24:08 -0500
+Message-Id: <2420466@prancer.Dartmouth.EDU>
+Date: 28 Oct 92 10:24:07 EST
+From: Bruce.Duncan@Dartmouth.EDU
+Subject: Re: Dante project
+To: dante (Dartmouth Dante Project)
+Cc: Malcolm.Brown@Dartmouth.EDU, Marilyn.R.Crichlow@Dartmouth.EDU,
+        Glen.T.Winans@Dartmouth.EDU
+Status: OR
+
+--- You wrote:
+Dear Bruce,
+It's getting close to the closing of the Dante Project office as a distinct
+entity, and we  need to plan for it's maintenance after Jan.1, 1993.  Who's
+jurisdiction should it fall under?  The Library? DCIS?  Keiwit?
+
+We will need safe storage for original Hardcopy commentaries, and someone
+will probably want to keep one of the project computers available for future
+uploading if necessary.  I guess the rest can stored, and the furniture sent
+to the barn.  I imagine French and Italian will want to have first dibs on
+anything remaining.
+
+Cheers, Janet Stephens
+
+
+--- end of quoted material ---
+
+Janet--
+
+	All these are good questions, to which I do not yet know the answers. 
+I will ask around.
+
+	Say hi to Walter for me.
+
+		--Bruce
+
+From steve@avalon.dartmouth.edu Wed Oct 28 13:36:53 1992
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA23707; Wed, 28 Oct 92 13:36:43 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9210281836.AA23707@avalon.dartmouth.edu>
+Subject: Re: u6 switch
+To: dante (Dartmouth Dante Project)
+Date: Wed, 28 Oct 92 13:36:42 EST
+In-Reply-To: <9210281457.AA29498@baker.dartmouth.edu>; from "Dartmouth Dante Project" at Oct 28, 92 9:57 am
+Status: OR
+
+> The following files didn't make it over to the new u6:
+> 
+> singleton/purg/03.e.Z
+> singleton/purg/04.e.Z
+> singleton/purg/05.e.Z
+> singleton/purg/06.e.Z
+> singleton/purg/07.e.Z
+> singleton/purg/08.e.Z
+> singleton/purg/09.e.Z
+> 
+> I hope they can be brought up before you leave. Thanks,
+> Janet
+> 
+
+Call me about this. 646-3231.  There are compressed versions of these
+files on the old machine and uncompressed and slightly different versions
+on the new.  Call me.
+
+							Steve
+
+From steve@avalon.dartmouth.edu Wed Oct 28 14:12:01 1992
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA23815; Wed, 28 Oct 92 14:11:50 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9210281911.AA23815@avalon.dartmouth.edu>
+Subject: Re: rtfm
+To: dante (Dartmouth Dante Project)
+Date: Wed, 28 Oct 92 14:11:49 EST
+In-Reply-To: <9210281910.AA16844@baker.dartmouth.edu>; from "Dartmouth Dante Project" at Oct 28, 92 2:10 pm
+Status: OR
+
+I'm working on the permissions.  Should have them fixed shortly.  Will advise.
+
+From steve@avalon.dartmouth.edu Wed Oct 28 14:21:48 1992
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA23831; Wed, 28 Oct 92 14:21:38 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9210281921.AA23831@avalon.dartmouth.edu>
+Subject: Re: preload probs
+To: dante (Dartmouth Dante Project)
+Date: Wed, 28 Oct 92 14:21:37 EST
+In-Reply-To: <9210281625.AA06258@baker.dartmouth.edu>; from "Dartmouth Dante Project" at Oct 28, 92 11:25 am
+Status: OR
+
+I've changed a bunch of permissions.  Try again.
+
+From MAILER-DAEMON Wed Oct 28 16:16:18 1992
+Date: Wed, 28 Oct 1992 16:16:15 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+While talking to avalon.Dartmouth.EDU:
+>>> RCPT To:<dante@avalon.dartmouth.edu>
+<<< 550 <dante@avalon.dartmouth.edu>... Addressee unknown
+550 dante@avalon.dartmouth.edu... User unknown
+
+   ----- Unsent message follows -----
+Date: Wed, 28 Oct 1992 16:16:15 -0500
+From: dante (Dartmouth Dante Project)
+To: dante@avalon.dartmouth.edu, steve@avalon.dartmouth.edu
+Subject: Re: preload probs
+
+I will, thanks, J
+
+From MAILER-DAEMON Sun Nov  1 20:10:03 1992
+Date: Sun, 1 Nov 1992 20:10:01 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+While talking to prancer.Dartmouth.EDU:
+>>> RCPT To:<cathleen.corrigan@mac.dartmouth.edu>
+<<< 550 No such user:cathleen.corrigan
+550 cathleen.corrigan@mac... User unknown
+
+   ----- Unsent message follows -----
+Date: Sun, 1 Nov 1992 20:10:01 -0500
+From: dante (Dartmouth Dante Project)
+To: cathleen.corrigan@mac.dartmouth.edu
+Subject: majors adv.
+
+Hi Cathleen, Walter asked me to forward a message to you from Siena.
+
+"Bissera needs to know the grade she got on her freshman project
+and she would like you to be her major's advisor.   Could you please
+call her in Italy (about 2:00 pm Hanover time) at 011 39 577 499-46"
+
+Cheers, and I hope your fall is going swimmingly, Janet Stephens
+
+From MCOGAN@CMS.CC.WAYNE.EDU Mon Nov  2 12:49:09 1992
+Received: from CMS.CC.WAYNE.EDU by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA10573; Mon, 2 Nov 92 12:49:01 -0500
+Message-Id: <9211021749.AA10573@dartvax.dartmouth.edu>
+Received: from CMS.CC.WAYNE.EDU by CMS.CC.WAYNE.EDU (IBM VM SMTP V2R2)
+   with BSMTP id 7590; Mon, 02 Nov 92 12:49:05 EST
+Received: from WAYNEST1 (MCOGAN) by CMS.CC.WAYNE.EDU (Mailer R2.04) with BSMTP
+ id 4418; Mon, 02 Nov 92 12:49:05 EST
+Date: would you like to see? 12:39:18 EST
+From: Marc Cogan <MCOGAN@CMS.CC.WAYNE.EDU>
+Subject:      Appropriate citation form
+To: dante@Dartmouth.EDU
+Status: OR
+
+I have made extensive, and productive, use of the database during this last
+year.  I am about to finish an article where some quite important questions
+were settled only because of database.  I need your best thoughts on the
+following bibliographic matters:
+   (1) What form of general acknowledgement of the project and its capabilities
+would you like?
+   (2) Is there some way to determine what the original page numbers of
+passages that the database finds were?  Or have you thought of an appropriate
+alternative for citations to electronically stored text, rather than the
+original printed pages?  That is, I would like to cite one or another passage
+from an early commentary.  In most cases it would be difficult, almost
+impossible, for me to see the printed work.  (At least within the time frame
+of finishing this article.)  Are the pages "tagged" somehow in the database,
+such that they could be found are referred to?  Or do you have another
+suggestion as to how to refer sensibly to these commentaries?
+   I would be very grateful for your help in this matter.
+Marc Cogan, Department of Humanities
+Wayne State University
+
+From HEINRICHS@WCUVAX1.WCU.EDU Mon Nov  2 13:02:44 1992
+Received: from wcuvax1.wcu.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA11552; Mon, 2 Nov 92 13:02:36 -0500
+Received: from WCUVAX1.BITNET by WCUVAX1.BITNET (PMDF #2957 ) id
+ <01GQODR4O7OW9QUY52@WCUVAX1.BITNET>; Mon, 2 Nov 1992 13:01:00 EST
+Date: 02 Nov 1992 13:01:00 -0500 (EST)
+From: HEINRICHS@WCUVAX1.WCU.EDU
+Subject: Login for Dartmouth Dante Database
+To: dante@Dartmouth.EDU
+Message-Id: <01GQODR4OHC29QUY52@WCUVAX1.BITNET>
+X-Envelope-To: dante@dartmouth.edu
+X-Vms-To: IN%"dante@dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+I would like to explore the Dante Database through the Internet.
+What Login and Password should I use to access the demonstration
+account?
+
+Is any documentation available that I can download?
+
+From Bruce.Duncan@Dartmouth.EDU Wed Nov  4 11:16:39 1992
+Received: from prancer.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA07240; Wed, 4 Nov 92 11:16:19 -0500
+Message-Id: <2486255@prancer.Dartmouth.EDU>
+Date: 4 Nov 92 11:16:13 EST
+From: Bruce.Duncan@Dartmouth.EDU
+Subject: Dante project
+To: dante (Dartmouth Dante Project)
+Cc: Malcolm.Brown@Dartmouth.EDU, Marilyn.R.Crichlow@Dartmouth.EDU,
+        Glen.T.Winans@Dartmouth.EDU
+Status: OR
+
+Janet--
+
+	I believe it is the case that Malcolm Brown (possibly together with
+Glen Winans) will be talking with you about the future of the Dante Project. 
+If I need to get involved, I will, but until called upon I will step back.
+
+		--Bruce
+
+From MAILER-DAEMON Wed Nov  4 19:33:51 1992
+Date: Wed, 4 Nov 1992 19:33:50 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+While talking to prancer.Dartmouth.EDU:
+>>> RCPT To:<kathleen.corrigan@mac.dartmouth.edu>
+<<< 550 Ambiguous user name:kathleen.corrigan
+550 kathleen.corrigan@mac... User unknown
+
+   ----- Unsent message follows -----
+Date: Wed, 4 Nov 1992 19:33:50 -0500
+From: dante (Dartmouth Dante Project)
+To: kathleen.corrigan@mac.dartmouth.edu
+Subject: x-script
+
+I sent this message to you a couple of days ago, I must have spelled
+your name wrong.  Sorry!  Janet Stephens
+-------------------------
+>From MAILER-DAEMON Sun Nov  1 20:10:03 1992
+Date: Sun, 1 Nov 1992 20:10:01 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+To: dante
+Status: RO
+
+   ----- Transcript of session follows -----
+While talking to prancer.Dartmouth.EDU:
+>>> RCPT To:<cathleen.corrigan@mac.dartmouth.edu>
+<<< 550 No such user:cathleen.corrigan
+550 cathleen.corrigan@mac... User unknown
+
+   ----- Unsent message follows -----
+Date: Sun, 1 Nov 1992 20:10:01 -0500
+From: dante (Dartmouth Dante Project)
+To: cathleen.corrigan@mac.dartmouth.edu
+Subject: majors adv.
+
+Hi Cathleen, Walter asked me to forward a message to you from Siena.
+
+"Bissera needs to know the grade she got on her freshman project
+and she would like you to be her major's advisor.   Could you please
+call her in Italy (about 2:00 pm Hanover time) at 011 39 577 499-46"
+
+Cheers, and I hope your fall is going swimmingly, Janet Stephens
+
+
+From MARCUSC@ACFcluster.NYU.EDU Fri Nov  6 16:25:47 1992
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GQU5HHKDCSA3IK0J@ACFcluster.NYU.EDU>; Fri, 6 Nov 1992 16:12:03 EDT
+Date: 06 Nov 1992 16:12:03 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Mistake in text in dbase?
+To: Dante
+Message-Id: <01GQU5HHLPKUA3IK0J@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"Dante@baker.dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+Just thought I would report what looks like an error in the text of
+the Dante Data base.
+ 
+Scanning under Boccaccio at one point the following is found:
+Boccaccio (1373), ^Inf~. Nota.                    Doc 6 of 2077, Screen 30
+
+
+Vedute le predette cose, avanti che all'ordine della lettura si vegna, pare
+doversi rimuovere un dubbio, il quale spesse volte gi@a @e stato, e
+massimamente da litterati uomini, mosso, il quale @e questo.  Diconoss adunque
+questi cotali: <Secondo che ciascuno ragiona, Dante fu litteratissimo uomo; e
+
+The last two words of the penultimate line appear to be diconss adunque.
+I wonder if diconoss should be dicono or diconosi or diconossi.
+Hoping this observation may be of use
+Clifford Marcus
+
+From MAILER-DAEMON Wed Nov 11 09:09:56 1992
+Date: Wed, 11 Nov 1992 09:09:38 -0500
+From: MAILER-DAEMON (Mail Delivery Subsystem)
+Subject: Returned mail: User unknown
+To: dante
+Status: OR
+
+   ----- Transcript of session follows -----
+While talking to ACF6.NYU.EDU:
+>>> RCPT To:<Dante@acfcluster.nyu.edu>
+<<< 553 unknown or illegal user: Dante@ACFcluster.NYU.EDU
+550 Dante@acfcluster.nyu.edu... User unknown
+
+   ----- Unsent message follows -----
+Date: Wed, 11 Nov 1992 09:09:38 -0500
+From: dante (Dartmouth Dante Project)
+To: Dante@acfcluster.nyu.edu, MARCUSC@ACFcluster.NYU.EDU
+Subject: Re:  Mistake in text in dbase?
+
+Thanks!  I will look into it.  Cheers, Janet Stephens DDP
+
+From <@DARTCMS1.DARTMOUTH.EDU:LANA@ITOCSIVM.BITNET> Fri Nov 13 18:12:58 1992
+Received: from dartcms1.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA28058; Fri, 13 Nov 92 18:12:51 -0500
+Message-Id: <9211132312.AA28058@dartvax.dartmouth.edu>
+Received: from DARTCMS1.DARTMOUTH.EDU by DARTCMS1.DARTMOUTH.EDU
+   (IBM VM SMTP V2R1) with BSMTP id 2896; Fri, 13 Nov 92 18:13:16 EDT
+Received: from ITOCSIVM.CSI.IT by DARTCMS1.DARTMOUTH.EDU (Mailer R2.07) with
+ BSMTP id 2895; Fri, 13 Nov 92 18:13:15 EDT
+Received: from ITOCSIVM (LANA) by ITOCSIVM.CSI.IT (Mailer R2.08) with BSMTP id
+ 1133; Sat, 14 Nov 92 00:13:02 ITA
+Date:         Sat, 14 Nov 92 00:11:19 ITA
+From: maurizio lana <LANA@ITOCSIVM.dartmouth.edu>
+Subject:      connnection refused with 129.170.16.2?
+To: DANTE@Dartmouth.EDU
+Status: OR
+
+I'm an italian techer of italian and latin, and like to conncet via telnet with
+ Dante Database, but every time I get the message "foreign host did not respond
+ within the timeout period". Any idea or suggestion?
+Thnaks. Maurizio Lana
+
+MAURIZIO LANA | E-MAIL: LANA@ITOCSIVM.BITNET  | phone & fax 39-11-837262
+CISI - Universita' di Torino - V. S. Ottavio 20 - 10124 Torino Italy
+
+From FAC_RSAURY@VAX1.ACS.JMU.EDU Mon Nov 16 17:40:54 1992
+Received: from vax2.acs.jmu.EDU by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA11055; Mon, 16 Nov 92 15:13:40 -0500
+Received: from VAX1.ACS.JMU.EDU by VAX1.ACS.JMU.EDU (PMDF #2317 ) id
+ <01GR82EQI2M899DXA5@VAX1.ACS.JMU.EDU>; Mon, 16 Nov 1992 15:12:41 EST
+Date: 16 Nov 1992 15:12:41 -0500 (EST)
+From: FAC_RSAURY@VAX1.ACS.JMU.EDU
+Subject: Joining the Dante Project
+To: dante@Dartmouth.EDU
+Message-Id: <01GR82EQI2MA99DXA5@VAX1.ACS.JMU.EDU>
+X-Vms-To: BITNET%"dante@dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: OR
+
+To whom it may concern--I am interested in joining the database for the Dante
+Project.  Please send me any information which may be pertinent to:  Internet: 
+FAC_RSAURY@VAX1.ACS.JMU.EDU or Bitnet:  FAC_RSAURY@JMUVAX. Thanks!
+
+From friedman@metatron.harvard.edu Sat Nov 21 11:54:46 1992
+Received: from metatron.harvard.edu by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA12017; Sat, 21 Nov 92 11:54:37 -0500
+Message-Id: <9211211652.AA16312@metatron.harvard.edu>
+Received: by schottky; Sat, 21 Nov 92 11:54:16 EST
+Date: Sat, 21 Nov 92 11:54:16 EST
+From: friedman@metatron.harvard.edu
+To: dante@Dartmouth.EDU, friedman@metatron.harvard.edu
+Subject: dante database question
+Status: OR
+
+
+To the Dartmouth Dante Database Managers:
+
+I would like to be able to see all commentaries on Purgatorio 31.16-21 (for
+example). I have been trying to get this information with no success. It seems
+that the database keeps ordering everything by publication date, so that I get
+a list of all Purg. commentaries from the 1300's, then the 1400's, etc.
+Furthermore, it seems that the database is ignoring the line and endline
+commands, such that it lists all lines in Purg. instead of the ones I specify.
+I have been using the command from the manual,
+
+  ((((purgatorio[ctca]) & ("30"[cnto])) & (@endl >= "21")) & (@line <= "16"))
+
+Please let me know how to order this search, and how to list by line number
+rather than publication date.
+
+Thank you.
+
+Maria Roglieri
+friedman@hrl.harvard.edu
+

@@ -1,0 +1,40 @@
+Mon Feb 6 19:56:04 EST 1989 canto 01: at sect. B subsect ii, "sonno
+mentale", added verse citation: "(vv. 10-12)" (effects file lines 
+1241 & 1530) jvs
+
+Mon Feb 6 19:57:06 EST 1989 01: at sect. B, subsect iv,
+"Ravedimento" added verse citation: "(v. 2)" (effects file lines
+1243 &1628) jvs
+
+Mon Feb 6 20:48:57 EST 1989 canto 04: at subsection ii, "quattro
+maniere", added verse citation: "(vv. 34-36)" (effects file lines
+3243, 3284, 5126 & 5167)
+	at subsection iv.a: "Ignorantia facti", added verse citation:
+"(vv. 37-39)" (effects file lines 3246, 3402, 5129 & 5285)
+	at subsection iv.b: "Ignorantia iuris", added verse
+citation: "(vv. 90, 141-144)" (effects file lines 3247, 3648, 5130 &
+5531)
+	at lines 5285 & 5396 corrected typo "ldio" to "Idio".  jvs
+
+Mon Feb 6 20:56:58 EST 1989 canto 06: at subsection ii: "gola",
+added verse citation: "(v. 53)" (effects file lines 732 & 804)
+
+Mon Feb 6 20:59:45 EST 1989 canto 07: at subsection ii: "Avarizia:"
+added verse citation "(vv. 40-48)"  (effects file lines 978 & 1329)
+	at subsection iii: "Prodigalit@a" added verse citation "(vv.
+40-48)" (effects file lines 979 & 1609)
+
+Mon Feb 6 21:02:47 EST 1989 canto 09: at subsection i: "citt@a di
+Dite", added verse citation: "(vv. 31-33)" (effects file lines 900
+& 931)
+
+Mon Feb 6 21:04:16 EST 1989 canto 13: at subsection i: "Suicidi sono
+trasformati", added verse citation: "(vv. 37, 94-100)" (effects file
+lines 990 & 1013)  jvs
+Thu Feb 9 16:49:41 EST 1989 preloaded inf jvs
+Fri Feb 24 11:19:27 EST 1989 09.110-133: fixed typo "d intendimenti" to "d'intendimenti" jvs
+Wed Mar 22 22:15:29 EST 1989 jvs fixed formatting all files, using 
+checknew and reformat.sed >> *.newload
+Wed Mar 22 22:15:52 EST 1989 jvs preloaded access.newload
+Wed Apr 19 19:58:45 EDT 1989 jvs deleted obsolete .e and .load files
+Thu Apr 20 09:56:15 EDT 1989 jvs renamed .newload to .e

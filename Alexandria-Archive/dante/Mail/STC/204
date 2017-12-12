@@ -1,0 +1,58 @@
+Return-Path: christian.y.dupont.1@nd.edu
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id QAA11812
+	for <steve@avalon.dartmouth.edu>; Mon, 15 Mar 1999 16:17:17 -0500 (EST)
+Received: from dagger.nd.edu (dagger.nd.edu [129.74.250.101])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id QAA31320
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 15 Mar 1999 16:17:16 -0500 (EST)
+Received: from [129.74.177.137] (dupont.library.nd.edu [129.74.177.137])
+	by dagger.nd.edu (8.8.8/SMS 2.0.4-beta-2) with ESMTP id QAA16445
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 15 Mar 1999 16:17:14 -0500 (EST)
+Message-Id: <199903152117.QAA16445@dagger.nd.edu>
+X-Mailer: Microsoft Outlook Express for Macintosh - 4.01 (295) 
+Date: Mon, 15 Mar 1999 16:17:10 -0500
+Subject: Dartmouth Dante Project files
+From: "Christian Dupont" <christian.y.dupont.1@nd.edu>
+To: Stephen.Campbell@Dartmouth.EDU
+Mime-version: 1.0
+X-Priority: 3
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+
+Dear Steve,
+
+A couple of months ago you sent me some sample commentary files from the
+Dartmouth Dante Project so that we could investigate the possibility of loading
+them into a database structure that could be searched via one of our Web-based
+full-text search engines.
+
+We've been analyzing the mark-up structure and exploring possibilities for
+creating a Web-based implementation of our own. In order to get a sense of how
+your commentary mark up meshes with the text of Dante's Comedy, we would like to
+look at how you've marked up the latter.
+
+Would it be possible for you to send us the corresponding files for the Comedy?
+None were included in the batch of texts you sent earlier. I didn't mention it
+at the time because we have an electronic version of the Comedy in our Opera del
+Vocabolario Italiano database, but as I note above, we would like to study the
+mark up system you employed.
+
+Please let me know if this would be possible. Assuming it is, we can then decide
+how best to transfer the text, whether by ftp or e-mail attachment.
+
+Thanks!
+
+Christian
+
+
+Christian Dupont
+Executive Assistant
+Devers Program in Dante Studies
+
+102 Hesburgh Library
+University of Notre Dame
+Notre Dame, IN  46556
+
+tel: (219) 631-5610         e-mail:    devers.1@nd.edu
+fax: (219) 631-6772         home page: http://devers.cc.nd.edu

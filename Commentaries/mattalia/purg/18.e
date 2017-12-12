@@ -1,0 +1,780 @@
+	|1.  ragionamento~: svolgimento di una tesi o argomento
+fatto in modo filosoficamente conforme: ^ragion~ al v. 12.
+
+	|2.  l'alto dottore~: maestro di alta e ardua dottrina
+(Sapegno).  Dottore, <doctor> era qualifica d'ordine superiore,
+riservata agli insegnanti universitari (cfr. ^Par.~, XII, 85): il
+^savio gentil che tutto seppe~ in ^Inf.~, VII, 3.  Il termine
+ricorre per la prima volta in ^Inf.~, V, 70.  -- |guardava~: se i
+rapporti affettivi fra maestro e discepolo, malgrado
+perturbazioni e stridori, si fanno pi@u stretti, e, nella
+confidenza, pi@u intimamente affettuosi, i rapporti intellettuali
+si sono, invece, venuti facendo pi@u difficili.  Dante @e
+diventato, intellettualmente, pi@u autonomo e si mostra, con
+qualche ostentazione, sempre pi@u critico e di difficile
+contentatura.  Si ricordi quanto @e avvenuto in ^Purg.~, XV,
+58-81.
+
+	|3.  vista~: negli occhi <balconi dell'anima>, e dove pi@u
+^il sembiante si ficca~ (^Purg.~, XXI, 111).  -- |contento~:
+soddisfatto, e pago, nel senso di non avere obbiezioni o altri
+dubbi.
+
+	|4.  nova~: la precedente sete di sapere, per rapporto ai
+termini in cui il quesito era stato posto e argomentato, @e
+placata.  Il quesito, oggetto della |nova sete~, @e formulato ai
+vv. 13-15.  -- |frugava~: ^ragion fruga~ in ^Purg.~, III, 3;
+^giustizia fruga~ in ^Inf.~, XXX, 70: sempre nel significato di:
+tormento, tormentoso stimolo.
+
+	|5.  di fuor~: con le labbra.  -- |e~: ma.
+
+	|6.  grava~: un motivo affine, in ^Inf.~, III, 80.
+
+	|7.  verace~: verace, pieno di verit@a era stato il
+ragionamento di Virgilio: e veracemente paterno l'atto.
+
+	|8.  s'apriva~: veniva all'atto espressivo, l'<apertura>
+di labbra: <aperire os>.  E si sono drizzati; ^aperti~, sul loro
+stelo, i ^fioretti~ di ^Inf.~, II, 129.
+
+	|9.  parlando~: con esplicito invito a parlare. 
+L'inverso in ^Purg.~, XXI, 104: ^con viso che, tacendo, disse:
+<Taci>.~
+
+	|10.  veder~: il vedere, la vista intellettuale: cfr.
+^Par.~, XX, 140; XXXIII, 52.  -- |s'avviva~: prende vita, trae
+vigore: cfr. ^Par.~, XXIII, 113.
+
+	|11.  lume~: luce di sapienza e verit@a: ^luce vivave~ in
+^Par.~, II, 110: con richiamo alle equivalenze ricorrenti nel
+poema: vedere-conoscere-sapere; luce-sapienza-verit@a.
+
+	|12.  ragion~: ragionamento; gi@a in ^Inf.~, XI, 33.  --
+|porti o descriva~: <Il "portare" @e la proposizione della tesi;
+il "descrivere" @e la dichiarazione di essa; e non poco lume
+aggiunge alla cognizione del saper medievale questo "descrivere"
+usato qui latinamente, che ci richiama alla connessione fra il
+"definire" e il "descrivere"; connessione sicura e gi@a prima
+posta per i rapporti intrinseci e nativi dalle idee; connessione
+che in certa guisa, proiettata innanzi all'intelletto del
+dottore, questo legge intellettualmente, riferisce in rilievo,
+"descrive"> (Tocco).  -- |porti~: <ratio fert>, nel linguaggio
+del ^Monarchia.~
+
+	|13.  per@o~; perci@o: Dante ha capito il ragionamento di
+Virgilio nelle sue linee generali e nei suoi sviluppi
+particolari, ma ne vede anche i limiti, e quanto manca a
+completarlo: la definizione di Amore e la descrizione del suo
+processo: |perci@o~...: rispettoso elogio e insieme rilievo di
+incompletezza.  -- |caro~: ^dolce mio padre~ in ^Purg.~, XVII,
+82; qui |caro~ sar@a usato alla latina, con significato
+affettivo-possessivo.
+
+	|14.  dimostri~: non: dimostrare con prove, ma: mostrare
+o svelare nella sua essenza, definire.  -- |reduci~: riconduci,
+fai risalire: cfr. ^Purg.~, XVII, 103 sgg.
+
+	|15.  ogni~... |contraro~: il bene e il male, la virt@u e
+il peccato.
+
+	|16.  l'agute luci~: l'acuta pupilla, occhio: ^il nerbo
+del viso~ in ^Inf.~, IX, 73 sg.; ^la vista della mente~ in
+^Purg.~, X, 122.  @E metafora frequente e gi@a dichiarata in
+^Conv.~, I, 11: <S@i come la parte sensitiva dell'anima... cos@i la
+parte razionale ha suo occhio... la discrezione>.  |Agute~ suona
+sottilmente ironico come riconoscimento che Dante abbia <acute
+luci>; ma sar@a anche invito a farle |agute~, ad aguzzare la
+mente, passandosi ora al punto pi@u difficile del discorso.
+
+	|17.  fieti~: ti sar@a.
+
+	|18.  l'error~: l'erronea opinione, filosofia.  --
+|ciechi~... |duci~: ciechi di mente che pretendono di, si
+accampano a guida (|duci~) degli altri ciechi, trascinandoli,
+com'@e detto in ^Conv.~, I, 11, <ne la fossa de la falsa
+oppinione>.  @E sottinteso il proverbio evangelico: <il cieco al
+cieco far@a guida, e cos@i cadranno ambedue ne la fossa>.  Cfr.
+^Matteo~, XV, 14: <Caeci... et duce caecorum>; e ^Luca~, VI, 39. 
+-- |si fanno~: di presunzione.  -- |duci~: guide.
+
+	|19.  presto~: pronto: prontezza da disposizione
+naturale: ^corre~, aveva detto nel canto precedente (v. 101). 
+^Fatti~... ^a intender presti~ in ^Par.~, XXIX, 60.
+
+	|20-21.  ad ogni~... |desto~: si volge prontamente verso
+ogni cosa piacevole, che sia causa di piacere, non appena @e
+destato (|desto~), messo in attivit@a (|atto~) dal piacere.  @E un
+concetto corrente della filosofia scolastica: la disposizione
+naturale @e allo stato potenziale, e funzione del |piacere~ @e di
+<destarla> in atto, di farla diventare operante.  -- |@e mobile~:
+si muove; con idea di tendenza costituzionale: e moto @e
+manifestazione di desiderio conseguente a sensazione di
+mancamento; ed insieme esplicazione di attivit@a.  -- |che piace~:
+nella filosofia dell'amore di provenienza <siciliana> e
+<provenzale>: e qui @e la chiave teorica dell'episodio di
+Francesca da Rimini: cfr. ^Inf.~, V, 101, 104.  -- |piacere~: lo
+stimolo proveniente dalla |cosa che piace.~  -- |desto~: per
+anologia tra potenza-atto e sonno-veglia.
+
+	|22.  Vostra~: nell'uomo.  -- |apprensiva~: sottint.
+<virt@u>: la facolt@a (e suoi atti ed organi) con cui l'uomo
+<apprende> il reale; e primo e condizionante strumento
+dell'apprendere @e il senso.  -- |esser~: sostantivato: ^cosa~
+{v.20}, sopra; <res> <esse> ed <ens> in latino.  -- |verace~:
+realmente esistente.  Il reale, per gli scolastici, @e
+obbiettivamente dato ed esistente, e condiziona il conoscere: il
+reale o esistente, quindi, @e il <vero>, e il <vero> di un
+pensiero o di una sensazione @e nella usa rispondenza col reale.
+
+	|23.  tragge~: trae, deriva.  -- |intenzione~: le <forme
+delle cose> spiega Dante in ^Conv.~, III, 9, <vengono dentro a
+l'occhio non realmente ma intenzionalmente, s@i come quasi in
+vetro transparente>.  |Intenzione~, o <intentio>, vale <species>,
+termine del linguaggio filosofico, distinguendosi la <species
+realis> (la forma ed essenza obbiettiva delle cose), <la species
+cognoscibilis>, cio@e l'immagine della cosa trasmessa
+all'intelletto dall'organo sensitivo ed entrata nel processo
+conoscitivo.  <Le imagini ovvero similitudini delle cose... i
+filosofi chiamano ora spezie, ora intenzioni> (Varchi,
+^Ercolano~).  -- |dentro~: nell'interno, nell'animo.  --
+|spiega~: dal lat. <explicare>: dispiegare.
+
+	|24.  l'animo~: estensivamente, e avvertendo che qui il
+processo @e delineato nella sua prima fase, in preminente
+relazione ai moti dell'<appetito sensitivo> (^Conv.~, IV, 22).
+
+	|25.  rivolto~: cos@i sollecitato a volgersi.  -- |lei~:
+l'^intenzione~ {v.23} o <specie> della cosa esterna, ^verace~
+{v.22}.  -- |si piega~: il punto limite oltre il quale lo stimolo
+esterno, finora <patito> o sub@ito, si risolver@a in attivit@a e
+moto autonomi e propri dell'^animo~ {v.24}.
+
+	|26.  piegare~: sempre attivo-transitivo nel poema e
+quindi indica ancora azione esplicata, con soggetto a senso.  --
+|natura~: disposizione naturale; e precisandosi che fin qui @e
+processo dell'amor ^naturale~ (cfr. ^Purg.~, XVII, 93), e cio@e in
+una fase ancora elementare, in cui l'animo obbedisce alla legge
+di ogni essere, bruti compresi.
+
+	|27.  per piacer~: causa del <piegarsi>.  -- |di novo~:
+avverbiale, non c'@e dubbio, ma variamente spiegato: <ex-integro>,
+si potrebbe intendere col Giuliani, di volta in volta, sotto lo
+stimolo del |piacer~, l'atto -- spiega Dante nell'^Epist.~ a Cino
+-- potendo corrompersi ed esaurirsi, ma restando intatta alla
+<potenza> la facolt@a di risolversi in nuovi atti.  Secondo altri:
+primieramente, per la prima volta (ma l'idea @e gi@a in ^natura~
+{v.26}), con rimando a ^Purg.~, XXII, 116.  -- |si lega~: in
+vitale e operante simbiosi (con l'anima razionale creata da Dio),
+come in ^Par.~, II, 141 e ^Inf.~, XIII, 88: e poich$e vita @e
+attivit@a, il significato sar@a: opera, si fa sentire: <lex
+naturae>.
+
+	|28-30.  Poi~: seconda fase del processo.  -- |come~: nel
+paragone l'idea: legge naturale, sempre disposizione connaturata;
+ergo: <natura> o <forma> dell'animo.  -- |foco~: come il fuoco si
+muove verso l'alto, in forza della sua |forma~ o intima essenza,
+o ^natura~ {v.26} o <istinto> (cfr. ^Par.~, I, 115; IV, 77) che
+lo portano a salire verso al <sfera del fuoco>, dove pi@u a lungo
+dura, si conserva la sua materia.  -- |in altura~: modo
+avverbiale.  Brunetto, ^Tesoretto~, 672: <cos@i quel ch'@e 'n
+altura>; e cfr. ^Purg.~, IX, 69.  -- |forma~: equivale a <natura>
+(^Mon.~, III, 15).  -- |nata a~: con immanente disposizione o
+tendenza, fin dalla sua prima origine (l'atto creativo di Dio). 
+-- |a salire~: cfr. ^Par.~, I, 141.  -- |l@a dove~: il commento in
+^Conv.~, III, 3: <Ciascuna cosa... ha 'l suo speziale amore. 
+Come le corpora simplici hanno amore naturato in s$e a lo luogo
+proprio... il fuoco... a la circunferenza di sopra, lungo lo
+Cielo de la Luna, e per@o sempre sale a quello>.  -- |matera~:
+materia; |sua~, propria e individua, differenziata da quella
+degli altri elementi.  La durata @e in funzione della
+<simplicitas>, ogni aggregato o composto essendo soggetto a
+corruzione e disgregazione.  -- |dura~: in forza del
+principio-assioma: ogni cosa tendere alla propria conservazione.
+
+	|31.  preso~: verbo tipico della poesia d'amore e dei
+processi affettivi (cfr. ^Inf.~, V, 101, 103): preso dall'amore
+per la cosa verso al cui immagine <si era piegato>.  -- |disire~:
+desiderio.  Il desiderio deriva da sensazione di mancamento, e
+(nella dottrina dantesca) si risolve in ^moto~ {v.32}, che a sua
+volta @e esplicazione di attivit@a.
+
+	|32.  spiritale~; spirituale, attinente all'anima: e
+segna la differenza specifica.  Sempre |spiritale~ nel poema;
+<spiritualis> nel latino dantesco.
+
+	|33.  fin che~... |gioire~: e non si placa, non ha tregua
+(^non posa~ {v.32}) fino a che non pu@o gioire, impossessandosi
+della cosa amata.  Cos@i i pi@u: ma l'interpretazione sforza
+lievemente il testo, venendosi ad affermare che il desiderio
+cessa con la conquista della cosa amata, il che non @e vero.  Ci
+par preferibile intendere: fino a che la cosa amata lo fa gioire,
+fino a che dura il piacere, il godimento della cosa amata non
+esaurendosi nella sua conquista e potendosi prolungare nel tempo. 
+Solo con la ripetizione l'atto si pu@o esaurire e, venendo meno il
+piacere, cessa anche il desiderio.  L'idea del primo
+impossessamento o unione con la cosa amata @e inclusa.
+
+	|34.  Or~: a questo punto.  -- |puote~: pu@o: con una
+sfumatura di riserva: se mi hai seguito e capito; donde la velata
+replica di Dante, al v. 40, ^'l mio seguace ingegno~: s@i, ti ho
+seguito e capito.  -- |apparer~: apparir chiaro, evidente.
+
+	|35.  gente~: i filosofi: con una sfumatura di disprezzo. 
+-- |avverare~: denominale da <vero>: afferma o crede come vero. 
+Ricorre in ^Purg.~, XXII, 31.  Il costrutto @e ellittico, come
+<porre il mondo> di ^Inf.~, IV, 136.
+
+	|36.  ciascun~: ogni genere di amore, indistintamente. 
+-- |laudabil cosa~: buono, non suscettibile di biasimo, in quanto
+disposizione naturale.  La catena concettuale @e la seguente: la
+Natura procede da Dio, ed @e <buona> e razionale nelle sue
+operazioni: l'Amore @e nell'uomo come disposizione naturale,
+dunque ogni Amore di per s$e @e buono.  La correzione dice: l'uomo
+non @e solo Natura ma anche Anima razionale, e in questa stretta
+unione la discriminazione morale insorge quando per continuato
+svolgimento di processo, l'amore naturale (primo e secondo
+momento) si risolve in <amore d'animo> o ^moto spirituale~
+{v.32}.
+
+	|37-39.  per@o~... |cera~: variamente interpretato.  Il
+senso generale par essere che il giudizio sulla bont@a o meno
+dell'amore non va dedotto dalla sua |matera~, ossia dalla
+disposizione naturale da cui esso si origina (pura e
+indiscriminata ^natura~ {v.26} non ancora in s$e suscettibile di
+giudizio morale), la quale tuttavia, pur con qualche limitazione
+(|forse~), si pu@o definir genericamente |buona~ in quanto
+l'istintiva tendenza verso il bene, se moralmente e
+intellettualmente guidata, porta a Dio, sommo bene: va, invece,
+dedotto dall'oggetto o fine col quale entra in rapporto, e
+s'indirizza o abbandona.  Un amore rivolto al male, non pu@o esser
+moralemnte definito buono; e come la bont@a della cera non
+garantisce, di per se stessa, la bont@a o perfezione del suggello,
+cos@i il fatto che l'amore s'indirizzi verso una cosa, non
+garantisce la liceit@a o bont@a morale della cosa stessa.  Secondo
+altri la <materia> @e l'oggetto dell'amore, la cosa amata, la
+quale illusoriamente, all'istinto, pu@o apparir sempre buona.  --
+|segno~: con passaggio dal linguaggio proprio al metaforico:
+|segno~ @e l'impronta lasciata dal suggello, e dall'imperfezione
+del segno si deduce quella del suggello.  E poich@e, nell'uso che
+Dante fa di questa metafora, suggellare vale in genere fatto e
+atto conclusivi, si potr@a intendere: |buono~ in s$e l'amore come
+disposizione naturale, ma non in ogni sua manifestazione e
+operazione.
+
+	|41.  discoverto~: svelato cio@e nella sua prima ed
+universale essenza.
+
+	|42.  ma~... |pregno~: ma ci@o non ha fatto che aumentare
+i miei dubbi, suggerirmi nuovi quesiti.  Dante incalza,
+rispettosamente pugnace.  -- |dubbiar~: dubbio dialettico,
+chiarisce il Tocco, di cui in ^Par.~, IV, 124-132 si riconosce la
+funzione positiva, e da intendere non gi@a come stimolo alla
+conquista o creazione di un vero <nuovo>, s@i come passaggio da un
+vero minore a uno maggiore, e gi@a esistente e definito.
+
+	|43.  amore~: l'oggetto su cui opera l'amore come atto o
+disposizione naturale.  -- |di fuori~: dal di fuori, dalla realt@a
+esterna (e l'uomo non @e responsabile dell'esistere o meno delle
+cose).  -- |offerto~: all'animo, dall'organo sensitivo
+corrispondente.
+
+	|44.  va~: opera, @e in attivit@a; fuori di metafora.  --
+|piede~: metafora scritturale, per indicare moti o facolt@a
+dell'anima.  In ^Mon.~, II, 7: <ad que humana ratio propriis
+pedibus pertingere potest>.
+
+	|45.  dritta o torta~: sulla via del bene o del male: ^la
+diritta via~ in ^Inf.~, I,3; ^fa parer dritta la via torta~ in
+^Purg.~, X, 3.  -- |merto~: doppio significato: merito (positivo)
+per il bene; merito (negativo) colpa, responsabilit@a, per il
+male.  |Merto~ per: <colpa> in ^Par.~, XXX, 147.  L'obbiezione, a
+prima vista, @e intellettualmente pesante: dimenticando quanto
+aveva energicamente affermato Marco Lombardo in ^Purg.~, XVI,
+67-84, dal principio dell'origine naturale dell'amore, Dante
+deriva, con grossa consequenzialit@a, una valutazione
+deterministica dell'umano operare.  Ma l'argomento @e forse
+intenzionalmente caricato, e il quesito @e pi@u sottile: @e
+veramente possibile, posto quel principio, eliminare dalla
+valutazione dell'umano operare ogni criterio deterministico? 
+Affermare, cio@e, l'assoluta libert@a dell'anima razionale?
+
+	|46.  ragion~: la ragione, filosofia.  Il problema
+filosofico si articola con princ@ipi d'ordine teologico, e nella
+rinunzia di Virgilio a varcare certi limiti sar@a da vedere un
+indiretto accenno ai diversi interventi dell'Autorit@a
+ecclesiastica in alcuni grossi dibattiti dottrinali del sec.
+XIII.  -- |qui~: in questa parte del problema.
+
+	|47-48.  t'aspetta pur~: esprime invito a guardare e
+affidamento; come in ^Par.~, XVII, 88: rivolgiti e affidati
+esclusivamente a...  In <aspettare>, osserva giustamente il
+Porena, c'@e il senso etimologico del latino <adspectare>.  --
+|Beatrice~: la Teologia, corpus di dottrine sul quale poggia il
+magistero religioso e intellettuale della Chiesa.  -- |ch'@e~:
+poich$e @e, si tratta di.  -- |opra~: argomento.  -- |di fede~: <de
+fide> in latino; un problema nel quale, oltre un certo limite,
+per le questioni e conseguenze che coinvolge seco, @e necessario
+rinunziare all'argomento <razionale> e accettare la dottrina
+fissata dalla <auctoritas> (chiesa; pi@u esattamente: la dottrina
+dei teologi fatta propria e accettata come vera dalla Chiesa).
+
+	|49.  forma sustanzial~: |forma~ sostanziale, nel
+linguaggio filosofico del tempo, designa ogni principio o ente
+autonomo e attivo, capace di sussistere per s$e (per questo @e
+^sostanziale~) e, unito ad altro, di determinarlo e organizzarlo. 
+In questo caso la forma sostanziale, ch'@e poi l'essenza prima
+fondamentale e distintiva dell'uomo, @e l'anima razionale, <forma>
+del corpo (cfr. ^Par.~, IV, 54) la quale, scrive San Tommaso (^S.
+T.~, I, 76, 4) <unitur corpori ut forma substantialis>.  Essa @e
+|setta~ (letteralmente: tagliata), nettamente distinta dalla
+materia, cio@e di diversa natura, ma unita ad essa (cos@i l'anima
+al corpo).  Si tratta di termini tipici e di concetti-chiave
+della filosofia scolastica: cfr. ^Conv.~, III, 2; ^Mon.~, III,
+12, ecc.  -- |unita~: l'uomo dunque: poich$e gli Angeli, sono
+anch'essi <forme sostanziali>, ma non unite alla materia (corpo):
+cfr. ^Conv.~, II, 4, 7; III, 13 ecc.
+
+	|51-54.  specifica~... |vita~: l'anima razionale (o
+intellettiva) ha |colletta~ in s$e, possiede una virt@u specifica,
+distintiva e sua propria (@e il suo <praedicamentum>
+specificamente distintivo) la qual @e percepibile (se ne riscontra
+l'esistenza) solo quando ^opera~, entra in attivit@a (passando
+dalla potenza all'atto); e si rivela solo dai suoi ^effetti~ o
+prodotti, allo stesso modo che la vita di una pianta @e attestata
+dal verde delle foglie.  -- |specifica~: l'uomo, in forza
+dell'unione dell'anima con il corpo, costituisce una <specie> nel
+<genere> delle <forme sostanziali> al quale appartengono anche
+gli Angeli: e la differenza specifica si dovr@a intendere
+affermata in rapporto agli Angeli appunto nei quali, partecipando
+essi pi@u intimamente e direttamente della natura di Dio, non v'@e
+distinzione tra <potenza> e <atto>, tutto essendo atto.  -- |ha~:
+possiede: di possesso connaturale e permanente.  -- |mai che~: in
+lat. <magis quam>, in prov. <mas que>: pi@u che, fuorch$e: cfr.
+^Inf.~, IV, 26; XXI, 20; XXVIII, 66.  -- |per~: per mezzo di.  --
+|colletta~: accolta; o meglio, col Torraca; legata, congiunta.
+
+	|55-57.  Per@o~... |affetto~: perci@o, dato che la virt@u
+specifica dell'anima (la capacit@a di conoscere e pensare) e
+l'amore stesso, connaturali all'uomo, si percepiscono e si
+possono analizzare e conoscere solo quando entrano in attivit@a,
+passando dalla potenza all'atto, e solo da questo momento
+diventano oggetto di riflessione e di conoscenza che l'uomo
+(|omo~: impersonale) non pu@o sapere (|sape~) donde venga la
+capacit@a di conoscere (|intelletto~) le |prime notizie~, e primi
+veri, e quale sia l'origine delle <categorie> con le quali opera
+la ragione (come cio@e in essa si originino o formino), n$e donde
+deriva l'affetto, l'amore dei beni che, presentandosi come
+^appetibili~, desiderabili, stimolano esso amore.  Cfr. ^Conv.~,
+III, 8.  -- |non sape~: dall'impossibilit@a di risalire al modo di
+operare della causa prima (Dio), e dal postulato che solo chi
+produce pu@o conosere pienamente la cosa prodotta e ne @e
+responsabile, s'inferisce (se, col Tocco, non fraintendiamo
+l'oscuro passo) la non-responsabilit@a dell'uomo in questi moti e
+attitudini dell'anima.  Il Tocco: <La nostra virt@u specifica @e di
+conoscere e di amare.  Che sappiamo noi di questa nostra virt@u
+specifica prima che essa sia in atto?  La vita della pianta noi
+conosciamo soltanto dalle sue fronde.  Ora @e in questo stadio
+oscuro di sua "potenza" che la nostra virt@u specifica  riceve i
+suoi "inizii", quelli di cui aveva parlato anche Marco Lombardo;
+e questi sono, per la "virt@u di conoscere" ossia intellittiva, le
+"prime notizie"; e per la "virt@u d'amare", i "primi appetibili". 
+Tanto le prime quanto i secondi noi ci accorgiamo di avere quando
+gi@a ci sono, come @e l'istinto del far il miele nell'ape: e perci@o
+non ne siamo responsabili.  Noi siamo responsabili conosciamo se
+non ci@o che @e in atto>.  -- |appetibili~: sostant.: oggetto
+dell'<appetito>; cos@i <sensibile>, oggetto di percezione
+sensitiva.
+
+	|58.  ch'@e~: il che @e.  -- |solo~: limitativo e
+specificante; come specifico ed esclusivo dell'ape @e lo |studio~
+di produr miele.  -- |s@i come~: di stretta analogia: per tendenza
+connaturale.  -- |studio~: amore, inclusivo delle idee
+accessorie: ardore, applicazione al lavoro.
+
+	|59.  prima~: in senso temporale e dottrinale.  --
+|voglia~: desiderio (istintivo), tendenza: operante al di fuori
+della volont@a propriamente detta.
+
+	|60.  di lode o di biasmo~: |noncape~, accoglie, non @e
+suscettibile di giudizio morale.
+
+	|61-63.  Or~... |soglia~: ora -- continua Virgilio --
+sebbene (e non: <affinch$e>, come si spiega comunemente, poich$e
+l'affermazione mira a sbrecciare la tesi deterministica di Dante
+di cui ai vv. 43-45) ogni altra tendenza o appetito dell'anima si
+raccolga, si riconduca unitariamente a questo primo impulso
+naturale, non @e men vero che l'anima ha in s$e, |innata~, e dunque
+connaturale, una vir@u |che consiglia~, capace di valutare e
+deliberare (la Ragione), ed ha il compito dopo aver esaminato il
+fine dell'impulso naturale, di custodire la |soglia
+dell'assenso~, di decidere se l'anima razionale (intelletto e
+volont@a) debbano o meno assentire, e in quali limiti, e modi a
+quel primo impulso.  Questa virt@u @e libera, come ha affermato
+Marco Lombardo in ^Purg.~, XVI, 73-81; cfr. ^Conv.~, IV, 15.  --
+|innata~: in ^Quaestio~, XX: <innata est nobis via investigande
+veritatis>.  -- |consiglia~: delibera, valuta.  La Ragione, che
+nell'uomo, a differenza dei bruti, deve muovere la volont@a, e il
+cui atto @e il <iudicium>, il quale @e libero solo in quanto non
+sia, deterministicamente come nei bruti, determinato
+dall'<appetito> (cfr. ^Mon.~, I, 12).
+
+	|63.  dell'assenso~: alla volont@a, di ^assentire~ a sua
+volta a: nel moto del volere @e l'assenso dell'intelletto.  --
+|de'~: deve: @e dovere nell'uomo.  -- |Tener~: occupare, dominare.
+
+	|64-66.  Quest'@e~... |viglia~: l'esistenza di una ragione
+libera e attivamente regolatrice @e il principio dal quale
+discende, razionalmente, il principio della responsabilit@a, del
+<merito> positivo e negativo, a seconda che la ragione accolga
+amori buoni (merito positivo) o <vigli>, vagli, separi e rifiuti
+amori cattivi (demerito).  <@E da sapere, secondo la sentenzia del
+filosofo nel terzo dell'^Etica~, che l'uomo @e degno di loda o di
+vituperio solo in quelle cose che sono in sua potest@a di fare o
+di non fare; ma in quelle, nelle quali non ha potest@a, non merita
+n$e vituperio n$e loda, perocch$e l'uno e l'altro @e da rendere ad
+altrui>.  (^Conv.~, III, 4, 8; I, 5).  -- |accoglie~: sempre, i
+buoni.  -- |viglia~: da <vigliare>: verbo dell'uso vivo e
+contadinesco, secondo Benvenuto: separare il chicco del grano
+dalle spighe e da ogni altra cosa estranea.  Nell'atto @e incluso
+l'effetto connesso al fine per cui si <viglia>: eliminare i |rei~
+amori.
+
+	|67-69.  Color~... |mondo~: i filosofi, e Aristotele in
+primo piano, che ragionando andaron veramente al |fondo~
+nell'indagine di questi problemi, notarono e affermarono
+l'esistenza, nell'uomo, di questa |innata libertate~, (libero
+arbitrio) e perci@o, e solo per questa via, lasciarono al mondo
+|moralit@a~, una scienza o filosofia morale.  Cadendo il principio
+di libert@a, cade il principio di responsabilit@a, pilastro chiave
+dell'edificio della Morale: cfr. ^Purg.~, XVI, 70-72; e ^Mon.~,
+I, 12.  -- |ragionando~: filosofando.  -- |al fondo~: i pi@u
+profondi filosofi, dunque.  -- |per@o~: perci@o.  -- |moralit@a~:
+^Conv.~, IV, 6: <Aristotile, che Stagirite ebbe sopranome, e
+Zenocrate Calcedonio, suo compagnone... limaro e a perfezione la
+filosofia morale redussero, e massimamente Aristotile...  La
+perfezione di questa moralitade per Aristotile terminata fue>. 
+-- |al mondo~: agli uomini (e lasciaron sussistere).  Di
+Aristotele e dei Peripatetici, in ^Conv.~, IV, 6: <tiene questa
+gente oggi lo reggimento del mondo in dottrina per tutte parti, e
+puotesi appellare quasi cattolica oppinione>. 
+
+	|70-72.  poniam~... |podestate~: ammesso che ogni amore
+(o voglia o appetito) si accenda in voi necessariamente, per
+incontrastabile forza d'impulso naturale: (ebbene) voi avete
+anche il potere, la virt@u capace di |ritenerlo~, frenarlo e
+trattenerlo nei giusti limiti.  -- |di necessitate~: cfr.
+^Purg.~, XVI, 69.  -- |s'accende~: verbo tipico dell'amore: e,
+correlativamente, <foco>, <ardore>.  -- |podestate~: potest@a,
+potere (con implicita nozione di sufficienza).
+
+	|73-75.  La nobile~... |arbitrio~: a questa nobile virt@u,
+nel linguaggio dei teologi, si d@a il nome di |libero arbitrio~:
+^libero voler~ aveva detto Marco Lombardo in ^Purg.~, XVI, 71-76:
+Beatrice ne parler@a in ^Par.~, V, 19 sgg.  Il ragionamento
+dottrinariamente assai inarcato in qualche punto, didatticamente
+martellato nei singoli svolgimenti, @e finito: una vera <impresa>!
+@e gi@a passata mezzanotte.  -- |guarda~: di avvertimento.  --
+|prende~: imprende.
+
+	|76-78.  La luna~... |arda~: siamo nella quinta notte del
+viaggio oltremondano, a cinque giorni di distanza dal plenilunio
+(cfr. ^Inf.~, XX, 127-128): la luna, che ormai tardava fin verso
+mezzanotte a sorgere (ma in quel momento era gi@a all'orizzonte),
+pur trovandosi gi@a nella fase calante, si presentava ancor simile
+a un secchione di rame tutto lustro e rilucente (Barbi) e, cos@i
+luminosa, faceva apparire pi@u rade le stelle (solo le stelle
+maggiori eran visibili, le minori essendo <velate> dalla luce
+lunare).  L'ora indicata @e, con approssimazione, mezzanotte.  Si
+tratta, come in altri casi, d'indicazione assai discussa: il
+Porena, ad esempio, fa rilevare che nell'emisfero australe,
+all'inverso di quanto accade nel boreale, la Luna, dopo il
+plenilunio, avvicinandosi al tropico del Capricorno anticipa e
+non ritarda il suo sorgere, e che quindi non @e improbabile una
+distrazione di Dante.  -- |parer~: apparire; usitato.  --
+|secchion~: il paragone col |secchion~ di rame, vorr@a indicare:
+luce ramea e disco dilatato com'@e anche, per effetto del mezzo
+ottico, del sole all'alba e al tramonto.  -- |arda~: in quanto
+rifletta luce di sole: e cos@i la luna, che deriva la luce dal
+sole.
+
+	|79-81.  e correa~... |cade~: e percorreva il suo corso
+(da occidente a oriente) in direzione contraria al moto del cielo
+(da oriente a occidente) per le vie infiammate dal Sole nel
+periodo dell'anno (il solstizio d'inverno) in cui l'abitante di
+Roma la vede tramontare fra Sardegna e Corsica, cio@e in direzione
+dello stretto che divide le due isole.  A sud-ovest, precisa il
+Porena, avvertendo che nelle carte geografiche del tempo Sardegna
+e Corsica appaiono spostate sensibilmente pi@u a sud che nelle
+carte moderne.  -- |contra 'l ciel~: ^contr'al corso del ciel~ in
+^Par.~, VI, 2.  -- |strade~: i segni della fascia zodiacale,
+secondo altri: e la nostra <lettura> del passo, desideriamo
+avvertire, @e fatta con l'usuale riserva del dubbio.  -- |quel da
+Roma~: il romano; ^quel da Lucca~ in ^Purg.~, XXIV, 35.  --
+|quando cade~: precisazione intenzionale, con cui si vorr@a forse
+indicare la posizione del sole (diametralmente opposta a quella
+della luna) e il modo ond'esso illumina la luna.
+
+	|82.  ombra gentil~: nobile, illustre anima (Virgilio). 
+-- |Si noma~: @e nominata; @e chiamata.
+
+	|83.  Pietola~: Pietole (<Andes> in latino) villaggio nel
+mantovano, ritenuto patria di Virgilio.  -- |pi@u che villa~:
+altre <ville> o villaggi da costituire pietra di paragone non
+essendoci nel mantovano, si spiega: pi@u che la stessa citt@a di
+Mantova: |villa~ per citt@a, anche in ^Purg.~, XV, 97, sempre per@o
+unita all'articolo.  Secondo l'altra interpretazione: pi@u di ogni
+altro, villaggio, localit@a del mantovano.  N$e l'una n$e l'altra
+riescono del tutto persuasive, e il senso dell'espressione
+parrebbe un altro: tanto @e il prestigio e la fama che a Pietole
+son venuti dal fatto di esservi nato Virgilio, che volendo
+indicare questa localit@a, @e sufficiente dir <|Pietola~>, senza
+bisogno di ulteriori indicazioni, come potrebbe esser questa:
+localit@a del mantovano; e come si farebbe per il luogo natale (se
+piccolo villaggio) di altri personaggi.
+
+	|84.  carcar~... |soma~: aveva deposta la |soma~
+costituita dal mio insistente |carcar~, gravarlo di obbiezioni e
+dubbi; aveva, cio@e, cessato di parlare: n$e io avevo altro da
+chiedere.  Secondo Casini-Barbi e Torraca: mi aveva liberato dal
+peso dei miei dubbi ma ci@o @e detto ai vv. 85-86.
+
+	|85.  ragione~: ragionamento; usitato.  -- |aperta e
+piana~: larga e chiaramente intelligibile.
+
+	|86.  ricolta~: accolta nella mente: ascoltata e capita;
+usitato.
+
+	|87.  vana~: da <vanare>, forse dal provenz. <vanar>:
+vaneggia, entra in torpore.  La ragione, probabilmente, sar@a la
+stessa di ^Purg.~, XI, 10-12. 
+
+	|88.  Ma~: nella cornice della neghittosa accidia non c'@e
+posto per il sonno: nemmeno per Dante!
+
+	|89.  gente~: schiera d'anime.  -- |dopo~: dietro, i due
+poeti si son volti a guardare.
+
+	|90.  gi@a volta~: aveva ormai oltrepassata la curva della
+cornice e, fattasi visibile, si avvicinava rapidamente alla
+spalle di Dante e Virgilio.  @E uno sbucar rapido e improvviso di
+gente che procede con passo di corsa disordinata ed irruente: in
+un attimo, infatti (v. 97) la folla @e ^sovra~ i due poeti.
+
+	|91-93.  E quale~... |uopo~: il paragone @e tratto
+principalmente da Stazio, il quale nella sua ^Teb.~ (IX, 434
+sgg.) accenna ai riti orgiastici che i tabani, per impetrare
+l'aiuto di Bacco, celebravano lungo le rive dei due fiumi
+attraversanti la Beozia; Ismeno e Asopo.  Caratteristica dei riti
+bacchici era la furia, l'invasamento, il frenetico tumulto di
+danze urlate e suoni.  -- |Ismeno~... |Asopo~: secondo il modulo
+di scena il fiume osservatore e quasi partecipe delle cose:
+l'Arno nel canto XIV; i fiumi della Gallia, per le imprese di
+Cesare, in ^Par.~, VI, 58-60.  -- |furia e calca~: folla
+compatta, in preda all'invasamento o furia.  ^Calcato e pieno,~
+in ^Purg.~, X, 79.  -- |pur che~: sol che; con implicito
+commento: feste e riti interessati, non fatti per puro amore al
+dio.  -- |di Bacco~: dell'aiuto di Bacco.  -- |uopo~; bisogno: in
+caso di carestie, pestilenze, guerre.
+
+	|94-96.  falca~: <falcare>: (qui transitivo) @e detto del
+passo del cavallo, e cos@i pure la <falcata>; e Dante svolte il
+motivo nell'ambito della metafora: cos@i, attraverso il girone,
+all'idea che me ne potei fare guardando, arrivavano, con vigorose
+falcate, quelle anime cavalcate, spronate, da buon volere e da
+giusto amore, da sollecito zelo e da adeguato amore (per il
+bene).  Gli accidiosi, procedendo in tal modo, praticano la virt@u
+opposta al loro peccato: zelo e sollecitudine.  -- |giusto amor~:
+il contrario di ^scemo del suo dover~ di ^Purg.~, XVII, 845. 
+|Volere e amor~ sono il metaforico cavaliere che li |cavalca.~
+
+	|98.  magna~: grande, d'uso non raro nel poema, a
+cominciare da ^Inf.~, IV, 119.
+
+	|99.  gridavan~: gli <esempi> son qui gridati da due
+anime; le altre a loro volta ne <gridano> in coro l'insegnamento,
+mettendolo in atto.
+
+	|100.  Maria~: il primo esempio di sollecitudine dal
+^Vangelo~ di ^Luca~, I, 39: la sollecita visita di Maria ad
+Elisabetta.  Cfr. ^Purg.~, X, 41-42.
+
+	|101-102.  Cesare~... |Ispagna~: il problema pi@u grave e
+urgente per Cesare, dopo Farsalo, erano i pompeiani ancor padroni
+della Spagna, poi sconfitti nella battaglia di Ilerda: e verso la
+Spagna egli punt@o decisamente, limitandosi, nella sua marcia, a
+<pungere> Marsilia, avviando le operazioni di assedio la cui
+direzione lasci@o affidata a Bruto.  Da Lucano, ^Fars.~, III, 453
+sgg.
+
+	|105.  studio~: zelo, ardente sollecitudine.  -- |grazia
+rinverda~: fa rinverdire, fa riaffluire copiosa in voi la grazia
+di Dio.  Rossi e Parodi: che... cosicch$e lo |studio di ben far
+rinverda~ (cong. da <reinverdire>), faccia rinverdire la grazia:
+ma la sequenza dei due |che~ sintatticamente affini suona meno
+bene, ed @e poi razionalemnte opportuno che del precetto siano
+indicati la ragione e il fine.
+
+	|106.  aguto~: cr. ^Inf.~, XXVI, 121; ^disio~... ^acume~
+in ^Par.~, I, 83-84.
+
+	|107-108.  ricompie~: compensa e ristora (Fraticelli). 
+-- |forse~: tempera, con diplomatica e cortese riserva, l'accenno
+al peccato.  -- |negligenza e indugio~: nel primo termine
+l'abito-causa, nel secondo l'effetto.  -- |messo~: riferisci a
+|negligenza e indugio.~
+
+	|109.  vive~: @e un vivo, col corpo: @e enunciato subito il
+fatto pi@u sorprendente per le anime: gli accidiosi, cos@i pare
+aver pensato Virgilio, hanno bisogno di forti stimoli
+psicologici.  -- |bugio~: dico bugia: da <bugiare>, dell'uso
+antico, poetico e prosastico.
+
+	|110.  pur che~: sol che, non appena; cfr. ^Purg.~, VII,
+53-56.  -- |riluca~: torni a splendere.
+
+	|111.  per@o~: perci@o; cos@i anche al v. 13.  -- |ond'@e
+presso~: da quale parte @e presso, pi@u vicino.  -- |pertugio~:
+^cruna~ in ^Purg.~, X, 16; ^buca~ poco sotto: la scala o fessura
+nella roccia per salire al girone superiore.  Anche Virgilio si
+mostra impaziente d'indugio, per intonarsi alle anime.
+
+	|115.  voglia~... |pieni~: lo si @e visto: dal modo come,
+alla luce lunare, uscirono, un po' fantasticamente, dalla curva;
+e dall'impressione quasi allarmata che ne prov@o Dante: di marcia
+travolgente!
+
+	|116.  potem~: potemo, possiamo: forse un lombardismo,
+dato il personaggio che parla.  -- |restar~: ristare, fermarsi;
+usitato.
+
+	|117.  se~... |tieni~: se per caso tieni, giudichi, ti da
+l'impressione di villania questo nostro procedere: ma @e nostra
+|giustizia~, nostro riparatorio dovere cos@i fare.  -- |villania~:
+il contrario di <cortesia>; cfr. ^Inf.~, XXXIII, 150.  --
+|giustizia~: quanto ci spetta di diritto o @e nostro dovere fare:
+cfr. ^Par.~, XV, 144.
+
+	|118-119.  Io fui~... |Barbarossa~: personaggio non
+esattamente individuato questo abate del Monastero di San Zeno a
+Verona, ai tempi del Barbarossa (1152-1190): di un solo abate si
+ha notizia, un don Gherardo, m. nel 1187.  Ma fu certamente un
+esemplare clamoroso di Accidia, e la fama, quando Dante scrive il
+canto, doveva esserne ancor viva nella tradizione veronese,
+conformemente al principio enunciato in ^Par.~, XVII, 136-142. 
+-- |buon Barbarossa~; come ^buono Augusto~ di ^Inf.~, I, 71;
+valente.
+
+	|120.  di cui~... |ragiona~: si allude senza dubbio alla
+distruzione di Milano, centro della resistenza anti-imperiale
+lombarda, ordinata dal Barbarossa nel 1162.  Ma l'accenno non pu@o
+suonar condanna dell'operato del ^buon Barbarossa~ {v.119}: @e
+piuttosto una rievocazione implicitamente ammonitiva; nello stile
+di quella rivolta agli <scellerati fiorentini> nella nota
+^Epistola~: <Recensete -- egli scrive -- fulmina Federici
+prioris, et Mediolanum consulite pariter et Spoletum>.  --
+|ragiona~: parla: ne @e dunque ancor vivo e doloroso il ricordo. 
+
+	|121-123.  E tale~... |possa~: un piede nella fossa, nel
+1300 (quindi, si sottintende duramente, avrebbe fatto meglio a
+pensare a cose pi@u gravi) aveva Alberto della Scala, signore di
+Verona, che doveva morire nel settembre del 1301.  Costui, dice
+l'accidioso abate, tra poco (|tosto~) pianger@a amaramente
+(nell'oltretomba?) i torti ch'egli ha nei confronti di quel
+monastero e gli sar@a motivo di grave dolore il fatto di avere
+avuto |possa~, potere.  La ragione @e chiarita nei versi che
+seguono; il mal uso del potere e l'intrusione in faccende di
+tutt'altra giurisdizione, fu la nomina, da lui voluta, di un suo
+figlio illegittimo, Giuseppe, ad abate di San Zeno (nel 1292).
+
+	|124-125.  suo figlio~: con dipendenza da ^ha posto~
+{v.126}.  Giuseppe, figlio illegittimo di Alberto (accanto ai tre
+figli legittimi: Bartolomeo, Alboino, Cangrande) fu abate di San
+Zeno dal 1292 al 1313.  Benvenuto racconta di lui cose
+gravissime, e qualche fondamento della mala fama doveva esserci:
+la condanna di Dante, @e per sua parte, estremamente dura e
+perentoria.  L'accenno comunque non pecca di eccessiva simpatia
+filo-scaligera, e, a meno di lasciarne intera la responsabilit@a
+al gi@a accidioso e vecchio abate che ora in un impeto di polemico
+zelo, si rivela cos@i preoccupato per le sorti del suo monastero,
+non restano, a spiegare il tono, che due ipotesi: o quando Dante
+scriveva il canto non era ancora entrato in impegnative relazioni
+con Cangrande; o vi era gi@a entrato ma il signore scaligero aveva
+separato nettamente la sua responsabilit@a dalla mala fama
+dell'abate, il che lasciava man libera a Dante.  -- |mal~...
+|peggio~: difettoso, deforme, nel corpo, e peggio ancora (per le
+sue conseguenze) nell'anima.  -- |mal nacque~: in quanto nacque
+extra-legem, fu figlio illegittimo: ma forse l'allusione @e pi@u
+estensiva.
+
+	|126.  ha posto~... |vero~: il verso farebbe pensare a
+intrusione illecita e violenta per cui altri sarebbe stato
+defraudato dei suoi diritti e Giusepe, pastore non |vero~, n$e per
+regolarit@a di nomina n$e per qualit@a morali, avrebbe avuto,
+avrebbe occupato la carica del |vero~ pastore.
+
+	|127.  Io~... |tacque~: l'espressione, cos@i formulata,
+suona reticenza: ci sarebbe ancora dell'altro, da dire in
+proposito...  Lo stesso suggerimento contiene il v. 129.
+
+	|129.  mi piacque~: ritenni utile, opportuno; o necessario.
+
+	|130.  uopo~: bisogno, opportunit@a.  -- |soccorso~:
+^conforto~ in ^Purg.~, III, 22; IX, 43.  |Soccorso~ (l'astratto
+per il concreto), perch$e <soccorre>, va o viene prontamente
+incontro all'uopo, a quanto @e opportuno fare. 
+
+	|131.  due~: due anche prima, al v. 99.
+
+	|132.  all'accidia di morso~: i due <mordono>, biasimano,
+condannano l'accidia, gridando esempi di accidia punita
+(punizione materiale, nel primo es.; morale, nel secondo).  Cfr.
+^Inf.~, XXXI, 1.
+
+	|133.  Di retro~: in coda alla turba.  |Prima~: lega col
+^che~ del v. 135.  Primo esempio di accidia punita: gli Ebrei
+che, usciti dalla coattivit@a d'Egitto attraverso il corridoio
+apertosi loro nelle acque del Mar Rosso, ribellatisi a Mos@e
+indugiarono nel deserto, morendo prima di veder la Terra
+promessa, la Palestina.  -- Cfr. ^Esodo~, XIV, 10-20; ^Num.~,
+XIV, 1-39.
+
+	|135.  Iordan~: il fiume Giordano, attraversante la
+Palestina: qui, estens., per Palestina: cfr. n. v. 91.  -- |rede
+sue~: eredi: gli Ebrei, che dovevano entrare in possesso della
+Palestina, retaggio loro assegnato da Dio.  Cfr. ^Inf.~, XXXI,
+116.  ^Purg.~, VII, 118; ^Par.~, XI, 112, ecc.
+
+	|136.  E quella~: ^gente~ {v.134}: i compagni di Enea
+che, stanchi del lungo errabondare, si stabilirono in Sicilia:
+cfr. ^En.~, V, 604 sgg.  -- |affanno~: le fatiche, i travagli del
+lungo viaggiare.  -- |non sofferse~: non volle sopportare,
+affrontare.
+
+	|137.  figlio d'Anchise~: cfr. ^Inf.~, I, 74. 
+
+	|138.  s$e~... |sofferse~: si offr@i, si ridusse
+(autocondannandosi moralmente) a vivere una vita senza gloria:
+<animos nil magnae laudis egentes> li definisce Virgilio in
+^En.~, V, 751.
+
+	|140.  potiersi~: si potevano: ^sediero~, in ^Purg.~, II,
+45.
+
+	|142.  diversi~: non quindi, in catena logica, quando i
+pensieri sono prodotti e dominati: donde il vaneggiare, il
+trascorrere torpido e come sognabondo dall'uno all'altro e il
+risolversi, con un trapasso insensibile, nella tenue sostanza del
+primo sonno, sogno.
+
+	|143.  vaneggiai~: cfr. v. 87.
+
+	|144-145.  per vaghezza~: per quel vagare della mente,
+s'interpreta: ma sarebbe ripetizione del ^vaneggiare~ del v.
+prec.  |Vaghezza~ viene da <vago>, che nell'uso normale del poema
+vale: desideroso e simili: ^vaga~: per: <errante, errabonda>,
+solo in ^Par.~, XII, 14.  |Vaghezza~ perci@o sar@a: bisogno di
+sonno, in conseguenza di che il poeta chiude gli occhi, con
+l'effetto finale del |sogno~, che presuppone sonno gi@a avviato. 
+-- |pensamento~: moto e gioco di pensieri.  Morbido e sfumato
+trapasso: il vaneggiare, chiudere gli occhi, sonno, sogno.

@@ -1,0 +1,455 @@
+head     1.4;
+branch   ;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.4
+date     91.06.06.15.07.44;  author dante;  state Exp;
+branches ;
+next     1.3;
+
+1.3
+date     89.06.01.10.58.59;  author dante;  state Exp;
+branches ;
+next     1.2;
+
+1.2
+date     88.10.17.11.29.01;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     88.09.21.13.45.43;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Main search menu.  "Home" menu.
+@
+
+
+1.4
+log
+@production version on U2 the VAX.
+@
+text
+@{GSRCH}
+
+:SET #QMASK ~#ZQ~
+
+:SET @@TMP ~Current top #ZM queries:~
+:COMPARE #MAXQUERY
+     TO "0-#ZM"
+	:SET @@TMP ~Current queries:~
+:DONE
+
+:PRINT ~@@HEADING@@TMP\n~
+
+:BRS QUERIES USING ~T#ZM~
+:COMPARE #MAXQUERY
+     TO "0"
+	:PRINT ~  None outstanding.\n~
+:DONE
+
+:COMPARE @@HAVEHITS
+     TO "No"
+	:SET @@HAVEHITS ~Yes~
+	:COMPARE #DOCS
+	     TO "0"
+		:SET @@HAVEHITS ~No~
+	:DONE
+     TO "Yes"
+	:SET @@TMP ~@@BDEFAULT~
+	:SET @@BDEFAULT ~#MAXQUERY~
+	:COMPARE #DOCS
+	    TO "0"
+		:SET @@BDEFAULT ~@@TMP~
+	:DONE
+:DONE
+
+:SET @@TMP ~#NEXTQUERY~
+:COMPARE #NEXTQUERY
+     TO "1-9"
+	:SET @@TMP ~ @@TMP~
+     TO "1-99"
+	:SET @@TMP ~ @@TMP~
+:DONE
+
+:GET @@SELECTION ~\nEnter search or option letter (eg \o2L\f2ine search, \o2H\f2elp, \o2O\f2ption list, \o2Q\f2uit):\n@@TMP__: ~
+:PARSE @@SELECTION UPPER
+
+:COMPARE @@SELECTION
+     TO "0-#MAXQUERY"
+	:SET @@BR ~@@SELECTION~
+	:SET @@SELECTION ~D~
+	:SET @@DOC ~1~
+	:SET @@PRESELECT ~~
+	:MENU ~GOPTS_~
+
+     TO "#1:H"
+	:MENU ~GSRCH_H~
+
+; Here begins the special stuff for the Dante Project's "line search."
+
+     TO "#1:L"
+	:SET @@SELECTION ~~
+	:SET @@TSTRING ~Any~
+	:COMPARE @@LANGUAGE
+	     TO "*"
+		:SET @@TSTRING ~@@LANGUAGE~
+	:DONE
+
+	:GET @@LANGUAGE ~\nCommentary language: Italian, Latin, English, Any or S to Search [@@TSTRING]: ~ -
+	     MATCH "I|i|L|l|E|e|A|a|S|s|"
+	:PARSE @@LANGUAGE UPPER
+
+	:COMPARE @@LANGUAGE
+	     TO ""
+		:SET @@LANGUAGE ~@@TSTRING~
+	     TO "S"
+		:SET @@LANGUAGE ~@@TSTRING~
+		:MENU
+	     TO "I"
+		:SET @@LANGUAGE ~Italian~
+		:SET @@SELECTION ~Italian[Lang]~
+	     TO "L"
+		:SET @@LANGUAGE ~Latin~
+		:SET @@SELECTION ~Latin[Lang]~
+	     TO "E"
+		:SET @@LANGUAGE ~English~
+		:SET @@SELECTION ~English[Lang]~
+	     TO "A"
+		:SET @@LANGUAGE ~~
+	:DONE
+
+	:SET @@TSTRING ~Any~
+	:COMPARE @@COMMENTARY
+	     TO "*"
+		:SET @@TSTRING ~@@COMMENTARY~
+	:DONE
+
+	:GET @@COMMENTARY ~Commentary name, A for Any, or S to Search [@@TSTRING]: ~
+
+	:COMPARE @@COMMENTARY
+	     TO ""
+		:SET @@COMMENTARY ~@@TSTRING~
+	     TO "#1:S|#1s"
+		:SET @@COMMENTARY ~@@TSTRING~
+		:MENU
+	     TO "#1:A|#1:a|Any"
+		:SET @@COMMENTARY ~~
+	     TO "*"
+		:COMPARE @@SELECTION
+		     TO "*"
+			:SET @@SELECTION ~@@SELECTION &~
+		:DONE
+		:SET @@SELECTION ~@@SELECTION @@COMMENTARY[Comm]~
+	:DONE
+
+	:SET @@TSTRING ~Any~
+	:COMPARE @@CTCA
+	     TO "*"
+		:SET @@TSTRING ~@@CTCA~
+	:DONE
+
+	:GET @@CTCA ~Cantica: Inferno, Purgatorio, Paradiso, Any or S to Search [@@TSTRING]: ~ -
+	     MATCH "I|i|PU|Pu|pu|PA|Pa|pa|A|a|S|s|"
+	:PARSE @@CTCA UPPER
+
+	:COMPARE @@CTCA
+	     TO ""
+		:SET @@CTCA ~@@TSTRING~
+	     TO "S"
+		:SET @@CTCA ~@@TSTRING~
+		:MENU
+	     TO "A"
+		:SET @@CTCA ~~
+	     TO "*"
+		:COMPARE @@SELECTION
+		     TO "*"
+			:SET @@SELECTION ~@@SELECTION &~
+		:DONE
+	     TO "I"
+		:SET @@CTCA ~Inferno~
+		:SET @@SELECTION ~@@SELECTION Inferno[Ctca]~
+	     TO "PU|Pu"
+		:SET @@CTCA ~Purgatorio~
+		:SET @@SELECTION ~@@SELECTION Purgatorio[Ctca]~
+	     TO "PA|Pa"
+		:SET @@CTCA ~Paradiso~
+		:SET @@SELECTION ~@@SELECTION Paradiso[Ctca]~
+	:DONE
+
+	:SET @@TSTRING ~Any~
+	:COMPARE @@CNTO
+	     TO "*"
+		:SET @@TSTRING ~@@CNTO~
+	:DONE
+
+	:GET @@CNTO ~Canto number (1-34), Any or S to Search [@@TSTRING]: ~ -
+	     MATCH "1-34|A|a|S|s|"
+	:PARSE @@CNTO UPPER
+
+	:COMPARE @@CNTO
+	     TO ""
+		:SET @@CNTO ~@@TSTRING~
+	     TO "S"
+		:SET @@CNTO ~@@TSTRING~
+		:MENU
+	     TO "A"
+		:SET @@CNTO ~~
+	     TO "*"
+		:COMPARE @@SELECTION
+		     TO "*"
+			:SET @@SELECTION ~@@SELECTION &~
+		:DONE
+	     TO "1-34"
+		:SET @@SELECTION ~@@SELECTION "@@CNTO"[Cnto]~
+	:DONE
+
+	:SET @@TSTRING ~Any~
+	:COMPARE @@DLINE
+	     TO "*"
+		:SET @@TSTRING ~@@DLINE~
+	:DONE
+
+	:GET @@DLINE ~Line number (1-160), Any or S to Search [@@TSTRING]: ~ -
+	     MATCH "1-160|A|a|S|s|"
+	:PARSE @@DLINE UPPER
+
+	:COMPARE @@DLINE
+	     TO ""
+		:SET @@DLINE ~@@TSTRING~
+	     TO "S"
+		:SET @@DLINE ~@@TSTRING~
+		:MENU
+	     TO "A"
+		:SET @@DLINE ~~
+	     TO "*"
+		:COMPARE @@SELECTION
+		     TO "*"
+			:SET @@SELECTION ~@@SELECTION &~
+		:DONE
+	     TO "1-160"
+		:SET @@SELECTION ~@@SELECTION "\@@LINE" <= @@DLINE & "\@@ENDL" >= @@DLINE~
+	:DONE
+
+	:COMPARE @@SELECTION
+	     TO ""
+		:MENU
+	:DONE
+
+     TO "#1:O"
+	:SET @@SELECTION ~L~
+
+; Here endeth the DDP stuff
+
+     TO "#1|"
+	:SET @@BR ~?~
+	:SET @@DOC ~?~
+	:MENU ~GOPTS_~
+:DONE
+
+:COMPARE @@SELECTION
+     TO "*$*|*?*|*!*"
+	:SET @@SINDEX ~~
+	:SET @@ICONTINUE ~No~
+:DONE
+
+:PRINT ~\nResults are:\n~
+
+:SET @@TMP ~#PGLEN~
+:SET #PGLEN ~0~
+
+:SET #TERM ~~
+:BRS SEARCH ~@@SELECTION~
+
+:SET #PGLEN ~@@TMP~
+
+:COMPARE #RESULT
+     TO "*"
+	:CLEAR STACK
+
+	:PARSE #RESULT EXTRACTING @@TYPE
+
+	:COMPARE @@TYPE
+	     TO "ERROR"
+		:PRINT ~\t\o5 #RESULT \f5\n~
+
+	     TO "EQUALS"
+		:PRINT ~\tExpression equals #RESULT\n~
+	:DONE
+
+	:PAUSE
+	:MENU
+:DONE
+
+:COMPARE #PICKUP
+     TO "*"
+	:PRINT ~\n\o5 (WARNING: Truncation overflow occurred) \f5\n~
+:DONE
+
+:SET @@BR ~#MAXQUERY~
+:SET @@DOC ~1~
+:SET @@EON ~#ZE~
+
+:COMPARE #DOCS
+     TO "0"
+	:COMPARE #CSFLAG
+	     TO "YES"
+		:CLEAR STACK
+		:PRINT ~\n\o5 Nothing found for @@SELECTION \f5\n~
+	:DONE
+
+	:COMPARE @@EON
+	     TO "Yes"
+		:COMPARE #TERMS
+		     TO "* *|*	*"
+			:SET @@EON ~No~
+		:DONE
+	:DONE
+
+	:COMPARE #ZP
+	     TO "Yes"
+		:SEND ~U#MAXQUERY~
+		:SHOW BEFORE "*"
+		:CLEAR QUERIES COUNT ~1~
+	:DONE
+
+	:COMPARE @@EON
+	     TO "No"
+		:PAUSE
+		:MENU
+	:DONE
+
+	:PRINT ~\n~
+	:GET @@EON ~Enter \o2S\f2 to Search; \o2E\f2 to Expand [E]: ~ "S|s|E|e|"
+	:COMPARE @@EON
+	      TO "E|e|"
+		:SET @@EXPAND ~Yes~
+		:MENU ~XPAND_~
+	:DONE
+	:MENU
+:DONE
+
+:COMPARE @@PRESELECT
+     TO ""
+	:SET @@TYPE ~~
+     TO "F"
+	:SET @@TYPE ~Full~
+     TO "C"
+	:SET @@TYPE ~Context~
+     TO "B"
+	:SET @@TYPE ~Brief~
+     TO "O"
+	:SET @@TYPE ~Ordering~
+:DONE
+:PRINT ~\n~
+:GET @@SELECTION -
+     PROMPT ~Enter \o2S\f2 to Search; \o2D\f2 for @@TYPE Display; \o2E\f2 for Extra Display Options [#ZF]: ~ -
+     MATCH "S|s|D|d|E|e|"
+:PARSE @@SELECTION UPPER
+
+:COMPARE @@SELECTION
+     TO ""
+	:SET @@SELECTION ~#ZF~
+
+;
+; @@PRESELECT is used to pre-select the print option to be used later.
+; If it is null, then GETPD will do its usual thing of asking for the 
+; print options.  Cf. GETPD.MNS.
+;
+     TO "D"
+	:MENU ~GOPTS_~
+
+     TO "E"
+	:SET @@PRESELECT ~~
+	:SET @@SELECTION ~D~
+	:MENU ~GOPTS_~
+
+:DONE
+
+:MENU
+@
+
+
+1.3
+log
+@This version employs a simple-minded approach to display options.
+You can choose full or context display and go right to them, or
+can get the display options menu.  New version will allow a default
+display option or the options menu
+@
+text
+@d51 1
+d176 1
+a176 1
+	:COMPARE @@LINE
+d178 1
+a178 1
+		:SET @@TSTRING ~@@LINE~
+d181 3
+a183 3
+	:GET @@LINE ~Line number (1-163), Any or S to Search [@@TSTRING]: ~ -
+	     MATCH "1-163|A|a|S|s|"
+	:PARSE @@LINE UPPER
+d185 1
+a185 1
+	:COMPARE @@LINE
+d187 1
+a187 1
+		:SET @@LINE ~@@TSTRING~
+d189 1
+a189 1
+		:SET @@LINE ~@@TSTRING~
+d192 1
+a192 1
+		:SET @@LINE ~~
+d198 2
+a199 2
+	     TO "1-163"
+		:SET @@SELECTION ~@@SELECTION "\@@LINE" <= @@LINE & "\@@ENDL" >= @@LINE~
+d300 12
+d314 2
+a315 2
+     PROMPT ~Enter \o2S\f2 to Search; \o2D\f2 to Display; \o2C\f2 for Context Only; \o2E\f2 for Extra Options [#ZF]: ~ -
+     MATCH "S|s|D|d|C|c|E|e|"
+a327 1
+	:SET @@PRESELECT ~F~
+a334 4
+     TO "C"
+	:SET @@PRESELECT ~C~
+	:SET @@SELECTION ~D~
+	:MENU ~GOPTS_~
+@
+
+
+1.2
+log
+@First crack at Line Searches.  This was the version used at the opening.
+@
+text
+@d90 24
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d43 1
+a43 1
+:GET @@SELECTION ~\nEnter a search request or option letter (eg \o2Q\f2uit, \o2H\f2elp, \o2L\f2ist of options):\n@@TMP__: ~
+d56 131
+d277 2
+a278 2
+     PROMPT ~Enter \o2S\f2 to Search; \o2D\f2 to Display [#ZF]: ~ -
+     MATCH "S|s|D|d|"
+d285 5
+d291 11
+@

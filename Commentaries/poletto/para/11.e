@@ -1,0 +1,1242 @@
+	|Nota~ <Contiene, scrive il Landino, la somma di questo undecimo
+canto le laudi di due religioni, di santo Francesco e di santo
+Domenico, le quali afferma essere state eccitate in opportuno
+tempo della providentia divina.>  <Il nobile cominciamento del
+Canto, nel quale il Poeta, vedendo sotto di s@e legisti e medici e
+preti e re cupidi e potenti armati di violenza e di sofismi, e
+rubatori e uomini politici e uomini carnali, si consola
+dell'esilio e della solitudine e del dolore; questo cominciamento
+consuona con le lodi di Francesco d'Assisi, che, fuggendo le
+grandezze e gli onori del mondo raggiunse anco quaggi@u l'altezza
+d'una gloria immortale.>  Fin qui il Tommaseo; e, manco a dirlo,
+va bene; ma non va bene quanto soggiunge: ^Dante colloca
+Francesco d'Assisi tra' sapienti~; ci@o non @e, perch@e non qui @e
+collocato il gran Poverello, sibbene qui Tommaso d'Aquino gli fa
+il mirabile elogio.  Secondo me, i nove primi versi sono un
+ritratto vivissimo della maledetta Lupa, che s'ammoglia a molti
+animali; senza per@o intender per questo che il Poeta, scevro di
+^tutte queste cose~, fosse il Veltro.  Ragionando sugli ultimi
+versi del Canto XXVII del ^Purgatorio~, ho detto altra volta (cf.
+^Dizionzario Dantesco~, vol. VIII, App. II, {Paragraph.} XIX)
+quanto ora ripeto: <Disviluppandosi Dante dalle cose presenti,
+cagione del suo ^smarrimento~, alle quali era s@i lungamente corso
+dietro con ^cura insensata~ (cf. ^Par.~, XI, 1-12), ora era
+giunto alla pienezza dell'amor del bene e del vero e al
+conseguente abborrimento di quanto ad esso s'oppone (^Purg.~,
+XXXI, 85-87), in che sta la pace; a dir breve, si trovava nella
+condizione, che con profondo avvedimento nota l'autore
+dell'^Imitazione di Cristo~, libro che pu@o essere, chi ben lo
+intenda, il commento virtualmente pi@u alto di tanta parte della
+D. Commedia: <Lascia ogni cosa, e ogni cosa troverai; non ti
+lasciar legare dallo <amore d'alcuna cosa, e troverai la pace. 
+Pensa questo ch'io t'ho detto, e quando l'avrai fatto, intenderai
+ogni cosa> (Lib. III, 37, 1).  E cos@i, a parer mio, si pu@o
+chiaramente comprendere perch@e tanto sorriso d'amore e di pace il
+Poeta ci dipinga tra S. Francesco e la Povert@a (^Par.~, XI), e
+come il gran Poverello fosse ^tutto serafico in ardore~, messo in
+piena antitesi al tempo di Dante, tremendamente descrittoci, e
+non senza perch@e, nell'esordio dello stesso Canto; onde Francesco
+arde d'amore, e lo diffonde per ogni dove, seco attirando altri;
+e l'et@a di Dante, quando ognuno per sposa cercava la cupidigia,
+era congelato d'odio s@i che l'un l'altro si rodeva di quei che un
+muro e una fossa teneva insieme (^Purg.~, VI, 84).>
+
+	|1-12.~  L'Alfieri not@o il terzo e il sesto. 
+|Insensata~; senza intelletto; e ^insensati~ chiama la S.
+Scrittura quei che deviano dal vero, seguendo le sue parvenze
+(^Galat.~, III, 1).  L'Ottimo (nel ^proemio~ a questo Canto):
+<Santo Tommaso, nel terzo ^contra Gentiles~ mostra, che la
+felicitade umana consiste nel contemplare Iddio; e chi da quella
+si disvia, esce dell'ordine dato per lo Creatore alla spezie
+umana; e per@o li uomini che non tendono con la sua opera e col
+suo atto in quello fine, si possono dire insensati, cio@e senza
+senno...; e quello uomo che @e privato del senno (-- ^il Cod.
+Riccard. 2 legge~ senso --), molto maggiormente dello intelletto
+e cognizione spirituale @e privato.>  -- |Difettivi sillogismi~;
+imperfetti, falsi ragionamenti.  Nella ^Vit. N.~, {Paragraph.}
+28: <Parvemi difettivamente aver parlato.>  Lucrezio (II, 21): ^O
+miseras hominum mentes, o pectora caeca~?  L'Ottimo: <Sono
+defettivi li sillogismi, per@o ch'elli non conchiudono vero, in
+ci@o che le proposizioni sono false, e per@o falso conchiudono.> 
+-- |In basso~ ecc.; volger l'animo alle cose terrene. 
+Spogliatosi il Poeta del ^malo amore~ alle cose presenti, ben
+poteva, nella serenit@a dell'intelletto, compiangere gli erranti! 
+-- |Jura~ (dal lat. ^jus~); le scienze legali (^dietro
+all'Ostiense~ dir@a pi@u innanzi, ^Par.~, XII, 83).  -- |Aforismi~;
+(con manifesto accenno agli |Aforismi~ d'Ippocrate: cf. ^Conv.~,
+I, 8); la medicina (^dietro a Taddeo~, ^Par.~, XII, 83); dunque
+^legisti e medici~ (^Conv.~, IV, 27).  Su questa e la seg.
+terzina cf. ^Purg.~, X, 2, nel commento, e ^Par.~, XXVII, 121 e
+segg.  -- |Sacerdozio~; a fine di lucro (cf. ^Par.~, XII, 91-93). 
+L'Ottimo: <|Sacerdozio~, cio@e prebendatico, cio@e dietro alle
+prebende e alle prelazioni, per avere li frutti, non per
+coltivare l'orto e la vigna di Dio.>  -- |Regnar~ ecc.; questo
+infinito, e il seguente |rubare~ dipendono dal verbo
+|s'affaticava.~  -- |Per forza~; risguarda la violenza,
+l'oppressione.  ^Sofisma~ @e un argomento falso in s@e, ma con
+apparenza di verit@a.  L'Ottimo: <|Regnar~ ecc.; cio@e per dolo e
+per inganno: e questo @e quando la cittade @e commessa al governo
+di alquanti pochi, li quali per persuasione e per pulite dicerie
+ingannano tutta l'altra cittadinanza, trasportando il bene comune
+in sua propria utilitade.>  Sta bene; ma @e chiaro che il Poeta
+parla pure di certi governanti che invece di ^persuasioni~ e di
+^dicerie pulite~ usano il knut, la forca e il capestro.  Ad ogni
+modo anche quelli, onde qui parla l'Ottimo, per Dante sono
+abbominevoli tiranni (^sunt tyranni, qui publica jura non ad
+communem utilitatem sequuntur, sed ad propriam retorquere
+conantur~: ^Mon.~, III, 4); e ai tiranni non dice precisamente
+quale, ma lascia intravedere che la pena da infliggersi doveva
+esser terribile (^Mon.~, loc. cit.).  Qui cade una questione, che
+proposi gi@a nel mio ^Dizionario Dantesco~ (alla voce Re,
+{Paragraph.} II, in nota: vol. VI, pag. 22); e credo bene che lo
+studioso di Dante se ne formi un concetto preciso.  Nella ^Mon.~,
+III, 7, il nostro Autore scrive: <Auctoritas Principis non est
+Principis, nisi ad usum; quia nullus Princeps seipsum auctorizare
+potest, recipere autem potest, atque dimittere...  Creatio
+Principis ex Principe non dependet.>  E si avverta bene anche
+quest'altro passo (^Mon.~, I, 14): <Non cives propter consules,
+nec gens propter regem; sed e converso consules propter cives,
+rex propter gentem.>  Questi luoghi, a parer mio, comprendono e
+illustrano l'affermazione del Poeta nel ^Par.~, VI, 57, dove dice
+che G. Cesare assunse l'autorit@a di capo dello Stato ^per voler
+di Roma~; e l'altra risguardante Augusto, che ^esercitava
+l'autorit@a dei Romani~ (^Mon.~, II, 11).  Dagli allegati passi,
+s'io non traveggo, par chiaro che Dante pei Gvernanti in genere
+non ammette il cos@i detto ^diritto divino~ nella successione ai
+principati: di diritto divino @e l'autorit@a, che uno esercita,
+perch@e l'autorit@a viene da Dio (^Mon.~, III, 12; ^Epist.~, V, 3,
+5); onde chi a quella resiste, a Dio resiste (^Epist.~, V, 4); ma
+viene dal popolo la condizione, secondo la quale esercitarla:
+infatti o l'autorit@a, che una Casa esercita sul popolo, fu in
+origine usurpata (ecco il |regnar per forza e per sofismi~,
+^Par.~, XI, 6); o fu ottenuta per consenso comune, perch@e il
+popolo nelle buone qualit@a di quella persona ravvisava un
+beneficio comune, una tutela de' suoi diritti e delle sue
+franchigie, un argomento di ulteriore prosperit@a (^unum oportet
+esse aliorum regulatorem, vel datum ab aliis, vel ex ipsis,
+praemintem, consentientibus aliis~, ^Mon.~, I, 7).  Nel primo
+caso si pu@o dire con Dante che ^usurpatio juris non ficit jus~,
+salvo che in processo di tempo, per mutate e migliorate
+condizioni di persona, non vi acceda, come sanatoria, il consenso
+del popolo, in cui radicalmente sta la ragione dell'autorit@a, che
+il Principe esercita in benefizio di tutti.  Nel secondo caso, se
+i successori saranno imbecilli o perversi, violatori del patto
+primitivo, angariatori del popolo, ^nemici di Dio~ (^Conv.~, IV,
+6), non potr@a il popolo eleggersi un altro Principe?  E vorreste
+farmi credere che Dante, intendesse che un popolo, date tali
+condizioni, non avesse anche il diritto di mutare la propria
+forma di governo? vorreste persuadermi che Dante fosse tanto
+tiranno da obbligare un popolo a tenersi sul collo un Sovrano
+stupido o briccone?  S. Tommaso, ricercando quale sia la forma
+migliore del Principato, dice franco che ^quella dove tutti hanno
+una qualche parte~: e si compone: 1) di Principe, in quanto uno
+deve presiedere; 2) dell'aristocrazia, in quanto molti comandano
+secondo virt@u: 3) della democrazia, ovvero principato del popolo,
+pel quale il popolo si elegge il Principe; ^Somm.~, I, II, 95, 2;
+105, 1.  -- |E chi rubare~ ecc.; su questo e sul precedente verso
+parmi notabile la chiosa del Casini: <Dante pensava certo,
+scrivendo questi versi, a tutti i faccendieri, specialmente gli
+uomini di legge fatti a posta a parlare, che nei consigli della
+sua Firenze traevano alle lor sentenze i pi@u dei cittadini; di
+tali faccendieri furono Corso Donati, ^piacevole, savio e ornato
+parlatore~ (D. Compagni, II, 21), Baldo d'Aguglione e Fazio da
+Signa barattieri grandi e giudici (cf. ^Par.~, XVI, 56), e molti
+altri loro simili che vivono, sinistre figure, nelle pagine del
+cronista dei Bianchi.>  -- |Civil negozio~; traffichi, mestieri;
+altri intende in senso pi@u ristretto, cio@e le cariche civiche. 
+Nel ^Conv.~, I, 1: <La cura famigliare e civile convenevolmente a
+s@e tiene degli uomini il maggior numero, sicch@e in ozio di
+speculazione essere non possono.>  E questa ^cura civile~ @e
+pregio, e anche dovere di buon cittadino; dunque non di ci@o Dante
+pu@o intendere in quel |civil negozio~, ma gli abusi di tal
+|negozio~; cio@e fare un negozio del servire la patria, come tosto
+sentiamo dal vecchio chiosatore.  L'Ottimo (e ne deve aver vedute
+di belline:) fa questa chiosa: <Quel |negozio~, cio@e cittadinesca
+operazione d$ei intendere, che @e in baratto nelli offizi del
+Comune; e quindi s'ingrassa; e piace loro s@i di stare al governo
+ed al timone delle pericolanti navi, per potere levare e lasciare
+chi loro piace, per potere impadronirsi delle imbarcate merci, e
+s@i del viaggio, come della compensazione del getto in mare,
+quando pi@u fortuneggia, alleggiare barca, uccidendo, ribandendo,
+e tornando dalli esilii per danari, eligendo li rettori,
+ricevendo presenti e doni per promuovere.  Oh Iddio! quanti modi
+sono in questo civile negozio d'offendere Dio e il prossimo!>  --
+|Involto~; @e ancor pi@u di avvolto, avviluppato.  Il Camerini cita
+le parole del Macchiavelli: ^Nelle cose veneree maravigliosamente
+involto.~  -- |S'affaticava~; pi@u avanti, a dir la stessissima
+cosa, user@a il verbo ^affannarsi~ (^Par.~, XII, 82), che fa
+risovvenire la ^lena affannata~ del naufrago (^Inf.~, I, 22), ch@e
+naufraghi davvero son gli accennati qui dal Poeta, ma che quanto
+pi@u ^s'affaticano~, e pi@u s'allontanano dal ^salutevole porto~
+(^Conv.~, IV, 28).  Cf. ^Inf.~, XXXIV, 54, i passi di
+sant'Agostino e di san Gregorio.  Ben not@o l'Andreoli, che
+l'apparente disordine di questo periodo imita il temulto delle
+descritte cure mondane.  -- |Ozio~; @e un'arte liberale di tutti i
+tempi; per@o per Dante l'ozio @e massimamente nemico della sapienza
+(^Conv.~, IV, 1); e quasi sempre s'accoppia ad altri riprovevoli
+vizi (^Purg.~, VII, 102).  Nel passo test@e allegato dal ^Conv.~,
+I, 1 (al v. 7), sentimmo di ben altro ozio; bene distingue
+l'Ottimo: <Nota ch'egli @e ozio buono e ozio reo; il buono @e
+quando il corpo cessa dalle operazioni, e l'anima si esercita in
+contemplazione di Dio, e di cose virtudiose.  Qui non dice di
+questo, ma dice dell'altro ozio, quando si riposa il corpo, e
+l'anima a nullo bene intende.>  Il Cesari: <Che ingegnoso
+affastellamento e quasi calca di cose! e che saltar di natural
+modo e costrutto in figurato e diverso! tutto in vero studio, per
+mostrare quel vano e torbido affaccendarsi degli uomini.>  -- |Da
+tutte queste cose sciolto~; parrebbe quasi audace e superba la
+confessione; ma si ripensino gli ultimi versi del Canto XXVII del
+Purgatorio; e poi si badi che gi@a tal confessione per Dante
+l'aveva fatta Beatrice, quando lo disse ^privo d'impedimento~ per
+salire al Cielo (^Par.~, I, 139-140).  Nell'^Imit. Cr.~, I, I, 3:
+^Non si va al regno del cielo se non per dispregio delle cose del
+mondo.~  Rispetto a |sciolto~ il Tommaseo ed altri citano
+Virgilio (^Aen.~, IV, 652):
+
+     Accipite hanc animam, meque his exsolvite curis.
+
+^Horat.~, I ^Sat.~, VI, 128-13o:
+
+     haec est
+     Vita solutorum miser#a ambitione gravique.
+     His me consolor, victurus suavius...
+
+-- |Con Beatrice~; nel ^Conv.~, III, 12: <Questo amore nella mia
+mente informava continue, nuove e altissime considerazioni di
+questa donna.>  -- |Gloriosamente~; per l'accentatura del verso @e
+mestieri distinguere le due parti dell'avverbio, come altrove
+(^Inf.~, XXI, 6), e come in quello del Patrarca: ^Nemica
+naturalmente d'orgoglio.~  -- |M'era~... |accolto~; come in parti
+sicuro, scampato dal procelloso mare del mondo.  E l'espressione
+|m'era accolto~ dimostra la deliberata volont@a del Poeta di
+staccarsi (|sciolto~) dalle cose caduche per sollevarsi cos@i alle
+eterne.  Il terzetto esprime per effetto il consiglio, che
+altrove d@a agli uomini l'Autore: ^Homines trahant se ad
+immortalia et divina pro posse~ (^Quaest. Aq. et Terr.~,
+{Paragraph.} 22); che @e quanto dice nel ^Conv.~, IV, 13: <Dice
+Aristotele, che l'uomo si dee trarre alle cose divine quanto
+pu@o.>  Questo |sciolto~, o meglio la presente terzina @e come il
+germe della bella antitesi (^Par.~, XXXI, 37-39: cf. ^Purg.~,
+XVII, 127-129, il passo di Boezo):
+
+     Io, ch'era al divino dall'umano,
+     Ed all'eterno dal tempo venuto,
+     E di Fiorenza in popol giusto e sano.
+
+	|13-15.~  Ciascuno~, dei dodici beati formanti il beato
+serto, la ghirlanda, e che gi@a conosciamo per nome.  --
+|Tornato~; danzando.  -- |In che avanti~ ecc.: dov'era prima di
+mettersi in moto (^Par.~, X, 79-81 e 145-146).  -- |Fermossi~
+(altri ^fermo s@i~, o ^fermi s@i~, unendo questa colla seg.
+terzina) |come~; ristette, nella immobilit@a propria della candela
+fissata sul candeliere.  -- |Candelo~; cf. ^Par.~, XXX, 54.
+
+	|16-18.  Ed io~ ecc.; |ed~, nota il Biagioli, vale quanto
+^ed ecco~, e mostra che tornar nel punto del cerchio, fermarsi, e
+dire, fu a un tempo.  -- |Lumiera~ ecc.; l'anima risplendente di
+S. Tommaso che gi@a aveva parlato al Poeta (cf. ^Par.~, X, 82 e
+segg.).  -- |Lumiera~, anche l'anima di Giustiniano (^Par.~, V,
+130), e quella di Raab (^Par.~, IX, 112).  -- |Pi@u mera~;
+rivestendo luce pi@u pura, effetto di novello movimento di carit@a;
+questo maggiormente risplendere @e l'usato segno del piacere dei
+santi nel compiacere al Poeta.
+
+	|19-21.  Cos@i com'io~ ecc.; in quella maniera, ch'io mi
+accendo nel raggio della luce divina; cos@i riguardando in essa
+apprendo la cagione de' tuoi dubbiosi pensieri, ovvero da che
+trai argomento a dubitare (^apprendo la cagione de' tuoi
+pensieri~, postilla il Giuliani); perch@e in Dio i beati veggono
+dipinta ogni cosa (^Par.~, XXIV, 42); e in Lui i nostri pensieri
+si rivelano ancor prima che noi li concepiamo (^Par.~, XV, 63).
+
+	|22-27.  Hai voler~; desideri, hai voglia (^tu vuoi~,
+notammo pi@u addietro: ^Par.~, X, 91).  -- |Che si ricerna~ (altri
+^si discerna~); meglio, pi@u apertamente si dichiari.  ^Cernere~ e
+^ricernere~, nota il Lombardi, vagliono propriamente ^purgare e
+ripurgare~, e diconsi del grano; ma qui traslativamente ponesi
+^ricernere~ per ^rischiarare.~  E tal voce mi riporta all'altra
+espressione del ^Par.~, XXVI, 22-23, dove S. Giovanni, per dire
+che il Poeta doveva meglio definire e schiarire i suoi concetti,
+cos@i gli parla:
+
+     a pi@u angusto vaglio
+     Ti conviene schiarar.
+
+-- |Aperta~; c f. v. 73.  -- |Distesa~; larga.  -- |Sentir~;
+altri ^pensier.~  -- |Si sterna~; s'appiani, s'abbassi al tuo
+intendimento.  Del parlar di Cacciaguida dir@a il Poeta (^Par.~,
+XV, 38-45):
+
+     Giunse lo spirto al suo principio cose,
+     Ch'io non intesi; si parl@o profondo...
+     E quando l'arco dell'ardente affetto
+     Fu s@i sfogato, che il parlar ^discese~
+     ^Inv#er lo segno del nostro intelletto~ ecc.
+
+-- |Ove~... |dissi~; nel ^Par.~, X, 96.  -- |E l@a~; nel ^Par.~,
+X, 114.  -- |Qui~; su questi due dubbi @e necessario ben
+distinguere, cio@e trattarne in modo chiaro e accurato.  Del primo
+parla in lungo S. Tommaso, accennando S. Domenico e discorrendo
+de' Domenicani del tempo del Poeta (vv. 118-139); del secondo
+parler@a a lungo nel ^Par.~, XIII, 31-111.  -- |Ben si distingua~;
+appunto per ci@o che il Poeta ne dir@a in appresso (cf. ^Par.~,
+XIII, 115-117).
+
+	|28-36.  La Provvidenza~ ecc.; cf. ^Par.~, XX, 70-72;
+XXI, 71; nell'^Epist.~, VI, 1: ^Aeterni pia providentia Regis,
+dum coelestia sua bonitate perpetuat, infera nostra despiciendo
+non deserit.~  Nella ^Mon.~, III, 15, @e detta ^Providentia
+inenarrabilis~ (cf. ^Dizionario Dantesco~, a Provvidenza Divina). 
+-- |Governa~; cf. ^Par.~, I, 74.  -- |Ogni aspetto~; ogni occhio,
+ogni intelletto mortale (cf. ^Purg.~, XV, 114; XXIX, 58).  --
+|Pria~ ecc.; ogni creata vista s'abbaglia, si confonde prima che
+arrivi a penetrare le profonde ragioni della Provvidenza, perch@e
+sono inaccessibili a mente umana.  Nel ^Conv.~, IV, 5: (Non @e
+maraviglia se la divina Provvidenza che del tutto l'Angelico e
+l'umano accorgimento soperchia, occultamente a noi molte volte
+procede...  Oh ineffabile e incomprensibile sapienza di Dio... ed
+oh istoltissime e vilissime bestiuole che a guisa d'uomini
+pascete, che presumete contro a nostra Fede parlare, e volete
+sapere, filando e zappando, ci@o che Iddio con tanta provvidenza
+ha ordinato!  Maledetti siate voi e la vostra presunzione e chi a
+voi crede.>  Cf. ^Par.~, XX, 134-135.  E nel ^Conv.~, IV, 21,
+cita le parole di S. Paolo (^Rom.~, XI, 33 e segg.): <O altezza
+delle divizie della sapienza di Dio, come sono incomprensibili i
+tuoi giudizi, e investigabili le tue vie!> (passo che cita pure
+nella ^Mon.~, II, 9, e nella ^Quaest. Aq. et Terr.~, {Paragraph.}
+22).  E tutti questi passi sono compresi nell'altro del ^Par.~,
+XX, 118-120, e 130-132.  -- |Perocch@e~; acciocch@e, al fine che. 
+-- |Diletto~; Cristo.  -- |La sposa~ ecc.; la Chiesa, ^mater
+piissima, Sponsa Christi~ (^Epist.~, VIII, 7).  Nel ^Conv.~, II,
+6: <La sua Sposa (^del nostro Salvatore~) e secretaria santa
+Chiesa, della quale dice Salomone: ^Chi @e questa che ascende dal
+deserto, piena di quelle cose che dilettano, appoggiata, sopra
+l'amico suo~? (passo che ripete nella ^Mon.~, III, 10).  -- |Ad
+alte grida~; allusione alle parole evangeliche: ^clamans voce
+magna~ (^Matth.~, XXVII, 50).  E S. Paolo (^Hebr.~, V, 7):
+^clamore valido et lacrymis.~  -- |Dispos@o~ ecc.; ^quam~
+(Ecclesiam) ^acquisivit sanguine suo~ (^Act. Ap.~, XX, 28).  Il
+Poeta dice i beati
+
+                         la milizia santa,
+     Che nel suo sangue Cristo fece sposa
+
+(^Par.~, XXXI, 2-3).  -- |In s@e~ ecc.; con sicurezza procedendo,
+e con maggior fedelt@a allo sposo (cf. ^Par.~, XII, 34-45).  --
+|Principi~, capi, condottieri.  -- |Ordin@o~; stabil@i; nel
+^Epist.~, V, 10: ^Regem nobis coeli et terrae Dominius
+ordinavit.~  -- |Quinci~ ecc.; dall'uno e dall'altro lato.  Il
+Vellutello, allegato dallo Scartazzini: <|Quinci~, cio@e in
+rendergliela pi@u fida; e questo @e San Francesco mediante il suo
+serafico amore, perch@e allora @e fedele la sposa allo sposo,
+quando si vede esser accesa nel suo amore.  E |quindi~, cio@e in
+rendergliela sicura; e questo @e San Domenico, mediante la sua
+grandissima sapienza e profondissima dottrina, che la difende da
+ogni eretica e falsa opinione.>  Altri per@o scambia, termini, e
+|sicura~ riferisce all'opera di San Francesco, |fida~ a quella di
+San Domenico; accendimento di fede per la scienza, conseguimento
+di sicurezza per il distacco dalle cose terene.  E in fatti il
+Poeta chiama la povert@a |sicura~ (v. 67); al che @e bello
+schiarimento quanto discorre nel ^Conv.~, IV, 13 (post med.)  Di
+pi@u; nel ^Breviario Romano~, di S. Francesco si legge (4
+Ottobre); <Romam venit..., ut sui Ordinis regula ab Apostolica
+Sede confirmaretur.  Quem cum accedentem ad se Summus Pontifex
+Innocentius tertius rejecisset, quod in somnis postea sibi ille
+quem repulerat, ^collabentem Lateranensem Basilicam suis humeris
+sustinere visus esset~, conquisitum accersiri jussit etc.>
+
+	|37-39.  L'un~; San Francesco.  -- |Serafico~; cf.
+^Par.~, XXVIII, 99, nel commento.  Notabile qui un pensiero: per
+Dante l'amore @e consequenziale e proporzionato al conoscere;
+siccome i Serafini pi@u amano perch@e pi@u fondo fissano l'occhio
+nelle perfezioni di Dio, ne viene che San Francesco profondamente
+possedeva la scienza di Dio tanto pi@u alta, quanto pi@u si
+staccava dalla vanitosa scienza umana.  -- |L'altro~; San
+Domenico.  -- |Cherubica~; cf. ^Par.~, XXVIII, 99, nel commento. 
+Questa terzina sarebbe ci@o che i r$etori chiamano enunciazione
+della proposizione.  Si noti come il Poeta scolpisca con due
+tocchi magistrali il vero carattere de' due grandi Ordini
+religiosi.
+
+	|40-42.  Dell'un~; di San Francesco.  Stupendamente
+bello! a cantare la gloria del pi@u gran santo del medio evo, non
+ci voleva meno che il pi@u gran genio del medio evo; il pi@u grande
+de' sapienti che inneggia al pi@u grande degli umili!  --
+|Perocch@e~ ecc.; lodando l'uno, si loda implicitamente l'altro. 
+-- |Qual che~ ecc.; qualunque de' due si prenda a soggetto (cf.
+^Par.~, IV, 30).  -- |Ad un fine~ ecc.; col medesimo intento di
+far ^sicura e fida~ {v.34} la Chiesa; ^ad una militaro~, dir@a san
+Bonaventura (^Par.~, XII, 35).  -- |Sue~; loro (cf. ^Inf.~, XXII,
+141, nel commento).
+
+	|43-48.~  L'Alfieri not@o il terzo.  E ora il sommo
+teologo comincia la storia del ^poverel di Dio~ (^Par.~, XIII,
+33); a intender la quale, e a necessario schiarimento di quanto
+si verr@a in questo Canto sponendo, @e utile aver sott'occhio
+quanto ne racconta il Breviario Romano nella festa di S.
+Francesco (4 Ottobre): <Franciscus, Assisii in Umbria natus,
+patris exemplum secutus, a prima aetate mercaturam fecit.  Qui
+quodam die pauperem, pro Christi amore flagitantem pecuniam, cum
+praeter consuetudinem repulisset, repente eo facto commotus,
+large ei misericordiam impertivit; et ex eo die Deo promisit, se
+nemini unquam poscenti eleemosinam negaturum.  Cum vero post in
+gravem morbum incidisset, ex eo aliquando confirmatus, caepit
+ardentius colere officia caritatis.  Qua in exercitatione tantum
+profecit, ut evangelicae perfectionis cupidus, quidquid haberet,
+pauperibus largiretur.  Quod ferens iniquius pater, eum ad
+Assisinatem Episcopum duxit, ut coram illo bonis cederet
+paternis: qui reiectis etiam vestibus, patris concessit omnia,
+illud subjungens, sibi in posterum majorem facultatem fore
+dicendi: Pater noster, qui es in coelis.  Cum autem illud ex
+Evangelio audisset: Nolite possidere aurum, neque argentum, neque
+pecuniam in zonis vestris, non peram in via, neque duas tunicas,
+neque calceamenta; sibi eam regulam servandam proposuit.  Itaque
+detractis calceis, et una contentus tunica cum duodecim socios
+adhibuisset, Ordinem Minorum instituit.  Quare Romam venit anno
+salutis millesimo ducentesimo nono, ut sui Ordinis regula ab
+Apostolica Sede confirmaretur.  Quem cum accedentem ad se Summus
+Pontifex Innocentius Tertius rejecisset, quod in somnis postea
+sibi ille, quem repulerat, collabentem Lateranensem Basilicam
+suis humeris sustinere visus esset, conquisitum accersiri jussit,
+benigneque accipiens, omnem eius institutorum rationem
+confirmavit.  Franciscus igitur dimissis in omnes orbis terrae
+partes fratribus ad praedicandum Christi Evangelium, ipse cupiens
+sibi aliquam dari martirii occasionem, navigavit in Siriam: ubi a
+rege Soldano liberalissime tractatus, cum nihil proficeret,
+rediit in Italiam.  Multis igitur extructis suae familiae
+domiciliis, se in solitudinem montis Alverni contulit: ubi
+quadraginta dierum, propter honorem sancti Michaelis Archangeli,
+jejunio inchoato, festo die Exaltationis sanctae Crucis ei
+Seraphim, Crucifixi effigiem inter alas continens, apparuit, qui
+ejus et manibus et pedibus et lateri vestigia clavorum impressit:
+quae sanctus Bonaventura cum Alexandri Quarti Summi Pontificis
+praedicationi interesset, narrasse Pontificem a se visa esse,
+litteris commendavit.  His insignibus summi in eum Christi amoris
+maximam habebat omnium admirationem.  Ac biennio post graviter
+aegrotans, deferri voluit in Ecclesiam sanctae Mariae Angelorum,
+ut ubi gratiae spiritum a Deo acceperat, ibi spiritum vitae
+redderet.  Eo in loco fratres ad paupertatem ac patientiam et
+sanctae Romanae Ecclesiae fidem servandam cohortatus, Psalmum
+illum pronuntians; Voce mea ad Dominum clamavi; in eo versiculo:
+Me expectant justi, donec retribuas mihi; efflavit animam, quarto
+Nonas Octobris.  Quem miraculis clarum Gregorius Nonus Pontifex
+Maximus in Sanctorum numerum scripsit.>  -- |Intra~ ecc.;
+comincia dalla posizione d'Assisi, piccola citt@a dell'Umbria,
+collocata sul pendio del monte Subasio, che sorge fra due piccoli
+fiumi, il Tupino ad oriente ed il Chiascio ad occidente, i quali
+scendendo dall'Apennino e congiungendo le loro acque presso a
+Rosciano, vanno nel Tevere.  -- |L'acqua~ ecc.; il Chiascio, che
+ha sua fonte nel monte Ansciano, uno dei piccoli monti intorno al
+Catria (cf. ^Par.~, XXI, 109).  -- |Eletto~ ecc.; il beato Ubaldo
+de' Baldassini di Gubbio (1084-1160) e vescovo della sua patria
+s'era scelto questo monte ad eremitaggio; secondo alcuni vi pass@o
+parte della sua giovinezza; secondo altri, non pot@e mandare ad
+effetto il fatto proposito.  Il Breviario Romano non ne fa cenno
+(16 Maggio); ne dice: <Eugubii, nobili genere natus, a primis
+annis pietate et litteris egregie est institutus; jamque
+adolescens, ut uxorem duceret, saepe tentatus, nuimquam tamen a
+proposito servandae virginitatis recessit.  Sacerdos affectus
+patrimonium suum pauperibus et ecclesiis distribuit, et
+Canonicorum Regularium ordinis sancti Augustini institutum
+suscipiens, illud in patriam transtulit, atque in eo aliquandiu
+sanctissime vixit.  Cuius sanctitatis evulgata, ab Honorio
+Secundo Summo Pontifice Ecclesiae Eugubinae invitus praeficitur.> 
+-- |Fertile~; di viti e d'ulivi; la |costa~ occidentale del monte
+Subasio |pende~ verso Perugia.  -- |Onde~; dalla qual costa.  --
+|Perugia~; citt@a capitale dell'Umbria, distante da Assisi circa
+dieci miglia.  -- |Sente freddo e caldo~ ecc.; l'Antonelli:
+<L'antica citt@a di Assisi @e posta quasi a ugual distanza de' due
+fiumi Tupino (Tinio dei Latini) e Chiascio (Clasium), il quale
+riceve le acque del monte di Gubbio, detto qui il colle del B.
+Ubaldo.  Siede su fertile e non disagevole costa alle falde di
+un'alta montagna, costituita dal nome ^Subasio~, il quale
+gareggia in altezza con l'Apennino, e in molti punti lo
+sopravanza, raggiungendo con la sua cima l'altezza di mille e
+cento metri sul livello del mare.  Questo monte trascende per
+altri seicento metri Perugia, cui resta a levante nella media
+distanza di miglia quindici; e, per conseguenza, @e sorgente di
+freddo e di caldo alla stessa citt@a da quel lato, coprendosi di
+neve in inverno e riflettendo la vampe di state.  Di contro poi a
+Perugia e dietro ad Assisi e al Subasio; stanno Nocera e Gualdo,
+cui oggi si aggiunge il cognome di Tadino, forse per distinguerlo
+da Gualdo ^Cattaneo~, che rimane a mezzod@i d'Assisi, alla
+distanza di circa una diecina di miglia.>  -- |Porta Sole~; cos@i
+chiamata @e quella delle porte di Perugia, che conduce ad Assisi. 
+-- |Dirietro~; dietro a quella costa, nell'opposto versante, che
+@e l'orientale.  -- |Per grave giogo~; molti intendono in senso
+politico, altri in senso geografico; per una parte dei primi il
+|grave giogo~ sul collo di Nocera e di Gualdo lo avrebbero tenuto
+i Perugini; per un altra parte il |giogo~ sarebbe stato quello di
+Roberto di Napoli, a cui le due citt@a eran soggette; ma nel 1300,
+epoca del mistico viaggio, che c'entrava Roberto?  Sto col
+Casini, che spiega: <|di retro~ ecc.; la costa orientale del
+monte Subasio scende ripida e incolta verso le citt@a Nocera e di
+Gualdo Tadino, le quali perci@o sono, rispetto a quel monte, in
+condizione di clima e di territorio assai peggiore che Perugia. 
+|Il grave giogo~ si deve intendere, come bene spiegarono Benv.,
+Cass., Pietro di Dante e altri, in senso geografico, come
+un'antitesi alla |fertile costa~ occidentale: monca @e la
+spiegazione data da molti commmentatori che, prendendo il |grave
+giogo~ in senso politico, dissero che Nocera e Gualdo piangevano
+per la tirannica signoria dei perugini, o peggio ancora, degli
+angioini.>
+
+	|49-51.  Di quella costa~ ecc.; nella detta costa
+occidentale (v. 45).  -- |L@a~ ecc.; dove il pendio @e meno erto; e
+|il frangere sua rattezza~ fa rimembrar l'altra frase: ^Si rompe
+del montar l'ardita foga~, detta d'altro monte (^Purg.~, XII,
+103; cf. ^Dizioniario Dantesco~, alla voce Rompere).  -- |Un
+Sole~; San Francesco.  L'Ottimo si propone la quistione:
+<Inchiedere si potrebbe, perch@e l'Autore introduce santo Tommaso
+a narrare la vita di santo Francesco, e non uno de' suoi frati. 
+A ci@o rispondere si pu@o, per questo dire |un Sole~, che il detto
+santo Tommaso primo per comandamento di Papa Gregorio IX scrisse
+la detta vita, cominciando: ^Quasi sol oriens in mundo Beatus
+Franciscus, vita, doctrina et miraculis claruit; vita, inspirando
+spiritum lucis; doctrina, seminando; miraculis, fructificando, et
+alia causa~: cio@e che pi@u @e dicevole la laude per altrui bocca,
+che per la propria; e quegli meglio la sa, che pi@u
+presenzialmente la vede, come vide santo Tommaso e sent@i.> 
+Opportunamente per@o not@o il Lombardi, che l'Ottimo attribuisce
+per errore all'Aquinate questa Vita, che invece fu scritta dal B.
+Tommaso da Celano, e compendiata dappoi, per ordine di S.
+Bonaventura, da Fra Bernardo da Bessa, il qual compendio comincia
+appunto colle parole riferite dall'Ottimo.  Ma quanta eccellenza
+intelletuale racchiuda Dante nella voce |Sole~, lo si comprende
+facilmente, rammentando quanto discorre nel ^Convito~ (III, 12)
+delle qualit@a del Sole e de' suoi mirabili effetti; e si ricordi
+che Beatrice era per lui ^quel Sole, che pria d'amor gli scald@o
+il petto~ (^Par.~, III, 1), il ^Sole degli occhi~ suoi (^Par.~,
+XXX, 75); e ^Sole che sana ogni vista turbata~, Virgilio (^Inf.~,
+XI, 91); e ^Soli~ il Papa e l'Imperatore (^Purg.~, XVI, 107),
+supremi guidatori dell'umanit@a al duplice suo fine; e finalmente
+|Sole~ la verit@a, che direttamente viene da Dio (^Purg.~, XXII,
+61).  E fu ben notato che S. Bonaventura applica a S. Francesco
+le parole dell'^Apocalissi~ (VII, 2): ^Vidi un secondo Angelo,
+che scendeva dall'oriente del Sole, ed aveva il segno dell'Iddio
+vivo.~  -- |Questo~; il Sole fisico, nel quale, dice Tommaso, qui
+siamo.  -- |Talvolta~; perch@e non in tutte le stagioni n@e in
+tutti li giorni il Sole nasce splendidissimo; cos@i, press'a poco,
+intendono i pi@u.  Il Cesari: <Non @e invano notare |di Gange~,
+anzi @e un grande avvedimento; perch@e da quella foce il sol nasce
+la state, cio@e pi@u affocato, e per@o pi@u s'assomiglia all'altro
+sole figurativo.>  Chi ci scorge accenno alla differenza di
+novanta gradi, che Dante ametteva di distanza tra il Gange e
+Gerusalemme, parmi che non faccia che arzigogolare e dir cosa
+senza senso; perch@e Dante distingue bene le ^diverse foci~ per le
+quali ^surge ai mortali la lucerna del mondo~ (^Par.~, I, 37 e
+segg.) secondo le diverse stagioni, trattandosi di latitudine sud
+a nord e viceversa; ma non si capisce come a spiegare il
+|talvolta~ dantesco c'entri qui la riferita ragione, che non
+costituendo che longitudine sul medesimo parallelo di latitudine,
+non pu@o costituire che una sol ^foce.~  -- |Di Gange~ (dipendente
+da ^nasce~ sottinteso), dal Gange (cf. ^Purg.~, II, 4; XXVII, 3). 
+Rispetto alla similitudine qui adoperata, sono notabili questi
+due passi del nostro Autore; nell'^Epist.~, V, 1: <Ecce nunc
+tempus acceptabile, quo signa surgunt consolationis et pacis. 
+Nam dies nova splendescit...  Titan (^era il suo~ Enrico VIII
+^che calava~ in Italia) exorietur pacificus, et justitia... cum
+primum jubar ille vibraverit revirescet.>  E allo stesso
+Imperatore scrivendo (^Epist.~, VII, 1): <Cen Titan praeoptatus
+exoriens, nova spes Latio saeculi melioris effulsit.>
+
+	|52-54.  Per@o~; pel fatto che vi nacque san Francesco. 
+-- |Fa parole~; parla, ragiona, scrive.  -- |Non dica~ ecc.; non
+chiami quella terra col nome di Assisi.  -- |Ascesi~; forma
+arcaica, ma che era usitatissima ai tempi del Poeta.  E |Ascesi~
+verrebbe da ^ascendere~, e varrebbe ^ascendimento~; in ci@o la
+ragione del ^discosto~, rispetto a |oriente.~  Del cercare
+significazioni nei nomi propri, cf. ^Par.~, XII, 67 (nel
+commento).  -- |Direbbe corto~; poco (altrove ^corte parole~
+^Purg.~, IV, 121: cf. ^Par.~, XXXIII, 106).  Di Assisi l'Amp@ere
+(^Viaggio~, pagg. 64-65:) <Assisi ha una chiesa a tre piani (--
+non conosco altre chiese a tre piani che S. Martino dei Monti a
+Roma: ivi, pag. 66); gli affreschi sono di Cimabue, di Giotto, di
+Memmi...  In una parola Assisi @e un monumento e un santuario
+della pittura cattolica del medio evo.>
+
+	|55-63.~  L'Alfieri not@o i tre primi e l'ultimo.  |Non
+era~... |dall'$orto~ (continua la metaf. del Sole); non era ancor
+molto cresciuto in et@a; era ancor giovanetto (v. 58).  Fino ai
+ventiquattr'anni Francesco esercit@o la mercatura; caduto
+prigioniero dei Perugini e tornato in patria, inizi@o la nuova
+vita con opere di carit@a e coll'abbandonare ogni cosa.  --
+|Cominci@o~ ecc.; cominci@o a operare in maniera che gli uomini
+sentissero qualche conforto della sua virt@u, cio@e eccitamento,
+stimolo al bene: Il Cesari: <Seguita la figura, nella |terra~
+presa per gli ^uomini~, e nel ^conforto della sua virt@u~; e la
+terra riscaldata da questo Sole, cominci@o alla virt@u di lui
+ravvivarsi.>  La frase a |far sentir la terra~ si ricontra alle
+altre dell'^Inf.~, V, 81 e ^Purg.~, XI, 51, perch@e quando in una
+proposizione ci sono due ^a~, la si costruisce in guisa da
+lasciarne una.  -- |Per tal~ ecc.; per causa di.  -- |Donna~; la
+povert@a (v. 74).  Francesco sposa la Povert@a, Domenico la Fede
+(cf. ^Par.~, XII, 61-63); altamente bello nella idea di Dante
+questo matrimonio di Francesco colla Povert@a, in rimprovero al
+tempo suo, avido smisuratamente di tutti i beni terreni (cf. v. 1
+e segg.), quando perfin la dote delle nubende ^fuggia la misura~
+(^Par.~, XV, 105).  -- |In guerra~; cio@e alla guerra che gli
+moveva il padre avaro.  -- |Corse~: notabile di forza questo
+|corse~ (cf. v. 81), che esprime la intima forza dell'amore, che
+tutto affronta.  Altrove: ^Maria corse in fretta alla montagna~
+(^Purg.~, VIII, 100).  Dell'Apostolo dell'amore, che con Pietro
+va al Sepolcro di Cristo: ^praecucurrit citius Petro~ (^Ev.
+Joann.~, XX, 4).  -- |La porta~ ecc.; cui nessuno accoglie con
+piacere, ma tutti la fuggono come la morte.  Ecco, nota il
+Cesari, il conforto dalla terra ricevuto; che egli mise agli
+uomini in amore la povert@a col suo esempio, e le ricchezze in
+disprezzo.  E si noti: degli uomini del suo tempo (oltrech@e
+quanto sentimmo al principio del presente Canto) disse l'Autore,
+che ^cupiditatem unusquisque sibi duxit in uxorem~ (^Epist.~,
+VIII, 7); qui dice che tutti fuggivano la povert@a collo stesso
+spavento che la morte; altrove ne accerta che in tutta la Toscana
+si scacciava da tutti per nemica la virt@u, come fosse una biscia
+(^Purg.~, XIV, 37): non c'era male!  -- |Sua~; di Francesco, cio@e
+quella d'Assisi, dalla quale Francesco dipendeva.  -- |Spirital
+corte~; la curia vescovile di Assisi; ^foro divino~ (^Par.~, XXX,
+142).  Il Tommaseo: <Il foro ecclesiastico aveva giurisdizione da
+s@e, amplissima.>  Nel Breviario Romano: ^Eum~ (pater) ^ad
+Assisinatem episcopum duxit, ut coram illo bonis cederet
+paternis.~  -- |Coram~; il Tommaseo: <Il latino ci sta come
+d'atto rogato.>  -- |Poscia~; da quel momento, dal giorno di
+quella rinunzia.  -- |Di d@i~ ecc.; sempre meglio le si un@i,
+l'am@o.  Da quando lasci@o tutto, Francesco divenne potente di
+fatti e di parole; la povert@a, sua guida, sua forza: Dante, a
+rimproverare i Cardinali Italici, prende forza da ci@o: ^divitiae
+mecum non sunt.~  -- |Pi@u forte~; sempre pi@u stringendosi a lei,
+e lasciando tutto che non fosse estremamente necessario.  Il
+Celano: ^Solvit protinus calceamenta de pedibus; et tunica una
+contentus, pro corrigia funiculum immutavit.~
+
+	|64-66.  Questa~; la povert@a.  -- |Marito~; Cristo.  --
+|Mille centi anni~ ecc.; Francesco nacque nel 1182, e mor@i del
+1226 ai 4 d'ottobre.  -- |Dispetta~; disprezzata; |oscura~;
+ignorata.  -- |Senza invito~; senza che alcuno la ricercasse in
+isposa.  Il Cesari: <Ah che gemma questo |invito~! non fu anima
+che le dimandasse la mano.>  Ma a nessuno pu@o sfuggire
+l'iperbole; dacch@e prima di Francesco abbiamo altri Santi, pur
+sublimati nella Commedia, che tali divennero appunto per l'amore
+della povert@a.  Ma il Poeta intende certo d'un Santo e d'un
+istituto religioso che prendesse la povert@a per sua speciale
+divisa per la conversione del mondo.
+
+	|67-69.~  L'Alfieri not@o il terzo.  |N@e valse~, che gli
+uomini sapessero.  -- |Udir~; sapere, aver letto.  -- |Sicura~
+(cf. v. 34, nel commento); |sicura~, postilla il Giuliani, ^come
+non sono i ricchi avari.~  Nel ^Conv.~, IV, 12, citando Cicerone
+nel ^Paradosso~: <N@e solamente per desiderio di accrescere le
+cose che quelli (^i ricchi~) hanno, si tormentano, ma eziandio
+tormento hanno nella paura di perdere quelle.>  Fra Jacopone
+scrisse: ^Le povertade d@a sicurtade.~  Si avverta che il nostro
+Autore dice chiaro che ^non si dee chiamare vero filosofo colui
+ch'@e amico di sapienza per utilit@a~ (^Conv.~, III, 12); e che
+altrettanto chiaro afferma che ^nelle scuole de' Religiosi~ la
+Filosofia ^si dimostrava veracemente~ (perch@e, intendo io,
+professavano la povert@a, e della scienza non si valevano a scopo
+di lucro).  Di pi@u: il nostro Autore, accennata la grandezza
+degli scritti de' principali tra' Padri e Dottori, della Chiesa,
+e l'abbandono in che erano lasciati dai pi@u degli ecclesiastici
+del suo tempo, i quali invece ^Innocentium et Ostiensem
+declamabant~, soggiunge: ^Cur enim?  Illi Deum quaerebant ut
+finem et optimum; isti census et beneficia consequuntur~
+(^Epist.~, VIII, {Paragraph.} 7): @e dunque chiaro, che per lui
+l'amore delle ricchezze e quello della sapienza sono due cose
+affatto inconciliabili, e che fondamento solido a questa si @e la
+povert@a e il disprezzo della pecunia.  -- |Amiclate~; povero
+pescatore dell'Adriatico sulla costa dalmata; il quale nella sua
+povert@a si trovava tanto sicuro, che pur fra i torbidi e le
+scorrerie degli eserciti di Cesare e di Pompeo, dormiva nel suo
+tugurio ad uscio aperto, e che quando Cesare, che a tutto il
+mondo fece paura, capit@o a lui di notte, egli rimase imperturbato
+(cf. Lucano, ^Phars.~, V, 519 e segg.).  Nel ^Conv.~, IV, 13:
+<Quanta paura @e quella di colui che appo s@e sente ricchezza in
+camminando, in soggiornando, non pure vegghiando, ma dormendo,
+non pur di perdere l'avere, ma la persona per l'avere!  Ben lo
+sanno li miseri mercatanti che per lo mondo vanno, che le foglie,
+che il vento fa dimenare, li fan tremare, quando seco ricchezze
+portano; e quando senza esse sono, pieni di sicurt@a cantando e
+ragionando fanno lor cammino pi@u breve.  E per@o dice il Savio
+(Boezio, ^Consol. Philos.~, II pr. 5): ^se vuoto camminatore
+entrasse nel cammino, dinanzi a' ladroni canterebbe.~  E ci@o
+vuole dire Lucano nel quinto libro, quando commenta la povert@a di
+sicuranza, dicendo: ^Oh sicura facult@a della povera vita!  Oh
+stretti abitacoli e masserizie! oh non ancora intese ricchezze
+delli Dei! a' quali templi e a' quali muri poteo questo avvenire,
+cio@e non temere per alcuno tumulto, bussando la mano di Cesare~? 
+E quello dice Lucano, quando ritrae come Cesare di notte alla
+casetta del pescatore Amiclas venne, per passare il mare
+Adriano.>  -- |Fe' paura~; cf. ^Purg.~, XXIX, 141; ^Par.~, XV,
+103: e ^dar paura~, ^Inf.~, I, 44; IX, 13.
+
+	|70-72.~  L'Alfieri not@o il primo.  |N@e valse~; n@e giov@o
+alla povert@a, per farsi gradita al mondo; -- |esser costante~,
+l'essersi mostrata costante e coraggiosa al punto da salire sulla
+croce con Ges@u, che vi mor@i ignudo e privo di tutto; laddove
+Maria, bench@e di Lui amantissima, non vi sal@i.  -- |Feroce~;
+alteramente ferma in amare Ges@u, spiega il Tommaseo.  Nei
+^Fioretti di S. Francesco~: ^Questa virt@u della povert@a @e quella
+che accomagn@o Cristo in sulla croce, con Cristo fu seppellita,
+con Cristo risuscit@o, con Cristo sal@i al cielo.~  Il Cesari fa
+qui dire, e credo giusto, al Rosa Morando: <Questo luogo m'era
+sempre piaciuto al possibile, come cosa maravigliosa; ma se io
+debbo dire ogni mio pensiero, da qualche tempo in qua m'@e venuto
+sospetto, e non pu@o tanto piacermi pi@u; e' mi par di vedervi non
+so che di esagerato e di troppo, e che dia quasi nel falso; ma
+questo @e un mio come sentire, senza poterne anco rendere adeguata
+e certa ragione.>
+
+	|73-75.  Chiuso~; oscuro (cf. ^Purg.~, XI, 139; ^Vit.
+N.~, {Paragraph.} 12; il contrario ^aperto~, cf. v. 23).  --
+|Questi amanti~ ecc.; narra il Palomes (^Stor. di S. Francesco~,
+cap. III), che Francesco trovandosi un d@i in una lieta brigata
+d'amici, coi quali passava molte ore, e mostrandosi come
+soprapensieri, da uno di coloro gli fu scherzosamente chiesto se
+pensasse all'innamorata: ^s@i~, rispose Francesco, ^@e cos@i bella,
+che il mondo non vide mai l'uguale.~  Il Poeta celebra in questi
+versi le nozze de' due amanti; e Giotto, pieno l'intelletto del
+sentire dell'Allighieri, dipinse queste nozze nella basilica di
+Assisi in un affresco, ove si scorge il Padre Eterno che quasi
+inchinandosi stende con compiacenza le braccia per benedire il
+ben auspicato connubio: la Povert@a, bella, gentile, modesta, in
+veste biancorosata (come Dante vide vestita la prima volta
+Beatrice), ma in varie parti sdruscita, scalza i piedi e su suolo
+di spine, e coronata la fronte di raggi, che germogliano gigli e
+fresche rose: ella stende la destra, che Ges@u congiunge con
+quella di Francesco, mentre un coro d'Angeli contempla estatico
+le mistiche nozze.  -- |Prendi~; intendi: cf. v. 41, e ^Par.~,
+IV, 30.  -- |Parlar diffuso~; lungo, esteso (la stessa frase nel
+^Purg.~, XXXII, 91), cio@e dal verso 58 insino a qui.
+
+	|76-81.~  L'Alfieri not@o l'ultimo.  |Lieti sembianti~;
+segni dell'interno affetto.  Qui il Poeta ci delinea anzi
+scolpisce, l'esteriore sembianza de' due innamorati; visibile
+concordia, sembianti lieti, un amore maraviglioso, sguardi soavi
+ecc.; perci@o seguo il Giuliani, che legge |amor a maraviglia~
+(cf. v. 90); che vorrebbe dire ^amore e maraviglia~?  Benvenuto,
+allegato dallo Scartazzini, spiega: ^La loro concordia di vita,
+il loro contento che traspariva nel volto, la carit@a
+maravigliosa~ ecc.; e cos@i intendono i pi@u; ma si dice che nessun
+codice legge cos@i; ma cos@i avr@a ben letto il Codice dell'Imolese,
+perch@e altrimenti non se ne capirebbe la spiegazione.  -- |Dolce
+sguardo~; il dolce guardarsi, com'@e degli innamorati.  --
+|Faceano~ ecc.; destavano santi pensieri e desiderio di seguire
+l'esempio di Francesco.  Il Casini allega Bonaventura (^Vita~, p.
+751): ^Faciebat namque sancta paupertas~... ^ipsos ad omnem
+obedientiam promptos, robustos ad labores et ad itinera
+expeditos.  Et quia nihil terreni habebant, nihil amabant,
+nihilque timebant amittere, securi erant ubique, nullo pavore
+suspensi, nulla cura distracti, tamquam qui absque mentis
+turbatione vivebant, et sine sollicitudine diem crastinum et
+serotinum hospitium exspectabant.~  In tempi di tante cupidigie i
+seguaci di Francesco si staccano da tutto ci@o ch'@e mondano e
+transitorio; alle ricchezze oppongono la pi@u squallida povert@a;
+al lusso un saio grossolano e i pi@e nudi; all'orgoglio il
+capestro; e come gli Apostoli, ^magri e scalzi, prendono il cibo
+di qualunque ostello~ (^Par.~, XXI, 129): le grandi riforme
+mettono la scure alle radici; ^contrariis contraria curantur.~ 
+-- |Il venerabile Bernardo~; Bernardo da Quintavalle di Assisi,
+il primo seguace dell'Assisinate, il quale, vinto all'esempio del
+concittadino, diede ai poveri ogni suo avere, e, come scrive
+Tommaso da Celano, ^legatam pacem amplectens, ad mercandum regnum
+coelorum post Sanctum Dei~ (cio@e S. Francesco) ^cucurrit
+alacriter~; parole che Dante pare aver ricopiato.  Di Bernardo i
+^Fioretti~: <Messer Bernardo da Quintavalle d'Ascesi era de' pi@u
+nobili, e de' pi@u ricchi, e de' pi@u savi della cittade> (cap.
+II).  -- |S@i scalz@o~; ad esempio degli Apostoli, che andavano
+senza calzari (^Matth.~, X, 10).  -- |Corse~; dice l'ardore
+spirituale (cf. v. 104), e fa rammentare il ^corse~ del v. 59: e
+nel ^Conv.~, II, 9: <Molti alla morte del corpo sono corsi, per
+vivere nell'altra vita.>  E ci@o fa ripensare al ^correte~ di
+Catone (^Purg.~, II, 122); e al ^ratto, ratto che il tempo non si
+perda Per poco amor~ (^Purg.~, XVIII, 103), ov'@e tosto accenno
+che il tempo @e mezzo a guadagno spirituale; onde Forese sentimmo
+dire al Poeta che il ^tempo @e caro~ (^Purg.~, XXIV, 91); che
+ricorda la sentenza: ^Il perder tempo ai chi pi@u sa pi@u spiace~
+(^Purg.~, III, 76): ed @e per tutto ci@o ch'@e lodato ^il correre in
+Ispagna~ di G. Cesare (^Purg.~, XXIII, 129).  Cf. v. 104.
+
+	|82-84.  Ricchezza~ ecc.; riflette in parte il pensiero
+di Lucano, a proposito del fatto d'Amiclate (cf. v. 68):
+
+                            O vitae tuta facultas
+     Pauperis, angustique lares! o munera, nondum
+     Intellecta De#um!
+
+(^Phars.~, V, 527-529).  E nello ^Specchio di Croce~ (cap. 46):
+<Dice san Bernardo ^quale cosa @e pi@u nascosta al mondo, che la
+povert@a essere beata?  La ricchezza della povert@a il mondo non
+conosceva.~>  -- |Egidio~; fu di Assisi; i ^Fioretti~ (^Vit. Fr.
+Egidio~, cap. I): <Uomo adornato di mirabile prudenza e molto
+ricco di beni temporali.>  -- |Silvestro~; prete d'Assisi; nei
+^Fioretti~ (cap. XVI): <Costui era stato nel secolo quel messer
+Silvestro, il quale avea veduto una croce d'oro procedere dalla
+bocca di santo Francesco, la quale era lunga insino al cielo, e
+larga insino alle stremit@a del mondo; ed era questo frate
+Silvestro di tanta divozione e di tanta santit@a, che di ci@o che
+chiedea a Dio, impetrava ed era esaudito, e spesse volte parlava
+con Dio; e per@o santo Francesco avea in lui grande divozione.> 
+-- |Sposo~; S. Francesco.  -- |Sposa~; la povert@a, a differenza
+dell'altra sposa, a che tutti ambivano, la cupidigia (^Epist.~,
+VIII, {Paragraph.} 7).
+
+	|85-87.~  L'Alfieri not@o |quella fimiglia~ col verso
+seguente.  |Indi~; data a' suoi seguaci la regola.  -- |Sen va~;
+a Roma, a chiedere al Papa l'approvazione del suo Ordine.  --
+|Con quella famiglia~ ecc.; fino all'anno 1210 undici furono i
+seguaci di S. Francesco; con essi recossi a Roma.  -- |Capestro~;
+la corda, onde i frati Minori si cingono i lombi (cf. ^Inf.~,
+XXVII, 92).
+
+	|88-93.~  L'Alfieri not@o il primo.  |N@e gli grav@o~ ecc.;
+bench@e fosse figlio d'un Pier Bernardone, uomo ignobile, e per
+parere d'aspetto spregevole, non per@o fu in lui vilt@a di cuore,
+che il rendesse timido.  Altri spiegano altrimente, e, parmi, non
+bene.  Nel ^Purg.~, XXX, 78: ^Tanta vergogna mi grav@o la fronte~! 
+-- |Vilt@a~; cf. ^Inf.~, III, 15; nel ^Conv.~, I, 11: <Vilt@a
+d'animo, cio@e pusillanimit@a.>  Il Cesari nota, che lo ^scoramento
+fa bassar gli occhi.~  -- |Fi'~; figlio; come ^c@o~ per ^capo~
+(cf. ^Inf.~, XX, 76); ^c@a~ per ^casa~ (^Inf.~, XV, 54); e ^fio~ e
+^fia~, per ^figlio~ e ^figlia~, dicono i Veneziani.  Non capisco
+il Casini, che spiega: ^per quanto fosse figlio d'un ricco
+mercante~; il Poeta, parmi, non cerca qui titoli di vanto, ma
+argomenti di spregio per far meglio palese, che in onta a tutto
+ci@o Francesco aveva un cuore nobilissimo (cf. ^Par.~, VIII, 132,
+nel commento).  Il Lombardi: <Accenna la timidezza che
+d'ordinario, per la educazione, hanno gli uomini di vil
+nascimento di trattar coi grandi; e forse ancora risguarda alla
+nobilt@a di sangue della quale andavano fregiati gli altri
+fondatori di Religioni contemporanei a S. Francesco, S. Felice di
+Valois, fondatore dei Trinitarii, e S. Domenico, fondatore de'
+Predicatori; il primo de la real casa di Francia e l'altro della
+nobile famiglia de' Gusmani.>  -- |Parer~; apparire.  --
+|Dispetto a~ ecc.; in un esteriore dispregevole al segno, da
+recar maraviglia.  La maraviglia, nota il Cesari, @e cos@i delle
+cose onorevoli, come delle basse se sieno in eccesso.  --
+|Regalmente~; con animo, con atteggiamento regale.  --
+|Innocenzo~; papa Innocenzo III.  -- |Dura~; ardua, difficile a
+mettersi in pratica.  Il Cesari: <Quel |regalmente~, e quel
+|dura~ innalzano il verso e il concetto tre buoni palmi.>  --
+|Aperse~; manifest@o, fe' conoscere (nel ^Conv.~, II, 9: ^Aprire
+la sentenza~ d'uno scritto).  -- |Primo sigillo~ (cf. v. 107); la
+prima approvazione; i pi@u dicono che ci@o fu del 1214; ma lo
+Scartazzini avverte che fu nel 1210, la quale tuttavia fu solo
+un'approvazione provvisoria; onde dice Bonaventura (^Vita~, pag.
+739): ^Licet praefatus dominus Innocentius tertius Ordinem et
+Regulam approbasset ipsorum, non autem hoc suis litteris
+confirmavit.~  -- |Religione~ (cf. ^Conv.~, IV, 4 e 28); Ordine
+religioso (per@o, de' Minori, non direi ^monastico~, com'altri
+dice).
+
+	|94-99.  Crebbe~; Giacomo de Vitry (^Hist. occident.~,
+cap. 32) scrive: ^Tempore modico adeo multiplicati sunt, quod non
+est aliqua Christianorum provincia, in qua aliquos de fratribus
+suis non habeantur.~  -- |Meglio~ ecc.; meglio in Paradiso dai
+Santi che non in terra degli uomini, spiegano alcuni con
+Benvenuto; ma se qui @e appunto un Santo del Paradiso che celebra
+la vita di S. Francesco, come sta la spiegazione?  Il Filalete
+s'accorse di ci@o; e pur tenendo l'accennata spiegazione,
+soggiunse: ^Qui pare che Dante si sia scordato un istante che
+Tommaso canta la vita del Santo veramente nella gloria del
+Paradiso: ma giustamente risponde lo Scartazzini.  Non crediamo
+Dante s@i smemorato.~  N@e pi@u felice la spiegazione proposta dal
+Lombardi, e accettata da molti: <Accenna il costume ch'era de'
+Frati Minori di cantare in coro la vita di S. Francesco; e vuole
+inteso che i Frati la cantassero bens@i, ma non intendessero cos@i
+perfettamente il sublime pregio delle serafiche di lui virt@u,
+come inteso l'avrebbero i Serafini del Cielo, ove colass@u cantata
+fosse.>  Dunque, se ben si badi anche che il Poeta non disse ^in
+gloria di ciel~, ma |in gloria del ciel~ (ognuno deve conoscerne
+la differenza), resta la spiegazione pi@u ovvia e pi@u accettabile,
+gi@a intraveduta dal Daniello e accettata dallo Scartazzini e dal
+Casini, cio@e: La cui vita mirabile meglio che a gloria della sua
+persona, si canterebbe a gloria del cielo, cio@e di Dio, che colla
+sua grazia rese s@i mirabile quella vita; la qual chiosa s'informa
+alle parole del Salmo (CXIII, I): ^Non nobis, Domine, non nobis;
+sed nomini tuo da gloriam~; e cos@i @e levato l'inconveniente,
+osserva lo Scartazzini, che un beato, parlando ^nel cielo~, di S.
+Francesco, dica: Se ne parlerebbe meglio su in cielo.  --
+^Seconda corona~; si badi al sostantivo e al suo alto
+significato, e si vedr@a che valore desse il Poeta a tale
+pontificia approvazione (cf. ^Purg.~, XXIV, 15; XXVII, 142).  --
+|Redimita~; ornata, decorata.  -- |Per Onorio~ (nel 1223); il
+|per~ indica strumento, essendo il Papa organo dello Spirito
+santo, pur avendo autorit@a propria (cf. v. 92); quindi la formola
+papale nelle decisioni dogmatiche: ^Auctoritate Domini nostri
+Iesu Christi, beatorum Apostolorum Petriet Pauli, ac nostra~ etc. 
+-- |Eterno Spiro~; @e dunque ^Spiritus Patri et Filio coaeternus~
+(^Mon.~, III, 1) che approva per mezzo del Papa.  -- |La santa
+voglia~; il santo intendimento, che colla fondazione del suo
+Ordine si proponeva.  -- |Archimandrita~; titolo che i Greci
+danno agli Abati, che presiedono a pi@u monasteri; qui per capo. 
+Dante nella ^Mon.~, III, 9, ^Archimandrita noster~ dice S.
+Pietro, e cos@i il Pontefice Romano (^Epist.~, VIII, 6).
+
+	|100-108.~  L'Alfieri not@o i tre primi.  |Sete del
+martiro~; e troppo pi@u che ^desiderio~ (cf. ^Par.~, II, 19; XXX,
+74).  Francesco tutto affronta |per la sete del martirio~;
+Domenico affronta tutto ^per amor della celeste manna~ (^Par.~,
+XII, 84).  Ma il |martirio~ che Francesco and@o cercando in Siria,
+lo trover@a, bench@e d'altra foggia, |nel crudo sasso intra Tevere
+ed Arno~; quella sar@a la sua Siria, stupenda antitesi!  San
+Bonaventura (^Legenda~ etc., cap. IX): ^Ferventi charitatis
+incendio gloriosum sanctorum Martyrum aemulabatur triumphuri, in
+quibus nec amoris flamma exstingui, nec fortitudo potuit
+infirmari~...  ^Sexto namque conversionis suae anno desiderio
+martyrii flagrans ad praedicandam fidem christianam~... ^ad
+partes Syriae transfretare disposuit.~  E pi@u innanzi: <Verum
+quia martyrii fructus adeo cor eius allexerat, ut pretiosam pro
+Christo mortem super omnia virtutum merita peroptaret, versus
+Marrochium iter arripuit, ut Miramolino et genti eius Christi
+Evangelium praedicaret, si quo modo concupitam mortem valeret
+attingere.  Tanto namque desiderio ferebatur, ut quamvis esset
+imbecillis corpore, peregrinationis suae praecurreret comitem, et
+ad exsequendum propositum festinus, et tamquam spiritu ebrius
+advolaret etc.>  E poi: <Charitatis ardore spiritum ipsius ad
+martyrium perurgente, tertia adhuc vice pro fide Trinitatis
+effusione sui sanguinis dilatanda, versus infideles proficisci
+tentavit.  Tertiodecimo namque conversionis suae anno ad partes
+Syriae pergens, multis se periculis constanter exposuit ut
+Soldani Babyloniae posset adire praesentiam...  Exierat siquidem
+a Soldano edictum crudele, ut quicumque caput alicuius Christiani
+afferret, bisantium aureum pro mercede reciperet.  At intrepidus
+Christi miles Franciscus sperans in proximo suum adipisci posse
+propositum, diffinivit iter arripere, mortis pavore non territus,
+sed desiderio provocatus.>  -- |Nella presenza~ (cf. ^Par.~,
+XXVII, 24) ecc.; @e una scultura viva e parlante, e questa
+terribile |presenza~ si vede; ma quel |superba~, nota il
+Biagioli, non si pu@o altrimenti tradurre.  L'umile fraticello
+dinanzi a tal ^superbo~, fa ripensare all'antitesi della parola
+divina agli Apostoli: ^Ecce ego mitto vos sicut oves in medio
+luporum~ (^Matth.~, X, 16; cf. ^Luc.~, X, 3).  -- |Gli altri~; i
+seguaci di Cristo, ^la milizia che Cristo seguette~ (^Par.~, IX,
+141).  -- |E per trovare~ ecc.; bella la metaf. |gente acerba~
+ecc., presa dalle frutta, cio@e indocile, rigida ovvero ^mal
+disposta~ alla conversione (^Par.~, XXII, 39; cf. ivi, XXX, 138):
+<per@o che non fruttavano, dice l'Ottimo, le sue prediche, n@e
+aveva effetto il suo volere, si ritorn@o in Italia dove meglio
+fruttava.>  Il Breviario Romano: <Cupiens sibi aliquam dari
+martyri occasionem, navigavit in Syriam; ubi a rege Soldano
+liberalissime tractatus, cum nihil proficeret, rediit in
+Italiam.>  S. Bonaventura (^Legenda~, cap. IX): <Soldanus
+admirandum in viro Dei fervorem spiritus conspiciens et virtutem,
+libenter ipsum audiebat, et ad moram contrahendam cum eo
+instantius invitabat.  Christi vero servus superno illustratus
+oraculo: Si vis, inquit, converti tu cum populo tuo ad Christum,
+ad illius amorem vobiscum libenter commorabor.  Quod si haesitas
+propter fidem Christi legem Mahumeti dimittere, iube ignem
+accendi permaximum, et egocum sacerdotibus tuis ignem ingrediar,
+ut vel sic cognoscas, quae fides certior et sanctior non immerito
+tenenda sit.  Ad quem Soldanus: Non credo, quod aliquis de
+sacerdotibus meis se vellet igni propter fidem suam defensandam
+exponere, vel genus aliquod subire tormenti.  Viderat enim statim
+quemdam de presbyteris suis virum authenticum, et longaevum, hoc
+audito verbo de suis conspectibus aufugisse.  Ad quem vir
+sanctus: Si mihi velis promittere pro te, et populo tuo, quod ad
+Christi cultum si ignem illaesus exiero veniatis, ignem solus
+introibo.  Et si combustus fuero, imputetur peccatis meis.  Si
+autem divina me protexerit virtus, Christum Dei virtutem, et
+sapientiam, verum Deum, et Dominum Salvatorem omnium agnoscatis. 
+Soldanus autem opinionem hanc accipere se non audere respondit,
+quia seditionem populi formidabat.  Obtulit tamen ei multa munera
+pretiosa, quae vir Dei non mundanarum rerum, sed salutis animarum
+avidus, sprevit omnia quasi lutum.  Soldanus autem videns virum
+sacerdotem tam perfectum rerum mundialium contemptorem,
+admiratione permotus majorem erga ipsum devotionem concepit.  Et
+quamvis ad fidem Christianam transire nollet, vel forsan non
+auderet, rogavit tamen devote famulum Christi, ut praedicta
+susciperet pro salute ipsius Christianis pauperibus vel Ecclesiis
+eroganda.  Ipse vero, quia pondus fugiebat pecuniarum, et in
+animo Soldani verae pietatis non videbat radicem, nullatenus
+aquievit.  Videns etiam se non proficere in conversione gentis
+illius, nec suum assequi posse propositum, ad partes fidelium
+divina revelatione praemonitus remeavit.>  -- |Per non stare
+indarno~; ai Santi il tempo @e prezioso, perch@e il tempo @e virt@u,
+@e salvezza d'anime, @e l'eternit@a beata: ^charitas Dei urget nos~,
+scrisse S. Paolo; a cotali, anche in correndo, pare esser lenti
+(cf. v. 81).  -- |Reddissi~ (qualche Cod. legge ^tornossi~);
+ritorn@o, rivenne.  Il Cesari: <Che non dire ^tornossi~? direbbe
+qui qualche Appuntino: certo Dante sapeva essere il verbo
+^tornare~, ed egli volle ^reddire~ quasi latino: ma quanto pi@u
+bello e di bel suono qui, il |reddissi~!  I maestri hanno certi
+privilegi, che tutti non possono n@e debbono avere; ed anche un
+senso pi@u delicato del numero poetico e dell'armonia.>  --
+|L'italica erba~; nell'^Epist.~, V, {Paragraph.} 5, scrive agli
+Italiani: <Assumite ^rastrum bonae humilitatis, atque~...
+^agellum sternite~ mentis vestrae, ne forte coelestis imber,
+sementem vestram ante Jactum praeveniens, ^in vacuum de altissimo
+cadat.~>  Ed @e proprio quello che il Soldano non voleva fare, e
+che neppur vollero gli Italiani, e l'^imber coelestis~, che
+consisteva nella calata di Enrico VII, per quanto ^de altissimo~,
+cadde a vuoto del tutto.  E questo punto si collega con questo e
+con altro luogo del Poema.  Alla buona riuscita d'una grande
+missione occorre la buona disposizione in coloro ai quali @e
+diretta, cio@e saper coglier il momento stabilito dalla
+Provvidenza; senza di ci@o non si riesce, e ogni tentativo @e vano. 
+Qui la gente era ^acerba~ {v.103}, immatura a conversione;
+altrove (^Par.~, XXX, 137-138), perch@e l'Italia non era ancor
+^disposta~ alla morale riforma, la spedizione di Enrico non sort@i
+l'inteso effetto.  -- |Nel crudo~ ecc.; nell'aspro monte (^sasso
+del monte Aventino~, ^Inf.~, XXV, 26) dell'Alvernia, situato tra
+il Tevere e l'Arno vicino a Chiusi nel Casentino.  -- |Da Cristo~
+ecc.; il primo |sigillo~ lo ebbe da Innocenzo, il secondo da
+Onorio, il terzo da Cristo; e quest'ultimo |sigillo~, il pi@u
+potente e di pi@u viva impronta, sono le sacre stimmate; e ci@o fu
+nel Settembre del 1224, dacch@e S. Francesco mor@i il 4 Ottobre
+1226.  Le Stimmate per Francesco e per la sua Regola furono il
+|sigillo~ della sanzione divina; la bont@a di Dio si esplica
+moltiforme nelle opere de' suoi Santi, come nei doni e nei premi:
+le Stimmate per Francesco furono quanto per Tommaso d'Aquino il
+^bene scripsisti de me, Thoma~, dettogli da Cristo.  Ma codesto
+succedersi ^di sigilli~, l'ultimo ratificante gli altri due in
+forma solenne, @e una mazzata erculea a chi crede, in certe
+occasioni mal pensate e peggio preparate, d'aver buon giuoco a
+scherzare colla fede viva e purissima di questo gigante.  Con ci@o
+Dante apertamente dichiara, che una istituzione religiosa per
+quanto santa d'intenti e di frutti mirabile, non ha nella Chiesa
+vita giuridica se non sia dal Papa approvata; e perch@e per un
+cattolico @e sempre vera e piena e viva la parola a Pietro, ^quod
+ligaveris erit ligatum; et quod solveris, erit solutum~; cos@i il
+Poeta, mostrando Cristo che mette l'|ultimo sigillo~, @e quanto ci
+dica, che Cristo riconobbe e autentic@o il |sigillo~ de' suoi
+Vicari.  S. Bonaventura (^Legenda~ etc., cap. IV): <Impressa sunt
+ei stigmata Domini Jesu ^digito~ Dei vivi, tamquam ^bulla~ summi
+Pontificis Christi, ^ad confirmationem omnimodam Regulae.~>  Di
+ci@o S. Bonaventura (^Legenda~ etc., cap. XIII): <Fidelis revera
+famulus et minister Christi Franciscus, biennio antequam spiritum
+redderet coelo, cum in loco excelso seorsum, qui mons Alverniae
+dicitur, quadragenarium ad honorem Archangeli Michaelis jejunium
+inchoasset, supernae contemplationis dulcedine abundantius solito
+superfusus, ac coelestium desideriorum ardentiori flamma
+succensus, supernarum coepit immissionum cumulatius dona
+sentire...  Quodam mane, circa festum Exaltationis sanctae
+Crucis, in latere montis orans, vidit quasi speciem unius
+Seraphim, sex alas tam fulgidas quam ignitas habentem de coelorum
+sublimitate descendere; qui volatu celerrimo ad aeris locum viro
+Dei propinquum perveniens, non solum alatus, sed et crucifixus
+apparuit: manus quidem et pedes habens extensos, et crucis
+affixos; alas vero sic miro modo hinc inde dispositas, ut duas
+supra caput erigeret, duas ad volandum extenderet, duabus vero
+reliquis totum corpus circumplectendo velaret.  Hoc videns,
+vehementer obstupuit, mixtumque dolori gaudium mens eius
+incurrit, dum et in gratioso eius aspectu sibi tam mirabiliter
+quam familiariter apparentis excessivam quamdam concipiebat
+laetitiam, et dira conspecta crucis affixio ipsius animam
+compassivi doloris gladio pertransivit.  Intellexit quidem, illo
+docente interius, qui et apparebat exterius, quod licet passionis
+infirmitas cum immobilitate spiritus Serafici nullatenus
+conveniret, ideo tamen huiusmodi visio suis fuerat praesentata
+conspectibus, ut amicus ipse Christi praenosceret, se, non per
+martyrium carnis, sed per incendium mentis, totum in Christi Iesu
+crucifixi expressam similitudinem transformandum.  Disparens
+itaque visio, post arcanum ac familiare colloquium, mentem ipsius
+seraphico interius inflammavit ardore, carnem vero Crucifixo
+conformi exterius insignivit effigiie tamquam si ad ignis
+liquefactivam virtutem praeambulam sigillativa quaedam esset
+impressio subsecuta.  Statim namque in manibus et pedibus eius
+apparere caeperunt signa clavorum capitibus in inferiori parte
+manuum et superiori pedum apparentibus et eorum acuminibus ex
+adverso.  Destrum quoque latus, quasi lancea transfixum, rubra
+cicatrice obductum erat: quod saepe sanguinem sacrum effundens,
+tunicam et femoralia respergebat.>
+
+	|109-114.~  L'Alfieri not@o i due primi.  |Colui~; Dio. --
+|Sortillo~; lo elesse.  -- |Ch'ei merit@o~ (cos@i quasi tutti i
+Codd.); altri ^ch'egli acquist@o.~  -- |Pusillo~; umile (e non @e
+certo ^pusillanime~); e acquista senso dal ^regalmente~ del v.
+91; quindi non pusillanimit@a, che sfranca, ma umilt@a, che
+invigorisce e innalza; perci@o altrove, della Vergine, ^umile~ @e
+congiunto ad ^alta.~  Cos@i il ^pusillus grex~, detto da Cristo
+degli Apostoli, non dice paura, ma pochezza di numero; e la forza
+vera non nel numero, ma sta nel principio alto al quale l'anima
+s'inspira.  E il ^pusilli isti, qui in me credurit~, che disse
+Cristo de' bambini, dimostra l'umilt@a esser radice della fede; e
+per converso la superbia, radice d'ogni miscredenza, qualunque
+sia il titolo denominativo (^filosofismo, razionalismo~ e anche
+^liberalismo~), onde cerchi di ammentarsi.  -- |Ai frati suoi~; a
+quelli ch'eran presenti, e in essi a tutto l'Ordine.  -- |Erede~
+(e anche ^reale~, secondo che leggono alcuni: cf. ^Par.~, XII,
+66); plur. di ^ereda~ (cf. ^Purg.~, VII, 118), eredi.  --
+|Raccomand@o~; affid@o, consegn@o la santa povert@a, e comand@o, diede
+per fisso precetto che l'amassero fedelmente, |a fede~ (cf. v.
+77).  Nella ^Regola~ di lui (cap. IV) il precetto suona cos@i:
+^Fratres nihil sibi approprient, nec domum, nec locum, nec
+aliquam rem, sed tamquam peregrini et adveniae in hoc saeculo, in
+paupertate et humilitate Domino famulantes, vadant pro eleemosyna
+confidenter.~  E ivi, cap. VI: ^Haec~ (^la povert@a~) ^sit portio
+vestra, quae perducit in terram viventium.  Cui, dilectissimi
+fratres, totaliter inhaerentes, nihil aliud pro nomine Domini
+nostri Jesu Christi in perpetuum sub coelo habere velitis.~  --
+|Pi@u cara~: cara sopra ogni cosa; e infatti, come all'uscir del
+secolo per abbracciare la Religione, si spogli@o sinanco del
+vestito che indossava, cos@i all'uscire di questa per andarsene
+all'altra vita, Francesco non volle che la compagnia sola di
+questa donna sua amatissima, e chiese, moribondo, che i suoi
+frati lo mettessero nudo per terra; ma un di loro, che il Santo
+era usato di chiamar suo guardiano, prese una vecchia tonaca e
+una corda, e gli disse: ^Padre, poverello di Cristo; io vi do a
+prestito questa tonaca e questa corda per l'amore di Dio;
+ricevetele in merito di santa ubbidienza~; e il santo prontamente
+ubbid@i.
+
+	|115-117.  Del suo grembo~; dal grembo della povert@a, in
+braccio alla quale Francesco era morto: altri per |grembo~
+intendono il corpo di Francesco come ricettacolo dell'anima (cf.
+^Purg.~, XXV, 80); per@o men bene, perch@e in tal caso avremmo qui
+^muoversi dal corpo~, e ^non voler al corpo~ ecc.  -- |Si volle~;
+la volont@a dei Santi sta tutta nel far quella di Dio; quindi
+questo |si volle~ ha sua ragione e forza ^nel piacque~ del v.
+110; al che si riduce anche la ^santa voglia~ del v. 99.  -- |Suo
+regno~; la prima delle sette beatitudini dette da nostro Signore
+alle turbe, @e: <Beati pauperes spiritu, quoniam ^ipsorum est
+regnum coelorum~> (^Matth.~, V, 3; cf. ^Purg.~, XII, 110); e
+questo |suo regno~ @e appunto ^la mercede ch'ei merit@o nel suo far
+si purillo~ (vv. 110-111).  Per@o cf. ^Par.~, IV, 23 e 32, nel
+commento.  Nell'^Epist.~, II, {Paragraph.} I: ^Coelestem, unde
+venerat, secundum spiritum, remeavit ad patriam.~  -- |Bara~; non
+volle altra bara che quella della povert@a, nel cui grembo volle
+morire; non volle cio@e n@e pompe funebri, n@e iscrizioni, n@e
+monumenti.  Il Muratori ne' suoi ^Annali~ dice, che Francesco
+comand@o che ^il suo corpo fosse sepolto dove si seppellivano i
+giustiziati~: e cos@i anche in questo si rafferma la sentenza
+divina, che ^qui se humiliat, exaltabitur~; e di qui la ragione
+che le citt@a d'Italia s'ornarono di monumenti eretti in onore del
+gran Poverello.
+
+	|118-120.~  Se tale fu S. Francesco, prosegue Tommaso,
+pensa di per te qual dovesse essere S. Domenico, degno suo
+collega a sostener la Chiesa contro l'urto delle eresie, contro i
+fiotti delle passioni mondane, dirigendola al suo vero porto, il
+cielo.  -- |La barca di Pietro~ (cf. vv. 31-36); cf. ^Purg.~,
+XXIX, 107; XXXII, 119, 129 e 142; ^navicula Petri~,
+nell'^Epist.~, VI, 1 (ma qui ^i remiganti non dormivano~); e
+^navicula fluctuans~ nell'^Epist.~, VIII, 5.
+
+	|121-123.  Il nostro Patriarca~; san Domenico (|nostro~:
+@e un Domenico che qui parla).  -- |Com'ei comanda~; come
+prescrive la sua Regola.  -- |Buona merce~ ecc.; fa buon frutto,
+acquista buon merito per la vita eterna, ^impingua bene~ (v. 25).
+
+	|124-126.  Peculio~; i frati Domenicani (^pecore~, v.
+127).  Di questa tirata (vv. 124-132) di Fra Tommaso contro i
+Domenicani, si metta a riscontro l'altra di Bonaventura contro i
+Francescani (^Par.~, XII, 112 e segg.).  -- |Nuova vivanda~; chi
+intende (il Postill. Cass. e pochi altri), gli studi profani, cui
+si volsero i Domenicani, lasciando i teologici; i pi@u credono
+intendersi delle prelature e altre cariche ed offici; credo
+doversi intendere di tutto ci@o, che distraeva dallo spirito della
+Regola Domenicana.  -- |Salti~; il lat. ^saltus~ vale pascolo
+montuoso e boschivo.  Nell'^Epist.~, VIII, 4, scrive ai
+Cardinali: ^Quorum, sequentem gregem per saltus peregrinationus
+huius illustrare intererat, ipsum una vobiscum ad praecipitium
+traduxistis.~
+
+	|127-129.  Pecore~ (cf. v. 124); come tutti i fedeli son
+detti |pecore~ del Signore, onde ^ovile~ la vera Chiesa, e
+^Pastor sommo~ il Papa, e ^Pastori~ i Vescovi e quanti han
+governo d'anime (^Mon.~, III, 14; cf. ^Par.~, VI, 17); cos@i
+|pecore~ son detti i membri d'una ^famiglia~ religiosa (cf.
+^Par.~, XII, 115).  -- |Di latte~ ecc.; non ^carcano buona merce~
+(v. 123), non nutrendosi del pascolo salubre e fecondo, che il
+santo Fondatore addit@o loro colla sua Regola, ma di cibo profano,
+nocivo a loro e agli altri.
+
+	|130-132.~  Notati dall'Alfieri.  |Ben son~ ecc.; veggasi
+come Bonaventura fa consimile eccezione rispetto ai Francescani
+(^Par.~, XII, 121 e segg.).  -- |Le cappe~ ecc.; sono pochi; a
+vestirli non occorre molto panno.  Al Tommaseo non piaceva questo
+trapasso delle ^pecore~ {v.127} vagabonde al |panno~ e alle
+|cappe~; ma il Cesari aveva a buon proposito notato: <Ritorna qui
+dalla metafora ai veri Frati.  Or nota, gran coscienza che si
+faceano i Classici del mantener la stessa metafora fino al fine!>
+(ed @e una ben assestata stoccatina a certi trattatelli di
+rettorica fatti apposta per far non degli scrittori, ma dei
+gretti e cocciuti pedanti).
+
+	|133-139.~  L'Alfieri not@o il primo e il quinto. 
+|Fioche~; fievoli, deboli (cf. ^Inf.~, III, 27).  -- |Udienza~;
+l'atto dell'ascoltare, cio@e se hai bene atteso alle mie parole. 
+-- |Revoche~; richiami.  Il Tommaseo: <Pare terzina inutile; ma
+il primo verso segnatamente intende ch'egli vuol parlare chiaro e
+vuol essere inteso.>  Cf. ^Par.~, IV, 88; XXIX, 69.  -- |In
+parte~; perch@e due erano i dubbi, de' quai Dante desiderava la
+soluzione (cf. vv. 22-26), e finora non fu schiarito che il
+primo.  -- |Voglia~; accenna al ^voler~ del v. 27.  -- |La
+pianta~ ecc.; intenderai a che sia rivolto il biasimo mio.  Il
+Cesari: <Io spiego senza avvolgermi nelle fantasie dei
+chiosatori.  Lo credo modo proverbiale, come quest'altro: ^La
+scheggia ritrae dal ceppo~, detto di figliuolo che somiglia in
+tutto suo padre: or qui varr@a: Perch@e vedrai il fondamento (la
+|pianta~), donde io ho tratto quel motto (|la scheggia~), |U' ben
+s'impingua~ ecc.>  -- |Il corregger~; e vedrai, intenderai la
+correzione, l'avvertimento, che concludono quelle parole |U' ben
+s'impingua, se~ ecc.; il Giuliani, ancor pi@u chiaro, postilla: <E
+vedrai che importa quella correzione |se non si vaneggia.~  Altri
+leggono ^correggi$er~ o ^corregg$er~, spiegando ^frate Domenicano~,
+cos@i detto dalla ^correggia~, ond'@e cinto, come ^cordiglieri~ si
+dicono i Francescani (^Inf.~, XXVII, 67); e intendono: E
+intenderai che cosa abbia voluto dire il Dominicano che ti parla,
+cio@e che cosa abbia voluto dir io, colle parole |U' ben
+s'impingua~ ecc.; e nessuno dir@a che a tirare tale spiegazione
+non occorrano argani nonch@e tenaglie.  Altri, pur tenendo
+^corregi$er~, spiega: E vedr@a il Domenicano che cosa inferiscano
+quelle mie parole.  Ma bene risponde l'Andreoli: <L'intendimento
+di san Tommaso non @e stato di spiegare il suo concetto ai
+Domenicani, ma a Dante.>  Infatti san Tommaso, fatta
+quell'affermazione (|U' ben si impingua, se non si vaneggia~),
+vide che Dante non ne cap@i appieno la vera sentenza, e che aveva
+perci@o bisogno d'uno schiarimento, specialmente rispetto alla
+seconda parte, |se non si vaneggia~; e il beato gli d@a tale
+schiarimento; in ci@o il |correggere~; e ognuno pensi che vuole.
+
+	Nota le terzine 2, 3, 4, 6, 10, 15; 18 alla 24; 26 28,
+30, 31, 32, 35, 36, 38, 42, 43.
+
+	^Nota~
+
+	Un mio valentissimo alunno, il P. Stefano Ignudi dei
+Minori Conventuali, ora docente in un Collegio del suo Ordine a
+Colle di Val d'Elsa in Toscana, cos@i conchiuse un suo bel lavoro
+sul tema ^San Francesco d'Assisi nella Divina Commedia~, datogli
+per penso scolastico: -- <Per dire ora alcuna cosa della bellezza
+artistica di questi pochi versi (vv. 109-117), bisognerebbe aver
+l'anima di un artista preclaro.  @E la grande finale di un canto,
+che agli orecchi di quel secolo dato all'amore delle ricchezze,
+degli onori e dei piaceri racconta l'esempio d'un Poverello umile
+e mortificato.  Il ^crescendo~ a questo punto @e l'estremo sforzo
+che fa Dante poetando,
+
+     Come all'ultimo suo ciascun artista
+
+(^Par.~, XXX, 33); i versi, che rimangono, sono quasi la fuga di
+questa musica, o le note morenti, che ci tolgono l'estasi e ci
+far ricordare che ancora siamo in terra.  Che tocchi vigorosi,
+semplici e risentiti insieme, sono queste terzine a dipingere la
+vita di san Francesco!  Ognuna basterebbe per argomento ad un
+quadro: ^il Poverello di Dio innanzi al Soldano superbo~: --
+^l'Apostolo della umilt@a e della pace che s'aggira per le ville e
+i castelli dell'Umbria~: -- ^il Serafino crocifisso che scende a
+stigmatizzare il Contemplativo dell'Alvernia~: -- ^la morte del
+caro san Francesco~!  Tale la materia sublime dello squarcio
+dantesco; la forma poi che lo anima, @e un sentimento
+profondamente cristiano e cattolico; @e un olezzo di spirito
+evangelico che ci riporta ai tempi apostolici, che ci fa essere
+presenti ai tempi dell'epopea francescana; @e il fremito
+dell'ascetica, @e il mistico sonno sul seno del Diletto.  O
+Allighieri, studiando i tuoi versi mi hai ricondotto a quell'anno
+benedetto, che in un chiostro della mia bella Toscana, alle rive
+dell'Arno, io meditava d@i per d@i la geste e lo spirito del mio
+serafico Padre, la nella mia celletta, cogli occhi fissi a quel
+tranquillo azzurro di cielo!...
+
+	E quale il fine di quest'arte dantesca?  Il Poeta era
+stanco degli uomini del suo tempo ^tutti diserti d'ogni virtute,
+e di malizia gravidi a coverti~ (^Purg.~, XVI, 58-60); onde a
+conforto del suo spirito addolorato, e per ritrarre gli sviati
+dal ^correre al ben con ordine corrotto~ (^Purg.~, XVII, 126),
+evoca la grande figura di san Francesco.  Nell'anima sua si apre
+un mondo di pace, scintillano fulgori di cielo; se il suo secolo
+ne fu capace, beato! se no, non importa; il Poeta ha trovato
+alcune ore di consolazione, e vi si @e fatto massimo: non lo
+disturbate; vola nelle braccia del Poverello d'Assisi, ne bacia
+la ruvida corda, ed esclama: ^O Padre, la tua mirabil vita meglio
+in gloria di ciel si canterebbe~!>

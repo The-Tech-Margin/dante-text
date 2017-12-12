@@ -1,0 +1,17 @@
+M-0 = +o~
+M-j = #e
+M-T =
+M-e = +a~
+M-ee = +ae~
+M-q = "spanish N"(?) (no escape code for this one)
+
+CONTROL CHARACTERS (introduced by IBM uploads via N*)
+^W = @u
+^E = @a
+^M = @i
+^U = @o
+^H = #e
+carriage return = @e
+
+To find control characters in "vi" or in "sed" file, type "control V" then
+"control [char]".

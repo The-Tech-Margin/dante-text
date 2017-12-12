@@ -1,0 +1,19 @@
+#! /bin/csh -f
+#
+#	Summarize Dante commentary files
+#
+set TMP = /tmp/$$
+set COMLIST = ( barbi benvenuto bosco castel daniello giacolone guido jacobo pietro ruskin selmiano )
+
+foreach COM ( $COMLIST )
+	foreach CAN ( inf purg para )
+		echo $CAN > $TMP.$CAN
+		cd ~dante/$COM/$CAN
+		ls -1 | sort -n > $TMP.list
+		if ( ! -z $TMP.list ) then
+			wc `cat $TMP.list` >> $TMP.$CAN
+		endif
+	end
+	pr -m -3 -w130 -h "$COM" $TMP.inf $TMP.purg $TMP.para 
+end
+rm -f $TMP.*

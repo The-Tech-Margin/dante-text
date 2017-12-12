@@ -1,0 +1,22 @@
+..COMM:
+Boccaccio
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Giovanni Boccaccio
+..PUBD:
+1373-75
+..PUBL:
+[^Inferno 1-17 only~]
+Esposizioni sopra la Comedia di Dante, a cura di Giorgio
+Padoan, vol. VI of Tutte le opere di Giovanni Boccaccio, a cura di
+Vittore Branca.  Milano, Mondadori, 1965.
+..DENT:
+KDEM
+..EDTR:
+Margherita Frankel
+..LODD:
+..ATTR:
+copyright

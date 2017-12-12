@@ -1,0 +1,856 @@
+	|SUMMARIUM.~  CANTUS DECIMUS SEPTIMUS, ^in quo invenit
+Gerion~...... ^fluminis, super quo transiverunt flumen, et
+antequam~ ^transiverint illud, misit Virgilius Dantem locuturum
+quibusdam~ ^entibus in extremo illius septimi circuli, qui
+fuerunt~ ^foeneratores sub titulo florentinorum et paduanorum.~
+
+	|PROEMIO~  ^Ecco la fiera con la coda aguzza.~  Postquam
+in superiori capitulo proxime praecedenti autor noster ostendit
+circa finem quomodo piscatus fuerit monstrum Gerionis, per quod
+figuratur vitium fraudis; nunc consequenter in praesenti XVII
+capitulo describit ipsum Gerionem; et totum istud capitulum
+potest breviter dividi in tres partes generales.  In prima quarum
+describit multipliciter Gerionem.  In secunda reflectit se ad
+describendam poenam foeneratorum, de quibus nondum fuerat
+pertractatum nisi in generali, ibi: ^E quando noi.~  In tertia et
+ultima ostendit quomodo ascenderunt terga Gerionis, et quomodo
+transportati fuerunt per ipsum ad circulum fraudulentorum, ibi:
+^Et io temendo.~
+
+	|1-6.~  Ad primum dico quod autor describit Gerionem
+quantum ad effectum, et quantum ad formam.  Ad plenissimam
+discussionem istius passus, qui facit viam ad cognitionem
+multorum dicendorum inferius, oportet praeconsiderare multa.  Est
+ergo primo notandum quod autor, manifestato nobis vitio
+violentiae, volens descendere ad vitium fraudulentiae, ipsum nobis
+proponit et repraesentat per imaginem et figuram, fingens quod
+quaedam fera varia et mirabilis oblata est aspectui suo, idest
+speculationi intellectuali, quae quidem habebat vultum hominis
+benignum, et reliquum corpus serpentis praeter caudam, quae erat
+scorpionis; et appellatur ab ipso Gerion sicut et ab aliis
+poetis.  Ad cuius quidem ferae notitiam est sciendum, quod
+fabulose loquendo Gerion fuit rex Hispaniae habens tria corpora et
+ita tres animas, quem magnus Hercules praelio vicit et privavit
+triplici vita, et spoliavit magno armento.  Historice vero
+loquendo, sicut scribit Justinus libro ultimo, fuerunt tres
+fratres tantae concordiae et unanimitatis, ut viderentur esse una
+anima in tribus corporibus, et sic viderentur unus rex non tres. 
+Rodericus autem archiepiscopus toletanus in sua chronica de
+gestis Hispaniae dicit, quod Gerion habuit tria regna in Hispania,
+scilicet Lusitaniam, Galleciam, Bethicam.  Alii tamen dicunt,
+quibus magis credo, quod Gerion tenuit in Hispania tria regna,
+scilicet duas insulas baleares, scilicet Maioricam et Minoricam,
+quae sunt inter Hispaniam et Africam, distantes inter se forte per
+L milliaria; tenuit et Valentiam, quae fuit caput unius regni
+Hispaniae.  Hercules autem, qui primus domuit Hispaniam, veniens
+per mare ab oriente in occidentem, primo Gerionem spoliavit
+tribus regnis et vita, propter quae tria regna vocabatur Gerion
+tergeminus.  Ad propositum ergo autor per Gerionem, qui dicitur
+fuisse valde fraudulentus, allegorice figurat nobis in generali
+vitium universale fraudis, quae quidem est triplex; quaedam enim
+committitur verbo, quaedam re ipsa, quaedam facto.  Ideo primo dat
+Gerioni faciem humanam, per quam tangit primam speciem fraudis,
+quae committitur verbo, quia loqui est proprium hominis, et ista
+fraus committitur benigno vultu, sicut faciunt pravi consultores,
+adulatores, lenones.  Secunda fraus committitur in re ipsa, sicut
+in omnibus artibus et mercibus, ideo dat sibi corpus serpentis
+varium et diversorum colorum; per serpentem quidem, quia serpens
+est astutissimum animalium; per varium, quia fraudes sunt
+innumerabiles et infinitae.  Tertia fraus committitur facto, ideo
+bene dat caudam scorpionis pessimam, venenosam, quia pungit,
+penetrat, inficit, sicut latrones, baractarii, simoniaci,
+proditores.  Nunc ad literam veniendum est.  Autor primo
+continuans materiam praesentem praecedenti, fingit quod Virgilius
+qui traxerat Gerionem cum corda ad summum aquae, videns feram tam
+terribilem coepit exclamare cum magna admiratione, unde dicit: |il
+mio duca cominci@o s@i a parlarmi~, idest Virgilius, viso Gerione
+incipiente apparere, coepit clamare et dicere versus me: |Ecce la
+fiera~, scilicet Gerion figurans fraudem, quae facit hominem
+assimilari ferae, sicut serpenti et vulpi, |con la coda aguzza~,
+quia habet caudam scorpionis, quod statim declarat per effectum,
+dicens: |che passa monti~, sicut patet tota die in fraudibus, quae
+quotidie transmittuntur per literas, imo, sicut videmus, cum una
+fraus est inventa in aliqua mercantia, cito transit maria et
+montes, et discurrit ad alias regiones etiam longinquas: vel per
+montes intellige viros virtuosos, sapientes, altos et
+praeeminentes, quos saepe fraus superat, |e rompe muri~, sicut
+patet saepe in proditionibus terrarum, sicut in fraude Sinonis qui
+equo fictitio cepit Troiam, ut dicetur alibi: vel per muros
+intellige viros fortes, constantes, invincibiles, |ed armi~,
+idest viros armatos; imo tantam efficaciam habet ipsa fraus, quod
+inermis vincit armatum, pauper divitem, parvus magnum.  Exemplum
+habemus Hannibalis, qui fuit fraudulentissimus, et plura fraude
+quam viribus fecit, ut saepe patet apud Titum Livium de secundo
+bello punico.  Hannibal namque cum semel captus esset a Fabio
+maximo artibus suis, quia scilicet circumventus erat insidiis
+inexcogitata fraude, Fabium clausit et evasit. Collegit enim
+omnes boves et tauros qui potuerunt inveniri in campo suo, qui
+fuerunt circa duo millia numero, et fecit ad cornua omnium
+alligari faces ardentes et flammas igneas, et circa initium
+noctis fecit eos duci versus montes, quos occupaverant hostes, et
+boves duris verberibus et acutis stimulis urgeri et impelli
+contra montes; ex quo boves celeri saltu pervenientes ad cacumina
+montium, instigante calore qui pervenerat ad capita,
+praecipitanter discurrebant furiosi, ita quod totus aer ardere
+videbatur.  Quod videntes romani qui latebant in insidiis,
+putaverunt se circumventos ab Hannibale, unde armis abiectis
+dederunt se omnes fugae benefitio, et sic Hannibal libere evasit
+ex montibus, intra quos erat inclusus.  Sic igitur patet quomodo
+fraus fregit arma quae vis vincere non poterat, et ut cito dicam:
+|Ecco colei che tutto il mondo appuzza~, quia corrumpit omnem
+fidem et depravat omnem veritatem, et sic totum mundum maculat.
+
+	|7-9.  E quella.~  Hic autor describit accessum Gerionis
+ad ripam, tangens breviter allegoriam ipsius, dicens: |e quella
+sozza immagine di froda~, idest Gerion figura turpis triformis,
+|sen venne~, scilicet a dextris illius rivi, |et arriv@o la
+testa~, scilicet caput quod videbatur humanum, |e 'l busto~,
+scilicet reliquum corpus quod erat serpentinum; |ma non trasse la
+coda~, quae erat scorpionina, |su la ripa~, quia fraus semper
+aliquid reservat occultum, per quod acutius feriat, ita quod
+latet anguis frigidus semper in herba quam pascit.
+
+	|10-12.~  Et descripto effectu, describit formam, dicens:
+|La faccia sua era faccia d'uom giusto~, quia omnia vult videri
+dicere et facere juste et bene, et omnia mala nititur colorare
+per palliamenta verborum, et ideo: |avea di fuor la pelle tutta
+benigna~, idest apparentiam exteriorem, cum interius sit tota
+maligna, |e tutto l'altro fusto~, idest bustum vel truncum, |era
+d'un serpente~, ita quod cor erat in pectore plenum felle veneni,
+et venter plenus foetore sordium.
+
+	|13.~  Et dicit quod habebat duas chelas, per quas
+intellige duas species fraudis, scilicet illam quae rumpit
+vinculum naturae tantum; altera, quae rumpit vinculum naturae et
+fidei, ut patuit supra capitulo XI; vel per duas brancas quibus
+graditur Gerion, intellige quod fraudulentus semper incedit
+duplici via, unum ostendit facere, aliud facit, et semper fingit
+se longius ire; unde dicit: |due branche avea pilose fin
+l'ascelle~, idest copertas per totum usque ad assellas; nam
+brancae non durant nisi usque ad assellas; ergo viae Gerionis sunt
+omnino coopertae, unde infra capitulo XXVII dicit unus
+fraudulentus: ^gli argomenti e le coperte vie~
+
+	|14-15.~  et dicit: |avea dipinto~, idest coloratum,
+ornatum, |e 'l dosso e 'l petto, et ambe due le coste~, quasi
+dicat, totum corpus, |di nodi e di rotelle~, quasi dicat, laqueis
+et maculis coloratis, ornatis diversimode; nam formae fraudium
+sunt innumerabiles, infinitae.
+
+	|16-17.~  Et volens autor exprimere infinitam varietatem
+colorum fraudium, ostendit se non posse reperire comparationem
+condignam, quia nulla tela est consimilis pelli istius ferae; ideo
+dicit: |tartari n@e turchi~, qui faciunt pannos mirabili arte;
+similiter nec saraceni, sicut damasceni, |non fer~, idest non
+fecerunt, |mai drappi con pi@u colori, sommesse e soprapposte~,
+quia superponunt unum alteri, quam, supple, essent in trunco
+huius serpentis: et bene dicit, quia omnis minima ars et merx
+habet infinitos colores quibus palliat defectus suos;
+
+	|18.~  et addit aliam comparationem, dicens: |n@e tai tele
+for imposte per Aragne.~  Et hic nota quod aliqui volunt, quod
+autor loquatur hic de verme aranea, quae vere mirabili arte naturae
+texit suam telam.  Alii vero dicunt quod loquitur de Aragne
+muliere ingeniosissima textrice, de qua dicitur Purgatorii
+capitulo XII, ibi: ^o folle Aragne~, et puto quod ista sit
+intentio autoris, quia comparatio est magis propria de tela
+artificiali ad fraudem artificialem; et quia tela artificialis
+Aragnae fuit diversorum colorum, ideo melius exprimit telam sive
+pellem adumbratam tot coloribus et floribus, quam tela naturalis
+araneae quae est tantum unius coloris.
+
+	|19-24.  Come.~  Nunc autor descripta forma Gerionis,
+describit formam stationis eius per duplicem comparationem,
+quarum altera est clara, alia vero subtilis; et dicit in summa
+quod Gerion stabat partim in terra, partim in aere, partim sub
+aqua, sicut stant naves ad ripam partim in aqua, partim extra
+aquam; et sicut animal quod dicitur bivarus.  Ad huius secundae
+comparationis intelligentiam est sciendum, et diligentissime
+advertendum quod bivarus est animal mirabile nimis; est enim
+parvum, grossum, breve quasi ad similitudinem taxi; habet pedes
+posteriores anserinos ad natandum per aquam, et anteriores ut
+canis, quia frequenter ambulat per terram: pellis eius est
+cinerea ad nigredinem declinans, pilus vero spissus et curtus,
+caudam habet latam quasi ad modum linguae bovis, et pinguem cum
+corio squamoso; habet interius castorium in corpore, quod est
+calidum et siccum et confortans nervos, ideo valet contra
+tremorem nervorum.  Istud animal est valde potens, sagax,
+ingeniosum, dominativum; est enim acutissimi morsus, et arbores
+satis magnas, et ramos arborum resecat et deiicit, cum quibus
+facit sibi artificiosum domicilium cum pluribus solariis juxta
+ripas aquarum intra aquas, ita quod, aqua crescente, casa
+ascendit, et illa decrescente descendit.  Et dicitur quod bivaros
+peregrinos redigit in servitutem, et illis resupinatis per terram
+ponit ligna inter crura eorum diligenter super ventrem, et illos
+trahit per caudam ad locum ubi fabricat aedificium.  Domo autem
+facta sedet super ea, et immittit semper caudam in aquam intra
+structuram, et illam agitat per aquam, ad quam pisces concurrunt,
+et ipse praesto capit illos.  Cibus eius piscis, melica et
+aliquando cortices arborum; est autem cauda eius aperta ad
+natandum sicut gubernaculum in navi.  Ulterius est subtilius
+inquirendum quantum iste autor sagax et ingeniosus mirabiliter
+manifestet Gerionem animal fictum per bivarum animal naturale. 
+Primo enim bivarus est parvus corpore, de quo dicit Plinius quod
+est similis lutrae, qui cum apprehendit partem hominis non
+dimittit antequam ossa fracta concrepuerint; ita Gerion parvus
+corpore, sed magnus saccus malitiae: bivarus est animal
+multiforme, quia habet duos pedes posteriores anseris, quae avis
+est valde vigil et subtiliter sentit, habet caudam quam tenet sub
+aqua, et parat insidias piscibus; ita Gerion fraudulentus est
+animal triforme, habet enim caput humanum, corpus serpentinum,
+caudam scorpioninam, et cum illa navigat, cum illa se regit et
+gubernat, et capit puros et bonos viros: bivarus alios bivaros
+reducit in suam servitutem et comoditatem imponens eis onera; ita
+recte Gerion alios Geriones, idest fraudulentos saepe capit et
+trahit in sui utilitatem; et sic vide quod fraus vincit et
+simplices et astutos: bivarus vivit in terra et aqua, ita Gerion
+venatur in terra, piscatur in aqua, et ubique quaerit cibum suum:
+bivarus deiicit arbores et ramos, ita Gerion prosternit maiores
+et minores: bivarus habet castoreum intus in corpore quod est
+calidum, et valet contra tremorem; ita Gerion habet interius
+caliditatem et astutiam, quae valet contra tremorem et
+debilitatem: bivarus facit sibi domum in aqua juxta terram cum
+multis mansionibus; ita Gerion facit sibi domum cum multis
+cameris et angulis, ita quod laberintus Cretae non est magis
+intricatus; unde infelix qui intrat domum eius, raro vel nunquam
+potest exire.  Nunc ad literam vult dicere autor quod ita stabat
+nunc Gerion ad ripam partem sui tenens extra aquam et partem
+intra aquam sicut navis et sicut bivarus.  Dicit ergo: |la fiera
+pessima~, scilicet Gerion, idest fraus, quia incontinentia est
+mala, violentia peior, malitia pessima, |si stava su l'orlo~,
+idest extremitate ripae, |che di pietra il sabbion serra~, quia
+ripa lapidea claudit arenam, ut jam dictum est, |cos@i come stanno
+i burchi a riva talvolta che parte sono in terra~, quia scilicet
+tenent proram ad ripam tamquam caput, |parte in aqua~, quia
+scilicet habent puppim in aqua tamquam caudam.  -- |E come lo
+bivaro.~  Hic nota quod istud animal graece dicitur Fiber, latine
+vero Castor, non quia se castret, sed quia propter castrationem
+maxime quaeritur.  Ideo dicit magnus Albertus in suo de
+animalibus, quod falsum est quod dicit Isidorus, scilicet quod
+castor fugatus a venatoribus castrat se dentibus et proiicit
+castoreum; et quod si iterum agitetur a venatione erigit se et
+ostendit se carere castoreo.  Et certe magis credo Alberto quam
+Isidoro; tum quia Albertus fuit magnus naturalis et
+experimentator, tum quia castores abundant in partibus suis, ubi
+voluit habere experientiam veram; imo etiam Dioscorides antiquus
+et autenticus autor impugnat hanc opinionem de castratione, quia
+non potest attingere sibi testes, et dicit quod dicitur bivarus
+quasi bine vivens in terra et aqua.  Dicit ergo: |s'assetta a far
+sua guerra~, scilicet contra pisces, |l@a tra li tedeschi lurchi~,
+idest ingluviosos, voraces.  Hoc dicit quia castores abundant in
+Alemannia juxta ripas Danubii, imo apud Pontum, idest mare maius,
+ut dicit Dioscorides et Virgilius, licet non oporteat ire ita a
+longe, quia inveniuntur hic non longe a Ferraria in territorio
+Marchionum Estensium.
+
+	|25-27.~  Et dicit: |e guizza tutta sua coda nel vano~,
+idest in vacuo, |torcendo in su la venenosa forca~, quia scilicet
+habet caudam bifurcatam, in qua portat venenum more scorpionis;
+ideo dicit: |che~, idest, quae cauda, |armava le punte a guisa di
+scorpione~, quia probat se ad nocendum more scorpionis, qui venit
+tibi obviam cum chelis apertis, et cum cauda retro te pungit; ita
+Gerion hic cum chelis apertis.
+
+	|28-33.  Lo duca.~  Hic autor ostendit quomodo Virgilius
+direxerat eum ad videndum Gerionem de propinquo, quem hucusque
+viderant de longinquo, unde dicit: |Lo duca~, scilicet Virgilius
+qui duxerat eum per totum aggerem rectum, |disse: or conven che
+la nostra via se torca un poco~; unde adverte, quod Gerion
+tractus a Virgilio cum corda non appulerat recte ad ostium
+canalis, per cuius ripam isti venerant recte, imo aliquantulum a
+longe a latere dextro ad ripam quae claudit circulum in circuitu;
+ideo dicit: |fin a quella bestia malvagia~, quia nulla fera est
+nequior Gerione, non Cerberus, non Minotaurus, |che se corca~,
+idest, quae collocat se, |col@a.~  Ostendebat sibi Virgilius locum
+ad quem appulerat Gerion non longe ab aggere dextro, in cuius
+fine modo erant; et hoc dicto, statim moverunt et deflexerunt
+viam suam ad dextram per extremitatem circuli.  Unde dicit: |po'
+descendemmo~, bene dicit descendimus, quia erant in alto aggere,
+et descenderunt ad ripam bassam arenae, |a la mammella destra~,
+idest ad manum dextram; et ecce quare erant parum a longe, quia
+dicit: |e femmo dieci passi~, forte hoc dicit, quia decem sunt
+valles sequentes, in quibus puniuntur decem genera fraudium, |su
+lo stremo~, scilicet eundo per extremitatem circuli; et ecce
+quare: |per ben cansar l'arena e la fiammella~, idest ut
+vitaremus calorem arenae, quae coquebat pedes inferius, et calorem
+flammarum qui incendebat caput, et totum corpus superius.  Et sic
+nota quod ripa quae claudit arenam in circuitum, est ita exempta a
+flammis, sicut aggeres qui sunt ex utraque parte canalis eadem de
+causa, quia similiter fumus et nebula exalans ex aqua extinguit
+flammas in aere antequam perveniat ad terram.
+
+	|34-36.  Quando.~  Ista est secunda pars generalis in qua
+autor ostendit qualiter, post generalem investigationem fraudis
+sub figura Gerionis, ipse reflexerit speculationem suam ad
+speciem violentorum contra artem, de quorum speciali poena nondum
+tractaverat; et primo proponit quomodo viderit gentem istam
+propinquam loco ubi stabat Gerion, unde dicit: |e veggio poco pi@u
+oltre~, idest parum longe a Gerione, |gente propinqua al loco
+scemo~, idest vacuo, scilicet fosso ubi erat Gerion, |seder in su
+l'arena~; certe poena magna est sedere in pluma ignea, |quando noi
+semo venuti a lei~, idest cum pervenissemus ad ipsam feram.  Et
+hic nota, lector, quod multi dubitant et mirantur quod Dantes
+superius numeravit usurarios inter violentos, nunc autem post
+descriptionem fraudis revertitur ad descriptionem poenae
+praedictorum.  Certe autor utitur magna arte ad manifestandum
+vitium istorum violentorum contra artem; nam per hoc autor dat
+intelligi quod foeneratores peccant per violentiam, ut alibi supra
+probatum est, et per fraudulentiam, qua utuntur multiplici fraude
+negando saepe tempus, numerum, pacta, instrumenta,  scripturam, et
+ita de multis; ideo bene punit eos in extremitate arenae
+propinquos Gerioni, quia participant de utraque culpa.
+
+	|37-42.  Quivi.~  Hic autor ostendit quomodo Virgilius
+miserit ipsum ad videndam poenam istius novae gentis, et qualiter
+ipse Virgilius remansit ad dandum ordinem cum Gerione, ut
+transportaret eos per aquam ad illum circulum.  Dicit ergo: |il
+maestro~, scilicet Virgilius volens me plene docere materiam
+violentorum, |me disse: quivi~, scilicet in isto loco ubi erat
+Gerion, |va' e vedi la lor mena~, idest poenam, quia ultra poenam
+generalem habebant poenam specialem manuum, quas impausabiliter
+minabant continuo; et ecce causam, |acci@o che porti tutta piena
+esperienzia d'esto giron~, idest sabulo, quia nondum notaverat
+distincte usurarios.  Et subdit Virgilius modum agendi utriusque,
+dicens: |Li tuoi rasonamenti sian corti l@a~, quasi dicat: expedi
+te cito ab istis foeneratoribus de quibus jam tractasti alibi, et
+quorum natura est satis nota, et ego non stabo frustra; unde
+dicit: et ego, |parler@o con questa~, scilicet bestia Gerione, et
+ordinabo, |che ne conceda i suoi omeri forti~, idest terga
+fortia.  Et vere Gerion habet fortia terga, quia totus mundus est
+fundatus supra fraude; et quanta sit vis et fortitudo istius ferae
+jam dictum est in principio capituli, quia frangit et vincit
+omnia; |mentre che tu torni~, idest isto medio temporis.
+
+	|43-45.  Cos@i.~  Nunc autor ostendit quomodo de mandato
+Virgilii iverit et viderit poenam istorum, dicens: |cos@i andai
+ancor tutto solo~, scilicet sine Virgilio; et hoc fingit autor ut
+expendat et dispenset utiliter tempus, quia ista materia erat jam
+multum discussa; ideo cito se expedit nunc, et faciliter et simul
+intendit ad materiam fraudis, |su per la strema testa~, idest per
+extremitatem ripae quae praestabat viam tutam, |ove la gente mesta
+sedea~, idest genus usurariorum, quos autor appellat tristes
+propter multiplicem poenam, et etiam quia de facto usurarius est
+semper cogitabundus circa rationes suas et cautelas expensarum:
+nullus enim comuniter est miserior usurario, qui ponderat ova et
+ponit caules ad pondus in lebetem.
+
+	|46-48.~  Et describit formam specialis poenae eorum,
+dicens: |il duol scoppiava fuor per gli occhi loro~, quia dolent,
+complorant, conqueruntur statim cum perdunt denarium, |e
+soccorrevan con le mani quando ai vapori~, idest aliquando contra
+calores flammarum, |quando al caldo suolo~, idest aliquando
+contra solum, idest sabulum sive arenam calidam, quasi dicat:
+nunc ponebant manum ad caput, nunc ad culum.  Et hic nota quod
+autor pulcre figurat vitam irrequietam foeneratoris, qui semper
+ducit manus nunc jaciendo pecuniam, nunc ad se trahendo, nunc
+numerando, nunc scribendo, ut sic quietet ardorem mentis
+inextinguibilem flammarum, cupiditatis scilicet florenorum
+splendentium, sed continuo magis invalescit ardor.
+
+	|49-51.~  Et exprimit actum istorum per unam
+comparationem jocosam, claram, dicens: |i cani non fanno
+altrementi~, quasi dicat: imo similiter, |di state~, et sic
+tempus calidum conformatur huic loco calido, |or col ceffo~,
+idest cum muso, |or col pi@e quando son morsi o da pulce o da
+tafani.~  Et hic nota quantum ista comparatio sit propria ad
+propositum; nam merito usurarii assimilantur canibus, quia sunt
+vigiles et sagaces sicut canes, et cum magna cura custodiunt
+aliena: canes mordent, rapiunt, ita isti: canes frangunt os, et
+sugunt inde medullam: canes crudeles non miserentur pauperum, imo
+lacerant eos, ita usurarii, ut dicit propheta: canes pugnant
+omnibus membris contra muscas, pulices, tabanos et similes viles
+vermes qui nascuntur de corruptione; ita usurarii contra viles
+stimulos avaritiae, qui nascuntur de corruptione mentis.  Ideo
+bene: cave tibi a talibus canibus, quia verum est illud
+proverbium: ^chi se colca coi cani se leva con le pulce~; quia
+ita stimulabunt te, quod non poteris dormire quiete, sicut ipsi
+stimulantur et cruciantur.
+
+	|52-57.  Poi.~  Hic autor describit aliam poenam
+specialem; et vult breviter dicere, quod quamvis sic continuo
+moveant manus, tamen tenent visum semper firmum et fixum, et
+nunquam removent ipsum a pecunia; et primo fingit quod non
+noverit aliquem nisi ad certum signum.  Dicit ergo: |non ne
+conobbi alcuno~, scilicet ad faciem.  Et hic nota quod per hoc
+autor dat intelligi tacite, quod nullus istorum erat dignus
+cognitione vel fama.  Unde autor non potest dicere de istis illud
+quod dixit supra de multis aliis, qui puniuntur in ista arena sub
+eodem igne, quia licet Brunettus Latinus et Guido Guerra haberent
+faciem adustam, tamen autor bene recognovit ratione magnae
+virtutis; sed non sic de istis, quia isti non possunt notari ab
+aliqua singulari virtute, quae det eis famam, sed solummodo
+cognoscuntur ab eorum infamia, quia raro invenitur aliquis
+usurarius magnae virtutis.  Nec dicas, sicut aliqui dicunt: certe
+vidi aliquos usurarios cum magnis virtutibus: certe hoc non nego,
+quia ego similiter vidi; tamen istud non facit contra autorem,
+quia Dantes in omni genere peccatorum ponit semper pessimos in
+inferno damnatos.  Ideo dicit, quod inter istos describendos
+neminem novit, et si tu aliquem nosti, |una hirundo non facit
+ver.~  Ideo bene dicit autor: |poi che porsi gli occhi~, idest
+deduxi intuitum, |nel viso a certi~, idest faciem quibusdam, ut
+scilicet cognoscerem aliquos, |nei quali il doloroso foco casca~,
+quia amor ardens habendi ita cruciat et coecat oculos mentales
+eorum; |ma io m'accorsi che una tasca~, idest pera vel bursa,
+|pendea dal collo a ciascuno~, idest super pectus suum, |ch'avea
+certo colore e certo segno~, scilicet armaturam suam; et sic vide
+quomodo bene tangit vitam tristem, affannatam foeneratoris, qui
+stat quasi continuo inclusus et quodammodo carceratus ad
+calculandum et imbursandum; ideo bene se speculatur in bursa. 
+Ideo bene dicit: |e par che lor occhio si pasca quinde~, scilicet
+ab ista bursa ubi habet semper animum, quia denarius suus est
+deus suus, et ibi posuit felicitatem suam.
+
+	|58-60.  E com'io.~  Nunc autor describit aliquos
+foeneratores in speciali, et praecipue florentinos suos, quorum ibi
+erat satis bonus numerus.  Primo ergo describit quemdam militem
+florentinum, qui factus est ditissimus ex usura, quem describit
+ab armatura suae gentis.  Iste enim erat de Gianfigliaccis de
+Florentia, qui habent pro eorum insignio leonem azurrum in campo
+citrino.  Dicit ergo: |e vidi azurro~, scilicet colorem, |che
+avea faccia e contegno~, idest apparentiam et continentiam,
+scilicet totum corpus, |d'un leone in una bursa gialla~, idest in
+campo citrino, quia ista armatura erat depicta in bursa, |com'io
+vegno riguardando tra lor~, ut scilicet secernerem aliquos
+maiores in ista infamia et notiores:
+
+	|61-63.~  deinde describit alium civem suum, et similiter
+per signum dat intelligi signatum; et iste fuit magnus foenerator
+de Obriachis de Florentia, quorum armatura est anser albus in
+campo rubeo.  Dicit ergo: |poi il curro del mio sguardo~, idest
+cursus mei intellectus, quia intellectus volvitur sicut currus,
+|procedendo~, scilicet ulterius, |videne un'altra~, scilicet
+bursam, |rossa come sangue~: iste anser avis gurda imbibebat
+sanguinem multorum; ideo dicit: |mostrando un'oca bianca, pi@u che
+burro~, idest plusquam butirus, et est vulgare de Apulia.
+
+	|64-73.  Et un.~  Hic autor describit alium magnum
+foeneratorem paduanum, quem similiter describit ab armatura suae
+gentis: iste fuit quidam miles de Padua, qui vocatus est dominus
+Raynaldus de Scrovignis, vir ditissimus in immensum.  Scrovigni
+autem portant porcam azurram in campo albo, et inde denominati
+sunt, sicut et quidam nobilis romanus cognominatus est Scroffa,
+ut refert Macrobius libro primo Saturnalium.  Dicit ergo: |Et un
+ch'avea segnato il suo sacchetto bianco~, plenum pecunia multa,
+|d'una scroffa~, idest porca, |azurra e grossa, mi disse: che fai
+tu in questa fossa~? scilicet arena, quasi dicat: quomodo vivus,
+et sine poena venisti huc et ad quid? et quia autor poterat
+respondere: ego considero aliquos magnos foeneratores; ideo
+licentiat eum, et nominat sibi duos alios maximos foeneratores,
+unum paduanum, alterum florentinum.  Dicit ergo: |or te ne va~,
+quasi dicat: Frater mi, posses stare nimis hic, quia magni
+foeneratores sunt infiniti jam hic; sed dicam tibi de duobus
+magnis magistris usurae.  Dicit ergo: |e perch@e se' viv'anco~,
+quasi dicat: et quia tu es rediturus ad mundum et narraturus
+ista, ideo: |sappi che'l mio vicin Vitaliano~, scilicet civis
+meus paduanus, |seder@a qui~, scilicet in ista poena mecum, et me
+sociabit, ne solus paduanus custodiam crumenam hic, |dal mio
+sinistro fianco.~  Iste Vitalianus fuit nobilis miles de Padua de
+illis del Dente, qui vivebat adhuc; ideo vaticinatur eum venturum
+ad consortium foeneratorum, quia erat maximus artifex huius artis
+foeneratoriae quae est inimica artis.  Et dicit: |con questi
+fiorentin son padovano~, quasi dicat: habeo praescriptos
+florentinos in societate mea; ideo expecto unum de meis paduanis. 
+Et ultimo iste de Scrovignis nominat alium foeneratorem summum et
+supremum omnium.  Iste autem fuit quidam miles florentinus, qui
+vocatus est dominus Johannes Baiamonte, qui excessit omnes sui
+temporis in actu usurae; ideo bene fingit, quod omnes usurarii ibi
+damnati saepe vocant ipsum tamquam principem magnum istius sectae;
+cui merito dant palmam et triumphum pugnae pecuniariae, quam iste
+semper facit cum pugnis plenis et clausis.  Dicit ergo iste
+miles: Isti usurarii, |spesse fiate m'intronan li orecchi~,
+scilicet, turbant auditum meum clamore alto et terribili in modum
+tonitrui, |gridando: Vegna il cavalier soprano~; et sic vide,
+quod dominus Johannes Baiamonte vivebat, sicut et domitius
+Vitalianus del Dente; quorum utrumque autor ponit pro damnando,
+quia verisimile videbatur, quod isti deberent venire ad augendum
+et supplendum numerum istorum defunctorum, quorum vestigia
+sequebantur in vita, imo dominabantur omnes in foenore; ideo bene
+vocant istum tanto studio, ut tegat infamiam eorum, vel quia
+|solatiium est miseris socios habere poenarum~;  imo pravi
+reputant sibi ad magnam gloriam, quando habent in genere suo unum
+excellentissimum in malitia, et ipsum quaerunt, diligunt,
+honorant, et delectantur esse in societate sua.  Et describit
+istum Johannem, sicut et alios, ab armatura sua, quae erat campus
+aureus, cum tribus hircis nigris currentibus; unde dicit: |che
+recher@a la tasca con tre becchi.~  Et sic nota, quod autor
+describit unumquemque ab eo quod potest, vel a nobilitate, vel a
+dignitate, vel ab immensitate divitiarum; non a virtute, quae non
+erat in eis.  Isti ergo magni milites certaverant pro bono
+publico faciendo teneri magnos bancos in magnis civitatibus ad
+subveniendum generaliter indigentiis omnium.  Describit etiam
+generaliter omnes ab insignio suo; et hoc facit ut ostendat, quod
+isti profitentur sponte et publice et inverecunde suum infame
+officium, manifeste tenendo bancum et extendendo vela in signum
+artis.  Imo faciunt publice praeconizari quid facere intendant,
+licet hodie plures sint usurarii occulti, quam manifesti, quia
+usura transivit diebus nostris ad campsores, mercatores, et
+artifices; imo, quod est pudibundum dicere, ad praelatos,
+sacerdotes, et fratres.
+
+	|74-75.  Qui.~  Hic finaliter autor claudens istam
+materiam tangit unum malignum actum illius foeneratoris, dicens:
+|qui~, scilicet, facto fine verbis suis, hic transvertit faciem,
+|e trasse di for la lingua~, bestialiter; ideo dicit a simili,
+|come bo' che 'l naso lecchi.~  Unde scias quod iste foenerator
+habet ex prava consuetudine istum bestialem morem, quod saepe cum
+dixerat aliqua verba cum aliquo, turpiter extrahebat linguam
+versus nasum; licet etiam autor possit ostendere per istum actum
+particularem naturam communem foeneratorum, qui ut plurimum habent
+tristes mores, et sunt sine omni bona civilitate et quasi nulli
+bene conveniunt.
+
+	|76-78.  Et io temendo.~  Ista est tertia pars capituli
+in qua autor, expedita totali materia violentiae, nunc intendit
+trausire ad materiam fraudulentiae.  Et primo praemittit suam
+reversionem ad Virgilium, dicens: |et io temendo nel pi@u star
+cruciasse~, idest turbaret et provocaret ad iram, |lui~, scilicet
+Virgilium, |che m'avea ammonito di star poco~, ut patuit in
+principio partis praecedentis, et alibi saepius dictum est et
+dicetur, qualiter Virgilius semper fuit amator brevitatis, et
+Dantes non minus, |torname indietro da l'anime lasse~, scilicet a
+foeneratoribus, qui sunt in continuo multiplici labore et
+supplicio manuum, oculorum, sed multo magis in mordacibus curis
+animi.
+
+	|79-80.~  Et tangit ascensum suum dicens: |trovai il duca
+mio~, scilicet Virgilium, qui jam disposuerat se ad transitum;
+ideo dicit: |ch'era gi@a salito su la groppa del fiero animale~,
+scilicet Gerionis, quo nullum animal est ferocius in inferno, non
+Charon qui transportat animas omnium ultra primum flumen, non
+Phlegias qui traicit animas a palude ad civitatem, quia iste
+traducit animas a violentia ad fraudulentiam, quae excedit
+malitiam et incontinentiam, quia est cooperta, ita quod homo non
+potest vitare, et agit cum electione.  Et hic nota quod Gerion
+rex fuit violentus et fraudulentus, ideo bene autor dat sibi
+officium transferendi animas a loco violentorum ad locum
+fraudulentorum: et tamen Hercules vicit eum et privavit omni
+potentia sua, quia virtus et sapientia vincit et prosternit
+fraudem.
+
+	|81-82.~  Et ponit consilium Virgilii ad se, dicens: |E
+disse a me: or sii forte e ardito~, quia modo expedit, quia
+fortitudo est contra terribilia, et nullum est monstrum
+terribilius in inferno, non Cerberus habens tria capita, non
+Minotaurus habens duo corpora, quia Gerion habet tria, et plus
+laedit cum cauda, quam cetera animalia cum cornibus, dentibus et
+pedibus.  Ideo bene est opus hic bona audacia, quae plus importat
+quam fortitudo; ideo assignat causam dicens: |omai si scende per
+s@i fatte scale~, quasi dicat: non  habes amplius transire per
+navim, sicut jam bis fecisti, imo per tam novam scalam, quae est
+facta ex tribus diversis gradibus, scilicet homine, serpente,
+scorpione.
+
+	|83-84.~  Et continuo Virgilius post datum consilium
+generale specialiter providet indemnitati eius, dicens: |monta
+dinanci~, scilicet ante me in medio tergi, quasi dicat: volo quod
+stes in sella ut sis tutior, quia nescis adhuc bene equitare
+talem bestiam, et ego stabo in clune qui citius et diutus novi
+naturam istius falsae bestiae, quae more muli stat triginta annis ad
+dandum calcem, sed tandem dat ipsum mortiferum.  Ideo bene dicit:
+|s@i che la coda non possa far male.~  Per hoc tacite autor dat
+intelligi quod vir sapiens dicit illi cui habet consulere: Fili
+mi, tu debes semper praecavere fraudulentum finem, quando habes
+facere cum Gerione vulpone, fellone.
+
+	|85-88.  Quale.~  Hic autor ostendit timorem maximum qui
+statim invasit ipsum ad verba Virgilii per unam comparationem
+claram: et vult breviter dicere, quod ascensurus feram tam
+terribilem coepit tremere toto corpore per omnia membra, et totus
+pallescere, sicut ille quem invadit quatriduana febris.  Dicit
+ergo: |Io divenni tale~, scilicet tam territus, pallidus, |a le
+parole porte~, quando dixit quod ascenderem tam periculosum
+animal, |qual~, supple, |divene colui ch'@a s@i presso il
+ripreggio~, idest reoccupationem, scilicet quando febris recapit,
+reinvadit ipsum dic sua, |de la quartana~, quasi dicat breviter,
+quod plus timuit istam feram quam febrem, serpentem, vel mortem. 
+Et dicit: |ch'@a gi@a l'unghie smorte~, quia pallor incipit ab
+extremitatibus, |e trema tutto pur guardando il reggio~, idest
+rigidum frigus: et est comparatio propria, quia sicut expectans
+recipere febrem quartanam incipit tremere a principio, ita autor
+expectans ascendere feram triformem incoepit a principio tremere. 
+Et hic nota quod autor ideo fingit se nunc recepisse tantum
+timorem, quia, si bene recordaris, autor noster habuit magnum
+timorem in introitu inferni, et maiorem in introitu civitatis;
+nunc vero fingit se habere maximum in accessu ad istum circulum:
+per hoc enim figurat quod hic est maxima difficultas, quia
+materia est nimis profunda et ardua; nam violentia est manifesta,
+fraudulentia vero occulta, et materia ista numquam fuit descripta
+per alium; ideo hic est opus totis viribus ingenii.
+
+	|89-90.~  Et subdit succursum Virgilii promptum contra
+terrorem suum, dicens: |ma le sue minacce mi fer vergogna.~  Et
+hic nota quod Virgilius contra alios timores Dantis solet
+adulari, monere, consulere; hic vero minatur et exprobat sibi,
+quod ideo autor fingit, quia amodo debebat ex longa experientia
+audere et bene sperare.  Dicebat ergo Virgilius cum facie
+turbata, irata: Ah! miser, infelix, vilis, pusillanimis, nunquam
+habebis honorem, non famam perpetuam, non gloriam aeternam, et
+perdideris tot labores, tot vigilias.  Nonne deberes amodo esse
+audax cum jam perveneris ad medium operis feliciter, et es ita
+bene eruditus et armatus? quid ergo tam enormiter times.  Licet
+videris bestiam peregrinam, retrogradam, non tamen te linget cum
+ore humano, nec punget cum cauda scorpionina, nec te deiciet de
+sella serpentina; non suffocaberis in ista aqua licet profunda,
+idest in ista materia non deficies: vade te suspensum bestia,
+nonne ego te tenebo inter brachia?  Et nota quod autor non vult
+per hoc aliud ostendere nisi fortem luctam suae mentis, ut
+ostendat materiam fortem, et per consequens ut ostendat maiorem
+virtutem suam.  Ideo bene dicit quod verecundia vicit eum, unde
+dicit: |che~, idest, quae verecundia, |fa servo forte nanzi a buon
+segnor.~  Unde nota quod verecundia est tam fortis et efficax,
+quod saepe facit timidum audacem, et victum victorem, sicut pulcre
+narrat Julius Celsus de Julio Caesare, qui in Gallia videns
+militem fugientem a proelio cepit ipsum per nasale et reduxit in
+aciem, dicens: illuc sunt hostes.  Idem in Hispania contra filios
+Pompei pugnans, videns veteranos inclinare, fecit asportari equum
+suum, et pedes coepit pugnare ante aciem; et sic cum verecundia
+revocavit quos non poterat precibus et exhortationibus retinere,
+et sic victoriam eripuit de manibus hostium; et sic in proposito
+verecundia fecit fortem discipulum timidum coram bono doctore et
+duce Virgilio.
+
+	|91.  Io m'assettai.~  Hic autor ostendit quomodo
+ascenderit cum timore et pudore, dicens: |Io m'assettai su quelle
+spallacce~, idest magnis spatulis Gerionis.  Vere istae spatulae
+sunt maximae et amplissimae, super quibus sedent tot millia
+hominum, et hominum studia.  Unde nota quod regula Gerionis vera
+generalis, quae raro patitur exceptionem, est ista, quod omnis
+homo vivit in isto mundo secundum falsitatem artis suae; nam si
+credo velit bene et legaliter vendere calceamenta sua, dicendo
+quod corium est debile vel marcidum; et ita drapparius pannum
+suum, vivet in penuria et morietur fame: idem intellige de
+omnibus artibus mundi.  Ideo bene dicebat quidam ad verificandam
+istam regulam: qui facit usuram vadit ad infernum, et qui non
+facit vergit ad inopiam.  Magna ergo est bestia ista et magna
+terga habet, intellige de magnitudine intensiva.
+
+	|92-96.~  Et dicit: |e si volli dire fa' che tu
+m'abbracce~, quia adhuc non deposuerat timorem; ideo dicit: |ma
+la voce non venne~, sicut saepe accidit quod ex nimio timore homo
+perdit loquelam, ideo statim subiungit subventionem Virgilii,
+dicens: |ma esso che mi sovenne ad altro forse~, idest ad aliud
+dubium, sicut a simili quando ascendit centaurum, quia tunc
+Virgilius eodem modo ascendit clunem et tenuit eum inter brachia
+sua donec transiverurit aquam sanguineam.  Ita modo faciet hic
+donec transibunt istam aquam nigram conformem materiae fraudium,
+et alias saepe succurrit sibi in multis dubiis periculis,
+|m'avvinse~, idest ligavit, |e sostenne con le braccia~, ne
+caderem, |tosto ch'io montai~, idest tam cito, quam cito ascendi,
+quia sensit tremorem meum;
+
+	|97-99.~  et tacto ascensu tangit modum, dicens: |e
+disse~: scilicet ille Virgilius  illi bestiae: |O Gerion~, ecce
+nomen proprium bene conveniens; dicitur enim Gerion quasi gerens
+omnia; et omnia et omnes sicut jam dictum est; ideo bene habet
+magna terga, |movete omai~, recede a ripa, quia tempus est
+natandi, |le rote~, idest revolutiones per aquam, |sian larghe e
+lo scender sia poco~, quasi dicat: non est hic currendum, sed
+lente incedendum cum magna deliberatione circa istum primum
+introitum fraudium.  Et admonet eum, dicens: |Pensa la nuova soma
+che tu hai~, quia scilicet habens hominem viventem cum corpore
+ponderoso, quod non soles habere quando transportas mortuos.  Et
+allegorice est nuova salma, quia novus autor descripturus novam
+materiam, hic habet incedere lento passu, quia scilicet valde
+diffuse, plene et copiose faciet magnas revolutiones, idest
+circuitiones circa decem magnas valles, ut patebit in processu.
+
+	|100-105.  Come.~  Nunc autor ostendit quomodo Gerion
+adimpleverit mandatum Virgilii, quia statim paravit se ad
+natandum; unde explicat recessum suum per comparationem claram et
+propriam valde, et dicit breviter quod Gerion ita recessit a
+ripa, sicut navicula recedit a portu vel littore, quia scilicet
+vertit proram ubi primo habebat puppim; ita Gerion qui primo
+habebat testam ad terram et caudam in aqua se revolvit.  Dicit
+ergo: ille Gerion |si tolse quinde~, idest separavit se a plagia
+ista, |sicome la navicella esce del loco e 'ndetro e 'ndetro~,
+paullatim se elongans a loco stationis suae, |e rivolse la coda l@a
+ov'era il petto~, scilicet ad terram, ad spondam, |poi che tutto
+se sent@i a gioco~, idest postquam sensit se totum in aqua, ubi
+poterat natare, ludere et guicciare ad modum piscis.  Et sic vide
+quomodo comparatio est propria, quia Gerion habet transportare
+homines sicut navicula de loco ad locum, et ibat ista navicula
+cum remis et velo sine gubernaculo; remi erant duae chelae a parte
+anteriori, et velum erat cauda a posteriori.  Unde dicit: |e
+mosse quella tesa~, sicut velum tenditur sursum, |come anguilla~,
+supple tendit caudam sursum.  Et est optima similitudo, quia
+anguilla habet magnam similitudinem cum angue, et Gerion erat
+anguis corpore: anguilla etiam quanto magis stringitur, citius
+elabitur de manu; ita fraudulentus  quando credis eum habere pro
+capite, habes pro cauda qua te pungit, |e raccolse l'aire a se
+con le branche~: per hoc notat actum natantis, quia jactat
+brachia super aquam, et sic verberat aerem.
+
+	|106-114.  Maggior paura.~  Nunc Dantes descripto motu
+Gerionis describit alium timorem maiorem quem habuit quando coepit
+natare: primo enim timuerat quando ascendit, sed nunc fortius. 
+Describit autem vehementiam istius secundi timoris per
+comparationes duas pulcerrimas.  Ad cognitionem primae est primo
+sciendum, quod Ovidius secundo Methamorphoseos describit fabulam
+Phetontis valde diffuse, quae tamen per longa tempora ante fuerat
+apud graecos, quia Homerus summus poeta ipsam ponit, et Plato in
+suo Timeo, cuius tamen summam et sententiam breviter perstringam. 
+Fabula ergo summatim est ista: Pheton filius solis cum magna
+instantia precum petivit a patre ut permitteret sibi suum currum
+regendum per diem tantum: quem tandem concessum nescivit bene
+gubernare; unde currus excedens limites suos totam terram
+cremavit.  Est ulterius subtiliter advertendum, quod sub
+integumento huius fabulae continetur res naturalis et vera. 
+Naturale enim est secundum Philosophum, quod aliquando fiat
+diluvium, aliquando incendium.  Pheton ergo, qui dicitur filius
+solis, est calor qui generatur a sole, qui quodam tempore ita
+excrevit et excessit modum solitum quod exussit multas terras,
+sicut exponit Magnus Albertus in multis libris et locis.  Pheton
+autem cadens ideo fingitur suffocatus in Padum, quia maxime in
+Italia omnia flumina et aquae aruerunt praeter Padum, ita quod
+extinxit calores solis, quia solus fuit sufficiens ad resistendum
+calori; ideo habuit aquas pares ignibus solaribus, ut dicit
+Lucanus.  Ad declarationem secundae comparationis est sciendum,
+quod Dedalus, sicut scribit Virgilius sexto Eneidos circa
+principium, fugiens de Creta ab ira Minois, cuius indignationem
+incurrerat quia perduxerat Pasiphen uxorem suam ad taurum,
+apposuit sibi et Icaro filio suo alas ceratas, mandans filio ne
+volaret nimis alte nec nimis basse, sed teneret medium.  Ille
+vero impulsus calore juvenili petens alta pennas perdidit et
+suffocatus est in mari.  Cuius rei veritas fuit, quod Dedalus cum
+alis ceratis, idest navibus piceatis, recessit de Creta; nam
+navis est recte avis lignea quae habet vela tamquam alas, et habet
+remos tamquam pedes.  Sed filius eius qui volabat, idest
+celeriter navigabat in alia navi recedens a patre, et petens
+altum pelagum absortus est a mari.  Allegorice Dedalus, qui fuit
+vir ingeniosus, est omnis prudens pater qui admonet filium ne
+volet nimis ad alta, idest ad non possibilia suae virtuti, nec
+stet in imis, idest in terrenis et vitiis.  Ad propositum ergo
+imaginare si uterque dictorum juvenum habuit magnum timorem;
+alter quando vidit se cadere in Padum in quo mortuus est; alter
+quando vidit se cadere in mare in quo similiter mortuus est.  Ita
+autor noster filius solis, quia valde sapiens, et filius Dedali,
+quia summe ingeniosus, dubitans cadere ex illa bestia indomita in
+illam aquam profundam, obscuram, et ibi suffocari, non habuit
+nunc minorem timorem quam praedicti.  Nunc descende ad literam
+quam ordina sic: |non credo che fosse maggior paura~, scilicet
+Phetonti, |quando quel Fetonte abandon@o li freni~, scilicet
+equorum solarium trahentium currum solis, ex quo secutum est
+tantum incendium; unde dicit: |perch@e 'l ciel si cosse come par
+ancor.~  Hoc dicit quia secundum fabulam tunc facta est gallasia
+in coelo, quae est via lucida et appellatur lactea, et a vulgo
+dicitur in multis partibus Italiae ^via Sancti Jacobi~, et sic
+apparet adhuc signum illius incendii in coelo; in terra etiam
+apparet signum, quia secundum fictionem, tunc etiam aethiopes
+facti sunt nigri.  Et ecce aliam comparationem: |N@e~, idest nec
+etiam maior timor fuit Icaro, |quando quell'Icaro misero~, quia
+ita miserabiliter corruit in profundum volens nimis extolli in
+altum, sed misericordia dignus est error juvenilis, |sent@i
+spennar le reni~, idest dissolvi alas nimio ardore solis, idest
+vela lacerari quae erant alae ipsius navis, |gridando 'l padre a
+lui: mala via tieni~: quia scilicet recedebat nimis et deviabat
+ab eo, |che fu la mia~, scilicet timiditas, ita quod nec timor
+Phetontis nec Icari fuit maior quam nunc timor autoris.  Ideo
+dicit: |quando vidi ch'era nell'aire d'ogne parte~, sedens super
+spina Gerionis, |e vidi spenta ogne veduta fuor che de la fiera~,
+quia tantum elongatus a terra, quod nihil videbat nisi Gerionem;
+Virgilius autem erat a tergo.  Et hic nota quantum mirabiliter
+dictae comparationes faciant ad propositum.  Sicut enim moraliter
+loquendo praedictae fabulae dicunt juveni animoso et presumptuoso:
+Fili, non velis volare ante alas, vel noli volare nimis alte
+quando incipis, sed sufficiat tibi sequi recta vestigia maiorum;
+ita quodammodo autor dubitabat, quia extendebat volatum suum,
+idest processum et cursum suae materiae ultra tractatum Virgilii,
+qui erat pater eius, sicut saepe nominat ipsum in hoc opere: unde
+distinguit istum octavum circulum mirabili phantasia sua in decem
+bulgias, adinveniens poenas inexcogitatas, quod nec Virgilius nec
+alius unquam fecerat.  Dum ergo autor attentaret tam arduam
+materiam venit sibi in mentem utraque fabula, ne more illorum
+caderet in abyssum.  Unum tamen multum temperabat timorem eius,
+quia uterque praedictorum fecit contra consilium et dissuasionem
+patris; ipse vero e contra totum faciebat consilio et persuasione
+Virgilii.
+
+	|115-117.  Ella.~  Hic autor ostendit quomodo Gerion
+incedebat lente et late secundum praeceptum Virgilii, qui dixerat
+supra, ^le rote larghe e lo scender sia poco.~  Dicit ergo:
+|ella~, scilicet Gerion fera, |sen va notando lenta lenta~,
+idest, morose et tarde, sicut expediebat hic, |ruota~, idest,
+volvit se in girum, |e discende~, scilicet versus circulum, qui
+est velut insula circumcincta ista aqua, et dicit: |ma non me
+n'accorgo, se non ch'al viso, e di sotto m'aventa~, idest
+vacillat, et sic tangit actum navigantium, quibus non videtur
+navis ire ultra nisi quod quassatur, et oculis perpendunt quod
+transit et mutat locum;
+
+	|118-120.~  et ostendit appropinquationem ad locum,
+dicens: |Io sentia gi@a el gorgo~, idest aquam profundam, |far
+sotto noi un orribile stroscio~, idest terribilem rumorem, sicut
+videmus saepe quod equus facit quando intrat aquam, quia cum
+pectore frangit ipsam impetuose cum magno sono, ita bestia ista
+quae habebat amplum pectus plenum malitia, sicut dictum fuit
+supra, quod habet amplum tergum, modo rumpebat istam aquam cum
+magno fragore, et dicit: |da la man destra~, quia venerat ad
+dextram, ut jam dictum est, per aggerem et per aquam, sed cito
+redibunt ad sinistram et ibunt per omnes circulos, |perch@e sporgo
+la testa in gi@u con gli occhi~, idest inclinavi visum ad aquam
+deorsum sub me, et coepi videre loca poenarum, et supplicia
+fraudulentorum audire.
+
+	|121-123.~  Dicit ergo: |alor fu' io pi@u timido a lo
+scoscio~, idest ad motum, ad movendum me; et ecce quare, |per@o
+ch'io vidi fochi~, scilicet intra circulum praedictum, quia aliqui
+puniuntur inclusi in igne, sicut astuti, ut patebit suo loco; et
+facit specialiter mentionem de poena ignis, quia magis apparet et
+magis videtur a longe, quam daemones cornuti vel serpentes, |e
+sentii pianti~, scilicet procedentes a diversis poenis, |ond'io
+tremando tutto mi raccoscio~, idest recolligo et restringo me cum
+cossis ad bestiam, quia cossae cum genibus sunt quae equitant; et
+vult breviter dicere, quod territus est novo timore, quia primo
+solummodo timebat de Gerione, sed timor duplicatus est visis
+ignibus et auditis planctibus, sicut a simili si unus vadit per
+loca incognita cum una mala bestia, sicut pullo indomito,
+umbroso, vadit cum timore; sed si interim videt incendia domorum,
+quae fecerunt inimici, et audit planctus et clamores eorum qui
+feriuntur, interficiuntur, et derobantur, multo fortius timet, et
+aptat se super equo suo.
+
+	|124-126.~  Et subdit: |E vidi poi lo scender e 'l
+girar~, idest descensum circularem, |per li gran mali~, scilicet
+per bulgias ubi puniuntur fraudes, quae sunt maxima mala gradatim
+una sub alia, ita quod semper tenditur deorsum in inferno; ideo
+dicit: |che s'apressavan da diversi canti~, idest lateribus, |che
+nol vedea davanti~, scilicet antequam appropinquaremus ad locum,
+et sic videre coepit decem valles circulares in quibus puniuntur
+decem genera fraudium.
+
+	|127-136.  Come.~  Hic ultimo autor describit appulsionem
+Gerionis per unam comparationem nobilem falconis, quae breviter
+stat in hoc.  Sicut saepe falco in alto aere facit multas et
+multas circuitiones quaerens solicite praedam, tandem fatigatus
+nihil videns permittit se venire ad terram longe a loco unde se
+moverat; ita Gerion in alto pelago fecit multas revolutiones per
+aquam, et tandem videns quod nihil poterat lucrari, permisit se
+venire celeriter ad ripam illius circuli ad quem tendebant, et
+subito recessit et disparuit.  Nunc ordina sic literam: |Gerione
+ne pose al fondo~, idest ad finem, |a pi@e a pi@e di la staiata
+rocca~, idest prope ruinosam ripam altam et fortem in modum
+arcis, |cos@i come 'l falcon ch'@ee stato assai su l'ali che~,
+idest qui falco, |fa dir al falconier: oim@e tu cali~, idest heu
+mihi, quia tu declinas sine praeda, |sencia veder logoro~, idest
+lodrum quo revocatur avis, |o uccello~, scilicet anatrem vel
+aliam avem, |discende lasso~, idest fessus, |onde si move
+isnello~, idest ultimo fatigatus ubi primo erat velox, quando
+primo movit, |per cento ruote~, idest rotationes et revolutiones
+multas, |e disdegnoso e fello~, idest indignatus et iratus, quia
+perdidit praedam, |e se pone da lungi dal suo maestro~, scilicet
+falconerio, |e se dilegua come cocca da corda~, idest, sicut
+sagitta a corda balistae; nam cocca est extremitas sagittae,
+scilicet tacca quae apponitur cordae.  Et hic nota quantum praedicta
+comparatio sit pulcra et propria de falcone ad Gerionem.  Sicut
+enim falco est avis levis, rapax, acute videns, ita Gerion
+fraudulentus; et sicut falco post longam girationem descendit ad
+terram longe a loco unde se moverat, valde iratus quia praedam
+amisit; ita Gerion post longam revolutionem descendit ad terram
+valde longe a loco unde se moverat, multum indignatus quod
+perdiderat praedam, scilicet avem vivam, idest autorem vivum, quem
+speraverat portare intra circulum ad poenam tamquam fraudulentum. 
+Sed ipse velut avis pura evadet ab omnibus unguibus
+fraudulentorum, sicut videbis suo loco quomodo evadet ab uncinis
+daemoniorum.
+
+

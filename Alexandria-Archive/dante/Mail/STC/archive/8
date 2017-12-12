@@ -1,0 +1,759 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA08709; Thu, 16 Jun 1994 13:25:18 -0400
+Received: from Princeton.EDU by dartvax.dartmouth.edu (8.6.8.1+DND/4.5HUB)
+	id NAA12182; Thu, 16 Jun 1994 13:25:18 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.111/princeton)
+	id AA06372; Thu, 16 Jun 94 13:21:01 -0400
+Received: from tucson.Princeton.EDU by ponyexpress.princeton.edu (5.65c/1.113/newPE)
+	id AA08192; Thu, 16 Jun 1994 13:20:59 -0400
+Received: by tucson.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA20449; Thu, 16 Jun 94 13:20:59 EDT
+Message-Id: <9406161720.AA20449@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Thu, 16 Jun 1994 13:20:59 EDT
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU, tobypaff@pucc.Princeton.EDU,
+        LBIANCHI@Sol.YorkU.CA
+
+LIST OF SPELLING ERRORS (Luigi M. Bianchi) CHECKED BY HOLLANDER
+			15 June 1994
+
+KEY TO SIGLA BEFORE WORDS:
+
+* = "Not in Dictionary" (word obviously wrong; I can't find); 
+# = word OK (not a typo); 
++ = not in Bianchi's list, but found by RH
+
+NB: disregard accents and capital letters EXCEPT WHERE INDICATED
+IN CORRECT FORM.
+
+Some statistics:
+
+	Prof. Bianchi's list contained some 575 forms; of these
+159 were NOT in the DDP and another 92 were found to be correct. 
+Thus there was a total of ca. 324 erroneous forms in the DDP on
+Bianchi's list.  In addition, Hollander found, mainly
+fortuitously, 102 further erroneous forms, for a total of 426. 
+Of these, 64 occurred more than once (36 twice; 11 3 and 4 times;
+two 7 times; one 5, 6, 8, and 11 times), thus adding 129 errors
+to make a total of ca. 555 (all figures are close to accurate,
+but not guaranteed to be so).
+
+	Distribution of incorrect forms was varied.  To be taken
+into account are length of commentary and state of e-text that
+came from Dartmouth to the various editors.  Results by editor
+are interesting, if not conclusive (the best editors seem to have
+had at least one rotten outing, for whatever reason, whether a
+first outing, very long comm., very badly produced text, or a
+combination of the above).  [I have not included Latin or English
+texts here, since Prof. Bianchi was dealing with only Italian
+ones.]
+
+	Worst texts:
+
+	Steiner			73 errors	AR
+	Giacalone		58		RH
+	Bosco/Reggio		48		MF
+	Pasquini/Quaglio	45		AR
+	Momigliano		34		MF
+	Sapegno			32		AR
+	Pietrobono		27		AR (?)
+	Scartazzini		22		AR
+	Trucchi			15		AR
+	Di Siena		13		AR
+	Berthier		11		AR
+	Padoan			11		RH
+
+	Best texts:
+
+	Jacopo Alighieri	 1		MF
+	Bianchi			 1		AR (?)
+	Selmiano		 1		MF
+	Boccaccio		 2		MF
+	Lungo			 2		MF
+	Casini/Barbi		 4		MF
+	Portirelli		 4		AR
+	Tommaseo		 4		MF
+	Torraca			 4		AR
+	Fallani			 4		Reich
+	Vandelli		 5		MF
+	Grabher			 5		AR
+	Portirelli		 5		MF
+	Mestica			 6		RH
+	Chimenz			 6		MF
+	Lana			 8		MF
+	Fiorentino		 8		MF
+	Ottimo			 9		Pisa
+
+Given the fact that these figures probably reflect no more than
+50% of the errors in the database, one should not read too much
+into them.  On the other hand, they do tell us what commentaries
+seem most laden with error.  Since these tend to be modern ones
+that are closely attended to, we may need to make a special
+effort to clean them up.  Toby Paff's current work on
+Bosco/Reggio is a promising beginning.
+
+The wordlist follows:
+
+
+WRONG FORM	CORRECT FORM
+
+affermazone	affermazione	Bosco/Reggio
+altoronde	altronde	Bosco/Reggio
+animai		anima		Bosco {Inf. I only}
+	NB: "animai" occurs as a correct form 29 times;
+	only in the Nota to Inf. I of Bosco/Reggio is it wrong
++chatolicism	catholicism	Longfellow
+*cauteriizato
++cha		che		Lana (4), Portirelli, Costa,
+	Siena, Berthier (the 2nd one), Torraca, Lungo, Pietrob.;
+	HOWEVER it stays "cha" in Guido (7), Cassinese (8),
+	Berthier (1st occurrence), Bosco/Reggio
++chc		che		Bosco (2)
+*coccette
+*corspiratore
++eaquistarono	e aquistarono	Scartazzini
++dmimi		dimmi		Steiner
++fannodue	fanno due	Siena
+immgine 	immagine	2 in Bosco/Reggio
+immmagine   	immagine	Costa, Steiner, Bosco
+immmobilita  	immobilita 	Momigliano
+imobilita 	immobilita	Giacalone
+	NB BUT FIRST TWO OK [Boccaccio--except we've got a double
+	hit in Boccaccio--passage repeats {Inf. 4; I told you
+	about this in last memo}] 
+*impedimena 
+impedimenco  	impedimento	Sapegno
+imperarore 	imperatore	Sapegno
+imperatare	imperatore	Steiner
+impersole 	impersonale	Pasquini/Quaglio
+impertubabile   imperturbabile	Giac.
+impetatore 	imperatore	Sap.
+impetuosamento  impetuosamente	Momigliano
+implacibile 	implacabile	Sap.
+*impresss
++impresssione 	impressione	Porena
+*impresssionante
+impresssionanti impressionanti	Momig.
+imsieme		insieme		Fiorentino, Vandelli, Momig.
+imumagine	immagine	Steiner
+inclinato,rispetto = inclinato, rispetto	Sap.
+inclinzioni	inclinazioni	Pasquini/Q
+incominicio	incomincio	Padoan
+*incomminciamo
++incomminciano	incominciano	Steiner
++incomminciata	incominciata	Berthier
+incomparabilc	incomparabile	Giac.
+#inconsummabile
+incorraggiarlo	incoraggiarlo	Pietrobono
+incorrottibili	incorruttibili	Bosco/Reggio
+	{and in same passage: "^Ger.~ lib." = "^Ger. lib.~"}
+incredilita	incredulita	Giac.
+indentificava	identificava	Sap.
+indicbile	indicibile	Pietrob.
+#indigeo
+indirizasse	indirizzasse	Momig.
+indissolubimente = indissolubilmente	Giac.
+ineffilbile	ineffabile	Pietrob.
+#inelusibile
+inevitabimente	inevitabilmente	Giac.
+infattti	infatti		Mestica, Giac.
+infeno		inferno		Pietrob.
+infernle	infernale	Steiner
+infiuenza	influenza	Scartazzini, Bosco/R
+infliggerre	infliggere	Pasquini/Q
+inflnito	infinito	Pietrob.
+infnita		infinita	Sap.
+infnitamente	infinitamente	Trucchi, Sap.
+infniti		infiniti	Sap.
+infnito		infinito	Grandgent, Steiner
+#infoltarsi
+infomatore	informatore	Sap.
+infrmitatem	infirmitatem	Pietrob.
+infuenza	influenza	Siena, Steiner
+infuiarsi	inluiarsi	Steiner
+infussi		influssi	Steiner
+inifiniti	infiniti	Giac.
+iniquimente	iniquamente	Padoan
+inizale		iniziale	Scart., Pasquini/Q
+#inmensa
+innazi		innanzi		Port., Siena, Scart., Giac., B/R
+innegiar	inneggiar	Sap.
+innnanzi	innanzi		Pasquini/Q
+#inodiare
+inorridta	inorridita	Steiner
+inpennarsi	impennarsi	Giac.
+inpero		impero		NB: the first use {Ottimo} is OK;
+		the 2nd and third (Lungo & Momigliano) need changing
+inpossibile	impossibile	Bosco/R
+inquita		iniquita	Lana, Trucchi, Bosco/R
+#inrazionale
+#inreparabile
+insego		insegno		Pietrob.
+inselpolti	insepolti	Padoan
+insengna	insegna		Pietrob.
+insersecavano	intersecavano	Sap.
+insietne	insieme		Sap.
+*insisteua
+inspettate	inaspettate	Pietrob.
+insuffcienza	insufficienza	Bosco/R
+insufficente	insufficiente	Fior., Momig. Giac.
+*insufficenti
+insufficenza	insufficienza	Tommaseo (2), Giac.
+#intagliadura
+intecedenti	intercedenti	Momig.
+intellegibile	intelligibile	Fallani, Bosco/R
+intelletiva	intellettiva	Berth., Steiner, Giac., Bosco
+intelleto	intelletto	POEM {!}, Vell., Port., Berthier
+		 		(2), Trucchi, Pasquini/Q
+intellettule	intellettuale	Pasquini/Q
+intelletuali	intellettuali	Siena (2), Berthier, Steiner
+intellgenze	intelligenze	Pasquini/Q
+intelliggibili	intelligibili	Scartazzini, Giac.
+#intendeno
+#intendre
+intensificazone	intensificazione Giac.
+#intentamente
+intepretazione	interpretazione	Scart. (2), Fallani, Bosco 
+intepretazioni	interpretazioni Scart., Momig.
+interamemte	interamente	Giac.
+#intermessione
+internerisca	intenerisca	Bosco/R
+interoga	interroga	Giac.
+#interpellazioni
+interpreiazione	interpretazione	Sap.
+interprerazione	interpretazione	Steiner
+intevallo	intervallo	Steiner
+intevenuto	intervenuto	Pasquini/Q
+intirizzitte	intirizzite	Pasquini/Q
+#inturgidata
+invdiosa	invidiosa	Steiner
+inverosibile	inverosimile	Giac.
+#inveschiare
+invettva	invettiva	Sap.
+#iperbolice
+#ipocrate
+#ipponoo
+iraggia		irraggia	Giac.
+irradiaziode	irradiazione	Sap.
+irradire	irradiare	Pasquini/Q
+#irraggeranno
+#irrapresentabile
+#irreazzabile
+irredemibile	irredimibile	Giac.
+irrepaparabile	irreparabile	Steiner
+*irreprensibilia
+#irritamenta
+*isciliazioni
+istataneo	istantaneo	Pasquini/Q
+#istintaneamente
+lantinismo	latinismo	Pasquini
+latinimo	latinismo	Pasquini
+leggittimita	legittimita	Bosco
+letteralente	letteralmente	Pasquini
+letteratua	letteratura	Giac.
+lettto		letto		Momig.
+letttura	lettura		Momig.
+liricamenre	liricamente	Steiner
+lmiti		limiti		Steiner
++lnnalzato	Innalzato	Bosco/R
++lnqui		longinqui	Bianchi
+	NB: also clean: "Cos@i^[[2~ Cicerone" = "Cos@i Cicerone"
++lnsiste	Insiste		Bosco/R
++lnsufficient	insufficient	Singleton
+*lntelligenza
++lntelligenze	intelligenze	Singleton, Bosco
++lntendi	Intendi		Bosco
++lnvidia	Invidia		Fiorentino
++loa		la		Siena
+#loffredo
+ltalia		Italia	     Bocc, Fior (2), Siena, Giac, B/R (4)
+luogotenti	luogotenenti	Sap.
+*magggi
+*magggio
++magggior	maggior		Vandelli, Momig.
++magggori	maggiori	Steiner
++maggiare	maggiore	Grabher
+magglori	maggiori	Steiner
+magifico	magnifico	Steiner
+magrerzza	magrezza	Steiner
+maltrattto	maltratto	Bosco
+materiaa	materia		Steiner
+megaviglia	meraviglia	Steiner
+memte		mente		Pietrob
+meravigiarti	meravigliarti	Sap.
+metafsiche	metafisiche	Steiner
+metamofosi	metamorfosi	Momig.
+metopolitano	metropolitano	Pasquini/Q
+mezzogiomo	mezzogiorno	Porena, Pasquini/Q
+mmagine		immagine	Steiner, Grabher, Pasquini (2)
++mmde		made		Singleton
+#mmensurabile
+*mmi
+#mmonito
+molre		molte		Steiner
+moltititudine	moltitudine	Sap.
+*moltititudini
+monatero	monastero	Pasquini/Q
+*mornmora
+*mornmorai
+*mornmorano
+*mornmorare
+*mornmorata
+*mornmorate
+*mornmorati
+*mornmorato
+*mornmorava
+*mornmoravi
+*mornmoravo
+*mornmorera
+*mornmorero
+*mornmori
+*mornmorino
+*mornmoro
+#mpaccia
+#mpacciata
+*mpaniata
+#mparadisa
+#mpedimento
+#mpediscano
+#mpedisce
+#mpediti
+#mpegolate
+#mperador
+#mperadore
+#mperatore
+#mperche
+#mperio
+#mpetro
+#mpiastro
+#mpiglia
+#mprenta
+#mprenti
+#mpresa
+#mprese
+#mpresso
+#mpria
+#mpromette
+?mpronto
+msieme		insieme		Steiner
+*nause
+necesario	necessario	Vell., Lomb., Scart. (2nd), Trucchi
+	NB: But "necesario" is RIGHT in the FIRST pass. in Scart.
+necesita	necessita	Padoan
+#obmutesce
+*obtumesce
+occorrebbe	occorrerebbe	Padoan
+*offerts
+*offiamilio
+oggetiva	oggettiva	Giac. (2)
+oggetivamente	oggettivamente	Giac.
+*oglio
+*olica
+olrepassare	oltrepassare	Trucchi, Pasquini/Q
+#oltracontante
+#oltracuidance
+#oltreggiando
+#oltreggiarono
+#oltremondo
+oltrepassto	oltrepassato	Bosco
+#ommorto
+#omnino
+onniscenza	onniscienza	Padoan
+#onomatopeia
++ononre		onore		Ottimo
+#onransa
+oonsiderata	considerata	Steiner, Casini/Barbi
+opinine		opinione	Daniello, Pasquini/Q
+opinone		opinione	Scart. (2), Mestica (2),
+				Vandelli, Trucchi, Pasquini/Q
++opinoni	opinioni	Trucchi, Chimenz
+*opinonista
++opio		oppio		Scartazzini
++opione		opinione	Scart.
++opionione	opinione	Lombardi, Trucchi
+#oppinion
+opporutnita	opportunita	Pietrob
+oppozioni	opposizione	Bosco
+#organizato
+organizatore	organizzatore	Padoan
+orgogolio	orgoglio	Giac.
+ortidossia	ortodossia	Bosco
+osservzione	osservazione	Momig.
+ossevare	osservare	Momig., Fallani
+ossevato	osservato	Lombardi, Momig. (2)
+ossevazione	osservazione	Steiner, Momig.
+#ottacchero
+ottaviao	ottaviano	Steiner
+ottorno		attorno		Pasquini/Q
+otttimo		ottimo		Momig.
+#outrecuidance
+ovversaro	avversaro	Steiner
+paessaggio	paesaggio	Padoan
+paessagio	paesaggio	Momig.
+paice		piace		Pietrob.
+palestino	palestina	Bosco/R
+#palgen
+#panocchieschi
+pantomina	pantomima	Giac.
+#papalisto
+#paralelli
+*parellela
+*parellele
+*parelleli
++parellelismo	parallelismo	Giac.
+parellelo	parallelo	Pasquini/Q (2)
+partcipio	participio	Giac.
+particolamente	particolarmente	Vandelli, Momig. (2)
+#partimo
++passsione	passione	Tommaseo
+passsioni	passioni	Pietrob.
+#pedestremente
+pemettevano	permettevano	Steiner
+percorelle	pecorelle	Steiner, Trucchi
+perefrasi	parafrasi	Pasquini/Q
+perfrasi	parafrasi	Pasquini/Q
+pericdo		periodo		Steiner
+#peritoo
+perlla		perla		Steiner
++pevenissero	pervenissero	Boccaccio
++pevertitore	pervertitore	Steiner
++pewler		pewter		Berthier
+*pevetitore
+peziosi		preziosi	Steiner
+*piansono
+pigizia		pigrizia	Pietrob.
+#piritoo
+#placibili
+platonimo	platonismo	Giac.
++poeam		poema		Siena
++poebi		phoebi		Scart.
++poedagogus	paedagogus	Scart.
+poeticamenre	poeticamente	Steiner
+#polifrone
+precccupazione	preoccupazione	Steiner
+prececenti	precedenti	Giac.
+precissimo	precisissimo	Momig.
+predicarori	predicatori	Steiner
+*prefigurarone
+preflsso	prefisso	Pasquini/Q
+pricipi		principi	Steiner
+pricipio	principio	Vell., Port., Grabher, Pasquini
+prinicipio	principio	Benvenuto, Padoan
+probabilemente	probabilmente	Ottimo, Bosco
+probabilente	probabilmente	Pasquini
+proberviale	proverbiale	Pasquini
+proccupasse	preoccupasse	Bosco
+procedc		procede		Sap.
+proessione	processione	Pasquini/Q
+proprompono	prorompono	Pietrob.
+prosuntuoso	presuntuoso	Fior., Torraca, Steiner, Porena
+#protesse
+prrfeziona	perfeziona	Sap.
+psicologlche	psicologiche	Giac.
+ptofundum	profundum	Pietrob.
+pubblicamenre	pubblicamente	Steiner
+pugatorio	purgatorio	Costa, Mestica, Grabher, Momig.
++pumpa		pompa		Benvenuto
+*pumpti
++pumti		punti		Steiner
+punzione	punizione	Steiner, Bosco
+purifcazione	purificazione	Steiner
+purisssimo	purissimo	Giac.
+*rabbrivano
+*rabbrivii
+*rabbrivir
+*rabbrivire
+*rabbrivita
+*rabbrivite
+*rabbriviti
+*rabbrivito
+*rabbriviva
+*rabbrivivi
+*rabbrivivo
+rafforzameanto	rafforzamento	Padoan
+raggitori	reggitori	Sap.
+*rappreseni
+*rappreseno
++rappresenazione rappresentazione Trucchi
+rappresentazone	rappresentazione Giac.	
++rappresseta	rappresenta	Bosco	
+rccogliersi	raccogliersi	Sap.
+redno		regno		Steiner
+*regolariza
+*regolarizi
+*regolarizo
+religiosametne	religiosamente	Giac.
+restituice	restituisce	Bosco
+*retribuiii
+*rfiota
+*rfiote
+*rfioti
+ridesso		riflesso	Giac.
+riduciblilta	riducibilita	Giac.
+*riferano
+riferimemti	riferimenti	Giac.
++rifessione	riflessione	Steiner
+*rifessone
++rifetisce	riferisce	Grabher
++rifetteva	rifletteva	Scart.
++riffa		rissa		Vellutello
+rifflette	riflette	Giac.
+riliievi	rilievi		Giac.
+rimararro	rimarro		Steiner
++rimcalzi	rincalzi	Tozer
+*rimcorro
+*rimmarrei
+rinangono	rimangono	Momig.
+*rinsavano
+*rinvino
+rispettivamence	rispettivamente	Steiner
+rispettto	rispetto	Bosco
+rispiarmio	risparmio	Bosco
+sacratissmo	sacratissimo	Giac.
+#sagliente
++salveza	salvezza	Porena, Bosco
+	NB: 1st use(s) in Boccaccio OK; but again we have a
+	double hit in Boccaccio, Inf. IV, that needs fixing
+#sapfira
+sarbbbe		sarebbe		Steiner
+sarcastimente	sarcasticamente	Bosco
+scalacquando	sc{i}alacquando	Bosco (NB: add squiggly bracks.)
+scconda		seconda		Bosco
+sccondo		secondo		Fior., Guiniforto, Pietrob.,Bosco
+scintiile	scintille	Steiner
+sciogle		scioglie	Pasquini/Q
++sclicet	scilicet	Serravalle
+*scndendo
+scominicati	scomunicati	Pasquini/Q
+*scomparano
+*scomprarira
++scomprasa	scomparsa	Bosco
++scomumicate	scomunicate	Casini/Barbi
++scricchiolo	scricchiolio	Berthier
+*scricchioo
++scriffa	scritta		Singleton
+scuturisce	scaturisce	Sap.
+#sdruscia
+seccca		secca		Momig.
+*seglierlo
+*seglievo
+segretamete	segretamente	Steiner
+*seguiteriero
+semplicta	semplicita	Steiner
+semtimento	sentimento	Momig.
+sennna		senna		Pasquini/Q
+senpre		sempre		Selmiano, Momig.
+sentimeneto	sentimento	Giac.
+seoondo		secondo		Steiner
+servizo		servizio	Steiner
+sesortazioni	essortazioni	Pietrob.
+settentrionalle	settentrionale	Pasquini/Q
+sferanza	speranza	Pietrob.
+#sfreccieranno
+*sgrancha
+*sgranchano
+*sgrancho
+*sguinzagla
+*sguinzaglo
+sigificante	significante	Giac.
+signfica	significa	Giac. (2)
+signficare	significare	Chimenz, Fallani, Giac.
+signficativo	significativo	Giac.
+signficato	significato	Siena, Steiner, Momig., Chimenz,
+				Giac., Pasquini
++signicare	significare	Momig.
+signicato	significato	Steiner, Trucchi, Momig. (2)
+*signicatore
++signifa	significa	Berthier
++signifacano	significano	Torraca
++signifazione	significazione	Scart. (2)
++signifca	significa	Portirelli
+signifcato	significato	Casini/Barbi, Trucchi, Sap., Giac
+significataivi	significativi	Padoan
+significiva	significava	Giac.
+signifitcativo	significativo	Sap.
++simbili	simboli		Trucchi
++simbleggia	simboleggia	Trucchi
++simboii	simboli		Chimenz
+*simbolegga
+*simboleggo
++simboleggano	simboleggiano	Chimenz
++simbolgia	simbologia	Trucchi
+simiitudine	similitudine	Giac.
++similidine	similitudine	Scart.
+*simililtudie
++similimente	similemente	Ottimo, Fiorentino
+similiudine	similitudine	Pietrob.
+simitudine	similitudine	Steiner
+simomia		simonia		Steiner
+sincartica	sintattica	Sap.
+sinstra		sinistra	Siena, Steiner, Chimenz
+sintomidel	sintomi del	Steiner
+*sirtattica
++siruminando	si ruminando	Cassinese
+#smemoraggine
+*smentano
+soleme		solemne		Pietrob., Giac.
+solenniza	solennizza	Giac.
+solennizare	solennizzare	Giac.
+*somatropinavi
++somamente	sommamente	Ottimo
++somato		sommato		Bosco
++somboleggianti	simboleggianti	Lombardi
++sombolo	simbolo		Siena
+*somminista
+*somministi
+*somministo
+soraggiungere	sopraggiungere	Pietrob.
++sospeciar	sospecciar	Casini/Barbi
+*sospemde
++sospendanti	sospendenti	Lombardi
+sospiri,pianti	sospiri, pianti	Sap.
+*sostaniale
++sostaniali	sostanziali	Giac.
++sostanie	sostanzie	Vellutello
+sostativato	sostantivato	Pasquini/Q
+sostativo	sostantivo	Pasquini/Q
+#sostienmi
++sottera	sotterra	Ottimo, Daniello
+*sotterance
++sotterane	sotterrane	Ottimo
++sotteranei	sotterranei	Berthier, Mestica, Porena
++sotteraneo	sotterraneo	Daniello
++sotterato	sotterrato	Ottimo (2)
+sottolinare	sottolineare	Giac.
+*sottomani
+*sottoscale
+*sottospeci
+sottospra	sottosopra	Steiner
+*sottostano
+*sottostero
+*sottostino
+*sovvenzioo
+*spanrsa
++spante		spente		Lana
++spanto		sparto		Tommaseo
+spcula		secula		Steiner
+specialente	specialmente	Giac.
+spegazione	spiegazione	Bosco
++spieo		spiego		Lombardi
+spietaio	spietato	Steiner
+spiriualmente	spiritualmente	Pietrob.
+#spissati
+spledore	splendore	Scart., Pasquini/Q
+#splendiente
+splentente	splendente	Pasquini/Q
+sretta		stretta		Sap.
+#ssenaa
+*ssivo
+#ssodammo
++stabililta	stabilita	Bosco
+staccarscne	staccarsene	Pietrob.
+stanchersti	stancheresti	Pasquini/Q
+stascineremo	strascineremo	Pietrob.
+strordinarie	straordinarie	Pasquini/Q
+#strupo
+*strupri
+#strupro
+sttraverso	attraverso	Momig.
+successivamenete successivamente Giac.
++successroes	successores	Cassinese
+*successsiva
+successsivi	successivi	Bosco
+*successsivo
++successsore	successore	Portirelli
+*succolenta
+*succolente
+*succolenti
+suffciente	sufficiente	Steiner
+*suggestioo
++supcrbite	superbite	Bosco
+supeficie	superficie	Pietro di Dante, Steiner
++supebiae	superbiae	Pietro di Dante
+*supeflua
+supeflui	superflui	Steiner
++supefluo	superfluo	Momig.
++supeguo	supefluo	Singleton
+*surriscala
+*surriscali
+*surriscalo
++surroumded	surrounded	Grandgent
+svilupoo	sviluppo	Steiner
+svilupppato	sviluppato	Bosco
+tempestastato	tempestato	Sap.
+tempoporale	temporale	Sap.
+termiologia	terminologia	Pasquini/Q
+terrra		terra		Siena, Pasquini/Q
+#tlepolemo
+tradiziondi	tradizionali	Steiner
+*trascbitto
+*trasformre
++trasformonno	trasformono	Lana
+*trattabono
+trattentere	trattenere	Pasquini/Q
+*trespiano
+*trincetdo
+triofo		trionfo		Momig.
++trionfo~ec.	trionfo~ ec.	Portirelli
+*trionvero
+*tripaprtitismo
+#tripepi
+*triplicni
+*triscritto	trascritto	Giac.
+*triufale
++triufal	triunfal	Pietrob.
+*triviai
+#trofimo
+*trottasce
+*trouchebei
+trutti		frutti		Steiner
+tuttta		tutta		Momig.
+tuttte		tutte		Costa, Bosco
++tuttto		tutto		Ottimo
++tuttura	tuttora		Torraca
+*vagasero
+*vaghuranno
+*vaghuremo
+*vagirade
+*valicase
+*vascinera
+*vascinerei
+*vascini
+*vassinavo
+*vavola
+#vegete
+*venderano
+*veneravile
+*verniceri
+#verrano
+*vescavano
+*vesdaglie
+*vessanto
+*vetto
++vettoria	vittoria	Fiorentino
++vettorioso	vittorioso	Jacopo Alighieri
+*vigilaza
+*vigliaccne
+*virasero
+*virasimo
++vira		viva		Scartazzini
++vira		vita		Steiner (2)
++viratade	veritade	Berthier
++virditissimus	vir ditissimus	Berthier
+*vitupurura
++viuole		viole		Fiorentino
+*vivessuro
++vl		vi {caps}	Singleton (3), Bosco (2)
++vocaboio	vocabolo	Vandelli
+*vocabolabi
+*volasero
+*volessebo
+*volondaria
++voloce		veloce		Lombardi, Scart., Mestica
++volontaae	volont@a	Lana
+*voluttaio
+*vuotura
+
+

@@ -1,0 +1,38 @@
+	|1.~  O voi che sete com picciola memoria et cum picolo studio e 
+ingegno.  desiderosi non ve mect@e nel profondo mare de questa mia 
+materia.  torne' a rietro.
+
+	|10.~  Voi altri pochi.  che da fanciullo cominciaste a studiare de 
+mangiare el pane de la sapienza de li angeli.  del quale pane vivese 
+qui ma non se viene sato[llo].  questo non se viene satollo ci[o]@e per 
+satollarse del mangiare et del bere non se viene.  ma per molti digiuni 
+vigilie et continnuvo studio.  o vero non fu mai chi quaggi@u se 
+satollase s@i de la sapienzia divina in questo mondo che n'andasse 
+satollo.  per@o che solo la sapienzia de dio satolla et sazia contenta 
+el la sua cielestiale corte.  ivi sono l'intellecti de la sapienza 
+tucti pieni.  Voi cotali potete seguirmi per l'alto mare nel sale 
+dinanzi a l'acqua che retorna equale.  cio@e chome l'acque che vegniono 
+dal mare de qua gi@u et retornano al mare.  cos@i questa acqua ch'i' 
+prendo onde @e venuto el mio exere retorna al mare donde noi semo 
+venuti.  cio@e 'l mare de la divina sapienza.  la quale @e tanta che 
+ma[i] per criatura nol la poteo corrare o vero dicie dante che ma[i] 
+l'acqua de la sua tema non fu chi la corresse se non esso medesmo.
+
+	|73.~  Ancor.  de quel bruno fosse cagione l'exere raro o fora.  sono 
+fori buchi de sua materia se digiuno perch@e nello ascurare che la luna 
+fa del so[le] sendo rara o forata nol potrebbe s@i a[s]churare che nom 
+passa[sse] el suo raggio a noi per quelle parti che fossaro rare.  
+questo non @e.  etiam s'ella @e rara infine al mezo conviene anco che 
+quello raro non sia se no infine al mezo de la luna.  et a quel mezo 
+sia uno termene sodo che non lasci pare[r] se no fine ad esso terme[ne] 
+il ragio del sole.  or dirai tu che 'l se demostra nero v@oi bruno el 
+raggio del sole ch'@e entrato per li buchi rari d'essa.  et dirai el 
+corpo lunare sia tanto grosso e i fori che sono viti enfine al mezo che 
+'l lume del sole entrato sia tanto a dentro che 'l cie se demostri el 
+suo raggio nero vel tetro.  ed eccho la prova che no pu@o exere (^om.~).
+
+	|106.~  Or come.  ai raggi del sole sopra la neve la neve se desf@a 
+remane sola l'acqua col lo colore de prima et col lo freddo remaso.  tu 
+dante dicie beatrici[e] remaso tu cos@i vogl'io enformarte d'una 
+verit@a che tte tremolar@a elluminer@a nell'intellecto.
+

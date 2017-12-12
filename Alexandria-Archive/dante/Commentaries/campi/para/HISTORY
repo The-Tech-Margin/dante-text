@@ -1,0 +1,50 @@
+-------------------------------------------------
+Entered on 20 Sep 1998 by dante:
+Copied all cantos from ~bobh/campi/par* to here, converting some from
+Word documents to text. Canto 33 had ultra long lines, so I ran it through
+Bbedit on the Mac to wrap the text. This also began "PARADISO CANTO 34" which 
+I take to be a typo. I changed 34 to 33.                 -stc
+-------------------------------------------------
+Entered on 27 Oct 1998 by dante:
+Removed 21.e, which was not the right file for that canto. The file that I
+removed was a copy of C/campi/inf/21.e. Now we need to find the real para/21.
+							-stc
+-------------------------------------------------
+Entered on 12 Nov 1998 by bobh:
+11/12/98	RH reports that all these files ought to be what they
+say they are.  As for the missing "21.e", it is found in C/campi/para as
+"22.e" and should be transferred from that directory to this one.
+That should take care of ALL Campi problems in Paradiso.
+-------------------------------------------------
+Entered on 12 Nov 1998 by bobh:
+
+11/12/98	RH adds that C/campi/para.22.s SAYS it is Par.
+22 at the head of the actual file.  It is not; it is Par. 21 and
+should just be moved to here.
+-------------------------------------------------
+Entered on 12 Nov 1998 by bobh:
+11/12/98 RH apologizes to Steve: I don't remember if the file
+is suffioxed in .e or .s: don't worry about that.
+-------------------------------------------------
+Entered on 15 Nov 1998 by dante:
+As per RH's email dated 12 Nov 98: copied C/campi/para/22.s to 21.e
+and edited the first line of the file to change 22 to 21. I think this
+makes para complete.            -stc
+-------------------------------------------------
+Entered on 19 Nov 98 by steve:
+RH has checked the texts, and all's well.
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #199. -stc
+-------------------------------------------------
+Entered on 08 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 19 Jul 1999 by dante:
+Fixed blank-tab formatting and re-preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded

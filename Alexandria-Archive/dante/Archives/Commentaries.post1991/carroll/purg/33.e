@@ -1,0 +1,510 @@
+|PURGATORIO CANTO 33~ 
+ 
+     |Proemio.~  We have now reached the closing Canto, and before
+entering on its exposition in detail, it may be well to have clearly
+before us the stage which it represents in Dante's spiritual
+experience.  His entire faith in the Church as an ecclesiastical
+organization had crumbled into ruins.  The glorious triumphal Chariot
+had passed out of existence -- it `was, and is not.'  He regarded
+Boniface VIII. as a mere usurper.  In the ^Paradiso~, St. Peter bewails
+bitterly that his place is `vacant in the presence of the Son of God,'
+and at the word all Heaven flushed red with shame and indignation
+[^Par.~ xxvii. 19-36].  It was under Boniface that the Papacy was
+transformed into `a dishevelled harlot'; and when Philip the Fair
+dragged her and her monstrous throne away to Avignon, it meant for
+Dante the annihilation for the time of the Church as an institution. 
+ 
+     A corresponding ruin fell on his political faith, for the two 
+rose or sank together.  The imperial throne was also vacant: he 
+refused to acknowledge Rudolph, Adolph, and Albert, declaring that 
+Frederick II. was `the last Emperor of the Romans' [^Conv.~ iv. 3; 
+^Par.~ iii. 118-120].  The temporal power was represented by a lawless 
+Giant who tore the Chariot from the Tree, and thus despoiled the 
+Empire. 
+ 
+     A man might be forgiven if, when all he holds most sacred 
+sinks thus in ruin around him, he were to fling off all faith, 
+and become a mere scoffer and outlaw.  With Dante it produced 
+exactly the opposite effect.  The loss of the forms of faith only 
+threw him back more vitally upon the spirit of faith.  The actual 
+Church had perished in corruption, but the ideal Church and the 
+Seven Virtues could no more perish than God Himself.  The 
+imperial eagle would not remain for ever without an heir.  This, 
+then, is the stage of spiritual life Dante has reached.  During 
+the years to which this Canto refers he was reconstructing his 
+entire theory of Church and Empire, creating a new ideal of their 
+relations out of the wreck and ruin into which they had fallen 
+around him.  Beatrice, the spirit of Revelation apart from 
+ecclesiastical forms, impresses the new conception on him like a 
+seal on wax -- a conception a whole heaven above that of the 
+`school' which he had hitherto followed. 
+ 
+     |1-12.~  The three nymphs and the four -- the Theological Virtues 
+and the Cardinal -- sing antiphonally the seventy-ninth Psalm, in 
+lamentation for the Babylonish captivity of the Church: `^Deus, 
+venerunt gentes~' -- `O God, the heathen are come into thine 
+inheritance; thy holy temple have they defiled; they have laid 
+Jerusalem on heaps.'  Beatrice listens to the sad chant almost as 
+changed as was Mary at the foot of the Cross, for the outrage on the 
+Church is little short of `crucifying the Son of God afresh' [Heb. vi. 
+6].  When the lament was ended, she rose erect and, glowing like fire, 
+answered it with our Lord's words about His own departure and return: 
+`^Modicum, et non videbitis me et iterum modicum, et vos videbitis 
+me~,' -- `A little while, and ye shall not see me; and again, a little 
+while, and ye shall see me' [John xvi. 16].  Dante has not the 
+slightest tremor of despair: the hour and power of darkness must pass, 
+and Christ return in triumph.  Well does he deserve the praise of 
+Beatrice: 
+ 
+     `The Church militant hath not any son 
+      With greater hope.'  [^Par.~ xxv. 52, 53] 
+ 
+     |13-15.~  A new Procession is formed which preserves the general
+order of the first, though shorn of the ancient glory.  Beatrice sets
+the Seven Virtues in front, their lamps taking the place of the seven 
+candlesticks.  She herself fills the position occupied by the 
+Chariot; while, with a mere nod, she formed Dante, Matelda, and 
+Statius into the rearguard, corresponding to the New Testament 
+writers.  It represents the ideal Church as a stranger and 
+pilgrim on the earth, an exile and wanderer, like Dante himself. 
+
+     |16-45.~  Scarcely had Beatrice set her tenth step to the ground
+when her eyes smote his, and she asked him to advance to her side that
+he might hear her better.  She then rebuked him gently for his 
+slowness in questioning her, and gave him a great prophetic message
+which she commanded him to proclaim plainly and fearlessly to the
+world: 
+ 
+               `From fear and from shamefastness 
+     I will that thou henceforward strip thyself, 
+     So that thou speak no more as one who dreams. 
+     Know that the vessel which the serpent broke, 
+     Was, and is not; but let him whose blame it is 
+     Believe that God's vengeance fears no sop. 
+     Not for all time shall be without an heir 
+     The eagle that left his feathers on the car, 
+     Whereby it became a monster, then a prey. 
+     For I see certainly, and hence narrate it, 
+     Stars already near to give to us a time, 
+     Secure from all assault and every bar, 
+     In the which a Five-hundred Ten and Five, 
+     Sent by God, shall put to death the thief, 
+     With that same giant who is sinning with her.' 
+ 
+This passage has become encrusted with as much controversy as that of 
+the famous ^Veltro~ in ^Inf~. i. 100-111, and one cannot hope for any 
+final, indisputable solution of the mystery.  The general idea is plain
+enough -- the inevitableness of God's judgment on the false Church and 
+its destroyer.  `God's vengeance fears no sop' is generally explained 
+as a reference to an ancient superstition, that a murderer would escape
+vengeance if within nine days he managed to eat a sop upon his 
+victim's grave.  [There is a story that Charles of Anjou and his barons
+after the execution of Conradin, the last of the Hohenstaufens, ate 
+sops over the dead body in order to protect themselves from 
+vengeance.  Perhaps Dante knew of a similar observance on the part of 
+Philip the Fair.]  There may be, as some think, an allusion to the 
+sacrifice of the Mass: Philip may partake of the Sacrament above the 
+grave of the Church which he has slain, but it will not screen him from
+the just vengeance of God.  The uncertainty gathers round the question 
+of the instrument of this vengeance.  Imitating Rev. xiii. 18, Dante 
+conceals his identity under the dark cryptogram -- `a Five-hundred, 
+Ten, and Five,' or, in Roman numerals, DXV.  This is generally 
+transposed into DVX, to indicate the coming of some great Leader for 
+the reformation of Church and Empire.  The discussion of his identify 
+must be governed by the statement in vv. 37-39 that he is the Eagle's 
+heir, in other words, an Emperor.  This at once rules out several 
+conjectures, such as a Pope (^Domini Xristi Vicarius~); Christ Himself 
+(^Dominus Xristus Victor~ or ^Vltor~); the poet himself (^Dante Xristi 
+Vertagus~ -- Greyhound); and Can Grande della Scala of Verona, who is 
+generally identified with the ^Veltro~ of the First Canto of the 
+^Inferno.~  The question is therefore narrowed down to two Emperors, 
+Henry VII. of Luxemburg (1308-1313) and Lewis IV. of Bavaria 
+(1314-1347).  The claims of the latter rest solely upon the question of
+dates.  The almost ten steps of Beatrice (vv. 16, 17) undoubtedly 
+represent years; and if we count them from 1305, the date of the 
+carrying away of the Church to Avignon, it brings us down to about 
+1314, the year of the election of Lewis.  Butler reaches the same 
+result by another process.  `A consideration of dates may make the 
+matter simpler, if we observe further the connection between the mystic
+number and "the eagle who left his feathers to the car."  "In the 
+autumn of 799," says Mr. Bryce, "Charles descended from the Alps once 
+more, while Leo revolved deeply the great scheme for whose 
+accomplishment the time was now ripe" -- that is, the revival of the 
+Western Empire in Charles's person.  Five hundred and fifteen years 
+from this entry of the first Teutonic Caesar brings us to 1314, in 
+which year Lewis of Bavaria was elected emperor.  Under him, and 
+several great partisan leaders, Matthew Visconti, Can Grande of Verona,
+Castruccio Castrocane, Uguccione della Faggiuola, the cause of the 
+Empire began again to make head against the Papacy.  The same year also
+saw the deaths of Philip the Fair and Clement V., the first of the 
+Avignon popes' [Translation of ^The Purgatorio~, Appendix B, p. 431]. 
+Against all this, however, are the objections which Dr. Moore states 
+clearly.  Lewis was `intellectually insignificant' and incapable of 
+rousing this enthusiasm in Dante, who never alludes to him elsewhere; 
+and he had absolutely nothing to do with the deaths of Clement and 
+Philip: the former died a natural death, and the latter came to his end
+through a fall from his horse while hunting [^Par.~ xix. 118-120].  In 
+short, as already said, there is nothing in favour of Lewis except a 
+date, and even this depends on the year from which one counts.  The 
+year 1305 refers only to the last of the ^tableaux~ which Dante saw in 
+vision, and it is surely more natural to take 1300, the ideal date of 
+the poem, as the starting-point of the ten steps of Beatrice.  This 
+brings us down to 1310, when Henry of Luxemburg crossed the Alps into 
+Italy.  [The reference in Canto vi. 97-102 to the Emperor Albert's 
+assassination as a warning to Henry VII. -- `that thy successor may 
+have fear thereof' -- can scarcely have any other meaning than that it 
+was written prior to Henry's coming into Italy.  Albert's doom is 
+regarded as a judgment of his neglect of Italy, and it is held up as a 
+warning to his successor against the same sin.  See {comm. to ^Purg.~
+6.112-117}].  Now, we know that Henry roused in Dante the most
+extravagant hopes of a new world.  He calls him `the Lamb of God,' `the
+Lion of the tribe of Judah,' and urges him like another David to slay
+the Goliath who opposes him [^Epistle~ vii].  The case for Henry is
+argued carefully, and to my mind convincingly, by Dr. Moore, who is
+sanguine enough to hope that he has found the solution of the 515 in
+the numerical equivalents of the letters in the Hebrew alphabet
+composing ^Arrico~, one possible form of the Emperor's name, thus: 
+ 
+        a (Aleph)     = 1 
+        r (Resh)      = 200 
+        r (Resh)      = 200 
+        i (Yod)       = 10 
+        c or k (Koph) = 100 
+                      _____ 
+                        511 
+ 
+This lacks 4 of the 515, and the difficulty is that the ^o~ of ^Arrico~
+has no numerical equivalent in Hebrew; and Dr. Moore assigns it the 
+value of 4, because it is the fourth vowel.  He thinks Dante learned 
+this Kabbalistic method from his friend Emanuel ben Salomon of Rome, 
+who himself wrote a vision of Hell and Heaven, and composed sonnets on 
+the poet's death.  Whether this is the true solution or not, I entirely
+agree with Dr. Moore that Henry VII. is by far the likeliest candidate 
+for the honour of being the DXV.  Since there is no hint of Henry's 
+death in 1313, we may infer that the ^Purgatorio~ was finished prior to
+that date [`The DXV. Prophecy' in the 3rd Series of ^Studies in 
+Dante~]. 
+
+     |46-51.~  Beatrice admits the Sphinx-like nature of her prophecy,
+but declares that events will solve it `without scathe of herds or
+crops' [the Naiades (l. 49) are water-nymphs who preside over springs
+and fountains, but since they had nothing to do with the guessing of
+riddles there is little doubt that Dante followed a wrong reading of
+Ovid's ^Metam.~ vii. 759, 760, and that the true reading is Laiades, as
+restored by Heinsius.  Laiades, son of Laius, is OEdipus, who guessed
+the famous riddle of the Sphinx: `A being with four feet has two feet
+and three feet, and only one voice; but its feet vary, and when it has
+most it is weakest.'  The answer is Man -- crawling on all fours in
+infancy, walking on two feet in manhood, leaning on a staff in old age. 
+Themis was so enraged that she sent a monster to ravage the flocks and
+crops of the Thebans.  Beatrice says ^her~ riddle will be solved
+without any such destruction -- a prophecy of the peaceful entry of
+Henry VII].  These words seem to me to fix the date of the passage
+between 1308, when Henry was elected, and 1311, when he was forced to
+abandon the policy of peace with which he entered Italy.  He crossed
+the Alps almost unarmed, with the avowed purpose of reconciling Guelph
+and Ghibelline by a universal clemency.  The Papal Circular called upon
+all subjects of the Empire to rejoice in the King who `brings them
+peace'; and in the first sentence of his Letter to the kings and
+potentates of Italy, Dante strikes what he confidently believed would
+be the keynote of the New Era: `Behold, now is the acceptable time, in
+which the signs of consolation and peace arise.'  The words, `without
+scathe of herds or crops,' seem to show, therefore, that when this
+passage was written war had not yet broken out, and Dante was still
+under the delusion that a reign of universal peace was at hand.  We
+know how woefully the Emperor's gentle intentions broke down.  `The
+ideal of the Prince of Peace, which had been strained too far for the
+practical realities of life, was speedily shattered, and Henry VII.,
+whose conception of his authority in Italy was no lower than that
+cherished by the Hohenstaufen emperors, found himself in a short time
+on the same path and involved in the same labyrinth as his predecessors
+in the empire' [Gregorovius, ^Rome in the Middle Ages~, vi 34.  See
+{comm. to ^Purg.~ 6.112-117}.  Dr. Moore thinks the whole 
+^Purgatorio~ was written probably between 1308 and 1312.  `I am not 
+aware of any definite allusions whatever in the ^Purgatorio~ to events 
+after 1310....  I think it is a strong argument against supposing the 
+^Purgatorio~ to have been written after the death of Henry VII., that 
+it contains no allusion to that crowning calamity of Dante's life in 
+the way of "prophecy" or foreboding' (^Studies~, iii. 262 n.)]. 
+ 
+     |52-63.~  In the passage which follows, Beatrice lays it as a 
+solemn duty upon Dante to carry this news of a coming deliverer to 
+`those who live the life which is a race to death'; and she warns him 
+not to conceal how he has seen the Tree twice despoiled in this Earthly
+Paradise -- once by Adam (as the reference to him in vv. 61-63 seems to
+show), and the second time by Philip the Fair, when he robbed it of the
+Chariot, whose pole was made of its wood.  [Some think the first 
+despoiling is that shown in the first of the ^tableaux~; but since 
+Dante is obviously drawing a parallel between the first Fall and a 
+second, it is possible that the first despoiling is that of which Adam 
+was guilty, and the second that of the ^entire series~ of calamities 
+which passed in vision before Dante's eyes.]  She impresses upon him 
+that in the moral sense (l. 72, ^moralmente~) the interdict upon the 
+Tree represents, as we saw, the justice of God, the establishment of 
+that reign of righteous law and order which it is the final end of the 
+Empire to secure.  The Empire, therefore, is no creature of the Papacy 
+to go and come at its bidding.  Its existence and authority are from 
+God, `who alone for his own use did create it holy.'  Hence ^whosoever~
+robs or rends the Tree of the Empire -- whether he be Pope, Emperor or 
+King -- is guilty of `blasphemy of ^deed~' against God, inasmuch as he 
+destroys His justice.  The greatness of the penalty for such blasphemy 
+is seen in the first Adam and the second: 
+ 
+     `For biting that, in pain and in desire 
+     Five thousand years and more the first soul 
+     Craved Him who punished in Himself the bite.' 
+ 
+The `pain' refers to the 930 years of Adam's life on earth after his 
+exile from the Garden; and the `desire,' to the 4302 years he passed in
+Limbo waiting for his release by Christ.  The two figures added 
+together make 5232, the year of the world in which, according to the 
+chronology of Eusebius, the Crucifixion took place, and therefore the 
+`Descent into Hell' [that the `desire' refers to Limbo is proved by
+Adam's own words in ^Par.~ xxvi. 118-120: 
+
+     `From that place, whence thy Lady sent Virgilius, 
+     Four thousand three hundred and two revolvings 
+     Of the sun did I ^desire~ this Assembly'  
+
+-- ^i.e.~, of the Redeemed].  What Beatrice wishes to impress on Dante 
+is the heinousness of the sin of despoiling the Tree which stands for 
+the justice of God in the midst of the earth, if we are to judge by the
+severity of its punishment.  The first bite of its fruit is visited 
+with more than five thousand years of exile from God; and even then 
+Christ has to take the residue of the punishment upon Himself in the 
+agony of the Cross.  This is why the Tree is so lofty and its top 
+inverted -- to show that the Empire is inviolate, and to protect 
+mankind from the heinous guilt of destroying the Divine justice for 
+which it stands, and thus blaspheming God in deed. 
+ 
+     |64-90.~  Beatrice follows this with a second reproach of Dante, 
+which ought not be mixed up, as is frequently done, with her 
+impeachment of him in Cantos XXX. and XXXI.  Doubtless it is 
+connected ethically with the general deterioration of character 
+there indicated; nevertheless the range of the present reproach 
+is strictly limited to this question of the relations of Church 
+and Empire.  His vain thoughts had so hardened his intellect into 
+stone, and the pleasure of them so stained it with the dark hue 
+of blood, that `the light of the discourse' of Beatrice -- 
+obviously on this subject -- simply dazes him.  She commands him, 
+if he cannot write it down word for word, at least to carry back 
+to earth an outline and picture of it, as the pilgrim brings home 
+his staff wreathed with palm, in proof that he too has been in 
+Holy Land: nowhere else than in the Earthly Paradise would grow 
+such palm-branches of the truth.  In reply Dante declares that 
+his brain has been stamped by Beatrice as wax by a seal; but he 
+asks why it is that her work soars so far beyond his sight that 
+the more he strains after it the more he loses it.  Her answer 
+must be quoted: 
+ 
+     `That thou mayst know,' she said, `that school 
+     Which thou hast followed, and mayst see how 
+     Its doctrine is able to follow my discourse; 
+     And mayst see your way from the divine 
+     Distant as far as separated is from earth 
+     The heaven that highest hastens on --' 
+ 
+that is, the ^Primum Mobile.~  This is the passage relied on by those 
+commentators who hold that the aberrations of Dante were purely 
+philosophical.  It is assumed as if there could be no question of it, 
+that `the school' is Philosophy, for which he abandoned Theology or 
+Beatrice.  This, however, is to ignore the connection in which the 
+passage occurs.  The context shows quite clearly that Philosophy in 
+general is not in question, but simply the subject which runs through 
+these closing Cantos -- namely, the relation between Church and 
+Empire.  Dante cannot understand why the doctrine of Beatrice on this 
+subject so far transcends his vision, and is told tht it is due to `the
+school' he had followed.  This does not necessarily mean a school of 
+^Philosophy.~  I believe that, in point of fact, it means a school of 
+^Theology~, and no less a school than that of Aquinas himself.  On this
+subject of the relation of the spiritual and temporal powers Dante 
+broke completely away from his master, and asserted his own convictions
+in the ^De Monarchia.~  The doctrine of Papal supremacy, as Gregorovius
+says, had become canonical since the time of Gregory VII., and was very
+thorough-going.  `Christ had appointed Peter head of the universal 
+Church and His vicar; had entrusted him with the power to bind and to 
+loose, and with the spiritual and temporal jurisdiction.  The popes 
+accordingly asserted that this power had been transmitted to them; for 
+they were the successors of Peter, consequently the vicars of Christ on
+earth, therefore endowed by Him with the imperium over heaven and 
+earth, in sign of which they bore the keys.  They ascribed to 
+themselves the ^Plenitudo Potestatis~, of which every earthly power was
+only an emanation or fief; in accordance with their theories they had 
+authority to depose and set up kings, were the founders of the empire,
+bestowed the imperial crown, carried the two swords, and in short ruled
+with absolute power as sovereigns in both spiritual and secular 
+affairs' [^Rome in the Middle Ages~, vi. 119].  This is the theory to
+which Aquinas in his ^De Regimine Principum~ gave a theological
+foundation; and it has only to be stated to see that it is a world away
+from that which Dante formulates here in symbolism, and in the ^De
+Monarchia~ in philosophical statement.  Translating it into terms of
+his own personal experience, the meaning seems to be that up to the
+year 1300, the ideal date of the poem, Dante as a Guelph naturally
+accepted the Thomist doctrine of Papal supremacy.  For a short time
+after his exile he joined the Ghibelline party; but becoming equally
+dissatisfied with their views of imperial supremacy, he formed `a party
+by himself,' and wrought out his theory of the independent jurisdiction
+of `the two governments' [^Par.~ xvii. 61-69; compare the condemnation
+of both parties in ^Par.~ vi. 97-108].  The present passage shows that
+in this working out Dante found his mind constantly hampered by the
+doctrines of `the school which he had followed' -- they had hardened
+and darkened his intellect.  In view of all this, it is in direct
+defiance of the context to identify `the school' with Philosophy in
+opposition to Theology [this is the view adopted by D,ollinger in his
+Essay on `Dante as a Prophet.'  The meaning of `|scuola~' in the 
+present passage cannot be determined by Virgil's `^mia scuola~' in 
+^Purg.~ xxi. 33.  The ^word~ is the same, but the ^contexts~ are 
+entirely different]. 
+ 
+     |91-102.~  In reply to this reproach of Beatrice, Dante declares 
+that he has no recollection of ever being estranged from her; and 
+she reminds him with a smile that he had drunk of Lethe that very 
+day.  The mere fact that he had forgotten implied the existence 
+in him of something wrong, else Lethe could have had no effect on 
+him.  From this onward, she adds, her words will be as plain as 
+his rude vision can bear. 
+ 
+     |103-114.~  We come now to the final purification of Dante, the
+revival of his memory of past good deeds by a draught of the River
+Euno,e.  The hour is noon -- the sun with greater brightness and slower
+step `holds the meridian circle.'  This hour is chosen because it is
+`the most noble of the whole day, and the most virtuous,' the hour when
+Christ laid down His life upon the Cross, and, according to St.
+Bonaventura, when He ascended to Heaven [^Conv.~ iv. 23; Bonaventura's
+^Meditationes Vitae Christi~, chap. xcvii].  It is part of that
+mystical parallelism of time by means of which Dante brings the various
+elements of his new spiritual life into relation with Christ.  On the
+night of Good Friday he descended to Hell, that he might die unto sin;
+in the early morning of Easter Sunday, `while it was yet dark,' he rose
+into newness of life; and now at the noblest hour of the day he ascends
+with Christ into the eternal world.  [From ^Par.~ i. 43-45 it is
+thought by some that the hour of ascent to the Celestial Paradise was
+sunrise; but a careful attention to the tenses of the verbs, pluperfect
+and imperfect, respectively, will show, as Mr. Tozer points out, that
+two times of the day are named -- ^sunrise~, in order to determine the
+season of the year, and ^mid-day~, to indicate the hour of ascent
+(^English Commentary~, p. 408).]  The draught of Euno,e is the final
+preparation for this ascension.  The Seven Virtues in front suddenly
+stopped `at the end of a pale shadow' such as the Alps cast upon their
+streams as they flow under green foliage and dark boughs.  The paleness
+of the shadow seems meant as a contrast to the gloom of Lethe, which 
+ 
+                    flows dark, dark, 
+     Under the shade perpetual, which never 
+     A ray of sun nor moon permits to pass. 
+          [^Purg.~ xxviii. 31-33; xxxiii. 106-114] 
+ 
+Euno,e, representing the memory of good deeds, flows under a pale green
+shadow, the colour perhaps indicative of the hope its waters inspire. 
+Beyond `the seven Ladies' Dante saw what seemed to him the rivers 
+Euphrates and Tigris issuing from one fountain, and parting like 
+unwilling friends.  [Compare Boethius, ^Consolation of Philosophy~, Bk.
+V. Met. i. -- `Tigris and Euphrates from one fountain pour themselves, 
+and quickly with divided waters are dissevered'].  They are in reality 
+Lethe and Euno,e flowing from the one same fountain of the grace and 
+mercy of God.  Their unwillingness to part may indicate the difficulty 
+of disentangling the good and the evil in memory, the tares and the 
+wheat.  When Dante begs Beatrice to say what this water is, she refers 
+him to Matelda for the answer [it is strange that this is the only time
+Matelda is mentioned by name.  See {comm. to ^Purg.~ 28.40-45}]; and
+Matelda being the symbol of the Active Life, the meaning obviously is
+that nothing blots out evil memories, or revives good ones, but good
+deeds.  The idea comes from Aquinas.  `St.  Thomas,' writes Dr.
+Hettinger, `thus explains how meritorious works, which have become dead
+through sin, revive when grace is recovered.  "Works done in charity,"
+he says, "are not blotted out by God, but remain accepted by Him.  The
+obstacle to their merit comes from the human agent, and when this
+obstacle is removed, God on His part grants whatever those works had
+merited."  He again compares the simultaneous remission of sin, and the
+infusion of grace by the act of God to the rising sun, which at one and
+the same time chases away the darkness and illuminates the air.  Thus
+also the same ray of grace which expels sin brings to light former
+merits; and Dante is theologically correct in making the two streams,
+Lethe and Euno,e, spring from the same mysterious source' [^Dante's
+Divina Commedia~, p. 157 (English Translation).  ^Summa~, iii. q.
+lxxxix, a. 5; i-ii. q. cxiii, a. 7].  This is the subject stated from
+the theological side; but from that of psychological experience it
+amounts to this, that if there has been anything good in our past life,
+it is naturally revived by repeating it in the present. 
+ 
+     |121-135.~  Matelda replies, as if in self-defence, that she had 
+aleady explained all this, and her explanation was not one of the 
+evil memories Lethe could have washed away.  Beatrice makes 
+excuse for Dante: `a greater care,' perhaps, had dimmed his 
+memory.  The greater care is the sorrow into which her own 
+accusation had plunged him, and the long meditation on Church and 
+Empire.  These had for the moment obscured the teaching of the 
+Active Life; but it is an excusable weakness due to the struggle 
+through which he had just passed, and therefore Beatrice, without 
+a word of reproach, asks Matelda to perform her accustomed 
+function by leading him to Euno,e `to revive his fainting 
+virtue.'  Matelda at once obeys, `as a gently soul that maketh no 
+excuse.'  Taking Dante by the hand, she says to Statius, like the 
+gracious lady she is, `Come thou with him.'  It is not easy to 
+understand the place of Statius in the Earthly Paradise.  Since 
+entering it, he has never spoken a word, and it is clear that he 
+occupies a subordinate position.  Her laying hold of Dante, while 
+she merely speaks to Statius, may imply that the latter is still 
+hindered by the effects of the Sloth to which he had given way: 
+the Active Life has not the same hold on him. 
+
+     |136-145.~  And then suddenly the story ends.  The pages ordained
+for this second Cantica are full, and `the curb of art' will not permit
+him to sing even in part of the sweet draught of which he could never
+have enough.  `The curb of art' is the so many Cantos for each Cantica,
+the so many lines for each Canto.  `A poet,' as one says, `loves to bit
+and bridle his fancy, to tame the lovely wild thing, and teach it the 
+man@ege....  Artifice is the safety valve of the surcharged heart' 
+[Maurice Hewlett's ^The Road in Tuscany~, i. 65]. 
+ 
+     I returned from the most holy wave 
+     Re-made even in fashion of new plants 
+     That are renewed with a new foliage, 
+     Pure and disposed to mount up to the stars. 
+ 
+The repetition of the idea of renewal -- `|new~ plants, |renewed~ with 
+|new~ foliage' -- shows that Dante regarded this as his true ^Vita 
+Nuova.~  The figure which he chooses, like all his similes, has a 
+peculiar inner appropriateness.  It brings him into harmony with the 
+life and spirit of the place.  `Here Spring is everlasting' [^Purg.~ 
+xxviii. 143], Matelda had told him, and now he feels its power 
+breaking through the winter of death in which his soul had lain so 
+long.  But even the sinless Garden is not his final rest: the colour of
+the new foliage is a prophetic hope of a still higher Paradise.  It is 
+the colour of the garments and wings of the Angels who guarded the 
+Flowery Valley down below -- 
+ 
+     Green as the little leaflets just now born. 
+                         [^Purg.~ viii. 28-30] 
+ 
+As we have so often seen, the theological virtue of Hope means 
+specifically the inward assurance and expectation of attaining to 
+the final Beatific Vision in which faith is lost in sight -- the 
+direct and immediate knowledge of God without any veil of type 
+and shadow.  It is the `new foliage' of this great Hope which 
+breaks forth upon his soul in buds of the tender green of 
+Spring-time which is its symbol.  It could not appear earlier. 
+Matelda must first cause him to drink of both Lethe and Euno,e. 
+The Active Life of good works must wash away the bitter memory of 
+sin, and revive whatever good the past contained, before Hope had 
+life enough to put forth a bud, or render the soul `pure and 
+disposed to mount up to the stars.'  For the stars are the bright 
+virtues of `the life which is life indeed.'  Each division of the 
+poem ends with the word.  As an accommodation, perhaps, to 
+Dante's weakness, the Seven Virtues had descended in a form 
+appropriate to an Earthly Paradise: 
+ 
+      `Here we are nymphs, and in the Heaven are stars.' 
+ 
+He has now attained a degree of purity which has power to lift him up 
+to that starry clearness of virtue which constitutes the Celestial 
+Paradise, for purity carries the soul up to God as naturally as flame 
+rises in the air.  `From the most holy wave,' therefore, he returns to 
+Beatrice, that by the power of `the ancient flame,' he may mount with
+her among the stars, and on that shining stairway of the New Life reach
+the Presence where all lesser lights of earth and Heaven fade and the 
+promise is fulfilled: `The sun shall be no more thy light by day; 
+neither for brightness shall the moon give light unto thee; but the 
+Lord shall be unto thee an everlasting light, and thy God thy glory' 
+[Isaiah lx. 19]. 
+

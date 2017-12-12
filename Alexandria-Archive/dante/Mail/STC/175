@@ -1,0 +1,127 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id SAA18204
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 18:24:11 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id SAA06064
+	for <Steve.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 18:24:10 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 45878 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67325-1456>; Sat, 9 Jan 1999 18:24:05 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA07897
+	for <Steve.Campbell@dartmouth.edu>; Sat, 9 Jan 1999 18:24:00 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA23503
+	for <Steve.Campbell@dartmouth.edu>; Sat, 9 Jan 1999 18:23:56 -0500 (EST)
+Message-ID: <3697E518.91A48401@princeton.edu>
+Date: 	Sat, 09 Jan 1999 18:24:08 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: two notices
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="------------2A2213BE57A0E97E77BC46A8"
+
+This is a multi-part message in MIME format.
+--------------2A2213BE57A0E97E77BC46A8
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I have worked up a (I think) useful page of info. for users that can go,
+as I suggested last week, in the Dante Functions somewhere.  You may
+think of other things we should tell folks.  These are things I find
+very useful to know and use and which are NOT intuitive.
+
+I'm also sending a short page of "credits."  You may think of people
+I've omitted.
+--------------2A2213BE57A0E97E77BC46A8
+Content-Type: text/plain; charset=us-ascii; name="Disclaim.dos"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="Disclaim.dos"
+
+Steve: revised version of the two disclaimers we need to add somewhere
+(perhaps in the "Dante Functions" area), as well as some other information.  1/8/99  Bob H.
+
+     SOME IMPORTANT INFORMATION ABOUT DDP:
+
+(1) Several of the texts of the early commentaries (Pietro di Dante is a
+particularly significant case in point) not only were not written or
+published with line indications, but fairly often move among the texts of a given
+canto without regard for the order normally followed by later
+commentators.  This practice is the result of the fact that some of these
+commentators were working with other goals in mind than those eventually
+embraced by just about all later commentators.  Thus they may respond to a given
+canto as an occasion for a more essayistic treatment than a modern reader may
+expect.  Users are notified that DDP's editors have on occasion moved
+blocks of text out of the order in which they appeared in the original
+published versions in order to have them correspond to the specific
+texts in Dante's poem which they address, so that they can be searched in
+the most useful way.
+
+(2) Users should also be aware that the purpose of this database is not to
+attempt to answer questions concerning the authoritative texts of the
+commentaries.  As all acknowledge, editorial work, especially on the
+earlier commentaries, is work in progress.  Further, these commentaries were
+edited at different times and by different editors employing different criteria..  
+The DDP has taken existing texts and reproduced them without attempting to
+include the apparatus that often accompanies a modern edition.  Those interested in such
+questions will need to consult the relative edition.
+
+(3) To find information about the editions used in the DDP one may type the following
+inquiry as a search command:
+
+               d[dtyp]
+
+(4) Users may also want to know that they may call up the full text of a given commentator
+by typing in the following as a search command:
+
+               commentator's name[comm]
+
+               e.g., "campi[comm]"
+
+(5) Similarly, to load the text of the entire poem so that it will display, one tercet at a time,
+type:
+
+               p[dtyp]
+
+--------------2A2213BE57A0E97E77BC46A8
+Content-Type: text/plain; charset=us-ascii; name="credits.dos.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="credits.dos.txt"
+
+CREDITS
+
+The welcome screen of the DDP gives notice of the
+organizations that have supported the project, which began in
+1982 and opened in 1988.  The current version, containing the
+text of the poem and 59 commentaries, was put on line in 1999. 
+During most of the life of the DDP Stephen Campbell has served
+as the chief technical adviser to the project and supervised
+data entry and methods of retrieval (1986-1999).  His
+contribution has been essential; we could not have done
+without him.  The first steps toward the realization of the
+project were helped in particular by two people then at
+Dartmouth, Raymond Neff (now at Carnegie Mellon) and Stephen
+Nichols (now at Johns Hopkins).  The first "team" of scholars
+at Dartmouth who designed and helped to implement the first
+version of the database included Kevin Brownlee (now at the
+University of Pennsylvania), Jeffrey Schnapp (now at
+Stanford), and Nancy Vickers (now president of Bryn Mawr). 
+Schnapp in particular made an essential contribution to
+getting DDP off the ground, and it is gratefully acknowledged
+here.  Those who did the lion's share of editing texts were
+Margherita Frankel and Antonia Rossi; they were joined by
+several others.  The organization of the daily life of a
+rather large project fell first to Janet Stephens and then to
+Jonathan Altman {Steve: spelling?}.  To all those named and to
+others whose names can be found in the various descriptions of
+commentaries, as well as to the small army of Dartmouth
+students who typed in commentaries, go the thankful thoughts
+of the project's director.
+
+Robert Hollander
+9 January 1999
+--------------2A2213BE57A0E97E77BC46A8--
+

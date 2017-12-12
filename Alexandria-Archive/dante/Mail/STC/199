@@ -1,0 +1,1538 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id PAA22267
+	for <steve@avalon.dartmouth.edu>; Sat, 20 Feb 1999 15:40:45 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id PAA23712
+	for <Steve.Campbell@Dartmouth.EDU>; Sat, 20 Feb 1999 15:40:45 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 57861 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67833-21219>; Sat, 20 Feb 1999 15:39:47 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id PAA15674
+	for <Steve.Campbell@dartmouth.edu>; Sat, 20 Feb 1999 15:39:41 -0500 (EST)
+Received: from yuma.Princeton.EDU (yuma.Princeton.EDU [128.112.128.14])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id PAA25622
+	for <Steve.Campbell@dartmouth.edu>; Sat, 20 Feb 1999 15:39:40 -0500 (EST)
+Received: (from bobh@localhost)
+	by yuma.Princeton.EDU (8.9.1/8.9.1) id PAA21683
+	for Steve.Campbell@dartmouth.edu; Sat, 20 Feb 1999 15:39:40 -0500 (EST)
+Message-Id: <199902202039.PAA21683@yuma.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sat, 20 Feb 1999 15:39:39 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+
+2/13/99		ERRATA for next load:
+
+LANA		PURG.
+
+14.136-139	fgliuolo		figliuolo
+25.nota		posmodum		postmodum
+
+		PARADISO
+
+ 9.61		quoedam			quaedam
+13.Nota		quoedam {lig.}		quaedam
+20.51		quoeso {lig.}		quaeso
+--.105		proeteriti {lig.}	praeteriti
+29.Nota		proeteritis {lig.}	praeteritis
+33.94-96	loetitia {lig.}		laetitia
+
+GRAZIOLO	INFERNO
+
+Nota		Eccli.  39		Eccli. 39
+		sapienza).		sapienza)}.
+30.1-12		posmodum		postmodum
+
+PIETRO3		INFERNO
+
+Nota		$amp			expunge
+2.16-24	[2]	Gl. rel			Gl. rel.
+2.82-102	Gl. rel			Gl. rel.
+5.28-33		Gl. rel			Gl. rel.
+
+3.70-136	Gl.  rel.		Gl. rel.
+9.38-48		unamimes		unanimes
+
+BENVENUTO	INFERNO
+
+15.110-114	proelatum		praelatum
+29.31-36	magnamimi		magnanimi
+
+		PURG.
+
+ 1.7-9		quoe			quae
+ -.126-129	vM-jr			v#er
+ 2.52-60	vM-jr			v#er
+ -.124-132	vM-jr			v#er
+ 5.115-129	vM-jr			v#er
+ 8.49-52	vM-jr			v#er
+15.1-6		vM-jr			v#er
+--.7-9		vM-jr			v#er
+--.10-15	vM-jr			v#er
+--.25-27	vM-jr			v#er
+--.106-114	vM-jr			v#er
+18.16-18	vM-jr			v#er
+--.22-27	vM-jr			v#er
+19.52-54	vM-jr			v#er
+27.28-30	vM-jr			v#er
+28.97-102	vM-jr			v#er
+30.58-66	vM-jr			v#er
+32.1-9		vM-jr			v#er
+
+		PARADISO
+
+1.124-126	loetis			laetis
+" "   "		proecordia		praecordia
+ 9.13-15	vM-jr			v#er
+11.28-36	vM-jr			v#er
+15.43-48	vM-jr			v#er
+23.121-126	vM-jr			v#er
+--.127-129	loetare			laetare
+24.124-129	vM-jr			v#er
+25.82-87	vM-jr			v#er
+27.91-96	vM-jr			v#er
+
+CASSINESE	PURG.
+
+14.6		aluid			aliud
+
+BUTI		INFERNO
+
+21.88-139	Virigilio		Virgilio
+
+FIORENTINO	PURG.
+
+20.80-81	fglia			figlia
+33.1-3		hoer... {lig.}		haer...
+
+SERRAVALLE	PURG.
+
+9.61-63		Heic			Hic
+31.70-75	siva			sive
+
+		PARADISO
+
+12.16-18	similtudinem		similitudinem
+
+GUINIFORTO	INFERNO
+
+14.49-51	Tiddeo			Tideo
+
+DANIELLO	INFERNO
+
+ 9.78		Aluigi			a Luigi
+
+		PURG.
+
+--.61-63	loetis			laetis
+
+		PARADISO
+
+ 3.101-102	dicato			dedicato
+
+CASTELVETRO	INFERNO
+
+20.115-117	proestigia		praestigia
+
+VENTURI		PARADISO
+
+ 8.97		figiluolo		figliuolo
+
+PORTIRELLI	INFERNO
+
+20.54-57	Virigilio		Virgilio
+33.1-9		tM-jte			t#ete
+--.10-21  [4]	tM-jte			t#ete
+--.22-27	d'M-jtre		d'#etre
+--.55-63	d'M-jtre		d'#etre
+
+		PURG.
+
+9.1-18		Viriglio		Virgilio
+
+		PARADISO
+
+ 1.7-12		cone			come
+
+LOMBARDI	INFERNO
+
+3.36		heic			hic
+
+		PURG.
+
+21.76-77	cone			come
+23.94-96	similtudine		similitudine
+
+TOMMASEO	INFERNO
+
+ 1.1-3		quoerere		quaerere
+ -.79-81	loeta			laeta
+ 2.76-78	oeterna			aeterna
+ " "  "		proeter			praeter
+ -.94-96	proesunt		praesunt
+ 3.25-27	oedes			aedes
+ 5.67-69	coesi			caesi
+10.94-96	Quoe			Quae
+16.82-84	hoec			haec
+21.76-78	Quoe			Quae
+24.25-27	oestimat		aestimat
+26.124-126	proeter			praeter
+--.136-138	oequore			aequore
+29.82-84	oerugo			aerugo
+31.130-132	Hoer...			Haer...
+
+		PURG.
+
+ 2.103-105	Proepetis		Praepetis
+ 8.52-54	Vm-jr			V#er
+10.79-81	tuttomorivano		tutto morivano
+16.100-102	justoe			justae
+"  "   "	coeteris		caeteris
+--.103-105	Proelati		Praelati
+--.112-114	proelatis		praelatis
+
+		PARADISO
+
+ 2.37-39	proebant		praebant
+ 3.7-9		hoer...			haer...
+ 5.100-102	aquoe			aquae
+ 9.82-84	quoedam			quaedam
+11.67-69	hoec			haec
+
+BIANCHI		INFERNO
+
+ 1.103-4	oes			aes
+12.107		proedo			praedo
+22.94		proepositu
+		PARADISO
+
+16.10		Virigilio		Virgilio
+33.143-145	cone			come
+
+ANDREOLI	PARADISO
+
+22 (unparsed)	sphoeruloe		sphaerulae
+26 (unparsed)	proeconium		praeconium
+30 (unparsed)	proefatium		praefatium
+
+CAMPI		INFERNO
+
+ 3.34-36	heic			hic
+26.70-72	aspeter@o		aspetter@o
+
+		PURG.
+
+10.124-126	cosich@e		cosicch@e
+24.130-132	moestus			maestus
+"  "   "	Cotemplando		Contemplando
+
+		PARADISO
+
+ 6.46-48	opinone			opinione
+11.58-60	querra			guerra
+24.28-30	heic			hic
+28.79-81	boca			bocca
+30.109-111	moltr'altri		molt'altri
+
+SCARTAZZINI	INFERNO
+
+2.132		corraggiosa		coraggiosa
+15.72		cosich@e		cosicch@e
+--.90		cosich@e		cosicch@e
+17.44		cosich@e		cosicch@e
+--.68		cosich@e		cosicch@e
+18.136		quoedam			quaedam
+19.1 [2]	Hoer...			Haer...
+20.67		quoedam			quaedam
+--.118		proemissum		praemissum
+23.116		Pharisoei		Pharisaei
+24.105		suoe			suae
+25.30		proestanti		praestanti
+--.78		Quoedam			Quaedam
+"  "  [2]	quoedam			quaedam
+27.41		Coesen.			Caesen.
+--.44		Coesen.			Caesen.
+--.45		Coesen.			Caesen.
+--.50		Coesen.			Caesen.
+--.53  [2]	Coesenae		Caesenae
+"  "		Coesen.			Caesen.
+--.67		Coesenam		Caesenam
+"  "		Coesen.			Caesen.
+--.86		Coesen.			Caesen.
+28.55		Proelatorum		Praelatorum
+"  "		quoelibet		quaelibet
+29.64		Quoesitique		Quaesitique
+"  "		quoesita		quaesita
+
+		PURG.
+
+ 1.9		hoec			haec
+ " "		proetentat		praetentat
+ -.31		Coesari			Caesari
+ " "		coeteri			caeteri
+ " "		coeteris		caeteris
+ " "		Cutone			Catone
+ 2.70		proetendit		praetendit
+ -.79		hoe			hae
+ 3.34		Quoe			Quae
+ -.37		oequa			aequa
+ " "		proeminet		praeminet
+ " "		quoerendus		quaerendus
+ -.112		Coesar			Caesar
+ -.132		hoer...			haer...
+ -.138		hoec			haec
+ 5.14		oequor			aequor
+ -.21		proecavere		praecavere
+ -.37		Soepe			Saepe
+ " "		Proecipites		Praecipites
+ -.64		proeturae		praeturae
+ " "		capessendoe		capessendae
+ -.88		corraggiosissimo	coraggiosissimo
+ -.114		hoec			haec
+ " "		proeter			praeter
+ 6.29		hoec			haec
+ -.93		proecessor		praecessor
+ " "		Coesaris, Coesari	Caesaris, Caesari
+ -.96  [2]	proed...		praed...
+ -.118-119	hoer...			haer...
+ " "   "	quoest.			quaest.
+ " "   "	quoero			quaero
+ " "   "	Proep.			Praep.
+ -6.125		Mijin. (?),		Mijnd.,
+ -.128		hoec			haec
+ " "		proecipiti		praecipiti
+ 7.6		Coesar			Caesar
+ -.8		vitoe			vitae
+ -.29		proedictam		praedictam
+ " "		quoedam			quaedam
+ -.119		oetas			aetas
+ " "		Quoe			Quae
+ 8.13		soeculum		saeculum
+ " "		proesul			praesul
+ -.26		quoesumus		quaesumus
+ 9.1		oestuet			aestuet
+ " "		Proecipitem		Praecipitem
+ " "		Coesar			Caesar
+ " "		Quoe			Quae
+ " "		oethera			aethera
+ " "		oequore			aequore
+ " "		oequora			aequora
+ -.18		proecognos...		praecognos...
+ -.34		Quoe			Quae
+ -.53		proe			prae
+ -.82		quoe			quae
+ -.94		hoec			haec
+ -.117		hoe			hae
+ " "  [2]	duoe			duae
+ " "		proesupponit		praesupponit
+ " "  [2]	quoedam			quaedam
+10.36		proecludebatur		praecludebatur
+--.75		oestimari		aestimari
+11.32		quoecumque		quaecumque
+--.37		quoedam			quaedam
+--.95		proesto			praesto
+--.107		proeteriit		praeteriit
+--.134		proecipue		praecipue
+12.26		proelatus		praelatus
+--.34		Proep.			Praep.
+--.37		moestis			maestis
+--.43		hoec			haec
+--.44		hoer...			haer...
+--.58		proesidium		praesidium
+--.81		proesepibus		praesepibus
+--.108		oequora			aequora
+"  "		Proeterit		Praeterit
+13.9		quoe			quae
+--.84		Voe			Vae
+--.109		proecipitaturam		praecipitaturam
+"  "		proedixerat		praedixerat
+--.154		Mijn.			Mijnd.
+14.31		hoec			haec
+--.32		hoec			haec
+--.46		soepe			saepe
+--.98		Proefecti		Praefecti
+--.121		Coesen.			Caesen.
+--.134		Quoerentesque		Quaerentesque
+--.150		quoerentes		quaerentes
+"  "		Quoe			Quae
+15.2		sphoera			sphaera
+--.38		quoerit			quaerit
+--.53		quoerite		quaerite
+"  "		Quoe			Quae
+--.55		hoer...			haer...
+--.81		proestare		praestare
+--.106		hoec			haec
+--.114		Judoeis			Judaeis
+--.141		hoec			haec
+16.24		Voe			Vae
+--.46		soepe			saepe
+--.71		coetera			caetera
+"  "		ceteroe			ceterae
+--.78		proedicere		praedicere
+--.99		Proesentes		Praesentes
+--.108		oeternae		aeternae
+--.129		oequale			aequale
+--.131		hoer...			haer...
+17.13-14	quoe			quae
+--.19		Groec.			Graec.
+--.35		hoec			haec
+"  "		quoe			quae
+--.56		proecibus		praecibus
+--.69		hoec			haec
+"  "		proeeat			praeeat
+"  "		proeter			praeter
+--.95  [2]	quoedam			quaedam
+--.106 [2]	oestimant		aestimant
+"  "		proeter			praeter
+--.110		hoec			haec
+--.115		proesumptio		praesumptio
+--.118		oestimatur		aestimatur
+--.134		hoec			haec
+18.18		proestet		praestet
+--.100		Loeta			Laeta
+19.4		loetitia		laetitia
+--.7		proeparata		praeparata
+--.50		quoelibet		quaelibet
+--.64		hoec			haec
+"  "		soepius			saepius
+"  "		Proeter			Praeter
+"  "		Proeterea		Praeterea
+--.67		corraggioso		coraggioso
+--.120		oerugo			aerugo
+20.11		Proecipue		Praecipue
+"  "		proedicta		praedicta
+--.23		proesepio		praesepio
+--.69		soepe			saepe
+"  "		Proedicatorum		Praedicatorum
+--.92 [2]	hoer...			haer...
+"  "		proesumentes		praesumentes
+"  "		Coeterum		Caeterum
+--.117		proecipue		praecipue
+21.4		quoerendum		quaerendum
+"  "		Quoerite		Quaerite
+--.7		quoererent		quaererent
+--.10		oetas			aetas
+--.30		oenigmate		aenigmate
+--.33		quoe			quae
+22.14		quoestio		quaestio
+"  "		quoedam			quaedam
+--.70		soeculorum		sae
+--.98		proef.			praef.
+--.103		proedicavit		praedicavit
+--.106		Timoeus			Timaeus
+--.147		proepositum		praepositum
+--.148		Soecula			Saecula
+--.149		hoer...			haer...
+--.150		oetas			aetas
+23.67		quoeque			quaeque
+--.72		hoec			haec
+--.108 [2]	proe			prae
+"  "		ripodotta		riprodotta
+24.30		soepius			saepius
+"  "		proeceptoribus		praeceptoribus
+--.37		duoe			duae
+--.49		proesentem		praesentem
+--.129		oerumnas		aerumnas
+--.138		oeris			aeris
+--.150		hoec			haec
+25.20		bosogno			bisogno
+--.37		proeparatus		praeparatus
+--.45		quoe			quae
+--.50		quoedam			quaedam
+--.52		quoedam			quaedam
+--.51		proeparatam		praeparatam
+--.53		proeexistit		praeexistit
+--.61-78	Proeexistenz		Praeexistenz
+--.69-70	loetabitur		laetabitur
+--.75		Quoe			Quae
+--.77		Quoe			Quae
+--.80		Quoe			Quae
+--.83		hoec			haec
+"  "		Quoedam			Quaedam
+"  "		quoedam			quaedam
+--.88		quoedam			quaedam
+--.121		soeculum		saeculum
+--.128		hoec			haec
+--.131		quoerit			quaerit
+26.36		Quoe			Quae
+"  "		quoedam			quaedam
+--.58		hoec			haec
+"  "		proesto			praesto
+--.77		proedicator Coesaris	praedicator Caesaris
+"  "		proeter			praeter
+--.82		quoerit			quaerit
+27.4		hoec			haec
+"  "		Quoestio		Quaestio
+--.8		quoelibet		quaelibet
+--.58		hoer...			haer...
+--.76		hoec			haec
+"  "		mistoeque		mistaeque
+"  "		heic			hic
+--.77		coetera			caetera
+--.94-108	Istoe			Istae
+"  "  "		duoe			duae
+"  "  "		vitoe			vitae
+"  "  " [2]	quoe			quae
+--.101		quoeritur		quaeritur
+"  "		quoe			quae
+--.108		hoec			haec
+"  "		quoeque			quaeque
+--.109		quoe			quae
+--.115		adhoer...		adhaer...
+"  "		loetitiaque		laetitiaque
+"  "		proe			prae
+--.140-141 [2]	proeveni...		praeveni...
+28.50		hoec			haec
+"  "		moesto			maesto
+--.93		proevaric...		praevaric...
+--.102		proeservandum		praeservandum
+"  "		quoedam			quaedam
+--.136		proecipuum		praecipuum
+--.148		bosogna			bisogna
+"  "	[2]	quoe			quae
+29.9		oequis			aequis
+--.24		oequaliter		aequaliter
+"  "		proevaric...		praevaric...
+--.27		proesentiam		praesentiam
+"  "		quoedam			quaedam
+--.47		hoec			haec
+"  "		coeterorum		caeterorum
+--.75--.88-105	hoec			haec
+"  "  "  [2]	duoe			duae
+--.95		proeteritum		praeteritum
+--.106-120	proecipitium		praecipitium
+"  "   "	proepositi		praepositi
+--.116		Coesar			Caesar
+--.123		hoec			haec
+--.132		proesentia		praesentia
+"  "		proevide		praevide
+"  "		proeterita		praeterita
+--.142-150	proevalentia		praevalentia
+"  "   "	proesentem		praesentem
+--.149		hoec			haec
+30.16		quoe			quae
+--.17		hoer...			haer...
+--.73		hoec			haec
+--.83-84	loetabor		laetabor
+--.85		oetas			aetas
+--.101		quoedam			quaedam
+--.103		hoec			haec
+--.105		quoedam			quaedam
+--.132		hoec			haec
+"  "		hoe			hae
+"  "		quoedam			quaedam
+--.142		hoec			haec
+"  "		quoeque			quaeque
+31.16-21	hoer...			haer...
+"  "  "		chiarametne		chiaramente
+--.24		proestantius		praestantius
+--.77		coeterique		caeterique
+--.85-87	Quoe			Quae
+--.94		proeterita		praeterita
+--.106		hoe			hae
+--.138		solmente		solamente
+32.38		quoe			quae
+--.42		proecepit		praecepit
+--.43		Coesaris, Coesari	Caesaris, Caesari
+--.47		soecula			saecula
+--.55		loeto			laeto
+--.69		quoeque			quaeque
+"  "		iegere			legere
+--.105		hoec			haec
+--.118-123 [2]	Hoer...			Haer...
+"   "   "	Istoe			Istae
+--.121 [4]	Hoer...			Haer...
+--.155		proedicta		praedicta
+--.160		proedecessorem		praedecessorem
+"  "		quoevis			quaevis
+33.1		proesentis		praesentis
+--.36		hoer...			haer...
+--.41		hoer...			haer...
+"  "		proesentis		praesentis
+--.49		proecipitat@a		praecipitata
+--.70		Quoecumque		Quaecumque
+--.79-102	proebet			praebet
+--.89 [3]	meoe			meae
+
+		PARADISO
+
+ 1.3		proesentialiter		praesentialiter
+ -.6		oerei			aerei
+ " "		proeparavit		praeparavit
+ -.7		quoe			quae
+ " "		reproesentatur		repraesentatur
+ -.16		proeponendum		praeponendum
+ -.13-36	proenuntians		praenuntians
+ -.16		hoec			haec
+ -.34		soepe			saepe
+ -.36		Mijn.			Mijnd.
+ -.68		proecordia		praecordia
+ " "		proeda			praeda
+ " "		Quoe			Quae
+ -.77		proeter			praeter
+ " "		quoelibet		quaelibet
+ -.78		oequabiliter		aequabiliter
+ " "		sphoeram		sphaeram
+ -.104		quoedam			quaedam
+ " "		Quoecumque		Quaecumque
+ -.106-107	reproesentet		repraesentet
+ -.109		hoec			haec
+ " "   [2]	Quoedam			Quaedam
+ -.110-111	hoec			haec
+ " "   "	Quoelibet		Quaelibet
+ -.120   [4]	quoedam			quaedam
+ -.127-128	proeter			praeter
+ 2.11		proestitisti		praestitisti
+ -.15		proeterierit		praeterierit
+ -.32		oere			aere
+ -.35-36	Quoedam			Quaedam
+ -.43		oenigmate		aenigmate
+ -.44  [2]	proedicat...		praedicat...
+ " "		quoedam			quaedam
+ -.67		oequin...		aequin...
+ " "		hoec			haec
+ -.102		oenis			aenis
+ -.107-108	Mijn.			Mijnd.
+ -.120		Quoerit			Quaerit
+ -.130		Quoe			Quae
+ -.136		proetur			praeter
+ " "		sphoera			sphaera
+ -.140		hoec			haec
+ -.148		similtudine		similitudine
+ 3.8		hoer...			haer...
+ -.17		Hoer...			Haer...
+ -.26		proe			prae
+ " "		quoerite		quaerite
+ " "		quoe			quae
+ -.67-87	Coeterum		Caeterum
+ " "  "		proemiorum		praemiorum
+ -.76		quoedam			quaedam
+ " "		divinoe			divinae
+ -.93		quoerere		quaerere
+ -.97		proecellunt		praecellunt
+ " "		proesentis		praesentis
+ -.98		proecipue		praecipue
+ " "		ceteroe			ceterae
+ " "		soeculi			saeculi
+ -.101-102	quoedam			quaedam
+ 4.40		quoedam			quaedam
+ -.41-42	proeexigit		praeexigit
+ " "  "		Quoe			Quae
+ " "  "		quoedam			quaedam
+ -.43-45	proedicationem		praedicationem
+ " "  "  [2]	quoedam			quaedam
+ -.48		proestat		praestat
+ -.63		proetulissent		praetulissent
+ -.67		oestimarent		aestimarent
+ " "		hoer...			haer...
+ " "		quoerere		quaerere
+ " "		proeminet		praeminet
+ " "		Quoe			Quae
+ -.85		proevaric...		praevaric...
+ " "		coactoe			coactae
+ 5.12		quoelibet		quaelibet
+ -.19		Hoe			Hae
+ -.34		Proelatus		Praelatus
+ " "		proelati		praelati
+ " "		proelato		praelato
+ -.52		magior			maggior
+ -.68		Quoedam			Quaedam
+ -.100-139	corraggio		coraggio
+ 6.12		proefationibus		praefationibus
+ " "		Proelect.		Praelect.
+ " "		vacuatoe		vacuatae
+ -.14 [2]	hoer...			haer...
+ " "		proefatae		praefatae
+ " "		proesule		praesule
+ -.20		proeteritis		praeteritis
+ -.33		Coesari			Caesari
+ -.34 [2]	coeter...		coeter...
+ " "		quoeras			quaeras
+ " "		proestitere		praestitere
+ " "		proeter			praeter
+ -.58		oequoreas		aequoreas
+ -.78		soevitiam proe		saevitiam prae
+ -.80		proesentialiter		praesentialiter
+ " "		inhoerentem		inhaerentem
+ -.81		Coesaris		Caesaris
+ -.86		Coesar			Caesar
+ -.115 [3]	quoerit			quaerit
+ -.117		quoeritis		quaeritis
+ 7.27		proeceptum		praeceptum
+ -.33		quoe			quae
+ -.47		Judoei			Judaei
+ " "		Judoeorum		Judaeorum
+ -.52-120	oequalis		aequalis
+ " "  "		proedicta		praedicta
+ " "  "		proeorinatione		praeordinatione
+ " "  "		proenuntiatam		praenuntiatam
+ " "  "		proefiguratam		praefiguratam
+ " "  "		coeterarum		caeterarum
+ " "  "		quoerimus		quaerimus
+ " "  " [2]	proescienti...		praescienti...
+ " "  "		proeter			praeter
+ -.65		quoe			quae
+ -.97		oequiparantiam		aequiparantiam
+ " "		proesumptio		praesumptio
+ " "		proevaricatione		praevaricatione
+ -.103-104	proevenit		praevenit
+ " "   "	himinis			hominis
+ " "   "	proeminebat		praeminebat
+ " "   "	proeminebat		praeminebat
+ -.120		oequalem		aequalem
+ -.139-141	Quoe			Quae
+ -.142	[3]	proesuppo...		praesuppo...
+ -.145-146	hoer...			haer...
+ " "   "	antecipatamente		anticipatamente
+ " "   "	proeservare		praeservare
+ " "   "	quoedam			quaedam
+ 8.9		hoec			haec
+ " "		Hoer...			Haer...
+ " "		proevertere		praevertere
+ -.10		Quoe			Quae
+ -.22-23	proevertere		praevertere
+ -.58 [2]	oestu			aestu
+ " "		oequoris		aequoris
+ -.100-102	proecipue		praecipue
+ " "   "	proexistat		praeexistat
+ " "   "	suOE naturOE		suae naturae
+ _.103-104	infallible		infallibile
+ -.111		loetus			laetus
+ -.130		coeteris		caeteris
+ 9.4		hoec			haec
+ " "		proedicti		praedicti
+ -.34		proeteritorum		praeteritorum
+ " "  [2]	duoe			duae
+ -.34-35	proeteritorum		praeteritorum
+ -.42		proeeminet		praeeminet
+ -.45		proevaricationem	praevaricationem
+ -.49		oequor			aequor
+ -.52-53	Proesentavit		Praesentavit
+ -.61		duoe			duae
+ " "		proe			prae
+ " "		proevidere		praevidere
+ -.98		proevertere		praevertere
+ -.108		loetantur		laetantur
+ -.116		oequentur		aequentur
+ -.134		proevalentia		praevalentia
+ " "		quoerebant		quaerebant
+10.1		hoec			haec
+"  "		proepositio		praepositio
+--.11-12	Loetabitur		Laetabitur
+--.51		hoec			haec
+"  "		proesentia		praesentia
+--.64		Quoedam			Quaedam
+--.78		quoe			quae
+--.98		Proedicatorum		Praedicatorum
+--.131		proeparatione		praeparatione
+--.136		proecellentissimus	praecellentissimus
+"  "		Quoestiones		Quaestiones
+--.138		quoerimus		quaerimus
+11.1-12		quoerere		quaerere
+"  " "		proestante		praestante
+"  " "		quoeque			quaeque
+--.2		bosogni			bisogni
+--.7		soecularibus		saecularibus
+--.10		hoec			haec
+--.37		proedicare		praedicare
+--.43-117	oegrotans		aegrotans
+"  "  " [2]	proedica...		praedica...
+"  "  "		proeter			praeter
+--.50		soeculi			saeculi
+--.55		similtudine		similitudine
+--.58	[2]	proedica...		praedica...
+"  "		quoero			quaero
+--.68-69	Hoec Coesar		Haec Caesar
+"  "  "		proedam			praedam
+--.70		oetas			aetas
+--.85-86	hoec			haec
+"  "  "		hoer...			haer...
+"  "  "		Proecipio		Praecipio
+"  "  "		proedicent		praedicent
+"  "  "		soeculo			saeculo
+--.94-95	proedicatione		praedicatione
+"  "  "		proesertim		praesertim
+--.99		proefectus		praefectus
+--.107		peidi			piedi
+--.108 [2]	hoer...			haer...
+"  "		loetabatur		lae
+"  "		soepe			saepe
+--.113		Proecipio		Praecipio
+"  "		proecipio		praecipio
+"  "		proedicationis		praedicationis
+--.118-139	proedicabunt		praedicabunt
+"  "   "	proeloquutores		praeloquutores
+"  "   "	proeponentes		praeponentes
+--.124-125	proecedunt		praecedunt
+"  "   "	proedicatores		praedicatores
+--.126		Dictoeae		Dictaeae
+12.15		hoer...			haer...
+--.16-17	hoec			haec
+"  "  "		aquoe			aquae
+--.40		soeculum soeculi	saeculum saeculi
+--.41		proeceptum		praeceptum
+"  "		proecedentes		praecedentes
+--.46-105	hoer...			haer...
+"  "  "		Proedicatorum		Praedicatorum		
+"  "  "		proeferentem		praeferentem
+"  "  "		proestitit		praestitit
+"  "  "		Quoe			Quae
+--.69		proedicatur		praedicatur
+--.73		proecipio		praecipio
+--.75		proeceptum		praeceptum
+"  "		Proedicatorum		Praedicatorum
+--.94		hoer...			haer...
+--.100		proestare		praestare
+--.106-126	proedonibus		praedonibus
+"  "   "	quoedam			quaedam
+--.109		loeta			laeta
+--.118-120	soeculi			saeculi
+--.127		proeclaris		praeclaris
+--.133		proecipuus		praecipuus
+--.14"  "   "	quoe			quae
+13.7		Coetera			Caetera
+--.18		hoec			haec
+--.23		proeparavit		praeparavit
+--.25		loetumque		laetumque
+--.50-51	hoec			haec
+"  "  "		coeteras		caeteras
+"  "  "		quoecumque		quaecumque
+--.52-54 [2]	proeter			praeter
+"  "  "		reproesentativum	repraesentativum
+--.92		proe			prae
+--.120		proecurrere		praecurrere
+--.125		Quoe			Quae
+--.141		oequi			aequi
+14.13-15	oequalis		aequalis
+"  "  "		Proeterea		Praeterea
+--.16-17	quoedam			quaedam
+--.51  [2]	proesen...		praesen...
+"  "		quoesivisset		quaesivisset
+--.58-60	hoec			haec
+"  "  "		proeter			praeter
+--.93		quoerendi		quaerendi
+15.13		proeceps		praeceps
+--.54		Quoe			Quae
+--.30		proeter			praeter
+--.89		proestat		praestat
+--.108		Quoe			Quae
+16.1-9	[2]	proedicantur		praedicantur
+"  " "		Quoe			Quae
+"  " "		quoedam			quaedam
+--.10		hoec			haec
+--.28-33	quoeque			quaeque
+--.34-39	Mijind.			Mijnd.
+--.82		oestu			aestu
+--.83-84	proeter			praeter
+--.87		oetas			aetas
+"  "		proeterea		praeterea
+17.27		proevisa		praevisa
+"  "		loedere			laedere
+17.31-45	hoec			haec
+"  "  "		proedicta		praedicta
+"  "  "		proesens		praesens
+"  "  "		quoedam			quaedam
+--.37-39	proesens		praesens
+--.40		Hoec			Haec
+"  "		proenoscit		praenoscit
+"  "		proescientia		praescientia
+"  "		proesentium		praesentium
+"  "		quoedam			quaedam
+--.46-51	quoerenda		quaerenda
+--.84		proeconium		praeconium
+--.118		proeceptorem		praeceptorem
+"  "		proeferendam		praeferendam
+"  "		Pharisoei		Pharisaei
+"  "		proeter			praeter
+"  "		proesens		praesens
+"  "		proemissis		praemissis
+--.134		Soepius			Saepius
+18.75		loetantia		laetantia
+--.82		proedicta		praedicta
+19.2		quoedam			quaedam
+--.22-23	proevenitur		praevenitur
+--.22-33	Proet			Praeter
+--.54		quoedam			quaedam
+--.71		proedicante		praedicante
+--.98		hoec			haec
+"  "		proecessit		praecessit
+"  "		proeced.		praeced.
+"  "		Heic			Hic
+"  "		reproesentabant		repraesentabant
+--.99		hoec			haec
+"  "		Quoest.			Quaest.
+"  "		quoerere		quaerere
+"  "		quoerant		quaerant
+--.100-114	adhoer...		adhaer...
+--.108		quoeretur		quaeretur
+"  "		proeparavit		praeparavit
+--.109		proedicatione		praedicatione
+--.132		proedixit		praedixit
+"  "		inloetabilis		inlaetabilis
+"  "		Celoeno			Celaeno
+--.140		proedictos		praedictos
+20.1-15		proeparavit		praeparavit
+--.51		quoeso			quaeso
+--.59 [2]	proecogitatus		praecogitatus
+--.68-69	oequi			aequi
+--.71-72	hoec			haec
+--.75		proeter			praeter
+--.85-129	proeordinatione		praeordinatione
+"  "  "		proesuppositionem	praesuppositionem
+"  "  "		quoedam			quaedam
+--.91-92	quoedam			quaedam
+--.106		proesentem		praesentem
+"  "		proevidebantur		praevidebantur
+"  "		proesentem		praesentem
+--.127		proevenitur		praevenitur
+--.130-149 [2]	Proedestinatio		Praedestinatio
+"  "   "	proeordinatio		praeordinatio
+"  "   "	proedestinatis		praedestinatis
+"  "   "  [2]	quoedam			quaedam
+21.68		proefertur		praefertur
+"  "		proesenti		praesenti
+--.72		hoe			hae
+--.73		proedestinavit		praedestinavit
+--.84		hoec			haec
+--.103-126	oedem			aedem
+"  "   "	hoer...			haer...
+"  "   "	proeclaris		praeclaris
+"  "   "	proecipuum		praecipuum
+"  "   "	Petroe			Petrae
+"  "   "	Proesidis		Praesidis
+"  "   "	proeficitur		praeficitur
+"  "   "	Proescritio		Praescritio
+"  "   "	quoeque			quaeque
+--.111		oequivoce		aequivoce
+--.127-142	Proelatis		Praelatis
+"  "   "	quoeritur		quaeritur
+"  "   "	proepositi		praepositi
+--.127		quoestum		quaestum
+"  "		quoeritur		quaeritur
+22.16		proecedenti		praecedenti
+--.22-51	hoec			haec
+"  "  "		proediceret		praediceret
+"  "  "		proebentibus		praebentibus
+"  "  "		proeceptis		praeceptis
+"  "  "		proedixit		praedixit
+"  "  "		proemonuit		praemonuit
+"  "  "		proetiosissimo		praetiosissimo
+"  "  "		proemittit		praemittit
+--.37-38	proedicatione		praedicatione
+--.43-45	proedicatione		praedicatione
+--.49		loeto			laeto
+--.77		proedam			praedam
+"  "		proevaricationis	praevaricationis
+"  "		proesidem		praesidem
+--.82-84	Quoe			Quae
+--.121		proeferenda		praeferenda
+--.130		loetitia		laetitia
+--.137-138	hoec			haec
+"  "   "	Quoe			Quae
+--.144		hoec			haec
+23.1		oedes			aedes
+--.2		proesentibus		praesentibus
+--.29		Quoe			Quae
+--.64-66	oequam			aequam
+--.67-69	Coeterum		Caeterum
+--.102		Quoe			Quae
+--.121-139	loetare			laetare
+--.128 [2]	loetare			laetare
+--.132		hoec			haec
+24.47-48  [2]	quoestionem		quaestionem
+--.52-78	quoedam			quaedam
+--.88-96	proedicabunt		praedicabunt
+--.109		proedicationis		praedicationis
+--.115-147	hoec			haec
+--.125-126	proecucurrit		praecucurrit
+--.133		quoecunque		quaecunque
+25.32  [2]	proerogativam		praerogativam
+--.64-69	proecedentibus		praecedentibus
+--.67 [2]	proeceden...		praeceden...
+"  "		quoedam			quaedam
+--.70-81	proecedit		praecedit
+--.74		proecedit		praecedit
+--.82-89	quoedam			quaedam
+--.94-96	hoec			haec
+--.118-135	hoec			haec
+"  "   "	proecedat		praecedat
+"  "   "	quoedam			quaedam
+--.126		proedestinavit		praedestinavit
+"  "		proefinitionis		praefinitionis
+"  "		soecularia		saecularia
+--.135		oequora			aequora
+--.136		sopresa			sorpresa
+26.17-18	quoeratur		quaeratur
+--.26		quoestionis		quaestionis
+"  "		Quoe			Quae
+--.33		quoeque			quaeque
+--.53		proedicator		praedicator
+--.60		proeparavit		praeparavit
+--.114		proesumptionis		praesumptionis
+--.115-117	proecepto		praecepto
+"  "   "	proesupposita		praesupposita
+--.127-129	proeter			praeter
+--.134		proeceptum		praeceptum
+"  "		Proep.			Praep.
+--.137		oetas			aetas
+"  "		Quoe			Quae
+27.2		soecula soeculorum	saecula saeculorum
+--.23		hoer...			haer...
+--.41		proecepto		praecepto
+"  "		proefuisset		praefuisset
+"  "		proescrip.		praescrip.
+--.44		proeceps		praeceps
+"  "		proedicaret		praedicaret
+"  "		proefuit		praefuit
+"  "		proeterea		praeterea
+--.55		hoec			haec
+--.69-72	oestas			aestas
+"  "  "		proeterit		praeterit
+28.37		Quoe			Quae
+--.45		quoelibet		quaelibet
+"  "		proeter			praeter
+--.79		oequora			aequora
+--.80		proecipiti		praecipiti
+--.82		Soepe			Saepe
+--.133		proesunt		praesunt
+"  "		quoedam			quaedam
+29.10-45	proecipue		praecipue
+"  "  "		coeterique		caeterique
+"  "  "	[2]	proesiden...		praesiden...
+"  "  "		quoedam			quaedam
+--.19  [3]	proeced...		praeced...
+"  "		quoeritur		quaeritur
+"  "		proesentis		praesentis
+"  "		proeterirent		praeterirent
+"  "		Quoe			Quae
+--.37		soecula			saecula
+--.49-50	proestitisset		praestitisset
+--.58		quoedam			quaedam
+--.111-112	proeter			praeter
+--.142-143	reproesentantur		repraesentantur
+30.46-81	loetificat		laetificat
+--.51		proe			prae
+--.123		oequaliter		aequaliter
+"  "		proedicta		praedicta
+--.131-132	proedestinatorum	praedestinatorum
+31.1		oetate			aetate
+"  "		Hoec			Haec
+"  "		proe coeteris		prae caeteris
+"  "		Loetare			Laetare
+"  "		proesentamus		praesentamus
+"  "		reproesentat		repraesentat
+--.7		oestate			aestate
+"  "		quoerit			quaerit
+"  "		reproesentat		repraesentat
+--.48		loetus			laetus
+--.59		proesumitur		praesumitur
+--.61		Loetus			Laetus
+"  "		quoedam			quaedam
+"  "		moestitia		maestitia
+--.71-72 [2]	proedication...		praedication...
+"  "  "		Proelatis		Praelatis
+--.102		soepius			saepius
+"  "		proeclara		praeclara
+"  "		proefecit		praefecit
+"  "		proeterea		praeterea
+--.111		Hoe			Hae
+32.10-11	proe			prae
+"  "  "		proeter			praeter
+--.32 [2]	proedicans		praedicans
+"  "		suoe			suae
+--.53 [3]	oequaliter		aequaliter
+"  "		oequalem		aequalem
+--.54		oestus			aestus
+--.66		oeterno			aeterno
+--.83		proeparatoria		praeparatoria
+"  "		proefigurativa		praefigurativa
+"  "		proeparatoria		praeparatoria
+--.84		proevaricatio		praevaricatio
+"  "		quoest.			quaest.
+--.140		Similtudine		Similitudine
+--.148		proesidium		praesidium
+"  "		proetermisso		praetermisso
+"  "		Timoeo			Timaeo
+33.3		oeterno			aeterno
+"  "		hoer...			haer...
+--.4-5		soecula			saecula
+--.27		quoereretur		quaereretur
+--.66		Quoecumque		Quaecumque
+"  "		Cymoeam			Cymaeam
+--.91-93	Quoe			Quae
+"  "  "		proeexistunt		praeexistunt
+--.101		quoeritur		quaeritur
+"  "		quoedam			quaedam
+--.124		proedices		praedices
+"  "		Quoe			Quae
+--.126		hoec			haec
+"  "		soepius			saepius
+--.145		quoeratur		quaeratur
+"  "		soecula	soeculorum 	saecula saeculorum
+"  "		quoeratur		quaeratur
+
+ROSSETTI	INFERNO
+
+12.106-108	proedo			praedo
+34.94-99	Virigilio		Virgilio
+"  "  "		Qeusta			Questa
+
+SIENA		INFERNO
+
+ 7.20		uomani			uomini
+14.68		Tiddeo			Tideo
+18.51		heic			hic
+21.78		Qeust'			Quest'
+31.13		M-jstre			#estre
+--.144-145	Qeusta			Questa
+33.55-58	Heic			Hic
+--.61-63	heic			hic
+--.66		heic			hic
+34.7		Poea			Poeta
+
+LONGFELLOW	PURG.
+
+20.68		famoust			famous
+
+BERTHIER	INFERNO
+
+3.112-117	similtudine		similitudine
+4.130-132	Quoest.			Quaest.
+17.127-132	similtudine		similitudine
+18.51		heic			hic
+--.55-57	Heic			Hic
+24.106-108	Dictionnary		Dictionary
+31.136-141	heic			hic
+
+COSTA		PURG.
+
+9.7		descende		discende
+
+POLETTO		INFERNO
+
+ 1.3		quoedam			quaedam
+ -.13		quoeritur		quaeritur
+ -.118-123	hoec			haec
+ 2.127-129	quoedam			quaedam
+ 3.100-105	quoe			quae
+ 4.106-111	quoe			quae
+ 5.16-20	quoe			quae
+ -.28-30	quoe			quae
+ -.55-57	quoestum		quaestum
+ -.58-60	Hoe			Hae
+ " "  "		quoe			quae
+ " "  "		Proecepit		Praecepit
+ -.121-123	proegustata		praegustata
+ 6.28-33	hoec			haec
+ 7.46-48	proecipue		praecipue
+ " "  "		runt			sunt
+ " "  "		quoe			quae
+ -.61-63	Ottiino			Ottimo
+ -.82-84	quoe			quae
+ -.121-124	aquoe {lig.}		aquae
+ 8.1-6		proedictorum		praedictorum
+ " " "		proesumptuositate	praesumptuositate
+ " " "		proeferre		praeferre
+ -.43-45	quoe			quae
+ -.49-51	hoec			haec
+ -.61-63	quoe			quae
+ -.124-126	proevalebunt		praevalebunt
+ 9.76-81	quoe			quae
+ -.127-131	quoe			quae
+10.37-39 [2]	quoe			quae
+--.91-93	hoec			haec
+"  "  "		proecipiti		praecipiti
+"  "  "		quoe			quae
+--.118-120	quoe			quae
+11.4-9		proebuerint		praebuerint
+--.97-111	quoe			quae
+12.4-15		proecipitium		praecipitium
+--.49-51	quoedam			quaedam
+--.52-54 [2]	quoe			quae
+--.121-123	hoec			haec
+13.13-15	oedissima		foedissima
+--.64-69	Coesar			Caesar
+--.118-123	proecipitavit		praecipitavit
+"  "   "	quoedicitur		quae dicitur
+--.151		quoedam			quaedam
+"  "		hornines		homines
+14.13-15	quoe			quae
+"  "  "		Judoeorum		Judaeorum
+"  "  "		siper			super
+--.31-36	oestus			aestus
+"  "  "		I, 16			I, 14
+--.52-60	proesumendo		praesumendo
+"  "  "		Proesumpsit		Praesumpsit
+"  "  "		quoe			quae
+--.61-66	proecipitetur		praecipitetur
+--.94-96	quoe			quae
+--.124-129	quoe			quae
+--.133-135	quoerere		quaerere
+"  "   "	Quoe			Quae
+15.61-66	quoero			quaero
+16.34-36	proedicaverunt		praedicaverunt
+17.10-12	quoe			quae
+--.58-60	reproesentant		repraesentant
+--.70-75	soepe			saepe
+--.106-111	quoe			quae
+--.115-117	Coesarem		Caesarem
+18.58-63	soepe			saepe
+--.64-66	hoec			haec
+19.1-6		paiperum		pauperum
+"  " "		adhoer...		adhaer...
+"  " "		siper			super
+"  " "		quoe			quae
+--.37-39	oequum			aequum
+--.55-57	proesunt		praesunt
+"  "  "		quoede			quae de
+--.88-93	proevalebunt		praevalebunt
+"  "  "		siper			super
+--.100-105 [2]	proelatio		praelatio
+--.106-111	terramm			terram
+"  "   "	quoe			quae
+--.115-117	quoe			quae
+--.142-145	proevidentur		praevidentur
+20.1-3		quoelibet		quaelibet
+--.16-18	quoe			quae
+--.28-30	loetabitur		laetabitur
+--.67-69	quoedam			quaedam
+--.82-84	proelibat		praelibat
+--.97-99	Proeceptor		Praeceptor
+"  "  "		amnicis			amicis
+"  "  "		proeferendam		praeferendam
+--.112-114	coesa			caesa
+"  "   "	quoerendi		quaerendi
+"  "   "  [2]	quoe			quae
+21.19-21	quoe			quae
+23.4-9		hoec			haec
+"  " "		Proedam			Praedam
+--.58-60	Voe			Vae
+"  "  "		quoe			quae
+--.118-120	proeponderavit		praeponderavit
+24.34-36	proecingere		praecingere
+--.46-51	Proedicator		Praedicator
+"  "  "		quoe			quae
+"  "  "		proetereuntis		praetereuntis
+--.106-108	quoe			quae
+25.142-144	quoe {lig.}		quae
+--.145-151	hoer...	{lig.}		haer...
+"  "   "  [2]	proesen...		praesen...
+"  "   "  [2]	quoe			quae
+26.7-9		proenuntians		praenuntians
+"  "		proesaga		praesaga
+--.19-24	hoec			haec
+"  "  "  [2]	soepe			saepe
+--.34-42	proecedenti		praecedenti
+--.94-99	oequor			aequor
+"  "  "		quoe			quae
+--.106-111	quoe			quae
+--.112-117	hoec			haec
+"  "   "	Quoest.			Quaest.
+"  "   "	quoe			quae
+--.130-135	oequinotiali		aequinotiali
+"  "   "	Quoe			Quae
+"  "   "	quoe			quae
+"  "   "	proedictae		praedictae
+"  "   "	hoec			haec
+"  "   "	Quoest.			Quaest.
+27.43-45	Romandioloe		Romandiolae
+--.52-54	Coesen.			Caesen.
+"  "  "		Coesena			Caesena
+"  "  "		proeter			praeter
+"  "  "		quoe			quae
+--.85-90	Pharisoeorum		Pharisaeorum
+"  "  "		proeelectae		praeelectae
+"  "  "		Judoei {lig.}		Judaei
+"  "  "		Saraiceni		Saraceni
+"  "  "		quoe			quae
+--.91-93	quoe			quae
+--.94-99	oestuabat		aestuabat
+"  "  "		hoec			haec
+"  "  "		quoest.			quaest.
+"  "  "		Lucoe			Lucae
+--.100-102	Proeneste		Praeneste
+28.7-12		quoe			quae
+--.28-30	hoer...			haer...
+--.34-36	consaguinitas		consanguinitas
+"  "  "		quoe			quae
+--.52-54	Quoest.			Quaest.
+--.55-60	soepius			saepius
+"  "  "		diucebant		ducebant
+"  "  "		parvoe			parvae
+"  "  "		quoe			quae
+--.76-81	proesaga		praesaga
+--.100-102	Coesarem		Caesarem
+--.103-108	proeparatis		praeparatis
+--.139-142	hoec			haec
+"  "   "	quoe			quae
+29.67-69	hoec			haec
+"  "  "		quoe			quae
+"  "  "		proesertim		praesertim
+--.127-129	hoec			haec
+--.130-132	quoedam			quaedam
+30.13-21	moesta			maesta
+--.37-39	hoec			haec
+"  "  "		Quoe			Quae
+--.52-57	oegmitudinis		aegritudinis
+--.70-72	hoec			haec
+"  "  "		quoe			quae
+--.121-123 [2]  oerug...		aerug...
+"  "   "	quoe			quae
+--.133-135	hoec			haec
+"  "   "	proesens		praesens
+--.130-132	quoe			quae
+--.145-148	proesentibus		praesentibus
+31. {nota}	proestantur		praestantur
+31.76-78	hoec			haec
+"  "  "		incurahilis		incurabilis
+"  "  "		proesumpsit		praesumpsit
+"  "  "		quoe			quae
+32.1-6		quoe			quae
+"  " "  [7]	quoedam			quaedam
+--.31-36	Proe			Prae
+--.73-75	Quoest.			Quaest.
+--.118-120	proedictae		praedictae
+--.121-123	coeterorum		caeterorum
+33.88-90	quoe			quae
+--.91-93	oetatem			aetatem
+--.118-120	quoe			quae
+34.103-105	Quoequidem		Quaequidem
+--.112-117	aquoein			aquae in
+"  "   "	Quae {lig.}		Quae
+"  "   "	quoe			quae
+"  "   "	aequatorem {lig.}	aequatorem
+"  "   "	sphoericos		sphaericos
+--.139		quoeratur		quaeratur
+
+		PURG.
+
+ 4.123-126	tromandarono		tramandarono
+10.17-21	hoec			haec
+--.55-57	proesumptio		praesumptio
+--.64-66	proecepta		praecepta
+11.25-30	oeramen			aeramen
+--.31-33	proecipua		praecipua
+--.52-57	proeciperet		praeciperet
+--.94-96	hoec			haec
+"  "  "		proesto			praesto
+--.118-120	proecipue		praecipue
+"  "   "	proesumendo		praesumendo
+12.1-3		oequat			aequat
+--.34-36	coeterarum		caeterarum
+"  "  "		proesumpsit		praesumpsit
+13.28-30	coetero			caetero
+14.85-87	hoec			haec
+15.55-57 [2]	hoer...			haer...
+--.67-75	reproesentantur		repraesentantur
+--.106-108	hoec			haec
+"  "   "	Groec.			Graec.
+16.37-45	meoe			meae
+--.70-72	hoec			haec
+"  "  "		coeterae		caeterae
+--.79-81	hoec			haec
+"  "  "		loeta			laeta
+--.97-99	proefectus		praefectus
+--.106-108	oegrotans		aegrotans
+--.109-111	Coesarisque		Caesarisque
+--.127-129	oequale			aequale
+17.34-36	hoec			haec
+"  "  "		hoer...			haer...
+--.64-69	proeeat			praeeat
+--.115-117	proesunptio		praesumptio
+--.118-120	Proecipuae		Praecipuae
+19.1-9		proenotata		praenotata
+--.22-24	adhoer...		adhaer...
+--.49-51	moestitia		maestitia
+--.100		crf.			cfr.
+--.142-145	hoec			haec
+20.67-69	soepe			saepe
+"  "  "		proeclarus		praeclarus
+"  "  "		Proedicatorum		Praedicatorum
+--.103-105	Sichoeum		Sichaeum
+"  "   "	virurm			virum
+"  "   "	proedictae		praedictae
+"  "   "	deproedaretur		depraedaretur
+--.130-132	duoe			duae
+21.130-132	meoe			meae
+23.43-45	meoe			meae
+--.70-75	hoec			haec
+--.97-102	proesaga		praesaga
+24.61-63	proevaricatur		praevaricatur
+25.46-51	hoec			haec
+--.52-57	hoer...			haer...
+26.19-21	oequinoctiali		aequinoctiali
+"  "  "		oestus			aestus
+--.76-81 	Coesar			Caesar
+"  "  "		Coesarem		Caesarem
+30.67-75	tuttta			tutta
+
+		PARADISO
+
+ 1 {unparsed}	quoeratur		quaeratur
+ "     "	quoedam			quaedam
+ 3.124-130	fM-jro			f#ero
+ " "   "	VM-jr			V#er
+ 4.28-33	oetatis (ligated)	aetatis
+ 6.34-36	omnbius			omnibus
+ -.64-66	vM-jr			v#er
+ -.130-132	FM-jr			F#er
+ 7.25-33	oetatem {lig.}		aetatem
+ -.145-148	FM-jnsi			F#ensi
+ 9.13-15	fM-jrmi			f#ermi
+ " "  "		Vm-jr			V#er
+11.109-114	soeculo			saeculo
+12.22-30	vM-jr			v#er
+13.1-24		tM-jmo			t#emo
+--.97-99	quoerere {lig.}		quaerere
+--.121-123	stromenti		strumenti
+17.106-111	mM-jnte			m#ente
+21.1-3		fM-jssi			f#essi
+"  " "		Sernele			Semele
+--.43-45	Vm-jr			V#er
+24.10-12	fM-jro			f#ero
+--.58-60	fM-jro			f#ero
+25.97-99	fM-jro			f#ero
+26.109-114	fM-ji			f#ei
+27.91-96	Vm-jr			V#er
+
+CARROLL		INFERNO
+
+ 1.32-33	factons			factions
+12.119-120	hiw own kinsma,		his own kinsman,
+
+		PARADISO
+
+6 {unparsed}	Virigin			Virgin
+
+TOZER		INFERNO
+
+5.59-60		Romnan			Roman
+
+		PURG.
+
+33.49-51	Oedmus			Oedipus
+
+TORRACA		INFERNO
+
+2.19-21		Virigilio		Virgilio
+26.58		cone			come
+33.119-120	figiio			figlio
+34.78		guttturali		gutturali
+
+		PURG.
+
+ 4.60		uome			uomo
+16.94-96	quaile			quale
+
+		PARADISO
+
+4.103-105	figiluolo		figliuolo
+
+GRANDGENT	INFERNO
+
+5.Nota		Sitzungsberiche		Sitzungsberichte
+
+PIETROBONO	INFERNO
+
+29.54		vM-jr			v#er
+
+		PARADISO
+
+ 5.104		vM-jr			v#er
+
+MESTICA		INFERNO
+
+ 9.93		Siveda			Si veda
+
+		PURG.
+
+17.10-11	bosogno			bisogno
+
+		PARADISO
+
+12.91-102	incredible		incredibile
+16.73-87	difficle		difficile
+
+CASINI		INFERNO
+
+15.30		quaie			quale
+
+		PURG.
+
+ 6.142		quaii			quali
+ 7.94		magnamino		magnanimo
+
+		PARADISO
+
+ 3.98		momacale		monacale
+17.82		proeconium		praeconium
+
+GRABHER		INFERNO
+
+ 2.101-102	figia			figlia
+
+		PARADISO
+
+31.52-57	fno			fino
+
+TRUCCHI		INFERNO
+
+12.31-45	Virigilio		Virgilio
+14.106-111	quoedam			quaedam
+22.31-33	fnisca			finisca
+29.124-132	fne			fine
+"  "   "	ricchzze		ricchezze
+32.25-30	cme			come
+
+		PURG.
+
+5.24-26		unamine			unanime
+7.124-126	lettarati		letterati
+16.46-51	opinone			opinione
+17.88-90	coeterorum		caeterorum
+
+		PARADISO
+
+ 7.25-33	cme			come
+10.64-69	similtudine		similitudine
+23.25-30	similtudine		similitudine
+
+MOMIGLIANO	PARADISO
+
+20.146-147	cone			come
+
+MATTALIA	INFERNO
+
+20.110-111	Viriglio		Virgilio
+
+		PURG.
+
+25.89-90	vhe			che
+"  "  "		sostan za		sostanza
+
+SAPEGNO		PURG.
+
+13.69		excoecantur		excaecantur
+
+FALLANI		INFERNO
+
+28.88		inivit@o		invit@o
+
+		PARADISO
+
+28.122		coetera			caetera
+
+GIACALONE	INFERNO
+
+13.40-45	similtudine		similitudine
+
+BOSCO		PURG.
+
+32 {Intro.}	tuttte			tutte
+32.142-160	difficle		difficile
+
+PASQUINI	PARADISO
+
+22.85-87	uomimini		uomini
+33.68		uomimini		uomini
+

@@ -1,0 +1,1284 @@
+	|1-3.  S'io avessi~ ecc.  ^Io promerei~, esprimerei, ^el
+suco~, il senso, la sentenza, ^del mio concepto~, della materia
+che or son per descrivere, ^pi@u pienamente~, pi@u perfettamente;
+-- ^s'io avessi~ ecc., s'io avessi parole forti e rigide, quali
+si converrebbero alla descrizione di questo pozzo, sopra il quale
+s'appoggiano tutte le ripe de' cerchj superiori, tendendo tutti i
+gravi al centro della terra.  BENV.  -- ^Chiocce~, roche, rauche,
+d'oscuro suono; -- ^che orrendamente suonassero.~  E. F.  --
+^Tristo buco~, appella il pozzo nel quale era appena entrato; --
+^Sovra 'l qual pontan~, sopra il quale s'appoggiano, si
+sostengonno, ^tutte l'altre rocce~, tutte le altre ripe de'
+cerchj infernali.  LOMB.  -- Se dall'italica lingua mi fossero
+date ^rime aspre~ da scuotere, non altrimenti che frutte acerbe e
+di cattivo sapore; -- ^chiocce~, di rauco e cupo suono da metter
+paura.  -- Vorrebbe adunque il Poeta un linguaggio forte, e ad un
+tempo imitativo, perch@e la sua descrizione fosse piena, e
+spirasse anche col suono quel terribile che dentro egli sente.
+BIANCHI.  -- Varianti.  ^S'io avessi~, i pi@u; -- ^rime aspre~,
+quasi tutti i m.  s., le prime sei ediz., Benv. Witte, e la credo
+autografa; -- ^le spalle aspre~, l'8 (in marg.: ^rime~); -- ^S'io
+avesse~, parecchi, e (I.); -- ^chioccie~, tre; -- ^aspre e
+chiote~, il 37; -- ^ed aspre e~, Crusca, Viviani, Vat. 3199; --
+^si converrieno~, il 30; -- ^si converrebber~, il 34; -- ^Come
+se~, il 39, (I).  (M.); -- ^Sopra~, i pi@u, e Witte; -- ^puntan~,
+tre; -- ^portan~; -- ^l'alte rocce~, tre; -- ^roccie~, il 30;
+^rote~, il 37; -- ^Sopra qual~, 35. 42; -- ^ponta~, il 35; --
+^punta~, il 42; -- ^Sovr' al qual~, le pr. quattro edizioni.
+
+	|4-6.  Io premerei~ ecc.  ^...ma perch@e non l'abbo~,
+ecc.  Ma per non avere il potere alla materia conveniente, non
+senza timore mi azzardo a trattare di essa, essendo incognita.
+BENVENUTO.  -- ^Premere il suco del concetto~, significa
+^esprimerlo; -- abbo~, per ^ho~, l'us@o Dante anche fuori di rima
+(^Inf.~, XV, v. 86), ed altri antichi, e viene dal latino
+^habeo.~  FRAT.  -- ^A dicer~, per ^a dire~, usato anche da altri
+buoni scrittori.  V. il Mastrofini; -- ^Io premerei~ ecc., io
+esprimerei, io ritrarrei meglio il mio concetto; -- ^abbo~, per
+^ho~, dall'antiquato ^abbere~ o ^abere~.  BIANCHI.  -- Varianti.
+^Io prenderei~, 12. 33; -- ^Io premer$ia~, il 32; -- ^del mio~,
+molti de' miei spogli, Benv. Pogg. e l'accetto; -- ^concepto~,
+cinque, (F.).  (I.).  (N.); -- ^Io promerei del mio concepto el
+suco.  Promere~, per ^Manifestare~ @e voce latina, usata del
+Poeta nostro nel ^Par.~, XX, 93: ^Veder non puote, s'altri non la
+prome.~  -- Tanto accenno, non per proporre questa lettera, ma
+per dire che si potrebbe difenderla, posto che ^promerei~ avesse
+letto Benvenuto.  -- ^Pi@u pianamente, ma perch@e noll' abbo~ il
+24; -- ^ma perch@e non l'abbo~, il 37; -- ^non n'abbo~, il 33; --
+^ma perch'io~, 52. 53, le pr. quattro ediz.; -- ^Non sanza tema~,
+27. 52.  (F.).  (M.).  (N.).  Benv.; -- ^Non senza pena~, il 37.
+
+	|7-9.  Ch@e non @e impresa~ ecc.  Ch@e il descrivere il
+fondo dell'universo non @e argomento da trattarsi con leggerezza,
+n@e da assumersi con lingua da bambino.  BENV.  -- ^Da pigliare a
+gabbo~, da prendersi per giuoco, per ischerzo; -- ^Descriver
+fondo~, omette l'articolo ^il~ per cagione del metro; -- per
+^universo~, alcuni intendono il nostro globo, intendimento che
+immiserisce il concetto.  Dante seguit@o il sistema di Tolomeo, e
+nel ^Convito~ disse la ^Terra centro del cielo~ (III, 5).  -- La
+difficolt@a della descrizione @e di trovare parole accomodate a
+ritrarre l'orridezza del luogo, de' personaggi e delle pene.
+LOMB.  -- ^Non @e impresa~ ecc., non @e argomento da prendersi
+per giuoco, per ischerzo, ma @e cosa seria e di grave
+difficolt@a; -- ^Descriver fondo~ ecc., il descrivere il centro
+della sfera mondiale, ci@o @e detto secondo il sistema Tolemaico;
+-- ^N@e da lingua~ ecc., n@e da lingua bambina.  E tale poteva
+dirsi il volgare italiano a quei tempi, prima che Dante lo
+crescesse a quella grandezza e nobilt@a che vediamo nel suo
+Poema.  ^Mamma e babbo~ sono voci puerili, qui poste a far
+contrasto colla gravit@a dell'argomento, e a giustificare quel
+che sopra ha detto il Poeta.  BIANCHI.  -- Pu@o intendersi in due
+modi: ^N@e da lingua da fanciulli~; ovvero: ^N@e da quella specie
+di linguaggio, ch'@e proprio dello stile comico~; <nel quale
+ancora le femminelle comunicano.>  (Epist. a Cane).  FRAT.  --
+Varianti.  ^Non @e impresa~, i pi@u, le prime cinque ediz., Benv.
+W. ecc.; -- ^di pigliare~, quattro; -- ^de pigliare~, (I.); --
+^da cogliere a gabbo~, il 42; -- ^A scriver fondo~, il 5; -- ^Di
+scriver~, quattro, (I.).  (V.); -- ^Discriver~, quattordici,
+(F.).  (M.).  (N.).; -- ^Describer~, Benvenuto; -- ^a tutto
+l'onniverso~, il 52; -- ^N@e a lingua~, dieci, (F.).  (I.).
+Fer.; -- ^mamma e babbo~, tutti i m.  s. meno due, tutte le ant.
+edizioni, W. ecc., lettera accettata anche dal Biagioli e dallo
+Scar.; -- ^mamma o babbo~, 3. 5.  Benv. Cr. Viviani.
+
+	|10-12.  Ma quelle Donne~ ecc.  Anfione successe a Cadmo
+nel regno di Tebe, e con la sua eloquenza ridusse gli uomini
+rozzi e selvaggi a vivere civilmente sotto un sol capo e col
+freno di una religione.  I poeti finsero che Anfione, al suono
+della lira. traesse i sassi a cingere Tebe, come favoleggiarono
+di Orfeo.  I poeti al principio del loro lavoro invocano le Muse.
+Cos@i Virgilio nell'^Eneide~, cos@i Stazio nella ^Tebaide.  --
+S@i che dal fatto~ ecc., sicch@e il discorso non disarmonizzi con
+la materia.  BENV.  -- ^Quelle Donne~, le Muse.  La favola dice
+che Anfione, col suono della sua cetra, fece scendere le pietre
+dal monte Citerone ed ordinarsi da se stesse l'une sull'altre per
+cingere Tebe; -- ^dal fatto il dir~, dalla verit@a delle cose non
+sia diversa la descrizione.  LOMBARDI.  -- ^Ma quelle Donne~ (le
+Muse, cos@i chiamate perc@e signore e dominatrici degli umani
+affetti).  Nel forte impegno opportunamente invoca le Muse, che
+certo non mancherangli di ajuto; -- ^Che ajut@aro~ ecc.  I sassi
+delle favole sono gli uomini selvaggi e duri, mansuefatti e
+condotti alla vita sociale per la forza della parola e per
+l'incanto delle arti gentili; -- ^S@i che dal fatto~ ecc.,
+sicch@e le mie parole sieno pari al subbietto.  BIANCHI.  --
+Varianti.  ^Il mio verso~, quattro, (F.).  (M.).  (N.).  (V.); --
+^ajutin al mio verso~, il 24; -- ^il mio~, i pi@u; -- ^el mio~,
+il 43; -- ^Ch'ajutarono~, tre; -- ^Ch'ait@aro~, 24. 43; --
+^Ch'ajutorno~, il 38; -- ^Ch'ajut@ar~, il 42; -- ^~, cinque,
+(I.).  (M.); -- ^Amphione~, parecchi; -- ^S@i che 'l fatto dal
+dir~, 24. 28; -- ^del fatto al dir~, il 3; -- ^dal fatto al dir~,
+otto, Benv. Ferranti.
+
+	|13-15.  Oh!  sopra tutte~ ecc.  Oh traditori,
+infaustamente nati, sepolti nel lago gelato dell'Inferno, del
+qual lago @e duro il ragionare, meglio per voi sarebbe stato il
+nascere pecore o capre, ch@e non sareste ora in questo eterno
+supplizio!  Cos@i disse G. C.  di Giuda che lo trad@i: <Meglio
+che non fosse mai nato!>  BENV.  -- ^Oh sovra tutte~ ecc.
+Apostrofe all'ombre de' traditori, ciurma la pi@u sciagurata tra
+l'altre anime dannate; -- ^onde~ vale ^di cui~, in tal senso
+usato ancora dal Petrarca (^Son.~ I): ^Di quei sospiri ond'io
+nudriva il core; -- duro~, malagevole; -- ^Me~', apocope, per
+^Meglio; -- Me' foste state~, ellissi e sintesi ad un tempo:
+ellissi, il cui pieno sarebbe: ^Me' sarebbe che foste state~;
+sintesi poi, pel numero plurale invece del singolare richiesto da
+^mal creata plebe; -- qui~, intendi ^nel mondo nostro~, in prima
+vita; -- ^zebe~, per ^capre~, vedilo usato anche da altri buoni
+scrittori nel Voc.  LOMB.  -- Curiosa @e l'etimolog$ia che di
+^zeba~ ci offre il Postill. del cod. Cass.: <^Zeba~, idest
+^capra, sic dicta a zebello, zebellas, quod idem est quam salto,
+saltas~>.  Rimane a sapersi in qual Glossario trovasse registrato
+questo verbo ^zebellare.~  -- Quest'apostrofe c'intuona la dura
+condizione, e sopra d'ogni altra spaventosa, di queste anime, a
+descrivere la quale mancano mezzi alla lingua.  BIANCHI.  --
+Varianti.  ^O sovra tutti~, il 2, e Pad. 1859; -- ^O sopra
+tutti~, tre; -- ^malcriate~, il 15; -- ^O sovra tutte~, (F.).
+(I.).  (N.); -- ^Che stai in luogo~, 4. 33.  (M.); -- ^ove
+parlare~, tre, (F.).  (N.).  Nid.; -- ^onde 'l parlare~, 11. 38.
+(V.); -- ^ove 'l parlare~, il 12; -- ^Che sta' nel luogo~,
+quattro (V.); -- ^unde 'l parlare~, il 39; -- ^unde parlare~, il
+41, (F.); -- ^nel loco onde 'l parlare~, parecchi, W.; -- ^nel
+loco ove parlar~, Benvenuto; -- ^Mei foste~, sedici, (F.).  (M.).
+(V.).  Nidobeatina; -- ^Mei fusse stato~, 7.  42; -- ^Mei fussi
+state~, il 31; -- ^Mei sareste state~, il 37; -- ^Mei fuste~, il
+39; -- ^Meglio foste~, il 43; -- ^Meio fossi stati~, Benvenuto;
+-- ^e zebe~, 9. 10; -- ^o pecore o cebe~, (I.).
+
+	|16-18.  Come noi fummo gi@u~ ecc.  ^...nel pozzo scuro~,
+il pi@u bujo d'ogni altro luogo infernale, ed ivi calati assai
+pi@u bassi che non erano i piedi di Anteo, ed io aveva ancora gli
+occhi rivolti all'alto muro del pozzo.  BENV.  -- ^Come~, vale
+^mentre; -- Sotto i pi@e~ ecc., in suolo assai pi@u basso di
+quello in cui teneva i piedi il gigante; -- ^alto muro~, d'onde
+erano stati da Anteo deposti.  LOMB.  -- Ecco giunto il Poeta
+all'ultimo cerchio infernale, in cui sono puniti i traditori.
+Questo cerchio ha due miglia di diametro, e quindi una
+circonferenza di sei miglia e due settimi, nel cui centro apresi
+un altro vano pure circolare, verso il quale si va abbassando il
+fondo che lo circonda.  Quattro specie di tradimenti vi sono
+puniti, e quindi il fondo @e diviso in quattro spartimenti
+concentrici, il primo de' quali chiama ^Caina~, da Caino,
+uccisore del fratello; il secondo ^Anten@ora~, da Antenore
+Trojano, traditore della patria; il terzo ^Tolomea~, da Tolomeo,
+re di Egitto, traditore di Pompeo Magno; il quarto ^Giudecca~, da
+Giuda, traditore del suo divino Maestro.  BIAGIOLI.  -- ^Ed io
+teneva gli occhi~ ecc.  Il volgersi a rimirare un passo
+pericoloso, da cui siamo usciti felicemente, @e cosa ben
+naturale.  BIANCHI.  -- Vedi ^Inf.~, I, verso 22 e segg.  --
+^Pozzo scuro.~  Qui mons. Cavedoni not@o: ^Aperuit puteum abyssi,
+et ascendit fumus putei sicut fumus fornacis magnae~ (~Apoc.~,
+IX, 2).  ^Opusc.  Rel.~ ecc., X, facc. 188.  -- Varianti.  ^Como
+noi~, il 5; -- ^Quando noi~, 12. 38; -- ^noi fumo gi@u~, (F.).
+(M.).  (N.); -- ^oscuro~, nove, ant. Est. (M.).  (V.).  Nid.
+Fer.; -- ^obscuro~, il 24, (F.).  (I.).  (N.); -- ^de' giganti~,
+sei; -- ^Sotto pie~', sette, (F.).  (M.).  (N.).  (V.); -- ^Sotto
+il pi@e~, il 33 e il 39; -- ^Sotto i piei de' giganti~, il 35; --
+^Sotto i pi@e~, il 38, (I.); -- ^Sotto el pi@e~, il 42; -- ^Ed i'
+mira~', il 41; -- ^Io riguardava ancor nell'alto~, il 42; -- ^Ed
+io guardava ancora~, (F. B.).  Pad. 1859 col Z., lettera, del
+Vaticano 3199, e dell'Aldina; -- ^intorno il muro~, il Zani col
+Bargigi, dicendo che in tutta la ^Divina Commedia~ non trovasi
+^mirare~ col terzo caso.  Nel VII del ^Paradiso~, se non altrove,
+ricorre: ^A questo segno -- Molto s@i mira~, sicch@e
+l'osservazione non mi par giusta; -- ^all'altro muro~, quattro;
+-- ^ancora intorno al muro~, 39. 43.
+
+	|19-21.  Dicere udi'mi~: ecc.  Dante qui finge di udire
+una voce che gli dica: Guarda di camminare con riguardo, per non
+calpestare le teste de' tuoi concittadini qui miseramente
+dannati.  BENV.  -- ^De' fratei~, o per essere que' dannati
+individui della specie umana, o per essere l'ombra parlante uno
+de' fratelli Alberti, i quali erano i pi@u vicini ai piedi di
+Dante.  LOMB.  -- A questo ultimo parere s'accostarono il
+Biagioli ed il Bianchi.  -- ^Dicere~, per ^dire.  -- Guarda~
+ecc., l'ombra parla al solo Dante, per essersi accorta che,
+avendo corpo e peso, co' piedi poteva percuotere le teste di que'
+dannati, dice il Lomb.  -- Ma il Biagioli pretende che l'ombra
+desse a Dante questo avvertimento, affinch@e, distratto com'era
+in quel punto, non movesse il passo inconsideratamente, calcando
+le teste di quegli sciagurati.  -- Il Bianchi trova ammissibili
+entrambe le conghietture.  -- Varianti.  ^Dicere udimmi~, la
+Crusca e seguaci, lettera biasimata dal Zani, che legge invece
+^Dicere udimmo~, con l'Ang. e con due Parigini.  <Il partito
+sarebbe accettabile (disse il Parenti) quando non vi fosse altra
+via di emendamento.  Gli antichi nostri, nimicissimi dell'iato
+all'occorrenza di simili affissi, non proferivano ^andaimi,
+partiimi, rendeimi~, ma sopprimevano l'ultima vocale del verbo,
+dicendo ^anda'mi, parti'mi, rende'mi.~  I copiatori trovando
+scritte siffatte voci senza alcun segno ortografico, scrissero
+qui ^udimmi~ per ^udiimi~, confondendo la prima persona con la
+terza, e fu sorgente di mille equivoci.  Leggasi adunque nel
+verso in questione: ^Dicere udi'mi~, e sar@a tolto ogni
+equivoco.>  (^Eserc. fil.~, n+o~ 13, facc. 91-94), lettera che ho
+accettata.  -- Niuna delle antiche edizioni si dipart@i dalla
+lettera ^ud@imi~, e le moderne non avrebbero scritto ^udimmo~ se
+avessero accolto il suggerimento del Dionigi; -- ^Dicere audivi~,
+buona variante del 3; -- ^Ud@imi dire~, il 7; -- ^Dicere ud@imo~,
+quattro; -- ^Dicere udivi~, il 42, Fer.; -- ^ud@imo~, le prime
+quattro ediz.; -- ^como passi~, (I.); -- ^Va s@i~,
+quarantaquattro almeno de' m. s., le prime sei ediz., Benv. Berl.
+But. Bart. Pad.  1859 e Scarab. con altri testi autorevoli, e
+l'ho preferita al ^Fa s@i~ della Crusca e seguaci; -- ^che tu non
+cerchi~, il 7; -- ^non tocchi~, 8. 10; -- ^colle piante~, il 53;
+-- ^di fratei~, 5. 53.  (M.); -- ^frategli~, il 6; -- ^miseri e
+bassi~, il 37; ^miseri i lassi~, tre.
+
+	|22-24.  Per ch'io mi volsi~, ecc.  Per le quali parole
+rivolsi la faccia, e mi vidi dinanzi e sotto i piedi un lago
+agghiacciato in tal forma da parere un vetro.  BENV.  -- ^Che per
+gelo~, sono queste (come apparir@a nell'ultimo Canto) le acque di
+Cocito congelate dal freddo, prodotto da Lucifero con lo
+sventolare delle sue grandi ali.  Come Lucifero gel@o il cuore
+de' traditori, cacciandone la carit@a, cos@i il gelo eterno @e
+pena condegna ai loro delitti.  LOMB.  -- Il Biagioli pensa che
+costoro sieno puniti nel ghiaccio, a ricodar loro quel gelo
+dell'anima indivisibile dalla premeditazione di s@i orribili
+delitti, ricordanza che addoppia in loro il dolore della pena.
+-- Il lungo abito del vizio rende finalmente il cuore duro,
+freddo, insensibile affatto anche ai pi@u santi affetti di
+sangue, di patria, d'amicizia, di riconoscenza.  Ed @e questo
+l'ultimo grado ed il profondo dell'iniquit@a.  Sono adunque ben
+puniti nel ghiaccio e nel centro della Terra i traditori dei
+parenti, della patria, degli amici dei benefattori.  BIANCHI.  --
+Varianti.  ^Per ch'io mi mossi~, il 4; -- ^Perch'io~, il 53,
+(F.).  (M.).  (N.); -- ^Per ci@o~, (I.); -- ^Sotto li piedi~, il
+12, (I.); -- ^Sotto piedi~, tre, (V.); -- ^E sotto piedi~,
+quattro, (F.).  (M.).  (N.); -- ~E Sotto i pi@e~, 39. 43; -- ^un
+luogo~, il 14; -- ^un laco~, tre; -- ^che di gielo~, il 21 (in m.
+al. ^per gelo~); -- ^gelo~, i pi@u, W. ecc.; -- ^Di vetro avea~,
+il 40; -- ^di vetro, non~, il 42.
+
+	|25-27.  Non fece~ ecc.  ^La Danoja~, il fiume Danubio,
+che nasce in Germania dalle alpi Sveve, il pi@u grande de' fiumi
+occidentali, e corre verso settentrione entrando in mare; -- ^non
+fece s@i grosso velo~, non fece s@i alto ghiaccio.  Dicelo ^velo~
+per essere diafano, trasparente, o perch@e nasconde il suo corso
+^in Austerich~, ossia la parte d'Alemagna nomata Austria; -- ^N@e
+Tanai~, fiume nell'estremo settentrione, che divide l'Asia
+dall'Europa, e nasce ne'monti Rifei, dove @e oggi Tana,
+freddissima regione frequentata dai mercatanti; -- ^l@a sotto 'l
+freddo celo~, la fredda costellazione sotto tramontana.  BENV.
+-- ^Non fece~, intendi, per freddo che fosse; -- ^al corso suo~
+ecc., alle sue acque s@i forte copertura di ghiaccio; -- ^la
+Danoja~, il Danubio, che si scarica nel mar Nero, detto in latino
+^Danuvius~, che molto si accosta a ^Danoja; -- Ostericchi,
+Ostericch~, ecc., appellasi in tedesco linguaggio, ed anche dagli
+stessi antichi scritori toscani (V., tra gli altri, Gio. Villani,
+Lib. Vi, cap. 29 ed altrove), l'Austria, una delle regioni pi@u
+fredde bagnate dal Danubio; -- ^Tanai~, dal latino ^Tanais~, la
+Tana, o sia il Don, gran fiume che parte l'Europa dall'Asia, --
+^freddo cielo~, sotto il freddo clima Moscovitico.  LOMB.  --
+Negli antichi tempi la Tana, odiernamente Don, divideva l'Europa
+dall'Asia.  BIANCHI.  -- Varianti.  ^Non fe'mai al corso~, il 14;
+-- ^Non fe' al suo corso mai~, alcuni; -- ^Non face~, la Nid.; --
+^Non fece al corso mai~, Pad. 1859; -- ^D'inverno~, i pi@u, (I.).
+W.; -- ^lo Danubio~, il 2; -- ^il Danubio~, il 3; -- ^la
+Danubia~, 24. 27.  Viv.; -- ^Osteric~, i testi pi@u antichi, pi@u
+autorevoli, e il W., e l'ho per lettera originale, siccome
+^Tambernic~ e ^cric~ nelle rime corrispondenti.  -- ^Austericch,
+Tabernicch~ e ^cricch~ legge lo Scarab.  V. la sua Nota.  -- I
+quattrocentisti, nemici de' versi tronchi, preferirono di
+scrivere ^Ostericchi, Tambernicchi, cricchi~, lezioni che, in
+sentenza del Biagioli, rendono [-?] versi ^orribilmente guasti~,
+togliendo l'armon$ia imitativa del ^cric~, che imita lo stridere
+del ghiaccio che si fende, siccome espresse nel ^Paradiso~ il
+suono dell'orologio col ^tin tin sonando.~  Certo @e che
+scrivendo ^cricchi~ si toglie l'armon$ia imitativa, essendo il
+rumore del ghiaccio che si fende sordo, cupo, monosillabo.  -- Il
+Parenti ad ogni modo propugn@o la lettera ^cricchi~, da lui
+veduta in codici del Trecento; dice che il Buti col suo ^cri,
+cri~ mostra di aver presa la voce bisillaba e desinente in
+vocale, ^pi@u confacente all'armon$ia imitativa~ (^Ann. Diz.~),
+lo che non parmi vero.  Considera.  -- Infinita @e la variet@a
+con cui ricorrono, scritte ne' testi in penna, le accennate tre
+voci; e tralascio di trascriverle per non riuscire sazievole.
+Qui basti avvertire che ottimi testi leggono ^Austeric~, voce che
+pi@u s'accosta ad ^Austria.  -- N@e Tanai~, pi@u di trenta de'
+miei spogli, (F.).  (M.).  Nidobeatina, Benvenuto, Witte; -- ^N@e
+Tanay~, parecchi; -- ^N@e a Tanai l@a~, il 15; -- ^N@e Tanays
+l@a~, il 28; -- ^sotto il freddo~, 53. 60.  (M.).
+
+	|28-30.  Com'era quivi~; ecc.  Com'era in quel pozzo, in
+quel lago; -- che se ^Tabernich~, monte altissimo della
+Schiavonia, ^o Pietrapana~, montagna la pi@u alta della Toscana,
+che una volta chiamavasi ^Pietra-piana~, come si ha da Tito
+Livio, vicina a Pietra Santa, non lontana da Lucca e sul confine
+Toscano; -- ^vi fosse su caduto~, intendi su quel ghiaccio; --
+^fatto un cric~, quel piccolo strepito che fa il ghiaccio quando
+minaccia rottura.  Questa @e voce tratta dal suono stesso, come
+^tintinabulo; -- dall'orlo~, dall'estremit@a.  BENVENUTO.  --
+^Pur dall'orlo~, la particella ^pure~ vale qui ^n@e meno.~
+Vedine altri esempj nel Cinonio.  LOMB.  -- Il ch. sig.
+Tagliapietra, citato altrove, dice il ^Tabernicch~ monte ora
+detto ^Taurnech~, la caduta del quale sul lago di ghiaccio da
+Dante fu immaginata, quando sul lago ghiacciato di Zirkniz vedeva
+sovrastare il ^Tambernicch~ quasi a perpendicolo, il quale si
+erge tra le ^Are Postumie~ (ora Adelsberg) ed il lago suddetto.
+-- ^Pietrapana, Petra Apuana~, altro monte altissimo nella
+Garfagnana.  BIANCHI.  -- Varianti.  Nel caos di tante varianti
+ho accettate le lettere ^Tambernic~ e ^cric~, per le ragioni
+toccate nella Nota precedente; e m'astengo dall'accennare la
+farragine delle varianti che offrono i mss. quasi tutte
+spropositate.  Mi basti avvertire ^Pietra piana~, che ricorre in
+quattro de' miei spogli; -- ^Petra piana~, 35. 43; -- ^Pietra
+pana~, 42. 43; -- ^dell'orlo~, il 15; -- ^un cric~, tre, e
+Benvenuto; -- ^Non avrie~, due; -- ^Non averia dall'orlo~, il 41
+di seconda mano.
+
+	|31-33.  E come a gracidar~ ecc.  E come la rana in tempo
+d'estate sporge la testa fuori dell'acqua gracidando notte tempo,
+quando la villana sogna di spigolare.  BENV.  -- ^Quando sogna~
+ecc.  Sognando noi spesso nella notte ci@o che nel giorno
+facciamo, pone Dante giudiziosamente per tale supposizione il
+tempo in cui la villanella sogna di spigolare pel tempo stesso
+dello spigolare, ossia della mietitura del grano, tempo appunto
+in cui molto gracidano le rane.  LOMB.  -- Per questa perifrasi
+circoscrive in nuova forma il tempo della mietitura, e ci
+ammaestra ad un tempo essere i sogni sovente un'apparizione delle
+idee raccolte e collegate nella vigilia.  BIAGIOLI.  -- Var.
+^Cracidar~, il 9; -- ^Ma come~, il 24; -- ^a riguardar~, il 42;
+-- ^a gricidar~, alcuni; -- ^Del muso fuor~, il 9.
+
+	|34-36.  Livide insin~ ecc.  Pallide nel volto erano
+l'ombre dei traditori, essendo in luogo che @e base d'ogni
+dolore, per lo troppo freddo battendo i denti, come la cicogna
+batte il becco.  BENV.  -- ^Dove appar vergogna.~  Tutti gli
+Spositori antichi e moderni, trattine il Volpi ed il Costa, con
+questa perifrasi hanno inteso accennata la faccia, su la quale il
+rossore si manifesta.  -- Il Costa osserv@o che se Dante avesse
+voluto intendere di questo, avrebbe detto ^dove appar~, e non
+^sin l@a dove appar.~  La parte sommersa di quegli spiriti non
+era tutta invisibile, avendo quel ghiaccio la trasparenza del
+vetro; e nel Canto ultimo @e detto al v. 12: ^E trasparean come
+festuca in vetro.~  S'aggiunga che tutte quelle anime tenevano in
+gi@u volta la faccia, sicch@e Dante non avrebbe potuto vederne il
+rossore, n@e riconoscerne i lineamenti.  Tali sono le argute
+considerazioni poste innanzi dal Costa, al fine di concludere che
+devesi intendere ^Livide sino alle parti vergognose.~  Questo
+intendimento mi capacit@o, e l'accettai nel Dante di Patova,
+ediz. della Minerva 1822.  -- Il Bianchi la ricus@o col dire che
+la frase ^infin l@a dove appar vergogna~, significa ^sino alla
+faccia~, ch@e nell'altra parte intesa dal Costa, la ^vergogna non
+appare.~  La limitazione poi ^sino alla faccia~, riguarda, non
+gi@a la lividura, ma l'immersione di quelle anime nel ghiaccio.
+Ci@o posto, egli costruisce e spiega: <Tutte livide dal freddo,
+le ombre dolenti ^erano~, stavano fitte nel ghiaccio sino a
+quella parte dove si mostra vergogna>.  -- E con molta finezza,
+piuttostoch@e il proprio vocabolo ^faccia~, ha usato Dante questa
+perifrasi, perch@e cos@i veniva anche ad accennare il fine della
+giustizia divina, nel lasciar fuori del ghiaccio tutta la testa a
+que' traditori.  Di fatti, sentendo essi vergogna, tengono basso
+il viso per isfuggire quanto possono all'altrui conoscenza.
+BIANCHI.  -- La frase ^Livide s@i~ ecc., pu@o interpretarsi in
+due modi: ^Livide insino al volto, dove per rossore apparische la
+vergogna~; ovvero: ^Livide in sin l@a dove si mostrano le parti
+pudende.~  FRAT.  -- ^Mettendo i denti~ ecc., vale adoperando i
+denti nel fare la musica della cicogna, nel fare cio@e quel suono
+che la cicogna fa, battendo fortemente una parte del becco contro
+l'altra.  Onde Ovidio: ^Ipsa sibi plaudat crepitante ciconia
+rostro~ (^Met.~, VI, 97).  LOMB.  -- Varianti.  ^Lividi s@i fin
+dove~, il 2; -- ^Lividi s@i l@a dove~, quattordici, e le prime
+sei ediz.; -- ^Lividi sin l@a dove~, sei; -- ^Li viddi s@i l@a
+dove par~, quattro; -- ^Io vidi sin dove~, il 3; -- ^Livide~ i
+pi@u; -- ^l@a dove par~, molti; -- ^Li peccator dolenti~, il 3;
+-- ^Eran quivi i dolenti~, il 53; -- ^Di quell'ombre~, 12. 38; --
+^ne la giaccia~, il 52, (I.); -- ^Movendo i denti a modo~, 3. 24;
+-- ^Battendo i denti a guisa~, tre; -- ^in verso~, 9. 10; --
+^gigogna~, l'11; -- ^cogogna~, il 17; -- ^cigogna~ altri, e (F.);
+-- ^Mectendo~, il 52.
+
+	|37-39.  Ognuna in gi@u~ ecc.  Ciascuna teneva la faccia
+volta in gi@u, costume dei traditori di guardare in terra, a vece
+di alzare gli occhi in viso altrui.  Il freddo si procura
+testimonianza dal battere i denti; e la tristezza del cuore ha un
+testimonio ^dagli occhi~, dagli occhi bassi, che accennano un
+cuor tristo.  BENV.  -- ^In gi@u volta la faccia~, per non essere
+conosciuta; onde Bocca degli Abati al Poeta, che cercava del suo
+nome per renderlo famoso, rispose: ^Del contrario ho io brama~,
+verso 94.  Sdegnavano quell'ombre d'essere trovate nel luogo de'
+traditori, lusingandosi ogni traditore di non apparir tale agli
+occhi degli uomini.  -- ^Da bocca~ ecc. Costr.: ^Si procaccia~,
+ottiene, ^tra lor testimonianza, il freddo da bocca~ (^da~ per
+^dalla~), V. Cinonio, ^e il cor tristo dagli occhi~; cio@e a
+dire: Manifestasi il loro freddo dal detto battimento dei denti,
+e la tristezza loro dal gonfiamento e vicino pianto degli occhi,
+di cui vedi appresso.  LOMBARDI.  -- Breve: Il loro battere di
+denti palesa il freddo che li tormenta, ed il loro pianto
+appalesa la loro interna ambascia.  -- Var.  ^Ciascuna~, tre; --
+^Ognuna tenea in gi@u~, sei; -- ^Ogni uomo in gi@u~, il 21; --
+^Ognun tenea~, parecchi; -- ^Ognuno in gi@u tin$ia~, 37. 53,
+(^tenea~); -- ^De la bocca il freddo, e de li occhi~, il 14; --
+^da li occhi il cor~, il 53, (F.).  (N.); -- ^il cor~, quasi
+tutti, le prime quattro edizioni, Benvenuto, Witte; -- ^Da lor
+testimonianza~, il 4; -- ^testimonanza~, il 40.
+
+	|40-42.  Quand'io ebbi~ ecc.  Quando ebbi guardato
+alquanto intorno al pozzo, volsi gli occhi a' miei piedi, perch@e
+la voce moveva da uno spirito, che era sotto i miei piedi; e vidi
+due dannati, s@i stretti tra loro, che avevano i capelli
+frammisti.  Non credere che fossero s@i stretti per affezione, ma
+sibbene per odio bestiale, sendo che si fossero vicendevolmente
+uccisi con mutua ferita.  BENV.  -- ^Pel del capo~, i capelli; --
+^avien insieme misto~, intendi, la faccia dell'uno ristretta alla
+faccia dell'altro, come nel seguente verso si diranno ristretti i
+petti.  LOMB.  -- La Giustizia divina li costringe ad essere
+uniti nell'odio, siccome avrebbero dovuto essere uniti
+nell'amore, e ci@o per addoppiare ad essi il tormento, ecc.
+BIAGIOLI.  -- Varianti.  ^Dattorno alquanto visto~, il 38; --
+^Quando ebbi~, 40. 43.  (F.).  (N.); -- ^Quand'io m'ebbi
+d'intorno~ il 41; -- ^Quando m'ebbi~, il 53; -- ^Volsimi ai
+piedi~, il 28; -- ^e vidi due stretti~, il 33; -- ^Volvimi a'
+piedi, e vidi~, il 37; -- ^Volsi i miei piedi~, 39.  43; --
+^Guardai, e vidi due insiem ristretti~, il 41; -- ^duo
+distretti~, il 42; -- ^avieno insieme~, otto, le pr. quattro
+ediz., Benv. Fer.  W., e la seguito; -- ^Che 'l pel del corpo~,
+tre; -- ^insieme avean misto~, il 42; -- ^av$eno~, il Vaticano
+3199.
+
+	|43-45.  Ditemi voi~, ecc.  ^...che s@i stringete i
+petti~, coperto ed equivoco modo di parlare, ditemi chi siete; ed
+ambidue alzarono la faccia, ch'era gi@a volta al ghiaccio; e
+volti gli occhi a me, ecc.  BENV.  -- ^Pieg@aro i colli~, vuol
+dire che le facce, che tenevano strette una contro dell'altra,
+distaccarono, e piegando il collo, voltaronle entrambi verso
+Dante.  LOMB.  -- ^Pieg@aro i colli~, li piegarono all'indietro,
+staccandosi l'uno dall'altro.  BIANCHI.  -- Varianti.
+^Strignete~, 33. 53; -- ^stringete s@i i petti~, il 42; -- ^Chi
+siete voi, e quei pieg@aro~, venti almeno de' m. s., le prime
+quattro edizioni; -- ^piegarno i colli~, Benvenuto; -- ^chin@aro
+i colli~, il 3; -- ^Ond'io~, il 42; -- ^e qui pieg@aro~, il 43;
+-- ^E poi ch'ebber gli visi~, il 25; -- ^ebboro e' visi~, il 37.
+
+	|46-48.  Li occhi lor~, ecc.  I loro occhi, ch'erano gi@a
+pregni di lagrime, le quali non potevano cadere per venir
+costipate dal gelo, in quell'atto poterono riaprirsi e lasciare
+scorrere il pianto gi@u per le labbra, e veder Dante; poscia il
+freddo ristrinse l'umore lagrimale e richiuse gli occhi a quegli
+spiriti.  Pare che voglia significare che i traditori, sebbene
+talvolta mostrino di voler aprire gli occhi della mente, non
+indugiano punto a rinchiuderli, sicch@e il loro cuore pi@u
+s'indura.  BENV.  -- ^Gocci@ar su per le labbra~, intendi, le
+labbra degli occhi, le palpebre; e per@o segue ^e il gelo strinse
+le lagrime tra essi~, cio@e, tra essi occhi, de' quali le
+palpebre fanno parte.  LOMB.  -- Il Poggiali lo seguit@o,
+avvertendo il lettore di non prendere ^labbra~ per quelle della
+bocca, ch@e sarebbe un'espressione smentita da tutto il contesto.
+-- Il Biagioli spieg@o: ^Goccianti su per le labbra~, e mostr@o
+d'intendere quelle della bocca.  -- Il Bianchi prefer@i
+d'intendere ^gli orli delle palpebre~, sendoch@e il gran freddo
+avrebbe tolto il tempo alle lagrime di scendere su le labbra
+della bocca (e cos@i l'intese anche il Fraticelli).  Avverte che
+alcuni codici leggono ^gi@u per le labbra~, con che
+s'indicherebbero quelle della bocca; ma conclude: che nel
+concetto della prima lezione gli pare esservi pi@u di verit@a e
+di forza; -- ^tra essi~, tra essi occhi.  -- L'edizione di
+Ravenna del 1848 ha ^tra esse~, che si riporterebbe a ^labbra~;
+ma sta bene anche la comune da noi sequita.  BIANCHI.  --
+Varianti.  ^Li occhi che pr$ia pur dentro eran~, il 42; -- ^Li
+occhi~, (F.).  (I.).  (N.); -- ^Gocciar su per la barba~, il 3;
+-- ^Gocci@ar gi@u~, sette de' m. s., Ang.  Benv. (F.).  (N.).
+(V.); -- ^sopra le labra~, il 14; -- ^e il giel li strinse~, il
+15; -- ^Gocciolar su la barba~, il 33; -- ^Gocciarsi per le
+labra~, il 34; -- ^le labbia~, il 41 e il 42; -- ^Goggiar gi@u~
+il 55; -- ^Le lagrime tra esse~, il 53, (F.).  (I.).  (N.).  e
+Fer.; -- ^il gelo strinse.~  Qui ^stringere~ @e applicato al
+^rappigliare~ prodotto dal gelo.  Alcuni moderni intendono le
+palpebre a vece delle labbra; ma troppo @e naturale che al primo
+levare de' bassi visi di que' due sciagurati che il Poeta
+descrive, le prime lagrime cadessero effettivamente ^su per le
+labbra.~  E notisi ancora come l'ufficio del verbo ^gocciare~ e
+della particella ^su~ tornerebbe disacconcio alla postura delle
+due covertine dell'occhio.  PARENTI (^Eserc. fil.~, n+o~ 3, facc.
+73 e seg.); -- ^spranga mai~, con buone autorit@a, lo Scarabelli.
+
+	|49-51.  Con legno legno~ ecc.  Spranga di legno o di
+ferro mai non cinse legno con legno cos@i forte, come per gelo
+erano strette e chiuse le palpebre degli occhi di costoro; il
+perch@e essi si urtarono con le fronti come due becchi furibondi.
+Dante imita Stazio, che detesta i due fratelli tebani, de' quali
+si parler@a pi@u avanti.  E con maggior ragione Dante impreca a
+costoro, che trucidaronsi l'un l'altro, non per un regno, ma per
+pochi sterili sassi.  BENV.  -- ^Spranga~ @e definita nel Vocab.:
+^Legno o ferro che si conficca attraverso per tenere insieme ed
+unite le commessure~, e tra gli esempj pone questo.  -- Il Lomb.
+dice che ^spranga~ qui significa ^fascia di ferro.~ -- Il Bianchi
+dichiara come la Crusca.  -- A me pare che il ^cinse~ favorisca
+l'opinione del Lombardi.  -- Var.  ^Legno con legno mai spranga
+non cinse~, legge il Zani con due Parigini, col Mazz. e con un
+testo veduto dagli Accad.  @E lettera propugnata dal Foscolo, col
+dire: <La distanza di ^mai~ da ^non~ porge locuzione meno
+prosaica, e il verso prolungasi in guisa, che il metro esprime la
+forza e la insistenza della spranga>, e conclude col dirla
+^genuino miglioramento dell'Autore.  -- Ch@e legno legno
+spranga~, l'8; -- ^Legno con legno~, il 31, Fer. Padovana 1859;
+-- ^mai spranga non~, Pad. 1859, W.; -- ^Cum lego legno~, il 57;
+-- ^dui becchi~, 3. 58; -- ^due becchi~, dodici, le prime sei
+edizioni, Benvenuto, Witte; -- ^du' becchi~, il 21; -- ^doi~, il
+43; -- ^duo~, il 15, Crusca, ecc.; -- ^onde come~, cinque; --
+^Forti cos@i~, il 14; -- ^Forse cos@i~, il 42; -- ^Scuzz@aro
+insieme~, il 3; -- ^Corsero insieme, tanto ira li~, l'8; --
+^insieme~, tutti i miei spogli, e le prime quattro edizioni, ecc.
+
+	|52-54.  Ed un che avea~ ecc.  Ed un traditore che per lo
+gran freddo avea perduti ambi gli orecchi; le estremit@a sono le
+prime ad essere mortificate dal freddo; -- ^pur col viso in
+giue~, per non avere alzata la testa come i due fratelli, disse:
+Perch@e tanto ti affisi in noi?  BENVENUTO.  -- ^Ed un~, il
+Camicione de' Pazzi, che si paleser@a al verso 68; -- ^che avea
+perduti~ ecc., al quale il gelo avea disseccate e distrutte le
+cartilagini delle orecchie.  LOMB.  --  ^Pur col viso in giue~,
+continuando a tenere il capo basso; -- ^in noi ti specchi~?
+cio@e ti affissi in noi?  Ma se stava col viso basso, come poteva
+vedere se Dante lo guardava?  Il gelo forse gli fece da specchio.
+BIANCHI e FRATICELLI.  -- Varianti.  ^Perdute ambe le orecchi~,
+tre de' m. s., Nid.; -- ^perduto ambo~, 12. 33.  (I.).  (M.); --
+^ambi~, il 25 ed altri; -- ^ch'av$ia perduto~, il 37; -- ^li
+orecchi~, i pi@u, (F.).  (I.).  (N.); -- ^gli orecchi~, (M.).
+Cr.; -- ^pur col muso~, tre; -- ^e pur col viso~, il Fer.  --
+Tacer non voglio un mio sospetto, ed @e che al verso 53 si abbia
+a leggere invese ^pur col viso in sue~; 1+o~ perch@e il ^pur~
+accenna ad un'azione imitata, reiterata; 2+o~ per non sapermi
+capacitare che in luogo tant'oscuro il ghiaccio potesse
+riflettere le immagini.  Se m'inganno, sia per non detto.
+
+	|55-58.  Se vuoi saper~ ecc.  ^...cotesti due~, erano due
+figli del conte Alberto degli Alberti, l'uno avea nome Napoleone,
+l'altro Alessandro.  Per contese ereditarie vennero alle mani, e
+si uccisero l'un l'altro; -- ^Bisenzo~ @e torrente che nasce ne'
+monti toscani, e scorre presso il bellissimo castello di Prato, e
+si scarica in Arno sei miglia distante da Fiorenza.  La valle
+ch'esso bagna pertenne loro per eredit@a paterna, ed erano
+fratelli uterini; e furono tanto malvagj da non trovarsi nella
+Caina anima pi@u rea di loro, pi@u degna di essere fitta nel
+ghiaccio.  BENV.  -- ^La valle~ ecc., questa valle @e detta
+Falterona; -- ^Alberto~ degli Alberti, nobile Fiorentino; --
+^d'un corpo usc$iro~, tanto dice ad aggravare il loro delitto; e,
+morto il padre loro, tiranneggiarono i paesi circonvicini.  LOMB.
+-- ^La valle~ ecc., @e formata de' contrafforti che nella
+direzione da settentrione ad ostro scendono dall'Appennino di
+Monte-Piano e di Vernio, le quali branche prolungandosi, a destra
+per Monte Giavello fino a Monte Murlo, a sinistra per Monte
+Cuccoli e la Calvana, prendono in mezzo la pianura e la citt@a di
+Prato; e per questo tratto appunto corre il Bisenzio.  -- Questi
+due fratelli erano conti di Mangona.  BIANCHI.  -- Varianti.  ^Se
+vuo' saper~, tre, e le prime cinque edizioni; -- ^chi son coteste
+due~, 41. 52; -- ^chi fur cotesti~, il 60 ed alcuni altri; --
+^perch@e son costor due~, il 7; -- ^La valle unde~, parecchi; --
+^Bisenzo~, sette, le prime cinque ediz., Benv.; -- ^se declina~,
+7. 42; -- ^si declina~, il 14; -- ^onde Bisenzio dichina~, il 60;
+-- ^uscirno~, il 3; -- ^usciron~, parecchi; -- ^isti usc$iro~,
+Benvenuto.
+
+	|59-60.  Potrai cercare~, ecc.  ^...la Caina~, cos@i
+chiama il luogo dove sono puniti i traditori del proprio sangue,
+detto ^Caina~ da Caino, uccisore del suo fratello Abele; -- ^e
+non troverai~ ecc., e non troverai ombra pi@u degna d'essere
+fitta nel ghiaccio.  BENV.  -- ^Gelatina~, brodo viscoso e
+rappreso per uso di vivande, qui scherzosamente trasferito a
+significare il gelato Cocito.  LOMB.  -- Gli Editori della E. B.
+pensarono che Dante non prendesse questo vocabolo dalla cucina,
+sendo che qui la materia non sia da scherzo, e chiosarono: ^In
+gelatina~, cio@e, nell'acqua condensata dal freddo.  -- Il Monti
+l'avvis@o uno scherzo, una beffa, non gi@a uscita dalla bocca di
+Dante, ch@e in luogo s@i terribile, s@i doloroso sarebbe stata
+disconvenevole, ma s@i bene pronunciata dal traditore Camicione
+de' Pazzi (^Prop.~, II, Part. I, facc. 172).  -- Il Bianchi sta
+col Lomb., e risponde agli oppositori: <Il discorso di costoro
+tornerebbe se fosse Dante quello che qui parla; ma egli @e il
+traditore Camicion de' Pazzi; e a lui, loquace e petulante come
+si mostra, non disconviene questa idea faceta e burl vole>.  --
+Varianti.  ^Porrai cercare~, il 9; -- ^trovarai~, (I.), err.; --
+^Pi@u degna~, parecchi de' m. s., Benv.; -- ^d'esser pi@u fitta~,
+il 5; -- ^in geladina~, tre; -- ^pi@u fatta~, il 24; -- ^Digna
+d'esser pi@u fitta~, il 37; -- ^ficta~, il 41; -- ^Degna pi@u~
+ecc., Scarab. con cinque testi autorevoli.
+
+	|61-66.  Non quella a cui~ ecc.  Benvenuto ricorda un
+lungo tratto della Cronaca Britannica di Gualterio inglese, che
+mescola il vero al falso per esaltare la patria sua, e ne
+dimostra i goffi anacronismi, le falsit@a ecc.  -- ^Non quelli~
+ecc.  Intende del perfido Mordrec, figlio di Arturo, re della
+Gran Bretagna, il quale ribellatosi dal padre, e postosi in
+agguato per ucciderlo, fu dal padre prevenuto con un colpo di
+lancia in mezzo il petto, tale (dice la storia), ^che dietro
+l'apertura della lancia pass@o, per mezzo la piaga, un raggio di
+Sole s@i manifestamente che Girfiet lo vide.~  Tanto si legge nel
+Libro intitolato: ^L'illustre e famosa istoria di Lancillotto del
+Lago~, Lib. III, cap. 162, passo al quale allude Dante con una
+delle ^pi@u concise e forti espressioni del nostro Poeta~, in
+sentenza del Lombardi.  -- Il Venturi per ^ombra~ intese l'anima
+di Mordrec.  -- Il Biagioli fece plauso a questa interpretazione,
+dichiarando quella del Lomb. ^favolosa~ e ^ridicola~; e prima di
+lui erasi accostato al Venturi il Portirelli.  L'Anonimo, Pietro
+di Dante, Benvenuto, gli Editori della E. B. e della E. F. stanno
+col Lombardi, e tanto dicasi del Bianchi.  -- Nella Cronaca di
+Gualtiero, citata da Benv., @e detto: <Che il cavallo, nel
+trasportare Arturo, cav@o l'asta dal petto del moribondo
+(Mordrec), e tanto allarg@o la ferita che si dice che il Sole nel
+tramonto trapassasse il corpo co' raggi suoi>.  Siffatte leggende
+erano in voga al tempo di Dante, e decidono in favore del
+Lombardi.  -- Var.  Il Castelvetro legge: ^Non quella~, e
+soggiunge (contro il libro attribuito ad Alessandro degli
+Uberti): <Era cosa tanto manifesta che non faceva mestiere a
+dirlo.>  (^Op. crit.~, facc.  116); -- ^Non quella~, sette de' m.
+s.; -- ^Non quello~, 8. 33; -- ^Non quegli~, 25. 37; -- ^Con un
+sol colpo~, l'ant. Est., il Bart., il Flor.; -- ^Con esso colpo~,
+Benv.; -- ^della man~, il 34; -- ^Sol per un colpo~, il 42; --
+^Non Fucaccia~, 31. 35; -- ^No Cofaccia~, il 40; -- ^non questo~,
+l'8; -- ^cum questi~, il 43 (in m.: al. ^non~); -- ^che
+migombra~, il 18; -- ^m'incombra~, il 41; -- ^con questi che
+m'ingombra.  -- Focaccia~, della nobile famiglia de' Cancellieri
+di Pistoja, con un barbaro omicidio d'un giovinetto della sua
+casa, occasion@o fiera inimicizia tra i membri di essa, e diede
+origine alle fazioni dei Bianchi e dei Neri, che tanto afflissero
+la Toscana ed altre provincie d'Italia.  Dante fu di parte
+Bianca, che gli frutt@o l'esilio, e non volle dimenticare
+Focaccia, che fu prima favilla d'un incendio che non fu spento se
+non con grande sparsione di sangue.  -- Gio. Villani dice che
+questo Focaccia mozz@o una mano ad un suo cugino, e che uccise un
+suo zio (^Cron.~, Lib. VIII, cap. 37 e 38).  -- Pietro di Dante
+dice che Focaccia uccise invece il proprio padre.  -- Il Bianchi
+sta col Villani, che fu pure ricordato dal Venturi, ed @e
+opinione da preferirsi.  -- ^Non questi~ ecc.  Non questi che col
+capo mi sta dinanzi, sicch@e m'impedisce il vedere pi@u oltre.
+BIANCHI.  -- Varianti.  ^Il capo s@i ch'io~, il 28; -- ^Col capo,
+di che io non veggio altro pi@u~, il 33; -- ^Il viso s@i~, il 42;
+-- ^non veggio oltre~, il W.  coi pi@u, con Benv. ecc.; --
+^Sasol~, il 7; -- ^Sassuol~, il 21; -- ^Saxol~, il 29; --
+^Sassel~, il 38; -- ^Sasso~, (I.); -- ^Se tu se' Tosco~, il 42;
+-- ^ben dei saper chi fu~, tre, ant. Est., Viv. Flor.  Pad. 1859;
+-- ^omai chi fu~, quasi tutti i m. s., le prime sei ediz., Fer.;
+-- ^ben sa' omai chi fu~, Nid. Bianchi, W.; -- ^ch'e' fu~, il 14;
+-- ^ben sai oma~', il 26; -- ^ben sai omai chi fu~, Benv., e le
+prime quattro ediz.; -- ^ben dei saper chi fu~, ho preferito di
+leggere con l'antico Estense, coi codici Bart. Flor., con tre de'
+m. s., e con la Padovana 1859, con verso pi@u chiaro, pi@u
+naturale, e che toglie di mezzo affettati smozzicamenti.  -- Il
+Bianchi accenn@o questa lezione, e mostr@o cos@i di trovarla
+degna di considerazione, e il W. la not@o a pi@e di pagina.  --
+^Sassol Mascheroni~ fu della famiglia de' Toschi di Fiorenza, e
+per ottenere l'eredit@a di un suo fratello, ne uccise un unico
+figliuolo.  Fu chiuso in una botte, condotto per tutta la citt@a
+di Fiorenza, e poscia decapitato.  -- ^Se Tosco sei~ ecc., si
+pu@o interpretare in due modi: 1+o~ Se sei Fiorentino devi sapere
+chi fu; 2+o~ Se fu uno della razza de' Toschi, lo devi conoscere.
+BENVENUTO.  -- Il volpi dice che costui fu uccisore d'un suo zio;
+ma l'Anonimo conforta la chiosa di Benvenuto, col dire: <Questi
+(Sassol Mascheroni) essendo tutore d'un suo nipote, per rimanerne
+erede l'uccise; onde a lui fu poi tagliata la testa in Fiorenza>.
+-- Il Bianchi accenna l'una e l'altra sposizione; ma io sto pi@u
+volontieri coi pi@u antichi Spositori che col Volpi.
+
+	|67-69.  E perch@e non mi metti~ ecc.  Uberto Camisone,
+uno della famiglia de' Pazzi di Valdarno, uccise proditoriamente
+un suo parente.  -- ^Sappi ch'io fui Camisc,ion de' Pazzi~, de'
+Pazzi veramente ^re et nomine.~  BENV.  -- Il Landino aggiunge
+che l'ucciso dal Camicione fu Messer Ubertino, suo parente.  --
+^Ed aspetto Carlin~ ecc.  Messer Carlino de' Pazzi, di parte
+Bianca, diede per denaro a tradimento il castello di Piano di
+Trevigne, in mano de' Neri di Firenze, per cui furono presi e
+morti molti de' migliori usciti di Firenze.  Vedi Gio. Villani,
+Lib. VIII, cap. 35.  -- ^Che mi scagioni~, che mi scusi, che mi
+scolpi; perch@e avendo egli delitti tanto pi@u gravi de' miei, in
+confronto di lui apparir@o quasi innocente.  BIANCHI.  Concorda
+pienamente con Benv., il quale afferma avvenuto questo fatto nel
+luglio del 1302; -- ^che mi scagioni.~  In Dante (dice
+l'Ottonelli) mi pare che si voglia intendere nella guisa che
+espone il Comm. vecchio: <Aspetto Carlino, il quale per li suoi
+grandi tradimenti covrir@a s@i la mia infamia, che di me non
+sar@a menzione>.  Nota riferita dal Parenti (^Ann. Diz.~).  --
+Udito questo, i due Poeti si avviano verso il centro, e trovansi
+gi@a nella seconda divisione detta ^Antenora~, in cui sono puniti
+i traditori della patria.  -- Varianti.  ^Non mi metta~, il 42;
+-- ^ch'io fui il~, quasi tutti i m. s., l'ant. Est., Benv. (M.).
+(V.).  W.; -- ^ch'i' fu' il~, Cr. ecc., (F.).  (I.).  (N.); --
+^Camiscion~, ventiquattro de' m. s., (F.).  (M.).  (N.).  (V.).
+Nid., ed @e forse l'originale; -- ^Sappi che fui Camisc,ion~,
+tre, e Benv.; -- ^Camison~, quattro; -- ^Camision~, il 9, (I.);
+-- ^Sappi ch'io sono il~, otto de' m. s. e Nidobeatina; -- ^Sappi
+ch'io sono~ ecc., Scar. con testi autorevoli e col Ronto, che
+tradusse: ^Jam Camisonus ego de Pazzis disce~ ecc.; -- ^Sappie~,
+parecchi, e le prime quattro edizioni; -- ^Sappi che fui~,
+parecchi; -- ^di Pazzi~, il 29; -- ^di Pacci~, il 57, e cos@i le
+rime corrispondenti; -- ^Carlon~, il 33; -- ^Carilin~, il 52; --
+^Ed aspetto~, i pi@u, (F.).  (I.).  (N.).  W.; -- ^E aspetto~, il
+52, (M.).  Cr.; -- ^che mi scasoni~, il 9.
+
+	|70-72.  Poscia vid'io~ ecc.  Poscia vidi molte faccie
+canine, sendoch@e il freddo avesse tolto loro ogni umano
+lineamento.  E sono i traditori peggio di cani che, fedeli al
+padrone, combattono per lui; ma costoro, invece di combattere per
+la patria, la vendettero; -- ^onde mi vien ribrezzo~, mi scorre
+un brivido ogni volta che mi tornano alla mente que' ^gelati
+ghiacci.~  BENV.  -- ^Cagnazzi~, per ^lividi~, aggiunto usato da
+Franco Sacchetti in senso di ^paonazzo, morello~ prodotto su la
+cute nostra dal freddo intenso; -- ^ribrezzo~, per ^orrore,
+spavento.~  LOMB.  -- Il Bianchi dichiara come il Lomb., e sta
+bene; Benvenuto qui non colse nel segno.  -- Varianti.  ^Poscia
+vid'io pi@u di mille~, il 15; -- ^Poi vidi pi@u di mille~, il 33;
+-- ^men vien riprezzo~, il 5; -- ^Fatto per luogo~, il 21; --
+^min ven~, il 35; -- ^unde mi vien~, il 41; -- ^mi ven~, (V.); --
+^Fatti pe 'l luogo~, Fer.; -- ^di gelati~, sei, Benv., che legge
+poi ^ghiacci; -- guacci~, il 57; -- ^ribrezzo~, i pi@u, e in
+senso proprio significa il brivido precursore della febbre.
+BIANCHI.  -- ^Riprezzo~, lo Scar.; -- ^guazzi~, vale stagni
+d'acqua.  LOMBARDI.
+
+	|73-75.  E mentre che andavamo~ ecc.  E mentre
+camminavamo verso il centro, e ch'io tremava in quell'eterno
+freddo, ecc.  BENV.  -- ^Ver lo mezzo~ ecc., intendi il centro
+della Terra, al quale o mediatamente o immediatamente tutti i
+gravi appoggiano: -- ^tremava~, intendi, di freddo; --
+^nell'eterno rezzo~, nell'ombra eterna, ovvero, in quel fondo
+eternamente ai caldi raggi solari nascosto.  LOMB.  -- Varianti.
+^Ver lo mezzo~, il 24; -- ^per lo mezzo~, il 32; -- ^inverso il
+mezzo~, 39. 42; -- ^si raguna~, tre; -- ^raduna~, il 39, e Witte;
+-- ^ogni gramezza~, il 28, ed il Lauren. XL, 7, lettera encomiata
+dallo Scar.; -- ^omni gravezza~, il 35; -- ^Ed io tremando~, il
+3; -- ^orezzo~, 11. 34.
+
+	|76-78.  Se voler fu~, ecc.  E ignoro se fu volere o
+destino o fortuna che questo traditore mi venne in mente; ma
+girando tra le teste di que' traditori, che sporgevano fuori del
+ghiaccio, forte col piede percossi nel volto ad uno di loro.
+BENV.  -- Se speciale volere di Dio, o disgrazia di quello, o
+fortunoso accidente casuale.  VENTURI; chiosa accettata dal
+Biagioli, e prima dal Torelli, e poscia dal Bianchi, che
+dichiara: <O fosse disposizione di Dio, o sciagura sua, o mero
+caso>.  -- Il Lombardi ascrive il ^volere~ a Dio, e il ^destino~
+alla ^disgrazia di quello.~  -- Il Poggiali prese questo ^volere~
+per quella inavvertenza che suole imputarsi di colpevole
+volont@a, quando @e mancante d'ogni possibile e facile diligenza;
+e non mi capacita.  -- Varianti.  ^Se fu volore o destino~, il
+33; -- ^infra le teste~, 33. 42; -- ^per le teste~, (F. B.); --
+^fra le teste~, (I.); -- ^nel volto ad una~, quattro; --
+^percossi i pie~, il 15; -- ^percossi col pi@e~, il 21; --
+^percosse il pi@e~, 34. 39; -- ^nel capo ad una~, Buti; --
+^percusse il pie' nel volto a una~, Benvenuto.
+
+	|79-81.  Piangendo mi grid@o~: ecc.  Per intelligenza qui
+bisogna richiamare alla memoria la sconfitta data dai Senesi ai
+Fiorentini, allorch@e, sotto pretesto di soccorrere Montalcino,
+fecero orribile strage e la massima delle prede; oltre gli uccisi
+vi perdettero i Fiorentini sessantamila bestie, che portavano
+vittuaglie ed altre cose necessarie a munire il castello ed a
+nudrire l'esercito.  La strage accadde vicino a Monte-aperto, per
+opera di Ser Bocca degli Abbati, il quale, accesa la zuffa,
+tagli@o con la propria spada la mano a Jacopo del Nacaca de'
+Pazzi, portatore della bandiera militare de' Fiorentini.  --
+Bocca, piangendo, mi grid@o: Perch@e mi calpesti?  salvo se tu
+non vieni a crescermi infamia per lo tradimento di Monte-aperto,
+dove fu tanta strage de' miei concittadini, che l'acqua d'Albia
+si tinse in rosso.  Se non vieni per questo, perch@e mi molesti?
+BENV.  -- Per tradimento di costui, furono tagliati a pezzi
+quattromila Guelfi fiorentini; e di costui parla Gio. Villani
+(^Stor.~, Lib. VI, cap. 76 e seg.).  V. Canto X, Nota al verso
+52; -- ^a crescer la vendetta~ ecc.  Se tu non vieni a crescere
+il castigo che meritai pel tradimento fatto a Montaperti, quasi
+fosse scarso quello che qui sostengo.  BIANCHI.  -- Varianti.
+^Plangendo mi grid@o~, Benv.; ^mi grid@o~, otto de' m. s., Benv.,
+e l'ho preferita; -- ^Se tu non viene~, il 52; -- ^Montaperto~,
+24. 28; -- ^Montiaperti~, 24. 52.  (F.).  (I.).  (N.); --
+^Monteaperti~, il 32; -- ^Monte aperto ~, il 42; -- ^Montaperti~,
+(M.).
+
+	|82-84.  Ed io: Maestro~ ecc.  Onde io dissi: O mio
+Maestro, per un poco mi aspetta, affinch@e io possa trarmi da un
+dubbio intorno a costui, che si disse reo della strage di
+Montaperti, e poscia, piacendoti, anderemo a maggior fretta.
+BENV.  -- ^D'un dubbio~, quello cio@e, che l'ombra parlante fosse
+quella di Bocca degli Abati.  LOMB.  -- ^Poi mi farai~, ecc.  Per
+queste parole si vede chiaramente quanto fosse il desiderio di
+Dante di parlare a quel traditore per coprirlo d'eterna infamia.
+BIAGIOLI.  -- ^Quantunque~, per ^quanto~ o ^quanta~, accordandosi
+con ^fretta.~  Cos@i nel Canto V, v. 12 di questa Cantica disse
+^quantunque~ per ^quanti~; e il Bocc. ^quantunque volte~ per
+^quante volte.~  -- Nel Voc. di Napoli dicesi ^Quantunque~,
+avverbio, ^indicante congiunzione di contrariet@a.~  In questo
+esempio, dice il Parenti, non si scosta dalla sua naturale
+significanza di ^Quanto mai~ (^Esercitazioni filol.~, I, 71).  --
+Varianti.  ^Ond'io: Maestro~, 12. 38, Benvenuto; -- ^un poco or
+qui m'aspetta~, il 15; -- ^Tanto ch'io esca~, il 15; -- ^S@i
+ch'io esca~, il 52; -- ^quantunqua~, 8.  10; -- ^E poi quanto
+vorrai mi farai~, il 42.
+
+	|85-87.  Lo Duca stette~; ecc.  Virgilio si ferm@o, ed io
+dissi a colui che bestemmiava ancora duramente: Chi sei tu che in
+tal forma vai accusando altrui?  BENVENUTO.  -- ^Bestemmiava~,
+per ^isbottoneggiava.~  LOMB.  -- ^Duramente~ esprime ^con gran
+rabbia e fierezza.~  POGGIALI.  -- ^Rampogni~, aspramente
+riprendi.  LOMB.  -- Varianti.  ^Lo Duca attese ed io~, 12. 15.
+38; -- ^Il duca stette~, il 37; -- ^Che biastemava~, parecchi de'
+miei spogli, (N.), Benvenuto ed altri testi; -- ^fortemente
+ancora; -- Quale se' tu che s@i~, sei, Benv. (F.).  (I.).  (N.);
+-- ^O qual se' tu~, il 39; -- ^che s@i rampogni~, il 39, e (V.);
+-- ^E chi se'tu che s@i~, il 42; -- ^Qual se' tu che cos@i~,
+(M.).  Crusca, ecc.
+
+	|88-90.  Or tu chi se~', ecc.  Bocca sdegnato rimprover@o
+a Dante la temerit@a di camminare senza riguardo per
+^l'Anten@ora~, cos@i detto da Antenore trojano, traditore della
+sua patria.  Egli l'abbandon@o ai nemici, i quali col ferro e col
+fuoco la rovesciarono dalle fondamenta, scannati vecchi, donne,
+fanciulli, tratti gli altri in servaggio, e resa la nazione
+favola de' poeti; -- ^Percotendo~, col piede, intendi, atto
+contumelioso; -- ^se fossi~ tu ancor vivo, sarebbe anche troppo
+ontoso, intollerabile.  BENV.  -- Ditte Cretense (^De bello
+Troj.~, Lib. V), e Darete Frigio (^De excidio Trojae~) affermano
+che Antenore trad@i la sua patria; opinione professata anche
+dallo stesso Tito Livio (^Stor. Rom.~, Lib. I).  Ad Antenore e ad
+Enea fu concesso di partire illesi da Troja, e niun altro Trojano
+ottenne tal grazia, per la quale considerazione gli antichi
+storici pongono anche il ^pio Enea~ nel numero de' traditori
+della patria; -- ^se fossi vivo, troppo fora.~  Bocca credeva
+d'essere stato percosso dall'ombra di un morto, e dal forte
+dolore che ne sent@i, argoment@o quanto sarebbe stato maggiore se
+la percossa fosse stata di un vivo.  LOMB.  -- Varianti.
+^Antinora~, sei, (N.); -- ^Altinora~, il 31; -- ^Atenora~, il 35;
+-- ^Ma tu chi se~', il 15; -- ^O tu chi se~', il 28; -- ^O qual
+se' tu che s@i~, il 43; -- ^che va' per~, il 52; --
+^Perc,uotendo, disse, altrui~, il 43; -- ^Rispuose percuotendo~,
+cinque; -- ^Rispose percotendo~, 30. 52; -- ^Percotendo
+diss'ello~, il 42; -- ^chi se' che va~', (I.); -- ^Percuotendo
+rispuose~, le pr.  quattro edizioni; -- ^se fossi vivo~, pi@u di
+venti de' miei spogli, le pr. quattro ediz., W.; -- ^se vivo
+fosti~, il 42.
+
+	|91-93.  Vivo son io~, ecc.  Io sono ancora in prima
+vita, e ci@o ti puote tornar caro, se brami fama, potendo io
+registrare il tuo nome tra gli altri per me notati.  BENVENUTO.
+-- ^Vivo son io~, ecc.  Sinchisi, e dev'essere la costruzione:
+^Fu mia risposta: vivo son io, e se domandi fama~ (se desideri
+d'essere lass@u rinomato) ^caro essere ti puote ch'io metta tra
+l'altre note~ (tra le altre memorie che quaggi@u ho raccolte) ^il
+tuo nome~ (che ti ho per ci@o richiesto).  LOMB.  -- Var.  ^Se
+addimandi fama~, il 24; -- ^se dimandi~, 35. 53; -- ^tra l'altre
+note~, il 25; -- ^con l'altre note~, il 42; -- ^Ch'io metta il
+nome~, i pi@u, ecc.
+
+	|94-96.  Ed elli a me~: ecc.  Ed egli mi rispose: Bramo
+il contrario, sendo ch@e ogni memoria del tradimento ricada sul
+traditore; -- ^Levati quinci~, e non darmi pi@u molestia; ch@e
+mal sai blandire per questa laguna; ovvero, sei un malo
+persuasore de' traditori, i quali rifuggono dall'essere
+ricordati.  BENV.  -- ^Lagna~, afflizione, molestia; -- ^per
+questa lama, per~ vale quanto ^in.~  Vedi Cinonio; e ^lama~
+significa ^bassura, cavit@a; -- mal sai lusingar~, esibendoti a
+recare di noi fama nel mondo, mentre in questo fondo de'
+traditori bramasi anzi il contrario.  LOMB.  -- ^Tra l'altre
+note~, tra l'altre cose da me notate qua gi@u per farne memoria
+nel mondo de' vivi; -- ^lagna~, propriamente ci@o che d@a cagione
+a lagnarsi; -- ^mal sai lusingar~, usi con noi vane, o piuttosto
+^malaccorte~ e ^poco destre lusinghe~; perciocch@e quelli che
+giacciono in questo fondo non cercano fama, anzi desiderano di
+non essere nominati.  BIANCHI.  -- Var.  ^Del contraro~, il 2,
+Ang.; -- ^aggio brama~, Ang. Z. Pad. 1859, ed altri testi; -- ^Ed
+elli a me~, Benv. (I.).  (M.).  Fer., lettera che seguito; --
+^azo brama~, il 42; -- ^i' ho brama~, il 53; -- ^losingar~,
+parecchi de' miei spogli.
+
+	|97-99.  Allor lo presi~ ecc.  Allora lo presi per li
+capelli della nuca, dicendo: Ti converr@a bene dirmi chi sei, o
+che sul capo non ti rimanga un sol capello.  Cos@i insegna
+doversi forzare i traditori a palesare il tradimento anche con la
+tortura.  BENVENUTO.  -- ^Per la cuticagna~, per li capelli della
+^cuticagna~, parte concava deretana del capo, tra il collo e la
+nuca, luogo dove la stiratura dei capelli reca maggior dolore.
+LOMB.  -- Il Venturi per ^cuticagna~ intese invece ^la suprema
+parte del capo~, e s'ingann@o.  -- Il Bianchi sta col Lombardi,
+aggiugnendo: che tenendosi Bocca a capo chino, era la cuticagna
+quella parte che pi@u comoda presentavasi a Dante.  -- A questo
+verso il Parenti pose una noterella del Tassoni, che dice:
+<^Cuticagna, Cotica, Cotenna~, tutto @e uno, e non vuol dire
+^Collottola.~> (^Ann. Diz.~).  -- Varianti.  ^Coticagna~,
+ventidue de' m. s., l'antico Est., Benv., le prime sei ediz., e
+l'ho segu$ita; -- ^Allora il presi~, sei de' miei spogli, e la
+Nidob.; -- ^Io lo avea preso per la coticagna~, il 33; -- ^E
+dissi: el converr@a~, undici, e le prime quattro ediz.; -- ^el
+conv,ien~, il 15; -- ^E dissi: e' fia mestier~, il 33; -- ^E
+dissi: converr@a~, il 41; -- ^eh converr@a~, il Fer.; -- ^capel
+quass@u~, 3. 25; -- ^capello in su~, 5. 9; -- ^capel cost@i~, il
+26; -- ^O che qui su capel~, 28. 33; -- ^capel su qui~, il 37; --
+^cho s@u~, il 52; -- ^coss@u~, il 53; -- ^co' su~, il 55; --
+^romagna~, il 42.
+
+	|100-102.  Ond'elli a me~: ecc.  E Bocca mi soggiunse:
+Quand'anche mi dipeli interamente, io non ti paleser@o il nome
+mio, anche se mille volte mi percuoterai il capo con le mani e
+co' piedi.  BENV.  -- ^Perch@e tu mi dischiomi~, per cagione di
+strapparmi tu i capelli.  LOMB.  -- ^N@e mostrerolti~, n@e te lo
+lascier@o conoscere con alzare la faccia, se anche mille volte
+co' piedi mi calpesti il capo.  -- Il Bianchi pi@u lucidamente
+spiega: Per dischiomarmi che tu faccia, n@e ti mostrer@o chi io
+mi sia, alzando verso te la faccia, se anche mille volte tu mi
+percuota il capo.  -- ^Tomare~ vale propriamente ^cader gi@u con
+tutta la forza del proprio peso.~  -- Cos@i il Petrarca: ^O tomi
+gi@u nell'amorosa selva.~  Nota del Fraticelli.  -- Varianti.
+^Tu mi discomi~, 9. 10; -- ^Ed elli a me~, tre, Benv.; --
+^Und'elli~, il 41; -- ^Ond'elli~, il 53, (I.).  (M.).  Fer.; --
+^Ond'egli~, (F.).  (N.); -- ^Non ti dir@o~, dodici, accettata dal
+Biagioli (che avvis@o il ^N@e~ un guasto dei copisti) e dal Zani,
+che dicela di 14 Parigini, del Vat. 3199, del Bart., de'testi del
+Landino, dell'Ald. e della Ven. 1564; -- ^Non dir@o ch'io mi sia,
+n@e mostrerolti~, Benv. e quattro de' miei spogli; -- ^ch'i'
+sia~, 34. 41.  (F.).  (I.).  (N.); -- ^Nol tel dir@o ch'io sia~,
+il 35; -- ^N@e ti dir@o~, Crusca, ecc.; -- ^N@e ti dir@o ch'i'
+fui~, il 37.  -- Accetto il ^Non~ per le molte autorit@a che lo
+francheggiano, e per essere in sostanza pi@u logico; -- ^Se mille
+volte~, 4. 5; -- ^fiate sul capo~, quattro; -- ^in su lo capo~,
+il 53.
+
+	|103-105.  Io avea gi@a~ ecc.  Io aveva gi@a divelte
+alcune ciocche di capelli, s@i ch'egli latr@o a modo di cane, ma
+abbassando nondimeno ognora pi@u la testa, per non essere da me
+riconosciuto.  BENV.  -- ^Ciocca~, mucchietto; -- ^Latrando~,
+gridando con canina voce; -- ^lui~, per ^egli~, contro la regola.
+LOMB.  -- Il Bembo rimprover@o a Dante questo ^lui~, ed il
+Biagioli intese giustificarlo col dire che il diretto parlare sia
+questo: ^Mentre io udiva lui latrando~, sottilit@a che non
+capacita.  -- Il Poggiali colse meglio nel segno, col dire
+^latrando lui~ un ablativo assoluto, alla maniera dei Latini.  --
+Il Parenti osserv@o che i pronomi ^lui, lei, loro~ trovansi dai
+nostri classici col gerundio assoluto.  -- Cos@i il Petrarca,
+^Canz.~ XIII: ^Ardendo lei, che come un ghiaccio stassi~; e Gio.
+Villani us@o anche, al dire del lodato filologo Modonese, di
+preporre al gerundio i pronomi suddetti.  V. PARENTI (^Cat.
+Sprop.~ 1842).  -- ^Con gli occhi in gi@u raccolti~, per
+^rifuggiti, nascosti~, come vi teneva anche il volto per non
+lasciarsi conoscere.  LOMB.  -- ^In gi@u raccolti~, sempre bassi.
+BIANCHI.  -- Varianti.  ^Io aveva i capelli in mano~, il 14, e le
+prime quattro ediz.; -- ^Io av$ia gi@a i capegli~, il 37; -- ^i
+capei~, il 42; -- ^in mia man volti~, il 3; -- ^in man ravvolti~,
+il 38; -- ^a mano avvolti~, il 43; -- ^E tratto~, quattro, e
+antico Est.; -- ^E tratti li n'avea~, tre; -- ^ne li avea~, 21.
+43; -- ^li ne avea~, nove, e le pr. quattro ediz.; -- ^d'una
+giocca~, l'11; -- ^gli occhi gi@u~, tre; -- ^in gi@u con gli
+occhi accolti~, il 33; -- ^in gi@u rivolti~, il 39; -- ^con li
+occhi~, (F.).  (I.).  (N.); -- ^cogli occhi~, (M.).
+
+	|106-108.  Quand'un altro grid@o~: ecc.  Quando un altro
+grid@o: Che hai tu, ^Bocca~, nome proprio di colui che non voleva
+lasciarsi riconoscere dal Poeta; -- ^sonar con le mascelle~, per
+lo stridore dei denti cagionato dal freddo; -- ^se tu non latri~,
+a modo di cane; -- ^qual diavol ti tocca~, qual'altra pena ti
+sorgiunge?  BENV.  -- ^Sonar con le mascelle~, risponde al
+^metter i denti in nota di cicogna~ del verso 36, cio@e, sbattere
+i denti pel freddo.  LOMB.  -- Ingegnoso si @e l'artificio di far
+discoprire questo traditore in tal modo, perch@e non l'avrebbe
+potuto altrimenti, senza impegnarsi in una lotta ontosa.
+BIAGIOLI.  -- Varianti.  ^Quando un'altra~, il 12; -- ^che hai
+tu~, parecchi de' m. s., le prime quattro edizioni, Benvenuto,
+W.; -- ^il suonar delle mascelle~, il 17; -- ^per le mascelle~,
+il 18; -- ^il sonar~, 28. 30. 36; -- ^Non ti basta gridar~, 39.
+43.  (in m.: al. ^sonar~); -- ^con le~, (F.).  (I.).  (N.); --
+^colle~, (M.); -- ^Perch@e pur latri~, il 28, e lo Scar. col suo
+Laur.; -- ^Se tu non l'apri~, il 36.
+
+	|109-111.  Omai, diss'io~, ecc.  Udito ch'io n'ebbi il
+nome, dissi a lui: Ora non voglio che tu pi@u parli, malvagio
+traditore, ch@e a tuo marcio dispetto io porter@o tra' vivi vere
+novelle della tua punizione.  BENV.  -- ^Favelle~, antitesi, per
+^favelli; -- alla tua onta~, a tuo marcio dispetto; --
+^porter@o~, intendi, su nel mondo.  LOMB.  -- Varianti.  ^Che
+pi@u favelle~, 8. 42.  (F.).  (I.).  (N.).  Viv. Pad. 1859,
+lettera da cercarsi in altri testi; -- ^Oma', diss'io~, il 24; --
+^Allor diss'io~, il 42; -- ^Malvase~, il 3; -- ^Malvasio~, il 10;
+-- ^alla tua onta~, quattro, (F.).  (M.).  (N.).  Nid. W.; --
+^tu' onta~, (M.).  Cr. ecc.; -- ^colla tua onta~, tre; -- ^con la
+tu' onta~, tre; -- ^ch@e la tua onta~, (V.); -- ^Malfagio~, il
+43, err.; -- ^Io porter@o~, tre, (F.).  (M.).  (N.).  Benv. W.;
+-- ^chiare novelle~, il 42.
+
+	|112-114.  Va via, rispose~, ecc.  Bocca, non potendosi
+pi@u nascondere, si vendica col palesare il nome del traditore
+che lo aveva nominato: Va via, rispose a Dante, e di me racconta
+quanto vuoi di peggio; ma se torni su, non dimenticarti di colui
+ch'ebbe lingua s@i pronta a palesarmi.  BENV.  -- ^Ci@o che tu
+vuoi conta~, quando il malvagio traditore @e scoperto, s'indura
+al pubblico biasimo, e non adonta pi@u.  BIAGIOLI.  -- ^Ma non
+tacer~, ecc.  Volgesi Bocca cos@i a quel ^Solatium miseris socios
+habere poenarum.~  LOMB.  -- Il Biagioli dice che Bocca denunzia
+prima per vendetta colui che lo ha scoperto, poi gli altri,
+sendoch@e l'intensit@a d'un reato diminuisca in ragione del
+maggior numero de' rei che l'hanno commesso; -- ^eschi~, lo
+stesso che ^esca~, due inflessioni lecite del pari nella nostra
+lingua; come ^legghi~ e ^legga, ponghi~ e ^ponga~ ecc.  POGGIALI.
+-- Varianti.  ^Va via, diss'egli~, 5. 42; -- ^diss'elli~, tre; --
+^rispuose~, (F).  (M.).  (N.).  ecc.; -- ^e ci@o che tue puoi
+conta~, il 9; -- ^ci@o che tu vuo', conta~, quattro, e le prime
+quattro ediz.; -- ^che tu vuo' riconta~, il 36; -- ^E non tacer~,
+2. 24; -- ^se tu d'esti luoghi eschi~, il 42; -- ^se di qua entro
+eschi~, il 53, Pad. 1859; -- ^Di quel ch'ebbe or cos@i~, dieci,
+Zani con 11 Parig., coi codici Rosc.  Bruss. Bart. Nid. Ven.
+1564; poi rimosso il punto e virgola alla fine del v. 114, fa
+continuare il senso nel v. 115, leggendo: ^E piange qui~, con ^E~
+congiuntiva, non pronome.  Dicela lezione di 5 Parig., del Mazz.
+e del Landino, accettata dal Foscolo e dal Fer., ^bella
+stringente per fermo del Poeta.~  Tutto ci@o non mi move a
+scostarmi dalla Vulgata; -- ^Di quel ch'ebb' or cos@i~, cinque;
+-- ^Di quel ch'ebbe la lingua cos@i~, 31. 38; -- ^Di quel~, ant.
+Est. (F.).  (M.).  (N.).  Nid.; -- ^Di que~', (I.).  Cr.; -- ^Di
+quei~, il 43, Benv.; -- ^ch'ebbe or~, i pi@u, le pr. quattro
+ediz. e Nid.; -- ^la lingua prompta~, Benv., ma non regge.
+
+	|115-117.  Ei piange qui~ ecc.  Nel tempo in cui Carlo I
+venne in Italia contro Manfredi, Uberto Pallavicino, cognato di
+Manfredi, coi Cremonesi, e con l'ajuto d'altri Lombardi, si
+preparava alla difesa del passaggio con tremila cavalli tedeschi
+e lombardi, affinch@e Guido di Monforte, che capitanava le genti
+di Carlo per terra ed il bagaglio, non potesse passare.  Ma Bosio
+Dovaria, per denaro, tanto si adopr@o, che ottenne libero il
+passo all'esercito di Carlo.  I Cremonesi per ci@o distrussero
+tutte le case dei Dovaria.  -- ^El piange~ ecc.  La moglie di
+Carlo era in compagn$ia di Guido da Monforte, e recava seco molto
+denaro, con cui sedusse ed infam@o Bosio, il quale, espulso dalla
+patria, ripar@o in un suo castello detto Rotera, dove impazz@i, e
+di l@a fuggito, mor@i esule e mendico, in odio ai Guelfi, de'
+quali era nemico, in odio ai Ghibellini, per aver fatto
+retrocedere il marchese Uberto da Cremona e fatto ajuto ad Azzone
+II d'Este a debellare Ezzelino, come si dir@a nel IX del
+^Paradiso.~  BENVENUTO.  -- Questo Bosio, posto a guardia dei
+passi in Puglia, lasci@o passare per denaro le genti di Carlo.
+Qualche storico nega questa corruzione di Buoso, ma l'affermano
+il Malespini ed il Villani.  -- ^L@a dove~ ecc.  @E modo pur
+questo irrisorio, che non si disdice in bocca ad un traditore,
+che scoperto, quasi a scemare sua colpa, svela altri rei suoi
+pari, e fa il bell'umore motteggiando.  BIANCHI.  -- Var.  ^El
+piange~, nove, Benv., e le prime cinque ediz.; -- ^E' piange~,
+15. 42; -- ^la lingua pronta, -- E piange~, col Zani la Pad.
+1859.  V. Nota precedente, lettera del Fer.; -- ^El piagne~,
+alcuni; -- ^Io vidi~, quasi tutti i miei spogli, e le prime
+quattro ediz.; -- ^E vidi~, il 34; -- ^I' vi' potrai dir~, il 41;
+-- ^da Dovera~, il 14; ^da Doera~, cinque; -- ^L@a ove~, il 22;
+-- ^L@a dove~, le prime quattro edizioni; -- ^i traditori~, il
+testo del Barg., e con lui il Zani e la Pad. 1859; e il Zani
+l'avvisa vera lezione, considerato che ^stanno freschi~ anche i
+puniti nel terzo cerchio sono afflitti da ^piova eterna e
+fredda~, da ^grandine grossa~ e da ^neve~, ottima osservazione; e
+^traditori~ @e variante accennata dal Witte a pi@e di pagina.
+
+	|118-120.  Se fossi domandato~, ecc.  Se ti fosse chiesto
+se v'erano altri traditori, ti sta qui a lato quello di
+Beccher$ia, al quale fu tagliata la testa in Fiorenza.  Nel 1258
+essendo stati scacciati da Fiorenza i Guelfi e i Ghibellini la
+prima volta nel luglio, il popolo fiorentino, nel mese di
+settembre dell'anno stesso, fece incarcerare l'abate di
+Vallombrosa, che si chiam@o Tesoro de'nobili di Beccar$ia,
+signori di Pav$ia, accusandolo di tentare d'introdurre
+proditoriamente in Fiorenza i Ghibellini.  Dopo molti tormenti fu
+costretto a confessare il preteso delitto, e nella piazza di S.
+Apollinare lo decapitarono; per la qual cosa Fiorenza fu
+scomunicata; e molti Fiorentini, passando per Lombard$ia, furono
+scannati dai Pavesi.  Molti scrissero che quell'Abate era
+innocente, e che per quell'assassinio i Fiorentini soffersero poi
+la disfatta di Montaperto.  BENV.  -- Il Daniello dice: che
+questo Abate era Legato pontificio in Fiorenza, e che fu
+giustiziato per essersi scoperto un trattato di lui in favore de'
+Ghibellini e contro i Guelfi.  V. Gio. Villani, Lib. VI, cap.
+65.  -- ^Gorgiera~ @e un collaretto di bisso o d'altra tela linea
+molto fina.  Qui @e presa figuratamente a significare la ^gola.~
+BIANCHI.  -- Il Lombardi disse usata tal voce per ^collo~, la
+parte pel tutto.  -- Direi ^gorgiera~ voce tratta dal francese
+^gorge~, gola.  Considera.  -- Varianti.  ^Domandato~, i pi@u,
+(I.).  (M.); -- ^dimandato~, (F.).  (N.).  Cr.; -- ^addimandato~,
+Benv.; -- ^chi l@a era~, parecchi; -- ^altro chi v'era~, il 33;
+-- ^altri che v'era~, il 52; -- ^Se fussi~, 35. 43; -- ^Tu hai da
+lato~, i pi@u; -- ^Beccar$ia~, (I.).  Nid. Vat. 3199, Benv.
+l'Aldina, il Fer., e cos@i scrivono e non altrimenti gli Storici
+lombardi, tra'quali il Corio; e gli Accad.  ebbero torto (dice il
+Lomb.) a preferire ^Beccher$ia~ con l'autorit@a di pochi testi;
+-- ^A cui seg@o~, quattro; -- ^A cui sec@o~, il 39, e (I.); --
+^Fiorenza~, il maggior numero; -- ^Fierencia~, il 9; --
+^Firence~, il 10; -- ^Firenze~, sei, e l'antico Estense, il quale
+legge sempre cos@i, salvo il caso della rima che voglia
+^Fiorenza~; postilla del Parenti nella sua Nota inedita del 1827.
+Io ne rimango meravigliato, non avendo mai trovato ne' mss.
+antichi, tanto di versi che di prosa, questa voce, sicch@e l'ho
+sempre avvisata una smorfia, una lascivia che la sv$ia dalla sua
+origine, che @e ^fiore.~  -- Il Caet., il codice di S. Croce,
+l'antichissimo dell'Arsenale di Parigi, il Caglieritano, il Vat.
+3199, il testo di Benv., i due mss. pi@u antichi di data certa
+hanno sempre ^Fiorenza~; e sono tanto persuaso che ai tempi di
+Dante non si scrivesse ^Firenze~, sino a farmi dubitare della
+pretesa antichit@a del citato ms. Estense.  Per ricredermi
+aspetter@o che mi si citi l'autorit@a di mss. sincroni di poeti o
+di prosatori trecentisti.
+
+	|121-123.  Gianni dei Soldanier~ ecc.  Nel tempo in cui i
+Frati Gaudenti tennero la podester$ia di Fiorenza, gli Uberti, i
+Lamberti ed altri Ghibellini insorsero contro i reggitori del
+popolo; il perch@e tutta la popolazione fu sotto le armi, e si
+adun@o in via Larga di S. Trinita.  Gio. Soldanieri, di nobile
+famiglia ghibellina, corse a farsi capo del popolo,
+nell'intendimento di giugnere poi a signoreggiare il paese, non
+guardando al fine, che fu la distruzione della parte ghibellina,
+la quale, capitanata da lui, dopo lungo conflitto fu costretta ad
+abbandonare la citt@a.  BENV.  -- L'Anonimo dice invece che
+costui, essendo podesta di Faenza, con l'ajutorio di Tribaldello
+de' Zambrasi della detta terra, contro alla loro parte
+ghibellina, alli Bolognesi di notte tempo diedero Faenza.  --
+Pietro di Dante dice soltanto che costui trad@i la parte di M.
+Farinata degli Uberti.  -- Il Vellutello cita Gio. Villani, Lib.
+VII, cap. 13, dove dice che Gio. Soldanieri essendo in Fiorenza
+di grande autorit@a e di fazione Ghibellina, volendo la parte sua
+torre il governo del popolo ai Guelfi, tradendo i suoi, si
+accost@o ad essi Guelfi, e fecesi di quel governo principe.  --
+Ecco un novello esempio comprovante la necessit@a di ricerche per
+chiarir meglio la parte storica della ^Divina Commedia.  --
+Ganellone.~ Carlo Magno (secondo Turpino, arcivescovo di Reims,
+che scrisse in tanto barbaro stile) ricuperata la Spagna dalle
+mani de' Saraceni, fu nel ritorno ospitalmente accolto co' suoi
+soldati in Pamplona.  In quel tempo i due re saraceni, Marsilio e
+Belligardo, erano ospitati presso l'Imperatore, e la leggenda
+continua col toccare la missione da Carlo data a Gamelone di
+farli battezzare; come costui fosse da loro corrotto ed
+occasionasse la rotta di Roncisvalle, e come poi ne fosse punito
+da Carlo Magno.  Tale @e il succo che traggo dalla lunga Nota di
+Benvenuto.  -- Turpino lo chiama ^Ganalon~, ed altri ^Gano~, tra'
+quali l'Ariosto, che tanto parla di costui; -- ^E Tribaldello.~
+Costui fu de' Zambrani, nobili di Faenza, dov'eransi ricoverati i
+Lambertacci, espulsi da Bologna dai Guelfi.  La parte ghibellina
+dominava allora in Faenza; e scrivono che alcuni de' Lambertacci
+rubassero due majali a Tribaldello, che li reclam@o indarno,
+sicch@e giur@o di vendicarsene.  Avvis@o quindi i Bolognesi di
+trovarsi di notte sotto Faenza, e con astuzia li introdusse notte
+tempo nella citt@a, per la qual cosa fortunati furono que'
+Lambertacci che poterono fuggire.  Tribaldello ebbe, in premio
+del suo tradimento, il comando d'alcune armi bolognesi, ma poco
+and@o che rimase morto nella strage de' Francesi, operata presso
+Forl@i dal conte Guido di Montefeltro, come accennammo altrove.
+BENV.  -- Il cod. Cass. legge ^Tebaldello~, e il suo Postillatore
+dichiara: ^Thebaldellus de Cambraciis de Faventia prodiit dictam
+eius civitatem, dando eam Bononiensibus una nocte.~  -- Varianti.
+^Giovanni Soldanier~, il 5; -- ^Gianni di~, sei; -- ^dei
+Soldanier~, cinque, (I.).  Z. W.  Il Zani la dice lettera di 15
+Parigini, dell'Anonimo, di Pietro di Dante, del Falso Boccaccio,
+e de' codici Vaticano 3199 e Pogg.; -- ^de' Soldanier~, i pi@u,
+(F.).  (N.).  (V.); -- ^del Soldanier~, (M.).  Cr.; --
+^Gallenone~, il 5; -- ^Gaynelone~, il 10; -- ^Ganiellone~, il 14;
+-- ^Gallerone~, il 31; -- ^Grirnellone~, il 43; -- ^Ganalone~, il
+Fer., e cos@i lo chiama Turpino; -- ^Thibaldello~, il 5; --
+^Thebaldello~, parecchi; -- altri: ^Tibaldello, Tubaldello,
+Thybaldello, Trebaldello, Tribaldello, Tobaldello~; e in tanta
+variet@a preferisco ^Ganalone~ e ^Tebaldello~, col Zani che la
+dice lettera di parecchi testi mss.  e stampati; -- ^Tribaldello~
+scrivono Gio. Villani e Benvenuto, ma l'uno lo dice de' Manfredi,
+l'altro de' Zambrani; e de' ^Zambrasi~ l'Anonimo e Pietro di
+Dante.
+
+	|124-126.  Noi eravam partiti~ ecc.  Dante tratta di due
+traditori, l'uno dei quali trad@i la parte e la patria, e fu
+tradito da un altro: l'uno il conte Ugolino da Pisa, l'altro
+l'arcivescovo Ruggieri degli Ubaldini.  Finge l'autore che il
+detto conte coi denti crudelmente roda a tergo il cranio
+dell'arcivescovo, per averlo fatto crudelmente morire di fame in
+una torre co' figliuoli, come si vedr@a nel Canto seguente; --
+^da ello~, intendi, da Bocca degli Abati; -- ^in una buca~, in
+una bassura del ghiaccio; -- ^l'un capo~, quello del conte
+Ugolino; -- ^all'altro era cappello~, euopriva il capo
+dell'arcivescovo Ruggieri.  BENV.  -- ^Da ello~, da lui o da
+quello, cio@e da quello che fino allora aveva parlato; -- ^ello,
+elli, elle~, sembrano asteresi di ^quello, quelli, quelle.~  Si
+usano queste inflessioni, specialmente in poes$ia, anche oggid@i.
+V. il Cinonio.  -- ^Che~, per ^Quando.~ V. Cinonio.  LOMB.  -- Il
+Biagioli dice questo ^Che~ elemento della formola ^allora che.
+-- Era cappello~, stavagli sopra, coprivalo.  LOMBARDI.  --
+^Ch'i' vidi~, quando vidi; -- ^in una buca.~  La buca in che
+stanno questi due spiriti, @e la cavit@a circolare dello
+spartimento, che divide l'Antenora, ove siamo tuttora, dalla
+Tolomea che immediatamente segue; poich@e l'uno di essi trad@i la
+patria, e l'altro l'amicizia.  Essi dunque sono confinanti, e in
+loro si toccano le due classi.  BIANCHI.  -- Varianti.  ^Non
+eravam~, 18. 42; -- ^gi@a partiti~, il 41; -- ^Quando vidi due
+agghiacciati~, 3. 41; -- ^dui ghiacciati~, il 5; -- ^giacciati~,
+il 9; -- ^due~, i pi@u, W. ecc.; -- ^due cacciati~, il 34; --
+^dall'alto era cappello~, il 14; -- ^e l'altro~, 37. 43; -- ^era
+all'altro cappello~, il 41.
+
+	|127-129.  E come il pan~ ecc.  S@i come il pane
+avidamente si mangia da chi @e affamato, cos@i Ugolino, per fame
+di vendetta, rodeva il cranio dell'arcivescovo nell'occipite.  Il
+cervello d@a il senso e moto a tutto il corpo, e quindi per tutta
+la lunghezza del corpo tramanda di sua sostanza per mezzo della
+midolla bianca che chiamasi ^nuca~, la quale si allunga pel collo
+e pel dorso, dirigendo il movimento a tutte le parti per mezzo
+de' nervi che nascono da essa.  BENV.  -- ^Si manduca.
+Manducare~ per ^mangiare~, voce latina, scrissero i nostri
+antichi anche in prosa.  V. il Vocab.; -- ^sovran~, qui vale
+^soprastante~ in senso proprio di ^stante di sopra~ di luogo, non
+di dignit@a; -- ^pose~, per ^poneva~, enallage; -- ^L@a 've~,
+sinalefa, per ^L@a  ove; -- il cervello~, per la sommit@a del
+cranio, sotto la quale si ricuopre il cervello; -- ^nuca~, parte
+deretana del capo.  LOMB.  -- Varianti.  ^Ch@e come il pan~,
+quattro; -- ^E come pan~, il 42; -- ^si manuca~, sei; -- ^Cos@i
+li denti sovr'all'altro~, tre; -- ^Cos@i il sovrano i denti~, 9.
+10; -- ^Cos@i sovra li denti all'altro~, dieci, e (V.); -- ^Cos@i
+l'un sovra l'altro~, sei, Vat. 3199 e (I.); -- ^Cos@i sovra li
+denti all'altro~, (F.).  (M.).  (N.); -- ^Cos@i sovr'uno l'altro
+i denti~, il 42; -- ^Cos@i il sopran~, Witte; -- ^Cos@i sovran~,
+il 41; -- ^L@a ove 'l~, dodici, e le prime cinque ediz.; -- ^Dove
+il cervel~, quattro; -- ^L@a @u 'l cervel~, il 18; -- ^l@a ov'
+el~, il 40; -- ^Ove il cervel~, il 42, Nidob.; -- ^si giunge~,
+quattro; -- ^s'aggiunge~, 35. 53; Nidob. Ferranti; -- ^se
+ajunge~, il 39; -- ^si giugne~, (F.); -- ^s'agiugne~, (N.); --
+^s'agiunge~, Benvenuto, (I.); -- ^s'agiungie~, (M.); -- ^colla
+nuca~, Witte.
+
+	|130-132.  Non altrimenti~ ecc.  Tideo, figliuolo d'Eneo,
+re di Calidonia, e padre di Diomede, fu uno dei sette re che
+assediarono Tebe per rimettervi Polinice, e quivi, dopo azioni
+segnalatissime, fu mortalmente ferito da Menalippo, tebano, da
+lui pure gravemente ferito.  Questi, sendogli premorto, fecesene
+portare la testa, e per gran disdegno si mise a roderla
+bestialmente.  V. Stazio, ^Tebaide~, Lib. VIII verso il fine.
+VOLPI.  -- Benvenuto molto si allarga nella narrazione di questo
+fatto, ricordando quanto ne fu scritto qua e l@a da Stazio (Op.
+cit.), e conclude che Ugolino aveva maggior ragione di tanto
+fare, per essere vittima d'un tradimento, mentre che Menalippo
+aveva ferito Tideo in battaglia, protetto dal ^jus~ della guerra.
+-- ^Teschio~, per ^cranio; -- e l'altre cose~, cio@e cotenna,
+capelli, cervello, ecc.  LOMB.  -- Varianti.  ^Non altramente
+gi@a~, il 14; -- ^s@i rose~, Crusca e seguaci, lettera rifiutata
+dal Foscolo, col dire che: ^Non altrimenti~ volendo dire ^cos@i~,
+que' benemeriti (Accademici) sono riusciti a dire: ^Cos@i, cos@i
+Tideo rose.~  Il ^si rose~, dice il Zani, risponde al ^ti mangi~
+del verso 134; e il Bianchi la seguit@o, scostandosi dalla E. F.
+del 1837; -- ^Thideo~, (I.); -- ^Le mani a Menalippo~, il 31; --
+^Menelippo~, il 38; -- ^per isdegno~, il 37, e Ferranti; -- ^si
+rose~, i testi del Land. del Vell. e la Ven. 1564, e cos@i anche
+la Cominiana.
+
+	|133-135.  O tu che mostri~ ecc.  ^...bestial segno~,
+contro ogni senso umano; -- ^odio~, intendi, odio peggiore
+dell'ira; -- ^per tale convegno~, per tale vendetta, spiega
+Benvenuto, e non bene.  -- ^Per tal convegno~, con tal
+convenzione, con tal patto.  Di ^Per~ a vece di ^Con~, Vedi
+Cinonio.  Ad ugual senso i nostri antichi scrissero anche
+^convegna~, e ^convenium~ i Latino-barbari.  LOMB.  -- Var.  ^Che
+monstri~, il 25; -- ^che mostri s@i per~, il 39; -- ^sopra
+colui~, tre, W.; -- ^verso colui~, il 42; -- ^Dilmi perch@e~, il
+15; -- ^Dimil, diss'io, perch@e~, il 29; -- ^Dimmi perch@e~, 30.
+36; -- ^Dimmi chi se~', il 42; -- ^per qual convegno~, 8. 15; --
+^Con tal convegno~, cio@e, ^con tale convenzione o patto~,
+spiegasi nel 39.
+
+	|136-139.  Che se tu a ragion~ ecc.  Sapendo chi siete e
+la reit@a di colui che rodi, io possa propalarlo su nel mondo, se
+non mi manchi la lingua, maniera di giuramento.  Dante se ne
+sdebit@o da pari suo.  BENVENUTO.  -- ^Pecca~, per ^mancamento;
+-- te ne cangi~, te ne renda il cambio, lodando te e infamando
+lui; -- ^non si secca~, non si risolve in polvere, ch'@e quanto
+dire ^se non muojo.~  LOMBARDI.  -- ^Ti piangi~, ti lagni, ti
+duoli, dal francese ^se plaindre.~ E. F.  -- ^Te ne cangi~, ti
+renda il cambio della tua cortes@ia, se io non divengo muto per
+morte.  BIANCHI.  -- Varianti.  ^Sapendo~, parecchi de' miei
+spogli, Nidobeat., Zani col Bargigi, col Roscoe e con due
+Parigini; -- i pi@u: ^Sappiendo~, lettera avvisata dal Foscolo:
+^vesso pi@u tardo, e tutto toscano~, e lesse latinamente
+^Sapiendo; -- Sappiend'io~, molti, (F.).  (M.).  (N.); -- ^chi tu
+se~', il 18; -- ^che vo' siete~ il 41; -- ^Nel mondo su~, molti,
+(F.).  (I.).  (N.), Ferranti; -- ^Nel mondo sue~, il 33; -- ^suso
+ancora~, (M.); Al verso 136: ^A rason~, 9. 10; -- ^hai ragion~,
+sette, (F.).  (I.).  (N.), err.; -- ^hai cagion~, il 43; -- ^con
+ch'io parlo~, i pi@u, e W.; -- ^con ch'i' parlo~, Benv. Crusca e
+seguaci.  

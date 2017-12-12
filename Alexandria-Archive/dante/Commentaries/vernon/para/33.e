@@ -1,0 +1,239 @@
+	|Proemio.~  Incomincia il XXXIII C.o e ultimo del Paradiso.
+
+	|1-21.~ 
+	^Vergine madre figlia del tuo figlio~
+^umile e alta pi@u che cryatura~
+^termine fisso d'etterno consiglio.~
+
+Dimostra l'altore chome san Bernardo gli mostrasse che gli era di 
+neciessit@a a llui di preghare Nostra Donna.  Or fa che 'l detto san 
+Bernardo faccia per lui una singhulare orazione a Nostra Donna e 
+puotesi dividere questo C.o in quatro parti gienerali.  In questa prima 
+parte l'altore introducie san Bernardo a ffare orazione a Nostra Donna 
+chome a ssua divota per l'altore diciendo chome chomincia il chapitolo 
+e ffa tre contradizioni apparenti a noi.  Primo cominciamento 
+d'orazione cio@e dove dicie Vergine imper@o che mai non partor@i veruna 
+vergine altro che questa di chui noi parliamo.  La seconda ch'egli 
+dicie figlia del tuo figlio e questo non fu mai veruna se none i[n] lei 
+la quale fosse figliuola del suo figliuolo.  Ella si era figliuola di 
+Dio imper@o che Iddio la fecie e poi ella fu madre di Cristo che venne 
+i[n] llei medesimo a 'ncharnare i[n] llei.  La terza che disse l'umile 
+e alta pi@u che criatura.  La quale @e a noi chosa molto contraria.  
+Ancora dicie l'altore nell'orazione verso Nostra Donna tu sse' cholei 
+che Dio degni@o venire in te avendo egli fatto te e per la venuta 
+ch'egli fecie in te aquist@o l'umana natura la quale era inanzi perduta 
+per gli pecchati de' primi parenti.  E per questa chagione @e fiorito e 
+multiprichato questo cielo di santi e di sante.  Ancora li dicie nella 
+orazione tu sse' a nnoi meridiana facie cio@e sole meridiano il qual 
+sole pi@u ci schalda che veruno altro sole d'iverno.  E questo @e per 
+gli tuoi prieghi e orazione che ttu ffai al tuo figliuolo per noi s@i 
+che tu sse' fontana viva che sempre per noi prieghi.  Ancora dicie 
+nell'orazione tu sse' tanto grande e tanto vali che pochi richorrono a 
+dDio che prima a tte no' ricorrino per la tua misericordia e piat@a.  E 
+s@i aiuti e socchori choloro che per pecchare non ti ricordano a tte 
+preghando Iddio per loro che gli alumini.
+
+	^In te misericordia in te pietate~
+^in te magnificienza in te s'aduna~
+^quantunche in creatura di bontate.~
+
+Ancora dicie l'altore in questa orazione in te @e magnificienzia e in 
+te @e sola quantunque @e di bene negli angioli e ne' santi tutti sono 
+in te.
+
+	|22-66.~ 
+	^Or questi che dall'infima lacuna~
+^dell'universo insin qui ha vedute~
+^le vite spirituali a una a una.~
+
+In questa seconda parte fa san Bernardo la sua petizione e invochazione 
+a Nostra Donna per Dante suplichando a llei per lui ed @e pi@u 
+reverente questo detto di sopra che veruno altro detto preghandola che 
+per grazia di lei egli si possa levare pi@u in alti colla sua 
+speculazione tanto ch'egli possa vedere la Trinit@a ch'egli per s@e non 
+potrebbe pervenire sanza l'aiuto di te madre di Cristo e di questo pi@u 
+pienamente che mai io non preghai per me propio.  E dicie san Bernardo 
+nel suo priegho io ti priegho che quando tu gli ha' mostrato che ti de' 
+piaciere di confermallo nel perfetto essere s@i cche mai egli chaggia a 
+dovere pecchare.  E di questo ti priegho io e Beatricie con tutti gli 
+altri chome tu vedi pi@u dinanzi da tte.  Per queste parole dei 
+intendere che ll'altore colla sua grazia cio@e sagra teologia e i libri 
+e detti di santo Agostino e di molti altri dottori e santi di santa 
+chiesa egli provenne a questa grazia d'iscrivere questo libro di 
+paradiso.
+
+	^E io ch'alfin di tutti i miei disii~
+^m'appropinquava s@i com'io dovea~
+^l'ardor del desiderio i[n] mme finii.~
+
+L'altore parla qui in questa forma e dicie ch'egli essendo venuto per 
+gli prieghi di san Bernardo a Maria e per gli prieghi di Maria venuto a 
+Dio Io Dante incominciai a vedere quella chosa la quale san Piero avea 
+desiderato di vedere cio@e Idio la quale @e quella lucie ch'allumina 
+Maria e tutti gli altri santi e sante.  E dicie l'altore ch'egli vide 
+pi@u di lucie ch'egli non sa e non pu@o ridire ghuardando in quello 
+specchio lucido e veracie cio@e Idio eterno.
+
+	^Qual @e colui che sogniando vede~
+^e dopo il sogno la passione impressa~
+^rimane e l'altro alla mente non riede.~
+
+Qui dicie l'altore che a llui incontr@o chome a cholui che ffa una 
+bella visione in sognio e poi desto del sonno si ricorda c'ha fatto un 
+bel sognio e del sognio non si pu@o ricordare.  Simile dicie l'altore 
+incontro a mme imper@o che tanta fu la magnificienzia dell'allegrezza e 
+bellezza ch'io vidi ch'io non so et nollo posso ridire cos@i fingie 
+diciendo l'altore
+
+	^Cos@i la neve al sole si disigilla~
+^cos@i al vento nelle foglie lievi~
+^si perdea la sentenza di sibilla.~
+
+Dicie l'altore chom'io questa bellezza non so ridire compiutamente 
+cos@i la neve per lo sole si disfa e non si vede e come incontrava al 
+tempo delle sibille che profetavano e furono queste sibille dieci 
+secondo che scrive santo Isidero e s@i ve ne fu una ch'ebbe nome 
+Eritrea la quale profet@o lungho tempo inanzi l'avenimento di Cristo.  
+Ma questa che ffa qui al nostro propoxito si fu quella che profet@o ad 
+Enea la venuta sua in Italia e che di lui nascierebbono choloro che 
+edificherebbono la citt@a la quale signioregierebbe tutto il mondo e 
+chos@i fu che di lui nacque chi ffe' Roma.  Questa sibilla avea nome 
+Cumana e quando ella volea sapere alchuna chosa d'indivinazione 
+iscriveva quella chotale chosa in sulle foglie di lauro e poi poneva 
+quelle cota' foglie in sull'altare e se 'l vento le menava via quella 
+cotal chosa non dovea essere e se lle dette foglie istavano ferme in 
+sull'altare ed ella allora profetava il vero di quella cotale chosa.  E 
+per@o dicie l'altore che chome le sentenze che dava questa sibilla si 
+perdeano per le foglie al vento cos@i a ssimile il suo non sapere 
+ridire questa bellezza di Dio pienamente gli parea avere perduto i suoi 
+affanni e fatiche.
+
+	|67-105.~ 
+	^O somma lucie che tanto ti lievi~
+^da' concietti mortali alla mie mente~
+^ripresta un poco di quel che parevi.~
+
+In questa terza parte l'altore fa la sua visione in gienerale e ffa 
+egli ora la sua orazione al sommo bene cio@e a dDio.  E ll'orazione si 
+@e che ll'altore il priegha divotissimamente ch'egli gli presti tanto 
+di grazia ch'egli di lui possa ridire una picchola cosa della sua 
+grazia e groria nelle sue scritture s@i e in tal modo che inanzi ch'io 
+muoia io lasci nelle mie iscritture memoria di te intera chom'io 
+divotissimamente t'ho amato in questa vita.
+
+	^Io credo per l'achume ch'io soffersi~
+^del vivo raggio ch'io sare' smarrito~
+^se gli occhi miei da llui fossino aversi.~
+
+Qui dicie l'altore che mentre che faciea l'orazione a Dio i[n] llui 
+ghuardava ch'egli credette che s'egli avesse rivolti gli occhi altrove 
+allora egli arebbe perduto il vedere.  E dei intendere che s'egli 
+avesse in questo punto rivolto la sua mente altrove ch'egli perdea 
+questo bel vedere e dire s@i cche questo dei tu intendere per l'occhio 
+intellettuale della sua mente e per@o l'altore si corrompe in una 
+amirazione di quello ch'egli vede e si dicie che tutte le chose che noi 
+veggiamo a tempo e di tempo in tempo tutte quante in un solo punto vede 
+i[n] Dio di presente.
+
+	^Un punto solo m'@e magior letargho~
+^che venti e cinque secoli alla 'mpresa~
+^che ffe' Nettuno a mirar l'ombra d'Argho.~
+
+Per queste parole ti fa l'altore una comperazione da ss@e a Netunno 
+idio del mare e secondo la poesia gli antichi poeti iscrissono che lla 
+prima maggior nave ch'andasse per mare fecie Arghus e fu chiamata 
+Arghos e ffu quella nave che port@o Janson quando and@o aquistare il 
+vello dell'oro cio@e il montone d'oro.  E dicie l'altore che quando 
+questa nave entr@o a navichare per l'alto mare che Netunno chorse per 
+maraviglia a vederla.  E che Netunno ghuardandola per ispazio di venti 
+cinque cientinaia d'anni non arebbono compreso in quella nave il suo 
+essere quanto dicie l'altore di s@e medesimo che compresegli ghuardando 
+in Dio in un solo punto e questo @e ll'effetto di quelle parole.  E 
+dicie l'altore che s@i chome Netunno ghuardava fiso quella nave cos@i 
+egli ghuardava fiso Idio ch'egli non se ne potea rimanere n@e partire 
+di ghuardallo per@o che dicie che vedea quel bene che @e sanza niuno 
+pari infinito.
+
+	|106-145.~ 
+	^Omai sar@a pi@u chorta mie favella~
+^pur a quel ch'io ricordo che d'un fante~
+^che bagni ancor la linghua alla mamella.~
+
+In questa quarta parte l'altore discrive la Trinit@a in unit@a e lla 
+divinit@a in umanit@a diciendo egli io vidi u[n] lume in una 
+semplicit@a e vedea tre persone in u[n] lume chome incontra dell'archo 
+del cielo quando sono le nuvole asottigliate per la piova.  Ancora lu' 
+vede nell'aria quel segnio disvariato di diversi colori alla nostra 
+apparenza il qual segnio @e appellato da' poeti iris thaumanzias e noi 
+lo chiamiamo archo di cielo.  E pare a nnoi di tre cholori e che l'uno 
+cholore faccia l'altro e che l'uno entri nell'altro chos@i dicie 
+l'altore che incontro a llui ghuardando nella trinit@a e divinit@a 
+eterna deit@a di unit@a semplicit@a.
+
+	^O lucie etterna che sola in te sidi~
+^sola t'intendi e sola intelletta~
+^e intendente te a mme aridi.~
+
+Qui dicie l'altore verso la Trinit@a tu mmi compiaci tanto ch'io nol so 
+dire e dicie che gli pare vedere dentro da quel lume un viso humano e 
+questo dicie ch'era Cristo vivo e vero.
+
+	^Qual geometra che tutto s'affiggie~
+^per misurar o cierchio e non ritruova~
+^pensando quel principio ond'egli indigie.~
+
+Per queste parole fa ll'altore la sua fine ritornando a mezzo il 
+cierchio ritornandosi a chasa e dicie ch'egli istava fisso et attento a 
+ghuardare fiso nella Trinit@a che ad altro egli non aveva il pensiero.  
+E dattene una similitudine cio@e che al tempo d'Aniballe e di 
+Chartagine ch'era contro allo imperio di Roma un prencipe romano 
+ch'avea nome Marcho Marciello huomo pi@u virtudioso si trovasse mai in 
+Roma da Ciesare in fuori il quale diede di grande isconfitte ad 
+Aniballe in mentre che 'l detto Aniballe era in Italia in questo tempo 
+i Romani mandarono Claudio Marcho Marciello in Cicilia a raquistalla 
+imper@o che s'era rubellata dallo impero romano e ivi mostr@o questo di 
+sua virt@u e prodezza e assedi@o una citt@a in Cicilia chiamata Sarausa 
+e stettevi assai tempo intorno anzi che la potesse avere e aquistare ed 
+era in questa terra un filoxafo ch'avea nome Archimedes il quale fecie 
+assai danno a Claudio Marciello con suoi ingegni e sapere poi presa la 
+citt@a da Marciello ed essendo in sulle mura righuardando la citt@a s@i 
+ssi maravigli@o di s@i gran fatto quant'era quello ad averla presa e 
+s'incominci@o per tenerezza e per piet@a a piagniere e comand@o a tutta 
+la sua giente che nessuno cittadino fosse toccho o morto n@e rubato.  A 
+cchaso incontr@o che uno chavaliere di Claudio entr@o in chasa quel 
+filosafo Archimedes e trovollo in chamera il quale stava in terra e ivi 
+facieva un cierchio cholle sexte per dovere fare sue fighure di 
+gieometria e giugniendo il chavaliere sopra chostui e domandandolo pi@u 
+e pi@u volte chi e' fosse e quello ch'egli faciea il filosafo niente 
+gli rispondea tanto era fisso e atento alla sua arte della geometria il 
+di che il chavaliere chomosso a ira misse mano alla spada e sopra il 
+suo cierchio s@i llo uccise di che poi domandandolo Marciello quando 
+egli ebbe rimesso in ordine la citt@a e trovando chom'egli era istato 
+morto si n'ebbe grave tristizia perch'egli sapea della sua scienzia e 
+vertude.  E cos@i il filosafo Archimedes fu morto per istare fisso e 
+attento al suo lavorio e studio.  E per@o dicie l'altore che chos@i 
+chome Archimedes istava fisso a misurare il suo cierchio cos@i e in tal 
+modo ch'egli non chur@o la morte.  Cos@i io dicie l'altore istavo fisso 
+e atento a vedere quella imagine di Cristo congiunta colla divinit@a e 
+Trinit@a e l'amore eterno qui mi volse s@i ch'io prima m'era partito da 
+Dio e chos@i a llui ritornai cholla mia mente etc. deo grazias etc.
+
+	Qui scrissit iscribat semper cum domino vivat
+Vivat in cielis semper cum domino felix.
+	Finito e chompiuto per me Nichola di ser Dino di Nichola
+dell'arte della lana questo di XVIIII d'otobre 1458 a
+ore quatro di notte a stanza e pitizione di Lazero di
+Michele di Piero da Varna del popolo di san Piero
+Ghattolino.  Avendo la luna 12 d@i.  E 'l detto libro
+chomincia a d@i primo di marzo nel MCCCCLVII e con tempo e
+modo e per piaciere l'abiano condotto insino allo
+infrascritto tempo di sopra.  E piaccia a dDio che per a
+tempo e con sanit@a lungha ne possiano cominciare e finire
+degli altri chon salute dell'anima e del corpo.
+
+	^O tu ch'achatti i[l] libro del villano~
+^Rendilo presto perch@e gran piaciere~
+^Ne tra' chostui a cchi 'l chavi di mano.~
+
+Dante si chiam@o il villano perch@e e' no' lasci@o a dire ad altri 
+nulla.

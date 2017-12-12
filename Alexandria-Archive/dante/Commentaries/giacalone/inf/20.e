@@ -1,0 +1,587 @@
+	|1.  nova~: una pena diversa da quella del canto XIX, ma
+anche singolare, strana.  La ripresa della narrazione vuol
+segnare uno stacco rispetto all'eccessivo impegno autobiografico
+dell'apostrofe contro i papi simoniaci.
+
+	|3.  canzon~: prima cantica, secondo quanto dichiarato da
+D. in ^Purg.~, XXXIII, 140 e nella ^Epist.~ a Cangrande (XIII,
+26) <totum opus dividitur in tres canticas>.  Ma qui il termine
+|canzon~ (al posto di ^cantica~) sembra preludere a una specie di
+^chanson de geste~ con <un'intonazione un po' da poemetto
+popolare> (Parodi, ^Il c. XX dell'Inf.~, Firenze, 1934, p. 5) o
+<alla buona con una prefazioncella un po' da cantastorie>
+(D'Ovidio, ^Nuovo volume di studii dant.~, Caserta-Roma, 1926). 
+<D. ironicamente usa una breve formula che ricorda la tecnica
+degli esecutori nella letteratura orale medievale, dei
+menestrelli, i quali desiderando essere ascoltati cercavano di
+attirare l'attenzione del pubblico, mettendo in risalto la
+^novit@a~ del loro spettacolo, espediente unico nella Commedia...,
+il tener desto l'interesse degli spettatori qui @e reso dal modo
+con il quale D. si rivolge al lettore per quel che riguarda la
+sua tecnica poetica cos@i che il lettore @e reso consapevole da D.
+sulle necessit@a e sulle giustificazioni della sua arte> (Spitzer,
+^The addresses to {the} Reader in the Comm.~, in <Italica>, 1955,
+p. 146).  |Sommersi~: dannati, sprofondati sotto terra, nel
+baratro infernale; senza alcuna analogia con i sommersi della
+palude stigia.
+
+	|4.  disposto~: precisa l'atteggiamento spirituale,
+meglio che quello fisico, onde fissare il suo stato di tensione
+morale e di entusiastica adesione alla verit@a; come @e da cogliere
+in quella formula <|tutto quanto~>, che si ripete ben quattro
+volte.
+
+	|5.  scoperto~: apparso alla mia vista.  Vien ripresa la
+narrazione con la stessa parola con cui si era chiuso il canto
+precedente.  Questo ha fatto ritenere all'Austin che la prima
+terzina possa essere spuria, data la sua superfluit@a prosaica. 
+Infatti la vera ripresa del racconto comincia col v. 4 (^The
+submerged, Inf., XX, 3~, in <Romanic Review>, 1932, p. 40).
+
+	|7-9.  vidi~: il verbo, messo all'inizio del verso e
+della sequenza, precisa il tema fondamentale dello spettacolo, in
+cui le pause ritmiche scandiscono, nel quadro largo e arcano del
+|vallon tondo~, il lento avanzarsi dei peccatori, il loro
+silenzio (|tacendo~ con val. di part. pres.) e il loro gemere
+lungo e sommesso (|lagrimando~).  La suggestione psicologica
+della sequenza @e realizzata tutta attraverso questi effetti
+pittorici e musicali, richiamati anche col ricordo delle
+processioni.  |al passo~: al passo lento delle processioni, che
+soglion cantare le litanie (|letane~) in questo mondo terreno,
+ove io scrivo.  Il contrappasso @e illuminato dalla
+rappresentazione stessa della scena.  Infatti gli indovini e i
+maghi, come in vita eccedettero nel parlare, ora devono tacere;
+come vollero correre con la mente oltre i limiti umani, ora son
+costretti a procedere a passo lento; come vollero spingere troppo
+avanti nel futuro il loro sguardo, ora son costretti a tenere il
+loro viso rivolto all'indietro.  La loro <^figura~> umana ne
+risulta del tutto capovolta e stravolta, in quanto la loro
+funzione terrena non fu in alcun modo voluta n$e consentita da
+Dio; fu soltanto una prefigurazione negativa, e quindi
+peccaminosa, delle vere profezie ispirate da Dio.  Questo marchio
+della loro funzione negativa, ora i dannati dovranno portare per
+l'eternit@a, immobilmente fissati dalla condanna divina.
+
+	|10.  Come~: non appena lo sguardo (|'l viso~) scese pi@u
+basso su di loro.  D., trovandosi in un luogo alto rispetto alle
+anime, deve abbassare lo sguardo man mano che le anime si
+avvicinano; quindi, il senso qui @e: quando le anime furono pi@u
+vicine al ponte da cui io guardavo.  Ma il D'Ovidio, il Poletto e
+il Chimenz intendono che D. prima guardi al volto degli indovini
+e poi al resto del corpo (^op. cit.~ {D'Ovidio, ^Studi[i] sulla
+D.C.~, Milano-Palermo, 1901}, 76).
+
+	|11-12.  apparve~: ciascuno di loro apparve volto al
+contrario (|travolto~) in modo da suscitare meraviglia
+(|mirabilmente~) nel punto che sta tra il mento e il principio
+del busto (|casso~), cio@e nel collo.  <|Mirabilmente~ in
+principio della frase, avverbio cos@i lungo e sonoro, esprime
+l'improvviso commosso stupore di D.; |travolto~ in fine del
+verso, |ciascun~ in principio del verso seguente: tutte le idee
+principali plasticamente rappresentate...  Tutto qui @e semplice e
+naturale, e nel tempo stesso d'una sapienza artistica
+maravigliosa: @e l'uomo che racconta ci@o che ha veduto, con un
+accento di verit@a da non lasciar luogo a dubbi e sospetti; non
+solo, ma che cerca di ravvivare nella fantasia de' suoi uditori
+l'immagine stessa che a lui sta viva davanti agli occhi> (Parodi,
+^l.c.~ {=^Letture dantesche~ a cura di G. Getto, Firenze, 1964},
+380).
+
+	|13-14.  ch$e~: perch$e il volto degli indovini era girato
+(|tornato~ ital. antico e francesismo, ^tourner~) dalla parte
+delle reni, verso il dorso, e, quindi, ad essi (|li~) era
+necessario (|convenia~) camminare a ritroso (|in dietro~). 
+Frequenti in questi versi le assonanze e le allitterazioni
+(^canto-canzon~ {vv. 2-3}, ^vidi-venir~ {vv. 7-8}, |venir-li
+convenia~, ^diretro-retroso~ {v. 39}) caratteristiche della
+retorica medievale e dantesca.
+
+	|15.  perch$e~: perch$e era loro impedito (|tolto~) il
+vedere dinanzi; non potendo vedere nella normale posizione del
+corpo, @e impedito anche il loro avanzare con la parte anteriore. 
+La coerenza plastica della descrizione ora si anima di
+imprevedibile drammaticit@a, secondo l'emozione del visitatore
+dell'oltretomba, condizionato inevitabilmente all'armonia delle
+forme umane, come aveva scritto nel ^Conv.~ III, vii, 1: <Intra
+li affetti de la divina Sapienza l'uomo @e mirabilissimo,
+considerando...  come sottilmente armoniato conviene esser lo
+corpo suo... per la molta concordia che 'n tra tanti organi
+convien a bene rispondersi>.
+
+	|16-18.  Forse~: probabilmente per effetto di paralisi
+(|parlasia~ arc. paralis@ia) qualche volta (|gi@a~) qualcuno si @e,
+allo stesso modo, interamente girato, stravolto; ma io non lo
+vidi mai, n$e credo che ci@o sia mai avvenuto o possa avvenire
+(|che sia~).
+
+	|19-22.  Se Dio~: possa Dio consentire (|ti lasci~) a te,
+lettore, di trarre insegnamento (|frutto~) dalla lettura
+(|lezione~) di questo mio poema, di questi versi, s@i da giovare
+alla tua anima: ora considera da te stesso, mettendoti nelle mie
+condizioni, in qual modo mai io avrei potuto trattenermi dal
+piangere, tenere gli occhi (|viso~) asciutti, quando vidi la
+nostra figura umana da vicino cos@i deformata (|torta)...~
+
+	|23-24.  che~: che il pianto sgorgato dagli occhi bagnava
+le natiche attraverso la loro apertura, il loro taglio (|fesso~),
+passando per il canale delle reni.  <Qui la deformazione non solo
+ha qualcosa di magico e di mostruoso, ma anche di degradante, e
+giunge sino all'oscenit@a di quel pianto -- e si @e ben notato, non
+il ^pianto~, ma il |pianto de li occhi~, la parte pi@u spirituale
+dell'uomo, in cui ride l'anima -- che cade sulla parte pi@u
+volgare della persona.  Non i singoli peccatori, non la natura
+del peccato... lo muovono a compassione ma soltanto questa
+tragica deformazione e questo volgare abbrutimento del corpo
+umano: in quel tormento trova offesa l'umanit@a intera, trova
+offeso se stesso> (Caccia, ^Il c. XX dell'Inf.~, Lect. scalig.,
+Firenze, 1961, p. 11).  Nella rappresentazione plastica dei maghi
+D. ha voluto evidenziare la deformit@a psicologica e disumana
+della loro umanit@a, che gi@a in terra era stata in un certo senso
+prefigurazione di tale capovolgimento di limiti e di valori.  La
+psicologia stessa dei maghi in terra era stata ^figura~ di questa
+deformazione fisica, che li tormenter@a in eterno.
+
+	|25-26.  Certo io~: infatti io piangevo, appoggiato ad
+uno dei massi (|rocchi~) della scogliera di pietra dura che forma
+il ponte (|scoglio~), tanto che la mia guida mi disse.  Sul
+pianto e sulla ragione del pianto di D. i critici hanno molto
+discusso.  Meglio di tutti il Sapegno ha precisato <Il suo pianto
+non nasce da partecipazione alla sorte di un individuo
+determinato, dalla considerazione di un caso umano specifico s@i
+solo dalla forma della pena assegnata a questa categoria di
+dannati, dal tormento, di natura tutta intellettuale, che egli
+prova nell'assistere a quell'indecoroso stravolgimento della
+nobile immagine dell'uomo> (^comm.~ 227), in linea diretta con
+quanto aveva detto il D'Ovidio: <D. si sente ferito nella propria
+umanit@a... la metamorfosi completa dell'uomo in pianta sbigottiva
+meno l'immaginazione che non questa pi@u discreta, la quale,
+mantenendo la figura umana ma sfigurata in maniera che la
+peggiore delle paralisi non saprebbe fare, era causa di un pi@u
+immediato sbalordimento e di una invincibile tenerezza> (^l.c.~
+{^Studi[i] sulla D.C.~, Milano-Palermo, 1901}, 77).
+
+	|27.  Ancor~: ancor tu sei come gli altri; oppure, dopo
+tutto quello che hai visto, ancora sei come gli altri uomini che,
+ignorandone la gravit@a, hanno compassione per i dannati?  La
+piet@a di D. ha provocato reazione immediata di Virgilio, che @e
+apparsa immeritata ed eccessiva ai critici, ma che in effetti ha
+una sua ragione narrativa e psicologica, in quanto Virgilio,
+personaggio dell'Inferno, incarna l'ideale della ragione umana,
+liberata da ogni superstizione del mondo pagano, sia pure
+vagheggiata attraverso i miti della poesia antica.  Virgilio,
+quale guida voluta da Dio nel viaggio di D., non pu@o non esser
+intriso di nuova religiosit@a, anzi di quella spiritualit@a
+cristiana, che rinnega qualsiasi validit@a ai maghi e agli
+indovini pagani, che con la loro falsa presunzione commettevano
+un peccato di orgoglio dinanzi a Dio.  Non credo che qui D.
+idoleggi con la fantasia personaggi e immagini del mondo antico,
+che poi ripudierebbe con la sua ragione filosofica e cristiana,
+in un romantico incontro di passionata ammirazione e di ragionata
+ripulsa.  L'animo di D. @e perfettamente coerente e unitario,
+anche in questo incontro con gli indovini e i maghi, di cui egli
+condanna recisamente la presunzione e la deformazione
+psicologica, in quanto l'intelligenza umana @e sempre condizionata
+al tempo, e l'uomo pu@o conoscere soltanto al presente o ricordare
+il passato, ma in alcun modo potrebbe indovinare il futuro, che @e
+soltanto nella mente divina, eternamente presente.  Perci@o lo
+spirito del canto @e intensamente meditativo, anche se
+apparentemente, per l'imponenza delle figurazioni plastiche, pu@o
+apparire alquanto spettacolare e sarcastico.  Escluderei,
+pertanto, la tesi del D'Ovidio (accettata da altri) secondo cui
+D. qui farebbe fare a Virgilio ammenda delle sue antiche credenze
+nell'arte della divinazione, sfatando anche la leggenda medievale
+che lo riteneva un mago (D. Comparetti, ^Virgilio nel M.E.~ a
+cura di Pasquali, Firenze, 1943), mentre sarei propenso a
+ritenere pi@u valida la tesi del Rossi, secondo cui qui <@e la pi@u
+appassionata poesia di una coscienza religiosa che, nella sua
+devota ammirazione per i grandi poeti di Roma pagana, si sente
+turbata e crucciata dall'ingenua, eppur condannabile apoteosi che
+di astrologi e d'indovini essi hanno fatto nelle loro opere. 
+Tale complesso e amaro momento spirituale @e fantasticamente la
+figura di Virgilio, che in questo canto appare stizzoso,
+concitato, loquace come in nessun altro luogo del poema> (^comm.~
+p. 253).  Senza ammettere, per@o, alcuna antitesi tra il fascino
+che quelle figure esercitano sul poeta e il suo proposito di
+ripudiare le credenze antiche.  Tutto il tono del canto @e
+improntato soltanto al ripudio, netto e chiaro, della magia
+antica, come peccato.  E Virgilio @e soltanto espressione del
+pensiero di D.
+
+	|28-30.  Qui vive~: passo di dubbia interpretazione.  Il
+senso generale, per@o, @e chiaro: qui la piet@a vive, soltanto se si
+@e spietati; come in ^Inf.~ XXXIII, 150 <e cortesia fu lui esser
+villano>.  La prima difficolt@a @e nel senso da attribuire a |qui~,
+a questa bolgia, oppure qui nell'Inferno.  La seconda @e il
+significato di |passion~ che pu@o valere sia come ^compassione~
+(Barbi, ^Probl.~ I, 274), sia come ^perturbazione, contrasto~
+(Parodi, ^Bull.~, XX, 154; Vandelli e Rossi nei loro comm.), sia
+come ^condizione di passivit@a~, dando a |comporta~ il senso di
+^tollera, ammette.~  A questa difficolt@a si aggiunge quella del
+testo che offre anche la lezione ^compassion~, invece di
+|passion.~  Riferiamo qui le interpretazioni pi@u autorevoli: a)
+chi pi@u scellerato di colui che pretende di portare turbamento,
+impedimento, rendendo passivo il consiglio divino, che @e attivit@a
+per essenza? (Parodi, Rossi); b) chi pi@u scellerato di chi
+ammette una condizione di passivit@a per il giudizio divino che @e
+attivit@a onnipotente?  (Vandelli); c) chi @e pi@u scellerato di
+colui che al giudizio di Dio, quando Dio ha giudicato, porta
+passion, si affligge per i colpevoli giudicati e puniti? (Torraca
+e Momigliano); d) qual maggiore empiet@a che portar compassione a
+un castigo voluto da Dio? (D'Ovidio); e) quale empiet@a maggiore
+di chi ambisce a sostituirsi al giudizio di Dio?
+(Filomusi-Guelfi, ^Nuovi studi su D.~ Citt@a di Castello, 1911);
+f) empi gli indovini che offesero la divinit@a prevenendo il
+giudizio divino e portandovi le passioni umane (Casini, ^Bull.~,
+IX, 58-61); g) in questa bolgia la piet@a, la devozione verso Dio
+fiorisce (|vive~) quando @e spenta la compassione verso i dannati
+giacch$e nessuno @e pi@u empio di chi, come costoro, pretende
+portare turbamento ai decreti di Dio, prevedendo il futuro o
+compiendo malie per deviare il corso degli avvenimenti (Chimenz,
+290).  Di recente il Pagliaro ha illuminato il passo precedente
+spiegando cos@i: qui si osserva pi@u alta piet@a, quando non si ha
+piet@a; cio@e: la piet@a per la pena che punisce tale specie di
+peccatori @e contraria a quella fondamentale piet@a che @e
+disposizione di amore verso l'umanit@a (^Ulisse~ {Messina-Firenze,
+1966}, 614).  La critica dal D'Ovidio al Sapegno ha trovato
+esagerata e soverchia la sfuriata di Virgilio; mentre in realt@a
+il discorso vuol essere un monito morale al discepolo che ha
+pianto dinanzi alla deformazione della natura umana negli
+indovini, dandogli prima dello |sciocco~ cio@e uomo di poco senno,
+e poi la qualifica di ^empio~ (|scellerato~) perch$e la sua piet@a
+@e del tutto contraria alla disposizione di amore che si deve
+verso l'umanit@a.  Non un rimprovero, quindi; ma un avvertimento,
+nella seconda parte in forma perifrastica, ed oggettiva.  Del
+resto D. obbedisce alla sua tecnica rettorica medievale, secondo
+cui <praemittendum est generale proverbium>, prima di aprire <il
+tema della intensit@a visiva> nella parola di Virgilio (cfr.
+Sanguineti, ^l.c.~ {^Interpretazione di Malebolge~, Firenze, 1961
+[?]}, p. 78).
+
+	|31.  Drizza la testa~: la ripetizione del verbo, dopo
+quell'ammonizione morale, ha il tono di un'esortazione a vedere
+per trarre tutto l'insegnamento dovuto dalla visione.
+
+	|32-36.  s'aperse~: colui al quale (|a cui~) la terra si
+squarci@o dinanzi agli occhi dei Tebani, per cui tutti gridavano:
+Anfiarao, dove precipiti? perch$e lasci la guerra?  E non cess@o di
+rovinare gi@u nel profondo inferno, fino a Minosse.  Virgilio
+personaggio @e illuminato dalla cultura medievale di D., come
+dimostrano qui alcuni versi tratti dalla ^Tebaide~ di Stazio
+(VIII, 84-85) <at tibi quos...  Manes, qui limine praeceps Non
+licito per inane ruis?>, parole che Plutone rivolge ad Anfiarao,
+nel testo di Stazio, quando la sua anima arriva all'Ade, dopo che
+la terra si era squarciata sotto di lui, mentre combatteva
+nell'assedio di Tebe.  Anfiarao era indovino e aveva previsto la
+sua morte in quella guerra.  Pur essendosi nascosto, fu tradito
+dalla moglie Erifile e costretto a parteciparvi.  Nel testo di
+Stazio non c'@e ironia, mentre nel testo dantesco @e messo in
+rilievo il contrasto tra la misera fine e la vana scienza
+dell'indovino.
+
+	|37-39.  Mira~: insiste ancora sull'intensit@a visiva,
+onde evidenziare meglio il valore del contrappasso. 
+L'espressione <|di retro guarda~> iterata nell'altra ancora pi@u
+comica e stilizzata <|e fa retroso calle~> (cammina
+all'indietro), @e un accorgimento rettorico che solennizza la
+meditazione del poeta, mentre fa da contrasto con altre
+espressioni popolari (^letame~ {^Inf.~ XV, 75}, ^natiche~ {v,
+24}, ^mammelle~ {v. 52}), che sottolineano il disprezzo e il
+distacco del poeta, per quello spettacolo da lui mantenuto sempre
+in una linea oggettiva di rappresentazione plastica <|ha fatto
+petto de le spalle~>.
+
+	|40-44.  Tiresia~: il noto indovino tebano di cui Ovidio
+aveva narrato (^Metam.~, III. 324-31) che, avendo percosso con
+una verga due serpenti in amore, fu trasformato in femmina; e
+pot$e, in seguito, riprendere il suo sesso, dopo aver percosso di
+nuovo gli stessi serpenti con la medesima verga.  La terrena
+metamorfosi di Tiresia @e una anticipazione, una prefigurazione
+della sua deformazione eterna.  E non nasconde alcuna allegoria.
+
+	|45.  penne~: prima che riacquistasse la forma e
+l'aspetto di uomo; propr. la barba (|penne~), rivestimento, la
+forma di uomo; cfr. ^Purg.~, I, 42, ^piume~ = barba.
+
+	|46.  Aronta~: Arunte, aruspice e indovino etrusco,
+predisse con oscuro vaticinio la guerra tra Cesare e Pompeo e il
+trionfo di Cesare (Lucano, ^Phars.~, I, 580-87).  Spiega cos@i:
+Arunte @e colui che accosta il suo tergo, ha il suo tergo dietro
+il ventre di lui (|al ventre li s'atterga~), cio@e vien dietro
+Tiresia, anche lui stravolto.  Il verbo |attergarsi~ conferisce
+alla sequenza una nota realistica incisiva e sarcastica.
+
+	|47-48.  Luni~: che nei monti della Lunigiana, dove i
+Carraresi, che abitano nel piano sottostante (|di sotto~),
+coltivano, dissodano i miseri campi (|ronca~).  |Luni~ era
+un'antica citt@a etrusca presso le foci della Magra, gi@a scomparsa
+ai tempi di D.; cfr. ^Par.~, XVI, 73; Villani, ^Cron.~, I, 50. 
+Il verbo |ronca~ indica il menare la ronca per liberare il campo
+dalle erbe nocive, ed anche coltivare il terreno facendo
+terrapieni, come <si fanno anc'oggi in luoghi ripidi e scabrosi
+di montagna, e pi@u se ne doveva sentire il bisogno in altre et@a
+quando il grano non si aveva con tanta facilit@a dai mercati
+lontani: tale necessit@a si doveva sentire anche in Lunigiana,
+dove l'industria del marmo non aveva preso lo sviluppo che ebbe
+in seguito, e i monti stessi dovevano essere ancora atti, pi@u di
+oggi, a queste modeste culture> (Barbi, ^Con D. e i suoi interp.~
+{Firenze, 1941}, pp. 13-14); pu@o anche valere, ^taglia con la
+ronca, dibosca.~
+
+	|49-50.  ebbe~: <Di contro alla virtuosa fatica dell'uomo
+e alle bellezze della natura da lui vinta con l'onesto lavoro,
+sta la semplice e selvaggia spelonca in cui abit@o l'indovino, sta
+la vanit@a ma anche la nobilt@a del suo sogno: quel suo sguardo
+fisso alle stelle e al mare lontani, in cui la bellezza della
+natura non vinta dall'uomo si ammanta di un fascino misterioso. 
+E la figura dell'indovino, nel suo sogno di conoscenza, si
+staglia immota e solitaria su quel paesaggio con un atteggiamento
+di suggestione nuova> (Caccia, ^l.c.~ {^Il c. XX dell'Inf.~,
+Lect. scalig., Firenze, 1961}, 34).  Ma il paesaggio qui ha un
+valore autonomo e romantico; serve a creare la funzione di
+contrasto con la situazione attuale del dannato.
+
+	|51.  tronca~: non gli era impedita, troncata la veduta,
+la possibilit@a di contemplare il mare e il cielo.  Quel
+participio <|tronca~>, mettendo in risalto la diversit@a della
+misera condizione attuale con quella di un tempo lontano, @e
+apparso ai critici quale segno di un'ironia stridula.  <L'ironia
+che aveva fin qui sollevato col proprio impeto a lirica solenne e
+sfarzosa i versi su Aronta, si aduna tutta nel giro negativo
+dell'ultima frase, e scoppia stridula come un'improvvisa risata
+di scherno> (Parodi, in ^Atene a Roma~, Firenze, XI, 194; ed
+anche Caccia {^Il c. XX dell'Inf.~, Lect. scalig., Firenze,
+1961}, 33).  A noi sembra che sia una nota oggettiva del
+racconto, classicamente stilizzato in bocca a Virgilio.
+
+	|52-54.  E quella~: e quella che ricopre le mammelle, che
+tu non vedi (perch$e viene avanti col dorso), con le chiome
+sciolte (come, secondo la tradizione, usavano fare le
+profetesse), ed ha da quella parte opposta a quella a cui tien
+volto il capo (|di l@a~) le parti pelose del corpo (|ogne pilosa
+pelle~).  L'ultima espressione popolare fa netto contrasto con la
+stilizzazione rettorica del discorso-presentazione di Virgilio.
+
+	|55.  Manto fu~: costr. classica che conferisce una certa
+solennit@a.  Cerc{@o}, in senso intransitivo, equivale a ^vag@o,
+and@o vagando~, cfr. ^Inf.~, XXI, 124; il verbo conferisce una
+particolare efficacia alla figura di Manto fuggitiva, dopo la
+morte di Tiresia.
+
+	|58-60.  Poscia che~: dopo che il padre Tiresia mor@i e la
+citt@a di Tebe, sacra a Bacco (in volgare Baco era la forma
+normale deriv. da ^Bachus~; cfr. Parodi, ^Bull.~, III, 109),
+questa vag@o errando per il mondo per molto tempo.  Il discorso di
+Virgilio potrebbe sembrare una digressione dal tema fondamentale
+del canto che condanna gli indovini, ma in realt@a s'inserisce
+coerentemente in quel tessuto narrativo, in quanto @e pur esso una
+presa di posizione polemica che sconfessa le superstizioni circa
+le origini delle citt@a.  La cosa tanto pi@u @e valida, se si pensa
+che qui Virgilio sconfessa quanto egli stesso nell'^Eneide~ aveva
+scritto intorno all'origine di Mantova, attribuita ad Ocno figlio
+di Manto.
+
+	|62-63.  de l'Alpe~: il gruppo delle Alpi Retiche che
+segna il confine con la Germania (|Lamagna~) sovrastando al
+castello di Tiralli o Tirolo.  |Tiralli~ forma ladina.  |Benaco~:
+nome latino del lago di Garda, |Benacus~ (Plinio, ^H.N.~, II,
+106).
+
+	|64-66.  Per mille fonti~: l'incertezza del testo
+(|Pennino~ o ^Appennino~) con la mancanza del soggetto di <|si
+bagna~> ha reso pi@u difficile la spiegazione di questo passo.  Il
+senso @e: la regione compresa tra Garda, Val Camonica e le Alpi
+pennine (allora si diceva ^Alpes Apenninae~) @e bagnata da mille e
+pi@u fonti, di quell'acqua che d@a origine, alimenta, si ferma
+dando luogo (|stagna~) al lago su ricordato; cfr. Magnaghi, in
+<G.S.L.I.>, suppl. 19-21, pp. 383 sgg.; Vandelli, ^Studi dant.~,
+XIII, 65-68; X, 119 e comm., p. 162; Barbi, ^Probl.~, I, 209, che
+respinge l'ipotesi del Torraca <^a pendino~> nel senso di <^a
+pendio~> del dialetto calabrese.
+
+	|67-69.  Loco @e~: nel mezzo del lago @e un luogo (l'isola
+di Lechi, allora dei Frati) dove il vescovo di Trento e quelli di
+Brescia e di Verona potrebbero benedire (|segnar~) pubblicamente,
+in quanto la chiesetta di S. Margherita, era soggetta alla
+giurisdizione comune dei tre vescovi.  |s'e' fesse~: se facesse
+quel cammino, se avesse occasione di passare per quelle parti. 
+Il passo non contiene alcuna allusione ai vescovi che
+trascuravano quella chiesa, bens@i vuol dare una precisazione
+geografica e di diritto canonico (cfr. Bassermann, ^Orme di D. in
+Italia~, Bologna, 1902, p. 409).
+
+	|70-72.  arnese~: fortezza innalzata dai veronesi per
+difendersi dai bresciani e dai bergamaschi, dove la riva del lago
+@e pi@u bassa.
+
+	|73-75.  Ivi convien~: a Peschiera necessariamente
+(|convien~) tutta l'acqua, che non pu@o esser contenuta nel lago
+di Garda, deve traboccare (|caschi~) e diventa (|fassi~) fiume
+che scorre gi@a tra verdeggianti campagne (|verdi paschi~) o
+pascoli (il Mincio).
+
+	|76-78.  Tosto che~: non appena, subito dopo che l'acqua
+mette capo (|co~), comincia a correre come fiume, non si chiama
+pi@u Benaco ma Mincio fino a Gov$ernolo, dove si getta nel Po.
+
+	|79-81.  Non molto~: dopo un breve corso, dopo l'uscita
+dal Garda trova un avvallamento (|lama~) in cui s'impaluda e di
+estate talvolta suol essere scarsa l'acqua; il sogg. @e |la lama.~  
+|Talor~ va unito a <|di state~> nel senso: in qualche periodo
+dell'estate.
+
+	|82.  Quindi~: per questi luoghi passando Manto, la
+vergine selvaggia solitaria (|cruda~), oppure, crudele secondo il
+testo di Stazio (^Teb.~, IV, 463); <baster@a l'epiteto come
+ritratto> (Donati, ^Il c. XX dell'Inf.~, Firenze, 1920, p. 13).
+
+	|85-87.  arti~: arti magiche.  |Corpo vano~: le sue ossa,
+il corpo privo d'anima.  <Il paesaggio di Aronte rivelava il
+contrasto tra l'eroico lavoro umano e la misteriosa
+contemplazione, questo paesaggio rivela soprattutto un motivo, il
+motivo della solitudine di questa donna che non volle essere
+donna.  La vicenda di Manto sembra definirsi in quattro potenti
+aggettivi: le trecce ^sciolte~ {v. 53}, le terre ^incolte~ {v.
+84}, la vergine ^cruda~ {v. 82}, il corpo |vano.~  Ognuno degli
+indovini @e un vinto dal destino...  Anfiarao venne meno al sacro
+dovere dell'uomo di combattere per la sua terra.  Tiresia venne
+meno alla sua stessa virilit@a, Aronte all'altro sacro dovere
+dell'uomo, il lavoro; e l'indovina, la donna, Manto ha distrutto
+i doni della sua bellezza e della sua femminilit@a per quella sua
+tragica illusione... ma le circostanze di Manto hanno la potenza
+della fatalit@a dolorosa> (Caccia, ^l.c.~ {^Il c. XX dell'Inf.~,
+Lect. scalig., Firenze, 1961}, p. 35-37).  Nel ^Purg.~, XXII, 113
+fa dire a Virg. che la figlia di Tiresia @e con lui nel Limbo;
+perci@o si fanno diverse ipotesi: o che D. abbia dimenticato
+l'episodio di questo canto; o che il testo sia modificato in
+<evvi la figlia di Nereo, Teti>, secondo il Torraca e il Parodi. 
+Oppure che sia un'altra Manto, figlia di Ercole, o che si tratti
+di un'altra figlia di Tiresia, Dafne.
+
+	|91-93.  sorte~: senza fare altri sortilegi, come solevano
+fare gli antichi per dare il nome ad una nuova citt@a.  Coloro
+che costruirono la citt@a sopra le osse di Manto, la chiamarono
+Mantova in onore di colei che prima aveva scelto (|elesse~) quel
+luogo.  D. fa ribadire a suo modo da Virgilio, facendogli
+rinnegare quel che aveva scritto nell'^Eneide~, il suo desiderio
+di purificare le origini di Mantova da ogni macchia di magia, che
+in certo qual modo aveva contribuito nel Medioevo alla sua fama
+di mago; cfr. Rambaldi, ^Il c. XX dell'Inf., D. contro la
+magia~, Mantova, 1904, p. 59.
+
+	|94-96.  Gi@a fuor~: gli abitanti di Mantova un tempo
+furono pi@u numerosi (|spesse~), prima che la stoltezza (|la
+mattia~) del conte Alberto da Casalodi subisse l'inganno da parte
+di Pinamonte dei Bonacolsi.  Allude al consiglio frodolento di
+Pinamonte, che esort@o il conte Alberto ad esiliare molti nobili
+per placare il popolo.  Questi, infatti, privatosi del suo
+sostegno fondamentale, fu spodestato praticamente da Pinamonte,
+che signoreggi@o dal 1272 al 1291, <ferro et igne, domos evertens,
+viros mactans et relegans> (Benvenuto).
+
+	|97-99.  Per@o~: perci@o ti ammonisco, che se tu mai
+sentissi narrare l'origine di Mantova in altro modo
+(|altrimenti~), nessuna (|nulla~) falsa narrazione (|menzogna~)
+nasconda o usurpi (|frodi~) la verit@a.
+
+	|100-102.  prendon~: conquistano in tal modo la mia fede
+che qualsiasi altro ragionamento sarebbe per me privo di
+efficacia (|carboni spenti~).
+
+	|105.  ch$e solo~: perch$e solo a ci@o che @e degno di nota
+la mia mente @e intenta (|rifiede~: colpisce di nuovo, mira).
+
+	|106-111.  Allor~: ricomincia la rassegna delle anime
+dannate e il primo personaggio che Virgilio mostra a D. @e un
+augure, di cui egli aveva fatto cenno nell'^Eneide~ (II, 113). 
+Costruisci: colui che stende (|porge~) la barba sulle spalle
+(poich$e la testa @e stravolta) fu augure, al tempo in cui per la
+guerra di Troia la Grecia fu vuota di maschi, al punto che vi
+rimasero quelli che erano in culla (|per le cune~) e indic@o il
+momento favorevole (|diede 'l punto~), insieme a Calcante, per
+salpare (|tagliar la prima fune~) dal porto di Aulide, ove
+Agamennone aveva radunato gli eserciti greci.
+
+	|112.  Euripilo~: veramente Sinone, nel suo falso
+racconto, aveva detto che i Greci, impediti della partenza,
+mandarono Euripilo a consultare l'oracolo di Apollo il quale
+rispose: <Sanguine placastis ventos et vergine caesa...  Sanguine
+quaerendi reditus, animaque litandum Argolica>.  Supponendo che
+D. leggesse <^placasti~> e non <placastis>, si pu@o comprendere
+perch$e mai lo faccia presente in Aulide e consigliere insieme a
+Calcante del sacrificio di Ifigenia nella qualit@a di augure, cfr.
+Parodi, in <Atene e Roma>, XI, 243.
+
+	|113.  traged@ia~: l'^Eneide~ perch$e caratterizzato dalla
+gravit@a dell'argomento, secondo la poetica dantesca: <per
+tragediam superiorem stilum inducimus, per comediam inferiorem... 
+Stilo equidem tragico tunc uti videmur, quando cum gravitate
+sententie tam superbia carminum quam constructiones elatio et
+excellentia vocabulorum concordat> (^De Vulg. Eloq.~, II, vi,
+5-7).
+
+	|114.  quanta~: la lode di Virgilio umanizza in lui il
+personaggio, ristabilendo quel legame di familiarit@a tra D. e
+l'opera poetica del maestro.
+
+	|115.  poco~: magro, esile, piccolo (Barbi, ^Probl.~, I,
+273).
+
+	|116-117.  Michele Scotto~: filosofo scozzese, astrologo
+vissuto alla corte di Federico II, e famoso per le traduzioni
+dall'arabo di libri filosofici; <gran maestro di nigromantia>
+come lo chiama il Bocc. (^Dec.~, VIII, 9), che seppe, conobbe, il
+magistero (|gioco~) delle frodi magiche, l'artificio
+illusionistico.  D. si rif@a alla leggenda di mago e illusionista
+che il Medioevo gli attribuiva.
+
+	|118.  Guido Bonatti~: celebre astrologo di Forl@i,
+vissuto alla corte di Federico II e poi al servizio di Guido da
+Montefeltro; fu anche autore di un trattato di astronomia; cfr.
+^Bull.~, XXII, 200-54.  |Asdente~ citato con disprezzo anche nel
+^Conv.~, IV, xvi, 6, come <^lo calzolaio di Parma~>.  Fu famoso
+per certe predizioni avveratesi, come attesta Salimbene nella sua
+^Cronaca.~
+
+	|119-120.  vorrebbe~: ora che si trova nell'Inferno
+vorrebbe aver atteso (|inteso~) al cuoio e allo spago dei
+calzolai, ma si pente troppo tardi.
+
+	|121-123.  le triste~: le sciagurate che lasciarono
+l'ago, le opere femminili, la spola e il fuso, per darsi alla
+divinazione; e fecero malie con erbe, beveraggi, e fabbricando
+immagini di cera o d'altra materia, su cui agivano nell'intento
+di recar danno alle persone a cui somiglianza eran fatte. 
+Nell'anonimo @e il disprezzo di D.
+
+	|124-126.  Caino~: perch$e la luna (|Caino e le spine~
+secondo la leggenda popolare delle macchie lunari) gi@a tocca, si
+trova al confine dei due emisferi, quello boreale e quello
+opposto, e sta tramontando, tuffandosi nel mare presso Siviglia. 
+Son circa le sei e mezzo, perch$e nell'equinozio di primavera la
+luna tramonta alle sei del mattino.
+
+	|129.  fonda~: la selva oscura, mentre eri smarrito.  Ma
+D. non ne aveva parlato che indicando <la notte ch'io passai con
+tanta pi@eta>.
+
+	|130.  introcque~: intanto, dal lat. ^inter hoc.~  Voce
+arcaica del dialetto fiorentino, citata da D. come esempio di
+stile umile (^De Vulg. Eloq.~, I, xiii, 1-2).  Il tono finale del
+canto @e addirittura condotto sul piano del buonumore conversevole
+che man mano prevale sugli elementi narrativi e rappresentativi. 
+Soltanto lo squarcio della luce lunare, ricordata da Virgilio,
+riconduce D. personaggio ai limiti temporali del suo viaggio
+ultraterreno, al suo dovere di pellegrino dell'Inferno, cio@e alla
+sua realt@a psicologica di peccatore in cerca di purificazione. 
+Non vedrei, perci@o, in questo passo la suggestione romantica e
+magica che vi ha voluto vedere il Momigliano, il quale ha
+osservato: <In nessun altro canto questo cielo di luna piena
+adombrato sullo sfondo di una selva folta avrebbe fatto
+l'impressione che fa in questa bolgia di incantatori.  Ancora
+qui, in questo scorcio di paesaggio solingo, si tradisce il
+fascino che su D. esercita l'immagine degli indovini: D. che
+giudica quei peccatori, e Virgilio che li rinnega, finiscono per
+camminare in uno scenario di malia: la luna tramonta sulla selva
+fonda, e D. e Virg. camminano nella penombra> (^Comm.~ 148).  Ma
+in verit@a questo D. non dice; ed @e soltanto suggestione finissima
+del critico, che si sovrappone al poeta.

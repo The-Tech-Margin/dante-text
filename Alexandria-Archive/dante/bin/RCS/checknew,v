@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.00.27;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@same as checkform.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+#	Checknew-Shell script to check DDP formatted files for indent
+#		style consistency.  Accepts multiple filenames for
+#		arguments.  Written 2/23/89 by JMA, mostly to make using
+#		the awk program easier to use by elminating the need for
+#		specifying the path to the awk program file
+#	This script differs from checkform in using a different awk script
+#		that handles long paragraphs
+
+AWKFILE=$Dante/lib/checkform.new
+awk -f $AWKFILE $@@
+@

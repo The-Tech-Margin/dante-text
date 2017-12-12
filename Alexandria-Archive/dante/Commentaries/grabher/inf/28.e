@@ -1,0 +1,619 @@
+	|1-6.  Chi por$ia mai~ ecc.  Chi mai, pur usando |parole
+sciolte~ dai vincoli del metro e della rima -- cio@e la prosa
+(lat. ^oratio soluta~ e ^verba soluta modis)~ -- potrebbe |dicer
+a pieno~, rappresentare pienamente, il |sangue e le piaghe che io
+ora vidi~, per quanto provasse pi@u volte a descriverle (|per
+narrar~ ecc.)?  |Per certo ogne lingua verr$ia meno~, sarebbe
+insufficiente, a causa del linguaggio (|sermone~) e della |mente~
+umana |che hanno poco seno~, scarsa capacit@a -- nel senso di
+"capienza" --, |a comprender~ -- a contenere in s$e per poi
+esprimerla -- cosa tanto straordinaria e terribile (|tanto~: alla
+lat.).  Il Poeta pi@u che attribuire alla prosa maggiori
+possibilit@a rappresentative, sente il tormento del mondo che urge
+dentro per trovare la sua forma suggellato e conchiuso nel verso.
+
+	|7-21.  S'el s'aunasse~ ecc.  Senso: Se ora si radunasse
+tutta la gente morta in tante battaglie antiche e recenti e
+ciascuno mostrasse le sue membra mutilate, non ci sarebbe alcuna
+possibilit@a (|sarebbe nulla~: ^Inf.~, IX, 57) di eguagliare
+(|d'aequar~: di adeguare) |il modo sozzo~ -- la orribile e
+ripugnante condizione -- |de la nona bolgia.~  Dante presenta
+questo carname prima (7-18) nella sua visione complessiva, come
+massa, mediante la rievocazione di |tutta la gente~ uccisa o
+mutilata, e con immagini che richiamano pi@u in generale la strage
+e il dolore -- |del suo sangue dolente.~.. |di colpi doglie.~..
+|l'ossame~ --; poi in una visione individuale di membra
+orribilmente straziate: |e qual forato suo membro e qual mozzo.~ 
+Si diguazza in quello scempio, in quell'orgia di sangue.  E
+l'effetto finale -- quale @e quello della bolgia di cui si @e fin
+qui preparata la orribile sensazione -- @e non pi@u solo "doglia"
+ma raccapriccio e ribrezzo: |sozzo.~  Immagine che, staccata con
+vigore, chiude e domina tutta la scena.  Lo spunto del passo
+(|S'el s'aunasse~ ecc.) deriva da una poesia di Bertran de Born,
+la cui figura vedremo tra poco (118 sgg.), e precisamente da un
+^Pianto~ in morte del ^Re giovane~ (135).  Traduco i versi: <Se
+tutti i lamenti e i pianti e le afflizioni e i dolori e le
+sventure e le miserie, che mai si udirono in questo mondo
+dolente, fossero insieme, sembrerebbero tutti ben piccola cosa di
+fronte alla morte del giovane re inglese>.
+
+	|8-12.  fortunata.~  Nel senso di "fortunosa", soggetta a
+tante vicende della sorte (^Inf.~, XXXI, 115).  -- |terra di
+Puglia~: tutta la parte continentale del Regno di Napoli e
+Sicilia.  -- |per li Troiani~: a causa dei Romani che, discesi da
+Enea e dai suoi compagni, Dante chiama |Troiani.~  Su questa
+discendenza egli insiste anche nelle opere minori.  Qui si allude
+alle guerre condotte dai Romani contro i Sanniti e contro Pirro. 
+-- |e per la lunga guerra~ ecc.: la 2+a~ guerra punica (218-202 a.
+C.) in cui avvenne la battaglia di Canne, dove tanti furono i
+Romani uccisi che, con gli |anelli~ tolti ai cavalieri e senatori
+caduti, si dice che Annibale empisse <tre moggia> (^Conv.~, IV,
+v, 19).  Tutte cose attestate da |Livio~ che -- come dice Dante
+con reverenziale fede nell'autorit@a del grande storico latino --
+|non erra.~
+
+	|13-14.  con quella~ ecc.: |con quella gente~ -- i
+Saraceni -- che sent@i il dolore delle ferite per essersi opposta
+al normanno Roberto Guiscardo (^Par.~, XVIII, 48); il quale,
+nella seconda met@a dell'XI sec., cacci@o i Saraceni dall'Italia
+meridionale.
+
+	|15-18.  e l'altra~ ecc.: e con |l'altra~ gente, |il cui
+ossame~ @e ancora ammucchiato a Ceprano e presso Tagliacozzo.  Si
+allude ai morti delle guerre angioine, che s'iniziarono nel
+gennaio 1266 quando Carlo I d'Angi@o entr@o nel Regno di Napoli per
+il ponte di Ceprano sul Liri, lasciato libero, come si credeva,
+per il tradimento dei baroni di Puglia (9 n.) -- Dante,
+iperbolizzando, dice che "fu bugiardo |ciascun~ pugliese" -- e
+poi, sconfitto e ucciso Manfredi a Benevento (febbraio 1266),
+ebbero il loro epilogo nella battaglia avvenuta presso
+Tagliacozzo (agosto 1268), dove cadde la potenza sveva con la
+disfatta di Corradino.  Tale disfatta fu dovuta al |vecchio
+Alardo~ di Valery che |vinse sanz'arme~, consigliando a Carlo
+d'Angi@o di tenere nascosta una schiera di riserva, la quale
+piomb@o sul campo quando gli Svevi, gi@a certi della vittoria,
+erano sbandati.  Riguardo a |Ceprano~ si osservi che l@i battaglia
+non vi fu e quindi non vi poteva essere |ossame.~  Poich$e non
+credo che Dante confondesse Ceprano con Benevento -- a cui allude
+chiaramente in ^Purg.~, III, 128 -- mi sembra piuttosto che egli,
+considerando il passaggio del ponte di Ceprano come un fatto
+decisivo della guerra, raccolga idealmente le sue stragi intorno
+a quel luogo.
+
+	|22-31.  Gi@a veggia, per mezzul perdere o lulla.~.. 
+Costruisci e intendi: Certo una |veggia~ (una botte) |per~ il
+|fatto~ di |perdere mezzule~ (la doga mediana del fondo) o
+|lulla~ (una delle due doghe laterali del fondo stesso: a forma
+di mezzaluna) |non si pertugia cos$i~, non si apre tanto, |com'io
+vidi~ aprirsi |uno~, tutto |rotto~, spaccato, |dal mento~ fino
+all'ano (|dove si trulla~: dove si emette quel suono emesso da
+Barbariccia.  Cfr. <^ad trulizandum~> con cui ^Benvenuto~ lo
+spiega: ^Inf.~, XXI, n. 136-139).  Qui la persona dei peccatori @e
+parte di un unico carname e Dante la rappresenta squarciata,
+dilaniata, sanguinante.  Qui l'uomo, come oggetto di pena -- ed @e
+pi@u amaro il contrasto con la sua dolorante anima -- appare nella
+pi@u cruda materialit@a; onde certi particolari che lo fanno
+somigliare a una bestia o a una cosa.  Ecco il paragone della
+|veggia~, della botte, reso pi@u crudo dal preciso richiamo alle
+sue doghe (|mezzule~ o |lulla~); e lo squarcio di quel corpo --
+assente per ora ogni idea di dolore -- @e solo un vasto pertugio
+(|cos$i non si pertugia~) e uno dei suoi limiti @e segnato dalla
+triste lordura di quel |dove si trulla.~  Da questo pertugio si
+apre una visione sozza e orribile: come di bestia squartata.  |Le
+minugia~, le budella, |pendevano tra le gambe~; |la corata~ --
+cuore, polmoni, fegato e milza -- appariva (|parea~) insieme allo
+stomaco e all'intestino, che complessivamente sono un |sacco~, e
+|tristo~, cio@e lurido ma con un'idea d'infinita miseria, poich$e
+esso @e visto nella sua lercia funzione di trasformare in
+escrementi -- la parola |merda~ serve a dare un lercio rilievo --
+|ci@o che si trangugia~: il cibo inghiottito, o, meglio,
+ingozzato; come dice quel ^trangugiare~ sfumato anch'esso di
+animalit@a.  Al disopra dello scempio c'@e la tristezza di chi
+guarda l'umano corpo nel crudo aspetto della sua materia e nella
+sozzura delle sue funzioni animalesche: |infin dove si trulla.~..
+|le minugia.~.. |la corata.~.. |'l tristo sacco che merda fa di
+quel che si trangugia.~  Alla novit@a della scena, all'intensit@a
+dell'orrore e della nausea, corrisponde l'intensit@a
+dell'interesse di Dante che |tutto~ -- con gli occhi e con
+l'animo -- |s'attacca~ a quella vista: potente immagine che
+traduce poeticamente l'^haeret defixus~ di ^Virgilio~ ( ^En.~, I,
+495).  Il dannato sente quello sguardo e risponde con uno sguardo
+che si riempie di dramma per la sospensione con cui @e pausato e
+per il gesto che lo segue: |guardommi, e con le man s'aperse il
+petto.~..  Quell'aprirsi con le proprie mani il petto squarciato
+e con un gesto che solo un beccaio potrebbe compiere sul corpo di
+una bestia, suscita tanto pi@u orrore in quanto @e una creatura
+umana che lo compie: per mostrare lo strazio del proprio corpo e
+con la disperata coscienza della propria miseria.  Che risuona in
+accorate parole: |Or vedi com'io mi dilacco! vedi come storpiato
+@e Maometto~!  @E una voce che implora attenzione e compassione al
+proprio stato -- |Or vedi.~.. |vedi.~.. -- e quel parlare di s$e
+in terza persona e quella trasposizione della forma verbale --
+|come storpiato @e Maometto~ --, accrescono rilievo alla persona,
+che quasi si distacca da colui che parla: per imporsi, con
+l'antico nome e la grande fama, a far pi@u pensosa l'attenzione di
+chi guarda.  La visione del carname, dello scempio, @e servita e
+serve solo a far grandeggiare cupi toni di orrore, di tragedia,
+di disperato strazio d'anime dannate, non gi@a toni comici,
+caricaturali, buffoneschi o simili che alcuni commentatori
+rilevano, e cos@i spesso, in questo Canto; che @e invece uno dei
+pi@u seri e agghiaccianti nella silenziosa rappresentazione della
+divina giustizia.
+
+	|30.  com'io mi dilacco~: come io mi apro, come sono
+squarciato in due.  Maometto, che "s'apre il petto", ora mostra
+tutto l'orrore della ferita che lo divide in due.  |Dilaccare~
+significa "separare, dividere, aprire le cosce" (|lacche~); onde
+"divaricare, aprire" e simili (Cfr. ^Crescini~, ^Lect. D.~).
+
+	|31.  Maometto.~  Il fondatore dell'Islamismo, nato alla
+Mecca nel 560 e morto a Medina nel 633.  Fu considerato come un
+vero scismatico nel Medioevo, perch$e si credette, come attestano
+gli antichi commentatori, che avesse <predicata la nostra fede e
+recato molta gente a la nostra legge> e fosse <Cardinale> e che
+poi, deluso nella sua aspirazione di diventar <Papa lui>,
+predicasse <il contrario ch'avia predicato> (^Ch. An.~).  Ci@o
+pot$e forse essere accreditato anche dagli elementi che per la sua
+fede egli attinse dalla religione ebraica e cristiana <mescolando
+quella di Mois@e con quella di Cristo> (^Buti~).
+
+	|32-33.  Al$i.~  Al$i (597-660), cugino e genero di
+Maometto, fu uno dei suoi pi@u ardenti seguaci; ma poi,
+discordando in parte da lui, fond@o una nuova setta, che port@o il
+primo germe di scisma in seno all'Islamismo.  Alcuni antichi
+fanno anche Al$i cristiano e <chierico>, anzi maestro di Maometto
+nell'errore.  -- |fesso~ ecc.: spaccato nel volto dal mento alla
+fronte dove cominciano i capelli.  Poich$e Al$i ha contribuito a
+completare lo scisma aperto da Maometto, la ferita di Al$i, dal
+mento in su, @e la continuazione della ferita di Maometto, che va
+dal mento in gi@u.
+
+	|34-36.  E tutti li altri~ ecc.  E tutti gli altri che tu
+vedi in questa bolgia, da vivi seminarono discordie e divisioni e
+perci@o sono "fenduti", squarciati, cos@i.  Come gi@a avvertiva
+Guido da Pisa, |scandalo~ e |scisma~ si riferiscono
+rispettivamente a discordie nel campo civile e a divisioni nel
+campo religioso.  Per la differenza tra scismatici ed eretici,
+che Dante non pone insieme, si veda ^Inf.~, IX, n. 127-129.
+
+	|37-42.  qua dietro.~  Il demonio che i Poeti non vedono
+@e stato da poco sorpassato dai dannati.  @E un particolare
+importante, poich$e le ferite, che poi si richiuderanno, ora si
+presentano in tutto il loro orrore: appena aperte.  -- |che
+n'accisma~ ecc.: <che divide e taglia noi> (^Buti~).  Ci sembra
+questo il significato pi@u aderente -- da |cisma~ che si us@o per
+^scisma~ -- invece che "acconciare, adornare", che risale al
+prov. ^acesmar~ (fr. a. ^acesmer~) e che qui dovrebbe avere senso
+ironico.  Impossibile @e l'ironia sulla propria pena da parte di
+chi, come Maometto, l'ha mostrata in tutto il suo orrore, n$e
+s'accorda con la tragica seriet@a dell'espressione che segue: |s$i
+crudelmente.~  E poi gli squarci della spada non sono
+"acconciature, adornamenti" neppure in senso ironico.  --
+|risma.~  @E <lo legato delle carte della bambagia di XII
+quaderni, e qui si pone per la setta [= schiera o simili]>
+(^Buti~).  -- |altri~: i dannati, noi.  Allude a persona
+determinata (^Inf.~, XXVII, 56 n.).  -- Intendi: |Qua dietro~ c'@e
+|un diavolo che s$i crudelmente~ ci squarcia (|n'accisma~),
+|rimettendo~ -- sottoponendo di nuovo -- |al taglio de la spada
+ciascuno~ che appartiene a |questa~ nostra |risma~ -- specie,
+schiera -- di peccatori; ci@o avviene quando abbiamo compiuto il
+giro della bolgia (|quando avem volta~ ecc.), perciocch$e le
+ferite sono rimarginate prima che i dannati rivadano dinanzi a
+lui.
+
+	|43-45.  'n su lo scoglio~: sul ponte -- |muse~: ^musi~;
+da ^musare~: tenere il muso -- l'atto si sar@a riferito in origine
+ad animali -- fisso su qualcosa con attenzione o curiosit$a.  Cfr.
+^Il fiore~, CLXIV, 13 e ^Bocc.~, ^Filostrato~, II, str. 39.  --
+|forse per indugiar~ ecc.  Il dannato, non sapendo che Dante @e
+vivo, suppone che egli, sul ponte, s'indugi a guardare, per
+giungere pi@u tardi a quel luogo dell'Inferno dove dovr@a scontare
+|la pena~ assegnata da Minosse in base alla colpa di cui il
+peccatore stesso s'@e accusato (^Inf.~, V, 8 sgg.).
+
+	|46-50.  N$e morte~ ecc.  N$e la morte lo ha ancora
+raggiunto (|giunse~: ^Inf.~, XXII, 126), n$e colpa da lui commessa
+lo conduce al tormento infernale ma, per dare a lui piena e
+diretta conoscenza dell'Inferno, io debbo condurlo attraverso di
+esso di cerchio in cerchio fino al fondo.
+
+	|54.  per maraviglia~ ecc.  Anche nelle anime
+dell'Antipurgatorio Dante vivo susciter@a un attimo d'|oblio~ e
+una |maraviglia~ che @e stupore misto a smarrimento; ma ben
+diversi saranno i toni e i riflessi spirituali (^Purg.~, II,
+67-75 n.; ecc.).  Qui nell'Inferno l'|oblio~ e la |maraviglia~
+hanno qualcosa di tragico, di allucinante, perch$e i dannati
+rimpiangono disperatamente la vita che per loro, rispetto al
+presente dolore, @e sempre "bella", "serena"; e quando vedono
+Dante s'arrestano come pietrificati |obliando il mart$iro~, e la
+|maraviglia~ di quello sguardo @e la sbigottita disperazione di
+chi, straziato nel corpo e nell'anima, ricontempla la palpitante
+immagine della vita immune dai propri mali.
+
+	|55-63.  Or d$i a fra Dolcin.~..  Dolcino Tornielli
+novarese -- chiamato |frate~ sebbene non lo fosse -- fu discepolo
+di Gherardo Segalelli, fondatore della setta dei ^Fratelli
+Apostolici~, che voleva si tornasse alla povera e semplice vita
+degli Apostoli e dei primi cristiani, ma asserendo princ$ipi
+schiettamente ereticali.  Arso vivo il maestro, Dolcino divenne
+capo della setta e acquist@o molti proseliti, resistendo a una
+fiera crociata bandita contro di lui dal Pontefice.  Con pochi
+seguaci si ritir@o sul monte Rebello, luogo fortissimo del
+Biellese, n$e si sarebbe arreso se la neve che intorno lo strinse
+(|stretta di neve~) non avesse facilitato il blocco posto dal
+|Noarese~, cio@e dai Novaresi e dagli altri crociati, |recando~
+loro quella |vittoria che altrimenti~ non sarebbe stato |l@eve~ --
+lieve, facile -- acquistare.  Dolcino capitol@o il 26 marzo 1307 e
+poco dopo fu giustiziato con altri della setta.  Maometto --
+anche se, per la prescienza dei dannati, vede la futura sorte di
+Dolcino -- ha un vivo senso di compassione verso questo suo
+compagno d'errore e, quasi illudendosi di poterlo salvare, vuole
+metterlo in guardia e lo esorta ad |armarsi di vivanda~, che sar@a
+appunto "l'arma" pi@u efficace per resistere all'assedio della
+|neve~ venuta in ausilio ai nemici.  L'avvertimento di Maometto
+-- che non ha nulla di maligno e d'ironico come pensano alcuni --
+@e dettato solo da una sollecitudine che trova la sua logica nel
+sentimento e che @e provata anche dall'atto apparentemente strano
+di Maometto.  Egli aveva gi@a |sospeso un pi@e per girsene~, cio@e
+teneva un piede poggiato sulla punta e col calcagno sollevato --
+modific@o in parte la giusta interpretazione del ^D'Ovidio~ (^St.
+D.~, VII, 21 sgg.) -- quando, sentendo che Dante @e vivo,
+s'arresta anche lui (53) e rimane nella posizione di chi ha gi@a
+iniziato il passo: proprio per l'ansia di dir cosa che vivamente
+prema.  Pronunciate queste parole d'ammonimento (|esta parola~)
+|distese in terra~ il piede che era rimasto col tallone sollevato
+e comp@i l'iniziato passo: per |partirsi.~  Quindi il "|pi@e
+sospeso~" di Maometto, senza nessuna sfumatura comica o
+grottesca, mira solo a rilevare il sentimento che ferma lui di
+colpo in quella posizione.  E tragicamente seria, non maligna o
+ironica o grottesca, appare qui l'intera figura di Maometto.
+
+	|64-75.  Un altro, che forata avea la gola.~..  @E Pier da
+Medicina, che Dante mostra di aver conosciuto (71), ma che non si
+@e potuto individuare con precisione.  Forse appartenne alla
+famiglia dei "cattani" di Medicina, terra tra Bologna e la bassa
+Romagna.  Molte cose raccontano di lui i commentatori antichi
+come seminatore di discordie; ma senza ricordare fatti precisi e,
+forse, per suggerimento del presente passo.  Piero non @e tutto
+squarciato come Maometto, ma incute un pi@u tragico senso d'orrore
+con quell'aspetto cos@i devastato.  La gola @e |forata~, il naso
+|tronco~: di netto; come quell'|orecchia~ che Dante fa sentire di
+riflesso mozzata, rappresentando il particolare dell'altra che
+spicca |sola.~  @E un'immagine mostruosamente inumana, fissata
+d'improvviso nella |maraviglia~ di quel |riguardare~, posta in
+rilievo |innanzi a li altri~ mentre, per parlare, |apre la canna~
+della gola, che @e tutta intrisa di sangue: |ch'era di fuor d'ogni
+parte vermiglia.~  Da quella |canna~, secondo noi, Dante
+veramente immagina che sgorghino le parole, poich$e |disse~ @e
+legato con quell'|apr$i la canna~, che @e un aprirsi non in senso
+figurato per dire "apr@i la bocca", ma un reale aprirsi della
+ferita che spaccava la gola: come @e rilevato anche
+dall'attenzione rivolta al sangue che sgorga |di fuor~ e |d'ogni
+parte.~  Dante ora vede solo quella |canna~ che si apre, e che
+parla per lo stesso orribile prodigio per cui parler@a, staccata
+dal busto, la testa di Bertram dal Bornio.  Caldamente
+appassionata l'invocazione a Dante, in cui @e cos@i scandito il
+senso della propria miseria -- |O tu cui colpa non condanna.~..
+-- e cos@i limpida per nostalgia si apre la visione di quel |dolce
+piano che da Vercelli a Marcab@o dichina.~  E come suona quel
+|rimembriti~, che richiama il ^ricorditi~ di Pia (^Purg.~, V,
+133) con un altro tono di dramma, ma con la stessa forma
+d'imperativo impersonale che attenua la richiesta nella
+discrezione di un accorato |ti sovvenga~!
+
+	|66.  mai ch'una~: altro che una (^Inf.~, IV, 26 n.).
+
+	|67.  ristato~ ecc.: fermatosi ecc.  Cfr. n. 52-54.
+
+	|71-72.  e cu' io vidi~ ecc.: e che io ho visto su in
+Italia.  Ma il dannato dubita di poter scambiare Dante con un
+altro che gli rassomigli.
+
+	|74-75.  lo dolce piano~ ecc.: la pianura padana tutta
+abbracciata nei suoi estremi confini: da |Vercelli~, in Piemonte,
+|a Marcab@o~ nel territorio di Ravenna.
+
+	|76-90.  E fa sapere a' due miglior da Fano.~..  Poich$e
+|qui~ nell'Inferno |l'antiveder non @e vano~ (^Inf.~, X, 100 sgg.)
+come su nel mondo, Pier da Medicina prega Dante di manifestare a
+|Guido~ del Cassero e |ad Angiolello~ di Carignano il
+|tradimento~ che Malatestino Malatesta macchiner@a contro di loro,
+chiamandoli |a parlamento~ e facendoli poi gettare in mare
+|presso a la Cattolica~, paese sull'Adriatico tra Rimini e
+Pesaro.  Poich$e di questo fatto non si ha alcuna testimonianza
+storica -- ma ci@o non vuol dire che non sia avvenuto -- ^V.
+Rossi~ ha supposto che il dannato continui anche nell'Inferno a
+inventare inimicizie per seminare dissensi tra i |due da Fano~ e
+Malatestino.  La questione non interessa dal punto di vista
+storico, ma per il carattere del dannato, che il ^Rossi~ --
+segu$ito da altri -- immagina simulatore, maligno, ferocemente
+sarcastico, pur dopo aver notato il suo <esordio cortese e
+soavemente elegiaco>.  L'errata interpretazione deriva
+dall'implicito preconcetto che i dannati debbano continuar sempre
+a esercitare le male arti che esercitarono in vita, mentre nella
+^Commedia~ non @e cos@i e, in quanto ai dannati di questa bolgia --
+come vedremo anche pi@u chiaramente in Curione, Mosca e Bertram
+dal Bornio -- essi sono cos@i disfatti, angosciati, da non
+permettere atteggiamenti ironici o di scherno.  Il |Fa sapere.~..
+di Pier da Medicina ha riscontro nell'^Or d$i a fra Dolcin~
+{v.55}... di Maometto, che abbiamo mostrato non aver nulla di
+falso o d'ironico; senza dire che tutte le parole di Piero
+rivelano l'esecrazione per il delitto inumano di |un tiranno
+fello~, il palpitante orrore per un fatto non inventato e in cui
+si riflettono i sentimenti del Poeta.  Nel testo non un solo
+accento fa pensare alla simulazione; che oltre tutto sarebbe
+sciocca e certo contraria a un costante atteggiamento
+dell'Alighieri che, quando accenna a figure storiche -- come qui
+Malatestino e prima Fra Dolcino -- trasfigura poeticamente ma non
+inventa.  Si veda quel serissimo richiamo alla prescienza dei
+dannati -- |che se l'antiveder qui non @e vano~ --, la compassione
+e la simpatia per le due vittime, il fierissimo sdegno contro
+Malatestino, bollato -- e dovrebbe essere simulazione anche
+questa! -- come |tiranno fello~, come |quel traditor che vede pur
+con l'uno~; e poi la smisurata cornice entro cui il delitto
+giganteggia unico e solo -- |Tra l'isola di Cipri e di
+Maiolica.~.. -- il rilievo che gli viene dato -- |non vide mai si
+gran fallo Nettuno~ --, l'insistenza con cui si escludono
+paragoni -- |non da pirate, non da gente argolica~ --; infine
+l'ironia, questa volta, ma amarissima e dettata sempre da sdegno
+verso il traditore come da piet@a verso le vittime: |poi far@a s$i,
+ch'al vento di Focara non sar@a lor mestier v$oto n$e preco.~  I
+sentimenti con cui @e vissuta simile scena sono gli stessi di
+Dante e non appaiono fuor di luogo in un dannato oppresso dallo
+strazio di questa bolgia e che ha esordito in modo cos$i
+<cortese>, cos@i <soavemente elegiaco>.
+
+	|76-77.  a' due miglior~ ecc.; ai due pi@u ragguardevoli
+cittadini di Fano: Guido del Cassero e Angiolello di Carignano.
+
+	|79-81.  vasello~: nave (^Purg.~, II, 41).  --
+|mazzerati.~  <|Mazzerare~ @e gittare l'uomo in mare in un sacco
+legato, con una pietra grande; o legate le mani e i piedi, e uno
+grande sasso al collo> (^Buti~).  Secondo il ^Crescini~ (^Lect.
+D.~) ^mazzerare~ -- forma non toscana ma usata dai toscani --
+vale ^macerare~, riferito a cose che si tengono in acqua perch$e
+s'ammolliscano.  -- |f@ello~: malvagio, perfido.
+
+	|82-84.  Tra l'isola~ ecc.  Nettuno, dio del mare, non
+vide mai commettere un s$i gran fallo in tutta la distesa del
+Mediterraneo -- i cui limiti, a oriente e a occidente, sono
+genericamente indicati con l'isola di Cipro e di Maiorca --; n$e
+da parte di pirati, n$e da parte di Greci, di cui, per antica fama
+si temevano i tradimenti (cfr. ^En.~, II, 49: ^timeo Danaos~
+ecc.).
+
+	|85-87.  Quel traditor~ ecc.  @E Malatestino Malatesta,
+che vedeva solo (|pur~) con un occhio, perch$e privo dell'altro. 
+Nel 1300 non |teneva~ Rimini -- successe al padre Malatesta nel
+1312 -- ma gi@a vi faceva |de' denti succhio~ e Dante considera
+che gi@a partecipasse al governo.  Cfr. ^Inf.~, XXVII, 45-47 n. 
+-- |che tal~ ecc.: quella terra che un tale -- ^Curio~ (91 sgg.)
+-- che sta qui con me vorrebbe non aver mai veduta.
+
+	|89-90.  poi far@a s$i~ ecc.: poi, ordinandone l'uccisione
+(79-81), far@a in modo che a loro non saranno pi@u necessari n$e
+voti n$e preghiere per scampare alle tempeste suscitate dal |vento
+di Focara~, monte sul mare tra Pesaro e Cattolica.  Essi,
+infatti, saranno uccisi prima di giungere in quei paraggi.
+
+	|91-93.  Dimostrami~ ecc.  Mostrami e |dichiara~ --
+chiariscimi, spiegami -- chi @e colui al quale riusc@i tanto amaro
+l'aver veduto Rimini (86-87).  Ma Dante con vigorosa sintesi
+dice: |chi @e colui da la veduta amara.~  Qui si allude a C.
+Curione (^Curio~: v. 102), tribuno della plebe, che, abbandonato
+il partito di Pompeo per passare a quello di Cesare, fu
+^scacciato~ (97) da Roma.  Dante segue ^Lucano~ (^Fars.~, I), il
+quale immagina che Cesare, dopo aver attraversato il Rubicone ed
+essere entrato in Rimini, sia qui raggiunto da Curione, che
+tronca in lui ogni esitazione.  Il discorso di Curione a Cesare @e
+sintetizzato da Dante ai vv. 98-99, che traducono un solo verso
+della ^Farsaglia~ (I, 281): <^tolle moras; semper nocuit differre
+paratis~>.  Dante, che altrove celebra il passaggio del Rubicone
+e la vittoria di Cesare in quanto si lega alla missione
+provvidenziale dell'Impero (^Par.~, VI, 61 sgg.), danna Curione,
+perch$e considera il suo consiglio a Cesare in s$e e per s$e,
+<nell'assoluto suo valore morale, come facella accenditrice di
+una immane guerra cittadina> (^Crescini~, ^cit.~).  ^Lucano~
+inoltre giudica <venale> la lingua di Curione: <^audax venali
+comitatur Curio lingua~> (^Fars.~, I, 269).
+
+	|94-102.  Allor puose la mano a la mascella.~..  |Curio~
+ha |la lingua tagliata ne la strozza~ -- gi@u, verso la canna
+della gola dove s'innesta -- e Pier da Medicina, aprendogli la
+bocca, quasi come un beccero farebbe con una bestia, mostra lo
+scempio di quella lingua divelta dalle sue radici, mostra il
+tragico contrapasso |gridando: <Questi @e desso, e non favella~>. 
+C'@e orrore nel grido e nelle parole di Piero, perch$e lo scempio
+compiuto dalla divina giustizia pesa come un incubo su tutti in
+questa bolgia ed egli ne @e "sbigottito" non meno di Curio.  Di
+cui "dimostra e dichiara" pena e colpa non per crudele rivalsa,
+ma solo perch$e richiesto da Dante (91-93).  Vigoroso @e stato lo
+scorcio con cui Piero ha mostrato la pena del compagno, vigorosa
+sar@a la sintesi della sua colpa: in un inciso l'esilio da Roma --
+|scacciato~ --, poi il |dubitar di Cesare~ "sommerso" dal peso
+del risoluto consiglio: |il fornito~, cio@e chi @e pronto, |sempre
+con danno l'attender sofferse~, toller@o l'indugio.  E Curio @e l$i
+tutto |sbigottito~, con la parola mozzata |ne la strozza~ insieme
+alla sua lingua: lui |che a dir fu cos$i ardito~!
+
+	|103-111.  E un ch'avea l'una e l'altra man mozza.~..  @E
+Mosca dei Lamberti che, nell'adunanza della consorteria degli
+Amidei, tenuta per deliberare circa il modo di punire l'offesa
+recata da Buondelmonte dei Buondelmonti (^Par.~, XVI, 136 sgg.),
+tagli@o corto con la famosa frase "|Capo ha cosa fatta~", che vuol
+dire: <Cosa fatta non pu@o disfarsi; riesce ad un capo, ad un
+fine, a un effetto; e perci@o si uccida addirittura Buondelmonte,
+senza pensare troppo com'andr@a a finire> (^Del Lungo~, ^Dino
+Comp.~, II, 15).  Ci@o |fu 'l mal seme per la gente tosca~ --
+poich$e, secondo la tradizione, la morte di Buondelmonte (1215),
+provoc@o in Firenze quella divisione in Guelfi e Ghibellini che
+poi si estese a tutta la Toscana -- e segn@o la mortale rovina
+della famiglia del Mosca (|E morte di tua schiatta~), poich$e i
+Lamberti, ghibellini, furono non solo banditi ma tra i pi@u
+ostinatamente perseguitati quando in Firenze, come conseguenza
+della battaglia di Benevento (1266), definitivo fu il prevalere
+dei guelfi.  Mosca Lamberti ha ambedue le mani mozzate e il Poeta
+fissa con orrore |l'una e l'altra~; nel pauroso rilievo di un
+verso battuto da accenti che distaccano tutte le immagini: |e un
+ch'avea l'una e l'altra man mozza.~  E quelle "mani" mozzate,
+quei "moncherini" s'incidono pi@u duramente nel suono tronco delle
+parole: |man~, |moncherin~; e i moncherini si levano nella |fosca
+aura~ infernale e, come tragici aspers@or#i, fanno |sozza~ di
+|sangue~ la |faccia.~  Non @e pi@u quel ^tinger di sanguigno~ che
+su Paolo e Francesca riflette solo la piet@a di una tragedia, ma
+c'@e l'orrore e il raccapriccio dello scempio, del carname, la cui
+immagine torna ossessionante in questa bolgia.  Il Mosca parla
+con una drammatica sobriet@a; e non dice ^rimembriti~ (73), non
+usa l'imperativo nemmeno nella sua attenuata forma impersonale di
+preghiera, usa un |ricordera'ti~, che vuol dire: "ti ricorderai
+di me per avermi visto in questo strazio"; e in una parola --
+|lasso~! -- assomma la disperazione per tutte le conseguenze
+della sua colpa; poi rievoca le fatali parole -- |Capo ha cosa
+fatta~ -- scandendole con una pensosit@a che sembra rompere il
+limite dell'endecasillabo con quell'incontro di vocali -- |Capo
+ha~ -- in cui la necessaria elisione tende a essere sopraffatta
+dallo iato; da ultimo fa sentire come non abbia pace per il male
+fatto non solo a s$e ma a tutti quelli della sua terra: |che fu il
+mal seme per la gente t$osca.~  Nel Canto di Ciacco, Dante aveva
+annoverato il Mosca tra i cittadini |ch'a ben far puoser li
+'ngegni~ ed era stato "stretto da gran disio" di conoscerne la
+sorte (^Inf.~, VI, 79-84); qui ne fa una figura accorata e
+pensosa che si leva in una grave aura di tragedia.  Dante sente
+il suo dramma; tuttavia il ricordo di quel |mal seme per la gente
+t$osca~ gli suggerisce una spontanea, irresistibile riflessione --
+|E morte di tua schiatta~ -- che, anche senza l'intenzione di
+colpire, colpisce dolorosamente; e il Mosca, |accumulando duol
+con duolo~ -- il male fatto alla sua famiglia oltre che alla
+|gente t$osca~ -- non resiste pi@u e si allontana folle d'angoscia:
+|sen g$io come persona trista e matta.~
+
+	|112.  Ma io rimasi~ ecc.  Dante rimane a riguardare |lo
+stuolo~, la schiera dei dannati; e quel |Ma~ segna un distacco
+affettivo, oltre che narrativo, dal dramma del Mosca a cui il
+Poeta non @e restato estraneo.
+
+	|113-117.  e vidi cosa~ ecc.  Dante prepara l'animo del
+lettore, tenendolo in ansiosa aspettazione.  La |cosa~ @e tale che
+il Poeta |sanza pi$u prova~ -- senz'altra prova che quella di
+averla vista nel suo viaggio -- neppure oserebbe raccontarla.  Ma
+il mondo della sua fantasia @e cos@i reale per lui ch'egli, come
+gi@a per Gerione (^Inf.~, XVI, 124-136, cfr. n.), ^vide~ (113) e
+^vide certo~ (118) e sente che lo |assicura~, gli d@a forza, la
+|coscienza: buona compagnia che francheggia~ -- rende sicuro,
+libero da paure -- |l'uomo, ponendolo~ sotto quella difesa che la
+coscienza offre con la sua purezza, col suo |sentirsi pura~; ed @e
+una difesa ferrea come una corazza (|asbergo~: usbergo).
+
+	|118-142.  Io vidi certo, ed ancor par ch'i 'l veggia.~.. 
+Appare Bertram dal Bornio -- cio@e Bertran de Born -- fiorito
+nella 2+a~ met@a del XII secolo.  Fu signore del castello di
+Hautefort (^Inf.~, XXIX, 29) e uno dei pi@u grandi poeti
+provenzali, altamente lodato anche da Dante come cantore "delle
+armi" (^D. V. E.~, II, ii, 9) e come cavaliere nobile e liberale
+(^Conv.~, IV, xi, 14).  Si credette -- e, sembra, falsamente --
+che avesse suscitato discordia tra Enrico II d'Inghilterra ed
+Enrico suo primogenito, detto il |re giovane~, istigando costui a
+ribellarsi al padre.  La figura che Dante vide e |vide certo~,
+gli sta ancora incisa nell'anima: |ancor par ch'i 'l veggia.~  @E
+una visione che suscita un inesprimibile orrore e le pause
+continue, profonde, che distaccano le immagini, sono pause di
+sbigottimento: |un busto sanza capo andar s$i come andavan li
+altri de la trista greggia~,; e il |capo tronco~ @e tenuto |per le
+chiome, p$esol con mano a guisa di lanterna.~  Un capo staccato
+dal busto, tenuto con la propria mano, pendulo -- che tragico
+rilievo ha quel |p$esol~, posto al principio del verso e sotto
+quell'accento! --, ridotto |a guisa di lanterna~; ma, cosa ancor
+pi@u orribile, quel capo cos@i avulso, tenuto in quel modo come un
+oggetto, continua ad aver vita, continua a guardare, a parlare,
+acquistando una sua agghiacciante, autonoma personalit@a: |e quel~
+-- proprio quel "capo tronco" -- |mirava noi, e dicea: <Oh me!~>. 
+I due verbi all'imperfetto sottolineano la smarrita insistenza,
+il prolungarsi di quello sguardo e di quel lamento che, staccati
+dalla persona e per un effetto di prospettiva poetica, sembrano
+venire da una paurosa lontananza.  E quell'|Oh me~, in
+conseguenza della rima composta (^Inf.~, VII, 28) che costringe a
+leggere ^@Ohme~, suona con una pi@u lunga e pietosa sfumatura di
+lamento.  Tra i ladri abbiamo visto la persona umana ridotta a un
+indefinito connubio tra uomo e bestia -- "n$e due n$e uno", "due e
+nessun" (^Inf.~, XXV, 69 e 77) --; qui il prodigio @e ancora pi@u
+spaventoso: un uomo che fa |a s$e stesso lucerna~, che @e diviso
+nettamente in due pur serbando la sua unit@a vitale: |due in uno e
+uno in due.~  Il religioso orrore, che muto aleggiava nella
+bolgia dei ladri, qui erompe con l'aperto richiamo alla potenza e
+al mistero di Dio: |com'esser pu@o, quei sa che s$i governa.~  Ma
+ecco che il dannato @e giunto proprio |al pi@e del ponte~; e mentre
+altri levano in alto il capo, questi, <per appressarne le parole
+sue>, <lev@o 'l braccio |alto~ con |tutta~ la testa>; e quella
+testa acquista una sua propria orribile vita, s'innalza, si fa
+smisurata, dando pure una mostruosa personalit@a a parole che non
+si sa pi@u di dove e in qual modo vengano.  E come suona il
+ripetuto richiamo |Or vedi.~.. |vedi.~.. (130-132) e come entra
+nell'anima quel |s'alcuna @e grande come questa~!  E poi la
+disperata antitesi tra vita e morte, con quell'immagine del
+"respirare" calata nel rilievo di un inciso: |tu che, spirando,
+vai veggendo i morti.~  Infine la dolorosa confessione, chiusa in
+un verso il cui insolito ritmo @e dettato dal tormento: |che diedi
+al Re giovane i ma' conforti.~  In un'amara consapevolezza,
+Bertram confessa la sua colpa, senza attenuazioni -- |Io feci il
+padre e 'l figlio in s$e ribelli~ --; e si paragona al perfido
+|Achitof@el.~  Lucido come il riconoscimento della colpa @e il
+riconoscimento della meritata pena ch'egli subisce: |Perch'io
+parti' cos$i giunte persone, partito porto il mio cerebro, lasso!,
+dal suo principio ch'@e in questo troncone.  Cos$i s'osserva in me
+lo contrapasso.~  Qui il contrapasso @e esposto non come una
+generica legge, ma come una ferrea contrapposizione di colpa e
+pena in cui @e il vivo strazio di quel povero |troncone~ diviso
+dal suo |c@erebro~ e in cui grandeggia il senso della divina
+giustizia.  Cos@i, dall'iniziale motivo del carname fino a Bertram
+dal Bornio, l'orrore della materia straziata si @e levato sempre
+pi@u in un clima di tragedia: con un tono di sbigottimento in cui
+silenziosamente aleggia la presenza di Dio.
+
+	|120.  de la trista greggia.~  ^Inf.~, XIV, 19 n.
+
+	|124-126.  Di s$e facea~ ecc.  |Di se'~ -- mediante il
+capo in cui sono gli occhi che servono a far vedere -- il
+peccatore |faceva lucerna a s$e stesso.~  Dato questo suo ufficio,
+il capo tronco @e tenuto |a guisa di lanterna.~  -- |quei sa~
+ecc.: lo sa soltanto Dio che fa un tal "governo" (^Inf.~, XXVII,
+47) di questi dannati; che li riduce in tale condizione (^Purg.~,
+XXIII, 35).
+
+	|127-129.  Quando diritto~ ecc.  Quando si trov@o proprio
+ai piedi del ponte.  |Diritto~ @e avv.: direttamente, proprio
+(^Inf.~, IV, 118).  -- |per appressarne~: per avvicinare a noi.
+
+	|131.  tu che, spirando~: tu che, respirando, cio@e
+essendo vivo.
+
+	|133.  E perch$e tu~ ecc.  E affinch$e tu porti notizia di
+me su nel mondo.
+
+	|135-138.  che diedi~ ecc.: che diedi al |Re giovane~ i
+malvagi incoraggiamenti: istigandolo a ribellarsi al padre.  Io
+resi |in s$e ribelli~ -- l'uno all'altro ostili, nemici -- |il
+padre~, Enrico II d'Inghiltera, |e 'l figlio~, Enrico suo
+primogenito, chiamato il |Re giovane~, poich$e dal padre fu
+associato al regno.  Anche Bertram lo chiama ^jove rei engles~
+nella citata poesia in cui ne piange la morte (n. 7-21).  --
+|Achitof@el~ ecc.  Achitofel, consigliere del re David, istig@o
+Absalon, figlio di David, a ribellarsi al padre e ad ucciderlo. 
+Intendi: Nei riguardi |d'Absalone e di Dav$id, Achitof@el~ coi suoi
+|malvagi punzelli~ -- pungoli, istigazioni -- |non fe' pi$u~ di
+quel che avesse fatto Bertram fomentando inimicizia tra Enrico II
+e suo figlio.
+
+	|139-141.  Perch'io parti'~ ecc.  Poich$e io |partii~,
+divisi, |persone cos$i giunte~, congiunte -- come Enrico II e suo
+figlio --, |porto~ il mio cervello (|c@erebro~: lat. ^cerebrum~)
+diviso (|partito~), ahim@e, |dal suo principio~ -- il midollo
+spinale, da cui si credeva che il cervello derivasse -- |ch'@e in
+questo troncone~: in questo mio corpo privo del capo.
+
+	|142.  Cos$i s'osserva~ ecc.  In tal modo @e osservata, @e
+applicata in me la legge del |contrapasso~ (dal lat. ^contra
+pati~: contro patire), per cui si patisce, si sopporta una pena
+in cambio, ossia come ammenda di una colpa.  Talora, come qui, il
+|contrapasso~ ricorda la legge del taglione: chi ha diviso @e
+diviso.  Altrove, sia nell'Inferno che nel Purgatorio, la
+rispondenza tra colpa e pena @e diversa.

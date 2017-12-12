@@ -1,0 +1,140 @@
+	|1-9.~ |(ed.  Rosini)~
+Comparazione.  Parla come matematico.  [Da Fino]
+
+	|9.~ |(ed.  Rosini)~
+^Alla pi@u bella~, Venere.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+^Lude~, gira.  [Da Fino]
+
+	|11.~ |(ed.  Rosini)~
+^Punto, che mi vinse~, Dio.  [Da Fino]
+
+	|19.~ |(ed.  Rosini)~
+^Si trasmoda~, @e fuor di modo.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+Soprato.  [richiamo marginale] [Sessa]
+
+	|25.~ |(ed.  Rosini)~
+Comparazione.  ^Trema~, @e debole.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+^Preciso~, tronco.  [Da Fino]
+
+	|34-35.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|40.~ |(ed.  Rosini)~
+^Luce intellettual~, ripigliamento.  [Da Fino]
+
+	|43.~ |(ed.  Rosini)~
+^L'una e l'altra milizia~, li Angeli e li Santi.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+^Ultima giustizia~, il d@i del giudizio.  [Da Fino]
+
+	|46-48.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|46.~ |(ed.  Rosini)~
+^Discetti~, disperda.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Andai pi@u gagliardo.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Riviera~, fiume.  [Da Fino]
+
+	|62.~ |(ed.  Rosini)~
+^Fulvido di fulgor~, splendido di splendor.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+^Faville vive~, Angeli.  [Da Fino]
+
+	|65.~ |(ed.  Rosini)~
+^Fiori~, sante anime.  [Da Fino]
+
+	|68.~ |(ed.  Rosini)~
+^Gurge~ fiume.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+^Urge~, stringe.  [Da Fino]
+
+	|72.~ |(ed.  Rosini)~
+^Turge~, cresce.  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+Beatrice.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+^Ombriferi prefazj~, sono adombrate dimostrazioni del vero.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+^Superbe~, sublimi.  [Da Fino]
+
+	|82.~ |(ed.  Rosini)~
+Rua.  [richiamo marginale] [Sessa]
+
+	|82-84.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|85.~ |(ed.  Rosini)~
+^Spegli~, specchi.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+^S'immegli~, diventi migliore.  [Da Fino]
+
+	|91.~ |(ed.  Rosini)~
+^Larve~, maschere.  [Da Fino]
+
+	|91-93.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+^Li fiori~, l'anime de' beati; ^le faville~, li Angeli.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Ambo le corti~, Angeli ed anime.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Invocazione.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+^Vivere e potenza~, moto e potest@a d'influire.  [Da Fino]
+
+	|109-111.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+^Clivo~, monte.  [Da Fino]
+
+	|113.~ |(ed.  Rosini)~
+^Soglie~, gradi.  [Da Fino]
+
+	|115-117.~ |(ed.  Rosini)~
+Argomento a majori.  [Da Fino]
+
+	|121-123.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|125.~ |(ed.  Rosini)~
+^Ridole~, rende odore.  [Da Fino]
+
+	|126.~ |(ed.  Rosini)~
+^Odor di lode al Sol, che sempre verna.  Verna~, in questo significato 
+contrario a quello usato nell'Inferno tra i traditori, ove dice: 
+^Dell'ombra che di qua dietro mi verna.~  (Inf. c. XXXIII v. 135).  
+[Sessa]
+
+^Sol che sempre verna~, Dio.  [Da Fino]
+
+	|127.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|136-138.~ |(ed.  Rosini)~
+Questo bisogna vedere come possa stare.  [Da Fino]
+
+	|140-141.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+

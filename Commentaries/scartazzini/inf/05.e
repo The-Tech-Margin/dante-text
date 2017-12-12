@@ -1,0 +1,652 @@
+	|1.  Cos@i~: in compagnia di Virgilio e da lui guidato;
+Canto IV, 148, 149.  -- |Primaio~: primo, cos@i anche Purg. IX, 94
+anche in prosa negli scrittori del primo secolo della lingua.
+
+	|2.  Cinghia~: cinge; l'inferno dantesco essendo un cono
+rovesciato, pi@u si v@a ingi@u un giro pi@u ristretto fanno i cerchi.
+
+	|3.  Pugne a guaio~: punge le anime a segno tale, che
+vanno traendo guai, cio@e mandando alti lamenti e strida; v. 48. 
+-- Il secondo cerchio infernale @e men largo del primo, ma di
+maggior pena, dacch@e al duolo quivi s'aggiunge il martirio.  Nel
+cerchio antecedente non vi sono tormenti positivi e non urli ma
+soltanto sospiri.
+
+	|4.  Minos~: il savio di Creta; anche Virgilio, En. VI lo
+finge giudice infernale e lo pone subito dopo la sede de'
+bambini; il Nostro ne f@a un demonio; il perch@e vedilo nella nota
+Inf. III, 109.  -- |Ringhia~: digrigna i denti, freme d'ira; vedi
+Inf. XXVII, 126.
+
+	|5.  Le colpe~: delle anime, v.7.  -- |Nell'entrata~:
+sull'ingresso di questo cerchio.
+
+	|6.  Manda~ ecc. manda le anime tanti cerchi in gi@u,
+quante volte egli attorce la coda al suo dosso; v. 11 Inf. XXVII,
+124 e seg.
+
+	|7.  Mal nata~: ^Meglio sarebbe stato per lui di non
+esser mai nato.~  Matt. XXVI, 24.
+
+	|8.  Tutta~: pienamente, senza tacere di cosa alcuna, il
+che del resto in tal luogo e dinanzi a tal giudice non gioverebbe
+molto.  Vedi Purg. XXXI, 36-39.
+
+	|9.  Quel conoscitor~: ^Minos, a cui fallir non lece~,
+Inf. XXIX, 120.  |Conoscitore~ equivale in questo luogo al greco
+%chi%rho%iota%tau%eta%zeta\ -- chi fa il processo.
+
+	|10.  Da essa~: si conviene ad una tal anima.
+
+	|11.  Cignesi~: in tanti giri avvolge intorno a s@e la sua
+coda.  I cerchj essendo nove, la coda deve essere mostruosamente
+lunga; ma ci@o non pu@o recar meraviglia trattandosi di un demonio.
+
+	|12.  Quantunque~: -- quanti.  -- |Gradi~: cerchi
+infernali.
+
+	|13.  Molte~: anime; ogni momento ne arrivano nuove
+turbe; vedi Inf. III, 119.
+
+	|14.  A vicenda~: ciascuna a sua volta, l'una dopo
+l'altra, secondo che le tocca.
+
+	|15.  Dicono~: confessano le peccata loro; -- |Odono~: la
+sentenza.  Questo udire @e interno, ch@e Minos non parla, v. 11. 
+Osservisi che Minos simboleggia la coscienza.  -- |Son gi@u
+v#olte~: sono precipitate dagli esecutori della sentenza (cfr.
+Inf. XXI, 29-43) gi@u nel cerchio infernale loro assegnato.
+
+	|16.  Al doloroso ospizio~: alla ^citt@a dolente~;
+all'inferno.
+
+	|17.  Lasciando~: sospendendo un istante; -- |Ufizio~: di
+confessare, esaminare e giudicare le anime.
+
+	|19.  Guarda com'entri~: vuole intimidire il viaggiatore. 
+Conoscendo il fine del viaggio di Dante essere la di lui salute i
+demoni cercano di farlo retrocedere, cfr. Inf. III, 88 ssg. VIII, 
+82 ssg. ecc.  Tali <demoni> non mancano mai, dovunque l'uomo
+comincia ad avviarsi sulla via della virt@u.  -- |Di cui~: di chi;
+-- |Fide~: fidi; sovente appo gli antichi, talvolta anche in
+prosa.
+
+	|20.  L'Ampiezza~: Virgil. En. VI, 126 ssg.:
+
+                  -- -- ^facilis descensus Averno est~, 
+     ^Noctes atque dies patet atri janua {Dit}is~: 	
+     ^Sed revocare gradum, superasque evadere ad auras~,      
+     ^Hocc' opus, hic labor est.~  
+
+     ^Larga @e la porta, e spaziosa la via che mena alla perdizione.~
+         Matt. VII, 13.
+
+	|21.  Pur~: tuttora, come Purg. III, 22, ovvero ^anche
+tu~, cio@e come Caronte, Inf. III, 88 ssg.  -- |Gride~: gridi.
+
+	|22.  Fatale~: voluto dal fato di Dio; cfr. Inf. VII, 8
+ssg.
+
+	|23-24.~  Le stesse parole che Virgilio disse a Caronte,
+Inf. III, 95, 96.  Ci@o parmi provare che il ^pur~ v. 21 @e qu@i
+preso nel senso di ^anche tu.~
+
+	|25.  Le dolenti note~: -- le disperate strida; in questo
+cerchio incominciano i tormenti positivi dell'inferno.  --
+|Note~: voci in tuono ritmico.  Inf. VII, 125.
+
+	|27.  Percote~: le orecchie e l'animo.  ^Tom.~
+
+	|28-29.  Muto~: privo; ^ove non @e che luca~, Inf. IV,
+151.  -- L'oscurit@a, il |mugghiare~ e la |tempesta~ in questo
+cerchio servono a svelare lo stato interno dei ^peccator
+carnali.~
+
+	|31.  Bufera~: vento impetuoso; simbolo dell'incostanza
+nella lussuria.  -- |Non resta~: non cessa, poich@e, quantunque
+essa sospenda per brevi intervalli il suo soffiare, cfr. v. 96,
+pure non finir@a giammai.
+
+	|32.  Rapina~: forza, impeto che rapisce, porta via li
+spiriti, loro mal grado, senza ritegno.  Altri: rapinoso
+movimento.
+
+	|34.  Ruina~: non gi@a dell'altro giro, ch@e questi
+sciagurati non ponno paventare di precipitare fuor del cerchio
+che @e loro decretato, bens@i |ruina~ @e detta la ^bufera~ {v.31}
+che ^mena, rapisce, rivolge~ {v.32-33} e ^percote~ {v.33} le
+anime di questo cerchio. Questo menare, rapire, volgere e
+percotere @e ben ^rovina~ abbastanza, e non occorre per verit@a
+rompersi il cervello cercandone un'altra, n@e fa d'uopo della
+<tema di cadere> onde far ^stridere~ questi miseri.
+
+	|37.  Intesi~: non gi@a perch@e Virgilio o alcun altro
+glielo dicesse, ma si bene argomentando dal modo della pena, come
+Inf. III, 61, X, 64.
+
+	|38.  Enno~: sono; sovente appo gli antichi e vive
+tuttora in Toscana.  Al: ^Eran.~
+
+	|39.  Sommettono~: cio@e fanno la volont@a signoreggiare la
+ragione; li lussuriosi fanno della volont@a legge, ovvero del
+parere legge; e della volont@a, ragione.  ^Buti.~  -- |Talento~:
+voglia carnale, appetito.
+
+	|40-42.  E come~, ecc. costruisci: E come le ali portano
+gli stornelli, cos@i quel |fiato~ (-- vento) porta gli spiriti
+mali. -- |Stornei~: plur. di ^stornello.~  -- |Nel freddo tempo~:
+nel verno.  -- |Mali~: malvagi; o forse li chiama cos@i perch@e
+travagliati da ^perverso male~, v. 93.
+
+	|43.  Di qu@a~, ecc. senza servare alcun modo od ordine,
+come i carnali usano fare nella loro incostanza.
+
+	|44.  Nulla speranza~: Essi non hanno speranza di vedere
+quando che sia migliorata la loro pena e molto meno di avere
+giammai riposo.
+
+	|46.  E come i gru~: La prima similitudine, quella tratta
+dagli ^stornelli~, chiarisce particolarmente |come~ dal vento
+vengono portati quegli ^spiriti mali~ {v.42}, laddove per la
+seconda ci si fanno vieppi@u conoscere e quasi sentire i ^dolenti~
+loro ^sospiri~: Inf. IX, 126.  ^Giul.~  -- |Lai~: sono versi
+franceschi lamentevoli e rammarichevoli.  ^An. Fior.~  |Lai~ o
+^Lais~ chiamarono i Provenzali una canzone lugubre, mesta e
+dolorosa.
+
+	|47.  Lunga riga~: le gru vanno in ordine l'una dietro
+all'altra.  ^Buti.~
+
+	|49.  Ombre~: anime.  -- |Briga~: contrasto dei venti --
+^la bufera infernal~, v. 31.
+
+	|53.  Allotta~: allora.
+
+	|54.  Favelle~: nazioni.  Il linguaggio @e un elemento
+costitutivo della nazionalit@a.  |Molte favelle~ qu@i per ^molti
+popoli di loquela diversa~, i quali erano soggetti a Semiramide. 
+^Da Siena.~
+
+	|55.  Rotta~: sfrenata; si abbandon@o senza freno alla
+lussuria.
+
+	|56.  Libito~: @e il lat. ^libitum~, piacere, beneplacito. 
+-- |Licito~: lecito.
+
+	|57.  Per t#orre~: vedi il passo di Orosio nella nota
+seguente.
+
+	|58-59.  Si legge~: appo Paolo Orosio (Hist. lib. 1 c. 4)
+le di cui parole Dante qu@i traduce quasi letteralmente.  ^Huic~
+(^Nino regi Assyriorum~) ^mortuo Semiramis uxor successit.~  --
+^Haec libidine ardens, sanguinem sitiens, inter incessabilia
+stupra et homicidia, quum omnes quos regiae arcessitos,
+meretricis habitu, concubitu oblectasset, occideret, tandem filio
+flagitiose concepto, impie exposito, inceste cognito, privatam
+ignominiam publico scelere obtexit.  Praecepit enim ut inter
+parentes ac filios, nulla delata reverentia naturae, de conjugiis
+adpetendis, quod cuique libitum esset, licitum fieret.~  Che
+Dante abbia letto questo passo cel dice lui medesimo, Mon. II, 9. 
+Questo passo, per tacer d'altro, prova che |succedette~ nel v. 59
+@e la vera lezione.  Della nauseante lezione ^sugger dette~ non
+faccio parola, ch@e essa nol merita, checch@e ne ciarlino certi
+frannonnolacci odierni.  Chi ha voglia di vomitare e non si cura
+n@e dell'autorit@a dei codici, n@e della storia, n@e della lingua @e
+padrone di sostituire quel mal augurato ^sugger dette~ alla
+lezione da noi accettata.
+
+	|60.  Tenne~: regn@o.  -- |La terra~: Babilonia.  Ai tempi
+di Dante il Soldano d'Egitto chiamavasi anche Soldano di
+Babilonia.  -- |Corregge~: governa ora (1300).
+
+	|61.  Colei~: Didone, v. 85 -- |s'ancise~: si uccise per
+amore di Enea da cui venne abbandonata.  Cfr. Virg. En. I e IV,
+Parad. VIII, 9, IX, 97.
+
+	|63.  Cleopatras~: regina d'Egitto, si diede prima a
+Giulio Cesare, poi ad Antonio; divenuta prigioniera di Ottaviano
+per evitare lo scorno del trionfo si uccise.  Cfr. Svet. Aug. 17.
+
+	|64.  Elena~: moglie di Menelao la cui fuga con Paride fu
+cagione della guerra troiana.  -- |Vidi~: dal contesto risulta
+chiaramente che @e ancor sempre Virgilio che parla (cfr. v. 67,
+70); il |vidi~ in questo e nei versi 65 e 67 @e dunque imperativo
+e vale il ^vedi~ di altre ediz. e codici.  -- |Tanto reo tempo~:
+la guerra troiana dur@o dieci anni.
+
+	|65.  Achille~: nelle armi invitto fu vinto dall'amore di
+Polissena, e, nello sposarla, morto.  ^Tom.~  Cfr. Virg. En. VI.
+
+	|66.  Combatteo~: combatt@e, la desinenza ^ao~, ^eo~
+occorre spessissimo negli antichi.
+
+	|67-69.  Paris~: figlio di Priamo e rapitore di Elena. 
+Cos@i unanimamente i pi@u antichi.  Altri vi vedono il cavaliere
+del medio evo amante di Vienna; ma di questi non poteva dire |che
+amor di nostra vita dipartillo.~  -- |Tristano~: cavaliere della
+Tavola Rotonda, amante di Isotta, moglie di Marco, re di
+Cornovaglia.  Fu ucciso dal geloso marito, ed Isotta mor@i di
+dolore pochi mesi dopo.  Tutti i qu@i nominati morirono di morte
+violente.  -- |Che amor~: che erano morte per cagione di amore.
+
+	|70.  Dottore~: Virgilio.  Cos@i lo chiama sovente.
+
+	|72.  Quasi smarrito~: effetto di piet@a e nello stesso
+tempo di timore, conoscendosi egli in tal qual modo colpevole del
+vizio punito in questo cerchio.
+
+	|74-75.~  Nota A 
+
+	Ecco la pietosa storia di Francesca da Rimini quale la
+racconta l'Anonimo Fiorentino edito dal Fanfani, il quale
+concorda nei punti essenziali col Boccaccio, ed @e poi meno
+ampolloso:
+
+	<Egli @e da sapere che gran tempo fu guerra tra messer
+Guido da Polenta et messer Malatesta vecchio di Rimino.  Ora
+perch@e era rincresciuta [era venuta a noia] all'una parte ed
+all'altra, di comune concordia feciono pace et acci@o che meglio
+s'osservasse, feciono parentado insieme: ch@e messer Guido marit@o
+la figliuola al figliuolo di messer Malatesta, et messer
+Malatesta marit@o a lui delle sue [Bernardino da Polenta spos@o
+Maddalena Malatesta.  Il doppio matrimonio si crede avvenuto
+circa l'anno 1275].  Madonna Francesca, figliuola di messer
+Guido, fu maritata a Gianciotto di messer Malatesta; et come
+ch'egli fosse savio, fu rustico [^rustico~: non di atti e di 
+maniere, ma della persona, essendo, tra le altre, anche zoppo. 
+Perci@o il soprannome, ch@e ^Gianciotto~ vale ^Giovanni ciotto~ e
+^ciotto~ significa zoppo] uomo, et madonna Francesca bellissima,
+tanto che fu detto a messer Guido: <Voi avete male accompagnata
+questa vostra figliuola; ella @e bella e di grande animo; ella non
+star@a contenta a Gianciotto.>  Messer Guido, che avea pi@u caro il
+senno che la bellezza, volle pure che il parentado andasse
+inanzi: et come ch'elli s'ordinasse, acci@o che la buona donna non
+rifiutasse il marito, fece venire Polo a sposarla per Gianciotto
+suo fratello; et cos@i, credendosi avere Polo per marito, ebbe
+Gianciotto.  @E vero che, inanzi ch'ella fosse sposata, essendo un
+di Polo nella corte, una cameriera di madonna Francesca gliel
+mostr@o et disse: <Quegli fia tuo marito>.  Ella il vide bello;
+posegli amore et contentossene.  Et essendo ita a marito e
+trovandosi la sera [Il Boccaccio dice che Francesca <s'avvide
+dello inganno la mattina seguente al d@i delle nozze>.  L'inganno 
+qu@i accennato ne sembra del resto favoloso, poich@e @e probabile
+che Paolo o Polo fosse gi@a ammogliato.  Anche Dante non ne fa
+cenno, e non avrebbe certo ommesso di accennare ad una
+circostanza che diminuirebbe in tal qual modo la colpa di
+Francesca, quando egli ne avesse saputo qualche cosa] a lato
+Gianciotto et non Polo, com'ella credea, fu male contenta.  Vide
+ch'ell'era stata ingannata; non lev@o l'amore ch'ella avea posto a
+Polo: onde Polo, veggendosi amare a costei, come che prima
+ripugnasse, inchinossi agevolmente ad amare lei.  Avenne che in
+questo tempo ch'egliono s'amavano insieme, Gianciotto and@o di
+fuori in signoria, di che a costoro crebbe speranza per la sua
+partita; et cos@i crebbe amore tanto che, segretamente essendo
+nella camera, et leggendo uno libro di Lancilotto, -- -- -- et
+prima colla mano et con alcuno bascio invitando l'uno l'altro,
+nell'ultimo posono in pace i loro disii.  Et pi@u volte in diversi
+tempi faccendo il simigliante, uno famiglio di Gianciotto se
+n'avvide; scrisselo a Gianciotto; di che, per questa cagione
+tornato Gianciotto, et avuta un giorno la posta [Cio@e:
+appostatigli un giorno], gli sopraggiunse nella camera che
+rispondea di sotto; et troppo bene si sarebbe partito [Cio@e: Polo
+si sarebbe partito], se non che una maglia del coretto ch'egli
+avea indosso, s'appicc@o a una punta d'aguto della cateratta, et
+rimase cos@i appiccato.  Gianciotto gli corse addosso con uno
+spuntone: la donna entr@o nel mezzo; di che, menando, credendo
+dare a lui, diede alla moglie ed uccisela; et poi uccise ivi
+medesimamente Polo dove era appiccato.>
+
+	Il Boccaccio, che asserisce aver avuto sopra ci@o
+speciali colloqui con <un valente uomo chiamato Ser Piero di
+messer Giardino da Ravenna, il quale fu uno de' pi@u intimi amici
+e servitori che Dante avesse in Ravenna>, aggiunge che
+Gianciotto, uccisa la moglie ed il fratello, si part@i
+subitamente e tornossi all'ufficio suo, e che i due infelici
+amanti furono seppelliti la mattina seguente con molte lagrime,
+ed in una medesima sepoltura.  Sembra che il tragico caso
+succedesse breve tempo dopo le nozze di Francesca.  Vedi
+l'operetta di ^Luigi Tonini~: <Memorie storiche intorno a
+Francesca da Rimini.  Con appendice e documenti.  Rimini 1852.>
+
+	|74.  Que' duo~: Questi due sono Francesca, figlia di
+Guido da Polenta ed il di lei cognato Paolo Malatesta.  La
+commovente storia di questi infelici amanti vedila nella nota A
+alla fine di questo canto.
+
+	|75.  Leggieri~: pi@u forte menati, perch@e pi@u rei (?): e
+anche perch@e pi@u volonterosi a correre insieme.  ^Tom.~  Meglio:
+non avendo questi due cercato di resistere all'impeto della
+passione non sono essi in istato di opporre alcuna resistenza
+all'impeto del vento.
+
+	|78.  I mena~: |i~ per ^li~; Dante l'usa anche altrove,
+Inf. VII, 53, XVIII, 18, Parad. XIII, 26, XXIX, 4.
+
+	|81.  A noi parlar~: a parlare a noi.  -- |Altri~: Dio; @e
+lo stesso come se dicesse: se Dio vel permette.
+
+	|82-84.  Quali colombe~: la colomba @e animale molto
+lussurioso, ma nello stesso tempo simbolo di innocenza.  Dante
+onesta il fatto dei due amanti alla meglio.  Forse ei li paragona
+alle colombe anche per questo, che la colomba @e simbolo di
+sincerit@a (cfr. S. Matt. X, 16), virt@u che Francesca esercita in
+sommo grado nel seguente racconto.  -- |Dal disio~: di rivedere
+la loro prole, oppure di condiscendere ai loro amori.  --
+|Alzate~: Al. ^aperte.~  -- |Vengon~: al dolce nido.  -- |Per
+l'aere~, ecc. non si riferisce alle colombe, ma alle ombre di
+Francesca e Paolo.  La costruzione @e: |Come le colombe, chiamate~
+(-- incitate, spinte, mosse) |dal dis@io vengono al dolce nido
+con le ali alzate e ferme: cos@i~, (-- cotali) |portate per
+l'aere dal volere, uscirono~ ecc.  Altri intende la frase: |per
+l'aere dal voler portate~ delle colombe; ma in tal caso la frase
+sarebbe oziosa e superflua.  Gli animali seguono un |dis@io~
+instintivo, le anime il libero |volere.~
+
+	|85.  Dido~: rinomina Didone perch@e i di lei amori e
+morte erano i pi@u celebri, merc@e i versi di Virgilio.  Il Blanc
+presuppone che Dante distingua pur qu@i come nel cerchio
+antecedente le anime nobili portate s@i dalla passione d'amore, ma
+non corrotte del tutto, da quelle che peccarono per brutale
+sensualit@a.  Forse ha ragione.
+
+	|87.  S@i Forte~: tanto in essi pot@e l'affettuosa mia
+preghiera.  ^Andr.~
+
+	|88.  Animal~: vedi la nota sopra Inf. II, 2.  --
+|Grazioso~: cortese.
+
+	|89.  Perso~: ^il perso @e un colore misto di purpureo e
+di nero, ma vince il nero, e da lui si denomina.~  Conv. t. IV,
+c. 20.
+
+	|90.  Di sanguigno~: del nostro sangue, essendo stati
+uccisi.
+
+	|91.  Amico~: a noi.  -- |Il re~: Dio.
+
+	|92.  Pregheremmo~: Questa preghiera condizionata, che
+dal fondo dell'inferno manda a Dio un'anima condannata, @e uno de'
+sentimenti pi@u fini e delicati e gentili, colti dal vero.  Non
+c'@e la preghiera, ma ci @e l'intenzione; ci @e terra e inferno
+mescolati nell'anima di Francesca; una intenzione pia con
+linguaggio ed abitudine di persona viva, ma che non giunge ad
+esser preghiera, perch@e accompagnata con la coscienza dello stato
+presente.  ^Fr. De Sanctis.~  -- |Per la tua pace~: Francesca
+vorrebbe pregare come Stazio, Purg. XXI, 13.
+
+	|94.  Ti piace~: Al. vi piace.  Francesca rivolge le sue
+parole a Dante solo.
+
+	|95.  Vui~: voi; usato anticamente anche in prosa.
+
+	|96.  Come fa~: al presente; vedi sopra v. 31.
+
+	|97.  Siede~: giace.  -- |La terra~: Ravenna.  -- |Nata
+fui~: nacqui; latinismo.
+
+	|98.  Sulla marina~: sull'Adriatico.  -- |Dove il Po
+discende~: in vicinanza, a circa una diecina di miglia dove
+scarica il Po.
+
+	|99.  Seguaci~: confluenti.  -- |Sui~: suoi.
+
+	|100.~  Questo verso @e un eco di quello con cui principia
+un Sonetto di Dante nella Vita Nuova {paragraph.} 20.:
+
+     ^Amore e cor gentil sono una cosa.~
+
+<Amare fu per Paolo necessit@a di core gentile, e per Francesca
+necessit@a di donna amata.>  ^Fr. De Sanctis.~  -- |Ratto~:
+rapidamente.
+
+	|101.  Persona~: corpo.  Noi diciamo pure: ^bello di
+persona.~
+
+	|102.  Il modo~: con cui la bella persona mi fu tolta,
+poich@e la morte mi colse nel peccato, e non mi lasci@o tempo a
+pentirmi.
+
+	|103.  Perdona~: equivale al lat. ^parcere~; amore non
+rimette all'amato il riamare.
+
+	|105.  Non mi abbandona~: @e una consolazione il vedersi
+eternamente unita con chi am@o ed ama tanto, e nello stesso tempo
+un'aumento di pene il veder tanto soffrire l'oggetto di cos@i
+grande amore.
+
+	|106.  Ad una morte~: perch@e uccisi ambedue nella stessa
+guisa e nella stessa ora.
+
+	|107.  Caina~: bolgia ove vengono puniti i fratricidi;
+Inf. XXXII.  -- |Spense~: ci tolse la vita.
+
+	|108.  Da lor~: Francesca parla in nome di s@e e di Paolo. 
+-- |P#orte~: dette, dirette a noi.
+
+	|109.  Offense~: offese di doppio dolore: dalla morte
+ricevuta e dal presente tormento.
+
+	|110.  Chinai il viso~: forse effetto di rimorso interno
+ricordandosi delle proprie colpe.
+
+	|111.  Pense~: pensi.
+
+	|112.~  Dante non pu@o risponder subito, e quando lo fa
+non volge la parola a Virgilio, ma parla come trasognato a s@e
+stesso.  -- |O lasso~: esclamazione prodotta in parte da rimorso.
+
+	|113.  Quanti dolci pensier~: questo @e il fondo tragico
+della storia, la divina tragedia rimasta sulle labbra di
+Francesca.  ^Fr. De Sanctis.~  Dolci pensieri ed ardenti
+desiderii il seme, morte violente ed eterno martirio il frutto!
+
+	|114.  Doloroso passo~: di morte e dannazione. 
+|Doloroso~ fa antitesi col ^dolci~ verso precedente.
+
+	|117.  A lagrimar~: sino alle lagrime.  -- |Tristo~:
+mesto, dolente.  -- |Pio~: compassionevole.  Mi fanno piangere di
+dolore e di compassione.
+
+	|118.  Ma dimmi~: nel suo primo racconto Francesca ha
+lasciato una lacuna: tra il suo innamoramento e la morte giace
+tutta una storia, la storia dell'amore e del peccato.  -- |Al
+tempo~: quando ognun di voi sospirava per fuoco ^occulto~ di
+amore.
+
+	|119.  A che~: a qual indizio?  Il poeta desidera
+conoscere l'occasione per cui ed il modo in cui l'amore ^occulto~
+divenne ^palese.~
+
+	|120.  Dubbiosi desiri~: desiderj di amore non ancora
+palesato e per@o non uniti alla certezza di esser corrisposti.
+
+	|123.  Dottore~: @E vero che Boezio dice: ^In omni
+adversitate fortunae, infelicissimum genus infortunii est fuisse
+felicem.~  Ma n@e Boezio lo chiama mai d'altronde suo dottore,
+bens@i sovente Virgilio, n@e Dante avrebbe certamente posta una
+sentenza di Boezio in bocca a Francesca.  |Il tuo dottore~ @e
+adunque Virgilio; non allude per altro ad una qualche ^sentenza~
+di Virgilio, ma alla di lui ^esperienza.~
+
+	|124.  Radice~: metafora, vale principio, origine.
+
+	|125.  Affetto~: desiderio.
+
+	|126.  Piange e dice~: parla lagrimando.  Similmente
+Ugolino, Inf. XXXIII, 9:
+
+     ^Parlare e lagrimar vedrai insieme.~
+
+	|127-128.~  Nota B
+
+	Il libro che i due amanti leggevano era la famosa
+<Historia di Lancillotto del Lago, che fu al tempo del Re Art@u>;
+il capitolo @e il 66, che qu@i in parte riportiamo:
+
+	^Come la reina conobbe Lancilotto doppo che lungamente
+hebbe parlato a essa, et che gli cont@o le sue avventure, et come
+la prima congiuntione fu fatta fra Lancilotto et la reina
+Gineura, per il m@ezo di Gallehault.~
+
+	Quando la reina hebbe parlato della damigella, si seppe
+bene, che questo era Lancilotto; et di tutte le cose che udite
+haueua da lui, troua che dice la uerit@a.  Ora mi dite, dice essa,
+ui uidi io dipoi pi@u?  S@i, dama, a tale hora che mi fusti bene di
+bisogno, perch@e a Camalot mi sarei annegato, se non fussi stata
+uoi.  Come? fusti uoi quello, che Daguenet il folle prese?  Dama,
+presso sono io senza manco.  Et doue andasti uoi? Dama, io andai
+dietro a uno caualiere.  Et uoi combattesti seco? Si, dama.  Et
+di l@a, doue ne andasti?  Dama, dice egli, io trouai due gran
+uillani, che mi uccisono il mio cauallo, ma messer Suan, che
+buona uentura gli dia Iddio, me ne don@o uno. Ah! dice essa, io so
+bene chi uoi siate: uoi hauete nome Lancilotto del Lago: et egli
+si tace.  Per Dio, dice essa, per niente lo celate: egli @e lungo
+tempo che messer Gauuan apport@o nouelle di uostro nome a corte. 
+Allhora gli conta, come messer Suan haueua detto quello che la
+damigella haueua detto.  Questa @e la terza, et che armi portasti
+uoi la prima uolta?  Vermiglie; pel mio capo, questa @e la uerit@a. 
+Et auanti hieri, perch@e facesti uoi tanto di arme, come uoi
+facesti?  Et esso comincia a sospirare.  Ditemi sicuramente,
+perch@e io so bene che per alcuna dama, o damigella, lo facesti
+uoi, et mi dite chi ella @e, per la fede che uoi mi douete.  Ah!
+dama, io ueggo bene che mi conuiene dire che siate uoi.  Io? dice
+essa.  Vero dite, dama.  Per me non rompesti uoi le tre lancie,
+che mia pulzella ui port@o, perch@e ui messi bene fuori del mio
+comandamento?  Dama, io feci per essa, ci@o che io doueuo, et per
+uoi ci@o che io poteuo.  Et quanto @e che uoi tanto mi amate?  Dal
+giorno che io fui tenuto per caualiere.  Per la fede che uoi
+adunque mi douete, donde uiene questo amore che noi auete messo
+in me?  Dama, dice esso, uoi me lo facesti fare, che di me
+facesti uostro amico, se uostra bocca non mi ha mentito.  Amico
+mio, dice essa, come?  Dama, dice esso, io uenni dauanti a uoi
+quando io presi licentia da monsignore il re, et ui raccomandai a
+Dio, et dissi, che ero uostro caualiere in tutti i luoghi.  Et
+uoi mi dicesti, che uostro amico et uostro caualiere uoleui uoi,
+che io fusse.  Et io dissi: a Dio, dama.  Et uoi dicesti: a Dio
+mio bello et dolce amico.  Questo fu il motto, che mi fece
+ualente huomo, se io lo sono, ne mai di poi a si gran pericolo,
+che io non me ne ricordasse.  Questo motto mi ha riconfortato in
+tutti i miei nemici; questo motto mi ha guarito da tutti i mali;
+questo motto mi ha fatto ricco in m@ezo della pouert@a.  Per mia
+fe, disse la reina, questo motto fu detto in buona hora; ma io
+non lo piglio come per cosa certa, come uoi fate, perch@e a molti
+ualenti huomini ho io detto questo, oue non pensai altra cosa che
+quel dire; ma la costume @e tale de' caualieri, che fanno a molte
+dame sembiante di tali cose, per le quali non sono al cuore loro
+niente.  Et questo diceua ella per uedere come bene lo potesse
+mettere in mala uita, perch@e ella uedeua bene, che esso non
+pretendeua ad altro amore che al suo, ma ella si dilettaua di
+trauagliarlo; et esso hebbe si grande angoscia, che manc@o poco
+che non si uenisse meno.  Et la reina c'hebbe paura che non
+cadesse, chiama Gallehault, et lui uiene correndo.  Quando uide
+che il suo compagno era s@i trauagliato, ne hebbe si gran dolore,
+che pi@u non pu@o.  Ah dama! dice Gallehault, uoi ce lo potrete
+bene torre, ma questo sar@a un gran danno.  Certamente, signore,
+sarebbe mio; et hor non sapete uoi, perch@e egli ha fatto di arme
+tanto?  Disse Gallehault, non.  Et ella disse: se uero @e ci@o che
+mi ha detto, questo @e per me.  Dama, se Dio mi aiuti, et se gli
+pu@o bene credere, perch@e cos@i come egli @e il pi@u ualente huomo di
+tutti gli huomini, cos@i @e il suo cuore pi@u ueritabile che tutti
+gli altri.  Veramente, dice essa, che uoi direte che sia ualente
+huomo, se uoi sapete che tanto habbia fatto di arme pi@u che altro
+caualiere.  Allhora gli conta tutto, come uoi auete udito; et
+sappiate che l'ha fatto solamente per me, dice essa.  Allhora la
+priega Gallehault, et dice: per Dio, dama, habbiate di lui piet@a,
+et fate cos@i per me, come io farei per uoi, se uoi mi pregassi. 
+Che piet@a uolete uoi che io ne abbia?  Dama, uoi sapete, che ui
+ama sopra tutte, et ha fatto per uoi pi@u che caualiere facesse
+mai per dama; et sappiate che la pace di me et di Monsignore non
+sarebbe stata, se non fusse stato lui.  Certamente, dice essa,
+egli ha fatto pi@u per me di quello che io lo potessi mai
+rimeritare, et non mi potrebbe richiedere cosa che io glie ne
+potessi negare; ma egli non mi richiede di niente, anzi @e tanto
+maninconoso, che @e marauiglia.  Dama, dice Gallaehault,
+habbiatene piet@a; egli @e tale, che ui ama pi@u che se medesimo. 
+Se mi aiuti Iddio, io non sapeua cosa alcuna della sua uolont@a,
+fuori che dubitaua non essere conosciuto; ne pi@u ne manco mi
+discopr@i: io ne har@o, disse ella, tale piet@a, come uoi uorrete. 
+Dama, uoi hauete fatto questo, che io ui ho richiesto, alsi debbo
+io fare ci@o che uoi mi richiederete.  Egli, dice la dama, non mi
+richiede di niente.  Certamente, dama, dice Gallehault, ei non si
+ardisce; per il che non ui domander@a mai cosa alcuna per amore,
+perch@e teme; ma io ue ne priego per lui; et se bene io non ue ne
+pregassi, si lo doueresti uoi procacciare, perch@e pi@u ricco
+tesoro non potresti uoi conquistare.  Certamente, dice essa, io
+lo so bene, et io ne far@o tutto ci@o uoi mi comandarete.  Dama,
+dice Gallehault, gran merc@e; io ui priego che uoi gli doniate il
+uostro amore, et lo riteniate sempre per uostro caualiere, et
+diuegnate sua leale dama tutta la uostra uita, et l'harete fatto
+pi@u ricco, che se uoi gli hauessi donato tutto il mondo. 
+Certamente, dice essa, io glie ne prometto, ma che egli sia mio,
+et io tutta sua, et che per uoi sieno emendate tutte le cose mal
+fatte.  Dama, dice Gallehault, hor conuiene che si facci il
+cominciamento del seruitio.  Dama, dice esso, gran merc@e:
+bacciatelo auanti a me per cominciamento di uero amore.  Del
+bacciare, dice essa, io non ci ueggo n@e luogo n@e tempo; et non
+dubitate, dice essa, che io non lo facessi, anzi uolentieri lo
+farei, ma queste dame che sono qui, molto si marauigliano, che
+noi habbiamo tanto fatto, et non potrebbe essere che le non
+uedessino: non per tanto, se uoi uolete, io lo bacier@o
+uolentieri.  Et esso ne fu si allegro, che non pu@o rispondere, se
+non tanto, che dice: dama, gran merc@e.  Dama, dice Gallehault,
+del suo uolere non dubitate gi@a, perch@e @e uostro; et sappiate
+bene, che nessuno se ne accorgier@a: noi tre saremo insieme come
+se noi consultassimo.  Di che mi farei io pregare? disse essa;
+pi@u lo uoglio io che uoi.  Allhora si tirano da parte et fanno
+sembiante di consigliare.  Et la reina uede che il caualiere non
+ardisce di fare pi@u: lo piglia per il mento, et lo bacia dauanti
+a Gallehault assai lungamente.  Et........
+
+     ^Quel giorno pi@u non vi leggemmo avante~!
+
+	|128.  Lancilotto~: amante della regina Ginevra; eroe
+della Tavola Rotonda.  I romanzi del re Art@u e della Tavola
+Rotonda erano un'articolo di moda ai tempi di Dante, e nel ^De
+vulg. el.~ egli assicura di averli letti.  Anche altrove egli fa
+menzione di eroi di questi racconti: Inf. V, 67, XXXII, 61,
+Parad. XVI, 14.  Il capitolo che i due amanti leggevano nel
+giorno fatale lo recheremmo nella nota B alla fine del presente
+canto.
+
+	|129.  Soli~ ecc. tre incentivi: la lettura di racconti
+d'amore, l'esser soli ed il non aver |sospetto~, cio@e timore di
+venir scoperti.
+
+	|130.  Sospinse~: ci mosse a riguardarci amorosamente.
+
+	|132.  Un punto~: un passo nel libro che leggevamo.
+
+	|133.  Disiato riso~: la bocca sorridente; quel sorriso
+rivelava la combattuta virt@u di Ginevra esser vinta e disarmata;
+perci@o |disiato~ quel riso da Lancillotto.  ^Berlan.~
+
+	|135.  Mai~ -- |Diviso~: vedi la nota al v. 105.
+
+	|137.  Galeotto~: mezzano.  Vuol dire: come Galeotto fu
+mezzano tra Lancillotto e Ginevra, cosi fu mezzano tra noi due il
+libro e l'autore di esso.
+
+	|138.  Pi@u~ -- |Avante~: cercarono e trovarono ^diletto~
+(v. 127) altrove che nella lettura.  O vuole il Poeta forse
+accennare che i due amanti vennero trafitti in questo momento
+dall'offeso marito di Francesca?  Ma in tal caso, perch@e cacciare
+i due poveri amanti nell'inferno?
+
+	|140.  L'Altro~: Paolo.  <Chi @e Paolo?  Non l'uomo, il
+maschile, che faccia antitesi e costituisca un dualismo:
+Francesca empie di s@e tutta la scena.  Paolo @e l'espressione muta
+di Francesca; la corda che freme quello che la parola parla; il
+gesto che accompagna la voce; il pianto dell'uno @e la parola
+dell'altro.>  ^De Sanctis.~
+
+	|141.  Morisse~: morissi; inflessione usata sovente non
+pur dal Nostro ma anche da altri scrittori antichi.
+
+	|142.  E caddi~: fu l'autore punto da questo vizio, et
+per@o ebbe quella passione di costoro che dice nel testo.  ^Anon.
+Fior.~
+
+	@E bene ricordarsi che l'ultimo rifugio di Dante fu appo
+un nepote di Francesca, Guido Novello da Polenta a Ravenna, dove
+egli ad@i 14 Settembre 1321 non solo |come~, ma veramente |corpo
+morto~ cadde.

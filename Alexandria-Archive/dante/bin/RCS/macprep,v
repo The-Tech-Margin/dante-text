@@ -1,0 +1,45 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.23.53;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@prepare files for downloading onto Macintosh in RTF format
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh
+#
+#	macprep: shell script to take multiple .r files and prepare
+#	them for downloading onto Macintosh in RTF format, for use with
+#	Microsoft Word
+#
+#	usage: macprep file ...
+#
+#	Written by Jonathan Altman 7/9/88
+
+set RTFSED1=$Dante/lib/rtfdown1.sed
+set RTFSED2=$Dante/lib/rtfdown2.sed
+set RTFHEAD=$Dante/lib/rtf.head
+foreach FILE ($argv)
+echo Preparing $FILE for download to mac
+set OUTFILE=$FILE:r.m
+set MACFILE=$FILE:r
+marksect $FILE | sed -f $RTFSED1 |sed -f $RTFSED2 | tr '\012' ' ' | cat $RTFHEAD - | text2mac -n $MACFILE -a MSWD > $OUTFILE
+wc $FILE $OUTFILE
+echo Download $OUTFILE to macintosh
+end
+@

@@ -1,0 +1,798 @@
+	|1.~  Ser Brunetto Latini:
+
+       Certo lo cor mi parte
+     Di cotanto dolore,
+       Pensando'l grande onore
+     E la ricca potenza
+       Che suole aver Fiorenza
+     Quasi nel mondo tutto.
+       Ond'io in tal corrotto (cruccio)
+     Pensando a capo chino
+       Perdei il gran cammino, (la strada maestra)
+     E tenni alla traversa --
+       Ma tornando alla mente,
+     Mi volsi e posi mente ec.
+
+	Io sospetto che da questo luogo del Tesoro di Ser
+Brunetto abbia preso il nostro P. il concetto di que' versi (Inf.
+V, 109 ec.):
+
+     Da che intesi quell'anime offense
+       ^Chinai il viso e tanto il tenni basso~
+     Finch@e ec.
+
+	Brunetto avea detto: ^Pensando a capo chino~ ec.
+
+	E il ^tornar della mente~ da: ^Ma tornando alla mente~
+ec.
+
+	Tra la caduta di Firenze dal suo felice stato, e la
+miseria della Francesca da Rimini v'era anche alcuna somiglianza.
+
+	|6.~  Questa terzina se non frantesa, rester@a non intesa in
+tutta la sua forza, chi passer@a lievemente sulle parole ^Nuovi~
+e ^Guati~, senza comprenderne l'intimo valore, che il Poeta loro
+divis@o attribuire acconciamente in questo luogo.
+
+	Quanto alla voce ^Nuovo~ abbiam tanto ragionato, che
+basti, nel canto seguente (Inf. VII, 20) dove rimettiamo il
+cortese lettore.
+
+	Per ci@o che appartiene al verbo ^Guatare~, giover@a
+tener conto della nozione che gli @e propria, onde si differenzia
+da ^Guardare~ e ^Mirare.~  Dante qui ^guata~, non ^guarda~, n@e
+^mira~; poich@e sta sempre in sospizione di male che potesse
+incontrargli in que' luoghi diabolici, tra anime disperate, e tra
+nuovi e strani tormenti.  Egli @e sempre atteso ad osservare e
+notare nella sua mente tutte quelle scene, per saperle poi
+rappresentare, e i fatti ridire altrui: e ci@o fa non come chi
+guardi, attentamente che fosse, con franchezza e disinvoltura; ma
+quasi come chi fa capolino ficcando il lume della vista pe'
+buchi e per le fessure; o pi@u propriamente siccome colui, che
+apposta altri; e appiattato attende e guarda di nascosto se
+quegli vi passi.  ^Guatare~, dal ^Guaitare~ de' Provenzali che
+diede ai nostri antichi scrittori la frase: ^porsi in guaito~, o
+^aguaito~, o, come noi diciamo, ^porsi~ o ^stare~ in ^agguato~,
+cio@e ^in luogo~ onde uno veda e non sia veduto.  E da questo la
+sentita differenza tra ^Guardia~ o ^Guarda~ (ch'@e da Guardare
+come ^Scolta~ o ^Ascolta~ da ^Ascoltare~), e ^Guaito~ o ^Agguao
+(provenz. ^guayta~) da ^guatare~: significando il primo chi sta
+pubblicamente alla custodia d'un luogo ec. il secondo chi stassi
+in occulto per nascosi e suoi propri disegni.  In antico Franc.
+^Gait~ e ^Gaiter.~  Il Du-Cange: ^Gaita excubiae~, ^vigil ipse,
+speculator.  -- Gaitare, excubias agere.~  I Modanesi dicono ancora
+^Sguaitare~, per ^attentamente osservare i fatti segreti degli
+altri.~
+
+	Epper@o Virgilio al Poeta nostro:
+
+     Non ragioniam di lor, ma guarda e passa
+
+dove avrebbe detto impropriamente: ^ma guata e passa.  --
+Guatare~ differisce eziandio da ^mirare~: questo ^mirare~ viene
+indubitatamente dal ^mirari~ latino, che porta seco un senso di
+maraviglia, prodotta dalla vista di alcuna cosa; ma non dinota
+come il ^Guatare~ quel ^guardare intentivo~, ch'@e detto.  Il
+Passavanti: ^Non le si appressi e non la guati fiso, ma~
+^mirila e lascila stare.  Guatare~ non @e dunque ^Mirare.~  Dante
+spesso non apre la sua mente se non a chi fa gran momento della
+primitiva e propria accezione delle voci.  Ma non sempre gli
+scrittori usarono le voci secondo che rigorosamente avrebbe
+dimandato la loro vera e propria significanza.
+
+	|13.~  Cotesto aggiunto ^diversa~, cos@i assoluto, fa
+presumere che la voce abbia una significazione di pi@u valore,
+che nei costrutti ordinari, come ad esempio in quel di Torquato
+Tasso:
+
+     Spesso l'ombra materna a me s'offria
+     Pallida immago e dolorosa in atto;
+     Quanto ^diversa~, ohim@e, da quel che pria
+     Visto altrove il suo volto avea ritratto!
+
+il quale luogo, come ognun sa, @e un'imitazione del Virgiliano:
+
+     ^Quantum mutatus ab illo~ ec.  (a).
+
+     [(a) Talvolta l'esser come tipo a s@e stesso, cio@e tale a
+     cui non sia chi s'assomigli, @e ci@o che costituisce forma
+     senza legge o mostruosit@a: ma anche in tal caso @e
+     difformit@a e allontanamento dalla norma o regola, secondo
+     la quale si fanno le cose e si producono; imperocch@e la
+     ^diversit@a~ avrebbe l'^uno~ e i ^tutti~ come elementi
+     obiettivi della relazione.  Il Tasso Gerus.:
+
+     .....  E ne' costumi @e tale,
+     Che sol ne' vizi a s@e medesmo @e uguale.
+
+Si dice anche d'un uomo cattivo ch'egli sia ^diverso da s@e~,
+cio@e, mutato di quel che prima si era.  Da te diverso e
+da 'principi tuoi.  (Idem) Sempre vi sono i due termini di
+paragone.  Qui a ^fiera... diversa~ si potranno, avvegnacch@e
+duramente, supplire le altre parole: ^dalle altre fiere~: come
+taluno intende.]
+
+	La novit@a, la stranezza, la mostruosit@a, l'enormezza ed
+irregolarit@a della forma di quel ^Vermo~ a tre gole, non @e
+dubbio che non possa meritargli l'epiteto di ^diverso, de-versus,
+volto~, quasi, od ^uscito~ dalla via ordinaria e dalle regole di
+natural proporzione; epper@o non ne pare ^diversa~, n@e strana la
+spiegazione data dai comentatori, dicendo ^fiera... diversa~
+voler dire ^strana e altramente latta che le altre~:
+nulladimeno sospettiamo, cotesta chiosa non essere in tutto
+adeguata al concetto del Poeta; dovendo, dopo le parole ^fiera
+crudele~ apposte a Cerbero, ogn'altro aggiunto non essere, per
+lo manco, di minore forza.  Anche perch@e il lupo @e fiera crudele
+e diverso dalla tigre, e questa dalla pantera; e la pantera
+altramente fatta che il coccodrillo ec. sicch@e si farebbe parlar
+Dante da men che suo pari.  Dippi@u la ^diversit@a~ pu@o prendersi
+in buona, come in mala parte; per la qual cosa, quando anche il
+molosso infernale fosse detto ^diverso~, per le sue ^tre gote~
+che lo fanno mostruoso, terribile, spaventevole e differente di
+quanti altri cani, mastini, e fiere sono a nostra notizia; noi
+pur diremo notabile codesto uso della voce ^diversa~, che il
+Poeta fa senza esprimere ambi i termini, tra cui verte la
+^diversit@a~ [(b) Il Tommaseo: ^Diversa~ dalle fiere note.
+-- ^Diversa, Di-verto, Perversa~, di specie mostruosa.  Inf.
+XXXIII: ^Uomini diversi d'ogni costume...~  Vita Nuova: ^Visi
+diversi ed orribili a vedere.~  Ma ove si trovasse un significato
+insito alla voce ^diverso~, il quale non implicasse relazione;
+non sarebbe mestieri ricolmare, per supplementi di molte parole,
+quel vuoto che lascia il costrutto ellittico.  Ancora; quando si
+dice: ^Diversi d'ogni costume~ pu@o significare ^traviati~,
+^sviati d'ogni buon costume, iti lungi dal retto sentiero della
+morale~; nel qual caso non si desidera il termine della
+relazione.  E infatti nell'addotto verso dantesco le parole: ^ogni
+costume~ e ^ogni magagna~ pare sien posti per significare:
+^uomini nudi d'ogni virt@u, sozzi d'ogni vizio.~  Finalmente, ove
+lo stesso Dante disse: Visi ^diversi e orribili a vedere~ pot@e,
+anzi che una, notare due cose, cio@e le svariate e differenti
+forme di tanti brutti visacci; siccome il Tasso dice:
+
+     E in nuovi mostri e non pi@u intesi o visti
+     Diversi aspetti in un confusi e misti.].
+
+	Or, avendo noi trovato nel dialetto Ferrarese la voce
+^diverso~ voler dire ^malvagio, destro, astuto~; ci @e parso bene
+di qui ricordarlo, lasciando che i dotti giudichino, se tale
+significazione possa bene appropriarsi al trifauce custode del
+l'Orco [(a) Il Petrarca, Canz. 31, 1:
+
+     Qual pi@u diversa e nova
+     Cosa fu mai in qualche stranio clima ec.
+
+e qui, per verit@a, ^diversa~ vale anche ^insolita~, ^mostruosa~
+ec. ed @e usata assolutamente, come nel verso di Dante.].
+
+	|14.~  |Con tre gole.~  Virg.,Georg. IV,483: ... ^tenuitque
+inhians tria Cerberus ora~: ed En. VI, 417: ^Cerberus haec ingens
+latratu regna trifauci Personat, adverso recubans immanis in
+antro.~  
+
+	Orazio ^A Mercurio~ (Lib. III, Od. XI, 15) dice: 
+
+     ^Cessit immanis tibi blandienti 
+               Janitor aulae 
+     Cerberus; quamvis furiale centum 
+     Muniant angues caput ejus, atque 
+     Spiritus teter saniesque manet 
+               Ore trilingui.~  
+
+Ma Dante imita pi@u Virgilio, come si scorge dalla locuzione, e da'
+colori indi tolti ad incarnare il disegno del suo Cerbero.  Vedi v.
+25.
+
+	|22.~  Fu notato di errore il Quadrio per aver tenuto che
+^vermo~ fosse qui per la rima invece di ^verme.~  (V. Inf. XXI, 45
+ec.).  Il Poeta us@o anche fuori rima la stessa voce, Inf. XXXIV, 108:
+
+       ... Ov'io m'appresi 
+     Al pel del vermo reo, che'l mondo fora.  
+
+	Nell'Inf. XXIX, 60 seg.: 
+
+       Quando fu l'aer si pien di malizia, 
+     Che gli animali, infino al picciol vermo, 
+       Cascaron tutti...  
+
+	Ne' salmi penit. I, Dante dice:
+
+     Difendimi, o Signor, dallo gran vermo.  
+
+Si @e veduto (v. 14) onde avesse il Poeta tolta l'idea del suo Cerbero:
+ma l'averlo chiamato ^il gran vermo~ si deve, giusta gli eruditi,
+all'imitazione del luogo seguente ch'@e della visione di Frate
+Alberico: ^Post haec omnia ad loca tartarea, et os infernalis baratri
+deductus sum, qui similis videbatur puteo~ [(b) Inf. XXXII, 16:
+
+     Come noi fummo gi@u nel pozzo scuro.],
+
+^loca vero eadem horridis tenebris, stridoribus quoque et minis
+plena erant ejulatibus~ [(c) Inf. III, 22 seg.:
+
+     Quivi sospiri, pianti ed alti guai
+     Risuonavan per l'aer senza stelle...],
+
+^juxta quem infernum vermis erat infinitae magnitudinis~
+^ligatus maxima catena.~  (L. Tosti Stor. della Badia di Mont.
+Cassin. tom. II, pag. 106 segg.).
+
+	Ad ogni modo, poich@e Cerbero coi suoi latrati @e figura
+della coscienza rea, ch'@e rosa dal verme del rimorso; ben
+s'avvis@o il Tommaseo, che Dante l'appellasse ^Verme~ non solo
+perch@e questa voce valse in antico a significare qualunque sia
+fiera schifosa; ma perch@e Isaia (LXVI, 24) dice de' malvagi:
+^Vermis eorum non morietur.~  Il Pulci, IV, 15: chiama ^crudel
+vermo~ un leone, a cui Rinaldo spicc@o il collo d'un tratto.  Ma
+s@i questo poeta, come l'Ariosto, ed altri dopo Dante, poterono
+usare il detto vocabolo per istudio d'imitazione.
+
+	|25.~ e seg.  Qui Virgilio, che conduce Dante, fa ci@o che
+nel VI dell'Eneide (v. 419 seg.) fece la Sibilla, che men@o
+Enea per l'inferno.  L'uno gitta nelle gole di Cerbero una
+giumella d'arena; l'altro lo satolla d'una soporifera melata
+ciambella:
+
+     ^Cui Vates horrere videns jam colla colubris~
+     ^Melle soporatam et medicatis frugibus offam~
+     ^Objicit: ille fame rabida tria guttura pandens~
+     ^Corripit objectam, atque immania terga resolvit~
+     ^Fusus humi, totoque ingens extenditur antro.~
+
+	Che volesser significare per codesto Cerbero dalle
+golacce lorde e bramose, tanto i nostri grandi poeti, quanto le
+favole, non @e malagevole intenderlo; perciocch@e da Virgilio e
+Dante in qua non ci mancarono i Cerberi, che per un pugillo d'
+arena o per un'^offa~ gittata nelle loro avide fauci niente
+curarono del proprio uffizio, ed aprirono e chiusero a lor
+talento non solamente la porta dell'Inferno, ma quelle ancora
+del Purgatorio e del Paradiso.  -- Dante, meglio che Virgilio,
+pone Cerbero, lorda e brutta bestiaccia, a custode e tormento di
+quei vili che fecero del ventre un Dio; e della cui pena:
+
+     ... se altra @e maggio nulla @e s@i spiacente. (v.48)
+
+	Virgilio che gitta l'arena nelle canne di Cerbero @e la
+Ragione, che spregia quel che pu@o appagare le brame d'un vile:
+perciocch@e il vero savio non ciba ^terra~ n@e ^peltro.~
+
+	|30.~  |Intende.~  ^Intendere~ @e qui ^aver cura in far
+checchessia, applicarsi a una cosa~ ec.  Lat. ^animum
+intendere.~  Egidio Colonn., Reggim. de' Princ.  Lib. I, cap. VII:
+^Quelli che stima la beatitudine nelle ricchezze, non~ intende
+^se non~ ad ammassar danari, ^non calendoli se tolle il bene
+altrui.  Unde 'l re non sar@a re ma tiranno; che tiranno si @e
+quelli, il quale~ intende ^propiamente al suo propio bene, non
+guardando a nullo bene altrui; e re @e quelli il quale~ intende
+^propiamente al bene del suo popolo...  Lo terzo male si @e che
+quelli che~ intende ^ad alcuna cosa, credendo che sia'l suo~
+^principale bene, esso si studia acciocch'elli la possa avere
+quant'elli pu@o, e tulti gli altri studi ne lassa~ ec.  E Lib.
+I, Cap. XI: ^Appresso, il principe die avere onore ed~
+intendere ^a ci@o ch'elli abbia buona rinomea~ ec.  Lib. II,
+Part.  I, Cap. IX: ^Perciocch@e s'elli le~ (pi@u femine) ^avesse,
+elli~ intenderebbe ^troppo alle opere della lussuria.~  -- Ser
+Brunetto Lat., Tesor.:
+
+     La lussuria s'accende,
+       Si ch'altro non intende,
+     Se non a quel peccato:
+       E cerca d'ogni lato
+     Come possa compi@ere
+       Quel suo laido volere.
+
+	^Intendere~, dunque, ^a una cosa~, vale ^porvi ogni suo
+studio ed attenzione~ ec.
+
+	|Pugna.~  Di ^pugnare~ per ^istudiarsi~, ^sforzarsi,
+affannarsi, porre ogni estrema cura, fare a pruova~, o ^a gara,
+contendere~ ec. ecco qualche altro esempio.  Ristoro d'Arezzo,
+Lib. I, Cap. 2: ^E vedemo en lo cielo tali~ (stelle) ^che pare~
+^che se movano, e hanno piccolina via e pugnar@a ad andare
+quanto quello che ha la maggiore via.~  Purgat. XX, 1:
+
+     Contra miglior voler voler mal pugna.
+
+cio@e: ^un volere, un desiderio mal si sforza contra un altro
+volere o desiderio pi@u forte; migliore~ essendo qui da
+^melior~ ch'@e il comparativo di ^bonus~ preso in sentimento di
+^forte, prode, valoroso ec. [(a) Secondo che qui si dice,
+nell'animo del Poeta colluttavano due voleri: l'uno 
+d'intrattenersi a favellare ancora con papa Adriano; l'altro 
+d'obbedire a lui che (Purgat. XIX, 139) gli avea detto:
+
+     Vattene omai; non vo che pi@u t'arresti,
+       Che la tua stanza mio pianger disagia,
+     Con qual maturo ci@o che tu dicesti.
+
+questo fu di pi@u momento e di pi@u forza; e Dante lasci@o in
+pace la Beatissima anima purgante.].  (Inf. III, not. 62).
+
+	Da ^pungere~ si fece ^pungare~ per ^spronare,
+affrettarsi, correre, sollecitare~ ec.; e da ^pungare~, per
+metatesi, ^pugnare~: quindi (Inf. IX, 7) ^punga~ invece di
+^pugna~:
+
+     Pur a noi converr@a vincer la punga:
+
+e ^pungare~ in luogo di ^pungere~ (Convit. IV, Cap. XXVI): ^E
+questo sprone si chiama fortezza, ovvero magnanimit@a, la qual
+vertute mostra lo loco ove @e da fermarsi e da pungare.~  Il
+Provenz. ha ^pugnar, punchar~ per ^pungere, pugnare~, in
+accettazione di ^affrettarsi~ ec.  Ugo di San Ciro: ^Degra poignar
+al finir~, cio@e, ^dovrebbe affrettarsi al finire.~  -- Folchetto
+di Romano: ^Om se pung de Deu servir.~
+
+	Nel verso le due voci ^intende~ e ^pugna~ son vivi colori
+che dipingono in pari tempo quell'applicazione esclusiva e
+quell'avidit@a affannosa, onde un cane affamato si arrabatta
+intorno all'osso.  -- ^Intende~ e ^pugna~ sono, giusta il
+Tommaseo, due elementi della forza, che in s@e chiude la sola
+voce ^Contendere.~  Nessuna miglior pruova dell'autorit@a di
+tant'uomo.  Di ^pugna~ egli dice: |Pugna~, ^par combatta col
+cibo mangiandolo avido.~  Ma la propriet@a del vocabolo da noi
+additata torr@a, non fosse altro, ai parassiti, e agli affamati
+la paura, che non sieno per trovare nel pasto qual si sia maniera
+di combattimento.
+
+	|34.~  |Adona.~  Il Tommaseo intende ^adona~ per ^doma~; il
+Volpi: ^abbassa, deprime, fiacca~; il Daniello: ^fa che
+s'umilino e s'arrendano~; il Landino e il Vellutello: ^raguna~ e
+^restringe insieme in un luogo.~  Al Venturi pare stia a cuore
+questa interpretazione, pensando che: ^quell'~|adona~ ^vi star@a
+in luogo d'|aduna~, come poco sopra |agugna~, ^in cambio d'~
+|agogna.~  Innanzi tutti, il Bargigi chiosa: |adona~ ^preme e
+doma.~  Brun.  Bianchi @e col Tommaseo, col Volpi, col Daniello,
+col Bargigi ec. e spone: |Adona~, ^abbatte, tien prostrate a
+terra.~  Il Lombardi: |Adonare~, ^abbassare, domare.~  Cita lo
+stesso Dante (Purgat. IX, 19):
+
+     Nostra virt@u che di leggier s'adona
+     Non spermentar...
+
+e le parole di Gio.  Vill. (Cronic. lib. VI, cap. 80): ^E cos@i
+s'~ adon@o ^la rabbia dello ingrato e superbo popolo di Firenze.~
+|Adonato~ per ^abbattuto~; |adonamento~ per ^abbattimento~, si
+leggono nelle rime di Bonagiunta Urbiciani, e son voci venuteci
+dal Provenzale.
+
+	Per chi spone ^adona~ in sentimento di ^aduna~ stanno,
+secondo ci avvisa, le seguenti ragioni. 1+a~ Che, passando i due
+Poeti su per le ombre (v. 34), la voce ^adona~ pare messavi a
+bello studio, a significare, che nessuna via s'apriva tra quei
+miseri, per la quale metter si potessero.  Altrimente Virgilio, e
+pi@u Dante che v'andava con la soma del corpo, avrebber dato
+segno di assai poca piet@a e gentilezza in calpestare quelle
+anime, quali ch'elle si fossero. 2+a~a pioggia d'acqua negra, di
+neve e di grossa grandine ammucchiava le ombre, o in quanto a che
+le une facevano a s@e schermo delle altre; o perch@e la
+moltitudine de' golosi, che laggi@u continuamente precipita, va
+in bal@ia delle acque trasportata come vil materia a un medesimo
+luogo. 3+a~l Poeta accenna (v. 100 seg.) alla ^sozza mistura
+dell'ombre e della pioggia~: esse facevan dunque un reo impasto
+con l'acqua, con la neve e con la grandine che vi cadea. 4+a~
+Avvegnacch@e Ciacco dica (v. 54): ^alla pioggia mi fiacco~;
+questo poteva bene a lui, come agli altri, accadere, tuttoch@e
+non fossero disgregati.
+
+	|36.~  |Persona~, vale qui ^corpo umano.~  Noi diciamo:
+^bello della persona~ ec.  I Provenzali, nel cui linguaggio erano
+versati i padri della nostra favella, massime i due Danti
+Maianese e Fiorentino, chiamarono corpo (^cors~) la persona della
+pi@u fina belt@a della dama.  G. Faidit:
+
+     Lo gens cors onratz,
+     Complitz de gran beutatz
+     De lieys que plus m'agensa ec.
+
+	^La gentil persona onorata, compita di gran bellezza,
+di lei che pi@u m'aggrada~ ec.  -- Arnaldo di Marviglia:
+
+     ... d'als non ai talen
+     Mas de servir vostre cors benestan.
+
+	^D'altro non ho talento che di servire vostra persona
+perfetta.~
+
+	^Persona~ vale in questo luogo di Dante, ^corpo vero di
+persona viva~, in opposizione alla vanit@a degli spiriti, che non
+occupano luogo, e permettono passaggio per loro, al contrario de'
+corpi che sono di natura impenetrabili.  Virg. En. V, 268:
+
+     ^Ibant obscuri sola sub nocte per umbram~,
+     ^Perque domos Ditis vacuas, et inania regna~ (a).
+
+     [(a) Il Caro: ...  Ivan per entro
+
+     Le cieche grotte, per gli oscuri e v#oti
+     Regni di Dite; e sol d'errori e d'ombre
+     Avean rincontri...]
+
+	Dante chiam@o ^vanit@a~ quelle che Virgilio (En. VI, 292)
+disse: ^tenues sine corpore vitas~:
+
+     ... ombre e vite
+     Vote de' corpi e nude forme e lievi.  (Caro)
+
+	|48.~  La pena minore pu@o spiacer dippi@u che la maggiore,
+non quanto alla intensit@a, ma al modo.  Quello appunto di che
+dolevasi Francesca da Rimini (Inf. V, 102).  Altro @e invero
+morire o soffrire per la patria e per l'onore come cento, che
+come dieci per delitto o vergogna: ogni uomo affronta con bravura
+una morte che gli merita fama, siccome abborre da quella che
+lascia macchiata la memoria del proprio nome.  Lo stesso patibolo
+ha pi@u gradi di pena, e pi@u grave si reputa quella che fa
+maggior disonore a chi @e condannato nel capo.  Tutto l'Inferno
+non ha pena pi@u ^spiacente~, cio@e, che pi@u mortifichi gli
+spiriti e gli faccia tenere a vile; quanto quella che gli adegua
+alla terra [(b) Davide per indicare l'avvilimento in cui era
+caduto dice: ^Adhaesit pavimento anima mea.~] e gli stiva e con
+fonde nella brutta mistura di grossa grandine e di neve e d'acqua
+tinta; sicch@e si vada su co' piedi pestando: ^lor vanit@a che
+par persona.~  Servi ubbidienti al ventre, loro dio, sono i
+lecconi, bestie e non uomini; poich@e, inchinati alla terra e
+dati ai sensi, ingrossano l'intendimento e non si levano pi@u su
+della loro testa; epper@o come cani che solo a divorare pugnano,
+e simiglianti a Cerbero, il qual racquetasi come ha piene d'
+arena le bramose canne; han degna pena giacer distesi e reietti
+su per la sozza terra, n@e mai rizzarsi in piedi sino al d@i del
+finale Giudizio.  -- ^Spiacenti~ son chiamati (Inf. III, 63) i
+vili ed ignavi spiriti; e ^Spiacente~ con propriet@a @e detto di
+cosa, onde sarebbe schiva la vista, o che mandi ingrati odori.  Il
+profondo abisso, dice il Poeta, gittava orribil puzzo: Che 'n fin
+lass@u facea spiacer lo lezzo (Inf. X, 136).  -- Capaneo (Inf. XIV)
+sta sotto le falde di fuoco, che gli piovono dall'irato Giove, e
+appare al Poeta...  Grande che non par che curi l'incendio ec.
+ma Ciacco ^si fiacca~ a pena men viva, che lo rende un ciacco; e
+che pi@u spiace.
+
+	^Maggio~ @e ^maggior~; ma non per la rima l'us@o mai il
+Poeta, come pretese il Lombardi, n@e qui per@o fa mestieri
+mutarlo.  ^Maggio~ si adoper@o in tutt'i generi, e in prosa, e nel
+verso fuor di rima, ed anche avverbialmente.  V. Parad. VI, 120,
+not.
+
+	|Nulla~, ^niuna, nessuna.  Nullo~ trovasi spesso
+adoperato, appo gli scrittori antichi di nostra lingua,
+addiettivamente e sustantivamente: cio@e in corrispondenza al
+^nullus~, e al ^nemo~ de' Latini.  -- Per ^nessuno~, agg.
+
+	Tommaso di Sasso:
+
+     Che non aggio nul lato che non ami.
+
+	Dante da Maiano:
+
+     Amar senza nul pro di fin coraggio.
+
+	Il Petrarca:
+
+     Di che nulla piet@a par che vi stringa.
+
+	Inf. XlV, 65:
+
+     Nullo martirio, fuor che la tua rabbia, ec.
+
+	Per ^niun uomo.~  Fra Giord. Pred. IX: ^Non @e nullo che
+di quello di Dio non abbia.~  -- Pred. XVI: ^Onde nullo in
+questa vita, nullo, pu@o sapere o essere certo s'egli @e di
+quegli eletti.~
+
+	Il Barberino:
+
+     Che nul di noi @e forte a sofferire.
+
+	Dove @e a notare la forza del ^nul~, quale del partitivo
+^nullus~ de' latini; e il troncamento, a cui non si farebbe di
+leggieri buon viso.
+
+	|61.~  |Citta partita~ ben detta Fiorenza, cui lacerarono
+ruinose scissure di cittadini ^partiti a setta.~  (V. Inf. III,
+89)
+
+	|65.~  |Selvaggia~, cio@e, ^degna di star nelle selve con
+le fiere~, che ^non tra gli uomini in citt@a.  Selvatico~ val
+^nemico di civile eguaglianza.~  L'Ottimo chiama ^salvatichi~ i
+tiranni.  Il Tommaseo chiarisce assai magistralmente in una delle
+sue illustrazioni, e mostra per vari luoghi della Divina
+Commedia, il senso figurato che il Poeta costantemente lega a
+cotesto vocabolo.
+
+	|69.~  |Forza~ per ^truppa.~  Il Malespini Cap. CCII.  I
+^Sanesi... con masnade tedesche e Spagnuoli, cogli usciti
+Ghibellini di Fiorenza... e colta~ forza ^di Pisa, s@i vennono
+a oste al Castello di Colle di Valdesa, il quale era alla
+guardia de' Fiorentini...~ [(a) Nella Bibbia spesso ^virtus~
+si prende per ^coetus, exercitus.~  Quindi ^Deus virtutum~ il
+^Dio degli eserciti; virtutes coelorum le stelle.~  V. Sav.
+Mattei, Salm. XXXIII, 6, e Genes. II, 1; Deuteron. XVII, 3, ec.].
+
+	|Piaggia.  ^Piaggia~ sust. @e da ^plaga~, mutata ^l~ in ^i~,
+come di ^planta~ si fece ^pianta~ ec.  Ristoro d'Arezzo Destinz. 8,
+cap. 19: ^Fuoro aiquanti li quali~ ec.  La plebe: ^aiquanti, aittri,
+aittare~ per ^alquanti, altri, altare.~  Gl'italiani: ^adempiere~ dal
+lat. ^adimplere, chiaro~ da ^claro, chiostro~ da ^claustro, fiore~ da
+^flore~, ^fiorire~ da ^florere, pi@u~ da ^plus, piano~ da ^plano~ ec.
+Or cos@i da ^placere~ si fece ^piacere~, da questo ^piaciare~, e indi
+^piagiare~ e ^piaggiare~ in sentimento di ^adulare~ o ^essere
+condiscendente~; qual fu Filippo il Bello a Bonifazio, annuendo che
+Carlo andasse a spegnere le ire fiorentine.  D'onde @e manifesto che in
+questo luogo il verbo ^piaggia~, da ^piaggiare~, debb'essere venuto di
+^plagiare~ fatto da ^plagere~ per ^placere~; infiniti essendo gli
+esempi de' verbi che della seconda si conformarono alla prima
+coniugazione.  Quindi ^piaggiare~ per ^adulare, blandire, far da caicco
+o da vil cortigiano~, ed anche ^tirare altri alla sua volont@a con
+baggiane.  Piagente, plazente~ e ^piacente~ dal provenz. ^plazen,
+plazent~ nel significato di ^bello, vago, grazioso, gentile, caro,
+diletto~, dissero i nostri antichi scrittori.  Guittone:
+
+     Che m'@e dolor mortal vedere amare
+     Piacent'uomo talor donna non bella.
+
+	Nel Filocolo I, 217: ^Ovunque il grazioso giovane e la
+piacente~ (bella ec.) ^Giulia erano conosciuti, si piangeva.~
+Orazio Lib. II, Od. XIV:
+
+     ^Linquenda tellus, et domus, et placens uxor.~
+
+	Quindi ^piacentiero~ per ^aggradevole~, ^lusinghiero,
+grazioso, gaio, gioioso~, ^festivo~ ec.
+
+     Cortese lingua, e costumi avvenenti,
+     Piacentieri e piacenti.
+
+	E come disavventuratamente non ogni cosa che ^piace~ @e
+^buona~; cos@i nacque da ^piacere~ il ^piacentare~, la
+^piacenteria~, e il ^piacentiero~, la ^piacenza~, voci oggimai
+tratte fuori ne' dizionari in sentimento di ^adulare, adulazione,
+adulatore~, ^vaghezza~ ec.  Ma con cotesto ^piaggiare~ se ne vanno
+^piaggia piaggia~ i vocabolaristi.
+
+	I comentatori dicono che ^Piaggiare~ @e propriamente
+andar fra terra e mare o costeggiar la marina.  Il Vellutello
+chiosa: ^Carlo di Valois, il quale ora posa~, ^non essendosi
+ancora mosso per venire all'impresa; ed @e per similitudine
+delle navi giunte a piaggia, che posano.~  Questa
+interpretazione accetta anche il Torricelli.
+
+	Benissimo, se si derivasse ^piaggiare~ da ^piaggia,
+plaga~ (nap. ^chiaia~, calabr. ^praia~) ch'@e il ^renaio~, e nel
+qual sentimento disse il Poeta:
+
+     Per altre vie per altri porti
+     Verrai a piaggia...
+
+	Ma ove paiano agli assennati non aver qui che fare le
+piagge e i monti, e s@i vorr@a dar bando al traslato del
+Vellutello; potrem tenere la spiegazione del Costa, il quale a
+noi pare che abbia dato nel segno, prendendo questo ^piaggiare~
+per ^adoprare dolci e lusinghevoli modi.~  E sia che ci@o si dica
+di Carlo, sia che di Filippo, onde propriamente partiva la forza
+che dovea sterminare i Bianchi e i Neri; pot@e Dante alludere al
+soprannome di ^bello~ dato a quel re di Francia, sendo che
+^piaggiare~ sia ^placiare, placere~ od esser bello.  Che se poi
+codesto ^piaggiare~ si voglia dire di Bonifazio, e gli star@a ben
+detto altres@i, a cagione di quella sua papalina o volpina
+piacenteria, che, a rovina delle parti loro avverse, i papi,
+nonch@e i re ec.; seppero in ogni tempo provvedutamente adoprare.
+
+	Il Vill. VIII, 69: ^I grandi di parte Nera e quelli che
+piaggiavano con il Legato.~  Qui ^piaggiavano~ @e de' sedicenti
+moderati o amici dell'ordine, i quali si mostravano col
+Cardinale ^placidi, piacenti~ e umani, affinch@e ingraziandosi
+ottener potessero che la loro fazione venisse favorita dal B.mo
+Padre.  -- Il Tommaseo: ^Piaggia -- Lusinga Firenze, viene adagio
+con cautela fraudolenta.~
+
+	|79.~  Pronunziando come sta scritta la parola ^Tegghiaio~,
+il verso cresce d'una sillaba.  Alcuni dicono che si deve
+pronunziare come Tegghia': e cos@i dove occorra ^primaio,
+Pistoia, Uccellatoio~, ^gioia, noia~ ec. vanno pronunziati
+^prima', Pisto', Uccellato', gio', no'~ ec.  Vero @e che
+gl'Italiani non fanno e n@e fecer mai a mo' de' Francesi, che
+pronunziano altramente da come scrivono: bisogna dunque andare ad
+altra spiegazione.  I nomi d'ogni declinazione, e di vario genere,
+passarono nelle origini della lingua da' Latini a noi con la
+terminazione in ^i~, onde che ^gioia, noia, primaio, Pistoia,
+Uccellatoio~ ec. caddero anticamente in ^gioi, noi, primai,
+Pistoi, Uccellatoi~ ec. nel numero del meno; e ne abbiamo esempi.
+Ai copisti non @e difficile che paruta strana tal desinenza, n@e
+curando o intendendosi di metrologia, abbian creduto restituir la
+voce alla sua integrit@a per aggiugnervi l'^a~ o l'^o~ finale, il
+quale ora ne sconcia il verso.  @E perci@o a sospettare che Dante
+scrivesse:
+
+     Farinata e il Tegghiai, che fur s@i degni.
+
+	Purg. XIII, 22:
+
+     Quanto di qua per un migliai si conta.
+
+e Parad. XV, 110:
+
+     Dal vostro Uccellatoi, che com'@e vinto ec.:
+
+la quale lettera, mentre che ha riscontro in molti luoghi d'altri
+poeti antichi, non altera la misura de' versi, non ci sforza ad
+un troncamento della voce, la quale vi starebbe ancor meglio
+senza di esso; e, quel che pi@u @e, accorderebbe la pronunzia con
+l'ortografia, secondo che richiede la natura della nostra
+favella.  Oltracci@o, i nomi ^gio', no 'prima'~ ec. non son
+tronchi siffattamente da ^gioia, noia~, ^primaio~ ec. ma da
+^gioi, noi, primai~ ec.  Questa osservazione giover@a a leggere
+convenientemente alcuni versi, dove tali parole han luogo; ed a
+render prevenuti i lettori delle mende possibilmente introdottevi
+dagli amanuensi.
+
+	|84.~  |Addolcia~ da ^addolciare~ per ^addolcire~, siccome
+dissero gli antichi, riducendo alla prima i verbi di terza
+coniugazione: cos@i ^arriccare, avvilare, alleggerare,
+aggrandare, gioiare, rimorbidare, schermare, lavorare, fruare,
+insuperbare~ ecc. per ^arricchire, avvilire~, ^alleggerire,
+aggrandire, gioire, rimorbidire, schermire, favorire, fruire,
+insuperbire~ ecc. che oggi usiam dire.  Fra Guittone disse:
+^addolzare~, imitando l'^adolsar, adolzar~ de 'provenzali:
+
+     E m'addolza lo cor sovente audire
+     La fermezza e l'ardire
+     Degli antichi cristian gran cavalieri.
+
+	E Lett. XXIX: ^Addolzandomi tutto amaro mio.~
+
+	Cavalc.  Med. cuor.: ^Ma come veggiamo che la cosa arida e
+dura non s'addolca.~
+
+	Guido Giud. 42: ^E che egli non hae potuto addolciare
+gli animi degli Greci a restituzione d'Essione.~
+
+	Il nostro Poeta us@o per l'anzidetta cagione (Inf. XV,
+37) ^arrostarsi~ per ^arrostirsi~; (Inf. XIX, 120) ^spingava~ per
+^spingeva~; (Purgat. VI, 156) ^scherma~ per ^schermisce~; (Parad.
+VIII, 33) ^gioi~ per ^gioisca~; (Parad. IX, 124) ^favor@o~ per
+^favor@i~ ec. tutti verbi, negl'incunabuli della lingua ridotti
+dell'una, nell'altra coniugazione.
+
+	Fra Guittone, che su abbiamo veduto usare ^addolza~,
+adoper@o come Dante, ^addolcia~; dicendo nella Lett. a
+Bonaggiunta Urbiciani (^forse~).  ^Vostro buon talento addolcia
+l'anima mia~ ec.
+
+	Cos@i anche de' verbi della 2+a~ ridotti alla prima @e
+^Stringare~ per ^Stringere~; di cui tuttora persiste ^Stringato~
+per ^Stretto.~  E Mazzeo Ricco (1250):
+
+     Cos@i mi stringa (stringe) Amore,
+     Ch'altro non posso fare
+     Se non tornare -- a voi, donna valente.
+
+	|96.~  ^Podesta~ per ^Podest@a.~  Cos@i ^Majesta~ o ^Maesta~
+per ^Maest@a; Onesta, Pieta~ ec. per ^Onest@a, Piet@a~ ec. il che
+si @e fatto alla maniera latina ^Potestas, Majestas~, ^Honestas,
+Pietas~ ec. prendendosi la voce italiana, non gi@a, come
+d'ordinario, dal sesto caso, ma dal primo: cos@i noi anche oggi
+da ^tempestas~ non ci facciamo lecito dir ^tempestate~, e quindi
+^tempest@a~; ma diciamo ^tempesta~, ritirando l'accento sulla
+penultima.
+
+	Ciullo d'Alcamo:
+
+     Molte sono le femine
+     Ch' hanno dura la testa,
+     E l'uomo con parabole
+     Le dimina e ammonesta:
+     Tanto intorno percacciale
+     Sinch@e l' ha in sua podesta.
+
+	Cristo disceso all'Inferno @e chiamato dal Nostro
+^Possente~ (Inf. IV, 53 not.).  Qui ben detto ^nemica podesta~
+colui stesso, che verr@a, contro gli spiriti mali, ^cum potestate
+magna.~  La potenza e la forza entrano naturalmente nell'idea del
+valore, della grandezza ec. e non potevano escludersi dal
+concetto degli eroi e degli Dei del paganesimo.  A Giove poi si
+dettero gli attributi di ^omnipotens~, di ^aeterna hominumque
+divumque potestas.~  In Ebreo, Dio O. M. fra gli altri nomi ebbe
+quello di ^Saddai~, cio@e ^praepotens~, ^omnipotens~ desunto
+dalla infinita possanza di lui.
+
+	|99.~  |In eterno rimbomba.~  Alla presenza del Supremo
+Giudice verranno, nell'universale giudizio, gli eletti e i
+reprobi: quelli dalla destra, questi dalla sinistra.  Ai primi
+sar@a detto (Matth. cap. XV, 34): ^Venite benedicti patris mei,
+possidete paratum vobis regnum a constitutione mundi.~  Ai secondi
+(loc. cit. 41): ^Discedite a me maledicti in ignem aeternum.  Quel
+che in eterno rimbomba~ @e dunque questa sentenza di
+condannagione, la quale si compie nell'ultima voce ^aeternum~,
+che, pronunziata con forza, ferir@a le orecchie de' maledetti.
+Chi sottilmente consideri, Dante ci@o dice col metro stesso del
+verso; il quale ha l'accento sulla settima:
+
+     U-dir@a quel / che in e-ter / -no rim-bom / -ba.
+
+	Il Bargigi: ^Udir@a quello che rimbomba, che risuona
+in eterno, cio@e Cristo giudice giusto, che dir@a: andate
+maledetti nel fuoco eterno, la qual sentenza eterno suona, ed
+in eterno estende la pena sua, sicch@e mai non sia per aver~
+^fine.~  -- Il Venturi: ^Udir@a quella sentenza di maledizione,
+che gli rimbomber@a sempre per tutta l'eternit@a all'
+orecchio.~  -- Il Volpi: Quel che in eterno rimbomba: ^cio@e l'
+ultima sentenza di Cristo contro i reprobi, che dir@a~: Andate,
+maledetti, nel fuoco eterno.  Il Lombardi: ^Quel~, la sentenza; --
+^rimbomba~ enallage di tempo invece di ^rimbomber@a~; ed ^in
+eterno rimbomber@a~ vale quanto ^in eterno avr@a effetto, in
+eterno non si ritratter@a.~  -- Il Biagioli: ^Quel~ non vuol
+dire la sentenza, ma determina il nome ^suono~ sottinteso.
+^Rimbomba~ non ist@a qui per rimbomber@a, ma @e questa
+l'espressione pi@u positiva d'una s@i terribile verit@a.  -- Il
+Bianchi: ^Quel che...~  La finale sentenza che rimbomber@a
+eternamente nelle loro orecchie.  -- Il Torricelli: ^Udir@a~ ec.
+Andate, maledetti, al fuoco eterno.  -- Il Tommaseo: ^Itene da
+me~, ^maledetti, nel fuoco eterno.~
+
+	Ora @e chiaro che l'esposizione del Bargigi @e secondo il
+contesto; ma con qualche cosa di pi@u, che parte dalla mente
+dello espositore.  Il Venturi pigliando ^in eterno~ per modo
+avverbiale, produsse l'enallage del Lombardi e la coda che alla
+sentenza chiarissima del Poeta si appicca per deduzione
+^pedantesca -- scolastica -- gesuitica.~  Il Biagioli distrugge,
+ma non edifica.  Il Bianchi si accosta al Venturi.  Il Torricelli e
+il Tommaseo proseguono il senso spontaneo della frase Dantesca.
+
+	Nota, cortese lettore, tutto il quadro del finale
+Giudizio dipinto a brevi tratti vivissimi, dal v. 95 al 99, con
+solo accennarvisi ^l'angelica tromba -- la nemica podesta -- il
+ritrovar la trista tomba -- il ripigliar sua carne e sua~
+^figura~ -- e ^l'udir quello che in eterno rimbomba.~
+
+	|109.~  |Tuttoch@e.~  Equivale a: ^Con tutto che vero sia
+ci@o, che~ (Lat. ^quamvis~ ec.) Egid.  Colonna (Del regg. de'
+princ. Volgariz.) n@e fa intravedere l'integrit@a della frase
+omai ridotta a una semplice particola congiuntiva.  Lib. I, Cap.
+VII: ^Tutto sia ci@o che oro e ariento sieno metalli naturali,
+non sono ricchezze quanto per loro, ma per l'ordinamento degli~
+^uomini.~  Dove, ^tutto sia ci@o che~ @e come ^con tutto che sia
+ci@o, che~; Lat.  ^Esto et hoc quod~ ec.  L'uso ha lasciato fuori
+le voci di mezzo ^sia ci@o~ e il restante piacque a Dante come
+pi@u riciso modo e pi@u spiccato.  Non rado incontra che
+dell'intera locuzione si prenda il solo ^tutto~, che fa eziandio
+bellissimo effetto, siccome nell'opera cit. Cap. XI: ^Unde
+avviene che quellino, ch' hanno i beni corporali, credono essere
+beati~, tutto ^non abbino ellino i beni dell'anima~ ec.  E Fra
+Guittone:
+
+     Tutto secol sia reo, have suo bono.
+
+	<L'avverbio ^con tutto che~ (cos@i il Bartoli) sembra a
+guisa delle biscie, o di quegli che Dante chiam@o alla grechesca
+^entomata~ cio@e, insetti, che a tagliarne dall'un capo e dall'
+altro un pezzo, pur nondimeno han vita e moto.  Perocch@e troncata
+da ^contuttoch@e~ la prima o l'ultima particella, anzi ancor l'
+una e l'altra, quel di mezzo si riman vivo ed ha senso>.  Pu@o
+dunque dirsi egualmente bene: ^con tutto, tuttoch@e~, o
+semplicemente ^tutto~, che valgon sempre ^sebbene, quantunque,
+avvegnacch@e~ ec.  -- ^Con tutto ch@e.~  Inf. XXX, 86:
+
+     Con tutto ch'ella volge undici miglia ec.
+
+	|111.~  ^Di l@a~ della gran sentenza, cio@e dopo il
+Giudizio.
+
+	In questo verso con gli altri che v' han no attinenza il
+costrutto piano @e: ^questa gente maledetta... aspetta essere
+in perfezione di l@a pi@u che di qua.~  Vuol dire: i dannati
+poich@e avran ripigliato ^sua carne e sua figura~ (v. 98) saran
+pi@u perfetti, cio@e pi@u ^compiuti~; essendo il corpo parte
+dell'uomo; pi@u dolorosi dopo il d@i del giudizio, perch@e
+patiranno in entrambe le sostanze del congiunto umano.
+
+     In vera perfezion giammai non ^vanno~:
+
+perch@e questa consiste nell'asseguimento del fine, per cui la
+creatura ragionevole fu creata; nell'accordo tra l'anima e il
+corpo, tra la ragione e i sensi ec. fuori del quale ordine gi@a
+sono i maledetti, n@e mai vi entreranno.  Son notevoli i due verbi
+(v. 110) ^Vada~, (v. 111) ^Essere.~  Il primo dinota che havvi
+certo grado di perfezione a cui quelli possono andare, sino al
+giudizio: dopo questo, resteranno eternamente nel medesimo stato
+di ^non vera~ perfezione (v. 110), ch'@e il tormento del
+disordine; cui son riferite le parole di Giobbe: ^Ubi nullus
+ordo, sed sempiternus horror inhabitat.~

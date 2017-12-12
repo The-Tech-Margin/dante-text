@@ -1,0 +1,527 @@
+	|1-12.~  Per il fatto che San Pietro ha cinto tre volte
+la fronte di Dante col suo lume, cio@e lo ha coronato pel
+risultato del suo esame sulla Fede, il poeta, se avverr@a che il
+merito acquistato col suo poema gli riapra le porte di Firenze e
+gli valga la coronazione poetica, vorr@a esser coronato sul fonte
+battesimale ove entr@o nella fede cristiana.  Pel significato
+intimo di ci@o, vedi la nota finale n. 1 {qui di seguito}.
+
+	NOTA FINALE N. 1: <SUL FONTE DEL MIO BATTESMO>.  Nella
+finzione poetica, Dante esprime il suo desiderio d'esser coronato
+poeta proprio sul fonte battesimale del suo ^bel San Giovanni~
+{^Inf.~ XIX, 17}, perch@e se San Pietro lo ha in certo modo
+coronato per un suo riuscito esame intorno alla Fede, gli par
+bello che quell'agognato alloro poetico gli sia cinto dove in
+quella Fede egli fece il suo ingresso.  Con Dante avviene spesso
+che la finzione ci prende fino al segno di farci ragionare su
+essa come se fosse una realt@a.  Ma il fatto @e che quella
+coronazione di San Pietro non avvenne mai, e che dobbiamo
+invertire il rapporto: non dalla coronazione di San Pietro sorse
+in Dante l'idea di scegliere il suo battistero come luogo di
+coronazione poetica, ma immagin@o quella per avere occasione di
+manifestare solennemente tale suo desiderio, che era in lui a
+prescindere dall'invenzione poetica.  E la domanda che dobbiamo
+farci @e questa: come era sorto in Dante quel desiderio?  Per
+comprenderlo, dobbiamo totalmente distaccarci dalle idee che oggi
+dominano intorno alla poesia, considerata come un puro fatto
+estetico, e intorno al poeta, al cui pregio sarebbe quindi del
+tutto indifferente il contenuto dell'opera sua.  Le quali
+dottrine moderne hanno avuto il merito di rivolgere l'attenzione
+a quello che di ^sui generis~ hanno i valori di un certo ordine,
+l'estetico, facenti parte dell'opera poetica, e di isolarli, per
+studiarli, da altri valori, come i morali, gli scientifici, i
+pratici; ma hanno avuto il torto di dimenticare che l'opera
+concreta @e quasi sempre opera complessa, in cui molte specie di
+valori si fondono in una totalit@a superiore, e che la mera opera
+d'arte @e spessissimo un mito come sarebbe un mito voler vedere in
+un uomo un puro artista, negando che a farlo quel ch'egli @e
+concorrano anche elementi dottrinali, morali, pratici.  Ai tempi
+di Dante questa, che dovrebbe essere un'ovvia verit@a in tutti i
+tempi, era pienamente riconosciuta; e Dante giudicava d'un'opera
+di poesia dal suo complesso, e, nel suo alto concetto della
+poesia, non concedeva il nome di poeta se non a colui nella cui
+opera, pur avendo larga parte quel pregio che oggi noi diciamo
+estetico, si ritrovassero per@o largamente alti valori morali e
+intellettuali.  E fino da quando scriveva il ^De vulg. el.~,
+riconosceva che l'alta poesia, degna del volgare illustre,
+^nunquam sine strenuitate ingenii et artis adsiduitate et
+scientiarum habitu fieri potest.~  E quando, nel I canto del
+^Paradiso~ {13-27}, prega Apollo di aiutarlo, parlando proprio
+dell'agognata coronazione gli dice che di essa lo faranno degno
+^la materia e tu~: cio@e il contenuto e l'arte.  Si comprende
+dunque benissimo che egli si sentisse poeta per@o anche per
+l'altezza della materia sacra trattata nel ^Paradiso~, e che
+l'idea di quella corona fosse strettamente connessa a quella Fede
+di cui egli era stato il cantore; onde il suo fonte battesimale
+come luogo pi@u opportuno per quella coronazione; n@e @e improbabile
+che vi concorresse un motivo pi@u umano.  Una coronazione fatta
+sul fonte battesimale, ravvicinando la sua immagine di pargolo
+incosciente a quella del poeta glorioso, e misurando cos@i tutto
+il cammino percorso dal suo genio, doveva lusingare anche per
+questo il suo giusto orgoglio!
+
+	|1-2.  continga~: avvenga.  |Al quale~ ecc.: <a dar
+materia al quale hanno concorso Cielo e Terra>.  Altri spiega
+<che @e stato composto anche con l'aiuto del Cielo>.  Ma il verso
+seguente, in cui Dante accentua la fatica che gli @e costato il
+poema in dipendenza da quel che @e detto nel verso precedente (|s@i
+che...~), mostra chiaramente che in questo non deve accennare ad
+aiuto ricevuto, ma a grandezza e difficolt@a di materia.
+
+	|4.  la crudelt@a~ ecc.: confessione commovente del dolore
+profondo dell'esilio!  In una famosa epistola latina a un amico
+fiorentino, in cui respinge sdegnosamente proposte umilianti di
+amnistia da parte del comune di Firenze, Dante aveva affettato
+una superiore filosofica indifferenza quanto al tornare o non
+tornare in patria.  Ma questo |crudelt@a~ @e un grido irrefrenato
+del cuore!  Era passato altro tempo da allora, e la nostalgia si
+faceva pi@u viva.  L'epistola @e del 1315, e questo canto fu
+certamente scritto alcuni anni dopo (v. nota finale al canto
+XXXIII).
+
+	|5-6.~  Il |bell'ovile~ @e Firenze, gi@a chiamata ^ovil di
+San Giovanni~ nel canto XVI del ^Paradiso.~  Questa metafora
+porta con s@e quella dell'agnello; la quale ha un doppio
+significato: la giovent@u di Dante rispetto al tempo presente, e
+la sua innocenza di fronte ai suoi nemici politici, che chiama
+|lupi~ perch@e colpevoli di cupidigia (v. ^Purg.~ XIV, 49-51), e
+che considera nemici anche di Firenze perch@e hanno procurato il
+suo danno.
+
+	|7-8.  con altra voce~ e |con altro vello~: si
+contrappongono all'immagine dell'agnello, suscitando quella di un
+forte ariete; e il loro senso reale @e la maturazione spirituale
+di Dante non pi@u giovane verseggiatore d'amore, ma solenne poeta
+di materia altissima.  Che |altro vello~ abbia anche senso
+proprio e possa accennare anche al mutato colore dei capelli, non
+credo; ch@e allora anche |con altra voce~ dovrebbe avere un senso
+proprio, il che non @e possibile: da trentasei a poco pi@u di
+cinquant'anni un uomo non cambia voce!
+
+	|9.  cappello~: non il berretto dottorale, come alcuni
+hanno creduto, ma la corona.  |Cappello~ per ^corona~ @e un
+francesismo frequente nel due e trecento.
+
+	|10-11.  fa conte~: fa note.  ^Per fidem a Deo
+cognoscimur~ @e espressione di S. Gregorio Magno.
+
+	|13-15.  Indi~: poi (non ^da l@a~ come altre volte).  |La
+primizia~ ecc.; S. Pietro, primo dei pontefici, cio@e dei vicari
+lasciati in Terra da Cristo.
+
+	|17.  il barone~ ecc.: L'apostolo S. Giacomo Maggiore,
+sepolto a Compostela (Galizia) in Ispagna, la cui tomba era meta
+di pellegrinaggi tra i pi@u affollati nel Medio Evo.  (Per il
+termine ^barone~ cfr. XXIV, 115).
+
+	|20.  pande~: latino ^pandit~: manifesta.
+
+	|21.~  Verso di evidenza straordinaria nella sua
+concisione.  Notare come in Paradiso, dove la figura umana @e
+invisibile e l'espressione non pu@o essere affidata al volto,
+Dante ricorra spesso a similitudini e metafore tolte dai costumi
+degli animali, nei quali l'espressione @e soprattutto di movimenti
+generali del corpo pi@u che di lineamenti.
+
+	|24.  il cibo~ ecc.: @e Dio che nutre quegli spiriti della
+sua sapienza.  |Prande~: @e un latinismo morfologico (^prandet~)
+ma non grammaticale, poich@e in latino ^prandeo~ non @e transitivo
+come qui, e non significa <nutrire> ma <pranzare>.
+
+	|25-27.  Il gratular~: l'affettuoso rallegrarsi (cfr.
+XXIV, 149).  |Assolto~: latinismo per <terminato>.  |^Coram me~:
+<in mia presenza>.  @E la seconda volta che Dante usa la
+preposizione latina |coram~ in luogo della forma volgare.  Ma
+l'altra volta (^Par.~ XI, 62) @e pi@u spiegabile.  |Ignito~: altro
+latinismo: <affocato>, cio@e luminoso.  |Volto~: vista.
+
+	|28.  Ridendo~: di letizia: pi@u forte di <sorridendo>.
+
+	|29-30.~  <Anima illustre da cui fu scritta la liberalit@a
+della nostra basilica>.  @E certamente allusione all'unico atto
+che ci sia pervenuto col nome di San Giacomo: l'Epistola
+cattolica del Nuovo Testamento; che peraltro oggi si preferisce
+attribuire a S. Giacomo Minore, non al Maggiore come fa Dante. 
+Ma che significa |la nostra basilica?~  Se @e usato nel senso di
+<chiesa> dovrebbe, in bocca d'un'anima del Paradiso, indicare la
+Chiesa trionfante; ma che significa <la liberalit@a della Chiesa
+trionfante>?  Nell'epistola c'@e qualche espressione che parla,
+invece, di liberalit@a e misericordia di Dio.  Egli ^dat omnibus
+affluenter~ (I, 5); ^omne datum optimum et omne donum perfectum
+desursum est~ (I, 17); ^misericors Dominus est et miserator~ (V,
+11).  Ma pu@o |la nostra basilica~ significare Dio?  La basilica
+era nell'antica Roma anche tribunale, e l'espressione di Beatrice
+potrebbe significare ^del nostro tribunale~, richiamando il
+^nostra corte~ di Beatrice stessa in ^Purg.~ XXXI, 41; e il
+tribunale celeste @e, in fondo, Dio, unico giudice.  Ma che Dio
+sia chiamato addirittura |nostra basilica~, @e alquanto
+indigeribile.
+
+	|32-33.  tante fiate la figuri~ ecc.: Nella
+interpretazione allegorica del Vangelo si vuole da alcuni che i
+tre apostoli, S. Pietro, S. Giacomo Maggiore e S. Giovanni,
+eletti spesso a parte da Ges@u, figurino le tre virt@u teologali, e
+cio@e, rispettivamente, la Fede la Speranza e la Carit@a.  (@E
+notevole che ai suoi tre figli Dante impose i nomi di questi tre
+apostoli).  Il poeta accenna qui appunto a quegli episodi in cui
+Ges@u li volle compagni a preferenza di altri: quando resuscit@o la
+figlia di Jairo (^Luca~, VIII), nella trasfigurazione (^Matteo~,
+XVII), e alla preghiera nell'orto di Getsemani (^Matteo~, XXVI). 
+Nel verso 33 chi legge |carezza~, chi |chiarezza.~  Se @e
+|carezza~ significa manifestazione di affetto.  Se ^chiarezza~,
+bisogner@a intendere questa parola come <onore, distinzione>, non,
+come comunemente, <rivelazione della sua divinit@a>, giacch@e la
+preghiera nell'orto di Getsemani e il relativo sconforto, fu
+invece episodio assai umano.
+
+	|34-36.~  Parole che S. Giacomo rivolge a Dante, per
+confortarlo di non aver potuto sostenere il suo splendore.  |Fa
+che t'assicuri~: (costruzione latina ^fac ut~): <fatti coraggio,
+non ti sgomentare>.  |Si maturi~: Le sensazioni paradisiache, che
+in principio opprimono i sensi umani, li allenano per@o in pari
+tempo a sopportare di pi@u (cfr. XXIII, 46-48): questo progresso @e
+qui considerato allegoricamente quale una maturazione prodotta
+dai raggi del Paradiso, come in Terra quella dei frutti dai raggi
+del Sole.
+
+	|38-39.~  Chiamar |monti~ gli apostoli @e forse suggerito
+da ^levavi oculos meos in montes~ del Salmo LXX, 1: dove per@o ^in
+montes~ significa verso l'alto.  Ma che questi monti col loro
+peso facciano abbassare gli occhi di Dante, per significare che
+egli abbass@o gli occhi per verecondia verso quei Grandi, @e una
+espressione mista di senso proprio e di figurato tutt'altro che
+felice.
+
+	|40-47.~  Il concetto generale di questi versi @e: <Poich@e
+Dio ti concede la grazia che tu ti abbocchi (|t'affronti~) con
+noi apostoli in questo altissimo cielo (s@i che, vedute le vere
+condizioni del Paradiso, conforti con tale tua visione le vostre
+speranze terrene), parlami ora della Speranza>.  Nei vv. 40-42
+Dante svolge un'immagine tutta coerente al titolo di |imperadore~
+dato a Dio: il Paradiso @e il suo palazzo (cfr. ^Par.~ XXI, 8), la
+reggia, che qui Dante chiama latinamente |aula~ (cfr. ^De Vulg.
+Eloq.~ I, xviii, 2); |l'aula pi@u secreta~ @e dunque la parte pi@u
+intima della reggia, cio@e i pi@u alti cieli del Paradiso, e i
+|conti~ sono i pi@u alti dignitari della Corte, i conti palatini:
+cio@e gli apostoli.  V'ha chi intende, invece, che |l'aula pi@u
+secreta~ sia l'Empireo, e i |conti~ i beati tutti che Dante vedr@a
+lass@u.  Ma l'immagine di |conti~ non conviene menomamente alla
+folla dell'Empireo, che costituisce la cittadinanza tutta di quel
+regno; n@e quella dell'^affrontarsi~ al contemplarla che Dante fa
+da lontano.  L'errore @e nato dal non aver compreso che |aula~ ha
+il senso di palazzo ed @e tutto il Paradiso, e dal volere
+connettere troppo strettamente e alla lettera quella specie di
+parentesi che sono i versi 43-45, a ci@o che precede: quasi che il
+<vedere il vero della corte celeste> fosse tutt'uno con
+l'<affrontarsi coi conti>; mentre invece in quella parentesi S.
+Giacomo non fa che esprimere un altro effetto, l'effetto ultimo,
+della concessione fatta a Dante dalla grazia divina.
+
+	|46.  se ne infiora~: se ne adorna.
+
+	|49.  quella pia~: Beatrice, affettuosa e pietosa verso
+di lui.
+
+	|52-54.  La Chiesa militante~: i cristiani tutti che sono
+in Terra.  Il |Sol~ ecc. @e Dio.
+
+	|55-57.  Egitto~: con allusione alla schiavit@u degli
+Ebrei in Egitto, @e il mondo terreno, schiavo del peccato (cfr.
+^Purg.~ II, 46); Gerusalemme @e la citt@a santa celeste.  |Il
+militar~: il combattere nella Chiesa militante, la vita terrena. 
+|Prescritto~: fatto terminare.
+
+	|58-60.~  L'inciso |che non per sapere~ ecc. (cio@e <che
+tu non domandi perch@e abbia bisogno di sapere>) formalmente
+parrebbe riferirsi soltanto agli altri due punti della domanda
+(che cosa @e la Speranza; donde venne a Dante); ma poich@e proprio
+ora Beatrice ha detto che lo sperare di Dante @e scritto in Dio,
+quella limitazione nell'intento di Beatrice non ci pu@o essere. 
+Quanto alla spiegazione addotta per giustificare il dirsi da
+Dante cosa gi@a saputa dall'apostolo, vedi quanto osservai a
+proposito di XXIV, 43-45.
+
+	|61-63.  forti~: difficili.  |Di iattanza~: <occasione di
+vanto>, come sarebbe stato il proclamarsi da s@e speranzoso non
+meno di alcun altro cristiano.  |Gli comporti~: gli permetta.
+
+	|64-66.~  <Come studente che |seconda~ (segue con la
+parola, ossia risponde) al maestro, pronto e volenteroso, in
+quello di cui @e bene |esperto~ (cio@e nella materia che ben
+conosce; ovvero, intendendo |@e esperto~ come un passivo, su cui @e
+saggiato, esaminato) affinch@e si palesi il suo valore>.
+
+	|67-69.~  La definizione che Dante d@a della Speranza come
+virt@u teologale @e quella di Pietro Lombardo (cfr. ^Par.~ X,
+107-108): ^Spes est expectatio futurae beatitudinis, veniens ex
+Dei gratia et ex praecedentibus meritis.~
+
+	|70.  Da molte stelle~: da molti testi che diffondono
+luce d'insegnamenti.  |Questa luce~: non la certezza
+dell'attendere per s@e il compenso (che deriva dalla grazia e dal
+merito), ma il fatto generale che l'uomo possa sperare, a
+prescindere dal fatto particolare di poter applicare la speranza
+a s@e stesso.  @E necessario fare questa distinzione affinch@e non
+vi sia discrepanza fra la definizione della speranza e quanto ora
+Dante qui dice della sua provenienza.
+
+	|71-74.  distill@o~: fece piovere.  |Quei... che~ ecc.:
+David, autore dei Salmi, in cui liricamente cant@o di Dio;
+|cantore~ equivale a poeta.  I Salmi sono detti |teodia~, cio@e,
+in greco, <canto di Dio>.  Le parole citate sono del Salmo IX (v.
+11): ^Sperent in te qui noverunt nomen tuum~: cio@e coloro che
+sanno l'esistenza di Dio.
+
+	|76-77.~  Continua la metafora dello |stillare~, cio@e del
+piovere.  |Ne l'epistola~: quella gi@a ricordata in nota ai versi
+29-30, dove in vari luoghi si accenna al premio che Dio conceder@a
+a chi soffre e vince le tentazioni; ma @e singolare che Dante
+scelga questo testo e non altri, a cominciar dai Vangeli, in cui
+il premio futuro @e promesso anche pi@u ripetutamente ed
+esplicitamente.  Che Dante, avendo la mente a una scena di
+carattere scolastico, abbia voluto riprodurre il costume dei
+candidati di citare all'esaminatore i suoi scritti?
+
+	|78.~  Sono cos@i pieno della possibilit@a di sperare, che
+posso istillare tale speranza attinta da voi, anche negli altri. 
+Il verso @e bellissimo di sonorit@a abbondante, con quella quasi
+rima al mezzo, |altrui~, |repluo.~
+
+	|79-81.  vivo seno~: la parte interna di quella fiamma,
+dove vive l'anima dell'apostolo.  |Subito e spesso~ ecc.: fatto
+di tanti lampi subitanei e frequenti; @e l'espressione del
+compiacimento di S. Giacomo.
+
+	|82-84.  spir@o~: parl@o (cfr. XXIV, 54).  |Infin~ ecc.:
+<fino al mio martirio e al mio abbandonare le lotte terrene>
+(|campo~ @e usato come termine militare).  La |palma~, cio@e il
+ramo di palma simbolo di vittoria presso gli antichi, divenne poi
+pei cristiani anche simbolo del martirio vittoriosamente
+superato.  San Giacomo sub@i il martirio sotto Erode Agrippa re
+dei Giudei (^Atti degli apostoli~ XII, 2).
+
+	|88-90.~  Versi molto discussi, secondo me per non aver
+compreso il vero significato che ha qui la parola |segno.~  Si @e
+inteso come ^meta~, ^termine~: e si @e interpretato: <il vecchio e
+il nuovo Testamento pongono il termine cui giungono le anime che
+Dio ama, e questo termine mi addita quello che la speranza
+promette>.  Ma @e evidente che la promessa e il termine vengono a
+essere una cosa sola, e che le parole |ed esso lo mi addita~ ne
+risultano del tutto superflue.  Per evitare questo scoglio si @e
+proposto di considerare |ed esso lo mi addita~ non come parole
+dette da Dante a San Giacomo, ma come ripresa del racconto,
+interpungendo: |Ed esso~ (San Giacomo): |Lo mi addita~ (additami
+questo termine).  Ma questo |Lo mi addita~ contravviene alla
+legge riconosciuta dal Mussafia nell'antica lingua italiana, che
+il discorso non cominciava mai col pronome proclitico, atono. 
+Per di pi@u mancherebbe, alla ripresa del discorso di Dante, il
+rituale <dissi, risposi>, o simile (cfr. nota a ^Par.~ V, 16-18). 
+Io credo, invece, che |segno~, come altre volte nel poema,
+significhi al modo latino <figura, immagine> (cfr. p. es. la nota
+ai vv. 16-18 di ^Purg.~ XII, in fine; XII, 47 e XVIII 38); e
+credo anche che invece di |pongono~ debba, nel verso stesso,
+leggersi ^porgono.~  Avremo allora: <il Vecchio e il Nuovo
+Testamento offrono l'immagine delle anime amate da Dio, e questa
+immagine mi addita quel che noi dobbiamo sperare>.  Nei versi
+seguenti @e detto quali sono i passi del Vecchio e del Nuovo
+Testamento cui qui si allude.
+
+	|91-93.~  Isaia, annunziando sotto velame allegorico la
+gloria del Paradiso, dice dei beati: ^In terra sua duplicia
+possidebunt, laetitia sempiterna erit eis~ (LXI, 7); e il
+^duplicia~ s'interpreta come <anima e corpo>.  La |sua terra~
+vale <la loro patria> cio@e il Cielo.
+
+	|94-96.  il tuo fratello~: San Giovanni evangelista, come
+S. Giacomo figlio di Zebedeo.  |Digesta~: spiegata, chiara. 
+^Digerere~ significava in latino <distinguere>, e quindi anche
+<spiegare> (^ita digerit omina Calchas~, dice Virgilio di
+Calcante che spiega i segni funesti dati dalla statua di Pallade
+rapita dai Greci a Troja, ^Eneide~ II, 182).  |L@a dove~:
+nell'Apocalisse (VII, 9-17), dove descrive genti vestite di
+|bianche stole~ innanzi al trono di Dio, che sono evidentemente
+le anime beate in Paradiso.  Dante interpreta le |stole~ (vesti)
+come i corpi luminosi (cfr. ^Purg.~ I, 75).
+
+	|97.  E prima~: @e correlativo del ^poscia~ del v. 100:
+dopo che Dante ha finito, |prima...~ poi...
+
+	|98-99.~  Non @e chiaro chi sia a pronunziare dall'alto
+questo ^|Sperent in te.~  |Carole~: le spere danzanti in cerchio.
+
+	|101-102.~  La costellazione del Cancro occupa nello
+Zodiaco la regione diametralmente opposta a quella occupata dal
+Capricorno, sicch@e quando una costellazione sorge l'altra
+tramonta, e viceversa.  Il Sole @e nel Capricorno dal 21 dicembre
+al 21 gennaio.  In questo tempo se nel Cancro ci fosse un astro
+luminoso come quello che Dante ora vede, al calar del Sole esso
+sorgerebbe, e tramonterebbe quando il Sole sorge di nuovo.  Il
+che durerebbe un mese (e quindi per un mese si avrebbe luce
+continua: |un sol d@i~).  Questo @e il senso e la spiegazione del
+discorso di Dante, il quale peraltro @e anche qui astronomicamente
+approssimativo, perch@e a verificarsi il fatto del |mese d'un sol
+d@i~ occorrerebbero due condizioni che egli tace: che il Sole e
+quell'ipotetico astro occupassero nei loro segni due punti
+diametralmente opposti nell'Eclittica, e che l'astro, con
+movimento sincrono a quello del Sole, si spostasse anch'esso nel
+suo segno in modo da mantenere sempre quell'opposizione.
+
+	|105.  a la novizia~: alla sposa.  |Non per alcun fallo~:
+non per vanit@a di mostrarsi.
+
+	|107.  si volgeano a nota~: danzavano a tondo al ritmo
+del loro canto.
+
+	|109.~  <si mise anche lui l@i a danzare e a cantare con
+loro>.  Dalla similitudine parrebbe che il terzo lume entri nella
+danza per far onore a Beatrice, e che questo fosse il fine della
+danza degli altri due, e che il loro |ardente amore~ fosse per
+Beatrice.  Ma sar@a proprio cos@i?  Quanto alla riserva: ^non per
+alcun fallo~ @e probabilmente una di quelle rifiniture della
+immagine che Dante mette spesso nelle sue similitudini, senza
+per@o riferirle anche all'altro termine: ci sarebbe bisogno di
+affermare che un'anima eccelsa del Paradiso non sia mossa da
+alcun sentimento men che buono?  Certo @e che tutta la
+similitudine lascia alquanto perplessi, e non @e delle pi@u felici
+di quel poeta che ne ha di cos@i meravigliose.  Troppo lontane fra
+loro sono, nell'anima e nell'immagine, le due cose paragonate.
+
+	|112-115.~  Presentazione che Beatrice fa a Dante del
+nuovo lume.  @E San Giovanni Evangelista: e, come gi@a per San
+Pietro e San Giacomo, Beatrice non lo nomina, ma lo indica con
+una perifrasi (cfr. XXIV, 34-36 e XXV, 23).  S. Giovanni la sera
+dell'ultima cena appoggi@o la testa sul petto di Ges@u (^Giov.~
+XIII, 23); e Ges@u sulla croce lo destin@o a prendere presso Maria
+il suo posto, dicendo a Maria: ^Mulier, ecce filius tuus~, e a
+Giovanni: ^Ecce mater tua~ (^Giov.~ XIX, 26-7).  Cristo fu
+chiamato il pellicano, perch@e si dice che il pellicano nutra i
+figli col sangue del proprio petto che esso stesso si squarcia
+col becco: cos@i Ges@u dette la vita dell'anima agli uomini col
+proprio sangue volontariamente sparso.
+
+	|115-117.~  <n@e per@o le sue parole (quelle rivolte a
+Dante) mossero la sua vista |di stare attenta~ (distolsero la sua
+attenzione) pi@u |poscia che prima~>.  Insomma Beatrice, pur
+parlando, non diminu@i punto quell'attenzione con cui guardava i
+lumi (v. 110).
+
+	|118-129.~  Racconta Giovanni nel suo Vangelo che da
+alcune parole dette a lui da Cristo, nacque tra i discepoli la
+credenza che egli, Giovanni, non sarebbe mai morto (XXI, 22-3). 
+Probabilmente da questa credenza si svolse poi l'altra leggenda
+che San Giovanni fosse salito in cielo in anima e corpo.  Questo
+spiega il tentativo di Dante e l'ammonimento di San Giovanni a
+lui.
+
+	|118-120.  s'argomenta~: s'ingegna, si sforza.  |Non
+vedente~: per l'abbagliamento.
+
+	|124-126.  saragli~ ecc.: <saravvi (cio@e rester@a in
+Terra) con gli altri corpi finch@e il numero dei beati si
+paregger@a a quello che Dio, nel suo proponimento fissato ab
+aeterno, ha stabilito di salvare>: cio@e fino alla fine del mondo
+e al giudizio universale in cui avverr@a la resurrezione dei
+corpi.
+
+	|127-128.  Con le due stole~: coi loro due corpi.  Il
+|beato chiostro~ @e la Rosa dei beati nell'Empireo.  |Le due luci~
+ecc.: Cristo e Maria, che dopo essere discesi con gli altri beati
+di quel cielo erano presto risaliti nell'Empireo (c. XXIII).
+
+	|130-135.~  A questa voce (bisogna intendere nel momento
+in cui S. Giovanni aveva incominciato a parlare, ch@e allora dov@e
+cessare il canto e il moto) si quiet@o il moto circolare delle tre
+fiamme (forse |infiammato~ si riferisce anche all'ardore di
+carit@a da cui la danza era mossa), insieme con la dolce armonia
+(|mischio~ @e propriamente <mescolanza>) che era formata dal suono
+della triplice voce (|spiro~ @e propriamente <fiato>); e si ferm@o
+con quella stessa perfetta simultaneit@a con cui i remi d'una
+barca, prima |ripercossi~ nell'acqua, si fermano al segnale dato
+col |fischio~, o per far riposare i rematori o per far fermare la
+barca davanti a un pericolo.  |Cessar~: @e usato latinamente come
+transitivo, nel senso di <scansare, evitare>.  Per questa
+similitudine e per le pretese derivazioni di essa, vedi la nota
+finale n. 2 {qui di seguito}.
+
+	NOTA FINALE N. 2: PRETESE DERIVAZIONI E IMITAZIONI
+DANTESCHE.  Non so chi primo fra i commentatori abbia affermato
+che la similitudine finale di questo canto, quella dei remi che
+si posano tutti insieme al sonar d'un fischio, Dante la derivasse
+da due luoghi della ^Tebaide~ di Stazio.  Certo @e che questa
+affermazione ha fatto fortuna, ed @e ripetuta da parecchi anche
+tra i migliori commentatori moderni, nostri e stranieri.  Vale la
+pena di esaminare i due luoghi di Stazio.  Il primo @e nel libro
+IV, vv. 804-7.  I Greci assetati, con la guida d'Issifile vanno
+verso la promessa fonte Lang@ia.  Non appena colui che precede,
+sentendo il murmure della fonte, grida ^aquae!~  tutti quelli che
+seguono gridano ^aquae!~  E qui viene la similitudine: ^Sic
+Ambracii per litora ponti nauticus in remis iuvenum, monstrante
+magistro, fit sonus, inque vicem contra percussa reclamat terra,
+salutatus cum Leucada pandit Apollo.~  In una barca che naviga
+per il golfo di Ambracia, quando al nocchiero appare all'uscita
+del golfo stesso il santuario d'Apollo nell'isola di Leucade,
+egli lo saluta, e la ciurma dei rematori ripete il saluto, che @e
+riecheggiato dalle spiagge vicine.  Nulla, assolutamente nulla
+che permetta ragionevolmente di pensare che Dante per la sua
+similitudine si sia servito di questo passo.  Nella similitudine
+dantesca gli elementi che le d@anno il significato artistico son
+due: una fine osservazione della simultaneit@a con cui i molti
+remi d'una barca s'arrestano di colpo al segnale del nocchiero,
+cessando insieme il moto e il fragore dell'acqua percossa; e il
+ravvicinamento di questo fatto con ci@o ch'egli vuole descrivere:
+il fermarsi simultaneo delle tre fiamme danzanti e del loro
+canto.  Nella similitudine di Stazio i due detti elementi non vi
+sono neanche da lontano, n@e nella specie n@e nel genere: non c'@e
+che una barca a remi e un nocchiero che alza un grido di saluto
+ripetuto dalla ciurma.  Bisogna dire che chi primo vide un
+rapporto tra questo passo di Stazio e i versi di Dante, non
+comprendeva il latino, e che tutti quelli che hanno riaffermato
+la somiglianza hanno ripetuto senza curarsi di confrontare. 
+Vediamo l'altro passo di Stazio.  Capaneo insegue Alcidamante gi@a
+ferito, e, stanchi ambedue, si fermano un momento per poi
+riprendere la corsa: ^Sic, ubi longa vagos lassarunt aequora
+nautas, et, signo de puppe dato, posuere parumper brachia: vix
+requies, iam vox citat altera remos~ (X, 774-77).  Una ciurma
+stanca del lungo tragitto, al segno del nocchiero smette per un
+poco di remare; e subito dopo, a un altro comando, di nuovo a
+vogare.  Anche qui mancano i due elementi caratteristici della
+similitudine dantesca: la simultaneit@a nell'arresto del moto e
+del suono.  C'@e di comune solo una ciurma di rematori che a un
+segnale si ferma.  Tirando le somme, dire che Dante ha derivato
+da questi passi di Stazio @e (si rifletta bene) dire che Dante non
+aveva mai visto una barca di rematori che smettono di vogare e un
+nocchiero che d@a segnali, o, se li aveva visti, non li aveva
+serbati nella memoria, e aveva bisogno che Stazio gliene
+ricordasse l'esistenza.  In questo modo, di Dante, uno degli
+osservatori pi@u acuti e felici di tutto quanto pu@o cadere sotto i
+sensi, una delle menti pi@u tenaci a conservarne le impressioni,
+uno degli artisti pi@u liberi e audaci a servirsene per le sue
+rappresentazioni, se ne fa uno scrittore che ha bisogno delle
+impressioni altrui per arricchire e colorire il suo stile, e
+lavora non sulla natura, ma sulla letteratura.  E pazienza ancora
+se si trattasse d'un caso isolato.  Ma quello che ho rilevato a
+proposito di questa similitudine potrebbe dirsi di molti altri
+pretesi riecheggiamenti e derivazioni.  Su uno di questi mi sono
+fermato a proposito della similitudine della lodoletta (^Par.~
+XX, 73-78).  In alcuni commenti soprattutto (il Tommaseo ne ha
+forse dato l'esempio, ma @e stato poi superato da altri), il
+citare in nota versi e brani di poeti classici @e addirittura una
+mania.  Fissiamo bene questo principio: ricordare in un commento
+un altro autore ha un significato solo quando possa ritenersi che
+senza quell'esempio il poeta non avrebbe usato quell'immagine,
+quella frase, quella parola.  In tutti gli altri casi @e mostra di
+erudizione nel commentatore, ma @e offesa a colui che si commenta:
+nel caso nostro a Dante, che ne risulta disconosciuto in uno dei
+suoi pregi pi@u caratteristici; @e fare di Dante un Vincenzo Monti
+nei suoi momenti meno felici.
+
+	|136-139.~  Dante @e ancora abbagliato per aver fissato
+troppo il lume di S. Giovanni, e quindi non pu@o vedere Beatrice. 
+E si commuove dolorosamente quantunque le sia vicino e sia in
+Paradiso.  Potrebbe parere che |ne la mente~ (cio@e nell'anima)
+sia superfluo.  Ma si pensi che il verbo ^commuovere~ si usava
+anticamente assai spesso anche nel senso materiale, onde il |ne
+la mente~ @e necessario a far intendere che si tratta di
+commozione spirituale.  Un residuo dell'uso antico in senso
+materiale @e rimasto nel linguaggio medico: <commozione cerebrale>
+e simili.

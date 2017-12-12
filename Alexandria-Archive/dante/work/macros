@@ -1,0 +1,20 @@
+
+/^$/i\
+\\pard\\plain \\f200 {\\plain \\par}
+
+/^\.P$/c\
+\\pard\\plain \\s3\\fi720 \\f200
+
+/^\.U$/c\
+\\pard\\plain \\s2 \\f200
+
+/^\.X$/c\
+\\pard\\plain \\s6\\fi-360\\li360 \\f200
+
+/^\.T$/c\
+\\pard\\plain \\s3\\fi720\\li360\\ri360 \\f200
+
+/^\.I$/c\
+\\pard\\plain \\s4\\fi360 \\f200
+
+/^$/d

@@ -1,0 +1,80 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id NAA20322
+	for <steve@avalon.dartmouth.edu>; Thu, 24 Dec 1998 13:23:33 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id NAA19498
+	for <Steve.Campbell@Dartmouth.EDU>; Thu, 24 Dec 1998 13:23:33 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 51894 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67264-10131>; Thu, 24 Dec 1998 13:22:35 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA27886
+	for <Steve.Campbell@dartmouth.edu>; Thu, 24 Dec 1998 13:22:22 -0500 (EST)
+Received: from phoenix.princeton.edu (phoenix.Princeton.EDU [128.112.131.153])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA02882
+	for <Steve.Campbell@dartmouth.edu>; Thu, 24 Dec 1998 13:22:21 -0500 (EST)
+Received: (from bobh@localhost)
+	by phoenix.princeton.edu (8.8.8/8.8.8) id NAA10070
+	for Steve.Campbell@dartmouth.edu; Thu, 24 Dec 1998 13:22:21 -0500 (EST)
+Message-Id: <199812241822.NAA10070@phoenix.princeton.edu>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Thu, 24 Dec 1998 13:22:21 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: Ho ho ho
+
+It must be Christmas, and guess who's sending Stevie
+another commentary to add to his toys?
+
+First some business before we get to the fun part/
+
+I tried to log on to ddp -x once I was on at Dartmouth
+and got the OLD DDP.  Any sense why?
+
+However, I did check out Serravalle Purg. 32 (fine) and
+Graziolo Inf. 14 (fine).  I also added a new DESC file
+for Graziolo, and put a note in HISTORY saying I'd sone
+so.
+
+In a few minutes I'll send you the entire set of files
+for Graziolo.  I guess you don't need Inf.14, but I'll
+leave that to you.  These are all in ASCII and should
+all be close to perfect.  There should be no typos, and
+I think all the command characters, etc., are as DDP
+wants, and that there are no left over resolved
+accents, etc.
+
+Also I'll send you and Chiamenti (the Italian guy who
+did the edition we are using) two Pietro.3 files.  The
+first is the proemio to Inferno, which was filled with
+those bothersome superscripts, all resolved for DDP
+coding.  But you'll see why it would be best if I could
+send Pietro files in html.  I'm also including Inf. VI,
+because I got that one done.  All bolding is BOLD, all
+ital;ics are italics (LOTS of these): all that I have
+made DDP-friendly are the +o~ for superscript "o".  The
+good news is that in the comm. itself there are not too
+many superscipts OTHER than "o".  But I need to get
+someone here to show me IF WordPerfect can search the
+superscript sign in my raw files so that I can be sure
+I get all of 'em right.  On the other hand, these two
+files will give you a VERY good sense of what we are up
+against with Pietro.
+
+As for Pietro.3, I'm not sure I had the latest info.
+when I last wrote you.  Chaimenti is publishing the
+edition in Italy.  His pub. does not want him putting
+the whole thing up on the Internet for a while (a
+year?), but will allow us to have Inferno, which has
+been published in an inferior ed. and so IS currently
+available.  We will thus have three versions of
+Pietro's Inferno, and then, eventually, three versions
+of the whole comm.  That's fine.
+
+I don't know how fast I can do Pietro.  Graz. took me
+30 hours.  Pietro takes longer.  But from what you say
+we can do a separate load for Pietro.3 once I have him.
+
+ALl for now, except to wish you and Anne a very Happy
+Christmas.
+
+Yourgifts arrive shortly.  Best, Bob

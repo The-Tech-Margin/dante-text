@@ -1,0 +1,666 @@
+	|1.~  Comincia il canto, inaspettatamente, con un grido,
+che pare di esultanza, e questa apparenza durando per i due primi
+versi, fa sentire di pi@u l'amarezza dell'ironia, che trapela dal
+terzo.  Felicissima la collocazione di |godi~, |mare~, |terra~,
+|tuo.~  -- |Batti l'ali~: la Fama ha le ali, e vola velocissima;
+cfr. ^En.~, IV, 173 seg.
+
+	|4.  Ladron~: per l'accento, per il troncamento e per la
+pausa, suona forte.  -- |Cotali~: di cos@i alto grado, di cos@i
+grandi famiglie, Donati, Brunelleschi, Galigai, Cavalcanti.
+
+	|5.  Tuoi~: spicca al principio di questo, come ^tuo~ a
+mezzo del terzo v.  -- |Onde mi vien vergogna~: l'ironia volge a
+lamento; il dolore del buon cittadino la fa cessare.  |Onde~: da'
+quali.
+
+	|6.  E tu~: si oppone a ^mi~ {v.5}. -- |In grande
+onranza, non ne sali~: questa @e la verit@a dolorosa; il nome di
+Firenze @e disonorato.  Cfr. ^Inf.~, IV, 76.
+
+	|7.~  Antica e popolare credenza.  Cfr. ^Purg.~, IX,
+13-18: ^presso alla mattina la mente nostra Alle sue vision quasi
+@e divina.~
+
+	|8.  Di qua da picciol tempo~: prima che passi non molto
+tempo, tra breve.
+
+	|9.  Prato~ @e piccola citt@a presso a Firenze a 18
+chilometri.  ^Fra Giordano~, XCI: <Betlemme...fu piccola, vie
+minore che Prato assai>.  Quanta perversit@a in Firenze, se Prato
+stessa, cos@i vicina e quasi una cosa con lei, |le agognava~ (cfr.
+^Inf.~, VI, 28), bramava che ne fosse severamente punita! 
+Figuriamoci |altri~, gli estranei, i lontani.  Prossimi mali sono
+vaticinati a Firenze anche nel ^Purg.~, XIV, 58 segg. e XXIII,
+106 segg.
+
+	|10-12.  E, se~ Firenze gi@a sentisse di ^quel che Prato
+le agogna~ {v.9}, se gi@a fosse cominciata la punizione della sua
+perversit@a, non sarebbe |per tempo~, abbastanza presto.  Tarda al
+poeta che gi@a non sia, |da che pur esser dee~, dovendo certamente
+avvenire; perch@e pi@u egli |si attempa~, pi@u avanzer@a negli anni,
+e pi@u ne patir@a gravezza, pi@u gliene dorr@a.  L'apostrofe,
+cominciata con tanta amarezza, finisce con un augurio, perch@e
+desiderare che Firenze abbia gi@a sofferto i danni, che le sono
+apparecchiati, @e augurarle danni minori.  <Con la minor pena
+vorrebbe schifare la maggiore: la gravit@a del peccato richiede
+gravezza di pena, e quanto pi@u si attarda a pentire e a punire,
+tanto pi@u aggrava poi la giustizia di Dio, la quale... se
+indugia, non toglie per@o via, ma con la gravit@a della pena
+compensa la tarditade del tempo, secondo che dice Valerio
+Massimo>.  ^Ottimo~, ^Commento.~  -- |Per tempo~: ripete
+modificando.  -- |Com'~: come, frequente nei nostri antichi.
+
+	|13-15.~  Cfr. ^Inf.~, XXIV, 79-82.  |Pria~, quando
+discesero i poeti dal ponte su l'argine, i |borni~, le sporgenze
+della testa del ponte, avean fatto loro da scalini.  Cfr. ^Par.~,
+XXXII, 21.  -- |Trasse~: su per la ruina del ponticello, nella
+sesta bolgia, Virgilio spingeva Dante; ^Inf.~, XXIV, 27 segg.  --
+|Mee~: me; e cos@i ^tee~, ^see~, anche in prosa.
+
+	|16.~  Verso malinconico.
+
+	|17.  Rocchi~: cfr. ^Inf.~, XX, 25.
+
+	|18.~  Per ^spedirsi~, distrigarsi, il piede aveva
+bisogno dell'aiuto della mano: cfr. ^Purg.~, IV, 33.
+
+	|19-24.~  Altrove (^Inf.~, VII, 19 segg., XIV, 16 segg.)
+un'apostrofe alla giustizia, alla vendetta di Dio; qui un
+ammaestramento, una conseguenza di morale pratica precede e
+prepara il racconto, da cui deriva.  Nella bolgia ottava il poeta
+vide il castigo inflitto a coloro, che fecero pessimo uso
+dell'ingegno avuto da natura, nelle astuzie, nei consigli
+fraudolenti; cfr. ^Inf.~, XXVII, 116.  |Ora~, mentre scrive,
+|drizza la mente~, ripensa |a ci@o, che vide~, e si duole un'altra
+volta, come |allora~ si |dolse~ (cfr. ^Inf.~, I, 6 ecc.), e,
+ammaestrato da ci@o, che vide, |affrena l'ingegno pi@u che non
+soglia~ fare, perch@e |non corra~ disordinatamente, senza che
+|virt@u lo guidi~: s@i che egli non |invidii~ a se stesso, non
+renda vano il |bene~, che |stella buona~ o |miglior cosa~, pi@u
+alta influenza, |gli ha dato.~  Cfr. ^Conv.~, IV, 27: <Conviensi
+essere prudente, cio@e savio: e a ci@o essere si richiede buona
+memoria delle vedute cose, e buona conoscenza delle presenti, e
+buona provvedenza delle future.  E siccome dice il filosofo nel
+sesto dell'^Etica~, impossibile @e essere savio chi non @e buono; e
+per@o non @e da dire savio uomo chi con sottratti e con inganni
+procede, ma @e da chiamar astuto...  Se ben si mira, dalla
+prudenza vengono i buoni consigli, i quali conducono s@e ed altri
+a buon fine nelle umane cose e operazioni>.  -- |Affreno~: cfr.
+^Conv.~, IV, 26: <L'appetito... alla ragione ubbidire conviene;
+la quale guida quello con freno e con isproni... e chiamasi
+quello freno temperanza>.  -- |Stella buona~: cfr. ^Inf.~, XV,
+55-56.  -- |Miglior cosa~: le intelligenze celesti, che muovono
+le stelle (cfr. ^Inf.~, VII, 74), e Dio stesso, la cui divina
+luce <raggia nelle intelligenze sanza mezzo>; ^Conv.~, III, 14. 
+-- |Invidi~: alla latina; me ne privi, lo rendavano, con mio
+danno, volgendolo a cattivo fine.
+
+	|25-32.~  Cfr. la n. ai vv. 7-18 del c. XXI.  |Quante
+lucciole vede gi@u per la vallea~, forse dov'@e la sua vigna o il
+suo campo, |il villano, che si riposa al poggio~, ^dove termina
+la valle~ (^Inf.~, I, 14), |nel tempo~ ecc. di estate, quando
+|colui~ ecc. il sole, ci mostra pi@u lungamente la sua faccia,
+quando i giorni sono meno corti, |come~, non appena |la mosca
+cede alla zanzara~, dopo il tramonto, quando alle mosche
+succedono le zanzare; |di tante fiamme~ ecc.  Tra |quante~, con
+cui comincia il paragone, e |di tante~, non meno di sei versi si
+frappongono, e non meno di cinque tra |il villan~ e la menzione
+del luogo, dove egli |vendemmia ed ara~, nei quali spuntano, ad
+una ad una, con studiata lentezza, le varie circostanze di tempo
+e di luogo -- |al poggio~... |nel tempo che~... |come la
+mosca~... |gi@u per la vallea~ -- tenendo desta l'attenzione del
+lettore.  Il raffronto non @e tra le lucciole e le fiamme; ma tra
+il numero delle lucciole e il numero delle fiamme, tra |quante~ e
+|di tante.~  Si riposa il villano stanco, e tardamente, come
+suole, guarda e osserva.  Non solo nel poema, anche altrove,
+Dante indica la stagione dell'anno e l'ora del giorno, indicando
+ci@o, che in quella stagione e in quell'ora accade, si suol fare;
+p. e. nella canz. ^Io son venuto~, descrive l'inverno dai suoi
+fenomeni senza mai nominarlo: nell'^Ecl.~, I, i, per dire: <@e
+sera>, dice: <Titiro e Melibeo contavano le capre>.  La singolare
+perifrasi: |come la mosca cede alla zanzara~ sembra suggerita
+insieme dalla rima e dall'esser |le lucciole~ termine primo del
+paragone.
+
+	|33.  L@a 've il fondo parea~: sul ^dosso dell'arco~, cfr.
+^Inf.~, XVIII, 110-111.
+
+	|34.~  ^Lib. IV de' Re~, II, 23-24: <Mentre (Eliseo) era
+per istrada, udirono dalla citt@a dei piccoli ragazzi i quali lo
+beffeggiavano, dicendo: Vien su, o calvo, vien su, o calvo, Ed
+egli, voltati gli occhi, li vide, e li maledisse nel nome del
+Signore: e uscirono due orsi dalla boscaglia, i quali sbranarono
+quarantadue di que' ragazzi>.  Dante compendia il racconto in un
+solo verso.
+
+	|35-39.~  Ivi, 11-12: <E mentre (Elia ed Eliseo)...
+camminando discorrevano insieme, subitamente un cocchio di fuoco
+con cavalli di fuoco separarono l'uno dall'altro: ed Elia sal@i al
+cielo in un turbine ed Eliseo vedeva e gridava: Padre mio, padre
+mio ecc.> Dante, con tre dei suoi tocchi, aggiunge la
+rappresentazione dei cavalli, che |erti levorsi~; quella di
+Eliseo stupito, che si sforza di |seguir con gli occhi~ il carro;
+e quella del carro come appariva ad Eliseo, |una fiamma sola~,
+che saliva |in su.~  Dopo |cielo~, con l'accento di |@erti~, par
+che il v. stesso si slanci; |seguire~, |salire~, lunghi alla fine
+dei versi, ritraggono l'uno il moto degli occhi, l'altro il moto
+della fiamma sempre |in su.~  E s'aggiunge, in un v.
+rappresentativo anche per il suono, la vaga imagine della
+|nuvoletta~, reminiscenza della ^V. N.~, canz. ^Donna pietosa~,
+st. 5a: <Levava gli occhi...  E vedea che parean pioggia di
+manna, Gli angeli, che tornavan suso in cielo, E una nuvoletta
+avean davanti, Dopo la qual gridavan tutti: Osanna!>.  |Sola~
+ferma l'attenzione alla fine del verso.
+
+	|40.  Tal si movea~: qual vide Eliseo il carro d'Elia
+salire.  |Per la gola~: gi@u per il fondo chiuso tra le pareti,
+cfr. ^Inf.~, XXIV, 123.
+
+	|41-42.  Nessuna~ fiamma.  |Nessuna~, non si sa che, e
+|furto~, non s'intende di che, aguzzano la curiosit@a.  |Ogni~
+corrisponde a |nessuno~: |invola~ ruba, a |furto.~  In ogni
+fiamma sta avvolto e nascosto un peccatore, cfr. ^Inf.~, XXVII,
+127.
+
+	|43-45.  Surto~... |s@i~: in piedi (cfr. ^Purg.~, VIII,
+9), ma sporgendosi in fuori a vedere.  -- |Urto~: urtato.  Lo
+spettacolo, che gli si offre dal fondo della bolgia, l'attira
+tanto, che quasi non bada al pericolo di cader gi@u.  --
+|Ronchion~: cfr. ^Inf.~, XXIV, 28.
+
+	|46.  Atteso~: cfr. ^Inf.~, XIII, 109.
+
+	|48.  Catun~, ciascuno, |si fascia di quel~ della fiamma,
+|ch'egli~, dalla quale egli |@e inceso.~  Cfr. ^Inf.~, XXII, 18.
+
+	|49-51.~  Questa volta il discepolo non ha avuto bisogno
+di aspettare la spiegazione del maestro; v. sopra, v. 41-42.  --
+|Per udirti~: perch@e ti odo, perch@e tu me lo dici.  -- |Pi@u
+certo~: cfr. ^Inf.~, XX, 100-101.  -- |Gi@a m'era avviso~: gi@a mi
+pareva, gi@a era la mia opinione.  Cfr. ^Inf.~, XXVII, 107. 
+|Tristano~: 338: <A lui si era aviso che non si convenia a lui...
+che dovesse tagliare testa ad una damiscella>.  -- |Gi@a voleva
+dirti~: ^Chi @e in quel foco~ {v.52}?  La domanda avrebbe mostrato
+che Dante aveva gi@a capito.
+
+	|52-54.~  Che |vien s@i diviso di sopra~: come altre
+volte, dalla domanda intendiamo che cosa il poeta veda.  Una
+fiamma, strano a dirsi, nella cima si divideva in due ^corni~
+(cfr. v. 85).  Questa vista richiama alla memoria di Dante un
+fatto, il quale divenne notissimo (cfr. ^Lucano~, ^Fars.~, I,
+551) perch@e parve miracoloso, attestando il perdurar dell'odio,
+odio di due fratelli, anche dopo la morte.  Eteocle e Polinice,
+figliuoli di Edipo, si contesero fieramente il possesso di Tebe
+(cfr. ^Inf.~, XIV, 68-69) sin che non morirono l'uno per la mano
+dell'altro.  Il cadavere di Polinice fu posto sul rogo preparato
+per Eteocle: ma non appena il rogo si accese le flamme si
+separarono.  ^Stazio~, ^Teb.~, XII, 420 segg.  -- |Diviso di
+sopra~: nella ^Teb.~ le fiamme hanno <diviso il vertice>.  --
+|Miso~: messo, cfr. ^Par.~, VII, 21.
+
+	|55.  Si martira~: si tormenta; cfr. ^Purg.~, XV, 108;
+XVII, 132.
+
+	|56-57.  Ulisse~ re di Itaca, |Diomede~ re di Argo, due
+dei principali eroi, che assediarono Troia |vanno insieme~ dentro
+una fiamma |alla vendetta~, al castigo; perch@e insieme andarono
+all'ira divina, insieme la provocaron con le colpe, di cui segue
+l'enumerazione.
+
+	|58.  Si geme~: cfr. ^Inf.~, XII, 132.  Pare voluto dalla
+rima, e, infatti, poco dopo @e sostituito da ^piangesi~ {v.61};
+pure fa pensare a dolore rattenuto per forza d'animo, come quello
+di un altro eroe, Giasone; ^Inf.~, XVII, 84.  Gemiti e pianti
+supposti: la fiamma impedisce di udire le voci di quelli, che
+essa ^fascia~; ^Inf.~, XXVII, 13-15.
+
+	|59-60.~  Cfr. ^Inf.~, XXX, 118.  |L'aguato del caval~,
+immensa mole di legno, che i Greci finsero di aver lasciato,
+partendo da Troia, per ammenda del furto del |Palladio~ (v. 63),
+e che il falso Sinone (^Inf.~, XXX, 98) indusse i Troiani a
+introdurre nella citt@a rompendo le mura, @e raccontato da
+^Virgilio~, ^En.~, II, 13 segg.  L'^Eneide~ non dice
+esplicitamente che autore dell'agguato fu Ulisse; lascia che lo
+sospetti Laocoonte e quasi lo accusi Sinone (<Ulisse inventor di
+delitti>).  Diomede non vi ebbe parte, anzi non @e nominato tra i
+guerrieri, che si nascosero nel cavallo; ma era con Ulisse a
+rapire il Palladio.  -- |L'aguato fe' la porta~ ecc.  L'entrata
+del cavallo di legno in Troia rese inevitabile l'eccidio della
+citt@a, e la fuga di Enea progenitore dei Romani; cfr. ^Inf.~, II,
+20-21; IV, 122.  Si noti: Enea usc@i da una porta, non per il
+rotto delle mura.  Con che non si vuol incolpar Dante di
+negligenza o di dimenticanza bens@i mostrare che anche qui
+modific@o il racconto di Virgilio e credette di compierlo secondo
+verisimiglianza.  Cfr. ^Inf.~, XX, n. al v. 114.
+
+	|61-62.~  Ulisse e Diomede si recarono insieme a Sciro,
+dove Achille, travestito da fanciulla, era stato nascosto dalla
+madre Teti.  Ulisse, con |arte~, facendogli vedere delle armi, lo
+indusse a manifestarsi, e, rimproverandolo, a vergognarsi di
+quegli ozi, a seguirli nella guerra contro Troia.  Cos@i ^Stazio~,
+^Achilleide~, II, 15 segg. (^Purg.~, XXI, 92).  -- |Deidamia~:
+figliuola di Licomede re di Sciro, la pi@u cara compagna di
+Achille travestito da fanciulla, ben presto sua amante e sua
+moglie.  Partendo, l'eroe giovinetto le promise d'esserle fedele
+e di tornare a lei (^Achill.~, ivi, 282 segg.): ma non mantenne
+le promesse.  Perci@o, |morta~, dopo la morte, dice Virgilio,
+|Deidamia si duole ancora~ di lui.  Egli poteva saperlo, perch@e
+|Deidamia~ ^con le suore sue~ stava nel ^nobile castello~ del
+primo cerchio; ^Purg.~, XXII, 114.
+
+	|63.  Palladio~: statua di Minerva (Pallade).  Le sorti
+di Troia assediata volsero al peggio, non quelle de' Greci
+assedianti, come volle far credere Sinone (cfr. n. ai vv. 59-60),
+da che <l'empio Diomede E l'inventor d'ogni mal'opra, Ulisse...
+nella rocca ascesi, N'uccisero i custodi e ne involarono Il
+Palladio fatale, osando impuri Por le man sanguinose al
+sacrosanto Suo simulacro (di Pallade), e macular le intatte E
+intemerate sue virginee bende>.  ^En.~, II, 163 segg.
+
+	|64-69.~  A udire quei grandi nomi, e quei fatti, Dante,
+preso dalla brama di parlare con i due spiriti chiusi nella
+fiamma, la sua brama esprime con preghiera calda, insistente:
+|ten prego e riprego.~  E non basta: |che 'l prego vaglia mille~,
+valga per mille preghi.  Qui la ripetizione non @e semplice
+artifizio stilistico; ma la naturale espressione del |gran
+desio.~  -- |S'ei posson~: regionevole dubbio, cfr. ^Inf.~, XII,
+89; XIX, 48.  -- |Faville~: per la rima, cfr. ^Par.~, I, 34.  --
+^Non mi facci nego dell'attender~: non mi negare di attendere. 
+-- |Cornuta~: ^divisa di sopra~ cfr. v. 85.  -- Gi@a prima
+Virgilio l'aveva veduto ^tanto atteso~ {v.46}, che sarebbe caduto
+gi@u se non si fosse tenuto a un ronchione; vv. 43-46.
+
+	|70-71.~  Cfr. ^Inf.~, XXIV, 76-78: questa preghiera non
+pare a Virgilio solamente <onesta>; ma |degna di molta lode~,
+perch@e nasce da un desiderio pi@u alto di quello di vedere e udire
+meglio.  ^Albertano~, 179: <Non te paia vergogna d'imparare
+quelle cose, che tu non sai, perci@o che sapere alcuna cosa @e
+lauda, e non volere imparare @e vituperio>.
+
+	|72.  Si sostegna~: si freni, non parli.  ^Albertano~,
+184: <Da rifrenare dei la lingua tua ad ci@o che sia lenta ad
+parlare e giudicare ed a rispondere, e non veloce>.  Dante aveva
+parlato non solo con calore, ma con abbondanza soverchia; per@o
+Virgilio, parendogli la preghiera |degna di molta lode~, non lo
+vuol mortificare con una riprensione, con un atto di autorit@a:
+egli fa garbatamente intendere, con una ragione plausibile,
+perch@e gli convenga tacere.  Dimentica Virgilio, o
+deliberatamente trascura che un altro greco, e non de' pi@u
+cortesi, Capaneo, non si mostr@o ^schivo del detto~ {vv.74-75} di
+Dante?
+
+	|73-75.  Lascia parlare a me~: modo, sempre vivo,
+frequente in bocca di chi si sente o si crede superiore ad altri, 
+capace di meglio.  Cfr. ^Nov. Ant.~, CXXX: <Rispose il lupo:
+Lascia far me, che so ben leggere>.  -- |Io ho concetto~,
+concepito, indovinato, |ci@o che tu vuoi~: cos@i, nel c. X, 17-18,
+Virgilio indovina che Dante vorrebbe vedere Farinata; nel XIII,
+82 segg. che Dante vorrebbe sapere come le anime <si leghino ne'
+nocchi> ecc.  -- |Sarebbero schivi~: cfr. ^Purg.~, II, 72;
+schiverebbero, eviterebbero.  |Forse~: attenua opportunamente il
+tuono reciso della singolare asserzione.  -- |Perch'ei fur
+Greci~: dal confronto di questi con il v. 33 del c. XXVII, si
+arguisce che Virgilio, vissuto nell'antichit@a, non si credeva
+cos@i straniero ad essi come Dante; supponeva che i due Greci
+dell'antichit@a avrebbero ascoltato pi@u volentieri la parola sua
+che quella di un moderno, e pi@u volentieri avrebbero risposto a
+lui.
+
+	|76-78.  Quivi dove~: a quel punto della bolgia, dove --
+|Audivi~: udii, usato anche fuor di rima.  ^Tesoretto~: <chi bene
+incomenza, Audivi per sentenza, Che ha ben mezzo fatto>.
+
+	|79.~  Li chiama indicandoli per ci@o, che di essi pare
+alla vista.  |Due dentro ad un~: cfr. ^Inf.~, XXV, 71-72; XXXII,
+125.
+
+	|80-82.  S'io meritai di voi~: se acquistai merito presso
+di voi; se |nel mondo, quando scrissi gli alti versi~, meritai la
+vostra riconoscenza.  Ripete |s'io meritai~, insistendo, come
+ripete tre volte |voi~, ma tempera l'insistenza con |assai~ o
+|poco.~  -- |Mentre ch'io vissi~: cfr. ^Inf.~, XV, 86.  -- |Gli
+alti versi~: ^l'alta traged@ia~, ^Inf.~, XX, 113.  Virgilio
+suppone che il suo poema, scritto tanti secoli dopo la guerra di
+Troia, non sia rimasto ignoto ai due Greci distruttori di Troia;
+ipotesi di poeta, che ha coscienza de' pregi dell'opera sua, e sa
+quanto gli eroi amino la fama.  Nell'^Eneide~, Ulisse @e ricordato
+molte volte, e <il gran Diomede> (XI, 252 segg.) non accetta
+l'invito di combattere in favore dei Rutuli contro Enea.
+
+	|83.  Non vi movete~: restate dove siete.  |Dica~ ci@o,
+che Dante pi@u desidera di sapere, perch@e ignoto a tutti.
+
+	|84.~  Dove and@o a morire.  |Per lui~: da lui, cfr.
+^Inf.~, I, 126.  -- |Perduto~: Virgilio sa gi@a quello, che lo
+spirito dovr@a raccontare; perci@o questa sola parola, un po'
+oscura per noi, gli par sufficiente.
+
+	|85.  Lo maggior corno~: particolare nuovo; le punte, in
+cui la fiamma si divideva (vv. 52-53), non erano eguali.  Uno dei
+due eroi fu maggiore dell'altro, e questa differenza si mantiene
+nell'Inferno.  -- |Antica~: cfr. ^Inf.~, VIII, 29.
+
+	|86-87.  A crollarsi~: a scuotersi, cfr. ^Inf.~, XXV, 9. 
+-- |Mormorando pur come~ ecc.  Col solo mormorio lieve, col
+crepitio della fiamma mossa dal vento.  Il v. rende l'affaticarsi
+della fiamma, rotto dopo la quinta e dopo la sesta sillaba,
+accentato su la sesta e la settima terminando con |affatica~,
+stentato e lento.
+
+	|88.  Indi~: dal <crollarsi>, passa la fiamma a
+movimento pi@u rapido, |menando la cima qua e l@a.~
+
+	|89.~  E, infatti, la cima si moveva per dar passaggio
+alle parole; cfr. ^Inf.~, XXVII, 17 segg.
+
+	|90.  Gitt@o~: con forza.  Bisogn@o che la |voce~ vincesse
+la resistenza della fiamma.  E fu una forte parola la prima:
+|quando.~
+
+	|91-92.~  Parla Ulisse.  Capitato all'isoletta (ora capo
+Circello) di Circe, figliola del Sole, la costrinse, con l'aiuto
+di Mercurio, a restituire la forma umana ai suoi compagni da lei
+mutati in animali (^Purg.~, XIV, 42).  Circe lo am@o e lo
+trattenne con s@e.  Quando egli |si dipart@i~, invano ella lo
+avvis@o: <Restar gran via, dubbi i cammini, e chiuso Pien di
+perigli innanzi un mar crudele>; ^Ovidio~, ^Metam.~, XIV, 438-39. 
+Nello stesso libro delle ^Metam.~, 308, 435, Dante leggeva che
+Ulisse stette con Circe un anno, <un lungo anno>.  -- |Gaeta~:
+cfr. ^Par.~, VIII, 62.
+
+	|93.~  L@a fu seppellita la nutrice di Enea, Caieta, e
+<dette eterna fama ai nostri lidi>.  Cos@i ^Virgilio~, ^En.~, VII,
+1 segg.  ^Ovidio~, ^Metam.~, XIV, 448-43, riferisce l'iscrizione
+apposta dal pio eroe <all'urna marmorea>.  -- |Prima~: il viaggio
+di Ulisse precedette quello di Enea; uno de' compagni di Ulisse,
+Macareo, fu trovato da Enea <sul lido, che non aveva ancora il
+nome della nutrice>.  ^Metam.~, XIV, 157 segg.
+
+	|94-96.~  Son le cose ^dilette pi@u caramente~ (^Par.~,
+XVII, 55), e che pi@u rincresce all'esule o al viaggiatore di
+lasciare.  Ma ad Ulisse non piacque <regnare e vivere in Itaca
+oziosamente con i genitori, con la moglie, col figlio>.  Cos@i
+^Cicerone~, ^Uffizi~, III, 16; cfr. ^Seneca~, ^Lett. a Lucilio~,
+LXXXVIII.  Dante, alla menzione delle persone pi@u care, aggiunge
+quella dei sentimenti diversi, che esse ispirano: |dolcezza~,
+tenero compiacimento, il |figlio~; |piet@a~, compassione, il
+|vecchio padre~; |debito amore~, la moglie.  Di questi vv. sembra
+si ricordasse il Petrarca, quando giudic@o Dante degno di
+ammirazione e di lode, perch@e dal cammino degli studi e della
+gloria non valsero a rimuoverlo n@e la malvagit@a dei concittadini,
+n@e l'esilio, n@e la povert@a, <n@e l'amore della moglie e la
+compassione dei figliuoli>; ^Ep. famil.~, XXI, 15.  -- |Dovea~:
+ripiglia il concetto di |debito~ e lo rinforza.  |Dovea far
+lieta~, dopo tanti e tanti anni di assenza di lui, di ansiosa
+aspettazione e saldissima fedelt@a di lei.  A questo pensiero, si
+ferma l'eroe con accoramento.
+
+	|97.  Vincer potero~: si oppone energicamente ai tre ^n@e~
+{vv.94-95} precedenti.  -- |L'ardore~: la brama infiammata,
+cocente; suona forte alla fine del v.
+
+	|98-99.~  Probabilmente Dante qui ricord@o un passo di
+^Orazio~, ^Epist.~, I, ii, 17-22: <Di quel che sia capace virt@u e
+sapienza, (^Omero~) ci propose un utile modello in Ulisse, il
+quale, vincitore di Troia, molte citt@a volle conoscere, e osserv@o
+i costumi degli uomini, e, per l'ampio mare, mentre apparecchiava
+il ritorno a s@e ed ai compagni, sofferse molte avversit@a>. 
+Bellissimi i sei esametri di ^Orazio~, bellissimi i tre
+endecasillabi di ^Dante~, che una parte di quelli paiono
+riassumere, e sono pronunziati dallo stesso Ulisse con l'accento
+della modestia.  Nessun vanto, nessuna vampata di orgoglio;
+semplice ^ardore~ {v.97} di acquistar esperienza |nel mondo e
+degli vizi e del valore~ degli uomini.  |Valore~ @e opposto a
+|vizi.~  Cfr. ^Conv.~, canz. III, st. 1a: <E dir@o del valore, Per
+lo qual veramente @e l'uom gentile;> IV, 2: <E avvegnach@e valore
+intender si possa per pi@u modi, qui si prende valore quasi
+potenza di natura, ovvero bont@a di quella data>.
+
+	|100-102.  Misi me~, detto con semplicit@a e modestia,
+riceve subito rilievo da |alto mare aperto~, da |sol con un
+legno~, da |compagna picciola~, che mostrano la grandezza e la
+difficolt@a dell'impresa, arditissimamente tentata con mezzi assai
+piccoli.  -- |Alto mare aperto~: tre ^a~, le prime due percosse
+dall'accento, par che dischiudano all'immaginazione la distesa
+immensa delle acque marine.  -- |Sol con un~: |sol~, soltanto,
+premesso, accresce la forza di |un.~  -- |Legno~: cfr. ^Inf.~,
+VIII, 28.  -- |Compagna~: compagnia, ^Inf.~, IV, 148 n. |Compagna
+piccola~: cfr. ^Barberino~, ^Regg.~, I, 17: <Si mise con piccola
+compagnia a ci@o cercare>.  -- |Deserto~: abbandonato.
+
+	|103-105.~  Vide l'|un lito~, quello dell'Europa, sino
+alla ^Spagna~, e l'|altro~, quello dell'Affrica, sino al
+|Morrocco~, al Marocco.  E vide, tra i due lidi, la Sardegna e
+|le altre isole~, la Corsica e le Baleari.  ^Boncompagno~,
+^Palma.~  <Nella florida citt@a di Morroch risiede il
+Miramominin>.  |Quel mare~: quella parte del ^grande mare~, del
+Mediterraneo; cfr. ^Inf.~, XIV, 94-95.  ^Orosio~, I, 2: <Le isole
+Baleari... hanno questi confini, che dall'Oriente @e Sardigna, da
+settentrione il mare Gallico, dal merigge il mare Mauritano, dal
+ponente il mare Iberico>.
+
+	|106.  Tardi~: effetto fisico e morale dell'esser
+|vecchi.~
+
+	|107-108.  A quella foce stretta~: allo stretto, che ora
+si chiama di Gibilterra, largo sette miglia.  -- |Li suoi
+riguardi~: le colonne (Abila e Calpe) forse a dare avviso, a
+ispirar timore, come spiega il v. seg.  In franc. e in prov.
+|riguardo~ signific@o timore, paura; cfr. ^Inf.~, XI, 12. 
+^Tesoretto~: <E vidi et ritte stare Gran colonne, le quali L@i
+mise per segnali Ercules il potente, Per mostrare alla gente Che
+loco sia fissata La terra e terminata>.  Probabilmente Dante ebbe
+presente alla memoria un luogo di ^Orosio~, I, 2, cos@i tradotto
+dal ^Giamboni~: <L'Oceano occidentale @e confine all'Europa nella
+Spagna, specialmente l@a dove, presso le isole Gade, si vedono le
+colonne di Ercole, e i flutti del mar Tirreno entrano nelle foci
+dell'Oceano (^faucibus Oceani~)...  A occidente i confini
+dell'Europa, cio@e le foci (^fauces~) dello stretto Gaditano>. 
+Uno stretto somiglia ad un fiume: nel M. Evo fu qualche volta
+chiamato fiume lo stretto di Messina.
+
+	|109.  L'uom~: cfr. ^Inf.~, XIII, 85.
+
+	|110-111.  Sibilia~: cfr. ^Inf.~, XX, 126.  |Setta~:
+Ceuta: Aveva, dunque, oltrepassato lo stretto, perch@e Siviglia @e
+in Ispagna, di l@a da esse, verso occidente; e Ceuta in Affrica,
+dirimpetto a Gibilterra, proprio dove lo stretto comincia.  Sono,
+rispettivamente, le indicazioni |mi lasciai~ e |m'aveva
+lasciato~, esattissime.
+
+	|112-117.~  O fratelli, che ecc. |non vogliate negare
+l'esperienza~, la conoscenza diretta |del mondo sanza gente, a
+questa tanto picciola vigilia~, tanto breve veglia |de' nostri
+sensi~, tanto poca vita, che ancora ci resta da vivere. 
+L'invocazione affettuosa: |O frati~! deve disporre benevolmente
+gli animi degli uditori; il grato ricordo dei |centomila perigli~
+gi@a superati, destar in essi compiacimento ed orgoglio, e, con
+l'orgoglio, il desiderio di non mostrarsi minori di s@e stessi;
+l'accenno al poco tempo, che ancora possono vivere, mutare il
+desiderio in proponimento saldo e incrollabile, tanto @e
+nobilmente ardita e attraente, per chi infiniti altri pericoli ha
+superati, la nuova impresa.  La proposta di essa impresa giunge
+quando gli animi sono preparati e disposti a farle buona
+accoglienza; giunge con tono di preghiera -- |non vogliate negar~
+-- in compagnia d'una circostanza adatta a crescer coraggio:
+|diretro al sol~, seguendo il sole nel suo corso, il sole,
+infallibile guida.  Ma, se qualche esitanza li trattenesse
+ancora, ecco a dissiparla, incalzante, l'avvertimento: Siete
+uomini; solenne, l'antitesi tra la vita de' bruti e i pi@u alti
+ideali propri dell'uomo.  Cfr. ^En.~, I, 198 segg. e ^Orazio~,
+^Odi~, I, vii, 24 segg., notando, per@o, che, nell'^Eneide~, Enea
+pu@o assicurare ai compagni prossimo e certo l'arrivo al Lazio;
+nell'ode oraziana, Teucro pu@o ricordare che Apollo gli ha
+promesso con certezza una nuova patria, una nuova Salamina; ma
+Ulisse non pu@o promettere alcun vantaggio, n@e prossimo n@e sicuro. 
+Altro @e proseguire il cammino verso una meta nota, altro @e
+avviarsi verso l'ignoto; ben diverso cercar di acquistare
+|esperienza~ di un mondo non solo sconosciuto, ma |senza gente~,
+disabitato; ben diverso dal procurar di giungere a una terra non
+troppo lontana, dove il lungo errare avr@a termine, e i rischi
+evitati e i danni sofferti avranno compenso, Enea e Teucro posson
+dar animo ai compagni dicendo: Avete sopportato mali peggiori
+(^passi graviora, peioraque passi~); non pu@o Ulisse, il quale non
+@e in grado di prevedere che cosa lo aspetti di l@a dai <riguardi>
+di Ercole; non sa se i futuri |perigli~ non saranno maggiori de'
+|centomilia~ gi@a superati.  Perci@o Ulisse procura di mettere in
+moto i sentimenti pi@u nobili, e indirizzarli al raggiungimento
+disinteressato del fine altissimo, sapere per sapere, che s'@e
+proposto.  -- |Centomilia~: centomila, alla latina, era dell'uso. 
+^C. Angiolieri~, ^Un danaio~: <i' n'ho (di morti) ben centomilia
+la dia>.  -- |Vigilia~: veglia, lo star desti.  --
+|L'esperienza~: cfr. ^Inf.~, XXVIII, 48.  -- |Del mondo sanza
+gente~: il Medio Evo non ignor@o la possibilit@a dell'esistenza di
+nomini agli antipodi; ma essa fu apertamente negata da parecchi,
+pure dotti secondo il tempo.  Ristoro, contemporaneo di Dante,
+dimostra (VIII, 12) che l'emisfero australe @e disabitato e
+coperto dall'acqua.  A questa opinione si attiene ^Dante~ nel
+^Conv.~, III, 5, dove afferma, tra l'altro, <che se una pietra
+potesse cadere da questo nostro polo, ella cadrebbe l@a oltre nel
+mare oceano>; questa opinione segue nella ^Commedia~, perch@e gli
+permette d'imaginare la montagna del Purgatorio collocata
+nell'emisfero australe, in mezzo al mare.  Invece
+l'^Alessandreide~ di ^F. Gualtiero~, poema del sec. XII, che fu
+molto letto anche in Italia, narra (X, 311 segg.) che Alessandro,
+poi che ebbe conquistato l'India, disse ai suoi soldati: <Ors@u,
+cerchiamo i popoli degli antipodi, che stanno sotto altro sole,
+affinch@e la gloria o la virt@u nostra non tralasci d'acquistar
+esperienza di cosa alcuna, per cui possa crescere e meritare
+canto perpetuo>.
+
+	|118-120.  La vostra semenza~: cfr. ^Inf.~, III, 105; XV,
+76.  Qui non significa soltanto gli antenati, ma genericamente
+l'esser uomini.  -- |Fatti non foste~, la negazione, cadendo
+l'accento su |foste~, ha maggior energia che se il poeta avesse
+scritto ^non foste fatti.~  -- |Per seguir~ ecc.  Cfr. ^V. E.~,
+I, 12; <Federico Cesare e... Manfredi... manifestando l'intima
+loro nobilt@a e rettitudine, seguirono quel, che conviene ad
+uomini, sdegnando quel, che @e de' bruti>.
+
+	|121-123.  Picciola~, breve l'orazione, ma efficacissima,
+ottiene tutto il suo effetto movendo all'azione i |compagni.~  --
+|Aguti~: pronti, alla latina; prima erano ^tardi~; cfr. v. 106:
+
+	|124-126.~  L'^ardore~ {v.97} di Ulisse s'era appreso ai
+compagni, i quali dettero ai remi la rapidit@a delle ali, e la
+nave sola vol@o su le acque; ma, mentre ricorda il fatto non senza
+compiacimento, l'eroe ricorda pure la fine miseranda di quel
+|volo~, e lo giudica, quale fu, |folle~, per incidenza, e con una
+parola sola.  Nel ^Par.~, XXVII, 83, Dante chiamer@a |folle~, ^il
+varco di Ulisse.~  Per andare ^diretro al sol~ {v.117}, verso
+occidente, non era necessario torcere la nave a direzione diversa
+da quella tenuta sin allora per giungere ai ^riguardi~ {v.108} di
+Ercole; ma, per giungere a quella parte dell'emisfero australe,
+che @e opposta alla <terra discoperta>, all'emisfero
+settentrionale, bisognava far rotta verso mezzogiorno.  Perci@o
+|la poppa~ fu |volta~ obliquamente a sud-ovest, e la nave, via
+via procedendo, acquistava sempre dal |lato mancino~ (cfr.
+^Purg.~, IV, 38), piegava pi@u e pi@u a sinistra.  Perci@o |nel
+mattino~ allude semplicemente all'ora, in cui cominci@o il |folle
+volo~; non pu@o significare che la poppa fosse volta ad oriente,
+ossia proprio in quella direzione, che abbandon@o.
+
+	|127-129.  La notte~ io |vedea gi@a tutte le stelle~ ecc. 
+Dei due poli, <l'uno @e manifesto quasi a tutta la terra
+discoperta, cio@e questo settentrionale; l'altro @e quasi a tutta
+la discoperta terra celato>; ^Conv.~, III, 5.  Accostandosi
+Ulisse all'equatore, vide, per la rotondit@a della terra, a poco a
+poco, sorgere le |stelle dell'altro polo~, dell'australe, e
+quelle del nostro abbassarsi e nascondersi sotto il livello delle
+acque del mare, |il marin suolo.~  Cfr. ^Purg.~, I, 23.
+
+	|130-132.  Di sotto dalla luna~, dalla parte che la luna
+mostra alla terra, |il lume era racceso cinque volte, e tante~
+volte |casso~, cancellato, spento: eran passati cinque mesi. 
+Cfr. ^Inf.~, XXXIII, 26.  -- |Alto passo~: cfr. ^Inf.~, II, 12.
+
+	|133-134.  Bruna per la distanza~: il colore insieme con
+la ragione di esso.
+
+	|136.~  Cfr. ^Inf.~, XIII, 69.  ^P. Vidal~, ^No 'm fai~:
+<e Dio mi doni tal gioia, che torni in allegrezza, perch@e la
+gioia di amore torna in pianti e in lagrime>.
+
+	|137.  Nuova terra~: veduta allora per la prima volta. 
+|Un turbo~: cfr. ^Inf.~, III, 30.
+
+	|138.  Il primo canto~: dalla parte della prora; la prora
+era volta verso la montagna.
+
+	|139.~  Il turbine fu cos@i violento, che |il fe'~, lo
+fece (il legno) |girar~ tre volte, e con esso fece girare |tutte
+l'acque~, che gli stavano intorno, formando un vortice, dal quale
+la nave fu inghiottita.
+
+	|140-141.  Alla quarta~ volta, fece |levar in suso la
+poppa~, sollevando la nave dal ^canto~ {v.138} di dietro. 
+^Girar~ {v.139}, tronco alla sesta sillaba tien sospeso un
+momento il primo verso e cos@i |levar~ il secondo; |in gi@u~ taglia
+il terzo come con forte colpo.  -- |Altrui~: a Dio.
+
+	|142.~  Dopo tanto e s@i rapido moto, un verso lento e
+grave: all'infuori di questa lentezza e gravit@a, nessun altro
+indizio, nelle parole dell'eroe, di dolore, di rimpianto, di
+pentimento.  Mentre egli racconta, sorgono successivamente nella
+imaginazione, e si fermano indelebili nella memoria nostra, le
+imagini della nave, che percorre sola l'immensit@a dell'Oceano
+senza mai fermarsi, della montagna bruna improvvisamente apparsa,
+del turbine, che fa girare nave e flutti, e la nave inghiottita
+dal vortice e il mare di nuovo unito e placido: e tutto ci@o @e da
+lui raccontato e descritto con serenit@a perfetta, come se non
+foss'egli il protagonista del dramma.  Dante non conobbe
+l'^Odissea~: ma il suo intuito potente ricostru@i il carattere
+eroico di Ulisse su i pochi cenni, che da quella erano passati
+ne' versi di ^Orazio~ e nella prosa di ^Cicerone~; e quel
+carattere, sublimandolo, colloc@o e fece rivivere felicemente in
+una situazione nuova.  Narra ancora una volta i suoi casi
+maravigliosi l'eroe, non alla mensa del re Alcinoo, bens@i
+nell'Inferno, chiuso nell'involucro ardente; e li narra con
+magnanima semplicit@a.  Presso ^Orazio~, Ulisse @e ancora l'omerico
+<uom di moltiforme ingegno...  Che citt@a vide molte, e delle
+genti L'indol conobbe; che sovr'esso il mare Molti dentro del cor
+sofferse affanni, Mentre a guardar la cara vita intende, E i suoi
+compagni a ricondur>; presso Cicerone @e l'antico eroe, il quale
+sdegna la tranquillit@a e la pace quando tutta la Grecia imprende
+la guerra troiana, al quale (^De' fini~, V, 17), per trarlo a s@e,
+le sirene (cfr. ^Purg.~, XIX, 22) offron di farlo tornare in
+patria <pi@u dotto>.  Erra qua e l@a l'Ulisse classico, incorre in
+molti e gravi pericoli per volere dei Numi, avendo sempre nel
+cuore la diletta Itaca.  Nell'Ulisse dantesco l'ardor del sapere
+vince ogni altro sentimento; ardore suo proprio, alimentato e
+secondato da lui con piena coscienza; ond'@e che, per soddisfarlo,
+rinunzia al ritorno in patria, tra le braccia de' suoi cari, e
+induce i compagni a seguirlo sempre pi@u lontano, verso una meta
+ignota.
+
+	Un'antica tradizione, riferita, tra gli altri, da
+^Solino~, attribuiva ad Ulisse la fondazione di Lisbona nella
+Lusitania, di l@a dalle colonne di Ercole.  Una credenza diffusa
+nel Medio Evo, poneva <presso lo stretto di Gade, verso
+l'Affrica, l'isola dei Fortunati, i cui abitanti eran felici come
+in Paradiso, amena, ubertosissima, a tutti gratissima, ma nota a
+pochi, la quale, talvolta trovata per caso, poi lungamente
+cercata, non s'@e rinvenuta, e si crede perduta>.  Dicevano che da
+ultimo vi pervenne Brandano, santo uomo, esploratore dell'Oceano. 
+^G. di Tilbury~, II, 11.  Si narrava, inoltre, della montagna
+della calamita, alla quale erano attirati i vascelli con tanta
+violenza, che, all'urto, andavano in frantumi: cfr. il poema
+francese di ^Huon de Bordeaux~ e, nelle ^Mille e una notte~, la
+storia di Sindbad.  Queste ed altre analoghe narrazioni
+maravigliose pot@e Dante non ignorare; ma @e lecito chiedere se
+ebbe alcun bisogno di trarre da esse ispirazioni e particolari,
+quando, dai Padri e dai teologi, sapeva che il paradiso terrestre
+sta nelle parti di Oriente, sotto il circolo equinoziale, alto in
+fatto o per figura sino alla luna, ignoto agli uomini, separato
+dalla terra abitata per impedimenti o di monti o ^di mari~ o di
+regioni torride.  ^Somma t.~, I, 102.  Si noti, a ogni modo, che
+la nave di Ulisse @e inghiottita dalle acque, non va ad
+infrangersi alle falde della <montagna bruna>.
+
+	Il Paradiso terrestre dantesco sta alla sommit@a del monte
+del Purgatorio (^Purg.~, XXVII, 124 segg.), e questo monte @e una
+isoletta in mezzo all'Oceano (ivi, I, 100), opposta a
+Gerusalemme, nell'emisfero australe: non @e possibile credere che
+<la montagna bruna> veduta da Ulisse, e il monte del Purgatorio,
+non fossero tutt'una cosa nel pensiero di Dante.

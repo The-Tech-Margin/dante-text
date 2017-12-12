@@ -1,0 +1,106 @@
+	|1.~  AFFETTO, idest, attento.
+
+	|2.~  LIBERO, idest, senza premio.
+
+	|4.~  LA PIAGA, che fu il peccato.
+
+	|5.~  QUELLA, che @e Eva.
+
+	|6.~  APERSE, risponde a quel ^chiuse~, E PUNSE, a quel ^unse~.
+
+	|19.~  LO SGUARDO, che fu la fede, perch@e chi in ^Cristo venturo~ e 
+chi in ^Cristo venuto~ credettero.
+
+	|27.~  LI VISI, idest, le vedute.
+
+	|31.~  DEL GRAN GIOANNI: ha tolto Nostra Donna e san Gioanni per 
+principali, sotto quali sentano quelli che hanno creduto in Cristo 
+venturo e venuto, perch@e tutti dui, per esser nati in tempo che non 
+era ancor nato Cristo, prima credettero in Cristo venturo e poi in 
+Cristo venuto.
+
+	|40.~  E SAPPI CHE DAL GRADO IN GI@U CHE FIEDE: ^fiede~ qui ha tolto 
+per `divider', che di raro si piglia cos@i.  Lo pigli@o Oratio ne l'oda 
+III del primo libro: <Nec quicquam Deus abscidit>.
+
+	|43.~  MA PER L'ALTRUI, cio@e de padri.
+
+	|48.~  GUARDI, in quanto al volto, ASCOLTI, in quanto a le parole.
+
+	|54.~  SE NON COME TRISTITIA, la qual non ha loco.
+
+	|56.~  QUANTUNQUE, idest, quanto che.
+
+	|57.~  CI SI RISPONDE DA L'ANELLO AL DITO, idest, ogni cosa @e fatta a 
+proportione.
+
+	|58.~  FESTINATA, idest, venuta in pressa.
+
+	|60.~  PI@U E MEN EXCELLENTE, secondo maggior e minor merito de' padri.
+
+	|61.~  PAUSA, idest, s'acquieta.
+
+	|69.~  CHE NE LA MADRE, idest, ancor nel corpo ebber l'ira commossa 
+contra di s@e.
+
+	|73.~  DI LOR COSTUME, che @e il libero arbitrio.
+
+	|74.~  PER GRADI DIFFERENTI, secondo la gratia.
+
+	|75.~  PRIMIERO ACUME, chiama quella gratia.
+
+	|76.~  BASTAVASI etc., che furono i secoli innanzi la legge.
+
+	|79.~  POI CHE LE PRIME ETADI, che fu poi ne l'et@a de la legge data a 
+Mois@e.
+
+	|82.~  MA POI CHE 'L TEMPO DE LA GRATIA, che fu ne l'avenimento di 
+Cristo.
+
+	|84.~ RITENNE, idest, non si diede.
+
+	|87.~  A VEDER CRISTO: qui ancor il Poeta ha posto tre volte in una 
+rima stessa ^Cristo~.
+
+	|91.~  QUANTUNQUE, idest, quanto che.
+
+	|94.~  L@I DISCESE, che disse di sopra che era l'angelo Gabrielo.
+
+	|99.~  OGNI VISTA, idest, ogni cosa veduta.
+
+	|103.~  QUAL @E QUEL ANGEL: qui ha posto ^qual~ per <quis>; il 
+Petrarca: <Qual pi@u diversa e nova>.
+
+	|107.~  ABELLIVA, idest, s'invaghiva.
+
+	|114.~  SALMA, chiama il corpo, e disse ^carcar~.
+
+	|115-116.~  VIENI CON GLI OCCHI S@I COME IO ANDR@O PARLANDO: bella 
+locution.
+
+	|119.~  AUGUSTA, chiama la Nostra Donna, avendo di sopra chiamato 
+^imperadore~ e poco innanzi il ciel ^imperio~.
+
+	|122.~  @E 'L PADRE, cio@e Adam; ARDITO GUSTO, idest, per lo gusto di 
+lui ardito.
+
+	|124.~  QUEL PADRE, che @e san Pietro.
+
+	|127.~  E QUE', che fu san Giovanni, che ne parl@o ne l'^Apocalipse~.
+
+	|130.~  LUNG'ESSO, idest, appresso esso.
+
+	|133.~  A PIETRO: quel che ha di sopra detto per circumlocutione, ora 
+lo dice per lo nome stesso proprio.
+
+	|135.~  PER CANTAR, idest, ancora che canti.
+
+	|139.~  CHE T'ASSONNA: non so perch@e dica, se non forse che voglia 
+dir che venia al fin la notte ch'el teneva in sogno, e che questa 
+vision, ove il Poeta vide le cose trattate in questa opera, fu in sogno.
+
+	|141.~  CHE COME EGLI HA DEL PANNO, cio@e, se ha panno assai, la fa 
+grande, se poco, stretta.
+
+	|145.~  N@E FORSE TU T'ARRETRI, idest, n@e tu nieghi ci@o, cio@e che 
+si debba impetrar tal gratia.

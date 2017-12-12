@@ -1,0 +1,56 @@
+Return-Path: bobh@PHOENIX.PRINCETON.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id UAA23459
+	for <steve@avalon.dartmouth.edu>; Tue, 1 Dec 1998 20:34:27 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id UAA25656
+	for <Steve.Campbell@dartmouth.edu>; Tue, 1 Dec 1998 20:34:23 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 46682 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67602-17969>; Tue, 1 Dec 1998 20:33:49 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id UAA19978
+	for <Steve.Campbell@dartmouth.edu>; Tue, 1 Dec 1998 20:33:41 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id UAA02926;
+	Tue, 1 Dec 1998 20:33:41 -0500 (EST)
+Message-ID: <366495E4.72BDF0C1@phoenix.princeton.edu>
+Date: 	Tue, 01 Dec 1998 20:20:36 -0500
+From: Robert Hollander <bobh@PHOENIX.PRINCETON.EDU>
+Reply-To: bobh@PHOENIX.PRINCETON.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>,
+        Bob Hollander <bobh@PHOENIX.PRINCETON.EDU>
+Subject: Pietro3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Started work editing him last night.  It is not going
+to be a small task.  here are some important things for
+me to know.
+
+(1) This text has both italicized text (frequent) and
+boldface text (less frequent) as part of its own
+consistent system.  We would want to continue both as
+they are.  DO I NEED TO FIX ALL OF THEM, CHANGING FROM
+ACTUAL ITALICS & BOLD TO OUR SIGNS (^xxxx~; |xxxx~). 
+PLEASE SAY "no," that there is a way to read straight
+from italics in some global way.
+
+(2) There are SOME resolved accents, not many.  Should
+I "unresolve" 'em into our system (@a, $e, etc.)?
+
+(3) There are a good number of superscripts, esp. (so
+far) what we transcribe as +o~, or superscript "o"; but
+there are also OTHER characters not familiar to our
+system (which _is_ also used to +a~): I've noted both
++i~ and +m~ (e.g., "viii+i~ for "octavi"; "vii+m~" for
+"septimum").  Will our system allow for those signs as
+things now stand?  Or do you need to do smtg. for each
+new superscript character?  (3a) Should I "unresolve"
+all superscripts, or can that be done with globals?
+
+I think that is all for now.  Pietro will be a lot of
+work, but is very worth having.
+
+All best, Bob

@@ -1,0 +1,1585 @@
+	|1-6.~  Seguitando dopo questo il Poeta la narrazion sua, incomincia 
+questo ventunesimo capitolo, che noi abbiamo a esporre, dicendo:
+
+   ^Cos@i di ponte in ponte, altro parlando,~
+   ^Che la mia Comed@ia cantar non cura....~
+
+Nel quale egli descrive la quinta bolgia, nella quale ei mette che 
+sieno puniti, nel modo ch'ei mosterr@a di sotto, i barattieri. Ove, 
+avanti che noi procediamo pi@u oltre, fa di mestieri vedere quel che 
+intenda il Poeta per ^barattieri~, e per ^baratteria~; per ci@o che 
+questa voce significa oggi una cosa molto diversa da quella, ch'ella 
+significava ne' tempi del Poeta. Per ci@o che ^baratteria~ si chiama 
+ne' tempi nostri, bench@e ei non ne sia oggi alcuna in Firenze (ma io 
+ce ne ricordo bene essere [state] in Firenze due, e tutte a due ne' 
+luoghi pubblici, ove stanno le meretrici), uno luogo publico, tenuto 
+aperto per giocare a ogni sorte di persone; onde non occorre avervi, a 
+chi vuole ire a giocarvi, conoscenza o pratica alcuna: e quello che la 
+tiene, che si chiama ^barattiere~, tiene garzoni, lumi, dadi e carte, 
+facendosi pagare certo prezzo a chiunche vi giuoca. Non vi si pu@o 
+giucare con altre carte o dadi, che con quei del ^barattiere~; ed egli 
+@e tenuto, quando nessuno perdessi denari con altre carte o dadi, a 
+rifarglieli di suo; e si dice che tal cosa era comportata e ordinata 
+perch@e nessuno fussi ingannato, come pare che si possa fare pi@u 
+facilmente ne' luoghi privati. Questo significa oggi ^baratteria~; e 
+queste eran chiamate ne' tempi del Poeta ^biscazze~; la qual voce si 
+usa ancora qualche volta oggi per significare simili luoghi, e 
+particularmente (come nota il Lenzone in quella defensione ch'ei fa di 
+Dante per cagione del Bembo, il quale per non saper bene il significato 
+di cotal voce, e non conoscere conseguentemente quanto ella fusse usata 
+propiamente da 'l Poeta, quando parlando di quei che usan violenza 
+contro a lo avere loro in mandarlo male, disse: ^Biscazza e fonde la 
+sua facultate,~ lo aveva biasimato di averla usata) certi luoghi non 
+cos@i pubblici come le ^baratterie~, ove vanno a giucare segretamente 
+certi rinvolti in cotal vizio, e che non vorrebbono ch'ei si sapesse 
+ch'ei giucassero. E questo @e quel che significa oggi questa voce 
+^baratteria~ e ^barattieri~; che ne' tempi del Poeta significava uno 
+abuso e uno violamento della iustizia, e uomini che corrotti per 
+danari, o per cose equivalenti, vendevano o compravano, come dice qui e 
+bene il Landino, quello che si debbe fare gratis e senza prezzo. Onde 
+@e diffinita dal figliuolo del Poeta: ^Baratteria est corrupta et 
+asconsa voluntas, cuiuslibet praemio a iustitia retentis~. Onde venendo 
+a essere contraria a la iustizia, la quale @e diffinita dal 
+Iurisconsulto: ^Iustitia est constans et firma voluntas tribuendi 
+unicuique quod suum est~, ella viene a essere fraude. Ed essendo 
+fraude, i barattieri, cio@e quegli che son macchiati di cotal vizio 
+d'impedire, corrotti da' danari o da altri equivalenti, co' loro favori 
+e con ogni poter loro l'esecuzioni della iustizia (il che vuole il 
+Poeta che sia, come voi intenderete pi@u gi@u, vizio propio delle Corti 
+e de' cortigiani), sono puniti, secondo che finge il Poeta nostro, 
+nella quinta delle dieci bolgie, nelle quali ei divide questo ottavo 
+cerchio dello Inferno, insieme con gli altri fraudolenti nominati da 
+lui di sopra nel capitolo undicesimo. Questa bolgia volendo egli 
+adunque descrivere in questo ventunesimo capitolo, lo incomincia per 
+appiccarlo col passato:
+
+   ^Cos@i di ponte in ponte, altro parlando,~
+   ^Che la mia Comed@ia cantar non cura,~
+   ^Venimmo, e tenevamo il colmo....;~
+
+cio@e: in questa maniera ragionando insieme Virgilio ed io (come io vi 
+mostrai nel fine del capitol passato, dicendo: ^s@i mi parlava~, e 
+andavamo di ponte in ponte, cio@e dal quarto nel quinto) cose 
+appartenenti a questa materia dell'arte dello indovinare, come sarebbe, 
+quanto gli uomini universalmente sien vaghi di sapere il futuro, e 
+quanti sieno i modi ch'eglino usono per sodisfare a cotal desiderio, 
+dice lo Imolese; ma io non so gi@a veder donde ei cavi ch'ei parlassino 
+pi@u di questo che di altro, se non per parergli che il decoro e 
+l'ordine della materia ricercassi cos@i. Le quali non volendo egli 
+stare a raccontare, come soverchie e inutili, dice, ^che la mia 
+Comedia~, cio@e questo mio poema, non cura ^cantare~, cio@e scrivere.
+
+	Questo chiamare qui il Poeta nostro questo suo poema ^Comedia~, ha 
+dato una grande occasione di biasimarlo ad alcuni suoi malivoli 
+moderni, e a alcuni altri pi@u litterati che giudiziosi, che non 
+andando punto pi@u oltre con lo intendere, ch'ei si faccino col 
+leggere, si son persuasi ch'ei non si possa far componimenti, se non 
+secondo l'ordine che hanno tenuto ne' loro i Greci, o che scrisse 
+Aristotile nella sua ^Poetica~, o per me' dire in quella parte di 
+quella che si truova oggi in essere. Onde dicono e hanno dette molto 
+cose circa a tal cosa contro di lui; alle quali tutte @e stato risposto 
+da noi in quei preambuli che io feci (e gli pu@o vedere ciascun che 
+vuole nella mia prima Lettura) innanzi che io cominciassi a esporre il 
+testo. Io dico ^noi~, perch@e molte di quelle ragioni che io adduco in 
+quel luogo in difesa di quel che ei dicono contro a di lui, non son 
+mie; ma son d'uomini molto pi@u dotti, e pi@u esercitati e giudiziosi 
+di me nelle cose de' poeti, e particularmente ne' poeti greci, de' 
+quali io non ho veduti (per non intender la lingua greca) se non quei 
+pochi che ci son latini o vulgari, come io ho fatto ancor medesimamente 
+delle cose di Aristotile. Ma io vi vo' solamente dire oggi per scienza, 
+circa a tal cosa, quel che io vi dissi allora per opinione. 
+Considerando io, come io vi ho detto ne' miei preambuli, che questo 
+poema di Dante, se bene egli lo chiama Comedia, non @e veramente 
+Comedia di alcuna sorte di quelle tre che si truovano esser le comedie, 
+cio@e n@e di quelle antiche che si usavano al tempo di Eupolo, n@e 
+delle mezzane de' tempi di Aristofane e di Cratino, n@e delle ultime 
+de' tempi di Plauto e di Terenzio, ma @e piuttosto un poema eroico, 
+mescolato alquanto col satirico; dissi in quel luogo, per scusarlo, 
+come @e verit@a, che questo non era stato in quei tempi uno errore di 
+quella importanza ch'ei sarebbe oggi. Con ci@o sia cosa che non essendo 
+pervenuta ancora in Italia molta notizia delle cose de' Greci, n@e 
+credo io punto della poesia (non si essendo veduta, se non, si pu@o 
+dire, ne' tempi nostri, la ^Poetica~ d'Aristotile, senza la quale non 
+si pu@o aver la perfetta cognizione della diversit@a de' poemi), non si 
+poteva procedere nel comporre con quella arte e con quella felicit@a 
+che si pu@o oggi. E soggiunsi a questo, che gli uomini, come si ritrae 
+chi ben considera le composizioni di quei tempi, avendo solamente una 
+certa cognizione generale delle comedie, ch'elle cominciono in 
+travagli, e finiscono in quiete e in allegrezza, chiamano Comedia ogni 
+poema che avessi questa condizione. Laonde essendo tale questo di 
+Dante, per avere per principio lo Inferno, e per fine il Paradiso, egli 
+la chiam@o cos@i. Ora tutto questo, che io vi dissi allora per 
+opinione, vi @e ridetto oggi da me per scienza. E la cagione @e, per 
+esser venuta modernamente, e non molti anni sono, per opera della buona 
+memoria di Tommaso Santini nostro cittadino fiorentino, molto amatore, 
+mentre ch'egli fu in vita, delle virt@u, una epistola, la quale il 
+nostro Poeta scrisse in lingua latina al Signor Gran Cane della Scala, 
+Vicario Generale del principato di Verona e di Vicenza, presentandogli 
+la terza Cantica di questo suo poema, cio@e il Paradiso. Nella quale 
+trattando egli di alcune cose, mediante le quali s'intendessi con 
+maggior facilit@a, da quei che la osservavano, la intenzione sua; e 
+infra le altre, per qual cagione egli dessi a questa sua opera questo 
+titolo di ^Comedia~; e avendo mostro che la Comedia @e differente da la 
+Tragedia nella materia, con ci@o sia cosa che la Tragedia @e nel 
+principio maravigliosa e quieta, e nel fine fetida e orribile (che 
+queste son le sue parole), e la Comedia comincia con asperit@a di 
+qualche cosa, ma la sua materia termina prosperamente; soggiugnendo che 
+da questo hanno preso alcuni dettatori consuetudine di dire nelle loro 
+salutazioni, in luogo di salute, ^tragicum principium, et comicum 
+finem~; similmente sono ancor diverse oltre a di questo le Comedie nel 
+modo del parlare, per ci@o che il parlar della Tragedia @e alto e 
+gonfiato, e quel della Commedia @e rimesso ed umile; onde soggiugne: 
+<^Et per hoc patet quod Comoedia dicitur praesens opus. Nam si ad 
+materiam aspiciamus, a principio horribilis et foetida est, quia 
+Infernus; in fine prospera, desiderabilis et grata, quia Paradisus. Ad 
+modum loquendi, remissus est modus et humilis, quia locutio vulgaris, 
+in qua et mulierculae comunicant; et sic patet, quia Comoedia 
+dicitur.~> Taccino adunque i malivoli, e quegli che d@a lor noia in una 
+figura, ancor ch'ella sia bellissima, ogni minimo neo, ancor ch'ei non 
+guasti la figura, per non esser della essenzia sua, ma essere in quella 
+uno accidente alieno e avventizio; ch@e Dante, per la povert@a di quei 
+tempi che non avevan, come io dissi di sopra, quella perfetta 
+cognizione de' poeti e della poesia che hanno oggi i nostri, non poteva 
+saper pi@u l@a, ch'ei si sapessi accidentalmente. Ma egli and@o ben 
+tanto in l@a col sapere suo naturale, e con la bont@a e acutezza dello 
+ingegno suo, che ei fece questo suo poema, se non con le regole degli 
+altri poeti, con le sue, tale che di tre gran litterati ed esercitati 
+che noi abbiamo oggi nella citt@a nostra nelle cose de' Greci, due non 
+lo tengono punto inferiore a Omero, il quale tiene, come voi potete 
+sapere, il primo luogo infra i poeti; e l'altro lo prepone a lui, tanto 
+ch'egli usa dire che non dubita punto, che se Aristotile avesse veduto 
+Dante, come ei vedde Omero, ch'egli arebbe fatta la sua ^Poetica~ 
+secondo Dante, e non secondo Omero. N@e sia alcuno che si persuada 
+ch'ei non si possa, non che equiparare, trapassare nelle cose che 
+posson far gli uomini come uomini, gli antichi. Per ci@o che se ei non 
+si potessi equiparargli, bisognerebbe dire che la spezie fussi 
+peggiorata; e se ei non si potessi trapassargli, che la esperienza non 
+insegnassi e non giovassi agli uomini, se non insino a un certo 
+termine. Egli @e ben vero ch'ei non si pu@o operare a pari degli 
+antichi, in quanto a ritrovare le scienze, l'arti, e a l'essere 
+inventori di tante cose, quanto sono stati eglino; ma questo @e un 
+difetto che non nasce dagl'ingegni moderni, ma nasce da esse cose; 
+delle quali @e in infinito maggiore il numero di quelle che si son 
+ritrovate, che di quelle che restono a trovarsi. E questo conoscer@a 
+chiarissimamente ognuno che considerer@a quante poche cose manchino 
+oggi agli uomini. E cos@i @e ancor similmente vero che in alcune pare 
+che sieno stati uomini, che abbino preso il primo luogo, cio@e sieno 
+stati tanto eccellenti ch'ei non si possa trapassargli, come io credo 
+certamente che possa dirsi della filosofia naturale d'Aristotile. Onde 
+@e nato che chiunche ha voluto discrepare, e uscire della via sua, @e 
+lasciato adietro, e non @e seguitato, o da pochissimi; come @e avvenuto 
+ad Alberto Magno, del quale, se bene ei fu un valentissimo uomo, @e 
+fatto per tal conto pochissima stima. Nientedimanco chi considerer@a 
+bene i tempi moderni, vedr@a ch'ei non hanno mancato di avere avuta la 
+lor parte degl'inventori di cose bellissime, come sono stati gli 
+occhiali, l'artiglieria, la stampa, e molte altre cose. E chi 
+considerer@a dipoi quanto molte di quelle, delle quali furono inventori 
+gli antichi, sieno state accresciute dai moderni, non mancher@a di 
+lodare ancora i moderni. E in questo vi sia esempio l'architettura, ove 
+voi troverrete ch'ei non ebbono mai tanto animo gli antichi di andare 
+tanto in alto co' loro edifizii, quanto ebbe Filippo di Ser Brunellesco 
+nella Cupola. E troverrete Michelagnolo aver fatti molti membri, 
+nell'ornare i suoi edifizii, che non son secondo gli ordini degli 
+antichi; e nientedimanco non son manco belli e non hanno manco grazia 
+de' loro; s@i che ei non @e maraviglia se il Poeta nostro ha fatto 
+ancora egli un poema, non secondo gli ordini degli antichi, che ha 
+similmente ancora egli non manco arte e non manco bellezza de' loro.
+
+	Dice adunque il testo, tornando a la esposizione di quello, che 
+vennero egli e Virgilio, ragionando insieme, come ei dimostr@o ne 
+l'altro capitolo, di ponte in ponte, insino a tanto che ei ^tennero il 
+colmo~, cio@e arrivarono in su 'l mezzo di quello che passa sopra la 
+quinta bolgia. Ove fermandosi per vedere il suo fondo, chiamato da lui 
+^fessura~, cio@e concavit@a, e udire i pianti e i lamenti che facevano 
+invano i peccatori di quella, dice che la vide ^mirabilmente oscura~, 
+cio@e oltre a modo nera e tenebrosa. E questo si @e, perch@e ei mette 
+ch'ella sia piena, fino alle sponde degli argini, di pece strutta che 
+continovamente bolle; la qual pece @e, come voi sapete, nerissima. E in 
+questa pece cos@i bollente dice il Poeta che son puniti i barattieri e 
+rivenditori (che non so con che altro nome pi@u a proposito chiamargli) 
+della giustizia. Nessun de' quali non cava mai, o rarissime volte, 
+fuori di quella il capo; perch@e su per gli argini di detta bolgia 
+vanno continovamente attorno attorno una moltitudine di Demonii, che 
+gli feriscono e gli ripingono sotto quella crudelissimamente con certi 
+forconi, graffi e altri simili strumenti ch'eglino hanno in mano. E 
+queste pene dice il Giambullari che significano moralmente questo. La 
+pece, ch'@e una viscosit@a oscura, corrosiva e tenace, cavata per forza 
+di fuoco de' pini vecchi, significa la voglia oscura, cio@e celata il 
+pi@u che si pu@o da loro, di far danari, causata da 'l lor desiderio 
+infiammato e acceso d'avarizia; onde @e corrosiva delle facult@a di 
+chiunche conversa con loro, e ^tenace~, perch@e non d@a mai cosa alcuna 
+a chi si dimestica con loro. E lo essere graffiati e lacerati da i 
+Demonii, quando eglino escono punto fuora a galla, significano i 
+biasimi che son dati loro universalmente, da poi che ei non si ha pi@u 
+bisogno di loro, da ciascuno che gli vede.
+
+	|4-6.~  [LETTURA NONA SOPRA LO INFERNO FATTA ALL'ACCADEMIA FIORENTINA 
+NEL CONSOLATO DI ANTONIO DEL MIGLIORE MDLXIII.  LEZIONE PRIMA CAP. XXII]
+
+   ^Ma perch@e Malebolge in ver la porta~
+   ^Del bassissimo pozzo tutta pende,~
+   ^Lo sito di ciascuna valle porta~
+
+   ^Che l'una costa surge e l'altra scende.~  [XXIV.37-40]
+
+	Noi abbiamo a dar principio questo anno a le lezioni nostre, 
+ascoltatori nobilissimi, volendo seguitar di esporre il nostro Inferno 
+di Dante senza lasciarne parte alcuna indietro, al ventiduesimo 
+capitolo di esso Inferno. Ove, giudicando io ch'egli abbia a essere non 
+solamente utile, ma ch'ei sia, per cagione di molti che non furono a 
+l'ultime lezioni nostre, necessario, acci@o che ei possino intender con 
+maggior facilit@a la mente del Poeta, ripetere ove noi eravamo; dico 
+che il Poeta nostro si ritruova essere arrivato, seguitando Virgilio, 
+nell'ottavo e penultimo cerchio di esso suo Inferno. Il piano, o, per 
+meglio dire, il suolo del quale il Poeta non mette ch'ei sia piano, ma 
+sia alquanto a pendio verso il mezzo, ov'ei mette che sia la gola del 
+pozzo, che arriva poi fino a dove @e nel pi@u basso luogo di esso vano, 
+cio@e nel centro del mondo, Lucifero; luogo del quale non pu@o 
+immaginarsi in questo Universo il pi@u basso e il pi@u discosto da 'l 
+cielo ov'@e la sedia di Dio; luogo chiamato gi@a da' nostri antichi, 
+secondo che io ho trovato in alcuni di loro, il ^miluogo~, cio@e il 
+mezzo del luogo (intendendo per ^luogo~ il ^locato~, cio@e tutto questo 
+aggregato del cielo, della sfera, del fuoco, dell'acqua e della terra), 
+ma oggi chiamato vulgarmente da ciascuno ^centro~, avendo fattasi la 
+lingua nostra questa voce ^centro~, ch'@e parola greca, pe 'l lungo 
+uso, sua. E questo cotal cerchio dello Inferno @e chiamato da il Poeta 
+Malebolge, perch@e il suo suolo e il suo spazzo mette il Poeta, come vi 
+fu detto da noi l'anno passato (il quale mostra il Giambullari che 
+gira, nella sua ultima circonferenza rasente i fianchi del vano, miglia 
+110, e ha di diametro e di traversa circa a miglia 35), che sia diviso 
+in dieci fossoni, che abbracciano l'uno l'altro, come per avventura voi 
+avete veduto qualche volta usarsi fare intorno a' castelli per sicurt@a 
+e fortezza di quegli. Ciascuna delle quali fosse, chiamate da lui 
+^Bolge~, e per la qualit@a e condizione del sito ^Malebolge~, ha 
+diametro circa a uno miglio e mezzo. Onde occupando fra di l@a e di qua 
+ciascuna miglia tre, lasciano nel mezzo uno spazio, il quale viene aver 
+di diametro miglia cinque, manco solamente quel tanto che occupa una 
+via, ch'ei mette che sia attorno attorno a pi@e de' fianchi del vano; 
+nel mezzo del quale spazio il Poeta mette, come si mosterr@a al luogo 
+suo, la bocca del pozzo. Nelle quali dieci bolge il Poeta mette che 
+sieno puniti i fraudolenti, cio@e quegli, il peccato de' quali procede 
+e ha origine e principio da malignit@a di mente; s@i com'ei mette che 
+sieno puniti fuori della citt@a di Dite quegli, il peccato de' quali ha 
+origine da fragilit@a di natura o da qualche effetto di quella. Di 
+queste bolge scrive adunque il Poeta nostro di essere arrivato 
+(passando sopra a uno ponte che le attraversa, passando sopra ciascuna 
+di loro, facendo arco) a la quinta, nella quale ei mette che sia punito 
+il peccato della baratteria e i barattieri. Ove voi non avete a 
+intendere per ^baratterie~ quei luoghi dove si giuoca publicamente a 
+prezzo, n@e per ^barattieri~ quei che gli tengono, e prestono dadi, 
+carte, lumi e altri servizii a nolo, come s'intende per i pi@u oggi 
+(perch@e questi luoghi si chiamavano anticamente ^biscazze~, voce 
+reservata ancora insino a' tempi d'oggi nel volgo appresso di molti); 
+n@e manco per barattieri questi tali. Ma avete a intender per 
+^baratteria~ un corrompimento della iustizia e una defraudazione del 
+giusto, facendo per danari, o per qualsivoglia altro premio, de 
+l'ingiusto giusto, e del giusto ingiusto, e, come dice il Poeta stesso, 
+per danari del no ^ita~, cio@e s@i. Onde @e diffinita da messer Piero, 
+suo figliuolo, cotal peccato in questa maniera: ^Baratteria est 
+corrupta et asconsa voluntas cuiuslibet praemio a iustitia recedentis~, 
+cio@e: la baratteria @e una volont@a corrotta e celata da qualche 
+premio, onde si parte e si discosta da la iustizia. Fra Guido del 
+Carmine intende per barattieri solamente i giudici, e quegli, l'offizio 
+de' quali @e amministrare iustizia; onde dice nel suo Comento, ch'@e 
+nella libreria del Carmine, che lo fa ancora egli latino, diffinendola: 
+^Baratteria est asconsa et corrupta voluntas cuiuslibet officialis 
+praemio a iustitia recedentis~. Ma sia cotal peccato o in persone 
+private in pubbliche, egli @e molto nocivo al genere umano; e questo 
+@e, perch@e egli non @e altro che cosa contraria a la iustizia, che gli 
+@e per avverso tanto utile. Per ci@o che ei la corrompe e distrugge; e 
+ve lo dimostra la diffinizione che danno della iustizia i 
+iurisconsulti, dicendo ch'ella @e una costante e perpetua volont@a di 
+rendere a ciascuno quel ch'@e suo; e questa glielo toglie, onde viene a 
+essere conseguentemente nimicissima e destruttiva della civilit@a e del 
+comune consorzio. Con ci@o sia cosa che gli uomini non possino senza 
+iustizia convenire e conversare insieme; onde diceva Tullio nel secondo 
+degli ^Uffizii~, considerando tal cosa, ch'ei non poteva accader cosa 
+peggiore n@e pi@u perniziosa a una repubblica, che quando quel che si 
+debbe conseguire per virt@u e per iustizia, si tentava e cercava per 
+pecunia e per prezzo. E la cagione @e, perch@e quegli uomini, che son 
+macchiati di questo peccato, sono pieni di astuzie e di fraude; non 
+mostrano mai quel ch'eglino hanno nel cuore e nello animo, ma procedon 
+sempre in tutte le azioni loro insinceramente e maliziosissimamente; 
+cosa tutta contraria a quella integrit@a e quella sincerit@a, che si 
+ricerca a voler mantenere la vita comune e la civilit@a. Di questo 
+vizio della baratteria mostra Benvenuto da Imola che fusse molto piena 
+ne' tempi del Poeta la Italia. E questo @e, perch@e in quel tempo erono 
+molto pessimi per la Italia i signori e le corti; le quali corti dice 
+esso Imolese ch'eron tanto produttive e generative di questo vizio, che 
+se un Santo entrava in corte, e cominciava a trattare faccende di 
+corte, ch'ei diventava di subito barattiere. Ed egli dice che vide tal 
+cosa in fatto pi@u e pi@u volte, e in varie sorti di persone; per ci@o 
+che o indotti da gli esempli de' signori di quei tempi, che per lo pi@u 
+eron tiranni, o sforzati da 'l bisogno per non essere premiati da 
+quegli della servit@u loro, si davono tutti a valersi e a vendere i 
+favori ch'eglino avevono da loro; facevono ogni sorte d'iniustizia e 
+nel vendere e comperare gli ufizii, e le amministrazioni di quegli, a 
+quegli che avevano bisogno che fusse loro amministrato iustizia. Laonde 
+non erono altro in quel tempo la maggior parte de le corti, che 
+tirannide piene d'iniustizia, e per conseguenza di ogni sorte di vizii; 
+per ci@o che come da la iustizia nasce ogni bene e ogni rettitudine, 
+cos@i per il contrario da la iniustizia n'esce ogni male e ogni 
+perversit@a. E questo @e dimostro chiaramente da 'l Poeta nostro nella 
+terza parte del suo ^Convivio~; dove, trattando egli della cortesia, e 
+volendo dimostrare quello che propiamente ella fusse, dice che cortesia 
+non @e altro che onest@a e sincerit@a di costumi, e che cotale voce era 
+stata cavata da le corti; nelle quali s'ingegnavano anticamente i 
+signori di non tenere se non uomini giustissimi e onestissimi, a 
+cagione che per lor mezzo, servendosene eglino come di seconde cause e 
+di strumenti nelle deliberazioni e azioni loro, non nascessi iniustizia 
+o difetto alcuno; ma che ne' tempi suoi erono piene le corti di uomini 
+tanto maligni, e di tanto perversi costumi, che se cotal voce si avesse 
+a cavar da quegli, non si direbbe altro che inonest@a e turpezza.
+
+	Di questo cos@i fatto corrompimento e abuso della iustizia non saprei 
+io gi@a rendere altra ragione a chi mi domandassi per che cagione gli 
+antichi la chiamassero baratteria (non ne avendo eglino lasciato 
+scritto cosa alcuna), se non quella che dice Aristotile: che i nomi 
+delle cose, e massimamente i primitivi, sono a piacimento degli uomini. 
+E se bene ei par che Platone tenga per il contrario che i nomi sieno 
+stati posti a esse cose secondo la propiet@a della lor natura, egli @e 
+perch@e uno considera tal cosa sotto una considerazione, e l'altro 
+sotto un'altra; per il che non vi sia poi finalmente disaccordo, come 
+mostra il Leonico in quel dialogo che fa della imposizione de' nomi, 
+dicendo che quattro son le cose, le quali concorrono in questa 
+operazione de l'imposizione de' nomi continuatamente per ordine l'una 
+l'altra. La prima, le cose che sono fuori di noi; la seconda, i 
+concetti e le nozioni che si generon di quelle ne' nostri animi; la 
+terza, quelle voci, con le quali noi manifestiamo essi concetti (onde 
+disse Aristotile: ^sunt igitur voces, earumque sunt in animo passionum 
+notae~); e la quarta, quelle notizie che noi notifichiamo co' caratteri 
+e con le lettere. E infra queste quattro cose dice essere questo 
+ordine, che le prime son segnate e notate da le seconde; con ci@o sia 
+cosa che le cose reali ed esistenti nella lor natura son principio e 
+causa delle nozioni e de' concetti che noi ci formiamo nell'animo; 
+perch@e non sono altro che notizie e conoscimenti, che disegnono e 
+mostron, dentro in noi, come stanno e come sono le cose fuori di noi. E 
+nel medesimo modo dice poi che le terze son cagioni delle quarte, cio@e 
+che le voci, con le quali noi manifestiamo essi concetti ed esse 
+notizie, producono i caratteri e le lettere con le quali noi scriviamo 
+e manifestiamo essi concetti a quegli che noi non possiamo 
+manifestargli con la voce, o per esserci lontani, o per non esserci nel 
+tempo medesimo che siamo noi. Di queste quattro cose non @e dubbio 
+alcuno che le due prime, cio@e le cose e i concetti e le notizie loro, 
+sono naturali; e le due seconde, cio@e le voci con le quali essi 
+concetti si profferiscono, e i caratteri co' quali elle si scrivono e 
+mandano a le memorie de' posteri, sono artifiziali. E per@o le cose e 
+le loro notizie, essendo naturali, sono e saran sempre le medesime 
+appresso qual si voglia nazione; perch@e e cos@i @e ancor similmente 
+sempre il medesimo e la notizia e il concetto del cavallo appresso a 
+l'Italiano e al Greco e al Latino. Ma le voci, con le quali si 
+profferisce dipoi esso concetto, perch@e elle son cose artificiali, non 
+son gi@a elle le medesime; perch@e il Greco lo chiama, come noi 
+dicemmo, ^hippos~, e il Latino ^equus~. E cos@i non sono ancor 
+similmente i medesimi i caratteri e le lettere, con le quali l'uno e 
+l'altro manda a le memorie essi concetti; per ci@o che altre lettere 
+hanno i Greci, e altre i Latini. Quando adunque Platone dice che i nomi 
+sono stati imposti a le cose da la natura, egli intende di quei nomi e 
+di quei concetti mentali e naturali, dice il Leonico. E quando 
+Aristotile dice, ch'ei sono stati imposti loro da 'l piacimento degli 
+uomini, egl'intende di quegli co' quali ei si manifestono con la voce e 
+con le lettere, perch@e ei son artifiziali. E cos@i non vengono a 
+essere, secondo il Leonico, discordi l'uno da l'altro nel senso, ma 
+solamente nelle parole; cosa non punto disconveniente, a chi va ben 
+considerandola, da il dogma e da 'l modo del procedere dell'uno e de 
+l'altro. Per ci@o che Platone camminava in molte cose con la cognizione 
+intellettiva pura e sincera; e Aristotile non si fidava punto dello 
+intelletto, se non quanto ei lo trovava fondato in su 'l senso. Per 
+ci@o che, sapete voi come faceva Aristotile (diceva il Beato, filosofo 
+ne' tempi nostri eccellentissimo) nel suo filosofare? come fa uno cieco 
+con un bastone nel suo camminare, che ogni volta ch'ei lo appoggia, e 
+non truova ch'ei lo regga, non va pi@u innanzi; e cos@i Aristotile, 
+come la cognizione sensitiva gli mancava, si fermava e non passava pi@u 
+oltre. E questo si vede manifestamente essere stato fatto da lui ne' 
+libri ^Del cielo~, ove egli parla e tratta tanto esattamente di loro; e 
+poi quando ei viene a ricercar quello che sia fuori di loro, perch@e 
+egli gli mancava la cognizione sensitiva, egli se ne passa via via 
+facilmente di subito, senza trattar cosa alcuna demonstrativa. E per 
+tal cagione, perch@e quando noi parliamo de' nomi, noi parliamo di 
+quegli co' quali noi chiamiamo le cose vocalmente (come @e di questo 
+nome ^baratteria~, che noi abbiamo per le mani, che a' tempi del nostro 
+Poeta significava un corrompimento della iustizia, e oggi significa 
+ritenere il giuoco), io mi accosto ad Aristotile; e tengo come lui, che 
+sieno stati imposti a le cose dagli uomini secondo ch'@e loro paruto, e 
+non secondo la propiet@a e la natura loro, come vogliono alcuni altri. 
+E se bene ei sono alcuni, che tenendo questa opinione seconda, si 
+sforzon di provarla col dare sempre a essi nomi qualche significato e 
+qualche etimologia, a proposito almanco, se non a la lor natura, a 
+qualche loro particolarit@a, io ne ritruovo molte nella lingua latina, 
+della quale io ho pur qualche poco di cognizione (come @e, per grazia 
+di esempio, che ^uomo~ sia detto da ^umo~, che significa terra, o da 
+^umanit@a~, perch@e l'uomo @e pi@u umano e conversativo che 
+qualsivoglia altro animale; e il ^cielo~, da ^celo~, verbo che sta per 
+segnare e scolpire, per ch'egli @e segnato di stelle e segni); [ma] 
+elle mi paion tanto tirate, e ch'elle abbino tanto poco del verisimile, 
+che io vo' piuttosto andarmene con Aristotile per la sua via, ch'@e 
+pi@u manifesta al senso, che con Platone per la sua, se bene ella @e 
+forse pi@u secondo lo intelletto. E se qualcuno mi opponessi, ch'egli 
+@e da stimare molto pi@u per vera quella di Platone (con ci@o sia cosa 
+ch'ei sia scritto nel ^Genesis~ che Dio, da poi ch'egli ebbe creato 
+Adamo, fece porre nel suo conspetto tutte le cose ch'erano state prima 
+create da lui, e ch'egli pose a tutte nome conveniente a la natura 
+loro), io risponderei che questo non fusse vero se non in quella lingua 
+che parl@o primieramente, perch'ella venne a essere lingua insegnatagli 
+da Dio; ma questa lingua manc@o dipoi in breve tempo, onde gli fa dire 
+il nostro Poeta nel Paradiso:
+
+   ^La lingua ch'io parlai fu tutta spenta,~
+   ^Inanzi che a l'opra inconsumabile~
+   ^Fusse la gente di Nembrot attenta.~
+
+Ma io negher@o bene ch'ei sia poi seguitato il medesimo nelle lingue 
+che hanno trovate gli uomini. N@e reputino o piglino alcuni, cos@i un 
+poco curiosi, questa mia risposta per uno effugio o uno comune modo di 
+scaricar di soma, dicendo che come uno non sa che rispondere a una 
+dubitazione, ei cerca d'una autorit@a della Scrittura; perch'ei non 
+pare, come @e il vero, ch'ei si possa contraddirle ch'ei fu cos@i. 
+Questa non @e opinione solamente de' nostri teologi; ma ella fu ancora 
+opinione anticamente di Zoroastre, di Parmenide, di Platone e di molti 
+altri; i quali dicevano ch'eglino erono altri nomi quegli che avevano 
+posti gli Dii a le cose, e altri quegli che avevano posti loro gli 
+uomini. La qual cosa fu dipoi espressa manifestamente da Omero, dicendo 
+che quel fiume, ch'era chiamato dagli uomini ^Scamandro~, era stato 
+chiamato dagli Dii ^Xanto~; e quello uccello che gli uomini chiamano 
+^Cimindin~, era stato chiamato dagli Dii ^Calcidem~; ma che la maggior 
+parte de' nomi, posti da essi Dii a le cose, era incognita e ascosa 
+appresso al vulgo. E questo era, perch@e quei sapienti antichi, e 
+particularmente gli Egizii e i Caldei, che furono in fatto gli Ebrei, 
+gli avevano tenuti sempre, per maggior reverenza, il pi@u ch'ei 
+potevano celati, manifestandogli solamente a bocca a bocca e per 
+tradizione (chiamata da loro ^cabala~) agl'iniziati e introdotti nelle 
+sacre cirimonie. Onde dicono ch'ei non era lecito n@e concesso appresso 
+gli Egizii vedere le colonne di Mercurio, nelle quali erano sculti i 
+sacri misterii, se non ai sacerdoti; n@e appresso ai Bragmani udire la 
+loro sapienza, se non a quegli che avevan durato certa quantit@a di 
+tempo a bere dell'acqua del loro sacro fonte. Per il che noi diremo 
+finalmente, che essendo stato opera di uomini, e non divina, lo aver 
+posto nome a questa corruzione della iustizia, della quale noi 
+trattiamo e fa menzione il Poeta, ^baratteria~, sia stato a loro 
+piacimento, e non perch@e ei richiegga cos@i la natura della cosa. 
+Perch@e se bene il favellare @e a l'uomo naturale, il favellar poi pi@u 
+in questo modo, che in quello, appartiene dipoi a la libert@a del suo 
+arbitrio e a l'arte. E questo ne dimostra chiaramente il Poeta nostro 
+nel Paradiso, facendo dire ad Adam:
+
+   ^Natural cosa @e che ogni uom favella;~
+   ^Ma cos@i o cos@i natura lascia~
+   ^Poi fare a voi, secondo che vi abbella,~
+
+cio@e piace; ch@e cos@i significa questa voce. Ed @e voce provenzale; 
+onde disse Arnaldo di Provenza al Poeta nostro, quando lo trov@o nel 
+Purgatorio, dimandandolo chi egli era: ^Tan m'abelis votre cortes 
+demand.~ E questo basti per dichiarazione di questa voce ^baratteria~.
+
+	Di questo peccato della baratteria volendo trattare il Poeta, e di 
+quegli che vi sono involti e inviluppati dentro, gli mette la prima 
+cosa universalmente nello Inferno, per dimostrare, secondo il senso 
+morale, che ancora eglino sono, come tutti gli altri ostinati ne' 
+peccati, in una cecit@a grandissima di mente, e ch'ei non hanno mai 
+quiete alcuna vera ne l'animo, e vivon sempre in uno rimorso continovo 
+di coscienza, e in un timor sempiterno della dannazione e della ira di 
+Dio, cos@i come chi @e nello inferno reale, @e in uno luogo di tenebre, 
+^ubi nullus ordo, sed sempiternus horror inhabitat~, come dicon le 
+sacre littere. E dipoi per dimostrare la infelicit@a che apporta lor 
+questo peccato particulare, sotto il velame della pena particulare con 
+la quale ei son puniti, egli mette che questa bolgia nella qual ei sono 
+sia piena di pece, la quale per arte e ordine divino bolla del 
+continovo ardentissimamente; a guisa che si vede nello arzana de' 
+Viniziani, ch'@e il luogo ov'ei fanno e racconciono i navigii, bollire 
+la invernata per forza di fuoco quella ch'eglino adoperano a rimpalmare 
+e restaurare quegli che ne hanno bisogno; e ch'eglino sieno sotto 
+questa pece (e tutto questo @e narrato da 'l Poeta nel capitolo innanzi 
+a questo, cio@e nel ventunesimo), e non possino uscirne o cavar mai 
+fuor di quella il capo o qualsivoglia altra parte del lor corpo, 
+rispetto a una moltitudine grandissima di demonii che s'aggiron 
+continovamente su per la ripa intorno a essa bolgia per ripignere e 
+rituffar sotto quella, con certi uncini e certi graffi ch'eglino hanno 
+in mano, chiunche ei veggono in modo alcuno apparir fuori di quella, a 
+guisa (dice il testo) che fanno i vassalli de' cuochi, chiamati oggi da 
+noi vulgarmente ^guatteri~, i pezzi della carne nella caldaia sotto 
+l'acqua perch'ella si cuoca. Questa pena con la quale mette il Poeta 
+che sieno, come voi avete inteso, puniti favolosamente questi 
+barattieri, @e finta da lui per dimostrarne, come poeta, sotto il 
+velame d'essa favola (e cos@i dicono gli espositori, e particularmente 
+il figliuolo del Poeta e Benvenuto da Imola), che quegli che son 
+ostinati in questo peccato di corrompere per danari la iustizia, 
+facendo del falso vero e del vero falso, hanno immersa e soffocata la 
+mente da una tenebrosissima e rapacissima cupidit@a di quel d'altri, la 
+quale arde e infiamma lor la volont@a e l'appetito di rapire ^per fas 
+et nefas~ quel d'altri, a guisa che infiamma e invesca la pece bollente 
+le mani di chi ve le mette. La qual pece, per essere una viscosit@a 
+oscura e tenace, cavata per forza di fuoco de' pini vecchi, significa 
+la cupidit@a tenace e rapace e oscura (perch@e la celano sempre il pi@u 
+ch'ei possono), ch'eglino hanno, infiammata da la lor mala consuetudine 
+e da 'l lor cattivo abito; la qual cupidit@a consuma quel di chiunche 
+si dimestica e si serve con loro, come rode la pece, per avere del 
+corrosivo, la carne umana. E i demonii che gli ripingono sotto quella, 
+quando ei n'escono in modo alcuno o tutti o parte fuori, significono i 
+lor rapaci e ingiusti concetti; i quali, qualunche volta ei venissi lor 
+qualche buon pensiero di lasciar cotal vizio, nato da 'l rimorso della 
+conscienza, ve gli ripingon dentro. E gli uncini e i graffi, con che 
+eglino graffiandogli e lacerandogli fanno tal cosa, significono i 
+biasimi che son dati loro da ciascuno, e particularmente da chi si 
+serve de' lor favori, poi ch'ei non ha pi@u bisogno di loro.
+
+	|7-18.~  Questa bolgia cos@i piena di pece bollente volendo adunque 
+descrivere, la prima cosa il Poeta dice:
+
+   ^Quale nell'Arsan@a de' Viniziani~
+   ^Bolle lo inverno la tenace pece~
+   ^A rimpalmare i legni lor non sani;...~
+
+   ^Tal non per fuoco, ma per divina arte,~
+   ^Boll@ia l@a gi@u una pegola spessa,~
+   ^Che inviscava le ripe d'ogni parte.~
+
+Con la qual comparazione ei pon propiamente inanzi a la mente de' 
+lettori, come stia questa bolgia piena di pece (che bolle, non per 
+calor di fuoco che si vegga in luogo alcuno di quella, ma per ordine 
+della iustizia divina), con le parole, come se ei la ponessi lor 
+realmente dipinta con colori innanzi agli occhi. Ma perch@e ei 
+bastavano a esprimere questo concetto solamente quei primi tre versi, 
+ne' quali il Poeta prepone la comparazione, dicendo:
+
+   ^Quale nell'Arsan@a de' Viniziani~
+   ^Bolle l'inverno la tenace pece,~
+   ^Per rimpalmare i legni lor non sani,~
+
+e quegli altri due, ove assomigliando egli la pegola di detto Arsan@a a 
+questa di questa bolgia, dice:
+
+   ^Tal non per fuoco, ma per divina arte,~
+   ^Boll@ia laggi@u una pegola spessa,~
+
+senza questi, che il Poeta interpone in mezzo di loro, dicendo:
+
+   ^Che navicar non ponno, e in quella vece~
+   ^Chi fa suo legno nuovo, e chi ristoppa~
+   ^Le coste a quel che pi@u viaggio fece;~
+
+   ^Chi ribatte da proda e chi da poppa;~
+   ^Altri fa remi, ed altri volge sarte;~
+   ^Chi terzaruolo, e chi timon rintoppa;~
+
+Benvenuto da Imola, che considera sempre diligentissimamente ogni 
+parola del testo, dice che il Poeta ve gli ha messi per mostrarci in un 
+medesimo tempo, con la comparazione di questo Arsan@a, come fosse 
+ripiena di pece che bolliva questa bolgia, e quel che sia; e di pi@u, 
+che cosa sieno le Corti, che sono i luoghi ove regna principalmente la 
+baratteria, e barattare la iustizia. E io, perch@e voi veggiate la 
+osservanza e diligenza di questo uomo, vo' recitarvi le parole sue 
+medesime, tradotte da me ^ad litteram~; per ci@o che il comento suo @e, 
+come io vi ho detto altre volte, latino. <Lettore, considera la 
+maravigliosa fantasia di questo autore; il quale descrisse con somma 
+diligenza quel luogo che bene spesso egli aveva notato in Venezia; e 
+con quello ci espresse intanto il generale e universale vizio della 
+baratteria. Poni adunque per lo Arsanale qualunche Corte o di 
+Repubblica o di Signore; ma molto meglio quella del Papa. La pece 
+bollente nello Arsan@a, la stessa baratteria, che sommamente vi bolle 
+dentro nel tempo della vernata, cio@e nelle avversit@a; perch@e allora 
+sommamente i barattieri s'affaticano di farsi luogo, perch@e hanno il 
+vento contrario, e non possono prosperamente navicare. E s@i come 
+nell'Arsan@a sono tante e cos@i varie opere ed esercizii delli uomini, 
+cos@i anche sono nella Corte studii e uffici diversi di varie persone, 
+che tutte nondimeno, da 'l maggiore al minore, ciascuna secondo [il 
+grado suo], sollecitamente si argomentano di barattare. Ben finge 
+adunque lo autore che alcuno fa il legno di nuovo, perch@e nuovamente 
+si procaccia con grande arte di entrare in Corte, o avere qualche buono 
+uffizio col quale ei possa poi navicare. Altri si sforza di rifare o di 
+racconciare lo invecchiato legno, pieno di fessi e di sdruciti, acci@o 
+che ei non sia inghiottito da l'acqua. E nella Corte qualcuno, 
+invecchiato gi@a in un uffizio, trovandosi sforacchiato e conquassato 
+da le lingue e da le insidie di molti, negli scogli de' quali ha 
+percosso, cio@e nella invidia e nel biasmo, s'ingegna di riempiere quei 
+buchi con la stoppa, cio@e con ricchezze e con doni, e si sforza con 
+mille altre involture ricoprirsi e difendersi, acci@o che la tempesta 
+non entri per qualche fesso nella sua nave, e lo facci mal capitare e 
+nello avere e nella persona. Ben dice ancora, che altro ribatte da la 
+prora, e altro da la poppa; perch@e alcuno @e che si provede innanzi al 
+bisogno, e alcuno che lo fa poi, riparandosi e riarmandosi ^per fas et 
+nefas~, ed entrando alcuno per la vera porta, e alcuno altro per lo 
+sportello del soccorso. Fa remi uno altro, perch@e ei vuol navicare in 
+proda per pi@u sicurt@a, non si arrischiando a pelaghi cupi; perch@e o 
+non si cura o non pu@o nel Consiglio segreto. Uno altro tesse le funi, 
+cio@e ordina i lacciuoli e le frodi, co' quali inganni e' prenda la 
+gente, significando la corda la frode, come di sopra fu visto nel 
+chiamare Gerione. Altri fanno diverse vele, perch@e volendo qualcuno 
+allargarsi in Corte, distende la vela bene, cio@e opra e dispone lo 
+ingegno a pigliare vento assai, ch'@e il favore o del proprio Signore o 
+de' popoli. Altri, che del poco si contenta, procaccia la vela piccola; 
+e uno altro vuole aiutarsi con tutte quante. Fannosi ancora molte altre 
+cose nello Arsenale, che il Poeta se le tace per brevit@a.> Sino a qui 
+espone Benvenuto di questa comparazione dell'Arsan@a de' Viniziani, e 
+di quegli che vi lavoron dentro, per darci ad intendere che cosa sia la 
+baratteria della iustizia, e le Corti nelle quali ella abita e si 
+ritruova principalmente. E sino a qui sar@a ancor similmente la lezion 
+nostra d'oggi.
+
+	|19-24.~  [LEZIONE NONA]
+
+   ^Io vedea lei, ma non vedeva in essa~
+   ^Ma che le bolle, che il bollor levava,~
+   ^E gonfiar tutta, e riseder compressa.~
+
+   ^Mentre l@a gi@u fissamente mirava,~
+   ^Lo Duca mio.....~
+
+e quel che segue.  Tutte le virt@u morali arrecono universalmente 
+qualche perfezione a l'uomo, e massime come animal civile, cio@e atto 
+nato e inclinato a vivere in compagnia degli altri. E questo avviene, 
+perch@e ciascuna delle sopradette virt@u morali raffrena e ritiene 
+qualcuno di quegli affetti e di quelle passioni, che nascono in lui o 
+per natura o per elezione, in quella mediocrit@a, nella quale mentre 
+egli sta, egli @e chiamato abito virtuoso, e subito che ei ne esce, o 
+verso il poco o verso il troppo, si chiama vizioso. Perci@o ch'egli 
+avviene propiamente a l'uomo quel che avviene a lo elemento della 
+terra; e questo fu forse una di quelle cagioni, per la quale gli 
+antichi lo chiamaron ^mondo piccolo~. La terra, come voi sapete, @e di 
+natura di produrre; nientedimanco, se ella non @e coltivata e seminata, 
+o gli arbori ch'ella produce per s@e stessa non son potati e custoditi, 
+ella produce e genera per lo pi@u frutti salvatichi e nocivi. Cos@i 
+essendo ancora similmente l'uomo capace di disciplina per natura, e 
+generativo di affetti e di passioni, le quali producono poi frutti di 
+varie operazioni; se ei non son seminati in lui concetti e cognizioni 
+virtuose e salutifere, o non son corretti e guidati dalla prudenza gli 
+affetti che nascono naturalmente in lui, ei producono bene spesso 
+frutti di operazioni perniziosi e nocivi e a lui e agli altri. Laonde 
+trapassa di uomo in fiera; per ci@o che dove l'uomo @e nato, come 
+diceva Platone, per giovare ed aiutare a l'altro uomo, e per tal 
+cagione @e stato fatto da la natura, come io dissi di sopra, animale 
+sociabile, e che ama di vivere insieme con quei della sua specie; 
+questo, nocendo loro, desidera solamente la conversazione loro per i 
+comodi suoi propii; onde diventa tanto insopportabile, ch'egli @e 
+fuggito e odiato da ciascuno. Ma che dico io ch'ei trapassa in natura 
+di fiera? ch@e diventa tanto peggio di ciascuno altro animale salvatico 
+e crudo, quanto @e uno, quando egli @e buono, migliore di qualsivoglia 
+animale utile e dimestico che si ritruovi nel mondo. Per ci@o che ei 
+pu@o molto pi@u nuocere, e ha molti pi@u modi da offendere gli altri 
+uomini, uno uomo reo, per cagione della prudenza ch'egli ha, che non 
+pu@o nessuno altro animale, e sia qualsivoglia, o per mezzo di veleno, 
+o di forza, o d'inganni, o di qualsivoglia altro mezzo. Laonde disse 
+Aristotile nel principio della sua ^Poetica~, ch'ei non si pu@o 
+ritrovare arme che possin nuocere e offender pi@u che quelle che sono 
+amministrate e governate dalla prudenza; e il Poeta nostro poco di 
+sotto:
+
+   ^Che dove l'argomento della mente~
+   ^S'aggiugne al mal volere ed a la possa,~
+   ^Nessun riparo vi pu@o far la gente.~
+
+Di questi desiderii, i quali sono, come io ho detto, naturali a l'uomo, 
+come sono, per grazia di esempio, desiderare di sapere, di vincere e 
+simili, se ne truova infra gli altri in lui uno, che se ei non @e ben 
+ritenuto da lui col freno dentro a' termini della giustizia, conduce 
+altrui a commettere ogni impiet@a e ogni scelerit@a. E questo @e quel 
+de l'avere; laonde ben disse di lui Virgilio nella sua ^Eneide~:
+
+   ^...... Quid non mortalia pectora cogis,~
+   ^Auri sacra fames?...~
+
+E il Poeta lo dimostra tacitamente per tutto questo suo Inferno; per 
+ci@o che, che altro che l'appetito disordinato de l'avere ei conduce 
+gli avari a non si quietar mai, ma a pensare e cercar sempre di 
+ragunare danari? Che altro induce i violenti contro al prossimo a le 
+rapine e a le superchierie, i simoniaci a profanar le cose sacre? che 
+altro gli alchimisti a adulterare i metalli e a falsar le monete? E di 
+questo vizio del barattare e storcere la iustizia @e ancor similmente 
+padre lo sfrenato e ingiusto appetito de l'avere, inducendo gli uomini, 
+e particularmente quei che stanno per le Corti, a negoziare faccende 
+attenenti a quelle, a far baratteria della iustizia, cio@e a far 
+vendita e compera, e come usiamo dire volgarmente noi, a ^far bottega~ 
+di quelle cose che si debbono fare per offizio nostro propio, senza 
+prezzo o disegno alcuno di cavarne o danari o altra cosa equivalente a 
+quegli (queste son tutte quelle cose, che dispone e vuole la iustizia, 
+non essendo altro l'offizio suo che dare a ciascuno quel che gli si 
+conviene ed @e suo), e di pi@u a comperare gli uffizii publici 
+amministrativi di iustizia, e i favori da' Signori e da' Governatori 
+delle citt@a, solo per guadagnarne danari. E nel tempo del Poeta eran 
+molto piene le Corti di cotali uomini; i quali non solamente truffano e 
+ingannono quegli che ricorrono a esse Corti per cagione di lite e 
+d'altre cose, acci@o che elle sien difese da' procuratori, disputate 
+dagli avvocati e decise dai giudici; ma ingannono, corrotti per via di 
+premii, i giudici, gli avvocati, i proccuratori, e quando ei possono, 
+insin a lor stessi, con tanti varii e diversi modi, ch'egli @e 
+impossibile difendersi da le baratterie e giunterie loro. E questa 
+confusione, che regna per cagion loro in esse Corti, ha voluto 
+significare il Poeta con la comparazione della variet@a degli offizii 
+che si veggon fare nell'Arsan@a de' Viniziani, secondo quella 
+esposizione di Benvenuto da Imola, che noi vi mostrammo nella lezione 
+passata (ch@e per tal cagione vi furon recitate da noi le parole sue 
+propie), e col fingere che questi Demonii, che son deputati, come ei 
+disse di sopra, da quella divina arte che fa ancor bollire senza fuoco 
+questa pegola, a tormentar questi barattieri (ripignendo sotto quella 
+con uncini e con graffi, che gli trafiggono crudelmente, chiunche di 
+loro cava punto fuora o la testa o qualsivoglia altro membro), 
+ingannino ancora, e si faccino fra loro le baratterie e gl'inganni che 
+voi sentirete di sotto; seguitando e mostrando, come noi usiamo dire 
+per proverbio vulgarmente, che l'un diavolo comunemente gastiga 
+l'altro. Nella descrizione della qual cosa, finta favolosamente per tal 
+cagione da lui, ei consuma il restante di questo capitolo, e tutto 
+questo altro.
+
+	In questa materia @e paruto ad alcuni che il Poeta abbia fatte due 
+cose, che paiono che sieno alquanto indegne di quella grandezza e di 
+quella dottrina ch'egli ha fino a qui usata. La prima si @e, ch'ei par 
+loro ch'ei ci abbia perduto troppo tempo, e abbia parlatone troppo a 
+lungo; e la seconda, ch'ei si sia troppo abbassato. Nientedimanco chi 
+considerer@a bene quanto siano nocivi e dannosi questi barattieri e 
+corrompitori della iustizia al mantenimento della conversazione umana e 
+della vita civile, e quanto il Poeta abbia fatto bene a descrivere 
+sotto il velame di questa favola (acci@o che i lettori la mandin pi@u 
+facilmente a la memoria, e di poi la ritenghino per maggior lunghezza 
+di tempo) la lor natura, non dir@a cos@i. N@e manco dir@a ancor la 
+seconda, chi considerer@a che in un poema simile a questo occorre 
+trattar di materie alte, di mediocri, di basse e d'infime. Laonde se 
+elle non possono apparir tutte, per la diversit@a della lor natura, in 
+un grado di bellezza supremo, elle non fanno ancor lor brutto uno 
+poema, quando elle son dette con quei modi che si ricercano al decoro 
+loro: perch@e fanno quello uffizio che fanno le consonanze imperfette 
+nella musica, e le vivande manco delicate ne' conviti; ch@e quelle 
+fanno parer dipoi gi@u grate le consonanze perfette agli orecchi, e 
+queste migliori dipoi i cibi pi@u preziosi al gusto; essendo forse 
+tanto grata la bellezza che nasce da la variet@a delle cose, poste con 
+qualche ordine apresso l'una dell'altra, quanto si sia quella che nasce 
+da la bellezza stessa di esse cose. E per questo credo io, oltre a lo 
+esser necessitato il Poeta da la sorte del poema che ricerca trattar 
+varie cose, ch'egli si sia, quando innalzato, siccome ei fece ne' due 
+capitoli passati, e quando abbassato, com' ei fa in questi due di ora. 
+E tanto basti aver detto in defensione sua circa a questo.
+
+	Torniamo ora a la esposizione del testo, ove descrivendo il Poeta il 
+bollire della pece di questa quinta bolgia, dice con grande arte che 
+non vedeva in lei ^ma che le bolle~, cio@e se non le bolle (modo di 
+parlare che si usava in quei tempi, e si usa ancora oggi in Lombardia), 
+^che il bollor levava~, cio@e innalzava, ^e gonfiare tutta e risedere~, 
+cio@e abbassarsi, ^compressa~, e ristringendosi insieme medesimamente 
+tutta. Ove egli esprime maravigliosissimamente e descrive il modo del 
+bollire delle cose grosse e viscose, come @e la pece; che, non 
+permettendo la grossezza e la viscosit@a loro che l'umido scacciato dal 
+caldo possa esalare liberamente per quelle, come egli fa nell'acqua e 
+per tutte le cose umide che non tenghino del viscoso, rigonfiano e 
+sollievansi tutte insieme, sino a tanto che spezzandosi quelle in 
+qualche parte pi@u debole per rispetto dell'impeto del vapore, e 
+dandogli esito, tutto il restante ch'era prima gonfiato cade insieme a 
+basso. La qual cosa mentre ch'egli stava a rimirare fissamente, forse 
+per veder se nessun di quegli che vi eran dentro si scopriva, dice che 
+Virgilio, tirandolo da 'l luogo ove egli era verso s@e, gli disse: 
+^guarda, guarda~; la qual parola, cos@i proferita nella nostra lingua, 
+@e uno avvertire uno che si abbia cura da qualche pericolo e da qualche 
+cosa, che, non si guardando egli, gli potrebbe nuocere e offenderlo.
+
+	|25-36.~ 
+
+   ^Allor mi volsi, come l'uom che tarda~
+   ^Di veder quel che gli convien fuggire,~
+   ^E cui paura subito sgagliarda,~
+
+   ^Che per veder non indugia il partire.~
+
+Egli non @e uomo alcuno, che per lo amore che porta a s@e stesso 
+naturalmente ciascuno, e a la conservazione del suo essere, che quando 
+gli sopragiugne qualche pericolo a la improvvista, o gli sia 
+spaventosamente detto che si cansi, che non perda di subito quasi 
+l'animo e le forze, e non si dia a fuggire senza guardar pi@u oltre, 
+come mostra qui il Poeta che avvenne a lui, sentendosi tirare da 
+Virgilio e dire: ^guarda, guarda~. Onde dice che si volse come uomo 
+^che tarda~, cio@e indugia, a vedere quel che gli conviene fuggire. ^E 
+cui~; questo ^cui~ @e posto qui da 'l Poeta figuratamente per ^il 
+quale~ in caso accusativo; e il suo nominativo @e ^subita paura~, e il 
+verbo @e ^sgagliarda~, cio@e spoglia e togliegli la gagliardia sua. La 
+qual cosa avviene, perch@e ricorrendo i sangui, come si @e altra volta 
+detto, nelle paure al cuore, l'altre membra rimanendo prive di sangue 
+perdono il loro vigore, e sono assalite da un certo che di debolezza. 
+Questo accidente mostra il Poeta nel testo che nascessi, perch@e in 
+quel punto, che fu la mattina del sabato santo dell'anno 1300, mor@i in 
+Lucca di morte subitana un Martino Bottaio, allora uno degli ^Anziani~ 
+di Lucca; ch@e cos@i chiamavano allora i Lucchesi i loro Priori. Ed 
+essendo persona molto infame del peccato che si punisce in questa 
+bolgia, il Poeta finge ch'ei fusse portato in quello stante laggi@u in 
+quella pegola da uno diavolo nero, molto fiero negli atti e nello 
+aspetto, co' ^pi@e leggeri~ e con ^l'ale aperte~; il quale lo aveva 
+sopra gli omeri, e lo portava tenendo i piedi suoi ^ghermiti~, cio@e 
+feriti con le sue unghie; per ci@o che ^ghermire~ chiamiamo noi 
+propiamente quel ferire e stringere e tenere che fanno gli uccelli 
+rapaci con le loro unghie la preda. Le quali qualit@a di questo diavolo 
+mostra Benvenuto da Imola che si ritruovon tutte ne' barattieri; e ci 
+danno notizia de' loro costumi e de' loro inganni, dicendo che il color 
+nero significa il modo segreto, col quale ei procedono in cotal vizio; 
+le ali aperte, lo esser sempre disposti e facili a fare ogni cosa, 
+ancorch@e enorme, per danari; le mani e i piedi unghiati, la loro 
+rapacit@a, e va' discorrendo.
+
+	|29-42.~  Questa bolgia avendo descritta il Poeta, e volendo seguitare 
+quel che, da poi ch'egli arriv@o a lei, gli avvenne, dice che mentre 
+chi egli si era fermo in sul colmo del ponte, e aveva occupato l'animo 
+in ragguardarla, ch'e' giunse appresso uno diavolo, il quale aveva 
+adosso un peccatore, avendolo preso per i piedi, e messosegli in su le 
+spalle, e distesosi il resto del corpo col capo a lo ingi@u in su le 
+stiene; e gittollo da 'l detto ponte in essa pece, dicendo:
+
+   ^Ecco un degli anzian di santa Zita;~
+   ^Mettetel sotto, ch'io torno per anche~
+
+   ^A quella terra, che ne @e ben fornita.~
+   ^Ogni un vi @e barattier, fuorch@e Bonturo;~
+   ^Del no per i danar vi si fa ita.~
+
+	Di due sorti dice Benvenuto da Imola ch'erono questi barattieri, de' 
+quali tratta il Poeta; barattieri del privato e delle persone 
+particulari, e barattieri del publico e delle comunit@a. De' barattieri 
+del privato tratta il Poeta in questo ventiduesimo capitolo, che noi 
+abbiamo a esporre; e de' barattieri delle comunit@a fu trattato da lui 
+nel passato. E per@o narr@o questo caso, che mentre ch'egli era nello 
+Inferno, che fu il sabato santo de l'anno 1300, venne quel diavolo, e 
+gitt@o quel peccatore in presenza sua nella pegola; per ci@o che questo 
+fu, dicono gli espositori, uno Martino Bottai, il quale mor@i detto 
+anno il sabato santo di morte subitana in Lucca, essendo degli 
+^Anziani~; ch@e cos@i usavano chiamare i Signori, e l'usono ancor 
+qualche volta oggi. E in quello instante ch'ei mor@i, finge il Poeta 
+che la sua anima fusse portata da quel diavolo a lo inferno. E 
+gittatolo in quella pece bollente, dice che detto diavolo disse, che 
+voleva tornare a Lucca per degli altri; per ci@o che in quella terra 
+era barattiere ognuno fuori che Bonturo, il quale era il peggiore e il 
+pi@u famoso di tutti; tassando di cotal peccato quella citt@a, chiamata 
+da lui ^di Santa Zita~ per cagione d'una Santa ch'eglino hanno, 
+lucchese, chiamata cos@i. Perch@e ella era governata in quei tempi da 
+un certo numero di cittadini, sotto nome di ottimati, che facevano 
+tutti a gara a chi pi@u poteva rubare quella comunit@a; e Bonturo Dati, 
+perch'ei poteva pi@u degli altri, faceva peggio di tutti, e per@o il 
+Poeta dice ironicamente di lui, che solamente egli non era in Lucca 
+barattiere.
+
+	|37-42.~  E quando ei giunse in sul ponte ove erano i nostri poeti, 
+dice ch'ei disse di quivi a quei demonii ch'erono gi@u in su le sponde 
+della bolgia, chiamandogli tutti ^Malebranche~, per aver tutti le ugne 
+curvate da rapire e tenere:
+
+   ^Ecco un degli anzian di santa Zita;~
+   ^Mettetel drento, ch'io torno per anche~
+   ^A quella terra, che ne @e ben fornita.~
+
+   ^Ciascun vi @e barattier, fuor che Bonturo;~
+   ^Del no per i denar vi si fa ita;~
+
+denominando Lucca da una donna, chiamata Zita; la quale fu di molti 
+santi costumi, e fece molti miracoli in vita e in morte, e il corpo suo 
+@e tenuto da loro nella chiesa di S. Frediano con grandissima 
+venerazione; onde fu propio il dir cos@i d'uno lucchese, come sarebbe a 
+dire di uno fiorentino: ecco uno di quei di S. Zanobi. Al che 
+soggiugnendo: ^io torno per anche a quella terra, che n'@e fornita 
+bene~, cio@e ne @e copiosa, per ci@o che ei vi son tutti barattieri, 
+^fuori che Bonturo~. Ove Benvenuto da Imola dice ch'ei non intende 
+dello universale, ma solamente di quegli che governavano in quei tempi 
+le cose del Comune; i quali ei dice che barattavano, e imbolavano tutti 
+quello, come si dice vulgarmente, ^a bracciate~. ^Fuori che Bonturo~. 
+Questo Bonturo, secondo che testifica Francesco da Buti, fu un 
+cittadino lucchese, della famiglia de' Dati, il quale governava e 
+guidava in quei tempi, come ei voleva, tutto il Comune di Lucca, dando 
+gli uffizii, e privandone chi pareva e piaceva a lui: onde dice di lui 
+lo Imolese, che se gli altri che travagliavano le cose del Comune erano 
+barattieri, egli era arcibarattiere. E fu di tanta riputazione in 
+Lucca, che Papa Bonifazio, andando detto Bonturo a Roma a lui, 
+trovandosi indi seco, e pigliandolo e tirandolo, disse: Io muovo mezza 
+Lucca. Laonde dicendo con questa figura (chiamata da 'l Giambullari 
+^diminuizione~, perch@e dice assai meno di quello ch'ei vuole che 
+s'intenda) che in Lucca era barattiere ognuno, fuori che Bonturo ch'era 
+il principale, vuole significare che tutti vi erano barattieri. E lo 
+dimostra dipoi pi@u largamente, dicendo ch'ei vi si faceva per danari, 
+[del] ^no~, ^ita~, cio@e s@i; onde poteva ben dire che le cose andasser 
+male secondo Cicerone, dicendo egli nel secondo libro degli ^Offizii~ 
+queste parole: ^male se res habet, cura id quod virtute effici debet, 
+pecunia attentatur~.
+
+	|43-57.~ 
+
+   ^Laggi@u il butt@o, e per lo scoglio duro~
+   ^Si volse, e non fu mai mastin s@i sciolto~
+   ^Con tanta fretta a seguitar lo furo.~
+
+   ^Quei si tuff@o, e torn@o su col volto;~
+   ^Ma i demon, che del ponte avean coperchio,~
+   ^Gridar: qui non ha luogo il santo volto;~
+
+   ^Qui si nuota altrimenti che nel Serchio;~
+   ^Per@o, se tu non vuoi de' nostri graffi,~
+   ^Non far sovra la pegola soverchio.~
+
+   ^Poi l'addentar con pi@u di cento raffi;~
+   ^Disser: coverto convien che tu balli~
+   ^S@i che, se puoi, nascosamente accaffi.~
+
+   ^Non altrimenti i cuochi i lor vassalli~
+   ^Fanno atuffare in mezzo la caldaia~
+   ^La carne con gli oncin perch@e non galli.~
+
+Seguita il Poeta di raccontare, come quel demonio butt@o e gitt@o 
+Bonturo di su 'l ponte in quella pece, e dipoi si rivolse indietro, e 
+cominci@o a correre, di maniera ch'ei non fu mai ^mastino~ alcuno ^s@i 
+sciolto~ e spedito, che seguitassi con tanta fretta il ladro. ^Mastini~ 
+sono certi cani grandi, che tengono i pecorai nelle Maremme per guardia 
+delle pecore, o alcuni contadini per guardia del podere; il costume de' 
+quali @e non lasciare accostare persona al branco delle pecore o a la 
+casa, ma seguitare e mordere ciascuno, dai padroni e quei ch'ei conosce 
+infuori. E per@o il Poeta, faccendo menzione di cani mastini, dice: a 
+seguitare ^il ladro~, come egli arebbe detto ^la lepre~, se egli avessi 
+nominati veltri. Ritrovandosi adunque questo Martino Bottaio, stato da 
+quel diavolo cos@i gittato, in quella pece bollente, ritorn@o 
+subitamente, come fa chi cade nell'acqua, col volto a galla; ma quei 
+demonii ^che avevan coperchio del ponte~, cio@e eran coperti da 'l 
+ponte, gridarono: ^qui non ha luogo il santo volto~. Tutti gli 
+espositori, che io ho veduti, intendono in questo luogo per il ^santo 
+volto~ quella immagine del volto di Cristo, ch'@e in Lucca nella chiesa 
+di S. Martino; referendosi a Benvenuto da Imola, il quale scrive aver 
+trovato che detto volto santo fu uno ritratto della faccia di Cristo al 
+naturale, fatto fare, poi ch'ei fu morto, da Niccodemo, e lasciato di 
+poi da lui a la sua morte a uno chiamato Isaccar in Ierusalem, per 
+ordine dei quali ei pervenne nelle mani a uno, chiamato Salenzio, uomo 
+cristianissimo. Al tempo del quale andando a visitare il Santo Sepolcro 
+uno santissimo vescovo, chiamato Gualfredo, gli apparse lo angelo, e 
+rivel@ogli come questo Salenzio aveva questo volto santo. And@o adunque 
+Gualfredo a trovarlo, e us@o tanti mezzi, che egli gnene cav@o delle 
+mani. E deliberando di portarlo in luogo, ove ei non si avessi a tenere 
+nascosamente, come si faceva quivi per cagione de' Giudei e 
+degl'infedeli, lo condusse al lito della citt@a di Ioppe. E quivi 
+trovando per dispensazione divina una nave fornita, ma senza padrone, 
+ve lo pose dentro; il che fatto, si part@i detta nave, e senza aiuto di 
+vele e di remi cammin@o tanto, ch'ella arriv@o nel porto di Luni presso 
+a Lucca. Sopra della quale veggendola giugner quivi, cos@i senza esser 
+padroneggiata da persona, alcuni paesani, non potetter mai accostarsi, 
+per diligenza o opera che facessero, a lei. Laonde pervenendo tali cose 
+agli orecchi del Vescovo ch'era allora di Lucca, il quale si chiamava 
+Giovanni, e giudicandola cosa miracolosa, vi and@o insieme col clero 
+pricissionalmente; e salito sopra la detta nave, e trovatovi questo 
+volto santo, lo presero con gran divozione in Lucca, e lo collocorono 
+con grandissimo onore nella chiesa di S. Martino; ove dicono 
+publicamente i Lucchesi, ch'egli ha dimostro dipoi tempo per tempo 
+moltissimi miracoli, onde gli sono offerti giornalmente molti e molti 
+voti. Vogliono adunque inferire questi espositori, che il dire quei 
+demonii a questo Martino Bottaio, subito ch'ei giunse in quella pece: 
+^qui non ha luogo il santo volto~, [altro non significa] se non che i 
+preghi e le raccomandazioni, fatte al santo volto, non posson giovare 
+quivi pi@u loro. E questa @e la esposizione che corre comunemente sopra 
+questo luogo. Contro la quale si potrebbe dire, e dottamente, ch'ella 
+fusse fuori di proposito; con ci@o sia cosa che ei non caschi in chi @e 
+dannato nello Inferno, mediante la ostinazione, e non possa mai cadere 
+questo concetto di pregare e raccomandarsi a Dio; perch@e nello Inferno 
+non @e redenzione, e quegli che vi sono, secondo ch'@e scritto nelle 
+sacre lettere, non lodono Dio. E se bene egli @e scritto in uno altro 
+luogo, che al nome di Ges@u si piegono le ginocchia di quei che sono in 
+cielo, di quei che sono in terra, e di quei che sono nello inferno, le 
+ginocchia degli infernali son piegate dalla sua potenza, quelle de' 
+terresti si piegono per acquistare la sua grazia, e quelle de' celesti 
+per rendergli l'onore che si conviene. E per queste cagioni io direi 
+pi@u tosto, che il dirgli questi demonii: ^qui non ha luogo il santo 
+volto~, fusse uno avergli voluto dire: qui non possono i danari quel 
+ch'ei vogliono, come in Lucca; per ci@o che i Lucchesi si battono le 
+lor monete, e particularmente i ducati d'oro, con la immagine del 
+sopradetto volto santo. E tanto pi@u, soggiugnendo eglino di subito: 
+^qui si nuota altrimenti che nel Serchio~, fiume che passa presso a 
+Lucca. E bene ^altrimenti che nel Serchio~, per ci@o che in quello si 
+nuota nell'acqua chiara e fresca, e qui nella pece nera e bollente; 
+quivi si nuota a sollazzo, e qui a supplicio; quivi si nuota 
+volontariamente e a tempo, e qui per forza e in perpetuo. E finalmente 
+ei racconta, che da poi che questi demonii gli ebber mostro ch'ei non 
+era pi@u, essendo nello Inferno, in stato di grazia, come egli era in 
+Lucca, dove ei poteva far quel ch'ei voleva, eglino gnene dimostrarono 
+co' fatti. Per ci@o che ei lo ripinsero, dice il testo, ^con pi@u di 
+mille graffi~, che lo ^addentarono~, cio@e lo morsero e punsero tutti, 
+sotto quella pece ardente, in quella maniera che fanno i cuochi e i 
+cucinieri attuffare ^ai loro vassalli~ la carne nella caldaia, perch@e 
+ella non ^galli~, cio@e venga a galla, ove stando scoperta ella 
+pigliassi cattivo sapore.
+
+	|58-78.~  Seguita dipoi:
+
+   ^Lo buon maestro: acci@o che ei non si paia~
+   ^Che tu ci sii, mi disse, gi@u ti acquatta~
+   ^Dopo una scheggia che alcun schermo t'aia;~
+
+   ^E per nulla offension, che a me sia fatta,~
+   ^Non temer tu.~
+
+Ne' quali versi, insino pi@u gi@u a ove ei dice: ^Credi tu, Malacoda, 
+qui vedermi,~ il Poeta racconta come Virgilio volendo passare pi@u 
+oltre, fece nasconder Dante dietro a un poco di scoglio, che gli fussi 
+^schermo~, cio@e riparo, ch'ei non fussi veduto da i demonii; e che se 
+per sorte ei lo vedessi essere offeso in modo alcuno da loro, che non 
+temessi di cosa alcuna, ch@e aveva tali cose tutte ^conte~, cio@e gli 
+erono tutte note; perch@e era stato altra volta ^a tal baratta~, cio@e 
+contrasto e baratteria; e questo fu, come ei disse di sopra, quando 
+egli scese, scongiurato da Eriton cruda, insino nella Giudecca. E detto 
+questo, ei pass@o di l@a da 'l capo del quinto ponte in su la ripa del 
+sesto; ove arrivato, dice ch'egli fu mestieri di avere ^sicura fronte~, 
+cio@e animo; per ci@o che per il volto si manifestano per lo pi@u i 
+concetti de l'animo e i secreti del cuore, onde disse il nostro Poeta 
+nel Purgatorio a Lia:
+
+   ^O bella donna, ch'a' raggi d'amore~
+   ^Ti scaldi, s'io vo' credere a' sembianti,~
+   ^Che soglion esser testimon del cuore.~
+
+Per ci@o che tutti quei diavoli, ch'erono sotto il ponte, usciron 
+fuori, e corsongli voltando verso di lui i loro ^roncigli~ e uncini, 
+con maggior furia che non corrono i cani incontro a' poveri, quando ei 
+si fermono a chiedere la limosina. Ma Virgilio grid@o, dicendo: Nessuno 
+di voi sia ^fello~, cio@e reo e maligno verso di me; ma mandate, prima 
+che voi mi pigliate con vostri uncini, uno di voi che mi oda, e poi vi 
+consigliate, e deliberate quel che voi volete far di me. Al che dice 
+ch'ei gridaron tutti: Vadivi Malacoda; per il che se ne mosse uno, e 
+venne a lui dicendo: ^che ti approda?~ cio@e, che pro @e per farti 
+questo? quasi mostrandogli che ei si affaticava in vano; o veramente 
+dicendo a' compagni, secondo un altro testo: ^che gli approda?~ E 
+questo @e il senso litterale di questa parte del testo: e le parole son 
+chiarissime. Questo luogo esponendo Benvenuto da Imola, dice che tutto 
+questo che finge qui il Poeta che facessi Virgilio, avendo per 
+seguitare il suo cammino a passar fra questi demonii, acci@o ch'ei non 
+l'offendessero, @e fatto da lui per ammaestrarne del modo che dobbiamo 
+tenere ancor noi, quando noi siamo pur necessitati di valerci della 
+opera di questi barattieri e strupatori della giustizia, o a lo avergli 
+per qualsivoglia cagione in qualche modo a conversargli, a volere ch'ei 
+non ci nuochino. Onde dobbiamo, la prima cosa, nasconder Dante dietro a 
+uno sasso, cio@e fare un proposito ostinatissimo di non palesar loro 
+gli affetti, ed a punto a punto la voglia nostra, ma stare cauti, e 
+mandare a parlare loro Virgilio, cio@e pensar molto bene ogni minima 
+parola inanzi che noi la diciamo, tanto che noi ci assicuriamo, 
+scoprendo paese, se non al tutto, almanco in qualche parte, dell'animo 
+e del pensiero loro; considerando che egli @e prudenza, non malizia, 
+avere, come si dice vulgarmente, una cosa in bocca e un'altra in petto, 
+e
+
+   ^Che chiunche si diletta di far froda~
+   ^Non si dee lamentar, s'altri lo inganna,~
+
+come disse il nostro Petrarca. E per far questo si debbe usar parole 
+amorevoli e dolci, come voi vedete che fece Virgilio, che rimedi@o con 
+quelle primieramente a la furia di quei demonii, che avevan volti tutti 
+verso di lui gli uncini; e dipoi ottenne da loro che la causa sua fussi 
+udita.
+
+	|67-72.~  Dopo questo racconta il Poeta che molti di quei demonii, 
+com'ei videro Virgilio e lui, voltarono verso di loro quegli uncini e 
+quei graffi, e cominciarono a venire verso di loro con uno aspetto 
+atrocissimo e crudelissimo; volendo dimostrarne, sotto cotal finzione, 
+che i concetti e i modi, i quali i barattieri usono per fare o con 
+forza o per fraude, appariscono (a chi gli considera camminando con le 
+pedate della ragione, in quel modo che camminava il Poeta nostro dietro 
+a le pedate di Virgilio) tanto empi e tanto fieri, ch'ei fugge non che 
+altro il cogitargli; non essendo possibile che in uno uomo come uomo 
+(ch@e tanto vuol dire camminare dietro a le pedate e ai vestigi della 
+ragione) caggino, o almanco abbiano e truovino luogo, simili concetti. 
+Con ci@o sia cosa che l'uomo come uomo cognosca ch'egli gli @e uopo 
+vivere insieme con gli altri uomini, e questo vizio distrugga e guasti 
+la societ@a e la civilit@a, come mostra Aristotile per tutta la sua 
+^Politica~; e l'uomo come uomo sia nato, come dice Platone, per aiutar 
+l'altro uomo, e questo vizio fa ch'egli lo disaiuta e nuocegli.
+
+	|73-87.~  Seguita dopo questo la favola e la finzione sua il Poeta; e 
+dice che Virgilio, veduto questo, and@o verso di loro animosamente, e 
+domand@ogli che mandassero uno di loro a lui per parlar seco. Ed 
+essendo mandato da loro uno chiamato Malacoda, Virgilio incominci@o a 
+parlargli, e a mostrargli ch'ei non doveva credere n@e pensare in modo 
+alcuno ch'ei fusse venuto insino quivi, sicuro da tutti i pericoli 
+infernali, senza la disposizione divina, la quale aveva ordinato ch'ei 
+guidassi Dante per cotal cammino. Per la qual cosa dice che subitamente 
+cadde a Malacoda e a tutti quegli altri demonii l'orgoglio e l'ira 
+ch'ei mostravano; e che Malacoda, in cambio di offendergli, insegn@o 
+loro la via e il cammino ch'ei dovevano tenere, s'ei volevano passare 
+pi@u oltre, ancora ch'ei s'ingegnassi, ancor nello insegnar loro tal 
+cosa, d'ingannargli. Ove il Poeta vuol dimostrare, che usando l'uomo la 
+ragione, e camminando secondo il suo lume, come Virgilio, cava utile e 
+ammaestramento insino da 'l male. Per ci@o che a l'uomo buono (ch@e 
+cos@i si pu@o meritamente chiamare chi vive secondo la ragione) avviene 
+come a l'uomo sano; per ci@o che come l'uomo sano co 'l valore della 
+sanit@a sua [converte] in buon nutrimento e in buoni umori insino a le 
+cose ree (onde @e nato quel proverbio fra' medici, ^omnia sana sanis~; 
+e Cornelio Celso disse nel principio de' suoi libri: ^homo sanus et sui 
+compos nullis legibus se obligari debet~), l'uomo buono converte e cava 
+ancora egli bene insino del male.
+
+	|79-90.~  Al quale offizio essendo da loro deputato un di loro, 
+chiamato Malacoda, accostatosegli pi@u da presso, dice il testo:
+
+   ^Credi tu, Malacoda, qui vedermi~
+   ^Esser venuto, disse il mio Maestro,~
+   ^Sicuro gi@a da tutti i vostri schermi,~
+
+   ^Senza voler divino o fato destro?~
+   ^Lasciami andar, ch@e nel cielo @e voluto~
+   ^Ch'io mostri altrui questo cammin silvestro.~
+
+   ^Allor gli fu l'orgoglio s@i caduto,~
+   ^Ch'ei si lasci@o cader l'uncino a' piedi,~
+   ^E disse agli altri: omai non sia feruto.~
+
+   ^E il Duca mio a me: o tu, che siedi~
+   ^Fra gli scheggion del ponte quatto quatto,~
+   ^Sicuramente a me omai ten riedi.~
+
+Bello e utile ammaestramento seguita di dare il Poeta, come cristiano, 
+ai cristiani. Per intendimento del quale voi avete avvertire, che se 
+bene Dio vuole per bont@a sua propia, secondo ch'egli ci ha manifestato 
+per le sacre scritture, che tutti gli uomini sieno salvi, ei bisogna 
+che gli uomini operino ancora eglino di sorte da 'l canto loro, che 
+tale effetto segua. Debbe adunque l'uomo, se bene ei sa che Dio lo ha 
+creato per salvarlo (ricordandosi che quel servo, che sotterr@o quel 
+talento datogli da 'l suo Signore, e non guadagn@o con quello cosa 
+alcuna, fu reputato servo inutile), cercare di operare di sorte con la 
+libert@a dello arbitrio che Dio gli ha dato, ch'ei non avvenga cosa a 
+lui [contraria], come mostra qui il Poeta che facessi Virgilio; il 
+quale, ancor ch'egli avessi saputo da Beatrice ch'ei guiderebbe Dante 
+per lo Inferno, e condurrebbelo insino a lei, quando ei vide che questi 
+demonii gli volsero impedire il cammino, non rest@o, confidato per@o 
+prima nella potenza di Dio, di operare da 'l canto suo tutti quei mezzi 
+ch'ei seppe, ch'ei lo lasciassero andare al suo cammino. Onde rispose a 
+Malacoda (tornando al testo): Credi tu per@o, che se bene io ho usata 
+tutta la mia prudenza e il mio valore nel camminare per questo Inferno, 
+che io fussi scampato da tanti pericoli, pe' quali io sono passato, e 
+particularmente da quei demonii che stanno a la guardia della porta 
+della citt@a di Dite, se Dio non avessi voluto, e se egli non avessi 
+ordinato e disposto cos@i? Ch@e questo vuol dire ^fato destro~, cio@e 
+prospero; per ci@o che questa voce ^fato~ non significa altro, appresso 
+i cristiani, che uno ordine secondo il quale la divina providenza ha 
+disposto che procedino le cose. Laonde permettendo egli che il 
+confidarsi in lui nelle tentazioni diminuisca le forze del nimico, 
+subito che Malacoda intese che Virgilio faceva quel cammino per 
+mostrarlo a Dante, per ordine di Dio che voleva cos@i, gli scem@o tanto 
+l'orgoglio e la forza, che l'uncino gli cadde di mano; ed egli, voltosi 
+a quegli altri demonii, disse ch'ei non fussi alcun di loro che lo 
+ferissi.
+
+	|91-99.~  Per la qual cosa richiamando Virgilio Dante, e dicendogli 
+che non stessi pi@u nascosto, ma che lo seguitasse, dice Dante:
+
+   ^Pel che io mi mossi, ed a lui venni ratto;~
+   ^E i diavoli si fecer tutti avanti,~
+   ^S@i ch'io temetti non tenesser patto.~
+
+   ^E cos@i vidi io gi@a temer li fanti,~
+   ^Ch'uscivan patteggiati di Caprona,~
+   ^Vedendo s@e fra nimici cotanti.~
+
+Volendo il Poeta dimostrare la paura grandissima ch'egli ebbe, da poi 
+che, essendo arrivato da Virgilio che lo aveva chiamato, quei diavoli 
+si fecero tutti innanzi, di sorte ch'ei temette che ei non volessero 
+osservare a Virgilio i patti ch'egli aveva fatti con Malacoda, la 
+assomiglia a una paura, la quale egli dice che vide gi@a avere [i 
+fanti] che uscirono, per patti, salvi di Caprona, ed ebbero andare 
+tanto legati insieme, ch'eglino uscissino di su quel de' nemici. Per 
+notizia della qual cosa @e da sapere, che ritrovandosi certi fanti 
+lucchesi assediati da le genti del Conte Guido da Montefeltro, capitano 
+allora de' Pisani, si arrenderono, per mancare loro l'acqua, a patti di 
+salvare le persone, al Conte; il quale gli fece uscire legati a una 
+fune tutti, e cos@i gli fece passare pel campo suo, acci@o che ei non 
+si spartissero l'uno da l'altro, e cos@i spartiti, fossero morti da' 
+contadini; e condurre in sino a un luogo presso a Asciano, ove egli gli 
+fece sciorre e mettere in su la via di Lucca. E tutto questo scrive 
+Francesco da Buti. Ora, perch@e ei sentivono nel passare fra' nemici 
+dire a qualcuno ^appicca, appicca~, furono molti di loro che insino a 
+ch'ei non furono sciolti, [temerono] che il patto ch'era stato fatto 
+loro non fussi osservato. A questa cosa, secondo che mostron le parole 
+del testo, essendosi ritrovato Dante, assomiglia la paura, che ebbe 
+ancora egli a passare fra quei demonii, a quella di questi fanti, 
+dicendo: cos@i vidi io gi@a temere i fanti, che usciron di Caprona 
+patteggiati, ^vedendo s@e~, cio@e quando ei si videro, in mezzo di 
+^cotanti nimici~, cio@e delle genti del conte Guido. Laonde soggiugne, 
+che si accosto il pi@u ch'ei poteva con la persona ^lungo~, cio@e 
+appresso, a Virgilio. E stando cos@i, dice che non torceva 
+nientedimanco gli occhi ^da la sembianza~ e da la presenza loro, ^non 
+buona~, ma dispettosa e nimica.
+
+   ^Ei chinavan gli graffi; e, vuoi ch'io il tocchi,~
+   ^Dicevan l'un con l'altro, in su il groppone?~
+   ^E rispondean: s@i, fa' che gliene accocchi.~
+
+   ^Ma quel Demonio, che tenea sermone~
+   ^Col Duca mio, si volse tutto presto,~
+   ^E disse: posa, posa, Scarmiglione.~
+
+	|106-114.~  [LEZIONE DECIMA]
+
+   ^Poi disse a noi: pi@u oltre andar per questo~
+   ^Scoglio non si potr@a; per@o che ei ghiace~
+   ^Tutto spezzato al fondo l'arco sesto:~
+
+   ^Ma se lo andar pi@u oltre pur vi piace,~
+   ^Andatevene su per questa grotta;~
+   ^Presso @e un altro scoglio che via face.~
+
+   ^Ier pi@u oltre cinque ore che quest'otta,~
+   ^Milledugento con sessantasei~
+   ^Anni compi@er, che qui la via fu rotta.~
+
+Se bene Dio ottimo e grandissimo tolse al primo nostro padre Adamo, 
+quando egli mediante il peccato si ribell@o da lui (infra gli altri 
+gastighi, ch'egli gli dette), e conseguentemente a noi, quel dominio 
+ch'egli gli aveva dato, quando disse a lui e a Eva sua consorte: voi 
+dominerete gli uccelli dell'aria, i pesci del mare e gli animali che si 
+muovon sopra la terra; cos@i come per sua piet@a, se bene ei lo cacci@o 
+fuori del paradiso delle delizie, non lo lev@o al tutto di sopra la 
+faccia della terra, della quale egli lo aveva formato, come ei meritava 
+(la qual cosa considerando il profeta Ieremia diceva: ^Misericordia 
+Domini, quia non sumus consumpti~), ma lo lasci@o andar vivendosi sopra 
+quella del pane procacciatosi con la fatica delle sue mani, nel sudore 
+del volto suo; cos@i ancora, se bene ei lo priv@o, come si @e detto, di 
+quello imperio assoluto ch'egli aveva sopra l'altre creature, fu 
+permesso nientedimanco da lui per sola bont@a sua che chi crederrebbe 
+nel Figliuolo suo, ch'ei manderebbe nel mondo per salvarlo, 
+racquisterebbe in gran parte questo dominio. Onde disse esso suo 
+Figliuolo, risuscitato ch'ei fu da morte, e vinto e rovesciato ch'egli 
+ebbe il principe delle tenebre, ai discepoli suoi: i segni che 
+conseguiteranno quegli che crederanno in me saranno questi, ch'ei 
+cacceranno nel nome mio i demonii, faranno fuggir via i serpenti, e se 
+ei beranno qualche cosa mortifera, ella non nocer@a loro. E di pi@u fu 
+permesso ancora da essa bont@a sua per le sacre scritture (ove si 
+legge: ^Diligentibus Dominum omnia cooperantur in bonum~), che a tutti 
+quegli che lo amerebbono succederebbono in bene e utilit@a sua tutte le 
+cose, insino a la malignit@a del demonio. Questo concetto, tanto pio e 
+tanto cristiano, volendo manifestare in questo luogo il Poeta nostro, 
+finge che [colui che] aveva fatto prima, insieme con quegli altri 
+demonii, di spaventare di maniera Dante (ch'era quello per il quale si 
+faceva questo viaggio) ch'ei non seguitassi il suo cammino; essendo 
+costume del demonio d'impedire sempre il bene; quando ei vide che Dante 
+confidava in chi aveva mandato a guidarlo per lo Inferno, cio@e in Dio, 
+non solamente non gl'impedisce il cammino, ma gl'insegna la via. Onde 
+gli dice, come voi vedete nel testo: Ei non si potr@a andare pi@u oltre 
+su per questo scoglio, e su per questo argine che vi ha condotto fin 
+qui dirittamente da bolgia a bolgia; per ci@o che l'arco sesto, cio@e 
+il ponte che passava sopra la sesta bolgia, giace tutto spezzato e 
+fracassato nel fondo di quella. E in questo dice Malacoda il vero, 
+sforzato da 'l divin fato, contro a la natura sua. Ma ei vi mescola ben 
+subito la bugia, dicendo: ma se ei vi piace pure andare pi@u innanzi, 
+andatevene su per questa grotta, e su per questo argine che divide 
+questa quinta bolgia da la sesta, perch@e ^presso @e~, cio@e qui vicino 
+si ritruova un altro scoglio e scheggione di pietra che fa via e d@a 
+passo a l'altra bolgia, facendo sopra di lei ponte. Della qual cosa 
+egli mente; per ci@o che la sesta bolgia non finge il Poeta che abbia 
+pi@u ponte, per ci@o che quello che vi era rovin@o nella morte di Iesu 
+Cristo, quando per quel gran tremare, che fece la terra, si divise il 
+velo del Tempio, e si apersero tante sepulture, e tanti corpi morti 
+riebbero la morte. E questa bugia @e detta qui da Malacoda, per vedere 
+se ei poteva impedire con inganno questo viaggio di Dante, ch'ei non 
+aveva potuto impedire con forza. N@e nomina Malacoda, nel voler dar a 
+intendere a' poeti nostri quando accadde la rovina di questo ponte, 
+Iesu Cristo; perch@e non possono i demonii chiamarlo ^Iesu~, cio@e 
+Salvatore, n@e ^Cristo~, cio@e Sacerdote, per non essere stati 
+partecipi della salute acquistata da lui col sacrifizio del suo corpo 
+santissimo, offerto sopra il legno della croce al Padre. Ma lo dice in 
+modo ch'ei ce lo fa, come si dice vulgarmente, toccar con mano, 
+dimostrandoci non solamente l'anno e il mese, ma il giorno e l'ora; per 
+ci@o che come @e cosa certissima e dichiarata e approvata a bastanza da 
+tutti gli espositori (e ultimamente dal Giambullari in quel libro ch'ei 
+fece ^Del sito e forma e misura~ di questo Inferno del Poeta), l'anno 
+ch'egli finge che avesse o ebbe questa visione, fu l'anno 
+milletrecento; e il tempo ch'egli stette nello Inferno fu la notte che 
+seguit@o il venerd@i santo, tutto il giorno del sabato seguente, e 
+dipoi la notte sino a la mattina di Pasqua di resurrezione, che fu 
+quello anno a d@i dieci d'aprile. Ritrovandosi egli adunque, come io vi 
+ho dimostro nelle lezioni passate, a levata di sole in sul cerchio 
+degl'Indovini, e andando ragionando insieme insino a' Barattieri, dove 
+era Malacoda, e avendo consumata nel camminare e nel ragionare con 
+Malacoda circa a una ora del detto sabato santo, Malacoda gli dice: 
+Ieri ^pi@u oltre~ e pi@u tardi ^cinque ore~, che non @e ora, passarono 
+e finirono ^milledugento sessantasei~ anni, che questa via ^fu rotta~, 
+cio@e ch'ei rovin@o il sesto ponte di questa bolgia. Il che dimostra, 
+mettendo cinque ore sopra quella ch'era passata, ch'era stato nella ora 
+sesta del venerd@i santo, che pat@i Cristo; perch@e aggiugnendo a 
+l'anno della incarnazione sua milledugento sessantasei, il tempo ch'ei 
+visse, che furono trenta quattro, ma non interi, fanno appunto anni 
+mille trecento.
+
+	So bene che i curiosi potrebber dire che il Poeta, se ei non sapeva 
+che il giorno che mor@i Cristo fu a' d@i otto di aprile, ch'ei non 
+doveva far dire cos@i assolutamente a Malacoda queste parole; ma 
+bastava ch'ei dicesse: nella morte di Colui da il quale voi vi fate 
+chiamare cristiani; per ci@o che la memoria della sua morte non si 
+celebra in un giorno determinato, ma quando prima e quando poi, non 
+uscendo per@o del mese di marzo o di quel d'aprile; perch@e cos@i 
+determina quella regola che ha presa e ordinata, circa a tal cosa, la 
+Chiesa. E se ei lo sapeva, ei doveva dirlo chiaramente. A questi io 
+rispondo, che essendo Dante cristiano e figliuolo obbedientissimo della 
+santa Chiesa, non volse determinare quel che per buone cagioni non 
+hanno voluto determinare mai tanti e tanti Concilii, ne' quali si son 
+ritrovati, come pu@o veder chi vuole, tanti santissimi e dottissimi 
+vescovi; tenendo per certo questa esser la volont@a di Dio, non avendo 
+egli permesso che i suoi Evangelisti, cos@i come eglino scrissero tanti 
+particulari della sua passione e della sua morte, scrivessero questo 
+del giorno nel quale ella fu. E che questa sia l'opinione di Dante, ci 
+@e dimostro da lui particularissimamente in due luoghi. Uno @e nel 
+capitolo diciannovesimo del Paradiso, ove trattando egli delle 
+quistioni, che fa spesso la curiosit@a e la presunzione umana in 
+ricercar per quel che la divina iustizia determini pi@u una cosa in 
+modo che in un altro (come @e che uno che nasca in un luogo, ove ei non 
+abbia cognizione alcuna di Cristo, e viva rettamente secondo la ragione 
+umana, e muoia senza battesimo, meriti di essere dannato), riprende 
+quegli che voglion tenerne a sindacato Dio; e mostra ch'egli @e una 
+grandissima presunzione quella di uno, che ha la veduta sua che non si 
+estende pi@u che per la lunghezza d'una spanna, a voler giudicare delle 
+cose che gli son da lunge. E nel terzo del Purgatorio quando, 
+dimostrando egli quanto fusse grande la stoltizia di quegli uomini, che 
+credon poter comprendere col discorso della ragione umana la 
+incomprensibile via, che tiene una unica sustanza divisa in tre 
+persone, dice quella tanto memoranda e famosa sentenzia: ^State 
+contenta, umana gente, al quia,~ cio@e, che le cose sieno come elle 
+sono. Ch@e cos@i significa questo ^quia~; per ci@o che egli @e il primo 
+di quei due quesiti, che come io vi dissi gi@a, Aristotile dice nel 
+primo capitolo del secondo delle ^Posteriora~, che si debbono ricercar 
+delle cose semplici, cio@e che si proferiscono con uno termine solo, 
+come sono verbigrazia, Angelo, Cielo, Centauro. Il primo de' quali 
+quesiti che si debbe ricercar di loro @e, se elle sono, e il secondo, 
+quel ch'elle sieno. S@i che la sentenzia, che vuole inferire il Poeta, 
+@e che gli uomini debbono stare contenti al veder che le cose sieno, 
+senza ricercar pi@u oltre; intendendo di quelle, circa le quali non si 
+estende il sapere umano. Veggendo adunque Malacoda, per tornare al 
+testo, ch'ei non poteva impedire con forza il viaggio al nostro Poeta, 
+si volse a la fraude, pensando di impedirgli e rivolgergli l'animo, con 
+farlo sbigottire di non potere seguitare tal viaggio. Onde gli disse, 
+come voi vedete nel testo, ch'ei non potrebbe andar pi@u oltre sopra 
+quello scoglio, per ci@o che il giorno dinanzi erono finiti 
+milledugento sessantasei anni che la via fu rotta e vi rovin@o. Ed 
+ecco, come noi dicemmo di sopra, che a chi ama Dio succedono e 
+cooperono in bene tutte le cose; ch@e dove Malacoda si pens@o di stor 
+Dante dal suo viaggio, egli gli fu mezzo e strumento ch'egli ottenessi 
+parte di quel ch'ei desiderava; che era, che lo intelletto suo fusse 
+illuminato e confirmato nelle cose della fede. Per ci@o che ei venne a 
+esser certificato de' tremuoti e de' segni che occorsono nella morte di 
+Cristo, che dimostrarono ch'egli era Dio della natura. N@e vi crediate 
+che il Poeta scriva questa favola, narrando con tanta diligenza ogni 
+minimo accidente ch'ei finge che occorressi in quella, per farla 
+verisimile, se non perch@e i lettori comprendessero sotto il suo 
+velame, che ogni cosa, come io vi ho detto, @e e si dispone a salute a 
+chi ricorre per essa a lo autore di quella, come voi avete veduto fino 
+a qui in questo suo poema ch'@e avvenuto a lui. Ch@e ritrovandosi 
+smarrito nella selva delle tante e varie opinioni, cos@i ree come 
+buone, delle cose della religione e della fede di questo mondo, chiese 
+a Dio che lo aiutassi. Lucia, grazia di Dio, si mosse e commesse a 
+Beatrice, teologia sua, di Iesu Cristo suo figliuolo, e dello Spirito 
+Santo, che lo illuminassi. Laonde ella mand@o Virgilio, che lo traessi 
+del luogo ove egli si era smarrito, e conducessilo a lei; cio@e 
+cominci@o a illuminare il discorso suo naturale, che uscissi e si 
+partissi della oscurit@a di tale opinioni, infra le quali egli aveva 
+smarrita la vera via; e conosciuti e scacciati da s@e, il pi@u ch'ei 
+poteva, i vizii e gli errori, andassi a lei e seguitassi lei, perch@e 
+ella sola pu@o condur l'uomo nella cognizione di quella verit@a, nella 
+qual consiste la felicit@a e la beatitudine nostra. E in tutto questo 
+viaggio, essendo egli fatto per ordine della bont@a e della provvidenza 
+divina, narra e racconta il Poeta, come voi potete vedere nel testo e 
+avere osservato nella esposizione nostra, che gli successero e 
+cooperorno in bene tutte le cose ch'egli incontr@o, insino ora 
+ultimamente questa malignit@a di Malacoda. Ch@e dov'ei si pens@o 
+impedire ed estorre con quella il Poeta nostro, come si @e detto di 
+sopra, da 'l fine e buon proposito suo, come @e natura sua di fare (per 
+ci@o che Malacoda significa mal fine, dice lo Imolese), egli con il 
+narrargli la rovina del sesto ponte per sbigottirlo, lo conferma nella 
+cognizione e nella memoria della passione di Cristo. Ed ecco quanto 
+dimostri artificiosa e dottamente il Poeta, sotto il velame di poesia, 
+come a chi crede in Dio e amalo (per ci@o che la fede che non @e 
+informata, @e ^istoriale~ e inutile) succedano tutte le cose in bene, e 
+cooperono a salute.
+
+	|112-114.~  Seguita pi@u oltre il Poeta che Malacoda, nel dimostrare 
+al Poeta fraudolentemente e ingannarlo (come noi mostrammo nella ultima 
+lezione nostra l'anno passato) che non potevano passar pi@u oltre per 
+quel cammino, rispetto a uno ponte ch'ei troverebbono, disse:
+
+   ^Ier pi@u oltre cinqu'ore che questa otta~
+   ^Mille dugento con sessanta sei~
+   ^Anni passar, che quella via fu rotta.~
+
+Questa cosa, che fa dire qui il Poeta a questo demonio, se vo' lo 
+notate bene, fa due effetti molto utili. Il primo @e, ch'ei mostra 
+l'anno e il d@i che il Poeta ebbe questa visione, e com' ei fu il 
+sabato santo del anno 1300 (per ci@o che ei finge che tal rovina 
+accadde nel tremar che fece la terra, quando Cristo morendo rend@e lo 
+spirito al Padre); ch'era l'anno trentacinquesimo del nostro Poeta. Per 
+ci@o che Malacoda, come io vi mostrai l'anno passato, disse queste 
+parole in su l'ora di nona, e disse: ^ieri~, che fu il venerd@i santo, 
+in su l'ora sesta, e nel mille dugento sessanta sei, a' quali aggiunti 
+i trenta quattro che visse Cristo, fa mille trecento; e Dante nacque 
+nel 1265. Il secondo effetto, che fa questo luogo in utilit@a e 
+ammaestramento de' buoni e di quegli che vivono secondo la ragione, @e 
+ch'ei mostra, che il buono cava utile insino da' suoi nemici, e fa 
+profitto, come dice Paulo, insino delle tentazioni. Con ci@o sia cosa 
+che, semprech@e i nemici nostri ci tendono lacci, e cercono 
+d'ingannarci, ei ci ammaestrano che noi siamo cauti e stiamo vigilanti. 
+E quello ch'@e pi@u, c'insegnano molte volte delle cose, che ci sono 
+non solamente utili, ma necessarie a sapere, e che noi non sapevamo; 
+come fa questo Malacoda qui al Poeta nostro, che mentre ch'ei cercava 
+di storlo da la cognizione de vizii con mostrargli ch'ei non si poteva 
+andare pi@u oltre per quel cammino, egli lo accerta che nella morte di 
+Cristo accadde quel tremuoto tanto grande, che commosse insino a le 
+parti infernali, e che fece, insieme con l'oscurazione del sole e della 
+luna (fatta in quel tempo contro a l'ordine della natura), pensare a 
+Dionisio Areopagita, filosofo eccellentissimo che si ritruovava in quel 
+tempo in Atene, o ch'egli era venuto il fine del mondo, o che il Dio 
+della natura pativa. Onde venne a porgere appunto al nostro Poeta 
+quella medicina, che ricercava il male che secondo noi egli aveva, e a 
+insegnarli la via a uscir della selva nella quale ei si ritrovava 
+smarrito; non tenendo voi, come io m'ingegnai di provare nelle prime 
+lezioni, ch'ella fusse o la ignoranza o il vivere vizioso, come gli 
+altri espositori, ma un trovarsi non molto fermo in creder le cose 
+principali della fede e della religione nostra. Ultimamente il Poeta 
+racconta che Malacoda disse loro, che mandava in quelle parti, dove era 
+lor necessario capitare a volere scender pi@u gi@u, alcuni demonii, a 
+guardare che nessuno uscissi o cavassi il capo fuori della pegola, e 
+che quegli insegnerebbono la via; e ch'egli accenn@o loro che si 
+movessero con un cenno molto osceno e brutto. Ed eglino risposono 
+similmente che avevano inteso, con certi altri cenni pieni di scherno e 
+di dileggiamento; il che dice il Landino, ch'@e fatto da 'l Poeta per 
+dimostrare quanto i barattieri, da poi ch'eglino hanno giuntato uno 
+(come pareva aver lor fatto Virgilio e il nostro Poeta, insegnando loro 
+male la via), lo schernischino e beffeggino. Ma io direi pi@u tosto, 
+che il Poeta abbia voluto mostrare quanto sieno brutti e reprensibili 
+ne l'uomo come uomo, come noi dicemmo di sopra, i concetti e i 
+pensamenti di volere ingannare altrui. E questo @e tutto il tenore e 
+quel che dice il Poeta, trattando della baratteria nel capitolo innanzi 
+a questo, raccontovi e replicato da noi, perch@e voi intendiate con 
+maggior facilit@a questo altro che noi abbiamo a esporre, nel quale il 
+Poeta tratta di questa materia medesima, e noi non abbiamo a durar 
+tanta fatica a esprimervi i nostri concetti. La qual cosa, dello 
+esprimere ad altri i suoi concetti con la voce, dice Aulo Gellio ch'@e 
+molto pi@u faticosa e difficile, che formarsegli per s@e dentro nello 
+animo con la fantasia. E ne d@a con arguzia e piacevolezza questo 
+esemplo, il quale ei dice aver cavato di certi comentarii di Nigidio, 
+ch'egli @e molto pi@u difficile e faticoso dir ^vos~ e ^tu~, che ^nos~ 
+ed ^ego~; con ci@o sia cosa che a dir ^voi~ e ^tu~ bisogna muovere, 
+oltre a la lingua, esteriormente le labbra, e a dir ^noi~ e ^io~ basta 
+solo muovere interiormente la lingua. E questo sia a bastanza per la 
+lezione d'oggi.
+
+	|115-126.~ 
+
+   ^Io mando verso l@a di questi miei,~
+   ^A riguardar s'alcun se ne sciorina;~
+   ^Gite con lor, ch'ei non saranno rei.~
+
+   ^Tratti avanti, Alichino e Calcabrina,~
+   ^Cominci@o egli a dire, e tu, Cagnazzo,~
+   ^E Barbariccia, quinci la decina.~
+
+   ^Libicocco venga oltre e Draghinazzo,~
+   ^Ciriatto sannuto e Graffiacane,~
+   ^E Farferello e Rubicante pazzo.~
+
+   ^Cercate intorno le bollenti pane;~
+   ^Costor sien salvi insino all'altro scheggio,~
+   ^Che tutto intero va sopra le tane.~
+
+Desiderando pur questo Malacoda far qualche nocumento a' nostri poeti, 
+piglia finalmente modo di vedere se ei pu@o mandare in compagnia loro 
+qualcuno di quei demonii, sapendo che, come dice lo ^Ecclesiaste~, col 
+santo si diventa finalmente santo, e col perverso, perverso. E per 
+osservare l'arte della baratteria, che @e far quegli inganni che altrui 
+fa sotto spezie di bene, finge e dice che ha a mandare verso l@a, ove i 
+poeti nostri erano inviati, certi di quei suoi demonii per vedere se 
+qualcuno di quei che son sotto la pece, in qualche parte di essa 
+bolgia, usciva fuori di quella suso a l'aria (ch@e cos@i significa 
+propiamente questa voce ^sciorinare~ nella lingua nostra); che vadino 
+con loro, che ei ^non saranno rei~, cio@e ch'ei non sar@a male 
+ch'eglino gli abbino in compagnia. E fatta questa proferta, incominci@o 
+a chiamare quegli ch'ei voleva mandare, e ne nomina dieci, mostrando in 
+certo modo che mandava tutti quei ch'ei poteva; per ci@o che il maggior 
+numero, come numero, @e il dieci, e di poi gli altri non sono pi@u 
+numeri, ma replicazioni di numeri. E i nomi loro sono quei che voi 
+vedete nel testo; ove nella interpetrazione de' quai nomi usono gran 
+diligenza e si affaticono molto lo Imolese e il Landino. E questo @e 
+perch'ei pensano che il Poeta voglia esprimere, con la significazione 
+di quegli, alcuni affetti e alcune operazioni di quegli che sono 
+macchiati di questo vizio di non aver rispetto alcuno a la iustizia per 
+cagione del danaio. Onde dicono che ^Alichino~ significa quello affetto 
+che inclina e piega altrui a tal vizio. ^Calcabrina~ dicono che 
+significa quella corruzione de l'animo che seguita dopo tale 
+inclinazione; ^Cagnazzo~, quello abito che si fa di rapace e di 
+efferato; ^Barbariccia~, quella astuzia con la quale si va cercando di 
+ricoprire quelle azioni, che sarebbero riprese e biasimate, per ci@o 
+che la barba arricciata, appresso ai fisionomisti, significa fraude e 
+malizia. ^Libicocco~, dicono che vuole dire libidine ardente, e dicono 
+che significa quella cupidit@a ardentissima che si ha di ragunare 
+avere; ^Draghinazzo~, quel veneno che hanno simili uomini, che non 
+nuoce solamente a loro, ma egli infetta e appestifera ancora gli altri. 
+^Ciriatto zannuto~, interpreta lo Imolese per atto di mano a rubare, e 
+di zanne a ferire; e Francesco da Buti, per nocitore del prossimo, 
+dicendo ch'egli offende chi viene a lui, come fa il porco. 
+^Graffiacane~, la falsit@a stessa; perch@e sotto apparenza di cane ha 
+il graffiare, ch'@e operazione di gatta, onde lacera chiunche lo 
+travaglia. ^Farfarello~ @e interpetrato da lo Imolese cianciatore e 
+infrascatore; costume peculiarissimo de' barattieri, a rivolgere con le 
+parole il pi@u ch'ei possono chi si travaglia con loro. E ^Rubicante 
+pazzo~, che @e l'ultimo, furioso e iracondo. E tutti questi dice il 
+testo che furono mandati da Malacoda attorno attorno, su per l'argine 
+di questa bolgia della pece bollente, a far guardia che nessuno de' 
+tormentati cavassi fuori parte alcuna del corpo fuori di quella; e per 
+mostrar di far servizio a' poeti nostri, a far lor compagnia insino a 
+quel ponte, chiamato da lui l'^altro scheggio~, ch'ei dice loro ch'ei 
+troverebbono. Il che @e falso, ma finto da lui, perch@e non lo trovando 
+si disperassero, e lasciassero di seguitare pi@u oltre il loro cammino. 
+Onde dice a' detti demonii: cercate intorno ^le bollenti pane~, per 
+^panie~ per sincopa (chiamando ^pania~ la pece strutta, perch@e ella 
+s'appicca e invesca ancora ella come fa la pania), e ^costoro sieno 
+salvi~, cio@e condotti a salvamento, insino ^a l'altro scheggio~, cio@e 
+a l'altro ponte, il quale va ^tutto intero~, senza interrompimento 
+alcuno, ^sopra le tane~, cio@e le fosse delle altre bolgie; chiamate 
+cos@i da 'l Poeta metaforicamente, a similitudine delle tane e buche, 
+nelle quali abitono gli orsi e molti altri animali salvatichi.
+
+	|137-139.~ 
+
+   ^Oim@e, Maestro, che @e quel ch'io veggio?~
+   ^Diss'io: deh senza scorta andiamci soli,~
+   ^Se tu sai ir, ch'io per me non la chieggio.~
+
+   ^Se tu sei s@i accorto come suoli,~
+   ^Non vedi tu ch'ei digrignano i denti?~
+   ^E con le ciglia ne minaccian duoli?~
+
+   ^Ed egli a me: non vo' che tu paventi;~
+   ^Lassagli digrignar pure a lor senno,~
+   ^Ch'ei fanno ci@o per gli lessi dolenti.~
+
+   ^Per l'argine sinistro volta dienno;~
+   ^Ma prima avea ciascun la lingua stretta~
+   ^Co' denti verso il lor duca per cenno;~
+
+   ^Ed egli avea del cul fatto trombetta.~
+
+Non volendo il Poeta lasciar indietro cosa alcuna, che potesse far 
+verisimile la sua favola, finge (come vedete) che la compagnia di 
+questi demonii gli fussi tanto in orrore, ch'ei si messe a pregar 
+Virgilio che acconsentisse ch'ei se ne andassero pi@u tosto soli, 
+dicendogli: ^che @e quel ch'io veggio~, cio@e, che compagnia @e questa 
+che tu accetti? non vedi tu ch'ei son tutti nostri nimici? Se tu sai 
+adunque andare, non accettare loro scorta, che io per me ^non la 
+chieggio~, cio@e non la vorrei in modo alcuno; ch@e cos@i inferisce 
+questo modo del favellare. ^Non vedi tu ch'ei digrignono i denti?~ 
+^Digrignare~ nella lingua nostra significa aprire la bocca e mostrare i 
+denti, come fanno certi catellini botoli, subito ch'ei veggono uno 
+ch'ei non conoscono; il che @e segno di nimicizia. E di pi@u ^ne 
+minacciono duoli con le ciglia~, come si fa quando si guarda uno, 
+stringendo le ciglia e turbando il volto, il che dimostra crudelt@a e 
+turbamento d'animo; come significa per il contrario lo allargarle e 
+rasserenare la faccia, dolcezza e compiacimento di cuore. La qual cosa 
+udendo Virgilio, dice il Poeta ch'egli gli rispose: io non voglio ^che 
+tu paventi~ e che tu tema; perch@e tutti questi segni di crudelt@a che 
+tu vedi fatti da loro ^a lor senno~, e secondo che pare a loro, son 
+fatti da loro ^per gli lessi dolenti~, cio@e per spavento e tormento 
+delle anime dolenti che bollono in questa pece, chiamate da lui ^lessi~ 
+per traslazione delle cose che noi cociamo nell'acqua che bolle, o in 
+qualsia altro licore simile. In questo mentre dice il Poeta che i 
+sopradetti dieci demonii ^detton volta~ e inviarono ^per l'argine 
+sinistro~, cio@e su per quella grotta, ma verso la man sinistra. Ma in 
+prima ch'ei si avviassero, dice che ciascheduno di loro aveva per cenno 
+verso Malacoda loro duca stretta la lingua fra i denti; dicono lo 
+Imolese e il Landino, per far con quella un suono corrispondente a 
+quello che fece loro Malacoda, quando ei volse che si partissero, 
+stringendo di maniera il vento da le parti sue di sotto, ch'ei fu 
+forzato nello uscir fuori fare alquanto di strepito, simile a un suon 
+di tromba. E in cos@i brutto e sporco atto finisce il Poeta questo 
+capitolo, fatto da lui ad arte, dice lo Imolese (ed io similmente 
+affermo insino a che io non sento miglior senso) e pensatamente, per 
+dimostrare che chi non solamente non ha rispetto a la iustizia, ma la 
+corrompe e vendela bruttamente, si conduce a far ogni cosa, ancor che 
+vile e abbominevole e nefanda; avvenendo propiamente in questo caso del 
+violare la iustizia agli uomini quello che avviene a le donne nel 
+violare la onest@a, che non avendo dipoi pi@u rispetto n@e ad onore n@e 
+ad altro, si conducono a far ogni e qualunche cosa, e sia brutta e 
+inonesta quanto ella vuole.
+

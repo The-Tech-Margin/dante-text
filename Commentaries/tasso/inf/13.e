@@ -1,0 +1,199 @@
+	|4-6.~ |(ed.  Rosini)~
+Contrariet@a e corrispondenze.  [Da Fino]
+
+	|8-9.~ |(ed.  Rosini)~
+Che stanno volentieri ne' boschi.  [Da Fino]
+
+	|13.~ |(ed.  Rosini)~
+Late.  [richiamo marginale] [Sessa]
+
+	|25.~ |(ed.  Rosini)~
+^Credesse~, prima persona.  [Giolito]
+
+^Credesse~, prima persona.  [Sessa]
+
+	|(ed.  Celani)~
+I' credo, ch'ei credette, ch'io ^credesse,~
+	^prima persona~
+
+	|25-39.~ |(ed.  Rosini)~
+Facondia, nominando una cosa sola diversamente.  [Da Fino]
+
+	|36.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+Non ^hai tu spirto di pietate alcuno?~
+
+	|40.~ |(ed.  Rosini)~
+^Come d'un stizzo~ ec. furto dell'Ariosto.  [Giolito]
+
+	|(ed.  Celani)~
+Come d'un stizzo verde, che arso sia
+
+	|40-42.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|41.~ |(ed.  Celani)~
+Da l'un d'e lati, che da l'altro geme,
+
+	|42.~ |(ed.  Rosini)~
+Cigola.  [richiamo marginale] [Sessa]
+
+^Cigola~, grida.  [Da Fino]
+
+	|(ed.  Celani)~
+Et cigola per vento che va via;
+	^furto dell'Ariosto~
+
+	|43.~ |(ed.  Celani)~
+S@i de la scheggia rotta ^usciva inseme~
+
+	|43-44.~ |(ed.  Rosini)~
+^...  usciva insieme Parole e sangue~.  Usciva parole e sangue, accorda 
+col singolare pi@u lontano.  [Giolito]
+
+^...  Usciva insieme Parole e sangue~.  Usciano par che dovesse dire, 
+ma forse disse cos@i per darci a divedere che il sangue parlava; e per 
+mostrarci l'unit@a di queste due cose usa il numero singolare.  [Sessa]
+
+	|44.~ |(ed.  Celani)~
+^Parole et sangue~: ond'i lasciai la cima
+	^usciva parole accorda co 'l sing. pur lontano~
+
+	|48.~ |(ed.  Rosini)~
+^Rima~, parlare.  [Da Fino]
+
+	|52.~ |(ed.  Rosini)~
+Nota quanto i dannati desiderino la fama.  [Sessa]
+
+	|55.~ |(ed.  Rosini)~
+Desiderio di fama.  [Giolito]
+
+La fama quanto @e desiderata da' dannati!  [Sessa]
+
+	|(ed.  Celani)~
+E 'l tronco; s@i col dolce dir m'adeschi,
+
+	|56.~ |(ed.  Celani)~
+Ch'i non posso tacer: et voi non grave,
+
+	|57.~ |(ed.  Celani)~
+Perch'i un poco a ragionar m'inveschi.
+	^Desid. di fama~
+
+	|58.~ |(ed.  Rosini)~
+^I' son colui~ ec.  Pier delle Vigne, capuano, secretario.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+^La meretrice~, l'invidia.  [Da Fino]
+
+	|65.~ |(ed.  Rosini)~
+^Putti~, vili.  [Da Fino]
+
+	|69.~ |(ed.  Celani)~
+Ch'e lieti honor ^tornaro in tristi lutti.~
+
+	|70.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+L'animo mio ^per disdegnoso gusto,~
+
+	|72.~ |(ed.  Rosini)~
+Uccisi me stesso.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+^Ruppi fede~, senza l'articolo.  Cos@i ^E ruppe fede al cener di 
+Sicheo~ (c. V v. 62).  [Sessa]
+
+	|84.~ |(ed.  Rosini)~
+^Tanta piet@a m'accora~.  Piet@a degli omicidi di se stessi.  [Giolito]
+
+Ha piet@a di Piero, e non di Filippo Argenti, bench@e Piero, secondo la 
+dottrina di Dante, sia vizioso, e Filippo incontinente.  [Sessa]
+
+	|(ed.  Celani)~
+Ch'i non potrei: tanta piet@a m'accora.
+	^piet@a de gli homicidi di s@e stesso.~
+
+	|89.~ |(ed.  Rosini)~
+^Nocchi~, nodi.  [Da Fino]
+
+	|91.~ |(ed.  Celani)~
+Allhor soffi@o lo tronco forte, et poi
+
+	|91-92.~ |(ed.  Rosini)~
+Energia.  Molto pi@u efficacemente sono descritti questi due luoghi, 
+dove parla l'anima di Piero legata nell'albore, che quel di Virgilio, 
+ove Polidoro parla nel mirto:
+
+	<^...  Gemitus lacrymabilis imo~
+^	Auditur tumulo, et vox reddita fertur ad aures~>.  [Sessa]
+
+	|92.~ |(ed.  Celani)~
+Si convert@i quel vento in cotal voce:
+
+	|93.~ |(ed.  Celani)~
+Brevemente sar@a risposto a voi.
+
+	|97.~ |(ed.  Rosini)~
+In la.  [richiamo marginale] [Sessa]
+
+	|99-111.~ |(ed.  Rosini)~
+Nota ordine di natura.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+^E al dolor finestra~, mandando fuori la voce.  [Da Fino]
+
+	|103.~ |(ed.  Celani)~
+Come l'altre verrem per ^nostre spoglie,~
+
+	|103-105.~ |(ed.  Rosini)~
+Essendosi uccisi da s@e, non resusciteranno col corpo.  Vedasi se 
+questo @e vero.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+^Molesta ombra~, anima travagliata.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+Stormire.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Ch'ode le bestie et le frasche ^stormire~.
+
+	|112-114.~ |(ed.  Rosini)~
+Comparazione.  ^Stormire~, strepito.  [Da Fino]
+
+	|117.~ |(ed.  Celani)~
+Che della selva rompean'ogni ^rosta.~
+	^rosta~
+
+	|120.~ |(ed.  Rosini)~
+^Accorte~, avvezze.  [Da Fino]
+
+	|124.~ |(ed.  Rosini)~
+Dirietro.  [richiamo marginale] [Sessa]
+
+	|128.~ |(ed.  Celani)~
+Et quel ^dilaceraro~ a brano a brano;
+
+	|132.~ |(ed.  Rosini)~
+Sanguinenti.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Per le rotture ^sanguinenti~ in vano.
+
+	|138.~ |(ed.  Celani)~
+^Soff@i~ col sangue doloroso ^sermo?~
+
+	|143-144.~ |(ed.  Rosini)~
+^...  che nel Batista Cangi@o 'l primo padrone~.  Firenze, che il 
+tempio di Marte consecr@o a S. Giovambatista.  [Da Fino]
+
+	|144.~ |(ed.  Rosini)~
+Con la guerra, arte di Marte [Da Fino]
+
+	|151.~ |(ed.  Rosini)~
+S'impicc@o da se stesso.  [Da Fino]
+

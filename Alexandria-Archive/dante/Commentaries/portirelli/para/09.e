@@ -1,0 +1,347 @@
+	|1-3.  Dappoich@e Carlo~ ec.  Volge qui Dante, per
+apostrofe, il parlare alla figlia di Carlo Martello Clemenza,
+moglie di Lodovico X Re di Francia, la quale era tra' vivi mentre
+Dante queste cose scriveva -- |chiarito~, dei dubbi a lui
+proposti -- |gl'inganni~, per ^le defraudazioni~, vale a dire;
+per l'ingiusta intrusione di Roberto fratello di Carlo Martello
+nel regno di Napoli e Sicilia, ad esclusione dei figli di esso
+Carlo e fratelli di Clemenza; ai quali per ragione della
+primogenitura del padre era dovuto (v. Gio. Villani ^Cron.~ lib.
+10 cap. 7 e 9 c. 175) -- |semenza~ ^per discendenza.~
+
+	|4-15.  Disse~, il medesimo Carlo Martello -- |taci~, non
+ist@a a riferire specificatamente ad alcuno quant'io ti svelo --
+|S@i ch'io~ ec. onde, dovendo io ubbidire a tal comando, altro non
+posso dire, se non che al danno recato alla vostra prosapia,
+coll'ingiusta defraudazione del regno a lei dovuto, verr@a in
+seguito il giusto gastigo a farne piangere gli usurpatori.  |La
+vita~ ec. l'anima di Carlo Martello |rivolta s'era~ a Dio che
+riempiela di beatitudine, essendo Dio quel bene, che a riempiere
+di se ogni cosa @e bastante.  |Ahi anime~ ec. altra apostrofe del
+Poeta a' mortali, le altre ediz. leggono ^Ahi anime ingannate e
+fatture empie~ -- |Drizzando~ ec. rivolgendo alle mondane vanit@a
+i pensieri vostri |Un altro di quegli splendori~ ec. uno di que'
+risplendenti spiriti faceva esteriormente apparire, nel farsi pi@u
+dell'usato, risplendente, la sua volont@a di compiacermi.
+
+	|17-24.  Come pria, di caro~ ec. mi fecero |certificato
+di~ grazioso |assenso al mio desio, come pria~, come quando alla
+medesima Beatrice chiese licenza di parlare a Carlo Martello, nel
+canto preced. v. 40 ec.  |Metti compenso~, d@a soddisfazione --
+|fammi pruova~ ec. e fammi veder per prova, che |quel ch'io penso
+possa in te rifletter~, quasi raggio per ispecchio, cio@e che tu
+ben vedi ci@o ch'io penso, senza che abbia bisogno, che con parole
+te lo manifesti.  |La luce, che m'era~ ec.  La risplendente anima
+che, da quando era nel suo a quell'amoroso Pianeta pi@u interno, e
+da me pi@u lontano luogo, onde prima facevasi sentire a cantare
+^Osanna~ (canto preced. v. 28), infino al momento in cui, resasi
+vicina a me, l'aveva pregata a manifestarmisi, m'era tuttavia
+|nuova~, incognita -- |Seguette~, aggiunse in seguito al mio il
+suo parlare, come chi compiacesi di usar altrui buona grazia.
+
+	|25-33.  Terra prava~ appella l'Italia per ci@o che fisse
+Purg. VI, 124 ec.
+
+     ^Che le terre d'Italia tutte piene~
+        ^Son di tiranni, ed un Marcel diventa~
+        ^Ogni villan, che parteggiando viene~: 
+
+e per la |parte d'Italia che siede intra Rialto~ (principale
+contrada di Venezia per la citt@a stessa), |e le fontane di
+Brenta, e di Piava~ (due fiumi che scendono dalle alpi dividenti
+l'Italia dalla Germania, e mettono nel golfo di Venezia) intende
+tutta quella lista di terra, che tra essi divisati termini si
+estende, la quale era sotto la giurisdizione del castello di
+Romano Bassanese, patria del tiranno Ezzelino.  |Si leva un
+colle~ sopra del quale @e il castello di Romano -- |La onde~ ec.
+dal quale nacque e si stese abbasso a grand'esterminio di quella
+regione, una fiamma, cio@e il fier tiranno Ezzelino, terzo di tal
+nome nella famiglia d'On@ara Conti di Bassano.  |D'una radice~,
+dal medesimo padre Ezzelino II appellato il ^Monaco~ -- |ella~,
+cio@e la detta |facella~ -- |Cunizza~, sorella del tiranno
+Ezzelino, donna, dice il Volpi concordemente a tutti gli
+espositori, inclinata molto a' piaceri amorosi -- |e qui rifulgo~
+ec. risplendo in questo basso grado di beatitudine, perch@e mi @e
+stato d'impedimento a poggiare ad un grado pi@u sublime l'essere
+stata dedita a' folli amori.
+
+	|34-42.  Indulgo~ dal latino ^indulgere~ per ^perdonare~
+-- |e non mi noja~ ec. n@e per essa mi rammarico; cosa che al
+^vostro volgo~, non intendendo come possa la memoria di perduto
+bene riuscire senza rammarico, parr@a certamente strana.  |Di
+questa~ ec.  Passa Cunizza a parlare dell'anima ch'era a lei
+vicina di Folco di Marsiglia, celebre provenzale scrittore
+d'amorose rime a' tempi del Poeta nostro, di cui si dir@a sotto i
+versi 89 ec. |luculenta~ per ^risplendente.~  Alcune ediz.
+leggono ^chiara gioja.~  |Questo centesim'anno~ ec.  Siccome
+l'anno di questo Poetico viaggio era il centesimo ed ultimo anno
+del secolo XIII, predice Cunizza che avanti che s'estingua la
+fama di Folco, passeranno cinque altri simili centesimi ultimi
+anni de' secoli avvenire; ch'@e poi quanto a dire, ^passeranno
+altri cinque secoli~, numero determinato per l'indeterminato. 
+^Incinquare~ al senso di ^quintuplicare.~  -- |Vedi se far~ ec. 
+Vedi se torna a conto all'uomo il farsi eccellente.  Il Venturi
+bene paragona questo di Dante a quel detto di Virgilio: ^Et
+dubitamus adhuc virtutem extendere factis.~  (Aeneid. VI, 801) --
+|S@i ch'altra vita~ ec. s@i che la vita mortale del corpo lasci
+dopo di se la vita quasi immortale della fama: |relinqua~ dal
+Latino.
+
+	|43-48.  La turba presente~, l'odierna gente in continue
+guerre mischiata -- |Tagliamento ed Adice~, due fiumi dello stato
+Veneto, ai quali la in allora pi@u estesa Trivigiana Marca
+(ond'era Cunizza) faceasi terminare.  -- |battuta~, afflitta da
+calamit@a.  |Ma tosto fia~ ec.  |Ma per essere le genti~,
+Padovane, |cruda al dover~, dure, ostinate contro 'l giusto
+(nella pretensione d'impadronirsi di Venezia), |tosto fia che al
+palude~, dove il Bacchiglione fa palude, presso a Vicenza,
+|Padova~, le Padovane genti, |Canger@a~ (intendi ^di colore~,
+facendola col suo sangue rosseggiare) |l'acqua che Vicenza
+bagna~, l'acqua del Bacchiglione.  Tre volte, nel termine d'anni
+sette sono stati a Vicenza rotti i Padovani.  V. Gio. Villani
+lib. 9 cap. 62, 87.  Il parlare in generale del Poeta pu@o
+riferirsi a tutte e tre le rotte.
+
+	|49-51.  E dove Silan e Cagnan~ ec. e in Trevigi, dove si
+congiungono insieme questi due fiumi, vi @e un tal Signore che
+domina (Ricciardo da Cammino), e va altiero -- |Che gi@a~ ec.
+mentre gi@a si compone la rete per prenderlo; in luogo di dire:
+gi@a si va facendo dai nemici di lui la congiura per ucciderlo,
+ci@o che fu eseguito nell'anno 1312, mentre stava divertendosi al
+giuoco degli scacchi.  Dell'Autore della congiura per cui fu
+ucciso Riccardo da Cimmino Signor di Trevigi scrive il Postill.
+del cod. Montecas. ^occisus proditorie per assesinos ad
+petitionem Domini Altinerii de Calzonis de Triviso~ ec.  Costui,
+che gli altri Comentatori non nominano, @e chiamato dagli
+Scrittori delle istorie di quei tempi ^Altinerio de Alzonibus.~
+V. Murat. S. R. I. t. X p. 426.
+
+	|52-54.  La diffalta~ ec.  ^Diffalta idest culpam~ segna
+il suddetto Postill. e in margine spiega chi fosse l'empio
+pastore, del quale parlasi, dicendo ^praenuntiat auctor quomodo
+presbiter Gorza de domo illorum de Luxia Feltrani distrinctus
+Episcopus olim Feltrinus proditarie caepit Antoniolum, et
+Langiarottum de la Fontana de Ferraria, et captos misit eos ad
+Dominum Pinum tunc rectorem civitatis Ferrariae pro Ecclesia
+tanquam rebelles ejus ubi decapitati fuerunt, et cum eis etiam
+Prior Sancti La~ ... ^dictae Terrae, et certis aliis.~  Non si
+accordano gli espositori su la persona di questo Vescovo di
+Feltre; l'Imolese dice, che fosse un Piacentino, ma non ne
+dichiara il nome, altri lo chiamano Alessandro Piacentino, e cos@i
+pure l'Ughelli; sembra nondimeno che debba a tutti preferirsi
+l'autorit@a di questo antico comentatore, che precisamente ne
+dichiara il nome, o soprannome; e la famiglia.  Nota egli poi
+alla parola |Malta~: ^quae est quidam carcer, in quo ponuntur
+clerici ad perpetuum carcerem per Dominum Papam.~  Dicesi che
+questo carcere fosse nel Lago di Bolsena detto anche oggi
+^Marta.~
+
+	|55-63.  Bigoncia~ vaso di legno di tenuta intorno a tre
+mine, che adoprasi per someggiare l'uva premuta al tempo della
+vendemmia.  |Che doner@a~ ec. |che~ relativo al detto |sangue
+Ferrarese~ -- |cortese~, ironicamente per ^iscortese~ e ^crudele~
+-- |di parte~ partigiano del Papa -- |Conformi fieno~ ec. accenna
+che fossero i Feltrini per divenire traditori e micidiali.  |Su
+sono specchi~ ec.  E affinch@e, dice il Venturi, tu abbia in conto
+di profezia questo mio parlare, sappi, che su nell'Empireo gli
+Angeli, che voi gi@u in terra chiamate |Troni~, sono come tanti
+specchi, ne' quali a noi, che siamo di questa terza sfera,
+risplende, e ci si fa vedere Dio, talch@e questo mio parlare non
+devi dubitare, che non sia veridico.
+
+	|64-72.  E fecemi sembiante~ ec.  |E per la ruota~, pe 'l
+giro, ^in che si mise com'era davante~ (Canto preced. v. 16 ec.),
+|fecemi sembiante che fosse volta ad altro~, fece che mi
+sembrasse, ch'io m'accorgessi, che pi@u non attendeva a me. 
+|Letizia~, per ^anima beata~ -- |che m'era gi@a nota~, di cui
+Cunizza m'aveva gi@a manifestato la fama (versi 37 ec.). 
+|Preclara~ al modo latino, per ^molto chiara~, risplendente --
+|balascio~, sorta di pietra preziosa.  |Per letiziar~ ec., per
+allegrare.  Accennando la cagione d'essersi fatta quell'anima pi@u
+risplendente, dice che, siccome qui in terra si fa l'uomo
+esteriormente ridente a misura dell'allegrezza che internamente
+gode, cos@i in Paradiso si fa l'anima esteriormente pi@u lucida a
+norma dell'interna allegrezza: ed al contrario, nell'Inferno
+|s'abbuia l'ombra di fuor~, si oscura esteriormente l'anima |come
+la mente @e trista~, a misura dell'interna tristezza.
+
+	|73-75.  S'inluia~ per ^entra in lui~, e nel seg. v. 81
+^intuarsi~ ed: ^immiarsi~ per ^entrare in te~ e ^in me~, e Par.
+XXII, 127  ^inleiarsi~ per ^entrare in lei.~  Le altre ediz.
+leggono malamente ^illuia~ -- |nulla voglia di se~, lo stesso che
+^nissuna voglia di lui, d'Iddio~ -- ^fuia~ in vece di |buia~
+leggono tutti eccettuato il cod. Montecass. il primo vocabolo non
+ha una decisa significazione, onde in questo testo @e
+opportunatamente adoperato quello di buja, cio@e ^oscura~,
+^ascosa~ Vedi per@o la nota al v. 90 del Canto XII dell'Inf.
+
+	|76-81.  Trastulla~, diletta -- |fuochi pii~ appella i
+Serafini dall'etimologia del nome; imperocch@e ^seraph~ significa
+^urens.~  Aggiunge farsi i medesimi |cuculla~ (veste monacale per
+^veste ampia~) |di sei ali~, per la descrizione che de' medesimi
+Serafini fa il profeta Isaia Cap. 6.  |A miei disii~, di saper
+chi tu sei -- |S'io mintuassi~ ec. se io vedessi i tuoi interni
+desiderii, come tu vedi i mei.
+
+	|82-87.  La maggior valle~ ec.  Supponendo il Poeta, che
+dal mare, che la terra tutta |inghirlanda~, circonda, cio@e
+dall'Oceano, diffondendosi le acque ad allagare le pi@u basse
+valli infra terra, formati siensi i mari particolari, perci@o,
+come de' mari particolari il maggiore @e il Mediterraneo, lo dice
+essere |la maggior valle, in che l'acqua si spande fuor di quel
+mar, che~ ec. cio@e fuor dell'Oceano.  |Tra discordanti liti~, tra
+le coste Europee ed Africane, |discordanti~ di religione e di
+costumi -- |contra 'l Sole~, contra il corso del Sole, da
+Occidente inverso Oriente, dallo stretto di Gibilterra, dove il
+Mediterraneo incomincia, verso la Palestina, dov'esso
+Mediterraneo ha termine -- |Tanto sen va che~ ec. tanto si
+stende, che il cerchio, il quale serve di meridiano ad un capo,
+serve il medesimo di orizzonte all'altro capo.
+
+	|88-93.  Di quella valle~, cio@e di quel mare -- |Tra Ebro
+e Macra~ ec.  Cos@i Dante circonscrive Marsiglia, d'onde Folco fu
+comunemente detto, siccome chiosano tutti gli espositori
+eccetuati il Vellutelli ed il Venturi, che lo vogliono nato in
+Genova, e che Genova e non Marsiglia vengaci qui circonscritta. 
+Che Folco sia nato in Marsiglia e non in Genova lo scrive
+Nostradamus nelle vite de' Poeti Provenzali (Num. XI) lo conferma
+Moreri nel suo ^Diction. Histor.~ dicendolo ^figliuolo d'un
+Alfonso, ricco mercante di Genova abitante in Marsiglia~; e ben
+per cotale accidentario nascimento di Folco in Marsiglia pot@e il
+Petrarca dire di lui nel quarto del Trionfo d'Amore, che desse il
+nome a Marsiglia, ed a Genova togliesselo.  Di Marsiglia appella
+Folco Dante stesso nella sua ^Volgare eloquenza~ lib. 2 c. 6, e
+se non di Marsiglia puossi ragionevolmente intendere quanto dice
+qui della patria di Folco.  Marsiglia @e a un dipresso nel mezzo
+tra la Macra ed Ebro, uno de' principali fiumi della Spagna, che
+si scarica nel Mediterraneo al di sotto di Tortosa nella
+Catalogna Marsiglia e |Buggea~, oggi ^Bugia~, citt@a sull'Africana
+costa; sono situate |ad un occaso quasi e ad un orto~ (cio@e sotto
+quasi ad un meridiano medesimo) non essendo Marsiglia differente
+in longitudine da Bugia pi@u di un grado.  |Che fe' del sangue suo~
+ec.  Fu sparso questo sangue nel porto di Marsiglia, nell'assedio
+ed espugnazione della medesima, che fece Bruto di commissione di
+Cesare.  V. ^Caes. Comment. de bello civ.~ lib. 2.
+
+	|94-102.  Folco mi disse quella gente a cui~ ec. mi
+chiam@o |Folco~ (forse perch@e da alcun era appellato ^Folchetto~)
+-- |questo cielo~ ec. il ciel di Venere s'impronta della mia
+figura e della mia luce, com'io in terra m'impressi delle amorose
+di lui influenze.  Narrasi che vivesse Folco innamorato di certa
+donna (Adalagia moglie di Baral Signore di quella citt@a. 
+Venturi), e che componesse molte rime in di lei lode in idioma
+Provenzale; ma che finalmente, morta essendo quella donna, si
+fec'egli monaco, e che in progresso di tempo fu Vescovo di
+Marsiglia, e finalmente Arcivescovo di Tolosa.  V. Nostradamus. 
+|Che pi@u non arse~ ec.  |Che, infin che si convenne al pelo~
+ancor non canuto, |non arse pi@u di me la figlia di Belo~, Didone
+innamorata di Enea, |nojando~, recando noja all'ombra di |Sicheo~
+suo primo marito, ed a quella di |Creusa~ prima moglie d'Enea. 
+|Quella Rodopea~, Filli abitante presso al monte Rodope nella
+Tracia |delusa da Demofoonte~, non essendo costui ritornato a
+Filli, come aveva promesso, mancanza per cui la innamorata
+femmina si di@e morte.  V. Ovid. Epist. Heroid. 2 -- |n@e Alcide~
+quando fu innamorato di Iole figlia d'Eurito Re d'Etolia, a segno
+di fare, per compiacerla, delle pazzie.
+
+	|104-108.  Ch'a mente non torna~, la quale per la bevuta
+acqua di Lete rimane affatto in obbl@io -- |Ma del valore~, della
+eterna potenza di Dio |ch'ordin@o e provvide~, che per la stella
+di Venere s'influisse negli umani cuori amore.  |Qu@i si rimira~,
+si contempla la divina Sapienza che dispone |effetto~ di cos@i
+grande importanza per la conservazione dell'uman genere.  La
+Nidob. ^affetto~ forse per errore come si pu@o argomentare dal
+comento -- |e discernesi 'l bene~, il buon fine -- |Perch@e 'l
+mondo di su~ ec.  Ottima Lezione rischiarata dal Postill. del
+Cod. Montecas. colla nota seguente: ^facit converti amorem
+mundanum ad caelestia, et sic ad Mundum superiorem ut hic dicit.~
+Tutte le altre edizioni leggono ^Perch@e al Mondo di su~ ec. e
+stentano, e si contorcono gl'interpreti per ispiegare come il
+Mondo di gi@u torni a quel di su.  Il P. Lombardi ripete la parola
+^torna da torniare sincopato dell'I dal Latino Tornare per
+fabbricare~ (egli dice) ^formare.~  Il verbo Latino ^torno~ vale
+lavorare al tornio, tornire, e forse poteva Dante prenderlo
+metaforicamente per raggirarsi, cio@e tornare, ritornare,
+voltarsi.  Quindi a me pare pi@u verisimile, che il Poeta l'abbia
+preso dal Francese ^tourner~ voltare, voltarsi, e come spiega il
+sudd. Post. ^converti.~
+
+	|109-114.  Ma perch@e~ ec. acciocch@e sieno in te |piene~,
+soddisfatte |tutte le tue voglie che son nate~ ec. che dentro di
+questa stella sonosi in te eccitate.  |Chi @e 'n questa lumiera~,
+qual'anima @e dentro di questo lume -- |mera~, pura, limpida.
+
+	|115-120.  Si tranquilla~, ottiene perpetua tranquillit@a
+-- |Raab~, meretrice di Gerico, la quale per aver salvate in sua
+casa alcune spie di Giosu@e capitano del popolo eletto, fu da lui
+preservata ed accolta, nel sacco di quella Citt@a, ond'essa poi
+pass@o al culto del vero Dio d'Israele -- |a nostr'ordine~ ec.
+|l'ordine~, il coro nostro a cui ella @e congiunta, |di lei si
+sigilla~, s'impronta dello splendore di lei, |nel sommo grado~,
+nel suo pi@u eminente luogo.  |Da questo cielo in cui~ termina
+|l'ombra, che face~ il terrestre vostro globo |fu~ Raab ricevuta
+prima d'altr'anima per Ges@u Cristo salvata.  |Trionfo di Cristo~
+appella le anime per lui salve anche Par. XXIII, 19 ec.  Dovendo
+per cagione della maggior grandezza del Sole (cos@i il
+Vellutello), aver l'ombra della Terra figura di cono, stabilisce
+Tolommeo nell'Almagesto, che la punta di cotale ombroso cono cada
+nel ciel di Venere.
+
+	|121-126.  Ben si convenne~ ec.  Ben conveniente cosa fu
+che, volendosi da Cristo, salendo al cielo trionfante, lasciare
+|in alcun cielo~, al disotto dell'empireo, qualche anima di
+quelle che seco all'empireo conduceva, |per palma~ per segno
+della grande |vittoria, che s'acquist@o con l'una e l'altra
+palma~, con ambe le mani intendi, ^conficcate in croce~, vi
+lasciasse |lei~, Raab, piuttosto che altr'anima.  |Favor@o~ da
+^favorare~ per ^favorire~ -- |la prima gloria di Giosu@e~, la
+prima gloriosa impresa di Giosu@e nella terra promessa; che fu
+l'espugnazione di Gerico -- |Che poco tocca al Papa~ ec. della
+quale poco il Papa si ricorda, che sta vituperosamente in mano
+de' Saraceni.
+
+	|127-135.  Di colui @e pianta~ ec.  La tua Citt@a di
+Firenze @e stata piantata da colui (da Satanasso) che pe 'l primo
+apostat@o dal Creatore -- |E di cui @e la 'nvidia~ ec. giacch@e per
+invidia di Satanasso @e entrato nel mondo il peccato, la morte, ed
+ogni male cotanto pianto.  Ricorda qu@i Dante essere stata fondata
+Firenze sotto gli auspicii di Marte.  |Fiore~ appella il
+Fiorentino gigliato pe 'l fiore di giglio che vi @e improntato --
+|maladetto~, pe' tristi effetti che cagiona in discapito della
+giustizia -- |Ch'ha disviate~ ec.: perch@e l'avara cupidigia
+d'accumular quei fiorini, ha fatto prevaricare non solo i laici,
+ma eziandio gli ecclesiastici; dappoich@e ha fatto divenir il
+sommo Pastore rapace lupo.  Era in tempo di questo poetico
+viaggio Papa Bonifazio VIII., gi@a di simonia tacciato Inf. XIX,
+53.  |Son derelitti~ perch@e di nissun lucro -- |solo a i
+Decretali~; nelle ecclesiastiche leggi Bonifazio VIII era maestro
+a segno di aggiunger egli a cinque libri, in che tutte si
+contenevano, il sesto libro -- |s@i che pare a' lor vivagni.~ 
+^Vivagno~ propriamente l'estremit@a de' lati della tela.  Il P. L.
+spiega: talmente che cotale studio apparisce dai |vivagni~, dai
+margini di essi libri, ricoperti d'ontume dal sovente applicarvi
+le dita.  La Nidob. ^Vivagno~ si @e lo estremo orello del panno, e
+cognoscesi a quelli molto la fina drappatura; s@i che altro non
+vuol dire se non che guadagnano tanto, che vanno vestiti de' pi@u
+fini panni, li quali vestimenti sono diversi da quelli degli
+Apostoli.
+
+	|136-142.  A questo intende~ ec. cio@e a questo fine di
+possedere fiorini.  La Nidob.  |Non vanno i suoi pensieri~ ec.
+non si fanno premura veruna di riacquistar Nazaret, verso dove
+l'Arcangelo Gabbriello vol@o ad annunziare a Maria Vergine
+l'incarnazione del Divin Verbo.  |Ma Vaticano~ ec.  Qu@i conchiude
+Folco, prosiegue la Nidob., e dice che i luoghi di Roma che sono
+stati cimitero di quelli pastori che hanno seguito le vestigia
+che segu@i S. Pietro, cio@e di Cristo, saranno liberi tosto da
+questo adulterio, quasi dica: Dio metter@a compenso intra li
+pastori, e ridurralli al pristino stato; s@i che non sar@a tale
+officio adulterato n@e tinto da tanto obbrobrioso difetto.  Ma se
+Folco parlasse ora con l'Autore, avendo veduto la vita e modi da
+quel tempo fino a questo 1477, osservati dai pastori e prelati
+della Chiesa, egli veramente direbbe o pi@u o meno di quello che
+detto ha.  Tutti gli altri comentatori sono di diversa opinione
+per riguardo a questa liberazione |dell'adultero.~  Pare al P. L.
+che si possa intendere l'evacuazione che di Roma fecero il Papa e
+i Cardinali nella traslazione della Sede Pontificia in Avignone
+per Clemente V.

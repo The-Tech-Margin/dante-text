@@ -1,0 +1,87 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id SAA20893
+	for <steve@avalon.dartmouth.edu>; Tue, 23 Dec 1997 18:41:48 -0500
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.7+DND/8.8.7) with ESMTP id SAA30078;
+	Tue, 23 Dec 1997 18:41:48 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 2353 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <542148-42>; Tue, 23 Dec 1997 18:41:01 -0500
+Received: from phoenix.Princeton.EDU (bobh@phoenix.Princeton.EDU [128.112.131.153]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id SAA06918; Tue, 23 Dec 1997 18:40:57 -0500
+Received: (from bobh@localhost)
+	by phoenix.Princeton.EDU (8.8.8/8.8.8) id SAA16565;
+	Tue, 23 Dec 1997 18:40:56 -0500 (EST)
+Message-Id: <199712232340.SAA16565@phoenix.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Tue, 23 Dec 1997 18:40:56 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Malcolm.Brown@Dartmouth.EDU, Steve.Campbell@Dartmouth.EDU,
+        bobh@phoenix.Princeton.EDU
+Subject: DDP: data correction
+Cc: tobypaff@pucc.Princeton.EDU
+
+This is mainly for Steve, but I wanted Malcolm to see
+what is about to happen, since he has to agree as to
+procedure.
+
+Ystdy, Steve, Malcolm and I discussed a number of DDP
+issues, mainly data cleaning  and how we need to
+reconfigure the interface.  Also a bit on
+copyright/security issues.  Malcolm has promised to let
+me see the DDP through the lens of the new Library
+program for Windows as soon as that is possible.  And
+with regard to data cleaning we have agreed that I
+should take two comms. that I have ready for "cleaning"
+and simply _do_ that, editing in "vi" from here.
+
+Malcolm, I am ready to go.  We happen to have two
+comms. that are ready now (and two others that will be
+in a week or so -- maybe two).  These are Andreoli (not
+yet loaded) and Chimenz.  My mode would be to take the
+files whence you tell me to, correct them, and leave
+them where you tell me.  Doing this will give us a good
+read on (1) how well I can do this task, (2) how long
+it will take.
+
+One question remains about method.  I have one BIG file
+of corrections in alphabetical order for ALL the comms.
+Steve has a copy of this and knows what it looks like.
+>From it I have developed files for EACH comm. in order
+by cantos.  To be utterly clear I'll give examples:
+
+BIG file:
+
+aaavark         aardvark        Tommaseo (Inf. 3)
+bumer           bummer          Casini (Inf. 1);
+                                   Steiner (Purg. 3)
+cindy           candy           Barbi (inf. 3, 29;
+                                    Purg. 1)
+
+SINGLE COMM. file:
+
+bumer           bummer          Casini (Inf. 1)
+clipper         clapper         Casini (Inf. 1)
+
+dum             dumb            Casini (inf. 2)
+
+Some time ago last fall Steve said he thought we might
+be able to edit from the BIG file w/o breaking it down
+into lists for EACH commentator.  I still do not
+understand how.  My guess is the only method that will
+work easily is the second -- doing one whole
+commentary, canto by canto.  Steve, if you have
+reasons that we should  NOT follow this plan, please
+let me and Malcolm know.  Otherwise I'd like to do this
+first thing next week and FINALLY get going on this
+aspect of the project.  And then, Malcolm, will you and
+Steve tell me where to pick up the files for Andreoli
+and Chimenz.  I of course know how to get to the
+originals, but you may not want me to take them.
+Please decide and let me know.
+
+One other detail.  I have ALL the Andreoli Inferno
+files copied down here and cleaned.  I wanted to see
+how long that would take to do (answer: not so long).
+Tell me where to dump these files once we are ready to
+do this.
+
+I wish you both happy holidays.  Best, Bob

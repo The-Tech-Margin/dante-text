@@ -1,0 +1,1084 @@
+	|1-9 {Nota Bosco}.~  La luce con le sue vicende
+quotidiane @e, abbiamo detto, uno dei protagonisti del
+^Purgatorio.~  Il ruolo essenziale da essa coperto nel I canto
+continua nel II: in quello avevamo assistito alla vittoria
+dell'alba sull'azzurro cupo della notte; ora assistiamo (1-9) al
+sorgere del sole, poi (55-57) al suo saettar luce per ogni dove,
+gi@a abbastanza alto sull'orizzonte; la prima descrizione,
+particolarmente elaborata, occupa ben tre terzine ed @e ricca di
+riferimenti astronomici, astrologici, mitologici.  Generalmente
+essa non @e stata molto apprezzata dai lettori moderni: le si @e
+rimproverata incongruenza d'immagini (il colore giallastro delle
+guance d'un'ex-bella donna invecchiata, nella quale l'aurora @e
+personificata, non @e sembrato comparabile senza sconvenienza con
+l'oro splendente del sole che sorge); si @e lamentato un eccesso
+di erudizione scientifica, giacch$e l'accenno a quel che avviene
+tra gli astri quando la notte supera in lunghezza il giorno (5-6)
+@e parso inutile sia alla configurazione fantastica dell'immagine
+principale, sia agli stessi fini della determinazione oraria.  Il
+fatto @e che il poeta per dare concretezza anche cronologica al
+suo viaggio ha bisogno di cospargere le due prime cantiche di
+riferimenti orari (il volo nel Paradiso @e atemporale; ma non
+mancano anche nella terza cantica, attraverso paragoni terreni,
+riferimenti orari spaziali-paesistici obbedienti al medesimo
+gusto: cfr. per es. ^Pd~ XXX 1-9); ma solo eccezionalmente egli
+si contenta dell'indicazione pura e semplice dell'ora (si vedano,
+per casi di quest'ultimo genere, ^If~ XXXIV 96; ^Pg~ IV 15-16, IX
+44, XII 80-81, XXII 118-120: il grande lusso di numeri precisi
+con cui Malacoda, in ^If~ XXI 112-114, definisce l'ora in cui sta
+parlando, serve al diavolo per dar credito alla bugia con cui
+vuol beffare Virgilio e Dante).  Negli altri casi, che
+costituiscono la quasi totalit@a, Dante arricchisce in vario modo
+il dato cronologico; appunto perch$e questo del canto II risponde
+a un'esigenza espressiva generale del poeta conviene spendervi
+attorno qualche parola.  A proposito di questo passo, il Flora
+osserva che con i riferimenti astrali Dante coinvolge nel suo
+viaggio il moto dei cieli, conferisce a ogni vicenda di esso <un
+significato cui partecipa l'universo>: ma @e osservazione pi@u
+ingegnosa che persuasiva, giacch$e negli arricchimenti letterari
+delle varie designazioni orarie i riferimenti agli astri sono,
+s@i, predominanti, ma non unici.  Talvolta (^If~ XX 124-126) il
+poeta rievoca una credenza popolare, altre volte (^Pg~ IX 13-15,
+XXVII 94-96) ricorre semplicemente alla mitologia, o aggiunge
+notizie scientifiche o parascientifiche (^Pg~ XIX 1-6); in molti
+luoghi l'indicazione dell'ora si amplia in note paesistiche (^Pg~
+XVII 70-72, XVIII 76-84, XIX 37-39, XXVI 4-6, XXVII 70-72, XXXIII
+103-105), spesso intrise del senso dell'umano: si ricordi il
+celebre inzio, 1-6, di ^Pg~ VIII (^Era gi@a l'ora...~) e, assai
+vicini a questi versi, ^If~ II 1-3, ^Pg~ XXVII 109-112; o d@a
+luogo a considerazioni filosofiche (^Pg~ IV 1-16).  La
+complicatezza scientifico-sintattico-figurativa di alcuni passi,
+specie all'inizio di canto (^Pg~ XV 1-6, XXVII 1-5, e,
+similissimo a questo da cui ora abbiamo preso lo spunto,
+l'inizio, 1-9, di ^Pg~ IX: anch'esso fondato su una preziosa
+simbiosi fantastica tra aurora come fenomeno solare e Aurora come
+personaggio mitico) @e essa stessa espediente per innalzare la
+materia.  Ma naturalmente, come abbiamo detto, predominano i
+riferimenti astrali e particolarmente zodiacali: questi ultimi
+con le loro figurazioni, operanti nella fantasia medievale ben
+pi@u profondamente che nella nostra, immediatamente trasferibili
+in concreti animali o oggetti, servono per lo pi@u al poeta (ma
+non in ^Pg~ XXV 1-3, che @e una semplice precisazione astrale) per
+conseguire quella massima concretizzazione che era nel gusto
+espressivo del suo tempo e suo.  In qualche caso essi si
+aggiungono ad ampie aperture paesistiche (^Pg~ I 19-20, II
+55-57); pi@u spesso i corpi celesti sono visti nella loro
+materialit@a figurativa: i Pesci ^guizzano~ (^If~ XI 113-114), la
+Luna raggiunge il suo letto (^Pg~ X 14-15), la Notte,
+personificata come in questo passo di ^Pg~ II, tocca col pi@e la
+riva marocchina (^Pg~ IV 137-139; affine @e ^Pg~ VIII 133-135). 
+Talvolta la concretizzazione @e per cos@i dire dissimulata, pur
+essendo al fondo della descrizione, come in ^Pg~ I 115-117, dove
+si ha una lotta tra due personificazioni, l'alba e l'ultima ora
+della notte che, vinta, fugge: ma la corposit@a dell'immagine @e
+annullata dall'ultimo verso della terzina, con la marina
+tremolante alle prime luci; verso che attrae e prende tutta
+l'attenzione dei lettori.  Al nostro gusto moderno tali
+personificazioni, condotte all'estremo della corposit@a, possono
+riuscire ostiche, cos@i come quando, in un sonetto, Dante fa che
+Malinconia instauri un dialoghetto di tono quotidiano, e che
+Amore sia vestito di nero e porti un cappello (^Rime~ LXXII);
+cos@i altri rimatori del suo tempo.  Per es., Niccol@o Del Rosso
+pu@o dare a un sentimento la figura d'uomo con <barba lunga>, pu@o
+parlare di <capelli> del suo cuore, o far cantare a Piet@a un
+requiem.  Del resto, il linguaggio mistico medievale @e pieno di
+queste concretizzazioni e corposit@a realistiche, o meglio
+pseudo-realistiche.  Risalendo ancora nei tempi, lo scambio di
+attributi tra entit@a fisiche e i personaggi nei quali la
+mitologia li identificava, @e la regola dei classici: a questo
+gusto appartengono l'identificazione di questo canto, per noi
+moderni sconcertante, tra l'aurora dorata e Aurora invecchiata, o
+il particolare di ^Pg~ IX 1-3, di Aurora che si scioglie dalle
+braccia del suo dolce amico Titone e si affaccia al balcone
+dell'Oriente.  La nostra perplessit@a di lettori d'oggi nasce per@o
+dal fatto che noi spingiamo troppo oltre la visualizzazione e
+l'umanizzazione di queste personificazioni, le quali in fondo non
+sono che metafore e restano tali, e vanno interpretate, e, se ci
+@e possibile, gustate solo nel loro valore di raffinatezze
+letterarie.
+
+	|1-3.  Gi@a era... punto~: la terzina significa soltanto:
+<il sole era giunto all'orizzonte di Gerusalemme>.  Per
+comprendere esattamente il senso della perifrasi scientifica, si
+ricordi che secondo la geografia del tempo la terra emersa e
+abitata occupava la superficie del globo per una estensione di
+180+o~ nell'emisfero boreale e Gerusalemme ne era il centro. 
+Inoltre l'orizzonte astronomico di un luogo @e determinato dal suo
+meridiano, cio@e l'arco il cui ^zenit~ sovrasta perpendicolarmente
+quel luogo.  La terzina va perci@o, letteralmente, intesa cos@i:
+<Gi@a il sole era giunto a quell'orizzonte il cui meridiano
+sovrasta (|coverchia~) Gerusalemme con il suo punto pi@u alto (lo
+^zenit)~>.  Dalla terzina seguente si intende che si tratta
+dell'orizzonte dalla parte occidentale di Gerusalemme, quindi il
+sole stava tramontando a Gerusalemme e spuntava sul Purgatorio.
+
+	|4-6.  e la notte... soverchia~: si ricordi che
+all'equinozio primaverile, epoca dell'immaginario viaggio,
+essendo il sole nella costellazione dell'Ariete, la notte,
+immaginata quasi come un astro che gira all'opposto del sole, @e
+nella costellazione della Bilancia.  Quando la notte @e pi@u lunga
+del giorno, cio@e |soverchia~ (dopo l'equinozio d'autunno), la
+situazione @e rovesciata e nella costellazione della Bilancia
+entra il sole: cos@i nell'immagine di Dante le bilance cadono
+dalle mani della notte.  Va ancora ricordato che il Gange @e
+considerato l'estremo punto orientale della terra abitata, quindi
+a 90+o~ da Gerusalemme.  Per riepilogare: il sole @e allo ^zenit~
+di Cadice (estremo punto occident. della terra), e sull'orizzonte
+di Gerusalemme esso tramonta; la Notte, all'opposto, e allo
+^zenit~ del Gange; quindi, sull'orizzonte del Purgatorio (agli
+antipodi di Gerusalemme) il sole sorge: ne consegue che sul Gange
+@e mezzanotte e a Cadice mezzogiorno.  Intendi quindi la terzina
+cos@i: e la Notte che gira opposta al sole (|a lui~) usciva fuori
+dal Gange, nella costellazione della Bilancia (la Notte @e
+personificata e immaginata mentre tiene la Bilancia in mano), in
+cui non @e pi@u (le Bilance le cadono di mano) quando essa diventa
+pi@u lunga del giorno (|soverchia~).  |Uscia... soverchia~: si
+potrebbe pensare che questa presunta aggiunta sia stata imposta
+al poeta dalla necessit@a della rima difficile (^coverchia~ del v.
+2 portava con s$e necessariamente |cerchia~ e |soverchia~: infatti
+le tre rime tornano identiche, e con la sola lieve variante
+^ricoperchia~, in ^If~ XXIII 134-138, ^Pg~ XIV 1-3; ^Pd~ XIV
+53-57); ma facile @e obiettare che a Dante non sarebbe stato
+difficile trovare un altro giro di rime.
+
+	|7-9.  s@i che... rance~: poich$e al principiar del giorno
+il cielo da bianco, all'alba, si fa dapprima rosso, all'aurora, e
+poi giallo-arancione al sorgere del sole, il poeta rappresenta la
+progressiva mutazione del colore, personificando l'aurora le cui
+guance sono bianche e vermiglie e poi ^rance.~  Per questa
+raffigurazione dell'aurora, vedi ^1-9 {Nota Bosco}.~  |L@a dov'i'
+era~: sull'isoletta del Purgatorio.  |Per troppa etate~: <per
+vecchiezza>, cio@e, fuori di metafora: essendo passato del tempo. 
+|Rance~: arancione.
+
+	|10-12 {Nota Bosco}.~  Subito dopo la descrizione
+dell'aurora, si ha nel c. II la ripresa evidente d'un motivo del
+canto precedente: i vv. 10-12 richiamano perentoriamente i versi
+118-120 del I canto.  Questa osservazione, affacciata da molti
+lettori, pu@o essere documentata con notazioni precise: le due
+terzine hanno la medesima struttura: il primo verso di ciascuna
+segna la situazione dei due viaggiatori, e ha inizio con un
+imperfetto troncato (|Noi eravam...~; ^Noi andavam...~): segue,
+sempre in ambedue le terzine, un verso che precisa quella
+situazione con una pseudo-comparazione (|come gente...~;
+^com'om...~); infine, l'ultimo verso approfondisce
+psicologicamente il secondo termine di quella comparazione e
+implicitamente il primo (|che va col cuore...~; ^che 'nfino ad
+essa...~).  Notazioni che mettiamo innanzi come spie del fatto
+che questo canto @e la ripresa e lo sviluppo, sentimentale e
+narrativo, del precedente.  Virgilio e Dante, dunque, sono nella
+posizione spirituale di viaggiatori che alla partenza pensano al
+cammino che devono fare, e sono perci@o gi@a in viaggio col cuore,
+mentre il corpo @e ancor fermo.
+
+	|10-12. lunghesso~: preposizione: <lungo, presso>.  @E
+forma arcaica: con |esso~ si rafforzava la preposiz. (lunghesso,
+con esso, sovresso, ecc.).  |Col cuore~: col pensiero, col
+desiderio.  |Dimora~: resta fermo.
+
+	|13-51 {Nota Bosco}.~  Nell'attesa trepida di avanzare,
+pervasa di misterioso timore reverenziale, un fatto nuovo: una
+luce appare sul mare all'estremo orizzonte, e avanza con velocit@a
+superiore a ogni volo terreno; @e, come sapremo presto, un angelo,
+che dalle foci del Tevere, dove si radunano tutte le anime dei
+destinati al Purgatorio, le traghetta qui, a gruppi, su una
+navicella veloce e leggera (contiene solo spiriti) tanto che
+sfiora appena le acque: l'angelo @e evidentemente contrapposto
+all'infernale Caronte.  Il poeta segue con precisione la
+progressione dell'avanzare della creatura celeste: dapprima (17)
+un lume piccolo, delle dimensioni di Marte visto dalla terra, e
+al pianeta @e simile anche nel colore rosso: ma in un istante,
+quanto occorre a Dante per volgersi a Virgilio, staccando gli
+occhi dalla luce, in una muta domanda, esso @e diventato pi@u
+lucente e pi@u grande (19-21).  Subito dopo, appare ai due lati e
+sotto il rosso qualcosa di bianco, ancora indistinguibile (|un
+non sapeva che bianco~, 23); nell'istante successivo, i bianchi
+laterali si palesano come ali (26): a noi lettori congetturare
+che il bianco inferiore @e la veste dell'angelo (il bianco @e il
+colore prevalente delle vesti di tutti gli esseri paradisiaci), e
+che il rosso emana dalla luce intensissima del suo volto.  Quanto
+pi@u s'avvicina, tanto pi@u l'angelo diventa luminoso (|chiaro~,
+37-40), s@i che l'occhio mortale di Dante non pu@o sostenerne la
+vista.  Una descrizione particolareggiata, attenta, si direbbe,
+alla realt@a; eppure basta quel rosso del volto, le ali |dritte
+verso 'l cielo~ (34) per immettere in questa realt@a, vista
+conformemente a esperienze terrene, il senso del soprannaturale:
+raggiunto, questo, anche per il tramite delle arti figurative. 
+Il viso dell'angelo @e rosso come quello degli angeli bizantini,
+per es. quello d'uno dei due angeli tra cui sta Cristo giudice
+nel mosaico del buon Pastore a Sant'Apollinare nuovo di Ravenna
+(l'altro @e azzurro); le ali son dritte secondo la frequente
+presentazione iconografica degli angeli: n$e importa al poeta
+chiarire realisticamente come in quella posizione ferma esse
+possano servire da vele alla navicella (35).  Ma extraumane sono
+soprattutto la facilit@a e sicurezza del viaggio del traghettatore
+|tra liti s@i lontani~ e la solenne sua superiorit@a; |ed el sen
+g@i, come venne, veloce~ (51): senza dire alcuna parola n$e fare
+alcun gesto se non, per benedire, il segno della croce; vede
+certo i due pellegrini sulla spiaggia, vicino al punto dove la
+navicella approda, ma non presta loro alcuna attenzione, intento
+com'@e solo al compito affidatogli da Dio, di traghettatore degli
+espianti: per cos@i dire, s'immerge in esso, immedesimandovisi:
+egli @e solo lo strumento di Dio, tutto il resto non conta.  Allo
+stesso modo, l'angelo mandato da Dio in soccorso dei poeti
+dinnanzi alla citt@a di Dite, appena aperta con estrema facilit@a
+la porta della citt@a, torna indietro per la strada lorda della
+palude Stigia (egli non bagna i piedi in essa, come la navicella
+di questo altro angelo non affonda nell'acqua), ^e non f$e motto a
+noi, ma f$e sembiante / d'omo cui altra cura stringa e morda / che
+quella di colui che li @e davante~ (^If~ IX 101-103).  Appena,
+dopo un attimo di perplessit@a dovuto al fatto che egli non @e nel
+Purgatorio cos@i sicuro di s$e come nell'Inferno, Virgilio si
+accorge dalle ali che si tratta di un angelo, invita
+concitatamente il discepolo a inginocchiarsi e a piegare le mani
+alla preghiera; nella premura, alterna senz'ordine (Porena)
+inviti alla reverenza e notizie (|Ecco l'angel di Dio...~; |omai
+vedrai...~).  Giustamente questa concitazione @e stata avvicinata
+a quella dello stesso Virgilio all'apparire del Messo nella
+palude (^If~ IX 86-87), e a quella di Catone (^Pg~ I 49-51).  Le
+anime prima di sbarcare cantano il salmo che celebra l'uscita
+degli Ebrei dalla servit@u d'Egitto; e Dante stesso (^Cv~ II i 7)
+dice che essa va interpretata come <l'uscita de l'anima dal
+peccato>; dunque il salmo @e assai appropriato non solo alla
+situazione delle anime che lo cantano e che sono uscite dal
+peccato, ma a tutta la cantica di cui @e posto all'inizio: il
+viaggio di Dante su per la montagna verso la libert@a @e simile a
+quello degli Ebrei per raggiungere la terra promessa e la
+libert@a.  Pi@u tardi il poeta dir@a esplicitamente: ^Ahi quanto son
+diverse quelle foci, / da l'infernali!  ch$e quivi per canti /
+s'entra, e l@a gi@u per lamenti feroci~ (^Pg~ XII 112-114).  Gli
+spiriti ora arrivati cantano infatti |tutti insieme ad una voce~
+{47}: non sfugga l'insistenza verbale sull'unanimit@a del sentire,
+che si riflette nell'unisono: anche qui un evidente contrapposto,
+da molti notato, all'Inferno, cio@e agli odi reciproci dei dannati
+e alle discordanze delle voci e dei suoni con cui il regno
+infernale primamente si manifesta (^If~ III 22-30).
+
+	|13.  Ed ecco~: per lo stilema cfr. ^If~ I 31.  |Sorpreso
+dal mattino~: la lezione a testo @e basata sul significato del
+verbo ^sorprendere~ in Dante (^Pg~ I 97 <velare, offuscare>; XXI
+63 <occupare, prendere>; ecc.) oltre al fatto che la lezione
+scartata ^sul presso del m.~ nel senso di <all'avvicinarsi del
+mattino> non @e propria n$e di Dante n$e della lingua del suo tempo. 
+Il senso sarebbe perci@o che Marte rosseggia <avvolto da densi
+vapori allorch$e @e colto dal mattino e quindi invaso, coperto dai
+primi chiarori del mattino> (PETROCCHI, I 189).  |Mattino~ vale
+perci@o qui il primo apparire della luce.
+
+	|14-15.  li grossi vapor~: i vapori densi.  Cfr. ^Cv~ II
+xiii 21: Marte <pare affocato di colore, quando pi@u e quando
+meno, secondo la spessezza e raditade de li vapori che 'l
+seguono>.  Era teoria scientifica del tempo ricavata, come dice
+Dante stesso nel luogo cit. del ^Convivio~, dai ^Meteorologica~
+di Aristotele.  |Gi@u... marino~: ad occidente, sull'orizzonte
+marino.
+
+	|16-18.  s'io ancor lo veggia~: <possa io ancor vederlo>,
+con il |se~ deprecativo (^utinam~) gi@a pi@u volte visto
+nell'^Inferno~.  Il poeta augura a se stesso la propria salvezza;
+infatti quel lume @e l'angelo che conduce al Purgatorio le anime
+ormai salve.  <La formula ottativa (che corrisponde alla speranza
+del poeta di ritornare, dopo morto, nel Purgatorio, e cio@e di
+salvarsi) ha nello stesso tempo valore di attestazione solenne e
+conferma della verit@a di quanto sta per dire: `com'@e vero che lo
+vidi, cos@i possa rivederlo'> (Sapegno).  |Un lume~: @e il volto
+dell'angelo nocchiero, che, per la distanza, appare, ancora
+indeterminatamente, come un lume.  La scena dell'apparizione
+dell'angelo nei versi seguenti @e scandita in un progressivo
+determinarsi della figura del nocchiero celeste.  |Che 'l...
+pareggia~: <che nessun volo d'uccello (|nessun volar~, sogg.) pu@o
+uguagliare (|pareggia~) il suo movimento>.
+
+	|19-21.  Dal qual~: cio@e da quel lume.  |Domandar~:
+costruzione non frequente con l'accusativo della persona a cui si
+chiede; vale <domandar schiarimenti>, <chiedere informazioni>. 
+|Rividil... fatto~: lo rividi divenuto pi@u luminoso e pi@u grande.
+
+	|22-24.  Poi... usc@io~: la visione @e ancora indistinta. 
+Al semplice ^lume~ s'aggiunge ora un qualcosa di bianco ai due
+lati di esso, e un altro di sotto.  Il bianco che appare a destra
+e a sinistra del lume sono le ali (v. 26), quello che compare di
+sotto @e la candida veste dell'angelo.  |Appario~ e |usc@io~, con
+la solita epitesi in ^-o~ dei perfetti ossitoni (= appar@i, usc@i).
+
+	|25-27.  facea~: in altre edizioni: ^fece~ per omogeneit@a
+con gli altri perfetti: ma l'imperfetto della lezione a testo
+sottolinea meglio il perdurare dell'azione.  |Mentre che~:
+finch$e, come il lat. ^dum.~  |I primi bianchi~: le due macchie
+bianche a destra e a sinistra del lume.  |Galeotto~: <nocchiero>. 
+Propriamente <que' marinai che servono le galee> (Boccaccio). 
+Cfr. ^If~ VIII 17 con lo stesso traslato.
+
+	|28-30.   Fa... cali~: inginocchiati.  Cos@i davanti al
+Messo celeste (^If~ IX 87) e, poco prima, davanti a Catone (^Pg~
+I 51), Virgilio aveva fatto inginocchiare Dante in segno di
+riverenza.  |Angel di Dio~: la parola |angelo~ conserva il suo
+valore etimol. di <messaggero>: donde il genit. seguente.  |Piega
+le mani~: <congiungi le mani>, in atto di preghiera, com'@e giusto
+dinanzi ad un ministro di Dio.  |Officiali~: ministri di Dio.
+
+	|31-33.  li argomenti~: gli strumenti, i mezzi.  Cfr.
+^If~ XIX 110.  Gli strumenti umani sarebbero, in questo caso, le
+vele e i remi (v. 32).  |Velo~: vela (lat. ^velum~).  L'uso
+latino del plurale (^vela~), @e diventato, per attrazione della
+desinenza in ^-a~, un femminile singolare (cfr. PARODI, ^Lingua~,
+II 244 ss.).  |Tra liti s@i lontani~: dalla foce del Tevere (vv.
+100-101) all'isola del Purgatorio.
+
+	|35-36.  trattando~: piuttosto che <agitando> @e forse da
+intendere <penetrando>: l'angelo sembra non muovere le ali, che
+ha diritte verso il cielo.  |Che... pelo~: che non mutano o
+finiscono come le penne o il pelo degli animali della terra,
+soggetti alla morte e alla corruzione: le penne dell'angelo sono
+|etterne.~
+
+	|38-40.  l'uccel divino~: l'angelo di Dio.  @E detto
+|uccello~ perch$e ha le ali, con immagine ricavata da Stazio
+(^Theb.~ I 292-293) a proposito di Mercurio, o suggerita per
+contrasto con il diavolo (^malvagio uccello~, in ^If~ XXII 96). 
+|Chiaro~: luminoso.  |Per che~: per cui, per la qual cosa, cio@e
+per l'eccessiva luminosit@a.  |L'occhio... nol sostenne~: l'occhio
+non pot$e sostenerne la vista ora che l'Angelo era vicino (|da
+presso~), mentre non ne era abbagliato quando quel lume era
+ancora lontano.  |Ma chinail giuso~: ma lo chinai, lo abbassai
+gi@u (|giuso~), verso terra.
+
+	|41-42.  vasello~: vascello, nave (cfr. ^If~ XXVIII 79). 
+@E quel ^lieve legno~ di cui ha fatto cenno Caronte (^If~ III 93). 
+Non @e il caso di sottolineare il contrasto tra questo |vasello
+snelletto e leggero~ e la barca infernale del traghettatore
+dell'Acheronte.  D'altronde questi primi canti del ^Purgatorio~
+sono, nel tono stesso generale, voluta antitesi dell'^Inferno.~ 
+|Snelletto e leggero~: i due aggettivi vogliono indicare, il
+primo, la rapidit@a dei movimenti, il secondo la lievit@a del moto,
+perch$e la barca sfiora appena le acque, come se fosse priva di
+peso (cfr. versi seguenti).  Comunque ^snello~ = <veloce> @e
+comune in Dante e la forma in ^-etto~ @e un falso diminutivo
+frequente nell'it. antico.  Cfr. BOSCO, ^Dante~, 244-245 e n. 1. 
+|Tanto... 'nghiottiva~: cfr., per il contrasto con la barca di
+Flegi@as, ^If~ VIII 29-30.
+
+	|43-44.  celestial nocchiero~: anche nella terminologia @e
+evidente l'antitesi con Caronte, il <nocchier de la livida
+palude> (^If~ III 98).  Per amore di simmetria, come
+nell'^Inferno~ anche nel ^Purgatorio~ c'@e un traghettatore che
+conduce le anime alla loro destinazione.  |Tal... descripto~: la
+lezione a testo significa: <tale che solamente descritto, senza
+essere neppure veduto, farebbe beato ogni uomo>; ed @e equivalente
+all'altra lezione vulgata: ^tal che parea beato per iscripto~,
+presente in gran parte delle edizioni, che significa invece:
+<tale che la sua beatitudine pareva scritta sul suo volto>, e che
+pu@o sembrare pi@u efficace.  Il Petrocchi @e giunto alla lezione a
+testo prevalentemente per ragioni di tradizione manoscritta, ma
+riconosce che non si pu@o in senso assoluto accettare o rifiutare
+una o l'altra delle due lezioni.  La grafia latineggiante
+(^descripto~ = <descritto>) @e dovuta a necessit@a di rima.
+
+	|45.  pi@u di cento~: con valore indeterminato: <molti>. 
+|Sediero~: @e imperf. indic. per <sed@iano> (= sedevano), con lo
+spostamento dell'accento e col mutamento frequente nell'it. ant.
+in ^-ro~ della desinenza ^-no~ della terza pers. plur. del pres.
+ind. e cong. e dell'imperf. ind., come dimostr@o, esemplificando,
+il Parodi (^Lingua~, II 255).
+
+	|46.  In exitu... Aegypto~: @e l'inizio del salmo CXIII
+(CXIV del testo ebraico), il canto di liberazione degli Ebrei
+dalla schiavit@u egiziana.  Nella liturgia cattolica questo salmo
+si cantava nell'accompagnamento del defunto al cimitero, perch$e
+lo si interpretava simbolicamente come il canto della liberazione
+dell'anima dai vincoli terreni.  Perci@o Dante, gi@a nel ^Conv.~,
+nello spiegare i quattro sensi delle scritture, prendeva come
+esempio questo salmo, in cui nella lettera il salmista <dice che,
+ne l'uscita del popolo d'Israel d'Egitto, Giudea @e fatta santa e
+libera>, ma nel senso anagogico, o sovrasenso, s'intende che <ne
+l'uscita de l'anima dal peccato, essa sia fatta santa e libera in
+sua potestate> (^Cv~ II i 6-7). In seguito poi, certo dopo la
+stesura di questo canto, Dante ritorn@o nuovamente su questa
+interpretazione del salmo biblico asserendo nell'epistola a
+Cangrande, ormai quasi da tutti ritenuta autentica, che esso
+significa <exitus anime sancte ab huius corruptionis servitute ad
+eterne glorie libertatem> (^Ep~ XIII 21: <l'uscita dell'anima
+santa dalla servit@u di questa corruzione alla libert@a della
+gloria eterna>).
+
+	|47-48.  cantavan... voce~: <Il canto comincia a
+diventare l'espressione pi@u profonda dello stato d'animo degli
+spiriti, e tale rester@a, crescendo, sino alla fine del Paradiso>
+(Momigliano).  Questo canto all'unisono (|ad una voce~) d@a inizio
+a quella `coralit@a' che sar@a una delle note pi@u significative
+della poesia del ^Purgatorio.~  |Scripto~: grafia latineggiante
+(= scritto) comune nei testi antichi, ma qui necessaria per la
+rima con ^Aegypto.~
+
+	|49-51.  Poi... croce~: la benedizione dell'angelo fa
+parte di tutto il cerimoniale liturgico che caratterizza il
+^Purgatorio~, e qui pu@o anche esser voluto contrasto con
+l'atteggiamento dei nocchieri infernali (si pensi in particolare
+a ^If~ III 111).  |Ei si gittar... piaggia~: da questa ansia (che
+ha riscontro nel `gittarsi' dei dannati in ^If~ III 116)
+acquister@a rilievo il successivo indugio degli espianti una prima
+e una seconda volta. |Sen g@i~: se ne and@o.
+
+	|52-54.  selvaggia~: per traslato: <ignara, inesperta>. 
+|Assaggia~: esperimenta, prova per la prima volta.
+
+	|55-57.  Da tutte... Capricorno~: ordina e intendi: il
+sole saettava la sua luce (|il giorno~) da tutte le parti e con i
+suoi dardi infallibili (|saette conte~) aveva cacciato il
+Capricorno dal meridiano.  Tutta la terzina @e intessuta di
+termini venatori (|saettava~, |saette~, |cacciato~); il Sole
+(Apollo, arciere infallibile) era miticamente rappresentato come
+un cacciatore.  |Di mezzo... Capricorno~: quando il sole (che @e
+nella costellazione dell'Ariete) sorge all'orizzonte, il
+Capricorno, che precede di 90+o~, @e sul meridiano (|mezzo 'l
+ciel~).  Procedendo il sole nell'ascesa, la costellazione del
+Capricorno si sposta proporzionalmente dal meridiano e comincia a
+declinare: il sole quindi lo `caccia' via di l@i.
+
+	|58-59.  la nova gente~: gli spiriti che erano appena
+sbarcati.  |Ver' noi~: verso di noi.
+
+	|62-63.  esperti d'esto loco~: pratici di questo (|esto~)
+luogo, del Purgatorio.  |Peregrin~: stranieri, forestieri (cfr.
+^Vn~ XL 6: <@e peregrino chiunque @e fuori della sua patria>).
+
+	|65-66.  per altra via~: per una via diversa dalla
+vostra.  |Aspra e forte~: difficile e malagevole (cfr. ^If~ I 5). 
+|Gioco~: cosa da poco, facile e agevole.
+
+	|68-69.  per lo spirare~: per il respirare, o meglio per
+l'atto di respirare.  In ^If~ XXIII 88 l'aveva detto ^atto de la
+gola.~  |Smorte~: pallide per la meraviglia e lo sgomento.
+
+	|70-72.  E come... ulivo~: il paragone con il messaggero
+recante in mano un ramoscello d'ulivo ad annunziare liete novelle
+non @e solo ricordo classico (Virgilio, ^Aen.~ VIII 116 e XI 101
+(Stazio, ^Theb.~ II 389-390) ma allude a una consuetudine dei
+tempi di Dante, come si apprende dai cronisti dell'epoca
+(Villani, ^Cron.~ XII 105; Agnolo di Tura, ^Cronica Sanese~, in
+MURATORI, ^R.I.S.~ IX 128; ecc.).  |Tragge~: trae, fa accorrere. 
+|Calcar~: far calca, pigiarsi tra la folla.  |Si mostra schivo~:
+evita, rifugge.
+
+	|73-75.  s'affisar~: le anime si `affisano' in Dante,
+come la gente fa calca intorno al messaggero: le due piccole
+folle non hanno dunque in comune i gesti, ma l'ansia di sapere e
+di vedere.  |Fortunate~: perch$e ormai sicure della futura
+beatitudine.  |Farsi belle~: purificarsi, mondarsi dal peccato.
+
+	|76-87 {Nota Bosco}.~  Dal gruppo delle anime se ne
+stacca una, il musico Casella, un amico di giovent@u.  Nella
+^Intr.~ al canto precedente abbiamo detto che nel ^Purgatorio~
+Dante recupera l'umanit@a.  Bisogna ora precisare: anche l'umanit@a
+quotidiana, e in primo luogo la sua propria.  Di questa umanit@a
+parte essenziale, come abbiamo ripetutamente notato, @e Firenze
+come appariva a lui giovane: non tanto la Firenze delle lotte
+politiche, sebbene anche questa nel ^Purgatorio~ non manchi,
+quanto la Firenze domestica, familiare, e in essa lui, Dante, col
+suo bene e col suo male: anche col suo male: si veda l'esplicita
+confessione di ^Pg~ XXII 115-116, e i rimproveri di Beatrice (XXX
+73 ss., XXXI 1 ss.).  Di quella Firenze e della giovent@u son
+parte essenziale gli amici e i maestri: Casella @e il primo d'una
+serie di questi compagni di vita che costellano tutto il ^Purg.~ 
+Il poeta volle cominciare la seconda cantica appunto con la
+rievocazione d'un amico, e scelse quello tra essi che (Chiari)
+per la data prossima se non immediata della morte si prestava a
+essere incontrato subito, tra le anime arrivate nell'isola nello
+stesso momento in cui vi arrivava lui.  Incontrer@a poi Belacqua
+(canto IV), il giudice Nino (VIII), Forese (canti XXIII-XXIV), il
+Guinizzelli (XXVI): ai quali son da aggiungere gli incontri con
+Virgilio di Sordello (c. VI) e di Stazio (XXI).  Ritorna in tutti
+questi episodi, in uno pi@u nell'altro meno articolato, lo stesso
+schema narrativo, spia dell'unit@a dell'ispirazione.  Un moto
+reciproco di affetto d@a inizio all'episodio di Casella: |Io vidi
+una di lor trarresi avante / per abbracciarmi, con s@i grande
+affetto, / che mosse me a far lo somigliante~ (76-78): poi,
+quando l'abbraccio si palesa vano perch$e quello di Casella @e
+corpo aereo, ombra vana |fuor che ne l'aspetto~, e l'amico si
+ritrae, l'altro si spinge avanti a replicare l'abbraccio (83-84). 
+Cos@i per Belacqua: ^quella angoscia / che m'avacciava un poco
+ancor la lena, / non m'imped@i l'andare a lui~ (^Pg~ IV 115-117);
+ma il pigro, pur pieno d'affetto, si limita ad alzare un po' la
+testa, il che per lui era un grande sforzo.  Cos@i il giudice Nino
+^ver' me si fece, e io ver' lui mi fei~ (^Pg~ VIII 52).  Cos@i per
+Sordello, che se ne sta statuariamente immobile, tutto in s$e
+romito, altero e disdegnoso: ma basta che senta nominare la sua
+citt@a perch$e, senza sapere che l'ombra sopravvenuta @e Virgilio (e
+Virgilio non sa chi sia lui), si rizzi verso di lui, si palesi,
+^e l'un l'altro abbracciava~ (VI 70-75); le ^accoglienze oneste e
+liete~ si ripetono ^tre e quattro volte~, prima che Virgilio dica
+a sua volta chi egli sia; e allora Sordello torna ancora
+all'abbraccio, questa volta reverente, qual si addice a chi
+conosce la sua inferiorit@a rispetto a un altro (VII 1-2, 14-15). 
+Lo stesso fervore muove Dante stesso verso il Guinizzelli e solo
+il timore del fuoco in cui il suo maestro di poesia @e immerso lo
+trattiene dal correre all'abbraccio (^Pg~ XXVI 94-96).  Tutti
+questi episodi hanno in comune un secondo elemento strutturale:
+il ritardo, drammaticamente rilevato, del riconoscimento.  Alcuni
+di questi ritardi sono narrativamente giustificati: quelli tra
+Sordello e Virgilio e tra Stazio e Virgilio dal fatto che i due
+protagonisti non si conoscono di persona; quelli tra Dante e
+Belacqua e Dante e Forese si spiegano facilmente: il primo con la
+posizione di Belacqua, che tiene il capo chino tra le ginocchia
+(^Pg~ IV 107-108), e l'altro con la ^cangiata labbia~ di Forese
+per effetto della straordinaria magrezza, conseguenza della fame
+con cui il goloso espia il suo peccato, s@i che solo la voce
+permette a Dante di ravvisarlo.  Ma il ritardo con cui il poeta
+riconosce Casella, trattandosi di un amico e per giunta morto da
+poco, non ha spiegazioni `logiche'.  L'immaginare d'aver
+riconosciuto l'amico solo quando egli parla, serve al poeta per
+indicare nella voce, anzi nella sua soavit@a, il tratto
+caratteristico della personalit@a di Casella, e ci@o avr@a immediato
+sviluppo narrativo; dell'incongruenza `logica' che tanto affatica
+i lettori pedanti, il poeta non si accorge o non si cura.
+
+	|76-78.  trarresi avante~: trarsi, farsi avanti.  |Lo
+somigliante~: la stessa cosa, lo stesso gesto.
+
+	|79.  vane~: inconsistenti.  Per la questione della
+tangibilit@a o meno dei corpi dei trapassati vedi le note a ^If~
+III 69 e ^If~ VI 36.  @E chiaro che le apparenti contraddizioni
+che troviamo lungo il poema, sono giustificabili in campo
+estetico.  Qui Dante ottiene un poetico effetto immaginando la
+scena di questo abbraccio vano, tanto pi@u efficace quanto pi@u
+intenso @e il senso di affettuosa memoria che Dante fa scaturire
+dall'intiero episodio.
+
+	|80-81.  tre volte... petto~: ricordo virgiliano: <Ter
+conatus ibi collo dare brachia circum, / ter frustra comprensa
+manus effugit imago> (^Aen.~ VI 700-701: <tre volte tent@o di
+gettargli le braccia al collo, tre volte l'immagine inutilmente
+gli sfugg@i di mano>).
+
+	|82-84.  Di maraviglia... dipinsi~: manifestai nel volto
+la mia meraviglia.  |Si ritrasse~: si ritir@o, si trasse indietro. 
+|Mi pinsi~: mi spinsi, avanzai.
+
+	|85.  Soavemente~: con dolcezza, con voce dolce. 
+L'avverbio @e in posizione rilevata, al principio di verso. 
+|Posasse~: desistessi, cessassi dal tentativo di abbracciarlo. 
+Nota l'arcaica desinenza in ^-e~ della prima persona del cong.
+imperf. (cfr. PARODI, ^Lingua~, II 256).
+
+	|86-87.  allor... era~: solo ora, dalla voce melodiosa,
+riconosce l'amico; cos@i almeno sembra doversi intendere da questo
+verso; l'abbraccio precedente deve evidentemente interpretarsi
+come un gesto affettuoso in risposta al ^grande affetto~ (v. 77)
+dimostrato da quell'anima.  Se proprio si vuol dare una
+spiegazione al tardivo riconoscimento (ma vedi ^76-87 {Nota
+Bosco}~), si pu@o accettare quella di V. Rossi, secondo il quale
+Dante non riconosce subito Casella perch$e non pu@o passargli per
+la mente che soltanto allora l'amico sia giunto in Purgatorio. 
+|Un poco s'arrestasse~: @e ora Dante a chiedere all'amico di
+fermarsi per poter parlare un po' con lui.
+
+	|88-105 {Nota Bosco}.~  Altri elementi strutturali son
+comuni ai vari episodi: con Casella come con gli altri amici il
+reciproco desiderio di stare insieme quanto pi@u a lungo possibile
+(Forese si accompagna a Dante per lungo tratto; anche un maestro
+incontrato nell'Inferno, Brunetto, gli si era a lungo affiancato:
+^If~ XV 37-42); il bisogno di conoscere l'uno la condizione
+dell'altro, con concitato affollarsi e sovrapporsi di domande
+scambievoli: sono stati acutamente sottolineati dal Pistelli i
+due |ma~ (vv. 90 e 93) con i quali Dante e Casella interrompono
+il discorso, equivalenti a un reciproco `lasciamo di parlare di
+me; dimmi di te': tratto drammatico che ha il suo esatto
+corrispondente nell'episodio di Forese (^Pg~ XXIII 41 ss.). 
+Infine ritorna naturale tra amici che si ritrovano riprendere per
+un momento consuetudini d'un tempo: la musica con Casella, i
+frizzi con Belacqua, la confidenza affettuosa con Forese.  Si
+vedr@a, leggendo la seconda cantica, che anche gli espianti
+rievocheranno spesso persone care lasciate sulla terra: per lo
+pi@u per lodare, ma anche per rammaricarsi d'esserne stati
+dimenticati, essi che non dimenticano.
+
+	|88-90.  Cos@i... sciolta~: le prime parole di Casella
+sono piene di affetto: egli non solo ha amato Dante quand'era
+ancora in vita (|nel mortal corpo~), ma continua ad amarlo anche
+ora che @e libero dai vincoli del corpo (|sciolta~).  L'abbraccio,
+e ora questo inizio del dialogo, creano intorno all'episodio un
+clima di affetto e di memorie.  |Per@o~: perci@o, per questo. 
+|Perch$e vai~?: perch$e fai questo viaggio?; perch$e, ancor vivo,
+passi per il regno dei morti?
+
+	|91.  Casella~: si noti il tono affettuoso di questo
+vocativo in apertura di verso, accompagnato dal pronome
+possessivo.  Casella, secondo gli antichi commentatori, fu un
+musico, fiorentino per i pi@u, pistoiese per l'Anonimo fiorentino. 
+Quando visse precisamente non si sa, anzi notizie sue non ne
+esistono: dovette essere press'a poco contemporaneo del poeta, e
+morire prima della primavera del 1300 (v. 93), cio@e prima del
+momento del viaggio dantesco.  Dato che il nome Casella era
+piuttosto comune nell'antroponimia toscana, nessuna delle
+proposte identificazioni -- Casella-Scarsella ^homo curiae~,
+ricordato nei registri della Biccherna di Siena (D'Ancona),
+Casella fiorentino soggiornante a Bologna tra il 1284 e il 1290
+(Papa) -- pu@o accontentare, anche perch$e i documenti non
+accennano alla professione, cosa che potrebbe convalidarle. 
+Finora unico, possibile riferimento al Casella dantesco, era
+ritenuta l'annotazione contenuta nel ^Cod. Vaticano~ 3214 ad un
+Madrigale di Lemmo di Pistoia: <Et Casella diede il sono>.  Che
+questo musico, amico di Dante, possa aver musicato versi del
+poeta @e pi@u che possibile, ma il fatto che egli canti una
+canzone, che poi il poeta comment@o nel ^Convivio~ (vv. 112-114),
+non richiede necessariamente il fatto.
+
+	|91-92.  per tornar... viaggio~: Dante ribadisce il
+valore salvifico del suo viaggio all'oltretomba, come ha fatto e
+far@a altre volte (cfr. ^If~ XXVIII 48 ss.; ^Pg~ V 61-63; VIII
+59-60; XXVI 58; XXX 136-141; ecc.).  Intendi cos@i i versi: <io fo
+questo viaggio per tornare un'altra volta (dopo la morte) dov'io
+sono (nel Purgatorio)>; evidentemente |l@a dove~ vale il semplice
+<dove>.
+
+	|93.  Ma a te~: si noti il parallelo con v. 90 ^ma tu.~ 
+Il Pistelli fa osservare che <nulla potrebbe esprimere
+l'interessamento scambievole dei due amici meglio di queste due
+domande rotte, rapide, quasi affannose... dove i |ma~
+interrompono un altro discorso incominciato e significano ambedue
+le volte: `|ma~ lasciamo quel che riguarda me, parlami di te, ch$e
+questo solo mi preme'> (^Il canto di Casella~, Firenze 1907, p.
+30).  |Com'@e tanta ora tolta~?: <come mai ti @e stato tolto cos@i
+gran tempo?> cio@e: perch$e essendo morto tempo fa, solo ora giungi
+in Purgatorio?  Questo e i vv. 98-99 fanno supporre che Casella
+sia morto poco pi@u di tre mesi prima della data fittizia del
+viaggio dantesco, ma suscitano una questione pi@u grave e
+complessa: il perch$e di questo ritardo.  Le proposte avanzate
+sono parecchie, ma nessuna soddisfacente.  Come si comprende dai
+versi successivi e precisamente dai vv. 95-105, le anime non
+condannate all'Inferno si riuniscono alla foce del Tevere, dove
+l'angelo, scegliendole secondo il volere di Dio, le traghetta al
+Purgatorio.  Da tre mesi per@o l'angelo ha accolto chi ha voluto
+entrare nella barca, senza far nessuna preclusione.  @E evidente
+il riferimento al Giubileo indetto da Bonifazio VIII il 22
+febbraio 1300 (il primo Giubileo della Chiesa) che fissava la
+possibilit@a di lucrare le indulgenze dalla vigilia di Natale
+1299.  I ^tre mesi~ ricordati al v. 98 sono appunto quelli che
+intercorrono da quella data al momento della visione.  Il
+problema @e dunque perch$e se da tre mesi l'angelo ha accolto ^chi
+ha voluto intrar~ (v. 99), Casella sia giunto in Purgatorio solo
+ora.  Ipotesi abbastanza logica pu@o sembrare esser quella che
+ritiene che queste anime non entrano nel ^vasello~ finch$e non se
+ne sentono degne.  (Cfr. <Studi d.> XXX 209).  Si tratterebbe
+cio@e di qualche cosa di simile alla teoria della liberazione
+delle anime del Purgatorio, per la quale vedi ^Pg~ XXI 61 ss.  Ma
+anche questa ipotesi (si tralasciano ovviamente quelle
+cervellotiche) non ha conferma nelle parole del poeta che del
+fatto non d@a alcuna spiegazione.  Sicch$e conviene rimanere alla
+spiegazione del D'Ovidio: che il ritardo di Casella fu immaginato
+da Dante per suggestione dell'episodio virgiliano di Palinuro
+(^Aen.~ III 201 ss., V 835 ss.) non traghettato da Caronte perch$e
+insepolto; immaginazione necessaria per includere nel gruppo
+d'anime arrivanti un amico che desse per cos@i dire il tono di
+affettuoso ricordo a tutta la cantica; e non era certo facile al
+poeta, soggiunge il Porena, trovare per questa sua necessit@a un
+amico che fosse morto proprio la notte in cui Dante giungeva al
+Purgatorio.
+
+	|94-95.  oltraggio~: torto, ingiustizia.  |Quei...
+piace~: l'Angelo nocchiero, che fa salire sulla barca le anime,
+trascegliendole secondo il volere di Dio; eco virgiliana: ^Aen.~
+VI 315-316.
+
+	|97.  ch$e.. face~: perch$e il volere dell'angelo (|lo
+suo~, sott. <volere>) deriva (|si face~) da un volere giusto,
+quello cio@e di Dio, che @e giustizia suprema.
+
+	|98-99.  veramente~: tuttavia (lat. ^verum~, ^vero~), con
+senso avversativo.  |Da tre mesi~: dall'inizio del Giubileo.  Si
+ripete normalmente dai commentatori che le indulgenze concesse
+col Giubileo fossero applicabili ai defunti ^per modum
+suffragii.~  Ma in realt@a la bolla ^Antiquorum habet~ del 22
+febbraio 1300 con la quale Bonifazio VIII promulgava il Giubileo
+con il lucro delle indulgenze dal 25 dicembre 1299 fino al Natale
+successivo, non parla affatto di indulgenze applicabili ai
+defunti (vedi il testo della ^Bolla~ in <Studi d.> XXX 207-208). 
+L'applicabilit@a ai defunti delle indulgenze giubilari fu concessa
+solo nel 1457 da Callisto III; ma poich$e gi@a i teologi del
+Duecento (in particolare San Tommaso) sostenevano che le
+indulgenze concesse dalla Chiesa erano applicabili ai defunti, e
+tale era anche la credenza comune, @e evidente che Dante fa sua
+questa concezione.  |Con tutta pace~: senza opposizione.
+
+	|100-102.  ch'era... s'insala~: che mi ero rivolto allora
+(|ora~) sulla marina dove l'acqua del Tevere diventa salata
+(|s'insala~), cio@e entra nel mare.  L'avverbio |ora~ per@o non @e
+chiaro: Casella sembra voler dire che solo in quel momento era
+giunto sulla riva del mare; ma dov'era stato prima, se dal v. 93
+si comprende che era passato parecchio tempo dalla sua morte? 
+Oppure gi@a da tempo era su quella riva e guardava verso il mare
+in attesa del suo turno?  Sono domande a cui @e difficile dare una
+risposta.  |Ricolto~: accolto nella barca.
+
+	|103-105.  quella foce~: quella del Tevere.  |Per@o... si
+cala~: perch$e (|per@o che~) alla foce del Tevere (|quivi~) si
+raccolgono tutte le anime che non sono destinate all'Inferno.  Da
+^If~ III 70 ss. si sa che le anime dannate si raccolgono invece
+sulla ^trista riviera d'Acheronte.~  Altro parallelismo tra le
+due cantiche.
+
+	|106-114 {Nota Bosco}.~  Dante chiede all'amico ritrovato
+di cantare come un tempo faceva, e il canto acquetava i suoi
+dolori.  Casella intona subito una canzone dello stesso Dante:
+questi, le anime ora giunte, lo stesso Virgilio, si fanno
+prendere dalla melodia, come se fossero dimentichi di tutto: le
+anime e Dante anche del dovere di affrettarsi alla montagna; ne
+son presi tutti, perch$e universale @e il potere della musica (in
+^Cv~ II xiii 24 Dante dice che la musica <trae a s$e li spiriti
+umani... s@i che quasi cessano da ogni operazione>).  Certo, in
+questo famosissimo episodio, Dante celebra la potenza della
+musica, il rapimento spirituale in cui essa trascina; ma su
+questo tema prevale il ricordo personale degli incontri
+fiorentini di lui giovane con l'amico musico: mentre questi
+allora cantava, come ora nel Purgatorio, solo la musica toccava
+la sua mente (117).  @E una consuetudine di vita comune questa che
+qui @e ricordata; ci si palesa un Dante diverso dal poeta e
+dall'uomo tutto ferrigno che ci appare in tante altre pagine di
+lui.  Ma questa @e l'immagine che prevalentemente il poeta vuol
+darci di s$e stesso nel ^Purgatorio.~  Sulla dolcezza del canto di
+Casella il poeta insiste in modo singolare: |cominci@o elli allor
+s@i dolcemente / che la dolcezza ancor dentro mi suona~ (113-114). 
+Non @e da trascurare la considerazione che la nozione di dolcezza
+sembra in Dante sempre connessa con quella stessa di musica.  Pi@u
+volte egli qualifica ^dolce~ il canto dei beati (^Pd~ XV 4, XXI
+59, XXIII 128-129, il quale ultimo passo @e particolarmente vicino
+a questo di cui ora parliamo: le schiere di Cristo trionfante
+ritornano all'Empireo ^cantando s@i dolce, / che mai da me non si
+part@i 'l diletto~).  Simile per l'effetto al canto di Casella
+(unico canto profano, @e stato osservato, del Purgatorio; gli
+altri sono di preghiere) @e poi quello di una delle anime della
+Valletta: ^`Te lucis ante' s@i devotamente / le usc@io di bocca e
+con s@i dolci note, / che fece me a me uscir di mente; / e l'altre
+poi dolcemente e devote / seguitar lei...~ (VIII 13-17).  ^Dolce~
+@e la melodia che corre pel Paradiso terrestre (^Pg~ XXIX 22-23:
+cfr. anche 36); la dolcezza del proprio canto riempie di s$e la
+stessa cantatrice, l'allodola (^Pd~ XX 73-75); non altrimenti che
+dolci son qualificati il suono della giga e arpa (^Pd~ XIV
+118-119), o dell'organo (^Pd~ XVII 43-44).  Tuttavia in questa
+dolcezza del canto di Casella c'@e forse qualcosa d'altro e di
+specifico.  Dante nella prima giovent@u fu essenzialmente poeta,
+non ancora, oltre che poeta, pensatore e politico; e pi@u
+precisamente poeta d'amore: le sue opere di allora (^Rime~, ^Vita
+nuova~) non ci testimoniano altri interessi che letterari.  @E
+naturale dunque che nel suo ricordo al centro della sua giovent@u
+ci fosse quel vittorioso avvenimento letterario di cui egli fu
+promotore insieme a pochi suoi amici: il nuovo modo, lo ^stil
+novo~ di far poesia.  Uno stile che egli nel ^Purgatorio~, in
+quell'episodio di Forese che abbraccia (canti XXIII-XXIV) tutta
+la giovent@u di lui e quindi anche la grande avventura letteraria,
+definisce ^dolce~ (^Pg~ XXIV 57): un aggettivo non generico, ma,
+con i suoi sinonimi <leno> e <soave> (tale @e, si badi, la voce di
+Casella anche quando egli non canta, v. 85) da Dante usati
+altrove, e con il suo opposto ^aspro~, inerente al <suono de lo
+dittato> (^Cv~ IV ii 13; si ricordi quel che abbiamo detto sullo
+stile aspro dell'^Inferno~, ^Intr.~ e ^Note Bosco~ a ^If~
+XVIII-XIX-XXXII, ecc.): @e questione dunque di una determinata
+tonalit@a poetica, conseguibile mediante l'uso di appropriati modi
+stilistico-linguistici, che @e possibile in parte individuare
+(Bosco, ^Dante~, 32 ss.).  Sulla dolcezza o soavit@a quale
+connotazione essenziale del nuovo stile, Dante insiste pi@u volte,
+e sempre, si badi, in connessione con la materia amorosa, giacch$e
+l'altra connotazione dello stilnovo @e appunto il trattare
+d'amore, e d'amore nella sua elevatrice essenza morale.  La
+dolcezza nasce nel cuore a chi sente parlare Madonna (^Ne li
+occhi porta~, 9-10, ^Vn~ XXI); il pensiero della donna gentile
+parlava al poeta <d'amor s@i dolcemente, / che face consentir lo
+core in lui> (^Gentil pensero~, 3-4, ^Vn~ XXXVIII).  Ma si legga
+la III canzone del ^Conv.~, nella quale appunto son contrapposte
+<Le dolci rime d'amor> alla <rima aspr' e sottile> conveniente a
+materia dottrinale; e il poeta aggiunge: <diporr@o gi@u lo mio
+soave stile, / ch'i' ho tenuto nel trattar d'amore> (vv. 10-11). 
+In quella stessa canzone ^Amor che ne la mente~, che Dante
+immagina sia nel Purgatorio cantata da Casella, si legge che il
+discorso di Amore <s@i dolcemente sona, / che l'anima ch'ascolta e
+che lo sente> si lamenta di non essere in grado di lodare
+adeguatamente la donna; e, commentando, Dante esplicitamente
+spiega che <sentire> @e <quanto a la dolcezza del suono> (^Cv~ III
+iii 15).  Si veda ancora un passo del ^De vulgari eloquentia~ (I
+x 3-4), e soprattutto la lode che Dante, qui nel ^Purgatorio~, fa
+del Guinizzelli come dell'iniziatore dello stilnovo: ^padre / mio
+e de li altri miei miglior che mai / rime d'amor usar dolci e
+leggiadre~ (^Pg~ XXVI 97-99).  A questo punto, si ripensi alla
+richiesta specifica che Dante rivolge a Casella, d'un |amoroso
+canto~: @e chiaro che la dolcezza di esso @e connessa con la natura
+amorosa, cio@e stilnovistica, del testo dei versi che il suo amico
+era uso musicare o semplicemente cantare.  Il fatto @e per@o che
+^Amor che ne la mente~ @e una canzone, la quale a tenore del
+commento che Dante ne fa nel III trattato del ^Convivio~, non @e
+d'amore ma dottrinale, di lode alla filosofia; e le poesie
+dottrinali non erano di regola musicate.  In verit@a, se quel
+commento non ci fosse, sarebbe assai difficile pensare che le
+lodi siano dirette a un'entit@a astratta e non a una donna; e se,
+basandosi sul carattere sacro di alcune lodi, lo si pensasse,
+allo stesso modo allegorico bisognerebbe interpretare anche altre
+poesie, dove s'incontrano consimili lodi, e che invece ci sono
+dal poeta offerte come rime stilnovistiche: in particolare,
+proprio la canzone ^Donne ch'avete~ che Dante pone (^Pg~ XXIV
+49-51) come tipica canzone dello stilnovo.  Anche la canzone ^Voi
+che 'ntendendo~, prima tra le canzoni commentate nel ^Convivio~,
+a proposito della quale Dante nel commento interpreta come
+filosofia la <donna gentile> della ^Vita nuova~, @e del tutto nel
+clima della ^Vita nuova~ stessa.  Che se, per es., della
+destinataria di ^Amor che ne la mente~ si dice che da lei <nostra
+fede @e aiutata: / per@o fu tal da etterno ordinata> (53-54), di
+Beatrice, lodata in ^Donne ch'avete~, @e detto che Amore pensa che
+ella non pu@o essere <cosa mortale>, e riguardandola <fra se
+stesso giura / che Dio ne 'ntenda di far cosa nova> (45-46) e se
+<Ab aeterno ordinata sum> dice la Sapienza di s$e medesima in un
+testo biblico (^Prov.~ VIII 23), non @e questa certo la sola
+reminiscenza biblica cui il poeta ricorra per celebrare donne
+terrene.  Del resto, se si legge il commento Barbi-Pernicone alle
+^Rime~ di Dante, si vedr@a che i due commentatori debbono
+istituire continui raffronti fra ^Amor che ne la mente~ e ^Donne,
+ch'avete~: non solo le due canzoni hanno la medesima struttura,
+ma ritornano in ambedue gli stessi motivi, e persino immagini,
+stilemi, parole chiave dello stilnovo (per es. `gentile',
+`valore', ecc.); i vv. 14-18 della prima potrebbero essere
+assunti come paradigma stilnovistico, comprendente persino la
+celebre definizione di ^Pg~ XXIV 52-54; stilnovistico @e anche
+l'impianto delle rime (Baldelli).  Del resto, lo stesso motivo
+iniziale, Amore che sta o parla nella mente, e il motivo generale
+della lode sono tipicamente stilnovistici.  Si aggiunga soltanto
+che della donna-filosofia si lodano gli <occhi> e il <dolce riso>
+(57): sono proprio le due bellezze che le Virt@u pregheranno
+Beatrice di svelare a Dante (^Pg~ XXXI 133-138): Beatrice, donna
+stilnovistica per eccellenza, trasumanata, s@i, allegorizzata come
+teologia, e tuttavia sempre donna.  Tutto ci@o e, in definitiva,
+il fatto che lo stesso Dante chiama ^Amor che ne la mente~ un
+|amoroso canto~, pu@o costituire una riprova della tesi che,
+nonostante autorevoli pareri in contrario, oggi prevale: questa,
+come ^Voi che 'ntendendo~ e altre poesie, erano originariamente
+d'amore, s'intende spiritualizzato, e quindi stilnovistiche, e
+solo pi@u tardi allegorizzate dal poeta.  Dice il Marti che
+Casella, quando ancor vivo musicava quella canzone, <rivestiva di
+note quello che per lui dovevano essere dolcissimi versi di
+amore.  A lui non interessavano le intenzioni allegoriche di
+Dante, ammesso che queste gli fossero note all'atto della
+creazione musicale>.  Ancor pi@u decisamente, si pu@o affermare che
+quando Casella componeva o cantava, nel tempo al quale il ricordo
+del poeta si riferisce, quella e altre poesie erano d'amore non
+solo per Casella ma per lo stesso Dante: l'allegorizzazione
+risale al tempo del ^Convivio~, posteriore alla morte di Casella. 
+Insomma, Dante poteva evidentemente immaginare che Casella
+cantasse una qualsiasi altra poesia sua; se scelse ^Amor che ne
+la mente~, e la qualific@o come d'amore, dicendola anche `dolce',
+ci@o non pu@o essere spiegato che con due ipotesi: o che quella
+fosse una canzone effettivamente musicata da Casella (o che egli
+fosse solito cantare), ma un'aderenza cos@i scrupolosa al dato
+biografico non sembra potesse avere agli occhi di Dante, e nel
+contesto dell'episodio, molta importanza; ovvero, pi@u
+verosimilmente, che il poeta volesse ora riaffermare, di l@a del
+^Convivio~, il valore lirico-stilnovistico della canzone, che
+permaneva dopo l'allegorizzazione.  Come dice nel proemio del
+^Convivio~, con questa nuova opera egli non intendeva alla ^Vita
+nuova~ <in parte alcuna derogare, ma maggiormente giovare per
+questa quella> (^Cv~ I i 16).  Naturalmente, se @e vera la seconda
+ipotesi ora esposta, @e vero anche il contrario: che lo
+stilnovismo nel Purgatorio riaffermato non deroga al ^Convivio.~ 
+L'episodio di Casella, dunque, @e il primo momento d'un recupero,
+attraverso il ricordo degli anni della sua umanit@a giovane, sia
+di Firenze e degli amici, sia dello stilnovo, che del resto @e
+frutto d'un piccolo sodalizio d'amici, e fuori di questa coralit@a
+non si comprenderebbe appieno.  Recupero, questo dello stilnovo,
+che si svolger@a lungo tutto il ^Purgatorio~ e avr@a negli ultimi
+canti il suo coronamento, s@i che tutta la cantica sembra
+convergere verso di esso, come a una delle sue mete principali:
+nella correzione stessa (canto XVIII) della fondamentale tesi
+stilnovistica di amore come signore; nella nuova interpretazione
+che, in base a quella correzione, il poeta ne fa nell'incontro
+con Bonagiunta (canto XXIV); qui la nuova scuola @e definita nella
+sua `vera' essenza e se ne registra la vittoria; in quello col
+Guinizzelli se ne celebra il maestro; per Matelda (c. XXVIII) il
+poeta riprende immaginazioni e tematiche proprie dello stilnovo,
+pur conferendo a esse nuovi significati; Beatrice (canti
+XXX-XXXII) @e creatura celeste, ma resta la donna fiorentina un
+giorno contemplata nelle chiese, nelle feste, per le vie di
+Firenze.  Un acutissimo studioso ha pensato che Dante nel
+^Purgatorio~, ripudiata la razionalit@a strenua del ^Conv.~,
+riaffermi la necessit@a dell'esperienza mistica per giungere a
+Dio, necessit@a che gi@a gli era balenata, prima degli studi di
+filosofia, all'epoca della ^Vita n.~  In verit@a, l'insufficienza
+in s$e della pura razionalit@a per quel che concerne i massimi
+problemi e la salvezza non @e a fondamento del solo ^Purgatorio~,
+anzi @e una delle idee madri di tutta la ^Commedia~, e avr@a
+soprattutto nel ^Paradiso~ la sua definizione anche teorica,
+saggiata sotto i pi@u vari aspetti; ma ci@o non vuol dire che Dante
+rinunci mai alla razionalit@a pi@u avanzata: senza di essa la
+^Commedia~ non sarebbe concepibile.  La stessa conclusione finale
+del viaggio oltremondano non @e affatto mistica (^133-142 {Nota
+Bosco}~ a ^Pd~ XXXIII).  Dante dunque recupera lo stilnovo, sia
+in sede autobiografica e nostalgica, sia perch$e egli ormai lo
+vede in maniera diversa, e pu@o reinterpretare l'opera <fervida e
+passionata> della giovinezza alla luce dell'et@a ormai provetta. 
+Vedremo leggendo il canto XXIV, dove essa @e esplicita, in che
+cosa tale reinterpretazione consista: nei canti che lo precedono,
+a cominciare da questo II, essa @e adombrata via via attraverso
+situazioni, fantasie, meditazioni, sicch$e alla fine il giovanile
+amore-passione pu@o essere esplicitamente presentato come
+amore-virt@u; la reinterpretazione trionfa in Beatrice, creatura
+terrena e celeste.
+
+	|106-108.  nuova legge~: la legge dovuta alla nuova
+condizione in cui Casella si trova, e come morto e come anima del
+Purgatorio.  |Memoria o uso~: il ricordo della tua arte o la
+facolt@a di poter cantare.  Una nuova legge, che Dante ignora,
+potrebbe rendere immemori queste anime della loro arte, o
+potrebbe vietarne l'uso.  |Amoroso canto~: probabilmente
+l'espressione indica, <tecnicamente, il canto monodico,
+strettamente legato alla lirica di alto stile provenzale o
+provenzaleggiante> (Sapegno).  |Che... doglie~: che soleva
+placare ogni mio affanno, ogni mio dolore.  La lezione |doglie~ @e
+scelta dal Petrocchi (I 191) perch$e risponde perfettamente
+all'anima ^affannata~ del v. 111.  La lezione ^voglie~, a lungo
+preferita, poteva essere interpretata sia come <desideri> sia
+come <passioni>; ma questa seconda interpretazione sarebbe
+preferibile, dovendo sempre corrispondere ad ^affannata.~ 
+Comunque, si sarebbe sempre trattato di desideri cos@i forti da
+affannare, e dunque passioni essi stessi.  Dante nel ^Convivio~
+(II xiii 24) afferma che <la Musica trae a s$e li spiriti umani,
+che quasi sono principalmente vapori del cuore, s@i che quasi
+cessano da ogni operazione: s@i @e l'anima intera, quando l'ode, e
+le virt@u di tutti [gli spiriti] quasi corre a lo spirito
+sensibile che riceve lo suono>.  E il Boccaccio riferisce che
+Dante in giovent@u <si dilett@o in suoni e in canti> e che fu amico
+di musicisti (^Trattatello in laude di Dante~, I redazione, 118).
+
+	|109-111.  di ci@o~: con ci@o, con il tuo canto. 
+|Persona~: corpo.  Cfr. ^If~ VI 36.  |Venendo qui~: doloroso e
+lungo @e stato il viaggio, attraverso l'Inferno, per giungere al
+Purgatorio, e come stanco @e il corpo, cos@i affannata @e l'anima:
+il canto potr@a consolarla.  |@E affannata~: si @e affannata.  Cfr.
+AGENO BRAMBILLA, in <Studi d.> XLIII (1966) 74-75.
+
+	|112.  'Amor... ragiona'~: @e il primo verso della seconda
+canzone del ^Convivio~ che Dante comment@o nel III trattato per
+dimostrare che la donna cantata era la Filosofia e non una donna
+reale.  La canzone @e legata a tutta la complessa questione
+dell'episodio della `Donna gentile' della ^Vita Nuova~ e
+dell'interpretazione allegorica che di essa Dante fa nel terzo
+trattato del ^Convivio.~  La questione esula da un commento alla
+^Commedia~: si pu@o per@o dire che il fatto di porre in bocca a
+Casella ^Amor che ne la mente mi ragiona~, come da un lato lascia
+adito a pensare che il fiorentino avesse musicato versi del poeta
+e quindi anche questa canzone, dall'altro fa inclinare
+decisamente all'opinione di molti esegeti moderni che ritengono
+questa una canzone originariamente amorosa (probabilmente
+composta per la `Donna gentile' della ^Vita Nuova~) e solo pi@u
+tardi interpretata allegoricamente.  Il riconoscere quindi
+risolutamente l'originaria natura lirico-amorosa e non dottrinale
+della canzone (vedi ^106-114 {Nota Bosco}~), rende superflue le
+discussioni che si sono avute dall'Anonimo fiorentino in poi
+circa il fatto che le canzoni dottrinali non erano musicabili;
+anche i dubbi sulla musicabilit@a delle canzoni in genere sembrano
+fugati da un'attenta indagine del Marti (vedi anche MONTEROSSO in
+^E.D.~, s. v. ^canzone~).  Si noti comunque che Dante non dice
+che Casella cant@o la canzone tutta intera: pu@o essersi limitato
+alla prima stanza; e di isolate stanze di canzoni musicate resta
+qualche esempio: cosa da rilevare anche se la `stanza di
+canzone', misura metrica autonoma, ha talora struttura diversa da
+quella di una delle stanze di una canzone a pi@u stanze.  Va
+escluso che Casella cantasse, come qualcuno ha detto, solo il
+primo verso, perch$e gli astanti restarono <fissi e attenti a le
+sue note>, il che implica una certa durata.
+
+	|113-114.  cominci@o... mi suona~: sulla `dolcezza' del
+canto, si veda ^106-114 {Nota Bosco}~; e si noti, in aggiunta,
+quante volte negli esempi col@a addotti torni identico e con lievi
+varianti il sintagma consecutivo `s@i dolcemente (o s@i dolce)
+che...': costante stilistica rispondente a una constante
+spirituale.
+
+	|115-133 {Nota Bosco}.~  Il Purgatorio @e ricco d'indugi. 
+Quello delle anime sopraggiunte, di Dante e di Virgilio che si
+fanno prendere dalla musica di Casella, |come a nessun toccasse
+altro la mente~ (117), fa seguito a un altro indugiare: quando le
+anime si accorgono che il poeta @e ancor vivo, gli si accalcano
+intorno ^quasi obl,iando d'ire a farsi belle~ (75).  Le anime
+dell'Antipurgatorio sanno di dover aspettare e non si affrettano:
+Manfredi e i suoi compagni (canto III) camminano, s@i, ma sembrava
+che stessero fermi, ^s@i ven,ian lente~: Belacqua (canto IV) sembra
+al poeta addirittura il fratello della pigrizia; Sordello (canto
+VI) appare ai due poeti immobile.  Non solo nell'Antipurgatorio,
+ma anche nel Purgatorio, anzi verso la cima della montagna, non
+sembra a Dante una bestemmia quella di Stazio (^Pg~ XXI 100-102),
+il quale dice che egli la gioia di aver conosciuto Virgilio di
+persona la pagherebbe ora ritardando d'un anno la sua ascesa al
+cielo; Dante stesso, quando Virgilio lo ha ormai lasciato libero
+di s$e stesso, s'immerge lento lento nella foresta: un
+trasognamento simile a questo in cui lo immerge, insieme alle
+altre anime, il canto di Casella; e di rapimenti, smemoramenti,
+estasi, sogni @e ricca tutta la cantica (^Intr.~ a ^Pg~ I).  Vero
+@e che le anime affrettano col desiderio il momento di salire al
+cielo; ma l'impazienza non @e del Purgatorio: la volont@a divina @e
+una sola cosa con la volont@a dei singoli; essi esercitano la
+virt@u sovrannaturale della pazienza nell'attesa fiduciosa
+(Petrocchi).  Non solo: ma l'ansia di espiare @e compenetrata,
+secondo la comune e giusta opinione, d'una ancora superstite
+umanit@a: l'uomo, pur ansioso di avviarsi per la via del bene, pu@o
+farsi prendere da sentimenti terreni: le meraviglie d'un
+inaspettato fatto straordinario, la dolcezza d'una musica,
+l'amore per un maestro, la gioia un po' stanca di esser giunto
+alla fine d'un lungo, faticoso, difficile viaggio.  Una
+negligenza, una lentezza, certo: questo rimprovera Catone, con
+parole a cui la reminiscenza classica (qui ^Aen.~ II 373),
+presente quasi sempre, come sappiamo, nei momenti culminanti, non
+toglie davvero valore religioso.  Certo, la voce di Catone @e la
+voce stessa di Dante: per salire bisogna sciogliersi dalla terra,
+dai suoi allettamenti anche non peccaminosi: perci@o l'episodio di
+Casella @e coronato da questo rimprovero che gli conferisce, di l@a
+dal ricordo e dall'affetto, significato religioso.  Perci@o
+Catone, improvvisamente e misteriosamente riapparso, severamente
+rimprovera quegli spiriti lenti; e questi si affrettano a correre
+verso la montagna e l'espiazione.  Anche Virgilio e Dante si
+affrettano.  La colpa di Virgilio non consiste naturalmente nel
+ritardare l'espiazione; egli tuttavia ha permesso a Dante un
+colpevole indugio.  Ma non bisogna spingersi troppo in questa
+direzione, come oggi si tende a fare: l'indugio di Virgilio @e,
+insomma, considerato da Dante ^picciol fallo~ (^Pg~ III 7-9); e
+se la dolcezza del canto suona dentro Dante ancora mentre scrive
+(114), ci@o vuol dire che anche fuori della finzione narrativa lo
+scrittore non considerava grande peccato il compiacersi delle
+cose belle e innocenti che la vita ci offre e che ci consolano,
+l'orgoglio per le alte speranze concepite e per le nobili imprese
+compiute.
+
+	|116-117.  eran~: concordanza a senso, perch$e il soggetto
+|gente~ @e singolare.  |Con lui~: con Casella.  |Come... mente~:
+come se nessuno avesse altro pensiero.
+
+	|119-120.  ed ecco~: il solito stilema che segna un
+improvviso mutamento di scena, o l'apparizione di qualche cosa di
+nuovo (cfr. ^If~ I 31).  |Il veglio onesto~: Catone.  Per il
+significato di ^onesto~, cfr. ^If~ X 23.  Vedi anche nota a ^Pg~
+III 11.  |Gridando~: gerundio con valore di participio presente
+(che gridava), frequentissimo nell'it. antico.  |Lenti~: pigri,
+infingardi.
+
+	|121-123.  stare~: fermata, indugio; l'infinito ha valore
+di sostantivo.  Cfr. Virgilio, ^Aen.~ II 373-374.  |Lo scoglio~:
+la scorza, la scaglia; il vocabolo, pi@u propriamente e
+solitamente ^scoglia~ dal lat. ^spolia~, indicava la pelle di cui
+si spogliano i serpenti, o la scorza dei frutti.  Non va confuso
+con ^scoglio~ = <rupe> che deriva dal latino ^scopulum.~  Qui per
+metafora vale l'impurit@a dei peccati, che come una `scorza' resta
+intorno all'anima e impedisce quindi la visione di Dio.
+
+	|124-126.  biado~: arc., <biada>.  |L'usato orgoglio~:
+l'atteggiamento pettoruto, col collo gonfio nell'incedere,
+caratteristico dei colombi quando camminano.
+
+	|127-129.  ond'elli~: di cui essi.  |L'esca~: il cibo. 
+|Maggior cura~: preoccupazione maggiore; quella cio@e di mettersi
+in salvo.
+
+	|130-132.  masnada~: schiera, gruppo: senza senso
+peggiorativo.  @E francesismo; vedi nota a ^If~ XV 41.  |Fresca~:
+giunta di recente, da poco.  |Fuggir~: in altre edd.: ^e gire.~ 
+La lezione a testo @e in pi@u preciso rapporto sia con la
+similitudine sia con ^Pg~ III 1 (^subitana fuga~).  |La costa~:
+l'erta, il pendio del monte.  |Dove riesca~: dove vada a finire. 
+Le anime alle parole di Catone fuggono e si dirigono a caso,
+verso il monte, ma senza avere un punto preciso da raggiungere.
+
+	|133.  n$e... tosta~: n$e il nostro allontanamento fu meno
+sollecito e frettoloso.

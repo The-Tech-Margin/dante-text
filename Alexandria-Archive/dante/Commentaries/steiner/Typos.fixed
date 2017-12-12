@@ -1,0 +1,494 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id JAA10263
+	for <steve@avalon.dartmouth.edu>; Sun, 18 Jan 1998 09:38:02 -0500
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id JAA21729
+	for <Steve.Campbell@Dartmouth.EDU>; Sun, 18 Jan 1998 09:38:01 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 4705 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <543683-15902>; Sun, 18 Jan 1998 08:49:14 -0500
+Received: from yuma.Princeton.EDU (bobh@yuma.Princeton.EDU [128.112.128.14]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id IAA03415 for <Steve.Campbell@dartmouth.edu>; Sun, 18 Jan 1998 08:49:05 -0500
+Received: (from bobh@localhost)
+	by yuma.Princeton.EDU (8.8.8/8.8.8) id IAA13309
+	for Steve.Campbell@dartmouth.edu; Sun, 18 Jan 1998 08:49:04 -0500 (EST)
+Message-Id: <199801181349.IAA13309@yuma.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sun, 18 Jan 1998 08:49:04 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+
+			STEINER.ERR
+
+{These as of 1/17/98; about 350 in all; very sloppy editing.}
+
+caccera		caccer@a	Steiner (Inf. 1)
+peccanto	peccante 	Steiner (Inf. 1)
+slcuni		alcuni  	Steiner (Inf. 1)
+stado		stato		Steiner (Inf. 1)
+tentanto	tentato 	Steiner (Inf. 1)
+trentancinquesimo  trentacinquesimo  Steiner (Inf. 1)
+triditori	traditori 	Steiner (Inf. 1)
+umama		umana		Steiner (Inf. 1)
+vira		vita		Steiner (Inf. 1)
+
+tramontanto	tramontato 	Steiner (Inf. 2)
+
+balenavao	balenava 	Steiner (Inf. 3)
+des@i		des@io		Steiner (Inf. 3)
+giustiza	giustizia 	Steiner (Inf. 3)
+ossevazione	osservazione	Steiner (Inf. 3)
+paragonadosi	paragonandosi 	Steiner (Inf. 3)
+
+riusirebbe	riuscirebbe 	Steiner (Inf. 4)
+temperaza 	temperanza	Steiner (Inf. 4)
+
+aumemta  	aumenta		Steiner (Inf. 5)
+commentantori 	commentatori	Steiner (Inf. 5)
+dano 		danno		Steiner (Inf. 5)
+definsce 	definisce	Steiner (Inf. 5)
+Miosse 		Minosse		Steiner (Inf. 5)
+
+ascoltadone 	ascoltandone	Steiner (Inf. 6)
+epressione 	espressione	Steiner (Inf. 6)
+
+attestanto 	attestando	Steiner (Inf. 7)
+ironicamemte 	ironicamente	Steiner (Inf. 7)
+
+riusir@a 	riuscir@a	Steiner (Inf. 8)
+
+facasso 	fracasso	Steiner (Inf. 9)
+VIIII 		VIII		Steiner (Inf. 9)
+
+atichit@a 	antichit@a	Steiner (Inf. 10)
+combattutta 	combattuta	Steiner (Inf. 10)
+imfernale 	infernale	Steiner (Inf. 10)
+oonsiderata	considerata	Steiner (Inf. 10)
+ottaviao	ottaviano	Steiner (Inf. 10)
+
+infernle	infernale	Steiner (Inf. 11)
+
+Alessadro	Alessandro	Steiner (Inf. 12)
+Ezelino		Ezzelino	Steiner (Inf. 12)
+ogmi		ogni		Steiner (Inf. 12)
+pumti		punti		Steiner (Inf. 12)
+
+cestisce	gestisce 	Steiner (Inf. 13)
+consevazione	conservazione 	Steiner (Inf. 13)
+ouesti		questi		Steiner (Inf. 13)
+tornita		fornita		Steiner (Inf. 13)
+
+commentantori	commentatori 	Steiner (Inf. 14)
+eosa		cosa		Steiner (Inf. 14)
+tramutanto	tramutato 	Steiner (Inf. 14)
+
+cosicch$i	cosicch$e 	Steiner (Inf. 15)
+figiuol		figliuol 	Steiner (Inf. 15)
+flosofo		filosofo 	Steiner (Inf. 15)
+perte		aperte 		Steiner (Inf. 15)
+uomimi		uomini 		Steiner (Inf. 15)
+vm-jr		v#er		Steiner (Inf. 15)
+
+buoma		buona		Steiner (Inf. 16)
+fantasticado	fantasticando 	Steiner (Inf. 16)
+fracescano	francescano 	Steiner (Inf. 16)
+precccupazione	preoccupazione	Steiner (Inf. 16)
+supeficie	superficie	Steiner (Inf. 16)
+
+benemolte	bene.  Molte 	Steiner (Inf. 17)
+commentantori	commentatori	Steiner (Inf. 17)
+divorarori	divoratori	Steiner (Inf. 17)
+illumimata	illuminata 	Steiner (Inf. 17)
+sintomidel	sintomi del	Steiner (Inf. 17)
+valenlosi	valendosi	Steiner (Inf. 17)
+ 
+Alessando	Alessandro 	Steiner (Inf. 18)
+Cacciaimico	Caccianimico 	Steiner (Inf. 18)
+commentantori	commentatori	Steiner (Inf. 18)
+
+Fiegi@as	Flegi@as	Steiner (Inf. 19)
+leggendaro	leggendario 	Steiner (Inf. 19)
+nazionni	nazioni 	Steiner (Inf. 19)
+vm-jr		v#er		Steiner (Inf. 19)
+
+cfe		che		Steiner (Inf. 20)
+comume		comune		Steiner (Inf. 20)
+delio		dello 		Steiner (Inf. 20)
+fm-jr		f#er		Steiner (Inf. 20)
+fm-jsse		f#esse		Steiner (Inf. 20)
+nccessariamente	necessariamente Steiner (Inf. 20)
+precendente	precedente 	Steiner (Inf. 20)
+signficato	significato	Steiner (Inf. 20)
+tradiziondi	tradizionali	Steiner (Inf. 20)
+
+demomi         	demoni         (Steiner Inf. 21)
+simomia        	simonia        (Steiner Inf. 21)
+
+acgua          	acqua          (Steiner Inf. 22)
+demomi         	demoni         (Steiner Inf. 22)
+fne            	fine           (Steiner Inf. 22)
+fuoviare       	fuorviare      (Steiner Inf. 22)
+sevizio        	servizio       (Steiner Inf. 22)
+varr@o         	varr@a         (Steiner Inf. 22)
+
+corrispende    	corrisponde    (Steiner Inf. 23)
+epressione     	espressione    (Steiner Inf. 23)
+nelia          	nella          (Steiner Inf. 23)
+preanuncia     	preannuncia    (Steiner Inf. 23)
+
+daUa           	dalla          (Steiner Inf. 24)
+pemettevano    	permettevano   (Steiner Inf. 24)
+vm-jr          	v#er           (Steiner Inf. 24)
+XXVVI          	XXVI           (Steiner Inf. 24)
+
+aitrettanto    	altrettanto    (Steiner Inf. 25)
+esludere       	escludere      (Steiner Inf. 25)
+tramutazione   	trasmutazione  (Steiner Inf. 25)
+
+aguato         	agguato        (Steiner Inf. 26)
+fiamna         	fiamma         (Steiner Inf. 26)
+lori           	loro           (Steiner Inf. 26)
+piccoii        	piccoli        (Steiner Inf. 26)
+po,et.         	poet.          (Steiner Inf. 26)
+ragiune        	ragione        (Steiner Inf. 26)
+uma            	una            (Steiner Inf. 26)
+vm-jr          	v#er           (Steiner Inf. 26)
+
+aluni          	alcuni         (Steiner Inf. 27)
+imperatare     	imperatore     (Steiner Inf. 27)
+pevertitore    	pervertitore   (Steiner Inf. 27)
+riscosi        	riscossi       (Steiner Inf. 27)
+
+ect.           	Lect.          (Steiner Inf. 28)
+nocivia        	nociva         (Steiner Inf. 28)
+spirgimento    	spargimento    (Steiner Inf. 28)
+viizio         	vizio          (Steiner Inf. 28)
+
+Giunione       	Giunone        (Steiner Inf. 29)
+
+donma          	donna          (Steiner Inf. 30)
+simitudine     	similitudine   (Steiner Inf. 30)
+Virgillo       	Virgilio       (Steiner Inf. 30)
+
+direttamenre   	direttamente   (Steiner Inf. 31)
+fm-jr          	f#er           (Steiner Inf. 31)
+fratelii       	fratelli       (Steiner Inf. 31)
+megra          	Flegra         (Steiner Inf. 31)
+Viticano       	Vaticano       (Steiner Inf. 31)
+vm-jr          	v#er           (Steiner Inf. 31)
+
+li beri        	liberi         (Steiner Inf. 32)
+diacciate      	ghiacciate     (Steiner Inf. 32)
+Guidecca       	Giudecca       (Steiner Inf. 32)
+rimararr@o     	rimarr@o       (Steiner Inf. 32)
+riniane        	rimane         (Steiner Inf. 32)
+toscama        	toscana        (Steiner Inf. 32)
+
+annunziavia    	annunziava     (Steiner Inf. 33)
+suffciente     	sufficiente    (Steiner Inf. 33)
+
+dise           	disse          (Steiner Inf. 34)
+malviagio      	malvagio       (Steiner Inf. 34)
+sottospra      	sottosopra     (Steiner Inf. 34)
+uoniini        	uomini         (Steiner Inf. 34)
+
+PURGATORIO
+
+crepusoolo	crepuscolo	Steiner (Purg. 1)
+Hoepi		Hoepli		Steiner (Purg. 1)
+infussi		influssi	Steiner (Purg. 1)
+inorridta	inorridita	Steiner (Purg. 1)
+semplict@a	semplicit@a	Steiner (Purg. 1)
+vm-jr		v#er		Steiner (Purg. 1)
+
+Gerusalenune	Gerusalemme	Steiner (Purg. 2)
+le gata		legata		Steiner (Purg. 2)
+propra		prora		Steiner (Purg. 2)
+vm-jr (2)	v#er (2)	Steiner (Purg. 2)
+
+cirezione	direzione	Steiner (Purg. 3)
+irrepaparabile	irreparabile	Steiner (Purg. 3)
+redno		regno		Steiner (Purg. 3)
+tembo		tempo		Steiner (Purg. 3)
+
+edittica	eclittica	Steiner (Purg. 4)
+
+curosit@a	curiosit@a	Steiner (Purg. 5)
+dim-jr		d#ier		Steiner (Purg. 5)
+invm-jr		inv#er		Steiner (Purg. 5)
+I298		1298		Steiner (Purg. 5)
+Aberto		Alberto		Steiner (Purg. 6)
+assenniata	assennata	Steiner (Purg. 6)
+dmenticato	dimenticato	Steiner (Purg. 6)
+punzione	punizione	Steiner (Purg. 6)
+vm-jr		v#er		Steiner (Purg. 6)
+
+dichiarsi	dichiararsi	Steiner (Purg. 7)
+I4		14		Steiner (Purg. 7)
+Fllippo		Filippo		Steiner (Purg. 7)
+pr$icipi	principi	Steiner (Purg. 7)
+Virgilo		Virgilio 	Steiner (Purg. 7)
+
+dim-jr		d#ir		Steiner (Purg. 8)
+emistero	emisfero	Steiner (Purg. 8)
+fevore		fervore		Steiner (Purg. 8)
+ie		le		Steiner (Purg. 8)
+miserioso	misterioso	Steiner (Purg. 8)
+vm-jr		v#er		Steiner (Purg. 8)
+
+Allighieri	Alighieri	Steiner (Purg. 9)
+l`ambulacro	l'ambulacro	Steiner (Purg. 9)
+naturalmenre	naturalmente	Steiner (Purg. 9)
+
+atrove		altrove		Steiner (Purg.10)
+
+forentini	fiorentini	Steiner (Purg. 11)
+po tere		potere		Steiner (Purg. 11)
+mimiatore	miniatore	Steiner (Purg. 11)
+guesto		questo		Steiner (Purg. 11)
+
+incomminciano	incominciano	Steiner	(Purg. 12)
+Tomaso		Tommaso		Steiner (Purg. 12)
+servizo		servizio	Steiner (Purg. 12)
+guaderno	quaderno	Steiner (Purg. 12)
+
+allvontanava	allontanava	Steiner (Purg. 13)
+atrove		altrove		Steiner (Purg. 13)
+consigio	consiglio	Steiner (Purg. 13)
+ehe		che		Steiner (Purg. 13)
+pero		per@o		Steiner (Purg. 13)
+
+commincia	comincia	Steiner (Purg. 14)
+fm-jr		f#er		Steiner (Purg. 14)
+invdiosa	invidiosa	Steiner (Purg. 14)
+propro		proprio		Steiner (Purg. 14)
+uiene		viene		Steiner (Purg. 14)
+
+chell'		che l'  	Steiner (Purg. 15)
+fm-jr		f#er		Steiner (Purg. 15)
+fno		fino		Steiner (Purg. 15)
+giovnezza	giovinezza 	Steiner (Purg. 15)
+verismiglianza	verisimiglianza Steiner (Purg. 15)
+
+direttimente	direttamente 	Steiner (Purg. 16)
+vatore		valore		Steiner (Purg. 16)
+vira		vita		Steiner (Purg. 16)
+sarbbbe		sarebbe		Steiner (Purg. 16)
+
+definzione	definizione 	Steiner (Purg. 17)
+ogmi		ogni		Steiner (Purg. 17)
+seoondo		secondo		Steiner (Purg. 17)
+viaggatore	viaggiatore	Steiner (Purg. 17)
+
+ovversaro	avversaro	Steiner (Purg. 18)
+quate		quale		Steiner (Purg. 18)
+via;gio		viaggio		Steiner (Purg. 18)
+
+figia		figlia		Steiner (Purg. 20)
+figliuoio	figliuolo 	Steiner (Purg. 20)
+fiordalso	fiordaliso	Steiner (Purg. 20)
+francois	fran$cois	Steiner (Purg. 20)
+infuenza	influenza	Steiner (Purg. 20)
+Normadia	Normandia	Steiner (Purg. 20)
+
+assicuta	assicura	Steiner (Purg. 21)
+beatitucine	beatitudine 	Steiner (Purg. 21)
+forentino	fiorentino	Steiner (Purg. 21)
+guell		quell		Steiner (Purg. 21)
+imnalza		innalza		Steiner (Purg. 21)
+seguine		seguire		Steiner (Purg. 21)
+volenterso	volenteroso 	Steiner (Purg. 21)
+
+dmimi		dimmi		Steiner (Purg. 22)
+miglizia	migliaia	Steiner (Purg. 22)
+msieme		insieme		Steiner (Purg. 22)
+piogga		pioggia		Steiner (Purg. 22)
+qualli		quelli		Steiner (Purg. 22)
+segretamete	segretamente	Steiner (Purg. 22)
+voee		voce		Steiner (Purg. 22)
+
+critiane	cristiane	Steiner	(Purg. 23)
+lmiti		limiti		Steiner	(Purg. 23)
+
+CXVLII		CXLII		Steiner (Purg. 24)
+Giuttone	Guittone 	Steiner (Purg. 24)
+magrerzza	magrezza	Steiner (Purg. 24)
+
+facol@a		facolt@a	Steiner (Purg. 25)
+guesto		questo		Steiner (Purg. 25)
+Inf.~,XXII	Inf.~, XXII	Steiner (Purg. 25)
+
+animile		animale		Steiner (Purg. 26)
+peziosi		preziosi	Steiner (Purg. 26)
+
+volonta		volont@a	Steiner (Purg. 27)
+
+acgua		acqua		Steiner (Purg. 28)
+complicara	complicata	Steiner (Purg. 28)
+deg		degl		Steiner (Purg. 28)
+invm-jr		inv#er		Steiner (Purg. 28)
+sotterrance	sotterranee 	Steiner (Purg. 28)
+
+quelio		quello		Steiner (Purg. 29)
+
+cbe		che		Steiner (Purg. 30)
+dolcememte	dolcemente	Steiner (Purg. 30)
+poeticamenre	poeticamente	Steiner (Purg. 30)
+
+ccleste		celeste		Steiner	(Purg. 31)
+imumagine	immagine	Steiner	(Purg. 31)
+purifcazione	purificazione	Steiner (Purg. 31)
+
+megaviglia	meraviglia	Steiner (Purg. 32)
+
+dim-jr		d#ier		Steiner (Purg. 33)
+trutti		frutti		Steiner (Purg. 33)
+pericdo		periodo		Steiner (Purg. 33)
+intevallo	intervallo	Steiner (Purg. 33)
+preannncia	preannuncia	Steiner (Purg. 33)
+signicato	significato	Steiner (Purg. 33)
+
+PARADISO
+
+falsamemte	falsamente	Steiner (Par. 1)
+ntensit@a	intensit@a 	Steiner (Par. 1)
+
+ampiesa		ampiezza	Steiner (Par. 2)
+spcula		secula		Steiner (Par. 2)
+
+compiutamenre	compiutamente	Steiner (Par. 3)
+poturo		potuto		Steiner (Par. 3)
+
+sensibilente 	sensibilmente	Steiner (Par. 4)
+spietaio 	spietato	Steiner (Par. 4)
+violont@a 	volont@a	Steiner (Par. 4)
+
+aila 		alla		Steiner (Par. 5)
+direrttamente 	direttamente	Steiner (Par. 5)
+I36		136		Steiner (Par. 5)
+magifico	magnifico	Steiner (Par. 5)
+
+alancio		slancio		Steiner (Par. 6)
+Conctit.	Constit.	Steiner (Par. 6)
+erroi		errori		Steiner (Par. 6)
+invm-jr 	inv#er		Steiner (Par. 6)
+ln		in		Steiner (Par. 6)
+vm-jr		v#er		Steiner (Par. 6)
+
+fm-jnsi 	f$ensi		Steiner (Par. 7)
+fm-jssi 	f$essi		Steiner (Par. 7)
+materiaa	materia		Steiner (Par. 7)
+potenz,ia 	potenz,iata	Steiner (Par. 7)
+
+effetivamente 	effettivamente	Steiner (Par. 8)
+immagime 	immagine	Steiner (Par. 8)
+sinstra 	sinistra	Steiner (Par. 8)
+telesche 	tedesche	Steiner (Par. 8)
+
+corrotra 	corrotta	Steiner (Par. 9)
+fm-jrmi 	f#ermi		Steiner (Par. 9)
+immmagine   	immagine	Steiner (Par. 9)
+interprerazione	interpretazione	Steiner (Par. 9)
+sodisfa 	soddisfa	Steiner (Par. 9)
+
+mmagine		immagine	Steiner (Par. 10)
+spiriro 	spirito		Steiner (Par. 10)
+
+misticamenre 	misticamente	Steiner (Par. 11)
+ricambieta 	ricambier@a	Steiner (Par. 11)
+vm-jr 		v#er		Steiner (Par. 11)
+
+costiuirono 	costituirono	Steiner (Par. 12)
+ditruggere 	distruggere	Steiner (Par. 12)
+pima 		prima		Steiner (Par. 12)
+supeflui	superflui	Steiner (Par. 12)
+
+acquisteramno 	acquisteranno	Steiner (Par. 14)
+beatifidine 	beatitudine	Steiner (Par. 14)
+cirolo 		circolo		Steiner (Par. 14)
+magggori 	maggiori	Steiner (Par. 14)
+scintiile	scintille	Steiner (Par. 14)
+vivamemte 	vivamente	Steiner (Par. 14)
+
+deila 		della		Steiner (Par. 15)
+svilupoo	sviluppo	Steiner (Par. 15)
+ii		di		Steiner (Par. 15)
+
+daila 		dalla		Steiner (Par. 16)
+fm-jsse 	f#esse		Steiner (Par. 16)
+lott@a 		lotta		Steiner (Par. 16)
+passari 	passati		Steiner (Par. 16)
+
+ie 		le		Steiner (Par. 17)
+lul 		lui		Steiner (Par. 17)
+
+condandannate 	conda{nn}ate	Steiner (Par. 18)
+
+Chimenez 	Chime{nz}	Steiner (Par. 19)
+cido 		nido		Steiner (Par. 19)
+infnito 	infinito	Steiner (Par. 19)
+nnn 		non		Steiner (Par. 19)
+tedine 		terzine		Steiner (Par. 19)
+
+attrituita 	attribuita	Steiner (Par. 20)
+cioe 		cio@e		Steiner (Par. 20)
+crederebhe 	crederebbe	Steiner (Par. 20)
+
+intelletiva	intellettiva	Steiner (Par. 21)
+molre		molte		Steiner (Par. 21)
+quache 		qualche		Steiner (Par. 21)
+unifotmit@a 	uniformit@a	Steiner (Par. 21)
+
+gemelii 	gemelli		Steiner (Par. 22)
+latrino 	latino		Steiner (Par. 22)
+piegirsi 	piegarsi	Steiner (Par. 22)
+
+umama		umana		Steiner (Par. 23)
+
+fm-jro 		f#ero		Steiner (Par. 24)
+intelletuali	intellettuali	Steiner (Par. 24)
+liricamenre	liricamente	Steiner (Par. 24)
+metafsiche	metafisiche	Steiner (Par. 24)
+piogga 		pioggia		Steiner (Par. 24)
+
+beat$i 		beati		Steiner (Par. 25)
+ece 		ecc		Steiner (Par. 25)
+esilo 		esilio		Steiner (Par. 25)
+rispettivamence	rispettivamente	Steiner (Par. 25)
+
+ceativa 	creativa	Steiner (Par. 26)
+ceatore 	creatore	Steiner (Par. 26)
+magglori	maggiori	Steiner (Par. 26)
+mostato 	mostrato	Steiner (Par. 26)
+rifessione	riflessione	Steiner (Par. 26)
+supram 		supr{a}		Steiner (Par. 26)
+
+ccmpiace 	compiace	Steiner (Par. 27)
+
+miggior 	maggior		Steiner (Par. 28)
+natrale 	naturale	Steiner (Par. 28)
+potestadi 	podestati	Steiner (Par. 28)
+quardi 		guardi		Steiner (Par. 28)
+
+angali 		angeli		Steiner (Par. 29)
+dellle 		delle		Steiner (Par. 29)
+esprimeme 	esprimerne	Steiner (Par. 29)
+fm-jro 		f#ero		Steiner (Par. 29)
+hamno 		hanno		Steiner (Par. 29)
+percorelle 	pecorelle	Steiner (Par. 29)
+predicarori 	predicatori	Steiner (Par. 29)
+soegetto 	soggetto	Steiner (Par. 29)
+
+pubblicamenre	pubblicamente	Steiner (Par. 30)
+venirano 	venivano	Steiner (Par. 30)
+
+rivulti 	rivolti		Steiner (Par. 31)
+
+devuta 		dovuta		Steiner (Par. 32)
+raggura 	raffigura	Steiner (Par. 32)
+
+etimelogia 	etimologia	Steiner (Par. 33)
+I6		16		Steiner (Par. 33)
+sabilla 	sibilla		Steiner (Par. 33)
+ta 		la		Steiner (Par. 33)
+treato 		creato		Steiner (Par. 33)
+visiome 	visione		Steiner (Par. 33)
+

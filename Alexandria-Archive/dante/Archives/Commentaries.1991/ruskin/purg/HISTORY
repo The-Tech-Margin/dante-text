@@ -1,0 +1,8 @@
+Tue Feb 14 17:04:34 EST 1989 preloaded purg jvs
+Sat Apr 15 22:48:36 EDT 1989 jvs corrected .load files using checknew
+Sat Apr 15 22:48:45 EDT 1989 jvs preloaded corrected files
+Thu Apr 27 09:15:48 EDT 1989 jvs checked accuracy of load files using checknew
+Thu Apr 27 19:36:20 EDT 1989 jvs corrected load files using checknew and xfercheck
+Thu Apr 27 19:36:27 EDT 1989 jvs preloaded corrected files
+Mon Jul 31 10:35:59 EDT 1989 jvs deleted old pu.e file, renamed pu.f to pu.e
+Mon Jul 31 10:36:55 EDT 1989 jvs renamed .load files to .e

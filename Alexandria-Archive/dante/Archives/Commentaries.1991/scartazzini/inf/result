@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Scartazzini
+	Language   = Italian
+	Pub. Year  = 1900
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41699 Apr 26 21:31 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32538 Apr 26 21:31 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27369 Apr 26 21:31 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33634 Apr 26 21:32 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46017 Apr 26 21:32 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32849 Apr 26 21:32 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38641 Apr 26 21:32 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32915 Apr 26 21:33 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36086 Apr 26 21:33 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57205 Apr 26 21:33 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42410 Apr 26 21:33 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46085 Apr 26 21:34 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48901 Apr 26 21:34 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49832 Apr 26 21:34 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53000 Apr 26 21:34 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       66494 Apr 26 21:35 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54307 Apr 26 21:35 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57989 Apr 26 21:35 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       61057 Apr 26 21:36 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50616 Apr 26 21:36 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57499 Apr 26 21:36 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57344 Apr 26 21:37 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55469 Apr 26 21:37 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       61941 Apr 26 21:37 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56743 Apr 26 21:38 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       60838 Apr 26 21:38 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       69163 Apr 26 21:38 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       69505 Apr 26 21:39 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58979 Apr 26 21:39 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58823 Apr 26 21:39 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       96301 Apr 26 21:39 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       72196 Apr 26 21:40 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       99173 Apr 26 21:40 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Scartazzini...
+Verifying Scartazzini...
+
+No Verification Errors.
+-rw-r--r--  1 dante       65583 Apr 26 21:40 ../staging/inf/34

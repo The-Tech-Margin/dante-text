@@ -1,0 +1,8 @@
+Thu Nov 2 11:08:42 EST 1989 steve uploaded CIC tape
+Thu Nov 2 11:09:21 EST 1989 jvs ran dfmt on all files --> .kk
+Thu Jan 4 09:54:41 EST 1990 jvs deleted old .k files
+Thu Feb 22 09:08:21 EST 1990 jvs deleted .s files
+Fri Feb 23 11:19:53 EST 1990 jvs deleted old .e files
+Fri Feb 23 11:20:11 EST 1990 jvs renamed .f files to .e and compressed all
+Mon Apr 22 10:25:54 EDT 1991 jvs stripped @@ ligatures, and repreloaded.
+Thu Jun 6 22:31:32 EDT 1991 jvs repreloaded with new program.

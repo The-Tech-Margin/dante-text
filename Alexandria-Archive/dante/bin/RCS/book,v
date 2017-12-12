@@ -1,0 +1,75 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.55.51;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Print a cantica in book format.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Print a cantica in book format
+
+SEDFILE=$Dante/lib/stdtome.sed
+
+case $# in
+2)	;;
+*)	echo Usage: $0 commentary cantica
+	exit 1
+	;;
+esac
+if [ ! -f 01.e ]; then
+	echo No 01.e file in this directory.
+	exit 1
+fi
+
+(
+echo .sc
+echo .ef \'Dartmouth Dante Project\'\'\\\*\(mo 19\\n\(yr\'
+echo .of \'\\\*\(mo 19\\n\(yr\'\'Dartmouth Dante Project\'
+if [ -f pream.e ]; then
+	echo .oh \'$1, $2 Preambula\'\'%\'
+	echo .eh \'%\'\'$1, $2 Preambula\'
+	echo .ba 1i
+	echo .lp
+	echo .nf
+	sed -f $SEDFILE pream.e
+	echo .oh \'$1, $2 1\'\'%\'
+	echo .eh \'%\'\'$1, $2 1\'
+	echo .bp
+	sed -f $SEDFILE 01.e
+else
+	echo .oh \'$1, $2 1\'\'%\'
+	echo .eh \'%\'\'$1, $2 1\'
+	echo .ba 1i
+	echo .lp
+	echo .nf
+	sed -f $SEDFILE 01.e
+fi
+for CF in 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+do
+	if [ -f $CF.e ]; then
+		CN=`expr $CF + 0`
+		echo .oh \'$1, $2 $CN\'\'%\'
+		echo .eh \'%\'\'$1, $2 $CN\'
+		echo .bp
+		sed -f $SEDFILE $CF.e
+	fi
+done
+) | itroff -mE -
+@

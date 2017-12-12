@@ -1,0 +1,8 @@
+cat <<EOF
+Type the command
+
+	iam  <myuid>
+
+before sending mail.  Replace <myuid> with your Unix user id.
+EOF
+unalias mail

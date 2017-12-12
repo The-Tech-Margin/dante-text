@@ -1,0 +1,243 @@
+	|8-9.~ |(ed.  Rosini)~
+Comparazione; ^al passo che fanno le let@ane~, in quel modo delle 
+processioni.  [Da Fino]
+
+	|9.~ |(ed.  Rosini)~
+Let@ane.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Che fanno ^le letane in questo~ mondo.
+
+	|10.~ |(ed.  Rosini)~
+^Viso~, per vista.  [Sessa]
+
+	|12.~ |(ed.  Rosini)~
+^casso~, petto.  [Da Fino]
+
+	|(ed.  Celani)~
+Ciascun tra 'l mento e 'l principio ^del casso;~
+
+	|24.~ |(ed.  Rosini)~
+Bagnava dietro.  [Da Fino]
+
+	|25.~ |(ed.  Rosini)~
+^Certo i' piangea~.  Dante ha piet@a degl'indovini, e Virgilio il 
+riprende.  [Giolito]
+
+^Certo i' piangea, poggiato~ ec.  [richiamo marginale] Nota che Dante 
+@e ripreso da Virgilio che compatisca agl'indovini, bench@e non sia 
+stato prima ripreso, quando mostr@o compassione de' mali de' due 
+cognati, o di Ciacco, oppur di Piero dalle Vigne, anzi Virgilio stesso 
+mostra compassione, ove dice:
+^...  Nel viso mi dipinge~
+^Quella piet@a che tu per tema senti~.
+(c. IV v. 20).  [Sessa]
+
+^Rocchi~, scogli.  [Da Fino]
+
+	|27.~ |(ed.  Celani)~
+Mi disse: ancor se tu de ^gli altri sciocchi?~
+
+	|28.~ |(ed.  Rosini)~
+Qui @e piet@a a non aver piet@a.  [Da Fino]
+
+	|29.~ |(ed.  Celani)~
+Chi @e pi@u ^scelerato di colui,~
+
+	|29-30.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+^Agli occhi~, sul cospetto.  [Sessa]
+
+	|33.~ |(ed.  Rosini)~
+^Rui~, rovini.  [Da Fino]
+
+	|35.~ |(ed.  Rosini)~
+^A valle~, avverbio.  [Sessa]
+
+	|39.~ |(ed.  Rosini)~
+Ritroso calle.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Dirietro guarda, et fa ritroso calle.
+	^Dante ha piet@a de gli indovini e Virgilio il riprende.~
+
+	|42.~ |(ed.  Rosini)~
+Tutte quante.  [richiamo marginale] [Sessa]
+
+	|43.~ |(ed.  Rosini)~
+E prima poi.  [richiamo marginale] [Sessa]
+
+	|45.~ |(ed.  Rosini)~
+Maschili penne.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Che rihavesse le ^maschili penne.~
+
+	|46.~ |(ed.  Rosini)~
+^S'atterga~, si volge alla schiena.  [Da Fino]
+
+	|47.~ |(ed.  Rosini)~
+Ronca.  [richiamo marginale] [Sessa]
+
+	|49.~ |(ed.  Celani)~
+^Hebbe tra bianchi~ marmi la spelonca
+
+	|50.~ |(ed.  Celani)~
+^Per sua dimora~: ond'a guardar le stelle
+
+	|51.~ |(ed.  Rosini)~
+^Tronca~, tolta.  [Da Fino]
+
+	|52-54.~ |(ed.  Rosini)~
+Ha coperte le mammelle con treccie, e il petto volto di dietro.  [Da 
+Fino]
+
+	|57.~ |(ed.  Celani)~
+Ond'un poco mi piace, ^che m'ascolte.~
+
+	|59.~ |(ed.  Rosini)~
+^Baco~, per semplice ^c~.  [Sessa]
+
+	|61.~ |(ed.  Rosini)~
+Laco.  [richiamo marginale] [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+^Segnar poria,~ dar la benedizione.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+^Arnese~, d'un castello.  [Sessa]
+
+	|(ed.  Celani)~
+Siede Peschiera ^bello et forte arnese~
+
+	|71.~ |(ed.  Rosini)~
+Fronteggiar.  [richiamo marginale] [Sessa]
+
+	|75.~ |(ed.  Celani)~
+Et fassi fiume gi@u ^pe' verdi paschi.~
+
+	|76.~ |(ed.  Rosini)~
+^Co'~, capo.  [Da Fino]
+
+	|78.~ |(ed.  Celani)~
+Fin'a Governo, dove ^cade in Po.~
+
+	|79.~ |(ed.  Rosini)~
+^Lama~, valle.  [Sessa]
+
+^Lama~, palude.  [Da Fino]
+
+	|(ed.  Celani)~
+Non molto ha corso, che truova ^una lama,~
+
+	|80.~ |(ed.  Rosini)~
+Impaluda.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Ne la qual si distende, et l@a 'mpaluda,
+
+	|81.~ |(ed.  Rosini)~
+^Grama~, inferma.  [Da Fino]
+
+	|82.~ |(ed.  Rosini)~
+^La vergine~ Manto incantatrice; ^cruda~, aspra.  [Da Fino]
+
+	|86.~ |(ed.  Rosini)~
+^Far su' arti~.  Nota che quasi sempre troverai che si lassa per 
+eleganza l'articolo.  [Sessa]
+
+	|93.~ |(ed.  Rosini)~
+^Sorte~, nome.  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+^Mattia~, pazzia.  [Sessa]
+
+	|(ed.  Celani)~
+Prima che ^la mattia~ da Casalodi
+
+	|96.~ |(ed.  Rosini)~
+Che se ne impadron@i.  [Da Fino]
+
+	|97.~ |(ed.  Celani)~
+Per@o ^t'assenno~ che se tu mai odi
+
+	|98.~ |(ed.  Rosini)~
+Originar.  [richiamo marginale] [Sessa]
+
+	|99.~ |(ed.  Rosini)~
+Nessuna bug@ia superi la verit@a.  [Da Fino]
+
+	|(ed.  Celani)~
+La ^verit@a~ nella menzogna frodi.
+
+	|102.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^Risiede~, riferisce.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+^Cune~, culle.  [Da Fino]
+
+	|110.~ |(ed.  Rosini)~
+^Augure~, nome proprio.  [Da Fino]
+
+	|111.~ |111.~
+|(ed.  Rosini)~
+^Fune~, delle navi.  [Da Fino]
+
+	|(ed.  Celani)~
+In Aulide a ^tagliar~ la prima ^fune~.
+
+	|113.~ |(ed.  Rosini)~
+^L'alta mia Tragedia~.  Chiama tragedia l'Eneide, la quale @e epopeja, 
+seguendo la distinzione fatta da lui nel libro della Volgare Eloquenza, 
+ove i poemi composti in alto stilo ripone sotto la tragedia, i mediocri 
+sotto la commedia, e gli umili sotto la elegia.  D'Euripilo fa menzione 
+nel secondo libro patetico.  [Sessa]
+
+^Tragedia~, Eneide.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+^Poco~, asciutto.  [Da Fino]
+
+	|117.~ |(ed.  Celani)~
+De le magiche frode seppe il ^giuoco.~
+
+	|119.~ |(ed.  Rosini)~
+Calzolajo.  [Da Fino]
+
+	|(ed.  Celani)~
+C'haver inteso al ^coio et a lo~ spago
+
+	|120.~ |(ed.  Celani)~
+Hora vorrebbe; ma tardi ^si pente.~
+
+	|121.~ |(ed.  Rosini)~
+^Le triste~, streghe.  [Da Fino]
+
+	|122.~ |(ed.  Rosini)~
+^Spuola~, instrumento da tessere.  [Sessa]
+
+	|126.~ |(ed.  Celani)~
+Sotto Sibilia ^Cain~ et le spine.
+
+	|127.~ |(ed.  Rosini)~
+Quintadecima.  [Da Fino]
+
+	|128.~ |(ed.  Celani)~
+Ben ten' dee ricordar, che non ^ti nocque~
+
+	|129.~ |(ed.  Rosini)~
+Fonda.  [richiamo marginale] [Sessa]
+
+	|130.~ |(ed.  Rosini)~
+^Introcque~, intanto.  [Sessa]
+
+^Introcque~, in questo mezzo.  [Da Fino]
+
+	|(ed.  Celani)~
+S@i mi parlava: et andavamo ^introcque.~
+

@@ -1,0 +1,167 @@
+#! /bin/sh
+
+#	Prepare files for database loading
+#
+#	Usage:	pl [-proemio|-poem|-desc|-comm]  file ...
+#
+#	At most one of the type options may appear.  The default is -comm.
+
+if [ $# -eq 0 ]
+then
+	echo "Usage:  pl [-proemio|-poem|-desc|-comm]  file ..."
+	exit 1
+fi
+
+#BASE=DANT
+BASE=NDDP
+BRSVFY=$Brs/Bin/brsvfy
+VFYOPTS='-userid dante'
+LIB=$Dante/lib
+DOCTYPE=T
+umask 002
+
+case $1 in
+	-comm*)
+		DOCTYPE=T
+		shift ;;
+	-proem*)
+		DOCTYPE=I
+		shift ;;
+	-poem)
+		DOCTYPE=P
+		shift ;;
+	-desc*)
+		DOCTYPE=D
+		shift ;;
+	-*)
+		echo "Unrecognized option: $1"
+		exit 1 ;;
+esac
+
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	DESC=none
+	if [ -r ../desc ]
+	then
+		DESC=../desc
+	elif [ -r ../staging/desc ]
+	then
+		DESC=../staging/desc
+	elif [ -r desc ]
+	then
+		DESC=desc
+	else
+		echo No desc file found.
+		exit 1
+	fi
+	echo Using descriptive data from $DESC.
+	COMMENTARY=`ed - $DESC < $LIB/preload.ed.comm`
+	LANGUAGE=`ed - $DESC < $LIB/preload.ed.lang`
+	PUBYEAR=`ed - $DESC < $LIB/preload.ed.pubd`
+	grep -q copyright $DESC && COPYRIGHT=y
+fi
+
+case `pwd` in
+	*/inf)	CANTICA=10-Inferno DEST=../staging/inf ;;
+	*/purg)	CANTICA=20-Purgatorio DEST=../staging/purg ;;
+	*/para)	CANTICA=30-Paradiso DEST=../staging/para ;;
+	*)	CANTICA="" DEST=staging ;;
+esac
+
+echo ""
+echo "Document parameters:"
+echo -n "	Doc. type  = "
+case $DOCTYPE in
+	I)	echo Proemio ;;
+	T)	echo Commentary ;;
+	D)	echo Description ;;
+	P)	echo Poem ;;
+esac
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	echo "	Commentary =" $COMMENTARY
+	echo "	Language   =" $LANGUAGE
+	echo "	Pub. Year  =" $PUBYEAR
+	echo "	Cantica    =" $CANTICA
+fi
+
+for INPUT
+do
+	if [ -r $INPUT.Z ]; then
+		COMPRESS=y
+		uncompress $INPUT || exit 1
+	else
+		case $INPUT in
+			*.Z)	COMPRESS=y
+				uncompress $INPUT || exit 1
+				INPUT=`basename $INPUT .Z`
+				;;
+			*)	COMPRESS=n
+				;;
+		esac
+	fi
+	[ -r $INPUT ] || {
+		echo ""
+		echo "File $INPUT does not exist.  Skipping it."
+		continue
+	}
+	case $INPUT in
+		*.*)	OUTPUT=${DEST}/`base $INPUT` ;;
+		*)	OUTPUT=${DEST}/$INPUT ;;
+	esac
+	echo ""
+	echo "::::::::::::::::::::::::::::::::::::::::::::"
+	echo "Preloading $INPUT into $OUTPUT."
+	echo "::::::::::::::::::::::::::::::::::::::::::::"
+	[ -s $OUTPUT ] && {
+		echo "Warning: overwriting existing output file $OUTPUT"
+		rm $OUTPUT
+	}
+
+	if [ $DOCTYPE = T -o $DOCTYPE = I ]
+	then
+		if [ $DOCTYPE = T ]
+		then
+			CANTO=`base $INPUT`
+			CANTO=`expr $CANTO + 0`
+		fi
+	fi
+
+	for DIR in $DEST
+	do
+		if [ ! -d $DIR ]
+		then
+			mkdir $DIR
+		fi
+	done
+
+	if [ $DOCTYPE = T -o $DOCTYPE = I ]
+	then
+		echo ""
+		echo "Filtering $INPUT..."
+		dbloadf -c$COMMENTARY -l$LANGUAGE -p"$PUBYEAR" -t$DOCTYPE \
+			-a$CANTICA -o$CANTO ${COPYRIGHT+-r} $INPUT $OUTPUT
+	elif [ $DOCTYPE = P ]
+	then
+		echo ""
+		echo "Filtering..."
+		awk -f $Dante/lib/poem.awk $INPUT > $OUTPUT
+	elif [ $DOCTYPE = D ]
+	then
+		cp $INPUT $OUTPUT
+	fi
+	if [ $? -eq 0 ]
+	then
+		echo "Verifying $OUTPUT..."
+		$BRSVFY $VFYOPTS -file $OUTPUT $BASE |
+			fgrep -v 'Date was Replaced
+Automatic document break
+No errors'
+		chmod 644 $OUTPUT
+		ls -l $OUTPUT
+	fi
+	case $COMPRESS in
+		y)	compress $INPUT ;;
+	esac
+
+done

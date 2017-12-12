@@ -1,0 +1,461 @@
+	|1-18.~  [LEZIONE SESTA CAPITOLO XVIII]
+
+   ^Luogo @e in inferno, detto Malebolge,~
+   ^Tinto di pietra di color ferrigno,~
+   ^Come la cerchia che d'intorno il volge,~
+
+e quel che segue.
+
+	Quattro sono i quesiti e i concetti, come mostra il Filosofo nel 
+secondo de la ^Posteriora~, che si cercono sapere delle cose. Due delle 
+cose composte, e che non si possono profferire se non con pi@u parole, 
+come son, per grazia di esempio, ^la luna oscura, il cielo si muove 
+circularmente~, e simili. E questi sono, dice egli, ^quia~, ^et propter 
+quid~; il quale ^quia~ non @e interrogativo, onde non suona ^perch@e~, 
+ma renditivo della cagione, onde suona ^che sia cos@i~. La quale 
+durezza volendo fuggire Ermolao Barbaro nella traduzione di Temistio, 
+non traduce ^quia~, ma dice: ^si hoc huic insit~, cio@e ^se questo 
+predicato @e in questo subbietto~. E in questo significato us@o questo 
+^quia~ il Poeta nostro, quando parlando della incarnazione del Verbo 
+eterno, disse: ^State contenti, umana gente, al~ quia, cio@e a creder 
+ch'ei sia cos@i; dove molti, non intendendo la sua forza, non intendono 
+quel luogo. Cercasi adunque nelle cose composte primieramente il 
+^quia~, cio@e se elle stanno cos@i, e dipoi la cagione, ch'@e il 
+^propter quid~; cio@e se egli @e vero che la luna scuri e il cielo si 
+muova in giro, e dipoi per che cagione. Gli altri due, che appartengono 
+a le cose semplici, cio@e che si proferiscono con un termine solo, come 
+sono ^il cielo~, ^Cariddi~, ^il centauro~ e simili, son chiamati da 
+loro ^an sit~ e ^quid sit~, cio@e se tal cosa @e, e dipoi quel ch'ella 
+@e. Questo ordine volendo osservare il Poeta nostro nel trattare di 
+Malebolge, ottavo cerchio di questo suo Inferno, ch'@e cosa semplice e 
+che si proferisce con un sol termine, cerca nel primo quesito se egli 
+@e o no; e risolvendo ch'egli @e, passa al secondo, ch'@e cercare quel 
+ch'ei sia. Onde dice ch'egli @e un luogo nello Inferno, fatto di pietra 
+a similitudine d'un pozzo, come @e ancora similmente la ^cerchia~ e la 
+sponda che lo volge e circonda a torno a torno. Nel mezzo del piano e 
+del fondo del quale (il qual fondo mostra il Giambullari che giri 
+miglia cento dieci, onde ha di diametro e di traversa miglia 
+trentacinque), dice che ^vaneggia~, cio@e @e 'l vano d'un pozzo assai 
+largo. E questo @e il pozzo della ghiaccia, il quale mette il 
+Giambullari che giri miglia sei e due settimi, e ha di traversa miglia 
+due; onde vien a restar, fra la sua sponda e i fianchi del vano a torno 
+a torno, miglia sedici e mezzo. E questo spazio soggiugne il Poeta nel 
+testo, ch'@e diviso in dieci fosse, che abbracciano l'una l'altra, come 
+si vede fatto per fortezza intorno ad alcuni castelli. Ciascuna delle 
+quali @e larga circa a un miglio e mezzo; imper@o che il restante 
+d'esso piano serve a fare una via, che va a torno a torno a esse fosse 
+a pi@e della gola d'esso burrato, e una che va a torno a torno infra 
+l'ultima fossa e il vano del pozzo del mezzo. Da l'una a l'altra delle 
+quali vie mette il Poeta che in una certa banda sia un ponte, che 
+facendo sopra ciascuna di loro uno arco (eccetto per@o che sopra a una, 
+ch'ei mette ch'egli era rovinato, come voi intenderete di sotto), fa 
+luogo e via da potere attraversarle tutte e arrivare al mezzo. Nelle 
+quali dieci fosse, chiamate da lui ^bolge~, e finte da lui di pietra di 
+colore ^ferrigno~, per la convenienza che debbe aver il luoco con la 
+cosa locata, ei mette che sieno puniti quelle dieci spezie de' 
+fraudolenti, ostinatissimi e indurati nel peccato, de' quali ei parl@o 
+di sopra, quando disse:
+
+   ^Ipocrisia, lusinghe e chi affattura,~
+   ^Falsit@a, ladroneccio e simon@ia,~
+
+e quel che segue.
+
+	|19-33.~  In su questo piano trovandosi adunque il Poeta essere stato 
+posato insieme con Virgilio da Gerione, e movendosi in su la man 
+sinistra dietro a Virgilio per andare a trovare ove cominciava il 
+ponte, dice:
+
+   ^A la man destra vidi nuova pieta,~
+   ^Nuovi tormenti e nuovi frustatori,~
+   ^Di cui la prima bolgia era repleta.~
+
+   ^Nel fondo erano ignudi i peccatori;~
+   ^Dal mezzo in qua ci venian verso il volto,~
+   ^Di l@a con noi, ma con passi maggiori:~
+
+   ^Come i Roman per lo esercito molto,~
+
+e quel che segue.
+
+	Avendo parlato sino a qui il Poeta generalmente di questo luogo di 
+Malebolge, incomincia ora a trattare particularmente di ciascuna di 
+esse bolge. E incominciandosi da la prima, infra la quale e i fianchi 
+del vano essendosi eglino volti, camminando in su la man sinistra, dice 
+che vide, ragguardando in essa, ^nuovi tormenti~; chiamati da lui 
+cos@i, perch@e ei non aveva trovato ancor simili pene. Perci@o che 
+queste anime, ch'ei mette che sieno in questa bolgia, dice ch'erono 
+continovamente frustate e battute da' demoni, che le seguitavano, con 
+certe sferze. E tali anime dice il Poeta ch'erono divise in due parti; 
+una delle quali (e questa mostra ch'era quella ch'era rasente loro), 
+dice che veniva camminando verso loro; e l'altra, cio@e da la met@a 
+della bolgia in l@a, mostra che andasse per il contrario in l@a. Onde 
+dice: quei dal mezzo in qua ci venivano inverso il volto, e quei di l@a 
+camminavan con noi, cio@e pel medesimo verso che faciavamo noi, ^ma con 
+passi maggiori~, cio@e camminavan pi@u forte che non faciavamo noi. E 
+per darne ad intender meglio come andasse tal cosa, ei dice ch'ei 
+tenevano appunto quel modo che tengono i Romani l'anno del Giubbileo; 
+ch@e per la gran moltitudine di gente, che andava in quei tempi a esso 
+Giubbileo a Roma, si faceva una divisa in su 'l ponte di Castello; ch@e 
+da una parte passava chi andava a S. Pietro, e da l'altra quei che se 
+ne tornavano.
+
+	|34-66.~  Questi peccatori, che mette qui il Poeta per la prima spezie 
+delle dieci de' fraudolenti ch'ei mette in queste dieci bolgie, sono 
+quegli che ingannano le donne circa a la onest@a loro, conducendole con 
+promesse e con lusinghe e in altri modi falsi a ceder a le voglie 
+inoneste o lor o d'altri. E per tali cagioni egli gli divide in due 
+parti, che camminon al contrario l'una de l'altra; perch@e altro fine 
+hanno quegli che cercono condurle a le voglie loro (e questi sono 
+chiamati da lui ingannatori), e quegli che le conducono a le voglie 
+d'altri, chiamati da lui ^ruffiani~. Nientedimanco, perch@e il peccato 
+@e in fatto il medesimo, egli gli punisce con la medesima pena; la 
+quale @e, ch'ei sien frustati e battuti da demoni, che gli seguitono, 
+crudelissimamente, perch@e sono ignudi, con certe sferze, la faccia, le 
+spalle e tutta la persona. Con la qual pena egli dimostra moralmente, 
+la prima cosa, la bruttezza di tal peccato, e dipoi lo stato infame e 
+pien di travagli nel quale egli gli conduce; perci@o che il punirgli di 
+cotal sorte di pena, che ha pi@u del vergognoso che del grave (con ci@o 
+sia cosa che le scuriate e le sferzate si uson dare a' fanciulli o a 
+chi commette errori da fanciulli), significa la vilt@a dei loro animi, 
+non avendo punto del generoso, ma essendo cosa al tutto da animali 
+vili, ingannare donne; le quali son tanto manco nobili comunemente che 
+gli uomini, ch'elle hanno fatto pensare alcuni, ch'elle non sien della 
+specie medesima de l'uomo, o veramente sieno in tale specie monstri e 
+individui imperfetti; e che sono oltre a questo, come dice il Filosofo 
+nella ^Retorica~, tanto inclinate per natura al credere, ch'egli @e 
+cosa facilissima ingannarle e giuntarle. Lo essere ignudi, significa 
+ch'ei sono spogliati d'ogni virilit@a d'animo, e finalmente tutta 
+carne; il correre circularmente, stimulati e spinti da i demoni, la 
+sfrenata insaziabilit@a loro, stimulata e punta continovamente da i lor 
+desiderii inonesti; e le battiture date loro da i demoni, che lasciono 
+loro i segni e i lividi in su la persona, significono ultimamente la 
+infamia nella quale ei si conducono, essendo del continovo lacerati e 
+infamati da gli uomini buoni e prudenti. Mette adunque il Poeta questa 
+spezie della fraude in questa prima bolgia, perch@e, se bene ella @e 
+contro a la carit@a (ond'@e peccato mortale, e merita lo inferno), ella 
+@e manco nociva di tutte l'altre all'umano consorzio. Lungo questa 
+bolgia camminando adunque eglino per arrivare, come noi dicemmo di 
+sopra, al ponte che l'attraversa, dice che riscontr@o gli occhi suoi in 
+uno, il quale parendogli aver veduto altra volta su nel mondo, lasci@o 
+andare Virgilio, e torn@o alquanto indietro per vedere se ei poteva 
+riconoscerlo (io non vi recito il testo, perch@e egli @e facilissimo a 
+intendere per se stesso); e finalmente arrivatolo, e nuovamente 
+ragguardatolo, dice che ancor che detto spirito, accorgendosi di tal 
+cosa, abbassassi gli occhi per non esser riconosciuto da lui, come quel 
+che si vergognava d'esser trovato da lui in quel luogo, che riconobbe 
+com'egli era un messer Venetico de' Caccianimici, cavaliere e cittadino 
+bolognese, che condusse gi@a madonna Ghisola sua sorella a le voglie 
+del marchese Azzo terzo. Il quale peccato volendo il Poeta far palesare 
+a lui, tien questo modo del dimandarlo, dicendo: ^che ti mena~, cio@e 
+che colpa ti ha condotto, ^a s@i pungenti salse~, cio@e pene e 
+tormenti? non detto per traslazione da i sapori salsi, che pungono 
+tutti la lingua, come dicono gli espositori, ma da un luogo fuori di 
+Bologna, ove era un grandissimo precipizio, nel quale scrive Benvenuto 
+da Imola che usavano a suo tempo i Bolognesi gittare tutti i corpi de 
+gli uomini infami; onde dice che sent@i pi@u volte dirsi i fanciulli 
+l'uno a l'altro per dispregio, mentre ch'egli stette in Bologna a 
+studio: tuo padre, o il tuo fratello, o il tuo tale, ^fu gittato nelle 
+salse~. Da queste parole del Poeta vinto questo spirito, gli narra 
+rispondendo e confessa il suo fallo. E considerato ch'ei non poteva in 
+modo alcuno legittimamente scusarlo, fece come i pi@u; che essendo 
+trovati in qualche peccato vergognoso e nefando, si scusono con dir 
+ch'ei si truovon di molti altri nel lor grado, parendo lor render con 
+lo esempio di pi@u il lor fallo, se non degno di scusa, almanco men 
+grave. Onde dice ch'ei sono tanti in quel luogo, che piangono e son 
+tormentati per la colpa medesima, ch'ei non son tante le lingue infra 
+la Savena, fiume che passa lungo Bologna e va verso Romagna, e il Reno, 
+che le corre da l'altra banda, avvezze e assuefatte a dir ^sipa~, in 
+cambio che diciamo noi ^s@i~. Ove @e da notare che la citt@a di Bologna 
+doveva essere in quei tempi, o quasi sola, o molto macchiata di questo 
+vizio di tenere poco conto della onest@a delle donne, merc@e, da la 
+parte degli uomini, della grande avarizia che regnava (secondo che dice 
+il testo) nel lor seno, e da quella delle donne, della dolcezza de 'l 
+lor sangue, la qual non fu mai troppo vaga, come scrive il Boccaccio, 
+delle lacrime e de i sospiri de gli amanti. Nel qual mentre che questo 
+spirito parlava in questa maniera, dice il testo ch'ei sopraggiunse uno 
+di quei demoni; e dandogli, acci@o che egli andassi via con gli altri, 
+una grande sferzata, gli disse: ^Ruffian, qui non son femine da conio,~ 
+cio@e da esser corrotte con danari. La qual cosa finge il Poeta, per 
+dar verisimile a la favola, e dipoi per avvertire gli uomini, che non 
+si lascino cadere in oppinione di esser macchiati di qualche vizio, 
+perci@o che ei si pensa poi sempre ch'ei non faccino e non pensino mai 
+altro in tutte le cose nelle quali ei si travagliono.
+
+	|67-99.~  Dopo questo seguita il testo: ^Io mi raggiunsi con la scorta 
+mia;~ nel quale il Poeta, insino a quel verso il quale dice: ^Gi@a 
+eravam l@a 've lo stretto calle,~ racconta, seguitando la narrazion 
+sua, come essendo eglino arrivati dove incominciava da un scoglio, che 
+usciva fuor de' fianchi della ripa, il ponte che passa di sopra a 
+tutte, salirno facilissimamente sopra il suo arco. Al mezzo del quale 
+arrivati ch'ei furono, dice che Virgilio lo fece porre a seder in su la 
+sponda di quello, ma col viso volto in verso la parte donde eglino 
+erano venuti, acci@o ch'ei vedessi quegli che correvano pel verso che 
+erano camminati loro, in quel modo ch'egli aveva fatto fino a quivi 
+quegli ch'eran corsi loro incontro; e questi son quegli che, come noi 
+dicemmo di sopra, ingannon le donne per cavarsi le voglie loro, non per 
+condurle ad altri, come quei primi. E infra questi, mentre ch'egli 
+ragguardava per veder se ei ne conosceva alcuno, come ei fece in quegli 
+altri quel M. Venetico bolognese, dice che Virgilio gli mostr@o Iasone, 
+figliuol di Esone re di Colchi, raccontandogli come egli ingann@o Medea 
+e Isifile regina di Lenno, e che dipoi che ei si ebbe cavate di loro le 
+sue voglie, ei non osserv@o loro n@e fede n@e promessa alcuna ch'egli 
+avessi fatto loro. Le istorie delle quale son racconte diligentemente 
+da 'l Landino, s@i che legga il suo commento chi volessi vederle. E 
+questo giudicando il Poeta che sia a bastanza in trattar di quegli che 
+questa prima bolgia ^azzanna~ (metafora tolta da quegli animali che 
+hanno zanne, che per tal cagione ritengon forte quel che pigliano), 
+giudicando ancor noi che sia a bastanza a la lezione nostra, faremo qui 
+fine.
+
+	|100-105.~  [LEZIONE SETTIMA]
+
+   ^Gi@a eravam l@a 've lo stretto calle~
+   ^Con l'argine secondo s'incrocicchia,~
+   ^E fa da quello al un altr'arco spalle.~
+
+   ^Quivi sentimmo gente, che si nicchia~
+   ^Ne l'altra bolgia, e che col muso sbuffa,~
+   ^E s@e medesma con le palme picchia.~
+
+Avendo trattato fino a qui il Poeta in questo capitolo della prima 
+delle dieci bolge, tratta ora, da qui al fine, della seconda. Nella 
+quale egli pone che sia punita, nel modo che voi intenderete di sotto, 
+l'adulazione; spezie ancora ella di fraude, ma che non offende ancora 
+ella gravemente il consorzio umano; perch@e @e, come mostra Plutarco in 
+quella opera ch'ei fa della differenza la quale @e fra lo amico e lo 
+adulatore, di qualche utilit@a a chi la conosce, e non si lascia 
+ingannar da le sue lusinghe. Per la qual cosa @e non solamente utile, 
+ma necessario, a voler intender bene il testo, innanzi che noi 
+cominciamo a esporlo, veder quel ch'ella propiamente sia, e quando ella 
+@e peccato o no, e di che sorte peccato. Laonde @e da sapere che 
+l'adulazione non @e altro, secondo i nostri teologi, che una falsit@a 
+commessa, o nel parlare, o in gesti e in sembianti che esprimon i 
+concetti della nostra mente, dando qualche vana lode al prossimo, o 
+scusando, e quello che @e peggio, lodando qualche vizio ch'@e in lui, 
+solamente per compiacergli e renderselo benivolo, e dipoi, mediante tal 
+benevolenza, cavar da lo adulato qualche comodo particulare. Onde si 
+vede la prima cosa, moralmente parlando, ch'ella @e opposta e contraria 
+per retta linea a la iustizia; perci@o che lo intento principale della 
+iustizia @e ch'ei sia dato a ciascun quel che gli conviene; e della 
+adulazione, quel che gli piace e quel che gli diletta. Per la qual 
+cosa, desiderando naturalmente ciascuno l'esser lodato, e avendo in 
+odio l'esser biasimato, lo adulatore loda sempre nello adulato tutto 
+quel ch'egli fa, e attribuiscegli di quelle virt@u ch'ei non ha, e se 
+ne ha alcuna, le loda e innalza insino al cielo; e per il contrario, se 
+egli ha vizio alcuno, o ei lo niega, o ei l'abbassa e fa minore ch'ei 
+non @e. Per la qual cagione diceva Plutarco che gli adulatori son 
+simili ad alcuni specchi, che mostron sempre le cose maggiori o minori 
+ch'elle non sono, e non mai secondo il vero. Vedete adunque quanto sia 
+pestifero e nocivo, parlando moralmente, il vizio dell'adulazione; poi 
+che la spegne i buoni costumi, guasta e corrompe la sincerit@a 
+dell'uomo, del quale non @e cosa alcuna peggiore quando egli @e rio, e 
+spaccia e spegne la iustizia, la quale @e ella sola quella che mantiene 
+il consorzio umano; e tanto maggiormente, esercitandosi quegli che sono 
+macchiati di tal vizio, e stando sempre attorno a' principi e a le 
+persone grandi, da' quali depende il male e il bene di pi@u, perch@e ei 
+possono cavare pi@u comodi da loro, che da le persone private. Vengon, 
+dopo gli scrittori morali e gentili, i Cristiani e i teologi; e dicono 
+l'adulazion esser, oltre a di questo, peccato contro a la legge 
+cristiana; con ci@o sia cosa che la legge cristiana sia fondata 
+principalmente in su la carit@a del prossimo e in su la verit@a, e 
+l'adulazione in su l'amor propio e in su la falsit@a; ma ch'ella non @e 
+gi@a sempre peccato mortale, ma quando mortale e quando veniale. E per 
+dichiarazione di questo dicono, e particularmente Alessandro d'Ales e 
+Agnolo de Clavasio, che in quattro modi pu@o commettersi adulazione. Il 
+primo @e attribuire una virt@u a chi non l'ha; il secondo, lodando uno 
+pi@u ch'ei non merita; e nessuno di questi due modi tengono detti 
+teologi che sia peccato mortale, ma s@i ben veniale per cagion di 
+parlar il falso. Il terzo @e lodando un vizio che un abbia; e il quarto 
+@e mostrare che un vizio non sia vizio, con ricoprirlo almanco con 
+ragioni apparenti, se non vere; e questi due modi ultimi, perch@e ei 
+sono contro a la carit@a cristiana, tengon detti teologi che sieno 
+peccato mortale. Per il che tiene il Poeta nostro ch'ei sia punito in 
+questa seconda bolgia. A la quale arrivando egli, e volendola 
+descrivere, dice: noi eravamo gi@a arrivati ove lo ^stretto calle~, 
+cio@e il piano del primo ponte sopra del quale ei camminavano, 
+s'incrocicchia con l'argine del secondo; da la qual cosa, rispetto a 
+esso argine che passa infra l'una bolgia e l'altra, nasce una croce. 
+Nel qual luogo ei dice che incominciarono a sentir gente che ^si 
+nicchiava~, cio@e che si rammaricava con voce cos@i alquanto debole 
+(perci@o che ^nicchiare~ significa nella lingua nostra quel cominciarsi 
+a rammaricar pianamente, che fanno le donne gravide, quando 
+incominciono loro le prime doglie; onde si dice di loro, quando giungon 
+a tal termine: ^elle incominciono a nicchiare~), e che ^sbuffava col 
+muso~, cio@e colla bocca e col naso, a guisa di chi vuole discostarsi 
+da 'l viso qualche cosa che gli dispiace; e che ^si picchiava~ e 
+batteva ^con le palme~, il che @e segno di dolore e di miseria.
+
+	|106-114.~  Dopo la qual cosa, seguitando egli di descrivere detta 
+bolgia, ei dice:
+
+   ^Le ripe eron grommate d'una muffa~
+   ^Per l'alito di gi@u che vi si impasta,~
+   ^Che con gli occhi e col naso facea zuffa.~
+
+   ^Lo fondo @e cupo s@i ch'ei non ci basta~
+   ^Loco a veder senza montare il dosso~
+   ^De l'arco, ove lo scoglio pi@u sovrasta.~
+
+   ^Quivi venimmo, e quivi gi@u nel fosso~
+   ^Vidi gente attuffata in uno sterco,~
+   ^Che da gli uman privati parea mosso.~
+
+Scrive il Trissino, uomo molto celebrato a' nostri tempi nella lingua 
+greca e nella latina, in quel proemio ch'ei fa nella sua ^Italia 
+liberata~, che lo essere stato Omero tanto lodato nasce infra l'altre 
+cagioni da questa, che le azioni ch'egli scrive son espresse da lui con 
+parole tanto propie, che a chi le legge par propiamente essere a la 
+presenza loro e vederle, e ch'ei non si cura, per dar loro tal energia 
+e tal forza, usar talvolta comparazioni e parole bassissime, pur 
+ch'elle sien propie ed esprimino bene i concetti; il che non avviene a 
+la maggior parte de' poeti latini, per aver eglino atteso a fare i loro 
+versi alti e gonfiati, usando in molti luoghi, in luogo di parole 
+basse, circunlocuzioni, traslazioni e altri modi di dire, che fanno 
+dipoi apparir esse azioni manco vive e manco efficaci, e pi@u tosto 
+belle che vere; come avviene a un pittore, che ritraendo una testa 
+naturale che ha qualche parte brutta, fa, lasciando essa parte brutta 
+indietro, pi@u tosto una bella testa, che una che somigli. Questa lode, 
+che d@a il Trissino a Omero, quanto ella si convenga ancora a Dante 
+nostro, si vede in moltissimi luoghi di questo suo poema, ma 
+particularmente in questo. Ove io non credo ch'ei sia possibile 
+descrivere meglio un luogo schifo e sozzo, che faccia qui egli. E 
+questo nasce, perch@e le parole ch'egli usa delle ripe (in cambio 
+ch'elle eron ricoperte, ch'elle eron ^grommate~; in cambio di bruttura, 
+o altra simil parola, ^muffa~; in cambio di vapore, ^alito~; e di 
+appiccare, ^impastare~), son tanto proprie, che chi le considera non 
+pu@o immaginarsi una cosa n@e pi@u brutta n@e pi@u fastidiosa. E se 
+nulla pur mancava, quel modo del parlare ch'egli usa dipoi, dicendo 
+ch'ei ^faceva zuffa~, cio@e non era manco molesto e dispiacevole a gli 
+^occhi~ per la sua bruttura, che al ^naso~ per il suo mal odore, gli 
+d@a (se voi lo considerate bene) la sua ultima perfezione. Dopo la 
+qualit@a del qual sito, passando egli a la forma e a la figura, egli 
+dice ch'egli era tanto cupo, ch'ei non potevano scorgere il fondo, se 
+ei non salivan sopra ^il dosso~, cio@e sopra il colmo de l'arco che gli 
+^sovrasta~, cio@e passa di sopra. Ove finalmente arrivando, dice che 
+videro nel fondo d'esso fosso gente attuffata e rinvolta in uno sterco, 
+che parea mosso e derivato ^da gli umani privati~, cio@e da quei luoghi 
+che l'uomo, come animal civile, usa nelle pi@u secrete parti delle sue 
+abitazioni per deporvi le superfluit@a naturali. N@e poteva il nostro 
+Poeta, se voi considerate bene, trovar pena che pi@u convenisse a gli 
+adulatori, se ben ei par ch'ella abbia alquanto del sozzo; con ci@o sia 
+ch'ella dimostri insieme e la qualit@a loro, e lo stato vile e infelice 
+nel quale ei si conducon finalmente tutti, se gi@a o la loro buona 
+fortuna non gli provede, o la morte non d@a lor fine avanti ch'ei sien 
+conosciuti. Perci@o che lo ^sterco~, nel quale ei son attuffati (che 
+non @e altro che la superfluit@a e la feccia del cibo de l'uomo, 
+gittato da parte da la natura, per non essere in lui pi@u cosa alcuna 
+utile a l'uomo), dimostra come gli adulatori sono ancor eglino 
+similmente la feccia de gli altri uomini; onde son gittati da parte da 
+quei che son veramente uomini, che sono i savi e i prudenti, come 
+quegli ne' quali non @e parte alcuna utile al consorzio umano e al 
+vivere comune. Il puzzo ch'esce da lo sterco quanto pi@u altrui lo 
+travaglia, dimostra il danno che si trae da loro quanto pi@u altrui gli 
+conversa. La poca stima che si fa dello sterco umano (ch@e tale era 
+questo, secondo che dice il testo; perci@o che quegli de gli altri 
+animali si adoperono a ingrassare i campi, il che non si fa di quel de 
+l'uomo, perch@e per esser troppo caldo riarde la terra), dimostra lo 
+stato loro, e quanto ei son poco stimati da chi gli conosce, e la poca 
+fede che si d@a a le parole, a' consigli e a le testimonianze loro. Per 
+il che diceva Plutarco, che tanto quanto l'amicizia @e cosa giovevole a 
+l'uomo, onde ella debbe esser cerca e bramata da ciascuno, tanto gli @e 
+per il contrario l'adulazione nocevole, onde ella debbe esser odiata e 
+fuggita da ogni uomo.
+
+	|115-126.~ 
+
+   ^E mentre che laggi@u con gli occhi cerco,~
+   ^Vidi un col capo s@i di merda lordo,~
+   ^Ch'ei non parea s'era laico o cherco.~
+
+   ^Quei mi grid@o: perch@e sei tu s@i ingordo~
+   ^Di ragguardar pi@u me, che gli altri brutti?~
+   ^Ed io a lui: perch@e, se ben ricordo,~
+
+   ^Gi@a ti ho veduto co' capelli asciutti,~
+   ^E sei Alesso Interminei da Lucca,~
+
+e quel che segue.
+
+	Ragguardando il Poeta, bench@e ella fusse tanto brutta, per questa 
+bolgia, dice che vide uno tanto lordo e imbrattato di merda il capo, 
+ch'ei non si scorgeva se egli era laico o cherico, cio@e s'egli aveva i 
+capelli o era raso. Il testo @e facilissimo; n@e occorre altro se non 
+avvertir alcuni, i quali biasimono il Poeta d'aver usato questa voce 
+^merda~, che in un poema eroico, come @e questo, ove si ha tal volta a 
+parlare d'una cosa pi@u volte, non si disdice, per variare, usar 
+qualche voce non cos@i approvata; e di pi@u, che in quei tempi si usava 
+molto imitare gli scrittori latini, e appresso di loro non era tal voce 
+rifiutata; e ne avete l'esempio di Orazio che la us@o ne' suoi 
+^Sermoni~, e nientedimanco @e tenuto un poeta tanto bello; e oltre a di 
+questo, che quando il Poeta scrisse questa opera, la lingua nostra non 
+era in tanta perfezione, quanto ella @e oggi; onde pareva che ogni 
+volta ch'ei si poteva imitare la latina si facessi bene, dove oggi pare 
+ad alcuni ch'ei si debba pi@u tosto schifar la pronunzia, e molti altri 
+modi che son nella lingua latina, e servirsi di quegli che la nostra si 
+ha fatti suoi mediante l'uso e l'approbazione de' buoni scrittori suoi. 
+E per questa cagione si potrebbe rispondere a questi nasuti, che pute 
+loro cos@i ogni cosellina, che Dante non fugg@i di usare questa parola, 
+avendola usata i Latini, e particularmente ne' suoi ^Sermoni~ Orazio, 
+che fu tenuto poeta tanto dotto e tanto elegante. Riconoscendo adunque 
+il Poeta nostro questo spirito cos@i ^lordo~, cio@e imbrattato (ch@e 
+cos@i significa nella nostra lingua questa voce), e per tal cagione 
+indirizzandogli e fissandogli addosso gli occhi, fu domandato da lui, 
+perch@e ei ragguardava cos@i pi@u lui che quegli altri mal conci. Al 
+quale ei risponde che lo faceva, perch'ei si ricordava d'averlo veduto 
+altre volte fuori di quella bruttura, soggiugnendo, per renderlo certo 
+di tal cosa, com'egli era Alesso de gl'Interminegli da Lucca. Del quale 
+riferisce lo Imolese, com'egli fu Cavaliere, ma grandissimo 
+corteggiatore di gran personaggi, appresso de' quali ei non attendeva 
+ad altro che a adulare; s@i com'egli confessa da s@e nel testo, dicendo 
+come quivi l'aveva condotto e ^sommerso~ in quella bruttura 
+l'adulazion, della quale ei ^non ebbe mai stucca~ e sazia ^la lingua~ 
+mentre che ei visse. Delle quali cose volendo mostrare il Poeta ch'egli 
+non poco si vergognassi, dice che come ei s'accorse che Dante l'aveva 
+riconosciuto, ch'ei cominci@o a percuotersi fortemente con le palme 
+delle mani la ^zucca~, cio@e il capo.
+
+	|127-136.~ 
+
+   ^Appresso ci@o lo Duca: fa' che pinghe,~
+   ^Mi disse, il viso un poco pi@u avante,~
+   ^S@i che la faccia ben con gli occhi attinghe~
+
+   ^Di quella sozza e scapigliata fante,~
+   ^Che l@a si graffia con l'unghie merdose,~
+   ^Ed or s'accoscia ed ora in piede stante.~
+
+   ^Taide la puttana @e, che rispose~
+   ^Al drudo suo, quando ei disse: ho io grazie~
+   ^Grandi appo te? anzi maravigliose.~
+
+   ^E quinci sien le nostre viste sazie.~
+
+Ultimamente egli pone, quasi che per la stessa adulazione, le 
+meretrici, come quelle che non attendon ad altro che a adulare e 
+lusingare i giovani, per legargli ne' loro amori, e per farsegli 
+schiavi. E per loro egli pone quella Taide tanto famosa, della quale 
+scrive Terenzio. Ove, perch@e egli attribuisce quelle parole, che disse 
+Gnatone al suo drudo e innamorato, a lei, sono stati alcuni che hanno 
+pensato ch'ei non voglia dir di lei, ma di quella Taide da Corinto, 
+della quale fa menzione Aulo Gellio; e altri di Dalide che tagli@o a 
+Sansone i capegli. A la qual cosa credo io che si potrebbe ancor dire 
+che il Poeta abbia posto la cagione per lo effetto; perch@e se bene ei 
+le disse Gnatone, e non ella, la cagione ne fu ella. E anche si 
+potrebbe forse ancor dire ch'ei fusse error di lingua fatto da 'l 
+Poeta; perch@e egli era in un esempio, ove non si pensa poi molto pi@u, 
+trovato che altrui lo ha. E ne avete l'esperienza di Aristotile, il 
+quale trattando nella sua ^Retorica~ della compassione, scambia, nello 
+addurre uno esempio, da 'l padre al figliuolo; perci@o che egli 
+attribuisce, come dimostra in quel luogo Pier Vettori, ad Amasi re 
+d'Egitto quel che avvenne a Sammenito suo figliuolo. Ultimamente ci @e 
+da considerare che questa voce ^fante~, con la quale il Poeta chiama 
+questa Taide, non vuol dire ^serva~, come ella significa comunemente 
+nella lingua nostra (perch@e Taide non fu mai fantesca), ma vuol dire 
+^parlante~; nel quale significato la us@o similmente il Poeta nel 
+Purgatorio, quando ei disse, parlando del modo come si generi l'uomo 
+nel ventre della madre: ^Ma come d'animal divenga fante;~ alludendo a 
+la natura delle donne, che parlon comunemente pi@u che gli uomini. E 
+qui, parendo che le lor viste fussero sazie del ragguardare pi@u questa 
+bolgia, il Poeta pone ultimamente fine a questo capitolo.
+

@@ -1,0 +1,1159 @@
+|PURGATORIO CANTO 30~
+
+	|1.  il settentrion del primo cielo~: The seven
+candlesticks representing the seven-fold Spirit of God (see n. to
+^Purg.~ XXIX, 52) are metaphorically termed the Septentrion (from
+the Latin ^septem triones~, "seven ploughing oxen").  In ^De
+mon.~ II, viii, 13, Dante cites verses of Boethius (^Consol.
+philos.~ II, vi, vs. 10) in which reference is made to the
+"septem gelidi triones" ("the seven chill oxen").  The Empyrean,
+in which the seven-fold Spirit of God eternally abides, is the
+last heaven if the heavenly spheres are counted out from center
+(see C. S. Singleton, ^Inferno Commentary~, Fig. 1, p. 34), but
+is here called the first, beginning with the outermost, or tenth. 
+The constelation used as a paragon by Dante here is probably that
+of Ursa Minor, i.e., the Little Dipper, which contains the North
+Star.  The metaphor is to develop into a simile, the first term
+of which is the "Septentrion of the first heaven."
+
+	|2.  che n$e occaso mai seppe n$e orto~: M. A. Orr (1956,
+p. 193) observes: "Like the seven stars, also, the heavenly
+Septentrion is said figuratively to know neither setting nor
+rising."
+
+	|3.  n$e d'altra nebbia che di colpa velo~: Although
+clouds can obscure the stars of the constellations, only sin can
+veil "il settentrion del primo cielo."  See Augustine, ^Conf.~
+II, 3: "Et in omnibus erat caligo intercludens mihi, deus meus,
+serenitatem veritatis tuae, et prodiebat tamquam ex adipe
+iniquitas mea."  ("And in all these, there was a mist depriving
+my sight, 0 my God, of the brightness of thy truth; and mine
+iniquity came from me, as if swelling from a fatness.")  Also see
+Isa. 59:2, "sed iniquitates vestrae diviserunt inter vos et Deum
+vestrum, et peccata vestra absconderunt faciem eius a vobis"
+("but your iniquities have divided between you and your God: and
+your sins have hid his face from you"), a verse which is cited by
+Thomas Aquinas in ^Summa theol.~ I, q. 48, a. 4, resp.: "Quae
+quidem peccata sunt quasi obstacula interposita inter nos et
+Deum, secundum illud Isa. 59, 2."  ("And these sins, indeed, are
+like obstacles interposed between us and God, according to Isa.
+lix. 2.")  Thus the opening figure of the canto is already
+relevant to the penance which Dante will undergo before Beatrice,
+and since it was here in Eden that man first sinned, causing the
+mists to separate him from the Spirit of God, the figure is
+especially significant.
+
+	|4-5.  l@i~: In the procession.
+
+	|ciascuno accorto di suo dover~: The seven candlesticks
+lead the procession and now cause it to halt.
+
+	|'l pi@u basso~: The Septentrion below.  M. A. Orr (1956,
+p. 193), preferring to understand the reference to be to Ursa
+Major, rather than to Ursa Minor, remarks:
+
+     Because it is spoken of as guiding mariners, some
+     commentators have taken the above to refer rather to
+     Septentrio Minor (Ursa Minor), which also has seven chief
+     stars, and is a better guide because nearer the Pole, as
+     Thales taught; but the comparatively faint stars of the
+     Little Bear would not be so apt a comparison with the
+     celestial lights.
+
+She goes on, however, to remind us that in ^Par.~ II, 9, both
+Ursa Major and Ursa Minor are referred to as guides at sea, and
+that in ^Purg.~ IV, 65, they are spoken of together to indicate
+the northern part of the sky.  But surely the fact that Ursa
+Minor contains the North Star leads us to understand it as the
+constellation intended.       |face~ = ^fa.~
+
+	|6.  qual~: "Him who," i.e., the helmsman.      |a
+porto~: As to a haven of rest.  This finds a corresponding term
+in the turning of the elders to the chariot "as to their peace"
+(vs. 9).  Thus the divine Septentrion not only brings the
+procession to a halt but prompts the elders of the first group to
+turn and face the chariot.
+
+	|7-8.  s'affisse~: The verb is emphatic, reinforced as it
+is by "fermo."  Cf. ^Inf.~ XII, 115; ^Purg.~ XI, 135.
+
+	|la gente verace... esso~: The twenty-four elders, as the
+books of the Old Testament (^Purg.~ XXIX, 83-84), are not only
+veridical, but are truly prophetic of the Advent of Christ.  And
+now one of them will announce an "advent."
+
+	|9.  al carro volse s$e~: Since those who came in the
+third group followed the chariot and hence are already facing it,
+this turning about of those who preceded it means that now all
+eyes are upon the chariot at the center, a triumphal chariot with
+no one in triumph upon it yet.  	|come a sua pace~: The
+books of the Old Testament look to the chariot now, awaiting
+thereon the appearance of the one expected, even as in the
+unfolding line of history they looked to the Advent of the Christ
+who would come as our peace.  Cf. Eph. 2:14: "Ipse enim est pax
+nostra."  ("For he himself [Christ] is our peace.")  See also
+Rom. 5:1-2: "Iustificati ergo ex fide, pacem habeamus ad Deum per
+Dominum nostrum Iesum Christum, per quem et habemus accessum per
+fidem in gratiam istam, in qua stamus, et gloriamur in spe
+gloriae filiorum Dei."  ("Having been justified therefore by
+faith, let us have peace with God through our Lord Jesus Christ,
+through whom we also have access by faith unto that grace in
+which we stand, and exult in the hope of the glory of the sons of
+God.")  Both justification and filiation with God are relevant to
+the context here in its symbolic dimensions and the analogy
+Beatrice-Christ.  See C. S. Singleton (1958), pp. 72-85.
+
+	|10.  un di loro~: The elder who represents the Solomonic
+books, but here especially the Song of Solomon, Canticle of
+Canticles.      |quasi da ciel messo~ = ^quasi messo da ciel.~ 
+"Messo" may be understood as the past participle of ^mettere~ or
+as a noun, i.e., "messenger" (cf. ^Inf.~ IX, 85).  This touch
+makes the words spoken by this "book" a kind of annunciation.
+
+	|11-12.  "Veni, sponsa, de Libano"... tre volte~: Cf.
+Cant. 4:8: "Veni de Libano, sponsa mea, veni de Libano, veni,
+coronaberis."  ("Come from Lebanon, my bride, come from Lebanon,
+come and you shall be crowned.")  Thus not only is the call
+"veni" uttered thrice in the verses of the Canticle of Canticles,
+as echoed here, but that call is followed there by the promise of
+a crowning, and this in turn enters appropriately into the figure
+of a triumph in which someone yet to appear is to be exalted (cf.
+^Purg.~ XXIV, 14-15).  Our guiding expectation that Beatrice is
+the one who is to come is now further heightened by this call for
+a "sponsa," in the feminine.  Moreover the "sponsa" who is to
+come cannot be the Church (as the ^sponsa~ was commonly
+understood in the orthodox interpretation), for the Church is
+here already in the procession, being represented by the chariot
+itself.  But the ^sponsa~ of the Canticle of Canticles was also
+understood to be Sapientia, the wisdom of God, and since
+Sapientia in fact proves to be one of the names Beatrice bears in
+the allegory of the poem, the call for her advent that this
+proves to be is highly significant.  
+
+	|e tutti li altri appresso~: The other books of the Old
+Testament all join in the prophetic and welcoming cry.
+
+	|13-18.  Quali i beati... etterna~: Even as those who are
+to stand on Christ's right at the Last Judgment shall rise forth
+from the grave, so these who appear now arise.  The simile is
+striking especially in that its main function is to bring into
+the context of the action that Advent of Christ which is to be at
+the end of time.  (On the figure of the three comings of Christ
+and the allegorical dimensions arising out of such a conception,
+see C. S. Singleton, 1958, pp. 72-85.)  The guiding intention of
+the poet is all the more evident here by virtue of its being
+based, actually, on very slight similarity.  The saints will
+stand forth from their tombs; but in the other term of the
+comparison these are the angels (see vs. 83) who suddenly appear
+on the chariot and who certainly do not rise up out of anything
+resembling tombs (for how would any such be on this chariot, a
+vehicle that has been compared to an ancient Roman triumphal
+chariot?).  Moreover these angels must descend from Heaven in
+order to appear upon the chariot and so do not rise up at all.
+
+	|13.  novissimo~: The last of all.  Cf. the Latin
+^novissime~, "lastly," "last of all," "finally." 	|bando~:
+A public proclamation, usually made after a trumpet is sounded --
+here, the angel's trumpet at the Last Judgment (the "gran
+sentenza" of ^Inf.~ VI, 104).
+
+	|14.  surgeran presti~: Torraca observes that the accent
+of the verse falls strongly on "presti."  The soul will return to
+its body and be more perfect for being "reclothed" in its flesh
+and so will rise forth from the tomb quickly, eager (since these
+are saints) to assemble when Christ comes to judge all.
+
+	|15.  la revestita voce alleluiando~: An absolute
+construction in which "voce" is the subject of the verb
+|alleluiare.~  The alternate reading, which has "carne" instead
+of "voce," is found only in three late MSS (see Petrocchi's vol.
+I, ^Introduzione~, pp. 218-220).  The reclad voice is the voice
+of the resurrected body.  Benvenuto comments: "^La voce
+rivestita~, scilicet, a corpore, quasi dicat, resumptis organis
+corporalibus, ita quod tunc erit perfectior."  ("^La voce
+rivestita~, that is, from the body, as if to say, after they have
+regained their bodily organs, so that then it would be more
+perfect.")  Souls have voices before the voice of the body is
+regained, of course, as every reader of the ^Inferno~ and
+^Purgatorio~ knows; but after regaining their bodies, they will
+be able to shout hallelujah with their bodily voices.
+
+	|16.  basterna~: "Covered vehicle."  The suggestion of a
+veiled effect in the connotation of this particular term is
+important, clearly in the context.  Pietro di Dante glosses:
+"idest curru delicatis pannis cooperto et decorato" ("that is, a
+chariot covered and decorated with fine cloth").  Benvenuto
+observes:
+
+     Est enim basterna vehiculum itineris, sic dicta, quasi
+     vesterna, quia vestibus mollibus sternitur, et a duobus
+     animalibus trahitur, in qua mulieres nobiles deferuntur: et
+     sic vide quantum metaphora sit propria, quia ista biga
+     ducitur in via quae peregrinatur in ista vita, et trahitur
+     ab animali duarum naturarum, et est multipliciter adornata,
+     in qua defertur nobilissima domina, scilicet Beatrix.
+
+     For a ^basterna~ is a vehicle for travel, so to speak, as if
+     ^vesterna~, because it is lined with soft robes and is drawn
+     by two animals, in which noble ladies were transported. 
+     Notice how appropriate the metaphor is, because that
+     carriage moves along the road which the pilgrimage of life
+     follows, and it is drawn by an animal of two natures and is
+     wonderfully adorned, in which the most noble lady, that is,
+     Beatrice, is carried.
+
+	|17.  si levar~ = ^si levarono.~  	|cento~: An
+indeterminate number, as elsewhere in the poem (cf. ^Inf.~
+XXVIII, 52; ^Purg.~ II, 45).  See Dan. 7: 10: "Millia millium
+ministrabant ei et decies millies centena millia assistebant ei." 
+("Thousands of thousands ministered to him, and ten thousand
+times a hundred thousand stood before him.")  On this biblical
+passage Thomas Aquinas (^Summa theol.~ I, q. 112, a. 4, ad 2)
+remarks: "Et sic ministrantium numerus ponitur indefinitus, ad
+significandum excessum."  ("Thus the number of those who minister
+is indefinite, and signifies excess.") 		|ad vocem tanti
+senis~: "At the voice of so great an elder."  Besides providing
+the needed rhyme (with "venis," vs. 19), the Latin serves to
+elevate and solemnize.  Cf. ^Purg.~ XIX, 99.
+
+	|18.  ministri e messaggier di vita etterna~: As angels
+now come to herald the advent of Beatrice, who comes to judge,
+Christ will come with His mighty angels (II Thess. 1:7).  On
+angels as ministers and messengers, see Thomas Aquinas, ^Summa
+theol.~ I, q. 112, "De missione angelorum " and ^De veritate~ q.
+18, a. 5, ad 3: "Adam habuit cognitionem Angelorum, inquantum
+erant propter ipsum facti.  Scivit enim eos esse consortes suae
+beatitudinis, et ministros suae salutis in via."  ("Adam had
+knowledge of the angels in so far as they were made for his sake.
+For he knew that they would be companions of his beatitude and
+helpers for his salvation in this life.")
+
+	|19.  Tutti dicean: "Benedictus qui venis!"~  The
+welcoming cry in the masculine is remarkable in view of the fact
+that it is Beatrice who comes.  It serves, in fact, to guide the
+reader yet farther along the line of a deliberate ambiguity.  Is
+it Christ who comes now?  But Christ is already on the scene, in
+the figure of the griffin.  Is it Beatrice who comes as the bride
+from Lebanon?  Then why not "benedicta quae venis"?  The cry, in
+any event, brings immediately to mind Christ's entry into
+Jerusalem on Palm Sunday and the strewing of fronds, matched in
+the scene here by the tossing of flowers.  Cf. Matt. 21:4-9:
+
+     Hoc autem totum factum est, ut adimpleretur quod dictum est
+     per prophetam dicentem: Dicite filiae Sion: Ecce rex tuus
+     venit tibi mansuetus, sedens super asinam et pullum filium
+     subiugalis.  Euntes autem discipuli fecerunt sicut praecepit
+     illis Iesus; et adduxerunt asinam et pullum, et imposuerunt
+     super eos vestimenta sua, et eum desuper sedere fecerunt. 
+     Plurima autem turba straverunt vestimenta sua in via; alii
+     autem caedebant ramos de arboribus, et sternebant in via. 
+     Turbae autem quae praecedebant et quae sequebantur clamabant
+     dicentes: Hosanna filio David!  Benedictus qui venit in
+     nomine Domini: hosanna in altissimis!
+
+     Now this was done that what was spoken through the prophet
+     might be fulfilled, "Tell the daughter of Sion: Behold, thy
+     king comes to thee, meek and seated upon an ass, and upon a
+     colt, the foal of a beast of burden."
+        So the disciples went and did as Jesus had directed them. 
+     And they brought the ass and the colt, laid their cloaks on
+     them, and made him sit thereon.  And most of the crowd
+     spread their cloaks upon the road, while others were cutting
+     branches from the trees, and strewing them on the road.  And
+     the crowds that went before him, and those that followed,
+     kept crying out, saying, "Hosanna to the Son of David! 
+     Blessed is he who comes in the name of the Lord!  Hosanna in
+     the highest!"
+
+Dante's verse is designed to call vividly to the reader's mind
+this whole scene of Christ's entry into Jerusalem, a scene
+already evoked by the cry of hosanna in ^Purg.~ XXIX, 51. 
+"Venis," in place of "venit," is more direct and immediate.
+
+	Moreover, since the figure of the blessed at the
+resurrection of the body has come into the context, it should
+perhaps be recalled here, as Grandgent notes, that "benedictus
+qui venit" are the last words sung by the assistants before the
+Canon of the Mass, expressing the expectation of the bodily
+coming of Christ.  The words of welcome are from Ps. 117
+[118]:26, "benedictus qui venit in nomine Domini" ("blessed is he
+who comes in the name of the Lord"), and thus belong to the Old
+Testament as well as to the New.  J.S.P. Tatlock (1934-35, p.
+122) observes that the words were also used as "a cry of
+ceremonial welcome to great personages on earth; as to a Lombard
+king coming for his coronation at Milan, by the Canterbury monks
+to Archbishop Thomas Becket returning from exile in 1171, and to
+Pope Innocent IV in Genoa in 1244."
+
+	|20.  e fior gittando e di sopra e dintorno~: As if this
+were another Palm Sunday.  But the flowers form what is called a
+"cloud" (vs. 28), a touch which is also important in the
+symbolism.  See n. to vs. 25.
+
+	|21.  Manibus, oh, date lilia plenis~: This most
+remarkable farewell verse, taken from ^Aen.~ VI, 883, is turned
+toward Virgil, though it serves in the literal meaning as an
+utterance of the welcoming angels, who, as will be seen, toss
+flowers for Beatrice.  It bears the haunting sadness of its
+context in the ^Aeneid~ and functions as a climax to the whole
+strain of pathos that has attached to the figure of the "sweet
+father," as he will now be called when suddenly he is no longer
+by Dante's side.  See ^Aen.~ VI, 867-886 (the last spoken words
+of the sixth book of the ^Aeneid~) for Anchises' prophecy of the
+early death of the youth Marcellus:
+
+     Tum pater Anchises lacrimis ingressus obortis:
+     "o gnate, ingentem luctum ne quaere tuorum. 
+     ostendent terris hunc tantum fata, nec ultra
+     esse sinent.  nimium vobis Romana propago
+     visa potens, superi, propria haec si dona fuissent. 
+     quantos ille virum magnam Mavortis ad urbem
+     campus aget gemitus!  vel quae, Tiberine, videbis
+     funera, cum tumulum praeterlabere recentem! 
+     nec puer Iliaca quisquam de gente Latinos
+     in tantum spe tollet avos, nec Romula quondam
+     ullo se tantum tellus iactabit alumno. 
+     heu pietas, heu prisca fides, invictaque bello
+     dextera!  non illi se quisquam impune tulisset
+     obvius armato, seu cum pedes iret in hostem,
+     seu spumantis equi foderet calcaribus armos. 
+     heu! miserande puer, si qua fata aspera rumpas,
+     tu Marcellus eris!  manibus date lilia plenis,
+     purpureos spargam flores animamque nepotis
+     his saltem accumulem donis et fungar inani
+     munere"....
+
+     Then father Anchises with upwelling tears began: "0 my son,
+     ask not of the vast sorrow of thy people.  Him the fates
+     shall but show to earth, nor longer suffer him to stay.  Too
+     mighty, 0 gods, ye deemed the Roman stock would be, were
+     these gifts lasting.  What wailing of men shall that famous
+     Field waft to Mavors' mighty city!  What funeral-state, 0
+     Tiber, shalt thou see, as thou glidest past the new-built
+     tomb!  No youth of Ilian stock shall exalt so greatly with
+     his promise his Latin forefathers, nor shall the land of
+     Romulus ever take such pride in any of her sons.  Alas for
+     goodness! alas for old-world honour, and the hand invincible
+     in war!  Against him in arms would none have advanced
+     unscathed, whether on foot he met the foe, or dug his spurs
+     into the flanks of his foaming horse.  Ah! child of pity, if
+     haply thou couldst burst the harsh bonds of fate, thou shalt
+     be Marcellus!  Give me lilies with full hand: let me scatter
+     purple flowers; let me heap o'er my offspring's shade at
+     least these gifts and fulfil an unavailing service."
+
+	|22-32.  Io vidi gi@a... m'apparve~: This remarkable
+simile is rich in symbolic significance.  Since a rising sun is
+the established image for the coming of Christ, Beatrice's advent
+in such a figure clearly sustains the analogy that is continued
+in a deliberate ambiguity all through this canto, as it has been
+in the preceding one.  Dante is not facing east at the moment,
+but the procession and the chariot were first seen to come out of
+the east, where a dawning sun might be expected to appear (see n.
+to ^Purg.~ XXIX, 12).  Actually, when Beatrice appears on the
+chariot, it must be that she comes from above, since her abode is
+in Heaven, as every reader knows.  She comes from on high, which,
+in a verse in Luke spoken by Zacharias, the father of John the
+Baptist, when he regained his power of speech, may also mean out
+of the east.  See Luc. 1:78-79: "per viscera misericordiae Dei
+nostri, in quibus visitavit nos oriens ex alto; illuminare his
+qui in tenebris et in umbra mortis sedent, ad dirigendos pedes
+nostros in viam pacis" ("because of the loving-kindness of our
+God, wherewith the Orient from on high has visited us, To shine
+on those who sit in darkness and in the shadow of death, to guide
+our feet into the way of peace").  Beatrice comes in the figure
+of a sun rising (by implication) from on high; yet the procession
+has brought her empty chariot out of the east.
+
+	The poet is also showing responsibility to another aspect
+of doctrine, as reflected in a sermon of Bernard of Clairvaux on
+Advent, which joins the notion of a dawn from on high with that
+of Christ's splendor, which is too bright for our mortal eyes. 
+Hence the "dawn" in which Beatrice comes as a sun is attended by
+tempering vapors so that the eye can endure it for a long time. 
+Even as the words "benedictus qui venit" announce the expectation
+of Christ's bodily presence in the Mass (see n. to vs. 19), so
+this figure suggests the Advent of Christ in the Incarnation.  In
+his ^Sermones de tempore~ (^In adventu Domini~ I, 8) Bernard
+writes:
+
+     Propterea benignissimus Salvator et medicus animarum
+     descendit ab altitudine sua, et claritatem suam infirmis
+     oculis temperavit.  Induit se laterna quadam, illo utique
+     glorioso et ab omni labe purissimo corpore quod suscepit. 
+     Haec est enim illa levissima plane et praefulgida nubes,
+     supra quam ascensurum eum propheta praedixerat, ut
+     descenderet Aegyptum (^Isa.~ xix, 1).
+
+     Therefore the kindly Saviour and Physician of souls comes
+     down from the heights, and he tempers the brilliance of his
+     light for tender eyes.  He carries with Him a lantern, in
+     the glorified body, free of the slightest stain, that He has
+     assumed.  This indeed is that lightsome and gleaming cloud,
+     which the prophet had said He was to ascend upon, that he
+     might descend into Egypt (Isa. 19:1).
+
+The luminous cloud, in the analogy, is matched by the "cloud of
+flowers" in which Beatrice finally appears, so that the eye can
+endure her advent thus.
+
+	|24.  l'altro ciel~: The rest of the sky.
+
+	|25.  e la faccia del sol nascere ombrata~: This is
+matched, in the second term of the simile, by the cloud of
+flowers and also by Beatrice's veiled face.  It should be
+remembered that in His ascension Christ rose in a cloud.  See
+Actus 1:9: "Et cum haec dixisset, videntibus illis, elevatus est;
+et nubes suscepit eum ab oculis eorum."  ("And when he had said
+this, he was lifted up before their eyes, and a cloud took him
+out of their sight.")  Beatrice, too, in a vision of her death in
+the ^Vita nuova~ (XXIII, 25), is seen to ascend as a little
+cloud, to the cry of hosanna.  Christ is to return "cum nubibus,
+et videbit eum omnis oculus" ("with the clouds, and every eye
+shall see him"), as stated in Apoc. 1:7, and so now does
+Beatrice.  The analogy Beatrice-Christ continues to be the
+controlling pattern of the imagery. 
+
+	|29.  le mani angeliche~: The ministers and messengers of
+eternal life toss the flowers as they shout: "Benedictus qui
+venis!" (vs. 19).  See vs. 21: "^Manibus~, oh, ^date lilia
+plenis!~"
+
+	|30.  dentro e di fori~: The flowers fall back, into the
+chariot and outside of it.
+
+	|31-33.  sovra candido vel... viva~: It is no accident
+that Beatrice appears, finally, in verses bearing these
+significant numbers, and it will be noted that "donna," subject
+of the verb "apparve," is the first word of the central verse of
+this tercet.  Beatrice (we are not actually told yet that it is
+she, but who else would it be, so long awaited as she is?) is
+dressed in the three dominant colors of the procession, which are
+those of faith (her veil), hope (her mantle and crown), and
+charity (the color of her robe beneath the mantle).  She appears
+in the central group of the four beasts crowned in green (^Purg.~
+XXIX, 92-93), and she herself is crowned in green (her eyes are
+also green -- see ^Purg.~ XXXI, 116), in keeping with the color
+of the middle group.  Yet the third verse of the tercet is given
+over to the color of charity or love, the color of flame, which
+is that of the crowns of the third group, the remaining books of
+the New Testament.  (It should be recalled that in the ^Vita
+nuova~ Beatrice is, in her first appearance, dressed in crimson
+-- see ^Vita nuova~ II, 3.)
+
+	Thus, finally, at the center of the procession and on the
+triumphal chariot itself, toward which all were looking and upon
+which the hundred angels appeared with their welcoming cry,
+Beatrice comes.  It is one of the great moments of the poem.  And
+before she comes, as we soon learn, Virgil is gone from the
+scene.  See C. S. Singleton (1954), pp. 52-53.
+
+	|cinta d'uliva~: Since the olive is the tree of Minerva,
+the goddess of wisdom, olive green may be said to be her color. 
+Thus, when it becomes clear in the allegory that one of
+Beatrice's names is Sapientia, or Wisdom, the symbolism of her
+crown will be evident.  The olive frond, moreover, is the symbol
+of peace, and we recall that the elders faced the chariot where
+she was to appear as "their peace."  Buti sees these several
+meanings here in the crown of olive: "Si significa la pace, la
+quale @e nell'animo quando s'@e adornato di fede, e la vittoria...
+e significa la sapienzia: imper@o che l'ulivo @e consecrato a
+Pallade che @e la Dia de la sapienzia, la quale @e corona de la
+santa Teologia."  ("It can mean peace, which is in the soul that
+has adorned itself with faith; and victory... and wisdom, for the
+olive is sacred to Pallas, who is the goddess of wisdom; and
+wisdom is the crown of sacred theology.")
+
+	|34-36.  cotanto tempo... affranto~: Since Beatrice died
+in June 1290 and it is now the spring of 1300, it has been ten
+years (cf. "la decenne sete," ^Purg.~ XXXII, 2) since Dante felt
+faint in her presence, as he so often did when he encountered her
+while she was still alive.
+
+	|di stupor, tremando, affranto~: Cf. ^Vita nuova~ II, 4;
+XI, 3; XIV, 4-5; XXIV, 1; and ^passim.~  Dante, in the ^Vita
+nuova~, reaches such a point in this regard that certain ladies
+question him about it in one of the most charming and significant
+episodes of that early work.  See C. S. Singleton (1949), pp.
+82-84.
+
+	|37.  sanza de li occhi aver pi@u conoscenza~: Dante
+cannot actually see that this is Beatrice, concealed as she is by
+the white veil in the cloud of flowers.     |de li occhi~ = ^da
+li occhi.~
+
+	|38.  per occulta virt@u che da lei mosse~: Recognition by
+"occult virtue" is common enough in medieval narrative.  Cf.
+Boccaccio, ^Decam.~ II, 6 (vol. I, p. 119, ll. 12-13).  |mosse~ =
+^si mosse.~
+
+	|39.  d'antico amor~: Cf. vs. 48: "l'antica fiamma." 
+Everywhere the reappearance of Beatrice connects with Dante's
+experience as recounted in the ^Vita nuova.~  According to ^Vita
+nuova~ II, 2, Dante first became enamored of Beatrice when he was
+nine and she herself was eight years old.
+
+	|40-42.  Tosto che ne la vista... fosse~: Much here is
+reminiscent of Boethius.  Cf. ^Consol. philos.~ I, iii, ll. 3-6:
+"Itaque ubi in eam deduxi oculos intuitumque defixi, respicio
+nutricem meam cuius ab adulescentia laribus obversatus fueram
+Philosophiam."  ("Wherefore casting mine eyes upon her somewhat
+stedfasily, I beheld my nurse Philosophy, in whose house I had
+remained from my youth.")
+
+	|prima ch'io fuor di puerizia fosse~: Cf. ^Vita nuova~
+II, 2, "io la vidi quasi da la fine del mio nono" ("I beheld her
+almost at the end of my ninth"), and XII, 7, "come tu fosti suo
+tostamente da la tua puerizia" ("how thou wast hers, right from
+thy very boyhood").  In ^Rime~ CXI, 1-2, Dante writes: "Io sono
+stato con Amore insieme / da la circulazion del sol mia nona." 
+("I have been with Love together since my ninth revolution of the
+sun.")
+
+	|43-46.  volsimi a la sinistra... Virgilio~: Dante is
+facing the stream, and since Virgil has been following behind,
+with Statius, he would now be standing on Dante's left.
+
+	|43.  volsimi~ = ^mi volsi.~ 	|respitto~: Grandgent
+points out that this is a noun which derives from the old verb
+^ri-~ or ^respittare~, "to expect."  Del Lungo comments: "con la
+sospensione d'animo, con l'affannosa incertezza" ("with the
+spirit in suspense, with anxious uncertainty").  Cf. the
+Proven$cal ^respieit~, "trust," "hopeful expectation."
+
+	|44.  corre a la mamma~: Virgil, who has so often been
+referred to as a father, now in this figure becomes a mother, and
+Beatrice, so stern at the moment, will often figure as mother
+from now on (see vs. 79 and ^Par.~ I, 102).  The term presents
+another glimpse of the transition from the first guide to the
+second which is evident in vs. 21, a verse that is both a
+farewell to Virgil and a welcome to Beatrice.  Virgil is called
+father, "dolcissimo patre," for the last time in vs. 50.
+
+	|46.  Virgilio~: Virgil is simply Virgil now, not the
+"good master" or "guide."  His name is shorn of all epithets,
+except that of "dolcissimo patre" in vs. 50.        |dramma~:
+"Dram," the minutest quantity.  Cf. ^Purg.~ XXI, 99.
+
+	|47.  di sangue m'@e rimaso che non tremi~: In the
+physiology of the time the blood was thought to register emotion. 
+See ^Inf.~ I, 90, ^Purg.~ XI, 138, and, for the blood as the seat
+of the soul, ^Purg.~ V, 74.
+
+	|48.  conosco i segni de l'antica fiamma~: Again, as in
+vs. 21, one of Virgil's own verses becomes a verse of this
+farewell to him.  See ^Aen.~ IV, 23, where Dido says to Anna:
+"Adgnosco veteris vestigia flammae."  ("I recognize the traces of
+the olden flame.")  On the antiquity of Dante's "flame," see n.
+to vs. 39.
+
+	|49-51.  Ma Virgilio... die'mi~: It is also by deliberate
+design that Virgil is named once in vs. 46, then thrice in a
+single tercet observing that he is gone (vss. 49-51), then
+finally once in vs. 55 by Beatrice, following the unique naming
+of Dante himself: 1 + 3 + 1.  Commentators (see E. Moore, 1896,
+pp. 20-21) have noted in the triune farewell to Virgil of this
+tercet an echo of other verses of his, ^Georg.~ IV, 525-527:
+
+     ...Eurydicen vox ipsa et frigida lingua,
+     a miseram Eurydicen! anima fugiente vocabat,
+     Eurydicen toto referebant flumine ripae.
+
+     The bare voice and death-cold tongue, with fleeting breath,
+     called Eurydice -- ah, hapless Eurydice!  "Eurydice" the
+     banks re-echoed, all adown the stream.
+
+This passage from the ^Georgics~ follows close upon Orpheus' loss
+of Eurydice when he looked back at her and she vanished and
+returned to deepest Hades.  The echo, thus, because of this
+context, is most appropriate.
+
+	|n'avea lasciati~ = ^ci aveva lasciati.~  "Us" must
+include Statius, of course (even though we had almost forgotten
+about him), but it includes Beatrice, too, and is part of the
+strategy of transition already noted in the n. to vs. 44.  
+
+	|Virgilio a cui per mia salute die'mi~: This naming of
+Virgil looks back down the line of his long guidance almost to
+the very beginning of the action, ^Inf.~ I, 63. 	|die'mi~
+= ^mi diedi.~ 
+
+	|52.  n$e quantunque perdeo l'antica matre~: Cf. ^Purg.~
+XXIX, 23-30.  Again there comes, here in Eden,the thought of loss
+of Eden in consequence of the sin of Eve, who was more to blame
+than Adam (see n. to ^Purg.~ XXIX, 26).   |perdeo~ = ^perd@e~ (cf.
+"appario," vs. 64).      |l'antica matre~: Both "patre" and
+"matre," instead of ^padre~ and ^madre~, may be regarded as
+somewhat dictated by the rhyme with "atre" (vs. 54), yet in the
+farewell to Virgil the word "patre," clearly much closer to the
+Latin ^pater~, seems most fitting, and "matre" has a more ancient
+sound itself.
+
+	|53.  valse~: The subject is the whole phrase "quantunque
+perdeo l'antica matre." 	|le guance nette di rugiada~: A
+touch which looks back to the beginning of the ^Purgatorio~ and
+the successful ascent of the mountain (cf. ^Purg.~ I, 121-129)
+even as vs. 51 looks back to the beginning of the ^Inferno~ and
+the unsuccessful attempt. 	    |nette~ = ^nettate.~
+
+	|54.  tornasser atre~: I.e., as his cheeks had been when
+he came forth from Hell (see ^Purg.~ I, 9596).  Compare "atre"
+with the Latin ^ater~, "black," "dark," and see ^Inf.~ VI, 16.
+
+	|55.  Dante~: The first word Beatrice addresses to Dante
+is his own name.  This is the more striking in that it is the
+only place in the poem (and, for that matter, in all Dante's
+works, except in certain letters and in one lyric) where his name
+appears, and vs. 63 seems to apologize even for this unique
+occurrence, appealing to the necessity for it.  See n. to vs. 63. 
+The name, spoken by Beatrice in the context of her severity and
+the figure of a mother (vs. 79) in which she is cast (see n. to
+vs. 44), establishes at once the tone and manner of Beatrice's
+dealing with Dante now, a manner which may come to the reader as
+a surprise, since Virgil said that Beatrice would come with
+smiling eyes (^Purg.~ XXVII, 136).  Instead she is a ^madre
+superba~ (vs. 79).
+
+	|56-57.  non pianger... pianger~: Matching the three
+mentions of Virgil's name in the farewell tercet, ^piangere~ is
+used thrice in the first tercet spoken by Beatrice.
+
+	|anco~ = ^ancora~, "yet."
+
+	|per altra spada~: For the metaphor of cutting words, see
+n. to ^Purg.~ XXIX, 139-140.
+
+	|58-60.  Quasi ammiraglio... l'incora~: The main purpose
+of the simile is to convey the regal and haughty bearing of
+Beatrice (cf. vs. 70: "regalmente," "proterva"), as that of a
+great personage, such as an admiral or king, standing now upon a
+chariot which is her triumphal chariot, in command of the whole
+"fleet."  There is a certain lack of correspondence between the
+first term of the simile and the second.  Beatrice does not
+really command the procession any more than the personage in a
+triumph commands; nor are there "other ships" ("altri legni")
+here or others under her command ("gente che ministra") who need
+to be urged to a good performance of their duties; nor, finally,
+is the figure of the admiral who moves about the ship ("in poppa
+e in prora") matched by that of Beatrice, for we can only imagine
+her as standing "pur ferma," as in vs. 100, on the left side of
+the chariot, facing Dante.
+
+	|ministra per li altri legni~: Cf. Virgil, ^Aen.~ VI,
+302: "Ipse ratem conto subigit velisque ministrat." ("Unaided, he
+poles the boat, tends the sails.")
+
+	|61.  in su la sponda del carro sinistra~: Beatrice
+stands as near to the edge of the chariot as she can.  The word
+|sponda~ might be used either of the side of a vehicle in this
+sense or the side of a vessel.
+
+	|62.  al suon del nome mio~: See n. to vs. 55.
+
+	|63.  che di necessit@a qui si registra~: In a literal
+sense the necessity of recording the name here is simply that
+Beatrice uttered it, for this account is given as a true report
+of what took place.  But this is so obvious a fact that we look
+for a deeper meaning and find it in the allegorical dimension. 
+Dante's journey is not only his, in a literal sense; it is the
+journey of Everyman, in allegory.  Everyman is so aided by the
+grace of God that he may return to Eden in the allegorical sense
+here intended.  But if Everyman does this, will he meet there a
+Beatrice who will upbraid him as she does Dante for backslidings
+and forgetfulness?  Beatrice, we recall, ^does~ have meaning for
+mankind generally and not only for Dante alone (^Inf.~ II,
+76-78).  Clearly this is not the meaning.  Dante's confession to
+Beatrice, mainly made indirectly through her charges in this
+canto and the next, is a ^personal~ confession.  We are not to
+seek to read it as Everyman's.  And this unique naming of Dante
+as the protagonist declares as much: such is its necessity.  In
+^Conv.~ I, ii, 3, Dante writes: "Non si concede per li retorici
+alcuno di se medesimo sanza necessaria cagione parlare." 
+("Rhetoricians forbid a man to speak of himself, except on
+needful occasion.")
+
+	|64-65.  pria m'appario velata~: Beatrice is no longer
+veiled by the cloud of flowers, as she was when she first
+appeared (vss. 28-32).
+
+	|appario~ = ^appar@i~ (^apparve~).  Cf. "perdeo," vs. 52.
+
+	|l'angelica festa~: The flowers tossed by the angels. 
+"Festa" here bears something of the meaning it has in the
+expression ^fare festa a qualcuno~, "to give glad welcome to
+someone."
+
+	|66.  drizzar li occhi~: This depends on "vidi la donna,"
+vs. 64.  	|ver'~ = ^verso.~ 	|di qua dal rio~: On the
+side of the stream where Dante is standing.
+
+	|68.  cerchiato de le fronde di Minerva~: Crowned with
+the olive (vs. 31).  The olive was sacred to Minerva, the Greek
+goddess Athena (see n. to ^Purg.~ XV, 98), who was known as the
+goddess of wisdom.  Dante also mentions Minerva in ^Conv.~ II,
+iv, 6, "s@i come a Pallade o vero Minerva, la quale dissero dea di
+sapienza" ("for Pallas or Minerva, whom they called goddess of
+wisdom"), and ^Par.~ II, 8.
+
+	|69.  parer~ = ^apparire.~ 	|manifesta~: Wholly
+visible.  The veil still covers Beatrice's face even though the
+cloud of flowers does not hide her now.  
+
+	|71.  continu@o come colui che dice~: Cf. ^Inf.~ V, 126,
+"dir@o come colui che piange e dice," words spoken by Francesca.
+
+	|73.  Guardaci~: Commentators differ in their
+interpretation of |ci~ here.  It could be the pronoun, in which
+case Beatrice, in her regal manner, would be using the plural of
+majesty, speaking as a monarch would, in the first person plural. 
+This reading is often accompanied by "ben sem, ben sem" in the
+rest of the verse, continuing such a plural (^sem~ = ^siamo~). 
+Or |ci~ might be construed as the adverb ^qui~, in which case the
+rest of the verse is usually given in the reading here adopted. 
+|Ben son~, |ben son~: The cutting sarcasm of the repetition is
+clear: "Look well, I am indeed Beatrice."  The words suggest a
+Dante who is gazing as intently as he can to make out Beatrice's
+face through the veil.  	|Beatrice~: Finally the lady is
+named or, rather, names herself, and she has thus pronounced the
+names of Dante, Virgil, and Beatrice -- in that order.
+
+	|74.  Come degnasti d'accedere al monte?~  "How is it
+that you deigned to climb the mountain?"  The sharp sarcasm
+continues and leads into the following verse.  Regarding
+|accedere al monte~ in the sense of "climb the mountain," see
+^Purg.~ II, 60, where the souls newly arrived on the shore of
+Purgatory, with the mountain rising before them, say to Virgil
+and Dante, "mostratene la via di gire al monte," which clearly
+means the way by which the ascent is possible.  Beatrice here
+speaks of Dante's coming to the summit, as the meaning "qui" in
+the following verse demands.  The bitter cut of "degnasti" in
+such a context is evident, for Beatrice knows that Dante was told
+by Virgil that it was her descent to Limbo that made it possible
+for him to give himself to Virgil for his own salvation (vs. 51);
+he might never have climbed to this summit without her coming
+thus to the rescue.   	|degnasti~ = ^ti degnasti.~
+
+	|75.  non sapei tu che qui @e l'uom felice?~  "Qui" is in
+an emphatic position in the verse and means specifically the
+summit of the mountain where Dante now stands.  On happiness as
+the goal at the summit, see n. to ^Inf.~ I, 77-78, and Virgil's
+promise of the "sweet fruit," ^Purg.~ XXVII, 115-117.  Before
+coming here Dante did not know that the Garden of Eden was
+situated at the summit of the mountain, where our first parents
+had known the happiness which Matelda has been seen to enjoy, but
+now this knowledge also can enter into the meaning of Beatrice's
+words.    	|sapei~ = ^sapevi.~
+
+	|76.  fonte~: The clear stream of Lethe, which flows from
+a "fontana" (^Purg.~ XXVIII, 124).
+
+	|77.  i~ = ^li.~ 	|trassi a l'erba~: Dante cannot
+bear to see his own image reflected in the clear water of the
+stream and turns his eyes to the grass of the bank.
+
+	|79.  Cos@i la madre~: Cf. vs. 44.      |superba~:
+"Haughty."
+
+	|80-81.  perch$e d'amaro sente il sapor de la pietade
+acerba~ = ^perch$e il sapor de la pietade acerba sa di amaro.~
+
+	|pietade acerba~: The pity of the mother is "acerba"
+("unripe"), that is, it is not yet the moment for her to reveal
+it, though the child knows it is there and will finally manifest
+itself.  On ^acerbo~ in the sense of "unripe" (and in rhyme with
+^superbo~), see ^Inf.~ XXV, 18; ^Par.~ XIX, 48.
+
+	|82.  li angeli~: The hundred ministers and messengers of
+eternal life who appeared on the chariot tossing the cloud of
+flowers.  They now serve as a kind of chorus, as in ancient Greek
+drama.    |cantaro~ = ^cantarono.~
+
+	|83-84.  di s@ubito~: This touch stresses the angels'
+prompt compassion and ready appeal to Beatrice to show her pity,
+which is still unripe.
+
+     	|"In te, Domine, speravi"... passaro~: The angels, in
+chorus, praying to God for Dante, but also, by indirection, for
+Beatrice's mercy, sing the first part of the thirtieth psalm. 
+See Ps. 30:2-9 [31:1-8]: 
+
+     In te, Domine, speravi, non confundar in
+     aeternum; in iustitia tua libera me.  Inclina ad me
+     aurem tuam, accelera ut eruas me.  Esto mihi in Deum
+     protectorem et in domum refugii, ut salvum me facias. 
+     Quoniam fortitudo mea et refugium meum es tu, et propter
+     nomen tuum deduces me et enutries me.  Educes me de laqueo
+     hoc quem absconderunt mihi, quoniam tu es protector meus. 
+     In manus tuas commendo spiritum meum; redemisti me, Domine,
+     Deus veritatis.  Odisti observantes vanitates supervacue,
+     ego autem in Domino speravi.  Exultabo et laetabor in
+     misericordia tua, quoniam respexisti humilitatem meam,
+     salvasti de necessitatibus animam meam, nec conclusisti me
+     in manibus inimici: statuisti in loco spatioso pedes meos.
+
+     In you, 0 Lord, I take refuge; let me never be put to shame. 
+     In your justice rescue me, incline your ear to me, make
+     haste to deliver me!  Be my rock of refuge, a stronghold to
+     give me safety.  You are my rock and my fortress; for your
+     name's sake you will lead and guide me.  You will free me
+     from the snare they set for me, for you are my refuge.  Into
+     your hands I commend my spirit; you will redeem me, 0 Lord,
+     0 faithful God.  You hate those who worship vain idols, but
+     my trust is in the Lord.  I will rejoice and be glad of your
+     kindness, when you have seen my affliction and watched over
+     me in my distress, not shutting me up in the grip of the
+     enemy but enabling me to stand in a spacious place.
+
+For the appropriateness of the words "in iustitia tua libera me"
+at the beginning of the psalm (appropriate because in allegory
+the goal here at the summit is justification, which is also
+^libert@a~), see C. S. Singleton (1958), pp. 101-121.  The words
+of the last verse sung by the angels are also relevant, since
+through God's mercy and Beatrice's descent at the beginning of
+the journey Dante is now privileged to stand in this spacious
+place at the summit.  And it may be noted that the psalm itself
+bears the not insignificant number of thirty.
+
+	|passaro~ = ^passarono.~ 
+
+	|85-99.  S@i come neve... petto~: For the whole figure
+here, compare Augustine's account of the long gathering up of his
+own misery before his conversion and the mighty storm and shower
+of tears that arose within him (^Conf.~ VIII, 12): "Ubi vero a
+fundo arcano alta consideratio traxit et congessit totam miseriam
+meam in conspectu cordis mei, oborta est procella ingens, ferens
+ingentem imbrem lacrimarum."  ("So soon therefore as a deep
+consideration even from the secret bottom of my soul, had drawn
+together and laid all my misery upon one heap before the eyes of
+my heart; there rose up a mighty storm, bringing as mighty a
+shower of tears with it.")
+
+	|85.  le vive travi~: The living trees which will serve
+as beams when cut.  Cf. Ovid, ^Metam.~ VIII, 329: "Silva frequens
+trabibus."  ("There was a forest thick with trees.")  The
+metaphor is common in the Latin poets.
+
+	|86.  lo dosso d'Italia~: The ridge of the Apennines.
+
+	|87.  venti schiavi~: Northeast winds blowing from
+Slavonia (^Schiavonia~).
+
+	|88.  in s$e stessa trapela~: The snow, melting first on
+the surface, where it is exposed to the sun, seeps down through
+its mass.
+
+	|89.  la terra che perde ombra~: The hot regions of
+Africa, in which the sun is vertically overhead at times, and no
+shadow is cast by any object.  See Lucan, ^Phars.~ IX, 528-532,
+538-539:
+
+     Hic quoque nil obstat Phoebo, cum cardine summo
+     Stat librata dies; truncum vix protegit arbor:
+     Tam brevis in medium radiis conpellitur umbra. 
+     Deprensum est hunc esse locum, qua circulus alti
+     Solstitii medium signorum percutit orbem. 
+     At tibi, quaecumque es Libyco gens igne dirempta,
+     In Noton umbra cadit, quae nobis exit in Arcton.
+
+     But even here the sun finds no hindrance, when the orb of
+     day stands poised in the zenith: the trees can scarce
+     shelter their own trunks -- so small is the compass of the
+     shadow thrown by his rays.  It has been ascertained that
+     this is the spot where the circle of the upper solstice
+     strikes the Zodiac, equidistant from the poles.  But the
+     shadow of people (if such there be) who are separated from
+     us by the heats of Libya falls to the South, whereas ours
+     falls northwards.
+
+	|spiri~: "Breathes forth" its hot winds.  The subjunctive
+is required by "pur che" ("if only").
+
+	|92.  anzi 'l cantar~: "Before the singing." 	   |di
+quei~: Of the angels. 	    |notan~: Cf. ^Purg.~ XXXII, 33.  Buti
+comments: "Notare @e canto seguitare le note; cio@e li segni del
+canto." ("In singing, ^notare~ means to follow the notes, which
+are the signs of the song.")  Landino explains: "Come il buon
+musico cantando segue le note descritte nel libro, cos@i gli
+Angeli riguardando l'influentie, e gli effetti, che procedono da'
+perpetui movimenti de' cieli, cantano quello, che veggono segnato
+nell'ordine fatale della divina providentia."  ("Just as a good
+musician, when singing, follows the notes in the book, so the
+angels, looking at the influences and effects that proceed from
+the perpetual movements of the heavens, sing what they see
+indicated in the inevitable order of Divine Providence.")  Cf.
+vss. 103-105.
+
+	|94.  tempre~: "Modulations."  Cf. ^Par.~ X, 146.
+
+	|95.  lor~ = ^essi.~  "Lor" is the subject of
+"compartire." 		|par che~ = ^come se.~
+
+	|96.  stempre~ = ^stempri.~
+
+	|97-99.  lo gel che m'era intorno... petto~: This
+continues the figure of vss. 85-89.	|fessi~ = ^si fece.~
+
+	|100.  pur ferma~: Beatrice is unrelenting and stands
+unmoved.  	|coscia~: The ^sponda sinistra~ (vs. 61).
+
+	|101.  le sustanze pie~: See ^Conv.~ II, iv, 2, where
+Dante refers to "sustanze separate da materia, cio@e intelligenze,
+le quali la volgare gente chiamano Angeli" ("substances sejunct
+from matter, to wit, Intelligences, which are vulgarly called
+Angels").
+
+	|103-105.  Voi vigilate ne l'etterno die... vie~: The
+angels keep perpetual vigil in the Empyrean, gazing into God's
+light, in which they see all things.  The "everlasting day" is
+the eternal present of the Empyrean, which is outside of time. 
+Ristoro d'Arezzo writes in ^Della comp.~ VII, ii, 1 (pp.
+183-184): "Le virtudi del cielo colle sue intelligenze, le quali
+non dormono e vegghiano sempre sopra l'operazione del mondo." 
+("The virtues of the heavens with their Intelligences do not
+sleep; they are constantly watching over the functioning of the
+world.") Cf. ^Par.~ XXIX, 76-78.  In ^Conv.~ III, vi, 4-5, Dante
+explains: "Ciascuno Intelletto di sopra... conosce quello che @e
+sopra s@e e quello che @e sotto s@e.  Conosce adunque Iddio s@i come
+sua cagione, conosce quello che @e sotto s@e s@i come suo effetto." 
+("Every supernal intellect... hath knowledge of that which is
+above itself, and of that which is below itself.  It hath
+knowledge, then, of God, as its cause; it hath knowledge, then,
+of that which is beneath it as its effect.")
+
+	|die~ = ^d@i.~
+
+	|non fura~: Literally, "does not rob."  Cf. ^Inf.~ XXV,
+29.
+
+	|passo che faccia il secol per sue vie~: "Any step that
+the world below takes along its way," i.e., in time.  
+
+	|106.  @e con pi@u cura~: "Is more concerned."
+
+	|107.  colui che di l@a piagne~: The words are clearly
+disdainful.
+
+	|108.  d'una misura~: I.e., ^della medesima misura.~
+
+	|109-114.  Non pur per ovra... vicine~: The first of
+these two tercets speaks of Nature's part in generation, the
+second of God's, in terms of His grace.  See Thomas Aquinas, ^De
+virtutibus cardinalibus~ a. 2, ad 1: "Propter inclinationem quae
+est ex natura, vel ex aliquo dono gratiae, quam habet aliquis
+magis ad opus unius virtutis quam alterius, contingit quod
+aliquis promptior est ad actum unius virtutis quam alterius." 
+("Because of the inclination which is from nature, or from some
+gift of grace, which some man has more power to produce its
+effect than does another, it comes about that one is more readily
+responsive to some act of virtue than is another.")  Compare
+^Inf.~ XV, 55-56, and ^Par.~ XXII, 112-120, as well as ^Conv.~
+IV, xxi, 7, where Dante says:
+
+     E per@o che la complessione del seme puote essere migliore e
+     men buona, e la disposizione del seminante puote essere
+     migliore e men buona, e la disposizione del Cielo a questo
+     effetto puote essere buona, migliore e ottima (la quale si
+     varia per le constellazioni, che continuamente si
+     transmutano), incontra che de l'umano seme e di queste
+     vertudi pi@u pura [e men pura] anima si produce; e, secondo
+     la sua puritade, discende in essa la vertude intellettuale
+     possibile che detta @e, e come detto @e.
+
+     And because the complexion of the seed may be more or less
+     good, and the disposition of the sower may be more or less
+     good, and the disposition of the heaven for the effect may
+     be good, better or best (since it varies by reason of the
+     constellations which are continually changing), it comes to
+     pass that from the human seed, and from these virtues, the
+     soul is produced more or less pure.  And according to its
+     purity there descends into it the possible intellectual
+     virtue, which has been spoken of, and in the way spoken of.
+
+	|112.  larghezza di grazie divine~: In ^Conv.~ IV, xxi,
+11, Dante writes:
+
+     Per via teologica si pu@o dire che, poi che la somma
+     deitade, cio@e Dio, vede apparecchiata la sua creatura a
+     ricevere del suo beneficio, tanto largamente in quella ne
+     mette quanto apparecchiata @e a riceverne.  E per@o che da
+     ineffabile caritate vegnono questi doni, e la divina
+     caritate sia appropriata a lo Spirito Santo, quindi @e che
+     chiamati sono Doni di Spirito Santo.
+
+     By way of theological science it may be said that when the
+     supreme Deity, that is God, sees his creature prepared to
+     receive of his benefaction, he commits to it as largely
+     thereof as it is prepared to receive.  And because these
+     gifts come from ineffable love, and the divine love is
+     appropriated to the Holy Spirit, they are thence called
+     gifts of the Holy Spirit.
+
+	|113.  s@i alti vapori~: "Such lofty mists" or "clouds,"
+i.e., source and origin, in divine causality. 		|piova~ =
+^pioggia.~  Cf. ^Par.~ XIV, 27: "l'etterna ploia."
+
+	|114.  nostre viste~: Beatrice speaks as one of the
+blessed, and she speaks to angels, who share in the vigil of the
+eternal day (vs. 103), and yet even they cannot see clearly the
+source of God's grace.
+
+	|115.  ne la sua vita nova~: In his youth.
+
+	|116.  virtualmente~: Cf. ^Purg.~ XXV, 96.     |ogne
+abito destro~: "Every good disposition."
+
+	|119.  col mal seme e non c$olto~ = ^seminato con mal seme
+e non coltivato.~
+
+	|121-123.  Alcun tempo... v@olto~: This tercet contains in
+miniature the story of the ^Vita nuova~, and, though spoken here
+by Beatrice, it holds to the lyrical focus of that early work and
+sees Beatrice not as she would have seen herself, but as Dante
+saw her.
+
+	|in dritta parte v@olto~: I.e., turned toward God.  Cf.
+^Inf.~ I, 3: "la diritta via." 
+
+	|124-125.  S@i tosto come... etade~: The first age is
+adolescence, the second ^gioventute~, as Dante explains in
+^Conv.~ IV, xxiv, 1: "Dico che la umana vita si parte per quattro
+etadi.  La prima si chiama Adolescenzia, cio@e 'accrescimento di
+vita'; la seconda si chiama Gioventute, cio@e 'etade che puote
+giovare.'"  ("I say that human life is divided into four ages. 
+The first is called adolescence, that is, the 'increasing' of
+life.  The second is called 'manhood,' that is to say, the age of
+achievement.")  In ^Conv.~ IV, xxiv, 2, Dante notes: "De la prima
+nullo dubita, ma ciascuno savio s'accorda ch'ella dura in fino al
+venticinquesimo anno."  ("As to the first, no one hesitates, but
+every sage agrees that it lasts up to the twenty-fifth year.")
+
+	|e mutai vita~: According to the account in the ^Vita
+nuova~ (XXIX, 1), Beatrice died and passed to eternal glory in
+1290, i.e., on the verge of her "Gioventute," or second age,
+being twenty-four at the time.
+
+	|126.  questi si tolse a me, e diessi altrui~: The
+pronoun "altrui" is personal (dative), and to every reader of the
+^Vita nuova~ (XXXV-XXXVIII) it will recall the episode of the
+"gentile donna giovane e bella molto" to whom, according to the
+story, Dante felt strongly attracted after the death of Beatrice. 
+But by that account this infatuation did not last long, and his
+love for Beatrice finally won out.  Beatrice's charge is
+therefore not clear in its import, nor will it become any clearer
+for being repeated in the next canto, vss. 59-60.  Perhaps the
+personal pronoun represents a kind of personification of the
+"deceptive images of good" (vs. 131 below), and it is in those
+terms that the same charge is repeated in ^Purg.~ XXXI.   
+|diessi~ = ^si diede.~
+
+	|130.  per via non vera~: Cf. ^Inf.~ I, 3: "ch$e la
+diritta via era smarrita."
+
+	|131.  imagini di ben seguendo false~: Compare the dream
+of the ^antica strega~, ^Purg.~ XIX, 7-24.
+
+	|132.  che nulla promession rendono intera~: Such, in
+fact, was the significance of all the physical defects of the
+woman in the dream of ^Purg.~ XIX.  Boethius writes in a similar
+vein in ^Consol. philos.~ III, viii, ll. 1-3, 31-35:
+
+     Nihil igitur dubium est quin hae ad beatitudinem viae devia
+     quaedam sint nec perducere quemquam eo valeant ad quod se
+     perducturas esse promittunt....  Ex quibus omnibus illud
+     redigere in summam licet, quod haec quae nec praestare quae
+     pollicentur bona possunt nec omnium bonorum congregatione
+     perfecta sunt, ea nec ad beatitudinem quasi quidam calles
+     ferunt nec beatos ipsa perficiunt.
+
+     Wherefore there is no doubt but that these ways to happiness
+     are only certain by-paths, which can never bring any man
+     thither whither they promise to lead him....  Out of which
+     we may briefly collect this sum; that these goods, which can
+     neither perform {w}hat they promise, nor are perfect by having
+     all that is good, do neither, as so many paths, lead men to
+     happiness, nor make men happy of themselves.
+
+In ^Conv.~ IV, xii, 2-4, Dante states: "E qui si vuole sapere che
+le cose defettive possono aver li loro difetti per modo che ne la
+prima faccia non paiono, ma sotto pretesto di perfezione la
+imperfezione si nasconde."  ("And here be it known that defective
+things may harbour their defects in such fashion that they appear
+not at first sight, the imperfection hiding under a pretext of
+perfection.")  He notes: "E quelle cose che prima non mostrano li
+loro difetti sono pi@u pericolose, per@o che di loro molte fiate
+prendere guardia non si pu@o....  Promettono le false traditrici
+sempre... rendere lo raunatore pieno d'ogni appagamento; e con
+questa promissione conducono l'umana volontade in vizio
+d'avarizia."  ("And those things which at first conceal their
+defects are the most dangerous; because, in many cases, we cannot
+be on our guard against them....  The false traitoresses ever
+promise to make him who gathers them full of satisfaction... and
+with this promise they lead the human will to the vice of
+avarice.")
+
+	|133.  N$e l'impetrare ispirazion mi valse~: Nor did it
+avail me to implore and gain inspirations of God for him.  One
+such inspiration is recounted in the ^Vita nuova~ (XXXIX, 1):
+"Contra questo avversario de la ragione si levoe un die, quasi ne
+l'ora de la nona, una forte imaginazione in me, che mi parve
+vedere questa gloriosa Beatrice con quelle vestimenta sanguigne
+co le quali apparve prima a li occhi miei; e pareami giovane in
+simile etade in quale io prima la vidi."  ("Against this
+adversary of reason there arose one day a mighty vision within
+me, almost at the hour of noon; for methought I beheld this
+glorious Beatrice, in those crimson garments wherein she first
+appeared to mine eyes, and she seemed to me youthful and of an
+age like to that in which I first beheld her.")  And, in ^Vita
+nuova~ XLII, 1, Dante tells of yet another inspiration, a
+"mirabile visione" ("wondrous vision") that appeared to him.
+
+	|134.  in sogno e altrimenti~: Neither of the
+above-recounted inspirations came to Dante in a dream.  According
+to Beatrice there were yet others sent to him in his sleep.
+
+	|135.  lo rivocai~: I.e., to the true way.      |si poco
+a lui ne calse~: So little did it matter to him.        |calse~:
+Past absolute form of ^calere.~
+
+	|136-137.  Tanto gi@u cadde... corti~: In his shameful life
+with Forese, for one thing.  See ^Purg.~ XXIII, 115-117.
+
+	|argomenti~: "Measures."  Cf. "s'argomentin," ^Inf.~
+XXII, 21.
+
+	|corti~: "Insufficient."
+
+	|138.  fuor che mostrarli le perdute genti~: The journey
+through Hell, therefore, was a necessity.  Virgil implied as much
+when he said to Cato (^Purg.~ I, 62-63) that "non li era altra
+via / che questa per la quale i' mi son messo." 
+|mostrarli~ = ^mostrargli~,
+
+	|139.  Per questo visitai l'uscio d'i morti~: Once again
+the reader is carried by such a memory back to the beginning of
+the poem and to ^Inf.~ II in particular.  The phrase "uscio d'i
+morti," as Porena observes, renders the scriptural ^portae
+inferi~, which in ecclesiastical usage came to stand for Hell. 
+Beatrice descended only to Limbo, it will be recalled.
+
+	|140.  colui~: Virgil.
+
+	|141.  piangendo~: Once again Beatrice's tears are
+remembered.  Cf. ^Inf.~ II, 116, and ^Purg.~ XXVII, 137.
+
+	|142.  fato di Dio~: Decree of God, which is what the
+pagan concept of fate became in Christian doctrine.  See
+Augustine, ^De civ. Dei~ V, i-ix, 4; Boethius, ^Consol. philos.~
+IV, vi, ll. 1-86; Thomas Aquinas, ^Summa theol.~ I, q. 116, a. 2
+and a. 4.
+
+	|143.  vivanda~: The taste of the living waters of Lethe.
+
+	|144.  scotto~: "Scot," i.e., payment for goods or
+entertainment.  "Scotto di pentimento" means contrition for the
+backsliding with which Beatrice has charged Dante.  Dante may not
+obtain forgetfulness of sin without first showing contrition of
+the heart and confession by the mouth, normally two essentials of
+the sacrament of penance.
+
+

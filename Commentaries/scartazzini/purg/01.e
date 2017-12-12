@@ -1,0 +1,727 @@
+	|1.  Per correr~: per trattare materia men trista e meno
+spaventevole.  -- |Migliori acque~: Al. ^miglior acqua.~  --
+|Migliori~: meno crudeli, meno orride.  -- |Alza~: si
+apparecchia.
+
+	Secondo i dottori della Chiesa il Purgatorio @e sito
+anch'esso nell'averno, in prossima vicinanza dell'Inferno, anzi
+esso non @e in fondo che uno scompartimento dell'Inferno, che essi
+dividevano in due parti principali (cfr. ^Petr. Lombard.~ l. IV,
+^dist.~ 45 A. ^Thom. Aquin.~ P. III, qu. 69, art. I, e seg.) cio@e
+1+o~- l'Inferno propriamente detto, dove i diavoli e dannati
+soffrono eterno tormento (cfr. ^Elucidar.~ c. 62) 2+o~- gli altri
+luoghi averni i quali sono: ^a.~ il Purgatorio, che confina
+immediatamente all'Inferno; ^b.~ il limbo de' bambini (^limbus
+infantum~), ove sono i fanciulli morti senza battesimo (cfr.
+^Thom. Aquin.~ qu. 69, art. 6); ^c.~ il limbo de' padri (^limbus
+patrum~), il soggiorno dei pii dell'antichit@a dove Cristo discese
+a predicar salute e liberazione (cfr. ^Thom: Aquin.~ l. c. art.
+4; ^Elucidar.~ c. 64; ^Dante, Inf.~ IV, 31-63).  Inquanto a
+quest'ultimo Dante si conforma alla topografia dei dottori
+scolastici; ma inquanto al Purgatorio egli se ne scosta creandone
+uno tutto a suo modo, pi@u poetico, pi@u chiaro, pi@u luminoso, pi@u
+lieto, pi@u ridente.  Il Purgatorio dantesco @e una isoletta in
+mezzo alle grandi acque che, secondo l'opinione de' suoi tempi,
+ricoprivano tutto l'emisfero della terra opposto al nostro; e in
+quell'isoletta, un monte che, nel meridiano e in diretta
+opposizione di Gerusalemme, allora creduta punto medio del nostro
+emisfero, s'alza a guisa di cono troncato alla cima, dove finisce
+in una amenissima pianura che @e il Paradiso terrestre.  Secondo
+la lettera il Purgatorio ci rappresenta lo stato di penitenza
+delle anime che usciron penitenti dal corpo loro ma non sono
+ancora sufficientemente pure onde salire in Paradiso; secondo
+l'allegoria poi esso ci rappresenta l'uomo che mediante penitenza
+va riconciliandosi con Dio.
+
+	|2.  La navicella~: la facult@a e possibilit@a del mio
+ingegno; imper@o che come la nave @e atta a portare proporzionato
+carico; cos@i lo ingegno umano, materia conveniente alla sua
+facult@a.  ^Buti.~  Anche altrove (^Son.~ XXXII; ^Conv.~ t. II, c.
+1) il Poeta chiama modestamente l'ingegno suo una navicella.
+
+	|3.  Mar~: l'inferno.  -- |Dietro~: Al. ^retro.~
+
+	|7.  Morta~: perch@e cant@o del ^regno della morta gente~,
+Inf. VIII, 85.  La |morta poesia~ @e la poesia lugubre, che cant@o
+dei dannati; cfr. ^Inf.~ XXXII, 1 e seg.  Cos@i ^Lan.~, ^Ott.~,
+^Lomb.~, ^Portir.~, ^Biag.~, ^Tom.~, ^Br. B.~, ^Frat.~, ^Greg.~,
+^Andr.~, ^Giul.~, ecc.  Altri: La facolt@a poetica, nei secoli
+anteriori a Dante giacente nelle tenebre e per@o morta; ^An.
+Fior.~, ^Buti~, ^Dan.~, ecc.  Secondo il ^Vent.~ |morta~ in tre
+sensi: nei due succennati ed inoltre <morta anche in lui, per
+aver gi@a consumati tutti gli spiriti comunicatigli dalle Muse
+liberalmente nei precedenti canti, onde stanco e rifinito
+trovandosi senza novello ajuto, duro gli riesce e malagevole il
+proseguire.>  -- |Poes@i~: per ^poesia~, anticamente anche in
+prosa; cfr. ^Nannuc.~ ^Teor. dei Nomi~, Fir. 1858, pag. 44-46. 
+-- |Risurga~: ergasi e rasserenisi.
+
+	|8.  Muse~: invoca le nove Muse pagane, come si vede
+subito dalla menzione che fa di ^Calliop@e~ nel verso seguente. 
+Il ^Bennass.~: <Non accenna che a muse cristiane.... muse fatte
+conoscere dalla fede cattolica.>  Quali sono queste muse?  Ed @e
+Calliop@e anche del lor numero?  -- |Vostro~: vostro divoto,
+perch@e tutto dedicato allo studio della poes@ia; cfr. ^Purg.~
+XXIX, 37 e seg. ^Horat.~ Od. l. III, Od. IV, 21 e seg.
+
+	|9.  Calliop@e~: Al. ^Calliop$ea~, la musa della poes@ia
+epica.  Nell'^Inf.~ II, 7, invoca le muse in generale; qu@i
+^Calliop@e~ abbisognandogli ^bella voce~ a cantare del secondo
+regno.  Cfr. ^Virg.~ ^Aen.~ IV, 522: ^Vos, o Calliope, precor,
+adspirate canenti.~  Vedi pure ^Ep. Kani Gr.~ {paragraph.} 18. 
+-- |Surga~: s'elevi un poco.  Cfr. ^Ovid.~ ^Metam.~ l. V, v.
+338-340:
+
+     ^Surgit, et immissos hedera collecta capillos~
+     ^Calliope querulas praetentat pollice chordas~
+     ^Atque haec percussis subiungit carmina nervis.~
+
+|Calliop@e~ coll'accento sull'ultima come ^Let@e~, ^Semel@e~, ecc. 
+-- Invece di |surga~ lo ^Strocchi~ vuol leggere ^turga~ (^Div.
+Com.~ Prato 1852, Append. p. 717); ma il passo citato di Ovidio
+sembra decidere in favore della volgata.  Sul paganesimo
+dell'invocazione cfr. ^Ozanam~, ^Purg.~ p. 37 e seg.
+
+	|10.  Seguitando~: accompagnando.  -- |Con quel suono~:
+<puossi intendere che l'autore dica |con quel suono~, perch@e
+Calliope disse lode de l'iddii, e le Piche infamie; cio@e con la
+loda del vero Iddio.>  ^Buti.~
+
+	|11.  Piche~: le nove figlie di Pierio re di Tessaglia
+che, avendo sfidato al canto le muse, furono da queste vinte e
+poi trasformate in piche; cfr. ^Ovid.~ ^Metam.~ l. V, v. 302 e
+seg.  -- <Dante con fino intendimento ricorda le figliuole di
+Pierio col nome che lor venne assegnato, dopo che per la
+colpevole oltracotanza soggiacquero alla misera trasformazione. 
+Ed @e poi notabile come il sommo Poeta in solo quattro versi
+bastasse a comprendere tutto che Ovidio assai lungamente
+descrisse.>  ^Giul.~
+
+	|12.  Disper#ar~: avendo le ninfe sentenziato che le
+figliuole di Pierio fossero vinte, queste n@e vollero
+acconsentirvi n@e chieder perdono, anzi dissero villanie alle
+muse; ^Ovid.~ l. c. v. 663 e seg.  Qu@i Dante sembra pertanto dire
+appunto il contrario di ci@o che si legge in Ovidio.  Il ^Buti~:
+<potrebbe anco dire lo testo: ^che dispett#ar perdono~, cio@e
+ebbeno in dispetto che fusse loro perdonato.>  Ma la lezione
+^dispett#ar~ non occorre nei codici.
+
+	|13.  Color~: azzurro.  -- |Or,Iental~: <sono due specie
+di zaffiri; l'una si chiama l'orientale perch@e si trova in Media
+ch'@e nell'oriente, e questa @e melliore che l'altra e non traluce;
+l'altra si chiama per diversi nomi com'@e di diversi luoghi.> 
+^Buti.~  <Il ^dolce colore di zaffiro~ esprime la speranza.> 
+^Innocent.~ III, ^Epist.~ III, Cfr. ^Perez~: ^La Beatrice
+svelata~, Palermo 1865, pag. 43.
+
+	|14.  S'accoglieva~: s'adunava -- di cui mostravasi tinto
+l'aere.
+
+	|15.  Primo giro~: il Poeta dice |giro~ per ^Cerchio~ o
+per ^Circolo~; il |primo giro~ significa il primo fra i Cerchj
+della Sfera; e questo @e l'Orizzonte, siccome quello che solo @e
+parvente, e che serve alla determinazione di tutti gli altri. 
+Viene adunque il Poeta a dire, che quell'aere sereno, in cui si
+accoglieva il dolce colore di orientale zaffiro, era puro, cio@e
+scevro di ogni nebbia e d'ogni caligine, fino all'orizzonte, ove
+un poco pi@u, o un poco meno, @e raro che non iscorgasi traccia di
+materie vaporose.  Ci@o aggiunge molti gradi alla purezza del
+cielo apparente, e la fa massima; ed impone che il verso 15 debba
+scriversi in questa guisa ^Dell'aer, puro infino al primo giro.~ 
+Cfr. ^G. Antonelli~, ^stud#i particolari sulla D. C.~ Fir. 1871,
+p. 41 e seg. ^Conv.~ tr. II, c. 4.
+
+	|16.  Ricominci@o~: torn@o a dare agli occhi miei quel
+diletto, che io non aveva pi@u gustato dopo la mia entrata
+nell'Inferno.
+
+	|17.  Morta~: oscura, caliginosa.
+
+	|18.  Il petto~: il cuore, la mente.
+
+	|19.  Pianeta~: la stella di Venere.  <Ragionevole @e
+credere che li movitori del cielo di Venere siano li troni, li
+quali, naturati dall'amore del Santo Spirito, fanno la loro
+operazione connaturale ad esso, cio@e lo movimento di quello cielo
+pieno d'amore; dal quale prende la forma del detto cielo uno
+ardore virtuoso, per lo quale le anime di quaggi@u s'accendono ad
+amare, secondo la loro disposizione.  E perch@e gli antichi
+s'accorsono che quel cielo era quaggi@u cagione d'amore, dissono
+Amore esser figliuolo di Venere.>  ^Conv.~ tr. II, c. 6; Cfr.
+^Parad.~ VIII, 1 e seg. ^Ponta~: ^Orologio Dantesco~ (^Opp. su
+Dante~, Novi 1846) p. 205.
+
+	|21.  Velando~: colla sua luce.  -- |I Pesci~: <il segno
+dei Pesci potea ben apparire in cielo prima del sorger del Sole
+essendo questo allora in Ariete, ma Venere si leva dopo il Sole,
+il 27 marzo 12 minuti, il 7 aprile 30 min., e il 10 aprile anche
+pi@u tardi; onde @e cronologicamente impossibile ch'ella comparisca
+in tal tempo.>  ^Filal.~  <Come stella mattutina Venere @e nel
+segno dei Pesci, che precede immediatamente quello d'Ariete in
+cui @e il Sole nell'equinozio; sono adunque circa due ore prima
+del levar del Sole>.  ^Witte.~
+
+	|22.  A man destra~: in ambedue gli emisferi chi si volge
+colla faccia verso l'oriente, ha a destra il polo antartico.
+
+	|23.  Quattro stelle~: @e fuor d'ogni dubbio che queste
+stelle hanno un senso allegorico e rappresentano le virt@u
+cardinali.  Ci@o si rileva dal v. 37, del presente Canto, ove esse
+son dette ^luci sante~, come pure da ^Purg.~ XXXI, 106: ^Noi siam
+qu@i ninfe, e nel ciel siamo stelle.~  Dall'altro canto non @e men
+certo che Dante intende parlare di stelle reali, come lo prova il
+verso seguente e ^Purg.~ VIII, 91, 92: ^Le quattro chiare stelle
+Che vedevi staman son di l@a basse.~  Non essendo per@o in verun
+modo probabile che il Poeta avesse nozione della ^Croce del Sud~,
+bisogner@a ammettere che le quattro stelle furono semplicemente
+immaginate dal Poeta per rappresentare le virt@u cardinali.  <Le
+mysticisme philosophique et religieux qui p$en@etre et vivifie
+l'immense composition du Dante, assigne @a tous les objets, @a c$ot@e
+de leur existence r$eelle ou mat$erielle, une existence id$eale. 
+C'est comme deux mondes, dont l'un est le reflet de l'autre.  Le
+groupe des quatre $etoiles repr$esente, dans l'ordre moral, les
+^vertus cardinales~, la prudence, la justice, la force et la
+temp$erance; elles m$eritent pour cela le nom de ^luci sante.~  Les
+trois $etoiles ^qui $eclairent le pole~ repr$esentent les ^vertus
+th$eologales~, la foi, l'esp$erance, et la charit$e.  Les premiers
+de ces #etres nous r$ev@elent eux-memes leur double nature; ils
+chantent: ^Noi sem qu@i Ninfe, e nel ciel semo stelle.~  Dans la
+^Terre de la v$erit$e~, le Paradis terrestre, sept nymphes se
+trouvent r$eunies: ^In cerchio le facevan di s@e claustro le sette
+Ninfe.~  C'est la r$eunion des vertus cardinales et th$eologales. 
+Sous ces formes mystiques, les objets r$eels du firmament,
+$eloign$es les uns des autres, d'apr@es les lois $eternelles de la
+^M$ecanique c$eleste~, se reconnaissent @a peine.  Le monde id$eal
+est une libre cr$eation de l'ame, le produit de l'inspiration
+po$etique.>  ^A. de Humboldt, Examen critique~ etc. Paris 1814-34,
+Vol. IV, p. 324 e seg.  Cfr. lo stesso, ^Kosmos~, Vol. II, p.
+331, 486, Vol. III, p. 329, 361.
+
+	|24.  Prima gente~: Adamo ed Eva, i quali dimorando nel
+Paradiso terrestre in cima al monte del Purgatorio, vedevano di
+col@a le stelle del polo antartico.  Secondo la geografia del
+medio evo l'Asia e l'Africa non si estendevano oltre l'equatore. 
+Le quattro stelle rimasero conseguentemente invisibili a tutti
+gli uomini, dacch@e i progenitori furono scacciati dal Paradiso
+terrestre.
+
+	|26.  Vedovo~: essendo il mondo tutto diserto d'ogni
+virt@u, e gravido e coperto di malizia.  ^Purg.~ XVI, 58 e seg. 
+In questa esclamazione le quattro stelle sembrano non avere che
+un senso allegorico; il Poeta si duole che il nostro emisfero
+settentrionale sia privo delle virt@u cardinali.
+
+	|28.  Com'io~: tosto che lasciai di riguardarle.
+
+	|29.  All'altro polo~: al polo artico, a sinistra.
+
+	|30.  Il Carro~: l'Orsa maggiore.  -- |Gi@a~: non @e
+avverbio di tempo ma di luogo, e basta a significare che Dante si
+ritrov@o nell'emispero australe tant'oltre all'equatore, che pi@u
+non si poteva scorgere il polo a noi sovrastante.  ^Giul.~
+
+	|31.  Un veglio~: Catone d'Utica, nato nell'anno 95 a. C.
+morto li 8 aprile dell'anno 46 a. Cr.  Come pagano Dante avrebbe
+dovuto porlo fra i pagani virtuosi nel limbo (^Inf.~ IV.); come
+suicida nel secondo girone del settimo cerchio infernale.  Invece
+egli ne fa il custode e quasi il signore dell'intiero Purgatorio
+(cfr. v. 65 e 82 del presente canto), e degno di salire un giorno
+al cielo (cfr. v. 74, 75).  Ci@o sembra a prima vista una
+inconseguenza.  Giova per@o ricordarsi che l'antichit@a, non
+eccettuatine persino alcuni padri della Chiesa, celebr@o Catone
+sommamente (vedine esempi a dovizie presso ^G. Wolff~, ^Cato der
+J,ungere bei Dante~ nel ^Jahrb. d. deutschen Dante Gesellsch.~
+Vol. II, p. 227 e seg.).  Forse fu questo il motivo che indusse
+il Poeta a collocarlo altrove che nel suo Inferno.  Che Dante
+avesse Catone in gran riverenza si deduce dalle altre sue opere. 
+Il seguente passo del ^De Monarchia~ (l. II, c. 5) sparge non
+poca luce sui presenti versi: ^Accedit et illud inenarrabile
+sacrificium severissimi verae libertatis auctoris Marci Catonis~,
+qui, ^ut mundo libertatis amores accenderet, quanti libertas
+esset ostendit, dum e vita liber decedere maluit, quam sine
+libertate manere in illa~...  ^Inquit Tullius de Catone: <Non
+enim alia in causa Marcus Cato fuit, alia caeteri, qui se in
+Africa Caesari tradiderunt; atque caeteris forsan vitio datum
+esset, si se interemissent, propterea quod levior eorum vita, et
+mores fuerunt faciliores.  Catoni vero quum incredibilem natura
+tribuisset gravitatem, eamque perpetua constantia roborasset,
+semperque in proposito susceptoque consilio permansisset,
+moriendum ei potius, quam tyranni vultus adspiciendus fuit.~> 
+(Cfr. ^Cic.~ ^De offic.~ I, 31.)  E nel ^Conv.~ (tr. IV, c. 28)
+Dante fa di Catone la significazione ossia figura di Dio stesso,
+aggiungendo: ^E quale uomo terreno degno fu di significare Iddio,
+che Catone?  Certo nullo.~  (Cfr. ^Conv.~ tr. IV, c. 5 dove Dante
+sembra credere che Catone si uccidesse per ispirazione divina.) 
+Questi passi spiegano a sufficienza perch@e il Poeta non abbia
+posto Catone nell'Inferno.  Come personaggio considerato da tutta
+l'antichit@a quale il tipo pi@u perfetto del libero cittadino,
+Catone era appropriatissimo a farne il custode di quelle anime
+che devono riguadagnare la vera libert@a (cfr. ^Barelli~, ^Alleg.
+della Div. Com.~ p. 110 e seg.).  Forse l'idea ne venne a Dante
+da Virgilio, che tra le cose figurate nello scudo di Vulcano,
+rammemora la pia gente divisa dagli empj e sotto la balia di
+Catone (cfr. ^Aen.~ VIII, 670: ^Secretosque pios: his dantem jura
+Catonem~).  Il ^Buti~: <Et @ae indutto Catone, s@i come esempio de
+la libert@a e della iustizia, pi@u tosto che niuno altro per fare
+verisimile la sua fizione: imper@o che del Vecchio Testamento non
+potea inducere nessuno a guardia del purgatorio: imper@o se
+n'andonno in cielo con Cristo, quando spolli@o lo limbo; n@e del
+Nuovo era convenevile che introducesse li santi a stare in
+purgatorio: imper@o che sono in vita eterna.>  Vedi anche
+^Mazzoni~: ^Difesa della Com. di Dante~, Cesena 1688, Vol. I, p.
+849 e seg. ^Gioberti~ a. h. l. ^Ozanam, Purg.~ p. 40 e seg.
+^Blanc~, II, p. 2.
+
+	|32-33.  In vista~: all'aspetto.  Nessun figliuolo dee
+maggior riverenza al padre suo di quanto il venerabile aspetto
+del veglio richiedea da chiunque lo mirava.
+
+	|34.  Mista~: canuta.  ^Aspiciebam donec throni positi
+sunt, et antiquus dierum sedit; vestimentum ejus candidum quasi
+nix, et capilli capitis ejus quasi lana munda.~  Dan. VII, 9.
+
+	|35.  A' suoi~: Al. ^e i suoi.~  Anche i capegli erano
+misti di bianchi e neri.
+
+	|37.  Quattro luci~: delle quattro stelle, cfr. v. 23 nt.
+che simboleggiano qu@i le quattro virt@u cardinali: prudenza,
+giustizia, fortezza e temperanza, le quali virt@u <risplendevano
+in Catone, via pi@u che in alcun altro.>  ^Dan.~
+
+	|39.  Come il~: come se il Sole gli battesse in faccia. 
+Al. Come se io avessi avuto davanti il Sole.
+
+	|40.  Cieco fiume~: il ^ruscelletto~ che scende gi@u nel
+centro dell'Universo; cfr. ^Inf.~ XXXIV, 130.
+
+	|41.  La prigione~: l'Inferno.  -- <In pi@u modi pot@e
+Catone conoscere che Dante e Virgilio usciti fossero
+dell'Inferno.  Pot@e averli esso veduti uscire da quel buco
+ond'erano usciti.  Pot@e arguire che non d'altronde, se non di l@a,
+fossero usciti, per avere fino allora tenuto l'occhio alla
+marina, n@e visto venire alcuna nave.  Pot@e finalmente
+accorgersene per la fuliggine d'Inferno, che portava Dante sul
+viso, cui, per comando dello stesso Catone, tolse Virgilio colla
+rugiada, v. 128 e seg.>  ^Lomb.~  Subito uscito ^fuor dell'aura
+morta~ {v.17} Dante e Virgilio si fermano a mirare le quattro
+stelle, v. 16 e seg., poi, volgendosi ^all'altro polo~ {v.23}
+Dante vede il ^veglio~ {v.31} presso di s@e.  Dunque Catone era l@i
+vicino al ^pertugio tondo~ pel quale i Poeti uscirono a ^riveder
+le stelle~, e pot@e per conseguenza benissimo vederli sortirne.
+
+	|42.  Piume~: la barba.  <L'atteggiamento e il colore
+della barba prenunziano la passione, l'et@a dell'uomo e il senno:
+Purg. XXXI, 60.>  ^Giul.~
+
+	|43-44.  Fu lucerna~: chi vi fe' lume ad uscire |fuor
+della profonda notte~?
+
+	|45.  Che~: la qual profonda notte rende la valle
+infernale eternamente nera.  Catone crede che Dante e Virgilio
+siano due dannati sfuggiti dall'Inferno.
+
+	|46.  Le leggi d'abisso~: che impongono ai dannati di
+lasciare ogni speranza (^Inf.~ III, 9) di sortire d'Inferno. 
+^Amen dico tibi, non exies inde, donec reddas novissimum
+quadrantem.~  Matth. V, 26.
+
+	|47.  Mutato~: o @e forse stato revocato nel cielo il
+decreto del non darsi redenzione in Inferno e se ne @e fatto di
+recente un altro che permette ai dannati di sortire?
+
+	|48.  Dannati~: essendo voi dannati.  -- |Grotte~: i
+^sette regni~ di Catone, v. 82, ossiano i cerchi del Purgatorio.
+
+	|49.  Mi di@e di piglio~: mi afferr@o.  Cfr. ^Inf.~ IX, 58.
+
+	|51.  Mi fe'~: mi fece inginocchiare e chinare
+riverentemente gli occhi.  Dante resta inginocchiato finch@e
+Catone @e sparito; cfr. v. 109.
+
+	|52.  Lui~: a lui; cfr. ^Inf.~ I, 81, nt.  -- |Da me~:
+non venni di mio arbitrio.
+
+	|53.  Donna~: Beatrice, cfr. ^Inf.~ II, 52-75.  Prima di
+rispondere alla domanda di Catone: ^Chi siete voi~ {v.40}? 
+Virgilio procura di calmarne lo sdegno rispondendo all'altra
+domanda: ^Chi v'ha guidati~ {v.43}?
+
+	|56.  Vera~: veramente.  Nella Canz. VIII (^Amor, dacch@e
+convien pur ch'io mi doglia~) st. 8:
+
+     ^La nemica figura, che rimane~
+     ^Vittoriosa e fera~,
+     ^E signoreggia la virt@u che vuole~,
+     ^Vaga di s@e medesma andar mi fane~
+     ^Col@a, dov'ella @e vera.~
+
+	|57.  Il mio~: volere; sono pronto a fare quanto
+desideri.
+
+	|58.  Non vide~: non @e ancor morto.  <Litteralmente dice
+della morte corporale, et allegoricamente s'intende della morte
+spirituale.>  ^Buti.~  -- <Vivere nell'uomo @e ragione usare. 
+Dunque se vivere @e l'essere dell'uomo, e cos@i da quello uso
+partire @e partire da essere, e cos@i @e essere morto.  E non si
+parte dall'uso della ragione chi non ragiona il fine della sua
+vita?  E non si parte dall'uso della ragione chi non ragiona il
+cammino che far dee?  Certo si parte: e ci@o si manifesta
+massimamente in colui che ha le vestigie innanzi, e non le mira;
+e per@o dice Salomone nel quinto capitolo dei ^Proverbii~ (V, 23):
+^Quelli morr@a che non ebbe disciplina, e nella moltitudine della
+sua stoltizia sar@a ingannato~; cio@e a dire: Colui @e morto, che
+non si fe' discepolo, che non segue il maestro; e questo @e
+vilissimo.>  Conv. tr. IV, c. 7.
+
+	|59.  Follia~: per esser partito dall'uso della ragione
+non considerando n@e il fine della sua vita, n@e il cammino che far
+dovea; vedi la nt. antec. cfr. pure ^Inf.~ I, 3: ^Ch@e la diritta
+via era smarrita.~  -- |Le~: all'ultima sera; alla morte.
+
+	|60.  Che molto poco~ ecc.: era cos@i vicino all'ultima
+sera che sarebbe morto in brevissimo tempo, quando non gli fosse
+giunto il soccorso.  Ricordiamoci che Virgilio gli apparve mentre
+egli ^rovinava in basso loco~, Inf. I, 61.  Gli espositori
+politici ci dicono: <Il venire da Dante accettata la carica di
+Priore; pi@u, l'essersi assunto l'impegno di far bene alla sua
+ingrata patria in quell'ultima ambasceria (a Bonifacio VIII),
+senza punto avvedersi dell'insidie che gli erano tese (?), fu la
+solenne, solennissima foll@ia da esso per bocca di Virgilio
+indicata in questa terzina; follia che l'avrebbe infatti condotto
+in bocca alla morte, se non gli fosse giunta innanzi notizia del
+suo pericolo.>  ^Grimaldi~: ^Saggio di una nuova esposizione
+didattica della D. C.~ (Terni 1870) p. 23 e seg.  Non vogliamo
+escludere assolutamente questo senso politico; ma il testo parla
+troppo chiaro in favore del senso morale.
+
+	|61.  Dissi~: poco fa, v. 52, 53.  -- |Mandato~: da
+Beatrice.
+
+	|62.  Non c'era~: Al. ^non v'era.~  Per salvarlo non
+c'era altro modo che di condurlo a vedere i regni della morte. 
+Altri: <A campare Dante dalla morte (corporale), non c'era altra
+via che quella dell'esilio, per la quale il poeta si era gi@a
+messo.>  ^Grimaldi~, l. c. p. 24.  Dunque il viaggio del Poeta
+per l'Inferno, il Purgatorio ed il Paradiso simboleggia il suo
+andar errando nell'esilio?!  Stiamo a vedere che uno di questi
+commentatori verr@a ad insegnarci che i cerchi dell'Inferno
+significano i luoghi percorsi da Dante nei primi anni del suo
+esilio, che pel ^Purgatorio~ bisogna intendere Verona e pel
+^Paradiso~ Ravenna.  Non ci vuol mica molto!
+
+	|63.  Che questa~: il fargli vedere le conseguenze del
+peccato.
+
+	|64.  Lui~: a lui; cfr. ^Inf.~ I, 81 nt.  -- |Ria~:
+malvagia, dannata; ^rio~ non @e voce sostanzialmente poetica,
+trovandosi anticamente anche in prosa.  Cfr. ^Polidori~, ^Tav.
+Rit.~ II, 166.
+
+	|66.  Bal@ia~: giurisdizione, da ^balire~ -- reggere,
+maneggiare.  -- <Thom. Aq. Som.: ^La potest@a del balio @e
+governata da quella del re.~  I sette regni di Catone non sono
+dunque di lui; ma come il governatore suol dire: la mai
+provincia.>  ^Tom.~
+
+	|67.  Tratto~: d'Inferno.
+
+	|68.  Dell'alto~: non avrei potuto menarlo qua senza
+divina scorta.
+
+	|69.  Udirti~: per intendere in che modo deve prepararsi
+a percorrere le regioni del Purgatorio, cfr. v. 94 e seg.
+
+	|71.  Libert@a~: interna.  ^Si ergo vos filius
+liberaverit, vere liberi eritis.~  Joh. VIII, 36.  ^Ubi Spiritus
+Domini, ibi libertas.~  II, Cor. III, 17.  ^Lex spiritus vitae in
+Christo Jesu liberavit me a lege peccati et mortis.~  Ad Rom.
+VIII, 2.  <Libert@a @e il corso libero della volont@a ad eseguire la
+legge; il libero arbitrio @e il libero giudizio della volont@a; e
+il giudizio @e libero, se egli pel primo move l'appetito, e
+nullamente sia dall'appetito prevenuto.>  ^Dant.~ ^Conv.~ citato
+da ^Br. B.~  Confr. ^De Mon.~ l. I, c. 12 (secondo l'ediz. del
+^Witte~, c. 14 secondo quella del Torri); ^Parad.~ XXXI, 85. 
+Al.: <Tenta di procacciare libert@a all'Italia, mettendo a nudo le
+sue piaghe e invocando una mano potente a sterminare i tiranni
+che la opprimono, e i faziosi che la squarciano.>  Cos@i il
+^Greg.~  Ma qu@i si tratta di ben altra libert@a che della libert@a
+d'Italia.  Ci@o che Dante va cercando sono i ^dolci pomi~, Inf.
+XVI, 61; Purg. XXVII, 115, @e la ^pace~, Purg. XXIV, 141; e ci@o
+che egli ha conseguito coll'aiuto di Beatrice, ^Parad.~ XXXI, 85,
+non @e la libert@a d'Italia, ma il non esser pi@u schiavo delle
+proprie passioni e del peccato.  Ma, dice l'^Andr.~, poich@e tutte
+le libert@a son sorelle, Virgilio assomiglia il bisogno di libert@a
+morale, che fa viaggiare il suo alunno, a quello di libert@a
+politica, che trasse Catone a rifiutare la vita.
+
+	|72.  Per lei~: per non perdere la sua libert@a. ^Accedit
+et illud inenarrabile sacrificium severissimi verae libertatis
+auctoris Marci Catonis~ etc. cfr. v. 31 nt. ^De Mon.~ l. II, c.
+5.
+
+	|75.  La vesta~: il corpo; Al. ^la veste.~  |Vesta~,
+Plur. ^veste~; e ^veste~, Plur. ^vesti~ dissero gli antichi in
+verso ed in prosa; cfr. ^Nannucci~: ^Teorica dei Nomi della
+lingua italiana~; Fir. 1858, p. XVIII e seg. 23 e seg.  -- |Al
+gran d@i~: della resurrezione e del giudizio universale.  --
+|Chiara~: ^Qui autem docti fuerint, fulgebunt quasi splendor
+firmamenti: et qui ad justitiam erudiunt multos, quasi stellae in
+perpetuas aeternitates.~  Dan. XII, 3.  ^Tunc justi fulgebunt
+sicut sol in regno Patris eorum.~  Matth. XIII, 43; Cfr. ^Parad.~
+XIV, 43-60.  -- ^Br. B.~: <Chi ha detto che questa veste chiara
+al gran giorno importi il Paradiso?>  Il termine usato da Dante,
+posto in confronto coi passi biblici su cui si fonda, esclude
+ogni dubbio che egli abbia inteso dire che Catone dopo la
+consumazione dei secoli sar@a salvo.
+
+	|76.  Non son~: risponde alla domanda di Catone nel v.
+46.  Non essendo noi dannati non abbiamo rotto ^le leggi
+d'abisso~ uscendo d'Inferno.  -- |Guasti~: violati.
+
+	|77.  Questi~: Dante.  -- |Vivo~: corporalmente e
+spiritualmente.  -- |Minos~: cfr. ^Inf.~ V, 4 e seg.  -- |Non
+lega~: non sono sotto la sua guardia.  ^Buti.~  Minos me non
+danna ad alcun cerchio d'abisso.  Il verbo ^legare~ qu@i viene a
+ricevere una speciale significazione di ^condannare~; perocch@e
+Minos ^giudica~ le anime, e le ^manda~ all'uno o all'altro de'
+gironi infernali, ^cignendosi con la coda~ tante volte,
+^Quantunque gradi vuol che gi@u sia messa~; Inf. V, 11.  ^Giul.~
+
+	|78.  Del cerchio~: del limbo; cfr. ^Inf.~ IV, 39.
+
+	|79.  Marzia~: figlia del Console L. Marzio Filippo,
+moglie di Catone d'Utica che la cedette al suo amico Ortensio,
+allorch@e essa era per la quarta volta incinta.  Morto l'oratore
+Ortensio Marzia divenne erede de' suoi beni e Catone se la prese
+di nuovo in moglie.  Secondo ^Lucano~ Marzia preg@o Catone che la
+ripigliasse, dicendogli tra le altre cose:
+
+                          ^Da foedera prisci~
+     ^Illibata fori: da tantum nomen inane~
+     ^Connubii: liceat tumulo scripsisse~ CATONIS
+     MARCIA.
+     Luc. Phars. l. II, v. 341 e seg.
+
+Nel ^Conv.~ (l. IV, c. 28) Marzia @e il soggetto di un'allegoria
+un po' strana.  -- |In vista~: col sembiante e negli atti sembra
+tuttora pregarti di ripigliarla.
+
+	|80.  Santo petto~: <O sacratissimo petto di Catone, chi
+presumer@a di te parlare?>  ^Conv.~ tr. IV, c. 5.  -- |Tegni~:
+tegna, tenga.  Cfr. ^Nannuc.~ ^Anal. crit.~ p. 289 e seg.
+
+	|82.  Sette regni~: i sette gironi della montagna del
+Purgatorio, alla tua custodia commessi.  Cfr. v. 66.
+
+	|83.  Grazie~: <Cio@e a dire: Questo servigio che tu ci
+farai ha merito di lode; e noi di te a lei lo faremo.>  ^Ott.~
+Cfr. ^Inf.~ II, 73, 74.
+
+	|86.  Di l@a~: al mondo.  Cfr. ^Conv.~ l. IV, c. 28.
+
+	|88.  Mal fiume~: Acheronte; cfr. ^Inf.~ III, 78 e seg. 
+Marzia la vedemmo nominata nel limbo, ^Inf.~ IV, 128.
+
+	|89.  Mover~: non pu@o pi@u piegarmi a farle grazia.  --
+|Legge~: che divide in modo assoluto i dannati dai beati.  Catone
+mor@i 46 anni avanti la nascita di Cristo, dunque circa 80 anni
+prima della morte del Salvatore.  Prima di quest'ultimo punto,
+cio@e prima della discesa di Cristo agli inferi, ^spiriti umani
+non eran salvati~, Inf. IV, 63.  Converr@a dunque supporre che
+anche Catone si ritrovasse nel limbo dalla sua morte sino alla
+venuta del ^Possente~, Inf. IV, 53, e che egli fosse uno di
+quegli ^altri molti~, Inf. IV, 61, che il ^Possente~ trasse dal
+limbo ^e feceli beati.~  Sino a tanto dunque che Catone era nel
+limbo e' poteva aver pratica con Marzia; uscitone ogni comunione
+con lei fu per sempre interrotta secondo quel detto del Vangelo:
+^Inter nos et vos chaos magnum firmatum est.~  S. Luc. XVI, 26. 
+Questa separazione assoluta @e appunto la ^legge~ alla quale
+Catone allude.  Bene il ^Postill. Cass.~: Legge ^qua est quod
+damnati non possunt aspirare salvatis.~
+
+	|90.  Uscii fuora~: di vita -- quando morii; cos@i ^Buti~,
+^Land.~, ^Vell.~, ^Borghi~, ^Costa~, ^Giul.~, ^Eug. Cam.~ ed
+altri.  Ma: 1) se innanzi la discesa di Cristo al limbo ^spiriti
+umani non eran salvati~, Inf. IV, 63, Catone era anche lui nel
+limbo (cfr. la nt. antec.); 2) quando Catone mor@i non fu fatta
+veruna legge; ma la legge che impone ai redenti di non aver pi@u
+verun affetto per que' che sono ^di l@a dal mal fiume~ {v.88} fu
+fatta quando il Possente discese gi@u nel limbo e ne trasse i
+Patriarchi dell'antico patto, ^e molti altri~, fra i quali
+Catone, ^e feceli beati.~  Inoltre quel |ne~ nella frase |quando
+me n'uscii fuora~ non pu@o assolutamente riferirsi al ^mortal
+mondo~, di cui non si fa menzione in questa terzina, ma deve
+riferirsi a quel luogo ^di l@a dal mal fiume~ {v.88}, cio@e al
+limbo.  |Quando me n'uscii fuora~ viene dunque a dire: Quando fui
+tratto dal limbo.  Cos@i spiegarono pure ^Petr. Dant.~, ^An.
+Fior.~, ^Benv. Ramb.~, ^Dan.~, ^Vent.~, ^Lomb.~, ^Portir.~,
+^Pogg.~, ^Br. B.~, ^Fratic.~, ^Andr.~, ^Greg.~, ^Kanneg.~,
+^Blanc~, ^Ozanam~ ed altri.
+
+	|91.  Donna~: cfr. v. 51.  -- |Move e regge~: ti fa
+andare e ti guida.
+
+	|93.  Richegge~: richiegga; cos@i pure nel v. seg.
+^ricinghe~ per ^ricinga~, e ci@o non <in grazia della rima>, ma
+perch@e tutte e tre le persone singolari del presente Congiuntivo
+si chiusero anticamente in E; cfr. ^Nannuc.~ ^Anal. crit.~ p. 284
+e seg.
+
+	|95.  Schietto~: pulito, senza foglie; @e l'opposto dei
+rami nella dolorosa selva, ^Inf.~ XIII, 5.  Questo |giunco~
+simboleggia, secondo i commentatori, l'umilt@a semplice e
+paziente.  Infatti Dante stesso lo dice ^umile pianta~, v. 135,
+ed anche la pieghevolezza di cui si parla, v. 100 e seg. sembra
+confarsi benissimo all'umilt@a.  Ma perch@e cingersi di umilt@a? 
+Fine supremo del viaggio di Dante @e l'intuizione della Divinit@a;
+onde conseguire questo scopo @e necessaria la fede.  ^Sine fide
+autem impossibile est placere Deo.  Credere enim oportet
+accedentem ad Deum quia est, et inquirentibus se remunerator
+sit.~  Hebr. XI, 6.  E la fede @e appunto ci@o che mancava al Poeta
+allorch@e intraprese il suo viaggio.  Del resto una dichiarazione
+non esclude l'altra, ch@e la fede @e indivisibile dall'umilt@a, come
+questa da quella.  ^Ubicunque etiam inveniuntur optima praecepta
+morum et disciplinae; humilitas tamen ista non invenitur.  Via
+humilitatis hujus aliunde manat, a Christo venit.~  S. Aug.
+Enarr. in Ps. 31.
+
+	|96.  Quindi~: dal viso.  -- |Stinghe~: stinga (cfr. v.
+93 nt.), levi via.
+
+	|97.  L'occhio sorpriso~: ablat. assol.  -- con l'occhio
+sorpreso, offuscato.  ^Priso~ per ^preso~, e cos@i |sorpriso~ per
+^sorpreso~ occorrono alle volte negli antichi, ma non fuor di
+rima; cfr. ^Blanc~, ^Gram.~ p. 456, e specialmente ^Nannuc.~
+^Anal. crit.~ p. 400 e seg. il quale sostiene che i participi che
+oggi finiscono in ^eso~ si terminassero anticamente in ^iso~, ma
+non arreca un solo esempio di tale terminazione fuor di rima.
+
+	|99.  Ministro~: o @e l'angelo nocchiero, ^Purg.~ II, 28 e
+seg. oppure l'angelo guardiano, ^Purg.~ IX, 78 e seg.  Se si
+riflette che il primo appena giunto alla riva della montagna ^sen
+g@i come venne veloce~, senza curarsi di Dante e Virgilio,
+sembrer@a pi@u probabile che il ministro, dinanzi a cui i due Poeti
+devono andare, sia l'angelo guardiano del Canto nono.
+
+	|100.  Isoletta~: su cui posa la montagna del Purgatorio. 
+-- |Ad imo ad imo~: nel pi@u basso suo terreno.
+
+	|101.  L'onda~: del mare nel quale l'isoletta @e sita;
+cfr. ^Inf.~ XXVI, 133-142.
+
+	|102.  Porta~: produce.
+
+	|103.  Null'altra~: <Per la pianta vuol dire et mostrare
+l'uom superbo: et dice che veruna pianta che induri o faccia
+fronda quivi non pu@o avere luogo; ci@o @e veruno superbo, che
+mostri per le frondi, ci@o @e per le sue operazioni o
+dimostrazioni, la sua superbia di fuori, o che di quella superbia
+induri nell'animo, et diventi ostinato, non pu@o quivi avere
+luogo.>  ^An. Fior.~
+
+	|105.  Non seconda~: non cede soavemente senza rompersi,
+come fa il giunco, agli urti dell'onda, v. 101, e del vento
+impetuoso, ^Inf.~ XXVI, 137 e seg.
+
+	|106.  Poscia~: dopo che Dante sar@a cinto e lavato.  --
+|Reddita~: ritorno; anticamente anche in prosa; cfr. ^Voc. Crus.~
+a. h. v.
+
+	|107.  Vi mostrer@a~: poich@e esso ^mena dritto altrui per
+ogni calle~, Inf. I, 18.  I Poeti devono girare il monte da
+levante a ponente, secondo il giro del sole.  -- |Surge~: la
+contemplazione del cielo, il colloquio con Catone, avevan gi@a
+preso tanto di tempo, ch'era ormai spuntata l'aurora, e al volger
+del sole mancava poco.  ^Anton.~ ap. ^Tom.~
+
+	|109.  Mi levai~: finora era inginocchiato, cfr. v. 51.
+
+	|110.  Mi ritrassi~: mi strinsi; cfr. ^Inf.~ XXI, 97.
+
+	|111.  Drizzai~: segno che egli si abbandonava tutto
+quanto al volere di Virgilio.
+
+	|112.  Figliuol, segui i miei passi~: Al. ^Seguisci li
+miei passi.~
+
+	|113.  Indietro~: dinanzi a loro era la salita della
+montagna.  -- |Dichina~: verso il mare.
+
+	|114.  A' suoi termini bassi~: alla spiaggia.
+
+	|115.  L'alba~: caso retto.  -- |L'#ora~: l'aura.  <L'alba
+cacciava davanti a s@e quel venterello che suol muoversi innanzi
+al sole, e che increspando la marina, la facea tremolare.> 
+^Ces.~  Al. ^l'ora~, e spiegano: Vinceva l'alba, e l'ora
+mattutina, l'ora in cui ha principio il mattino, fuggiva innanzi
+a lei, andava cio@e il cielo sempre pi@u imbiancandosi verso
+occidente.  Al. ancora: |#ora~ -- ombra, e spiegano: l'ombra
+mattutina, o dell'ultima parte della notte, fuggiva davanti
+all'alba, che vittoriosa l'incalzava.  La prima delle tre
+dichiarazioni ci sembra la pi@u naturale.  Cfr. ^A. v. Humboldt~,
+^Kosmos~, Vol. II, p. 52, 120.
+
+	|118.  Solingo~: non v'era che Catone, ed anche costui
+era sparito, v. 109.
+
+	|119.  Smarrita~: Al. ^perduta.~
+
+	|122.  Pugna~: resiste pi@u lungamente ai raggi del sole.
+
+	|123.  Adorezza~: @e rezzo, ombra.  <Qu@i da esempio a sua
+istoria, che andarono in luogo, ove per freddura e bassezza di
+luogo lo raggio del Sole non avea ancora risoluta la rugiada,
+quasi all'ultimo termine di quella isola.>  ^Lan.~ e ^Ott.~  --
+|Si dirada~: si dilegua.  I raggi del Sole nascente arrivano pi@u
+tardi al lembo dell'isola che su pel monte, e perci@o la rugiada
+vi dura pi@u lungo tempo.
+
+	|125.  Soavemente~: leggermente, pianamente.
+
+	|126.  Di su' arte~: di quanto Virgilio intendeva di
+fare.
+
+	|127.  Lagrimose~: dove erano scorse assai lagrime sparse
+durante il viaggio per l'Inferno.  Alcuni suppongono che Dante
+spargesse in questo momento lagrime, sia di penitenza, sia di
+tenerezza, sia di allegrezza.  Ma non pare che Dante piangesse
+pi@u dopo sortito d'Inferno.
+
+	|128.  Fece~: lavandomi.
+
+	|129.  Quel~: il mio colore naturale, che la fuliggine
+infernale m'avea coperto.  -- <A giudicare da tutto il contesto,
+chiaro apparisce (?) che il Maestro d'ogni virt@u, eletto a
+ministro della grazia impetrata da Beatrice, dovea disnebbiare
+dall'ombra o tenebre de' vizi il Discepolo che obbediente si
+diede a seguirlo.  E questi disposto ora al migliore cammino,
+sgombrata da s@e ogni terrena sozzura -- -- s'apparecchia a
+salire.>  ^Giul.~  Cos@i eziand@io altri.  Ma ^ogni terrena
+sozzura~ non @e sgombrata che allorch@e Dante @e giunto sulla
+sommit@a della montagna e non @e che dopo aver bevuto del fiume
+Euno@e che egli si sente ^rifatto, puro e disposto a salire alle
+stelle~, Purg. XXXIII, 142-145.
+
+	|130.  Diserto~: solingo, cfr. v. 118.
+
+	|132.  Di tornar~: nell'emisfero abitato.  -- |Sia
+esperto~: che abbia avuto poscia esperienza del ritorno, sia
+tornato indietro.  Ulisse infatti navig@o sulle acque di quel
+lito, ma non fu di tornar poscia esperto, essendovi perito; cfr.
+^Inf.~ XXVI, 143.
+
+	|133.  Cinse~: d'un giunco schietto.  -- |Altrui~: a
+Catone, v. 94 e seg.
+
+	|134.  Scelse~: colse, scegliendola tra altre.
+
+	|135.  Rinacque~: cfr. ^Virg.~ ^Aen.~ VI, 144, 145:
+
+     -- ^Primo avolso non deficit alter~
+     ^Aureus; et simili frondescit virga metallo.~
+
+<Non vuol dire altro, se non che la scienzia et la virt@u, ben
+ch'ella si dia o s'insegni altrui, non scema et non manca al
+donatore, ma quella ch'egli dona, et pi@u, se ne truova.>  ^An.
+Fior.~  Meglio: La grazia divina @e inesauribile e non si
+diminuisce mai.

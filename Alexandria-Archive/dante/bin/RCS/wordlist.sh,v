@@ -1,0 +1,39 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.33.08;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Generate a wordlist from a bunch a files.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Generate a wordlist from a bunch a files.
+
+(
+for FILE
+do
+	case $FILE in
+	*.Z)
+		zcat $FILE ;;
+	*)
+		cat $FILE ;;
+	esac
+done
+) | wordlist | tr A-Z a-z | sort -u
+@

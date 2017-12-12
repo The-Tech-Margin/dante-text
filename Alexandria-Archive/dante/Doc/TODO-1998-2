@@ -1,0 +1,192 @@
+This file is an annotated copy of RH's email to STC dated 17 Jan
+1998. That messages is number 104 in STC's archived email directory.
+The original message's lines begin with ">>". Other lines are
+STC's notes of progress executing the instructions in RH's message.
+Some lines with "zip", ie no action needed, have been deleted.
+
+>> 	MASTERLIST OF ERRATA FROM THREE SOURCES AT D'MTH:
+>> 		(1) ~dante/Mail/STC/
+>> 		(2) ~dante/Commentaries/Typos
+>> 		(3) ~dante/Commentaries.new/Typos
+>> 
+>> key: STC = things that only Steve can do
+>>      zip = things that require no action, but keep for info.
+>> 
+>> For (1) I am giving a complete descriptive list; for (2) and (3)
+>> I have only recorded items that involve Steve; those that do not
+>> show up here are now incorporated in my master errata files and
+>> Steve may disregard them: but let's leave them in place just
+>> in case my stuff ever blows up.
+>> 
+>> NB: I have reminded Steve that both directories (2) and (3)
+>> holding typos should NOT be added to after 1/17/98.  We need a
+>> new Typos directory somewhere for casual things that I or others
+>> may note and send to D'mth from this date forward so that we do
+>> not in the future need to check through all old Typos in order to
+>> separate them from new ones.
+>> 
+>> 		(1) ~dante/Mail/STC/
+>> 
+>> 1	PIETRO2/PIETRO1 situation (more on this below)  STC
+   The Pietro confusion has been resolved. This message also
+   contains an instruction about Guido. I have asked RH for a
+   clarification.
+>> 6	more on loading PIETRO2/PIETRO1 (see #57)	STC
+   Load order is set. Asked RH to add "2nd Redaction" where
+   he wants it. RH fixed the text on 18 Nov 98. Done.
+>> 28	VELLUTELLO loading instructions;
+>> 	query re. stop words;
+>> 	problem of double spaces after abbreviations	STC
+   All items resolved except for the question of ligatures and
+   European quotes, for which I have asked RH for clarification.
+   Ligatures fixed; still not sure about quotes.
+   Quotes were sometimes << or >> in old text. They have been
+   fixed in the new text by parties unknown.
+>> 38	scrambled screens in SERRAVALLE			STC
+   Found a hunk of purg/28 inserted into the middle of purg/32.
+   Assume that some of the real 32 is missing. Asked RH for ideas.
+>> 47	DANIELLO prob., Pur. 19 (see also ##53, 70, 73) STC
+   Found that daniello/purg/19 is badly scrambled after 97-99. This
+   explains the problems mentioned in the other email messages too.
+   How to fix?
+>> 49	renaming of docs. in BOCCACCIO (important)	STC
+   Found that a lot of the "Copyright" and "litterale" keywords were
+   not being picked up by print-time formatting. Hacked PTF so these
+   keyworkds now appear in the output. This may solve some of the
+   problems mentioned in this message.
+>> 52	renaming of docs. in BOSCO (important)		STC
+   This will require some changes to the preload program. Also, I wonder if
+   the load order should be pro01, 01, pro02, 02, ... instead of pro01,
+   pro02, ... 01, 02,... Oops, the pro* are already merged into the regular
+   files.
+>> 54	Greek problems and a further DANIELLO prob.	STC
+   Greek problem and underscore problem has no easy solution. Punting. The
+   Daniello problem is the one noted in 47.
+>> 56	double hit in LOMBARDI (Par. 14); (forget typo)	STC
+   The text appeared twice. Deleted second copy.
+>> 58	Bob's 1995 survey, status of comms. (outdated?) STC
+   No action required.
+>> 74	SAPEGNO problem (Purg. 16)			STC
+   Fixed. Deleted duplicate text from 19.e
+>> 80	PASQUINI: text of cleaned up Inf. 27		STC
+   Done in Jan 98.
+>> 93	PORENA note problem				STC
+   See next message.
+>> 94	PORENA note solution as per Bob			STC
+   Fixed.
+>> 95	text of TOZER Inf. IV.70-end			STC
+   Done.
+>> 96	Bob's enduring questions (summary)		STC
+   No specific action planned.
+>> 98	Steve's awareness of LOMBARDI prob. (#56)	STC
+   Fixed. See #56.
+>> 100	CASTELVETRO Greek problems: how to fix? (Steve,
+>> 	I was denied permission to uncompress the Cstlv.
+>> 	files to check 'em out.  We can talk this one
+>> 	into submission, I think); OTTIMO problem	STC
+   RH fixed greek words. Proposed to RH that we solve Ottimo problem with
+   wording in the desc file.
+>> 
+>> 		(2) ~dante/Commentaries/Typos
+>> 
+>> [NB: For (2) & (3) I have used the NAME of the file of the typo
+>> as the identifier where I used Steve's numbers for (1)]
+>> 
+>> cassinALL	date problem and how to fix it
+>> 
+>> guido-inf	two things (disregard typos):
+>>   numbering error: doc. #358: Inf. 15.70-71 = Inf. 15.69-71
+>> 
+>>   Delete lines that read "/^   |Expos/d" and run through "uniq"
+>> in order to delete duplicate blank lines.  (Steve: I don't
+>> understand this last one; maybe you can figure it out)
+>> 
+>> ottimo		fix first bibliographical screen
+>> 
+>> serravalle-purg The 3rd item is for you, a numbering prob.
+>> 			(disregard the other four)
+
+All typos fixed except those that require check of original texts.
+Referred that problem to RH.
+
+
+>> 		(3) ~dante/Commentaries.new/Typos
+>> 
+>> benvenuto	emend description (henceforward "desc.") of comm.
+>> 
+>> bianchi		flag date for BIANCHI wrong;
+>> 		desc.: fix editor's name
+>> 
+>> costa		make a change in "Info."
+>> 
+>> fiorentino	desc.
+>> 
+>> lana		desc. (disregard 3 typos)
+>> 
+>> pietro2		desc.
+>> 
+>> pietrobono	desc.
+>> 
+>> singleton	desc.
+>> 
+>> steiner		desc.
+>> 
+>> tommaseo	desc.
+>> 
+>> vellutello	desc.
+
+
+All these changes are made.  I did not create a Done subdir in this directory.
+
+
+>> (4) OTHER ERRORS _NOT_ DRAWN FROM THESE FIRST THREE SOURCES:
+>> 
+>> ---	TOZER, Par. 11: two numbering errors:
+>> 		doc. 3544: Par. 11.31-4 = Par. 11.31-34
+>> 		docs. 3555 & 3556: this a bit complex:
+>> 
+>> Doc. 3555 breaks off with a hyphen.  It wants to be followed by
+>> the number 173, with the rest of the note that now occupies doc.
+>> 3556, and doc. 3556 should disappear.  Will the rest of the 
+>> docs. in Tozer automatically renumber?  I hope so.  Let me say
+>> this over.  Docs. 3555 & 3556 are really a single entry for
+>> verses 61-62.  Someone put the number "173" as though it were a
+>> new entry for that verse (which doesn't exist -- no canto is
+>> longer than 160 verses); we need to restore the actual text.
+
+Both fixed.  -stc
+
+
+>> VELLUTELLO: the opening 4-screen note is labelled "Inf. 1"; it
+>> should be "Proemio."
+
+If this means a Proemio to the entire Inf, then that text should be
+in its own document, proem.e. Will ask RH.
+
+
+>> SAPEGNO has a series of duplicate/erroneous entries as follows:
+>> 
+>> docum. #4876 (Purg. 19.145) is OK
+>> 	4877 (Purg. 19.Nota is OK BUT needs to drop last line:
+>> 	     "quel ecc."
+>> 	4878-4902 are copies of texts already correctly appearing 	
+>> 	in Purg. _16_, here mislabelled as Purg. 19.  All of
+>> 	these need to be EXCISED (this will cause a renumbering
+>> 	of the docs. of Sapegno)
+>> 	4903 (Purg. 20.1) is OK again.
+
+Already fixed by email #74.
+
+
+>> REMINDER: I sent you the revised 2nd half of SINGLETON's Purg.:
+>> you put it in Commentaries.new.  We need to be careful about what
+>> versions of his comm. we put up when we reload.  Also, Janet left
+>> bags of typos in Singleton.  I have a long list and need to check
+>> them against the cleaned up version before we load.  We both need
+>> to remember this.  Inferno was redone with I think great care by
+>> Sharon Girard; for some reason I thought the first half of Purg.
+>> was OK (let us pray), and only did from 18 on.  I know I did ALL
+>> of Paradiso (before I did Purg.), and hope you have the good
+>> files for it.
+
+C.ng/singleton/purg looks like we have done the right thing.

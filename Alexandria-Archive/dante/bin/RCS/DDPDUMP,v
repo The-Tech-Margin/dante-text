@@ -1,0 +1,44 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.50.09;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Write a tar(1) backup of the Dante Project.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Write a tar(1) backup of the Dante Project.
+
+HOME=${Dante-/amber/Dante}
+LOG=$HOME/Doc/DDPDUMP.log
+TAR=/bin/tar
+TAPE=/dev/rmt1h
+
+cd $HOME || exit 1
+
+echo -n "Mount tape on $TAPE - hit RETURN when ready..."
+read JUNK
+
+echo "$0 backup started from `pwd` on `date`" >> $LOG
+
+echo $TAR chf $TAPE . >> $LOG
+$TAR chf $TAPE . >> $LOG 2>&1
+
+echo "$0 backup ended on `date`" >> $LOG
+@

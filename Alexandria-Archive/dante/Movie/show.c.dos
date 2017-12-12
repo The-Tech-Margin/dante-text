@@ -1,0 +1,69 @@
+/*
+ *	show - display a file in pieces
+ *
+ *  This program takes a single command line argument, which is a DOS file
+ *  name.  The program copies that file to the screen, much like the DOS
+ *  TYPE command.
+ *
+ *  This program performs one additional function.  It watches for a special
+ *  "stop character" in the file it is copying.  If that character is found,
+ *  it is not copied to the screen.  Instead, the program reads a single
+ *  characters from the keyboard.  This typed character is discarded, and
+ *  the program resumes reading and copying the DOS file.  The effect is that
+ *  every occurance of the stop character in the DOS file causes the program
+ *  to pause until some character is typed on the keyboard.  Thus the stop
+ *  character effectively divides the DOS file into display segments.
+ *
+ *  If the character read from the keyboard is the interrupt character, then
+ *  the program terminates.
+ */
+
+#include <stdio.h>
+
+#define	STOPCHAR	014	/* formfeed (control-L) */
+#define INTRCHAR	003	/* ETX (control-C) */
+
+main(argc,argv)
+	int argc;
+	char *argv[];
+{
+	int c;
+	char keychar;
+	FILE *infile;
+
+	/*
+	 * Be sure there is exactly one command line argument
+	 */
+	if (argc != 2) {
+		fprintf(stderr,"Usage: SHOW filename\n");
+		exit(1);
+	}
+	/*
+	 * Open the DOS file for reading
+	 */
+	if ((infile = fopen(argv[1],"r")) == NULL) {
+		fprintf(stderr,"%s: cannot open\n", argv[1]);
+		exit(1);
+	}
+	/*
+	 * Close stdin and reopen it for "Binary READing".  Under this
+	 * C compiler, this assures that reading from stdin will be
+	 * character-by-character and NOT line oriented.
+	 */
+	close(0);
+	if (open("CON:",BREAD) != 0) {
+		fprintf(stderr,"cannot open CON:\n");
+		exit(1);
+	}
+	/*
+	 * Now to the actual copying of the DOS file a piece at a time
+	 */
+	while ((c = getc(infile)) != EOF) {
+		if (c == STOPCHAR) {
+			read(0,&keychar,1);	/* Pause */
+			if (keychar == INTRCHAR)
+				exit(0);
+		} else
+			putc(c,stdout);
+	}
+}

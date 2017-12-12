@@ -1,0 +1,780 @@
+|INFERNO CANTO 21~
+
+	|Introduzione.~  Il pellegrino @e giunto nella quinta
+bolgia, dove sono puniti i barattieri: completamente immersi
+nella pece bollente, se tentano di alleviare la pena uscendone un
+poco, i diavoli sono pronti a dilaniarli coi loro unghioni e con
+gli uncini di cui sono armati.  `Baratteria' significava in
+antico, genericamente, `insidia truffaldina', specie al livello
+popolaresco: per es., il piccolo imbroglio giocato nelle piazze,
+nei mercati, ai danni degli ingenui.  Ma significava anche la
+colpa di coloro che, ricoprendo cariche pubbliche, concedevano
+dietro pagamento, o per ottenere altri vantaggi personali,
+uffici, privilegi, assoluzioni o condanne, ecc.  Non @e mancato
+chi (M. Principato) ha sostenuto, con ingegnosa erudizione, che i
+peccatori puniti da Dante siano generici truffatori; ma il testo
+dantesco non consente di accettare questa tesi: non solo i
+personaggi introdotti son tutti barattieri per cos@i dire
+pubblici, che ricoprono ^offici~ (XXII 86; anche in ^Pd~ XVI
+56-57 colui che ^per barattare ha l'occhio aguzzo~ @e un uomo
+politico), ma di Lucca, una citt@a che secondo Dante @e zeppa di
+barattieri, @e detto che ^del no, per li denar, vi si fa ita~
+{42}, cio@e per denaro si approva quel che si dovrebbe respingere,
+o comunque si cambia parere: il che evidentemente si riferisce a
+organi di governo, assemblee, tribunali e simili.  Tuttavia,
+bisogna osservare che il contrapasso, che @e indicato dal poeta e
+del resto @e l'unico ravvisabile, allude genericamente
+all'astuzia.  A un barattiere di fresco scaraventato nella pece i
+diavoli dicono: ^Coverto convien che qui balli, / s@i che, se
+puoi, nascosamente accaffi~ (53-54), cio@e arraffi denari agendo
+copertamente: un contrapasso che si addice a qualunque
+imbroglione e non specificamente a magistrati corrotti. 
+Coerentemente, di uno dei dannati, frate Gomita, @e detto, a
+caratterizzarne la colpa, che era stato in vita ^vasel d'ogne
+froda~ (XXII 82).  Orrendo lo stare immersi nella pece bollente,
+ma il poeta non solo non ne @e scosso, ma schernisce, ^convien che
+qui balli~ (53); i diavoli sono simili a sguatteri che coi
+forchettoni fanno s@i che la carne messa a cuocere non galleggi
+(55 ss.), e parla ancora di dannati ^lessi dolenti~ (135), di
+diavoli ^cotti~ (XXII 150).  Anche in ^If~ XII 102 si parla di
+^bolliti~ per l'analoga pena dei violenti contro il prossimo: ma
+si rilegga quel canto per individuare la natura di questo: nel
+XII nessuna gara di furberia: i violenti se ne stanno immersi nel
+sangue ciascuno quel tanto che gli @e destinato, e non cercano
+affatto di ingannare i centauri, che del resto non sono esseri
+che si possano burlare; n$e i centauri sono cupidi di saettare i
+dannati anche se son pronti a farlo se sar@a necessario.  Il poeta
+si sofferma sulla sofferenza dei violenti (XII 133-136): ^La
+divina giustizia... punge /... in etterno munge / le lagrime, che
+col bollor diserra~; qui invece alla sofferenza dei dannati si
+accenna in un sol verso, che ci mostra Ciampolo indugiare a
+guardarsi la ferita inflittagli (XXII 77); ma in generale pena e
+ferite son guardate con scherno, con ironiche attenuazioni:
+graffi, toccare sul groppone, render ragione ^in questo caldo~,
+sdrucire, grattare la tigna (XXI 50, 100-101; XXII 54, 57, 93;
+per simili attenuazioni, ma in contesto `serio', cfr. ^If~ VII
+24; VIII 53; XXXII 60, 117).  In conclusione, sebbene i
+barattieri pubblici possano, a rigore, anche non esser furbi e
+agire sfacciatamente, il poeta, secondo il significato generico
+di `baratteria', attribuisce loro come carattere essenziale la
+furberia, la ^malizia~, i ^lacciuoli~ di cui il personaggio
+principale della bolgia ha ^gran divizia~ {XXII 107-109}.  Tutto
+l'episodio @e intessuto appunto sul tema della furberia, fortunata
+e sfortunata.  Esso comprende i canti XXI, XXII e buona parte del
+XXIII, e ha il suo epilogo alla fine di quest'ultimo canto:
+questa ampia sequenza ha una compatta unit@a narrativa e tonale,
+che non pu@o essere spezzata nell'esposizione.  Come
+preannunciammo nell'^Introduzione~ al canto IX, assistiamo qui a
+una grande `rappresentazione sacra', dopo l'altra svoltasi
+dinnanzi alle mura della citt@a di Dite: nell'una e nell'altra
+sono in primo piano i diavoli; ma mentre nel dramma del canto IX
+spirava vento di tragica violenza, in questa commedia la violenza
+e la crudelt@a son viste in tutt'altra luce.  I diavoli della
+palude Stigia erano una minacciosa anonima moltitudine: ^pi@u di
+mille... / da ciel piovuti~ (^If~ VIII 82-83); anche questi dei
+barattieri sono numerosi, dal momento che un dannato @e dilaniato
+^con pi@u di cento raffi~ (52), ma il poeta ha cura di
+personalizzarne alcuni, esattamente tredici: il primo che appare
+@e anonimo, ma ben individuato nella persona e nell'animo; gli
+altri dodici hanno ciascuno il suo nome; e ciascuno ha una sua
+propria parte o particina nella commedia.  Accanto a dannati e
+diavoli, Virgilio e Dante: qui l'uno e l'altro, come non mai,
+`personaggi'.  Nella commedia il dialogo ha parte rilevante: dei
+diavoli coi dannati, con Virgilio, tra loro; di Virgilio con
+Dante; di Ciampolo con i diavoli e con Virgilio; n$e mancano le
+didascalie, cio@e le descrizioni degli atteggiamenti e dei gesti
+che accompagnano il dialogare.
+
+	|1-2.  di ponte in ponte~: dal ponte della quarta bolgia
+a quello della quinta.  |Comed@ia~: come in ^If~ XVI 128 (vedi
+nota ivi per l'accento).  Non @e improbabile, come fa notare il
+Porena, un voluto contrasto con ^traged@ia~ del canto precedente,
+soprattutto se si tiene presente l'atmosfera generale di questo
+episodio dei barattieri, per il quale si rimanda all'^Intr.~
+
+	|3-5.  'l colmo~: il culmine del ponte, il punto pi@u alto
+di esso.  |Fessura~: la bolgia, che @e come una fessura o
+fenditura circolare del piano inclinato di Malebolge.  |Pianti
+vani~: perch$e inutili, data l'eternit@a della pena.
+
+	|6.  mirabilmente oscura~: a causa della pece nera che vi
+bolle dentro.  Si noti l'efficacia ritmica del verso, determinata
+dall'avverbio, che nella lettura porta gli accenti delle due
+parole che lo compongono (alcune edizioni infatti esprimono
+graficamente tale effetto: ^mirabil-mente~).
+
+	|7-21 {Nota Bosco}.~  La scena della commedia @e un nero
+fiume di pece bollente: all'inizio non si scorgono che le bolle
+levate dal calore, e il |gonfiar~ e |riseder compressa~ della
+|pegola spessa~ {17-21}; i dannati e i diavoli non si vedono: gli
+uni se ne stanno sommersi, gli altri acquattati sotto il ponte
+che sovrasta la bolgia; la scena si popoler@a e si animer@a in un
+secondo momento.
+
+	|7-15.  Quale... rintoppa~: la lunga similitudine, una
+delle pi@u famose del poema, @e una prova della vigorosa fantasia
+di Dante.  Essa infatti si sviluppa assai al di l@a dell'analogia
+tra la pece bollente dell'arsenale veneziano e quella della
+quinta bolgia, creando un quadro vivo e mosso dell'attivit@a varia
+dei marinai e degli artieri dell'arsenale, impreziosita da una
+ricchezza lessicale che giunge fino al linguaggio tecnico
+marinaresco.  La potenza rappresentativa del quadro ha spinto
+molti esegeti a voler riconoscere qui la presenza di uno
+spettacolo visto personalmente dal poeta; ma la possibile e
+presumibile presenza di Dante a Venezia, che sarebbe databile
+solo tra il 1308 e il 1310, lo farebbe escludere perch$e troppo
+tarda, a meno che non si tratti di un ritocco posteriore.
+
+	|7.  arzan@a~: arsenale: il termine @e assai vicino
+all'arabo da cui deriva: ^dar sina'a~ (cfr. anche l'it.
+^d@arsena~) = officina.  Il celebre arsenale veneziano, sorto nel
+1104 e ampliato all'inizio del sec. XIV, era ai tempi di Dante
+uno dei pi@u importanti d'Europa.
+
+	|8-9.  l'inverno~: durante l'inverno, cio@e nella stagione
+meno propizia alla navigazione, si compivano per lo pi@u i lavori
+di riparazione o di costruzione delle navi.  |A rimpalmare~: a
+rispalmare di pece.  |I legni lor non sani~: le navi che avevano
+subito avarie durante i lunghi viaggi di mare.
+
+	|10.  non ponno~: non possono.  Il sogg. @e i ^Veneziani~
+non i ^legni~, che sarebbe inutile ripetizione; si d@a invece la
+ragione per cui durante l'inverno si compiono tali operazioni. 
+|In quella vece~: invece di navigare.
+
+	|11-13.  ristoppa~: tura con la stoppa le falle e le
+fessure, tra tavola e tavola, tra i fianchi (|coste~) della nave. 
+|Ribatte~: con il martello i chiodi, a fissar meglio le strutture
+dell'imbarcazione sul davanti (|proda~ = prua) o sul dietro
+(|poppa~) della nave.
+
+	|14-15.  sarte~: sartie, cordami.  Il verbo |volge~
+indica il lavoro di attorcigliamento della canapa per fare
+appunto delle funi.  |Terzeruolo~: la vela minore.  |Artimon~: la
+pi@u grande delle vele.  Ne esisteva una terza detta <mezzana>. 
+|Rintoppa~: <rattoppa, rappezza>.
+
+	|17-18.  p@egola~: pece, dal tardo latino ^picula~,
+diminutivo di ^pix picis~, con lenizione di ^-c~- in ^-g~-. 
+|'Nviscava~: invischiava, rendeva appiccicose entrambe le pareti
+della bolgia.
+
+	|19-21.  lei~: cio@e la pece bollente.  |Mai che~: fuori
+che, altro che (cfr. ^If~ IV 26).  |Gonfiar~: gonfiarsi. 
+|Riseder compressa~: riabbassarsi, dopo che la bolla @e scoppiata. 
+Si @e voluta vedere una reminiscenza virgiliana (^Georg.~ II 479)
+di cui sarebbe `spia' il |riseder~ (^residant~); ma forse
+l'immagine @e frutto dell'attenta osservazione della realt@a da
+parte del poeta.
+
+	|22-57 {Nota Bosco}.~  Come il dramma sullo Stige, anche
+questa commedia pu@o essere distinta in `atti'.  Primo (22-57): un
+diavolo arriva in Inferno, da Lucca, nel momento stesso della
+visita di Dante, e butta gi@u nella pece un anonimo dannato, un
+|anziano~ {38}, cio@e un magistrato, di Lucca, che per essere dopo
+il tuffo tornato alla superficie, @e subito dilaniato e dileggiato
+dai diavoli.  Tutto in questo episodio ci riporta al gusto
+popolare: i diavoli ci appaiono neri, con le ali, probabilmente
+di pipistrello, l'omero |aguto~ {34}, come erano rappresentati
+nella tradizione figurativa che era dietro e intorno a Dante, e
+come apparivano nelle feste del popolo minuto.  G. Villani
+(^Cron.~ VlII 70) ci ha trasmesso il ricordo di una di queste
+feste, consuete a Firenze, e proprio <con uomini contraffatti a
+demoni orribili a vedere>.  Gi@a il primo diavolo, quello che
+porta l'anziano di Lucca, @e, s@i, nero, ha aspetto feroce,
+atteggiamento crudele, come ogni diavolo che si rispetti; ma il
+lettore non ne trae certo un'immagine di spavento, perch$e nella
+sua figura prevale fantasticamente l'agilit@a dei movimenti, la
+rapidit@a, il suo affaccendarsi, anche la sua arguzia.  @E uno di
+quei diavoli della tradizione, che abitano la terra, si mescolano
+alla vita quotidiana.
+
+	|23-24.  Guarda, guarda~: sta' attento, gu@ardati!  non @e
+un semplice invito a guardare, come si desume meglio dall'azione
+di trarre a s$e il discepolo, descritta nel verso seguente.  |Del
+loco~: dal luogo, probabilmente la sponda del ponte.
+
+	|25-28.  come l'uom... fuggire~: come colui che brama
+vedere una cosa pericolosa che gli conviene fuggire.  |Tarda~
+vale propriamente <si angustia perch$e ritarda> (cfr. ^If~ IX 9). 
+|E... sgagliarda~: e a cui la paura improvvisa toglie gagliardia. 
+|Che... partire~: che, pur cercando di vedere, non indugia ad
+allontanarsi.
+
+	|29-30.  un diavol nero~: i diavoli in Malebolge sono
+rappresentati come li raffigurava l'immaginazione popolare o come
+li troviamo nella letteratura a carattere popolare e nelle arti
+figurative del tempo.  |Correndo... venire~: si osservi l'effetto
+ritmico dell'accento sulla settima sillaba.
+
+	|31-32.  ne l'aspetto fero~: feroce nello sguardo, nel
+volto.  |Ne l'atto acerbo~: crudele, feroce negli atti, nel
+contegno.  Per la ricchezza semantica dell'aggettivo |acerbo~,
+cfr. MAGGINI, ^Due letture dantesche e altri scritti~, Firenze,
+1965, pp. 80-84.
+
+	|33.  con l'ali... leggero~: non @e il caso di
+sottilizzare o di razionalizzare pensando col Porena che l'ali
+aiutavano la corsa del diavolo.  La fantasia del poeta @e
+essenzialmente impegnata nella descrizione della rapidit@a e della
+facilit@a del cammino del diavolo: questo camminava, ma sembrava
+volasse, tanto pi@u che aveva le ali aperte.
+
+	|34-36.  L'omero... 'l nerbo~: costruisci e intendi: un
+peccatore gravava (|carcava~) con entrambe le anche l'omero suo
+(del diavolo), che era appuntito (|aguto~) e rilevato (|superbo~)
+e questi (|quei~, cio@e il diavolo) teneva ghermito il garretto
+(^'l nerbo de' pi@e~).  Non lo portava a cavalcioni sulle spalle,
+come intendono alcuni, posizione che sembra un po' strana anche
+per il sing. |omero~, ma lo teneva rovesciato su una spalla cos@i
+che il dannato penzolava con mezzo busto e testa lungo la schiena
+del diavolo e le gambe, riunite davanti, erano tenute abbrancate
+per il garretto dalle mani adunche del demonio.  Cos@i infatti, e
+sembra l'interpretazione pi@u ovvia, viene rappresentato in alcune
+miniature di codici danteschi del sec. XIV.  Anche il particolare
+dell'omero |aguto e superbo~ appartiene, come il colore del
+diavolo e le sue ali, all'iconografia popolare.
+
+	|37.  Del nostro ponte~: dal ponte dove stavano i due
+poeti, che il diavolo non degna della sua attenzione. 
+|Malebranche~: @e il nome generico che indica i diavoli di questa
+bolgia, ognuno dei quali ha per@o il suo nome specifico (vedi
+avanti vv. 118-123).  Il nome |Malebranche~ @e evidentemente in
+diretto riferimento agli uncini di cui questi diavoli sono muniti
+ed agli artigli delle loro mani, ed @e coniato da Dante sul tipo
+di ^Malebolge.~
+
+	|38.  ecco... Zita~: nei comuni italiani, accanto al
+podest@a ed al capitano del popolo, normalmente forestieri,
+costituiva il potere esecutivo una magistratura formata da un
+gruppo di cittadini in numero vario da citt@a a citt@a.  Quelli che
+a Firenze erano detti <priori>, nel comune di Lucca, designato
+con il nome di S. Zita, erano chiamati <anziani> ed erano in
+numero di dieci.  Il dannato che il diavolo porta sulle spalle e
+che getter@a nella pece bollente era uno di questi magistrati. 
+Molti interpreti hanno sostenuto che l'anonimato in cui lo lascia
+il poeta sia intenzionale per colpire non un singolo cittadino,
+ma la corruzione di tutta intiera la suprema magistratura
+lucchese.  Pu@o anche darsi.  Per@o per primo un antico
+commentatore trecentesco, frate Guido da Pisa, avanz@o l'ipotesi
+che |l'anz,ian di Santa Zita~ fosse un tal Martino Bottario,
+opinione affermata poi successivamente dal Buti, che la suffrag@o
+con la data di morte (1300), e che rimbalz@o di l@i nei commenti
+successivi.  Solo le ricerche d'archivio del Luisio, del Barbi e
+di altri portarono alla conferma dell'esistenza di un magistrato
+Martino di professione bottaio, che appare in documenti lucchesi
+nel 1293 e 1295.  L'accertamento della morte di costui, il 9
+aprile 1300, se da un lato conferma la validit@a della
+identificazione, dall'altra spiega l'assenza del nome dal poema,
+perch$e l'arrivo nell'Inferno proprio esattamente nel periodo
+dell'immaginario viaggio, anzi del preciso momento in cui i due
+poeti si trovano in quella bolgia, e l'appellativo di |anz,ian di
+Santa Zita~ dovevano far pensare il lettore lucchese a quel
+personaggio specifico.  La designazione della citt@a di Lucca con
+il ricordo di S. Zita, una pia fantesca pontremolese vissuta a
+Lucca e mortavi nel 1272 in odore di santit@a, anche se non ancora
+ufficialmente riconosciuta dalla Chiesa, non credo debba
+ritenersi, come pensano parecchi, un dileggio dei sentimenti
+religiosi dei Lucchesi ritenuti superstizione (vedi n. al v. 48).
+
+	|39-40.  per anche~: ancora, di nuovo.  |Che n'@e ben
+fornita~: lezione pi@u ovvia per il senso, non ^facilior~, e
+rafforzata da una maggiore presenza nella tradizione manoscritta,
+contro quella ^ch'i' ho ben fornita~ preferita dal Vandelli,
+nell'ed. del '21, dal Casella e da altri. Il senso della prima @e
+ovvio: il diavolo ritorna a Lucca, perch$e quella citt@a @e ben
+fornita di barattieri.  Con la seconda interpretazione si intende
+invece: <ch'io tengo a mia disposizione perch$e ben fornita di
+peccatori>: e sembra un po' meno naturale.
+
+	|41.  barattier~: per il significato di <baratteria> e
+per il tipo di peccatori di questa bolgia vedi ^Introduzione.~ 
+|Fuor che Bonturo~: detto ironicamente per indicare che in una
+citt@a di barattieri Bonturo era il peggiore.  Bonturo Dati,
+popolano lucchese, fu a capo della parte popolare, copr@i vari
+incarichi, salendo a grande autorit@a.  Cacciati dalla citt@a i
+Grandi nel 1308, si vantava di aver posto fine alle baratterie
+dei precedenti governatori, quando invece, per testimonianza
+degli antichi, egli ne commetteva moltissime.  Nel 1313, negli
+accordi tra Pisa e Lucca, schern@i insolentemente i Pisani, per
+cui tra le due citt@a sorse un'aspra guerra assai dannosa per
+Lucca.  Questo fatto, probabilmente non noto al poeta, almeno al
+momento della composizione di questo canto, ispir@o al Carducci la
+nota lirica ^Faida di Comune.~  Bonturo @e un altro caso di uomo
+ancor vivente nel 1300 (sopravvisse a Dante perch$e mor@i tra gli
+ultimi giorni del 1324 e i primi del 1325) che il poeta trova
+modo di condannare all'Inferno.
+
+	|42.  del no... ita~: per denaro si dice di s@i (|ita~)
+invece di no, cio@e si approva ci@o che si dovrebbe respingere. 
+L'allusione @e chiaramente rivolta agli atti pubblici (assemblee,
+deliberazioni, ecc.).
+
+	|44-45.  e mai... furo~: e mai un mastino sciolto (dalla
+catena) fu pi@u veloce e inseguire un ladro (|furo~).
+
+	|46.  Quel~: l'anziano di S. Zita.  |Convolto~: tra le
+varie interpretazioni (raggomitolato, con la schiena curva ecc.)
+sembra pi@u ovvia, anche per il significato del termine nella
+lingua del tempo (cfr. DEL LUNGO, ^Dal secolo~, 451) quella che
+intende <imbrattato, ricoperto di pece>.  Cos@i si comprende
+meglio anche l'allusione al Santo Volto (vedi nota al v. 48).
+
+	|47.  che del... coperchio~: che erano nascosti dal
+ponte, cio@e che si trovavano sotto il ponte e non erano stati
+ancor visti da Dante n$e da Virgilio.
+
+	|48.  Qui... Volto~: il Santo Volto, assai venerato a
+Lucca, @e un antico crocefisso bizantino di legno nero, custodito
+in un'apposita cappelletta nella basilica di S. Martino. 
+L'espressione andr@a intesa nel senso pi@u ovvio: il dannato
+<espone> il volto nero di pece, come a Lucca si espone il Santo
+Volto.  Altri invece intende lo scherno ironico dei diavoli nel
+senso che il dannato, risalito in superficie con la schiena curva
+(questo sarebbe il significato di ^convolto~ del v. 46) sembra
+atteggiato a venerazione, qui evidentemente inutile.  Ma pare
+interpretazione pi@u sforzata.
+
+	|49.  qui... Serchio!~: ironia malvagia dei demoni
+ricordare al dannato appena tuffato che nella pece della bolgia
+non si nuota come nel Serchio, che @e il fiume che scorre poco
+lontano da Lucca.
+
+	|50-51.  di nostri graffi~: va sottinteso il verbo
+<provare, assaggiare>: se non vuoi assaggiare qualcuna delle
+nostre graffiature.  Per altri |graffi~ @e sinonimo di ^raffi~ (v.
+52), cio@e gli uncini di cui sono armati i demoni.  |Non...
+soverchio~: non soverchiare la superficie della pece (|pegola~),
+cio@e <non venire a galla>.
+
+	|52.  Poi~: poi che, dopo che.  |Raffi~: ferri uncinati
+posti in cima ad un'asta; sono le armi di questi demoni,
+denominate anche ^runcigli~ (XXI 71; XXII 71) e ^uncini~ (XXI 73
+e 86; XXII 69 e 149).
+
+	|53-54.  balli~: continua il pesante sarcasmo dei diavoli
+verso il nuovo arrivato.  |Accaffi~: <arraffi>, @e espressione
+dialettale ed arcaica.  Allusione maligna alla natura del
+barattiere, che approfitta delle occasioni |coverto~ e
+|nascosamente~ per <arraffare>.
+
+	|55-57.  Non altrimenti... galli~: similitudine intonata
+all'atmosfera generale del canto.  |Cuoci~: plurale arcaico per
+<cuochi>, come ^bieci~ (^Pd~ V 65), ^mendici~ (^Pd~ XVII 90),
+^caduci~ (^Pd~ XX 12), ecc.; cfr. PARODI, ^Lingua~, II 249 e
+SCHIAFFINI, in <Studi d.> XIII 45.  |Vassalli~: gli sguatteri,
+gli aiutanti e sottoposti dei cuochi.  |Galli~: galleggi.
+
+	|58-105 {Nota Bosco}.~  Secondo atto (XXI 58-fine; XXII
+1-15): Dante, incuriosito pi@u che atterrito testimone delle
+precedenti scene, per consiglio di Virgilio si nasconde ora
+dietro una sporgenza del ponte: il maestro scende sull'argine che
+divide la quinta dalla sesta bolgia, e ferma con autorit@a i
+diavoli che gli si erano fatti incontro minacciosi: parlamenta
+con un loro emissario, Malacoda, mettendo come di consueto
+innanzi la volont@a del cielo.  Sicch$e l'|orgoglio~ del diavolo
+cade; Virgilio @e ormai sicuro d'aver vinto quest'altra battaglia
+diabolica e chiama a s$e il discepolo; questi accorre, ma non ha
+deposto la paura e si stringe al maestro.  Allo stesso modo, si
+direbbe che qui Dante sorrida nel disegnare un s$e stesso assai
+diverso dal fiero indomabile Dante che conosciamo: un Dante che @e
+desideroso, s@i, di guardare il diavolo sopravveniente, ma non
+senza che le forze gli vengan meno per la paura (25-27); che poi
+se ne sta |quatto quatto~ {89} dietro una roccia; che resta
+pauroso e diffidente anche quando sembra che la battaglia coi
+diavoli sia vinta: se lascia il nascondiglio, corre subito,
+|ratto~ {91}, a rifugiarsi presso il maestro, stringendosi a lui
+con tutta la persona; e anche allora non riesce a distogliere lo
+sguardo dai brutti ceffi dei diavoli (|e non torceva li occhi /
+da la sembianza lor ch'era non buona~ {98-99}).  Le linee di
+questo disegno di paura sono volutamente caricate.  Non si tratta
+di discutere, come @e stato fatto, se questa paura sia o no
+giustificata dall'eccezionalit@a della situazione; sta di fatto
+che in altre circostanze non meno eccezionalmente paurose il
+personaggio Dante non ha paura; e se l'ha, essa @e rappresentata
+come un sentimento terribilmente serio, non con la lievemente
+scherzosa esagerazione di questi versi.
+
+	|58-60.  non si paia~: non appaia, non si veda: il |si~ @e
+pleonastico.  |Dopo uno scheggio~: dietro una roccia, dietro una
+sporgenza rocciosa.  |Ch'alcun schermo t'aia~: letteralmente:
+<che abbia (|aia~) per te qualche riparo>, cio@e <che ti faccia
+riparo>.  |Aia~ (aggia) = <abbia> @e forma arcaica e propria del
+linguaggio lirico.
+
+	|61-63.  nulla offension~: nessuna offesa.  |Ho le cose
+conte~: <ho le cose cognite (|conte~), conosciute>, cio@e, so come
+vanno le cose.  |Altra volta~: quando scese un'altra volta
+nell'Inferno (cfr. ^If~ IX 22).  |Baratta~: contesa, contrasto
+(cfr. PARODI, ^Lingua~, II 277) con esplicita allusione al luogo
+in cui i due poeti si trovano.
+
+	|64-66.  co~: capo (cfr. ^If~ XX 76 e ^Pg~ III 128).  |Su
+la ripa sesta~: l'argine che divide la quinta dalla sesta bolgia. 
+|Mestier... fronte~: gli fu necessario (|mestier~) aver l'aspetto
+imperturbato; avere cio@e quella forza d'animo che non lascia
+apparire esteriormente alcun turbamento.
+
+	|67-69.  Con quel... s'arresta~: la similitudine dei cani
+che si avventano abbaiando contro il mendico amplia e sviluppa
+quell'altra pi@u breve (vv. 44-45) del cane lanciato
+all'inseguimento del ladro.  Per due volte i diavoli di questa
+bolgia sono paragonati ai cani, e le similitudini animalesche si
+adattano al clima poetico di questo e del canto seguente.  Non
+tutti concordi gli interpreti sul preciso significato del
+paragone specie per il v, 69.  Il Barbi aveva proposto di
+intendere che i cani si avventano contro il poverello, abbaiando,
+non appena la voce di questo giunge improvvisa (|di s@ubito~)
+chiedendo l'elemosina.  Ma poich@e il cane avverte la presenza
+dell'estraneo prima che questi parli, seguendo il filo stesso del
+discorso disteso nei tre versi della similitudine, @e forse meglio
+intendere che il mendicante subito si ferma appena vede i cani
+avventarglisi contro e chiede l'elemosina da dove si @e arrestato. 
+|Tempesta~: frastuono di latrati.
+
+	|69.  che... s'arresta~: l'interpretazione preferita data
+sopra nella nota ai vv. 67-69, @e pi@u adatta anche alla condizione
+di Virgilio, che non ha parlato ancora e gi@a i diavoli gli si
+avventano contro.
+
+	|71.  runcigli~: vedi nota al v. 52.
+
+	|72.  fello~: il Barbi spiega: <|fello~ @e colui che pensa
+di malfare ad altrui>.  Quindi <malvagio, malintenzionato>.  Ma
+l'area semantica, anche nelle stesse opere dantesche, @e piuttosto
+estesa.  Deriva dal latino medioevale ^fello~, ^-onis~ (cfr. fr.
+ant. ^fel, felon~ e l'it. ^fellone~ con il significato originario
+di <traditore>).
+
+	|74-75.  l'un di voi~: quell'uno che @e il capo. 
+|Arruncigliarmi~: verbo coniato da Dante sul sost. ^runciglio~:
+si trova anche a ^If~ XXII 35.  |Si consigli~: pu@o essere
+impersonale ed allora significa <si decida, si deliberi (tra
+voi)>, o pu@o avere soggetto |l'un di voi.~
+
+	|76.  Malacoda~: @e il nome del capo dei demoni della
+quinta bolgia.  Il nome @e coniato sul genere di ^Malebolge~ e
+^Malebranche.~
+
+	|78.  Che li approda?~: che gli serve, che gli giova? 
+^Approdare~ @e probabilmente denominale da <prode, pro'>
+(giovamento, utilit@a), a sua volta riconducibile a ^prodesse~
+latino (giovare).
+
+	|81-82.  schermi~: qui <opposizioni, impedimenti>. 
+|Sanza... e fato destro~: senza il volere divino e il decreto
+provvidenziale favorevole.  Poich@e |fato~ non pu@o per Dante avere
+altro valore che quello del volere divino, tutta l'espressione @e
+da ritenersi una specie di endiadi: <senza il favore della
+volont@a divina> parafras@o il Porena; e si pu@o ricordare il
+virgiliano <haud... sine numine divum> di ^Aen.~ V 56.
+
+	|83-84.  Lascian' andare~: il discorso di Virgilio a
+Malacoda non ha l'asprezza e la perentoriet@a di quelli rivolti a
+Caronte o a Min@os; anzi l'espressione |lascian' andar~ ritorna
+tal quale nelle parole che rivolger@a a Catone in Purgatorio (^Pg~
+I 82).  Tanto pi@u strana tale moderatezza di linguaggio proprio
+verso diavoli che Dante trattegger@a come bugiardi, imbroglioni,
+grossolani e rissosi.  Ma forse questo fatto andr@a spiegato col
+clima `bonario' di tutta la scena.  |Nel cielo @e voluto~: come in
+^If~ III 95-96; V 23-24; VII 11-12; ma meno aspramente, come con
+i centauri (^If~ XII 86-89).  |Altrui~: ad altri, cio@e a Dante. 
+|Silvestro~: aspro, orrido (cfr. ^If~ II I42 e XII 92).
+
+	|85.  fu... caduto~: il trapassato per indicare la
+subitaneit@a dell'azione (cfr. ^If~ I 62); vale il perfetto:
+<cadde di colpo, subitamente>.
+
+	|87.  Omai... feruto~: dopo quanto ha detto, non sia pi@u
+ferito, non lo si <arruncigli> pi@u.
+
+	|88-90.  siedi~: stai.  |Quatto quatto~: Virgilio gli
+aveva detto (v. 59) di <acquattarsi>, cio@e di farsi <quatto>.  Il
+verbo (^chinarsi, rannicchiarsi~) d@a il preciso valore semantico
+dell'aggettivo; il raddoppiamento d@a invece valore intensivo:
+<ben rannicchiato>.  Per il tono, lievemente canzonatorio, vedi
+^58-105 {Nota Bosco}.~  |Ti riedi~: ritorna (da <redire>).  Il
+pronome @e pleonastico.
+
+	|93.  temetti... patto~: <temetti che essi non
+mantenessero il patto>.  Il vb. <temere> @e costruito alla latina,
+come ^timeo ut~ = <temo che non> (come il caso presente).  Si @e
+gi@a vista l'altra forma (^timeo ne~ = <temo che>) in ^If~ II 35.
+
+	|94-96.  cos@i... cotanti~: terzina interessante, per il
+particolare biografico del poeta.  Subito dopo la battaglia di
+Campaldino (11 giugno 1289), Firenze e la Taglia guelfa vennero
+in aiuto, con rinforzi senesi e pistoiesi, di Nino Visconti e dei
+Lucchesi che avevano perduto il castello di Caprona, gi@a possesso
+dei Guelfi pisani, riconquistato dai Ghibellini per opera di
+Guido da Montefeltro.  Le truppe della Taglia guelfa cinsero di
+assedio il castello, il quale capitol@o dopo pochi giorni, il 6
+agosto 1289.  Le parole di Dante sembrano indicare chiaramente la
+partecipazione del poeta al fatto d'armi, anche se non mancarono
+coloro che negarono il fatto, ritenendo che Dante fosse presente
+a Caprona solo come osservatore; ma la sua presenza a Campaldino,
+ormai ritenuta assolutamente certa, sarebbe conferma della
+presenza militare all'assedio di Caprona.  Il Bassermann (^Orme~,
+114-118) ritiene addirittura che proprio in questa circostanza si
+stringesse l'amicizia fra Dante e Nino Visconti (cfr. ^Pg~ VIII
+46-84): ma la cosa @e puramente ipotetica.
+
+	|94-95.  li fanti~: i soldati pisani.  |Patteggiati~:
+dopo aver patteggiato la resa, in cambio della vita.
+
+	|98-99.  lungo~: vicino, rasente; cfr. ^If~ X 53.  |Da la
+sembianza lor~: dall'atteggiamento dei diavoli.  |Ch'era non
+buona~: litote efficacissima.
+
+	|100-101.  Vuo'... groppone?~: <vuoi che lo colpisca
+sulla schiena?>, ma la frase ha un vigoroso e gustoso sapore
+popolaresco (^toccare~, |groppone~).
+
+	|102.  gliel'accocchi~: gli assesti un colpo; ma
+l'indeterminatezza del pronome, riferibile ad un sottinteso
+<colpo, botta>, rende efficace la frase, che @e nell'ambito del
+linguaggio furbesco di questi demoni.
+
+	|103-105.  quel... sermone~: quel demonio che trattava,
+cio@e Malacoda.  |Posa, posa~: sta' fermo, posa l'uncino. 
+|Scarmiglione~: @e il nome del diavolo che aveva proposto di
+assestare un colpo sul ^groppone~ di Dante.  Per il nome, vedi
+pi@u avanti la nota ai vv. 118-123.
+
+	|106-139 {Nota Bosco}.~  Malacoda spiega che il ponte che
+in quel punto avrebbe dovuto scavalcare la bolgia degli ipocriti
+@e stato spezzato dal terremoto seguito alla morte di Cristo:
+procedano i due sull'argine e ne troveranno uno intatto: dar@a
+loro come scorta una |decina~ di diavoli, che sceglie uno a uno,
+nominandoli; loro capo sar@a Barbariccia.  Ma la scorta @e sospetta
+a Dante; Virgilio lo rassicura; la decina si muove cos@i lungo
+l'argine, e i poeti con essa.  Tutti concordano nel ritenere che
+questo lungo e complesso episodio abbia caratteristiche sue
+proprie.  Vediamo.  Come sono presentati i personaggi? 
+Cominciamo da quelli solitamente cos@i solenni, Virgilio e Dante. 
+Si @e detto che il primo non sospetti la bugia di Malacoda per
+l'altezza dell'animo suo, per la quale una menzogna cos@i
+smaccata, volgare e inutile @e inconcepibile; ma se fosse cos@i,
+questa altezza bisognerebbe negarla a Dante, che invece diffida. 
+Comunque, Virgilio crede ingenuamente, in pieno nella remissivit@a
+di Malacoda, al suo ammonimento; non dubita minimamente, poi,
+dell'esattezza delle notizie e dell'utilit@a dei consigli e degli
+aiuti datigli da quel diavolo.  Il Parodi osserv@o che <se da
+Malacoda @e ingannato Virgilio, non @e meno ingannato il lettore,
+il quale fino agli ultimi versi del canto XXIII non sospetta
+nulla del diabolico tradimento> e che quindi l'episodio pu@o
+essere capito appieno solo a una rilettura o a un ripensamento a
+lettura finita.  Sarebbe un errore di costruzione, inconcepibile
+in Dante.  @E chiaro che se l'inganno di Malacoda fosse stato pi@u
+esplicito, e il discorso di lui meno suadente, tutto il racconto
+sarebbe caduto; d'altra parte il lettore si accorge bene della
+bugia e dei propositi dei diavoli attraverso tante vie: la
+profferta d'una scorta inutile (necessaria @e invece quella che
+Chirone offre nel cerchio dei violenti, ^If~ XII 97 ss.: l@i il
+centauro Nesso deve servire a far guadare a Dante il fiume di
+sangue); l'atteggiamento e le parole di Dante che ha intuito il
+pericolo; il digrignare i denti e i minacciosi occhi dei diavoli;
+i cenni furbeschi d'intesa che essi fanno al loro |duca~: infatti
+sanno che tutti i ponti sulla bolgia sono rotti.  Il Parodi pensa
+forse con ragione, che nell'espressione di Malacoda |costor sian
+salvi infino a l'altro scheggio~ {125} si celi una perfidia
+verbale, che i diavoli coglierebbero: egli assicura la salvezza
+solo sino all'altro scoglio; poi i diavoli saranno liberi di far
+quello che vorranno.  Comunque, il fatto che la beffa sia
+avvertita da Dante e dal lettore fa che la luce del racconto sia
+proiettata sull'ingenuit@a di Virgilio, e sottolineata anche dalla
+sicurezza impervia di lui sino all'ultimo: ^e per nulla offension
+che mi sia fatta, / non temer tu, ch'i' ho le cose conte~
+(61-62): egli conosce bene come vanno e andranno le cose!  La
+scena @e strutturalmente simile a quella dinnanzi alla citt@a di
+Dite: anche l@i Virgilio, per andare a parlamentare coi demoni,
+lascia il discepolo solo; anche l@i questo @e impaurito e incerto;
+ma @e una pusillanimit@a su cui il poeta narratore non scherza.  E
+si pensi anche a Dante che diviene ^gelato e fioco~, al suo
+rimanere fra vita e morte, alla vista di Lucifero (^If~ XXXIV
+20-27): ma questi era ^'mperador del doloroso regno~, mentre i
+diavoli dei barattieri non sono neppure degni cortigiani di lui:
+sono sguatteri (55-57).  Ci@o appunto conferisce alla paura di
+Dante una patina scherzosa: questi diavoli, vorrei dire questi
+poveri diavoli, son troppo umani e, nella loro crudelt@a, troppo
+deboli per ispirare una paura da rappresentare con tono sostenuto
+e `tragico'.  Diavoli mezzi uomini, insomma (per altri diavoli di
+questo genere si veda anche ^If~ XXVII 113-117, XXXIII 124 ss.,
+^Pg~ V 103 ss.).  E gli altri hanno nomi pi@u strani e bizzarri
+che spaventosi, coniati con allusioni, per lo pi@u, alle loro
+caratteristiche; alcuni appartengono sicuramente o probabilmente
+alla tradizione folclorica; altri sono identici o simili a nomi e
+soprannomi del tempo: il che non ci autorizza a fare precise
+identificazioni con persone storiche, ma certo quei nomi dovevano
+avere per i lettori immediati del poema un suono familiare,
+dovevano avvicinare i loro titolari alla comune umanit@a, alla
+vita d'ogni giorno.  Diavoli che cercano d'ingannare i dannati
+con il non certo diabolico espediente di stare nascosti sotto un
+ponte; e basta che un uomo sia a sua volta acquattato dietro una
+roccia perch$e non lo vedano; che poi si faranno clamorosamente
+ingannare da Ciampolo, nonostante l'avvertimento di uno di essi,
+cos@i come Virgilio si fa ingannare da Malacoda nonostante i
+replicati avvertimenti di Dante.  Ma prima tutta la |decina~ era
+stata compatta agli ordini di Barbariccia, come gi@a a quelli di
+Malacoda, con furbesca complicit@a ma con militaresca disciplina;
+una pattuglia, per@o, che si muove al segnale d'un peto, e che ha
+pronta la lingua tra i denti, per produrre un rumore analogo, che
+s'immagina facilmente segner@a il ritmo della marcia:
+accompagnamento, si deve credere, abituale, dal momento che tutti
+nell'accingersi a muoversi si preparano a emettere quel suono,
+senza intesa preventiva.  Basta questo finale del canto XXI, su
+cui cos@i a lungo s'insiste nell'inizio del XXII, a dirci su quale
+registro tutta la scena vada letta.  No, non sono davvero diavoli
+da averne troppa paura.  Il canto XXI si chiude su una parola
+crudissima; ma qui essa non ha l'ufficio che hanno consimili
+parole nel canto precedente, dove segnavano la miseria attuale
+dei dannati in contrasto con l'audacia della loro pretesa di
+dominare il futuro; @e invece uno scherzo volutamente grossolano,
+ribadito poi in ben 12 versi successivi, con cui il poeta
+sottolinea la volgarit@a di questi suoi allegri e crudeli diavoli
+di second'ordine.
+
+	|107-108.  iscoglio~: la fila dei ponti che scavalcano le
+bolge.  |L'arco sesto~: cio@e il ponte che passa sopra la sesta
+bolgia.
+
+	|109-111.  pur~: tuttavia.  |Questa grotta~: questa
+roccia, questo argine; quello cio@e su cui si trovano ora i due
+poeti (cfr. ^If~ XIV 114; ^Pg~ I 48; III 90, ecc.).  |Presso~:
+non lontano di qui.  |Un altro scoglio che via face~: un altro
+ponte che @e intatto e permette di passare.
+
+	|112.  Ier...otta~: ieri, cinque ore pi@u tardi di
+quest'ora (|otta~).  |Otta~ per <ora>, ^allotta~ per <allora>
+erano fiorentinismi frequenti.  Dante li usa solo in rima.
+
+	|113-114.  mille... fu rotta~: il ponte (anzi i ponti,
+giacch@e Malacoda mente) @e crollato esattamente 1266 anni fa, meno
+cinque ore rispetto all'ora presente.  Questi versi hanno,
+insieme con alcune altre indicazioni, grande importanza per ci@o
+che riguarda la data dell'immaginario viaggio dantesco.  Dante
+riteneva che Cristo fosse morto a 34 anni compiuti dal giorno
+dell'incarnazione (cfr. ^Cv~ IV xxiii 10) e secondo
+l'affermazione dell'evangelista Luca, circa l'ora sesta, cio@e il
+mezzogiorno.  Se sono passati, come afferma Malacoda, 1266 anni
+dal momento del terremoto che indic@o l'ora del trapasso di Ges@u,
+siamo cinque ore prima del mezzod@i del venerd@i santo dell'anno
+1300.  Unico divario tra i critici sta nella precisazione della
+data: si tratta secondo alcuni dell'anniversario, diciamo cos@i,
+<storico> della morte di Cristo, che si riteneva il 25 marzo;
+secondo altri invece si tratta del venerd@i santo del 1300, che
+cadeva l'8 aprile.  Per l'ora anche c'@e qualche perplessit@a,
+perch@e i vangeli di Matteo e Marco parlano dell'ora nona (le 3
+pomeridiane circa).  Non c'@e ragione di credere che al momento
+della composizione del canto Dante avesse mutato l'idea espressa
+nel ^Convivio~ e quindi dobbiamo pensare che il poeta intendesse
+indicare con questo passo, cos@i cronologicamente preciso, le 7
+del mattino del venerd@i santo del 1300.
+
+	|115-117.  verso l@a~: cio@e verso quel ponte che @e ancora
+in piedi: Malacoda come si @e detto, mente.  |Di questi miei~:
+qualcuno dei diavoli miei sottoposti.  |S'alcun se ne sciorina~:
+se alcun dannato viene fuori dalla pece.  Si noti il traslato:
+^sciorinare~ vale <mettere fuori i panni ad asciugare>, quindi
+per estensione <mettere qualche cosa in mostra>.  |Rei~: cattivi;
+cio@e non vi faranno alcun male.
+
+	|118-123.  Tra' ti... pazzo~: i 10 diavoli che Malacoda
+manda come accompagnatori dei due poeti sono: Barbariccia, che ha
+compiti di capo schiera, Alichino, Calcabrina, Cagnazzo,
+Libicocco, Draghignazzo, Ciriatto, Graffiacane, Farfarello e
+Rubicante.  I nomi hanno indubbiamente un carattere grottesco che
+ben s'addice a questi diavoli un po' alla buona, come
+l'immaginava la fantasia popolare.  Eccessiva senza dubbio
+l'ipotesi del Rossetti che pensava si trattasse di nomi alterati
+o addirittura anagrammati dei priori e magistrati di parte Nera;
+pi@u ragionevole l'idea del Torraca che fossero, leggermente
+modificati, nomi, cognomi o soprannomi del tempo.  Infatti nei
+documenti dell'epoca si trovano nomi come Malebranca, Raffacani,
+Lanciabrina, Cagnasso, Rubaconte, ecc.  Ma forse Dante ha qui
+obbedito ad un gusto puramente fantastico (si pensi ai nomi di
+certi bravi manzoniani: Nibbio, Squinternotto, Tiradritto,
+Grignapoco, Sfregiato, ecc.) a cui non manca certo un significato
+allusivo ad alcune caratteristiche dei singoli diavoli. 
+|Alichino~ @e probabilmente derivato da <Hellequin> che troviamo
+come nome di un demonio in parecchie leggende medievali e in
+rappresentazioni popolari francesi come maschera-diavolo: di qui
+la maschera di Arlecchino, come ha dimostrato il Toschi (^Le
+origini del teatro italiano~, Torino, 1955, pp. 196-208), con
+ampia documentazione.  La maschera-diavolo di origine francese fa
+in Italia la sua prima apparizione in questo ^ludus~ dantesco dei
+diavoli (TOSCHI, 205) con le sue caratteristiche di diavolo
+comico.  |Farfarello~ @e stato posto in relazione col termine
+<folletto> (PARODI, ^Lingua~, II 354-356) e si trova in fr. ant.
+^farfadet~ e in toscano ^farfanicchio.~  Di facile spiegazione
+sia come senso letterale, sia come formazione sono |Barbariccia~,
+|Cagnazzo~ (Cagnaccio = grosso cane), |Graffiacane~ e |Malacoda.~ 
+|Calcabrina~ significava per gli antichi commentatori <colui che
+calca la brina>, cio@e <la grazia>: interpretazione troppo sottile
+e quindi poco convincente; la formazione @e semplice e forse vuol
+solo indicare la sua leggerezza (Chimenz).  |Draghignazzo~ era
+spiegato da Benvenuto da Imola come <quasi magnus draco>, ma il
+Parodi (^loc. cit.~) pensa ad un accomodamento su ghigno o
+digrigno o sghignazzo.  ^Scarmiglione~ @e anch'esso facilmente
+avvicinabile a <scarmigliare> e |Rubicante~ a ^ruber~ = rosso,
+<rosseggiante>, che per@o, dato che i diavoli sono neri, ha
+determinato la variante tarda ^Rabicante~ (da ^rabies~): <il
+rabbioso>.  Difficili etimologicamente sono per il Parodi
+|Libicocco~ e |Ciriatto.~  Per il primo si @e pensato ad un
+intreccio tra ^libeccio~ e ^scirocco~, nomi di venti che
+potrebbero designare l'impetuosit@a.  Per il secondo si @e pensato
+alla radice greca %xoiroz~ = maiale; ma data l'assenza di tale
+nome nei glossari del tempo, @e pi@u probabile riferirlo, senza il
+greco, a ^ciro~, attestato, nel senso di <maiale, animale nero>,
+in Valdichiana secondo il ^Vocabolario~ del Fanfani.  La
+desinenza ^-atto~ @e propria delle discendenze animalesche (cervo
+/ cerbiatto, orso / orsatto) e si attaglia perfettamente a quel
+diavolo che vien detto |sannuto~ e in ^If~ XXII 55-56 ^a cui di
+bocca uscia / d'ogne parte una sanna come a porco.~  Che il porco
+fosse animale legato al tema demoniaco nel folclore europeo o in
+rappresentazioni popolari, da cui era derivato il nome di un
+personaggio Corocotta o Ciricotta, dimostra il Toschi (^ibid.~
+248 n. 2 e 256) e a questo lega il nome del Ciriatto dantesco. 
+Cos@i per strade diverse si arriva per questo diavolo allo stesso
+etimo.  Che Dante possa aver veduto in Firenze o in qualche citt@a
+dell'Italia settentrionale una rappresentazione del mondo
+infernale con maschere-demoni, analoga a quella descritta per il
+1304, e terminata in una catastrofe per il cedimento del ponte
+alla Carraia, dal Villani (^Cron.~ VIII 70), @e ipotesi del Toschi
+non del tutto trascurabile.
+
+	|118.  Tra' ti~: tr@aiti.
+
+	|122-123.  sannuto~: fornito di <sanne>, cio@e <zanne>;
+cfr. ^If~ XXII 55-56.  |Pazzo~: per alcuni l'agg. costringe alla
+lez. ^Rabicante~ (<il rabbioso>), per altri la esclude perch@e
+sarebbe ripetizione superflua.
+
+	|124.  Cercate~: andate in giro, perlustrate; lo stesso
+di ^If~ XX 55.  |Pane~: panie (forma arcaica).  @E detto della
+pece per la sua vischiosit@a.
+
+	|125-126.  costor... tane~: @e il malizioso inganno di
+Malacoda, che va preso pi@u come un divertito ammiccamento tra i
+diavoli, che come una vera minaccia.  |Tutto intero~: senza
+interruzioni.  |Tane~: bolge.
+
+	|128-129.  andianci~: andiamoci, cio@e andiamo via di qui
+(|ci~).  |Sa' ir~: conosci la via, sai andare.
+
+	|132.  con le ciglie... duoli~: con le loro occhiate
+minacciano guai.
+
+	|134-135.  a lor senno~: come vogliono, a piacer loro. 
+|Per li lessi dolenti~: per i dannati, che bollono nella pece.
+
+	|136.  volta dienno~: diedero volta, svoltarono. 
+L'espressione @e frequente in Dante (cfr. ^Pg~ V 41; VI 151; VIII
+107; XXIV 140; XXIX 11).
+
+	|137-139.  avea... cenno~: i diavoli si tengon pronti a
+ripetere con la bocca lo sconcio segnale di Barbariccia. 
+Argutamente Benvenuto: <tenebant linguam dispositam et paratam ad
+trulizandum>.  |Ed elli... trombetta~: lo sconcio segnale di
+Barbariccia chiude degnamente questa prima parte della commedia
+infernale.

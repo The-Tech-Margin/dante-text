@@ -1,0 +1,718 @@
+	|1-15^.~  ~[c.83v] In questo duodecimo canto discrive el poeta la 
+scesa del sexto cerchio nel septimo: et quello divide chome di sopra 
+habbiamo decto et ponvi e' supplicii de' violenti^.~  prima nel 
+proximo: di poi in s$e medesimo: et ultimamente in Dio: et pone a 
+guardia del luogho e' monstruosi centauri: Et maxime el Minothauro di 
+Creta: Et dimostra che questa scesa era uno precipitio di massi ropti 
+et rovinati et aspra: et tale quale @e una rovinata del monte Barco tra 
+Trivigi et Trento: Et in su la puncta della rovinata dove @e el 
+principio della scesa era disteso el Minothauro^.~  El monte Barco 
+havendo molto corrose le sue radici dal fiume.  o per questo.  o per 
+tremuoti ruvin@o in gran parte in sull'Adice fiume in forma che quello 
+per buono spatio f@e discostare: Et per questa ruina la roccia cio@e la 
+rocca ^id est~ e' massi et la ripa del monte @e s@i discoscesa dalla 
+cima al piano che darebbe alchuna via bench$e non fussi molto facile |A 
+chi su fosse~: cio@e a chi fussi in cima |Cotal da quel burrato~/ da 
+quella ruina: Burrato dicono e' fiorentini un fossato profondo quasi 
+baratro.  |Et in su la punta~/ in su la cima |Della ropta lacca~: cio@e 
+scesa/ decta da questo verbo labor.  |Era distesa~: Quasi giaceva |La 
+infamia di Creta~: cio@e el Minothauro: el quale nato in Creta isola 
+hoggi decta Candia era infamia della decta isola essendo non huomo ma 
+cosa monstruosa.  |La quale infamia~: cio@e monstro.  |Fu concepta~: 
+cio@e el qual Minothauro fu conceputo.  |Nella falsa vaccha~.  Il che 
+accioch$e pi@u apertamente s'intenda brievemente narreremo la favola.  
+Perch$e Venere nell'adulterio el qual commetteva con Marte/ fu scoperta 
+dal Sole: et accusata al suo marito Vulcano.  Divent@o tanto inimica a 
+quello: che non potendosi vendicare di lui si vendic@o sopra le 
+figluole.  Andunque essendo Pasiphe mogle di Minos re di Creta: et 
+figliuola del Sole fu tanto disordinatamente incitata a libidine da 
+Venere che si conduxe ad amare un toro degli armenti del marito.  
+Alchuni dicono che desiderando Minos nel sacrificio el quale voleva 
+fare a Iove suo padre haver animal conveniente a tanto iddio: Iove gli 
+mand@o un molto bello et formoso toro.  Ma Minos commosso da avaritia 
+et cupidit@a di s@i bello animale lo mand@o a' suoi armenti et a Iove 
+sacrific@o un men bello toro.  Onde irato Iove induxe Pasiphe ad amar 
+quello.  Ma qualunque fusse el toro: aggiungono che Pasiphe richiese 
+Dedalo che gli mostrassi in che modo si potessi chon l'amato thoro 
+congiugnere: Et Dedalo fece di legno una imagine di vaccha: et in 
+quella la rinchiuse: et chos@i si congiunse chol thoro stimando quella 
+esser vaccha.  Di questa coniunctione nacque el Minothauro mostro 
+horrendo: el quale era mezo huomo et mezo thoro: Et Minos per occultare 
+la infamia lo rinchiuse nel lab[yrin]tho: et quivi divorava gl'huomini 
+vivi.  Pocho innanzi a quegli tempi era stato ucciso Androgeo figluolo 
+di Minos dagli atheniesi per invidia: la quale gli portavono: perch$e 
+tutti gli vinceva nel giuoco della palestra.  Vendicossene Minos: et 
+vinctogli impose loro legge: che ciaschuno anno mandassino in Creta 
+quattordici loro figliuoli septe maschi et septe femine.  Questi si 
+traevono a sorte: et doppo alchuno anno caddono le sorte sopra Theseo 
+figluolo d'Egeo re d'Athene.  And@o chostui: Ma innanzi che entrassi 
+nel labirynto per sua belleza allect@o nel suo amore Adriana o a dir 
+meglio Ariadna figluola di Minos: alla quale promesse che se la farebbe 
+moglie.  Et lei dispose liberarlo da s@i cruda morte.  Dectegli adunque 
+un ghomitolo di filo.  palle di pegola: et una maza ferrata.  Theseo 
+legh@o el capo del filo all'uscio: et el resto tir@o seco accioch$e 
+sequitando poi quello sapessi ritornare fuori.  Et aprendo el 
+Minothauro la boccha per divorarlo gli gitt@o le palle della pegola: le 
+quali gli 'mpiastrono la bocca in forma che non la poteva aprire: Et di 
+poi con la maza gli percosse el capo et ucciselo.  Havete la favola 
+udite l'allegoria.  Pongono alchuni scriptori di non mediocre doctrina 
+che per Pasiphe femina bellissima et figluola del Sole/ si 'ntende 
+l'anima humana creata da Dio sommo sole: et facta bellissima per la sua 
+innocentia.  Diventa moglie di Minos inventore di leggi: perch$e si 
+congiugne alla ragione: la quale con sue leggi l'addiriza in recta via. 
+ Di chostei @e inimica Venere cio@e la concupiscentia: la quale sempre 
+s'oppone alla ragione: Et se l'appetito s'accosta alla concupiscentia 
+l'anima si sepera dal marito Minos: cio@e dalla ragione: et tirata 
+dalle lusinghe della carne ama el thoro: cio@e le delitie del mondo: le 
+quali nel primo aspecto paion belle: Ma di poi usando le noi male 
+vegnamo a esser congiunti con la bestialit@a: Et Pasiphe rinchiusa in 
+vaccha di legno usa chol thoro: perch$e con l'artificio del nostro 
+ingegno usiamo le cose naturali non secondo la legge della natura // 
+c.84r Di qui nasce el Minothauro el quele ha le membra parte d'huomo et 
+parte di thoro.  Questo @e el vitio della bestialit@a della quale 
+dicemmo di sopra.  Imper@o che quegli che sono coinquinati di questo 
+vitio/ paiono huomini nell'aspecto: ma ne' costumi son bestie.  Mettesi 
+el Minothauro nel labirynto.  Il che dinota el pecto humano essere 
+intricato di varie fraudi.  Ma Theseo admonito da Adriana: cio@e 
+l'huomo docto admonito dalla ragione uccide el Minothauro: cio@e el 
+vitio.  Per tale allegoria facile intenderai: che con optima ragione 
+Danthe pose nel luogo dove si puniscono e' crudeli et efferati peccati 
+tal monstro |Et quando vide noi s$e stessa morse~: /| S@i chome quei 
+cui l'ira dentro fiaccha~.  Dimostra che la violenta bestialit@a nata 
+da superbia @e sempre accompagnata da l'ira: perch$e in un medesimo 
+tempo gli @e molesto non obtenere quanto desidera et rodesi di rabbia.  
+Da altra parte si duole che rimossa la paura nessun l'honora.
+
+	|16-27.~  Dimostra chome Virgilio admonisce el Minothauro el quale non 
+tema essere morto da Danthe perch$e non @e Theseo el quale l'uccise in 
+Creta: Dove allegoricamente dimostra che el Minothauro poteva essere 
+ucciso qua su nel mondo.  Ma non pu@o essere ucciso nello 'nferno: 
+perch$e parlando christianamente chi @e in vita si pu@o ridurre a 
+penitentia: Et chos@i uccide el vitio della bestialit@a: Ma chi @e 
+nello 'nferno non ha spatio di pentersi.  Et moralmente in vita cio@e 
+ove non @e anchora obstinato habito del vitio possiamo ucciderlo: Ma 
+nello 'nferno: cio@e poich$e siamo ridocti a uno habito obstinatissimo 
+non possiamo ucciderlo.  |Grid@o~: A dimostrare che la ragione 
+superiore debba insurgere vivamente et chon vehementia.  Il che exprime 
+per le grida: et non freddamente.  |El duca d'Athene~.  Theseo duca 
+d'Athene el quale chome habbiamo decto s'intende per l'huomo savio: el 
+quale @e duca d'Athene.  Imper@o che chome Athene fu citt@a in Grecia 
+domicilio et riceptacolo di tutte le doctrine: sanza le quali non pu@o 
+essere l'huomo savio Chostui gli porse la morte nel mondo chome 
+habbiamo decto.  Il che pot$e fare per gli admaestramenti d'Adriana 
+cio@e della virt@u la quale in tanto @e sorella della bestialit@a: 
+perch$e l'una et l'altra @e conceputa dall'anima: la quale quando si 
+congiugne con Minos cio@e con la ragione partorisce la virt@u: quando 
+col torto cio@e con la concupiscentia partorisce el Minothauro ^id est~ 
+el vitio.  |Ma vassi per vedere le vostre pene~.  Non uccide el 
+peccato: Ma contempla le vostre pene: cio@e la natura del peccato et el 
+male che ne viene: accioch$e conoscendolo se ne guardi.  |Qual @e quel 
+thoro~.  @E optima comperatione et molto conveniente comperare el 
+Minothauro al thoro.  Et anchora per quel moto exprime el furor di 
+questo monstro: Et dinota che lo 'ntellecto insurgendo contro alla 
+bestialit@a obstinata la convince a ragione.  Ma quello per quello per 
+la sua obstinatione s'adira piutosto che non cede.  |Et quegli 
+accorto~.  Optimo precepto da lo 'ntellecto alla ragione inferiore: che 
+quando l'obstinato monta in furore gli ceda: et vadasene per l'entrata 
+che lui abbandona: cio@e per la ragione la quale ci mette in questa 
+contemplatione.
+
+	|28-45.~  Scendevamo gi@u per lo scharcho: cio@e per la ruina la quale 
+havea scharicato el monte di molte pietre: et molte v'erano rimase meze 
+svelte in forma che quando Danthe vi poneva e' piedi si moveano.  |Per 
+lo nuovo~: cio@e inusitato |carcho~.  Imper@o che non vi smontava se 
+non anime sanza corpo da Danthe in fuora.  Adunque Danthe andava 
+alchuna volta vacillando movendosegli sobto le pietre.  Il che 
+significa che mentre che la sensualit@a con la ragione inferiore scende 
+nella contemplatione de' vitii non pu@o essere che alchuna volta non 
+vada vacillando: perch$e e' piaceri che arrecono seco e' vitii la 
+lusingono.  Imper@o che non @e anchora facto l'habito della virt@u 
+heroica.  O vogliamo dire secondo Platone l'habito delle virt@u 
+dell'animo gi@a purgato.  Ma basta che non caggia cio@e non rovini nel 
+vitio.  N$e sanza cagione dimostra che questa ruina mena dove @e // 
+c.84v punita la violentia efferata.  Imper@o che non pu@o l'animo 
+scendere in tanta crudelt@a et violentia se la mente prima non rovina 
+della excellentia della sua natura: et non indurisce alla crudelt@a: 
+perch$e naturalmente siamo nati ad amare et giovare et non a odiare et 
+nuocere.  Il perch$e amendue queste chose expresse el poeta per la 
+ruina et per le pietre: le quali sono chosa durissima.  |Io gi@a 
+pensando~: intendi alla ruina.  Imper@o che la ragione inferiore pensa 
+sempre alle chose particulari: Et di questo s'accorse la ragione 
+superiore: et per@o gli solve el dubio del suo pensiere.  |In questa 
+ruina che @e guardata / da quell'ira bestiale~.  Imper@o che el passo 
+donde entriamo nella violentia @e superbia accompagnata da ira: per la 
+quale dimentichiamo l'humanit@a et diventiamo fiere per crudelt@a.  
+|Ch'io hora spensi~ perch$e lo 'ntellecto spegne l'ira con la ragione.  
+|Hor vo' che sappi~: Finge che questa insieme chon molte altre 
+rovinassi nell'hora sexta del Venerd@i Sancto quando fu el terremoto 
+per la morte di Christo: Et allegoricamente accenna che per la morte di 
+Christo fu spezata ogni violentia del dimonio contro di noi.  |Colui 
+che la gran preda~ ^id est~ Christo el quale spogli@o el Limbo de' 
+sancti padri: e' quali prima pel peccato originale erono in preda.  |Di 
+Dite~: cio@e di Plutone ^id est~ di Lucifero.  |Del cerchio~ del Limbo: 
+el quale @e el primo cerchio et el pi@u alto.  |Si ch'io pensai che 
+l'universo / sentissi amore par lo quale @e chi creda~: Cio@e sono 
+alchuni che credono che pi@u volte el mondo sia ritornato in chaos Pone 
+la sententia d'Empedocle el quale poneva sei principii: cio@e quattro 
+elementi et amore et discordia: et diceva che quando gl'elementi et e' 
+moti del cielo erono in concordia ogni cosa tornava in chaos: et quando 
+cessava la concordia et veniva la discordia/ tornava el mondo nella 
+pristina forma.  |Et in quel puncto~ dell'hora sexta.  |Questa vecchia 
+roccia~/ questa antica ripa.  |Qui et altrove~ chome si dir@a di sobto.
+
+	|46-66.~  Dimostra prima che el supplicio di questi peccatori era che 
+fussino bolliti nel sangue Di poi si sdegna contro alle sfrenati 
+voglie: le quali a tanta furia spingono gl'huomini in volere possedere 
+in questo brieve tempo della vita quello pel quale di poi in eterno 
+sien dannati: Et finalmente dimostra e' punitori di questa essere e' 
+centauri |Ma ficca gli occhi a valle~: cio@e a basso.  |Che 
+s'approccia~: cio@e perch$e s'approxima.  |O cieca cupi[di]gia~: Cieca 
+dixe sanza ragione.  |O ira folle~.  Dicemmo di sopra che la forza 
+dell'appetito irascibile @e torre via tutti gl'obstacoli: che non ci 
+lasciono consequire quello che disideriamo.  Adunque @e folle et stolto 
+tale appetito: el quale tutto il giorno pigne gl'animi furiosi: et 
+cupidi della tyrannide a mille pericoli et morti: et a infinite 
+fatiche: Conciosiach$e vi @e pi@u dolce si truovi l'acqua el pane el 
+vetro el legno che le gemme ell'oro.  @E conveniente supplicio 
+agl'huomini crudeli et tyranni che sieno puniti nel bollente sangue.  
+Imper@o che chi se dilectato del sangue promette la divina iustitia che 
+sia punito nel sangue: chome intervenne a Cyrro re de' persi: el quale 
+dopo la gravissima ropta data agli scythi: et dopo crudelissima 
+occisione di quegli Finalmente vincto da Tamaris loro regina el chui 
+figluolo haveva con gli altri morto/ fu insieme con ducento migliaia di 
+persi morto: Et Tamaris a dimostrare la sua sete del sangue humano gli 
+lev@o el capo et messelo in uno otro pieno di sangue dicendo Sangue 
+sitisti et io di sangue t'empio.  ^Preterea~ bollono nel sangue e' 
+violenti: perch$e sono incitati da ira la quale @e bollimento di 
+sangue.  Et moralmente chi s'@e dilectato dell'homicidio di poi ne 
+pigla tanto pentimento: che d@i et nocte @e tormentato di ricordarsi di 
+quello.  Violentia @e forza usata a danno et male altrui: et nasce da 
+cupidit@a: la quale ha origine da superbia.  |In archo torta~: perch$e 
+andava in circuito: secondo el sito che lui pone.  |Tra 'l pi@e della 
+ripa~/ Tra le radici del monte.  |Et essa~ fossa.  |Centauri armati~ 
+|correvano in traccia~: Cio@e tutti alla fila quasi sequitando la 
+traccia l'un dell'altro.  Traccia significa vestigio et // c.85r orma/ 
+Onde tracciare @e sequitare le pedate.  Centauri dicono e' poeti che 
+furono huomini monstruosi in Thessaglia: e' quali erono mezo cavagli et 
+mezo huomini figluoli di Ixione.  Chostui figluolo di Phlegias di 
+Thessaglia.  Et fu el primo che appresso de' greci tent@o per forza 
+occupare la tyrannide: per questo fingono e' poeti che lui volle 
+congiugnersi con Iunone mogle di Iove: Et Iove beffandolo fece una 
+imagine di nebbia simile a Iunone: Et Ixione con quella si congiunse 
+stimando che fussi la vera Iunone Et di tal congiunctione nacquono e' 
+centauri.  Per Ixione intendiamo tutti gl'huomini cupidi di regni o di 
+potentie: e' quali sopra le loro forze tentano acquistare principati o 
+signorie: Et perch$e Iunone @e iddia de' reami.  Per@o fingono che lui 
+si volessi congiugnere con quella: Ma epsa lo dileggia: et ingannalo 
+per mostrarli tale imagine quale habbiamo decto: perch$e nessuno @e che 
+possa congiugnersi con Iunone chome desidera: cio@e acquistare tanta 
+signoria quanta si propone nell'animo: el quale nella vita tyrannica @e 
+insatiabile.  Imper@o che acquistato quello che prima desiderava: et 
+nel quale credeva riposarsi gli nasce disiderio d'un maggiore: Et mai 
+non arriva a quella quieta vita che si propone: alla quale presto 
+arriverebbe se ponessi freno alla cupidit@a: et stessi contento al 
+presente stato chome apertamente dimostra el savio Cynea allo infuriato 
+Pyrrho.  Questo fa gl'huomini sempre sitibundi d'accrescere lo 'mperio 
+dove si manifesta tanta insania che Alexander Magno isentendo che 
+gl'epicuri philosophi affermavono essere non un solo mondo ma molti/ 
+lacrim@o disperandosi potergli tutti vincere non havendo anchora vincto 
+questo.  Furono adunque monstruosi e' pensieri d'Alexander: perch$e 
+sanza dubio eron sopra ogni forza humana: et eron contro a ogni 
+humanit@a: perch$e non provocato da alchuna ingiuria/ volle farsi servi 
+quegli che di natura eron liberi chome lui.  Onde manifesto sequita che 
+e' centauri: cio@e gl'effrenati et crudeli desiderii sono figluoli 
+d'Ixione cio@e del tiranno: Et generagli della nebbia: cio@e di falso 
+concepto che fa nell'animo suo.  Imper@o che chome la nebbia di lontano 
+pare gran chosa.  Poi apressandosi si truova esser niente: Chos@i tali 
+cogitationi da principio danno grande speranza di riuscire.  Di poi 
+spariscono et tornono in niente.  ^Preterea~ chome el corpo del 
+centauro ha e' primi membri humani: et gl'ultimi di fiera.  Chos@i e' 
+tyrannici disiderii hanno da principio qualche parte di ragione: Ma di 
+poi quanto pi@u tirono avanti in loro progresso tanto pi@u divengono 
+bestiali.  ^Preterea~ dicono che Iove lo precipit@o nello 'nferno: et 
+ivi lo fece legare a ruote che sempre si volgono: et sono piene di 
+serpenti.  Il che significa che la mente del tyranno @e sempre voltata 
+da anxie cogitationi: et del continuo morsa da velenosi pensieri.  Et 
+certo nessuna chosa si truova pi@u efferata: et pi@u contraria 
+all'humana natura: che la vita et chostumi di quegli e' quali o nella 
+loro repubblica o ne' loro principati vogliono potere pi@u che le leggi 
+et soperchiare quegli che Dio et la natura gli [h]a facti pari et 
+equali: N$e furono trovati e' re et governatori delle repubbliche per 
+signoreggiare gli altri o crudelmente tormentargli et privargli delle 
+dignit@a della roba et finalmente della vita.  N$e per convertire in 
+s$e ogni commodo et utilit@a: et a quegli lasciare gl'incommodi et e' 
+danni.  Ma furono instituti perch$e la moltitudine havessi guida et 
+governo all'honesto vivere Et perch$e chon loro prudentia et iustitia 
+fussino exemplo d'ogni virt@u: et chol mezo delle sancte leggi 
+reggessino in pace et in concordia e' loro cittadini.  Instituissino el 
+popolo a exercitarsi in ogni laudabile arte.  Usare el debito officio 
+inverso e' suoi cittadini.  Nessuno offendere.  giovare a tutti.  Amare 
+secondo e' gradi e' parenti et gli amici.  Essere di s@i fervente 
+carit@a verso la patria: che sempre sia parato per quella bisognando 
+metter la vita.  Et finalmente perch$e loro s'affatichassino accioch$e 
+gli altri si posassino.  Vigilassino: accioch$e gli altri sicuramente 
+dormissino.  Mettessonsi a' pericoli: accioch$e gli altri vivessino 
+sicuri: Et di tutte queste chose non aspectassino altro premio che 
+l'honore: El quale @e unico premio della virt@u.  Questi da' greci sono 
+chiamati ^Basylee~: perch$e sono ferma basa sopra la quale tutto el 
+pondo publico si regge.  Chiamongli e' latini ^Reges~: perch$e reggono 
+et sostengono con loro industria gli altri: et non gli lasciono 
+trascorrere in alchuna iniquit@a.  Chiamongli e' christiani pastores: 
+perch$e chome e' buoni pastori non cerchono e' proprii commodi: Ma 
+quegli della gregge alloro commessa.  chos@i e' buoni principi cerchono 
+la salute di quegli che sono commessi allor governo: Et ricordonsi 
+delle parole della verit@a che 'l buon pastore mette la vita per le sue 
+pecore.  Questo @e adunque l'officio et el debito di chi governa et 
+regge.  Et chi fa el contrario di questo non @e re n$e governatore Ma 
+tyranno.  Non @e pastore ma lupo.  Non guarda le pecore Ma l'uccide.  
+Non s'affaticha per quegli che gli sono sobtoposti: Ma vuole vivere 
+della loro faticha.  Triumphare delle loro spoglie.  Portarsi con loro 
+chome diavolo: et essere adorato chome Dio.  Vuole che la sua libidine 
+sia chome un divino precepto.  La sua avaritia sia per giusta legge.  
+La crudelt@a gli si convengha.  Godono de' tormenti de' tormenti de' 
+giusti.  Rallegronsi spargere el sangue degli 'nnocenti.  Il perch$e 
+non solamente non sono re: Ma non sono huomini.  Ma spogliati d'ogni 
+humanit@a: et vestiti d'ogni efferit@a sono somma pernitie 
+degl'huomini.  Ritennono Nerone et Massentio la effigie humana.  
+Ritennonla Sylla et Mario: Ma l'animo humano al tutto diposono: et 
+diventorono tygri et orsi.  Questi tanto excessivamente peccano che non 
+solamente nuocono gli altri huomini chome habbiamo decto: Ma quanto @e 
+in loro nuocono a Dio: perch$e conculcano le leggi figluole di Dio.  
+Perdono gl'huomini creature di Dio.  Nuocono allor medesimi: perch$e 
+dall'altissimo et celeste grado dove @e posto l'huomo simile all'angelo 
+anzi a Dio rovinano nel profondo precipitio: et baratro delle fiere.  
+Et spesse volte volendo spargere el sangue d'altri spargano el loro.  
+Onde Iuvenale: ^Ad generum cereris sine cede et vultiere pauci 
+descendunt reges et sicca morte tyranni~.  Di questi dice el Psa[l]- // 
+c.85v mista: ^Non perdam cum impiis vitam meam: Et cum viris sanguinum 
+animam meam In quorum manibus iniquitates sunt et dextera eorum repleta 
+est muneribus~. Et Abachuc propheta: ^Ipse diabolus de regibus 
+triumphabit: et tyranni ridiculi eius erunt~.  Et certamente perdono la 
+lor vita e' tyranni.  N$e solamente la etherna: Ma anchora questa 
+transitoria.  Imper@o che essendo temuti da tutti conviene che anchora 
+loro temino tutti.  Il perch$e sempre vivono in somma anxiet@a et 
+timore: Chome apertamente dimostra Cicerone nella quinta ^Tusculana~ 
+con lo exemplo di Dionisio tyranno di Syracusa: El quale non solamente 
+era constrecto a guardarsi dagli amici et da' familiari et privarsi 
+d'ogni gioconda consuetudine Ma n$e delle moglie n$e delle figluole si 
+fidava: Et quando miglori sono gl'huomini tanto pi@u gli temono.  
+Imper@o che chome dice Salustio: ^Semper illis aliena virtus 
+formidolosa est~: Ma forse la giusta indegnatione che ho verso s@i 
+detestabile generatione d'huomini m'ha traportato troppo lontano dal 
+proposito: Ma conchiudendo non @e maggior pena agl'huomini ambitiosi 
+che generare centauri: cio@e che le loro imprese non rieschino: et 
+per@o pone e' centauri in questo luogho.  Hora tornando al texto 
+sequita.  |Veggendoci calare~: cio@e scendere al piano ove era la fossa 
+del sangue ciaschuno di quegli centauri ristecte: Et tre si dipartiro 
+della schiera venendo inverso di noi impuncto d'archo et di saette per 
+offenderci.  Voleva Danthe scendere al piano: cio@e alla contemplatione 
+di questo vitio: Ma come habbiamo decto in pi@u luoghi.  E' centauri 
+cio@e el vitio si fa incontro alla concupiscentia: et chon sue saecte 
+cio@e cho' suoi stimoli la vincerebbe Se Virgilio cio@e lo 'ntellecto 
+non gli domassi.  Era con questi tre Nesso Et volevono e' centauri che 
+Virgilio et Danthe di lontano dicessino a che martiro venivono Quasi 
+vogla dire che chi guarda di lontano el vitio non conosce la sua 
+intrinseca natura.  Il perch$e spera piacere et felicit@a.  Onde se non 
+si guardassi gli nascerebbe dispiacere et miseria.  |Lo mio maestro 
+dixe la risposta / faremo noi a Chyrone~.  Chyrone centauro non 
+figluolo d'Ixione et della nuvola chome gl'altri centauri Ma di 
+Saturno: el quale innamorato d'una nympha chiamata Phyllare si congiuse 
+chon quella: Ma sopravenendo la mogle per non esser giunto in manifesto 
+furto si convert@i in cavallo.  Il perch$e Phyllare di tal 
+congiunctione partor@i Chyrone mezo huomo et mezo cavallo.  Chostui fu 
+docto in musyca Onde in questa era maestro d'Achille.  ^Item~ in quella 
+spetie di medicina: la quale @e decta chyrurgia: et insegnolla ad 
+Esculapio.  Fu decto mezo cavallo: perch$e fu huomo bellicoso.  Imper@o 
+che el cavallo @e animale apto a guerra.  Onde Achille huomo bellicoso 
+@e decto suo discepolo.  Adunque per chostui intenderemo quello animo 
+el quale bench$e sia efferato nell'ambitione et nella cupidit@a del 
+signoreggiare: Nientedimeno non @e sanza alchuna doctrina et ragione: 
+Et qualcha iustitia et civile chostume: Et per@o Virgilio non vuole 
+rispondere a Nesso nel quale niente altro @e che furore.  Ma dice che 
+risponder@a a Chyrone.  Il che significa che lo 'ntellecto speculativo 
+non vuole procedere con consiglio precipite et impetuoso et furibundo 
+chome fu Nesso quando sanza considerare quanta ingiuria faceva a 
+Hercule huomo apto a vendicarsene violento Deianira.  Ma vuole 
+procedere con ragione et con doctrina et con equit@a qual fu in 
+Chyrone: Et rimpruover@a a Nesso che la sua furia et la sua presta et 
+inconsiderata voglia finalmente gl'hebbe a nuocere perch$e fu morto 
+dalle saecte d'Hercule: Et certo tutte le 'mprese inconsiderate de' 
+furiosi tyranni sono uccise da Hercule: cio@e sono vinte dagl'huomini 
+prudenti et forti: chome intendiamo per Hercule.
+
+	|67-72.~  Pone questi tre uscire di schiera degl'altri a dimostrare 
+che la violentia chome habbiamo decto di sopra @e di tre spetie.  |Poi 
+mi tent@o~/ Mi tocc@o per excitarlo et farlo attento a quello che gli 
+voleva dire: Perch$e la sensualit@a in queste contemplationi si 
+smarrisce se lo 'ntellecto non l'excita et non l'amonisce.  |Quello @e 
+Nesso~ questo centauro scamp@o della guerra de' laphiti et fuggissi in 
+Calidonia.  In quel tempo Hercule havendo vincto Acheloo se ne menava 
+Deianira: la quale gl'havea dato in moglie Eneo suo padre et re di 
+Calidonia: et giunto al fiume Hebeno assai rigonfiato per le structe 
+nevi/ trov@o Nesso el quale s'offerse passare Deianira in su la groppa 
+Ringratiollo Hercule et decteglene non sospectando di fraude alchuna Ma 
+Nesso poich$e l'hebbe portata all'altra ripa gli volle fare violentia.  
+Il che conoscendo Hercule per le grida di Deianira lo saect@o con le 
+saecte le quali erono intincte nel velenoso sangue dell'Hydra.  Conobbe 
+el colpo mortale Nesso: et di subito pens@o alla vendecta: et a 
+Deianira porse la camicia lorda del suo sangue dicendogli: <Se mai el 
+tuo marito sar@a occupato d'amore d'altra donna: et tu gli metta questa 
+camicia subito torner@a al tuo amore.>  Serb@o Deianira et la camicia e 
+'l veleno dell'Hydra: Et dopo alchun tempo essendo occupato Hercule 
+nell'amore di Iole glene mand@o.  Lui se la messe: et per tale veleno 
+per@i: Et in questa forma si vendic@o Nesso.  Di Chyrone habbiamo gi@a 
+decto.  Pholo fu uno de' centauri: el quale nelle noze di Perithoo re 
+de' laphiti vinti dal vino vennono in tal furore: che vollono rapire la 
+sposa.  Onde nacque zuffa tra loro et gl'altri che v'erono: tra quali 
+fu Hercule et Theseo et Nestore: Et finalmente furono cacciati: et la 
+maggior parte morti: Et dicono e' poeti che in questo convito // c.86r 
+Pholo beeva con molto gran tazza: et per pi@u ebriet@a divenne pi@u 
+furioso.  Onde Iuvenale: ^Et dignum sitiente folo et coniuge fusci~.
+
+	|73-90.  Fiere snelle~: cio@e veloci Snello significa svelto et 
+schiecto.  Onde diciamo una femina snella: et chi @e snello @e dextro 
+et rapto.  |Chyrone prese uno strale~: Volse exprimere questi versi di 
+Virgilio: ^Dixit et auratam volve rem threissa sagictam Deprompsit 
+pharetra cornuque infensa tetendit: Et duxit longe donec curvata 
+coirent Inter se capita: et manibus iam tangeret equis Leva aciem ferri 
+dextra nervoque papillum~.  Adunque et con la cocca dello strale fece 
+la barba indrieto alle mascella: perch$e tirando la corda dell'archo a 
+s$e faceva che la cocca veniva insino agli orecchi: et tiravasi drieto 
+la barba onde la boccha rimaneva scoperta.  Di poi dimostra che Chyrone 
+chome philosopho conobbe che Danthe era vivo cio@e col corpo.  Imper@o 
+che e' philosophi dimostrano che ogni chosa che muove col toccare 
+conviene che sia corpo.  Et per@o soggiunse.  |Cos@i non soglion fare 
+e' pi@e de' morti~.  Imper@o che l'anima rimanendo incorporea non ha 
+tacto.  Di poi dice che Virgilio gi@a era al pecto di Chyrone a 
+dimostrare quanto presto lo 'ntellecto previene alla furia del vitio: 
+et toglie via ogni empito abbattendo quello chon la ragione.  |Al pecto 
+/ la dove due nature~ |son congiunte~.  E' centauri si formano con tal 
+figura che e' membri cavallini sono di sobto: et gl'humani sono di 
+sopra dal pecto in su.  Adunque el peccato @e il confine del cavallo et 
+dell'huomo: Et perch$e nel pecto stanno e' pensieri et le cogitationi: 
+dimostra che Virgilio s'accost@o a quello: cio@e la ragione percosse la 
+cogitatione: la quale era parte bestiale et parte humana.  Et dice a 
+Chyrone |bene @e vivo~: che dimostra che non @e sceso allo 'nferno per 
+fare habito nel peccato: perch$e tali non sono vivi: Ma discende nello 
+'nferno: cio@e nella cogitatione del peccato per guardarsene: et per 
+questo @e necessario che Virgilio: cio@e lo 'ntellecto superiore gli 
+mostri la valle buia: cio@e e' peccati.  |Necessit@a el conduce et non 
+dilecto~: perch$e la cognitione de' vitii non arreca dilectatione 
+all'animo: Ma @e necessaria accioch$e se ne possa guardare.  Imper@o 
+che nessuno si pu@o guardare dal nimico scognosciuto: Ma la cognitione 
+delle virt@u arrecha seco grandissimo dilecto.  |Tal si part@i da 
+cantare alleluia~.  Dimostra che Beatrice della quale @e decto nel 
+primo cantico/ mosse Virgilio a guidare Danthe: la quale venne allui di 
+cielo dove si canta alleluia: cio@e dove @e ogni allegreza.  Imper@o 
+che questo vocabolo in ebreo significa loda Iddio et allegreza.  |Che 
+mi commesse questo offitio novo~: Perch$e quanto alla fictione @e chosa 
+nuova che un vivo sia menato per lo 'nferno.  Et allegoricamente 
+dimostra che pochi son quegli che venghino a tal contemplatione.  |Non 
+@e ladrone~.  Dimostra che non viene per esser punito: perch$e non @e 
+ladrone cio@e violento.  Imper@o che ladrone @e quello che ruba per 
+forza: et furo quello che toglie per inganno.  |N$e io anima fuia~: 
+cio@e fura.  Et dixe questo imitando Virgilio: el quale induce che la 
+Sybilla scus@o Enea a Charon: dimostrando che non viene per rapire 
+dello 'nferno.  o Cerbero o Proserpina.  O alchuno altro.  Onde dixe: 
+^Nulle hic insidie tales absiste moveri.  Nec vim tela ferunt licet 
+ingens ianitor antri ethernum latrans exangues terreat umbras Casta 
+licet patrui servet Proserpina lymen~.  Adunque chome la Sybilla 
+dimostra che in Enea non @e fraude n$e violentia: Chos@i Virgilio 
+dimostra che n$e in Danthe @e violentia: chome ne' ladroni: n$e in lui 
+fraude chome @e nel furo.
+
+	|91-99.  Ma per quella virt@u~.  Scongiura per la divina virt@u alla 
+quale ^etiam~ gli 'nfernali cedono.  |Danne un de' tuoi~ centauri.  |A 
+cui noi siamo approvo~: cio@e che ci appruovi che tanto @e a dire 
+quanto che ci habbi cari: et facciaci buona compagnia.  O veramente |a 
+chui noi siamo appruovo~ cio@e ad experientia: cio@e per la guida del 
+quale noi siamo et trovianci alla pruova.  |Et che porti chostui in su 
+la groppa /~ // c.86v |Che non @e spirto che per l'aer vada~.  Questa 
+sententia @e aperta quanto alla fictione.  Ma quanto all'allegoria 
+dimostra che Virgilio el quale @e sanza corpo non ha bisogno d'esser 
+passato el fosso perch$e pu@o andare per l'aere.  Il che dinota che lo 
+'ntellecto ha la cognitione degl'universali: e' quali non son inclusi 
+in alchuna materia n$e in tempo n$e in luogho.  Ma la ragione inferiore 
+considera e' particulari: e' quali sono inclusi nella materia.  Adunque 
+Virgilio passer@a per qualunque luogho.  Ma Danthe sar@a portato da 
+Nesso: perch$e la sensualit@a non conosce el vitio in universale: n$e 
+pu@o considerare tyrannide abstracta da ogni subgecto: Ma considerla in 
+un particulare: chome in Phalere.  in Nerone: et in simili.
+
+	|100-114.~  Questo texto @e chiaro per s$e medesimo/ excepto che le 
+historie.  Alexander Magno re de' macedoni merita sanza alchuno dubio 
+essere enumerato tra e' tyranni: perch$e in vero sanza essere provocato 
+chon alchuna ingiuria/ occup@o la tyrannide non solo della Grecia: Ma 
+di gran parte dell'Asia.  Il perch$e veramente dixe el Petrarcha 
+Alexander ch' al mondo brigha die.  Us@o molte crudelit@a: et molti 
+inditii dimostrono manifesto che consent@i alla morte del padre ucciso 
+da Pausania.  Fu di tanta insania che volle esser decto et stimato 
+figluol di Dio et non d'huomo: Et vincto che hebbe e' persi volle 
+secondo el bararico costume/ et con grande indegnatione de' suoi essere 
+adorato per iddio.  Et Calisthene optimo philosopho suo condiscepolo et 
+discepol d'Aristotele tentava di ritrarlo da tanta insania fece 
+crudelissimamente morire.  Per ira: et ebriet@a uccise Clyto tanto 
+allui amico che di poi pentendosene volle s$e medesimo uccidere: N$e si 
+potrebbe sanza historico volume narrare non dico e' particulari amici: 
+chome ne' primi fu Clyto el quale perch$e modestamente l'admoniva che 
+non si preponessi al suo padre Philippo.  Ma e' popoli et le nationi: 
+le quali sanza alchuna ingiuria ricevuta mand@o in ultimo exterminio.  
+Et e' re da' quali non era mai stato provocato.  Onde rectamente lo 
+chiam@o Lucano predone et raptore dell'universo: et disidera che l'ossa 
+sua in vendecta di tanta efferit@a sieno sparse per tutto el mondo.  Et 
+certo se considerremo con diligentia la vita et e' costumi suoi Diremo 
+che poche virt@u furono in lui le quali non usassi male.  Concedo 
+essere stato excellentissimo in facti militari.  Ma chi non fa che la 
+guerra di sua natura @e al tutto opposita al vinculo della carit@a el 
+quale naturalmente abbraccia tutta l'humana generatione: Ma @e 
+approvata da Dio et da' savi huomini solamente per difensione di s$e 
+de' suoi et della patria per domare e' monstri.  per ridurre e' popoli 
+feroci a tranquilla pace.  Ma Alexander la convert@i in pernitie di 
+tutti: in imporre el giogo a chi viveva in libert@a Per torre pace et 
+otio a chi sanza ingiuria d'altri si godeva ne' proprii beni: et 
+parevagli essere degno a chi tuti gl'huomini servissimo essendo lui 
+servo del vino et dell'ira.  N$e si vergogn@o fare figluolo di Iove: et 
+volere chome Dio essere adorato.  Dionisio fu syracusano di nobile 
+stirpe.  La madre gravida in costui sogn@o che partoriva un satyrisco: 
+Et gli 'nterpreti de' sogni predissono lui havere a essere 
+potentissimo.  Et Hymera femina nobile in Syracusa sogn@o esser menata 
+in cielo: et che vedea sobto e' pi@edi di Iove un huomo di pelo rosso 
+et lentiginoso leghato con mille cathene: et la guida sua gli diceva 
+che chostui haveva a essere la strage et distructione di Sicilia.  Di 
+poi in processo di tempo havendo occupato la signoria Dionisio subito 
+che la donna lo vide grid@o quello essere l'huomo el quale in sogno 
+havea veduto incatenato: le quali parole furon chagione che Dionisio la 
+facessi uccidere.  Divent@o chostui signor di Sicilia poich$e 
+gl'exerciti de' cartaginesi e' quali erono potentissimi in quella isola 
+consumati dalla pestilentia lasciorono l'isola libera.  Facto re pass@o 
+in Italia contro alle citt@a grece: et prima vinse Locri.  Di poi 
+assedi@o Crotone.  Ma venendo nuovi exerciti de' cartaginesi in Sicilia 
+fu constretto abandonare la 'mpresa et tornare nell'isola.  Fu molto 
+crudele et la citt@a di Syracusa in quel tempo splendidissima in grave 
+servit@u oppresse: perch$e di natura era malefico et iniusto.  Occup@o 
+la tyrannide nel vigesimo quinto anno della sua vita/ Et tennela anni 
+trentocto: ma con somma miseria.  Imper@o che essendo huomo nobile et 
+licterato: Et poeta di qualche conto: Et per questo cupido della 
+familiarit@a et conversatione di molti huomini: Nientedimeno era 
+necessario che da tutti si guardassi.  Perch$e chome dice Salustio: 
+<Sempre e' tyranni temono pi@u e' buoni che e' rei: perch$e sono pi@u 
+amatori della libert@a.>  Viveva a dunque con servi et con barbari: Et 
+per cupidit@a di signoreggiare lui medesimo s'era chiuso in strecta // 
+c.87r carcere: Et quanto fussi la sua miseria lui medesimo lo dimostr@o 
+in Damocle: el quale lodando molto la felice sua vita Voglio dixe 
+Dionisio che la gusti: Et subito fece parare nobilissimo convito.  
+Comand@o a Damocle che sedessi in luogho che havendo da ogni mano 
+compagni non potessi a sua posta partirsi: et sopra al capo suo fece 
+leghare al palco con una setola di cavallo una molto appuntata spada: 
+la quale parea che del continuo gli potessi cadere in capo.  Era ornata 
+la mensa d'aurei et argentei vasi.  Era ripiena di molte varie et 
+suavissime vivande.  Eronvi giovini et experti sergenti: Ma tanta era 
+la paura che la spada non gli cadessi in capo che nessuna volupt@a 
+prese delle gi@a decte cose.  Adunque dimostr@o che simile era la vita 
+tyrannica: nella quale la continua paura di non essere o ucciso o 
+cacciato fa che nessuna volupt@a di sua potentia o di suoi thesori pu@o 
+pigliare.  Havea due mogli: N$e mai entrava in camera d'alchuna che 
+prima non mandassi chi con diligentia investigava che non v'avessino 
+nascose alchune armi Et perch$e non si fidava del barbiere si facea 
+radere dalle figluole: Et quando furon poi in et@a adulta lev@o loro el 
+rasoio: et facevasi abruciare la barba con gusci di noce accesi.  Era 
+molto impio negli dii.  Spogl@o el tempio di Proserpina: Et di poi 
+havendo buona navigatione aggiunse al sacrilegio d'irisorie parole 
+dicendo vedete quanta bonaccia danno gli dii a chi gli ruba.  Havea 
+Hierone re ornata la statua di Iove di drappo d'oro.  Lui la tolse et 
+dectene una di lana affermando che l'oro era inutile d'ogni stagione: 
+perch$e el verno era troppo freddo et la state troppo grave: Facevono 
+gl'antichi le statue d'Apolline d'et@a giovinile: et quelle d'Esculapio 
+suo figluolo senili: et con lungha barba.  Adunque lev@o la barba che 
+era d'oro ad Esculapio affermando non essere chosa conveniente che 
+essendo el padre sanza barba el figluolo sia barbuto.  |@E Azolino~.  
+Fu chiamato chostui Azolino da Romano castello di Trivigi.  Bench$e 
+Musatto Padovano in una sua tragedia: Nella qual finge lui essere 
+figluolo del diav[o]lo lo chiami Ecerino: Et Giovanni Villani nella 
+^Cronica~ pone essere stato di nobile stirpe.  Fu tyranno potentissimo 
+nella Marca trivigiana ne' tempi di Federigho secondo.  ^Preterea~ 
+signoreggi@o Padova.  Vicentia.  Verona: et Brescia: Et per sua 
+efferata crudelt@a infiniti huomini parte uccise parte mand@o in 
+exilio.  Et dopo la rebellione de' padovani nel prato di Padova 
+rinchiuse drento a un palanchato dodicimila huomini: et tutti gli fece 
+ardere: Et in questa crudelt@a si narra che havendo preso sospecto d'un 
+suo cancellieri chiamato ser Aldobrandino: Et per questo diterminando 
+farlo morire domand@o se sapea chi erono e' rinchiusi nel palanchato: 
+Et rispondendo el cancellieri che tutti gl'havea notati in un suo 
+quaderno: Dixe Azolino haver diterminato di volere presentare l'anime 
+di quegli al diavolo per molti beneficii ricevuti dallui.  Il perch$e 
+voleva che andassi col quaderno insieme con loro all'Inferno: et 
+nominatamente per sua parte gliene presentassi: et chos@i insieme con 
+gli altri lo fece ardere.  Chostui mosse exercito contro a' melanesi: 
+et giunto ad Adda et trovando el ponte occupato dal marchese Palanigino 
+suo adversario si messe a vadare: et giugnendo a riva con suo 
+disavvantaggio fu ropto dal marchese et ferito et preso et menato in 
+Casciano castello propinquo: dove non volendo mangiare n$e curare le 
+ferite mor@i di fame et di dolore Nell'anno della nostra salute 
+.M.cc.lx.  Regn@o in Verona anni .xxxiiii. chome pi@u distesamente 
+diremo nel nono canto del ^Paradiso~.  |@E Obizo da Esti~.  Fu chostui 
+della famiglia de' marchesi di Ferrara: Et facto marchese della Marcha 
+d'Anchona dalla Sedia Apostolica con rapine et crudelt@a ragun@o gran 
+thesoro.  Finalmente fu una nocte affogato con un pimaccio dal 
+figluolo: el quale Danthe chiama figliastro: perch$e non par credibile 
+che fussi figluolo havendo in lui usato tanta crudelt@a.  Lasci@o la 
+historia di questi da Esti: perch$e @e abbastanza celebrata dal nostro 
+Imolese.  |Allhor mi mossi al poeta~.  Pareva a Danthe che Virgilio 
+dovessi esser la guida et non el centauro: Et per@o si volse allui: et 
+Virgilio intendendo la vogla sua dixe: che voleva che in quel luogho el 
+centauro fussi el primo.  Et questo allegoricamente s'intende che 
+Danthe cio@e l'appetito sobtoposto alla ragione in ogni contemplatione 
+et cognitione non vuole altro giudicio che quel di Virgilio: cio@e 
+dello 'ntellecto.  Ma per rispecto che lo 'ntellecto ha cognitione 
+degl'universali pu@o giudicar Virgilio: che chosa sia violentia et 
+crudelt@a: et che suplicio meriti.  Ma e' particulari chome a dire che 
+Dionisio et Azolino sieno crudeli: et giudica meglo el senso et la 
+ragione inferiore: et maxime in quell'huomo che ha usato la crudelt@a 
+chome sono e' centauri: Et per@o Virgilio non dixe questo ti sia primo 
+absolutamente: Ma dixe |Questo ti sia primo hora~: cio@e in questi 
+particulari: et lui vuole in questo luogho essere il secondo: perch$e 
+havendo gi@a conosciuto l'anima nostra l'actioni di Mario et di Sylla 
+essere crudeli abstrae da questi particulari epsa crudelt@a: et 
+considera non in loro ma in universale che chosa sia crudelt@a: et in 
+questa forma Virgilio diventa la seconda guida.  @E adunque di 
+maravigloso ingegno el poeta che sobto tale fictione noti la 
+differentia che @e tra lo 'ntellecto et la ragione inferiore.
+
+	|115-126.  Bullicame~/ Dicono ogni acqua che surge delle neve con 
+bollore di caldo.  Onde el bagno di Viterbo @e decto Bullicame per 
+questa ragione.  |Mostrocci un' ombra~: una anima la quale dice essere 
+sola in quel luogho: perch$e nessuno v'era che havessi commesso tale 
+scellerateza.  Et intende del conte Guido da Monteforte.  // c.87v Il 
+che accioch$e chon brevit@a exprimiamo.  Fu re d'Inghilterra Arrigho 
+tertio: el quale perch$e fu dilapidatore: et prodigo in consumare le 
+chose del regno alieno da s$e e' baroni in forma che col favore loro el 
+re di Francia Mand@o Simone huomo excellente et apto a regnare: Chostui 
+incarcer@o Arrigho re: et Riccardo suo fratello: et tutti e' figluoli 
+excepto Adouardo el quale per velocit@a del cavallo scamp@o.  Ma non 
+seppe usare la sua buona fortuna Simone: Et in modo insuperb@i che 
+tutti e' baroni si ribellorono.  Onde prese occasione Adouardo di 
+ricuperare el reame: Et vinse et prese Simone et ucciselo: et in pezi 
+lo squarci@o: et el membro della vergogna gli fece mettere in boccha: 
+Et chos@i liber@o el padre el zio et e' frategli.  Seguirono poi tempi 
+che Guido figluol di Simone facto grande per l'amicitia di Carlo duca 
+d'Angio et fratello di Lodovico re di Francia vendic@o el padre con 
+somma scellerateza in questo modo.  Venne in Italia Carlo chiamato dal 
+papa contro a Manfredi: et vincto Manfredi et acquistato el regno di 
+Puglia constitui Guido/ la cui opera gl'era stata utilissima in tutte 
+le guerre vicario di Toscana: el qual vicariato havea havuto dalla 
+chiesa: Et prima l'havea facto liberare a Gregorio papa decimo delle 
+carcere nelle quali chome excomunicato l'haveva messo essendo lui 
+venuto a ubbidire Et pocho dopo tornando di Tunizi el re Carlo insieme 
+col re Philippo di Francia: et con Arrigho d'Inghilterra nipote 
+d'Arrigho re preso da Simone: et figluolo di Riccardo suo fratello gi@a 
+stato electo imperadore di posto Federigho secondo/ Vennono a Viterbo 
+dove morto el papa erono e' cardinali in discordia in creare nuovo 
+pontefice.  Qui Guido volendo vendicare el padre giustamente da 
+Adouardo morto assalt@o Arrigho nella chiesa di sancto Salvestro mentre 
+che 'l sacerdote mostrava el corpo di Christo: et ucciselo: et pe' 
+capegli lo strascin@o fuori della chiesa: et fuggissi in Maremma nelle 
+terre del conte Rosso suo suocero: non sanza infamia del re Carlo: el 
+quale se non era stato conscio chome molti sospectorono/ dovea punirlo: 
+El corpo d'Arrigho fu portato al Londra: et sepellito nella capella 
+degli altri re: Et sopra la sepultura fu posta una statua dorata: la 
+quale nella dextra tiene una coppa d'oro: et in quella el cuor suo 
+imbalsimato: et sopra el cuore un coltello in testimonio 
+dell'uccisione: et chon la sinistra tiene un brieve: le cui parole sono 
+El cuore passato del coltello do a chi m'@e parente intendendo 
+d'Adouardo: Et di qui nasce che Adouardo non fu mai poi amico di Carlo 
+n$e della casa di Francia.  Fu adunque grande excesso: prima perch$e 
+non accadeva vendecta della morte del padre: perch$e giustamente fu 
+morto: Di poi per rispecto del luogho: perch$e fu in chiesa: et quando 
+si mostrava el corpo di Christo: et nella corte romana: et nella 
+persona del figluol del re.  Il perch$e lo pone solo: perch$e commesse 
+singulare excesso.  |Chostui fesse in grembo a Dio~: nella chiesa la 
+quale @e grembo di Dio.  |Lo cor che 'n su Tamigi anchor si cola~: 
+cio@e s'honora perch$e ^colere~ in lingua latina significa honorare.  
+|In su Tamigi~: cio@e Londra per la quale passa el fiume Tamigi.  |Poi 
+vidi gente~: Dimostra che la fossa quanto pi@u oltre procedeva tanto 
+men fondo havea.  Onde in quanto pi@u basso erono l'anime tanto pi@u 
+erono fuor del sangue.  Dice lui havere conosciuti molti.  Il che 
+dimostra che la sensualit@a con la ragione inferiore pu@o per s$e 
+medesima conoscere tal vitio ne' particulari Maxime havendone inteso 
+prima degl'altri: Et che el sangue sia meno profondo: et e' peccatori 
+ne sieno pi@u fuori uno che un'altro Dimostra: che chi ha meno peccato 
+@e in minor pena contro agli stoici: e' quali vogliono che tutti e' 
+delicti sieno pari.  Pass@o Danthe el fosso dove el sangue venne meno.  
+In che niente altro intende se non che chi contempla el vitio: et sia 
+guidato da Virgilio passa per quello senza pigliare alchuna macula.
+
+	|127-139.~  @E chosa conveniente che 'l fosso chome dall'una delle 
+parti digrada et scema.  Chos@i dall'altra parte si profondi: accioch$e 
+secondo e' peccati maggiori et minori sieno maggiori et minori pene: et 
+per@o subgiugne el centauro che la divina giustitia punge et trafigge 
+di qua: cio@e ove el sangue @e pi@u profondo.  |Quello Attyla che fu 
+flagello in terra~.  Attyla re degl'unni chome scrive Paolo diacono 
+Nell'anno quattrocento quarantadue essendo signore di Dacia.  Ungheria. 
+ Macedonia.  Mesia.  Achaia: et Thracia/ huomo avidissimo d'imperio: Et 
+sitibundo di sangue humano: et sopra gl'altri crudele con innumerabili 
+copie volse el suo furore in Italia: Et chon ogni forza et industria 
+assedi@o Aquilegia: la qual s@i virilmente fu difesa da' suoi ciptadini 
+che non san- // c.88r za gravissimi affanni et dopo tre anni a pena la 
+vinse: et crudelmente col ferro et col fuoco la conduxe in ultima 
+ruina.  Disfece di poi Concordia Altino et Padova.  Et saccheggi@o 
+Vicentia.  Verona.  Brescia.  Bergamo.  Melano: et Pavvia non sanza 
+grandissima occisione: et molte altre terre in Lombardia et in Romagna: 
+Et finalmente arrivato dove el Mencio mette in Po mentre che dilibera 
+se debbe andare a Roma sopravenne Leone papa: et non sanza divino 
+miracolo impetr@o da s@i crudele tyranno: che lasciata Italia tornassi 
+in Ungheria.  Il perch$e lui si torn@o Presa prima in moglie Honoria 
+sorella di Valentiniano imperadore: Et in Ungheria in convito mor@i per 
+abbundantia di sangue che nel naso gli usc@i/ huomo cupido di sangue 
+affog@o nel sangue.  N$e @e da pretermettere un'altro miracolo: el 
+quale gli decte el cognome che si chiamassi Attyla flagello di Dio.  
+Era arrivato Attyla a Modona chol suo hostile exercito.  Et Geminiano 
+vescovo di quella citt@a huomo di sancta vita confidatosi del divino 
+aiuto gli venne incontro Et domandatolo che fussi/ Rispose sono Attyla 
+flagello di Dio: A chui rispose Geminiano: Et io sono Geminiano servo 
+di Dio: Et doppo tali parole gli aperse le porte: Et Attyla mosso da 
+divino terrore pass@o cho' suoi pel mezo della citt@a sanza lesione 
+d'alchuno.  |Pyrrho~.  Fu Pyrrho figluolo d'Achille el quale partor@i 
+Deidamia figluola di Licomede re.  Fu chiamato Pyrrho dal colore del 
+suo pelo: el quale era rosso et focoso: perch$e ^pyr~ in greco 
+significa fuoco.  ^Item~ fu chiamato Neoptolamo quasi nuovo soldato: 
+perch$e dopo la morte del padre anchora giovinetto fu condocto nello 
+exercito a Troia.  Questo uccise di sua mano Polyte figluolo di Priamo: 
+et Polyxena sua figliuola sacrific@o alla sepultura del padre: et 
+Priamo vecchio uccise appresso all'altare dove era rifuggito: Non 
+perdon@o adunque n$e a et@a senile: n$e giovinile: n$e a femineo sexo: 
+n$e alla religione: Menone in servit@u Andromaca moglie d'Hector Di poi 
+preso dell'amore della figluola di Menelao Herminione la qual tolse a 
+Oreste.  Decte Andromaca a Heleno figluolo di Priamo con parte del 
+reame: perch$e Heleno con suo vaticinio lo camp@o da' pericoli del 
+mare.  Ma finalmente tornato Oreste della regione Taurica l'uccise nel 
+tempio d'Apolline.  Sono alchuni che credono Danthe non nominare 
+chostui.  Ma Pyrrho re degl'epyroti nato della generatione di chostui 
+duca singulare et excellentissimo nella militare disciplina: Ma 
+ambitiosissimo: et el quale per imperare provoc@o molte nationi: dalle 
+quali nessuna ingiuria havea ricevuto: Venne in Italia: et sobto spetie 
+d'aiutare e' tarentini cercava sobgiogare e' romani: et quattro anni 
+molto gl'affatic@o.  Pass@o di poi in Sicilia et factosene signore 
+molte volte felicemente combact@e cho' carthaginesi: Ma in brieve tempo 
+perd@e l'isola.  Il perch$e tornato in Epyro mosse guerra ad Antigono 
+re di Macedonia: et cacciollo molto ingiustamente del reame: N$e 
+contento a questo lo persequit@o in Argos dove era fuggito.  Quivi 
+entrato per forza nella citt@a fu morto con un tegolo gittatogli da una 
+femina dalle finestre.  |Sexto~.  Alchuni intendono di Sexto Pompeo 
+figluolo di Pompeo Magno: el quale dopo la morte paterna et fraterna 
+occup@o la Sicilia: et in que' mari divent@o quasi corsale: Ma tutto 
+questo fu per tornare nella patria sua occupata da Augusto.  Il perch$e 
+non vegho perch$e meriti esser messo tra' tyranni Adunque stimo che 
+pi@u rectamente possiamo intendere di Sexto Tarquino figluolo di 
+Tarquino Superbo ultimo re de' romani: el quale simulando essere stato 
+battuto et cacciato dal padre and@o a Gabi citt@a non lontana da Roma 
+per tentare haverla per tradimento poich$e 'l padre non l'havea potuta 
+vincer[e] con l'armi: et riuscigli el fraudulento suo pensiere.  
+Imper@o che e' gabini credendo essere vero quello che lui simulava lo 
+riceverono: et in brieve tempo chome a huomo perito nella disciplina 
+militare gli commissono el governo della citt@a et dell'exercito.  Onde 
+lui la decte al padre.  |Rinieri da Corneto~ Messer Rinieri da Corneto: 
+el quale quasi tutta la marictima di Roma ne' suoi tempi con 
+crudelissimi latrocinii tenne in tremore: et in preda la strada romana. 
+ |Rinieri Pazo~: Messer Rinieri de' Pazi di Valdarno huomo de' medesimi 
+chostumi exercit@o ladronecci: et rub@o le strade.  |Poi si rivolse~.  
+Nesso decte queste parole torn@o indrieto ripassando el medesimo vado.

@@ -1,0 +1,22 @@
+	|25.~  ^E vidi uscire~.  dui angieli com penne verdissime.  sono 
+angieli che significano la nostra speranza.  et che vegnono dal grembo 
+de maria nel quale incarnoe il nostro redentore nostra verace fede.  
+nostra tucta speranza.  chon due spade afocate.  spontate a dimostrare 
+che jes@u christo non usa la sua justicia de ferire per punta ma per 
+taglio.  afocate de carit@a d'amo[re] et che ci guardano contr'a la 
+mala biscia de l'inferno.
+
+	|70.~  ^Quando sarai~.  questo che favella mo @e 'l giudice di 
+gallura.  giovanna era la sua figliuola.  la madre de questa sua 
+filiuola moglie del decto giudice se remarit@o a misere galeasso dei 
+visconti di milano et per@o dice no le far@a si bella sepultura misere 
+galeasso come gli avar@ia facto el gallo di galura.  affermando che mai 
+nom pu@o avere donna remmaritata con lo secondo marito quanto solamente 
+morta vedova colle bianche etc.
+
+	|88.~  ^El duca mio~.  le tre facelle sono le tre virt@u divine che 
+sono pi@u ardenti.  vive.  acese a quelli di purgatorio che non sono a 
+quelli de quessto mondo: ci@o sono fede speranza et carit@a.  le 
+quattro stelle giusticia prudenza.  forteza.  temperanza.  le quali 
+sono assai basse in questo mondo.  quasi tenute a niente.  etc.
+

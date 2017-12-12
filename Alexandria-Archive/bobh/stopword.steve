@@ -1,0 +1,111 @@
+From steve@avalon.Dartmouth.EDU Wed Sep  1 16:45:15 1993
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA21257; Wed, 1 Sep 1993 16:45:13 -0400
+Received: from localhost by avalon.Dartmouth.EDU (5.65/DEC-Ultrix/4.3)
+	id AA13261; Wed, 1 Sep 1993 16:45:09 -0400
+Message-Id: <9309012045.AA13261@avalon.Dartmouth.EDU>
+To: bobh@baker.dartmouth.edu (Robert Hollander - DDP PI)
+Subject: Re: varia 
+In-Reply-To: Your message of "Wed, 01 Sep 93 13:12:50 EDT."
+             <9309011712.AA16386@baker.dartmouth.edu> 
+Date: Wed, 01 Sep 93 16:45:09 -0400
+From: steve@avalon.Dartmouth.EDU
+X-Mts: smtp
+Status: R
+
+Bob,
+
+Got your latest.  Here are my responses to the parts that need responses.
+ 
+> Before the load we'll want to run our Italian/Canadian friends's
+> spell-check, as it were, on the entire database.  Needless to say,
+> _I_ will assume responsibilit for that. 
+
+Well, I think we both have a part to play.  We don't yet actually have his
+wordlist or dictionary.  I would need to get it.  Then I would need to run the
+comm text against it to generate a list of possible typos.  then you would
+have to look up those typos using the ddp and decide if they are really typos
+and what the correct spelling is.  Finally, in some cases I may have to go dig
+out the original ms and check.
+
+> This paragraph has got the few instructions you will need for
+> Vellutello.  (1) "Title page": I've already sent you (yes?) the
+> new credits for editors, as I have them (there were two we couldn't
+> assign; Janet was being sought for info about them; it must exisit
+> {exist} somewhere up there).
+
+Yes, you sent me some.  The 2 unknowns were Bianchi and Pietrobono.
+Janet referred me to her master list, which says those 2 were edited by AR.
+Can you give me the complete citation for AR?
+ 
+> Another matter entirely: stop words.  We have already decided to
+> remove "poet" from the ENGLISH list, "poeta" from Ital/Latin [?].
+> I now wonder if the DB works fast enough to get rid of others
+> that might be of interest to searchers.  Is it a simple matter for you
+> to send me the stop lists for me to think about them?  Or what, in
+> your opinion, would be the result of cancelling all of them?
+
+Having words stopped does 2 things: it makes the database index smaller,
+which saves disk space and makes searches faster, and it avoids useless hits.
+Maybe the question to ask yourself is, "If X is not stopped and people can
+search for it, would there be any usefuil searches they could do given that
+they would always get large numbers of hits?"
+
+Here are the Italian stopwords:
+
+	& A AD AGLI AL ALL ALLE ANCORCHE ASSAI BENCHE BENE C CE CH CHE
+	CI CIO COL COLL CON CONCERNANTE COSI D DA DAL DALL DALLE DALLO
+	DANTE DEL DELL DELLA DELLE DELLO DI DIFATTI DIV DUNQUE E ECC
+	EGLI ERA ERANO ESSA FRA FRATTANTO FU FURONO GIA IL IN INFATTI
+	INFRA INTANTO INTRA L LA LE LEI LI LO LUI MA MENO MENTRE MOLTO
+	NE NEL NELL NELLA NELLE NELLO NON PER PERCHE QUALE QUALI QUANDO
+	QUANTO QUI QUINDI SENZA SONO SOPRA SOTTO SU SUL SULL SULLA
+	SULLE SULLO TANTA TANTE TANTI TANTO TRA TUTTA TUTTE TUTTI TUTTO
+	UN UNA UNO
+
+Here are the Latin ones:
+
+	&C & AT ARQUE ANTE AD AC AB A BENE CUMQUE CUM CONTRA CIRCUM
+	CIRCA CAUSA DUM DEINDE DE DANTIS EXTRA EX EUM ETC ET EST ERAT
+	ERANT EI EAM EA E HINC HIC IVI ITAQUE ITA IS INTRA INTERDUM
+	INTER IN IMO IMMO ILLIC ID IBI IAM MALE NUNC NON NISI NE OB
+	PROPTER POST PER PAULO QUOD QUO QUIS QUID QUI QUANTO QUANDUM
+	QUANDO QUA SUPRA SUPER SUNT SUM SUB SINE SICUT SIC SI SED SE
+	SAEPE TUM TRANS TANTUM TANQUAM TAMQUAM TALIS TALE UT
+
+> One last query: abbreviations.  We built a list of a number, e.g.,
+> "Aen." or "En." for "Aeneid" or "Eneide"; these work fine.  One comes
+> upon these in texts and finds the proper SINGLE SPACE after them.  But
+others, obviously because we couldn't think of all and there was not
+> the capacity to list as many as there are.  And thus some abbrvs.
+> show up as though they were end-stopped punctuation and are followed
+> by TWO SPACES.  Is there anything EASY we can do to change this?
+
+We can add more abbrevs to the list.  The only purpose of defining an
+abbreviattion is so BRS knows that that word does NOT indicate end of sentence.
+That's why you see the correct spacing for known abbrvs.  Here is the current
+list:
+
+	Achil.  Aen.  Am.  Amic.  Anon.  Apoc.  Aq.  Arb.  Aug.  Bocc.
+	Boeth.  Caes.  Carm.  cf.  Cfr.  Cic.  Civ.  Cond.  Cons.
+	Conv.  Cron.  Dec.  ec.  ec.  ecc.  ecc.  Eccl.  Eccli.  Ecl.
+	Eleg.  Eloq.  Epig.  Epist.  Epod.  Eth.  Etym.  Geo.  Hes.
+	Hist.  Hor.  Inf.  Juv.  Leg.  Lib.  Lig.  Lit.  Liv.  Lucan.
+	Lucr.  Met.  Meta.  Mon.  Nat.  Nic.  Or.  Ovid.  Par.  Pet.
+	Petr.  Phaedr.  Phars.  Plat.  Plin.  Poet.  Prop.  Psal.
+	Pub.  Purg.  Rem.  Rep.  Repub.  Rer.  Rhet.  Sat.  Sen.
+	Stat.  Suet.  Summ.  Theb.  Theog.  Theol.  Thess.  Thom.
+	Tib.  Tusc.  Vill.  Virg.  vs.  Vulg.
+
+I don't think caps matter.  Hm, I see a duplicate.
+
+> I think that is all that I have gathered to call to your attention.
+> And when you save this, can you fire a copy off to me?  I keep forgetting
+> how to add a cc. once I've started a message (gulp).  Best, Bob
+
+I'll send you a copy as a separate message.  I will be on vacation next week.
+Talk to you after that.  BTW, thanks for offering to talkto my nephew.  I'll
+give him your office number.  His name is R. J. Stansbury.  He's called RJ.
+
+							Steve
+

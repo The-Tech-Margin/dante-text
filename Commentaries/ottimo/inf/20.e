@@ -1,0 +1,429 @@
+	|Proemio.~  In questo vigesimo canto si tratta de'
+peccatori puniti nella IIIJ bolgia dello VIIJ circulo, cio@e
+auguri, sortilegi, venefici, e malefici, e indovini; circa la
+quale intenzione si @e prima da notare, che l'uomo puote sapere di
+quello, ch'@e a venire, per tre modi: l'uno modo si @e per
+revelazione fattagli da Dio per Spirito Santo, s@i come sapeano li
+Profeti nel testamento vecchio, e li Apostoli nel nuovo: lo IJ
+modo per revelazione fatta a loro per li demonj, s@i come erano
+quelli Pagani, e idolatri ch'avevano risponso da spiriti: lo IIJ
+modo si @e per scienza natura[le] e secondo umano modo
+considerata, come di sotto apparir@ae.  Del primo modo non hae a
+trattare la presente Commedia, per@o che l'Autore intende solo a
+trattare di quelli che sono dannati, e nello Inferno puniti; e
+per@o del IJ, e del IIJ modo paleserassi, secondo le distinzioni
+che d'essa appartengono.  Ed @e da sapere, che nel tempo passato
+sono state alcune dimestichezze familiari, e usanze tra gli
+uomini e li demonj; onde li demonj hanno a tanto condotto li
+uomini, che s'hanno fatto adorare, e sagrificare, s@i come si
+conviene a solo Idio creatore; per la quale sagrificazione li
+detti demonj non solo hanno fatto peccare li uomini in sodurli a
+tanto peccato, ma eziendio hanno dato risponso in imagini fatte
+di creature insensibili e irrazionali, s@i come d'oro e d'argento
+ec.  Per li quali responsi li uomini sono rovinati in idolatrie,
+e non solamente hanno a quelle imagini fatte tale reverenze, ma
+ancora ad altre creature per segni, e distinzioni in esse veduti,
+come in arte di rame strutto gittato in acqua.  Di questi idolatri
+scrive Santo Agostino, nel libro VIII della citt@a di Dio, e
+l'Apostolo alli Romani, primo, dicendo: adorarono, e servirono
+pi@u tosto alla creatura, che al Creatore.  Questi cotali sapeano
+delle cose a venire per risponso de' demonj: altri sagrificavano
+[a]i demonj in quella spezie di materia, di che era l'imagine, s@i
+come oro, argento ec.; altri a quella generazione di spezie, di
+che era fatta a similitudine l'immagine, s@i come toro, e agnello
+ec.; altri adoravano tutto il mondo, non per la corporale
+essenzia, ma per l'anima d'esso, la quale elli ponevano per la
+governazione di quello; alcuni, le parti del mondo; alcuni,
+alcuna stella; alcuni, alcuno elemento; alcuno, alberi; alcuno,
+animali.  E per tali adorazioni si partirono dal giusto e diritto
+Idio, e s'acostavano a' demonj; per la qual cosa erano in patto
+tacito con essi, e per tal patto per alcuno modo era loro
+revelato per essi delle cose a venire.  Di tale idolatria parla
+Santo Agostino, libro VII della citt@a di Dio; altri adorano
+uomini s@i come Idio, s@i come fu Jove e Mercurio ec.  E per modo
+di scongiurazione li demonj fanno noto alli uomini di quello che
+@e a venire in pi@u modi; come @e d'usare d'essi congiurazioni ed
+essorcismi di nomi di Santi, e di Dio, per li quali elli
+appaiano, e danno responso.  E questo in molti modi: o elli
+appaiono ad occhio, e questo @e appellato prestigio di dimonj: o
+in sogno usano ad essi sagrificj di sangue umano, suffumicazioni,
+e per questo appaiono, e danno responso, ed @e appellato
+negromanzia.  Formansi imagini da diverse materie segnate con
+carattere, e inscrizioni con diverse suffumicazioni, per le quali
+li demonj danno responso non a buon fine, ma a perdizione
+dell'uomo, per dilungarlo da Dio, e conducerlo all'etternale
+morte.  Ancora per revelazione diabolica, velata, e nascosa sotto
+animali e atti d'animali, si sae delle cose a venire, come sono
+alcuni ch'hanno in loro spirito Pitonico, che indovinano; altri
+predicono nelle interiore d'uno animale, presuponendo in prima
+che lo lato destro abbia a significare il grano, il sinistro il
+vino; altri in una spalla d'agnello, ed @e appellata sparmanzia;
+altri in terra per punti di geometria; altri gettano piombo in
+acqua, e per le granella d'esso giudicano e predicono; altri
+fanno brivicelli di carta scritti e non scritti, riposti e
+palesi, e predicono; altri con granella d'orzo, altri con
+festuche, altri con dadi, altri con aprimento di libri, e
+considerare le lettere; altri con la gente che passa per la via;
+altri con segni di vapori, ed @e appellata aeremanzia: chi con
+tramutamenti di vasi in vasi d'acqua, e di gittarvi uova, e poi
+secondo le figure giudicano, ed @e appellata idromatica: chi
+osserva agurj d'uccelli bianchi, o neri; di rapina, o di pascolo;
+se volano, o stanno; sono in essercizio, o in vacazione; se vanno
+a destra, o a sinistra; se stanno in silenzio, o fanno versi: chi
+considera giunture di mani, e lineazioni di palme, [ed] appellata
+[@e] chiromanzia.  Tutte queste sono dannate, ed @e grande peccato
+ad usarle.  Vero @e che sono d'uccelli, che sentono di parecchi d@i
+dinanti la mutazione del tempo di buono in reo, ed ^e converso.~ 
+E a quelle stagioni non @e male a considerare li loro atti; s@i
+come @e de' cocoli, che quando sentono il mal tempo a venire, si
+tragono alla terra; le gatte quando sentono inumidire l'aere, si
+grattano la cotenna; li gottosi sentono parecchi d@i dinanzi il
+cambiamento del tempo.  Ed @e alcuna verit@a nella chiromanzia,
+per@o che uno di molle complessione hae molte lineazioni nelle
+mani; della dura n'ha poche: a quello della molle si segue, ch'@e
+intellettiva persona, e savia; l'opposito in complessione
+opposita: e cos@i circa le naturali cose @e alcuno vero.  Per lo
+terzo modo, se[con]do naturale ordine, il quale procede uniforme
+e d'uno modo, e proceder@ae infino che piacer@ae a Dio, @e da sapere
+che delle cose a venire non si pu@o sapere nel propio atto della
+cosa, di che @e la speculazione; ma puosi sapere nella sua
+cagione, e conosciuta quella, il modo del suo procedere pu@o uomo
+predire: cos@i sar@ae.  Lo primo modo di cagione si @e appellato
+necessario, per@o che di necessitade produce il suo effetto, mai
+non falla, s@i come quando la luna si congiugne col sole ^in
+capite, vel cauda draconis~, dove la luna di necessitade
+s'interpone tra 'l nostro viso, e 'l corpo del sole, e per
+conseguente si @e eclissi.  Lo IJ modo si @e appellato contingente,
+per@o che produce il suo effetto le pi@u volte, ma alcuna volta
+falla, s@i come quando @e alcuna congiunzione, o aspetto di
+pianeti, che producono mutagioni nel tempo, come appare nel libro
+delle congiunzioni d'Albumasar, e ne' fiori.  Lo terzo modo di
+cagioni sono quelle, che producono bene effetti, ma sono suddite
+al libero albitro, e alla volontade umana; e per@o ch'a singulare
+regola sono sottoposte, non ne puote essere scienza.  Chiaro
+appare adunque, che l'uomo naturalmente puote sapere delli
+effetti a venire, di quelli che sono sottoposti a cagioni
+necessar[i]e, s@i come scurazioni di sole e di luna debono
+avvenire, l'anno in quattro tempi, primavera, state, autunno, e
+verno.  E puossi predire, secondo la natura degli uomini la loro
+compressione, per costellazione, o sanguinea o collerica ec., ed
+eziendio la figura e la statu[r]a; dalli quali principii procede
+l'arte della fisonomia, la quale nelle corporali convenienze si @e
+vera.  E cos@i si puote sapere delle passioni, o vero movimenti
+proceduti dalla complessione, s@i come li medici sanno le
+eccessioni, stati, e recessi delle febri.  E questo modo procede
+da cenni contingenti, e per@o pu@o in alcuno fallare e la
+complessione e la figura e la statu[r]a e la fisonomia.  Lo IIIJ
+modo di cagione si @e quella, ch'@e suddita al libero arbitro, e
+non pu@o essere cognosciuta in altrui, se non sola da Dio; onde li
+astrolaghi che vogliono predire di tali effetti, debono fallare,
+e non possono per via di scienza ci@o sapere; e per@o peccano
+incontro a Dio, in quanto credono quello che non @e vero, e
+infamano le sue creature, come @e le stelle e Cieli, atribuendo ad
+esse: tale costellazione fa l'uomo medico ec.; e per conseguente
+le elezioni di costellazioni in producere benivolenza, o odio tra
+alcuni ec.  E per@o che gli uomini volenterosi vogliono ogni modo
+predire, e non si guardano a cadere in peccato, secondo li loro
+modi sono poi dalla giustizia divina puniti; de' quali l'Autore
+tratta, XX canto, dove gli discrive ch'hano volto il viso di
+drieto, per contrario di quello che si vollero vedere inanzi.
+
+	|1-3.  Di nuova pena~ ec.  Qui l'Autore propone nel IIIJ
+capitolo elli @e[^sic~], e rende atento l'uditore; e dice, che
+dir@a di nuova pena, e che sia, XX canto della prima Canzone delli
+sommersi, cio@e delli attuffati sotto, cio@e della prima Cantica,
+la quale tutta tratta delli sommersi in Inferno; ed ella @e il
+canto dello fetido uccello, e delle dolenti note.
+
+	|4.  Io era gi@a disposto~ ec.  Qui pone sua disposizione,
+e alquanto di quella di quei Pagani.
+
+	|7-15.  E vidi gente~ ec.  Qui pone la forma, e la regola
+di quelli tormenti: dice, che veniano tacendo, e lagrimando passo
+passo, a modo che vanno coloro in vita che fanno le letanie, cio@e
+[o]razioni.  E poi sogiugne, che ciascuno era stravolto quanto
+era dal mento al principio del casso, e che 'l viso era volto
+indrieto, s@i che li conven@ia andare come gambero: nella quale
+pena se denota, quanto la giustizia divina giustamente comparte
+costoro, che vollono vedere avanti quello che 'l tempo seco
+aducea; guardano ora in contrario, cio@e adietro; e contra costoro
+si potrebbe recare quella parola che Dio disse a Mois@e: neuno
+vivente mi vedr@a dinanzi, ma le parti di drieto ec.; quasi dica:
+nullo vedr@a le cose anzi che io le faccia, ma drieto ad esse
+fatte le potr@a guardare.
+
+	|16-17.  Forse per forza~ ec.  Qui essemplificando pone
+una infermitade detta parlas@ia, la quale molte volte fa storcere
+a l'uomo la faccia, e volgere infino dallato, ma non del tutto di
+drieto.
+
+	|19-21.  Se Dio ti lasci, Lettor~ ec.  Rende l'uditore
+atento; e dice, ch'elli piagnea non perch@e li increscesse, se non
+che la imagine umana era cos@i storta.
+
+	|27-30.  Mi disse: Ancor se' tu~ ec.  In queste parole
+Virgilio il riprende di questo piangere, a dimostrare che gli
+uomini non deono avere compassione a coloro, che per divino
+giudicio patiscono de' loro peccati pena.  Iob dice, che nulla @e
+piggiore di quello uomo, ch'ha pietade di cotali gente: avere
+compassione, @e patire pena in parte [con] colui ch'@e appenato;
+participare con li rei, @e parte di re[i]tade.  Onde Salamone
+dice: figliuolo mio, none andrai con li rei, acci@o che tu non
+perischi con loro insieme; e dice -- |Qui vive la piet@a quand'@e
+ben morta.~
+
+	|31.  Drizza la testa~ ec.  Qui essemplifica Virgilio il
+detto peccato, nominando per sue spezie li peccatori.
+
+	|33-34.  Dove rui, Anfiarao?~ ec.  @E questi il Greco che
+venne sopra Tebe con li VII Re, il quale avea indovinato che la
+guerra non era sicura, ma pure in fine sarebbe, che Tebe sarebbe
+distrutta: elli trovava, che s'elli andasse a l'assedio di Tebe,
+ch'elli morrebbe nell'oste, e per questo si stava occultamente in
+casa.  Arg@ia, moglie di Polinice, alla cui stanza movieno gli
+altri Re ad andare sopra Tebe, don@oe una nusca d'oro alla moglie
+d'Anfi[a]rao, perch@e lo insegnase.  Per questo discoperto
+Anfi[a]rao, volesse, o no, and@o nell'oste: costui essendo un d@i a
+combattere la terra di Tebe in su uno carro, la terra il gitt@oe
+lui con tutto il carro; li Tebani assediati stando in su le mura
+della cittade, vedendo ire sotto, gridavano contro a lui, e
+dicevano dispettivamente parlando: o Anfi[a]rao, dove rovini?
+perch@e lasci tu la guerra, ch'hai indovinato che noi saremo
+perdenti? male hai saputo indovinare per te.
+
+	|37.  Mira, che ha fatto petto~ ec.  Questo dice,
+perocch'@e 'l viso s@i, che le spalle li sono in luogo di petto,
+e 'l petto in luogo di spalle.
+
+	|40-45.  Vedi Tiresia~ ec.  Questo Tiresia fue d'un'altra
+spezie d'indovinare: questo cieco dic[e]a altrui sua fortuna;
+questa favola scrive Ovidio nel ^Metamorphoseos~, libro IIJ.  Jove
+lasci@o le gravi cure, prese trastullevoli giuochi con Junone sua
+moglie, e li disse: per certo la vostra lussuria @e maggiore, che
+quella delli uomini; quella il nega: piacque a l'uno, e all'altro
+[udire] quale fosse sopra ci@o la sentenzia del savio Tiresia, che
+sapeva l'una lussuria e l'altra, per@o ch'elli aveva battuti due
+grandi serpenti con una verga, allora ch'elli si congiugnevano
+insieme nella verde selva, e allora d'uomo divenne femina. 
+Maravigliosa cosa @e a credere: compiuti erano li VIJ anni, e
+nell'VIIJ vide quelli medesimi, e disse: se la percossa della
+vostra potenzia @e cos@i grande, ch'ella mi muti in contrario, io
+vi ripercoter@oe altra volta.  Costui riceuto giudice della
+solazzevole quistione, conferma il detto di Jove...; a pi@u grave
+che non si conven@ia; dannolo delli occhi a perpetuale cechitade:
+Jove, perch@e ad alcuno Idio non @e lecito fare vani li fatti
+dell'altro, per lo tolto lume li conced@e a sapere le cose, che
+doveano venire, e alleggiolli la pena con l'onore.  Quelli
+nominato per la fama, per le citt@a di Grecia andava indovinando;
+il quale morto, and@o in quella bolgia dove lo truova travolto
+come gli altri aguri.  La cui allegoria alcuni cos@i pongono: che
+volendo li poeti fare menzione del tempo, lo quale parte d'esso
+si @e pregno, e partorisce frutti, tutt[o] a modo di femina;
+l'altra parte d'esso sta stretto e serrato, e non germina [la
+terra] in esso a modo di maschio; puose[no] Tiresia per lo tempo,
+in quanto @e verno, si @e maschio, che non frutta; poi viene la
+state, e partorisce frutti, ed @e femina.  La quistione di Jove e
+di Giunone si pone di due elementi attivi, cio@e caldo e freddo;
+lo freddo @e costrettivo, per@o @e maschio; lo caldo @e [a]pritivo e
+germina, ed @e femina: il caldo occupa pi@u luogo che 'l freddo, e
+per@o dicono che la femina @e di maggiore appetito.  [La]
+privazione del lume, ch'ebbe Tiresia @e a significare, che per lo
+calore salgono li vapori, e fanno in aere oscuritade; per lo
+freddo stanno stretti alla terra, e non impediscono il lume del
+sole, e per@o @e pi@u palese ogni cosa che per luce si dichiara; e
+perch@e la vista non @e impedita, colgono che @e quasi prevedersi, e
+per conseguente aguro.
+
+	|46-51.  Aronta @e quei, ch'al ventre~ ec.  Questi @e
+Aronta, al quale il ventre @e in luogo di tergo, cio@e della parte
+di drieto; il quale ne' monti di Lunigiana, di sotto alli quali
+alberga il Carrarese, li quali monti tengono vena di marmo
+bianco, ebbe una spelonca per sua dimoranza, s@i scoperta d'ogni
+parte, che indi vedea liberamente il cielo, e liberamente il
+mare; e questi fue Aruns, del quale parla Lucano, che venne a
+Roma.  Pompeo domandollo da lui, se verrebe a battaglia con
+Cesere, e chi vincerebbe: tolse uno vitello, e apropri@o la parte
+destra a Cesere, e la sinistra a Pompeo, poi l'aperse dentro, e
+trov@o tutte le 'nteriora dal lato sinistro putride e verdi, dal
+lato destro tutto il contradio; per la qual veduta antidisse
+tutte le convenienze della battaglia: stava in luogo [di]
+Lunigiana, donde vedeva le ascensioni delle stelle alla marina.
+
+	|52-60.  E quella che ricuopre~ ec.  Qui pone un'altra
+spezie d'indovinare, cio@e sortilegio: questa dice ch'@e Manto,
+ch'ha volto il viso di drieto, s@i che le trecce le cagiono sopra
+le mamelle, dal quale lato @e la parte vergognosa, [del]la quale
+[le] mamelle son parte, [che] l'Autore non vedea; ma vedea il
+viso, e le spalle, e le natiche di costei.  Diremo poco, per@o che
+Virgilio per commemorare l'origine vera della sua cittade,
+distintamente pi@u di lei, che degli altri favella.  Questa Manto
+fue figliuola del detto Tiresia della cittade di Tebe; la quale,
+come dice il testo, morto il padre, e divenuta Tebe (cittade, che
+adorava per suo idio Bacco, perch@e aveva molte vigne) serva sotto
+la tirania di Teseo figliuolo del Duca d'Atene, and@o peregrinando
+per molte terre.  E poi ch'ebe cercate molte cittadi, e molti
+luoghi finalmente venne alle parti d'Italia, e quella d'ogni
+parte cerca, passando per la contrada, dove @e oggi la cittade di
+Mantova, vide un pantano; in mezzo d'esso era terra ferma, e non
+lavorata, e non abitata, al quale luogo Manto, per fugire ogni
+compagnia di strane genti, co' suoi servi, ch'avea seco, a fare
+suoi sortilegj se n'and@oe, e quivi visse e mor@ie.  Gli uomini
+poi, ch'erano spartiti per la contrada, s'accolsero a questo
+luogo, perch'era forte atorneato dal pantano, e fece[r]vi una
+cittade, la quale chiamarono Mantova, da quella Manto, che prima
+v'era abitata.  Questo dice il testo.  Bene tocca, come Tebe
+venne di libera serva; onde @e da sapere, che dopo il lungo
+assedio, che tennero li VII Regi sopra la cittade di Tebe,
+consumati per grande parte li assediati e li assediatori,
+finalmente (per@o che tutta la cosa appartenea a uno dentro, cio@e
+a [E]teocle, e a uno di fuori, cio@e Polinice, li quali erano
+fratelli carnali, e combattevano per lo regno, per lo quale
+Eteocle sozzamente avea ingannato il fratello) pervennero le
+parti a questo patto: che li due fratelli per corporale battaglia
+di loro soli finissero la guerra; li quali s@i innimichevolmente
+si menarono, ch'amendue rimasero morti in sul campo.  Uno Creon,
+dopo la morte de' due fratelli, prese la signoria, e usando fiera
+crudelezza, divietato d'ardere li corpi di quelli, ch'erano
+rimasi morti nella detta guerra, de' quali molti ne giacevano per
+le fosse; e l'antica costuma era d'ardere li corpi de' morti:
+onde le donne tebane andarono ad Atene a Teseo, signore della
+terra, e richieserlo che prendesse la signoria di Tebe; lo quale
+con oste l'asedi@oe, e presela, e sottopuoselasi, e fecela serva e
+tributaria.  Vedendo Manto che la sua nobile cittade era fatta
+serva, si part@i con sua compagnia, e venne in Italia, come @e
+detto, e sanza compagnia di maschi abit@oe dove @e oggi Mantova; e
+per@o la chiama l'Autore vergine cruda, cio@e sanza dimestichezza
+umana, e tutta solitaria.
+
+	|61-78.  Suso in Italia~ ec.  Qui pone per discrivere il
+luogo, dove era edificata Mantova.  Discrive tutto il paese, e
+dice, che in Italia @e uno lago, cio@e il lago di Garda, il quale
+hae anche nome Benaco, ed @e nel terreno de' conti di Tirallo; e
+dice che discende per molti fonti, e acogliesi tra Garda, e valle
+Camonica; e in mezzo di questo lago sono li confini di Trento, e
+di Brescia, e di Verona.  Infino al quale luogo de' predetti
+confini ciascuno vescovo delle predette tre cittadi potrebe
+segnare, s'elli andasse per quello luogo; cio@e, che infino al
+luogo de' predetti confini si stende l'auturitade e la
+giurisdizione di ciascuno de' predetti vescovi, e delle sue
+cittadi.  Nella ripa del quale lago @e posto uno bellissimo
+castello, ch'@e chiamato Peschiera, tra Bergamo e Brescia, ed @e in
+s@i bassa parte del lago detto, che da quella parte esce l'acqua
+del detto lago, e fa un fiume chiamato Mencio: e questo fiume
+cos@i s'apella infino ad un luogo chiamato Governo nel terreno
+Mantovano; e in quello luogo entra in Po.  
+
+	|79-87.~  E dice l'Autore, che questo Mencio non si
+stende molto, ch'elli truova una lama, dove elli si stende, e fa
+palude, e al tempo di state ha poca acqua; e per@o dice -- |E suol
+di state talora esser grama~: o vero dice grama, cio@e inferma,
+per@o che si corrompe per non correre, e per la forza del sole
+deseccativo l'acqua, e atrattivo l'omore del pantano del palude;
+il quale palude @e chiamato il lago di Mantova: s@i che la detta
+Vergine vedendo questo luogo stratto dagli altri, e videvi in
+mezzo terra scoperta, and@oe a fare quivi sua abitazione.
+
+	|94-96.  Gi@a fur le genti sue~ ec.  Qui tocca come la
+divisione di Mantova l'hae diminuita di genti: questo medesimo
+tocca elli nel principio della Bucolica, quivi: ^Tityre, tu
+patulae recubans sub tegmine fagi~ ec.; dove mostra che li fu
+cagione di venire a Roma.  Qui tocca come Messer Pinamonte de'
+Bonacorsi per inganno cacci@o fuori di Mantova li suoi consorti,
+acostandosi a quelli di Casalodi, ch'erano Conti; e per@o li
+chiama matti, che s'acostarono al nimico loro, e fidarsi di lui.
+
+	|97.  Per@o t'assenno~ ec.  Chiara @e questa conclusione,
+che fa Virgilio.
+
+	|100.  Ed io: Maestro~ ec.  Segue il poema.
+
+	|106-112.  Allor mi disse~ ec.  Qui tocca l'Autore di due
+spezie d'indovini in persona di Calcas di Troia, e di Euripile.
+[Questi] diede insieme con Calcas il punto e l'ora che li Greci,
+quando andarono ad asediare Troia la seconda volta, raunati tutti
+nel porto d'Aulide, si partissero; e dice, che questo Euripile fu
+uomo bruno di carne.  E dice, che a quello tempo ogni maschio da
+potere arme, and@oe in quella oste.  Di questa materia tocca in
+molte parti di questa Comedia; e per@o qui di poco si dee essere
+contento.  Poi che nu[n]ziato al marito d'Elena, come Paris ne
+l'aveva menata per forza in Grecia, egli se n'and@o ad Agamenon
+suo fratello, che regnava in Argi, e ispuose la ingiuria che gli
+era fatta in vendetta contra tutti gli Greci, per la presura che
+fu fatta d'Issiona sirocchia di Priamo, nella prima guerra di
+Troia, e domand@oe aiuto a lui, e a tutti li Greci.  Agamenon
+convoc@oe tutti li principi delli Greci a vendicare questa
+ingiuria, Diomedes, Aiace Oileo, Aiace Telamone, e Aiace re de'
+Teucri, Castoro e Poluce frategli d'Elena, Protesilao, Antiloco,
+Patrocolus, Acchiles, e molti altri, li quali racconta Darete
+Frigio, e Omero poeta.  Tutti li Greci armarono il navilio, e
+raunarsi a questo porto detto Aulide, e mandato all'Isola di
+Delfo ad Appollo per risponso, che infra X anni Troia sarebbe
+[presa]: al quale luogo co[n] Euripile s'agiunse Calcas Troiano,
+il quale era venuto l@a mandato per Priamo per sapere il fine di
+questa guerra; al quale fu dato simigliante risponso.  Costui non
+volle tornare con questo anu[n]zio a Priamo, ma con Euripile e
+con Acchille se ne venne sotto sicurtade a' Greci: e questi due
+diede[r] di concordia questo responso; e poi diedero per loro
+arti il punto e l'ora che quello stuolo si movesse, e in persona
+furono a tagliare le funi dell'ancora della nave di Palamides
+fatto imperadore de' Greci.  E questo @e quello che dice il testo.
+
+	|113.  L'alta mia Tragedia~ ec.  Cio@e l'Eneida; e dice,
+Dante, il sa tutto.
+
+	|115-117.  Quell'altro, che ne' fianchi~... |Michele
+Scotto~ ec.  Qui descrive l'Autore d'un'altra spezie d'indovini,
+li quali usano arte magica, in persona di Michele Scotto, il
+quale elli pone essere sottile, e magro: questi us@oe quest'arte
+magica, massimamente al tempo dello imperadore Federigo secondo.
+
+	|118-120.  Vedi Guido Bonatti~ ec.  Questi fue da Forl@i,
+il quale fece sue arti col conte Guido da Montefeltro; e dicesi,
+che per colui il conte Guido schif@oe molti pericoli, e molti
+danni diede a' suoi aversarii.  Dicesi, che usava di stare nel
+campanile della mastra chiesa di Forl@i, e faceva armare tutta la
+gente del detto Conte; poi quando era l'ora, sonava la campana, e
+questi uscivano fuori verso i nemici.  Dicesi, che tra per
+l'astuzia del Conte e l'arte di costui, elli fece de' Franceschi
+sanguinoso mucchio, come @e scritto capitolo XXVII ^Inferni.~ --
+|Vedi Asdente~ ec.  Questi fue calzolaio, e divene aguro, e dicea
+delle cose a venire, e disse molte volte di grandi veritadi; del
+quale dice l'Autore, che meglio gli fosse avere atteso all'arte
+sua, che alla indivinatoria; e dicesi, che fu da Parma.
+
+	|121-123.  Vedi le triste~ ec.  Qui sotto questa
+generalitade pone moltitudine di spezie d'indovinare, le quali
+cotali femminelle usano; le quali spezie non sono connumerate
+sotto alcuna parte di scienze, per@o che non hanno ordine alcuno;
+e dice, che queste fecero pi@u, che fecero malie, e
+affatturamenti, e legamenti con erbe e con imagini, s@i come facea
+Medea di Colcos.
+
+	|124-127.  Ma vienne~ ec.  Qui chiude questo capitolo, e
+dice: vienne, che la luna tiene gi@a il confine dello emisperio di
+sopra, e di quello di sotto, e tocca il mare l@a sotto Sibilia:
+questo viene a dire, che 'l d@i chinava, e la notte succedeva a
+Virgilio e a l'Autore.  Pone dunque l'Autore l'ora presente,
+dicendo che la luna, alcuna cosa scema, era presso
+all'occidentale orizzonte, cio@e verso la parte di Sibilia; perch@e
+si seguita, che nello opposito suo orientale gi@a il sole
+s'apressasse, cio@e nel mattutino: onde per passare tutta la
+viziosa qualitade sanza mediata luce in oscuritade di tempo
+sentendosi cos@i surgere la luce del die, cos@i s'afretta.  Quando
+la luna @e ritonda, ella @e nell'opposita parte del cielo del corpo
+del sole; e per conseguente quando ella tramonta, il sole si
+leva; e per@o dice -- |E gi@a jernotte fu la luna tonda.~ Emisperio
+@e il circulo, che divide il cielo a noi di quello che si vede, a
+quello che non si vede; ed @e da notare, che infino a questo punto
+l'Autore @e stato in Inferno due d@i naturali, cio@e XLVIII ore, e
+cominci@o il terzo d@i.  -- |Caino e le spine~ ec.  Qui recita un
+favoloso detto de' fanciulli, che dicono, che Caino per lo
+peccato del frat[r]icidio con una incarica di pruni fue messo da
+Dio nella luna, e che quello bruno, che apare nella luna, @e
+desso: qui finisce il secondo die, cio@e la luna.  Portava nel
+mondo Caino, quando faceva sagrificio a Dio, non delle migliori
+cose, ma delle non fruttuose, s@i come spine sono sanza frutto, e
+per@o male fruttavano le sue bestie.  Abel faceva sacrificio delli
+migliori animali, per@o fruttava la sua greggia; onde per invidia
+mosso Caino l'uccise.
+

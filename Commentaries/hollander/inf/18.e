@@ -1,0 +1,185 @@
+	|1-18.~  The extended introductory passage interrupts the narrative in 
+order to set the new scene: Malebolge, the eighth Circle, with its ten 
+varieties of fraudulent behaviors.  Only in ^Inferno~ does an equal 
+number of cantos (17 and 17) create a precise center for a ^cantica~ in 
+the space between two cantos, and we have just passed it.  The last 
+canto ended with a sort of 'comic' conclusion to Dante's dangerous 
+voyage on Geryon.  He has now traversed precisely half of the literary 
+space devoted to the underworld.  Thus, fully half of the ^cantica~, 
+cantos XVIII to XXXIV, is dedicated to the sins of Fraud.  That 
+division tells us something about the poet's view of human behavior, 
+namely that it is better typified by the worst of sins than by the 
+lesser ones.
+
+	Robert Durling has developed the schematic idea that all of hell is 
+depicted as having a structure parallel to that of the human body, with 
+Malebolge representing the belly.  See his "Deceit and Digestion in the 
+Belly of Hell," in ^Allegory and Representation: Selected Papers from 
+the English Institute, 1979-80~, ed. Stephen A. Greenblatt (Baltimore: 
+The Johns Hopkins University Press, 1981), pp. 61-93; and see the 
+commentary of Durling and Martinez (New York and Oxford: Oxford 
+University Press, 1996), pp. 552-55; 576-77.
+
+	The poetry of Malebolge, studied by Edoardo Sanguineti 
+^(Interpretazione di Malebolge~ [Florence: Olschki, 1962]), is 
+strikingly self-confident.  One has the feeling that Dante, having 
+finished his apprenticeship, now has achieved a level of aesthetic 
+performance that may have surprised even him.  In the seventh canto he 
+had conjoined two kinds of sinners, the avaricious and the prodigal; 
+but these are two sides of the same sin.  Here for the first time, as 
+something of a ^tour de force~, he includes two entirely separate 
+categories of sin in a single canto, one of them itself subdivided into 
+two groups, as in Canto VII -- all of this in 115 lines.  The precision 
+of the operation is noteworthy, and may be represented as follows:
+
+\<pre\>
+^(1) panders & seducers         (2) flatterers~
+
+disposition of both (22-39)     disposition (100-114)
+modern exemplar (52-66)         modern exemplar (115-126)
+classical exemplar (82-99)      classical exemplar (127-136)
+\</pre\>
+
+	For the self-conscious, deliberately Virgilian opening of the canto 
+('Locus est' is found several times in the ^Aeneid~ marking the 
+transition from one poetic place to another), see Marino Barchiesi's 
+long article, "Arte del prologo e arte della transizione," ^Studi 
+Danteschi~ 44 (1967), pp. 115-207, a meditation on Dante's narrative 
+technique, including a substantial discussion of this passage.
+
+	The hellscape offers a grey stone circular wall surrounding a stone 
+'field,' which in turn surrounds a pit (the 'keep' of this 'castle'); 
+the field is divided into ten valleys, which resemble moats set around 
+a castle.  The analogy is complete, but works in reverse, since a 
+castle rises above its surroundings, while this 'castle' is a hole 
+leading into hell.  Our first view of Malebolge (the name is a Dantean 
+coinage made up of words meaning 'evil' and 'pouches') makes it seem 
+like a vast, emptied stadium, e.g., the Colosseum, which Dante might 
+have seen in 1301 if he indeed visited Rome then, or the arena of 
+Verona, which he probably saw at least by 1304.  The former hypothesis 
+is attractive in that the second image of the canto is also modelled on 
+Roman architecture: the bridge over the Tiber between Trastevere and 
+the city.
+
+	|19-21.~  The narrative is now joined to the action concluding the 
+last canto and the poets resume their leftward circling movement.
+
+	|22-27.~  The panders, moving from left to right as Dante views them, 
+are moving in a direction contrary to his; the seducers, moving from 
+his right to his left, and thus moving in parallel with him, are going 
+faster than he; but then he has no demons lashing him with whips.
+
+	|28-33.~  The simile, reflecting the Roman invention of two-way 
+traffic in 1300 for the crowds thronging to the holy places, on the 
+bridge across the Tiber, from the city (to St. Peter's, after they pass 
+Castel Sant'Angelo) and back again (to the area of Monte Giordano, just 
+off the Tiber), has caused some to argue that Dante had been in Rome 
+during the Jubilee.  It is more likely that he was in fact there in 
+1301 and heard tell of this modern wonder of crowd control.  That the 
+first city that Malebolge calls to mind is Rome in the Jubilee Year is 
+not without its ironic thrust, especially since it had been Pope 
+Boniface VIII, so hated by Dante, who proclaimed this great event (the 
+first in the Church's history).  For a recent bibliography, 172 items 
+regarding this first Jubilee Year see Enzo Esposito, "Bibliografia 
+'essenziale' del Giubileo (1300) di Dante e di Bonifacio VIII," 
+^L'Alighieri~ 16 (2000), pp. 139-51.
+
+	|35.~  Benvenuto da Imola (comm. to XVIII.34-36) suggests that the 
+panders are punished by horned devils because their actions resulted in 
+the cuckoldry of others.
+
+	|50.~  Venedico was an important political figure of Bologna in the 
+second half of the thirteenth century.  His sin was in selling his own 
+sister to Opizzo of Este (see ^Inf~. XII.111).  He actually died in 
+1302, although Dante obviously believed he had died before 1300.
+
+	|58-61.~  Venedico's pleasantry insists that there are more Bolognesi 
+in this zone of hell than currently populate the city itself.  'Sipa' 
+is ancient dialectical Bolognese for 'yes,' and thus the phrase means 
+'have grown up speaking Bolognese dialect' between the rivers that mark 
+the eastern and western confines of the city.
+
+	|66.~  The demon's rough remark is variously understood: either 'there 
+are no women here to defraud' (as Venedico did his sister), or 'there 
+are no women here for sale' (to offer to Dante).  And there may also be 
+a hint of the slang for female genitalia.  In our translation we have 
+tried to keep both of the first meanings possible.
+
+	|72.~  The circlings of the whipped sinners, not of the ditches 
+themselves, are almost certainly what is referred to, just as Francesco 
+da Buti said centuries ago (comm. to XVIII.67-72).  However, it was 
+only some 80 years ago that Enrico Bianchi ("Le 'cerchie eterne,'" 
+^Studi Danteschi~ 3 [1921], pp. 137-39) brought such a comprehension 
+back to the verse, thereby increasing its power: the reference is to 
+the Florentine custom of whipping a condemned man along the route to 
+his execution.  Most contemporary commentators accept this reading.
+
+	|73-78.~  At the high point of the bridge over the ditch on their way 
+toward the next ^bolgia~ the travelers stop to observe the second set 
+of sinners in this one, whom they have not been able to examine because 
+these were going along in the same direction as were they, and at a 
+faster clip.
+
+	|83-85.~  Like Capaneus (^Inf~. XIV.46-48), the heroic Jason is 
+allowed to keep some of his dignity and his stoical strength.
+
+	|86-96.~  Jason, who will be remembered in ^Paradiso~ in a far more 
+positive light, as the precursor of Dante in his having taken a great 
+voyage and returned with the golden fleece (^Par~. II.16-18; ^Par~. 
+XXV.7; ^Par~. XXXIII.94-96), is here presented as the classical 
+exemplar of the vile seducer.  Dante has Virgil condense the lengthy 
+narrative of Jason's exploits found in Ovid (^Metam~. VII.1-424) into 
+two details, the seductions of Hypsipyle (daughter of the king of 
+Lemnos) and of Medea (daughter of the king of Colchis).
+
+	For the resonance at v. 91 of Beatrice's description of Virgilian 
+utterance as 'parola ornata' see the note to ^Inf~. II.67.  As for 
+Jason's ^segni~ (signs of love), Dante may be thinking of his ability 
+to move Medea by tears as well as words (see Ovid, ^Metam~. VII.169).
+
+	|100-114.~  The second ditch is filled with supernatural excrement (it 
+only ^seems~ to have come from the toilets of humans).  What do 
+flatterers do?  It is unnecessary to repeat the slang phrases that are 
+used in nearly all languages to characterize their utterance.  What 
+they did above, they do below, wallowing in excrement, their faces 
+ingesting it as animals guzzle food from their troughs (see v. 104).
+
+	|122.~  Alessio Interminei is the first Lucchese whom we encounter, 
+but there will be others, below.  Dante seems systematically to include 
+in hell representatives of all the major Tuscan cities.
+
+	|133-135.~  Tha,is is a courtesan in Terence's comic play 
+^Eunuchus~, and had a reputation even into the middle ages as a 
+flatterer.  Whether Dante is citing Terence directly (most currently 
+dispute this) or through Cicero (^De amicitia~ XXVI.98 -- a text that 
+Dante assuredly did know and which explicitly associates Tha,is 
+with flattery, though there and in Terence she is the one flattered, 
+not the flatterer) is a matter that still excites argument.  For the 
+most recent claims for Dante's knowledge of Terence see Claudia Villa 
+(^La "lectura Terentii"~ [Padua: Antenore, 1984]), esp. pp. 137-89, but 
+see also the countering arguments of Baranski ("Dante e la tradizione 
+comica latina," in ^Dante e la "bella scola" della poesia: 
+Autorit@a e sfida poetica~, ed. A. A. Iannucci [Ravenna: Longo, 
+1993]), pp. 230-38 (and now Villa's rejoinder ["^Comoedia: laus in 
+canticis dicta?~   Schede per Dante: ^Paradiso~, XXV.1 e ^Inferno~, 
+XVIII," ^Rivista di Studi Danteschi~ 1 (2001)], pp. 325-31.  After 
+Moore (^Studies in Dante~, First Series: ^Scripture and Classical 
+Authors in Dante~ (Oxford: Clarendon, 1969 [1896]), pp. 12, 261-62, 
+many modern commentators rightly suggest that Dante's account closely 
+reflects Cicero's, but not Terence's, further maintaining that we have 
+not a single citation of any play by Terence anywhere in Dante's work.  
+It is amusing to see that the seeds of the debate had already been 
+planted in Pietro di Dante's second redaction at mid-fourteenth century 
+(Pietro2, comm. to these verses) when Pietro cites the pertinent 
+passage in Terence and then goes on to cite Cicero's reproduction of 
+the scene in ^De amicitia~.  After Pietro, whose second and third 
+redactions were not published until late in the twentieth century, and 
+before Moore, Terence is the main source mentioned by those 
+commentators who refer to a classical text, and none refers to Cicero.  
+More recently Barchiesi ("Arte del prologo e arte della transizione," 
+^Studi Danteschi~ 44 [1967], p. 203n., argues that Dante, if he only 
+knew the passage indirectly from Cicero, knew of its Terentian source 
+from John of Salisbury's ^Policraticus~.
+
+	|136.~  Satiety comes quickly when one watches people breathing 
+excrement.

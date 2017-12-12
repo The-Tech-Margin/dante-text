@@ -1,0 +1,129 @@
+	|1.~ |(ed.  Rosini)~
+^La sete natural~, di sapere.  [Da Fino]
+
+	|5.~ |(ed.  Rosini)~
+^Impacciata via~, perch@e era piena d'anime.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+Addemmo.  [richiamo marginale] [Sessa]
+
+^Addemmo~, accorgemmo.  [Da Fino]
+
+	|16.~ |(ed.  Rosini)~
+^Nel beato concilio~, in cielo.  [Da Fino]
+
+	|19.~ |(ed.  Rosini)~
+Avendolo seguito in fretta.  [Da Fino]
+
+	|25.~ |(ed.  Rosini)~
+^Lei~, prima persona.  [Sessa]
+
+	|27.~ |(ed.  Rosini)~
+Ancora vive.  [Da Fino]
+
+	|28.~ |(ed.  Rosini)~
+Avendo Dio padre comune.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+^Adocchia~, vede.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+^D'Inferno.  D'Inferno~, senza l'articolo; cos@i quasi sempre.  [Sessa]
+
+	|35.~ |(ed.  Rosini)~
+^Ad una~, avverbio.  [Sessa]
+
+	|37.~ |(ed.  Rosini)~
+^Cruna~, mezzo.  [Da Fino]
+
+	|40.~ |(ed.  Rosini)~
+Sanza.  [richiamo marginale] [Sessa]
+
+	|40-42.~ |(ed.  Rosini)~
+E1 sempre questo luogo religioso a uno modo.  [Da Fino]
+
+	|48.~ |(ed.  Rosini)~
+Delle porte del Purgatorio.  [Da Fino]
+
+	|50.~ |(ed.  Rosini)~
+Corruscare.  [richiamo marginale] [Sessa]
+
+^Corruscar~, balenare: ^figlia di Taumante~, Arcobaleno.  [Da Fino]
+
+	|51.~ |(ed.  Rosini)~
+Perch@e varia.  [Da Fino]
+
+	|52.~ |(ed.  Rosini)~
+^Secco vapor~, venti.  (Forse generator di venti).  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+^Vicario~, l'Angelo.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Della mondizia~, d'essere purgato.  [Da Fino]
+
+	|63.~ |(ed.  Rosini)~
+^Sorprende~, sopraprende.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+^Di miglior soglia~, d'andare avanti.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+^Scalappia~, slega.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+^Cappia~, intenda.  [Da Fino]
+
+	|82.~ |(ed.  Rosini)~
+Descrizione.  [Da Fino]
+
+	|83.~ |(ed.  Rosini)~
+Fora.  [richiamo marginale] [Sessa]
+
+	|84.~ |(ed.  Rosini)~
+Di Cristo.  [Da Fino]
+
+	|85.~ |(ed.  Rosini)~
+^Col nome~, di poeta.  [Da Fino]
+
+	|86-88.~ |(ed.  Rosini)~
+^Spirto~, e ^spirto~ in diverso senso.  [Sessa]
+
+	|90.~ |(ed.  Rosini)~
+Mertai.  [richiamo marginale] [Sessa]
+
+	|93.~ |(ed.  Rosini)~
+Morse avanti che la finisse.  Traslazione.  [Da Fino]
+
+	|97-98.~ |(ed.  Rosini)~
+^......Mamma Fummi, e fummi nutrice~, ripetizione.  [Da Fino]
+
+	|101.~ |(ed.  Rosini)~
+^Un Sole~, un anno.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+^Al mio uscir di bando~, di stare in Purgatorio.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+Hanno manco forza.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+^Ammicca~, accenna.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+Pi@u si conosce l'affetto.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+^Assommi~, prendi.  [Da Fino]
+
+	|113.~ |(ed.  Rosini)~
+Testeso.  [richiamo marginale] [Sessa]
+
+	|114.~ |(ed.  Rosini)~
+Lampeggiar di riso.  [richiamo marginale] [Sessa]
+
+	|135.~ |(ed.  Rosini)~
+Dismento.  [richiamo marginale] [Sessa]
+
+^Dismento~, dimentico.  [Da Fino]
+

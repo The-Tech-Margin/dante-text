@@ -1,0 +1,732 @@
+	|Proemio.~  ^Era gi@a l'ora~ ec.  Questo @e lo canto ottavo nel quale 
+l'autore segue ancora la suprascritta materia, trattando de li stati 
+negligenti a la penitenzia per le signorie temporali; e dividesi questo 
+canto in due parti: imper@o che prima l'autore descrive lo tempo e lo 
+canto dell'anime di quello luogo, e l'avvenimento di due angiuli; e 
+come ne cognove alcuna, e parl@o con loro.  Ne la seconda finge 
+l'avvenimento d'uno serpente e lo combattimento delli angiuli con lui, 
+e lo parlamento che ebbe con uno dei marchesi Malaspina, quive: ^Li 
+occhi miei ghiotti~ ec.  La prima si divide in cinque parti: imper@o 
+che prima descrive lo tempo, e finge lo canto che feceno l'anime del 
+ditto luogo; ne la seconda finge l'avvenimento di due angiuli e 
+descriveli come erano fatti, quive: ^Aguzza ben, Lettor~, ec.; ne la 
+tersa finge quel che feceno quelli due angiuli, e che Sordello li 
+dicesse unde venivano e perch@e, e quel che elli fe, quive: ^L'un poco~ 
+ec.; ne la quarta finge come Sordello li guid@o giuso tra l'anime, e 
+come ne ricognove alcuna, quive: ^Sordello allora~: ec.; ne la quinta 
+finge come venne a parlamento con uno di quelli signori, quive: ^E come 
+fu la mia~ ec.  Divisa la lezione, ora @e da vedere lo testo co la 
+esponizione litterale, e co le allegorie o vero moralitadi.
+
+	|1-18.~  In questi sei ternari lo nostro autore descrive lo tempo lo 
+quale finge che fusse, quando una di quelle anime che erano ne la valle 
+dei signori temporali, finge che si levasse a cantare l'inno che si 
+dice a Compieta, dicendo cos@i: ^Era gi@a l'ora~; quando Sordello ci 
+mostrava quelli signori, de' quali fu ditto di sopra, ^che volge il 
+disio~; cio@e lo desiderio, ^Dei naviganti~: li marinai e marcatanti 
+che vanno per mare, quando montano la mattina in sul navilio desiderano 
+d'andare oltra a suo cammino tostamente; ma quando viene la sera in sul 
+tramontare del Sole si muta lo desiderio, arricordandosi de le loro 
+famillie e dei loro amici coi quali si sono trovati la sera dinansi ne 
+le case loro, e vorrebbensi trovare con loro, ^e intenerisce il core~; 
+cio@e @anno teneressa nel cuore, e dolliansi d'essersi partiti, ^Lo d@i 
+che @an ditto ai dolci amici: Addio~; cio@e che si sono accummiatati da 
+le famillie e da li amici, dicendo: Addio, che s'intende: A Dio 
+t'accomando o ti lasso.  E notevilmente dice ^ai dolci amici~: imper@o 
+che niuna cosa @e tanto dolce a l'animo quanto l'amicizia: questa 
+teneressa viene loro pur lo d@i che sono montati in navilio; ma poi per 
+l'usansa indura loro lo cuore e non @anno pi@u tale stato; e per questo 
+modo @a descritto che era sera.  ^E che lo novo peregrin~; anco 
+descrive questo tempo per un altro modo; cio@e era l'ora, ^che~; cio@e 
+la quale, ^lo novo peregrin~; cio@e colui che novamente @e indutto in 
+peregrinaggio; cio@e pur lo d@i medesimo, ^d'amore Punge~; cio@e li d@a 
+puntura d'amore facendoli venire ascaro de la citt@a sua, de la casa, 
+de la famillia e de li amici, ^se ode squilla~; cio@e campana piccula, 
+^di lontano~; cio@e da lunge, ^Che~; cio@e la quale campana, ^paia il 
+giorno pianger~; cio@e che paia col suono suo dolersi e lamentarsi del 
+giorno, che viene meno; e per@o dice: ^che si more~; cio@e che viene 
+meno: la sera e la notte fanno le campane pi@u chiuso sono che 'l d@i, 
+perch@e l'aire @e tenebroso; e lo d@i fanno chiaro per la chiaressa 
+dell'aire.  ^Quand'io~; cio@e io Dante, ^incominciai a render vano 
+L'udir~; cio@e incominciai ad avvedermi che quelle anime stavano chete: 
+imper@o che aveano finita l'orazione che finse di sopra ch'elle 
+dicesseno; cio@e ^Salve Regina~ ec. --, ^ed a mirar~; cio@e incominciai 
+a poner mente, ^una dell'alme~; cio@e di quelle anime ch'erano ne la 
+valle, ^Surta~; cio@e levata suso in pi@e: imper@o che @ae finto che 
+stesseno a sedere tutte prima, ^che l'ascoltar chiedea con mano~; cio@e 
+la quale facea cenno co la mano che ogni uno stesse cheto, et 
+ascoltasse quello ch'ella volea dire.  ^Ella giunse~; cio@e insieme, 
+^ambe le palme~; come fa l'omo quando vuole pregare Iddio, ^e lev@o~; 
+cio@e su alto a Dio, ^Ficcando li occhi verso l'oriente~; come d@e fare 
+l'omo quando adora Iddio, che si d@e volgere all'oriente; e per@o tutte 
+le chiese antiche @anno volto li altari a l'oriente; ma ora, quando non 
+si pu@o commodamente fare, non v'@e cura: imper@o che Iddio @e in ogni 
+luogo, ^Come dicesse a Dio~; quest'anima: ^D'altro non calme~; cio@e io 
+non abbo altra cura, se non di pregarti.  E questo finge l'autore per 
+quelli del mondo che, quando vanno ad adorare Iddio, denno andare e 
+stare s@i disposti co la mente a Dio, che altro pensieri non vi sia, 
+levando li occhi de la mente et anco del corpo al cielo acci@o che 
+altra cosa veduta non levi la intenzione: imper@o che l'orazione @e, 
+come diceno li santi Dottori de la Chiesa, ^elevatio mentis in Deum.  
+Te lucis ante~; cio@e quello inno che si canta la sera a Compieta, ^Te 
+lucis ante terminum, Rerum Creator~ ec. -- ^s@i devotamente Li usc@i di 
+bocca~; cio@e cantando a quell'anima che s'era levata, ^e con s@i dolci 
+note~; cio@e con s@i dolce canto, ^Che fece me a me uscir di mente~; 
+cio@e che io Dante dimenticai me medesimo: spesse volte avviene che 
+l'omo @e s@i attento a cosa ch'elli vede o oda, ch'elli di s@e non @a 
+memoria.  ^E l'altre~; cio@e anime, ^poi~; cio@e di po' questo 
+principio, ^dolcemente e divote Seguitar lei~; cio@e quell'anima che 
+avea incominciato l'inno cantando, ^per tutto l'inno intero~; cio@e per 
+tutto l'inno compiuto infine a la fine, ^Avendo li occhi a le superne 
+rote~; cio@e al cielo dove si d@e sempre avere l'animo, quando si prega 
+Iddio: dice ^rote~, perch@e li cieli sempre rotano e girano intorno.  
+Et apertamente si dimostra che l'autore finge queste cose essere state 
+di l@a, intendendo allegoricamente di quelli del mondo, che sono in 
+stato di penitenzia, come ditto @e di sopra.
+
+	|19-30.~  In questi quattro ternari pone l'autore una bella finzione, 
+come apparr@a ne la sua allegorica esposizione; e fa prima lo lettore 
+attento, dicendo: ^Aguzza ben, Lettor, qui li occhi~; cio@e de la 
+mente; la ragione e lo intelletto, ^al vero~; cio@e a la verit@a ch'io 
+ti mostro sotto figura: ^Ch@e il velo~; cio@e lo coprimento di questa 
+finzione, ^@e ora ben tanto sottile~; cio@e @e s@i trasparente, che 
+agevilmente si potr@a comprendere lo intelletto allegorico; e per@o 
+dice: ^che il trapassar dentro~; cio@e ad intendere quello che 
+significa, ^Certo~; cio@e certamente, ^@e leggero~; e cus@i permette 
+agevilessa.  ^Io viddi~; cio@e io Dante: ecco che pone la sua finzione, 
+^quello esercito gentile~; cio@e di quelli signori che erano ne la 
+valle, ^Tacito~; perch@e avea finito l'inno ditto di sopra, ^poscia~; 
+che ebbe cantato, ^riguadare in sue~; cio@e in verso lo cielo unde 
+aspettava l'aiuto, come dice lo Salmista: ^Levavi oculos meos in 
+montem, unde veniet auxilium mihi.  Quasi ammirando~; cio@e 
+meravilliandosi di quello che vedea; cio@e del soccorso che aspettava 
+che non ven@ia s@i tosto, ^pallido~; perch@e avea paura del serpente 
+che aspettava, ^et umile~: imper@o che con umile cuore dimandava 
+soccorso e l'aiuto di Dio.  ^E viddi uscir~; io Dante, ^de l'alto~; 
+cio@e di cielo, ^e scender giue~; a la valle, ^Du' Angeli con du' spade 
+affocate~; cio@e rovente di fuoco, ^Tronche e private de le punte sue~; 
+e per questo nota ch'erano spontate.  ^Verdi, come folliette pur mo~; 
+cio@e pure avale, ^nate~; le frondi, quando sono nate di fresco, sono 
+pi@u verdi che quando sono state, ^Erano in veste~; cio@e li ditti 
+angiuli erano vestiti di verde, ^che da verdi penne Percosse eran di 
+rieto~; cio@e le ditte vesti verdi erano percosse da l'ali verdi di 
+rieto, ^e ventilate~; cio@e dimenate e dibattute dal vento de le ditte 
+ali, che faceano li angiuli quando descendeano volando.  Veduto lo 
+testo, ora @e da vedere l'allegorica esposizione, intendendo quello che 
+l'autore @ae volsuto dimostrare per questo.  Come ditto @e, lo nostro 
+autore parlando di quelli del purgatorio, secondo la lettera; secondo 
+l'allegoria intende di quelli del mondo che sono in stato di 
+penitenzia, o in apparecchiamento d'essa; e perch@e, mentre che siamo 
+nel mondo, siamo tentati dal dimonio, dal mondo, e dalla carne, ecci 
+bisogno per guardarci de le tentazioni la grazia di Dio, sensa la quale 
+non ci potremmo da esse difendere; e per@o, poi che l'autore @ae finto 
+che per la notte approssimata si dipartiva lo Sole, che significa che 
+per lo peccato si parte la grazia, e noi continuamente pecchiamo, e 
+cos@i perdiamo la grazia, unde c'@e bisogno di dimandarla comunqua noi 
+pecchiamo; e per@o finse di sopra, che cantasseno l'inno: ^Te lucis~ 
+ec., nel quale si dimanda la grazia di Dio che ci guardi da le 
+tentazioni, a le quali non si pu@o resistere s'ella non v'@e.  E 
+perch@e siamo tentati in due modi; cio@e o di negligenzia lassando 
+quello che si d@e fare, cio@e li atti meritori; o di suggestione 
+inducendoci ai vizi e peccati et abbominevoli operazioni, per@o finge 
+l'autore che vegnano due angiuli dal cielo, che significano la grazia 
+di Dio la quale ci preservi e guardici da queste due tentazioni.  E 
+per@o finge di sotto che l'uno si pogna a guardia de la valle in sul 
+fianco ritto, per guardarci de la negligenzia; e l'altro in sul fianco 
+sinistro, per guardarci da la suggestione: finge che siano con spade 
+affocate e spuntate, per significare che ogni operazione di Dio @e con 
+smisurata carit@a, con iustizia e misericordia: lo fuoco significa la 
+carit@a: la spada tronca significa la iustizia co la misericordia.  
+Mandaci Dio la sua grazia per lo smisurato amore, ch'Elli creatore @ae 
+a noi sue creature, fatte da lui a sua imagine e similitudine; e 
+mandacela con iustizia: imper@o che ce ne fa degni co la grazia 
+preveniente, che ci fa dimandare la grazia illuminante et operante e 
+conservante; e mandacela con misericordia: imper@o che ce ne manda pi@u 
+abbondantemente che noi non meritiamo per lo nostro dimando.  Finge che 
+siano vestiti li angiuli di verde co l'ali verdi, per significare la 
+vigorosit@a de la grazia di Dio, che mai non viene meno a chi la sa 
+mantenere: la verdura significa la vigorosit@a.
+
+	|31-42.~  In questi quattro ternari lo nostro autore seguita la figura 
+incominciata di sopra, dicendo: ^L'un~; dei ditti due angiuli discesi 
+dal cielo, ^poco sovra noi~; cio@e un poco pi@u in sul fianco de la 
+valle che noi; cio@e Sordello, Virgilio et io Dante fussemo, ^a star si 
+venne~; per guardare la valle, come fa lo falcone quando sta in posta, 
+^E l'altro~; cio@e angiulo de' du' ditti di sopra, ^scese~; cio@e dal 
+cielo, ^all'opposita sponda~; cio@e all'altro fianco de la valle, 
+incontra a l'altro, ^S@i che la gente~; che aveano a guardare, ^in 
+mezzo si contenne~; cio@e dei ditti due angiuli s@i, che bene erano 
+guardati.  ^Ben discernea~; cio@e io Dante, ^in lor~; cio@e nei ditti 
+due angiuli, ^la testa bionda~; cio@e io potea ben vedere che 'l capo 
+loro era biondo; e questo finge, per mostrare la loro bellessa, ^Ma ne 
+le facce~; cio@e loro, ^l'occhio~; cio@e mio, dice Dante, ^si smarria~; 
+cio@e venia meno, che la vista non sofferia: tanto era lo splendore de 
+le loro facce; e per@o dice; ^Come virt@u~; cio@e dei sensi nostri 
+umani, ^che al troppo si confonda~: ogni nostra virt@u sensitiva 
+richiede l'obietto contemperato a s@e, altramente viene meno, come 
+veggiamo de la virt@u visiva che non sofferisce di vedere la rota del 
+Sole.  ^Ambo vengon del grembo di Maria, Disse Sordello~; cio@e a 
+Virgilio et a me Dante, che amburo quelli angiuli veniano da Cristo 
+nostro Signore che fu contenuto nel grembo de la Vergine Maria; et @e 
+colore che si chiama denominazione, quando la cosa che tiene si pone 
+per quella che @e tenuta; et anco si pu@o intendere che vegnano per 
+mezzo de la Vergine Maria, che sempre @e nostra avvocata dinanzi al suo 
+filliuolo.  ^a guardia de la valle~; ne la quale sono li sopra detti 
+signori, secondo la lettera; ma, secondo l'allegoria, a guardia di 
+quelli che sono nel mondo in stato di penitenzia e di umilt@a: imper@o 
+che la valle significa umilit@a, ^Per lo serpente~; questo serpente che 
+l'autore finge che vegna ad assalire quelli che sono ne la valle, come 
+dir@a di sotto, significa lo dimonio che viene a tentare coloro che 
+sono in stato di penitenzia, quando sente che la grazia di Dio sia 
+partita per alcuno peccato; e farebbe l'omo cadere in peccato co le sue 
+tentazioni, se l'omo non fusse preservato da la nuova grazia sopra 
+venuta; e per@o dice: ^che verr@a via via~; cio@e lo quale serpente 
+verr@a incontenente.  ^Ma io~; cio@e Dante, ^che non sapea per qual 
+calle~; cio@e per quale via dovesse venire questo serpente, ^Mi volsi 
+intorno~; per vedere, s'io lo vedesse, ^e stretto m'accostai Tutto 
+gelato~; per la paura del serpente, che avea udito nominare a Sordello, 
+^a le fidate spalle~; cio@e a Virgilio che significa la ragione.  E per 
+questo d@a ad intendere l'autore che molte sono le vie, per le quali lo 
+dimonio ci assalisce co le suoe tentazioni: tentazione @e quando lo 
+dimonio cerca in che peccato elli possa fare cadere l'omo; e quando 
+elli @a preso esperienzia de l'omo e vede che elli @e meno forte in uno 
+peccato che in uno altro, et elli li d@a la battallia battendoli li 
+mali pensieri, dandoli abilit@a et acconcessa a quel peccato, e 
+farebbelo cadere: tanto @e la forsa sua, se non fusse la grazia di Dio 
+che 'l difende.  E co la grazia di Dio conviene all'omo operare quello 
+che pu@o, per difendersi et accostarsi a la ragione, che grida sempre 
+contra ogni peccato e vizio, e non @a paura quando si sente 
+accompagnata co la grazia di Dio che la guarda.
+
+	|43-60.~  In questi sei ternari lo nostro autore finge come Sordello 
+guid@o lui e Virgilio giuso ne la valle tra li signori; e come ne 
+ricognove alquanti, dicendo cos@i: ^Sordello~; cio@e lo mantovano che 
+li avea menati a la valle dei signori, ^allora~; che li angiuli che 
+erano discesi di cielo a la guardia della valle per lo serpente, disse 
+a Virgilio et a Dante: ^Or~; questo vulgare ^or~ usiamo a confortare, 
+come ^deh~ a pregare, ^valichiamo omai~; cio@e giuso ne la valle, ^Tra 
+le grandi ombre~; cio@e tra li signori: per@o che tutti erano stati 
+signori nel mondo, che ditto @e di sopra, ^e parleremo ad esse~; quando 
+saremo con loro, ^Grazioso fi' lor vederte assai~; cio@e elli aranno 
+assai a grado di vederti.  ^Solo tre passi credo ch'io~; cio@e Dante, 
+^scendesse~; da la costa del monte gi@u ne la valle.  Questo finge 
+secondo la lettera, per mostrare quanto pi@u era bassa la valle, che la 
+costa del monte; ma secondo l'allegoria l'autore nostro ebbe altro 
+intendimento: imper@o che, come ditto @e, montare lo monte del 
+purgatorio significa in del nostro autore lo montamento che elli facea 
+all'altessa de la purit@a co la fatica de la penitenzia; a la quale 
+altessa sempre montava con tre passi; cio@e con la contrizione del 
+cuore, co la confessione de la bocca, e co la satisfazione dell'opera.  
+E questi tre passi avea sempre fatto in ogni specie di negligenzia, la 
+quale avea passato infine a quella de' signori che @e l'ultima, et anco 
+in quella @ae l'ultimo; ma perch@e non li era bisogno, che non avea 
+peccato in tale specie di negligenzia, per@o fatto similmente, 
+purgandosi con questi tre passi d'ogni macula di negligenzia commessa, 
+ora dice che scese, secondo lo suo credere, solamente tre passi, 
+perch@e lass@o le tre sopra dette cose che si richiedeno a la 
+perfezione de la penitenzia tanto, quanto elli pens@o di fingere di 
+parlamentare con quelli signori dei quali fa menzione nel testo: e 
+veramente fu descendere de l'altessa de la penitenzia, e per@o 
+aggiunge: ^E fui di sotto~; cio@e ne la valle, quanto a la lettera; ma, 
+quanto all'allegoria, s'intende, ^e fui di sotto~ da l'altessa de la 
+purit@a la quale acquistava co la fatica de la penitenzia, ^e viddi~; 
+cio@e io Dante, ^un~; di quelli signori, ^che mirava Pur me~; cio@e 
+Dante, ^come cognoscer me volesse~; cio@e che gi@a m'avea veduto.  
+^Tempo era gi@a che l'aire serenava~; cio@e faceva sereno come fa la 
+notte; e cos@i significa che gi@a era venuta la notte, ^Ma non s@i, che 
+tra li occhi suoi e ' miei~; cio@e di colui che mi volea cognoscere, e 
+di me Dante, ^Non dichiarasse~; cio@e lo sereno, ^ci@o che pria 
+serrava~; cio@e tenea ascoso; cio@e la cognoscenzia di me a lui, e la 
+cognoscenzia di lui a me; e nota, lettor, che sereno s'intende 
+chiaressa sensa Sole: imper@o che col Sole si chiama splendore.  ^Ver 
+me~; cio@e in verso di me, ^si fece~; cio@e venne verso me colui che 
+m'avea cognosciuto, ^et io~; cio@e Dante, ^ver lui me fei~; cio@e andai 
+in verso di lui.  ^Giudici Nin gentil~; ora l'autore finge che, 
+scrivendo questo canto e venendo a questo passo, in loda del nominato 
+elli volgesse lo suo parlare a lui e nominasselo, come detto @e di 
+sopra, et adiungesse, ^quanto mi piacque Quando te viddi non esser tra' 
+rei~; cio@e tra i dannati; ma coi salvati; cio@e quanta allegressa 
+n'ebbi, quasi dica, infinita.  ^Nullo bel salutar tra noi si tacque~; 
+ora ritorna l'autore a riferire quello che fe allora che si trov@o con 
+lui, dicendo che l'uno salut@o l'altro con quel saluto, che fanno 
+bell'e conveniente a le persone: allora @e bello lo salutare, quando @e 
+conveniente a la persona.  Questi che introduce l'autore in questo 
+luogo fu Visconti di Pisa Giudici Nino de l'iudicato di Gallura di 
+Sardigna; e fu molto gentile d'animo e di costumi, et ardito e 
+galliardo; e fu filliuolo, o vero nipote, di messer Ubaldo di Visconti 
+di Pisa, lo quale fu bellissimo e galliardissimo omo de la sua persona; 
+e fu lo primo che acquistasse in Sardigna.  Unde si conta di lui che, 
+quando venne l'imperadore Federigo a Pisa, lo detto messer Ubaldo 
+essendo in Pisa, venendo a ragionamento co lo imperadore de la 
+galliardia de l'Italiani e de' Tedeschi, lodando lo imperadore li 
+Tedeschi, e biasimando l'Italiani, messere Ubaldo disse che tre 
+Italiani voleano prendere a combattere con 100 Tedeschi.  E fermato lo 
+patto, messere Ubaldo mand@o per lo marchese di Monferrato e per 
+Scarpetta de li Ubaldini, li quali elli cognoscea galliardissimi omini, 
+et elli fu lo terzo, et intronno in sul campo in uno prato che si 
+chiama ora lo Ganghio del conte, da tre parti ciascuno di per s@e et 
+aspettonno cento Tedeschi scielti da lo imperadore di tutta la sua 
+gente, e combattenno con loro e vinseno li tre Italiani li cento 
+Tedeschi co le mazze ferrate: imper@o che come s'accostava lo Tedesco, 
+lo feriano co la mazza in sul capo et ad ogni colpo n'uccideano uno; e 
+volendo sapere lo imperadore chi erano stati li compagni, nol potette 
+sapere se non per nuovo modo, che mand@o una bella spada a messer 
+Ubaldo per dono, siccome al pi@u valente omo del mondo; et elli 
+noll'accett@o, anco disse che la mandasse al marchese.  E mandata al 
+marchese, similmente la rifiut@o e disse che la mandasse a quello delli 
+Ubaldini, o a messere Ubaldo che n'era pi@u degno di lui; e mandata a 
+quello delli Ubaldini, anco la rifiut@o e rimandolla a messere Ubaldo 
+et a lui rimase; e cos@i seppe lo imperadore chi erano stati tutti e 
+tre, et ebbeli molto cari et onorolli molto.  Questo Giudici Nino ebbe 
+per donna madonna Beatrice marchesotta da Esti, et ebbe di lei una 
+filliuola che ebbe nome madonna Gioanna, e fu donna di messere Riccardo 
+da Camino di Trivigi; e morto Giudici Nino, la ditta sua donna Beatrice 
+si rimarit@o a messer Azo de' Visconti da Melano.  E per questa donna 
+ebbeno li Visconti da Melano le case de le taverne di Pisa et altre 
+possessioni che sono in quello di Pisa, che funno di Giudici Nino: 
+imper@o che madonna Gioanna moritte inanti a madonna Beatrice sua madre 
+sensa filliuoli; unde l'eredit@a sua venne a la madre la quale ebbe 
+filliuoli di messere Azo di Melano, e cos@i cadde l'eredit@a ai 
+Visconti di Melano.  ^Poi dimand@o~; cio@e Giudici Nino a me Dante: 
+^Quant'@e, che tu~; cio@e Dante, ^venisti A pi@e del monte~; del 
+purgatorio, s'intende, ^per le lontane acque~; cio@e per lo mare 
+oceano, come finse di sopra l'autore al principio di questa cantica, 
+che l'angiulo portasse l'anime al purgatorio in su la nave?  E per 
+questo si mostra ch'elli credesse che Dante fusse morto.  ^Io dissi~; 
+cio@e Dante, ^a lui~; cio@e a Giudici Nino: ^Per entro i luoghi 
+tristi~; cio@e per lo inferno, ^Venni stamane~; cio@e stamane uscitti 
+de lo inferno in questo emisperio, intratovi de l'altro, come ditto @e 
+di sopra; e cos@i si nota che gi@a l'autore finge che sia stato un d@i 
+in purgatorio.  ^e sono in prima vita~; cio@e io Dante sono ancor vivo, 
+^Ancor che l'altra~; cio@e ben che l'altra vita; cio@e l'eterna, ^s@i 
+andando acquisti~.  E per questo dimostra l'autore che per la 
+composizione di questa comedia elli si sforzava d'acquistare vita 
+eterna, pilliando abominazione dei peccati e penitenzia dei commessi, e 
+dirizzandosi all'opere virtuose.
+
+	|61-84.~  In questi otto ternari lo nostro autore finge come Sordello 
+e Giudici Nino si meravillionno de la sua risposta; cio@e ch'elli fusse 
+col corpo; e come Giudici Nino li impone ch'elli lo raccomandi a la 
+filliuola che preghi per lui, dicendo cos@i: ^E come fu la mia risposta 
+udita~; cio@e poich@e Sordello e Giudici Nino ebbeno udito la risposta 
+di me Dante, ^Sordello et elli~; cio@e Giudici Nino, ^indietro si 
+ricolse~; cio@e si tironno a rieto, come chi si meravillia, ^Come gente 
+di subito smarrita~; cio@e levata del sentimento subitamente.  ^L'un a 
+Virgilio~; cio@e Sordello si volse a Virgilio, ^e l'altro~; cio@e 
+Giudici Nino, ^ad un si volse, Che sedea l@i~; cio@e in quil luogo, 
+^gridando: Su Currado~; cio@e sta su, ^Vien a veder~; cio@e quello, 
+^che Dio per grazia volse~; cio@e per singulare grazia @a volsuto 
+concedere a costui che co la carne sia venuto nel purgatorio.  Questa 
+@e conveniente finzione, secondo la lettera; ma allegoricamente si d@e 
+intendere, com'@e stato ditto di sopra, che singulare grazia di Dio @e 
+che Dante col suo ingegno fingesse s@i alto poema, come @e questo, e di 
+s@i alta materia.  Questo Currado fu marchese Currado Malaspina, del 
+quale si dir@a di sotto.  ^Poi volto~; cio@e Giudici Nino, ^a me~; 
+cio@e Dante: ^Per quel singular grado~; cio@e per quella singulare 
+grazia, ^Che tu d@ei~; cio@e che tu se' tenuto di rendere e di 
+ricognoscere, ^a colui, che si nasconde~; cio@e appiatta a noi omini, 
+^Lo suo primo perch@e~; cio@e la sua prima cagione, ^che non v'@e 
+guado~; cio@e che non vi si pu@o passare a comprenderla.  Iddio @e 
+prima cagione di tutti li movimenti corporali e spirituali e di tutte 
+le cose che si fanno; li angiuli, li cieli co le loro influenzie, li 
+omini, li dimoni sono cagione seconde de le cose che si fanno nel 
+mondo, come dice santo Agostino: ^Voluntas Dei est prima et summa causa 
+omnium corporalium et spiritualium motionum: nihil enim visibiliter aut 
+sensibiliter fit, quod non de illa invisibili, ac intelligibili aula 
+summi Imperatoris aut iubeatur, aut permittatur~, ec.; e Boezio in IV.  
+de la Filosofica Consolazione dice: ^Sive igitur famulantibus quibusdam 
+providentiae divinis spiritibus, fatum exerceatur, seu anima, seu tota 
+inserviente natura, seu coelestibus syderum motibus, seu angelica 
+virtute, seu daemonum varia solertia seu aliquibus eorum, seu omnibus 
+fatalis series texitur~.  E questa prima cagione Iddio la tiene in s@e, 
+sicch@e li omini nolla possano comprendere col suo ingegno, se Dio non 
+la rivelasse per la sua grazia.  E massimamente intende questo l'autore 
+nostro de le grazie date alli omini da Dio che non si pu@o vedere per 
+niuno, perch@e Iddio d@a pi@u grazia ad uno omo che non fa a uno altro; 
+e cos@i finge l'autore che Giudici Nino lo sconiuri per Dio, 
+descrivendolo per lo modo che ditto @e.  ^Quando serai~; cio@e io ti 
+prego, Dante, che, quando serai nel mondo; e per@o dice: ^di l@a da le 
+larghe onde~; cio@e di l@a da l'oceano, nell'altro emisperio: imper@o 
+che @ae finto che il purgatorio sia in isula ne l'oceano, 
+nell'emisperio opposito al nostro, come appare ditto di sopra, ^Di'~; 
+tu, Dante, ^a Giovanna mia~; cio@e alla filliuola, de la quale fu detto 
+di sopra, ^che per me chiami~; cio@e dimandi grazia per me a Dio, ^L@a 
+dove all'innocenti si risponde~; cio@e in quello luogo dove Iddio 
+esaudisce li preghi de' iusti: imper@o che li preghi dell'iniusti Dio 
+non esaudisce.  Lo luogo dove Dio risponde alli preghi de' iusti si @e 
+la Chiesa: imper@o che Cristo disse: ^Domus mea domus orationis 
+vocabitur~; e santo Agostino dice: ^Quia veri sacrificii extra 
+catholicam Ecclesiam non est locus~.  E non si d@e intendere questo 
+grossamente pur de la chiesa materiale, che @e di mura e di legname; ma 
+d@esi intendere che l'omo d@e pregare et offerire a Dio quello che 
+promette la santa Chiesa, e non altro.  Bene @e anco da attendere che 
+la chiesa materiale @e pi@u atto luogo a l'orazione che niuno altro: 
+imper@o che a quel fine @e costituto.  ^Non credo~; dice Giudici Nino a 
+Dante, perch@e non si meravilli ch'elli l'impone che lo raccomandi alla 
+filliuola e none a la moglie, ^che la sua madre~; cio@e Beatrice mia 
+donna, madre di Giovanna mia filliuola, ^pi@u m'ami~; cio@e me Gudici 
+Nino, ^Poscia che trasmut@o le bianche bende~; cio@e poi ch'ella si 
+rimarit@o a messer Galeasso Visconte, come ditto fu di sopra; et allora 
+^trasmut@o le bianche bende~, le quali portava prima quando era vedova, 
+^Le quai~; cio@e bende bianche, ^convien che misera ancor brami~; cio@e 
+convien che ancor desideri d'essersi stata vedova, come era innanti che 
+si maritasse.  E questo dice per lo malo stato ch'ella ar@a col secondo 
+marito; e questo pare che predichi innanti che avvegna, perch@e quando 
+l'autore finge che avesse questa visione, questo non era ancora 
+avvenuto; ma poi che ebbe a scrivere la sua visione, innanti che 
+scrivesse, avvenne; e per@o finge l'autore che Giudici Nino lo 
+pred@ica.  ^Per lei assai di lieve si comprende Quanto in femina foco 
+d'amor dura~: cio@e pogo, ^Se l'occhio~; cio@e se non si vede spesso la 
+cosa amata, ^e il tatto~; cio@e l'atto venereo, ^spesso noll'accende~; 
+cio@e il foco de l'amore lo quale tosto si spegne, se queste due cose 
+non vi sono.  ^No li far@a s@i bella sepultura~; questo si d@e 
+intendere quanto a la fama et a l'onore; cio@e che nolli ser@a s@i 
+onorevile a morire donna di messer Galeasso, come esser morta donna di 
+Giudici Nino; e per@o dice: ^La vipera~; cio@e lo biscione che @e 
+l'arme dei Visconti, ^che il Melanese accampa~; cio@e che quelli di 
+Melano tegnano per maggiore insegna, quando s'accampano in nessuno 
+luogo per cagione di guerra, ^Come avria fatto il gallo di Gallura~; 
+cio@e l'insegna del giudicato di Gallura che @e uno gallo.  E questo 
+dice, perch@e usansa @e che ai sepulcri de le signore si pogna l'arme 
+del marito o dipinta o scolpita; e questo finge l'autore, per mostrare 
+che era pi@u onorevile lo giudicato di Gallura che la signoria di 
+Melano, perch@e lo giudicato @e signoria ragionevile costituta da lo 
+imperadore e dal papa; e la signoria di Melano era allora violenta, 
+sensa iusto titolo.  ^Cos@i dicea~; Giudici Nino, ^segnato de la 
+stampa~; cio@e de la forma: la stampa @e una forma di ferro che, 
+percossa in sul conio, lassa la sua forma in esso; e qui intende 
+l'autore per la forma, ^Nel suo aspetto~; cio@e ne la sua apparenzia, 
+^di quel dritto zelo~; cio@e del diritto amore; cio@e questo dicea per 
+diritta carit@a ch'avea in verso la ditta Beatrice sua donna, non gi@a 
+per invidia: imper@o che nel purgatorio non pu@o essere se non virt@u; 
+come ne lo inferno non pu@o essere se non vizio; e per@o questo finge 
+l'autore, ^Che smisuratamente il core avvampa~; cio@e che sensa misura 
+incende lo cuore umano: la stampa di questo amore @e lo Spirito Santo, 
+che cagiona ogni diritto zelo ne le nostre menti.  Finita la prima 
+lezione del canto ottavo, seguita la secunda.
+	^Li occhi miei ghiotti~ ec.  In questa seconda lezione del canto 
+ottavo lo nostro autore finge l'avvenimento del serpente, e lo 
+combattimento de li angiuli con lui, e lo parlamento che ebbe con 
+messere Currado Malaspina marchese.  E dividesi questa lezione in 5 
+parti, perch@e prima finge come Virgilio lo dichiar@o de la 
+costellazione che vedea in cielo, e come Sordello mostra a Virgilio lo 
+serpente; ne la seconda parte finge come vidde l'avvenimento del 
+serpente, e lo combattimento de li angioli con lui, quine: ^Da quella 
+parte~ ec.; nella terza parte finge che lo marchese Currado lo dimandi 
+di novelle di Lunigiana, quive: ^L'ombra che s'era~ ec.; ne la quarta 
+finge l'avvicendevile parlamento ch'ebbe con lui, e la risposta ch'elli 
+fece al marchese in onore de la casa sua, quive: ^Oh! dissi lui~, ec.; 
+ne la quinta finge che 'l marchese li predicesse l'onore, che Dante 
+dovea ricevere da' suoi, quive: ^Et elli: Or va~, ec.  Divisa la 
+lezione, ora @e da vedere la lettera co l'esponizione litterali, 
+allegoriche e morali.
+
+	|85-96.~  In questi quattro ternari lo nostro autore finge come, 
+guardando in cielo, vidde tre stelle sallite u' erano state vedute da 
+lui la mattina le quattro; e come Virgilio lo dichiara di quelle; e 
+come Sordello mostra a Virgilio lo serpente, dicendo: ^Li occhi miei~; 
+cio@e di me Dante, ^ghiotti~; cio@e desiderosi di vedere lo cielo, 
+^andavan pur al Cielo~; cio@e a ragguardarlo, ^Pur l@a dove le stelle 
+son pi@u tarde~; cio@e al polo antartico, ^S@i come rota pi@u presso a 
+lo stelo~; cio@e al suo perno.  Fa qui similitudine che, come la rota 
+presso al perno @a pi@u tardo movimento che a la sua circunferenzia; 
+cos@i lo cielo presso al polo @a pi@u tardo movimento che di lungi: 
+imper@o che in tanto tempo fanno le stelle di lungi la sua grande 
+revoluzione, in quanto quelle stelle che sono presso fanno lo suo 
+picculo giro.  ^E il Duca mio~; cio@e Virgilio disse a me Dante: 
+^Filliuol, che lass@u~; cio@e in cielo, ^guarde?~  Dimanda Virgilio a 
+Dante quello che avvisa in cielo; unde Dante lie dichiara.  ^Et io~; 
+cio@e Dante, ^a lui~; cio@e a Virgilio dissi: ^A quelle tre facelle~; 
+cio@e stelle che risplendeno come fiaccule piccule ragguardando, ^Di 
+che il popul di qua~, cio@e questo che @e in questo emisperio, nel 
+quale finge che fusse allora, ^tutto quanto arde~; cio@e risplende.  
+Intendendo di quelli del purgatorio si d@e intendere che ardeno e 
+risplendeno de l'ardore de la carit@a che @anno perfetta, e de la 
+speranza che @anno certa; ma non anco riposata, e dei meriti de la fede 
+ch'ebbeno nel mondo; ma intendendo di quelli del mondo che entrano a la 
+penitenzia, @e vero che denno risplendere de le dette virt@u sensa le 
+quali niuno si pu@o salvare, et a quelle avere ardente desiderio et 
+essere in esse fervente.  Queste tre stelle, che l'autore finge vedere 
+presso al polo dell'altro emisperio montare suso, venutane la notte, 
+significano le tre virt@u teologiche; cio@e fede, speranza e carit@a, 
+le quali funno cognosciute dalli omini, poi che Cristo venne che le 
+manifest@o al mondo; imper@o che innansi viveano li omini secondo le 
+quattro virt@u cardinali; cio@e iustizia, prudenzia, fortessa e 
+temperansa, e con quelle si governavano.  E le sopra ditte tre nel 
+Vecchio Testamento da pochi funno cognosciute, e perci@o finge l'autore 
+che le quattro fusseno suso la mattina, che significa lo tempo passato 
+innanti; e le tre la sera, che significa lo tempo del Nuovo Testamento, 
+seguitato poi; e per@o finge che Virgilio, che significa la ragione, li 
+risponda dicendo cos@i: ^Ond'elli~; cio@e Virgilio, ^a me~; cio@e Dante 
+rispuose: ^Le quattro chiare stelle~; che significano le virt@u 
+cardinali, ^Che vedemmo staman~; questo appare nel primo canto di 
+questa cantica sudetta; et allegoricamente significa che funno innanti 
+cognosciute dalli omini, ^son di l@a basse~: per@o che @anno fatto la 
+sua revoluzione, quanto a la lettera; e secondo l'allegoria finge 
+questo, per mostrare che a quelli del mondo che sono in stato di 
+penitenzia, sono gi@a in abito le suprascritte quattro virt@u, e sono 
+meno in esercizio che le tre.  ^E queste son sallite~; cio@e le tre 
+teologiche virt@u, ^ov'eran quelle~; cio@e le quattro cardinali: 
+imper@o che sono in atto.  Quanto a la lettera @e verisimile finzione 
+che, se intorno al polo per alcuna distanzia fusseno in una parte 
+quattro stelle, e ne l'opposita fosseno le tre; quando le quattro 
+fusseno venute su, le tre serebbeno calate gi@u, e cos@i e converso.  
+Ma lo nostro autore finge questo, per mostrare allegoricamente quello 
+che ditto @e de le virt@u cardinali, che prima funno note alli omini 
+che le teologiche; e per@o finge quelle apparite la mattina e queste la 
+sera, perch@e la mattina @e innanti che la sera.  ^Com'ei~; cio@e 
+Virgilio, ^parlava~; a me Dante le parole ditte di sopra, ^Sordello a 
+s@e 'l trasse~; cio@e Virgilio, ^Dicendo~; cio@e a lui: ^Vedi l@a 'l 
+nostro avversaro~; cio@e lo serpente ditto di sopra, che significa lo 
+dimonio che assalisce li omini che sono nel mondo in stato di 
+penitenzia, che di quelli del purgatorio non si d@e intendere, che sono 
+finite le loro tentazioni; e per@o l'autore finge secondo la lettera 
+quello, che vuole che s'intenda secondo l'allegoria.  ^E drizz@o il 
+dito~; siccome fa chi dimostra, ^perch@e in l@a~; cio@e in verso quella 
+parte dove dimostrava, ^guatasse~; Virgilio.  Che l'autore finga che 
+Sordello dica a Virgilio che li angiuli venisseno da Cristo, per 
+scacciare lo serpente, et ora li dimostri l'avvenimento del serpente 
+non credo che sia sensa cagione; anco penso che Sordello abbia posto 
+nel suo Tesoro questa sentenzia, e per@o finge l'autore ch'elli sia lo 
+manifestatore e dimostratore.
+
+	|97-108.~  In questi quattro ternari lo nostro autore finge 
+l'apparimento del serpente, e la difensione delli angiuli che stavano a 
+le poste, dicendo cos@i: ^Da quella parte, onde non @a riparo La 
+picciola valletta~; finge che la valle ditta di sopra fosse piccula et 
+aperta da la parte di sotto, come sono le valli, ^era una biscia~; 
+cio@e uno serpente, ^Forse qual diede ad Eva il cibo amaro~; dice 
+dubitativamente che era quello che ingann@o Eva, la nostra prima madre, 
+che li fece mangiare lo pomo; e ^quale~ si d@e intendere posto o per 
+sustanzia, o per qualit@a: imper@o che facendo similitudine non arebbe 
+posto l'avverbio dubitativo, se non in uno di questi due modi.  E de 
+l'effige serpentina intende, non del dimonio: imper@o che quello fu lo 
+Lucifero, lo quale fu legato ne la passione di Cristo s@i, che di 
+quello l'autore non intese; ma delli altri dimoni che si diceno 
+pilliare la forma del serpente, perch@e vegnano sempre a tentare con 
+fraude.  ^Tra l'erba e i fior~; che erano nel prato descritto di sopra, 
+^venia la mala striscia~; cio@e quel serpente che andava strisciando, 
+quando si strissinava su per l'erbe, ^Volgendo ad or ad or la testa al 
+dosso, Leccando~; cio@e lo dosso suo, ^come bestia che si liscia~; 
+cio@e come fa la bestia, quando si pulisce il dosso co la lingua.  
+Questa finzione @e tutta allegorica, come fu ditto di sopra: questa 
+piccula valletta intese l'autore per questo mondo, nel quale si sta 
+poco, e per@o finge che sia piccula, o perch@e @e molto picculo a 
+rispetto del cielo; e finge che da la parte di sopra abbia riparo da 
+quella di sotto, non perch@e cos@i @e: ch@e dal cielo viene la grazia 
+che @e nostro riparo: da la parte di sotto che @e aperta, che significa 
+le cose terrene, viene lo serpente; cio@e la diabolica fraude a 
+tentarci et a ingannarci.  E forsi che quelli che viene ai santi omini 
+che sono in stato di penitenzia, come intende qui l'autore, @e di 
+maggiori come fu lo Locifero ai primi nostri padri; e viene tra l'erba 
+e tra i fiori: imper@o che sempre si ficca tra le sante e buone 
+operazioni; e viene leccandosi e lisciandosi: per@o che sempre entra 
+con apparenzia di bene per ingannare li santi omini, che altramente 
+nolli potrebbe ingannare; e da questo tentatore ci difende la grazia di 
+Dio, la quale come si muova per noi non si vede; ma bene si vede quando 
+ella @e mossa: imper@o che sentiamo in noi la resistenzia a la 
+tentazione.  E lo dimonio come sente la resistenzia fugge, perch@e si 
+vede vinto e sdegnoso, e superbo non pu@o patire la sua confusione; e 
+la grazia di Dio si ritorna a stare a le poste, a la guardia dei santi 
+omini, parimente quella che ci difende da la negligenzia del bene come 
+quella che ci difende dall'operatore del male; e per@o seguita: ^Io~; 
+cio@e Dante, ^nol viddi~; cio@e quello che dir@a di sotto, ^e per@o 
+dicer nol posso~; cio@e quello che seguita, ^Come mosser li astori 
+celestiali~; cio@e li due angiuli ditti di sopra, li quali come astori 
+stavano a le poste; non viddi io Dante come si mosseno, ^Ma viddi ben 
+poi l'un e l'altro mosso~; io Dante viddi bene che elli erano mossi.  
+^Sentendo fender l'aire a le verdi ali~; cio@e sentendo volare per 
+l'aire li angiuli che aveano l'ali verdi, come ditto fu di sopra, 
+^Fugg@i il serpente~; per paura di loro fuggitte lo serpente che venia, 
+^e li Angeli dier volta, Suso a le poste~; ove prima erano, ^rivolando 
+eguali~; cio@e tornando di pari: questo @e stato esposto di sopra.
+
+	|109-120.~  In questi quattro ternari lo nostro autore finge che lo 
+marchese Currado Malaspina li dimandasse novelle de le contrade suoe, 
+dicendo cos@i: ^L'ombra che s'era a Giudici raccolta~; cio@e l'anima 
+che s'era accostata a Giudici Nino, che era stata chiamata da lui; e 
+per@o dice: ^Quando chiam@o~; cio@e Giudici Nino e disse: ^Su Currado 
+--, per tutto quell'assalto~; cio@e del serpente ditto di sopra, ^Punto 
+non fu da me guardare sciolta~; cio@e non si lev@o da guardare me 
+Dante.  ^Se la lucerna~; cio@e lo lume; e per questo intende la grazia 
+di Dio illuminante, la quale menava lo ingegno di Dante a considerare 
+l'altessa di questa materia di questa comedia; e per@o dice: ^che ti 
+mena in alto~; cio@e in altessa infine ai cieli, e sopra i cieli infine 
+a Dio, ^Trovi nel tuo arbitrio~; cio@e ne la tua volont@a, nel tuo 
+iudicio, ^tanta cera~; cio@e tanto ingegno, ^Quanta @e mistiero~; cio@e 
+quanto bisogna, ^infine al sommo smalto~; cio@e in fine al summo cielo, 
+lo quale chiama smalto per similitudine eccessiva: imper@o che riluce 
+pi@u che ogni smalto: lo smalto di che si smalta l'ariento si fa di 
+vetro et @e molto relucente.  Ecco che marchese Currado Malaspina 
+sconiura Dante per quello che crede che li sia pi@u a grado; e finge la 
+grazia di Dio essere come suggello, e lo ingegno umano come cera; e 
+cos@i la grazia illuminante informa lo intelletto umano, come lo 
+suggello la cera.  ^Cominci@o elli~; cio@e marchese Currado: ^se 
+novella vera Di Valdimagra~; questa @e la contrada vicina a uno fiume 
+che @e termine di Toscana di verso ponente, che si chiama Magra, ^o di 
+parte vicina~; cio@e de la Lunigiana che @e vicina a Valdimagra: questa 
+Lunigiana @e detta da Luni, antica citt@a; ora @e disfatta e posta a la 
+marina incontra a Sarzana, e questa @e quella contrada che appo li 
+autori si chiama Umbria, ^Sai~; tu, Dante, ^dillo a me~; marchese 
+Currado, ^che gi@a grande l@a era~; questo dice: imper@o che fu dei 
+marchesi Malaspina.  ^Chiamato fui Currado Malaspina~; ecco che si 
+nomina, ^Non son l'antico~; per questo mostra che ve ne fusse uno 
+antico, nominato cos@i; ^ma di lui discesi~; cio@e da l'antico Currado. 
+ ^Ai miei~; cio@e consorti e sudditi, ^portai l'amor che qui raffina~; 
+cio@e la carit@a la quale in purgatorio @e maggiore che non @e nel 
+mondo: imper@o che nell'anima, separato dal corpo @e pi@u perfettamente 
+l'amore di Dio e del prossimo, che coniunta, se non quando fi' coniunta 
+col corpo glorificato; col quale coniunta, l'arae pi@u perfettamente 
+che separata.  Et @e da notare che la carit@a mai non viene meno ai 
+beati; ma s@i la fede: imper@o che sono certificati di quello ch'@anno 
+creduto, et anco la speransa viene meno: imper@o che ottegnano quello 
+che @anno desiderato; e per@o finge l'autore che Currado dica le 
+suprascritte parole, per mostrare la detta verit@a.
+
+	|121-132.~  In questi quattro ternari finge l'autore come elli 
+rispuose al marchese Currado, lodando la sua gente; e come lo marchese 
+afferma quello che Dante @ae ditto; e come Dante aggiunge al detto suo 
+con iuramento una grande loda, dicendo cos@i: ^Oh! dissi lui~; cio@e io 
+Dante dissi al marchese Currado, ^per li vostri paesi Giammai non fui~; 
+cio@e io Dante; e questo @e vero che, quando l'autore finge ch'avesse 
+questa fantasia, elli non v'era anco stato; ma quando questo scrisse, 
+s@i; et avea ricevuto dai marchesi Malaspina molto beneficio, e per@o 
+li loda e finge quello che seguita di sotto.  ^ma dove si dimora Per 
+tutta Europa~: Europa @e la tersa parte del mondo, quanto a 
+nominazione; ma secondo quantit@a, sarebbe la quarta: imper@o che Asia 
+sola @e tanto, quanto amburo; Affrica et Europa: e tiene Europa di 
+verso l'occidente da l'oceano in verso l'oriente, in fine al mare 
+Mediterraneo, che divide lei dall'Asia in verso settentrione co le 
+palude Meotide e col Tanai; e per larghessa dell'oceano settentrionale 
+in fine al mare Mediterraneo di verso mezzod@i; e per@o significa 
+l'autore che per tutta questa parte sia nota la fama dei marchesi, e 
+per@o dice: ^che non sian palesi~; cio@e li vostri paesi?  Ora 
+confermando lo marchese quello che Dante @ae ditto, dice cos@i: ^La 
+fama che la casa vostra onora, Grida~; cio@e publica e fa manifesto, ^i 
+signori~; cio@e che sono in Lunigiana e ne la vostra casa, ^e grida~; 
+cio@e publica e manifesta, ^la contrada~; cio@e la Lunigiana, ^S@i che 
+ne sa chi non vi fu ancora~; e per questo vuole dimostrare che, ben che 
+non vi sia stato, elli ne pu@o sapere quello ch'@e ditto di sopra.  E 
+perch@e l'autore vi fa una grande addizione, per@o l'afferma 
+coniurando, dicendo: ^Et io~; cio@e Dante, ^vi giuro~; ecco che con 
+ossecrazione afferma quello che d@e dire, pregando quello che pi@u 
+desidera, dicendo: ^se di sopra vada~; cio@e s'io vada al cielo, dove 
+desidero d'andare, ^Che vostra gente~; cio@e quelli di casa vostra, 
+^ornata non si fregia~; cio@e ella @e adornata; ma non di denari, n@e 
+di violenzia, come sono molti signori che sono nominati per molto 
+ricchi, dicendosi che elli @anno molti millioni di fiorini; e per molto 
+violenti, dicendosi che elli @anno sotto di s@e cotante cittadi prese 
+per forsa; la quale cosa non si pu@o dire de la vostra casa, e per@o 
+dice: ^non si fregia~; cio@e non s'adorna, ^Del pregio~; cio@e de la 
+loda, ^de la borsa~; cio@e d'avere molti denari, ^e de la spada~; cio@e 
+di violenzia, cio@e d'occupare la libert@a altrui per forsa di spada.  
+^Uso e natura~; dimostra che per natura ella sia virtuosa e per uso: 
+natura @e in du' modi; cio@e natura naturante, e questo @e Iddio; e 
+natura naturata, e questa @e le cose create.  Se intese l'autore di Dio 
+la sentenzia @e verissima: imper@o che ogni bene che noi abbiamo @e da 
+Dio; se intendiamo de la natura naturata, come credo che intendesse 
+l'autore, questa si @e una virt@u messa da Dio ne le cose creanti di 
+cose simili.  E per questo vuole dare ad intendere che li antichi di 
+questa casa Malaspina funno per la grazia di Dio virtuosi, et @anno 
+creato poi di s@e simillianti filliuoli; e cos@i la virt@u @e 
+connaturata in loro.  Appresso, l'uso e la consuetudine molto vale nel 
+nostro vivere, e per@o diventa l'omo virtuoso e vizioso, secondo 
+ch'elli s'avessa; e per@o bene disse vero lo Savio: ^A convictu 
+formantur mores~; e cus@i vuole dire che costoro avessati a le virt@u, 
+vivendo coi virtuosi, sono rimasi sempre virtuosi; e per@o dice; ^Uso~; 
+cio@e lo vivere coi virtuosi, et avvessarsi di picculo a le virt@u, ^e 
+natura~; cio@e la virt@u governativa e produttiva di simile a s@e, ^s@i 
+la privilegia~; cio@e dota la vostra gente e falla differente dalli 
+altri: privilegio @e privata legge, cosa data singularmente ad uno, o a 
+pi@u di grazia, e per@o privilegiare @e dare di grazia, e cos@i si d@e 
+intendere; cio@e di l@a di grazia s@i la virt@u a la vostra gente per 
+s@i fatto modo, ^Che, perch@e capo reo~; cio@e lo dominio del mondo, 
+che dovrebbe essere esemplo di virt@u che @e capo di male e di vizio, 
+^lo mondo torca~; cio@e faccia andare lo mondo per la via torta e non 
+per la via ritta; che elli intenda de le signorie del mondo, appare di 
+sotto nel canto XVI, ^Sola va ritta~; cio@e per la via de le virt@u 
+cammina la vostra gente sola dall'altre gentili case, e non seguita la 
+mala condotta dei signori altri del mondo, che danno malo esempio e 
+guastano lo mondo, ^e il mal cammin~; cio@e quello dei vizi, 
+^dispregia~; cio@e sola la vostra gente.  Questa @e grande loda de la 
+casa Malaspina, e possi verificare lo detto dell'autore, intendendo lo 
+suo parlare discretivo dei gentili omini e non delli altri; sicch@e 
+dicendo ^Sola~, s'intende sola la vostra gentile casa da tutte l'altre 
+gentili.
+
+	|133-139.~  In questi due ternari et uno versetto lo nostro autore 
+finge che 'l marchese Currado li pred@ica ch'elli ricevrebbe cortesia 
+da' marchesi Malaspina, e cos@i fu: imper@o che, poi che l'autore finge 
+che avesse questa fantasia, avvenne ch'elli and@o in Lunigiana e fu 
+molto onorato da' marchesi Malaspina; ma fu inanti che scrivesse questa 
+parte, e per@o finge che li sia detto innanti.  Dice adunqua cos@i: ^Et 
+elli~; cio@e lo marchese Currado disse a me Dante: ^Or va~; cio@e tu, 
+Dante, al tuo cammino, ^che il Sol non si ricorca Sette volte~; cio@e 
+non si riposer@a in Ariete, come fa ogni anno: per sette volte 
+s'intendeno sette anni: imper@o che ogni anni lo Sole si entra e sta in 
+ogni segno 30 giorni, come sono 30 gradi: imper@o che in ogni d@i 
+naturale; cio@e in 24 ore v'@ae uno grado, quando verso l'occidente e 
+quando verso l'oriente; bench@e sia rotato verso l'occidente, e ritorni 
+all'oriente; e dice corica, cio@e si riposa e sta; et @e questo verbo 
+transuntivo, e per seguire la transunzione, dice: ^nel letto~; parla 
+secondo lo vulgare, che dice che 'l Sole si leva e corica, et a levare 
+e coricare si richiede letto; ma quanto a la verit@a s'intende nel sito 
+e luogo, ^che il Montone~; questo @e quel segno dei 12 segni del 
+zodiaco che li Astrologi chiamano Aries, lo quale si dipinge in forma 
+di montone co le suoe stelle, che lo figurano che avvisi col capo volto 
+a rieto, quando dal lato ritto, e quando dal manco: imper@o che 'l Sole 
+da l'equinozio vernale infine a l'autunnale va per lo lato ritto del 
+zodiaco, et allora si dice Aries guardare dal lato ritto a rieto lo 
+Sole che si diparte da lui; e dall'autunnale in fine al vernale ritorna 
+lo Sole dal lato manco del zodiaco, et allora si dice Aries guardare a 
+rieto lo Sole che ritorna a lui dal lato manco.  Di questo segno 
+fingeno li Poeti questa finzione; che Giove gener@o Neifile d'una ninfa 
+filliuola di Caco e suore di Io, la quale Atamante re di Tebe ebbe per 
+mollie, de la quale ebbe due filliuoli; cio@e Frisso et Elle; lo primo 
+maschio, e lo secondo femmina.  E morta Neifile prese una altra donna; 
+cio@e Inoe filliuola di Cadmo, la quale come usansa @e de le matrigne, 
+ebbe in odio li filliastri intanto che li cacci@o di casa; li quali 
+partendosi di Grecia venneno al mare Mediterraneo che divide l'Europa 
+dall'Asia ad uno grande seno di mare nel quale @e l'isola Colco, et in 
+verso settentrione si stringe ad uno stretto che si chiama Eusino, e 
+poi pi@u in l@a si chiama Propontis; et in verso mezzo d@i si stringe 
+ad uno stretto che @e otto stadi, dove lo re Serse fece lo ponte per 
+passare d'Asia in Europa co l'esercito; e quive dove notava Leandro 
+quando passava di notte da Abido, che era in Europa, a Sesto all'amante 
+sua Ero che era in Asia.  Unde Giove apparve a questi suoi nepoti e 
+diede loro uno montone che avea lo vellio dall'oro, acci@o che con esso 
+passasseno lo mare; e montativi suso; cio@e Frisso da la parte 
+d'inanti, et Elle di rieto, quando funno in mezzo del passo, Elle non 
+si seppe tenere e cadde in mare et anneg@o, e per@o fu chiamato quello 
+mare lo mare Ellesponte.  E questa finzione feceno li Poeti, per 
+mostrare che Giove fusse iddio, come aveano finto; ma la verit@a fu che 
+prest@o loro, o vero don@o una galea armata che v'era per insegna lo 
+montone fatto ad oro.  E perch@e Elle ne cadde et anneg@o che non se ne 
+avviddeno, tornonno a rieto per vedere se la vedesseno e potessenla 
+campare, e per@o finseno che lo montone volse lo capo a rieto, per 
+vedere Elle quando anneg@o, e per@o lo dipingeno col capo a rieto; e 
+quando Frisso fu passato nell'isola di Colco, scortic@o lo ditto 
+montone et empiette lo cuoio di pallia e consecrolle a Marte nel tempio 
+suo.  E questo finseno, perch@e Frisso quello bello sendale del montone 
+dell'oro offerse nel tempio di Marte; e queste altre cose aggiunseno 
+che sono impossibili, per mostrare che fusse iddio; cio@e che Giove 
+prese lo corpo del montone e puoselo in cielo in quello forma nel 
+zodiaco; e per@o dice l'autore: ^Con tutti quattro pi@e cuopre et 
+inforca~: lo cerchio del Sole @e molto distante dal zodiaco; ma quando 
+@e nel suo stato l'Ariete, lo Sole nel suo cerchio, allora si dice 
+essere coperto dall'Ariete et inforcato, e questo non pu@o essere se 
+none una volta l'anno, e per@o per sette volte s'intendeno sette anni, 
+s@i ch'elli vuole dire che non passeranno sette anni, ^Che cotesta 
+cortese opinione~; cio@e che tu, Dante, @ai de la casa mia la quale fu 
+detta di sopra, ^Ti fie chiavata in mezzo de la testa~; cio@e fie 
+fermata nel tuo cerebro, dov'@e la sedia dello intelletto umano, ^Con 
+altri~, o vero, ^Con maggior chiovi~; cio@e con maggiore, o vero altra 
+fermessa, ^che d'altrui sermone~; cio@e che di parlare d'altrui: per@o 
+che il vedrai per effetto e per opera quello, che tu ne credi e che se 
+ne dice: ^Se corso di giudicio~; cio@e se lo corso de le costellazioni, 
+unde si pillia lo iudicio di quello che d@e venire da li Astrologi, 
+^non s'arresta~; cio@e non si ferma, sicch@e non compia lo suo effetto; 
+e cos@i dimostra che le influenzie del cielo possano essere impedite da 
+la volont@a di Dio.  E qui finisce lo canto ottavo, et incomincia lo 
+nono.
+

@@ -1,0 +1,869 @@
+	|Proemio.~  Compiuto di parlare Beatrice con la
+distinzione delli ordini delli angioli stette alquanto, poi
+cominci@o a solvere li dubbi ch'avea l'autore in cuore, li quali
+ella vide in quello intervallo di tempo in Dio, dove non @e alcuno
+secreto che ivi non sia palese; in la quale soluzione fae
+quattordici cose o tocca, le quali comprendeno lo presente
+capitolo.  La prima solve uno dubbio, se innanzi la creazione del
+mondo fae tempo, imperciocch@e questo ^innanzi~ porta differenzia
+di tempo.  La seconda se Dio cre@o di niente tutte le creature. 
+La terza se la creazione fue subita o per successione di tempo. 
+La quarta fa distinzione delle creature, intellettuali
+^simpliciter~, ed intelletto congiunto con corpo, e corpo
+^simpliciter.~  La quinta tratta come le creature intellettuali
+che hanno a muovere li corpi celesti furono insieme e in uno
+stante create e non per successione di tempo.  La sesta tocca
+come delli angioli caddeno per lo peccato, e lo soperchio furono
+conservati in grazia.  La settima tocca come @e essere disposto a
+grazia ed a meritorio. La ottava tocca dello intendere, del
+rammemorare e della voluntade delli angioli.  La nona tocca come
+certa scienzia del peccato l'aggrava.  La decima tocca come in
+diverse scienzie deve essere diverso lo modo del processo e
+speculativo.  La undecima tocca e palesa come ira di Dio nasce
+sopra quelli che in la Scrittura santa mancano.  La duodecima
+redargue li predetti, li quali si dilungano dalla evangelica
+Scrittura, e predicano favole a tortuoso o vanaglorioso fine.  La
+tredecima tocca del numero delli angeli.  La quattordicesima ed
+ultima cosa tocca come nelli angeli secondo natura @e lo amor
+divino, e come esso Dio permane cos@i in s@e come innanzi la
+creazione delle creature; e cos@i compie suo capitolo.
+
+	Alla prima si @e da sapere che 'l tempo secondo lo
+Filosofo, quinto ^Phisicorum~, si @e mensura di movimento, onde
+innanzi che movimento fosse, si @e impossibile ad essere tempo;
+movimento del quale sia misura tempo, non pu@o essere se non @e
+corpo, per lo Filosofo, quarto ^Phisicorum~, e cos@i innanzi che
+corpo fosse creato era impossibile ad essere tempo e cos@i dato
+che 'l mondo fosse creato come si toccher@a nella seconda cosa
+toccata in questo capitolo, seguitasi che innanzi quello ^nunc~
+in che fu creato, non fu tempo, con ci@o sia che creare si @e di
+nulla cosa pervenire in essere.  Per la qual cosa si @e da sapere
+che secondo lo Filosofo naturalmente non si pu@o fare di niente
+qualche cosa, imperquello che secondo natural corso in tale
+avvenimento non @e se non uno termine, cio@e la cosa fatta: ma lo
+termino di che ella si fae non vi @e, quando dice di niente; onde
+non si pu@o dare mezzo, e ^per consequens~ non si pu@o dare moto;
+se non moto, non tempo.  Onde, secondo naturale considerazione,
+bisognava che di qualche cosa fosse fatto, e cos@i assegnavano due
+termini, e ^per consequens~ mezzo, e ^per consequens~ moto al
+quale si seguiva per misura ^tempo~; e cos@i assegnando tempo
+innanzi tempo teneano lo mondo essere ^ab eterno.~  Contro la
+quale opinione si @e lo ^Genesis~, I: ^In principio creavit Deus
+coelum et terram~, ond'@e da tenere che 'l mondo fosse creato da
+Dio e cos@i fatto fu di mente, per la qual cosa non procedette
+alcuno tempo innanzi la creazione.  Or molte dubitazioni si fanno
+del principio del tempo, imperquello che @e dura ad intendere
+secondo considerazione naturale la creazione.  Altri domanda: Fu
+questo principio in tempo o in stanti?  se in tempo, adunque ora
+fue innanzi tempo, e cos@i fanno due tempi insieme che @e
+impossibile; se @e in stanti, adunque lo principio di questo fue
+fine d'uno altro, e cos@i era altro tempo; la quale durezza
+procede solo da quel difetto che diremo nella decima cosa,
+ch'elli non puonno intendere le cose se non per uno modo, che
+quella via in speculazione vogliono tenere in mensurare lo
+triangolo che @e in la considerazione d'alcuna vertude dell'anima. 
+Onde dato che 'l mondo sia prodotto di niente in qualche cosa,
+come non si pu@o pensare che a niente non segue moto n@e tempo,
+certo @e erroneo e fuora d'ogni ragionevile considerazione, e
+hanno a distinguere li modi secondo che si richiede alla materia
+considerata: e questo basti alla prima.
+
+	Alla seconda si @e da sapere ch'ello non @e impossibile che
+Dio producesse le cose in essere di niente, e puossi provare per
+molte ragioni; prima in alcuno effetto che faccia Dio: o non gli
+era nulla innanzi, o gli era qualche cosa, di che @e fatto tale
+effetto; s'ello non gli era nulla dunque avemo noi lo proposito
+nostro che Dio fe' le creature di niente; e s'ello gli era
+qualche cosa, io domander@o: quella chi fece?  E cos@i proceder@o, e
+cos@i o sar@a processo in infinito in le cagioni, o no.  Manifesto
+@e per lo Filosofo in secondo ^Methaphisicae~, che impossibile @e
+processo in infinito in le cagioni; adunque se non @e processo in
+infinito @e da pervenire in una cagione, che non presuppone alcuna
+cosa, la quale cagione pon pu@o essere che Dio; ch@e, s@i come prova
+Tommaso nel primo ^Contra Gentiles~, Dio non @e materia d'alcuna
+cosa, n@e non pu@o essere alcuna cosa da Dio ch'esso non ne sia
+cagione.  Adunque chiaro appare che in la produzione de' suoi
+effetti Dio non ha bisogno di materia preiacente, della quale
+elli faccia le creature: le creature pure sono, dunque furono
+prodotte di niente in essere.  E molte altre cagioni si
+potrebbono addurre in proposito, le quali chiaro appare per
+Tommaso nel preallegato libro ^Contra Gentiles~, in libro
+secondo, questione 16, e nella prima parte questione 45, articolo
+primo e secondo.
+
+	Alla terza cosa si @e da sapere che la creazione fue in
+istanti e subita e non per successione di tempo; e provasi. 
+Primo ogni creazione @e senza successione, perch@e la successione
+si @e moto d'uno termine in un altro, s@i come la generazione che
+si muove del luogo o forma ^a quo~, e vae ^ad quem~, la creazione
+non ha ^a quo~, adunqua non vi pu@o essere movimento, e ^per
+consequens~ n@e successione.  Ancora lo movimento, che @e per
+successione, passa per li mezzi di suoi estremi.  Non essere ed
+essere sono estremi della creazione, impossibile @e a trovar mezzo
+entro essi; se mezzo non gli @e, adunque n@e successione.  E molte
+altre ragioni che pertratta appieno Tommaso nel secondo ^Contra
+Gentiles~, questione 16.
+
+	A quarta cosa toccata in questo capitolo si @e da sapere
+s@i come dice Tommaso, secondo ^Contra Gentiles~, questione 45,
+nulla cosa mosse Dio nella produzione delle creature se non la
+sua bontade, la quale ello volle comunicare colle altre cose
+secondo uno modo d'assimilazione ad esso possibile ad essere; e
+per@o vogliendo che l'universo fosse perfetto, si fece a
+perfezione distinzione in le creature, imperquello che se tutte
+fosseno in uno grado non si potrebbe in quello solo dimostrare
+sua perfezione, com'ello prova nel preditto libro, questione 44. 
+E perci@o universalmente tutte le creature sono divise in tre
+gradi, cio@e intellettuali ^simpliciter~, e queste sono sovra i
+cieli; corporali ^simpliciter~, e queste sono circa lo centro del
+mondo, cio@e in le bassi regioni; intellettuali e corporali
+congiunte, e queste sono in quel mezzo.  Or s@i com'@e detto di
+sopra in li ordini delli angeli in ciascuna gerarch@ia si @e
+maggiore, mezzano e minore, delle intellettuali @e detto le
+gerarch@ie e li ordini, e questi sono li angeli.  Le corporali
+^simpliciter~, sono distinte in tre gradi.  Alcune sono in lo
+grado infimo s@i come li elementi ^simpliciter~, le pietre e li
+metalli; in lo grado mezzano sono li animali vegetativi
+^simpliciter~, come sono le erbe e li arbori; in lo grado supremo
+sono li animali sensitivi ^simpliciter~, cio@e li animali bruti. 
+In le creature che @e congiunta la intellettiva con la corporale,
+simile @e distinta per gradi che alcune intellettive substanzie
+sono congiunte con corpi, s@i come movitori, e queste sono le
+intelligenzie che moveno li cieli, le quali secondo Aristotile si
+@e l'anima del cielo, s@i com'ello prova in secondo ^De Coelo et
+Mundo~, e anche in libro ^Phisicorum~ prova come in li movitori e
+in li mossi si @e impossibile lo infinito processo, e cos@i
+conclude ch'elli @e da venire ad uno primo mosso, lo quale @e mosso
+da uno immobile; e cos@i in lo cielo che si muove si considerano
+due cose; l'una lo mosso, e questa @e lo corpo, l'altra lo motore,
+e questa @e la intelligenzia, e questa posizione si @e
+d'Aristotile.  Or @e questo corpo del cielo senza alcuna
+contrarietade in complessione.  Ancora nel suo movimento non @e
+contrarietade, e per@o lo Filosofo lo pone incorruttibile s@i in
+libro ^Phisicorum~, come ^De Coelo et Mundo.~  Ancora non @e
+organato, imperquello che le parti sono simili in natura e in
+essere.  Altre substanzie intellettive sono congiunte con li
+corpi, s@i come sua forma, e questa composizione si @e l'uomo, lo
+quale corpo umano @e composto di qualitadi contrarie, (e per@o si @e
+corruttibile) salvo che dopo la risurrezione li corpi, che
+saranno glorificati, seranno in tale disposizione da Dio fatti
+gloriosi, ch@e saranno incorruttibili ed eterni.  Puossi
+distinguere gradi nel cielo in questo modo: alcuno cielo @e che
+tutto splende, ed hae in ogni sua parte simile vertude, s@i come
+la nona spera un altro ne @e che ha per tutte le parti
+costellazioni, e in queste consiste la sua virtude, s@i come la
+ottava spera; altri ne sono che solo hanno in esso una stella, in
+la quale consiste sua vertude, s@i come li cieli de' pianeti, che
+@e solo una stella per cielo.  Similmente in li suoi movimenti @e
+diversitade, che uno ne @e che ha solo uno movimento sovra li suoi
+poli, e questa @e la nona spera: un altro ne @e che ne ha due cio@e
+l'uno sopra li poli della nona spera, l'altro sovra li proprii
+poli; lo terzo uno movimento che @e accesso e recesso per gradi X:
+quest'@e l'ottava spera, e tutti li predetti movimenti sono
+equidistanti al centro del mondo.  Li pianeti n'hanno ciascuno
+pi@u, s@i come appare in la ^Theorica planetarum~: alcuno l'ha
+dalla nona spera, e questo @e lo diurno; alcuno dalla ottava, e
+questo @e lo movimento delle loro auge; alcuni ne hanno dalli suoi
+deferenti, e alcuni n'hanno dalli sui epicicli, alcuno de' quali
+@e equidistante al centro del mondo, e alcuno varia che quando @e
+pi@u vicino al centro e quando gli @e pi@u remoto, per le quali
+varietadi si @e la varietade delle generazioni e delle corruzioni
+di questi inferiori elementali di sotto.  In l'uomo non si pu@o
+dare diversit@a di gradi per suoi naturali, che tutti sono simili
+e riceveno da simile forma suo essere, ma puotelisi ben dare
+gradi secondo li loro abiti che procedeno dalla complessione, e
+secondo le loro volontadi che procedeno dallo libero arbitrio:
+per@o che alcuni ne sono che sono abituati a speculazioni ed a
+scienzia, s@i come quelli che hanno carne molle, per lo Filosofo
+II, ^De Anima~; alcuni sono che sono abituati solo alle
+delettazioni sensitive, e questi s'imbestiano secondo che @e per
+lo Filosofo in libro ^Politicorum~; alcuni ne sono che
+partecipano della sensitiva e della speculativa, s@i che sono in
+mezzo grado tra quelli due estremi, e se sanno ragionevilemente
+tali abiti raddurre in atto, s@i sono dritti uomini e adatti a
+dritta poliz@ia, s@i come in lo primo libro ^Politicorum~ lo
+Filosofo notifica.  E cos@i ^similiter~ sono tre gradi in le
+volontadi che procedeno dallo libero arbitrio, alcuni sono
+volenti speculazione e scienzia, alcuni sono volenti a darsi pure
+alle sensualitadi, e alcuni sono volenti a darsi al mezzo vivere. 
+Or quanto lo grado @e pi@u nobile, ed ha pi@u resistenzia dalla
+complessione, tanto @e quella volontade pi@u da laudare; e cos@i per
+opposito quanto lo grado @e pi@u basso, e ha pi@u resistenzia dalla
+complessione, tanto quello grado di volontade pi@u s@i s'imbiasma,
+s@i come se uno di dura complessione, che naturalmente @e abituato
+alle sensitive cose, hae volontade di scienzia e speculazione, @e
+pi@u da laudare che se 'l fosse abituato in lo mezzo grado o in lo
+supremo; e cos@i se uno di molle complessione, che naturalmente @e
+abituato a scienzia e speculazione, hae volontade circa le
+delettazioni sensitive, @e pi@u da essere biasmato che uno che
+fosse abituato in lo mezzo grado o in lo infimo.  E la ragione si
+@e questa, che se l'usanza delle veneree cose @e fatta secondo
+ragione, e cos@i li cibi e 'l bevere, non @e peccato; imperquello
+dell'uso venereo si mantiene la spezia umana, del cibo e del poto
+si conserva lo individuo; ma quando inordinatamente vi si sono
+assunti, allora quello uso @e peccato.  E cos@i quando la volontade
+@e spinta dalla complessione in li gradi bassi, perch@e n'ha alcuna
+cagione, @e meno peccato che quando la complessione contraddice e
+per@o pure a cadere in li bassi gradi per volontade si @e pure
+peccato, imperquello che l'uomo hae libero arbitrio, come pi@u
+volte @e detto, s@i che pu@o resistere alla complessione.
+
+	Or li predetti gradi s@i di substanzie intellettuali
+^simpliciter~, come di intellettuali congiunte con corpo, come
+eziand@io di substanzie corporali ^simpliciter~, hanno di bontade
+pi@u e meno, com'@e detto.  E per@o tocca l'autore in lo presente
+capitolo che puro atto tiene la cima, cio@e maggior bontade; pura
+potenzia tiene la parte ima, cio@e pi@u bassa, cio@e la minor
+bontade; potenzia con atto, cio@e corpo con intellettuale
+congiunto, hae lo mezzo grado, e ci@o @e in bontade.  E dice ^atto
+puro~, cio@e che non @e in potenzia a diventare altra cosa, e per@o
+sono incorruttibili.  ^Pura potenzia~, cio@e che sempre @e acconcia
+a trasmutazione e per@o continuo genera nuova forma, e corrompe la
+precedente; ^potenzia con atto~, cio@e lo corpo umano, con la sua
+anima lo corpo trasmutabile e corruttibile e l'anima
+incorruttibile, e lo cielo, con la sua intelligenzia.
+
+	Alla quinta cosa toccata in questo capitolo si @e da
+sapere che dubitazione si fae se li angeli funno creati in quelli
+istanti, che fue le creature corporali, o funno creati innanzi
+per alcuno tempo; la quale dubitazione solve santo Tommaso nella
+prima parte, questione 61, articolo 3, e tiene che in quello
+istanti che funno create le altre creature, s@i funno creati li
+angioli, e questo adesso per ragioni naturali in questo modo li
+angioli e le creature corporali sono parti dello universo. 
+Adunque se l'uno fosse creato innanzi all'altro sarebbe difettiva
+la creazione dello universo, e non avrebbe sua perfezione, e
+quest'@e impossibile chi considera lo Creatore che @e sommo,
+perfetto, e sempre fae sue operazioni perfette, s@i com'@e scritto
+^Deuter.~ XXXII: ^Deus cujus perfecta sunt opera~ etc.; ancora
+^Genesis~, I: ^In principio creavit Deus Coelum et Terram: coelum,
+scilicet angelicam naturam; terram, scilicet creaturas
+corporeas~: s@i che tiene che in uno istanti fossono create tutte
+le creature.  Bene scrisse santo Jeronimo in una epistola ^ad
+Titum~, e dice: ^Sex milia nondum nostri temporis complentur
+annorum et quantas prius aeternitates quanta tempora quantas
+quoque seculorum origines fuisse arbitrandum, in quibus Angeli,
+Throni, Dominationes, caeterique ordines Deo servierunt.~  E santo
+Tommaso solve questa autoritade e dice nel preallegato libro, ^ad
+primum~: ^Hieronimus loquitur secundum sententiam doctorum
+graecorum, qui omnes hoc concorditer sentiunt quod angeli sunt
+ante mundum corporeum creati.~  E cos@i si pu@o concludere che
+probabile ragione li angeli e lo luogo dove furono creati, cio@e
+cielo empireo, s@i come si mostra nel seguente articolo della
+preditta quistione, furono creati insieme con altre creature,
+cio@e in uno istante.
+
+	Alla sesta si @e da sapere che li demonii peccorono adesso
+dopo lo istanti della sua creazione, e mostralo Tommaso nella
+prima parte, questione 63, articolo 6, in prima per autoritadi,
+poscia per ragioni; per autoritade ^Johannis~, VIII: ^Qui in
+veritate non stetit~ etc., ancora Augustino XI, ^De Civitate
+Dei~: ^Oportet ut hoc sic accipiamus quod in veritate fuerit sed
+non permanserit~ etc.; per ragione dice: s'elli non avessero
+adesso peccato dopo lo istanti della sua creazione, con ci@o
+ch'elli fusseno creati in grazia, e con ci@o sia che per uno atto
+meritorio elli vegnono a beatitudine seguirebbesi che non poscia
+avrebbero peccato.  Le autoritadi preditte diceno e affermano
+ch'elli pecconno, adunque fue necesso che adesso dopo l'istanti
+della sua creazione peccasseno.  Fue del peccato de' preditti
+demonii cagione Lucifero, il quale per superbia cadde, e non fue
+cagione del peccato delli altri per modo di costringerli a
+peccare, ma per modo di confortarli in la sua opinione, s@i come
+mostra Tommaso nella prima parte, questione 62, articolo 8, e
+cos@i com'ello fue cagione del peccato perch@e li altri se li
+sottomiseno contro lo Creatore, cos@i la giustizia di Dio mette
+quelli poscia che sottomessi se li sono, sotto sua podestade,
+onde Matteo, XXV: ^Ite maledicti in ignem eternum qui paratus est
+diabolo et angelis eius~ etc.  E santo Piero nella sua epistola,
+capitolo II: ^A quo quis superatus est huic servus aductus est~
+etc., che s@i come li altri credetteno alla suggestione di
+Lucifero e lascionnosi superare che li consent@i, cos@i adesso
+furon dalla giustizia di Dio sottomessi a Lucifero.  E che esso
+Lucifero li confortasse, e fesseli cadere seco, la visione dello
+Evangelista nello Apocalissi XII lo manifesta quando disse: ^Quia
+Draco traxit secum tertiam partem stellarum.~  E quelli angeli
+che non si lascionno a tale conforto ingannare, ma cognoscerono
+lo suo Creatore, a loro sovravvenne grazia, la quale li conferm@o
+in gloria e videno la divina essenzia quant'@e possibile a
+creatura, la quale visione li tiene sempre innamorati della
+essenzia di Dio che @e ^ipsa bonitas~, e da quella non si partiron
+ed @e impossibile che elli se ne partisseno, s@i come mostra
+Tommaso, prima parte, questione 62, articolo 8; e tocca l'autore
+circa questa cosa toccata in questo capitolo, che ricevere la
+grazia in li angeli fue meritorio.
+
+	La settima cosa pare scura imperquello che la grazia si @e
+lo intento o fine a che tende lo merito, e cos@i parrebbe che il
+principio fosse fine, ed ^e converso~ che non pare vero.  Alla
+quale dubitazione risponde santo Tommaso nella prima parte,
+questione 62, articolo 3, e dice che l'angelo ebbe grazia innanzi
+ch'elli fosse beato, per la quale grazia merit@o beatitudine; onde
+diremo che fosse la intenzione dell'autore che 'l ricevere grazia
+da Dio fue merito della beatitudine, nella quale essi sono per la
+sua visione, la quale @e tanta quanto piacque al Creatore di
+manifestarli.
+
+	 Alla ottava cosa si @e da sapere che li angeli, s@i com'@e
+detto di sopra, sono creature intellettuali, in le quali si @e
+intelletto e volontade, ma non simile al nostro, ch@e li angeli
+non intendeno per specie ch'elli traggano dalle cose, ma
+intendeno per specie che sono sue connaturali, s@i come mostra
+Tommaso, prima parte, questione 55, articolo 2; onde non
+intendeno componendo e dividendo come facciamo noi, n@e eziand@io
+per discorso raziocinando, s@i come appare, questione 58, articolo
+5.  E per@o dice l'autore togliendo questo vocabolo ^intelligere~
+che ello appar proprio alla possanza della nostra anima, che ello
+non @e in li angeli, salvo ^equivoce~, e per@o @e confusa la
+veritade quando per uno solo vocabolo s'intende cose diverse. 
+Ancora a confermare che 'l modo e lo intendere delli angioli @e
+diverso dal nostro, appare per Tommaso, prima parte, questione
+54, articolo 4, l@a dove mostra che in li angeli non @e intelletto
+agente n@e possibile, li quali sono nell'anima umana e per essi
+intende, con ci@o sia che in noi si @e ^aliquando~ che siamo in
+potenzia ad intendere s@i che non gli @e bisogno quella vertude che
+porti lo intelletto dall'uno termine all'altro; e cos@i segue che
+non hanno n@e intelletto passibile, n@e agente, salvo ^equivoce~,
+che s@i come lo intelletto passibile in potenzia, per lo agente
+diventa in atto, e questo ultimo termine @e detto intelletto, cos@i
+per le specie innate nelli angeli elli intendono ch'@e quello
+medesimo con questo ultimo termine.  Per la quale identitade
+questo vocabolo ^intelligere~ s'intende d'amendui ma non ad ogni
+persona, che alcuni lo vogliono intendere pure ^univoce~, contro
+li quali l'autore parla nel testo dicendo che la verit@a si
+confonde quaggi@u equivocando, e questo basti allo intendere. 
+Alla volontade si @e da sapere che s@i come dice Tommaso, prima
+parte, questione 59, articolo 1: ogni cosa procede dalla
+volontade di Dio, ed inclinano per appetito in buono fine o
+termine, ma diversamente secondo che sono diverse.  Elli @e alcune
+cose che inclinano in buono solo per una abitudine naturale senza
+altro cognoscimento, s@i come le piante e li corpi inanimati; le
+piante che avranno, al tempo dello esto, appetito d'umido; al
+tempo della primavera appetito d'alimento come letame ^etc.~; li
+inanimati, appetito di luogo, come li gravi in basso, li lievi in
+alto; la quale inclinazione in buono si @e appellata appetito
+naturale.  E alcune cose sono che inclinano in buono con alcuno
+cognoscimento ma non @e perci@o tanto che intendano quel termine
+come buono, ma hanno cognoscimento d'esso in singolare, e questi
+sono li animali sensitivi che cognosceno e dolce, bianco e
+dilettevole odore; e questa inclinazione in buono si @e appellata
+appetito sensitivo, che si diletta in questi beni singolari.  E
+alcune cose sono che inclinano in buono cognoscimento s@i perfetto
+che cognosceno quello termine per ragione essere buono, e questa
+inclinazione @e appellata volontade, la quale @e in li uomini che
+raziocinando intendeno.  Li angeli non intendeno ragionando n@e
+per discorso n@e componendo n@e dividendo, s@i com'@e detto; adunque
+volont@a non @e in essi.  E di questa cos@i fatta dice l'autore.  Ma
+s@i come essi angeli intendeno pi@u eccellentemente che li uomini,
+cos@i si dee intendere che in essi sia una inclinazione eccellente
+in bene, la qual sia in eccellenzia maggiore che quella
+inclinazione che @e in noi, e che @e appellata volontade, la quale
+se @e appellata volontade si @e ^equivoce~, con ci@o sia che questo
+vocabolo ^voluntas~ per questo modo importerebbe diverse cose. 
+Alla memoria si @e da sapere che memoria si @e possanza d'anima
+fondata in organo corporale, in li angeli non @e corpo s@i come
+mostra Tommaso, prima parte, questione 51, articolo 1, e perci@o
+quelle possanze, che hanno essere in li organi corporali non
+denno essere create in essi; e se non hanno memoria, n@e eziand@io
+lo rammemorare; e questo @e quello che dice l'autore nel testo. 
+Vero @e che santo Augustino pone essa memoria delli angeli in la
+mente, la quale posizione per Tommaso si @e evacuata, prima parte,
+questione 54, articolo 5, dove dice: ^Licet non possit eis
+competere secundum quod potest pars animae sensitivae~ etc.  E
+perci@o si pu@o concludere che altro non @e la deficienza dalle
+scole alla verit@a se non che sono manchevoli in vocaboli; che s@i
+come tali possanze sono in li angeli pi@u eccellenti, e non
+appunto in quelli termini che in l'uomo, cos@i dovrebbeno essere
+diversi li vocaboli: e questo s'intende quanto partiene a natura
+angelica ^absolute.~  Se si intende con alcune condizioni, cio@e
+poi che furono beati, allora diremo che li angeli in quanto
+veggiono Dio quant'@e possibile a loro e secondo sua natura e
+secondo grazia ^superinfusa~ in essi, ma @e non intendere anzi
+sono in ^scire~, che sanno e cognosceno quello essere lo sommo
+bene.  Ancora tale cognoscimento sorpassa ogni inclinazione in
+bene, che possa essere raziocinando, e per@o non @e volontade. 
+Ancora vedeno in Dio ed @e ogni cosa presente s@i lo passato come
+lo presente e come lo futuro, e per@o non ricordano, che 'l
+ricordare @e solo ^de praeteritis.~
+
+	Alla nona cosa toccata in questo capitolo, si @e da sapere
+che certa scienzia del peccato aggrava pi@u che essere ignorante
+d'esso peccato.  E la ragione si @e che in lo peccato s'attende
+due cose, l'una l'atto d'esso peccato, l'altra la inordinazione
+dell'animo del peccante; se lo peccato @e uno quello peccante che
+pi@u ser@a inordinato ad esso peccher@a pi@u; colui che ser@a
+ignorante che quello atto sia peccato, meno falla che colui che
+sae ch'elli @e peccato, per ci@o che potrebbe avvenire che s'elli
+lo sapesse se ne guarderebbe; ma colui che lo sae non ch'elli se
+ne guardi, ma per malizia lo vuole, e adoperalo.  Onde Tommaso
+^Prima Secundae~, questione 78, articolo 4, dice: ^Quanto motus
+peccati est magis proprius voluntati tantum peccatum gravius est
+certis operibus~ etc.; pi@u proprio di volontade si @e adoperarlo
+maliziosamente, che ignorantemente avvegna Dio che ignoranzia non
+escusa, e specialmente in quelle cose che siamo tenuti di sapere,
+s@i come li articoli della Fede e li sacramenti della Chiesa; e
+per@o dice Tommaso, ^Prima Secundae~, questione 76, articolo 2:
+^Homo tenetur scire illa sine quorum scientia non potest debitum
+actum rationem exercere; unde omnes tenentur scire communiter ea
+quae sunt fidei et universalia juris praecepta~ etc.  E per@o dice,
+come apparir@a nel testo, l'autore che non con poco disdegno si
+comporta quando la scrittura di Dio @e posposta o intesa
+tortamente.  E cos@i in proposito quelli dottori che hanno fatte
+invenzioni sopra la natura angelica ponendo quella ^in scriptis~
+e non hanno scritto lo vero, se l'hanno fatto a malizia e s'@enno
+scienti, hanno pi@u peccato che quelli che ignorando hanno creduto
+dire vero, avvegna che l'uno n@e l'altro @e approvato per l'autore
+vero.
+
+	Alla decima cosa si @e da sapere che s@i come @e diversa la
+scienzia, cos@i @e diverso l'effetto di quella o processo, ch'elli
+@e alcuna scienzia, che @e fondata in la ragione umana s@i come
+filosofia; e quella secondo raziocinazione umana procede da
+principii nelle conclusioni.  Altra scienzia @e che procede dalli
+principii sopranaturali e in alcune parti procede per simile modo
+ed in alcune procede per raziocinazione umana; e questa si @e
+teolog@ia.  Alcune scienzie sono che procedeno per demostrazioni
+necessarie, tolta tale necessit@a dalli suoi principii, s@i come
+arismetica e geometr@ia.  Altre ne sono che procedeno solo da
+conclusioni probabili s@i come rettorica.  Altre ne sono che solo
+da autorit@a hanno lo suo ordine, s@i come grammatica.  Altre
+scienzie sono che subalternate da un'altra scienzia, s@i come
+l'arte militare dalla civile.  Altre ne sono che sono
+subalternate da due scienzie, s@i come musica da arismetica e da
+filosofia naturale, e come l'astrolog@ia motiva da fisica e da
+geometr@ia ^etc.~  Or s@i come #e diverse le scienzie, cos@i @e
+ragionevile che 'l processo sia diverso, onde chi cercasse
+dimostrazione necessaria in teolog@ia circa li articoli della
+fede, lavorerebbe indarno; e cos@i in filosofia naturale chi
+procedesse per lo luogo d'autoritade, dove ragione si potesse
+mostrare, sarebbe vano lavoro: ^unde locus ab autoritate in
+naturali scientia infirmissimus est secundum Boetium.~  E la
+teolog@ia, con ci@o sia ch'ella @e scienzia revelata, tiene lo
+eccelso luogo, s@i come mostra Tommaso, prima parte, questione
+prima, articolo 2, dove dice: ^Unde sicut musica credit principia
+sibi tradita ab arismetrico, sic sacra Scriptura sive doctrina
+credit principia sibi revelata a Deo~ etc.  E questo @e quello
+sentieri di che dice l'autore, cio@e s@i come @e diversa la scienzia
+dee essere diverso lo processo; ma li mondani vogliono pur per
+uno modo filosofare e trovare la veritade e non accettano ragione
+alcuna se non ^ad sensum~, lo quale modo in filosofia @e proprio,
+ma in le altre @e diverso, che se in teolog@ia non fosse conceduto
+se non ^ad sensum~, tardi si verrebbe al vero.  Similemente in
+geometria che chi non tenesse linea essere longitudine senza
+latitudine, sarebbe devia dalli principii di quella arte, e chi
+pur le volesse vedere ^ad sensum~ non potrebbe, imperquello che
+longitudine senza latitudine non si potrebbe vedere ad occhio, e
+per@o secondo la diversit@a delle scienzie dee essere lo processo
+diverso.  E questo tocca l'autore circa la considerazione delli
+angeli, ch@e sono alcuni che non vogliono tenere essere in essi se
+non quello ch'elli consona essere ^ad sensum~; ora quanto questo
+@e diverso dal vero per quello che @e detto appare.
+
+	La undecima cosa, che @e toccata in lo presente capitolo,
+si @e quanto dispiace a Dio e come punisce quelli che non solo
+dispregiano la Scrittura santa, ma eziand@io la espognono
+tortuosamente, e questo brevemente appare per quello che @e detto
+di sopra, come li ignoranti che non intendeno e non pregiano la
+santa Scrittura quello ch'ella @e, non sono senza peccato, e come
+quelli, che maliziosamente la torceno, aggravano tale peccato,
+onde secondo pi@u e meno peccato si segue pi@u e meno pena, s@i come
+pi@u fiate @e ditto.
+
+	Alla duodecima si @e da sapere che l'autore redargue li
+predicanti moderni, li quali sono quelli che ignorano e
+dispregiano la santa evangelica dottrina, ed a malizioso intento
+la torceno, solo fabulando, e dicendo ciance, e trovando dubbii e
+cavillazioni, per li quali credeno dal volgo essere estimati
+sapientissimi, e solo a questo fine fanno tali invenzioni,
+pensando: poi, fatto di me buona opinione, io potr@o ingannare e
+menare queste pecorelle al mio volere: e che fanno questi? 
+lasciano l'Evangelo, com'@e detto, e pedeggiano nuove cose.
+
+	E il diavolo s@i sodduce tali predicanti ovvero il
+predicante che si racchiude nel gonfiato cappuccio, infino che le
+persone ridono di sue novelle, e spurgasi quasi dica: io sono una
+saputa persona.  Altri ne sono de' predicanti che vogliono
+mostrare di sapere non solo le scienzie che si praticano per le
+persone ma li corsi de' cieli e li movimenti delli pianeti, e
+fanno invenzioni nuove dicendo che la luna nella passione di
+Cristo ch'era XVa si venne ad interporsi linealmente al sole di
+subito; per la quale interposizione lo lume del sole non venne
+giuso, s@i che fue ecclissi alli Ispani, cio@e a quelli di Spagna,
+ed a quelli d'India e alli Giudei che stanno a questi due estremi
+per mezza regione, la quale posizione per lo modo ch'elli
+fabulando la profferano non communica con veritade.  In prima
+elli @e impossibile che la luna in uno istanti corresse IX segni;
+ancora @e impossibile che essendo la luna congiunta ^puntaliter~
+collo sole che ello fosse eclissi alli Ispani e alli Indi
+insieme, s@i come appare in capitolo ^De diversitate aspectus in
+eclipsis solis~ in li canoni Toletani; ond'@e fabuloso suo dire. 
+Vero @e che 'l fue nella passione di Cristo nostro Signore
+oscurazione di sole di tutte altre stelle non per interposizione
+di luna, ma miracolosamente, e volse Dio, per avrine pi@u gli
+occhi della mente a conoscere tale miracolo, farlo che fosse
+impossibile secondo corso naturale, il quale @e circa lo ecclissi
+quando la luna @e opposita.  Onde s@i fatte invenzioni non solo
+dannificano li auditori che perdeno tempo, ma eziandio minuisceno
+la fede e quella grazia, della quale lo principale padre non ha
+voluto essere scarso.  Per la quale colpa l'autore mette li
+predicanti cos@i fatti in compagn@ia di quello maledetto uccello
+che per superbia cadde di cielo al fondo dello abisso della
+terra.  E cos@i quello fine a che @e diretta la predicazione, cio@e
+in mantenere fede in lo popolo cristiano e in accenderla in
+quelli in chi fosse spenta, si cambia nelli moderni, che @e a
+vanagloria d'essere laudati e di ridere delle sue parole e
+d'avarizia di occupare quelle che possono s@i in modo di elimosina
+e s@i in modo di buffonar@ie, lo quale difetto corregger@a quelli
+per sua misericordia, ch'hae podere, a chi nulla possanza pu@o
+essere resistente.
+
+	Alla terzadecima cosa si @e da sapere che, s@i com'@e ditto,
+li ordini delli angioli sono nove, ma quanti angeli siano per
+ordine questo non si pu@o sapere, imperquello che noi ignoriamo li
+singolari atti, che per li angeli sono prodotti, s@i che
+raziocinando non lo potemo sapere eziandio per autoritadi,
+imperquello che quelli che hanno trattato di ci@o non li d@anno
+determinato numero, s@i come Daniel VII, disse ^milia milium
+ministrabunt ei~ etc.  Onde solo si pu@o t#orre di tale detto che
+grandissimo numero sono li angeli, per li quali lo benigno
+Creatore infinite operazioni fae nel mondo, esso sempre rimanendo
+uno ed eterno, s@i come la fede cattolica tiene; e questo tocca
+nella XIV ed ultima cosa del presente capitolo, compiendo in esso
+sua intenzione.
+
+	Veduto questo e quanto si pu@o breve la intenzione, si @e
+da esponere lo testo s@i com'@e fatto nelli precedenti, e nelli
+seguenti s@i si far@a di Dante.
+
+	|1-9.~  D@a esemplo a mostrare quanto stette Beatrice a
+guardare nel punto, e poi li cominci@o a parlare, e dice che
+quando lo Sole @e in Ariete e la Luna in Libra, e sono in
+l'orizzonte l'uno in lo contado orientale, e l'altro in lo
+occidentale, cotanto quanto elli stanno a cambiare emisperio e
+cambiare zenit, cotanto stette Beatrice, quasi a dire instanti, e
+dice, |li figli di Latona~, che ^fabulose~ furon Apollo e Diana,
+che poi furon lo sole e la luna, s@i com'@e detto nel XX capitolo
+dello Purgatorio.  |Montone~: cio@e sotto lo segno d'Ariete. 
+|Orizzonte~: Si @e quello circolo che divide lo cielo che si vede
+da quello che non si vede.  |Zona~: cio@e cintura, imperquello che
+esso circolo cinge lo cielo in mezzo sempre.  |Zenit~: Si @e
+quello punto che @e pi@u alto in lo emisperio superterraneo, che @e
+s@i some lo polo dell'orizon.  |Emisperio~: Si @e quello mezzo del
+cielo che si vede, cio@e superterraneo, l'altro mezzo del cielo si
+@e subterraneo.  |Tanto~: Qui fa la comparazione.  |Nel punto~:
+cio@e nella divinitade.
+
+	|10-11.~  Qui previene Beatrice alla domanda.
+
+	|12.~  Cio@e in la divinitade dove si vede tutto e secondo
+luogo e secondo tempo, e per@o Dio cognoscendo s@e medesimo
+cognosce tutte cose e in luogo ch'elle si possano avere.
+
+	|13-18.~  Qui tocca la cagione perch@e Dio fe' le creature
+escludendo che non s'accrescette per@o la divinit@a, ma per sua
+benivolenzia le cre@o acci@o che communicasse del suo splendore con
+esse.  |S'aperse~: ^Fiat lux et lux facta est~, ^Genesis~, I. 
+|Novi amor~: cio@e le creature nove.  |L'eterno amore~, cio@e la
+divinitade.
+
+	|19-21.~  Cio@e innanzi che Dio creasse le cose,
+intendendosi tempo non se li porrebbe appropriare pigrezza,
+perch@e secondo tempo non si pu@o intendere in Dio n@e |prima~ n@e
+|poscia~, che sono differenzie di tempo, ma che a noi, sia qual
+vuole nulla fae a proposito.  Qui mostra come tempo non preced@e
+alla creazione ma solo la sua eternit@a, nella quale non si pu@o
+assegnare tempo, n@e luogo, n@e alcuna cosa che la comprenda. 
+|Sovra quest'acque~: cio@e sovra queste creature.
+
+	|22.  Forma e materia~: cio@e che le produsse in essere e
+non in ^fieri.~  |Congiunte~: cio@e aggiunte, che se le avesse
+prodotte separate, sarebbe stata la creazione in ^fieri~ avvegna
+che altro non sarebbe ad intendere materia ^senza forma~ se non
+^contradditorie~ insieme, che @e impossibile imperquello che la
+forma di essere alle cose; se materia fosse forma, altro non
+sarebbe a dire, se non non essere ed essere insieme.  |E
+purette~: cio@e per creazione n@e non per generazione.
+
+	|23.  Che non avea~: A differenzia delle cose che per
+generazione vegnono in essere, in le quali o per mezzi e per
+difetto di cagione efficiente o materiale hanno difetto, s@i come
+appare nelli mostri.
+
+	|24.  Come d'arco tricordo~: Fassi archi ch'hanno tre
+corde e saettano insieme tre saette, e cos@i balestre che saettano
+tre bolcioni o quadrelli.  Cio@e queste tre cose, cio@e materia,
+forma e congiunto, uscirono ad essere per volont@a divina.
+
+	|25-30.~  Qui esemplifica come la creazione fue subita
+senza intervallo di tempo, e dice: s@i come non @e differenzia di
+tempo quando uno raggio sovravviene ad uno vetro o ad ambra o a
+cristallo, che senza successione di tempo gli appare, cos@i
+pervenne in esse la creazione senza alcuno intervallo da
+principio e a mezzo e a fine.  |Dal suo sire~: cio@e da Dio, e
+senza differenzia.
+
+	|31-33.~  Questo ordine e il reggimento dell'ordine fu
+creato insiememente alle sustanzie intellettuali ^simpliciter~, e
+corporali ^simpliciter~, e composte di intellettuali e corporali. 
+|E quelle furon~: cio@e pi@u nobili furon le intellettuali che
+hanno atto puro in creature.
+
+	|34.~  Queste sono le corporali, le quali in tali
+creature tenneno lo pi@u basso grado.  |Parte ima~: cio@e parte
+bassa.
+
+	|35.  Nel mezzo~: cio@e tra questi due estremi si tiene
+grado in nobilit@a le creature composite di intellettuale e di
+corporale natura.
+
+	|36.  Tal vime~: cio@e tal ligame o costringimento.  |Che
+giammai~: Deesi intendere secondo corso naturale, ma quello che
+di nulla le produsse in essere ha possanza a suo piacere di
+nichilarle.
+
+	|37-39.~  Secondo la epistola che scrisse ^ad Titum~, pi@u
+anni fue tra la creazione delle sustanzie intellettuali alla
+creazione delle corporali, la quale opinione si solve, com'@e
+detto e s@i come apparir@a.  |Secoli~: Secolo si @e cento anni,
+altri lo fa pi@u e altri meno.
+
+	|40-41.~  Cio@e in la Scrittura santa, ^Genesis~, I.
+
+	|43-45.~  Cio@e che imperfezione sarebbe stata nello
+universo se li motori fosseno creati e non quelli che si
+dovessono muovere.
+
+	|46-48.  Or sai tu dove~: cio@e la parte nobile delle
+creature in la cima cio@e in lo pi@u nobile luogo, che @e lo cielo
+empireo.  |E quando~: cio@e a principio e insieme quando dice: |S@i
+che spenti~, cio@e ora sono assolti tre dubbii che avevi, cio@e se
+tempo precedette alla creazione, secondo se di niente furono le
+creature, terzo se fue la creazione per successione o subita.
+
+	|49-51.~  Qui vuole notificare quanto tempo fue dalla
+creazione al cadere di Lucifero e delli suoi seguaci, e dice che
+numerando da uno infino a venti non si faria s@i tosto come dopo
+la creazione Lucifero e li suoi seguaci caddeno, cio@e dopo quello
+istanti in che furono creati.  Caddero perch@e pecconno e turbonno
+lo subietto delli elementi mondani, cio@e la terra, ch@e venneno a
+stare nel centro di quella.  Altra opinione @e che 'l testo dica. 
+{<Invece di questa chiosa nell'OTTIMO @e un tratto del Proemio
+laneo; ma questa chiosa tale e quale @e nel Commento d'altra
+lezione dell'OTTIMO presentata dal Torri di giunta al suo
+esemplare.  Quivi ai Codici lanei fu aggiunta da copista antico
+questo brano nato da una strana lettura del verso dantesco; dico
+strana, perch@e essendovi rima dovea facile accorgersi che non
+sonava, se pure per scorrezione o svista non siasi capito ^tenti~
+e interpretato ^tinti~: -- "N@e giugnieriesi numerando al tinti~,
+imperquello che in Fiorenza si fae tra garzon@i giovani uno giuoco
+di molta prestezza, che @e appellato ^giuoco al tinti~, e fassi in
+questo modo: Raunata la brigata di fanciulli, e elli si parteno
+in due parti tanti in numero l'una parte quando l'altra, e stanno
+al cerchio molto alzati e presti di fare suo dovere; dall'una
+parte s@i ha l'uno una palla o pela e tienla in mano e dice
+^tinti~; l'altro risponde ^tinti battinti~, lo terzo dice ^delle
+X fa XX~, lo quarto dice ^delle XX, XXI~, e l'altro dice, cio@e lo
+quinto: ^pigliala~, ^cotale~; e menziona quale li pare di tutta
+la brigata.  Allora quello, che l'hae, la gitta in terra e quello
+mentovato la piglia, tutti fuggeno, e questo la gitta drieto;
+s'ello non tocca nessuno, ello con sua brigata d@a cavalletto
+all'altra parte, e s'ello tocca, quell'altra parte d@a cavalletto
+a lui e a sua brigata.  Or perch@e subitamente elli, cio@e tali
+giuocatori, convegnono essere presti a pigliare la palla e a
+fuggire, che @e quasi istanti, si tolle l'autore per esempio quel
+giuoco, che s@i tosto come la natura angelica fue creata, parte di
+quella per superbia caddono, e parte funno fermi in buono
+proponimento e furono confermati, s@i che a simile in uno istante
+fue in tale brigata diverso movimento.  Or quale opinione abbia
+pi@u del vero non ci ha grande forza, poich@e lo intento non @e
+altro esemplo se non prestezza"> -- nota aggiunta da L.
+Scarabelli.}
+
+	|52.  L'altra rimase~: cio@e l'altra parte che non turb@o
+la terra.  |E cominci@o~: cio@e a laudare in canto melodioso
+ringraziando lo Creatore.
+
+	|53.  Con tanto diletto~: cio@e che non fanno
+violentemente tale adorazione ma con diletto, perch@e sono in
+amore di carit@a con lo suo creatore.
+
+	|54.~  Qui tocca che non possono peccare, imperquello che
+elli vedono Dio per essenzia tanto quanto @e possibile a creatura,
+e a sua natura, e oltra per la grazia a loro super infusa, e
+cognosceno quello essere sommo bene, e per@o @e impossibile che
+amor d'altro bene li torcesse l'animo, con ci@o sia che tutti i
+beni creati mancano rispetto al bene del Creatore ed @e questo
+^notum per se~, s@i che non ci ha bisogno autoritadi.
+
+	|55-57.~  Qui tocca come lo superbire di Lucifero fue
+principio del cadere delli demonii.  |Che tu vedesti~: cio@e
+quella di che @e fatta menzione nel XXXIV capitolo dello Inferno,
+che @e nel centro del mondo, dove naturalmente tutti li pesi si
+raunano.
+
+	|58-60.~  Cio@e questi angeli che tu vedi in queste
+circolazioni furono modesti, cio@e umili e non superbi, come
+mostra Tommaso ^Secunda Secundae~, questione 161, articolo 4, che
+modestia si @e ^pars humilitatis~, e s@i si ricognosceno essere
+creature e avere l'essere dalla bont@a del Creatore.
+
+	|61-63.~  Cio@e che per tal merito li sovravenne grazia,
+onde videno pi@u della essenzia divina che sua natura per s@e
+medesima non aggiunge, onde hanno piena e ferma volontade circa
+lo suo Creatore.
+
+	|64-66.~  Cio@e che lo essere disposto a ricevere grazia
+si gli @e merito s@i com'@e detto di sopra.
+
+	|70.~  Cio@e al mondo tra li filosofanti.
+
+	|72.  Che intende~: Chiaro @e ditto di sopra.
+
+	|75.  Equivocando~: Si @e quando uno vocabolo si pu@o
+intendere pi@u e diverse cose, come questo vocabolo ^cane~ che si
+pu@o intendere delli cani che latrano, e puossi intendere del
+pesce marino nome cane, e puossi intendere d'una stella del cielo
+nome cane {<Il Codice Riccardiano 1005 e il Sanese hanno qui
+queste parole: onde dice "un verso differenziale: ^Natat canis in
+ponto, latat extra, sed fulget in alto~"> -- nota aggiunta da L.
+Scarabelli}; onde chi formasse uno sillogismo in questo modo:
+ogni cane abbaia, questa stella si @e cane, dunque la stella
+abbaia, allora questo sillogismo peccherebbe in equivocazione,
+che 'l mezzo d'esso che @e cane, sia diverso essere, ed @e solo uno
+vocabolo.  Cos@i in proposito intende: ^rammemorare~ e ^volere~
+sono proprii in li uomini, ma in li angeli stanno per modo di
+^equivocazione~ s@i che la verit@a si confonde ci@o che per questi
+vocaboli circa gli angioli non pu@o essere a integritade
+manifestata.
+
+	|76-78.~  Cio@e questi angioli che tu vedi, da poi che
+furono confermati in grazia, non torseno viso, cio@e sempre hanno
+guardato al suo Creatore come denno.  |Da cui nulla~: cio@e dalla
+faccia di Dio in che si vede tutto e nulla li pu@o essere ascoso.
+
+	|79-81.~  Cio@e che obietto nuovo non potrebbe pervenire a
+sua vista, imperquello che, s@i come @e detto, in Dio si vede
+tutto, e per@o non bisogna, cio@e che rememorare si @e ^de
+praeteritis et non de praesentibus.~  |Per concetto~: Qui tocca
+l'attender lo modo del rammemorare che, s@i come dice lo Filosofo
+in libro ^De memoria et reminiscentia~, non @e altro che ridurre
+nella fantas@ia le specie visibili che la memoria per lo passato
+hae riposte; onde la memoria alluoga e ripone quelle specie
+visibili che 'l senso del viso li concepe.
+
+	|82-84.~  Cio@e in terra e nelle scole, dove si tratta di
+tale materia per quelli mali intelligenti, che riceveno
+decepzione dalla equivocazione predetta.  |Credendo~: Questi
+fallan meno.  |E non credendo~: Questi pi@u fallano che usano
+malizia.
+
+	|85.  Voi non andate~: cio@e voi mondani non andate per
+quello sentiero, che @e la via dritta a trovare lo vero delle
+scienzie.
+
+	|86-87.~  Cio@e voi non tenete prova se non quella che @e
+^ad sensum~, e quest'@e buona in filosofia naturale, ma non in
+teolog@ia.
+
+	|88-90.~  Cio@e ancor dispiace pi@u a Dio quando la
+Scrittura santa @e posposta, ed @e atteso ad altre scritture da
+quelli ch'essa dovrebbe ammaestrare.  |E quando @e torta~: cio@e
+quando usano tali pastori di profferire torta la scienzia
+evangelica, e dritta a sue giurisdizioni, e pure studiano in
+ampliare suo podere, e solo tendeno a questo fine d'essere
+signori in temporale.
+
+	|91-93.~  Cio@e se pensassono la umilit@a e le persecuzioni
+e li martirii che ebbeno e sofferseno quelli che seguinno le
+vestigia di Cristo benedetto, forse ch'elli avrebbono qualche
+ritenitiva a sua superbia e arroganzia di volere occupare a s@e, a
+tortuoso fine, la temporale monarchia.
+
+	|94.  Per apparer~: Acci@o che sia opinato santo e savio
+di lui.
+
+	|95-96.  Sue invenzioni~: Facendo scritti e trovando
+nuovi dubbii.  |E quelle son~: E in s@i fatta scrittura studiano,
+e lasciano lo santo Evangelio.
+
+	|97-99.  Un dice~: cio@e d'essi inventori.  |Che la luna~:
+cio@e corse in istanti nella passione di Cristo sei segni che per
+suo naturale corso li briga quattordici, e interposesi al sole, e
+per@o non venne lo lume giuso, o cos@i apparve lo sole oscurato.
+
+	|103-105.~  Cio@e innumerabile s@i fatte prediche e favole
+si predicano.  |Lapi e Bindi~: Sono nomi fiorentini s@i come a
+Vinegia Marco e Marino, e in Bologna Mucciolo e Nanne.
+
+	|106.  S@i che le pecorelle~: cio@e lo popolo che vae a
+tali predicazioni.
+
+	|108.~  Cio@e e sono s@i pecore che non cognoscono lo suo
+perdere di tempo, n@e non le scusa tale ignoranzia, ch@e l'uomo @e
+tenuto di sapere li articoli della fede e la Scrittura
+evangelica, nella quale essi si contegnono.
+
+	|109-111.  Non disse Cristo~ etc.: Ma disse: ^Ite et
+Praedicate Evangelium per totum orbem et ero vobiscum~; Matteo
+ultimo.
+
+	|112-114.~  Cio@e quello Evangelio fue tanto predicato
+dalli apostoli ch'elli acceseno la fede e contrastenno a ferri e
+a scudi e a lance; ^hoc est~; che solo la forza mondana li
+contrastava ma non con ragione.
+
+	|115-117.~  Cio@e li predicanti.
+
+	|118.  Ma tale uccel~: cio@e lo demonio.
+
+	|119-120.  Che se il volgo~: cio@e lo popolo.  |Non
+torrebbe~:  Perch@e non avrebbe fede in lui.  |Di che si confida~:
+Credendo fare opinione di s@e di scienzia e di santit@a.
+
+	|121-123.~  Cio@e per tale perdonanza @e cresciuta in lo
+mondo tanta stoltizia che purch@e promissioni d'essa si faccia
+ogni uomo corre l@a, n@e non guardano se colui che la d@a, hae
+giurisdizione di darla, n@e s'ello @e disposto a riceverla.
+
+	|124-126.~  Cio@e molti ghiottoni e asini che per fare
+schifagione di fatica si fanno eremiti e frati, e vanno
+insegnando e dando perdonanze togliendo e per uno modo e per un
+altro a chiunque buono, s@i che togliono moneta e altro ci@o che
+possono e d@anno moneta senza conio, cio@e perdonanze e indulgenzie
+non veraci.
+
+	|127-129.~  Qui torna a proposito dopo sua digressione.
+
+	|130-132.~  Cio@e l'angelica di che si parla, ed @e in s@i
+lontano numero che non si puote mai per alcuno sapere, n@e
+eziand@io nullo concetto creato @e che 'l possa comprendere.
+
+	|133-135.~  In Daniello, capitolo VII dove tocca nella
+sua visione questo punto.
+
+	|136-138.~  Cio@e Dio, il quale in ciascuno angelo manda
+splendore ed @e da tanti ritenuto quant'elli sono in numero.
+
+	|139-141.~  Da diversi diversamente @e ritenuto, ed esso
+permane uno e trino.
+
+	|142-145.  Vedi l'eccelso~: cio@e l'altitudine della sua
+virtude, lo quale illumina tanti e di tanta fatta fae operazioni. 
+|Uno manendo~: Chiaro appare che in esso non @e novitade per le
+creature che cos@i sta in s@e medesimo dopo la creazione come
+dinanzi.
+
+	|Nota~ {da L. Scarabelli trovata alla conclusione del
+canto}.  ^Il~ LANA ^comment@o lungamente nel Proemio questo Canto. 
+Il Compilatore dell'~OTTIMO ^cominci@o il suo Proemio con quella
+esposizione lanea, e continu@o a tutta la parte quarta; ma nomin@o
+come gi@a avvertii terza la seconda, quarta la terza, quinta la
+quarta, ommettendo qualche poco in fin di tutte.  Il resto di
+tutto quel laneo distribu@i come glossa ai v.~ 37, 49, 68, 70, 82,
+85, 88, 94, (e qui non rifer@i la ciancia de' Bergamaschi n@e
+quello di madonna Bona) ^e~ 130; ^cos@i che col Proemio laneo
+l'~OTTIMO ^vest@i di chiosa tutto il canto dantesco.  Ma il Torri
+dando di un ms. XL, 2 del Laurenziano un'altra filza di chiose ha
+supplito quasi sempre, senz'accorgersene, con quello altrettanto
+di laneo qual'@e questo riposto dopo il lungo Proemio; o per
+queste chiose stesse, o per parti di tolte dal Proemio; e cos@i
+tutto @e~ LANA. 

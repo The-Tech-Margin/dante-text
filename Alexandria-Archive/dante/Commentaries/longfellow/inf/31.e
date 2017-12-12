@@ -1,0 +1,211 @@
+	|1.~  This Canto describes the Plain of the Giants,
+between Malebolge and the mouth of the Infernal Pit.
+
+	|4. Iliad~, XVI.: "A Pelion ash, which Chiron gave to
+his (Achilles') father, cut from the top of Mount Pelion, to be
+the death of heroes."
+
+	Chaucer, ^Squieres Tale~: --
+
+     "And of Achilles for his queinte spere,
+     For he coude with it bothe hele and drere."
+
+And Shakespeare, in ^King Henry the Sixth~, V. i.: --
+
+     "Whose smile and frown, like to Achilles' spear,
+     Is able with the change to kill and cure."
+
+	|16.~  The battle of Roncesvalles,
+
+     "When Charlema$in with all his peerage fell
+     By Fontarabia."
+
+	|18.~  Archbishop Turpin, ^Chronicle~, XXIII., Rodd's
+Tr., thus describes the blowing or Orlando's horn: --
+
+     "He now blew a loud blast with his horn, to summon any
+     Christian concealed in the adjacent woods to his assistance,
+     or to recall his friends beyond the pass.  This horn was
+     endued with such power, that all other horns were split by
+     its sound; and it is said that Orlando at that time blew it
+     with such vehemence, that he burst the veins and nerves of
+     his neck.  The sound reached the king's ears, who lay
+     encamped in the valley still called by his name, about eight
+     miles from Ronceval, towards Gascony, being carried so far
+     by supernatural power.  Charles would have flown to his
+     succor, but was prevented by Ganalon, who, conscious of
+     Orlando's sufferings, insinuated it was usual with him to
+     sound his horn on light occasions. `He is, perhaps', said
+     he, `pursuing some wild beast, and the sound echoes through
+     the woods; it will be fruitless, therefore, to seek him.'  O
+     wicked traitor, deceitful as Judas!  What dost thou merit?"
+
+	Walter Scott in ^Marmion~, VI. 33, makes allusion to
+Orlando's horn: --
+
+     "O for a blast of that dread horn,
+     On Fontarabian echoes borne,
+       That to King Charles did come,
+     When Rowland brave, and Oliver,
+     And every paladin and peer,
+       On Roncesvalles died!"
+
+	Orlando's horn is one of the favorite fictions of old
+romance, and is surpassed in power only by that of Alexander,
+which took sixty men to blow it and could be heard at a distance
+of sixty miles!
+
+	|41.~  Montereggione is a picturesque old castle on an
+eminence near Siena.  Amp@ere, ^Vogage Dantesque~, 251, remarks:
+"This fortress, as the commentators say, was furnished with
+towers all round about, and had none in the centre.  In its
+present state it is still very faithfully described by the verse,
+
+     `Montereggion de torri si corona.'"
+
+	|59.~  This pine-cone of bronze, which is now in the
+gardens of the Vatican, was found in the mausoleum of Hadrian,
+and is supposed to have crowned its summit.  "I have looked
+daily", says Mrs. Kemble, ^Year of Consolation~, 152, "over the
+lonely, sunny gardens, open like the palace halls to me, where
+the widesweeping orange-walks end in some distant view of the sad
+and noble Campagna, where silver fountains call to each other
+through the silent, over-arching cloisters of dark and fragrant
+green, and where the huge bronze pine, by which Dante measured
+his great giant, yet stands in the midst of graceful vases and
+bass-reliefs wrought in former ages, and the more graceful
+blossoms blown within the very hour."
+
+	And Amp@ere, ^Voyage Dantesque~, 277, remarks: "Here
+Dante takes as a point of comparison an object of determinate
+size; the ^pigna~ is eleven feet high, the giant then must be
+seventy; it performs, in the description, the office of those
+figures which are placed near monuments to render it easier for
+the eye to measure their height."
+
+	Mr. Norton, ^Travel and Study in Italy~, 253, thus speaks
+of the same object: --
+
+     "This pine-cone, of bronze, was set originally upon the
+     summit of the Mausoleum of Hadrian.  After this imperial
+     sepulchre had undergone many evil fates, and as its 
+     ornaments were stripped one by one from it, the cone was 
+     in the sixth century taken down, and carried off to adorn 
+     a fountain, which had been constructed for the use of dusty 
+     and thirsty pilgrims, in a pillared enclosure, called the 
+     ^Paradiso~, in front of the old basilica of St. Peter.  
+     Here it remained for centuries; and when the old church gave 
+     way to the new, it was put where it now stands, useless and 
+     out of place, in the trim and formal gardens of the Papal 
+     palace."
+
+	And adds in a note: --
+
+     "At the present day it serves the bronze-workers of Rome as
+     a model for an inkstand, such as is seen in the shop windows
+     every winter, and is sold to travellers, few of whom know
+     the history and the poetry belonging to its original."
+
+	|67.~  "The gaping monotony of this jargon", says Leigh
+Hunt, "full of the vowel ^a~, is admirably suited to the mouth of
+the vast half-stupid speaker.  It is like a babble of the
+gigantic infancy of the world."
+
+	|77.~  Nimrod, the "mighty hunter before the Lord", who
+built the tower of Babel, which, according to the Italian popular
+tradition, was so high that whoever mounted to the top of it
+could hear the angels sing.
+
+	Cory, ^Ancient Fragments~, 51, gives this extract from
+the ^Sibylline Oracles~: --
+
+	"But when the judgments of the Almighty God Were ripe for
+execution, when the Tower Rose to the skies upon Assyria's plain,
+And all mankind one language only knew; A dread commission from
+on high was given To the fell whirlwinds, which with dire alarms
+Beat on the Tower, and to its lowest base Shook it convulsed.
+And now all intercourse, By some occult and overruling power,
+Ceased among men: by utterance they strove Perplexed and anxious
+to disclose their mind; But their lip failed them, and in lieu of
+words Produced a painful babbling sound: the place Was thence
+called Babel; by th' apostate crew Named from the event.  Then
+severed far away They sped uncertain into realms unknown; Thus
+kingdoms rose, and the glad world was filled."
+
+	|94. Odyssey~, XI., Buckley's Tr.:
+
+     "God-like Otus and far-famed Ephialtes; whom the faithful
+     earth nourished, the tallest and far the most beautiful, at
+     least after illustrious Orion.  For at nine years old they
+     were also nine cubits in width, and in height they were nine
+     fathoms.  Who even threatened the immortals that they would
+     set up a strife of impetuous war in Olympus.  They attempted
+     to place Ossa upon Olympus, and upon Ossa leafy Pelion, that
+     heaven might be accessible.  And they would have
+     accomplished it, if they had reached the measure of youth;
+     but the son of Jove, whom fair-haired Latona bore, destroyed
+     them both, before the down flowered under their temples and
+     thickened upon their cheeks with a flowering beard."
+
+	|98.~  The giant with a hundred hands.  ^Aeneid~, X.:
+"^Aegaeon~, who, they say, had a hundred arms and a hundred
+hands, and flashed fire from fifty mouths and breasts; when
+against the thunder-bolts of Jove he on so many equal bucklers
+clashed; unsheathed so many swords."
+
+	He is supposed to have been a famous pirate, and the
+fable of the hundred hands arose from the hundred sailors that
+manned his ship.
+
+	|100.~  The giant Antaeus is here unbound, because he
+had not been at "the mighty war" against the gods.
+
+	|115.~  The valley of the Bagrada, one of whose branches
+flows by Zama, the scene of Scipo's great victory over Hannibal,
+by which he gained his greatest renown and his title of
+Africanus.
+
+	Among the neighboring hills, according to Lucan,
+^Pharsalia~, IV., the giant Antaeus had his cave.  Speaking of
+Curio's voyage, he says: --
+
+      "To Afric's coast he cuts the foamy way,
+     Where low the once victorious Carthage lay.
+     There landing, to the well-known camp he hies,
+     Where from afar the distant seas he spies;
+     Where Bagrada's dull waves the sands divide,
+     And slowly downward roll their sluggish tide.
+     From thence he seeks the highest renowned by fame,
+     And hallowed by the great Cornelian name:
+     The rocks and hills which long, traditions say,
+     Where held by huge Antaeus' horrid sway.
+     .....
+     But greater deeds this rising mountain grace,
+     And Scipio's name ennobles much the place,
+     While, fixing here his famous camp, he calls
+     Fierce Hannibal from Rome's devoted walls.
+     As yet the mouldering works remain in view,
+     Where dreadful once the Latin eagles flew."
+
+	|124. Aeneid~, VI.: "Here too you might have seen
+Tityus, the foster-child of all-bearing earth, whose body is
+extended over nine whole acres; and a huge vulture, with her
+hooked beak, pecking at his immortal liver."  Also ^Odyssey~,
+XI., in similar words.
+
+	Typhoeus was a giant wih a hundred heads, like a
+dragon's who made war upon the gods as soon as he was born. He
+was the father of Geryon and Cerberus.
+
+	|132.~  The battle between Hercules and Antaeus is
+described by Lucan, ^Pharsalia~, IV.: --
+
+     "Bright in Olympic oil Alcides shone,
+     Antaeus with his mother's dust is strown,
+     And seeks her friendly force to aid his own."
+
+	|136.~  One of the leaning towers of Bologna, which
+Eustace, ^Classical Tour~, I. 167, thinks are "remarkable only
+for their unmeaning elevation and dangerous deviation from the
+perpendicular."
+

@@ -1,0 +1,189 @@
+	|1.~  DEUS VENERUNT: @e molto a proposito questo salmo a l'intention 
+del Poeta, come per il Landino.
+
+	|2.~  OR TRE OR QUATTRO: modo di dire finito per infinito; cos@i 
+Virgilio: <O terque quaterque beati>, e il Petrarca: <tre volte, 
+quattro e sei>.  SALMODIA: canto.
+
+	|10.~  MODICUM [ET] NON VIDEBITIS ME: dice il Poeta in nome di 
+Beatrice, cio@e della Chiesa, queste parole, perch@e avea oppenione il 
+Poeta che Bonifatio, ch'era alora papa, non fosse legitimo pontifice e 
+che la Chiesa vacasse, perch@e Bonifacio fu creato pontifice vivendo 
+Celestino, come ne l'Inferno vedemmo, e perci@o dice ^modicum et non 
+videbitis me~.
+
+	|12.~  MODICUM ET VOS VIDEBITIS ME, che intende quando fie fatto altro 
+pontifice.
+
+	|15.~  E 'L SAVIO, che @e Statio.
+
+	|22.~  COM'I' DEVEA, idest, secondo che richiedeva la riverenza ch'io 
+le portava.
+
+	|34.~  [CHE] 'L VASO, idest, la cuna e il fondo del carro, cio@e la 
+Chiesa.
+
+	|35-36.~  FU E NON @E, e ci@o dice per Bonifacio, come detto ho; e 
+Beatrice qui dechiara quello che ha voluto intendere in quelle parole 
+^modicum et non videbitis me~.  MA CHI N'HA COLPA, intende di 
+Bonifacio, CREDA CHE VENDETTA DI DIO NON TEME SUPPE: avea oppinione che 
+Bonifacio, non essendo legitimo papa e tenendo il vero in pregione e 
+per consequens essendo iscomunicato, non potesse celebrare; e perci@o 
+chiama l'ostia e il calice, che egli offerisce, ^suppe~: Esaias, 
+capitolo primo: <Ne offeratis ultra sacrificium frustra; incensum 
+abhominatio est mihi>.  E dice ^Dio non teme suppe~, idest, <per vostri 
+sacrificii non ritrarete Dio a piet@a, s@i che egli non faccia vendetta 
+sovra di te che del romper del vaso cagione sei stato>.  @E un pazzia 
+quello che di ^suppe~ conta il Landino.
+
+	|37-38.~  NON SAR@A TUTTO TEMPO SANZA REDE L'AGUGLIA.  Era stato al 
+tempo di Dante uno imperadore, del quale parl@o nel Purgatorio, 
+Alberto, e perch@e mai volse venir in Italia, il che il Poeta disiava 
+per esser rimesso in casa, egli l'ha per s@i da poco, che dice che 
+l'^aguglia~, cio@e l'imperio, che per segno porta l'aquila, ^non sar@a 
+tutto tempo~, idest, sempre, ^senza rede~, idest, senza erede, cio@e 
+verr@a un imperadore maschio.
+
+	|39.~  PER CHE DIVENNE MONSTRO E POSCIA PREDA, come nel capitolo di 
+sopra vedemmo.
+
+	|44.~  LA FUIA, idest, la foia e la rabbia e l'adulterio, ch'@e di 
+quella ^puttana~ che disse di sopra.
+
+	|46.~  BUIA: oscura.
+
+	|48.~  ATTUIA, idest, stoppa e serra.
+
+	|49.~  MA TOSTO FIEN LI FATTI LE NAIADE: avendo detto di Temi e di 
+Sfinge, dice ^le Naiade~, che erano, come refferisce Ovidio, ninfe che 
+solvevano gli enigmati di questi oracoli; onde gli Dii, di ci@o 
+indignati, mandorno negli animai e nelle biade di quelle contrade gran 
+mortalit@a; e perci@o Dante soggionger@a ^senza danno di pecore e di 
+biade~.
+
+	|50.~  ENIGMA vuol dir detto oscuro.
+
+	|53-54.~  A' VIVI DEL VIVER, dice a differenza di quegli che in cielo 
+eternamente vivono; CHE @E UN CORRERE A LA MORTE: de qui il Petrarca 
+disse:
+
+^	La vita fugge e non s'arresta un'ora~
+^	e la morte vien dietro a gran giornate.~
+
+	|57.~  CH'@E OR DUE VOLTE DERUBATA, l'una da lo 'mperadore, l'altra 
+dal re di Francia.
+
+	|58.~  QUALUNQUE: nota che ha usato questa voce, che per s@e sta, la 
+qual us@o il Petrarca appoggiata ad un'altra, et @e tenuta come per 
+regola ferma, ma usasi quell'altra <chiunque>, che da s@e si regge, 
+perch@e il Petrarca disse: <A qualunque animal alberga in terra>, e poi 
+<Chiunque alberga tra Carona e 'l monte>.  RUBBA QUELLA, come fece il 
+re di Francia, O QUELLA SCHIANTA, che fu lo 'mperadore.
+
+	|59.~  DI FATTO, a differenza di quello che con parole si fa.
+
+	|60.~  A L'USO SUO, acci@o che gli fosse in quella fatto sacrificio.
+
+	|61.~  PER MORDER QUELLA, il che fece Adamo, e fu men che rubbarla o 
+schiantarla.  IN PENA E IN DISIO, idest, in pena de disio, perch@e 
+quelli che sono al Limbo non sentono altra pena.
+
+	|62.~  ANIMA PRIMA: Adamo.
+
+	|63.~  COLUI, che fu ^Cristo~.
+
+	|67-68.~  E SE STATI NON FOSSERO ACQUA D'ELSA LI PENSIER VANI, idest, 
+se i pensier non fossero stati di quella potentia che @e l'acqua 
+d'Elsa, che fa pietra ci@o che tocca; e cos@i, <se i tuoi vani pensieri 
+non avessero s@i indurito la tua mente>;
+
+	|69.~  E IL PIACER LOR: di questi pensieri, cio@e non fossero stati, 
+PIRAMO ALLA GELSA, non fossero stati cagione di oscurar la tua mente, 
+come fu cagione Piramo di oscurar la gelsa, idest, se tu non avessi 
+indurata e oscurata la mente;
+
+	|71-72.~  LA GIUSTITIA DI DIO NE L'INTERDETTO CONOSCERESTI: tu 
+conosceresti che Iddio fece star Adam tanto tempo in pena per il morso; 
+e questa @e la giustitia per l'interdetto, idest, per averli interdetto 
+il mangiar di detto albero, idest, per averli sotto questo commandato 
+ubbidienza; e per ci@o dice ^moralmente~, perch@e non @e in effetto che 
+lo scacciasse e lo facesse patir tanto per il mangiar del pomo, ma 
+sotto questo s'intendea moralmente l'alegoria, perch@e egli fu 
+inobediente.
+
+	|74.~  FATTO DI PIETRA, che risponde a l'^acqua d'Elsa~, e IN PECCATO 
+TINTO, che si refferisce a Piramo.
+
+	|76.~  DIPINTO, che @e men che ^scritto~.
+
+	|78.~  CHE SI RECA 'L BORDON DI PALME CINTO: i peregrini che vanno al 
+Santo Sepulcro, in segno d'esservi stati, portano i lor bordoni tutti 
+coperti e tessuti di palme, e cos@i, acci@o che tu ancor porti segno 
+d'esser stato qui, voglio che abbi dipinto.
+
+	|79.~  E IO, intende Dante di s@e.
+
+	|82-83.~  VOSTRA PAROLA, che fu quando disse ^per singula cagion esser 
+eccelsa lei tanto e s@i travolta ne la cima~, che invero sono parole 
+difficili ad interpretare, e lui, come mostra ora, per difficili e non 
+intendibili l'ha poste.
+
+	|85.~  PERCH@E CONOSCHI: dice Beatrice che ella parla s@i oscuramente, 
+acci@o che egli conosca quanto male s'intende in queste nostre scole 
+essa Teologia; perch@e se tu, che sei qui presente a me, non puoi 
+intendere quello che io te dico, peggio essi m'intenderanno.
+
+	|88-89.~  E VEDI VOSTRA VIA DA LA DIVINA DISTAR COTANTO.  Questo dice 
+perch@e furon molti, tra ' quali @e l'Aquinate, che vogliono che 
+l'^Apocalipse~ si debba intendere cos@i alla lettera, ma altri vuol che 
+sotto allegoria s'intenda, la quale oppinione dice che @e la via 
+celeste, onde dice ^alber moralmente~.
+
+	|90.~  CHE PI@U ALTO FESTINA, che pi@u alto de tutti gli altri cieli 
+corre, che @e la nona spera.
+
+	|99.~  COLPA NE LA TUA VOGLIA, perch@e, essendo spenta la memoria per 
+Lete, @e segnal che tu desentisti.
+
+	|102.~  VIST[A], dice, avendo detto ^lu[m]e~.
+
+	|103-105.~  E PI@U CORUSCO, perch@e, essendo al mezzo cielo, ove, 
+essendo gionto, ha scacciata dall'aere ogni nebbia; E CON PI@U LENTI 
+PASSI, perch@e, quando il sole @e al mezzogiorno gionto, pare che pi@u 
+tardi camini che quando leva o cade, perch@e fa l'ombre picciole e sta 
+assai a farle grandi.  Ha descritto che 'l sole era al mezzogiorno, 
+acci@o che noi sappiamo che in sul mezzogiorno egli entr@o nel 
+Paradiso, s@i come in sul fare della notte entr@o nell'Inferno e in sul 
+far del d@i nel Purgatorio.  CHE, idest, il qual segno ^di merigge~ 
+secondo l'abitatione degli uomini si muta.
+
+	|109.~  OMBRA SMORTA, che di sopra disse che @e ove correa Lete.
+
+	|113.~  VEDER MI PARVE USCIR UNA FONTANA: dice che gli ^parve~, 
+perch@e non Eufrates e Tigri, ma Lete e Euno @e che d'una medesma 
+fonte, come quelli due, esce, de' quali Boetio: <Tigris et Eufrates uno 
+se fonte resolvunt>, e il Petrarca: <d'un medesmo fonte Eufrate e 
+Tigre>.
+
+	|114.~  E QUASI AMICI DI PARTIRSI PIGRI: gli amici, quando si parton 
+l'un da l'altro, per dolor di lasciar l'un l'altro, non sanno partir, e 
+vanno pigri e lenti per non lontanarsi troppo l'un da l'altro.
+
+	|115.~  O LUCE etc.: epiteti a la teologia convenientissimi.
+
+	|119.~  MATELDA: questa @e quella donna che prima trov@o sola coglier 
+fiori, posta per la vita attiva; e veramente ella al mondo fu donna 
+d'assai nella vita attiva, molto amica alla Santa Chiesa, e alla morte 
+sua lasci@o il Stato suo a quella, che oggi si chiama il Patrimonio.
+
+	|126.~  NELLI OCCHI, intendi, della mente.
+
+	|132.~  DISCHIUSA: mandata.
+
+	|135.~  DONNESCAMENTE, idest, gentilmente e non servilmente.
+
+	|141.~  LO FREN DE L'ARTE, perch@e @e gionto al trigesimo tertio canto 
+e al fine.
+
+	|144.~  NOVELLA: ripiglia tre volte: ^novelle, rinovellate e 
+novella~: nota.

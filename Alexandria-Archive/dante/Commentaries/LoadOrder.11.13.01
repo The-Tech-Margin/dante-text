@@ -1,0 +1,90 @@
+\\
+\\ This file defines the load order for the DDP.
+\\
+\\ This file is read by the LoadAll script. Lines that begin with \\
+\\ are comments. Otherwise, there should be one line for the poem and
+\\ each commentary. Each line contains the following parameter:
+\\
+\\ COMM= specifies the name of the commentary directory.
+\\ LANG= specifies the language stopwords list(s) that should be used
+\\       for this commentary. Values are I, E, and L. Specify 1 to 3
+\\       letters, blank separated and quoted as needed.
+\\ FILES= specifies the data files to load, relative to the
+\\        commentary's staging directory. Blank=separated and quoted as
+\\        needed. Order is important.
+\\
+COMM=poem LANG=IL FILES="desc inf/inf purg/purg para/para"
+COMM=jacopo LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=graziolo LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=lana LANG=IL FILES="desc inf/abbr inf/proem inf/[0-3]*"
+COMM=lombardus LANG=IL FILES="desc purg/[0-3]*"
+COMM=guido LANG=LI FILES="desc inf/prolo inf/[0-3]*" 
+COMM=ottimo LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/Proem para/[0-3]*" 
+COMM=selmiano LANG=IL FILES="desc inf/[0-3]*" 
+COMM=pietro1 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=pietro2 LANG=IL FILES="desc inf/proem inf/[0-3]*" 
+COMM=pietro3 LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=cassinese LANG=LI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=ambrosiane LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=maramauro LANG=IL FILES="desc inf/[0-3]*"
+COMM=cagliaritane LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=boccaccio LANG=IL FILES="desc inf/access inf/[0-3]*"
+COMM=benvenuto LANG=LI FILES="desc comentum inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=buti LANG=IL FILES="desc inf/pro inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=vernon LANG=IL FILES="desc inf/pro inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=fiorentino LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=villani LANG=IL FILES="desc inf/[0-3]* 
+COMM=serravalle LANG=LI FILES="desc inf/pream inf/[0-3]* purg/pream purg/[0-3]* para/[0-3]*" 
+COMM=guiniforto LANG=IL FILES="desc inf/[0-3]*" 
+COMM=landino LANG=IL FILES="desc inf/ [0-3]"* 
+COMM=vellutello LANG=IL FILES="desc inf/proem inf/[0-3]* purg/[0-3]*" 
+COMM=giambullari LANG=IL FILES="desc inf/[0-3]*"
+COMM=gelli LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=varchi LANG=IL FILES="desc para/[0-3]*" 
+COMM=gabriele LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=daniello LANG=IL FILES="desc inf/vita inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=tasso LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=castelvetro LANG=IL FILES="desc inf/[0-3]*" 
+COMM=venturi LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=lombardi LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=portirelli LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=costa LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=rossetti LANG=IL FILES="desc inf/[0-3]*"
+COMM=tommaseo LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=andreoli LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+\\COMM=bennassuti LANG=IL FILES="desc inf/intro inf/[0-3]* purg/intro
+purg/[0-3]* para/intro para/[0-3]* para/appendix" 
+COMM=longfellow LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=disiena LANG=IL FILES="desc inf/[0-3]*" 
+COMM=bianchi LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=scartazzini LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=campi LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=berthier LANG=IL FILES="desc inf/intro inf/pro inf/[0-3]*" 
+COMM=poletto LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=oelsner LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=tozer LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=ruskin LANG=EI FILES="desc inf/proem inf/[0-3]* purg/proem purg/[0-3]* para/proem para/[0-3]*" 
+COMM=carroll LANG=EI FILES="desc inf/intro inf/[0-3]* purg/intro purg/[0-3]* para/intro para/[0-3]*" 
+COMM=torraca LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=grandgent LANG=EI FILES="desc inf/intro inf/[0-3]* purg/intro purg/[0-3]* para/[0-3]*"
+COMM=mestica LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=casini LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=steiner LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=dellungo LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=vandelli LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=grabher LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=trucchi LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+\\COMM=provenzal LANG=IL FILES="desc" 
+COMM=pietrobono LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=momigliano LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=porena LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/proem para/[0-3]*"
+COMM=sapegno LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=mattalia LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=chimenz LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=fallani LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=padoan LANG=IL FILES="desc inf/0*" 
+COMM=giacalone LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=singleton LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=bosco LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*" 
+COMM=pasquini LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+

@@ -1,0 +1,834 @@
+	|SUMMARIUM.~  CANTUS SEPTIMUS, ^in quo ponitur Plutum
+daemonem ad custodiam spirituum qui sunt in quarto circulo, qui
+fuerunt avari, revolventes pondera cum pectore, sub titulo
+multorum proelatorum; et in fine aliquantulum de fortuna.~
+
+	|Proemio.~  ^Pape sathan.~  Postquam in superiori
+capitulo proxime praecedenti autor noster tractavit de poena
+gulosorum qui puniuntur in tertio circulo Inferni, nunc
+consequenter in isto VII capitulo agit et tractat de poena
+avarorum et prodigorum qui puniuntur simul in quarto circulo, et
+de poena iracundorum et accidiosorum qui puniuntur in quinto
+circulo.  Et praesens capitulum potest dividi in V partes
+generales; in quarum prima describit custodem et dominum istius
+circuli.  In secunda tractat de poena avarorum et prodigorum in
+generali, ibi: ^Ah iusticia.~  In tertia ostendit in quibus
+principaliter et generaliter vigeant ista duo vicia, neminem
+particulariter nominando, ibi: ^Et io ch'avea il cor quasi
+compunto.~  In quarta facit unam digressionem in qua tractat de
+fortuna, ibi: ^Maestro mio.~  In quinta et ultima tractat de poena
+iracundorum et accidiosorum qui puniuntur in quinto circulo, ibi:
+^Noi recedemo.~
+
+	|1-2.~  Ad primam dico quod autor primo describit dominum
+et custodem istius circuli, scilicet Plutonem.  Ad quod nota,
+antequam veniam ad expositionem literae, quod Pluto apud omnes
+poetas dicitur rex Inferni, et ponitur pro elemento terrae; et
+quia ex terra nascitur omnis opulentia divitiarum ex quibus
+nascitur avaricia, ideo autor per Plutonem regem terrenarum et
+mundanarum diviciarum repraesentat in generali universale vicium
+avaritiae.  Modo ad propositum autor fingit Plutonem clamare
+terribiliter viso autore vivo: |pape sathan, pape sathan aleph.~ 
+Hoc autem figurat quod Pluto videns hominem vivum in regno
+avariciae, idest non mortuum in vicio avariciae, venientem ad
+destructionem avariciae, non valens impedire eius iter, miratur,
+dolet et implorat auxilium alterius.  Quod miretur patet, quia
+dicit: |pape~, quod est adverbium admirantis.  Quod doleat patet,
+cum dicit: |aleph~, quod est adverbium dolentis; cum vero dicit:
+|sathan~, implorat auxilium alterius; nam sathan interpretatur
+princeps daemoniorum.  Dicit ergo: |Pluto cominci@o~, supple,
+clamare et dicere: |aleph, sathan sathan, pape pape~, idest ah,
+ah, dyabole, dyabole! quale monstrum est istud quod vivus homo
+videatur in loco isto!  Et nota quod apud hebraeos |aleph~ est
+prima litera alphabeti: Graeci vero dicunt ^alpha~; latini ^a~, et
+^ah~ aliquando est adverbium dolentis, et tunc debet aspirari, et
+ita capitur hic.  Et dicit, |con la voce chioccia~, idest rauca
+et aspera, quia cum indignatione et ira clamabat.  Aliqui tamen
+dicunt quod |aleph~ est vocabulum graecum, et tantum valet,
+quantum ^vide~; et secundum hoc autor videtur dicere quod Pluto
+ex admiratione coepit vocare Sathan et dicere: veni et vide rem
+mirabilem quae raro vel numquam accidit, et tunc dicetur |con la
+voce chioccia~, idest submissa. 
+
+	|3-6.~  |E quel.~  Hic autor ostendit quomodo Virgilius
+confortaverat ipsum, unde dicit: |e quel savio gentil~, idest
+nobilis Poeta Virgilius, qui quamvis esset l'abbiaignobilis
+genere fuit tamen nobilis scientia et virtute; vel |gentil~,
+idest paganus, |che tutto seppe~, quia Virgilius novit de omnibus
+scientiis aliquid, sicut et ipse Dantes; unde litera potest esse
+vera de generibus singulorum, et non de singulis generum.  Autor
+tamen loquitur yperbolice, idest superlative: |disse per
+confortarmi,non ti noccia la tua paura~; hoc est clarum in primo
+capitulo, ubi autor ostendit se plus timere avariciam quam aliud
+vicium, et ibi assignavi causas; unde assignat causam quare non
+debeat timere, |che poder che l'abbia~, idest quamvis avaricia
+sit potens, adeo quod vincit sacerdotes et prophetas, tamen non
+poterit vincere te, |non ci torr@a lo scender questa roccia~,
+idest non eripiet nobis descensum ad istum circulum quartum. 
+Roccia enim, idest ripa, appellatur superficies scrupulosa rei
+sicut saxi, et bene dicit, quia de rei veritate autor non fuit
+avarus, imo istud vicium plus displicuit sibi quam caetera, et
+magis detestatur ipsum ubique, ideo audacter intrabit istum
+circulum, et ostendet istam pestem fore fugiendam.
+
+	|7.~  |Poi.~  Hic autor ostendit quomodo Virgilius
+quietaverit Plutonem dicens: |poi se rivolse a quella infiata
+labia~, idest ad superbiam Plutonis, quia opulentia diviciarum
+inflat; labia enim appellatur habilitas faciei apud Florentinos;
+unde nota quod sicut scribit philosophus II Rhetoricorum
+describens mores divitum, dicit quod divites inter alios malos
+mores habent hoc qui sunt elati, quia habendo divitias reputant
+se habere caetera bona, quia diviciae sunt quoddam praetium omnium
+aliorum; et adducit ibi dictum Symonidis poetae, qui scribit quod
+uxor Jeronis interrogata utrum esset melius fieri divitem quam
+sapientem, respondit: quod magis frequenter videbat sapientes
+frequentare ianuas divitum, quam e converso; vident ergo se
+divites abundare his, quibus indigent saepe etiam sapientes; sed
+certe divites indigent maioribus bonis quam sapientes; ideo bene
+alius philosophus dixit, quod medici visitant domos aegrotorum et
+non e contrario, et tamen non sequitur quod aegrotus sit melioris
+conditionis quam medicus; 
+
+	|8-9.~  et ecce quomodo contumeliose Virgilius alloquitur
+Plutonem: |e disse: taci maledetto lupo~; bene vocat avarum
+lupum, quia in primo capitulo vocaverat avariciam lupam; |consuma
+dentro te con la tua rabbia~, quasi dicat: rode te anxietate
+curarum tuarum quibus semper mordetur et consumitur avarus, ut
+statim dicitur.
+
+	|10-12.~  Et assignat Virgilius causam quare Dantes
+descendat ad Infernum, quia habet hoc ex gratia divina.  |L'andar
+al cupo~, idest descendere ad profundum Inferni de gradu in
+gradum, |non @ee senza cagione~, sed audi causam optimam, quia:
+|vuolsi cos@i col@a dove Michele fee la vendetta del superbo
+strupo~, quasi dicat: in coelo, unde tu et Lucifer superbus quem
+tu vocas in auxilium praecipitati fuistis.  Et hic nota quod autor
+appellat stuprum elationem sive violentiam quam Lucifer facere
+voluit, quia stuprum est defloratio alienae virginis incorruptae,
+ita iste, quantum in ipso fuit, voluit violare alienam lucem et
+gloriam incorruptibilem, quia voluit fieri similis Altissimo. 
+Nota etiam quod debuisset dicere |stupro~ sine ^r~ in principio
+et cum ^r~ in fine, sed contrarium fecit, quia sic vulgariter
+profertur, et propter consonantiam Rhitmi.
+
+	|13-15.~  |Quale.~  Hic autor ostendit confusionem
+Plutonis quando audivit exprobari sibi et suo maiori ruinam, et
+quod non poterat nocere autori qui veniebat munitus clipeo divinae
+gratiae contra eum; et dicit quod vana superbia eius cecidit ad
+terram per comparationem velorum deiectorum a vento.  Ordina sic
+literam.  |La fiera crudele~, scilicet avaricia, quia avarus
+facit stentum de se ipso, nam luxuriosus, gulosus et omnis
+peccans habet aliqualem delectationem de vicio suo; sed avarus
+non, nisi curam et laborem; |cadde tal a terra~, scilicet victa
+et confusa ex verbis Virgilii, |quale le vele gonfiate dal vento
+caggiono avvolte~, idest contracta non extensa, |poi che l'arbor
+fiacca~, idest postquam arbor navis frangitur.  Et nota quod
+comparatio est propria; nam pro vela inflata intelligit superbam
+gloriam quam habet avarus de sua possessione vanarum diviciarum,
+qua avarus non potest vincere virum virtuosum, sed vincitur ab
+eo; unde cupiditas numquam potuit penetrare, neque expugnare
+pectus munitum ipsius autoris.
+
+	|16-18.~  |Cos@i.~  Hic autor ostendit quomodo intraverunt
+circulum libere et sine impedimento, unde dicit: |cos@i~, sicut
+dictum est, quietato Plutone, |scendemo nella quarta lacca~,
+idest in quartum circulum.  Dicitur enim lacca, idest costa, ut
+patet VII capitulo Purgatorii, |pigliando pi@u de la dolente
+ripa~, quia descendimus magis inferius et cepimus plus de ripa
+Inferni quae est ripa doloris et continet plus poenae, unde dicit:
+|che 'l mal de l'universo tutto insacca~, idest quae ripa claudit
+et conservat intra se tamquam in sacco inclusa omnia mala et
+peccata mundi.  
+
+	|19-20.~  |Ah iusticia.~  Ista est secunda pars generalis
+in qua autor tractat de poena avarorum et prodigorum in generali;
+et quia poena est difficilis et quasi inexplicabilis, autor
+incipit ab exclamatione, dicens admirative: |Ah iusticia di Dio,
+chi stipa~, idest quis claudit et continet; ita ut litera legatur
+interrogative, |tante nuove travaglie e pene quant'io vidi~?
+quasi dicat durum est posse dicere quot et quae sunt poenae et curae:
+avarorum et prodigorum; vel dicas, |che~, idest quae iusticia Dei
+stipat, idest claudit; et est |stipa~ verbum literale et non
+vulgare Bononiensium, ut aliqui dicere voluerunt.
+
+	|21.~  Et petit causam huius iusticiae divinae dicens: |e
+nostra colpa~, quasi dicat et nos cur sumus in culpa, |ne scipa
+s@i~, idest ita vastat nos, et est scipa vulgare florentinum hic,
+non bononiensium.  Dicunt enim Florentini quod mulier est scipata
+quando peperit abortivum.
+
+	|22-24.~  |Come.~  Hic autor volens describere supplicium
+avarorum et prodigorum, praemittit unam comparationem
+propriissimam per quam ostendit qualitatem poenae eorum.  Ad
+intelligentiam comparationis est sciendum quod in finibus Italiae
+versus Orientem, scilicet inter Calabriam et Siciliam, est unum
+angustum brachium maris quod appellatur pharum Messanae, et est
+forte latitudinis trium miliariorum, ita quod stans in uno litore
+potest videri hominem stantem in litore alio.  Istud pharum est
+famosissimum, et describitur ab Homero et Virgilio et multis
+aliis; in eo enim sunt illa duo pericula formidata Scilla et
+Caribdis, de quibus dictum est: ^Incidit in Scillam cupiens
+vitare Caribdim.~  Est autem Scilla saxum undisonum procellosum. 
+Caribdis vero est gurges profundius in quo periclitantur saepe
+naves improvidae, quia mare currit ibi a Septentrione in Austrum
+et e converso, ita quod fluctus obvii et contrarii concutiuntur
+et colliduntur inter se cum magno fragore.  Modo ad propositum
+autor fingit quod a simili avari et prodigi concurrunt contra se
+cum magno clamore impellentes ante se gravia onera.  Nunc ad
+literam dicit autor: |cos@i conven che la gente~, scilicet
+avarorum et prodigorum, |riddi~, idest tripudiet et dancet,
+|qui~, idest in isto circulo; turpe tripudium est istud, |come fa
+l'onda~, idest aqua maris concurrens, |l@a sopra Cariddi~,
+scilicet in mari siculo, |che se frange con quella in cui
+s'incoppa~, scilicet cum aqua Scillae; ut videas quantum ista
+comparatio sit pulcra et artificiosa debes scire quod mons
+Apenninus, qui dividit totam Italiam per medium, olim continuabat
+Italiam Siciliae; sed impetus duorum marium tantum percussit
+montem hinc inde, quod aqua utriusque maris concurrit.  Mons ergo
+medius altus figurat virtutem liberalitatis quae est media duarum
+malitiarum extremarum, quam ista duo contraria maria avaricia et
+prodigalitas continuo impugnant, donec tollant de medio et
+destruant; quo facto, continuo concurrunt et se invicem
+concutiunt et collidunt, et bene avaritia figuratur per Caribdim,
+quae absorbet et ingurgitat aquas, et prodigalitas per Scillam per
+quam discurrit aqua cum ruina.
+
+	|25-27.~  |Qui.~  Hic autor explicat poenam praedictorum
+dicens: |Io vidi gente troppa pi@u qui ch'altrove~, quia maior est
+numerus avarorum, quam caeterorum peccatorum, |voltando pesi.~  Et
+hic notandum quod autor dat debitam poenam istis; nam per ista
+onera repraesentat nobis magna pondera laborum et curarum quae
+continuo premunt et gravant corpus et animum avari et prodigi;
+corpora enim non quiescunt dum continuo discurrunt per mare, per
+terram, per montes, per valles exponendo se omnibus periculis
+coeli, aquae, piratarum, latronum, et omnia incomoda tolerando,
+scilicet famem, sitim, algorem, calorem; et si forte corpus
+quiescat, numquam animus, imo semper secum luctatur.  Dicit
+avarus intra se ipsum: si vendis frumentum et carefiat, tu
+crepabis dolore: si non vendis et vilefiat, tu morieris dolore. 
+Nonne avari acquirunt cum labore, possident cum timore, perdunt
+cum dolore?  Bene Dyogenes proiecit sacculum pecuniae post furem,
+qui saepe de nocte tentaverat solicitus et tremens subtrahere
+illum de sub capite eius.  Quid prodigus? quali onere premitur
+cum deficit sibi ad expendendum? violenter rapit, clam furatur,
+mentitur, periurat, prodit, saepe vendit pudorem filiae, imo
+libertatem suam.  Certe Caius Galigula cum aerarium vacuasset
+prodigaliter et insane, constituit prostibulum in palacio, et
+imposuit vectigal meretricibus.  Vere ista sunt onera 
+importabilia et incredibilia inexpertis, et dicit: |per forza di
+poppa.~  In hoc tangit actum impellentis onus, quia cum pectore
+totus incumbens impellit; per hoc innuit quod in pectore stant
+ista pondera ubi est cor sub mamilla sinistra; unde tusco vulgari
+mamilla appellatur |poppa~, et dicit: |e d'una parte et altra~,
+quia scilicet a dextra stant prodigi, tanquam minus delinquentes;
+a sinistra vero avari.  Ad intelligendum autem modum istius poenae
+debes imaginari unum circulum rotundum, et in eius medio unam
+lineam rectam per longum ductam, quae aequaliter dividat ipsum
+circulum in duas partes.  Modo ex una parte stant prodigi
+currentes usque ad lineam mediam, sed nunquam attingunt illud
+medium signum; e contra ex alia parte pariter concurrunt avari
+impetuose, impausabiliter usque ad idem signum.  Hoc autem
+figurat quod neutri attingunt medium virtutis, scilicet
+liberalitatis, aut si attingunt interdum non persistunt in eo,
+imo celeriter retrofugiunt et recedunt.  Unde nota quod vicium
+liberalitatis est medium duarum malitiarum, scilicet avariciae et
+prodigalitatis.  Liberalis enim est qui dat ubi, quando, et quo
+oportet.  Avarus vero est qui detinet tenenda et non tenenda
+indifferenter.  Prodigus e contra dat danda et non danda
+indiscrete, et uterque nocet sibi et alteri quod nulli prodest. 
+Prodigus vero ita nocet sibi et alteri, quod tamen prodest
+aliquando alicui.  Nota etiam quod autor mirabiliter fingit ista
+duo vitia contraria puniri simul in eodem circulo et eodem
+supplicio, quia habent fieri circa idem medium et separantur ab
+eodem medio, et avaricia est magis insanabilis et plus nocet, ut
+iam dictum est, et probat philosophus Libro Ethicorum.  Ideo
+autor ponit prodigos a dextra, avaros a sinistra; et avaros magis
+detestatur, ut statim videbis in tertia parte generali.  Notandum
+est etiam quod ista duo vicia sunt maxime damnosa publicae
+utilitati.  Avarus enim recte potest assimilari gripho qui eruit
+aurum ex terra, et tamen ex quadam naturali invidia non permittit
+aliquem tangere.  Prodigus vero  assimilatur araneae quae se
+eviscerat ut faciat aliquid opus vanum, et dicit: |cum grandi
+urli~, quia enim avarum lupo, ideo bene dat sibi vocem lupi;
+ululatus enim est vox luporum.
+
+	|28-30.~  |Percoteansi.~  Hic describit morem istorum et
+dicit, quod ita occurrentes percutiebant se adversa fronte,
+deinde vertebant sibi terga, donec iterum obviabant sibi in alia
+parte inferiori circuli, continuo improperantes una pars alteri,
+dicit ergo: |percoteansi incontra~, scilicet avari et prodigi; |e
+poscia ciascun si rivolgea pur l@i~, scilicet cum pervenerant ad
+lineam mediam, |voltando a retro~, idest retrocedendo per eamdem
+viam per quam venerant.  Et hic nota quod autor per hoc figurat
+quod avari, et prodigi semper adversantur sibi factis vel verbis,
+sicut videmus de facto in isto Inferno viventium quod avarus saepe
+occupat bona prodigi, et pro modico praetio emit bona eius, quando
+laborat inopia vel urgetur debito, et e converso: prodigus saepe
+violenter invadit bona avari quando deficiunt sibi, visa
+opportunitate.  Verbis similiter se impugnant cum dicit prodigus
+de avaro: iste miser infelix nunquam bonum habet, nec habet
+propinquum, nec amicum nisi inimicum: timet semper ne terra
+deficiat sibi, fame moritur, accumulat alteri, servus pecuniae non
+dominus.  Avarus vero dicit de prodigo: iste fatuus vanus bene
+parta a patre et praedecessoribus dispergit meretricibus,
+lenonibus, gulosis, infamibus, cito ibit ad hospitale; pediculi
+comedent eum, nec aliquis miserebitur eius, nec porriget sibi
+sitienti ciphum aquae; ideo bene dicit autor: |gridando: perch@e 
+tieni.~  Ista est vox contumeliosa prodigorum contra avaros,
+|perch@e burli~, et ista est vox contumeliosa avarorum contra
+prodigos; |burli~, idest proiicis, et est vulgare lombardum; 
+
+	|31-33.~  et subdit quod sicut venerant, ita redibant
+usque ad aliud punctum circuli clamando; unde dicit: |cos@i~,
+idest sicut dictum est, |tornavan per lo cerchio tetro~, idest
+obscurum sicut statim patebit, |da ogni mano~, scilicet dextra et
+sinistra, |a l'opposito punto~, scilicet inferius ad aliud
+punctum lineae, |gridandosi anco~, idest clamando adhuc alteri
+contra alteros, |lor ontoso metro~, idest eorum contumeliosum
+versum, scilicet: ^perch@e tieni e perch@e burli~, quasi dicat
+prodigus avaro: quare tenes miser? et avarus dicit prodigo: et tu
+quare proiicis vane?
+
+	|34-35.~  et addit autor quod non semel faciebant hoc,
+sed continuo iterabant sine intermissione vel requie, unde dicit:
+|poi se volgea ciascun com'era giunto~, idest cum pervenerat ad
+lineam quae est terminus medius eorum |per lo suo mezzo cerchio~,
+quia avari tenent unam medietatem circuli per quam continuo
+currunt; et prodigi aliam medietatem.  Et sic vide quod avarus et
+prodigus semper accedunt contra se invicem contendentes de medio,
+quia uterque vult defendere quod agat virtuose et tamen neuter
+potest capere medium vel retinere, ideo bene dicit: |a l'altra
+giostra~, idest ad alium concursum quem vocat giostram
+methaphorice.  Sicut enim armigerantes concurrunt quaerentes
+prosternere unus alterum, et habere victoriam unus de altero, et
+de hoc gloriantur, ita avari et prodigi, ut iam dictum est.
+
+	|36-39.~  |Et io ch'avea il cor.~  Ista est tertia pars
+generalis, in qua autor tractat in generali de praedictis et in
+speciali de uno genere hominum in quibus fundamentaliter viget
+avaricia, et petit autor a Virgilio de duobus: primo in genere,
+qui sunt isti: secundo in specie, si illi avari qui sunt a
+sinistra fuerunt omnes clerici.  Dicit ergo: |et io ch'avea il
+cor quasi compunto~, scilicet ex tanta contrarietate et
+repugnantia hominum, |dissi: o Maestro, or me dimostra che gente
+@e questa~, idest, quae genera hominum sunt ista in isto circulo,
+quae divisa per medium continuo decertant linguis inter se, et
+nunquam videntur facere pacem; et dic mihi in speciali de istis
+qui sunt ad sinistram qui videntur habere extraneum habitum; |se
+questi chercuti~, idest clerici, sive habentes clericam, |for
+tutti cherci~, idest fuerunt omnes sacerdotes.   
+
+	|40-42.~  Et subdit responsionem Virgilii ad primam
+interrogationem dicens: |et elli a me~, supple Virgilius
+respondit: |tutti for guerci~, idest omnes quos tu vides in ista
+briga fuerunt caecati mente propter avariciam et prodigalitatem,
+|nella vita primaia~, idest in mundo viventium, unde tu venis,
+|che ferci nullo spendio~, idest quod fecerunt nullam expensam,
+|con misura~, quia avarus retinendo et prodigus dando ubi,
+quando, et quomodo non oportet.  Et nota quod est conveniens
+methaphora; sicut enim luscus vel strabo non recte respicit sed
+oblique, ita isti non cernunt medium virtutis recte sed
+indirecte. 
+
+	|43-45.~  Et dicit Virgilius quod non expedit amplius
+declarare, quia ex verbis eorum satis manifeste datur intelligi,
+dicens: |la voce lor~, idest oratio eorum clamosa, |l'abaia assai
+claro~, idest clamat satis clare, |quando vengon ai due punti del
+cerchio~, idest ad punctum superius et inferius, ut iam saepe
+dictum est, |dove colpa contraria~, scilicet avaricia et
+prodigalitas, |li dispaia~, idest disseparat et dissociat quia
+non possunt invicem convenire, quia contraria non possunt simul
+jungi.
+
+	|46-48.~  |Questi.~  Nunc Virgilius respondet ad secundam
+petitionem autoris, et confirmans dictum illius dicit: |questi
+for cherci che non han coperchio piloso al capo~, idest omnes
+isti qui sunt a sinistra non habentes coopertorium pilosum ad
+caput propter clericam rasam fuerunt clerici.  Clerica enim
+significat in prelatis quod debent reiicere et resecare superflua
+temporalia; nam capilli ex superfluitate nascuntur, et tangit
+principaliores dicens: |e papi e cardinali, in cui usa avaricia
+il suo soperchio~, idest quod avaricia istorum excedit avariciam
+caeterorum; ideo bene Zeno episcopus veronensis dicit in suo libro
+de avaricia, quod avaricia a mundo pro crimine non habetur, quia
+non invenit a quo reprehendatur.  Et hic nota lector quod autor
+loquitur hic tam aperte ex indignatione, quia in istis nulla
+videtur causa avariciae: primo quia ut plurimum sine magno labore
+perveniunt ad ista beneficia et bona temporalia, et nos videmus
+quod qui succedunt in alienis diviciis sine labore suo communiter
+solent esse prodigi; secundo, quia isti non habent uxores vel
+filios pro quibus accumulent, et si habent, non audent dicere
+quod sint sui; et quamvis autor videatur fuisse nimis audax,
+tamen multi alii habuerunt hanc libertatem, sicut Bernardus qui
+dicit: ^Vos autem sacerdotes fecistis Deum fabulam mundi.~  Sed
+certe nescio videre causam avariciae in prelatis, nisi forte quia
+prohibitio auget concupiscentiam.  Nota etiam quod autor loquitur
+solummodo de viciosis et omnino laborantibus isto morbo.
+
+	|49-51.~  |Et io.~  Hic autor ostendit se avidum ex
+praedictis faciendi mentionem de aliquo famoso inter istos, unde
+dicit: |et io~, supple dixi: |o Maestro, io dovre' ben
+reconoscere alcuni~, de quibus possem facere memoriam; |che fuoro
+immondi di cotesti mali~, idest qui fuerunt maculati  istis
+viciis, |tra questi cotali~, idest inter istos prodigos et
+avaros. 
+
+	|52-54.~  Et subdit responsionem Virgilii, qui primo
+tangit diffamationem vitae dicens: |et elli a me~, scilicet
+Virgilius respondit: |vano pensiero aduni~, idest frustra cogitas
+dare famam istis, quia fuerunt tam miseri quod nullam moerentur
+famam, unde dicit: |la sconoscente vita che fee sozzi~, idest quae
+ita denigravit eos infamia, quia scilicet in vita nesciverunt uti
+temporalibus vilibus quibus poterant sibi emere honorem in mundo
+et thesaurizare sibi in coelo,|or li fa bruni~, idest nunc post
+mortem facit eos indignos omni gloria, et praecipue avaritia facit
+homines odiosos; 
+
+	|55.~  ideo ad maiorem infelicitatem addit aeternitatem
+poenae, dicens: |in eterno verranno a li due cozzi~, idest ad duo
+puncta praedicta sive angulos, ubi cutiunt et percutiunt se in
+more arietum, qui saepe retrocedunt ut durius se cutiant; quod est
+dicere aeternaliter cruciabuntur in ista pugna cum gravibus saxis
+quae ante se semper trahunt.
+
+	|56-57.~  |E questi.~  Hic autor tangit formam
+resurrectionis istorum, dicens breviter et clare: |questi~,
+scilicet avari gravius delinquentes |sorgeranno del sepulcro~,
+idest resurgent in die iudicii |col pugno chiuso~, idest cum
+utraque manu clausa secundum illud: ^Una sacerdotis manus
+accipit, altera condit; Tertia cum fuerit, tunc dare promptus
+erit.~  |E questi~, scilicet prodigi, resurgent |coi crin mozzi~,
+idest capillis tonsis, quia omnia abiecerunt, et debes addere cum
+utroque pugno aperto.  Liberalis autem tenet unum pugnum apertum,
+alterum clausum.  Et nota quod praedicta fictio figurat quod in
+die iudicii avarus damnabitur propter nimis retinere, prodigus
+vero propter nimis dare; 
+
+	|58-60.~  unde subdit: |mal dare e mal tenere ha tolto
+loro~, idest abstulit |lo mondo pulcro~, idest Paradisum; vel
+construe et expone literam sic: |mal dare e mal tenere lo mondo
+pulcro~, idest mundum sive mundana, quae de se sunt pulcra et bona
+si homines non abuterentur ipsis, |ha tolto loro~, idest accepit
+eos, |e posti a questa zuffa~, idest destinavit eos ad istam
+pugnam et poenam, et ideo: |non c'@e pulcro~, idest non est
+delectabile, |parlar qual ella sia~, scilicet in particulari vel
+amplius, quia nimis dictum est de ista materia. 
+
+	|61-66.~  |Or puoi.~  Hic ultimo autor ostensa aeternitate
+poenae istorum, nunc ponit irremediabilitatem poenae, quia totum aes
+mundi non posset prestare istis modicam quietem nedum veram
+felicitatem, quam ista fortuna promittere videtur.  Dicit ergo:
+|o figliuol or puoi veder~, scilicet ex praemissis, |la corta
+buffa~, idest brevem vanitatem, |de' ben che son commessi a la
+fortuna~, scilicet de temporalibus, |per cui~, idest propter quae
+bona fortunae, |l'umana gente si rabuffa~, idest altercatur et
+rixatur ad invicem, ut patet, |che tutto l'oro ch'@ee sotto la
+luna~, quod est dicere in tota terra, sive orbe terrarum, |e che
+gi@a fu di queste anime stanche~, quia sunt in continuo discursu
+et labore, |non potrebbe far riposar una.~  Et hic nota quod
+istud est totum verum in isto mundo, quia si avarus haberet
+quicquid auri, aeris, gemmarum et diviciarum est apud omnes
+homines mundi, non quietaretur eius animus cupidus, imo magis
+cupiditas invalesceret; et ita prodigus totum abiiceret et nihil
+sufficeret ad quietandum animum eius.  Exemplum avari in Mida,
+exemplum prodigi in Nerone.
+
+	|67-69.~  |Maestro mio.~  Ista est quarta pars generalis
+in qua autor digressorie tractat de fortuna: quia enim Virgilius
+in responsione sua fecerat mentionem de fortuna, ideo autor petit
+incidenter quid est fortuna, quae habet tam amplam potestatem
+super bona temporalia, unde dicit: |diss'io~, idest, ego Dantes
+petivi, |o maestro mio, or me di' anche~, idest ultra praedicta
+dic mihi adhuc, |che @ee questa fortuna, di che tu mi tocchi~,
+quasi dicat: aliquid magnum videtur esse licet ignotum, |che ha i
+ben del mondo~, idest ista transmutabilia |s@i tra le branche~,
+idest omnino in sua bailia. 
+
+	|70-72.~  Et subdit responsionem Virgilii qui tractaturus
+de fortuna primo increpat ignorantiam mortalium qui multa et
+falsa et vana dixerunt de fortuna; unde dicit: |e quello a me~:
+scilicet Virgilius respondit: |o creature sciocche~, idest o
+homines rudes et ignari, |quanta ignoranzia @e quella che
+v'offende~, quasi dicat magna, et dicit in speciali auctori: |or 
+vo' che tu imbocche mia sentenzia~, idest quod capias meam
+opinionem, et sententiam tamquam veram.
+
+	|73-76.~  |Colui.~  Hic incipit declarare quid est
+fortuna et quod eius officium, et incipit modicum a longe,
+dicens: |Colui il cui saper tutto trascende~, idest Deus cuius
+sapientia est infinita, |fece li cieli~, de numero et ordine
+coelorum dicetur alibi saepe et praecipue primo et secundo capitulo
+Paradisi, |e di@e lor chi li conduce~, quasi dicat dedit orbibus
+motores suos qui appellantur intelligentiae sive angeli, qui
+movent coelos et regunt et gubernant omnia inferiora; unde dicit:
+|s@i c'ogni parte ad ogni parte splende~, quod declarat:
+|distribuendo egualmente la luce~, scilicet secundum debitam
+aequitatem et proportionem; ideo dedit varios motus in coelo quibus
+lux variatur diversimode, proportionabiliter secundum qualitatem
+materiae receptabilis.
+
+	|77-78.~  |Similemente.~  Hic restringit dictum suum ad
+fortunam; et breviter vult dicere quod sicut Deus omnia coelestia
+regit et gubernat per angelos moventes, ita per influentiam
+coelorum regit et gubernat ista temporalia, ita quod sicut motores
+movent et volvunt coelos, ita influentia coelorum movet et mutat
+omnia inferiora.  Ideo bene dicit: |similemente~, ille Deus cum
+summa sapientia sua, |ordin@o general ministra e duce~, et ista
+est generalis influentia coeli, quia omnes coeli operantur circa
+ista fortuita dando, auferendo, mutando.  Unde Martianus libro de
+Nuptiis dicit quod fortunae perveniunt ab omnibus planetis, |agli
+splendor mundani~, idest temporalibus bonis quae sunt quaedam
+organa ad felicitatem, ut dicit philosophus in suo libello de
+bona fortuna; 
+
+	|79-82.~  et dicit: |che permutasse a tempo li ben vani~,
+idest ista mundana quae non sunt vera bona, sed habent imaginem
+boni, quia scilicet nunc recedunt ab illo, nunc accedunt ad
+illum.  Unde coelum facit more Zabatarii qui aufert hinc et
+confert illuc.  Ergo non ab una spera sed ab omnibus fortuna
+causari videtur; secundum enim diversos aspectus et coniunctiones
+planetarum diversae sunt fortunae nascentium; |di gente in gente e
+d'uno in altro sangue.~  Lege historicos, lege poetas et videbis
+fortunam semper variatam apud omnes: imo, quid oportet legere
+scripta antiqua cum continuo videas mirabiles vices et mutationes
+fortunarum de quibus possent fieri magna volumina si haberemus
+aliqua ingenia, et dicit: |oltra la diffension di senni humani~,
+sicut videmus de facto quod consilia hominum non possunt impedire
+mutationem fortuitorum de quibus non habetur certa scientia; quod
+declarat per effectum, dicens: |perch'una gente impera e l'altra
+langue.~  Ubi sunt imperia mundi, Assyriorum, Medorum, Persarum,
+Graecorum, Romanorum? imo quotidie videmus de facto mutationes
+regnorum.  Nonne diebus nostris Rex Franciae potentissimus Regum
+christianorum, victus et captus a Rege Angliae; et Rex Hispaniae
+superatus et interfectus a fratre naturali! ut dimittam alia
+dominia particularia; 
+
+	|83-84.~  et statim reddit causam quia non possit
+provideri, dicens: |seguendo lo giudicio di costei che v'@ee
+occulto.~  Et hic nota quod autor ex hoc ostendit quid proprie
+sit fortuna; est enim effectus particularis non cognitus ab
+humana scientia.  Illud enim appellamus fortuitum cuius causam
+ignoramus, cum tamen causa sit in se, sed occulta; et dabo
+exemplum grossum ad declarationem huius.  Quidam pauper lentus et
+negligens habitabat sub vili tugurio in riperia Januae cum uxore
+et filiis parvulis; qui dum saepe increparetur ab uxore quod non
+laboraret, ex quo caderet a paupertate in miseriam cito, semper
+respondebat per istud unum dictum vulgare: ^A chi Dio vuol bene
+dormendo gli vene.~  Et hoc rei probavit eventus.  Nam uxor eius,
+ipso stertente de mane in lecto, invenit magnum cumulum aureorum
+in stipite eiecto ad litus per tempestatem, et sic factus est
+dives dormiendo.  Hunc ergo casum appellamus fortuitum, quia
+nescimus causam quare iste tristis invenerit aurum, qui debuisset
+potius invenisse stercus; unde Philosophus in suo libello de bona
+fortuna dicit: quod si quis interroget fortunatum quare sic agat,
+respondebit se nescire.  Unde ibidem dicit Aristoteles, quod
+fortuna est sine ratione natura, idest impetus naturalis
+adveniens homini sine ratione.  Sic ergo patet quod ignorantia
+humana imposuit istud nomen fortuna, nam unum et idem appellatur
+fortuitum ab uno, quod non appellatur fortuitum ab alio, sicut
+patet in casu quem ponit philosophus II physicorum, et Boetius in
+V.  Si cultor conductus praetio a Domino agri dum foderet agrum
+reperit thesaurum, modo ista inventio auri videtur fortuita apud
+ignorantes causam: tamen unus magnus astrologus qui cognoscat
+nativitatem illius rustici et videat causam quare ille invenerit
+aurum, non reputabit hoc fortuitum: et declarat occultationem
+fortunae per simile dicens: |come in erba l'angue~, idest serpens;
+anguis enim qui latet in herba prius mordet hominem quam
+perpendat: et ita fortuna praevenit hominem et prosternit antequam
+cogitet, dum est in flore prosperitatis et reputat se magis
+securum. 
+
+	|85.~  Et subdit: |Vostro saver non ha contrasto a lei~,
+propter iam dicta, quia fortuna est ignorata, et liberum
+arbitrium non est ubi non est electio, et electio non est in
+ignoratis.  Fortuna enim est praeter propositum, et per accidens;
+unde Augustinus IV de Civitate Dei: ^eas causas, quae fortuitae
+dicuntur, non esse dicimus nullas sed occultas.~  Et Thomas de
+Aquino: ^ea quae per accidens hic aguntur sive in rebus
+naturalibus sive humanis, reducuntur in aliquam causam
+praeordinantem, quae est providentia divina.~  Et hic nota lector
+quod non solum theologi christiani, sed et multi philosophi et
+poetae pagani negant fortunam; unde Macrobius Libro Saturnalium V,
+dicit: ^Homerus maluit nescire fortunam, et soli Deo omnia
+regenda committit.~  Virgilius autem attribuit ei omnipotentiam,
+quam et philosophi qui eam nominant voluerunt nihil posse sua vi,
+sed ministram decreti et divinae providentiae.  Unde Juvenalis:
+^sed te Non facimus fortuna Deam coeloque locamus~, quasi dicat:
+cum nihil scis. 
+
+	|86-87.~  Ergo bene dicit autor: |Questa~, scilicet
+fortuna, sive sit ab influentia orbis, sive intelligentiae
+moventis, sive ab utroque, ut aliqui volunt, sive ab ipsa
+providentia immediate, |provede~, dando cuique quod convenit,
+licet nos ignoremus; |giudica~, ita quod nihil est causale, imo,
+ut dixit Plato, nihil fit cuius ortum legitima causa non
+precesserit; |prosegue~, idest mandat sententiam executioni
+secundum praeceptum providentiae aeterni Judicis, |suo regno~, idest
+potestatem sive iurisditionem temporalium, quorum fortuna est
+domina; et dicit a simili, |come gli altri Dei~, idest planetae
+qui colebantur pro diis apud paganos, vel dic: sicut
+intelligentiae sive angeli qui saepe appellantur dii in sacra
+Scriptura, |i loro~, idest eorum regna et potestates
+prosequuntur; et dicit idem quod supra, ubi dixit: ^similemente~,
+quasi dicat quod sicut motores movent orbes, ita influentia coeli
+movet ista inferiora quae fortuna est, quam etiam pagani colebant
+pro Dea.  Unde multum miror de aliquibus qui hic multiplicant
+verba et conantur defendere dictum autoris, velut si esset dubium
+vel erroneum; unde dicunt, quod ex hoc non sequitur quod
+providentia cuiusquam non possit refraenare pravas cogitationes;
+sed nescio videre quare oporteat istud dicere, quia autor non
+vult dicere nec aliquid dicit, quod fortuna possit aliquid in
+animum vel liberum arbitrium, imo solum habet vires circa
+temporalia bona, quorum mutatio est occulta quia ignorata; unde
+multa futura contingentia possent vitari vel mutari si
+praeviderentur, sicut dicit Tholomeus et Haly comentator eius et
+Albumasar aemulus eius.
+
+	|88-90.~  |Le sue.~  Hic autor tangit continuam
+mutationem fortunae dicens: |Le sue permutation non hanno tregue~,
+idest quietem vel pausam, quia continuo ut videmus vices fortunae
+mutantur, unde subdit: |necessit@a la fa esser veloce.~  Et hic
+nota lector quod circa literam istam est toto animo insistendum,
+quia istud dictum non videtur bene sanum; ideo multi multa
+dixerunt, alii pro autore, alii contra autorem, sicut Cechus de 
+Esculo qui satis improvide damnat dictum autoris exclamans: ^In
+ci@o fallasti fiorentin poeta.~  Sed parcat mihi reverentia sua,
+si fuisset tam bonus poeta ut astrologus erat, non invexisset ita
+temere contra autorem.  Debebat enim imaginari quod autor non
+contradixisset expresse sibi ipsi, qui dicit Purgatorii cap. XVI:
+^El cielo i vostri movimenti initia, Non dico tutti, ma posto
+ch'io 'l dica, Dato v'@ee lume a bene et a malitia.~  Est ergo
+notandum quod istam literam per autorem aliqui exponunt sic: si
+fortuna est, de necessitate est mutabilis, quia ut dicit Boetius:
+^Si manere incipit, sors esse desistit.~  Unde est hic necessitas
+consequentiae, sicut verbi gratia, si dico necesse est futura
+contingentia ad utrumlibet se habere; aut si dicam necesse est
+hominem esse rationalem, vel necesse est me habere liberum
+arbitrium; verumtamen quidquid dicatur potest exponi breviter et
+clare, quod necessitas sit ex parte hominis, quia semper et
+subito unus occupat fortunam alterius, quod indicat litera
+sequens: |S@i tosto ven che vicenda consegue.~  Nam ut videmus 
+continuo quando unus moritur vel deponitur a statu suo, statim
+alius subit et succedit in vices eius, puta dignitatem,
+potentiam, divitias et honores, imo saepe praevenit cum vi vel
+fraude, vel alia quacumque via. 
+
+	|91-93.~  |Queste.~  Hic autor ponit effectum istius
+mutabilitatis fortunae, et dicit quod ex hoc sequitur quod illi
+conqueruntur et obloquuntur de fortuna, qui rationabilius
+deberent ipsam laudare.  Illi enim damnant et blasphemant
+fortunam quibus ipsa est mutata de prosperitate in adversitatem,
+et tamen fortuna adversa est utilior prospera et melior, et per
+consequens laudabilior, sicut tradunt omnes autores, et Boetius
+in III.  Adversa enim facit hominem prudentem, sobrium,
+temperatum;  prospera vero infatuat sensum hominis et reddit
+ipsum intemperatum, mollem, effoeminatum, et vere difficillimum
+est scire regere prosperam fortunam, quae non patitur froenum. 
+Unde Alexander Macedo dicebat militibus suis: ^facilius est vobis
+adversam quam secundam regere fortunam~, ut refert Quintus
+Curtius; imo ut accipiam notiora exempla, Romani durante
+adversitate fecerunt omnia memoranda gesta et virtuosa;
+adveniente prosperitate fecerunt omnia horrenda et viciosa
+facinora.  Dicit ergo bene: |Quest'@ee colei~, scilicet fortuna, 
+|ch'@ee tanto posta in croce~, idest quae tantum cruciatur quaerelis
+vel maledictionibus, |pur da color che li dovrian dar loda~,
+idest ab illis qui habent eam adversam; tunc enim  fortuna parat
+insidias homini, quando sibi applaudit prosperitate; ipsa enim
+est familiaris inimicus efficacissimus ad nocendum.
+
+	|94-95.~  |Ma.~  Hic ultimo autor concludit in ista
+materia, et dicit quod fortuna non curat sibi de lamentationibus
+hominum.  Unde dicit: |ma ella s'@ee beata e ci@o non ode~, idest
+non videtur audire vel curare, quia non potest recipere laesionem;
+ipsa dico: |con l'altre prime creature lieta~, idest cum
+intelligentiis, quia Angeli fuerunt creati simul cum coelis, quae
+habent movere et gubernare, et ita influentia coeli quae habet
+movere omnia inferiora: ergo fortuna fuit simul creata cum coelis
+et motoribus coelorum. 
+
+	|96.~  |Volge sua spera~, idest rotam quae attribuitur
+fortunae, |e beata si gode~, quasi dicat, facit officium suum et
+permittit homines clamare et latrare in vanum.  Unde nota quod
+fortuna merito figuratur cum rota; si enim applices candelam rotae
+quae continuo moveatur, nunc praestabit lumen huic parti, nunc
+illi, et ita facit influentia coeli.
+
+	|97.~  |Or discendiamo.~  Ista est quinta et ultima pars
+generalis, in qua autor agit et tractat breviter et succincte de
+poena iracundorum et accidiosorum qui puniuntur in quinto circulo:
+et primo Virgilius invitat autorem ad istam materiam
+pertractandam dicens: |Or discendiamo omai a maggior pieta~,
+idest transeamus inferius ad maiorem poenam, ubi puniuntur maiora
+vicia quam sint avaritia et prodigalitas; 
+
+	|98-99.~  et probat quod non est amplius immorandum circa
+dictam materiam propter temporis brevitatem, quia scilicet iam
+steterunt in Inferno per medietatem noctis; unde dicit: |gi@a ogni
+stella cade che saliva quand'io mi mossi~, vult dicere in effectu
+quod iam transiverat prima medietas noctis, quia stellae quae
+ascendebant in principio noctis quando intravit Infernum nunc
+cadunt, idest vadunt versus occasum, quia iam transiverunt medium
+coeli, ideo bene dicit: |el troppo star si vieta~, idest
+prohibetur nobis quia non habent stare nisi per tres dies, ideo
+non poterant amplius stare in dicto circulo si volebant visitare
+caetera loca Inferni, in quibus puniuntur tot alia vicia.  
+
+	|100.~  |Noi.~  Hic autor describit introitum ad quintum
+circulum dicens: |Noi ricedemmo~, idest transversavimus, |el
+cerchio~, idest praedictum circulum quartum, |a l'altra riva~, quae
+scilicet est media inter quartum et quintum circulum.  Sed hic
+notandum antequam ulterius procedam, quod autor hucusque
+tractavit de quatuor peccatis corporalibus et laevioribus,
+scilicet luxuria, gula, avaricia et prodigalitate: nunc
+compendiose tractaturus est de quatuor spiritualibus et
+gravioribus, scilicet accidia, ira, invidia et superbia. 
+
+	|101-102.~  Ad propositum ergo autor tractaturus novam
+materiam ostendit quod primo invenerit introitum istius quinti
+circuli, et primo fingit se invenisse unum fontem ebullientem et
+effundentem aquam quae facit unum rivum decurrentem per unum
+fossatum, qui rivus stagnat et facit unam paludem quam vocat
+stygem.  Ad quod ulterius est notandum quod per hoc autor figurat
+quod ista quatuor vicia, de quibus modo intendit tractare, sunt
+quasi fraterna et habent eamdem originem et tendunt ad
+tristitiam.  Ideo autor punit ipsa in stygia palude quae
+interpetratur tristitia.  Alii tamen dicunt quod iste fons
+figurative est creatio irae, ideo autor dicit: |sopra una fonte
+che bolle e riversa.~  Nam ira est accensio sanguinis circa cor;
+ideo in fonte nullus punitur, quia non est in culpa nec moeretur
+poenam, quia ^irascimini et nolite peccare.~  Rivus manans a fonte
+est ira cito transiens, ideo bene figuratur in fluxu cum dicit:
+|per un fossato che da lei diriva~: nam teste Horatio: ^Ira furor
+brevis est~ etc., et in rivo etiam nullus punitur; nam ira
+aliquando laudabilis est quando homo irascitur ubi, quando, et
+quomodo oportet, ut vult philosophus libro Ethicorum; sed ira 
+inveterata et indurata punitur in styge quia effectus talis irae
+est tristitia.
+
+	|103-105.~  |L'aqua.~  Hic autor describit qualitatem
+aquae quae oritur ex fonte praedicto dicens: |l'aqua era buia~,
+idest bura more lombardo, |assai pi@u che persa~, idest plusquam
+sit color persus qui non est in totum niger, et bene fingitur
+obscura, quia ira et tristitia obfuscat animum cuiusque.  Et 
+ostendit quomodo intraverunt viam suam sequentes cursum istius
+aquae nigrae dicens: |e noi intramo gi@u per una via diversa~,
+scilicet a prima, |in compagnia de l'onde bige~, idest aquarum
+fuscarum qualis est pannus qui dicitur bisus; unde |bige~, idest
+brunae; 
+
+	|106-108.~  et subdit locum in quem tendit ista aqua
+dicens: |questo tristo ruscel~, idest rivulus qui tendit ad
+tristitiam, |va in la palude ch'@a nome Stige~, vel secundum aliam
+literam, |fa una palude ch'a nome stige~, et videtur melior
+litera, |quando @ee disceso appi@e de le maligne piagge grige~,
+idest postquam pervenit ad plagias grisas quae habent colorem
+subnigrum, qualis est vestis nigra monacalis, ita quod locus
+conformatur aquae, quia scilicet aqua erat grisa, et ripa per quam
+decurrebat in vallem erat grisa.  
+
+	|109-113.~  |Et io.~  Nunc autor describit poenam
+iracundorum dicens: |Et io che mi stava inteso~, idest |attento,
+di mirar~, idest speculari novam poenam, |vidi gente fangose in
+quel pantano~, scilicet in Styge, |ignude tutte~, idest nudae;
+omnes animae dicuntur nudae quia spoliatae veste carnis, |con
+sembiante offeso~, idest apparentia offensa, et statim manifestat
+offensionem, dicens: |percoteansi.~  Ad quod notandum quod autor
+dat propriissimam poenam istis iracundis.  Fingit enim quod inter
+se furiose saeviunt lacerantes se invicem membratim et frustratim
+mutilantes.  Hoc enim figurat quod iracundi in isto mundo habent
+istam atrocem poenam, quia alios crudeliter lacerant et
+obtruncant, sicut patuit in Mario vel Silla tot millia hominum
+crudeliter lacerantibus, et saepe convertunt furorem in se sicut
+ipse Silla qui in nimio furore iracundiae suae, evomuit simul
+spiritum et iram, et ita de multis dicere possem, et ultimo
+iratus, cum desinit irasci alteri, irascitur sibi, sicut recte
+Alexander Macedo qui voluit se ipsum occidere cum occidisset in
+furore Clitum familiarem suum, ut alibi dicam plenius.  Dicit
+ergo bene: |questi~, scilicet iracundi, |percoteansi~, idest
+feriebant se invicem, |non pur con mano~, sicut solent facere
+praeliantes inter se, |ma con la testa, col petto e coi pedi~,
+quia: ^furor arma ministrat~:
+
+	|114.~  |troncandosi coi denti a brano a brano~,
+membratim, quia saepe irati, deficientibus armis, se ferarum more
+dilacerant, tantum potest ira quae est appetitus vindictae, sicut
+dicetur infra de Tideo capitulo XXXII.  Et ego vidi de facto in
+duobus scolariis meis, qui non contenti cecidisse, se pugnis et
+unguibus lacerasse, momorderunt se cum dentibus. 
+
+	|115-116.~  Et subdit quod Virgilius ne procederet
+obscure in tractatu suo explicavit qui essent spiritus praedicti,
+unde dicit: |Lo bon maestro~, scilicet Virgilius qui bene me
+instruebat de omnibus necessariis, |disse: o figlio or vedi~,
+idest videre potes per talia signa: |l'anime di color cui l'ira
+vinse~: quia enim nesciverunt vincere iram, ideo male victi sunt
+ab ea.  Et vide quam breviter et pulcre autor perstrinxit istam
+materiam et sequentem, de qua tamen diffusius et curiosius
+tractabit in Purgatorio.
+
+	|117-120.~  |Et anco.~  Hic autor detegit poenam
+accidiosorum quos fingit occulte puniri sub iracundis, et dat eis
+poenam verissimam quia portant intra se poenam occultam, scilicet
+tristitiam suam.  Dicit ergo: |Et anco vo' che tu per certo
+credi.~  Hoc dicit quia non videbatur bene credibile quod sub
+aqua punirentur aliqui graviter, et tamen sic est de accidioso,
+|che gente @ee sotto l'aqua che sospira~, quia non videtur
+manifeste planctus eorum, qui fit sepultus sub aqua, et non
+apparet nisi per quaedam parva signa exteriora; ideo dicit: |e che
+fan pullular quest'aqua al sommo~, quia superficialiter aqua ibi
+faciebat bullas ex murmure quod faciebant isti sub aqua, |come
+l'occhio te dice~, idest sicut visus intellectualis indicat tibi,
+|o che s'agira~, idest ubicumque circumspiciat, quia ubicumque
+est magna copia istorum accidiosorum.
+
+	|121-122.~  |Fitti.~  Hic autor explicat qui sunt isti,
+ponendo orationem eorum; unde dicit quod isti accidiosi, |fitti
+nel limo~, idest fixi et submersi in palude, |dicon: tristi fommo
+ne l'aire dolce~, idest in vita temporali dulci ad differentiam
+istius infernalis amarae; |che dal sol s'alegra~,  quia in Inferno
+non lucet sol neque sensibilis, neque divinus, et vult dicere:
+nos merito tristamur in ista vita poenali quia fuimus tristes in
+vita temporali ubi debebamus laetari in claritate solis. 
+
+	|123.~  Et specificat nominatim vicium ipsorum, cum 
+dicit: |portando dentro~, idest intra animum clausum, |accidioso
+fumo~, idest tristitiam accidiae quam vocat fumum, quia ita
+obscurat hominem quod nihil praeclari facit, imo marcet turpi
+ocio. 
+
+	|124.~  Et quia sic tristati sumus in luce serena, ideo
+bene nunc tristamur in tenebra obscura.  Ideo dicit: |Or ci
+atristam nella belletta negra~, idest in ista palude nebulosa. 
+|Belletta~ enim est proprie illud liquidum lubricum quod remanet
+in superficie terrae quando modicum pluvit, sive quod flumen
+reliquit extra alveum, et est vulgare florentinum, et alibi in
+Tuscia dicitur ^melma~ et ^melmetta~, quasi dicat: semper fuimus
+tristes in vita et semper sumus post mortem.  
+
+	|125-126.~  Et subdit autor modum pronunciationis
+istorum, quia imperfecte loquuntur, dicens: |questo inno si
+gurguglian~, idest gurguliando dicunt: |nella strozza~, idest
+intra gulam.  Et hic nota quod hymnus est laus Deo debita, quae
+cantatur in ecclesiis; et ideo autor bene dat hymnum istis, quia
+sacerdotes, quorum est cantare hymnos, maxime laborant vicio
+accidiae et asinitatis, unde tales accidiosi saepe dum canunt
+divinum officium vix possunt labra movere, et dum dicunt pigriter
+et tacito murmure: ^Domine labia mea aperies~, ponunt se ad
+sedendum, ideo bene addit causam talis gurguliationis dicens:
+|che dir nol posson~, scilicet praedictum hymnum |con parola
+integra~, quia saepe non exprimunt verba psalmorum integre, imo
+diglutiunt.
+
+	|127-129.~  |Cos@i.~  Hic autor ultimo concludit imponens
+finem dictae materiae, et aperiens viam ad futura.  Unde dicit:
+|cos@i girammo~, idest, ita, sicut dictum est, circuivimus,
+|grande arco~, idest magnum circulum vel girum, |de la lorda
+pozza~, idest paludis turpis ex luto et foetore, |tra la ripa
+secca e 'l mezzo~, idest inter ripam extremam quae sicca est, et
+medium, quod est ipsa palus; 
+
+	|130.~  et in extremo circuitu Stygis erat una turris de
+qua statim dicetur in sequenti capitulo, unde dicit: |venimmo a
+pi@e~, idest juxta, |d'una torre al da sezzo~, idest ad extremum.
+
+

@@ -1,0 +1,84 @@
+
+							November 20, 1987
+
+Subject: Procedures for Loading Commentaries into the Database
+
+This memo summarizes the steps to follow in loading a fully edited
+commentary into the DDP database.  The process also includes
+procedures for archiving the commentary files.
+
+We assume that a commentary ready for loading has been edited
+according to our standard formats.  This is essential since the
+programs that prepare the commentary text for loading expect this
+format, and use it to extract identification information about the
+text.
+
+We also assume that a commentary description file ("desc") has been
+written.  Instructions for preparing this file can be found in file
+/dante/doc/desc.format.
+
+Step 1: preload
+
+  Process all files of the commentary with the preload command.
+  The files can be processed singly or in batches, in any order,
+  and any number of times before they are loaded.
+
+Step 2: loadlang
+
+  If necessary, use the loadlang command to set the database to load
+  text of the correct language.  You can specify any 2 from the set
+  Italian, Latin, and English.  This ensures that the correct
+  stopword list gets used.  To determine the present settings, look
+  in file /dante/DANT/form.db on the line that contains the word
+  "Stopword".
+
+Step 3: ddpload
+
+  When all the files of a commentary have been successfully
+  processed by preload, the commentary can be loaded with the
+  ddpload command.  It is imperative that all the files of the
+  commentary, including the desc file, be loaded in sequence.  The
+  reason is that the presentation order during searches corresponds
+  to the loading order.  It is not strictly necessary to load an
+  entire commentary in one run of ddpload, but it is probably best
+  to do so.
+
+Step 4: checking
+
+  After a commentary is loaded, several people should search it
+  using the ddp command to satisfy themselves that it has been
+  loaded properly.  Approximately one week will be allowed for this
+  checking.  If errors are found, they should be corrected as
+  far upstream as possible.  For example, do not edit the file in
+  the staging directory, rather edit the .e file and rerun preload.
+  When and if errors are found, the commentary will be backed out of
+  the database (see next step) and reloaded.
+
+Step 5: dbdump
+
+  When the entire commentary has been loaded and checked, the whole
+  database will be backup up to tape using the dbdump command.  A
+  series of four tapes called A, B, C, and D (or any better names
+  anyone cares to suggest) will be used in rotation for these backups,
+  the oldest tape being the next to be used.  The purpose of these
+  backups is to provide a quick way of in effect unloading a
+  commentary if we find that it contains a lot of errors.  Use
+  dbrestore.
+
+Step 6: archive
+
+  A few weeks after a database has been loaded and checked,  we will
+  add its input files - .e and staging - to a tape archive.  This
+  archive constitutes the project's chief asset.  From it we could
+  rebuild the database in a matter of hours.  For this reason, we
+  will keep duplicate archive tapes.  One set will be kept in
+  Kiewit, probably in Steve Campbell's office.  The other set will
+  be kept in the DDP office.  A special tape carrying case will be
+  used to transport tapes between buildings.  This lessens the
+  possibility of damage from temperature changes.  The chance of both
+  copies being destroyed or corrupted is very small.  
+
+Logging
+
+  We will need to keep detailed logs of the progress of each
+  commentary through this process.

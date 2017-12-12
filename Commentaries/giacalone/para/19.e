@@ -1,0 +1,955 @@
+	|1-3.  Parea~: appariva dinanzi a me con le ali aperte la
+bella immagine (|image~: forma arcaica, che in D. si trova anche
+fuori rima, cfr. ^Purg.~ XXV, 26) dell'aquila, che nel dolce
+godimento della loro beatitudine (|nel dolce frui~: inf. del lat.
+^fruor~, godere: qui @e usato come sostantivo gi@a tipico nel
+linguaggio della patristica e della scolastica: cfr. Agostino,
+^De civitate Dei~, distingue il ^frui~ proprio delle anime beate;
+e il verbo ^uti~ proprio degli uomini in terra; Tommaso, ^S. Th.~
+II, I, xi, 3: <ci@o che @e semplicemente ultimo, nel quale uno si
+diletta come nell'ultimo fine, ci@o propriamente si dice frutto,
+^fructus~, e per questo propriamente si dice che uno gode,
+^frui~>) formavano le anime del cielo di Giove riunite
+(|conserte~) insieme.  <Subito, all'aprirsi del canto, il
+registro alto della letizia.  Da parole tematicamente medie e
+piane (|bella image~, |dolce frui~, |liete anime~, |conserte~) il
+discorso ascende all'accensione verbale del secondo terzetto:
+cos@i dal |parea~ del I verso al pi@u intenso ^parea~, aveva la
+luce del rubino, del v. 4, sino all'immagine appunto del rubino
+sul quale rimbalza il raggio del sole, sino all'allitterazione
+abbagliante di ^ardesse acceso~ {v. 5}> (Mazzali, ^Il c. XIX del
+Par.~ in <Lett. scal.>, Firenze, 1964, p. 665).  <L'apertura del
+nuovo canto serve a interrompere la calata di tono dell'ultima
+parte del canto precedente e ripropone la drammaticit@a della
+situazione nei termini di nobilt@a ad essa convenienti.  E
+anzitutto ripresenta davanti ai nostri occhi, in tutta la sua
+spettacolare grandiosit@a, l'immagine dell'Aquila, tracciata
+fugacemente, appena nei suoi contorni, nel canto precedente. 
+L'iperbato con la collocazione del verbo in principio stabilisce
+immediatamente la solennit@a e immobilit@a della visione;
+l'emistichio finale |con l'ali aperte~ ne dilata in modo
+grandioso la spazialit@a; e il soggetto |la bella image~ collocato
+per ultimo, fissa la visione con una nota affettuosa.  Attacco
+felicissimo.  D. e l'Aquila, soli; e tutt'intorno l'immensa
+solitudine dei cieli> (Chimenz, ^Il. c. XIX del Par.~ in <Lett.
+dant.> del Getto, cit. {Firenze, 1964}, p. 1738).
+
+	|4-6.  parea~: ciascuna delle anime aveva la luce
+(|parea~: a distanza assai breve dal primo ^parea~ ha un
+significato pi@u intenso) di un luminoso rubino (|rubinetto~: qui
+non ha valore di diminutivo, bens@i intensivo) sul quale il raggio
+del sole cadesse con tale intensit@a di luce (|ardesse s@i acceso~)
+da dar l'impressione che riflettesse ai miei occhi il sole stesso
+(|lui~: @e il |sole~, non il |raggio~); in altri termini: ogni
+anima aveva la luce di un rubino, ogni rubino era come un sole. 
+Questa seconda parte che descrive l'intensit@a della luce del
+rubino, assimilato alle anime dell'Aquila, pur nella sua
+costruzione sintattica troppo artificiosa, sottolinea lo slancio
+psicologico del dilatarsi della luce, come trascrizione oggettiva
+della volont@a di ascesa.
+
+	|7-9.  E quel~: e ci@o che ora debbo (|mi convien~: @e mio
+dovere) riferire (|ritrar~) adesso (|testeso~: test$e) @e cosa cos@i
+straordinaria che mai fu espressa a parole (|port@o mai voce~) n@e
+fu mai scritta, e neppure fu concepita (|compreso~)
+dall'immaginazione (|fantasia~: @e la virt@u organica che accoglie
+ed elabora le forme sensibili, cfr. ^Purg.~ XVII, 25; ^Par.~ X,
+46).  Cfr. S. Paolo, ^I Corint.~ II, 9: <Le cose che occhio non
+ha vedute ed orecchio non ha udite, e non sono salite al cuore
+dell'uomo, son quelle che Dio ha preparate a quelli che l'amano>. 
+Il fenomeno che D. tra poco descriver@a @e davvero straordinario:
+l'Aquila parler@a al singolare come se fosse una persona sola, e
+non una miriade di anime messe insieme.  Ma qui D. riduce la sua
+meraviglia ad una semplice informazione, senza un'eccessiva
+carica sentimentale, perch$e vuole soltanto tradurre in termini
+oggettivi l'immagine rappresentata.  Lo stilema scritturale @e
+alla base della sua narrazione, ed egli <legge nel cosmo creato
+da Dio come Sant'Agostino leggeva la Scrittura, rivelando nelle
+cose i segni della pi@u alta verit@a, di Dio> (Mazzali, ^l.c.~ {^Il
+c. XIX del Par.~ in <Lett. scal.>, Firenze, 1964}, 666).
+
+	|10-12.  ch'io vidi~: udii anche, ma soprattutto vidi
+parlare il rostro dell'aquila ed esprimersi con la voce (|sonar
+ne la voce~) come se fosse un unico essere, dicendo |io~ e |mio~,
+usando il singolare, laddove (|quando~) concettualmente (|nel
+concetto~) si richiedeva l'uso del plurale |noi~ e |nostro~, in
+quanto l'aquila esprimeva il pensiero di tutte le anime giuste. 
+<@E evidente che il simbolo @e ancora grezzo schema concettuale,
+stenta a prendere vita, resta fredda astrazione.  Concettualmente
+@e chiarissimo: la Giustizia, in qualunque tempo o luogo, chiunque
+sia la persona che la eserciti sulla terra, @e una sola, come una
+@e la volont@a di Dio, in cui essa consiste e a cui essa si
+conforma; e da questa unit@a discende naturalmente la concordia
+assoluta, la perfetta unit@a, anzi identit@a, nello spirito e nella
+forma, di tutti coloro che sono chiamati a giudicare la terra:
+sicch$e una sola @e la voce della Giustizia, quanti ne siano coloro
+che la pronunziano> (Chimenz, ^l.c.~ {^Il. c. XIX del Par.~ in
+<Lett. dant.> del Getto, Firenze, 1964}, 1739).
+
+	Cfr. ^Apocalisse~, VIII, 13: <E vidi e udii la voce di
+un'aquila che volava in mezzo al cielo, che diceva con gran
+voce>.  Lo stilema scritturale ha suggerito a D. l'invenzione
+dell'aquila parlante: tanto pi@u valida tale suggestione, se si
+pensa che D. ha avuto da Dio il privilegio di leggere nel cosmo e
+rivelare agli uomini i segni della verit@a divina.  In un certo
+senso anche la ^Commedia~ di D. @e una visione escatologica, una
+nuova ^Apocalisse~ politica, oltre che religiosa.
+
+	|13-15.  Per esser~: l'aquila cominci@o a dire cos@i: per
+esser stato (|per esser~: pres. per il passato) giusto e
+rispettoso del volere di Dio (|pio~) nelle mie opere io sono
+innalzato (|esaltato~) qui in cielo a quella gloria (o
+beatitudine) che non lascia minimamente insoddisfatto il nostro
+desiderio, cio@e che appaga interamente il nostro desiderio di
+beati (|che non si lascia vincere a disio~: che non tollera di
+esser vinta quanto al desiderio; altri, invece, intende: gloria
+che @e superiore ad ogni desiderio; ed altri, ancora, pi@u
+autorevolmente, Casini, Perazzini, Porena hanno spiegato: gloria
+che non si pu@o conservare soltanto col desiderio, ma che deve
+esser conseguita con opere meritorie).  Quanto ai termini |giusto
+e pio~ qui D. riprende ci@o che ha detto di Dio in ^Purg.~ XI, 37,
+e ci@o che ha detto dell'imperatore Arrigo VII in ^Epist.~ V, 2-3:
+<la maest@a sua discende dal fonte della piet@a>.  Giustizia e
+piet@a sono congiunte in Dio, ma anche nell'autorit@a umana che da
+lui deriva il suo potere.  Ma qui il senso lascia preferire pi@u
+che un valore di ^misericordioso~, un senso pi@u classico:
+^rispettoso della volont@a di Dio~, che di quella giustizia @e la
+fonte.
+
+	|16-18.  ed in terra~: e lasciai di me in terra cos@i
+buona memoria, un ricordo delle mie azioni tale, che anche gli
+uomini malvagi, che attualmente vivono in terra, sono costretti a
+lodare solo a parole (|commendan~) questo ricordo (|lei~: la
+memoria), anche se poi a fatti non ne seguono, non ne imitano
+l'esempio ad essi tramandato (|la storia~: l'esempio delle mie
+azioni narrate dalla storia).  Fin da queste prime battute il
+poeta si preoccupa di far esprimere all'aquila il suo personale
+rammarico per l'ingiustizia che domina sulla terra, anche presso
+coloro che a parole lodano la memoria e il ricordo della
+giustizia.  Questa contrapposizione tra la realt@a storica
+costruita dagli uomini di oggi e la realt@a eterna che dovrebbe
+servire da modello o quel passato storico che di questa realt@a
+eterna era la ^figura~, isola da una parte gli errori degli
+uomini attualmente malvagi e dall'altra la storia antica che
+nessuno cerca di imitare, e che si presenta qui come condizione
+figurale della gloria divina che si conquista con l'amore della
+giustizia.
+
+	|19-21.  Cos@i~: come da molti carboni ardenti (^accesi~)
+proviene, emana, risulta (^viene~) un solo calore; cos@i qui da
+molte anime ardenti di carit@a (|di molti amori~), che formavano
+l'immagine dell'aquila, usciva una voce sola.  Finalmente
+un'immagine concreta che riesce ad esprimere dal molteplice
+all'uno, dai fenomeni all'essenza, un fatto che ancora era
+rimasto alquanto impacciato sul piano narrativo.
+
+	|22-27.  O perpetui fiori~: D. si rivolge all'aquila con
+un gesto improvviso, senza neanche chiedere o aspettare il
+consenso o l'iniziativa di Beatrice: segno questo, dell'intensit@a
+pressante del suo sentimento e della gravit@a del problema che
+tanto lo appassiona.  Spiega: o anime perpetuamente beate del
+Paradiso (|o perpetui fiori~: fiori non caduchi: |dell'eterna
+letizia~: del Paradiso; l'immagine del fiore @e scritturale) le
+quali mi fate apparire (|parer~) una sola (|pur uno~) tutte le
+vostre voci (|tutti vostri odori~: continua la metafora dei
+|fiori~ il cui odore equivale a ^voce~), scioglietemi, parlando
+(|spirando~: fuor di metafora di odori; con le vostre parole) il
+grave dubbio (|il gran digiuno~: desiderio di sapere) che a lungo
+mi ha tormentato, che ha turbato da lungo tempo la mia coscienza
+di fedele, poich$e in terra non ho trovato (|non trovandoli~)
+nella sapienza terrena alcuna soluzione (|cibo alcuno~) ad esso
+(|li~), cio@e cognizione adeguata a spiegare tale problema, a
+saziare tale digiuno.  La questione che egli qui pone all'aquila
+@e questa: perch$e mai Dio, che @e somma giustizia, condanna al
+Limbo tante anime innocenti, che non ebbero fede in Cristo
+redentore, poich$e non ne ebbero alcuna conoscenza, anche se
+furono adorni di ogni virt@u intellettuale.  Era un problema che
+turbava da lungo tempo, non solo la coscienza di D. (cfr. ^Inf.~
+IV, 31-45; ^Purg.~ III, 37-44; VII, 25-36; etc.), ma anche i
+Padri della Chiesa e i teologi medievali.  Questa urgenza morale
+ha fatto dimenticare a D. completamente la presenza di Beatrice
+e, nello stesso, di punto in bianco, senza alcuna preparazione, o
+appiglio narrativo, gli ha fatto rivolgere l'attenzione dalle
+cose della terra ad una questione teologica che riguarda
+direttamente la giustizia divina, cio@e ad un problema che non
+riguarda i problemi di questo mondo, come di consueto avviene nel
+Paradiso.  Il viaggio di D. @e davvero il viaggio dell'inquieto
+cuore cristiano, ansioso di raggiungere la verit@a e di conoscere
+ogni mistero: cfr. S. Agostino: <perch$e hai fatto noi per te e
+inquieto @e il nostro cuore finch$e non abbia pace in te>
+(^Confessioni~).  Pertanto egli cerca nei cieli quella soluzione
+ai problemi pi@u angosciosi della sua coscienza morale, che in
+terra non hanno mai trovato alcuna spiegazione per mezzo della
+teologia.  Cfr. Barbi, ^Probl.~, I, 290.
+
+	|23.  letizia~: <L'apostrofe con cui il poeta si rivolge
+all'Aquila ha un attacco stupendo: o fiori immarcescibili
+(perpetui @e esteso dalla dieresi) di un giardino eternamente in
+fiore: un'immagine sobria di rara purezza e luminosit@a
+spirituale.  Dall'immagine dei fiori discende naturalmente quella
+del loro profumo.  E invece avvertiamo nella formulazione di
+questa seconda immagine una perdita di spontaneit@a: c'@e qualcosa
+di meccanico nella rigida conseguenziariet@a> (Chimenz, ^l.c.~
+{^Il. c. XIX del Par.~ in <Lett. dant.> del Getto, Firenze,
+1964}, 7144).  <@E questa forse l'ansia pi@u veemente di fronte al
+sapere, il dubbio pi@u grave che tormenta l'anima di D.  Il
+movimento di adorazione e di preghiera verso quelle luci di
+giustizia riprende senza fratture, coll'accordo che si ritrova
+solo in un vero ambito poetico, la fine del canto XVIII, vv.
+124-126> (Chiavacci Leonardi, ^l.c.~ {^Lettura del Par.
+dantesco~, Firenze, 1963}, p. 163).
+
+	|28-30.  Ben so~: so di certo che, anche se in cielo la
+giustizia divina si specchia direttamente, fa specchio di s$e
+(|suo specchio~,) un altro ordine di intelligenze angeliche, cio@e
+nei Troni (|altro reame~), tuttavia il vostro |reame~, il vostro
+ordine di beati del cielo di Giove conosce senza veli la
+giustizia divina (|non l'apprende con velame~); cio@e voi non la
+vedete meno di quelli, anche voi ne possedete una nozione esatta
+e aperta, perch$e Dio giudicante rifulge a tutte le anime del
+Paradiso; cfr. ^Par.~ IX, 61-63, per mezzo dei Troni, mentre a
+voi del cielo di Giove, che in terra avete esercitato la
+giustizia per ispirazione divina, @e concesso il privilegio di
+mirare direttamente in Dio la giustizia divina.  Secondo questa
+spiegazione il |che~ del v. 30 @e pleonastico, secondo l'uso della
+sintassi antica, che preferiva ripetere, dopo una subordinata
+condizionale, la congiunzione.  Dio giudicante presiede il cielo
+di Saturno, le cui intelligenze angeliche sono i Troni: perci@o
+qui dice |altro reame~, per indicare il cielo successivo a quello
+di Giove.
+
+	|31.  Sapete~: il verbo crea un rapporto analogico e
+armonico tra quello che D. ^sa bene~ e quello che ^sanno~ gli
+spiriti del cielo di Giove: sul tema della giustizia sia D.
+pellegrino, che le anime, le quali in terra esercitarono la
+giustizia ed ora sono assurte alla gloria celeste per esser state
+giuste e pie, hanno un'ansia e un anelito comune.  Intanto il
+poeta, lasciando imprecisato l'oggetto del suo dubbio, raggiunge
+un triplice risultato poeticamente positivo: <quello di farci
+sentire l'urgenza del sentimento che lo spinge a non indugiarsi a
+esporre il suo dubbio; quello di acuire in noi la curiosit@a e
+l'attenzione; quello appunto di non farci per ora avvertire il
+suo arbitrario trasferirsi in una sfera diversa di pensieri e
+sentimenti> (Chimenz, ^l.c.~ {^Il. c. XIX del Par.~ in <Lett.
+dant.> del Getto, Firenze, 1964}, 1743).
+
+	|32-33.  sapete~: la ^duplicatio~ del verbo sottolinea,
+indirettamente una sollecita risposta.  Spiega: sapete come io mi
+preparo ad ascoltarvi attentamente: sapete quale sia il dubbio,
+che da tanto tempo, non essendo stato ancora risolto, costituisce
+in me ansia di verit@a e di conoscenza (|digiun cotanto vecchio~).
+
+	|34-39.  Quasi falcone~: come il falcone addomesticato, a
+cui vien tolto il cappuccio dalla testa (era uso allora portare
+sul luogo di caccia il falcone con la testa coperta da una
+cuffietta di pelle, affinch$e, privato temporaneamente della
+vista, stesse quieto), lieto di sentirsi finalmente libero muove
+la testa e batte le ali rallegrandosi (|col l'ali si plaude~: dal
+lat. ^plaudere~, cfr. Ovidio ^Metam.~ VII, 238: ^plaudere pennis~
+battere le ali; ma qui il verbo presuppone anche un senso di
+gioia repressa che esplode nei movimenti), dimostrando la sua
+smania di lanciarsi in aria (|voglia~) per far preda e
+ringalluzzandosi (|faccendosi bello~: quasi trasfigurato da
+quella voglia e dalla libert@a che gli @e data, Momigliano), io
+vidi farsi, divenire l'insegna dell'Aquila (|quel segno~), che
+era formato (|contesto~) di spiriti, i quali di per s$e stessi
+erano lodi (|laude~: plur. di lauda, testimonianza di gloria) e
+gloria della grazia divina, oppure che lodavano la Grazia divina,
+con canti celesti, quali soltanto sa intendere (|si sa~: sa) il
+beato che in cielo gode della letizia divina (|chi la su gaude~).
+
+	La similitudine qui deve esser intesa in tutti i
+particolari, senza alcuna esclusione; infatti la letizia delle
+anime che compongono l'aquila si manifesta nei movimenti della
+testa, delle ali, proprio come fa il falcone; mentre l'aggiunta
+dei canti @e <un'opportuna levitazione spirituale dell'immagine>
+(Chimenz {^Il. c. XIX del Par.~ in <Lett. dant.> del Getto,
+Firenze, 1964}).  La letizia dell'aquila @e dimostrata non solo
+dai canti, ma anche da tutti i movimenti simili a quelli del
+falcone liberato e pronto alla caccia, che muove la testa, batte
+le ali e si ringalluzzisce ansioso di preda.
+
+	|36.  bello~: <Simbolismo teologico paleocristiano? 
+Certamente, ma recante, per fresca evidenza naturalistica e
+stilistica, il senso di un gentile paesaggio terreno.  Le visioni
+naturalistiche si giustificano dentro i trapassi narrativi e
+stilistici del poema, in quelle zone nelle quali la presenza del
+pellegrino tocca la realt@a del suo viaggio terreno e ne
+rappresenta le dimensioni fisiche, i tratti paesistici, i moti
+psicologici> (Mazzali, ^l.c.~ {^Il c. XIX del Par.~ in <Lett.
+scal.>, Firenze, 1964}, 670).  Ma il naturalismo @e limitato
+soltanto alla prima parte della similitudine, perch$e il secondo
+termine di paragone ritorna all'immagine dell'aquila, che non si
+spaventa di affisare lo sguardo in quel pauroso mistero; anzi
+sembra provare gioia profonda: espressione della sua carit@a verso
+D. ansioso di sapere.  Forse qui D. ha introdotto il paragone col
+falco per variare immagine circa il consueto accrescimento di
+letizia che le anime dimostrano a D. ogni volta che sono
+chiamate a illuminare la sua mente.
+
+	|40-45.  Poi cominci@o~: l'Aquila, senza tanti preamboli,
+compresa l'urgenza della domanda di D., risponde: Dio, che volse
+il suo compasso (|il sesto~) all'atto della creazione segnando i
+confini estremi del mondo e in esso dispose (|distinse~)
+ordinatamente, le une distinte dalle altre, tante cose invisibili
+e visibili (|occulto e manifesto~) all'uomo, non pot$e imprimere
+(|fare impresso~) in tutto l'universo la sua potenza (|valore~),
+in modo che il suo Verbo, la sua idea non eccedesse infinitamente
+(|rimanesse in infinito eccesso~), cio@e non rimanesse in infinita
+superiorit@a alla impronta del suo valore nelle cose create, cio@e
+rispetto al contenuto del mondo creato.  Infatti le cose create
+per necessit@a sono infinitamente inferiore all'idea divina, su
+cui sono modellate.  <L'infinito non poteva con l'atto della
+creazione produrre un mondo che fosse, come lui, ugualmente
+infinito.  Si sarebbero avuti due infiniti; e due infiniti
+evidentemente @e impossibile concepirli: l'uno escluderebbe
+l'infinit@a dell'altro.  Il creato doveva di necessit@a risultare
+finito, e incapace quindi di comprendere l'infinito> (Pietrobono,
+^Il c. XIX del Par.~, Firenze, 1901, p. 19).  Queste tesi
+scolastiche saranno nel Rinascimento superate dal Bruno.  Quel
+che qui conta agli effetti narrativi @e il fatto chi l'Aquila
+parla con immagini bibliche (^il compasso~ @e in Giobbe, XXXVIII,
+5-6) e con linguaggio scolastico, quasi a confermare le certezze
+della verit@a, la problematica della teologia umana come figura di
+quella celeste.  Narrativamente, c'@e da osservare che il discorso
+si inserisce con libero movimento senza rigidezza logica, ma
+innestandosi nel contesto dell'azione stessa, in una impostazione
+ovvia e naturale di sequenze drammatiche.  Il motivo della
+grandezza e potenza di Dio, che mente umana non pu@o contenere, si
+svolge solenne e ampio in una successione logica di immagini
+allusive e tecnicamente precise, s@i da rendere in poche linee la
+mirabile misura narrativa del concetto teologico.  L'infinit@a di
+Dio @e stata espressa con una lucidit@a geometrica, con una misura
+e precisione quasi logico-matematica.  Il termine stesso
+|infinito eccesso~ @e mutuato dal linguaggio matematico.
+
+	|46-51.  E ci@o~: e la prova di questa infinita eccedenza
+dell'idea divina rispetto alle cose create ci @e offerta (ci @e
+data come cosa certa: accerta ci@o) dal fatto che Lucifero, la pi@u
+alta delle sue creature, non avendo per superbia aspettato (|per
+non aspettar~) di essere illuminato per grazia divina (|lume~),
+cadde dal cielo (il verbo fa sentire tutta la tensione, il suo
+peso materiale nella caduta) ancora imperfetto come frutto
+immaturo (|acerbo~): e da ci@o (^indi~) appare evidente che tutte
+le altre creature, essendo inferiori a Lucifero (|ogne minor
+natura~), sono recipienti troppo piccoli (|corto recettacolo~)
+per poter contenere il valore di Dio (|quel bene~), che @e
+infinito e non pu@o essere misurato se non con s$e stesso (|s$e con
+s$e misura~).
+
+	|52-57.  Dunque~: dunque l'intelligenza, la vista (della
+mente) di voi uomini (|vostra~: la lezione ^nostra~, accettata
+dalla Dantesca e da alcuni antichi commentatori, fu dimostrata
+insostenibile dal Chimenz, in <G.S.L.I.>, 1956, pp. 185-87;
+infatti @e richiesta dal senso e confermata dal ^vostro~ del v.
+59), che di necessit@a @e (|convene essere~) soltanto un raggio
+della mente divina, della cui virt@u sono piene tutte le cose (|di
+che...~), non pu@o per sua stessa natura (|da sua natura~) esser
+tanto potente da (|che~) discernere (|non discerna~: non @e
+pleonastico) il suo principio, Dio principio di ogni cosa, molto
+pi@u in l@a di quello che Dio stesso le si fa palese (|parvente~),
+al di l@a dai termini che le offre la conoscenza sensibile.  Ma il
+passo @e controverso per il testo, che in alcune edizioni elimina
+la negazione |non~ e legge ^nostra~ al posto di |vostra~, ed
+anche per l'interpretazione.  Il Barbi, conservando la negazione
+|non~, spiega cos@i: non pu@o <la nostra veduta esser di sua natura
+tanto possente, ^che non debba riconoscere~ esser il suo
+principio molto pi@u di l@a da quella che le apparisce, ossia che
+non debba riconoscere che la mente divina le resta in gran parte
+nascosa al di l@a dei limiti a cui ella pu@o giungere con le sue
+forze naturali> (^Probl.~ I, 290).  Il Casini-Barbi, invece, fa
+^nostra veduta~ oggetto e |suo principio~ soggetto di |discerna~,
+e spiega: l'intelligenza umana non pu@o per sua natura essere
+tanto potente che la mente divina non discerna molto pi@u in l@a di
+ci@o che appare all'intelligenza umana: ed @e spiegazione,
+accettata anche dal Del Lungo, dal Momigliano, e da altri.  Ma la
+prima spiegazione, proposta dal Chimenz mi sembra la pi@u logica,
+perch$e il ragionamento dell'Aquila fino a v. 63 vuol dimostrare
+l'incapacit@a da parte delle culture di penetrare nel profondo
+della mente divina, ma in una gradualit@a progressiva di valori. 
+Cfr. Tommaso, ^S. Th.~ I, xii, 2.
+
+	|58-63.  Per@o~: perci@o (per il fatto che la vostra mente
+non pu@o discernere di Dio nient'altro se non quel che le
+apparisce e le si rivela attraverso la conoscenza sensibile) la
+vista, l'intelligenza che voi uomini ricevete da Dio (|la vista
+che riceve il vostro mondo~: altri intende: il vostro intelletto
+che percepisce il vostro mondo) pu@o penetrare (|entro s'interna~)
+nella cognizione della giustizia divina (|sempiterna~), come fa
+un occhio mortale attraverso (|per~) il mare; il quale occhio,
+bench$e veda dal lido (|de la proda~) il fondo del mare, poi in
+alto mare (|pelago~) non riesce a vederlo (|nol vede~), e
+tuttavia, eppure il fondo vi @e (|@eli~), ma la sua stessa
+profondit@a (|l'esser profondo~) lo nasconde.  <Il ragionamento @e
+divenuto un'immagine sensibile, l'astrazione una prova concreta,
+il concetto teologico una nozione elementare.  Mirabile: ed @e la
+poesia del pensiero religioso, che conquista sicuro la verit@a>
+(Chimenz, ^l.c.~ {^Il. c. XIX del Par.~ in <Lett. dant.> del
+Getto, Firenze, 1964}, 1749).
+
+	|62.  in pelago~: <L'elemento fondamentale del discorso
+dell'aquila @e la simmetria strutturale.  Nella premessa, la
+figura potente e tragica di Lucifero, costruito fra uno stato
+oggettivo, una situazione -- la sua superbia -- e l'azione, quel
+suo precipitare imperfetto, maturato nell'ansia insoddisfatta e
+corrucciata della perfezione; nella conclusione la presenza
+simbolica e a un tempo evidente del mare, il cui fondo @e visibile
+ad occhio umano nei pressi della riva, ma diviene invisibile
+appena l'occhio umano s'inoltra in alto mare.  Due
+rappresentazioni limpide e in rilievo.  Ma esse sono poste in
+posizioni pur diverse: quella di Lucifero contiene un'azione in
+movimento; quella del mare @e una situazione definitiva e
+definitoria, ed esprime il limite della sapienza terrena.  La
+prima @e allegorica, la seconda @e simbolica.  La prima penetra
+nell'anima umana e nello stato d'ansia, la seconda rievoca un
+fatto di natura, immoto e immovibile> (Mazzali, ^l.c.~ {^Il c.
+XIX del Par.~ in <Lett. scal.>, Firenze, 1964}, 673).
+
+	|64-66.  Lume~: non vi @e alcuna luce di verit@a per
+l'intelletto umano, se non procede da Dio, dalla luce sempre
+serena della mente divina, eternamente uguale a se stessa (|che
+non si turba mai~), imperturbabile; anzi vi sarebbe, senza la
+grazia illuminante di Dio, assoluta ignoranza (|tenebra~: della
+carne che offusca lo spirito), oppure offuscamento (|ombra~) o
+corruzione (|veleno~) dovuti alle passioni e ai sensi mortali.
+
+	La parola di D. traduce il suo grande pathos speculativo
+in potenza di sintesi stilistica, in essenzialit@a di immagini
+scarnificate, che evidenziano la convinzione razionale della sua
+mente, e ad un tempo il vigore sentimentale della sua narrazione. 
+La presenza in Paradiso di D. uomo e pellegrino con tutto il peso
+della sua carne e dei suoi limiti umani articola dialetticamente
+il rapporto tempo ed eterno, umano e divino nella
+compartecipazione della sua umanit@a alla conquista della verit@a e
+ad un tempo alla consapevolezza dei limiti della sua dimensione
+psicologica e morale.  Questa dialettica fa s@i che la teologia si
+trasformi in azione itinerale, e, quindi, in racconto.
+
+	|67-68.  Assai~: ora, dopo quanto ti ho detto, ti @e
+abbastanza (|assai~) palese (|aperta~) l'occulta profondit@a
+(|latebra~: lat. nascondiglio) che nascondeva alla tua mente
+(|t'ascondeva~) la giustizia eterna di Dio (|viva~); l'oscuro
+abisso dentro il quale cercavi e non vedevi la vera giustizia,
+quella di Dio (Steiner).  La parola |latebra~ <conclude e
+concentra nella sua ombra profonda tutto il motivo
+dell'imperscrutabilit@a che circola nei vv. 40-66> (Momigliano,
+^comm.~ 714).
+
+	|69.  di che~: della quale giustizia divina, oppure,
+secondo altri, a proposito della quale ^latebra~, ignoranza umana
+sull'imperscrutabilit@a della giustizia divina, tu facevi
+(|facei~) un quesito (|question~) cos@i assillante (|crebra~)
+nella tua coscienza.  Infatti D. era stato assillato e angosciato
+da questo problema circa il dogma cristiano della giustificazione
+per la fede: come si accorda con l'idea della giustizia di Dio la
+condanna, formulata dai padri della Chiesa, delle anime dei
+giusti, morti senza battesimo e senza fede?  Qui l'Aquila quasi
+gli rimprovera di averne fatta una questione assai frequente
+nella sua vita e nei suoi scritti.  D. aveva gi@a toccato questo
+problema in ^Mon.~ II, vii, 45: <Bench$e la ragione umana non
+possa per se stessa capire come questo sia giusto, pu@o tuttavia,
+con l'aiuto della fede, saperlo; @e scritto infatti agli Ebrei <^@E
+impossibile piacere a Dio senza fede~> (S. Paolo, ^Ebrei~ XI, 6);
+nel IV dell'^Inferno~; nel III, VII, XXI del ^Purgatorio~, nel
+XXXII del ^Paradiso.~  <Bisogna considerare che non si tratta di
+un problema di pura teologia: esso @e, di tutti i problemi
+teologici, quello che con pi@u forte autonomia tende ad affermarsi
+come problema morale.  Non solo la ^ratio humana~, come @e detto
+nella ^Monarchia~, ^per se iustum intueri non potest~, che siano
+condannati gli innocenti; ma prima ancora della ragione, la
+coscienza morale, il sentimento morale ne soffre e si ribella>
+(Chimenz, ^l.c.~ {^Il. c. XIX del Par.~ in <Lett. dant.> del
+Getto, Firenze, 1964}, 1751).  L'umanit@a di D. porta con s$e nei
+cieli questa presenza della terra, questo assillo costante della
+coscienza, nella speranza di un chiarimento definitivo.  Questo @e
+il senso narrativo-psicologico di queste sequenze.  Il credente e
+l'uomo, il dogma e il sentimento, talvolta, presentano questi
+angosciosi contrasti morali nella coscienza di D.; ma egli li
+risolve nel Paradiso nell'umilt@a del suo definitivo atto di fede. 
+Il viaggio di D. @e anche la suprema ascesa di D. verso il
+definitivo e l'assoluto.
+
+	|70-75.  ch$e~: infatti tu dicevi nella tua coscienza: il
+tuo dubbio era questo: un uomo nasce in una lontana regione
+dell'Asia (|a la riva de l'Indo~: espressione generica), e l@i non
+c'@e chi predichi, o insegni (|legga~), o scriva, di Cristo e
+della sua religione; ma tutti i suoi sentimenti (|voleri~) e i
+suoi atti sono buoni, secondo la ragione naturale dell'uomo,
+senza peccato nelle opere (|in vita~) e nelle parole (|in
+sermoni~).  Cfr. S. Paolo, ^Romani~, X, 14: <Come dunque
+invocheranno essi colui, nel quale non hanno creduto? e come
+crederanno in colui, del quale non hanno sentito parlare? e come
+udiranno, se non vi @e chi lo predichi?>.  La forma drammatica e
+assillante del dubbio riflette il tono della lettera di S. Paolo,
+quasi a testimoniare il valore figurale di un tale dubbio che
+affligge la coscienza umana del cristiano, in ogni, tempo, finch$e
+@e nel mondo.
+
+	|71.  chi ragioni~: <Bastano questi pochi cenni per
+vedere come il discorso @e costruito secondo una ragione poetica
+che si sostituisce allo schema scolastico, tanto da andare
+addirittura a rovescio di questo.  Quel modo cos@i concreto di
+porre la domanda @e proprio l'opposto di quello usato nel canto IV
+(vv. 19-21).  Questa @e la concreta riflessione di un uomo, su cui
+gi@a si riflette l'inadeguatezza o l'insufficienza.  D. ha rotto i
+ponti con la forma intellettiva, e scompone le sequenze logiche
+secondo il diverso imprevedibile ordine poetico.  Ora la teologia
+si fonde veramente con l'azione del Paradiso.  La passione di
+questa pagina @e la stessa che anima tutto l'episodio del cielo di
+Giove: l'ansia umana per la giustizia da una parte, e il mistero
+della giustizia di Dio dall'altra> (Chiavacci Leonardi, ^l.c.~
+{^Lettura del Par. dantesco~, Firenze, 1963}, 165).
+
+	|72.  scriva~: <Soltanto dopo che l'impotenza della mente
+umana di fronte all'infinito mistero di Dio avr@a preso compiuta
+forma poetica nella potente immagine del mare, da cui si svolge,
+con pura ripresa lirica, la grande terzina ammonitrice (vv.
+58-66, soltanto allora verr@a formulata la questione che teneva D.
+sospeso, e non in forma astratta, ma concreta e determinata, come
+se la pone ogni uomo anche senza vederne la portata filosofica>
+(Chiavacci Leonardi, ^l.c.~ {^Lettura del Par. dantesco~,
+Firenze, 1963}, 164.
+
+	|76-78.  Muore~: quest'uomo dell'estremo oriente muore
+senza essere battezzato e senza credere in Cristo: che giustizia
+@e questa che lo condanna? quale @e la sua colpa, se egli non @e
+stato illuminato nella fede cristiana, e, quindi, non crede in
+Cristo?  Dal punto di vista narrativo qui abbiamo un cambiamento
+di tono, un modo pi@u diretto di presentare il problema
+teologico-morale, attraverso un legame drammatico, e
+un'essenzialit@a di cose che si riflette nel ritmo rapido e
+incisivo delle domande.
+
+	Dal punto di vista dottrinario, si pu@o dire che la
+questione riflette una lunga e dibattuta tradizione teologica,
+che, risalendo ai primi secoli della Chiesa, pur combattuta da S.
+Agostino, da S. Gregorio Magno, riaffior@o anche nella Scolastica
+in qualche filosofo isolato, per poi sfociare nell'Umanesimo.  Ma
+D. si attenne a S. Agostino, infatti afferma che non c'era
+bisogno che Maria partorisse Cristo, se gli uomini avessero
+potuto da soli conoscere tutto (^Purg.~ IV); per lui il peccato
+originale fu riscattato soltanto da Cristo e il battesimo era
+porta alla fede cristiana.
+
+	|79-81.  Or tu chi sei~: chi sei tu, o uomo, che vuoi
+sedere sul seggio del giudice (|a scranna~), per giudicare ci@o
+che trascende la tua vista, ci@o che @e molto lontano da te, con la
+vista dell'intelletto umano che non discerne pi@u in l@a di un
+palmo (|spanna)?~  Cfr. S. Paolo, ^Romani~, IX, 20: <O uomo, chi
+sei tu che rispondi al Signore?>; ^I Cor.~ II, 16: <Chi ha
+conosciuto la mente del Signore, per poterlo ammaestrare?>  @E
+significativo che l'aquila (cio@e i beati del cielo di Giove)
+risponda in termini scritturali, la cui funzione figurale qui @e
+assicurata dal fatto che, sia Paolo, sia le anime del cielo,
+parlano ispirate da Dio.  Anzi il fatto che le anime del cielo
+parlano come la ^Scrittura~ @e il segno pi@u evidente che quel
+linguaggio @e ^figura impleta~ della mente divina.  Ma quel che @e
+da notare @e anche il tono severo e solenne della risposta che
+ricorda il cruccio scontroso di Marco Lombardo: <|Or tu chi se'
+che~: cfr. ^Purg.~ XVI, 25.
+
+	|80.  mille miglia~:  <Il sigillo ultimo @e l'opposizione
+di creatore e creatura.  L'infinito ^eccesso~ da cui aveva preso
+avvio l'orazione, @e ancora, in altra tessitura verbale e logica,
+la sua conclusione: ^sommo bene~ e ^creato bene~ si trovano
+restituiti alla loro posizione precisa, sola evidenza possibile,
+alla mente dell'uomo, di fronte al mistero di Dio giudice>
+(Sanguineti, ^Il c. XIX del Par.~ in <^Il realismo dantesco~>,
+Firenze, 1966, p. 121).
+
+	|81.  veduta corta~: cfr. ^Giobbe~, XXXVIII, 2-3: <Chi @e
+costui che ottenebra il mio consiglio con parole prive di
+cognizione?...  Dove eri tu, quando io ponevo le basi della
+terra?  Parla, se possiedi tanta intelligenza?  Chi fiss@o le sue
+dimensioni, che tu sappia, e chi distese sopra di essa la
+corda?>.  Ovviamente il passo riguarda anche i vv. 40-45, i cui
+movimenti retorici sono di stampo scritturale.
+
+	|82-84.  Certo~: certamente chi si applica con tutte le
+forze dell'intelletto (|s'assottiglia~) ragionando con me sul
+mistero della giustizia divina (|meco s'assottiglia~), se non vi
+fosse sopra voi uomini la Sacra Scrittura a guidarvi, avrebbe ben
+forti motivi di dubitare straordinariamente (|a maraviglia~). 
+Cfr. ^Mon.~ II, vii, 4: <Vi sono alcuni giudizi divini, ai quali
+la ragione umana, sebbene non possa arrivare con le proprie
+forze, s'innalza tuttavia con l'aiuto della fede in ci@o che @e
+detto dalla Sacra Scrittura>.
+
+	|da dubitar~: costr. alla latina: multum esset illi
+dubitandum: costui avrebbe molti dubbi da affacciare sulla
+giustizia dei decreti divini, se la volesse giudicare con l'umana
+ragione soltanto.  Il Benvenuto ed altri preferivano spiegare
+cos@i: chi sottilmente si sforza di spiegare la divina giustizia,
+s'assottiglia intorno a me (|meco~).  Ed @e spiegazione seguita da
+molti moderni.
+
+	|85-87.  animali~: oh voi uomini della terra, che siete
+simili a bestie piuttosto che a esseri razionali (|o terreni
+animali~)! oh menti grossolane, sciocche (grosse: ^Inf~ XXIV,
+92)!  La volont@a di Dio (|la prima volont@a~), che per se stessa @e
+buona, non si @e mai allontanata (|non si mosse~) dal suo
+principio, da s@e, dal bene assoluto in cui consiste.  Cfr. S.
+Tommaso, ^S. Th.~ I, xix, 7: <la volont@a di Dio @e assolutamente
+immutabile>.
+
+	|88-90.  Cotanto~: @e giusto tutto ci@o che @e conforme alla
+volont@a divina (|quanto a lei si consuona~); nessun bene creato
+attrae a s@e la volont@a di Dio, ma essa irraggiandosi nelle cose
+create (|radiando~), genera (|cagiona~) il bene in esse, le rende
+buone.
+
+	In tal modo il dubbio di D. @e spento, poich$e l'Aquila,
+ispirata da Dio, ha precisato che @e giusto ci@o che @e conforme
+alla volont@a suprema di Dio, e non ci@o che appare giusto a noi
+uomini.  Qui D. segue S. Tommaso, che aveva a sua volta
+assimilato una tesi di S. Agostino: <Nella legge temporale nulla
+@e giusto e legittimo che non sia derivato dalla legge divina... e
+tutte le leggi in quanto partecipano della retta ragione in tanto
+derivano della legge divina>.  <@E chiaro che lo sforzo del
+pensiero cristiano e dantesco @e quello di andare al di l@a del
+concetto classico, immanentistico della virt@u come mediet@a e di
+fare della virt@u e specialmente della giustizia una forma di
+rispondenza alla volont@a divina.  Essere giusto non @e altro che
+vero amore di Dio, partecipazione della divina luce> (Montano,
+^l.c.~ {^La storia della poesia di Dante~, II, Napoli, 1963}, p.
+504).
+
+	|91-96.  Quale~: come la cicogna, dopo aver (|pasciuti~)
+cibato i figli, si ritira sopra (|sovresso~) il nido, e come si
+volge verso di lei il cicognino che @e stato pasciuto (|@e pasto~:
+lat. ^est pastus~), allo stesso modo si atteggi@o, roteando sopra
+me, (e allo stesso modo io alzai gli occhi, |li ci{g}li~, verso
+di lei come il cicognino), la benedetta immagine dell'aquila, che
+agitava le ali, sospinte da tante volont@a (|consigli~) dei beati
+che la componevano.  <I due soggetti dell'immagine, la cicogna e
+il cicognino, traggono appena un lieve movimento affettivo dal
+nido, e dal rigirarsi di lei e dal rimirare di lui, che @e un
+girarsi di letizia, e un mirare con affetto.  Poi il rapporto tra
+la cicogna e il cicognino, divenuto soltanto |quel ch'@e pasto~,
+si riprende, mutato, nel rapporto fra la benedetta immagine
+dell'aquila e il poeta, attraverso il chiasmo provocato
+dall'iperbato: nella prima parte della similitudine sta la
+cicogna, poi il cicognino, mentre nella seconda parte il discorso
+punta su D., che ha levati i cigli, e poi sull'aquila.  Si
+prepara il passaggio tonale della similitudine
+naturalistico-affettiva allo slancio trionfale della visione
+celeste> (Mazzali, ^l.c.~ {^Il c. XIX del Par.~ in <Lett. scal.>,
+Firenze, 1964}, 676).
+
+	|97-99.  Roteando~: @e il medesimo movimento di rotazione
+che compie l'aquila apparsi in sogno a D. vicino alla porta del
+Purgatorio: cfr. IX, 28: <^Poi mi parea che, poi rotata un poco
+Terribil come folgor discendesse~; che ricorda, a sua volta,
+l'aquila del ^Par.~ VI, 70: ^scese folgorando a Iuba.~  Non @e,
+quindi, escluso un senso figurale, che si continua sin da quei
+canti per trovare conclusione definitiva qui, nel cielo di Giove,
+in cui D. volle che tutte le anime dei giusti formassero
+l'immagine stessa di quell'Aquila romana, la quale nella sua
+concezione religioso-politica significava la ^figura~ di Cristo,
+in quanto compendiava in s@e, oltre al simbolo della giustizia
+anche quello della grazia-redentrice e salvatrice.  Il simbolo
+della giustizia imperiale, qui sviluppandosi in una ^figura
+impleta~ di Cristo giudice, assume un significato che trascende
+quello stesso della giustizia terrena in valore supremo in cui la
+giustizia divina si uniforma alla grazia, e al mistero divino.
+
+	|98.  le mie note~: l'aquila roteando, girando attorno a
+me, diceva cantando: come tu non puoi intendere il mio canto (|le
+mie note~), che esalta ^il ben ch'a s@e~ ci ^muove~, il bene
+eterno (cfr. ^Par.~ XVIII, 9), cos@i a voi mortali riesce
+incomprensibile la giustizia divina (^il giudicio etterno~).  Qui
+@e chiaramente sancito e accettato il dogma della
+imperscrutabilit@a della giustizia divina con una similitudine che
+trova conferma nella realt@a del viaggio, anzi nell'esperienza
+stessa immediata di D. pellegrino nel cielo di Giove.  Il fatto
+stesso che D. non intende il canto dell'Aquila @e misura
+comparativa per dichiarare definitivamente l'impossibilit@a della
+mente umana di intendere la giustizia divina.
+
+	|1OO-102.  poi~: dopo che cessarono di roteare (|si
+quetaro~) quelle anime luminose ardenti di carit@a (|lucenti
+incendi~), rimanendo disposte nella figura (|nel segno~)
+dell'aquila, simbolo dell'Impero, che fece rispettati e temuti
+(|reverendi~) in tutto il mondo i Romani, il |segno~ dell'aquila
+(|esso~) ricominci@o a parlare.  <Questo ci dice che l'autorit@a
+imperiale e l'attaccamento a Roma hanno una sanzione divina.  D.
+non poteva smentire la propria fede nella missione sacra
+dell'impero di Roma> (Montano, ^l.c.~ {^La storia della poesia di
+Dante~, II, Napoli, 1963}, 510).
+
+	|103-105.  A questo~: alla beatitudine del Paradiso (|a
+questo regno~: non soltanto nel cielo di Giove) non sal@i mai chi
+non credette in Cristo, sia in Cristo venturo, sia in Cristo
+venuto, in Cristo redentore (lett. n$e prima n$e dopo che Cristo
+fosse inchiodato, |si chiavasse~, sul legno della Croce,
+crocifisso).  Cio@e nessuno pu@o esser salvo, senza la fede o in
+Cristo venturo, o in Cristo venuto.  <Ma questa fede --
+gl'insegnava il suo Tommaso, fissando una tradizionale opinione
+della Chiesa, che, mentre confermava e giustificava la durezza
+del giudizio di Dio, veniva nello stesso tempo a mitigarne
+l'assolutezza, aprendo innumerevoli vie alla sua misericordia --,
+questa fede poteva miracolosamente esser ispirata anche a coloro
+che nulla avessero mai saputo di Cristo, anche ai pagani prima di
+Cristo, purch$e avessero cercato, adorato Dio con quella dedizione
+totale della vita e dell'anima, alla quale non sarebbe mancato il
+lume della grazia.  @E questa la dottrina della ^fides implicita~,
+mediante la quale l'Aquila spiegher@a, nel canto seguente, la
+salvazione del troiano Rifeo, e D. certamente pens@o di poter
+giustificare quella di Catone> (Chimenz, ^l.c.~ {^Il. c. XIX del
+Par.~ in <Lett. dant.> del Getto, Firenze, 1964}, 1753).
+
+	|106-108.  Ma vedi~: considera questo per@o: molti
+invocano di continuo ad alta voce (|gridan~: forse nel verbo c'@e
+un'allusione al fatto di chi celebra la fede soltanto a parole):
+Cristo, Cristo! ma essi (|che~) nel giorno del Giudizio
+universale (|in giudicio~) saranno assai meno vicino (|prope~) a
+Lui, di (|che~) tanti che non hanno conosciuto e seguito la fede
+di Cristo.  L'Aquila, qui, ripete quasi alla lettera le parole di
+Cristo nel discorso della montagna: <Non chiunque mi dice:
+Signore, Signore, entrer@a nel regno dei cieli; ma chi fa la
+volont@a del Padre mio che @e nei cieli, e solo costui entrer@a nel
+regno dei cieli> (^Matteo~, VII, 21-22; ^Luca~, XII, 42-48). 
+Questa @e la dottrina della ^fides implicita~, secondo cui anche
+chi non ha conosciuto la fede cristiana, purch$e abbia adorato Dio
+con assoluta dedizione, pu@o salvarsi attraverso vie occulte della
+Grazia e della Rivelazione.  Ma un tale problema D. fa risolvere
+e affermare negli stessi termini con cui Ges@u l'aveva rivelato e
+illustrato ai suoi discepoli in terra; pertanto nulla vieta di
+pensare che qui l'Aquila sia ^figura impleta~ di Cristo, in
+quanto conferma sul piano dell'eternit@a e della luce celeste
+quanto aveva affermato in terra, come monito alla fede sincera
+degli uomini.  Chi fa la volont@a del Signore in terra, chi si
+uniforma alla sua giustizia, costui si salver@a.  La semplicit@a
+evangelica qui @e diventata solennit@a ferma e incisiva del monito
+dell'Aquila.  Sulla salvabilit@a degli infedeli cfr. Pasquazi
+^l.c.~ {^All'eterno dal tempo~, Firenze, 1966}, 167; Forti, ^Fra
+le carte dei poeti~, 1965, pp. 9-40.
+
+	|108.  Cristo~: <La consueta triplice rima nel nome di
+Cristo ha gi@a portato il testo a una ferma dimensione rituale. 
+Ora, l'artificio del triplice acrostico (tre terzine aperte su
+^L@i si vedr@a~, tre terzine aperte su ^Vedrassi~, tre terzine
+aperte su ^E~) conferma l'artificio sacrale della pagina, e
+solleva a pi@u alto decoro, rettorico e ieratico, una zona del
+canto che altrimenti parrebbe ridursi a mera invettiva politica. 
+La galleria di sovrani, che ora si apre, si inquadra in una
+geografia che abbandona del tutto lo spazio esotico degli
+infedeli, e chiude i propri confini nell'area europea>
+(Sanguineti, ^l.c.~ {^Il realismo di D.~, Firenze, 1966},
+126-127).
+
+	|109-111.  e tal~: e l'infedele, il pagano eletto (cfr.
+Pasquazi, ^l.c.~ {^All'eterno dal tempo~, Firenze, 1966}, 166),
+(|l'Etiope~: l'abitante dell'Etiopia, ma qui ha il senso generico
+di pagano o infedele) condanner@a, biasimer@a (|danner@a~) tali
+(|tai~) Cristiani di nome ma non di fatto, quando, nel giorno del
+Giudizio universale, le' due grandi schiere (|collegi~)
+dell'umanit@a, gli eletti e i reprobi si divideranno, l'una in
+eterno ricca della beatitudine celeste e l'altra in eterno priva
+(|inope~: lat. inops) di essa.  L'Aquila continua il discorso di
+Cristo in terra, cfr. ^Matteo~, XXV, 31: <Or quando il Figlio
+dell'uomo sar@a venuto nella sua gloria, con tutti i santi angeli,
+allora egli sieder@a sopra il trono della sua gloria.  E tutte le
+genti saranno radunate davanti a lui, ed egli separer@a gli
+uomini, gli uni dagli altri, come il pastore separa le pecore dai
+capretti.  Allora il Re dir@a a coloro che saranno alla sua
+destra: Venite, benedetti del padre mio; ereditate il regno che
+vi @e stato preparato fin dalla fondazione del mondo.  Allora egli
+dir@a a coloro che saranno alla sua sinistra: Andate via da me,
+maledetti, nel fuoco eterno.  E questi andranno alle pene eterne,
+e i giusti nella vita eterna>.  Mi sembra che qui culmini
+l'istanza di fondo della ^Commedia~, la quale vuol essere anche
+una specie di anticipazione del giudizio universale che Cristo
+far@a alla fine dei tempi.  E qui @e l'Aquila stessa, come figura
+di Cristo giudice, che ripete il monito all'umanit@a, attraverso
+il racconto del visione di D.
+
+	In questo senso @e esatto parlare della ^Commedia~ come di
+un poema della giustizia umana e divina, poich$e D. altro non @e
+che rivelatore della giustizia divina, per bocca delle anime,
+illuminate da Dio.  Alla fine del Purgatorio avevamo visto
+Beatrice come ^figura~ di Cristo giudice di D. e dell'umanit@a;
+ora quel monito si ripete in modo definitivo nella ^figura~
+dell'Aquila, simbolo di Cristo giudice.
+
+	|112-114.  Che poran~: che potranno dire ai vostri re gli
+infedeli (|li Perse~: i Persiani: gen. per infedeli) salvi,
+quando (|come~) vedranno spalancato (|aperto~) il libro della
+giustizia (|quel volume~) divina, in cui sono registrati (|si
+scrivon~) tutti gli atti non meritevoli (|dispregi~) di questi re
+(|suoi)?~  Anche qui @e evidente il richiamo
+scritturale-apocalittico: <Ed io vidi i morti, grandi e piccoli,
+che stavano ritti davanti al trono; e dei libri furono aperti: ed
+un altro libro fu aperto, che @e il libro della vita: ed i morti
+furono giudicati sulle cose scritte nei libri, secondo le loro
+opere> (^Apocalisse~, XX, 12).
+
+	Ma qui l'Aquila-giudice accusa i malvagi reggitori
+d'Europa, in quanto amministratori della giustizia terrena, e
+quindi colpevoli di spregio contro la volont@a di Dio (|dispregi~:
+infatti pu@o significare anche disprezzo della giustizia divina,
+amministrata in terra, temporaneamente, dalla giustizia dei re);
+e la solennit@a di tale invettiva divina tanto pi@u @e veritiera, in
+quanto l'Aquila legge le loro colpe nel libro della giustizia
+divina, di cui quello dell'^Apocalisse~ @e ^figura.~
+
+	|115-117.  L@i~: nel libro della giustizia divina (|l@i~)
+si vedr@a, apparir@a, tra le imprese di Alberto di Asburgo, quella
+che tra non molto (|tosto~) muover@a la penna di Dio a scriverla,
+cio@e l'impresa per la quale sar@a invaso a devastato (|diserto~)
+il regno di Boemia.  Nel 1304 Alberto di Asburgo toglier@a al
+cognato Venceslao con ingiustificata prepotenza il regno di
+Boemia, di cui Praga era capitale.
+
+	|118-120.  L@i~: in quel libro si vedr@a scritto il danno
+(|il duol~) che nel paese intorno alla Senna apporta (|induce~)
+coniando monete false, Filippo il Bello, il quale morr@a nel 1314
+per il colpo di un cinghiale (|cotenna~: la pelle del cinghiale,
+qui la parte per il tutto), che attraversando la strada
+s'impiglio nelle gambe del cavallo che fece cadere il re, come
+narra il Villani, ^Cr.~ IX, 66.  Filippo il Bello, re di Francia,
+impegnato nella guerra contro la Fiandra, abbass@o il titolo aureo
+della moneta, pur conservando ad essa il valore nominale antico. 
+Cfr. Valerani, <Riv. di numismatica>, XXVIII, 1915.  Si noti
+l'acrostico che si forma con le lettere L, V, E, che si ripetono
+tre volte, formando artificiosamente la parola LUE, per
+significare che i sovrani d'Europa son la peste della societ@a
+umana.  Cfr. ^Purg.~ XII.
+
+	Ma la ripetizione, di per s$e, serve a rafforzare il tono
+polemico e ad attirare l'attenzione del lettore. 
+Sull'ingiustizia dei re d'Europa D. aveva gi@a messo una invettiva
+in bocca a Sordello nel VII del ^Purg.~ (vv. 91-136); ma qui la
+rassegna @e pi@u solenne e pi@U distaccata, come quella che proviene
+da spiriti beati, autorevoli nelle loro parole perch$e ispirati da
+Dio, ma anche sereni perch$e ormai fuori dalle miserie e dalle
+passioni della terra.  In tal modo la dialettica tempo-eternit@a
+crea quella ^vis~ drammatica che non @e assente nel Paradiso, come
+non @e assente nello spirito di D. la presenza della terra e della
+storia contemporanea.  In questo senso la ^Commedia~ pu@o essere
+anche il pi@u grande processo fatto all'umanit@a tutta.
+
+	|121-123.  L@i~: in quel libro si vedr@a scritta la
+superbia che fa nascere la sete di dominio (|ch'asseta~) e rende
+temerari nella loro ira (|folli~) il re di Scozia (Roberto Bruce)
+e il re d'Inghilterra, Edoardo I (|l'Inghilese~: l'Inglese),
+tanto che non sanno sopportare (|soffrir~) di rimanere ciascuno
+nei propri confini (|dentro a sua meta~).  Ma l'allusione di D.
+non @e ben chiara, perch@e D. non ha notizie precise sulle guerre
+tra Scozia e Inghilterra nel due-trecento.  <|L@i si vedr@a~:
+insistenza verbale, che martella il principio di ciascuna terzina
+e che lega insieme tre ternari consecutivi.  Ma insistenza che
+acquista il desiderio e il sentimento in una superiore giustizia,
+che veglia, e nota l'ingiustizia, e aspetta, per ristabilire
+l'ordine e reprimerne le violazioni.  Nei suoi aspetti esteriori
+il motivo poetico svaria, ma non muta.  Con una nuova insistenza
+verbale si ripresenta, scavato in profondit@a.  L'amarezza del
+bene divampa nella misura stessa che si fa necessario l'odio del
+male> (Casella, ^La figurazione dell'Aquila nel Paradiso~, in
+<Studi dant.>, 1954, p. 24).
+
+	|124-126.  Vedrassi~: si vedr@a (in quel libro) la vita
+lussuriosa (|la lussuria~) e molle del re di Spagna, Ferdinando
+IV, e del re di Boemia, Venceslao IV (cfr. ^Purg.~ VII, 101-102),
+che non conobbero n$e praticarono mai le virt@u proprie e degne dei
+principi (|valor~).
+
+	|127-129.  Vedrassi~: nel libro divino si vedr@a a Carlo
+II d'Angi@o, re di Napoli e di Gerusalemme, segnata con il numero
+una (|I~) la sua virt@u, le sue opere buone, mentre (|quando~) le
+azioni malvage (|'l contrario~) saranno segnate con la lettera
+|emme~ (^M~) cio@e con mille.  Il titolo |ciotto~ fu il soprannome
+di quel re, che era ^zoppo.~  <Pesante arguzia, quasi sicuramente
+in dispregio di quel vano titolo, giacch$e ^I~ e ^M~ sono appunto
+la prima e l'ultima lettera di ^Ierusalem~> (Chimenz, ^l.c.~
+{^Il. c. XIX del Par.~ in <Lett. dant.> del Getto, Firenze,
+1964}, 1758).
+
+	|130-135.  l'avarizia~: in quel libro si vedr@a l'avarizia
+e la vilt@a di Federico II d'Aragona, re di Sicilia (lett. di colui
+che governa, |guarda~, l'isola del vulcano), in cui Anchise fin@i
+la sua lunga vita (infatti Anchise mor@i a Trapani, secondo il
+racconto virgiliano); e per far comprendere quanta sia la sua
+dappocagine (|quanto @e poco~), la partita scritta sul suo conto
+(|la sua scrittura~) nel libro della giustizia divina, sar@a con
+caratteri abbreviati (|lettere mozze~), che in piccolo spazio
+(|in parvo loco~) registreranno (|noteranno~) le molte sue colpe
+(|molto~).  <La denuncia di D. @e costruita di tessere: una
+tessera per ciascuno di questi re e principi ingiusti, perch$e
+corrotti dalla cupidigia.  Ciascuna tessera ha l'evidenza di una
+epigrafe: di una epigrafe mortuaria da colpirsi, a demerito,
+sulla tomba di ciascuno di essi, appena saranno morti. 
+Nell'icasticit@a dell'eloquenza lo spessore verbale si addensa e
+carica di parole plebee (il ^barba~ per zio del v. 137, le
+^bozze~ del v. 138 e l'immagine dei sovrani-bestie>) (Mazzali,
+^l.c.~ {^Il c. XIX del Par.~ in <Lett. scal.>, Firenze, 1964},
+678).
+
+	|136-138.  parranno~: appariranno, saranno palesi a tutti
+le opere vergognose (|sozze~) dello zio (|barba~: ^barbas~ o
+^barbanus~ nel lit. medievale significava zio, e la voce @e
+rimasta nei dialetti settentrionali) e del fratello di Federico
+II (cio@e di Giacomo, re di Maiorca, e Giacomo II, re di Sicilia e
+d'Aragona), i quali hanno disonorato (|bozze~: ^bozzo~ nella
+lingua antica era il marito disonorato dalla moglie; ma qui D.
+con felice traslato usa questa parola riferendola alla corona)
+una stirpe (|nazione~: condizione nella quale uno nasce; in
+questo caso si allude alla nobile casa a cui appartennero) e due
+corone, quella di Maiorca e quella d'Aragona.  Si noti il
+linguaggio plebeo (|barba~; |bozze~; |opere sozze~) che mette in
+risalto il crescente sdegno del poeta.
+
+	L'Aquila, formata da anime giuste e beate, mutua il
+linguaggio e il sentimento sdegnoso di D. pellegrino, tutto preso
+dalla sua passione umana e polemica.  Ovviamente lo sdegno @e
+sempre a fin di bene, a monito dell'umanit@a errante.  La
+^Commedia~ in ogni sua parte rivela sempre questo spirito morale
+ed educativo, che ha ogni opera medievale.
+
+	|139.  E quel~: in quel libro si riconosceranno il re del
+Portogallo, Dionisio l'Agricola (1279-1325) e il re di Norvegia,
+Acone VII (1299-1319); qui nominati senza alcun commento, forse
+per le scarse notizie che ne aveva D.
+
+	|140-141.  e quel~: e il re di Iugoslavia (|Rascia~:
+comprendeva allora col nome del fiume che le bagna la Serbia e la
+Croazia) Stefano Urosio III, che con suo danno (|male~) conobbe
+(|ha visto~) il ducato d'argento di Venezia; infatti egli volle
+falsare il conio di quel ducato veneziano, dannando la sua anima
+tra i falsari dell'Inferno; oppure, in senso sarcastico, non @e
+riuscito a imitare bene il conio dei ducati veneziani.
+
+	|142-144.  Oh beata~: beata l'Ungheria che noi si lascia
+pi@u governare malamente dai suoi futuri regnanti!  E beata anche
+la Navarra, se si facesse difesa (|s'armasse~) della catena dei
+Pirenei che la chiudono a settentrione contro il giogo francese. 
+Gli angioni vantarono diritti su quei reami; quindi l'allusione @e
+specifica per deplorare il malgoverno di quei regnanti in ogni
+contrada d'Europa.
+
+	|145-148.  E creder~: e ognuno deve considerare
+(|creder~) come anticipo e pegno (|arra~) di ci@o che soffrir@a la
+Navarra sotto i Francesi, che gi@a le citt@a di Nicosia e di
+Famagosta, cio@e l'isola di Cipro, che sono mal governate dal
+principe francese Arrigo II di Lusignano, si lamentino e gridino
+rampogne (|garra~) per quel re bestia, che le tiranneggia, il
+qual procede di pari passo (|non si scosta dal fianco~) con gli
+altri sovrani bestiali d'Europa (|de l'altre~); cio@e si comporta
+come gli altri sovrani bestie come lui.  <L'invettiva che esplode
+in accenti s@i forti @e cinta, per il tono che l'anima nel suo
+complesso, da un'aura soprannaturale> (Malagoli, ^comm.~ 180).
+
+	|147.  bestia~:  <Sferzata finale che accomuna tutti i
+principi cristiani, il cui orgoglio e la cui avarizia --
+specialmente quella della monarchia francese -- demolivano in
+Europa una struttura sociale e giuridica unificata sotto il regno
+di Cristo.  Il pensiero morale e politico che D. ha trasfuso
+nella sua ^Monarchia~ @e tutto qui in luce, in una nota di
+passione amara e sdegnosa, che si placa nel sentimento di quella
+superiore giustizia che all'ingiustizia umana non lascia mai
+l'ultima parola, e che si fa udire in ogni coscienza, additandoci
+il bene della persona umana ordinata a Dio> (Casella, ^La
+figurazione dell'Aquila nel Paradiso~, in <Studi danteschi>,
+1954, p. 28).
+
+

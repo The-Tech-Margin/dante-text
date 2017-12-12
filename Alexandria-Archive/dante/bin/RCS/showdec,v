@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.30.13;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@display a Dante file on the VT220, using all the zippy characters
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# display a Dante file on the VT220, using all the zippy characters
+
+echo -n '[62"p'
+trap "echo -n '[61\"p[?7h'" 0 2 3 10 11 15
+stty litout
+sed 's/$//' $* | todec
+stty -litout
+@

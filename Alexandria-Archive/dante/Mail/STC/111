@@ -1,0 +1,188 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id LAA29898
+	for <steve@avalon.dartmouth.edu>; Wed, 17 Jun 1998 11:17:50 -0400
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id LAA20255;
+	Wed, 17 Jun 1998 11:17:49 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 34614 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <542111-11913>; Wed, 17 Jun 1998 11:17:04 -0400
+Received: from yuma.Princeton.EDU (bobh@yuma.Princeton.EDU [128.112.128.14])
+	by ponyexpress.Princeton.EDU (8.8.8/8.8.8) with ESMTP id LAA00489;
+	Wed, 17 Jun 1998 11:16:54 -0400 (EDT)
+Received: (from bobh@localhost)
+	by yuma.Princeton.EDU (8.8.8/8.8.8) id LAA23163;
+	Wed, 17 Jun 1998 11:16:53 -0400 (EDT)
+Message-Id: <199806171516.LAA23163@yuma.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Wed, 17 Jun 1998 11:16:53 -0400
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Malcolm.Brown@Dartmouth.EDU, Steve.Campbell@Dartmouth.EDU,
+        kirk@princeton.edu, Theodore.Cachey.1@nd.edu
+
+TO: Malcolm Brown (Dartmouth)
+
+FROM: Bob Hollander (Princeton)
+
+SUBJECT: DDP, PDP, ItalNet         DATE: 17 June 1998
+
+CC: Kirk Alexander (PU), Ted Cachey (Notre Dame)
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+(This is a preliminary DRAFT of a proposal for Dartmouth's
+consideration, and then eventually for others' as well,
+about ways in which all might benefit from a collaborative
+effort to put a new interface on the DDP for use of the PDP
+and, eventually, ItalNet.  NB: I have put down a lot of
+things that you already know only with an eye to eventual
+distribution to those who may be acquainted with one or none
+of these projects.)
+
+Brief background:
+
+(1) DDP, the Dartmouth Dante Project, was begun in 1982,
+opened to public use in 1988, and currently is consultable
+via Telnet.  We are "cleaning" a large part of the database
+this summer and fall.  In September it is our plan to have
+some 55 commentaries running (up from 45 today).  DDP has
+been overseen by me since its inception, but is a Dartmouth-
+based project, and is "owned" by Dartmouth, with me serving
+as Director; DDP is also served by an Advisory Board.  Some
+one-third of the commentaries are copyright-protected.  We
+received permission for all of these from the original
+publishers, and two complete sets of these are (1) in
+possession of Dartmouth and (2) in my own files.  New
+commentaries will be added as they are made available in
+electronic form.  The DDP is powered by the BRS software
+used by the Dartmouth Library.  The raw data of the
+commentaries was produced with standard mark-up of our own
+devising (for accents, etc., e.g., e aigu = $e; e grave =
+@e, etc.).  The DDP is currently available, for no fee of
+any kind, via the Internet.
+
+(2) PDP, the Princton Dante Project, was first formulated in
+1994, had a first CD-ROM prototype produced at NYU (Red
+Burns) with assistance from Voyager software (Bob Stein) in
+June of 1996.  In its current form it was first funded by
+Mellon, then Delmas, then Cone (each for $25,000 or so) in
+1996-97.  Princeton has given handsomely "in kind."  There
+are nine people currently working on the project: Hollander
+(Director), Lauren Seem (Administrator), James Beldock
+(independent software consultant), Catherine Kunicki
+(independent designer), Kirk Alexander (School of
+Engineering, PU), and  four staff members of CIT at
+Princeton: Peter Batke, James Chu, Paula Hulick, and
+Jonathan Wilding.  We plan to "open" with a Beta version for
+use in Hollander's freshman seminar this coming semester. 
+By February it will be the "text" used in two graduate
+courses on Dante taught by Hollander, one at Princeton, the
+other at Johns Hopkins.  Thus we will have roughly four
+months to debug the database, and hope to open to the
+general public in February 1999, if not earlier.  Princeton
+wants to establish a fee-schedule for non-Princeton users,
+whether site-licensees or individuals.  The project is a
+multi-media version of the DIVINE COMEDY, containing the
+following elements:
+
+          (1) Italian text (Petrocchi)
+
+          (2) English translation (INFERNO: Robert and Jean
+Hollander [completed]; PURGATORIO & PARADISO [Sinclair
+prose, "cleaned up" by Seem and Hollander; eventually
+replaced by the Hollanders' translation in 2-4 yours])
+
+          (3) Commentary (ca. 10 pages per canto) to INFERNO
+by Hollander
+
+          (4) Some philogoical notes based on Petrocchi's
+observations in the standard edition
+
+          (5) "historical" notes drawn from the Paget Toynbee
+DANTE DICTIONARY (revised by Chas. Singleton)
+
+          (6) images of some places referred to in the text;
+some maps and diagrams serving a similar function
+
+          (7) lectures (currently three) by Hollander on key
+matters encountered by readers, e.g., "allegory," "Virgil,"
+"the moral situation of the reader."
+
+          (8) biography of Dante (Toynbee's)
+
+          (9) illustrations by Dore' and Nattini
+
+          (10) connection to the variety of Web resources
+already devoted to Dante, e.g., Columbia, Notre Dame,
+Virginia, the home page of Otfried Lieberknecht, and, of
+course, the DDP.  It is the role of this last that will be
+discussed, below.
+
+(3) ItalNet, operative since 1994, is an international
+consortium whose mission is to make available scholarly
+Internet resources of literary and historical materials
+relating to Italian studies.  The founding member
+institutions are: Centro di studi Opera del vocabolario
+italiano, a research center of the Consiglio nazionale delle
+ricerche (CNR), Florence, Italy; ARTFL Project, Department
+of Romance Languages, University of Chicago; The William and
+Katherine Devers Program in Dante Studies, University of
+Notre Dame Department of Italian Studies; University of
+Reading, England.
+     The executive board of ItalNet consists of Pietro
+Beltrami of the Opera del vocabolario italiano (OVI); Robert
+Morrissey, Director of ARTFL, University of Chicago;
+Theodore Cachey, Director of the Devers Dante Program,
+University of Notre Dame; Zygmunt Baranski, Head of the
+Italian Studies Department at the University of Reading; and
+Mark Olsen, executive director of ARTFL, with primary
+responsibility for the technical support of ItalNet.
+     Among other projects, ItalNet has recently released the
+textual corpus of the Tesoro della lingua italiana delle
+origini which is made available over the Internet using the
+search engine developed by the ARTFL project.
+     ItalNet, in part because of its relationship with ARTFL,
+in part because of its implementation and distribution of a
+major database of Italian literary (and other) texts, is a
+natural collaborator with DDP and PDP.
+
+___________________________________________________________
+
+A proposal for tripartite collaboration among these three
+entities:
+
+Here are the givens:
+
+(1) DDP would like to improve its interface and export it to
+the WWW.
+
+(2) PDP would like to have available through its site a
+better version of DDP.
+
+(3) ITALNET would like to have available through its site
+DDP in a more user-friendly form that would be accessible as
+are its Italian texts and other Italian Studies databases.
+
+This proposal suggests the following terms:
+
+(1) ItalNet would help PDP and DDP refashion the DDP
+database.
+
+(2) In return Dartmouth would assist ItalNet by furnishing
+some clean raw text to experiment with, and would eventually
+give its blessing to ItalNet's use of the texts of the DDP
+commentaries, at least those NOT protected by copyright
+(currently some 35-40 texts).
+
+(3) For its part, ITALNET would give full credit to DDP, in
+the following forms:
+
+     (a) Any search of DDP materials would begin with the
+display of the DDP welcome screen;
+
+     (b) similarly, DDP's production data (original printed
+edition, mode and date of data entry at Dartmouth, name of
+editor[s]) would also be displayable.
+
+
+The advantage to DDP would be to make itself available in a
+user interface that would be much more helpful than the one
+we currently support.

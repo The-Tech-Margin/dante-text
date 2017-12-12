@@ -1,0 +1,79 @@
+Return-Path: steve@avalon.dartmouth.edu
+Received: from avalon (localhost [127.0.0.1])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id KAA18837;
+	Mon, 12 Jan 1998 10:13:56 -0500
+Message-Id: <199801121513.KAA18837@avalon.dartmouth.edu>
+To: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+cc: Malcolm.Brown@Dartmouth.EDU, tobypaff@PUCC.PRINCETON.EDU,
+        Bob.Brentrup@Dartmouth.EDU, steve
+Subject: comms to edit
+In-reply-to: Your message of "Sun, 04 Jan 1998 13:19:08 EST."
+             <199801041819.NAA15712@phoenix.Princeton.EDU> 
+Reply-To: Stephen.Campbell@Dartmouth.EDU
+Date: Mon, 12 Jan 1998 10:13:50 -0500
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+
+Bob said:
+
+> There
+> are now some 2000 individual errors that I have record
+> of, and I have five commentators ready to be entered:
+> Andreoli (not yet loaded)
+> Chimenz
+> Sapegno
+> Steiner
+> Pasquini/Quaglio
+
+Folks,
+
+On alexandria.Dartmouth.EDU in the home directory of user dante are these
+subdirectories:
+
+Archives
+Commentaries
+Commentaries.new
+Commentaries.ng
+
+(Note that these are all symbolic links to directories in /agate.)
+
+All of these directories contain some version of the text of the commentaries.
+Archives contains old versions of some comm text. Commentaries contains (to a
+close approximation) the text that went into the last load of the database in
+1991. Commentaries.new contains text of new (not yet loaded) comms and new
+parts of some loaded comms. All of these directories have read-only 
+permissions; we should not alter any files in these directories. 
+
+Commentaries.ng (ng = next generation) is a new directory in which we should
+start assembling the text for the next database load. Text in here may be
+copied from one of the other directories. Text in here may be edited to
+correct errors on older versions. All files in Commentaries.ng are writeable
+by user dante and by other users in the Unix group named dante.
+
+I have populated Commentaries.ng with the text of the 5 comms Bob mentions in
+his message quoted above. Some of the files are compressed (ie end in .Z);
+some are not. I have used the "note" command located in ~dante/bin to create
+or update the HISTORY files in these directories. Bob, this is where you can
+start applying corrections. You can use the uncompress command where needed.
+
+Note that these directories are NOT backed up routinely like some file systems
+are. As things stand today, if we accidently destroy a file in
+Commentaries.ng, we lose any changes we have made to that file. Maybe Bob
+Brentrup and I can arrange backups.
+
+PLEASE NOTE: My biggest concern as we start this process is that we will not
+be able to keep track of what changes have been made to what files and what
+changes have not been made. We have several lists of needed changes: Bob has
+his own; there are lists of Typos in the Commentaries and Commentaries.new
+directories; I have a folder of several dozen email messages going back to
+1993 containing notes about needed corrections. Keeping track of all this is
+what Janet did, and to my knowledge no one is doing it now. I think it is
+imperative that anyone making any changes in Commentaries.ng document it
+fully using the "note" command. If we don't solve this problem, we will miss
+some fixes.
+
+Bob, when you have spent an hour or two editing these files, please call me. I
+would like to go over the procedures you are using, even if you think they are
+working fine. I may be able to make the job easier/safer. Let me know when you
+need more comms brought into Commentaries.ng.
+
+							Steve

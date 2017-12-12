@@ -1,0 +1,616 @@
+	|1-79.  Mentr'io~... |poi~: The reader will note that
+during the entire examination on ^caritas~, or love, the third
+theological virtue, Dante is blinded, a fact which can hardly
+fail to bring to mind Cupid blindfolded and many another such
+traditional association of blindness with love.  In this striking
+context it should also be noted that no definition of love is
+given in the examination, as it is with faith and hope.  This
+serves to stress the fact that love is primarily a matter of the
+will, not of the intellect.  Dante is simply asked ^what~ he
+loves, and ^why.~  The examination concludes what amounts to a
+kind of "entrance examination," the "entrance" being into the
+region of eternal blessedness above.  Cf. ^Conv.~ III, xiv, 14,
+where Dante writes: "onde la nostra buona fede ha sua origine; da
+la quale viene la speranza, [che @e] lo proveduto desiderare; e
+per quella nasce l'operazione de la caritade.  Per le quali tre
+virtudi si sale a filosofare a quelle Atene celestiali" ("whence
+our excellent faith hath its origin, from which cometh the hope
+of that for which we long and which we foresee, and from this is
+born the activity of charity; by which three virtues we rise to
+philosophise in that celestial Athens").
+
+	The fact that this examination on the three virtues is
+indeed an entrance examination is precisely what is underscored,
+for the attentive reader, by the closing words of ^Par.~ XXIII,
+that is, just before the examination is to begin, with ^Par.~
+XXIV and with St. Peter as first examiner.  Now it will be
+remembered that the two keys that were left to Peter by Christ
+are (as the poet has chosen to conceive the matter) in the hands
+of the guardian angel at the gate of Purgatory proper, the
+^entrance~ to Purgatory (^Purg.~ IX, 117-129).  But Peter's
+presence here in Paradise, framing the examination cantos
+XXIV-XXVI (for Peter appears centrally on the scene in ^Par.~
+XXVII), and the reference in ^Par.~ XXIII, 139, to him as "the
+one who holds the keys to such glory" (the glory above this
+heaven, in the Empyrean) clearly signal the fact that the
+wayfarer here passes through a kind of "gateway" (symbolically
+conveyed), if not a material gate such as that of Purgatory,
+where the keys actually are. 
+
+	|1.  dubbiava~: The verb conveys the sense of hesitation and
+of fear.  Cf. ^Inf.~ IV, 18; ^Purg.~ III, 72; XX, 135.
+
+	|2.  de~ = ^da.~  |fiamma~: That of St. John.
+
+	|3.  spiro~: "Voice" (a breathing forth); cf. ^Par.~
+XXIV, 32.
+
+	|4-5.  risense de la vista~: "Regain your sight."  |in me
+consunta~: "Lost by looking upon me."
+
+	|6.  la compense~: "You make up for it," i.e., by
+speaking with me and using the light of the mind in place of
+actual sight.
+
+	|7-8.  ove s'appunta l'anima tua~: That is, whither, at
+what principal "target" (vs. 24), does your soul aim?  "Aiming,"
+it should be noted, is a matter of the will primarily (see n. to
+vss. 1-79), and love is primarily of the will.  And, as noted, no
+definition of love is required here.  |e fa ragion che~: "And
+know that," "and realize that."  Cf. ^Inf.~ XXX, 145.
+
+	|9.  non defunta~: "Not lost forever," but only
+temporarily "confounded."
+
+	|10.  dia~: I.e., ^divina.~  Cf. ^Par.~ XIV, 34; XXIII,
+107.  This is the "region de li angeli" (^Par.~ XX, 102).
+
+	|11.  lo sguardo~: It should be recalled that Beatrice
+has kept her eyes on the three apostles and has not yet turned
+from them to look at Dante.  Cf. ^Par.~ XXV, 110-111; 115-117.
+
+	|12.  Anania~: Ananias, the disciple at Damascus, cured
+St. Paul of his blindness by "laying his hands upon him."  See
+Actus 9:17-18:
+
+     Et abiit Ananias, et introivit in domum; et imponens ei
+     manus dixit: Saule frater, Dominus misit me Iesus, qui
+     apparuit tibi in via qua veniebas, ut videas et implearis
+     Spiritu Sancto.  Et confestim ceciderunt ab oculis eius
+     tamquam squamae, et visum recepit; et surgens baptizatus
+     est.
+
+     So Ananias departed and entered the house, and laying his
+     hands upon him, he said, "Brother Saul, the Lord has sent me
+     -- Jesus, who appeared to thee on thy journey -- that thou
+     mayest recover thy sight and be filled with the Holy
+     Spirit."  And straightway there fell from his eyes something
+     like scales, and he recovered his sight, and arose, and was
+     baptized.
+
+	|13.  Al suo piacere~: "At her pleasure," "whenever it
+may please her."
+
+	|14-15.  che fuor porte~... |ardo~: Cf. ^Purg.~ XX,
+41-42.
+
+	|16-18.  Lo ben che fa contenta questa corte~: This is
+divine love and the gift of eternal beatitude to human souls. 
+|Lo ben~... |forte~: Thus Dante answers St. John's query (vss.
+7-8) concerning the object of his love.  The subject of the
+sentence is |Amore~, the object is |lo ben~, at the beginning,
+and the verb |legge~ clearly bears the meaning of "read" in the
+sense of "teach."  |Alfa e O~: Alpha and omega are the first and
+the last letters of the Greek alphabet.  In the Apocalypse
+(1:8) -- which, it should be remembered, was in Dante's time
+attributed to the same apostle John who wrote the fourth Gospel
+-- we find: "Ego sum A et %Omega\, principium et finis,
+dicit Dominus Deus."  ("'I am the Alpha and the Omega, the
+beginning and the end', says the Lord God.")  "The Vulgate in the
+13th century read `alpha et %omega\' or `a et %omega\' (Gr). 
+|scrittura~: Out of metaphor this means "all possible objects of
+love."  |o lievemente o forte~: "With lesser or greater
+emphasis."
+
+	|19.  voce~: The voice of St. John.
+
+	|20.  abbarbaglio~ = ^barbaglio.~
+
+	|22.  Certo~: "However," "but."  |a pi@u angusto vaglio~:
+"With the finer sieve" (one that separates the bran from the
+flour), that is, "you must make your declaration more precise,
+you must `refine' it."
+
+	|23.  schiarar~ = ^chiarire.~
+
+	|25.  Per filosofici argomenti~: The nature of these is
+made explicit in vss. 38-39.  This amounts to a statement of what
+human reason can see, what an Aristotle could teach in this
+regard, as distinguished from divine revelation.
+
+	|26.  per autorit@a che quinci scende~: Divine revelation,
+revealed truth, as conveyed in the Holy Scriptures.
+
+	|27.  convien che in me si `mprenti~: "Must needs stamp
+on me," so that I will be "imprinted by it."  For the figure of
+the stamp on wax, so common in the poem, but more specifically in
+a context of love, see ^Purg.~ XVIII, 38-39.  Cf. ^imprenta~ in
+^Par.~ X, 29.
+
+	|28-30.  ch$e 'l bene~... |s$e comprende~: "For good, as
+such, kindles love in proportion as it is understood, and kindles
+the greater love, the more goodness it contains within it" (Gr). 
+This is the philosophical argument, common to Aristotle and other
+pagan thinkers; it thus corresponds to the ^filosofici argomenti~
+and represents them, continuing through vs. 36.  Although love is
+primarily of the will, Dante's position is repeatedly and
+consistently on the side of those philosophers and theologians
+who hold that perception and understanding (acts of the
+intellect) precede love (an act of the will).  Cf. ^Purg.~
+XVIII, 22-27; ^Par.~ XXVIII, 109-111; and ^passim.~  |maggio~ =
+^maggiore.~  Cf. ^Inf.~ VI, 48.
+
+	|31-36.  Dunque a l'essenza~... |prova~: "Since love is
+attracted by goodness, and all goodness is in God, he must be
+the primal object of love" (Gr).  |a l'essenza~: |A l'essenza~ is
+to be connected with ^si mova~ in vs. 34.
+
+	|33.  altro non @e ch'un lume di suo raggio~: Cf. ^Par.~
+XXXI, 22-24.
+
+	|34-36.  pi@u che in altra convien che si mova~: "Must
+turn more than to any other [essence]."  The subject of |si mova~
+is |la mente~... |di ciascun che cerne~ / |il vero in che si
+fonda questa prova~ of the next two verses.  |cerne~: "Discerns,"
+from the Latin ^cernit.~  |in che~: "Upon which."  |prova~:
+"Argument."
+
+	|37-39.  Tal vero~... |sempiterne~: "This is clearly
+Aristotle, who teaches that God is the supreme object towards
+whom the heavens yearn....  The extension of this idea from the
+heavens to the Angels or Deities is not remote from Aristotle's
+spirit, and is entirely germane to Dante's conception of it. 
+(Compare ^Conv.~ ii [4]; and also ^Parad.~ II, 139-144...)  The
+principle of lines 28-30 underlies all Aristotle's philosophy;
+but perhaps Dante had specially in mind the passage in the
+^Metaphysics~ where Aristotle says that what moves other things,
+though itself unmoved, is `the object of longing' or `the object
+of intellectual apprehension'; and adds that `the principles of
+these two are identical'.  Albertus (with whom Thomas
+substantially agrees) interprets them as meaning ^appetibile
+bonum~ and ^intelligibile bonum~, `that which asserts itself as
+good to our desire' and `that which asserts itself as good to our
+intellect.'  He goes on to explain that the former may be
+delusive and may be resisted, but the latter `provoketh our
+longing without let and without intermediary; because there is no
+need that it should first announce itself as good through the
+sense in order to stir the appetite; nor is there any clog to it
+on the part of the receiving intellect, since the thing loved is
+good in itself and... winneth the undivided longing of him upon
+whom it is poured'" (TC).  See ^Inf.~ VII, 74, and ^Par.~
+XXVIII and XXIX.  |sterne~: "Unfolds," from the Latin ^sternit.~
+
+	|40.  Sternel~ = ^lo sterne.~  |autore~: God.
+
+	|42.  Io ti far@o vedere ogne valore~: See Exod. 33:19:
+"Ego ostendam omne bonum tibi."  ("I will make all my beauty pass
+before you.")
+
+	|43.  Sternilmi tu~ = ^tu me lo sterni.~
+
+	|44.  preconio~: |Preconio~ is a Latinism.  The reference
+is most probably to the Gospel of John (and this most
+appropriately, since Dante is speaking with him), for his is the
+most "theological" of the four Gospels, opening solemnly and
+mysteriously (see |arcano~ in this verse) with the announcement
+of the Incarnation, God's great sacrifice to man: "In principio
+erat Verbum."  ("In the beginning was the Word.")  See also
+Ioan. 3:16.  Some interpreters, however, have held that the
+reference is to Apoc. 1:8 (see n. to vss. {16-18}).  Those who
+adopt such a view should bear in mind that, for Dante, the author
+of the fourth Gospel and the author of the Apocalypse are the
+same
+author.  |grida~: "Proclaims."
+
+	|45.  bando~: "Heralding."
+
+	|46.  Per intelletto umano~: That is, the philosophical
+arguments which a pagan such as Aristotle was able to formulate
+by purely human reason.
+
+	|47.  e per autoritadi~: Cf. vs. 26.  These are
+scriptural authorities.  The method of basing a demonstration in
+theology on both Aristotle and the Scriptures is, of course,
+constant with Thomas Aquinas and Albertus Magnus, to name but two
+theologians.  |concorde~ (from the Latin ^concordes~) =
+^concordi.~
+
+	|48.  d'i tuoi amori a Dio guarda il sovrano~: "The
+highest of your loves looks to God."  In the examination of a
+Christian's love, this is the supreme test.  Cf. ^Purg.~ XVII,
+97.
+
+	|49-51.  Ma d@i ancor~... |morde~: This is an odd
+combination of metaphors, but such mixing is common in Dante, as
+every reader knows by now.  |suone~ = ^suoni~ (subjunctive), "you
+may declare."  Cf. ^Par.~ XV, 68.
+
+	|53.  l'aguglia di Cristo~: John.  The four beasts of
+Apoc. 4:7 are traditionally identified with the four
+Evangelists.  St. John is the "flying eagle."
+
+	|54.  professione~: "Declaration," in this examination on
+love.
+
+	|55.  Per@o~ = ^perci@o.~  |morsi~: The metaphor continues
+from vs. 51.
+
+	|56.  lo cor volgere a Dio~: Again, the supreme test. 
+Cf. n. to vs. 48.
+
+	|57.  caritate~: Love of God is more specifically
+signified by ^caritas~ than by ^amor.~
+
+	|58.  l'essere~: "Existence."
+
+	|59.  la morte ch'el sostenne perch'io viva~: Cf. I
+Ioan. Apos. 4:7-9: "Carissimi, diligamus nos invicem, quia
+caritas ex Deo est, et omnis qui diligit ex Deo natus est et
+cognoscit Deum.  Qui non diligit non novit Deum, quoniam Deus
+caritas est.  In hoc apparuit caritas Dei in nobis, quoniam
+Filium suum unigenitum misit Deus in mundum ut vivamus per eum." 
+("Beloved, let us love one another, for love is from God.  And
+everyone who loves is born of God, and knows God.  He who does
+not love does not know God; for God is love.  In this has the
+love of God been shown in our case, that God has sent his
+only-begotten Son into the world that we may live through him.") 
+The reader should not forget that in Dante's time the apostle
+John was commonly regarded as the author of the three epistles as
+well as of the Gospel and of the Apocalypse.  |el~ = ^egli~
+(Christ, both God and man).
+
+	|60.  quel che spera ogne fedel com'io~: Salvation,
+eternal beatitude, and the vision of God.
+
+	|61.  la predetta conoscenza~: See vss. 25-45.
+
+	|62-63.  tratto m'hanno~... |riva~: The metaphor takes
+the reader back as far as ^Inf.~ I, 22-27, the first simile of
+the poem (see the note corresponding to those verses).  See also
+^Purg.~ XVII, 91-139; ^Purg.~ XVIII; and the opening of
+^Purg.~ XIX.
+
+	|64-66.  Le fronde~... |porto~: Dante is saying that he
+loves the various creatures of God's creation (the leaves of His
+garden) that make up the world, in proportion to the goodness
+which their Maker (the eternal Gardener) in His predestination
+has bestowed upon them.  The good Christian should love God alone
+for Himself and love creatures only insofar as they participate
+in the goodness of God.  Cf. Ioan. 15:1: "Ego sum vitis vera,
+et Pater meus agricola est."  ("I am the true vine, and my Father
+is the vine-dresser.")  Again Dante chooses a metaphor from John.
+
+The examination on love ends at this point, and therewith the
+entire "entrance examination" on the three virtues, conducted by
+the three apostles who represent those virtues.
+
+	|68-69.  e la mia donna~... |"Santo, santo, santo"~! 
+These words of praise (and now Beatrice joins all the host in
+chanting them) constitute a "passing mark" for the whole
+examination that could hardly be higher, for these are words
+which the Seraphim chant around the throne of God, according to
+Isa. 6:2-3, and which the four animals chant around the throne
+in Apoc. 4:8.
+
+	|70-71.  E come a lume~... |ricorre~: "And as one is
+awakened by a keen light, because of the spirit of sight running
+to meet~...."  Cf. ^Conv.~ III, ix, 7-10, where the act of sight
+is described scientifically.  Also see ^Conv.~ II, ix, 5, where
+Dante speaks of the "nervo per lo quale corre lo spirito visivo"
+("nerve along which the visual spirit runs").  |si disonna~:
+Impersonal and passive.
+
+	|72.  gonna~: "Coat" or membrane of the eye.  In ^Conv.~
+III, ix, 13, it is termed a tunic ("tunica").
+
+	|73.  aborre~: "Shrinks" (from looking too intently). 
+The infinitive is ^aborrire.~
+
+	|74.  nescia~: "Unknowing," "senseless."  |vigilia~:
+"Awakening."
+
+	|75.  la stimativa~: The faculty which discerns (the form
+^estimativa~ is also common).  This faculty is referred to by
+circumlocution in ^Purg.~ XXIX, 49 (see n. to that verse).  See
+B. Nardi (1949), pp. 172-173.
+
+	|76.  quisquilia~: "Mote."
+
+	|78.  rifulgea da pi@u di mille milia~: The radiance of
+Beatrice's eyes would have been visible a thousand miles away.
+
+	|79.  mei~ = ^meglio.~  Cf. ^Inf.~ I, 112, and ^passim.~
+
+	|81.  un quarto lume~: A fourth light has now joined the
+other three -- presumably it did this while Dante was blinded. 
+This proves to be Adam, hidden by his own radiance like all other
+souls here.
+
+	|83.  vagheggia~: "Lovingly contemplates."  Cf. ^Purg.~
+XVI, 85; ^Par.~ X, 92; and ^passim.~  The subject is |l'anima
+prima~, Adam.
+
+	|84.  la prima virt@u~: The power of the ^fattor~ (vs.
+83), God.  Cf. ^Par.~ X, 3; ^Conv.~ III, vii, 5.
+
+	|85-87.  Come la fronda~... |soblima~: Cf. Statius,
+^Theb.~ VI, 854-857.  |fronda~: "Bough."  |flette~: "Bends." 
+|soblima~: "Uplifts."
+
+	|88.  fec'io~: "So I stood" (i.e., with bowed head).  |in
+tanto in quant'~: "While."
+
+	|89.  stupendo~: "Amazed."  |mi rifece sicuro~: Dante
+raises his head again.
+
+	|91-93.  O pomo~... |nuro~: Dante as poet delights in
+circumlocutions that distinguish Father Adam from the rest of the
+human race, who descended from him.  Cf. ^Par.~ VII, 26:
+^quell'uom che non nacque.~  Now he addresses him as |pomo~ (one
+would think that since Adam's great sin was by way of a |pomo~
+the term might be avoided in his presence!) and as |padre
+antico~, each circumlocution serving to identify him among all
+men.  |Pomo~ is clear enough in its meaning, as is |padre antico~
+when one realizes that the meaning of |nuro~ (from the Latin
+^nurus~) is "daughter-in-law" in the sense of "wife of any
+descendant."
+
+	|94.  a te suppl@ico~: For the dative construction, cf.
+the Latin ^tibi supplico.~  The requirements of the rhyme cause a
+shift of accent from ^s@upplico~ to ^suppl@ico.~  Cf. ^Par.~ VI,
+91, "repl@ico," and ^passim~ for other instances of such a shift.
+
+	|95.  tu vedi~: That is, you see in God my wish to know
+from you.
+
+	|97.  Talvolta un animal coverto broglia~: It is not
+clear, in vss. 97-99, just what kind of creature the poet has in
+mind -- a falcon, or cat, or little pig in a sack, or a horse
+covered with its trappings?  |broglia~: Cf. the Proven$cal
+^brolhar~, "to move," as well as the French ^brouiller.~
+
+
+	|98-99.  s@i che l'affetto~... |'nvoglia~: "So that its
+desire [or feeling] is perforce revealed by the response that its
+wrapper makes to it."  |la `nvoglia~: The modern Italian is
+^involucro.~  Cf. ^coverta~, vs. 101.  For a like notion
+respecting these spirits, covered as they are by their radiance,
+see ^Par.~ VIII, 54, the image of a silkworm: ^quasi animal di
+sua seta fasciato.~
+
+	|100.  primaia~ = ^prima.~
+
+	|101.  la coverta~: The soul's covering is, of course,
+pure radiance, spiritual and not material.
+
+	|102.  quant'ella a compiacermi ven@ia gaia~: "How
+joyously it came to do me pleasure."
+
+	|103.  spir@o~: "Breathed forth," i.e., "spoke."  Cf.
+^Par.~ XXV, 82.  |proferta~ = ^proferita~, "uttered."
+
+	|106.  speglio~ = ^specchio~ (i.e., as ^passim~, the mind of
+God).
+
+	|107-108.  che fa di s$e~... |pareglio~: "Which makes
+itself a [complete or perfect] image of other things, while
+nothing makes of itself a [perfect] image of it [the mirror]." 
+God reflects everything, but nothing can wholly reflect God.  See
+Thomas Aquinas, ^Summa theol.~ I, q. 57, a. 2, resp.: "Deus per
+essentiam suam, per quam omnia causat, est similitudo omnium." 
+("By His essence, by which He causes all things, God is the
+likeness of all things.")  |lui~ = ^a lui~, corresponding to |a
+l'altre cose.~  |pareglio~: Cf. the French ^pareil.~  Here the
+adjective is used as a noun.
+
+	|109-142.  Tu vuogli udir~... |sesta~: Dante addresses four
+questions to Adam, who first formulates and then answers them. 
+The
+questions are answered, however, not in the order in which they
+are
+put, but in the order of their importance.  First comes the reply
+to question number three: What was the real nature of Adam's sin?
+
+Then follows the answer to question number one: How long ago was
+he
+created?  Next comes the reply to question number four, which
+concerns the language that the first man invented and spoke.  And
+last is offered the answer to question number two: How long did
+Adam stay in the Garden of Eden? 
+
+	|109.  quant'@e che~: "How long it is since."
+
+	|110-111.  costei a cos@i~... |dispuose~: Beatrice, who is
+beside Dante, and who, in the Garden of Eden, disposed Dante to
+the ascent: ^puro e disposto~ (^Purg.~ XXIII, 145).  |cos@i lunga
+scala~: The ladder of contemplation which reaches from the summit
+of the mountain all the way to God.  The reader will recall the
+image of the ladder in connection with the heaven of Saturn,
+heaven of the contemplatives (^Par.~ XXII, 68-75).
+
+
+	|112.  quanto fu diletto~: In this construction |diletto~
+is probably a noun.
+
+	|113.  la propria cagion~: "The true reason."  |disdegno~:
+The
+wrath of God, resulting from the sin of Adam and Eve in the
+Garden
+of Eden.
+
+	|114.  e che fei~: This anticipates Adam's answer (vss.
+124-138) in which he makes it clear that he ^did~ create or
+"make" the language he spoke.
+
+	|115.  Or~: The word clearly signals the beginning of the
+answers, which now follow.  |non il gustar del legno~: For the
+notion as applied to the tree of the Garden of Eden, cf. ^Purg.~
+XXXII, 43-44.
+
+	|117.  il trapassar del segno~: "Transgressing the
+bound."  Adam's sin was disobedience, caused by pride (see Thomas
+Aquinas, ^Summa theol.~ II-II, q. 163, a. 1) not gluttony,
+though gluttony resulted from that sin (cf. ^Purg.~ XXIV,
+116-117).  See also Augustine, ^De civ. Dei~ XIV, xii-xiv.
+
+	|118.  Quindi onde mosse tua donna Virgilio~: "Therefore,
+in the place whence your lady drew Virgil," i.e., in Limbo.  See
+^Inf.~ II, 52-69.
+
+	|119.  volumi~: "Revolutions," i.e., solar years in the
+sense expressed in the following tercet with the phrase ^tutt'i
+lumi de la sua strada~ {vv.121-122}, that is, all the signs of
+the zodiac.
+
+	|120.  questo concilio~: The "assembly" of the blessed
+(cf. ^Purg.~ XXI, 16) for which Adam longed for centuries before
+he was taken from Limbo by Christ (^Inf.~ IV, 55).
+
+	|121.  lui~: The sun.  |lumi~: The signs of the zodiac
+(cf. vss. 119-120).
+
+	|122-123.  novecento trenta fiate~... |fu'mi~: Cf.
+Gen. 5:5: "Et factum est omne tempus quod vixit Adam anni
+nongenti triginta, et mortuus est."  ("The whole lifetime of Adam
+was nine hundred and thirty years; then he died.")
+
+	Adding the number of years that Adam lived on earth (930)
+to the number of years he spent in Limbo (4,302) gives a total of
+5,232 years between the creation of Adam and the Crucifixion (cf.
+^Purg.~ XXXIII, 62), hence 6,498 years between the Creation and
+the date of the journey (i.e., 5,232 years before the Crucifixion
+/+ 1,266 years after the Crucifixion (cf. ^Inf.~ XXI, 112-114). 
+|in terra fu'mi~: |Mi~ here is the familiar so-called pleonastic
+reflexive in its distancing function, the distance in this case,
+concerning Adam's life on earth, being one both of time and of
+space: "down on earth and so long ago," as it were.  For a
+similar example of the pronoun in this function, cf. ^Purg.~
+XII, 90.
+
+	|124-126.  La lingua~... |attenta~: "The 'unaccomplishable
+task' which Nimrod's people attempted was the building of the
+Tower
+of Babel: Gen. xi, 4-9.  Cf. ^Inf.~ XXI, 77-78; ^Purg.~ XII, 34. 
+-- Dante evidently changed his opinion on this subject, for in
+^Vulg. El.~, I, vi, 5-7, he had said that Adam's language was
+spoken by all men until the confusion of tongues, and by the
+Hebrews after that event.  His study of human speech doubtless
+led
+him to the conclusion that an unwritten language could not last
+without change through many generations" (Gr).  See B. Nardi
+(1949), pp. 217-247, and the ^Enciclopedia dantesca~ under the
+first "Adamo" entry.  |Nembr@ot~: Cf. ^Inf.~ XXXI, 77; ^Purg.~
+XII,
+34-36.
+
+	|127-129.  ch$e nullo effetto~... |durabile~: "For no
+product of reason was ever permanent for all time, because of
+human inclination, which varies with the sky" (Gr).  |Il cielo~
+in the singular refers to the heavenly spheres, the turning of
+which constitutes the operation of Nature, as every reader of the
+poem knows by now; and reason, in its purely human aspect, within
+the realm of Nature, is a human construction.  As for man's
+variability (as of all other things within the realm of Nature
+and beneath the sphere of the moon), cf. ^Par.~ V, 98-99, where,
+of Dante himself, it is said: ^io che pur da mia natura~ /
+^trasmutabile son per tutte guise~!  See also ^De vulg. eloqu.~
+I, ix, 6: "cum... homo sit instabilissimum atque variabilissimum
+animal" ("since... man is a most unstable and changeable
+animal").
+
+	|130.  Opera naturale @e ch'uom favella~: "'It is a
+natural operation for man to speak': hence he always does speak,
+in some fashion" (Gr).
+
+	|131-132.  ma cos@i o cos@i~... |v'abbella~: Nature here
+appears as the subject of this statement and is almost
+personified in the usual sense of "the operation of the heavenly
+spheres on the sublunar world."  Nature leaves it to man to speak
+as he pleases, literally "as it suits him" (|secondo che
+v'abbella~).  For the notion in the scholastic view of language
+in this regard, cf. Thomas Aquinas, ^Summa theol.~ II-II, q. 85,
+a. 1, ad 3: "Significare conceptus suos est homini naturale; sed
+determinatio signorum est secundum humanum placitum."  ("It is
+natural to man to express his ideas by signs, but the
+determination of those signs depends on man's pleasure.")  The
+idea is common to scholastic thought.  See P. Rotta (1909), pp.
+186-187.  |abbella~: A common Proven$calism.  Cf. ^Purg.~ XXVI,
+140.
+
+	|134.  I s'appellava~: "We do not know where Dante got
+the idea that the first name of God was |I.~  This letter is the
+initial of ^Jehovah~, and also of ^Jah~: cf. Ps. lxviii
+(^Vulg.~ lxvii), 4 (`extol him... by his name Jah').  Moreover,
+standing for the number 1, it is the symbol of unity.  See D.
+Guerri, `Il nome adamitico di Dio' in ^Di alcuni versi dotti
+della `Divina Commedia'~, 1908" (Gr).
+
+	|136.  El~: |El~ is the Hebrew name.  St. Isidore,
+^Etymologiae~, VII, i: `Primum apud Hebraeos Dei nomen |El~
+dicitur'.  (`The first name of God with the Hebrews was El.')" 
+(Gr).  The names Jehovah and Elohim are the two chief names used
+for the Deity throughout the Hebrew Scriptures.
+
+	|137-138.  ch$e l'uso~... |vene~: Cf. Horace, ^Ars
+poetica~, vss. 60-63:
+
+     ut silvae foliis pronos mutantur in annos,
+     prima cadunt; ita verborum vetus interit aetas,
+     et iuvenum ritu florent modo nata vigentque.
+     debemur morti nos nostraque...
+
+     As forests change their leaves with each year's decline, and
+     the earliest drop off: so with words, the old race dies,
+     and, like the young of human kind, the new-born bloom and
+     thrive.  We are doomed to death -- we and all things ours.
+
+	|139-142.  Nel monte~... |sesta~: Adam now replies to
+the second question (see vs. 112), and many readers (especially
+readers of Milton) will be surprised to learn how brief a time
+our first parents sojourned in the Garden of Eden: only a little
+more than six hours!  Among the various estimates (Genesis has
+nothing precise to say on the matter), Dante chose one of the
+shortest, that of Petrus Comestor (whom the poet mentions in
+^Par.~ XII, 134), ^Hist. schol.~, ^Liber Genesis~ XXIV: "Quidam
+tradunt eos fuisse in paradiso septem horas."  ("Some hold that
+they were in the garden for seven hours.")  This brief time is
+said by Dante to have been "from the first hour to the one that
+follows the sixth, when the sun changes quadrant" (that is,
+passes from the first quadrant, or 90 {degrees}, to the second),
+i.e., from sunrise (6:00 A.M., apparently, at the time of the
+Creation, when the sun was in Aries -- see ^Inf.~ I, 37-40) to
+the
+hour that follows noon.  |Nel monte che si leva pi@u da l'onda~:
+Cf. ^Purg.~ III, 14-15; XXVIII, 97-102.
+
+	|140.  con vita pura e disonesta~: I.e., "before my sin
+and after."
+
+	|142.  l'ora sesta~: Students of the numerical architecture
+in
+the ^Commedia~ may find it significant that, by answering this
+question last, the poet is able to present, as the last word, the
+number ^six~ explicitly expressed (|sesta~), but the number seven
+in actual meaning (the seventh hour).  Since there are
+thirty-three
+cantos in the ^Paradiso~ this last word of the present canto may
+be
+seen to mark off the remaining area of the poem, made up of seven
+cantos.  This is the more remarkable, architecturally, since the
+first seven cantos of the ^Inferno~ were marked off as such by
+the
+special beginning of ^Inf.~ VIII (see n. to ^Inf.~ VIII, 1-2). 
+Thus a seven-canto area at the beginning and the same at the end
+underscore a "framing" number seven.  On this number as the
+central
+number of the whole structure, see C. S. Singleton (1965).

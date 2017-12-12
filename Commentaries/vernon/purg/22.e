@@ -1,0 +1,124 @@
+	|Proemio.~  Incomincia il 22.° capitolo del purghatorio di Dante.
+
+	|1-54.~ 
+
+   ^Gi@a era l'angiel drieto a nnoi rimaso~
+   ^l'angiel che n'ave' volti al sexto giro~
+   ^avendomi del viso un colpo raso.~
+
+Trattato il nostro altore degli avari e de' prodighi.  Ora in questo 
+chapitolo e sexto circhulo del purghatoro intende trattare del vizio 
+della ghola e dividesi questo chapitolo in quatro parti gienerali.  In 
+questa prima parte continuando l'altore fa che Virgilio muova a Stazio 
+una quistione, e Stazio gliele assolve cio@e dicie Virgilio io mi 
+meraviglio ch'essendo tu stato poeta e savio huomo chome tu tti 
+lasciasti vinciere al vizio dell'avarizia e questo gli dicie Virgilio 
+perch'egli il trov@o nel circhulo degli avari.  E Stazio risponde 
+diciendo per le prime parole del testo che qui seghuita e sono di 
+Virgilio e l'altre di Stazio e dicono chos@i
+
+   ^Come poteo trovar dentro al tuo seno~
+   ^luogho avarizia tra cotanto senno~
+   ^di quanto per tuo cura fosti pieno.~
+
+Per queste parole altro non vuol dire Stazio a Virgilio se nnon che in 
+que[l] luogho son purghate per lo contrario dell'avarizia cio@e per la 
+prodighalit@a.
+
+	|55-96.~ 
+
+   ^Or quando tu chantasti le crude armi~
+   ^della doppia tristizia di Giocasta~
+   ^disse il cantor de' bucolici carmi.~
+
+In questa seconda parte fa Virgilio a Stazio una domanda e Stazio 
+gliele assolve.  Dicie Virgilio chom'egli si maraviglia chom'egli 
+divent@o cristiano cos@i diciendo chome dicie di sopra e Stazio 
+risponde cos@i
+
+   ^Ed egli a lui tu prima mi 'nviasti~
+   ^verso Parnasso a ber nelle sue grotte~
+   ^e pria presso a Dio m'aluminasti.~
+
+Risponde Virgilio a Stazio in questo modo detto di sopra per l'altore 
+diciendo che fu chagione di farlo poeta cio@e seghuendo io Stazio i[l] 
+libro di te Virgilio.  Ancora dicie che fu chagione di farlo fare 
+cristiano in questo modo che andando gli appostoli di Cristo predicando 
+la novella leggie e fede cio@e avendo letto nella tua buccholicha que' 
+versi che dicono ^Gi@a torna la vergine gi@a torna Saturno gi@a viene e 
+disciende da cielo nuova ischiatta etc.~  Queste parole mi feciono 
+acchostare a' nuovi predicatori cio@e agli appostoli di Cristo imper@o 
+ch'a mme pareano che lle parole si consonassono col tuo detto.  E 
+piaquommi tanto le loro parole sante ch'io mi feci cristiano 
+cielatamente per paura di Domiziano imperadore nimico de' cristiani.  
+Intanto che pens@o disfare tutta la schiatta della Vergine Maria 
+diciendo che quella paura ch'egli ebbe vi stette pi@u di tre anni in 
+purghatorio in quel circhulo dove si puniscie la tardezza e lla 
+pigrizia chos@i diciendo Stazio
+
+   ^Lunghamente mostrando paghanesmo~
+   ^e questa tiepidezza il quarto cierchio~
+   ^cerchiar mi fe' pi@u che 'l quarto cientesmo.~
+
+   ^tu dunque che levato hai lo coperchio~
+   ^che m'ascondeva quanto bene i' dico~
+   ^mentre che del salire avem soverchio.~
+
+	|97-114.~  In questa terza parte Stazio domanda Virgilio che gli dichi 
+dove sono tutti gli antichi poeti i quali vegho [sic] davanti.  
+Virgilio risponde diciendo ch'egli e gli altri poeti valenti huomini 
+son tutti nel primo cierchio d'inferno e ivi @e la loro pena Virgilio a 
+Stazio
+
+   ^Nel primo cierchio del carciere ciecho~
+   ^ispesse volte ragioniam del monte~
+   ^c'ha le nutrici nostre sempre seco.~
+
+Seghue il testo cos@i diciendo il nostro altore poeta Dante
+
+   ^Quivi si veggon delle gente tue~
+   ^Antighone Deifile e Argia~
+   ^e Ismene s@i trista come fue.~
+
+E per questo dire che ffa qui Virgilio a Stazio dei 'ntendere che 
+ll'altore il disse perch@e Stazio fecie questo libro che parl@o di 
+tutti costoro che furono da Tebe egli fecie que[l] libro chiamato il 
+Tebano overo Stazio Tebaidos.  Isifile fu quella che ingravid@o di 
+Giansonne quando andava a conquistare il vello dell'oro in due 
+fanciugli maschi cio@e Euneo e Toante ed ella fu inghannata da lui 
+chome adietro @e detto.  Ismene fu figliuola di Jocasta la quale 
+Jocasta fu madre e moglie di Edippo e Laio re di Tebe fu padre di 
+Edippo e mor@i per le sue mani e poi tolse la sua madre per moglie ed 
+ebbene due figliuoli maschi cio@e Eteocles e Polinicies e due femine 
+cio@e Ismena e Antighone.  I quali figliuoli maschi poi che furono 
+grandi ebbono lunghe ghuerra e gran brigha intanto che in sul canpo 
+amenduni s'uccisono insieme e lla madre loro reina Jocasta poi s'uccise 
+cholle sue mani propie s@i cche quella vide tutti que' dolori s@i cche 
+ben fu trista.
+
+	|115-154.~ 
+
+   ^Tacieansi amendue gi@a gli poeti~
+   ^di nuovo attenti a righuardare intorno~
+   ^liberi del salire e da' pareti.~
+
+In questa quarta parte l'altore incomincia a volere trattare de' 
+gholosi e d@a loro questa pena che fingie che vi sia un albore 
+grandissimo piantato a ritroso e pieno di pomi odoriferi e soavissimi.  
+E che questi gholosi no' ne poxino tocchare chos@i diciendo l'altore
+
+   ^Li due poeti all'albero s'apressaro~
+   ^e una bocie per entro le fronde~
+   ^grid@o di questo cibo avrete caro.~
+
+Per questo vizio e pecchato della ghola toccha qui un esempro di tre 
+persone le quali non aveano questo vizio di ghola.  La prima fu Nostra 
+Donna quando manch@o il vino alle nozze del Vangielista san Giovanni 
+ell'ebbe maggior chura di choloro che di veruna altra cosa.  La seconda 
+iscrive Valerio Maximo che antichamente le donne romane non beevano 
+vino ed erano contente a bere acqua ma era loro lecito secondo la loro 
+possibilit@a d'andare a ddarne chome a lloro parea in soddisfacimento 
+del vino.  La terza istoria dicie di Daniello profeta il qual fu preso 
+chon altri assai da Nabucchodinasor e mai no' vuolle mangiare altro che 
+leghumi e bere acqua e sempre era pi@u bello e pi@u frescho che tutti 
+gli altri.

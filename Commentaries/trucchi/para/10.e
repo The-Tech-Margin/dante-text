@@ -1,0 +1,757 @@
+	Testo e Commento.  -- Come i nove cori angelici sono
+divisi in tre Gerarchie, cos@i le nove corrispondenti spere o
+cieli del Paradiso sensibile sono divisi in gruppi di tre per
+tre, e il distacco da un gruppo all'altro @e variamente segnato
+dal Poeta.
+
+	Siamo al primo di questi passaggi, che vien segnato in
+tre modi: 1o)un segno sensibile: cessa il cono d'ombra terrestre
+che ben distingue il primo gruppo di cieli; 2o) segno spirituale, 
+il maggior merito dei Beati: non pi@u spiriti salvati dalla
+misericordia divina che li illumin@o, perch@e si liberassero dagli
+impedimenti e impurezze terrene, come l'inadempimento dei voti
+religiosi, la vanagloria o gli amori impuri, ben simboleggiati
+nel cono d'ombra; ma spiriti che positivamente meritarono della
+giustizia divina per attive virt@u, sapienza, fortezza e
+giustizia; 3o) segno artistico, una pausa nell'azione: pausa che, 
+come nel Canto I, ricontempla l'ordine della creazione, con pi@u
+particolare riguardo al moto degli astri in rapporto con la vita
+terrestre.
+
+	Frattanto giungiamo nel cielo del Sole, dove gli spiriti
+dei sapienti ci appariranno in un fulgore di gloria assai
+maggiore che non abbiamo visto sin qui; mentre la mente si
+addentra in pi@u sottili quesiti di profonda dottrina, e al fine
+di questo gruppo di cieli ci si affaccer@a il pi@u arduo problema
+teologico rispetto all'uomo, quello della predestinazione, la cui
+soluzione sar@a per@o riservata al terzo gruppo di cieli, dove si
+premiano le anime contemplanti.
+
+	La grande e principale bellezza del nostro Canto @e nella
+maest@a della Teologia, qui rappresentata nei suoi Dottori, 
+riprodotta nei sentimenti e nell'ammirazione del Poeta, fatta, 
+come dice il De Sanctis, <forma contemplativa e dommatica, anzi
+che discorsiva e dimostrativa, e propria della poesia, 
+presentando all'immaginazione vasti orizzonti in una sola
+comprensione>.
+
+	|1-6.~  Il Sole in cui stiamo per entrare, e di cui
+<nullo sensibile in tutto il mondo @e pi@u degno di farsi esemplo
+di Dio> (^Conv.~, III, XII, 7), a Dio solleva la mente, e Dante, 
+fra un sublime |guardando~ e un |f@e~, che corrisponde al <dixit
+et facta sunt> del ^Genesi~, contempla la virt@u creativa in tutta
+la Trinit@a, con teologica precisione, perch@e <virtus creativa Dei
+est communis toti Trinitati: unde pertinet ad unitatem essentiae, 
+non ad distinctionem personarum (^S. T.~, I, XXXII).
+
+	Intendiamo dunque: l'eterno e infallibile Valore di Dio
+Padre, a cui si attribuisce e si appropria la potenza, come dice
+San Giovanni (^Vangelo~, I, 3), guardando nel Figlio suo, a cui
+si appropria la sapienza, con l'Amore dello Spirito Santo che
+eternamente procede dall'uno e dall'altro, fece tutto ci@o che @e, 
+intelligibile |a la mente~, o |per loco~ sensibile, con tanto
+ordine che non pu@o essere contemplato senza diletto.
+
+	|7-9.~  Dunque, poich@e non pu@o essere senza diletto
+contemplare l'ordine della creazione, e questo risplenda
+soprattutto nei cieli, che <enarrant gloriam Dei> (^Salmo~, 
+XVIII, I, ), al cielo leva meco la vista, o lettore; e riguarda
+l@a, a quella parte dove l'equatore s'incrocicchia collo zodiaco, 
+cio@e alla parte equinoziale, dove nei giorni della singolare
+grazia e visione di Dante si trovava il Sole.  Veramente nel
+momento in cui parla il Poeta, il Sole non si trovava proprio
+all'equinozio, ma l'aveva oltrepassato di poco, per cui qui non
+si dice a quel punto, ma |a quella parte.~
+
+	E veramente i punti equinoziali sono due: l'equatore e lo
+zodiaco s'incrociano, o, come dice poeticamente il verso per
+ritrarre il moto degli astri, ^si percuotono~ nel Io di Ariete e
+nel Io di Libra; ma, come vedremo fra poco (v. 28-33), Dante vuol
+fissare la nostra attenzione solamente sull'equinozio di
+primavera, stagione del suo viaggio: su quell'equinozio di
+primavera in cui si riteneva che fosse stato creato il Sole ^ab
+initio~, e che sempre fu creduto e salutato da astronomi, 
+filosofi e poeti e popoli tutti quale auspicato principio dello
+zodiaco, e dai fiorentini come principio dell'anno, perch@e
+apportatore di primavera.
+
+	Volendo adunque darci una descrizione astronomica e
+poetica del maraviglioso movimento solare e planetario, in ordine
+al succedersi annuale delle stagioni, che sono la vita del mondo
+terrestre, il Poeta, dice l'Antonelli, <c'invita a levar seco la
+vista alle sfere superiori e appunto a quella parte dove
+percuotonsi i due movimenti opposti, il diurno o equatoriale da
+levante a ponente, e il planetario o zodiacale da ponente a
+levante; e per tal modo fissa la nostra attenzione ai punti
+equinoziali, ove lo scontro, per la opposizione dei due moti si
+fa.  Da quei punti vuole che abbia principio la nostra
+considerazione rispetto all'arte del divino maestro
+nell'architettura del mondo>.  Il Ponta ci d@a l'annessa figura.
+
+	|10-12.~  Vagheggiamo adunque in quel punto
+d'intersezione dell'Equatore e dello Zodiaco l'arte di Dio, che
+ama l'opera sua perch@e @e perfetta, e non torce lo sguardo da lei
+per conservarla tale: che cosa vedremo?
+
+	|13-15.~  Contemplando il firmamento nei punti voluti da
+Dante, che, per ora, sono tanto il Io di Ariete quanto il Io di
+Libra, si vede che mentre l'Equatore @e retto, cio@e equidistante
+dai poli, lo Zodiaco @e obbliquo, ora equidistante, ora pi@u vicino
+all'uno, ora all'altro polo: ne viene che lo Zodiaco, dopo aver
+incrociato obbliquamente l'Equatore nei due punti detti, da
+questi |si dirama~ o diparte verso settentrione o verso
+mezzogiorno per ugual tratto, cio@e fino a toccare il Tropico del
+Cancro o il Tropico del Capricorno, per poi riavvicinarsi
+all'Equatore.  E siccome lo Zodiaco porta i pianeti, e quindi il
+Sole, ne viene che anche il Sole ed i pianeti per sei mesi
+dell'anno si avvicinano e per sei mesi dell'anno si allontanano
+ora dall'emisfero artico ora dall'antartico, quasi ubbidendo alla
+chiamata dell'emisfero che pi@u abbisogna dell'influenza dei corpi
+celesti.
+
+	|16-18.~  Perch@e, e ci@o @e vero anche per noi che non
+crediamo a certe influenze astrologiche, perch@e se lo Zodiaco non
+fosse torto, ma coincidesse con l'Equatore, non avremmo
+l'avvicendarsi delle stagioni, e quasi ogni vita contenuta in
+potenza nei semi, non riceverebbe dal Sole la quantit@a di luce di
+calore e di altre virt@u oggi note e che sono necessarie al suo
+sviluppo.  Infatti <nelle regioni prossime all'Equatore avremmo
+una estate perpetua e un accumularsi eccessivo di calore, che le
+renderebbe incapaci di vegetazione e inabitabili; le zone che ora
+diciamo temperate, avrebbero una continua primavera incipiente, e
+quindi non vedrebbero maturazione di biade e di frutti; le polari
+sarebbero immerse perennemente in un rigido inverno, e cos@i la
+terra, nella eguaglianza fra i giorni e le notti, offrirebbe un
+miserabile soggiorno, improprio allo svolgimento di quei germi
+preziosi che il Creatore amantissimo ha posto quaggi@u negli
+uomini e nelle cose> (Antonelli).
+
+	|19-21.~  E se lo Zodiaco si scostasse dall'Equatore pi@u
+o meno di quanto Dio provvide ed @e, assai verrebbe a mancare de
+le predette vite, gi@u e su, nell'uno e nell'altro emisfero, per
+disarmonia di stagioni.
+
+	|22-27.~  Dante, quasi avendo impartito al lettore un
+piccolo saggio sul perfetto ordine della creazione, lo invita a
+trarne da s@e altri preziosi corollari, come fa lo scolaro che, 
+uscito il maestro, rimane meditativo sopra il suo banco: non
+trascurabile esempio di retta pedagogia.
+
+	Cielo Quarto o del Sole -- Spiriti Sapienti.
+
+	|28-33.~  Non ostante la loro credenza nelle virt@u
+diverse di ogni astro, quasi strumenti di Dio agenti sui corpi, 
+come dice San Tommaso nel ^De coelo et mundo~ (I, II, XIII), 
+anche gli antichi attribuivano al Sole la massima potenza sulle
+produzioni terrene e sull'uomo, e San Dionigi l'Areopagita
+scriveva del Sole che <ad ortum eorum corporum, quae sensu
+percipiuntur conducit; eaque et ad vitam exitat, et alit, et
+auget, et absolvit, et purgat et renovat; ac lumen mensura est, 
+atque numerus horarum, dierum, totiusque nostri temporis> ecc.
+
+	Tutto ci@o condensa il Poeta nel magistral verso |Lo
+ministro maggior de la natura~: @e il Sole che in s@e raduna tutta
+la virt@u dei cieli per rifletterla sulla terra e produrvi la
+vita; @e lui che col suo lume il tempo ne misura, secondo le
+stagioni, i giorni e le ore!
+
+	Celebrata cos@i la gloria del Sole, Dante ci ricorda che
+nel suo viaggio esso splendeva nell'auspicato inizio dello
+Zodiaco, in Ariete, donde spiralmente ascendendo ogni giorno per
+tutti i gradi di Ariete, Toro e Gemelli, ci accresce la durata
+dei gironi e ogni giorno nasce pi@u presto, finch@e dura la
+primavera.
+
+	|34-36.  E io era con lui~: @e un grido di gioia; ma come
+vi era salito da Venere?  Cos@i istantaneamente che non pot@e
+accorgersene, se non quando gi@a vi era, come avviene d'un
+pensiero subitaneo che ci si affaccia alla mente senza nesso con
+pensieri antecedenti che ne segnino la venuta.
+
+	|37-39.~  Quanta effusione di riconoscenza e di amore
+nell'affermazione calda e solenne del primo verso, rincalzata da
+quel |s@i subitamente~, e |di bene in meglio~!  @E Beatrice, e chi
+altri potrebbe essere? la Teologia, quella che sola ci guida di
+bene in meglio, in alto, sempre pi@u in alto, s@i immediatamente
+che l'atto dell'avanzare @e istantaneo e perci@o impercettibile.
+
+	|40-48.~  E quello che era dentro del Sole, cio@e gli
+spiriti beati di questo cielo, per la maggior parte teologi, 
+quanto doveva esser |da s@e lucente~, ossia splendente di virt@u
+propria, s@i da esser parvente nella luce del Sole, non per
+differenza di colore, ma per intensit@a di luce maggiore!  Per
+quanto io mi studiassi di descriverlo, con l'ingegno, con l'arte
+e con l'esperienza, non vi riuscierei; ma mi si pu@o credere, 
+perch@e anche Daniello dice: <qui docti fuerint, fulgebunt quasi
+splendor firmamenti> (XII, 3), e si speri di vederlo un giorno
+nel Paradiso: ch@e le nostre fantasie non giungono a tanto, non
+potendo noi conoscere che ci@o che @e caduto gi@a sotto i nostri
+sensi, e nessun occhio umano mortale essendo mai andato |sopra il
+Sole~, cio@e sulla superficie del Sole.  Nemmeno San Paolo?
+potrebbe chiedersi; no, nemmeno San Paolo, perch@e egli non si
+innalz@o al Sole, ma oltre il Sole, direttamente sino all'Empireo.
+
+	|49-51.~  Tale, cos@i lucente di propria luce da vincere
+quella del Sole, come dissi, era quivi la quarta famiglia del
+Paradiso, che l'alto Padre sempre appaga mostrando loro i pi@u
+alti misteri della Teologia, sino al pi@u eccelso, quello della
+Trinit@a, come cio@e il Padre si congiunga col Figlio e collo
+Spirito Santo.
+
+	|52-54.~  Come quando il Poeta giunse nella Luna, cos@i
+ora al giungere al primo cielo di luce pura, Beatrice l'invita a
+ringraziare Iddio; e acccortamente contrappone il Sol de li
+Angeli, puramente intelligibile, al Sole |sensibile~ che pi@u
+d'ogni altra cosa creata a noi parla di Dio, con la luce, il
+calore e la vita che sulla terra diffonde.
+
+	|55-63.~  Graziosissimo e finissimo inciso!  Dante, tutto
+gi@a disposto a devozione, s'immerge in Dio tanto da dimenticare
+Beatrice; essa ne gode, e dimostrando il suo piacere con
+cresciuto splendore, richiama a s@e l'attenzione di lui, che la
+vede a un tratto ricinta da una corona di spiriti sapienti.
+
+	|64-69.~  Numerati spiriti, anzi |fulgor vivi e vincenti~
+la stessa luce del Sole, fanno bella corona intorno a Beatrice e
+a Dante, levando un canto la cui dolcezza supera ancora la loro
+lucentezza: luce e canto che superano la potenza rappresentativa
+del nostro linguaggio, sicch@e il Poeta si limita a descriverci la
+disposizione a corona o ghirlanda assunta da quei Beati, 
+paragonandola all'alone che talora vediam cinger la Luna, figlia
+di Latona e di Giove secondo le favole, come un sottil filo
+d'oro: similitudine forse suggerita dall'aureola che cinge la
+testa dei Santi nelle tavole bizantine.
+
+	Ma Dante ci d@a anche una spiegazione fisica dell'alone
+lunare, attribuendolo ai vapori, quando sono ^s@i spessi~ da
+impregnare l'aria a tal punto da far deviare i raggi dalla lor
+direzione, e non tanto da trattenerli del tutto.
+
+	|70-75.~  Non tutte le gemme del Paradiso si posson
+intendere lungi dal Paradiso, e la dolcezza del canto dei
+Sapienti @e una di queste: chi non si fornisce di ali per volare
+all'eterna beatitudine, @e come chi aspetti da un muto novelle
+ardentemente attese.  Dante si scusa pertanto di non parlarne, 
+per quanto al termine del Canto ce ne dia un saggio che ci parr@a
+sufficiente! per ora torna alla descrizione della fulgida corona
+che lo circonda.
+
+	|76-81.~  Poich@e quegli spiriti, ardenti come Soli, e
+cos@i ineffabilmente cantando, si furono girati intorno a noi tre
+volte, |come stelle vicine a fermi poli~, ciascuno su s@e stesso e
+senza romper la corona, ossia ciascuno di quel moto perfettamente
+circolare di cui gi@a conosciamo il significato, si fermarono ad
+udire ci@o che dir@a l'uno di loro, nell'atteggiamento di giovani
+donne che interrompon la danza, ma non desiderano che di
+ricominciarla.
+
+	L'ultima similitudine @e spiegata dalle norme che
+regolavan la danza a quei tempi: <si ballava, specialmente in
+Toscana, al canto delle ^ballate~: la danza si appriva, appena
+formato il cerchio, cantando o la guida o le danzatrici la
+^ripresa~ o strofetta iniziale della ballata, alla quale ripresa
+corrispondeva un giro intiero; poi seguitava, cantando la guida
+una stanza (due ^mutazioni~ e una ^volta~) e facendo le
+danzatrici un mezzo giro in un senso (prima mutazione), un mezzo
+giro nel senso opposto (seconda mutazione), e un giro intero
+(volta); poi tutte le danzatrici prendevano a ricantare la
+ripresa e facevano cos@i un altro giro; con lo stesso precedimento
+si ballava e cantava la seconda stanza, la terza e via, sino al
+compimento della danza e della poesia.  Posto ci@o @e manifesto che
+Dante paragona l'atteggiamento dei dodici sapienti a quello d'una
+corona di danzatrici, che, finito il canto d'una stanza
+(mutazioni, volta e ripresa, secondo la forma metrica delle
+Ballate), si fermano senza interrompere il ballo (|non da ballo
+sciolte~), ma pronte a rimettersi in movimento appena sentano
+intonare dalla guida il canto della seguente stanza> (Casini).
+
+	Venendo ora alla descrizione della corona di dodici
+spiriti che circonda Dante, e alla quale poi se ne aggiunger@a
+un'altra, ugualmente ben descritta, e finalmente una terza
+vaporosa e senza nomi, @e chiaro che il cielo del Sole ha per noi
+la medesima importanza, rispetto alle opinioni del Poeta intorno
+alle scuole teologiche del tempo suo, di quella che ha il Canto
+IV dell'Inferno rispetto alle cognizioni classiche di Dante. 
+Giova perci@o fermarci un poco su questo tema.
+
+	Nei primi secoli cristiani, la Teologia si form@o sopra un
+unico testo, la Santa Scrittura: @e il tempo della Patristica, 
+quando gli articoli di Fede e di morale erano stabiliti dai Padri
+della Chiesa secondo l'interpretazione dei testi scritturali.
+
+	Ma alla Patristica non tard@o ad opporsi con Plotino il
+neoplatonesimo, che mirava ad abbattere e surrogare il
+cristianesimo, raccogliendo e opponendovi quanto di buono e di
+bello trovavasi senza dubbio nei filosofi pagani.  Per@o il
+cristianesimo, con Sant'Agostino, tolse al neoplatonesimo le sue
+stesse armi, e, trasformandolo in neoplatonesimo cristiano, lo
+condusse seco alla vittoria finale.  Il neoplatonesimo cristiano, 
+nato tale con Sant'Agostino, doveva pi@u tardi dare origine ad un
+neoaristotelesimo cristiano, se cos@i si pu@o dire.
+
+	Il secolo XII sent@i il bisogno di raccogliere, ordinare, 
+unificare quanto formava oggetto di Fede, e cos@i, dal Libro delle
+Sentenze di Pier Lombardo, nacquero le Somme Teologiche:
+Alessandro di Hales vi introdusse il metodo sillogistico delle
+questioni proposte e discusse per mezzo delle distinzioni, e
+Anselmo di Canturbery vi aggiunse il carattere della trattazione
+scientifica dei dogmi, per cui le Fede, armonizzando le verit@a di
+ordine sovrannaturale e quelle di ordine naturale, diveniva fonte
+di nuova dottrina <credo ut intelligam>.
+
+	A questo punto la Scienza Teologica era giunta al suo
+apogeo; ma qui si divise in tre scuole: la platonica agostiniana
+con Alessandro di Hales e San Bonaventura; l'aristotelica con
+Sant'Alberto Magno e San Tommaso, e l'averroistica con Sigieri di
+Brabante.  Lasciando per ora quest'ultima, su cui ritorneremo pi@u
+particolarmente alla fine del Canto, @e soprattutto alle due prime
+scuole che appartengono gli spiriti delle due corone del cielo
+del Sole, come si vede dal seguente riepilogo {vedi schema a pag.
+158 vol. 3}.
+
+	Per ben comprendere il pensiero dantesco, ai nomi qui
+registrati bisogna aggiungere quelli taciuti: non ci riferiamo ai
+Padri della Chiesa, perch@e questi rifulgono di maggior gloria
+ancora nell'Empireo, della gran luce che si irradia da San Paolo;
+non a Sant'Agostino, che risplende anch'egli di maggior gloria
+nella Candida Rosa, e il cui nome qui si tace.
+
+	Ma per tutti i Canti del Paradiso si ricercherebbero
+invano i nomi famosi di tanti altri maestri, da Abelardo a
+Giovanni Scoto: perch@e il Poeta giudica il merito anzitutto
+secondo due criteri: ubbidienza ai dogmi, fondamento di
+conoscenza, e ubbidienza ad Aristotile, maestro della ragione.
+
+	V'@e per@o un terzo criterio che Dante segue in questo
+cielo ed @e il rispetto delle arti liberali: se Dante celebra
+nella prima corona la scuola aristotelica con San Tommaso, e
+nella seconda la scuola neoplatonica agostiniana con San
+Bonaventura, si @e perch@e entrambe queste scuole avevano questa
+gloria, e il Poeta tace delle scuole neoplatoniche che per
+eccessivo misticismo disprezzavano le arti liberali.  E se noi
+non troviamo qui celebrato Alessandro di Hales, detto ^magister
+artium~, vi troviamo il suo scolaro San Bonaventura che nel ^Del
+reductione artium~ affermava che le arti liberali servono alla
+conoscenza stessa della Sacra Scrittura.
+
+	Concludiamo: nelle due corone del Sole il Peota celebra
+la scienza teologica che sta stretta alla Fede senza dipartirsi
+dalla ragione, ed @e maestra di vita attiva e di vita
+contemplativa.  Ne ricerca le radici negli scritti di Salomone, 
+alla cui mente sovrana nessun vero @e sfuggito; ne segue lo
+sviluppo negli antichissimi savi, Boezio, Orosio, Grisostomo, e
+nei successivi perfezionatori, Pietro Lombardo per la dialettica, 
+Ugo da San Vittore per il sentimento, e ne celebra il trionfo in
+San Tommaso per la scuola aristotelica e in San Bonaventura per
+la scuola agostiniana; a lato del sommo sistematore delle scienze
+tutte, San Tommaso, colloca i sistematori di singole scienze, 
+come Graziano per il diritto canonico, Orosio per la storia, 
+Isidoro per la filologia, San Dionigi per l'esegesi sacra; e a
+lato dell'ardente francescano San Bonaventura, pone altri
+contemplanti che lo precedettero senza perder di vista le ragioni
+della vita attiva e della vita morale.
+
+	Con queste premesse potremo procedere pi@u speditamente
+attraverso i ventiquattro nomi, che il Poeta disse di altrettanti
+Soli.
+
+	|82-90.~  Liberalmente, senz'aspettar domanda, e a grande
+onore di Dante, cominicia San Tommaso: poich@e in te tanto
+risplende, moltiplicato sovra le tue doti naturali, il raggio
+della grazia divina, la quale accende amore e per amore si
+accresce, e ti conduce su per quella scala dell'Empireo, da cui
+non si discende che per risalirvi, chi di noi si ricusasse di
+soddisfare il tuo desiderio di conoscere, mostrerebbe di non
+essere in libert@a di pace, ma in istato di chi soffre violenza, 
+come @e l'acqua impedita di calare al mare.
+
+	|91-93.~  Noi veniamo a sapere che i dodici savi avevan
+fatto ghirlanda in onor di Beatrice, come a lor donna e signora:
+non piccolo argomento in favore del significato allegorico di
+Beatrice.
+
+	|94-99.~  San Tommaso comincia col nominare s@e stesso, ma
+intrecciando gratamente il proprio nome con quello del suo
+confratello e maestro Sant'Alberto Magno.
+
+	Alberto Magno, domenicano, fu detto di Cologna sul Reno, 
+perch@e ivi lungamente visse e mor@i (1280); ma era nato dalla
+nobile famiglia de Bollstadt in Luvingen, nella Svevia bavarese, 
+nel 1193.  Studi@o in Italia, chi dice a Pavia, chi a Bologna, chi
+in entrambe le citt@a.  Fattosi frate nel 1222, dal 45 al 48 fu
+maestro di Teologia a Parigi, dove ebbe a discepolo San Tommaso;
+nel 54 fu eletto provinciale e prese stanza in Colonia: fu
+santificato nell'Aprile del 1932.  Fra le sue opere che formano
+38 volumi, tutte intese a combattere gli interpreti arabi di
+Aristotele ed a mettere d'accordo le dottrine del filosofo greco
+col cristianesimo, le pi@u celebri sono il Commento al ^Libro
+delle sentenze~ di Pier Lombardo e i ^Commenti~ sopra Aristotele. 
+Fu detto il ^doctor universalis.~
+
+	San Tommaso, detto il ^Doctor angelicus~, nacque nel
+castello gentilizio dei Conti d'Aquino, in Roccasecca, nel 1227, 
+fu condotto nel Convento di Monte Cassino in et@a di cinque anni, 
+e nel 1236 fu mandato a studiar le arti liberali a Napoli; nel
+1243 vestiva l'abito di San Domenico.  Un anno dopo i superiori
+lo inviavano a Parigi per gli studi teologici; ma i fratelli suoi
+Rinaldo e Landolfo, indispettiti per il suo ingresso nel
+chiostro, l'arrestarono nel viaggio e lo trattennero per circa un
+anno nel castello avito di San Giovanni.  Pot@e raggiungere Parigi
+nel 1245, e quivi per tre anni fu discepolo di Sant'Alberto
+Magno, e nel 1248 lo segu@i a Cologna, dove il maestro aveva
+ricevuto l'incarico di ordinare l'Universit@a degli studi
+dell'ordine domenicano.  Torn@o a Parigi nel 1252, e, col
+privilegio concesso ai baccellieri, vi dett@o le lezioni sopra il
+^Libro delle Sentenze~ di Pier Lombardo.  In quel tempo scoppi@o
+la lotta fra professori religiosi e secolari di cui dovremo
+riparlare.  Nel 1256, ottenuta la ^licentia docendi~, divenne
+professore di Teologia, che insegn@o con quella novit@a di metodo e
+di studio che ognun sa.  Dal 1259 al 64 scrisse la ^Somma contra
+Gentiles~, compiuta in Italia, dove era giunto fin dal 1260.  Dal
+1261 al 64 lo troviamo Teologo della corte pontificia presso
+Urbano IV, che segu@i ad Orvieto e a Viterbo, ed in quegli anni
+indusse Guglielmo di Moerbeck a tradurre gli scritti di
+Aristotele dal genuino testo greco.  Nel 1265, rifiutata la sede
+arcivescovile di Napoli, fu chiamato a Roma per dirigervi gli
+studi domenicani, e tenne il suo insegnamento con meno fatica che
+a Parigi, nel Convento di Santa Sabina.  Pare che nel 67 tornasse
+a Viterbo al seguito di Clemente IV, e verso quell'epoca cominci@o
+la ^Somma Teologica.~  Nel 69 fu richiamato a Parigi, e vi dimor@o
+fino al 72, combattendo contro l'averroismo sempre risorgente dei
+professori laici, e opponendo alle loro dottrine il peripatetismo
+cristiano.  Principali fautori dell'averroismo erano Sigieri di
+Brabante e Boezio di Danimarca, e fra i loro errori principali
+erano l'affermazione dell'eternit@a del mondo, la negazione della
+Provvidenza e del libero arbitrio, e specialmente l'affermazione
+dell'unit@a numerica dell'anima intellettiva nell'uomo, ossia
+dell'intelletto possibile (vedi ^Purg.~, XXV, 61-66): errore
+combattuto dall'Aquinate col Trattato ^De unitate animae contra
+Averroistas.~  Nel 72 rivide l'Italia, e tre anni dopo il
+Pontefice Gregorio X lo inviava al Concilio di Lione; ma si
+spense per via, al Convento cistercense di Fossanova (7 Marzo
+1274).  Fu santificato il 18 luglio del 1323 dal Pontefice
+Giovanni XXII.
+
+	Mente la pi@u vasta del tempo suo, dai contemporanei detto
+l'Angelico, nella sua opera monumentale, armonizzando fede e
+ragione, riun@i tutto lo scibile dell'et@a in cui visse, e rese le
+scienze tutte solidali fra loro e concorrenti ad un unico vero.
+
+	Nei nostri versi tutto quello che dice di s@e @e il nome
+della patria e la vocazione monastica, <|u' ben s'impingua se non
+si vaneggia~>, verso che sar@a argomento di ampia e documentata
+spiegazione nel Canto seguente.  Per ora segue, da destra a
+sinistra, l'enumerazione dei compagni che gli fanno degna corona.
+
+	|100-102.~  Una pausa eloquente mostra che soprattutto di
+quei due prima nominati era vivo in Dante il desiderio di
+conoscere; ma |beato serto~ riaccende l'attenzione.
+
+	|103-105.~  Francesco Graziano di Chiusi, o, secondo
+altri, di Carrara nel territorio di Orvieto, fattosi benedettino
+camaldolese nel monastero di Classe, presso Ravenna, nel 1140 (o
+nell'anno seguente) scrisse il famoso ^Decretum~ ossia ^Concordia
+discordantium canonum~, in cui riordin@o le Decretali, iniziando
+la scienza del diritto canonico.  Ecco un decretalista che
+piacque a Dante, perch@e |aiut@o l'uno e l'altro foro~, il
+tribunale ecclesiastico e il civile.  Dopo la sferzata del Canto
+precedente ai decretalisti, la collocazione di Graziano qui @e
+molto significativa: Graziano favor@i quella concordia tra le due
+podest@a volue dalla Provvidenza che altri decretalisti cercavano
+di conturbare.
+
+	|106-108.~  Pietro Lombardo, di Lomellogno nel novarese, 
+secondo i pi@u, nacque al principio del secolo XII; studi@o a
+Novara e a Bologna; nel 1147 si rec@o a Parigi, e nel 1158 fu
+fatto Vescovo di quella citt@a, dove pare morisse verso il 1160. 
+Una lettera di San Bernardo ci dice che andando a Parigi, Pietro
+Lombardo dimor@o qualche tempo a Reims, dove insegnava un altro
+suo concittadino novarese, Leutraldo o Lotulfo, fiero oppositore
+di Abelardo.  Giunse a Parigi nel tempo che le dispute religiose
+attraevano anche il popolo, allettato dalla facondia di Guglielmo
+di Champeaux e di Abelardo, e quivi ide@o il suo capolavoro, il
+^Libro delle Sentenze.~  In questo trattato egli non si scost@o
+dal metodo di Abelardo (^sic et non~), consistente nel
+contrapporre opinione; ma mentre Abelardo lasciava libert@a di
+deduzione al pensiero ragionante, il Lombardo si arresta senza
+titubanza dinanzi alla verit@a rivelata; onde si pu@o dire che
+dall'uno e dall'altro prendesse le mosse l'Aquinate.  Mentre
+Abelardo nel suo Trattato ^Dell'Unit@a e Trinit@a divina~ aveva
+avanzato idee audacemente eterodosse e ridotto il mistero della
+Trinit@a ad un mero simbolismo, Pietro Lombardo riprese la
+tradizione dei primi secoli del cristianesimo di unire la ragione
+colla Fede, tentativo che gi@a aveva fatto buona prova con
+Sant'Agostino, e fu il seme gittato nel campo delle scienze, che, 
+coltivato dall'Hales e da Alberto Magno, fu portato a compimento
+da San Tommaso.  Nei quattro libri delle Sentenze, dice Augusto
+Conti, <abbiamo la Teologia, la Astrologia e la Morale, distinte
+nella parte filosofica e nella rivelata; ma unite in una
+sostanza, perch@e unico @e l'Autore della Fede e della ragione:
+ecco l'opera di Pier Lombardo: ecco altres@i la Somma di
+Alessandro di Hales, di Alberto Magno, di San Tommaso: ecco pure
+la Divina Commedia di Dante>.
+
+	Si comprende da ci@o l'enorme risonanza del libro di Pier
+Lombardo: esso solo occupava un anno intiero nel programma
+dell'Universit@a di Teologia parigina, valse al suo autore il nome
+di ^Magister Sententiarum~, ed ebbe molti commenti.
+
+	Gi@a il Buti osservava che il verso con cui Dante designa
+il ^Magister Santentiarum~ dalla |poverella~ che |offerse a Santa
+Chiesa suo tesoro~, non @e che la perifrasi del principio del
+Prologo del Libro delle Sentenze, dove l'autore professava di
+voler offrire alla Chiesa il suo tributo, come la vedova
+poverella del Vangelo, che offr@i a Cristo due sole monete, ma che
+erano tutto il suo tesoro.  E forse Pier Lombardo nel vergare
+quelle parole, e Dante nel riprodurle, ricordavano un'altra
+vecchia poverella, la madre di Pier Lombardo, che dal lontano
+paese del novarese era venuta a Parigi per visitare il figlio gi@a
+celebre, e che, mal consigliata, s'era vestita di abiti nuovi e
+ricchi; ma il figlio l'indusse a riprendere l'umile veste paesana
+nella quale egli aveva imparato ad amarla.
+
+	|109-114.~  Tertulliano, San Cipriano, Sant'Agostino
+avevano pensato che Salomone, |la quinta luce~, non potesse esser
+salvo per aver troppo amato le belle Moabiti ed Ammanniti, tanto
+da volgersi, per loro, all'adorazione degli idoli, e per aver
+tramato contro la vita di Geroboamo, che il Signore aveva
+designato a succedergli.  Ma San Gregorio Taumaturgo, San
+Gerolamo e San Ruperto si erano pronunziati per la salvezza del
+Re, e Dante li segue.  Salomone @e salvo per l'|amore~ che spira
+dal suo ^Cantico dei Cantici~, considerato come l'epitalamio
+delle nozze di Cristo con la Chiesa, e per la sapienza che
+splende principalmente dal suo ^Libro dei Proverbi.~  Del resto
+non attesta la stessa Scrittura (^Dei Re~, III, III, 12) che
+Salomone fu il pi@u sapiente degli uomini?  <Ecco, disse il
+Signore a lui: io ti dar@o un cuor savio e intendente, talch@e n@e
+davanti a te @e stato, n@e dopo te sorger@a alcuno pari a te!>: |a
+veder tanto non surse il secondo~, traduce Dante, e il verso ci
+sar@a meglio chiarito nel Canto XIII.
+
+	|115-117.~  Sesto |cero~, o luminare della Chiesa, @e
+Dionigi l'Areopagita, ateniese, che, convertito da San Paolo
+(^Atti degli Apostoli~, XVII, 34), fu il primo Vescovo di Atene e
+mor@i di martirio l'anno 95.  Gli si attribuiscono, a ragione, 
+secondo la critica moderna, bench@e alcuni le abbian dette opera
+d'un falsificatore neoplatonico del secolo V, varie opere greche, 
+e specialmente il ^De coelesti Ierarchia~, sulla natura, 
+divisioni, offici d'ogni Ordine angelico.  La teoria dionisiana
+fu accettata da Pier Lombardo, da San Tommaso e poi
+definitivamente dalla Chiesa, <e credesi che l'avesse da Santo
+Pavolo>, leggesi nelle Prediche di Fra Giordano.
+
+	|118-120.~  Questa |piccioletta luce~ fu fonte di grandi
+dispute fra i commentatori; ma per lo pi@u si ritiene che debba
+riferirsi a Paolo Orosio, autore della celebre ^Historia adversus
+paganos~, detta anche l'^Ormista~, di cui Dante pensava che si
+fosse giovato Sant'Agostino per il ^De civitate Dei.~  Nato in
+Lusitania, e datosi a vita ecclesiastica, Orosio visse tra la
+fine del IV secolo e il principio del V, e Sant'Agostino
+altamente lo loda un una sua lettera a San Gerolamo.  Dante non
+sapeva che l'^Ormista~ fosse uscito alla luce un anno dopo che
+Sant'Agostino aveva compiuto il ^De civitate Dei~ (426), e ammir@o
+in Orosio il testimone della virt@u romana e l'avvocato dei tempi
+nuovi.
+
+	|121-123.~  Or se tu |trani~, traini o trascini, (o forse
+dal latino ^tranare~, passare a nuoto da una ripa all'altra), 
+|l'occhio de la mente di luce in luce~, trattandosi qui di
+comprendere il giudizio divino, gi@a rimani desideroso di sapere
+chi si nasconda nell'ottava luce: preambolo che annuncia, dopo la
+piccioletta luce di Orosio, una luce straordinaria: Anicio Manlio
+Troquato Severino Boezio.
+
+	|124-129.~  Non abbiamo bisogno di ricordare
+l'ammirazione di Dante per Boezio, primo suo iniziatore all'amore
+della filosofia (^Convivio~, II, XII e XV), e di cui nel Poema
+ricorrerebbero, secondo il computo del Crescimone, ben 76
+manifeste reminiscenze.  Egli per Dante riuniva in s@e la dignit@a
+del cittadino romano e le virt@u del cristiano, le memorie del
+tempo antico e le speranze del nuovo, essendo, come il Poeta, 
+uomo di scienze e di lettere, di pensiero e di azione, filosofo, 
+maestro e poeta.
+
+	Nato il 475 (?) in Roma, ultimo dei romani antichi, come
+fu detto, si rec@o giovanissimo ad Atene, dove perfezion@o la sua
+cultura e si addestr@o all'eloquenza.  Tornato in patria, fu fatto
+patrizio e spos@o Rusticana, figlia di Simmaco, dalla quale ebbe
+due figli.  Pronunci@o il discorso per l'ingresso di Teodorico in
+Roma, e fu fatto console, principe e maestro di palazzo.  Scrisse
+di scienza, di musica, di pedagogia; tradusse dal greco il
+trattato di aritmetica di Nicomaco e gli Elementi d'Euclide, 
+aggiungendovi del suo.  Ma la sua anima retta non poteva
+approvare tutti gli atti di Teodorico, e specialmente l'eccesso
+delle imposte e il favoritismo nella distribuzione dei pubblici
+uffici.  Suscit@o ire e gelosie, e fu imprigionato nel Battistero
+di Pavia, dove scrisse il celebre ^De consolatione philosophiae~, 
+con altissimi sensi: la Fortuna non pu@o toglierci quello che @e
+veramente proprio dell'uomo, cio@e la virt@u; la felicit@a terrena
+non pu@o essere data dai beni mondani, ma soltanto dall'amore di
+Dio: ecco ci@o che fa manifesto Boezio a chi |ben l'ode.~  Mor@i
+(526), si diceva, d'orrendo supplizio, essendogli stata attorta
+una corda intorno al cranio, finch@e gli occhi schizzarono dalle
+orbite, per esser poi finito a colpi di bastone.  Venne
+seppellito nella Basilica di San Pietro in ciel d'oro, o, come
+dice Dante, in |Cieldauro~ a Pavia, e per tutto il medio Evo fu
+venerato come martire e santo, bench@e non sia assolutamente
+accertato che avesse ricevuto il battesimo.
+
+	|130-132.~  Isidoro, detto di Siviglia perch@e fu
+Arcivescovo di questa citt@a, nacque a Cartagena verso il 560: fu
+l'oracolo della Spagna, fra il secolo argenteo di Seneca e di
+Quintiliano e quello aureo di Lopez de Vega e Cervantes, 
+specialmente per i venti libri di ^etimologie~, specie di
+enciclopedia del tempo, che fu poi continuata dal discepolo
+Braulio, Vescovo di Saragozza; ma dett@o pure opere di Teologia, 
+fra cui tre libri ^Sententiarum sive de summo bono~, raccolse i
+canoni spagnoli, scrisse regole per i monaci della Betica, tratt@o
+degli offici ecclesiastici, ecc.
+
+	Beda, detto il venerabile, nacque a Veremuth, in
+Inghilterra, nel 674, e, datosi a vita religiosa in et@a di
+trent'anni, visse sino al 735 dedito alle pratiche di piet@a ed
+agli studi, per cui fu canonizzato il 13 Novembre del 1899.  Fra
+le sue opere sono specialmente celebri le ^Omelie~ e la ^Historia
+ecclesiastica gentis Anglorum.~
+
+	Riccardo di San Vittore, scozzese, fu scolaro di Ugo di
+San Vittore nell'abbazia parigna di questo nome, poi suo
+successore nel priorato dal 1162 al 1173.  I suoi libri ^De
+Trinitate~ e sulla contemplazione, ^Beniamin maior~ e ^Beniamin
+minor~, gli valsero il titolo di ^Magnus contemplator~, che Dante
+traduce |che a considerar fu pi@u che viro~, ossia dotato di
+potenza sovrumana.  Fu stretto seguace della scuola mistica, e
+potrebbe perci@o sembrarci strana la sua collocazione in questa
+corona, fra tanti ordinatori e sistematori peripatetici delle
+scienze; ma, come osserva Felice Tocco, il Poeta lo nomina qui
+perch@e Riccardo, svolgendo la teoria del maestro in opposizione
+alla teologia raziocinatrice di Roscellino e di Abelardo, si
+serv@i del metodo peripatetico.
+
+	Maggior maraviglia ci recher@a ora il veder collocato
+nella corona di San Tommaso, un fiero averroista, Sigieri di
+Brabante.
+
+	|133-138.~  Gli antichi commentatori pare che poco
+conoscessero di Sigieri, non trovandosi ricordati che i suoi
+studi sugli ^Elenchi~ di Aristotele, un libro in cui il filosofo
+greco enumera i principali sofismi per insegnare a combatterli;
+ma il suo nome e le opere sue divennero oggetto di grandi
+ricerche e studi dal 1847, bench@e fosse dapprima confuso con
+Sigieri di Courtrai.  Oggi noi sappiamo di certo che il
+personaggio dantesco @e Sigieri di Brabante, lo stesso di cui
+parla il Romanzo del Fiore, e che all'Universit@a di Parigi non
+lesse soltanto gli ^Elenchi~, ma fu professore di arti e di
+logica.  Formidabile averroista per lungo tempo, insegnava
+eretici principii trincerandosi dietro l'affermazione di voler
+serbare intatta la fede come uomo, e ragionare come filosofo, per
+cui San Tommaso lo tacci@o di ^falso profeta.~
+
+	La mescolanza di professori di varie nazioni, divisi in
+secolari ed ecclesiastici, e questi in agostiniani e domenicani, 
+aveva cagionato gravi turbolenze che agitarono nel secolo XIII le
+Facolt@a delle arti (umanit@a e filosofia) dell'Universit@a di
+Parigi, sita nella via de ^Fouarre~ o |de li strami~, il
+^fragosus~ o ^strepidulosus stramiorum vicus~ del Petrarca
+(^Senili~, IX, I), cos@i detto dalla paglia che gli studenti
+portavan seco per sedersi, non usandosi ancora sedie n@e banchi. 
+Nella storia di quelle turbolenze appare per la prima volta il
+nome di Sigieri di Brabante, in un decreto del 27 Agosto 1266, 
+col quale il legato pontificio Simone de Brion (che fu poi
+Martino IV) poneva fine a un'agitazione studentesca sorta per
+questioni di nazionalit@a.  Il nostro filosofo, in quel decreto, @e
+accusato di complicit@a nel sequestro della persona d'un
+professore, e nel tentativo di strappare i libri ad altri
+professori perch@e non potessero far lezioni e cantare le esequie
+ad un collega defunto!
+
+	Nel 1271 la Facolt@a delle arti si divise in due partiti
+per l'elezione del Rettore, e trionf@o Alberico di Reims, contro
+il gruppo capitanato da Sigieri di Brabante, con nuovo intervento
+del legato papale, il quale per@o non si occup@o che di questioni
+disciplinari.  Ma due anni dopo il Pontefice Giovanni XXI
+richiamava l'attenzione del Vescovo di Parigi sugli errori che si
+propagavano dalle cattedre universitarie, e il Vescovo, Stefano
+Templier, con decreto del 7 Marzo 1277, condannava 219
+proposizioni averroistiche; le pi@u insegnate da Sigieri, alcune
+anche di San Tommaso, ormai morto da tre anni.
+
+	Il 23 Ottobre dello stesso anno Sigieri di Brabante e un
+Bernier de Nivelles venivano citati a presentarsi per il 17
+Gennaio all'Inquisitore di Saint Quintin de Vermandois.  Poco
+sappiamo dell'esito di questa comparsa; ma @e certo che Sigieri
+fugg@i in Italia per appellarsi alla Corte di Roma, dove rinnov@o
+la professione di fede e venne assolto, per@o con l'obbligo di
+rimanere presso la Curia; ma essendosi questa trasferita ad
+Orvieto (23 Marzo 1281 -- 27 Giugno 1284), quivi un servo
+impazzito, forse un fanatico degli Agostiniani contro i
+Domenicani, colp@i Sigieri ^a ghiado~, come dice il Romanzo del
+Fiore, di pugnale.
+
+	Ferito, forse, Sigieri non mor@i subito; ma tra i dolori
+fisici e i morali della lotta fra quello che gli ispirava la Fede
+e quello che gli suggeriva la ragione filosofica della sua
+scuola, desider@o la morte che lo liberasse e rivelasse la
+desiderata verit@a, a Dio cristianamente rivolgendosi; onde il
+verso dantesco cos@i amaro, |che in pensieri gravi a morir li
+parve venir tardo~, e la sua salvazione.  Ma perch@e @e nella
+corona dell'Aquinate e proprio al suo lato, sicch@e questi stia
+quasi tra il maestro e un discepolo?  Perch@e San Tommaso lo
+distingue con parole di tanta lode ed affetto?
+
+	La domanda @e importantissima, perch@e da questa
+collocazione di Sigieri, qui e a tanto onore, si prese da molti
+argomento per dimostrare in Dante un averroismo che tutta la
+Divina Commedia contraddice.
+
+	@E vero che nelle opere di Sigieri, ^Impossibilia, 
+Quaestiones naturales, Quaestiones logicales~ ecc. si affermano
+errori averrositici che San Tommaso combatte.  N@e si pu@o supporre
+che Dante non conoscesse le opere e le opinioni del brabantino, 
+che, lui vivente, avevano suscitato tanto scalpore.  Ma se ben
+s'intende la frase |invidiosi veri~, essa dimostra che Dante
+conobbe quelle dottrine e le condann@o; perch@e |invidiosi veri~, 
+non significa, come volle spiegarsi, veri dimostrati con tanta
+eccellenza dialettica da suscitare invidia; ma @e locuzione
+sinonima di verit@a diaboliche, mosse dal diavolo che @e ^invidia
+prima~: verit@a in quanto non sembrano repugnare alla ragione, ma
+invidiose, partorienti odio ed invidia, perch@e opposte alla Fede
+ed alla Carit@a.
+
+	Dante dunque condann@o le dottrine di Sigieri; ma
+riconobbe l'intenzione non mala di chi le insegnava, si commosse
+alle sue sventure ed alla sua final conversione, che una leggenda
+attribuiva a prodigio, ad una visione dell'anima d'un suo
+discepolo apparsagli poco dopo la morte; ma alla quale non doveva
+essere estranea la vicinanza e la colleganza di San Tommaso.
+
+	Riteniamo pertanto che se il Poeta colloc@o in Paradiso
+Sigieri vicino all'Aquinate, lo fece perch@e entrambi furono
+seguaci del metodo razionalistico di Aristotele con intenti
+lodevoli: con maggior luce di fede l'Angelico, con minore il
+brabantino; ma su questo rifulse il raggio del sommo teologo San
+Tommaso, che ne parla con la compiacenza d'un maestro che ha
+aperto alfine altrui la via della verit@a e della salute; e gli
+studi pi@u recenti confermano una tale opinione.
+
+	|139-149.~  San Tommaso ha terminato il suo dire e la
+gloriosa rota riprende la danza ed il canto; quel canto di cui
+prima il Poeta aveva detto che non pu@o essere inteso se non in
+cielo, e di cui tuttavia ora tenta di darci un'idea, con questa
+similitudine, che non senza intenzione, nel numero dei versi e
+delle strofe riproduce il numero perfetto 3 pi@u 1.
+
+	La similitudine pervasa d'un'onda musicale dolcissima, @e
+tutta grazia.  L'immagine cos@i semplice dell'orologio e delle sue
+ruote risponde alla doppia rappresentazione della danza e del
+canto, mentre l'idea d'uno stridulo svegliarino si addolcisce per
+il vago onomatopeico |tin tin~, e per il |tempra~ che indica
+perfezione di metallo e accordo di vibrazioni, e per le |dolci
+note~, quasi ritmiche successioni di giocondi squilli argentini, 
+al cui suono si disegna un quadretto pietoso e giulivo.  Noi
+vediamo |la sposa di Dio~, la monacella, |mattinare~, che @e
+insieme un alzarsi presto, un far la mattinata come soglion fare
+i giovani innamorati, ed un cantar mattutino per invitare i
+fedeli alla preghiera; poi, d'un tratto, dalla bella evocazione
+d'un'alba devota, il Poeta ci ritrasporta seco in Paradiso, dove
+|il gioir s'insempra~!

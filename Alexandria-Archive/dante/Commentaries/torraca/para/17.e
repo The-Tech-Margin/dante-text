@@ -1,0 +1,668 @@
+	|1-6.~  Quando il giovinetto Fetonte (^Inf.~, XVII, 107,
+^Purg.~, IV, 72; XXIX, 118-120), superbo di sapersi figliuolo di
+Febo, ud@i |incontro a s@e~ dire da Epafo: -- Sciocco, che credi a
+tutto ci@o, che tua madre ti conta, e ti glorii di chi non @e tuo
+padre; -- corse vergognoso dalla madre |Climene~, le rifer@i
+l'ingiuria, che non aveva potuto rimbeccare, e, gettandole le
+braccia al collo, la supplic@o di fornirgli la prova della sua
+origine divina; |tale era~ Dante, cos@i bramoso di esser certo --
+si vedr@a ben presto di che -- e la sua brama era manifesta a
+Beatrice e a Cacciaguida.  -- |Climen@e~: cfr. ^Purg.~, I, 9;
+XXII, 58.  -- |Quel~ ecc.  La fine miseranda di Fetonte insegna
+|ancora~ ai |padri~ di non essere troppo condiscendenti alle
+voglie de' |figli.~  Cfr. ^Purg.~, XXVIII, 72.  -- |Era sentito~:
+cfr. ^Conv.~, III, 10: <Non senza cagione dico (nella canzone
+^Amor che nella mente~): ^dov'ella mi senta~...  Ma in ci@o voglio
+dare a intendere la gran virt@u, che li suoi occhi avevano sopra
+me; ch@e, come se fossi stato diafano, cos@i per ogni lato mi
+passava lo raggio loro>.  -- |Santa lampa~: i beati sono fasciati
+di luce, cfr. ^Par.~, VIII, 19.  -- |Che pria~ ecc.  Lo spirito
+di Cacciaguida era corso, dal corno destro, al pi@e della croce di
+raggi; ^Par.~, XV, 19-21.
+
+	|7-9.~  Energico il tono dell'esortazione, efficace
+l'imagine della |vampa del des@io~: quanto pi@u vivo @e l'impeto,
+con cui guizza |fuori~, quanto pi@u rosseggia, la |vampa~, tanto
+pi@u e meglio manifesta l'intensit@a del fuoco occulto.  |Segnata~
+ecc.  Cfr. ^Purg.~, VIII, 82.
+
+	|10-12.~  Dalle parole di Dante, Beatrice e Cacciaguida
+non avrebbero appreso niente che gi@a non sapessero.  -- |T'ausi~:
+cfr. ^Inf.~, XI, 11.  |L'uom~: cfr. ^Inf.~, XIII, 85.  -- |Ti
+mesca~: da bere; appaghi il tuo desiderio.  Cfr. ^Purg.~, XXI, 1
+segg.
+
+	|13-15.~  Nonostante l'esortazione di Beatrice, Dante non
+si affretta a manifestare il suo desiderio; quasi per
+incoraggiamento a s@e stesso, s'indugia a considerare che
+Cacciaguida @e in grado di soddisfarlo con tutta precisione, con
+piena certezza.  E come prima lo aveva blandito chiamandolo ^cara
+mia primizia~ (^Par.~, XVI, 22), cos@i ora lo blandisce
+dicendogli: |O cara piota mia.~  Qui |piota~, pianta del piede
+(^Inf.~, XIX, 120 n.), sta per il piede, nel senso di fondamento
+o di radice; cfr. ^Par.~, XV, 88-89.  -- |S@i t'insusi~; monti su,
+t'innalzi tanto.  -- |Che come~ ecc.  |Le menti~ degli uomini
+|vedono~ che un triangolo non pu@o avere |due~ angoli |ottusi~
+nella figura geometrica costruita per dimostrare questo teorema:
+cos@i Cacciaguida vede in Dio il futuro figurato in atto,
+rappresentato come presente; cfr. v. 39.  L'idea di questo
+paragone venne a Dante dal lib. IX, 10 della ^Metafisica~ di
+^Aristotile~, dove, per dimostrare la differenza tra potenza ed
+atto, il filosofo cita il teorema che gli angoli d'un triangolo
+sono eguali a due retti, la verit@a del quale appare subito
+manifesta agli occhi quando, prolungando la base, si vede
+l'angolo esterno, che essa forma con uno dei lati.  -- |Non
+capere~ ecc.  Cfr. ^Par.~, III, 76; @e corollario del teorema
+citato da ^Aristotile.~  In ogni triangolo non pu@o essere che un
+solo angolo ottuso, perch@e, se ve ne potessero esser due, la
+somma de' tre angoli non eguaglierebbe, ma supererebbe quella di
+due retti.
+
+	|16-18.  Le cose contingenti~: i fatti che accadranno;
+|anzi che sieno~: prima che accadano.  -- |Vedi le cose
+contingenti in s@e~: cfr. ^Somma t.~, I, 14, 13: <Dio conosce le
+cose contingenti future...  In doppio modo si pu@o considerare una
+cosa contingente: nel primo modo, considerandola in s@e stessa,
+secondo che @e gi@a in atto, e cos@i non si considera come futura,
+ma come presente...  Nel secondo modo, il contingente pu@o essere
+considerato come @e nella sua causa...  Chiunque conosce l'effetto
+contingente solo nella causa, non ha di esso che una cognizione
+congetturale.  Dio, invece, conosce tutte le cose contingenti non
+solo secondo che sono nelle loro cause, ma anche secondo che
+ognuna di esse @e in atto in s@e stessa>.  -- |Il Punto~ ecc. 
+<Quantunque le cose contingenti si avverino in atto
+successivamente, non per@o Dio le conosce successivamente secondo
+che sono nell'esser loro, come facciamo noi; ma insieme>, perch@e,
+essendo egli eterno, <tutte le cose che sono nel tempo gli sono
+presenti dall'eternit@a>; ovvero <dall'eternit@a egli vede tutte le
+cose secondo che sono nel loro presente>.  ^Somma t.~, l. cit. 
+L'eternit@a @e paragonata al <|punto~, che esiste fuori della
+linea>, ossia al centro del cerchio, perch@e <il centro essendo
+indivisibile, guarda egualmente tutte le parti della
+circonferenza, le quali tutte gli sono in certo modo presenti>; e
+<l'eternit@a, essendo semplice ed indivisibile, comprende tutto il
+decorso del tempo, e ogni parte del tempo @e ad essa egualmente
+presente, quantunque una segua all'altra>.  ^S. Tommaso~,
+^Opuscolo~, III, 10.
+
+	|19-24.~  Preparato Cacciaguida a udire il ^des@io~ {v.8},
+Dante dice come questo sia nato.  |Lo monte, che l'anime cura~...
+cfr. ^Purg.~, XXIII, 125-126.  Si ricordino le predizioni di
+Corrado Malaspina (^Purg.~, VIII, 133 segg.) e di Oderisi da
+Gubbio (XI, 140 segg.).  -- |Nel mondo defunto~: nel ^regno della
+morta gente.~  Si ricordino le predizioni di Farinata (^Inf.~, X,
+79-81), di Brunetto (XV, 70-78) e di Vanni Fucci (XXIV, 145
+segg.).  Dopo quella di Farinata, Virgilio, vedendo Dante
+<smarrito>, aveva cercato di tranquillarlo assicurandogli che
+<avrebbe saputo di sua vita il viaggio> da Beatrice.  Era una
+supposizione ragionevole, naturale; ma non esatta, giacch@e Dante
+apprende non da Beatrice, ma da Cacciaguida, ^qual fortuna gli si
+appressa.~  Non @e improbabile che egli avesse mutato pensiero; ma
+si pu@o anche credere che, sin da quando componeva il c. X
+dell'^Inferno~, avesse fermato in mente di farsi dire |di sua
+vita futura~ dal suo antenato, appunto per mostrare che la
+sapienza di Virgilio non giungeva sino alla prescienza di ci@o,
+che sarebbe accaduto nel cielo.  -- |Parole gravi~: cfr. ^Inf.~,
+XIX, 103.  -- |Avvegna~ ecc.  Nobile affermazione.  Sicuramente,
+ma senz'alcuna iattanza.  Dante va incontro al triste annunzio
+de' futuri danni.  -- |Ventura~: Fortuna.  Cfr. ^Inf.~, XV,
+93-96, ^Nov. Ant.~, CX: <Qui conta come Cato si lamentava contro
+la Ventura ecc.>.  -- |Tetragono~: fermo, come gli oggetti in
+forma di cubo, che hanno sei superficie quadrangolari, e che
+perci@o possono posare bene sopra qualunque base.  ^Aristotile~,
+^Et.~, I, 10 e il comm. di ^San Tommaso.~
+
+	|25-27.  Per che~: si riferisce a ^dette mi fur~ {v.22}
+ecc.  -- |Ch@e saetta~ ecc.  Si soleva dire: saetta preveduta fa
+minor danno; cfr. ^G. da Viterbo~, ^Reggim.~, 63; ^Albertano~,
+337.  ^Somma t.~, II-II, 123: <Il forte preferisce premeditare i
+pericoli, che possono soprastargli, affinch@e possa resistere ad
+essi e pi@u facilmente sostenerli, perch@e, come dice Gregorio in
+una Omelia, i dardi che si prevedono, feriscono meno; e noi pi@u
+facilmente sosteniamo i mali del mondo se contro di essi ci
+premuniamo con lo scudo della prescienza>.  Dante, sostituendo
+all'effetto la causa, dice che la |saetta vien pi@u lenta~ quando
+@e preveduta, quasi con minor impeto; ossia fa minor danno.
+
+	|28-30.  A quella luce stessa~ ecc.  A Cacciaguida; la
+circonlocuzione non @e delle pi@u brevi.  |E come volle Beatrice~
+ecc.  Pu@o parere non necessario, se non si riflette che Dante si
+vuol mostrare quasi costretto a confessare la |sua voglia.~  Si
+noti che aveva usato questa stessa espressione parlando a |quella
+luce.~  -- |Confessa~: cfr. ^Inf.~, XXVII, 83.
+
+	|31-36.  Quell'amor paterno, chiuso e parvente nel suo
+proprio riso, rispose non per ambage~ ecc. |ma per chiare parole~
+ecc.  -- |Ambage~: vaticini oscuri, enigmi; cfr. ^Purg.~, XXXIII,
+50.  -- |S'inviscava~: si confondeva in modo da non cavarne un
+senso chiaro, cfr. ^Inf.~, XIII, 57 n.  -- |Pria~ ecc.  Prima
+della morte di Ges@u.  -- |L'Agnel di Dio~ ecc.  Cfr. ^Purg.~,
+XVI, 18, ^Lett.~, VII, 2.  -- |Chiare le parole, preciso~ il
+|latino~, il linguaggio; cfr. ^Par.~, XII, 141.  -- |Quell'amor
+paterno~: Cacciaguida stesso, cfr. ^Inf.~, II, 103 n.  --
+|Chiuso~ ecc.  Verso, per concisione e per efficacia, mirabile:
+<annidato>, avvolto nello splendore, che dal suo |riso~
+scaturiva, e per esso splendore visibile; cfr. ^Par.~, V,
+124-126, 138.
+
+	|37-39.~  Riprende, chiarisce, determina quel, che Dante
+aveva accennato, vv. 16-19.  -- |La contingenza~: l'insieme delle
+cose contingenti, ed anche il loro carattere astrattamente
+considerato; nel linguaggio della scuola, si opponeva a
+|necessit@a~; cfr. ^Somma t.~, I, 14, 13.  |Che~ ecc.  Importante
+determinazione: oltre i confini della |materia~, del mondo
+creato, non vi @e |contingenza~, ma ^necessit@a~ {v.40}.  --
+|Quaderno~: imagine conveniente alle cose create, essendo Dio
+stesso paragonato a ^magno volume~, ^Par.~, XV, 50.  -- |Tutta~
+ecc.  <@E manifesto che le cose contingenti sono infallibilmente
+conosciute da Dio in quanto sono esposte al divino cospetto nella
+loro presenzialit@a> (come se fossero presenti).  ^Somma t.~, l.
+cit.
+
+	|40-42.~  Ma, dall'esser tutte presenti a Dio le cose
+contingenti, non segue punto che esse diventino per ci@o
+necessarie, come dall'esser l'imagine della |nave, che discende
+gi@u per corrente~, percepita dall'occhio, non segue che l'occhio
+eserciti alcuna azione sopra la |nave.~  Cos@i Dante
+dommaticamente e per incidenza, d@a per risoluta una questione
+difficilissima, come aveva fatto lo stesso ^S. Tommaso~, ^Somma
+t.~, I, 22: <Appartiene alla divina provvidenza produrre tutt'i
+gradi degli esseri; e perci@o ad alcuni effetti assegn@o cause
+necessarie, perch@e necessariamente avvenissero; ad altri, invece,
+cause contingenti, perch@e avvenissero contingentemente secondo la
+condizione delle cause prossime>.  Cfr. ^Purg.~, XVIII, 70-73,
+^Par.~, VIII, 97 segg.  -- |Nave~ ecc.  Cfr. ^Purg.~, IV, 93.
+
+	|43-45.  Da indi~: dal ^cospetto eterno~ {v.39}.  |Come~
+ecc.  Il paragone corre tra |viene~ e ^vene~; ben diverse dalla
+|dolce armonia dell'organo~ le sventure di Dante, che Cacciaguida
+apprende guardando in Dio.
+
+	|46-48.  Ippolito~ figliuolo di Teseo (^Inf.~, IX, 54;
+XII, 17, amato e tentato inutilmente dalla matrigna (Fedra,
+figliuola di Minos e di Pasife; ^Inf.~, V, 4, ^Purg.~, XXVI, 41),
+fu da lei accusato della colpa, che non aveva voluto commettere:
+<il padre scacci@o l'innocente figliuolo (^immeritum~) dalla
+citt@a, e imprec@o da nemico al capo di lui>.  ^Ovidio~, ^Metam.~,
+XV, 497 segg.  -- |Spietata e perfida noverca~: ^Ovidio~ dice:
+<sceleratae fraude novercae>; Dante aggiunge |spietata.~  Cfr.
+^Par.~, XVI, 59.  -- |Tal~: innocente e accusato a torto, cfr.
+^Purg.~, XI, 140-141 n.  Dante protest@o sempre la sua innocenza,
+anzi, come si vede da parecchie sue lettere, us@o chiamarsi <esule
+innocente> (^immeritus~).  Cfr. ^Conv.~, I, 3: <N@e io avrei
+sofferto pena ingiustamente; pena, dico, d'esilio e povert@a>. 
+^Lett.~, IX, 3: <@E questo il richiamo glorioso, col quale si
+richiama alla patria Dante Alighieri, dopo che, per circa tre
+lustri, ha patito l'esilio?  Questo ha meritato l'innocenza
+manifesta a chiunque?>  -- |Ti convene~: ti sar@a necessario,
+dovrai.  Dante non aspett@o la condanna.  Secondo il ^Compagni~
+(II, 25) <era ambasciatore a Roma> quando fu condannato; ma pare
+che l'espressione |ti convene partir di Fiorenza~ contraddica
+all'asserzione del cronista.
+
+	|49-51.~  Cacciaguida riflette che, al triste annunzio,
+non pi@u indeterminato, Dante deve naturalmente pensare: -- E
+perch@e?  E come mai?  Che ho fatto?  A chi pu@o venire in mente? 
+E gli rivela la verit@a in modo, da togliergli ogni dubbio o
+illusione.  Afferma ripetendo: |questo, questo~; avverte che il
+malvagio proponimento @e |gi@a~ in via di esecuzione; non solo si
+|vuole~ ma |gi@a si cerca~, anzi |tosto verr@a fatto a chi ci@o
+pensa.~  Non indica a nome colui, ma con una circonlocuzione
+trasparentissima: il colpo contro l'innocente giusto partir@a da
+Roma, dalla curia papale, da Bonifazio VIII.  Qual maraviglia? 
+|L@a Cristo~, lo stesso |Cristo, tutto d@i si merca~!  Non pu@o
+Cacciaguida predire il danno di Dante senza sdegno: si badi alla
+collocazione e all'accento di |Cristo~, al suono di |si merca.~ 
+Cfr. ^Par.~, XVI, 61; XVIII, 122.  Lo stesso rimprovero era stato
+fatto alla corte romana molte altre volte; mai, forse, con tanta
+forza in cos@i poche parole.  Ecco un esempio: <Quella capo del
+mondo vende reccia corte papale...  Si vende in mercato sotto
+sozza condizione la santa cresima, i sacri ordini, i sacrati
+altari e santi benefizi.  E ancor pi@u, Dio stesso vi si vende... 
+O santi templi celesti, i quali fanno di s@e mercato!>  ^A. da
+Settimello~, III, 199 segg.  -- Cacciaguida parla nell'aprile del
+1300: sin da quel tempo, dunque, a Roma, si macchinava di cacciar
+da Firenze Dante, cio@e due mesi prima che salisse al priorato? 
+Questo afferma egli, e dobbiamo crederlo, bench@e non ci sieno
+giunte o non si sieno trovate sinora prove dirette
+dell'affermazione.  Osserva il ^Villani~ (IX, 134) che <Dante era
+de' maggiori governatori> di Firenze e di parte Bianca, <et per@o
+sanz'altra colpa, con la detta parte Bianca fu scacciato e
+sbandito>: come tale, dov@e opporsi all'ambizione di Bonifazio
+VIII, che, appunto ne' primi mesi del 1300, fu svelata; cfr.
+^Inf.~, VI, 69, ^Par.~, XV, 128 e le n.  A lui ed ai priori suoi
+colleghi, il primo giorno del loro governo, fu solennemente
+consegnata la pergamena della condanna inflitta ai tre fiorentini
+accusati di favorire le mire del pontefice.  Il 15 aprile 1300
+erano stati dati a' priori poteri straordinari (^balia~), come si
+soleva ne' gravi pericoli; i tre traditori erano stati condannati
+il 18 aprile; il 24 Bonifazio aveva ingiunto al governo della
+citt@a di revocare la condanna.  Infine, da' vv. 64-65, si
+arguisce che la sua autorit@a essendo non piccola tra gli esuli
+subito dopo la loro <partita>, tale doveva essere anche prima.
+
+	|52-54.~  La fama accuser@a di |colpa~, calunnier@a la
+|parte~ offesa, poi che sar@a partita.  L'osservazione non @e
+nuova, perch@e il fatto si ripete spesso (|come suol~) e Dante
+stesso, parlando del suo esilio nel ^Conv.~, I, 3, aveva detto:
+<Sono andato mostrando contro a mia voglia la piaga della
+fortuna, che suole ingiustamente al piagato molte volte essere
+imputata>.  Il ^Compagni~ racconta che, dopo la cacciata di Giano
+della Bella (^Par.~, XVI, 131-132), gli avversari <infamavano lui
+e suoi seguaci di grande arroganza>.  Cfr. ^Boezio~, ^Consol.~,
+I, pr. 4: <Questa @e l'ultima delle some imposte dall'avversa
+fortuna, che quando a' miseri qualche delitto @e apposto, si crede
+abbiano meritato quello, che patiscono>.  E cfr. ^A. da
+Settimello~, II, 38-39.  -- |La parte offensa~: si pensa subito
+alla |parte~ o fazione de' Bianchi; ma questa sar@a assai
+severamente giudicata ne' vv. 61-66; e Cacciaguida, ne' due
+terzetti, che seguono, del solo Dante parla, non de' Bianchi. 
+Noto anche |seguir@a~ dopo ^partir ti convene~ {v.48}, che @e detto
+unicamente a Dante.  Perci@o, perch@e |colpa, vendetta, testimonio,
+dispensa~ son tutte parole del linguaggio forense, anche |parte
+offensa~ pu@o avere significato giuridico (parte lesa) e riferirsi
+al solo Dante: -- Tu sarai a torto incolpato; ma ecc.  Dante fu
+condannato per baratteria e -- questa fu la ragione vera! -- per
+aver operato contro il papa; cfr. ^Inf.~, XXI, 41 n.  -- |In
+grido~: il Podest@a Cante de' Gabrielli afferm@o nella sentenza di
+aver istituito processo contro Dante e tre altri con lui
+condannati, perch@e <alle sue orecchie e della sua curia era
+giunta notizia, ^riferita dalla pubblica fama~, che i predetti
+avevano ecc.>.  Cfr. ^Purg.~, XI, 95 e XXVI, 125-126, dove a
+|grido~ si oppone |il vero~, come qui.  -- |La vendetta~, la
+punizione degli offensori testimonier@a, dichiarer@a |il vero~,
+discolpando |la parte~ offesa, mostrandola esente da |colpa~;
+cfr. ^Purg.~, XXVII, 72 n., ^Par.~, XVIII, 6.  Nell'uno e
+nell'altro foro (^Par.~, X, 104) l'accusatore era tenuto a
+provare l'accusa con giuramento e con testimoni; altrimenti era
+punito: secondo il diritto canonico, incorreva in quella stessa
+pena, a cui sarebbe stato sottoposto il calunniato se trovato
+colpevole.  Cfr. ^Somma t.~, II-II, 68.  La punizione dei perfidi
+<vicini> di Dante sar@a predetta nel v. 99; ma Cacciaguida allude
+anche e principalmente a Bonifazio VIII, il quale, soli
+diciassette mesi dopo la condanna del poeta, pat@i l'oltraggio di
+Anagni e ne mor@i, e and@o all'Inferno; cfr. ^Purg.~, XX, 86 segg.,
+^Inf.~, XIX, 53, ^Par.~, XXX, 148.  Quell'oltraggio e quella
+morte parvero davvero castigo di Dio.  <Della sua morte molti ne
+furono contenti e allegri, perch@e crudelmente reggea, e accendea
+guerre, disfacendo molta gente, e raunando assai tesoro; e
+specialmente se ne rallegrarono i Bianchi e i Ghibellini, perch@e
+era loro cordiale nimico>.  ^Compagni~, II, 35.  <Iddio fece
+punire lui per lo modo, ch'@e detto, et poi l'offenditore pun@i>. 
+^Villani~, VIII, 64.
+
+	|55-57.~  Sotto forma di predizione, le memorie dolorose
+dell'esule non hanno niente di querulo, di fiacco; ma com'@e
+lento, grave, malinconico |Tu lascerai~!  Quanta desolazione in
+|ogni cosa~!  Con quale amarezza la mente richiama e considera
+|ogni cosa diletta pi@u caramente~!  |E questa @e~ ecc.  La prima,
+pi@u profonda, insanabile piaga -- lo strazio della separazione,
+lo schianto del distacco.  Per l'imagine, cfr. ^Par.~, I,
+125-126.
+
+	|58-60.  Come sa di sale~: qual sapore abbia; amaro
+sapore.  -- |Duro calle~: penoso cammino, cfr. ^Inf.~, X, 1. 
+|Pane altrui, altrui scale~: pi@u un uomo ha coscienza del proprio
+valore, pi@u delicato @e il suo sentire, e pi@u soffre di dover
+cedere alla ferrea necessit@a.  <Peregrino, quasi mendicando sono
+andato... e sono vile apparito agli occhi a molti...  Dice
+^Seneca~ che nulla cosa pi@u cara si compera, che quella dove i
+prieghi si spendono...  Caro costa quello che si priega>. 
+^Conv.~, I, 3, 8.  Chi pu@o ridire le angosce tragiche della
+grande anima di Dante?
+
+	|61-63.  Ti graver@a le spalle~: ti peser@a.  -- |In questa
+valle~: nell'esilio.  Giudizio non solo severo d@a il poeta de'
+Bianchi esiliati con lui, ma anche acerbo, per la ragione, che
+dir@a subito dopo: |compagnia malvagia e scempia~, perfidi e
+stolti.
+
+	|64-66.  Tutta, tutta~: nessuno eccettuato.  |Ingrata~,
+dimentica dei benefizi ricevuti, del bene a lei fatto; |matta ed
+empia~, fuor di s@e per ira; cfr. ^Par.~, V, 80, ^Inf.~, X, 83,
+^Purg.~, XVII, 19.  |Si far@a~: diventer@a.  Non si sanno bene n@e
+il tempo n@e la ragione di questo fatto.  Non era ancora avvenuto
+nel marzo del 1304, quando, a nome degli esuli, Dante scrisse al
+cardinale Niccol@o da Prato, che andava a Firenze (dove giunse il
+10 marzo) per mettervi pace, la ^Lettera~, I, con cui si
+dichiaravano pronti a fare quel, che a lui fosse piaciuto.  Il
+capitano de' Bianchi, Alessandro da Romena (^Inf.~, XXX, 77),
+mor@i in quel torno, e Dante scrisse a' nipoti ed eredi del morto
+una consolatoria (^Lett.~, II), lamentando svanite le speranze,
+che egli e i suoi compagni di sventura avevano riposte in lui. 
+-- |Ma poco appresso~ ecc.  Importa fermare, prima di tutto, che
+|aver rossa la tempia~, cio@e la fronte (^Purg.~, XII, 135 e IX,
+112).  Significa vergognarsi; cfr. ^Inf.~, XXIV, 132 n.; XXXI,
+1-2; ^Colonna~, III, 5: <Quel, ch'@e vergognoso, ha la faccia
+rossa>.  Dunque ^la compagnia malvagia e scempia~ {v.62}, poco
+dopo di essersi, |fatta ingrata~ ecc. contro a Dante, ebbe a
+vergognarsene, cio@e a pentirsene.  <Verecundia @e una paura di
+disonoranza per fallo commesso; e di questa paura nasce uno
+pentimento del fallo>; ^Conv.~, IX, 25.  Ecco nuova conferma
+dell'autorit@a, che egli, per non breve tempo, god@e tra i
+fuorusciti, dalla quale viene anche luce di riflesso agli accenni
+precedenti: i fuorusciti ingrati non vollero pi@u riconoscere
+l'autorit@a sua, insorsero contro di lui.  Ma quando?  Non certo
+prima dell'andata del cardinale a Firenze.  Qualcuno crede che fu
+nel luglio del 1304, quando, profittando della lontananza da
+Firenze de' <caporioni> dei Neri, chiamati a Perugia dal papa
+Benedetto XI, i Bianchi tentarono d'impadronirsi della citt@a con
+un colpo di mano; ma l'impresa, male guidata e non secondata da'
+cittadini, fall@i miseramente.  Dante si sarebbe invano opposto al
+tentativo, onde le ire della ^compagnia~ {v.62}; il fatto gli
+avrebbe dato ragione, onde la vergogna e il pentimento di quella. 
+Sennonch@e il tentativo non era punto dissennato o intempestivo, o
+mal preparato, tant'@e vero che poco manc@o non riuscisse; fall@i
+perch@e una parte delle schiere giunse alla Lastra, a due miglia
+da Firenze, troppo presto, e non ebbe la pazienza di aspettare
+l'altra parte prima di correre all'assalto.  La ^bestialit@a~
+{v.67}, per usare la parola, che Cacciaguida user@a, si vide
+allora manifesta non nel disegno dell'impresa, ma
+nell'esecuzione.  A tempo anteriore di circa due mesi si possono,
+secondo me, riferire le allusioni contenute in questi versi.  Il
+cardinale Niccol@o volle che dodici <sindachi> o rappresentanti
+degli usciti di fuori fossero ricevuti in Firenze per trattarvi
+le condizioni della pace con i Neri (^Compagni~, III, 7,
+^Villani~, VIII, 69); or, tra i nomi, che conosciamo, di que'
+dodici, non si trova quello di Dante, cio@e di uno de' <principali
+governatori della parte>, di uno de' contraenti del patto
+conchiuso tra essa e gli Ubaldini, nel 1302, a S. Godenzo (cfr.
+^Inf.~, XVI, 100 n.), di colui, che nel 1303, a Forl@i, e ancora
+nella primavera del 1304, probabilmente ad Arezzo, era stato il
+<dettatore>, lo scrittore delle note uffiziali, l'interprete del
+pensiero degli esuli.  Questa esclusione appunto, dovuta, come
+suol avvenire, all'ambizione, alla vanit@a, agl'intrighi di
+quelli, che riuscirono a farsi prescegliere, pot@e egli, a buon
+diritto, attribuire a ingratitudine, a mattia ed <empiezza> dei
+compagni: offeso, sdegnato, pot@e rompere allora ogni relazione
+con essi, allontanarsi da essi.  Si noti: il 13 maggio 1304 il
+fratello di lui Francesco, in Arezzo, prese a prestito la somma
+di 12 fiorini d'oro (^Della Torre~ nel ^Bullett.~, XII, 28):
+questo debito pare proprio contratto per fornir a lui i mezzi di
+andar lontano.  I sindaci, giunti a Firenze, non seppero
+profittare della benevolenza del cardinale e della simpatia del
+popolo; non prendere un partito risoluto, <che se fatto
+l'avessino, erano vincitori>.  Si lasciarono mettere nel sacco
+da' Neri e ripartirono (8 giugno) senz'aver conchiuso niente, col
+danno e con le beffe.  E Dante dov@e naturalmente pensare che, se
+fosse stato uno de' sindaci egli, uomo esperto, avveduto ed
+energico, le cose sarebbero andate altrimenti; pensare che ^la
+compagnia malvagia e scempia~ {v.62} si fosse, poi, vergognata di
+aver messo da un canto, pentita di non aver mandato lui; ma
+troppo tardi.  -- |Ella, non tu~ ecc.  Antitesi vigorosa, ma non
+abbastanza chiara.  La dichiara il terzetto seguente.
+
+	|67-69.~  ^Poco appresso~ {v.65}, il |suo processo~, il
+modo di procedere, la condotta della ^compagnia~ {v.62} |far@a la
+prova~, metter@a in luce |la sua bestialitate~ cos@i, che |a te fa
+bello~, tu ti compiacerai, di |averti fatta parte per te stesso~,
+d'esserti gi@a prima fatto un tuo proprio partito, abbandonandola. 
+-- |Il suo processo~: cfr. ^Par.~, VII, 113 n.  -- |Fia bello~:
+cfr. ^Inf.~, XIX, 37 n.  -- |Averti fatta~ ecc.  Cfr. ^Par.~, VI,
+103 segg. e la n.  Fa pensare al Saladino, ^Inf.~, IV, 129.
+
+	|70-75.~  Dante, sinch@e, con quella ^compagnia~ {v.62},
+quando con le armi, quando con i maneggi pacifici, sperer@a di
+potere un giorno o l'altro rientrare in Firenze, vivr@a la vita
+degli altri esuli, errante, agitata, talora convulsa; il primo
+luogo, dove poser@a in lunga non interrotta quiete, sar@a Verona. 
+L@a trover@a il |primo rifugio~ sicuro e durevole, |e il primo
+ostello~, in cui non sentir@a ^come sa di sale lo pane altrui~
+{vv.58-59} , perch@e |il gran Lombardo~, che ha per insegna (cfr.
+^Par.~, XVI, 127) l'aquila imperiale (cfr. ^Par.~, VI, 4) |su la
+scala~, uno Scaligero, dal quale sar@a cortesemente accolto,
+contro l'uso comune, ^far@a~, provveder@a ai bisogni di lui prima
+che egli abbia a |chiedere.~  -- |Il gran Lombardo~: secondo
+Pietro di Dante, seguito da molti moderni; @e Bartolommeo della
+Scala, signore di Verona, succeduto a suo padre Alberto nel
+settembre del 1301; cfr. ^Purg.~, XVIII, 121 n.  Ma Bartolommeo
+mor@i nel marzo del 1304, quando il poeta, come abbiam veduto, non
+s'era ancora separato da' Bianchi.  Quest'opinione pot@e nascere
+dal fatto, attestato da documenti veduti da Flavio Biondo nel
+sec. XV, che, nel 1308, Dante and@o da Forl@i a Verona ambasciatore
+de' Bianchi per chiedere aiuti, e li ottenne.  A Bartolommeo
+succedette il fratello Alboino, che pare con poca simpatia
+giudicato nel ^Conv.~, IV, 16: <Ben sono alquanti pochi, che
+credono che per questo vocabolo ^nobile~ s'intenda esser da molti
+nominato e conosciuto...  Che se ci@o fosse, quelle cose che pi@u
+fossero nominate e conosciute in loro genere, pi@u sarebbero in
+loro genere nobili... e Albuino della Scala sarebbe pi@u nobile
+che Guido da Castello di Reggio> (^Purg.~, XVI, 125), la qual
+cosa <@e falsissima>.  Ma, forse, si trae la parola di Dante <a
+peggior sentenzia ch'ei non tenne>; certo, non significa che
+Alboino fosse meno nobile <di sua natura>; e, certo, Alboino @e
+annoverato tra <le cose pi@u nominate e conosciute>.  Un'altra
+ragione, oltre quella delle date, si vedr@a al v. 76; qui giova
+riferire ci@o, che scrisse di Alboino ^Ferreto da Vicenza~: <Non
+avaro di aiuti a quelli, cui si sapeva legato da parentela o da
+benevolenza, liberalmente prodigava le sue forze e le sue
+ricchezze>.  |Avr@a in te~ ecc.  Ti tratter@a cos@i benignamente. 
+-- |Quel che, tra gli altri, @e pi@u tardo~, @e colui, al quale si
+chiede.  Cfr. n. a' vv. 52-54 e ^Purg.~, VIII, 129 n.
+
+	|76-78.  Con lui~: con Bartolommeo, Dante avrebbe veduto
+non un solo de' fratelli, ma due, Alboino e Cangrande.  --
+|Colui~ ecc.  Cangrande, nato sotto l'influsso di Marte, <che
+propriamente significa li cavalieri armati e tutte le
+congiurazioni dell'arme, e significa battaglie e spargimento di
+sangue, e perci@o fu chiamato deo di battaglie>.  ^Ristoro~, I,
+18.  -- |Notabili fien l'opere sue~: le sue imprese guerresche; @e
+detto con vigore, con enfasi.  Per una di queste |opere~, cfr.
+^Par.~, IX, 46-48 n.
+
+	|79-81.  Novella et@a~: cfr. ^Inf.~, XXXIII, 88.  -- |Pur
+nove anni~: era nato nel 1291.  -- |Queste rote~: i cieli, cfr.
+^Purg.~, XXIV, 88.
+
+	|82-84.~  Ma prima che Clemente V |inganni~ Arrigo VII,
+prima del 1313, Cangrande dar@a saggio della sua virt@u, non
+curando n@e danaro n@e fatiche.  |Il Guasco~: cfr. ^Inf.~, XIX, 83,
+^Par.~, XXVII, 58.  -- |L'alto Arrigo~: cfr. ^Par.~, XXX, 137. 
+-- |Faville~: ^Poca favilla gran fiamma seconda~, ^Par.~, I, 34. 
+-- |Non curar d'argento n@e d'affanni~ @e proprio della
+magnanimit@a.  <Perch@e il magnanimo non stima grandi i beni
+esterni, ci@o sono i beni della fortuna, ne segue che non si
+estolle molto se li possiede, n@e si abbassa molto se li perde. 
+Il magnanimo prontissimamente si espone a' pericoli per le cose
+veramente grandi>, ^Somma t.~, II-II, 129.  Racconta ^Ferreto~
+che Cane aveva soli sette anni, quando, avendogli il padre
+mostrato <immensi mucchi d'oro>, rise, e, in segno di disprezzo
+-- lascio il latino qual @e -- <rore modesto inguinis asperxit>. 
+-- |Affanni~: cfr. ^Purg.~, XIV, 109 n.  Alla morte del padre,
+dice ^Ferreto~, Cane era gi@a forte, arditissimo, peritissimo in
+tutti gli esercizi corporei: <quello era il suo divertimento,
+quello il suo riposo>.
+
+	|85-87.~  La magnificenza consiste ne' grandi doni e
+nelle grandi spese; ^Somma t.~, ivi, 134, ^Conv.~, IV, 17.  Lode
+non comune, gli stessi |nemici~ non ne potranno tacere.  |Saranno
+ancora~: prima del 1313.
+
+	|88.  A lui t'aspetta~: cfr. ^Purg.~, XVIII, 47.  |Ed a'
+suoi benef@ici~: degno ricambio de' benefizi ricevuti sono questi
+versi immortali.  Cominciando la ^Lettera~, con la quale dedic@o a
+Cangrande il ^Paradiso~, Dante scrisse: <L'altissima lode della
+vostra magnificenza, che la vigile fama volitando sparge
+dovunque, produce cos@i diversi effetti nelle diverse persone (che
+l'ascoltano), da sollevar questi nella speranza della propria
+prosperit@a, e gettar quelli nel terrore dello sterminio.  Questo
+vanto, superiore ai fatti de' moderni, mi pareva una volta
+esagerato, come non proporzionato alla verit@a de' fatti.  Per non
+rimanere continuamente sospeso nell'incertezza, come la regina
+del mezzogiorno (Saba) si rec@o a Gerusalemme, come Pallade si
+rec@o all'Elicona, io mi recai a Verona per esaminare con i fidati
+occhi le cose udite; e col@a vidi le vostre grandezze, vidi e
+insieme sperimentai i benefizi; e, a quel modo che prima
+sospettavo esser eccessive le lodi, cos@i dopo conobbi essere
+straordinari i fatti>.  Delle magnificenze di Cangrande resta,
+tra gli altri, curioso documento il ^Bisbidis~ di ^Emanuele
+Giudeo~, che comincia: <Del mondo ho cercato Per luogo et per
+lato>; ma <pur la corona Ne porta Verona, Per quel che si suona,
+Del dire et del fare>.  Vi si legge tra l'altro: <Baroni et
+marchesi De tutti i paesi, Gentili e cortesi, Qui vedi arrivare. 
+Quivi astrologia Con filosofia, Et di teologia Udrai disputare. 
+Quivi Tedeschi, Latini e Franceschi, Fiammenghi e Inghileschi
+Insieme parlare>.  A proposito di dispute: in Verona, nel gennaio
+del 1320, Dante tratt@o pubblicamente la ^Questione dell'aqua e
+della terra~, <signoreggiando l'invitto signore Cangrande della
+Scala per il sacrosanto Romano Impero>.
+
+	|89-90.~  Cangrande far@a come la Fortuna, cfr. ^Inf.~,
+VII, 79-87.
+
+	|91-93.~  Cfr. ^Purg.~, XXXIII, 82-83.  Qui le predizioni
+s'interrompono per necessit@a; Dante scriveva questo canto prima
+del 1320; Cangrande visse, e grandi cose fece, sino al 1329.  --
+La raccomandazione: |nol dirai~, sta a dissimulare la naturale
+ignoranza del futuro; cfr. ^Par.~, IX, 4.  |Cose incredibili~
+ecc.  Chi @e |presente~, crede perch@e vede; saranno, dunque,
+superiori ad ogni credibilit@a.  Cfr. ^Sallustio~, ^Catil.~, XIII:
+<A che ricorderei quelle cose, le quali a nessuno sono credibili,
+se non a quelli, che le videro?>
+
+	|94-96.  Giunse~: aggiunse.  -- |Le chiose~ ecc.  Cfr.
+^Inf.~, XV, 89.  -- |Le insidie~: si ricordino i vv. 49-54.  --
+|Pochi giri~: di sole, pochi anni.
+
+	|97-99.~  Non voglio, per questo, che ti dolga della
+miglior fortuna de' |tuoi vicini~; perch@e tu vivrai anche dopo
+che le |loro perfidie~ saranno punite; vedrai ^la vendetta~
+{v.53}, che li colpir@a.  -- |S'infutura~: si prolunga nel futuro. 
+-- |Vicini~: cfr. ^Inf.~, XVII, 68, ^Purg.~, XI, 140 e le n. 
+Principale artefice della rovina de' Bianchi e delle sventure di
+Dante fu Corso Donati, suo vicino nel senso proprio della parola. 
+<Quelli di messer Cacciaguida, detti Aldighieri (Allighieri)
+abitarono in su la piazza dietro a S. Martino del Vescovo,
+dirimpetto alla via, che va a casa i Sacchetti; e dall'altra
+parte si stendono verso le case de' Donati e dei Giuochi>. 
+^Bruni~, ^Vita di Dante.~  Per la miserabile fine di Corso, cfr.
+^Purg.~, XXIV, 82 segg.
+
+	|100-102.  Si mostr@o spedita di metter la trama~ ecc. 
+Mostr@o di non aver altro a dirmi della fortuna, che mi si
+appressava; vv. 25-27.  -- |In quella tela~ ecc.  Nell'ordito
+della tela, che io le avevo porto; cfr. ^Par.~, III, 95-96.
+
+	|103-105.  Come colui, che, dubitando~, stando in dubbio,
+|brama consiglio~ ecc.: <Imperci@o che tu mi domandi consiglio in
+cose dubbiose, parmi che tu sia savio...  De' domandar consiglio
+da boni amici e savi dotti e provati e trovati fedeli per
+ragione, et massimamente da vecchi>.  ^Albertano~, 72, 85.  --
+|Che vede~ ecc.  Tale <l'anima santa> di Cacciaguida, che |vede~
+il futuro, |vuol~ il giusto e |ama~ Dante.
+
+	|106-108.~  Non querele, non sdegno; ma rassegnazione
+pacata, virile, quale si conviene ad uomo, che gi@a, prima della
+predizione, si sentiva ^ben tetragono ai colpi di ventura~
+{v.24}.  -- |Spronato tempo~: si avvicina di corsa; rappresenta
+il tempo come un cavaliere armato.  -- |Colpo tal~ ecc.  Cfr. v.
+27; ^pi@u lenta viene saetta previsa~, pi@u |grave~ sente |il colpo
+chi s'abbandona~ a sicurezza incauta.
+
+	|109-111.~  <Siccome dice ^Boezio~, non basta di guardare
+pur quello, ch'@e dinanzi agli occhi, cio@e il presente, e per@o n'@e
+data la provvidenza, che riguarda oltre, a quello, che pu@o
+avvenire>.  ^Conv.~, III, 1.  -- S@i che, se dal <dolcissimo seno
+di Firenze sono gettato fuori> (^Conv.~, I, 3), |i miei carmi~, i
+miei versi non impediscano che mi si accolga in altri luoghi. 
+Dante s'augurava di vivere ancora dopo la pubblicazione del
+poema, e prevedeva che questo avrebbe suscitato dispetto ed ira
+quasi in ogni parte d'Italia.
+
+	|112-114.~  Cfr. vv. 20-21.  Anche qui ricorda l'Inferno
+e il Purgatorio; ma l'Inferno riassumendo efficacemente in una le
+impressioni dolorose, che gliene sono rimaste -- |sanza fine
+amaro~ -- e il Purgatorio congiungendo, col ricordo del |bel
+cacume~ di esso (^Purg.~, IV, 26 ecc.), del Paradiso terrestre
+quello del ^bene, che vi trov@o.~  -- |Gli occhi~ ecc.  Cfr.
+^Par.~, I, 49, segg.  Certo cos@i dicendo, Dante volse uno sguardo
+pieno di gratitudine a Beatrice.
+
+	|115-116.  Di lume in lume~: di stella in stella.
+
+	|117.  Fia sapor di forte agrume~: sapr@a agro,
+dispiacer@a.  Cfr. ^Purg.~, XXX, 80-81; XXXI, 3; ^Giamboni~,
+^Orosio~, V, 24: <Sa d'aspro>.
+
+	|118-119.~  Dovrei, dunque, tacere il |vero~, per non
+vedermi chiuse in faccia tutte le porte?  Ci@o facendo, |temo~ di
+non essere ricordato con onore dai posteri.  Cfr. ^Inf.~, XV, 85
+n.  -- |Al vero timido amico~ Dante non fu mai; se, forse, pecc@o,
+pecc@o per l'eccesso contrario.  Cfr. ^Conv.~, IV, 8:
+<^Aristotile~, nel principio dell'^Etica~ dice: -- Se due sono
+gli amici e l'uno @e la verit@a, alla verit@a @e da consentire>;
+^Lett.~, VIII, 4: <Il Filosofo m'insegna... che a tutti gli amici
+@e da preferire la verit@a>.  -- |Coloro~ ecc.  Congiunge
+magnificamente il presente col futuro.
+
+	|121-123.  Ch'io trovai l@i~ pu@o parere superfluo; ma |mio
+tesoro~ Dante poteva dire anche di Beatrice.  -- |Corrusca~: cfr.
+^Purg.~, XXXIII, 103.  |Raggio di sole, specchio d'oro~: due
+imagini parallele, due coppie di accenti.  <Dice ^Alberto~
+(^Par.~, X, 98) in quello suo libro, che fa dell'^Intelletto~,
+che certi corpi, per molta chiarit@a di diafano avere in s@e mista,
+tosto che 'l sole gli vede, diventano tanto luminosi, che, per
+multiplicamento di luce in quelli, appena discernibile @e lo loro
+aspetto, e rendono agli altri di s@e grande splendore, siccome @e
+loro>.  Si consideri ora questa osservazione non solo, per dir
+cos@i, condensata, ma resa evidente in poco pi@u d'un verso.
+
+	|124-126.~  Attenua la prevenzione di Dante: non tutti
+avranno a dolersi della sua parola |brusca~; ma soltanto quelli,
+la cui |coscienza~ @e offuscata, turbata dalla |vergogna~ de'
+falli propri o de' loro congiunti.  |Cosc,ienza fusca~: @e detto
+gravemente, lentamente; cfr. ^Purg.~, XIII, 88-90.  -- |Brusca~
+per l'impressione, che far@a.
+
+	|127-128.~  Qui Dante, con nobile alterezza, dichiara il
+fine altissimo, che s'@e proposto, e rivela l'intima essenza del
+suo carattere.  |Rimossa ogni menzogna~: efficace l'imagine (cfr.
+^Inf.~, IX, 82), e la voce d@a rilievo a |ogni.~  -- |Tutta tua
+vis,ion~: tutto quello, che avrai veduto ne' tre mondi; cfr.
+^Par.~, XXXIII, 62.  Anche |tutta~ @e detto con forza, e cos@i |fa
+manifesta.~
+
+	|129.~  Lascia pur che si dolgano quelli, che saranno
+colpiti ne' loro vizi.  Ricorda un altro verso famoso, ma non di
+altrettanta evidenza e schiettezza rude; ^Inf.~, III, 51.  E
+sembra proverbiale.  ^C. Angiolieri~: <L@a dove non mi prude, s@i
+mi gratto>; ^G. Orlandi~: <Come quei, che rogna gratta, Che sente
+il mal quand'elli @e scorticato>.  Chi si maraviglia di sentir
+dire di queste frasi in cielo, da Cacciaguida, aspetti di
+sentire, tra non molto, San Pietro e la stessa Beatrice; ^Par.~,
+XXVII, 25-27; XXIX, 125.
+
+	|130-132.~  Versi divenuti proverbiali.  |Sar@a molesta~:
+spiacer@a; |nel primo gusto~: a pena assaggiata.  |Vital~ spicca
+nel verso e in tutto il terzetto.  -- |Digesta~: digerita, cfr.
+^Purg.~, XXV, 43.
+
+	|133-134.  Grido~: pi@u esatto e perci@o meglio espressivo
+che non ^parola~ (v. 126) e ^voce~ (v. 130); |grido~ di
+riprovazione, |grido~ di sdegno.  -- |Come vento~: ^vento
+impetuoso, che fier la selva~; ^Inf.~, IX, 67-69.  -- |Che~ ecc. 
+Tutt'il verso @e come percosso da forti colpi.  |Le pi@u alte
+cime~: i pi@u potenti, i maggiori della terra.
+
+	|135.~  Sar@a |non poco argomento d'onore~ l'aver avuto
+tale ardimento.
+
+	|136-138.~  Enumera Cacciaguida i tre mondi, come li
+aveva enumerati Dante (vv. 112-115), ma pi@u rapidamente.  |Nella
+valle dolorosa~: cfr. ^Inf.~, IV, 8.  -- |Pur~ solo le |anime
+note~ per |fama~; cfr. ^Inf.~, XV, 102; XX, 103-105.
+
+	|139-142.  L'animo non posa~, non s'acqueta soddisfatto
+di |quel, ch'ode~ dire in astratto, vuole prove di fatti; |n@e
+ferma fede~, n@e crede fermamente se non gli si reca |esempio~
+noto e chiaro, n@e |per altro argomento~, che non sia, per s@e,
+evidente.  E qui Dante svela il segreto della concezione del
+poema, fantastica rappresentazione di pene e di premi eterni, di
+anime punite e premiate dalla giustizia divina.  <I sermoni sono
+utili a provocare e muovere gli uomini, che sono di buona natura
+e amano la bont@a naturalmente; ma quelli, che non sono nati alla
+bont@a, conviene che vi sieno menati per pena e paura>. 
+^Aristotile~, ^Et.~, X, 9.  <Nelle operazioni e nelle passioni
+umane, su cui l'esperienza vale molto, pi@u muovono gli esempi che
+non le parole>.  ^Somma t.~, I-II, 34.  -- |Aia~: cfr. ^Inf.~,
+XXI, 60.  -- |Radice~: cfr. ^Par.~, XIV, 12.

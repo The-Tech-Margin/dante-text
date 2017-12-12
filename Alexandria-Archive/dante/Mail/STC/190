@@ -1,0 +1,80 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id JAA11802
+	for <steve@avalon.dartmouth.edu>; Mon, 15 Feb 1999 09:38:53 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id JAA27634
+	for <Steve.Campbell@dartmouth.edu>; Mon, 15 Feb 1999 09:38:53 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 58599 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67394-637>; Mon, 15 Feb 1999 09:38:26 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id JAA29247
+	for <Steve.Campbell@dartmouth.edu>; Mon, 15 Feb 1999 09:38:14 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup23.Princeton.EDU [128.112.71.23])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id JAA27467;
+	Mon, 15 Feb 1999 09:38:12 -0500 (EST)
+Message-ID: <36C8316F.B65E8551@princeton.edu>
+Date: 	Mon, 15 Feb 1999 09:38:39 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>,
+        Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: varia
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Here is a list of what I found for you to handle.
+
+(1) searching on the word "inivito" (a typo) in brief mode I got a
+double hit on Fallani for Inf. 28.88.  When I checked in the full comm.
+(Fallani[comm]) that screen only came up once.  Any ideas as to why?
+
+(2) I was finally able to search/find/modify a problem I've noted over
+the years: the marker "M-j" sometimes got put in to represent the
+circumflex (which we do with "#" before a vowel).  I was able to find
+about 10 of these, and will change them in the C.ng directories.  Now
+here's the question.  Since DDP cannot search on strings WITHIN words, I
+could only find the ones I could guess might be there, e.g., the French
+word "m^eme" (search "mM-j$").  Is there any way you can search for that
+globally?  That is, any occurrence of "M-j"?  My guess is I got quite a
+few, but that others remain.  And a second such offender might be the
+"&amp" of which you fixed one in Pietro3; are there others?  I cannot
+search with the ampersand in lead position, as you know.
+
+(3) Headers:  Here are the changes I propose.
+
+	Pietro di Dante (1340-41).  Weren't we going to say "Pietro1
+(1340-41)?  He's still plain "Pietro" (while the later versions are
+"Pietro2" and "Pietro3"); can't we and shouldn't we change this?
+
+	Scartazzini [1900]: his header has got VERY crowded.  I see how we can
+steal 3 spaces back: "1872-82[2nd ed 1900])"  Yes?
+
+	Poletto.  He has quite a few cantos indicated w/o line nos. or "Nota". 
+I have checked all of these, and propose that we add "Nota" to them. 
+(We have a similar situation with Bosco, but there "Introduzione" occurs
+once we get to the screen, and that makes it clear to the user what's
+going on; Bosco was done complicatedly [and well] by MF, and I want to
+leave him as is.  This just so you know that i have noted the apparent
+problem and can live with it.)  It happens that sometimes the editor
+made introductory remarks into comments to specific lines, at others,
+not.  No problem with that.  Here is the complete listing (I have
+checked all entries), each of which should now read "Inf. ?, Nota":
+INFERNO: 3,5,6,11,13,14,18,20,22,24,25,26,29,31,33
+PURG.: 1,3,7,14,16,19,20,23,26,28,31
+PARA.: 1,3,4,5,6,7,8,10,11,18,19,21,22,23,27,33
+
+(4) Parsing: two of the new boys didn't get parsed, i.e., they have
+whole cantos as a single entry, as follows:
+
+	Campi: Inf. 21 and Purg. 6 (the rest are OK)
+
+	Carroll: ALL of Purg. & Para. need parsing (Inf. is OK).
+
+That's all I have been able to find.  Using telnet, I find the DDP
+better than ever in lots of ways.  I think you have done a terrific job.
+
+Pietro3's missing cantos coming right up.  All the best, Bob

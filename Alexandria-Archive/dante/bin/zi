@@ -1,0 +1,18 @@
+#! /bin/sh
+
+# Use vi to look at a compressed file without uncompressing the file.
+
+TMP=/tmp/zvi.$$
+for FILE
+do
+	TFILE=$TMP.$FILE
+	if
+		zcat $FILE > $TFILE
+	then
+		vi $TFILE
+	else
+		echo 
+		sleep 2
+	fi
+	rm -f $TFILE
+done

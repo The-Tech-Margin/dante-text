@@ -1,0 +1,71 @@
+	|1.~  ^Cupe~ -- Desiderat.
+
+	|3.~  ^Rupe~ -- Petra.
+
+	|4.~  ^Quindici stelle~ -- Fixe prime magnitudinis.
+
+	|7.~  ^Carro~ -- Septentrionis.
+
+	|8.~  ^Basta~ -- Quia non occidit.
+
+	|10.~  ^Cornu~ -- Apparet forma corni in celo et incipit in punta 
+carri.  Hercules dicitur cum Athelo pugnasse primo in serpentem, 
+secundo in taurum converso et eidem unum cornu fregisse, quod cornu dee 
+Copie consecratum in celum esse translatum.  Veritas est quod Athelous 
+fluvius tortuosus Calidoniam vastabat et Hercules eum rectificavit.  
+Sed fluvius fecit duos alveos et adhuc dampnificabat et Hercules unum 
+alveum desiccavit et alium in mare deduxit.  Unde provincia fuit postea 
+frugibus copiosa.
+
+	|13.~  ^Regni~ -- Unum stellarum fixarum, aliud cornus et carri.
+
+	|14.~  ^Filliola~ -- Scilicet Adriana, de qua XII cantu ^Inferni~.
+
+	|16.~  ^Raggi~ -- Per mutuum et vicissitudinarium splendorem et 
+assensum.
+
+	|18.~  ^Al poi~ -- Scilicet obviando sibi in circulatione.
+
+	|23.~  ^Chiana~ -- Stagnum paludosum incipiens prope Aretium usque ad 
+civitatem Clusii et post facit flumen quod labitur in flumen Pallie.
+
+	|24.~  ^Avancza~ -- Scilicet primum mobile et est similitudo distantie.
+
+	|25.~  ^Peana~ -- Apollo.  Cantilene vane paganorum.
+
+	|26.~  ^Ma tre persone~ -- Scilicet <Gloria Patri et Filio et Spiritui 
+Sancto> cantabatur ibi.
+
+	|31.~  ^Numi~ -- Scilicet spiritus divini.
+
+	|37.~  ^cto~ -- Ade.  ^Costa~ -- Quando misit Deus soporem in eum.
+
+	|38.~  ^Guancia~ -- Scilicet Eve.
+
+	|39.~  ^Palato~ -- Per esum ligni vititi.  ^Costa~ -- Amarissime.
+
+	|40.~  ^Forato~ -- Scilicet Christi pectore a Longino in cruce.
+
+	|53.~  ^Idea~ -- Plato posuit ydeas, idest omnium rerum ymagines, in 
+mente divina.
+
+	|55.~  ^S@i mea~ -- Idest procedit, quasi dicat: lux divina operatio 
+non separatur ab omnipotente deitate et trinitate nec dividitur.
+
+	|67.~  ^Cera~ -- Corporum materia.
+
+	|69.~  ^Ideal poi~ -- Augustinus in questione LXXIIIa: <Idee sunt 
+principales quedam forme vel rationes rerum stabiles atque 
+incommutabiles, quia ipse formate non sunt ac per hoc eterne ac semper 
+eodem modo se habentes, que divina intelligentia continentur.  Et cum 
+ipse non oriantur neque intereant, secundum eas tamen formari dicitur 
+omne quod interire et oriri potest et omne quod orietur et interierit>.
+
+	|79.~  ^Caldo amor~ -- Qui inmediate agit perffectissime sicut in 
+Adam, in Christo, in partu Virginis, in anime informatione.
+
+	|92.~  ^Chi era~ -- Quia rex erat et quia petiit scientiam ut sciret 
+regere populum sibi commissum.  Ideo dictum est sibi: <Dedi tibi cor 
+sapiens et intelligens ut nullus ante te similis tui fuerit nec post te 
+surrecturus sit>.
+

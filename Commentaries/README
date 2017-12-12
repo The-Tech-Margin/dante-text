@@ -1,0 +1,9 @@
+This directory contains the loadable text of all commentaries plus status
+files and makefiles to control the process of loading the commentaries into
+the Oracle database.
+
+Information about the directory structure and the loading process is located
+in ../README-Files/README.Loading.
+
+Information about the SQL structure of the database is located
+in ../README-Files/README.SQL.

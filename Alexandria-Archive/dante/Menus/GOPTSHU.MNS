@@ -1,0 +1,31 @@
+{GOPTS_HU}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Dante Utilities Options\f2\n~
+
+:PRINT ~#HEADING
+     The  Dante  Utilities  Menu  permits  you  to access a number of
+     features designed specifically for use with the Dartmouth Dante
+     Project Database.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     The menu selections are:
+
+     M) Send or Read Electronic Mail.  This selection allows you to use
+	the mail  memos feature that has been built in to the interface
+	including sending and reading mail, and an "address book" func-
+	tion.  There is additional help available from the mail menu.
+
+     L) List Commentators on Database.   This  selection prints out the
+	listing of commentators currently included on the database which
+	originally appears at log-on time.
+
+     P) Change Account Password.   This  selection  changes  the  account 
+	password on the current account.  THIS MENU OPTION SHOULD BE USED
+	WITH CARE.  The default password you get with your account should
+	be changed to something easier to remember but known only to you.
+	Forgotten passwords are difficult to recover.~
+
+:PAUSE BOTTOM
+
+:RETURN

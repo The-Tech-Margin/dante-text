@@ -1,0 +1,82 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.1
+date     90.05.07.11.16.27;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@change the language-specific stopword lists
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+#	Modify the database form file for a particular combination of
+#	languages.
+#
+#	Usage:		loadlang  [E] [I] [L]
+#
+#	At least one of the letters must be present.  They stand for
+#	English, Italian, and Latin.
+#
+#	The idea is to take a canonical form file and edit in the
+#	appropriate stopword options for the TEXT paragraph.  
+#
+#	$Header$
+
+DB=NDDP
+DIR=/dante/NDDP
+CANON=form.db.canon
+FORM=form.db
+
+if [ $# -eq 0 -o $# -gt 3 ]
+then
+	echo "Usage: $0  [E]  [I]  [L]"
+	grep 'are set for' $DIR/$FORM
+	exit
+fi
+
+#	Set the negative options for each language.  Then for each that
+#	appears in the argv, set the positive option.
+
+ENG=NO-STDSTOP
+ITAL=NO-ALTSTOP1
+LATIN=NO-ALTSTOP2
+KEYWORD=""
+
+for OPT
+do
+	case $OPT
+	in
+		E|e)	ENG=STDSTOP KEYWORD="$KEYWORD English" ;;
+		I|i)	ITAL=ALTSTOP1 KEYWORD="$KEYWORD Italian" ;;
+		L|l)	LATIN=ALTSTOP2 KEYWORD="$KEYWORD Latin" ;;
+		*)	echo "$0: bad arg: $OPT" ; exit 1 ;;
+	esac
+done
+
+cd $DIR
+ed - $CANON <<E-O-F
+/Stopword/s/\$/$KEYWORD/
++1s/stop/$ENG $ITAL $LATIN/
+w $FORM
+q
+E-O-F
+
+echo Setting stopwords for $KEYWORD
+brsload $DB -info
+chmod 664 $DIR/info.db
+@

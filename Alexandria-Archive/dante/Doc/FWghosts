@@ -1,0 +1,43 @@
+From siena Tue May 15 08:17:47 1990
+Received: by eleazar.dartmouth.edu (5.61D1/4.1)
+	id AA05978; Tue, 15 May 90 08:17:45 -0400
+Date: Tue, 15 May 90 08:17:45 -0400
+From: siena (Janet Stephens)
+Message-Id: <9005151217.AA05978@eleazar.dartmouth.edu>
+To: dante
+Status: RO
+
+
+>From bobh Tue Aug  1 12:38:32 1989
+Received: by eleazar.dartmouth.edu (5.61D1/4.1)
+	id AA12396; Tue, 1 Aug 89 12:38:30 -0400
+Date: Tue, 1 Aug 89 12:38:30 -0400
+From: bobh (Robert Hollander)
+Message-Id: <8908011638.AA12396@eleazar.dartmouth.edu>
+To: bobh
+Subject: buffers (phantom) in FWord
+Status: R
+
+>From B. Hess at FWCorp., POB 443, Cambridge, MA  02142 I received the
+following instruction about how to get rid of phantom buffers (MF and 
+I both currently have one.)  What one does is get rid of the old swap
+file and create a new one.  Here's how (I haven't done this yet):
+
+(ALL COMMANDS ARE IN CAPS)
+
+fw>DIR FW.SWP
+
+fw.swp 124928 (this is an example)
+subtract 2048 bytes (= 122880)
+divide result by 1024 (= 120)
+
+fw>FRECOVER -CREATE 120
+
+fw>DIR FW.SWP
+
+fw>fw.swp 124928, i.e., you've got a new swap file of same size.
+
+Janet: you might want to leave a copy of this in your FW directory in
+case there's further need.  Ciao, Bob
+
+

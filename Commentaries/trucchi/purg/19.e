@@ -1,0 +1,724 @@
+	Testo e Commento.  -- Il Canto XIX si divide in tre
+parti: 1) sogno allegorico, che collegando la nuova descrizione
+agli ultimi insegnamenti di Virgilio intorno alla fallacia della
+nostra fantasia, serve d'introduzione alle tre ultime Cornici, 
+dove si purga il soverchio amore dei beni materiali; 2) salita
+alla Cornice dell'Avarizia, durante la quale Virgilio spiega il
+sogno di Dante; 3) episodio di Adriano V.  Canto semplice e
+riposato, quasi mattutina preparazione alla grande giornata che
+lascer@a Dante degno di ricongiungersi a Beatrice, un solo
+concetto lo domina: la necessit@a per l'uomo di levar gli occhi
+dai beni passeggeri della terra al cielo infinito ed eterno.  La
+determinazione dell'ora, che ne costituisce l'esordio, abbonda di
+concetti eruditi, pi@u che d'immagini poetiche.
+
+	|1-3.~  Per dirci che il sogno gli si present@o presso a
+la mattina, quando ^il ver si sogna~ (^Purg.~, IX, 14; ^Inf.~, 
+XXVI, 7), Dante si serve della nota osservazione che l'ora pi@u
+fredda della notte @e quella che precede il levar del Sole, e ci
+d@a le ragioni del fenomeno secondo la scienza dell'et@a sua.  In
+quell'ora, dice, il |calor diurno~, lasciato dal Sole, sulla
+terra e nell'atmosfera, non pu@o pi@u intiepidire il freddo della
+Luna perch@e @e vinto dalla frigidit@a della Terra e |talora~ da
+quella di Saturno: |talora~ perch@e Saturno non @e sempre sul
+nostro orizzonte presso al mattino.  Si credeva infatti che la
+luce riflessa della Luna non potesse suscitare sensazione
+calorifica, errore durato fin verso la met@a del secolo scorso; e
+anche Saturno, pianeta alto e tardo, era ritenuto apportatore di
+freddo, come attesta Virgilio, <frigida Saturni stella>
+(^Georg.~, I, 335) e Dante altrove ripete (^Conv.~, II, XIII, 25;
+^Par.~, XXI, 13-15).
+
+	Osserviamo l'espressione |da terra~, come si direbbe ^da
+Giove, da Venere~, perch@e Dante parla della Terra come d'un
+pianeta, e ammiriamo l'ultimo verso che per il concetto e
+l'artifizio dei suoni, quasi ubbidendo gi@a alle intenzioni del
+Poeta, ci costringe quasi a levar gli occhi dalla Terra al cielo
+per ricercarvi l'altissimo pianeta di Saturno.
+
+	|4-6.~  Erano i Geomanti una delle tante classi
+d'indovini, sorte dall'oriente, che non riconoscendo altro
+movente delle azioni umane che gli influssi astrologici, si
+vantavano d'interpretare questi influssi ai creduli cos@i:
+disegnavano a caso sedici linee punteggiate, preferendo l'ora
+mattutina, sulla rena dei lidi, e riunivano poi i vari punti in
+modo da formare sedici figure che dicevano: ^laetitia, tristitia, 
+fortuna maior, fortuna minor, acquisitio, amissio, albus, rubeus, 
+coniunctio, cancer, populus, via, puer, puella, caput, cauda.~ 
+Davano il nome di <Fortuna maior>, |lor Maggior Fortuna~ alla
+figura cos@i fatta, che sembri ritrarre la disposizione delle
+stelle della met@a inferiore dell'Acquario e della met@a superiore
+dei Pesci, disposizione, secondo loro, la pi@u bella e favorevole
+dei cieli.  Cos@i adunque, nella stagione e nell'ora che qui si
+descrive, i Geomanti, guardando verso l'oriente potevano vedere
+nel cielo la loro prediletta figura; ma per poco tempo: la
+Maggior Fortuna non @e visibile che per poco, finch@e dintorno duri
+|bruna~ la via del cielo, perch@e ai Pesci succede l'Ariete, e con
+questa costellazione in quel mese nasce il Sole e spariscon le
+stelle.
+
+	In ben altro modo dai Geomanti era in quel momento
+occupata la mente di Dante, credente nella Provvidenza ^che
+governa il mondo~ (^Par.~, XI, 28).
+
+	|7-9.~  Il significato allegorico di questa |femmina
+balba~ ci sar@a poi chiaramente spiegato da Virgilio: essa @e il
+simbolo dell'amore ^con troppo vigore~ rivolto ai beni materiali, 
+che ingenera avarizia, gola e lussuria: tre vizi a cui si
+convengono gli attributi di questa femmina balbuziente, guercia, 
+storta, senza mani e di color malaticcio, perch@e quei vizi
+deturpano l'animo e il corpo, impedendo il retto vedere, il
+giusto operare ed il franco parlare.  Or come possono essi
+indurci in amore di s@e?  Riferiamoci alla lezione del Canto
+precedente, di cui questo sogno @e esemplificazione.  Rivolgendo
+noi continuamente il nostro pensiero all'immagine di beni
+materiali che se ne @e formata la fantasia, dietro il primo senso
+di piacere provato, a poco a poco le deformit@a spariscono, e noi
+finiamo col vagheggiare quell'immagine, e per piegarci verso di
+lei con desiderio, e questo desiderio @e il principio dell'amor
+peccaminoso, se la ragione non ce ne ritragge.  Cos@i avviene ora
+a Dante, finch@e la ragione, rappresentata da Virgilio e
+illuminata dalla piet@a, non lo tragga d'errore.
+
+	|10-15.~  L'immagne dei passeggeri piaceri terreni, dice
+Boezio (III, pr. VIII), non @e bella per sua natura, ma per
+l'infermit@a degli occhi di chi la riguarda; ed @e questa saggia
+massima che il Poeta rappresenta.  Rimirando quella falsa
+immagine di bene con gli occhi della sensualit@a, egli la vede
+avvivarsi ed abbellirsi, come al sole si vivificano le membra
+intirizzite dal freddo: la lingua balbuziente diviene sciolta, la
+persona torta diritta, il volto scialbo si tinge in roseo, |come
+amor vuol~, come amore ci dipinge le cose in cui abbiamo posto il
+nostro diletto.
+
+	|16-18.~  E la scaltra conoscitrice di quanto alletta
+ciascuno di noi, cos@i personificata dal Poeta, cerca di sedurlo
+sempre pi@u con la dolcezza del canto, sicch@e egli non saprebbe
+ormai pi@u volgere il viso da lei, in realt@a sozza, in apparenza
+dolce sirena, secondo la bella figurazione della favola antica.
+
+	|19-21.~  Stupenda musica di vocali piane ed aperte con
+predominio dell'^a~, con frequenti ritorni della sibilante e di
+sillabe che si rispondono armoniosamente, fra cui tre in ^ar~ nel
+secondo verso.  La dolcezza del suono maschera la maligna
+intenzione spudoratamente confessata: io son colei che |dismaga~, 
+cio@e confonde e disvia i marinari.
+
+	Le sirene <furono tre, secondo che le storie antiche
+contano.  E aveano sembianza di femmine infino alla coscia, e
+dalle cosce in gi@u hanno sembianze di pesce, ed avean ali ed
+unghie.  Onde l'una cantava molto bene con la bocca, l'altra di
+flauto e l'altra di cetera, e per loro dolce canto e suono
+facevano perire le navi che andavano per mare, vedendole.  Ma
+secondo la verit@a le sirene furono tre meretrici che ingannavano
+tutti i viandanti e mettevano in povertade>, dice Brunetto Latini
+(^Tesoro~, IV, VII).  E Pietro di Dante commenta: <Sirena, idest
+attractio, in medio mari, idest in medio huius saeculi, suo
+cantu, idest sua fallaci delectatione, nos facit submergi in
+dictis tribus vitiis>.
+
+	|22-24.~  La sirena continua il suo dire con la dolcezza
+di suoni e con la maliziosa intenzione con cui l'aveva
+cominciato, portando l'esempio di Ulisse, volto dalla sirena, per
+quanto |vago~, desideroso del viaggiare, dal suo cammino a inerte
+riposo.  In vero, secondo Omero, Ulisse non fu deviato dal suo
+cammino dalle sirene; anzi, ammaestrato da Circe, si era reso
+insensibile alle loro lusinghe impeciandosi le orecchie.  N@e @e da
+credere col Lana e col Buti che Dante confondesse le Sirene con
+Circe, perch@e di questa fa speciale e corretta menzione nel Canto
+XXVI dell'Inferno.  Probabilmente Dante, che non conosceva Omero, 
+fu tratto in inganno da un passo di Cicerone (^De Finibus~, V, 
+18), dove commentando il passo omerico, dopo aver premesso che le
+Sirene, per riuscire nel loro intento, promisero ad Ulisse la
+scienza, aggiunge che non v'@e da meravigliarsi se l'amore del
+sapere avesse potuto vincere in Ulisse quello della Patria, 
+lasciando intendere che Ulisse avesse ritardato il suo ritorno ad
+Itaca, trattenuto dalle Sirene.
+
+	Notisi in |qual meco s'ausa~, perch@e quanto pi@u ci si
+abbandona ai sensi, tanto pi@u difficile @e liberarsi dal loro
+imperio; ma a Dante non @e dato tempo d'abbandonarsi ai sensi.
+
+	|25-27.~  Chi sia questa donna santa e presta, che si
+pone a lato del Poeta per confonder la Sirena, fu a lungo
+discusso.  Esclusa ogni personificazione in una delle tre donne
+benedette del Canto Il dell'Inferno, perch@e ad un'immagine
+simbolica, come @e quella della Sirena, @e giusto che si
+contrapponga un'immagine simbolica, quale simbolo rappresenta
+questa?  Le opinioni sono disparatissime: noi abbiamo gi@a detto
+che essa rappresenta la piet@a, cio@e quella natural cognizione del
+vero bene che, sia pure in forma imperfetta, fu sempre insita
+alla natura umana; tanto @e vero che il concetto della divinit@a
+per quanto imperfetto si ritrova anche presso i popoli pi@u
+barbari, e persino presso i popoli primitivi: quella piet@a che in
+Virgilio era gi@a cos@i alta da farne, per Dante, come vedremo nei
+prossimi Canti, quasi un profeta del Cristianesimo.  Non sapremmo
+pertanto disdirci: @e la piet@a che illumina Virgilio, la ragione, 
+e per suo mezzo salva Dante dal pericolo della Sirena.
+
+	|28-30.  O Virgilio, o Virgilio~, appello di confidente
+rimprovero: chi @e questa? non sai tu chi @e? e lasci che essa si
+insinui nel cuore di Dante?  E mentre l'occhio mortale di Dante @e
+volto alla Sirena, Virgilio, spirito, tiene gli occhi fitti
+soltanto nella donna |onesta.~
+
+	|31-33.~  Non @e ben chiaro nei versi se quest'atto che
+incide, quasi brutalmente, la differenza tra i beni materiali e
+gli spirituali, sia compiuto da Virgilio o dalla donna santa e
+presta: oscurit@a forse voluta dal Poeta per dire che la ragione e
+la piet@a concordano in una stessa dimostrazione.
+
+	|34-36.~  Sorto il Sole, Virgilio @e pronto a sollecitare
+all'opera, come sempre, il discepolo, che, appena desto, ancora
+giace nel torpore del sonno; e gi@a tre volte gli ha rivolto la
+parola d'incitamento: ma, come avviene nel sogno, quelle voci del
+maestro, dentro di lui che dormiva, si erano trasformate nelle
+parole della donna santa e presta.
+
+	|37-39.~  Il Sole @e gi@a tanto alto da illuminare tutti i
+Cerchi del Purgatorio, ed i due Poeti, essendo ancora nella costa
+austro occidentale del monte, vanno |col sol novo a le reni~, 
+cio@e quasi direttamente verso ponente, donde avevano cominciato
+la salita del monte sacro; quivi troveranno la scala del Paradiso
+terrestre che li ricondurr@a verso l'oriente (^Purg.~, XXVII, 
+64-69): cos@i nella contemplazione degli spiriti purganti avranno
+aggirato una sola volta la sacra montagna dell'espiazione.
+
+	|40-45.~  Andando cos@i curvo sotto il ricordo del sogno, 
+quasi ancora in atto di uomo pigro per accidia, Dante giunge alla
+presenza dell'Angelo dell'Alacrit@a, che l'invita a salire in
+modo, non soltanto |soave~ di suono, come quello della Sirena, ma
+anche |benigno~ nell'intenzione e nell'espressione, molto pi@u che
+non si soglia udire |in questa mortal marca~, sulla terra, 
+piccola come una provincia, in confronto col resto del creato.
+
+	|46-51.~  Quest'Angelo tutto ali e candore, sicch@e il
+Perez lo chiama l'Angelo dell'Amor di Dio, tiene le ali aperte e
+volte alla scala, per additare ai Poeti la via, ed invitarli ad
+entrare |ra' due pareti del duro macigno~: |pareti~, maschile, 
+alla latina.  Poi cancella il quarto ^P~ dalla fronte di Dante
+con atto s@i lieve, |mosse le penne poi e ventilonne~, che ben
+mostra come il ^P~ dell'Accidia non avesse posto troppo salde
+radici sulla fronte sua, e canta la seconda delle Beatitudini
+evangeliche: ^Beati~ |qui lugent~, ^quoniam ipsi consolabuntur.~ 
+Ma soltanto la prima parte della sentenza latina @e riprodotta
+letteralmente; la seconda parte @e tradotta con una perifrasi.
+
+	Il versetto, <Beati qui lugent>, non @e del tutto calzante
+per gli Accidiosi, nonostante gli sforzi dei commentatori per
+accordarlo con la loro pena: il pianto infatti @e comune a tutti
+gli spiriti del Purgatorio.  Ma qui forse le parole dell'Angelo, 
+pi@u che all'Accidia, vanno riferite alla contraria virt@u, la
+sollecitudine del vero bene, la Carit@a, che infonde, come osserva
+il D'Ovidio, <una scontentezza continua, un vero cordoglio delle
+imperfezioni proprie e delle altrui, di tutte le umane miserie, 
+delle vanit@a del mondo>: cordoglio ignoto agli Accidiosi, deriso
+dagli egoisti.
+
+	La perifrasi che traduce la seconda parte del versetto, 
+|ch'avran di consolar l'anime donne~, @e alquanto oscura:
+intendiamo: che avranno le anime signore di consolazione, per s@e
+e per gli altri.
+
+	|52-54.~  Nemmeno le parole dell'Angelo e la
+cancellazione del ^P~ hanno avuto forza di dissipare in Dante la
+tristezza lasciatagli dal sogno: nel momento di affacciarsi alla
+soglia delle Cornici dove si purgano i tre peccati pi@u naturali
+nell'uomo, egli @e in sospetto di non riuscire a vincere le
+seduzioni della ^femmina balba~ {v.7}, confusa, non spenta dalla
+donna onesta.  Altra volta gi@a, durante la sua giovent@u, Beatrice
+aveva compito lo stesso miracolo per lui, guidandolo ^in dritta
+parte volto~ (^Purg.~, XXX, 123); ma, scomparsa Beatrice, le
+false immagini di bene, l'avevano riafferatto con le loro
+lusinghe.  E ora?  Ma la voce della ragione che parla per bocca
+di Virgilio baster@a a rincuorarlo.
+
+	|55-57.~  Che cosa ha ricordato a Dante il sogno? la
+debolezza della natura umana, la tendenza della fantasia a
+colorire le parvenze dei beni che ci offrono i sensi.  Come
+risponde Virgilio, che gi@a conosce il sogno del discepolo?
+riconducendolo al principio del lungo ragionamento che si era
+concluso affermando l'esistenza della ragione e del libero
+arbitrio dell'uomo, continuamente illuminati dalla sapienza
+divina che risplende nei cieli: ricordiamo il ^muovesi il ciel e
+intorno vi si gira~ ecc. del Canto di Guido del Duca!  Colorisca
+adunque la fantasia a sua voglia e possa le immagini del piacere;
+ci spinga a questo o a quell'amore di beni terreni, di ritenerlo
+o respingerlo @e in noi la postest@a: il cielo ^i nostri movimenti
+inizia~, ma chi guarda ai cieli vi scorge la sovranit@a d'una
+ragione perfetta che li regola e muove, del Sommo bene nell'amore
+del quale non si pu@o errare.
+
+	|58-63.~  Virgilio comincia col dichiarare il sogno del
+discepolo.  ^Streghe~, dice il Buti e ripetono il Landino, il
+Vellutello ecc., <sono femine che si trasmutano in forma
+d'animali e succhiano lo sangue ai fanciulli>, <laonde chiama
+questa falsa felicit@a strega, perch@e ci succia gli spiriti e i
+sensi> (Landino).  |Strega antica~ quanto il mondo, dice
+Virgilio, simbolo dei tre peccati che si purgano nelle tre
+restanti Cornici.  |Vedesti come l'uom da lei si slega~, ossia
+con l'aiuto della ragione e della piet@a!  Tanto ti basti per
+rassicurarti!  Batti adunque |a terra le calcagne~, fatte per
+calpestar la terra; in altre parole cammina ed opera sulla terra, 
+ma con gli occhi rivolti a contemplare il cielo, perch@e per
+questo essi occhi sono dati all'uomo: al cielo che gira intorno a
+voi con le sue |rote magne~, con le sue ^bellezze eterne~, per
+chiamarvi a s@e, come il |logoro~ (^Inf.~, XVII, 128) gira alto in
+mano del falconiere per richiamare il falcone.  Pi@u ancora
+dell'immagine, dan bellezza a questi versi ultimi il numero e
+l'intonazione solenne.  L'immagine del falcone serve di passaggio
+alle terzine seguenti, dove Dante si mostra rianimato dalle
+parole del maestro, e col pi@u fermo proposito ascende sollecito
+la scala additata dall'Angelo.
+
+	|64-69.~  @E questa forse la pi@u viva delle tre
+similitudini della Commedia tratte dalla natura dei falconi. 
+Come il falcone, uscito dal chiuso, prima si mira ai pi@e, poi, 
+attratto dal primo grido d'uccello che passi, si stende all'ins@u
+per desiderio della preda, cos@i fece Dante prontamente risalendo
+la scala che prima lo teneva sospeso, fino alla cima, dove
+s'incomincia a |cerchiar~, a girar in tondo la Quinta Cornice.
+
+	Quinta Cornice -- Avarizia
+
+	Nell'Inferno un solo Cerchio punisce ugualmente gli avari
+e i prodighi, e cos@i avviene pure del Purgatorio; se non che la
+descrizione della quinta Cornice non tratta che degli Avari: che
+quivi si puniscano anche i Prodighi noi non lo sapremo che da
+Stazio, cio@e dopo esserne usciti: i Prodighi non si vedono; ma
+possiamo immaginare che si puniscano separatamente in una parte
+del ripiano non visitata dal Poeta.  Nell'Inferno infatti
+Prodighi e Avari, nella ostinazione del loro peccato, si odiano
+ancora e percuotono insieme rabbiosamente; nel Purgatorio, dove
+non rimane che la compunzione dell'offesa fatta a Dio, ognuno di
+essi deve espiare e piangere la propria colpa per conto suo.
+
+	|70-72.~  Il |dischiuso~ suona ancora come un respiro di
+sollievo del Poeta, uscito dalle strettoie della scala all'aperto
+ripiano; e qui immediatamente gli s'affaccia il triste e salutare
+spettacolo della cupidigia punita, negli spiriti purganti.  Non
+pi@u, come nelle precedenti Cornici, un tratto di strada deserta
+che Dante percorra, meditando sugli esempi di virt@u; in questa
+sola Cornice la vista del castigo precede la lezione morale, e ci
+lascia pensare che questo giro sia stipato di peccatori.  Questi
+giacciono distesi a terra, immobili, bocconi, con la bocca che
+morde la polvere, e pertanto non visibili in faccia: anche
+nell'Inferno gli Avari non erano riconoscibili.  Nel Purgatorio
+per@o la loro pena ci ricorda in parte quella dei Simoniaci del
+primo regno, anch'essi spinti al peccato da cupidigia.  E infatti
+la descrizione della V Cornice comincia subito con un grandioso
+episodio, l'episodio di un Pontefice, Adriano V, che, sulle prime
+ci sembrer@a avere qualche cosa di comune coi simoniaci, per poi
+divenirne la pi@u splendida antitesi.  In questo episodio @e
+compresa tutta la descrizione della pena e la lezione morale
+della V Cornice; poi un regnante pianger@a la corruzione di tutta
+la sua discendenza per cagion d'avarizia: tanto fisso era in
+Dante il pensiero che la cupidigia dei capi spirituali e
+temporali della societ@a fosse la principale radice del disordine
+morale e politico dei tempi suoi.  <Gli avari che, troppo intenti
+ai beni della terra, non mirarono al cielo e rimasero impigliati
+nelle cure di quei beni, stanno ora bocconi a terra, volti i
+dossi al cielo, immobili, legati mani e piedi, aderenti alla
+terra, dalle cui viscere i metalli preziosi provengono>
+(D'Ovidio).
+
+	|73-75.~  L'anima mia fu attaccata al suolo! in questo
+verso @e, si pu@o dire, gi@a tutta la descrizione della V Cornice: @e
+il principio del 25o versetto del ^Salmo~ CXVIII, che si compie
+con le parole ^vivifica me secundum Verbum tuum~, sicch@e nella
+citazione biblica <son poste in bel raffronto le ricchezze della
+terra e quelle del cielo, la morte e la vita dell'uomo, la
+ruggine del basso metallo e la luce del verbo divino> (Perez).  E
+le parole del Salmista servono alle anime purganti ad un tempo di
+confessione e di preghiera.  La preghiera che manc@o nella
+trattazione degli Accidiosi costretti a correre
+ininterrottamente, @e la prima namifestazione degli Avari, 
+costretti all'immobilit@a; ed @e presumibile, come osserva il
+D'Ovidio, che gli Avari non si limitino a dir sospirando le sole
+parole riportate dal Poeta, ma ripetano almeno i versi pi@u
+salienti del gran Salmo.  Cos@i in questa Cornice si ha la massima
+unit@a tra la descrizione del peccato e della pena, espressi nella
+preghiera, tanto che si pu@o dire che la quinta Cornice del
+Purgatorio sia la metafora biblica, |Adhaesit pavimento anima
+mea~, messa in atto.
+
+	|76-78.~  Il versetto biblico della terzina precedente fu
+pronunziato da tutti quelli spiriti; ma il latino sacro annunzia
+gi@a il principal personaggio, che solo risponder@a a questa
+domanda di Virgilio; il quale anche qui, mentre chiede della via
+di |pi@u alti saliri~, di ulteriori salite, trova le parole pi@u
+convenienti al conforto di quegli spiriti, che per amor di
+giustizia han cara la loro stessa pena, e per viva speranza gi@a
+pregustano la vita beata.
+
+	|79-81.~  Colui che cos@i risponde non sa ancora di
+parlare ad un vivo e ad un abitatore del Limbo: crede invece di
+parlare ad anime che vadano per il Purgatorio, e dice loro: se
+voi transitate per questa Cornice con tanta sicurezza di esser
+liberi affatto di quella cupidigia che @e il principale ostacolo
+all'attuazione della giustizia sulla terra (^Mon.~, I, XI, 11), e
+perci@o esenti dalla nostra pena, cosa che par incredibile!
+prendete sempre la via verso la mano destra, verso la costa
+settentrionale del monte, in modo che le vostre destre sian
+sempre |di furi~, forma non insolita dell'antico toscano, ossia
+rivolte verso l'orlo della Cornice.
+
+	|82-84.~  Cos@i rispose uno spirito, e dal suo parlare, 
+non potendosi vedere la faccia volta in gi@u, per la direzione
+della voce, Dante comprese da qual bocca o ombra uscissero tali
+parole.
+
+	|85-87.~  Scena muta che non potea vedere colui che aveva
+risposto alla domanda di Virgilio: Dante volge gli occhi al
+maestro per aver da lui il consenso d'interrogare quell'altro:
+Virgilio intende |ci@o che chiedea la vista del disio~, il
+desiderio del discepolo, manifestato con gli occhi, sorride e
+risponde allo stesso modo: assentendo: ^ben sapev'ei che volea
+dir lo muto~, leggemmo in altra consimile scena, in presenza di
+altri spiriti, i ciechi invidiosi, come questi, privati della
+vista.
+
+	|88-90.~  Ecco chiarito il significato del verso 84:
+Avuto il consenso di Virgilio, Dante va diritto verso colui che
+aveva parlato, e gli @e |sovra~: egli in piedi, l'altro bocconi. 
+Si ripete un poco la scena dei Simoniaci, ricordati anche dalla
+posizione di pena: l@a il corpo era capovolto, qui ha una
+posizione tra il capovolgimento e la naturale stazione eretta
+dell'uomo.
+
+	Le parole che ora Dante rivolge a questo spirito
+dall'alto sono meno benevole di quelle con cui l'aveva richiesto
+Virgilio: ricordano la colpa e la pena senza complimenti, ed
+hanno tono imperioso; ma i sentimenti del Poeta, verso quel
+disteso, sul principio sdegnosi, si andranno modificando
+grandemente nel corso del magnifico episodio.  Intanto il Poeta
+parla ad uno spirito che si macchi@o del vizio della cupidigia, 
+che tanto Dante avea in odio.
+
+	|91-93.~  Spirito, che col pianto maturi la purificazione
+senza la quale non si pu@o tornare a Dio, sospendi per un momento
+la tua maggior cura per attendere a me.
+
+	Ferme parole queste di Dante, che ci mostrano i
+contrastanti sentimenti che agitavano l'animo suo.  Da un lato il
+suo odio contro l'avarizia e la sua reverenza per le somme
+chiavi, sicch@e gi@a il Buti osservava che la precedente scena muta
+tra lui e il maestro @e una finzione, per dirci <ch'elli fu in
+dubbio, se in questo spirito dovea far menzione, e non ardia
+senza la deliberazione della ragione>; da un altro lato
+l'incertezza sul giudizio da farsi di questo Pontefice, che il
+Poeta riteneva aver ottenuto l'alto seggio con mezzi non
+dissimili da quelli dei Pontefici simoniaci, cio@e con denaro; ma
+che una volta vestito del manto Pontificio fu Papa quale il Poeta
+sognava il Capo della Cristianit@a.
+
+	Ariano V, Ottobono dei Fieschi, conti di Lavagna, presso
+Genova, discendeva da una delle pi@u illustri e potenti casate
+Liguri, che gi@a aveva dato alla Chiesa un altro Pontefice, 
+Innocenzo IV, zio di Ottobono.  Questa famiglia, dice il
+Bartolini, <ebbe origine da uno dei tre principi di Baviera, 
+difensori del Fisco Imperiale, per nome Reboaldo, che, venuto in
+Italia, compr@o dai Genovesi la contea di Lavagna, presso
+Chiavari.  I Fieschi erano vicari perpetui dell'Impero per
+concessione di Guglielmo di Baviera, re dei romani (1249), dal
+quale ebbero privilegio di coniare moneta>.  Potente famiglia
+adunque, ma che, dominata da un'immensa ambizione, la trasmetteva
+col sangue nei suoi discendenti, e sempre pi@u si sforzava di
+accrescerla in loro con l'educazione e con gli esempi.
+
+	Nulla di strano pertanto che Ottobono, sin dalla
+giovent@u, si prefiggesse di raggiungere il pi@u alto grado della
+dignit@a sacerdotale; ed avendo compreso di vivere in tempi di
+sfacciata corruzione, per ottenere il suo intento, si diede ad
+accumulare quattrini, macchiandosi di avarizia, secondo
+l'opinione dei contemporanei, oggi alquanto scossa da alcuni
+documenti portati dal Vaturi.  I quattrini, si diceva, gli
+permisero di toccare la meta; ma raggiunse l'alto seggio gi@a
+vecchio e presago della prossima fine; tanto che ai parenti ed
+amici che si rallegravano con lui, rispondeva che meglio sarebbe
+stato per loro un Cardinale vivo, che un Pontefice moribondo, e
+che il Papato @e un tormento, il peggiore dei tormenti che si
+possa augurare ad un nemico mortale.
+
+	Tardo, ma sincero riconoscimento, che presto risuoner@a
+nei versi del Poeta, e in cui noi presentiamo la lezione morale
+del Canto: a che giova adunque l'avarizia?  Lo dica l'esempio del
+Fieschi: che giov@o a lui? a procacciarsi in vita con anni ed anni
+di stenti e di vergogne il possesso d'una barra infocata, e dopo
+morte le pene del Purgatorio.  Donde il principio di
+quest'episodio, che potremo dividere in tre parti: satirica e
+sardonica la prima, epica la seconda, elegiaca la terza.
+
+	|94-96.~  Il Poeta rivolge a quello spirito tre domande;
+che rispondono alle tre parti in cui gi@a abbiamo diviso
+l'episodio: chi fosti? perch@e volgete la schiena al cielo? posso
+io esserti utile, tornando al mondo, |ond'io vivendo mossi~? e
+cos@i il Poeta si manifesta anche vivente.
+
+	Adriano V risponder@a ordinatamente alle tre domande; ma, 
+curioso! rispondendo subito alla prima, chi fosti? usa un giro di
+parole come se Dante l'avesse posta in secondo luogo; non per
+altro che per dirci, anzich@e il suo nome, che poi non pronuncer@a, 
+di essere stato insignito dell'ambito manto pontificale, e poi
+manifestarci con larga apparentemente orgogliosa perifrasi il
+titolo nobiliare della famiglia a cui appartenne: un superbo
+dunque? tale @e la prima impressione che destano le parole che
+egli dapprima pronuncia; e tanto pi@u in quanto non sembra fare
+alcun apprezzamento dell'alto privilegio di Dante che ascende, 
+ancor vivente, il Purgatorio.  Il vero si @e che il carattere di
+questo Pontefice ci si riveler@a a grado a grado nel progresso del
+suo discorso.
+
+	|97-99.~  Adriano V non pontific@o che per trentotto
+giorni: eletto Papa il 12 luglio 1276, mor@i il 18 Agosto di
+quell'anno medesimo a Viterbo, dove fu seppellito e gli eresse il
+monumento Arnolfo di Cambio.  Mor@i ancora prima di essere
+consacrato e incoronato; ma che importa?  Fra i successori di San
+Pietro rester@a anche il suo nome: ^scias quod ego fui successor
+Petri~!  E a una prima lettura di questi versi, sembra che ancora
+il Fieschi con le solenni parole latine si vanti dell'alto onore
+raggiunto: se la tarda conversione in vita e la penitenza che da
+ventiquattro anni egli compie nel Purgatorio, gli hanno tolto gi@a
+quasi del tutto l'abito esterno dell'avarizia, gli rimane ancora
+quello che dell'avarizia fu la prima radice, l'ambizione
+magnanima, ma eccessiva.  Cos@i almeno pensa chi legge per la
+prima volta questa terzina, addottrinato da precedenti episodi:
+vedremo in seguito che non @e cos@i.
+
+	Osserviamo intanto quella parola dialettale |diretri~, 
+deretani, che il Parodi dice giustamente <pi@u plebea che garbata
+e spiritosa>, e che accresce il contrasto: Dante, domandando, 
+aveva detto pi@u decentemente ^dossi~ {v.94}.  E gi@a la terzina
+comincia a colorirsi meglio; perch@e noi comprendiamo subito che
+chi parla @e un genovese, e che fu sommo Pontefice; ed appunto in
+quel sarcasmo del mescolare le parole dialettali e volgari che
+gli erano servite a Lavagna, con le parole del solenne eloquio
+latino che gli servirono poi per promulgare le sue Bolle
+pontifice da Roma, Adriano ci mostra immediatamente la
+contraddizione che stride nella sua storia mortale, come stride
+fra questi termini antitetici: Vicario di Cristo ed Avaro;
+successor di San Pietro, e per oro e per argento.  Cos@i nella
+seguente terzina, sempre ad una prima lettura, sembra che il
+Fieschi ricordi con superba compiacenza il paese che gli diede il
+titolo nobiliare, e il fiume che lo bagna, e lo stemma della sua
+famiglia patrizia: quello stemma che, come narrano gli ^Annali
+Genovesi~ editi nel 1929 dal Monleone (Vol. VII, part. II, pag.
+91), nel 1272, essendo Cardinale, Ottobono Fieschi aveva
+insozzato unendosi ai Grimaldi, per tramare con Carlo d'Angi@o ai
+danni di Genova.
+
+	|100-102.~  Notiamo il |fiumana~, altra parola
+dialettale, che avrebbe fatto inarcare le ciglia al Buti, pisano, 
+se non avesse trovato che era, come ancora @e d'uso, di fatto, in
+Riviera, per denotare un piccolo fiume.  Ma quella fiumana non @e
+l'Entella, come si legge nei commenti: perch@e n@e l'Entella sta
+intra Siestri e Chiavari, anzi vicinissima a Chiavari e
+relativamente lontana quindi da Sestri Levante; n@e quel fiume
+presso Chiavari, |s'adima~, cio@e precipita al basso, ma sfocia
+molto tranquillamente nel mare; n@e colla storia dei Conti di
+Lavagna ha che vedere l'Entella, bens@i il suo affluente, il
+Lavagna.  Siestri, non @e Sestri Levante, ma una borgata di quel
+nome a monte di Chiavari, ancora esistente, sicch@e il verso di
+Dante conserva la solita abituale precisione descrittiva del
+linguaggio dantesco.
+
+	Anche la seconda parte della terzina fu a lungo mal
+intesa, finch@e non si trov@o che ^far la cima d'un titolo~ era
+<tecnica e tipica frase araldica della non facile arte del
+blasonare, che significava segnare la parte superiore del campo
+d'uno scudo stemmato> (Pedevilla), e i Fieschi per l'appunto
+portavano in alto del loro stemma il nome della fiumana bella, 
+cio@e del Lavagna.
+
+	|103-105.~  Dall'elezione a Pontefice il Fieschi @e
+passato alla nascita nobile; da questa torna all'altissimo
+officio; ma qui il suo discorso splende di grande sincerit@a;
+quanto pesa il gran manto pontificale, a chi s'@e proposto di
+tenerlo con dignit@a e serbarlo incontaminato!  Da questo punto
+comincia la parte epica dell'episodio.
+
+	|106-114.~  Sublime confessione! squarcio veramente
+epico, diciamo, perch@e ci trasforma sotto gli occhi il superbo
+patrizio in un eroe cristiano, che non ricorda nemmeno i suoi
+meriti grandi e reali come Pontefice, contento della modesta
+soddisfazione d'aver salvato il gran manto dal fango.  Ecco
+perch@e nonostante la sua tarda conversione egli non @e gi@a pi@u
+nell'Antipurgatorio!  Perch@e quando egli arriv@o ad essere |roman
+pastore~, conobbe la vita bugiarda che aveva seguito, mut@o strada
+e fu Pontefice grande.  Il sarcasmo che @e nei primi versi egli
+medesimo l'aveva voluto; per accusarsi ed ammonire col suo
+esempio.  Tutta la sua vita ci appare ora divisa in due grandi
+parti: lunga la prima e bugiarda, l'altra breve e rimuneratrice;
+ed egli ora si distende con compiacenza su quest'ultima, bench@e
+breve, dopo aver concentrato la lunga in due versi pieni
+d'amarezza.  Dopo ci@o l'avaro ed il superbo vaniscono davanti a
+noi, e ci risplende invece il Sacerdote che attraverso gli
+errori, che noi oggi diremmo ereditari e d'ambiente, della
+famiglia e dei tempi, giunse trionfalmente alla perfezione del
+suo ministero, acceso soltanto di zelo per elevarsi a Dio ed
+elevare seco a Dio le altre anime, e che ora si umilia e
+confessa.  Noi comprendiamo adesso che quella sua prima parola
+che ci parve plebea, quel ^diretri~ {v.97}, fu dettata da verace
+spirito di mortificazione e di rinuncia a quanto in noi @e basso e
+caduco; noi comprendiamo ora che la ^fiumana bella~ {v.101}
+rivive nella sua mente come una dolce rimembranza dell'et@a
+innocente; noi comprendiamo soprattutto che quando egli ripet@e
+per tre volte l'accenno alla dignit@a pontificale, tanto agognata
+e raggiunta, ^successor Petri~ {v.99}, ^gran manto~ {v.104}, 
+|roman pastore~, non fu per drappeggiarsi ancora una volta dei
+superbi abiti papali, ma perch@e l'ascesa al Pontificato @e oramai
+il pensiero pi@u dolce che gli rimanga della vita terrena, come
+quello che fu il passo felice, largitogli dalla divina
+Provvidenza, per la sua conversione e per la sua salvezza. 
+Perch@e quel giorno che egli fu fatto roman pastore e vest@i i
+pomposi paramenti e si assise sul trono tanto ambito, egli cerc@o
+nel suo cuore la gioia che s'era promessa e non ve la trov@o. 
+Comprese allora che tutti i beni terreni son larve che da lungi
+ci attraggono e che, raggiunti, perdono ogni pregio: che se anche
+ciascuno di noi potesse toccare il culmine dei suoi desideri, 
+come egli l'aveva toccato, non per questo metterebbe in pace il
+suo cuore.  Allora il Fieschi si rivolse a Dio, e fu Pontefice
+che resse la Chiesa santamente e con virili propositi.  Tanto che
+in soli 38 giorni di regno, svincol@o la Chiesa dalla soggezione
+della deprecata Casa di Francia, che il Poeta vergher@a a sangue
+nel Canto seguente; fece ancora di pi@u: rinnov@o a Rodolfo
+Imperatore, che fece orecchio da mercante, e ancora lo piange
+nell'Antipurgatorio dantesco, rinnov@o a Rodolfo l'invito che gi@a
+gli aveva rivolto Gregorio X, di venire a Roma e cingervi di sua
+mano la corona imperiale; e caldeggi@o l'impresa di Terrasanta:
+due sogni di Dante!
+
+	A questo punto Adriano passa a contemplare in s@e stesso
+la perfezione della punitrice giustizia divina.
+
+	|115-117.~  Che cosa sia l'avarizia e quali i suoi
+effetti, si rende manifesto qui, nel modo come si purgano le
+anime che in tempo si convertirono a Dio.  E nessuna pena @e pi@u
+amara di questa, aggiunge, e perch@e avvilente, e perch@e costringe
+gli spiriti a volger il dosso al cielo: altre pene possono essere
+pi@u gravi, non pi@u amare di questa: eppure giustissima!
+
+	|118-126.~  Corrispondenza tra la pena e la colpa che noi
+gi@a avevamo premesso.  Ma @e bello che il Santo Pontefice si
+arresti egli stesso ad ammirare la giustizia della pena che
+sconta; onde dinanzi a un tal Pontefice che alfine riconosce, il
+Poeta vorrebbe inginocchiarsi: ma il gi@a superbo non lo permette
+pi@u, e fra quei due magnanimi, vincitori del secolo, che ebbero
+tanto violento in vita il disio dell'eccellenza, comincia una
+nobile gara d'umilt@a, in cui il Fieschi trionfa.
+
+	|127-132.~  Che cosa voleva dire Dante inginocchiandosi?
+quello stesso che dice poi: la mia coscienza mi rimorde di star
+|dritto~ davanti a voi, mentre fin dal principio io avrei dovuto
+chinarmi a riverire in voi il Sommo Pontefice.  Ma Adriano non
+vuol che neppure ora si chini.
+
+	|133-135.~  Siamo tutti fratelli dinanzi a Dio:
+eleviamoci a Lui, ed a Lui eleviamo gli altri con noi, andando
+diritti, con gli occhi rivolti al cielo, come si addice ad ogni
+uomo, che deve servire e adorare soltanto Dio.  Tutti siamo
+|conservi~, cio@e soggetti alla sua sola potestate.  Sublimi
+parole d'umana fratellanza in Dio, che mostrano veramente
+ricongiunti quei due grandi, partiti da punti s@i lontani.
+
+	Anche nell'^Apocalisse~ (XIX, 10), a Giovanni che gli
+s'era inginocchiato, non un altr'uomo, ma un Angelo, dice: <Vide
+ne feceris, conservus tuus sum, et fratrum tuorum habentium
+Iesu>.
+
+	|136-138.~  Non basta ad Adriano l'aver ripetuto la
+precisa parola di San Giovanni, ^conservo~ {v.134}; ma vuol anche
+spiegarsi meglio, colla citazione del |santo evangelico suono.~ 
+Riferisce infatti ^San Matteo~ (XXII, 30) che ai Sadducei
+chiedenti: <Maestro, la donna che ebbe sette mariti con quale dei
+sette si accoster@a nell'altra vita?>, Cristo rispose: <Errate, 
+perch@e non conoscete le Scritture: nella resurrezione non vi
+saranno n@e sposati n@e da sposare>, |neque nubent~, ^neque
+nubentur.~  Con questa citazione Adriano vuol significare che
+nell'altra vita il Pontefice non @e pi@u lo sposo della Chiesa, ma
+giudicato secondo i suoi meriti al pari degli altri.
+
+	|139-141.~  Adriano vorrebbe ormai licenziare il Poeta:
+|Vattene~, gli dice; segui tu la tua via nella Chiesa militante, 
+e lascia a me la mia parte nella Chiesa purgante.  Ma a questo
+punto il Fieschi ricorda che Dante gli s'era anche cortesemente
+offerto di portar sue notizie nel mondo; ed allora egli ricerca
+nella sua memoria ormai limpida i nomi e i volti dei parenti, gi@a
+tanto prediletti, e non vede che uomini travolti dalla folle
+ambizione della vita bugiarda.  Ma ad un tratto, fra tutti quei
+volti e quei mali esempli, in cui si riassume ormai anche per noi
+la storia dei Fieschi d'allora, rivede le dilette sembianze d'una
+sua buona nepote, le cui preghiere potranno affrettargli il tempo
+dell'espiazione, ed @e l'elegia.
+
+	|142-145.~  Mirabile chiusa che in pochi tratti riassume
+tutta la complessa figura del sacerdote e dell'uomo, ormai fusi
+nella pace d'una sola speranza.  Perch@e quando Adriano dice di
+Alagia, |buona da s@e, pur che la nostra casa Non faccia lei per
+esemplo malvagia~, noi vediamo il Sacerdote che leva gli occhi al
+cielo chiedendo protezione per un essere caro; e quando egli dice
+|e questa sola m'@e di l@a rimasa~, noi vediamo l'uomo, lo zio, che
+si volge con mano paterna ad accarezzare colei che @e l'ultima
+gioia e speranza della sua famiglia per lui!
+
+	Niccol@o Fieschi, fratello di Ottobono, e conte palatino
+di Lavagna, ebbe tre figlie: Fiesca, sposata ad Alberto
+Malaspina; Giacomina, moglie di Obizzo II d'Este, e Alagia, 
+consorte di Moroello Malaspina, di altro ramo dai Malaspina cui
+appartenne il Moroello, ^vapor di val di Magra~ (^Inferno~, XXIV, 
+145).  Gli antichi commentatori son larghi di lodi a questa
+donna; e forse fu essa che patrocin@o l'ospitalit@a concessa al
+Poeta nel 1306 dai Malaspina di Lunigiana, e lo protesse e
+consol@o in quell'anno terribile della sua vita; quando, dopo le
+sventurate tre guerre mugellane e l'infelice tentativo della
+Lastra, i fuorusciti fiorentini perdevano ogni speranza di
+ritornare in patria per la forza delle armi, e pi@u terribile
+risuonava da Firenze la conferma del bando per il Poeta, che qui
+degnamente rimunera la sua generosa protettrice.
+
+	Ma nel tempo stesso i nostri versi gittano un'ombra scura
+sulla casa dei Fieschi: Benvenuto da Imola ne cerc@o le ragioni
+tra le donne di quella famiglia, tra le quali cita la moglie d'un
+Pietro de Russia di Parma, valoroso soldato, e un'Isabella moglie
+di Lucchino, potente e giusto tiranno di Lombardia, le quali egli
+accusa di mali costumi; figlia d'una nipote di Adriano V fu anche
+quella Beatrice, che noi gi@a conosciamo, vedova del Giudice Nino
+Visconti.
+
+	Ma anche gli uomini di quella casa dovevano esser per
+Dante cagione di mal esempio: lo stesso Innocenzo IV fu accusato
+di nepotismo; messer Percivalle del Fiesco, vicario imperiale in
+Firenze nel 1287, ebbe briga coi cittadini; Bonifazio del Fiesco, 
+Arcivescovo di Ravenna, lo ritroveremo nel Canto dei Golosi, e un
+Luca, fratello di Alagia, Cardinale, fu tra i Cardinali che
+incoronarono Arrigo VII, non senza sospetto d'esser stato
+complice degli inganni di Clemente V.
+
+	Rileggendo ora l'episodio di Adriano, questo Pontefice
+nel Poema ci appare l'antitesi di Niccol@o III: antitesi
+spiegabile con la tradizione che dipingeva l'Orsini come saggio e
+virtuoso Cardinale, poi corrotto dall'elevazione alla dignit@a
+pontificia, all'opposto del Fieschi.  Ma l'antitesi, sviluppata
+nella rappresentazione poetica dalle somiglianze della pena e
+dalla diversa attitudine di Dante a fronte dei due Pontefici, non
+@e qui suggerita da passione politica, bens@i dall'alto concetto
+che il Poeta cattolico nutriva intorno alla somma dignit@a
+ecclesiastica.
+
+	Consideriamo infatti i Pontefici che Dante pose tra i
+salvati, secondo l'ordine cronologico, e vedremo che essi o
+precedettero immediatamente Niccol@o III, come sono Adriano V e
+Giovanni XXI, Pietro Ispano, o immediatamente lo seguirono, come
+@e Martino IV: eppure quest'ultimo devotissimo all'odiata casa di
+Francia!  Cos@i il Poeta volle ribadire sempre pi@u la sentenza che
+aveva pronunciato contro colui che per primo aveva palesemente
+usato simonia, glorificando i Pontefici immuni da cupidigia, e
+specialmente illustrando in Adriano V il Pontefice che di San
+Pietro non possedette soltanto la dignit@a esteriore, ma le
+cristiane virt@u.  Tanto Niccol@o III quanto Adriano V ricordano il
+^gran manto~ {v.104}: ma quello che nell'uno @e titolo di
+vanagloria, nell'altro @e monito d'umilt@a e di dovere.  Dinanzi a
+entrambi quei Pontefici il Poeta ricorda la riverenza delle somme
+chiavi; ma questa che lo spinge a inginocchiarsi dinanzi al
+Fieschi, non fu che freno all'esplosione di sdegno che lo spinse
+ad inveire contro l'Orsini.

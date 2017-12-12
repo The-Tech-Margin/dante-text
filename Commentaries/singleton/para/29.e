@@ -1,0 +1,987 @@
+	|1-6.  Quando ambedue~... |dilibra~: At the vernal
+equinox, when, at dawn and at sunset, the sun and the moon are
+opposite each other on the horizon, one rising and the other
+setting.  |ambedue li figli di Latona~: "Latona's children" are
+Apollo and Diana, the Sun and the Moon.
+
+	|2.  coperti del Montone e de la Libra~: The sun is in
+Aries (the Ram, |Montone~), the moon is in Libra (the Scales).
+
+	|3.  fanno de l'orizzonte insieme zona~: "The two
+luminaries `belt themselves with the horizon': the horizon line
+bisects them both" (Gr).
+
+	|4-6.  quant'@e dal punto~... |dilibra~: "As long as is
+the time between the moment when the horizon runs through the
+middle of the moon and the sun and the moment when the horizon no
+longer touches either body, i.e., about a minute."  See M. Porena
+(1930), pp. 201-206.  "The sun and the moon, exactly balanced for
+an instant on opposite sides of the horizon, suggest to the poet
+the figure of a gigantic pair of scales, suspended from the
+zenith.  And just as, in a balance, one scale immediately goes
+down, and the other up, so one of the two luminaries rises above
+the horizon and the other sinks below it" (Gr).  |cen@it~ =
+^zenit.~  |infin che~: "Until."  |cinto~: "Girdle," the horizon. 
+|si dilibra~: "Is unbalanced."
+
+	|7.  tanto~: "`So long': correlative with the ^quanto~ of
+l. 4.  The simile of the sun and moon in balance is used to
+convey the idea of one instant of intermediate stillness and
+suspense -- the silence that intervenes between Beatrice's speech
+at the end of the last canto and her discourse that begins in l.
+10" (Gr).  The simile also serves to open this canto with a
+sweeping universal kind of view, which "uplifts" and introduces
+the amplitude of the act of creation itself, which Beatrice is
+now to present.
+
+	|8-9.  Beatrice, riguardando~... |vinto~: Thus the stage
+is set for Beatrice's exalted discourse on the act of creation,
+as she gazes intently on the point which, symbolically, is God. 
+This is the second of two cantos dealing essentially with
+angelology.  For a reader unfamiliar with the standard procedure
+of a ^summa~ of theology, it should perhaps be pointed out that
+the poem is proceeding thematically in the opposite direction to
+that of a ^summa~: the journey moves ever upwards, toward God,
+and here comes to a treatise on angels, in these two cantos so
+near the end, whereas a ^summa~ begins with God, in its first
+section of questions, and then passes to the creation or
+procession of creatures from God (cf. ^Summa theol.~ I of Thomas
+Aquinas as it passes from question 43 to question 44), beginning
+with the highest creatures, which are the angels.
+
+	|10.  dico~: "Declare."
+
+	|12.  l@a `ve s'appunta ogne ubi e ogne quando~: Beatrice
+is looking fixedly at the point which is God, in the symbolic
+vision, but her declaration means that she is actually seeing
+reflected in the mind of God (not in this heaven but in the
+Empyrean) Dante's thought and wish, as so often she and the other
+blessed have done.  |s'appunta~: "Are centered."  The phrase
+|ogne ubi e ogne quando~ is the dual subject of the verb.  Here
+the vision which has God as center rather than circumference is
+fully affirmed.  All space and all time depend on the one
+Absolute.  |ogne ubi e ogne quando~: |Ubi~ (the Latin adverb) is
+here used as a noun.  (On the similar use of the Italian adverb
+^dove~, see n. to ^Par.~ XXVIII, 95.)  For |ubi~, cf. ^Par.~
+XXVIII, 95, and for ^quando~ (also Latin here), see ^Par.~ XXI,
+46, where it is the identical, but Italian, form.
+
+	|13-18.  Non per aver~... |amore~: These two tercets
+present the act of creation (a creation ^ex nihilo~, be it
+remembered) as motivated in God not by any desire to add to His
+own goodness (which is inconceivable, since He is ^all~
+goodness), but by a desire to have other beings, creatures, who
+might share in that goodness -- consequently God's creation is
+essentially an overflowing or opening-up of His love.  This is
+the doctrine of Thomas Aquinas in ^Summa contra Gentiles~ II,
+46, which extends to the creation of intelligent creatures: "Ad
+productionem creaturarum nihil aliud movet Deum nisi sua bonitas,
+quam rebus aliis communicare voluit secundum modum assimilationis
+ad ipsum."  ("The only thing that moves God to produce creatures
+is His own goodness, which He wished to communicate to other
+things by likening them to Himself.")  Aquinas continues:
+
+     Similitudo autem unius invenitur in altero dupliciter: uno
+     modo quantum ad esse naturae, sicut similitudo caloris ignis
+     est in re calefacta per ignem; alio modo secundum
+     cognitionem, sicut similitudo ignis est in visu vel tactu.
+     Ad hoc igitur quod similitudo Dei perfecte esset in rebus
+     modis possibilibus, oportuit quod divina bonitas rebus per
+     similitudinem communicaretur, non solum in essendo, sed
+     etiam in cognoscendo.  Cognoscere autem divinam bonitatem
+     solus intellectus potest.  Oportuit igitur esse creaturas
+     intellectuales.
+
+     Now, the likeness of one thing is found in another thing in
+     two ways: first, as regards natural being -- the likeness of
+     heat produced by fire is in the thing heated by fire;
+     second, cognitively, as the likeness of fire is in sight or
+     touch.  Hence, that the likeness of God might exist in
+     things perfectly, in the ways possible, it was necessary
+     that the divine goodness be communicated to things by
+     likeness not only in existing, but also in knowing.  But
+     only an intellect is capable of knowing the divine goodness.
+     Accordingly, it was necessary that there should be
+     intellectual creatures.
+
+Cf. ^Par.~ VII, 64-66.
+
+	|14.  splendore~: "Dante is careful in the use of
+|splendor~ for reflected, not direct light. (^Epist. ad Can
+Grand.~, [XIII, 53-65] and ^Conv.~ iii, 14 [3-6]).  Therefore we
+must not understand this passage as declaring the manifestation
+of his own glory to be God's motive in creation, but rather the
+conferring of conscious being, the sense of existence, upon his
+creatures.  "`In order that his creatures (i.e. his reflected
+glory, his |splendor~) might be able to say: ^I am~'" (TC).
+
+	|15.  Subsisto~: Latin, meaning "I am."
+
+	|16.  di tempo fore~: "Outside of time," i.e., before
+time existed.  See vss. 20-21.
+
+	|17.  comprender~: The infinitive is used as a noun and
+signifies both spatial and intellectual comprehension.  |i~ =
+^gli.~
+
+	|18.  s'aperse~: The verb suggests the opening of a
+flower.  Cf. ^Par.~ XXII, 56, and ^Conv.~ IV, xxvii, 4: "E
+conviensi aprire l'uomo quasi com'una rosa che pi@u chiusa stare
+non puote."  ("And man should open out like a rose that can no
+longer keep closed.")
+
+	|19-21.  N$e prima~... |acque~: Time has reference only to
+created things; for God, all time is present, and "before" and
+"after" have no significance.  Therefore we may not say that God
+was inactive "before" the act of creation.  See Augustine,
+^Conf.~ XI, 13:
+
+     At si cuiusquam volatilis sensus vagatur per imagines retro
+     temporum, et te, deum omnipotentem et omnicreantem et
+     omnitenentem, caeli et terrae artificem, ab opere tanto,
+     antequam id faceres, per innumerabilia saecula cessasse
+     miratur, evigilet atque adtendat, quia falsa miratur.  nam
+     unde poterant innumerabilia saecula praeterire, quae ipse
+     non feceras, cum sis omnium saeculorum auctor et
+     conditor?...  Cum ergo sis operator omnium temporum, si fuit
+     aliquod tempus, antequam faceres caelum et terram, cur
+     dicitur, quod ab opere cessabas?  id ipsum enim tempus tu
+     feceras, nec praeterire potuerunt tempora, antequam faceres
+     tempora.  si autem ante caelum et terram nullum erat tempus,
+     cur quaeritur, quid tunc faciebas?  non enim erat tunc, ubi
+     non erat tempus.
+
+     ... Tu autem idem ipse es, et anni tui non deficient.  anni
+     tui nec eunt nec veniunt: isti autem nostri eunt et veniunt,
+     ut omnes veniant.  anni tui omnes simul stant, quoniam stant,
+     nec euntes a venientibus excluduntur, quia non transeunt:
+     isti autem nostri omnes erunt, cum omnes non erunt.  anni tui
+     dies unus, et dies tuus non cotidie, sed hodie, quia
+     hodiernus tuus non cedit crastino; neque enim succedit
+     hesterno.  hodiernus tuus aeternitas: ideo coaeternum
+     genuisti, cui dixisti: ego hodie genui te.  omnia tempora tu
+     fecisti et ante omnia tempora tu es, nec aliquo tempore non
+     erat tempus.
+
+     If any giddy brain now wildly roves over the images of
+     fore-past times, and wonders with himself, that thou
+     the God Omnipotent, All-creator and All-supporting,
+     Maker of heaven and earth, didst for innumerable ages
+     forbear to set upon such a work, before thou wouldst make
+     it: let him wake himself and consider well; since he wonders
+     at mere false conceits.  For how could innumerable ages pass
+     over, which thyself hadst not made; thou being the author
+     and creator of all ages?...  Seeing therefore thou art the
+     Creator of all times; if any time had passed before thou
+     madest heaven and earth, why then is it said, that thou
+     didst forbear to work?  For that very time hadst thou made:
+     nor could there any times pass over, before thou hadst made
+     times.  But if before heaven and earth there were no time,
+     why is it then demanded, what thou didst?  For there was no
+     Then, whenas there was no time.
+
+     ... Whereas thou art still the same, and thy years shall not
+     fail.  Thy years neither go nor come; whereas these years of
+     ours do both go and come, that in their order they may all
+     come.  Thy years stand all at once, because they stand: nor
+     are those that go thrust out by those that come, for they
+     pass not away; but these years of thine shall all be ours,
+     when all time shall cease to be.  Thy years are one day; and
+     thy day is not every day, but to-day: seeing, thy to-day
+     gives not place unto to-morrow, for neither comes it in
+     place of yesterday.  Thy today is eternity: therefore didst
+     thou beget him co-eternal to thyself, unto whom thou saidst:
+     This day have I begotten thee.  Thou hast made all times;
+     and before all times thou art: nor in any time was time not.
+
+See also ^Conf.~ VII, 15.  |lo discorrer di Dio sovra
+quest'acque~: "The moving of God upon these waters" means the act
+of creation.  See Gen. 1:2: "Et Spiritus Dei ferebatur super
+aquas."  ("And the spirit of God was stirring above the waters.") 
+The figure is particularly appropriate here, because the ninth
+sphere was often called the "aqueous heaven."  See B. Nardi
+(1944), pp. 307-313.
+
+	|22.  Forma e materia, congiunte e purette~: The poet is
+speaking of pure form (i.e., spirit without matter: the angels),
+pure matter (i.e., matter without spirit: the stuff of which the
+earth was made), and form and matter conjoined (i.e., the
+heavens).  Aristotle, in ^De anima~ II, 2, 414a, distinguishes
+between form, matter, and a compound of the two.  See E. G.
+Parodi (1918b), p. 131.  Cf. ^Par.~ VII, 64-72; 130-138. 
+|purette~: "Unmixed," "absolutely pure."
+
+	|23.  usciro ad esser che non avia fallo~: This threefold
+creation "issued forth" into an existence that was faultless,
+perfect.  |avia~ = ^aveva.~
+
+	|24.  come d'arco tricordo tre saette~: Not only is the
+creation by a triune God threefold, bearing the imprint of its
+own number upon itself, but the figure of the three-stringed bow
+and three arrows expresses aim, intention in itself.  Cf. ^Par.~
+I, 119; IV, 60; VIII, 103.
+
+	|25-27.  E come in vetro~... |intervallo~: "It was a
+received point in the Aristotelian physics that light occupies no
+time in diffusing itself through a translucent medium or
+substance.  Beatrice, then, declares that the creation of the
+Angels, of the ^Prima Materia~, of the physical heavens (and also
+time and space) was instantaneous.  The successional creation
+recorded in Genesis was a subsequent process of evolution which
+took place in time, and through the instrumentality of the
+Angels" (TC).
+
+	|28.  effetto~: "Work" (vss. 22-24).  |del suo sire~:
+"From its lord."
+
+	|29.  raggi@o~: "Shot forth."
+
+	|31-32.  Concreato fu ordine~... |sustanze~: |Concreato~
+may well bear a technical philosophical meaning in this context,
+as may be seen from the following passage in ^Summa theol.~ I,
+q. 45, a. 4, resp., which begins: "Creari est quoddam fieri." 
+("To be created is, in a manner, to be made.")  Aquinas
+continues:
+
+     Fieri autem ordinatur ad esse rei.  Unde illis proprie
+     convenit fieri et creari quibus convenit esse; quod quidem
+     convenit proprie subsistentibus, sive sint simplicia, sicut
+     substantiae separatae, sive sint composita, sicut
+     substantiae materiales.  Illi enim proprie convenit esse
+     quod habet esse, et est subsistens in suo esse.  Formae
+     autem, et accidentia et alia huiusmodi non dicuntur entia
+     quasi ipsa sint, sed quia eis aliquid est; ut albedo ea
+     ratione dicitur ens, quia ea (1) subiectum est album.  Unde,
+     secundum Philosophum (7 Metaphys., text. 2), accidens magis
+     proprie dicitur entis quam ens.  Sicut igitur accidentia et
+     formae, et huiusmodi quae non subsistunt, magis sunt
+     coexistentia quam entia; ita magis debent dici concreata
+     quam creata; proprie vero creata sunt subsistentia.
+
+     Now, to be made is directed to the being of a thing.  Hence
+     to be made and to be created properly belong to whatever
+     being belongs to; which, indeed, belongs properly to
+     subsisting things, whether they are simple things, as in the
+     case of separate substances, or composite, as in the case of
+     material substances.  For being belongs to that which has
+     being -- that is, to what subsists in its own being.  But
+     forms and accidents and the like are called beings, not as
+     if they themselves were, but because something is by them;
+     as whiteness is called a being, forasmuch as its subject is
+     white by it.  Hence, according to the Philosopher (^Metaph.~
+     vii, text. 2) accident is more properly said to be ^of a~
+     ^being~ than ^a being.~  Therefore, as accidents and forms
+     and the like non-subsisting things are to be said to co-
+     exist rather than to exist, so they ought to be called
+     rather ^concreated~ than ^created~ things; whereas, properly
+     speaking, created things are subsisting beings.
+
+Regarding Aquinas' reference to Aristotle, see ^Metaphys.~ VII,
+1, 1028a.  Seen in this light, |ordine~ and |costrutto~ do not
+belong to being, the existence of the angels, but co-exist with
+those creatures. 
+
+	|31.  costrutto~: There is some doubt among commentators as to
+the syntax of |costrutto~, but the above view would strongly
+suggest that it is a noun along with the noun |ordine.~
+
+	|32.  e quelle furon cima~: The verb |furon~ is narrative
+in meaning here: the substances, i.e., the angels, "became" the
+summit.
+
+	|33.  puro atto~: "The three kinds of beings above named
+were arranged in due order.  At the top (^cima~ {v.32}) were
+'those in which pure activity was produced,' i.e., the angels,
+which, having no body, are pure intelligence, or `form'; and
+form, or character, begins to operate as soon as it exists, and
+continues to operate completely and incessantly.  The angels have
+no powers that are not in constant and full activity" (Gr).  See
+Thomas Aquinas, ^Summa theol.~ I, q. 50, a. 2.  "^Act~ or
+^actuality~ is opposed to ^potentiality.~  Man's intellect is
+`possible' or `potential,' that is to say, we know potentially
+much that we do not know actually, and (in another but allied
+sense) are potentially thinking and feeling many things that we
+are not actually thinking and feeling; whereas the whole
+potentialities of an angel's existence are continuously
+actualised" (TC).
+
+	|34.  pura potenza tenne la parte ima~: "Pure
+potentiality" is characteristic of brute matter (or ^materia
+prima~), which is capable of no independent activity.  |ima~:
+From the Latin ^imus~, "lowest."
+
+	|35-36.  mezzo~: The material heavens.  |strinse~:
+"Bound"; the subject is |vime~ in the following verse.  |vime~:
+"Tie."  Cf. ^Par.~ XXVIII, 100.  |che gi@a mai non si divima~:
+Spirit and matter are always united in the spheres.  |divima~:
+"It is untied."  The verb is probably Dante's invention.
+
+	|37-39.  Ieronimo vi scrisse~... |fatto~: A curious
+Latinizing construction: "Jerome wrote you down a long lapse of
+ages from the creation of the angels."  Jerome's opinion -- that
+the angels existed countless ages before the creation of the
+world -- is recorded by Thomas Aquinas in ^Summa theol.~ I, q.
+61, a. 3, together with the contrary view, which was generally
+held by the Greek fathers, as Aquinas' reference to Gregory of
+Nazianzus suggests.  Article 3 opens with the following
+"objection":
+
+     Videtur quod Angeli fuerint creati ante mundum corporeum.
+     Dicit enim Hieronymus (super epistolam ad Titum, cap.
+     1... ^Sex millia nondum nostri temporis complentur annorum~;
+     ^et quanta tempora, quantasque saeculorum origines fuisse~
+     ^arbitrandum est, in quibus Angeli, Throni, Dominationes~,
+     ^ceterique ordines Deo servierunt~!  Damascenus etiam dicit
+     (in 2 lib. orthod. Fidei, cap. 3, circa fin.): ^Quidam~
+     ^dicunt quod ante omnem creationem geniti sunt Angeli, ut~
+     ^theologus dicit Gregorius.  Et primum quidem Deus~
+     ^excogitavit angelicas virtutes et coelestes; et~
+     ^excogitatio opus eius fuit.~
+
+     It would seem that the angels were created before the
+     corporeal world.  For Jerome says (^In Ep. ad Tit.~ i, 2):
+     ^Six thousand years of our time have not yet elapsed; yet~
+     ^how shall we measure the time, how shall we count the~
+     ^ages, in which the Angels, Thrones, Dominations, and the~
+     ^other orders served God?~ Damascene also says (^De Fid.~
+     ^Orth.~ ii): ^Some say that the angels were begotten~
+     ^before all creation; as Gregory the Theologian declares~,
+     ^He first of all devised the angelic and heavenly powers~,
+     ^and the devising was the making thereof.~
+
+But in the response Aquinas allows the view expressed by Jerome:
+
+     Circa hoc invenitur duplex sanctorum doctorum sententia.
+     Illa tamen probabilior videtur, quod Angeli simul cum
+     creatura corporea sunt creati.
+
+     Angeli enim sunt quaedam pars universi; non enim constituunt
+     per se unum universum; sed tam ipsi quam creatura corporea,
+     in constitutionem unius universi conveniunt.  Quod apparet
+     ex ordine unius creaturae ad aliam.  Ordo enim rerum ad
+     invicem est bonum universi.  Nulla autem pars perfecta est a
+     suo toto separata.  Non est igitur probabile quod Deus,
+     ^cuius perfecta sunt opera~, ut dicitur Deut. 32, 4,
+     creaturam angelicam seorsum ante alias creaturas creaverit.
+
+     Quamvis contrarium non sit reputandum erroneum, praecipue
+     propter sententiam Gregorii Nazianzeni, cuius ^tanta est in~
+     ^doctrina christiana auctoritas, ut nullus unquam eius~
+     ^dictis calumniam inferre praesumpserit, sicut nec~
+     ^Athanasii documentis, ut Hieronymus dicit.~
+
+     There is a twofold opinion on this point to be found in the
+     writings of the Fathers.  The more probable one holds that
+     the angels were created at the same time as corporeal
+     creatures.  For the angels are part of the universe: they do
+     not constitute a universe of themselves; but both they and
+     corporeal natures unite in constituting one universe.  This
+     stands in evidence from the relationship of creature to
+     creature; because the mutual relationship of creatures makes
+     up the good of the universe.  But no part is perfect if
+     separate from the whole.  Consequently it is improbable that
+     God, Whose ^works are perfect~, as it is said Deut. xxxii,
+     4, should have created the angelic creature before other
+     creatures.  At the same time the contrary is not to be
+     deemed erroneous; especially on account of the opinion of
+     Gregory Nazianzen, ^whose authority in Christian doctrine~
+     ^is of such weight that no one has ever raised objection~
+     ^to his teaching, as is also the case with the doctrine of~
+     ^Athanasius~, as Jerome says.
+
+Clearly, Dante is not so tolerant of Jerome's view.  |l'altro
+mondo~: "The rest of the universe."
+
+	|40-41.  ma questo vero~... |Spirito Santo~: "This truth"
+refers to what is stated in vss. 22-24 and 28-30.  Thus Dante
+finds firm scriptural support for the one view he so positively
+affirms.  Cf. Ecclus. 18:1: "Qui vivit in aeternum creavit
+omnia simul."  ("He who lives throughout eternity created all
+things at the same time.")  It was also argued from Gen. 1:1
+that there had been no long previous creation: "In principio
+creavit Deus caelum et terram."  ("In the beginning God created
+the heavens and the earth.")  Thomas Aquinas, in ^Summa theol.~
+I, q. 61, a. 3, ad 3, does make reference indeed to the opening
+words of Genesis as the text which supports the one view of
+simultaneous creation.  |li scrittor de lo Spirito Santo~: In ^De
+mon.~ III, iv, 11, Dante writes: "Nam quanquam scribe divini
+eloquii multi sint, unicus tamen dictator est Deus, qui
+beneplacitum suum nobis per multorum calamos explicare dignatus
+est."  ("For though the scribes of the divine utterance be many,
+one is he who dictates to them, even God, who has deigned to set
+forth his will to us by the pens of many writers.")
+
+	|42.  agguati~: |Agguati~ is formed on the verb ^guatare~
+and means "watch," "consider."
+
+	|43-45.  e anche la ragione~... |cotanto~: Beatrice here
+passes from revelation to reason, as scholastic theology so often
+does.  One might say that, typically, she passes to the authority
+of Aristotle.  See the Busnelli-Vandelli edition of the
+^Convivio~, vol. I, p. 124, col. 1, where the quotation "si
+aliquae substantiae essent non moventes, essent otiosae" ("if
+certain substances were not movers, they would be idle") from
+Aristotle is given with reference to Averro,es' commentary on the
+^Metaphysics~, but where it is pointed out that Albertus Magnus
+attributes these words to Plato.
+
+	To be sure, Aristotle and the Arab commentators on him
+conceive of all the Intelligences as being "movers," whereas
+Christian thought came to conceive of the angels as of two kinds,
+the "contemplatives" and the "movers."  Dante's own opinion as
+expressed in the ^Convivio~ (II, iv, 9-13), where the poet argues
+precisely this point, may be cited here:
+
+     Nessuno dubita, n@e filosofo n@e gentile n@e giudeo n@e
+     cristiano n@e alcuna setta, ch'elle non siano piene di tutta
+     beatitudine, o tutte o la maggior parte, e che quelle beate
+     non siano in perfettissimo stato.  Onde, con ci@o sia cosa
+     che quella che @e qui l'umana natura non pur una beatitudine
+     abbia, ma due, s@i com'@e quella de la vita civile, e quella
+     de la contemplativa, inrazionale sarebbe se noi vedemo
+     quelle avere la beatitudine de la vita attiva, cio@e civile,
+     nel governare del mondo, e non avessero quella de la
+     contemplativa, la quale @e pi@u eccellente e pi@u divina.  E
+     con ci@o sia cosa che quella che ha la beatitudine del
+     governare non possa l'altra avere, perch@e lo `ntelletto
+     loro @e uno e perpetuo, conviene essere altre fuori di
+     questo ministerio che solamente vivano speculando.  E
+     perch@e questa vita @e pi@u divina, e quanto la cosa @e pi@u
+     divina @e pi@u di Dio simigliante, manifesto @e che questa
+     vita @e da Dio pi@u amata: e se ella @e pi@u amata, pi@u le
+     @e la sua beatanza stata larga: e se pi@u l'@e stata larga,
+     pi@u viventi le ha dato che a l'altrui.  Per che si
+     conchiude che troppo maggior numero sia quello di quelle
+     creature che li effetti non dimostrano.  E non @e contra
+     quello che par dire Aristotile nel decimo de l'Etica, che a
+     le sustanze separate convegna pure la speculativa vita.
+     Come pure la speculativa convegna loro, pure a la
+     speculazione di certe segue la circulazione del cielo, che
+     @e del mondo governo; lo quale @e quasi una ordinata
+     civilitade, intesa ne la speculazione de li motori.
+
+     No one -- neither philosopher, nor Gentile, nor Jew, nor
+     Christian, nor any sect -- doubts that either all of them,
+     or the greater part, are full of all blessedness, or doubts
+     that these blessed ones are in the most perfect state.  And
+     inasmuch as human nature, as it here exists, hath not only
+     one blessedness but two, to wit that of the civil life and
+     that of the contemplative life, it were irrational did we
+     perceive those others to have the blessedness of the active
+     that is the civil life, in guiding the world, and not that
+     of the contemplative life, which is more excellent and more
+     divine.  And inasmuch as the one that hath the blessedness
+     of guiding may not have the other, because their intellect
+     is one and continuous, there must needs be others exempt
+     from this ministry whose life consists only in speculation.
+     And because this life is the more divine, and because in
+     proportion as a thing is more divine it is more like to God,
+     it is manifest that this life is more loved by God; and if
+     it be more loved, its share of blessedness hath been more
+     ample; and if it be more ample, he hath assigned more living
+     beings to it than to the other.  Wherefore we conclude that
+     the number of these creatures is very far in excess of what
+     the effects reveal.  And this is not counter to what
+     Aristotle seems to say in the tenth of the ^Ethics~, to wit
+     that the speculative life alone fits with the sejunct
+     substances, for if we allow that the speculative life alone
+     fits with them, yet upon the speculation of certain of these
+     followeth the circulation of the heavens, which is the
+     guiding of the world; which world is a kind of ordered
+     civility perceived in the speculation of its movers.  The
+     whole argument rests on the basic principle that everything
+     is created for a purpose (the movers for moving) and that
+     the fulfillment of that purpose is the perfection of the
+     thing.
+
+	|46.  questi amori~: Cf. vs. 18.
+
+	|49-51.  N$e giugneriesi~... |alimenti~: On this question
+(standard in a ^summa~ of theology), see Thomas Aquinas, ^Summa
+theol.~ I, q. 63, a. 6, which bears the heading: "Utrum aliqua
+mora fuerit inter creationem, et lapsum Angeli" ("Whether there
+was any interval between the creation and the fall of the
+angel").  The response is:
+
+     Circa hoc est duplex opinio.
+
+     Sed probabilior et sanctorum dictis magis consonans est quod
+     statim post primum instans suae creationis diabolus
+     peccaverit.  Et hoc necesse est dicere, si ponatur quod in
+     primo instanti suae creationis in actum liberi arbitrii
+     proruperit, et cum gratia fuerit creatus, ut supra diximus,
+     quaest. 62, art. 3.  Cum enim Angeli per unum actum
+     meritorium ad beatitudinem perveniant, ut supra dictum est,
+     quaest. 62, art. 5, si diabolus in primo instanti, in gratia
+     creatus, meruit, statim post primum instans beatitudinem
+     accepisset, nisi statim impedimentum praestisset peccando.
+
+     Si vero ponatur quod Angelus in gratia creatus non fuerit,
+     vel quod in prime instanti actum liberi arbitrii non
+     potuerit habere, nihil prohibet aliquam moram fuisse inter
+     creationem et lapsum.
+
+     There is a twofold opinion on this point.  But the more
+     probable one, which is also more in harmony with the
+     teachings of the Saints, is that the devil sinned at once
+     after the first instant of his creation.  This must be
+     maintained if it be held that he elicited an act of free-
+     will in the first instant of his creation, and that he was
+     created in grace; as we have said (q. 62, a. 3).  For since
+     the angels attain beatitude by one meritorious act, as was
+     said above (q. 62, a. 5), if the devil, created in grace,
+     merited in the first instant, he would at once have received
+     beatitude after that first instant, if he had not placed an
+     impediment by sinning.
+
+     If, however, it be contended that the angel was not created
+     in grace, or that he could not elicit an act of free-will in
+     the first instant, then there is nothing to prevent some
+     interval being interposed between his creation and fall.
+
+Dante expresses his opinion in the ^Convivio~ (II, v, 12), where
+what becomes in the present passage "the count to less than
+twenty" is expressed simply by "tosto": "Dico che di tutti questi
+ordini si perderono alquanti tosto che furono creati, forse in
+numero de la decima parte."  ("I say that out of all these orders
+some certain were lost as soon as they were created, I take it to
+the number of a tenth part.")  |giugneriesi~ = ^si giungerebbe.~ 
+|turb@o il suggetto d'i vostri alimenti~: |Alimenti~ is used for
+^elementi~ (see Petrocchi, vol. I, ^Introduzione~, p. 231).  The
+entire meaning of the phrase has been the subject of much
+discussion, with the specific meaning of |suggetto~ as the main
+problem.  It is possible to understand that |suggetto~ means the
+^substrate~ of the elements, the ^prima materia~, at first
+formless, "the elaboration of the elements being the subsequent
+work of the Angels and the heavens" (TC).  (Cf. ^Par.~ VII,
+130-138.)  However, it is not possible to overlook the account of
+Satan's fall to earth and his place at the center of the earth as
+clearly set forth in ^Inf.~ XXXIV, especially vss. 118-126, and
+(though there is evidently an inconsistency here between two
+views as expressed in the poem) to understand |il suggetto d'i
+vostri alimenti~ to mean "that one of your elements that
+underlies the rest," i.e., earth.  The verb |turb@o~ seems to
+point back to the account of Satan's fall, since the earth
+actually shrank away from him (^Inf.~ XXXIV, 122-126).
+
+	|52.  L'altra~: I.e., ^parte~ {v.50}, meaning the good
+angels of vss. 58-60.  |quest'arte~: "This art" is the angels'
+circling of the point, a circling which here symbolically
+represents intellection that is both contemplation and action,
+since by intellection the angels turn the heavens.  See Dante's
+^canzone~ as cited by Charles Martel in ^Par.~ VIII, 37, and the
+corresponding note.  |Arte~, in itself, seems to stress the
+turning of the heavens more than it does contemplation, but
+^circuir~ (vs. 54) must include both contemplation and moving.
+
+	|55-57.  Principio del cader~... |costretto~: ^Inf.~
+XXXIV provides the best gloss on these verses, but ^Par.~ XIX,
+46-48, should also be remembered: Satan was the "first proud
+creature," "the highest of all creatures," but "for not waiting
+on the light he fell unripe" (see n. to ^Par.~ XIX, 48). 
+|Principio~ here may well have not only a temporal sense
+("beginning"), but also a causal sense, for Satan induced the
+other bad angels to become bad.  See Thomas Aquinas, ^Summa
+theol.~ I, q. 63, a. 8, resp.:
+
+     Peccatum primi Angeli fuit aliis causa peccandi, non quidem
+     cogens, sed quadam quasi exhortatione inducens.
+
+     Cuius signum ex hoc apparet quod omnes daemones illi supremo
+     subduntur, ut manifeste apparet per illud quod dicit Dominus
+     Matth. 25, 41: ^Ite, maledicti, in ignem aeternum, qui~
+     ^paratus est diabolo et angelis eius.~  Habet enim hoc ordo
+     divinae iustitiae, ut cuius suggestioni aliquis consentit in
+     culpa, eius potestati subdatur in poena, secundum illud 2 Pet.
+     2, 19: ^A quo quis superatus est, huic servus addictus est.~
+
+     The sin of the highest angel was the cause of the others
+     sinning; not as compelling them, but as inducing them by a
+     kind of exhortation.  A token thereof appears in this, that
+     all the demons are subjects of that highest one; as is
+     evident from our Lord's words: ^Go~ (Vulg., ^Depart from~
+     ^Me~), ^you cursed, into everlasting fire, which was~
+     ^prepared for the devil and his angels~ (Matth., xxv, 41).
+     For the order of Divine justice exacts that whosoever
+     consents to another's evil suggestion, shall be subjected to
+     him in his punishment; according to (2 Pet. ii. 19): By
+     ^whom a man is overcome, of the same also he is the slave.~
+
+The essence of Satan's pride ("not waiting for the light")
+involves a basic tenet in the matter which, on its simplest
+statement, is as follows: all the angels were first given a
+"natural" light, consistent with their nature, but God was to
+give them, in a second instant, that light by which He sees
+Himself and that light by which -- and ^only~ by which -- a
+creature may see God in direct vision (cf. ^Par.~ XXX, 100-101
+and n. to ^Par.~ XXX, 100-102) which is known in theology as the
+light of glory.  Satan and the others who followed his example
+did not wait for God's bestowal of this light, but presumed to
+attain to it by their own natural powers.  In this way, Satan
+aspired to be "similis altissimo," as it is stated in Isa. 14:14:
+"Similis ero Altissimo."  ("I will be like the most High.")  He did
+not recognize his creaturely dependence on God, as did the good
+angels (vss. 58-60).  On the light of glory, see C. S. Singleton
+(1958), pp. 20-23.
+
+	|58-60.  Quelli che vedi~... |presti~: |Modesti~ stresses
+the opposite of pride, namely humility, the recognition of the
+creature's dependence on the Creator and His goodness, i.e., His
+great gift of intellection (|tanto intender~), while |presti~
+points to their natural endowment for intellection, which they
+had in their first moment of creation (see preceding note). 
+|riconoscer~: For this use of the verb, cf. ^Par.~ XXII, 113;
+XXXI, 84.
+
+	|61-63.  per che le viste~... |volontate~: The angels who
+waited for the bestowal of the higher light, the light of glory,
+received that light (here termed "grazia illuminante").  Their
+merit (|merto~) was precisely that humility and their waiting
+upon the Lord to bestow that higher light.  With that bestowal
+they were forever confirmed in this highest grace, and
+accordingly they are now bound thereby to the good and to ^do~
+the good.  They have fullness of vision and of will, and they
+cannot sin.  See Thomas Aquinas, ^Summa theol.~ I, q. 62, a. 8,
+resp.:
+
+     Angeli beati peccare non possunt.
+
+     Cuius ratio est quia eorum beatitudo in hoc consistit quod
+     per essentiam Deum vident.  Essentia autem Dei est ipsa
+     essentia bonitatis.  Unde hoc modo se habet Angelus videns
+     Deum ad ipsum, sicut se habet quicumque non videns Deum ad
+     communem rationem boni.  Impossibile est autem quod aliquis
+     quidquam velit vel operetur, nisi attendens ad bonum, vel
+     quod velit divertere a bono, inquantum huiusmodi.  Angelus
+     igitur beatus non potest velle vel agere, nisi attendens ad
+     Deum; sic autem volens vel agens non potest peccare.  Unde
+     Angelus beatus nullo modo peccare potest.
+
+     The beatified angels cannot sin.  The reason for this is,
+     because their beatitude consists in seeing God through His
+     essence.  Now, God's essence is the very essence of
+     goodness.  Consequently the angel beholding God is disposed
+     towards God in the same way as anyone else not seeing God is
+     to the common form of goodness.  Now it is impossible for
+     any man either to will or to do anything except aiming at
+     what is good; or for him to wish to turn away from good
+     precisely as such.  Therefore the beatified angel can
+     neither will nor act, except as aiming towards God.  Now
+     whoever wills or acts in this manner cannot sin.
+     Consequently the beatified angel cannot sin.
+
+	|65-66.  che ricever~... |aperto~: The degree of openness
+depends on love (^caritas~) which is a result of foreordained
+disposition.  See Thomas Aquinas, ^Summa theol.~ I, q. 62, a. 5,
+resp.:
+
+     Angelus post primum actum charitatis, quo beatitudinem
+     meruit, statim beatus fuit.  Cuius ratio est quia gratia
+     perficit naturam secundum modum naturae, sicut et omnis
+     perfectio recipitur in perfectibili secundum modum eius.
+     Est autem hoc proprium naturae angelicae quod naturalem
+     perfectionem non per discursum acquirat, sed statim per
+     naturam habeat, sicut supra ostensum est, art. 1 huius
+     qu., et qu. 58, art. 3 et 4.  Sicut autem ex sua natura
+     Angelus habet ordinem ad perfectionem naturalem, ita ex
+     merito habet ordinem ad gloriam; et ita statim post
+     meritum in Angelo fuit beatitudo consecuta.  Meritum
+     autem beatitudinis non solum in Angelo, sed etiam in
+     homine esse potest per unicum actum: quia quolibet actu
+     charitate informato homo beatitudinem meretur.  Unde
+     relinquitur quod statim post unum actum charitate
+     informatum Angelus beatus fuit.
+
+     The angel was beatified instantly after the first act of
+     charity, whereby he merited beatitude.  The reason whereof
+     is because grace perfects nature according to the manner of
+     the nature; as every perfection is received in the subject
+     capable of perfection, according to its mode.  Now it is
+     proper to the angelic nature to receive its natural
+     perfection not by passing from one stage to another; but to
+     have it at once naturally, as was shown above (a. 1; q. 58,
+     aa. 3, 4).  But as the angel is of his nature inclined to
+     natural perfection, so is he by merit inclined to glory.
+     Hence instantly after merit the angel secured beatitude.
+     Now the merit of beatitude in angel and man alike can be
+     from merely one act; because man merits beatitude by every
+     act informed by charity.  Hence it remains that an angel was
+     beatified straightway after one act of charity.
+
+	|67.  consistorio~: Cf. ^consistoro~, ^Purg.~ IX, 24.
+
+	|69.  aiutorio~: From the Latin ^adiutorium~, a word that
+is used frequently in the Bible.  Dante uses the form more than
+once in the ^Convivio~ (e.g., III, x, 8).
+
+	|70-72.  Ma perch$e~... |vole~: With these verses begins
+what Beatrice eventually will term a digression (vs. 127): a
+denunciation of erroneous and deceitful practices on earth in
+willfully teaching false doctrine.  |vostre scole~: Cf. ^Purg.~
+XXXIII, 85.  |si legge~: It is taught in the lectures of doctors
+of theology.  For this use of ^leggere~, cf. ^Par.~ X, 137;
+XXVI, 18.  |'ntende e si ricorda e vole~: "These are the precise
+powers which Dante believed the disembodied human soul actually
+to possess before assuming its provisional aerial body.  (See
+^Purg.~ XXV, 83.)  As far as ^intelligence~ and ^will~ are
+concerned, the assertion is equally true of the Angels, but not
+so as to ^memory~" (TC).
+
+	|73.  dir@o~: "I shall explain."  |veggi~ = ^vegga.~
+
+	|75.  lettura~: The noun corresponds in meaning to the
+verb ^leggere~ as it is used in vs. 71.
+
+	|76-78.  Queste sustanze~: The angels.  |fur~ = ^furono.~ 
+|poi che fur gioconde~... |Dio~: I.e., from the moment when the
+good angels were granted the light of glory, which made it
+possible for them to have direct vision of God (|faccia~ suggests
+the conception of vision face to face).  |non volser viso da
+essa~: In their direct vision of God the angels are fully
+satisfied, for therein they see all things as well (|da cui nulla
+si nasconde~).  They have therefore no reason to turn away from
+gazing on Him, and they do not do so.
+
+	|79.  per@o~ = ^per ci@o.~  |non hanno vedere interciso~:
+Nothing ever intervenes between their mind and the image of all
+things in God.  |interciso~: "Intercepted."
+
+	|80-81.  non bisogna~... |diviso~: "'They have no need of
+remembering by reason of interrupted concept'.  Forgetfulness is
+the intervention of a new concept between the former one and the
+consciousness.  With the angels, no concept, or perception, is
+ever interrupted by another.  -- St. Thomas inclines to the
+opinion that angels do not need -- and therefore do not possess
+-- memory, but he admits the possibility of their possessing it
+in a certain sense, if memory be considered as a faculty of the
+mind: ^Summa Theologiae~, Prima, Qu. liv, Art. 5.  Cf. St.
+Augustine, ^De Trinitate~ [X, 11].  Dante is more positive than
+his masters.  Angels have only intelligence and will" (Gr).  See
+E. Moore (1917), pp. 154-156.  E. G. Parodi (1918b, p. 132, n. 1)
+notes that Thomas Aquinas uses the term ^dividendo~ in describing
+forgetfulness in ^Summa theol.~ I, q. 58, a. 4, which is
+entitled: "Utrum Angeli intelligant componendo et dividendo"
+("whether the angels understand by composing and dividing").  Cf.
+^De mon.~ I, iii, 7, where Dante, in speaking of intellection in
+the angels, refers to it as "sine interpolatione" ("continuous").
+
+	|82.  s@i che l@a gi@u, non dormendo, si sogna~: "So that on
+earth men dream waking dreams" (Gr).
+
+	|84.  ma ne l'uno @e pi@u colpa e pi@u vergogna~: In those
+who preach what they do not believe there is malice involved;
+they are the worse set.
+
+	|85-86.  Voi non andate~... |filosofando~: |Voi~ refers
+to "you mortals," and |gi@u~ to the earthly life.  Cf. ^Purg.~
+XXXIII, 82-90.  |un sentiero~: The way of the truth is ^one.~
+
+	|87.  l'amor de l'apparenza e 'l suo pensiero~: "The love
+and thought of mere show."
+
+	|88.  si comporta~: "Is suffered."
+
+	|89.  posposta~: "Put aside" (preferring to deal in false
+reasonings).
+
+	|90.  quando @e torta~: Cf. ^Par.~ XIII, 127-129.
+
+	|91.  vi~: On earth.  |costa~ = ^@e costato~, in blood shed
+by martyrs to the faith.
+
+	|93.  con essa~: |Con~ here, rather than the usual ^a~,
+expresses greater adherence.
+
+	|94.  Per apparer~: In order to cut an impressive figure,
+for mere show.  Cf. ^apparenza~ in vs. 87.  |face~ = ^fa.~
+
+	|95.  trascorse~: "Amply developed," "expatiated on."
+
+	|96.  Vangelio~ = ^Vangelo.~
+
+	|97-102.  Un dice~... |rispuose~: See Matt. 27:45: "A
+sexta autem hora tenebrae factae sunt super universam terram
+usque ad horam nonam."  ("Now from the sixth hour there was
+darkness over the whole land until the ninth hour.")  "To explain
+this darkness at the Crucifixion, some said that the moon left
+its course to make an eclipse, others that the sun hid its own
+rays.  Dionysius ([^Par.~] XXVIII, 130) favored the first
+explanation, St. Jerome the second.  Both are recorded by St.
+Thomas in ^Summa Theologiae~, Tertia, Qu. xliv, Art. 2.  The
+second theory has the advantage of accounting for an obscuration
+'over all the land' ['super universam terram'], whereas an
+ordinary eclipse would darken only a part of it.  The miraculous
+eclipse recorded in the Bible `answered for the Spaniards and the
+Indians' -- at the two extremes of the habitable world -- `as
+well as for the Hebrews'" (Gr).  Cf. Mar. 15:33; Luc. 23:44. 
+|mente~ = ^mentisce~ (from the infinitive ^mentire~),
+though the form |mente~ is still found in literary use.  The word
+is pronounced ^m@ente.~  |rispuose~ = ^corrispuose.~
+
+	|103.  Lapi e Bindi~: Lapo and Bindo seem to have been
+very common names in Florence.  They were originally nicknames
+for Jacopo and Ildebrando, respectively.
+
+	|104.  per anno~ = ^ogni anno.~
+
+	|105.  quinci e quindi~: "Here and there," i.e., on every
+hand.
+
+	|106.  le pecorelle~: The flock, in the familiar sense of
+faithful Christians that is used in the Bible.  Cf. ^Par.~ XI,
+124-129.
+
+	|108.  non le scusa non veder lo danno~: Cf. ^Purg.~
+XXII, 47, ^per ignoranza~, and what Statius affirms in that
+canto.  Ignorance is no excuse when it is a matter of certain
+fundamental notions and articles of faith which every good
+Christian is bound to hold.
+
+	|109.  convento~: "Congregation," i.e., the apostles. 
+Cf. Mar. 16:15: "Et dixit eis: Euntes in mundum universum,
+praedicate evangelium omni creaturae."  ("And he said to them,
+`Go into the whole world and preach the gospel to every
+creature.'")
+
+	|111.  ma diede lor verace fondamento~: See I Cor. 3:
+10-11: "Secundum gratiam Dei quae data est mihi, ut sapiens
+architectus fundamentum posui....  Fundamentum enim aliud nemo
+potest ponere praeter id quod positum est, quod est Christus
+Iesus."  ("According to the grace of God which has been given to
+me, as a wise builder, I laid the foundation....  For other
+foundation no one can lay, but that which has been laid, which is
+Christ Jesus.")
+
+	|112.  quel tanto~: "That alone," i.e., the true
+foundation.  For this use of |tanto~ cf. ^Par.~ II, 67; XVIII,
+13.  |sue~ = ^loro~, the apostles'.
+
+	|114.  fero~ = ^fecero.~  |scudo e lance~: The "shield" is
+clearly for defense, and the "lance" for their attack on false
+beliefs.
+
+	|115.  motti~: "Jests," "witticisms."  |iscede~ = ^scede~,
+"buffooneries."
+
+	|117.  gonfia il cappuccio~: "The cowl [of the preacher]
+puffs up" with self-satisfaction.  |e pi@u non si richiede~: And
+the congregation hearing the sermon asks for nothing else but
+this sort of "wind" (vs. 107).
+
+	|118.  Ma tale uccel nel becchetto s'annida~: Devils are
+termed ^uccelli~ in ^Inf.~ XXII, 96, and XXXIV, 47, as well as
+here.  Thus a devil is nestling in the "hoodtail" as in a pocket,
+waiting to snatch the preacher's soul.  For a similar notion, cf.
+^Inf.~ XXVII, 117.
+
+	|120.  la perdonanza di ch'el si confida~: "What kind of
+indulgence it places its trust in."
+
+	|121.  per cui~: Through such trust placed in promises of
+indulgence (^promession~, vs. 123).
+
+	|123.  ad ogne promession~: "To any promise."  |si
+correrebbe~ = ^si accorrerebbe~, they "would flock."
+
+	|124.  Di questo~: On this credulity of the people. 
+|sant'Antonio~: The order of St. Anthony, here the subject of
+|ingrassa~, with |porco~ as the object.  This is St. Anthony the
+Great, the Egyptian hermit (not to be confounded with his
+namesake of Padua), who was born in Upper Egypt (ca. 250) and
+died at the age of 105.  He is regarded as the founder of
+monastic institutions, the disciples who followed him in his
+retirement to the desert having formed, as it were, the first
+community of monks.  His symbol is a hog (perhaps as a type of
+the temptations of the devil, or possibly as a token of the power
+ascribed to him of warding off disease from cattle), which is
+generally represented lying at his feet.  His remains were
+miraculously discovered long after his death and transported to
+Constantinople, whence ca. 960 a portion of them was transferred
+to Vienne in Provence.  The monks of the order of St. Anthony
+kept herds of swine, which they fattened with the proceeds of
+their alms, and which were allowed to roam the streets of towns
+and feed at public charge.  They were regarded by the common folk
+with superstitious reverence, a fact which the monks turned to
+account when collecting alms.  For a famous story concerning one
+of the order, see Boccaccio, ^Decam.~ VI, 10.  A story of the
+evil fate which befell a Florentine who tried to kill one of
+these hogs of St. Anthony forms the subject of one of Sacchetti's
+stories (^Novelle~ CX).
+
+	|125.  e altri assai che sono ancor pi@u porci~: These
+others, even more "swinish," are concubines, natural sons, and
+the like, the object of ^ingrassa~ {v.124} along with ^il porco~ 
+{v.124} of the preceding verse.
+
+	|126.  moneta sanza conio~: False money, i.e., false
+indulgences.
+
+	|127-128.  siam digressi~: From the Latin ^digressi
+sumus.~  By such a touch, all that Beatrice has said in vss.
+70-126 is viewed as a "digression."  |ritorci li occhi~...
+|strada~: Turn back your eyes, i.e., your mind, toward the true
+path, that is, the "way" of vs. 129.  Such a turn of phrase, with
+the stress on eyes, points to the journey to God as the true
+concern and to that journey as an intellectual ascent from truth
+to truth, especially in the ^Paradiso (~ cf. ^Par.~ IV, 124-132).
+
+	|129.  s@i che la via col tempo si raccorci~: The time
+allotted to their stay in this heaven is growing short, as is
+their time for the intellectual journey as such, i.e., what
+remains to be said here in the ninth heaven.
+
+	|130.  Questa natura~: Angel kind.  |s@i oltre s'ingrada~:
+"Rises by degrees so high in numbers."  Hierarchy is stressed by
+the verb invented by Dante.
+
+	|133-135.  e se tu guardi~... |cela~: Cf. Dan. 7:10: "Millia
+millium ministrabant ei et decies millies centena millia
+assistebant ei."  ("Thousands of thousands ministered to him, and
+ten thousand times a hundred thousand stood before him.")  See n.
+to ^Par.~ XXVIII, 92.  |determinato numero si cela~: This
+ambiguous verse must mean: "No definite number is discernible." 
+For this use of |cela~, cf. ^Par.~ XVI, 80.  Thus Daniel's
+thousands indicate that the number of the angels is greater than
+man can conceive.
+
+	|136.  La prima luce, che tutta la raia~: The light of
+God shines upon all the angelic kind (|la~ refers to ^questa
+natura~, vs. 130).
+
+	|137.  per tanti modi in essa si recepe~: Every angel
+constitutes a species by itself, hence no two perceive God alike,
+i.e., no two receive of His light alike.  |per tanti modi~: "In
+as many ways."  |recepe~ = ^riceve.~
+
+	|138.  a chi s'appaia~: "With whom it [the light]
+unites."  Some editors have "che" instead of |chi~; but see
+Petrocchi's note explaining his preference for the more personal
+form |chi.~  There is the suggestion of "matching," that is, to
+each angel is given all of the light that it is able to receive.
+
+	|139-141.  per@o che~ = ^per ci@o che.~  |a l'atto che
+concepe segue l'affetto~: Again the poet takes his stand on this
+issue (see ^Par.~ XXVIII, 109-111, and the note to ^Par.~
+XXVIII, 106-114).  The "act that conceives" is the act of
+intellect, whereas |affetto~ refers to the will, where love is
+seated.  |d'amar la dolcezza~... |tepe~: Hence, even as the
+reception of the light varies with each angel, so also its love
+varies in measure depending on the light received, i.e., on its
+vision of God.  |tepe~: A Latinism, meaning "is tepid," i.e.,
+less fervent than in other angels.
+
+	|142.  l'eccelso~: The sublime height of the whole
+angelic hierarchy.  |la larghezza~: "The breadth," with special
+reference to the immense number of the angels; cf. ^Par.~ XXV,
+29-30.
+
+	|143-144.  etterno valor~: God; cf. ^Par.~ I, 107; X, 3. 
+|tanti speculi~: The angels who reflect God's light, which shines
+in each one of them (the figure should be connected with vss.
+14-18 of the present canto).  |si spezza~: Literally, "divides"
+or "breaks" Itself, that is, "gives of Itself" to each.  Cf.
+^Par.~ XIII, 55-60.
+
+	|145.  uno manendo in s$e come davanti~: Vs. 60 of ^Par.~
+XIII expresses almost exactly this idea of God's
+"self-containedness."  |manendo~ = ^rimanendo.~

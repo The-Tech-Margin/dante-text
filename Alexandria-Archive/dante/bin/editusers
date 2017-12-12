@@ -1,0 +1,166 @@
+#! /bin/sh 
+
+#	editusers: Script to request addition or deletion of DDP
+#	user account(s)
+#		Usage: edituser [-ae] [users ...]
+#	Optionally accepts one option (Add or Delete) and a list of users
+
+case $1 in
+	-a)	OPTION='a'
+		shift
+		break
+		;;
+	-d)	OPTION='d'
+		shift
+		break
+		;;
+	-*)	echo "Unknown argument: $1"
+		OPTION='x'
+		shift
+		break
+		;;
+	*)
+		OPTION='x'
+		break
+		;;
+esac
+USERLIST=$@
+
+#This should be replaced with a "while" loop with a case to set OPTION
+if [ $OPTION = 'x' ]
+then
+	echo -n 'Do you want to add or delete users(a|d)? '
+	read REPLY
+	OPTION=$REPLY
+fi
+
+if [ ! "$USERLIST" ]
+then
+	echo -n 'User(s) to add (separate each by a space): '
+	read REPLY
+	USERLIST=$REPLY
+fi
+
+readonly $USERLIST 
+TMP=$Dante/doc/euser.$$
+TMPM=$Dante/doc/euser.mail
+TMPL=$Dante/doc/euser.list
+TMPA=$Dante/doc/euser.alias
+CONSULTANT='consultants siena'
+SORT=$Dante/lib/euser.awk
+SUBJECT='DDP account creations'
+MAILLIST=$Dante/users/userlist
+BRSLIST=$Dante/users/userlist.brs
+SEDFILE=$Dante/lib/euser.sed
+echo
+
+if [ $replyto. = . ]
+then
+	echo -n 'Need return address-What is your personal account? '
+	read REPLY
+	replyto=$REPLY@Eleazar
+	export replyto
+fi
+
+if [ $OPTION = 'a' ]
+then
+	echo 'Creating DDP user accounts for: '$USERLIST
+
+	for PERSON in $USERLIST
+	do
+		PERSON=ddp$PERSON
+		echo -n 'Password for' $PERSON': '
+		read PSSWD
+		echo -n 'What is the real name for' $PERSON': '
+		read NAME
+		echo $PERSON'      	'$PSSWD'      	'$NAME >> $TMP
+	done
+	REPLY=''
+	while [ $REPLY. = . ]
+	do
+		echo -n 'Would you like to send, list, or edit the request [s|l|e]? '
+		read REPLY
+		case $REPLY in
+			l)	more $TMP
+				REPLY=''
+				;;
+			e)	/usr/ucb/vi $TMP
+				REPLY=''
+				;;
+			s)	;;
+			*)	REPLY=''
+				;;
+		esac
+	done
+	echo 'Could you please create the following ddp user accounts:' > $TMPM
+	echo >> $TMPM
+	echo 'Account		Password	In real life' >> $TMPM
+	cat < $TMP >> $TMPM
+	echo >> $TMPM
+	echo 'Let me know if there are any problems.' >> $TMPM
+	echo ':::::Sending creation requests to the consultants:::::'
+	mail -s "$SUBJECT" $CONSULTANT < $TMPM
+	echo 'Creation request sent to consultants'
+
+elif [ $OPTION = 'd' ]
+then
+	echo 'Deleting DDP user accounts for: '$USERLIST
+
+	SUBJECT="DDP account deletions"
+	echo 'Could you please delete the following DDP user accounts:' > $TMPM
+	echo '	'$USERLIST >> $TMPM
+	echo 'If there are any problems let us know.' >> $TMPM
+	echo ':::::Sending deletion requests to the consultants:::::'
+	mail -s "$SUBJECT" $CONSULTANT < $TMPM
+	echo 'Account deletions requested'
+
+fi
+
+echo
+echo ':::::Updating ddpusers mailing list:::::'
+
+if [ $OPTION = 'a' ]
+then
+	awk -f $SORT $TMP > $TMPL
+	sort +1dfb +0dfb $TMPL $MAILLIST > $TMPA
+elif [ $OPTION = 'd' ]
+then
+	for PERSON in $USERLIST
+	do
+	echo $PERSON >> $TMPL
+	done
+	fgrep -v -f $TMPL $MAILLIST | sort +1dfb +0dfb - > $TMPA
+fi
+
+cp $TMPA $MAILLIST
+echo 'List updated'
+echo
+
+echo ':::::Submitting new ddpusers mailing list:::::'
+#put in send command here
+echo 'List sent'
+echo
+
+echo ':::::Updating the BRS menu list:::::'
+sed -f $SEDFILE $TMPA | pr -2 -l19 -ts > $BRSLIST
+while ( $REPLY. == . )
+do
+	echo -n 'Would you like to review or edit the listing [n|r|e]? '
+	read REPLY
+	case $REPLY in
+		r)	more $BRSLIST
+			$REPLY=''
+			;;
+		e)	/usr/ucb/vi $BRSLIST
+			$REPLY=''
+			;;
+		n)	;;
+		*)	$REPLY=''
+			;;
+	esac
+done
+echo 'BRS list finished'
+echo
+
+rm -f $TMP $TMPL $TMPA $TMPM
+echo ':::::User editing finished:::::'

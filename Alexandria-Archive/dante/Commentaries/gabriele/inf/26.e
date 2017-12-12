@@ -1,0 +1,116 @@
+	|1-5.~  GODI FIORENZA: usa qui il Poeta una ironica esclamatione, come 
+Vergilio in quel loco e in molti altri: <egregiam vero laudem>; ma 
+perch@e bisogna che l'ironia abbia parole in s@e per le quali si 
+conosca quella esser ironia, per questo Vergilio suggiunse: <si foemina 
+victa duorum> etc., e il nostro Poeta: ^Tra gli ladron trovai cinque 
+cotali~ etc.
+
+	|6.~  E TU IN GRANDE ORRANZA NON NE SALI, idest, non te ne tieni buona.
+
+	|9.~  AGOGNA, idest, ama e desidera.
+
+	|13.~  SCALEE, idest, scale, aggiunto l'^e~ per la rima.
+
+	|14.~  BORNI sono quelle pietre che avanzano fuori d'alcuno muro, che 
+si lascia imperfetto, per aver da chiavar con l'altro che vuoi fare, il 
+che pare quasi scala.  Narra adunque nel ritorno in che maniera erano 
+andati in gi@u, che a l'andar non l'avea egli detto.
+
+	|17.~  ROCCHI, idest, sassi alti e aguzzi.
+
+	|18.~  LO PI@E SENZA LA MAN NON SI SPEDIA, per che convenia 
+aggrapparmi con le mani.
+
+	|21.~  E PI@U L'INGEGNO AFFRENO CH'IO NON SOGLIO: avendo il Poeta da 
+scriver la bolgia de' malitiosi, nella quale malitia non cascan se non 
+quelli che si confidono troppo ne' loro ingegni, per ci@o ne vole 
+ammonire il Poeta che egli era di quelli ingegni e atto a scappocciar, 
+se non raffrenasse con la ragione.
+
+	|22.~  NON CORRA, avendo detto ^affreno~, e dir@a ^guida~: e perci@o, 
+io l'affreno acci@o non corra, se non @e guidato dalla virt@u;
+
+	|23.~  O MIGLIOR COSA, idest, Dio.
+
+	|24.~  IL BEN, ch'@e l'ingegno, NON M'INVIDI, perch@e, operando quello 
+in male, m'ingegnerei, quasi di quello invidioso, di perderlo e farlo 
+perire.
+
+	|25.~  CH'AL POGGIO SI RIPOSA, idest, che ha stantia da riposar al 
+poggio.
+
+	|26.~  NEL TEMPO CHE COLUI CHE 'L MONDO SCHIARA: questa @e perifrasi 
+del sole;
+
+	|27.~  LA FACCIA SUA A NOI TIEN MENO ASCOSA: e questa @e pur 
+perifrasi, ma della estate; perch@e avenga che stia pi@u sopra il 
+nostro orizonte il sole l'estate, basti quello che dicemmo ieri di 
+sopra.
+
+	|28.~  COME LA MOSCA CEDE A LA ZANZARA: questa @e perifrasi della 
+notte, perch@e la mosca, che vola tutto il d@i, come vien notte, si sta 
+e quasi cede alla zanzara, che @e quella che noi `muson' chiamiamo.  
+Certo Dante f@e male a poner tante perifrasi: l'una dopo l'altra genera 
+un certo fastidio.
+
+	|29.~  VALLEA, idest, valle.
+
+	|34.~  VENGI@O, idest, vendic@o, e fu Eliseo.
+
+	|42.~  E OGNI FIAMMA: dritta penitentia, perch@e la fiamma del suo 
+ingegno e il calore l'han fatte scappucciare; INVOLA, avendo detto 
+^furto~.
+
+	|43.~  SURTO, idest, fermo: tratto dalle navi, che, quando si voglion 
+fermar, sorgono e dicon: <la nave @e sorta>, idest, ferma.
+
+	|46.~  ATTESO, idest, intento.
+
+	|59.~  LA PORTA chiama la rottura fatta per tor il cavallo in terra;
+
+	|60.~  ONDE: non che Enea fugisse per quella porta, ma ^onde~, idest, 
+per cagion di quella porta, perch@e fu la ruina di Troia.
+
+	|67.~  CHE NON MI FACCI DE L'ATTENDER NIEGO, idest, che mi vogli negar 
+di aspettar; ^de l'attender~ adunque, idest, de l'aspettar.
+
+	|78.~  AUDIVI alla latina per la rima.
+
+	|85.~  LO MAGGIOR CORNO, ch'@e quel d'Ulisse.
+
+	|90-91.~  QUANDO MI DIPARTI': il Poeta segue la oppenione d'alcuni, ma 
+Omero e la comune oppenione @e in contrario.
+
+	|94-96.~  N@E DOLCEZZA DI FIGLIO, ch'@e proprio del padre; N@E LA 
+PIETA, che proprio abbiamo al padre; DEBITO AMOR, che si conviene aver 
+alla moglie.
+
+	|101.~  COMPAGNA, idest, compagnia.
+
+	|104.~  ISOLA D'I SARDI: Sardigna.
+
+	|107.~  FOCE STRETTA: intende del stretto gaditano.
+
+	|112.~  O FRATI DISSI: bella oratione fatta ad imitation di Virgilio 
+nel primo de l'^Eneida~: <o sotii> etc.; MILIA, per un ^l~.
+
+	|114.~  PICCIOLA VIGILIA DE' SENSI rimanenti, chiama il viver, che 
+altro non @e che exercitasion d'i sensi, che come moriamo s'adormentano.
+
+	|117.~  IL SOL DEL MONDO SENZA GENTE, idest, de l'altro emisperio.
+
+	|125.~  ALE, e perci@o disse ^volo~, imitando Vergilio, <remigio 
+alarum>; FOLE dice perch@e ne morirno, perci@o disse ^fole~.
+
+	|129.~  MARIN SOLO, idest, del lito marin.
+
+	|131.~  LO LUME ERA DI SOTTO DA LA LUNA: ha il nostro Poeta parlato 
+dottissimamente in questa descrittion di plenilunio.
+
+	|132.~  ALTO PASSO chiama il stretto.
+
+	|133.~  UNA MONTAGNA, e vuole Dante che questa montagna sia quella del 
+Purgatorio.
+
+	|138.~  PRIMO CANTO dice per la proda, per fuggir il fastidio, avendo 
+di sotto a dirlo per proprio nome.

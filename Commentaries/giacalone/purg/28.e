@@ -1,0 +1,786 @@
+	|1-6.  Vago~: l'aggettivo, pur nella sua
+indeterminatezza, messo all'inizio del verso, non solo evidenzia
+l'intensit@a psicologica del desiderio che il pellegrino ha di
+esplorare la divina foresta, ma soprattutto indica il nuovo tema
+narrativo, direttamente legato alla libert@a morale finalmente
+recuperata dal pellegrino, alla sua buona disposizione
+condizionata dallo stato d'innocenza naturale, quale si diffonde
+da questa aura di Paradiso terrestre, fatto proprio per l'umana
+specie.  Pertanto spiega: desideroso, e ben disposto
+spiritualmente (|vago~), di esplorare (|cercar~) in profondit@a
+(|dentro~) e in larghezza (|dintorno~) la foresta creata
+direttamente da Dio (|divina~) folta (|spessa~) e rigogliosa
+(|viva~), che moderava con la sua ombra (|temperava~) ai miei
+occhi la luce del sole (|giorno~: ^diurnum~) da poco spuntato
+(|novo~), senza pi@u alcun indugio, lasciai l'orlo del piano
+(|riva~) cominciando a camminare lentamente per la campagna
+verdeggiante, che odorava (|auliva~: lat. ^ol$ere~) da ogni parte.
+
+	|Divina~: cfr. ^Genesi~, II, 8: <Poi il Signore Iddio
+piant@o un giardino in Eden, ad oriente, e quivi pose l'uomo, che
+aveva formato; e il Signore Iddio fece germogliare dal suolo ogni
+specie di alberi piacevoli d'aspetto, e l'albero della vita in
+mezzo al giardino>.  Pertanto D. chiama divina la foresta
+dell'Eden, che si contrappone alla ^selva selvaggia~; ma non si
+tratta di un'allegoria, bens@i di una rappresentazione figurale,
+dato che essa @e gi@a presente nel racconto biblico, che per D. ha
+valore reale e storico, come prefigurazione di quel che sar@a
+l'Eden biblico-cristiano.  Anche la tradizione pagana, attraverso
+i miti poetici, aveva parlato di un'et@a dell'oro, di regni di
+Saturno, sempre intendendo, sia pure vagamente, questo Eden
+cristiano.  La stessa Matelda, quale presenza animata in questo
+mondo di innocenza remota e di perfezione edenica, @e stata
+prefigurata dalla Vergine Astrea, o Giustizia, secondo la IV
+Egloga virgiliana.  La dittologia e la iterazione aggettivale
+(|spessa e viva; lento lento~), rallentando il ritmo narrativo,
+contribuisce a creare un atmosfera di sospensione e di attesa
+miracolosa, un'aura idilliaca che sembra pur essa incerta tra il
+sogno e la realt@a, tra la visione e la musica; ma che pur
+richiama, indubbiamente, il paesaggio iniziale di quella fresca
+mattina primaverile che @e all'inizio del ^Purg.~
+
+	|Auliva~: nonostante il verbo suggerisca una nota di
+sensazione olfattiva, questo paesaggio non ha nulla di sensorio,
+come certi momenti della poesia rinascimentale e secentesca,
+perch$e qui l'idillio stesso @e avvolto in un'atmosfera religiosa,
+che prelude al divino.  @E pur esso un elemento di quella
+perfezione della natura umana restaurata in D. pellegrino e
+ritrovata alla fine dell'ascesa faticosa della montagna.
+
+	|7.  Un'aura~: la descrizione idillica della natura
+avviene per elementi sovrapposti, per tessere che si accostano
+l'una all'altra, in una gradualit@a, sempre pi@u spiritualizzata,
+di sensazioni visive, musicali, olfattive, che traducono ad un
+tempo i movimenti e i segni di animazione, mentre scandiscono il
+lento indugiarsi del pellegrino in quell'atmosfera di silenzio
+sospeso e senza tempo, di solitudine senza malinconia, di
+contemplazione senza parola.  La presenza del pellegrino @e
+rilevata soltanto attraverso la carezza dell'aura dolce, come
+lieve colpo di vento soave.  Ma noi ci accorgiamo che tutti
+quegli elementi della natura, dalla vegetazione rigogliosa al
+canto degli uccelli, <parlano di una umana perfezione, di una
+felicit@a irrimediabilmente svanita> (Quaglio, ^Il c. XXVIII del
+Purg.~ in <Lect. scalig.>, Firenze, 1963, p. 1042).  Senza la
+presenza di D. pellegrino, che @e giunto a quella perfezione
+naturale, dopo il lungo travaglio dell'espiazione, senza le
+premesse scritturali di quell'Eden perduto dall'uomo, questa
+descrizione idilliaca sembrerebbe un preziosismo letterario; ma
+per l'incantato stupore di D. essa assume un valore figurale che
+giustamente coincide con quanto D. afferma nella ^Monarchia~, la
+^beatitudo huius vite~, che @e preparazione alla ^beatitudo vite
+eterne~; luogo di transizione (Tommaso, ^S. Th.~ III, Sp. 67, 7),
+distinto e separato tanto dal Purgatorio quanto dal Paradiso. 
+<Il canto XXVIII affresca e chiude paesaggisticamente il perduto
+regno della felicit@a: ma non si esaurisce nella celebrazione
+composta della natura vergine e beata: @e incantevole scenario ad
+un dramma d'amore> (Quaglio, ^l.c.~ {^Il c. XXVIII del Purg.~ in
+<Lect. scalig.>, Firenze, 1963}, 1061).  Gli stilemi classici ci
+d@anno la misura di un innalzamento di stile, di una solennit@a
+quasi sacra: ^dulcis aura~, Virg. ^Georg.~ IV, 417. 
+
+	|8-12.  fronte~: un'aura dolce, costante di intensit@a e
+direzione (^sanza mutamento~) mi colpiva sulla fronte (quella
+stessa fronte che prima portava incisi i sette P.) con un urto
+non maggiore (|non di pi@u colpo~) di quello di un venticello
+soave; per cui le fronde si piegavano prontamente (|pronte~:
+docili) e docilmente, tremolanti (|tremolando~), tutte quante
+verso quella parte dove (|u'~: lat. ^ubi~) il Purg. proietta
+(|gitta~) la sua ombra al primo sorgere del sole (|prima~).  Cfr.
+Ovidio, ^Metam.~ XV, 396: <^tremulaeque~ cacumine palmae>. 
+|santo monte~: <Qui il tempo dell'attesa finisce, e comincia
+quello della vaghissima pace.  Ora non appare pi@u nemmeno il
+vestigio della montagna brulla ed erta ed aspra, ma una distesa
+piana, fresca di acque e di piante e tutta un sorriso di fiori,
+di odori, di canti.  Ancora, s@i, appaiono le forme e gli aspetti
+della terra, ma mutate sono, profondamente le condizioni di
+quelle forme e di quegli aspetti.  Ed @e questa paradisiaca
+mutazione che opera un primo distacco dalla terra e dalle
+condizioni che sono riserbate a chi ancora porta il peso d'Adamo>
+(Chiari, ^Preludio al Paradiso dantesco~, in <Lett. intern.> a
+cura di Vettori, Milano, 1965, p. 313).  D. oggettiva il suo
+mutamento spirituale, la sua raggiunta perfezione umana, il suo
+stato di beatitudine terrena, che @e preludio e condizione di
+quella celeste a cui egli tende ansiosamente.
+
+	|13-15.  non per@o~: ma non per questo (|per@o~) le fronde
+venivano allontanate (|sparte~: da ^spartire~, separare),
+piegandosi, dalla loro posizione naturale (|dal loro esser
+dritto~) e normale, tanto che gli uccelletti sulle cime degli
+alberi dovessero tralasciare (|lasciasser~), a causa del vento,
+la loro arte di cantare e saltare (cio@e di assecondare
+naturalmente il loro istinto).  Properzio, ^Eleg.~ <volucres
+nulla dulcius arte canant>.
+
+	|16-18.  ma~: ma con piena letizia accoglievano le prime
+ore (|l'ore~: @e vero che l@i il venticello @e costante e continuo,
+ma se si tien conto della continuazione del discorso precedente,
+si pu@o intendere anche ^le aure di primo mattino~) del giorno,
+cantando, tra le foglie che col loro tremolio facevano
+accompagnamento (|bordone~: @e suono permanente e uniforme; ed @e
+pure la canna o la corda che negli strumenti musicali aveva tale
+ufficio: Del Lungo; ma tutta la frase vale: accompagnare con note
+basse una melodia) ai loro canti (|rime~).
+
+	|19-21.  tal qual~: tale accompagnamento @e (^bordone~)
+quale si compone (|si raccoglie~) passando da un ramo ad un altro
+(|di ramo in ramo~) nella pineta di Classe (antico porto di
+Ravenna, lat. ^classis~) quando soffia Scirocco (lett. quando
+Eolo, re dei venti, libera dalla grotta Scirocco).  <Il grande
+equilibrio dell'umano e del divino si rispecchia nel vocabolario:
+non un termine che sia particolarmente sensibile e acceso, ma una
+singolare moderazione di accenti; la scena del paradiso
+terrestre, che @e umana e concreta, si sublima in una grande
+temperanza di toni> (Malagoli, ^comm.~ 261).  Aggiungerei che
+elementi classici, stilnovistici e biblici, sono cos@i
+armonicamente fusi, da costituire una nuova forma poetica
+dantesca, in cui il figuralismo medievale raggiunge
+un'eccezionale sensibilit@a descrittiva e musicale; una poesia,
+che si differenzia da quella del Paradiso e anche da quella del
+Purgatorio stesso, quasi in un tono mitico e favoloso, in cui la
+storia dell'uomo si concretizza in paesaggio e visione, senza che
+si avverta la minima contaminazione del sacro col profano, perch$e
+in fondo la figurazione pagana dell'et@a dell'oro @e ora richiamata
+in causa come anticipazione di questa foresta, che @e ^figura
+impleta~ della massima perfezione appetibile in terra dall'uomo.
+
+	|22-24.  Gi@a~: gi@a i miei passi lenti mi avevano fatto
+penetrare nella selva che fu la dimora dell'uomo nel suo
+primitivo stato d'innocenza (|antica~: ^da antea~), tanto che io
+non riuscivo a vedere da che parte fossi entrato in essa (|mi
+'ntrassi~).  Evidenzia lo stato di estasi contemplativa e
+l'atmosfera sospesa e stupefatta di questo paradiso terrestre,
+simbolo della primitiva innocenza e perfezione umana.
+
+	|25-27.  ed ecco~: esprime la meraviglia ed anche la
+variazione tonale-narrativa: quand'ecco un fiumicello (|rio~), il
+Let@e, mi imped@i (|mi tolse~) di andar oltre; un |rio~ che piegava
+verso sinistra con le sue acque che scorrono lievemente
+(|picciole~) l'erba che era spuntata (|usc@io~) sulle sue rive. 
+<L'approdo di D. a tale luogo santo va figuralmente interpretato
+quale personale conquista di perfezione umana, come tappa, entro
+un pi@u vasto processo di redenzione, verso la contemplazione del
+Creatore> (Quaglio, ^l.c.~ {^Il c. XXVIII del Purg.~ in <Lect.
+scalig.>, Firenze, 1963}, p. 1046).
+
+	|28-33.  Tutte l'acque~: tutte le acque che sulla terra
+(|di qua~) sono pi@u limpide (|monde~) parrebbero (|parrieno~)
+aver~ in s$e qualche impurit@a (|mistura~), cio@e torbide, rispetto
+(|verso~), a confronto di quella del Lete che @e assolutamente
+trasparente fino al suo fondo (che non nasconde nulla del suo
+fondo), sebbene (|avvegna che~) scorra (|si mova~) sempre oscura
+(|bruna bruna~) sotto l'ombra fitta e perpetua, che non lascia
+penetrare mai vivi i raggi n$e del sole n$e della luna.  Questo
+fiumicello @e un particolare efficacissimo che ci riporta alla
+consueta dialettica narrativa terra-oltremondo, realt@a-sogno.
+
+	|34-36.  ristetti~: mi fermai coi piedi, ma con lo
+sguardo, intensamente disideroso di osservare, oltrepassai quel
+fiumicello, per contemplare la grande variet@a dei rami fioriti
+(|mai~: ramo adorno di fiori, che la mattina del calendimaggio la
+gente era solita portare in casa per adornare usci e finestre). 
+Non si tratta soltanto di un ricordo, sia pure rapido e fugace di
+una tradizione toscana cui era legato anche il poeta, come del
+resto @e anche la pineta di Ravenna, indubbiamente visitata
+durante il suo esilio, bens@i di un raffronto che immediatamente
+si stabilisce nella mente del lettore tra <quella che sulla terra
+@e breve stagione fuggitiva, e qua @e condizione permanente di
+vita.  Il rigoglio di maggio qui si perpetua senza fine, giorno
+dopo giorno, e germogli, fiori, virgulti, piante d'ogni specie
+^gitta sanza seme~ questa terra miracolosa: ^ver erat aeternum,
+placidique tepentibus auris Mulcebant zephyri natos sine semine
+flores~, canta nel I delle ^Metamorfosi~ (391-94) Ovidio,
+sognando della favolosa et@a dell'oro> (T. Nardi, ^Il c. XXVIII
+del Purg.~, S.E.I., 1963, p. 8).  @E chiaro che il primo stimolo
+di questo mirabile passo idillico, che poi sar@a modello ai poeti
+del Rinascimento, dal Boccaccio all'Ariosto, fino al Tasso, sia
+stato offerto al poeta dalla poesia classica della ^IV Egloga~ di
+Virg. e dal I delle ^Metam.~ di Ovidio.  La stessa Matelda nasce
+pi@u da quel mito di Astrea, la ^Virgo~ di Virgilio, che non da un
+rapporto figurale con un autentico personaggio storico.
+
+	|37-42.  m'apparve~: cos@i come appare all'improvviso
+(|subitamente~) una cosa che distoglie la mente di chi la vede
+(|disvia~), a causa della meraviglia che suscita, ogni altro
+pensiero, l@a mi apparve (cio@e sulla riva opposta) una donna (si
+badi al termine che in D. ha il valore di ^domina~ nel senso pi@u
+spiritualizzato possibile, secondo la teoria stilnovistica) tutta
+sola (|soletta~: intensivo, pi@u che diminutivo) che si muoveva (|si
+gia~) cantando e cogliendo fiori di cui era cosparsa (|pinta~)
+del tutto la sua via.  Cavalcanti aveva cantato: <^sola sola per
+lo bosco gia~>), fissando nel genere provenzale della pastorella,
+una caratteristica tonale, di cui qui D. si avvale, su di un
+piano pi@u spiritualizzato.  <Tanti di questi giardini, boschetti,
+selvette, pratelli e pastorelle e pulzellette belle e coglienti
+fiori e danzanti e cantanti si erano avuti anche di recente nella
+lirica provenzale e italiana; e D. ripiglia il comune motivo e lo
+svolge, con gran diletto, in una nuova forma di squisita
+perfezione, in cui il fascino della giovent@u, della bellezza,
+dell'amore e del riso si esalta in ogni immagine> (Croce, ^La
+poesia di D.~, ed. cit. p. 121).  Ma qui <la figura si colloca
+nel paesaggio e ne esprime il sentimento come se nascesse
+spontaneamente da quella condizione di beata armonia e di
+sognante attesa> (Sapegno, ^comm.~ 314).
+
+	|Fior da fiore~: cfr. Cavalcanti <^cantava~ come fosse
+innamorata> <^sola sola per lo bosco gia ~> <per prata e per
+rivera Gaiamente ^cantando~>.  Motivo paesaggistico e
+primaverile, gi@a ampiamente stilizzato nella poesia
+tr{o}badorica, ma che qui <affresca e chiude il perduto regno
+della felicit@a; infatti non si esaurisce nella celebrazione
+composta della natura vergine e beata: @e piuttosto incantevole
+scenario a un dramma d'amore> (Quaglio, ^l.c.~ {^Il c. XXVIII del
+Purg.~ in <Lect. scalig.>, Firenze, 1963}, 1061).  Questa natura
+virginea di D. non @e ancora quella degli umanisti, sintesi di
+umano e divino, metafora descrittiva di un conciliato rapporto
+idilliaco tra cielo e terra, @e, piuttosto, intesa come ^figura~
+della conquista spirituale di perfezione umana, vera e propria
+tappa (o luogo di transizione) di questo spirituale itinerario
+dantesco verso la contemplazione del Creatore; prefigurazione,
+quindi del cielo, e non approdo finale del cammino dell'uomo. 
+Ma, indubbiamente, la descrizione di questo Paradiso Terrestre
+avr@a contribuito, in modo emblematico, alla poesia idilliaca del
+Rinascimento in quel palpito unisono che ivi si stabilisce tra
+uomo e natura.  D. come uomo medievale non poteva che collocare
+un tale mondo in una zona fantastica intermedia tra terra e
+cielo; i poeti del Rinascimento, invece, esaltavano questo nostro
+mondo come unico paradiso possibile all'uomo sulla terra.
+
+	|43.  d'amore~: ai raggi dell'amore spirituale.  Matelda,
+concepita come simbolo di questa primitiva perfezione dell'uomo
+nel suo stato d'innocenza edenica, che @e premessa e condizione
+per ascendere al Paradiso, non potrebbe esser accesa che di amore
+di carit@a.  Ma il poeta la descrive con una tensione lirica e
+musicale tipica della poesia stilnovistica.
+
+	|44-48.  s'i' vo'~: se io debbo credere all'espressione del
+tuo volto e dei tuoi occhi (|sembianti~), che rivelano il
+sentimento del tuo divino amore (|core~), compi@aciti (|vegnati
+in voglia~) di accostarti a questo fiume (|rivera~), tanto che io
+possa intendere quello che tu canti, le parole che canti.  Cfr.
+^Vita nova~: <^lo viso mostra lo color del core~> (XV, 5); <^ne
+li occhi porta la mia donna amore ~> (XXI, 2).  L'invito di D.,
+pur nell'accento della sua timidezza, rivela l'intensit@a del suo
+desiderio di poter penetrare pienamente nel mistero di quella
+beatitudine, che affascina tanto i suoi sensi (occhio, udito,
+olfatto), quanto il suo spirito.
+
+	|49-51.  rimembrar~: tu mi fai ricordare il luogo
+(|dove~) in cui si trovava (il bosco di Enna in Sicilia) e |qual
+era~, giovane, bella e felice, Proserpina, quando (|nel tempo~)
+fu rapita da Plutone, e la madre Cerere perdette lei, ed essa
+perdette la primavera eterna, in cui si trastullava; il Lana ed
+altri intendono per |primavera~ i fiori che essa aveva colti e
+che le caddero dal grembo al momento del ratto.  Il richiamo
+diretto @e: Ov. ^Metam.~ V, 397 <^collecti flores tunicis cecidere
+remissis~>).  |lei, ed ella~: il costrutto, oltre a rendere pi@u
+ricercato lo stile, mette in risalto <il mirabile contrappunto
+elegiaco della squisita favola di Cerere e Proserpina> (son
+parole del Quaglio {^Il c. XXVIII del Purg.~ in <Lect. scalig.>,
+Firenze, 1963}), in cui @e quasi implicito il rimpianto
+dell'umanit@a per la felicit@a del Paradiso Terrestre perduto, come
+la primavera eterna fu perduta da Proserpina, e non per sua
+deliberata volont@a.  Si direbbe che il mito ovidiano, lungi
+dall'esser qui un insistente e inopportuno richiamo retorico ed
+erudito, solennizza non solo il dolore di Cerere per la perdita
+della figlia, ma anche, attraverso quel dolore inteso
+figurativamente, il rimpianto dell'uomo per la perdita di
+Proserpina-Matelda, simbolo che si confonde con la virt@u dell'uomo
+allo stato edenico.  <Lo stile del colloquio D.-Matelda acquista
+solennit@a sulle linee descrittive, via via pi@u pallide, dello
+spazio esterno, ormai stilizzato per accenni> (Quaglio, ^l.c.~
+{^Il c. XXVIII del Purg.~ in <Lect. scalig.>, Firenze, 1963},
+1050).
+
+	|52-57.  si volge~: come una donna che danzi si gira
+senza alzare le piante dei piedi da terra (|con le piante strette
+a terra~: con le piante dei piedi aderenti a terra, quasi
+strisciando sul suolo) e tenendole strette, unite tra loro, l'una
+all'altra (secondo il costume medievale della danza), e fa passi
+brevissimi, mettendo piede innanzi piede, cos@i Matelda si volse
+in mezzo ai vermigli e gialli fiori verso di me non diversamente
+da una fanciulla che abbassi gli occhi con atteggiamento pudico
+(|onesti~).  Cfr. Stazio, ^Theb.~ II, 30 {=230}: <Ibant insignes
+vultuque habituque verendo, Candida purpureum fusae super ora
+ruborem {=pudorem?}, Deiectaeque genas>.  Il ricordo classico, al
+solito, conferisce solennit@a quasi rituale e sacra all'incidere
+composto e pudico della fanciulla, qui paragonata ad una
+danzatrice medievale, il cui costume avr@a certamente lasciato una
+forte impressione nella mente di D.  Ed @e proprio questo continuo
+accostamento, di riferimenti terreni e mitologici al tema
+descrittivo, che conferisce alla scena un senso idillico ed
+elegiaco insieme.
+
+	|58-60.  e fece~: e, avvicinandosi (|appressando s$e~) a
+me in modo che la dolce musica (|suono~) del suo canto era
+percepita da me insieme con le parole, ora fattesi intelligibili
+(|intendimenti~: senso ci@o che s'intende, il concetto),
+soddisfece (|fece contenti~) la mia preghiera, appag@o il mio
+desiderio.
+
+	|61-63.  Tosto che~: non appena fu sulla sponda del fiume
+(|l@a dove le erbe sono bagnate dalle acque del fiume~), mi fece
+grazia (|dono~) di alzare gli occhi verso di me.  Il tema degli
+occhi della danzatrice preludeva a questo motivo di solenne
+contemplazione e di casta compostezza, con cui @e raffigurata la
+pudica bellezza di Matelda in quell'aura di perfezione e
+d'innocenza edenica.
+
+	|64-66.  non credo~: non credo che risplendesse una s@i
+gran luce negli occhi (|sotto le ciglia~) di Venere, quando
+s'innamor@o di Adone, dopo esser stata trafitta da Cupido a caso
+senza volerlo, cio@e in modo diverso dalle sue abitudini, poich$e
+l'Amore in genere colpisce deliberatamente le sue vittime,
+tirando l'arco.  Il riferimento mitologico (cfr. Ov. ^Metam.~ X,
+525-26), di Venere trafitta d'amore in una tragica vicenda di
+morte, non solo conferisce solennit@a al lampeggiare di quegli
+occhi della |bella donna~, ma sopratutto mira ad evidenziare,
+ancor pi@u della favola di Proserpina-primavera, il rimpianto di
+una felicit@a perduta.  Dal mito di Proserpina a questo di Venere
+fino a quello di Ero e Leandro c'@e come un crescendo
+contrappuntistico di questa elegia del paradiso perduto.
+
+	|67-68.  ridea~: essa mi sorrideva dall'altra riva del
+Let@e, senza piegarsi a cogliere fiori (|dritta~: potrebbe
+significare anche: proprio dirimpetto a me), intrecciando
+(|trattando~: disponendo con le mani, intrecciando, cfr. Parodi)
+con le mani fiori di vari colori (|pi@u color~) che il Paradiso
+terrestre, la terra pi@u alta del mondo, produce (^gitta~) senza
+bisogno di seme.  Il ritratto di Matelda @e fissato sopratutto in
+una sequenza di movimenti e di atteggiamenti particolari
+delicatissimi (^cantando e scegliendo fior da fiore~)
+(^appressando~ s$e) (^volsesi in su i vermigli e in su i gialli
+fioretti~) (|ella ridea... trattando pi@u color con le sue mani~),
+in una pittura di grazia muliebre, la cui castit@a irradia col suo
+sorriso tutt'attorno nel paesaggio paradisiaco un incantesimo
+stilnovistico, che la innalza in un'atmosfera serena e festosa,
+reale ed insieme fantastica, ove il simbolo da lei incarnato si
+adegua a quel mondo di perfezione umana e terrena, vagheggiato e
+perduto dall'uomo.
+
+	|69.  sanza seme~: cfr. Ov. ^Metam.~ I, 1O8: <^natos sine
+semine flores~>; Virg. ^Eclog.~ VIII, 77: <^necte tribus nodis
+ternos, Amarylli, colores~>.  Questi elementi classici, lungi
+dall'essere richiami eruditi, contribuiscono a solennizzare
+sempre di pi@u la scena descrittiva, tanto pi@u se si pensa che qui
+l'impasto di stilemi classici si tempera con immagini bibliche,
+come se tanto il Vecchio Testamento quanto la mitologia antica
+fossero prefigurazioni fantastiche di questa realt@a edenica, cui
+l'uomo anela per suo istinto naturale e virgineo.  Cfr. ^Genesi~,
+I, 29: <Iddio disse ancora: Ecco, io vi d@o ogni pianta che fa
+seme, su tutta la superficie della terra e ogni albero
+fruttifero, che fa seme: questi vi serviranno per cibo>.  D. non
+inventa questo Paradiso terrestre, ma lo ricostruisce secondo il
+significato religioso della ^Bibbia~ e l'aspirazione antica della
+poesia classica che favoleggiava di un'et@a dell'oro, felice e
+casta, giusta e onesta, come lo stato della primitiva innocenza
+umana.
+
+	|70.  Tre passi~: il fiume ci teneva lontani, l'un
+l'altra, di tre passi soltanto.  Il Buti, seguito da altri
+commentatori moderni, crede che i |tre passi~ abbiano un
+significato allegorico, quasi in relazione con i ^tre gradi~
+della porta del Purgatorio; ma non si riesce a cogliere la
+necessit@a di tale interpretazione.
+
+	|71-72.  ma~: ma l'Ellesponto attraverso il quale (|l@a
+'ve~) su un ponte di navi pass@o Serse, esempio atto a frenare
+(|freno~) tutti gli eccessi dell'orgoglio umano (in quanto Serse,
+una volta sconfitto, dovette ripassarlo in fuga con una povera
+barca di pescatore), non fu odiato (|pi@u odio non sofferse~) da
+Leandro, a causa del suo mareggiare, per il suo forte ondeggiare
+tra le due rive opposte di Sesto e Abido, pi@u di quanto non fosse
+odiato da me quel piccolo fiume Let@e, perch$e allora non si apr@i,
+per lasciarmi passare e giungere fino a Matelda.
+
+	|73-75.  Leandro~: narra Ovidio (^Heroid.~ XVIII, 139)
+che Leandro, ogni notte, si recava a nuoto da Abido a Sesto,
+sulla sponda opposta dell'Ellesponto, per trovare la sua amata
+Ero; ma talvolta le onde agitate del mare gli impedivano, con suo
+grande rammarico, di attraversarlo per raggiungere la sua amata,
+finch$e una volta vi anneg@o.  <Il desiderio d'amore di Leandro
+s'infrange contro i confini naturali con la medesima carica
+emotiva con cui D. s'arresta impaziente sulla sponda del fiume. 
+La fruizione dell'antica mitografia si iscrive in un preciso
+disegno di rispondenze... e D. prepara in tal modo quella
+contaminazione con l'et@a dell'oro, che equivarr@a, sul finire del
+canto, ad un rinnovamento della tradizione stilnovistica>
+(Quaglio, ^l.c.~ {^Il c. XXVIII del Purg.~ in <Lect. scalig.>,
+Firenze, 1963}, 1052).  Anche la reminiscenza storica di Serse,
+secondo noi, si inserisce opportunamente in quel tessuto poetico,
+se si pensa che essa appare anche nella ^Monarchia~ (II, viii, 7)
+quale esempio di umana superbia, in contrasto con i decreti della
+Provvidenza divina che ha permesso a D. pellegrino di giungere
+fino al Paradiso terrestre.
+
+	|76-79.  Vol siete nuovi~: finalmente Matelda parla,
+chiarificando subito a D. la natura privilegiata di quel paradiso
+e la sua particolare funzione.  Pertanto viene qui ripreso il
+motivo iniziale del ^Purg.~ che fa anche di D. pellegrino un
+viandante inesperto di quel luogo di transizione che @e tutta
+quanta la santa montagna.  Spiega: voi siete inesperti, perch$e
+arrivati or ora, di questo luogo, e forse per il fatto che io vi
+appaio sorridente di letizia in questo luogo, in questo paradiso
+terrestre, destinato (|eletto~) da Dio all'uomo (|a l'umana
+natura~) come sede naturale (|nido~), vi meravigliate e insieme
+rimanete in dubbio (|sospetto~), in quanto non sapete rendervi
+conto.  <Della concezione figurale del Paradiso terrestre (luogo
+perfetto dell'umana natura) Matelda @e la rappresentazione fatta
+persona, l'idea divenuta creatura, quasi mito della primitiva
+felicit@a cristillizzato nella virt@u dell'umana bellezza,
+eternamente scolpita.  Ella @e la voce del luogo perfetto
+assegnato da Dio ad Adamo ed Eva...  Matelda pi@u ancora che
+personaggio storico, @e ^figura~ di una verit@a provvidenziale, @e
+realt@a terrena inserita nel disegno, per D. pi@u importante,
+dell'aldil@a: perci@o senza perdere i suoi umani contorni, attua in
+s$e la terrestre missione, che fu, per via contingente, divina
+profezia> (Quaglio, ^l.c.~ {^Il c. XXVIII del Purg.~ in <Lect.
+scalig.>, Firenze, 1963}, 1056).  Il Grabher intende
+|maravigliando~ come part. pres.: vi tiene meravigliati.
+
+	|80-81.  ma luce~: il senso @e: io sono lieta per l'opera
+meravigliosa della creazione divina.  Lett. pu@o illuminare la
+vostra mente, liberandola da ogni dubbio, il versetto del salmo
+che dice |Delectasti.~  Cfr. ^Salmo~ XCI, 5: <Mi hai rallegrato, o
+Signore, con le cose fatte da te, ed io esulter@o nelle opere
+delle tue mani>.  Lo stupore dei poeti era giustificato dal fatto
+che Matelda, dimentica affatto della colpa dell'uomo e della
+conseguente perdita della sua naturale dimora, possa mostrarsi a
+loro cos@i sorridente e felice; ma dalla sua risposta appare
+chiaro ormai che quella sua felicit@a muove dalla contemplazione
+del luogo santo ed @e anche una manifestazione di ringraziamento e
+di lode al Creatore.  Anche questa @e poesia di intimi e segreti
+sentimenti spirituali, in cui umano e divino acquistano una
+suggestione elegiaca.
+
+	|82-84.  E tu~: tu che sei dinanzi agli altri due poeti
+(Virg. e Stazio) e mi hai pregato, dimmi se vuoi saper altro,
+perch$e io son venuta pronta (|presta~) a rispondere a ogni tua
+domanda (|question~) in modo da lasciarti soddisfatto interamente
+(|tanto che basti~).  Dal descrittivo-narrativo ora si passa al
+dialogato vero e proprio con una palese intenzione didascalica
+circa uno dei temi dottrinari che pi@u appassionavano i teologi e
+Padri della Chiesa, cio@e le qualit@a sostanziali del Paradiso
+terrestre.
+
+	|85-87.  L'acqua~: lo scorrere dell'acqua del fiume e lo
+stormir delle fronde della foresta combattono dentro di me
+contrastando (|impugnan~) la credenza (|fede~) recentemente da me
+accettata (|novella~) secondo le parole di Stazio (^Purg.~ XXI,
+46-54), che cio@e al di sopra della porta del Purg. non ci
+potessero essere alterazioni atmosferiche; credenza che ora
+contrasta con la cosa che qui ora vedo (|contraria a questa~),
+infatti qui c'@e vento, se si ode lo stormir delle fronde, e deve
+cadere la pioggia se c'@e un fiume.  La ^questione~ che qui D.
+pone a Matelda @e indubbiamente legata agli schemi della logica
+scolastica e dottrinale; quindi redatta in termini rigidi e
+severi, come tutti i problemi che erano allora oggetto di
+discussione teologica.  Ci@o, per@o, non toglie nulla al tono di
+quella poesia di letizia naturale e di paesaggio edenico, la cui
+vita miracolosa, anzi, appare ora pi@u chiara all'intelletto. 
+Stazio aveva detto bene, ma, avendo D. compreso male le qualit@a
+apparenti del Paradiso terrestre, Matelda non fa che confermare
+quanto Stazio aveva detto, spiegando le ragioni miracolose di
+quella natura.  Matelda, in un certo senso, integra e completa
+quel che Stazio aveva detto, e in tal modo prepara D.
+all'incontro con Beatrice.
+
+	|88-90.  dicer@o~: dir@o come tutto ci@o che qui ti fa
+meravigliare (|ammirar~) deriva (|procede~) da una sua
+particolare causa (|per sua cagion~), che ovviamente @e diversa da
+quella che tu supponi, e dissiper@o (|purgher@o~) l'ignoranza, il
+dubbio (|nebbia~) che colpisce e offusca (|fiede~) il tuo
+intelletto, generando la tua meraviglia, il tuo stupore. 
+|Nebbia~ continua la metafora del ^disnebbiar~ che @e al v. 81.
+
+	|91-92.  Lo sommo Ben~: Dio, che ha piacere solo di se
+stesso in quanto non pu@o avere un fine al di fuori di se stesso,
+essendo essere perfettissimo e bene assoluto, cre@o l'uomo buono
+(nel suo stato di innocenza dotato di beni naturali, come
+l'intelletto, e di beni preternaturali, come l'immortalit@a, e di
+beni soprannaturali, come la grazia) e atto ad operare il bene
+(|e a bene~).  Cfr. ^Genesi~, I, 31: <E Iddio vide tutto quello
+che aveva fatto, ed ecco, era molto buono>.
+
+	|93.  diede~: assegn@o all'uomo questo luogo, questo
+Paradiso terrestre (immune dalle perturbazioni atmosferiche),
+come caparra (|arra~), anticipazione dell'eterna beatitudine
+(|pace~), che poi gli avrebbe concessa nel Paradiso celeste. 
+Cfr. ^Genesi~, II, 15: <Il Signore Iddio prese l'uomo e lo pose
+nel giardino di Eden, perch$e lo coltivasse e lo custodisse>.  Si
+osservi la stretta aderenza al testo biblico-figurale nelle
+parole di Matelda.  Non si dimentichi che la ^Commedia~ di D. @e
+una specie di ^Bibbia~ illustrata per un pubblico colto e capace
+di ricevere suggestioni e stimoli per una riforma del vivere
+sociale e civile.
+
+	|94.  Per sua difalta~: per sua colpa (|difalta~: dal
+franc. ^d$efaut~, che a sua volta deriva dal lat. ^defallita~, da
+^fallere~, mancare; quindi prop. ^mancanza~, come in Malispini,
+I, 155: <Si trov@o la detta armata del re Carlo male provveduta e
+con ^diffalta~ di vettovaglia>; ^mancato pagamento~, come in
+^Testi fior.~ dello Schiaffini, 251: <Diedi i quali ne dee dare
+meser lo Re per la ^difalta~ de' Giudei d'Alvernia, che li ne
+rabatter@a del conto della Tusanti ano ottanta otto>).  Allude
+alla colpa di Adamo che perdette il Paradiso terrestre per aver
+disobbedito alla legge divina che gli vietava di mangiare i
+frutti dell'albero della conoscenza del bene e del male
+(^Genesi~, III, 1).  Il problema del tempo della dimora di Adamo
+nel Paradiso terrestre sar@a ripreso in ^Par.~ XXVI, 139-42, e
+sar@a precisato in circa sette ore.
+
+	|95-96.  per sua difalta~: la ripetizione mira a mettere
+in risalto con una certa forza oratoria la responsabilit@a
+dell'uomo.  Spiega: per sua colpa cambi@o, mut@o in pianto (in
+infelicit@a in seguito al male) e in faticose cure della lotta per
+l'esistenza (|affanno~) la felicit@a del suo stato d'innocenza
+(|onesto riso~) e la serena e facile esistenza derivante dalla
+beatitudine del Paradiso terrestre (|dolce gioco~).  Il rimpianto
+della natura umana nella sua felicit@a e perfezione, prima motivo
+elegiaco sottinteso nella stupita ammirazione di D. pellegrino,
+ora diventa oggetto esplicito di accusa all'uomo peccatore
+attraverso le parole di Matelda.
+
+	|97-102.  Perch$e~: affinch$e non dessero molestia
+(|guerra~) all'uomo le perturbazioni che sotto il monte del
+Purgatorio (|sotto da s$e~) producono i vapori (|l'essalazion~)
+dell'acqua e della terra (cio@e, venti, piogge, terremoti), i
+quali vapori tendono a salire quanto pi@u possono dietro al calore
+del sole, questo monte s'innalz@o tanto verso il cielo, e perci@o @e
+libero da esse dal punto (|d'indi~) dov'@e la porta (|ove si
+serra~).  Tra le tante tesi medievali, D. accetta quella di S.
+Bonaventura che ubicava il Paradiso terrestre nella zona pi@u alta
+della terra, immune da qualsiasi perturbazione atmosferica.  Ma,
+indubbiamente, la sua descrizione paesaggistica rispondeva ad
+un'esigenza estetica e morale che gli faceva concepire quella
+vetta come luogo di innocenza e di incontaminata purezza, di
+armonia naturale e spirituale.  Incontaminato paesaggio come
+degna atmosfera di un uomo ancora innocente: preludio della
+beatitudine celeste in un mondo di beatitudine terrestre.  Per D.
+e per i suoi contemporanei il mito biblico dell'Eden non @e
+<realt@a puramente fantastica, ma realt@a fisica, da scoprire e da
+dimostrare> (Nardi, ^Studi di fil. dant.~, cit. p. 356).
+
+	|Sal@io~: secondo un'antica concezione ebraico-cristiana
+l'Eden era situato in cielo sopra il firmamento, <solo in
+seguito, per influsso della cosmologia greca, i teologi
+trasferirono il ^paradisus voluptatis~ dal cielo in terra,
+collocandolo sulla cima d'una montagna che svetta altissima fin
+quasi a sfiorare il cielo della luna> (T. Nardi, ^l.c.~ {^Il c.
+XXVIII del Purg.~, S.E.I., 1963}, 20), come aveva, tra gli altri
+affermato Pietro Lombardo, il quale lo collocava remoto e diviso
+dalle regioni abitate da un vasto tratto di oceano e da una
+barriera di monti.  A causa della sfericit@a della terra,
+divulgata dalle dottrine aristoteliche nel sec. XIII, i teologi,
+tra cui S. Tommaso e Alberto Magno, ritennero opportuno limitare
+l'altezza di quella montagna fino alla prima zona dell'aria,
+quella temperata, l'unica adatta alla costituzione fisica
+dell'uomo.  D. non accetta tale tesi e la colloca nella terza
+regione, cio@e nello stato pi@u alto dell'atmosfera, oltre le nubi,
+dove non cade pioggia, neve, grandine e dove non giungono le
+perturbazioni sismiche della terra, seguendo in ci@o S.
+Bonaventura, Pietro di Tarantasia (^In II Sent.~ XVII, II, 2) e
+Alessandro di Hales.  <Ma non bisogna dimenticare che la
+figurazione dantesca dell'oltretomba, pi@u che svilupparsi dalle
+leggende che l'hanno preceduta (cristiane e non) si riallaccia
+direttamente ai Sacri Testi e alla tradizione classica e in
+particolare all'^Eneide~.  @E fuor di dubbio che nell'immaginare
+il Paradiso terrestre D. ha in mente l'Eliso virgiliano, al quale
+guarda come ad una realt@a da precisare pi@u che da imitare,
+giacch$e a Virg. tale realt@a non poteva essere apparsa che confusa
+e deformata> (T. Nardi, ^l.c.~ {^Il c. XXVIII del Purg.~, S.E.I.,
+1963}, 22).  Del resto tutto il viaggio di D. <dall'entrata
+nell'Inferno all'ascesa al Paradiso terrestre si sviluppa
+consapevolmente sulla linea essenziale del viaggio di Enea al
+Tartaro e ai Campi Elisi> (B. Nardi, ^Dal Convivio alla
+Commedia~, Roma, 1960, p. 357).
+
+	|103-108.  Or perch$e~: poich$e l'atmosfera (|l'aere~)
+tutta quanta si volge nel suo giro (|in circuito~) attorno alla
+terra, insieme con il Primo Mobile (o secondo altri, il cielo
+della luna o la sfera del fuoco: |prima volta~), se il suo giro
+(|cerchio~) non @e impedito (|rotto~: interrotto) da qualche parte
+o ostacolo (|d'alcun canto~), tale movimento dell'atmosfera (|tal
+moto~) urta (|percuote~) contro la cima di questa montagna (|in
+questa altezza~), la quale @e del tutto (|tutta~) disciolta,
+libera e protesa nell'aria in movimento (|ne l'aere vivo~: per
+altri: aere puro, non turbato da alterazioni), e, producendo il
+vento, fa stormire la selva che @e spessa e piena di fronde
+(|folta~).  Il vento, dunque, non si genera da vapori terrestri,
+bens@i dall'urto dell'atmosfera circolante con la cima del monte. 
+Cfr. ^Aen.~ VI, 104 <seclusum nemus et ^virgulta sonantia
+silvae~>.
+
+	|109-114.  tanto puote~: e le piante percosse dall'aria
+hanno tal potere (|tanto puote~) che impregnano l'aria della loro
+virt@u generativa, dei loro semi, e l'aria (|quella~) poi,
+continuando il suo girare, diffonde, fa cadere (|scuote~) sulla
+terra quelle virt@u, quei semi; in modo che il resto della terra
+(|l'altra terra~: quella abitata dagli uomini), secondo che @e
+adatta per se stessa, per le qualit@a del suo suolo, e per il suo
+clima (|cielo~), concepisce e genera piante diverse (|diverse
+legna~) da semi (|virt@u~) diversi.
+
+	|115-117.  Non parrebbe~: non dovrebbe apparire poi cosa
+meravigliosa e tale da destar stupore (|maraviglia~), di l@a sulla
+terra, dopo aver conosciuta questa ragione (|udito questo~), se
+(|quando~) qualche pianta vi attecchisce senza che sia stata
+seminata palesemente (|sanza seme palese~).  D. non ammette la
+teoria della generazione spontanea, perch$e ad ogni effetto deve
+rispondere una causa.  I semi delle piante furono posti nel
+Paradiso terrestre e di l@a si diffusero sulla nostra terra (cfr.
+Tommaso, ^S. Th.~ I, LXIX, 2).
+
+	|118-120.  saper dei~: e devi sapere che la natura divina
+del Paradiso terrestre @e tutta piena di ogni seme capace di
+produrre qualsiasi specie di pianta e produce qualche frutto che
+di l@a sulla terra non si coglie (|si schianta~), sconosciuto in
+terra.  Alcuni, invece, ritengono che qui Matelda voglia alludere
+all'albero della vita e a quello della scienza del bene e del
+male; ma il discorso di Matelda presuppone una certa continuit@a
+con quel che ha detto prima.  Cfr. ^Genesi~, II, 9: <E il Signore
+Iddio fece germogliare dal suolo ogni specie di alberi piacevoli
+d'aspetto e buoni a mangiare, e l'albero della vita in mezzo al
+giardino e l'albero della conoscenza del bene e del male>.  Si
+noti come tutto il discorso di Matelda risponda ad una rigorosa
+logica scolastica, in cui il tono conversevole confidenziale
+(|saper dei; dove tu se'~) denuncia una certa scioltezza di
+allegro colloquio, e, nello stesso tempo, non rinuncia a dotti
+riferimenti scritturali, liberando la sua descrizione da ogni
+elemento favoloso e fantastico.  Anche il Paradiso terrestre di
+D. @e un luogo reale e vero.  E la lezione di Matelda, confermando
+quanto ha gi@a detto Stazio, mira anche a definirne i limiti e le
+qualit@a fisiche.  |Schianta~ @e il contrario di ^chianta,
+chiantare~, piantare.
+
+	|121-123.  L'acqua~: questo fiume (|che vedi~: @e altro
+elemento confidenziale del colloquio) non scaturisce (|surge~) da
+una sorgente che sia alimentata da vapori d'acqua che siano poi
+convertiti dal gelo in pioggia, come accade per i fiumi della
+terra, che accrescono o diminuiscono il loro impeto (|lena~), la
+loro portata d'acqua, a seconda delle pioggie.  <N$e il serrato
+ragionare di Matelda, n$e la disposizione della divina selva
+ritengono dei fantastici orpelli medievali: la perfetta natura
+del luogo non significa ripudio della terra, ma assunzione,
+secondo verisimiglianza, di essa sul piano immutabile
+dell'ideale, merc$e un processo di astrazione che non trasforma la
+sostanza della natura umana, sibbene la purifica dalle scorie
+della mutevolezza, della provvisoriet@a, del caso> (Quaglio,
+^l.c.~ {^Il c. XXVIII del Purg.~ in <Lect. scalig.>, Firenze,
+1963}, 1059).
+
+	|124-126.  ma esce~: ma scaturisce da una fonte
+immutabile (|salda~) e inesauribile (|certa~) che, per volere di
+Dio e non per cause naturali, riacquista tanta acqua quanta ne
+versa dividendosi (|aperta~) in due ruscelli (|parti~), o
+direzioni.
+
+	|127-129.  Da questa parte~: da questa parte del fiume
+Let@e (dove ci troviamo), quell'acqua scorre con tale virt@u che
+cancella (|toglie~) il ricordo del peccato alle anime che la
+bevono (|altrui~); dall'altra parte del fiume, invece, scorre con
+la virt@u di restituire (|rende~) la memoria di ogni bene compiuto
+in terra (@e il fiume Euno@e).
+
+	|130.  Quinci~: da questa parte quell'acqua si chiama
+Let@e (dal greco %lambda%$eta%theta%eta\ oblio, cfr. ^Aen.~ VI, 705, 749. 
+Nell'Averno pagano vi bevevano i morti per dimenticare la vita
+passata); cos@i dall'altra parte si chiama Euno@e (vocabolo coniato
+da D. unendo due note parole greche ^eu~ = bene e ^nous~ = mente;
+qui @e usato nel senso di ^memoria del bene~).
+
+	|131-132.  non adopra~: e l'acqua dell'Euno@e non produce
+il suo effetto (|non adopra~: non opera) se prima non si @e
+gustato del Let@e (|quinci~) e di questo Euno@e (|quindi~).  Il
+Petrocchi segue l'interpunzione accettata dal Barbi (^Studi
+danteschi~, XVIII, 17-19); altri, tra cui il Chimenz, mettono una
+forte interpunzione dopo |si chiama~, facendo l'acqua sogg. di
+|non adopra~, intendendo cos@i: l'acqua del Let@e e dell'Euno@e non
+produce il suo effetto, cio@e non rende l'anima pura e degna di
+salire al cielo, se prima non si sia gustata sia l'una che
+l'altra acqua.
+
+	|133.  esto~: questo sapore dell'acqua di entrambi i
+fiumi non ha riscontro in nessun altro sapore.  Il Barbi
+attribuisce |esto~ all'Euno@e soltanto, poich$e D. nel XXXIII del
+^Purg.~ a v. 138 esalta il ^dolce ber~ di questo fiume, e per lo
+stretto collegamento {c}ol v. 131.
+
+	|134-136.  sazia~: e sebbene il tuo desiderio di sapere
+si possa considerare ormai del tutto soddisfatto (|assai sazia~),
+anche se io (|perch'io~) non ti rivelassi altro (anche se io non
+aggiungessi altri chiarimenti), tuttavia ti dar@o di mia spontanea
+volont@a (|per grazia~) un ulteriore (|ancor~) informazione
+(|corollario~: @e termine matematico-filosofico che significa:
+verit@a aggiunta come deduzione di una verit@a dimostrata, quasi
+come una piccola corona o premio che si dava agli ascoltatori). 
+Cfr. Boezio, ^De cons. phil.~ III, X: <ita ego quoque tibi veluti
+^corollarium dabo~>.
+
+	|137-138.  n$e credo~: n$e credo che le mie parole ti siano
+meno gradite, se si estendono al di l@a di quanto ti avevo
+promesso di chiarire (|se oltre promession teco si spazia~). 
+Nella seconda parte di questa esposizione dottrinaria Matelda ci
+appare una figurazione poetica del tutto estranea ad ogni
+rapporto con personaggi storici (cfr. Troccoli, ^Il Purgatorio
+dantesco~, Firenze, 1951, p. 155-157).
+
+	|139-141.  Quelli~: i poeti antichi che con la loro
+immaginazione cantarono, durante il paganesimo, l'et@a dell'oro e
+lo stato dell'innocenza dell'uomo, forse intravidero nel loro
+sogno il Paradiso terrestre sul monte Parnaso (il monte di Apollo
+e delle Muse).  Si allude ad Ovidio, ^Metam.~ I, 89 e segg., la
+cui descrizione mitologica ha per D. un valore figurale, quale
+anticipazione del Paradiso terrestre cristiano, in perfetta
+concordanza con il testo della ^Genesi.~  <Non @e, questa,
+contaminazione gratuita tra sacro e profano, ch$e
+nell'accostamento dantesco, per chiarirsi a vicenda, si
+giustappongono la fede del credente e l'entusiasmo dell'artista,
+due miti carichi entrambi a modo loro, nella poetica dello
+scrittore, di affascinante verit@a> (Quaglio, ^l.c.~ {^Il c.
+XXVIII del Purg.~ in <Lect. scalig.>, Firenze, 1963}, 1061).  Non
+accetterei, pertanto la tesi del Toffanin, secondo cui <in questi
+versi non solo D. @e tutto pieno dello spirito dell'Umanesimo, ma
+virtualmente lo inizia> (^Sette interpretazioni dantesche~,
+Napoli, 1947, p. 64), perch$e non si tratta di umanesimo, ma di
+interpretazione figurale e cristiana della poesia del mondo
+pagano.  La favolosa et@a dell'oro dei pagani, ubicata dai poeti
+antichi sul Parnaso, @e per lui prefigurazione di questo Paradiso
+terrestre, che la fantasia biblica e cristiana indic@o come
+^arra~, come anticipazione della beatitudine eterna (^etterna
+pace~).  In tal senso l'interpretazione figurale inserisce
+armonicamente anche il mito pagano dell'et@a dell'oro nel mito
+cristiano dell'Eden, quale luogo della primitiva innocenza
+dell'uomo, premessa indispensabile per salire al cielo.  D., come
+poeta medievale, oggettiva sul piano della rappresentazione
+quella che @e la sua conquistata purificazione spirituale.
+
+	|142.  Qui fu~: in questo luogo i progenitori del genere
+umano (Adamo ed Eva: |umana radice~) furono, vissero, innocenti,
+in stato d'innocenza, quindi senza colpa.  Cfr. Ov. ^Metam.~ I,
+90: <aurea prima aetas... sine lege ^fidem rectumque colebat~>. 
+Questo stato d'innocenza edenica, che costituisce il motivo
+fondamentale del canto, coincide con la suprema aspirazione di D.
+pellegrino in questa sua ascesa fino alla cima del Purg.
+
+	|143-144.  qui~: la ripetizione evidenzia e rafforza
+l'idea dello stato felice dell'uomo.  Spiega: in questo luogo @e
+primavera eterna e frutto d'ogni specie; questo fiume @e il
+nettare di cui parla ognuno di quei poeti.  Cfr. Ov. ^Metam.~ I,
+107-111: <ver erat aeternum...flumina iam lactis, iam flumina
+^nectaris~ ibant>.  Continua l'interpretazione figurale che D. ha
+della poesia antica.  Il nettare dei pagani corrisponde all'acqua
+purificatrice dei due fiumi, Let@e ed Euno@e.
+
+	|146-147.  l'ultimo costrutto~: i poeti pagani, Virgilio
+e Stazio, avevano accolto con sorriso di compiacenza l'ultima
+parte del discorso di Matelda, in cui viene come rivelata
+l'allegoria sottintesa della loro figurazione poetica, a loro
+ispirata da Dio secondo i disegni misteriosi e impenetrabili
+della Provvidenza.  Dalle parole di Matelda non viene illuminato
+soltanto D. pellegrino, bens@i anche Stazio e Virgilio, che
+sorridono per essere stati strumenti inconsapevoli di una verit@a
+divina.
+
+	|148.  il viso~: rivolsi di nuovo gli occhi (|viso~) alla
+bella donna, a Matelda.  Ma il suo nome non viene ancora
+pronunciato.

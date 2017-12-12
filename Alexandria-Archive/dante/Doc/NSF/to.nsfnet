@@ -1,0 +1,225 @@
+
+INTERNET RESOURCE GUIDE TEMPLATE
+
+ (1) Name of the Resource
+
+  Dartmouth Dante Database
+
+ (2) Postal Address
+
+  1 Reed Hall-HB6087
+  Dartmouth College
+  Hanover NH 03755
+
+ (3) E-mail Address
+
+  dante@dartmouth.edu
+
+ (4) Phone 
+
+  Phone: (603) 646-2633
+
+ (5) Description of Resource
+
+The Dartmouth Dante database contains 600 years of  line-by-
+line  commentary  to  Dante's  Divine Comedy, as well as the
+Petrocchi version of the poem  itself.   All  texts  are  in
+their  original languages (Italian, Latin, and English) with
+no translations.  Ancient commentaries have been parsed  for
+the  users'  convenience.   The  search  program utilized is
+BRS/Search.
+
+ (6) Network Access
+
+A) INTERNET ACCESS:
+
+(using telnet only)
+Domain name: dartmouth.edu 
+Machine name: library (or 129.170.16.11) 
+
+This connects you to the Baker Library Online Catalog.
+At the prompt, type:
+
+connect dante [return]
+
+
+ (7) Who Can Use the Resource/Restrictions
+
+Anyone can use the database.  $4.00 for user manual.
+
+ (8) Miscellaneous Information
+
+For Telenet users, the host name is: 60320g
+For direct modem contact use the number: 603 643 6300
+
+ (9) [NEW] SHORT ONE-LINE Description (no longer than 72 characters)
+
+Divine Comedy: texts of poem and 54 line-by-line commetaries.
+
+(10) [NEW AND OPTIONAL] Supplementary Documents on nnsc.nsf.net
+
+***Dartmouth Dante Project Searchable Database Information Sheet***
+
+The Dartmouth Dante Project database combines computer technology with
+more than 600 years of commentary tradition on Dante Alighieri's major
+poem, the _Divina Commedia_.  This gives scholars easier access to the
+full texts of important critical works, many of which are rare and
+difficult to obtain.
+
+The Dante Project has combined the commentaries with a search program,
+called BRS/Search(TM).  BRS/Search(TM) allows for very rapid textual
+searches.  Consultations of text taking many days to complete in a
+library can be performed in minutes using the Dartmouth Dante
+Database.
+
+By reducing the time and effort required by preliminary research, the
+Dartmouth Dante Database allows scholars to spend more time actively
+working out ideas.  In addition, the speed and flexibility of the
+searches may enhance scholars' insight into their material.
+
+The Dartmouth Dante Project is an ongoing effort to put the entire text
+of over 60 commentaries into a searchable database which anyone can
+access via computer.  We currently have 46 of those commentaries.  More
+will be added as they become ready for inclusion.  We are also
+constantly seeking to improve our searching program, so you may notice
+changes in the database from time to time. 
+
+Many of the texts available for searching through the Dante Project are
+distribute copies of the database itself.
+
+DATABASE FACTS:
+
+The database is normally available every day, all day except Friday
+mornings 00:00-03:00 Eastern Time.
+
+The database is available on a nonsubscription basis, as part of the
+Dartmouth College Library Online System.  This benefits users in a
+number of ways.  There is no waiting for an account and you can also
+utilize the online catalog and other database services available
+through it.
+
+The latest edition of our user manual is now available for $4.00 from
+the address listed at the end of this message.  It is possible,
+however, to use the new database without documentation:  there are full
+HELP menus for all basic functions.  The following "login" information
+will help you get started: the following info is NOT exhaustive, and
+assumes that you have used networks or modems before.
+
+I.  CONNECTING TO THE BAKER LIBRARY HOST:
+
+A) INTERNET ACCESS:
+
+In order to logon to the library.dartmouth.edu host via the Internet,
+first logon to your personal account on your local Internet host.
+Then, use the following commands:
+
+telnet library.dartmouth.edu [return]
+
+or, if this doesn't work, use this computer's IP number instead
+(this is the computer's Internet serial number, not an alias, or
+"nickname"):
+
+telnet 129.170.16.11 [return]
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+B) TELENET USERS:
+
+The host identification number for the Dartmouth College Library
+Online System is 60320g
+
+You will automatically be placed in the online catalog.  (Skip down
+to section II. and continue.)
+
+NB: All Telenet connection fees are the responsibility of the
+user.  The Dartmouth College network will not accept collect
+calls.
+
+C) DIRECT MODEM ACCESS:
+
+Use phone number 603 643 6300
+
+NB: The Dartmouth College network will not accept collect calls.  All
+toll charges are the responsibility of the user.
+
+Once you have executed your host connection routine, you should see our
+network flag.  It will look something like the following:
+
+   Kiewit Network, Dartmouth College, port 24/16 (type HELP for assistance) 
+   @
+
+If you don't see it, press <return> a couple of times: this 
+will either get you the flag, or you will be disconnected, 
+and you can try again.
+
+Once you see the network flag, type:
+
+c library [return]
+
+Continue with instructions in section II. following.
+
+II. CONNECTING TO THE DARTMOUTH DANTE DATABASE
+
+You will now see the online catalog program start up.  At the prompt, 
+type:
+
+connect dante [return]
+
+You will now be connected to the newest version of the database.
+
+Next, you will be prompted to identify your terminal type.  If you are
+uncertain, or you run into display problems with your specific terminal
+type, try identifying yourself as:
+
+vt100
+
+This is a sort of "industry standard" and should resolve most of
+your problems.
+
+III.  USING THE DATABASE:
+
+There are a number of introductory screens.  Press return until your
+screen displays the following:
+
+   Enter search or option letter (eg Line search Help, Option list, Quit):
+   1_:
+
+You may now begin searching.  Use the Help menus for guidance.
+
+-----------------------------------------------------------
+The new user manual is now available.  If you would like one, please
+send us your name, address, and a check or money order for $4.00 (to
+cover printing and postage).
+
+     Dartmouth Dante Project
+     1 Reed Hall
+     HB 6087
+     Dartmouth College
+     Hanover, NH 03755
+
+     Phone:(603)646-2633
+     Electronic mail to
+     dante@dartmouth.edu
+
+(11) [NEW AND OPTIONAL] References Available on the Internet
+
+
+
+*******************************************************************************
+
+STATEMENT FROM CONTRIBUTOR:
+
+By completing and returning this template, I certify that I am authorized to
+submit this information for publication.
+
+     Name:  Janet V. Stephens
+     E-mail address: dante@dartmouth.edu
+
+     Please type in your name here -- The name of the person who has
+     supplied the information.  This name will not be included in the
+     Resource-Guide entry.
+
+
+------- End of Forwarded Message
+

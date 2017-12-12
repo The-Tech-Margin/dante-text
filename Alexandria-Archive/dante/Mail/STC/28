@@ -1,0 +1,71 @@
+Return-Path: bobh@baker.Dartmouth.EDU
+Received: from baker by avalon.Dartmouth.EDU (5.65/DEC-Ultrix/4.3)
+	id AA12769; Wed, 1 Sep 1993 13:12:49 -0400
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA16386; Wed, 1 Sep 1993 13:12:50 -0400
+Date: Wed, 1 Sep 1993 13:12:50 -0400
+From: bobh@baker.Dartmouth.EDU (Robert Hollander - DDP PI)
+Message-Id: <9309011712.AA16386@baker.dartmouth.edu>
+To: steve@baker.Dartmouth.EDU
+Subject: varia
+
+
+Steve, I'm a day in the library away from finishing my reworking
+of John S.'s editing of Vellutello (all of INF. and PURG. 1-10). I 
+will also send you (both in FinalWord, our usual convention) Singleton,
+Purg. 18-33 (the part Janet didn't edit).  That gets me quits with
+what I said I'd do before the next load.  The Singleton is now (at least
+the part I've done) pretty clean.  The Vell. is a problematin comm.,
+{problematic, that is}, but is at least a lot more professional
+looking than John left it (as he knows--he didn't promise more than
+he gave).  I have written him wondering when the rest might be
+forthcoming.  No answer (what else is new?).
+
+Before the load we'll want to run our Italian/Canadian friends's
+spell-check, as it were, on the entire database.  Needless to say,
+_I_ will assume responsibilit for that.  I think I can do it in a 
+couple of days (?).  The resulting DDP should be a much cleaner
+thing.  So far, the cadre of "real" dantisti has not been much
+involved.  But I'd like to have it less vulnerable to the wicked,
+who will find handfuls of errors and blast the entire thing as
+unreliable.  The press we've got, such as it is, has been entirely
+positive, and someone will undoubtedly want to dump on us.
+
+This paragraph has got the few instructions you will need for
+Vellutello.  (1) "Title page": I've already sent you (yes?) the
+new credits for editors, as I have them (there were two we couldn't
+assign; Janet was being sought for info about them; it must exisit
+{exist} somewhere up there).  This one (Vell.) read J. Schnapp. It
+should now read "John Summerthwaite, with the assistance of Robert
+Hollander"; (2) the problem of Euro. quotes [<<...>>].  These all
+show in the text as they are resolved by FW, i.e., taking up a
+single byte.  95% of these or more were already in the text.  But I have
+added some myself, using the FW convention [insert key, compose
+character key, double strike on either "<" or ">"].  (3) where I
+have added accents, I have never used FW conventions to add them, but
+put in our standard editing ones [e.g., e` = @e, e' = $e, etc.]; thus
+there shd. be no problems with them.  About 97% of accents are already
+"resolved" in the text I was sent by you.  (4) Ligated vowels "ae"
+and "oe": I have got rid of many of these; but you will find some
+in the early cantos of Inferno; globals should clean this up in
+seconds (and those are the only two ligatures involved).  That's
+all you need be conscious of.
+
+Another matter entirely: stop words.  We have already decided to
+remove "poet" from the ENGLISH list, "poeta" from Ital/Latin [?].
+I now wonder if the DB works fast enough to get rid of others
+that might be of interest to searchers.  Is it a simple matter for you
+to send me the stop lists for me to think about them?  Or what, in
+your opinion, would be the result of cancelling all of them?
+
+One last query: abbreviations.  We built a list of a number, e.g.,
+"Aen." or "En." for "Aeneid" or "Eneide"; these work fine.  One comes
+upon these in texts and finds the proper SINGLE SPACE after them.  But
+others, obviously because we couldn't think of all and there was not
+the capacity to list as many as there are.  And thus some abbrvs.
+show up as though they were end-stopped punctuation and are followed
+by TWO SPACES.  Is there anything EASY we can do to change this?
+
+I think that is all that I have gathered to call to your attention.
+And when you save this, can you fire a copy off to me?  I keep forgetting
+how to add a cc. once I've started a message (gulp).  Best, Bob

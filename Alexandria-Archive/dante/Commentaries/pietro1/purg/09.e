@@ -1,0 +1,353 @@
+	|1-3.  La concubina di Titone antico.~  Continuando se
+auctor ad praecedentia, dicit quomodo visis, idest contemplatis
+his quae in praecedenti Capitulo scripsit, quod dormire coepit,
+et in qua hora temporis.  Ad evidentiam dicendorum est
+advertendum, quod auctor fingit in hanc speculativam phantasiam
+suam intrasse de 1300, de mense Martii, in puncto aequinoctiali
+dum Sol in Arietem intrat, fingendo tunc lunam esse rotundam, ut
+dicit in Capitulo 20.+o~ Inferni.  Item fingit hucusque se
+stetisse quatuor diebus in hoc itinere, idest in hac
+contemplatione.  Et cum luna in quinque diebus currat duo signa
+Zodiaci, concluditur quod tunc, dum incoepit, luna fuerit in
+Signo Librae opposito Arieti, et quod nunc fuerit in principio
+Signi, vel in capite Sagittarii.  Item considerandum est, quod in
+polo illo, ubi se fingit fuisse, est oriens, ubi hic est nobis
+occidens, et e contra.  Item est notandum, quod Titan est Sol;
+unde Lucanus:
+
+     ^Unde venit Titan, et nox ubi sidera condit.~
+
+Cui attribuunt poetae pro uxore Auroram suam rubram, quae semper
+eum praecedit.  Unde Ovidius:
+
+     ^Jam super Oceanum venit a seniore marito~
+     ^Aurora~ etc.
+     ^Jamque fugatura Tithoni conjuge noctem.~
+
+Et Virgilius:
+
+     ^Tithonum talamis dignans Aurora superbis.~
+
+Et alibi:
+
+        ^...cum primum crastina coelo~
+     ^Puniceis invecta rotis Aurora rubescit.~
+
+Auroram vero albam Lunae attribuunt in concubinam, eo quod talis
+Aurora alba ex lumine Solis a longe causatur.  Dicitur concubina;
+nam usitatum est quod extra proprios thalamos, ubi debet esse
+uxor, quis habeat concubinam.  Nam et Luna ideo dicitur Titania,
+quia in sero lucida apparet secundum Papiam.  Et hoc est quod
+dicit quod erat extra brachia sui amici.
+
+	|4-6.~  Et quod dicit quod de gemmis ejus frons lucebat,
+dic, idest de stellis Scorpionis praecedentis ibi tunc dictam
+Auroram Lunae, cum tunc esset in Signo Sagittarii; cui Signo
+Sagittarii attribuitur Chiron Centaurus, qui propter mortem
+Haemonis filii sui occisi a Scorpione, dictum Scorpionem occidit. 
+Quod signum Scorpionis habet stellas quindecim: in capite duas,
+in costis duas, in arcu duas, in dextro cubito unam, in scapula
+unam, in spino duas, in cauda duas, in anteriori genu unam, in
+pede duas; alias sub cruribus.  Signum vero Scorpionis
+attribuitur Scorpioni, qui occidit dictum Haemonem; ideo occisus
+a dicto Chirone, et translatus in illud Signum sui nominis. 
+Habet enim decem septem stellas: in utroque labio duas, in fronte
+tres, in spino tres splendidas, in cauda quinque, in aculeo duas;
+et istae decem septem stellae sunt gemmae, de quibus auctor
+loquitur.  Sic igitur concludendo vult dicere quod ibi erat prima
+pars noctis quae dicitur conticinium.
+
+	|7-9.~  Et hoc est etiam quod vult dicere de duobus
+passibus noctis, et de tertio qui jam inclinabat, hoc est de
+horis noctis quae sunt secundum Macrobium septem.  Prima dicitur
+crepusculum: secunda dicitur conticinium a conticendo: tertia
+gallicinium, quam dicimus primum somnum, et juxta hanc horam fuit
+quod dicit auctor ibi; et dicitur gallicinium a galli cantu. 
+Quarta dicitur intempestum, idest tempus non aptum alicui rei
+faciendae: quinta gallicinium propter gallos lucem
+praenuntiantes: sexta matutinum: septima diluculum, sive Aurora. 
+Et prosopopeiando dicit noctem per dictas horas medias salire, et
+per alias medias descendere; ut dicebat Sibilla Aeneae:
+
+     ^Nox ruit, Aenea, nos flendo ducimus horas.~
+
+	|10-11.~  In qua quidem hora ipse solus incoepit dormire,
+ex eo quod secum habebat de illo Adami, scilicet de carne, et
+virtutibus corporalibus.  Et licet talis ejus somnus possit dici
+ad figuram abstractio quaedam, tamen hic vult innuere ex quo
+noster somnus oriatur, aut procedat; nam anima sine corpore non
+dormit, sed cum corpore.  Sic ratione corporalium virtutum, ad
+quod ait Avicenna: ^somnus est animalium virtutum cum intensione
+naturalium; qui somnus propter lassitudinem et sollicitudinem,
+cum spiritus animalis dissolvitur, et debilitatur ex nimia
+exercitatione corporis, refugit ad interiora, et sequuntur eum
+virtutes animales.~
+
+	|13-15.~  Et ita dormiendo in diluculo, quando hirundo
+incipit canere, forte in commemorationem sui primi doloris, qui
+tali tempore incipit, talia vidit.  Circa quod Ovidius in VI.+o~
+hanc historiam tangit, dicens, quod quidam Pandion rex Athenarum
+habuit duas filias Prognem et Philomenam, et dictam Prognem
+maritavit Thereo regi Thraciae.  Qui dum semel Athenas ad certam
+festivitatem iret, et fuisset rogatus a dicta Progne uxore sua,
+ut cum rediret secum duceret Philomenam sororem ejus, ita fecit,
+et in itinere in quodam nemore eam violare voluit, et linguam
+abscidit sibi, ne umquam tale facinus revelaret.  Sed demum venit
+ad Prognem ipsa Philomena, et nutu haec omnia indicavit.  Quae
+Progne tali dolore quemdam suum filium nomine Ityn coxit subito
+et occidit; et uno mane tempestive, dum vellet ire venatum dictus
+Thereus, fecit comedi ipsi Thereo, qui hoc scito et reperto,
+persequens dictas sorores eas volebat occidere.  Ipsae autem
+fugientes effectae sunt, Progne hirundo, et Philomena rosignolus;
+dictus vero Thereus avis cristata quae dicitur upupa.
+
+	|16-18.~  In qua etiam hora matutinali mens nostra
+peregrina minus a carne et plus a cogitatione occupatur, et quasi
+indivina est.  Ad quod ait Philosophus in 2.+o~ de anima, dicens,
+quod anima tres principales habet virtutes, sive potentias,
+scilicet intelligere, vivere, et sentire, scilicet ratiocinari. 
+Vivere, sive vegetare, potest esse sine aliis, non e contra.  Sed
+illa anima, quae omnia ista comprehendit, est nobilior, ut nostra
+anima, quae intelligentia participat cum divina natura et
+angelica intelligentia.  Ideo Philosophus vocat hominem divinum
+animal, et ideo ista ultima potentia dicitur et nobilissima mens:
+quae humana mens tali praedicta hora magis perspicua est.  Unde
+Socrates suadebat oriente sole consilium, occidente convivium
+cogitandum esse.
+
+	|19-21.~  In qua quidem hora in somnio dicit se vidisse
+illam aquilam, de qua dicit textus, et ab ea rapi.
+
+	|22-24.~  Faciendo comparationem de suo tali raptu ad
+raptum Ganimedis filii Priami, qui pulcherrimus fuit et raptus a
+Jove existente in figura aquilae ad summum consistorium, idest ad
+coelum, et ibi ejus pincerna factus.  De quo Ovidius in 10.+o~
+ait:
+
+     ^Rex Superum Phrygii quondam Ganimedis amore~
+     ^Arsit, et inventum est aliquid, quod Jupiter esse~ etc.
+
+Et Virgilius:
+
+     ^Invisumque genus, et rapti Ganimedis honores.~
+
+Dicitur vere quod quidam rex de Creta, nomine Xanthus, in bello
+cum signo aquilae, ut successor Jovis, cui tale primo signum
+fuit, rapuit eum.  Quidam alii dicunt quod dictus rex Xanthus eum
+rapuit causa libidinis in venatione cum navi, ubi pictum erat
+signum aquilae dictae Jovis.
+
+	|34-39.~  Dicendo quomodo ita raptus dormiendo fuit
+excitatus et quasi territus, ut Achilles fuit, dum translatus est
+per Chironem Centaurum ad insulam Scyros ad regem Lycomedem.  Nam
+videns Thetis mater dicti Achillis, quod ipse Achilles mori
+debebat in exercitu Trojae, ut fatatum erat, eum misit ad dictum
+regem, et inde Ulixes et Diomedes habuerunt eum, et quomodo
+scripsi supra in Inferno, Capitulo XXVI.+o~
+
+	|55-57.~  Modo ad figuram hujus aquilae et Luciae
+veniamus.  Et dupliciter potest figura colligi, ut scripsi supra
+in Inferno, Capitulo II.+o~, scilicet, ut figuraret partem illam
+philosophiae, quae dicitur mathematica, pro ista Lucia, ut
+aquila, quae habet nos elevare ad ea quae in imaginatione sunt,
+ut sic nunc auctor elevaretur per eam ad ingressum Purgatorii,
+idest ad principium actionis virtuosae et moralitatis.  Ad quod
+Seneca: ^levavit se super se.~  Nam contentus non est homo, nisi
+super humana surrexerit.  Vel secundo modo accipe hanc Luciam in
+forma aquilae pro gratia Dei.  Nam et Joannes Evangelista, qui
+gratia Dei interpretatur, in aquila figuratur; quae gratia
+dicitur, eo quod per eam nobis Deus gratis providet et peccata
+dimittit.  Unde Apostolus: ^gratia tua sum quod sum.~  Nam sine
+tali aquila, idest gratia mediante, ad Deum, a quo processimus,
+accedere non possumus.  Unde illud: ^homo est spiritus vadens et
+non rediens per se absque gratia; quod redire est per
+poenitentiam et contritionem animi et oris.~  Et in hoc denotatur
+modo per auctorem ista porta Purgatorii; ad quem gratiosum modum
+poenitendi, ut ad quemdam altum et repentem montem, non possumus
+ex nobis ascendere, sed dormientes, idest contemplantes, per
+aquilam, idest per gratiam, ascendimus: quam gratiam nemo
+meretur, vel demeretur; ut vides in radio Solis, si aperio
+fenestram, intrabit, si claudo, non intrat, tamen non possumus
+eum cogere quod intret.  Ad quod respiciens Psalmista, qui per
+istam aquilam, idest gratiam, ut magnus peccator poenitens, venit
+ad hunc locum vel passum purgandi se, dicens: ^misit de excelso,
+et assumpsit me, et extraxit me de aquis multis....  Et eduxit me
+in latitudinem: liberavit me, quia complacui ei....  In te enim
+curram accinctus: in Deo meo transiliam murum.  Deus qui accinxit
+me fortitudine et complanavit perfectam viam meam.  Coaequans
+pedes meos cervis, et super excelsa mea statuens me.~  Sic igitur
+vide quomodo et ad quod auctor ita loquatur, et ad ejus figuram. 
+Nam, prout scribitur in Decretis: ^prius enim habet quis gratiam
+quam conteratur; praecedit ergo gratia contritionem, contritio
+remissionem peccati.~  Et sic iste auctor prius nunc fingit se
+per aquilam, idest per gratiam, elevari de infimo, idest de statu
+extra contritionem et confessionem; unde Psalmista: ^aperite mihi
+portas justitiae, ingressus in eas confitebor Domino: haec porta
+Domini, justi intrabunt in eam~; deinde sibi peccata remitti.
+
+	|76.~  Ulterius procedendo, pro porta ista Purgatorii
+serrata accipe propositum nostrum in nobis bene agendi, quod non
+aperitur nisi pulsetur.  Unde in Evangelio dicitur: ^pulsate, et
+aperietur vobis.~  Quod pulsare consistit et fit per confessionem
+sacerdotis.  Tres gradus, per quos itur et ascenditur ad hanc
+portam, figurant firmam substantiam confessionis et contritionis:
+nam tribus modis offendimus Deum, scilicet ore, corde, et opere;
+ergo sequitur oris confessio, cordis contritio, et operis
+satisfactio.  Vel dic, quod in quolibet peccato mortali tria
+concurrunt, scilicet impudicitia, delectatio, et perpetratio. 
+Contra impudicitiam est remedium confessionis, in qua est
+verecundia: contra delectationem amaritudo contritionis: contra
+perpetrationem operis satisfactio.  Vel figurantur ad illa tria
+quae infra dicentur.  Sunt enim et isti tres gradus, de quibus
+credo Ezechielem dicere, dum ait: ^et venit ad portam, quae
+respiciebat ad orientem, et ascendit per gradus ejus.~  Et
+Psalmista: ^Deus in gradibus ejus cognoscitur.~  Et Job: ^per
+singulos gradus meos pronuntiabo illum.~
+
+	|94-96.~  Dicendo quod primus dictorum graduum erat albus
+et transparens, adeo quod in eo se speculabatur qualis erat. 
+Figura haec ibi est.  Primus talis gradus pro reminiscentia
+accipitur peccati, in qua dum confitemur, debemus nos speculando
+de forma, quantitate, et magnitudine peccati memoriam habere. 
+Unde in Decretis: ^magnum est ut si quis peccata sua cognoscat,
+et memoriam eorum retineat.~  Et hoc est quod dicit, quod videbat
+se in eo etc.; nam nihil in corde confitentis remanere debet. 
+Unde Psalmista: ^confitebor tibi, Domine, in toto corde meo.~
+
+	|97-99.~  Secundus gradus, niger et spissus undique,
+figurat compunctionem, quae in confessione vera venit.  Ad quod
+Psalmista: ^quacumque hora peccator ingemuerit et confessus
+fuerit~ etc.  Et Joel propheta ait: ^scindite corda vestra, et
+non vestimenta vestra~; ostendens contritionem cordis, quae in ea
+scissione intelligitur.  Scissio vestimentorum, idest, oris
+confessio, et operis satisfactio; et sine cordis contritione non
+valet.  Quare aperite et ostendite vicario Dei quod habetis in
+cordibus vestris.
+
+	|100-102.~  Tertius gradus rubens figurat erubescentiam,
+et verecundiam, quam in vera confessione habemus.  Nam et Deus
+dicebat Israeliticis: ^non alium statuatis nuntium, qui pro vobis
+offerat munus Moysi.~  Et Augustinus: ^quem poenitet, et dolorem
+lacrimis ostendit, confiteatur per se, non per nuntium vel
+epistolam.  Nam Christus praecepit: vos monstrate sacerdotibus,
+non unus pro omnibus, sed qui per vos peccastis, per vos
+erubescatis; nam erubescentia partem habet remissionis.~  Et
+Chrysostomus: ^lacrimae lavant peccatum quod ore pudor est
+confiteri.  Laborat enim mens patiendo erubescentiam, et
+verecundia magna est poena, et qui erubescit dignus est venia.~ 
+Et ideo secundum Augustinum: ^sufficit mores in melius mutare, et
+a peccatis recedere; ubi de eis fiat Domino per poenitentiae
+dolorem, per humilitatis gemitum, per contritionem cordis,
+sacrificium.~
+
+	|103-104.~  Angelus in solio portae sedens significat
+sacerdotem, qui ut judex pro tribunali sedens debet examinare,
+cognoscere, et condemnare.  Nam dicitur in Decretis: ^sacerdotes
+sunt medici curantes animas, non mundantes; sed ad earum
+mundationem officium suum exercent.~  Nam in veteri Testamento
+sacerdotes non mundabant lapsos, sed mundatos pronuntiabant.  Ad
+quod Mathaei 1.+o~, ubi Christus ait leproso mundato ab eo:
+^vade, nemini dixeris: sed vade, ostende te sacerdoti.~ 
+Figurando ipsum sacerdotem in angelica forma per id quod dicit
+Apostolus ad Corinthios 6.+o~ ibi: ^nescitis quoniam angelos
+judicabimus~; quod exponitur, sacerdotes.  Et Malachias propheta:
+^labia sacerdotis custodient scientiam, et legem requirent ex ore
+ejus~; quia sacerdos angelus Domini est, ejus spatha est
+auctorabilis et justa, et inreprehensibilis ejus locutio.
+
+	|112-113.~  Cum qua spatha, idest examinabili locutione,
+septem P, idest septem peccata mortalia sibi in fronte scripsit,
+idest ad memoriam ejus reduxit.
+
+	|115-116.~  Vestis ejus, ut cinis, figurat humilitatem
+quam habere debet sacerdos; unde Psalmista: ^sacerdotes tui
+induant justitiam.~  Et alibi: ^sacerdotem induam salutari.~
+
+	|117.~  Duae claves datae Petro a Christo dum dixit:
+^pasce oves meas.~  In altera: ^da scientiam discernendi inter
+lepram et lepram, inter peccatum et peccatum~; nam in Testamento
+veteri infectus lepra ducebatur ad sacerdotem.  In altera,
+potestatem solvendi et ligandi; quae tenentur et habentur a
+quolibet sacerdote vero.  Nam dicitur in Decretis: ^ligandi et
+solvendi potestas veris sacerdotibus tradita est a Christo
+mediante Petro, cui dictum est: quodcumque ligaveris~ etc.  Qui
+sacerdos, ut dicit, conetur omnibus aperire; nam dicitur in
+Decretis: ^sacerdos poenitentiam imploranti absque personae
+acceptione secundum leges injungat.~
+
+	|118-120.~  Argentea enim clavis magis artificiosa
+figurat scientiam et discretionem, quam habere debet sacerdos;
+nam dicit Chrysostomus: ^clavis aperitionis est sermo
+correptionis, quae increpando culpam detegit, quam saepe nescit
+ipse etiam qui perpetravit.~  Ideoque scribitur in Decretis, quod
+proprio sacerdoti confitendum est, si est discretus; si non, alii
+de ejus licentia.  Causa et tempus agendi poenitentiam
+relinquitur in arbitrio sacerdotis intelligentis, quia apud Deum
+non tam valet mensura temporis, quam doloris.  Unde dicitur
+Malachiae et Osae 4.+o~ ^Tu scientiam repulisti, et ego repellam
+te, ne sacerdotio fungaris mihi.~  Et ideo qui confiteri vult
+peccata, ut inveniat gratiam, quaerat sacerdotem scientem ligare
+et solvere.  Nam dicit Augustinus in libro de poenitentiis:
+^sacerdos, cui omnis peccator offertur, in nullo eorum sit
+judicandus quae in alio judicat.~  Caveat spiritualis judex,
+sicut non commisit crimen, ita non careat munere scientiae; nam
+debet cognoscere quod debet judicare, sapienter interroget a
+peccatore quod forte ignorat, vel verecundia occultat, et pro
+peccatis cognitis sit benevolus, habeat dulcedinem, affectionem,
+discretionem, in veritate doceat perseverantiam, ut fecit iste
+angelus.  Altera clavis aurea est auctoritas praedicta
+sacerdotalis, consistens in absolvendo et ligando.  Unde
+Ambrosius: ^sacerdotibus suis relaxandi licentiam sine ulla
+expectatione concessit.~
+
+	|130.~  Quo facto, idest suscepta et facta confessione
+debita et vera, ostium regni Dei aperitur ei, idest status
+felicissimus poenitentiae.  Ad quod Joannes Baptista:
+^poenitentiam agite, et appropinquabit in vobis regnum coelorum.~ 
+Et Psalmista: ^introite portas ejus in confessione, et atria ejus
+in hymnis confitentium illi.~  Quod fit per dictam clavem auream
+auctorabilem; unde in Decretis dicitur: ^mediator Dei et hominum
+Christus hanc potestatem praepositis Ecclesiae dedit, ut
+confitentibus poenitentiae satisfactionem darent, et eadem
+satisfactione salubritatis purgatos per januam reconciliationis
+admitterent.~
+
+	|131-132.~  Dicendo et suadendo dictus Angelus ei, quod
+dum esset intra portam, idest statum poenitentiae, quod non
+respiciat retro, idest non revolvat animum iterum ad dimissa
+peccata: nam qui ita facit est ut canis ad vomitum rediens, ut
+ait Petrus in Epistola 2+a~.  Et Lucas 9.+o~ ad hoc ait: ^nemo
+mittens manum suam ad aratrum, et respiciens retro, aptus est
+regno Dei.~
+
+	|136-138.~  Comparando rugitum illius portae rugitui
+Tarpeiae.  Tarpeia erat domus censualis Romae, quam Caesar
+spoliavit redeundo a Brundusio, fugato Cneo Pompejo, et dum
+intravit Romam, ut stipendiariis suis solveret.  In quo actu
+quidem tribunus nomine Metellus se opposuit Caesari, dicens haec
+verba recitata a Lucano:
+
+     ^Non nisi per nostrum vobis percussa patebunt~
+     ^Templa latus, nullasque feres nisi sanguine sacro~
+     ^Sparsas raptor opes~ etc.
+
+Tamen timore mortis abreptus inde fuit per Cottam ejus socerum
+sibi dicentem:
+
+     ^Libertas, inquit, populi quem regna coercent,~
+     ^Libertate perit; cujus servaveris umbram,~
+     ^Si quidquid jubeare, velis~ etc.
+
+Subdendo:
+
+     ^Protinus abducto patuerunt templa Metello.~
+     ^Tunc rupes Tarpeia sonat, magnoque reclusas~
+     ^Testatur stridore fores~ etc.
+
+	|139-140.~  Et quod dicit, quod audivit canere intra
+portam illam, ^Te Deum laudamus,~ ostendit id quid comuniter
+confessis vere contingit, adeo contenti remanent virtute
+auctoritatis sacerdotis, aeque et discrete absolventis, ut
+fatetur Petrus a quo habetur.  Unde et in Decretis dicitur:
+^manet Petri privilegium ubicumque ipsius fertur judicium, quo
+quis ligatur vel absolvitur~.  Et haec pro hoc Capitulo.

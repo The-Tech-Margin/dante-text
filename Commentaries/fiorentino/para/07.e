@@ -1,0 +1,406 @@
+	|Proemio.~  Nel presente capitolo intende l'Auttore
+toccare sei cose: la prima poetando discrive la letizia ch'aveano
+quelle anime ch'erano nel pianeto di Mercurio, dello ragionamento
+ch'avea fatto Justiniano; secondo tocca uno dubbio che gli surse
+nel core per alcuno detto di Justiniano predetto, ci@o @e come
+possa esser giusta la vendetta che fe Tito imperadore degli
+Giudei, dato ch'egli facessono morir Cristo, la qual morte fue
+vendetta del peccato degli primi parenti, e fue esaltazione e
+reparazione della umana generazione: e solve lo detto dubbio;
+terzo conchiude come la imperiale jurisdizione @e giusta corte, et
+@a judicatoria podestade; quarto tocca per che piacque pi@u a Dio
+lo modo dello 'ncarnare lo verbo suo, e poi morire per redenzione
+della umana generazione, pi@u ch'altro modo: e dichiaralo,
+presupponendo alcune cose; quinto dichiara alcuni dubbj, che
+potrebbono surgere di tale presupposizione, com'ha fatto; sesto
+argumenta alla resurrezione degli corpi morti dopo lo d@i del
+giudicio: e cos@i compie suo capitolo.  La prima chiara apparir@a
+nella esposizione del testo.  Alla seconda cosa si @e da sapere
+che, s@i come appare nel precedente capitolo, l'Auttore nell'altre
+vittorie che l'Auttore discrive dell'aguglia imperiale, s@i
+connumera quella vittoria ch'ebbe Tito imperadore avverso lo
+popolo dei Giudei, lo quale s@i gli disperse, che, s@i come egli
+vendettero Cristo XXX danari, come tocca S. Matteo nello
+Evangelio, XXVI, cos@i di loro fue venduta grandissima quantit@a
+XXX per uno danajo, del quale @e fatta menzione nel IIJ del
+^Purgatorio.~  Or @e lo dubbio, s'elli fu justa cosa, o degna e
+convenevole, la morte di Cristo per ricomperare la umana
+generazione, s@i come scrisse S. Giovanni III: ^Sicut Moyses
+exaltavit serpentem in deserto, sic oportet exaltari filium
+hominis, ut omnes qui credunt in eum non pereant, sed habeant
+vitam aeternam: quod quidem de exaltatione crucis intelligit~
+etc.  Adunque come poteo esser giusta la vendetta che fece lo
+detto Tito degli Judei, gli quali furono quegli che crocifissero
+Cristo?  Lo qual dubbio solve Beatrice in questo modo: con ci@o
+sia cosa che gli primi parenti, ci@o @e Adam ed Eva, fossono
+disubbidienti a Dio, e non volessono sofferire quello freno
+ch'era sua perfezione, ci@o @e di ubbidienza, s@i furono cacciati
+del Paradiso, e occorsegli tanta disgrazia, che, s@i come in
+istato d'innocenzia egli sarebbono stati signori, vel dominatori
+di tutte creature, cos@i per lo peccato caddono in tanta bassezza
+che ogni creatura gli sottomise e domin@o; e non pure essi, ma
+tutti i discendenti in fino al tempo che Dio venne ad assumere
+carne umana, e fare la nostra redenzione, s@i com'@e detto.  Or'@e
+da considerare nella persona di Cristo due nature, l'una divina,
+la quale assunse la umana; l'altra la umana la quale fue assunta
+dalla divina, s@i come dice S. Agostino in libro ^De fide ad
+Petrum~: ^Naturam servi in suam accepit Dominus ille, scilicet
+Unigenitus est persona~ etc.  Or, se noi consideriamo la pena
+della morte di Cristo per rispetto all'umanit@a, la quale era
+caduta da grazia, com'@e detto, e per quella morte era la
+redenzione, nessuna dice Beatrice che non fu mai cos@i necessaria,
+n@e mai morte pena porse, ci@o @e dolore, cos@i justamente.  E per
+questo cos@i fatto rispetto tenne l'Auttore che la morte di Cristo
+fosse vendetta justa del peccato degli primi parenti.  L'altra
+considerazione si @e che, se noi consideriamo la persona di
+Cristo, che @e lo Verbo incarnato, soffrire pena in sulla croce,
+nulla ingiuria, nulla offesa fue mai tanto injusta, tanto
+offendevole, come quella.  Or dunque di questa morte si pu@o
+considerare due cose, l'una lo piacere di Dio, che fu di redimere
+l'umana generazione; e cos@i la morte di Cristo fue justa vendetta
+dello peccato degli primi parenti: l'altra lo piacere degli
+Giudei, che fu che Cristo morisse in sulla croce, per lo quale
+ingiusto piacere se gli segu@i punigione; e questa fue quella che
+giustamente fue punita per Tito imperadore.  Alla terza cosa si @e
+da sapere che, s@i come prova Aristotile nella sua ^Politica~,
+ragionevolmente lo mondo si dee reggere per uno principio, lo
+quale hae custodia e reggimento de' suoi sudditi, et @e suo
+regulatore: e fue openione dello Auttore che tal principio degli
+temporali reggimenti, fosse lo 'mperadore di Roma, s@i come ello
+tratta nella sua ^Monarch$ia~, nella I e nella II parte: e
+vogliendo provare, questo imperio aver jurisdizione judicatoria
+circa questi temporali, s@i il prova tra gli altri in questo modo:
+la pena, che dee esser vendetta d'alcuno peccato, fa bisogno che
+sia imposta al paziente da persona ch'abbi autoritade, ci@o @e da
+judice ordinario, altrimenti quella pena non sarebbe vendetta, ma
+sarebbe injuria del paziente.  La morte di Cristo, s@i com'@e
+detto, fue vendetta del peccato degli primi parenti e de' suoi
+discendenti, gli quali erano tutti quegli del mondo: adunque
+bisogn@o ch'ella fosse commessa da judice ordinario, lo quale
+giudice ello scrive essere in quello tempo Tiberio Cesaro, e
+essere suo vicario in Jerusalem Pilato: adunque, conchiudendo a
+proposito, la pena di Cristo fue vendetta dal vicario di Tiberio
+Cesare, ch'era imperadore di Roma: e cos@i lo 'mperio hae
+jurisdizione judicatoria, e per l'avvenimento di Cristo roborata. 
+Alla quarta cosa s@i @e da sapere che l'Auttore fae che Beatrice
+presuppone alcune cose alla responsione della domanda, ci@o @e per
+che piacque a Dio lo modo della redenzione di incarnare lo suo
+verbo, e poi morire; le quali presupposizioni sono queste: tutte
+le creature che sono al mondo, nelle sue diverse forme, o elle
+procedono da Dio immediate, sanza alcuno mezzo, come gli angioli,
+l'anime umane, gli cieli; o elle procedono da Dio mediante alcuna
+cosa, come gli elementi, gli animali bruti, sensitivi, e
+vegetativi, che procedono da Dio mediante gli cieli; quelle che
+procedono ^immediate~, s@i sono eterne, e mai non si corrompono;
+quelle che procedono mediante li cieli, secondo li movimenti di
+quelli si corrompono e generano; e soggiugne che le predette cose
+eterne sono libere, ci@o @e hanno libero arbitrio, possono peccare
+e meritare: se per quella benivolenza meritano, s@i s'assomigliano
+al suo Creatore, e diventano beate; se peccano, dilungansi dal
+Creatore, e caggiono in subjezione, s@i com'@e detto di sopra; e
+mai non possono tornare in grazia, fino che la justizia di Dio
+non @e a pieno satisfatta.  Presupposto questo, chiaro appare che,
+quando gli predetti parenti peccarono, egli caddono della dignit@a
+predetta, e divennero di liberi sudditi.  Or, s'egli voleano
+ritornare in grazia, esser conven$ia in uno di questi due modi, o
+che Dio avesse rimessa la colpa e la pena per sua cortes$ia; e ci@o
+potea fare, per che non era offesa di nullo, con ci@o sia cosa che
+ello @e sommo Signore; ch@e non si offendeva a persona privata, n@e
+a bene comune; e a esso conviene rimettere gli peccati, con ci@o
+sia che essi peccati erano contro lui.  L'altro modo si era che
+l'omo per s@e meritasse tanto ch'esso avesse per premio la
+pr$istina grazia: questo secondo modo era impossibile, imper
+quello che, s@i com'@e detto, ello @e impossibile allo uomo sanza la
+grazia di Dio, ci@o @e per suoi naturali, acquistare quella
+beatitudine ch'@e fine della umana natura.  Ancora @e la ragione
+dello Auttore: lo uomo non poterebbe mai tanto discendere
+umiliandosi, che equipollesse quello grado l@a dov'ello presum@e
+montare peccando: adunque per se medesimo lo uomo non si potea
+salvare.  Eschiuso lo uomo per s@e medesimo della redenzione,
+rimase adunque a Dio cotale carco operare, acci@o che l'umana
+natura caduta si rilevasse, con ci@o sia cosa che lo Onnipotente
+in pi@u modi e in pi@u maniere potea fare redenzione; ma, s@i come
+dice Tommaso nella III parte, questione XLVJ, articolo IIJ nella
+responsione: ^Quod tanto aliquis modus convenientior est ad
+exeguendum finem, quanto per ipsum plura concurrent quae sunt
+expedientia fini~ etc.; per lo modo della incarnazione del verbo
+si vede in prima quanto Iddio am@o lo uomo, la qual cosa ne
+provoca ad amar lui, secondo che da lui avemo esempro come dovemo
+esser umili e virtudiosi; la terza si vede che, non solo ello ci
+liber@o dal peccato, ma diecci grazia di poterci justificare e
+acquistare la sua gloria; la quarta che induce lo uomo a maggior
+timitade, considerando lo grande premio et avere che cost@o tale
+deliberazione; la quinta si @e che, s@i come lo uomo fue vinto e
+sottoposto al diavolo, cos@i per tale unione lo diavolo fue vinto
+dallo uomo; e s@i come lo uomo per lo peccato mor$ie, cos@i per la
+morte dell'uomo, ci@o @e di Cristo, fummo deliberati dalla predetta
+morte, e molti altri beni s@i se ne segu@i, li quali ne dirizzano a
+quello perfetto fine ch'@e vita eterna.  Alla quinta cosa si @e da
+sapere che l'Auttore tocca la differenza che @e dalle forme create
+^immediate~ da Dio, a quelle che procedono dal movimento del
+cielo; e dice che quelle che sono ^immediate~ create sono eterne,
+e mai non si corrompono, imper quello che hanno suo esser intero,
+e non sono composte di materia corruttibile, e non suddite al
+cielo, gli quali sono gli angioli e l'umana anima: li angioli
+hanno quella gloria ch'egli debbono avere; ma le anime umane, con
+ci@o sia cosa che sieno incorruttibili, e hanno o peccato o
+meritato cogli corpi, fa bisogno adempier la justizia di Dio, che
+risurgano ad aver pena o merito secondo l'opere sue, congiunte
+cogli corpi.  Tutte l'altre creature fue creata la materia da Dio
+^immediate~, e fue creata virtute informativa negli cieli e nelle
+stelle quando loro cre@o, per li quali movimenti quella virtude
+informativa induce nella materia perjacente diverse forme e
+diverse figure, le quali d@anno quello essere singolare alle cose,
+per che sono l'una distinta dall'altra: e cos@i hai la intenzione
+della sesta cosa toccata nel presente capitolo.  Detta la
+intenzione, s@i @e da espor lo testo a perfezione di nostra opera.
+
+	|1-3.  Osanna Sanctus~: Qui Justiniano canta compiuto suo
+parlamento, e disse: O Salvatore, della cui luce illustri, ci@o @e
+rischiari di questi regni felici li fuochi, ci@o @e le anime,
+benedetto sia tu; e a questo suono spar$ie con tutti quegli
+ch'erano in sua compagn$ia.  ^Osanna~ si @e parola ebraica, e tanto
+@e a dire quanto ^salvatore~; e per@o dice Isidoro nel VI delle sue
+^Etimolog$ie~: ^Osanna, salvifica, subaudi populum tuum, vel totum
+mundum.~  |Sabaoth~ @e uno degli dieci nomi che gli Ebraici
+appellavano Iddio; e tanto @e a dire come ^Esercizio di vertude~;
+e per@o @e scritto nel Salmo ^Dominus virtutum ipse est Rex
+gloriae.~  |Malaot~: appresso gli Ebrei @e in genetivo casu
+plurari: @e a dire quanto ^regnorum.~
+
+	|4-6.  Cos@i volgendosi~: Nota che gli movimenti che
+discrive l'Auttore delle anime beate sono tutti circulari, per
+che si segue a perfetta forma perfetto movimento.  |Sovra lo
+qual~: Ci@o @e, ch'esso Justiniano ha due bont@a: l'una per la bont@a
+che ebbe circa le leggi; l'altra per lo merito dell'ofizio, ci@o @e
+della rettor$ia temporale alla quale pertiene ovviare gli mali per
+punirli, acci@o che, per la conversione degli mali uomini, el non
+si disviasse tutti gli altri, s@i come ne scrive l'Apostolo ^ad
+Corinthios~ II: ^Nescitis quia modicum frumentum totam massam
+corrumpit~ etc.  ^Auferte malum a vobis ipsis~ etc.
+
+	|7-9.  E essa e l'altre~: Segue suo poema, s@i come
+appare.
+
+	|10-15.  Io dubitava e dicea~: Qui tocca quello dubbio di
+che @e fatta menzione, e poetando mostra com'era timido; ma
+Beatrice, s@i come nome buono e perfetto, lo soccorre; e per@o dice
+|per Be e per ICE~, toccando, ^causa eufoniae~, ci@o @e per buona
+sonoritade, pure l'estreme sillabe di tal nome.  |Che mi
+disseta~: Ci@o @e che adempie collo suo vino, ovver ragioni e
+argomenti, la sete degli dubbj dello Auttore circa la verit@a
+d'essi.  |Ch'alle dolci stelle~: Nota conformativo e ragionevole
+stilo.  |Che s'indonna~: Nota parola informativa; |s'indonna~,
+qui @e a dire ^si trasmuta in donna~ e informasi dalla donnazione.
+
+	|16-18.  Poco sofferse~: Chiaro appare.  |Tal che nel
+foco~: Ci@o @e in superlativo grado d'allegrezza.
+
+	|19-21.  Secondo mio infallibile~: Qui tocca lo dubbio
+detto di sopra: come fu giusto che Tito vendicasse la vendetta
+che seguiva al peccato commesso per gli Giudei, lo quale atto @e
+detto vendetta degli primi parenti?
+
+	|22-24.  Ma io ti solver@o~: Segue lo poema, rendendo
+l'Auttore afabile circa tale risposta.
+
+	|25-30.  Per non soffrire~: Ci@o @e Adam e Eva, per non
+essere ubbidienti, che era sua perfezione, caddono in peccato; e
+cos@i si discese poi quello peccato negli suoi discendenti, s@i
+come dice Tommaso nella ^prima secundae~, questione 91, articulo
+IIJ nella responsione; e dice: ^Secundum fidem catholicam
+firmiter est tenendum quod omnes homines, praeter solum Christum,
+ex Adam derivati, peccatum originalem ex eo contrahunt, alioquin
+non omnes indigerent redemptione~ etc.  E rende appresso a ci@o
+una cos@i fatta ragione, che, s@i come gli membri peccano per
+volont@a dell'anima, la quale @e suo motore, cos@i gli suoi
+discendenti, cio@e d'Adam, partecipano del peccato del suo
+generatore.  Adam fue padre di tutti; ergo etc.  E s@i come per
+quello Adam, tutti i suoi generati, che sono tutti gli uomini,
+furono in peccato, cos@i per l'avvento di Cristo furono rigenerati
+per la fede, e per lo battesimo, e liberi dal detto peccato. 
+|Onde la umana~: Chiaro appare etc.  |Secolo~: S'intende C e X
+anni, secondo Isidoro.
+
+	|31-33.  Quella natura~: Ci@o @e l'umana.  |Un@i a s@e~: Ci@o
+@e lo figliuolo.  |Coll'atto solo~: Ci@o @e collo Spirito Santo.
+
+	|34-36.  Or drizza~: Segue 'l poema.  |Questa natura~:
+Nota qui che la umana natura, che fue assunta dal figliuol di
+Dio, fue pura e sincera, sanza lo peccato d'Adam; e provalo cos@i,
+secondo S. Tommaso, nella III parte, questione XV, articulo I,
+nella responsione del secondo argomento; e dice, s@i come dice
+Agustino X ^super Genesis ad litteram~: ^Non omni modo Christus
+fuit in Adam, et in aliis patribus, quo nos ibi fuimus; nos enim
+fuimus in Adam secundum seminalem rationem et secundum
+copulativam substantiam; Christus autem non fuit in Adam secundum
+seminalem rationem, sed secundum solam corporalem substantiam.~ 
+Adunque Cristo non assunse di Adam attivamente la natura umana;
+ma solo la materia: e cos@i fu tolto del puro sangue di nostra
+Donna, e lo Spirito Santo attivamente gli di@e la natura umana,
+cos@i come nella creazione d'Adam la materia fue del limo della
+terra, e attivamente, Iddio fue la parte attiva.  Adunque si
+segue che Dio non fue suddito al peccato d'Adam, e la sua natura
+umana fue cos@i sicura e libera come fue creata anzi lo peccato
+degli primi parenti.
+
+	|37-39.  Ma per se stessa~: Chiaro appare, come quella
+materia umana, imper quello ch'era discesa d'Adam, pure era di
+fuori del Paradiso, e non era ancora libera dalla subjezione del
+peccato, tutto che in atto umano non fosse per generazione in
+Cristo.
+
+	|40-42.  La pena dunque~: Ci@o @e, se si considera questa
+materia esser quella che, portando pena, poteaci liberare, e
+liber@o la umana generazione per la conjunzione della Divinit@a
+ch'era con essa, nulla pena fu mai s@i giusta; quasi a dire:
+questa pena non fue ingiuria, ma fue vendetta del primo peccato,
+com'@e detto; s@i che giusta, ci@o @e ragionevole, fue tal pena.
+
+	|43-45.  E cos@i nulla~: Ci@o @e, se la pena per revelazione
+si referre alla divinit@a, et alla persona di Cristo, in quanto
+Cristo non suddito a peccato, nulla si por$ia trovare che
+equipollesse a quella ingiuria.
+
+	|46-48.  Per@o d'un atto~: Ci@o @e della morte di Cristo
+nasce due considerazioni, l'una lo piacer di Dio a redimere
+l'umana generazione per tal modo; l'altro la iniquit@a degli
+Giudei a fare patir pena a persona innocente per invidia.  |Per
+lei trem@o la terra~: S@i come @e scritto Johan: XXVI: ^Tenebrae
+autem factae sunt super terram~ etc.  |E 'l ciel s'aperse~: Ci@o @e
+che, per la morte di Cristo, lo cielo, che era stato cotanto
+tempo serrato all'umana generazione che nullo si salvava, s@i si
+aperse, e ricevette quegli che, pe' meriti costituiti in grazia,
+furono condegni d'aver la gloria del Paradiso, s@i come dice
+l'Apostolo ^ad Haebreos~ X: ^Habemus fiduciam in introitu
+Sanctorum, scilicet in sanguine Christi.~
+
+	|49-51.  Non ti dee ora mai~: Chiaro appare, per quello
+ch'@e detto, che per |giusta corte~, ci@o @e di Tito imperadore, fue
+vendicata la morte di Cristo; e la vendetta che fecero i Giudei
+del peccato degli primi parenti ingiustamente nella persona di
+Cristo.
+
+	|52-54.  Ma io veggio ora~: Segue lo poema, come chiaro
+appare.
+
+	|55-57.  Tu dici: ben discerno~: Qui tocca l'altro
+dubbio, ci@o @e per che piacque pi@u a Dio lo modo dell'incarnazione
+del verbo, che altro modo.
+
+	|58-60.  Questo decreto~: Quasi a dire, ell'@e sottile
+questione.
+
+	|61-66.  Veramente, per@o che~: Qui mostra che la
+benivolenza e cortes$ia di Dio fue per tal modo, lo quale fue
+palesamento di sua possanza e misericordia.
+
+	|67-69.  Ci@o che da lei~: Ci@o @e l'anime umane e gli
+Angeli.  |Non ha po' fine~: Ci@o @e sono eterne e incorruttibili. 
+|Perch@e non si muove~: Nota qui influenzia non suddita a moto, e
+^per consequens~ incorruttibile.
+
+	|70-72.  Ci@o che da essa~: Ci@o @e il libero arbitrio. 
+|Alla vertude~: Ci@o @e agli cieli, che sono novi in quanto sono
+creati.
+
+	|73-75.  Pi@u gli conforma~: Ci@o @e essa cosa creata a Dio
+@e pi@u conforme quanto pi@u prende del suo splendore.
+
+	|76-78.  Di tutte queste cose s'avvantaggia~: C$i@o @e che
+l'anima umana hae libero arbitrio, et @e eterna, et @e disposta a
+ricever tale splendore.  |E s'una manca~: Ci@o @e, s'@e suddita al
+peccato, e non @e in libero arbitrio; o se non riceve per lo
+peccato lo splendore divino, s@i cade di sua nobilitade.
+
+	|79-81.  Solo il peccato~: Chiaro appare.  |Disfranca~:
+Ci@o @e toglieli la franchezza, e falla disviare dal sommo bene,
+ci@o @e Iddio.  |Perch@e del lume~: Ci@o @e che lo peccato la fae
+tanto negra che la luce del Creatore nolla imbianca.
+
+	|82-84.  Et in sua dignit@a~: Ci@o @e non ^remittitur
+peccatum, nisi restituatur ablatum~ etc.
+
+	|85-87.  Vostra natura~: Ci@o @e in Adam.  |Da queste
+degnitadi~: Ci@o @e da libertade e da disposizione d'esser adatta a
+ricevere lo predetto splendore, e dal luogo del paradiso
+terrestre.
+
+	|88-90.  N@e ricovrar poteansi~: Chiaro appare.  |Badi~:
+ci@o @e speculi e ragioni.
+
+	|91-93.  Che Dio solo~: Questo per la sua onnipotenzia. 
+|O che l'uom per se isso~: Ci@o @e per gli suoi naturali sanza
+altra stranea aita.
+
+	|94-96.  Ficca l'occhio~: Segue suo poema.  |Abisso~: Ci@o
+@e profondo e secreto consiglio della Divinitade.
+
+	|97-102.  Non potea l'uomo~: Ci@o @e tanto abbassarsi
+quanto credette montare.
+
+	|103-105.  Dunque a Dio~: Chiaro appare come di
+necessitade conven$ia a tal salvazione l'opera divina, poi ch'@e
+l'umana schiusa.
+
+	|106-108.  Ma perch@e l'opra~: Ci@o @e tanto @e pi@u da
+pregiare quanto pi@u cortesemente @e largita e pi@u perfettamente.
+
+	|109-111.  La divina bont@a che~: Ci@o @e che innanzi volle
+atare la umana et rovinata natura.
+
+	|112-117.  Non tra l'ultima~: Nota che tanta larghezza
+non fu ne sar@a mai dal primo die del mondo infino a quella notte,
+che sar@a ultima nel tempo che durer@a il mondo, quanto fue quella
+che Dio fece nella redenzione umana, che diede se stesso, e port@o
+pene e morte etc., e fue troppo maggiore che s'egli avesse pure
+rimessa la pena e la colpa all'umana natura sanza altra novit@a
+etc.
+
+	|118-120.  E tutti gli altri modi~: Ci@o @e ogni altro modo
+@e scarso e di men liberalitade, e di minore contentamento alla
+justizia, a comparazione di questo.  E concordasi con Agostino
+XIIJ ^De Civitate Dei~: ^Sanandae nostrae miseriae convenientior
+alius modus non fuit, quam per Christi passionem~ etc.
+
+	|121-123.  Or per empierti~: Qui dichiara quello ch'@a
+detto della differenza delle creature, ch'alcune sono eterne, e
+alcune sono generabili e corruttibili.
+
+	|124-126.  Tu dici: io veggio~: Ci@o @e gli elementi e gli
+elementati.  |Venire a corruzione~: S@i come mostra lo Filosofo
+nel Libro ^De Generatione et curruptione.~
+
+	|127-129.  E queste cose~: Nota che dubbio nasce, se il
+detto di sopra @e inteso simpliciter, sanza distinzione.
+
+	|130-132.  Gli angeli, frate~: Qui distingue Beatrice, e
+dice che gli Angeli e gli cieli sono creati ^immediate~; e per@o
+sono eterni.
+
+	|133-135.  Ma gli elementi~: Ci@o @e sono creati mediante
+il cielo, nel quale @e la virt@u informativa creata.
+
+	|136-138.  Creata fu~: Ci@o @e la materia perjacente. 
+|Creata fu~: Ci@o @e la virt@u del cielo e delle stelle.  |Che
+'ntorno~: Ci@o @e ad essi elementi, come appar nel Trattato della
+^Spera~, e nel libro ^de Coelo et mundo.~
+
+	|139-141.  L'anime degne~: Nota che l'anime degli animali
+bruti, e degli $albori e erbe, sono adutte in atto da movimento di
+cielo, e per@o sono corruttibili e non eterne.
+
+	|142-144.  Ma nostra vita~: Ci@o @e l'anima umana
+^immediate~ @e creata da Dio, s@i come gli Angeli; e per@o
+s'insempra e diventa eterna.
+
+	|145-148.  E quinci puoi~: Per le ragioni sopradette s@i @e
+ragionevole la resurrezione de' corpi al giudicio finale, acci@o
+che 'l corpo, che, essendo unito coll'anima, se merit@o o pecc@oe,
+abbia quella remunerazione o pena, che @e conforme alla justizia
+del sommo Creatore: lo qual corpo risuscitato sar@a negli buoni
+cos@i glorificato e mondo da ogni turpitudine, come fue negli
+primi parenti nello stato della sua innocenzia, innanzi che
+peccassono.  E per@o dice: la carne sar@a cos@i fatta com'ella si f@e
+quando Adam e Eva furono da Dio fatti.  E qui compie la materia
+del VII capitolo.

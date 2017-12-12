@@ -1,0 +1,77 @@
+	|1.~  ^Chi @e costui~ -- Hic poeta introducit duos loquentes 
+admirative de eo vivo eunte per purgatorium.
+
+	|4.~  ^Non so che sia~ -- Responsio interrogationi predicte.
+
+	|6.~  ^Colo~ -- Est punctus rethoricus perffectam denotans sententiam 
+orationis, quasi dicat: <Interroga eum tu ita dulciter quod respondeat 
+tibi perfecte>.
+
+	|17.~  ^Falterona~ -- Mons est in Alpibus supra Casentinum.
+
+	|31.~  ^Principio~ -- Scilicet Arni.
+
+	|32.~  ^Tronco~ -- Apud Farum de Mescina, quia Farus dividit Siciliam, 
+in qua est mons Pelorus, ab Italia ubi incipiunt Alpes.
+
+	|33.~  ^Segno~ -- Scilicet altitudinem Falterone.
+
+	|34.~  ^Rende~ -- Ubi Arnus intrat in mare prope civitatem Pisarum ad 
+restaurandum aquam extra mare in se traductam, iuxta illud: <Omnia 
+flumina intrant in mare>, et infra: <Dicto loco unde exeunt revertuntur 
+ut iterum fluant>.
+
+	|35.~  ^Ciel~ -- Circulatio celi et calor solis sunt causa meatus 
+fluminum.  ^Sciuga~ -- Scilicet per alterationem et distillationem per 
+meatus terre.
+
+	|39.~  ^Uso~ -- Idest ab usu hominum propter pulcritudinem.
+
+	|41.~  ^Misera valle~ -- Scilicet Arni.
+
+	|42.~  ^Circe~ -- Dicta est filia Solis esse et incantationibus et 
+venenis herbarum homines mutabat in bestias.  Hoc ideo factum est quia 
+homines cum ea libidinose lascivientes bestialiter se gerebant, bona 
+eorum prodigaliter dispergendo.
+
+	|43.~  ^Porci~ -- Alludit nomini.  Nam in principio fluminis Arni 
+habitant comites de Porciano.
+
+	|45.~  ^Calle~ -- Quia paucam aquam habent.
+
+	|46.~  ^Boctoli~ -- Aretini sunt quasi habentes vocem canis ringentis. 
+ Boctuli sunt canes parvi multum latrantes.
+
+	|48.~  ^Muso~ -- Quia non appropinquat Aretium set vadit Laterinam.
+
+	|50.~  ^Lupi~ -- Florentinos propter avaritiam lupos dicit.
+
+	|53.~  ^Volpe~ -- Pisanos propter astutiam et caliditatem.
+
+	|56.~  ^Costui~ -- Danti scilicet.
+
+	|58.~  ^Nepote~ -- Fulcerium de Calboli qui fuit capitaneus Florentie 
+post expulsionem Blancorum.
+
+	|59.~  ^Riva~ -- Scilicet in Florentia que est in ripa Arni.
+
+	|60.~  ^Tucti~ -- Quia omnes indifferenter redimere faciebat.
+
+	|61.~  ^Vende~ -- Per baractarias.  Nota modos quibus baractarie 
+commictuntur per rectores terrarum, qui potius raptores dici debent 
+propter extorsionem pecunie ut ibi: <Essendo viva>, propter occisionem 
+pro pecunia ut ibi: <Li ancide>.
+
+	|88.~  ^Ranieri~ -- Ranerius de Calboli, patruus Fulcerii.
+
+	|92.~  ^E 'l Reno~ -- Hi sunt confines Romandiole.
+
+	|139.~  ^Aglauro~ -- Aglauros invidens Erse sorori sue, quam amabat 
+Mercurius, voluit eam expellere de domo, set conversa est in saxum 
+lividi coloris.
+
+	|143.~  ^Chaymo~ -- Caym, postquam Deus maledixerat eum quia invidia 
+occiderat fratrem suum Abel, ex timore dixit: <Maior est iniquitas mea 
+quam ut veniam merear.  Omnis qui invenerit me, occidet me>, ut supra: 
+<Ancidarame qualunque me prende>.
+

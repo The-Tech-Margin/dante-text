@@ -1,0 +1,1146 @@
+	|Proemio.~  ^Quel color~ ec.  Questo @e lo nono canto,
+nel quale l'autor nostro pone come entr@o nel VI cerchio che @e
+lo primo della citt@a Dite, e per@o questo canto si divide
+principalmente in due parti, perch@e prima pone in che modo li
+demoni apparecchiarono la difensione per contrastare all'angelo,
+acci@o che Dante non entrasse nella citt@a; e nella seconda, come
+l'angelo venne a fare aprire la porta, e come entr@o dentro alla
+citt@a, quivi: ^E gi@a venia~ ec.
+
+	|1-63.~  La prima che @e la prima lezione,
+si divide in otto parti, perch@e prima pone quel che
+Virgilio fece e disse, dette le parole poste di sopra; nella
+seconda, quel che Dante pensava pel detto di Virgilio, quivi: ^Io
+vidi ben~ ec.; nella terza come Dante fa una domanda a Virgilio,
+e come Virgilio risponde, quivi: ^In questo fondo~ ec.; nella
+quarta, come Virgilio, fatta la risposta alla domanda di Dante,
+dice pi@u oltre della condizione del luogo, quivi: ^Questa
+palude~ ec.; nella quinta pone Dante, come Virgilio li manifesta
+che @e quel ch'elli vede, quivi: ^E quei, che ben conobbe~
+ec.; nella sesta pone Dante quello che per s@e conobbe, quivi:
+^Con l'unghie si fendea~ ec.; nella settima, come Virgilio
+l'ammonisce, e piglia rimedio contra il nocimento, quivi: ^Volgiti
+in dietro~ ec.; nell'ottava pone l'autore uno conforto a'
+lettori che notino l'allegoria in questo passo, quivi: ^O voi che
+avete~ ec.  Divisa la lezione, ora @e da vedere la sentenzia
+litterale.
+
+	Dice adunque cos@i: Io Dante avendo veduto turbato et
+adirato Virgilio, perch@e gli era negata l'entrata della citt@a
+Dite, dubitai e temetti; la qual cosa procede da vilt@a di cuore,
+e per tanto diventai pallido.  Onde Virgilio vedendomi, smorto e
+pallido, cacci@o da s@e l'ira e la turbazione, e ritorn@o il
+sangue alle parti sue, ch'era sparto nella faccia, dentro per dar
+conforto a Dante, e cominci@o a dire: ^Pure a noi converr@a
+vincer la punga Se non.., tal ne sofferse~ ec., e non compi@e sua
+sentenzia; ma lasciolla troncata, onde soggiugne altra sentenzia
+cio@e: Oh quanto tarde a me; cio@e a mio parere, ch'altri
+giunga qui; e questo dice d{e}ll'angelo ch'elli aspettava,
+perch@e venisse a fare aprir la porta; onde dice Dante ch'elli
+s'avvide bene come Virgilio ricoperse lo primo detto col
+secondo; ma niente di meno pur ebbe paura, perch'elli compieva
+la parola tronca con tal sentenzia che non era vera, secondo
+la intenzione di Virgilio.  Oltra questo domanda Dante Virgilio,
+per ch'elli avea preso dubbio dell'entrare, se in quella citt@a
+entr@o mai niuno di quelli del castello.  Alla qual domanda
+rispose Virgilio, che rade volte addiviene che quelli del
+castello vadino per l'inferno, ma una volta elli v'and@o
+scongiurato da Eritone incantatrice, che facea tornare l'anime
+ai corpi, ch'elli andasse a cavare uno spirito del cerchio di
+Giuda, che @e il pi@u basso luogo d'inferno, e pi@u remoto dal
+cielo perch@e qui @e lo centro della terra; e che ben sapea il
+cammino, sicch@e prendesse sicurt@a, e non si maravigliasse se
+elli s'era adirato, che chiunque va a quella citt@a convien che
+s'adiri: per@o ch'elli passa Stige ove si punisce l'ira, et
+evvi continuo accendimento d'ira: per@o che con ira si punisce
+l'ira, come fu manifestato in Filippo Argenti che si mordea coi
+denti.  Mostra l'autor che dicesse ancor altro; ma finge di non
+averlo a mente, perch@e la paura indebolisce la memoria, et elli
+era tutto attento all'alta torre, alla cima ch'era rovente, ove
+vide tre furie infernali, che li autori fingono che sieno le
+donzelle, e cameriere di Plutone, e dice che l'una avea nome
+Aletto, e l'altra Tesifone, e l'altra Megera, et erano in forma
+di femmina con cinture di serpenti e coi capelli serpentini: e
+Virgilio gliel mostra e nominale, e dice che sono ministre di
+Proserpina, e sono chiamate Erine per nome speciale, e poi
+manifesta lo nome proprio di ciascuna, come @e detto di sopra.	E
+dice l'autore, ch'elle si fendeano con l'unghie lo petto e
+batteansi a palme, e gridavano ad altissima voce: Male al nostro
+uopo non ci vendicammo di Teseo, che ora non ci verrebbe
+costui, lo quale ci viene ad esempro di lui; e soggiugneano:
+Venga Medusa, che il faremo diventare pietra.  Onde Dante per
+paura si strinse a Virgilio, et allora Virgilio ammonisce Dante
+che si volga: ch@e se Medusa si mostra et elli la vegga, non
+ritorner@a mai suso, perch@e diventerebbe pietra; e non
+s'attenne Virgilio a Dante; ma elli stesso lo volse e colle sue
+mani lo chiuse.  E per questo incita l'autore li lettori e li
+uditori a considerare la esposizione allegorica, che si nasconde
+sotto le parole dette di sopra; e qui finisce la sentenzia
+litterale.  Ora @e da vedere lo testo con le allegorie.
+
+	|1-9.~  In questi tre ternari lo nostro
+autor procedendo oltre nel trattato, dimostra quel che disse
+Virgilio, e che disse dopo quel che fu detto nell'altro canto;
+onde dice: ^Quel color~; cio@e smorto e pallido, ^che vilt@a di
+fuor mi pinse~; nel volto, ^Vedendo il Duca mio~;
+cio@e Virgilio, ^tornar in volta~; della porta di Dite, ^Pi@u
+tosto d'entro il suo nuovo ristrinse~; dentro a s@e; cio@e lo
+colore smorto, che venne per vilt@a nella faccia di Dante,
+ristrinse pi@u tosto che non avrebbe fatto, dentro a Virgilio lo
+suo nuovo; cio@e il color acceso dell'ira che ora nuovamente era
+venuto nella faccia di Virgilio, dimostrandosi con rossezza.  Onde
+qui @e da notare che timore procede da vilt@a di cuore, perch@e
+timore @e tristizia di cuore, o desperazione d'avere la cosa
+desiderata o sperante d'aver la cosa odiata; e per tanto la
+natura che sempre soccorre alle parti ch'@anno mancamento o
+difetto, manda il sangue dentro al cuore, e perci@o diventa
+l'uomo pallido in faccia, e per@o pallidit@a @e segno di paura
+quando viene subita.  Questo si dice perch@e alcuna volta viene
+per infermit@a, et alcuna volta per paura; et a differenzia
+di queste disse l'autore, che vilt@a di fuor mi pinse.  Ancor @e
+da notare qual fu lo color nuovo di Virgilio; e questo fu
+rossezza nella faccia, la quale procede da ira: imper@o che come
+dice Aristotile, ira @e bollimento, ovvero accendimento di sangue
+intorno al cuore per appetito di vendetta, e per@o conviene che
+si sparga di fuori nella faccia, perch@e lo sangue acceso
+discorre per tutte le vene, e per tutte le membra; e perch@e
+quivi n'@e pi@u che altrove, per@o pi@u appare quivi che
+altrove; e cos@i quando si rimuove, appare pi@u la pallidit@a: e
+puossi notare qui una moralit@a, che quando li buoni capitani
+veggono sbigottire li suoi sudditi, mostrano ardire per
+rinfrancarli, come dice Virgilio di Enea: ^Spem vultu simulat
+premit altum corde dolorem.~  E cos@i pone ora Dante di Virgilio,
+e notantemente dice nel testo pi@u tosto che non avrebbe fatto il
+suo nuovo, perch@e le passioni subito vengono nel savio uomo, e
+subito si partono.  Ancora si pu@o muovere qui uno dubbio: con
+ci@o sia cosa che sia detto di sopra che Virgilio tenga figura di
+ragione, e Dante di sensualit@a, come si pu@o intendere e dee, che
+Dante diventasse insieme pallido e rosso, come seguitarebbe per
+quello che detto @e di sopra?  A questo si pu@o rispondere
+espeditamente, che non sempre Dante pone che Virgilio tenga
+figura di ragione, come si pu@o mostrare per lo testo, ove dice
+di sopra nel quarto canto: ^Io era nuovo in questo stato~; e
+cos@i apparir@a di sotto in questo canto, ove dice: ^Ver @e,
+ch'altra fiata qui gi@u fui.~  Ancora se sempre l'autore avesse
+usata questa figura, e mai non li avesse dato quello che fu
+propio di Virgilio, non sarebbe stata buona poesia, perch@e non
+avrebbe avuto verisimilitudine.  Puossi ancor dire che in questo
+modo si salvi la fizione di Dante pigliando la sensualit@a di
+Dante insieme con la ragione inferiore; e dicendo che Dante finga
+che vedendo che la ragione superiore, significata per Virgilio,
+che non potea acquistare conoscimento di quel ch'era dentro alla
+citt@a, ch'elli finge che li serrasson le porte, il qual
+serramento significa difficolt@a et ostacolo, ritorna in verso
+Dante; cio@e alla ragione inferiore e sensualit@a, crucciandosi
+della sua impotenzia.  E per questo la ragione inferiore e
+sensualit@a significata per Dante impaurisce di rimanere
+impedit@a, e non potere compiere lo suo proponimento; ma poi la
+ragion superiore caccia l'ira, sperando nella grazia di Dio; e
+per questo finge che l'angelo li vegna ad aprire la porta; e
+bench@e l'autor finga queste cose in uno punto, deesi intendere
+che fosse successivamente.  Potrebbesi ancor dubitare come and@o
+la sensualit@a di Dante a queste cose.  A che si pu@o rispondere
+che quanto al vero non v'and@o, se non la sua ragione; ma la sua
+poesia finge per s@i fatto modo, che pare che andasse ancora
+la sensualit@a, ponendo tutte queste cose sensibili, come appare
+nel testo.  Seguita: ^Attento si ferm@o~; Virgilio, ^com'uom,
+ch'ascolta~; poi ch'ebbe posata l'ira: ^Ch@e l'occhio nol
+potea menare a lunga~; rende la cagione perch@e ascoltava:
+imper@o che non potea vedere, ^Per l'aere nero, e per la nebbia
+folta.~  Ecco la cagione del non poter vedere; e benche l'autore
+finga l'aere nero essere per tutto l'inferno, che significa
+ignoranzia, pi@u quivi che nelli luoghi passati, perch@e quivi
+puniscono i pi@u gravi peccati, sicch@e v'@e maggiore
+ignoranzia: quivi nel pantano ove era la nebbia, si punisce ira
+et accidia, come detto fu di sopra.  ^Pure a noi~; cio@e a me
+Virgilio, e a te Dante, cominci@o a dir Virgilio: ^converr@a
+vincer la punga~; et @e qui metatesi, figura di grammatica, per
+la quale si trasmutano le lettere per la rima, o forse quello che
+noi diciamo pugna altro linguaggio dice punga; cio@e la gara.
+^Cominci@o el~; cio@e Virgilio, ^Se non.., tal ne sofferse....~
+Questa @e una orazione imperfetta secondo il grammatico, che non
+@a verbo principale; ma ella si dee supplire in questo modo;
+cio@e se non la vinceremo per noi, tal ne sofferse; cio@e
+sostenne pena; e questo fu Cristo nostro Salvatore, che ce la
+far@a vincere.  E detto questo, soggiunse una orazione perfetta;
+cio@e: ^Oh quanto tarda a me~; cio@e al mio parere: per@o chi
+aspetta, sempre li appar troppo indugiare, ^ch'altri qui
+giunga~; cio@e l'angelo il quale dee venire a fare aprire la
+porta; e per questo angelo intende l'autore la grazia di Dio,
+sanza la quale nulla pu@o comprendere il nostro intelletto.  E qui
+bene appare che Virgilio si ponga per la ragione: per@o che
+ponendosi propiamente per Virgilio, non avrebbe verit@a in s@e la
+sentenzia, bench@e la lettera n'avesse verisimilitudine.
+
+	|10-15.~  In questi due ternari finge l'autore
+che elli sgomentasse per lo detto di Virgilio, che
+detto fu di sopra; bench@e Virgilio ricoprisse la sentenzia
+incominciata con altra che segu@i.  Dice cos@i: ^Io~; cio@e
+Dante, ^vidi ben, s@i com'ei~; cio@e Virgilio, ^ricoperse Lo
+cominciar~; cio@e la prima sentenzia incominciata; cio@e: ^Pure
+a noi~ ec., ^con l'altro, che poi venne~; cio@e con la
+sentenzia che seguit@o poi, cio@e: ^Oh quanto tarda~ ec.  --
+^Che fur parole alle prime diverse~: imper@o che la seconda
+sentenzia fu diversa dalla prima: imper@o che la prima secondo lo
+suono delle parole mostrava dubio, in quanto diceva: ^Pure a
+noi~; ove non si mostrava speranza d'aiuto, quando disse: ^Oh
+quanto tarda.~  -- ^Ma non di men~; cio@e che ricoprisse la prima
+sentenzia con la seconda, ^paura il suo dir~; di Virgilio
+^dienne~; a me Dante: ^Perch'io~; cio@e Dante, ^traeva la parola
+tronca~; cio@e orazione imperfetta che dicea: ^Se non.., tal ne
+sofferse...~ -- ^Forse~; dice in dubbio: imper@o che potea essere
+che sarebbe tenuta quella sentenzia che Dante credea, et ancor
+potea essere ad un'altra sentenzia migliore, per la quale forse
+Virgilio la profferea, et ancor potea essere che la proffereva a
+quella sentenzia che Dante intendea, e per@o disse: ^Forse a
+piggior sentenzia, ch'e' non tenne~; secondo la intenzion di
+Virgilio.  Sopra questa parte @e da notare che Dante finge che
+traesse quella orazione alla sentenzia poetica, secondo la favola
+d'Ercole, e di Peritoo, e Teseo, la qual si dir@a di sotto in
+questo capitolo sopra quel testo: ^Che giova nelle fata dar di
+cozzo~; quasi dicesse: Tal ne sofferse, che ancora ne sofferr@a.
+E questa potea esser la sentenzia di Virgilio, la quale con quel
+dinanzi dava paura a Dante, temendo non li convenisse combattere
+con Cerbero, come fe Ercole, Peritoo, e Teseo; e per@o finge che
+soggiunse l'altra ch'era di conforto; cio@e: ^Oh quanto tarda.~
+Finge ancora che Virgilio pot@e intendere quella orazione secondo
+che sposta fu di sopra; bench@e Dante la tirava pure a piggiore
+intendimento, e per@o ebbe paura per quel dir primo, cio@e: ^Pure
+a noi converr@a vincer la punga~; e questo cagionava lo tiramento
+dell'orazione tronca forse a piggior sentenzia, che quella che
+Virgilio avea intesa.  E sopra questa parte @e da notare che
+l'autor finge questo diverso parlare essere stato in Virgilio, per
+mostrare come si variano le sentenzie quando l'animo @e acceso a
+ira; et ancora finge quel parlare tronco, per dare ammaestramento
+all'uomo che esamini bene le parole dette dal savio uomo,
+innanzi che giudichi, e tirile a tutte le sentenzie che tirar si
+possono, e prendane la migliore.
+
+	|16-30.~  In questi cinque ternari l'autor
+nostro finge che facesse a Virgilio una domanda la qual
+pone prima, e poi soggiugne la risposta di Virgilio.  Dice
+adunque cos@i: ^In questo fondo~; dimostrando la citt@a Dite,
+^della trista conca~; cio@e dell'inferno, il quale chiama conca:
+per@o che ogni cosa che tiene @e conca, e dice trista: per@o che
+@e piena di tristizia, ^Discende mai alcun del primo grado~;
+cio@e del primo cerchio ove pose il castello, e quelli che non
+@anno peccato; ma son morti sanza fede, ^Ch'@a sol per pena la
+speranza cionca~; cio@e che son sanza speranza di grazia, et
+@anno continuo desiderio, onde disse di sopra cap. IV, ^Che
+sanza speme vivemo in disio~?  -- ^Questa question fec'io~;
+dice Dante, la qual'@e detta di sopra, per mostrare onde li
+venia paura di potere entrare nella citt@a Dite, e che Virgilio li
+sapesse mostrare il cammino.  Aggiugne la risposta di Virgilio:
+^e quei~; cio@e Virgilio disse, s'intende: ^Di rado Incontra~;
+cio@e addiviene rade volte, ^mi rispuose~; cio@e mi rispose a me
+Dante, ^che di nui~; cio@e di quelli del primo cerchio, ^Faccia
+il cammin alcun, per qual io vado~; ora con teco.  ^Ver @e
+ch'altra fiata qui gi@u fui~; dice Virgilio, ^Congiurato da
+quel'Eriton cruda~; cio@e crudele, ^Che richiamava l'ombre~;
+cio@e facea tornare l'anime un'altra volta, poi ch'erano morti,
+^ai corpi sui~; e questo manifest@o Virgilio quando vi fu, e
+come; cio@e quando Eriton lo scongiur@o.  Questa Eritone fu una
+femmina di Tessaglia incantatrice che facea per arte magica
+tornare l'anime ai corpi, e rispondere delle cose che doveano
+venire.  Di questa fa menzione Lucano, ponendo che Sesto
+figliuolo di Pompeio and@o a lei per domandare dell'avvenimento
+della battaglia; et ella allora fece l'arte, e fece tornare una
+anima nel corpo, e disse quel che dovea avvenire.  Ma questa
+fizione; cio@e che Eriton scongiurasse Virgilio, fa l'autor
+nostro da s@e poetando: ch@e questo non si truova appo li autori,
+n@e non @e da dire che qui l'autore faccia allegoria; ma finge
+questo per dare verisimilitudine alla sentenzia litterale,
+considerato ch'avea finto di sopra che Virgilio era di quelli
+del primo cerchio.  Et ancora Virgilio dice nel sesto dell'Eneida:
+^Nulli fas casto sceleratum insistere limen.~  -- ^Di poco~;
+cio@e di poco tempo, ^era di me~; anima, ^la carne~; mia, ^nuda,
+Ch'ella~; cio@e Eriton, ^mi fece entrar dentro a quel muro~;
+della citt@a Dite: ^Per trarne un spirto~; fuor di quella
+citt@a, ^del cerchio de Giuda~; cio@e nel quale @e Giuda; lo qual
+cerchio si chiama la Giudecca dal nome di Giuda.  E questo finge
+l'autore, per mostrare che sia possibile che Virgilio ora vel
+meni, bench@e l'Eneida dica che Sibilla non vi menasse Enea.
+^Quell'@e il pi@u basso loco e il pi@u oscuro, E il pi@u lontan~
+^dal Ciel che tutto gira.~  Parla della Giudecca dicendo, che @e
+il pi@u basso luogo dell'inferno, e pi@u oscuro e pi@u di lungi
+dal cielo, che gira intorno la terra: per@o che @e al centro
+della terra, e lo centro @e pi@u distante luogo che sia dalla
+circunferenzia del cerchio; e questo finge per mostrare che ben
+li sia possibile di menarlo d'ogni lato, e per@o soggiugne: ^Ben
+so il cammin~; io Virgilio; ^per@o ti fa sicuro~; tu Dante, e
+non aver pi@u paura.
+
+	|31-42.~  In questi quattro ternari l'autor
+nostro pone lo compimento del parlar di Virgilio, et
+appresso soggiugne quello che vide in sulla torre della citt@a.
+Prima dice che Virgilio, poich@e l'ebbe confortato mostrandoli
+che ben sapea lo cammino, li rende la cagione perch@e s'era
+adirato, dicendo: ^Questa palude~; cio@e Stige, che aveano
+passato, ^che il gran puzzo spira~; cio@e gitta, come detto fu di
+sopra, ^Cinge d'intorno la citt@a dolente~; cio@e Dite con le
+fosse che disse di sopra, ^U' non potemo~; cio@e nella qual
+citt@a non possiamo, ^entrare omai sanz'ira~; e per tanto non ti
+maravigliare se io m'adirai con li demoni, ch'ella @e
+intorniata questa citt@a da palude, ove si punisce l'ira.  E
+bench@e questo abbi finto secondo la lettera, niente di meno @ae
+avuto intelletto allegorico: imper@o che la ragione entrando a
+considerare li gravi peccati, non pu@o fare che non s'adiri,
+almeno d'ira, per zelo della giustizia di Dio contra s@i fatti
+peccati.  ^Et altro disse~; Virgilio; ^ma non l'@o a mente~; io
+Dante: ^Perocch@e l'occhio~; cio@e mio, ^m'avea tutto tratto Ver
+l'alta torre alla cima rovente~; cio@e alla cima della torre
+ch'era sulla porta della citt@a, et era rovente come detto fu di
+sopra.  E questo finge l'autore per dare ad intendere che l'animo
+dell'uomo svaria per le cose apposte, e rappresentateli di
+fuori: imper@o che manifesto @e che Dante @e colui che parla, ben
+ch'elli fingendo induca a parlar Virgilio, s@i che ben sapea se
+altro disse.  ^Dove~; cio@e in su la qual cima della torre, ^in
+un punto furon dritte ratto~; cio@e tostamente, ^Tre furie
+infernal di sangue tinte~; cio@e le quali erano sanguinose, ^Che
+membra feminili aveano et atto~; cio@e aveano le membra e li atti
+a modo di femmine, sicch@e pareano femine.  ^E con idre
+verdissime eran cinte~; cio@e avean serpenti verdissimi per
+cintura: ^Serpentelli~; piccolini serpi, ^e ceraste avean per~
+^crine~; cio@e in luogo di capelli avean piccoli serpenti, e
+ceraste.  Ceraste @e una generazione di serpenti, ch'@anno le
+corna, sicch@e aveano per capelli quelli serpenti ch'aveano
+corna, et altri piccolini.  ^Onde le fiere tempie eran
+avvinte~; cio@e che aveano avvolti questi serpenti alle tempie
+intorno, come le femine portano li capelli.  Qui manifesta Dante,
+perch'elli riguarda alla cima della torre, avendo sospetto
+di quelli ch'avea detto innanzi Virgilio cap. VIII; cio@e: ^Qual
+ch'alla difension dentro s'aggiri~, e come vide tre furie
+infernali come sono descritte nel testo; e qui nota la fizione
+poetica.  Dicono i poeti che Acheronte fiume infernale, del quale
+fu detto di sopra, generasse della Notte tre figliuole; cio@e
+Aletto, Tesifone, e Megera, e queste dierono per donzelle a
+Proserpina reina dell'inferno, sicch@e ella le @a sempre tenute
+al suo servigio, e mandatele nel mondo, come finge Virgilio, a
+commuovere le discordie; e perch@e li autori non finsono queste
+cose invano, @e da vedere quel che intesono, e quel che intese
+Dante.  E prima, i poeti intesono che queste sono quelle che
+fanno perturbare le menti de' peccatori che peccano per malizia:
+ch@e a quelli che peccano per incontinenzia non sono
+necessarie; e per@o per comune vocabolo le chiama furie
+perch'elle fanno perturbare la mente: furia tanto @e quanto
+perturbazione di mente.  E ben nascono d'Acheronte che significa
+sanza grazia, come detto @e di sopra cap. primo: ch@e quivi ove
+sono, non @e la grazia di Dio; e similmente nascono della Notte
+che significa ignoranzia e chiamasi la prima Aletto che vuol dire
+non riposevole: imper@o che questa si pone per li mali pensieri
+che sempre molestano la mente; l'altra si chiama Tesifone; cio@e
+voce supposita, ovvero voce d'ira, e questa si pone per le male
+parole che escono della bocca; la terza si chiama Megera; cio@e
+maggior tempesta, e questa si pone per le male operazioni.
+Fingonsi in forma di femmine perch@e i nomi si convengono a
+femmine; cio@e mala cogitazione, mala operazione, mala locuzione;
+sono sanguinose perch@e da loro nasce ogni crudelt@a; sono cinte
+di serpenti perch@e inducono fraude et inganni, e con quelli si
+fortificano; @annone treccie al capo, perch@e ogni loro principio
+viene da inganno; sono date a Proserpina; cio@e alla superbia:
+imper@o che Proserpina s'interpetra sotto intrante di lungi; e
+cos@i fa la superbia, che da lungi sotto entra eziandio nelle
+buone opere, non che le cattive; sono dette vergini perch@e sono
+sterili d'ogni bene.  Queste vanno a tentare et a inducere la
+malizia nel mondo: imper@o che ogni male nasce dal mal pensieri,
+dal mal parlare, e dal male operare; queste appariscono in su la
+cima della torre, che significa arroganzia, perch@e sono donzelle
+della superbia; e vogliono impedir Dante perch@e non entri nella
+citt@a, e perch@e nol possono impedire per s@e; cio@e per loro
+medesime, chiamano aiuto, come apparir@a di sotto.
+
+	|43-48.~  In questi due ternari l'autore
+nostro finge che Virgilio li manifestasse per nome le furie
+apparite in sulla cima della torre, e per@o dice: ^E quei~; cio@e
+Virgilio, ^che ben conobbe le meschine~; cio@e le misere
+messaggiere, ^Della reina dello eterno pianto~; cio@e di
+Proserpina regina dell'inferno, ove @e sempre pianto e dolore,
+^Guarda, mi disse~; cio@e a me Dante, ^le feroci Erine~; erinis
+@e a dir discordia.  Quivi ove sono queste @e sempre discordia,
+onde alcuna volta la Grammatica le chiama furie, come @e detto di
+sopra; alcuna volta, Erine come detto @e ora, che viene a dire
+discordia, ovvero combattimento; alcuna volta, Eumenides che
+viene a dire mancamento di beni, e ben dice feroci perch@e sono
+crudeli.  ^Quell'@e Megera dal sinistro canto.~  Virgilio nomina
+qui le furie, come finge l'autore, del nome detto di sopra; ma
+qui si dee notare lo luogo: imper@o che l'autor finge che
+Virgilio ponesse Megera dal lato manco: imper@o che il mal
+pensieri vien dal cuore che @e nel lato manco.  ^Quella, che
+piange dal destro, @e Aletto.~  Qui finge che Aletto sia dal lato
+ritto perch@e le percuote chi l'@e incontro.  ^Tesifone @e nel
+mezzo~; tra l'una e l'altra: imper@o che tra il pensare e il male
+aoperare @e in mezzo il mal parlare, ^e tacque a tanto~; cio@e a
+questo Virgilio si tacque.
+
+	|49-54.~  In questi due ternari l'autor
+nostro pone come dopo la manifestazione delle furie fatta da
+Virgilio, elli comprese alcuno loro atto e loro parlamento, e
+per@o dice: ^Con l'unghie si fendea ciascuna il petto~; di
+quelle tre furie, ^Batteansi a palme~; tutte e tre, ^e gridavan
+s@i alto~; le dette tre furie.  E per questo l'autor manifesta
+li tre loro propri ufici: imper@o che per lo graffiare del petto
+s'intende li lor mal pensieri, che cruenta et insanguina lo
+cuore; e notantemente di tutte: per@o che agli altri due atti va
+innanzi il mal pensiere tutte le volte, quando si pecca per
+malizia; per lo battersi a palme s'intende la mala operazione,
+et ancor si d@a a tutte: imper@o che queste sono fuor che
+l'una va con l'altra, e massimamente la terza d@a ad intendere
+innanzi si trova la seconda e la prima, e nella seconda la prima;
+ma non e converso come appare a chi ben considera; per lo gridare
+alto s'intende la mala locuzione.  ^Ch'io~; cio@e Dante, ^mi
+strinsi al Poeta per sospetto~; cio@e a Virgilio, et
+allegoricamente alla ragione, e solamente dice per paura della
+voce: imper@o che pi@u nuoce il mal parlare, che il mal pensare,
+o male operare al prossimo, e per@o @e pi@u pericoloso; e per@o
+finge che si strignesse al poeta; cio@e alla ragione per paura,
+ch'ebbe la sensualit@a, delle dette furie che non impedessono lo
+suo cammino.  ^Vegna Medusa.~  Ecco che gridavano le dette furie;
+cio@e che venisse Medusa, onde qui @e da notare la fizione che
+pongono li poeti di Medusa, e la sua allegoria ovvero moralit@a.
+Dicono adunque che Forco re d'Africa, nelle parti occidentali,
+ebbe tre figliuole; che l'una ebbe nome Stenio, l'altra
+Euriale, l'altra Medusa; queste tre sorelle non aveano se non un
+occhio, et avvicendevolmente l'una lo prestava all'altra.  Morto
+Forco in mare, bench@e secondo la fizione divent@o Idio marino,
+con tutto lo suo esercito col quale anneg@o in mare, rimase
+Medusa, la quale era la maggior figliuola, donna del regno;
+Nettuno Idio del mare s'innamor@o di lei e viziolla nel tempio di
+Pallade, e pertanto Pallade corrucciata contra di lei, perch@e
+contra Nettuno ch'era suo fratello non potea pigliar vendetta,
+li fece li capelli serpentini, e diede che chiunque la vedesse
+diventasse pietra, onde costei avea gi@a molti uomini convertiti
+in pietra.  Quando la fama sua pervenne a Perseo figliuolo di
+Danae, figliuola d'Acrisio re d'Asia, e di Giove, onde li venne
+voglia di torre s@i fatto mostro del mondo, e domand@o consiglio,
+et aiuto dalla sua suora Pallade dea della sapienzia, et ella li
+prest@o il suo scudo ch'era di cristallo, e Mercurio li prest@o
+la sua spada ritorta come una falce, e andossene nel regno di
+Medusa accompagnato da Pallade.  La quale lo ammaestr@o che
+andasse a dietro e guardasse nello scudo, acci@o che non
+vedesse Medusa e che non s@e mutasse in sasso, e cos@i andando la
+vide nello scudo, e quando fu presso a lei vedendo che prestava
+l'occhio alla sorella, par@o la mano, e tolselo loro, e poi a
+lei che dormia; cio@e Medusa, puose la spada in sul collo e
+tir@o, e segolle il collo; e prese lo capo co' capelli serpentini
+in mano, non mirandolo, e del sangue di Medusa nacque uno cavallo
+alato che li poeti chiamano Pegaso.  Allora mont@o Perseo su quel
+cavallo e venne nel regno del re Atlante; e perch@e non lo volle
+onorare primamente quando li venne a casa, mostrollo questo
+capo e fecelo diventare sasso; e perch@e era gigante divent@o uno
+monte.  E partitosi di quivi venne con questo cavallo in sul
+monte Parnaso che @e in Grecia, e raspando la terra nacque una
+fonte la quale si chiama la fonte delle muse, e lo capo di Medusa
+don@o alla sorella Pallade, et essa poi lo pose nel suo scudo,
+con certi ingegni, e cos@i sempre lo port@o poi nel petto.
+
+	Ora per questa fizione molti intendono una istoria che
+Medusa fosse reina, come @e detto; e che avesse uno occhio con le
+sue sorelle, perch@e erano d'una bellezza; e li capelli
+serpentini ebbe ella, perch@e fu pi@u astuta che l'altre; e
+diceasi mutare li uomini che la guardavano in sasso, perch@e
+diventano stupidi per la sua bellezza.  Perseo fu uno re di
+Grecia, che udita la sua ricchezza, and@o per vincerla et
+acquistare il suo regno, e cos@i li venne fatto: e perch@e il re
+Atlante diede aiuto a Medusa, vinta Medusa con la forza del regno
+di Medusa vinse Atlante, e cacciollo in fin che lo rinchiuse in
+sul monte.  E questo intende la fizione, che dice che lo mut@o in
+monte, che del sangue di Medusa nasc@e Pegaso cavallo alato;
+e le altre cose che seguitano richieggono altra esposizione che
+storiale; cio@e che Perseo, che significa virt@u, aiutato da
+Pallade; cio@e dalla Dia della sapienzia, vince Medusa: cio@e
+oblivione che @e una spezie di terrore, perch@e Medusa @e una
+delle tre sorelle che si chiamarono Gorgones; cio@e terrori.
+Gorgon s'interpetra terrore, e perch@e sono tre le specie de'
+terrori, per@o si nominano tre suore; cio@e Stenio, che
+s'interpetra debilit@a di mente, ch'@e principio di paura;
+Euriale che s'interpetra lata profondit@a, stupor di mente,
+ovvero amenzia, quando la paura abbatte la mente; Medusa; cio@e
+dimenticamento, quando la paura non solamente impaccia il
+conoscimento; ma ancora vi mette ignoranza delle cose sapute.
+Morta Medusa da Perseo; cio@e dal virtuoso, quindi nasce Pegaso
+cavallo alato; cio@e fama, la quale fa la fonte delle muse,
+perch@e delle virtuose opere de' signori @e fama, e le cose
+famose sono materia ai poeti di scrivere.  Ancora il capo di
+Medusa veduto dalle persone muta in sasso: imper@o che chi
+riguarda alla paura, perde lo conoscimento; e per tanto Perseo vi
+vae avverso, perch@e il virtuoso si lascia la paura di dietro
+perch@e la dispregia non pensandola, se non in figura, tanto che
+l'abbia vinta, per@o la riguarda e mirala nello scudo del
+cristallo di Pallade che @e chiara e rilucente difensione di
+sapienzia.  D@a Perseo ancora lo capo di Medusa alla sapienzia
+alla quale lo porta nel petto; ma non lo ragguarda, perch@e lo
+savio porta sempre seco la paura nella mente; ma non si lascia
+vincere a quella: ch@e non li volge il viso; cio@e non li d@a lo
+intelletto, e cos@i espone santo Ilario la detta fizione,
+seguitando Fulgenzio; ma di sotto la metteremo meglio ad
+intenzione dell'autore.  E seguita: ^s@i il farem di smalto~;
+cio@e lo farem di pietra.  Lo smalto @e pietra: per@o che di
+pietra si fa.  ^Dicevan tutte~; le furie predette, ^riguardando
+in giuso~; in verso Dante; e questo appare che dicean di lui:
+^Mal~; cio@e male a nostro uopo, ^non vengiammo in Teseo
+l'assalto~; cio@e non facemmo vendetta dell'assalto di Teseo;
+cio@e che Teseo fece all'infernali quando discese all'inferno:
+ch@e se ce ne fossimo vendicate, li altri non si sarebbon messi a
+venire come ora s'@e messo costui; onde @e da notare la fizione
+di Teseo.  Teseo re delli Ateniesi, e Peritoo furono grandissimi
+compagni e puosonsi di non pigliare moglie, se non delle
+figliuole di Giove, onde Teseo tolse Elena, la quale li convenne
+poi rendere: per@o che Castore e Polluce fratelli d'Elena la
+racquistarono, tolta in quello scambio la madre di Teseo.  Peritoo
+non ne pot@e trovare nel mondo veruna; e per@o presa la compagnia
+di Teseo and@o nell'inferno a togliere Proserpina; ma non la
+poterono avere, onde Teseo e Peritoo se ne vennono, secondo alcuna
+fizione; secondo alcun'altra, vi fu Teseo rattenuto.  Ma poi
+Peritoo vi men@o Ercole che ne 'l cav@o, et ancora ne men@o
+Cerbero strascinandolo con le catene del diamante che li
+gitt@o in collo, quando fugg@i alla sedia di Plutone per paura, e
+tirollo quindi in fine nel mondo.  E per la luce che Cerbero non
+potea sostenere, gitt@o schiuma della quale nacque erba velenosa,
+la quale si chiama aconita; onde rimase a Cerbero pelato lo mento
+e il gozzo, per lo stirare della catena; e tornato che fu Cerbero
+nello inferno morse malagevolmente Carone, perch@e li avea
+passati in su la nave, e per@o dice che, ^Mal~; cio@e male a loro
+uopo, non si vendicarono della vendetta di Teseo: ch@e se si
+fossono vendicate, Dante non avrebbe ora ardimento di scendervi.
+
+	|55-60.~  In questi due ternari l'autor
+mostra lo riparo che Virgilio prese contra il nocimento delle
+furie, che detto @e di sopra, dicendo: ^Volgiti in dietro~; tu
+Dante, ^e tien lo viso chiuso~; cio@e tieni il viso celato: ^Ch@e
+se il Gorgon~; cio@e Medusa, che @e detta Gorgon, secondo che fu
+detto di sopra; ^si mostra~; s@i che tu il vegga, ^e tu il
+vedessi~; cio@e tu Dante vedessi questa Medusa, ^Nulla sarebbe~
+^di tornar mai suso ~; cio@e nulla potenzia sarebbe di tornar su
+nel mondo: per@o che diventeresti pietra.  ^Cos@i disse il
+Maestro~; cio@e Virgilio, come fu detto di sopra; ^et elli
+stessi~; cio@e Virgilio, ^Mi volse~; me Dante a dietro, acci@o
+ch'io non vedessi Medusa s'ella apparisse, ^e non si tenne alle
+mie mani~; cio@e non istette contento ch'io mi chiudessi pur con
+le mie mani, ^Che con le sue~; cio@e mani, ^ancor non mi
+chiudessi~; cio@e lo volto mio, per ch'io non potessi veder
+Medusa.
+
+	|61-63.~  In questo ternario lo nostro
+autor pone una esortazione ch'elli fa alli uditori e lettori, che
+sieno attenti a considerare questa fizione, e vedere quello che
+@a inteso per questo che detto @e di sopra, dicendo: ^O voi, che
+avete l'intelletti sani~; cio@e, simplici, che @e quello che
+suonano le parole, e non altro: ch@e se una cosa intendessono
+secondo la lettera, et altro, secondo l'allegoria, allora lo
+intelletto non sarebbe sano; ma diviso.  Et a questi cotali @e
+bisogno che faccia la esportazione {sic} dell'attenzione, che alli
+altri, non @e bisogno.  ^Mirate la dottrina, che s'asconde~; cio@e
+ragguardate la dottrina che s'appiatta, ^Sotto il velame~; cio@e
+sotto il coprimento, ^delli versi strani~; cio@e differenti della
+sentenzia allegorica: ch@e una cosa mostrano secondo la lettera,
+et altra cosa intendendo secondo moralit@a ovvero allegoria.
+Onde a veder quel che l'autore intende doviamo sapere, che
+l'autore in questo suo poema intende dimostrare il modo, come
+l'uomo cacciato per lo peccato dalla grazia di Dio possa
+ritornare; e perch@e il primo grado @e vincere li vizi e li
+peccati, insegna questo nella prima cantica, nella qual dimostra
+che ai vizi, perch@e procedono da incontinenzia et intemperanzia,
+resiste troppo bene la ragione con la grazia gratis data, come
+appare nel processo di libro.  Imper@o che l'autore finge che in
+tutti i luoghi a rispondere a tutti i vizi sia bastanza Virgilio,
+che significa la ragione, come appare quando Caron lo volle
+impedire, e Virgilio rispose; e cos@i quando Minos, quando
+Cerbero, quando Pluto, quando Flegias, e quando Filippo Argenti,
+come detto @e di sopra.  Ora che @e giunto alla citt@a, ove si
+puniscono pi@u gravi e gravissimi peccati; cio@e peccati di
+malizia, e di bestialit@a che si contengono sotto la superbia e
+sotto la invidia, vuole mostrare l'autore che con maggior
+difficult@a li convenga combattere: imper@o che qui non basta la
+ragione con la grazia gratis data, anzi si richiede spezial
+grazia data da Dio che si chiama grazia ^gratum faciens~; e
+per@o finge che qui li ostasse pi@u e pi@u dimoni, ove @a posto
+altrove pur uno: imper@o che li detti peccati @anno molte, e molte
+specie e modi di nuocere.  E per@o finge che Virgilio non li
+pot@e pacificare partito da Dante; cio@e la ragione superiore non
+congiunta in quella con la sensualit@a, e la diffcult@a si mostra
+nel chiuder le porte nel petto a Virgilio.  E cos@i ora finse che
+in su la torre a defension di quella sieno le furie che
+significano le radici, e lo nascimento del peccato della superbia
+e della invidia procedenti da malizia, e per@o si dicono
+servigiali di Proserpina che significa la superbia, come @e detto
+di sopra, della quale la invidia @e figliuola, come dice Santo
+Agostino; e li serpenti, di che sono cinte e che @anno alli
+capelli, sono li modi fraudolenti et ingannevoli del nuocere e le
+spezie de' detti peccati.  Onde Virgilio dice di Aletto: ^Mille
+nocendi artes~, e cos@i dell'altre ancora si pu@o dire: e
+queste voleano impedire Dante, a ci@o che non entrasse nella
+citt@a; cio@e che non desse manifestamento dei detti peccati e
+rimedio a fuggirli a quelli che leggessono lo suo libro, n@e per
+s@e non pigliasse.  Ma Dante s'accost@o a Virgilio; cio@e alla
+ragione per sospetto, et elle vedendo che nol possono giugnere,
+chiamano Medusa che significa dimenticagione et ignoranzia; e
+questa @e la bestialit@a che viene da malizia, e non chiamano
+l'altre suore di Medusa; della quale la prima significa debolezza
+di mente e questa @e bestialit@a che viene per ignoranzia di
+legge; l'altra significa stupor di mente o vero amenzia e questa
+@e bestialit@a che viene per infermit@a o mancamento di cerebro:
+imper@o che Medusa @e quella che fa l'uomo diventare pietra;
+cio@e indurato e ostinato nel peccato, sicch@e mai non ne pu@o
+uscire.  E per@o Virgilio ci piglia rimedio che innanzi ch'ella
+venga volge Dante; cio@e la sensualit@a a dietro dal peccato, e
+falli porre le mani al viso; cio@e ritornare a dietro dal vizio
+et occupare l'affetto e l'intelletto alle buone operazioni et
+ancor v'aggiugne le sue; cio@e le contemplazioni della ragione.
+E questo intese l'autore nella detta fizione, e questo non basta
+ancora ad entrare nella citt@a, basta bene a rimediare che il
+vizio non offenda; ma non basta a passarlo per andare alle
+virt@u, mostrando la sua vilt@a e la sua pena; e per@o s'aspetta
+la grazia singulare di Dio arrecata dall'angelo, lo qual finge
+che vegna a fare aprire la porta di Dite; e qui finisce la prima
+lezione.  Seguita la seconda lezione.
+
+	|63-133.~  ^E gi@a venia~; ec.  Questa @e la seconda
+lezione del canto sopra detto, la quale contiene l'entramento di
+Virgilio e di Dante nella citt@a Dite; e dividesi questa in sei
+parti, perch@e prima pone l'avvenimento dell'angelo; nella
+seconda, come ragguard@o e vide molti segni del suo avvenimento,
+quivi: ^Li occhi mi sciolse~; nella terza, come Virgilio ammaestra
+Dante che facesse reverenzia all'angelo e come aperse la porta,
+quivi: ^Ben m'accors'io~; nella quarta pone come l'angelo, aperta
+la porta, riprende li demoni, quivi: ^O cacciati del Ciel~;
+ec.; nella quinta, come Virgilio e Dante entrano nella citt@a,
+quivi: ^Dentro v'entramo~; nella sesta, come domanda Virgilio
+quello che vede, quivi: ^Et io: Maestro.~  Diviso lo testo, ora
+@e da vedere la sentenzia litterale, che @e questa.
+
+	Poi che Virgilio ebbe chiuso Dante per paura di Medusa,
+Dante sentie su per l'onde torbide di Stige venire un fracasso
+d'un suon pien di spavento, che facea tremare amendu' le sponde
+di Stige, s@i come d'un vento impetuoso, che fiere la selva e
+schianta i rami et abbatte frondi e fiori, e vien dinanzi
+polveroso e superbo e fa fuggire le fiere e li pastori.  Allora
+Virgilio li sciolse li occhi e disse che riguardasse su per la
+schiuma dell'acqua, ov'era pi@u scuro fummo; et elli vide pi@u
+di mille anime fuggir dinanzi a quello angiolo, che passava Stige
+con le piante asciutte al passo, come fanno le rane che fuggono
+tutte alla ripa dinanzi alla biscia, che @e lor nimica.  E dice
+che quello angelo si rimovea dal volto quell'aria grassa con la
+man sinistra, e parea lasso di quella angoscia; e dice che ben
+s'accorse ch'era messo dal cielo; ma non di meno elli si volse a
+Virgilio, et elli li fe segno che stesse cheto et inchinasselisi,
+e dice che molto li parea sdegnoso, e giunse alla porta, e con
+una vergetta l'aperse che non vi fu resistenzia.  E disse
+l'angelo ai dimoni: O cacciati del cielo, gente dispetta, stando
+in su l'orribil soglia della porta, onde viene in voi questa
+tracotanza?  Perch@e ricalcitrate alla volont@a divina, alla quale
+non si pu@o togliere lo suo fine, onde spesso n'avete sentito
+doglia?  Che giova andare contra le fata; cio@e contra li
+evenimenti prodotti secondo la providenzia di Dio?  Cerbero
+vostro, se ben vi ricorda, ne porta ancor pelato il mento e il
+gozzo: ecco come nuoce a ricalcitrare a Dio.  Poi dice che si
+torn@o a dietro e non fece lor motto, anzi mostr@a d'avere
+altra cura che di colui che gli @e innanzi; et essi se
+n'andarono verso la terra, sicuri per le parole sante ch'aveano
+udito dire dall'angelo, et entrarono dentro sanza ostaculo.  E
+Dante ch'avea desiderio di vedere quel ch'era dentro a quella
+fortezza, come fu detto, riguard@o d'intorno e vide da ogni mano
+gran compagnia piena di duolo e di rio tormento; e fa una
+similitudine, che s@i come ad Arli, dove il Rodano entra in mare,
+che @e una citt@a di Proenza; e s@i come a Pola che @e una
+citt@a in Capo d'Istria dal lato della Schiavonia, ove @e uno
+mare che si chiama Carnaro che @e lo confine d'Italia, verso
+l'oriente, vi sono molti sepolcri onde lo luogo viene curvo;
+cos@i vide quivi, se non che tra li avelli v'erano fiamme sparte
+per le quali li avelli erano roventi, come ferro quando @e nel
+fuoco; e dice ch'erano aperti et uscivano fuori s@i duri lamenti
+che pareano d'anime misere e d'offese.  Onde domanda Dante chi
+sono coloro che vi sono dentro che si fanno sentire con cos@i
+aspri lamenti; e Virgilio risponde, perch@e quivi li principi
+delli eretici con li loro seguaci sono sepulti, che ve n'@e
+d'ogni setta grande moltitudine, e che li monimenti sono pi@u e
+meno caldi, secondo l'errore in che peccarono; e conchiude che si
+volsono verso man ritta e passarono tra le mura alte et i
+mart@iri.  Veduta la sentenzia litterale, ora @e da vedere il
+testo con le moralitadi, o vero allegorie.
+
+	|64-72.~  In questi tre ternari l'autor
+nostro pone l'avvenimento dell'angelo, dicendo cos@i: ^E gi@a~;
+cio@e quando io era cos@i chiuso, ^venia su per le torbide onde~;
+della palude Stige, ^Un fracasso d'un suon pien di spavento~;
+questo dice l'autor per accordarsi con li Teologi, che dicono che
+quando l'angelo viene, prima d@a spavento e poi sicurt@a; e lo
+demonio fa il contrario; e lo suon grande ancora, perch@e dice la
+Santa Scrittura: ^Et factus est repente de Coelo sonus, tamquam
+advenientis spiritus vehementis.~  -- ^Per cu@i~, cio@e per lo
+qual fracasso del suono, ^tremavan amendue le sponde~; cio@e
+amendue le ripe di Stige, sicch@e parve che fosse tremuoto; e per
+questo si mostra che, quando l'autor nostro disse di sopra nel
+canto terzo nella fine: ^Finito questo, la buia campagna~, quivi
+volle mostrare ancora lo avvenimento dell'angelo che il pass@o di
+l@a dal fiume, ancora come ivi fu esposto per me.  ^Non
+altrimenti fatto che, d'un vento.~  Qui fa una similitudine che
+lo suono dell'avvenimento dell'angelo era fatto come quel del
+vento impetuoso che fiere la selva, schianta li rami, abbatte le
+fronde et i fiori, e viene sanza rattenimento, superbo e
+polveroso, e fa fuggire le fiere, e li pastori; cos@i con
+fracasso e suono venia l'angelo.  Bene assomiglia lo fracasso del
+suono che facea l'angelo a quel del vento, perch@e come lo vento
+@e invisibile; cos@i l'angelo, se per miracolo divino non si fa
+visibile.  ^Impetuoso per li avversi ardori~; et ad intendere
+questo si dee sapere che il vento si genera di vapori secchi
+levati della terra e montati in alto infino alle nuvole tanto,
+che sono percossi dalli ardori dell'aere superiore; cio@e del
+sole, che vengono a quelli che montano; onde sono costretti
+andare in alto e ripercuotono l'aria e l'una parte dell'aria
+ripercuote l'altra, e cos@i si genera lo vento che non @e altro
+che aere ripercosso e dibattuto; e quanto li ardori sono pi@u
+avversi, tanto lo vento @e pi@u impetuoso.  Ma se il testo
+dicesse ^per li avversi arbori~, non averebbe difficult@a, anzi
+s'accosterebbe con Lucano ove dice: ^Ventus ut amittit vires,
+nisi robora silvae Occurrant~ ec.  -- ^Che fier la selva~; cio@e
+lo vento quando se la truova innanzi, e per quello fa gran suono
+vie maggiore che da s@e, ^e sanza alcun rattento~; cio@e
+rattenimento, ^Li rami schianta~; delli arbori, ^abbatte fronde
+e fiori~; questo vento, che @e detto di sopra, ^Dinanzi polveroso
+va superbo~; questo vento, ^E fa fuggir le fiere~; delle selve,
+et appiattarsi nelle caverne, ^e li pastori~; per campare le loro
+pecore.  E questa similitudine s'adatta ch@e come il vento vien
+polveroso; cos@i l'angelo venia col fummo della palude: come
+viene superbo con gran romore et impeto; cos@i venia l'angelo: e
+come veniva, o vero come fiera lo vento la selva; cos@i l'angelo,
+la palude Stige: e come il vento non @a rattenimento; cos@i
+l'angelo non avea contrasto, e se l'avesse, romperebbe ogni cosa;
+e cos@i rompea l'aere tenebroso e grasso e fa fuggire l'anime
+sciagurate e li demoni, come il vento, le fiere e li pastori, e
+questa adattazione apparir@a di sotto.
+
+	|73-81.~  In questi tre ternari l'autor nostro
+pone quel che vide ch'era cagione del suono che avea udito, poi
+che Virgilio li aperse li occhi, levando le sue mani dal volto; e
+per@o dice: ^Li occhi mi sciolse~; cio@e Virgilio a me Dante, che
+coperti me li avea con amendu' le mani et avealo volto addietro
+per paura di Medusa, ^e disse~; Virgilio a me Dante: ^Drizza il
+nerbo Del viso~; cio@e l'occhio che @a uno nerbo, col quale si
+cala giuso et alza suso, ^su per quella schiuma antica~; cio@e
+della palude antica di Stige, ^Per indi~; cio@e per quel luogo,
+^ove quel fummo @e pi@u acerbo~; cio@e oscuro.  ^Come le rane.~
+Qui appruova l'autore la similitudine posta di sopra con un'altra
+similitudine, che come le rane fuggon dinanzi al serpente
+infin che montano in su la ripa; cos@i vide pi@u di mille anime
+fuggire dinanzi all'angelo, e per@o dice: ^Come le rane~; cio@e
+li ranocchi, ^innanzi alla nimica Biscia~; cio@e al serpente, ^per
+l'acqua si dileguan tutte~; qua e l@a, ^Fin ch'a la terra
+ciascuna s'abbica~; cio@e s'aggiugne; ^Vidi pi@u di mille anime
+destrutte ~; cio@e dannate ch'erano nella palude Stige, ^Fuggir
+cos@i~; come le rane, ^dinanzi ad un~; cio@e all'angelo, ^ch'al
+passo~; cio@e il luogo ov'era lo passaggio dell'anime sopra
+Stige, in sulla nave di Flegias, ^Passava Stige~; cio@e quella
+palude dell'inferno, ^con le piante asciutte~; perch@e non le
+bagnava in essa.  E questa fizione @e verisimile secondo la
+lettera, intendendo delli infernali che fuggono dinanzi alla
+presenzia dell'angelo, perch@e non possono stare a vedere sua
+gloria e felicit@a; e che passasse la palude sanza bagnar le
+piante, s'intende che pass@o la palude dell'ira e dell'accidia
+sanza bagnarsi in essa; cio@e sanza bruttarsi l'affezioni dei
+detti peccati.  Et allegoricamente intendendo di quelli del
+mondo, si pu@o dire che tutti i peccatori fuggono dinanzi alla
+presenzia dell'angelo, quando passa tra loro; et elli passando
+tra loro non si brutta, anzi passa con le piante asciutte; cio@e
+con le affezioni: imper@o che essendo ora confermato in grazia
+non pu@o volere, se non quello che piace a Dio.
+
+	|89-90.~  In questi tre ternari l'autor
+nostro dimostra come da s@e conobbe l'angelo,
+bench@e Virgilio li facesse segno, e quel che questo
+angelo facea, e quel che mostrava nella vista, dicendo: ^Dal
+volto~; suo, l'angelo, ^rimovea quell'aer grasso~; cio@e oscuro,
+^Menando la sinistra~; cio@e la mano manca, ^inanzi~; a s@e,
+^spesso, E sol~; cio@e solamente, ^di quella angoscia~; di menar
+la sinistra, ^parea lasso~; quell'angelo che venia.  ^Ben
+m'accors'io~; cio@e Dante, ^ch'elli era dal Ciel messo, E
+volsimi al Maestro~; cio@e a Virgilio, per veder quel che volea
+ch'io facessi; ^et el~; cio@e Virgilio, ^fe segno~; a me Dante,
+^Ch'io stesse cheto et inchinassi ad esso~; cio@e facessili
+reverenza.  ^Ahi quanto mi parea pien di disdegno!~  Dice,
+^parea~: ch@e quanto al vero non era se non d'ira, per zelo
+d'aempiere la volont@a di Dio, contra coloro che volevano
+contrariare a lui.  ^Venne alla porta~; quello angelo, ^e con una
+verghetta~; che rec@o in mano, ^L'aperse~; cio@e la porta, ^che
+non ebbe alcun ritegno~; cio@e alcuna chiusura che tenesse fermo.
+E sopra questa parte, oltre alla verisimilitudine che @a questa
+fizione secondo la lettera, @e da notare una obiezione che
+occorre, perch@e di sopra @a detto nel canto secondo: ^Io son
+fatta da Dio, sua merc@e, tale, Che la vostra miseria non mi
+tange, E fiamma d'esto incendio non m'assale~; come finge ora
+l'autore che l'angelo rimovesse dal suo volto l'aer grasso con la
+sinistra, parea adunque che l'offendesse?  A che si pu@o
+rispondere che l'autor finge che l'angelo rimovesse dal volto suo
+l'aer grasso dello inferno per abominazione e sdegno, che li
+venia del peccato che si puniva quivi, non per offensione che ne
+ricevesse; e per@o soggiugne, che di quella angoscia parea lasso,
+non per@o che fosse.  Oltra questo @e da notare che secondo
+l'allegorica esposizione s'intende del mondo: imper@o che quando
+l'angelo passa per lo mondo pieno di peccati, per andare a fare
+li ministeri che li sono posti da Dio, truova l'aere grasso;
+cio@e nebbioso, pieno d'ignoranzia e grossezza d'ingegno che
+s'induce dal peccato, e quella rimuove con la sinistra dal suo
+volto, che significa la sua volont@a; e per questo s'intende da
+coloro che sono nella grazia di Dio.  Et attribuisce questo
+uficio alla man sinistra di vietare e cessare li peccati e la
+loro ignoranzia e grossezza: imper@o che con la destra
+apparecchia la intelligenzia et abilit@a delle virt@u, e la
+sinistra @e proibitiva de' peccati.  E ben mostra ch'avesse assai
+che fare: imper@o che dice che tanto la menava spesso, che solo
+di quella angoscia parea stanco; e per questo dimostra
+l'abondanzia de' vizi e de' peccati che sono nel mondo.  E per
+quello che soggiugne che lo conobbe e che si volse a Virgilio,
+che li fe segno che stesse cheto et inchinassesili e facesseli
+reverenzia, @e notabile che niuna cosa dee fare la sensualit@a
+significata per Dante, se non consigliata dalla ragione
+significata per Virgilio; appresso d@a ammaestramento a quelli
+del mondo che a' messi di Dio faccino reverenzia, e niente
+dimandino da loro; ma solamente da Dio.  Aggiugne che li parea
+pieno di disdegno; cio@e d'ira, per zelo per empiere {sic} la volont@a
+di Dio contra coloro che voleano contrariare, e dimostra la
+infinita potenzia di Dio, che con una verghetta aperse la porta
+della citt@a Dite, che non ebbe alcuna fermezza, quasi dica: Con
+minima forza, anzi con leggerissima cosa vince Idio ogni grande
+potenza di demoni quantunque sia, e similmente de' mondani quando
+vuole.	E questo aprire della porta s'intende lo rimovimento de'
+peccati, o vero impedimenti ch'erano dati a Dante, perch@e non
+vedesse li peccati che procedono dalla malizia, acci@o che non ne
+correggesse se non li uomini del mondo, che leggeranno lo suo
+libro.
+
+	|91-105.~  In questi cinque ternari
+l'autor pone, prima la riprensione che l'angelo fece alli demoni,
+et poi la sua dipartenza, quivi: ^Poi si rivolse~ ec.  Continua
+cos@i l'autore: Poi che la porta fu aperta, come @e detto di
+sopra, l'angelo riprendendo li demoni, disse: ^O cacciati del
+Ciel, gente dispetta~; rimpruovera loro qui la loro ruina,
+dicendo: ^ O cacciati del Ciel~; per vostra superbia, ^gente
+dispetta~; cio@e dispregiata da Dio e dal mondo, ^Cominci@o
+elli~; cio@e l'angelo, ^in su l'orribil soglia~; cio@e della
+porta dell'inferno; e per questo mostra che non v'entrasse
+dentro, per accostarsi alla sentenzia di Virgilio, ove dice nel
+sesto: ^Nulli fas casto sceleratum insistere limen~, perch@e
+quello @e luogo degno pur di demoni, e non di spiriti buoni.
+^Ond'esta~; cio@e onde questa, ^oltracutanza~; cio@e superbia, o
+vero stoltizia, ^in voi s'alletta~; cio@e viene in voi?  ^Perch@e~
+^ricalcitrate~; cio@e contrariate?  e dice ^ricalcitrate~, che @e
+a dire, date di calcio.  Colui si dice dare di calcio, che si
+ribella dalla volont@a del suo signore, ^a quella voglia~; cio@e
+di Dio, ^A cui~; cio@e alla qual volont@a, ^non puote il fin mai
+esser mozzo~; cio@e non pu@o essere mutato, che la volont@a di
+Dio non abbi suo fine, ^E che~; cio@e la qual voglia divina,
+^pi@u volte v'@a cresciuto doglia~?  Quando lo demonio non pu@o
+fare contra la volont@a di Dio e non pu@o impedire lo bene n'@a
+dolore; et ancor s'accresce al demonio pena e tormento, quando
+elli ricalcitra alla volont@a di Dio.  ^Che giova~; cio@e che pro
+@e, ^nelle fata dar di cozzo~; cio@e nelle cose che procedono
+secondo la providenzia divina ordinatamente, di tempo in tempo?
+Dar di cozzo nelle fata @e contrastare e volere impedire le fata.
+E qui parla l'angelo pi@u specialmente che di sopra, quasi dica:
+Niente giova a contrastare all'ordine delle cose provedute da
+Dio, et al loro avvenimento come chi calcitrasse nel pu{n}g{u}lo,
+o stecco, che sel ficcherebbe nel piede, e chi desse del capo nel
+muro, che se lo romperebbe.  ^Cerbero vostro~; cio@e demonio,
+vostro compagno, che i poeti fingono esser cane dell'inferno,
+posto a guardia nell'entrata, passato Acheronte: d@a esempro
+l'angelo di quel ch'@a detto; la tratta che fece Ercole di
+Cerbero dello inferno (del qual fu detto di sopra in questo
+canto, quando disse: ^Mal non vengiammo in Teseo l'assalto~)
+dicendo: ^se ben vi ricorda, Ne porta ancor pelato il mento e
+il gozzo~: imper@o che quando Ercole lo tir@o con le catene che
+avea gittate alle sue tre gole, li fece cadere li peli dal mento
+e dal gozzo, s@i che mai non rimisono.  E qui si pu@o movere una
+obiezione all'autore, dicendo, che questa non fu buona poesia;
+che l'angelo dia esemplo delle fizioni delli poeti che non
+sono vere: imper@o che lo parlare non si conviene alla persona.
+A che si pu@o rispondere, che lo intendimento della fizione @e
+vero, e sotto questo modo si pu@o convenire all'angelo.  E non
+sanza cagione finse l'autore che l'angelo dicesse questo, per
+mostrare ai lettori che ogni setta tenga questa sentenzia che
+l'infernali non possano ostare alla volont@a divina; e per@o pone
+la prima sentenzia generale che @e de' cristiani e de' catolici;
+appresso soggiugne quella de' poeti che @e da pagani.  ^Poi si
+rivolse~; l'angelo, ^per la strada lorda~; cio@e sopra la palude,
+onde era venuto, ^E non fe motto a noi~; cio@e a me Dante, n@e a
+Virgilio; ^ma fe sembiante~; cio@e similitudine e vista, ^D'uomo,
+cui altra cura stringa e morda~; cio@e solliciti, ^Che quella di
+colui che li @e davante.~  Non sanza cagione finge questo
+l'autore; cio@e che finge per mostrare che l'angelo, che
+s'interpetra messo di Dio, intentemente faccia lo suo officio
+e ch'elli opera, secondo che gli @e commesso da Dio, e non per
+respetto di alcuna persona.  ^E noi~; cio@e io Dante e Virgilio,
+^movemmo i piedi~; nostri, ^in ver la terra~; cio@e di Dite,
+^Sicuri~; sanza alcuna dubitanza, ^appresso le parole sante~;
+cio@e dopo le parole dette dall'angelo, che furon sante.  E qui
+si dimostra che l'uomo per lo conforto dell'angelo diventa sicuro
+e che la presenzia dell'angelo d@a sicurt@a, come la presenzia
+del demonio d@a paura; e qui non @e altra allegoria: per@o che
+questa @e continuazion della lettera et @e finto, secondo la sua
+fizione poetica.
+
+	|106-123.~  In questi sei ternari finge
+l'autore come entrarono nella citt@a di Dite, e manifesta quel
+che prima vi vide, dicendo cos@i: ^Dentro v'entramo~; cio@e io
+Dante e Virgilio, ^sanza alcuna guerra~; cio@e sanza alcuna
+contradizion di demoni e noia; ^Et io ch'avea di riguardar
+disio~; cio@e io Dante, ch'avea desiderio di vedere, ^La
+condizion, che tal fortezza serra~; cio@e che condizione @e
+quella di coloro che sono inchiusi dentro a quella citt@a,
+^Com'io fui dentro~; a quella citt@a, ^l'occhio intorno invio~;
+cio@e ragguardo intorno, ^E veggio ad ogni man~; cio@e a destra
+et a sinistra, ^grande campagna~; cio@e gran pianura, ^Piena di
+duolo e di tormento rio.~  Ecco ci@o che prima finge avervi
+veduto intorno alle mura dentro della citt@a di Dite, ove @e
+reina Proserpina che significa la superbia, che @a per figliuola
+la invidia; onde dice santo Agostino: ^Tolle matrem, filia
+peribit~; e per@o pone qui le torri che significano iattanzia et
+arroganzia, e l'altre figliuole compagne della superbia, e le
+furie che significano la malizia, e Medusa o ver Gorgon, che
+significa bestialit@a.  E pone a questa citt@a le mura del ferro
+che significano ostinazione, come detto @e di sopra; e per@o dice
+l'autore ch'avea desiderio di vedere le condizioni che tal
+fortezza serrava, che sono superbia et invidia, le specie,
+compagne e figliuole loro, e le pene loro.  E perch@e delli altri
+peccati aviamo trattato di sopra, ponendo le lor difinizioni, e
+le sue specie, figliuole e compagne, e li rimedi che si possono
+pigliare contra tal peccato; cos@i vedremo ora della superbia e
+della invidia le quali si puniscono dentro alla citt@a di Dite,
+nel cerchio VI, VII, VIII, e VIIII; ma prima, della superbia:
+imper@o che della invidia si dir@a ove @e il suo luogo.  E prima
+@e da sapere che superbia, considerata largamente, @e non volere
+sottomettersi a Dio.  E per questo modo superbia @e vizio di
+tutti li peccati: imper@o che ogni peccato, secondo che dice
+santo Agostino, @e dipartimento da Dio, e convertimento alla
+creatura, e partirsi da Dio non @e altro che non sott{o}mettersi a
+Dio; adunque @e vizio di tutti i peccati.  Ma superbia, presa
+strettamente, @e immoderato amore di propia eccellenzia, e
+secondo altri @e amore di propia eccellenzia, non ponendovi
+immoderato; et a questa seconda diffinizione si pu@o ostare che
+pare che superbia non sia peccato e pruovasi cos@i: L'appetito
+naturale delle potenzie dell'anima non @e peccato; amore di
+propia eccellenzia @e appetito naturale; e provasi cos@i:
+L'appetito della potenzia ragionevole @e nel vero; della
+irascibile @e nell'onesto o vero eccellente; della concupiscibile
+@e nel bene: adunque appetito d'eccellenzia non @e peccato.  A
+questo si risponde che l'appetito dell'eccellenzia o @e naturale,
+o innaturale; se @e naturale o @e spirituale, o @e personale; se
+@e spirituale @e buono e non @e peccato: imper@o che desiderare
+di essere pi@u santo che tutte l'altre creature non @e peccato;
+se @e personale ancor non @e peccato: imper@o che desiderar
+l'uomo d'essere eccellente sopra li animali non ragionevoli non
+@e peccato: imper@o che cos@i disse Idio al primo uomo:
+^Dominamini piscibus maris.~  Se @e innaturale allora @e di
+soprastare li altri uomini; ma a bruti, et ancor questo @a
+divisione: imper@o che desiderandosi solo per aver signoria @e
+peccato; desiderandosi per far pro a' sottoposti non farebbe
+peccato.  E superbia, considerata strettamente, ancor pu@o essere
+vizio di tutti peccati: per@o che lo luss{u}rioso desidera
+d'avanzare li altri lussuriosi in lussuria; e lo goloso in gola,
+e cos@i delli altri; e dividesi cos@i in due specie: imper@o che
+ella @e o interiore, o esteriore: e se @e interiore o @e nello
+affetto o @e nell'intelletto; se @e nell'intelletto @e in quattro
+modi.  Prima, quando l'uomo intende d'avere da s@e lo ben che
+egli @a, o quando intende d'averlo da Dio; ma per suoi meriti, o
+quando si reputa d'avere quella eccellenzia che non @a, o quando
+desidera di parere quel che non @e, dispregiando li altri.
+S'ella @e nell'affetto, o ella @e presunzione o ell'@e ambizione;
+se ella @e presunzione @a quattro specie.  Prima, quando l'uomo
+presumme nel suo desiderio quelle cose che n@e suo megliore n@e
+suo iguale presume; lo secondo, quando si presumme quello che non
+si dee; lo terzo, quando si presumme innanzi lo tempo; lo quarto,
+quando si presumme contra le propie forze.  S'ella @e
+ambizione, o ella @e di signoria, o ella @e di magisterio, o ella
+@e di semplice eccesso in alcuna delle grazie date per grazia,
+come ricchezza ec.  Se la superbia @e esteriore o ella si piglia
+secondo la cagione di ch'ella nasce, o ella @e secondo le cose
+nelle quali ella @e; se @e al primo modo, o ella nasce per li
+beni della natura, o per li beni della fortuna, o per li beni
+della grazia.  Li beni della natura alcuni sono del corpo, alcuni
+sono dell'anima; li beni del corpo sono fortezza, leggerezza,
+bellezza, grandezza, nobilt@a, libert@a; li beni naturali
+dell'anima sono questi, dirittura d'ingegno, velocit@a, bont@a di
+memoria, potenzia di sostenere esercizio spirituale, natural
+disposizione, o vero virt@u naturale; li beni della fortuna sono
+di fuori, che sono in podest@a d'essere tolti; cio@e ricchezza,
+diletti, dignitadi, signoria, gloria, o vero grazia umana; li
+beni della grazia sono scienzia e virt@u.  Se ella @e superbia,
+che si piglia secondo le cose in che @e, o @e in laici, o @e in
+cherici; se @e in cherici, o in prelati, o in sudditi; se in
+prelati, o in secolari, o in claustrali; e cos@i si divide ancora
+de' sudditi, e l'una e l'altra di queste, o @e nel corpo o nelle
+cose che sono al corpo; cio@e in adornamento, o in cavalli, o in
+famiglia, o in conviti, o in edifici, o in libri, o in canto; se
+@e nel corpo, o @e nella bocca, o nelli occhi, o nel naso, o nel
+collo.  Se @e in adormamento, o @e d'uomini, o di donne, o di
+massarizie; se @e di massarizie, o @e troppa dilicatezza o
+abondanzia; se @e in cavalli, o in non necessario uso di quelli o
+in troppa esquisizione di quelli, o in loro adornamento; se @e in
+famiglia, o in moltitudine, o in vita disonesta, o in disutilit@a
+di famiglia; se @e in conviti, o in invitamento di grandi o in
+moltitudine di ministri, o in variet@a di cibi, o in preciosit@a
+di masserizie, o in sonamento di strumenti; se @e in edifici, o
+in moltitudine di case, o in grandezza, o suntuosit@a, o
+delettabilit@a; se in libri, o in lettere d'oro o in fibbiali
+d'oro, o in segnaculi di seta o d'oro; se @e in canto, o in
+presunzione di canto, o in troppa esalazione di voce, o in
+rompimento o aggiugnimento o tollimento di punti o in lascivit@a
+di canto o in voce falsa o in fraudulento mancamento di voce: e
+per questo modo si distinguono le specie della superbia.  Le sue
+compagne sono curiosit@a, leggerezza di mente, sconcia letizia,
+arroganzia, defensione de' peccati, simulata confessione,
+rebellione, libert@a di peccare, o consuetudine.  Le figliuole
+sono irreverenzia, eresia, inobedienzia, vanagloria, ipocresia,
+iattanzia, pertinazia, discordia et invidia, secondo santo
+Agostino come detto @e di sopra.  Li rimedi contra la superbia
+sono: considerazione di migliori, conversazione con li umili,
+considerazione della vilt@a del corpo, l'esempro di Cristo,
+considerazione della vile servitudine, considerazione dello
+stretto giudizio, considerazione della miseria di questo mondo, e
+considerazione delle pene convenienti a tal peccato.  Et @e qui
+da considerare che varie sono le pene che l'autore finge che
+siano deputate alla superbia, alle spezie, alle compagne et alle
+figliuole sue, s@i come apparir@a nel processo; le quali, bench@e
+l'autor finga essere nell'inferno, intende allegoricamente esser
+nel mondo, e questo si mosterr@a esser ne' suoi luoghi.  Ma qui
+in questo luogo @e da notare, che l'autor finge che la superbia,
+presa generalmente per tutti e sette peccati mortali che vengono
+per malizia e bestialit@a, e strettamente per s@e e per le sue
+spezie, compagne e figliuole, @ae queste pene in generale,
+ch'ella si punisce nelli quattro cerchi pi@u bassi nell'inferno e
+murati intorno, e posti dentro dalle mura del ferro e nel luogo
+pi@u stretto e pi@u puzzoso che li altri, e pieno di duolo e di
+tormento; le quali pene sono assai convenienti a cos@i fatto
+peccato.  E cos@i si dimostra allegoricamente ch'elli intese che
+sempre sono con li superbi del mondo: imper@o che degna cosa @e
+che chi per superbia s'innalze sia abbassato, come spesse
+volte si vede nel mondo, onde si dice: ^Qui se exaltaverit
+humiliabitur~; e se altrimenti non s'abbassassono, al meno
+s'abbassano per la vilt@a del peccato.  Sono incarcerati dentro
+alle mura del ferro, perch@e sono impregionati dal vizio che li
+tiene costretti s@i che uscire non ne possono, se non @e speciale
+grazia di Dio che li faccia pentere innanzi che moiano; e sono
+puniti di grandissima puzza: imper@o che li superbi a ogni uomo
+sono puzzosi et eziandio a s@e medesimi; et @anno gran duolo e
+rio tormento continuamente a mettere ad effetto le lor male
+intenzioni: per@o che ogni peccato @a la sua pena seco, et ancor
+quando sono impediti che non possono adempiere il loro malvagio
+desiderio, si dolgono e si tormentano.  E queste pene
+convenientemente, secondo la lettera, si fingono essere
+nell'inferno generalmente al peccato della superbia; seguiteranno
+altre speciali pene, secondo le specie di peccati, le quali si
+sporranno quando toccher@a il testo.  ^S@i come ad Arli.~  Arli
+@e una citt@a in Proenza, appresso alla quale Rodano entra in
+mare, e per@o dice: ^ove il Rodano stagna.~  Rodano @e un fiume
+grande in Proenza.  ^S@i come a Pola.~  Pola @e una citt@a posta
+in Capo d'Istria in verso la Schiavonia, ove @e uno braccio di
+mare che si chiama Carnaro, et @e molto pericoloso per un vento
+che lo chiamano Carnaro ancora; ma i marinai lo chiamano Ostra, e
+per@o dice: ^appresso del Carnaro, Che Italia chiude e i suoi
+termini bagna.~  Questo dice perch@e Italia da quella parte si
+stende in sino al Carnaro, e qui finisce.  ^Fanno i sepolcri~;
+che vi sono, ^tutti il lito varo~; cio@e curvo et ad Arli et a
+Pola, e fa l'autor qui questa similitudine; che come ad Arli et a
+Pola sono molti sepolcri posti qua e l@a; cos@i ne trov@o Dante e
+Virgilio grande quantit@a dentro alle mura di Dite, intorno
+intorno nel sesto cerchio, lo quale era tutto pieno.  La cagione
+perch@e ad Arli siano tanti sepolcri, si dice che avendo Carlo
+Magno combattuto quivi con infedeli, et essendo morta grande
+quantit@a di Cristiani, fece priego a Dio che si potessino
+conoscere dall'infedeli, per poterli sotterrare; e fatto lo
+prego, l'altra mattina si trov@o grande moltitudine d'avelli et a
+tutti li morti una scritta in su la fronte, che dicea lo nome e
+il soprannome; e cos@i conosciuti, li seppellirono in quelli
+avelli.  Perch@e a Pola ne sieno tanti alla marina del Carnaro,
+che molti ve ne sono, non se ne trova cagione, se non che
+studiosamente fossono fatti per sotterrarvi quelli della
+Schiavonia che si sotterrono alla marina.  ^Cos@i facevan quivi
+d'ogni parte.~  Adatta la similitudine, dicendo, che cos@i erano
+dentro alle mura di Dite da ogni parte; cio@e da man destra e da
+sinistra, ^Salvo che il modo v'era pi@u amaro~; quivi nella
+citt@a di Dite, che ad Arli o a Pola, e manifesta la cagione.
+^Ch@e tra li avelli~; che qui erano, ^fiamme erano sparte~;
+cio@e tra l'uno e l'altro, ^Per le quali~; cio@e fiamme, ^eran~;
+cio@e li avelli, ^s@i del tutto~; cio@e in tutto, ^accesi, Che
+ferro pi@u non chiede verun'arte~; acceso, per essere fabbricato.
+^Tutti li lor coperchi~; cio@e delli avelli, ^eran sospesi~;
+cio@e erano aperti s@i, che si potea vedere in essi, ^E fuor ne
+uscian~; cio@e delli avelli, ^s@i duri lamenti~; che facevano
+quell'anime che v'eran dentro, ^Che ben parean di miseri e
+d'offesi~; s@i che apparea la miseria e l'offensione di
+coloro che v'erano dentro.  Questa @e la sentenzia litterale;
+l'allegoria, che ci @e, si toccher@a di sotto.
+
+	|124-133.~  In questi tre ternari e verso
+ultimo si contiene la domanda dell'autore e la risposta di
+Virgilio, et @e la seconda, quivi: ^Et elli a me.~  Finge
+l'autore che, poi che vide questi sepolcri e sentie li lamenti,
+domand@o Virgilio, dicendo: ^Et io~; cio@e Dante dissi:
+^Maestro~; cio@e Virgilio, ^quai son quelle genti, Che sepellite
+dentro da quest'arche~; cio@e dentro a questi sepolcri, ^Si
+fan sentir con li sospir dolenti~; cio@e con sospiri pieni di
+dolore?  ^Et elli~; cio@e Virgilio disse ^a me~; Dante: ^Qui son
+li eresiarche~; cio@e li principi delli eretici, ^Coi lor seguaci
+d'ogni setta~: imper@o che molte sette sono state di eretici, ^e
+molto Pi@u, che non credi~; tu Dante, ^son le tombe carche~;
+cio@e son piene.  ^Simile qui con simile @e sepolto.~  Qui
+dimostra che ogni tomba avea la sua setta, e come infinito pone
+lo numero de' sepolcri; cos@i si d@e intendere innumerabili le
+spezie delli eretici; e perch@e molto finge che sien pien le
+tombe s'intende che d'ogni setta sono stati assai eretici.  ^E i
+monimenti son pi@u e men caldi.~  Qui dimostra che secondo la
+gravit@a della eresia sia l'accendimento della fiamma intorno a'
+sepolcri dicendo, che sono pi@u e men caldi secondo la gravit@a o
+pi@u, o meno della colpa.  Ora @e qui da vedere che cosa @e
+eresia, e quante sono le sue spezie, e perch@e l'autor finge, che
+abbiano s@i fatte pene.  E prima, eresia @e elezione di propia
+opinione contra la determinazione della santa madre Chiesa, o
+vero divisione della determinazione della santa Chiesa; et @e
+eresia una delle figliuole della superbia, accompagnata sempre
+dell'aroganzia, che @e delle compagne della superbia, come
+mostrato fu di sopra.  E come figliuola di superbia si trova aver
+nascimento da tutti i peccati, come appare in questo esempro.  Lo
+lussurioso, alcuna volta passando i termini della incontinenzia,
+corre in malizia et entra spesso in mal pensieri, come lo demonio
+che @e significato per Aletto la mette; cio@e che non sia
+altra vita che questa: cresce poi questo pensiere che ardisce di
+publicarlo, e questa @e Tesifone; cio@e parlar malo: e
+ultimamente cade in Megera; cio@e in mala operazione, quando
+adopera publicamente male, et impugna li altri che contradicono
+alla sua falsit@a: et ultimamente viene a Medusa, quando
+manifestamente appruova le sue opinioni, e sanza alcun ritegno
+adopera o vero adempie tutte le sue volont@a, dicendo che li
+altri sono ingannati che credono che sia altra vita, e
+rattengansi per questo da' diletti carnali.  Ora @e da sapere
+che la eresia @a molte spezie; ma possonsi recare a XII, come
+dodici sono li articoli della fede, contra i quali si trovano i
+paterini e li eretici avere errato per diversi modi, li quali
+sarebbe troppo lungo a scrivere.  Ma li principi delle sette sono
+questi: Epicuro, Valentino, Marzione, Fotino, Arrio, Maniches,
+Sabellio, Macedonio, Prisciano, Donato, Nestorio, Euticio e molti
+altri, de' quali si trova nella Scrittura santa; e li rimedi
+contra questo vizio, sono quelli che l'autor puose; cio@e,
+quando suonano e gridano le furie, accostarsi alla ragione e
+domandar grazia da Dio singulare che l'aiuti, e rivolgersi a
+dietro dal peccato, e chiuder l'affetto e l'intelletto con le
+cose virtuose.  Le pene, che l'autor finge essere a questo
+peccato, sono sepolcri di pietra e lo fuoco, le quali ben si
+convengono a questo peccato: imper@o che l'eretico tiene sepolta
+la ragione nella sua falsa opinione, la quale @e dura come
+pietra, e degnamente sono incesi dal fuoco: imper@o che @anno
+avuto immoderato amore a lor medesimi, volendo pi@u credere al
+lor semplice parlare che alla congregazione de' santi e savi
+uomini, sicch@e litteralmente si convengono a quelli
+dell'inferno, et allegoricamente si veggono essere in quelli del
+mondo.  Et @e da notare che l'autore finge che li sepolcri stieno
+aperti per due cagioni; l'una @e per mostrare che ancor le sette
+non son venute meno; e per@o di sotto avremo che al di' del
+Giudizio si chiuderanno, perch@e saranno venute meno le sette;
+l'altra cagione si @e che lo loro errore manifestano alli altri
+et inducevi li altri; ma notatamente l'autor li mette allato alle
+mura del ferro, perch@e sono nel VI cerchio che @e lo primo della
+citt@a Dite, e per significare la loro ostinata mente, dura come
+ferro, e fredda dell'amor dello Spirito Santo.  Seguita: ^E poi
+che a la man destra si fu volto~; cio@e Virgilio per andare ove
+s'attraversava la larghezza del cerchio sesto, ^Passammo~; cio@e
+Virgilio et io Dante, ^tra' mart@iri~; che erano nelli sepolcri,
+^e li alti spaldi~; cio@e l'alte mura della citt@a Dite, che si
+chiamano spaldi.  Qui finisce lo nono canto.

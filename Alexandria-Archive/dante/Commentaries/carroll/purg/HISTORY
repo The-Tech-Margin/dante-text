@@ -1,0 +1,17 @@
+-------------------------------------------------
+Entered on 20 Jun 1995 by dante:
+uploaded edited files from RH's DOS machine.
+Mv's *.e.Z to *.old.e.Z to make way for...
+dedos'd RH's files into *.e.  They should be ready for preload.
+-------------------------------------------------
+Entered on 15 Feb 1999 by dante:
+Fixed indentation of sections so they would parse correctly. As per #190. -stc
+-------------------------------------------------
+Entered on 09 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded

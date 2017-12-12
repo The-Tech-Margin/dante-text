@@ -1,0 +1,380 @@
+	|1-18.~  [c.104r] In questo canto .xvii. pone l'auctore la forma di 
+Gerione: la quale intende che sia in figura di fraude: perch$e ha a 
+tractare de' fraudulenti: Et prima dimostra quella havere la coda s@i 
+aguza che chon epsa pu@o trapassare e' monti: et rompere muri et armi: 
+Et certamente la fraude non dimostra nocumento se non nella coda cio@e 
+nel fine.  Imper@o che el fraudulento cela et asconde el pensiero et 
+consiglo suo: Et sobto coverta d'alchun bene t'inganna.  Et sempre el 
+fine della fraude @e nocevole.  N$e ti puoi accorgere dello 'nganno se 
+non nella fine.  Onde @e nato el proverbio che nella coda sta el 
+veleno: Et @e tanto potente la fraude che passa monti: cio@e vince ogni 
+gran potentia.  |Et rompe mura et arme~.  Il che dinota che nessun 
+riparo vale contro a quella.  N$e di difensione: n$e d'offensione.  
+|Questa @e colei che tutto il mondo appuza~.  @E il mondo in buono 
+odore: et incorropto quando gl'huomin // c.104v observono la fede et 
+amano la verit@a.  Et di questi dice el Psalmista: ^Innocens manibus et 
+mundo corde qui non accepit in vanum animam suam: Neque iuravit in dolo 
+proximi sui~.  Et chos@i per l'opposito si corrompe et apuza per la 
+perfidia: et per la fraude.  Et accennolla che venissi a proda.  La 
+fiera era nell'aria: perch$e la [f]raude non ha alchuna stabilit@a: n$e 
+si pu@o comprendere n$e tenere: ma chome aria ti sdrucciola.  Ma 
+Virgilio la chiama all'argine: el quale @e di marmo chosa dura.  
+Imper@o che lo 'ntellecto considera et contempla la fraude fondando in 
+vere et stabili ragioni: et falla venire in sul saxo.  Ma quella vi 
+pone la testa e 'l busto: ma non la coda: perch$e chome habbiamo decto 
+e' principii de' fraudulenti si posono in sul vero: et per non mutare 
+exemplo Sinone per ingannare e' troiani comincia la narratione sua 
+delle chose vere dimostrando lo 'nganno d'Ulixe nella morte di 
+Palamede.  Di poi sobto questa veri[t]@a occulta la sua bugia fingendo 
+l'odio che gli portava Ulixe: et molte altre chose.  Adunque le prime 
+parti nella fraude sono in sul saxo: cio@e in chosa soda et vera: Et la 
+coda rimane nell'aria chosa mobile.  |La faccia sua era faccia d'huom 
+giusto~.  Havea questo monstro la faccia d'huomo: el resto del corpo di 
+serpente: et la choda di scorpione.  Il che alchuni dicono significare 
+tre spetie di fraude.  Una nelle parole: et questa si dinota per la 
+faccia humana: perch$e solo l'huomo usa el sermone.  La seconda nelle 
+chose: cio@e nell'arti: et nelle merce: Et questa dinota pel serpente 
+el quale @e astuto animale et di varii colori: chome tali fraude sono 
+varie et diverse.  La terza nel facto Sichome sono ladroni et 
+assessini: e' quali chome lo scorpione danno puncte avelenate/ Ma 
+giudico essere pi@u vera allegoria: che ogni fraude sia composta di 
+queste tre forme: Et se rectamente si considera la fraude ha faccia: 
+cio@e la prima sua apparenza d'huomo giusto: perch$e el fraudulento da 
+principio dimostra humanit@a benivolentia: et ogni parte di giustitia: 
+Et come dice Salustio: ^Una chosa ha prompta nella lingua: et un' altra 
+chiusa nel pecto~.  Et da simili priegha David el Signore che lo 
+difenda quando dice: ^Libera animam meam a labiis iniquis et a lingua 
+dolosa~.  |Tanto benigna havea di fuor la pelle~.  A dinotare che tanta 
+benignit@a non @e dentro: cio@e in facti Ma nella pelle cio@e in 
+apparenza.  Onde Persio: ^Ego te intus et in cute novi~.  |Et d'un 
+serpente tutto l'altro fusto~: cio@e tutto el resto del corpo era 
+serpente.  El serpente @e astuto animale et prudente Et perch$e 
+l'astutia et callidit@a pu@o essere in virt@u quando sanza fraude et 
+danno del proximo ci sforciamo difenderci dalla malitia d'altri: et 
+rectamente administrare le chose nostre: et pu@o essere in vitio quando 
+tale astutia usiamo in fraude.  Per@o el serpente alchuna volta @e 
+posto in bene: chome quando la verit@a nello Evangelio dice: ^Estote 
+prudentes sicut serpentes et simplices sicut columbe~.  Alchuna volta 
+in male Onde nel primo del Genesi @e scripto la tentatione diabolica al 
+primo huomo in figura di serpente el quale havea faccia humana a 
+dinotare quanto habbiamo decto.  N$e posso sanza sommo stupore 
+considerare la grandeza dello 'ngegno di questo poeta: el quale in un 
+medesimo luogo mescola le chose de' gentili chon le christiane: et 
+arroge da s$e: et di diversissime chose fa tale temperamento: che 
+optimamente exprime sua intentione et riservando somma gravit@a 
+v'aggiugne maraviglosa giocondit@a.  Adunque el fraudulento ha el 
+principio pieno d'humanit@a et di bonit@a in apparenze per allectare ad 
+s$e gli animi degl'huomini et rimuovergli da ogni opinione di dovere 
+essere ingannati di poi el processo suo @e serpentino astuto et vario 
+infino che arrivi al fine d'adempiere la fraude: el quale @e coda di 
+scorpione perch$e sommamente nuoce.  |Due branche~.  Per queste 
+intendiamo due spetie d'astutia: cio@e fraude che @e infacto: et dolo 
+nelle parole.  |Pilose~ quasi coperte et occultate: perch$e sempre @e 
+coperto et occulto el consiglio del fraudulento: Et anchora @e pieno di 
+crudelt@a.  |Insin l'ascelle~: Insino alle spalle: le quali chiama 
+ascelle da questo vocabolo latino ^axilla~.  |Lo dosso e 'l pecto et 
+ambedue le choste~ In sententia tutto el resto del corpo era coperto di 
+pelle di serpente la quale @e piena di nodi et di rotelle Et questo 
+allegoricamente significa le simulationi che sono sempre inplicite et 
+inviluppate et colorate: et e' modi nelle fraudi son varii et implicati 
+insieme: sich$e dell'uno s'entra nell'altro: et sono circulari sich$e 
+si torna donde si comincia.  |Chon pi@u colori~.  Chi ha veduto simili 
+drappi intende la comperatione essere optima.  |N$e fur ta' tele per 
+Aragne imposte~.  Dicono le favole che in Lydia fu femina decta Aragne 
+nata in piccola villa et di vile lignaggio: Ma s@i docta nell'arte del 
+richamare: et in ogni artificio d'agho et di tela che di lungo 
+intervallo vinceva tutte l'altre.  Il che la fece s@i arrogante: che 
+non contenta di superare e' mortali volle ghareggiare chon gli dii: et 
+contendere chon Pallas dea della sapientia.  Ma Pallas la vinse et 
+spezogli et tagliogli la tela et convertilla in ragno.  El quale 
+animale anchora non cessa fare artificiose tele.  Per questa favola si 
+dimostra che aragne ^id est~ l'humana fraude vince tutte l'altre 
+excepto che Pallas la quale @e dea della sapientia: perch$e la 
+sapientia divina conosce la fraude dell'huomo Et @e Iddio ^scructator 
+cordium~.  Per la qualchosa non creda alchuna aragne vincere Pallas.  
+Imper@o che epsa vincer@a lei et spezeragli ogni tela: Cio@e conoscer@a 
+Iddio la nostra fraude: Et romper@a tutti e' nostri disegni.  // c.105r
+
+	|19-27.~  Chos@i stava quella bestia parte nell'aria et parte in terra 
+chome stanno e' burchi o chome stanno e' beveri Questo animale @e 
+chiamato da' greci ^fibro~: Et dice Plinio che per naturale instincto 
+cognoscendo che 'l cacciatore lo cerca per havere e' suoi granelli: e' 
+quali sono medicinali maxime al parletico: et al morbo caduco/ lui 
+medesimo cho' denti se gli tagla.  Il perch$e Isidoro scrive che e' 
+latini lo chiamano ^castore~ perch$e si castra.  @E di terribil morso: 
+et non altrimenti tagla gl'alberi cho' denti che l'huomo col ferro: Et 
+se imbocca uno huomo/ non lo smorsa prima che senta havere macinato 
+l'ossa del membro che lui morde: @E simile alla lontra: et chome quella 
+habita la terra et l'acqua: Ma ha e' piedi di drieto chome d'oca: cho' 
+quali @e molto dextro al notare.  La coda ha larga et squamosa chome 
+pesce: et sempre la tiene nell'acqua et questa sola @e cibo pretioso: 
+l'altre membra sono d'abominevole lezo: Fa in su e' fiumi artificiose 
+chase et con pi@u palchi: accioch$e bench$e l'acqua cresca et scemi lui 
+possa tenere la coda nel fiume: et el resto del corpo in seccho.  
+pascesi di pesci et di scorza d'alberi.  Quegli che hanno pi@u forza si 
+fanno schiavi e' pi@u deboli: et fannogli andare rovesci pel fiume et 
+tra le gambe di drieto et la pancia gli charicono di legni per lo 
+hedificio delle loro chase: et per la coda gli tirono al luogo electo.  
+Alberto Magno scrive esser falso che si castrino: perch$e hanno e' 
+granelli appicchati in forma alla spina o voglamo dire al filo della 
+schiena che non si possono spiccare sanza lor morte.  El medesimo 
+afferma Diascoride.  Delle pelle di questi si fanno utili cappelli.  
+|Tra li tedeschi lurchi~: cio@e tra' golosi et di gran pasto: et dice 
+chos@i perch$e el Danubio dove si truovono e' beveri corre per questi 
+popoli.  |A far sua guerra~ contra a' pesci de' quali si ciba.  |Su 
+l'orlo ch' @e di pietra e 'l sabbion serra~: Era l'argine del fiume di 
+pietra el quale strignea el sabbione: che non fussi roso dal fiume 
+Apparivono manifeste fuori dell'acqua et erono in su la pietra.  
+Imper@o che e' principii della fraude chome dixi sono da chose vere et 
+sode: Ma poi el resto guiza: perch$e sono chose coperte: et vane: et 
+torcono la forca in su: perch$e finalmente apparisce el veleno.
+
+	|28-42.~  Dimostra Virgilio che era necessario andare insino alla 
+bestia: perch$e a volere havere intera cognitione de' fraudulenti era 
+necessario venire alla consideratione dell'astutia.  |Convien che si 
+torca / la nostra via~.  Questo dice perch$e infino a qui havean girato 
+a sinistra mano excepto che alchuna volta per attraversare chome hora: 
+Et gi@a di sopra habbiamo dimostro perch$e questo finge.  |Per@o 
+scendemmo alla dextra mammella~: A dinotare che la consideratione 
+dell'astutia era per guardarsene: et non per usarla.  |Et dieci passi 
+femmo in sull' extremo~: Intendi in su l'orlo del septimo cerchio.  Per 
+dieci passi: intende dieci spetie d'astutia delle quali tracter@a 
+successivamente nell'octavo cerchio.  Di poi Virgilio manda Danthe a 
+conoscere le genti che vi sono: et lui rimane a ragionare con la fiera. 
+ Il che significa che alla cognitione delle chose particulari basta la 
+ragione inferiore: Ma al considerare tutta la natura dell'astutia in 
+universale bisogna Virgilio: cio@e la ragione superiore: et lo 
+'ntellecto el quale persuade alla fiera che gli pongha in su gl'homeri 
+suoi forti et trapassigli nell'octavo cerchio.  Imper@o che non pu@o 
+andare lo 'ntellecto nostro alla cognitione delle pene che sono in quel 
+cerchio.  Se non conosce l'astutie et le sue spetie: et non sa 
+distinguere e' luoghi secondo le spetie.  |Gente seder propinqua~: Una 
+medesima pena: cio@e fiamme da ciel cadenti punisce e' soddomiti et 
+gl'usurieri: perch$e ciaschuno di questi fa violentia alla natura.  Ma 
+e' soddomiti vanno et gl'usurieri seggono A dimostrare che l'usura @e 
+maggior peccato: perch$e fa violentia non solo alla natura ma anchora 
+all'arte.  |Quivi el maestro~: Gi@a di sopra habbiamo dichiarato questo 
+luogo |La lor mena~: e' lor portamenti le loro actioni et movimenti: 
+perch$e menare significa commuovere Onde diciamo emena el capo.  |Li 
+tuoi ragionamenti sien l@a corti~.  Imper@o che conosciuto che hab- // 
+c.105v biamo la natura dell'usura ci dobbiamo di subito partire da tale 
+consideratione.  |Mentre che torni parler@o~: Gi@a @e dichiarato che 
+solo la ragione superiore intende l'universale.  
+
+	|43-51.~  Dimostra come solo and@o insino agl'usurieri Et dimostra 
+come seggono et non vanno Et noi habbiamo di sopra decto la ragione: Fa 
+comparatione che come e' cani del continuo si difendono da morsi de' 
+vermi che gli offendono: chos@i loro si difendono colle mani hora dalle 
+fiamme che piovevono hora dal caldo solo cio@e dalla calda terra.  Et 
+perch$e siamo arrivati a tale peccato diremo con brevit@a dell'usura.  
+@E usura vendita d'uso delle chose che non hanno uso: o di quelle che 
+solamente si consumano per uso.  Et @e da notare che certe chose hanno 
+uso: Certe no.  Hanno uso quelle che sono utili alla vita humana o 
+necessariamente o a bene essere.  Chome pane vino et vestimenti.  Non 
+hanno uso quelle sanza le quali possiamo vivere commodamente chome sono 
+le gemme: et non hanno multiplicatione: perch$e oro non fa oro n$e 
+gemma gemme.  ^Preterea~ delle chose che hanno uso alchune si consumano 
+in epso uso solamente chome @e pane et vino.  Alchuno in tempo chome 
+chase: et vestimenti et simili.  Adunque chi pigla prezo della pecunia 
+prestata/ pecca: perch$e non ha uso.  Similmente chi prende prezo di 
+pane o vino prestato commette usura: perch$e si consuma in epso uso.  
+Ma prestando la chasa che si consuma per tempo et per uso non commette 
+usura piglandone prezo: perch$e si peggiora nell'uso: et @e necessario 
+che di tempo in tempo si ripari: Ma dell'usura dicemmo nell'undecimo 
+capitolo.
+
+	|52-63.~  Dimostra che questi erono s@i abruciati dal fuocho che non 
+si poteano cognoscere.  Intendendo allegoricamente che questo vitio 
+dell'usura fa gl'huomini infami: et privagli d'ogni buon nome et fama: 
+et appresso agli animi generosi et agl'huomini prudenti non sono in 
+prezo alchuno: et non si degnono di conoscergli.  Et certo bench$e 
+l'ambitione sia gran vitio: Nientedimeno ha qualche generosit@a 
+d'animo.  La luxuria ha qualche spetie di benivolentia.  Ma l'avaritia 
+@e chosa sordida et vile et ignobile.  Il perch$e finge che gli conobbe 
+da tasche le quali haveano al collo.  Il che dimostra che tali huomini 
+non sono conosciuti per alchuna loro virt@u.  Ma solamente pel cumulo 
+delle pecunie illecitamente ragunate: et in queste tasche eron dipincte 
+l'armi di questi tali: perch$e in nessuna altra chosa consiste loro 
+dignit@a.  Pel lione azurro nel campo giallo dimostra cholui essere 
+della chasa de' Gianfigliazzi.  |Poi procedendo di mio guardo el 
+curro~: Quasi un trascorrimento.  Imper@o che l'occhio procede 
+continuando di chosa in chosa chome el carro procede nel suo viaggio.  
+Et per l'oca biancha nel campo rosso intende la famigla degl'Ubbriachi: 
+la quale gi@a fu molto honorata nella nostra repubblica.
+
+	|64-72.~  Sequitando pone messer Rinaldo degli Scrovigni cavalieri 
+padovano.  Questa famiglia havea in campo biancho una troia azurra et 
+rossa Et in somma dimostra ch'a l'usuraio da s$e non ha alchuna fama: 
+ma solo quella della pecunia et della famiglia.  |Mi 'ntronon 
+gl'orecchi~: perch$e gridono.  |Venga el cavalier sovrano~: per hironia 
+quasi vile et avaro: et intende di messer Giovanni Buiamonte: e' quali 
+portano per arme tre becchi.  // c.106r 
+
+	|73-84.~  Non si pu@o mai andare salvo per lo 'nferno: et quivi uscire 
+pel Purgatorio insino al cielo: se Danthe in tutti e' precepti non 
+ubbidisce a Virgilio.  Adunque perch$e era stato admonito che fussi 
+brieve torna di subito: et gi@a truova Virgilio esser salito in su la 
+fiera: perch$e a volere passare per questi cerchi de' fraudulenti 
+bisogna che Danthe cio@e la ragione inferiore et la sensualit@a conosca 
+e' particulari: et Virgilio: cio@e la ragione superiore conosca epsa 
+astutia in genere: et montin[o] su: cio@e sobtomettila ad s$e: et 
+voglia che anchora Danthe la cavalchi: cio@e che anchora l'appetito la 
+domi et sobtomettisela.  |Trovai el duca mio ch'era salito / gi@a in 
+sulla groppa~.  Mentre che Danthe considera l'astutia in questo et in 
+quello huomo particulare Virgilio la conosce in genere abstracta da 
+ogni particulare: et conosciuta la cavalcha chome habbiamo decto: Et 
+era in su la groppa: cio@e era nell'ultima spetie dell'astutia.  |Et 
+dixe ad me hor su~: Monta su: perch$e bisogna che la sensualit@a sia 
+exortata dalla ragione che non si lasci corrompere dal vitio.  Et 
+mettesi Virgilio tra la coda della fiera et Danthe: accioch$e quella 
+non l'offenda.  Imper@o che quando la sensualit@a ha conosciuto 
+l'astutia strucciolerebbe forse a sequitarla: Et in questo modo el fin 
+suo sarebbe dannoso se la ragione non vi s'interponessi.
+
+	|85-93.~  Non @e da maraviglarsi che Danthe impaurissi vedendo dove 
+havea a salire.  Imper@o che bench$e la sensualit@a ubbidisca alla 
+ragione.  Nientedimeno insino a tanto che non @e facto fermo habito 
+della forteza conviene che l'appetito nelle 'mprese grandi sbigottisca. 
+ Dice adunque che udendo le parole di Virgilio tremava pensando havere 
+a salire in su quella fiera: come triema colui che s'appressa al 
+ribrezo cio@e al capriccio della quartana.  |El rezo~ lombra.  |Ma 
+vergognar mi fen le sue minaccie~.  Non l'a minacciato Virgilio.  Ma 
+intendiamo che ogni precepto ha inchiuso minaccie in s$e: perch$e 
+quando chi @e havuto da te in somma reverentia ti comanda pare che tali 
+precepti sieno minacie.  |Che 'nnanzi a buon signor fa servo forte~.  
+Quando el servo conosce havere buono cio@e giusto et discreto signore/ 
+et sentesi da quello minacciare/ lui pigla animo: perch$e fa che non 
+gli comanderebbe chose: che non potessi fare: et che non gli fussi 
+utile.  |Si volsi dire~.  Chos@i volsi dire: cio@e fa che tu 
+m'abbracci: Ma la paura m'imped@i in forma che la voce non usc@i della 
+bocca: Et qui pone l'affecto della paura: la quale spesso impedisce el 
+parlare.  Di qui Virgilio: ^Pars tollere vocem Exiguam inceptus clamor 
+frustratur hiantes~.
+
+	|94-114.  Ma epso~.  Dimostra che la ragione per s$e medesima soccorre 
+alla sensualit@a.  |Con le braccia m'avvinse et mi sostenne~.  Quasi 
+dica che la forza della ragiona soccorre alla fragilit@a della 
+sensualit@a.  |Et dixe Gerione~: @E stato mirabile lo 'ngegno del 
+poeta: el quale chon sommo artificio tutti e' mostri discripti da' 
+poeti commodamente conduce a suo proposito: in forma che non si 
+partendo dalla christiana religione di quegli exorna el suo poema.  
+Adunque perch$e trov@o nello 'nferno virgiliano Gerione posto tra' 
+monstri dove dice: ^Gorgones Arpieque: et forma tricorporis umbre~.  Et 
+perch$e oltra alla favola si legge nella historia chostui essere stato 
+astuto.  Per@o l'accomod@o in questo luogho accioch$e come negl'altri 
+chos@i in questo cerchio fussi monstro conveniente a exprimere el vitio 
+quivi punito.  Dicono che Gerione fu re d'Hispagna: et hebbe tre // 
+c.106v corpi.  Il che fingono perch$e fu re di tre isole cio@e di due 
+Baleare che sono Maiolica et Minolica et d'Hebuso: et che Hercule 
+combattendo seco in tre volte l'uccise in ciaschuna volta uccidendo un 
+corpo.  Il che dinota: che l'huomo virtuoso pu@o spegnere quelle tre 
+spetie di fraude gi@a di sopra dimostrate.  |Muoviti homai / le rote 
+larghe et lo scender sia pocho~.  Quando voglamo chon pi@u facilit@a 
+scendere o salire alchuna erta soglamo non andare adirictura: ma fare 
+larghe circuitioni in modo che vegnamo a scendere pocho per volta: et 
+maxime quando habbiamo bestia molto charicha.  Adunque dice el poeta 
+essendo tu charico di Danthe el quale havendo corpo pesa pi@u che 
+l'anime sanza corpo non scendere alla scondescesa: Ma va girando: et 
+allegoricamente dimostra che a volere menare la sensualit@a per la 
+cognitione della fraude e mestieri procedere chon pi@u lento passo: 
+perch$e l'huomo non intende sanza discorso: et non ha quella celerit@a 
+nel comprendere: che ha lo spirito incorporeo.  |Chome la navicella~.  
+Optima comperatione et tanto aperta che non bisogna altra expositione.  
+|A giuocho~: Diciamo l'uccello essere ad giucho quando @e in luogho s@i 
+aperto che pu@o volgersi dovunche vuole: et similmente diciamo della 
+nave quando fuori di porto et di luogo strecto si pu@o expeditamente 
+voltare.  |Dove era el pecto~: cio@e alle sponde del septimo cerchio.  
+|La choda rivolse~.  And@o adunque indrieto insino quivi et poi si 
+volse.  |Et quella presta~: cio@e prestamente: et mossela per l'aria 
+chome l'anguilla per l'acqua.  |Maggior paura non credo che fosse~.  La 
+sententia @e io non credo che n$e Phethonte havessi maggior paura 
+quando sbigottito gi@a lasci@o e' freni a' chavagli.  N$e Icaro quando 
+si sent@i privare delle penne dell'ale.  Il che accioch$e meglio 
+s'intenda brievemente narreremo l'una et l'altra favola.  Phethonte fu 
+figluolo del sole et di Climene: Era ne' medesimi tempi Epapho figluolo 
+di Iove: el quale superbo per tanto padre sprezava Phethonte: et 
+neghava lui essere nato di Phebo.  Dolsesene con la madre Phethonte: et 
+dallei admaestrato and@o alla casa di Phebo: et allui chiese gratia 
+innominata.  Giur@o Phebo che impetrerebbe ci@o che chiedessi.  Allhora 
+el temerario giovanetto chiese che per un giorno gli concedessi guidare 
+el suo carro.  Pentissi Phebo havere giurato et tent@o di dissuaderlo: 
+Ma infine stando lui nel temerario suo proposito gli concesse el solare 
+carro: el quale e' poeti fingono esser guidato da quattro cavagli.  
+Questi sono.  Pyroo.  Eoo.  Ethone: et Phlegone.  Era gi@a a mezo el 
+cielo Phethonte quando e' cavagli non temendo s@i debole governatore 
+lasciorono el quarto cielo nel quale el sole si volge et scesono non 
+solamente sobto el terzo o cielo di Venere: et el secondo di Mercurio: 
+Ma sobto la luna la quale @e nel primo.  Sent@i le terra la troppa 
+propinquit@a del sole: Et ogni chosa ardea.  Il perch$e mosso a 
+commiseratione Iove perchosse Phethonte con celeste fulgore: et pinselo 
+nel Po: et quivi mor@i non sanza exemplo di tutti gl'huomini: el quale 
+admonisce che non faccino impresa sopra le proprie forze.  Icaro fu 
+figluolo di Dedalo del quale troppo prolipso sarebbe narrare ogni 
+historia: Ma non potendo altrimenti fuggire: perch$e di Creta perch$e 
+era di somma industria et arte in moltissime chose fabbric@o ale ad 
+s$e: et al figluolo/ quello admonendo che n$e troppo alto volassi: n$e 
+troppo basso: perch$e nelle superiori parte el caldo struggerebbe la 
+cera che tenea le penne: et nelle inferiori l'humidit@a l'aggraverrebbe 
+troppo.  Volorono adunque ambodue salvi insino che el figluolo tenne 
+drieto al padre.  Ma dopo alquanto spatio stimolato Icaro da troppa 
+cupidit@a del volare in alto divenne inobediente a' salutari precepti 
+del padre Sal@i chome aquila tanto alto che: liquefacta la cera che 
+tenea le penne rimase sanza ale: et cadde in quel mare: el quale dal 
+suo nome fu poi nominato Icario.  Tale pavento hebbe adunque Danthe 
+vedendosi portare all'ongi@u per aria da Gerione: quale hebbe 
+Phethonte: et Icaro quando rovinavono a terra.  Per questi due 
+intendono e' poeti tutti quegli e' quali mossi da troppa presumptione 
+di s$e medesimi: et da temerit@a ardiscono a fare imprese sopra le 
+forze et le facult@a loro.  Onde interviene che non posson condurre 
+tale impresa al debito fine: et caggion tra via sobto la soma.  Chos@i 
+adunque la sensualit@a elevata dalla contemplatione dell'astutia 
+sbigottiva di poter conseguire tal cognitione.  Imper@o che non vedere 
+altro che aere significa la contemplatione dell'astutia in genere non 
+circunscripta n$e da luogho n$e da tempo: la quale @e al tutto 
+incorporea cio@e non solamente denudata dalla materia: ma ^etiam~ 
+dagl'accidenti della materia.
+
+	|115-126.~  Quanto al texto dimostra la facilit@a dello scendere.  
+Imper@o che chi ruota: cio@e fa molte circuitioni Va adagio Scende 
+facilmente.  Et quanto all'allegoria dimostra: che la cognitione 
+dell'huomo non scenda sanza la circuitione del discorso della 
+raciocinatione: et non chon quella celerit@a che le substantie 
+seperate.  |Ma io non~ // c.107r |m'accorgo~: Non s'avvedea che 
+scendessi: se non che nel calare sentiva vento al viso: chome 
+sentirebbe uno che scendessi per fune: Et allegoricamente dimostra che 
+la fraude conduce in forma che l'huomo non se n'accorge.  |Et sentia 
+gi@a dalla man dextra el gorgo~.  Adunque la fiera @e ita a sinistra: 
+et passando havea lasciato el gorgo: cio@e el fiume a man dextra.  |Far 
+sobto noi un horribile scroscio~: cio@e suono: che nascea per la caduta 
+dell'acqua.  Il perch$e io sporgo cio@e fo infuori la testa con 
+gl'occhi in gi@u: con gl'occhi chinati.  |Allhor fu' io pi@u timido che 
+prima allo scoscio~/ alla caduta: dell'acqua: perch$e conobbi quanto 
+era el precipitio.  |Et vidi poi ch$e nol vedea davanti~.  Chi @e o in 
+acqua o in aria in forma che non veggha terra da alchuna parte non 
+s'accorge che quella cosa che lo porta si muove.  Ma quando comincia a 
+vedere la terra allhora s'accorge del moto: Et se sei in mare tu vedi 
+riguardando una isola se la nave va diricta o se s'aggira.  Et 
+allegoricamente dimostra che quando noi ci apressiamo a' fuochi et a' 
+pianti: cio@e al danno al quale ci conduce la fraude allhora ci 
+accorgiamo del girare: et dello scender della fiera: cio@e cognosciamo 
+le circuitione et le rivolture della fraude.
+
+	|127-136.~  Per questa comperatione dimostra che Gerione el quale era 
+ito un pezo volteggiando et sostenendosi in su l'ale pocho era sceso 
+poi si cal@o chome 'l falcone: el quale poich$e @e stato un pezo in 
+aria: et non vede uccello da ferire si chala sanza che sia allectato o 
+con uccello o col logro.  |Discende lasso~: cio@e stanco.  |Onde si 
+muove snello~: cio@e da quel luogo: dal quale s'era partito.  |Snello~: 
+cio@e dextro et veloce.  |Per cento ruote~: cio@e per molti cerchi: et 
+ponsi di lungi dal falconieri sdegnato et infellonito.  Et questo 
+allegoricamente @e vero nel fraudulento: el quale tiene la chosa 
+sospesa un tempo in modo che non intendi quello si vogla fare: et con 
+sue rivolture ti conduce al fondo: et condoctoti quivi ti sparisce 
+dinanzi et lasciati nel fondo.  |Si dilegu@o~/ spar@i con quella 
+velocit@a che la coccha della ghiera si parte dalla chorda.  Imper@o 
+che bench$e tu t'accorga della fraude lui @e prima sparito che tu ne 
+possa prender vendecta.  Conduxe Theseo Adriana nell'isola di Naxo.  
+N$e s'accorse del tradimento la fanciulla se non quando desta intese 
+Theseo essere gi@a sparito: et havere lei lasciata sanza navigio: chol 
+quale lo potessi sequire.
+

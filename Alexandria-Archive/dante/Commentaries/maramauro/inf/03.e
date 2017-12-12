@@ -1,0 +1,564 @@
+De penis \<eorum\> qui non fecerunt bonum nec malum
+
+	|1-6.~ 
+	^Per me si va ne la cit@a dolente,~
+^per me si va ne l'eterno dolore,~
+^per me si va tra la perduta gente.~
+^	Iustitia mosse el mio alto fatore;~
+^fecemi la divina potestate,~
+^la somma sapientia e 'l primo amore.~
+
+Questo capitulo ha 3 parte.  A la Ia D. fa un exordio de la porta de 
+questo inferno.  A la 2a esso tracta de la penna de li miserabili omini 
+del mondo, li quali esso chiama captivi per@o che vixero senza fama de 
+bene e senza infamia de male.  A la 3a tracta del fiume infernale 
+chiamato Acheronte, e de un dimonio il qual sta a la riva del dicto 
+fiume, como nochiero d'una nave, a menar le anime da l'altra parte.  D. 
+in questa Ia parte usa una figura gramaticale chiamata <prosopopeia>, 
+in lingua greca como areducere una cossa inanimata a parlare.  E ogni 
+loquella del mondo se p@o far per doi modi: o per voce viva o per voce 
+morta.  Per voce viva se fa quando omo parla; per voce morta si @e 
+quando l'omo manifesta el so volere per scriptura.
+	E cos@i fa D. qui, che introduce questa porta a parlare per voce 
+morta, cio@e con scriptura, dicendo como per essa porta se va ^NE LA 
+CIT@A DOLENTE~, la qual se chiama Dite, de la qual te dir@o apresso.  E 
+poi dice ^NE L'ETERNO DOLORE~, cio@e ove non @e redemptione, cio@e ne 
+l'inferno.  E poi dice ^TRA LA PERDUTA GENTE~, e questi sono li miseri 
+dampnati e morti ne l'ira de Dio.
+	E sequita apresso: ^FECEME LA DIVINA POTESTATE, LA SUMMA SAPIENTIA E 
+'L PRIMO AMORE~.  Questo passo @e da intendere che 'l Patre e 'l Figlio 
+e il Spiritu Sancto fece questa porta, per@o che al Padre @e atribuita 
+la potentia, al Figlio la sapientia e al Spiritu Sancto l'amore.
+
+	|7-9.~ 
+	^Denanci a me non fuor cosse create~
+^se non eterne, e io eterna duro.~
+^Lassate ogni speranza, voi ch'entrate.~
+
+	Qui D. vol mostrare, per questo modo dicto de sopra, che questa porta 
+dica che 'nanti a lei ^NON FUOR COSSE CREATE~.  E questo @e chiaro, 
+ch@e l'inferno, overo la soa porta, fu 'nanti la creatione del mondo.  
+E per@o dice ^SE NON ETERNE~, per@o c'ha la natura angelica, la qual fu 
+creata 'nanti l'inferno.  E in questo se conclude la corporal materia 
+de li cieli li quali fuoron creati como questa natura angelica, s@i 
+como se nota libro I ^Genesi~ quando Dio disse: <Fiat lux>.  E allora 
+fuoron creati li angeli, e ^statim~ dopo la loro creatione, Lucifer 
+pecc@o e merit@o de andar al luogo de l'inferno, il qual elexe Dio per 
+loco de lui e di tuti li soi compagni.  E poi f@e la rebellione.
+	E per@o fu facta questa porta per guardia tanto de li mali angeli, 
+quanto per tuti li dampnati.  E per@o dice ^LASSATI OGNI SPERANZA~, 
+per@o che quel loco @e senza speranza de redemptione.
+
+	|10-12.~ 
+	^Queste parole di color oscuro~
+^vid'io scripte al sommo d'una porta;~
+^per ch'io: <Maestro, el senso lor m'@e duro>.~
+
+	Qui D. dice a V. como esso vide queste parole d'un color oscuro al 
+sommo d'una porta, e il senso de quele li @e multo duro.
+
+	|13-15.~ 
+	^Ed elli a me, come persona acorta:~
+^<Qui se convien lassar ogni suspetto;~
+^ogni vilt@a convien che qui sia morta>.~
+
+	Qui D. introduce V. como ragione umana la qual se acorge che D. 
+dubit@o, e dice: <^O D., QUI SE CONVEN LASAR ETC.~>.
+
+	|16-18.~ 
+	^Nuoi siam venuti al loco ov'io t'ho detto~
+^che tu vedrai le gente dolorose~
+^c'hanno perduto el ben de l'inteletto.~
+
+	Qui V. dice como ^SIAM VENUTI AL LOCO~ el qual esso disse de sopra: e 
+vedr@a ^LE GENTE DOLOROSE CHE HANNO PERDUTO EL BEN DE L'INTELECTO~.  E 
+questo @e la gratia de Dio la quale li omini cognoscono 
+intelectualmente.
+
+	|19-21.~ 
+	^E poi che la sua man a la mia pose~
+^con lieto volto, ond'io mi confortai,~
+^me misse dentro a le secrete cose.~
+
+	Qui D. mostra como V. per sua securit@a li pose la sua \<man\> a la 
+soa ^CON LIETO VOLTO~ -- e questo dice a mostrare segno de grande 
+amicitia, quando l'omo porge la mane ad alcuno e spetialmente quando li 
+mostra bon volto, como dice qui D. -- che esso se ne confort@o.
+	E poi dice: ^ME MISSE DENTRO A LE SECRETE COSE~.  E cos@i se scrive 
+^quod Paulus vidit archana Dei~ <que non licet homini loqui>.  S@i che 
+D. mostra per la gratia de Dio e per virt@u de la ragione avere notitia 
+de le cose infernalle vivendo al mondo.
+
+	|22-24.~ 
+	^Quivi sospiri, pianti e alti guai~
+^risonavan per l'aire senza stelle,~
+^per ch'io al cominciar ne lacrimai.~
+
+	Qui D. vol mostrare como esso comenza avere cognitione de l'inferno, 
+dicendo che esso vide etc.  Li quali guai ^RISONAVAN PER L'AIRE SENZA 
+STELLE~, cio@e per quelo loco oscuro ove non luce pianeto alcuno.  Per 
+la qual cosa nel principio comenz@o a lacrimar.
+
+	|25-27.~ 
+	^Diverse lingue, orribile favelle,~
+^parole di dolor, accenti d'ira,~
+^voci alte e fioche, e suon di man con elle...~
+
+	Qui D. comenza a narare como esso vide etc., ^ACCENTI~, cio@e 
+prolationi, ^DE IRA, E SON DE MAN CON ELLE~.  Or qui poria alcun 
+dubitare che D. non pose bene de lo sonar de le mane, per@o che l'anima 
+nostra non ha organi dopo la partita del corpo; e D. mete qui che udia 
+soni de mane de le dicte anime.  A la qual questione io rispondo che, 
+quando l'anima se parte dal corpo, essa ne porta la memoria, el senno e 
+la voluntate.  E la iustitia de Dio, la qual vole che 'l peccato sia 
+punito, prende omni modo che satisfacia \<e\> mostra queste cosse 
+poterse fare, con tuto ci@o che \<non\> abiano organi.
+
+	|28-30.~ 
+	^facean un tumulto, el qual s'agira~
+^sempre in quell'aura senza tempo tincta,~
+^come l'arena quando al turbo spira.~
+
+	Qui D. dice che queste lingue diverse, e queste favelle orribile, e 
+questi accenti d'ira, e queste alte voxe e fioche, e questi son de mano 
+faceano un tumulto, el qual se agirava ^SEMPRE IN QUEL'AURA SENZA 
+TE\<M\>PO TINTA~.  E questo @e a denotare, segondo alcuni, che era 
+senza sole, per@o che 'l sole ne d@a il tempo, cio@e l'anno, el mese, 
+la septimana, el giorno, l'ora e il momento.  E altri dicono <senza 
+tempo>, cio@e ^in eternum~ e senza fine alcuno.
+	E fa una comparatione a modo de la arena quando spira ^AL TURBO~.  E 
+questo turbo @e un vento el qual volenteri turba l'arena e levalla in 
+alto e fala rotare in giro.  Altri dicono che 'l turbo @e un gioco de 
+fanciuli, el qual se chiama <troco>, e percotesse con lo scoregino, e 
+rege, e rota, e cacia via l'arena e la polvere denanti a lui, e fa un 
+gran tumulto nel so girare.
+
+	|31-36.~ 
+	^E io ch'avea de error la testa cincta,~
+^dissi: <Maestro, che @e quel ch'i' odo?~
+^e che gent'@e che pare nel duolo s@i vincta?>~
+^	Ed elli a me: <Questo misero modo~
+^tengono l'anime triste di coloro~
+^che vixer senza fama e senza lodo>.~
+
+	Questa @e la 2a parte del capitulo, ne la quale D. dice che esso, el 
+qual aveva la testa cinta ^DE ERROR~, cio@e non cognoscendo la 
+qualitate del loco, dimanda V. -- e chiamalo ^MAESTRO~ -- aci@o che li 
+insegni che cossa era quello che esso udia in quel loco e qual gente 
+ch'@e gionta col dolo.  A la qual domanda V. responde e dice che quello 
+misero modo tengono le anime de coloro che nel mondo fuoron tanto 
+miseri che vixero senza male e bene operare, s@i che de la lor vita non 
+se p@o dir male n@e bene.
+
+	|37-39.~ 
+	^Meschiate sonno a quel captivo coro~
+^de li angeli che non furon ribelli~
+^n@e fuor fideli a Dio, ma persi fuoro.~
+
+	V. dice ancora che questi sonno simigliati a quel captivo coro de 
+queli che dubitavan essere com Dio e cum Lucifero.
+
+	|40-42.~ 
+	^Caciali i cieli per non esser men belli,~
+^n@e lo profondo inferno li receve,~
+^ch'alcuna gloria i rei avrebber d'elli.~
+
+	Qui dice V. che li cieli caciano questi angeli per@o che, recevendo 
+cos@i cativi spiriti, essi mutarebeno lor beleza in pegio.  E il 
+profundo inferno non li receve per@o che color che furon rei e 
+ostinati, li quali concorsero cum Lucifero, avrebeno gloria de loro, 
+per@o che non pecaron quanto loro e serian puniti de equale pena.  E 
+per@o rimaser sospixi, e tuta la regione de l'aire n'@e piena.
+
+	|43-48.~ 
+	^E io: <Maestro, che @e tanto greve~
+^a lor che lamentar li fa s@i forte?>.~
+^Rispuose: <Dicerolti molto breve.~
+^	Quisti non hano speranza di morte,~
+^e la soa cieca vita @e tanto bassa,~
+^che invidiosi sono d'ogni altra sorte>.~
+
+	Qui D. fa un'altra domanda a V., e dice: <Che @e quelo che @e tanto 
+greve a loro che li fa s@i forte lamentar?>.  A la qual domanda V. 
+responde con brevitate dicendo che costoro ^NON HANNO SPERANZA DI 
+MORTE~, cio@e de esser dampnati a la pena del senso, ma la lor ^CIECA 
+VITA ETC.~
+
+	|49-51.~ 
+	^Fama di loro el mondo esser non lassa;~
+^misericordia e iustitia li sdegna:~
+^non ragionam de loro, ma guarda e passa.~
+
+	Ancora continuando V. sopra el preposito de costoro, dice che 'l mondo 
+non lassa esser ^FAMA DE LORO~.  La qual fama @e vita quanto a coloro 
+che fecero qualche cossa famosa al mondo, como fece V. il qual f@e tute 
+le soe opere in modo che tutt'il d@i se lezono per le scolle e ogni d@i 
+resurge pi@u.  S@i che conclude che, quanto a la fama del mondo, 
+costoro son morti.
+	^MISERICORDIA ETC.~: questo intendi \<quanto\> a Dio, el quale @e 
+misericordia, e ^IUSTITIA~, quanto a la punitione de lor vile animo.  
+Ultimo dice: ^NON RAGIONAMO DE LORO, MA GUARDA ETC.~, per@o che de tal 
+gente non @e da far sermone.
+
+	|52-57.~ 
+	^E io, che riguardai, vidi una insegna~
+^che girando correva tanto ratta,~
+^che d'ogni puosa mi parea indegna;~
+^	e dietro li ven@ia s@i longa tratta~
+^di gente, che non avrei creduto~
+^che morte tanta n'avesse disfatta.~
+
+	Qui dice D. che esso, el qual riguarda denotando che V. 
+di\<sde\>gnasse de riguardarli, vide ^UNA INSEGNA~, cio@e bandera, la 
+qual ^CORREVA TANTO RATA~, che per alcun modo li paresse degna de 
+alcuna puosa.  A la qual bandera venia una ^S@I LONGA TRATA DE GENTE~ 
+-- e nota che dice <gente> per vilipentio -- che esso non averia 
+creduto etc.
+
+	|58-60.~ 
+	^Possia che n'ebbi alcun ricognosciuto,~
+^vidi e cognobbi l'ombra de colui~
+^che per viltate fece 'l gran refuto.~
+
+	Qui D. mostra como esso ne cognobbe alcuno.  E dice che vidde l'ombra 
+de papa Celestino il quale fece lo grande refuto per vilit@a, cio@e 
+renunci@o el papato.  Questo fu ne li anni mileducentiotantaquatro, che 
+Ignocentio papa mor@i in Perosa e tuto 'l colegio fu in discordia de 
+elegere alcuno de' cardinali.  E in quel tempo era un simplice ermita, 
+omo de bona vita, ne le parte de Apruzo sopra la cit@a de Salmona, el 
+qual se chiamava frate Petro de Morone, s@i che venne ad esser nominato 
+per alcun cardinale como sancta persona: e surse una voxe in tuto el 
+colegio, e fu electo papa in concordia, e fu mandato per lui.  Costui 
+sen venne a Napoli con tuta la corte.  E alora erano alti facti e magni 
+per tut'el mondo, s@i che li convenia dar ordine a le cosse che 
+occoreano in quel tempo, s@i como apertene al vicario de Cristo.  Ed 
+esso non era assueto in questi facti del mondo, ma ^solum~ in la soa 
+vita solitaria e aspra in la sua spelunca, e multo duro li parea de 
+avere queste grave cure.  Alora era Benedetto Gaitano de Anagna de 
+Campagna, omo asai sientifico e instructo ne li fati magiori del mondo 
+e in scientia, e omo factivo, ed era cardinale.  Acorgendosse che papa 
+Celestino non si sapea rezere nel papato, spesse fiate li ragionava che 
+esso non pote tanto carco sostenere ed esso non sa n@e 'l pote operare: 
+perch@e non renuncia el papato?  Al qual el dicto papa respondea che 
+esso nol pote fare per lo decretale lo quale repugna che 'l papa non 
+possa renuntiare al papato.  Allora el dicto Benedetto Gaitano comprese 
+el modo e f@e questa \<a\>stultitia: esso se concord@o secretamente con 
+tut'el colegio e poi dede a vedere a papa Celestino che con asentimento 
+de tuti li cardinali esso potesse fare una decretale contraria che 'l 
+papa possa renunciare a so modo.  E con questi modi tanto lo infest@o 
+che 'l dicto papa in publico li promise de renunciare.  Abitando in 
+Napoli a la piaza de Nido al vico de Dominova, esso renunci@o ne la 
+chiesia de San Ioanni Mazore, e incontinenti fu electo Benedeto, mutato 
+nomine de Benedeto in Bonifatio.  E per@o D. non senza cagione lo 
+scrive tra costoro, per@o che fu de tanta vilt@a de animo che non pat@i 
+de esser papa; anzi, seducto a modo d'un fanciulo, renunci@o.  E papa 
+Bonifatio in quel d@i revoc@o la decretale nova che 'l papa potesse 
+refutare.  Alcuni dicono che questo fu Exa@u, che fece el gran refuto, 
+el qual per una scudela de lente renunci@o la prima genitura del padre 
+al fratello segondo, secondo che se scrive nel ^Genesi~.  Altri 
+vogliono adaptare questo a Redulfo duca de Austria, el qual per vilt@a 
+de animo, seducto per moneta e per pagura de' tirampni de Italia, 
+renunci@o a l'imperio.
+
+	|61-63.~ 
+	^Incontinenti intesi e certo fui~
+^che quella era la secta de' captivi,~
+^a Dio spiacenti e a' nemici sui.~
+
+	Qui D. dice, como omo certificato de la condition de costoro, che 
+questa era ^LA SECTA DE' CAPTIVI~.  E dice <captivi> ^a capio, capis~, 
+che sta per `prendere', per@o che questi sonno presi dal lacio de la 
+miseria.  Li quali ^non solum~ dispiaceno a Dio, ma al suo adversario.  
+E per@o @e da notare che l'omo dee essere libero e non sospeso ad omni 
+sua operatione.
+
+	|64-66.~ 
+	^Quisti sciagurati, che mai non fur vivi,~
+^erano ignudi, stimulati molto~
+^da mosconi e da vespe ch'erano ivi.~
+
+	En questa parte de questo capitulo D. introduce V. a dichiarare la 
+miserabel pena de questi captivi.  E dice ^QUESTI SCIAGURATI~.  E 
+questo @e un vocabulo ^improprie asumptum~, per@o che antiquamente li 
+pagani vivean per augurio, ^idest~ al moto e al garito de li ucelli; e 
+quello el qual pervenia a bon fine se dicea <bene agurato>, e quelo che 
+pervenia al mal fine se dicea <siagurato>.  ^Et dicitur in gramatica 
+<augurium>, idest `avium gestum', ab avis et gero, -- is~, il qual sona 
+`gesto de ucelo'.
+	^CHE MAI NON FUR VIVI ETC.~  E questo intendi che, \<non\> operando 
+bene e male, l'omo non si p@o chiamar <vivo>.  ^ERANO NUDI~, cio@e de 
+mal e bene far.
+	^STIMULATI ETC.~  Questo passo io lo posso per doi modi exponere: 
+l'uno modo @e se lo esser de l'omo el qual vive in questa miserabile 
+vita apertenga a la essentia de l'anima; l'altro modo @e per la 
+operatione, e cos@i per virt@u se vive in quanto per la virt@u se opera 
+dritamente.  E per costoro scrive el Psalmista: <Deleantur a libro 
+viventium et cum iustis non scribantur>.  Or tornemo a dichiarare 
+l'alegorico senso: che cossa intende D. in questo capitulo de questi 
+mosconi li quali stimulano questi captivi.  Per@o @e da sapere che ogni 
+penna se d@a per lo contrario: e questo @e da la iustitia de Dio, la 
+quale provede a li meriti de' nostri pecati.  E dico che li mosconi e 
+le vespe sonno animali nati da putrefaction de terra, li quali non 
+hanno stabilit@a alcuna, anzi non posson posar mai.  Per@o, como 
+costoro fuoron morti a l'operar del ben e del mal, Dio li fa punire per 
+sua iustitia ^DA MOSCONI ETC.~
+
+	|67-69.~ 
+	^Elli rigavan lor di sangue 'l volto,~
+^che, mischiato de lacrime, ai lor pedi~
+^da fastidiosi vermi era ricolto.~
+
+	Ancor continuando con questi mosconi e queste vespe le quale rigavan 
+el volto de costoro de sangue, e descendea questo sangue meschiato de 
+lacrime a li lor pedi e ivi era ricolto ^DA FASTIDIOSI VERMI~.  E 
+questi vermi intendo el fastidio el qual se genera de la fama loro, la 
+quale @e neglecta; e la infamia ancora.  S@i che sta como poltrone el 
+qual non si mova e genera vermi per la putredine.
+
+	|70-78.~ 
+	^E poi ch'a riguardar oltra mi dedi,~
+^vidi gente a la riva d'un gran fiume;~
+^per ch'io dissi: <Maestro, or mi concedi~
+^	che sapia quali sono, e qual costume~
+^le fa de trapassar parer s@i pronte,~
+^com'io discerno per lo fioco lume>.~
+^	Ed elli a me: <Le cosse ti fier conte~
+^quando noi firmaremo i nostri passi~
+^en su la trista rivera d'Acheronte >.~
+
+	D. in questa parte mostra como esso, riguardando oltra, esso vide 
+gente a la riva d'un fiume.  Ed @e la 3a parte de questo capitulo.  E 
+per@o lo domanda dicendo: <O V. -- e dicilo ^MAESTRO -- OR MI CONCEDI 
+CH'IO SAPIA ETC., E QUAL COSTUME ETC.~, s@i ^COM'IO DISCERNO PER LO 
+FIOCO~, ^idest~ ofuscato, ^LUME~>.  A la qual domanda V. responde: 
+<Queste cosse te serano ^CONTE~, cio@e manifeste, ^QUANDO NUI 
+FIR\<MAREMO\> ETC.~>.  Or questo @e quanto a la littera exposto, ma 
+ancor convien altra exponitione, s@i come te dir@o apresso.
+
+	|79-81.~ 
+	^Allor con li ochi vergognosi e bassi,~
+^temendo nel mio \<dir\>, li fuosse grave~
+^infin al fiume di parlar mi trassi.~
+
+	Questa parte @e multo chiara, per@o io non la expono quanto a la 
+littera.
+
+	|82-87.~ 
+	^Ed eco verso noi venir per nave~
+^un vechio, bianco per antico pelo,~
+^gridando: <Guai a voi, anime prave!~
+^	Non sperate mai veder lo cielo:~
+^io vegno per menarvi a l'altra riva~
+^ne le eterne tenebre, in caldo e gielo>.~
+
+	Questo testo @e chiaro quanto a la littera, ma vol altra exponitione 
+segondo che io te dir@o apresso.  D. en tuta questa soa opera, e maxime 
+in questo ^Inferno~, esso sequita V. e maxime lo VI ^Eneidos~, l@a ove 
+D. prende questo passo; e dice cos@i: <Hinc via tartar\<e\>i que fert 
+Acherontis ad undas.  / Turbidus hic seno etc.>.  Se tu voi tuto 
+vedere, cerca V.
+
+	|88-93.~ 
+	^<E tu che sei cost@i, anima viva,~
+^parteti da cotesti che son morti>.~
+^Ma poi che vidde ch'io non mi partiva,~
+^	disse: <Per altra via e per altre porti~
+^verrai a piaggia, non qui, per passare:~
+^pi@u leve legno convien che ti porti>.~
+
+	Tanto in queli versiculi de sopra quanto in questi D. nara como verso 
+V. e verso lui venia un bianco vechio per nave, gridando a le anime le 
+qual aspectavano trapassare: ^GUAI A VOI ANIME ETC.~  E in questi altri 
+versiculi questo vechio domanda D.:^E TU CHE SE' COST@I ETC.;~ e poi 
+subgionge: ^PER ALTRA VIA ETC.~  Or conmenzamo alegoricamente ad 
+exponere questo concorso de anime a questo fiume de Acheronte.  E dico 
+che Acheronte desegna le anime morte senza penitentia nel pecato 
+mortale.  E la divina iustitia le fa prompte a dovere passar lo dicto 
+fiume, che se interpetra omni operatione de male che nui avemo fato 
+infin a la morte e senza alcuno pentimento de le dicte male opere.  
+Questo Caron @e il moto diabolico, il qual @e sempre stato ^ab antico~ 
+temptamento de li sensi umani; il qual ne conduce con le soi 
+temptationi infin a l'extremo e, poi che @e separata l'anima dal corpo, 
+ne conduce in questa soa navicola ne l'inferno senza redemptione.  E 
+per@o lo descrive vechio, con ochio de bragia e con bianco pelo.
+	E poi dice a D.: ^E TU CHE SE' COST@I~.  E questo dice per@o che esso 
+non porta altro che anime de morti, cio@e de dampnati.  E dice: 
+<Parteti da costoro>, quasi <che io non te porter@o>.  Poi dice ^PER 
+ALTRA VIA ETC.~  Questo passo se intende che D. convene che per altro 
+modo esso passi lo dicto fiume, cio@e per via de intelecto speculativo, 
+il qual @e ^PI@U LEVE LEGNO~.  <E non venir qui per passare, per@o che 
+questo passo @e passo de morti e tu sei vivo, e quanto a la anima, 
+\<e\> quanto al corpo>, per@o che D. era in via de pentimento.  E in 
+questo simile caso scrive V. libro VI ^Eneidos~ prealegato: <Umbrarum 
+hic locus est, Sompni Noctisque sopore; / corpora viva nefax etc.>.
+
+	|94-96.~ 
+	^E 'l duca a lui: <Caron, non ti cruciare:~
+^vuolse cos@i coll@a dove se pote~
+^ci@o che si vuolle, e pi@u non domandare>.~
+
+	In questa parte D. introduce V. como ragione a respondere a la 
+impetuosa domanda de Caron, dicendoli prima: <Non ti corociare, per@o 
+che nel cielo, ove ^SE POTE CI@O CHE SI VOLLE~, @e s@i voluto; ^E PI@U 
+NON DIMANDARE~>.
+
+	|97-99.~ 
+	^Quinci fuor chete le lanose gote~
+^al nochier de la livida pallude,~
+^che 'ntorno a li ochi avean de fiame rote.~
+
+	Qui mostra D. como el superbo se quiet@o per le parole ragionevele.  E 
+dice che questo nochiero ^DE LA LIVIDA PALLUDE~, il qual aveva intorno 
+a li ochii fiamme de foco, se quiet@o.
+
+	|100-102.~ 
+	^Ma quelle anime, ch'eran laxe e nude,~
+^cambiar color e dibatero i denti,~
+^ratto che 'nteser le parole crude.~
+
+	D., avendo mostrato ci@o che 'l dimonio li aveva dito e ci@o che V. li 
+aveva risposto, or torna a le anime le quale eran gionte a passar la 
+riva sot'el governo del dicto nochiero.  E dice che ^QUELE ANIME, 
+CH'ERAN LAXE E NUDE~, de questi captivi li quali vixero senza infamia e 
+senza lode, quando ebbero intese le parole de Caron, cambiaron colore e 
+dibativeno li denti: e questo intendi per la grande pagura.  E queste 
+ch'erano nude intendi de speranza.
+
+	|103-105.~ 
+	^Biastemaveno Idio e lor parenti,~
+^l'umana specie e 'l loco e 'l tempo e il seme~
+^de lor sementa e di lor nascimenti.~
+
+	Qui D. mostra la pagura e la desperatione de le dicte anime.  E dice 
+che biastemaveno la spetie umana, Dio, el patre, la matre, el loco dove 
+nacquero, la sementa che l'ingener@o etc. per esser dapnati ^in 
+eternum~.
+
+	|106-108.~ 
+	^Poi si racolser tute quante insieme,~
+^forte piangendo, a la riva malvagia~
+^ch'attende ciascun omo che Dio non teme.~
+
+	Qui D. mostra como queste anime se racolsero insieme piangendo a la 
+riva a la qual ciascun Dio non timente atende de andare.
+
+	|109-111.~ 
+	^Caron dimonio, con ochio di bragia~
+^lor accenando, tute le ricoglie;~
+^batte col remo qualunqua s'adagia.~
+
+	Qui D. mostra como questo moto diabolico, il qual sta con li ochi 
+lucidi e focosi atento a l'umano temptamento, poi che n'ha conducto a 
+la perpetua dampnatione, esso acignando recoglie le anime dampnate e 
+bate qualunche s'adagia col so remo, cio@e con quela guida con la qual 
+n'ha conducto a la perpetual morte.
+
+	|112-117.~ 
+	^Come d'autumpno si levan le foglie~
+^l'una apresso di l'altra, infin che 'l ramo~
+^vede a la terra tute le so spoglie,~
+^	similimente il mal seme d'Adamo~
+^gitansi de quel litto ad una ad una,~
+^per cenni com'aucello per so richiamo.~
+
+	Qui D. fa una comparatione de lo descendere de queste anime al modo de 
+le foglie de l'arbori al tempo de l'autumpno, che ciascuna ^L'UNA 
+APRESSO DE L'ALTRA~ cade, ^INFIN CHE 'L RAMO VEDE A LA TERRA LE SOE 
+SPOGLIE~; cos@i ^EL MAL SEME DE ADAMO~, cio@e li mali omini ostinati e 
+morti ne la ira de Dio, se gitano ^DE QUEL LITO~ a modo de ucelo il 
+qual @e richiamato al pasto.
+
+	|118-120.~ 
+	^Coss@i sen vanno su per l'onda bruna,~
+^e avanti che siano di l@a discese,~
+^anche di qua nova schiera s'aduna.~
+
+	Qui mostra D. como le dicte anime ^SEN VANNO SU PER L'ONDA BRUNA~ del 
+dicto fiume e, avanti che esse sian dicese da l'altra riva, anche di 
+qua se aduna nova schera.
+
+	|121-126.~ 
+	^<Figliol mio>, disse 'l maestro cortese,~
+^<quili che muoion ne l'ira de Dio~
+^tuti convegnon qui d'ogni paese;~
+^	e prompti sono a trapassar lo rio,~
+^ch@e la divina iusticia li sprona,~
+^s@i che la tema si volve in disio>.~
+
+	Qui D. mostra como V. li dichiara la conditione de queste anime, 
+dicendo che quili che moreno ne la ira de Dio, tuti convegnono qui da 
+omni parte del mondo e sono desiderosi de trapasar lo fiume chiamato 
+Acheronte -- el qual, como te dissi, se interpetra el mal nostro 
+operare infin a la morte senza pentimento --, per@o che la iustitia de 
+Dio @e tale che fa convertire la pagura loro in apetito de esser puniti 
+del male operato.
+
+	|127-129.~ 
+	^Quinci non passa mai anima bona;~
+^e per@o, se Caron di te se lagna,~
+^ben puoi saper ormai che 'l so dir sona.~
+
+	Qui D. ancora introduce V. a mostrarli como da quel passo de la nave 
+de Caron ^NON PASSA MAI ANIMA BONA~, e per@o <se 'l dicto Caron se 
+lagna di te, bene p@oi sapere che vol dir>: e questo a denotare che D. 
+era in via de penitentia, e per@o el dicto Caron lo repugna como anima 
+viva.  E per@o D. nel segondo capitulo del ^Purgatorio~ dice: <Qual 
+verso Acheronte non si calla etc.>.  E questi son coloro che insin al 
+fine non si penteno, e nel fine se penteno e son salvi, per@o che non 
+se calano verso Acheronte.  E cos@i dice David profeta quando fece li 
+VII ^Psalmi penitentiali~.
+
+	|130-136.~ 
+	^Finito questo, la buia compagna~
+^trem@o s@i forte, che de lo spavento~
+^la mente di sudor ancor mi bagna.~
+^	La terra lacrimosa diede vento,~
+^che ballen@o una luce vermiglia~
+^la qual mi vincse ciascun sentimento;~
+^	e caddi come l'uom che 'l sompno piglia.~
+
+	Alcuni libri dicono <finito... la buia compagna>, altri <campagna>.  
+Tute se posson dir buie, e tute posson tremare, e tute posson dar 
+spavento, ma io credo che se possa adaptare al testo, tra l'altre 
+exponitione, \<la\> sequente: D. in questo ultimo del capitulo mostra 
+como, ^FINITO QUESTO, LA BUIA~, cio@e oscura, ^COMPAGNA TREM@O~, per lo 
+qual tremar D. sud@o e ancor suda.  Or questo se vol intendere cos@i 
+como gi@a te ho dito: questa oscuritate de' vitii la qual era compresa 
+ne le operatione de D., vegendo che, se esso fosse perseverato in essi 
+e morto senza pentirsi, che sarebe portato a la riva de Acheronte 
+pasando per le mane del crudele nochiero e dampnato senza redemptione, 
+per questo fu solicitato D. dal tremore de le terreni operatione 
+malvase e oscure.  Per lo qual tremor D. dice che non sud@o si non ne 
+la mente, a denotare che esso fu mentalemente in questo loco del qual 
+scrive V., s@i como te dissi sopra in questo capitulo.
+	^LA TERRA LACRIMOSA~.  E questo intendi la terrena operatione de la 
+vita nostra, la qual mai non @e senza lacrime e senza suspecto; la qual 
+D. cognobe che era preparativa de la sua.  S@i che, per la compunctione 
+e per lo pentimento, li refulse ^UNA LUCE VERMILIA~ a modo de balleno, 
+cio@e de una vampa.  E questa luce io intendo el caritativo moto de 
+Dio, lo qual illumina el pecator de guardarsi dal pecato per exemplo 
+altrui, cos@i como f@e D. con la continua lectione de V.
+	E questa luce li vinxe omne ^SENTI\<MENTO\>; E CAD\<I\> ETC.~  E a 
+confirmare ci@o che io t'ho dicto sopra, mostra bene che D. sequite 
+quel che se lege ne li ^Ati de li apostoli~ de san Polo, el qual era 
+molto infesto a la cristiana fede.  E, como io te dissi sopra, dice: 
+<Circonfulxit me etc.>.  E questo fu afin che san Polo tornasse a la 
+fine bona facendosi cristiano per gratia e per caritate divina.  E 
+per@o D. dice che cade, per@o che l'ochio non pote sostenere tanta 
+magnitudine, quanto @e quella de la caritativa gratia de Dio, che non 
+cada in terra.  E per@o dice Cristo: <Non videbit me homo vivens>.  E 
+per@o san Paulo ne perd@e la vista.
+	^E CADI COMO OMO ETC.~  Questo sompno non se interpetra \<in\> male, 
+ma in bene, che, quando omo @e afatigato, per lo riposso del sompno tal 
+volta li augomenta li spiriti.  Cos@i D. riposs@o ne la mente de la 
+pagura che ebbe de queste anime, e de lo nochiero che le passava, e la 
+oscurit@a del loco, e lo teribile fiume de Acheronte, e il tremare de 
+le dicte anime e lo trapassar oltra la riva.  De questo fiume e de li 
+altri fiumi infernali io dir@o pienamente al capitulo XIIII de questo 
+^Inferno~.  E mo D. como omo travagliato se repossa alquanto, a modo de 
+queli che per la longa fatica se adormisse e se quieta per un bon 
+spatio e poi, per qualche cossa turbativa, se li rompe el sonno e 
+destase a modo de persona destata per forza.  Cos@i divene a D. che, 
+per li lamenti de li miseri li quali se punivano in questo loco, li fu 
+roto il sompno.
+

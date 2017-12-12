@@ -1,0 +1,1411 @@
+	|Rubrica antica.~  Canto settimo, dove si dimostra del
+quarto cerchio de l'inferno e alquanto del quinto; qui pone la
+pena del peccato de l'avarizia e del vizio de la prodigalit@a; e
+del dimonio Pluto; e quello che @e fortuna.
+
+	|1. PAPE SAT@AN... ALEPPE!~  Apre bruscamente il canto il
+grido rauco e sinistro di Pluto.  ^Pape~ @e dal greco %papa@i~ 
+(usato, nella trascrizione latina ^papae~, da Plauto e da Terenzio, 
+Dante lo trovava in Boezio, ^De cons.  phil.~ I 6, 6; trattandosi 
+quindi di vocabolo anche latino il Petrocchi ha ritenuto di non 
+doverne accentare l'ultima sillaba: non credo tuttavia che si possa 
+escludere che nel Medioevo -- considerata l'origine non latina, 
+denunziata dalla rarit@a della forma -- si leggesse ^pap@e~, come 
+vogliono anche alcune attestazioni raccolte da D. Guerri, ^Di alcuni 
+versi dotti della Divina Commedia~, Citt@a di Castello, 1908, pp. 
+7-8); gli antichi commentatori sono concordi nel riconoscervi una
+esclamazione di meraviglia (cfr. infatti Uguccione, ^Derivationes~,
+s. v.: <Pape interiectio admirantis>), qui messa ancor pi@u in rilievo 
+dall'iterazione.  ^Alep~ @e la prima lettera dell'alfabeto ebraico 
+(per il raddoppiamento consonantico cfr. ^Ett@or-Ettorre, Jos@ep-
+Joseppe~, ecc.), ed @e chiosata dall'Ottimo e dal Boccaccio come 
+<adverbium dolentis> (e con questo valore ricorre infatti in Arrigo 
+da Settimello, ^Elegia~, v. 1: <flet et ingemit, aleph!>; e cfr. il 
+testo ebraico di ^Thren.~ 1, 1): in tal caso, occorrer@a per@o 
+intendere non che Pluto si dolga ed invochi aiuto, bens@i che, nello 
+stupore per una tale apparizione, minacci sventure a Dante (<ahit$e>, 
+non <ahim$e>), giacch$e queste parole, pronunziate con voce rauca 
+(cfr. v. 2) ed irosa (cfr. vv. 7-9), vogliono esprimere incredulit@a,
+che un vivo tanto abbia osato, e minacciosa recriminazione, tale da 
+poter incutergli paura (cfr. vv. 4-5).  Anche per questo pi@u 
+persuasiva appare la chiosa di Jacopo (<alep in lingua ebrea, e in 
+latina a, e altri dissero alpha, per@o s@i come principio della 
+scrittura, la quale in s$e tutto contiene figurativamente, qui si 
+dice alep cio@e iddio>; cfr. infatti Papia, ^Elementarium doctrine 
+erudimentum~, s. v.: <^alep~, a, Deus interpretatur>), ripresa dal 
+fratello Pietro (<ideo dicimus Deum 'alpha' et 'omega', ut in 
+Apocalipsi [1, 8], idest principium et finis>), il quale cos@i spiega 
+il verso: <Oh, Sat@an, oh Sat@an, caput et princeps demonum! quid est
+hoc videre?>: esclamazione di meraviglia che in effetti pu@o
+assumere tono minaccioso, tanto pi@u che essa @e solo l'inizio di
+ci@o che Pluto sta per dire contro il poeta (cfr. v. 2:
+^cominci@o~).  Secondo il ^Myth. Vat. III~, Pluto <et Orcus
+appellatur; %,opkos~ enim grece iusiurandum dicitur: quasi enim iurat 
+et affirmat nullam se animam sine supplicio et examine dimissurum>.  
+@E notevole che questa sia l'unica volta nella ^Comedia~ che ricorra,
+e proprio pronunziato dal <gran nemico>, il nome ebraico del maligno 
+(<Sathanas in latinum sonat 'adversarius'> avvertono i lessicografi);
+ci@o d@a anche maggior rilievo al carattere linguisticamente non 
+latino delle parole di quel d@emone (forse per suggestione del noto
+blasone che vedeva nei greci e negli ebrei la massima
+estrinsecazione del vizio dell'avarizia?); cfr. le Chiose
+Marciane: <tanto @e a dire in lingua ebraica quanto: maraviglia,
+maraviglia grande @e questa>.  Questo carattere (peraltro, come si
+@e visto, riconducibile a nozioni correnti nella latinit@a del
+tempo) ha dato l'avvio ad una copiosa produzione di studi di
+enigmistica dantesca, e si @e voluto riconoscere nelle parole di
+Pluto intere translitterazioni di vocaboli greci, di ebraici, di
+arabi e addirittura di francesi, per ipotesi, a dir poco, fragili
+e per spiegazioni ancor meno giustificate: cfr. la rassegna di M.
+Mignon, in ^Bull. Soc. $Etudes dantesques. Centre Univ. Medit.~,
+VIII, 1959.
+
+	|2. COMINCI@O.~  Il verbo lascia intendere che, dopo aver
+espresso con tono di minaccia il proprio stupore, altre parole si
+apprestava a dire Pluto, gonfio d'ira.  |Pluto~; @e il pagano dio
+delle ricchezze (figlio di Giasone e di Demetra), del cui nome
+era rilevabile immediatamente l'origine greca: <Plutos enim greco
+divitie dicuntur> (Fulgenzio; e cos@i ripetono i mitografi
+medievali).  Dante distingue Pluto da Dite-Lucifero (il nome
+<Pluton> ricorre una sola volta nell'^Eneide~, VII 327, dove @e
+citato tra altri mostri dell'Averno; comunemente Virgilio usa
+invece il nome <Dis>), bench$e l'identificazione tra Plutone
+(figlio di Cronos e Rea), re dell'Ade, e Dite sia chiaramente
+stabilita in Cicerone, ^De natura deorum~, II 26; non si pu@o
+escludere poi che Dante identificasse Pluto in Plutone, stante la
+estrema confusione con cui i miti erano narrati prima della
+sistemazione umanistica.  Cfr. H. Th. Silverstein, ^Dante and
+Vergil the mystic~, in ^Harvard Studies and Notes in Philology
+and Literature~, XIV, 1932.  |CHIOCCIA~: rauca ed aspra (cfr.
+^Inf.~ XXXII 1).
+
+	|3. GENTIL~: cortese; perch$e, avendo intuita la paura di
+Dante, interviene immediatamente.  |CHE TUTTO SEPPE~, e che
+quindi sa anche come ridurre all'impotenza Pluto.  Non vi @e
+esegeta medievale dell'^Eneide~ che non insista sull'onniscienza
+di Virgilio, che appariva il sapiente, il savio, per definizione: 
+<il quale veramente, quanto all'arti e scienze mondane
+appartiene, tutto seppe, per ci@o che, oltre all'arti liberali,
+egli seppe filosofia morale e naturale, e seppe medicina; e,
+oltre a ci@o, pi@u compiutamente che altro uomo a' suoi tempi seppe
+la scienza sacerdotale> (Boccaccio).
+
+	|4. NON TI NOCCIA~: non lasciarti recar danno; cfr.
+^Inf.~ I 52-53, dove, nell'incontro con la lupa, per <la paura
+ch'uscia di sua vista>, Dante perd$e <la speranza de l'altezza>.
+
+	|5. PODER CH'ELLI ABBIA~: per quanto egli possa esser
+potente nel nuocere.  Cfr. ^Inf.~ II 88-90.
+
+	|6. NON CI TORR@A~: non ci toglier@a, impedendoci; il
+soggetto @e, naturalmente, ^poder.~  |QUESTA ROCCIA~, il punto ove
+si scende nel cerchio successivo: cfr. ^Inf.~ VI 114.
+
+	|7. 'NFIATA LABBIA~: volto gonfiato (dall'ira); per la
+qualcosa, alterandosi quei tratti gi@a brutali e mostruosi, il
+d@emone fa ancora pi@u paura.  <Se in Caronte @e il segno di una
+umanit@a lampeggiante di tratti diabolici (in Minosse domina
+invece una solennit@a mitica e grottesca) e in Cerbero vive una
+fremente animalit@a, in Pluto si assiste allo spettacolo di una
+umanit@a degradata alla condizione di un bruto> (G. Getto, nel
+vol. ^Letture dantesche~, p. 116).  Per ^labbia~ cfr. ^Inf.~ XIV
+67; XIX 122; XXV 21; e vedi ^Prov.~ 26, 23-24: <labia tumentia
+cum pessimo corde sociata; labiis suis intelligitur inimicus>; e
+per ^enfiato~, lat. <inflatus>, cfr. v. 13 e nota.
+
+	|8. MALADETTO~, in quanto demonio (cfr. ^Inf.~ VIII 95;
+XXII 42); e tuttavia cfr. la particolare veemenza contro l'avaro
+nella Canz. ^Doglia mi reca~, vv. 78-80: <Maladetta tua culla...
+maladetto lo tuo perduto pane...>, e ^Purg.~ XX 10: <Maladetta
+sie tu, antica lupa / che pi@u di tutte l'altre bestie hai preda /
+per la tua fame sanza fine cupa!>.  Anche nella ^Bibbia~ sono
+fitte e vibranti le maledizioni contro l'avarizia.
+
+	|9. CON LA TUA RABBIA~, la rabbia del malvagio che si
+scopre impotente; ed @e un implicito accenno ai caratteri bestiali
+di Pluto (cfr. vv. 8 e 15).
+
+	|10. SANZA CAGION~: senza un forte motivo; Virgilio fa
+subito capire che essi non vengono per volont@a propria.  |AL
+CUPO~, verso il profondo Inferno, dove la tenebra @e anche pi@u
+fitta.  Assai meno soddisfacente l'altra spiegazione: <attraverso
+il buio dell'Inferno>, tanto pi@u che a ^cupo~ si contrappone
+^alto.~
+
+	|11. NE L'ALTO~: nell'Empireo; cfr. ^Inf.~ II 94 sgg. 
+Questa volta Virgilio modifica in parte la formulazione gi@a
+espressa in termini identici a Car@on e a Min@os (cfr. ^Inf.~ III
+95; V 23); a quei d@emoni dalla sembianza umana aveva ricordato la
+potenza del Cielo, cui nessuno pu@o opporsi; al d@emone dalla
+sembianza bestiale ricorda, e con un tono di disprezzo, la
+punizione che gi@a tocc@o a Satana, test$e invocato da Pluto, e a
+quelli che con essi vollero ribellarsi a Dio.  |MICHELE~,
+l'arcangelo che pun@i gli angeli ribelli cacciandoli dal Cielo
+(cfr. ^Apoc.~ 12, 7-9: nel passo @e esplicitamente nominato il
+<serpens antiquus qui vocatur diabolus et Satanas>, e quindi la
+risposta alla esclamazione di Pluto @e quanto mai pertinente).
+
+	|12. F$E LA VENDETTA DEL SUPERBO STRUPO~: pun@i la violenza
+tentata dalla superbia di quel Sat@an che tu hai ora nominato
+(<strupo> @e per metatesi da <strupro>: cfr. E. G. Parodi, ^Lingua
+e letteratura~, II, pp. 242 e 288; e per la metafora, che muove
+dall'idea della violenza contro la volont@a altrui, cfr. ^Jer.~ 2,
+16).  <Et hic nota quod autor appellat stuprum elationem sive
+violentiam quam Lucifer facere voluit, quia stuprum est
+defloratio aliene virginis incorrupte, ita iste, quantum in ipso
+fuit, voluit violare alienam lucem et gloriam incorruptibilem,
+quia voluit fieri similis Altissimo> (Benvenuto).
+
+	|13. DAL VENTO~, compl. d'agente riferito a ^gonfiate.~
+Cfr. ^Aen.~ III 357: <inflatur carbasus austro>.  |LE GONFIATE
+VELE.~  Riprende l'immagine della '^nfiata labbia~ (v. 7); ed @e
+una stupenda similitudine che ci descrive il gonfiarsi del
+mostro, il quale appare in tutta la sua smisurata grandezza, e il
+successivo subitaneo afflosciarsi, privo di ogni forza. 
+Nell'avarizia tutto @e vanit@a, persino il d@emone che presiede a
+quel cerchio.
+
+	|14. AVVOLTE~: tutte avviluppate.  |L'ALBER FIACCA~: 
+l'albero della nave si spezza; cfr. ^Purg.~ VII 75.  Per l'uso,
+qui intransitivo, di <fiaccare> vedi F. Torraca, in ^BSDI~, II,
+1895, p. 140.
+
+	|15. CADDE.~  Tutta la presuntuosa volont@a di nuocere
+svanisce, e subentra la rabbia per la propria inetta impotenza. 
+|CRUDELE.~  La descrizione rimane fiacca, e nel complesso assai
+generica; si arguisce dal <maladetto lupo> di v. 8 e dal <fiera
+crudele> di v. 15 che Dante immagina Pluto in sembianzo lupine,
+enorme (cfr. vv. 13-15), non senza qualche carattere umano
+(^labbia~), in orrida mescolanza -- come sempre nei d@emoni
+infernali -- di umano e di animalesco, ove per@o predomina il
+secondo elemento.  Non credo si debba pensare ad influsso di
+particolari figurazioni (l'uomo-lupo Anubi -- per cui cfr. Arnobio,
+^Adversus gentes~, VI 25; identificato, anche da Dante, ^Ep.~ VII
+17, in Mercurio: cfr. Isidoro, ^Etym.~ XI 49; il quale, oltre che
+messo degli d@ei, era dio del commercio, e quindi del guadagno). 
+La trasformazione di Pluto, dio delle ricchezze, in mostro
+dall'apparenza di lupo @e certamente dovuta all'equivalenza
+cupidigia-lupa, per cui cfr. ^Inf.~ I 49 sgg. e nota, ed ^Ezech.~
+22, 27 (<Principes... quasi lupi rapientes... et avare ad
+sectanda lucra>).  <Tra gli avari poi troveremo molti
+ecclesiastici, e anche per questa via la figura del lupo ritrova
+il motivo dei 'pastori' dalla cupidigia trasformati in lupi>
+(Mattalia): cfr. infatti ^Par.~ IX 132; XXVII 55.
+
+	|16.~ Cos@i, senza che Pluto potesse impedircelo.  |NE LA
+QUARTA LACCA~: nella costa del quarto cerchio.  ^Lacca~ indica
+avvallamento tra rocce scoscese (cfr. ^Inf.~ XII 11; ^Purg.~ VII
+71), ed @e vocabolo raro, tanto che il Boccaccio lo ritiene usato
+qui per necessit@a di rima.
+
+	|17. PIGLIANDO PI@U~: procedendo innanzi; cfr. ^Inf.~ XII
+28; ^Purg.~ XI 109-110: <colui che del cammin s@i poco piglia /
+dinanzi a me>.  Il Sapegno ricorda il lat. <carpere (campum,
+spatium)>; e cfr. infatti ^Aen.~ VI 629: <carpe viam>.  |DE LA
+DOLENTE RIPA.~  Per ^ripa~ Dante intende la parte prossima alla
+parete rocciosa e discoscesa dell'imbuto infernale (cfr. v. 128;
+^Inf.~ XII 55; XVIII 8 e 69; ecc.), qui sta per l'Inferno,
+generalmente; ^dolente~, perch$e @e il regno del dolore (Cfr.
+^Inf.~ III 1; IX 32; XXVIII 40; ecc.).
+
+	|18. 'L MAL DE L'UNIVERSO TUTTO~: tutti i vizi e quindi
+tutti i peccatori; cfr. Jac. 3, 6: <universitas iniquitatis>. 
+|INSACCA~: riceve in s$e.  <Il verbo, ripreso dal linguaggio
+metaforico quotidiano, e trapiantato di peso nell'uso poetico,
+rappresenta un'innovazione di sapore fortemente realistico>
+(Sapegno), e ci fa sentire quei dannati privi ormai di volere
+individuale: cose che vengono gettate in quel tremendo e doloroso
+sacco, che sar@a definitivamente sigillato il giorno del Giudizio
+universale.
+
+	|19. AHI.~  L'esclamazione esprime doloroso ed amaro
+stupore nel vedere in ogni cerchio sempre nuovi e pi@u gravi
+tormenti (cfr. v. 20, ed ^Inf.~ VI 4-6) per le sempre pi@u
+numerose torme di dannati.  |TANTE.~  L'interrogazione retorica
+vuole esprimere il concetto che mente umana non pu@o arrivare ad
+immaginare tormenti e pene in numero tanto grande, e cos@i diversi
+l'uno dall'altro.  Cfr. ^Aen.~ VI 625-627: <Non, mihi si linguae
+centum sint oraque centum, / ferrea vox, omnes scelerum
+comprendere formas, / omnia poenarum percurrere nomina possim>. 
+|STIPA~: ammassa; il verbo riprende la medesima immagine del
+precedente ^insacca~, trasferita dal sacco alla nave, e rinvia
+nuovamente all'avaro che accumula e mette da parte i denari. 
+Cfr. ^Aen.~ III 465-466: <stipatque carinis / ingens argentum>.
+
+	|20. NOVE~: diverse dalle precedenti (cfr. ^Inf.~ VI 4):
+ma anche nel senso pi@u generale di <mai viste>.  |TRAVAGLIE~: 
+tormenti; la forma al femminile <era dell'uso, in prosa e in
+versi; e dell'uso anche l'accoppiamento ^travaglie e pene~>
+(Torraca); <travaglio> pu@o indicare la sofferenza interna (cfr.
+^Purg.~ XXI 4) e <pena> il tormento esterno.  |VIDDI.~  Il
+raddoppiamento non @e dovuto ad esigenze di rima, giacch$e @e questa
+la forma prevalente nei testi pi@u antichi (cfr. E. G. Parodi,
+^Lingua e letteratura~, II, p. 259).
+
+	|21. S@I NE SCIPA~: ci guasta (cfr. ^Inf.~ XXIV 84) a tal
+punto, spingendoci tanto oltre da farci meritare, per nostra
+colpa, queste pene crudeli.  Non accettabile perci@o pare (anche
+per la presenza della congiunzione) l'interpretazione del
+Boccaccio: egli, leggendo ^per che~ (cio@e: <per mezzo delle quali
+pene>), collega il v. 21 al precedente, come parte di una stessa
+domanda.
+
+	|22. SOVRA~: presso; cfr. v. 101; ^Inf.~ XXIV 148; ^Par.~
+XIX 118.  |CARIDDI~, @e il mitico famoso gorgo nello stretto di
+Messina.
+
+	|23. S'INTOPPA~: si scontra.  Le onde provenienti dal mar
+Tirreno si rompono (per <frangere> cfr. ^Aen.~ I 160-161: <omnis
+[unda] ab alto / frangitur>) contro quelle provenienti
+dall'Ionio.  @E, ovviamente, ricordo letterario (cfr. soprattutto
+^Aen.~ III 420-425), e dipinge con drammaticit@a la violenza e la
+durezza degli scontri tra le due schiere di peccatori.
+
+	|24. CONVIEN~: @e stabilito che avvenga (cfr. ^Inf.~ VI 67
+e nota); il verbo esprime la volont@a invisibile che sprona questi
+dannati alla loro pena.  |RIDDI~: danzi la ridda (ballo popolare
+in tondo).  La spietata ironia del verbo (che @e un <hapax>
+dantesco) appare tutta nei versi successivi.  Cfr. Boezio, ^De
+cons. phil.~ II, 2, 9 (cit. in nota al v. 96).
+
+	|25. PI@U CH'ALTROVE TROPPA~: pi@u numerosa che altrove;
+gi@a nel vestibolo e nei cerchi precedenti le turbe dei dannati
+apparirono innumerevoli: ma ogni cerchio sembrano esserlo sempre
+di pi@u: cfr. ^Inf.~ III 55-57; IV 29; VI 5-6.  Che il numero
+degli uomini dannatisi per l'avidit@a di denaro sia sterminato @e
+dato tradizionale (cfr. ^Ecclesi.~ 8, 3: <multos enim perdidit
+aurum et argentum>; 31, 6: <multi dati sunt in auri casus, et
+facta est in specie ipsius perditio illorum>; ^Jer.~ 6, 13; ed
+^Aen.~ VI 610-611: <qui divitiis soli incubere repertis / nec
+partem posuere suis, quae maxima turba est>): cui si aggiunge la
+persuasione dantesca che la cupidigia domini il mondo (cfr.
+^Inf.~ I 51 e 98 sgg. e note; ^Purg.~ XX 11).
+
+	|26. D'UNA PARTE E D'ALTRA.~  Sono gli avari e i
+prodighi, che, procedendo da direzioni opposte, si scontrano alla
+met@a del cerchio: cfr. vv. 30 e 40 sgg.  I due peccati sono
+puniti nel medesimo cerchio (e, analogamente, nel Purgatorio in
+una stessa cornice) perch$e identica -- seppure per ragioni diverse
+e per fini opposti -- @e la colpa: la mancanza di misura nel goder
+di quel bene che sono le ricchezze; cfr. ^Conv.~ IV xvii 4-7: <La
+terza [vert@u] si @e Liberalitade, la quale @e moderatrice del
+nostro dare e del nostro ricevere le cose temporali.  La quarta
+si @e Magnificenza, la quale @e moderatrice de le grandi spese,
+quelle facendo e sostenendo a certo termine....  E ciascuna di
+queste vertudi ha due inimici collaterali, cio@e vizii, uno in
+troppo e un altro in poco; e queste tutte sono li mezzi intra
+quelli, e nascono tutte da uno principio, cio@e da l'abito de la
+nostra buona elezione: onde generalmente si pu@o dicere di tutte
+che siano abito elettivo consistente nel mezzo>, dove con ogni
+evidenza sono riprese le tesi esposte da Aristotele in ^Ethica
+Nicom.~ IV 1 sgg.  L'avarizia @e ripetutamente maledetta e
+condannata nella ^Bibbia~ (cfr. ^Ecclesi.~ 10, 9; ^Hab.~ 2, 9;
+^Ezech.~ 7, 19; Petr. I 1, 18; Paul. ^I ad Cor.~ 6, 10; ^Ad
+Ephes.~ 5, 5; ecc.), ed @e contemplata dai testi canonici come uno
+dei sette vizi capitali; non cos@i la prodigalit@a, per cui al pi@u
+si pu@o citare ^Luca~ 15, 13, e (ma il significato @e propriamente
+un altro) ^Ecclesi.~ 31, 5: <Qui aurum diligit non
+iustificabitur, et qui insequitur consumptionem replebitur ex
+ea>, tanto che Dante ammette che questo vizio da molti non @e
+tenuto in considerazione di peccato: <Quanti risurgeran coi crini
+scemi / per ignoranza, che di questa pecca / toglie 'l penter
+vivendo e ne li stremi!> (^Purg.~ XXII 46-48; cfr. S. Tommaso,
+^Summa theol.~ 2. 2, q. 117, a. 5); mentre il pensiero teologico
+moderno ha per la prodigalit@a, rispetto all'avarizia, un
+atteggiamento ben pi@u indulgente (cfr. ^Dict. Th$eol. Cathol.~, s.
+v., col. 674).  La condanna dantesca della prodigalit@a insieme e
+sullo stesso piano dell'avarizia @e dovuta all'influenza
+dell'^Ethica~ aristotelica (e del commento tomista), cui Dante
+qui adegua il suo pensiero.  @E ben vero peraltro che tra avarizia
+e prodigalit@a @e la prima a dominare la mente del poeta, come
+appare dal contesto e dalla stessa pena, per il contrappasso:
+come in vita questi dannati non ebbero pace, fissi nell'idea di
+accumulare sempre maggiori ricchezze, cos@i ora hanno il petto
+(cfr. ^Matth.~ 6, 21: <ubi enim est thesaurus tuus, ibi est cor
+tuum>) travagliato, non dall'oro ma da vili massi di pietra; cfr.
+^De cons. phil.~ II 5, v. 27 sgg., tradotto in ^Conv.~ IV xii 4:
+<Oh me! chi fu quel primo che li pesi de l'oro coperto e le
+pietre che si voleano ascondere, preziosi pericoli, cavoe?>.
+
+	|27. VOLTANDO PESI PER FORZA DI POPPA~: rotolando massi
+con la parte alta del petto, tanto sono alti e pesanti.  Lo
+spunto @e stato forse offerto, almeno indirettamente, dalla mitica
+pena di Sisifo (il quale @e curiosamente accusato di avarizia da
+Pietro: <Sisypho... qui avaritia et cupiditate hospites suos
+proiecit in turri>), descritta anche in ^Metam.~ IV 460: <aut
+petis aut urges rediturum [^al.~ ruiturum], Sysiphe, saxum>;
+certamente Dante si ricord@o di ^Aen.~ VI 616, dove si descrive
+questa tra le altre pene dell'Averno: <saxum ingens volvunt
+alii>.
+
+	|28. PERCOT,EANSI 'NCONTRO~: davano di cozzo l'una schiera
+contro l'altra, scontrandosi a met@a del cerchio: inutile e
+stupido contrasto, come quelli che tormentarono la loro vita per
+un po' di denaro.  |PUR L@I~, in quel medesimo luogo dove @e
+avvenuto lo scontro.  Si noti l'anomalia della rima (<composta>: 
+per cui vedi E. G. Parodi, ^Lingua e letteratura~, II, pp.
+268-269), s@i che ^l@i~ va considerato enclitico (come ad ^Inf.~
+XXVIII 123, ^Oh me!~ in rima con ^chiome~).
+
+	|29. VOLTANDO A RETRO~: spingendo nella direzione opposta
+i macigni e ritornando cos@i perennemente sui propri passi.  Il
+P$ezard ritiene che ^a retro~ sia da riferire a ^si rivolgea~, e
+lo separa pertanto da ^voltando~ con una virgola: ma cfr. v. 27.
+
+	|30. PERCH$E TIENI?~: perch$e accumuli avidamente il
+denaro, senza spenderlo?  @E il grido dei prodighi contro la
+schiera degli avari.  Nulla di pi@u tragico, di fronte alla realt@a
+della dannazione, di quei ^perch$e~; non @e solamente che un gruppo
+rinfacci all'altro il motivo della sua dannazione: in quel grido
+@e anzitutto la dichiarazione del loro proprio vizio, giacch$e i
+prodighi altro non capiscono che lo spendere, e gli avari
+l'accumulare: @e la cecit@a, non la consapevolezza, a dettare
+quelle parole.  Ben diversamente, Stazio, che ha fatto penitenza
+della propria prodigalit@a, accenna alla <sacra fame de l'oro>
+(^Purg.~ XXII 40-41).  |PERCH$E BURLI?~: perch$e getti via le tue
+sostanze, spendendo ogni tuo denaro?  Il verbo (anche questo un
+<hapax> dantesco) @e probabilmente un provenzalismo (cfr. V.
+Crescini, in ^GSLI~, XXIII, 1894, p. 181; E. G. Parodi, ^Lingua e
+lettaratura~, II, pp. 347-348).  Cfr. ^Inf.~ XI 72, dove gli
+avari e i prodighi sono ancora ricordati come quelli <che
+s'incontran con s@i aspre lingue>.
+
+	|31. TETRO~: buio; cfr. ^Inf.~ XVIII 34.
+
+	|32. DA OGNE MANO~, quelli a destra come quelli a
+sinistra.  |A L'OPPOSITO PUNTO~: al punto della circonferenza
+opposto a quello, e l@i avviene un nuovo scontro.  Ciascuna
+schiera percorre dunque, su e gi@u, met@a del cerchio.
+
+	|33. ANCHE~: ancora.  |LORO ONTOSO METRO~: la loro
+ingiuriosa cantilena; ^metro~ @e propriamente <misura> (cfr.
+^Purg.~ XXVII 51), ma indica anche il verso poetico (cfr. ^Inf.~
+XXXIV 10, e XIX 89 e 118) ed il ritmo musicale (cfr. ^Par.~
+XXVIII 9); richiama perci@o nuovamente l'immagine del ballo (cfr.
+v. 24).  Un <inno> @e gorgogliato anche dai tuffati nella melma
+dello Stige: cfr. v. 125.
+
+	|34. POI SI VOLGEA~, per tornare indietro, ancora una
+volta, per l'eternit@a.  Accumularono, o dissiparono, sostanze
+senza mai tregua, senza mai sosta od appagamento, senza ricavarne
+mai vero utile; ed ora trascinano massi, inutilmente ed
+ininterrottamente, da una parte all'altra, e dall'altra all'una. 
+|ERA GIUNTO~ ad uno dei due punti-limite della propria
+semicirconferenza: l@i avviene la ^giostra~, cio@e lo scontro (cfr.
+^Inf.~ XIII 121), con l'altra schiera.  Come ^riddi~, anche
+^giostra~ induce a pensare ad ambiente di allegria, di festa: e
+per contrasto ironico fa sentire quanto invece di amaro e di
+doloroso sia in quella eterna ^zuffa~, <immagine parlante delle
+divisioni, delle ingiurie e delle discordie che la brama delle
+ricchezze accende fra gli uomini, togliendo la pace a tutti e a
+ciascuno> (Pietrobono).  Si alluder@a a questa pena ancora con la
+metafora della giostra in ^Purg.~ XXII 42 (<voltando sentirei le
+giostre grame>).
+
+	|36. COMPUNTO~: toccato da turbamento (cfr. ^Inf.~ I 15;
+X 109; XXII 124); @e tuttavia questo un peccato che non suscita in
+Dante emozione veramente profonda, come sta a significare anche
+il ^quasi~ (e vedi, per contro, ^Inf.~ IV 43; V 141); il poeta
+non lo ritrarr@a in nessun personaggio <esemplare>.
+
+	|37. MI DIMOSTRA~: spiegami.
+
+	|38. FUOR CHERCI~: furono chierici, uomini di Chiesa
+(<cherco> @e forma contratta, dal lat. <clericus>; cfr. il franc.
+<clerc>; ritorna, non in rima, al v. 46).
+
+	|39. QUESTI CHERCUTI~: questi che hanno la chierica, il
+segno della tonsura che sta a significare proprio la rinunzia ai
+beni mondani (cfr. la nota al v. 57): <unde vide et qualiter
+abiiciant temporalia et quare auctor sic loquitur> (Pietro); sono
+talmente tanti che a Dante pare persino impossibile che possano
+essere, proprio tutti, ecclesiastici, quei dannati con la
+chierica.  La polemica contro i vizi, e in particolare contro
+l'avarizia, del clero era corrente nel Medio Evo, e non @e che qui
+Dante assuma una posizione di notevole acrimonia; ben pi@u
+vibrante @e l'invettiva contro i simoniaci in ^Inf.~ XIX 106 sgg.,
+e pi@u risentita la condanna della cupidigia degli uomini di
+Chiesa, e in particolare dei papi, nelle altre due cantiche,
+particolarmente nella terza.  |A LA SINISTRA NOSTRA.~  La
+sinistra @e, tradizionalmente, la parte pi@u ignobile; e che
+l'avarizia fosse male maggiore che la prodigalit@a era
+affermazione aristotelica (cfr. ^Ethica Nicom.~ IV 1, 43). 
+<Avaricia est magis insanabilis et plus nocet....  Ideo autor
+ponit prodigos a dextra, avaros a sinistra, et avaros magis
+detestatur> (Benvenuto).
+
+	|40. TUTTI QUANTI~, gli uni e gli altri, avari e prodighi
+(e non -- come intende, con altri, il Mattalia -- ecclesiastici e
+laici: Virgilio qui risponde alla prima domanda di Dante).  |FUOR
+GUERCI S@I DE LA MENTE~, ebbero a tal punto l'intelletto incapace
+di considerare il giusto valore delle cose; essi diedero infatti
+importanza capitale ai beni caduchi, mutandoli da mezzo, quali
+sono e devono essere, in fine.  L'immagine <gli occhi della
+mente> (che ricorre spesso nel ^Convivio~, cfr. I iv 3; II iv 16;
+xiii 19; xv 7; ecc.; e vedi anche la Canz. ^Doglia mi reca~, v.
+49, e ^Par.~ X 121) @e tipica del linguaggio dei commenti a testi
+scritturali (prendendo avv@io da ^Gen.~ 3, 5, e quindi dalla
+metafora <mens caeca> e analoghe).  A commento dell'intero
+episodio vedi in particolare la Canz. ^Doglia mi reca~, vv.
+69-78: <Corre l'avaro, ma pi@u fugge pace: / oh mente cieca, che
+non p@o vedere / lo suo folle volere / che 'l numero, ch'ognora a
+passar bada, / che 'nfinito vaneggia. / Ecco giunta colei che ne
+pareggia : / dimmi, che hai tu fatto, / cieco avaro disfatto? /
+Rispondimi, se puoi, altro che: 'Nulla'. / Maladetta tua
+culla...>.
+
+	|41. IN LA VITA PRIMAIA~: nella vita prima, la terrena;
+per ^primaio~ cfr. ^Inf.~ V 1 e nota.
+
+	|42. CON MISURA.~  Ecco in che peccarono, nella misura:
+gli uni ebbero troppo caro il denaro, gli altri troppo poco. 
+|NULLO SPENDIO FERCI~: alcuna spesa non vi (cio@e: nella vita
+terrena) fecero; per ^fer~ cfr. ^Inf.~ XVII 17; XX 91; ecc.  Cfr.
+la Canz. ^Doglia mi reca~, vv. 85-86: <come con dismisura si
+rauna, / cos@i con dismisura si distringe>.
+
+	|43. ASSAI.~  Da riferire all'avverbio ^chiaro~: molto
+chiaramente.  |L'ABBAIA~: lo grida (cfr. v. 30); ma <abbaiare>,
+riferito significativamente alle grida dei dannati nel cerchio
+ov'@e guardiano il <maladetto lupo>, dichiara il disprezzo del
+poeta per questi, che non vissero come uomini dotati di ragione,
+e che tra gli incontinenti dell'appetito concupiscibile
+(lussuriosi, golosi, avari) sono i pi@u gretti e i meno scusabili.
+
+	|45. CONTRARIA~, @e uguale, ma rivolta a fini antitetici:
+cfr. v. 42 e nota.  |LI DISPAIA~: li divide (cfr. ^Purg.~ XXV 9):
+a sinistra ritornano gli avari, a destra i prodighi.
+
+	|46. COPERCHIO PILOSO~, perch$e hanno la chierica; anche
+qui, l'immagine secca, che quasi equipara gli avari a cose
+(^coperchio~), tradisce sferzante ironia.  Virgilio risponde ora
+alla seconda domanda di Dante.
+
+	|47. E PAPI E CARDINALI.~  Non sono solo semplici
+chierici, ma tra loro sono molti che hanno ricoperto le pi@u alte
+cariche ecclesiastiche; il polisindeto sottolinea con gravit@a
+l'affermazione.  Nel Purgatorio (XIX 97 sgg.) il poeta incontrer@a
+un pontefice, Adriano V, anch'egli peccatore di avarizia; e per
+Giovanni XXII vedi ^Par.~ XVIII 133-136.
+
+	|48. IN CUI USA... SOPERCHIO~: in cui il vizio
+dell'avarizia suole manifestarsi all'eccesso (per ^soperchio~
+cfr. ^Inf.~ XI 4).  Nessuno supera in avarizia la gente di
+Chiesa: la qual cosa, se @e grave premessa al pi@u colpevole
+peccato di simonia, @e tanto pi@u recriminabile per gli effetti
+nefasti della cupidigia: cfr. ^Inf.~ I 94 sgg.; e vedi qui la
+nota al v. 39.
+
+	|51. IMMONDI~: lordati.  |MALI~: peccati, cio@e l'avarizia
+e la prodigalit@a.
+
+	|52. ADUNI~: accogli; cfr. ^Purg.~ XV 60.
+
+	|53. SCONOSCENTE~: non saggia, perch$e non ha saputo e
+voluto riconoscere i veri valori, preferendo rivolgersi
+totalmente ai beni fallaci.  Evidente il legame, per la pena del
+contrappasso, con il successivo ^conoscenza.~  |I F$E SOZZI~: li
+insozz@o, spingendoli in questi vizi; per ^i~ <li> cfr. ^Inf.~ V
+78; VI 87; ecc.
+
+	|54. BRUNI~: oscuri, cio@e irriconoscibili; sono sdegnati
+dalla fama, come i vilissimi del vestibolo (cfr. ^Inf.~ III 49 e
+nota; e vedi Paul., ^I ad Cor.~ 14, 38: <si quis ignorat,
+ignorabitur>; ^Ecclesi.~ 10, 9: <avaro autem nihil est
+scelestius>).  Che l'amore per il denaro e i beni mondani sia
+incompatibile con la vera fama, sar@a argomento di rilievo nella
+polemica umanistica contro i detrattori della poesia (cfr.
+Boccaccio, ^Geneal.~ XIV 5; e vedi la nota ad ^Inf.~ IV 108).
+
+	|55. A LI DUE COZZI~, ai due punti del cerchio dove
+cozzano, per l'eternit@a, l'una schiera contro l'altra.
+
+	|56. QUESTI~, gli avari.  |DEL SEPULCRO.~  La prepos.
+<di> regge qui il compl. di moto da luogo, come spessissimo nella
+lingua del '300; si intende: il giorno del Giudizio.
+
+	|57. COL PUGNO CHIUSO~, nel gesto che pi@u simboleggia
+l'avarizia di chi per tutta la vita ha voluto tenere ben stretti
+i suoi denari.  Cfr. ^Ecclesi.~ 4, 36: <non sit... manus tua...
+ad dandum collecta>.  |QUESTI~, i prodighi.  |COI CRINI MOZZI.~ 
+<Intendono i dottori, moralmente, per li capelli le sustanzie
+mondane, e meritamente, per ci@o che i capelli in s$e non hanno
+alcuno omore, n$e altra cosa la quale alla nostra corporal salute
+sia utile; sono solamente alcuno ornamento al capo, e per questo
+ne son dati dalla natura; e cos@i dirittamente sono le sustanzie
+temporali, le quali per se medesime alcuna cosa prestar non
+possono alla salute delle anime nostre, ma prestano alcuno
+ornamento a' corpi....  Risurgeranno adunque i prodighi co' crin
+mozzi, a dimostrare come essi stoltamente e con dispiacere di Dio
+diminuissono le loro temporali ricchezze> (Boccaccio).  Cfr. 
+^Purg.~ XXII 46 (<Quanti risurgeran coi crini scemi...>); a
+questo valore simbolico dei capelli si riferisce appunto la
+tonsura ecclesiastica: cfr. la nota al v. 39.
+
+	|58. MAL DARE.~  Secondo l'^Ethica~ aristotelica (IV 1,
+3-28), il prodigo si differenzia dal generoso perch$e dona quanto
+e quando e a chi non @e conveniente; infatti la giusta liberalit@a
+<vuole essere a luogo e a tempo, tale che lo largo non noccia a
+s$e n$e ad altrui; la qual cosa avere non si puote sanza prudenza e
+sanza giustizia....  Ahi malestrui e malnati, che disertate
+vedove e pupilli, che rapite a li men possenti, che furate e
+occupate l'altrui ragioni; e di quelle corredate conviti, donate
+cavalli e arme, robe e denari, portate le mirabili vestimenta,
+edificate li mirabili edifici e credetevi larghezza fare!>
+(^Conv.~ IV xxvii 12-13; per il prodigo che, pur di aver da
+spendere e da donare, finisce col compiere ingiustizie e
+prevaricazioni cfr. ^Ethica Nicom.~ IV 1, 32-33).  Dante punisce
+poi entro la citt@a di Dite gli scialacquatori (cfr. ^Inf.~ XIII
+115 sgg.) che non solo peccarono per eccesso del dare, ma
+dissiparono fin ci@o che era necessario al loro stesso vivere
+(forse prendendo spunto, per la distinzione di questi dai
+prodighi, da ^Ethica Nicom.~ IV 1, 5).  |MAL TENER.~  L'avarizia
+@e eccesso di prendere e tenere, e difetto di dare quanto, quando
+e a chi si conviene (cfr. ^Ethica Nicom.~ IV 1, 37-38).  Cfr.
+^Hab.~ 2, 9: <Vae qui congregat avaritiam malam domui suae!>. 
+|LO MONDO PULCRO~, il Paradiso, che @e il vero mondo bello (mentre
+i dannati non possono che ricordare nostalgicamente il <dolce
+mondo> terreno; vedi ^Inf.~ VI 51 e nota).  Cfr. Paul., ^Ad
+Ephes.~ 5, 5: <avarus, quod est idolorum servitus, non habet
+hereditatem in regno Christi et Dei>.
+
+	|59. HA TOLTO~, al singolare, perch$e concordato col sogg.
+pi@u vicino.
+
+	|60. APPULCRO~, verbo foggiato da Dante, dal lat.
+<pulcher>, e quindi con l'accezione di <abbellire>; qui il poeta
+vuol dire: non intendo perder tempo in bei discorsi, cercando le
+parole pi@u proprie e convenienti, per descriverti ci@o che, nella
+sua terribile eloquenza, parla da s$e.  Il Mattalia spiega invece
+questo verbo in senso antifrastico (<non guasto parole
+inutilmente>): ma @e inutile complicazione.
+
+	|61. CORTA~, quanto duri poco, essendo i beni terreni
+caduchi.  |BUFFA~: beffa, inganno (cfr. ^Inf.~ XXII 133; e vedi
+gli altri esempi addotti da E. G. Parodi, ^Lingua e letteratura~,
+II, p. 278, nonch$e il <Truffia e Buffia> di ^Dec.~ VI 10, 39,
+ricordato dal Mattalia); che le ricchezze ingannino l'uomo,
+conducendolo alla perdizione eterna, @e ripetutamente dichiarato
+nella ^Bibbia~ (cfr., in particolare, ^Matth.~ 13, 22: <fallacia
+divitiarum>; ^Marc.~ 4, 19: <deceptio divitiarum>; ecc.), e nel
+^De consolatione~: idea che qui @e determinante ai fini del
+discorso (e cfr. ^Conv.~ IV xii 1 sgg. dove appunto @e illustrato
+il motivo delle ricchezze <false traditrici>).  Perci@o forse meno
+soddisfacente @e l'interpretazione di ^buffa~ come <vanit@a> (gi@a
+nel Boccaccio; alcuni esegeti moderni riconducono ^buffa~ a
+<buffare>, soffiare del vento; cfr. v. 79, ed ^Eccle.~ 5, 15): il
+cui concetto @e peraltro compreso, implicitamente, anche nella
+prima spiegazione.
+
+	|62. D'I BEN~: dei beni, delle ricchezze.  Per ^d'i~
+<dei> cfr. ^Inf.~ III 62 e nota.  |COMMESSI~: affidati.
+
+	|63. PER CHE~: per i quali.  |SI RABUFFA~: si accapiglia;
+cfr. ^Dec.~ II 8, 22: <messosi le mani ne' capelli e rabuffatigli
+e stracciatigli tutti>.  <E per@o ne vuole l'autore in queste
+parole dimostrare le quistioni, i piati, le zuffe, le guerre e
+molte altre male venture, le quali tutto il d@i gli uomini hanno
+insieme per li crediti, per l'eredit@a, per le occupazioni e per
+li mal regolati disideri; venendo quinci a dimostrarne quanto
+sien le fatiche vane che intorno all'acquisto delle ricchezze si
+mettono> (Boccaccio).
+
+	|64. TUTTO L'ORO~: tutte le ricchezze.  |SOTTO LA LUNA~: 
+sotto il cielo della luna, e cio@e sulla terra.  Cfr. ^Inf.~ II 78
+e nota.
+
+	|65. E CHE GI@A FU.~  La precisazione vuole indicare una
+quantit@a d'oro anche maggiore di quella esistente al momento
+attuale, giacch$e l'idea del progressivo depauperamento delle
+viscere della terra, dovuto alla continua estrazione dei metalli
+preziosi, fu alquanto diffusa nel Medioevo (cfr. E. Anagnine, ^Il
+concetto di rinascita attraverso il Medio Evo (V-X secolo)~,
+Milano-Napoli, 1958, p. 12).  |STANCHE,~ estenuate da quel
+continuo spingere i massi col petto; come in vita questi
+peccatori hanno sempre e senza requie ed insaziabilmente cercato
+solo di procurarsi ricchezze (da conservare o da spendere),
+perch$e <promettono le false traditrici, se bene si guarda, di
+torre ogni sete e ogni mancanza, e apportare ogni saziamento e
+bastanza> (^Conv.~ IV xii 5), cos@i ora il pi@u sterminato dei
+tesori non pu@o acquistare ad uno solo di loro un attimo solo di
+riposo (cfr. ^Eccle.~ 5, 15: <Quid ergo prodest ei quod laboravit
+in ventum?>), cui aspirano pi@u di ogni altra cosa, pi@u di ogni
+ricchezza: i denari infatti nulla possono nella seconda vita: 
+<Nolite thesaurizare vobis tesauros in terra, ubi aerugo et tinea
+demolitur... thesaurizate autem vobis in caelo, ubi neque aerugo
+neque tinea demolitur> (^Matth.~, 6, 19-20).  Il Barbi,
+^Problemi~, I, pp. 266-267, ritiene invece che qui Dante dichiari
+la insaziabilit@a che in vita ebbe l'avaro (e il prodigo), il
+quale, per quante ricchezze riesca ad accumulare (o a spendere)
+non @e mai appagato: motivo ampiamente svolto e nelle Scritture
+(cfr., ad es., ^Ecclesi.~ 14, 9: <non saziabitur donec consumat
+arefaciens animam suam>, e nel ^De consolatione~, II 2, vv. 1-8
+(trad. in ^Conv.~ IV xii 7: <Se quanta rena volve lo mare turbato
+del vento, se quante stelle rilucono, la dea de la ricchezza
+largisca, l'umana generazione non cesser@a di piangere>), e
+dall'Alighieri stesso (cfr., ad es., ^Conv.~ III xv 9: <l'avaro
+maladetto... non s'accorge che desidera s$e sempre desiderare,
+andando dietro al numero impossibile a giugnere>; IV xii 6-7;
+Canz. ^Doglia mi reca~, vv. 69-73; ^Inf.~ I 98; ecc.).  In
+effetti anche questo elemento @e presente ma implicitamente, nel
+contrappasso: mentre l'accento batte non su ci@o che quei
+peccatori desiderarono, ma su ci@o che essi sono ora, su quella
+stanchezza contro cui nulla possono.
+
+	|67. ANCHE~: ancora.
+
+	|68. TOCCHE~: fai cenno (cfr. v. 62).
+
+	|69. CHE @E~, che cosa @e in effetti questa ^fortuna~ che
+gli antichi considerarono divinit@a.  |TRA BRANCHE~: tra gli
+artigli, disponendone come di cosa propria; come Dante crede di
+aver capito dal ^commessi~ del v. 62: a questa idea e a queste
+espressioni reagir@a Virgilio.  Per l'omissione dell'articolo cfr.
+M. Barbi, ^Problemi~, I, p. 291.
+
+	|70. SCIOCCHE.~  Si noti l'aspra veemenza della
+precisazione di Virgilio, che trova giustificazione e nella
+implicita polemica contro la figura tradizionale della pagana dea
+Fortuna e della sua cieca casualit@a, e nell'importanza
+dell'argomento, che tocca uno dei punti fondamentali, tra i pi@u
+difficili e delicati, del pensiero teologico del tempo.  Cfr. A.
+Doren, ^Fortuna in Mittelalter und in der Renaissance~, in
+^Vortr,age der Bibl.-Warburg~, I, 1924, pp. 71-144.
+
+	|71. IGNORANZA~, perch$e la verit@a @e ben diversa da quel
+che ritengono scioccamente gli uomini; cfr. Boezio, ^De cons.
+phil.~ II 4, 3.  Dante si trova qui a dover precisare il suo
+stesso pensiero rispetto a quanto aveva scritto in ^Conv.~ IV xi
+6-12: <la indiscrezione del loro [^scil.~ delle ricchezze]
+avvenimento, nel quale nulla distributiva giustizia risplende, ma
+tutta iniquitade quasi sempre...; o vegnono da pura fortuna, s@i
+come quando sanza intenzione o speranza vegnono per invenzione
+alcuna non pensata; o vegnono da fortuna che @e da ragione
+aiutata, s@i come per testamenti o per mutua successione; o
+vegnono da fortuna aiutatrice di ragione, s@i come quando per
+licito o per illicito procaccio....  E in ciascuno di questi tre
+modi si vede quella iniquitade che io dico, ch$e pi@u volte a li
+malvagi che a li buoni le celate ricchezze... si
+rappresentano....  Per che @e manifesto in ciascuno modo quelle
+ricchezze iniquamente avvenire...>.  L'insistenza sulla iniquit@a
+della Fortuna pare differenziare i guidizi del ^Convivio~ (e vedi
+anche la Canz. ^Doglia mi reca~, v. 90) dalla concezione espressa
+nella ^Comedia~, in cui la Fortuna @e invece proclamata ministra
+della Provvidenza divina (e pertanto pu@o anche sembrare iniqua
+agli occhi degli uomini, ma non lo @e).  Cfr. N. Busetto, ^Origine
+e natura della <Fortuna> dantesca~, in ^GD~, XII, 1904; e vedi,
+per contro, G. Busnelli, commento al ^Convivio~, App. IV; E. G.
+Parodi, ^Lingua e letteratura~, II, p. 539.
+
+	|72. NE 'MBOCCHE~: riceva nella tua bocca.  Per la
+metafora del cibo (che qui richiama l'immagine del nutrimento
+dato al bambino) cfr. ^Inf.~ I 103 e nota; VIII 107; ecc.
+
+	|73. COLUI... TRASCENDE~, Dio, la cui sapienza @e
+superiore a tutte le cose, contenendole egli in s$e; cfr. ^Sap.~
+7, 15-16: <Ipse [Deus] sapientiae dux est, et sapientum
+emendator.  In manu enim illius et nos et sermones nostri, et
+omnis sapientia et operum scientia et disciplina>; ^Ecclesi.~ I
+3: <Sapientiam Dei praecedentem omnia quis investigavit?>; e vedi
+^De situ~ 77.
+
+	|74. FECE LI CIELI~: cre@o i cieli; cfr. ^Ps.~ 95, 5:
+<Dominus autem caelos fecit>.  |DI@E LOR CHI CONDUCE~, prepose
+loro le Intelligenze angeliche, che ne sono i motori.  @E la ben
+nota teoria aristotelica, adottata dal pensiero scolastico, ed
+esposta da Dante gi@a nel commento della Canz. ^Voi che
+'ntendendo~ (^Conv.~ II iv 2: <@E adunque da sapere primamente che
+li movitori di quelli cieli sono sustanze separate da materia,
+cio@e intelligenze, le quali la volgare gente chiamano Angeli>; e
+vedi ivi le note del Busnelli-Vandelli) e che verr@a pi@u
+particolarmente spiegata nel ^Paradiso~ (vedi specie ^Par.~
+XXVIII 97 sgg.).
+
+	|75-76. S@I... LA LUCE~, in modo che ogni parte del cielo
+immateriale, dove sono i cori angelici, illumina ogni parte del
+cielo materiale, cio@e le sfere celesti, tanto da diffondere
+^igualmente~, secondo equit@a, ^la luce~, l'influsso celeste, che,
+mediante le rispettive Intelligenze angeliche, <si distende per
+tutte lor parti> (^Par.~ XXVIII 66; ma per la differenza di virt@u
+tra cielo e cielo vedi ^Par.~ I 2-3, ed ^Ep.~ XIII 64-65).
+
+	|77. SPLENDOR MONDANI~: la potenza, gli onori, le
+ricchezze.
+
+	|78. ORDIN@O~: prepose; cfr. Paul., ^Ad Rom.~ 13, 1: <non
+est enim potestas nisi a Deo; quae autem sunt, a Deo ordinatae
+sunt>.  |GENERAL MINISTRA E DUCE~: suprema amministratrice e
+reggitrice nello stabilire e spartire, togliere e dare, quei
+beni; alcuni (Torraca, Sapegno) ricordano l'espressione di Arrigo
+da Settimello, ^Elegia~, v. 431: <[Fortuna] generalis yconoma
+rerum> (per l'utilizzazione di questo testo da parte di Dante
+vedi E. Bonaventura, ^Arrigo da Settimello e l'Elegia~, in ^Studi
+Medievali~, IV, 1913, pp. 110-192, e, per contro, A. Monteverdi,
+^Un poeta italiano~, in ^Rivista d'Italia~, 15 luglio 1925, pp.
+986-1001; A. Vallone, ^Il canto VII dell'Inferno~, Firenze, 1960,
+pp. 20-21).  La Fortuna (che @e una deit@a pagana) dunque per Dante
+esiste davvero, ed @e un'Intelligenza angelica (cfr. S. Agostino,
+^De civ. Dei~, V 9: <Nos enim eas causas, quae dicuntur
+fortuitae, unde etiam fortuna nomen accepit, non dicimus nullas
+sed latentes, easque tribuimus vel veri Dei vel quorumlibet
+spirituum voluntati>): e se il termine ^ministra~ ne <indica la
+subordinazione a Dio, nell'ordine universale>, ^duce~ ne
+sottolinea la sovranit@a <nell'@ambito della sua giurisdizione>
+(Mattalia).  In ^Mon.~ II ix 8, la Fortuna @e invece identificata
+direttamente nella divina Provvidenza: <Hic Pirrus 'Heram'
+vocabat fortunam, quam causam melius et rectius nos 'divinam
+providentiam' appellamus>.  Cfr. V. Cioffari, ^The conception of
+Fortune and Fate in the works of Dante~, Cambridge, Mass., 1949.
+
+	|79. PERMUTASSE A TEMPO~: trasferisse nel momento
+ritenuto pi@u opportuno (cfr. ^Par.~ VIII 60), e non dunque
+ciecamente e a caso.  |LI BEN VANI~, sono i caduchi ^splendor
+mondani~ (v. 77); cfr. ^Eccle.~ 2, 1: <dixi: ...fruar bonis; et
+vidi quod hoc quoque esset vanitas>; ^vani~ si rivelano anche
+proprio perch$e trascorrono facilmente dagli uni agli altri: cfr.
+Boezio, ^De cons. phil.~ II 1, 1 sgg. (opera che Dante tiene
+particolarmente presente in questa enunciazione); cfr. P.
+Chistoni, ^La seconda fase del pensiero dantesco~, Livorno, 1903,
+pp. 95-124; e, in generale, per gli echi dell'opera boeziana in
+Dante vedi E. Moore, ^Studies in Dante. I~, Oxford, 1896, pp.
+285-286; R. Murari, ^Boezio e Dante~, in ^GD~, III, 1896, pp.
+196-211; V, 1897, pp. 18-39; VII, 1898, pp. 36-52.
+
+	|80. DI GENTE IN GENTE~: da una nazione all'altra; cfr.
+^Ecclesi.~ 10, 8-9: <Regnum a gente in gentem transfertur propter
+iniustitias et iniurias et contumelias et diversos dolos.  Avaro
+autem nihil est scelestius>.  L'idea della <translatio> dei beni
+terreni (ed in particolare della <translatio Imperii>, dai Medi
+ai Persi ai Greci ai Romani ai Franchi ai Germani) era tema
+dominante della produzione moralistica medievale, e doveva
+indurre alla meditazione sulla caducit@a delle cose mondane e
+sulla prossima fine del mondo (per l'intrecciarsi con la
+parallela tematica del <mundus senescit>: cfr. E. Anagnine, ^op.
+cit~); proprio anche per il versetto cit., essa suggeriva una
+interpretazione moralistica della storia, per cui regni, citt@a,
+individui espiavano con lutti, guerre, rovine, malattie i propri
+peccati (come mostravano alcuni passi della ^Bibbia~), tanto che
+lo stesso Impero romano era crollato per la degenerazione morale
+della sua classe dirigente (ovvio il rinvio alle famose pagine
+agostiniane contro la Roma pagana); gli uomini dunque non erano
+in tutto passivi, giacch$e potevano pur sempre evitare almeno, con
+la loro condotta, la giusta punizione divina.  Rispetto a questa
+visione della storia umana, che era la pi@u corrente, l'intuizione
+dantesca @e notevolmente pi@u rigida e rigorosa: pur non negando
+(era dato indiscutibile; e cfr. ^Ep.~ VI) il concetto delle
+punizioni divine alle citt@a colpevoli, Dante considera la storia
+umana come strumento nelle mani di Dio per i suoi disegni
+provvidenziali (ed ignora ostentatamente l'idea della <translatio
+Imperii>, ch$e per l'Alighieri l'Impero @e per definizione
+universale e romano).  Egli qui si limita a considerare le
+vicende degli ^splendor mondani~ alle cui trasmutazioni l'uomo
+soggiace, senza accennare a meriti o a demeriti di chi ottiene e
+di chi perde: e ci@o gli era tanto pi@u facile in quanto, per le
+ricchezze, la Fortuna era tradizionalmente accusata di favorire
+il meno degno (cfr. Aristotele, ^Ethica Nicom.~ IV 1, 21). 
+|D'UNO IN ALTRO SANGUE~: da una famiglia all'altra.
+
+	|81. OLTRE... SENNI UMANI~: al di l@a di ogni possibilit@a
+da parte dell'intelligenza umana di impedire o di contrastare
+vittoriosamente quei rivolgimenti (cfr. v. 85 e 89 e note).  Per
+^d'i~ cfr. ^Inf.~ III 62 e nota).
+
+	|82. PER CH'~: per la qualcosa avviene che.  |LANGUE~,
+decade in condizione di misera ed oppressa.  Richiama
+indirettamente la profezia di Ciacco sul <cadere> dei Bianchi e
+il <sormontare> dei Neri (cfr. ^Inf.~ VI 67-68), considerati l@i
+appunto con animo di rassegnata accettazione; e cfr. ^Inf.~ XV
+93-96.  Ben diverso tono @e in ^Ep.~ VI e ^Par.~ XVII 46 sgg.
+
+	|83. SEGUENDO LO GIUDICIO~: in conseguenza delle
+decisioni.
+
+	|84. OCCULTO~: celato, e perci@o impossibile a conoscersi
+dagli uomini; cfr. ^Aen.~ X 501: <nescia mens hominum fati
+sortisque futurae>.  |COME IN ERBA L'ANGUE~, che, non visto, pu@o
+mordere all'improvviso; <'anguis' @e una spezie di serpenti, la
+quale ha la pelle verde, e... abita ne' prati fra l'erbe>
+(Boccaccio).  L'immagine @e, anche questa, virgiliana: <latet
+anguis in herba> (^Ecl.~ III 93).
+
+	|85. SAVER~, la capacit@a di prevedere e di opporsi agli
+eventi disposti dalla Fortuna (tale impossibilit@a coinvolge, a
+maggior ragione, le operazioni di mag@ia: per cui vedi ^Inf.~ XX 1
+sgg.).  Dante ribadisce con forza quanto ha gi@a affermato al v.
+81: e un tale rigido giudizio, che parve a non pochi dei lettori
+trecenteschi scalfire il principio del libero arbitrio, dovette
+suscitare riserve da parte dei teologi, a quanto almeno si
+avverte dalle imbarazzate dichiarazioni dei primi commentatori. 
+Graziolo Bambaglioli, che non rinuncia a difendere il caro
+autore, @e costretto tuttavia ad ammettere che il testo in s$e e
+per s$e @e esplicito (<Quamvis verba ista sonent quod Fortuna sic
+ducat in istis temporalibus, et quod humana prudentia et adversus
+permutationes et actus huius fortune provideri nec operari non
+possit, nichilominus pro defensione et conservatione honoris et
+nominis huius venerabilis auctoris, ne obliquentium vel
+detrahentium infamia aliquorum notam eius vere scientie et
+virtuti derogare contingat...>), e perci@o, dopo una lunga
+dissertazione sul libero arbitrio, tenta di neutralizzare le
+affermazioni dantesche asserendo che la Fortuna (che per
+l'Alighieri, come si @e visto, @e un Angelo, e poi, nella
+^Monarchia~, la stessa divina Provvidenza) altro non @e che
+l'influsso celeste: <concluditur ex necessaria ratione quod ex
+celestis corporis influentia, quam fortuna communiter appellamus,
+non necessitas boni vel mali, sed qualitas, dispositio vel
+habitus ad bonum vel malum veridice infunduntur>. 
+L'appassionata, ma scarsamente pertinente, difesa di Graziolo fu
+ampiamente citata ed utilizzata dall'Ottimo, e la medesima
+soluzione fu accolta anche dal Boccaccio; ben p@iu stringenti le
+ragioni addotte da Pietro, il quale scinde il problema del libero
+arbitrio, che propriamente riguarda il comportamento
+dell'individuo dinanzi al bene ed al male, da quello del possesso
+dei beni terreni (vedi la nota al v. 89).  Cfr. V. Cioffari,
+^Fortune in Dante's fourteenth-century commentators~, Cambridge,
+Mass., 1944.  |NON HA CONTASTO A LEI~: non pu@o contrastarla (per
+la forma arcaica ^contastare~ cfr. G. Contini, ^Poeti del
+Duecento~, II, p. 597); cfr. ^Aen.~ VIII 333-335: <Fortuna
+omnipotens et ineluctabile fatum / ...et deus auctor Apollo>; e
+XI 413: <neque habet Fortuna regressum>.  Il Boccaccio avverte,
+piuttosto imbarazzato, che queste parole <non bene intese,
+potrebbon generare errore>, e dichiara pi@u volte esplicitamente
+che secondo verit@a per <la forza del nostro libero arbitrio...
+n'@e conceduto di potere scalpitare e aver per nulla ogni sua
+[^scil.~ della Fortuna] potenzia>.  Da prospettive diverse, di
+sapore pi@u moderno, parte l'aperto attacco di Cecco d'Ascoli: <In
+ci@o peccasti, o fiorentin poeta, / ponendo che li ben de la
+fortuna / necessitati siano con lor meta. / Non @e fortuna cui
+ragion non vinca; / or pensa, Dante, se prova nessuna / si pu@o
+pi@u fare che questa convinca> (^Acerba~ II 1): che al fondo
+contiene il n@occiolo della tematica, che conoscer@a poi tanta
+fortuna nel mondo rinascimentale, del <faber quisque fortunae
+suae>.  Ovviamente, non @e che l'Alighieri intenda qui negare il
+libero arbitrio e la responsabilit@a dell'individuo nel proprio
+agire morale (vedi per questo punto la citata puntualizzazione di
+Pietro), n$e la capacit@a dell'uomo di operare positivamente:
+dietro a queste affermazioni sta una troppo rigida adesione ad
+espressioni di Virgilio e di Boezio (che poi non intendevano
+tanto), e soprattutto sta una interpretazione strettamente
+provvidenziale delle vicende umane.  In realt@a, in questa
+formulazione generale Dante pensa soprattutto a se stesso, alle
+proprie vicende di <exul inmeritus>, contro cui nulla pot$e la sua
+dirittura morale o la sua volont@a, essendo decise dal disegno
+imperscrutabile del Cielo (cfr. ^Inf.~ X 127-132); e nella
+teorizzazione dei rapidi mutamenti della sorte @e s@i
+l'accoglimento di tutta una tradizione (cfr. la nota al v. 88),
+ma @e anche l'illusione di un non lontano suo rientro in patria:
+in ci@o questo canto si collega strettamente al precedente, alla
+<profezia> di Ciacco, al cadere e al sormontare, inevitabile e
+continuo, delle sorti dell'uomo.
+
+	|86. PROVEDE... PERSEGUE~: prevede, stabilisce ed esegue
+le sue determinazioni nel campo che compete alle sue mansioni:
+quel ^suo regno~ nel quale ella @e regina, sottomessa solo all'
+<imperador dell'universo> (il Mattalia ricorda opportunamente
+l'espressione tecnica <persequi suum ius>).  La sequenza dei tre
+verbi, che scandisce l'ineluttabilit@a e l'inappellabilit@a delle
+decisioni della Fortuna, richiama alla mente l'inflessibile
+procedere di un altro ministro della volont@a divina, Min@os:
+<essamina... giudica e manda> (^Inf.~ V 5-6).
+
+	|87. LI ALTRI D@EI~: le Intelligenze angeliche (per
+estensione del termine con il quale le indicarono i pagani; cfr.
+^Conv.~ II iv 2-5: le <Intelligenze, le quali la volgare gente
+chiamano Angeli... li gentili le chiamano Dei e Dee>; ed anche
+^Par.~ XXVIII 121-122: <In essa gerarcia son l'altre dee: / prima
+Dominazioni e poi Virtudi...>).
+
+	|88. LE SUE... TRIEGUE~: i mutamenti da lei decisi ed
+effettuati si susseguono continuamente; cfr. Ovidio, ^Tristia~, V
+8, 15: <passibus ambiguis Fortuna volubilis errat / et manet in
+nullo certa [^al.~ firma] tenaxque loco>; Boezio, ^De cons.
+phil.~ II 1, 10: <Hi semper eius mores sunt, ista natura. 
+Servavit circa te propriam potius in ipsa sui mutabilitate
+constantiam>; e II 1, vv. 1-2 (che hanno forse fornito lo spunto
+a ^Par.~ XVI 82-84: <E come 'l volger del ciel de la luna /
+cuopre e discuopre i liti sanza posa, / cos@i fa di Fiorenza la
+Fortuna>).  L'idea dell'incessante variabilit@a della Fortuna e
+del continuo volgersi della sua ruota fu tra le pi@u
+universalmente diffuse nel Medioevo.
+
+	|89. NECESSIT@A... VELOCE~, il volere divino la spinge ad
+essere necessariamente veloce nello stabilire gli incessanti
+mutamenti (cfr., ma il concetto @e assai diverso, Orazio, ^Carm.~
+I 35, 17, dove Fortuna @e preceduta dalla <saeva Necessitas>; e
+soprattutto Boezio, ^De cons. phil.~ II 1, 19: <si [Fortuna]
+manere incipit, fors esse desistit>).  |NECESSIT@A~, @e vocabolo
+assai ardito in questo contesto: e si capisce che, pi@u ancora che
+sugli altri punti, qui si siano indirizzati gli strali dei
+detrattori di Dante (per Cecco vedi la nota al v. 85), come
+registra Pietro: <Multi mirantur de hoc verbo, scilicet
+^necessitate~, et, non intelligentes, calumniant textum.  Fatum,
+seu Fortuna, quadam necessitate rotatur et volvitur, ut sol et
+alii planete in suo cursu, nostro libero arbitrio salvo manente,
+si volumus.  Nam liberum est michi non immisceri his que fato
+penitus subsunt, ut bonis terrenis [cfr.  Boezio, ^De cons. pil.~
+II 1, 17-19]....  Et ista est rota que volvitur semper in terra,
+et a quocumque subsistente leditur, et necesse habet pati talem
+revolutionem.  Nam necesse habet se sic terrenis immiscere; et
+hoc est quod dicit quod necessitas facit eam velocem super
+talibus rebus terrenis, subaudi non super nostris voluntatibus et
+arbitrio>.  Tuttavia Benvenuto da Imola seguit@o ad annotare il
+verso, seccamente: <istum dictum non videtur bene sanum>.
+
+	|90. S@I... CONSEGUE~, e pertanto si d@a tanto spesso il
+caso di chi consegua rapido mutamento di sorte; cfr. ^Aen.~ XI
+426-427: <multos alterna revisens / lussit et in solido rursus
+Fortuna locavit>.  In s$e altrettanto accettabile @e la variante
+^che vicenda~ (sostenuta da I. Del Lungo, ^Dal secolo e dal poema
+di Dante~, Bologna, 1898, p. 463; cfr. M. Barbi, ^Problemi~, I,
+p. 206), intendendo allora: <e pertanto avviene che i mutamenti
+si susseguano tanto spesso>; a favore della prima lezione sta
+tuttavia il fatto che Dante qui, come si @e detto, pensa
+soprattutto a se stesso; e per le ragioni per cui la lezione
+^chi~ @e stata accolta a testo vedi G. Petrocchi, nota al verso.
+
+	|91. POSTA IN CROCE~: condannata (cfr. ^Inf.~ XVI 43) per
+accuse ingiuste (cfr. v. 93), maledetta.
+
+	|92. PUR~: anche.  |LE DOVRIEN DAR LODE~, perch$e -- spiega
+Boezio, ^De cons. phil.~ II 1, 12-15 -- gli uomini prudenti, fatti
+accorti dalla mutabilit@a della Fortuna, imparano a non tener
+conto dei beni terreni e ad esser liberi da quelle lusinghe; s@i
+che vera amica e maestra agli uomini @e la fortuna avversa, non la
+prospera, che @e mentitrice (II 8, 3-4).  Il Boccaccio, con altri,
+intende, pi@u semplicemente: anche coloro che sono in realt@a ben
+trattati da lei, ma che, per l'incontentabilit@a umana, vorrebbero
+ancora di pi@u.
+
+	|93. DANDOLE... MALA VOCE~: biasimandola e denigrandola;
+^a torto~, perch$e la Fortuna non @e n$e cieca n$e capricciosa: segue
+l'occulto disegno provvidenziale.  Per ^voce~ nell'accezione di
+<fama> cfr. ^Inf.~ XVI 41.
+
+	|94. S'@E BEATA~, @e beata in se stessa e per se stessa
+(come al v. 96 ^si gode~).  |CI@O NON ODE~: non se ne cura.  Cfr.
+Boezio, ^De cons. phil.~ II 1, vv. 5-7: <Non illa miseros audit
+aut curat fletus / ultroque gemitus, dura quos fecit, ridet. /
+Sic illa ludit, sic suas probat vires>; <ma quella che nel poeta
+latino @e una divinit@a capricciosa e crudele... @e in Dante davvero
+personaggio di un mondo eterno, infinitamente al disopra delle
+cure e delle illusioni dei mortali> (Sapegno).
+
+	|95. CON L'ALTRE PRIME CREATURE~, gli Angeli, che furono
+creati per primi, assieme ai cieli (cfr. ^Purg.~ XI 3).  |LIETA.~ 
+Cfr. Orazio, ^Carm.~ III 29, 49-52: <Fortuna saevo laeta negotio,
+et / ludum insolentem ludere pertinax / transmutat incertos
+honores, / nunc mihi nunc alii benigna>.
+
+	|96. VOLVE SUA SPERA~: gira la ruota dei beni mondani
+(cfr. ^Inf.~ XV 95); l'immagine della sfera @e qui richiamata
+dall'analogia con le sfere celesti mosse dalle altre Intelligenze
+(per l'uso di ^rota~ in luogo di ^spera~ cfr. ^Purg.~ XXIV 88;
+^Par.~ IV 58).  |BEATA.~  Il concetto, nuovamente ribadito, d@a
+spazio poetico all'immagine di questa fortuna, che domina il
+canto.  |SI GODE.~  Cfr. Boezio, ^De cons. phil.~ II 2, 9: <Haec
+nostra [^scil.~ della Fortuna] vis est, hunc continuum ludum
+ludimus: rotam volubili orbe versamus, infima summis, summa
+infimis mutare gaudemus>.
+
+	|97. OMAI~: ormai.  |A MAGGIOR PIETA~: verso tormenti pi@u
+atroci; nell'Inferno pi@u gi@u si scende, pi@u gravi sono le pene
+cui sono sottoposti i dannati: cfr. ^Inf.~ V 2-3.  Per ^pieta~
+vedi ^Inf.~ I 21 e nota; e nell'accezione di <tormento
+infernale>: ^Inf.~ XVIII 22.
+
+	|98. GI@A... CHE SALIVA.~  Tutte le stelle (come Virgilio
+sa, pur senza vederle), che all'inizio della sera avevano
+cominciato a salire da oriente (rispetto al meridiano
+fondamentale di Gerusalemme), raggiunto il punto massimo del loro
+cerchio (rispetto all'orizzonte), ora cominciano gi@a a discendere
+verso occidente; sono dunque trascorse circa dodici ore da quando
+Virgilio si mosse dal Limbo per venire in soccorso di Dante, ed @e
+il 26 marzo, poco dopo la mezzanotte: cfr. A. Camilli, in ^SD~,
+XXIX, 1950, pp. 73-74.  Cfr. ^Aen.~ II 8-9: <iam nox umida caelo
+/ praecipitat suadentque cadentia sidera somnos>.
+
+	|99. E 'L TROPPO STAR SI VIETA~: e non possiamo sostare a
+lungo.  Cfr. ^Aen.~ VI 535-539: <Hac vice sermonum roseis Aurora
+quadrigis / iam medium aetherio cursu traiecerat axem; / et fors
+omne datum traherent per talia tempus, / sed comes admonuit
+breviterque adfata Sibylla est: / 'Nox ruit, Aenea; nos flendo
+ducimus horas'>.
+
+	|100. RICIDEMMO~: tagliammo, cio@e attraversammo per la
+via pi@u breve; cfr. ^Inf.~ XVIII 17.  |A L'ALTRA RIVA~, fino alla
+parte opposta, ove @e il passaggio al cerchio successivo; il
+termine ^riva~, per <margine> del cerchio (cfr. ^ripa~ del v.
+17), anticipa quasi al lettore l'idea della palude, che si
+estende appunto in quel quinto cerchio.
+
+	|101. SOVR'~: presso (cfr. v. 22).  |UNA FONTE.~  @E la
+sorgente (proveniente dalle acque dell'Acheronte: cfr. ^Inf.~ XIV
+115) da cui si forma lo Stige: vedi la nota al v. 106.  Cfr.
+^Aen.~ XII 816: <Stygii... fontis>.  |BOLLE~: ribolle (come
+appare in certe sorgenti, quando l'acqua viene alla superfice dal
+basso; e cfr. <polla>, <pollare>, detto proprio delle fonti; per
+<bolla> d'aria cfr. ^Purg.~ XVII 32).  @E certamente da respingere
+l'idea (accolta anche da Jacopo Alighieri e dal Boccaccio) che
+quell'acqua sia bollente, giacch$e non soccorre al proposito
+nessun particolare (il ^fummo del pantan~, di ^Inf.~ VIII 12,
+altro non @e che nebbia; vedi, per contro, le diffuse descrizioni
+delle acque bollenti del Flegetonte: ^Inf.~ XII 101 sgg.). 
+|RIVERSA~: si riversa.  Alcuni esegeti intendono il verbo come
+transitivo (cfr. ^Inf.~ VI 11), sottintendendo: <l'acqua>; ma
+l'accoppiamento con l'altro verbo, usato per l'appunto
+intransitivamente, fa propendere per la prima soluzione.
+
+	|102. DA LEI DERIVA~: che @e scavato da quelle stesse
+acque.
+
+	|103. BUIA ASSAI PI@U CHE PERSA~: nera molto pi@u del color
+perso (che @e appunto quasi nero: cfr. ^Inf.~ V 89 e nota), cio@e
+nerissima.  Poich$e subito dopo (v. 104) il poeta le chiama ^onde
+bige~, il Pietrobono ed altri hanno pensato di dover intendere:
+<di colore scuro, piuttosto che nero>; ma ^buio~ ricorre nella
+prima cantica riferito al colore della tenebra pi@u fitta, e
+perci@o nera (cfr., ad es., ^Inf.~ III 130; VIII 93; ^Purg.~ XVI
+1; ecc.): sar@a dunque piuttosto ^bigio~ ad essere qui usato
+genericamente (cfr. ^Purg.~ XX 54; XXVI 108), ad indicare il
+colore livido della superfice di quelle acque; cfr. la nota al v.
+104.
+
+	|104. IN COMPAGNIA~, seguendo il corso di quelle acque. 
+|BIGE.~  <Chiama quest'acqua oscura e nera 'bigia', non volendo
+per@o per questo vocabolo mostrarla men nera, ma, largamente
+parlando, lo 'ntende per nero> (Boccaccio); vedi la nota al verso
+precedente.
+
+	|105. GI@U~, nel quinto cerchio.  |DIVERSA~: malagevole;
+<diverso> @e spesso usato da Dante nell'accezione di strano,
+orribile (cfr. ^Inf.~ VI 13 e nota).
+
+	|106. VA~: si getta.  Notevole fortuna ha goduto la
+variante ^Una palude fa~ (in effetti la palude @e formata
+dall'acqua di questo ^tristo ruscel~; e cfr. ^Inf.~ XIV 116),
+ritenuta per@o, con buoni argomenti, <facilior> dal Petrocchi,
+nota al verso, e ^Introduzione~, p. 173.  |STIGE.~  @E il nome
+della palude infernale anche nell'^Eneide~ (cfr. ^Aen.~ VI 323 e
+369: <Stygiamque paludem>; tuttavia nel poema latino a circondare
+la citt@a di Dite @e il Flegetonte: cfr. ^Aen.~ VI 550-551. 
+Occorre peraltro ricordare che per Dante i fiumi infernali sono
+in realt@a uno solo, che assume nei vari luoghi forma e nomi
+diversi: cfr. ^Inf.~ XIV 115 sgg.).  Secondo i mitografi
+medievali <Styx tristitia interpretatur>, e Dante vi tuffa dentro
+per l'appunto i peccatori di <tristitia>.  Cfr. Uguccione,
+^Derivationes~, s. v.: <A ^sto~ hic Stix-Stigis, palus
+infernalis, quia semper stet ad penam, vel a statim, quia potata
+statim interficit, vel a greco ^stigestos~, quod est tristitia,
+quia tristes faciat, vel quia tristitiam gignat>.
+
+	|107. TRISTO~: malvagio, in quanto @e fiume infernale
+(cfr. ^Inf.~ III 78): ma qui @e evidente l'allusione
+all'interpretazione del nome Stige (vedi la nota precedente).
+
+	|108. AL PI@E DE LE MALIGNE PIAGGE~: all'altezza della
+riva malvagia (cfr. ^Inf.~ III 107; V 86; e vedi ^Georg.~ II 179:
+<colles... maligni>, cio@e improduttivi); @e la costa della palude. 
+|GRIGE~: tetre.  La palude stigia ci @e presentata in una
+descrizione paesistica tutta ritmata su colori grigi e tediosi, e
+dove gli aggettivi tendono a definire, prima ancora che un tetro
+luogo fisico, un tetro ambiente morale (^tristo~, ^maligne~).
+
+	|109. DI MIRARE STAVA INTESO~: stavo tutto intento a
+guardare.
+
+	|110. FANGOSE~: imbrattate dalla fanghiglia di quel
+pantano.  L'elemento determinante della scena @e dato appunto dal
+fango che intorbida quell'acqua, rendendola ^bigia~ (v. 104),
+^lorda~ (v. 127), ^sucida~ (VIII 10); e cos@i quelli che vi sono
+tuffati dentro sono ^fangosi~, ^pien di fango~ (VIII 32), ^lordi~
+(VIII 39); peggio ancora, altri sono ^fitti nel limo~ (v. 121) e
+il fango penetra sin nella loro gola (v. 126).  Cfr. ^Is.~ 57,
+20: <Impii autem quasi mare fervens... et redundant fluctus eius
+in conculcationem et lutum>.
+
+	|111. IGNUDE TUTTE~: completamente nude.  Il particolare,
+come sempre (cfr. ^Inf.~ III 100 e nota), serve a mettere
+maggiormente in rilievo la crudezza della pena; qui, il fango che
+insozza quei corpi, e i denti che penetrano in quelle carni. 
+|CON SEMBIANTE OFFESO~: adirati e crucciati (cfr. ^Inf.~ XXIII
+146): sono infatti le anime degli iracondi.  <Assai ben si pu@o
+comprendere la tristizia esser causativa dell'ira, per ci@o che,
+se quelle cose che avvengono delle quali l'uomo si adira, se esse
+non ci contristassono, senza dubbio noi non ci adireremmo, e cos@i
+per l'essere contristati ci adiriamo> (Boccaccio).
+
+	|112. NON PUR~: non solamente.
+
+	|113. MA... COI PIEDI~: in ogni modo possibile.
+
+	|114. TRONCANDOSI CO' DENTI~: strappandosi l'un l'altro
+le carni con i denti: dimostrazione evidentissima della
+bestialit@a del loro vizio.  Cfr. ^Hab.~ 2, 6-7: <Usquequo et
+aggravat contra se densum lutum? numquid non repente consurgent
+qui mordeant te, et suscitabuntur lacerantes te, et eris in
+rapinam eis?>.
+
+	|116. CUI VINSE L'IRA~: che in vita si lasciarono
+dominare dall'ira, sottomettendovi la ragione.  I lussuriosi, i
+golosi, gli avari (e i prodighi) peccarono di incontinenza
+rispetto all'appetito concupiscibile; in questo cerchio sono
+dannati gli incontinenti rispetto all'appetito irascibile (cfr.
+Aristotele, ^Ethica Nicom.~ IV 5, 8).
+
+	|117. ED ANCHE... CREDI~: ed inoltre voglio che tu creda
+fermamente, come cosa certa, anche se tu non puoi vedere queste
+altre anime.
+
+	|119. PULLULAR~: lat., apparire di bolle d'aria; come
+accade appunto quando qualcuno espira sott'acqua.  @E l'effetto
+dei tentativi, da parte di quei dannati, di cantare il loro
+^inno~: cfr. vv. 125-126.  |AL SUMMO~: alla superfice.
+
+	|120. TI DICE~: ti mostra, confermandoti le mie parole. 
+|U' CHE~: dovunque (^u~', lat. <ubi>); tanti sono quei dannati,
+costretti a rimanere sommersi nel pantano.
+
+	|121. FITTI NEL LIMO~: confitti nella melma del fondo;
+cfr. ^Ps.~ 68, 3: <Infixus sum in limo profundi>; 68, 15. 
+|TRISTI.~  Chi siano propriamente questi dannati @e problema assai
+controverso ed estremamente complesso, rispetto al quale sono
+state proposte soluzioni differenti (vedi per la bibliografia
+della questione V. Russo, ^Sussidi di esegesi dantesca~, Napoli,
+1966, pp. 71-128): 1) anche questi dannati sono degli iracondi,
+in cui per@o l'ira rimase repressa internamente, avvelenandone
+l'animo.  Aristotele tuttavia, in ^Ethica Nicom.~ IV 5, e quindi
+S. Tommaso nel commento, distinguono non due bens@i tre specie di
+iracondi (<acuti>, <amari>, <difficiles>); occorrerebbe dunque
+ipotizzare che i <difficiles> (coloro che non depongono l'ira se
+non hanno ottenuto vendetta) siano esemplificati nel canto
+seguente, nell'arroganza irosa di Filippo Argenti: mentre una
+tale distinzione non @e dichiarata dal testo, n$e @e ricordata nella
+cornice degli iracondi del Purgatorio; oppure che il poeta li
+comprenda tra i violenti contro il prossimo, puniti pi@u gi@u (come
+gli scialacquatori sono distinti dai prodighi, e i sodomiti dai
+lussuriosi).  @E peraltro notevole che S. Tommaso, parlando degli
+iracondi <amari>, accenni alla loro <tristitia> ed affermi che <ad
+hanc autem speciem superabundantie maxime videntur dispositi esse
+melancolici>: espressioni cui paiono adeguarsi i vv. 121- 123; 2)
+questi dannati espiano il peccato opposto dell'ira (e sono puniti
+perci@o insieme agli iracondi, come gli avari lo sono insieme ai
+prodighi: ma con pena diversa, e pi@u grave).  In effetti
+Aristotele, ^loc. cit.~, ricorda l'eccesso vizioso di chi non si
+adira come, quando e con chi @e necessario (e cfr. ^Inf.~ VIII 44
+e nota): tuttavia in questi versi non si parla di flemmatici
+collezionatori di oltraggi, ma si insiste sulla <tristitia>, che
+@e tutt'altra cosa; n$e tali peccatori sono ricordati nel
+Purgatorio; 3) sono i peccatori di accidia che @e <tristari de
+bono divino> (S. Tommaso, ^Summa theol.~ 2. 2, q. 35, a. 2; e
+vedi ^Purg.~ XVII 126-132; XVIII 1 sgg.).  In effetti,
+contrariamente a quanto affermano vari commentatori moderni, ira
+ed accidia hanno radici comuni: cfr., ad es., S. Bonaventura,
+^Comp. theol.~ III: <ira, cum non potest se vindicare, tristatur,
+et ideo ex ea nascitur accedia>; Brunetto Latini, ^Tesoretto~,
+vv. 2683-2693: <In ira nasce e posa accidia nighittosa...> (e tra
+questi peccatori possono dunque essere compresi anche i viziosi
+di cui al n.+o~ 1, in quanto <accidiosi d'ira>); i versi danteschi
+sono benissimo riferibili a questo vizio, che @e richiamato dall'
+<accidioso fummo> del v. 123, tanto pi@u che <convenientius
+Gregorius acediam tristitiam nominat> (S. Tommaso, ^Summa theol.~
+2. 2, q. 35, a. 4).  @E la soluzione che pi@u si raccomanda, anche
+perch$e @e quella accolta dai commentatori antichi (eccezion fatta
+per Pietro).  Tuttavia, mentre avarizia e prodigalit@a sono punite
+in una medesima cornice anche nel Purgatorio, iracondi ed
+accidiosi sono l@i mantenuti distinti, e giustamente, trattandosi
+non di estremi opposti di una medesima colpa, bens@i di due
+peccati diversi (ancorch$e Jacopo dica che <degli iracondi la
+bogliente e palese rabbia e degli accidiosi la occulta e tinta
+irata voglia> siano <stremit@a di temperanza>); d'altra parte, pur
+essendo nel medesimo cerchio, questi sono puniti non nel medesimo
+modo degli iracondi; 4) assai pi@u complessa @e la spiegazione di
+Pietro Alighieri (ripresa da Guido da Pisa e da Benvenuto):
+anch'egli riconosce nei dannati <fitti nel limo> gli accidiosi,
+ma afferma che nello Stige sono puniti complessivamente non due
+(ira e accidia), bens@i quattro distinti vizi (ira, accidia,
+superbia, invidia), tutti riconducibili alla <tristitia>; <in qua
+[palude] fingit puniri apparenter iracundos et superbos, et non
+apparenter et occulte, idest in limo talis paludis, fingit puniri
+accidiosos et invidiosos>.  Tale chiosa, assai discussa (ed
+accolta da insigni studiosi, quali il Tommaseo, il Pascoli, il
+Del Lungo, il Rajna), appare dettata dal manifesto desiderio di
+far corrispondere la struttura di questa parte dell'Inferno
+(Antidite) con quella del Purgatorio, regolarizzando la
+distinzione dei peccati nella prima cantica: dalla quale
+rimangono altrimenti assenti ben tre dei vizi capitali; e
+pertanto Pietro precisa che nei cerchi secondo, terzo e quarto @e
+punito l' <amor inordinatus... parvorum bonorum, scilicet
+temporalium> (lussuria, gola, avarizia), e nel quinto l'<amor
+inordinatus... magnorum bonorum, scilicet gratie> (accidia) e l'
+<amor mali> (superbia, invidia, ira), peccati tutti strettamente
+connessi tra loro (<fraternizant>).  In effetti questi quattro
+vizi, descritti insieme in ^Purg.~ XVII 115-132, sono aspetti
+diversi del peccare contro la <caritas in proximum>; e la
+<tristitia>, <comes iracundiae> (cfr. Seneca, ^De ira~, II 6; e
+vedi il passo del Boccaccio cit. in nota al v. 111), @e per
+l'appunto causativa dei peccati di accidia (quando @e di
+impedimento ad amare i beni spirituali: <tristitia spiritualis
+boni>, cfr. S. Tommaso, ^Summa theol.~ 2. 2, q. 35, a. 1; e vedi
+^Purg.~ XVIII 132 sgg.) e di invidia (quando considera i beni
+altrui: <tristitia de alienis bonis>, cfr. S. Tommaso, ^Summa
+theol.~ 2. 2, q. 36, a. 1-3; e vedi ^Purg.~ XVII 120: <onde
+[l'invidioso] s'attrista>); mentre risultano evidenti i nessi che
+collegano all'invidia la superbia (cio@e disprezzo degli altri,
+per innalzare se stessi): e non solo Pietro, ma anche Jacopo vede
+descritto in Filippo Argenti il vizio dell'arroganza, e Graziolo
+la <detestanda superbia>; e che si accenni alla superbia nei vv.
+46-51 del canto successivo pare indubbio (e cfr. le note ad
+^Inf.~ VIII 46 e 50).  Perci@o la chiosa di Pietro @e tutt'altro
+che cervellotica: anzi, ha colto nel giusto il Sapegno giudicando
+che essa, pi@u che spiegare, viene in realt@a a sovrapporsi al
+testo, puntualizzando (su ispirazione del padre?) elementi
+strutturali che nel poema sono rimasti imprecisati: infatti gli
+stessi accenni alla superbia, nel canto successivo, non sono tali
+da far intendere al lettore con tutta la chiarezza necessaria
+(quella, comunque, che Dante @e solito usare) che l@i sono puniti i
+superbi.  Nemmeno intendere che nello Stige @e punita la
+<tristitia> nei suoi vari aspetti, e cio@e appunto l'ira,
+l'accidia, la superbia e l'invidia (secondo la tesi cara al Del
+Lungo, ora ripresa da V. Russo, ^op. cit.~), permette per@o di
+ignorare il fatto che qui il testo rimane nel vago e
+nell'impreciso; tanto pi@u che nessun elemento chiarificatore
+viene poi offerto, al proposito, nella pur ampia disquisizione
+del canto XI, dove sono generalmente indicati come <quei de la
+palude pingue>, quasi peccatori di uno stesso peccato.  @E certo
+che l'ordinamento morale dell'Inferno dantesco si informa ai
+dettami dell'^Ethica~ aristotelica, e questa tace dei vizi di
+superbia e di invidia, peccati che la catechistica cristiana
+conosce come capitali; o l'Alighieri ha inteso, in ossequio ad
+Aristotele, ripartire quei peccatori nei vari cerchi, intendendo
+quei vizi come aspetti di altri peccati (cfr., ad es., Capaneo) o
+ha preferito risolvere la diffrazione giocando sul termine
+generale e generico di <tristitia>, comprensivo anche di quei due
+vizi.  Il fatto, comunque lo si voglia spiegare (cfr. anche la
+nota ad ^Inf.~ VIII 1), rimane, ed @e estremamente indicativo ed
+interessante.  Cfr., tra i molti interventi, G. Busnelli,
+^L'Etica Nicomachea e l'ordinamento morale dell'Inferno di
+Dante~, Bologna, 1907; G. Ferretti, ^I due tempi della
+composizione della Divina Commedia~, Bari, 1935; M. Barbi,
+^Problemi~, I, pp. 154-157.
+
+	|122. NE L'AERE... S'ALLEGRA.~  Nuovo accenno alla
+nostalgia con la quale i dannati pensano al <dolce mondo>
+terreno, allietato dal sole; qui per evidente contrapposizione al
+^tristi fummo.~  Cfr. ^Aen.~ VI 363: <caeli iucundum lumen et
+auras>.
+
+	|123. PORTANDO... FUMMO~: alimentando nel nostro petto i
+fumi dell'accidia che ci contristarono il cuore, impendendoci di
+godere dei beni nostri e degli altrui.  Cfr. ^Prov.~ 25, 20:
+<Sicut tinea vestimento et vermis ligno, sic tristitia viri nocet
+cordi>.  Nell'iracondo invece il fumo annebbia la vista (e
+pertanto @e descritto dal poeta come elemento esterno di pena:
+cfr. ^Inf.~ VIII 12; ^Purg.~ XVI 1 sgg.).
+
+	|124. ATTRISTIAM~, riprende il ^tristi~ di v. 121. 
+|BELLETTA~: fanghiglia.
+
+	|125. INNO.~  Il tono di Virgilio diviene di sprezzante
+ironia: l'inno, che propriamente @e di ringraziamento e di lode,
+qui @e invece di recriminazione e di dolore; il canto, un
+gorgoglio.  |SI GORGOGLIAN~, perch$e il suono di quelle parole @e
+impedito dall'acqua e dal fango, che penetrano nelle loro gole. 
+|STROZZA~: gola; ma il termine, che ha qui del dispregiativo, ci
+fa sentire quelle parole <strozzate> dalla melma.
+
+	|126. INTEGRA~: intera e chiara.
+
+	|127. DE LA LORDA POZZA~: di quella palude fangosa.
+
+	|128. GRAND'ARCO~: un grande tratto di strada, a forma
+d'arco di circonferenza, tra la riva ^secca~, asciutta, e il
+^m$ezzo~ (agg. sostantivato), il marcio della palude.
+
+	|129. A CHI~, agli iracondi (cfr. ^Inf.~ VIII 59), che si
+vedono, e alle bollicine, che testimoniano la presenza degli
+altri sul fondo.  |INGOZZA~: ha la gola piena di melma.
+
+	|130. AL DA SEZZO~: infine, da ultimo; cfr. ^Purg.~ XXV
+139.
+
+	|Conclusione.~  @E stato giustamente osservato
+(ultimamente da M. Marti, ^Il canto VII dell'Inferno~, Torino,
+1959) come questo canto sia caratterizzato da stridule
+dissonanze, da suoni duri, da rime aspre: s@i che la stessa voce
+chioccia di Pluto, che apre ad effetto il canto, pare volutamente
+introdurre a tale esasperazione linguistica, e rinviare quasi
+alle <rime aspre e chiocce>, altrove (^Inf.~ XXXII 1) richieste
+dal tema.  A ben vedere, @e soprattutto la prima parte -- quella
+riguardante la condizione degli avari e prodighi -- ad essere la
+pi@u ricca di suoni irti, e ad apparire disseminata di vocaboli
+che nella ^Comedia~ ricorrono qui per l'unica volta (^riddi~,
+^burli~), o generalmente inusitati (^lacca~), o addirittura
+inventati da Dante (^appulcro~).  <Alcune rime sono addirittura
+degli ^hapax~ musicali, non pi@u ritornanti nella pur vastissima
+trama sonora della ^Divina Commedia.~  Cos@i l'^aleppe~ di Pluto
+in rima con il ^seppe~ di Virgilio; cos@i pi@u gi@u il dissono
+^strupo~ in rima con ^lupo~ e ^cupo~; o il tagliente ^riddi~ che
+risponde a ^viddi~ e a ^Cariddi~; o anche la stridula ^sozzi~ che
+si ripete in ^cozzi~ e ^mozzi~; e la secca ^rocche~ in rima con
+^sciocche~ e ^'mbocche.~  Fittissima gagliardia di suoni cupi e
+aspri che non si ripeter@a mai pi@u nel poema con tanta prepotenza;
+poich$e a queste rime ^hapax~ bisogner@a aggiungerne almeno due
+altre dissonanti ed efficaci: l'una ricca di un suono che sembra
+una scudisciata morale: ^cherci~, ^guerci~, ^ferci~, usata solo
+un'altra volta nella ^Divina Commedia~ (^Inf.~ XV) e con lo
+stesso valore sferzante; e l'altra, cupa insieme e cruda:
+^sepulcro~, ^pulcro~, ^appulcro~, che compare solamente qui>
+(Marti).  Tali usi stilistici sono consentanei al disprezzo che
+il poeta nutre per quel peccato e per i suoi adepti: disprezzo
+che non si tinge come altrove, di colori violenti, e che tuttavia
+vuole dichiararsi apertamente, armato di tagliente ironia; s@i che
+quei dannati rimangono folla anonima, senza volto, senza fama,
+degradati a bestie (^abbaia~), anzi a cose, come suggeriscono
+paragoni (^Come fa l'onda...~) e metafore (^coperchio~,
+^insacca~, ^stipa~).  Di altri dannati si @e sottolineato,
+umanamente, il dolore (^O anime affannate: L'angoscia che tu
+hai~): di questi, si descrive solo ^la zuffa~, e <qual ella sia,
+parole non ci appulcro>.  Anche per i contrasti, ben pi@u
+bestiali, dei tuffati nello Stige Dante ha atteggiamento di
+sprezzo, che raggiunge una punta di repulsione, in quel
+descriverli intenti a sbranarsi l'un l'altro; per ripiegare poi
+nuovamente sullo scherno, riservato questo agli spiriti sommersi
+(^Quest'inno si gorgogliano nella strozza; ...chi del fango
+ingozza~), e che segna un ritorno di rime dal suono aspro e
+pieno.  Ma a parte queste analogie, l'ultima parte del canto,
+svolgendo il compito di introdurre alla nuova pena, @e tesa
+piuttosto in direzione diversa, a disegnare un paesaggio grigio,
+tetro, nerastro di melma, uggioso di nebbia e di palude: un
+paesaggio dominato dalla <tristitia>, materiale e morale, e che
+suggerisce al lettore quasi un senso di nausea e di fastidio.
+        @E questo, come si @e visto, un canto pieno di problemi:
+tra i quali spicca per rilevanza la definizione che il poeta qui
+d@a della Fortuna, identificata addirittura in una Intelligenza
+angelica.  In questo canto senza personaggi campeggia al centro
+questa figura che <vive come immagine purissima, indimenticabile
+nella sua grazia e nella sua levit@a.  Dante la ritrae con un
+gusto intenso... con piacere eminentemente figurativo, anche se
+nutrito di moralit@a.  Essa @e contemplata come mera visione, nei
+suoi elementi visibili, come bella immaggine, elegante fluire di
+linee> (Getto, ^lettura cit.~).  Lo stile, in questa parte del
+canto, adeguandosi alle esigenze della figurazione, ricerca nuove
+dimensioni; e si fa poi subitamente serio, didascalico,
+concettoso, denso; il poeta fa capire che si tratta di
+enunciazione importante che gli sta particolarlmente a cuore, e
+vuole che il lettore apprenda anch'egli la verit@a come Virgilio
+l'ha porta a Dante: <or vo' che tu mia sentenza ne 'mbocche>:
+metafora certo non elegante, ma rivelatrice della tensione
+intellettuale con la quale il poeta ha affrontato un tale
+argomento.  Le reazioni che la soluzione qui proposta suscit@o tra
+i contemporanei sono al proposito assai indicative, e meritano
+forse maggior attenzione di quanta viene loro comunemente
+riservata: ch$e, se @e certo che Dante non volle negare il libero
+arbitrio, @e pur vero che alcune formulazioni sono assai ardite, e
+non a caso lasciarono adito a riserve e a perplessit@a.  Ma Dante
+pensava alle proprie vicende personali, si illudeva ancora di un
+rapido ritorno in Firenze: e per queste sue vicende e per queste
+sue illusioni crea la <dea> Fortuna, alla quale il sapere umano
+<non ha contasto>.  Non a qualche imprevidenza dell'individuo
+Dante dovevano imputarsi i guai dell'esilio, ma al continuo
+volgere delle vicende umane, cui nulla e nessuno pu@o opporsi;
+mentre le rapide mutazioni della Fortuna lasciavano sperare un
+non lontano ristabilimento delle sorti dell'esule.

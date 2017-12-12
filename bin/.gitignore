@@ -1,0 +1,6 @@
+#
+# Ignore binaries. They are host-dependent.
+#
+ddp2html
+nonascii
+unbalanced

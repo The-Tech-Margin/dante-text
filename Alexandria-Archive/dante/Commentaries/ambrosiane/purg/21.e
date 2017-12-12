@@ -1,0 +1,62 @@
+	|1.~  ^La sete~ -- Quia omnes homines naturaliter scire desiderant.
+
+	|2.~  ^L'acqua~ -- Gratia divina.
+
+	|3.~  ^Samaritana~ -- Quam Ihesus potavit aqua fontis vite eterne.
+
+	|6.~  ^Condoliemi~ -- Propter se ipsum, quia irretitus fuit peccato 
+avaritie.  ^Giusta vendecta~ -- Purgationi avaritie.
+
+	|8.~  ^Doi~ -- Quando apparuit duobus euntibus in Emaus.
+
+	|25.~  ^Colei~ -- Lachesis fata producens vitam hominis.
+
+	|26.~  ^Tracta~ -- Scilicet finita.  ^Conocchia~ -- Scilicet rocca.  
+Instrumentum est quo mulieres filare consuevere et dicitur a canna, de 
+qua fit.  Et per similitudinem loquitur, quia sicut mulier semper 
+carpit linum de canocchia filando, sic Lachesis dicitur carpere dies 
+vite.  Unde Seneca in tragediis: <Prima que vitam dedit hora carpsit>.
+
+	|27.~  ^Cloto~ -- Est alia fata que prebet homini initium vite.
+
+	|48.~  ^Scalecta~ -- Porte purgatorii.
+
+	|50.~  ^Coruscar~ -- Balenare et luscimere.  ^Taumante~ -- Scilicet 
+Iris arcus qui apparet in celo.
+
+	|51.~  ^Cangia~ -- Quia aliquando ab oriente, aliquando in meridie, 
+numquam a septemtrione, vix vel raro \<ab occidente\>, quia semper 
+opposita solis et ab eius radiis causatur.
+
+	|52.~  ^Secco vapore~ -- Ex quo multe novitates in aere generantur.
+
+	|56.~  ^Vento -- Nasconda~ -- Hec solet esse causa terremotus, quando 
+ventus est reclusus in visceribus terre.
+
+	|67.~  ^Io~ -- Iste est Statius poeta quem introducit Dantes se 
+reperisse in purgatorio iam purgatum.
+
+	|82.~  ^Tito~ -- Vespasiani filius.
+
+	|83.~  ^Rege~ -- Eterni omnipotenti Dei.  ^Fora~ -- Vulnera Christi.
+
+	|85.~  ^Nome~ -- Poesis.
+
+	|89.~  ^Tolosano~ -- Quia Statius fuit de Tolosa regni Frantie.
+
+	|92.~  ^Tebe~ -- Tres civitates fuere vocate Thebe: una in Grecia, 
+altera in Egipto, alia antiquior in Tesalia.  De huius tertie 
+destructione comediam composuit Statius que incipit: <Fraternas acies 
+alternaque regna profanis> et cetera.  ^Achille~ -- Quia composuit 
+librum de vita et strenuitate Achillis.
+
+	|93.~  ^Caddi~ -- Quia non perfecit librum.  ^Soma~ -- Libri 
+^Achilleidos~.
+
+	|97.~  ^Eneida~ -- Comedia composita per Virgilium quam ipse Statius 
+in opere suo secutus est.
+
+	|101.~  ^Un sole~ -- Scilicet annum unum.
+
+	|108.~  ^Vivaci~ -- Quia quanto subtilior intellectus tanto paxibilior.
+

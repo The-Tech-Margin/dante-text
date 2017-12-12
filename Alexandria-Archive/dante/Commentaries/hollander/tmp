@@ -1,0 +1,18 @@
+
+
+      Doc. type  = Description
+ 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+*** Line  12: Input line is too long (79 characters per line,
+maximum).
+*** Line  15: Input line is too long (79 characters per line,
+maximum).
+ 
+Total Verification Errors: 2
+-rw-r--r--   1 dante    dante        582 Jan  7 12:38 staging/desc
+Using descriptive data from ../desc.
+

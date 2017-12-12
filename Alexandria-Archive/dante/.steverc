@@ -1,0 +1,17 @@
+set     path=(~dante/bin ~steve/bin /usr/local/bin /usr/bin /usr/bin/X11 /usr/local/sbin /usr/sbin /1g/BRS/Bin /sbin .)
+set	prompt="dante% "
+
+alias	c	clear
+alias	psax	'ps ax | grep -v init'
+alias	ls	ls -F
+alias	80	'stty columns 80;echo \[\?3l'
+alias	132	'stty columns 132;echo \[\?3h'
+set	filec
+
+alias	steve	/usr/ucb/rlogin localhost -l steve
+unalias	mail
+
+set	ull=/usr/local/lib
+set	ulb=/usr/local/bin
+
+#setenv	EXINIT	`cat ~/.exrc.doc`

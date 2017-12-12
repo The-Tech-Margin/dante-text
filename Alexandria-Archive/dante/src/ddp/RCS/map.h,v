@@ -1,0 +1,46 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @ * @;
+
+
+1.1
+date     88.09.28.10.03.18;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@character mapping tables
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@/*
+ *	Common variables for selecting what kind of terminal we
+ *	should translate escape sequences for.
+ */
+
+/*
+ *	Possible values for termtype
+ */
+#define MAP_NOMAP	-1	/* Initial value - error if used */
+#define MAP_VT200	0
+#define MAP_IBMPC	1
+
+#ifdef	THIS_IS_MAP
+	int termtype = MAP_NOMAP;
+	char *lexinp, *lexoutp;
+	char *terminit(), *termdeinit();
+#else
+extern	int termtype;
+extern	char *lexinp, *lexoutp;
+extern	char *terminit(), *termdeinit();
+#endif
+@

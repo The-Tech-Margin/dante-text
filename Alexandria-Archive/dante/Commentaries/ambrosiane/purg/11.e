@@ -1,0 +1,73 @@
+	|1.~  ^O padre nostro~ -- Invocatio et captatio benivolentie.  ^Celi~ 
+-- Celum sedes est Dei.  Celum celi Domino, terram autem dedit filiis 
+hominum.
+
+	|4.~  ^Laudato~ -- Prima petitio, non quia egeat Deus laudationem ad 
+sui perffectionem sed hominis professionem.
+
+	|7.~  ^Venga~ -- Secunda petitio.
+
+	|10.~  ^Come~ -- Tertia petitio.
+
+	|13.~  ^D@a oggi~ -- Quarta.  Et potest intelligi quo ad animam, in 
+quantum manna intelligitur pro verbo Dei, et quo ad corpus, in quantum 
+intelligitur pro pane cotidiano.
+
+	|16.~  ^Et come noi~ -- Quinta petito, profectiva si inimicis suis 
+remictit orator, vel blasphemativa orantis quia, si non dimictit, orat 
+ut non dimictatur sibi propter illa verba: <E come noi> et cetera.
+
+	|19.~  ^Nostra vert@u~ -- Sexta.
+
+	|19.~  ^S'adona~ -- Cadit propter sensualitatem et fragilitatem 
+humanam.
+
+	|20.~  ^Adversaro~ -- Scilicet dyabolo.
+
+	|21.~  ^Ma libera~ -- Septima petitio generaliter ab omnibus malis 
+supplicans liberari.  Dominus nostrer Ihesus Christus in monte Tabor 
+multa moralia discipulos docuit et inter cetera dixit: <Dum oratis 
+dicite sic: Pater -- scilicet gratia non natura, quia nos adoptivos 
+filios genuit sanguine suo -- noster -- quia non unius sed omnium 
+fidelium pater est --, qui es -- scilicet habitas -- in celis -- idest 
+in sanctis --, santificetur nomen tuum -- scilicet in nobis, quod in se 
+semper est sanctum --, adveniat regnum tuum -- scilicet ut eius regnum 
+nos esse mereamur --.  Fiat voluntas tua sicut in celo -- scilicet per 
+angelos -- et in terra -- scilicet per nos --.  Panem nostrum 
+cotidianum -- idest intellectum fidei et divinorum misteriorum, quibus 
+anima reficitur sicut corpus cibo -- da nobis hodie -- scilicet in hoc 
+seculo --, et dimicte nobis debita nostra -- scilicet peccata -- sicut 
+et nos dimictimus debitoribus nostris -- nota quod si non dimictimus 
+rogamus ut Deus non dimictat nobis, ideo dimictamus --.  Et ne nos 
+inducas in temptationem -- temptat Deus ut probet, temptat dyabolus ut 
+decipiat; ideo hic non rogamus ut non temptemur sed ne inducamur et 
+seducamur --, sed libera nos a malo -- scilicet a dyabolo sive peccato, 
+vel simpliciter et generaliter ab omni nocivo -->.
+
+	|58.~  ^Tosco~ -- Scilicet de Tuscia vel a viru, idest tossico, per 
+similitudinem veneni superbie.
+
+	|79.~  ^Odorisi~ -- Scilicet pictor Eugubinus.
+
+	|81.~  ^Luminare~ -- Scilicet miniare more Parisiensi.
+
+	|95.~  ^Giocto~ -- Florentinus pictor optimus.
+
+	|97.~  ^L'uno~ -- Scilicet dominus Guido de Cavalcantis qui composuit 
+cantilenam amoris que incipit: <Amor>.  ^L'altro~ -- Scilicet domino 
+Guidoni de Guinicellis de Lucta qui composuit cantilenam: <Al cor 
+gentile repara sempre amore>.
+
+	|98.~  ^Nato~ -- De se ipso dicit Dantes.
+
+	|99.~  ^Cacciar@a~ -- Quia ornatius dicet in rima.
+
+	|129.~  ^Demora~ -- In vestibulo purgatorii.
+
+	|136.~  ^L'amico~ -- Cui nomen erat Vigna de Senis.
+
+	|137.~  ^Karlo~ -- Comitis Provincie tunc regentis Apuleam.
+
+	|138.~  ^Tremar~ -- Petendo elemosinam vel quia amputatum fuit sibi 
+caput.  Primum verius apparet in testu.
+

@@ -1,0 +1,26 @@
+Return-Path: Jennifer.Merrill@Dartmouth.EDU
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id JAA12076 for <steve@avalon.dartmouth.edu>; Fri, 21 Jun 1996 09:27:37 -0400
+Received: from vixen.Dartmouth.EDU (vixen.dartmouth.edu [129.170.208.15]) by dartvax.dartmouth.edu (8.7.5.1+DND/8.7.3) with SMTP id JAA03443 for <steve@avalon.Dartmouth.EDU>; Fri, 21 Jun 1996 09:27:38 -0400 (EDT)
+Message-id: <19892005@vixen.Dartmouth.EDU>
+Date: 21 Jun 96 09:27:38 EDT
+From: Jennifer.Merrill@Dartmouth.EDU (Jennifer Merrill)
+Subject: Dante files
+To: steve@avalon.dartmouth.edu (Stephen Campbell)
+
+Steve-
+
+The Dante datafiles should be put into /agate/Dante.  The BRS database goes in
+/moonstone/DANT.  The BRS Work directory remains /ruby, so you can create your
+DDP.? directories there.
+
+The BRS files are in /1g/BRS6.2.  There's an alias /1g/BRS which points to that
+directory.  I've been setting most of my pathnames to the alias to make
+upgrading to the next version require fewer script changes.  Feel free to do
+the same.
+
+You'll also want to make sure that your environment variable BRSConfig is set
+to /usr/lib/brssearch.  The BRS user id 'steve' exists on alexandria.  I didn't
+copy over any of the other dante folks though.  Do you want to do this?  The
+user Files directory is still located in /moonstone.
+
+Jennifer

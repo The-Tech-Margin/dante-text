@@ -1,0 +1,102 @@
+	|Proemio.~  Chomincia la terza parte della canticha overo Chomedia 
+chiamata Paradiso del chiarissimo Dante da fFirenze.  E di questa terza 
+comincia il canto primo.  Nel quale l'altore poi che dimostrato ha 
+quello che vuole inn essa intende di trattare e fatta la sua 
+invochazione discrive chome appresso a Beatricie se ne salisse nel 
+primo cielo e chom'ella gli solvesse un dubbio per lo suo velocie 
+montare venutogli etc.
+
+	Incomincia il primo capitolo di Paradiso di Dante.
+
+	|1-3.~ 
+
+   ^La gloria di cholui che tutto muove~
+   ^per l'universo penetra e risplende~
+   ^in una parte pi@u e meno altrove.~
+
+Questo libro di Paradiso si pu@o dividere in dieci parti principali.  
+La prima parte del suo ascenso dell'altore nel cielo.  La seconda del 
+suo ascienso del cierchio della Luna.  La terza parte nella spera di 
+Merchurio.  Quarta nel cielo di Venere.  Quinta nella spera del Sole.  
+Sexta nel cielo di Marte.  Settima nel cielo di Giove.  Ottava nel 
+cielo di Saturno.  Nona nel fermamento.  Diecima nel primo mobile cio@e 
+Iddio.
+
+	|13-15.~ 
+
+   ^O buono Appollo all'ultimo lavoro~
+   ^fammi del tuo valor s@i fatto vaso~
+   ^chome domanda dar l'amato alloro.~
+
+Per Appollo intendi il sole il quale @e appellato idio di tutte le 
+scienzie e per@o il priegha Dante ch'egli gli faccia s@i fatto vaso di 
+s@e ch'egli possa giugniere a dovere essere incoronato della corona de' 
+poeti cio@e d'alloro.
+
+	|16-18.~ 
+
+   ^Insino a qui l'un giogo di Parnaso~
+   ^assai mi fu ma or con anbo due~
+   ^m'@e uopo entrar nel aringho rimaso.~
+
+La disputazione si @e questa in Grecia a Delfo si @e u[n] monte che 
+antichamente si chiamava monte Parnaso questo monte si avea due chorna 
+cio@e due cholli nell'uno era il tempio d'Appollo e questa cima di 
+monte si chiamava Cirra.  L'altra cima si chiamava Nisa ed eravi su il 
+tempio di Baccho.  Per Appollo si de' intendere la sapienzia e per 
+Baccho lo dio del vino la eloquenzia e ssufficienzia cio@e il sole e 
+diciesi che da tutte le parti si venia a questo monte ad avere 
+risponsione e ciertezza da gli dei di quello che volevano sapere.
+
+	|19-21.~ 
+
+   ^Entra nel petto mio e spira tue~
+   ^s@i chome quando Marsia traesti~
+   ^della vagina delle membra sue.~
+
+La sentenzia di questa istoria si @e Marsia fu u[n] nobile sonatore di 
+stormenti e vantavasi che niuno sonasse meglio di lui e veggiendo e 
+volendo di ci@o fare la pruova venne a disputare con Appollo e 
+ciascheduno mostrava sua virt@u.  Appollo il vinse e per ghastighare 
+Marsia del vanto Appollo il fecie iscorticare.  Di queste Marsie sono 
+piene tutte le citt@a e questi sono choloro che sanno pocho di scienzia 
+e fanno vista co lloro arghuire e gridare di sapere assai e pi@u che 
+gli altri e quando e' venghono a disputare con Appollo cio@e chol savio 
+e scientificho e valente huomo rimane confuso e vinto e spogliato della 
+sua ghuaina cio@e della sua pocha scienzia che hanno cho lloro.
+
+	|37-39.~ 
+
+   ^Surge a' mortali per diverse foci~
+   ^la lucierna del mondo ma da quella~
+   ^che quatro cierchi giugnie con tre croci.~
+
+Cio@e si de' intendere il sole questo @e quando egli @e nel seg.o del 
+montone e a' quatro cierchi cio@e l'orezzonte e cholmo equinoziale e 
+zodiacho.
+
+	|46-48.~ 
+
+   ^Quando Beatricie in sul sinistro fianco~
+   ^vidi rivolta e righuardar nel sole~
+   ^aquila s@i nolli s'affisse unquancho.~
+
+L'aquila ha questa natura ch'ell'ha s@i forte il suo sghuardo ch'ella 
+ghuarda nel sole fisamente e lla sua spera no' gli fa veruna offensione 
+tanto @e il suo isghuardo sottile e fermo.
+
+	|67-69.~ 
+
+   ^Nel suo aspetto tal dentro mi fei~
+   ^qual si fe' Glauco nel ghustar dell'erba~
+   ^che 'l fe' consorto i[n] mar degli altri iddei.~
+
+Per queste parole fingie una bella istoria cio@e Glaucho si era 
+peschatore i[n] mare e peschando un d@i fra gli altri e pigliando del 
+pescie e traendolo della rete e gittandolo in su[l] lito in terra que' 
+pesci pascievano d'un'erba ch'era ivi e chome l'aveano pasciuta subito 
+ritornavano i[n] mare.  E questo veggiendo Glauco mangi@o di quella 
+erba e di presente si gitt@o i[n] mare.  L'alleghoria della storia si 
+@e questa che per l'erba verde si de' intendere la virt@u della 
+scienzia e per lo mare si de' intendere tutte le scienzie hae in s@e e 
+questo basti del primo chapitolo e comincia il secondo.

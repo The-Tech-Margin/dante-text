@@ -1,0 +1,948 @@
+	|1-3.~  Questo greve tuono, che scuote Dante dal sonno, @e
+un tremendo frastuono di confusi lamenti, come pi@u sotto il poeta
+stesso significher@a.  E dice che gli ruppe il sonno |nella testa~
+per indicarne che il cerebro, organo del pensiero, era stato in
+lui affetto da profondo letargo per l'azione di quel baleno
+vermiglio che tra l'esalazioni delle lagrime de' peccatori si era
+sprigionato dalla terra con vento e tremuoto.  E a dimostrare
+quanto forte era quella stupefazione che gli prese la testa, la
+chiama |alto sonno~, e dice che un grave tuono vi bisogn@o per
+romperlo, ond'ei si riscosse, come persona ch'@e desta per forza.
+
+	|2 {Nota Aggiunta}.~  Qui sento la necessit@a d'una nota
+grammaticale, che non ho voluto fare innanzi perch@e intento a pi@u
+serie considerazioni.  Nulla di pi@u saggio che rispettare i
+vecchi codici senza alterarne il minimo pelo delle parti dir@o
+cos@i vitali; ma nulla di pi@u saggio ancora che accomodarli ai
+nostri occhi ed alle nostre orecchie nelle parti meramente
+accidentali che non gli alterano d'un jota: il che principalmente
+@e della ortografia che vuolsi adattare ai tempi.  Cos@i se in un
+libro della veneranda antichit@a trover@o ^philosophia~, ^honore~,
+^otio~; e simili, ristampandolo ai d@i nostri far@o senza il minimo
+scrupolo ^filosofia~, ^onore~, ^ozio~; n@e vi sar@a alcuno che
+voglia perci@o tacciarmi di audace.  Mons. Dionisi, austerissimo
+sacerdote della latria Dantesca, non ebbe ombra di difficolt@a di
+scrivere ^senza~ tutte le volte che nel Poema trov@o ^sanza~,
+com'ei stesso confessa: e lo f@e per non allontanarsi dal <costume
+presente, sebbene dall'antico diverso>.  E cambi@o molte altre
+parole per la stessa ragione; perch@e in luogo di ^apto~, ^dicto~,
+^domna~, ^expresso~, ^temptare~, ^dampnare~, ^el~, e simili, che
+lesse ne' vecchi codici, scrisse <atto, detto, donna, espresso,
+tentare, dannare, ei o il>; e tutti sanno che il troppo e non il
+poco pu@o a lui rimproverarsi nell'osservanza del suo culto.  Or
+dunque quasi dello stesso genere, e senza quasi ancora, @e
+scrivere ^l'Inferno~, ^l'Impero~, in vece di que' malaugurati ^lo
+'Nferno~ ^lo 'Mpero~; e per la stessa ragione creder@o di far
+benissimo di scrivere ^s@i ch'io mi riscossi~, in cambio di quel
+cadenzato ^s@i ch'i' mi ri...~ (ch'io ho trascritto qui intatto,
+perch@e si vegga il bell'effetto di questa specie di nitrito):
+tanto pi@u, che ^io~ scrivono l'edizione Nidobeatina e il codice
+Bartoliniano, quasi da per tutto ove altre edizioni ed altri
+codici hanno ^i'~; e scrivono egualmente ^guardai~, ^temei~, ecc.
+ove gli altri hanno ^guarda'~, ^teme'~, e simili parole
+smozzicate.  Che se alcuno vorr@a pur chiamarmi irriverente, io
+allora gli domander@o, perch@e mai si fosse cangiato dagli
+accademici della Crusca, e con maggior libert@a ancora, l'^et~ de'
+vecchi codici Danteschi in ^e~ o ^ed~, e migliaja di altre cose? 
+Ed a questo proposito dichiaro che ho stimato atto di giustizia
+di rendere a Dante quel ch'@e suo, e che gli @e stato in molti
+luoghi audacemente rubato e guasto, cio@e la bella armonia di ben
+congegnata versificazione.  Si @e voluto mettere in ortografia
+moderna la vecchia del trecento, e ci@o va bene; ma spesso ci@o mal
+facendosi vennero storpiati i pi@u bei versi, e ci@o va pessimo. 
+Mi spiegher@o.  Dante, come tutti gli autori del suo tempo
+scriveva & in vece di ^e~: io non so se pronunziassero allora
+sempre &, anche innanzi alle consonanti; ma innanzi alle vocali
+lo pronunziavano sicuramente; dal che con picciola alterazione @e
+nato poi il nostro ^ed.~  Or nel sostituirsi l'^e~ all'& @e
+avvenuto, che se ci@o si @e fatto innanzi alla consonante il verso
+ha seguitato ad andar bene; ma se si @e fatto innanzi alla vocale
+il verso @e andato male malissimo.  Eccone un es. che tolgo dalla
+prima terz. che in una vecchia edizione mi si presenta innanzi:
+^Et questo ti fia sempre piombo ai piedi Per farti muover lento,
+come huom lasso, Et al s@i & al no, che tu non vedi~ {^Pd~ XIII
+112-114}.  Mettendo ^E~ in vece di ^Et~ nulla l'armonia ne soffre
+nel primo verso; ma nel terzo ne nasce un tale incontro di mal
+appoggiate vocali che nel pronunziarle ti senti proprio
+assassinar le orecchie.  Chi pu@o soffrire quel ^E al s@i, e al no~
+che si legge in tutte le non vecchie edizioni?  E che domin di
+orecchie avean que' benedetti parrucconi che fecer questo
+cambiamento, anzi questo insulto all'umano sensorio!  E non
+avrebber meritato che il padre Apollo, per vendicar Dante, lor
+facesse quella cotale stiratura, che f@e a Mida?  Ma quel ch'@e da
+ridere si @e che in alcuni luoghi, e in molti ancora, han posto
+^ed~ come, ^Ed ecco quasi al cominciar dell'erta~; ^Ed egli a
+me~; ^Ed una Lupa~; ^Ed Ettore ed Enea~, ecc. ed in molti altri
+non l'han posto.  Or io vorrei sapere questo arcanissimo perch@e. 
+Cento volte s@i, e cento altre no!  Io trovo essere oltraggio al
+nostro classico il lasciare ^E al s@i e al no~, che non @e poi suo;
+e giusto culto il fare ^Ed al s@i ed al no~ @e quasi suo.  Dunque o
+si renda a Dante il suo &, o si cambi in un bell'^ed~, come ho
+fatto io, per accomodarmi alla comune ortografia, ed a quella che
+dalla Crusca stessa fu adottata.  Altrimenti s'ei vivesse avrebbe
+tutto il dritto di fare a noi, ed a tutto il grave collegio
+Fiorentino quel che fece una volta ad un fabbro ed un'altra ad un
+contadino che guastavano i versi suoi.  Il cammino che abbiamo a
+fare @e gi@a troppo per s@e difficile, e non @e d'uopo renderlo
+ancora rincrescevole con ^lo 'Nferno~, con ^s@i ch'i' mi ri...~ e
+simili ruggini dell'anticaglia; e con ^E al s@i e al no~, che non
+@e n@e dell'anticaglia n@e di Dante.  A che mettere queste pietruzze
+d'inciampo innanzi al lettore, le quali, per minime che sieno,
+offrono sempre un qualche ritardo e non poca noja?  Su troppo
+belle e buone cose abbiamo a richiamare la sua attenzione, e mal
+saria divergerla con tali spiacevoli inezie, da alcuni pochi
+adorate, senza che sappian perch@e, ma dai pi@u derise, a ragion
+veduta.  Troppo, ahi! troppo queste miserabili quisquilie, con lo
+ingojare quasi tutta l'attenzion degli spositori, han contribuito
+a lasciar il poema all'oscuro; e guai se non v'@e qualche
+coraggioso che le valuti per quel che valgono.  Culto e non
+superstizione; rispetto pi@u a Dante armonico che alla Crusca,
+guastatrice dell'armonia di Dante.
+
+	|4-6.~  Quel |riposato~, se si vuol rapportare ad
+|occhio~, pu@o spiegarsi che si era questo riposato dal vedere le
+sgradevoli cose finora osservate: ma a me piace rapportarlo a
+|mossi~, qual aggettivo usato in forza d'avverbio, come |fiso~
+ch'@e dopo: e vale ^posatamente~: ed esprime quel lento sguardo di
+attenzione che il poeta si volse intorno nel trovarsi in un luogo
+ove non credea essere: poich@e si addorment@o sulla riva esterna di
+Acheronte, ed ora si vede con sua sorpresa nella interna.
+
+	|7-9.~  Ecco il ^tuono~ che svegli@o Dante come per forza,
+^tuono d'infiniti lamenti~ (|guai~), che usciva dalla ^dolorosa
+voragine~ (|valle~).  E lo chiama ^tuono~, per esprimere che in
+quella profondissima concavit@a talmente quel commisto suono di
+dolenti voci rimbombava che nel ribalzar per eco sembrava un
+tuono.  Dante si desta e si trova sull'orlo del vasto baratro; e
+con quel |vero @e~ vuol esprimere: io non so come ci@o avvenisse,
+ma pur @e vero.
+
+	{Nota Aggiunta}. |Vero @e che in su la proda mi
+trovai Della valle d'Abisso dolorosa~: Ma chi ha trasportato
+Dante all'altra riva d'Acheronte?  Se vogliamo attenerci ad una
+probabilit@a che confini con la certezza, e che in appresso come
+certezza dimostrer@o, diremo ch'@e stato Virgilio stesso; il quale
+altre fiate lo terr@a stretto al petto, e lo porter@a da un luogo
+ad un altro.  Se l'ha fatto tre volte, non veggo perch@e non
+potesse farlo quattro.  Ma per qual mezzo Virgilio ha passato il
+fiume, senza entrare nella barca di Caronte?  Ei stesso altrove
+lo significher@a, quando parlando di Dante ci dir@a ^Che non @e
+spirto che per l'aere vada~ {^If~ XII 96}: dunque egli ch'@e
+spirito potea andare per l'aria, e quindi ha potuto trasportar
+Dante.  E l'allegoria @e giusta: La Filosofia politica ha portato
+il suo seguace a meditare su gli effetti della societ@a viziosa e
+disordinata.  Ombra leggiera e non peccatrice (ch@e tal @e Virgilio
+come vedemmo) ha sorvolato sull'onde tenendosi Dante in braccio. 
+Questo @e il mezzo che mi sembra fra i mille il pi@u naturale,
+senza ricorrere ad angeli e misterj, come altri han fatto.  Che
+se poi vogliam considerare questo viaggio come una visione, la
+cosa @e pi@u facile a spiegarsi.  Ma come visione, se Dante dice di
+essersi svegliato, e se dir@a di aver viaggiato con tutto il suo
+mortale incarco?  E non pot@e nella visione stessa sognare di
+essersi desto, e di essere nell'Inferno andato in carne ed ossa? 
+Non una ma dieci volte ho sognato io medesimo di essermi
+svegliato da un sonno, e di andare con queste mie membra che ora
+mi palpo.  Ed ognun che sogna crede essere sempre col suo corpo e
+non fuori di esso, e crede spesso di camminare, di urtare, di
+cadere, e via discorrendo.  Cos@i ha potuto esser di Dante.  Ma
+intorno a ci@o dir@o cosa pi@u solida e pi@u speciosa altrove.
+
+	|13-15.~  Per discendere ed introdursi nella voragine
+bisogna supporre de' gradini scavati nella pietra, come quelli
+che dai vomitorj portano gi@u agli scaglioni circolari d'un
+anfiteatro, il quale, guardato dall'alto verso l'arena, presenta
+quasi la forma dell'Inferno Dantesco.  Quel |tutto smorto~ con
+|incominci@o~, che indica animo perturbato, @e ben accoppiato
+insieme.  Virgilio @e qui chiamato |poeta~ non solo perch@e si
+accosta al luogo ov'@e riconosciuto ed onorato per tale (come or
+vedremo), ma anche per altro motivo ch'esporremo a miglior tempo.
+
+	|19-21.~  Nel primo cerchio ove i poeti si apprestano a
+discendere non vi son peccatori, ma bens@i le anime che non ebbero
+altra colpa se non quella di non aver avuto battesimo; ed @e ben
+naturale che Virgilio, il quale era del numer'uno, dovesse
+sentire piet@a di coloro che avean la stessa sua sorte: ^Non
+ignara mali miseris succurrere disco~, aveva egli cantato.
+
+	|22-24.~  Cio@e, Andiamo; ch@e il sapere esser lunga la via
+ci dee esser di stimolo ad affrettarci.  Ed eccoli discesi ed
+entrati nel primo circolar ripiano inferiore che cinge la immensa
+voragine infernale.
+
+	|25-27.  Aura~: @e in luogo di ^aria~; e si serve di tal vocabolo
+per fare intendere che quei sospiri agitavano l'aria di modo
+che la rendevano aura.  |Pianto~ @e in senso di ^espression di
+dolore.~  |Ma che~ @e sincope del ^magis quam~ Lat. (che gli
+Spagnuoli tradussero per ^mas que~): cos@i, ^egli non ha ma che
+uno~, o sia ^pi@u che uno~: Cento novelle.  |Secondo che per
+ascoltare~ significa ^secondo quello che potei comprendere,
+limitandomi al solo ascoltare~; poich@e, in quella oscurit@a, la
+vista ^non discernea veruna cosa.~  Ci@o posto, ecco il senso
+della terzina:
+
+	|28-30.~  Che Dante abbia inteso dividere queste molte e
+numerose turbe per sessi e per et@a, apparir@a meglio in appresso. 
+Egli era simmetrico nelle sue concezioni quanto mai pu@o essersi;
+ed allorch@e ti sembra disordinato, guarda bene, e vedrai arte
+sopraffina: avremo occasione di osservarlo al termine del canto.
+
+	|31-32.~  Bench@e Dante abbia riconosciuto che il suo
+^maestro cortese~ non era infastidito del suo frequente
+domandare, pure sente che non @e in lui del tutto svanita quella
+timidezza che da falso giudizio deriv@o: onde reprimendo la sua
+curiosit@a si astiene dal pi@u richiedere.  Il suo ^buon maestro~
+che se ne accorge, per dileguare in lui quel residuo di
+suggezione, lo instiga a domandare.  Vedemmo che ci@o vale a
+siginificare che Virgilio, nel parlar di spiriti, fa cosa che va
+fuori del suo officio.  Quantunque si sia detto sopra che in
+quella ^oscura valle non si discernea veruna cosa~, pure ci@o non
+@e in contradizione che or gli spiriti si veggano: poich@e prima i
+due osservatori eran sopra, ed ora sono al basso; e le cose
+vicine, per poco che sia il fioco lume, si ravvisano pi@u delle
+lontane al lume stesso.  E poi chi scende in ^valle nebulosa~, un
+momento dopo vi si assuef@a, e vede meglio: Onde Virgilio, che
+addita a Dante quegli spiriti, soggiunge:
+
+	|33-36.~  Quel ^vo' che sappi ch'ei non, peccaro~, detto
+cos@i imperativamente, @e di molto peso.  Virgilio vuol con ci@o
+escluder s@e stesso dal numero de' peccatori, poich@e a questo
+cerchio egli appartiene.  Un altro ^vo' che sappi~, anche pi@u
+significante incontreremo di qua a poco.  Ecco perch@e s'impallid@i
+nell'accostarsi a questo cerchio.  ^Janua sacramentorum~ fu detto
+il battesimo; e Dante lo chiama anche meglio |porta della Fede~ o
+sia della Religione; e tutto d@i diciamo ^Fede Cristiana~ in senso
+di Cristian Religione: cos@i Tasso: <L@a nella bella Italia, ov'@e
+la sede Dell'onor vero e della vera Fede, Guerrier di Dio, ch'a
+ristorare i danni Della sua Fede il Re del Cielo elesse>, ecc.  E
+il |battesimo~, in questo senso, @e la vera |porta~ per la quale
+nella nostra religione si entra.
+
+	|33 {Nota Aggiunta}: innanzi che pi@u andi~: Il verbo
+^andare~, o era tutto regolare anticamente, o era meno irregolare
+di ora: essendosi detto dai nostri vecchi, ^io ando, tu andi~,
+ecc.  Ma il verbo latino ^vadere~, nel prepotente uso, ha
+discacciate alcune voci di quel verbo, e vi ha sostituite le sue. 
+Cos@i si dice, ^io vo, tu vai~, ecc. da ^vadere~; e ^noi andiamo,
+voi andate~, ecc. da ^andare~; di modo che di due verbi
+competitori si @e fatto un verbo amico ad unico.
+
+	|40-42.~  <Il desir vive e la speranza @e morta> ^Petr.~ 
+Dice |difetti~ plur. perch@e eran due: difetto di retto culto,
+prima di Cristo; e difetto di battesimo, dopo.
+
+	{Nota Aggiunta}: |Per tai difetti, e non per altro
+rio, Semo perduti~: |Rio~ nella vecchia lingua significa talvolta
+^colpa~, ^peccato~, lo so: ma io credo che in questo luogo sia un
+aggiunto di ^difetto~; e vuol dire ^difetto colpevole~; poich@e se
+Dante avesse voluto usarlo come sostantivo non avrebbe scritto
+|altro rio~, ma ^alcun rio~: quell'|altro~ suppone ^difetto.~  Il
+poeta ha voluto esprimere che il vizio non @e se non una criminosa
+mancanza della virt@u contraria; cos@i p. e. la lascivia @e ^difetto
+rio~ di castit@a.
+
+	|43-46.~  Attenti a questo passo, perch@e per esso
+comprenderemo cosa che non fu mai capita.  Quell'|intesi~ ha un
+gran significato: esso non vuol gi@a dire ^quando lo udii~, ma
+bens@i ^quando compresi che cosa volesse dirmi~; e verr@a usato
+poco pi@u sotto anche nello stesso senso; e due altre volte nel
+canto seguente: ed @e simile agli altri de' due precedenti, che
+furono oggetti di nostre considerazioni.  Il |quando intesi~ di
+questo passo mi fa credere ci@o: Dante, avendo ascoltato da
+Virgilio che quelli che l@a erano, bench@e gente di molti meriti e
+di molto valore, pure s@i eran perduti per non retta credenza, va
+esaminando col pensiero le sue credenze proprie, e ne trova una
+che gli @e molto sospetta; per cui |Gran duol [gli] prese al cuor
+quando lo intese~ (preterito d'^intendere~), cio@e quando penetr@o
+col suo intendimento che mai il suo maestro volesse dirgli.  E
+siccome Virgilio si proponea di significargli cosa di grande
+importanza, riguardo a quelle anime, cos@i gli disse fin da
+principio: Come va che ^tu non dimandi che spiriti son questi che
+tu vedi?~, quasi che si accorgesse che Dante temea domandare
+intorno a quello che formava la colpa sua.  Ma siccome gli premea
+di allontanar da lui un errore funesto gli disse spontaneamente:
+Voglio che sappi che questi spiriti lungi dall'esser peccatori
+furono anzi meritevoli, ma si perdettero perch@e non adorarono
+Iddio debitamente.  E con ci@o dir gli volle: Se tu speri di
+salvarti per mezzo di meriti, tu t'inganni; perch@e se non adori
+debitamente Dio, con allontanare da te ogni errore, ti accader@a
+quel ch'@e accaduto a costoro.  E questo segreto discorso tenuto
+da Virgilio f@e che Dante lo chiamasse ^buon maestro.~  Ma qual
+potea essere la credenza erronea di Dante?  Ce la dica ei stesso:
+<Nemo, quantumcunque moralibus et intellectualibus virtutibus et
+secundum habitum, et secundum operationem perfectus, absque fide
+salvari potest...  Hoc ratio humana per se justum intueri non
+potest> ~De Monarch.~  E quindi, credendo ci@o ingiusto, ei dovea
+credere per conseguenza che tutti gli uomini virtuosi, quantunque
+non battezzati, e quantunque non patriarchi, fossero usciti dal
+Limbo con Cristo vincitore ed andati con lui nel Cielo.  Questa @e
+la credenza che lo teneva in ansiet@a: per cui ^comincer@a~ (verbo
+che indica perturbazione) a domandare al suo |Maestro~ e
+|Signore~ (e a domandarglielo con un doppio rincalzante |dimmi~
+calorosissimo, che mostra tutta la premura da cui @e animato) di
+esser fatto certo intorno a quella fede che dissipa e vince ogni
+errore: onde nel succitato passo conchiude, <Hoc ratio humana per
+se justum intueri non potest, fide autem adjuta potest>.
+
+	|49-50.  Per suo merto, o per altrui~: vuol dire, o per
+merito proprio, o per quello di G. C.  Ma non osa proferire quel
+santo nome innanzi a Virgilio ch'era un gentile.
+
+	|52-63.~  Virgilio, ch'era morto alcuni anni prima di
+Cristo, racconta tutto quello ch'egli avea nel Limbo veduto
+quando Cristo vi scese; e istruendo Dante, parla da ^Maestro~; e
+poi, preso il tuono di ^Signore~, soggiunge: |vuo' che sappi~
+{62} che prima de' Patriarchi nessuno si era mai salvato, cio@e
+che pria ch'essi salissero nel Cielo, per effetto della
+redenzione, tutti coloro ch'eran nati in falso culto andavan
+perduti.  E con quell'assoluto |vo' che sappi~ non solo cerca
+allontanare la falsa credenza di Dante, ma gli comanda di
+crederlo giusto e sventurato: quasi dicesse: io non ho potuto
+salvarmi, perch@e ho avuta la doppia sciagura di non esser n@e
+Patriarca n@e Cristiano, perch@e nacqui in falso culto, e pria che
+Cristo venisse.  Era cos@i forte questo dubbio di Dante che sembra
+averlo accompagnato sino alla vecchiaja; per cui nella traduzione
+del Credo, ch'ei f@e molto tardi, conforta s@e stesso a non credere
+altrimenti: ei parla del Redentore, e dice: <Poi discese al
+profondo dell'Abisso D'Inferno tenebroso, per cavarne Gli antichi
+padri ch'ebbono il cuor fisso Ad aspettar che Dio prendesse carne
+Umana, per lor trar dalla prigione, E per sua passion tutti
+salvarne.  E certo chi con buona opinione Perfettamente, e con
+sincera fede, Crede @e salvato per sua passione.  Chi altrimenti
+vacillando crede Eretico e nemico di s@e stesso L'anima perde che
+non se ne avvede>.
+
+	|65-66.~  Ha voluto esprimere con questa formola non solo
+la moltitudine affollata di quegli spiriti, come alberi di una
+selva, ma un senso allegorico che vedremo.
+
+	|73-75.~  Nel dire, ^o tu che onori ogni scienza ed arte,
+dimmi chi son questi~, fa scorgere di essersi accorto che coloro
+erano stati coltivatori di scienze ed arti.  Non @e difficile il
+comprendere perch@e la Filosofia politica, la quale @e intenta a
+promuovere il bene degli stati, onori ogni scienza ed arte. 
+Dante non si accordava con que' moderni sapientissimi i quali
+sostengono che la ignoranza giovi al bene dei popoli.
+
+	|86-88 {Nota Aggiunta}: Mira colui con quella spada in
+mano Che vien dinanzi ai tre s@i come Sire: Quegli @e Omero, poeta
+sovrano~: Chi sa che Dante non conoscesse quel basso rilievo
+antico dell'apoteosi di Omero (marmo posseduto da Casa Colonna),
+in cui una figura con la spada in mano @e simbolo delle cantate
+battaglie?  Altissima era l'idea ch'egli avea di quel cieco che
+tutto vide; e non solo qui lo chiama |Poeta Sovrano~ che |come
+Sire~ va dinanzi agli altri, ma altrove lo appella ^Primo pittor
+delle memorie antiche, Cui le Muse lattar pi@u ch'altri mai.~  E
+se la continuazione dell'allegoria lo ha costretto a pendere pi@u
+verso Virgilio che verso Omero, ei lo f@e di modo che lasci@o quasi
+nascosto il suo intendimento.  E dovea per verit@a simpatizzar pi@u
+col Greco che col Latino.  Ingegnoso quanto vero @e il paragone
+che il Ginguen$e fa tra Omero e Dante; e gradevole fia forse il
+ripeterne qualche tratto con le parole di un moderno editore. 
+<Si direbbe che Apollo venne due volte fra gli uomini, una ai
+tempi di Omero per crear l'arti e le scienze, e l'altra ai tempi
+di Dante per farle risorgere.  Scelsero egualmente i due poeti
+quell'unico argomento che ai lor contemporanei si conveniva;
+s'impadronirono entrambi di tutte le opinioni dominanti del
+secolo, le riguardarono come cosa propria, ne fecero la materia
+del loro lavoro, e ne innalzarono un edificio poetico affatto
+nuovo, eminente, e perfetto in tutte le sue parti.  Il genere @e
+diverso perch@e erano diversi i costumi, il governo, e la
+religione dei popoli; ma scelse il nostro poeta, dice Parini,
+`l'argomento pi@u forte e pi@u sublime che a scrittore ed a poeta
+Cristiano potesse convenirsi giammai'.  Cos@i, bench@e di diverso
+genere, abbondano egualmente questi due primi maestri di grandi
+immagini, d'alte e profonde sentenze, di descrizioni e pitture
+vivissime, di gran caratteri, e di drammatiche scene.  Il
+^quandoque dormitat~ ad ambedue appartiene; ma quando son desti
+volan com'aquila, e signoreggian sopra gli altri.  Un'altra
+somiglianza fral poeta Greco e l'Italiano @e la vita infelice:
+sommi uomini, somme sventure.  Si racconta di Omero che andava
+errando e mendicando per la Grecia; e l'ingiuriosa Fortuna, dopo
+aver contrastato ostilmente a tutte le pi@u nobili affezioni di
+Dante, lo condann@o alla medesima pena.  Egli amava la giustizia e
+la verit@a, e le vedeva calpestate dalla frode e dalla violenza. 
+Amava la religione, dono divino concesso per render miti i
+costumi e preparare e sostener le leggi; e la vedeva in preda al
+cieco fanatismo e a quelle tante pratiche superstiziose, `le
+quali (al dir dello stesso Parini) sono l'unico asilo ed il solo
+conforto delle anime crudeli e delle malvage conscienze'.  Amava
+l'Italia, e la vedeva divisa da governi rivali, straziata, e
+insanguinata dalle fazioni.  Amava Fiorenza, per la quale sud@o e
+come guerriero e come magistrato; e si vide da Fiorenza appunto
+cacciato in esilio, strappato dalle braccia de' suoi pi@u cari,
+spogliato dei beni paterni, e costretto ad errar senza pace in
+cerca di pane>.  Ma forse dobbiamo alle sue sventure l'incremento
+e lo sviluppo del suo ingegno: e ben disse Bayle: <A cagione del
+suo esilio egli scrisse con pi@u vigore e spirito di quel che
+avrebbe fatto se avesse goduto d'una vita tranquilla:
+l'indignazione di@e nuova vita alla sua immaginazione>: la bile
+gli serv@i di Musa, aggiungerebbe Giovenale.
+
+	|88-90.~  ^Tristia bella Quo scribi possent numero
+monstravit Homerus~, scrisse Orazio satiro; e ^Satirus pro eo qui
+satiram scribit~ fu detto per testimonianza del Perotti e di
+Roberto Stefano: onde, nel ^Convito~, Giovenale @e chiamato
+<Satiro nobile>, a cagione del magnifico stile di cui f@e uso.  I
+quattro poeti sono in ordine cronologico, ed hanno tutti una
+qualche relazione con l'altissimo poeta che vengono ad
+incontrare: Omero fu quasi suo padre, Orazio fu suo amico, Ovidio
+suo contemporaneo, e Lucano suo seguace; onde vennero prescelti
+dalla onorevole loro adunanza per venirgli incontro.
+
+	|91-93.  Voce sola~ per voce unanime: ^Vox diversa sonat,
+populorum est vox tamen una~, Marziale.  Dante volle dire non
+solo che tutti, ^una voce dicentes~, convenivano nel riconoscere
+il suo maestro per ^altissimo poeta~, e perci@o tutti l'onoravano;
+ma volle esprimere anche un'allegoria che vedremo.  <Pi@u lecito
+n@e pi@u cortese modo di fare a s@e medesimo onore non @e che onorare
+l'amico: dovunque amist@a si vede similitudine s'intende; e
+dovunque similitudine s'intende corre comune la loda>, ^Convito.~
+
+	|94-96.~  Sembra che chiami scuola di Omero questa
+gravissima adunanza de' quattro maggiori Latini; perch@e essi
+furono, chi pi@u chi meno, imitatori di quel sommo padre de' vati:
+e dice |altissimo~ il suo |canto~, perch@e @e il canto dello stile
+epico, ch'ei stesso, il nostro Italico Omero, distingue col nome
+di tragico.  Vi @e per@o chi pretende che una tal |bella scuola~
+debba intendersi per scuola di Virgilio, che i quattro vennero ad
+incontrar per onorarlo; in fatti, ^altissimo poeta~ vien egli
+sopra salutato, e |signore dell'altissimo canto~ @e detto il capo
+di questa scuola.  Quando esporremo l'allegoria apparir@a che chi
+ha cos@i giudicato si @e assai bene apposto.
+
+	|97-99.~  Questa terzina @e veramente grafica.  Quel
+ragionare insieme delle cinque grandi ombre dipinge l'interrogare
+che i quattro fecero a Virgilio in disparte, per sapere chi fosse
+quel nuovo arrivato; e quel ^volgersi~ a Dante |con salutevol
+cenno~ mostra che aveano avuta soddisfacente informazione: e quel
+|di tanto~ fa sentire tutto il peso di quel saluto, fatto da
+gente che ha ^cotanta orranza~; di che Virgilio compiaciuto
+sorrise, perch@e l'onore fatto al discepolo riverbera sul maestro.
+
+	|100-102.~  Que' due |s@i~, che ho cambiato in due
+^talmente~, valgono a mostrare sino a qual punto lo avesser fatto
+della loro schiera.  ^Sume superbiam quaesitam meritis~, Oraz: n@e
+molta ne avrebbe presa Dante nel porsi sesto fra i cinque; de'
+quali colui solo che ha la spada in mano pu@o seco lui far
+battaglia del primato.  Ma pur egli tutt'altro ha voluto
+esprimere: e 'l vedremo.
+
+	|102 {Nota Finale}.~  Qui possiamo assolver Dante da una
+taccia di vanit@a che gli fu data a torto.  Nel dire ch'|ei fu
+sesto fra cotanto senno~, altro non volle esprimere se non che
+avea, come quegli altri vati, dati anch'egli de' precetti per
+regolar la vita: ond'@e che scrisse |fra cotanto senno~, e non gi@a
+fra cotanto ingegno.
+
+	|103-105.~  Dicendo ch'era bello il parlar di quelle cose
+|col@a dov'era~, dice implicitamente che parlavano delle cose di
+quel cerchio stesso; ed @e naturale che le cinque grandi ombre,
+abitatrici di quel luogo, informassero il loro ben accolto ospite
+di tutto ci@o che a quel sito di lor dimora appartenesse.  Ma che
+gli dissero?  Gli spiegarono probabilmente quelle allegorie che a
+lui parve bello il tacere: ^Tacciolo, acciocch@e tu per te ne
+cerchi~ {^Pg~ XVII 139}; ^Messo t'ho innanzi, omai per te ti
+ciba~ {^Pd~ X 25}; ci dir@a altrove; e cos@i fa spessissimo.  Ma
+non so perch@e cercate e ricercate non furono indovinate giammai. 
+La divisione sinor fatta di questo Limbo @e la seguente.  Varie
+turbe ripartite per sessi ed et@a, sparse di qua e di l@a pel
+cerchio: e i poeti raccolti tutti in un luogo.  Nel sito dov'essi
+sono v'@e un fuoco che spande intorno un lume, il quale vince un
+grand'emisfero di tenebre.  Or chi non vede nella luce di quel
+fuoco, ch'esso @e quello stesso che la mano di Prometeo infuse
+nell'anima de' poeti pi@u che in tutte le altre?  Quel fuoco
+nobilissimo, detto dai Francesi ^feu du g$enie~, per cui Omero e
+gli altri quattro sparsero tanta luce sulla terra, e con cui il
+nostro altissimo Ghibellino dirad@o le ombre della barbarie, che
+si addensavano sul suo secolo e sull'Europa?  Ombre di barbarie
+figurate in quell'emisferio di tenebre che il lume di quel fuoco
+vince: poich@e i poeti son sempre quelli che vibrano i primi raggi
+fra la caligine densa della societ@a nascente, e ne preparano cos@i
+la civilt@a e lo splendore: per cui lasciarono cos@i ^onorata
+nominanza~ in questa vita che il Cielo li ricompensa con
+distinguerli da tutti gli altri, onde meno soffrendo ^hanno
+sembianza n@e trista n@e lieta~ {84}.  Ma non sono queste le sole
+allegorie che que' gran vati, preseduti dal sommo Omero, ubertoso
+fonte di tutta la diramata allegoria mitologica, spiegarono a
+Dante |col@a dov'era.~  Altro gli dissero <siccome pu@o vedere un
+nobile ingegno, al quale @e bello un poco di fatica lasciare>,
+^Convito~: e noi c'industrieremo di meritare un tal titolo.
+
+	|106-111.~  Dentro questo castello stanno guerrieri e
+dominatori virtuosi, e filosofi insigni.  Seguiamo a spiegare le
+allegorie.  Sappiamo che la parola ^Virtus~ significa ^forza
+d'animo~; sappiamo che nel ^Convito~ le scienze vengono divise in
+sette, dette del ^trivio~ e del ^quadrivio~; sappiamo che altri
+distinguono le virt@u anche in sette, quattro morali e tre
+speculative.  Dunque il castello @e la virt@u in generale: che cosa
+pi@u nobile della virt@u?  Quindi @e |nobile~ il |castello.~  Le 7
+mura son le 7 virt@u parziali, che presentano quasi il complesso,
+l'estensione e il circuito della virt@u in generale: che cosa pi@u
+alta di esse?  e quindi |alte~ son quelle |mura~, che cerchiano
+sette volte il castello.  Nelle 7 porte ravviseremo le 7 nominate
+scienze, le quali possono considerarsi come tante porte che
+introducono l'uomo all'acquisto della virt@u, acciocch@e vi si
+fortifichi.  La virt@u conduce alla vera gloria nella quale sempre
+vegeta e fresca l'uomo virtuoso quasi posa e vive: ecco il |prato
+di fresca verdura~, ch'@e nell'interno del castello, ove posano e
+vivono magnanimi guerrieri, giusti dominatori, e sommi sapienti,
+e il quale ci ricorda l'^amoena vireta~ dell'Elisio Virgiliano. 
+Resta a parlare del |bel fiumicello~ che difende il castello, e
+il quale vien passato da Dante in compagnia de' Savj, |come terra
+dura~, onde varcar le porte, entrar nel castello, e giunger nel
+prato di fresca verdura.  Esso @e figura dell'Educazione, la quale
+@e la pi@u bell'opera dell'uomo, e quasi lo inaffia come pianta
+crescente, ^secus decursus aquarum quae fructificat in tempore
+suo~, come Dante medesimo con le parole della Bibbia ci ricorda
+nel libro ^de Mon.~  Essa non pu@o ottenersi che passando la pi@u
+bella et@a, fuggevole come rapid'onda, in compagnia de' Savj che
+ci conducono all'acquisto delle scienze e della virt@u.  Essa
+dev'esser solida e ferma, acciocch@e l'uomo, malgrado la labile
+et@a che varca, vi si fondi come su stabile base, e non vacilli
+ne' suoi passi: cos@i, quand'essa @e per buoni abiti confermata,
+divien quasi un fiume di difesa alla virt@u acquistata.  Ma essa @e
+un mezzo e non un fine: non dee perci@o in essa l'uomo arrestarsi,
+ma passare prima alle mentali esercitazioni, e poi alle morali
+azioni: di modo che, attraversato con pi@e fermo il corso della
+educazione, si diriga prima alle varie scienze, onde acquisti le
+parziali virt@u: per tal mezzo, fortificato nella virt@u in
+generale, egli poser@a in una gloria perenne.  <Ciascuno desidera
+avere virt@u per avere beatitudine, cio@e l'onore e la gloria
+ch'esce dalle virtudi>, ^Tesoro~, lib. vi, cap. 2.  N@e questo @e
+tutto: altra allegoria pi@u profonda, che nelle ^Riflessioni~
+esporr@o, dee ricercarsi nel processo del canto intiero.  E queste
+mi pajono le cose che quegl'ingegnosi padri dell'allegoria
+dissero probabilmente a Dante ^col@a dov'era.~
+
+	|112-114.~  Bei versi!  Quegli |occhi tardi e gravi~
+presentano l'idea della pacatezza de' saggi, e fan sentire la lor
+dignit@a: ^oculi animi indices.~  Quel ^parlar rado~ @e il parlar
+de' prudenti: <L'Apostolo dice, sii tosto ad udire, e tardo a
+parlare>, ^Tesoro.~  E quelle |voci soavi~ dicono eloquenza e
+persuasione: Suadela era la Dea dell'eloquenza: <In due luoghi
+respira l'anima, cio@e negli occhi e nella bocca>, ^Convito.~  Gli
+occhi son massimamente pel nostro poeta il simbolo della
+intelligenza; e ben lunga dimostrazione cen faranno gli occhi di
+Beatrice per tutto il Paradiso.
+
+	|115-117.~  Si noti l'ingegnoso mezzo che prende il poeta
+per presentarne i varj gruppi che son sul prato.  Sale in un
+rialto luminoso ed aperto per averli tutti sotto lo sguardo: e le
+sue guide vanno per informarlo.
+
+	|118-120.~  Dice che gli |furono mostrati gli spiriti
+magni~, per significare che fra i gruppi che vedea, di molti e
+molti spiriti composti, gli furono mostrati i pi@u cospicui che
+soli nomina.  Il |verde smalto~ @e espressione imitata da molti
+poeti posteriori, ma nessuno sen valse cos@i bene come Dante,
+perch@e nello |smalto~, che d@a l'idea di lunga durata, viene
+adombrata quella della gloria che deriva dalla virt@u.
+
+	|119-120 {Nota Finale}.~  E quando poi disse che gli
+furono dalle sue guide |mostrati gli spiriti magni~, ei volle
+significare che da saggi maestri gli vennero additati esempj di
+imitare ne' prischi eroi e sapienti; i quali esempj, avendo
+colpita la sua immaginazione sino al punto di vederli entro s@e
+stesso sempre presenti, valeano a sublimarlo ed esaltarlo: e
+perci@o soggiunse |Che di vederli in me stesso n'esalto~: onde non
+posso accordarmi con coloro che all'|esalto~ vogliono dare il
+senso di ^esulto~, che mai non ebbe, e non dee avere.
+
+	|121.~  Presentando per prima figura, Elettra (moglie di
+Corito Re d'Italia e madre di Dardano Re di Troja) come ceppo di
+quella discendenza volle fare un cenno ch'Enea nel venirsi a
+stabilire nel Lazio vantava quasi un dritto di eredit@a; come
+chiaramente dice nel libro ^de Monarchi#a~; e con ci@o dava un
+dritto di eredit@a a Cesare stesso, ch'essendo della famiglia
+^Julia~ si dicea disceso da ^Julo~, figlio d'Enea.
+
+	|123.~  Molti han pure spiegato |Cesare armato~, ma non
+dissero perch@e fosse armato.  Certuno poi, scornando tutti gli
+altri di avere inteso che <il poeta dipingesse quell'eroe con la
+corazza in dosso, con l'elmo in testa, e con la spada al fianco>,
+grid@o che <avean fatto un bello scappuccio>: e spieg@o ch'era
+|armato con occhi grifagni~, cio@e armato d'occhi.  Il poeta lo
+pose armato per indicare con qual mezzo acquist@o l'Impero: <Et
+jam manifestum est, quod per duellum Romanus populus acquisivit
+Imperium; ergo de jure acquisivit>, ^De Mon.~ lib. II.  Stabilir@a
+altrove che il Sacerdozio debba regolare il morale, e l'Impero il
+politico delle nazioni: ma il politico non sostenuto dalla forza
+presto cade, e questa forza non pu@o appartenere che al solo capo
+supremo dello stato; e quindi Cesare fra tanti @e il solo che vada
+armato.  Dante con ci@o volle negare la forza pubblica ad ogni
+altro fuor che all'Imperadore, e quindi anche al Papa.  In
+congruenza a tutto ci@o ei d@a a Cesare |occhi grifagni~, tanto per
+alludere a quel ^nigris vegetisque oculis~, che Suetonio dice di
+quel guerriero, quanto perch@e gli occhi grifagni ci ricordano gli
+occhi dell'aquila, uccello dominatore e primo fra i grifagni,
+uccello che formava lo stemma dell'Impero.  Di pi@u: l'aquila,
+secondo la comune opinione, fissa gli occhi al sole; e il sole
+per Dante @e la ragione stessa, la stessa verit@a.  E quindi per
+significarci che l'Imperadore deve avere forza ed intelligenza,
+cosicch@e reprima i ribelli in campo, e non si faccia ingannare
+dai cortigiani sul trono, lo mette armato e gli d@a occhi di
+aquila.  <Ha una vista d'aquila>, diciamo di chi ha molto acume
+d'intelletto: |occhi grifagni~ o aquilini vogliono perci@o dire
+occhi di sapiente regolator de' popoli, che sa distinguere la
+verit@a.  Onde il poeta ne lasci@o nel ^Convito~ queste memorande
+parole: <@E scritto nel libro di Sapienza: `Amate il lume di
+sapienza voi che siete dinanzi ai popoli': e il lume di sapienza
+@e la verit@a>.  Onde Beatrice, ch'@e la Sapienza stessa, nel I 48
+del ^Paradiso~, fissa gli occhi al sole, simbolo della verit@a, di
+modo che, ^Aquila s@i non gli s'affisse unquanco.~  Lo ripeto: il
+genio di Dante @e questo, fa talvolta un cenno e vuol esprimere un
+discorso.  E che questo lungo discorso l'abbia qui voluto fare,
+ne dar@a ei stesso testimonianza altrove.  Col@a sapr@o costringerlo
+a rivelarci un segreto che alcun mai non gli lesse o sospett@o
+nell'anima.  Ma sar@a d'uopo per comprenderlo, che ci rammentiamo
+che |Cesare armato con occhi grifagni~ @e nel Limbo.
+
+	{Nota Aggiunta}: |Cesare armato con gli occhi
+grifagni~: Anche storicamente parlando, il Poeta pose Cesare
+|armato~, perch@e gran guerriero, e gli di@e |occhi grifagni~,
+perch@e sommo intelletto.  A colui ch'era uscito vincitore da
+cinquanta battaglie in circa, e che avea scritto i mirabili
+Comentarj; a colui nelle cui zuffe furono uccisi 100, 192,000
+combattenti, e cui tanta sapienza ornava la mente che seppe
+rettificare, secondo la ragione astronomica, quel Calendario che
+abbiamo, il quale da lui prese il nome di ^Giuliano~; a colui che
+nella ^Strategia~ era il primo di un popolo che debell@o la terra,
+e nella ^Politica~ un de' primi della nazione che regolava il
+mondo; a colui che sagato in campo, o togato nel foro, richiamava
+sempre l'ammirazione degli eserciti e del senato, poich@e non avea
+verun rivale nel campo, e pochissimi nel foro; a colui che avea
+soggiogati cento popoli dalla Britannia all'Egitto, e che dava
+udienza, leggeva, e dettava ad una volta (e giunse talora a
+dettar 7 lettere a 7 diversi segretarj ad un sol tempo), ben
+convengono queste due caratteristiche.  Occhi vivi, neri, e
+grandi son comunemente detti ^occhi di falcone~, uccello
+anch'esso grifagno e dominatore: onde il Boccaccio gli
+attribuisce alla sua Fiammetta coronata Regina, a quella
+Fiammetti che troppo dominava il suo cuore: <Con due occhi in
+testa che parean d'un falcon pellegrino>.
+
+	|124-128.  Dall'altra parte~ significa dalla parte
+sinistra; perch@e quella de' grandi eroi nominati, fra i quali
+Enea e Cesare, @e la parte destra.  Se non m'inganno, io veggo qui
+tre altri gruppi.  Il poeta guarda uno stuolo di Eroine a manca:
+gli vengono nominate |Pentesilea~ e |Camilla~, l'una che combatt@e
+per Troja e l'altra pel Lazio: e notate queste due anime pi@u
+magne, passa all'altro.  Ivi @e il Re |Latino~ con sua figlia
+|Lavinia~, e tutta la di lei discendenza feminile di matrone
+Romane: ivi @e |Lucrezia~, che mal si dividerebbe da quel ^Giunio
+Bruto~ che per vendicarne la morte cacci@o Tarquinio; ivi @e
+|Giulia~, figlia di Cesare; |Marzia~, moglie di Catone;
+|Cornelia~, madre de' Gracchi.  Si noti la simmetria.  A destra,
+la Regina Elettra, ceppo della discendenza maschile degli eroi
+Romani: a sinistra, il Re Latino, ceppo della discendenza
+feminile delle Romane matrone: e s@i quella Regina che quel Re in
+Italia ebber dominio; e prepararono coi loro nepoti il grande
+impero del Lazio.  E si noti ancora: a dritta, i maschi che
+formano ^la linea retta~ d'una discendenza: all'altro lato, le
+femmine che ne formano ^la linea laterale~, come i legisti
+dicono.
+
+	|124 {Nota Aggiunta}: Vidi Camilla e la Pentesilea~: Qui
+un po' di pedanteria vi va bene a proposito.  Tutti sappiamo che
+i nomi proprj delle donne talvolta prendon l'articolo e talvolta
+no; e questo verso offre l'uno e l'altro es.: onde nel Boccaccio
+si trova or ^Fiammetta~ or ^la Fiammetta.~  E tutti anche
+sappiamo che i nomi proprj degli uomini, se son di famiglia
+posson ricever l'articolo, se di battesimo lo rifiutano: onde si
+dice ^il Petrarca~, ^l'Ariosto~, ^il Tasso~, ma non mai ^il
+Francesco~, ^il Ludovico~, ^il Torquato.~  Or vedemmo nella vita
+del nostro poeta che ^Dante~, abbreviatura di ^Durante~, @e il suo
+nome di battesimo, ed ^Alighieri~ quello di sua famiglia: e
+quindi @e chiaro che debba dirsi, o ^Dante~, o ^l'Alighieri~; e
+pi@u chiaro ancora lo spropositone di coloro che dicono e scrivono
+^il Dante.~  N@e vale quel che talun mi oppose, cio@e che l'esser
+divenuto nome celebre pu@o fargli affigger l'articolo.  Chi pi@u
+celebre di Michelangelo?  Pure chi oserebbe dire ^il
+Michelengelo?~  Sia lecito ai Francesi, che non sono obbligati di
+saper queste minuzie, di scrivere ^le Dante~; mi @e vergogna a noi
+di non conoscer le cose nostre; e per imitar quelli che le
+ignorano quasi degradare il nome pi@u venerando che decori le
+pagine della nostra storia litteraria, confondendolo con una
+pelle di daino. (V. la Cr.)
+
+	|128 {Nota Aggiunta}: Lucrezia, Julia, Marzia,
+Corniglia~: Di queste quattro illustri Romane la sola Marzia
+verr@a ricordata anche altrove; e fia utile il rammentarci ch'ella
+@e nel Limbo.  Acciocch@e ci lasci una grata impressione di s@e,
+dir@o di lei brevemente.  Ella da principio fu moglie di Catone,
+laudatissima fra le matrone per la sua castit@a e saggezza: ma poi
+per comando di Catone stesso, e a suo contraggenio, divenne
+consorte di Ortenzio: poich@e costui di buon accordo con quel
+severo Romano ripudi@o la propria ch'era sterile, e prese Marzia
+ch'era fecondissima; e cos@i ebbe prole.  Ortenzio mor@i, ed ella,
+dopo avergli resi gli onori funebri, vedova scapigliata e
+tutt'ancora di sepolcrale cenere aspersa, si present@o piangendo
+al suo Catone perch@e la ripigliasse.  Commoventissime son le
+parole che Lucano fa dirle in tale occasione: udiamone alcune:
+<Quand'io era vivace e feconda, tu mi allontanasti da te, o
+Catone; ed io piegai la fronte ai tuoi riveriti cenni.  Ora che
+la giovent@u mi abbandona, lassa, esausta e senza altro appoggio,
+io a te ritorno; n@e altr'uomo v'@e per me al mondo che tu solo. 
+Deh, concedimi, in merc@e della mia doverosa affezione di risalire
+nel tuo incontaminato letto, ond'io mi glorii di nuovo di essere
+tua sposa.  Io non cerco altro che questo nome: acciocch@e si
+legga un giorno sul mio tumulo: MARZIA MOGLIE DI CATONE>; <...
+revertor Jam nulli tradenda viro: da foedera prisci Illibata
+tori; da tantum nomen inane Connubii: liceat tumulo scripsisse:
+CATONIS MARCIA> ^Phars.~ lib. ii, v. 343, et seqq.
+
+	|129.  Saladino~: Questo povero sultano di Babilonia,
+^solo solo~ e ^in disparte~, ci dice che il poeta lo giudic@o
+l'unico spirito magno di sua nazione: onde fa gruppo da s@e. 
+Dante ne fa elogio anche nel ^Convito~, per la sua generosit@a. 
+Egli scrive di pi@u col@a queste parole: <Dicemo uomo virtuoso che
+vive in vita attiva o contemplativa, alle quali @e ordinato
+naturalmente...  Noi potemo in questa vita avere due felicit@a,
+secondo due diversi stati o buoni o ottimi che a ci@o menano:
+l'una @e la vita attiva, l'altra @e la contemplativa; la quale
+(avvegna che per l'attiva si pervenga a buona felicit@a) ne mena a
+ottima felicit@a e beatitudine>.  Dobbiam perci@o aspettarci, dopo
+anche veduti nel Limbo i virtuosi della vita attiva, di vedervi
+anche quelli della contemplativa, i quali, secondo il poeta,
+s'innalzano a pi@u nobile meta.
+
+	|130-132.~  Dante alz@o |un poco pi@u le ciglia~, il che ci
+dice ch'ei si arrest@o a guardare uno stuolo pi@u elevato, e vide
+venerando gruppo di sapienti.  Primeggia corteggiato da ampia
+filosofica famiglia quell'^Aristotile~ ch'era l'oracolo assoluto
+delle scuole di allora.  A significare la vita contemplativa
+immagin@o Aristotile |Seder tra filosofica famiglia~; siccome
+disse altrove che Beatrice, la quale figura la Sapienza, ^sedea~
+con Rachele, che figura la meditazione.  Con poco dissimil
+concetto, a mostrare un monarca ed una regina di pacifiche
+inclinazioni, disse aver veduto il ^Re Latino Che con Lavina, sua
+figlia, sedea.~
+
+	|133-138.  Socrate~ e |Platone~ innanzi a tutti gli altri
+pi@u gli si avvicinano, e poi di grado in grado |Democrito~ il
+quale stabilisce essere il mondo nato dal fortuito accozzamento
+della materia (^pone il mondo a caso~, cio@e, fatto a caso); e
+|Diogene~ di Sinope, ed |Anassagora~ di Clazomene, e ^Talete~
+Milesio, ed |Empedocle~ Agrigentino, ed |Eraclito~ di Efeso, e
+|Zenone~ di Cizzio: chiarissimi nomi che tutto per s@e dicono.
+
+	|139-144.  Dioscoride~ @e detto |buon accoglitor del
+quale~, perch@e fu ^egregio scrittore~ di un trattato in cui
+^raccolse~ varie materie di storia naturale e tratt@o delle loro
+^qualit@a.~  |Averrois~, medico Arabo, f@e un ^esteso comento~ su
+quasi tutta la Filosofia Aristotelica.  |Avicenna~ fu pur medico
+Arabo: gli altri son notissimi.  Vi fu chi tacci@o il poeta di
+disordine in questo luogo, perch@e accozz@o insieme uomini illustri
+di varie nazioni, et@a e professioni, molto alla rinfusa: e
+disordine vi @e realmente; ma questo @e appunto il trionfo della
+sua arte.  Dopo aver guardato successivamente, e con simmetrica
+disposizione enumerati, i varj gruppi che vedemmo, per significar
+la sua stanchezza nel nominar tanti, e la sua fretta di passare
+ad altro, gira gli occhi intorno su varj drappelli, e senza molto
+arrestarsi su di essi, e senza curarsi di classificarli pi@u, ne
+va nominando uno qua, uno l@a, chi su, chi gi@u, secondo che gli
+sono additati or dall'uno or dall'altro de' cinque poeti, e
+secondo che i suoi sguardi rapidi cadevano or su questo, or su
+quel gruppo: e perci@o dice: e vidi questo, e vidi quell'altro, e
+quell'altro ancora, ecc.  Vidi |Dioscoride~ egregio raccoglitore
+delle qualit@a delle cose; e vidi il musico |Orfeo~; e vidi
+l'oratore |Tullio~; e vidi ^Livio~, storico de' Romani fasti; e
+vidi |Seneca~, scrittor morale, e il geometra |Euclide~, e
+l'astronomo |Tolomeo~, ed |Ippocrate~, ed |Avicenna~, e |Galeno~,
+ed |Averroe~: coi quali ultimi quattro, tutti medici, fa
+chiaramente scorgere che l'estremo stuolo su cui si fiss@o era
+appunto quello de' medici, coi quali chiuse il suo andar
+osservando.  Ci@o @e nella natura d'un narratore che ha altro di
+pi@u importante a dire, e che nell'affrettarsi confonde: onde
+questo, che fu creduto un difetto, io lo riguardo come una delle
+tante bellezze non avvertite.  Se non credete a me, credetelo a
+lui stesso, ed uditelo.
+
+	|139-142 {Nota Aggiunta}: E vidi il buono accoglitor del
+quale, Dioscoride dico, e vidi Orfeo, Tullio, e Livio, e Seneca
+morale, Euclide geometra, e Tolomeo~, ecc.: S'io non prendo
+abbaglio, Dante consider@o questo secondo elenco, come ben
+distinto dal primo: onde cominci@o a parlar del primo ^Vidi~ e
+ricominci@o del secondo, |E vidi.~  Nel primo ci offr@i gli
+inventori de' sistemi filosofici, e nel secondo i coltivatori
+delle arti, o almeno coloro che applicando le scienze fecero uso
+d'instrumenti.  Tali furono Euclide e Tolomeo, che perci@o son
+posti insieme: l'uno geometra, o sia ^misurator della terra~; e
+l'altro astronomo, vale a dire ^descrittor de' cieli~; l'uno che
+si valse in far ci@o ^circino et regula~, e l'altro della ^sfera
+armillare~, e d'altri stromenti: con che ridussero la scienza
+quasi ad arte: e in ci@o diversificarono da coloro che si
+versarono in mere specolazioni astratte e mentali.  Chiaro @e poi
+che Orfeo, sonator di cetra; e Livio, scrittor di storia; e
+Tullio, principe dell'arte oratoria; e i quattro ch'esercitarono
+l'arte medica, detta ^arte muta~, appartengano a questa classe: e
+lo stesso pu@o dirsi di Dioscoride per la storia naturale, e di
+Seneca che non invent@o alcun sistema, ma scrisse oratoriamente
+precetti di ben vivere.  Dante aggiunse a lui l'aggettivo |morale~
+per distinguerlo dal ^tragico~ che si vuole da quello differente. 
+Cos@i pure disse ^quel Bruto che cacci@o Tarquino~, perch@e non si
+confondesse Giunio con Marco, il quale, secondo lui, @e fra i
+pessimi peccatori, dove lo incontreremo.  I suoi aggiunti non son
+mai oziosi.
+
+	|143-144 {Nota Finale}.~  Coi poeti ha principio l'umana
+civilt@a, e coi medici suol aver termine l'umana vita: e perci@o
+corrispondenti ai quattro poeti, che aprono la scena de' saggi,
+credo posti i quattro medici che la chiudono.  Visibile @e la
+corrispondenza fra Omero ed Ippocrate, che vien additato per
+primo; ed Averroe, che vien nominato per ultimo, non @e senza
+relazione con la tarda et@a negli studj incanutita, essendo egli
+stato colui |che il gran comento feo~ al pi@u alto de' Filosofi di
+allora.  E quindi pu@o inferirsi che anche gli altri due medici
+corrispondano alle altre due et@a.  Chi conosce Dante non esiter@a
+molto a convenire ch'ei non apre a caso il corteggio con 4 poeti,
+e nol chiude neppure a caso con 4 medici.  E veramente nel vedere
+con tanta distinzione enumerati que' primi, potea dubitarsi che
+cos@i fosse: ^colui che viene innanzi ai tre~ @e ^Omero, l'altro @e
+Orazio, il terzo @e Ovidio, l'ultimo @e Lucano~: e quel comento
+{del ^Conv.~: vedi ^Nota Finale~ qua sotto} spiega il mistero.
+
+	|149-151.~  Vale a dire che @e condotto al cerchio
+seguente, ove non giunge quel lume che dissipa le tenebre per
+vasto circuito.  Si noti come il |savio duca~ @e giustamente
+impiegato, e propriamente accoppiato con |mena.~
+
+	|Nota Finale.~  Chi volesse entrare nell'intimo di questo
+canto non avrebbe a far altro che leggere attentamente il comento
+di Dante alla terza canzone del ^Convito.~  Ei vedrebbe allora
+quale stretta connessione vi sia fra ambidue: qualche riflessione
+lo mostrer@a in parte.  Virgilio dice a Dante sul principio del
+canto: ^Or discendiam quaggi@u nel cieco mondo~; e per significare
+che gli sar@a guida soggiunge: ^Io sar@o primo e tu sarai secondo~
+{13-15}.  Scendono, ed incontrano da prima gl'^infanti~, e le
+^femmine~, e i ^viri~ {30}: il primo vocabolo ci presenta l'uomo
+in quella et@a che non @e ancor capace di favellare; e i due segg.
+distinguono i sessi e l'et@a della riproduzione.  Incontrano
+poscia gli antichi poeti, con un lume che vince quelle tenebre, e
+4 di essi si fan loro innanzi; e sono in ordine cronologico:
+poich@e cominciando dal primo (Omero), e terminando all'ultimo
+(Lucano), abbiamo un progresso estesissimo della umana societ@a;
+la quale nel tempo del primo era quasi bambina, e nel tempo
+dell'ultimo quasi decrepita e cadente a rovina.  Dante con essi
+entra in un castello che d@a l'idea della citt@a; e in compagnia di
+que' saggi varca le sette porte delle sette mura.  Dentro il
+castello trovammo prima gli eroi e poi i sapienti: e tutta la
+scena fu chiusa con quattro medici, come quattro furono i poeti
+che lor vennero incontro.  Ci@o posto, @e manifesto che questo
+canto presenta due serie in ordine crescente: I.  Quella de' tre
+periodi progressivi della umana societ@a; II.  Quella delle 4 et@a
+successive della vita umana: Vediamolo di ciascuna partitamente. 
+Ia Serie.  Maestro Brunetto aveva insegnato a Dante che <Le vite
+son tre: l'una si @e di concupiscenza; l'altra si @e vita civile;
+la terza vita @e contemplativa> (^Tesoro~, lib. vi, cap. 5).  Gli
+aveva insegnato di pi@u che <la vita attiva sormonta la mondana, e
+la vita contemplativa sormonta l'attiva> (Ivi, lib. viii, cap.
+75).  E Dante dietro questi precetti ha fatto in questo canto tre
+distinte divisioni di spiriti: 1.  Infanti, femmine e viri:
+questa prima unione @e tutta nell'ombre fuori del castello, ed @e
+chiamata ^selva~: ecco l'idea della <vita di concupiscenza> o
+<mondana>.  2.  Poeti, eroi, eroine, matrone, dominatori; o come
+nazioni principali (Ettore, Enea, ecc., Latino, Lavinia, ecc.) o
+come confederati di grandi nazioni (Pentesilea per Troja, Camilla
+per Lazio, che perci@o rimangono in mezzo fra i due gruppi di qua
+e di l@a): questa seconda unione @e tutta nella luce, o alle porte
+del castello, o dentro di esso: ecco l'idea della vita ^attiva~ o
+^civile~ s@i in guerra che in pace.  3.  Sapienti, nelle varie
+loro classificazioni, o come cultori di scienze (Aristotile, capo
+de' Peripatetici; Platone degli Accademici; Diogene, dei Cinici;
+Zenone, degli Stoici, col quale termina il gruppo primo), o come
+cultori di arti (Dioscoride per la storia naturale, col quale
+comincia il secondo gruppo, Livio per la storia dei fatti, Tullio
+per l'oratoria, Orfeo per la musica, ecc.): questa terza unione @e
+tutta ancor nella luce, e nel pi@u interno del castello: ecco
+l'idea della vita contemplativa.  Nel dire che attraversando ^la
+selva degli spiriti la sua via non era an cor lungi di qua dal
+sommo, quando vide un fuoco che vinceva un emisferio di tenebre~
+{65-69}, Dante volle significare che dallo stato di selvaggio
+all'apparizion de' poeti, i quali cominciano a dissipar le
+tenebre dell'ignoranza, non molto suol correre; poich@e quel santo
+fuoco che la natura ha posto nell'uomo comincia ben presto a
+secondar le menti, e a sparger lume.  E nel dir poi che sal@i ^in
+luogo luminoso ed alto~ {116} per notare gli spiriti della vita
+attiva, e che ^innalz@o un poco pi@u le ciglia~ {130} per osservar
+quei della contemplativa, volle esprimere appunto quel che avea
+di Brunetto imparato, cio@e, che <la vita attiva sormonta la
+mondana, e la contemplativa sormonta l'attiva>.  IIa Serie. 
+Dante nel citato comento alla terza canzon del ^Convito~ scrive
+che quattro sono le distinte et@a dell'uomo, ^Adolescenza~,
+^Giovent@u~, ^Senett@u~ e ^Senio~, o sia decrepitezza.  Dice che
+nella prima la natura d@a all'uomo <quattro cose necessarie
+all'entrare nella citt@a del ben vivere>; le enumera e segue:
+<Siccome quegli che mai non fosse stato in una citt@a non saprebbe
+tenere le vie, senza insegnamento di colui che l'ha usate, cos@i
+l'adolescenza, ch'entra nella selva erronea di questa vita, non
+saprebbe tenere il buon cammino, se dalli suoi maggiori non gli
+fosse mostrato>.  Passa poi a considerare quali sono le qualit@a
+necessarie alla giovent@u.  Facile @e il vedere qual relazione
+possa esservi fra ^Omero~ e la prima et@a dell'uomo e dell'umana
+societ@a: e non @e difficile lo scorgere che ^Orazio~ satiro pei
+suoi morali precetti coi quali seppe ^ridendo dicere verum,
+delectando pariterque monendo~, possa essere il cantore atto alla
+seconda et@a.  Ma come ^Ovidio~ e ^Lucano~ saranno i poeti
+confacenti alla terza e alla quarta?  Lo dichiara Dante stesso in
+quel comento; egli, dopo aver enumerate quali esser deggiono le
+doti dell'anima nobile nella terza et@a, soggiunge: <e che tutte
+queste cose convengano a quella et@a, ne ammaestra Ovidio>: e
+significa minutamente come e dove Ovidio ci@o faccia.  Vien quindi
+a far lo stesso della decrepitezza, conchiudendo con egual
+formola: <e che queste cose convengano a quella et@a, ne figura
+quello grande poeta Lucano>: e addita parimente per qual modo e
+in qual luogo Lucano ci@o faccia.  Ed ecco perch@e ne and@o con essi
+^insino alla lumiera~ {103}, cio@e sino alla sua istruzione;
+parlando cose che non volle dirci, ma che indovinammo, e che
+possono pi@u facilmente scorgersi ora che sappiamo di che mai son
+figura i 4 poeti che l'accompagnavano.  In varj luoghi di
+quell'opera fa egli vedere che Virgilio nel suo gran poema ha pi@u
+di ogni altro esposti i documenti a ben governar la vita nelle
+diverse et@a: Virgilio dunque, il quale ^onora ogni scienza ed
+arte~ {73} e col quale ciascuna di quelle ombre ^conviene nel
+nome~, Virgilio @e quasi un epilogo di tutte e quattro, le quali
+perci@o vengono ad onorarlo unanimi come ^altissimo poeta~ {79},
+cio@e come quello che possedea nel pi@u alto grado ci@o che ciascuna
+di esse in parte avea: e ^altissimo poeta~ vien chiamato anche in
+quel comento.  Ed ora veggo che coloro i quali hanno preteso che
+^la scuola di quel signore dell'altissimo canto che sopra gli
+altri come aquila vola~ {94-96}, debba intendersi per scuola di
+Virgilio e non di Omero, hanno ragione: e perci@o Dante si scelse
+il Latino cantore e non il Greco a ^duca~, ^signore~, e ^maestro~
+del suo allegorico viaggio, in cui volle adombrare il corso e 'l
+miglioramento della vita: e fin@i questo canto con chiamarlo
+^saggio duca.~  Quasi tutti gli spiriti magni ch'ei mette in
+questo primo cerchio son col@a {nel ^Convito~} rammentati.  Ei
+parla ivi di filosofi e medici, parla di Aristotile, di Socrate,
+di Platone, di Zenone, di Tullio, di Livio, di Seneca, di Orfeo,
+di Avicenna, ecc. Parla di quel Bruto che cacci@o Tarquinio, e fin
+di Saladino e fin di Marzia.  Favella di Enea, <origine della
+nobilissima citt@a Romama>, e di Cesare <primo principe sommo>: ed
+una delle principali mire di quel comento @e di provare che <il
+fondamento radicale della imperial maest@a @e la necessit@a della
+umana civilt@a ch'ad uno fine @e ordinata, cio@e a vita felice>; che
+^forza~ e ^ragione~ furono <il principio del Romano Impero>; che
+<la Filosofica autorit@a dessi congiungere con la Imperiale a bene
+e perfettamente reggere>.  Finalmente il poeta dichiara che la
+canzone la quale forma il soggetto del suo comento, e la quale @e
+da lui cos@i licenziata, <Contra gli erranti mia canzone andrai>,
+@e fatta <ad esempio d'un trattato del buono Fra Tommaso d'Aquino
+ch'a un suo libro, che fece a confusione di tutti quelli che
+deviano da nostra fede, pose nome `Contra i Gentili'>.  Dante,
+dottissimo Teologo, prediligeva S. Tommaso, che pel suo ingegno
+acutissimo merit@o il nome di Dottore Angelico.  Tommaso divide
+l'Inferno in 4 parti: <Infenus puerorom, Infernus SS. Patruum,
+Infernus damnatorum, Infernus purgandorum>.  Il poeta riun@i le
+due prime parti in questo cerchio, e le distinse solo con
+immaginare un castello nel cerchio medesimo: tutto ci@o ch'@e
+esterno al castello lo destin@o ai fanciulli ed altri non
+battezzati; e per non lasciar voto quel castello dopo la partenza
+de' SS. Padri, lo popol@o di uomini virtuosi non battezzati, parte
+de' quali sono i poeti che ne stanno quasi alle porte.  Cos@i, per
+non discostarsi da ci@o che la Chiesa gli insegnava, li mise
+nell'Inferno; ma nel luogo ove meno si soffre.  La terza parte
+dell'Inferno, cio@e dei dannati, @e compresa in tutto il resto
+della gran voragine; e la quarta, vale a dire quella de'
+purganti, fu da lui posta in un sito separatissimo dalle altre
+tre, come vedremo nella Cantica seconda.

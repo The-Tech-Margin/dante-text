@@ -1,0 +1,564 @@
+|PURGATORIO CANTO 05~
+
+        |Proemio.~  ^Io era gi@a da quelle ombre partito~.  In questo 
+quinto canto lo nostro autore si parte da quella tersa condizione 
+d'anime che erano state negligenti\, e per sola negligenzia aveano 
+indugiato lo debito emendamento de la penitenzia in fine a la fine; et 
+incomincia a parlare de la quarta condizione; cio@e di coloro che a la 
+umilit@a de la penitenzia sono volti per morte violenta.  E dividesi 
+questo canto in due parti\, perch@e prima dimostra come si part@i da 
+quelle anime di che fu detto di sopra; e come giunse all'altre de la 
+quarta condizione in sul terso balso; e poi dimostra come venne a 
+parlamento co loro\, e ricognovene alquanti che si li feceno 
+cognoscere\, et incomincia quive la seconda: ^Et uno incominci@o~ ec.  
+La prima\, che ser@a la prima lezione\, si divide in parti sei\, perch@e 
+prima finge come la gente detta di sopra si meravilliava di Dante\, che 
+vivo cercava lo purgatorio\, e com'elli allora si rivolse; ne la 
+seconda\, come Virgilio di ci@o lo riprende et ammoniscelo che seguiti 
+lui\, et incomincia quive: ^Perch'@e l'animo~ ec.; ne la tersa finge 
+come nuova gente apparisce; cio@e quelle de la quarta condizione\, e 
+manifesta loro condizione\, incomincia quive: ^Intanto per la costa~ 
+ec.; ne la quarta finge come Virgilio risponde a la dimostrazione loro\, 
+et incomincia quive: ^E il mio Maestro~: ec.; nella quinta finge come 
+una di quelle anime incomincia a parlare a lui\, et incomincia quive: ^O 
+anima\, che vai~ ec.; ne la sesta finge com'elli risponde a la detta 
+anima\, et incomincia quive: ^Et io: Perch@e~ ec.  Divisa adunqua la 
+lezione\, ora @e da vedere lo testo co la sua esponizione litterale et 
+allegorica\, o vero morale.
+
+        |1-9.~  In questi tre ternari lo nostro autore finge che anco 
+fusse occupato lo suo andare per l'ammirazione che si faceano quelle 
+anime di lui\, che era col corpo\, dicendo: ^Io~; cio@e Dante\, ^era 
+gi@a da quelle ombre~; de le quali fu detto di sopra\, ^partito~; per 
+andare a la mia via\, ^E seguitava l'orme~; cio@e le pedate\, ^del mio 
+Duca~; cio@e di Virgilio\, ^Quando dirieto a me~; Dante\, ^drizzando il 
+dito~; cio@e in verso me\, come fa chi mostra col dito\, ^Una~; di 
+quelle anime\, ^grid@o~; verso l'altro: ^Ve'~; cio@e vedi\, ^che non par 
+che luca~; cio@e risplenda\, ^Lo raggio~; cio@e del sole\, ^da 
+sinistra~; cio@e che fiere da la mano sinistra\, ^a quel di sotto~; 
+cio@e a Dante che andava di rieto a Virgilio\, e Virgilio montava\, 
+sicch@e Dante venia di sotto; ma d@esi intendere che la montata fusse in 
+andata in verso mano ritta: altramente l'ombra di Dante arebbe ombrato 
+d'inansi\, e non da lato.  ^E come vivo par che si conduca~: per@o che 
+'l corpo di Dante faceva ombra; ma lo corpo di Virgilio che era aereo 
+non facea ombra\, et in ci@o apparea che era morto.  ^Li occhi rivolsi~; 
+cio@e io Dante\, ^al suon di questo motto~; cio@e quando uditti s@i 
+parlare\, per vedere chi era et a cui dicea\, ^E viddili guardar per 
+meravillia Pur me\, pur me~: imper@o che di me si meravilliavano\, ^e 
+lume~; cio@e del sole\, ^ch'era rotto~; per l'ombra che facea il mio 
+corpo.  In questa parte\, perch@e l'autore fa speciale menzione 
+dell'ombra che rendeva lo suo corpo\, e de l'ammiramento che si faceano 
+di ci@o quelle anime\, debbiamo sapere che\, ben questa sia verisimile 
+finzione secondo la lettera; niente di meno elli ebbe altra intenzione\, 
+come apparr@a per allegorico intelletto: imper@o ch'elli intese per s@e 
+di quelli che sono nel mondo in stato di penitenzia\, li quali lo sole; 
+cio@e la Grazia Divina e la carit@a di Dio riscalda dal lato sinistro\, 
+dov'@e propiamente lo cuore che fa ombra al destro; cio@e all'esercizio 
+delle cose mondane\, sicch@e lo fa apparire nulla\, come l'ombra che 
+dimostra quel ch
+e non @e; di che si meravilliano li mondani e tal le commendano.  Unde 
+elli commendato\, bench@e vada di rieto a la ragione\, pur s'arresta a 
+tale commendazione: per@o che si dice: ^Nulla est tanta humilitas\, quae 
+dulcedine gloriae non tangatur~\, unde elli si pone a cura d'essere 
+posto niente\, et impedisce perci@o lo suo processo; unde la ragione lo 
+riprende come finge l'autore che Virgilio riprendesse lui.
+
+        |10-21.~  In questi quattro ternari finge lo nostro autore come 
+Virgilio lo riprende de l'attendere\, ch'avea fatto a quello che di lui 
+si dicea\, dicendo cos@i: ^Perch@e l'animo tuo tanto s'impillia~; cio@e 
+ad attendere quello ch'altri dice di te\, ^Disse il Maestro~; cio@e 
+Virgilio a me Dante\, ^che l'andar allenti~; cio@e suso al purgatorio?  
+E per questo intende l'allentare che l'omo fa d'andare per li gradi de 
+l'apparazione de la penitenzia in alto\, attendendo a le vanaglorie.  
+^Che ti fa ci@o che quivi si pispillia~; cio@e quello che coloro diceno 
+tra loro?  ^Vien dietro a me~; tu\, Dante\, seguita me Virgilio; cio@e 
+la sensualit@a seguiti la ragione\, ^e lassa dir le genti~; cio@e lassa 
+dire chi vuole dire\, non te ne curare: ^Sta come torre ferma\, che non 
+crolla Giammai la cima per soffiar de' venti~; ecco bella similitudine 
+al proposito nostro; cio@e che come la torre ferma non dimena la cima 
+per li fiati de' venti; cos@i l'omo\, che @e in apparazione di montare a 
+stato di penitenzia\, d@e stare fermo nel suo proposito e non d@e 
+dimenare lo capo; cio@e non d@e mutare sua buona sentenzia per lo dire 
+altrui.  Et assegna la cagione: ^Ch@e sempre l'omo~; cio@e imper@o che 
+l'uomo\, ^in cui pensier rampolla~; cio@e si leva\, ^Sovra pensier~; 
+cio@e che quando l'uno pensier viene sopra l'altro\, ^da s@e dilunga il 
+segno~; cio@e dilunga il fine al quale d@e con deliberazione intendere\, 
+e svalorisce e non intende a quel che d@e come 'l balestrier che\, 
+quando dilunga la posta\, meno acconciamente d@a nel segno.  ^Perch@e~; 
+ecco che assegna la cagione\, continuando la similitudine\, ^la foga 
+l'un dell'altro~; cio@e perch@e l'uno pensiero sopra veniente\, 
+^insolla~; cio@e rende vano\, ^la foga dell'altro~; cio@e lo sollicito 
+esercizio del primo quello che v'@e adiunto da lunghessa\, come insolla 
+la foga del balestro\, quando @e pi@u di lungi la posta che non suole.  
+Ora dice l'autore: ^Che poteva io~; cio@e Dante\, ^dir~; cio@e 
+rispondere a Virgilio\, ^se non: Io vegno?~  E questo @e notabile che\, 
+quand
+o l'omo @e ripreso ragionevilmente del suo fallo\, d@e essere umile a 
+ricevere la riprensione; e per tanto dice l'autore che non potea\, se 
+non rispondere con obedienzia.  ^Dissilo~; io Dante: Io vegno\, 
+^alquanto del color cosperso~; cio@e di vermillio rossore la faccia\, 
+^Che fa l'om di perdon tal volta degno~: veramente la vergogna fa l'omo 
+meritare perdono del fallo.  Chi si vergogna @ae pentimento del fallo e 
+ricognosce lo fallo suo; ma @e da notare ch'elli dice ^tal volta~\, per 
+salvare la sua sentenzia: imper@o che non sempre lo rossore significa 
+vergogna; alcuna volta significa ira\, et allora non fa degno di 
+perdono; et anco non sempre la vergogna fa l'omo degno di perdono\, che 
+sono certi peccati che richiedeno altro che vergogna.
+
+        |22-30.~  In questi tre ternari lo nostro autore finge come 
+venne su per la costa a la quale montavano; cio@e all'altro balso terso 
+nuova gente\, dicendo: ^Intanto~; cio@e in quel mezzo che Virgilio s@i 
+mi riprendea\, ^per la costa~; cio@e del monte a la quale montavano 
+Virgilio et io Dante: dice\, ^da traverso~; cio@e a denotare che 
+andavano intorno\, girando il monte\, per@o dice ^da traverso~; e dicesi 
+^da traverso~ a loro che montavano suso\, e cos@i si d@e intendere\, che 
+altramente arebbe ditto incontra a noi\, ^Venien gente d'inanzi a noi un 
+poco~; questo ^inanzi~ s'intende quanto a tempo: imper@o che giunseno 
+inansi\, al luogo ritto 'l quale montavano\, che giungesseno quive 
+Virgilio e Dante\, ^Cantando~ Miserere ^a verso a verso~: come cantano 
+li chierici in coro; cos@i finge che costoro cantassero: ^Miserere mei\, 
+Deus\, secundum magnam misericordiam tuam~\, che @e uno dei salmi 
+penitenziali: imper@o che costoro grande misericordia aveano ricevuto da 
+Dio.  ^Quando s'accorser~; cio@e quelle anime\, ^ch'io~; cio@e Dante\, 
+^non dava loco\, Per lo mio corpo~; che io avea meco\, ^al trapassar de' 
+raggi~; del sole ai quali lo mio corpo faceva ombra\, ^Mutar lor canto 
+in uno O lungo e roco~; cio@e lassando di cantare ^Miserere mei\, Deus~ 
+ec.\, meravilliandosi di Dante ch'era vivo incomincionno a dire o\, o\, 
+o\, che @e segno d'ammirazione\, e diventonno fiochi che @e segno di 
+privazione di voce; la quale cosa addiviene quando l'uomo si sforsa di 
+gridare.  E finge questo l'autore di quelli di l@a\, per mostrare lo 
+desiderio che @anno l'anime passate che sia pregato per loro; e per@o le 
+finge che stiano attente di volere sapere chi era Dante\, e massimamente 
+perch'erano ne la morte violenta venute a la penitenzia\, dei quali si 
+suole dubitare se sono in stato di salute; e per non lassare infamia di 
+s@e\, sicch@e per lo malo esemplo altri fan male\, e per dare che niuno 
+si disperi de la misericordia di Dio infinita.  E per quelli del mondo 
+finge\, per mostrare come si meravilliano di vedere uno omo carn
+ale a la penitenzia; e per mostrare la curiosit@a che l'omo @a di sapere 
+li fatti altrui\, spesse volte lassa l'omo la loda di Dio e l'officio 
+santo che d@e dire e che @ae incominciato.  ^E du' di lor~; cio@e di 
+quelle anime: finge che fusseno du'\, perch@e l'omo @e sociabile 
+animale\, come dice l'omo filosofo\, et onestamente non va solo\, ^in 
+forma di messaggi~; cio@e a modo come messaggi\, ^Corsero incontra noi~; 
+cio@e a Virgilio et a me Dante\, ^e dimandarne~; cio@e noi: ^Di vostra 
+condizion fatene saggi~; cio@e fateci saputi chi voi siete.
+
+        |31-45.~  In questi cinque ternari lo nostro autore finge come 
+Virgilio diede risposta a quelle due anime che venneno a dimandare\, e 
+come elle tornonno a dare la risposta\, e come tutte si difilonno a 
+loro\, e come Virgilio ammonisce Dante che non ristesse; ma andando 
+ascoltasse s@i\, che non perdesse tempo.  Dice cos@i: ^E il mio 
+Maestro~; cio@e Virgilio rispuose\, s'intende: ^Voi potete andarne~; 
+dice a quelli che erano venuti\, ^E ridir a color che vi mandaro~; cio@e 
+a quella brigata di quelle anime\, ^Che il corpo di costui~; cio@e di 
+Dante\, ^@e vera carne~; cio@e ch'elli @e omo.  ^Se per veder la sua 
+ombra restaro\, Com'io avviso~; cio@e com'io mi penso\, ^assai @e lor 
+risposto~: per@o che la risposta sodisf@a a la cagione: ^Faccianli 
+onore~; cio@e a Dante\, ^et esser pu@o lor caro~: imper@o che potr@a 
+loro giovare.  E fa l'autore una similitudine del tornare tosto di 
+quelle due anime e del ritornare a lor poscia con tutte\, per mostrare 
+la grazia che @a l'anima separata dal corpo\, ai vapori che s'accendeno 
+in aire e correno per l'aire come vento.  Et intorno a ci@o debbiamo 
+saper che scrive lo Filosofo ne la sua Metaura che li vapori li quali 
+esceno de la terra\, per l'attraere che fa lo d@i lo sole coi suoi 
+raggi\, ascendeno secondo la qualit@a di quelli: imper@o che alcuni sono 
+che sono s@i mirabili\, che non possano passare la seconda regione 
+dell'aire; e l@i\, o si converteno in nebbia e risolvensi per lo sole\, 
+o cadeno giuso alcuna rugiada in nieve\, grandine\, secondo lo 
+temporale\, e cos@i congelati; et alcuni si risolveno in acqua e pioveno 
+giuso; altri sono che @anno pi@u sottile materia li quali ascendeno in 
+fine a la tersa regione dell'aire\, e quive si risolveno in vento\, e 
+poi circularmente discendeno in fine a la terra; et altri sono di pi@u 
+sottile materia: ma tiene alquanto di viscosit@a\, la quale non si pu@o 
+convertire in vento; ma ascendeno che per la vicinit@a de la spera del 
+fuoco e del movimento s'accendono\, e se sono di poca quantit@a tosto si 
+risolveno e per lo movimen
+to appaiano come stelle che correno\, purch@e lo cielo sia chiaro; e se 
+sono in maggior quantit@a\, penansi pi@u a risolvere\, et @e molte volte 
+che durano parecchi mesi\, e quelli sono chiamati comete; e perch@e lo 
+vapore acceso fa fummo\, e 'l fummo s'accende pare pure una treccia.  Or 
+fa l'autore comparazione di quelli vapori accesi che sono in piccula 
+quantit@a\, che @anno velocissimo moto; et anco fa similitudine di 
+quelle nuvule\, che per caldessa dell'aire s'accendeno da la terra\, 
+levate per lo caldo\, e questo avviene molto nel mese d'agosto quando lo 
+sole @e in Leone\, o a presso ad una costellazione che si chiama Canis 
+che incomincia di maggio\, quando ascende col sole\, come dice Albumasar 
+nel suo Introduttorio; e per@o dice: ^Vapori accesi non vidd'io~; cio@e 
+Dante\, ^s@i tosto Di prima notte~; cio@e da sera\, ^mai fender sereno~; 
+cio@e l'aire chiaro\, che altramente non si potrebbe vedere\, ^N@e\, sol 
+calando~; cio@e quando descende\, ^nuvule~; cio@e accese non vidd'io 
+fendere l'aire s@i tosto\, come quelli spiriti\, ^d'agosto~; cio@e del 
+mese d'agosto\, quando cio@e avviene: noi veggiamo d'agosto\, quando lo 
+d@i @e stato grande caldo\, la sera accendersi li vapori de le nuvule e 
+spegnersi subito come uno lampo\, ^Che color~; cio@e quelle anime\, ^non 
+tornasser suso~; al luogo loro\, alli altri spiriti\, ^in meno~; cio@e 
+in meno tempo\, ^E giunti l@a~; a quelle anime\, ^colli altri~; cio@e 
+spiriti che li aveano aspettati\, ^a noi dien volta~: imper@o che tutti 
+disceseno in verso noi\, ^Come schiera~; ecco che fa l'altra 
+similitudine\, ^che scorre senza freno~: quando le schiere scorreno\, 
+vanno sfrenate; unde Virgilio vedendo ci@o ammonisce Dante\, dicendo: 
+^Questa gente~; di quelle anime parla\, ^che preme~; cio@e che descende 
+giuso\, ^a noi~; cio@e a te et a me\, dice Virgilio\, ^@e molta~; come 
+tu vedi\, ^E vegnonti a pregar~; cio@e te Dante\, ^disse il Poeta~; 
+cio@e Virgilio\, ^Per@o pur va~; tu\, Dante\, ^et in andando ascolta~; 
+cio@e non ti restare; ma andando ode quello che diceno.
+
+        |46-57.~  In questi quattro ternari lo nostro autore finge che 
+quelle anime descendendo\, venendo a loro veniano gridando\, che li 
+aspettasse e non montasse suso al balso\, dicendo: ^O anima\, che vai 
+per esser lieta~; cio@e per purgarti e poi per andare a la somma 
+beatitudine\, dove l'omo @e in eterno per contemprarla e vederla\, ansi 
+che si torni al mondo lieto\, ^Con quelle membra co le quai nascesti~; 
+questo diceno a Dante\, perch@e era vivo et era col corpo\, ^Venian 
+gridando~; a Dante l'anime dette di sopra\, ^un poco il passo queta~; 
+cio@e riposa il passo un poco\, non andare s@i ratto.  ^Guarda se alcun 
+di noi unqua vedesti~; cio@e pon mente se mai vedesti alcuno di noi\, 
+mentre che fummo in vita\, ^S@i che di lui di l@a~; cio@e nel mondo\, 
+^novelle porti~; cio@e ai suoi di lui: ^Deh perch@e vai?~  Questo dice\, 
+perch@e osservava lo comandamento di Virgilio: imper@o che tutta via 
+andava\, ^deh perch@e non t'arresti~; cio@e perch@e non ti reggi?  E di 
+ci@o lo pregavano.  ^Noi fummo tutti gi@a per forza morti~; ecco che 
+manifesta la loro condizione\, mostrando che erano stati impenitenti in 
+fine a la fine de la vita\, la quale era finita per morte accidentale\, 
+^E peccatori infine a l'ultima ora~; cio@e peccatori fummo in fine a la 
+fine: ^Quivi~; cio@e a l'ultima ora de la vita\, ^lume del Ciel~; cio@e 
+la grazia illuminante de lo Spirito Santo\, ^ne fece accorti~\, cio@e 
+fece noi accorti\, che ci avvedessemo del nostro errore\, ^S@i che\, 
+pentendo~; cio@e del peccato che avavamo fatto nella vita\, ^e 
+perdonando~; l'offese che a noi erano state fatte\, ^fora Di vita 
+uscimmo~; cio@e morimmo ne la ditta disposizione\, ^a Dio pacificati~: 
+imper@o che chi si pente de' suoi peccati quando muore\, e perdona al 
+prossimo suo l'offese ricevute\, muore ne la grazia di Dio\, ^Che del 
+disio~; cio@e del desiderio\, ^di s@e veder~; cio@e di vedere lui e la 
+pace di Dio\, ^ne accora~; cio@e ci conforta e muoveci a desiderare di 
+vedere lui; cio@e Iddio.  Qui potrebbe essere uno dubbio; che non par 
+iusto che quello o
+mo ch'@e stato in peccato tutta la vita sua\, n@e mai pentitosi\, n@e 
+operato opre meritorie se non all'ultimo\, per una lacrimetta\, come 
+dice l'autore\, sia salvo.  A questo si pu@o rispondere per esemplo 
+che\, come lo corpo infermo si riduce a sanit@a\, stante sano lo cuore; 
+cos@i l'anima inferma per lo peccato\, si riduce a sanit@a stante la 
+grazia di Dio nell'anima; cio@e la preveniente che induce la 
+disposizione; e venuta la disposizione\, sopraviene la illuminante\, 
+cooperante e perficente; ma con modo ordinato che porti pena nel 
+purgatorio del peccato commesso s@i\, che raffini nel fuoco infine che 
+diventi pura l'anima alla lega che si spende in vita eterna.
+
+        |58-66.~  In questi due ternari lo nostro autore finge che 
+rispondesse a la dimanda di quelli spiriti\, dei quali fu detto di 
+sopra\, molto gratamente\, dicendo: ^Et io~; cio@e Dante rispuose\, 
+s'intende\, a coloro\, ^Perch@e~; cio@e bench@e\, ^ne' vostri visi 
+guati~; per ricognoscervi\, ^Non ricognosco alcun~; cio@e di voi; ^ma se 
+a voi piace~; ecco che gratamente si proferisce\, ^Cosa ch'io~; cio@e 
+Dante\, ^possa~; cio@e che a me sia possibile: questo vocabulo regula 
+molto le proferte s@i\, che non @e l'omo obligato pi@u che elli vollia\, 
+dicendo poi secondo 'l mondo: Io non potetti pi@u; ma\, secondo Dio e 
+l'onest@a de la virt@u\, @e l'omo tenuto quanto pu@o\, ^spiriti ben 
+nati~; ecco che dirissa lo suo sermone a loro\, chiamandoli ^spiriti ben 
+nati~: bene @e nato colui che @e nel suo fine salvato\, ^Voi dite~; 
+cio@e spiriti nati bene\, dimandate\, ^et io~; cio@e Dante\, ^far@o~; 
+ci@o che dimanderete\, ^per quella pace~; ecco che con iuramento 
+afferma\, ^Che~; cio@e la qual pace; cio@e lo desiderio d'averla\, 
+^dietro a' piedi di s@i fatta Guida~; cio@e di Virgilio\, che significa 
+la ragione\, ^Di mondo in mondo~; questo dice\, perch@e @ae cercato lo 
+inferno\, cio@e la vilt@a del peccato @ae considerato e la pena a lui 
+conveniente\, per liberarsi da esso; et appresso cerca lo purgatorio\, 
+investigando come per la penitenzia l'anima diventi monda e netta\, 
+sicch@e possa cercare lo paradiso; cio@e entrare ne la operazione e 
+meditazione de la virt@u che fa l'anima felice\, mentre che si sta in 
+questa vita per grazia\, e poi in vita eterna di po' la vita penitente 
+per gloria\, ^cercar mi si face~.  Tutti questi cammini\, che l'autore 
+finge avere fatto\, sono fatti mentalmente per cognoscere e contemplare 
+Dio\, che @e somma pace e quiete de le menti umane\, mentre che qui si 
+vive per grazia e poi per gloria\, sicch@e niente pi@u desidera.  E qui 
+finisce la prima lezione del quinto canto.
+        ^Et uno incominci@o: Ciascun si fida~.  Questa @e la seconda 
+lezione del V canto\, ne la quale l'autore dimostra per sua fizione come 
+venne in notizia d'alcuni di quelli spiriti; e dividesi questa lezione 
+in parti cinque: imper@o che prima finge che uno di quelli spiriti si 
+manifesti a lui\, narrando la sua morte; ne la seconda\, come poi si 
+manifesta loro col suo parlare\, dicendo anco sua condizione e sua 
+morte\, e come Dante lo dimanda d'alcuna circumstanzia\, et incomincia 
+quive: ^Poi disse un altro~ ec.; ne la tersa\, come elli risponde a la 
+dimanda di Dante\, quive: ^Oh\, rispuose elli~ ec.; ne la quarta finge 
+l'autore come quello spirito\, narrando sua condizione\, manifesta la 
+mutazione naturale del tempo inturbolento farsi alcuna volta per virt@u 
+diabolica\, quive: ^Ben sai come~ ec.; ne la quinta finge come lo terso 
+spirito\, che fu una femina\, anco si li manifest@o\, et incomincia 
+quive: ^Deh quando~ ec.  Divisa adunqua la lezione\, ora @e da vedere lo 
+testo coll'allegorie et esponizioni litterali e morali.
+
+        |64-84.~  In questi sette ternari lo nostro autore finge come 
+venne in notizia d'alcuno di quelli spiriti\, lo quale prima si li 
+manifest@o\, dicendo cos@i: ^Et uno~; cio@e di quelli spiriti\, 
+^incominci@o~; cio@e a parlare e rispondere a le parole dette da me: 
+^Ciascun~; cio@e di noi spiriti\, ^si fida Del beneficio tuo~; cio@e del 
+servigio tuo che tu @ai promesso\, ^senza giurarlo~; cio@e sensa farne 
+giuramento\, come tu @ai fatto di sopra.  E debbiamo notare che 
+beneficio et officio sono differenti: imper@o che beneficio @e quello 
+bene che l'omo fa in verso lo prossimo; officio @e quello bene verso 
+s@e\, in verso 'l prossimo et in verso ogni persona; ma strettamente lo 
+pillia Tullio in libro de li Offici\, secondo questa diffinizione: 
+^Officium est congruus actus uniuscuiusque\, secundum mores et statuta 
+suae civitatis —\, Pur che il voler non posse non ricida~; quasi dica: 
+Noi sappiamo che tu @ai buono volere\, dubitiamo che 'l non potere lo 
+'mpacci\, e per@o si d@e dire: Purch@e il non posse; cio@e lo non 
+potere\, non ricida\, cio@e non rompa lo volere: potrebbe anco dire lo 
+testo: ^Pur ch@e il voler la possa non ricida~; cio@e pur che il 
+podere\, mancando\, s'intende\, non rompa lo volere; quasi dica: Noi 
+sappiamo che 'l volere @e buono\, purch@e 'l podere\, mancando nollo 
+impacci.  ^Und'io~; dice quello spirito di s@e medesimo\, ^che solo\, 
+inanzi alli altri parlo~; questo dice\, perch@e elli solo parlava\, 
+secondo la finzione de l'autore\, e li altri stavano ad udire\, ^Ti 
+prego\, se mai vedi quel paese~; cio@e prego te Dante\, se mai vedi quel 
+paese\, ^Che~; cio@e lo quale\, ^siede tra Romagna e quel di Carlo~; 
+cio@e del re Carlo sensa terra; cio@e la Pullia che fu sotto lo re Carlo 
+di Francia\, conte di Provensa e poi re di Sicilia e di Pullia\, come fu 
+detto di sopra: s@i che intende tra la Pullia e la Romagna\, ^Che tu~; 
+cio@e Dante\, ^mi sii de' tuoi preghi cortese In Fano~; questo Fano @e 
+una citt@a de la Marca d'Ancona unde era messer Iacopo del Cassaro\, lo 
+quale qui l'autore introduce a 
+parlare\, lo quale fu morto per assassini tra Doriaco e Venezia in sul 
+destretto padovano ne la valle\, e fecelo fare lo marchese di Ferrara 
+per alcuni odi li quali aveano insieme per questa cagione: imper@o che 
+il marchese Asso di Ferrara procacci@o nel suo tempo\, quanto potette\, 
+d'avere amistadi in Bologna; e questo ad intenzione d'avere la signoria 
+de la terra\, et ebbevene assai tra per denari e per promesse.  Di che 
+lo popolo di Bologna accorgendosi\, per paura di non venire a signoria 
+tirannica\, cacci@o fuora de la terra tutti quelli che erano sospetti\, 
+et alcuni ne fece guastare a le signorie de la terra.  Et in questo 
+tempo li Bolognesi chiamonno messer Iacopo preditto in podest@a di 
+Bologna; e venuto al reggimento nolli vast@o di fare strazio delli amici 
+del marchese; ma continuamente usava vituperosi parlari di lui\, dicendo 
+che era iaciuto co la matrigna e che elli era disceso d'una lavandaia di 
+panni\, e come acuto in mal dire sempre operava la lingua in male 
+parlare del detto marchese.  Unde lo detto marchese intese ad ordinare 
+la morte sua in questo modo; che uscito de la signoria di Bologna\, 
+sempre li mand@o drieto assassini per ucciderlo\, quando fusse loro 
+destro.  In processo di tempo messer Masio Visconte de Melano lo chiam@o 
+podest@a di Melano; et accettato l'officio venne per mare in fine a 
+Venegia; e quando volse andare da Venegia a Padova\, quelli che lo 
+perseguitavano l'ucciseno nella valle di Doriaco; s@i che finge l'autore 
+che preghi lui lo detto messer Iacopo ch'elli preghi per lui ai suoi\, 
+che erano in Fano che pregasseno per lui\, e per@o dice: ^s@i che ben 
+per me s'adori~; cio@e a Dio si porga preghi per me da' miei\, 
+^Perch'io~; cio@e messer Iacopo\, ^possa purgar le gravi offese~; cio@e 
+quelle che feci a Dio\, mentre vissi.  ^Quindi~; cio@e da Fano\, ^fu' 
+io~; dice lo detto messere Iacopo\, ^ma li profondi fori~; cio@e le 
+profonde ferite\, ^Unde usc@i il sangue\, in sul quale io sedea~; parla 
+l'anima di messere Iacopo; e perch@e 'l sangue si dice la sedia 
+dell'anima\, per@o 
+dice ^in sul quale io sedea\, Fatti mi funno in grembo alli Antenori~; 
+cio@e ai Padovani discesi da Antenore troiano\, come testifica Virgilio: 
+imper@o che in sul terreno di Padova fu morto\, ^L@a dove pi@u siguro 
+esser credea~; per la potenzia dei Padovani\, ^Quel da Esti~; cio@e lo 
+marchese di Ferrara e da Esti\, che @e una terra in Lombardia la quale 
+signoreggia lo detto marchese\, ^il fe far~; che me fe uccidere ai suoi 
+assassini\, ^che m'avea in ira Assai pi@u l@a che il dritto non volea~; 
+cio@e la dirittura; cio@e che l'avea in odio pi@u che non era 
+conveniente.  ^Ma s'io fusse fuggito inver la Mira~; questo @e uno 
+castello nel padovano che si chiama la Mira\, ^Quando fu' sopraggiunto a 
+Doriaco~: Doriaco @e uno monte nel padovano\, dove fu morto lo detto 
+messere Iacopo dalli assassini del marchese\, ^Ancor serei di l@a dove 
+si spira~; cio@e si fiata; cio@e anco sarei in vita.  ^Corsi al padule~; 
+e non a monte\, ^e le cannucce e il braco~; cio@e lo cieno del padole e 
+le cannelle\, ^M'appigliar s@i\, ch'io caddi~; cio@e tanto 
+m'impaccionno\, ch'io caddi\, ^e l@i~; cio@e in quel padule\, ^vidd'io~; 
+cio@e messere Iacopo sopra detto\, ^De le mie vene farsi in terra laco~; 
+cio@e vidde spargere lo suo sangue.
+
+        |85-93.~  In questi tre ternari lo nostro autore finge come uno 
+altro spirito ancora lo prega che preghi per lui\, lo quale finge che 
+fusse Bonconte di messere Guido da Monte Feltro; del quale messer Guido 
+fu ditto nel XXVII canto de la prima cantica\, dicendo cos@i: ^Poi~; 
+cio@e di po' lo parlare de lo spirito di sopra\, ^disse un altro~: cio@e 
+spirito a me Dante: ^Deh se quel disio~; cio@e quello desiderio\, ^Si 
+compia~; cio@e abbia effetto\, ^che ti tragge all'alto monte~; cio@e 
+tira te Dante al monte del purgatorio\, che allegoricamentte significa 
+lo stato de la penitenzia\, lo quale @e alto e faticoso a montare: 
+ciascuno scongiura altri per quello\, che crede che li sia pi@u in 
+desiderio\, ^Con buona pietade aiuta il mio~; desiderio\, che @e di 
+montare a purgarmi e d'andare a vita eterna.  ^Io fui di Montefeltro~; 
+ecco che si manifesta\, e dice che fu dei conti da Montefeltro (questo 
+Montefeltro @e una contrada posta di l@a del Casentino\, et @e uno monte 
+con citt@a e castella\, e quive @e Sanleo) filliuolo del conte Guido et 
+ebbe nome Bonconte e fu morto ne la sconfitta che ebbeno li ghibellini 
+dai guelfi in Campaldino\, che @e uno piano quasi in mezzo di Casentino 
+dove @e ora lo luogo dei Frati minori.  Ferito quinde fu a' l'ora ne la 
+gola\, unde fuggendo ferito fuora di Casentino si moritte\, e mai non si 
+trov@o lo corpo suo; unde l'autore ne fa una bella finzione\, cio@e che 
+caduto in terra in su la foce d'uno fiume che si chiama l'Archiano che 
+@e confine di Casentino e di Bibbiena\, elli facesse croce de le braccia 
+e dimandasse misericordia a Dio e chiamando la Virgine Maria in suo 
+aiuto si morisse\, e che la piena e 'l diluvio di detto fiume che si 
+chiama l'Archiano\, che @e ine le confine di Casentino\, che finge 
+l'autore che crescesse per operazione del dimonio\, ne portasse lo corpo 
+suo in Arno\, e che l'Arno lo coprisse co la sua rena: imper@o che 'l 
+fiume; l'Archiano\, entra in Arno; e questa finge che fusse la cagione 
+che 'l corpo suo non si trov@o mai\, e per@o dice: ^io son Bonconte~; 
+ecco lo nome suo: ^Giovanna~; questa fu la mollie\, la quale non parve 
+curarsi di po' la morte sua de la sua salute\, ^e li altri~; cio@e miei 
+parenti\, ^non @an di me cura~: imper@o che non pregano Dio per me\, 
+^Perch'io vo tra costor~; cio@e tra queste altre anime che sono di mia 
+condizione\, ^con bassa fronte~; non sentendomi aiutato; ma abbandonato 
+da' miei n'abbo malanconia e vergognomene d'essere stato loro s@i poco 
+caro\, e questo @e andare con bassa fronte.  ^Et io~; cio@e Dante\, ^a 
+lui~; cio@e a Bonconte dissi\, s'intende: ^Qual forza\, o qual ventura~; 
+qui tocca l'autore due modi\, per li quali potea essere uscito di 
+Campaldino; cio@e o per forza dei nimici che l'avesseno cacciato\, o per 
+ventura d'essere uscito loro de le mani; e per@o dimanda qual fusse di 
+questi due\, ^Ti travi@o~; cio@e ti tir@o\, ^s@i fuor~; de la via\, ^di 
+Campaldino~; cio@e di quello luogo dove fue la battallia\, ^Che non si 
+seppe mai tua sepultura~; cio@e che mai non fu trovato lo suo corpo\, 
+n@e saputo dove fusse sotterrato?
+
+        |94-108.~  In questi cinque ternari lo nostro autore finge che 
+Bonconte li manifesti la morte sua; e questo fa secondo l'usansa de' 
+poeti\, dando verisimilitudini a le loro finzioni.  La morte di 
+Bonconte; cio@e lo modo\, e lo suo corpo mai non si seppe\, e per@o per 
+mostrare quello che elli ne finge esser vero\, induce lui medesimo a 
+dirlo\, dicendo cos@i: ^Oh\, rispuose elli~; cio@e Bonconte\, ^a pi@e 
+del Casentino~: Casentino @e una valle tonda\, circundata da monti tra 
+Fiorensa et Aresso\, la quale era posseduta da gentili omini che si 
+chiamavano conti di Casentino\, et @e fertile di bestiame\, bella 
+contrada\, et a pi@e de la montagna\, ^Traversa un'acqua~; cio@e uno 
+fiume\, ^che @a nome l'Archiano~; confine tra Casentino e Bibbiena\, 
+^Che sovra l'Ermo nasce in Appennino~; questo Eremo @e uno bosco dove 
+stanno li monaci di san Benedetto dell'ordine di Camalduli\, et @e ne 
+l'alpe del monte Appennino che @e uno monte che va per mezzo de la 
+Italia\, et incomincia da Genova e finisce a Reggio\, incontra a la 
+Sicilia\, e fu gi@a la Sicilia del monte Appennino inanti che si 
+dividesse da la terra continente\, secondo che diceno li autori.  ^Dove 
+il vocabul suo~; cio@e del detto fiume; l'Archiano\, ^diventa vano~: 
+imper@o che entra quive in Arno\, e non si chiama pi@u l'Archiano\, 
+^Arrivai io~; cio@e Bonconte a la foce che entra in Arno\, ^forato ne la 
+gola~; cio@e ferito\, ^Fuggendo a piede~; perch@e avea perduto lo 
+cavallo ne la battallia\, ^e sanguinando il piano~; cio@e impiendo di 
+sangue\, che li uscia de la ferita de la gola\, lo piano che @e inanti a 
+Casentino e dentro.  ^Quivi~; cio@e alla foce di l'Archiano\, ^perdei la 
+vista~; delli occhi io Bonconte\, ^e la parola~; cio@e mia ultima\, ^Nel 
+nome di Maria~; la quale Virgine Maria io chiamava per mio aiuto\, 
+^finio~: per@o che\, dicendo: Virgine Maria\, non potette dir pi@u 
+oltra\, ^e quivi Caddi~; io Bonconte in terra\, ^e rimase la mia carne 
+sola~: imper@o che fu abbandonata dall'anima.  ^Io dico il vero~; ecco 
+che afferma Bonconte quello d@e dire
+\, e conforta l'autore che 'l dica\, tornato al mondo; questo dice 
+l'autore\, per fare verisimile la sua finzione\, ^e tu il ridi'~; cio@e 
+tu\, Dante\, questo vero ch'io dico\, ^tra' vivi~: cio@e nel mondo dove 
+d@ei tornare: ^L'Angel di Dio mi prese~; cio@e me anima di Bonconte\, ^e 
+quel d'Inferno~; cio@e lo dimonio: angelo tanto @e a dire quanto messo\, 
+sicch@e di Dio e d'inferno s'aggiunge a differenzia\, ^Gridava~; cio@e 
+lo dimonio\, quando l'angiulo di Dio me ne portava: ^O tu del Ciel~; 
+cio@e\, o tu messo del cielo\, ^perch@e me privi~; de la preda mia?  
+Cotesta anima @e mia.  ^Tu te ne porti~; continua lo dimonio lo suo 
+parlare in verso l'angiulo\, come referisce Bonconte\, ^di costui~; 
+cio@e di questo omo\, ^l'eterno~; cio@e l'anima che @e eterna; cio@e 
+perpetua propriamente\, ^Per una lagrimetta~; cio@e per una picciola 
+contrizione\, che @ae avuto a la fine de la sua vita ^ch'el mi tollie~; 
+cio@e la quale contrizione mel tollie: ecco che s'accorda l'autore co la 
+sentenzia de' Teologi; che chi si pente al fine de la sua vita\, Dio @e 
+tanto misericordioso che lo riceve\, ^Ma io far@o~; dice lo dimonio\, 
+^dell'altro~; cio@e del corpo\, ^altro governo~; che non farai tu\, 
+angelo\, dell'anima sua\, che tu allogherai l'anima sua nel purgatorio a 
+speransa di salute; et io sotterrer@o lo suo corpo et appiatter@o in 
+modo che non si trover@a mai.
+
+        |109-129.~  In questi sette ternari lo nostro autore finge che 
+Bonconte\, continuando lo suo parlare\, li manifesti quel che 'l dimonio 
+fece del suo corpo\, ponendo qui due cose notabili; l'una fisica\, cio@e 
+come si generi la pioggia; l'altra teologica\, cio@e come adopra 
+l'angiulo e 'l dimonio ne le cose naturale\, dicendo cos@i: ^Ben sai~; 
+continua lo suo parlare Bonconte e dice a Dante: ^Ben sai~; tu\, Dante\, 
+che @ai studiato la Metaura d'Aristotile\, dove si tratta di questa 
+materia\, ^come nell'aire si raccollie Quell'umido vapor~; dice 
+Aristotile nel libro predetto che li vapori umidi\, levati da la terra 
+per virt@u del sole\, sallieno suso a la seconda regione de l'aire; e 
+quive ripercossi dal freddo si risolveno in acqua e cadeno giuso\, e 
+cos@i piove pogo o molto\, secundo la quantit@a dei vapori; e per@o 
+dice: ^che in acqua riede~; cio@e ritorna lo vapore umido in acqua\, 
+come da acqua si genera\, ^Tosto ch'ei sale~; detto vapore\, ^dove il 
+freddo collie~; cio@e a la seconda regione dell'aire.  ^Giunto quel mal 
+voler~; cio@e lo dimonio lo quale chiama mal volere: imper@o che 
+l'angelo e lo dimonio ebbe memoria\, intelletto e volont@a ne la sua 
+creazione pi@u perfettamente che l'omo; bench@e la volont@a del dimonio 
+@e ora depravata e corrotta\, e quella dell'angiulo @e confermata che 
+non pu@o voler se non bene\, e lo dimonio se non male; e per@o lo chiama 
+Bonconte ^mal voler~\, secondo che finge l'autore\, et adiunge: ^che pur 
+mal chiede~: imper@o che non pu@o volere se non male\, come detto @e\, 
+^Co lo intelletto\, mosse e il fumo e il vento~; le sustanzie formali\, 
+cio@e li angeli\, li dimoni e l'anime umane ci@o adoprano per intelletto 
+come appare ne l'omo\, che quive dove lo intelletto intende\, move 
+l'anima lo corpo; cos@i le cose de la natura sono mosse dalli angeli e 
+dai dimoni\, secondo che lo loro intelletto intende tanto\, quanto @e 
+loro permesso da Dio; e per@o dice l'autore che 'l dimonio co lo 
+intelletto trasse di quelli vapori li pi@u sottili a la tersa regione de 
+l'aire\, sicch@e
+ si convertetteno in fumo et in vento\, sicch@e fece nebbia e vento\, 
+^Per la virt@u\, che sua natura i diede~; cio@e a l'angelo; de la quale 
+virt@u naturale anco tene lo dimonio tanto\, quanto ebbe l'angiulo\, se 
+non quelli che perdette\, perdendo la grazia di Dio; cio@e lo poter bene 
+operare.  ^Inde~; cio@e di quinde e per quello modo\, ^la valle~; cio@e 
+quella del Casentino\, ^come il d@i fu spento~; cio@e come fu fatto 
+sera\, ^Da Pratomagno~; questo @e monte altissimo chiamato cos@i; dal 
+quale luogo infine a l'alpe coperse de nebbia; cio@e infine a Falterona 
+che li @e incontra; cio@e a Pratomagno; e per@o dice: ^e il gran giugo 
+coperse Di nebbie~: giugo @e lo colle del monte\, ^e il giel di sopra 
+fece intento~; cio@e caccionne lo dimonio lo gielo che era sopra li 
+vapori\, a ci@o che pi@u fortemente ripellesse li vapori umidi e 
+risolvesseli in acqua; e per@o dice: ^S@i\, che il pregno aire~; de' 
+vapori umidi preditti\, ^in acqua si converse~; risolvendosi li predetti 
+vapori ne la sua materia.  ^La pioggia~; dei ditti vapori\, ^cadde~; 
+dell'aire gi@u in terra\, ^et ai fossati venne Di lei ci@o che la terra 
+non sofferse~; cio@e tutto quello\, che la terra non succhi@o\, venne 
+nei fossati per scolare nei fiumi.  ^E come ai rivi grandi si convenne~; 
+cio@e come l'acqua dei fossati e de li scolatoi de le montagne si raun@o 
+ne li rivi de la valle\, ^Ver lo fiume real~; cio@e verso l'Arno: 
+chiamano li Poeti fiumi reali quelli che fanno capo in mare\, come fa 
+l'Arno; l'altri no.  L'Arno esce d'uno monte di Casentino che si chiama 
+Falterona e corre per lo Casentino\, et in esso intrano poi molti altri 
+fiumi li quali li autori chiamano fiumi populari; e di quel medesmo 
+monte\, de l'altro lato esce lo Tevero che va a Roma: entrano li rivi 
+del Casentino in Arno\, et uno fiume populare che @e presso a Bibbiena\, 
+che si chiama l'Archiano lo quale entra in Arno e per quello fiume anco 
+molte acque del Casentino entrano in Arno\, ^tanto veloce Si ruin@o~; 
+cio@e la pioggia\, ^che nulla la ritenne.  Lo corpo mio~; dice Bonconte 
+a Dante\, ^gelato~; perch'era morto\, ^in su la foce~; cio@e sua\, 
+^Trov@o l'Archian rubesto~; cio@e quel fiume\, diventato per la pioggia 
+corrente e fortunoso\, ^e quel~; cio@e lo corpo\, ^sospinse Nell'Arno~; 
+nel quale entra lo detto fiume\, ^e sciolse al mio petto la croce~; 
+cio@e de le braccia e de le mani che io Bonconte avea fatto al mio 
+petto\, e per@o dice: ^Ch'io fei di me~; cio@e de le mie braccia e 
+mani\, ^quando il dolor~; cio@e de la ferita che era a morte\, ^mi 
+vinse~: et accordasi questa sentenzia con Seneca\, che dice che o lo 
+dolore vince l'omo\, o l'omo lo dolore\, ^Voltommi per le ripe e per lo 
+fondo~; cio@e l'Arno lo mio corpo\, ^Poi di sua preda~; cio@e de la 
+terra\, che avea predato e tolto de le ripe\, ^mi coperse e cinse~; 
+cio@e lo mio corpo.  E qui finisce Bonconte lo suo parlare con Dante.
+
+        |130-136.~  In questi due ternari e versetto lo nostro autore 
+finge che uno altro spirito ancora si li raccomandasse\, dicendo cos@i: 
+^Deh quando tu~; cio@e Dante\, ^serai tornato al mondo~; questo finge 
+l'autore\, per fare verisimile lo suo poema\, ^E riposato de la lunga 
+via~: bene @e lunga la via passare dall'una superfice de la terra a 
+l'altra per lo centro.  Montare lo monte altissimo\, passare la spera 
+del fuoco\, montare al paradiso ^delitiarum~ e poi per tutti li cieli 
+infine al cielo empireo\, per certo questo @e lo pi@u longo e pi@u alto 
+viaggio che mai si facesse; ma allegoricamente si d@e intendere esser 
+fatto questo viaggio co la mente\, e quanto a la verit@a\, che ben 
+sarebbe grosso chi intendesse altramente.  ^Seguit@o il terzo spirito~; 
+cio@e di quelli tre che detto @e di sopra\, ^al secondo~; cio@e di po' 
+Bonconte da Monte Feltro\, che disse di po' messere Iacopo dal Cassaro 
+di Fano che fu lo primo\, ^Ricorditi di me~; tu\, Dante\, ^ch'io son la 
+Pia~; questa fu madonna Pia mollie che fu de messer Nello da la Pietra 
+da Siena\, lo quale\, andato in Maremma per rettore\, men@o seco la 
+detta sua donna; e per certo fallo che trov@o in lei l'uccise s@i 
+secretamente\, che non si seppe allora; e per@o finge l'autore ch'ella 
+parli in questa forma\, prima nominandosi et appresso dice: ^Siena mi 
+fe~; perch@e di Siena fue natia\, ^e disfecemi Maremma~; perch@e in 
+Maremma moritte\, ^Salsi~; cio@e lo modo de la mia morte\, e la mia 
+morte\, ^colui che innanellata pria\, Disposando\, m'avea co la sua 
+gemma~; cio@e lo detto messer Nello mio marito\, lo quale m'avea 
+desposata.  Per circuizione\, come usanza @e de' Poeti dice che fu suo 
+marito; e per questo conferma l'autore quello che @e detto di sopra; et 
+@e da pregare per quelli che sono in purgatorio.  E qui f@inisce lo 
+canto quinto\, et incomincia lo sesto.

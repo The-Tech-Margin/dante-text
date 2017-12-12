@@ -1,0 +1,21 @@
+..COMM:
+Benvenuto
+..DTYP:
+D
+..LANG:
+Latin
+..AUTH:
+Benvenuto da Imola
+..PUBD:
+1375-80
+..PUBL:
+Benevenuti de Rambaldis de Imola Comentum super Dantis
+Aldigherij Comoediam, nunc primum integre in lucem editum sumptibus
+Guilielmi Warren Vernon, curante Jacobo Philippo Lacaita.
+Florentiae, G. Barb@era, 1887.
+..DENT:
+KDEM
+..EDTR:
+^Inferno~: Kevin Brownlee; ^Purgatorio~ and ^Paradiso~:
+Kevin Brownlee and Robert Hollander.
+..LODD:

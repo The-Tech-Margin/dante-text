@@ -1,0 +1,116 @@
+Thu Apr 18 22:28:11 EDT 1991 the following corrections have been made,
+in anticipation of the 1991 load:-------------
+
+Twice in the db "delia" appears where "della" is wanted:
+Casini/ Barbi	INF. 1.118
+Casini/Barbi Inf 31.67: 6 fr. bottom: vocabolarn = vocabolari (?)
+
+Casini/Barbi	30.4:	IV 22 = IV 220
+    "		30.61	Agnae vivae = Aquae vivae
+Hi.  Got some for you.  First of all Benvenuto doesn't seem to have had
+his ligatures untied (ae, etc.).  I thought we were going to do that
+at last load.  Let me know what you think.
+Berthier, Inf. 33. 22-27: Pisanni = Pisani.  
+
+
+Bianchi Par	30.82	rere = ruere
+ ditto			penult. : silsillaba = sillaba
+
+Bosc/Reggio, Inf. 4.128: Comelia = Cornelia
+check Castel Inf. 20. 31-123.  missing tilde in citation
+
+^In Psal. CIII Enarr. ...
+
+should have tilde after "Enarr.".
+ 
+Par. 7.1 Costa	chiarezzza = chiarezza
+Daniello,intendono  = Daniello, intendono
+Fallani Purg 2.46	II salmo = Il salmo
+Fallani purg 2.46	II salmo = Il salmo
+check: fiorentino Par. 18.119: backslash
+Both in ANon Fiornetino
+
+Purg. 6.71-5: Sordallo = Sordello
+ "    7.1-3:  patrun = patrum
+
+
+Janet: have you got all my various corrections ready for the next load?
+Anon. fior: Purg. 26. 127-132: Guinzelli = Guinizelli
+I note that Anon. fior. does this twice.  He may have meant it (see
+last message).  On the other hand, he elsewehere spells it right.
+In each case let's do it as follws: "Guin{i}zelli": OK
+
+Giacalone	30.1:	inizio.  quasi = inizio, quasi
+The Aug. passage in VI.106-115 has a misprint (the only one I've noted
+so far): guadia = gaudia.
+Lombardi  "    "  "    Paulo = Paolo (?); also, this page seems to be loaded
+  with extra tilde's--floating, s it were.  I'm looking at the data in VT100.
+  Please check Lombardi out--that could be a mess.
+
+
+Lombardi Par	30.30	fu mal = fu mai
+Lombardi, Purg. 6.19-24: prsente = presente
+Pietro di Dante, Purg. 1.37-39: magnanimitatatis = magnanimitatis
+Twice in the db "delia" appears where "della" is wanted:
+Porena, Nota to Inf. 16
+Porena 7.nota should be fixed to read 7.1, because the note is
+exclusively tied to that text and will get lost unless folks do a
+word search.  I wonder what other "free-floating" Porena notes we
+have.  Can we find out?  MF usually tied things in better than that.
+
+{That's INF. 7--sorry}
+
+
+Porena Par	30.25-8 L'immamagine = L'immagine
+Porena, par.30.7-9: ll cielo = il cielo
+
+Purg. 19.19-26 Portirelli: essendosei = essondosi (?)
+
+Portirelli, Par. 15.28-36: proabilmente = probabilmente
+
+purg  19.1-75  Ruskin (screen 6): comparine = comparing
+Sapegno Purg. 8.19-21:
+Sapegno PURG 2.46	quelIe = quelle
+Sapegno PURG 2.46	quelIe = quelle
+Sapegno, Par. 14.91-95:  Latinisino = Latinismo
+	Scartazzini, Par. 20.107: buonm
+Purg  19.  26   Scartazzini: L uno = L'uno
+Purg  19.  26   Scartazzini: L uno = L'uno
+purg  19.22    Scartazzini (screen 1): ma no = ma non
+purg  19.22        "          "    2 : quoe = quae
+Scartazzini (1900), Inf. 31, Nota (at end): screen 11: quste = queste
+Scartazzini INF 7.1, scr. 2, Ii = Il
+Scartazzini, Par. 18.91 justiam = justitiam
+Scartazzini INF 7.1, scr. 2, Ii = Il
+par.7.1  1-2 Scartazzini		formola = formula
+
+Scartazzini Par	30.25-7 termante = tremante
+     "		30.82f  vistimenta = vestimenta
+     "		30.93	ddica = addica
+
+Scartazzini, par.30.1-45: giudiio = giudizio
+that is      par.30.101-2: Agositno = Agostino
+
+Serravalle Par	30.46-51 fulguris = fulgoris
+There was a typo in Serravalle, Paradiso 29, at the very end.  There are the
+garbage characters \'1a.  You can see them by searching for the word
+perfectionibus.  I deleted them from the 29.e file and the staging file,
+so it will be fixed the next time we load.
+
+I found this because I had to edit every file to delete the blank line that
+appears at the end of most of them.  In the future, let's not have any
+extra blank lines at the end, OK?
+							Steve
+
+
+Singleton Par	30.24	X, 113 = xx, 113
+NB Singleton, above, = XX, 113 (NOT xx, 113)
+
+A missing citation in TOMMASEO, Inf. 31.67-69: Aen. VI {49}
+purg  19.22    Venturi: abero = albero
+Venturi, PAR 15.28-30: copro = corpo
+
+Venturi  Par. 15.28-30  copro = corpo
+
+Venturi Par	30.88-90 diffusionne = diffusione
+---------------------------------

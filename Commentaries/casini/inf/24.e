@@ -1,0 +1,573 @@
+	|1. In quella parte~ ecc.:  Biag.: <Vago @e il principio
+di questo canto, e di gran bellezza questa nuova similitudine,
+tolta dalla stessa natura; e sembra questo uno di quei luoghi ove
+il poeta vuol mostrarsi quale egli @e, cio@e ad ogni altro
+superiore.  Il principale suo intendimento si @e di ritrarre quanto
+fu grande il suo sbigottimento, bench$e di poca durata, in veder
+Virgilio s$i turbato>: il Tomm. invece giudica questa similitudine
+<troppo erudita>, e direbbesi pi$u tosto, un po' troppo minuziosa;
+sebbene anche nella abbondanza dei particolari si manifesti pur
+sempre la stupenda arte di Dante, che dovendo rappresentare il
+mutamento d'animo del contadino, sa cos$i efficacemente
+compenetrarlo alla descrizione del mutamento degli aspetti
+naturali che di quello @e il motivo.  |giovanetto~:  novello;
+cfr. Petrarca LXXII 14, <ringiovenisce l'anno>.
+
+	|2. che 'l sole i crin~ ecc.:  il sole rinvigorisce i
+suoi raggi, quando appare nella costellazione dell'Aquario, dal
+21 gennaio al 21 febbraio, e s'avvicina il tempo in cui la notte
+e il d$i s'agguagliano.
+
+	|4. quando~ ecc.:  allorch$e la brina nei campi rende
+imagine della neve: il vb. ^assemprare~ deriva da ^exemplare~
+(cos$i ^assempro~ da ^exemplum~) e significa trascrivere,
+ritrarre, rendere imagine ecc.: cos$i nel proemio della ^V. N.~:
+<le parole le quali @e mio intendimento d'assemprare (o
+^assemplare~) in questo libello>, e nel Cavalcanti, canz. II:
+<Canzon, tu sai che de' libri d'amore Io t'assemprai>.
+
+	|6. ma poco~ ecc.:  la tempratura della penna, onde
+ritrae la neve, dura poco, cio@e la brina si dissolve presto.
+Dante atteggia novamente, in conformit@a dell'idea del ritrarre,
+il pensiero espresso da Lucano, ^Fars.~ IV 52: <Urebant montana
+nives camposque iacentes Non duraturae conspecto sole pruinae>.
+
+	|7. la roba~:  l'erba, il foraggio per le sue pecore.
+
+	|8. la campagna~ ecc.:  ricorda l'oraziano, ^Od.~ I 4,
+4 <Prata canis albicant pruinis>.
+
+	|9. si batte l'anca~:  si rammarica credendo che sia
+caduta la neve.
+
+	|11. come 'l tapin~ ecc.:  come il misero, incerto di ci@o
+che deve fare; comparazione inclusa nella principale per mettere
+in rilievo gli effetti morali di un fenomeno fisico.
+
+	|12. riede~:  ritorna; lat. ^redire.~  |la speranza
+ringavagna~:  @e frase consimile a quella dell'^Inf.~ XI 54
+<fidanza imborsa> e significa: accoglie di nuovo nell'animo la
+speranza; poich$e, come not@o l'An. fior., <^gavagne~ sono certi
+cestoni che fanno i villani, s$i che ^ingavagnare~ non vuole dire
+altro che incestare, cio@e insaccare speranza, avere maggiore
+speranza che prima>; cfr. Parodi, ^Bull.~ III 139.
+
+	|14. vincastro~:  verga lunga e flessibile; cfr. ^Rime~
+LXII 1; @e detto cos$i anche dal Poliziano, ^St.~ I 19: <Poi quando
+mover lor col suo vincastro>.
+
+	|17. s$i turbar~ ecc.:  cfr. ^Inf.~ XXIII 146.
+
+	|18. e cos$i~ ecc.:  come il mutato aspetto della campagna
+conforta subito il contadino, cos$i il dolce piglio del mio duca
+fu rimedio al mio sbigottimento.  |lo 'mpiastro~:  nel senso
+generico di rimedio l'us@o anche il Petrarca, ^Trionfo della fama~
+II 129: <all'italiche doglie fiero empiastro>; Dante stesso ha
+nelle sue ^Rime~ LXII 5-6 <Poi quando fie [sar@a] stagion, coi
+dolci impiastri Far@a [Amore] stornarvi [allontanare da voi] ogni
+tormento agresto>; cfr. M. Barbi, in ^Rassegna bibliogr. d.
+lett. ital.~, 1915, pp. 229-230.
+
+	|20. con quel piglio~ ecc.:  con quell'atteggiamento
+benigno, che per la prima volta io aveva veduto quando Virgilio
+mi apparve por liberarmi dall'impedimento delle tre fiere (cfr.
+^Inf.~ I 61 sgg.).
+
+	|22. Le braccia~ ecc.:  Virgilio considerando bene prima
+la ruina per vedere s'era tale da potervi salire, dopo aver
+abbracciato dentro di s$e il partito che gli parve migliore d'ogni
+altro, prese Dante con le sue braccia e incominci@o a sospingerlo
+su per l'erta.
+
+	|25. come quei ch'adopera ed estima~ ecc.:  come colui
+che opera e, mentre opera, mentre agisce, pensa via via e sceglie
+quello che gli conviene fare successivamente, cos$i che appare
+sempre che preveda e preordini il suo vantaggio, che non si lasci
+mai cogliere alla sprovvista.
+
+	|28. ronchione~:  masso sporgente, scheggia; cfr. la nota
+a ^Inf.~ XX 25.  |avvisava~:  adocchiava; cfr. ^Inf.~ XVI 23.
+
+	|30. ma tenta pria~ ecc.:  ma prima prova con la mano se
+@e cos$i salda da reggerti.  |reggia~:  regga, ed @e forma analogica
+su altre forme, come p. es. <proveggia> ^provideat~ del v. 26.
+
+	|31. Non era via~ ecc.:  quella non era via per la quale
+avesse potuto salire alcuno degl'ipocriti, ricoperti dalle
+pesanti cappe; ch$e appena Virgilio, pura ombra, e Dante, sospinto
+dalla sua guida, potevano montare aggrappandosi di roccia in
+roccia.  Si noti l'antitesi tra il ^noi~ e il ^vestito di cappa~;
+che vorr@a dire dunque ricoperto della cappa, come gl'ipocriti,
+non gi@a, come spieg@o il Lomb., ^veste larga e talare.~
+
+	|33. potavam~:  potevamo.  |chiappa~:  vale lo stesso che
+^rocchio~ e ^ronchione~, ossia masso sporgente.
+
+	|34. E se non fosse~ ecc.:  Dante vuol dire che delle due
+sponde costituenti la bolgia sesta, quella della parte interna
+(verso la bolgia settima) per la quale salivano, era meno alta di
+quella della parte esterna (verso la bolgia quinta) per la quale
+erano discesi (^Inf.~ XXIII 43 sgg.): come ci@o possa essere, @e
+spiegato nei versi che seguono.  |precinto~:  cintura, argine.
+
+	|36. non so~ ecc.:  di Virgilio non so, ma io non avrei
+potuto resistere alla fatica della salita.
+
+	|37. Malebolge inver~ ecc.:  Malebolge @e tutta inclinata
+verso l'apertura (^porta~) del pozzo dei giganti; perci@o la
+condizione in declivio delle bolge porta di necessit@a che delle
+due ^coste~ interne di ciascuna ^valle~ o bolgia l'una, quella
+concava, dell'argine di cerchio maggiore, @e pi$u alta (^surge~)
+sul piano della bolgia, e l'altra, dell'argine di cerchio minore,
+convessa, @e pi$u bassa (^scende~); e avendo tutte le bolge uguale
+profondit@a, ne segue che il piano di ciascuna @e pi$u in basso che
+quello della precedente e pi$u in alto che quello della seguente:
+onde la costa inferiore @e in ciascuna anche pi$u ^corta~ della
+costa superiore, e precisamente di tanto quanto @e il dislivello
+fra il piano della bolgia da loro contenuta e quella della bolgia
+precedente.
+
+	|41. in su la punta~ ecc.:  sulla cima della ^ruina~ e
+della ^costa~ (^Inf.~ XXIII 137-138), dalla quale sporge l'ultimo
+dei massi per i quali noi eravamo saliti.
+
+	|43. La lena~ ecc.:  quando fui giunto alla cima, la
+^lena~, il respiro, mi era stato cos$i ^munto~ dai polmoni, cio@e
+mi si era esaurito nello sforzo del salire, ch'io non potevo
+camminare pi$u oltre, e per@o appena arrivato (^ne la prima
+giunta~) mi posi a sedere.  @E spiegazione acuta del Torraca, che
+richiama il passo del ^Par.~ XXI 87.
+
+	|46. Omai convien~ ecc.:  Virgilio, vedendo Dante vinto
+dalla stanchezza, lo ammonisce che cotali fatiche deve sostenere
+l'uomo desideroso d'acquistare la gloria, dicendogli: Ormai
+bisogna che tu sia operoso, perch$e vivendo nell'ozio e dormendo
+non si acquista la fama, e chi muore senza averla conseguita non
+lascia di s$e alcuna durevole memoria.  L'ammoninento di Virgilio
+richiama al pensiero le parole d'Orazio, ^Epist.~ II iii 412:
+<Qui studet optatam cursu contingere metam Multa tulit fecitque
+puer, sudavit et alsit>.  |tu cos$i ti spoltre~:  tu ti spoltrisca
+con simili eserciz#i faticosi.
+
+	|49. sanza~:  senza.
+
+	|51. qual fummo~ ecc.:  similitudine che ricorda la
+Virgiliana, ^En.~ V 740, dell'ombra d'Anchise: <Tenues fugit,
+ceu fumus, in auras>, e risale forse a consimili imagini bibliche
+(^Salmi~ XXXVI 20, LXVII 3, ^Sap.~ V 15).
+
+	|52. E per@o~ ecc.:  l@evati e vinci la stanchezza con la
+forza della volont@a, che trionfa d'ogni difficolt@a pur che non
+s'abbandoni insieme col corpo.
+
+	|53. con l'animo~ ecc.:  cfr. ^Purg.~ XVI 75-78.
+
+	|55. Pi$u lunga scala~ ecc.:  La pi$u lunga salita
+accennata da Virgilio @e quella del monte del Purgatorio (cfr.
+^Purg.~ III 46-51, XI 40, XIII 1, XVII 65, 77, XXI 21, XXII 18,
+XXV 8, XXVII 124).
+
+	|56. non basta~ ecc.:  non basta avere orrore del vizio,
+ma bisogna purificarsi d'ogni colpa, per esser degno della
+beatitudine.
+
+	|57. se tu m'intendi~ ecc.:  si cfr. questo col passo
+parallelo del ^Purg.~ VI 46-51.  |vaglia~:  valga, giovi l'aver
+inteso.
+
+	|60. son forte e ardito~:  cfr. ^Inf.~ XVII 81; Biag.:
+<formola che comprende e la forza del corpo e la franchezza
+dell'animo>.
+
+	|61. Su per~ ecc.:  I due poeti s'incamminarono sullo
+scoglio, che formava un altro ordine di ponticelli sulle bolge ed
+era pi$u difficile di quello su cui avevano varcato le bolge
+anteriori.
+
+	|62. ronchioso~ ecc.:  pieno di sassi, stretto, difficile
+e faticoso: ^ronchioso~ vuol dire pieno di rocchi o ronchioni
+(cfr. ^Inf.~ XX 25 e n.).
+
+	|63. pria~:  prima, lat. ^prius.~
+
+	|64. Parlando~ ecc.:  Mentre Dante camminava parlando,
+per mostrare a Virgilio che ei non era stanco, dal fondo della
+settima bolgia s'alz@o una voce indistinta.
+
+	|65. onde~:  ha valore causale; cfr. la nota al v. 69.
+
+	|66. disconvenevole~:  bene spiega il Buti: <non
+conveniente a formar parole che si potessono intendere>: era la
+voce di un dannato che per grand'ansia nel correre (vv. 69 e 92),
+o per gran rabbia (se si accetti nel v. 69 la lezione ^ad ira~),
+non riusciva a formare le parole.  Altri spiegano come fossero
+fischi e sibili; ma il passo lascia comprendere che era proprio
+voce di parole, che a Dante arrivavano indistinte.
+
+	|67. sovra 'l dosso~ ecc.:  il culmine del ponticello;
+cfr. ^Inf.~ XVIII 110.
+
+	|68. varca quivi~:  d@a il valico, fa da ponte, su quella
+bolgia; cfr. ^Inf.~ XXIII 135.
+
+	|69. chi parlava~ ecc.:  Dante non dice chi fosse il
+peccatore che parlava ansiosamente (oppure sdegnosamente):
+alcuni (cfr. Del Lungo, ^Bianchi e Neri in un episodio di
+Malebolge~, in ^Nuova Antol.~, 16 dic. 1919) credono che possa
+essere il pistoiese Vanni Fucci, che sar@a fra poco rappresentato
+come assalito dai serpenti; ma, da ci@o che si legge ai vv. 91-97
+non appar probabile.
+
+	|70. li occhi vivi~ ecc.:  gli occhi non potevano
+distintamente vedere il fondo della bolgia per l'oscurit@a: sul
+valore dell'espressione ^occhi vivi~ cfr. ^Inf.~ XXIX 54.  Altri
+intende: occhi corporali, di me vivo.
+
+	|72. fa che tu arrivi~ ecc.:  per cortesia, arriva sino
+all'altro argine che cinge la bolgia (^cinghio~) e discendiamo
+dalla cima di questo erto scoglio (^muro~): l@a, assai pi$u basso
+(cfr. n. 37) e per fianco, la vista @e pi$u sicura e compiuta.
+
+	|74. ch$e com'i' odo~ ecc.:  perch$e di sul ponte, come non
+intendo le parole che sento pronunziare nel fondo della bolgia,
+cos$i non discerno ci@o ch'io vedo.
+
+	|78. seguir~:  seguitare, accompagnare.
+
+	|79. il ponte da la testa~ ecc.:  da quella estremit@a del
+ponte che va a terminare sull'ottavo argine.
+
+	|80. s'aggiugne~:  si congiunge; cfr. ^Inf.~ XXXI 56.
+
+	|81. mi fu la bolgia~ ecc.:  @E la settima bolgia, ove
+sono puniti i ladri; i quali, continuamente assaliti dai
+serpenti, sono ridotti in cenere e poi riprendono la figura
+primitiva, s$i che la loro pena si potrebbe dire un eterno
+annientamento dell'essere.
+
+	|82. stipa~:  l'An. fior. attesta che <^stipa~ @e detta
+ogni cosa ch'@e calcata e ristretta insieme>; cos$i qui e in
+^Inf.~ XI 3 significa ammasso confuso; cfr. F. D'Ovidio, ^Del
+sostantivo `stipa' in Dante~, negli ^Atti della R. Accad. di
+Arch. Lett. e Belle Arti~ di Napoli, N. S., VI 96-109.
+
+	|83. di s$i diversa mena~ ecc.:  di cos$i strane specie che
+il ricordo di essi mi guasta il sangue: il nome ^mena~ qui non
+pu@o avere altro valore che quello di condizione, qualit@a (cfr.
+^Inf.~ XVII 39).
+
+	|84. scipa~:  disperde, fa fuggire; cfr. ^Inf.~ VII 21.
+
+	|85. Pi$u non si vanti~ ecc.:  Lucano, in una parte del
+suo poema alla quale Dante accenna in ^Inf.~ XXV 94, descrive ed
+enumera i serpenti che infestano gli arenosi deserti della Libia
+cos$i (^Fars.~ IX 708): <At non stare suum miseris passura
+cruorem, Squamiferos ingens Haemorrhois explicat orbes; Natus et
+ambiguae coleret qui Syrtidos arva Chersydros, ^tractique via
+fumante Chelydri; Et semper recto lapsurus limite Cenchris~;
+Pluribus ille notis variatam pingitur alvum, Quam parvis tinctus
+maculis thebanus Ophites; Concolor exustis, atque indiscretus
+arenis Hammodytes; spinaque vagi torquente Cerastae; Et Scytale
+sparsis etiam nunc sola pruinis Exuvias positura suas; et 
+torrida Dipsas; ^Et gravis in geminum surgens caput Amphisbaena~:
+Et Natrix violator aquae, ^Iaculique volucres; Et contentus iter
+cauda sulcare Phareas~>.  I nomi dei serpenti ricordati da Dante
+sono tratti evidentemente da questo passo di Lucano (cfr. Moore,
+I 238); e come egli ha tralasciato altre specie serpentine, cos$i
+non ha nominati i ^chersidri~, dei quali alcuni vogliono
+introdurre il ricordo leggendo: ^Chersi, chelidri, iaculi, far@ee
+Producer cencri con amfisibena~; lezione che non ha sufficiente
+autorit@a di codici.
+
+	|88. n$e tante~ ecc.:  i deserti della Libia, dell'Etiopia
+e dell'Arabia non produssero mai nulla di cos$i pestifero e
+velenoso: anche questo @e manifesto ricordo di Lucano, ^Fars.~ IX
+805: <Sed maiora parant Libycae spectacula pestes>; cfr. Moore, I
+362.
+
+	|90. ci@o che di sopra~ ecc.:  il deserto dell'Arabia, che
+@e al di sopra del mar Rosso, rispetto all'Egitto.  |@ee~:  @e;
+Dante l'usa solamente in rima (^Purg.~ XXXII 10, ^Par.~ XXVIII
+123), ma altri antichi l'hanno anche fuor di rima e in prosa
+(cfr. Nannucci, ^Verbi~ 435).
+
+	|91. Tra questa~ ecc.:  in mezzo al gran numero dei
+serpenti correvano i peccatori ignudi e spaventati, senza
+speranza di trovare un buco per il quale potessero sfuggire o un
+talismano che li proteggesse.
+
+	|93. elitropia~:  erba e pietra preziosa, alla quale gli
+antichi attribuivano miracolose virt$u, massime di guarire le
+morsicature dei serpenti e di rendere invisibile chi l'avesse
+addosso.
+
+	|94. con serpi~ ecc.:  Questo aggropparsi dei serpenti
+intorno ai ladri fu imaginato da Dante per ritrarre con vivi e
+forti colori l'astuzia e la malizia con la quale s'intromettono
+a rubare nei luoghi chiusi e il loro aggirarsi nascostamente a
+togliere l'altrui.
+
+	|95. le ren~:  le reni dei dannati (^Inf.~ XXV 57).
+
+	|97. Ed ecco a un~ ecc.:  Mentre Dante e Virgilio
+guardavano nel fondo della bolgia, un serpente s'avvent@o 
+d'improvviso a un peccatore che stava presso la riva dal lato
+interno, trafiggendolo alla gola: l'infelice s'accese
+riducendosi in cenere, che subito si raccolse di per s$e e riprese
+novamente le sembianze corporali di prima.  Il peccatore, del
+quale i due poeti osservano la rapida tramutazione, @e Vanni
+Fucci; cfr. vv. 118 sgg.  L'idea di questo incenerimento per la
+trafittura del serpente @e tratta senza dubbio dal caso di
+Sabello, di cui vedasi la nota all'^Inf.~ XXV 94; cfr. A.
+Dobelli, ^Bull.~ IV 17.
+
+	|100. N$e~ ^o~ |s$i tosto~ ecc.:  Similitudine tanto pi$u
+vigorosa e scolpita, quanto @e pi$u comune il fatto da cui @e tolta;
+perch$e appunto l'arte vera non ha bisogno di cercare fuori della
+realt@a la materia delle sue creazioni: nulla, nel caso
+particolare, poteva riuscire pi$u proprio a indicare 
+l'istantaneit@a dell'azione, che il paragone con un atto di
+brevissima durata quale @e lo scrivere lettere d'un solo tratto di
+penna.
+
+	|103. e poi~ ecc.:  si paragoni con ci@o che Virgilio
+scrive di Proteo, ^Georg.~ IV 439: <Ille suae contra immemor
+artis, Omnia transformat sese in miracula rerum, Ignemque
+horribilemque feram, fluviumque liquentem.  Verum, ubi nulla fugam
+reperit pellacia, victus In sese redit, atque hominis tandem ore
+locutus>.
+
+	|105. quel medesmo~:  quello ch'era prima di esser
+trafitto dal serpente.  |di butto~:  d'un colpo, subitamente; @e
+anche in ^Purg.~ XVII 40, e nella forma pi$u comune ^di botto~ in
+^Inf.~ XXII 130.
+
+	|106. Cos$i per li gran savi~ ecc.:  Dante accenna a
+quello che favoleggiarono della fenice i poeti e i dotti
+dell'antichit@a e del medioevo (p. es. Plinio, ^H. N.~ X 2,
+Claudiano, ^Idil.~ XLII; rimatori italiani in D'Anc., I 115,
+510, 516 e Val., I 137, 290, 297, II 24, 210, 510; B. Latini,
+^Tesoro~ VI 26 ecc.), ma nella sua descrizione egli segue
+massimamente Ovidio, ^Met.~ XV 392: <Una est, quae reparet seque
+ipsa reseminet, ales: Assyrii phoenica vocant.  ^Non fruge neque
+herbis, Sed turis lacrimis et succo vivit amomi.  Haec ubi quinque
+suae complevit saecula vitae~, Ilicet in ramis tremulaeque
+cacumino palmae Unguibus et puro nidum sibi construit ore, Quo
+simul ac casias ^et nardi lenis aristas Quassaque cum fulva
+substravit cinnama myrrha, Se super imponit~, finitque in
+odoribus aevum>.  |savi~:  ha detti gi@a Omero e Virgilio, Orazio,
+Ovidio e Lucano (^Inf.~ IV 110).  |Si confessa~:  si dichiara, si
+attesta.
+
+	|108. appressa~:  @e presso, @e vicina.
+
+	|110. lacrime~:  gocce.
+
+	|111. e nardo~ ecc.:  e s'avvolge prima di morire, nel
+nardo e nella mirra, sostanze odorose.
+
+	|112. E qual~ ecc.:  Lo smarrimento del peccatore risorto
+dalle sue ceneri richiama alla mente di Dante la condizione
+dell'uomo caduto a terra per forza di magia o per un insulto
+epilettico, il quale rialzandosi guarda all'intorno tutto
+smarrito per il dolore sofferto.  |e non sa como~:  senza sapere
+in qual modo; perch$e l'ossesso e l'epilettico non s'accorgono del
+cadere.  Sulla forma ^como~, non infrequente anche in prosa, cfr.
+^Purg.~ XXIII 36.
+
+	|113. forza di demon~ ecc.:  la potenza diabolica, che
+operando sugli ossessi toglie loro gli spiriti e li fa cadere a
+terra.
+
+	|114. oppilazion~:  ostruzione; epilessia, che
+rinchiudendo i meati del corpo interrompe le funzioni
+fisiologiche.
+
+	|116. angoscia~:  travaglio fisico pi$u che morale.
+
+	|120. vendetta~:  giustizia punitrice.  |croscia~: 
+vibra, avventa.
+
+	|122. Io piovvi~ ecc.:  Il peccatore, che cos$i risponde,
+@e Vanni figliuolo bastardo di messer Fucci dei Lazzari di
+Pistoia; del quale racconta l'autore delle ^Storie pistoresi~,
+rubr. 3, che ebbe parte nelle discordie della cittadinanza
+pistoiese incominciate circa il 1288 coll'insulto del taglio
+della mano fatto a Dore Cancellieri e che segu$i la parte nera,
+commettendo violenze e rapine a danno degli avversar#i: nel 1292
+era ai serviz#i di Firenze, nella guerra guelfa contro Pisa; nel
+febbraio 1295 fu condannato in contumacia per ruberie e omicid#i
+commessi nel territorio di Pistoia; nell'agosto 1295 era in citt@a
+a combattere col ferro e col fuoco le case dei Bianchi: dopo non
+se ne sa pi$u altro (cfr. ^Bull.~ II 158, IV 207, VI 210).
+
+	|125. s$i come a mul~ ecc.:  s$i come a bastardo ch'io fui. 
+|Vanni Fucci bestia~:  attesta l'An. fior. che <perch$e egli era
+bestiale fu chiamato Vanni bestia>; cfr. ^Bull.~ XXV 55.
+
+	|126. Pistoia mi fu~ ecc.:  Pistoia, patria di malvagi
+cittadini, mi fu degna dimora; cfr. la nota all'^Inf.~ XXV 10.
+
+	|127. non mucci~:  non fugga via; dal vb. ^mucciare~,
+fuggire, che @e di molti dialetti centrali e settentrionali ed @e
+ancor vivo nell'umbro; cfr. Parodi, ^Bull.~ III 153.
+
+	|128. pinse~:  spinse, cacci@o.
+
+	|129. io 'l vidi~ ecc.:  io lo conobbi nel mondo come
+uomo violento e iracondo (Buti: <uomo di brighe e d'omicid#i>).
+Dante doveva ricordare di Vanni Fucci specialmente la parte presa
+nelle discordie pistoiesi, che furono poi, com'@e noto, occasione
+alla divisione dei guelfi fiorentini in Bianchi e Neri;
+personalmente pot$e conoscerlo nel 1292 durante la guerra pisana.
+
+	|130. non s'infinse~:  non finse (di non aver inteso);
+cfr. ^Le novelle antiche~, ed. Biagi, p. 178 <quando il vidde il
+conosceo; ma era tanto il suo bisognio che s'infinse di non
+conoscerlo>.  Il Parodi spiega `non esit@o', come ^se feindre~
+dell'antico francese (^Bull.~ XXIII 27).  Comunque, il Fucci non
+cerc@o di sottrarsi alla domanda.
+
+	|132. trista vergogna~:  non @e la verecondia, che
+acquista all'uomo il perdono (^Purg.~ V 20-21), ma la vergogna
+che suscita nel tristo altri pensieri malvagi.
+
+	|133. Pi$u mi~ ecc.:  Qui @e l'uomo di parte che si duole
+d'esser c@olto nella miseria da un avversario: Vanni Fucci,
+seguace dei Neri, trovandosi sorpreso dall'Alighieri, che fu di
+parte Bianca, nel luogo dove sono puniti i ladri, sente orrore 
+di tale umiliazione e se ne duole pi$u che della perdita della 
+vita; perci@o dopo aver confessata la sua colpa predice
+oscuramente al suo avversario avvenimenti rovinosi per i
+Bianchi; cfr. D'Ovidio, ^St.~, p. 44.
+
+	|137. io fui ladro~ ecc.:  Lana, Benv., Buti, An. fior.,
+Land. raccontano con molti particolari l'audace tentativo di
+furto alla sagrestia di San Iacopo nel Duomo di Pistoia, operato
+da Vanni Fucci; l'An. fior., pi$u breve degli altri, lo narra
+cos$i: <Avvenne per caso che ser Vanni [della Nonna], volendo
+bene ad una donna di Pistoia, and@o una notte a fare una
+mattinata, e con lui and@o questo Vanni Fucci.  Sonando e cantando
+costoro a casa alla donna, questo Vanni [Fucci] con alcuno suo
+compagno si part$i da loro e and@o alla chiesa di Santo Iacopo in
+Pistoia, e per forza e per ingegno rompendo i serrami, entr@o
+nella sagrestia di Santo Iacopo e nella cappella, ch'@e meglio
+fornita e d'oro e d'ariento e altri arnesi che altra di
+Toscana; e entrato dentro la rub@o e venne con queste cose ch'egli
+avea imbolate a casa ser Vanni, e dissegli il fatto.  Ser Vanni,
+ch'era buon uomo, gli disse villania e ch'egli avea fatto male e
+ch'egli non volea ritenere.  Costui scongiurandolo, dicendo: Voi
+disfarete me e i miei e vituperrete.  Ser Vanni, veggendo ch'egli
+dicea il vero, per non vituperare n$e parenti suoi n$e lui, gli
+ritenne.  La mattina, trovandosi l'uscia rotte e rubata la
+sagrestia, il podest@a cercando di questo fatto e perch$e la cosa
+era grande, tutti quelli che per veruno modo si pot$e pensare che
+fatto l'avessono furono presi e richiesti e tormentati: fra'
+quali fu preso uno Rampino figliuolo di messer Francesco
+Vergellesi [Foresi, secondo Lana, Benv., Buti, Land.] e tanto fu
+tormentato che questo disse ci@o che il rettore volle udire.  Fugli
+assegnati tre d$i ad avere acconci i fatti suoi: la novella si
+spande, e questo viene agli orecchi di Vanni Fucci.  A Vanni
+increbbe di questo giovane, ch'era suo amico: mand@o per
+messer Francesco, ch$e gli volea parlare per scampo del figliuolo. 
+Ito messer Francesco a Vanni dove egli era, fuori di Pistoia,
+Vanni gli disse che gli volea campare il figliuolo e volea
+innanzi avere vergogna ch'egli morisse; e poi gli disse come avea
+tolte quelle cose e messe in casa di ser Vanni.  Questi
+[Francesco] torn@o lieto a Pistoia; e detto il fatto al podest@a,
+mand@o e trov@o ch'egli era vero, e riebbonsi le cose; e il Rampino
+fu libero, e i colpevoli condennati>.  Quando il furto avvenisse,
+e se esso sia, come pare, da tener distinto da quello tentato
+nella cappella di San Iacopo sul finire del 1292, non resulta
+ancor chiaro, nonostante le ricerche tentate dagli eruditi
+pistoiesi; cfr. D'Ovidio, ^Studii~, 44-47; ^Bull.~ II 158, IV
+208; P. Bacci, ^Per il furto del 1292 all'altare di San Iacopo
+in Pistoia~, Pistoia, 1904 (estr. dal periodico ^La Difesa~ del 
+6 agosto 1904); A. Chiappelli, in ^Bull. stor. pistoiese~ IV, 6.
+
+	|138. a la sagrestia de' belli~ ecc.:  nel Duomo di
+Pistoia la cappella di San Iacopo ha ancora l'altare con lastre e
+figure d'argento, che possono dare un'idea dell'antica ricchezza
+d'ori e d'argenti ivi raccolti, tanta da esser detta il ^tesoro
+di San Iacopo.~
+
+	|140. godi~:  goda, congiunt.
+
+	|141. luoghi bui~:  regioni infernali; cfr. ^Inf.~ VIII 
+93, XII 86, XVI 82.
+
+	|143. Pistoia in pria~ ecc.:  Prevalendo in Pistoia, con
+l'aiuto dei fiorentini e specialmente dei Cerchi, la parte dei
+Bianchi, il podest@a Andrea Gherardini nel maggio del 1301 cacci@o
+la parte dei Neri, che si rifuggirono in Valdinievole
+preparandosi alla riscossa (cfr. Compagni ^Cr.~ I 25; ^Storie
+pistoresi~, rubr. 8-10); poi in Firenze il 1302 la venuta di
+Carlo di Valois e la proscrizione dei Bianchi cambiarono ^gente e
+modi~ di governo, perch$e la citt@a rimase in bal$ia dei Neri (cfr.
+^Inf.~ VI 67-69).  L'antitesi @e tra la cacciata dei Neri da
+Pistoia e la cacciata dei Bianchi da Firenze; per@o errano i
+commentatori, i quali, attenendosi al racconto inesatto di G.
+Villani, ^Cr.~ VIII 38, credono che Dante alluda a una supposta
+venuta dei Neri pistoiesi a Firenze a rinforzare i Neri
+fiorentini aiutandoli a trionfare della parte avversa.  |si
+dimagra~:  si spopola.  Si conoscono sentenze di condanna contro
+circa trecento uomini e due donne delle famiglie principali (cfr.
+Davidsohn, ^Forsch. z. Gesch. v. Florenz~, III 300).
+
+	|145. Tragge~ ecc.:  Dice il Fucci, vedendolo nel futuro:
+Marte trae fuori dalla Val di Magra un vapore, tutto inviluppato
+dentro nuvoli neri; e si combatter@a fra loro sopra Campo Piceno,
+con l'impeto e la rovina della tempesta; ed esso gagliardamente
+n'uscir@a e romper@a la nebbia, s$i che i Bianchi tutti ne saranno
+feriti di dolore e danno.  Il ^vapor~ (fulmine) @e Moroello
+Malaspina, figlio di Manfredi I marchese di Giovagallo in
+Lunigiana, dove scorre la Magra: ebbe in moglie Alagia dei
+Fieschi (^Purg.~ XIX 142); e mor$i verso il 1315: Capitano dei
+Lucchesi contro Pistoia gi@a nel 1301, ebbe parte preminente nella
+guerra senza quartiere che Firenze volle contro i Bianchi e i
+Ghibellini suoi e d'altrove che avevano a loro cittadella
+Pistoia: nel settembre 1302, dopo accanita resistenza, prese
+Serravalle che gli apriva il passo dalla Valdinievole al
+Pistoiese; priv@o Pistoia d'altre castella; pose l'assedio alla
+citt@a stessa, e l'ebbe per fame nell'aprile 1306 (cfr. Compagni,
+^Cr.~ I 27; G. Villani, ^Cr.~ VIII 52; ^Storie pistor.~, rubr.
+14-19, 23-24).
+
+	|148. sovra Campo~ ecc.:  Dopo la caduta di Serravalle e
+di altri castelli pistoiesi la difesa dei Bianchi si restrinse
+entro la citt@a di Pistoia; alla quale i Neri alleati posero
+assedio, durato pi$u mesi, sotto il comando del Malaspina, fino a
+che nell'aprile 1306 la citt@a dovette arrendersi per fame e i
+Bianchi perdettero l'ultimo loro baluardo.  Al duro e vigoroso
+assedio (^tempesta~ ecc.) da parte dei Neri sembra che si alluda
+sulla fine della profezia; nella quale le parole ^Campo Piceno~
+designano genericamente il territorio ove sorge la citt@a di
+Pistoia, non un luogo determinato che fosse cos$i denominato: e
+tale designazione occorre in antichi cronisti (cfr. nel ^De orig.
+civit.~ in Hartwig, ^Quellen~ cit., I 50; G. Villani, ^Cr.~ I
+32), @e esplicita in Iacopo di Dante (<^Campo Piceno~, il quale
+sito Pistoia s'intende>) e procedette senza dubbio dalla falsa
+interpretazione di un passo di Sallustio, ^Catilin.~, cap. 57,
+ove parlando delle fazioni di Catilina nel pistoiese ricorda
+anche le legioni che Q. Metello Celere aveva allora <in agro
+Piceno>.  Il Torraca e il Del Lungo pensano per altro che ^sopra
+Campo Picen~ indichi Serravalle.  Sulla questione si veda il
+Bassermann, pp. 155-168, 615-619, e ^Bull.~ X 436 e XII 265.
+
+	|149. repente~:  oltre che in valore temporale `d'un
+tratto', si trova pure usato nel senso di `fiero, gagliardo,
+violento' senza includere idea di tempo; ad es., Dino Compagni,
+^Cr.~ II xiii: <usoron modi pacifici, e volean esser repenti e
+forti>; Albertano, ^Trattati~, Firenze, 1610, p. 24: <del
+furore dell'amore niuna cosa @e pi$u forte e pi$u repente> (cfr.
+^Bull.~ XVIII 10).
+
+	|151. E detto~ ecc.:  e questi fatti io ti ho voluto
+annunziare, perch$e tu ne senta dolore, come di cosa contraria
+agli interessi della tua parte.  Cos$i Vanni Fucci riassume e
+compie vigorosamente ci@o che ha detto nei vv. 140-142; ed @e,
+secondo il Del Lungo (art. cit.), manifesto che l'episodio fu
+concepito da Dante con l'intenzione di opporre s$e guelfo bianco e
+le <disavventure> della sua parte alla tracotanza de' guelfi neri
+impersonata nel fazioso ladro pistoiese  |debbia~:  lat.
+^debeat~, debba.

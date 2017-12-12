@@ -1,0 +1,129 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id AAA25661
+	for <steve@avalon.dartmouth.edu>; Tue, 24 Nov 1998 00:04:27 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id AAA20301
+	for <Stephen.Campbell@Dartmouth.EDU>; Tue, 24 Nov 1998 00:04:26 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 54982 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67242-18966>; Tue, 24 Nov 1998 00:04:24 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id AAA20285
+	for <Stephen.Campbell@Dartmouth.EDU>; Tue, 24 Nov 1998 00:04:20 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup16.Princeton.EDU [128.112.70.16])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id AAA01314;
+	Tue, 24 Nov 1998 00:04:17 -0500 (EST)
+Message-ID: <365A3E6C.1731A87C@princeton.edu>
+Date: 	Tue, 24 Nov 1998 00:04:44 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU, Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: Re: Boccaccio
+X-Priority: 3 (Normal)
+References: <199811082221.RAA21299@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> In archived email message #49 you start by saying:
+> 
+> >          CHANGES NECESSARY IN BOCCACCIO'S COMMENTARY
+> >
+> >                       (RH 8-14-94)
+> >
+> > NB: We need to rename some of the docs. in ALL of Boccaccio.  I
+> > provide the following guide.  Note that this will end up
+> > renumbering the docs., as we need to add a few (made up of
+> > elements drawn from exisiting docs. into a new doc. [these are
+> > marked by asterisk]) and combine a few existing ones [these are
+> > set off as separate "paragraphs" -- see 55 and 56, below].  I
+> > hope all this will be VERY clear.
+
+First of all, now that I see MF's system clearly, most of my
+instructions turn out to be incorrect and would befuddle her efforts. 
+So you are to DISREGARD all instructions except for the ones that I
+respond to.
+
+> >
+> > doc. #        current heading         new heading
+> >
+> > 1     Nota                    |Accessus~
+
+Leave "Nota" alone, but add "|Accessus~ after "Copyrighted Material" and
+before the content begins --as you have done for some other things
+("Proemio," e.g.) at other places.
+
+In what follows, you have already made changes that I concur with.  Any
+instruction (I repeat) of mine from 1984 or whenever that is NOT
+repeated may be ignored.  The text is now fine as you have it.
+
+> > 2     ^Inf.~ Nota             ^Inf.~ |Proemio~
+> > 3     ^Inf.~ 1. Nota          ^Inf.~ 1 |Proemio~
+> > 54    ^Inf.~ 1. Nota          ^Inf.~ 1 Index to espos. alleg.
+> >
+> > 55    ^Inf.~ 1. Nota >>
+> >          JOIN 55 & 56 as      ^Inf.~ 1 |Proemio~ to espos. alleg.
+> > 56    ^Inf.~ 1. Nota >>
+> 
+> etc.
+> 
+> We're going to have to talk about this.
+> 
+> One minor problem I'm having is that "Doc #'s" as you've used them
+> here are
+> not absolute. The term literally means "the
+>  Nth document found in the latest search." So it's crucial that I know
+> exactly
+> what search you executed to come up with
+>  this list of "Doc #".
+> 
+> [Just to confuse things, there IS and absolute document number for
+> each
+> document in the database. It's called the DOCN
+> attribute of the document. But this absolute number is NOT printed out
+> when
+> you do normal searches.]
+> 
+> The main thing with this email message is that The titles you are
+> asking to
+> change are figured out *at print time* from
+>  some attributes of each document. I think it would be better if I
+> described
+> the process verbally. Suffice it to say th
+> at we will need to make some changes in the database fields in order
+> to be
+> able to generate the titles you want.
+> 
+> We'll talk.
+> 
+>                                                         Steve
+
+270: Inf. IV, last lines to esp. litt.  We need to separate the Index to
+Esposizione Allegorica from this entry.  We have made this a separate
+entry in many other places that are like this.  I guess it's the best
+way.  Only problem: how does anyone see it who is not scrolling the
+whole commentary?  But we have on other occasions made this a separate
+entry, and we should be consistent.
+
+297: only big glitch.  This occurs on last page of esp. allegorica of
+Inf. IV, 148-151.  After the word "lume." in first screen, MF has
+repeated the index of esp. allegorica for IV (it occurs at 270, and will
+now have a separate entry [see above, 270]).  She then has the ENTIRE
+esp. allegorica to IV repeat in one huge 28-screen block.  My solution:
+cut everything after "lume."  That will regularize our practice.
+
+352: Inf. V, esp. litt., last page.  Once again, make a separate entry
+for the Table of Contents for the esp. alleg. of Inf. V.
+
+453: ditto for Inf. VII -- exactly the same business we have for the end
+of Inf. V., esp. litt., and a separate screen for Table of Contents for
+Esp. All. for Inf. VII.
+
+804: ditto for Inf. 14 -- same as Inf. V and VII.
+
+I think that takes care of everything.  I sure hope so.  Bob

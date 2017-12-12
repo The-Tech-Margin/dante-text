@@ -1,0 +1,182 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id PAA17515
+	for <steve@avalon.dartmouth.edu>; Mon, 30 Nov 1998 15:10:49 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id PAA13693
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 30 Nov 1998 15:10:44 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 46623 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67326-29100>; Mon, 30 Nov 1998 15:09:51 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id PAA01777;
+	Mon, 30 Nov 1998 15:09:42 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup89.Princeton.EDU [128.112.70.89])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id PAA08821;
+	Mon, 30 Nov 1998 15:09:40 -0500 (EST)
+Message-ID: <3662FBA3.8A790B0F@princeton.edu>
+Date: 	Mon, 30 Nov 1998 15:10:11 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+CC: bobh@phoenix.Princeton.EDU, steve@avalon.dartmouth.edu
+Subject: Re: Bennassuti
+X-Priority: 3 (Normal)
+References: <199811292139.QAA13687@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> I took a look at Bennassuti today. In your email #58 of 16 June 95 you
+> list
+> this comm as "edited but not up yet." Here are a few things that need
+> to be
+> done to it before we can load it. Since this comm is not loaded, to
+> "look at"
+> something, you'll need to examine the files in C.ng/bennassuti.
+
+Steve, this will be a long reply.  My guess is you should save it
+somewhere that any eventual Bennassuti editor will surely see it, maybe
+even in HISTORY.
+
+First of all, I was wrong in June 1995: Benn. has NOT been edited.  He
+was typed in by that group in Ireland and they did their usual good job.
+However, there seem to be lots of errors in spacing, in particular
+around apostrophes, and their are some typos (e.g., in Inf. I, which I
+looked over _fairly_ carefully only, I noted "chiundo" [ = chiudendo],
+Marome [ = Marone], memesimo [ = medesimo].  In short, there are enough
+infelicities that we need to have a regular edit of the text before we
+put it up.  When this might be, I don't know.  And so I think we need to
+leave Benn. for another day.  The one insuperable difficulty is that
+Benn.'s numbers are NOT line nos. in the poem, but the number of his
+note (i.e., note 15 is not the note to verse 15, but the 15th subject he
+chooses to address, and might be anywhere from verse 6 to 80).  Thus
+these all have to be reinterpreted (not difficult, but time-consuming
+when 100 cantos are at stake) before the texts will display correctly.
+> 
+> 1. Desc file needs to be completed with author name, publisher info,
+> etc. Can
+> you do this?
+
+Yes, I have done so, leaving (for obvious reasons) the "editor" entry
+blank.  The rest is up to speed.
+> 
+> 2. There is some tricky text that may need special treatment for
+> loading. For
+> example in inf/01.e there is a section of 2-column text beginning:
+> 
+>      ENEIDE.                            DIVINA COMEDIA.
+> 
+>   1. Enea nel mezzo del cammin   1. Dante nel mezzo del cammin
+>      di nostra vita.                di nostra vita.
+> 
+> etc. Fun, fun.
+
+Whatever the loading problem, the text is correct as it stands.
+
+> 
+> 3. "Unclear words." The data entry company could not read all the
+> words in the
+> original text. Where this happened, they used text something like "[
+> -- -?]"
+> and put a note at the end of the file (ie canto). How do we deal with
+> this? It
+> occurs in the following (all in C.ng/bennassuti): inf/14.e, purg/06.e.
+
+These can only be handled by someone with a copy of Bennassuti in hand.
+Whenever we find someone, we will need to have the text photocopied or
+sent by ILL.  The only other possibility is that it still exists in our
+archive at D'mth, and that the copy we sent to England years ago was a
+copy of that.  It might be worth checking.  We did Xerox Benn. once....
+> 
+> 4. Inf/19.e look like it might be truncated. (It did not contain the
+> "END OF
+> CANTO" message that the other files have.) Please check. Also
+> inf/24.e,
+> inf/25.e, para/15.e, para/32.e, purg/29.e.
+
+These all seemed OK to me, and I did check them all.
+> 
+> 5. There are 3 intro.e files and one appendix.e file. How should they
+> be
+> identified? Perhaps like the similar file in Berthier?
+
+I'm afraid there is no simple answer for all cases.  But there are
+answers, as follows:
+
+Inf. intro.  This is an endless discussion, really of Inf. I & II.  But
+it is the nucleus of Benn.'s theory of how we must read Dante.  Thus I
+think we need to keep it as a proemio to the whole poem, setting it
+first.
+
+Purg. intro.  This is not very interesting and can mainly be junked. 
+However, starting about 75% of the way along, there are a series of
+RETTIFICAZIONI of his earlier comments to various texts in Purg.  I
+think we should add them TO EACH COMMENT affected as |Rettificazione
+dell'autore.~ at the end of that comment.  Not difficult.  Steve,
+"rettificazione" means -- you guessed it -- "rectification."
+
+Purg. appendix.  This is a long discussion of issues raised in his
+comment to Purg. I, 75.  It should be added to that note as |Appendice
+dell'autore.~  It will make it long, but perhaps more interesting.
+
+Par. intro.  This is a long text, reprinting positive reviews of his
+comm. to Inferno.  It has a certain interest, but probably doesn't
+belong in the database.
+> 
+> 6. The last line of para/intro.e looks suspicious. It ends
+> "libertini.Z"
+> Please check.
+
+No, it looks fine.  Just delete the "Z" -- which is but the marker for
+the end of a message sent in Unix -- or used to be.
+> 
+> 7. Unentered text. In a number of the files, the company could not
+> enter
+> graphical or columnar text. They have so noted at the end of each such
+> file.
+> They refer to the page numbers in the original text, which I do not
+> have
+> available for checking, but I htink there may be some cases where they
+> annotated the file saying they did not enter such-and-such, when in
+> fact they
+> have at least attempted to enter a facsimile of the graphic. The files
+> where
+> there are such annotations are:
+> 
+> inf/01.e
+> inf/14.e
+> inf/23.e
+> inf/30.e
+> inf/33.e
+> inf/intro.e
+> para/13.e
+> para/26.e
+> para/30.e
+> para/31.e
+> para/33.e
+> purg/06.e
+> purg/08.e
+> purg/09.e
+> purg/14.e
+> purg/20.e
+> purg/23.e
+> purg/25.e
+> 
+> We need to examine each instance and decide how to handle it. Please
+> take a
+> look.
+
+This one is easier than your long list makes it seem.  Once one has the
+book open before one, the divergence between original and typingteam's
+version can be spelled out by our editor.
+
+One other thing: I note from the README file that someone has pointed
+out that p. 152 (Purg. VI) is illegible and needs to be done over.
+
+I hope this is all clear and eventually useful.  Best, Bob
+>

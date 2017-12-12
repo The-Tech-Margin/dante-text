@@ -1,0 +1,8 @@
+The text in the DDP uses characters with diacritic markings. From time to time there is a need
+to test parts of the DDP to make sure diacritics are being rendered correctly. To help with this,
+you can add the following line of text temporarily to the desc.e file for the poem. (Doing it
+here, as opposed to in some other text, is arbitrary.) I suggest adding it at the end of the PUBL
+section of the file.
+
+Diacritic test: a grave: @a, a aigu: $a, cedilla: $c, a umlaut: ,a, o circumflex: #o.
+

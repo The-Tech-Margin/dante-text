@@ -1,0 +1,1044 @@
+	|1-3~. L'esordio del |canto~ (termine tecnico usato dall'Autore: cfr. 
+^Inf~. XXXIII.90; ^Par~. V.139; ^Epist~. XIII.26) sembra denotare un 
+certo fastidio da parte del narratore: l'occorrenza di |mi convene~ 
+pare implicare un suo dovere, quasi una necessit@a, per cui egli muta 
+l'atteggiamento, convinto e perentorio, del canto precedente (cfr. il 
+^convene~ del v. 5). Cfr. n. 25-30. Per designare le tre parti in cui 
+il poema @e diviso, l'Alighieri usa qui |canzone~, altrove ^cantica~ 
+(^Purg~. XXXIII.140; ^Epist~. XIII.26). All'aggettivo |nova~ @e lecito 
+assegnare, in alternativa all'accezione di "altra", quella usuale di 
+"strana", "insolita". I |sommersi~ sono gli spiriti "sprofondati sotto 
+terra" (cfr. ^Inf~. VI.15). Circa il v. 3, cfr. ^Aen~. VI.267 
+(Barchiesi). Ma si legga Di Siena: "qui il poeta teologo prende la voce 
+nel senso mistico per cui si dice ^abisso~ l'Inferno e ^sommerso~ il 
+peccatore, rassomigliato a Faraone e suoi seguaci sepolti nelle onde 
+dell'Eritreo: ^Abyssus humanae malitiae invocat abyssum divinae 
+justitiae~ (vedi Saverio Mattei al salmo 41). Le acque dinotano non 
+solo nel linguaggio sacro, ma eziandio nel comune i flutti e le 
+tempeste della vita. Davide (salmo 41): ^Fluctus tui super me 
+transierunt~. Con bella allegoria descrive egli, nel salmo 68, la 
+schiavit@u che significa lo stato de' perversi. Noi rechiamo qui la 
+parafrasi fatta dal nostro Mattei: 'Salvami, o Dio; per me non v'@e 
+speranza. I rigogliosi flutti Mi copron gi@a: mi s'impedisce il libero 
+Uso di respirar, che l'onde amare Entran gi@a nelle fauci: in quali io 
+scendo Voragini profonde! Una sdrucita Tavola, a cui m'appigli, un 
+fermo e stabile Poggiuolo, ove posar io possa almeno Il vacillante 
+pi@e, non trovo, o Dio!'". La "tavola" cui il peccatore dal "vacillante 
+pi@e", sul punto di perdersi, pu@o appigliarsi raffigura – come 
+sappiamo (cfr. ^Inf~. I, n. 22-27) – la penitenza, la "seconda tavola 
+dopo il naufragio", quel naufragio a cui l'Eroe era vicinissimo ed in 
+seguito al quale sarebbe per sempre rimasto fra i |sommersi~.
+
+	|4-6~. Dante, che sta sul ^colmo de l'arco~ (^Inf~. XIX.128), @e 
+prontissimo ad ^osservare attentamente~ (|riguardar~) il |fondo~ della 
+quarta bolgia (il quale non @e ^cupo~ come quello della bolgia degli 
+adulatori: ^Inf~. XVIII.109), che @e ^visibile~ (|scoperto~) ed @e 
+cosparso dal pianto copioso (vv. 23-24) dei dannati. Si noti come 
+|scoperto~ riprenda l'ultima parola del canto precedente: non @e forse 
+un caso, se colleghiamo l'accenno al profetismo segnalato (cfr. ^Inf~. 
+XIX, n. 127-132) al fatto che i dannati qui puniti sono gli indovini, 
+cio@e falsi profeti.
+
+	|7-9~. Le anime che Dante vede giungere sono quelle dei maghi e 
+indovini, costrette al silenzio ed al pianto: tacciono perch$e hanno il 
+collo stravolto, ma anche perch$e, in ragione del ^contrapasso~, 
+parlarono troppo in vita, discutendo di cose che all'uomo non @e 
+concesso sapere. Forse pure il pianto @e collegato al ^contrapasso~, se 
+lo si intende non come "una generica manifestazione di dolore", ma come 
+"il drammatico equivalente della parola bloccata" (I. Baldelli, "Il 
+segno del demonio sui maghi e sugli indovini": ^L'Alighieri~, 1976, p. 
+18). Cfr. n. 10-15. Vedremo pi@u oltre (vv. 38-39) Virgilio spiegare 
+l'essenza del ^contrapasso~ (connesso allo stravolgimento del capo). 
+L'^andatura~ (|passo~) che i dannati tengono nel percorrere ^la bolgia 
+circolare~ (|lo vallon tondo~) @e quella tenuta dalle ^processioni~ 
+(|let@ane~ o ^let@anie~, dal lat. ^litaniae~, oggi ^~"litan@ie", alla 
+lettera "supplicazioni"). Benvenuto: "Et est comparatio propria; qui 
+enim vadunt in letaniis ambulant lente, tacite, sicut isti incedebant 
+nunc, et aliquae vetulae lacrymantur ex compassione cordis vel 
+devotione, habentes memoriam peccatorum suorum, sicut isti vagi nunc 
+agunt poenitentiam, quamvis inutilem, de erroribus magnis eorum". 
+L'Anonimo Fiorentino: "E ancora si pu@o qui moralizzare questo loro 
+andare piccino, ch'@e per opposito del trascorrere ch'eglino feciono 
+collo intelletto in giudicare le cose di lungi e lontane, e in questo 
+modo perderono e non seppero le presenti".
+
+	|10-15~. Il pellegrino, abbassato lo ^sguardo~ (|viso~: cfr. v. 21) 
+sui ^corpi~ (|pi@u basso~) dei dannati, assiste ad uno spettacolo 
+stupefacente ed orribile (nota l'avverbio |mirabilmente~ e cfr. 
+l'aggettivo |meravigliosa~ in ^Inf~. XVI.132): ogni spirito @e 
+^stravolto~ (|travolto~), nel senso che, a causa dello stravolgimento 
+del collo, ha il volto ^girato~ (|tornato~: il significato di "girare" 
+@e proprio dell'ital. ant.; franc. ^tourner~; cfr. ^Purg~. XXVIII.148) 
+verso la schiena. Pietro di Dante rinvia al proposito a ^Is~. 44.25: 
+"Io rendo vani i presagi degl'indovini, faccio impazzire i divinatori, 
+faccio indietreggiare i sapienti (^convertens sapientes retrorsum~), 
+rendo stoltezza la loro scienza"; un altro passo biblico (^Mich~. 
+3.6-7) @e segnalato da Rossetti. R. Hollander (^Studies in Dante~, 
+Ravenna, Longo, 1980, p. 141n.) ha rilevato un antecedente lucaniano: 
+"Cetera suppressit faucesque obstruxit Apollo" (^Phars~. V.197). Queste 
+anime in vita presunsero di vedere al di l@a delle possibilit@a umane, 
+ora non possono vedere in avanti, quindi sono costrette a camminare a 
+ritroso, avanzando coi talloni, per cui non possono che procedere 
+lentamente (vv. 8-9). Circa |casso~, cfr. ^Inf~. XII.122.
+
+	In tal modo il poeta condanna una vistosa manifestazione della 
+superbia umana: la pretesa di prevedere il corso degli eventi e 
+addirittura, in certi casi, di interferire in esso alterando anche quel 
+rapporto fra natura ed uomo stabilito da Dio. L'uomo pu@o, utilizzando 
+gli strumenti razionali, prevedere con successo accadimenti futuri, 
+qualora egli conosca la concatenazione causale che di necessit@a 
+connette alcuni eventi: @e il caso, p. es., della predizione delle 
+eclissi eseguite dagli astrologi. In altre occasioni, l'uomo pu@o 
+prevedere con alta probabilit@a alcuni eventi futuri, come @e il caso 
+dei medici che, analizzata una malattia, ne predicono il decorso fausto 
+o infausto. Tuttavia solo Dio conosce perfettamente il futuro, 
+vedendolo come presente: ci@o non esclude che l'uomo possa conoscere 
+eventi futuri contingenti, ma ci@o pu@o accadere solo perch$e – 
+chiarisce S. Tommaso – "accoglie o riceve qualcosa di divino". Dio pu@o 
+ispirare alcuni individui eletti al fine di comunicare all'umanit@a 
+brani della verit@a: costoro sono i veri profeti, a somiglianza dei 
+quali il poeta presenta s$e stesso. Ne deriva che, "se uno presume in 
+qualsiasi modo di conoscere e di predire il futuro senza una 
+rivelazione di Dio, evidentemente usurpa una prerogativa divina. Ecco 
+perch$e alcuni si dicono indovini o ^divini~, come spiega Isidoro: 
+^Divini dicti sunt quasi Deo pleni: divinitate enim se plenos simulant, 
+et astutia quadam fraudolentiae hominibus futura coniectant~" 
+(^Etymol~. VIII.ix)" (^ST~ II-II, q. 95, a. 1). Emerge cos@i nettamente 
+la natura fraudolenta delle arti magiche. Per di pi@u l'Aquinate 
+afferma che "qualsiasi divinazione proviene dall'intervento del 
+diavolo", il quale @e mendace ed ingannevole per natura; tali arti 
+derivano quindi "ex deceptione daemonum". S. Tommaso (^ST~ II-II, q. 
+95, a. 3) distingue tre grandi generi di divinazione proprio in base 
+all'intervento diabolico. Il demonio pu@o infatti essere esplicitamente 
+invocato (e si ha la ^nigromantia~) oppure pu@o intromettersi di 
+propria iniziativa nella predizione del futuro: nel secondo caso la 
+divinazione pu@o avere luogo o "mediante la sola osservazione della 
+disposizione e del comportamento di cose esterne" (@e il dominio degli 
+^augures~), oppure "consiste nel fare noi stessi qualcosa per conoscere 
+cose occulte" (si hanno allora le ^sortes~). In generale l'Aquinate 
+distingue quindici categorie di divinazione (rifacendosi in parte alla 
+suddivisione di Isidoro di Siviglia: cfr. R. Hollander, ^Op. cit~., p. 
+162n.), ponendo anche in rilievo come le pratiche magiche si basino su 
+riti, su precisi gesti e parole. Il silenzio cui ora tali dannati sono 
+costretti potrebbe costituire ^contrapasso~ per antitesi, tenuto anche 
+conto che le anime dei regni ultraterreni si manifestano sempre 
+mediante la parola, "o ampiamente registrata, come nella maggior parte 
+dei casi, o sommariamente indicata, come per gli ignavi (^alti guai~, 
+^diverse lingue~, ^parole di dolore~, ^accenti d'ira~, ^orribili 
+favelle~), o per i violenti contro il prossimo (^i bolliti facieno alte 
+strida~). Perfino gli accidiosi parlano immersi nel limo, e se ne 
+riporta l'inno che essi si gorgoglian nella strozza. Unica eccezione, 
+appunto, i dannati della quarta bolgia che procedono ^tacendo e 
+lagrimando~". Sono parole di I. Baldelli, che cos@i prosegue: "Il 
+silenzio @e cio@e qui elemento di condanna non soltanto di un generico 
+aver parlato di cose che all'uomo non @e dato sapere. Nella ricerca 
+donde le arti magiche traggano efficacia, S. Tommaso, nella ^Summa 
+contra gentiles~ (CVI), indagando i modi di operare di quelle arti, 
+indugia sulle voci significative, sulle immagini e sulle figure di cui 
+i maghi si servono per ottenere gli effetti ricercati. Attraverso un 
+minuzioso esame, S. Tommaso dimostra che la ^virtus~, la capacit@a 
+della parola detta dal mago non deriva n$e dall'intelletto di chi la 
+proferisce, n$e da quello di colui che ascolta, ma da un terzo 
+intelletto: e infatti voci significative di questo tipo, di cui i maghi 
+si servono, sono le invocazioni, le suppliche, gli scongiuri, o anche i 
+comandi come a persona diversa di colui con cui essi, i maghi, parlano. 
+Non v'@e dubbio che tale persona sia il demonio: la sostanza 
+intellettuale che d@a efficacia alle voci, e a tutte le arti del mago, 
+@e la malizia demoniaca. I demoni usano naturali cose per ottenere 
+effetti determinati, servendosi di quelle quasi come strumenti, proprio 
+come il medico si serve, come strumenti, delle erbe per sanare. Il 
+silenzio @e dunque, nella quarta bolgia, silenzio di quelle ^voces~ che 
+hanno sollecitato le sostanze intellettuali dei demoni sia 
+nell'interpretazione dei segni celesti, sia nell'invocazione sulle cose 
+naturali e mediante cose naturali od anche mediante figure e segni; 
+silenzio di quelle voci che si son fatte demoniache, traendo dal 
+demonio efficacia ed effetto" ("Il segno del demonio sui maghi e sugli 
+indovini": ^L'Alighieri~, 1976, pp. 17-18.).
+
+	|16-18~. Neppure per |parlas@ia~ (forma arcaica per "paralis@ia", 
+"paralisi"; cos@i "parletico" per "paralitico"), afferma il narratore, 
+pu@o avvenire un simile contorcimento, come pare affermare la voce 
+popolare. Guido da Pisa, sempre desideroso di identificare i vizi 
+capitali che sono alla base del particolare peccato punito, ritiene 
+idoneo allo scopo proprio l'accenno del poeta alla paralisi. Questa 
+infatti – ci spiega il frate pisano – pu@o avvenire per tre motivi: "ex 
+frigiditate constringente", "ex humore oppilante" oppure "ex vulnere 
+nervos incidente". Ora, il peccato dei divinatori scaturisce o 
+dall'avarizia, che "animam congelat et stringit", o "ex humore carnalis 
+concupiscentie", o "ex vulnere superbie conscientiam vulnerante"; ne 
+consegue che questo peccato nasce o da avarizia o da lussuria o da 
+superbia.
+
+	|19-24~. Dante non riesce a trattenere il pianto di fronte all'orrendo 
+spettacolo della distorsione della ^figura~ (|imagine~) umana: egli, 
+coinvolgendo il lettore, ammette quindi di piangere solo in seguito 
+alla constatazione della dura pena. "Intra li effetti de la divina 
+sapienza l'uomo @e mirabilissimo, considerando... come sottilmente 
+armoniato conviene esser lo corpo suo" (^Conv~. III.viii.1). Nel 
+^Genesi~ (1.26-27) si parla della figura umana fatta ad immagine e 
+somiglianza di Dio, ma – chiarisce Boccaccio – "... il corpo nostro non 
+ha similitudine alcuna con Domenedio: per ci@o che Domenedio non ha n$e 
+mani n$e piedi n$e alcuna altra cosa corporea" (^Esposizioni~ VI.i.58). 
+La deformazione corporea cui il pellegrino assiste implica una nota 
+sarcastica: il pianto, "scendendo per l'incavo della spina dorsale, 
+bagnava le parti posteriori: derisoria e pietosa conseguenza di quello 
+stravolgimento!" (Steiner). I. Baldelli ("Il segno del demonio sui 
+maghi e sugli indovini": ^L'Alighieri~, 1976, p. 22) ci ricorda che "il 
+corpo stravolto @e una ben nota costante evangelica del posseduto dal 
+demonio, sotto forma di convulsioni (^Mc~. 1.26; 5.2-5; ^Lc~. 8.29), di 
+epilessia (^Mc~. 9.16-26; ^Lc~. 9.39), di cecit@a e mutezza (^Mt~. 
+9.32-34; 12.22; ^Lc~. 11.14)"; inoltre in ^Mt~. 4.24 si legge della 
+identificazione di "indemoniati, lunatici e paralitici", cio@e i 
+posseduti dal demonio, i tormentati dal demonio attraverso l'influsso 
+della luna piena, i paralitici segnati dal demonio nello stravolgimento 
+del corpo. – Nota il |se~ ottativo ed il richiamo del poeta alla 
+funzione pedagogica della propria opera; |lezione~ deriva dal lat. 
+^lectio~.
+
+	|25-30~. Di fronte al pianto di Dante, appoggiato ad uno ^degli 
+spuntoni rocciosi~ (|de' rocchi~: cfr. ^Inf~. XXVI.17) del ^ponte~ 
+(|scoglio~) ^di pietra~ (|duro~), Virgilio interviene aspramente, 
+ponendo il pellegrino alla pari degli |altri sciocchi~ (cfr. ^Mt|.~ 
+~15.16), ossia di coloro che stupidamente piangono per la sorte dei 
+dannati. I versi sono stati molto dibattuti. Parecchi critici hanno 
+letto il v. 30 (la cui lezione alternativa @e ^pass,ion porta~) come 
+"ammette possibile una condizione di passivit@a per il giudizio 
+divino", lettura che, oltre ad attribuire a |passion~ un senso molto 
+poco dantesco, s'imbatte nella difficolt@a di supporre che gli indovini 
+operino effettivamente per impedire o sviare la volont@a divina oppure 
+– forzando il testo – "pretendano di impedirla o sviarla". Inoltre, 
+ci@o obbliga a considerare i dannati della quarta bolgia come i pi@u 
+"scellerati". Questa opzione dei commentatori si deve forse al fatto 
+che la lettura alternativa implica che lo |scellerato~ ^~("empio") sia 
+Dante, il quale (^com-~) ^porta~| passione~ ("compassione") per le pene 
+inflitte a tali anime (^compassione~ @e sinonimo nell'ital. ant. – come 
+ha mostrato M. Barbi – di |passione~, cui per@o M. Barchiesi e R. 
+Hollander attribuiscono il senso di "passionalit@a"); l'attribuzione @e 
+parsa infatti eccessiva, data anche la comprensione altrove palesata da 
+Virgilio per la ^piet@a~ di Dante. Ma va tenuto presente che 
+nell'occasione Dante ha questa reazione emotiva pur non avendo ancora 
+capito di qual genere siano i dannati che sta ora osservando: alcuni 
+studiosi, come E. Caccia e A. Pagliaro, hanno posto in rilievo tale 
+circostanza, n$e pu@o dirsi che il rilievo sia – come affermato da M. 
+Barchiesi ("Catarsi classica e 'medicina' dantesca": ^Letture 
+classensi~, 1973, p. 62n.) – eccessivamente sottile, considerando che 
+un errore simile era stato gi@a compiuto dal pellegrino, pur se solo 
+^compunto~ e non piangente (cfr. ^Inf~. VII, n. 36-39). Dunque egli, 
+'passionalmente' e quindi erroneamente (in quanto colpito, al pari 
+degli |altri sciocchi~, solamente dalla natura della pena, nel caso 
+dall'aspetto stravolto della figura umana), piange per la pena senza 
+conoscere il peccato, mancando al compito di riconoscere la specifica 
+attuazione della giustizia divina, compito essenziale della sua 
+'educazione' (e di quella del lettore: vv. 19-20). Per questo la guida, 
+non a caso, insister@a subito affinch$e Dante veda bene e spiegher@a 
+esplicitamente il contrappasso; ma egli ora mette anche in guardia il 
+suo pupillo dal provare, anche per un momento, qualche sentimento di 
+immedesimazione, come per evitare la possibilit@a stessa che Dante si 
+senta in certo modo coinvolto nella colpa qui punita. Il castigo 
+mantiene ovviamente la sua funzione, per i vivi, di monito, ma in 
+questo caso il pellegrino deve subito capire di non aver nulla a che 
+fare con tali dannati (che sono falsi profeti): l'adesione alla 
+giustizia divina (cio@e la vera piet@a per la coscienza cristiana sulla 
+strada del pentimento), |qui~ (in questa bolgia come in altri luoghi 
+infernali), deve avere luogo senza compartecipazione emotiva. 
+Ricordiamo che l'espressione del v. 28 era nel Medioevo quasi un luogo 
+comune (formule simili sono state rintracciate in testi classici e 
+cristiani); essa ricorda ^Inf~. XXXIII.150: ^e cortesia fu lui esser 
+villano~.
+
+	Benvenuto attribuisce significato pi@u drammatico all'episodio, 
+ipotizzando il coinvolgimento personale di Dante: "autor prudenter et 
+caute innuit quod saepe viri excellentissimi sic delirant in arte 
+divinationis, et praesens negotium tangebat autorem ipsum, qui 
+aliquantulum delectatus est in astrologia, et voluit praedicere aliqua 
+futura, sicut patet in libro isto. Ideo bene fingit se nunc ita plorare 
+compatiens aliis et sibi de errore suo". L'opinione dell'Imolese 
+(seguito ovviamente dal Serravalle) @e accolta con favore da Hollander, 
+il quale, dato il contesto del canto, ritiene che il rimprovero di 
+Virgilio sarebbe fortemente ridimensionato se le lacrime di Dante 
+fossero considerate "as a response to the ugly fact of general human 
+degradation": infatti, "in light of what Virgil says to Dante and of 
+what the poet, returned from his vision of paradise to write the poem, 
+says to us, it is at the very least unlikely that our author wants us 
+to sympathize, even momentarily, with diviners or to forgive him his 
+tears, even should we want to do so" (^Studies in Dante~, Ravenna, 
+Longo, 1980, pp. 147, 144). Che il pianto del pellegrino sia un errore 
+@e fuori discussione, tuttavia a nostro avviso il punto basilare @e un 
+altro. Leggiamo l'Ottimo: "Virgilio il riprende di questo piangere, a 
+dimostrare che gli uomini non deono aver compassione a coloro che per 
+divino giudicio patiscono de' loro peccati pena. Iob dice che nulla @e 
+peggiore di quello uomo, che ha pietade di cotali gente: avere 
+compassione @e patire pena in parte con lui, che ha peccato; 
+participare con li rei, @e parte di reitade". Bene, ma ora ci 
+chiediamo: perch$e Virgilio rimprovera ora Dante, cosa che non aveva 
+fatto di fronte al pianto del pupillo nel secondo cerchio? La risposta 
+ci pare la seguente: di fronte a Francesca il pellegrino ^doveva~ 
+piangere, in quanto doveva contrirsi, qui no. Contrariamente 
+all'opinione di Benvenuto, l'aspro rimprovero di Virgilio ci fa capire 
+che Dante @e estraneo alla colpa qui punita; in una successiva 
+circostanza, Virgilio interverr@a in maniera ancora diversa di fronte 
+al pianto di Dante, riconoscendone l'appropriatezza, pur non 
+accettandone le modalit@a (cfr. ^Inf~. XXIX, n. 1-6). Giustamente 
+Hollander, autore di un'accurata ed acuta analisi dell'episodio (e del 
+canto), si preoccupa del peso del rimprovero, ma il rimprovero sembra 
+essere ben fondato, se si pensa che il pianto del pellegrino @e 
+sbagliato perch$e non proviene dalla conoscenza della colpa, 
+costituendo perci@o una reazione emotiva, irrazionale. Si tratta di un 
+^errore~ molto grave, che in maniera generale era gi@a stato 
+stigmatizzato in un momento cruciale (l'ingresso nei luoghi penali) dal 
+narratore stesso: allora Dante – come sintetizzato da Buti – prov@o 
+"compassione" pur non conoscendo "la cagione" della situazione (cfr. 
+^Inf~. III, n. 31-32). Inoltre, per quanto riguarda il contesto del 
+canto, il rimbrotto di Virgilio ci fa comprendere che Dante 
+pellegrino-poeta @e estraneo a tali dannati (come lo @e lo stesso poeta 
+latino), il che si addice alla sua funzione di poeta-profeta in via di 
+formazione (sulla portata in tal senso allusiva del termine ^capra~, 
+cfr. R. Hollander, ^Op. cit~., p. 183). Stando cos@i le cose, il 
+precedente indirizzo al lettore sembra proprio avere la funzione di 
+generare in lui comprensione per la situazione del pellegrino: 
+comprensione intesa non come 'scusa' o 'giustificazione', beninteso, ma 
+come constatazione della condizione di disordine e confusione interiore 
+che attualmente caratterizza l'Eroe. Ma, in quanto Eroe cristiano, il 
+pellegrino @e destinato a volare in Cielo e ad essere 'ufficialmente' 
+innalzato allo ^status~ di poeta-profeta; in questa veste Dante scrive, 
+per cui non pu@o che nutrire imbarazzo e forse anche vergogna (cfr. n. 
+1-3) nel descrivere un episodio del viaggio in cui il pellegrino, 
+proprio di fronte ai falsi profeti, appare ancora immaturo e confuso ed 
+@e conseguentemente, e giustamente, rampognato con durezza dalla sua 
+guida. Per di pi@u questi @e un poeta-profeta, ma inconsapevole e 
+perci@o limitato, come il lettore potr@a fra poco capire; ancora una 
+volta (cfr. ^Inf~. XIV, n. 68-72), l'Alighieri ridimensiona il 
+poeta-saggio pagano subito dopo averne esaltato il ruolo (strumento 
+della grazia).
+
+	L'argomentazione fin qui condotta va incontro ad un'obiezione: come 
+notato da Steiner, essere |sciocco~ non equivale ad essere 
+|scellerato~. L'obiezione di per s$e @e fondata, ma va tenuto presente 
+che i due epiteti assegnati dal maestro rispondono a situazioni 
+distinte: se infatti il pellegrino @e stato |sciocco~ ^~a piangere per 
+la pena (senza conoscere il peccato), sarebbe |scellerato~ se, dopo 
+aver saputo della sua personale estraneit@a al peccato, mostrasse 
+ancora adesione sentimentale, ponendo dunque in discussione la perfetta 
+equanimit@a (e razionalit@a) del |giudicio divin~.
+
+	|31-36~. Con insistenza, Virgilio spinge Dante ad alzare la testa (lo 
+sguardo era evidentemente fisso sul corpo stravolto) ed a guardare 
+Anfiarao, figlio di Oicleo e Ipermnestra, uno dei sette re che 
+assediarono Tebe (^Inf~. XIV.68-69). Anfiarao, indovino, aveva previsto 
+la propria morte in quella guerra, per cui si nascose per non andarvi; 
+ma, tradito dalla moglie Erifile (cfr. ^Purg~. XII.49-51; ^Par~. 
+IV.103-105), fu costretto a parteciparvi e mor@i precipitando in una 
+voragine, aperta da un fulmine di Giove. Le due terzine descrivono la 
+scena dal punto di vista dei Tebani, che sarcasticamente gridano ad 
+Anfiarao: 'Dove ^precipiti~ (|rui~)?'. E poi: 'Perch$e ^abbandoni la 
+battaglia~ (|lasci la guerra~)?'. La fonte dantesca @e la ^Tebaide~ 
+(VII.690-823; VIII.8ss.), che Dante per@o rielabora, al fine di 
+mostrare disprezzo per l'arte divinatoria.
+
+	Nella tradizione greca (e romana) l'indovino Anfiarao era un 
+personaggio altamente positivo: un eroe, un uomo-dio; ed infatti, nella 
+^Tebaide~, fin dall'inizio @e visibile il desiderio dell'autore di 
+innalzare il personaggio. Stazio descrive, alla fine del c. VII, la 
+discesa di Anfiarao agli inferi ponendo in rilievo la sua dignit@a e, 
+anche nel decisivo momento di resa al volere divino, la sua autonomia: 
+anche allora, egli ^guida~ il proprio carro. All'inizio del c. VIII, 
+poi, Anfiarao @e di fronte a Plutone, il re degli abissi, ed a Minosse, 
+definito "buono", e addirittura riesce a commuovere lo spietato re, il 
+quale "ascolta le sue preghiere e a malincuore si lascia piegare" (v. 
+123). Ora, di fronte a questa impostazione, il poeta cristiano non pu@o 
+che essere negativamente atteggiato: Dante-personaggio, del resto, ha 
+gi@a constatato la vera natura di Minosse e di buona parte 
+dell'Inferno. Nei due versi dedicati al "ruinare" dell'indovino (35-36) 
+@e palese, scrive M. Barchiesi, "l'effetto di degradazione": "quello 
+che in Dante piomba gi@u @e un peso inerte, che va 'per direttissima' 
+non gi@a al patetico e dignitoso incontro con la collera del grande re, 
+e con una giustizia che sapr@a provare per lui piet@a, ma verso la meta 
+che tutti livella (|ciascheduno~), verso le grinfie di un poco umano 
+Minosse. Per lo meno, |afferra~ mi suggerisce un'idea di meccanica 
+bestialit@a, che viene confortata dal trattamento riservato in 
+precedenza dalla ^Commedia~ ai 'giudici' della tradizione classica. Il 
+'buon Minosse' che abbiamo conosciuto in Stazio @e gi@a diventato per 
+Dante un essere che ringhia orribilmente, ed esprime un giudizio di 
+quasi automatica condanna con l' 'avvinghiare' della coda" ("Catarsi 
+classica e 'medicina' dantesca": ^Letture classensi~, 1973, p. 90). Ma 
+Dante deve degradare anche la scena terrestre (fine c. VII) della 
+^Tebaide~: a tal fine, egli impiega "uno stratagemma sottile: assumere 
+il solo punto di vista svantaggioso per Anfiarao, quello dei Tebani 
+affollati a difesa delle mura, sfruttando un particolare che ricorre in 
+Stazio" (Ivi, p. 87). Nel testo di Stazio, infatti, leggiamo della 
+gioia degli assediati in seguito alla morte di Anfiarao, definito 
+"augure ignaro" (VIII.226); ma ci@o ha luogo nel corso della notte 
+successiva alla catastrofe. @E chiaro che l'epiteto di "ignaro" vuol 
+dire svilire la capacit@a professionale dell'indovino e soprattutto la 
+dignit@a della sua ultima caduta, nobilitata dalla sua consapevolezza. 
+"Naturalmente, Stazio ritiene a ragione che questa degradazione non 
+possa accadere per effetto di una notazione cos@i rapida e interessata, 
+effettuata a ritroso: ma se questa viene trasferita nel tempo stesso 
+dell'evento, e viene adottata come unica angolatura di ripresa scenica, 
+si ottiene il risultato dantesco (vv. 31-34). Il presupposto @e 
+chiaramente la ^passivit@a~ dell' 'augure ignaro', che in Stazio 
+'guidava' il cocchio verso la morte. La comicit@a risulta 
+dall'attribuire un'intenzione e una volont@a a chi @e sorpreso e 
+annichilito da un evento che avrebbe dovuto prevedere ed evitare" (Ivi, 
+p. 88). Per quanto riguarda l'espressione |Dove rui?~, essa @e 
+ovviamente derisoria, ma l'effetto @e prodotto dal poeta tramite 
+utilizzo di un verbo che, in bocca al Plutone staziano, esprimeva 
+piuttosto irritazione (VIII.84-85).
+
+	In tal modo, il testo della ^Tebaide~ viene rimaneggiato ai superiori 
+fini della verit@a cristiana, secondo l'usuale prospettiva astorica 
+medievale (cfr. ^Introd. alla cantica~, § 2). Si tratta di una vera e 
+propria "violenza" – come si esprime R. Hollander (^Studies in Dante~, 
+Ravenna, Longo, 1980, p. 171) – esercitata sul testo di Stazio, ancor 
+pi@u notevole se si pensa che Stazio, per l'Alighieri, si convert@i al 
+Cristianesimo (cfr. ^Purg~. XXII.88-89). Il pellegrino pu@o constatare 
+ora, nella quarta bolgia, la quintessenza di Anfiarao, un'anima 
+stravolta che in un primo momento poteva suscitare pianto e 
+solidariet@a ("catarsi classica"), ma che poi conduce il pellegrino 
+alla piena adesione alla volont@a divina, cio@e alla vera piet@a 
+("catarsi cristiana").
+
+	|37-39~. Virgilio chiarisce il ^contrapasso~: l'indovino, che 
+forzatamente guarda ^all'indietro~ (|di retro~) e ^cammina a ritroso~ 
+(|fa retroso calle~: lat. ^retrorsum iter facit~), non vede neanche 
+quello che ha davanti ai piedi, lui che in vita effettu@o ingannevoli 
+previsioni.
+
+	|40-45~. Di Tiresia, celebre indovino tebano, viene rievocato un 
+episodio narrato in Ovidio (^Metam~. III.324-31): Tiresia colp@i con 
+una verga due serpenti ^accoppiati~ (|avvolti~) e fu tramutato in 
+donna; solo dopo sette anni, percuotendo di nuovo i medesimi serpenti, 
+riacquist@o l'aspetto (|penne~ = "sembianze") maschile. Ricordiamo che 
+due serpenti intrecciati su una verga formano il caduceo del dio 
+Mercurio, protettore di maghi ed alchimisti. Ovidio narra anche che 
+Tiresia fu privato della vista da Giunone in quanto, in un responso, 
+l'aveva sfavorita a vantaggio di Giove; questi, allora, lo dot@o in 
+compenso ("infatti nessun dio pu@o annullare ci@o che un altro dio ha 
+fatto") della capacit@a di conoscere il futuro (III.332-38). Qui il 
+poeta cristiano irride a detta capacit@a, non essendo stato Tiresia in 
+grado di prevedere la propria radicale trasformazione. Come ha mostrato 
+R. Hollander (^Studies in Dante~, Ravenna, Longo, 1980, pp. 173-84), 
+siamo qui di fronte ad una "revisione" radicale del testo ovidiano, ove 
+si parla di Tiresia sempre con lode ed ammirazione.
+
+	|46-51~. ^Colui~ (|quel~) ^che procede col suo tergo~ (|s'atterga~) 
+^dietro il ventre di Tiresia~ (|li~ = "gli") ^@e Arunte~ (|Aronta~), 
+^il quale~ (^che~) ^nei~ ^monti di Luni, dove il contadino di Carrara~ 
+(|lo Carrarese~) ^che abita~ (|alberga~) ^nella pianura sottostante~ 
+(|di sotto~) ^coltiva la terra~ (|ronca~), ^ebbe tra i monti Apuani~ 
+(|bianchi marmi~) ^una grotta~ (|spelonca~) ^come~ (|per~) ^dimora; 
+dalla quale~ (|donde~) ^non gli~ (|li~) ^era impedita~ (|tronca~) ^la 
+vista~ (|veduta~) ^quando voleva osservare~ (|a guardar~) ^le stelle e 
+il~ ^mare~. – Arunte @e, nella ^Farsaglia~ di Lucano (I.584-638), un 
+indovino etrusco che predice, nel conflitto fra Pompeo e Cesare, la 
+vittoria di quest'ultimo. Ad Arunte – chiosa Trucchi – "Dante 
+contrappone il rude onesto lavoratore del popolo carrarese, sia che 
+|ronca~ significhi coltivare, mietere e sarchiare, o meglio, come dice 
+il Buti, 'disveglier piante', ch$e i monti di Luni non sono atti a 
+cultura minuta. E un altro contrasto dovette suggerire l'indovino 
+|Aronta~ a Dante per la storia di Cesare: cio@e con Amiclate (^Par~. 
+XI.67-69; ^Conv~. IV.xiii.12), che, tra il subbuglio della guerra 
+civile che tutto il mondo conturba, vive, dove Cesare passa, ignaro di 
+tutto nella sua capanna e sicuro nella sua povert@a, mentre Arunte sta, 
+'campato come un uccellaccio, tra il cielo e la roccia' (D'Ovidio), 
+pronto a trarre buon profitto". |Luni~ @e la citt@a etrusca, presso la 
+foce della Magra, ai tempi di Dante gi@a in rovina, da cui prese nome 
+la Lunigiana (cfr. ^Par~. XVI.73); territorio, questo, noto al poeta, 
+il quale, ospite dei Malaspina, vi soggiorn@o nel 1306 (i monti Apuani 
+sono detti |bianchi marmi~ in quanto ricchi di cave di marmo bianco). 
+La residenza del solitario Arunte @e una |spelonca~: egli "incarna 
+l'orgogliosa e desolata solitudine di cui questi falsi veggenti si 
+circondano" (Grabher). Tuttavia Lucano scrive che "Arunte abit@o le 
+mura deserte di Luni" (^Phars~. I.586); anzi, gli editori moderni 
+leggono "di Lucca" (^Lucae~) al posto di "di Luni" (^Lunae~), forma che 
+probabilmente occorreva nel testo della ^Farsaglia~ a disposizione di 
+Dante. Tuttavia la trasformazione di "mura" in |monti~ con la fatidica 
+|spelonca~ ci fa capire che, anche in questo caso, Dante sta 
+"rielaborando" il testo classico, anche se, nel caso della ^Farsaglia~, 
+si tratta di un "minimal misreading", che non si oppone drasticamente 
+alle intenzioni di Lucano (cfr. R. Hollander, ^Studies in Dante~, 
+Ravenna, Longo, 1980, pp. 184-88).
+
+	|52-57~. |Manto~ @e la celebre indovina, figlia di Tiresia; alla morte 
+di questi, fugg@i da Tebe e ^girovag@o~ (|cerc@o~: in questo caso 
+intransitivo) per molti paesi finch$e si ferm@o a Mantova, nei cui 
+pressi, ad Andes, nacque Virgilio. Le fonti di Dante sono Virgilio 
+(^Aen~. X.198-200), col commento di Servio, Ovidio (^Metam~. VI.157) e 
+soprattutto Stazio (^Theb~. IV.463-68; VII.758). Si noti che in ^Purg~. 
+XXII si legge, contraddittoriamente, che Manto @e nel Limbo (cfr. n. 
+100-102). La descrizione di Virgilio insiste sulla squallida nudit@a 
+della donna, che ha, secondo la rappresentazione convenzionale di 
+maghe, profetesse ed incantatrici, le |trecce sciolte~: questo sintagma 
+rinvia – come notato da Benvenuto – a ^inpexis... comis~ (Eritone) di 
+^Phars~. VI.158 ed anche – come notato da Grabher – a ^non comptae... 
+comes~ (Sibilla) di ^Aen~. VI.48. Dante non pu@o vedere le ^~|mammelle~ 
+di Manto, non perch$e esse siano coperte dai capelli ricadenti sul 
+petto, ma perch$e ella, per via del travolgimento, avanza col dorso e 
+quindi le mammelle sono |di l@a~ (dalla parte nascosta all'osservatore).
+
+	|58-60~. Dopo la morte di Tiresia e l'instaurazione in ^Tebe~ (|la 
+citt@a di Baco~ = "la citt@a sacra al dio Bacco") della tirannia di 
+Creonte (morti i legittimi sovrani Eteocle e Polinice, sui quali cfr. 
+^Inf~. XXVI.54 e ^Purg~. XXII,56) e quindi dell'ateniese Teseo, Manto 
+abbandon@o la citt@a e a lungo girovag@o (|g@io~: "g@i"; epitesi di 
+-^o~ come al v. 58).
+
+	|61-63~. |Benaco~ @e il nome latino (^Benacus~) del lago di Garda. 
+Questa @e la prima delle sette terzine dedicate alla descrizione della 
+regione attorno a Mantova. Il ^lago~ (|laco~, lat. ^lacus~) si trova 
+quindi ai piedi delle |Alpi~ che segnano il confine con la |Lamagna~ (o 
+"La magna", forma usuale per designare la Germania), ma in quel tratto 
+che @e |sovra~ (che nell'ital. ant. ha anche il senso di "all'altezza 
+di", "presso", come p. es. in VII.22) il castello di ^Tirolo~ 
+(|Tiralli~ @e forma ladina, designante in seguito anche l'intera contea 
+attorno al castello). Tutta la descrizione che ha qui inizio non @e 
+spiegabile ricorrendo a quel modo di lettura, di stampo crociano, che 
+mira ad isolare "episodi lirici" nel contesto di un canto 
+"intellettualistico": "La natura con la sua autenticit@a equilibra 
+l'artificiosit@a della magia, creatrice di una falsa natura; altrimenti 
+detto, il poeta 'rassicura', per cos@i dire, evocando la natura 
+intangibile nella sua perenne e indifferente maest@a, contro ogni 
+possibile perversione da parte della magia, che ha bisogno della natura 
+e della sua segretezza. La natura, figlia di Dio, espunge da s$e la 
+presenza inquietante del mago, o la spegne nel suo abbraccio 
+livellatore; mentre la raffigurazione di Manto che fugge |ogne 
+consorzio umano~ (v. 85) vuol dimostrare a Dante quanto erronea fosse 
+la sua iniziale solidariet@a" (M. Barchiesi,"Catarsi classica e 
+'medicina' dantesca": ^Letture classensi~, 1973, pp. 108-109).
+
+	|64-66~. La zona compresa tra |Garda~, |Val Camonica~ e ^Alpi Pennine~ 
+(|Pennino~) per mezzo di moltissimi ^ruscelli~ (|fonti~) ^@e irrigata~ 
+(|si bagna~) dall'acqua che ^confluisce~ (|stagna~) nel lago Benaco. 
+Quindi Virgilio dice che il bacino idrografico del Benaco, limitato ad 
+Ovest dalla Val Camonica (valle dell'Oglio), ad Est da |Garda~ 
+(castello sulla riva orientale del lago) e a Nord dalle Alpi, @e 
+formato di moltissimi ruscelli che vanno poi a confluire nel lago 
+(|stagna~ non vuol dire "s'impaluda"). Nota che |Pennino~ ^~(o 
+^Apennino~) designava al tempo la catena delle Alpi, od anche qualche 
+sua sezione. Il soggetto di |si bagna~ @e tutta la determinazione 
+locale del v. 65, secondo una prassi non insolita (prossima occorrenza: 
+^Inf~. XXXIV.97-98). Ma un'altra lezione vuole al v. 65 non |e 
+Pennino~, bens@i ^Apennino~; in tal caso, la parafrasi suona cos@i: "Le 
+Pennine, tra il Garda e la Val Camonica, si bagnano..."; per@o il 
+rilievo cos@i indicato @e in realt@a molto povero di acque, per cui la 
+prima interpretazione appare pi@u persuasiva.
+
+	|67-69~. ^In mezzo al lago~ (|nel mezzo~) ^c'@e un luogo~ (|Loco @e~) 
+^in cui~ (|l@a dove~) ^il~ ^vescovo~ (|pastore~) ^di Trento~ 
+(|trentino~), ^quello di Brescia e quello~ (|'l~ = "il") ^di Verona~ 
+(|veronese~) ^potrebbero impartire la benedizione~ (|segnar~), ^se 
+facessero~ (|s'e' fesse~) ^quel cammino~. – Anche questa terzina @e 
+stata molto discussa: |loco~ potrebbe alludere ad una localit@a precisa 
+posta al confine dei tre vescovadi (p. es. l'isola dei Frati, oggi 
+isola Lechi), ma la maggior parte dei commentatori pensa piuttosto ad 
+un luogo ideale, come attesta l'occorrenza di |fesse~, che, se non 
+denotasse il carattere ipotetico del |cammino~, costituirebbe aggiunta 
+inutile. "Per suffragare questa interpretazione si potrebbe aggiungere 
+che Dante in tre terzine @e venuto via via specificando la posizione 
+del Garda, prima indicandone la giacitura |a pi$e de l'Alpe~, proprio 
+all'altezza del Tirolo, quindi specificando il bacino idrografico della 
+regione che alimenta l'afflusso delle acque, infine fissandone la 
+giacitura quasi geometricamente anche secondo la divisione delle 
+diocesi. Determinata cos@i la posizione esatta del lago, egli ferma poi 
+l'attenzione su Peschiera, dove l'afflusso delle acque nel lago 
+determina l'uscita di un fiume emissario (il Mincio), il cui corso 
+interessa al poeta perch$e forma la palude mantovana che egli vuole 
+specificare" (Bosco-Reggio).
+
+	|70-72~. La rocca di Peschiera, ^munita~ (|forte~) ^fortezza~ 
+(|arnese~) situata nella parte sud-orientale del lago, era per gli 
+Scaligeri (alla cui politica difensiva il poeta allude) baluardo contro 
+gli attacchi di Brescia e Bergamo. Il passato remoto |discese~ "non ha 
+valore di vero e proprio passato, ma indica l'azione compiuta quale 
+risulta al presente" (Chimenz); si pu@o dunque rendere con "@e pi@u 
+bassa".
+
+	|73-75~. ^In questo luogo~ (|Ivi~) ^@e necessario~ (|convien~) ^che 
+trabocchi~ (|caschi~) ^tutta l'acqua~ (|tutto quanto...ci@o~) ^che non 
+pu@o essere contenuta nel lago di Garda~ (|'n grembo a Benaco star non 
+pu@o~), ^e diventa~ (|fassi~: "si fa") ^fiume che scorre~ (|gi@u~) ^per 
+i verdi pascoli~ (|paschi~). – Si forma cos@i il fiume Mincio.
+
+	|76-78~. Virgilio specifica che l'acqua, ^non appena~ (|Tosto che~) 
+^comincia~ (|mette co~; |co~ = "capo") a correre, cambia nome ^~da 
+Benaco a Mincio, fino a Gov$ernolo, dove ^sfocia nel~ (|cade in~) Po. 
+Gov$ernolo @e un borgo in provincia di Mantova, sulla destra del 
+|Mencio~ (forma arcaica), ^~a due chilometri dalla confluenza nel Po. 
+Questi luoghi erano direttamente noti al poeta. La forma |co~ (cfr. 
+^Georg~. IV.368) verr@a usata anche in ^Inf~. XXI.64, ^Purg~. III.128 e 
+^Par~. III.96.
+
+	|79-81~. Virgilio discorre ora del corso mediano del Mincio, il quale, 
+intorno a Mantova, si |slarga~ in una ^zona bassa~ (|lama~) e forma una 
+palude. Sembra meglio intendere |grama~ come "povera d'acqua" piuttosto 
+che come "malsana", "insalubre": infatti l'occorrenza di |suole~ 
+renderebbe arduo spiegare una insalubrit@a saltuaria. Circa |lama~, 
+cfr. ^Inf~. XXXII.96; ^Purg~. VII.90.
+
+	|82-84~. Nel racconto della guida, Manto, la |vergine~ ^restia alle 
+nozze|~ ~(|cruda~), not@o, passando ^per questo luogo~ (|quindi~), una 
+terra ^incolta~ (|sanza coltura~) e disabitata. Per Stazio, Manto @e 
+"non sposata" (^innuba~: ^Theb~. IV.463) e "vergine" (^virgo~: IV.488), 
+mentre per Virgilio (^Aen~. X.198-200) ella @e moglie del Tevere e 
+madre di Ocno: vistosa la discordanza fra il testo dantesco e quello 
+virgiliano (cfr. n. 91-93). Circa |cruda~, molti danno all'aggettivo il 
+senso di "crudele", in quanto in ^Theb~. IV.463ss. Manto @e coinvolta 
+in un rito di sangue, ma ella nell'occasione non fa che aiutare il 
+"santo padre" nel compito della divinazione.
+
+	|85-87~. Quindi Manto, desiderosa (come ogni persona dedita a pratiche 
+magiche) di stare alla larga dal |consorzio umano~ ^~(il fatto di avere 
+dei servi non contraddice tale desiderio, essendo essi oggetti di sua 
+propriet@a), prese dimora nel mezzo della palude, ed ivi risiedette 
+fino alla morte (fino a quando il corpo rimase ^privo~ – |vano~ = 
+"vuoto" – dell'anima).
+
+	|88-90~. ^Poi gli~ (|li~) ^uomini che erano disseminati~ (|sparti~) 
+^intorno si riunirono~ (|s'accolsero~) ^in quel luogo~ (|a quel loco~), 
+^che era una fortezza naturale~ (|forte~) ^a causa della palude~ (|per 
+lo pantano~) ^di cui si circondava~ (|ch'avea da tutte parti~). – Gli 
+abitanti della zona si radunarono in quel posto, che era naturalmente 
+ben difeso.
+
+	|91-93~. Gli uomini che avevano scelto di risiedere nella "fortezza 
+naturale" di cui ^~sopra (n. 88-90) ^fondarono~ (|Fer~ = "Fecero") una 
+citt@a ^sul terreno in cui era stata sepolta Manto~ (|sovra quell'ossa 
+morte~) ^~ed in onore di lei la ^chiamarono~ (|appellar~ = 
+"appellarono") Mantova ^senza altro destino~ (|sanz'altra sorte~); 
+cio@e – come legge Hollander (^Studies in Dante~, Ravenna, Longo, 1980, 
+p. 195n.) – senza alcun legame (al di l@a del nome) fra Manto ed il 
+futuro della citt@a. Dunque Manto non ha nulla a che vedere con la 
+fondazione di Mantova (|Mant,ua~ @e il nome lat.: cfr. ^Purg~. VI.72), 
+che sorse senza alcun rapporto con l'arte magica della donna (allora 
+gi@a morta). Ma nell'^Eneide~ @e Ocno, figlio di Manto, a fondare la 
+citt@a; Dante-autore, invece, d@a tutt'altra versione (facendo s@i che 
+Virgilio corregga s$e stesso), indicando come fondatori uomini del 
+tutto alieni dalla magia ed eliminando la possibilit@a stessa della 
+presenza di Ocno (Manto @e |vergine~: v. 82). Cfr. n. 97-99.
+
+	|94-96~. Il conte Alberto da |Casalodi~, seguendo nella sua 
+^stoltezza~ (|mattia~) il consiglio fraudolento di |Pinamonte~ 
+Bonacolsi, ghibellino, esili@o molti nobili per placare il popolo. Ma 
+in tal modo il conte, privatosi del suo principale sostegno, fu 
+spodestato nel 1272 dal Bonacolsi, che signoreggi@o in Mantova fino al 
+1291 esiliando tutte le famiglie nobili e sterminandone anche molte: di 
+qui lo spopolamento, cui qui il poeta fa riferimento (|spesse~ = 
+"numerose"), sub@ito dalla citt@a.
+
+	|97-99~. Il discorso virgiliano termina con una solenne rivendicazione 
+della |verit@a~; implicita, di conseguenza, l'ammissione che anche 
+l'^Eneide~ pu@o contenere |menzogna~. Altre versioni sulle origini di 
+Mantova Dante poteva leggere nel commento ad ^Aen~. X.198 di Servio (la 
+fondazione sarebbe dovuta all'etrusco Torcone, figlio di Tirreno) e 
+nelle ^Etimologie~ (XV.i.59) di Isidoro di Siviglia (qui @e Manto 
+stessa la fondatrice). Nota il latinismo |nulla~ (= "nessuna").
+
+	Il testo dantesco quindi contraddice chiaramente il testo virgiliano. 
+E siccome chi dichiara il vero @e proprio Virgilio, che dunque si 
+autocorregge, siamo di fronte ad una circostanza in cui "l'autorit@a di 
+Virgilio viene messa direttamente in discussione" (G. Mazzotta, ^Dante, 
+Poet of the Desert~, Princeton Univ. Press, 1979, p. 90) da 
+Dante-poeta, il quale pone in atto una simile procedura in altre 
+occasioni (Ivi, capp. IV, V). Come scrive R. Hollander, siamo forse di 
+fronte al "massimo punto dell'audacia di Dante nel travisamento dei 
+suoi testi classici" (^Studies in Dante~, Ravenna, Longo, 1980, p. 
+195), anche se si tratta di un travisamento mirato a "salvare il testo 
+dell'^Eneide~". Infatti, la versione virgiliana dell'origine di 
+Mantova, in cui si pone in rilievo il fatto che il fondatore Ocno @e 
+figlio di Manto, figlia dell'indovino Tiresia, diverge da quella 
+tradizionale (Hollander rinvia a M. Desport, ^L'Incantation 
+virgilienne~, Bordeaux, Delmas, 1952): il poeta latino, evidentemente, 
+vuole collegare la citt@a natale, e quindi s$e stesso, alla facolt@a di 
+compiere vaticini. Ma Dante, che non vuole che il messaggio virgiliano 
+sia in stridente contrasto con quello cristiano, non pu@o accettare un 
+Virgilio indovino: la sua strategia @e quindi quella di salvare il 
+testo dell'^Eneide~, contro il proposito stesso di Virgilio, 
+dall'essere coinvolto in una complicit@a con la divinazione. In questo 
+senso, la spiegazione di Hollander va oltre quella proposta per primo 
+da D'Ovidio e poi ripresa da altri commentatori, come p. es. il 
+Vandelli: "Il desiderio di purificare le origini della sua Mantova da 
+ogni macchia o contaminazione di magia e di ribadire che egli, dalla 
+leggenda fatto mago, era alieno interamente da siffatte arti, appare la 
+ragione per cui Virgilio @e qui indotto da Dante a rinnegare ci@o che 
+aveva scritto nell'^Eneide~". Abbiamo visto che @e l'Alighieri stesso a 
+coinvolgere il poeta latino in un'avventura demoniaca al servizio della 
+maga Eritone (cfr. ^Inf~. IX, n. 22-27). Ci@o attesta che la sapienza 
+pagana @e ambigua e pericolosa: l'uomo Virgilio riusc@i a non violare 
+la legge naturale grazie all'aiuto fornito dall'Impero (^remedium 
+peccati~), ma non si rese conto della natura provvidenziale di tale 
+aiuto. Ora, sappiamo che l'^Eneide~ esalta l'Impero, sacra istituzione, 
+ed @e in questo senso opera veramente profetica; @e ovvio che 
+l'Alighieri voglia cancellare l'idea che essa sia stata composta sotto 
+il segno della magia. Tale strategia, per@o, porta, nel 'correggere' il 
+poema virgiliano, ad ammettere che esso contiene anche delle falsit@a, 
+donde la superiorit@a del poema cristiano, il cui autore non solo @e 
+ispirato da Dio, ma ne @e pienamente consapevole.
+
+	B. Porcelli considera quale principio esplicativo dell'episodio 
+esattamente la strategia del poeta medievale che, "iniziando una gara 
+col suo maestro e accingendosi a un compito cos@i arduo, ha bisogno di 
+una sorta d'investitura o di riconoscimento dallo stesso suo 
+antagonista. |Ben lo sai tu che la sai tutta quanta~, dice Virgilio a 
+Dante alla fine del canto, presentando Euripilo e alludendo 
+all'^Eneide~, e la prova di questa totale conoscenza del discepolo @e 
+proprio in quel ricorso a versi isolati del poema" (^Studi sulla 
+'Divina Commedia'~, Bologna, P@atron, 1970, p. 42). La "gara", che 
+implica una "voluta sopraffazione del testo classico", prende corpo 
+nella rinuncia all'utilizzo privilegiato dello stile 'alto' della 
+^traged@ia~ a vantaggio del rivoluzionario "pluristilismo" della 
+^comed@ia~. Come rileva la Barolini, non @e un caso che Dante definisca 
+per la prima volta il proprio poema, chiamandolo ^comed@ia~, nel 
+contesto di un episodio che solleva proprio le questioni della verit@a 
+e della falsit@a. L'episodio @e quello di Gerione, il mostro simbolo di 
+frode che consent@i ai due viaggiatori di scendere dal VII all'VIII 
+cerchio. Nell'occasione Dante-autore aveva scongiurato il lettore 
+(sulle ^note~ della ^comed@ia~: XVI.127-128) di prestar fede al 
+racconto, pur avendo il vero ^faccia di menzogna~ (v. 124). Se la 
+^comed@ia~ @e dunque la verit@a, Gerione, che ha ^faccia d'uom giusto~ 
+(XVII.19), @e al contrario la falsit@a: da una parte, il vero che in 
+superficie sembra falso, fraudolento; dall'altra, il falso che in 
+superficie sembra vero, onesto. Ora, l'^Eneide~ @e detta ^traged@ia~ 
+proprio in questo canto, cio@e nel canto in cui ha luogo la netta 
+correzione dell'opera virgiliana, in cui assistiamo alla pena dei 
+divinatori, dei falsi profeti. Mentre perci@o la ^Commedia~ @e una 
+verit@a che ha talvolta l'apparenza di falsit@a, l'^Eneide~ non @e 
+sempre vera, anche se lo pare sempre, per cui pu@o e deve essere 
+corretta. "Anche se nell'^Eneide~ c'@e della verit@a, questa non @e 
+stata intesa dal suo autore, ma rivelata retrospettivamente attraverso 
+il dispiegarsi della ^~divina provvidenza. Nella stessa misura, pur 
+essendo partecipe di verit@a storiche, l'^Eneide~ ignora la pi@u grande 
+di tali verit@a, vale a dire la nascita di Cristo" (T. Barolini, 
+^Dante's Poets~, Princeton Univ. Press, 1984, p. 214). Dopo aver 
+narrato la vera storia della fondazione di Mantova, Virgilio conclude 
+contrapponendo la |verit@a~ della nuova versione alla |menzogna~ della 
+vecchia, quella contenuta nell'^Eneide~ (v. 99), la quale dunque, 
+prosegue Barolini, "costituisce un testo che – come i falsi profeti di 
+questa bolgia – @e in grado di frodare il vero. Il linguaggio del v. 
+99, con l'aspra contrapposizione di |verit@a~ e |menzogna~, e 
+l'occorrenza al v. 113 di |traged@ia~, secondo nome di genere, indicano 
+gli stretti legami che connettono questo episodio a quello del canto 
+XVI: il poema virgiliano, definito |traged@ia~, @e, almeno talvolta, 
+una menzogna che froda il vero, mentre il poema dantesco @e una verit@a 
+che ha qualche volta la ^faccia di menzogna~. Una simile verit@a 
+poetica costituisce una ^comed@ia~, un termine che Dante user@a per 
+l'ultima volta nei versi di apertura del canto XXI" (Ivi, pp. 217-18). 
+La ^comed@ia~, nel riferire il vero, si serve di ogni tipo di stile, 
+non limitandosi a quello ^alto~, virgiliano. Eppure Virgilio, nello 
+svolgere la lunga digressione su Mantova, sovente considerata avulsa 
+dalla sostanza poetica del canto, utilizza uno stile 'non-virgiliano': 
+tono medio, terzine isolate, frasi non complesse. Ci@o rientra nella 
+strategia di Dante-autore, il quale "non solo fa s@i che Virgilio 
+riscriva la storia di Mantova, ma fa s@i che egli la riscriva in uno 
+stile che chiaramente non @e il suo" (T. Barolini, in ^California 
+Lectura Dantis. Inferno~, University of California Press, 1998, p. 
+281). Secondo la Barolini, l'obiettivo prioritario di Dante @e quello 
+di "distinguere fra tre tipi di profeta: il profeta totalmente falso, 
+ospitato nella quarta bolgia ed esemplificato da quanti vi abitano; il 
+profeta inconsapevole, portatore a sua insaputa di vero e falso 
+insieme, un tipo esemplificato da Virgilio, che Dante accetta o 
+corregge secondo la propria percezione della ^verit@a~ o della 
+^menzogna~ che costui esibisce; e il profeta incondizionatamente vero, 
+la cui visione @e divinamente sanzionata, esemplificato da Dante 
+stesso" (T. Barolini, ^Dante's Poets~ cit., p. 220).
+
+	Virgilio si trova cos@i in una zona neutra, sostanzialmente 
+configurato in maniera passiva: pu@o operare a fin di bene (alle 
+dipendenze di Beatrice), ma anche a fini deteriori, come nell'occasione 
+in cui fu strumento di Eritone (cfr. ^Inf~. II, n. 67-69). Tale 
+configurazione emerge, nella descrizione della quarta bolgia, se 
+poniamo mente al fatto che l'ambiguit@a @e anche peculiare delle arti 
+divinatorie: come afferma Guido da Pisa, dobbiamo guardarci dall'arte 
+magica, "quia licet dicat aliquando veritatem, tamen ut plurimum in se 
+continet falsitatem, vel saltem ambiguitatem. Quod enim in se contineat 
+falsitatem patet quia diabolus, qui fuit inventor huius artis, mendax 
+est". Naturalmente Virgilio non fu intenzionalmente menzognero 
+(fraudolento), altrimenti non si troverebbe nel Limbo, tuttavia non 
+sempre fu in grado di distinguere il vero dal falso. Questa sua 
+caratteristica salir@a in primo piano pi@u avanti (c. XXI), allorch$e 
+egli sar@a ingannato proprio da un diavolo, abile nel mescolare 
+informazioni vere ed informazioni false. Proprio nella sezione dedicata 
+alla divinazione, l'Aquinate scrive: "Il demonio, il quale mira alla 
+perdizione degli uomini, anche se in codesti responsi dice qualcosa di 
+vero, tende ad abituare gli uomini a credere in lui: e cos@i mira a 
+condurre a cose che sono dannose per la salvezza" (^ST~ II-II, q. 95, 
+a. 4).
+
+	|100-102~. I |ragionamenti~ di Virgilio sono per Dante talmente 
+convincenti che tutti gli altri ^sarebbero~ (|sarien~) come |carboni 
+spenti~: sarebbero cio@e privi di luce e calore per la sua mente, 
+dunque incapaci di persuaderlo. @E ancora Hollander a porre in rilievo 
+l'importanza della terzina, considerando che l'^Eneide~ sar@a definita 
+da Stazio (il poeta latino che Dante immagina segretamente convertito 
+al Cristianesimo) la ^divina fiamma~ (^Purg~. XXI.95). Il passo "would 
+suggest that if the ^Aeneid~ is to be regarded as a true flame (even a 
+salvific one), it must be purified of its dross. Thus from Manto 
+neither Mantua nor her greatest citizen will take any lineage; Virgil's 
+very text – or at least the offending passage in Book X – must become a 
+^carbone spento~ so that the whole poem may remain a ^divina fiamma~" 
+(^Studies in Dante~, Ravenna, Longo, 1980, p. 196). – Con questo 
+termina il lungo episodio di Manto. Come abbiamo anticipato (n. 52-57), 
+in ^Purg~. XXII.113 si legge che ella (^la figlia di Tiresia~) @e nel 
+Limbo. Come spiegare la contraddizione? Pu@o trattarsi di un errore di 
+Dante, anche se la circostanza pare anomala: "Strana dimenticanza per 
+uno scrittore, che cur@o diligentemente i menomi particolari dell'opera 
+sua! Sarebbe unica in tutto il poema". Sono parole di F. Torraca, che 
+propose di rivedere il testo sostituendo ^la figlia di Tiresia, e 
+Teti~, con ^la figlia di Nereo, Teti~; la tesi della revisione testuale 
+@e stata poi fatta propria anche da altri studiosi, fra i quali Padoan 
+(^la figlia di Chirone, Teti~, lezione presente anche in Boccaccio) e 
+recentemente C.A. Mangeri (^la figlia di Dorissa, Teti~: in ^Studi e 
+problemi di critica testuale~, 1994, pp. 5-10), ma urta contro tutta la 
+tradizione testuale, tanto che molti critici auspicano uno studio pi@u 
+accurato dei codici, magari al fine di dare una diversa identificazione 
+alla figura femminile collocata, secondo ^Purg~. XXII, nel Limbo. 
+Tuttavia, l'ipotesi dell'"errore" pu@o essere sostenuta cogliendo le 
+ragioni della "dimenticanza" dantesca nell'atteggiamento "ambiguo" 
+tenuto dal poeta di fronte a Manto ed alla tradizione culturale che 
+essa rappresenta: @e la procedura di E. Caccia, il quale vede dietro la 
+"dimenticanza" un equivoco spirituale, dovuto proprio 
+all'atteggiamento, sospeso "tra ammirazione e condanna", di Dante (^Il 
+canto XX dell'<Inferno>~ [`Lectura Dantis Scaligera'], Firenze, Le 
+Monnier, 1961, p. 36n.). Ma questo atteggiamento, secondo Pasquazi, @e 
+s@i riscontrabile in Dante, ma non senza che questi ne abbia 
+consapevolezza, giacch$e il problema del valore della sapienza antica 
+@e ripetutamente ed apertamente affrontato dal poeta, il quale ha al 
+proposito una posizione ideologica chiara, che non pu@o dar luogo ad 
+"equivoci". Tale posizione, che conduce all'ammirazione ed al medesimo 
+tempo alla condanna della civilt@a classica e pagana, si manifesta 
+anche nella questione della bilocazione di Manto, che rappresenta 
+"l'equivalente poetico di quella bivalenza del sapere classico. Il 
+sapere antico, la civilt@a classica hanno per Dante un duplice aspetto: 
+da una parte sono peccato originale, mondo che ha preteso di bastare a 
+s$e stesso, di percorrere con le sole proprie forze l'infinita via 
+della perfezione, mondo, dunque, che ha peccato di orgoglio 
+intellettuale; dall'altra, sono preparazione lunga e generosa 
+all'avvento del Cristianesimo, sono continuo lavoro e continua 
+esperienza dell'insufficienza dell'uomo e perci@o, almeno 
+implicitamente, desiderio perennemente insoddisfatto e perennemente 
+vivo di quel dono di grazia di cui i secoli successivi hanno 
+beneficiato. Non distratta dimenticanza, quindi, ma rivendicazione dei 
+valori dell'uomo senza nasconderne le miserie: questo, ci sembra, debba 
+vedersi nella duplicit@a della Manto dantesca" (S. Pasquazi, ^Il canto 
+XX dell' 'Inferno'~, in ^Nuove letture dantesche~, II, Firenze, Le 
+Monnier, 1970, pp. 198-99).
+
+	Propendono per la tesi di una contraddizione ^intenzionale~ da parte 
+di Dante R. Kay ("Dante's Double Damnation of Manto": ^Res Publica 
+Litterarum,~ 1978, pp. 113-28) e soprattutto R. Hollander, la cui 
+opinione si basa sulla constatazione che il contesto di ^Purg~. XXII 
+pone in rilievo, in contrasto con la dannazione di Virgilio, la 
+salvezza di Stazio, dal quale recepisce un'immagine non certamente 
+negativa di Manto. Nella ^Tebaide~, infatti, la ^figlia di Tiresia~ @e 
+connotata soprattutto per la sua piet@a filiale: anche quando collabora 
+con Tiresia, ella non partecipa a oscure pratiche di propria 
+iniziativa, ma aiuta il cieco padre nel compito della divinazione. In 
+tal modo la ^Tebaide~ autorizza la collocazione di Manto nel Limbo. Ed 
+ecco la soluzione suggerita da Hollander: "La Manto di Malebolge @e 
+creatura di Virgilio, quella del Limbo la vergine filiale del IV libro 
+della ^Tebaide~. Ci@o che rende questa ipotesi particolarmente 
+attraente @e che il suo contesto si basa sul paradosso della salvezza 
+di Stazio e della dannazione di Virgilio. Cos@i, se la contraddizione 
+di Dante @e intenzionale, egli vuole costringerci a pensare alla 
+ragione per la quale vi @e ricorso. Nella nostra perplessit@a, 
+certamente dobbiamo prendere in considerazione i suoi autori e le sue 
+precedenti interpretazioni dei loro testi in ^Inferno~ XX. Ci@o che lo 
+ha spinto a censurare l'^Eneide~ di Virgilio – la discendenza di Manto 
+– @e semplicemente assente in Stazio, nel cui poema essa @e figlia 
+fedele e non ha progenie mantica. In questo e in altri casi Dante 
+travisa (^misreads~) i suoi autori quando avverte di doverlo fare, 
+lasciando a noi il compito di penetrare i suoi motivi. Ed in questa 
+formulazione il suo desiderio di censurare e correggere il poeta 
+maggiore in ^Inferno~ XX @e attribuito al poeta minore nel c. XXII del 
+^Purgatorio~" (^Op. cit~., pp. 211-13).
+
+	|103-105~. Dante "rimprovera molto delicatamente Virgilio di aver 
+sviato troppo a lungo la sua attenzione dal vero motivo per cui si 
+trovano l@i insieme, cio@e per vedere esempi di peccatori puniti" 
+(Garavelli, ^comm. ad loc~.); di questi, perci@o, torna ad occuparsi. 
+^~|Rifiede~ significa letteralmente "ferisce di nuovo" (|fiede~ da 
+^fedire~, "ferire, colpire"), per cui la |mente~ "torna a rivolgersi".
+
+	|106-114~. La Grecia rest@o ^priva~ (|vota~) di maschi, al punto che 
+rimasero solo i ^bambini~ (|per le cune~ = "per le culle"), al tempo 
+della spedizione contro Troia. La flotta greca rest@o bloccata nel 
+porto di Aulide, in Beozia, a causa di una bonaccia mandata da 
+Artemide, la quale si plac@o solo quando fu offerta in sacrificio 
+Ifigenia, figlia del duce greco Agamennone. Dante-autore afferma qui in 
+maniera perentoria (vantando la perfetta conoscenza dell'^Eneide~) che 
+il momento opportuno per salpare fu determinato ("dare il punto" era 
+formula del linguaggio astrologico) dal famoso |augure~ (un ^hapax~) 
+Calcante (che segu@i i Greci nella spedizione) e da Euripilo, che il 
+Dante-personaggio vede ora fra i divinatori. Sennonch$e, dall'^Eneide~ 
+non risulta che Euripilo fosse augure (propriamente, chi emetteva 
+responsi osservando il volo degli uccelli: lat. ^augur~) n$e che fosse 
+in Aulide con Calcante: nel II libro si legge solo (vv. 114-18) del 
+racconto del greco Sinone (bugiardo in quanto il racconto serviva per 
+ingannare i Troiani e far entrare il cavallo di legno nella citt@a), 
+secondo il quale Euripilo era stato mandato dai Greci a consultare 
+l'oracolo di Apollo, dato che essi, desiderosi di abbandonare Troia, ne 
+erano impediti dai venti contrari. Per spiegare l'incongruenza, si 
+suppone solitamente, seguendo l'ipotesi di Parodi, che Dante abbia 
+letto erroneamente il testo dell'^Eneide~, che recita: "Col sangue di 
+una vergine uccisa [Ifigenia], placaste (^placastis~) i venti quando 
+veniste, o Greci, alle spiagge troiane..."; se Dante avesse letto 
+^placasti~ al posto di ^placastis~, avrebbe in effetti potuto dedurre 
+la presenza di Euripilo in Aulide e la sua funzione di augure: "...tu, 
+Euripilo, placasti i venti...". Ma il parallelismo fra "placaste" e 
+"veniste" rende implausibile l'ipotesi, per cui si pu@o anche ritenere 
+che l' 'errore' di Dante sia intenzionale, rientri cio@e nella sua 
+strategia di 'revisione' del testo virgiliano (cfr. R. Hollander, 
+^Studies in Dante~, Ravenna, Longo, 1980, pp. 200-204). Circa il 
+termine |traged@ia~, va ricordato che esso denota, secondo il ^DVE~ 
+(II.iv.5, 7), un componimento poetico di argomento serio, di stile 
+elevato e di linguaggio eccelso. Cfr. n. 130.
+
+	|115-117~. Il dannato ^magro~ (|poco~) nei fianchi @e Michele Scoto, 
+^scozzese~ (|scotto~; lat. ^scotus~) di nascita: egli fu dotto 
+filosofo, alchimista e astrologo di Federico II; Boccaccio lo chiama 
+"gran maestro in nigromantia" (^Decameron~ VIII.ix.17). Si narravano 
+vari prodigi da lui compiuti; utilizzando l'esplicito termine di 
+|frode~ (plurale di ^froda~: ^Inf~. XVII.7), Virgilio nega decisamente 
+la loro attendibilit@a. Si noti che, in maniera inconsueta, la guida 
+inizia ora a parlare di personaggi della storia italiana moderna. 
+Secondo G. Bolognese ("Fra i maghi danteschi: M. Scoto": ^L'Alighieri~, 
+1976, pp. 73-74), il giudizio drastico di Virgilio @e dovuto al fatto 
+che Scoto (morto probabilmente nel 1235) aveva incluso nel suo manuale 
+di astrologia, come grande mago, Virgilio stesso. Comunque di questo 
+personaggio, al quale il poeta dedica una sola terzina, la critica ha 
+discusso solo di passaggio, per cui il particolare dei "fianchi magri" 
+@e rimasto in sostanza inspiegato (per Guido da Pisa, seguito poi da 
+altri, si tratta di un'allusione al fatto che "in Iscotia vadunt 
+homines ita stricte et ornate induti quod quasi in yliis nichil sunt"). 
+Nei testi a noi disponibili non appaiono descrizioni dell'aspetto 
+fisico dell'indovino; quindi @e lecito chiedersi per quale motivo il 
+poeta abbia inserito tale particolare, anche perch$e sovente una 
+peculiarit@a fisica @e manifestazione, nell'oltretomba dantesco, di 
+qualche importante caratteristica interiore. Bolognese ha posto in 
+rilievo un brano del cap. 88° del ^Libro di fisiognomica~, che 
+costituisce l'ultimo (e pi@u diffuso) libro della trilogia di Scoto 
+sulla divinazione: in tale brano si afferma che l'individuo dai fianchi 
+magri @e poco propenso al lavoro fisico, @e "sagace", "cattivo" e 
+"giusto rispetto a ci@o che @e buono", per cui i fianchi scarni 
+appaiono quale degna caratteristica di un uomo "sagace" e "cattivo".
+
+	Questa spiegazione non d@a conto, tuttavia, dell'altra caratteristica 
+morale dell'uomo smilzo, ossia l'essere "giusto rispetto a ci@o che @e 
+buono": una caratteristica che esprime una certa ambiguit@a, ossia pare 
+manifestazione di una personalit@a capace di riconoscere il giusto 
+comportamento, ma ciononostante propensa ad agire in maniera 
+riprovevole. R. Kay ha tentato una spiegazione esauriente basandosi 
+sugli studi di L. Thorndike, autore di una biografia di Scoto, ma 
+soprattutto di una ^Storia della magia e della scienza sperimentale~. 
+Secondo Thorndike, Scoto appare effettivamente ambivalente nei 
+confronti delle scienze occulte: da una parte, infatti, egli avverte i 
+Cristiani della pericolosit@a delle attivit@a divinatorie, ma 
+dall'altra si dedica a fondo a tali arti, pur se ufficialmente 
+condannate dalla Chiesa. Scoto elenca ventotto tipi di divinazione, 
+informando il lettore che tutti sono proibiti, ma, per altro verso, 
+incoraggia a praticarli. Rivolgendosi ai medici, l'indovino afferma 
+che, in quei casi in cui la medicina ufficiale nulla pu@o, essi 
+dovrebbero consigliare il paziente a rivolgersi a divinatori: ci@o pu@o 
+apparire scorretto o contrario alla fede cristiana, ma risulta 
+efficace. "Qui, pi@u chiaramente che in qualsiasi altro luogo, troviamo 
+che Michele Scoto si comporta nella maniera indicata dalla magrezza dei 
+suoi |fianchi~. Egli ammette che la divinazione e la stregoneria sono 
+considerate un male dai Cristiani, ma nondimeno raccomanda tali 
+pratiche in quanto sono efficaci. In tal modo, dal punto di vista 
+cristiano di Dante, Scoto poteva essere correttamente descritto come 
+^cattivo~ giacch$e approvava pratiche malefiche e presumibilmente 
+praticava ci@o che predicava; ma, poich$e avvertiva coerentemente il 
+suo lettore che la Chiesa condannava tali pratiche, Michele poteva 
+essere descritto anche come persona ^giusta rispetto a ci@o che @e 
+bene~" (R. Kay, "The Spare Ribs of Dante's Michael Scot": ^Dante 
+Studies~, 1985, p. 9).
+
+	|118-120~. |Asdente~ @e il soprannome di Maestro Benvenuto di Parma, 
+calzolaio (i cui strumenti sono appunto |cuoio~ e |spago~) che si 
+dedic@o alle arti divinatorie con successo; successo terreno, 
+naturalmente, che viene scontato ora, quando il pentimento @e inutile 
+(ma quello dei dannati non @e il vero pentimento: cfr. ^Inf~. XI, n. 
+40-45). Benvenuto, di cui Dante parla con disprezzo nel ^Convivio~ 
+(IV.xvi.6), aveva una dentatura grossa ed irregolare, per cui il 
+soprannome @e ironico, giacch$e ^asdente~ vuol dire "senza denti". Su 
+Benvenuto siamo informati dalla ^Cronica~ di Salimbene da Adam, che lo 
+presenta per@o in termini molto positivi.
+
+	|118~. |Guido Bonatti~, famoso astrologo forlivese, fu per molto tempo 
+al servizio di Guido da Montefeltro (consigliere di frodi: cfr. ^Inf~. 
+XXVII); mor@i vecchissimo, verso la fine del sec. XIII, lasciando uno 
+stimatissimo testo di astrologia, diffuso in tutta Europa.
+
+	|121-123~. Si tratta qui delle streghe e fattucchiere: donne che 
+abbandonarono le tipiche attivit@a femminili quali il ^cucito~ (|ago~), 
+la ^tessitura~ (|spola~) e la ^filatura~ (|fuso~), per dedicarsi a vari 
+sortilegi (|malie~ = "operazioni magiche") ponendosi contro l'ordine 
+naturale voluto da Dio. "Puossi fare |malie~ per virt@u di certe |erbe~ 
+medianti alcune parole, o per imagine di cera o d'altro fatte in certi 
+punti e per certo modo, che, tenendo queste imagini al fuoco o ficcando 
+loro spilletti nel capo, cos@i pare che senta colui a cui imagine elle 
+son fatte, come imagine che si strugga al fuoco" (Anonimo Fiorentino). 
+L'attivit@a divinatrice @e in genere correlata, nel canto, al rifiuto 
+di svolgere attivit@a per tradizione codificate sessualmente: come 
+scrive E. Caccia nella lettura 'scaligera' del canto, "Anfiarao venne 
+meno al sacro dovere dell'uomo di combattere per la sua terra, Tiresia 
+venne meno alla sua stessa virilit@a, Arunte all'altro sacro dovere 
+dell'uomo, il lavoro; e l'indovina, la donna, Manto, ha distrutto i 
+doni della sua bellezza e della sua femminilit@a per quella sua tragica 
+illusione". Questo tema della "deviazione sessuale" @e stato 
+recentemente studiato, in connessione al tema della "deviazione 
+testuale", da M. Migiel (^The Diviners' Truncated Vision~, in ^Dante: 
+Summa Medievalis~ [^Forum Italicum~, Supplem.], 1995, pp. 134-46).
+
+	|124-129~. ^Ma oramai~ (|omai~) ^vieni via di qui~ (|Vienne~), 
+^poich$e~ (|ch$e~) ^la luna~ (|Caino e le spine~) ^occupa~ (|tiene~) 
+^gi@a il~ ^confine tra ambedue gli~ (|d'amendue li~) ^emisferi~ 
+(|emisperi~) ^e tramonta~ (|tocca l'onda~ = "si getta in mare") ^a sud 
+di~ (|sotto~) ^Siviglia~ (|Sobilia~)^; e gi@a ieri notte ci fu il 
+plenilunio~ (|la luna tonda~): ^te ne~ (|ten~) ^devi~ (|de'~) 
+^ricordare bene, poich$e~ (|ch$e~) ^ti giov@o~ (|non ti nocque~) ^una 
+certa~ (|alcuna~) ^volta~ ^nel bosco profondo~ (|per la selva fonda~). 
+– La luna (le cui macchie, secondo la leggenda popolare, rappresentano 
+|Caino~ che reca sulle spalle un fascio di |spine~: cfr. ^Par~. II.51), 
+la quale si trova fra l'emisfero boreale, al cui centro c'@e per Dante 
+Gerusalemme, e quello australe, sta tramontando nel mare a sud di 
+Siviglia (sempre rispetto all'orizzonte di Gerusalemme). Quindi, dato 
+che la luna era stata |tonda~ la notte precedente e che essa, nel 
+plenilunio dell'equinozio primaverile, tramonta alle sei del mattino, 
+possiamo concludere che ora sono circa le sei e mezzo (l'Inferno segue 
+l'orario di Gerusalemme). Il richiamo alla luna non esula dal tema 
+basilare del canto, rientrando essa nelle arti magiche, specie in 
+quelle delle fattucchiere; tuttavia il canto non si chiude sotto il 
+segno della mal@ia, poich$e oramai l'insidia della magia @e superata e 
+quindi @e possibile discutere del disco lunare anche sorridendo della 
+fantasia superstiziosa popolare. Ora la luna tramonta in un universo 
+rassicurante: essa @e lo stesso astro, non solo innocuo ma benefico, 
+che splendeva nella |selva fonda~ (cfr. ^Inf~. I, n. 8-9).
+
+	|130~. Il vocabolo |introcque~ ("nel frattempo": lat. ^inter hoc~) @e 
+biasimato nel ^DVE~ (I.xiii.1-2) come brutta forma plebea fiorentina; 
+il suo utilizzo attesta la compresenza, nella ^comed@ia~ dantesca, di 
+forme solenni e di altre "comiche" e la pone in opposizione alla 
+^traged@ia~ virgiliana. L'opposizione non concerne solo lo stile 
+("misto", nel primo caso, "alto", nel secondo), ma anche il contenuto: 
+infatti l'^Eneide~ (l'|alta traged@ia~: v. 113) termina tragicamente; 
+se – nota Hollander – |traged@ia~ ^~si riferisse solo allo stile, 
+^~|alta~ sarebbe ridondante. Gi@a il Lana si pone in questa 
+prospettiva, anche se per lui il contenuto del poema virgiliano @e 
+'tragico' non per la conclusione (Enea uccide Turno: cfr. ^Mon~. 
+II.x.3), ma per la trattazione delle vicende di Troia: "Or trattando di 
+Troia Virgilio, che fu grande vittoriosa ed eccelsa, e poi fu condotta 
+a destruzione, fu necessario che tal trattato fosse tragedia, e perch$e 
+nelli affari di Troia fu necessario nomar Euripilo, s@i come auguro de' 
+Greci, per@o dice che cos@i lo chiama l'alta sua tragedia; e nota che 
+dice ^alta~, cio@e che @e d'alto stile e dittato". Il Dante maturo, con 
+l'adozione del cosiddetto "pluristilismo", prende le distanze dal Dante 
+pi@u giovane, che assegnava massimo valore poetico allo stile alto 
+(cfr. R. Hollander, ^Studies in Dante~, Ravenna, Longo, 1980, pp. 
+214-18). Come abbiamo notato (cfr. n. 97-99), la ^comed@ia~ @e connessa 
+alla necessit@a di narrare il vero: allo scopo essa incorpora lo stile 
+'alto' ma non si limita ad esso; solo in tal modo il poeta-profeta 
+cristiano riesce a compiere la missione di comunicare all'umanit@a 
+traviata quanto visto nel corso del suo eccezionale viaggio (cfr. 
+^Introd. alla cantica~, § 5).
+
+

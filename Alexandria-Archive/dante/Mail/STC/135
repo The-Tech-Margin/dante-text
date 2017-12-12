@@ -1,0 +1,202 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id LAA19020
+	for <steve@avalon.dartmouth.edu>; Sun, 25 Oct 1998 11:25:15 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id LAA02339
+	for <Stephen.Campbell@dartmouth.edu>; Sun, 25 Oct 1998 11:25:14 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 38243 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67190-24354>; Sun, 25 Oct 1998 11:25:09 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id LAA04816
+	for <Stephen.Campbell@Dartmouth.EDU>; Sun, 25 Oct 1998 11:25:03 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup5.Princeton.EDU [128.112.70.5])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id LAA04866;
+	Sun, 25 Oct 1998 11:25:00 -0500 (EST)
+Message-ID: <363350F1.C00E861F@princeton.edu>
+Date: 	Sun, 25 Oct 1998 11:25:21 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU, Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: Re: Commentaries
+X-Priority: 3 (Normal)
+References: <199810251525.KAA18895@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> I'm back to Dante after a few weeks elsewhere. I'm reviewing the action items
+> from the work we did last month, and I want to make sure I am doing the right
+> things.
+> 
+> You wrote:
+> 
+> > CAMPI:
+> >
+> > Inferno: 21.s is now FINE.  All those spacing problems
+> > disappeared once you set it right.  That saves me about
+> > four hours of editing.  Thanks.  It is ready for load.
+> 
+> Roger. I have renamed 21.s to 21.e and noted that Inf is ready to load.
+
+Right.
+
+> 
+> > Purg.: I checked the files for several of the canti
+> > that we have managed to lose, after having edited them.
+> > If these do not eventually show up, the good news is
+> > that these files seem to be in quite good shape.
+> > I.e., they have been edited ENOUGH so we can put them
+> > up as they are.  (Campi was done by the Irish typing
+> > team, and they were very good.  Most problems were
+> > spacing and format; there were very few typos.)
+> 
+> What I hear you saying is that we can use the files in
+> Commentaries/campi/purg/{6, 7, 9-12, 15, 17}.s as "edited" version in the new
+> database, ie in C.ng/campi/purg/{6, 7, 9-12, 15, 17}e. I will copy them into
+> place and rename them from .s ot .e accordingly. It looks to me like this
+> makes Purg ready to load, too, no?
+
+Right.
+
+> 
+> > Para: What you found (Par. 34, really Par. 33) in the
+> > old Campi files (NB the new ones, i.e., the ones my
+> > student edited, are in bobh/campi -- a reminder) solves
+> > at last an old problem: how did we ever lose Inf. 21.
+> > It is sitting there in that directory as 21.s or
+> > whatever.  We wasted a lot of time over this,
+> > rescanning Inf. 21.  Damn.  And so 21.s (again, I don;t
+> > remember the exact name, but that may be it) in the
+> > para directory for Campi under "Commentaries" should be
+> > moved as a back-up file to Inf. -- but it should NOT
+> > replace the new 21 that you worked on ystdy: that one
+> > is more "advanced" in its editing.  I checked this,
+> > finding a few errors in the 21 Inf. found in para that
+> > have been edited out in the new file in Inf.
+> 
+> Sorry, I can't follow all this. Maybe you can explain it verbally when we
+> talk. Bit I am not going to change anything today, since I am really only
+> concerned with C.ng - the new load - and I hear you saying that the 21.e there
+> is OK.
+
+To clarify: the file in Par. that was numbered "21" is REALLY Inf. 21. 
+It ought to be preserved as a back-up to the current Inf. 21, in case I
+find problems in the current Inf. 21 some day.  But I believe the
+current Inf. 21 is a better file than the old one, and we should load
+that one, i.e., load all the Inf. files now in C.ng.
+
+As for Paradiso of Campi, we need to be sure that the file numbers after
+Par. 20 match the numbers in the text files.  I suspect that 22.e is
+really 21.e, all the way to 34.e (= 33.e).  Clear?
+
+> 
+> >
+> > ROSSETTI:
+> >
+> > The notes collected in directories "endnotes" and
+> > "terzina" have NOT been edited (and are in fairly sorry
+> > shape).  These are additional notes that Rossetti added
+> > to his MS. but didn't live to finish.  Some are quite
+> > interesting.  For now, they stay where they are.  That
+> > goes for ALL of Purg., too (I remind you, for Rossetti
+> > there is NO Paradiso).  Now it seems to me MF
+> > integrated some or maybe quite a few of these notes
+> > into her edition of Inf. I.  And so we can put that up
+> > with a sense that it will be fairly useful.  We need to
+> > indicate somewhere that Rossetti's comm. is onl;y for
+> > Inf. & Par., and we have only Inf. for now.
+
+Whoops: Par., in the line just above, of course should be "Purg." --
+slip of the finger/mind.
+
+> 
+> Roger all that.
+> 
+> > RUSKIN:
+> >
+> > It looks ready to go.  I forgot how to make compressed
+> > files readable temporarily (you've told me at leasty
+> > twice, but I could not find the paper I wrote you down
+> > on -- damn, I bet it's an e-message in my old system
+> > here on this DEC, which I hardly use any more.  I'll
+> > check and get back after I FINISH THIS MESSAGE).  For
+> > now I am assuming that those "proemio"s are not to be
+> > loaded.
+> 
+> The files are now all readable.  Looking back at the evidence from the
+> previous load, I think we DID load the proemi. (See C/ruskin/staging/loader.)
+> I will plan to do the same this time.
+
+Right.
+> 
+> > SINGLETON:
+> >
+> > Inf.: It is at least possible (and maybe even likely)
+> > that Sharon Girard's Inferno was done in time for a
+> > reload.  It was quite  some time ago that she worked
+> > for us.  I'll try to see if her name shows on our dec.
+> > (that's "description" screen) in the DDP.  I hope so.
+> > She did a terrific job, and I then checked a lot of it
+> > over.  It should be very clean (it was a mess; Janet
+> > did a not very pretty piece of work on that one).  If
+> > the revised Inferno is not "up" we have a BIG problem,
+> > as I know I sent disks (maybe even 5" ones!) to you of
+> > that work.  And I have nothing.
+> 
+> I think you are correct that we are currently spinning the version Sharon
+> edited. The spinning desc file mentions her. So I will copy the
+> C/singleton/inf/*.e files into C.ng. I'll also make sure we have the version
+> of the desc file that names Sharon. You can take a look in C.ng to verify that
+> we have the right stuff.
+
+No need to check again.  We are considering Singleton ready to go.
+
+> 
+> > Purg.: 18.e-33.e: When did I send them to you?  I see
+> > that, except for pur01.css, which I believe had its
+> > header removed, all were e-mail send by me from
+> > Princeton to Al.Dartmouth.edu before I went to Italy
+> > last year (1/96).  This would imply that I did a final
+> > check of Purg. and these 33 files are the most
+> > recently and completely edited.  I'd let dating
+> > determine what we do here: the latest are what we put
+> > up.
+> 
+> Roger. I copied 01 thru 17 from the C directory and 18-33 from the C.new directory. I think that gets us the version we want.
+
+That sounds completely right.
+
+All for now, Bob
+
+I hope to get to some more editing before I go to Italy (30 Oct.-9
+Nov.).  I'm up to Mestica, doing the ones that I have records of errors
+for (I have entered all the ones Toby and I did complete searches of). 
+I am also making a record of the comms. that I think we should do
+complete checks of -- one day.  This will be ascertainable from the
+remarks I am adding to the first HISTORY file (in the first directory)
+for each commentator.  For instance, Scartazzini Purg. & Par. are a
+mess.  But there's no time to deal with them now (we HAVE done Inf. for
+him), and each canto was taking me well over an hour -- thus 100 hours
+of editing is indicated just for Scart.  I would bet that Janet or
+Jonathan or someone put up the raw Scart. files and junked the edited
+ones. But I don't know.  I will add the Scart. "casual errors" that I
+have noted  for Purg. and Par., just as I am doing for ALL comms.
+
+Even if there is still work ahead, we will have cleaned some 3000 errors
+from the DDP, using what we have at hand.   A lot better than nothing.
+
+One last thing.  All the comms. that were edited and left for the next
+load (some 8-10) have not been re-edited and have not had a chance to
+show up in the DDP yet.  We may find that some of them were not as well
+edited as we'd hoped.  We are just going to live with them as they are
+now.
+
+All the best, Bob, who's going out to rake leaves.
+> 
+>                                                         Steve

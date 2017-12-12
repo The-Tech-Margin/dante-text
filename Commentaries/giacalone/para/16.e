@@ -1,0 +1,945 @@
+	|1-9.  O poca~: il passo @e stato variamente interpretato
+e spesso in modo addirittura antitetico e divergente nettamente. 
+Ci soffermeremo soltanto su due posizioni opposte l'una
+all'altra: la prima, che @e la pi@u condivisa, considera negativo
+il giudizio di D. sul suo moto d'orgoglio, avuto in Paradiso,
+dopo esser venuto a conoscenza che il suo trisavolo Cacciaguida
+era stato fatto cavaliere, cio@e nobile, dall'imperatore Corrado
+III, ma di questo orgoglio egli ora si confessa francamente,
+rilevando che la nobilt@a ereditaria @e cosa irrisoria e di poco
+conto (|poca~), se non addirittura un ornamento esteriore
+(|manto~), che man mano si accorcia, se chi lo indossa non ha
+meriti personali: la seconda, che @e la meno accettata e seguita,
+considera positivo l'orgoglio di D., movendo dalla constatazione
+che comunque D. si gloria della sua ascendenza nobiliare e che il
+suo non @e un peccato di vanit@a, bens@i @e una lieve leggerezza o
+debolezza, appena commentata da un sorriso di Beatrice.  Di
+quest'ultima tesi si @e fatto sostenitore di recente anche il
+Figurelli, il quale ritiene che gi@a D. ha esaltato la sua nobilt@a
+di sangue per bocca di ser Brunetto, in contrasto con la novit@a e
+la rustichezza delle bestie fiesolane, e, quindi, ora dichiarando
+di essersi gloriato della sua discendenza da un illustre
+cavaliere crociato, non pu@o non esser coerente con le idee gi@a
+manifestate.  Tanto pi@u valida questa esaltazione della virt@u
+nobiliare, se si pensa che rafforza la validit@a della missione
+redentrice a cui D. @e chiamato da Dio.  (Figurelli, ^I canti di
+Cacciaguida~, in <Cultura e scuola>, 1965, pp. 409-661).  Di
+recente ha ripreso l'esame della questione dantesca l'Aglian@o in
+un denso e acuto saggio (^Restauro di Paradiso, XVI~, in
+<Bibliofilia>, 1967, pp. 191-223), riproponendo di accettare la
+seconda tesi, attraverso un restauro semantico ben chiaro e
+documentato.
+
+	|se gloriar~: ricostruisci e spiega: o ben limitata
+nobilt@a (|di sangue~) di stirpe, se fai gioire (|gloriar~: qui
+non significa ^vantarsi~, ma secondo l'uso dantesco, ^provare
+gioia~) di te la gente quaggi@u in terra dove il nostro sentimento
+(|affetto~) si lascia corrompere e allettare da falsi beni
+(|langue~), non sar@a cosa che a me possa pi@u suscitare meraviglia
+(|mirabil cosa non mi sar@a mai~); perch$e lass@u nel cielo, dove
+l'appetito non pu@o mai esser torto dalla retta via (|non si
+torce~), io ne provai gioia (|me ne gloriai~).  Tuttavia (|ben~:
+questa interpretazione dello Steiner @e difesa e sviluppata
+dall'Aglian@o {^Restauro di Paradiso, XVI~, in <Bibliofilia>,
+1967}, cfr. ^Par.~ XV, 85; XIV, 124) tu sei un mantello (|manto~)
+che presto ti raccorci (|raccorce~); tanto che, se non si
+aggiunge qualcosa per allungarlo (|s'appon~) di giorno in giorno,
+il tempo lo consuma tutt'intorno con le sue forbici (|va dintorno
+con le force~), e quindi duri poco, se non ci sono meriti
+personali.
+
+	|3.  l'affetto~: l'amore verso il vero bene @e languido qui
+sulla terra.  Continua la contrapposizione tematica e stilistica
+del canto precedente tra cielo e terra; infatti l'espressione @e
+in netta antitesi con il v. 5: <^dove appetito non si torce, Dico
+nel cielo~>.  Anche questo @e un accorgimento tecnico-stilistico
+di cui D. si serve per legare strettamente questi canti tra di
+loro.
+
+	|5.  appetito~: @e termine che si differenzia sicuramente
+da ^affetto~ (v. 3), per un significato pi@u particolare e pi@u
+istintivo.  D. nota una differenza di grado all'interno di un
+medesimo sentimento.  Sulla terra, il nostro ^affetto~, cio@e la
+forza sentimentale e ideale per cui noi c'innamoriamo di oggetti
+degni, @e languido; e noi pertanto proviamo della fierezza
+nobiliare.  Due ipotesi, allora, sono possibili teoricamente: o,
+quando il nostro cuore sar@a assai forte per vedere pi@u alto,
+questo oggetto, la nobilt@a, svanir@a davanti a un altro valore pi@u
+elevato; oppure, al contrario, anche davanti a un sentimento
+purificato, la nobilt@a rester@a valevole e valida.  @E quest'ultima
+possibilit@a che D. rivela come la buona, e la prova, che ne ha, @e
+che l@a dove noi non dobbiamo pi@u temere gli errori del nostro
+desiderio istintivo, del nostro appetito, egli ha provato
+fortemente gioia al pensiero della sua origine.  Cos@i riassume la
+questione dibattuta di questi versi il Goudet, in un interessante
+articolo (^La fiert$e nobilaire de Dante et le sourire de
+Beatrice~, in <Revue des $etudes italiennes>, Paris, 1966, p.
+330); ed ancora spiega, molto intelligentemente, il significato
+di ^poca nostra nobilt@a~ in due modi: o in senso storico, cio@e
+una nobilt@a decimata subito dalle lotte civili e politiche; o in
+senso morale, cio@e di una ^nobilt@a~, che, essendo umana, @e
+minacciata sempre dalle vicissitudini del tempo; pertanto in
+rapporto all'eroismo supremo di Cacciaguida, combattente nella
+crociata per Cristo, la nobilt@a umana @e umile cosa, ma
+sostanzialmente impegnata alla realizzazione di grandi ideali pu@o
+costituire motivo di gioia e di orgoglio.
+
+	|7.  Ben se' tu~: tuttavia tu sei un manto che ci veste e
+ci onora, ma sempre manto che il tempo consuma; sicch$e se non @e
+sostenuto e arricchito da apporti personali continui, si accorcia
+rapidamente.  <La terzina pone una limitazione, del resto
+anticipata dal ^poca~ del v. 1, all'affermazione di
+incensurabilit@a dell'entusiasmo del poeta per la propria origine
+gentilizia, fatta nei primi sei versi e dedotta dall'essersi
+trovato in questo stato d'animo in Paradiso.  Nel momento stesso
+in cui scopre i valori positivi dell'appartenenza ad un casato
+nobilitato da una personalit@a illustre, egli ne presenta anche i
+pericoli con immediata evidenza.  La discendenza da un grande
+uomo @e senza dubbio un privilegio, ma pu@o essere anche fonte di
+ridicolo, con quel mantello che pu@o prestissimo accorciarsi,
+lasciando scoperti le gambe, il bacino, e via via tutta la
+persona.  D@a un vantaggio iniziale, ma impone una grande
+responsabilit@a> (Aglian@o, ^l.c.~ {^Restauro di Paradiso, XVI~, in
+<Bibliofilia>, 1967}, 204).  Insomma D., dopo aver negato ogni
+peso reale alla nobilt@a di sangue, aggiungerebbe che l'unico suo
+aspetto positivo @e l'impegno che ne dovrebbe derivare, secondo
+quanto afferma Boezio: <se qualcosa di buono @e nella nobilt@a,
+credo che sia soltanto nel fatto che sembri necessit@a imposta ai
+nobili quella di non degenerare dalla virt@u degli antenati> (^De
+cons. phil.~ III, 6).  Nel complesso delle qualit@a della persona
+umana la nobilt@a di sangue ha una importanza ben limitata (^poca~
+{v. 1}), tuttavia (|ben~) il poeta se ne entusiasm@o; infatti @e un
+privilegio che ha valore, soltanto se si sa mantenerlo,
+altrimenti svergogna chi ne fa pompa vana.
+
+	|10-12.  Dal `voi' che~: dal |voi~ (pronome onorifico che
+D. riserva a personaggi illustri, a Farinata, a Cavalcante e a
+Brunetto), che per la prima volta (|prima~: era opinione erronea
+nel medioevo che a Cesare, che ritornava vittorioso, i romani si
+rivolgessero col termine onorifico di |voi~, pi@u per servile
+onore e per paura, che per affettuosa reverenza, come sottolinea
+l'Ottimo) venne offerto o apparve in uso a Roma (|s'offerie~: fu
+offerto; altri legge ^sofferie~: sofferse, toller@o, sogg. |Roma~:
+ma @e preferibile la tesi di Aglian@o, ^l.c.~ {^Restauro di
+Paradiso, XVI~, in <Bibliofilia>, 1967}, 209), in cui, nel quale
+uso la cittadinanza romana (|sua famiglia~) persevera
+(|persevra~) meno di ogni altra, ricominciarono le mie parole:
+cio@e ricominciai a parlare, chiamando Cacciaguida col |voi~, come
+per la prima volta era uso a Roma, e non pi@u col ^tu~, come aveva
+fatto prima.  Cos@i facendo, D. lo tratta come un grande
+personaggio terreno, provocando immediatamente il sorriso di
+Beatrice, che riprende ^i blandimenti~ terreni di D., i quali nel
+Paradiso e nell'aldil@a non debbon pi@u aver luogo, esse, dove
+tutte le anime sono consorelle in Dio, come aveva gi@a detto a D.
+papa Adriano V.
+
+	|13-15.  onde~: per cui per la qual cosa Beatrice, che
+era poco discosta (|scevra~) da me, ridendo, mi apparve simile
+alla dama di Malohaut (nel romanzo di Lancilotto) che, assistendo
+al colloquio fra l'eroe e Ginevra, simul@o un colpo di tosse
+(|tossio~) nel momento in cui i due amanti si dichiaravano il
+loro reciproco amore, per avvertire con indulgenza che omai essa
+era a conoscenza del segreto amoroso (|primo fallo~).  Anche
+questo passo ha suscitato varie e lunghe discussioni dal Rajna
+(^D. e i romanzi della Tavola rotonda~, in <Nuova Antologia>,
+1920, pp. 223-247) allo Zingarelli (^Le reminiscenze del
+Lancelot~, in <Studi dant.> I, pp. 65-90), a causa delle diverse
+redazioni e interpretazioni di questo romanzo, cos@i noto a D.,
+come dimostra anche il canto di Francesca.  Dopo una larga
+rassegna di queste opinioni, l'Aglian@o cos@i conclude: nelle
+condizioni attuali degli studi l'unica soluzione possibile del
+passo @e la seguente: <Beatrice dest@o in me un'impressione simile
+a quella destata in Lancilotto dalla dama di Malohaut; cio@e, mi
+fece sussultare, essendo come quell'antico cavaliere colto di
+sorpresa in una situazione imbarazzante da un'altra persona, un
+po' distante, ma sempre in grado di ascoltare le parole dette. 
+Cos@i le somiglianze e le dissomiglianze tra Beatrice e la
+Malohaut, che hanno dato tanto da fare agli studiosi, il senso da
+attribuire al loro ridere da una parte e tossire dall'altra,
+passerebbero in seconda linea, e rispetto al fine vero e proprio
+del paragone risulterebbero di scarso rilievo> (^l.c.~ {^Restauro
+di Paradiso, XVI~, in <Bibliofilia>, 1967}, 221).  Ma anche tale
+spiegazione ha carattere provvisorio, finch$e non sar@a risolto
+dagli specialisti di letteratura francese antica il significato
+del colpo di tosse della Malohaut, in rapporto al riso di
+Beatrice in quel cielo.
+
+	|ridendo~: sul riso di Beatrice c'@e tutta una letteratura
+critica, non solo dal punto di vista semantico, ma anche dal
+punto di vista letterario e psicologico.  La spiegazione migliore
+mi sembra quella del Goudet.  <Questo riso di Beatrice che invita
+a percepire, sotto le apparenze della fierezza aristocratica,
+l'altissimo impegno morale che la trascende e la giustifica,
+questo riso fa parte delle intuizioni complesse e feconde di cui
+@e ricca la ^Commedia~> (^l.c.~ {^La fiert$e nobilaire de Dante et
+le sourire de Beatrice~, in <Revue des $etudes italiennes>, Paris,
+1966}, 349).  Insomma, sulla terra, il nostro sentimento @e
+languido e comporta delle deficienze, ed @e con un cuore siffatto
+che ci si pu@o gloriare della propria nobilt@a, il che
+eventualmente pu@o volgersi al male; nel Paradiso, invece, nella
+rettitudine perfetta dell'essere, questa fierezza non pu@o non
+essere tutta irreprensibile: @e questo che vede Beatrice, il cui
+sguardo va al fondo delle cose.  Essa approva col suo sorriso di
+bont@a, ma, come dottrina rivelata @e sottile e complessa, ci fa
+meditare e comprendere che quella di D. @e santa fierezza
+nobiliare, e, niente affatto semplice vanit@a aristocratica.
+
+	|al primo fallo~: non si pu@o dire con precisione che si
+tratti del bacio di Ginevra, come ritenevano gli antichi
+commentatori, i quali di quel romanzo francese avevano notizie
+assai vaghe.  Pu@o darsi anche che questo |primo fallo~ alluda ad
+altri fatti diversi dal bacio e dal primo incontro tra Ginevra e
+Lancilotto.  Comunque il senso letterale @e: al primo fallo che
+vediamo scritto nel romanzo di Ginevra; che potrebbe anche essere
+una allusione a qualche lettera o intemperanza del personaggio di
+Ginevra, indipendentemente dal romanzo di ^Lancilot.~
+
+	|16.  Voi siete~: questo |voi~ <si presenta in una
+successione solennemente e insieme concitatamente anaforica (|Voi
+siete~; ^Voi mi date~; ^Voi mi levate~), che pone Cacciaguida in
+un piedistallo innalzato dal rispetto e dalla riconoscenza del
+pronipote.  @E un |Voi~ che andr@a stampato con l'iniziale
+maiuscola.  Sicch$e, se c'@e dell'esaltazione nel brano, come
+vogliono i sostenitori della ^vanagloria~, essa @e tutta per
+Cacciaguida, e non per D., piccolo e felicissimo discendente
+dinanzi al grande antenato.  Il che pone i due personaggi, e la
+stessa scena, in una luce ben differente> (Aglian@o, ^l.c.~
+{^Restauro di Paradiso, XVI~, in <Bibliofilia>, 1967}, 210). 
+Infatti, lungi dal considerare biasimevole l'uso del |voi~, il
+poeta precisa, attraverso la rozzezza dei Romani contemporanei
+che non lo mantengono pi@u, che @e doveroso e riguardoso in certe
+circostanze.  L'uso di D. per il |Voi~ con un nobile parente era
+nato da un riguardo di riverenza; la stonatura era nel fatto che
+D. lo considerava ancora secondo un uso cavalleresco terreno; e
+non come anima beata.  Di ci@o sorride B.
+
+	|17.  voi mi date~: voi mi date ogni sorta (|tutta~) di
+allegrezza, di gioia (|baldezza~: altri o quasi tutti gli altri
+commentatori preferiscono intendere: franchezza, ardimento,
+confidente ardire, coraggio; ma tutto il contesto fa preferire
+qui il senso di ^allegrezza~, come @e testimoniato anche dall'uso
+dei poeti medievali: cfr. Vallone, ^Baldanza, baldezza dai
+Siciliani a D.~ in ^Atti del Convegno su D. e la Magna Curia~,
+Palermo, 1967, pp. 315-332; ed anche Lo Cascio, ^Le nozioni di
+cortesia e di nobilt@a dai Siciliani a D.~, ibidem, pp. 113-184:
+ma meglio ancora l'Aglian@o, ^l.c.~ {^Restauro di Paradiso, XVI~,
+in <Bibliofilia>, 1967}, 199).
+
+	|18.  voi mi levate~: voi mi innalzate al di sopra delle
+mie umane condizioni, tanto che io non sono pi@u me stesso; la mia
+gioia @e incontenibile e non @e mai stata provata da me in tale
+misura.  E questo spiegherebbe meglio il senso del ^gloriarsi~ di
+D. nel senso indicato dall'Aglian@o {^Restauro di Paradiso, XVI~,
+in <Bibliofilia>, 1967}.
+
+	|19-21.  Per tanti~: per tanti motivi e stimoli (|rivi~:
+ruscelli) si riempie d'allegrezza la mia anima, che essa si
+rallegra (|fa letizia~) di s$e medesima del fatto (|perch$e~) che
+pu@o esser capace di resistere (|sostener~) a tanta gioia, senza
+spezzarsi (|che non si spezzi~) senza essere sopraffatta.
+
+	|22-24.  Ditemi~: ditemi, dunque, mio progenitore,
+capostipite (|primizia~), chi furono i vostri antenati
+(|antichi~) e in quali anni si svolse la vostra fanciullezza
+(|puerizia~).  La formula di datazione nelle scritture era allora
+fondata sugli ^anni Domini~; quindi il senso letterale sarebbe:
+quali ^anni Domini~ (anni del Signore) si segnavano allora nella
+vostra puerizia, quando eravate bambino.
+
+	|25-27.  ditemi~: la ripetizione del verbo rileva
+l'ansiosa curiosit@a umana di D., specie per quel ricordo di San
+Giovanni, legato al battistero ove sperava di ritornare cinto del
+lauro poetico.  Spiega: ditemi del gregge (|ovile~) di cui @e
+patrono San Giovanni, cio@e di Firenze, quanto fosse numeroso
+allora, e quali fossero le famiglie nobili, gentilizie (|genti~)
+che erano degne in Firenze delle pi@u alte cariche pubbliche (|pi@u
+alti scanni~).  <Firenze era al tempo di Cacciaguida l'ovile di
+San Giovanni.  In cos@i breve e in apparenza umile frase, quante
+cose, quanta tenerezza, quante dolorose allusioni!  Essa sfugge
+dall'anima affannata di D. come un sospiro: l'antico ovile era
+divenuto un covo di lupi rapaci, pronti a sbranarsi fra loro. 
+Cos@i una breve frase, gettata l@a quasi negligentemente nel suo
+aspetto dimesso, acquista una lunga vibrazione nell'anima nostra>
+(Parodi, ^Il c. XVI del Par.~ in <Lett. dant.> del Getto, ed.
+cit. {Firenze, 1964}, p. 1672).  <Contro il solito, questi versi
+hanno il tono artificioso della proposizione di un argomento, del
+mezzo per introdurre una digressione, non quello di una
+conversazione originata da vivo e spontaneo interesse>
+(Momigliano, ^comm.~ 685).  Dal che si deduce che anche la
+critica pi@u autorevole, quando indulge soltanto al sentimento o
+al gusto estetico, non adempie il suo ufficio.
+
+	|28-30.  Come s'avviva~: come il carbone acceso si
+vivifica nel fulgore e nel calore della fiamma al soffiare dei
+venti, cos@i io vidi l'anima luminosa di Cacciaguida risplendere
+del suo ardore di carit@a per la letizia interiore provata alle
+mie parole affettuose e gioiose (|blandimenti~: nel ^blandire~ di
+D. c'@e non solo affetto e lusinga, ma anche la gioia provata per
+un s@i illustre antenato).  Cfr. Ovidio, ^Metam.~ VII, 79-81: <ut
+solet a ventis alimenta assumere, quaeque Parva sub inducta
+latuit scintilla favilla, Crescere et in veteres agitata
+resurgere vires>.  Ma D. @e meno descrittivo, e pi@u efficace nella
+sua sintesi poetica.
+
+	|31-33.  e come~: e come, non appena, divenne pi@u bella e
+splendida ai miei occhi, cos@i mi disse con voce dolce e soave, ma
+non nel volgare fiorentino odierno, bens@i in quello arcaico dei
+suoi tempi.  Qui si pone un difficile problema, intuito e risolto
+dal P$ezard: cio@e la terza lingua di Cacciaguida.  Infatti egli ha
+parlato prima in latino, poi nel fiorentino dei tempi di D. ed
+infine nel fiorentino dei suoi tempi.  Questa terza lingua
+rimane, per@o, fedele all'ideale della dolcezza, anzi @e detta pi@u
+dolce e soave del fiorentino con cui ha rievocato l'idillo della
+antica Firenze e la delicatezza ^dell'idioma che prima i padri e
+le madri trastulla~ {^Par.~ XV, 123}.  Ma ad un certo momento
+Cacciaguida rigetta una parte di ci@o che aveva accettato fin l@a e
+non vuole pi@u parlare come tutti parlano oggi al tempo di D. 
+Egli non vuole conservare del linguaggio della sua citt@a che
+certe cose che non sono troppo rifinite secondo il gusto moderno. 
+Ma noi non diremo che egli si compiaccia di questo linguaggio
+inconsueto e disusato; si tratta piuttosto, di una riabilitazione
+e di una esaltazione del genio specifico del linguaggio
+fiorentino puro e non contaminato da termini stranieri e rozzi. 
+In somma Cacciaguida vuole non solo contrapporre gli antichi
+costumi della Firenze antica, a quelli della nuova civilt@a
+comunale e mercantile, bens@i anche il linguaggio antico, forse il
+pi@u vicino all'ideale linguistico del volgare illustre di D.
+(cfr. ^Les trois langues de Cacciaguida~, cit. {<Revue des $etudes
+italiennes>, Paris, 1967}, 230-35).  Certamente nei tre linguaggi
+di Cacciaguida risalta una linea coerente e figurale della
+nobilt@a del personaggio d'altri tempi, il cui latino stesso @e
+segno della saggezza e dell'armonia nobile dell'uomo antico. 
+Alcuni ritengono che Cacciaguida parli in latino.  Del resto,
+essendo in questo canto il motivo centrale la meditazione sul
+mistero delle grandi citt@a, anche la lingua arcaica, almeno nelle
+intenzioni del narratore, ha una sua ragione figurale e storica. 
+Cfr. Viscardi, ^La favella di Cacciaguida e la nozione dantesca
+del latino~, in <Cultura neolatina>, 1942, p. 312.
+
+	|34-39.  Da quel di~: dal giorno dell'Annunciazione, in
+cui fu detto |Ave~ dall'arcangelo Gabriele a Maria (infatti i
+Fiorentini contavano gli anni dall'incarnazione, cio@e dal 25
+marzo) fino al giorno della mia nascita (parto, in cui mia madre,
+che ora @e beata, si allegger@i di me, di cui era gravida, |grave~)
+il pianeta di Marte (|questo foco~) ritorn@o 580 volte al segno
+del Leone (|suo~: perch$e il Leone @e di complessione calda e secca
+come Marte: Pietro di Dante), a rinfiammarsi sotto la zampa del
+Leone, che @e il segno zodiacale a cui qui si allude.  Cio@e
+Cacciaguida dice di esser nato nel 1091, poich$e, secondo
+Alfragano, accettato qui da D., il pianeta Marte compie la sua
+rivoluzione in 687 giorni, e le 580 rivoluzioni corrispondono ad
+anni 1091.  Secondo Pietro di Dante, che leggeva 553, la nascita
+di Cacciaguida cadeva nell'anno 1106.  <Il racconto s'inizia con
+la modulazione d'una voce che par voglia discendere, quasi
+anch'essa angelico messaggio, dalle regioni della luce, e i versi
+assumono un tono di leggenda di mirabile effetto nell'evitare il
+dato cronologico, richiesto ancora dal residuo di orgoglio
+nobiliare, per fissare attraverso un secondo punto ben fermo nel
+tempo, come quello della morte, anche la nascita di Cacciaguida,
+un momento sicuro nella storia dinastica del poeta, la cui
+fantasia ripercorre a ritroso il cammino dei secoli,
+proiettandoli al di fuori d'una realt@a concretamente vissuta>
+(Allevi, ^Il c. XVI del Par.~ in <Lettura scal.>, Firenze, 1964,
+p. 544).
+
+	|40-42.  Li antichi~: i miei antenati ed io nascemmo in
+quel punto di Firenze (|nel loco~) in cui. (|dove~) chi corre il
+palio (|il vostro annual gioco~: ogni anno nella festa di San
+Giovanni) trova primamente l'ultimo sesto, quello di Porta san
+Piero, venendo da ponente.  La citt@a, allora, era divisa in
+sesti, e il quartiere di Porta san Piero era l'ultimo che la
+corsa del palio traversava, e all'inizio di esso si trovavano le
+case degli Elisei.  Anche questo @e un elemento a sostegno di
+coloro che credono che Cacciaguida fosse della famiglia degli
+Elisei.
+
+	Anche questo @e un fugace cenno all'origine aristocratica
+della sua famiglia, secondo un'indicazione toponomastica.
+
+	|43.  Basti~: @e sufficiente che tu sappia dei miei
+antenati questo, che, cio@e, abitavano al centro dell'antica citt@a
+e, pertanto, appartenevano alla primitiva popolazione dei Romani
+fondatori di Firenze (cfr. ^Inf.~ XV, 74-77).
+
+	|44-45.  onesto~: @e pi@u opportuno (|onesto~: altri
+intende: onorevole, dignitoso) tacere, anzich$e raccontare
+(|ragionare~) chi fossero i miei antenati e la loro provenienza
+romana.  <Dei miei maggiori non istar@o a dire da quale altra
+stirpe discendessero o da che paese provenissero, e mi basta aver
+accennato che avevan casa dentro la cerchia antica di Firenze,
+cio@e appartenevano alla vecchia cittadinanza, non alla gente
+nova> (D'Ovidio, ^Studi {sulla D. C.~, Milano-Palermo, 1901}, p.
+513; ed anche Barbi, ^Probl.~ I, 288).  Cos@i viene chiarito anche
+il rapporto nobilt@a di sangue e toponomastica di Firenze, e
+l'insistente richiamo ^alla cerchia antica~ di Firenze in cui
+nacque e visse Cacciaguida, nonch$e alla romanit@a della stirpe di
+D. qui e altrove indicata.
+
+	|46-48.  Tutti~: tutti coloro che in quel tempo (|ch'a
+quel tempo~: resta sempre vago e indeterminato questo motivo
+storico-leggendario di Firenze) in Firenze erano in grado di
+portare armi fra il Battistero (|Batista~) e il Ponte Vecchio
+(dove si credeva ci fosse stata una statua di Marte, cfr. ^Inf.~
+XIII, 146-47), erano numericamente un quinto di quelli che ora
+(ai tempi di D.) sono atti a portare le armi.  Secondo il Villani
+(^Cron.~ VIII, 39) nel 1300 Firenze avrebbe avuto pi@u di 30000
+abitanti; quindi, al tempo di Cacciaguida ne avrebbe contato
+soltanto 6.000.
+
+	Interessante questo accostamento della tradizione
+classica o profana, simboleggiata in Marte, e della tradizione
+cristiana o sacra, simboleggiata nel Battistero di San Giovanni,
+in cui sia Cacciaguida che D. hanno ricevuto il battesimo.
+
+	|49-51.  Ma la cittadinanza~: ma la popolazione cittadina
+che ora @e mescolata (in seguito all'immigrazione dalla campagna
+per il fenomeno dell'urbanesimo durante l'et@a comunale) di gente
+scesa dal contado, dalla Valle di Bisenzio (|Campi~), dalla
+Valdelsa (|Certaldo~) e dal Valdarno (|Fegghine~), si riconosceva
+(|vediesi~) pura, di incontaminata stirpe fiorentina, fino al pi@u
+modesto (|ultimo~) artigiano (|artista~).  Il |ma~ iniziale qui
+vale meglio a precisare l'antitesi: eravamo pochi, ma in compenso
+del minor numero, eravamo ancora puri e incontaminati con la
+gente del contado.  In tutto il canto ritorna costantemente
+polemico il termine ^antico~ in contrapposizione ideale col
+termine ^nuovo~, ^gente nova~, di cui abbiamo avuto gi@a
+esperienza drammatica nel XVI dell'^Inf.~ e anche nel XVI del
+^Purg.~ in cui Marco Lombardo lamenta la decadenza di quella
+virt@u antica a cui ^ha or ciascun disteso l'arco.~  Non @e
+l'analogia e la simmetria dei canti XVI delle tre rispettive
+cantiche, che vogliamo mettere in luce, ma la conclusione a
+questo punto di un s@i grande problema che @e la corruzione e la
+decadenza delle citt@a, di cui Firenze @e un esempio altamente
+significativo, come termine di paragone di un mondo in rovina.
+
+	|52-57.  Oh quanto~: quanto sarebbe (|fora~) meglio che
+quelle genti del contado (di cui io parlo) fossero rimaste ancora
+confinanti (|esser vicine~) rispetto a Firenze (cio@e non si
+fossero mai introdotte a Firenze) e che voi aveste i vostri
+confini ancor al Galluzzo (borgata a poche miglia da Firenze
+sulla via senese) e a Trespiano (borgata vicina a Firenze, ma
+sulla via bolognese), anzich$e avere quelle genti dentro le mura
+della citt@a (|dentro~: sott. |confine~) e dover sopportare il
+puzzo, il sozzume morale, i consigli autoritari, del villano
+Baldo di Guglielmo da Aguglione e di quel Fazio Morubaldini da
+Signa, che gi@a ha la vista acuta (|occhio aguzzo~), intento a
+spiare l'occasione di far baratteria!  Bellissima quest'ultima
+espressione tra psicologica e mimica, che caratterizza il tipo
+classico del barattiere, acuto e pronto come Ciampolo di Navarra. 
+Spesso a D. basta una parola, una frase per creare un perfetto
+ritratto psicologico.
+
+	|56.  d'Aguglion~: Baldo di Guglielmo da Aguglione,
+castello in val di Pesa, fu un famoso giurista e uomo politico. 
+Riordin@o gli Ordinamenti di giustizia e nel 1311 promotore della
+famosa riforma, che, pur concedendo l'amnistia agli esuli,
+ribadiva il bando da Firenze ai maggiori Ghibellini ed ai pi@u
+autorevoli Bianchi, tra questi esclusi era anche D.  Di una sua
+frode ai danni del comune di Firenze parla D. nel ^Purg.~ XII,
+105: cfr. Del Lungo, ^Dante~, I, p. 67.  |Quel da Signa~, cio@e
+messer Fazio del Morubaldini da Signa, fu anche lui giureconsulto
+e uomo politico.  Pass@o dal partito dei Bianchi a quello dei
+Neri; e nel 1310 fu mandato come ambasciatore presso il papa
+Clemente V, per ottenere aiuti contro Arrigo VII.
+
+	|58-60.  Se la gente~: se la gente di Chiesa (cfr.
+^Purg.~ VI, 92), che oggi nel mondo (|mondo~ @e parola che nel
+^Par.~ sottintende un valore di peccato e di transitoriet@a) @e
+quella che pi@u devia (|traligna~) dalla retta via tracciata dalla
+Provvidenza, non fosse stata ostile (|noverca~: matrigna) agli
+Imperatori (|a Cesare~), ma piena di amore come una vera madre
+verso il proprio figlio; cio@e se non ci fossero state le lotte
+tra la Chiesa e l'Impero, per cui questo perdette ogni autorit@a
+in Italia e altrove.  Cfr. ^Purg.~ XVI, 116-17 <solea valore e
+cortesia trovarsi, Prima che Federigo avesse briga>.  Secondo D.
+la scomparsa dell'autorit@a imperiale aveva condizionato anche la
+scomparsa della virt@u cavalleresca e della liberalit@a medievale
+dalla civilt@a medievale.
+
+	|61-63.  tal fatto @e fiorentino~: @e diventato cittadino
+di Firenze ed esercita il cambio (|cambia~: effettua operazioni
+di cambio e titoli di credito bancario) e la mercatura (|merca~),
+un tale, che invece avrebbe dovuto adattarsi ad esser cittadino
+(|si sarebbe volto~) di Semifonte in Valdelsa; l@a dove il suo
+antenato (|avolo~) andava alla guardia (|a la cerca~: secondo il
+volgar fiorentino del Trecento e del Cinquecento il senso della
+frase ^andare alla cerca~ era: esercitare l'umile mestiere del
+soldato e del guardiano: oppure, secondo il Buti, andare coi
+panieri e coi somieri vendendo la merce, come i rivenditori al
+minuto).  Ma, comunque interpretata, la frase indica un umile
+mestiere; ed @e probabile che qui si alluda a un Lippo Velluti,
+venuto a Firenze da famiglia di Semifonti, dopo la distruzione di
+quella terra (1202), ad esercitare la mercatura e il cambio. 
+Altro esempio di gente nova, odiosa a D.  Cfr. Del Lungo, ^Dal
+secolo e dal poema di D.~ {Bologna, 1898}, p. 479.
+
+	Questa terzina @e carica di termini allusivi (|Semifonti~,
+che attesta l'allargamento dei domini di Firenze, dopo la
+distruzione del castello di Valdelsa; |andava a la cerca~, che
+denunzia il mestiere di birro e di soldato di ronda; |avolo~ che
+denunzia disprezzo), e cos@i <il disprezzo, il sarcasmo,
+l'amarezza che si annidano nell'ultimo verso favoriscono
+l'impressione che si tratti di occupazioni diametralmente opposte
+alle pi@u recenti: i rivolgimenti politico-sociali di tutti i
+tempi convertono spesso gli straccioni in uomini d'affari, onde @e
+forse preferibile scorgere l'immagine del mendicante o del frate
+questuante nell'espressione |alla cerca~> (Allevi, ^l.c.~ {^Il c.
+XVI del Par.~ in <Lettura scal.>, Firenze, 1964}, p. 551).
+
+	|64.  sariesi~: Montemurlo, castello tra Pistoia e Prato,
+sarebbe (|sar@iesi~) ancora dei Conti Guidi, cio@e sarebbe ancora
+un feudo imperiale sotto il dominio dei Conti Guidi (detto
+|Conti~ per antonomasia, per la loro potenza), ma questi furono
+costretti a cederlo a Firenze nel 1219, non essendo pi@u in grado
+di difenderlo, dopo la sconfitta di Federico II.  Infatti cos@i
+commenta il Del Lungo: <Non solamente i venturieri del contado,
+come quel Velluti, non sarebbero divenuti cittadini di Firenze;
+ma l'autorit@a dell'Impero, se riconosciuta e rispettata dalle
+democrazie guelfe, avrebbe impedito che, pur dal contado, si
+mescolerebbero comecchessia altre famiglie, sia feudali, sia
+altramente ragguardevoli, turbate nei loro possessi dalle
+guerricciuole che il Comune spesso faceva ad esse> (^comm.~ 797).
+
+	|65-66.  sarieno~: i Cerchi (capi di parte guelfa-bianca)
+abiterebbero ancora nel gruppo di parrocchie (|piovier~: piviere,
+gruppo di parrocchie sottoposte al capo di una di esse che
+prendeva il nome di ^piovano~) di Acone in val di Sieve: e cos@i
+forse i Buondelmonti (|forse~ vorrebbe indicare un giudizio del
+poeta, che crede al destino secondo cui i Buondelmonti portarono
+a Firenze il seme di quella discordia civile che avrebbe rovinata
+Firenze) sarebbero rimasti nel castello di Mentebuoni in Val di
+Greve.  La ripetizione del verbo |sarieno~ indica una condizione
+del tutto impossibile ed irrepetibile, sottolineando il rammarico
+di D.  <Per l'Alighieri l'Impero @e garanzia d'una struttura
+sociale e gerarchica di natura aristocratica e tale comunque da
+assicurare la continuit@a di un ordine e di un costume, che allora
+subivano un decisivo mutamento sullo sfondo del drammatico
+tramonto dell'autorit@a cesarea.  E l'animo di chi questa autorit@a
+aveva ritenuto sacra e intangibile rimane stordito ed offeso
+dall'urto delle giovani forze e di coloro che salgono alla
+ribalta con la ferma volont@a di sostituirsi ai predecessori
+adagiati sulle forme acquisite d'un quotidiano placido: fu il
+momento in cui la citt@a di pi@u ampie proporzioni assorbe i vari
+^castra~ e conduce a termine lo smantellamento delle rocche
+punteggianti gli spazi agresti, costringendo i padroni ribelli
+alla nuova disposizione delle cose ad entrare nella cerchia delle
+mura cittadine> (Allevi, ^l.c.~ {^Il c. XVI del Par.~ in <Lettura
+scal.>, Firenze, 1964}, 550).
+
+	|67-69.  Sempre~: la mescolanza di stirpi diverse fu
+sempre cagione (|principio~) delle discordie e della rovina
+(|mal~) delle citt@a, come il cibo che si sovrappone (|s'appone~)
+a quello non ancora digerito, mescolandosi insieme nello stomaco,
+@e il male di voi uomini in generale (|del vostro~: sott. |mal~). 
+Altri legge ^del corpo~: cio@e del corpo umano.  Cfr. Barbi,
+^Probl.~ I, 289, intende |s'appone~: s'aggiunge, si sovrappone.
+
+	Era principio comune dei giuristi dell'epoca, ma di
+derivazione aristotelica, che la mescolanza di diverse stirpi
+fosse rovina per le citt@a: cfr. ^Politica~, III, 3.
+
+	|70-72.  cieco toro~: il toro cieco cade pi@u presto (|pi@u
+avaccio~: ^vivacius~) di un cieco agnello.  Cio@e una grande
+citt@a, che ha poco senno va in rovina prima e pi@u facilmente di
+una piccola citt@a, pur essa dissennata.
+
+	|molte volte~: una spada sola molte volte ferisce meglio
+che non cinque.  Cio@e un popolo unanime e compatto anche se
+piccolo, spesso @e pi@u forte di un popolo, pi@u potente per numero,
+ma dissennato e non compatto.  Le due frasi proverbiali,
+completandosi a vicenda sul concetto che la saggezza @e pi@u valida
+della forza, si addicono alla solennit@a e all'austerit@a del
+vecchio cittadino della Firenze antica; e la figura di
+Cacciaguida acquista come una aureola sacra di sapiente.
+
+	|73-77.  Luni~: se tu consideri (|riguardi~) come sono
+andate in rovina (|ite~) famose citt@a, quali Luni (presso la foce
+della Magra: cfr. ^Inf.~ XX, 47) e Orbisaglia (antica citt@a della
+Marca Anconitana, presso Tolentino, gi@a in rovina al tempo di D.;
+la prima distrutta dai Saraceni, la seconda dai Visigoti), e come
+si stanno spegnendo (|se ne vanno~) a poco a poco, sulle orme di
+esse (|di retro ad esse~) le citt@a di Chiusi (gi@a potente citt@a
+etrusca, in Val di Chiana, desolata dalla malaria) e di
+Senigallia (^Sena Gallica~: devastata prima dai Barbari e poi
+dalle lotte di parte dei Signori di Romagna); se tu rifletti come
+ogni cosa umana sia soggetta a distruzione, non ti apparir@a
+strano (|nova cosa~) n$e difficile da capire (|forte~) l'udire da
+me come anche le famiglie e le stirpi (|schiatte~) possano
+estinguersi (|si disfanno~), dato che pure le citt@a son soggette
+a morire e scomparire.  Non @e un concetto che va interpretato
+pessimisticamente in senso romantico, bens@i una chiara
+precisazione sul valore transitorio delle cose umane legate al
+tempo e, quindi, inevitabilmente soggette a morte e corruzione,
+secondo quanto @e affermato anche da S. Tommaso, ^S. Th.~ III,
+xcix, 1: <l'uomo non rimane in eterno ed anche la stessa citt@a
+vien meno>.  Tutto ci@o che ha un principio deve avere una fine;
+questa legge di natura investe uomini e citt@a, ogni cosa legata
+al tempo.  In questa concezione generale del perire delle cose
+umane, Cacciaguida vede ^sub specie aeternitatis~, da una
+dimensione ultraterrena e ultratemporale, anche il destino di
+Firenze, e quello stesso di D.  A questo punto mi pare che si
+definisca chiaramente il motivo essenziale del canto, che
+consiste in questa meditazione-contemplazione storica sulla
+labilit@a delle cose umane, cos@i vane e soggette a distruzione per
+opera degli stessi uomini o del tempo.
+
+	|78.  termine~: la parola segna come il tema morale e
+religioso del passo.  <Al centro del ^Paradiso~, della cantica
+cio@e che solleva il poeta fuori del tempo e dello spazio, egli
+colloca la sua visione desolata del mondo e del suo divenire,
+quasi a confermare con una meditata adesione spirituale il
+distacco dalla caducit@a delle cose terrene: al centro del
+Paradiso quindi e del canto la pausa mesta sulle quattro citt@a un
+tempo illustri e operose, ed ora pressoch$e confuse con le tenebre
+del passato.  L'acme della contemplazione @e l@a, in quel
+disfacimento di schiatte, di vite umane, di |cittadi~ che pare
+affiorino da un mare divenuto calmo dopo un vento furioso, a
+somiglianza di quei lidi che la luna ^cuopre~ e ^discuopre~ senza
+posa> (Allevi, ^l.c.~ {^Il c. XVI del Par.~ in <Lettura scal.>,
+Firenze, 1964}, 554).
+
+	|79-81.  Le vostre cose~: le cose di voi uomini
+(|vostre~) sono tutte quante soggette alla morte intrinseca al
+loro stesso essere (|lor~), cos@i come voi uomini; ma questa legge
+naturale della morte si cela, non si vede in alcune cose che
+durano relativamente pi@u a lungo, come le citt@a; e le singole
+generazioni (|le vite~) hanno s@i breve durata che non ne possono
+vedere la fine (|son corte~).
+
+	|82-84.  E come~: come il girare del cielo della luna
+coll'alternarsi del flusso e del riflusso determina l'alta e la
+bassa marea (|cuopre e discuopre i liti~) incessantemente (|sanza
+posa~), cos@i la Fortuna (intelligenza angelica preposta da Dio ai
+beni umani, cfr. ^Inf.~ VII) innalza ed abbassa le sorti di
+Firenze.  La dottrina secondo cui le maree dipendono
+dall'influsso lunare deriva da S. Tommaso, ^S. Th.~ I, xc, 3. 
+<Oltre alle cagioni generali del perire delle schiatte umane, una
+ve n'@e dolorosamente propria di Firenze, la perpetua instabilit@a
+sua, per la quale in essa uomini e cose salgono e scendono di
+continuo, come il flusso e il riflusso della marea.  Quel ciel
+della Luna che, volgendosi, colla brusca e irresistibile azione
+delle forze naturali, in due soli momenti |cuopre e discuopre i
+liti sanza posa~, raggiunge l'effetto del sublime, ch'@e di far
+balenare all'anima nostra una rapida luce dell'infinito, e nel
+verso ondeggiante rumoreggia l'ondata della lontana marea. 
+Maestro insuperabile dell'espressione questo nostro divino D.>
+(Parodi, ^Il c. XVI del Par.~, in <Lett. dant.> del Getto
+{Firenze, 1964}, p. 1678).
+
+	|85-87.  per che~: per tutto quello che ho detto sul
+valore transitorio delle cose umane, non deve apparire (|parer~)
+cosa da destare stupore (|mirabil cosa~) quello che io dir@o dei
+Fiorentini di antica e remota nobilt@a (|alti~), dei quali
+(|onde~) la memoria (|fama~) si @e coperta e oscurata nel tempo,
+nel passato; di cui si @e perduto anche il ricordo.  Per questa
+premessa, cos@i solenne ed elegiaca, l'enumerazione delle pi@u
+antiche famiglie fiorentine, che fa Cacciaguida, acquista una
+validit@a narrativa e psicologica, carica di alta tensione
+drammatica, che si risolve in un crescendo di sequenze culminanti
+nella rievocazione focale della grande tragedia storica di
+Firenze: la Pasqua di Resurrezione del 1215 macchiata dal sangue
+di Buondelmonte dei Buondelmonti, trafitto dal pugnale dei
+consorti.  <Col doloroso ricordo di questa tragedia fatale alla
+pace di Firenze, Cacciaguida finir@a sospirando il suo discorso, e
+compir@a, con mesti tocchi, il quadro cominciato colla soavissima
+pittura della citt@a in pace dei suoi tempi> (Rocca, ^Il c. XVI
+del Par.~, Firenze, 1912, p. 26).
+
+	|li alti Fiorentini~: <L'enumerazione dantesca degli
+|alti fiorentini~ ha in buona parte la sua origine nella rassegna
+che fa, nel sesto libro dell'^Eneide~, Anchise ad Enea dei suoi
+grandi pronipoti, che saranno la gloria di Roma: e infatti lo
+stesso Cacciaguida ritiene qualche cosa di Anchise.  Ma non @e
+meno vero che questa enumerazione dantesca ha una grand'aria di
+famiglia con certe composizioni dell'antica poesia romanza, e si
+potrebbe chiamare il serventese delle nobili schiatte della
+Firenze del primo cerchio: epico e lirico e satirico insieme, con
+una variet@a di toni che era ignota alla poesia classica ed @e
+propria invece della poesia nuova e propria sopratutto di D. 
+Dove l'anima del Poeta @e meno commossa, l'enumerazione procede
+spedita e la poesia @e sopratutto nell'energia dello stile (vv.
+55-57>) (Parodi, ^l.c.~ {^Il c. XVI del Par.~ in <Lett. dant.>
+del Getto, Firenze, 1964}, 1678).
+
+	|88-90.  Io vidi~: il verbo scoppia improvviso come un
+grido di esclamazione piuttosto che come un doloroso ricordo; e
+in quella visione c'@e una volont@a suprema di ricostruire nel
+racconto tutto ci@o che di grande e di nobile il tempo ha
+distrutto inesorabilmente tra gli uomini.  Gli |Ughi~ <furono
+molto antichi, edificarono Santa Maria Ughi e tutto il Monte
+Ughi; e oggi sono spenti> (^Istoria fiorentina~ di R. e G.
+Malispini, c. LII, p. 47), anche i Catillini furono antichissimi. 
+Cacciaguida afferma di averli conosciuti ancora illustri, ma gi@a
+in declino (|gi@a nel calare~).
+
+	|Filippi~: narra l'^Istoria~ del Malespini che i Filippi
+erano in Mercato Nuovo e furono <possenti nobili antichi oltre
+modo>, i Greci furono prima abitanti in Mercato Vecchio e poi per
+innanzi fue loro il Borgo de' Greci>, gli Ormanni furono nobile
+schiatta detti poi Foraboschi ed <erano alleati agli Uberti che
+dimoravano tra S. Pietro Scheraggio e la chiesa di Santo Romolo>,
+gli Alberighi <feciono la Chiesa di S. Maria Alberighi in Porta
+S. Pietro>.
+
+	|91-93.  e vidi~: e vidi ancora in condizione di
+prestigio (|grandi~) pari alla loro nobilt@a (|antichi~: nobili),
+insieme al discendente della famiglia Della Sannella (nobili del
+Mercato Nuovo) i discendenti della famiglia dell'Arca, i
+Soldanieri, gli Ardinghi e i Bostici.  A questo punto il
+Momigliano affermava: <Il XVI canto del ^Par.~ @e quasi tutto una
+cronaca irta di puri nomi, ed @e la pi@u lunga e pi@u arida pagina
+di cronaca di tutto il poema> (^comm.~ 685).  Ma, ovviamente,
+quei nomi risuonavano nella mente dei contemporanei di D. come
+una drammatica sequenza di fatti e di azioni politiche.
+
+	|94-96.  Sovra la porta~: presso la porta San Piero, dove
+ora abitano i Cerchi: lett. che presentemente @e piena di
+fellonia, di tradimento all'unit@a di parte guelfa e della citt@a
+(Del Lungo) cos@i grave (|di tanto peso~) che presto sar@a zavorra
+(|iattura~, cfr. Pagliaro, ^Ulisse~, II, 617) che si getta dalla
+barca (|de la barca~: non @e compl. di spec. ma compl. spaziale,
+^ibidem~, 617).  In questo senso c'@e un preciso riferimento alla
+espulsione dei Cerchi dalla citt@a di Firenze, avvenuta nel 1300. 
+Altri, cio@e la maggior parte dei commentatori, preferisce
+spiegare cos@i: cos@i grave sar@a la fellonia dei Cerchi che presto
+sar@a la rovina, la sciagura (|iattura~) della barca, cio@e di
+Firenze o della stessa famiglia dei Cerchi.
+
+	|97-99.  erano~: costruisci: presso la porta S. Piero,
+ove ora abitano i Cerchi, abitavano i Ravignani da cui discese il
+conte Guido Guerra (nipote della ^buona Gualdrada~: cfr. ^Inf.~
+XVI, 34-39) e sono discesi tutti quelli (|qualunque~) che poi
+(|poscia~) hanno preso il nome di Bellincione, il nobile
+(|alto~), l'antico Bellincion Berti: <quei rami delle consorterie
+degli Adimari e dei Donati, che ebbero origine da due sorelle di
+Gualdrada entrate in quelle case, e perci@o assunsero il nome di
+Bellincione padre di quelle donne: infatti negli Adimari si trova
+nel sec. XIII questo nome, per es. nel padre di quel Buonacorso,
+potente per la sua casa e ricco di possessioni, che contro l'uso
+cittadinesco s'imparent@o nel 1267 con i conti Guidi (cfr.
+Villani, ^Cron.~ VII, 16; Compagni, ^Cron.~ I, 3); e Bellincioni
+si chiamarono i discendenti di Ubertino Donati, genero di
+Bellincione Berti> (Casini-Barbi, ^comm.~ 864).
+
+	|100-102.  Quel~: quelli della Pressa avevano gi@a
+esperienza (|sapeva gi@a~) di governo (|come regger si vuole~). 
+Di questi il Villani dice che <erano gentili uomini> del
+quartiere di Porta del Duomo, cacciati come ghibellini nel 1258 e
+traditori dei Fiorentini a Montaperti (^Cron.~ IV, 10; VI, 65).
+
+	|ed avea~: e i Galigai (antichi cittadini di Porta S.
+Piero e ghibellini) avevano in casa loro l'elsa e il pomo della
+spada dorati, come distintivi della dignit@a di cavalieri.
+
+	|103-105.  Grand'era~: intendi: grandi gi@a erano alcune
+famiglie che ancora fioriscono.  Ma lett. spiega e costruisci: la
+striscia verticale di vaio in campo rosso (|la colonna del
+vaio~), stemma dei Pigli di Porta san Pancrazio, era gi@a fin
+d'allora potente; e cos@i pure i Sacchetti (famiglia guelfa di Por
+Santa Maria), i Giuochi (vassalli del Vescovo e guelfi), i
+Fifanti (o Bogolesi di Por Santa Maria, ghibellini), i Barucci di
+Porta Duomo ghibellini, i Galli di Mercato Nuovo ghibellini, e i
+Chiaramontesi che ancora arrossiscono per la truffa dello staio
+del sale falsato, di cui si parla in ^Purg.~ XII, 105, alludendo
+ad un certo Donato della loro famiglia.
+
+	|105.  ch'arrossan~: <Qualche sottolineatura tra
+malinconica e beffarda o pittoresca affiora di tanto in tanto a
+ravvivare la rievocazione svelta e incisiva: quella riservata ai
+Chiaramontesi, dei quali uno si macchi@o di frode, togliendo una
+doga con cui misurava e distribuiva il sale per conto del comune
+o l'altra ai discendenti dei Visdomini e dei Tosinghi,
+amministratori tutt'altro che scrupolosi dei beni vescovili di
+Firenze.  Di due famiglie tuttavia si pu@o tacere anche il nome,
+perch@e la grandezza della Citt@a del Giglio si identificava con la
+loro gloria: quella degli Uberti e quella dei Lamberti> (Allevi,
+^l.c.~ {^Il c. XVI del Par.~ in <Lettura scal.>, Firenze, 1964},
+561).
+
+	|106-108.  Lo ceppo~: la consorteria dei Donati, da cui
+discesero i Calfucci, era gi@a grande e divisa in pi@u rami, ed
+erano gi@a arrivati alle pi@u alte magistrature (|a le curule~:
+alle sedie curuli, su cui a Roma avevano il privilegio di sedere
+i pi@u alti magistrati) i Sizii e gli Arrigucci (famiglia di parte
+guelfa), cfr. Villani, ^Cron.~ IV. 10.
+
+	|109-111.  Oh quali~: quanto potenti io vidi gli Uberti
+(|quei~) che ora sono annullati e in perpetuo bando dalla citt@a
+(|disfatti~) a causa della loro superbia, per aver voluto
+primeggiare su tutti in modo superbo! e lo stemma dei Lamberti,
+cio@e i Lamberti (il loro stemma erano |le palle d'oro~ in campo
+azzurro; cfr. ^Inf.~ XXVIII, 109) adornavano, come i fiori
+adornano una pianta, Firenze in ogni sua impresa cio@e i loro
+stemmi comparivano in ogni impresa di Firenze, in quanto erano i
+pi@u attivi e volorosi cooperatori a quelle imprese (|gran
+fatti~).
+
+	|112-114.  Cos@i~: cos@i pure operavano a vantaggio della
+citt@a (|facieno~) gli antenati (|i padri~) dei Visdomini e dei
+Tosinghi (|di coloro~) i quali, quando (|sempre che~) la vostra
+sede vescovile @e vacante (|la vostra chiesa vaca~), avendo il
+privilegio di amministrare la diocesi fiorentina, si impinguano
+(|si fanno grassi~) abusivamente con quelle rendite, sedendo
+temporaneamente a consiglio col clero (|consistoro~: concistoro). 
+Cfr. Villani, ^Cron.~ IV, 10, il quale chiama i Visdomini e i
+Tosinghi <padroni e difenditori del vescovado>.
+
+	|115-120.  L'oltracotata~: l'oltracontante
+(|oltracotata~: ant.) consorteria (|schiatta~) degli Adimari (tra
+cui era Filippo Argenti, ^Inf.~ VIII, 61), che si fa feroce come
+un drago (|s'indraca~) con chi fugge, e si fa umile (|si placa~)
+come un agnello con chi le mostra i denti oppure le offre la
+borsa (sia disposto a comprarne l'amicizia), cominciava a salire
+(|venia su~), gi@a a crescere, sebbene (|ma~) fosse di origine
+umile (|di picciola gente~) e oscura; tanto che a Ubertino Donati
+non piacque che il suocero Ballincione Berti lo imparentasse (|il
+f$e lor parente~) con essa, dando in moglie un'altra delle sue
+belle figliuole a uno degli Adimari.  Il giudizio di D. pu@o esser
+giustificato dal fatto che, dopo la sua condanna e il suo tenersi
+in contumacia da Firenze, un Boccaccino dei Cavicciuli Adimari
+chiese e ottenne che fossero confiscati in Comune i beni di D.;
+cfr. Compagni, ^Cron.~ II, xxv.
+
+	|116. 'l dente~: la parola stessa, inserita in una
+sequenza concitata e scattante, ricca di suoni aspri e gutturali,
+richiama alla nostra memoria inevitabilmente, anche per
+associazione di immagini, l'atto aggressivo e vano di Filippo
+Argenti <'l fiorentino spirito bizzarro che in s$e medesmo si
+volvea co' ^denti~>; cfr. ^Inf.~ VIII, 63.
+
+	|121-123.  Gi@a era~: i Caponsacchi, provenienti da
+Fiesole, erano gi@a venuti ad abitare nel Mercato Vecchio; e i
+Giudi e gli Infangati erano gi@a cittadini ragguardevoli (|buon~)
+per il censo e le cariche pubbliche; cfr. Villani, ^Cron.~ IV,
+11-13.
+
+	|124-126.  Io dir@o~: io dir@o una cosa incredibile, eppure
+(|e~) vera: nella piccola cerchia antica di Firenze (|nel picciol
+cerchio~) si entrava per una porta che prendeva il nome (|si
+nomava~) da quelli della Pera, che ivi avevano le loro case, cio@e
+si chiamava porta Peruzza.  La cosa potrebbe sembrare incredibile
+a D. perch$e ai suoi tempi quella famiglia era caduta in basso ed
+era spenta.
+
+	|127-130.  Ciascun~: tutte le famiglie (Giandonati,
+Pulci, Nerli, Giangalandi, Ciuffagni, Alepri) che portano
+intrecciata nel loro stemma l'insegna tolta dal bello stemma (|de
+la bella insegna~: quella delle sette doghe vermiglie o bianche)
+di Ugo il grande di Brandeburgo, marchese di Toscana e vicario di
+Ottone III, la cui fama (|nome~) e le cui opere virtuose
+(|pregio~) rinnova, onora (|riconforta~) la festa, il giorno
+festivo di san Tommaso apostolo, avevano avuto da lui (|da esso~:
+da Ugo il grande) dignit@a cavalleresca (|milizia~) e privilegio
+nobiliare (cio@e il privilegio di inserire nel proprio stemma
+l'insegna di Ugo il grande).
+
+	|129.  la festa~: Ugo il grande, stabilitosi in Toscana,
+per voto aveva fondato sette badie, tra cui quella di Firenze, in
+cui era stato sepolto.  Ogni anno, nell'anniversario della sua
+morte (21 dicembre, 1001), che coincideva con la festa di San
+Tommaso Apostolo, si celebravano solenni esequie; quindi il
+giorno festivo dell'Apostolo onorava in un certo senso anche la
+fama e la memoria di Ugo.
+
+	|131-132.  avvegna~: sebbene si schieri (|si rauni~) col
+popolo oggi uno di loro (Gian della Bella), il quale adorna lo
+stemma di Ugo, col fregio di una fascia d'oro (|la fascia col
+fregio~).  Giano della Bella fu il famoso promotore degli
+^Ordinamenti di giustizia~ a favore del popolo.
+
+	|133-135.  Gi@a eran~: gi@a c'erano fiorenti le famiglie
+dei Gualterotti e degli Importuni; e ancora sarebbe pi@u in pace
+Borgo Santi Apostoli (dove essi abitavano), se queste famiglie
+fossero prive, non avessero avuto poi come vicini, gente nova ivi
+trasferitasi (|novi vicin~: ^novi~ sempre nel senso di ^gente
+nova~, che in D. suona dispregio).  Infatti i Buondelmonti da
+Oltrarno erano venuti a stabilirsi a Borgo Santi Apostoli,
+causando la feroce divisione dei cittadini in guelfi e ghibellini
+nel 1215.
+
+	|136-139.  La casa~: la casa degli Amidei, da cui (|di
+che~) nacque, ebbe origine il lutto (|fleto~: lat. ^fletus~,
+pianto) di Firenze, per il giusto e legittimo risentimento
+(|sdegno~) che spinse gli Amidei a vendicarsi dell'oltraggio
+ricevuto da Buondelmonte dei Buondelmonti, che venne meno alla
+promessa di matrimonio data ad una fanciulla degli Amidei, causa
+che ha portato alla rovina Firenze (|che v'ha morti~) e che ha
+posto fine alla vostra vita serena e pacifica (|al vostro viver
+lieto~), dividendo la citt@a in opposte fazioni politiche, in
+guelfi e ghibellini, era ancora una casa tenuta in onore e che
+godeva di cariche pubbliche (|onorata~), sia essa che i suoi
+parenti, quelli che appartenevano alla stessa consorteria, gli
+Uccellini e i Gherardini.
+
+	|140-141.  o Buondelmonte~: o Buondelmonte quanto
+malauguratamente, con quanto danno per te e la tua citt@a venisti
+meno (|fuggisti~) alle nozze con una donna di quella casa
+(|sue~), cio@e con una Amidei, a causa delle istigazioni di altri
+(|per li altrui conforti~), precisamente di Gualdrada Donati, che
+lo esort@o a sposare una sua figliuola.
+
+	|142-144.  Molti~: molti fiorentini, che ora sono
+rovinati per queste discordie (|tristi~), sarebbero lieti e
+contenti, se Dio ti avesse lasciato (|conceduto~) affogare nel
+fiume Ema (in Valdigreve), la prima volta che venisti da
+Montebuono a Firenze, fin da quando eri giovinetto.  Si noti il
+tono sempre pi@u drammatico e concitato del racconto di
+Cacciaguida, che mutua da D. la passione politica.
+
+	|145-147.  Ma~: purtroppo era fatale (|conveniesi~: si
+conveniva: era necessario) che Firenze facesse (|fesse~),
+immolasse una vittima, al termine della sua vita pacifica (|ne la
+sua pace postrema~), a quella statua di Marte (|pietra~) mutilata
+e monca (|scema~) che sta a guardia del Ponte Vecchio: cfr.
+^Inf.~ XIII, 146.  Ai piedi di quella statua fu ucciso, appunto,
+dai consorti degli Amidei, nel giorno di Pasqua del 1215,
+Buondelmonte; e in seguito a quel fatto di sangue la divisione in
+guelfi e in ghibellini della cittadinanza di Firenze.
+
+	|postrema~:  Cos@i si chiude, con una tragica visione, in
+una potente e originale fusione di leggende popolari e di alti
+pensieri civili, il canto di gloria degli alti Fiorentini: il
+cadavere del Buondelmonte giace disteso appiedi della statua
+fatale di Marte, e il rozzo e monco simulacro, a cui la furente
+citt@a rende il nuovo sacrilego omaggio che le ripiomba nel suo
+potere, sembra lampeggiare sinistramente di sanguigni bagliori>
+(Parodi, ^l.c.~ {^Il c. XVI del Par.~ in <Lett. dant.> del Getto,
+Firenze, 1964}, 1683).
+
+	|148-150.  Con queste genti~: con queste famiglie e con
+altre insieme con esse io vidi Firenze vivere in tale
+tranquillit@a e pace (|in s@i fatto riposo~) che non aveva alcuna
+cagione di piangere (|onde piangesse~) i crimini dei suoi malvagi
+cittadini.
+
+	|151-154.  con queste~: con queste famiglie io vidi cos@i
+glorioso, tra gli altri comuni toscani, il suo popolo e cos@i
+giusto, che la sua insegna (|'l giglio~) non era mai stata
+capovolta (|posto a ritroso~), non era mai stata trascinata sul
+campo con l'asta rovesciata per dileggio da qualche vincitore,
+cio@e non era mai stato sconfitto, n$e il giglio, insegna della
+patria comune, era mai stato mutato da bianco in rosso (|fatto
+vermiglio~) a causa delle lotte di parte, come avvenne nel 1251
+dopo la guerra di Pistoia, quando i Guelfi, cacciati i
+Ghibellini, mutarono in rosso il giglio e in bianco il campo,
+mentre, prima, i Ghibellini avevano adottato il giglio bianco in
+campo rosso.  Cfr. Villani, ^Cron.~ IV, 43.
+
+	|vermiglio~: <Le ultime parole di Cacciaguida, nelle
+quali si direbbe che trema un singulto represso, riassumono
+potentemente tutto il significato del suo discorso, e ritornando
+alla prima domanda di D. (^ditemi de l'ovil di San Giovanni~ {v.
+25}), legano insieme le varie parti del canto.  Cacciaguida vide
+Firenze riposata e felice> (Parodi, ^l.c.~ {^Il c. XVI del Par.~
+in <Lett. dant.> del Getto, Firenze, 1964}).  <La lentezza
+ritmica imposta dalla dieresi della voce |division~ e l'amarezza
+che gorgoglia di singulti nel verso col quale si chiude il canto,
+ritraggono la vergogna dei Fiorentini responsabili di tanta
+iattura e l'accorata tristezza di D., che dal dolce sogno del
+passato piomba nel pi@u cupo sconforto.  Parrebbe che il motivo
+della ^vanitas vanitatum~, che ha permeato quasi tutto il canto,
+stia per piegare l'anima del poeta sotto il peso di uno sgomento
+disperato> (Fatini, ^Il c. XVI del Par.~ in <Convivium>, 1961, p.
+665).
+
+

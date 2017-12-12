@@ -1,0 +1,129 @@
+	|1-6.~ |(ed.  Rosini)~
+Descrive l'Aurora.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+Sogno.  [Sessa]
+
+^Balba~, scilinguata.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+^Sovra i pi@e distorta~.  Cos@i disse: ^Sovra i pi@e leggiero~.  (Inf. 
+c. XXI. v. 33).  [Sessa]
+
+	|9.~ |(ed.  Rosini)~
+Scialba.  [richiamo marginale] [Sessa]
+
+^Scialba~, brutto colore.  La falsa felicit@a.  [Da Fino]
+
+	|10-11.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+Intento.  [richiamo marginale] [Sessa]
+
+	|20.~ |(ed.  Rosini)~
+^Dismago~, distruggo.  [Da Fino]
+
+	|23.~ |(ed.  Rosini)~
+Ausa.  [richiamo marginale] [Sessa]
+
+	|24.~ |(ed.  Rosini)~
+^Appago~, satisfo.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+^Una donna~, la virt@u.  [Da Fino]
+
+	|27.~ |(ed.  Rosini)~
+Lunghesso me.  [richiamo marginale] [Sessa]
+
+	|29.~ |(ed.  Rosini)~
+^Fieramente dicea.  Fieramente~, in questo significato.  [Sessa]
+
+	|33.~ |(ed.  Rosini)~
+^Puzzo~, maschio.  [Sessa]
+
+	|39.~ |(ed.  Rosini)~
+Andando verso occidente.  [Da Fino]
+
+	|42.~ |(ed.  Rosini)~
+Andando chinato.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+^Marca~, provincia.  [Da Fino]
+
+	|48.~ |(ed.  Rosini)~
+^Macigno~, sasso.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+Ventilare.  [richiamo marginale] [Sessa]
+
+	|51.~ |(ed.  Rosini)~
+^Donne~, signore di se stesse.  [Da Fino]
+
+	|56.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|62.~ |(ed.  Rosini)~
+Lontana metafora.  [Sessa]
+
+	|62-63.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|64-66.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|65.~ |(ed.  Rosini)~
+^E si protende.  Distende~.  [Sessa]
+
+	|68.~ |(ed.  Rosini)~
+^Roccia~, questa (voce) pare usata troppo spesso.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+^Gli cui soffriri.  Soffriri~: gl'infiniti in forma di nome usa spesso 
+il Boccacci.  [Sessa]
+
+	|81.~ |(ed.  Rosini)~
+Furi.  [richiamo marginale] [Sessa]
+
+^Di furi~, di fuori.  [Da Fino]
+
+	|88.~ |(ed.  Rosini)~
+A mio senno.  [richiamo marginale] [Sessa]
+
+	|91.~ |(ed.  Rosini)~
+^Matura~, purga.  [Da Fino]
+
+	|93.~ |(ed.  Rosini)~
+Sosta.  [richiamo marginale] [Sessa]
+
+^Sosta~, ferma, cessa di piangere.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Diretri.  [richiamo marginale] [Sessa]
+
+	|99.~ |(ed.  Rosini)~
+Papa Adriano Quarto.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+Adima.  [richiamo marginale] [Sessa]
+
+^S'adima~, scende.  [Da Fino]
+
+	|112-113.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|118.~ |(ed.  Rosini)~
+Aderse.  [richiamo marginale] [Sessa]
+
+	|122.~ |(ed.  Rosini)~
+^Onde operar perd@esi~.  Non duplica la consonante.  [Sessa]
+
+	|138.~ |(ed.  Rosini)~
+Perch@e la morte toglie l'autorit@a.  [Da Fino]
+
+	|139.~ |(ed.  Rosini)~
+^Arresti~, fermi.  [Da Fino]
+
+	|140.~ |(ed.  Rosini)~
+^Stanza~, dimora.  [Da Fino]
+

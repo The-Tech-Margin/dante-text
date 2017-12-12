@@ -1,0 +1,620 @@
+	|SUMMARIUM.~  CANTUS TRIGESIMUS PRIMUS, ^in quo
+introducitur beatus Bernardus loquens de beata Virgine.~
+
+	|Proemio.~  ^IN forma dunque di candida rosa.~  Postquam
+in superiori capitulo proxime praecedenti autor noster descripsit
+paradisum in generali, nunc consequenter in isto XXXI capitulo
+declarat dictam formam generalem, et introducit in speciali
+Bernardum qui ostendit sibi Dominam.  Et totum praesens capitulum
+potest breviter dividi in quatuor partes generales: in prima
+quarum autor describit actum et habitum angelorum aulicorum huius
+excelsae curiae.  In secunda facit suam invocationem ad Deum, et
+describit suam felicissimam contemplationem, ibi: ^O trina luce.~ 
+In tertia introducit virum contemplativum Bernardum in suum
+advocatum, et ascensionem Beatricis ad sedem suam, ibi: ^La forma
+general.~  In quarta et ultima dictus Bernardus ostendit autori
+paradisum et in speciali nostram Dominam, ibi: |E 'l santo Sene.~ 
+
+	|1-3.~  Ad primum ergo dico quod autor in prima parte
+generali describit actum et habitum militiae angelicae: et primo
+continuat se ad praecedentia.  Et ad intelligendam clare istam
+literam continuativam est praenotandum, quod sicut patuit in
+praecedenti capitulo autor noster vidit gloriam paradisi ex longa
+fieri rotundam, non quia prius esset aliter quam postea, sed quia
+longa figura pluribus est nota, sed nulla est tam perfecta nec
+adeo capax sicut rotunda; ideo autor descripturus paradisum
+incoepit a notioribus, sicut docet philosophus in principio
+Physicorum; et primo notificat tale principium in universali,
+deinde descendit ad particularia, sicut philosophus docet ibidem;
+et dat exemplum, quia primo videmus rem in confuso, sicut unam
+figuram pictam, deinde in particulari videmus lineamenta, umbras
+et plicaturas vestis: ita ad propositum autor noster declarat
+dictam formam rotundam in universali, sed in sequenti capitulo in
+particulari ut patet.  Dicit ergo repetens illud quod tactum erat
+de rosa: |Dunque~, istud igitur non est hic illativum vel
+conclusivum, sed continuativum, |la milizia santa~, scilicet,
+humani generis, |che Cristo fece sposa nel suo sangue~, idest,
+quam Christus redemit suo sanguine, et sic dotavit eam dono suae
+gratiae, |mi si mostrava in forma di candida rosa~; non
+intelligas quod illa militia sancta haberet figuram rosae, quia
+hoc esset falsum, sed in lumine illo circulari, scilicet coelo
+empyreo, quod habet formam rosae, ita quod illud |in~ notat ibi
+continentiam localem, ita quod vult dicere, quod illa militia
+ostendebat se locatam intra illam candidam rosam.  Et hic nota
+quod autor subtiliter figuravit paradisum in forma rosae, quia
+illa lux divina quae facit ipsum coelum empyreum procedit ab ipso
+puncto Deo qui est trinus et unus.  Rosa namque, sicut per se
+patet, habet in se tria, scilicet, substantiam, colorem, odorem;
+et tamen est una rosa et non plures divisae; ita trinitas
+individua habet in se tres personas, et tamen est solum una
+deitas in essentia; ergo bene ista lux est una et trina.  Unde
+autor paullo infra dicit {v. 28}: ^o trina luce.~  
+
+	|4-12.  Ma l'altra.~  Hic autor describit actum sive
+exercitum angelorum: et ostendit per unam comparationem
+pulcerrimam et nobilissimam sumptam ab apibus, quomodo capiebant
+de luce et beatitudine illius rosae, et portabant et ministrabant
+beatis situatis in foliis rosae; et sic faciebant suum volatum
+inter Deum et rosam, sicut apes volant a suo alveario ad flores
+et a floribus ad alvearium.  Nunc ordina literam, et expone sic:
+|Ma l'altra~, scilicet, militia angelica, |che vede~, scilicet,
+magis prope et profunde, |e canta~, idest, laudat, |la gloria di
+colui~, scilicet Dei, |che la innamora~, idest, quae accendit eam
+suo amore divino, et quam animae beatae magis sunt promptae ad
+videndum et amandum; et dicit: |e la bont@a che la fece cotanta~,
+idest, et quae angelica militia videt et cantat bonitatem
+divinam, quae fecit ipsam naturam angelicam tam grandem et
+capacem tantae gloriae et amoris, |descendea~, scilicet a puncto
+divinitatis, |nel gran fiore~, scilicet, in rosam, quae erat
+maxima et amplissima, ut patet ex dictis in praecedenti capitulo;
+et dicit: |che s'adorna di tante foglie~, quia singula folia
+rosae sunt sedes animarum beatarum.  Et e converso revolabant
+sursum ad Deum; unde dicit: et illa militia angelica, |risaliva
+quindi~, scilicet, ab isto magno flore, |l@a dove il suo amor
+sempre soggiorna~, idest, ad punctum divinitatis, ubi semper amor
+angelorum immoratur et adhaeret.  Et hoc faciebant angeli, |s@i
+come schiera d'api che s'infiora una fiata~, idest, quae volat ad
+flores et insidet illos ad colligendum mel sive rorem: et e
+converso, |et altra~, scilicet vice, |si ritorna~, ab ipsis
+floribus ad alvearium suum, ubi habet totum amorem et studium
+suum; unde dicit: |l@a dove suo lavoro s'insapora~, quia ibi
+laborat in conficiendo mel sapidissimum et dulcissimum.  Et hic
+nota quam elegantissime et convenientissime ista comparatio
+repraesentet sedulum exercitium angelorum per officiosum studium
+apum; apes enim sunt naturaliter promptae et praesto ad servitium
+sui ducis, et ita angeli ex sui natura leves et prompti ad
+servitium Dei.  Apes delectantur in odore florum, et ex illis
+colligunt mel, quod portant ad alvearium; et ita angeli
+delectantur et ebriantur odore bonorum operum sanctorum, ut
+dictum est capitulo praecedenti, et dulcedinem illorum operum
+portant et repraesentant coram Deo.  Apes inutiles et inertes
+expellunt ab alveario, ita angeli pravos et damnosos arcent a
+regno Dei, a coelo empyreo rotundo plenissimo dulcedinis et
+suavitatis.  Apes faciunt duplicem fructum, scilicet mel et
+ceram, et ita de multis proprietatibus quas scribit Aristoteles
+in libro de naturis animalium, et Virgilius libro Georgicorum,
+ubi mirabiliter exaltat istam naturam apum et caetera.  
+
+	|13-15.  Le faccie.~  Hic autor descripto actu angelorum,
+nunc describit habitum eorumdem, dicens: et illi angeli, |avean
+tutte le faccie di fiamma viva~; angeli repraesentantur cum
+faciebus rubeis inflammatis ad figurandum ardentem amorem
+caritatis, quae est in ipsis angelis; et dicit: |e l'ale d'oro~,
+ad innuendam perfectam sapientiam angelorum, vel
+incorruptibilitatem.  Sicut enim aurum non recipit corruptionem
+nec pollutionem, ita natura angelica est aeterna et impeccabilis. 
+Et dicit: |e l'altro~, idest totum residuum substantiae habebant,
+|tanto bianco, che nulla neve a quel termine arriva~, ad
+innuendum naturam angelicam puram et mundam ab omni macula; et
+hoc dicit, quia nulla anima beata attingit ad tantam puritatem
+quanta est in angelo, qui nunquam peccavit.  
+
+	|16-18.  Quando.~  Hic autor ostendit quomodo dicti
+angeli in descensu ministrabant beatis beatitudinem; unde dicit:
+et illi angeli, |porgevan della pace e dell'ardore~, scilicet,
+illis beatis, |ch'egli acquistavan~, scilicet, in dicto lumine
+emisso a divinitate, |ventilando il fianco~, idest, volando: et
+tangit actum avis volantis; nam cum volat ventilat ilia; et hoc
+faciebant, |quando scendean nel fior~, idest, cum descendebant a
+Deo ad rosam, |di bianco in bianco~, idest, de folio albo in
+folium album, idest, de sede in sedem gradatim.  
+
+	|19-24.  N@e l'interporsi.~  Hic autor respondet
+quaestioni tacitae; posset enim obiici: nonne illa tanta
+multitudo angelorum intermedia impediebant visionem tuam et
+splendorem? respondet autor quod non.  Unde dicit: |N@e
+l'interporsi~, idest, nec interpositio, |di tanta moltitudine
+volante~, idest, angelorum volantium, |tra il disopra e 'l
+fiore~, idest, inter illud lumen, Deum et rosam, |impediva la
+vista~, scilicet, meam ne viderem, |e lo splendore~, idest, et
+non impediebat splendorem illius lucis ne videretur.  Et assignat
+rationem sui dicti, dicens: |ch@e la luce divina @e penetrante per
+l'universo, secondo ch'@e degno~, idest, secundum dignitatem et
+virtutem receptibilis.  Et dicit: |s@i che nulla le puote essere
+ostante.~  Videmus enim in corporibus coelestibus quod unum non
+impedit visionem alterius, ita quod luna non impedit visionem
+Saturni; ergo multo magis in substantiis spiritualibus una non
+impedit visionem alterius.  
+
+	|25-27.  Questo.~  Hic autor concludit quod habebant
+contemplationem ad unum solum terminum, scilicet, Deum.  Unde
+dicit: |Questo regno~, scilicet, coeleste, |sicuro e gaudioso~,
+ad differentiam temporalis quod est plenum timore et moerore; et
+dicit: |frequente in gente antica et in novella~, idest, bene
+habitatum et populosum a beatis veteris et novi Testamenti; vel
+dic a gente angelica et humana, |avea viso et amor~, idest
+contemplationem et dilectionem, |tutto ad un segno~, idest, ad
+illud punctum fixum quod isti sagittantes in mundo recta via
+petiverunt.
+
+	|28-30.  O trina luce.~  Ista est secunda pars generalis,
+in qua autor facit suam deprecationem ad Deum, et describit suam
+felicissimam contemplationem.  Et ad intelligentiam huius
+invocationis est praenotandum, quod autor quia viderat in sancta
+coelesti Jerusalem tantum gaudium, concordiam, libertatem et
+pacem, reminiscens bellum, discordiam, servitutem, tempestatem
+mundi, pietate motus misericorditer implorat divinum subsidium ut
+succurrat tanto defectui.  Unde dicit: |O trina luce~, scilicet,
+divinitatis quae est trina et una, |che scintillando in unica
+stella~, idest, in uno solo lumine, |a lor vista~, idest, visioni
+beatorum, |s@i gli appaga~, idest, quietat et contentat et
+felicitat, |guarda quaggiuso~, scilicet, in terram, |alla nostra
+procella~, idest, tempestati, et praesta tranquillitatem et
+unitatem mundo, ita quod dirigamus nostrum visum ad illam solam
+stellam matutinam quae dirigit recte navigantes ad portum
+salutis, ad quam sancti dirigunt visum et amorem in coelo, ut jam
+dictum est.  Et hic nota quod ista pia deprecatio indicat bonam
+dispositionem autoris circa statum mundanum, et praecipue suae
+patriae unde erat exul.  
+
+	|31-42.  Se i barbari.~  Hic autor volens exprimere
+immensam admirationem suam facit comparationem de illa
+admiratione, quam concipiebant barbari venientes Romam quando
+Roma erat in flore.  Et breviter vult dicere, quod si barbari
+venientes olim de sub tramontana, ubi habent vilia tuguria pro
+domiciliis eorum, Romam, videntes alta moenia marmorea, palatia
+et mirabilia aedificia Romae obstupescebant; quanto magis autor
+videns gloriosa domicilia et habitacula coeli debebat
+obstupefieri? quasi dicat incomparabiliter.  Nunc ordina literam,
+et construe sic: |Io che era venuto al divino dall'umano~, idest,
+a terra ad coelum, |all'eterno dal tempo~, idest, et qui veneram
+a mundo mortali subiecto tempori ad locum aeternitatis, ubi non
+currit tempus, |e di Fiorenza in popol giusto e sano~, loquitur
+ironice, quasi dicat: et qui veneram ab iniqua et insana civitate
+Florentiae, |di che stupore dovea essere compiuto~, quasi dicat:
+mirabili et infinito stupore debebam esse repletus, respectu
+dictorum barbarorum.  Et hic nota quod autor vult dicere quod
+dicta comparatio non est satis digna ad exprimendum stuporem
+suum; et ratio est efficacissima, quia admiratio in illis
+barbaris procedebat ab excellentia rei mundanae ad vilitatem rei
+mundanae, inter quas est aliqua proportio.  Admiratio vero
+autoris procedebat ab excellentia rerum divinarum ad infirmitatem
+terrenarum, inter quas nulla potest esse comparatio, quia finiti
+ad infinitum nulla est proportio.  Venerat enim a temporali ad
+aeternum, ab iniquitate ad summam justitiam.  Et hoc dico: |se i
+barbari~; sicut illi de Norvegia et Germani, |venendo di tal
+plaga~, idest, a parte septemtrionali vicini tramontanae quae est
+in polo nostro arctico; unde dicit, |che ciascun giorno si cuopra
+d'Elice~, idest, ursa maiore sive curru, qui nunquam facit
+occasum, sed describit tantum unum brevem circulum, sicut saepe
+ostensum est; et ideo dicit: |rotante col suo figlio~, idest,
+ursa minore, |ond'ella @e vaga~, quia continuo respicit ipsam.  Et
+ad clariorem intelligentiam huius literae est sciendum, quod
+autor hic tangit fabulam quae tacta est in capitulo XXV
+Purgatorii, scilicet quomodo Jupiter stupravit Calistonem
+virginem Dianae, quam Juno convertit in ursam; et illa et filius
+eius cui nomen erat Archas translati sunt in constellationes
+coeli, illa in ursam maiorem, ille vero in minorem; quae Calisto
+alio nomine est Helice.  Unde autor in praeallegato capitulo
+{^Purg.~ 25.131} dicit: ^Diana si tenne al bosco et Elice
+caccionne~; et dicit: |veggendo Roma e l'ardua sua opra~, idest,
+alta aedificia sua.  Nam tota Roma miraculum est, ut ait
+Cassiodorus, vel etiam opera magnifice gesta a Romanis, quae
+erant picta, sculpta et scripta in aedificiis illis et in arcubus
+triumphalibus.  Unde Sidonius: Roma domicilium legum et caetera;
+|stupefaceansi~, idest, mirabantur.  Et tangit tempus, dicens:
+|quando Laterano alle cose mortali and@o di sopra~, quasi dicat:
+quando Roma erat in flore, quia tunc superavit omnia aedificia
+mundi; unde Thomas de Aquino erat solitus dicere, quod tria
+concupiverat anima sua vidisse, scilicet Romam in flore, Christum
+in carne, et Apostolum disputantem.  Et nota quod autor per hoc
+quod dicit |Laterano~ tangit unum mirabilissimum aedificium
+Romae.  Palatium enim Lateranum quod est prope sanctos
+Marcellinum et Petrum, versus septemtrionem, fuit palatium
+Neronis, ut dicit Martinus.  Fuit autem istud palatium
+sumptuosissimum, sicut scribit Svetonius etc.  Unde Augustus
+gloriabatur se invenisse urbem Latericiam et fecisse marmoream. 
+Et subdit autor virtutem et potentiam tanti stuporis sui, dicens
+affirmative, |certo il gaudio~, scilicet, magnum quod concipiebam
+ex inspectione illius coelestis Romae, |mi facea libito~, idest,
+placitum et gratum, |non udire et starmi muto~, idest, non loqui
+vel dicere aliquid cum Beatrice vel alio beato, sicut solebat; et
+dicit: |tra esso~, idest, intra ipsum stuporem.  
+
+	|43-48.  E quasi.~  Hic autor exprimit modum suae
+gaudiosae et tacitae contemplationis per unam comparationem
+propriissimam.  Et breviter vult dicere, quod ita desideranter et
+laetanter considerabat paradisum ultimum bravium et praemium sui
+cursus, sperans referre mirabilem pulcritudinem illius templi
+coelestis, sicut peregrinus qui appulit ad finem suae
+peregrinationis considerat diligenter et veneranter ecclesiam ubi
+solvit suum votum, et sperat referre formam et proportionem
+illius ecclesiae.  Nunc ordina sic literam: |E io passeggiando~,
+idest, passim discurrendo, |su per la viva luce~, quae
+constituebat ibi rosam, |menava gli occhi~, idest, speculationem
+intellectualem, |per li gradi~, idest, per folia rosae quae sunt
+sedes animarum; et dicit: |mo su, mo gi@u, e mo ricirculando~, ut
+viderem totam continentiam loci: et hoc faciebam, |quasi peregrin
+che si ricrea nel tempio del suo voto~, ad quod voverat ire; et
+dicit: |e spera gi@a ridire~, scilicet, cum fuerit reversus domum,
+|come ello stea.~  Et hic nota quod optimum exemplum potest esse
+de templo Jerusalem ubi est sepulcrum Christi, qui ibi fuit
+temporaliter in carne, quod habet multas mansiones, sicut
+coeleste templum, ubi aeternaliter vivit Christus, in quo sunt
+multae sedes sicut ipse Christus dicebat: ^in domo patris mei
+multae mansiones sunt~; et sic patet quomodo dicta comparatio
+declarat propositum in debita figura.  
+
+	|49-51.  Vedeva.~  Hic autor ultimo describit quid
+viderit in generali in dicto templo, et dicit quod videbat
+habitum beatorum.  Unde dicit: |Vedeva visi~, scilicet, humanos,
+|suadi~, idest, suasivi, |a carit@a~, quia si coluerunt caritatem
+in terra, quanto magis in coelo ubi est vera et perfecta caritas;
+et dicit: |fregiati~, idest, ornatos, |d'altrui lume~, idest,
+radiis divinis vel luminibus angelicis; et dicit: |e del suo
+riso~, idest, propria laetitia, |ed atti ornati di lutte
+onestadi.~  Honestum enim continet omnem virtutem et bonitatem,
+cuius isti fuerunt honestati et ornati etc.
+
+	|52-57.  La forma general.~  Ista est tertia pars
+generalis, in qua autor describit unum sanctum maxime
+contemplativum in eius favorem, et ascensum Beatricis ad sedem
+suam.  Et primo continuans dicta dicendis ostendit quomodo sibi
+intendenti ad quaedam cognoscenda et convertenti se ad Beatricem
+occurrit dictus contemplativus.  Dicit ergo: |Lo mio sguardo~,
+idest, contemplatio, |avea gi@a tutta compresa la forma general di
+paradiso~; quia viderat angelos ministrantes beatitudinem, et
+beatos contemplantes ipsum Deum in generali, nullo notato in
+speciali; unde dicit: |in nulla parte ancor fermato fiso~; et
+dicit: |e volgeami con voglia riaccesa~, idest, de novo accensa
+ad cognoscendum aliquid speciale; unde dicit: |per dimandar la
+mia Donna di cose, di che la mente mia era sospesa~, idest,
+dubia, quia volebat petere de sede Mariae et de sede ipsius
+Beatricis.  
+
+	|58-63.~  Et subdit quomodo ex insperato, loco Beatricis
+occurrit sibi vir beatus contemplativus.  Dicit ergo: |uno
+intendeva~, quia scilicet intendebat loqui Beatrici et certiorari
+ab ipsa de quibusdam, |et altro~, idest, alius spiritus beatus,
+|mi rispose~; unde dicit: |credea veder Beatrice et vidi un
+sene~; hic erat venerabilis Bernardus, |vestito con le genti
+gloriose~, idest, ornatum divino lumine simul cum aliis beatis
+glorificatis; vel quia erat vestitus albo sicut et alii.  Ad
+intelligentiam autem pleniorem huius passus est sciendum, quod
+iste senex erat beatus Bernardus abbas Clarevallensis, qui fuit
+luculentus doctor et instituit ordinem etc.  Autor itaque
+describit ipsum Bernardum proprie secundum merita personae, primo
+ab aetate, quia vocat eum senem; fuit enim Bernardus senex
+tempore et sapientia: secundo a veste, quia erat amictus gloria
+multa: tertio a benignitate et pietate, quia fuit summe mitis,
+humilis, placidus, tractabilis, affabilis.  Nunc ad literam,
+dicit autor: et ille senex, |era diffuso~, idest, respersus, |di
+benigna letizia~, non maligna qualis est laetitia multorum, |per
+gli occhi e per le gene~, quasi dicat, hilaris et benignus in
+facie.  Et dicit: |in atto pio quale a tenero padre si conviene.~ 
+Et bene assimilat Bernardum pio patri; fuit enim optimus
+paterfamilias, qui tot filios spiritualiter genuit et bonam curam
+gessit familiae.  
+
+	|64-66.  E ove.~  Hic autor ostendit quomodo pavefactus
+quia non viderat Beatricem, petivit illum senem de ea; quia enim
+autor credens videre Beatricem viderat virum senem, ideo more
+illius qui credit perdidisse suam scortam, timens petit a dicto
+sene de ea causa recuperandi.  Unde: |E, diss'io subito~,
+scilicet, illi seni, |ove @e ella~? et continuo subdit
+responsionem senis, dicens: |ond'egli~, supple, ille senex
+respondit: |Beatrice mosse me del loco mio~, quasi dicat: Beatrix
+recessit a te, et venit ad me, et fecit me venire ad te, |a
+terminar lo tuo disiro~, idest, causa complendi desiderium tuum,
+ut scilicet, videres summum bonum, cui amodo es propinquus.  Unde
+nota quod sicut Beatrix descendit ad infernum ad Virgilium, et
+misit ipsum in succursum autoris, qui per se non poterat exire
+vallem vitiorum; ita nunc ascendit ad Bernardum, quem misit in
+favorem autoris qui per se non poterat ascendere ad ultimum finem
+beatitudinis.  
+
+	|67-69.~  Et subdit quod Beatrix ascendit sedem propriam,
+unde melius possit contemplari Deum, dicens: |e tu la rivedrai
+nel trono~, idest, in sede, |che i suoi merti le sortiro~, idest,
+qui thronus merito sibi destinatus est; et dicit: |se riguardi su
+nel terzo giro dal sommo grado.~  Hoc declarabitur statim in
+capitulo sequenti, ubi ostendetur quomodo in tertio gradu sedet
+Rachel, quae figuraliter accipitur pro vita contemplativa, cum
+qua merito est sociata Beatrix, quae maxime est fundata et
+firmata in contemplatione.  Unde ipsa Beatrix dicit secundo
+capitulo Inferni {v. 102}: ^ch'io mi sedea con l'antica Rachele.~
+
+	|70-72.  Senza.~  Hic autor ostendit quomodo ad verba
+Bernardi factus avidus revidendi Beatricem, statim erexit visum
+sursum, et describit qualem viderit eam.  Unde dicit: |Io levai
+gli occhi su~, scilicet, intellectuales, |senza risponder~,
+scilicet illi seni.  Unde bene dicit Isaias: ^Sedebit solitarius
+et tacebit quia levavit se supra se.~  Si ergo Dantes jam se
+levaverat supra suam naturam, ut patuit capitulo praecedenti,
+ideo bene nunc tacens, contemplatur et orat; vel melius hoc
+fingit, ut ostendat suam intensam aviditatem versus Beatricem. 
+Et dicit: |e vidi lei~, scilicet, Beatricem, |che si facea
+corona~, scilicet, de radiis illius lucis aeternae; unde dicit:
+|riflettendo da s@e li eterni rai.~  Et bene fingit hoc, quia
+radii divini luminis reflectuntur et repraesentantur in sacra
+theologia.  
+
+	|73-78.  Da quella.~  Hic autor describit magnam
+distantiam quae erat inter eum et Beatricem per unam
+comparationem: et breviter vult dicere quod plus erat spatii ab
+eo ad Beatricem, quam sit ab infimiori parte terrae vel aquae ad
+superiorem partem illius mediae regionis aeris, in qua fiunt
+altius tonitrua.  Nunc ordina literam sic: |Alcuno occhio mortal
+qualunque s'abbandona pi@u gi@u in mar~, idest, in profundo maris
+existens, |non dista da quella regione~, idest, non est
+longinquus a media regione aeris in suprema parte, |che pi@u su
+tuona tanto quanto la mia vista~, supple, distabat, |da
+Beatrice.~  Et removet autor dubitationem tacitam, quia posset
+dici: quomodo ergo visus tuus poterat attingere ad Beatricem tam
+longe remotam et altam? respondet autor: |ma nulla mi facea~,
+idest, tanta distantia in nihilo impediebat videre meum, quia
+interdum non fit visio mediante aere sicut in terra; unde in
+terra non potest visus humanus extendi ultra proportionem
+obiecti, sive medii, quod est aer; in coelo vero secus est: unde
+dicit: |ch@e sua effige~, idest, quia eius imago, |non discendeva
+a me per mezzo mista.~  
+
+	|79-81.  O donna.~  Hic autor describit suam orationem ad
+Beatricem, in qua primo facit exordium, secundo narrationem,
+tertio conclusionem.  Dicit ergo primo ad captandam
+benevolentiam: |O donna in cui la mia speranza vige~, idest,
+viget circa bonum futurum, quia de praeterito tu liberasti me a
+poenis inferni; unde dicit: |e che soffristi lasciar le tue
+vestige~, scilicet, verbalia, non corporalia, |in inferno~,
+scilicet quando descendisti ad Virgilium, ut habitum est secundo
+capitulo Inferni {v. 58}, ubi dixit: ^O anima cortese mantovana~
+etc.  Et dicit: |per la mia salute~, quia scilicet ad salutem
+hominum theologia descendit de coelo in terram vitiosam, ubi est
+infernus viventium, moraliter loquendo, sicut plenius exposui
+praedicto capitulo secundo.  
+
+	|82-84.  Di tante.~  Hic autor facit suam narrationem, et
+profitetur suam gratitudinem.  Ordina ergo sic literam: |Io
+riconosco la grazia e la virtute di tante cose quant'io ho
+vedute~, scilicet, in inferno, purgatorio et paradiso; quia primo
+tu commisisti me curae Virgilii qui duxit me per infernum et
+purgatorium; deinde in recessu illius tu assumpsisti me et
+duxisti per paradisum.  Et dicit: |dal tuo podere~; nulla enim
+scientia habet tantam potestatem sicut sacra theologia, quae
+transcendit nonam speram, quod aliae facere non possunt, et
+ostendit invisibilia Dei; |e dalla tua bontate~, quia haec est
+illa sola scientia quae docet summum et incommutabile bonum.  
+
+	|85-87.~  Et subdit maximum bonum et singularissimum
+donum collatum sibi ab ea, dicens: |tu m'hai tratto di servo~,
+idest, de servitudine ignorantiae et vitiorum, |a libertate~,
+scilicet, scientiae et virtutum juxta illud: virtutes et
+scientiae liberaverunt animam a captivitate naturae: et dicit:
+|per tutte quelle vie, per tutt'i modi~, scilicet, metu poenarum
+et exhortatione praemiorum, |che avean potestate di far ci@o~,
+idest, quae viae et qui modi poterant liberare me a servitute. 
+
+	|88-90.  La tua.~  Hic autor facit suam petitionem
+Beatrici, et petit ut conservet sibi illud quod jam sibi
+magnifice condonavit, scilicet illam libertatem animae.  Unde
+dicit: |Tu custodi~, idest, conserva, |la tua magnifcenza in me~,
+et loquitur proprie quoniam magnificentia est in magnis sumptibus
+sicut liberalitas in parvis; et hoc fac usque ad finalem exitum
+vitae meae; unde dicit: |s@i che l'anima mia che fatta hai sana~,
+idest, quam sanasti ab infirmitate ignorantiae et vitiorum, quae
+duo maxime infirmant animam, et enervant: homo enim cum sit
+imperfectus tribus malis premitur, scilicet, ignorantia, vitio et
+indigentia; sed indigentia premit corpus; illa vero duo animam;
+|si disnodi dal corpo~, idest, separetur tempore mortis,
+|piacente a te~, quia scilicet fecerit mandata tua.  
+
+	|91-93.  Cos@i.~  Hic autor ponit effectum suae orationis;
+et breviter vult dicere quod Beatrix acceptavit gratitudinem et
+recognitionem autoris.  Unde continuans dicta dicendis, dicit:
+|Io orai cos@i~, scilicet secundum suprascriptam formam, |e quella
+s@i lontana, come parea, sorrise~, quasi gratulando gratitudinis
+meae, |e riguardommi~, ad confirmandum me in ista optima
+dispositione; et dicit: |poi si torn@o all'eterna fontana~,
+scilicet, ad contemplandam divinitatem, a cuius fonte scaturit
+omnis largitas gratiarum.
+
+	|94-99.  E 'l santo Sene.~  Ista est quarta et ultima
+pars generalis, in qua autor ostendit quomodo dictus Bernardus
+persuaserit sibi considerationem huius regni, ut posset facilius
+pervenire ad praesentiam regis, mediante gratia et favore
+reginae.  Et ad clariorem intelligentiam dicendorum est hic
+praenotandum, quod autor ductu Beatricis hucusque vidit omnes
+ordines beatorum et angelorum, et omnem formam paradisi in
+generali: nunc autem ascensurus ad tribunal aeterni regis non
+fidit nec praesumit posse pervenire ad illud nisi mediante
+intercessione Mariae: ideo elegantissime introducit beatum
+Bernardum, qui commendat eum isti reginae, ut dignetur eum licet
+immeritum, gratia sua juvare, ut possit suis intercessionibus ad
+hoc tribunal attingere; quoniam iste Bernardus fuit inter
+caeteros devotissimus istius clementissimae dominae.  Et bene
+fingit ipsum Bernardum missum ad se precibus Beatricis, tum quia
+fuit bonus doctor theologiae, ideo verus alumnus Beatricis; tum
+quia fuit maxime contemplativus, et Beatrix sedet in sede
+contemplationis.  Ad literam dicit autor primo, quod Bernardus
+persuasit sibi considerationem rosae, promittens sibi favorem
+Mariae.  Construe sic: |Il santo Sene~, scilicet venerabilis
+Bernardus, |disse, vola~, idest, velociter percurre et respice,
+|con gli occhi~, scilicet, intellectualibus, quo nihil est
+velocius, |per questo giardino~, idest, coelum empyreum, in quo
+sunt infiniti fiores diversorum colorum et odorum, et in quo sunt
+tot aves amoenissimae cantantes, ut patet jam ex dictis.  Et
+assignat rationem sui consilii, dicens, |ch@e veder lui~, idest,
+quia consideratio istius viridarii, |t'acconcer@a lo sguardo~,
+idest, habilitabit et acuet tuam speculationem, |al montar pi@u~,
+idest, altius, |per lo raggio divino~, idest, per radium lucis,
+qui descendit a puncto divinitatis, per cuius radii scalam te
+oportet ascendere ad illum ultimum gradum deitatis.  Et tangit
+ultimum finem suae ascensionis, dicens: |acci@o che tu assommi
+perfettamente il tuo cammino~, quasi dicat, ut feliciter
+perficias et finias longum iter, idest, discursum et processum
+tuae speculationis, et sic compleas tuum opus tot vigiliis
+elaboratum.  
+
+	|100-102.~  Et subdit promittens ei favorem Mariae,
+dicens: |e la regina del cielo, ond'io ardo tutto d'amor, ne far@a
+ogni grazia~, scilicet, quam peterimus; et ecce quare:
+|perocch'io sono il suo fidel Bernardo~, qui tantum fui suus
+devotus in vita quod ab ea obtinebam omnem gratiam justam; quanto
+magis nunc in regno eius?  Et est nomen conveniens rei; dicitur
+enim Bernardus, idest, bene redolens nardus, quae est arbor
+aromatica. 
+
+	|103-111.  Quale.~  Hic autor describit suam inspectionem
+in Bernardum per unam comparationem manifestam illis maxime, qui
+experti sunt hunc actum Romae videndo sudarium.  Vult enim
+breviter dicere quod ad caritativam persuasionem Bernardi, vel
+melius respiciebat caritatem ipsius Bernardi, vel respiciebat
+faciem Bernardi fixe cum tanta admiratione et dilectione, quanta
+sclavi respiciunt sudarium quando ostenditur Romae in ecclesia
+beati Petri.  Nunc ergo construe literam sic: |Io era tal mirando
+la vivace carit@a di colui~ scilicet, Bernardi, |che 'n questo
+mondo~, scilicet, vivens in carne, |gust@o di quella pace~, idest,
+praegustavit de dulcedine illius gloriae, |contemplando~;
+contemplatio enim est verus modus, quo homo existens adhuc in
+mundo loquitur cum Deo, et praevidet felicitatem quam sperat;
+|quale colui~, supple est, |che forse venne di Croazia~, quae est
+provincia in partibus Sclavoniae, |a veder la Veronica nostra~,
+idest, sudarium sive imaginem Salvatoris, quae vocatur Veronica a
+filia Constantini etc.  Et dicit; |che non si sazia~, scilicet,
+visione illius, |ma dice nel pensier~, scilicet, in mente sua,
+|finch@e si mostra: Signor mio Ges@u Cristo, Dio verace, or fu s@i
+fatta la sembianza vostra~? idest, an talis fuit imago et facies
+vestra?  Et est comparatio propria de imagine Christi, cuius
+visione homo repletur laetitia et stupore ad faciem ardentem
+Bernardi, qua non satiabatur visus autoris.  
+
+	|112-117.  Figliuol.~  Hic autor ponit exhortationem
+Bernardi ad se ut erigat visum ad superiora; unde dicit: |Egli~,
+scilicet Bernardus, |cominci@o~, supple, dicere mihi: |o figliuol
+di grazia~, idest, o Dantes electe et dilecte a Deo, per cuius
+gratiam tu ascendisti ad tam altam visionem, |questo esser
+giocondo~, idest, essentia et status istius regni gaudiosi, |non
+ti sar@a noto~, idest, non fiet tibi manifestum, |tenendo gli
+occhi pur quaggiuso al fondo~, idest, respiciendo et speculando
+tantam familiam inferiorem huius curiae; quasi dicat: non
+respicias tantum me et alios contemplantes, sed oportet te
+ascendere tantum cum visu quod videas reginam serenissimam et
+illustrissimam huius regni, quae ostendet tibi regem, ad quem
+videndum tu ascendisti laboriosissime istud regnum.  Unde subdit:
+|ma guarda i cerchi~, idest, gradus et sedes circulares foliorum
+rosae, in quibus sunt animae beatorum, |infino al pi@u remoto~,
+idest, ad supremum gradum reginae.  Unde dicit: |tanto che veggi
+seder la regina, cui questo regno @e suddito e devoto.~  
+
+	|118-123.  Io levai.~  Hic autor ostendit quomodo
+admonitus a Bernardo erexerit visum et viderit sedem reginae,
+quam describit per unam nobilem comparationem, quae breviter stat
+in hoc: quanto in principio diei, orto jam sole, pars orientalis
+est clarior quam occidentalis; tanto sedes illa Mariae erat
+clarior caeteris.  Nunc construe sic literam: |Io levai gli
+occhi~, scilicet, intellectuales, |e quasi andando di valle a
+monte con gli occhi~, quasi dicat: ascendendo cum speculatione ab
+imo ad summum rosae, |vidi parte~, scilicet, unam aliquam, |nello
+stremo~, scilicet, alto, ubi erat beata Virgo, |vincer di lume~,
+idest, claritate, |tutta l'altra fronte~, idest, totam aliam
+faciem rosae, a simili, |cos@i come la parte oriental
+dell'orizzonte soverchia~, idest, superat et vincit, |da
+mattina~, quando sol ascendit hemisperium nostrum, |quella dove
+'l sol declina~, idest, partem occidentalem, ubi sol facit suum
+occasum.  Et hic vide quantum praesens comparatio sit declarativa
+propositi: sicut enim pars orientalis nostri coeli est serenior
+et lucidior parte occidentali, quia plus et principalius recipit
+de lumine solis sensibilis, cui est vicinior; ita pars suprema
+coeli empyrei ubi est Maria, aurora mundi, est luminosior et
+splendidior reliqua parte, quia plus et principalius recipit de
+lumine solis aeterni cui est vicinior.  
+
+	|124-129.  E come.~  Hic autor ostenso per nobilem
+comparationem quomodo sedes Mariae tenet gradum supremum in rosa
+vincente lumine totum residuum; nunc ostendit per aliam
+comparationem nobiliorem, quomodo iste gradus supremus in alto
+tenet medium inter duas facies rosae, in quarum una sunt beati
+veteris Testamenti, in altera beati novi.  Et sententialiter in
+effectu autor vult dicere quod sicut pars media coeli, ubi est
+continuo via planetarum, est magis inflammata lumine solis, et
+partes collaterales, sicut meridiana et septemtrionalis, habent
+lumen remissius et tepidius; ita a simili cathedra Mariae, per
+cuius medium sol justitiae facit viam suam, est illustrata maiori
+lumine solis, et duae facies collaterales rosae deficiebant in
+splendore, sed erant plus et minus lucentes secundum quod erant
+plus et minus vicinae illi loco medio, ubi erat Maria: ergo si
+bene advertis comparatio non posset esse magis propria ad
+declarandum situm coeli empyrei.  Nunc ad literam descendamus,
+quae est sic construenda: |E quella oriafiamma~, idest, Maria
+flamma ignis aeterni et aurea, idest, perfecta, |pacifica~, quae
+fecit pacem, de tam longa guerra inter Deum et hominem,
+|s'avvivava nel mezzo~, idest, vivaciter accendebatur et
+splendebat radiis divini luminis, qui recta linea transibant per
+eam; et dicit: |ch'allentava la fiamma~, idest, lente emittebat,
+quia paullatim remittebatur et temperabatur secundum quod
+elongabatur, |per egual modo d'ogni parte~, idest, aequaliter
+hinc inde tam ab una facie beatorum, quam ab alia, quia utrinque
+erant locati propinquius et longinquius secundum merita
+personarum, ut declarabitur statim sequenti capitulo; et
+inflammabatur Maria magis aliis in illo medio, |cos@i come il
+lume~, scilicet solis, |pi@u s'infiamma~, idest, magis splendet,
+|quivi~, scilicet, in illa media parte coeli, scilicet in
+zodiaco, per quem currunt planetae, et strictius loquendo et
+magis proprie per lineam eclipticam, quae est per medium zodiaci,
+a qua numquam recedit sol; quod declarat litera sequens, dicens,
+|ove s'aspetta~, vel ^s'inspecta~, idest, inspicitur, |il temo~,
+idest, currus solis et cursus, |che mal guid@o Fetonte~, filius
+solis, de quo dictum est Inferni capitulo XVII et in Purgatorii
+cantica {4.72}, nescivit tenere viam rectam per eclipticam, sed
+excessit limites solitos.  Et dicit: |e il lume~, scilicet,
+solis, |si fa scemo~, idest, diminutum, |quinci~, scilicet, ex
+parte meridiei. 
+
+	|130-132.  Ed a quel.~  Hic autor describit festum
+celeberrimum, quod faciebant angeli coram gloriosa Virgine, quo
+gaudebant omnes beati illius curiae.  Dicit ergo: |E vid'io pi@u
+di mille angeli festanti~, idest, festum solemne celebrantes,
+|con le penne sparte~, idest, cum alis apertis, |a quel mezzo~,
+scilicet, magis luminoso ubi erat Maria; et dicit: |ciascun
+distinto e di fulgore e d'arte~, quia habent distinctionem in
+splendore et in officio secundum diversitatem gratiae et gloriae. 
+
+	|133-135.~  Et subdit mirabilem pulcritudinem quae
+nascebatur ex festivitate angelorum, dicens: |vidi~, etiam, |una
+bellezza ridere~, idest, florere et laetari, |a' lor occhi~ vel
+|giuochi~, idest, luminibus, |e a' lor canti quivi~, scilicet,
+coram Maria; et dicit: |che~, idest, quae pulcritudo, |era
+letizia negli occhi a tutti gli altri santi~, qui positi sub
+protectione Mariae contemplabantur Deum illa mediante.  
+
+	|136-138.  E s'io.~  Hic autor excusat se quod non potest
+exprimere excellentiam Mariae, et quia homo potest melius
+imaginari quam loqui ista divina; dicit quod etiam si haberet
+eloquium par imaginationi adhuc non praesumeret describere
+minimam particulam.  Dicit ergo: |e non ardirei di tentar il
+minimo di sua delizia~, idest, delitiosae beatitudinis Mariae,
+|s'io avessi tanta divizia in dir~, idest si haberem tantam
+copiam eloquutionis, |quanta in immaginar~, idest, quantam copiam
+habeo imaginationis.  
+
+	|139-142.  Bernardo.~  Hic ultimo autor claudens
+capitulum ostendit quomodo Bernardus videns autorem ita attentum
+ad amorem Mariae, erexit suam contemplationem ad eam, per quem
+actum recit autorem magis attentum et affectuosum.  Unde dicit:
+|Bernardo, come vide~, idest, quam cito perpendit, |gli occhi
+miei~, scilicet, intellectuales, calore inflammari et ardere,
+|fissi nel caldo suo calor~, idest, in amore Mariae, |et attenti,
+volse li suoi~, idest, erexit suos oculos, |a lei~, idest, ad
+Mariam, |con tanto affetto~, idest, tanta affectione et
+contemplatione, |che fee pi@u ardenti i miei~, scilicet, oculos,
+|di rimirare~, idest, contemplari.

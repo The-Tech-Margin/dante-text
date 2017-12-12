@@ -1,0 +1,153 @@
+	|Proemio.~  Incomincia il diciassettesimo chapitolo di Paradiso.
+
+	|1-30.~ 
+
+   ^Qual venne a Climen@e per raciertarsi~
+   ^di ci@o ch'avea incontro a ss@e udito~
+   ^que' ch'ancor fa i padri a' figli ischarsi.~
+
+Introdotto il nostro altore uno spirito a pparlare secho e a contare 
+l'antiche chase di Firenze.  Ora introducie il detto spirito a pparlare 
+con esso lui e di chiarire alchuna dubitazione e puotesi dividere 
+questo chapitolo in tre parti gienerali.  In questa prima parte per 
+modo di comperazione iscrive chome chomincia il chapitolo che a lui 
+incontr@o come a Fetonte finghono i poeti che Fetonte era figliuolo del 
+Sole e sua madre si @e Climene e venendo un d@i Fetonte a contenzione 
+con Epafo figliuolo di Jove e de Io Epafo si rinprover@o a Fetonte 
+ch'egli era bastardo e Fetonte mosso a ira se n'and@o a Climine sua 
+madre e si lli cont@o le parole ingiuriose che Epafo gli avea detto 
+bastardo non se figliuolo del Sole e ch'ella di ci@o il dovesse 
+ciertifichare della verit@a.  La madre gli rispuose e dissegli che 
+veramente egli era figliuolo del Sole e che s'e' pi@u chiaro ne voleva 
+essere ch'egli n'andasse a domandare il Sole suo padre.  Di che Fetonte 
+si mose e andossene in oriente al Sole e di ci@o il dimando.  E 'l Sole 
+gli rispuose che veramente egli era suo figliuolo e acci@o che ttu 'l 
+creda domanda qual grazia tu vuogli ch'io ti faccia e io te la far@o.  
+Rispuose che una grazia voleva da llui che un d@i voleva menare il 
+charro del Sole di che egli gliel'aconsent@i e non sappiendolo ghuidare 
+arse molte terre e ville e provincie e s@i ssi seccharono vignie e 
+fiumi pozzi e fonti e selve assai.  E dei intendere per Fetonte 
+figliuolo del Sole il chalore suo propio che ha e per Climene moglie 
+del Sole de' intendere l'umido radichale.  E perch@e antichamente 
+furono nel mondo grandi diluvi d'acque e di grandi incendii di chalori 
+finsono i poeti questa fizzione e per@o mette l'altore questa 
+comparazione che s@i chome Fetonte anco alla madre che 'l chiarisse ed 
+ella il mand@o al Sole chos@i a ssimile dicie l'altore ch'elli and@o a 
+Beatricie che 'l dovesse chiarire della sua dubitazione e Beatricie il 
+mand@o a quello spirito di messer Chacciaghuida e che a llui si dovesse 
+fare chiarire e questo @e il cominciamento di questo chapitolo 
+achatando benivolenza cos@i diciendo l'altore nel testo.
+
+   ^Mentre ch'i' era a Virgilio congiunto~
+   ^super lo monte che ll'anime chura~
+   ^e disciendendo nel mondo difunto.~
+
+Qui comincia l'altore a muovere quistione a questo ispirito e si gli 
+dicie che vorrebbe sapere il corso di sua vita e ch'egli gliele debba 
+chiarire conciosiachosach@e mentre ch'i' fu' con Virgilio per lo 
+Inferno e per lo Purghatoro trovai assai ispiriti che mmi anunziavano 
+assai di danno e di male e ch'io sarei chacciato di Firenze e ch'io 
+arei assai affanni e fatiche s@i cche di questo io vorrei sapere la 
+verit@a bench@e avegnia ci@o che vuole ch'io sono achoncio a sostenere 
+ogni affanno e di volgiermi a ogni modo chome piacier@a alla fortuna 
+chome fanno i triboli che sempre a ogni modo che si gittano in terra si 
+volghono cholla punta in suso.  E tutto questo era stato gi@a della sua 
+chacciata e degli altri cittadini di Firenze di sua parte biancha.
+
+	|31-99.~ 
+
+   ^Non per anbagie in che la gente folle~
+   ^gi@a s'invescava pria che fosse anciso~
+   ^l'Agnel di Dio che lle pecchata tolle.~
+
+In questa seconda parte l'altore fa che quello spirito gli risponda ma 
+no' gli rispuose nel modo che soleano rispondere al tempo anticho di 
+paghanesmo Appollo egli altri idoli ch'eglino adoravano a' quali eglino 
+andavano per le risponsioni di loro fatti i qual'idoli sempre 
+rispondevano doppio e intrighato eloichamente.  Imper@o che a ogni modo 
+che incontrasse loro mostravano aver detto la verit@a.  Ma dicie 
+l'altore che questo spirito non fecie chos@i a llui anzi che prima gli 
+rispondesse con chiara faccia e acchattata per una benivoglienza questo 
+spirito gli assolve la sua domanda cos@i diciendo
+
+   ^La contingienza che fuor del quaderno~
+   ^della vostra materia non si stende~
+   ^tutta @e dipinta ne l'aspetto esterno.~
+
+Qui comincia lo spirito a volere assolvere a Dante la sua domanda chome 
+dicie nel testo e dicie che della continenza di Dio eglino hanno e i[n] 
+llui veggiono tutti i nostri fatti che noi facciamo quaggi@u in questo 
+mondo e ancora quegli che debbono venire s@i cche bene ti posso 
+dichiarare del tuo dubbio e si tte lo dichiarer@o e si llo chomincia a 
+narrare per una similitudine cos@i diciendo lo spirito
+
+   ^Qual si part@i Ipolito d'Atene~
+   ^per la spietata e perfida novercha~
+   ^tal di Fiorenza partir ti conviene.~
+
+Per queste parole si dichiara lo spirito all'altore la sua domanda e 
+dicie che a llui inconterr@a chome al figliuolo di Teseo e questa si @e 
+la storia.  Teseo fu ducha d'Atene ed ebbe per moglie Fedra figliuola 
+del re Minosso la quale Teseo gli rap@i e anchora un'altra la quale 
+s'inamor@o di Teseo ed ella gl'insegni@o vinciere il minutario e 
+schampare da quella morte e poi lei lasci@o cio@e Adriana e menossene 
+l'altra cio@e Fedra pi@u bella e pi@u fanciulla poi questa Fedra 
+s'inamor@o d'Ipolito suo filiastro e figliuolo di Teseo e chiamato 
+Ipolito e costei richieggiendo di folle amore egli non volle 
+aconsentire di che ella isdegniata l'achus@o a tTeseo ed egli credendo 
+a llei isband@i il figliuolo che mai non torn@o in suo paese e altri 
+dicono che lo squart@o simile dicie questo spirito inconterr@a a tte 
+Dante che ttu sarai chacciato di Firenze e mai non vi ritornerai e 
+cos@i gli avenne e ffu nel MCCC anni.
+
+   ^Ma pria che 'l ghuasco l'alto Arrigho inghanni~
+   ^parran faville della sua vertute~
+   ^i[n] non churar d'argento n@e d'affanni.~
+
+Ancor predicie questo spirito che 'l suo refugio sar@a a Verona in 
+chasa di messer Bartolomeo Signior di Verona padre di messer Chane 
+della Schala del quale l'altore discrive assai delle sue prodezze e qui 
+ne toccha parte imper@o che a tempo di questo messer Chane mand@o papa 
+Chimento Arrigho imperadore della Magnia che venisse in Italia e venuto 
+che fu il papa s'acchord@o chol re Charlo Magnio e venuto Arrigho nollo 
+volle il papa acciettare anzi gl'incontr@o secondo il detto dell'altore 
+e per@o dicie male di loro che ancho che per la venuta che fecie fare 
+papa Bonifazio di Charlo Sanza Terra egli fu chacciato di Firenze una 
+mattina d'ognisanti nel MCCC anni.
+
+	|100-142.~ 
+
+   ^Poi che taciendo si mostr@o spedita~
+   ^l'anima santa di metter la trama~
+   ^in quella tela ch'io le porsi ordita.~
+
+In questa terza parte muove l'altore un'altra quistione al detto 
+spirito di messer Chacciaguido ed egli l'assolve.  La quistione @e 
+questa cos@i diciendo nel testo
+
+   ^Gi@u per lo mondo sanza fine amaro~
+   ^e per lo monte del chui bel chachume~
+   ^gli occhi della mia donna mi levaro.~
+
+Dicie l'altore allo spirito i' son ito per lo mondo dello Inferno e del 
+Purghatorio e del Paradiso e s@i ho vedute di molte chose e assai mali 
+e assai beni e per@o dimmi s'io dico male di coloro che nn'@e da ddire 
+imper@o ch'io no' ne so pigliare partito considerato s'io dico male di 
+chui si de' dire.  Io dicho male di papi e chardinali e inperadori e 
+altre gienerazioni di gienti il d@i che me ne potrebbe incontrare men 
+che bene e s'io taccio il vero temo di non fare male s@i ch'io non so 
+s'io mi dico o s'io mi taccio e per@o ti priegho che di questo mi 
+consigli.  Risponde all'altore questo santo spirito cos@i diciendo
+
+   ^La lucie in che ridea lo mie tesoro~
+   ^ch'io trovai l@i si fe' prima corusca~
+   ^quale a razzo di sole specchio d'oro.~
+
+Dicie questo spirito di messer Chacciaguida all'altore che di ci@o egli 
+non debba taciere di dire la verit@a acci@o ch'eglino se n'aveggino i 
+presenti e leggiendo i loro figliuoli e assegna questa ragione cos@i 
+diciendo
+
+   ^Che se lla vocie tua sar@a molesta~
+   ^nel primo ghusto vital nutrimento~
+   ^lascier@a poi quando sar@a digesta.~

@@ -1,0 +1,72 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id QAA13667
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 16:23:14 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id QAA08745
+	for <Stephen.Campbell@DARTMOUTH.EDU>; Sat, 9 Jan 1999 16:23:13 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 39407 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68014-1450>; Sat, 9 Jan 1999 16:23:02 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA21744
+	for <Stephen.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 16:22:50 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA03498;
+	Sat, 9 Jan 1999 16:22:45 -0500 (EST)
+Message-ID: <3697C8B5.8ABAB7A5@princeton.edu>
+Date: 	Sat, 09 Jan 1999 16:23:01 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+CC: bobh@phoenix.Princeton.EDU
+Subject: Re: Grandgent
+X-Priority: 3 (Normal)
+References: <199901071510.KAA09393@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> In C.ng/grandgent/inf and purg, there are large files named intro.s
+> and
+> intro.k. (They are currently compressed).
+> 
+> These files seem to contain commentary text, but they were not loaded
+> before.
+> I have not loaded them this time either. Can you figure out what they
+> are and
+> whether they should be loaded somewhere?
+> 
+>                                                         Steve
+
+Sorry you found those, as they've cost me hours of work.  Here is the
+story.  The Inferno one (intro.s) is huge: some 91 pp.  However, it
+contains a really very good general discussion.  How do you feel about a
+file this big being in the database?  My sense is that it won't get too
+many hits, being in English, and, on the other hand, will afford a
+really good place for an English-speaking user to go for basic info.  So
+I vote, assuming your assent, for inclusion.  Further: I will divide the
+file into two, which helps a little.  The first part is Introduction to
+Divine Comedy, the second is Introduction to Inferno.  They should be
+put up as the first and second entities in the Grandgent Inferno.
+
+The Purgatorio one (intro.k) is "only" 21 pp. or so.  It, too, is a very
+good intro. to Purg.  Unfortunately, it needed lots of editorial work,
+e.g., fixing hyphenated words.  I am a bit worried that the resulting
+line endings may have, on occasion, either a space too many or a space
+too few.  This file is "Introduction to Purgatorio" and should go first
+in the Purg. order.
+
+I assume there is/was a Paradiso one too, but we obviously didn't do it
+or lost it. No matter.  we'll live the way we are.
+
+And so I will send you three files: intrinf1.gra; intrinf2.gra;
+intrpurg.gra.
+
+Hope that's all clear.  And, remember, you may want to tell me it is not
+a good idea to include such lengthy files, even if I have edited
+them....  Best, Bob

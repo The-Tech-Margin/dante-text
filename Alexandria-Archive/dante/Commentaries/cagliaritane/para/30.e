@@ -1,0 +1,12 @@
+	|109.~  E come clivo.  et chi dice clino.  sono le pendici d'uno fiume 
+alte tucte vestite d'erba fiorita et nelle quali pendici specchiate da 
+l'acqua del chiarissimo fiume.  et ivi se v[e]ggiono [^o~ seggiono] a 
+letizia dei fiori de l'erbe verdissime de la chiarissim'acqua vedersi 
+cos@i ornate.
+
+	|142.~  E fia perfecto nella corte del cielo a lora tale.  ci@o pare 
+che voglia dire de quel papa clemente ch'era al tempo d'arigo 
+imperado[re] da (^sic~) esso papa clemente di guascognia et la sua 
+perfezione sarae ch'ei torrae il loco d'inferno a quel d'anagni 
+bonifazio.  in inferno sc[r]icto a 19 capitoli.
+

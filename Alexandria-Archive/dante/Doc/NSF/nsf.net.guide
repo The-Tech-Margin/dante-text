@@ -1,0 +1,311 @@
+From macdonal@NNSC.NSF.NET Fri Aug 28 14:51:53 1992
+Received: from NNSC.NSF.NET by dartvax.dartmouth.edu (5.65+D4/4.4HUB)
+	id AA02702; Fri, 28 Aug 92 14:51:35 -0400
+Message-Id: <9208281851.AA02702@dartvax.dartmouth.edu>
+From: NNSC - NSF Network Service Center <macdonald@NNSC.NSF.NET>
+To: Janet Sephens <siena@Dartmouth.EDU>
+Cc: dante@Dartmouth.EDU
+Cc: resource-guide@NNSC.NSF.NET
+Subject: Reminder to Please update Section 3.15 of the Internet Resource Guide
+Reply-To: resource-guide@NNSC.NSF.NET
+Date: Fri, 28 Aug 92 14:51:32 -0400
+Sender: macdonal@NNSC.NSF.NET
+Status: R
+
+
+Hello,
+
+We realize that this is a busy vacation time, but we would like to
+remind you that we have not received your updated section of the
+Internet Resouce Guide.  Please send us your update so we may include
+it in the revised Internet Resouce Guide.
+
+Attached below is a copy of the previous message we sent to you.
+
+Thank you for your assistance in this matter.
+
+Sincerely,
+
+Alanna MacDonald
+NSF Network Service Center (NNSC) Staff
+
+------- Forwarded Message
+
+From: Charlotte Mooers <nnsc@NNSC.NSF.NET>
+To: Janet Sephens <siena@dartmouth.edu>
+cc: dante@dartmouth.edu, resource-guide@NNSC.NSF.NET
+Subject: Please update Section 3.15 of the Internet Resource Guide
+Date: Fri, 17 Jul 92 16:04:57 -0400
+Sender: nnsc@NNSC.NSF.NET
+
+Your entry is
+
+Section 3.15  
+Dartmouth Dante Database
+
+A copy appears below.
+
+The NNSC (NSF Network Service Center) has begun a thorough-going
+update of the Internet Resource Guide.  We are asking our
+contributors to revise and update their entries in the Guide.
+
+We plan to produce a short version of the Guide as a companion to
+the present guide.  We will also continue the present format with the
+modifications noted below.
+
+For the Compact Internet Resource Guide, we are asking each
+contributor to prepare a ONE-LINER -- a summary containing only the
+most essential description of the Resource, in 72 characters or less.
+
+The Introduction to the Compact Guide will direct the user who wishes
+to learn more to the Resource Guide itself, and, at the contributor's
+option, to longer documents.
+
+Since you have a current entry in the Internet Resource Guide, 
+we include in this message:
+
+     *  A copy of your current entry.  Please update as required, and
+	keep it short -- no more than 2 or 3 pages.
+
+     *  A template for your revised entry.  Please note that we have
+        included three new headings:
+
+	o  Item (9) - The ONE-LINER, to be extracted for the
+	   Compact Internet Resource Guide.
+
+	o  Item (10) - One or more documents about the Resource,
+	   of any reasonable length, to be made available by the
+	   NNSC staff through anonymous FTP and the NNSC
+           Info-Server.
+
+	o  Item (11) - References to documents about the Resource
+	   to be made available by the Resource staff (NOT the
+           staff of the NNSC) through anonymous FTP or electronic
+           mail.
+
+The Internet Resource Guide has been very well received in the
+Internet community.  The Compact Guide should make it easier for
+users to get an idea of the Resources that are available, and
+encourage other Resource providers to contribute entries to the
+Guide.
+
+Thank you again for your contribution.  We hope you will help
+us improve and strengthen the Guide.
+
+- ---Charlotte Mooers
+   NNSC Internet Resource Guide
+
+
+*******************************************************************************
+
+HERE IS YOUR PRESENT ENTRY FOR THE INTERNET RESOURCE GUIDE
+
+This entry was formatted at the NNSC; please ignore the footnote
+and footers, and don't put underlines or footers in your
+submission--they will be added later!  A sample of the Compact
+Guide (with one-liners) will be available in the near future.
+
+       *********************************************************
+
+
+
+
+
+
+
+                  Dartmouth Dante Database
+
+
+Address:
+Dartmouth Dante Project
+1 Reed Hall, HB 6087
+Dartmouth College
+Hanover NH 03755
+
+Email: dante@dartmouth.edu
+
+Phone: (603)646-2633
+
+
+Description
+
+
+Network Access
+
+Domain name: dartmouth.edu
+Machine address: eleazar (or 129.170.16.2)
+
+Who Can Use the Database
+
+Anyone may access the database.  There are currently no fees
+connected with the service.
+
+A public demonstration account (ddpdemo) is  available,  and
+personal/institutional  accounts are available upon request.
+The database is accessible by direct modem  connection,  the
+Telenet network, or the Internet.
+
+Miscellaneous Information
+
+Janet Stephens (Administrator), siena@dartmouth.edu
+_________________________
+The information in this section is provided  in  accor-
+dance  with the copyright notice appearing at the front
+of this guide.
+
+
+
+
+April 5, 1990               NNSC       Section 3.15,  Page 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+April 5, 1990               NNSC       Section 3.15,  Page 2
+
+
+*******************************************************************************
+
+
+INTERNET RESOURCE GUIDE TEMPLATE
+
+ (1) Name of the Resource
+
+  Dartmouth Dante Database
+
+ (2) Postal Address
+
+  1 Reed Hall-HB6087
+  Dartmouth College
+  Hanover NH 03755
+
+ (3) E-mail Address
+
+  dante@dartmouth.edu
+
+ (4) Phone 
+
+  Phone: (603) 646-2633
+
+ (5) Description of Resource
+
+The Dartmouth Dante database contains 600 years of  line-by-
+line  commentary  to  Dante's  Divine Comedy, as well as the
+Petrocchi version of the poem  itself.   All  texts  are  in
+their  original languages (Italian, Latin, and English) with
+no translations.  Ancient commentaries have been parsed  for
+the  users'  convenience.   The  search  program utilized is
+BRS/Search.
+
+ (6) Network Access
+
+     Describe how to access the resource from the Internet.  Feel free
+     to include any additional methods of access such as dial-in,
+     public data networks, or special protocols.
+
+ (7) Who Can Use the Resource/Restrictions
+
+Anyone can use the database.
+
+ (8) Miscellaneous Information
+
+
+ (9) [NEW] SHORT ONE-LINE Description (no longer than 72 characters)
+
+     Try to make the first words categorize the Resource as quickly
+     and uniquely as possible so that your Resource can be readily
+     identified by searchers.  Example:
+
+     COSMIC software, NASA-funded. 1400+ programs. Free abstracts, searches.
+
+(10) [NEW AND OPTIONAL] Supplementary Documents on nnsc.nsf.net
+
+     One or more documents about the Resource, of any reasonable
+     length, to be made available by the NNSC staff through anonymous
+     FTP and the NNSC Info-Server.  You may send these as separate
+     messages.  If so, please include a separate copy of the STATEMENT
+     FROM CONTRIBUTOR (below).  Whether or not you send the documents
+     separately, you should include references to them here.
+
+(11) [NEW AND OPTIONAL] References Available on the Internet
+
+     References to documents about the Resource that are available (by
+     anonymous FTP or electronic mail) from the Resource host, or from
+     some other well-known source of documents on the Internet.  These
+     documents must be maintained by the Resource staff and NOT by the
+     staff of the NNSC.
+
+
+*******************************************************************************
+
+STATEMENT FROM CONTRIBUTOR:
+
+By completing and returning this template, I certify that I am authorized to
+submit this information for publication.
+
+     Name:  Janet V. Stephens
+     E-mail address: dante@dartmouth.edu
+
+     Please type in your name here -- The name of the person who has
+     supplied the information.  This name will not be included in the
+     Resource-Guide entry.
+
+
+------- End of Forwarded Message
+
+

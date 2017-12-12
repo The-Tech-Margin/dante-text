@@ -1,0 +1,237 @@
+	|2.~ |(ed.  Celani)~
+Un greve tuono, s@i ch'i' mi ^riscossi,~
+	^riscossi~
+
+	|7.~ |(ed.  Rosini)~
+^Proda~ per limitare.  [Sessa]
+
+	|(ed.  Celani)~
+Vero @e, che 'n su la ^proda~ mi trovai
+	^proda~
+
+	|9.~ |(ed.  Rosini)~
+^Tuono~, strepito.  Traslazione.  [Da Fino]
+
+	|(ed.  Celani)~
+Che ^tuono accoglie~ d'infiniti guai.
+
+	|11.~ |(ed.  Rosini)~
+^Viso~ per vista.  [Sessa]
+
+	|(ed.  Celani)~
+Tanto, che per ficcar lo ^viso~ al fondo,
+	^viso vista~
+
+	|13.~ |(ed.  Celani)~
+Hor discendiam qua gi@u ^nel cieco mondo,~
+
+	|19.~ |(ed.  Rosini)~
+Virgilio ha piet@a: non l'ebbe degli sciaurati.  [Giolito]
+
+^Ed egli a me: l'angoscia delle genti~ ec.
+	Nota che Virgilio impallidisce per la piet@a de' dannati: quella, che 
+concedendosi a tutti i peccatori, come si vedr@a nella coppia d'Arimino 
+e in Ciacco e in altri, si niega solamente ai fraudolenti, ove si dice: 
+<^Qui regna la piet@a, quando @e ben morta~> (c. XX v. 28).
+	E questo @e segno che solo la fraude sia sceleraggine.  [Sessa]
+
+	|(ed.  Celani)~
+Et egli a me: ^l'angoscia de le genti,~
+
+	|20.~ |(ed.  Celani)~
+Che son qua gi@u, ^nel viso mi dipigne~
+	^Virgilio ha piet@a, non l'hebbe degli sciaurati.~
+
+	|21.~ |(ed.  Rosini)~
+Quello che fa te temere, me muove a piet@a.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+^ma che~ ec. se non pianto di sospiri.  [Sessa]
+
+Pena di danno, non di senso.  ^Ma che~, se non che.  [Da Fino]
+
+	|(ed.  Celani)~
+Non ^havea pianto, ma che,~ di sospiri,
+	^ma che~
+
+	|28.~ |(ed.  Celani)~
+Et ci@o avenia di ^duol senza martiri,~
+
+	|30.~ |(ed.  Celani)~
+D'^Infanti,~ et di femine, et di ^viri.~
+
+	|33.~ |(ed.  Rosini)~
+^Andi~, vadi.  [Da Fino]
+
+	|(ed.  Celani)~
+Hor vo che sappi, inanzi che pi@u ^audi,~
+	^audi~
+
+	|34.~ |(ed.  Rosini)~
+^Ei~ nel numero del pi@u.  [Sessa]
+
+^S'egli hanno mercedi~, se @e stato perdonato loro.  [Da Fino]
+
+	|38.~ |(ed.  Rosini)~
+E questa fu idolatria.  Adunque dovrebbe punirsi nello Inferno.  [Da 
+Fino]
+
+	|42.~ |(ed.  Rosini)~
+Viviamo con desiderio di salute, ma senza speranza.  [Da Fino]
+
+	|43.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+Gran duol ^mi prese al cor,~ quando lo 'ntesi:
+
+	|45.~ |(ed.  Rosini)~
+<^Eran sospesi Io era tra color, che son sospesi~, (c. II v. 52).  
+Perch@e assegna l'esser sospeso al Limbo.  [Sessa]
+
+	|(ed.  Celani)~
+Conobbi, che 'n quel ^limbo eran sospesi~
+	^sospesi~
+
+	|47.~ |(ed.  Rosini)~
+^...  per voler esser certo Di quella fede~, per certificarsi di quello 
+che un credea.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+^Uscicci~: uscicci, trasseci (v. 55) per trassene e uscinne.  [Giolito]
+
+^Uscicci~: uscinne.  [Sessa]
+
+	|(ed.  Celani)~
+^Uscicci~ mai alcuno o per su' merto,
+	^uscicci~
+
+	|51.~ |(ed.  Rosini)~
+Perch@e intendea di parlar di Cristo.  [Da Fino]
+
+	|53.~ |(ed.  Rosini)~
+^Un possente~, Cristo.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^Trasseci~, per trassene.  [Sessa]
+
+Anima di Adamo.  [Da Fino]
+
+	|(ed.  Celani)~
+^Trasseci~ l'ombra del primo parente,
+	^uscivi e trasseci per uscinne e trassene.~
+
+	|59.~ |(ed.  Rosini)~
+Nati.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Israel con suo padre, et co' suoi ^nati~
+	^nati~
+
+	|64.~ |(ed.  Rosini)~
+^Dicessi~, terza persona.  [Sessa]
+
+	|(ed.  Celani)~
+Non lasciavam l'andar, ^perch'e dicessi;~
+
+	|65-66.~ |(ed.  Rosini)~
+^La selva~, ripigliamento.  [Da Fino]
+
+	|67.~ |(ed.  Celani)~
+Non era ^lung'ancor~ la nostra via
+
+	|68.~ |(ed.  Celani)~
+Di ^qua dal sommo;~ quand'i vid'un foco,
+
+	|69.~ |(ed.  Rosini)~
+^Emisperio~, mezza spera; ^vincia~, illuminava.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^O tu~, Virgilio.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+^Orranza~, onoranza.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+Piacciono a Dio le virt@u anche in quelli; onde anche nel Limbo hanno 
+vantaggio.  [Da Fino]
+
+	|80.~ |(ed.  Rosini)~
+^Poeta~, Virgilio.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Sembianza n@e trista, n@e lieta~, gravit@a.  [Da Fino]
+
+	|89.~ |(ed.  Rosini)~
+Orazio satiro.  [richiamo marginale] [Sessa]
+
+	|92.~ |(ed.  Rosini)~
+^Nel nome~, di poeta.  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+^Di quel signor~, Omero.  [Da Fino]
+
+	|(ed.  Celani)~
+Di quel Signor de ^l'altissimo canto,~
+
+	|96.~ |(ed.  Celani)~
+^Che sovra gli altri, com'aquila, vola.~
+
+	|98.~ |(ed.  Celani)~
+Volsersi a me con ^salutevol cenno;~
+
+	|102.~ |(ed.  Celani)~
+S@i, ch'i ^fui sesto tra cotanto senno.~
+
+	|105.~ |(ed.  Rosini)~
+Nel parlare si dee curare il loco.  [Da Fino]
+
+	|107.~ |(ed.  Rosini)~
+Cerchiato.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+^Sette volte cerchiato~ d'alte mura,
+
+	|112.~ |(ed.  Celani)~
+Genti v'eran ^con occhi tardi et gravi,~
+
+	|117.~ |(ed.  Celani)~
+S@i, che veder ^si poten~ tutti quanti.
+
+	|123.~ |(ed.  Rosini)~
+^Grifagni~, lucidi come di sparviero.  Qui si pu@o dubitare in che modo 
+Dante riconoscesse questi, ch@e non li avea mai visti; siccome non 
+conosce quelli del canto seguente.  [Da Fino]
+
+	|(ed.  Celani)~
+Cesar armato con gli ^occhi grifani.~
+
+	|124.~ |(ed.  Rosini)~
+^E la Pentesilea~.  L'articolo al nome proprio.  [Sessa]
+
+	|(ed.  Celani)~
+Camilla vidi, et la ^Penthesilea~
+
+	|128.~ |(ed.  Celani)~
+Lucretia, Giulia, Martia, et ^Corniglia,~
+
+	|129.~ |(ed.  Rosini)~
+Saracino nel Limbo.  [Sessa]
+
+	|131.~ |(ed.  Rosini)~
+Aristotele.  [Da Fino]
+
+	|132.~ |(ed.  Celani)~
+Seder tra ^Filosofica famiglia.~
+
+	|147.~ |(ed.  Rosini)~
+^Quia plura sunt negocia, quam verba~.  [Da Fino]
+
+	|148.~ |(ed.  Rosini)~
+La sesta compagnia.  [richiamo marginale]
+	Considera che gli sciagurati sono fuor dell'Inferno, onde pare che 
+devriano aver minor pena che ciascun dell'Inferno.  [Sessa]
+
+	|(ed.  Celani)~
+La ^sesta compagnia~ in due si scema.
+

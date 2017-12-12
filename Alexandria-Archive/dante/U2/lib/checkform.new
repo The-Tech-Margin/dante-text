@@ -1,0 +1,120 @@
+#	checkform.awk - awk program to check a Dante Project formatted file
+#		for consistency in indentation styles.  Checks for paragraphs
+#		that begin with spaces instead of tabs, indented sections
+#		that contain tabs instead of spaces, and indenting in
+#		inappropriate places.  Also attempts to warn of potential
+#		problems with single-line units.  A paragraph is considered
+#		to be a block of text separarated by at least one blank line on
+#		each side of itself.
+#	CAVEATS-1) This program writes its findings on stdout, so it is NOT a
+#			filter and should NOT be used to pipe its output
+#			anywhere except to collect the diagnostics
+#			in a file.
+#		2) This program will only run under "new awk", which is invoked
+#			by the command "nawk" and not "awk."  This caveat will
+#			disappear at some point when new awk becomes the real
+#			awk.
+#	Written 2/23/89 by JMA(with no assistance from anybody, so there!)
+
+BEGIN { FS = "\n" 
+	fname = FILENAME
+	print "Checking file " fname 
+	EOF = getline
+}
+{if (fname != FILENAME) {
+	fname = FILENAME
+	print "Checking file " fname 
+}}
+
+{
+if ( $0 ~ /^$/ && EOF == 1) {
+	if ( FNR == 1 || FNR > 2 ){
+	errmsg = "Multiple blank lines" 
+	printerr(errmsg,FNR)
+	while ( $0 ~ /^$/ && EOF == 1) {
+		printlines()
+	}
+checkrest()
+}}
+
+else if ( $0  ~ /^	/ ) {
+	firstline = $0
+	EOF = getline
+	if ($0 ~ /^	/ ) {
+		errmsg = "tabs used for indenting"
+		printerr(errmsg,FNR)
+		while ( NF != 0 && $0 ~ /^	/ ) {
+			printlines()
+		}
+		checkrest()
+	}
+	else if ( NF == 0 || EOF == 0 ) {
+		print "Warning: single line paragraph at line " FNR-1 
+		print ">>>" firstline ORS
+	}
+	else {
+		checkrest()
+	}
+}
+
+else if ( $0 ~ /^ +/ ) {
+	firstline = $0
+	EOF = getline
+	if ( $0 !~ /^[ 	]/ && NF != 0 ) {
+		errmsg = "Spaces used at head of paragraph"
+		printerr(errmsg,FNR-1)
+		print ">>>" firstline ORS ">>> " $0 ORS
+	}
+	else if ( NF == 0 || EOF == 0 ) {
+		print "Warning: Single line indent at line " FNR-1
+		print ">>>" firstline ORS
+	}
+	else { 
+		if ( firstline !~ /^     [^ ]/ ) {
+			errmsg = "First indent not five spaces"
+			printerr(errmsg,FNR-1)
+			print ">>>" firstline ORS
+		}
+		do {
+			if ($0 ~ /^	/ ) {
+				errmsg = "Tab used in indenting"
+				printerr(errmsg,FNR)
+				printlines()
+			}
+			if ($0 ~ /^[^ 	]/ ) {
+				errmsg = "Missing indentation"
+				printerr(errmsg,FNR)
+				printlines() 
+			}
+			EOF = getline
+		} while ( $0 !~ /^$/ )
+	}
+}
+
+else if ( $0 !~ /^[ 	]/ ) {
+	checkrest()
+}
+}
+
+function printerr(msg,num) {
+	print "Error at line " num ": " msg 
+}
+
+function printlines() {
+	print ">>>" $0
+	EOF = getline
+}
+
+function checkrest() {
+	while ( NF != 0 ) {
+		if ( $0 ~ /^([	 ]+)/ ) {
+			errmsg = "Spaces/Tabs used in paragraph"
+			printerr(errmsg,FNR)
+			do {
+				printlines()
+			}
+			while ( NF != 0 && EOF == 1 && $0 ~ /^[	 ]+/ ) 
+		}
+		else {EOF = getline}
+	}
+}

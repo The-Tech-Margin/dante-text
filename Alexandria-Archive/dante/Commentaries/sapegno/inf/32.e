@@ -1,0 +1,626 @@
+	|1.  S'io avessi~ ecc.: l'esordio, costruito a regola
+d'arte e con tutti gli espedienti di una consumata disciplina
+rettorica, serve soprattutto a creare uno stacco dalla materia
+dei canti precedenti e a introdurre il tono delle pagine che
+seguono, tra le pi$u mosse violente e drammatiche di tutto il
+poema.  La pausa, determinando uno stato di sospensione e di
+attesa, libera l'attenzione del lettore e la prepara a
+concentrarsi sullo spettacolo di una condizione disumana, o per
+meglio dire portata al limite dell'umano, nelle cose e nelle
+persone; in quell'estrema e rischiosa esplorazione del fondo
+dell'universo, che fa tutt'uno col fondo dell'animo, frugato e
+rivelato nelle sue pieghe pi$u tenebrose.  Intanto la dichiarata
+sfiducia nella sufficienza dei mezzi di cui dispone @e un modo di
+dar risalto alla coscienza dell'artista, nel punto in cui
+s'accinge ad affrontare un tema particolarmente arduo.  La doppia
+litote ("non @e impresa da prendersi a gabbo, n$e che possa
+trattarsi con una lingua infantile") illumina con sapiente
+contrasto, proprio la qualit@a estremamente grave e difficile
+dell'assunto, sottolineata anche dall'invocazione alle Muse e dal
+ricordo della miracolosa impresa di Anfione.  La formula
+dubitativa (|S'io avessi le rime...~) si risolve in una superba
+affermazione; perch$e, mentre mostra di dubitare della propria
+attitudine ad elaborarle, gi@a di fatto l'artista elabora i primi
+esempi delle forme |aspre e chiocce~, che si svilupperanno nel
+corso del canto, secondo il criterio stilistico qui
+indirettamente esposto, con grande ricchezza di rime rare e di
+vocaboli latineggianti, dialettali, tecnici, geografici, dalla
+rima equivoca dei vv. 59-61 fino al limite della rima
+onomatopeica del v. 30.  -- |aspre~: secondo il canone stabilito
+nel ^Conv.~, IV, ii, 13, a proposito della rima ^aspra e sottile~
+delle canzoni dottrinali: aspre, cio@e, <quanto al suono de lo
+dittato, che a tanta materia non conviene essere leno>, ed
+esplicitamente contrapposte al <soave stile... tenuto nel trattar
+d'amore>.  -- |chiocce~: stridule, rauche.  Cfr. ^Inf.~, VII, 1
+(e ^R.E.W.~, 2011).
+
+	|2-3.  al tristo buco~: al pozzo centrale dell'Inferno,
+sul quale gravitano, premono (|pontan~) tutti gli altri cerchi
+(|l'altre rocce~), anzi tutto l'universo creato.
+
+	|4.  premerei~: spremerei, esprimerei.  |Spremere~, nel
+senso di "esprimere", in ^Par.~, IV, 112.  -- |concetto~:
+concepimento, visione.  -- |suco~: succo, sostanza.
+
+	|5.  abbo~: ho.  Forma arcaica, che Dante usa soltanto
+qui (cfr. ^Bull. Soc. dant.~, III, 129).
+
+	|6.  tema~: timore.  -- |mi conduco~: mi induco, mi
+accingo.
+
+	|7.  a gabbo~: per ischerzo, alla leggera.
+
+	|8.  fondo~: il fondo, il punto centrale di tutto il
+cosmo; secondo l'astronomia tolemaica.  Cfr. Seneca, ^Herc.~,
+831: <iusserat mundi penetrare fundum>.  L'omissione
+dell'articolo era frequente, in espressioni consimili, nell'ital.
+antico.
+
+	|9.  n$e da lingua~ ecc.: <da esser presa da fanciullo e
+da chi abbia ingegno fanciullesco, ma da perfetto ingegno e con
+diligenzia> (Buti; e cfr. D'Ovidio, ^Studi dant.~, pp. 516-19). 
+Altri intende: "non @e tale che si possa tentarla colla lingua
+dell'uso quotidiano e popolare, <in qua et muliercule comunicant>
+(^Epist.~, X, 31), e cio@e con la ^locutio vulgaris~ in cui @e
+dettato il poema e con quelle parole umili, come |mamma~ e
+|babbo~, che <propter sui simplicitatem> sono dichiaratamente
+escluse dall'alto stile (^De vulg. eloq.~, II, vii, 4)".  A
+propendere per la prima spiegazione induce il confronto con la
+dichiarazione parallela di ^Par.~, XXXIII, 106-108.
+
+	|10-11.  quelle donne~: le Muse; che aiutarono Anfione,
+quando costru$i la cinta delle mura di Tebe, traendo col suono
+della sua lira i macigni dalle falde del monte Citerone (cfr.
+Orazio, ^Ars poet.~, 394-96; Stazio, ^Theb.~, X, 873 ss.).
+
+	|12.  s$i che~ ecc.: in modo che lo stile s'accordi con la
+materia rappresentata.  Canone a pi$u riprese affermato, e,
+sebbene in forma negativa, con terminologia identica, in ^Inf.~,
+IV, 147: <che molte volte al fatto il dir vien meno>.
+
+	|13.  mal creata plebe~: la feccia dei dannati. 
+L'apostrofe @e rivolta ai traditori, che popolano il nono cerchio
+e costituiscono la categoria pi$u bassa dei peccatori infernali. 
+|Mal creata~ ha press'a poco lo stesso valore che, altrove, ^mal
+nati~ (^Inf.~, V, 7; XVIII, 76; XXX, 48).
+
+	|14.  onde~: del quale.  -- |duro~: arduo e terribile. 
+Cfr. ^Inf.~, I, 4.
+
+	|15.  mei foste~ ecc.: meglio per voi se foste state nel
+mondo pecore o capre (|zebe~: cfr. ^R.E.W.~, 9617).  Il verbo @e
+accordato col predicato, invece che col soggetto.
+
+	|17.  assai pi$u bassi~: rispetto ai piedi del gigante.
+Il quale si deve supporre che stia coi piedi piantati su un alto
+gradino, ovvero sulla sommit@a di una scarpata, che corra lungo
+la parete esterna del pozzo.  Altri intende invece che Anteo ha
+deposto bens$i i due pellegrini ai suoi piedi, ma a una certa
+distanza, e perci@o |pi$u bassi~ per l'inclinazione del lago
+ghiacciato verso il centro.
+
+	|18.  mirava ancora~: quasi sbalordito ed incredulo
+d'aver superato cos$i agevolmente e senza danno un tale ostacolo. 
+Cfr. ^Inf.~, I, 26.
+
+	|19-21.  dicere udi'mi~: udii dirmi.  Non certo da Virgilio,
+come spiega il Torraca; ma da una delle ombre.  Che poi si tratti
+proprio, come intendono i pi$u, di uno dei due fratelli Alberti,
+di cui ai vv. 40 ss., non sembra verosimile (ad ogni modo Dante
+non stabilisce fra i due momenti del racconto una correlazione
+esplicita e anzi intromette fra l'uno e l'altro la descrizione
+abbastanza lunga del luogo e della condizione dei dannati).  E
+perci@o |de' fratei~ non significher@a: "di noi due, che fummo
+fratelli"; ma "di noi peccatori, che fummo pur uomini, come tu
+sei " (cfr. ^Inf.~, XIII, 37-39).        
+
+	|23.  un lago~: Cocito.
+
+	|24.  vetro~: cfr. il luogo delle ^Rime~, citato in nota
+al v. 123 del canto precedente.
+
+	|25.  s$i grosso pelo~: una cos$i grossa crosta di
+ghiaccio.
+
+	|26.  la Danoia~: il Danubio.  Cfr. Fazio degli Uberti,
+^Dittam.~, I, xxvii, 41.  -- |Osterlicchi~: Austria.  Dal tedesco
+^Oesterreich~ derivarono nell'ital. antico varie forme:
+^Austerric~, ^Osteric~, ^Sterlicchi~, oltre quella che qui Dante
+usa (cfr. Villani, ^Cron.~, VII, 27, 29, 42; Fazio degli Uberti,
+^Dittam.~, I, x, 44; II, xxix, 11; III, iii, 90; IV, ix, 64,
+ecc.).
+
+	|27.  Tana$i~: il Don (la Tana, lat. ^Tanais~; nel
+^Dittam.~, I, ix, 8 e 10, ^Danai~ e ^Tanai~).  -- |freddo cielo~:
+della Russia.
+
+	|28.  Tambernicchi~: <@e una montagna in Schiavonia, et
+@e altissima e tutta petrosa, quasi sanza terra, che pare tutto
+uno masso a vederla> (Anonimo fiorentino).  A un monte della
+penisola balcanica, ovvero dell'Ungheria o della Magna, rimandano
+quasi tutti i commentatori antichi (tranne il Buti, che parla di
+una cima dell'Armenia).  Si @e pensato di poterlo identificare
+nella Fruska Gora presso Tovarnik, o nel Iavornik non lungi da
+Postumia.  Il Torraca preferisce credere che si tratti della
+Tambura, nelle Alpi Apuane, indicata in antichi testi col nome di
+^Stamberlicche~; e starebbe benissimo accanto alla |Pietrapana~,
+o Pietra Apuana, l'attuale Pania della Croce, che appartiene allo
+stesso gruppo montuoso.
+
+	|30.  non avr$ia~ ecc.: non avrebbe scricchiolato, neppure
+all'orlo.
+
+	|31.  la rana~: cfr. ^Inf.~, IX, 76-78; XXII, 25-27.
+
+	|32.  quando sogna~ ecc.: nella prima estate, al tempo
+della mietitura.  Perifrasi, sul tipo di quelle di ^Inf.~, XXVI,
+26-28.
+
+	|34-35.  insin l@a~ ecc.: fino al viso, dove la vergogna
+suol manifestarsi col rossore.  L'inciso non determina |livide~,
+bens$i |eran... nella ghiaccia~; e tutta la frase @e da intendere:
+"le ombre dolenti, livide per il freddo, erano immerse nel
+ghiaccio fino al volto; col muso fuori come la rana".  -- Queste
+ombre sono i traditori dei parenti e occupano la prima delle
+quattro zone concentriche di Cocito, che, dal nome del primo
+fratricida, si chiama Caina (cfr. ^Inf.~, V, 107 e qui al v. 58).
+
+	|36.  mettendo~ ecc.: battendo i denti, con un rumore
+simile a quello che fa la cicogna col becco.  Cfr. Ovidio,
+^Metam.~, VI, 97: <crepitante ciconia rostro>.
+
+	|37.  Ognuna~ ecc.: questi peccatori della Caina <tengono
+la faccia volta in gi$u, pi$u che per vergogna e per non farsi
+riconoscere..., per dar modo alle lacrime di gocciar subito gi$u
+dai loro occhi, e per impedir cos$i che vi si congelino> (MESSERI,
+^Il c. XXXII dell'Inf.~, Firenze 1917, p. 14): privilegio non
+concesso ai traditori delle altre zone (cfr. ^Inf.~, XXXII,
+43-48; XXXIII, 94-99, 110-14).
+
+	|38-39.  tra lor~: tra quei dannati, in quel luogo.  --
+|testimonianza~ ecc.: si mostra, @e attestato.  Intendi: "mostrano
+il tormento del freddo dalla bocca, col batter dei denti, e il
+dolore interno dagli occhi, col pianto".
+
+	|41.  s$i stretti~: cos$i vicini fra di loro che, essendo
+posti l'uno di fronte all'altro, con i volti abbassati, i loro
+capelli venivano a confondersi.  Li unisce ancora, e per sempre,
+quel vincolo di sangue, che in vita, nonch$e ostacolare, inaspr$i e
+rese pi$u feroce la loro inimicizia: |stretti~, dunque, come
+spiega Benvenuto, <non... ex affectione vel dilectione..., sed ex
+amaritudine et acerbitate odii, quia sic se invicem strinxerunt
+quando se mutuis vulneribus interfecerunt>.  Anche questi due
+vanno insieme <alla vendetta... come all'ira> (^Inf.~, XXVI, 57);
+e questo nodo eterno di due anime, determinato da un odio che
+dura oltre la morte, si contrappone, con non diversa intensit@a
+drammatica, a quello che la passione e la colpa comune
+determinano in Paolo e Francesca, e preannunzia la tragica
+figurazione di Ugolino che rode il capo dell'arcivescovo Ruggeri.
+
+	|44.  piegaro i colli~: all'indietro, per guardare chi li
+interrogava.
+
+	|45.  li visi~: gli occhi.  -- |eretti~: alzati.
+
+	|46-48.  pur dentro molli~: bagnati di lacrime solo
+dentro.  -- |e 'l gelo strinse~ ecc.: i pi$u intendono: "il gelo,
+penetrando fra le palpebre, agli occhi, che prima erano riparati
+col tenerli rivolti in basso, ghiacci@o le lacrime che ancora vi
+si trovavano, chiudendo e saldando gli occhi con la forza di una
+spranga di ferro, che tiene avvinti due pezzi di legno".  Ma @e
+interpretazione che non persuade, perch$e con essa mal si
+giustifica lo scoppio dell'ira ai vv. 50-51; senza dire che
+lascia alquanto dubbiosi la necessit@a di spiegare |tra essi~ nel
+senso di "dentro di essi".  N$e pi$u convincente @e l'opinione del
+Porena, che, leggendo al v. 47 ^li labbri~, preferisce intendere
+che le lacrime, <fermandosi tra labbro e labbro, gelarono, e
+serrarono le labbra stesse>.  Assai pi$u intonata al complesso
+della situazione ci sembra invece la spiegazione del Casini: il
+freddo congel@o le lacrime <|tra essi~ i due fratelli e li
+ricongiunse l'uno all'altro, bocca a bocca>.  -- Da notare la
+violenza crescente della rappresentazione che esplode in un gesto
+bestiale; e, parallelamente ad essa, l'intensit@a sonora,
+anch'essa in crescendo, del linguaggio (|strinse~, |riserrolli~,
+^spranga~ {v.49}, ^becchi~ {v.50}, ^cozzaro~ {v.51}).
+
+	|50.  becchi~: montoni.  Cfr. Virgilio, ^Georg.~, II,
+526: <inter se adversis luctantur cornibus haedi>.
+
+	|51.  ira~: dispetto, rabbia.  L'atto del cozzare si
+spiega bene col contraccolpo dello sforzo che i due dannati
+compiono per distaccarsi, per spezzare quel contatto forzato e
+insopportabile dei loro due visi.  -- I due sono Napoleone e
+Alessandro, figli di Alberto degli Alberti, della famiglia
+comitale padrona di numerosi castelli nella val di Bisenzio e
+nella val di Sieve: <furono di s$i perverso animo che, per torre
+l'uno all'altro le fortezze che avevono..., vennono a tanta ira e
+a tanta malvagit@a d'animo, che l'uno uccise l'altro, e cos$i
+insieme morirono> (Anonimo fiorentino).  L'odio terribile era
+generato in parte da ragioni politiche (essendo Napoleone
+ghibellino e Alessandro guelfo), ma pi$u da contese private
+relative alla divisione dell'eredit@a paterna.  Napoleone, a cui
+il padre aveva lasciato solo la decima parte dei suoi beni, gi@a
+prima del 1259 s'era preso con la violenza parte del retaggio
+spettante ai fratelli, ma era stato costretto, per l'intervento
+del comune fiorentino, a restituire il castello di Mangona (cfr.
+Villani, ^Cron.~, VI, 68); nel 1279 il cardinal Latino indusse i
+due fratelli a far pace, ma ben presto le ire divamparano pi$u
+aspre (cfr. SANTINI, ^Quesiti e ricerche di storiografia
+fiorentina~, p. 113); nel 1286 era gi@a stato compiuto il duplice
+fratricidio, seguito dall'uccisione di Orso, figlio di Napoleone,
+per mano di Alberto, figlio di Alessandro (cfr. BARBI, ^Probl.~,
+I, 243, 297-99).
+
+	|53.  pur col viso in gi$ue~: seguitando a tenere il viso
+abbassato.  |Gi$ue~, con l'epitesi consueta dell'|e~.
+
+	|54.  cotanto~ ecc.: ci fissi con tanta insistenza, come
+se ti guardassi in uno specchio.  Pi$u sottile la spiegazione del
+Torraca (col quale s'accorda in sostanza il Vandelli): <il lago
+ghiacciato pare un immenso specchio (cfr. v. 24), e le anime vi
+stanno in modo che chi, ritto in piedi, le guarda, deve chinare
+gli occhi come per specchiarsi>.
+
+	|56.  si dichina~: scende.
+
+	|60.  in gelatina~: <in istam glaciem gelatam>
+(Benvenuto).  Gi@a qualche commentatore antico d@a all'espressione
+il valore di uno scherzo cinico e feroce; cos$i il Buti: <anime
+fitte nella ghiaccia, come li polli nella gelatina> (e la frase
+torner@a, in senso faceto, nel Pulci, ^Morg.~, XXII, 104):
+opinione che trova conforto nell'intonazione non diversamente
+sarcastica del v. 117.
+
+	|61.  non quelli~ ecc.: <L'enumerazione che segue, di
+ospiti della Caina, @e introdotta artificiosamente> (Rossi); ma la
+foga della denunzia e il cinismo con cui il dannato dichiara il
+suo nome si intonano all'atmosfera irosa dell'ambiente, nascono
+da un sentimento misto di cruccio e di vergogna.  -- |quelli a
+cui fu rotto~ ecc.: @e Mordret o Mordrec, personaggio del romanzo
+di Lancillotto; figlio, o nipote, di re Art$u, tent@o di ucciderlo
+e togliergli il regno; ma <il re il pass@o per lo petto d'una
+lancia dall'uno lato all'altro, et al trarre della lancia il sole
+pass@o per la fedita, s$i che ivi si ruppe l'ombra del corpo>
+(Anonimo fiorentino).
+
+	|62.  con esso un colpo~: con un solo, con il medesimo
+colpo.
+
+	|63.  Focaccia~: Vanni dei Cancellieri, detto Focaccia,
+della nota famiglia pistoiese di parte Bianca.  Le ^Storie
+pistoresi~ dicono di lui che <era prode e gagliardo molto di sua
+persona> e <none attendea ad altro che a uccisioni e ferite>; e
+riferiscono alcuni di questi suoi misfatti, in particolare come
+uccidesse a tradimento il cugino Detto dei Cancellieri, mentre
+questi entrava <in una bottega d'uno che gli facea un farsetto di
+zendado> (cfr. BARBI, ^Probl.~, I, 299-300).  -- |m'ingombra~:
+m'impedisce.
+
+	|65-66.  Sassol Mascheroni~: <fu de' Toschi da Firenze; e
+avendo uno suo zio vecchio, ricco uomo, che non avea altro che
+uno fanciullo, pens@o, se io uccido questo fanciullo, rimarr@o
+reda di questo mio zio.  Stette pi$u tempo di fuori, poi un d$i
+cautamente si mosse con alcuno compagno, e fatto lusingare il
+fanciullo, il men@o fuori della terra, e ivi l'uccise, e
+sconosciuto si part$i: non si sapea chi morto l'avesse.  Torn@o
+Sassolo d'ivi a uno tempo a Firenze, giugne a casa, fa lo
+scarpore grande di questo suo cugino, e prese il reditaggio del
+zio ch'era gi@a morto.  Infine il fatto si scoperse; fu preso
+costui e, confessato il malefizio, fu messo in una botte d'aguti
+e fu strascinato rotolando la botte per la terra e poi gli fu
+mozzo il capo.  Fu questa novella s$i palese, che per tutta
+Toscana se ne parl@o; e per@o dice l'auttore: se tu se' di
+Toscana, tu il dei sapere> (Anonimo fiorentino).  Il fatto di
+cronaca @e narrato, con poche e non sostanziali varianti, da
+tutti i commentatori antichi.
+
+	|67.  non mi metti~ ecc.: non mi infastidisca con altre
+domande.
+
+	|68.  il Camicion~: Alberto Camicione dei Pazzi di
+Valdarno, che uccise un suo congiunto, Ubertino: <perocch$e
+avevano certe fortezze comuni come consorti; Camicione pens@o di
+pigliarle per s$e, morto messer Ubertino; cos$i cavalcando gli
+corse addosso con uno coltello, e di@egli pi$u colpi, e finalmente
+l'uccise> (Anonimo fiorentino).
+
+	|69.  Carlin~: Carlino dei Pazzi di Valdarno, tenendo per
+conto dei fuorusciti Bianchi il castello di Piantravigne con
+molti armati, lo diede in mano nel luglio 1302 ai Neri fiorentini
+che lo assediavano; molti degli esuli <vi furono morti e presi>
+(Villani, ^Cron.~, VIII, 53; Compagni, II, 28), mentre egli
+otteneva, in cambio del suo tradimento, il rimpatrio e un
+compenso in denaro (cfr. DAVIDSOHN, ^Forschung.~, IV, 388).  --
+|mi scagioni~: faccia apparire, con la sua, meno grave la mia
+colpa.  Come traditore politico, Carlino andr@a pi$u in basso di
+Camicione, nella seconda, anzich$e nella prima, zona di Cocito.
+
+	|70.  Poscia~: passando al secondo girone del cerchio,
+l'Antenora (cfr. v. 88), dove son puniti i traditori della patria
+o della parte.  Sono anch'essi immersi nel ghiaccio fino al capo,
+ma, a differenza degli ospiti della Caina, portano il volto
+eretto.  -- |cagnazzi~: <lividi> (Buti), paonazzi: cfr. v. 34. 
+Il senso di |cagnazzo~ si pu@o dedurre da alcuni degli esempi pi$u
+antichi del vocabolo; Boccaccio, ^Decam.~, VIII, iv, 22;
+Sacchetti, ^Nov.~, XCII, dove certamente indica una sfumatura di
+colore, accostata rispettivamente al verde e al giallo, e al
+verde e sbiavato (cfr. anche ^Studi dant.~, I, 142-43).
+
+	|71-72.  riprezzo~: i pi$u intendono, in senso traslato,
+"orrore, spavento"; ma niente impedisce di dare alla parola il
+significato proprio (cfr. ^Inf.~, XVII, 85, dove |riprezzo~ @e in
+rima, come qui, con ^rezzo~ {v.75} e ^mezzo~ {v.73}):
+"rabbrividisco, ogni volta che mi accade di vedere uno stagno
+gelato, al pensiero del brivido che provai allora" (cfr. v. 75). 
+-- |guazzi~: acquitrini, stagni.  Cfr. ^Inf.~, XII, 139.
+
+	|73.  lo mezzo~: il centro della terra, e del cosmo, al
+quale tendono tutti i gravi.  Cfr. ^Inf.~, XXXIV, 111.
+
+	|75.  nell'etterno rezzo~: nel gelo tenebroso di quella
+plaga infernale.  |Rezzo~ (cfr. ^Inf.~, XVII, 87; e ^Purg.~, I,
+123; XXIV, 150) @e uno dei molti derivati di ^aura~, ^#ora~,
+ristrettosi al concetto di "luogo in ombra, ventilato e freddo"
+(v. ^R.E.W.~, 794).
+
+	|76-78.  se voler~ ecc.: non so se l'abbia fatto di
+proposito, o per volont@a della Provvidenza, o per caso fortuito. 
+L'origine del gesto @e lasciata, volutamente, in una luce ambigua
+e maliziosa; ma l'atteggiamento sprezzante e polemico del
+pellegrino gi@a s'illumina nel tono d'indifferenza sdegnosa
+dell'inciso |passeggiando tra le teste~, nella fredda violenza
+della frase |forte percossi il pi@e nel viso~, che prende risalto
+dallo stacco netto di ogni parola e dalla collocazione anticipata
+dell'avverbio.  Sotto l'apparente oggettivit@a della narrazione,
+si viene scoprendo a poco a poco (preparata d'altronde dalle
+scene che immediatamente precedono) l'ispirazione crudele a cui
+si intoner@a l'episodio di Bocca degli Abati; che @e tra le pagine
+pi$u sconcertanti di tutto il poema, non tanto perch$e il poeta vi
+lasci trasparire un fondo istintivo, come si dice, di medievale
+ferocia, quanto perch$e in nessun luogo forse, come qui, egli
+sottolinea con maggior energia quella coincidenza piena fra la
+sua <vendetta> e il suo personale senso della giustizia e la
+^terribil arte~ della vindice giustizia divina.  Tutte le varie
+fasi della rappresentazione di Cocito devono esser valutate nel
+ritmo di una concezione unitaria: il poeta, attraverso una serie
+di scene e figurazioni in apparenza disgiunte, reca a poco a poco
+fino al limite la situazione crudele, perch$e da quel fondo di
+estrema crudezza prenda risalto la piet@a della storia di Ugolino,
+e di rimbalzo, da quella piet@a (in cui s'illumina l'infinito
+abisso dell'umana cattiveria) rinasca, pi$u fermo e convinto,
+l'assenso alla norma di un castigo eterno, tanto pi$u giusto
+quanto pi$u ci appare spietato e inflessibile.
+
+	|79.  sgrid@o~: grid@o forte con accento di rimprovero. 
+Cfr., in una situazione analoga, ^Inf.~, XVIII, 118.
+
+	|80.  a crescer~ ecc.: a render pi$u grave la pena che mi
+@e assegnata per la colpa che commisi a Montaperti.  L'espressione
+@e generica, ma sufficiente a determinare in Dante il sospetto,
+che poi gli sar@a confermato (v. 106), circa l'identit@a del
+personaggio.  -- All'inizio della battaglia di Montaperti, Bocca
+degli Abati, che combatteva nel campo guelfo, tagli@o con la sua
+spada la mano di Iacopo Nacca de' Pazzi, <il quale tenea la
+'nsegna del comune di Firenze; e veggendo i cavalieri e 'l popolo
+la 'nsegna abbattuta e 'l tradimento, si misono in isconfitta>
+(Malispini, ^Cron.~, 171; Villani, ^Cron.~, VI, 78).  Durante gli
+anni del governo ghibellino, Bocca ader$i al partito vincitore; e
+dopo la riscossa guelfa del '66, fu bandito.  -- Pi$u ancora delle
+conseguenze del gesto di Bocca, in quanto lo toccavano
+personalmente come cittadino, e come uomo (cfr. ^Inf.~, X, 48,
+85), a Dante doveva parer particolarmente odiosa la turpitudine
+del gesto in s$e: da ogni pagina di questi due canti XXXII e
+XXXIII deve scaturire risoluta la condanna, non gi@a di questa o
+quella parte politica, ma dei metodi e delle forme di tutta la
+politica dell'et@a comunale, vista e giudicata nel suo complesso.
+
+	|83.  per costui~: riguardo a costui.
+
+	|84.  quantunque~: quanta.  @E aggettivo riferito a
+|fretta~: cfr. ^Inf.~, V, 12.
+
+	|85.  stette~: si ferm@o.
+
+	|86.  bestemmiava~: imprecava.
+
+	|87.  altrui~: il pron. indeterminato designa una persona
+determinata (qui Dante), come in ^Inf.~, VIII, 89; XXVII, 56; e
+anche qui, v. 89.
+
+	|88.  Or tu~ ecc.: il tono della replica @e nel tipo ormai
+noto della tecnica drammatica del poeta (cfr. per es., ^Inf.~,
+VIII, 33 ss.; XXX, 109 ss.).  -- |Antenora~: il secondo girone
+del nono cerchio prende il nome da Antenore, l'eroe troiano, che
+in Omero @e rappresentato come un principe saggio e eloquente, che
+tenta ad un certo punto di persuadere i suoi a restituire Elena e
+far la pace coi Greci: donde forse la leggenda, gi@a registrata
+nelle glosse di Servio (^ad Aen.~, I, 242) e poi diffusissima nel
+medioevo, che egli tradisse la patria consegnando ai nemici il
+Palladio e aprendo gli sportelli del cavallo di legno.
+
+	|90.  se fossi vivo~: si pu@o intendere: "se anche tu
+fossi vivo (e non un'ombra), la tua percossa sarebbe stata troppo
+forte"; oppure: "se io fossi vivo, non sopporterei
+quest'ingiuria, mi sarei gi@a vendicato".  La prima
+interpretazione suona ovvia, ma altrettanto scialba; la seconda
+comporta un pi$u intenso rilievo drammatico, ed @e quindi da
+preferirsi: <all'antitesi dei due ^altrui~ {vv.87-89}, che sono
+in sostanza due ^me~, corrisponde efficacissima l'antitesi di
+questo ^io~ a quello del v. 91: "se io fossi vivo" dice Bocca;
+"vivo son io", rimbecca Dante> (Rossi).
+
+	|92.  dimandi~: desideri.
+
+	|93.  tra l'altre note~: fra gli altri ricordi di questo
+viaggio, che io vengo segnando nel libro della memoria.
+
+	|94.  Del contrario~: dell'opposto della fama, cio@e
+dell'oblio.
+
+	|95.  quinci~: di qui.  -- |lagna~: fastidio. 
+Propriamente: "motivo di lagno".
+
+	|96.  mal sai~ ecc.: queste tue lusinghe, fondate su una
+promessa di fama, quaggi$u non servono a nulla.  Per i traditori,
+l'esser ricordati nel mondo non pu@o essere che rinnovamento e
+accrescimento d'infamia; perci@o essi preferiscono tacere di s$e e
+della propria colpa e, se parlano, @e piuttosto per denunziare il
+nome di altri, o per malignit@a istintiva, come Camicione, o per
+dispetto, come Bocca, o per odio, come Ugolino.  -- |lama~: cfr. 
+nota a ^Inf.~, XX, 79: qui vale, come dice il Buti, <luogo
+pendente>; bassura, dove le acque ristagnano.
+
+	|97.  cuticagna~: <la chioma dei capelli, che @e nella
+collottola> (Buti).  La parola, che @e del linguaggio umile e
+suona pertanto fortemente realistica, prende rilievo anche dai
+due accenti metrici principali che cadono sulla prima e terza
+sillaba (rispettivamente, ottava e decima del verso).
+
+	|100.  Perch$e~: per quanto.
+
+	|101.  n$e mosterrolti~: n$e te lo mostrer@o.  "Alzando il
+viso", spiegano di solito i commentatori; ma Dante aveva gi@a
+avuto modo prima di scorgere il volto del dannato, n$e avrebbe
+potuto dal volto riconoscerlo, non avendolo mai visto da vivo. 
+|Mostrare~ qui sta dunque per "rivelare": la forma metatetica
+|mosterr@o~ era poi frequente nell'italiano antico.
+
+	|102.  se mille~ ecc.: se anche mi cadi, mi ti getti
+addosso con tutto il tuo peso mille volte.  Per |tomare~, cfr.
+nota a ^Inf.~, XVI, 63.
+
+	|105.  latrando lui~: ablativo assoluto: "mentre egli
+latrava, urlava".  -- |in gi$u raccolti~: ostinatamente rivolti in
+basso.  <La violenza si accompagna con la maest@a del giustiziere:
+chi colpisce @e il ministro della giustizia, il vindice della
+rettitudine; e quanto pi$u Bocca @e simile ad una belva, tanto pi$u
+risplende l'umanit@a forte di Dante> (Momigliano).
+
+	|107.  sonar~: battendo i denti (cfr. v. 36).
+
+	|110.  alla tua onta~: per la tua infamia e a tuo
+dispetto.
+
+	|111.  vere novelle~: notizie certe.  Se ancora si dubita
+nel mondo del tradimento di Bocca (e la fama di esso doveva
+essere bens$i diffusa, ma non confortata da prove sicure, se nel
+'66 i Guelfi vittoriosi si limitarono, come s'@e visto, a bandirlo
+da Firenze), ogni dubbio dovr@a essere eliminato dalla
+testimonianza del poeta.
+
+	|113.  se tu~ ecc.: se @e vero che tu possa uscire di qui. 
+|Eschi~, "esca", @e forma popolare, come ^dichi~, ^vadi~, ecc.
+
+	|114.  pronta~: lesta a chiacchierare.
+
+	|115.  piange~: sconta la pena.  Cfr. nota a ^Inf.~,
+VIII, 36.  -- |l'argento~ ecc.: il denaro ricevuto dai Francesi
+(|argento~, per "denaro", anche in ^Par.~, XVII, 84; ed il
+gallicismo ha qui probabilmente un colore ironico).
+
+	|116.  quel da Duera~: Buoso di Dovera o Dovara, signore
+di Cremona, fino al 1267, insieme con Uberto Pallavicino; nel
+1265, incaricato da Manfredi di opporre resistenza in Lombardia
+all'esercito di Carlo d'Angi@o si lasci@o comperare dal denaro dei
+Francesi, e permise loro che passassero <sanza contasto di
+battaglia> (Villani, ^Cron.~, VII, 4).
+
+	|119-120.  quel~ ecc.: Tesauro dei Beccaria, pavese,
+abate di Vallombrosa e legato del papa Alessandro IV in Toscana. 
+Dopo la cacciata dei Ghibellini nel 1258, fu imprigionato dai
+Fiorentini, <essendoli apposto che a petizione de' Ghibellini
+usciti di Firenze trattava tradimento>, e fu decapitato (Villani,
+^Cron.~, VI, 65).  Che egli veramente congiurasse con i nemici
+del comune ha dimostrato il DAVIDSOHN, ^Geschichte von Florenz~,
+II, i, 472-74, e delle prove del tradimento, ricavate dalla
+confessione resa dal colpevole, discorre Brunetto Latini, nella
+lettera scritta a nome della signoria e indirizzata al comune di
+Pavia (cfr. MAGGINI, ^La Rettorica di B. L.~, Firenze 1912, p.
+77).
+
+	|121.  Gianni de' Soldanier~: fiorentino di famiglia
+ghibellina, che nella sommossa del novembre 1266 trad$i la sua
+parte e, come narra il Villani, <si fece capo del popolo per
+montare in istato, non guardando al fine, che doveva riuscire a
+sconcio di parte ghibellina e suo dannaggio> (^Cron.~, VII, 14). 
+Lo stesso Villani per@o, in un altro capitolo della sua opera
+(XII, 44) d@a del Soldanieri benevolo giudizio, ponendolo, con
+Giano della Bella, Vieri dei Cerchi e lo stesso Dante, fra i
+cittadini benemeriti contro i quali s'era rivolta l'ingratitudine
+del popolo di Firenze.
+
+	|122-123.  Ganellone~: Gano di Maganza (franc. ^Guenes~,
+^Guenelon~; lat. ^Ganelo~).  @E il tipo del traditore nei poemi
+del ciclo carolingio; a cominciare dalla ^Chanson de Roland~,
+dove figura come il principale autore dell'agguato di
+Roncisvalle.  -- |Tebaldello~: de' Zambrasi, di Faenza.  Per
+vendicarsi di una beffa fattagli da alcuni bolognesi della parte
+Ghibellina dei Lambertazzi, rifugiatisi in Faenza, consegn@o a
+tradimento la patria ai bolognesi guelfi, e cio@e alla fazione dei
+Geremei, all'alba del 13 novembre 1280.  Il fatto @e narrato con
+molti particolari nel noto sirventese sulle lotte civili di
+Bologna, della fine del Due o dei primi del Trecento (cfr. F.
+PELLEGRINI, ^Il Serventese dei Geremei e dei Lambertazzi~,
+Bologna, 1892).  Tebaldello mor$i due anni pi$u tardi a Forl$i,
+nella battaglia di cui @e cenno in ^Inf.~, XXVII, 44.
+
+	|124.  partiti~: allontanati.  -- |da ello~: da lui (cfr.
+^Inf.~, III, 27); da Bocca.
+
+	|125.  io vidi due~: @e la formula consueta, che apre un
+episodio di maggior estensione e rilievo staccandolo nettamente
+dal corpo della narrazione.  Ma la scena che ora si presenta agli
+occhi del pellegrino @e in realt@a tutta immersa nell'atmosfera di
+drammatica violenza delle pagine che precedono e anzi ne esaspera
+fino all'estremo limite la vena crudele della materia e dei modi
+stessi della rappresentazione.
+
+	|125.  in una~: in una medesima.
+
+	|126.  l'un~ ecc.: il capo dell'uno stava sopra quello
+dell'altro, come un cappello.
+
+	|127.  come 'l pan~ ecc.: con l'avidit@a con cui
+l'affamato addenta il pane.  L'immagine, naturalissima, d@a
+risalto al tono freddo e oggettivo della rappresentazione.  --
+|manduca~: cfr. ^Rime~, CIII, 32.  <La forma piena e originaria @e
+usata da Dante in rima per ottenere un preciso effetto di
+energia> (Contini).
+
+	|128.  'l sovran~: quello che stava sopra.
+
+	|129.  l@a 've~ ecc.: dove il cervello si congiunge con la
+colonna vertebrale.  |Nuca~ @e, nella terminologia medica del
+tempo, il midollo spinale (cfr. NARDI, ^Nel mondo di D.~, Roma
+1944, pp. 249-57).
+
+	|130.  Tideo~: uno dei sette re che ^assiser Tebe~. 
+Racconta Stazio che, dopo esser stato ferito a morte dal tebano
+Menalippo, riusc$i a vendicarsi uccidendolo, e, chiesto ai
+compagni che gli recassero il capo del nemico, cominci@o, sebbene
+moribondo, a roderlo ferocemente (cfr. ^Theb.~, VIII, 732-66).
+
+	|132.  l'altre cose~: il cervello, le carni.
+
+	|134.  ti mangi~: come prima ^si rose~ {v.130}, ha un
+valore intensivo, ad esprimere l'avidit@a che si manifesta
+nell'atto e la volutt@a che vi pone chi lo compie.
+
+	|135.  per tal convegno~: a questo patto.
+
+	|136.  a ragion~: a buon diritto.  -- |ti piangi~: ti
+duoli, ti lagni.
+
+	|137.  sappiendo~: sapendo; quando avr@o saputo.  Forma
+arcaica d'uso comune.  -- |la sua pecca~: la colpa di lui.
+
+	|138.  cangi~: compensi, contraccambi; divulgando i suoi
+torti verso di te e vendicandoti.
+
+	|139.  se quella~ ecc.: se la lingua non mi si paralizza. 
+Formula d'imprecazione, d'un tipo assai comune anche oggi nel
+linguaggio popolare, a suggello della promessa solenne.
+
+	|Conclusione.~  Vedi anche A. P$EZARD, <Le chant des
+tra#itres>, in ^Annales du C.U.M.~, XIV, 1961; G. VARANINI, ^Il
+canto XXXII dell'Inferno~, Firenze 1962.

@@ -1,0 +1,130 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.1
+date     89.12.12.18.52.51;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@This menu superseded by fixed copy which prints full context docs more gracefully
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@{BRIEF}
+
+;This is a special menu for displaying brief hits.  Written by
+; JMA 5/29/89.
+;	MODIFICATION HISTORY
+
+:COMPARE @@PSTAT
+     TO "ENTER"
+	:REQUEST ~XG16~   ; turns off display of subpara #'s
+	:REQUEST ~XG1~    ; turns off display of paragraph names
+	:REQUEST ~X16-~   ; turns off display of document #
+	  	; This is sloppy programming-we should remember the old
+	  	; values, but this is a difficult task.  Actually, it
+	  	; might be just as efficient to SET the values as I did
+	  	; here as a permanent matter, since what they tag is
+	  	; unnecessary in our db.
+	  	; actually-this NEEDS to be moved to GETPD.MNS just before
+	  	; the jump to this menu
+	:SET @@DOC ~1~
+	:SET @@PSTAT ~NEWPAGE~
+
+     TO "DOPROMPT"
+	:COMPARE #DOCS
+	     TO "1-15"
+		:SET @@P1 ~Enter Doc\# to View in Full; \o1S\f1earch~
+		:SET @@M1 ~S|s|1-#DOCS|~
+	:DONE
+	:GET @@SELECTION PROMPT ~@@P1 [@@DEFAULT]: ~ "@@M1" BOTTOM
+	:COMPARE @@SELECTION
+	     TO ""
+		:COMPARE @@DEFAULT
+		     TO "Search"
+			:SET @@SELECTION ~S~
+		:DONE
+	     TO "B|b"
+		:PARSE @@DOC INCREMENT ~-30~
+		:COMPARE @@DOC
+		     TO "-15-0"
+			:SET @@DOC ~1~
+		:DONE
+	     TO "B|b|N|n|"
+		:SET @@PSTAT ~NEWPAGE~
+	     TO "S|s"
+		:SET @@SELECTION ~~
+		:REQUEST ~XG128~   ; these three requests reset the changes
+		:REQUEST ~XG4~    ; made on entering the menu.  It would be
+		:REQUEST ~X16+~   ; better form to save the old values when
+				  ; when we entered, and restore them here,
+				  ; but this would be much harder and so is
+				  ; left for later
+		:MENU ~GSRCH_~
+	     TO "1-#DOCS"
+		:SET @@TMP ~@@SELECTION~
+		:REQUEST ~FF,#CP_DANT.fmt~
+		:PRINT ~\c~
+		:BRS PRINT PARAGRAPHS ~@@PARS~ DOCUMENT ~@@TMP~
+		:BRS PRINT 
+		:REQUEST ~FF,#CP_DANTB.fmt~
+		:GET @@SELECTION ~Tap \o1RETURN\f1 to go back to brief listing ~ BOTTOM
+		:SET @@SELECTION ~~
+		:PARSE @@DOC INCREMENT ~-15~
+		:COMPARE @@DOC
+		     TO "-15-0"
+			:SET @@DOC ~1~
+		:DONE
+		:SET @@PSTAT ~NEWPAGE~
+	:DONE
+
+     TO "NEWPAGE"
+	:PRINT ~\c~
+	:PRINT ~@@HEADING_References on query\n~
+	:BRS QUERIES USING ~@@BR~
+	:PRINT ~\n\o1Doc.\#\f1\tReference\n~
+	:SET @@PSTAT ~PRINT~
+	:SET @@LINES ~0~
+
+     TO "PRINT"
+	:BRS PRINT PARAGRAPHS ~@@PARS~ DOCUMENT ~@@DOC~
+	:BRS PRINT 
+	:COMPARE @@DOC
+	     TO "#DOCS"
+		:SET @@P1 ~\o1B\f1ack Screen; Document Number; or \o1S\f1earch~
+		:SET @@M1 ~B|b|S|s|1-#DOCS|~
+		:SET @@DEFAULT ~Search~
+		:SET @@PSTAT ~DOPROMPT~
+	:DONE
+	:PARSE @@DOC INCREMENT
+	:PARSE @@LINES INCREMENT
+	:COMPARE @@LINES
+	     TO "15-"
+		:SET @@P1 ~Enter Doc\# to View in Full; \o1N\f1ext Screen; \o1B\f1ack Screen; \o1S\f1earch~
+		:SET @@DEFAULT ~Next Screen~
+		:SET @@M1 ~B|b|N|n|S|s|1-#DOC|~
+		:COMPARE @@DOC
+		     TO "1-16"
+			:SET @@P1 ~Enter Doc\# to View in Full; \o1N\f1ext Screen; \o1S\f1earch~
+			:SET @@M1 ~N|n|S|s|1-#DOCS|~
+		:DONE
+		:SET @@PSTAT ~DOPROMPT~
+	     TO "-14"
+		:SET @@PSTAT ~PRINT~
+	:DONE
+
+:DONE
+:MENU
+@

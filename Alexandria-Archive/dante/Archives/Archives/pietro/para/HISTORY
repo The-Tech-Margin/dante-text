@@ -1,0 +1,44 @@
+Fri Apr 11 14:03:04 EST 1986 jvs pre-edited 1-33
+Tue Nov 10 14:04:58 EST 1987 .s files deleted. jma.
+Thu Nov 19 15:37:39 EST 1987 01.e preloaded to ../staging/para/01
+Thu Nov 19 15:38:09 EST 1987 02.e preloaded to ../staging/para/02
+Thu Nov 19 15:38:29 EST 1987 03.e preloaded to ../staging/para/03
+Thu Nov 19 15:38:54 EST 1987 04.e preloaded to ../staging/para/04
+Thu Nov 19 15:39:15 EST 1987 05.e preloaded to ../staging/para/05
+Thu Nov 19 15:39:52 EST 1987 06.e preloaded to ../staging/para/06
+Thu Nov 19 15:40:15 EST 1987 07.e preloaded to ../staging/para/07
+Thu Nov 19 15:40:44 EST 1987 08.e preloaded to ../staging/para/08
+Thu Nov 19 15:41:11 EST 1987 09.e preloaded to ../staging/para/09
+Thu Nov 19 15:41:33 EST 1987 10.e preloaded to ../staging/para/10
+Thu Nov 19 15:41:51 EST 1987 11.e preloaded to ../staging/para/11
+Thu Nov 19 15:42:06 EST 1987 12.e preloaded to ../staging/para/12
+Thu Nov 19 15:42:30 EST 1987 13.e preloaded to ../staging/para/13
+Thu Nov 19 15:42:51 EST 1987 14.e preloaded to ../staging/para/14
+Thu Nov 19 15:43:10 EST 1987 15.e preloaded to ../staging/para/15
+Thu Nov 19 15:43:49 EST 1987 16.e preloaded to ../staging/para/16
+Thu Nov 19 15:44:06 EST 1987 17.e preloaded to ../staging/para/17
+Thu Nov 19 15:44:24 EST 1987 18.e preloaded to ../staging/para/18
+Thu Nov 19 15:44:54 EST 1987 19.e preloaded to ../staging/para/19
+Thu Nov 19 15:45:36 EST 1987 20.e preloaded to ../staging/para/20
+Thu Nov 19 15:46:01 EST 1987 21.e preloaded to ../staging/para/21
+Thu Nov 19 15:46:19 EST 1987 22.e preloaded to ../staging/para/22
+Thu Nov 19 15:46:37 EST 1987 23.e preloaded to ../staging/para/23
+Thu Nov 19 15:47:11 EST 1987 24.e preloaded to ../staging/para/24
+Thu Nov 19 15:47:43 EST 1987 25.e preloaded to ../staging/para/25
+Thu Nov 19 15:48:03 EST 1987 26.e preloaded to ../staging/para/26
+Thu Nov 19 15:48:28 EST 1987 27.e preloaded to ../staging/para/27
+Thu Nov 19 15:48:53 EST 1987 28.e preloaded to ../staging/para/28
+Thu Nov 19 15:49:19 EST 1987 29.e preloaded to ../staging/para/29
+Thu Nov 19 15:49:47 EST 1987 30.e preloaded to ../staging/para/30
+Thu Nov 19 15:50:13 EST 1987 31.e preloaded to ../staging/para/31
+Thu Nov 19 15:50:42 EST 1987 32.e preloaded to ../staging/para/32
+Thu Nov 19 15:51:19 EST 1987 33.e preloaded to ../staging/para/33
+Sun Jan 29 16:27:07 EST 1989 fixed M-0, corrected files given ee suffix. jvs
+Thu Feb 9 16:00:32 EST 1989 removed defective .e files jvs
+Thu Feb 9 16:00:58 EST 1989 changed .ee files to .e jvs
+Thu Feb 9 16:30:52 EST 1989 preloaed para jvs
+Sun Mar 19 22:47:15 EST 1989 ran checknew on all .e files. jvs
+Sun Mar 19 22:47:34 EST 1989 corrected .e files to .f with reformat.sed. jvs
+Sun Mar 19 22:47:57 EST 1989 manually corrected spillover from reformat.sed jvs
+Wed Apr 19 20:17:05 EDT 1989 jvs deleted obsolete .e files
+Mon Jul 31 10:18:27 EDT 1989 jvs renamed .f files to .e

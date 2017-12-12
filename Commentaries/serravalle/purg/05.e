@@ -1,0 +1,505 @@
+	|SUMMARIUM.~  In isto quinto capitulo, quod incipit: ^Iam
+ego ab illis umbris recesseram~, auctor tractat quartam speciem
+negligentie; et hic puniuntur hii, qui tardaverunt penitentiam
+usque ad mortem, ex eo quod ipsi fuerunt preventi morte violenta:
+quia diu et plus vixissent, si violenta mors eos non occupasset,
+et sperabant diutius vivere et sic vixissent.  Primo, tamen,
+ponit auctor unum pulchrum documentum, quod est hoc.  Quando homo
+potest perficere aliquod opus bonum, non debet vacare ad alia,
+que impediant tale opus; quia, quando homo cogitamen super aliud
+cogitamen apponit, sepe impeditur ab utroque.  Auctor invenit in
+hoc loco multos spiritus, vi et per violentiam evulsos de
+corporibus suis, quorum unus fuit spiritus domini Iacobi de
+Cassaro de Fano, qui fuit interfectus in territorio paduano,
+vadens Mediolanum pro Potestate.  Hic erat Boncontes de Urbino,
+filius illius comitis, Guidonis de Urbino, de quo dictum fuit in
+Inferno, in capitulo vicesimoseptimo.  Omnes isti interfecti
+fuerunt iuvenes: qui, morientes, parcentes interfectoribus suis,
+reduxerunt se ad Deum penitentes et misericordiam implorantes. 
+In isto capitulo tractat auctor generationem pluvie, que videatur
+in Commento, quam ibi diffusius pertractavi.
+
+	|Proemio.~  ^Ego iam ab illis umbris recesseram.  Io era
+gi@a da quelle ombre partito~: istud est quintum capitulum huius
+Purgatorii, in quo auctor tractat de quarta specie negligentie et
+pigritie illorum, qui neglexerunt et tardaverunt penitentiam
+usque ad mortem, occupati in armis, et qui fuerunt preventi
+morte; quos tamen in morte penituit omnium suorum peccatorum.  Et
+dividitur in quatuor partes.  In quarum prima iterum auctor
+tangit aliquid de conditione ipsarum predictarum, continuando
+dicta dicendis.
+
+In secunda parte, que incipit ibi:
+
+     Et interim per montem ex transverso;
+     Et intanto per la costa de traverso,
+
+auctor tangit in generali de ista quarta specie negligentium
+illorum, qui sunt religati in isto loco.
+
+In tertia, que incipit ibi:
+
+     Et unus incepit;
+     E uno incomenci@o,
+
+auctor in speciali tractat de aliquibus spiritibus nobilibus
+modernis.
+
+In quarta parte, que incipit ibi:
+
+     Io dico vero,
+
+auctor tractabit de potentia demonum circa aieris impressiones.
+
+	|1-6.~  Primo igitur auctor, continuans dicta dicendis,
+dicit: Ego iam ab illis umbris recesseram et sequebar vestigia
+mei ducis, quando retro me, dirigendo digitum, una clamavit: Vide
+quod non apparebat quod luceat radius, scilicet solis, ad
+sinistram illius inferioris, et tamquam vivus apparet quod se
+conducat.  Ideo dicitur quod sequebatur vestigia, quia Virgilius
+iam incipiebat speculari novam materiam, idest negligentium de
+quarta specie.  |Ille digito monstravit~: modus est sic faciendi,
+quando noviter videtur una notabilis persona; quasi dicens:
+Mireris quod una persona viva videtur hic esse.  Hucusque in ista
+tertia specie negligentium nemo fuerat miratus de Dante vivo;
+ideo oportuit quod in principio istius quinti capituli fieret
+mentio de aliquo, qui miraretur.  Modo ostendit auctor quomodo,
+illis mirantibus de ipso, revolvit se ad ipsos, forte non sine
+aliquali vanagloria, quia asserebant eum esse vivum inter
+mortuos, idest facientem penitentiam ante mortem: quod erat sibi
+ad magnam laudem, et erat signum quod Deus habebat ipsum carum,
+quod ipse erat in gratia Dei; et etiam unquam nullus descripsit
+talem materiam poetice.  Quia ista est materia plana et moralis,
+superior fuit astroloica.
+
+	|7-12.~  Oculos revolvi ad sonum istius mocti, idest
+iocosi verbi, et vidi illam respicere, propter admirationem,
+solum me, solum me, et lumen, quod erat, idest radium solis,
+raptum propter umbram.  Nota quod ita contingebat auctori in vita
+presenti, quod omnes mirabantur de ipso propter scientiam suam,
+et quando ibat ad aliquam civitatem, omnes intuebantur eum et
+omnes eum digito monstrabant, et omnes laudabant eum et
+glorificabant eum.  Unde aliqua vanagloria motus est, propter
+quam vanam gloriam Virgilius reprehendit eum sic dicens: Quare
+animus tuus tantum |s'impigliat~, idest implicatur, dixit
+magister, quod iter alentas, idest retardas?  Quid facit tibi id
+quod ibi impispigliat, idest murmuratur?  |Impispigliare~ est
+obscure et confuse loqui, ita quod non possit bene intelligi. 
+Quasi dicat Virgilius: Quando tu debes simpliciter ire ad
+virtutem, idest ad agendum virtuose, non debes vacare laudibus
+vanitatis, et curis vulgi.  Idest: Quid prodest tibi, eunti ad
+virtuose agendum, illa murmuratio, sive ille laudes vulgares? 
+Quasi dicat: Nihil prodest.  Dicit Augustinus, de Civitate Dei:
+Virtutes habenti magna virtus est spernere gloriam.  Et Titus in
+simili casu: Gloriam qui spreverat, veram gloriam adeptus est. 
+Et sunt verba ad Paulum Emilium.  Sed Persius videtur aliud
+dicere, dum inquit: Scire tuum, scire nihil est, nisi te scire
+hoc sciat alter; at [pulchrum est] digito monstrari et dicier:
+Hic est.  Dicendum est quod Persius, sic dicens, loquitur
+ironice, scilicet de illis loquendo, qui querunt virtutes propter
+vanam gloriam.  Proculdubio, in rei veritate, gloria sequitur
+sapientem, fugientem ipsam.  Nemo debet querere gloriam a vulgo,
+quia vulgus signorat perfectionem, etc.  Dicit Ieronimus, quod
+popularis aura est vile mancipium.
+
+	|13-15.~  Ammodo ratio in persona Virgilii dat auctori
+documentum tale: Veni retro me et permicte dicere gentes: stes
+sicut turris firma, que non crollat, idest commoveatur in
+summitate, unquam summitatem propter sufflationes ventorum. 
+Turris firma non facit sicut folium, quod ab omni vento movetur;
+et sic debet homo facere sicut turris, non moveri ab omni aura
+populari, que evanescit.
+
+	|16-18.~  Quia semper homo, in quo cogitamina
+|rampollant~, idest pullulant, supra cogitationes (idest homo,
+qui est intricatus in pluribus, sepe perdit quod primo bene
+cogitaverat, et sic perdit substantiam pro accidente), a se
+longinquat signum (methaphorice loquitur hic auctor, idest
+frustratur desiderio sui finis), quia foga, idest impetus, unum
+reliquo |insollat~, idest separat, idest recedit a principali
+intentu et utili, et dimictit principale pro accessorio. 
+|Insollat~: idest debilitat.
+
+	|19-21~  Modo ponitur effectus correctiones.  Quid
+poteram ego dicere nisi: Ego venio?  Dixi illud aliquantulum de
+colore conspersus, idest rubore (quia verecundatus est), qui
+facit hominem de remissione, idest de indulgentia, aliquando
+dignum.  Vult innuere quod homo sapiens, reprehensus de defectu,
+etiam quantumcumque parvo, debet cum humilitate audire
+corrigentem, et inclinare se versus correctorem, habendo gratam
+reprehensionem, et non pertinaciter resistere nec superbe.  Color
+rubeus est signum verecundie.  Verecundia tamen, ut vult
+Aristotiles circa finem quarti libri Ethicorum, non est virtus,
+quia non est [proprie virtus], quasi de turpi re.  Est tamen
+actus laudabilis in femina et iuvene, qui reguntur plus
+passionibus quam ratione; et si verecundatur, bonum signum est:
+sed in senibus non sic contingit.
+
+	|22-24.  Et interim per montem ex transverso.  Et intanto
+per la costa di traverso~: ista est secunda pars huius capituli,
+in qua auctor tangit in generali de quarta specie, etc.  Et
+interim, idest interdum, per montem ex transverso veniebant
+gentes ante nos aliquantulum, cantando |Miserere~, idest illum
+psalmum, ad versum ad versum, idest alternatim.  Isti non
+veniebant per viam rectam, ubi erat auctor, sed ibant vagando,
+non habentes libertatem reperire ostium Purgatorii, et cantabant
+illum psalmum, quem fecit David quando commisit tam grande
+peccatum, tripartitum in proditionem, adulterium et homicidium,
+quando abusus fuit Bersabee, uxore Urie.  Facto isto, et dicto
+psalmo, terra evomit David a se, in qua se quasi sepelierat ipse
+David.  Quod [fuit signum] declarans, [quod Deus] misertus erat
+ipsi David.  In secundo libro Regum.
+
+	|25-30.~  Quando perpenderunt, quod ego non dabam locum,
+propter meum corpus, transitui radiorum mutaverunt in unum, eorum
+cantum, O longum et raucum, scilicet ex admiratione; et duo de
+ipsis, scilicet dominus Iacobus de Cassaro de Fano et Bonconte de
+Urbino, et in forma nunciorum, cucurrerunt contra nos, et
+interrogaverunt nos de nostra conditione, idest Dantis et
+Virgilii: Faciatis nos scientes.
+
+	|31-33.~  Et magister meus, supple dixit eis (ecce quod
+loquitur Virgilius, quia si Dantes loqueretur, cederet sibi ad
+laudem de ore proprio, quod non est bene honestum): Vos potestis
+ire, et retrahere, idest referre, illis, qui vos miserunt, quod
+corpus istius est vera caro.
+
+	|34-36.~  Si, scilicet pro quia, propter videre suam
+umbram, restiterunt, idest firmaverunt se, sicut ego ymaginor,
+satis, idest sufficienter, est eis responsum.  Faciant sibi
+honorem, et esse potest eis carum; quia poterat eis prodesse, in
+duobus; scilicet, in dando eis famam, sicut et fecit in hoc
+libro; secundo, ut faceret orari pro ipsis, qui indigent
+adiutorio vivorum.
+
+	|37-42.~  Vapores incensos non vidi ego ita cito in media
+nocte unquam findere, idest scindere, serenum, idest aierem
+clarum, vel descendere de celo, non solem scilicet dissipare
+descendentes nubes in augusto scilicet mense (vult dicere quod
+isti velocissime redierunt ad suam aciem, et ponit comparationem
+de asub, de nocte cadentibus, que apparent stelle cadentes de
+celo; que sunt vapores calidi et sicci, accensi in aiere, que
+statim consumuntur, sicut de mense augusti.  Etiam in aliis
+mensibus estivis hoc accideret.  Nubes subito expellitur a calore
+solis; et hoc ad denotandum, quod anima, separata a corpore, est
+velocissima, quia non movetur organo temporali), quod illi non
+redirent sursum in minus, idest breviori spatio temporis.  Et
+postquam illi pervenerunt, cum aliis ad nos se converterunt,
+sicut acies que currit sine freno, idest sine aliquo ordine.  Hoc
+dicit ad denotandum aviditatem videndi hoc mirabile.
+
+	|43-45.~  Hec gens que ad nos premit, est multa, et
+veniunt ad precandum te, dixit Poeta: ideo nihilominus vade, et
+sic eundo ausculta.  Quasi dicat: Audi et ausculta eos.  Isti
+omnes fuerunt preventi morte violenta in bellis et alibi.
+
+	|46-48.~  Iam oportet mutare thema et de alia materia
+tractare.  O anima que vadis ut sis leta, idest ad celum, ut
+efficiaris leta, vadis ad salvationem (ecce quomodo loquitur et
+orat, ut captet benevolentiam auctoris et faciat eum pium versus
+se), cum illis membris cum quibus nata es, vel fuisti, veniebant
+clamando, aliquantulum passum quieta; idest allenta passum, vadas
+planius et morosius, paullatim.
+
+	|49-51.~  Respice si aliquam de nobis vidisti, ita quod
+de eo illuc, idest sursum in mundo, nova portes.  De, quare
+vadis? quare te non restas, idest firmas?  Quasi dicat: Que est
+causa, que te impedit ne nos audias et loquaris saltem parum
+nobiscum?
+
+	|52-57.~  Nos fuimus iam omnes per vim, idest violenter,
+mortui et peccatores usque ad ultimam horam, scilicet mortis:
+ibi, idest tunc, lumen celi fecit nos cautos, idest illustravit
+nos; et sic reducti sumus ad penitentiam et pepercimus
+interfectoribus nostris, ita quod penitendo, idest penitentiam
+faciendo et parcendo, scilicet aliis, foras, idest extra vitam,
+exivimus Deo pacificati, qui de desiderio se videndi nos corde
+affligit.  |Naccorat~, idest animat et accendit.
+
+	|58-63.~  Auctor excusat se, dicens: Et ego, idest dixi:
+Quamquam in vestris visibus, idest faciebus, respiciam, non
+cognosco aliquem (hoc erat, vel quia Dantes nunquam viderat
+aliquem illorum, vel quia erant transfigurati propter mortem
+violentam); sed si vobis placet res, quam ego possim, o spiritus
+bene nati, idest quia finiti, idest mortui in gratia Dei, vos
+dicite, et ego faciam per illam pacem, que retro pedem talis
+conductoris de mundo in mundum a me se queri facit.  Quod auctor
+velit facere quod petierit, sacramento confirmat.  Quasi dicat:
+Ego iuro per pacem illam eternam, quam spero et perquiro tot
+laboribus, sequendo pedes, idest vestigia [istius], de mundo in
+mundum, quia primo per Infernum, idest per cognitionem vitiorum,
+ut melius vitaret ipse auctor peccata.
+
+	|64-84.  ^Et unus incepit.  E uno comenci@o~: hec est
+tertia pars huius capituli.  Hic loquitur dominus, dominus
+Iacobus Cassaro, de Fano, qui fuit homo solempnis, nobilis et
+doctor et miles, et fuit officialis, potestas, capitaneus in
+multis civitatibus: hic fuit interfectus, sicut dicetur.  Nota
+quod, in millesimo tercentesimo, Azzo tertius, marchio Estensis,
+qui fuit potens et dives dominus Ferrarie, movit guerram contra
+civitatem Parme; et erat tunc dominus Regii, civitatis sic dicte
+in Lombardia; quia quidam nobiles de Sancto Vitali, qui erant
+amici sui, amore eius, fuerunt expulsi de Parma.  Tunc civitas
+Bononie, que tunc regebat se ad populum, timens ne marchio,
+habens Parmam, efficeretur nimis potens, et postea contra
+Bononiam moveret guerram, ligaverunt se cum Parmensibus contra
+marchionem predictum; qui marchio, videns potentiam harum
+civitatum, procuravit facere pacem cum Parmensibus.  Qua facta,
+convertit se contra Bononiam, faciendo ligam cum omnibus
+Gebellinis de Romandiola, et maxime cum Machinardo de Susinano,
+domino tunc Faventie.  Qui Machinardus cum fortio et potentia
+omnium colligatorum ivit contra Imolam, civitatem Romandiole,
+quam subiugaverant Bononienses, expellentes inde dominium
+Ecclesie, et prostrarunt muros.  Tunc Bononienses exiverunt ad
+campum contra Machinardum, et factum est bellum inter eos, et
+Bononienses erant victi sine magna strage, et Machinardus fuit
+victor et habuit et obtinuit Ymolam: et sic facta fuit pax inter
+omnes istos.  Tunc marchio, tam verbis quam servitiis quam
+denariis, fecit sibi multos amicos in Bononia et magnam partem
+fecit sibi in Bononia; que pars dicebatur pars Marchisana, et
+fuit quasi in puncto habendi Bononiam.  Tunc Bononienses, qui non
+erant amici marchionis, volentes hiis obviare, ceperunt convocare
+officiales severos et forte crudeles, qui non parcerent agentibus
+contra statum eorum: inter quos fuit vocatus iste dominus Iacobus
+de Cassaro, de Fano, qui erat rigidus, austerus et severus
+officialis, pro Potestate Bononie, et qui ivit, et multos
+iustitiavit et multos fecit mori de illis amicis marchionis.  Et
+semper detrahendo dicebat marchioni: Ille proditor marchio de
+Esti.  Unde, finito officio, ordinavit aliquos assassinos, qui
+insidiarentur ei et interficerent eum.  Iste dominus Iacobus de
+Cassaro, completo suo officio, fuit vocatus Potestas Padue
+civitatis; qui acceptabat, et ibat transiens per Venetias, ubi
+illi servi marchionis, ordinati pro morte ipsius domini Iacobi,
+crediderunt eum interficere.  Non potentes hoc facere Venetiis,
+sequuti sunt eum de Venetiis versus Paduam.  Modo inter Venetias
+et Paduam est unum castrum, quod vocatur Oriacum, distans a
+Venetiis per decem milliaria et a Padua per quindecim: est tamen
+in territorio paduano.  Demum est una villa inter Oriacum et
+Paduam, que Mira vocatur.  Modo inter Oriacum et Miram fuit
+interfectus in pantano, sive in paludibus, iste dominus Iacobus;
+fuit vulneratus multis vulneribus et interfectus.  Adhuc est
+notandum, quod auctor vocat hic Paduanos Anthenori: qui Anthenor
+fuit troyanus, et, sicut dicit Titus Livius, iste Anthenor de
+Troya venit, navigando, ad montes Padue in Ytaliam, cum gente que
+fuit regis Philomene, eversa Troya.  Montes paduani tunc
+dicebantur montes Euganei, et homines ibi habitantes, Euganei; et
+erat ibi de propinquo una villa, dicta Engeganea, que in presenti
+dicitur Brugine, et ibi incepit edificare Anthenor.  Tandem
+edificavit unam civitatem, quam vocavit Pactavum: nunc vero
+dicitur Padua.  Et quia in territorio paduano fuit interfectus
+iste dominus Iacobus de Cassaro, dicit se interfectum in gremio
+Anthenorum, etc.
+
+	|64-66.~  Et unus incepit: Quilibet se fidit de beneficio
+tuo sine iuramento, dummodo velle non posse non recidat, idest
+quod impotentia non impediat bonum velle.  Quasi dicat: Tu
+videris homo talis conditionis, quod tuo simplici verbo standum
+est, et ita credendum est tibi sicut uni instrumento.  Et per hoc
+apparet quod homo notabilis et auctoritatis non debet uti
+iuramento nisi quando oportet et quando datur sibi sacramentum
+per habentem potestatem: et tunc licet, quia in sacramento
+invocatur Deus pro texte veritatis.  Nam sacramentum est species
+religionis.  Duo sunt que requiruntur ad omne opus rite
+faciendum, scilicet potentia que presupponit scientiam, et
+voluntas; que hic tanguntur, dum dicit: Dummodo velle non posse
+non recidat.
+
+	|67-72.~  Unde ego, qui solum ante alios loquor, te
+precor, si unquam vides illam |paiesem~, idest regionem, sive
+territorium, que sedet inter Romandiolam et illam, scilicet
+regionem, Karoli (nota quod Marchia Anconitana est inter
+Romandiolam et regnum Cicilie: Romandiola est ad occidentem
+respectu regni Cicilie: modo inter Romandiolam et Aprutium est
+Marchia Anconitana, in qua est civitas, que vocatur Fanum, de qua
+civitate Fani fuit oriundus iste dominus Iacobus, qui loquitur
+auctori.  Nota quod regnum Cicilie dicit hic esse regionem, sive
+territorium, Karoli: et verum dicit; quia Karolus Cioctus, filius
+Karoli primi, pater regis Ruberti et Sancti Ludovici, tunc erat
+rex Cicilie, et dominabatur), quod tu michi sis de tuis precibus
+curialis in Fano, scilicet civitate mea, quod bene pro me oretur:
+idest ordina et procura quod mei attinentes pro me orent et
+faciant orationes, propter quas scilicet preces vel orationes
+possim purgare crudas offensiones, idest cruda peccata, que
+commisi contra Creatorem meum.
+
+	|73-78.~  Inde ego fui; sed scilicet profunda foramina,
+unde exivit sanguis, super quo ego sedebam (ecce quomodo auctor
+innuit, sanguinem fore sedem anime.  Sepe dixit Moyses: Omnis
+enim anima carnis in sanguine est.  Et hoc videtur esse verum;
+quia, effuso toto sanguine, in corpore anima non potest stare),
+facta michi fuerunt in gremio Anthenorum, idest in territorio
+Paduano (nota quod in paduana civitate, apud portam Sancti
+Stephani, et apud Ecclesiam Sancti Stephani, est unum sepulchrum
+de magno et pulchro lapide rubeo, in quo sunt ossa Anthenoris
+Troyani, qui fuit, salva eius reverentia, magnus proditor), ibi
+ubi magis securus me esse credebam (quia erat potestas Padue, et
+Paduam ibat, in territorioque Paduano erat).  Ille Estensis,
+scilicet marchio, fecit ibi fieri, qui me habebat in iram satis
+plusquam rectum, idest ratio, non volebat; idest magis quam
+debitum esset: quia si iustitiavi amicos suos in Bononia, ego
+feci hoc iuste.  Quia propter hoc me habebat in iram, ratio hoc
+non exigebat.
+
+	|79-81.~  Sed si ego fu[g]issem versus Miram, scilicet
+illam villam sic dictam, quando ego fui superventus, scilicet ab
+interfectoribus ad Oriacum, idest apud Oriacum, villam sic
+dictam, adhuc essem illic ubi spiratur, idest adhuc viverem.
+
+	|82-84.~  Cucurri ad paludem; et canule, idest parve
+canne, sive arundines, et cenum, idest lutum, me apprehenderunt,
+ita quod ego cecidi, et ibi vidi ego de meis venis, idest de
+sanguine exeunte de meis venis, fieri in terra lacum.
+
+	|85-102.~  Nunc ponitur alius spiritus loqui, qui fuit
+spiritus Boncontis de Urbino, qui fuit filius Guidonis comitis,
+quem auctor posuit in Inferno, in capitulo vicesimoseptimo.  Hic
+Boncontes fuit etiam sic interfectus.  Nota quod in millesimo
+ducentesimo octogesimo nono, Florentini, florentes tunc, iverunt
+obviam Karolo Ciocto, redeunti de Aragonia de captivitate don
+Petri regis Aragonie.  Quem Florentini multum honoraverunt, et
+petierunt ab eo, ut daret eis unum valentem virum, hominem
+armorum; qui dedit eis dominum Almericum de Narbona.  Quo habito,
+Florentini requisiverunt omnes vicinos Guelfos, et habuerunt duo
+millia militum et duodecim millia peditum, et iverunt ad
+civitatem Aretii, ubi erat episcopus Guillelmus de Ubertinis. 
+Erat etiam ibi comes Guido Novellus, potens in Aretio,
+Gebellinus; et erat etiam iste Boncontes, qui hic loquitur, et
+multi alii Florentini exules, et Bononienses expulsi, in tantum
+quod erant septingenti equites et duo millia pedites.  Aretini
+presumpserunt venire contra Florentinos ad unum castrum, quod
+vocatur Bibena; et ibi factum est consilium, et omnes prudentes
+consulebant quod non bellaretur, quia Florentini erant multo
+plures eis.  Sed unus iuvenis aretinus, dixit animosus: Qui
+timet, ille fugiat.  Cui respondit unus Florentinus: O Neri
+(nomen proprium), tu habes rostrum rubium: si bellabitur, tu
+fugies, et ego remanebo.  Et ista erat opinio Boncontis, quod non
+pugnaretur, et ivit ad previdendum campum Florentinorum.  Et
+rediens dixit: Nullo modo est pugnandum.  Tunc dixit episcopus
+Guillelmus: Tu nunquam fuisti de illa nobili domo.  Cui
+respondens iste Boncontes dixit: Si tu veneris quo ego ibo, tu
+nunquam redibis Aretium.  Et breviter, dato guanto, factum est
+bellum, et Aretini fuerunt victi et interfecti plurimi et capti;
+et si Florentini tunc ivissent Aretium, ipsum obtinuissent. 
+Illud conflictum fuit magna dextructio [partis] gebelline et
+exaltatio guelfe.  In isto conflictu fuit vulneratus iste
+Boncontes lethaliter in gutture, qui tamen aufigit sic vulneratus
+de Campeldino, ubi fuit factum bellum.  Tandem devenit ad unum
+torrentem, qui intrat in Arnum fluvium; et ibi moriens et
+sentiens dolorem, conversus est ad Deum, et de suis brachiis
+fecit sibi crucem in pectore suo, et invocans Mariam, scilicet
+Matrem Iesu Christi, in suum adiutorium, idest anime sue, mortuus
+est.
+
+	|85-90.~  Postea dixit unus alter: De, si illud
+desiderium adimpleatur, quod te trahit ad altum montem, cum bona
+pietate adiuva meum, scilicet desiderium.  Ego fui de Monte
+Feretro et sum Boncontes: Ioanna, scilicet uxor mea que fuit, et
+alii, scilicet consanguinei mei, non habent de me curam, idest
+non curant de me, quia non orant Deum pro me: ex quo, idest
+quare, ego vado inter istos cum demissa fronte.
+
+	|91-93.~  Et ego ad eum: Qualis vis, sive qualis fortuna,
+te deviavit ita extra Campeldinum (est una planities in qua, vel
+campus in quo, fuit factum illud bellum), quod scita non fuit
+unquam tua sepultura?
+
+	|94-102.~  O, respondit ipse, ad pedes Casentini, idest
+prope Casentinum (Casentinum est unum territorium infra montes
+circa quasi principium illius fluvii, qui vocatur Arnus, qui
+fluit per Florentiam; in quo Casentino sunt plurima castra),
+pertransit una aqua, que vocatur Archianum (est torrens), que
+supra Heremum, idest desertum (est locus in montibus Tuscie),
+nascitur in Appennino (idest in montibus Appennini, sic vocati). 
+Ubi vocabulum suum, idest nomen, devenit vacuum, idest deperditur
+ibi nomen suum (quia quando aqua istius torrentis, vocati
+Archianum, intrat in Arnum, magnum fluvium, perditur nomen
+Archiani, sicut flumina perdunt nomina sua ubi aque ipsorum
+intrant mare), appuli, idest deveni, ego foratus, idest
+vulneratus, in gula, fugiendo pedes et sanguine fedans planum. 
+Ibi perdidi visum; et loquelam in nomine Marie, et invocans
+Mariam, finivi; et ibi cecidi, et remansit caro mea sola; idest,
+meo spiritu ad ipsa recedente, ab ea.
+
+	|103-108.  Ego dico.  Io dico~: hec est quarta pars huius
+capituli, in qua auctor fingit incidenter de potestate demonis,
+dicens in persona Boncontis: Ego dico verum, et tu illud referas
+inter vivos: Angelus Dei me reprehendit, idest me spiritum
+Boncontis; et ille de Inferno clamabat: O tu de celo, quare me
+privas, scilicet isto spiritu?  Tu tecum portas de isto eternum,
+scilicet animam, propter unam lacrymolam, idest parvam lacrymam,
+que michi illud tollit: sed ego faciam de alio, idest de corpore,
+aliam gubernationem, idest male tractabo illud.
+
+	|109-111.~  Modo auctor in persona Boncontis dicit id
+quod fecit dyabolus sua potestate.  Bene scis, idest tu lector,
+quomodo in aiere congregatur ille humidus vapor, qui in aquam
+redit, idest convertitur, statim quod ascendit ubi frigus illum
+colligit, idest capit.  Hic est notandum, sicut dicit Aristotiles
+in libro Metheororum: Vapores continuo elevantur a terra et mari,
+lacubus et stagnis virtute radiorum solis, lune et aliorum
+astrorum.  Et horum vaporum quidam sunt calidi et sicci, et
+quidam humidi et frigidi.  De calidis et siccis fiunt
+impressiones ignite, sicut asub, gallasia, comete, etc.  De
+frigidis et humidis generatur aqua, ros, pruina, nix, grando,
+etc.  Nunc vero aier dividitur in tres regiones: scilicet, in
+primam prope nos, que est temperata; in secundam et mediam, que
+est valde frigida; et in tertiam et superiorem, que est
+calidissima.  Modo, quando vapores frigidi et humidi, elevati,
+appropinquant ad regionem frigidam, propter frigus convertuntur
+in aquam, et tunc fiunt pluvie.  Modo dyabolus est tante
+potentie, ex sui subtilitate, quod istos vapores potest
+convertere in pluviam, sicut fecit.  Modo, quia ipse fecit
+pluviam magnam, in tantum quod plurima aqua descendit in illum
+torrentem, vocatum Archianum, in qua descendens cum impetu,
+inveniens corpus Boncontis in suis faucibus, impulit in Arnum,
+fluvium magnum.  Et fluvius magnus, fortiter et impetuose fluens,
+traxit secum arbores et arenam, et cooperuit corpus Boncontis
+arena; et sic nunquam fuit scitum quomodo corpus Boncontis
+stetit.
+
+	|112-114.~  Iunxit, scilicet demon, illus malum velle,
+quod solum malum querit, cum intellectu, et movit fumum et
+ventum, idest vaporem etc., per virtutem illam, qua potest movere
+pluvias: nam demon, quamquam sit depravatus, tamen, propter
+nobilitatem sue nature, multa potest facere que sua natura dedit.
+
+	|115-120.~  Inde vallem, sicut dies fuit extinctus, idest
+facta fuit nox, Pratimagni, idest in valle illa, que vocatur
+vallis Pratimagni, et grande iugum, cooperuit nubibus; et celum
+desuper fecit intentum, idest fecit preparatum ad pluviam (ecce
+quod nubecula, surgens a valle, tegit montem; et loquitur hic
+auctor poetice et phisice.  Nota quod, sicut dicit Albertus super
+Metheoram, quando nubecula, surgens de valle, eundo ad montem
+significat pluviam, et quando vadit de monte ad vallem,
+significat serenitatem), ita quod pregnans aier in quam est
+conversum.  Pluvia cecidit, et ad fossata venit, de ipsa scilicet
+pluvia, id quod terra non substulit, idest non absorbuit, idest
+non absorbere potuit.
+
+	|121-123.~  Et statim quod ad rivos grandes se convenit
+versus flumen regale, idest Arnum, tantum velociter ruit, quod
+nihil illud retinuit.
+
+	|124-129.~  Corpus meum gelatum super fauce reperuit
+Archianum rubestum, idest impetuosum, et illud impulit in Arnum,
+fluvium regalem, et solvit a meo pectore crucem, quam michi feci,
+quando dolor, scilicet mortis, me vicit: volvit me per ripas, et
+per fundum; demum, pro sua preda, idest arena, lapidibus me
+cooperuit et cinxit.
+
+	|130-136.  Eya.~  Modo loquitur unus alius spiritus
+cuiusdam mulieris.  Ubi notandum, quod una nobilis domina de
+Tolomeis, nobili domo senensi, vocata Sapia {sic}, maritata fuit
+uni nobili viro, nomine Nellus: dictus fuit de Petra de
+Pannochesci, de Mariptima.  Que mulier, dum semel staret ad unam
+fenestram domus sue in estate, visa fuit a marito suo tangi a
+quodam suo famulo in cruribus: propter istum actum, maritus fuit
+suspectus ex zelotipia; occulte interfecit eam.  Que modo
+loquitur dicens: Eya, quando tu fueris reversus ad mundum et
+requieveris propter viam longam; secutus est tertius spiritus
+post secundum, sicut sequitur, dicendo: Recorderis mei, quia sum
+Pia.  Sena, idest civitas Senarum, me fecit, idest in ea fui
+genita et nata, et disfecit me, idest destruxit, sive interfecit,
+Mariptima.  Scit hoc ille, qui annulatam, idest in suo annulo
+subarratam, prius desponsaverat me cum sua gemma, idest cum suo
+annulo, etc.

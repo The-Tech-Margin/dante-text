@@ -1,0 +1,743 @@
+	|1-9.~  Like ^Inferno~ IX, this ninth canto is both liminal, marking 
+the boundary between two large areas, and filled with classical 
+reference.  And it is the first entire canto devoted to the transition 
+from one poetic zone to another since ^Inferno~ XXXI.  This sort of 
+self-conscious poetic behavior puts us on notice, from the very outset, 
+that we need to pay particular attention here.
+	Its reference to Aurora, surprisingly enough, has made this passage 
+among the most hotly debated of the poem.  In the 'orthodox' version of 
+the classical myth, Aurora, goddess of the dawn, arose from her couch, 
+where she slept with her aged husband, Tithonus, to rise in the sky on 
+her chariot, announcing the coming of day.  A brief and incomplete 
+summary of the debate yields the following (for a summary of the 
+essential arguments over the passage and an attempt to restore 
+Benvenuto da Imola's central and daring reading of it see Hollander 
+["'La concubina di Titone antico': ^Purgatorio~ IX.1," ^Electronic 
+Bulletin of the Dante Society of America~ (July 2001)]: Moore (^Studies 
+in Dante~, Third Series: ^Miscellaneous Essays~ [Oxford: Clarendon, 
+1968 (1903)]), pp. 74-85, essentially solved this problem almost a 
+century ago, but in fact the early commentators (to whom Moore pays 
+little attention) had already done so.  (Paul Spillenger ["Canto IX," 
+in ^Dante's "Divine Comedy": Introductory Readings II: "Purgatorio"~, 
+ed. Tibor Wlassics (Charlottesville: Lectura Dantis, University of 
+Virginia, 1993), pp. 128-41], who devotes all but two pages of his 
+'lectura' of this canto to the opening tercet, is a rare discussant to 
+revisit the glosses of Jacopo della Lana and Benvenuto, only then to 
+deny their applicability.)  Nearly all of them are quite sure that 
+Dante has invented a second myth, one in which Tithonus is married to 
+Aurora 1 (of the sun) but has a 'relationship' with Aurora 2 (of the 
+moon).  The poetic facts are simple, according to Moore.  The time is 
+between 8:30 and 9pm, the cold animal is the constellation Scorpio (and 
+certainly not that belated other candidate, Pisces, arguments for which 
+identification Moore competently dismantles), and thus the aurora we 
+deal with is that of the moon.
+	For a review of these tormented verses and their tormentors (up to 
+1975) see Steno Vazzana (“Il Canto IX del ^Purgatorio~,” in 
+^Purgatorio: letture degli anni 1976-`79~, ed. Silvio Zennaro, Casa di 
+Dante in Roma [Roma: Bonacci, 1981]), pp. 180-85.  And for one of the 
+most interesting discussions of their meaning see Ezio Raimondi 
+("Semantica del canto IX del ^Purgatorio~," in his  ^Metafora e storia: 
+Studi su Dante e Petrarca~ [Turin: Einaudi, 1970 (1968)]), pp. 95-98.  
+See also Gino Casagrande ("Il 'freddo animale' e la 'concubina' 
+[^Purgatorio~ IX, 1-6]," in ^Filologia e critica dantesca: Studi 
+offerti a Aldo Vallone~ [Florence: Olschki, 1989], pp. 141-59) and 
+Alison Cornish (^Reading Dante's Stars~ [New Haven: Yale University 
+Press, 2000], pp. 68-77).  A late 14th-c. Italian MS of Virgil, written 
+by Astolfino Marinoni at Pavia in 1393-94, states that Dante had cited 
+^Aeneid~ IV.585 here: 'And now early Dawn, leaving her saffron bed of 
+Tithonus....'   For this and other citations of Dante in early 
+Renaissance commentaries to the Latin classics see Gian Carlo Alessio 
+("La ^Comed&#926;a~ nel margine dei classici," ^Studi di filologia 
+medievale offerti a D'Arco Silvio Avalle~ [Milan: Ricciardi, 1996], pp. 
+3-25).
+
+	|7-9.~  Much has been made of the phrase 'where we were' by the 'solar 
+aurorans' in the hopes of counterposing the northern hemisphere (site 
+of the solar Aurora at this hour in Italy) and the southern (where 
+Dante and his companions are becoming sleepy).  However, Dante is 
+probably not contrasting the two hemispheres but the glow in the night 
+sky of purgatory that spreads above them and the darkness of their 
+surroundings as night advances.  For a similar situation, consider 
+^Purgatorio~ II.8, the phrase 'l&#914; dov' i' era' (there where I was) 
+by which Dante refers to his situation in the southern hemisphere 
+looking at the stars from there.
+	His figure of speech involves mixing metaphors, as the night is given 
+feet, by which she measures her hours, and wings that do the same 
+thing.  The meaning is that the time is between 8:30 and 9:00 pm.
+	In a gesture of some charm but little possible historical foundation 
+Benvenuto (comm. to vv. 7-12) reads the passage as revelatory of 
+Dante's studious burning, not only of the midnight oil, but even that 
+of the pre-dawn hours: 'vir studiosus erat solitus vigilare per tres 
+horas noctis et evigilare in aurora sicut nunc fecit.'
+
+	|10-11.~  Dante's Adamic sleepiness, that is, the heaviness brought on 
+by his physical being, is adumbrated by a later passage (^Purg~. 
+XI.43-44), in which Virgil comments upon the difficulties experienced 
+by this living soul as he climbs the mountain in his flesh ('la carne 
+d'Adamo').  But the theme is introduced in the first canto of ^Inferno~ 
+(^Inf~. I.10-12) where Dante's 'sleepiness' is associated with Adam's, 
+according to Hollander (^Allegory in Dante's "Commedia"~ [Princeton: 
+Princeton University Press, 1969]), p. 81n., resuscitating Filippo 
+Villani's gloss on this passage (as well as many another in his 
+commentary), which suggests a figural relationship between the fallen 
+Adam, sent forth into his exile from the garden, and the sinful Dante.
+
+	|12.~  The reader has possibly not remembered that Dante and Virgil 
+are still in company: Sordello, Nino Visconti, and Currado Malaspina 
+have not yet been left behind; thus the group still numbers five.
+
+	|13-15.~  Dante's dream, occurring some nine hours after he fell 
+asleep, takes place in the pre-dawn moments in which the swallow sings 
+sadly ^perhaps~ (if we credit the mythographers, most certainly Ovid 
+(^Metam~. VI.412-674) in memory of the rape of Philomel by her sister 
+Procne's husband Tereus and her subsequent metamorphosis into a swallow 
+(in Dante's version, where most others prefer the nightingale -- see 
+the note to ^Purg~. XVII.19-20, a passage that makes the swallow here 
+necessarily Philomel).  Tereus, like Tithonus, has had sexual concourse 
+with each of two sisters -- if we accept the notion that the opening 
+passage of the poem posits a lunar aurora (see the note to ^Purg~. 
+IX.1-9).
+	For the many (and mainly Ovidian) myths referred to in this canto see 
+Picone ("Canto IX," in ^Lectura Dantis Turicensis: Purgatorio~, ed. 
+Georges G,untert and Michelangelo Picone [Florence: Cesati, 2001 
+(1999)]), pp. 121-22.  For a related topic, Dante's debt to Ovid and 
+his Ovidian tactics in ^Inferno,~ see Leonard Barkan ("^Taccia Ovidio~: 
+Metamorphosis, Poetics, and Meaning in Dante's ^Inferno~," in his ^The 
+Gods Made Flesh: Metamorphosis and the Pursuit of Paganism~ [(New 
+Haven: Yale University Press, 1986], pp. 137-70, 317-27).
+	Dante's insistence on identifying Procne with the nightingale and not 
+Philomel seems surprising to a modern reader, who has learned the tale 
+the way that he or she believes it is found in Ovid (^Metam~. 
+VI.424-676).  However, consideration of Ovid's verses when he indicates 
+the avian identities of the two metamorphosed sisters yields results 
+that are less than clear (^Metam~. VI.668-669): 'petit altera silvas, / 
+altera tecta subit' (one heads for the woods, the other for the eaves). 
+ Most of us are certain that the woody one is the nightingale, alias 
+Philomela, and that the one who lives amidst our houses is the swallow, 
+alias Procne.  Dante, along with some ancient writers, preferred to 
+have Procne as the nightingale -- and Ovid's text hardly removes this 
+possibility.  A later text in the poem (^Purg~. XVII.19) makes it clear 
+that Dante refers here to Philomel as the swallow, since there Procne 
+is clearly referred to as the nightingale.  The commentary tradition is 
+interesting, in that almost every commentator before Lombardi (1791) 
+simply assumed that the swallow in this passage referred to Procne.  
+Lombardi (comm. to verse  15), paying attention to the passage in the 
+seventeenth canto, is the first to see the nature of the problem: 
+Dante's adhesion to the aberrant classical and post-classical tradition 
+that reverses the more usual labels.  Bosco and Reggio (comm. to this 
+passage) argue that, in addition to the possible confusions derivable 
+from Ovid's passage, texts in Virgil (^Ecl~. VI.79; ^Georg~. IV.15; 
+IV.511-515) also might have made a clear understanding on Dante's part 
+problematic.  Still valuable is Moore's brief discussion of the problem 
+(^Studies in Dante~, First Series: ^Scripture and Classical Authors in 
+Dante~ [Oxford: Clarendon, 1969 (1896)]), pp. 209-10; and see Georg 
+Rabuse ("Schwalbe und Nachtigall," ^Deutsches Dante-Jahrbuch~ 38 
+[1960], pp. 168-92).
+
+	|16-18.~  The greater truth, indeed the prophetic power, of dreams 
+that came near morning was something of a commonplace in Dante's time.  
+See the note to ^Inferno~ XXVI.7.  Beginning with Torraca (comm. to 
+this passage) twentieth-century commentators have reminded readers that 
+in ^Convivio~ (II.vii.13) Dante had adduced our awareness of our own 
+immortality from the fact that our dreams foretold the future for us. 
+
+	|19.~  The formulaic expression (^mi parea~ \+ ^vedere~) is an earmark 
+of Dante's description of seeing in dream (see also ^Inf~. XXXIII.36; 
+^Purg~. XV.85-87; ^Purg~. XXVII.97-98).  For the consistency in Dante's 
+oneiric vocabulary, dating back to the ^Vita nuova~, see Hollander 
+("^Vita Nuova~: Dante's Perceptions of Beatrice," ^Dante Studies~ 92 
+[1974]), pp. 3-4.  For studies in English of the three purgatorial 
+dreams see Hollander (^Allegory in Dante's "Commedia"~ [Princeton: 
+Princeton University Press, 1969]), pp. 136-58; Cervigni (^Dante's 
+Poetry of Dreams~ [Florence: Olschki, 1986], pp. 95-180);  Baranski 
+("Dante's Three Reflective Dreams," ^Quaderni d'italianistica~ 10 
+[1989], pp. 213-36).  See also Stefanini ("I tre sogni del 
+^Purgatorio~: Struttura e allegoria," in ^Studies in the Italian 
+Renaissance: Essays in Memory of Arnolfo B. Ferruolo~, ed. G. P. 
+Biasin, A. N. Mancini, and N. J. Perella [Naples: Societ&#914; Editrice 
+Napoletana, 1985], pp. 43-66).  For a recent Italian discussion of the 
+oneiric elements of this canto see Calenda ("^Purgatorio~, IX: le forme 
+del sogno, i miti, il rito," ^Rivista di Studi Danteschi~ 1 [2001], pp. 
+284-301).
+
+	|20-21.~  The reality corresponding to the eagle outside the dream is, 
+naturally, Saint Lucy (identified by Virgil in verse 55), who is 
+bearing Dante higher up the mountain while he sleeps in her arms.  But 
+does this eagle have a symbolic valence?  Some early commentators (the 
+Ottimo the earliest) read the text strictly literally: the eagle is the 
+bird of Jove (or, perhaps, Jove in the shape of an eagle).  However, 
+beginning with Pietro di Dante the eagle is allegorized as divine 
+grace, and then, by various commentators up to and including Giacalone 
+(comm. to vv. 19-21), as one form of grace or another (e.g., 
+prevenient, illuminating, etc.).  In the twentieth century there was a 
+vogue for a quite different allegorical reading, the eagle as symbol of 
+empire.  (To be sure, this is often, even usually, true in this highly 
+political poem; in this context, however, it seems a forced reading.)  
+It would seem most likely that a literal reading is the best procedure 
+here, following the Ottimo (comm. to vv. 19-24), and simply noting that 
+this eagle is the one who flew off with Ganymede, as the context allows 
+and encourages, i.e., Dante dreams that he was carried off by Jove.
+
+	|22-24.~  John of Serravalle (comm. to vv. 19-33), following 
+Benvenuto, allegorizes the eagle as divine grace and then equates Dante 
+and Ganymede, thus making Dante 'one who lived with the gods.'  
+Casini/Barbi (comm. to verse 24) suggest that Dante had in mind 
+Virgil's phrase in ^Georgics~ I.24-25, 'deorum / concilia' (company of 
+the gods) when he wrote 'al sommo consistoro'; whether he did or not, 
+his meaning seems clear.  Within the dream there is a certain aura of 
+violence and fear (implicit reference to the forcible rape of Ganymede 
+by Jove as eagle -- see ^Aen~. V.252-257) masking the happier nature of 
+the event: Dante being carried aloft gently by Lucy, and indeed, in a 
+still happier understanding, on the way to the Empyrean, where he will, 
+for a while, share the company of the immortal blessed.  In Virgil's 
+ekphrastic moment (this scene appears woven on a cloak as a prize in 
+the funeral games in honor of Anchises) the youthful prince (son of 
+Tros, king of Troy) was hunting on Mount Ida on the Troad (not to be 
+confused with the mountain of the same name on Crete referred to in 
+^Inf~. XIV.98) and was snatched away from his companions while his dogs 
+barked after him; Dante's version has a more heavenly perspective, and 
+we see the scene from Dante/Ganymede's eyes, as though he were rising 
+in a balloon and watching the shapes of Sordello, Nino, and Currado 
+fall back beneath him (the later poet has had to omit those wonderful 
+Virgilian dogs).
+
+	|25-27.~  The protagonist's thought within his dream is striking.  
+Since, within the dream, Dante is 'thinking like Ganymede,' his thought 
+refers to a place elevated from the normal, e.g., on this mountain near 
+Troy.  (Some commentators want to keep the usual imperial valence of 
+the eagle by associating this Mount Ida with Troy and thus empire; 
+however, the point would rather seem to be that the place is elevated, 
+not that it is Trojan.)  And thus Dante would be thinking that only 
+such extraordinary, i.e., 'higher,'  mortals like Ganymede and Dante 
+Alighieri are chosen by the gods for their delight.  And this thought, 
+perfectly in accord with what we will find out on the first terrace of 
+purgatory proper, associates Dante with the sin of Pride.  Once again, 
+however, the 'reality' tells a different story: the true God is not 
+interested in Dante's curly locks, but in his Christian soul; and He 
+will pluck Dante up from the mount of purgatory for reasons better than 
+those that motivated Jove.
+	The issue of Jove's homosexual desire for Ganymede is mainly avoided 
+in the commentaries.  It is, nonetheless, noteworthy that, of the many 
+myths available to Dante that might have expressed the love of the gods 
+for a particular mortal, he has chosen this one.  For the question of 
+Dante's attitudes toward homosexuality see Hollander (“Dante's 
+Harmonious Homosexuals [^Inferno~ 16.7-90],” ^Electronic Bulletin of 
+the Dante Society of America~ [June 1996]).  Durling (^The "Divine 
+Comedy" of Dante Alighieri~, Notes by R. M. Durling and Ronald Martinez 
+[New York and Oxford: Oxford University Press, 1996]), pp. 559-60, on 
+the basis of no known evidence, is of the opinion that Dante was of 
+homosexual predisposition but had never acted on his desires.  While 
+that is probably more than can be shown to be true, the question of 
+Dante's rather 'unmedieval' view of homosexuality (see discussion in 
+the note to ^Inf~. XV.13-21) has generally not been dealt with as 
+openly as it ought to be.
+
+	|28-30.~  The eagle's descent may have still another Virgilian 
+provenance: ^Aeneid~ XII.247-250, as Tommaseo (comm. to these verses) 
+was perhaps the first to suggest; he has been followed by a number of 
+others.  In that scene an eagle, described as 'Jove's golden bird,' 
+offers an omen (arranged by Turnus's sister, the nymph Juturna) when it 
+dives from the sky to snatch a swan out of the water and carries it off 
+as its prey.  (This much of the drama bodes ill for the Trojans, but 
+they are heartened, unfortunately for them, in the final result, when 
+the rest of the water fowl attack the eagle and it drops the swan.)  
+The language is pertinent: Jove's golden bird is attacking the 
+'litoreas... avis turbamque sonantem / agminis aligeri' (the fowl along 
+the shore, the clamorous crowd in their wing&#928;d band).  From among 
+this ^agmen aliger~ the eagle picks one.  For the pun available to 
+Dante on his family name (Alighieri/^aliger~) see the note to ^Inferno~ 
+XXVI.1-3.  It seems possible that here Dante is conflating the two 
+Virgilian passages in which a Jovian eagle seizes its prey and enjoying 
+the coincidence that, in the last of them, that prey is associated with 
+his own name, since he, too, while dreaming, is being lifted skyward in 
+the talons of Jove.
+	The fire alluded to here is the ring of fire that was believed to 
+surround the closer-to-earth sphere of air, just before one might reach 
+the moon.  That this is the 'tanto... del cielo acceso' (so much of the 
+sky set afire) of ^Paradiso~ I.79 was possibly first suggested by 
+Lombardi (comm. to  ^Par~. I.79-81).  Thereafter it became a 
+commonplace in the commentaries.
+
+	|31-33.~  Once again the negative version of events put forth in the 
+dream has a better meaning.  It seemed that the eagle and Dante were 
+consumed in the ring of fire high above the earth, while actually Dante 
+and Lucia have risen to the gate of purgatory, as we shall shortly find 
+out, and Dante is being awakened, not by the pain of death, but by the 
+late-morning sun on his eyelids (^Purg~. IX.44).  If there is a further 
+significance to this detail, it would seem to refer to Dante's eventual 
+arrival at the true 'sphere of fire,' the Empyrean.
+
+	|34-42.~  The poet describes the narrator's awakening in terms that 
+recall Statius's text (^Achilleid~ I.247-250), describing the stratagem 
+employed by Thetis, Achilles' mother, in order to keep him from being 
+'drafted' into the Trojan war.  Taking him from the care of his tutor, 
+the centaur Chiron (see ^Inf~. XII.71), Thetis carries him in her arms, 
+sleeping, to the island of Scyros.  Again Dante adverts to a mythic 
+narrative that has a tragic result; Thetis's benevolent caution will 
+not prevent the coming of Ulysses and Diomedes to Scyros and the 
+eventual death of Achilles in the war.  Dante's 'comic' reality 
+counters the Statian tragedy: Achilles is carried down from his 
+mountain homeland to an island from which he will go off to his death; 
+Dante is carried up a mountain situated on an island toward his 
+eventual homeland and eternal life.  Rarely in the ^Commedia~ is the 
+contrast between classical and Christian views, between tragedy and 
+comedy, more present than in these classicizing passages that open this 
+canto.  It is also true that the protagonist, as he experiences these 
+new things, behaves very much as the 'old' man that he still is, and 
+assumes that terror is a valid response to these miraculous events 
+that, the reader can see, speak only of God's love and protection for 
+even such a sinner as Dante.
+
+	|43-45.~  Dante and Virgil have left their companions behind, down the 
+mountain's slope, and are facing the east, the sun in their faces as 
+the morning advances.
+
+	|52-63.~  As though to remind the reader that all the material 
+relating to Dante's dream did have a counterpart in reality, Virgil's 
+explanation 'glosses' the dream as it explains the coming of Lucy, 
+while Dante slept, at the solar aurora, nine hours after he had seen 
+the lunar aurora.  Sometime after dawn she began her ascent with Dante 
+in her arms, leaving their companions in ante-purgatory.
+	|55.~  St. Lucy remains one of the more problematic presences in 
+Dante's poem.  Exactly who is she and why is she so important to him?  
+Most commentators take her to be the early-fourth-century martyr from 
+Syracuse, killed while Diocletian was emperor ca. A.D. 304.  She is 
+usually associated with the well-being of the eyes, and this may have 
+had some resonance for Dante who, in ^Convivio~ III.ix.15, reports a 
+severe bout of eye trouble in the same year that he was composing his 
+ode 'Amor che ne la mente mi ragiona.'  For whatever reason (and we 
+shall probably never know it), Dante was obviously particularly devoted 
+to the cult of this saint.  She has a presence in three major scenes in 
+the work, the 'prologue in heaven' (^Inf~. II.97-108), the transport of 
+Dante while he sleeps in this canto, and the prospect of the 
+inhabitants of the 'stadium-rose' (^Par~. XXXII.137).
+	Moore (^Studies in Dante~, Fourth Series: ^Textual Criticism of the 
+"Convivio" and Miscellaneous Essays~ [Oxford: Clarendon, 1968 (1917)]), 
+pp. 235-55, addresses the problem of an allegorical understanding of 
+Lucy.  Does she represent 'illuminating grace'? 'cooperating grace'?  
+Gradually Moore undermines both these allegorical formulations and 
+moves toward the notion of Lucy as Dante's 'patron saint' (p. 241), 
+offering in evidence the phrase 'il tuo fedele' (^Inf~. II.98) that 
+reappears variously (Dante as Beatrice's 'fedele' in ^Purg~. XXXI.134; 
+Bernard as Mary's 'faithful one' in ^Par~. XXXI.102) to suggest that 
+the expression 'implies the relation of one person to another person 
+^as such~, and not as a symbol or type' (p. 243).  It was important 
+that a reader like Moore, who still believed in the allegorical 
+formulations that equated Virgil with Human Reason and Beatrice with 
+Revelation or the Church (or, as Moore adds [p. 243], 'or whatever it 
+be'), finds himself wanting to be rid of the rather fanciful 
+associations that had previously been forced upon St. Lucy.  More 
+recently Jacoff and Stephany (^Lectura Dantis Americana: "Inferno" II~ 
+[Philadelphia: University of Pennsylvania Press, 1989]), pp. 29-38, 
+crediting Pasquazi ("Il canto II dell'^Inferno~," in ^Inferno: letture 
+degli anni 1973-`76~, ed. Silvio Zennaro, Casa di Dante in Roma [Roma: 
+Bonacci, 1977 (1974)]), pp. 35-65) for his important contribution 
+before them, try to restore the importance of the cardinal virtue 
+fortitude in Dante's fashioning of the meaning of Saint Lucy.  See also 
+Anthony Cassell ("Santa Lucia as Patroness of Sight: Hagiography, 
+Iconography, and Dante," ^Dante Studies~ 109 [1991], pp. 71-88).
+	Little sense has been made out of the fact that in ^Convivio~ 
+III.v.10-18 Dante invents two imaginary cities, which he designates 
+Maria and Lucia, situated at the north and south poles respectively.  
+Is it significant that Lucy appears here, at the south pole, where, in 
+the previous work, there stands an imaginary city bearing her name?  
+For recognition of the problem represented by those two cities, without 
+attempts at a solution, see Poletto (comm. to ^Inf~. II.97-99 -- and 
+Poletto seems to have been the only commentator, at least among the 
+seventy currently gathered in the DDP, to mention this intriguing 
+passage), Jacoff and Stephany (^Lectura Dantis Americana: "Inferno" II~ 
+[Philadelphia: University of Pennsylvania Press, 1989]), pp. 32-33.  
+And now see Cornish (^Reading Dante's Stars~ [New Haven: Yale 
+University Press, 2000]), pp. 73-75.
+
+	|63.~  Dante's line, 'poi ella e 'l sonno ad una se n'andaro' (then 
+she and sleep, as one, departed) reminded Vellutello (comm. to vv. 
+64-69) of the end of the dream in Cicero's ^Somnium Scipionis~ (VI.29): 
+'Ille discessit, Ego somnio solutus sum' (He departed, and I was 
+released from sleep).  Gabriele (comm. to this verse) had earlier 
+signalled this resonance, and added also that of ^Aeneid~ VIII.67, 'nox 
+Aenean somnusque reliquit' (night and sleep both left Aeneas), a 
+passage also cited by his student, Bernardino Daniello, discussing this 
+verse.
+
+	|64-67.~  A final simile prepares us for the entrance to purgatory 
+proper, comparing Dante to one who moves from dubiety to confidence, a 
+movement that required that he reinterpret the dream and his 
+associations in a positive light.
+
+	|70-72.~  At almost the precise midpoint of the canto Dante situates 
+his second address to the reader of this ^cantica~ (see ^Purg~. 
+VIII.19-21 for the first).  It has caused two major interpretive 
+problems, twice dividing its readers into two basic groups.  First, 
+there are those who believe that it speaks of an increase of quality in 
+the artistry employed by the poet, while others contend that it speaks 
+rather of an increase of quantity.  This dispute is most readily 
+understood by referring to translations of the poem; those in the first 
+group have Dante say that he will employ better art; those in the 
+second, more of it.  The early commentators, here represented by 
+Benvenuto, think of the more elevated matter of purgatory needing to be 
+supported by 'fictionibus magis artificiosis et sententiosis' (more 
+elaborately worked and more highly signifying fictions).  Or, in 
+another formulation, the art to describe the higher mystery represented 
+by the portal of purgatory proper needs to be more artful (in this case 
+allegorical) than at other times, but not necessarily more beautiful, 
+the eventual Romantic view, yet one that is found even in John of 
+Serravalle (comm. to these verses), who argues that the poem must from 
+here on be more beautiful.  Costa (comm. to verse 71) continues 
+Benvenuto's spirit: the reader should not be surprised, in his opinion, 
+that, as Dante says, 'io cerco di sostenere con pi&#981; artificiose 
+parole la materia sublime di che favello' (I seek to reinforce the 
+sublime matter of which I speak with more elaborately worked words).
+	A second question remains: does this heightening reflect just the 
+scene that follows (as in the opinion of a minority, all responding to 
+these verses, e.g., Tozer; Momigliano; Porena; Sapegno, who has a foot 
+in both camps; Mattalia, or so it would seem; Giacalone; while Bosco 
+insists that the phrase refers to both 'arty' halves of the canto), or 
+all of the ^Purgatorio~ that is to come?  For the latter opinion see 
+Francesco da Buti (comm. to vv. 64-72), who argues that, since the 
+subject is now penitence, ^that~ is the higher matter that requires 
+more art; in one form or another, this is the position taken by most 
+commentators.  In the opinion of this writer, the address to the reader 
+refers to the description of the gate, its warder, and the three steps 
+in the rite of confession, all of which need to be understood in the 
+tradition of the allegory of the poets, as we shall see.  It regards, 
+in other words, matter both local and temporary.  In a similar vein see 
+Vazzana (“Il Canto IX del ^Purgatorio~,” in ^Purgatorio: letture degli 
+anni 1976-`79~, ed. Silvio Zennaro, Casa di Dante in Roma [Roma: 
+Bonacci, 1981]), pp. 177-80, arguing that what is at stake is the 
+allegorical nature of what immediately follows.
+
+	|80.~  The angel is seated not ^upon~ (as some translate) the highest 
+step but ^above~ it, as will become clear from verse 104, where we 
+learn that he is seated on the threshold of the gate with his feet upon 
+the third step.
+
+	|81.~  Beginning with Scartazzini/Vandelli (comm. to vv. 79-84), 
+commentators resort to the Bible (Matthew 28:3) for the stern 
+brightness of the angelic countenance: 'Erat autem aspectus ejus sicut 
+fulgur' (His countenance was as the lightning).
+
+	|82.~  The warder's sword is 'the sign of one who has authority to 
+pronounce sentence,' in the words of Singleton (comm. to this verse), 
+citing Benvenuto da Imola.  Singleton goes on to add that it is also 
+'reminiscent of the Cherubim with the flaming sword that were placed to 
+guard Eden after Adam and Eve were driven forth.'
+
+	|85.~  The warder's words of challenge, 'Dite costinci' (Say it from 
+there) repeat, as many note, the challenge of one of the centaurs to 
+the approach of Virgil and Dante (^Inf~. XII.63) and, like that one, 
+probably reflect Charon's similar words (fare age... iam istinc [tell 
+me... right where you are]) to the invading Aeneas in ^Aeneid~ VI.389, 
+as Daniello (comm. to vv. 85-87) was perhaps the first to note.
+
+	|86-93.~  This scene represents an epitomizing replay of Virgil's and 
+Dante's encounter with the guardian of all purgatory, Cato (^Purg~. 
+I.40-93): challenge by the guarding presence, who wants to know if some 
+higher authority permits this visit; Virgil's response indicating a 
+female who had sent these 'pilgrims' on their journey (this time with 
+no attempt to flatter the warder); the warder's courteous acceptance of 
+the aspirants' desire to enter a sacred precinct.
+
+	|94-102.~  The allegory of the three steps should be less difficult 
+than it has proven to be.  Considering this problem, Carroll (comm. to 
+these verses) cites Milton, describing the gate of heaven (^Paradise 
+Lost~ III.516): 'Each stair mysteriously was meant.'  But what exactly 
+does each of Dante's steps 'mean'?  Catholic doctrine, as variously 
+expressed, presents the path to absolution from sin as running, in the 
+Sacrament of Penance, from |contrition~ (the recognition and heartfelt 
+rejection of a sin) to |confession~ (of the sin, voiced to a priest), 
+to |satisfaction~ (in the promise to perform an act of penance as 
+ordered by that priest, thus showing the genuineness of the 
+confession).  This is the psychologically correct order as well as the 
+one given by 'Scholastic and other Church writers uniformly' (Moore 
+[^Studies in Dante~, Second Series: ^Miscellaneous Essays~ (Oxford: 
+Clarendon, 1968 [1899]), p. 47), i.e., one is contrite, confesses, and 
+then performs acts that will lead to |absolution~, in the culmination 
+of the sacrament.  Dante's first commentators are, however, more or 
+less evenly divided as to whether the three steps found here represent, 
+in sequence, (1) contrition, (2) confession, (3) satisfaction (this 
+group is saving Dante from himself, as it were, i.e., they record what 
+he ^should~ have said) or (1) confession, (2) contrition, (3) 
+satisfaction.  Holding for the first order see the Ottimo (comm. to vv. 
+94-95), Benvenuto (comm. to vv. 94-99), Anonimo Fiorentino (comm. to 
+vv. 94-96), Serravalle (comm. to vv. 106-108); (2): Lana (comm. to vv. 
+76-77), Pietro (Pietro1, comm. to verse 76), Buti (comm. to vv. 
+94-105), Andreoli (comm. to verse 94).  However, it is fairly clear 
+from the text that Dante has reinvented the order to suit his own 
+purpose, beginning with confession and only then proceeding to 
+contrition.  That this is almost certainly true is confirmed by a later 
+text, ^Purgatorio~ XXXI.31-90, which offers a carefully orchestrated 
+presentation of Dante's own penance before Beatrice, with the steps of 
+that paralleling the steps found here, namely, confession, contrition, 
+satisfaction, in that order.  Moore also points out that Dante's 
+presentation of the third stage, satisfaction, is unorthodox, since he 
+represents it as the love that came from Christ's self-sacrifice.  
+Thus, in Dante's scheme, the sinner first confesses his sin, then feels 
+true contrition for it, and then moves beyond it in his imitation of 
+and love for Christ.  Why he should have wanted to repackage the 
+elements of what was a standard body of doctrine and belief is not a 
+subject that has received adequate attention.  But we should not be 
+surprised to find that this poet remakes any text or any doctrine to 
+his own liking and for his own reasons.  The one element that does run 
+through Dante's version of this sacrament is that its priestly element 
+is curtailed in favor of inward recognition and performance on the part 
+of the sinner, i.e., confession in Dante seems more a private form of 
+self-recognition than is generally the case, contrition contains mainly 
+internal elements (if it must eventually be given voice), and 
+satisfaction seems more attitudinal than performative.  It also seems 
+that Dante has moved elements of satisfaction into the second stage of 
+the process, contrition.
+	Pietro di Dante (Pietro1, comm. to verse 130) is alone in referring to 
+Psalm 99:4: 'Introite portas eius in confessione' (100:4, Enter his 
+gates confessing your trust), as reflecting the situation here in the 
+poem.
+	Some years ago Gregory Curfman (Princeton '68) suggested that the 
+'narrative' told by the three steps offered an epitome of the history 
+of the human race: purity, sin, redemption.
+	For convincing disagreement with the notion that the steps actually 
+represent not the process of the Sacrament of Penance but three stages 
+in the sinner's contrition see Bosco/Reggio (comm. to verse 94).
+
+	|94-96.~  The first step, of white marble, serves as a mirror to the 
+protagonist and thus seems associated with confession.
+
+	|97-99.~  The second, darker than the purple-black of the color perse 
+and broken by a cruciform crack, represents the sinner's recognition of 
+his 'broken' state.
+
+	|100-102.~  The third, red with the color of spurting blood 
+reminiscent of the sacrifice of Jesus Christ, is, like the first, of a 
+stone of lofty character, porphyry (the second seems to be humble 
+geological matter indeed), and suggests the sacrifice the sinner must 
+make in imitation of the great sacrifice made by Christ.
+
+	|103-105.~  Only recently have commentators to this passage (Mattalia, 
+Fallani, Bosco) turned, for the source of Dante's ^diamante,~ to 
+Ezechiel's ^adamantem~, when God gives his prophet a stony forehead to 
+wear against his enemies (Ezek. 3:9).  And since the priestly angel, 
+seated upon the adamant threshold, is iconographically related to St. 
+Peter, a number of commentators think of Matthew 16:18: 'You are Peter 
+and upon this rock will I build my church.'
+
+	|109.~  Either in December 1310 at Vercelli or in January 1311 at 
+Milano, Dante was apparently presented to the new emperor, Henry VII 
+(see Frugoni's notes in his edition of Dante's ^Epistles~, p. 564).  
+Dante himself reports that he embraced the emperor's feet (^Epistle~ 
+VII.9).  It is at least conceivable that this verse remembers that 
+experience, especially since, if it was written after the event, it was 
+probably written soon after it.  Once again we are unable to be 
+certain, because of the uncertainties that attend dating the stages of 
+the poem's composition.
+
+	|111.~  Dante's threefold beating of his chest has been glossed, since 
+the time of the Ottimo (comm. to vv. 106-111), as signifying 'mea 
+culpa, mea culpa, mea maxima culpa.'  Andrea Lancia (the probable 
+author of that commentary) proceeds, followed in this, as well, by many 
+later commentators, to say that these three in turn signify three kinds 
+of sin: sins of thought, of the tongue, and in deed.
+
+	|112.~  The seven P's, generally understood as deriving from the first 
+letter of ^peccata~ (sins), evidently stand for the seven mortal sins 
+(or capital vices), but here, since the protagonist has learned to hate 
+sin, they stand for what remains of the predisposition to these seven 
+vices that is inherited by every mortal through Adam's (and Eve's) 
+original sin.  For the P's as deriving from the letter ^tau~ see 
+Sarolli ("Noterella biblica sui sette P.," ^Studi Danteschi~ 34 
+[1957]), pp. 217-22, arguing for a source in Ezekiel 9:2-6, where God 
+commands a scribe to write that letter -- as a positive sign in that 
+case -- on the foreheads of all the inhabitants of Jerusalem who repent 
+the abominations done in the city.  In the following slaughter of the 
+rest of the inhabitants, only Jeremiah and the other just Jerusalemites 
+are preserved.  See also Revelation 7:3, for the true believers who 
+bear the sign of God on their foreheads, as well as Revelation 13:16 
+and 20:4, where those who worship the Beast have ^his~ sign on their 
+foreheads.
+	For some time now a debate among the commentators has involved the 
+question of whether or not others on the mountain possess these P's 
+(i.e., whether or not the P's on Dante's forehead are unique).  Two 
+differing reasons help us to be fairly certain that they are in fact 
+unique to him, the first one positive: Dante is the sole visitor to 
+purgatory who climbs there in the flesh; his uniqueness thus has this 
+further sign.  Second, and arguing from negative evidence, one may say 
+that, since no other character is ever observed bearing these stigmata, 
+one may reasonably conclude that none has them.  One may imagine the 
+various human scenes that the poet could have developed, as various 
+characters on the mountain compared P's with Dante, etc.  He simply did 
+not choose to handle his material in that way and those who wonder 
+whether others bear P's on their foreheads have simply invented a 
+problem.  See the note to ^Purgatorio~ XXI.22-24.
+
+	|114.~  Sin as a 'wound' is a biblical topos (see Isaiah 1:6 [first 
+noted by Scartazzini (comm. to ^Par~. VII.28)], Psalm 38:11 [39:10 -- 
+as noted by Singleton (comm. to this verse)].
+
+	|115-116.~  The color of the warder's garments is the gray of ashes 
+and gives expression to his humility, despite his high office.
+
+	|117-126.~  Sensible allegorical expositions of the two keys are found 
+variously, but of particular use is Poletto's gloss (to vv. 115-117).  
+The golden key denotes the authority to absolve granted by Christ 
+directly; the silver, the judgment necessary in the priest to be sure 
+the penitent is truly deserving of absolution.  Poletto cites passages 
+in St. Thomas to show Dante's closeness to them in this part of his 
+description of the process of entering purgatory (^Summa Th~., III, 
+Suppl., qq. 17-20).  Once the priest has judged the penitent ready for 
+absolution (using his silver key), he then uses the golden one to 
+complete the opening of the door.  The priest, of course, may err in 
+wanting to allow an unfit soul to enter; in that case the golden key 
+will not turn in the lock -- but even so, God is disposed to err on the 
+side of mercy and will overrule a prelate who is niggardly in pardoning.
+	The fact that a priest may err in his judgment makes it disturbing 
+that this figure is presented as being literally an angel (who thus 
+should be free of such weak discernment).  It would seem more logical 
+if we dealt here with an allegorical figure, Priestliness, the Petrine 
+warder of the gate, a composite figure representing a class, not a 
+particular historical being.  And, indeed, the angel does not behave in 
+any other way.
+
+	|131-132.~  See Christ's words to his disciples (Luke 9:62): 'Nemo 
+mittens manum suam ad aratrum, et respiciens retro, aptus est regno 
+Dei' (No man, having put his hand to the plough, and looking back, is 
+fit for the kingdom of God).  This apt passage has been cited in this 
+connection since the time of Pietro di Dante (Pietro1, comm. to these 
+verses).  While Lot's wife (Genesis 19:17; 19.26) may also be 
+remembered here, the passage from Luke's gospel is more closely 
+related.  The same may be said for the resonance of Orpheus's backward 
+glance at Eurydice.  Luke's passage, insisting that a backward glance 
+will cost the kingdom of Heaven, is perfectly a propos (as Timothy 
+Hampton, then a graduate student at Princeton, suggested in 1984) 
+because it alone has the object that may be lost ahead of (rather than 
+behind) its seeker.
+
+	|133-138.~  This is the first part of one of the most difficult canto 
+endings in the ^Divine Comedy~.  These lines remember a terrible moment 
+of Roman history, while the second part (^Purg~. IX.139-145) reflects 
+the musical practice of Dante's day.
+	For hundreds of years Rome had kept a part of its treasure secure from 
+any use, locked behind a portal that was never opened, until Caesar, in 
+order to fund his pursuit of Pompey and Cato in 49 B.C., broke into the 
+treasury and looted it, overcoming the resistance of a single brave 
+republican, Metellus, loyal to Pompey.  Dante's source here is the 
+violently republican Lucan (^Phars~. III.108-168).  It is worth reading 
+the entire passage, which most commentators apparently do not do, for 
+it drips with sarcasm about Julius Caesar, from its inception, in which 
+Caesar, having marched on Rome and conquered by arms, has become 
+everything and the senate has become a mouthpiece for this 'private 
+man,' to its conclusion, in which the city is portrayed as being poorer 
+than the one man who rules her as a result of his plundering the temple 
+of Saturn, her treasury.  There is nothing good here about Caesar, 
+despite Dante's respect for him as the person he considered the first 
+emperor of Rome (see Stull and Hollander, "The Lucanian Source of 
+Dante's Ulysses," ^Studi Danteschi~ 63 [1991 (1997)], pp. 33-43, for 
+Dante's mainly negative, if mixed, views of Julius in the poem).  And 
+thus the sound that sounds so shrilly at Dante's entrance into 
+purgatory is reminiscent of what, for Lucan and for Dante, is perhaps 
+the nadir of Roman history, the accession of Caesar and the destruction 
+of the republic.  For Dante's fervent belief in the republican virtues 
+and form of government see Hollander and Rossi ("Dante's Republican 
+Treasury," ^Dante Studies~ 104 [1986], pp. 59-82).  Along with the 
+passage in Lucan, undoubtedly Dante's main source here, Tommaseo (comm. 
+to vv. 133-135) brings into play ^Aeneid~ VI.573-574: tum demum 
+horrisono stridentes cardine sacrae / panduntur portae (then at last, 
+grating on their hinges, the impious gates swing open).  Virgil is 
+describing the gates of Tartarus, swinging open (the Sibyl and Aeneas 
+do not enter, but she does tell him of the horrors of the punishments 
+therein).  Here, too, we can see how Dante has juxtaposed two similar 
+objects, the gates of Tartarus, the pagans' hell, and those of 
+purgatory, and make the reader aware of the crucial similarity that 
+marks their utter difference.
+	What is the effect of such negative reminiscences as the protagonist 
+begins to attain the Promised Land?  One must conclude that we are 
+dealing here with antithesis: as brutally shrill as was the sound of 
+the squealing doors of the temple of Saturn, of the gates of Tartarus, 
+exactly so terribly loud is the rare victory of a penitent being 
+allowed to enter the kingdom of Heaven -- or its vestibule.  What was 
+tragic in its consequence for Rome is marked by a sound exactly as loud 
+and grating as this one that announces the victory of a new (and 
+better) Caesar who enters not against the will of the warder, but in 
+accord with it.  Only the sounds are similar; all else is changed.  
+And, as we have seen occur several times in the first half of this 
+canto, tragic classical myth or history gives way to comic Christian 
+narrative.  In the words of Jesus (Luke 12:34), 'There where your 
+treasure is, there your heart is also.'  Caesar's treasure is far 
+different from the treasure in Heaven sought and found by only 
+relatively few Christians, their low numbers suggested by the 
+infrequent screechings of this gate.
+	As for the positive resolution for the unpleasant sound of the opening 
+gate, Denise Heilbronn ("^Concentus musicus~: The Creaking Hinges of 
+Dante's Gate of Purgatory," ^Rivista di studi italiani~ 2 [1984], pp. 
+1-15) points out that medieval concepts of musical 'sweetness' had more 
+to do with harmony than with the sounds themselves.  She (p. 4) gives 
+the examples of the hurdy-gurdy and drum, both of which would hardly 
+seem to be 'sweet' to modern ears, but did to those of the time who 
+recorded their responses.  This point is a pivotal one for those who 
+cannot bring themselves to see how the grating screech of a gate can be 
+in harmony with another sound.  Yet when we reflect, along with 
+Heilbronn, that what the gate's sound announces is very sweet indeed, 
+we may begin to understand Dante's strategy here.  M.A. Buchanan ("At 
+the Gate of Purgatory [^Purg~. IX, 130-145, X, 1-6]," ^Italica~ 25 
+[1948], pp. 6-7) points out that there are three musical moments in the 
+scene: the roaring of the hinges, the harmonious singing of the angels 
+who are apparently within the gates, and the sound of the gate closing 
+behind Dante in the fourth verse of the next canto.
+
+	|134.~  The noun ^regge~ represents a relatively rare term (one never 
+used elsewhere by Dante) for the main portal of a church.  Denise 
+Heilbronn ("^Concentus musicus~: The Creaking Hinges of Dante's Gate of 
+Purgatory," ^Rivista di studi italiani~ 2 [1984]), p. 5, suggests that 
+'like a cathedral door, the gate of purgatory is the mystical image of 
+the gate of heaven.'
+
+	|139-145.~  This passage, too, has caused a great deal of difficulty.  
+Denise Heilbronn ("^Concentus musicus~: The Creaking Hinges of Dante's 
+Gate of Purgatory," ^Rivista di studi italiani~ 2 [1984], pp. 1-15), a 
+Dante scholar with a musical background, has dealt with a number of the 
+issues that have puzzled readers and offers a helpful review of the 
+extensive discussion.  Some of the essential matters in dispute involve 
+the words ^tuono~, ^voce~, ^suono~, and ^organo~.
+	According to her, ^tuono~ (understood as 'a note' and not as 
+'thunder') should be seen as positive, since it is the sound that 
+accompanies a soul's entrance into purgatory; ^voce~ and ^suono~ are, 
+respectively, technical terms for the human voice and an inanimate, 
+instrumental sound (pp. 6-7), while ^organo~ refers either to 
+polyphonic singing or singing accompanied by an organ.  Heilbronn is 
+illuminating about the use of impressively large organs in churches in 
+the tenth and eleventh centuries (pp. 8-10).  However, some 
+contemporary scholars have moved back to the notion of the first 
+commentators that the phrase 'singing with organs' (^cantar con 
+organi~) referred to vocal music sung polyphonically, no modern 
+commentator more convincingly than Fallani (comm. to verse 144), 
+revisiting a conference paper given by Casimiri in 1925.  But 
+counter-arguments by Giacalone (comm. to vv. 142-146) and Bosco/Reggio 
+(comm. to vv. 144-145) seem even more convincing.  Giacalone points out 
+that Dante himself had described an organist as accompanying a song 
+(^De vulgari eloquentia~ II.viii.5-6) and Bosco/Reggio, influenced by 
+the paper given by Damilano in 1974, remind us that one of Dante's 
+commentators, Cristoforo Landino (1481), grandnephew of the famous 
+organist Francesco Landino, is of the opinion that the practice was to 
+alternate passages of singing and organ-playing in church services and 
+that this is referred to by Dante here.
+	Dante believes he hears the words of a hymn being sung (and we must 
+imagine that, if there was actual singing to greet his coming [Dante 
+only says that he ^seemed~ to hear voices], it was done by angels, 
+since the penitents we eventually see in the next canto, the prideful, 
+are bent under their weights and far from lyrical).  ^Te Deum laudamus~ 
+has an interesting history in the commentaries.  (For the text of the 
+hymn in Latin and English see Singleton, comm. to verse 140.)  
+Benvenuto, responding to vv. 139-140, claims that St. Ambrose wrote 
+this hymn after he had served as St. Augustine's spiritual doctor and 
+cured him of his terrible errors (in Milan shortly before Augustine's 
+conversion); it is thus, Benvenuto continues, a most fitting 
+accompaniment to Dante's -- another great intellect's -- turning to 
+penance.  Other early commentators also associate the hymn with 
+Augustine's conversion, whether it was sung while he was being baptized 
+or spoken by Ambrose in his sermon on that occasion or, indeed, 
+according to Francesco da Buti, spontaneously spoken responsively by 
+these two great men on that day.  While in our time it is not believed 
+to have been composed by Ambrose, in Dante's it was.  That Dante should 
+have chosen to present himself, entering purgatory, as a new (and 
+better) Julius Caesar and as the new Augustine is both altogether 
+extraordinary and completely Dantean.  For the opinion that Dante 
+presents himself as being like Augustine in the sins he must conquer, 
+lust and bad philosophizing, see Hollander (^Allegory in Dante's 
+"Commedia"~ [Princeton: Princeton University Press, 1969]), p. 165n.

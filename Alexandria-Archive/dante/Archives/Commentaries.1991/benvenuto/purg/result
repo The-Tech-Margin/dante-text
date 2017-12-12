@@ -1,0 +1,341 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Benvenuto
+	Language   = Latin
+	Pub. Year  = 1373
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.load into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       91300 Mar 29 14:22 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.load into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59381 Mar 29 14:23 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.load into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       61457 Mar 29 14:23 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.load into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       51275 Mar 29 14:23 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.load into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49613 Mar 29 14:23 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.load into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       51127 Mar 29 14:24 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.load into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48842 Mar 29 14:24 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.load into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53207 Mar 29 14:24 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.load into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56789 Mar 29 14:25 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.load into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43022 Mar 29 14:25 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.load into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50741 Mar 29 14:25 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.load into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53137 Mar 29 14:25 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.load into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48645 Mar 29 14:26 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.load into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59361 Mar 29 14:26 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.load into ../staging/purg/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39679 Mar 29 14:26 ../staging/purg/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.load into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57101 Mar 29 14:26 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.load into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43146 Mar 29 14:27 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.load into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43249 Mar 29 14:27 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.load into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43682 Mar 29 14:27 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.load into ../staging/purg/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57507 Mar 29 14:28 ../staging/purg/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.load into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40170 Mar 29 14:28 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.load into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48478 Mar 29 14:28 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.load into ../staging/purg/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38797 Mar 29 14:28 ../staging/purg/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.load into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47005 Mar 29 14:28 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.load into ../staging/purg/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54393 Mar 29 14:29 ../staging/purg/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.load into ../staging/purg/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42518 Mar 29 14:29 ../staging/purg/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.load into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39351 Mar 29 14:29 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.load into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45790 Mar 29 14:30 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.load into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       44898 Mar 29 14:30 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.load into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39460 Mar 29 14:30 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.load into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36117 Mar 29 14:30 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.load into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47959 Mar 29 14:31 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.load into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Benvenuto...
+Verifying Benvenuto...
+
+No Verification Errors.
+-rw-r--r--  1 dante       44026 Mar 29 14:31 ../staging/purg/33

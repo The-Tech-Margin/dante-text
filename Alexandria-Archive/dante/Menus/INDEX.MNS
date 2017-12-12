@@ -1,0 +1,211 @@
+{INDEX}
+
+:COMPARE @SELECTION
+     TO "S"
+	:RETURN
+:DONE
+
+:COMPARE @PTEXT 
+     TO "Yes"
+	:SET @P1 ~\n\t\o2D\f2 to Display query just selected~
+	:SET @M1 ~#1:D~
+     TO "No"
+	:SET @P1 ~~
+	:SET @M1 ~~
+:DONE
+
+:COMPARE @SINDEX
+     TO "*"
+	:SET @P1 ~@P1\n\t\o2L\f2 to List current index~
+	:SET @M1 ~@M1|#1:L~
+:DONE
+
+:COMPARE @ICONTINUE
+     TO "Yes|No"
+	:PRINT ~@HEADING~
+
+	:COMPARE @SINDEX
+	     TO "*"
+		:PRINT ~Current index is on: \o2@SINDEX\f2\n\n~
+	:DONE
+
+	:COMPARE @PTEXT
+	     TO "Yes"
+		:PRINT ~Query just selected:\n~
+		:SET #QMASK ~#ZQ~
+		:BRS QUERIES USING ~#MAXQUERY~
+		:PRINT ~\n~
+	:DONE
+
+     TO "No"
+	:SET @P2 ~~
+	:SET @M2 ~~
+	:SET @DEFAULT ~S~
+
+     TO "Yes"
+	:SET @P2 ~\n\t\o2C\f2 to Continue current index~
+	:SET @M2 ~#1:C~
+	:SET @DEFAULT ~C~
+
+     TO "Yes|No"
+	:PRINT ~Index options are:\n@P1@P2
+	\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+	:GET @INDEX ~Enter index term [@DEFAULT]: ~
+	:PARSE @INDEX UPPER
+
+	:COMPARE @INDEX
+	     TO ""
+		:SET @INDEX ~@DEFAULT~
+
+	     TO "#1:H"
+		:SET @SELECTION ~~
+		:MENU ~INDEX_HS~
+
+	     TO "#1:S"
+		:SET @SELECTION ~S~
+		:RETURN
+
+	     TO "@M2"				; continue
+		:SET @INDEX ~~
+		:SET @ICONTINUE ~Continue~
+
+	     TO "@M1"				; list or display
+		:COMPARE @INDEX
+		     TO "#1:D"
+			:SET @SELECTION ~D~
+			:SET @BR ~#MAXQUERY~
+			:SET @DOC ~1~
+			:RETURN
+		:DONE
+
+		:COMPARE @ICONTINUE
+		     TO "Yes"
+			:SET #PICKUP ~Yes~
+		     TO "No"
+			:SET #PICKUP ~~
+		:DONE
+
+		:SET @INDEX ~~
+		:SET @ICONTINUE ~Again~
+
+	     TO "* *|*	*"			; space or tab embedded
+		:PRINT ~\n\o5 Only one term at a time, please. \f5\n~
+		:PAUSE
+
+		:SET @SINDEX ~~
+		:SET @SELECTION ~I~
+		:MENU
+
+	     TO "*"
+		:SET @SINDEX ~@INDEX ~
+		:SET #HEADING ~@HEADING_Index of @SINDEX ...\n\n~
+	:DONE
+
+     TO "Continue"
+	:SET #HEADING ~@HEADING_Continuation of @SINDEX ...\n\n~
+	:SET @SINDEX ~@SINDEX+~
+	:SET @INDEX ~+~
+
+     TO "Yes|No|Continue"
+
+	:CLEAR STACK
+	:PRINT ~#HEADING~
+
+	:SET #QMASK ~~
+
+	:SET #ILIMIT ~#ZI~
+	:BRS INDEX ~@INDEX~ ROOT
+
+	:COMPARE #RESULT
+	     TO "*"
+		:PRINT ~\n\t\o5 #RESULT \f5\n~
+		:PAUSE
+
+		:SET @SINDEX ~~
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:COMPARE #ROOTMAX
+	     TO "0"
+		:PRINT ~\n\o5 Sorry, index is unavailable. \f5\n\n~
+		:PAUSE
+
+		:SET @SINDEX ~~
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+     TO "Again"
+	:SET #HEADING ~@HEADING_Index of @SINDEX ...\n\n~
+	:CLEAR STACK
+	:PRINT ~#HEADING~
+
+     TO "Yes|No|Continue|Again"
+	:CLEAR STACK
+	:SET #QMASK ~Reference %Q --> %t35 %D` document(s)`~
+	:BRS INDICIES
+	:PRINT ~\n~
+:DONE
+
+:SET @PTEXT ~No~
+
+:COMPARE #PICKUP
+     TO ""
+	:SET @M1 ~~
+	:SET @DEFAULT ~[S]~
+	:SET @ICONTINUE ~No~
+
+     TO "*"
+	:SET @M1 ~#1:C~
+	:SET @DEFAULT ~[Continue]~
+	:SET @ICONTINUE ~Yes~
+:DONE
+
+:GET @REFERENCE -
+     ~Enter Reference Number(s); \o2S\f2 to Search; \o2H\f2 for Help @DEFAULT:
+   --> ~
+
+:PARSE @REFERENCE UPPER
+
+:COMPARE @REFERENCE
+     TO "#1:H"
+	:SET @SELECTION ~~
+	:SET @ICONTINUE ~Again~
+	:MENU ~INDEX_HR~
+
+     TO ""
+	:COMPARE @DEFAULT
+	     TO "*C*"
+		:SET @REFERENCE ~C~
+	:DONE
+
+     TO "#1:S|"
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "@M1"
+	:SET @ICONTINUE ~Continue~
+	:MENU
+:DONE
+
+:PARSE @REFERENCE INDEX
+
+:COMPARE #RNUMS
+     TO ""
+	:CLEAR STACK
+	:PRINT ~\n#GETMSG\n~
+	:SET @ICONTINUE ~Error~
+	:MENU
+:DONE
+
+:PARSE #RNUMS INSERTING ~ #O1 ~
+:PARSE #TERMS INSERTING ~ #O1 ~
+
+:SET #QMASK ~~
+:BRS SEARCH ~#RNUMS~
+
+:SET @PTEXT ~Yes~
+:MENU

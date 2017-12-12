@@ -1,0 +1,299 @@
+Checking file 01.load
+Warning: Single line indent at line 28
+>>>      Humboldt, quoted in ^Laws of F$esole, ch. v. sec. 17.
+
+Warning: Single line indent at line 52
+>>>      ^Modern Painters,~ vol. iii. ch. xiv. sec. 53.
+
+Warning: Single line indent at line 64
+>>>      ^Queen of the Air~, iii. sec. 135.
+
+Checking file 02.load
+Warning: Single line indent at line 1
+>>>  |CANTO II~
+
+Warning: Single line indent at line 10
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 20.
+
+Error at line 20: First indent not five spaces
+>>>                          My preceptor silent yet
+
+Warning: Single line indent at line 62
+>>>     ^Harbours of England.~
+
+Warning: Single line indent at line 78
+>>>     ^Giotto and his Works~, xvi.
+
+Warning: Single line indent at line 88
+>>>     ^Ethics of the Dust~, Lect. vi.
+
+Warning: Single line indent at line 94
+>>>     ^On the Old Road~, vol. iii. sec. 69.
+
+Warning: single line paragraph at line 96
+>>>	|7-9.~  See below, Paradiso, canto xxxi.
+
+Checking file 03.load
+Warning: Single line indent at line 26
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 13.
+
+Warning: single line paragraph at line 28
+>>>	|47.~  See above, Inferno, canto xvii.  line 134.
+
+Checking file 04.load
+Warning: single line paragraph at line 3
+>>>	|101-104.~  See above, Inferno, canto xvii.
+
+Checking file 05.load
+Warning: Single line indent at line 24
+>>>      Giovanna, nor none else have care of me.
+
+Warning: Single line indent at line 30
+>>>     ^Modern Painters~, vol. iii. ch. xv. sec. 21.
+
+Warning: Single line indent at line 43
+>>>     ^Fors Clavigera~ xlvi.
+
+Checking file 06.load
+Warning: single line paragraph at line 3
+>>>	|Nota.~  See above, Inferno, canto xxxii., on line 13.
+
+Checking file 07.load
+Warning: Single line indent at line 50
+>>>       ^Modern Painters~, vol. iii. ch. xiv. sec. 49, 50.
+
+Warning: single line paragraph at line 52
+>>>	See above, Inferno, canto iv., on line 118.
+
+Checking file 08.load
+Warning: single line paragraph at line 3
+>>>	|97-102.~  See above, Inferno, canto xxiv.
+
+Warning: single line paragraph at line 5
+>>>	|114.~  See above, Inferno, canto ix., on line 52.
+
+Checking file 09.load
+Warning: Single line indent at line 20
+>>>     ^Modern Painters~, vol. iv. ch. viii. sec. 15, note.
+
+Warning: Single line indent at line 31
+>>>     ^Modern Painters~, vol. iii. ch. xv. sec. 7.
+
+Warning: Single line indent at line 39
+>>>     ^Fors Clavigera~, ii.
+
+Warning: Single line indent at line 54
+>>>     ^Sesame and Lilies~, Lect. i. sec. 24.
+
+Checking file 10.load
+Warning: Single line indent at line 7
+>>>     ^Modern Painters~, vol. iii. ch. xv. sec. 16.
+
+Warning: Single line indent at line 16
+>>>     ^On the Old Road~, vol. i. sec. 291.
+
+Warning: single line paragraph at line 18
+>>>	|24.~  See above, p. 121.
+
+Checking file 11.load
+Warning: single line paragraph at line 6
+>>>	^Mornings in Florence~: the First.
+
+Warning: single line paragraph at line 12
+>>>	`You shall see things --- as they Are.'
+
+Warning: single line paragraph at line 14
+>>>	`And the least with the greatest, because God made them.'
+
+Warning: Single line indent at line 19
+>>>     ^Mornings in Florence~: the Second.
+
+Warning: Single line indent at line 40
+>>>     ^Mornings in Florence~: the Second.
+
+Warning: Single line indent at line 50
+>>>     ^Giotto and his Works.~
+
+Warning: Single line indent at line 62
+>>>     ^Giotto and his Works.~
+
+Warning: Single line indent at line 79
+>>>     ^On the Old Road~, vol. i. sec. 281.
+
+Checking file 12.load
+Warning: Single line indent at line 92
+>>>     ^Modern Painters~, vol. iii. ch. ii. sec. 5-7.
+
+Warning: Single line indent at line 106
+>>>     ^Aratra Pentelici~, Lect. iv. sec. 129.
+
+Checking file 13.load
+Warning: Single line indent at line 12
+>>>     ^Stones of Venice~, vol. ii. ch. viii. sec. lxi., note.
+
+Checking file 14.load
+Warning: Single line indent at line 13
+>>>     ^Art of England~, Lect. iv.
+
+Warning: Single line indent at line 27
+>>>     Io sono Aglauro, che divenne sasso.
+
+Warning: Single line indent at line 29
+>>>     ^Queen of the Air~, i. sec. 38.
+
+Checking file 16.load
+Warning: Single line indent at line 20
+>>>     ^Val d'Arno,~ Lect. i. sec. 2.
+
+Warning: Single line indent at line 28
+>>>     ^Modern Painters~, vol. iii. ch. xv. sec. 20.
+
+Warning: single line paragraph at line 30
+>>>	|5.~  See above, Inferno, canto viii.
+
+Checking file 17.load
+Warning: Single line indent at line 10
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 18.
+
+Warning: single line paragraph at line 12
+>>>	|1.~  See above, Inferno, canto xiv.
+
+Checking file 18.load
+Warning: Single line indent at line 13
+>>>     Cui buon voler e giusto amor cavalca.
+
+Warning: Single line indent at line 18
+>>>     ^On the Old Road~, vol. ii. sec. 58.
+
+Checking file 19.load
+Error at line 23: First indent not five spaces
+>>>                       Lift up thy head;
+
+Warning: Single line indent at line 126
+>>>     ^Munera Pulveris~, ch. iii. sec. 88-93.
+
+Warning: Single line indent at line 139
+>>>     ^On the Old Road~, vol. i. sec. 287.
+
+Checking file 21.load
+Warning: single line paragraph at line 3
+>>>	|46-50.~  See above, canto xvi. 142.
+
+Checking file 22.load
+Warning: Single line indent at line 11
+>>>     Anderson, quoted in ^St. Mark's Rest~, Supp. ii.
+
+Checking file 24.load
+Warning: Single line indent at line 10
+>>>     ^Val d'Arno~, Lect. x. sec. 261.
+
+Checking file 26.load
+Error at line 9: Spaces/Tabs used in paragraph
+>>> . . .And I think that Dante connected the purifying pains of his
+Warning: Single line indent at line 13
+>>>     Tyrwhitt, quoted in ^Ariadne Fiorentina, app. ii. sec. 254 n.
+
+Warning: Single line indent at line 23
+>>>     ^Modern Painters,~ vol. ii. II. ch. iii. sec. 2.
+
+Warning: Single line indent at line 35
+>>>     ^Mornings in Florence~: the Third.
+
+Warning: Single line indent at line 50
+>>>     ^Modern Painters~, vol. iii. ch. xv. sec. 20.
+
+Checking file 27.load
+Warning: single line paragraph at line 3
+>>>	|Nota.~  See also above, canto xxvi.
+
+Warning: Single line indent at line 19
+>>>     ^Modern Painters~, vol. iii. ch. xiv. sec. 37.
+
+Warning: single line paragraph at line 21
+>>>	|68.~  See above, Inferno, canto xv.
+
+Warning: single line paragraph at line 23
+>>>	|99.~  See below, canto xxviii.
+
+Checking file 28.load
+Warning: single line paragraph at line 76
+>>>				       CAYLEY.
+
+Warning: Single line indent at line 160
+>>>     ^Modern Painters,~ vol. iii. ch. xiv. sec. 34-40.
+
+Warning: Single line indent at line 172
+>>>     ^Modern Painters,~ vol. iii. ch. xiv. sec. 53.
+
+Warning: Single line indent at line 177
+>>>     ^Sesame and Lilies,~ Lect. ii. sec. 94.
+
+Warning: single line paragraph at line 179
+>>>	|31.~  See above, Inferno, canto ii.
+
+Warning: single line paragraph at line 181
+>>>	|40.~  See above, canto xxvii.
+
+Checking file 29.load
+Warning: Single line indent at line 6
+>>>     ^Deucalion,~ ch. vii sec. 32.
+
+Warning: Single line indent at line 17
+>>>     ^Modern Painters,~ vol. iii. ch. viii. sec. 21.
+
+Warning: Single line indent at line 25
+>>>     ^Stones of Venice,~ vol. ii. chap. viii. sec. lxxxii.
+
+Warning: Single line indent at line 34
+>>>     ^Modern Painters,~ vol. iii. chap. viii. sec. 7.
+
+Warning: Single line indent at line 44
+>>>     ^Stones of Venice,~ vol. ii. chap. viii. sec. lvi.
+
+Warning: Single line indent at line 58
+>>>      ^Fors Clavigera,~ vii.
+
+Warning: Single line indent at line 65
+>>>     La terza parea neve test$e mossa.
+
+Warning: Single line indent at line 67
+>>>     ^Fors Clavigera,~ xlv.
+
+Checking file 30.load
+Warning: Single line indent at line 10
+>>>     ^Deucalion,~ ch. vii. sec. 32, and note.
+
+Warning: Single line indent at line 15
+>>>     ^Proserpina,~ ch. iii. sec. 29.
+
+Warning: Single line indent at line 25
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 19.
+
+Checking file 31.load
+Warning: single line paragraph at line 3
+>>>	|91-96.~  See above, canto xxviii.
+
+Checking file 32.load
+Warning: Single line indent at line 14
+>>>     ^Eagles Nest,~ Lect. ix. sec. 176, 177.
+
+Warning: Single line indent at line 23
+>>>     Anderson, quoted in ^St. Mark's Rest,~ Supp. i.
+
+Warning: Single line indent at line 47
+>>>     ^Modern Painters,~ vol. iii. ch. xiv. sec. 46.
+
+Checking file 33.load
+Checking file proem.load
+Warning: Single line indent at line 12
+>>>      ^Modern Painters~, vol. iii. ch. xiv. sec. 31.
+
+Warning: Single line indent at line 20
+>>>      ^Modern Painters~, vol. iii. ch. xiv. sec. 32.
+
+Warning: Single line indent at line 35
+>>>      ^Modern Painters~, Vol. iii. ch. xv. sec. 3.
+
+Warning: Single line indent at line 47
+>>>      ^Stones of Venice~, vol. ii. ch. viii. sec. lxi.
+

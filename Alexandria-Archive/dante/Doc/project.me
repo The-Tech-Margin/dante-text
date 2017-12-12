@@ -1,0 +1,693 @@
+.sc
+.fo ''%''
+.rs
+.sp 10
+.ce 100
+.sz +2
+.b "THE DARTMOUTH DANTE PROJECT"
+.sz -2
+.sp 2
+.i "Robert Hollander"
+Princeton University
+.sp
+May 1987
+.sp 2
+.he ''The Dartmouth Dante Project''
+.2c
+.sh 1 "History of the Project"
+.pp
+In June of 1982, I was teaching a course on Dante at Dartmouth
+College.  Taking note of the fact that three of my colleagues there
+(Kevin Brownlee, Stephen Nichols, Nancy Vickers) were increasingly
+interested in dealing seriously with Dante in their scholarship and
+of the fact that Dartmouth's holdings in this area are not strong,
+I was struck by the idea that a computerized data base of the
+commentaries would not only alleviate the situation of my colleagues
+at Dartmouth, but of 
+.i dantisti
+everywhere.  I have elsewhere
+characterized this notion as \*(lqthe best simple idea I have ever had\*(rq
+\*- a statement which perhaps suggests inaccurately that I have a had
+good complex ideas.  Dartmouth, as many know, under the guidance of
+its president, John Kemeny, had become one of the campuses in the
+world most involved in making the computer serve all parts of its
+curriculum.  It was \*- and is \*- a fertile soil for this project.
+By the end of August 1982 responses from my three colleagues in
+French & Italian, from the computer people (principally Raymond
+Neff, then Director of Academic Computing at the Kiewit
+Computational Center at Dartmouth), and from the Dartmouth
+administration were all encouraging enough to get the project
+started.  In May of 1983 the Dante Society of America offered $2,000
+in start-up funds; Dartmouth itself soon made available some
+$20,000.  Neff and the four humanists consulted through the
+following summer and produced an application to the National
+Endowment for the Humanities.  This was successful.  On 1 October
+1984 the project began a more intense phase of its existence,
+supported by $120,000 for that fiscal year (1984-85) and by the same
+amount for 1985-86 (in the form of $60,000 raised by Dartmouth to
+match an offer of that same amount in \*(lqGifts and Match\*(rq from NEH).
+In August of 1986 we learned that our second application to NEH had
+also been successful, this time in the amount of $150,000 of
+outright funds, with the potential to raise a second federal match
+of $60,000 in non-federal funds.  As of the end of 1986, gifts from
+the David and Lucile Packard Foundation and the Mellon Foundation
+had brought us one-third of the way toward that total.  We still
+need to find $40,000 to release the rest of the federal funds.
+.pp
+During the academic year 1982-83 Raymond Neff and a team of six
+graduate students in computer science at Dartmouth put together a
+working prototype of the project, based on some two dozen
+commentaries to 
+.i Inferno
+V, 121-138.  In the summer of 1983 it was
+\*- when the user-interface was not 
+.i too
+fragile \*- a joy to watch
+visiting firemen sit before a terminal in Kiewit Center and call up
+commentaries to a designated verse or search the tiny database by
+\*(lqkey words,\*(rq or wonder if one of these commentators had thought of
+St. Augustine's conversion in relation to Francesca's being
+\*(lqconverted\*(rq by her reading of the Lancelot romance to lustful
+passion (non had).  The prototype had many problems, but did show
+us that these were worth resolving and were, indeed, resolvable.
+.pp
+Life generally contrives to make all plans seem contingent.  Just as
+the project was moving in to full-scale operation in the fall of
+1984, Raymond Neff was lured from Dartmouth to Berkeley.  William
+Arms, acting director of Kiewit Center, agreed to serve as acting
+co-director of the project, until he too was soon set upon by
+foreigners, this time in  the form of Carnegie-Mellon.  Since 1985
+our co-director has been Donald Spicer, Director of Academic
+Computing at Dartmouth, who took the place previously occupied in
+the project by Neff and Arms.  During the academic year 1984-85
+Jeffrey Schnapp, then an assistant professor of French & Italian at
+Dartmouth, both a 
+.i dantista
+and a highly \*(lqcomputer-literate\*(rq young
+scholar, became the administrator of the database.  His efforts on
+behalf of the project were crucial; he single-handedly galvanized
+and co-ordinated the two dozen or so graduate and undergraduate
+students at Dartmouth who put data into the computer.  He, too
+(need I tell it?) was soon to be wooed to California (Stanford).
+Janet Stephens, who had been trained by Schnapp assumed this
+key position in September of 1985.  She and a graduate student, Ty
+Cannon were in charge of the day-to-day operation of the procedures
+of data entry during the academic year 1985-86.  during the next
+year Jonathan Altman, a junior at Dartmouth, took on increasing
+responsibility, eventually taking over Janet Stephens' tasks while 
+she was in Italy during the fall of 1986.  We have been extremely 
+well served by this group of people and by various administrators,
+faculty, personnel at Kiewit Center, and students at Dartmouth
+College.  The central players now seem to be in place for the life 
+of the project.  The two other key members of our staff are 
+Margherita Frankel, formerly associate professor of Italian at New 
+York University and a 
+.i dantista
+who is serving as editorial
+co-ordinator for the project (she has been part of our deliberations
+since July of 1983) and Stephen Campbell, a computer programmer, who
+has become the central figure on the computational side of the
+enterprise, in charge of the adaptation and development of the
+software which will power the manipulation of the database.  The
+project now uses a VAX (Digital Equipment Company) 785 computer
+running the Unix (AT&T) timesharing system and a text retrieval
+database developed by BRS Information Systems.
+.pp
+The entering of the database, which, we estimate, will be the
+equivalent of some 100,000 typed pages, was, from the beginning, our
+principal concern.  During the summer of 1983 Kiewit Center
+purchased a Kurzweil Data Entry Machine (henceforth the KDEM).
+This remarkable instrument allows itself to be programmed to \*(lqread\*(rq
+a given typeface or set of typefaces in a document.  At first we had
+any number of problems with the KDEM.  However, its error-rate was
+sharply reduced once we offered it enlarged photocopy of smaller
+typefaces.  This and other techniques which have been developed by
+Schnapp, Cannon, Stephens, and Campbell are now procuring results
+that more than justify the expense (ca. $0.75 per page) of the KDEM
+operation.  The KDEM's rate of accuracy, while it varies with the
+quality of the text which we present it, is now ca. 99.9 percent.  
+Editing is of course still necessary, but not overly difficult, 
+especially because of the pre-editing techniques developed by 
+Campbell, Stephens and Altman.  (The Digital Equipment Company has
+contributed equipment \*- seven work stations worth $41,000 \*- to the
+editorial phase of the project.)  The text of all commentaries must
+be checked; some two dozen require the addition of verse numbers to
+the entries so that retrieval throughout the database may be
+uniform.  Nearly all of the commentaries are readable by the KDEM.
+However, we have found that some either have typefaces too difficult
+for consistent recognition of their characters or are in such poor
+condition (e.g., spotted pages, uneven inking) so that manual entry
+is necessary or at least more desirable.  The positive side of this
+development is that we are proceeding with 
+.i two
+modes of data
+entry, a fact which enables us to put in data more rapidly.  The
+most difficult text we could find for the KDEM to \*(lqread\*(rq was that of
+Bernardino Daniello (first printed in 1568 and not reprinted in its
+entirety since then).  This interesting Renaissance commentary has
+now been entered, by hand.  The first printed by-product of the
+Dartmouth Dante Project, this text will be published within the
+year by University Press of New England.  Schnapp and Hollander,
+with assistance from Vickers and Brownlee, added documentation to
+Daniello's citations of the Bible and of secular authors and have
+also produced an index of citations (computer-generated, I need
+hardly add).
+.pp
+As of March 1987 the following commentaries have been
+\*(lqcomputerized\*(rq (numbers refer to those on the list of commentaries in
+the original grant proposal and in our \*(lqChecklist\*(rq \*- see the
+Appendix, below, for particulars):
+.1c
+.(l I
+1.	Jacopo Alighieri (1322)		(edited)
+4.	Jacopo della Lana (1324)		(edited)
+5.	Guido da Pisa (1327)			(being edited)
+7.	Anonimo selmiano (1337)		(edited)
+8.	Pietro di Dante (1340)			(edited)
+8a.	Codice Cassinese (1350?)	
+9.	Giovanni Boccaccio (1373)		(edited)
+10.	Benvenuto da Imola (1373)		(being edited)
+11. 	Francesco da Buti (1385)		(being edited)
+13.	Johannis de Serravalle (1416)		(being edited)
+16.	Cristoforo Landino (1481)		(being edited)
+17.	Alessandro Vellutello (1544)		(being edited)
+18.	Bernardino Daniello (1568)		(edited)
+20.	Lodovico Castelvetro (1570)		(being edited)
+24.	Luigi Portirelli (1804)
+27.	Paolo Costa (1819)			(edited)
+48.	Brunone Bianchi (1863)
+71.	John Ruskin (1903)			(edited)
+78.	Enrico Mestica (1921)
+80.	Casini-Barbi (1921)			(edited)
+90.	Dino Provenzal (1938)
+92.	Attilio Momigliano (1946)
+93.	Manfredi Porena (1946)		(being edited)
+107b.	Giorgio Padoan (1967)			(edited)
+109.	Giuseppe Giacalone (1968)		(being edited)
+112.	Charles Singleton (1970)		(being edited)
+115.	Bosco-Reggio (1979)			(edited)
+.)l
+.2c
+.sp
+.pp
+As is clear from the Appendix, we are ahead of schedule with the
+preparation of commentary copy (paste-ups for the KDEM or photocopy
+for those performing manual entry), with some 50 commentaries
+having been so prepared, just about on schedule with the
+computerization of data (some thirty commentaries entered or being
+entered), and behind schedule in our editing (twenty-two commentaries
+edited or currently being edited).  This last activity has proven to
+be more time-consuming than we at first had estimated.  We currently
+hope that arrangements made through the good offices of Professor
+Francesco Mazzoni, President of the Societa\*` Dantesca Italiana and
+holder of the senior chair in 
+.i "filologia dantesca"
+at the University
+of Florence, will aid us considerably in editing computerized text.
+We also look forward to collaboration with Professor Antonio
+Zampolli, Director of the Istituto di Linguistica Computazionale
+(Pisa), as the project develops and finds interested users in Italy.
+.pp
+The extraordinarily generous response of Italian publishers holding
+copyright to commentaries not yet in the public domain must also be
+acknowledged.  No major commentary which we wish to include will
+thus be excluded from the database.  Eventual users will of course
+be reminded that material protected by the International Copyright
+Convention is indeed still so protected.  Nonetheless, individual
+users will have access to this material because of the enlightened
+and helpful response to our requests on the part of Italian
+publishers.
+.sh 1 "Projected Uses of the Database"
+.pp
+Once the project is completed, what will have been accomplished?
+And how will those who are interested in the database be able to
+consult it?  
+.i Dantisti
+are aware that, before one ventures an
+opinion concerning a vexed passage, one should (or would like to)
+consult all previous opinions.  Currently \*- and I speak of my own
+procedures in my own library's collection at Princeton \*- this
+initial effort takes roughly four days, divided as follows.  Two
+days are necessary to collect and read through the five dozen
+commentaries in Firestone Library, two more to consult related
+bibliography
+.r ( \c
+.i lecturae
+devoted to the canto in which the passage
+occurs, articles and books which the commentaries and the
+.i lecturae
+indicate as being germane).  It should be added that
+what is described here is both the least complex and the most usual
+form of inquiry generated by the poem.  Our ability to complete
+successfully the first of these activities will now be greatly
+enhanced.  For those who do not have access to a first-rate
+collection of commentaries (such as those at Cornell or Harvard) and
+who wish to consult widely in the commentary tradition, the
+Dartmouth Dante Project will become a necessity.  On the other hand,
+those who do currently have recourse to the full run of printed
+commentaries will find that the computerized version has innumerable
+advantages.  I illustrate some of these briefly.
+.np
+A student of the poem who thinks that s/he has come up with an
+interesting interpretation of a given verse will now be able to ask
+for a review of the 
+.i entire
+commmentary tradition in whatever order
+may be desired (e.g., chronological, reverse-chronological, or even
+\*(lqmy-own-favored-dozen-in-the-order-I-happen-to-prefer\*(rq).
+.np
+If a scholar believes s/he has discovered a \*(lqsource\*(rq in Virgil,
+Ovid, the Bible, for a given verse, s/he may use the search routine
+indicated above.  S/he may, alternatively or additionally, wish to
+search the database by \*(lqkey words\*(rq in order to ascertain if any of
+the commentators have cited his/her passage before him.  Such searches
+require more skill on the part of the user, but can be extremely
+valuable.
+.np
+Let us assume that one is interested not so much in Dante as the
+rediscovery of Plato in the Renaissance.  Searches of the early
+commentaries for crucial concepts or phrases can be completed in
+seconds or minutes, depending on the richness of the materials
+present and the ingenuity of the searcher.
+.pp
+Access to the database will be achieved in a number of ways.
+Indeed, given the nature of the awesome speed of technological
+developments, it would be rash to predict in exactly what ways.
+What follows moves from the simplest procedures to the seemingly
+incredible ones.
+
+.sh 2 "Retrieval possibilities in the immediate future"
+.pp
+(In all cases
+Dartmouth is to receive an as yet to be determined fair cost for
+computer time and handling of requests.)
+.np
+A print-out of a complete commentary (so long as that text is
+.i not
+protected by the copyright convention).  Libraries or
+individuals wishing to fill gaps in their holdings will be able to
+create \*(lqinstant books\*(rq should they wish to.  And many of the
+earlier commentaries, originally printed without line references,
+will now have these indications \*- a considerable improvement.
+.np
+A print-out of a particular comment within a commentary (e.g., Daniello on 
+.i Inferno
+XXI, 112) or of 
+.i all
+commentators on that verse or passage.
+.np
+On-line consultation either at Dartmouth or via telephonic
+connection (modem).  Such access allows the user full control of the
+search procedures and is, in most cases, to be preferred.  (External
+users, in addition to Dartmouth's normal connection charge, will
+have to pay phone charges.  Telenet charges between Princeton and
+Dartmouth currently cost about $2.50 an hour.)
+.sh 2 "Additional possibilites for retrieval once the project is completed"
+.np
+A library or an individual will be able to purchase a tape of
+the entire database from Dartmouth for a surprisingly low fee (in
+the hundreds of dollars?).  However, the database will be available
+in this form 
+.i without
+the BRS search software.  Thus a potential
+purchaser will probably want to have access to this software at his/her
+own institution so that s/he will be able to interact with the
+database in efficient ways. 
+.np
+There is already available a laser disk (manufactured by SONY \*-
+Digital Equipment has already moved in the same direction, and others
+will also undoubtedly do so) which will run even now on an enhanced
+IBM-PC.  This disk holds about ten times the information represented
+by our database.  It thus seems reasonable to believe that
+individuals (not to mention research facilities) will be able to
+purchase the entire database, possibly enhanced by other texts, in a
+form that will run efficiently on a personal computer.  It now seems
+almost a certainty that such will be the case well before we finish
+our work on the project.
+.sh 1 "The User Interface"
+.np
+The Dartmouth Dante will be menu driven.
+.np
+\*(lqHelp\*(rq features will guide users through the entire procedure of
+consultation.
+.np
+Indices and tables found in some commentaries will be preserved
+(e.g., Scartazzini uses abbreviations to refer to other critics and
+commentators).
+.np
+Since all texts are keyed by cantica, canto, and line, orderly
+search procedures of the most usual kind are very easily
+accomplished.
+.np
+The standard search procedures of BRS will power the basic
+system of text retrieval.  One of the distinguishing features of
+BRS is that it enables \*(lqfull text retrieval\*(rq without prior
+manipulation of the data base by the user.
+.pp
+We are aware that full text retrieval requires more complicated
+effort than even skilled users are likely to realize  (See the
+article by David C. Blair and M. E. Maron in 
+.i "Communicatons of the ACM"
+for March of 1985.)  We have reason to believe that, for
+various reasons, users of this database will be able to do better
+than those in the experiment described by Blair and Maron.  At the
+same time, we understand the importance of making available clear
+and complete instructions through \*(lqhelp menus\*(rq concerning the various
+combinations of Boolean logic incorporated in BRS.
+.sh 1 "Immediate plans"
+.pp
+Stephen Campbell's prototype is expected to make its debut at the
+Kalamazoo Congress in May of 1987.  We will then be able to give interested 
+.i dantisti
+here and abroad a more concrete sense of what
+the end result of our labors will enable them to accomplish.  (The
+prototype will include some two dozen commentaries to the entirety of 
+.i Inferno
+V.)  Once we are satisfied that the prototype has dealt
+effectively with the problems confronting us, we should soon be able
+to \*(lqload\*(rq all commentaries which have been through their final
+editorial procedures.  We would expect that sometime in 1988 the
+Project will be able to enter the \*(lqreal world\*(rq and to be consulted
+for whatever materials are currently available.  Since these
+materials should by then encompass at least twenty full
+commentaries, the gains to Dante scholarship should be worth our
+efforts even then, while the rest of our work continues.  Each person
+who consults the database will be reminded that any errors should be
+recorded (on-line users will be able to list these during a
+session), since we will re-open the database on 20 October 1990 for
+the first of our regular editorial revisions of the material.
+.pp
+Thus, while a great deal of work still lies before us, we can begin
+to see that one day in a not very distant future we will have
+finished a task which has cost may of us considerable effort and the
+citizens of this republic a great deal of money.
+.fo ''A-%''
+.pn 1
+.bp
+.1c
+.rs
+.sp 5
+.sz +2
+.ce 100
+.b
+APPENDIX
+.sp
+STATUS OF THE COMMENTARIES
+.sz -2
+.r
+(31 March 1987)
+.ce 0
+.sp 3
+.pp
+This chart displays the 80 commentaries considered for
+inclusion.  Their numbers correspond to those found in \*(lqA
+checklist of Commentators on the 
+.i Commedia \*(rq
+prepared by Robert Hollander, forthcoming in 
+.i "Dante Studies"
+The first \*(lqtier\*(rq includes Italian commentaries written before 1900;
+the second, Latin commentaries; the third, English; the
+fourth, Italian commentaries of this century.  (N.B. Dates
+of publication are not always more than approximate.)  *An
+asterisk which precedes the number of an item indicates
+that this text is fully prepared for use.
+.sp 3
+.ce
+FIRST TIER (= earlier Italian commentaries)
+.sp 2
+.(l I
+*1.  JACOPO ALIGHIERI (1322) (\fIInferno\fR only)
+Text edited and in final form.
+
+*4.  JACOPO DELLA LANA (1324-28)
+Text edited and in final form.
+
+6.  OTTIMO (1333)
+Text prepared for data entry.
+
+*7.  ANONIMO SELMIANO (1337) (\fIInferno\fR only)
+Text edited and in final form.
+
+*9.  GIOVANNI BOCCACCIO (1373) (\fIInferno\fR: partial)
+Text edited and in final form.
+
+11.  FRANCESCO DA BUTI (1385)
+Text being edited.
+
+12.  ANONIMO FIORENTINO (1400)
+Text machine-readable (KDEM-BYU) but not yet edited.
+
+14.  GUINIFORTO DELLI BARGIGI (1440) (\fIInferno\fR only)
+No action taken as yet.
+
+16.  CRISTOFORO LANDINO (1481)
+Text being edited.
+
+17.  ALESSANDRO VELLUTELLO (1544)
+Text being edited.
+
+*19.  BERNARDINO DANIELLO (1568)
+Text edited and in final form \*- printed edition expected shortly.
+
+20.  LODOVICO CASTELVETRO (1570) (\fIInferno\fR: partial)
+Text being edited.
+
+21.  LORENZO MAGALOTTI (1665) (\fIInferno\fR: partial)
+No action taken as yet.
+
+22.  POMPEO VENTURI (1732)
+Text prepared for data entry.
+
+23.  BALDASSARE LOMBARDI (1791)
+Text prepared for data entry.
+
+24.  LUIGI PORTIRELLI (1804)
+Text being typed in but not yet edited.
+
+26.  GIOSAFATTE BIAGIOLI (1818)
+No action taken as yet.
+
+*27.  PAOLO COSTA (1819)
+Text edited and in final form.
+
+29.  ROSSETTI (1826) (\fIInferno\fR & \fIPurgatorio\fR)
+No action taken as yet.
+
+32.  NICCOLO\*` TOMMASEO (1837)
+Text prepared for data entry.
+
+33.  PHILALETHES (1839) (\fIInferno\fR only)
+No action taken as yet.
+
+36.  PIETRO FRATICELLI (1852)
+No action taken as yet.
+
+38.  RAFFAELLO ANDREOLI (1856)
+No action taken as yet.
+
+42.  LUIGI BENNASSUTI (1864)
+No action taken as yet.
+
+47.  GREGORIO DI SIENA (1867) (\fIInferno\fR only)
+Text prepared for data entry.
+
+48.  BRUNONE BIANCHI (1868)
+Text machine-readable but not yet edited.
+
+49.  EUGENIO CAMERINI (1869)
+No action taken as yet.
+
+52. G. A. SCARTAZZINI (1900)
+Text prepared for data entry.
+
+54.  ANTONIO LUBIN (1881)
+No action taken as yet.
+
+58.  GIUSEPPE CAMPI (1888)
+Text being prepared for data entry.
+
+59.  TOMMASO CASINI (1889)
+No action taken as yet.
+
+62.  GIOACHINO BERTHIER (1892)
+Text prepared for data entry.
+
+65.  GIACOMO POLETTO (1894)
+Text being scanned by KDEM (BYU).
+
+66.  G. L. PASSERINI (1897) [1911 edition]
+No action taken as yet.
+
+68.  DOMENICO PALMIERI (1898)
+No action taken as yet.
+.)l
+.ne 12
+.sp 5
+.ce
+SECOND TIER (Latin Commentators)
+.sp 2
+.(l
+2.  GRAZIOLO DE' BAMBAGLIOLI (1324) (\fIInferno\fR only)
+Text machine-readable but not yet edited.
+
+3.  ANONIMO LOMBARDO (1324?) (\fIPurgatorio\fR only)
+Text prepared for data entry.
+
+5.  GUIDO DA PISA (1327) (\fIInferno\fR only)
+Text edited but not yet in final form.
+
+*8.  PIETRO DI DANTE (1340)
+Text edited and in final form.
+
+8a.  CODICE CASSINESE (1350?)
+Text machine-readable but not yet edited.
+
+10.  BENVENUTO DA IMOLA (1373)
+Text machine-readable and being edited (through \fIInf.\fR)
+
+13.  JOHANNIS DE SERRAVALLE (1416)
+Text machine-readable and being edited (through \fIPurg.\fR X).
+.)l
+.ne 12
+.sp 5
+.ce
+THIRD TIER (English Commentators)
+.sp 2
+.(l
+41.  J. W. THOMAS (1859)
+No action taken as yet.
+
+46.  HENRY WADSWORTH LONGFELLOW (1867)
+No action taken as yet.
+
+53.  A. J. BUTLER (1880)
+No action taken as yet.
+
+55.  E. H. PLUMPTRE (1886)
+No action taken as yet.
+
+69.  H. OELSNER (1899)
+Text prepared for data entry.
+
+70.  H. F. TOZER (1901)
+No action taken as yet.
+
+*71.  JOHN RUSKIN (1903)
+Text edited and in final form.
+
+73.  J. S. CARROL (1904)
+Text being prepared for data entry.
+
+76.  C. H. GRANDGENT (1909)
+Text prepared for data entry.
+
+112.  CHARLES S. SINGLETON (1970)
+Text (and text of poem) currently being edited.
+.)l
+.ne 12
+.sp 5
+.ce
+FOURTH TIER (Modern Italian Commentators)
+.sp 2
+.(l
+74.  FRANCESCO TORRACA (1905)
+Text prepared for data entry.
+
+77.  CARLO STEINER (1921)
+Text prepared for data entry.
+
+78.  ENRICO MESTICA (1921)
+Text being typed in but not yet edited.
+
+79.  GIOVANNI FEDERZONI (1921)
+No action taken as yet.
+
+*80.  CASINI/BARBI (1921)
+Text edited and in final form.
+
+81.  ROSSI/FRASCINO (1923)
+No action taken as yet.
+
+82.  G. A. VENTURI (1924)
+No action taken as yet.
+
+83.  NICOLA SCARANO (1924)
+No action taken as yet.
+
+84.  FLAMINI/POMPEATI (1925)
+No action taken as yet.
+
+85.  ISIDORO DEL LUNGO (1926)
+Text prepared for data entry.
+
+87.  SCARTAZZINI/VANDELLI (1929)
+Text prepared for data entry.
+
+88.  CARLO GRABHER (1934)
+No action taken as yet.
+
+89.  ERNESTO TRUCCHI (1936)
+No action taken as yet.
+
+90.  DINO PROVENZAL (1938)
+Text machine-readable and being edited.
+
+90a.  GUIDO VITALI (1943)
+No action taken as yet.
+
+91.  LUIGI PIETROBONO (1946)
+Text being prepared for data entry.
+
+92.  ATTILIO MOMIGLIANO (1946)
+Currently being edited.
+
+93.  MANFREDI PORENA (1946)
+Text machine-readable but not yet edited.
+
+100.  NATALINO SAPEGNO (1955)
+Text prepared for data entry.
+
+101.  DANIELE MATTALLIA (1960)
+Text prepared for data entry.
+
+103.  SIRO A. CHIMENZ (1962)
+Text prepared for data entry.
+
+105.  GIOVANNI FALLANI (1965)
+Text machine-readable but not yet edited.
+
+*107b.  GIORGIO PADOAN (1967) (\fIInferno\fR I-VIII)
+Text edited and in final form.
+
+109.  GIUSEPPE GIACALONE (1968)
+Text being edited.
+
+110.  PIETRO CALIGARIS (1969)
+No action taken as yet.
+
+111.  PIERO GALLARDO (1969)
+No action taken as yet.
+
+*115.  BOSCO/REGGIO (1979)
+Text edited and in final form.
+.)l
+.sp 4
+.(b C
+SUMMARY OF PROGRESS TO DATE, 
+APPROXIMATELY HALF WAY THROUGH GRANT PERIOD 
+(1984-88)
+.sp
+Commentaries fully edited: 	12
+being edited:			10
+entered or being entered:	 8
+prepared for data entry:	17
+.)b
+.pp
+Of the 23 commentaries not yet dealt with, we will probably have to
+leave to one side approximately one half at this phase of the
+project.  (We feel that we can do so with little loss to the
+intellectual integrity of the data base, and will perhaps thereby
+avoid a certain sense of \*(lqclutter\*(rq which might result from retaining
+all of the eighty commentaries originally considered for inclusion.
+The first version of the data base will thus number at least
+sixty-four commentaries, with additions possible in the future.

@@ -1,0 +1,551 @@
+	|1.  colui~: The sun.  |alluma~ = ^illumina.~
+
+	|4-6.  lo ciel~... |risplende~: In Dante's time it was
+generally held that all the stars derived their light from the
+sun.  Hence the many lights that appear in the heavens after
+sunset are still shining with the light of the sun.  Cf. ^Conv.~
+III, xii, 7, as well as II, xiii, 15.
+
+	|7-11.  e questo atto~... |canti~: The comparison is not
+intended to be exact, for although the sun disappears in setting,
+the figure of the eagle does not.  However, that figure, which
+has been speaking as one, now presents the aspect of its many
+parts, as does the sun after sunset, for the many lights, or
+souls, that constitute it begin to sing as so many participants
+in a chorus.  Each becomes brighter, which further supports the
+simile.
+
+	|8.  come~: "When."  |'l segno del mondo~: The eagle. 
+|suoi duci~: "Its rulers."
+
+	|9.  rostro~: "Beak."  Cf. ^Par.~ XIX, 10.
+
+	|10.  per@o che~ = ^perci@o che.~
+
+	|12.  da mia memoria labili e caduci~: These songs are
+such that the memory of the living man cannot retain them.  See
+^Par.~ X, 70-73.  |caduci~ = ^caduchi.~
+
+	|13.  dolce amor~: The love of these spirits for God. 
+|t'ammanti~: Cf. ^Par.~ V, 136-137; IX, 70-71.
+
+	|14.  flailli~: "Pipes."  Cf. the OFr ^flavel~, "flute."
+
+	|15.  avieno~ = ^avevano.~
+
+	|16.  lapilli~: "Jewels."  Cf. ^Par.~ XV, 22, 85; XVIII,
+115.
+
+	|17.  il sesto lume~: The planet Jupiter.
+
+	|18.  squilli~: "Songs," as is clear from the context.
+
+	|21.  cacume~: "Summit."  Cf. ^Purg.~ IV, 26; ^Par.~
+XVII, 113.
+
+	|22-24.  E come~... |pen@etra~: In the cittern, or lute,
+"the sound is shaped at the neck," where the fingering is done;
+in the bagpipe, it is at the holes.  |sampogna~ = ^zampogna.~
+
+	|25.  rimosso d'aspettare indugio~ = ^rimosso ogni indugio
+d'aspettare~, "removed every delay in waiting," or simply
+"without delay."  The expression in the Italian is somewhat
+redundant.
+
+	|26.  salissi~ = ^si sal@i.~  The |si~ here, as again in
+^uscissi~ (vs. 28), is the so-called pleonastic reflexive which
+serves to focus attention more emphatically on the subject, in
+this case on the sound as it is gradually formed and as it then
+issues as a voice.  The poet delights in following such gradual
+formation, particularly in the matter of a voice.  Cf. ^Inf.~
+XIII, 40-44; XXVII, 13-18.
+
+	|27-28.  bugio~: "Hollow."  |quivi~: In the neck (|collo~). 
+|uscissi~ = ^si usc@i.~  Cf. n. to vs. 26.
+
+	|30.  quali aspettava il core ov' io le scrissi~: Dante's
+heart-felt desire is to know the names of the spirits exalted to
+this heaven, and as he now hears some of them, he inscribes them
+in his heart (memory).
+
+	|31-32.  La parte in me~... |mortali~: The eagle's eye. 
+The reader should bear in mind that the eagle is seen in profile,
+hence only one of its eyes is visible.  (See Fig. 2, p. 310.) 
+|che vede e pate il sole~: Cf. ^Par.~ I, 48.  |incominciommi~ =
+^mi incominci@o.~
+
+	|33.  riguardar si vole~: "Must be looked at."
+
+	|35-36.  e'~ = ^ei~ (^elli~).  The redundant pronoun
+refers back to |quelli~ in vs. 35.  |di tutti lor gradi son li
+sommi~: The meaning here is not entirely clear, but it probably
+is that "of the spirits that form my body, these are the
+highest."
+
+	|37-39.  Colui che luce~... |villa~: David, as the light
+which he is here, is the very pupil of the eye, therefore the
+highest of all that are to be named as forming eye and eyebrow. 
+The psalms written by him were inspired by the Holy Ghost, as
+were all the canonical books of the Bible.  As king of Israel, he
+had the ark of the covenant moved to Jerusalem (II Reg.
+6:2-17).  |villa~: "Town."
+
+	|40-42.  ora conosce~... |altrettanto~: Now (in Paradise)
+David knows that which he merited by his psalms, written by him
+insofar as their art, as song, was of his own devising.  The
+whole statement allows for merit deserved by the ^human~ side of
+the artistic achievement, distinguishing this from what must be
+assigned to the dictation of the Holy Ghost.  |Consiglio~, that
+is, points to the act of free will and talent on the part of the
+artist.
+
+	It will be noted, in the review of the spirits that make
+up the eye and brow, that the poet enters into the device of
+anaphora, with the second tercet of each pair of tercets allotted
+to each figure beginning with the words |ora conosce.~  This may
+be compared with ^Purg.~ XII, 25-63.  The repeated phrase |ora
+conosce~ clearly stresses the distance between the limited human
+vision of God's justice as had on earth and the revelation
+thereof which awaits the elect in Paradise.  |per lo remunerar
+ch'@e altrettanto~: God's justice rewards according to merit. 
+Cf. ^Par.~ VI, 118-120.
+
+	|43.  Dei cinque che mi fan cerchio per ciglio~: See Fig.
+2, p. 310.
+
+	|44-45.  colui che pi@u~... |figlio~: For the story of
+Trajan's justice to the poor widow for the death of her son, see
+^Purg.~ X, 73-93.
+
+	|46-48.  ora conosce~... |l'opposta~: The just emperor
+Trajan lived in Christian times but died a pagan; however, in
+response to the prayers of Gregory the Great, he was allowed to
+return from the lower world (probably from Limbo), where
+conversion is impossible, and to resume his body long enough for
+him to embrace the true faith and thus win to a place in Heaven. 
+(See n. to vs. 106.)  For this legend, see Jacobus de Varagine,
+^Legenda aurea~, XLVI, 10 and n. to ^Purg.~ X, 75.  |opposta~:
+The life of souls in Limbo.
+
+	|49-54.  E quel che segue~... |l'odierno~: King Hezekiah,
+who, when Isaiah told him of his impending death, prayed and had
+his life prolonged for fifteen years.  See IV Reg. 20:1-6. 
+Also see Isa. 38:1-22, where in the words of the prophet,
+expressing the king's gratitude, there is echoed the latter's
+sense of his guilt as well as his penitence.  |per l'arco
+superno~: I.e., proceeding now along the rising arch of the
+Eagle's brow.  |preco~ = ^preghiera.~  |fa crastino l@a gi@u de
+l'odierno~: "Turns today's into tomorrow's down on earth."  In
+such cases the "prayer" and its result are a part of the divine
+plan.
+
+	|55-60.  L'altro che segue~... |distrutto~: The Emperor
+Constantine occupies thus the central and highest part of the
+arch.  The reference is to his ceding Rome to the pope and
+transferring the capital to Byzantium, thus making himself, the
+imperial eagle, and the laws Greek.  Cf. ^Inf.~ XIX, 115-117;
+XXVII, 94-97; ^Purg.~ XXXII, 124-129; ^Par.~ VI, 1-3.  |ora
+conosce~... |distrutto~: Cf. Thomas Aquinas, ^Summa theol.~
+I-II, q. 20, a. 5, resp.:
+
+     Eventus sequens aut est praecogitatus aut non.  Si est
+     praecogitatus, manifestum est quod addit ad bonitatem vel
+     malitiam actus: cum enim aliquis cogitat quod ex opere suo
+     multa mala possunt sequi, nec propter hoc dimittit, ex hoc
+     apparet voluntas eius esse magis inordinata.
+
+       Si autem eventus sequens non sit praecogitatus, tunc
+     distinguendum est: quia si per se sequitur ex tali actu, et
+     ut in pluribus, secundum hoc eventus sequens addit ad
+     bonitatem vel malitiam actus.  Manifestum est enim meliorem
+     actum esse ex suo genere, ex quo possunt plura bona sequi,
+     et peiorem ex quo nata sunt plura mala sequi.
+
+       Si vero per accidens, et ut in paucioribus, tunc eventus
+     sequens non addit ad bonitatem vel ad malitiam actus.  Non
+     enim datur iudicium de re aliqua secundum illud quod est per
+     accidens, sed solum secundum illa quod est per se.
+
+     The consequences of an action are either foreseen or not. 
+     If they are foreseen, it is evident that they increase the
+     goodness or malice.  For when a man foresees that many evils
+     may follow from his action, and yet does not therefore
+     desist therefrom, this shows his will to be all the more
+     inordinate.
+
+       But if the consequences are not foreseen, we must make a
+     distinction.  Because if they follow from the nature of the
+     action and in the majority of cases, in this respect, the
+     consequences increase the goodness or malice of that action:
+     for it is evident that an action is specifically better, if
+     better results can follow from it; and specifically worse,
+     if it is of a nature to produce worse results.  On the other
+     hand, if the consequences follow by accident and seldom,
+     then they do not increase the goodness or malice of the
+     action: because we do not judge of a thing according to that
+     which belongs to it by accident, but only according to that
+     which belongs to it of itself.
+
+|dedutto~: "Resulting."  |li~ = ^gli.~
+
+	|61-66.  E quel~... |ancora~: William II, the Good, king
+of Naples and Sicily in the Norman line from 1166 to 1189.  He
+was the son (born 1154) of William I, the Bad (who ruled from
+1154 to 1166 and was so called on account of his cruelty towards
+his rebellious barons), and in 1177 married Joan, youngest
+daughter of Henry II of England, by whom he had no issue.  On his
+death, at the age of thirty-five, the crown passed to his cousin
+Tancred, whose son and successor was dispossessed by Emperor
+Henry VI, who had married Constance, the aunt of William II and
+heiress presumptive to the throne.  The kingdom thus passed to
+the Hohenstaufen line, in the person of Frederick I (afterwards
+emperor as Frederick II), the son of Henry VI and Constance.
+
+	William II's reign was as beneficial to his subjects as
+that of his father had been the reverse.  He was a zealous
+champion of the Church and spent the large treasures left by
+William I in founding and endowing pious institutions.  His death
+was sincerely lamented by the Sicilians.  |cui~: The direct
+object of "plora."  |Carlo e Federigo~: The kings of Naples and
+of Sicily who are rebuked in ^Par.~ XIX, 127-135.
+
+	|67-72.  Chi crederebbe~... |fondo~: Ripheus was a Trojan
+hero who was slain during the sack of Troy.  "Nowhere, before
+Dante, do we find any suggestion that this Trojan prince attained
+Heaven, nor that he was of particular importance.  Virgil
+mentions his name, with those of other Trojans, in ^Aen.~ II,
+339 and 394.  In ^Aen.~ II, 426-427, he adds a brief
+description" (Gr).  In this third passage, Virgil writes: "Cadit
+et Ripheus, iustissimus unus / qui fuit in Teucris et
+servantissimus aequi."  ("Ripheus, too, falls, foremost in
+justice among the Trojans, and most zealous for the right.") 
+"Nothing more.  But these words evidently made a profound
+impression on Dante and led him to conjecture that such devotion
+to justice must have been a result of grace -- of that divine
+plan which no created mind can penetrate.  The upright heathen,
+who has made the most of his natural endowments, is met by grace,
+which moves him to love good above everything else and finally
+reveals to him the essential truth of salvation through Christ. 
+The choice of such a minor personage as Ripheus emphasizes the
+mystery of God's predestination.  On the other hand, Ripheus was
+a Trojan, a representative of that noble stock from which the
+Romans sprang.  And among the Trojans he was `the most righteous
+of all, and the strictest observer of justice'" (Gr).
+
+	Thus, we here "find illustrated the possibility of
+salvation for a virtuous man living in pagan times.  `Invincible'
+(that is, insuperable, inevitable) ignorance is not an absolute
+bar: cf. ^Summa Theologiae~, Prima Secundae, Qu. lxxvi, Art. 2. 
+Often, says St. Thomas, has grace been extended to the worthy but
+otherwise unenlightened" (Gr).  In ^Summa theol.~ II-II, q. 2,
+a. 7, ad 3 Aquinas notes that "multis gentilium facta fuit
+revelatio de Christo, ut patet per ea quae praedixerunt... 
+Sibylla etiam praenuntiavit quaedam de Christo."  ("Many of the
+gentiles received revelations of Christ, as is clear from their
+predictions...  The Sibyl too foretold certain things about
+Christ.")  He continues:
+
+     Si qui tamen salvati fuerunt quibus revelatio non fuit
+     facta, non fuerunt salvati absque fide Mediatoris; quia etsi
+     non habuerunt fidem explicitam, habuerunt tamen fidem
+     implicitam in divina providentia, credentes Deum esse
+     liberatorem hominum secundum modos sibi placitos, et
+     secundum quod aliquibus veritatem cognoscentibus Spiritus
+     revelasset.
+
+     If, however, some were saved without receiving any
+     revelation, they were not saved without faith in a Mediator,
+     for, though they did not believe in Him explicitly, they
+     did, nevertheless, have implicit faith through believing in
+     Divine providence, since they believed that God would
+     deliver mankind in whatever way was pleasing to Him, and
+     according to the revelation of the Spirit to those who knew
+     the truth.
+
+"The ^Commedia~, however, affords only two individual examples:
+that of Cato in ^Purgatorio~ I, and, in the present canto, that
+of Ripheus" (Gr).  |ben che sua vista non discerna il fondo~: Cf.
+^Par.~ XIX, 52-63.  With this verse the device of anaphora ends,
+having served to frame the cases of six just kings, seen in this
+sixth heaven; it will be recalled that the sixth canto of the
+^Paradiso~ is the canto of the Roman Empire and the imperial
+eagle, as recounted by Justinian.
+
+	|73-75.  Quale allodetta~... |sazia~: This figure of the
+skylark was used before Dante, by the Provencal poets (^la
+lauzeta~ in Proven$cal) and earlier Italian poets.  Cf. Bernard
+de Ventadour's ^canzone~ beginning "Can vei la lauzeta mover" (in
+S. G. Nichols, Jr. and J. A. Galm, 1962, pp. 166-168) and Bondie
+Dietaiuti's ^canzone~ beginning "Madonna, me @e avenuto
+similgliante" (in E. Monaci, 1955, pp. 263-264).  |allodetta~ =
+^allodoletta.~  |si spazia~: "Soars."
+
+	|76-78.  tal mi sembi@o~... |piacere~: "Thus the image
+appeared to me, [satisfied] with the stamp of God's will," i.e.,
+in the mystery of this salvation of two who were thought to be
+pagans.  |al cui disio~... |diventa~: Cf. ^Par.~ XVIII, 109-111,
+where this same principle applies to birds' nests.
+
+	|79-80.  E avvegna~... |veste~: Although my doubt showed
+through me, as a coat of paint shows through glass.  In ^Conv.~
+III, ix, 10 Dante writes: "E per@o coloro che vogliono far parere
+le cose ne lo specchio d'alcuno colore, interpongono di quello
+colore tra 'l vetro e 'l piombo, s@i che 'l vetro ne rimane
+compreso."  ("And therefore they who desire to give some
+particular colour to the things in a mirror, interpose of that
+colour between the glass and the lead, so that the glass is
+embraced by it.")
+
+	|81.  tempo aspettar tacendo non patio~: "It [the doubt]
+endured not to bide its time in silence."  Cf. ^Conv.~ IV,
+^canzone~ III, 9 and ^Conv.~ IV, ii, 5-10.  |patio~ = ^pat@i.~
+
+	|83.  mi pinse~ = ^mi spinse.~  The subject is ^il dubbiar
+mio~ (vs. 79).
+
+	|84.  per ch'io di coruscar vidi gran feste~: As usual,
+in the anticipation of being able to satisfy Dante's doubt, the
+souls rejoice with an increase of brilliance, and with a brighter
+eye, as the next verse makes clear.
+
+	|92.  quiditate~: "Quiddity," essence.
+
+	|93.  prome~: "Discloses," from the Latin ^promit.~
+
+	|94.  Regnum celorum violenza pate~: See Matt. 11:12:
+"Regnum caelorum vim patitur."  ("The kingdom of heaven has been
+enduring violent assault.")  Cf. Luc. 16:16.  The eagle's
+discourse is the more solemn in its beginning for being in Latin,
+and for being a verse of the Scriptures.
+
+	|95-96.  da caldo amore~... |volontate~: |Caldo amore~
+and |viva speranza~ constitute a double subject of the verb
+|vince~, in the singular.
+
+	|97.  a guisa che~: "As."  |a l'om sobranza~: |Sobranza
+a~ is a Proven$calism, meaning "overcomes."
+
+	|98.  vince lei~; "It [love and hope] conquers it [divine
+will]."
+
+	|99.  beninanza~ = ^benignit@a.~  The word is a
+Proven$calism.  Cf. ^Par.~ VII, 143.
+
+	|100.  La prima vita del ciglio e la quinta~: The first
+and fifth are Trajan and Ripheus.  |vita~: Soul.  Cf. ^Par.~ IX,
+7.
+
+	|102.  la region de li angeli~: The heavens which Dante
+is traversing.  |dipinta~: "Adorned."
+
+	|103-104.  D'i corpi suoi non uscir~... |Gentili~ = ^dai
+corpi loro non uscirono Gentili~, i.e., they did not die as
+pagans.
+
+	|105.  quel d'i passuri e quel d'i passi piedi~: "The one
+(Ripheus) had faith in the feet (of Christ) that were to suffer
+(being nailed to the cross), the other (Trajan) had faith in the
+feet that had suffered.  |Passuri~ and |passi~ are Latin future
+and perfect participles.  Both Ripheus and Trajan had faith in
+Christ, one before and one after the crucifixion" (Gr).  See
+Dante, ^De mon.~ III, iii, 10.
+
+	|106-111.  Ch$e l'una~... |mossa~: The first of the two
+cases to be considered is that of Trajan.  Cf. n. to vss. 46-48. 
+|'nferno~: This was doubtless Limbo, where there is "good will"
+among the virtuous pagans.  "Good will," however, does not
+suffice.  God's special sanctifying grace is required for
+salvation, a grace infused from above and given only to the
+living (with this great exception due to Gregory's prayers, his
+great hope, |viva spene~).  The effectiveness of Gregory's
+prayers in short is an instance of the doctrine stated in vss.
+94-99.  It may be noted here that Thomas Aquinas considers the
+case of Trajan and of Gregory's prayers for him; a passage in his
+^Summa theologica~ may serve here as a gloss on the case (^Summa
+theol.~ III, Suppl., q. 71, a. 5, ad 5):
+
+     De facto Traiani hoc modo potest probabiliter aestimari,
+     quod precibus B. Gregorii ad vitam fuerit revocatus, et ita
+     gratiam consecutus sit, per quam remissionem peccatorum
+     habuit, et per consequens immunitatem a poena: sicut etiam
+     apparet in omnibus illis qui fuerunt miraculose a mortuis
+     suscitati, quorum plures constat idololatras et damnatos
+     fuisse.  De omnibus talibus enim similiter dici oportet quod
+     non erant in inferno finaliter deputati, sed secundum
+     praesentem propriorum meritorum iustitiam: secundum autem
+     superiores causas, quibus praevidebantur ad vitam revocandi,
+     erat aliter de eis disponendum.
+
+       Vel dicendum, secundum quosdam, quod anima Traiani non
+     fuit simpliciter a reatu poenae aeternae absoluta; sed eius
+     poena fuit suspensa ad tempus, scilicet usque ad diem
+     iudicii.  Nec tamen oportet quod hoc fiat communiter per
+     suffragia; quia alia sunt quae lege communi accidunt, et
+     alia quae singulariter ex privilegio aliquibus conceduntur.
+
+     Concerning the incident of Trajan it may be supposed with
+     probability that he was recalled to life at the prayers of
+     blessed Gregory, and thus obtained the grace whereby he
+     received the pardon of his sins and in consequence was freed
+     from punishment.  The same applies to all those who were
+     miraculously raised from the dead, many of whom were
+     evidently idolaters and damned.  For we must needs say
+     likewise of all such persons that they were consigned to
+     hell, not finally, but as was actually due to their own
+     merits according to justice: and that according to higher
+     causes, in view of which it was foreseen that they would be
+     recalled to life, they were to be disposed of otherwise.
+
+       Or we may say with some that Trajan's soul was not simply
+     freed from the debt of eternal punishment, but that his
+     punishment was suspended for a time, that is, until the
+     judgment day.  Nor does it follow that this is the general
+     result of suffrages, because things happen differently in
+     accordance with the general law from that which is permitted
+     in particular cases and by privilege.
+
+|per suscitarla~: "To resuscitate" Trajan's soul.  |sua voglia~:
+Trajan's will, now moved by God toward Himself, the supreme good.
+
+	|112-117.  L'anima gloriosa~... |gioco~: Two more tercets
+are thus given to the case of Trajan.  |credette in lui~: He
+believed in Christ and thereby was saved.  See vss. 104-105. 
+|s'accese in tanto foco~... |amor~: The will, the good will of
+Trajan, is thus stressed, since love pertains to the will.  |a la
+morte seconda~: Trajan's second death.  |questo gioco~: The joy
+of Paradise.
+
+	|118-121.  L'altra~: The soul of Ripheus.  |per
+grazia~... |drittura~: The inclination of the will to good is a
+result of grace, and accepted doctrine speaks of two kinds of
+grace (a point worth considering in the case of Ripheus), namely,
+of operating grace and of cooperating grace.  In ^Summa theol.~
+I-II, q. 111, a. 2, resp., Thomas Aquinas defines the two:
+
+     Utroque autem modo gratia dicta convenienter dividitur per
+     operantem et cooperantem.  Operatio enim alicuius effectus
+     non attribuitur mobili, sed moventi.  In illo ergo effectu
+     in quo mens nostra est mota, et non movens, solus autem Deus
+     movens, operatio Deo attribuitur: et secundum hoc dicitur
+     ^gratia operans.~  In illo autem effectu in quo mens nostra
+     et movet et movetur, operatio non solum attribuitur Deo, sed
+     etiam animae; et secundum hoc dicitur ^gratia cooperans.~ 
+     Est autem in nobis duplex actus: primus quidem interior
+     voluntatis; et quantum ad istum actum voluntas se habet ut
+     mota, Deus autem ut movens; et praesertim cum voluntas
+     incipit bonum velle, quae prius malum volebat; et ideo,
+     secundum quod Deus movet humanam mentem ad hunc actum,
+     dicitur ^gratia operans.~  Alius autem actus est exterior,
+     qui cum a voluntate imperetur, ut supra habitum est, quaest.
+     17, art. 9, consequens est quod ad hunc actum operatio
+     attribuatur voluntati.  Et quia etiam ad hunc actum Deus nos
+     adiuvat, et interius confirmando voluntatem, ut ad actum
+     perveniat, et exterius facultatem operandi praebendo;
+     respectu huiusmodi actus dicitur ^gratia cooperans.~  Unde
+     post praemissa verba subdit Augustinus (ibid., 4): ^Ut~
+     ^autem velimus, operatur; cum autem volumus, ut~
+     ^perficiamus, nobis cooperatur.~  Sic igitur si gratia
+     accipiatur pro gratuita Dei motione, qua movet nos ad bonum
+     meritorium, convenienter dividitur gratia per ^operantem et~
+     ^cooperantem.~
+
+     Now in both these ways grace is fittingly divided into
+     operating and co-operating.  For the operation of an effect
+     is not attributed to the thing moved but to the mover. 
+     Hence in that effect in which our mind is moved and does not
+     move but in which God is the sole mover, the operation is
+     attributed to God, and it is with reference to this that we
+     speak of ^operating grace.~  But in that effect in which our
+     mind both moves and is moved, the operation is not only
+     attributed to God, but also to the soul; and it is with
+     reference to this that we speak of ^co-operating grace.~ 
+     Now there is a double act in us.  First, there is the
+     interior act of the will, and with regard to this act the
+     will is a thing moved, and God is the mover; and especially
+     when the will, which hitherto willed evil, begins to will
+     good.  And hence, inasmuch as God moves the human mind to
+     this act, we speak of operating grace.  But there is
+     another, exterior act; and since it is commanded by the
+     will, as was shown above (q. 17, a. 9), the operation of
+     this act is attributed to the will.  And because God assists
+     us in this act, both by strengthening our will interiorly so
+     as to attain to the act, and by granting outwardly the
+     capability of operating, it is with respect to this that we
+     speak of co-operating grace.  Hence after the aforesaid
+     words Augustine subjoins: ^He operates that we may will~;
+     ^and when we will, He co-operates that we may perfect.~ 
+     And thus if grace is taken for God's gratuitous motion
+     whereby He moves us to meritorious good, it is fittingly
+     divided into operating and co-operating grace.
+
+For Aquinas' reference to Augustine, see Augustine, ^De gratia et
+libero arbitrio~, XVII.  |la prima onda~: The "first wave" of a
+fountain is the water that is gushing into it from the bottom. 
+|tutto suo amor l@a gi@u pose a drittura~: The verse focuses on
+Ripheus' cooperation with the special grace bestowed on him, and
+he directs all his love to righteousness or inner justice
+(|drittura~).  It will be noted that the stress here is on love,
+which pertains to the will, as noted in the case of Trajan.
+
+	|122-123.  per che, di grazia in grazia~... |futura~:
+Thus, as with Trajan, the absolute requirement for salvation is
+met.  Ripheus believes, with an implicit faith comparable to that
+which God gave to those who were harrowed from Hell and through a
+special revelation made to him by God (|Dio li aperse l'occhio~).
+
+	|124.  ond'ei credette~... ^millesmo~ {v.129}: Two more
+tercets are given to the case of Ripheus, making four in all in
+this passage: precisely the number of tercets allotted to the
+case of Trajan (vss. 106-117).
+
+	|125.  da indi~... |pi@u~: "From that moment on."
+
+	|126.  riprendiene~ = ^ne riprendeva~, "reproved
+therefor."
+
+	|127-128.  Quelle tre donne~... |rota~: See ^Purg.~
+XXIX, 121-129.  The three theological virtues (whom Dante saw
+beside the right wheel of the chariot of the Church) were
+Ripheus' baptism.  In this particular reference, which takes the
+reader back to the advent of Beatrice in the great procession at
+the summit of Mount Purgatory, it is possible to see that the
+pilgrim Dante fulfills the same pattern as Ripheus.  First he is
+brought (by Virgil and special grace from Heaven) to ^drittura~
+{v.121}, justice (see ^Purg.~ XXVII, 139-142), and then he
+attains to special grace (beyond Virgil's ken) on the other side
+of the river, the three theological virtues finally presenting
+him to Beatrice (^Purg.~ XXXI, 133-135).  On this whole pattern
+in the journey, see C. S. Singleton (1958), pp. 72-121.  |li
+fur~ = ^gli furono.~  |per battesmo~: Ripheus thus fulfills an
+essential requirement for salvation, which is baptism.  Cf.
+^Inf.~ IV, 34-36.
+
+	|129.  dinanzi al battezzar~: It was the baptism of
+Christ by John the Baptist which instituted the sacrament.
+
+	|130-132.  O predestinazion~... |tota~: The two
+exceptional cases of Trajan and Ripheus support the exclamation
+over God's predestination, hidden from the sight of all
+creatures.  |aspetti~: A Latinism, from ^aspicior~ ("I see"),
+here meaning "sight" and used in the plural to include all
+creatures, even angels and the blessed in Heaven.  |tota~
+(Latin) = ^tutta.~
+
+	|133-135.  E voi, mortali~... |eletti~: The tercet now
+distinguishes between the vision of God's predestination that
+mortals have on earth and that which the blessed have in Heaven,
+which is also limited, even though they see God.
+
+	|136.  @enne~ = ^ci @e.~  |scemo~: "Shortcoming," "want."
+
+	|137-138.  perch$e il ben nostro~... |volemo~: "`For our
+good is perfected by this good, namely, that we will what God
+wills.'  Our happiness is made perfect by the complete surrender
+of our will to God" (Gr).  Cf. ^Par.~ III, 85-87.
+
+	|142-148.  E come a buon cantor~... |fiammette~: "While
+the Eagle speaks, the lights of Trajan and Ripheus flash together
+(like the twinkling of a pair of eyes) at the two ends of the
+semicircle, -- just as a lute-player accompanies a singer by
+touching the strings" (Gr).  |seguitar~: "Accompany."  |mentre
+ch'e'~ = ^mentre che egli.~

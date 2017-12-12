@@ -1,0 +1,29 @@
+	|1.~  [To the mediaevals] the word `brown' bore, in
+their colour vocabulary, a still gloomier sense than with us.  I
+was for some time embarassed by Dante's use of it with respect to
+dark skies and water. Thus, in describing a simple twilight --- not
+a Hades twilight, but an ordinarily fair evening --- (Inferno,
+ii. 1) he says, the `brown' air took the animals of earth away
+from their fatigues; --- the waves under Charon's boat are `brown
+[^Inf.~ iii. 118];' and Lethe, which is perfectly clear and yet
+dark, as with oblivion is `bruna bruna,' `brown, ^exceeding~
+brown [^Purg.~ xxviii. 31],' Now, clearly in all these cases no
+^warmth~ is meant to be mingled in the colour. Dante had never
+seen one of our bog-streams, with its porter-coloured foam; and
+there can be no doubt that, in calling Lethe brown, he means it
+was dark slate grey, inclining to black; as, for instance, our
+clear Cumberland lakes, which, looked straight down upon where
+they are deep, seem to be lakes of ink. I am sure this is the
+colour he means; because no clear stream or lake on the Continent
+ever looks brown, but blue or green; and Dante, by merely taking
+away the pleasant colour, would get at once to this idea of grave
+clear grey. So, when he was talking of twilight, his eye for
+colour was far too good to let him call it ^brown~ in our sense.
+Twilight is not brown, but purple, golden, or dark grey; and this
+last was what Dante meant.  Farther, I find that this negation of
+colour is always the means by which Dante subdues his tones.
+
+     ^Modern Painters~, vol. iii. ch. xv. sec. 9.
+
+     (^Line~ 142.) See below, Purgatorio, xxviii.
+

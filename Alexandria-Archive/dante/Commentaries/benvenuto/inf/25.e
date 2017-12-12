@@ -1,0 +1,994 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS QUINTUS, ^ubi tractatur
+de eisdem furonibus in~ ^eadem bulgia, et de modo poenae eorum
+sub titulo aliquorum~ ^civium florentinorum, quos nominat
+nominatim.~
+
+	|PROEMIO~  ^AL fine de le sue parole il ladro.~  Postquam
+in superiori capitulo proxime praecedenti autor noster tractavit
+et determinavit de prima specie et poena furum, nunc consequenter
+in isto capitulo XXV agit et tractat de duabus aliis speciebus et
+poenis furum.  Et praesens capitulum potest breviter dividi in
+quatuor partes generales; in prima quarum autor, in morando adhuc
+in dicta materia, describit obstinationem detestabilem nequissimi
+furis praedicti; et alium furem antiquum pessimum eiusdem speciei
+primae.  In secunda tractat de secunda specie furum et eorum
+poena in quodam spiritu moderno, ibi: ^Mentre che s@i parlava.~ 
+In tertia tractat de tertia specie furum in alio spiritu moderno
+ostendens quomodo ille percussus a serpente se habebat cum eo,
+ibi: ^Come 'l ramarro.~  In quarta et ultima describit
+transformationem illius percussi in serpentem per omnia membra
+singularia, et e converso serpentis in hominem, ibi: ^Insieme si
+risposero.~
+
+	|1-3.~  Ad primam redeundo dico, quod autor adhuc tangit
+aliquid de prima materia pertractata ostendens dispositionem
+illius scelerati furis moderni et alterius antiqui.  Unde
+continuans se ad praecedentia dicit, quod cum ille fur
+renarrasset sibi culpam suam, causam suae damnationis, et
+praenuntiasset expulsionem partis Albae, quae erat paritura sibi
+dolorem, ultimo convertit iram suam contra Deum; et videtur
+litera clara, unde dicit: |il ladro~, scilicet Vannes Fucius de
+Pistorio, |alz@o le mani~, scilicet contra coelum, |con ambedue le
+fiche~, et facie furiata, irose, |gridando: tolli Dio, ch'a te le
+squadro~, quasi dicat: facio tibi, et in despectum tuum.  Sed
+quare autor fingit istum furem fecisse talem actum turpem?  Certe
+ut melius ostendat naturam istius hominis diabolici qui, ultra
+hoc quod fuerat violentus latro et fraudulentus fur, erat
+superbissimus, iracundissimus, blasphemus, et suus mos antiquatus
+erat, quod statim cum erat iratus quacumque de causa prorumpebat
+in blasphemiam Dei, sicut aliqui maledicti semper faciunt nihil
+Deum timentes.  Hoc autem fecit et dixit: |al fine de le sue
+parole~, ex ira concepta, quia autor detexerat furtum suum, de
+quo arserat verecundia; ideo exarserat in iram.
+
+	|4-6.~  Et ostensa obstinatione protervi, ostendit justam
+ultionem quae statim secuta est, quae summe placuit sibi.  Unde
+dicit: |le serpi mi fur amiche~, quae naturaliter sunt inimicae
+homini, |da indi in qua~, quia ab illa hora in antea amavi eas. 
+Per hoc autor dat intelligi, quod vir sapiens interdum juste et
+sine reprehensione laetatur et delectatur quando videt hominem
+crudelem tamquam serpentem, et naturaliter inimicum hominis
+destruentem alium pravissimum et pessimum, sicut saepe contingit,
+quia hoc cedit ad terrorem malorum et exhortationem bonorum; ideo
+in hoc diligit eum, quem prius odio habuerat: et ecce causam,
+quare postea serpentes fuerunt sibi amicae, |perch'una gli
+s'avolse allora al collo~, et strinxit et obstruxit viam vocis ne
+posset ulterius loqui; ideo dicit: |come dicesse: i non vo' che
+pi@u diche~, quia nimis dixisti, et sic juste imposuit finem sibi,
+sicut accidit alteri non est diu, qui dum multum blasphemasset
+Deum, supervenit alius pravus, et cuspide lanceae percussit
+punctam linguae eius, et transfixit eum per guttur, ita quod
+numquam fecit amplius verbum, et continuo mortuus est; et dicit
+quod simul impositus est finis impio actui furis sicut impio
+dicto.
+
+	|7-9.~  Unde dicit: |et un'altra~, scilicet, bissa,
+advolvit se, |a le braccia~, velut diceret: nolo quod facias
+amplius ficus, |e rilegollo~, idest, retro ligavit a tergo,
+|ribattendo se stessa s@i dinanzi~, idest, tam stricte ante, |che
+non potea dar un crollo con esse~, scilicet, manibus ita ligatis.
+
+	|10-12.  Ahi.~  Hic autor, sumpta occasione ab isto viro
+tam damnabili, invehit contra Pistorium patriam eius, dicens:
+|ahi~, idest dolenter et pudenter refero, |Pistoia, Pistoia~! 
+Dicit bis ad maiorem exagerationem, |ch@e~, idest, cur, |non
+stanzi~, idest, decernis et firmas, |d'incenerarti~, sicut vidi
+incinerari unum tuum civem, ut patuit in praecedenti capitulo de
+isto Vanne; sicut etiam fuit destructa pars tua in turribus et
+propugnaculis, sicut jam dictum est in fine capituli
+praecedentis, |s@i che pi@u non duri~, quia scilicet melius esset
+tibi annichilari, quam parere tales filios viperinos; et reddit
+causam dicens: |poi che 'n mal fare il seme tuo avanzi~?  Et hic
+adverte quod multi exponunt istam literam sic, videlicet quod
+Pistorium excedit antiquos praedecessores suos pravissimos, quia
+dicunt quod Pistorium factum fuit ex coniuratis Catilinae ex
+reliquiis quae remanserunt a conflictu, et inde dicunt
+denominatum est Pistorium ab illa peste.  Sed istud est penitus
+falsum, tum quia Pistorium erat diu ante istam pestem, et magis
+proprie potest denominari a ^pistin~ graece, quod latine dicitur
+^fides~, unde Pistorium, idest fidelis civitas; tum quia si
+Salustius, nobilis et veridicus historicus, qui floruit tempore
+illo, non mentitur, nullus coniuratorum evasit ab illo conflictu. 
+Ideo dico, quod autor vult dicere: postquam tu Pistorium excedis
+in tuis civibus modernis malitiam tuorum antiquorum civium, et
+certe istud fere accidit omnibus urbibus mundi, imo toto orbi,
+quod moderni sunt peiores antiquis, sicut Titus Livius dicit de
+romanis in prohemio, et Dantes idem dicit de florentinis Paradisi
+capitulo XVI;
+
+	|13-15.~  et assignat causam justae invectivae factae
+contra Pistorium, quia in tota civitate infernali non reperit
+alium spiritum tam superbum et contumacem contra Deum, sicut
+istum civem pistoriensem.  Dicit ergo: ego |non vidi spirto tanto
+superbo in Dio~, idest, contra Deum, |per tutti i cerchi scuri
+dell'inferno~: unde ex omnibus elicit unum superbiorem, cui
+possit istum comparare, dicens: |non quello~, scilicet Capaneum
+vidi tam superbum, |che cadde a Tebe gi@u dai muri~, quia
+fulminatus est a Jove de muris Thebarum cum tonaret insane verbis
+contra cum, sicut plene declaratum est supra capitulo XIIII.  Si
+ergo Capaneus fuit pertinacissimus contemptor deorum, ita quod
+fulminatus adhuc furebat, et Vannes erat superbior eo, bene
+sequitur quod nullus erat sibi par in superbia in toto inferno. 
+Et sic nota quod autor in ista prima specie furum, punit illos
+qui furantur solum ad tempus, oblata sibi opportunitate temporis
+et loci, sicut iste Vannes.  Nam de eo non narratur nisi istud
+furtum magnum vel malum sacrilegium, quod est furtum rerum
+sacrarum, et de loco sacro ablatarum; ideo bene punitur hic cum
+Caco, de quo statim dicetur, qui similiter fecit mirabile furtum
+Herculi, qui erat homo divinus, imo pro Deo habitus dum adhuc
+viveret.
+
+	|16.~  Ideo volens transire ad Cacum finit tractatum
+Vannis, dicens: |ei sen fugg@i~, scilicet ille Vannes; nam
+proprium est furum fugere, ideo dicit quod fugit, non quod
+recessit, |ch'el non parl@o pi@u verbo~, scilicet contra Deum nec
+nobiscum.
+
+	|17-18.  Et io.~  Nunc autor describit alium antiquum
+furem famosum de eadem specie.  Ad cuius cognitionem oportet
+praescire, quod omnes praecipui poetae scribunt de isto maledicto
+Caco, et praesertim Virgilius pulcre et prolixe; tamen, omissis
+fabulis omnis poetae, Titus Livius princeps historicorum
+perstringit hanc rem breviter et egregie libro primo ab origine
+urbis circa principium.  Scribit enim quod Hercules dum
+reverteretur victor de Hispania post victoriam Gerionis, de quo
+plene dictum est supra capitulo XVII, ducebat secum multa et
+pulcra armenta, et cum transiens per Italiam pervenisset ad
+radices montis Aventini, captus amoenitate loci, voluit parum
+requiescere ibi.  Tunc temporis erat quidam famosus et
+formidolosus latro nomine Cacus, habens speluncam suam in monte
+Aventino, qui erat infestus omnibus praetereuntibus, et multas et
+magnas praedas ducebat ad speluncam; sed quia nomen Herculis erat
+terribile et jam celebratum ubique, Cacus non ausus uti vi,
+fraudulenter, et de nocte furatus est aliquas boves, quas ad
+celandum furtum traxit per caudas in speluncam.  Mane facto, cum
+Hercules revideret suum armentum, videns boves meliores deficere,
+coepit undique quaerere, nec aliquam inveniebat, sed solum
+vestigia retroversa.  Putans ergo locum esse sibi infestum,
+indignanter coepit recedere cum armento.  Illo autem recedente,
+boves furtivae coeperunt mugire intra cavernam ad desiderium
+aliarum relictarum.  Hercules subito cucurrit quo mugitus vocabat
+eum; et invento furto, Cacum frustra auxilium pastorum
+implorantem sua clava mactavit in antro.  Nunc ad literam dicit
+autor: |et io vidi un centauro~, scilicet Cacum.  Et hic nota
+quod multi mirantur hic, et dicunt, quod nullus poeta videtur
+vocare Cacum centaurum, nisi Dantes.  Quibus respondeo: quod
+Virgilius octavo Eneidos appellat Cacum semihominem et semiferam;
+ideo autor istum monstruosum appellat centaurum, quia fuit
+violentus effusor sanguinis et aeris spoliator, sicut centauri,
+de quibus plene dictum est alibi supra, et quia fuit velox et
+promptus ad praedam more centauri discurrentis cum furore.  Ideo
+bene dicit: |pien di rabia~, quia fuit ferocissimum animal,
+|venir chiamando ov'@ee, ov'@ee l'acerbo~? vocabat enim Vannem
+praedictum, qui erat acerbus et crudus tamquam socium suum
+simillimum sibi, vel forte persequebatur eum, quia, sicut videmus
+tota die, isti viri sanguinum saepe jugulant unus alium.
+
+	|19-21.  Maremma.~  Hic autor describit insignia et
+ornamenta istius centauri, quia habebat innumerabiles bissas pro
+phaleris et unum draconem pestilentissimum jacentem in vertice
+eius, cuius afflatu moriebantur omnes occurrentes sibi.  Ostendit
+autem multiplicitatem bissarum per comparationem claram, dicens:
+|non credo che Maremma~, idest, contrata maritima Tusciae, quae
+est valde calida, quia respicit Africam et meridiem, et habet
+magnam copiam bissarum, |n'abbia tante biscie quante elli avea su
+per la groppa~, quia erat pro parte equus, |infin ove comincia
+nostra labia~, idest, usque ad faciem, quia habebat caput
+humanum, ita quod, a fine bestiae usque ad principium hominis,
+totum corpus centauri erat plenum et coopertum multitudine
+variarum bissarum.  Hoc autem figurat infinitas malitias et
+astutias eius.
+
+	|22-24.~  Et subdit quod habebat in tergo unum draconem
+volatilem evomentem ignem, dicens: |un draco gli giacea~, idest,
+stabat extensus |con l'ali aperte~, ita quod multum occupabat de
+aere et inficiebat, |sopra le spalle dietro da la groppa~, quia
+latet in insidiis expectans quod aliquis transeat, et tunc
+aggreditur illum, unde dicit: |e quelli~, scilicet draco, |affoca
+qualunque s'intoppa~, ita quod nullus evadit quem fortuna duxit
+ante eum.  Et hic nota quod aliqui autores scribunt, quod sunt
+aliqui dracones volantes per aerem emittentes ignem per os, quod
+Albertus magnus non reputat possibile; sed dicit quod sunt quidam
+vapores igniti qui recte videntur volare, nunc ascendentes, nunc
+descendentes, ideo imperiti hoc videntes putaverunt esse dracones
+volantes.  Sed quicquid sit, autor fingit hunc draconem volatilem
+emittentem ignem, quia iste Cacus fuit publicus incendiarius
+immittens ignem in domos, et necans omnes occurrentes sibi.  Ideo
+bene Virgilius fingit quod Cacus natus est ex illo patre Vulcano,
+qui est deus ignis, et evomebat ignem et fumum per os.  Ergo bene
+per draconem intellige eius venenosam rabiem mixtam cum malitia
+quam effundebat in omnes, et ardore iracundiae suae fulminare
+videbatur.
+
+	|25-27.  Lo mio.~  Hic autor manifestat istum centaurum,
+quem primo describit a violentia; secundo a fraudulentia; tertio
+ab eius morte amara.  Dicit ergo specificans nomen eius: |Lo mio
+maestro~, scilicet Virgilius, qui primo descripserat plene istum
+Cacum, |disse: quest'@ee Cacco~, et est nomen bene consonum sibi;
+nam ^Cachos~ graece, latine ^malum~, et iste fuit malus, imo
+pessimus latronum, quod statim ostendit per eius opera prava,
+dicens: |che fece spesse volte laco di sangue~; unde Virgilius
+ibidem dicit, quod spelunca eius erat remota, numquam accensa
+radiis solis, sed semper recenti sanguine humida; et ad superbum
+introitum speluncae erant appensa capita putrida et pallida
+interfectorum ab ipso; ideo dicit: |sotto 'l sasso di monte
+Aventino~, qui est unus ex septem montibus Romae, sic denominatus
+ab avibus quae dederunt augurium Romulo, ad quem locum appulit
+Hercules regnante ibi rege Evandro.
+
+	|28-33.~  Et respondet Virgilius quaestioni tacitae, quam
+Dantes videbatur sibi facturus.  Sicut enim Dantes superius
+petiverat, quare Vannes vir sanguinum non erat positus in circulo
+violentorum inter centaurus, ita nunc similiter Dantes poterat
+petere: si Cacus saepe fecit de sanguine lacum, cur ergo non est
+positus et punitus in valle sanguinis cum aliis violentis?  Ideo
+Virgilius praevenit ipsum, et dicit: iste Cacus, |non va coi suoi
+fratelli~, idest cum aliis centauris, |per un camino~, scilicet
+per ripam circa sanguinem discurrendo, sicut illi faciunt; et
+ecce causam, |per lo furto frodulente~; et sic vide quod fraus
+addita supra vim aggravat peccatum, sicut idem dictum est supra
+de Vanne Fucii.  Cacus ergo usus est summa fraude quando traxit
+boves per caudam intra speluncam, ut vestigia retrograda
+indicarent potius recessum quam accessum ad locum; sicut a simili
+quidam tradunt de Catilina, qui fuit similiter violentus et
+fraudulentus, qui recedens furtive de monte foesulano fecit
+ferrari equos suos retrograde, |ch'ei fece del grande armento che
+l'ebbe a vicino.~  Et hic nota quod multi mirantur et truffantur
+de isto facto, dicentes: quomodo Hercules tam magnanimus er
+magnificus de tam magna victoria referebat tam parvam praedam? 
+Certe in Hispania natura videtur esse valde fortis in omnibus
+animalibus, unde ibi sunt pulcerrimi equi, muli, boves et canes. 
+Hercules ergo portabat boves electissimos secum ab occidente in
+orientem, credo ego pro semente, vel quia sic mandaverat sibi
+Euristeus rex Thebarum; ideo autor dicit: |del grande armento~,
+quod fuit causa mortis Caci, unde dicit: |onde cessar le sue
+opere biece~, idest, socca, fatua, quia fraus sua nihil valuit
+contra virtutem Herculis, qui, ut scribit Virgilius, audita voce
+bovis mugientis in antro, ardens ira, accepta clava, volavit in
+apicem montis; et Cacus ista prima vice visus est timere, et
+timor addidit alas pedibus, et ingressus cavernam, cum Hercules
+tentaret irrumpere, emittebat ignem et fumum tamquam ex ore
+inferni.  Sed Hercules ardore irae suae comprimens incendia eius
+jecit se in mediam caliginem, et amplexus ipsum in ipso furore
+Cacum vane furentem suffocavit; cuius corpus extractum de
+spelunca fuit, nec oculi hominum satiabantur videre oculos
+terribiles et pilosum pectus eius, nec Hercules satiabatur
+vindicta.  Ideo dicit: |sotto la mazza d'Ercule, che forse gliene
+di@e cento~, scilicet ictus et percussiones, |e non sent@i le
+diece~, cum esset jam extinctus.  Et in hoc notat morem irati,
+cuius ira saepe vivit mortuo adversario, qui iniuriam fecerat. 
+Et hic ultimo nota, quod, si verum scribit Rodericus
+archiepiscopus toletanus in sua chronica de gestis Hispaniae,
+iste Cacus fuit hispanus, quem Hercules expulit inde ex altissimo
+monte, qui fugiens venit in Italiam, et sic non potuit evadere
+clavam Herculis.
+
+	|34-37.  Mentre che s@i parlava.~  Ista est secunda pars
+in qua autor agit et tractat de secunda specie furum contraria
+primae, quia semper furantur; unde fingit tres spiritus modernos
+florentinos supervenire, quorum unius mirabilem mutationem fingit
+in ista secunda specie furti.  Et primo continuans dicta
+dicendis, dicit: |et ei~, scilicet, Cacus centaurus sacrilegus,
+|trascorse~, idest, celeriter transivit et recessit a visu
+nostro, quia erat dimidius equus, et stimulatus tot millibus
+serpentum, |mentre che s@i parlava~, idest, interim dum Virgilius
+sic loquebatur de ipso Caco, |e tre spiriti venner sotto noi~;
+isti erant tres nobiles florentini, quorum unus vocatus est
+Angelus de Burneleschis; alter Bosius de Donatis; tertius Pucius
+de Galligais, de quorum primo statim dicetur, et dicit: |de' quai
+n@e io n@e 'l duca mio s'accorse~, visu, sed voce cum fuerunt
+prope.  Et per hoc autor notat actum furum, qui incedunt ad
+furtum ita lente, plane, leniter, molliter et latenter quod homo
+non perpendit, nisi quando requiritur; ideo dicit: |se non quando
+gridar~: dicentes, |chi siete voi~, petebant a Virgilio et Dante
+qui essent, quos videbant stare, non fugere, et sine poena.
+
+	|38-39.~  Ideo Virgilius et Dantes capti novitate rei non
+responderunt illis, sed desierunt loqui, et coeperunt solummodo
+respicere ad ipsos quid acturi essent; unde dicit: |perch@e nostra
+novella si ristette~, idest, dimisimus materiam Caci, de quo
+nuper loquebamur, quia satis dictum erat de eo sub brevibus
+verbis, |et intendemo pur ad essi poi~, ut deveniremus ad
+cognitionem novorum furum, de quibus nondum aliquid videramus.
+
+	|40-43.  Io non.~  Hic autor tractaturus de istis, primo
+fingit se non novisse eos prima facie, sed unus alium nominavit a
+casu.  Dicit ergo: |io non li conoscea~, quia, ut dictum est,
+vadunt de nocte, et transfigurati ut non cognoscantur, |ma el
+seguette~, idest, postea accidit, |come suol seguitar~, idest,
+sicut aliquando solet accidere, |per alcun caso~, non data opera,
+sed fortuitu, |che l'un convenette nomare all'altro~, idest,
+quemdam alium ab istis tribus, et ideo oportuit nominare, quia
+deficiebat numero; erant enim inter omnes quinque de patria sua,
+et tres simul venerant, et alii duo restabant, quorum unus erat
+factus serpens, et remanserat, de quo unus trium prior petebat,
+|dicendo~, scilicet duobus sociis suis, |dove fia rimaso Cianfa.~ 
+Iste quartus socius erat de Donatis, quasi dicat ille petens:
+quid factum est de Cianfa? ivisset ne ad furtum faciendum? credo
+quod sic; et statim videbis quod ipse faciet alium serpentem. 
+Hoc autem figurat quod quantumcumque subtiliter et occulte agant
+furta sua, saepe unus detegit alium, etiam quando non perpendit
+et non vult.
+
+	|44-45.~  Et subdit quomodo apparaverit se ad
+considerandum istos, et reddiderit Virgilium attentum ad
+speculationem suam subtilem, unde dicit: |perch'io mi posi il
+dito su dal mento al naso~; hoc signum solet homo facere, quando
+vult aliquid attente notare, |acci@o che 'l duca stesse attento~,
+ad novam fictionem quam facere intendebam.  Sed tu dices: quomodo
+et quare Dantes facit Virgilium attentum, cum potius soleat et
+debeat facere oppositum?  Dicendum breviter quod autor tacite
+vult dicere Virgilio: attende si tu unquam fecisti talem
+fictionem; et sic vide qualiter Dantes devenerit in cognitionem
+istorum, quos prius non cognoscebat, quia scilicet audiens
+nominari Cianfam, intellexit quod isti erant sui florentini, ideo
+ita se firmavit ad respiciendum transformationes eorum.
+
+	|46-48.~  Et ideo facto Virgilio attento facit auditorem
+attentum valde artificiose; unde apostrophat ad lectorem, dicens:
+|o lettor, non ser@a meravigla, se tu se' or lento a creder ci@o
+ch'io dir@o~, de transmutatione unius hominis, quia non videtur
+bene credibile, quod ex duobus animalibus tam variis, imo
+contrariis et naturaliter inimicis, scilicet serpente et homine,
+fiat unum corpus ita mixtum, quod unum non discernatur ab alio;
+et vere non mirabor si lente credas rem mirabilem, |ch@e io, che
+'l vidi, appena mel consento.~  Et in hoc vide, lector, quod
+autor extollit suam fictionem.  Aliquando enim contingit homini
+magni ingenii, quod miratur de se ipso de sua aliqua inventione
+subtili, et dicit sibi ipsi: Ah Deus, quid fecisti! certe numquam
+scirem facere similem fictionem; et per hoc non vult aliud dicere
+nisi, ergo stes bene attentus.
+
+	|49-51.  Com'io.~  Hic autor describit transformationem
+furum istius secundae speciei.  Ad cuius intelligentiam debes
+primo notare, quod aliqui sunt fures habituati, qui numquam
+recedunt a tali habitu; nam semper meditantur furtum, et ita
+operantur semper, quando et quantum possunt, ita quod si deficit
+facultas, numquam tamen voluntas; et ideo autor punit istos cum
+serpentibus, cum quibus fingit eos incorporari et uniri, et a
+tali compositione numquam recedere, ad denotandum quod eorum
+cogitamen fraudulentum et corruptum ad furtum, est semper
+continuum et perpetuum usque ad mortem, ita quod sunt
+inemendabiles.  Dicit ergo: |et un serpente~, iste erat Cianfa,
+qui factus serpens amplexus est angelum et traxit eum in suam
+naturam; ideo dicit: |si lancia con sei pi@e dinanzi a l'uno~,
+scilicet angelo praedicto, |e tutto s'appiglia a lui~, quia toto
+corpore aptavit se cum illo; et hoc fecit, |com'io tenea levate
+le ciglia in lor~, quasi dicat: cum erexissem speculationem
+intellectualem ad considerationem eorum.
+
+	|52-57.~  Et ecce quomodo se totum implicuit illi, quia
+ille serpens habens sex pedes, |gli avvinse la pancia~, idest,
+ligavit corpulentiam et ventrem illi angelo, |coi pi@e di mezzo~,
+scilicet, duobus, |e prese le braccia con li anteriori~,
+scilicet, cum aliis duobus pedibus, quos extendit in longum per
+brachia, et immiscuit illis; |poi gli addent@o~, idest, cum
+dentibus cepit, |l'una e l'altra guancia~, ut sic confirmaret
+faciem suam cum facie hominis, et de duobus faceret unum caput,
+|e distese li diretani~, idest, duos ultimos pedes deduxit, |a le
+cosce~, et coniunxit cum illis; et ad perfectiorem unionem addit:
+|e miseli la coda tra ambedue~, idest, inter utramque cossam, |e
+la tese~, scilicet, versus caput, |dietro per le reni~, ut sic
+stringeret et ligaret ipsum a tergo, sicut fecerat ab anteriori,
+ita quod cauda intraret spinam hominis inseparabiliter.
+
+	|58-60.  Ellera.~  Hic autor specificat istam unitissimam
+coniunctionem per unam comparationem claram; et dicit quod
+colligatio quam facit hedera circa arborem, licet videatur
+tenacissima, non est similis isti.  Dicit ergo: |Ellera non fue
+mai abbarbicata ad arbore~, idest, applicata circa arborem, |come
+l'orribil fera~, idest, serpens ille, qui horribilis visu,
+|avviticc@o~, idest, ad modum vitis circumligavit, |le sue~,
+supple membra.  Et hic nota quod bene dicit, quia licet hedera
+vel vitis adhaereat tenacissime arbori, tamen potest ab ea
+divelli saltem per frustra; sed membra serpentis nullo modo
+potuissent disiungi ab homine; praeterea hedera non amittit
+naturam rel formam suam, nec induit naturam vel formam arboris,
+nec arbor e converso; sed serpens et homo sic.
+
+	|61-63.~  Ideo subdit inseparabilem incorporationem
+serpentis et hominis per unam comparationem propriam, dicens:
+|poi~, membra utriusque corporis, |s'appicc#ar~, scilicet, in
+simul, |come fosser stati di calda cera~, idest, tamquam si
+serpens et homo fuissent de cera, sive materia cerea, facili ad
+aliam formam suscipiendam; ideo dicit: |e meschiar lor colore~,
+quia ex colore hominis et colore serpentis est factus quidam
+tertius color, sicut videmus de facto in duabus ceris diversorum
+colorum, scilicet albi et nigri, qui sunt duo colores immediati;
+aliqui enim colores sunt mediati, ut vult philosophus; ideo
+dicit: |n@e l'un n@e l'altro gi@a parea quel ch'era~, quia scilicet
+serpens non videbatur amplius serpens, nec homo homo; vel color
+serpentis non videbatur amplius color serpentis, nec color
+hominis, hominis.
+
+	|64-66.~  Et declarat istam mixtionem colorum per unam
+comparationem manifestam, dicens, quod talis erat color tertius
+factus ex duobus, scilicet serpentino nigro, et humano albo,
+qualis est fumus procedens ab ardore papyri.  Dicit ergo: taliter
+novus color fiebat, |com'un color bruno~, scilicet semifuscus,
+|che non @ee nero ancora~, idest, nondum est plene niger, |e 'l
+bianco more~, idest, desinit esse album, |procede inanzi da
+l'ardore suso per lo papiro~, scilicet, candelae, vel intellige
+de carta bombicinea alba, quando comburitur; utraque enim est
+eadem comparatio, et papyrus habet ista diversa significata.  Et
+hic nota bene quod sub ista pulcra figura autor vult dare
+intelligi, quod qui assuevit tali vitio raro vel numquam scit
+recedere, imo insanabiliter persistit in eo usque ad mortem. 
+Ideo bene Aurelius Alexander romanorum imperator vir totus aureus
+virtute, sicut scribit AElius Lampridius in vita eius, condigne
+punivit furem.  Cum enim quidam nobilis solitus furari fuisset
+admissus ad militiam suam, contemplatione quorumdam regum
+amicorum, et statim esset deprehensus in furto, a quo non poterat
+abstinere, quaesivit Alexander a regibus, quorum gratia
+promoverat illum, quod supplicium daretur furibus apud eos; et
+cum illi respondissent quod cruce punirentur, statim eum ex eorum
+sententia crucifixit.
+
+	|67-69.  Li altri.~  Hic autor ostendit, quomodo socii
+istius angeli condoluerint de ista infelici transmutatione,
+dicens: |li altri dui~, scilicet Bosius et Pucius,
+|riguardavano~, scilicet istam horribilem transformationem, |e
+ciascuno gridava: om@e~, idest, heu mihi! quasi diceret dolenter:
+quae verecundia est ista?  |Agnel come te muti~, quasi dicat:
+quam vituperosa est ista mutatio!  Unde nota quod isti socii hic
+dolent de infamia; nam genus furum est juste omnibus odiosum,
+quia ultra id quod est pestilens est maxime vile; unde violentus
+est minus infamis quam fur; ideo violentus magis assimilatur
+leoni, fur vero vulpeculae, ut dicit Tullius libro officiorum. 
+Nullus ergo potest inclinari ad furtum, nisi ex summa animi
+vilitate; ideo bene praefatus Alexander juvenis egregius tantum
+odium habuit ad fures, quod si fur interdum praesentabatur
+conspectui eius, digito volebat eruere sibi oculum; et ita
+indignabatur contra tales, quod si eos videbat, aliquo casu,
+accendebatur tam amara ira, quod aliquando visus est evomere
+coleram toto vultu ardescente, ita ut nihil loqui posset; vere
+nobilis indignatio generosi animi, et turpis vilitas furum, quae
+viro forti et sublimi tam subito nauseam provocabat.
+
+	|70-75.  Gi@a.~  Hic autor posita transformatione furis in
+generali, specificat formam transformationis in speciali, dicens:
+|li due capi~, scilicet, hominis et serpentis, |gi@a eran divenuti
+un~, scilicet, caput, |quando due figure miste~, scilicet,
+serpentina et humana, quae sunt tam diversae et contrariae,
+confusae simul, |n'apparver in una faccia~, quia de duabus
+faciebus erat facta una, |ov'eran due perduti~, scilicet in anima
+et in figura; et ultra hoc, |le braccia due fersi di quattro
+liste~, quia scilicet duo brachia hominis et duo pedes anteriores
+serpentis simul incorporata sunt, ita quod quatuor diversa
+lineamenta apparebant in eis; et quia a simili potes imaginari
+incorporationem caeterorum membrorum, ideo non curat discurrere
+per singula, quia esset inutilis expensa temporis; ideo breviter
+dicit: |le cosce con le gambe~, quae similiter erant coniunctae
+cum duobus pedibus serpentis posterioribus, et similiter
+faciebant quatuor lineamenta, |il ventre e 'l casso~, quasi
+dicat, reliquum corpus, |divenner membra che non fur mai viste~,
+et ideo non possent bene describi nec discerni;
+
+	|76-78.~  et ideo concludit: |ogni primaio aspetto~,
+idest, omnis prima forma et figura partium corporis, |era casso~,
+idest, non apparebat amplius, |ivi~, idest, in illo corpore
+mixto, |e l'imagine perversa~, idest, corrupta in utroque, |parea
+due~, scilicet serpens et homo, |e nessun~, quasi dicat: tamen
+neuter videbatur, quia non discernebatur unus ab altero, |e tal~,
+idest, ista imago talis, qualem descripsi ipsam, |sen g@io con
+lento passo.~  Per hoc figurat quod iste fur ita associatus cum
+serpente vadit lente et leviter ad furta facienda; ideo divites
+habentes domos plenas, caveant sibi a tali fure inveterato,
+pratico et experto, qui didicit ire invisibilis.  Ex praedictis
+ergo potes perpendere, si pudor et dolor poterat nasci de
+transformatione infami istius furis, potissime quia erat nobilis
+homo.
+
+	|79-84.  Come 'l ramarro.~  Ista est tertia pars
+generalis, in qua autor agit et tractat de tertia specie furum;
+et primo tangit materiam transformationis describendae, proponens
+quomodo quidam fur percussus est a quodam serpente.  Ad
+indicandum autem subitum et improvisum insultum istius serpentis,
+praemittit comparationem alterius serpentis; et sententialiter
+dicit, quod unus parvus serpens velocissime et impetuose invasit
+alterum duorum sociorum, qui remanserant ibi intacti et immutati,
+sicut serpens brevis dictus ramarrus tempore magni caloris
+velocissime transilit viam in modum fulguris.  Ordina sic
+literam: |un serpentello~, iste erat quintus socius, scilicet
+quidam Guercius de Cavalcantibus qui erat factus serpens,
+|acceso~, scilicet veneno cupiditatis furandi, |livido e nero
+come gran di pepe~, et est similitudo propria; piper enim est
+nigrum, calidum, et ita iste serpens est niger et calidus.  Ad
+quod sciendnm quod quoddam est venenum calidum, quoddam frigidum,
+et id quod est calidum quasi comburendo interficit, et cito
+reddit locum morsus quasi adustum, et talis erat iste serpens,
+quia, ut videbis ex eius morsu egredietur fumus; ergo causatus
+fuit ab igne.  Frigidum autem interficit cor infrigidando: sed
+venenum calidum istius serpentis accendit cor istius hominis ad
+furandum, ita quod totaliter convertit ipsum in serpentem
+pestilentem et venenosum, |venendo verso l'epe~, idest, versus
+corpulentias et pancias istorum duorum, |parea s@i~, idest, ita
+videbatur fulgur, |come il ramarro.~  Ramarrus est serpens
+communis in Italia, qui alibi dicitur ^marro~, alibi ^ragano~,
+Bononiae vero dicitur ^liguoro~, qui serpens secundum quosdam
+appellatur stellio, a quo denominatur crimen stellionatus in jure
+civili, idest extraordinarium; ideo bene competit furi.  Unde
+volo te scire quod stellio et lacerta sunt similia quadrupedia,
+nisi quod stellio est piger et magis latus in dorso et cauda,
+quam lacerta, et est guttatus, quia habet terga picta inter
+lucentibus oculis in modum stellarum; sed lacerta est unius
+coloris tantum; ideo bene stellio figurat tam multiplex crimen et
+diversorum colorum et est stellio maxime inimicus scorpioni, ita
+quod scorpio illo viso timet eum.  Ad propositum ergo serpens de
+quo loquitur hic autor, erat quadrupes, sicut dicitur infra in
+litera, ideo bene hic assimilatur stellioni.  Dicit ergo: |pare
+folgore~, quia more fulguris velox et ardens, |se attraversa la
+via cangiando siepe~, idest mutando locum quando transit de sepe
+ad sepem; ita a simili saepe fur transvolat stratam de domo ad
+domum cum summa celeritate, |sotto la gran fersa~, idest sub
+magno calore sive magna calura, |dei d@i caniculari.~  Ad quod
+notandum quod Canis, secundum Albumasar in suo magno
+introductorio, est stella sive constellatio, quae surgit de mense
+augusti cum fine Leonis et principio Virginis, a qua denominantur
+dies caniculares; quae constellatio est de natura Martis, ideo
+est calidissima, ideo tunc serpentes maxime egrediuntur cavernas
+suas.
+
+	|85-87.  E quella.~  Hic autor descripta invasione
+serpentis quam fecit in hominem, describit vulnerationem sive
+percussionem quam fecit illi, dicens: |e trasfisse a l'un di
+lor~, scilicet Bosio qui erat unus duorum, |quella parte~,
+scilicet umbilicum, |onde prima @ee preso nostro alimento.~  Ad
+quod notandum quod foetus in utero mulieris nihil recipit per os,
+sed per umbilicum recipit sanguinem mestrualem, quo alitur, et
+illa vena videtur remanere vana et inutilis post nativitatem
+hominis; et tamen forte non est omnino frustra, quia videmus quod
+cum quis comederit nimium mellis exit per umbilicum,
+superfluitates vero emittit per ventriculum qui appellatur
+secundina, quae egreditur post partum.  Nota ergo quod autor hoc
+ideo fingit, ut ostendat quod homo capit principium suae
+corruptionis ab ea parte ubi habuit principium suae
+nutricationis.  Alii autem lectores altius speculantes, subtilius
+exponunt istum passum et dicunt, quod per hoc autor caute tangit
+furem innatum, scilicet, qui est fur antequam nascatur, sive qui
+nascitur fur, sicut aliquis Saturninus; ideo bene fingit quod
+percutitur a serpente livido et nigro, scilicet a Saturno, qui
+est plumbei et lividi coloris.  Videmus enim oculanter aliquos
+qui ita naturaliter inclinantur ad furtum, quod nullo modo sciunt
+se abstinere, ut ipsi de se testantur, et potius volunt habere
+quinque solidos furto quam decem dono.  Sed licet, lector, ista
+videatur subtilissima expositio, tamen non videtur mihi de mente
+autoris, quia, ut statim patebit in parte sequenti, homo mutatur
+totaliter in serpentem, et serpens mutatur totaliter in hominem,
+quia isti fures non sunt in continuo proposito furandi, sed
+aliquando cum electione, deliberatione et delectatione et
+societate, sicut est verisimiliter opinandum de isto hic
+percusso, scilicet domino Bosio de Donatis nobili milite, et
+aliis qui ponuntur hic, omnibus nobilibus et de nobilibus
+familiis.  Ideo quando facit furtum ita provide, avisate,
+apensate, efficitur penitus serpens, et quando recedit et
+dimittit animum furandi revertitur perfecte in hominem; ideo
+istud genus furum est pessimum omnium pro tunc; dicit ergo: et
+serpens dato vulnere homini, |poi cadde giuso~, scilicet a ventre
+hominis in terram, |disteso innanzi lui~, idest, coram homine qui
+erat assumpturus formam serpentinam ab eo.
+
+	|88-90.  El trafitto.~  Hic autor describit actum hominis
+percussi, dicens: |el trafitto~, scilicet vulneratus in ventre,
+|il mir@o~, scilicet illum serpentem autorem vulneris, |ma nulla
+disse~, quia fur percussus cupiditate furti ita alienatur mente,
+quod non sentit suam transmutationem cum tanta verecundia et
+poena; ideo dicit: |anzi sbadigliava~, quasi dicat: imo hoc
+obstante inhiabat ore aperto, furto committendo, |coi pi@e
+fermati~, idest, cum affectione firmata et obstinata, quia, ut
+dictum est, isti sunt qui accedunt ad furtum consulto.  Et
+declarat actum istius per comparationem claram et propriam,
+dicens: |pur come febbre o sonno l'assalisse~: nam affectio furti
+ex cupiditate lucri inflammabat animum eius, sicut febris
+inflammat corpus, et sopiebat mentem, sicut somnus, ita quod
+perdebat usum rationis ad tempus.
+
+	|91-93.~  Et subdit mutuum respectum et actum hominis
+percussi et serpentis percutientis dicens: |elli~, scilicet homo,
+|riguardava el serpente~, quia volebat fieri similis illi, |e
+quei~, scilicet et e converso serpens, |riguardava lui~, scilicet
+hominem, quia volebat fieri similis illi, |e l'un~, scilicet
+homo, |fumava forte per la piaga~, quia scilicet emittebat
+spiritum suum in serpentem, |e l'altro~, scilicet serpens,
+|fumava per la bocca~, quia scilicet versa vice transfundebat
+spiritum suum, |el fumo s'incontrava~, quia fumus exiens per
+plagam hominis intrabat in os serpentis; et fumus exiens per os
+serpentis intrabat plagam hominis, et ita permutabant spiritus
+inter se, quia unus fiebat de rationali irrationalis, alter de
+irrationali rationalis; nam qui disponitur ad furtum
+praemeditandum, induit formam serpentis; et qui dimittit exuit.
+
+	|94-96.  Taccia.~  Nunc autor descripturus mutuam
+mirabilem transformationem et inauditam, ut reddat auditorem
+adhuc magis attentum quam fecerat supra, ad extollendam suam
+materiam, imponit silentium Lucano et Ovidio, ostendens quod
+transformationes quas fecerunt non possunt aequiparari suae.  Ad
+intelligentiam transformationum Lucani est sciendum quod, sicut
+scribit Lucanus in VIIII, inter alios serpentes Africae, quos
+reperit Cato cum suis cum transiret per arenam, est unus nomine
+seps, qui portat palmam omnium, quia scilicet tollit animam et
+corpus simul.  Unde scribit ibi quod seps momordit quemdam
+militem Catonis nomine Sabellum in crure, et dum remansisset sibi
+affixus, ille cum manu violenter avulsit et cum hasta affixit
+arenae, et continuo plaga parvula coepit dilatari, et cutis
+rumpi, et caro dissolvi, et pestis transire per omnia membra
+intus et extra, ita quod in brevi spatio totum corpus resolutum
+redactum est in modicum cinerem et pulverem.  Deinde secuta est
+alia pestis contraria isti; nam alius serpens nomine prister
+percussit alium militem Catonis, cui nomen erat Nasidius, et
+statim eius facie inflata coepit pellis extendi, et totum corpus
+inflari; et in tantum intumuit quod lorica violenter crepuit,
+quod corpus amisit omnem figuram humanam, et factum est velut
+veges magna; ex quo socii territi dimiserunt ipsum adhuc
+crescentem insepultum, de quo aves vel ferae non gustassent sine
+poena.  Et sic nota quod autor videtur velle istas
+transformationes Lucani fuisse fictitias, quia sunt tam
+mirabiles; tamen multi et magni autores scribunt istas naturas
+serpentum tamquam veras: et dicunt aliqui quod pester est de
+genere aspidum, qui semper vagatur ore aperto et fumante, a quo
+percussus magna corpulentia intumescit more hydropici, et ad
+tumorem sequitur putredo.  Nunc ad literam dicit autor: |Lucano
+taccia omai~, quasi dicat: hucusque potuit loqui et gloriari de
+suis transformationibus mirabilibus, sed deinceps non poterit,
+quia venit qui excedit eum; |l@a dove tocca~, scilicet nono suae
+Pharsaliae, |del misero Sabello~, idest, misericordia digno
+propter miserabilem mortem, quia factus est modicus cinis, |e di
+Nassidio~, cuius mors fuit horribilior quam Sabelli, et dicit:
+|et attenda ad udire ci@o ch'or si scocca~, idest, novum genus
+transformationis, quod nunc emittitur ab arcu oris mei, quia in
+hoc poterit esse auditor meus.
+
+	|97-99.  Taccia.~  Hic Dantes imponit silentium alio
+poetae maiori, scilicet Ovidio, et tangit duas transformationes
+eius in suo maiori.  Ad primae intelligentiam est sciendum quod,
+sicut scribit ipse Ovidius IIII sui maioris, Cadmus conditor
+Thebarum in Graecia post multas infelicitates et calamitates
+suas, de quibus dicetur plene infra capitulo XXX, tandem fractus
+tantis malis exivit urbem suam, velut si fortuna locorum non sua
+premeret eum; et diu errando tandem pervenit in Illirium, quae
+provincia nunc dicitur Sclavonia, cum Hermione uxore sua, qui jam
+gravati adversis et senio, dum rememorant infortunium suae domus
+et suos praeteritos labores, et originem Thebarum infelicem, ita
+loquendo, Cadmus coepit extendi in longum ventrem tamquam
+serpens, et sensit squamas crescere indurata cute sua, et terga
+nigra variari viridibus guttis; et sic pronus cecidit ad terram
+in pectus suum, et crura copulata in unum coeperunt subtiliari in
+rotundam et acutam caudam.  Et dum invitaret uxorem ad
+amplectendum se, antequam totus converteretur in serpentem,
+lingua cum qua loquebatur subito scissa est in duas partes, et
+volens quaerelari coepit sibilare.  Uxor vero Hermion percutiens
+sibi pectus manu, exclamabat et dolebat de ista horribili
+transmutatione, et rogabat fieri similis illi, ut sic semper
+esset in eadem sorte secum; et sic factum est, et ambo serpentes
+per terram intraverunt secreta sylvae oppositae.  Et concludit
+Ovidius quod ambo facti sunt serpentes placidi, nec fugiebant
+hominem quia meminerant suae naturae prioris.  Veritas autem
+istius fictionis est, quod Cadmus impatiens tot infelicitatum
+suarum cum Hermione uxore sua recessit de suo regno Thebarum, et
+finaliter petens Sclavoniam intravit solitudinem; ideo dicuntur
+facti serpentes, quia sylvestres facti more serpentum
+habitaverunt in sylvis longe ab omni consortio hominum, et eorum
+mors et finis ignorata fuit.  Et hic nota quod autor potius facit
+mentionem de ista transformatione, quia habet aliquam
+similitudinem cum illa quam facturus est statim, si bene
+consideras hanc et illam.  Ad intelligentiam secundae fictionis
+est sciendum, quod, sicut scribit idem Ovidius in V maioris circa
+finem, Arethusa fuit quaedam nympha de Arcadia regione Graeciae,
+una ex virginibus Dianae pulcerrima; quae cum semel reverteretur
+a venatione fatigata calore et labore magno, pervenit ad fluvium
+Alpheum lucidum et lentum, et videns locum umbrosum salicibus et
+populis spoliavit se, et nuda coepit se lavare et natare per
+aquam.  Et ecce Alpheus deus illius fluminis veniens de sub undis
+coepit vocare eam.  Illa territa, quia non cognoscebat virum,
+statim aufugit; ille insecutus est eam ardentius: post longam
+fugam Arethusa ex timore coepit sudare, et subito resoluta est
+tota in aquam, quae intravit terram apertam miseratione Dianae;
+et continuo Alpheus conversus in aquam propriam admiscuit se
+sibi, et sic ex duabus aquis facta est una.  Veritas autem istius
+fictionis est ista, quod, secundum quod testantur fere omnes
+autores, Arethusa est fons famosus in Sicilia apud civitatem
+Syracusarum, et Alpheus est fluvius in Graecia apud civitatem
+Elydem et montem Olympum, cuius aqua dicitur pervenire in
+Siciliam et admisceri Arethusae fonti, sicut manifestis indiciis
+apparet quod purgamenta deiecta in Alpheum aliquando inveniuntur
+in Arethusa.  Et hic nota quod autor facit praecipue mentionem de
+Arethusa, quia mirabile videtur quod aqua veniat de Graecia in
+Siciliam sub mari, quod non admisceatur aquae salsae amarae,
+sicut dicit Virgilius libro Bucolicorum.  His breviter praemissis
+est redeundum ad literam.  Autor imponit silentium Ovidio,
+dicens: |Ovidio taccia di Cadmo~, rege Thebarum, |e d'Aretusa~,
+fonte Syracusarum.  Et vide quod haec est maior audacia quam
+prima; quia Ovidius fuit optimus magister transformationum, quas
+quasi omnes collegit in unum in suo maiori, qui liber ob id
+intitulatur Methamorphoseos, idest, liber transformationum.  Et
+reddit causam quare Ovidius debeat modo tacere et non gloriari de
+suis transformationibus, dicens: |ch@e~, idest, quia, |io non
+l'invidio~, imo potius ipse potest invidere mihi, |se converte
+quello~, scilicet Cadmum, |in serpente~, cum uxore sua simul, |e
+quella~, scilicet Arethusam, |in fonte~, simul cum Alpheo amatore
+eius, |poetando~, idest, poetice fingendo;
+
+	|100-102.~  et ecce quare non invideo, |ch@e~, idest,
+quia, |non transmut@o mai~, scilicet fictitie in omnibus
+transformationibus suis, |due nature~, scilicet diversarum
+specierum et formarum |a fronte a fronte~, idest
+proportionabiliter, ita quod quaelibet pars corresponderet
+cuilibet parti, sicut ego facio, |s@i c'ambedue le forme~, duarum
+naturarum, |fosser pronte a cambiar lor materie~, quasi dicat:
+ego non solum muto formas, sed etiam dispositionem materiae; quia
+illam, quae erat sub forma humana et disposita ad recipiendum
+humanas alterationes, ego converto in dispositionem ad
+alterationes serpentinas et e converso.  Et hic nota quod sicut
+est difficile imaginare materiam sine forma et e converso, cum
+una sine altera esse non possit; ita est difficile imaginari quod
+materia disposita ad formam unius speciei sit in illo iterum
+disposita ad formam alterius speciei.  Nec mireris, lector, si
+Dantes praesumpsit imponere silentium duobus magnis poetis, quia
+pro certo numquam facta fuit similis fictio, nec tam artificiosa
+transmutatio, sicut ipsemet testatur.  Credo tamen quod hoc
+fecerit non tantum ad suam laudem, quantum ut redderet auditorem
+attentum ad rem novam, inauditam et inexcogitatam.
+
+	|103-105.  Insieme si risposero.~  Ista est quarta et
+ultima pars, in qua autor nunc describit mutuam particularem
+transmutationem membratim serpentis percutientis, et hominis
+percussi.  Et vere hic est opus maxima attentione, quia ista pars
+est intricatissima: primo ergo proponit ipsam transformationem,
+dicens: serpens et homo, |si risposero insieme~, scilicet
+transmutando se, |a cotai norme~, idest, ad tales regulas quales
+dicentur statim; et incipit primo a fine, a parte viliori et
+extrema, ponens transmutationem caudae in serpente et crurum in
+homine dicens: |che 'l serpente fesse la coda in forca~, idest,
+divisit in duas partes, quia, scilicet, de cauda fecit duo crura
+humana cum cossis, |el feruto~, idest, homo percussus a serpente
+per oppositum, |ritrinse l'orme insieme~, idest, coniunxit sua
+crura simul faciens de illis caudam serpentinam.
+
+	|106-108.~  Et tangit modum coniunctionis, dicens: |le
+gambe con le cosce s'appiccar seco stesse~, idest, ipsaemet sine
+opera alterius; et bene dicit, quia homo voluntarie efficitur
+serpens, quando primo disponit gressum suum, qui designatur per
+vestigia ad furtum, |s@i~, idest, tam fortiter, |ch'in poco~,
+idest, in brevi: |la giontura~, idest, coniunctio, |non facea
+segno alcun che si paresse~, quasi dicat: quod non videbantur
+amplius duo crura, imo una cauda longa et rotunda;
+
+	|109-111.~  et dicit quod e contra fiebat ex parte
+serpentis, quia scilicet, |la coda fessa~, scilicet, serpentis,
+|toglieva la figura~, idest, formam crurum humanorum, |che si
+perdea di l@a~, scilicet, ex parte hominis, qui de duobus cruribus
+faciebat unam caudam: et dicit quod simul pellis mutabatur ex
+parte utriusque; unde dicit: |e la sua pelle~, idest, pellis
+serpentis, quae naturaliter est dura, |si facea molle~, idest,
+humana, |e quella di l@a~, idest, pellis humana, quae est
+naturaliter mollis, |si facea dura~, idest, serpentina, squamosa.
+
+	|112-114.  Io vidi.~  Hic autor describit secundam
+transmutationem, scilicet, brachiorum ex parte hominis, et pedum
+anteriorum ex parte serpentis, quia cum pedibus et manibus
+committitur furtum.  Ideo bene post transmutationem unius, ponit
+transmutationem alterius; et vult dicere breviter, quod brachia
+hominis longa breviabantur, et pedes serpentis breves
+longabantur.  Dicit ergo: |Io vidi le braccia intrar per
+l'ascelle~, quia retrahebantur per se ipsa intra corpus, ita quod
+fiebant brevia quantum erant duo pedes serpentis, et e converso,
+|e i duo pi@e della fiera~, idest, serpentis, |ch'eran corti vidi
+alongar tanto quanto accorciavan quelle~, idest, quantum
+breviabantur brachia hominis.
+
+	|115-117.  Poscia.~  Hic autor describit tertiam
+transmutationem, scilicet, pedum posteriorum serpentis et membri
+virilis hominis.  Dicit ergo: |poscia li pi@e di retro~, scilicet,
+serpentis, quia iste serpens habebat quatuor pedes tantum,
+|attorti insieme~, idest, coniuncti circulariter ut facerent
+formam rotundam, |diventaro lo membro che l'uom cela~, scilicet,
+veretrum in serpente, quod quidem membrum celatur ex verecundia;
+ideo autem homo erubescit de tali membro, quia numquam movetur
+nisi ad turpem actum.  Non sic de manu et pede, quae moventur ad
+honesta et turpia, ut dicit Augustinus de Civitate Dei: ideo bene
+natura provida posuit genitalia in parte occulta corporis, et
+quando homo incipit cognoscere, velat ipsa intra sylvam, et e
+contra; |e il misero~, scilicet, homo vere miser, qui tam
+miserabiliter amittebat formam humanam, |n'avea porti dui del
+suo~ non intelligas duo veretra, sed quod ex uno veretro fecerat
+duos pedes serpentis, ita quod diviserat ipsum in duas partes
+aequales.  Oportebat enim de necessitate, quod si deberet fieri
+totalis transmutatio, quod mutatio unius membri corresponderet
+proportionabiliter mutationi alterius membri.
+
+	|118-121.  Mentre.~  Hic autor describit erectionem
+unius, et casum alterius cum mutatione colorum et pilorum simul. 
+Dicit ergo: |l'un si lev@o~, scilicet serpens, qui fiebat homo,
+quia proprium est hominis ire rectum in altum, et iste dimittebat
+furtum ad tempus, |l'altro~, scilicet homo, qui fiebat serpens,
+|cadde giuso~, quia proprium est serpentis trahere corpus per
+terram; et per hoc figurat, quod homo qui inclusit se ad talem
+speciem furti committendam, vere cadit ab alta natura humana, et
+redigitur in serpentem ad terram pronus, |mentre che'l fumo vela
+l'uno e l'altro~, idest, tegit hominem et serpentem, |di color
+novo~, quia scilicet serpens iste qui erat niger, ut dictum est
+supra, induebat colorem hominis album; et e converso, homo qui
+erat albus induebat colorem serpentis nigrum, |e genera il pelo
+suso per l'una parte~, scilicet ex parte serpentis, qui fiebat
+homo et assumebat pilum hominis, quia desinebat esse serpens,
+quia cessabat esse fur; ideo dicit: |e il dipela dall'altra~,
+scilicet ex parte hominis qui perdebat pilum.
+
+	|122.~  Et subdit quod non fiebat mutatio aliqua ex parte
+oculorum, sed ex parte oris utriusque ita, unde dicit: |non
+torcendo per@o~, idest, non mutando ob hoc, |le lucerne empie~,
+idest, oculos istorum impiorum.  Unde nota quod autor non facit
+hic mutationem oculorum, sicut caeterorum membrorum, quia, teste
+Plinio, serpens numquam respicit recte sed oblique, et fur habet
+de se oculos obliquos tam mentales quam corporales, ideo non
+expediebat quod conferret visum obliquum uni, alteri rectum.
+
+	|123.  Sotto.~  Hic autor tangit mutationem faciei
+utriusque, dicens: |sotto le quali~, idest, sub quibus lucernis
+oculorum, |ciascun~, scilicet, tam serpens quam homo, |cambiava
+muso~, idest, mutabat os, et bene dicit: quia mutatio oris fiebat
+sub oculis, quia bucca naturaliter in animali est infra oculos,
+nisi esset monstrum.
+
+	|124-126.~  Et ecce modum istius transformationis, quia,
+|quel ch'era dritto~, scilicet, serpens qui fiebat homo, |il
+trasse~, idest, retro traxit ipsum musum, |v#er le tempie~, quia
+serpens qui habet os acutum, nunc faciebat de acuto planum, vel
+de subtili grossum; homo vero faciebat oppositum; et addit
+generationem auricularum in eo, dicens: e |l'orecchie uscir delle
+gote scempie~, quae erant factae magnae et amplae, |di troppa
+materia che in l@a venne~, scilicet, ad tempora, quia multum erat
+de materia in capite longo illius serpentis; ideo devenerant
+genae hominis ita plenae quod habiliter fuerunt formatae; inde
+aures subtiles humanae, quia serpens non habet aures extra, et
+quia fiebat nunc homo, ideo oportebat quod assumeret novam formam
+aurium.
+
+	|127-132.~  Et subdit formationem nasi, dicens: |ci@o che
+non corse indietro~, scilicet, ad formationem cerebri et
+auricularum, e |si ritenne~, idest, et quicquid retentum est
+nondum conversum de illa tanta materia, |fee naso a la faccia di
+quel soverchio~, idest, de residuo quod remanserat et
+superabundabat a formatione dictarum partium.  Et dicit: |e
+ingross@o le labbra~, scilicet, serpentis, quae erant subtilia de
+se, |quanto convenne~, scilicet, ad grossitiem labiorum hominis. 
+Sed dices forsan, sicut audivi ab alio, certe oportebat quod
+istud caput serpentis esset valde magnum, ex quo debebat fieri
+caput hominis cum cerebro, auribus, naso et labiis; sed certe
+serpens et homo erant eiusdem magnitudinis, licet diversae
+figurae, quia iste serpens animal fuerat homo, et nunc iterum
+renovabatur in hominem.  Erat enim Guercius de Cavalcantibus, et
+iste homo fuerat serpens, et nunc iterum renovabatur ad formam
+serpentinam; erat enim Bosius de Donatis.  Dicit ergo: |quel che
+giacea~, scilicet, Bosius qui fiebat serpens per oppositum,
+|caccia il muso inanzi~, idest, extendit in longum os ad modum
+serpentis, |e ritira l'orecchie per la testa~, idest, retraxit
+aures humanas, quas habebat extra, intra caput.  Et declarat hoc
+per comparationem claram, dicens: |come la lumaccia le corna.~ 
+Et hic nota quod comparatio est valde propria, quia limax ideo
+sic vocatur, quia in limo generatur et nutritur, et talis est fur
+qui sponte fit serpens et repit per terram; limax latet hyeme,
+vere exit, ita iste fur latet quamdiu est serpens, exit vero
+quando incipit fieri homo; limax animal timidum statim cum sentit
+aliquid retrahit se intra domum, ita et fur statim se occultat.
+
+	|133-135.  E la lingua.~  Hic autor describit mutationem
+linguae in utroque, dicens: |e la lingua ch'avea prima~, dum
+esset homo, |unita e presta a parlar, si fende~, scilicet in duas
+partes, quia serpens habet linguam scissam, et e contra, |e la
+forcuta~, idest, lingua serpentis bifurcata, |si richiude~,
+idest, fit unita, |ne l'altro~, scilicet in serpente.  Et hic
+nota quod aliqui dicunt, quod serpens de rei veritate non habet
+linguam scissam, sed cum tanta celeritate movet illam, quod
+videtur duplex; tamen Plinius et Albertus magnus dicunt quod sic,
+quamvis moraliter loquendo nullum animal est bilingue nisi solus
+homo, et concludit: |el fumo resta~, idest, cessat.  Per hoc
+innuit quod completa erat transformatio, quia serpens
+transfuderat totum spiritum suum in hominem, et e converso, ita
+quod in virtute fumi utriusque fiebat tota ista transformatio. 
+Et hic nota quod per istam tam artificiosam transformationem
+autor intelligit soIummodo unam talem conclusionem, videlicet
+quod talis fur omnino transnaturatur et efficitur serpens, et per
+consequens est pessimus omnium.  Nam si Vannes Fucii fuit
+resolutus, cito fuit renatus; si Angelus incorporatus extitit cum
+serpente, non tamen perdidit omnino naturam humanam, quam
+retinebat simul in eodem corpore, licet confuse et indistincte. 
+Sed Bosius infelicius caeteris mutabatur, quia omnino exuebat
+naturam humanam.  Bosius ergo ex homine factus est serpens, et
+Guercius ex serpente factus est homo quando sponte dimisit
+propositum furandi.  Isti ergo fures non fuerunt in continuo
+affectu furandi, sed ad tempus, aliis rebus interpositis.  Dum
+ergo sunt fures assumunt formam serpentinam dimissa humana; et
+dum resumunt humanam dimittunt serpentinam, quia utuntur ratione,
+et sic sunt nunc serpentes, nunc homines.
+
+	|136-138.  L'anima.~  Hic autor describit morem proprium
+utriusque transformati, dicens: |l'anima~, scilicet rationalis
+Bosii, |ch'era divenuta fera~, idest, anima feralis irrationalis
+serpentis, moraliter intellige, |sen fug$io~, quia furum est
+fugere, |sufolando~, quia sibilus est proprius furum et
+serpentum, |per la valle~, idest, per bulgiam concavam obscuram
+ad quam non penetrant radii solis, sicut dictum est supra de
+spelunca Caci, |e l'altro~, scilicet Guercius factus homo ivit,
+|dietro a lui~, idest, post animam Bosii; nam animus est qui
+facit transmutationem in isto, non manus vel pes, |parlando
+sputa~, quasi dicat: si potes sputa, sed non potes; quia spuere
+est actus hominis, tu autem non es amplius homo;
+
+	|139-141.~  et subdit: |poscia gli volse le novelle
+spalle~, idest, terga hominis quae nuper assumpserat, et bene
+vertit sibi terga, quia factus homo, factus est inimicus
+serpentis, |e disse a l'altro~, quasi dicat: convertit se ad
+alium socium, scilicet Pucium, qui nondum erat mutatus, et dixit:
+|io vo' che Boso~, qui nuper factus est serpens, |corra carpon~,
+idest, ^brancoloni~ more bestiae, |per questo calle~, idest, per
+istum tramitem furandi, |come fec'io~, quasi dicat: volo quod
+Bosius sit serpens sua vice, sicut ego fui, et currat cum
+brachiis, sicut ego feci.  Et est modus loquendi, quasi velit
+dicere: satis mali feci, satis diu fui fur, nunc relinquo Bosio
+artem furandi, qui est animatus et dispositus hic, quia officium
+furandi incipit displicere mihi, quod non bene convenit nobili et
+militi.
+
+	|142-144.  Cos@i.~  Nunc autor breviter epilogat quae
+dicta sunt, et concludit materiam istius fraudis furti, dicens:
+|cos@i vid'io~, sicut jam scriptum est, |la settima zavorra~,
+idest, septimam bulgiam, quam autor vocat saburram, quae est
+glarea, quae ponitur in navibus ut non vacillent; et est
+conveniens metaphora, quia ista bulgia est recte una arena
+sabulosa, sterilis, plena serpentum, qualis est arena Africae,
+sicut jam dictum est, vel forte hoc dicit, quia in ista bulgia
+ponit septem transformatos et transformabiles, scilicet Vannem
+Fucii, Ciachum, Angelum, Cianfan, Bosium, Puccium, et Guercium,
+|mutare~, de una specie in aliam, |e transmutare~, idest, de
+duabus speciebus vicissim unam in alteram, et alteram in unam. 
+Et subdit excusationem sui, dicens: |la novit@a~, scilicet istius
+fictionis et inventionis numquam factae per alium, |mi scusi
+qui~, idest, in hac parte, |se la penna aborra~, idest, si stylus
+oberrat, |fior~, idest, in aliquo modico.  Et hic nota quod hic
+magnus poeta petit veniam de eo de quo meretur maximam laudem;
+unde facit recte sicut Sceva fortissimus miles Caesaris qui, ut
+refert Julius Celsus, cum fecisset multas et magnas probitates
+contra anglicos in mari anglico, tandem reversus ad Caesarem
+petivit veniam, ubi merebatur gloriam; ita Dantes, qui nunc
+fecerat mirabiles inauditas fictiones, petit veniam ubi merebatur
+lauream coronam, sicut triumphando de furibus.
+
+	|145-150.  Et avvegna.~  Hic autor quia processerat satis
+confuse in isto tractatu, ideo ne aliquid remaneat obscurum,
+declarat duos ex dictis spiritibus florentinis, unum nominatim,
+alium per circuitionem verborum, dicens: |e quei~, scilicet fures
+praedicti, |non poter fuggirsi tanto chiusi~, quia quantumcumque
+fures conentur caute et occulte fugere, tamen non possunt
+interdum evadere quin videantur et cognoscantur, |ch'io non
+scorgesse ben~, idest, dignoscerem, |Puccio Sciancato~: iste non
+erat bene aptus ad fugiendum quando ibat cum aliis ad furandum,
+quia erat claudus, |avvegna che gli occhi miei fosser confusi~,
+tanta diversitate rerum, |e l'animo smagato~, idest, alteratus,
+|alquanto~; imo vere animus autoris erat gravatus visione talium
+suorum civium nobilium in loco tam infami, ut ipsemet dicit in
+principio sequentis capituli; et specificat Pucium praedictum,
+dicens: |et era quel che sol non era mutato~, quia adhuc
+persistebat in forma humana, |de' tre compagni che venner prima~,
+quia, ut patuit supra, tres socii apparuerunt simul primo autori,
+scilicet Angelus, Bosius, Pucius, quorum duo jam sunt mutati,
+scilicet Angelus, Bosius: restabat ergo Pucius solus, de cuius
+mutatione autor non intendit dicere, quia satis ostensa est
+triplex transformatio in triplici specie furum.
+
+	|151.~  Et ultimo specificat alium qui erat nuper
+renovatus in hominem, scilicet Guercium de Cavalcantibus.  Iste
+miles vocatus est dominus Franciscus Guercius de Cavalcantibus de
+Florentia, qui fuit occisus ab hominibus de quadam villa
+comitatus Florentiae, quae vocatur Gaville, ex quo nata est magna
+guerra inter Cavalcantes et praedictos, et multi ex illis
+rusticis in vindictam interfecti fuerunt ab istis nobilibus; ideo
+autor apostrophat ad ipsam villam, dicens: |l'altro~, scilicet
+Guercius, |era quello~, scilicet, fur, |che tu Gaville piagni~,
+idest, ploras, quia multas mortes tuorum vidisti pro morte istius
+unius; propter quod habes materiam planctus.  Et hic nota quod
+autor non nominaverat nisi unum de illis tribus, scilicet Bosium,
+quando dixit: ^io vo' che Buoso corra~: ideo hic explicat alios
+duos, ut eius tractatus remaneret magis lucidus.
+
+

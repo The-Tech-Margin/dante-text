@@ -1,0 +1,445 @@
+Checking file 01.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <La gloria di colui che tutto muove>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima auctor facit
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |1-3.~  Ad primam auctor recitaturus de coelestibus et de
+>>> Paradiso, unde poetando fingit se descendisse, subaudias,
+
+Warning: Single line indent at line 19
+>>>     ^Stabilisque manens das cuncta moveri:~
+
+Warning: Single line indent at line 81
+>>>     ^Inter victrices hederas tibi serpere lauros.~
+
+Warning: Single line indent at line 88
+>>>     ^Pastores hedera nascentem ornate poetam.~
+
+Warning: Single line indent at line 116
+>>>     ^Sollicitare Deum, Bacchumque avertere Nysa~.
+
+Error at line 169: Spaces used at head of paragraph
+>>>        |37-39.~  Ad secundam dicit auctor, quod Sol in signo
+>>> Arietis erat; in quo signo est exaltatio sua, et in fauce Gangis
+
+Warning: Single line indent at line 248
+>>>     ^O qui perpetua mundum ratione gubernas.~
+
+Error at line 254: Spaces/Tabs used in paragraph
+>>>     ^Ducis ab exemplo: pulcrum pulcherrimus ipse~
+>>>     ^Mundum mente gerens, similique imagine formans~...
+>>>     ^Tu requies tranquilla piis: te cernere sinis~
+>>>     ^Principium, vector, dux, semita, terminus idem.~
+Checking file 02.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <O voi che siete in piccioletta barca>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima ponit exordium;
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |1-4.~  Ad primam igitur auctor suadet sequentibus
+>>> hucusque eum, studentibus hoc suum poema circa poetica et
+
+Error at line 69: Spaces used at head of paragraph
+>>>        |19-21.~  Ad secundam dicit quod concreata sitis, idest
+>>> naturalis appetitus dirigens nos ad finem et fontem nostrum,
+
+Warning: Single line indent at line 135
+>>>     ^Mundum mente gerens~ etc.
+
+Checking file 03.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-15.~  <Quel sol che pria d'amor mi scald@o il petto>. 
+>>> Continuando se auctor, vocando Beatricem, idest theologiam,
+
+Warning: Single line indent at line 32
+>>>     ^Casta fave Lucina~ etc.
+
+Warning: Single line indent at line 40
+>>>     ^Nequidquam lucis Hecate~ etc.
+
+Warning: single line paragraph at line 46
+>>>		^...Ecate pars ultima nostrae~ etc.
+
+Warning: Single line indent at line 55
+>>>     ^Fons erat illimis nitidis argenteus undis~ etc.
+
+Checking file 04.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Intra due cibi distanti e moventi>. 
+>>> Continuando se auctor ad proxime dicta, dicit quod ex eo quod
+
+Error at line 93: Spaces used at head of paragraph
+>>>        |73-81.~  Ad secundam solutionem ita venit: si violentia
+>>> est, idest, quia ille qui patitur, nihil violento confert, dicta
+
+Warning: Single line indent at line 169
+>>>     ^Natus erat facto pius et sceleratus eodem.~
+
+Checking file 05.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <S'io ti fiammeggio nel caldo d'amore>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima, praemisso
+
+Error at line 10: Spaces used at head of paragraph
+>>>      	|19-24.~  Ad primam igitur, praemisso exordio, quod per
+>>> se patet, dicit Beatrix quod majus donum, quod a Deo habet homo,
+
+Checking file 06.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  Poscia che Costantin l'aquila volse.~  Auctor in
+>>> hoc Capitulo, continuando se ad proxime supradicta, utitur colore
+
+Warning: Single line indent at line 158
+>>>     ^Devotum hostiles Decium pressere catervae.~
+
+Warning: Single line indent at line 162
+>>>     ^Vicit amor patriae, laudumque immensa cupido.~
+
+Warning: Single line indent at line 250
+>>>     ^Jam gelidas Caesar cursu superaverat Alpes,~
+
+Warning: Single line indent at line 255
+>>>     ^Ut notae fulsere aquilae, Romanaquae signa.~
+
+Warning: Single line indent at line 316
+>>>     ^His Caesar, Perusina fames, Mutinaeque labores~ etc.
+
+Warning: Single line indent at line 355
+>>>     ^Ultima funesti concurrant praelia mundi.~
+
+Checking file 07.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3. ^Osanna Sanctus Deus Sabaoth.~  Continuando se
+>>> auctor ad praecedentia, dicit quod umbra dicti Justiniani, finito
+
+Checking file 08.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Solea creder lo mondo in suo periclo.~  Auctor
+>>> tractaturus de beatis et beatificatis sub impressione et
+
+Warning: Single line indent at line 50
+>>>     ^Multa super Thebis Bacchum ausuramque Dionem~ etc.
+
+Warning: Single line indent at line 96
+>>>     <Voi che'ntendendo il terzo ciel movete,>
+
+Warning: Single line indent at line 172
+>>>     ^Format enim natura prius nos intus ad omnem~ etc.
+
+Checking file 09.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Dappoich@e Carlo tuo, bella Clemenza.~  Continuando
+>>> se auctor ad praecedentia, apostrophando ad reginam Clementiam
+
+Warning: Single line indent at line 69
+>>>     ^Gurgite cum medio portans Oeagrius Hebrus,~
+
+Warning: Single line indent at line 97
+>>>     ^Hospita, Demophoon, tua te Rhodopeia Phyllis.~
+
+Warning: Single line indent at line 101
+>>>     ^Qua patet umbrosum Rhodope glacialis ad Haemum~.
+
+Warning: Single line indent at line 109
+>>>     ^Incipe, Mopse prior, si quos aut Phyllidis ignes~ etc.
+
+Warning: Single line indent at line 126
+>>>     ^Mundum mente gerens~ etc.
+
+Checking file 10.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.~  Guardando nel suo figlio con l'amore.~  Auctor in
+>>> hoc Capitulo volendo venire cum dicta sua poetica investigatione
+
+Warning: Single line indent at line 42
+>>>     ^Ille opifex rerum, mundi melioris origo~ etc.
+
+Checking file 11.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-12.  O insensata cura dei mortali.~  Auctor etiam
+>>> continuando se, exordiendo invehit contra curam mortalium, ut
+
+Warning: single line paragraph at line 122
+>>>	|100-102.~  Dicendo quomodo ivit in Syriam;
+
+Checking file 12.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  S@i tosto come l'ultima parola.~  Continuando se
+>>> auctor ad praecedentia, dicit quod contemplatis religiosis et
+
+Error at line 21: Spaces/Tabs used in paragraph
+>>>     ^Concipit Iris aquas, alimentaque nubibus affert.~
+Checking file 13.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-9.  Imagini chi bene intender cupe.~  Auctor hoc modo
+>>> se adhuc ad supradicta refert, et exorditur cum hac comparatione. 
+
+Warning: Single line indent at line 17
+>>>     ^Protinus aspicias veniente nocte coronam.~
+
+Warning: Single line indent at line 43
+>>>     ^Vescentes, laetumque choro Paeana canentes~ etc.
+
+Warning: Single line indent at line 47
+>>>     ^Dicite io Paean, et io bis dicite Paean.~
+
+Checking file 14.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Dal centro al cerchio, e s@i dal cerchio al
+>>> centro>.  Hoc Capitulum dividitur in duas partes.  In prima
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |1-9.~  Ad primam dicit, quod sicut percutiendo unum vas,
+>>> puta bacile plenum aqua, in suo centro, idest in medio, undatio
+
+Error at line 38: Spaces used at head of paragraph
+>>>        |85-90.~  Ad secundam dicit quod subito auctor coelum
+>>> Martis ascendit sua intellectuali speculatione, et cum toto
+
+Checking file 15.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|25-27.~  <Benigna volont@a in che si liqua>.  Auctor
+>>> continuat se, dicendo et fingendo sibi apparere in illo signo
+
+Warning: Single line indent at line 54
+>>>     ^Et Venere et caenis et plumis Sardanapali.~
+
+Checking file 16.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  O poca nostra nobilt@a di sangue.~  Auctor
+>>> continuando adhuc se ad proxime dicta, dicit quod numquam
+
+Warning: Single line indent at line 10
+>>>     ^Nobilitas animi sola est atque unica virtus.~
+
+Warning: single line paragraph at line 17
+>>>	|7-9.~  Et hoc est quod subditur: in tempore perditur.
+
+Error at line 26: Spaces/Tabs used in paragraph
+>>>     ^Contigit, et laetos fecit se consule fastos.~
+>>>     ^Namque omnes voces, per quas jam tempore tanto~
+>>>     ^Mentimur dominis, haec primum repperit aetas~;
+Error at line 101: Tab used in indenting
+>>>	     ^Sobrius aula.~
+Error at line 103: Tab used in indenting
+>>>	|73-75.~  Inde nominat aliquos rusticos tales, in persona
+Error at line 104: Missing indentation
+>>>etiam aliorum, non ad virtuosa civilia et actus proportionatos. 
+Error at line 106: Missing indentation
+>>>quae non congruit suo toti.  Nam cum quilibet homo civis sit pars
+Error at line 108: Missing indentation
+>>>sit bene proportionatus bono communi; nec totum potest bene
+Error at line 110: Missing indentation
+>>>civitatis non est, nisi cives sint virtuosi, maxime illi, quibus
+Error at line 112: Missing indentation
+>>>principis et boni viri.~
+Error at line 114: Tab used in indenting
+>>>	|85-139.~  Nominando per diversa nomina et signa 44
+Error at line 115: Missing indentation
+>>>domos, seu prosapias, quae suo tempore magnae erant mediocres et
+Error at line 117: Missing indentation
+>>>Graeci, Ormanni, Alberici: item illi della Sannella, et illi de
+Error at line 119: Missing indentation
+>>>in loco dicto Porta, ubi illi de Cerchiis venerunt postea de
+Error at line 121: Missing indentation
+>>>portantes columnam varii per armaturam, Sacchetti, Giochi,
+Error at line 123: Missing indentation
+>>>starium Doanae salis minuit false, et ideo adhuc de hoc
+Error at line 125: Missing indentation
+>>>cippo: item Sitii et Arrigucci; item Uberti sua superbia deserti:
+Error at line 127: Missing indentation
+>>>Tosa, Bisdomini et Aliotti, patroni Florentinae ecclesiae
+Error at line 129: Missing indentation
+>>>Peruzzii: item Nerli, illi etiam de Pulcis et de la Bella, et
+Error at line 131: Missing indentation
+>>>cujus commemoratio fit in festo sancti Thomae in Abbatia
+Error at line 133: Missing indentation
+>>>Gherardini eorum consortes; de quibus Amideis fletus Florentiae
+Error at line 135: Missing indentation
+>>>Dominum Bondelmontem renuentem unam de eis, contra suam
+Error at line 137: Missing indentation
+>>>mortuus est: inde et Gebellini expulsi.
+Error at line 139: Tab used in indenting
+>>>	|140-144.~  Et ideo dicit: utinam tu, Domine Bondelmonte,
+Error at line 140: Missing indentation
+>>>stetisses ad Emam flumen manans ejus originis;
+Error at line 142: Tab used in indenting
+>>>	|145-147.~  sed debitum fuit quod esset de eo victima
+Error at line 143: Missing indentation
+>>>facta statuae lapideae Martis ruptae statim supra pontem, qui
+Checking file 17.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  Qual venne a Climen@e per accertarsi.~  Auctor
+>>> continuando se, in memoriam habendo de objectis sibi in valle
+
+Warning: Single line indent at line 179
+>>>     ^Dulcis amor patriae... allicit omnes~.
+
+Warning: Single line indent at line 227
+>>>     ^Saepe tulit lapsis succus amarus opem.~
+
+Checking file 18.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Gi@a si godeva solo del suo verbo>.  Auctor
+>>> continuat se ad proxime dicta usque ibi: <Si m'accorsi io che mio
+
+Error at line 8: Spaces used at head of paragraph
+>>>        |37-38.~  Dicit igitur per illam crucem, idest per
+>>> commemorationem virtutis et laudis et famae et impressionis
+
+Warning: single line paragraph at line 13
+>>>	|40.~  Item Judam Machabaeum, filium Mathatiae.
+
+Warning: single line paragraph at line 15
+>>>	|43.~  Item Karolum magnum et Orlandum.
+
+Warning: single line paragraph at line 25
+>>>	|48.~  Item Robertum Guiscardum de Soapia.
+
+Warning: Single line indent at line 34
+>>>     ^Sub Jove temperies, et numquam turbidus aer.~
+
+Error at line 53: Spaces used at head of paragraph
+>>>     	|82-84.~  Et ad praedicta narrandum invocat illam vivam
+>>> fontanam Pegaseam, quam pro morali et politica scientia et
+
+Warning: Single line indent at line 75
+>>>     ^Aetherea quos lapsa plaga Jovis ales aperto.~
+
+Checking file 19.e
+Warning: Single line indent at line 3
+>>>     	|Proemio.~  <Parea dinanzi a me con l' ali aperte>.
+
+Warning: single line paragraph at line 92
+>>>	|121-123.~  Item superbia regis Scotiae et Angliae.
+
+Warning: single line paragraph at line 94
+>>>	|124-126.~  Item opera mala illius Hispaniae et Bohemiae.
+
+Checking file 20.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  Quando colui che tutto il mondo alluma~.  Hoc
+>>> Capitulum continuando dicit auctor comparative ad nonam sphaeram
+
+Error at line 36: Tab used in indenting
+>>>			^...Primusque Coroebus~
+Warning: Single line indent at line 49
+>>>     ^Est virtus placitis abstinuisse bonis.~
+
+Checking file 21.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|4-6.~  <Gi@a eran gli occhi miei rifissi al volto>. 
+>>> Auctor in hoc Capitulo ponit quomodo ascendit ad coelum Saturni,
+
+Checking file 22.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Oppresso di stupore alla mia guida>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima se continuat ad
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |16-18.~  Ad primam dicit, quomodo dictum fuit in
+>>> praecedenti clamatu, quod spatha, idest justitia Dei, non
+
+Error at line 64: Spaces used at head of paragraph
+>>>        |103-105.~  Ad secundam partem dicit quomodo cum dicta
+>>> sua speculatione ascendit subito in coelum octavae sphaerae in
+
+Error at line 99: Spaces/Tabs used in paragraph
+>>>     ^Implevit, stellasque vagas miratur, et astra~
+>>>     ^Fixa polis, vidit quanta sub nocte jaceret~
+>>>     ^Nostra dies, risitque sui ludibria trunci.~
+Warning: single line paragraph at line 107
+>>>	|142-144.~  Natus Hyperione est Sol.  Unde Ovidius:
+
+Error at line 110: Spaces/Tabs used in paragraph
+>>>     ^Forma, calorque tibi, radiataque lumina prosunt?~
+Warning: single line paragraph at line 114
+>>>		^...Maja genitum demittit ab alto.~
+
+Checking file 23.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|10-12.~  <Come l'uccello tra le amate fronde>. 
+>>> Continuando se auctor, dicendo quomodo Beatrix, idest theologia,
+
+Checking file 24.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  O sodalizio eletto alla gran cena.~  Auctor
+>>> continuando se etiam dicit quomodo Beatrix invocavit consortium
+
+Warning: Single line indent at line 26
+>>>     ^Bella quibus populis, quae mutent sceptra cometae.~
+
+Checking file 25.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-12.  Se mai continga che 'l poema sacro.~  Praemisso
+>>> exordio de coronatione sua poetica fienda congruentius postquam
+
+Checking file 26.e
+Error at line 3: Spaces used at head of paragraph
+>>>    	|1-12.  Mentr'io dubbiava per lo viso spento.~  Auctor
+>>> prosequendo de dicto Joanne, qui de charitate tractavit ut
+
+Error at line 88: Spaces/Tabs used in paragraph
+>>>     ^Quae nunc sunt in honore vocabula, si volet usus,~
+>>>     ^Quem penes arbitrium est, et jus, et norma loquendi.~
+Checking file 27.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Al Padre, al Figlio, allo Spirito santo>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima continuat se ad
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |13-15.~  Ad primam igitur dicit quomodo sanctus Petrus
+>>> erubuit ac si Jupiter, qui est stella alba, efficeretur Mars, qui
+
+Error at line 86: Spaces used at head of paragraph
+>>>        |97-99.~  Ad secundam dicit quomodo cum visu Beatricis,
+>>> idest cum intellectu theologico et methaphysico, de nido Ledae
+
+Warning: Single line indent at line 93
+>>>     ^Fecit olorinis Ledam recubare sub alis.~
+
+Checking file 28.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-12.  Poscia che contro alla vita presente.~  Auctor in
+>>> hoc cantu, et in sequenti, de essentia Angelorum tractaturus,
+
+Checking file 29.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|8-12.~  <Quando amboduo li figli di Latona>.  Auctor,
+>>> continuando se, dicit quomodo Beatrix, idest theologia, ita
+
+Checking file 30.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Forse sei mila miglia di lontano>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima continuat se ad
+
+Error at line 9: Spaces used at head of paragraph
+>>>        |1-9.~  Ad primam per similitudinem dicit quod splendore
+>>> Deitatis, ut a Sole, illi Angeli, ut stellae, velati fuerunt; et
+
+Error at line 32: Spaces used at head of paragraph
+>>>        |38-42.~  Ad secundam dicit quomodo de coelo nono
+>>> ampliore omnibus aliis coelis corporalibus, ascendit ad empyreum
+
+Checking file 31.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|7-9.~  <In forma dunque di candida rosa>.  Auctor,
+>>> continuando se, dicit quod ut apes in flores, ita Angeli in illam
+
+Warning: Single line indent at line 40
+>>>     ^Nec sequar aut Helicen, aut, qua Tyros utitur, Arcton.~
+
+Checking file 32.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Affetto al suo piacer quel contemplante.~  Auctor,
+>>> continuando se, dicit quod illo sancto Bernardo contemplante
+
+Checking file 33.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Vergine madre, figlia del tuo figlio>. 
+>>> Auctor in hoc Capitulo vult ostendere quod humanum non est per
+
+Warning: Single line indent at line 152
+>>>        		DEO GRATIAS.
+

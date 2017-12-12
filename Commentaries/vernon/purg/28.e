@@ -1,0 +1,149 @@
+	|Proemio.~  Incomincia il capitolo XXVIII del purghatorio.
+
+	|1-36.~ 
+
+   ^Vagho gi@a di cierchare dentro e dintorno~
+   ^la divina foresta ispessa e viva~
+   ^ch'agli occhi temperava il novo giorno.~
+
+Trattato l'altore chome per lui si sia provenuto al paradiso terresto 
+nel chapitolo proximo paxato ora continua la sua materia alla passata e 
+dividesi questo C.o in 4.° parti gienerali.  In questa prima parte 
+l'altore discrive la sua grande investighagione discrivendo i[l] luogho 
+dov'egli entr@o per molti modi cio@e per fiori albuciegli e acque chome 
+chomincia il detto chapitolo.
+
+   ^Un'aura dolcie sanza mutamento~
+   ^avere in s@e mi ferio per la fronte~
+   ^non di pi@u colpo che soave vento.~
+
+Per queste parole vuol dire l'altore che in questa champagnia veniano 
+grandi odori e per questo dei intendere la gloria e lla virt@u de' 
+valenti huomini i quali sono pervenuti per loro istudio alla somit@a 
+delle virt@u e altro non vuol dire.
+
+   ^Tal qual di ramo i[n] ramo si rachoglie~
+   ^per la pineta in sul lito di Chiassi~
+   ^quando Eolo sciloccho fuor discioglie.~
+
+Per questi detti di sopra nel testo l'altore d@a questa comparazione 
+della pineta di Ravenna quando trae quel vento chiamato isciloccho e 
+eolo e allora la pineta sbattendosi ramo cho ramo e lle pine insieme 
+fanno grande rumore e questo detto iscrive Virgilio nel suo libro e 
+Ovidio che 'l re de' venti ha nome Eolo.
+
+	|37-81.~ 
+
+   ^E ll@a m'apparve s@i chom'egli appare~
+   ^subitamente cosa che disvia~
+   ^per maraviglia tutt'altro pensare.~
+
+In questa seconda parte l'altore discrive una donna la quale fingie 
+trovare in que[l] luogho che gli parl@o secho e dicie ch'ella andava 
+cogliendo fiori.  E questa donna che fingie qui l'altore che ffu una 
+contessa Matelda la qual fa che rapresenti per la vita attiva nel nuovo 
+tempo cio@e nell'avenimento di Cristo in qua inper@o che detto @e in 
+questo libro adietro ch'ella fu fighurata per la vita attiva e questo 
+fu al tempo di paghanesmo anticho anzi che venisse il figliuolo di Dio. 
+ E per questo trovare di costei toccha l'altore una fizzione poeticha 
+chos@i diciendo il nostro altore fiorentino poeta
+
+   ^Tu mi fa' rimembrar dove e qual era~
+   ^Proserpina nel tempo che perdeste~
+   ^la madre e llei ed ella primavera.~
+
+La storia si @e questa dicie Ovidio che andando un d@i Proserpina a 
+spasso con sue compagnie per un prato a ppi@e di Mongibello in Cicilia 
+chogliendo fiori Pluto iddio dello inferno la rap@i e in sun un charro 
+la men@o per la boccha di Mongibello all'inferno.  L'alleghoria si @e 
+questa che Cieres madre di Proserpina si @e la terra fertile Proserpina 
+si @e la biada e quando la biada si semina allora @e tolta da Pluto che 
+sta sotterra.  Cieres sua madre la va cierchando col fuoco per riaverla 
+il fuoco si @e il sole il quale fa nasciere la biada e ancho da chapo 
+la rende a Cieres sua madre e ancor poi gliele ritoglie.
+
+   ^Non credo che splendesse tanto lume~
+   ^sotto le ciglia a Venere trafitta~
+   ^dal figlio fuor di tutto suo chostume.~
+
+Qui toccha l'altore una comperazione di voglia ch'egli fingie che a 
+llui vengha d'andare a quella donna cio@e a quella contessa Matelda e 
+fingie l'altore che sia un fiumiciello i[n] mezzo tra llui e llei.  E 
+lla comperazione si @e questa che fingie di volere andare a chostei che 
+Venus s@i ssi inamor@o di Chupido suo figliuolo e per altro non dicie 
+quelle parole e po' seghue
+
+   ^Ella ridea dall'altra riva dritta~
+   ^traendo pi@u colori colle suo mani~
+   ^che ll'altra terra sanza seme gitta.~
+
+Ancora l'altore per questa voglia che fingie che gli ha ' dire a 
+pparlare con chostei ti d@a un'altra similitudine ed @e questa.  Serse 
+fu figliolo di Dario re di Persia e d'oriente e si gli lasci@o una 
+ghuerra contro a' Greci il d@i ch'egli ne fu diserto in questo modo 
+ch'esso si pens@o venire signiore di tutta Grecia era uno suo hoste e 
+and@o in Grecia imper@o ch'era tra llui e Grecia un braccio di mare 
+chiamato Elisponto largho forse u[n] milio.  E paxato in Grecia il re 
+di Persia e il re Lionida gli and@o addosso e in efetto il re Serse 
+cholla sua giente per forza pass@o.  E vegiendo ci@o il re Lionida 
+raun@o la sua baronia e disse chi non vuole morire si vada con Dio e 
+molti se n'andarono e disse i' voglio in prima morire ch'essere 
+sottoposto a ssimile giente.  E in efetto com pocha giente si misse 
+alla battaglia e con gran vighore contro il re Serses il re Serses per 
+paura pass@o il braccio del mare Elesponto e ffu i[l] luogho sichuro.  
+Ed egli era vilissimo ma superbo e in effetto la giente del re Lionida 
+magnianimo leone ed egli perch'erano pochi furono tutti morti.  E il re 
+Serses saputa la morte del re Lionida e degli altri pass@o e and@o per 
+la Grecia e fecie gran danni poi alla fine fu isconfitto e morto con 
+tutta la sua giente.  Ancora toccha e ffa per questa contessa una 
+comperazione d'amore ed @e questa che in questo braccio di mare 
+dall'uno lato era una citt@a chiamata Sexto e dall'altro lato un'altra 
+chiamata Abido e ne l'una era un giovane cio@e Leandro e nell'altra era 
+una giovane chiamata Eros.  E questo giovane ispesso notando andava a 
+chostei la notte.  Intanto che notando una notte venne una tempesta e 
+lui fecie morire e anegh@o i[n] mare e questa istoria racchonta Ovidio 
+pi@u stesamente e per@o dicie l'altore chos@i per questi due amanti
+
+   ^Pi@u odio da Leandro non sofferse~
+   ^per mareggiare intra Sexto e Abido~
+   ^che quel da me perch'allor non si aperse.~
+
+Fingie l'altore chom'egli @e venuto a pparlare con questa donna 
+contessa Matelda e di ci@o loda Iddio e che di notte @e venuto a lucie 
+e ch'egli @e uscito di vizii.  E fingie chantare un salmo ringraziando 
+Iddio e dicie il salmo cos@i.  Delectasti domine etc.  Cos@i diciendo
+
+   ^Maravigliando tienvi alchun sospetto~
+   ^ma lucie rende il salmo dilettasti~
+   ^che puote disvegliar vostro intelletto.~
+
+	|82-132.~ 
+
+   ^E ttu che sse' dinanzi e mi preghasti~
+   ^di' s'altro vuoi udir ch'i' venni presta~
+   ^a ogni tuo quistion tanto che basti.~
+
+In questa terza parte l'altore fa alla donna alchuna domanda e lla 
+donna l'assolve e dicie l'altore che si maraviglia che llass@u sia 
+acqua o venti e queste chose fingie che llass@u truovi imper@o che 
+detto m'era che dalla spera del fuoco in suso no' n'era veruna di 
+queste chose e alterazioni che ssono da indi in giuso ed ella l'assolve 
+cos@i diciendo
+
+   ^Ond'ella i' dicier@o chome prociede~
+   ^per suo chagion ci@o cch'ammirar ti facie~
+   ^e purgher@o la nebbia che tti fiede.~
+
+	|133-148.~ 
+
+   ^A tutti altri sapori esto @e di sopra~
+   ^e avegnia ch'assai poss'essere sazia~
+   ^la sete tua perch'io pi@u non dischopra.~
+
+In questo quarto chapitolo l'altore soggiugnie alla donna un detto 
+notabile cio@e ch'egli fingie che lla detta donna soggiungha a llui 
+cos@i diciendo
+
+   ^Darotti un corollario ancor per grazia~
+   ^n@e credo che 'l mi' dir ti sie men charo~
+   ^se oltre promession teco si spazia.~

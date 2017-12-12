@@ -1,0 +1,26 @@
+-------------------------------------------------
+Entered on 29 Nov 1998 by dante:
+There is a block of "foreign" text inserted into 32. The text is from 28.
+We need to rescan 32 or otherwise obtain good text to replace the bogus
+text. For now the bogus text is flagged but not removed.      -stc
+-------------------------------------------------
+Entered on 20 Dec 1998 by dante:
+Fixed 32.e by inserting newly-scanned text. See email message 157.   -stc
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #199. -stc
+-------------------------------------------------
+Entered on 08 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 09 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 19 Jul 1999 by dante:
+Fixed blank-tab formatting and re-preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded

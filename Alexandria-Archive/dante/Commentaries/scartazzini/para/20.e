@@ -1,0 +1,1533 @@
+	|1-15.~  ^Il canto dei giusti.~  Come l'Aquila, insegna
+del mondo e dei soui duci, tacque nel benedetto rostro, quelle
+vive luci vieppi@u lucendo cominciarono canti divini.  @E
+quell'inno di cui parla il Salmista, ^Psl.~ CXVII, 15: ^Vox
+exultationis, et salutis in tabernaculis justorum.  Dextera
+Domini fecit virtutem; dextera Domini exaltavit me.~  Ma il Poeta
+si confessa, come tante volte, incapace di esprimere nel
+linguaggio della terra la soavit@a e dolcezza di quei canti
+celesti.  Ad ogni passo si ripete in cielo l'esperienza che ^Quod
+oculus non vidit nec auris audivit nec in cor hominis ascendit,
+quae praeparavit Deus his qui diligunt illum~ (I ad ^Cor.~ II, 9). 
+I lumi celesti che formano la bella immage si monstrano vie pi@u
+scintillanti per ardore di carit@a; in quel modo che, calando il
+Sole, il cielo si ravviva di stelle.
+
+	|1.  Colui~: il Sole.  -- |Alluma~: era opinione di quei
+tempi, che le stelle ricevessero tutto il loro lume dal Sole. 
+^Conv.~ II, 14: <Del suo lume tutte le altre stelle s'informano.> 
+^Ibid.~ III, 12: <Nullo sensibile in tutto 'l mondo @e pi@u degno
+di farsi esemplo di Dio, che 'l Sole, lo quale di sensibile luce
+s@e prima e poi tutti i corpi celestiali ed elementali allumina.> 
+^Antonel.~: <Il Poeta credeva, tutto il firmamento essere
+illuminato dalla luce del nostro sole, e quindi anco le stelle
+fisse e le erranti.  N@e ci dobbiamo maravigliare, che egli tal
+dottrina tenesse; perch@e il pi@u grande astronomo non remoto da'
+suoi tempi, il celebre Albategno, ammetteva il medesimo; e
+insigni uomini hanno pensato ugualmente fino al secento; e lo
+stesso immortale Keplero, dopo avere insegnato con Galileo, che
+le stelle inerranti sono dotate di luce propria come il sole, e
+che sono esse medesime altrettanti soli, torna a mostrarsi
+dubbioso, e non osa affermare come la cosa sia veramente su
+questo punto.  Si pu@o dunque condonare questo difetto di scienza
+cosmologica all'astronomo del milletrecento; ancorch@e Macrobio,
+nove secoli prima, avesse scritto in contraria sentenza; giacch@e
+potevasi dagli scienziati rifiutar questa opinione, per la
+ragione che la proposizione di lui aveva una parte certamente
+erronea, inquanto estendeva la prerogativa della luce propria
+dalle fisse a tutti i pianeti.>  -- Il medesimo atto del cielo e'
+lo descrive con pi@u breve giro altrove, ^Canz.~ XI, 1 e seg.:
+
+     Io son venuto al punto della rota
+     Che l'orizzonte, quando il Sol si corca,
+     Ci parturisce il geminato cielo.
+
+	|2.  S@i discende~: Talmente dismonta.  Cos@i ^Buti~,
+^Vell.~, ^Lomb.~, ^Portir.~, ^Frat.~, ^Triss.~, ^Bennas.~, ecc. 
+Altri leggono ^si discende~ e spiegano: Si cala all'emisfero
+opposto (^Benv. Ramb.~, ^Biag.~, ^Br. B.~, ^Greg.~, ^Andr.~,
+ecc.).  Ma Dante non us@o mai ^discendersi.~
+
+	|3.  Che il giorno~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Cass.~
+(che lo g.), ^Fram. Pal.~, ^Vien.~, ^Stocc.~, ^Flor.~, ^Pat.~ 2,
+9, 67 ecc.; prime 4 edd., ^Nidob.~, ecc.; ^Falso Bocc.~, ^Benv.
+Ramb.~, ^Buti~, ecc.  ^E il giorno~: ^Vat.~, ^Cort.~, ecc.;
+^Ald.~, ^Burgofr.~, ^Rovil.~, ^Crus.~, ^Comin.~, ecc.  -- |D'ogni
+parte~: dell'emisfero nostro.  -- |Si consuma~: vien meno. 
+^Virg.~ ^Aen.~ II, 795: ^Sic demum socios consumpta nocte
+reviso.~
+
+	|4.  Sol di lui~: non, il cielo che prima era illuminato
+solamente dal Sole (^Vent.~, ^Lomb.~, ecc.), ch@e dal Sole secondo
+le idee d'allora s'illuminerebbe in ultima analisi anche il cielo
+notturno (e lo dice il Poeta stesso al v. 6); ma il cielo che
+aveva per lume, per fanale unicamente il Sole, mentre di notte i
+lumi vengono a moltiplicarsi con la luna e le stelle.  Cfr.
+^Ronchet.~, ^Appunt.~, p. 170 e seg.  -- |S'accende~: ^Virg.~
+^Georg.~ I, 251: ^Illic sera rubens accendit lumina Vesper.~ 
+^Petr.~ ^Son.~ I, 140: E 'l ciel di vaghe e lucide faville
+S'accende intorno, e 'n vista si rallegra.  ^Poliziano~ I, 61:
+Vedendo il ciel gi@a le sue stelle accendere.
+
+	|5.  Parvente~: visibile; si rallumina per lo apparir
+delle stelle, le quali tutte riflettono una sola luce, cio@e
+quella del Sole; cfr. v. 1, nt.  |Parvente~, per ^appariscente~,
+dal lat. ^parere~, usa Dante anche in prosa.  Cfr. ^Nannuc.~
+^Anal. crit.~, p. 286.
+
+	|6.  Luci~: stelle.  -- |Una~: il Sole.  ^Lan.~, ^Ott.~,
+^Anon. Fior.~: <Qu@i esemplificando vuol mostrare come nelle sue
+pupille si faceano note quelle anime beate del segno dell'aguglia
+ad una, a due, a tre, et a pi@u al tratto; e dice: S@i come lo
+sole, ch'@e colui ch'allumina lo mondo, si corica in occidente, la
+parte orientale, ch'@e quella che lo seguente giorno pria s@i
+s'illumina, diventa parvente di molte luci e di molte stelle, che
+surgono ad una, a due, et a pi@u, e cos@i si mostrano ascendendo
+all'orizzonte; cos@i quelle anime dell'aguglia, sfavillando, a pi@u
+a pi@u si faceano note, e questo dopo le parole dell'aguglia nel
+precedente capitolo.>  ^Ces.~: <Ecco il ragguagliarsi di queste
+due cose: calando il Sole, il cielo si ravviva di stelle: e
+tacendo l'aquila, scintillando via pi@u que' lumi celesti che lei
+figuravano, cominciaro a cantare: e per@o @e da intendere, che non
+pi@u per lo becco dell'aquila, ma ciascuno da s@e mand@o fuori la
+voce.>  Cfr. ^Della Valle~, ^Nuove Illustrazioni~, p. 126-128.
+
+	|8.  Segno~: chiama l'Aquila insegna del mondo e dei
+Vicari imperiali, conforme alla sua teorica della Monarchia
+universale.
+
+	|9.  Rostro~: che aveva parlato sin qu@i; cfr. ^Parad.~
+XIX, 10 e seg.
+
+	|11.  Lucendo~: ^Vat.~, ^Berl.~, ^Caet.~, ^Cass.~, ^Fram.
+Pal.~, ^Vien.~, ^Stocc.~, ecc.; prime 4 edd., ^Nidob.~, ^Ald.~,
+^Burgofr.~, ^Giol.~, ^Rovill.~, ^Crus.~, ecc.; ^Ott.~, ^Benv.
+Ramb.~, ecc.  ^Lucenti~: ^S. Cr.~, ^Corton.~, ^Filip.~, ^Catan.~,
+^Vicent.~, ecc.; ^Dion.~, ^Viv.~, ^Witte~, ecc.; ^Buti~, ecc.  --
+|Cominciaron~: la similitudine @e in ci@o, che come all'unica luce
+del Sole succede la moltiplice delle stelle, cos@i all'unico
+ragionare dell'aquila sottentrarono i canti de' singoli spiriti. 
+^Andr.~
+
+	|12.  Labili~: sfuggenti.  ^Virg.~ ^Eclog.~ I, 63:
+^Nostro illius labatur pectore voltus.~  -- |Caduci~: non di
+possibilit@a ma d'atto.  ^Tom.~  Ed @e proprio caduca la cosa, che
+nel suo fiorire cade come i fiori delli meligrani.  E qu@i chiaro
+appare, come nostra memoria non @e potente a ricevere
+(^ritenere~?) in questa prima vita li celesti canti e candori. 
+^Ott.~
+
+	|13.  Amor~: divino.  -- |T'ammanti~: ti fai un manto di
+ridente luce.  ^Psl.~ CIII, 2: ^Amictus lumine sicut vestimento.~
+
+	|14-15.  Flailli~: ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Stocc.~, ^Cort.~, ^Ang.~, ^Chig.~, ^Estens.~, i migliori
+^Trivulz.~ e ^Marc.~, ^Trevig.~, ^Flor.~, ^Claric.~, ^4 Patav.~,
+^Flipp.~, ecc.; prime 4 edd., ^Nidob.~, ^Vindel.~, ^Matt. Ronto~,
+^Fr. Stefano~, ^Dion.~, ^Viv.~, ^Witte~, ^Giul.~, ecc.; ^Benv.
+Ramb.~, ^Parenti~, ^Wagn.~, ^Blanc~, ecc.  ^Favilli~: ^Vien.~,
+ecc.; ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~, ^Sessa~, ^Crus.~,
+^Missir.~, ^Comin.~, ^De Rom.~, ^Ed. Pad.~, ^Pezzan.~, ^Sicca~,
+^Quattro Fior.~, ^Fosc.~, ^Mauro Ferr.~, ^Fanf.~, ecc.; ^Buti~,
+^Land.~, ^Vell.~, ^Dol.~, ^Dan.~, ^Vol.~, ^Vent.~, ^Lomb.~,
+^Portir.~, ^Pogg.~, ^Big.~, ^Costa~, ^Borg.~, ^Tom.~, ^Br. B.~,
+^Frat.~, ^Nannuc.~ (^Teor. dei Nomi~, p. 684), ^Greg.~, ^Andr.~,
+^Triss.~, ecc.  ^Flavilli~: ^Lan.~, ^An. Fior.~, ^Ces.~,
+^Bennas.~, ^Cam.~, ^Franc.~, ^Ronch.~, ecc.  Leggendo |Flailli~
+il ^Postil. Cass.~: ^Idest flagrantes splendores, a flagro,
+flagras.~  L'Imolese: |Flailli~, ^idest sibilis; scilicet in
+vocibus canoris illorum spirituum; unde dicit~: Ch'avieno spirti
+sol di pensier santi, ^idest qui cantus movebantur solum a
+sanctis curis, non vanis, a quibus moventur cantus hominum.~  Fr.
+Stefano: ^idest sibilis, s. vocibus amoris illorum spirituum~
+(dal verbo ^flare~, quasi piccoli flauti).  ^Wagn.~: <|Flailli~
+(lezione incontrastabile di moltissimi codd. invece della quindi
+disformata ^favilli~) spiriti lucidi, corruscanti, scintillanti. 
+Da ^flabellum~, ventaglio, aspergolo.  Non sfugg@i senz'altro alla
+viva apprensione combinante del poeta, che quello scintillare,
+infocarsi o accendersi delle in notti serene ed aria pura
+somiglia al polseggiamento, alle sistole e diastole d'un cuore,
+ad un alitare ed ondeggiare; e perci@o, essendo inoltre contigue
+le idee del fuoco e del fiatare -- respirazione ed abbruciamento
+sono la mdesima operazione chimica -- pot@e il poeta audace
+chiamare |flailli~ quelle anime beate che quasi spiravano o
+sfogavano lume.>  ^Blanc~: <questa voce proviene dal lat.
+^flare~, e significa uno istrumento di musica, un piccolo
+flauto.>  La voce |flailli~ manca al Vocabol.  ^Favilli~ starebbe
+per ^faville~ -- splendori.  ^Greg.~ (^Sulla nuova ediz. della D.
+C.~, p. 34): <Chiama ^favilli~ gli spiriti chiusi nei detti lumi. 
+Alcuni testi (come ^alcuni~? quasi tutti i migliori codd.) hanno
+|flailli~.....  Ma ^flaillo~ cosa significa?  Non si sa (ah,
+veramente?); forse dicono deriva dal lat. ^flare~, spirare, onde
+|flailli~ sarebbe ^quasi piccoli flauti.~  Piuttosto che a flauti
+non @e meglio paragonare quelle anime a tanti splendori?>  Domanda
+oziosa!  Non si tratta di sapere se sia meglio paragonare quelle
+anime a tanti splendori, o a flauti, s@i di sapere come scrisse il
+Poeta.  Or troppi e troppo autorevoli sono i codd. che hanno
+|flailli~, per poter dubitare essere questa la vera lezione.  Ma
+@e verissimo che il verso resta tuttora una croce degl'interpreti. 
+Di |flailli~ nessuno ha ancora trovato un secondo esempio nella
+lingua e dubbia ne @e anche l'etimolog$ia.  ^Flavilli~ (dal lat.
+^flabellum~), non si trova quasi in nessun cod.  E poi, conviene
+pur confessare che il paragonare quelle anime vuoi a ^flauti~,
+vuoi a ^ventagli~ non @e bello n@e da Dante.  Meglio starebbe
+veramente ^favilli~; ma anche di ^favilli~ per ^faville~ non si
+trova altro esempio che un unico, anch'esso dubbio, di ^Niccol@o
+Martelli~: <Mirer@o gli aurei favilli, Che risplendon lass@u nei
+cerchi divi> (cfr. ^Nannuc.~ l. c.), esempio che nulla prova. 
+Meglio ci sembra il combinare le due lezioni.  Cancellando la ^l~
+di |flailli~, che manca all'altra, e cancellando la ^v~ di
+^favilli~ che manca alla prima lezione, otteniamo la lezione
+^Failli.~  ^Faillo~ @e franc. antico ^faille~ -- fiaccola (cfr.
+^Diez~, ^Etym. W,orterb.~, p. 137).  ^Lumi~ (o fiaccole) chiama
+Dante infinite volte le anime dei Beati, perch@e vestite di luce. 
+Quindi proponiamo di leggere:
+
+	|Quanto parevi ardente in quei failli~,
+
+osservando per@o che la nostra non @e che una congettura, la
+lezione ^failli~ non trovandosi nei codd.  Ma come lesse ^Benv.
+Ramb.~?  Nel suo commento, confezionati dal ^Tamburini~ abbiamo:
+^Quanto parevi ardente in quelli fiacoli.~  Ma ^fiacoli~ non
+poteva assolutamente stare nel suo cod., perch@e guasta la rima. 
+@E ^fiacoli~ interpretazione?  In tal caso l'Imolese dovette
+leggere anche lui ^failli.~  Senonch@e del ^Tomb.~ non possiamo
+fidarci, e, secondo la testimonianza del ^Parenti~ (ap. ^Ed.
+Pad.~) l'Imolese lesse |flailli~, spiegando come sopra abbiamo
+riferito.  -- |Avi@eno~: avevano.  Forma comune agli antichi anche
+in prosa; cfr. ^Nannuc.~ ^Anal. crit.~, p. 495 e seg.  Al.
+^aveano.~
+
+	|16-72.~  ^I principi amanti la giustizia nell'immagine
+dell'Aquila celeste.~  Poi che gli spiriti finirono il loro
+canto, il Poeta ode come un mormorar di fiume; e poi come suono
+al collo della cetra prende sua forma, cos@i quel mormorare
+dell'aquila salendo pel collo fecesi voce, e usc@i pel becco in
+forma di parole.  <Riguardami l'occhio>, dice la bella immagine;
+<quei fuochi che lo figurano furono i pi@u grandi giusti.  Colui
+che luce in mezzo per pupilla @e Davide; dei cinque che fan
+cerchio per ciglio, il primo @e Traiano, il secondo Ezechia, il
+terzo @e Costantino, il quarto @e Guglielmo II Normanno, cui quella
+terra plora che piange Carlo e Federico vivo, il quinto @e Rifeo
+troiano.>  Questi sei spiriti sono disposti nel modo seguente:
+{vedere disegno}
+
+	|16.  Lapilli~: gemme, pietre preziose (lat. ^lapillus~);
+come gi@a pi@u volte ha chiamate le anime beate; cfr. ^Parad.~ XV,
+22; XVIII, 115 ecc.
+
+	|17.  Il sesto lume~: Giove, sesto pianeta.
+
+	|18.  Silenzio~: tace il canto dei singoli, parla
+nuovamente l'aquila.  -- |Squilli~: canti armoniosi.  ^Ces.~:
+Poich@e tacque il concento armonico di que' Santi, che in propria
+bocca avevano cantato ciascuno; ricominci@o parlar sola l'aquila
+in nome di quell'assemblea.  ^Tom.~: <Gemme che squillano non
+pare bello; n@e |angelici~ avea bisogno dell'imagine delle gemme.> 
+Critica priva di fondamento.
+
+	|19.  Un mormorar~: la similitudine, tratta dal mormor$io
+dell'acqua che scende balzando di pietra in pietra, descrive il
+parlar confuso di tutti quelli spiriti prima che abbia preso
+forma e unit@a nella gola dell'aquila.  Immagine frequentissima e
+nella Bibbia e nei poeti.  ^Ezech.~ XLIII, 2: ^Et vox erat ei
+quasi vox aquarum multarum.~  Apocal. I, 15: ^Et vox illius
+tamquam vox aquarum multarum.~  Ibid. XIV, 2: ^Et audivi vocem de
+coelo tamquam vocem aquarum multarum~; cfr. ^ibid.~ XIX, 6 ecc. 
+^Virg.~ ^Georg.~ I, 108 e seg.:
+
+     ^Ecce supercilio clivosi tramitis undam~
+     ^Elicit; illa cadens raucum per levia murmur~
+     ^Saxa ciet scatebrisque arentia temperat arva~?
+
+	|21.  L'ubert@a~: la copia.  -- |Cacume~: della cima
+(^cfr. Purg.~ IV, 26; ^Parad.~ XVII, 113), ov'ha la sorgente. 
+Con questa ricchezza di acque spiega il Poeta quant'era vigoroso
+quel suono.
+
+	|22.  Al collo~: al manico della cetra, ove il suonatore
+tasteggia.
+
+	|23.  Forma~: modulazione.  -- |Pertugio~: il fiato del
+suonatore che penetra nelle canne della zampogna prende la
+modulazione dal |pertugio~, che quegli va chiudendo o aprendo con
+le dita.  Cfr. ^L. Vent.~ ^Simil.~ 52, p. 33.  Il ^Ronchet.~
+(^Appunt.~, p. 171): <Non, si modula ai fori chiusi ed aperti dal
+suonatore, ma a cavo dello stromento cos@i allungato o accorciato
+coi diti.  Il senso @e tuttuno, ma vuolsi badare anche al modo
+giusto di arrivarvi.>
+
+	|24.  Vento~: alla bocca delle canne della zampogna le
+note si formano dal fiato dell'uomo.
+
+	|26.  Per l'aquila~: ^Vat.~, ^Berl.~, ^Caet.~, ^Vien.~,
+^Stocc.~, ^Est.~, ^Pat. 9, 67, 316~, ^Pucc. 1, 2~, ^Riccard.
+1025, 1027~, e molti altri codd. (alcuni ^aguglia~ invece di
+|aquila~); ^Mant.~, ^Nidob.~, ecc.; ^Dell'aquila~: ^S. Cr.~,
+^Cass.~, ^Fram. Pal.~, ^Cort.~, ecc.; ^Folig.~, ^Jes.~, ^Nap.~,
+^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~, ecc.  ^Lomb.~:
+<Il mormorar ^dell'~ aquila non esprime cos@i bene, come n'esprime
+il mormorar |per~ l'aguglia, un tal mormor$io che, sparso qu@a e l@a
+per entro al corpo dell'aquila, si unisse poi al collo, e per
+quello salisse.>  Invece ^Ces.~: <A me in contrario questo
+^dell'~aquila pare il vero.  Nessun pose mente, che era da legger
+cos@i: ^Quel mormorar dell'aquila salissi su per lo collo
+dell'aquila~, ed @e acconcio ogni cosa.>  Ma il mormorare non era
+^dell'~aquila, s@i degli spiriti |per~ l'aquila.  ^Alia per te
+vide.~
+
+	|27.  Bugio~: da ^bugiare~, ^busare~ -- perforare, vuoto
+dentro, forato; cfr. ^Diez~, ^Etym. W,orterb.~, p. 73.  ^Fanf.~,
+^Voc. dell'uso tosc.~, p. 186: <|Bugio~ per Vuoto, detto di cosa
+in forma cilindrica, usata fino da Dante, e data dalla Crusca per
+voce antiquata, @e viva vivissima in Castiglion fiorentino.> 
+^Caverni~, ^Voci e Modi~, p. 37: <Secondo il Bartolini (^Un
+esposto~ ecc. p. 58) @e anche vivo l'accrescitivo ^bugione~, detto
+nel Casentino di quei gran castagni bugi o vuoti, a uno de' quali
+@e rimasto il nome di ^bugione della Regina~, perch@e dentro vi si
+raccolse a partorire una povera donna di nome Regina.> 
+L'^Ariosto~, ^Orl. fur.~ IX, 28, chiama ^ferro bugio~ il fucile,
+che fu poi detto ^arco bugio~, e pi@u tardi ^archibugio.~  Vedi
+anche ^Giuliani~, ^Sul vivente linguaggio di Toscana~, Lett.
+LXXXIX, p. 440.
+
+	|30.  Quali~: conformi al mio desiderio, e che perci@o nel
+cuore mi s'impressero.
+
+	|31.  La parte~: L'occhio.  -- |Pate~: patisce, sostiene;
+cfr. ^Parad.~ IV, 73.  Sulla propriet@a dell'occhio aquilino di
+affissarsi nel Sole senza abbagliarsi cfr. ^Parad.~ I, 48 nt.
+
+	|32.  Mortali~: l'aquila celeste @e immortale, perch@e
+immortali sono gli spiriti che la formano.
+
+	|34.  De' fuochi~: de' fiammeggianti spiriti, ond'@e
+formata la mia figura d'aquila.  |Fuochi~ chiama Dante spesso gli
+angeli e i beati; ^Parad.~ IX, 77; XVIII, 108; XXII, 46; XXIV,
+31; XXV, 37, 121, ecc.  -- |Fommi~: mi fo.
+
+	|35.  L'occhio~: quelli che lo scintillante occhio mio
+compongono.  Non enumerando Dante in seguito altre anime beate,
+fuor di quelle che compongono un occhio solamente, segno @e che
+ponga |occhio~ in singolare, non per sineddoche, ma perch@e
+realmente supponga che mostrasse quell'Aquila un occhio solo; che
+avesse cio@e la testa figurata in profilo, e non in prospetto;
+come appunto vedesi in profilo, e non in prospetto, figurata la
+testa dell'aquila nell'antiche imperiali insegne.  Perch@e non
+facciasi il Poeta dare contezza d'altre beate anime che di quelle
+d'un occhio solo, non trovo interprete che non ommetta
+d'investigare.  ^Lomb.~  Ommette di investigarlo anche il
+^Lomb.~, e fa bene.  Tale investigazione sarebbe oziosa e
+superflua.
+
+	|36.  E' di tutti~: essi sono i pi@u nobili di tutti gli
+spiriti che per diversi gradi vanno formando la mia figura.  ^E
+di tutti~ hanno ^W. 4~, ^Fram. Pal.~, ^Vien.~, ^Stocc.~,
+^Corton.~, ^Filip.~, ^Vicent.~, ecc.; prime 4 edd., ^Vindel.~,
+^Crus.~, ^Comin.~, ^Dion.~, ^Witte~, ecc.; ^Buti~, ecc.  ^Di
+tutti~: ^Cass.~, ecc.; ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~,
+^Sessa~, ^Sicca~, ^Quattro Fior.~, ^Fosc.~, ^Fanf.~, ^Giul.~,
+ecc.  Gli Accademici presero ^E~ per copula, e chiosarono: <Ci
+pare la copula chiarisca il luogo>; ^Vent.~, ^Lomb.~, ^Quattro
+Fior.~, ecc. sono invece d'avviso che la copula porti oscurit@a. 
+Anche a noi sembra che la ^E~ copula porti oscurit@a.  Ma non ci
+sembra che sia lecito cancellarla.  Dicono che la pi@u parte dei
+codd. veduti dagli Accademici d@a la lezione ^Di tutti.~ 
+Bisognava indicarli quei codd.  Noi troviamo invece che i pi@u e
+migliori codd. hanno ^E di tutti.~  Inoltre @e facile indovinare
+il perch@e qualche amanuense ommettesse quella ^E~, difficile
+indovinare perch@e ve l'aggiungesse se la non si trovava nel cod.
+che egli copiava.  Ma quella ^E~ @e copula?  ^Vent.~ ed altri
+vogliono che valga qu@i ^ancora.~  Meglio ^Buti~: <^Ei~, cio@e li
+sopradetti spiriti beati che formano li miei occhi.>  ^Perazz.~
+(ed. ^Scolari~, p. 158 e seg.): <^Academia Florentina explicat~ E
+^pro~ ET. ^P. Venturi pro~ ETIAM.  ^Ego certo certius habeo
+dictionem~ E ^pronomen esse, et scribendum cum apostrophe~ E'
+^pro~ EI, ELLI, COLORO; ^ut constructio sit~: Ei son li sommi di
+tutti lor gradi.>  Anche ^Dion.~ ha |E'.~  Il ^Ces.~ vorrebbe
+accettare la lezione di qualche cod. ^E di tutto lor grado son li
+sommi~, spiegando: <I lumi che brillano nel mio occhio, sono i
+sommi de' fuochi tutti onde io son figurata, e de' peculiari che
+brillano nel loro ^grado tutto~, cio@e nel luogo e postura
+dell'occhio: da che Dante qu@i tocca solamente cinque lumi, o Re,
+che formano ^l'arco superno~ {v.50} del ciglio, e quello della
+pupilla; e nulla dice degli altri che dovean formare l'arco del
+ciglio di sotto.  Ma e restavano altri Re nell'altro occhio, del
+qual nulla dice.  Dunque ^di tutto il grado~, o sito d'ambedue
+gli occhi, questi cinque con la pupilla sono li sommi.>  Ragioni
+poco fondate.
+
+	|38.  Il cantor~: Davide re d'Israele, inspirato cantore
+de' Salmi.  Meritava appena il posto qu@i assegnatogli.
+
+	|39.  Di villa in villa~: di luogo in luogo; prima dalla
+casa di Abinadab, ch'era in sul colle, alla casa di Obed-Edom
+Ghitteo; poi dalla casa di Obed-Edom a Gerusalemme; cfr. II
+^Sam.~ (II ^Reg.~) VI, 1-17; I ^Chron.~ XIII, 1-14; XV, 1-XVI, 1.
+
+	|40-42.  Effetto~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Fram.
+Pal.~, ^Stocc.~, ^Corton.~, ^Estens.~, ^Pogg.~, ^Pat. 2, 316~, ^6
+Pucc.~, ^Riccard.~, ^Frull.~, prime 4 edd., ^Nidob.~, ecc.;
+^Benv. Ramb.~, ^Buti~, ^Dan.~, ecc.  ^Affetto~: ^Vat.~, ^Vien.~,
+^Pat. 9, 67~, ecc.; ^Ald.~, ^Rovill.~, ^Crus.~, ecc.  Coloro che
+seguono la seconda lezione spiegano: <Quanto fu amato dallo
+Spirito Santo, suo consigliere (antic. |consiglio~), cio@e, che
+glielo consigli@o.>  Ma troppe sono le autorit@a in favore della
+lezione |Effetto.~  ^Benv. Ramb.~: <Ora conosce quanto effetto
+produsse quel suo canto nel consiglio dell'Eterno col premio che
+ottenne rispondente al merito suo, ossia conosce la quantit@a del
+suo merito dalla quantit@a del premio che ora gode.>  ^Buti~:
+<Tanto avale @e lo premio, quanto fu lo merito della buona
+volunt@a, sicch@e, avendo lo premio, vede quanto fu lo merito del
+consilio suo, cio@e della volunt@a sua che indusse quello effetto,
+cio@e di cantare le cose di Dio.>  Il ^Postill. Cass.~,
+soprapponendo alla parola |canto~ questa nota: ^Qui fuit: Beatus
+vir qui non abiit~ ecc., d@a a vedere che Dante mirasse in questi
+versi a quel primo Salmo, e intendesse che il merito acquistato
+da Davide fu |effetto~ di quel |consiglio~ contrario al
+^consilium impiorum.~  ^Di Costanzo.~  Questa interpretazione
+sembra agli ^Ed. Pad.~ pi@u persuasiva delle altre.  Ma la sarebbe
+una breviloquenza un po' forte, se Dante avesse qu@i voluto fare
+allusione alle parole del primo Salmo.  A noi pare evidente che
+accenna al canto di Davide in generale, non a un singolo Salmo. 
+^Parenti~: <Mi pare che Dante prevenga la seguente obbiezione:
+Come si pu@o attribuire il |merito~ del |suo~ canto al Salmista,
+se non fu che l'organo della divina ispirazione?  Ora il Poeta,
+dicendo |In quanto effetto fu del suo consiglio~, viene, come per
+correzione e fra parentesi, a dichiarare: Intendo |merito~ e
+intendo |suo~ in quanto dipese dalla sua elezione a dedicarsi
+piuttosto ad una sacra che ad una profana poes$ia; perch@e del
+resto so bene che il merito o pregio intrinseco e formale di quel
+canto non fu che direttamente l'effetto della divina ispirazione. 
+Riducendo in conclusione questo necessario schiarimento a pi@u
+breve chiosa, ne risulterebbe questo senso: ^Per quella parte che
+dispese dalla sua elezione.~  Cos@i per |consiglio~ non intendo il
+divino Spirito, ma la volont@a, il libero arbitrio di Davide.> 
+Questa interpretazione @e accettata da tutti quasi i commentatori
+moderni (^Br. B.~, ^Frat.~, ^Greg.~, ^Andr.~, ^Witte~, ecc.). 
+^Ces.~: <L'aver Davide preso il consiglio di adoperare all'onore
+di Dio la scienza sua del suono e del canto, gli merit@o questo
+grado nel cielo; e da questo merito che glien'@e renduto, egli
+conosce ora il pregio di quel suo cantare.>  ^Filal.~ ricorre
+alla distinzione dell'Aquinate tra la ^gratia gratum faciens~,
+concessa all'uomo per lo miglioramento di s@e stesso, e la ^gratia
+gratis data~, concessa all'uomo per lo bene del prossimo suo, e
+spiega: ^David erkennt nun, dass seine Seligkeit nicht die
+Belohnung seiner gottbegiesterten Ges,ange an sich ist, sondern
+der damit verbundenen~ GRATIA GRATUM FACIENS ^und der treuen
+Mitwirkung seines freien Willens ist.~  Il francese ^Aroux~ poi,
+c'insegna che ^le m$erite des chants de David consiste dans les
+versets en si grand nombre o@u les adversaires de Rome ont voulu
+voir des menaces et des proph$eties contre son orgueil et son
+ambition, des promesses de victoire et de vengeance pour ceux
+qu'elle opprimait.  Ici m#eme Dante, qui se reporte au psaume 1er~,
+Beatus vir qui non abiit in consilio imporum, ^attribue la
+r@ecompense dont jouit David dans le Ciel, @a ce conseil c$eleste
+dont il suivit les inspirations, conseil en tout oppos$e @a celui
+des~ impies, ^et d'o@u d$erivait pour lui la religion de l'Esprit,
+anath$ematis$ee par l'impi$et$e pontificale.  De l@a, l'immense
+r$ecompense qui consiste @a figurer en guise de pupille dans l'oeil
+de l'aigle.~  Sogni.  Dante dice: Per la grandezza del premio,
+proporzionato al suo merito, Davide conosce ora il merito del suo
+canto, inquanto esso canto fu effetto del suo proprio volere;
+perch@e inquanto esso fu effetto dello Spirito Santo non fu
+^merito~, ma ^grazia.~  Questo a noi sembra il chiaro e semplice
+concetto della presente terzina.  Del resto ognuno @e libero di
+scegliere quella interpretazione che pi@u gli @e a grado.
+
+	|43.  Per ciglio~: a mo' di ciglio.
+
+	|44.  Colui~: l'imperatore Trajano che fece giustizia
+alla povera vedova, alla quale era stato morto il figlio; cfr.
+^Purg.~ X, 73-93.  Sulla leggenda alla quale allude qu@i il Poeta
+cfr. ^ibid.~ v. 75 nt.
+
+	|46-48.  Conosce~: essendo stato parecchi secoli
+nell'Inferno, conosce quale sia la pena di chi non segue Cristo. 
+^Lan.~, ^Anon. Fior.~: Ebbe esperienza delle pene infernali,
+dalle quali non sono liberi se non li fedeli.  ^Ott.~: Conosce
+ora quanto caro costa non seguire Cristo, per@o che ne seguita
+morte eterna, cio@e Inferno, al quale and@o esso Trajano; e poi per
+li preghi di santo Gregorio papa ritorn@o in prima vita, e
+battezzossi e torn@o al Cielo.  E per@o dice, per la sperienza di
+questa dolce vita, e per l'amaritudine di quella d'Inferno, le
+quali due elli prov@o, e per@o n'@e ottimo giudice.  Scritto @e, che
+al tempo di san Gregorio cavandosi una sepoltura, fu trovato il
+corpo d'uno uomo lungo tempo morto, la cui lingua era quasi come
+di vivo; e congiurato dal detto Papa, disse s@e essere il teschio
+di Trajano imperatore.  ^Petr. Dant.~ dice che Trajano ^erat in
+Inferno non definitive.~  Con poca cognizione dei fatti ^Mart.~:
+<Dante suppone che Trajano sia andato all'Inferno, ma che il
+Sommo Pontefice abbia impetrato da Dio che tornasse a vita, e si
+convertisse, onde siasi poi salvato.(Non @e Dante che lo
+^suppone~; egli segue la leggenda conosciutissima e creduta vera
+ai auoi tempi.)  Non si giudichi il Poeta secondo i principii
+della religione (perch@e no?); si rifletta che intende di
+celebrare la misericordia di Dio.  Ma noi da quanto dice Dante
+procuriamo di ricavare una qualche massima: e sia questa: Chi dal
+vizio si riconduce alla virt@u, conosce per esperienza propria
+come Dio remuneri il ravveduto.  Prima notti inquiete, tripudii
+non soavi, piaceri non solo incompleti, ma affannosi: poi, notti
+tranquille, lagrime dolci, delizie di Paradiso.>
+
+	|49.  Quel~: Ezechia re di Giuda, al quale, essendo
+infermo, fu dal profeta Isaia annunziata la morte; ma, pregando
+Iddio, la vita gli fu prolungata per quindici anni.  Cfr. II (IV)
+^Reg.~ XX, 1-11; ^Cron.~ XXXII, 24; ^Isai.~ XXXVIII, 1-22.
+
+	|50.  Di che~: del sopradetto cerchio, v. 43.  -- |Arco~:
+la parte pi@u alta del ciglio.
+
+	|51.  Penitenza~: veramente i libri sacri dicono che ad
+Ezechia fu prolungata la vita per la sua preghiera, e di
+penitenza non parlano.  Aggiungendo per@o, che Ezechia ^flevit
+fletu magno~ (IV ^Reg.~ XX, 3; ^Isai.~ XXXVIII, 3), pare che
+Dante intendesse quelle lagrime essere di penitenza. 
+Erroneamente; imperocch@e Ezechia non chiese perdono e grazia, ma
+disse a Dio: ^Obsecro Domine, memento quaeso quomodo ambulaverim
+coram te in veritate, et in corde perfecto, et quod bonum est in
+oculis tuis facerim~ (ibid. v. 3).  Questa non @e la preghiera di
+un penitente, ma di un giusto.  ^Ott.~: <La cagione, che Dio gli
+faceva annunziare quella morte, era per@o ch'elli mostr@o alli
+Pagani le cose sacrate del tempio; la qual cosa non era licita.> 
+Falso.  Ezechia mostr@o bens@i agli ambasciatori del Re di
+Babilonia tutti i suoi tesori, ma soltanto dopo la sua
+guarigione; cfr. IV ^Reg.~ XX, 12-19; ^Isai.~ XXXIX, 1-8.  Pare
+per altro che Dante medesimo commettesse qu@i un piccolo
+anacronismo.  Parlando della |vera penitenza~ di Ezechia, @e
+chiaro che allude alle parole scritturali, ^lib. II Paral.~
+XXXII, 26: ^Humiliatusque est postea eo quod exaltatum fuisset
+cor eius, tam ipse quam habitatores Jerusalem; et idcirco non
+venit super eos ira Domini.~  Ma l'autore biblico parla di fatti
+avvenuti ^dopo~ che la vita fu prolungata ad Ezechia.
+
+	|53.  Quando~: ^W. 4~, ^Cass.~, ^Fram. Pal.~, ^Vien.~,
+^Stocc.~, ^Corton.~, ecc.; ^Jes.~, ^Mant.~  (^Folig.~ e ^Nap.~
+hanno qu@i una lacuna; falso, come di solito, @e quanto in
+proposito riferisce ^Scarab.~, ^Cod. Lamb.~ vol. III, p. 402),
+ecc.; ^Ott.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ecc.  La
+comune; ^Perch@e degno preco~ (^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovil.~, ^Crus.~, ^Comin.~, ^Quattro Fior.~, ecc.), lezione
+troppo sprovvista di autorit@a.  -- |Preco~: preghiera; non @e
+<antitesi in grazia della rima> (^Lomb~); cfr. ^Inf.~ XXVIII, 90
+nt.
+
+	|54.  Fa crastino~: fa seguire domani quel che sarebbe
+oggi.  |Crastino~, lat. ^crastinus~, di domani, appartenente a
+domani.  Senso: Ora Ezechia conosce, che quando il divin
+giudizio, annuendo all'accettevole preghiera degli uomini,
+differisce a domani ci@o che era ordinato per oggi, non per questo
+ei punto si muta.  ^Buti~: <Bench@e Iddio indugi sua sentenzia per
+li preghi de' giusti uomini, non passa per@o che non si faccia
+quello che Iddio ha ordinato, eziandio che si rivocasse al tutto
+quello che doveva essere; imper@o che la revocazione sarebbe
+quanto a noi; ma non quanto a Dio; imper@o che Iddio aveva veduto
+ab eterno che tale effetto, secondo lo corso del cielo, dovea
+venire, e contra tale effetto si dovea pregare e che per li
+devoti e degni preghi tale effetto si dovea revocare che non
+fusse, e fusse quello che Iddio avea ordinato per quelli giusti e
+pietosi preghi.>  ^Thom. Aq.~ ^Sum. theol.~ P. II, 2+a~e qu.
+LXXXIII, art. 2: ^Considerandum est quod ex divina providentia
+non solum disponitur qui effectus fiant, sed etiam ex quibus
+causis, et quo ordine proveniant.  Inter alias autem causas sunt
+etiam quorumdam causae actus humani.  Unde oportet homines agere
+aliqua, non ut per suos actus divinam dispositionem immutent, sed
+ut per actus suos impleant quosdam effectus secundum ordinem a
+Deo dispositum; et idem etiam est in naturalibus causis.  Et
+simile est etiam de oratione: non enim propter hoc oramus ut
+divinam dispositionem immutemus, sed ut id impetremus quod Deus
+disposuit per orationes esse implendum, ut scilicet homines
+postulando mereantur accipere quod eis Deus omnipotens ante
+secula disposuit donare.~  Cfr. ^Purg.~ VI, 28 e seg.
+
+	|55.  L'altro~: Costantino, il quale per cedere -- con
+buona intenzione che produsse poi pessimi frutti -- Roma al
+Pontefice, trasfer@i in Bisanzio la sede dell'Impero, per
+conseguenza anche la sede delle leggi e delle armi, delle quali
+l'aquila era particolarmente l'insegna.  Allude nuovamente alla
+famosa favola della cos@i detta ^Donatio Constantini~, sulla quale
+cfr. ^Inf.~ XIX, 115 e seg. XXVII, 94 e seg. ^Parad.~ VI, 1 e
+seg.  Alla letteratura citata nella nt. al primo di questi passi
+aggiungasi il seguente lavoro apologetico di autore anonimo:
+^Constantini M. Imp. Donato Silvestro Papae Rom. inscripta: non ut
+a Gratiano truncatim, sed integre edita: Cum versione Groeca
+duplici, Theodori Balsamonis, Patriarchae Antiocheni, et Matthoei
+Blastaris, J. C. Groeci.  Commentariis amplissimis illustrata.~  S.
+l. et a. ^Typis Gotthardi Voegelini~ (1610).  Alla p. 111 di
+questo lavoro sono ristampate le testimonianze del nostro Poeta
+nei sopra citati passi.  -- |Con le leggi~: accompagnato dalle
+leggi e dal mio segno.  ^Buti.~  Le parole |con le leggi e meco~
+vanno unite non con |segue~, che precede, ma con ^si fece Greco~
+{v.57}, che viene dopo; e per@o va distinto il senso con una
+virgola dopo |segue.~  Vuol dire il Poeta che Costantino,
+lasciata Roma per cedere a San Silvestro, se ne and@o a Bisanzio
+con le leggi e con l'aquila imperiale, vale a dire che col@a
+trasport@o l'imperio.  ^Torel.~
+
+	|56.  Buona~: ^De Mon.~ II, 12: ^Nec jam depauperatio
+talis absque Dei judicio fit, quum nec pauperibus, quorum
+patrimonia sunt Ecclesiae facultates, inde subveniatur, neque ab
+offerente Imperio cum gratitudine teneantur.  Redeant, unde
+venerunt: venerunt bene, redeunt male, quia bene data, et male
+possessa sunt.~  Ibid. II, 13: ^O felicem populum, o Ausoniam te
+gloriosam, si vel numquam infirmator ille imperii tui natus
+fuisset, vel numquam sua pia intentio ipsum fefellisset~!  --
+|Fe' mal~: cfr. ^Inf.~ XIX, 115-117.
+
+	|57.  Per cedere~: per lasciare Roma al Papa.  ^Donat.
+Constant.~ (nel libro citato test@e, nt. 55, p. 19 e seg. e
+^Decret. Gratiani~ dist. XCVI, c. 13): ^Unde congruum
+perspeximus, nostrum imperium et regni potestatem Orientalibus
+transferri ac transmutari regionibus, et in Byzantia provincia in
+optimo loco nomine nostro civitatem aedificari, et nostrum illic
+imperium, constitui: quoniam ubi principatus sacerdotum et
+Christianae religionis caput ab Imperatore coelesti constitutum
+est, justum non est ut illic Imperator terrenus habeat
+potestatem.~
+
+	|58.  Dedutto~: dedotto, derivato.
+
+	|59.  Nocivo~: imputato a colpa.  ^Thom. Aq.~ ^Sum.
+theol.~ P. I, 2+a~e qu. XX, art. 5: ^Eventus sequens non facit
+actum malum qui erat bonus, nec bonum qui erat malus~..... 
+^Eventus sequens aut est praecogitatus, aut non.  Si est
+praecogitatus, manifestum est quod addit ad bonitatem vel malitiam
+actus; cum enim aliquis cogitat quod ex opere suo multa mala
+possunt sequi, nec propter hoc dimittit, ex hoc apparet voluntas
+ejus esse magis inordinata.  Si autem eventus sequens non sit
+praecogitatus, tunc distinguendum est: quia si per se sequitur ex
+tali actu, et ut in pluribus, secundum hoc eventus sequens addit
+ad bonitatem vel malitiam actus.  Manifestum est enim meliorem
+actum esse ex suo genere, ex quo possunt plura bona sequi, et
+pejorem, ex quo nata sunt plura mala sequi.  Si vero per
+accidens, et ut in paucioribus, tunc eventus sequens non addit ad
+bonitatem vel ad malitiam actus.  Non enim datur judicium de re
+aliqua secundum illud quod est per accidens, sed solum secundum
+illud quod est per se.~  Riproducendo il concetto dell'Aquinate
+^Lan.~, ^Ott.~, ^An. Fior.~: <Qu@i @e da considerare che quando le
+cagioni naturalmente generano effetto, vel frutto, se esso frutto
+@e buono, s@i @e da giudicare la cagione buona; se esso frutto @e
+reo, @e da imputare la cagione rea: ma quando la cagione genera
+frutto per accidente, allora pu@o essere la cagione buona e il
+frutto reo.  S@i come naturalmente l'uomo ha lo libero arbitrio
+per acquistar felicitade, conci@o sia che esso sia animale
+intellettivo, pu@o peccare: e questo @e per accidente, s@i come dice
+lo Filosofo nel terzo dell'Etica: ^Omnis malus est ignorans~,
+conci@o sia che ello @e nato atto ad intendere, s@i come nel proemio
+della Metafisica: ^Omnes homines natura scire desiderant.~  S@i
+che, avvegna che 'l peccato sia malo, la cagione, che @e lo libero
+arbitrio, non @e per@o rea; cos@i ^a simili~ la intenzione di
+Costantino fue buona a provvedere gli prelati delle necessitadi
+temporali; e naturalmente questa buona intenzione non potrebbe
+generare male; ma, se per mal disposizione e condotta, la
+condizione degli ricipienti @e corrotta, questo @e frutto ^per
+accidens~ malo; e per@o non @e da essere imputato alla cagione, ma
+alla disposizione degli recipienti.  E questo @e quel che dice
+l'Autore che lo mal, dedutto, cio@e seguito, dal suo buono
+operare, non gli @e nocivo.>
+
+	|60.  Indi~: pel dominio temporale dei papi.  --
+|Distrutto~: imper@o che per questa ricchezza della Chiesa sono
+divisi li sommi pontefici da l'imperadori, e fatto parte della
+Chiesa e de lo imperio guelfa e ghibellina, sicch@e la cristianit@a
+n'@e divisa e venuta in grandi guerre.  ^Buti.~  Cfr. ^Purg.~
+XXXII, 124 e segg.  Il ^Ronchet.~ (^Appunt.~, p. 171 e seg.):
+<^Sebbene per la donazione di Costantino sia l'impero andato in
+rovina.~  Io preferirei intendere, il mondo vada in rovina, come
+se Dante avesse detto, si distrugga, pur con iscambio del modo
+passivo col riflessivo, di cui sarebbe altro esempio ^Parad.~
+III, 12: ^Non s@i profonde che i fondi sien persi~, che vale, si
+perdano di vista.>
+
+	|61.  Nell'arco~: nella piega del ciglio.  -- |Declivo~:
+lat. ^declivis~, pendente, declive, che declina.
+
+	|62.  Guglielmo~: Guglielmo II re di Sicilia, detto ^il
+Buono~, di stirpe normanda, principe giusto e buono (nato nel
+1167, morto nel 1189, dice il ^Blanc~; @e vero che mor@i nel 1189,
+ma avendo incominciato a regnare nel 1166, non pu@o esser nato nel
+1167.  Cfr. ^Barlow~, ^Contrib.~, p. 496 e seg.): Di costui
+^Leo~, ^Gesch. der ital. Staaten~, lib. IV, c. 7 {paragraph.} 3
+(vol. II, p. 145): ^Durch Verstand, Gerechtigkeit und eine
+liebensw,urdige Pers,onlichkeit gewann er sich die Herzen seiner so
+vielfach verschiedenen Unterthanen so allgemein, dass die Zeit
+des guten K,onig Wilhelms lange fort das politische Ideal f,ur die
+Phantasie der Sicilianer und Neapolitaner blieb.~  E il
+~Muratori~ (^Ann. D'Ital.~ ad. a. 1189): <Nel d@i 16, di Novembre
+(1189) venne a morte Guglielmo II Re di Sicilia, sopranominato il
+Buono, in et@a di soli trentasei anni, principe pio, principe
+glorioso, e padre de' suoi popoli, i quali perci@o in dirotti
+pianti si sciolsero non tanto per la perdita del bene presente,
+quanto per la previsione de' mali avvenire, perch'egli non
+lasciava dopo s@e prole alcuna.>  Cfr. ^Vigo~, ^Dante e la
+Sicilia~, p. 13 e seg.  ^Lan.~, ^Ott.~, e ^An Fior.~: <Questo re
+Guglielmo fue uno uomo giusto e ragionevole, et amava gli suoi
+sudditi di dilezione regale, la quale fae differenzia dalla
+iniqua tirann$ia; e teneali in tanta pace e trastullo, che si
+potea estimare uno paradiso terrestre.  Costui era liberalissimo,
+e non era caviliere, n@e d'altra condizione uomo, che fosse in sua
+corte, o che passasse per quelle contrade, che da lui non fosse
+proveduto.  Era lo dono proporzionato a sua virtute.  Ben teneva
+egli questa regola negli uomini di corte che, se in sua corte
+ven$ia uno cattivo uomo di corte, o mal parlante, incontanente era
+conosciuto per quegli che sopra ci@o erano posti, e ad esso gli
+erano donate robe, per che avesse cagione di partirsi; s'erano
+tanto conoscenti, s@i si partiano, se non, cortesemente gli era
+dato commiato; e se a lui andava uno virtudioso e curiale, a
+questo similemente era donato; ma continuo lo teneano in speranza
+di maggior dono; e con tali genti erano s@i legati che raro si
+partivano.  Per la quale regola in quella corte si trovava d'ogni
+perfezion gente: quivi erano buoni dicitori in rima; quivi erano
+eccellentissimi cantatori; quivi erano persone d'ogni sollazzo,
+che si pu@o pensare virtudioso et onesto.  In questa corte era
+tanta tranquillit@a, che gli abitanti e sudditi notavano in
+allegrezza.>  ^Falso Bocc.~: <Fu uomo valoroso e pieno d'ogni
+virt@u che dir si possa.>  ^Benv. Ramb.~: <Ottimo re de' suoi
+tempi per liberalit@a, giustizia, clemenza e per ogni altra eroica
+virt@u.>  Il ^Filal.~ ricorda un canto popolare sulla morte di
+Guglielmo, che termina coi versi:
+
+     ^Rex Gulielmus abiit, non obiit~,
+     ^Rex ille magnificus, pacificus~,
+     ^Cujus vita placuit Deo et hominibus~,
+     ^Ejus seper spiritus Deo vivat coelitus.~
+
+Sulla sua tomba furono scritte le semplici parole:
+
+     ^Hic situs est bonus rex Gulielmus.~
+
+-- |Terra~: Sicilia.  -- |Plora~: deplora, lamenta.  ^Plorare~
+rimane appena al verso, e a' Latini diceva ogni segno di proprio,
+anche intenso, delore.  Cfr. ^Tommaseo~, ^Diz. dei Sinon.~, p.
+543, n+o~ 2012.
+
+	|63.  Carlo~: Carlo II, d'Angi@o, il ^Ciotto di
+Gurusalemme~; cfr. ^Purg.~ XX, 79 nt. ^Parad.~ XIX, 127 nt.  --
+|Federico~: Federico II re di Sicilia; cfr. ^Purg.~ VII, 119 nt.
+^Parad.~ XIX, 131 nt.  Il morto @e pianto per la sua bont@a e
+giustizia; i vivi sono pianti per le loro ingiustizie e tirannie. 
+^Di Giovanni~ (ap. ^Ferraz. Man. Dant.~ V, 460): <Accenna, a
+quanto pare, alle due battaglie della Falconaria e di Ponza
+(1299-1300), nelle quali cadde il fiore della nobilit@a napolitana
+e siciliana, sia da parte di Carlo II, sia da parte del nostro
+Federico.>  Accenna piuttosto alla ^mala signoria che sempre
+accuora~; cfr. ^Parad.~ VIII, 73.  ^Ces.~: <Qu@i piglia il Poeta
+tre colombi a una fava.  Si piagne per dolore d'un bene perduto,
+ed altres@i per le botte del bastone che ci @e menato addosso.  La
+Sicilia piangeva d'aver perduto Guglielmo; e piangeva altres@i,
+perch@e Carlo e Federigo non morivano mai.>
+
+	|65-66.  Al sembiante~: allo aspetto di sua viva luce. 
+^Lan.~, ^Ott.~, ^An. Fior.~: S@i come fue preclaro al mondo, cos@i
+la sua luce tra l'altre rifiammeggiava.  -- ^Dan.~: Al sembiante
+del suo splendore medesimo, il quale @e tanto quanto l'amore del
+cielo verso esso Re.
+
+	|67.  Gi@u~: in cielo non vi @e errore.  |Errante~ vale
+qu@i: soggetto ad errore; cfr. ^Parad.~ XII, 94.  ^Buti~: <Nel
+mondo che corre per tempo et erra e debbe avere fine; e questo
+dice a differenzia dello inferno (?) che @e mondo che non corre,
+imper@o che non debbe avere fine.>  Non a differenza dell'Inferno,
+ma a differenza del cielo.
+
+	|68-69.  Rifeo~: lodato da Virgilio, ^Aen.~ II, 426, 427:
+
+     -- -- ^Cadit et Rhipeus, iustissimus unus~
+     ^Qui fuit in Teucris et servantissimus aequi.~
+
+Virgilio lo ricorda ancora due volte, ^ibid.~ v. 339 e 394; del
+resto il personaggio @e ignoto.  ^Lan.~, ^Ott.~, ^An. Fior.~:
+<Questo fue di Troja, e fu di tanta drittura di giustizia e
+virtudiosa vita, che, quanto si puote per la umana natura
+acquistare, e per le virtudiose opere in abbundanzia per lui
+fatte, tanto ch'eccede la detta possanza, s@i furono cagione di
+estimare che grazia divina gli sopravvenisse, perch'era cos@i
+perfetto.  Della sua istoria @e fatta menzione a sufficienza assai
+nel libro appellato ^Trojano.~>  Il ^P. D'Aquino~ (III, 327): <Fu
+strano ed ardito pensiero il collocare in Paradiso una persona
+finta, e introdotta da' Poeti di propria fantasia.  Se invece di
+Rifeo avesse riposto nell'occhio dell'Aquila Enea, tanto lodato
+per giustizia, e per piet@a, averebbe incontrato lo splendore di
+maggior personaggio, acquistato l'allusione al primo fondatore
+dell'imperio, acconciamente situato nell'aquila, e schivato
+l'impropriet@a, anzi l'impossibilit@a di far beato chi non fu nel
+mondo giammai.>  La medesima censura ripete anche ^Vent.~, che
+non si lascia sfuggire occasione di mordere il Poeta.  A noi
+sembra che Dante era libero di scegliere quel personaggio che pi@u
+gli sembrava atto a rappresentare l'idea da lui voluta esprimere,
+e quasi incorporare.  Qu@i vuole insegnare come la grazia divina
+rivelasse la futura redenzione anche ai pagani virtuosi.  A tal
+uopo non poteva scegliere Enea, al quale non si poteva applicare
+quanto dice pi@u sotto di Rifeo, v. 124 e seg.; doveva anzi
+scegliere a tal uopo un personaggio del quale altro non si
+sapesse, se non che fu giustissimo.  ^Act. Apost.~ X, 34, 35:
+^Non est personarum acceptor Deus, sed in omni gente qui timet
+eum et operatur justitiam acceptus est illi.~  <Forse Dante ebbe
+l'occhio qu@a, e senza forse.>  ^Ces.~  -- |Tondo~: ciglio.
+
+	|71-72.  Il fondo~: della divina grazia.  Bench@e di essa
+i Beati comprendano assai pi@u dei mortali, essi sono ci@o
+nondimeno ben lungi dal discernere il fondo della bont@a di Dio. 
+L'ente finito non potr@a mai raggiungere l'ente infinito.  ^S.
+August.~, Serm. 38, De verb. Dom.: ^Attingere aliquantulum mente
+Deum magna beatitudo est; comprehendere autem omnino
+impossibile.~  Nemmeno gli angeli conoscono pienamente il mistero
+della grazia divina; cfr. ^Thom. Aq.~ ^Sum. theol.~ P. I, qu.
+LVII, art. 5: ^Angelis est cognitio duplex.  Una quidem
+naturalis, secundum quam cognoscunt res tum per essentiam suam,
+tum etiam per species innatas: et hac cognitione mysteria gratiae
+Angeli cognoscere non possunt; haec enim mysteria ex pura Dei
+voluntatem dependent~......  ^Est autem et alia Angelorum
+cognitio, quae eos beatos facit, qua vident Verbum, et res in
+Verbo; et hac quidem visione cognoscunt mysteria gratiae, non
+quidem omnia, nec aequaliter omnes, sed secundum quod Deus
+voluerit eis revelare~.....  ^Licet Angeli beati divinam
+sapientiam contemplentur, non tamen eam comprehendunt.~  Altrove,
+parlando dei Beati, l'Aquinate insegna, l. c. P. I, qu. XII, art.
+8: ^Nellus intellectus creatus totalier Deum comprehendere
+potest.  Nullus igitur intellectus creatus videndo Deum potest
+cognoscere omnia quae Deus facit, vel potest facere.~  Cfr. ibid.
+art. 7.
+
+	|73-84.~  ^La sorpresa in cielo.~  Di tre cose, diceva un
+pio uomo, ci maraviglieremo nel regno de' cieli, se Iddio ci fa
+la grazia di entrarvi.  In primo luogo ci maraviglieremo di non
+trovare in Paradiso molti, dei quali tenevamo per certo che vi
+fossero saliti.  Pi@u ancora ci recher@a maraviglia il trovare
+colass@u molti, ai quali noi credevamo che le porte del Paradiso
+non si fossero mai aperte.  Ma pi@u di ogni altra cosa ci far@a
+maravigliare l'essere noi medesimi accolti nel beato regno.  Una
+esperienza consimile fa qu@i anche il nostro Poeta.  Egli non
+credeva di incontrare gente pagana in Paradiso, ed in questa sua
+credenza era test@e stato confermato, avendo udito dire:
+
+     -- -- -- A questo regno
+     Non sal@i mai chi non credette in CRISTO,
+     N@e pria n@e poi ch'ei si chiavasse al legno.
+
+Eppure or'ora gli furono mostrati gli spiriti beati di due
+pagani, morti l'uno ^pria~ l'altro ^poi~ che Cristo si chiavasse
+al legno; ma morti ambedue senza credere in Cristo.  Pieno di
+stupore e' non pu@o contenersi dall'esclamare: ^Che cose son
+queste~? ^come Trajano e Rifeo in Paradiso~?  I beati fanno festa
+al suo grido, lieti di sciogliere il dubbio suo.  -- Vedi sopra
+questi versi ^Fanfani~, ^Osservazioni sopra alcuni luoghi della
+D. C.~ nella Contin. delle ^Memorie~ di Modena, XVIII, 395 e
+segg.
+
+	|73-74.  Quale allodetta~: ^W. 4~, ^Cass.~, ^Fram. Pal.~
+(alodetta), ^Vien.~, ^Stocc.~, ^Cort.~, ^Trivulz.~, ^Ambr. 198~,
+^Flor.~, ^Torr.~, ^Pat. 9, 67~, la comune: ^Qual lodoletta.~ 
+^Peraz.~ ed. ^Scolari~, p. 159: Quale alodetta, ^ut apud
+Vellutellus ab~ alauda.  ^Aldus~ allodetta, ^sed minus placet.~ 
+Cfr. ^Viv.~ ad h. l.  -- Il paragone @e fra uccello e uccello; e
+scegliendo la lodoletta, sceglie quello appunto, cui @e pi@u che ad
+altri proprio lo spaziarsi in aria gorgheggiando.  Cfr. ^L.
+Vent.~ Simil.~ 440, p. 266; ^Lucret.~ ^De Rer. nat.~ II, 146,
+147:
+
+     ^Et variae volucres nemora avia pervolitantes~
+     ^A,era per tenerum liquidis loca vocibus opplent.~
+
+-- |Si spazia~: ^Virg.~ ^Georg.~ I, 388, 389:
+
+     ^Tum cornix plena pluviam vocat inproba voce~
+     ^Et sola in sicca secum spatiatur harena.~
+
+	|75.  Dell'ultima~: della dolcezza delle sue ultime note,
+che la di lei voglia di cantare affatto adempie.  -- |Dolcezza~:
+di uccelli ^Virg.~ ^Georg.~ I, 412: ^Nescio qua praeter solitum
+dulcedine laeti.~
+
+	|76-78.  Tal~: contenta delle sue parole.  -- |Sembi@o~:
+sembr@o.  |Sembiare~ per ^sembrare~ adopera Dante pi@u volte
+(^Inf.~ I, 50; XVI, 87; ^Purg.~ IX, 105, ecc.), ed adoperano
+altri Trecentisti; cfr. ^Voc. Crus.~  -- |L'imago della
+imprenta~: |imago~ per ^immagine~, come ^Inf.~ XX, 123; e fuor di
+rima ^Parad.~ XXXIII, 138; |imprenta~ per ^impronta~, come
+^Parad.~ VII, 69; XVIII, 114 ecc.  ^Ces.~: <Io ho letto di questa
+terzina spiegazione incredibile, che non oso di pur recitare.> 
+Vediamo dunque.  ^Lan.~ e ^Anon. Fior.~ non danno altra chiosa
+che: <|Dell'imprenta~ ci@o @e della divina impressione e virtude.> 
+^Ott.~: <Aguglia della imprenta, cio@e stampa delle pecore (il
+^Torri~ corregge: |del piacere~) di Dio.>  ^Post. Cass.~: <Hic
+tangit auctor quomodo ad desiderium illius signi universalis
+iustitiae quaelibet res est, idest, qualis esse debet efficitur et
+apparet ratione dominii et possessionis (?>).  ^Petr. Dant.~,
+^Falso Bocc.~, ecc. non danno veruna spiegazione.  ^Benv. Ramb.~:
+<Tale mi parve l'aquila contenta, imagine di quel romano impero,
+in cui l'eterno beneplacito ha ordinata la mondiale monarchia,
+per volont@a del quale Iddio, ogni cosa @e quello che @e, ogni
+creatura @e quello che piacque a Dio che fosse.>  ^Buti~ <S@i fatta
+mi parve l'imagine de la figurata aquila, che Iddio la figurava
+come si figura una figura d'una forma, imprimendola ne la cera, o
+in altra cosa ricettevile di quella; |De l'eterno piacere~, cio@e
+d'Iddio, che @e eterno piacere, a desiderio e volont@a del quale
+ogni cosa diventa tale, quale ella @e nel piacere d'Iddio: imper@o
+che ogni cosa @e fatta da Dio tale, quale elli la vuole; onde
+santo Augustino: ^Tales nos amat Deus, quales facti sumus dono
+eius, non quales sumus nostro merito~; e santo Prospero: ^Tales a
+Domino, quales formamur, amamur; non quales nostro existimus
+merito.~  E questo dice l'autore, per togliere dubbio al lettore
+di quel che ha detto; cio@e che la detta aquila, finita la sua
+orazione, cant@o; e poi finito lo canto, si tacque rimanendo
+contenta di quello canto ch'avea fatto al piacere d'Iddio.> 
+^Land.~: <Chiama l'aquila l'imagine de l'imprenta dell'eterno
+piacere, perch@e @e figurata quivi dalla divina volont@a, la quale
+imprime la giustizia in quel pianeta.>  ^Vell.~: <L'aquila era
+impronta dell'eterno piacere cio@e di Dio.>  Cos@i anche ^Dan.~,
+^Vol.~, ecc.  ^Dol.~ tace.  ^Vent.~: <Cos@i contenta mi sembr@o
+l'Aquila dell'impronta in lei impressa del piacere eterno, cio@e
+di Dio stesso, conforme al cui des$io e volont@a efficace ciascuna
+cosa diventa tale, qual ella @e in s@e stessa, essendo ogni
+creatura tale nell'esser suo, quale Iddio la vuole.>  ^Lomb.~:
+<Ugualmente sazia di parlare mi sembr@o l'insegna di quel romano
+Impero, in cui l'eterno beneplacito ha ordinata la universal
+Monarchia.>  Cos@i anche ^Portir.~, ^Triss.~, ecc.  ^Pogg.~: <Cos@i
+la detta figura dell'Aquila, cio@e i beati Spiriti, che la
+componevano, sembrarono a me contenti di quell'impressione di
+piacere, che Dio produsse in essi in occasione dell'ultimo elogio
+da loro fatto alla somma di lui bont@a, quel Dio per opera del
+quale ogni creatura diventa ci@o, che ella @e, e ci@o che egli vuole
+che sia.>  ^Biag.~ non d@a veruna spiegazione.  ^Costa~ (seguendo
+il ^Betti~): <Similmente mi sembr@o che tacesse contenta, paga di
+essere segnata dell'impronta dell'amor divino |l'immago~, cio@e
+l'aquila.>  Non sappiamo quale di queste spiegazioni parve al
+^Ces.~ tale, da non osare nemmeno riferirla.  Egli stesso spiega:
+<Mi pare che ponendo mente, come l'aquila @e l'immagine della
+giustizia ch'@e costellata in questo pianeta; l'impronta o
+suggello ovvero la esemplar forma di questa immagine sar@a essa
+Giustizia eterna, piacere eterno di Dio e de' Santi.  E or di che
+gode Dio e in lui i Beati, se non della giustizia che @e Dio
+medesimo?  E dell'essere stati ed essere giusti son beati i
+comprensori.....  E secondo questa interpretazione, spiego io
+anche il verso seguente: |al cui dis$io Ciascuna cosa, quale ell'@e
+diventa.~  Riferisco il |quale ell'@e~, alla detta giustizia, non
+a |ciascuna cosa~, ed intendo cos@i: Che ogni cosa (cio@e ogni
+uomo, od angelo: da che questi soli amano e desiderano),
+desiderando ed amando questa giustizia, diventano altres@i giusti,
+come essa @e: da che la virt@u della giustizia @e l'amore della
+medesima, che fa altrui giusto.>  ^Wagn.~ passa via da questo
+luogo; ^Borg.~ segue il ^Lomb.~  Il ^Tom.~: <Parve l'imagine
+dell'aquila, ch'@e sigillo del volere di Dio, il quale con un
+semplice atto fa ci@o ch'e' vuole.>  Presso i commentatori pi@u
+recenti non troviamo spiegazione essenzialmente nuova.  Non pago
+di nessuna, il ^Fanf.~ (l. c.) proponeva di leggere:
+
+     Tal mi sembr@o l'imago ^bella~, impenta
+     Dell'eterno piacere, al cui dis$io
+     Ciascuna cosa, quale Ell'@e, diventa
+
+e spiegava: <Quale l'allodola ecc., tale si mostr@o a Dante la
+bella imagine (l'Aquila) improntata dell'eterno piacere, cio@e
+spirante al di fuori quel divino piacere, che la faceva gioire
+internamente; secondo il cui desiderio ciascuna cosa diventa
+quale essa (Aquila) @e, tripudiante di gioja divina.>  Questa
+lezione ed interpretazione fu accettata ed applaudita dal
+^Todeschini~ (^Scriti su D.~ II, 430).  Ma il ^Fanf.~ stesso
+sembra essersene ricreduto, ch@e ne' suoi ^Studi ed Osserv.~ non
+volle ristampare il relativo articolo, e nella sua edizione
+dell'^Anon. Fior.~ segu@i la comune, non fiatando nemmeno della
+correzione da lui un d@i proposta.  In fatto la lezione ^Bella~,
+che non si trova in un solo cod., n@e in una sola edizione, n@e
+presso un solo commentatore antico, @e da ritenersi tutta
+arbitraria.
+
+	Ma come devesi dunque intendere questa terzina?  E' ci
+pare che, fatta la debita attenzione al contesto, l'intelligenza
+non ne riesca poi tanto difficile.  Il Poeta paragona l'Aquila
+celeste alla lodoletta, che canta prima e poi tace, contenta del
+suo canto.  Ne segue che il parlare dell'Aquila @e paragonato al
+canto della lodoletta, il tacere dell'Aquila al tacere della
+lodoletta, il contento dell'Aquila al contento della lodoletta. 
+Ma di che @e contenta l'Aquila?  Il Poeta risponde: |della
+imprenta dell'eterno piacere.~  La similitudine esige
+assolutamente che s'intenda: Del piacere da lei provato parlando. 
+Ma questo piacere era una impronta del piacer divino, cio@e
+|dell'eterno piacere.~  Il rimanente della terzina ci sembra
+ottimamente spiegato dal ^Buti.~  Ci dispensiamo dalla critica
+delle altre interpretazioni, perch@e richiederebbe non pure una
+nota troppo prolissa, ma una lunga dissertazione.  Col v. 78 cfr.
+^Psl.~ XXXII, 9: ^Ipse dixit, et facta sunt: ipse mandavit, et
+creata sunt.~
+
+	|79.  Avvegna~: sebbene il dubbio, che io aveva
+nell'animo, fosse veduto dagli spiriti celesti, fra cui io mi
+trovava, come si vede un colore a traverso il vetro, dietro al
+quale sta: tuttavia quel dubbio non sofferse ch'io tacendo
+aspettassi tempo alla risposta.  Cfr. ^L. Vent.~ ^Simil.~ 157, p.
+99 e seg.  @E l'impazienza dello stupore.
+
+	|80.  Vetro~: ^Petrar.~ I, ^Canz.~ III (^S@i @e debile il
+filo a cui s'attene~), str. 4, v. 9 seg.:
+
+     Certo, cristallo o vetro
+     Non mostr@o mai di fore
+     Nascosto altro colore,
+     Che l'alma sconsolata assai non mostri
+     Pi@u chiari i pensier nostri.
+
+Lo stesso, I, Son. XCVII (^Quando 'l veder che con duo sproni
+ardenti~), v. 12 e seg.:
+
+     Ma freddo foco e paventosa speme
+     Dell'alma, che traluce come un vetro,
+     Talor sua dolce vita rasserena.
+
+Lo stesso, ^Trionf. della Divin.~, v. 34, 35:
+
+     Passa 'l pensier s@i come Sole in vetro,
+     Anzi pi@u assai, per@o che nulla il tene.
+
+	|81.  Pat$io~: pat@i.  Soggetto @e il ^dubbiar~ del v. 79. 
+Il dubbio non soffr@i di aspettare che l'aquila gli soddisfacesse
+di per s@e.
+
+	|83.  Peso~: la gravezza del dubbio mi sospinse fuor
+della bocca quelle parole.
+
+	|84.  Corruscar~: scintillare, brillare; cfr. ^Purg.~
+XXI, 50; ^Parad.~ V, 126.  -- Per il che vidi gran feste di lumi
+fiammeggianti, lieti di soddisfare al mio desiderio
+rispondendomi.
+
+	|85-129.~  ^La fede e la salvazione.~  L'occhio brillante
+di gioja l'aquila scioglie il dubbio del Poeta.  Tu credi alle
+mie parole, ma non comprendi ancora.  Rammenta il famoso ^credo
+ut intelligam~ di Sant'Agostino.  L'uomo pu@o acquistarsi la
+grazia per forza; colla forza cio@e della carit@a e della speranza. 
+A' preghi di Gregorio Trajano ritorn@o in vita e credette in
+Cristo.  Rifeo credette in Cristo venturo e fu salvato per fede,
+speranza e carit@a.  La salvazione del primo fu la mercede della
+viva speranza di san Gregorio; la salvazione di Rifeo fu la
+mercede della propria sua carit@a.  A maggiore intelligenza di
+questi versi aggiungeremo alcuni brevi cenni sulle dottrine di
+San Tommaso concernenti i meriti dell'uomo e la grazia divina
+(^Thom. Aq.~ ^Sum. theol.~ P. I, 2+a~e qu. CXIV, art. 1 e segg.). 
+Pu@o l'uomo meritarsi checchessia da Dio?  ^Meritum hominis apud
+Deum esse non potest nisi secundum praesuppositionem divinae
+ordinationis; ita scilicet ut homo consequatur a Deo per suam
+operationem, quasi mercedem, ad quod Deus et virtutem operandi
+deputavit, sicut etiam res naturales hoc consequuntur per
+proprios motus, et operationes ad quod a Deo sunt ordinatae,
+differenter tamen, quia creatura rationalis se ipsam movet ad
+agendum per liberum arbitrium, unde sua actio habet rationem
+meriti; quod non est de aliis creaturis~ (art. 1).  Pu@o l'uomo
+meritare la vita eterna senza l grazia?  ^Hominis sine gratia
+duplex status considerari potest: unus quidem naturae integrae,
+qualis fuit in Adam ante peccatum; alius autem naturae corruptae,
+sicut est in nobis ante reparationem gratiae.  Si ergo loquamur de
+homine quoad primum statum, sic una ratione non potest homo
+mereri absque gratia vitam aeternam per pura naturalia, quia
+scilicet meritum hominis dependet ex praeordinatione divina. 
+Actus autem cujuscumque rei non ordinatur divinitus ad aliquid
+excedens proportionem virtutis quae est principium actus; hoc enim
+est ex institutione divinae providentiae ut nihil agat ultra suam
+virtutem.  Vita autem aeterna est quoddam bonum excedens
+proportionem naturae creatae; quia etiam excedit cognitionem et
+desiderium ejus~.....  ^Et inde est quod nulla natura creata est
+sufficiens principium actus meritorii vitae aeternae, nisi
+superaddatur aliquod supernaturale donum, quod~ gratia ^dicitur. 
+Si vero loquamur de homine sub peccato existente, additur cum hoc
+secundra ratio, propter impedimentum peccati.  Cum enim peccatum
+sit quaedam Dei offensa excludens a vita aeterna, nullus in statu
+peccati existens potest vitam aeternam mereri, nisi prius Deo
+reconcilietur dimisso peccato, quod fit per gratiam~ (art. 2). 
+Pu@o l'uomo meritare la vita eterna ^ex condigno?  Opus meritorium
+hominis dupliciter considerari potest: uno modo secundum quod
+procedit ex libero arbitrio; alio modo, secundum quod procedit ex
+gratia Spiritus sancti.  Si consideretur secundum substantiam
+operis, et secundum quod procedit ex libero arbitrio, sic non
+potest ibi esse condignitas propter maximam inaequalitatem; sed
+est ibi congruitas propter quamdam aequalitatem proportionis. 
+Videtur enim congruum ut homini operanti secundum suam virtutem,
+Deus recompenset secundum excellentiam suae virtutis.  Si autem
+loquamur de opere meritorio, secundum quod procedit ex gratia
+Spiritus sancti, sic est meritorium vitae aeternae ex condigno~
+(art. 3).  @E la grazia il principio del merito pi@u per la carit@a
+che per le altre virt@u?  Certamente.  ^Meritum vitae aeternae primo
+pertinet ad charitatem, ad alias autem virtutes secundario,
+secundum quod earum actus a charitate imperantur.  Similiter
+etiam manifestum est quod id quod ex amore facimus, maxime
+voluntarie facimus.  Unde etiam secundum quod ad rationem meriti
+requiritur quod sit voluntarium, principaliter meritum charitati
+attribuitur~ (art. 4).  Pu@o l'uomo meritarsi la prima grazia? 
+No.  ^Nullus potest sibi mereri primam gratiam~ (art. 5).  Ma pu@o
+l'uomo meritare ad altri la prima grazia (l'esempio di Trajano,
+al quale S. Gregorio colle sue preci pare aver meritata la prima
+grazia)?  ^Opus nostrum habet rationem meriti ex duobus: primo
+quidem ex vi motionis divinae; et sic meretur aliquis ex condigno;
+alio modo habet rationem meriti, secundum quod procedit ex libero
+arbitrio, in quantum voluntarie aliquid facimus; et ex hac parte
+est meritum congrui, quia congruum est ut dum homo bene utitur
+sua virtute, Deus secundum superexcellentem virtutem excellentius
+operetur.  Ex quo patet quod merito condigni nullus potest mereri
+alteri primam gratiam, nisi solus Christus~......  ^Sed merito
+congrui potest aliquis alteri mereri primam gratiam: quia enim
+homo in gratia constitutus implet Dei voluntatem, congruum est
+secundum amicitiae proportionem ut Deus impleat hominis voluntatem
+in salvatione alterius, licet quandoque possit habere
+impedimentum ex parte illius cujus aliquis sanctus
+justificationem desiderat~......  ^Fides aliorum valet alii ad
+salutem merito congrui, non merito condigni~.....  ^Impetratio
+orationis innititur misericordiae; meritum autem condigni
+innititur justitiae; et ideo multa orando impetrat homo ex divina
+misericordia, quae tamen non meretur secundum justitiam.~
+
+	|87.  Sospeso~: non, nell'ammirazione di quello splendore
+(^Lomb.~, ecc.), ma, nell'ammirazione nata dal vedere tra' gli
+eletti in Cielo Trajano e Rifeo, che non credettero in Cristo
+(^Buti~, ecc.).
+
+	|88-90.  Non vedi~: credi, ma non ne vedi la ragione. 
+^Ott.~: Dice, che poi che l'occhio fu pi@u acceso dell'aquila, per
+lo caritativo amore che accendea l'animo ch'era l@a entro, per non
+tenere pi@u in ammirazione l'Autore, disse: Io veggio che tu per
+fede credi ci@o ch'io ti dico; ma non vedi la ragione perch@e cos@i
+debba essere; s@i che, se sono credute, neente meno t'@e occulta la
+cagione; e cos@i fia occulto a' mortali, perch'elle sono salve.
+
+	|91-92.  Quiditate~: termine scolastico; l'essenza, ci@o
+che fa che una cosa sia ci@o che @e.  ^Lan.~, ^An. Fior.~:
+<Quiditate si @e quella difinizione della cosa, ch'assegna lo
+subietto e 'l predicato eziand$io, facendone demostrazione in
+quelle cagioni che la natura della cosa nomata porta.>  ^Thom.
+Aq.~ ^Sum. theol.~ P. II, 2+a~e qu. VIII, art. 1: ^Cognitio
+sensitiva occupatur circa qualitates sensibiles exteriores;
+cognitio autem intellectiva penetrat usque ad intelligentiam rei. 
+Objectum enim intellectus est~ quod quid est.  ^Ibid.~ art. 2:
+^Dupliciter. dici possumus aliqua intelligere: uno modo perfecte,
+quando scilicet pertingimus ad cognoscendum essentiam rei
+intellectae, et ipsam veritatem enuntiabilis intellecti, secundum
+quod in se est; et hoc modo ea quae directe cadunt sub fide,
+intelligere non possumus durante statu fidei; sed quaedam alia ad
+fidem ordinata etiam hoc modo intelligi possunt.  Alio modo
+contingit aliquid intelligi imperfecte, quando scilicet ipsa
+essentia rei, vel veritas propositionis non cognoscitur quid sit
+aut quomodo sit; sed tamen cognoscitur quod ea quae exterius
+apparent, veritati non contrariantur, in quantum scilicet homo
+intelligit quod propter ea quae exterius apparent, non est
+recedendum ab his quae sunt fidei; et secundum hoc nihil prohibet,
+durante statu fidei, intelligere etiam ea quae per se sub fide
+cadunt.~
+
+	|93.  Prome~: spiega, rivela; voce latina, ora fuor
+d'uso.  L'adoper@o anche Lorenzo de' Medici nelle sue Rime; cfr.
+^Voc. Crus.~
+
+	|94-95.  Regnum~: @e la sentenza evangelica, ^Matt.~ XI,
+12 (cfr. ^Luc.~ XVI, 16): <Il regno de' cieli soffre violenza, e
+i violenti lo rapiscono.>  Dante intende: Il regno de' cieli cede
+all'affetto e alla speranza umana che vincono la volont@a divina,
+non per prevalenza di forza, ma perch@e essa vuole essere vinta. 
+La similitudine negativa del v. 97 cade sull'abuso che gli uomini
+superbi fanno della propria forza, oppostamente a ci@o che fa Dio. 
+Quella @e vittoria di prepotenza; questa, di carit@a.  Cfr. ^L.
+Vent.~ ^Simil.~ 318, p. 183; ^Ronchet.~ ^Appunt.~, p. 172.
+
+	|96.  Vince~: Questo, che dice qu@i l'autore, si debbe
+notare con una distinzione; cio@E che due sono le volont@a in Dio:
+l'una @e assoluta, e questa mai non si vince, ma ella vince tutto;
+l'altra @e condizionata, cio@e ch@e Iddio vuole che, se tu sei
+infedele, sii dannato; ma potr@a tanto amore in Dio essere in te e
+s@i viva speranza, e in altre parti che Iddio vorr@a che quella
+prima volont@a non si toglia, che ella sta pur ferma, che ogni
+infedele @e dannato; ma vuole Iddio che si trovi modo che si torni
+all'ordine che non sia infedele; ma diventa fedele, e cos@i sta
+sempre ferma la volont@a di Dio assoluta e condizionata.  ^Buti.~
+
+	|97.  Sovranza~: sorpassa, vince.  Cfr. ^Nannuc.~, ^Voci
+ital. derivate dalla lingua Provenzale~, p. 38.  L'usarono altri
+scrittori antichi; cfr. ^Voc. Crus.~  Il Nostro l'usa nuovamente
+^Parad.~ XXIII, 35.  Chi scrive |sovranza~, chi ^sobranza~ e chi
+^sopranza.~  La ^Crus.~ ha qu@i |sovranza~, notando: <sobranza;
+per la parentela del ^b~ e del ^v~>; poi, XXIII, 35 la ^Crus.~
+legge ^sobranza~ e nota: <Stampe |sovranza.~>  Il ^Blanc~ (^Voc.
+Dant.~ s. v.) osservava: <Sarebbe bene preferibile una delle due
+forme.>  ^Witte~ ha ^sopranza~ in ambedue i passi.  La forma
+|sovranza~ @e dei commentatori antichi, ^Benv. Ramb.~, ^Buti~,
+ecc.
+
+	|99.  Vince~: carit@a fervida e viva speranza vincono il
+volere divino, perch@e questo vuole esser vinto, e, l'esser cos@i
+vinto, @e vittoria della grazia.  Cfr. ^Tom.~  Il ^Manzoni~
+nell'Inno: ^La Pentecoste~: <E sia divina ai vinti Il Vincitor
+merc@e.>  -- |Beninanza~: benignit@a, bont@a: cfr. ^Parad.~ VII,
+143.  Altri leggono ^benignanza~, che il ^Nannuc.~ (^Anal.
+crit.~, p. 37 e seg.) pretende non essere il medesimo.  <Le voci
+|beninanza~ e ^benignanza~>, dic'egli, <non sono della medesima
+origine.  Dal lat. ^benignitas~ @e ^benignit@a anche ^benignanza~
+per la terminazione in ^anza~, diletta ai Provenzali ed a' nostri
+antichi; ed @e l'abituale disposizione dell'animo a far bene ad
+altri.  |Beninanza~ poi viene dal provenzale ^ben~ e ^anar~, cio@e
+^bene andare~; ^benanan~, ben andante, cio@e felice, prospero:
+^benanansa~, benandanza, cio@e felicit@a, prosperit@a.>  Ma lo
+stesso ^Nannuc.~ si vede costretto a confessare che <talvolta si
+sono confuse tra loro queste due voci>, asserendo tuttavia che
+ci@o avvenne per colpa dei copisti, e che i migliori codd.
+danteschi portano ^benignanza~ e non |beninanza.~  Veramente
+hanno |beninanza~ i quattro codd. del ^Witte~, il ^Cass.~, ^Fram.
+Pal.~, ^Vien.~, ^Stocc.~, ^Cort.~, ecc., ecc., insomma, non pure
+^i migliori~, ma pressoch@e ^tutti~ i codd., l'^Ott.~, ecc.
+
+	|100.  La prima~: Trajano, v. 43 e seg.  -- |La quinta~:
+Rif$eo, v. 67 e seg.  |Vita~ per ^anima~, come ^Parad.~ IX, 7;
+XII, 127; XIV, 6 e altrove.
+
+	|102.  La region~: i cieli.  Del resto gli scolastici
+insegnarono che il cielo ^est locus beatorum hominum, magis quam
+angelorum.~  Cfr. ^Thom. Aq.~ ^Sum. theol.~ P. I, qu. LXVI, art.
+3; qu. CII, art. 2; P. I, 2+a~e qu. XLVII, art. 3; P. II, 2+a~e qu.
+CLXXV, art. 3, ecc.  -- |Dipinta~: facendo parte dell'aquila ivi
+dipinta da Dio; cfr. ^Parad.~ XVIII, 109.
+
+	|103.  Suoi~: loro.
+
+	|105.  Quel de' passuri~: Rif$eo usc@i del corpo in ferma
+fede nella futura, Trajano nella gi@a stata passione di Cristo. 
+|Passuro~, supino lat.  -- Che deve, o, che @e per soffrire.  --
+|Passi~: che avevano patito; voce lat.
+
+	|106.  L'una~: Trajano.  Sulla leggenda della liberazione
+di Trajano dall'Inferno cfr. ^Purg.~ X, 75 nt.  Il P. ^D'Aquino~
+(III, 328) si scandalizza perch@e Dante dice che l'anima di
+Trajano ritorn@o dall'Inferno.  <Mi reca maraviglia il Poeta, il
+quale potendo senza pregiudizio della sua invenzione farlo
+ritornare a vita da un luogo separato, dove, secondo la vera e
+sicura dottrina, a tal bisogno fosse da Dio ritenuto, lo trae
+dall'Inferno, ove ^nulla est redemptio.~>  Lo stesso ripete il
+^Vent.~  Ma Dante si attenne alla leggenda, alla quale si attenne
+pure S. Tommaso, ^Sum. theol.~ P. III, Suppl. qu. LXXI, art. 5:
+^De facto Trajani hoc modo potest probabiliter aestimari, quod
+precibus B. Gregorii ad vitam fuerit revocatus, et ita gratiam
+consecutus sit, per quam remissionem peccatorum habuit, et per
+consequens immunitatem a poena: sicut etiam apparet in omnibus
+illi qui fuerunt miraculose a mortuis suscitati, quorum plures
+constat idololatras et damnatos fuisse.  De omnibus talibus enim
+similiter dici oportet, quod non erant in inferno finaliter
+deputati, sed secundum praesentem propriorum meritorum justitiam:
+secundum autem superiores causas, quibus praevidebantur ad vitam
+revocandi, erat aliter de eis disponendum.  Vel dicendum,
+secundum quosdam, quod anima Trajani non fuit simpliciter a reatu
+poenae aeternae absoluta; sed ejus poena fuit suspensa ad tempus,
+scilicet usque ad diem judicii.~  Dai versi 115 e seg. risulta,
+che Dante segu@i quest'ultima opinione.  ^Andr.~: <La tradizione,
+della quale un altro esempio @e riferito dall'Ozanam, scendeva pi@u
+al particolare, affermando che coloro fossero da Dio stati
+risuscitati per poco, quanto bastasse loro per credere a
+salvarsi.  Ed a questa attiensi il Poeta.>  ^Daniel~, ^Essai sur
+la Div. Com.~, p. 21.: ^Quant @a Trajan, il ne faut pas oublier
+qu'en le faisant revenir @a la vie, gr#ace aux pri@eres du pape
+saint Gregoire, Dante suivait simplement une tradition assez
+r$epandue au moyen-#age, dont il voulait #etre l'$echo fid@ele dans
+son po@eme.  La question capitale n'est point d'ailleurs de savoir
+si le fait est vrai, mais s'il r$epugne absolument @a
+l'enseignement catholique.  Or, pour se persuader qu'il n'en est
+rien, il suffit de se rappeler un r$ecit analogue, qui ne peut
+faire doute aux yeux des catholiques, puisqu'il est consign$e dans
+les actes authentiques de sainte Colette~ (cfr. ^Eug. de
+Margerie~, ^$Etudes litt$eraires~, p. 233).  ^L'important, c'est que
+jamais le po@ete n'introduise dans le ciel que des chr$etiens
+dignes de ce nom, soit qu'ils l'aient $et$e ouvertement, soit que,
+par ce travail int$erieur de la gr#ace, dont les ressources sont
+aussi diverses et aussi au-dessus de notre imagination que la
+sagesse divine est au-dessus de notre pauvre intelligence, ils
+soient morts en appartenant au corps mystque de l'Eglise. 
+L'important, c'est qu'il soit bien constat$e que jamais la vertu~
+purement humaine, ^si parfaite yu'elle nous semble, ne suffit
+pour obtenir le ciel.~  A noi pare ogni giustificazione del Poeta
+sia qu@i superflua.
+
+	|107.  A buon voler~: nell'inferno non c'@e pentimento. 
+^Thom. Aq.~ ^Sum. theol.~ P. III, Suppl. qu. XCVIII, art. 1. 
+^Obstinata voluntas nunquam potest flecti nisi in malum.  Sed
+damnati homines erunt obstinati sicut et doemones.  Ergo voluntas
+eorum nunquam poterit esse bona~....  ^Etsi aliquod bonum velint,
+non tamen bene volunt illud, au ex hoc voluntas eorum bona dici
+possit.~  Ibid. art. 2: ^Poenitere de peccato contingit
+dupliciter: uno modo per se; alio modo per accidens.  Per se
+quidem de peccato poenitet, qui peccatum, in quantum est peccatum,
+abominatur; per accidens vero qui illud odit ratione alicujus
+adjuncti, utpote poenae, vel alicujus hujusmodi.  Mali igitur non
+poenitebunt, per se loquendo, de peccatis, quia voluntas malitiae
+peccatis in eis remanet; poenitebunt autem per accidens, in
+quantum affigentur de poena quam pro peccato sustinent~..... 
+^Iniquitatem volunt, sed poenam refugiunt; et sic per accidens de
+iniquitate commissa poenitent.~  Nel ^Purg.~ XXIV, 84 chiama
+l'inferno: <la valle ove mai non si scolpa.>  -- |All'ossa~: a
+rianimarle di vita; cfr. ^Ezech.~ XXXVII, 2 e seg.
+
+	|108.  Speme~: della speranza che san Gregorio ebbe, che
+la misericordia di Dio esaudirebbe lui pregante per la vita di
+Trajano, il quale era morto.  ^Ott.~  E dicelo due volte, per
+mostrare l'affettuoso parlare che si dee avere in s@i grazioso
+trattato (?).  ^Lan.~, ^An. Fior.~  Della speranza di san
+Gregorio intendono coll'^Ott.~ anche ^Benv. Ramb.~, ^Vell.~,
+^Dan.~, ^Vent.~, ^Lomb.~, e tutti i moderni.  Invece ^Buti~: <Fu
+merito di viva speranza, che Trajano ebbe in Dio sempre che lo
+illuminerebbe de la sua fede e di quello che fusse sua salute, e
+questa speranza non perdette mai, anco sempre fu viva.>  Cos@i
+pure ^Land.~  E gi@a l'^Ott.~ aveva proposta questa
+interpretazione.  Ma nell'inferno (v. 106) l'anima di Trajano non
+poteva nutrire |viva speme.~  Inoltre nei versi seguenti il Poeta
+dice formalmente che parla di quella |viva speme~ di chi preg@o
+Iddio di risuscitare Trajano.
+
+	|109.  La possa~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Cass.~,
+^Fram. Pal.~, ^Vien.~, ^Stocc.~, ^Corton.~, ^Vicent.~, ^Rosc.~,
+^Ang.~, ecc.; prime 4 edd., ^Sessa~, ecc.; ^Benv. Ramb.~, ^Buti~,
+ecc.  ^Sua possa~: ^Vat.~, ecc.; ^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovil.~, ^Crus.~, ^Comin.~, ^Dion.~, ^De Rom.~, ^ed. Pad.~,
+^Viv.~, ^Sicca~, ^Quattro Fior.~, ^Fosc.~, ecc.  Troppi sono i
+codd. in favore della lezione da noi accettata.  Inoltre non si
+tratta della |possa~ o forza della speranza, s@i della forza della
+preghiera, messavi dalla viva speranza.  La lezione Divina speme,
+che @e del ^Berl.~, ^Caet.~, ^Cass.~, ^Folig.~, ^Jes.~, ^Nap.~
+(divine) ecc., @e da ritenersi per pretto errore, nato dall'aver
+letto ^diuina~ invece di ^diuiua.~
+
+	|111.  Sua voglia~: non, di Dio, che gi@a l'aveva
+condannata all'inferno (^Vell.~, ^Dan.~, ^Vent.~, ecc.); ma, la
+voglia di Trajano (^Benv. Ramb.~, ^Buti~, ^Land.~, ^Lomb.~, e
+tutti i moderni).  Bene ^Land.~: <Accioch@e la sua volont@a, la
+quale in inferno non poteva mutarsi a volere il bene, si mutasse
+nel corpo.>  ^Torel.~: <Intendi la voglia di Trajano a poter
+esser mossa dalla divina grazia alla fede.>
+
+	|113.  Poco~: visse ancora tanto da credere in Cristo.
+
+	|114.  In Lui~: in Cristo.
+
+	|116.  Alla morte seconda~: quando di nuovo mor@i.
+
+	|117.  Giuoco~: ^W. 4~, ^Cass.~, ^Fram. Pal.~, ^Cort.~,
+ecc.; prime 4 edd., ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~,
+^Crus.~, ecc.  ^Loco~: ^Vien.~, ^Stocc.~, ^3 Patav.~, ^Flor.~,
+ecc.; ^Lan.~, ^Anon. Fior.~, ^Benv. Ramb.~, ^Buti~, ^Viv.~, ecc. 
+La seconda lezione @e pi@u chiara, ma appunto per questo sospetta. 
+Leggendo |Giuoco~ alcuni spiegano: tripudio, festa (^Dan.~,
+^Vol.~, ^Vent.~, ^Ces.~, ^Greg.~, ^Andr.~, ecc.), altri, meglio:
+giocondit@a (^Lomb.~, ^Port.~, ^Pogg.~, ^Cost.~, ^Borg.~, ^Tom.~,
+^Br. B.~, ^Frat.~, ^Triss.~, ecc.).  <Il giuoco @e diletto e
+riposo>, dice S. Tommaso, ^Sum. theol.~ P. I, 2+a~e qu. I, art. 6;
+P. II, 2+a~e qu. CLXVIII, art. 2.  ^Picci~ (^I luoghi pi@u oscuri~,
+p. 264) crede che la lezione ^loco~ sia pi@u propria e pi@u aperta;
+ma l'autorit@a dei codd. @e per l'altra, che al ^Wagn.~ pare anche
+pi@u dantesca.  Infatti Dante chiama anche altrove ^giuochi~ i
+movimenti e la beatitudine degli eletti; cfr. ^Parad.~ XXXI, 133;
+XXXII, 103.
+
+	|118.  L'altra~: vita, v. 100, Rifeo.  -- |Per grazia~:
+aiutata dalla divina grazia.
+
+	|119-120.  Fontana~: la misericordia di Dio.  ^Ott.~:
+Discende dalla fontana profonda, cio@e da Dio, della quale fontana
+di grazia nulla creatura vide mai lo principio suo.  ^Buti~: Esce
+di s@i profonda fontana, che @e la providenzia di Dio che
+predestina chi ella vuole a salute, e predestina chi vuole a
+dannazione, che non fu mai creatura che pingesse l'occhio suo n@e
+della ragione n@e dell'intelletto |infino alla prim'onda~, cio@e a
+quella di sopra, non ch'egli vegga quella di sotto; cio@e non fu
+mai niuno che vedesse le ragioni da presso, non che quelle da
+lunga.  -- |Alla prim'onda~: al fondo.  ^Vell.~  Al principio ed
+origine di essa divina essenza; ma dice |onda~ per stare nella
+presa metafora della fonte.  ^Dan.~  Meglio: Fino al principio,
+all'origine della divina misericordia; cfr. ^Purg.~ VIII, 68, 69.
+
+	|121.  Laggi@u~: sulla terra.  -- |A drittura~: alla
+giustizia.  ^Canz.~  <Tre donne intorno al cuor mi son venute>,
+Str. 2, v. 17: <Son suora alla tua madre, e son Drittura.> 
+^Tom.~: <Dante fa che Rifeo pr grazia superna s'innamori della
+giustizia alla quale parola @e qu@i dato il senso evangelico pi@u
+ampio del virgiliano, e che egli, a questo dono corrispondendo,
+di nuova grazia in nuova grazia sia stato fatto degno di
+conoscere non so che della Redenzione futura.  E qu@i vedete
+segnati con verit@a d'osservazione umana insieme e di scienza
+divina i gradi della ascensione dell'anima: ch@e il primo impulso
+@e gratuito, ma per meritare il secondo, gratuito anch'esso,
+richiedesi il libero consentire dell'uomo, e il meritorio
+cooperare.  -- -- -- Credette potere di questo Rif$eo fare un
+simbolo delle anime che non conobbero la rivelazione
+direttamente, n@e per@o esplicitamente credettero in essa, e pur
+sono destinate a salute.  E gli piacque ch'e' fosse un cittadino
+di Troja, della citt@a da cui vennero alla sacra Roma ed al Lazio
+i sacrifizii e gli dei: e gli piacque che Rif$eo fosse nel ciglio
+dell'aquila accanto a' re, unico cittadino, per denotare
+l'uguaglianza che i meriti veri fanno in cielo, e cos@i
+dovrebb'essere sulla terra; per denotare che tra uomini privati
+pu@o essere, siccome dignit@a sacerdotale, cos@i pi@u che regia, e
+che nelle citt@a bene costituite, qualunque sia l'apparenza o il
+nome del reggimento, ciascun cittadino giusto partecipa della
+vera intima sovranit@a.>
+
+	|122.  Aperse~: ^Thom. Aq.~ ^Sum. theol.~ P. II, 2+a~e qu.
+II, art. 7: ^Multis gentilium facta fuit revelatio de
+Christo~.....  ^Si qui tamen salvati fuerunt quibus revelatio non
+fuit facta, non fuerunt salvati absque fide Mediatoris; quia etsi
+non habuerunt fidem explicitam, habuerunt tamen fidem implicitam
+in divina providentia, credentes Deum esse liberatorem hominum
+secundum modos sibi placitos, et secundum quod aliquibus
+veritatem cognoscentibus Spiritus revelasset.~
+
+	|124.  Ond'ei~: ^S. Cr.~, ^Trivulz. del 1337~, ^Antald.~,
+ecc.  La comune; ^Onde credette~, come veramente hanno i pi@u
+(^Vat.~, ^Berl.~, ^Caet.~, ^Cass.~, ^Fram. Pal.~, ecc.; prime 4
+edd., ^Ald.~, ^Crus.~, ecc.; ^Benv. Ramb.~, ^Buti~, ecc.  Ma
+^l'onde~ dei codd. doveva leggersi |ond'e'.~
+
+	|126.  Riprendiene~: ne riprendeva; cfr. ^Nannuc.~ ^Anal.
+crit.~, p. 140 e seg.  Al. ^Riprendeane.~  -- |Perverse~: non,
+malvagie (^Blanc~, ecc.), ma, pervertite dalla falsa credenza
+(^Tom.~, ^Andr.~, ecc.).  ^Buti~: Questa @e finzione del nostro
+autore, come lo lettore intelligente pu@o comprendere, che di
+questo non c'@e alcuna prova; cio@e che Rifeo troiano sia salvo; ma
+piacque a lui, per le parole che furno dette di lui da Virgilio,
+di fingere che gli fusse mostrato nel detto luogo ed adducere le
+cagioni che potrebbono essere state giustamente effettive della
+sua salute, per mostrare come si potrebbe salvare uno che fusse
+in s@i fatto caso, se a Dio piacesse servando l'ordine della
+giustizia divina, che sempre @e accompagnato dalla misericordia; e
+per dire ancora della predestinazione di Dio, che @e alta e
+profonda materia, sicch@e nessuna cosa de la santa Teologia
+rimagna non toccata da lui.
+
+	|127.  Donne~: Fede, Speranza e Carit@a; cfr. ^Purg.~
+XXIX, 121 e seg.  -- |Battesmo~: applica a Rifeo la teoria del
+battesimo di penitenza.  ^Thom. Aq.~ ^Sum. theol.~ P. III, qu.
+LXVI, art. 11: ^Aliquis per virtutem Spiritus sancti consequitur
+effectum baptismi, non solum sine baptismo aquae, sed etiam sine
+baptismo sanguinis, in quantum scilicet alicujus cor per Spiritum
+sanctum movetur ad credendum et diligendum Deum, et poenitendum de
+peccatis; unde etiam dicitur baptismus poenitentiae.~  S. August.
+De baptis. cont. Donat. lib. IV, c. 22: ^Invenio non tantum
+passionem pro nomine Christi, id quod baptismo deerat, posse
+supplere, sed etiam fidem conversionemque cordis, si forte ad
+celebrandum mysterium baptismi in angustiis temporum succurri non
+potest.~  Thom. Aq. Sum. theol. P. III, qu. LXVIII, art. 2:
+^Potest sacramentum baptismi alicui deesse re, sed non voto;
+sicut cum aliquis baptizari desiderat, sed aliquo casu praevenitur
+morte, antequam baptismum suscipiat, et talis sine baptismo
+actuali salutem consequi potest, propter desiderium baptismi,
+quod procedit ex fide per dilectionem operante, per quam Deus
+interius hominem sanctificat, cujus potentia sacramentis
+visibilibus non alligatur.~  Ibid. art. 3: ^Adultis subveniri
+potest per solum baptismi desiderium.~
+
+	|129.  Dinanzi~: prima della instituzione del battesimo. 
+-- |Pi@u~: dalla distruzione di Troja alla venuta di Cristo si
+contano 1184 anni.
+
+	|130-149.~  ^Il mistero della predestinazione.~  L'aquila
+conclude, che la predestinazione @e un abisso in cui occhio
+mortale non pu@o fissare lo sguardo.  E dall'imperscrutabile
+secreto della predestinazione deduce consiglio a non giudicare
+leggermente il destino futuro delle anime umane.  Collo stesso
+consiglio concludesi anco il canto XIII.  L@i finisce con donna
+Berta, e succede la comparazione dell'acqua in un vaso rotondo;
+qu@i, della beatitudine che @e cresciuta in cielo dallo stesso non
+poter comprendere la divina immensit@a, e succede l'immagine della
+cetra che segue il canto, e degli occhi che, battendo d'accordo,
+significano di pari l'unico affetto dell'anima.  Cfr. ^Tom.~,
+Append. al presente canto.  Intorno alle dottrine scolastiche
+della predestinazione cfr. ^Thom. Aq.~ ^Sum. theol.~ P. I, qu.
+XXIII, art. 1-8.  L'Aquinate, l. c. P. III, qu. XXIV, art. 1
+definisce: ^Praedestinatio proprie accepta est quaedam divina
+praeordinatio ab aeterno de his quae per gratiam Dei sunt fienda in
+tempore.~  Altrove, P. I, qu. XXIII, art. 2: ^Praedestinatio est
+quaedam ratio ordinis aliquorum in salutem aeternam in mente divina
+existens; executio autem hujus ordinis est passive quidem in
+praedestinatis, active autem est in Deo.~  Dante continua a
+trattarne nel canto seguente, sempre per dirci che @e
+incomprensibile.  ^Petr. Dant.~ rammenta la sentenza di S.
+Agostino, ^sup. Joan.~: ^Quare Deus aliquos praedestinavit,
+aliquos improbavit, non est dare rationem, nisi quod Deus
+voluit.~  Il ^Buti~: <Predestinazione @e quando Iddio prevede che
+alcuno sia salvato, che non pu@o essere che non sia; e prescienzia
+@e quando Iddio prevede che uno debbe essere perduto.  E perch@e
+l'autore parla qu@i de' salvati, per@o dice ^predestinazione~ e non
+^prescienzia.~>
+
+	|131.  Radice~: la ragione, il fondo.  -- |Aspetti~:
+sguardi; cfr. v. 70 e seg. 118 e seg.
+
+	|132.  Tota~: tutta; cfr. ^Parad.~ VII, 85 nt.
+
+	|133.  Stretti~: ritenuti, guardinghi.  Non v'allargate
+per tema d'errare.
+
+	|135.  Non conosciamo~: ^Vent.~: Conforme a quella
+Colletta della Chiesa: ^Deus, cui soli cognitus est numerus
+electorum in superna felicitate locandus.~
+
+	|136-138.  @Enne~: ci @e; cfr. ^Nannuc.~ ^Anal. crit.~, p.
+436 e seg.  -- |Scemo~: difetto di cognizione.  -- <Gli
+intelletti umani non possono penetrare nel consiglio profondo
+della divina mente, ch'@e la prima cagione di tutte le cose, per
+discernervi entro perch@e ella voglia pi@u tosto questo Gentile
+salvare, che quel Cristiano; il perch@e se l'anime de' beati che
+stando nel cielo e continuamente rimirando Iddio, non conoscono
+ancora tutti gli eletti, cos@i rispondendo ad una tacita
+obbiezione che si poteva fare a quelli beati, dicendo, che se
+essi non conoscevano tutti gli eletti, dovevano almeno desiderar
+di conoscerli, e non avendo in loro luogo cotal desiderio, ne
+seguiva che essi non fossero pienamente e compiutamente beati:
+onde soggiunge che cotal mancamento di perfezione @e loro caro,
+conciosia che tutto il bene e tutta la felicit@a loro consiste in
+contentarsi di volere solamente quello che a Dio piace; il perch@e
+non abbiamo noi mortali da dolerci di non poter aggiugnere alla
+cognizione della prescienza, o predestinazione di Dio, essendo in
+s@i oscure e folte tenebre (come veramente siamo) d'ignoranza
+involti e rinchiusi.>  ^Dan.~  -- |S'affina~: si perfeziona nel
+piacere di conformare del tutto la volont@a nostra a quella di
+Dio.  -- |Volemo~: vogliamo; cfr. ^Nannuc.~ ^Anal. crit.~, p. 759
+e seg.  Anticamente anche in prosa.  ^Buti~: <In questo sta la
+perfezione dei beati che elli vogliano ci@o che vuole Iddio.> 
+Concetto pi@u volte ripetuto.
+
+	|139.  Imagine~: aquila.  -- |Divina~: ivi dipinta da
+Dio, ^Parad.~ XVIII, 109, e raggiante di lui.  ^Buti~: Nella
+quale erano li beati spiriti che sono divini.
+
+	|140.  Farmi~: |farmi la mia~ @e modo famigliare, e tanto
+pi@u caro ed efficace.  ^Tom.~  Per ischiarire il mio corto
+intelletto.  ^Benv. Ramb.~
+
+	|142.  Citarista~: ^Conv.~ I, 11: <Il mal citarista
+biasima la citara, credendo dare la colpa del mal sonare alla
+citara, e lavarla da s@e.>  D'accordo con le parole dell'aquila,
+Rif$eo e Trajano brillano di luce pi@u gaudiosa, come il canto, se
+accompagnato dal suono si fa pi@u piacevole.  Cfr. ^L. Vent.~
+^Simil.~ 55, p. 34.
+
+	|143.  Lo guizzo~: il suono prodotto dal tremar delle
+corde toccate: la causa per l'effetto.  E la voce |guizzo~
+risponde alla similitudine, inquanto @e propria s@i all'oscillar
+delle corde, s@i al muover degli sguardi fiammeggianti.
+
+	|144.  In che~: per la quale oscillazione delle corde,
+pel quale accompagnamento di suono, il canto acquista maggior
+soavit@a.  ^Br. B.~
+
+	|145.  Parl@o~: l'aquila.  -- |S@i mi ricorda~: ^W. 4~,
+^Cass.~, ^Fram. Pal.~, ^Vien.~, ^Stocc.~, ^Cort.~, ^Ang.~, ^4
+Patav.~, ecc.; ^Folig.~, ^Jes.~, ^Nap.~, ecc.; ^Buti~, ecc.  ^S@i,
+mentre che parlossi, mi ricorda~: ^Ambr.~, ^Flor.~, ^Trivulz.~,
+ecc.; ^Mant.~, ^Vindel.~, ^Fil.~, ^Ven.~, ^Viv.~, ecc.  ^Mi si
+ricorda~: ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~, ecc.
+
+	|146.  Le due luci~: non, gli occhi dell'aquila (^Tom.~);
+ma, le due anime risplendenti di Rifeo e di Trajano (^Lan.~,
+^Ott.~, ^An. Fior.~, ^Post. Cass.~, ^Petr. Dant.~, ^Benv. Ramb.~,
+^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ^Vol.~, ^Vent.~, ^Lomb.~, ecc).
+
+	|147.  Dur~: concordi appunto come il battere degli
+occhi; cfr. ^Parad.~ XII, 25 e seg.
+
+	|148.  Con le parole~: pu@o valer tanto, che l'atto del
+muover delle fiammette s'accompagnava collo scoccare delle
+parole, rispondendo uno scocco all'altro; quanto, che nel tempo
+medesimo si comp$ia l'uno e l'altro.  ^Ces.~  -- Questo |con~ ha
+un senso di concordia e di armonia perfettissima, e fa
+corrispondere esattamente il moto delle fiammette alle parole. 
+^Bennas.~  -- Erano contente che si manifestasse di loro la
+gloria di Dio che riluceva in loro.  ^Buti.~

@@ -1,0 +1,24 @@
+  
+Document parameters:
+        Doc. type  = Description
+ 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+*** Line  14: Input line is too long (79 characters per line,
+maximum).
+ 
+Total Verification Errors: 1
+-rw-r--r--   1 dante    dante        556 Jan  7 12:43 staging/desc
+Using descriptive data from ../desc.
+ 
+Document parameters:
+        Doc. type  = Commentary
+        Commentary = Fosca
+        Language   = Italian
+        Pub. Year  = This represents the first publication of this
+commentary.
+        Cantica    = 10-Inferno
+

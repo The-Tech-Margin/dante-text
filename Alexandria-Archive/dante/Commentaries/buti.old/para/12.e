@@ -1,0 +1,948 @@
+|PARADISO CANTO 12~
+
+        |Proemio.~  ^S@i tosto come l'ultima parola~ ec.  Questo @e lo 
+XII canto di questa terza cantica\, nel quale lo nostro autore fingendo 
+come poeta induce a parlare maestro Buonaventura da Bagnoreo dell'ordine 
+dei frati minori de la santa vita di santo Domenico e della sua 
+nativit@a\, e del soccorso che diede a la chiesa d'Iddio col suo 
+predicare e col suo ordine; et a presso discende a dire dei frati minori 
+mostrando come sono mancati da la perfezione co la quale incominciorno; 
+e come nomina gli altri\, che l'autore finge che fusseno con lui nel 
+secondo cerchio ch'elli finge che cingesse lo primo detto di sopra.  E 
+dividesi questo canto\, secondo lo modo usato\, in due parti: imper@o 
+che prima finge come entr@o a parlare maestro Buonaventura de l'origine 
+di santo Domenico; nella seconda\, della vita sua santa e del suo 
+esercizio e dello sviamento dei frati minori dal loro principio\, e come 
+nomin@o gli altri beati che erano con lui nel cerchio\, et incominciasi 
+quine la seconda: ^Ben parve messo~ ec.  La prima\, che sar@a la prima 
+lezione\, si divide tutta in sei parti: imper@o che prima finge l'autore 
+che\, compiuto che ebbe di dire santo Tomaso le cose dette di sopra\, 
+incominci@o a girare lo suo cerchio che era intorno a lui et a Beatrice 
+et a cantare\, et apparvene uno altro intorno a quello nel quale finge 
+che fussono spiriti beati non di tanta perfezione di quanta quelli del 
+primo cerchio in scienzia et in santit@a\, tra' quali era m.o 
+Bonaventura; nella seconda finge e dimostra per similitudine come l'uno 
+cerchio inchiudea l'altro\, e come da quel d'entro nacque lo movimento 
+di quello di fuori\, et incominciasi quine: ^Come si volgen~ ec.; nella 
+terza finge come\, posato lo giro e lo canto\, uno dei beati spiriti del 
+cerchio di fuori incominci@o a parlare\, unde Dante si dirizz@o verso 
+lui\, et incominciasi quine: ^Poi che 'l tripudio~ ec.; nella quarta 
+parte finge come lo detto spirito parlando intr@o nella materia dei 
+detti due campioni\, per dire di santo Domenico poi che santo Tomaso 
+avea detto
+ di santo Francesco\, et incominciasi quine: ^L'esercito~ ec.; nella 
+quinta parte descrive lo luogo dove nacque santo Domenico\, et 
+incominciasi quine: ^In quella parte~ ec.; nella sesta parte incomincia 
+a dire della perfezione della sua vita e come fu santo infine da la sua 
+nativit@a\, et incominciasi quine: ^Poi che le sponsalizie~ ec.  Divisa 
+adunqua la lezione\, ora @e da vedere lo testo co l'esposizioni 
+litterali\, allegoriche e morali.
+
+        |1-9.~  In questi tre ternari lo nostro autore finge come al 
+fine del suo parlare fu venuto santo Tomaso\, lo suo cerchio incominci@o 
+a girare e non compie lo giro\, che uno altro cerchio apparve intorno a 
+quello rispondendo al moto et al canto lodando molto quel canto\, 
+dicendo cos@i: ^S@i tosto~; cio@e altres@i tosto\, ^come l'ultima 
+parola~; la quale fu: ^se non si vaneggia~\, come appare nel precedente 
+canto\, ^La benedetta fiamma~; cio@e santo Tomaso lo quale introdutto 
+dall'autore @ae parlato insino al principio di questo canto\, nel quale 
+l'autore introducer@a a parlare frate Bonaventura da Bagnoreo; e bene lo 
+chiama ^fiamma~: imper@o che sotto spezie di fiamma @ane introdutto 
+l'autore li spiriti beati apparire loro\, ^per dir tolse~; cio@e prese 
+per dire quella ultima parola\, cio@e ^si vaneggia — A rotar cominci@o 
+la santa mola~; cio@e incominci@o a girare lo circulo in che erano\, lo 
+quale appella ^mola~ per similitudine: imper@o che girava come fa la 
+mola\, cio@e la macina del mulino.  E questo finge l'autore\, per 
+dimostrare quello che @e stato detto di sopra\, cio@e che li beati 
+spiriti fanno moto circulare intorno a Dio: imper@o che\, da lui 
+incominciando lo loro intelletto a contemplare la sua infinita bont@a e 
+discorrendo per tutta la natura\, a lui ritornano godendo di lui et in 
+lui rallegrandosi.  E quando finge che parlino a lui et ad altri\, finge 
+che stiano salde\, perch@e lo intelletto non @e verisimile che allora 
+contempli Iddio: nella quale contemplazione sta la beatitudine umana; 
+ma\, finito lo parlamento\, finge che ritornino a la detta 
+contemplazione.  ^E nel suo giro~; cio@e nel suo circulare movimento\, 
+^tutta~; cio@e quella brigata di quelli santi spiriti\, ^non si volse~; 
+cio@e non compie di fare lo giro tutto\, ^Prima~; cio@e innanzi\, 
+^ch'un'altra~; cio@e che un'altra brigata di spiriti\, ^la chiuse~; 
+cio@e inchiuse quello cerchio di prima dei beati detti di sopra\, ^d'un 
+cerchio~; cio@e con uno altro cerchio; e per questo finge che 
+apparissono altri beati spiriti di mino
+r gradi che li detti di sopra\, e per@o finge che quelli di sopra che 
+furno in maggior grado di scienzia si girino pi@u presso al centro del 
+corpo del Sole\, e questi altri poi in uno altro cerchio pi@u distante 
+che circunda lo primo\, per mostrare che dalla scienzia di quelli di 
+prima furno illuminati et aiutati quelli secondi\, com'@e chiaramente: 
+imper@o che santo Tommaso fece opere nella santa Teologia che 
+illuminorno molto la santa Scrittura\, e chi la studia grande lume ne 
+riceve.  ^E moto a moto\, e canto a canto colse~; cio@e lo cerchio di 
+quelli di fuora accord@o lo suo moto e lo suo canto con quelli d'entro.  
+E per questo d@a ad intendere che concordia grandissima era tra loro e 
+che tutti s'accordavano a la contemplazione d'Iddio et a la loda sua\, 
+bench@e quelli di dentro pi@u dappresso\, e quelli di fuora pi@u 
+dilungi.  ^Canto~; ora manifesta che canto era quello\, mostrando la sua 
+perfezione dicendo\, ^che~; cio@e lo quale canto\, ^tanto vince nostre 
+Muse~; cio@e le nostre poetiche scienzie tanto avanza\, cio@e tutte le 
+fizioni che potessono fare li Poeti de le melodie del canto\, ^Nostre 
+Sirene~; che cose siano Sirene @e stato detto di sopra in questa opera; 
+ma qui l'autore le piglia per tutte le dolcezze del canto che possano 
+pi@u tirare a s@e lo sentimento umano\, ^in quelle dolci tube~; cio@e in 
+quelle dolci voci di quelli spiriti beati: certo le voci dei beati 
+spiriti vinceno ogni dolcezza di canto nella lode che rendeno a Dio\, 
+^Quanto primo splendor~; cio@e vince\, ^quel~; cio@e splendore\, ^che~; 
+cio@e lo quale\, ^rifuse~; cio@e che riverber@o poi di quindi\, cio@e 
+dal primo.  Ecco che dimostra per comparazione e per similitudine quanto 
+quello canto avanza tutti li canti mondani; cio@e tanto quanto lo primo 
+splendore avanza lo secondo che rifulge di quinde\, cio@e come quando lo 
+Sole manda li raggi suoi sopra una acqua\, e di quinde li riflette a 
+qualche parete: quanto lo primo splendore del Sole vince lo splendore 
+secondo che riflette a la parete\, tanto vince lo canto dei beati lo 
+canto de
+i mondani.
+
+        |10-21.~  In questi quattro ternari lo nostro autore\, volendo 
+dimostrare come stavano quelli due cerchi di beati intorno a lui et a 
+Beatrice\, arreca due similitudini; cio@e l'una a proposito\, e l'altra 
+a dimostrare l'assimigliato\, dicendo cos@i: ^Come si volgen per tenue 
+nube~; ecco la prima similitudine\, cio@e come alcuna volta si vedono 
+nell'aire due archi equidistanti nelle nube non troppo spesse\, dei 
+quali quello d'entro @e cagione di quello di fuora\, cio@e quello che @e 
+di verso lo Sole @e cagione dell'altro che viene pi@u di lungi dal Sole: 
+imper@o che lo primo si gira per li radi solari\, che perquotono nella 
+nuvula\, e di quinde si genera l'altro per riflessione di quelli radi a 
+l'opposita parte; cos@i vuole dare ad intendere che lo cerchio primo\, 
+finto da lui essere stato intorno a loro\, fu cagione ch'elli fingesse 
+come per riflessione l'altro cerchio di fuori\, acci@o che come nel 
+primo santo Tomaso\, introdutto da lui a dire delli due campioni della 
+Chiesa\, cio@e di santo Francesco e di santo Domenico\, si stendesse a 
+dire della santa vita di santo Francesco\, e finisce in reprensione dei 
+frati dell'ordine de' predicatori; cos@i frate Bonaventura\, che non fu 
+di quella profondit@a di scienzia\, fu introdutto da lui nel secondo 
+cerchio a dire prima della perfezione di santo Domenico e finire poi in 
+reprensione dei frati dell'ordine dei minori.  Et @ae usato qui l'autore 
+bella cautela\, per inducere li lettori a dare pi@u fede\, cio@e che 
+l'uno dica bene del cominciatore dell'altro ordine\, et e converso; e 
+ciascuno dica male del mancamento dei suoi frati dal fervore della 
+carit@a.  E per@o tocca per similitudine quello che dice Aristotile 
+nella sua Metaura\, come fu detto nella presente opera in altra parte\, 
+che l'arco appare nella nebbia non folta nell'aire\, imperfetto: imper@o 
+che non si vede\, se non quella parte che @e di verso lo nostro 
+emisperio\, l'altra met@a appare nell'altro et alcuna volta se ne vedono 
+due; cio@e quando @e tanto ampia la nebbia\, che vi possa essere rifle
+ssione; ma non si vede s@i chiaro quello che si fa per riflessione\, 
+dicendo: ^Come si volgen per tenue nube~; cio@e sottile e trasparente\, 
+cio@e che non sia troppo folta\, ^Due archi paralelli~; cio@e egualmente 
+distanti\, cio@e che dall'una parte non s'accostano insieme pi@u che 
+dall'altra\, cio@e lo primo che si cagioni dai raggi del Sole diretti 
+nella nube\, e l'altro dai raggi reflessi da quello nella parte 
+opposita\, ^e concolori~; cio@e et insieme d'uni medesimi colori\, cio@e 
+di rosso biadetto\, verde e bianco\, ^Quando Iunone~; cio@e quando la 
+moglie di Iove\, secondo la fizione poetica\, ^a sua ancilla~; cio@e a 
+sua serva\, che @e chiamata Iris\, ^iube~; cio@e comanda che vada a fare 
+qualche sua imbasciata: imper@o che li Poeti fingeno che Iris sia 
+messaggiera di Iunone e che la via sua sia a venire in terra per quello 
+arco\, come @e stato detto di sopra in altro luogo; cerchisi quine\, 
+^Nascendo di quel d'entro~; cio@e dell'arco d'entro\, cio@e di verso lo 
+Sole\, ^quel di fori~; cio@e quello che @e pi@u rimoto dal Sole; e cos@i 
+vuole dare ad intendere che lo ragionamento\, indutto da lui\, di santo 
+Tomaso\, che fu dei pi@u eccellenti\, fusse cagione d'inducere 
+quell'altro ragionamento di frate Bonaventura\, che fu di meno 
+eccellenzia di scienzia di lui\, sicch@e 'l pi@u eccellente fu cagione 
+di parlare del meno eccellente; e qui induce l'altra similitudine 
+poetica\, dicendo: ^A guisa del parlar~; cio@e a similitudine del 
+parlare\, ^di quella vaga~; cio@e di quella ninfa che fu chiamata Eco\, 
+che fu donzella di Iunone e di Iove\, e questa Eco fu una delle ninfe 
+dei monti.  E perch@e Iove non fusse trovato da Iunone quando ne' monti 
+stava co le ninfe\, intrava in parole con Iunone quando veniva per 
+trovarlo\, e tanto la teneva in parole che Iove era partito da loro; 
+unde Iuno fatta avveduta di ci@o\, le tolse la garrulit@a della lingua: 
+imper@o che\, essendo Eco grande parlatrice\, li fece che non potesse 
+parlare se non rispondendo e replicando le parole dette d'altrui\, et 
+anco non tutte; ma pur l'ult
+ime\, e che sempre stesse nei monti.  Avvenne caso che\, stando poi ne' 
+monti e ne le selve\, ella vidde Narcisso bellissimo iovano\, lo quale 
+era cacciatore\, e voleva servare castit@a\, del quale si fu 
+innamorata\, e dispregiata da lui tanto sdegno prese ch'ella s'appiatt@o 
+in una spelunca d'uno monte\, e tanto quine pianse che la carne tutta si 
+consumm@o\, e l'ossa si mutorno in sasso e rimase sola la voce\, la 
+quale al modo detto di sopra rispondea.  Questa fizione pone Ovidio Met. 
+nel terzio libro\, e gli spositori delle fizioni poetice diceno che 
+l'autore volse arrecare la cosa naturale a fizione\, e per quella 
+dimostrare quel che vuole che si vegga essere nella natura\, cio@e che ' 
+luoghi cavernosi danno reboato a la voce che perquote nell'aire vacuo\, 
+e l'aire vacuo riperquote nell'aire rinchiuso\, e cos@i rimbomba la 
+voce\, e non rimbomba tutta; ma solamente l'estrema parte; e questo 
+avviene perch@e l'aire percosso non pu@o integramente riperquotere: 
+conviene che per lo passamento dell'uno luogo a l'altro qualche parte 
+perda\, e perda quella che @e pi@u di lungi: pi@u di lungi @e la prima 
+che l'ultima\, e per@o si perde la prima.  Ma l'autore tocca questa 
+fizione a suo proposito\, dicendo che come lo rimbombamento procede da 
+la prima voce\, cos@i lo secondo parlare di frate Bonaventura nacque dal 
+parlare primo di santo Tomaso\, come nasce lo rimbombo del parlare che 
+@e dentro nel luogo chiuso nell'aire che @e nell'estremo che richiede 
+suo scialo\, e perch@e non l'@a\, rimbomba\, cio@e un'altra volta 
+riperquote.  ^Ch'amor~; cio@e lo quale amore di Narcisso\, ^consunse~; 
+cio@e consumm@o e fece tornare nulla\, ^come Sol vapori~; cio@e come 
+consumma lo Sole li vapori che esceno della terra\, e levansi suso in 
+aire; e finge che si consumm@o\, e l'ossa si mutorno in sasso\, a 
+denotare che questo reboato si fa nei monti e nelle selve che sono 
+sassose.  ^E fanno~; cio@e li detti archi\, ^qui~; cio@e in questo 
+mondo\, ^la gente esser presaga~; cio@e essere indivinatrice\, ^Del 
+mondo~; cio@e di questo mondo\, ^ch
+e~; cio@e lo quale\, ^giammai pi@u non s'allaga Per lo patto\, che Dio 
+con No@e pose~; cio@e che non si disf@a per diluvio\, come fece al tempo 
+di No@e.  E questo dice\, per accordarsi co la santa Scrittura\, 
+dicente: ^Ponam arcum meum in nubibus coeli~ ec.  Ecco che adatta la 
+similitudine: ^Cos@i di quelle sempiterne rose~; cio@e di quelle anime 
+beate che stavano in giro intorno a noi\, come due ghirlande stanno 
+intorno al capo l'una pi@u presso che l'altra\, quando sono fatte di 
+rose e poste in su uno capo\, ^Volgeansi circa a noi~; cio@e intorno a 
+Beatrice et a me\, ^le due ghirlande~; cio@e lo cerchio nel quale era 
+santo Tomaso\, e similmente lo cerchio di fuori nel quale era frate 
+Bonaventura\, ^E s@i~; cio@e e per s@i fatto modo\, ^l'estrema~; cio@e 
+quella di fuora\, ^all'intima~; cio@e a quella d'entro\, ^rispuose~; 
+cio@e col moto e col canto\, cio@e come risponde lo rimbombo a la voce 
+che @e dentro nell'aire ripercosso.  E cos@i frate Bonaventura\, che era 
+nel cerchio di fuori\, rispuose a santo Tomaso che era nel cerchio 
+d'entro\, cagionato dal suo parlare a s@i rispondere: imper@o che la 
+carit@a di santo Tomaso mosse a similmente parlare frate Bonaventura da 
+Bagnoreo di santo Domenico e dei suoi frati minori\, come santo Tomaso 
+avea parlato di santo Francesco e dei suoi frati predicatori.
+
+        |22-36.~  In questi cinque ternari lo nostro autore finge come 
+quelle beate anime feciono festa l'une a l'altre\, e come di quelle del 
+cerchio di fuori una incominci@o a parlare\, cio@e frate Bonaventura\, 
+dicendo cos@i: ^Poi che 'l tripudio~; cio@e lo ballo che girava 
+intorno\, come finge l'autore che girassono le dette anime: tripudio 
+@ene vocabulo grammaticale che significa ballo che giri in tondo\, ^e 
+l'altra festa grande~; cio@e che facevano le dette beate anime\, e 
+dichiar@o di che\, ^S@i del cantare e s@i del fiammeggiarsi~; due atti 
+tocca\, cio@e cantare: imper@o che\, come detto @e di sopra\, insieme 
+s'accordarono al canto et al moto\, e poi lo ^fiammeggiarsi~; cio@e 
+rispondere lo splendore dell'una a lo splendore dell'altra\, che era 
+segno d'avvicendevile carit@a e figurava l'alluminazione che avevano 
+ricevuto li secondi da' primi nella scienzia della Teologia\, e quella 
+che aveano dato li secondi a gli altri che doveano essere dopo loro.  
+^Luce con luce~; cio@e l'uno beato spirito coll'altro\, ^gaudiose~; 
+cio@e godenti et allegri\, ^e blande~; cio@e compiacenti l'uno a 
+l'altro\, ^Insieme al punto~; cio@e al fermamento del suo moto\, che @e 
+al punto d'ogni moto\, cio@e Iddio\, lo quale @e immobile et elli volge 
+ogni cosa\, ^et al voler~; cio@e al voler divino\, al quale ogni anima 
+beata si ferma\, ^quetarsi~; cio@e si riposarono l'una e l'altra rota\, 
+^Pur come li occhi~; ecco che arreca la similitudine che\, come li due 
+occhi s'accordano insieme ne l'omo a chiudersi et ad aprirsi a la cosa 
+obietta che li muove; cos@i quelle due circulazioni di spiriti insieme 
+girorno e cantorno et insieme si posorno; e per@o dice: ^ch'al piacer~; 
+cio@e a la cosa che piace a vedere\, ^che i move~; cio@e la quale li 
+muove\, cio@e gli occhi\, ^Conviene insieme chiudere e levarsi~; se gi@a 
+non volesse l'uomo studiosamente pure aprire l'uno e chiudere l'altro.  
+^Del cor dell'una~; cio@e dal cuore dell'una; e questo dice l'autore\, 
+per mostrare che parlava con affetto\, ^de le luci nove~; cio@e di 
+quelle che erano v
+enute poi\, cio@e del cerchio di fuori\, ^Si mosse voce~; cio@e s@i 
+fatta\, di tanta affezione di carit@a\, ^che l'ago a la stella Parer mi 
+fece~; cio@e che fece parere a me Dante che l'ago del bussolo\, che 
+portano li marinai per cognoscere\, quando @e che non possano vedere le 
+stelle\, dove sia la tramontana\, al segno della quale navigano\, fusse 
+fermato alla stella\, cio@e a la tramontana\, secondo la quale navigano 
+li marinai.  @Anno li naviganti uno bussulo che nel mezzo @e impernato 
+una rotella di carta leggieri\, la quale gira in sul detto perno\, e la 
+detta rotella @ae molte punte et ad una di quelle\, che v'@e dipinto una 
+stella\, @e fitta una punta d'ago; la quale punta li naviganti\, quando 
+vogliano vedere dove sia la tramontana\, imbriacano colla calamita 
+toccandola molto con quella\, e poi girano intorno al bussolo la detta 
+calamita\, e l'ago seguita la calamita\, e quando @anno fatto pigliare 
+lo moto di girare intorno\, rimoveno e cessano la calamita\, e stanno a 
+vedere quando si posa lo moto della detta rotella\, la quale sempre 
+ferma quine dove @e la tramontana\, et allora s'avvedono dove elli 
+sono\, che via debbono tenere; e cos@i per similitudine\, che si 
+contiene nel colore che si chiama significazione\, vuole dimostrare 
+l'autore che li par che quello spirito fusse fermato a Dio che @e 
+principio d'ogni cosa\, come si ferma l'ago a la tramontana dove @e lo 
+perno del moto del cielo\, ^e volger~; cio@e me Dante\, ^al suo dove~; 
+cio@e al suo luogo\, dove ella era\, fece\, ^E cominci@o~; cio@e la 
+detta voce: ^L'amor\, che mi fa bella~; cio@e l'amore dello Spirito 
+Santo che mi fa beata\, ^Mi tragge~; cio@e tira me beata anima\, ^a 
+ragionar dell'altro duca~; cio@e di santo Domenico\, lo quale @e uno dei 
+due campioni nominati di sopra\, ^Per cui~; cio@e per lo quale amore\, 
+^del mio~; cio@e campione\, di santo Francesco\, che fu campione di 
+frate Bonaventura\, lo quale @ae introdutto l'autore a parlare qui\, 
+^s@i ben ci si favella~; cio@e ci si fa ragionamento\, come appare di 
+sopra\, che disse santo
+ Tomaso\, introdutto a parlare dall'autore\, di santo Francesco.  ^Degno 
+@e~; ecco che dimostra che sia convenevile\, ^che dov'@e l'un~; cio@e 
+indutto\, ^l'altro s'induca~; ancora\, e dimostra la cagione\, ^S@i 
+che\, com'elli~; cio@e santo Francesco e santo Domenico\, che sono li 
+due campioni che combattettono per la fede di Cristo contra 'l mondo e 
+contra li eretici\, ^ad una~; cio@e insieme\, ^militaro~; cio@e s@e 
+esercitorno nella santit@a\, contra 'l mondo e contra li errori 
+combattendo: imper@o che concorsono in uno medesimo tempo santo 
+Francesco e santo Domenico\, ^Cos@i la gloria loro~; cio@e dei detti 
+campioni\, ^insieme luca~; cio@e risplenda gi@u nel mondo la fama loro e 
+la gloria che @anno in paradiso\, la quale publicano li predicatori de 
+la santa Chiesa\, e l'autore nostro la vuole publicare ai suoi lettori 
+sotto tali fizioni et introduzioni.
+
+        |37-45.~  In questi tre ternari lo nostro autore\, introdutto 
+frate Bonaventura a parlare di sopra di santo Domenico\, finge che 
+incominciasse in questa forma; cio@e: ^L'esercito di Cristo~; cio@e la 
+congregazione dei cristiani\, ^che s@i caro Cost@o a riarmar~; cio@e ad 
+armare un'altra volta: due volte arm@o Iddio la congregazione dei suoi 
+fideli; cio@e prima\, la sinagoga dei Iudei coi diece comandamenti; e 
+perch'ella si spolli@o di quelli\, riarm@o poi la santa Chiesa di quelle 
+medesime armi et adiunsevi li articoli della fede\, li sacramenti che 
+sono sette e co li Evangeli e co le virt@u e sante opere; la quale 
+armatura cost@o molto caro: imper@o che Cristo ne sostenne passione pi@u 
+aspra che si potesse mai sostenere\, ^dietro a la 'nsegna~; cio@e del 
+gonfalone della croce\, ^Si movea tardo~; cio@e lento nelle sue opere 
+virtuose\, che richiede la perfezione cristiana\, ^sospettoso~; cio@e 
+con molti dubbi\, siccome appare nelle sette delli eretici che s'erano 
+levati\, ^e raro~: imper@o che pochi la dottrina evangelica 
+seguitavano\, come si doveva\, ^Quando lo 'mperador~; cio@e lo sommo 
+signore\, che @e Iddio\, ^che sempre regna~; cio@e lo quale sempre 
+regna: lo regno d'Iddio non viene mai meno\, ^Providde~; col suo aiuto\, 
+^a la milizia~; cio@e a la santa Chiesa militante\, ^che era in forse~; 
+cio@e in dubbio\, ^Per sola grazia~; cio@e d'Iddio\, ^e non per esser 
+degna~; cio@e e non che per suo merito ne fusse degna.  ^E\, com'@e~; 
+cio@e e come @e\, ^detto~; cio@e di sopra\, ^a sua sposa soccorse~; 
+cio@e a la santa Chiesa che @e la sposa di Cristo\, e la santa Chiesa 
+militante @e la congregazione dei cristiani\, dei quali lo papa @e 
+capo\, come vicario di Cristo\, ^Con du' campioni~; cio@e con due 
+combattitori in campo che combattessono per lei contra gli errori degli 
+eretici\, contra i quali combattette santo Domenico; e contra li vizi 
+del mondo\, contra li quali combattette santo Francesco\, ^al cui fare~; 
+cio@e all'opere dei quali campioni\, ^e 'l cui dire~; cio@e et al dire 
+et a le prediche dei qua
+li\, ^Lo popolo~; cio@e cristiano\, ^sviato~; cio@e dalla santa Chiesa e 
+da la fede\, ^si raccorse~; cio@e si ravvidde del suo errore e ritorn@o 
+a la via diritta: imper@o che per la vita santa et esemplare di santo 
+Domenico e di santo Francesco\, e per le loro prediche molti si 
+raviddono dei loro errori.
+
+        |46-60.~  In questi cinque ternari lo nostro autore finge che 
+frate Bonaventura\, incominciando a parlare di santo Domenico\, 
+discrivesse e nominasse lo luogo dove nacque santo Domenico\, dicendo 
+cos@i: ^In quella parte~; cio@e de la terra\, ^ove~; cio@e nella quale\, 
+^surge ad aprire~; cio@e si leva per fare aprire\, ^Zefiro dolce~; cio@e 
+quello vento cos@i chiamato che si leva nell'occaso di verso mezzo d@i 
+pi@u presso a l'occaso che a mezzo d@i; e chiamalo ^dolce~; perch@e @e 
+dilicato vento e fiata nella primavera\, e per questo intende la parte 
+occidentale\, ^le novelle fronde~: imper@o che nella primavera soffia lo 
+vento zefiro\, et allora gli albori e l'erbe mettono fuora le fronde\, 
+^Di che~; cio@e delle quali frondi\, ^si vede Europa rivestire~; cio@e 
+ricoprire la sua terra di fronde e d'erbe\, e li suoi arbori di foglie; 
+notando in questa parte che Europa @e una delle tre parti del mondo\, et 
+@e situata in questa forma; da tramontana infine all'occaso cinta dal 
+mare oceano e divisa da Africa per lo mare Mediterraneo.  Et @ae 
+l'autore descritto questa parte per lo vento zefiro che @ae pi@u 
+potenzia in essa che nell'altre\, et @ae seguitato Boezio che dice nel 
+primo libro della Filosofica Consolazione: ^Ut quas boreae spiritus 
+aufert\, Revehat mitis Zephyrus frondes~.  Pone Boezio che borea\, che 
+soffia lo verno\, faccia cadere le fronde\, e che zefiro che soffia la 
+primavera faccia rivestire li arbori e l'erbe di nuove frondi\, e sono 
+contrari venti l'uno a l'altro.  Diceno gli altori essere quattro venti 
+cardinali; cio@e principali\, che ciascuno viene per diritto dall'una 
+delle quattro parti; cio@e da oriente\, Subsolano; da occaso\, Favonio; 
+da settentrione\, Aquilo; da mezzo d@i\, Austro; e ciascuno di questi 
+n'@ae due collaterali\, cio@e Subsulano @ae di verso settentrione 
+Vulturno\, e di verso mezzo d@i Euro; et Aquilo @ae di verso oriente 
+Borea\, e di verso occidente @ae Coro; e Favonio @ae di verso 
+settentrione Circio\, e di verso mezzo d@i Zefiro; et Austro @ae di 
+verso l'occaso Africo\,
+ e di verso l'oriente Noto.  E cos@i sono dodici venti\, li quali 
+stanno\, come appare in questa figura posta qui di sotto; e questo luogo 
+che @ae descritto si @e la Spagna\, nella quale nacque santo Domenico.  
+^Non molto lungi al percuoter dell'onde~; cio@e dell'oceano e per questo 
+d@a ad intendere che la citt@a\, che nominar@a ora\, @e presso al mare 
+oceano\, ^Dietro a le quali~; cio@e onde\, ^per la lunga foga~; cio@e 
+per la quale altezza lunga\, da la quale cade quando @e al Tropico 
+estivale lo Sole che @e pi@u alto che possa essere\, ^Lo Sol tal volta~; 
+cio@e alcuna volta\, non sempre\, ^ad ogni om si nasconde~; perch@e 
+quando fa l'occaso suo quine\, ad ogni uno parimente s'appiatta\, ^Siede 
+la fortunata Caleroga~; cio@e quella citt@a cos@i chiamata\, la quale 
+dice ^fortunata~; cio@e bene avventurata\, pensando che quine nacque s@i 
+fatto uomo come fu santo Domenico; et interpetrano alquanti questo nome 
+^Caleroga~; cio@e buona preghiera: imper@o che vi nacque colui che fu 
+buono oratore\, cio@e santo Domenico\, ^Sotto la protezion~; cio@e sotto 
+la difensione\, ^del grande scudo~; cio@e del grande defensore\, cio@e 
+del re di Spagna\, cio@e di Castella che porta per sua arme lo leone; ma 
+qui pone lo scudo per lo defensore: imper@o che\, come lo scudo difende 
+l'uomo che si cuopre con esso; cos@i le citt@a sono difese da la 
+potenzia del re\, sotto lo quale sono\, ^In che~; cio@e nel quale 
+scudo\, ^soiace il Leone~: imper@o che sta di sotto al castello che v'@e 
+dipinto nell'una met@a dello scudo\, ^e soioga~; cio@e lo leone che v'@e 
+dipinto\, cio@e nell'altra met@a: imper@o che lo re di Spagna\, cio@e di 
+Castella\, fa l'arme sua in questa forma\, cio@e uno scudo grande con 
+quattro quartieri\, dei quali nei due dall'uno lato nell'uno @e lo 
+castello\, cio@e nel quartieri di sopra\, et in quello di sotto @e lo 
+leone\, e negli altri due nell'uno quartieri di sopra @e lo leone et in 
+quello di sotto @e lo castello\, e cos@i nell'uno lato lo leone soiace 
+al castello e nell'altro lato lo leone soiuga lo castello.  E quest
+o significa che al principio furno due Spagne; l'una di qua che si 
+stende al settentrione infine a Cartagine di Spagna; e l'altra di l@a 
+che @e da Celtiberi popoli infine al mare oceano gaditano in verso lo 
+mezzo d@i.  E sono in essa due regni\, che l'uno si chiama re di 
+Spagna\, e l'altro re di Castella\, lo quale @e potentissimo re e 
+difende lo re di Granata\, che @e infidele\, per lo grande tributo che 
+li d@a\, lo quale sarebbe combattuto dagli altri re cristiani che sono 
+intorno a lui\, se non fusse la defensione del re di Castella.  
+^Dentro~; cio@e in Caleroga\, ^vi nacque l'amoroso drudo~; cio@e santo 
+Domenico che fu amoroso amatore: ^drudo~ tanto viene a dire\, quanto 
+amatore\, ^Della Fede cristiana~\, santo Domenico am@o eccessivamente la 
+fede di Cristo tanto\, che per quella si misse a combattere contro li 
+eretici e contra li infideli et a dirizzare li cristiani co la sua 
+dottrina\, ^il grande atleta~; cio@e lo grande campione: atleta @e 
+vocabulo grammaticale che viene a dire uomo apparecchiato a combattere 
+insino a la morte\, ^Benigno a' suoi~; cio@e cristiani\, ammonendoli e 
+correggendoli caritativamente\, ^et a' nimici crudo~; cio@e duro a li 
+eretici et a li infideli\, impugnandoli colli argomenti e colle ragioni 
+della santa Teologia.  ^E come fu creata~; cio@e l'anima di santo 
+Domenico\, ^fu repleta~; cio@e ripiena\, ^L'anima sua~; cio@e di santo 
+Domenico\, ^di divina virtute~: imper@o che fu santificata nel ventre 
+della madre\, ^Che~; cio@e la quale divina virt@u\, ^ne la madre~; cio@e 
+sua di santo Domenico\, che ebbe nome Ioanna\, ^lei~; cio@e l'anima di 
+santo Domenico\, ^fece profeta~; cio@e la divina virt@u fece l'anima di 
+santo Domenico\, essente nel ventre della madre\, profeta\, sicch@e la 
+madre per quella virt@u che era in quella anima profet@o\, dicendo che 
+quello ch'ella aveva nel ventre sarebbe uno santo uomo.  Ecco che 
+profet@o che sarebbe figliuolo maschio e che sarebbe santo e cos@i fu; e 
+spuose lo sogno ch'ella fece\, cio@e che avendo sognato ch'ella 
+parturiva uno cane bianco e nero c
+he portava una fiaccola in bocca che tutto lo mondo incendea\, ella 
+spuose lo sogno dicendo ch'ella parturirebbe uno figliuolo che colla 
+scienzia sua illuminerebbe tutto lo mondo\, e colla sua ardente carit@a 
+incenderebbe li altri ad amare Iddio.  E cos@i fu; che fatto monaco 
+divent@o sofficientissimo teologo\, sicch@e dimand@o al papa di potere 
+andare a disputare colli eretici\, come si dir@a di sotto; et essendo 
+iovanetto seculare dato a lo studio\, tutti li suoi libri vendette e 
+dispens@o li danari ai poveri di Cristo per amore suo\, e poi si fece 
+monaco e poi fece religione di frati mendicanti predicatori della parola 
+d'Iddio et ammaestratori del mondo ne la via d'Iddio\, s@i come appare 
+nella sua leggenda.  Seguita.
+
+        |61-72.~  In questi quattro ternari lo nostro autore finge che 
+frate Bonaventura\, seguitando lo suo parlare di santo Domenico\, dica 
+della sua santit@a che ebbe infine dalla sua nativit@a\, dicendo: ^Poi 
+che le sponsalizie~; chiama sponsalizie qui l'autore le promessioni che 
+si fanno\, quando lo fanciullo si battezza\, e per@o dice 
+^sponsalizie~\, che @e vocabulo che viene da ^spondeo~ che sta per 
+promettere\, ^fuor compiute~; cio@e le promessioni furno compiute di 
+fare\, ^Al sacro fonte~; cio@e a la fonte del battesimo\, ^tra lui e la 
+Fede~; cio@e tra santo Domenico e la fede cristiana\, a la quale lo 
+fanciullo si lega per promessione de' patrini che parlano per lui et 
+addimandano per lui\, come appare nella forma del battesimo ne la quale 
+dimanda lo sacerdote per la santa Chiesa: ^Quid petis ab Ecclesia Dei?~  
+et ellino rispondono: ^Fidem~.  E lo sacerdote dimanda: ^Fides quid tibi 
+praestat?~  e li patrini rispondono: ^Vitam aeternam~; e dimanda: ^Vis 
+baptizari?~  et ellino rispondono per lo fanciullo: ^Volo~; et anco 
+dice: ^Abrenuntia Sathanae et pompis eius~; et ellino rispondono: 
+^Abrenuntio~; e cos@i @e promessione tra lo fanciullo e la fede\, come 
+appare di sopra\, ^U'~; cio@e a lo qual fonte del battesimo\, ^si 
+dotar~; cio@e per lo fanciullo santo Domenico che prese per sua donna la 
+fede\, e la fede insieme che prese lui per sposo\, ^di mutua salute~; 
+cio@e d'avvicendevile salute: imper@o ch'elli promisse a lei di 
+difenderla da coloro che la volevano corrompere; cio@e dagli eretici\, 
+et ella promisse a lui vita eterna.  ^La donna che per lui l'assenso 
+diede~; cio@e la santula\, cio@e la matrina\, che lo present@o al 
+battesimo e rispuose per lui\, ^Vidde 'l nel sonno~; cio@e quando 
+dormiva sogn@o\, ^il mirabil frutto~; cio@e lo meraviglioso frutto\, 
+^Ch'uscir~; cio@e lo quale frutto uscire\, ^dovea di lui~; cio@e di 
+santo Domenico\, ^e de le rede~; cio@e e de' frati suoi\, che sono eredi 
+della sua santit@a et onest@a di vita e della sua santa operazione del 
+predicare\, col quale @anno fatto grand
+e frutto della chiesa d'Iddio.  Trovasi nella leggenda di santo Domenico 
+che la santula sua\, che l'aveva tenuto al battesimo\, sogn@o ch'ella 
+vedeva nella fronte di santo Domenico una stella che illuminava tutto lo 
+mondo\, la quale figurava che la dottrina di santo Domenico e de' suoi 
+frati dovea essere lume di tutta la cristianit@a\, e di tutti gli omini 
+che a la fede si volessono convertire.  ^E perch@e fusse~; cio@e santo 
+Domenico tale in nome\, ^quale era costrutto~; cio@e chente era ordinato 
+da Dio\, che fusse in opera\, ^Quinci~; cio@e da questa cagione\, ^si 
+mosse Spirito~; cio@e si mosse spirazione divina\, discesa nel padre e 
+ne la madre\, ^a nomarlo~; cio@e a nominarlo\, ^Del possessivo~; cio@e 
+del nome possessivo\, ^di cui~; cio@e di colui del quale\, ^era tutto~; 
+cio@e santo Domenico fu nominato per ispirazione divina Domenico\, che 
+@e nome possessivo che si deriva da questo nome ^dominus~\, secondo che 
+dice lo Grammatico; e viene a dire ^dominicus~\, cosa del Signore\, e 
+cos@i Domenico omo del Signore\, cio@e Iddio: imper@o che d'Iddio fu 
+tutto.  Et ecco che 'l dichiara: ^Domenico fu detto~; cio@e uomo del 
+Signore\, d'Iddio\, come dimostrorno le sue opere\, ^et io~; cio@e frate 
+Bonaventura\, ^ne parlo S@i come de l'agricola~; cio@e siccome del 
+lavoratore del campo\, cio@e della cristiana congregazione\, ^che~; 
+cio@e lo quale\, ^Cristo~; cio@e lo nostro Salvatore\, ^Elesse all'orto 
+suo~; cio@e della Chiesa santa\, ^per aiutarlo~; cio@e per aiutare la 
+santa Chiesa\, acci@o che crescesse e non mancasse\, come era 
+incominciato a mancare per le sette degli eretici che erano levate\, le 
+quali santo Domenico confut@o co le sue ragionevili disputazioni\, et 
+estirp@o e divelse li loro errori dell'orto della Chiesa\, come fa lo 
+buono agricola quando bene coltiva e netta lo suo campo.  E qui finisce 
+la prima lezione del canto XII\, et incominciasi la seconda.
+        ^Ben parve messo~ ec.  Questa @ene la seconda lezione del canto 
+XII\, ne la quale lo nostro autore finge come maestro Bonaventura\, 
+seguitando lo suo ragionamento della perfezione di santo Domenico infine 
+a la morte sua successivamente\, discende poi a riprensione dei suoi 
+frati minori\, siccome finse l'autore che santo Tomaso descendesse a 
+riprensione dei suoi frati predicatori.  E dividesi tutta in sei parti: 
+imper@o che prima finge come maestro Bonaventura\, ragionando di santo 
+Domenico\, disse della perfetta carit@a che ebbe in verso Iddio et in 
+verso lo prossimo; nella seconda\, come infiammato de la carit@a del 
+prossimo dimand@o dal papa licenzia di potere confutare li eretici\, et 
+incominciasi quine: ^Et a la sede~ ec.; nella terzia parte dimostra come 
+convinse li eretici e come fece religione nella quale santamente 
+moritte\, et incominciasi quine: ^Poi con dottrina~ ec.; nella quarta 
+finge l'autore come maestro Bonaventura\, finito lo parlamento de la 
+vita santa di santo Domenico\, intr@o a parlamento dei suoi frati 
+minori\, et incominciasi quine: ^Se tal fu l'una~ ec.; nella quinta 
+finge l'autore come maestro Bonaventura si manifesta chi elli @e\, e 
+similmente gli altri che sono con lui\, et incominciasi quine: ^Io son 
+la vita~ ec.; nella sesta parte finge l'autore che maestro Bonaventura 
+manifesta la cagione che lo indusse a parlare di santo Domenico\, et 
+incominciasi quine: ^Ad inveggiar~ ec.  Divisa adunqua la lezione\, ora 
+@e da vedere lo testo co l'esposizioni litterali\, allegoriche e morali.
+
+        |73-87.~  In questi cinque ternari lo nostro autore finge come 
+frate Bonaventura\, continuando lo suo parlare dei frati di santo 
+Domenico\, dice del processo della sua santa vita poi che @ane detto 
+della sua concezione e nativit@a\, dicendo: ^Ben parve messo e familiar 
+di Cristo~; cio@e santo Domenico ben parve nel principio della sua vita 
+messo d'Iddio e familliare suo: ^Ch@e 'l primo amor~; cio@e imper@o che 
+'l primo amore\, ^che 'n lui~; cio@e lo quale in lui\, cio@e in santo 
+Domenico\, ^fu manifesto~; cio@e fu cognosciuto essere in lui 
+publicamente: imper@o che accidentalmente ebbe quello che seguita poi; 
+ma non fu mondano\, come @e quello delli altri uomini; ma fu divino\, 
+come appare per quello che seguita\, ^Fu al primo consillio che di@e 
+Cristo~; siccome appare ^Matthaei~\, disse Cristo consigliando: ^Si vis 
+perfectus esse\, vade\, vende quae habes\, et da pauperibus: sequere 
+me~; e cos@i fece santo Domenico\, come appare nella sua leggenda che\, 
+essendo nella sua puerizia a studio\, vendette tutti li suoi libri e 
+ci@o che aveva\, e distribuitte il pregio in sussidio de' poveri di 
+Cristo\, essendo una grande fame in quel tempo; e per questo venne a 
+notizia al vescovo della terra la sua santit@a e fecelo canonico 
+regulare\, et intese a lo studio poi della santa Teologia.  Molte cose 
+disse Cristo\, predicando al populo\, che quale era comandamento e quale 
+era consillio; questo che detto @e di sopra fu consillio a coloro che 
+volessono avere perfezione di carit@a.  ^Spesse fiate~; ora tocca 
+l'amore ch'egli ebbe in verso Iddio\, lo quale sempre port@o occulto nel 
+suo cuore: l'amore del prossimo non si pu@o occultare\, conviene pur 
+venire in publico; e per@o di questo amore occulto parla ora\, dicendo 
+ora: ^fu tacito e desto~; cio@e essendo infantulo\, che anco stava 
+appresso la nutrice\, spesse volte fu trovato da lei uscito del letto in 
+terra ginocchione\, svegliato innanti a la figura ad adorare\, ^Trovato 
+in terra dalla sua nutrice~; di che molto ella si maravigliava\, che 
+cos@i fanciullino uscisse
+ della culla o del letto e stesse ginocchione ad orare\, ^Come dicesse~: 
+cio@e santo Domenico: ^Io son nato a questo~; cio@e ad essere oratore e 
+servitore d'Iddio.  ^O padre suo veramente Felice!~  Finge qui l'autore 
+che maestro Bonaventura usasse esclamazione per ammirazione\, approvando 
+lo padre di santo Domenico essere felice in fatto come elli era in nome: 
+imper@o che 'l nome suo era Felice\, che viene a dire bene avventuroso: 
+veramente fu bene avventuroso\, avendo s@i fatto figliuolo per li cui 
+meriti elli acquistasse vita eterna.  E perch@e la madre sua ebbe nome 
+Ioanna\, che s'interpreta piena di grazia\, per@o dice: ^O madre sua 
+veramente Ioanna~; s'intende\, fu in tale figliuolo\, ^Se 'nterpretata~; 
+cio@e Ioanna\, ^val\, come si dice~; cio@e piena di grazia\, che 
+veramente fu piena di grazia avendo tale figliuolo\, chente fu santo 
+Domenico!  ^Non per lo mondo~; ecco che seguita a dire delle sue 
+perfezioni\, dicendo che non per amor del mondo\, come fanno molti\, 
+^per cui~; cio@e per lo qual mondo\, ^mo~; cio@e nel presente tempo\, 
+^s'affanna~; cio@e si dura fatica da' decretalista\, ^Dietro ad Ostiense 
+et a Taddeo~; questo Ostiense e Taddeo furno due cardinali grandi 
+decretalisti\, e scrissono sopra li Decretali e dierno la dottrina del 
+piatire nella corte ecclesiastica; nella quale scienzia al presente li 
+decretalisti s'affaticano\, per guadagnare da coloro che piatiscono per 
+li benefici\, ^Ma per amor della verace manna~; cio@e per amore della 
+vera dottrina che ciba l'anima\, cio@e della santa Teologia\, ^In 
+picciol tempo~: imper@o che in brieve tempo impar@o\, ^gran dottor si 
+feo~; cio@e santo Domenico\, ^Tal~; cio@e s@i fatto Dottore\, ^ch'ei~; 
+cio@e che elli\, ^si misse~; cio@e santo Domenico\, ^a circuir~; cio@e a 
+fortificare e scepare intorno\, ^la vigna~; cio@e la santa Chiesa\, 
+fortificandola co le ragioni della santa Teologia e della fede 
+cristiana\, ^Che~; cio@e la qual vigna\, cio@e la qual fede\, ^tosto 
+imbianca~; che @e segno che ella secchi\, ^se 'l vignaio~; cio@e lo 
+terreno in che @e pi
+antata la vigna\, ^@e reo~; cio@e @e malo terreno e non fertile a 
+notricare e mantenere verde la vigna.  E cos@i la fede tosto viene 
+meno\, s'ella @e in mali omini\, non fertili della grazia d'Iddio; e 
+cos@i usa l'autore lo colore significazione per similitudine\, parlando 
+de la fede sotto nome di vigna e degli uomini\, ne' quali ella @e\, 
+sotto nome di terreno.
+
+        |88-96.~  In questi tre ternari lo nostro autore finge come 
+maestro Bonaventura\, seguitando lo suo parlamento de la vita di santo 
+Domenico\, raccont@o come santo Domenico impetr@o da papa Innocenzio 
+licenzia di potere predicare la parola d'Iddio al popolo\, dicendo 
+cos@i: ^Et a la sede~; cio@e apostolica\, ^che~; cio@e la quale\, ^fu 
+gi@a benigna Pi@u~; cio@e che non @e al tempo presente\, ^a' poveri 
+iusti~; cio@e a' poveri iusti\, cio@e ai poveri onesti\, non ai 
+gallioffi: soleano li prelati della santa Chiesa li beni della Chiesa 
+partire in quattro parti; la prima parte de la persona del prelato; la 
+seconda dei cherici che servono lui e la Chiesa; la terza\, per 
+l'adornamento della Chiesa; la quarta\, dei poveri di Cristo; la quale 
+divisione da pochi oggi s'osserva\, e per@o dice l'autore fingendo che 
+'l dica maestro Bonaventura: ^non per lei~; cio@e non per la colpa della 
+sedia @e venuta questa tepidezza nei prelati della santa Chiesa\, che 
+non fanno la detta divisione\, ^Ma per colui~; cio@e ma per colpa di 
+colui\, cio@e del prelato\, ^che i siede~; cio@e lo qual siede ne la 
+detta sedia\, ^e che traligna~; cio@e si diparte dalla virt@u delli 
+antichi prelati\, che seguitavano li modi di Cristo e di santo Piero suo 
+vicario\, e delli altri che seguitorno santo Piero\, ^Non dispensare o 
+due o tre per sei~; addimand@o santo Domenico\, s'intende\, come 
+addimandano molti che\, essendo obligati a rendere a la Chiesa alcuna 
+quantit@a di pecunia o a' poveri per alcuno testamento\, addimandano dal 
+papa o da altro prelato che 'l possa fare\, che dispensi che\, dando lo 
+terzo o vero lo meno\, sia assoluto da l'avanzo\, ^Non la fortuna di 
+primo vacante~; addimand@o\, s'intende\, santo Domenico; e qui tocca 
+l'altro dimando che molti fanno al sommo pontifice\, cio@e lo beneficio 
+del canonicato al primo vacante o d'altro beneficio\, aspettando e 
+desiderando che colui che v'@e muoia\, et elli succeda\, ^Non decimas\, 
+quae sunt pauperum Dei\, Addimand@o~; cio@e santo Domenico non 
+addimand@o d'avere le decime d'una con
+trata come dimandano al presente molti: sono tenuti li cristiani dare le 
+decime de' loro frutti e de' loro guadagni ai suoi cappellani e rettori 
+delle loro chiese\, come fu tenuto ancora lo popolo d'Iddio\, come 
+appare nella Bibbia Esodi III; le quali decime d@e dispensare lo rettore 
+ai poveri di Cristo\, e lo papa le dispensa alcuna volta ad altra cosa; 
+de le quali decime possano li rettori dispensare coi suoi parrocchiani 
+licitamente per uno candelo di libbra l'anno\, come comunemente s'usa\, 
+^ma contra 'l mondo errante Licenzia di combatter~; cio@e addimand@o 
+santo Domenico dal papa licenzia che elli e li suoi frati potessono 
+predicare l'Evangelio di Cristo publicamente al populo\, lo quale errava 
+per ignoranzia ne la fede\, et abandonava la vera via delle virt@u\, 
+^per lo seme~; cio@e per la fede che @e seme che produce lo miglior 
+frutto\, che mai producesse seme alcuno\, cio@e vita eterna\, come fu 
+detto di sopra: ^Fides quid tibi praestat?  Vitam aeternam~; e seguita 
+l'autore qui lo parlare colorato di quello Evangelio\, che dice: ^Exiit 
+seminator seminare semen suum\, et aliud~ ec.  — ^Di che~; cio@e del 
+qual seme\, ^si fascian vintiquattro piante~; cio@e ventiquattro libri 
+della Bibbia che tutti parlano della fede cristiana\, et a tutti @e 
+necessario di dare fede se vogliamo venire a la conclusione de la santa 
+Teologia\, come di queste piante @e stato detto nella seconda cantica 
+nel canto XXXIX.
+
+        |97-105.~  In questi tre ternari lo nostro autore finge come 
+maestro Bonaventura\, continuando lo suo parlare di santo Domenico\, 
+dice come santo Domenico avuto licenzia dal papa di predicare contra gli 
+eretici e fatto inquisitore de' patarini\, molto li convinse; e cos@i 
+dei suoi poi diversi furono fatti predicatori de la parola d'Iddio\, 
+dicendo cos@i: ^Poi con dottrina~: imper@o che santo Domenico fu pieno 
+di molta dottrina\, co la quale nella fede predicando\, molto lo popolo 
+ammaestrava\, ^e con voler~; cio@e e con volunt@a grande di convincere 
+gli errori\, ^insieme Coll'officio apostolico~; cio@e collo oficio de la 
+inquisitoria che li fu conceduto dal papa\, ^si mosse~; cio@e santo 
+Domenico\, ^Quasi torrente~; cio@e quasi fiume che scende di monte: 
+imper@o l'autorit@a sua scendeva dal papa\, che @e lo pi@u alto officio 
+che sia\, ^ch'alta vena prieme~; cio@e che vena d'acqua\, che vegna 
+d'alto\, spinga: quando la vena dell'acqua del fiume viene d'alto\, 
+allora corre pi@u rapidamente e pi@u fortemente\, ^E nelli sterpi 
+eretici percosse~; come lo fiume\, che viene d'alto\, caccia a terra 
+pietre et arbori; cos@i santo Domenico andando co la autorit@a papale e 
+colla santit@a sua\, per la quale faceva miracoli grandissimi\, percosse 
+et abbatt@e e convinse gli eretici; e chiamali l'autore ^sterpi~: 
+imper@o che sterpo si dice legno bastardo\, non fruttifero\, e cos@i 
+sono gli eretici: e come lo sterpo impaccia e stroppia l'arbore che fa 
+frutto; cos@i gli eretici impacciano li veri cristiani e non gli lassono 
+fare frutto\, e li veri cristiani si chiamano legittimi e veri 
+arbuscelli che fanno frutto\, ^L'impeto suo~; cio@e lo fervore di santo 
+Domenico prima percosse gli eretici\, rivocandoli a la fede co la 
+dottrina e coi miraculi\, ^pi@u vivamente quivi\, Ove le resistenzie 
+eran pi@u grosse~; cio@e pi@u fortemente percosse quive\, cio@e in 
+quelle sette eretiche\, che pi@u erravano e maggiore moltitudine erano.  
+^Di lui~; cio@e di santo Domenico\, ^si fecer poi diversi rivi~; poi che 
+@a assimigliato lui al f
+iume grosso\, assimiglia li suoi frati ai rivi\, dicendo che di lui 
+nacqueno poi diversi rivi\, cio@e frati\, ^Unde~; cio@e dai quali frati 
+co la loro dottrina e co la loro predicazione che @e abbondantemente\, 
+come @e l'acqua del rivo\, ^l'orto catolico~; ecco che seguita la 
+similitudine\, chiamando la santa Chiesa orto catolico\, cio@e 
+universale: imper@o che come l'orto fruttifica quando @e bene irrigato 
+et imbagnato de l'acqua; cos@i la santa Chiesa fruttifica e cresce\, 
+quando @e ammaestrata da la dottrina de' Teologi\, ^s'irriga~; cio@e 
+s'imbagna\, ^S@i che ' suoi arboscelli~; cio@e li suoi fideli cristiani 
+^stan pi@u vivi~; cio@e pi@u ferventi nella fede: imper@o che per le 
+prediche continue cresce nei cristiani la fede e la carit@a e la 
+speranza in Dio.  Seguita.
+
+        |106-126.~  In questi sette ternari lo nostro autore finge che 
+maestro Bonaventura\, commendando la vita di santo Domenico e l'opere 
+sue\, ritorn@o a commendare ancora sotto brevit@a santo Francesco; e 
+presa di quinde cagione\, incominci@o a dolersi dei suoi frati 
+riprendendo lo rifreddamento del fervore\, avendo abandonato le vestigie 
+del loro maestro\, dice: ^Se tal~; cio@e quale @e stata detta per me di 
+sopra\, ^fu l'una ruota de la biga~; parla qui con quel colore che si 
+chiama permutazione\, trasferendo questo nome ^biga~\, che viene a dire 
+^carro di due rote~\, a la virtuosa vita e religiosa dei due ordini\, 
+cio@e dei frati minori e predicatori; la quale vita combattette contra 
+li vizi che erano levati contra la santa Chiesa\, e ^l'una ruota~ 
+significa santo Domenico\, che men@o questo carro e di lui intende\, ^In 
+che~; cio@e ne la quale biga\, cio@e carro\, ^la santa Chiesa si 
+difese~; cio@e contra li suoi avversari\, ^E vinse 'n campo~; cio@e 
+combattendo santo Domenico e li suoi frati contra gli eretici\, ^la sua 
+civil briga~; cio@e la battaglia che la Chiesa santa ebbe coi suoi 
+cristiani\, che la impugnavano con loro eresie e false impugnazioni.  Et 
+@e qui da notare che de le battaglie e guerre che si fanno quale si dice 
+ostile; cio@e che si fa contra li nimici; e quale si dice civile\, che 
+si fa tra cittadino e cittadino; e quale si dice pi@u che civile che si 
+fa tra parente e parente.  E perch@e li cristiani sono tutti cittadini 
+d'una citt@a\, cio@e della Chiesa militante a tempo e de la triunfante 
+in perpetuo\, per@o chiama l'autore la divisione et oppugnazione delli 
+eretici\, perch@e sono cristiani e combatteno contra gli altri 
+cristiani\, civile briga.  ^Ben ti dovrebbe~; cio@e a te Dante\, ^assai 
+esser palese~; cio@e manifesta\, ^L'eccellenzia~; cio@e la grandezza\, 
+^dell'altra~; cio@e ruota\, che fu santo Francesco col suo ordine\, ^di 
+cui~; cio@e de la qual ruota\, cio@e di santo Francesco\, ^Tomma~; cio@e 
+santo Tomaso che parl@o\, innanti che io venissi\, di santo Francesco\, 
+^Dinanzi a
+l mio venir~; cio@e inanti che venisse io maestro Bonaventura\, ^fu s@i 
+cortese~; come detto @e di sopra\, dicendone tanto bene.  ^Ma l'orbita~; 
+ora descende a narrare dei frati minori\, dimostrando che @anno 
+derelitto la via di santo Francesco\, dicendo: ^Ma l'orbita~; cio@e la 
+via: orbita si chiama la riga che disegna la ruota del carro\, ^che fe 
+la parte somma~; cio@e la parte di sopra\, che significa santo 
+Francesco\, che fu primo edificatore del suo ordine\, et elli segn@o la 
+via\, che doveano seguire li suoi frati\, ^@e derelitta~; cio@e 
+abbandonata\, ^Da sua circunferenzia~; cio@e dai suoi prelati che sono 
+rimasi vicari di santo Francesco: e come la circunferenzia de la ruota 
+del carro d@e seguitare l'orbita\, cio@e la via che fa la prima parte; 
+cos@i li ministri e li prelati de l'ordine di santo Francesco dovrebbono 
+tenere la via che tenne santo Francesco e non deviare da quella\, ^S@i 
+che~; cio@e per s@i fatto modo che\, ^@e la muffa~; cio@e lo malo seto\, 
+cio@e lo malo esemplo\, parlando per lo colore detto di sopra: imper@o 
+che come la muffa @e seto che guasta lo buono vino\, quando @e messo 
+nella botte; cos@i li prelati quando sono viziosi corrompono li buoni\, 
+che sono messi sotto lo governo loro\, coi loro mali esempli: imper@o 
+che li sudditi sono contenuti dentro da' prelati\, come @e lo vino 
+dentro da la botte\, ^dov'era la gromma~; cio@e nella via predetta era 
+gromma e l'odore del buono vino\, cio@e l'odore delle buone opere e de' 
+buoni esempli\, et ora v'@e la muffa.  ^La sua famiglia~; cio@e di santo 
+Francesco\, ^che~; cio@e la qual famiglia\, cio@e li frati suoi: poi che 
+@ae detto de' prelati\, dice de' frati privati\, ^si mosse dritta Coi 
+piedi a le suo' orme~; cio@e coi loro piedi\, cio@e affezioni\, 
+dirittamente si moveano seguitando le vestigie di santo Francesco\, ^@e 
+tanto volta~; cio@e @e tanto sviata e partita da quelle\, ^Che quel 
+dinante~; cio@e che quello che va innanzi si volge a quello dirieto\, e 
+per@o dice: ^a quel dirieto~; cio@e a colui che seguita dirieto volge le 
+sue punte.
+  E per quello che dice d@a ad intendere\, che quelli che sono innanzi 
+agli altri ne le virt@u\, si volgeno dirieto a tenere la via de' men 
+virtuosi\, e cos@i viene mancando di grado in grado\, volgendosi quel 
+dinanzi a quel dirieto sempre peggiorando in tanto\, che fu diviso 
+l'ordine\, e chiamornosi alquanti li frati de la prima vita\, cio@e che 
+seguitavano le prime vestigie.  ^E tosto s'avvedr@a~; cio@e accorger@a; 
+ecco che qui profetizza dicendo che ^tosto s'avvedr@a~\, cio@e la 
+famiglia di santo Francesco\, ^de la ricolta De la mala coltura\, quando 
+il giollio~; questo @e uno seme che nasce tra 'l grano e guasta molto lo 
+grano\, ^Si lagner@a~; cio@e si lamenter@a\, ^che l'arca li sia tolta~; 
+cio@e li sia occupata\, sicch@e non vi possa stare dell'altro buono 
+seme\, cio@e del grano: cos@i li frati di santo Francesco s'avvedranno 
+d'avere male seguitato le vestigie di santo Francesco e male avere 
+lavorato nel suo ordine\, quando vedranno s@e mandati nel fuoco de lo 
+'nferno e li buoni messi nel granaio\, cio@e in paradiso.  E prese 
+questo l'autore da l'Evangelio di santo Matteo cap. XIII\, dove dice in 
+fine: ^Colligite primum zizania\, et alligate ea in fasciculos ad 
+comburendum\, triticum autem congregate in horreum zizania est lolium~; 
+— zizania @e lo giollio.  ^Ben dico~; cio@e io Bonaventura\, ^chi 
+cercasse~; cio@e colui che cercasse\, ^a follio a follio~; cio@e ad uno 
+ad uno\, ^Nostro volume~; cio@e la nostra congregazione dei frati\, 
+cio@e venisse esaminando tutti li frati ad uno ad uno\, ^ancor troverea 
+carta~; cio@e anco ne troverebbe alcuno della prima vita; e per@o dice: 
+^U'~; Cio@e ne la quale carta\, cio@e nel quale frate\, ^leggerebbe~; 
+cio@e troverrebbe alcuno della prima vita: ^Io mi son quel ch'io 
+sollio~; cio@e io sono tale\, quale solevano essere li frati nella prima 
+vita.  ^Ma non fie da Casal~; cio@e quel cos@i fatto non sar@a di 
+Casale: questa @e una terra unde nacque uno frate\, che fu ministro 
+generale che allarg@o la regola di santo Francesco con sue 
+costituzioni\, ^n@e d'Acquasparta~; qu
+esta @e una terra unde fu un altro frate che\, essendo ministro 
+generale\, strinse la regola di santo Francesco con sue costituzioni\, e 
+per@o dice: ^L@a onde~; cio@e da' quali luoghi\, ^vegnon tali~\, cio@e 
+s@i fatti ministri\, ^a la scrittura~; cio@e a la regula scritta di 
+santo Francesco\, ^Ch'uno~; cio@e che l'uno\, cio@e quello da Casale\, 
+^la fugge~; cio@e la scrittura\, cio@e la regola scritta allargandola co 
+le costituzioni\, ^e l'altro~; cio@e quello d'Acquasparta\, ^la coarta~; 
+cio@e la stringe la scrittura\, cio@e la regola scritta\, stringendola 
+co le costituzioni.  E cos@i non l'@anno lassata nel modo che la fece 
+santo Francesco; nel qual modo l'@anno e tegnalla la regula de' frati 
+minori\, secondo che l'autore finge\, e de' suoi frati osservatori\, e 
+guastatori di quella.  E dopo questo finge l'autore ch'elli nominasse 
+s@e\, e quelli che erano con lui nel secondo detto cerchio\, che venne 
+poi\, e che era intorno al primo.
+
+        |127-141.~  In questi cinque ternari lo nostro autore finge come 
+frate Bonaventura\, continuando lo suo parlamento\, manifesta a Dante 
+chi elli @e e chi sono li compagni che sono con lui\, dicendo: ^Io~; 
+cio@e che t'@o parlato infine a qui\, ^son la vita~; cio@e sono l'anima: 
+imper@o che l'anima @e quella che vivifica lo corpo umano\, ^di 
+Bonaventura~; cio@e di frate Bonaventura\, che fu dell'ordine di santo 
+Francesco e fu maestro in Teologia\, ^Da Bagnoreo~; cio@e nato da quello 
+luogo\, che si chiama Bagnoreo che @e una terra della Marca\, ^che~; 
+cio@e lo quale maestro Bonaventura\, ^ne' grandi offici~: imper@o 
+ch'elli fu cardinale della corte di Roma et anco ebbe innanti offici 
+nell'ordine suo\, o forse prima tu vescovo; li quali tutti sono grandi 
+offici\, ^Sempre pospuosi~; cio@e io Bonaventura reputai minore\, ^la 
+sinistra cura~; cio@e la cura delle cose temporali.  Due sono le cure 
+che conviene avere ogni uno che @e preposto nella chiesa d'Iddio; cio@e 
+l'una de le cose temporali: imper@o che le conviene tenere famillia\, e 
+questa si chiama cura sinistra; l'altra de le cose eterne\, e questa si 
+chiama destra: imper@o che @e quella che ci beatifica.  L'uomo @e 
+composito d'anima e di corpo e convielli curare l'una e l'altro; ma non 
+debbe essere pari l'una cura all'altra.  Lo corpo @e cosa temporale\, e 
+per@o meno debbe essere pari l'una cura all'altra e la cura sua: l'anima 
+@e cosa perpetua e per@o la cura sua debbe esser maggiore siccome\, la 
+mano ritta @a pi@u forza che l'altra manca\, e cos@i fece frate 
+Bonaventura che sempre ebbe pi@u cura dell'anima sua che del corpo; ma 
+tutti li pi@u uomini fanno lo contrario: imper@o che quando sono ne le 
+prelazioni curan pi@u del corpo\, intendendo pi@u a le cose temporali e 
+mondane che dell'anima\, intendendo a le cose spirituali e divine.  
+^Illuminato~; questo fu uno frate dell'ordine di santo Francesco di 
+santa vita\, ^et Augustin son quici~; questo fu anco uno frate del detto 
+ordine\, santo uomo\, li quali servorno la regula di santo Francesco\, 
+secondo la 
+lettera e furno dei frati della prima vita\, ^Che fuor dei primi scalzi 
+poverelli~; cio@e furno dei compagni di santo Francesco e furno grandi 
+Teologi e spiritualissimi uomini\, ^Che nel capestro~; cio@e che ne la 
+corda che santo Francesco fece di funi\, non di refe\, come si fa oggi 
+dai frati de la seconda vita\, la quale significa la religione a la 
+quale sono legati et obligati e per@o si legano con essa\, acci@o che 
+d'essa continuamente s'arricordino\, ^a Dio si fero amici~; cio@e 
+vivendo la religione et osservando la regula\, a la quale s'erano 
+obligati\, si feceno amici d'Iddio: imper@o che colui ama Iddio et @e 
+amato da lui\, che serva li suo' comandamenti.  Ma perch@e questi due 
+frati furno grandi Teologi e feceno opere\, per@o l'autore finge che 
+fussono quine e che cos@i parli di loro maestro Bonaventura.  ^Ugo da 
+Sanvittore @e qui con elli~; seguita ora la narrazione sua a nominare 
+delli altri che erano nel secondo serto insieme con seco\, cio@e con 
+maestro Bonaventura\, che tutti furno scientifici e santi uomini e 
+feceno e scrissono opere ne la santa Teologia\, e per@o nomina Ugo 
+predetto lo quale fece libro e trattato in Teologia e fu di Parigi di 
+Francia\, e fue monaco del monasterio da Santo Vittore che @e uno 
+monasterio in Parigi\, e dice che @e insieme con essi: imper@o che 
+oper@o\, come ellino\, la sua cura ne la santa Teologia.  Questo Ugo 
+fece molte opere ne la santa Teologia\, cio@e lo libro de' sacramenti in 
+due volumi\, ^dyadascalion~ libri 5\, libri 15 sopra le lamentazioni di 
+Ieremia\, libro 1. sopra la gerarcia di Dionisio\, libro uno dell'arca 
+dell'anima\, libro uno de la virt@u de l'orare\, libro uno della 
+istituzione de' novizi\, libro 1. dell'arca di No@e\, libro 5. 
+dell'anima di Cristo\, libro 1. della perpetua verginit@a della vergine 
+Maria\, libro sopra l'esposizione di ^Magnificat~\, libro 1. et altri 
+pi@u libri\, ^E Pietro Mangiator~; questo fu chiamato\, ^Petrus 
+comestor~\, e fece le storie scolastiche\, del quale si truova scritto 
+in su la sua sepultura: ^Petrus eram\, quem pet
+ra tegit\, dictusque comestor\, Nunc comedor unius docuit\, nec cesso 
+docere Mortuus\, ut dicat qui me videt intumulatum: Quod sumus iste 
+fuit\, erimus quandoque quod hic est~ —\, ^e Pietro Spano~; questo fu 
+maestro Pietro di Spagna che fece li trattati della Loica che 
+incominciano\, ^Dialectica est ars~ ec.\, et anco altre opere ne la 
+santa Teologia\, ^Il qual~; cio@e Pietro Spano\, ^gi@u~; cio@e nel 
+mondo\, ^luce~; cio@e risplende: imper@o che si vede la scienzia sua e 
+vige la fama sua\, ^in dodici libelli~; questi furno dodici libri\, li 
+quali fece lo detto maestro Pietro Spano\, ^Natan profeta~; questi fu 
+quello profeta che Dio mand@o a David quando commisse lo peccato della 
+moglie d'Uria\, s@i come appare secondo ^Regum~; e l'autore lo mette tra 
+questi dottori\, perch@e pales@o lo suo peccato a David\, come questi 
+altri @anno fatto palese li vizi e le virt@u nelle loro opere che @anno 
+scritto\, ^e 'l Metropolitano Grisostimo~; questo fu santo Ioanni 
+Boccadoro\, lo quale prima fu cherico\, cio@e prete d'Antiocia\, poi 
+arcivescovo di Costantinopuli\, chiamato Boccadoro per la sua 
+eloquenzia.  Questo fu figliuolo di Segondo e d'Antusa gentili persone\, 
+discepolo di Libano sofista\, et uditore d'Andagato filosofo\, et 
+insieme discepoli con lui sotto Libano furno Teodoro che fu poi 
+mobsuesceno vescovo\, e Massimo vescovo di Sevoia e di Sauria.  Et 
+essendo compagno di Basilio capadoce fu fatto lettore in Antiocia\, et 
+allora fece libro contra li Iudei\, e dopo poco tempo fatto diacono fece 
+libro del sacerdozio et altri pi@u libri et omelie molte sopra li 
+Evangeli e le pistole di santo Paulo\, et al suo governo fu commessa la 
+Trazia e Ponto\, et in Fenicia convertitte molti dell'iduli\, e molti 
+arriani de' popoli cav@o e ritorn@o a la vera fede\, poi da la 
+imperadrice Eudossia mollie d'Arcadio mandato in esilio\, di dolore di 
+capo e di febbre moritte; e chiamalo ^metropolitano~\, che tanto viene a 
+dire quanto arcivescovo di citt@a che @a sotto di s@e provincie 
+alquante\, et elli l'@ae a governare\, e li vescovi di
+ quelle sono sottoposti a l'autorit@a e dottrina di lui\, et a lui 
+s'appartiene la solicitudine delle province\, e per@o si chiama la 
+citt@a metropoli\, cio@e misura dell'altre citt@a\, e quinde si dice 
+^metropolitano~\, e moritte lo detto santo Ioanni Grisostimo nel 410\, 
+^et Anselmo~; questo fu santo Anselmo\, fu di Canturia\, citt@a che @ene 
+ne le confine di Lombardia e di Burgundia: dato a le lettere\, in breve 
+tempo divent@o sofficientissimo; e fatto monaco recense\, chiaro di 
+miraculi fu fatto priore\, e poi vescovo fatto\, scrisse molti libri\, 
+cio@e lo eloquio d'Iddio\, e monologio 1 della santa Trinit@a\, libro 1 
+de la concordanza del libero arbitrio e prescienzia divina e 
+predestinazione\, e della Grazia libro 1\, della caduta del dimonio 
+libro 1\, del peccato originale libro 1\, della incarnazione del Verbo 
+libro 1\, del sacramento dell'altare\, delle meditazioni et orazioni 
+libro 1\, di Grammatica libro 1\, de' proverbi libri 4\, sopra la 
+cantica libri 4\, de le pistole a diverse persone libri 4; ordin@o le 
+chiose nel salterio e moritte vescovo di Laudimita citt@a ne li anni 
+Domini MXVII\, ^e quel Donato~; questo fu Donato grammatico\, che fece 
+lo grande Donato in Grammatica et anco lo piccolo\, che si legge prima 
+da' fanciulli che entrano ad imparare Grammatica e scrisse sopra 
+Virgilio\, e lo maggiore suo volume al presente non si trova; e per@o 
+seguita: ^Ch'a la prima arte degn@o poner mano~; cio@e che si degn@o di 
+scrivere sopra la prima arte; cio@e sopra la Grammatica\, che @e la 
+prima che s'impari de le sette arti e scienzie liberali\, cio@e 
+Grammatica\, Dialetica\, Retorica\, Arismetrica\, Geometria\, Musica et 
+Astrologia.  ^Rabano @e qui~; dice maestro Bonaventura a Dante et a 
+Beatrice\, ^e lucemi da lato~: per@o che veniva allato a lui: et 
+appareva ne lo splendore come li altri.  Questo Raban fu sofista et al 
+suo tempo grande poeta\, e fu abbate fuldense e poi vescovo di 
+Maganzia\, e molto scrisse e disput@o nella santa Scrittura\, cio@e 
+della loda della croce libri 2\, de la istituzione de' 
+cherici libro 1\, sopra lo Genesi libri 3\, sopra l'Esodo libri 4\, 
+sopra libro ^Regum~ libri 4\, sopra Iudich libri 7\, sopra la Sapienzia 
+libri 3\, sopra l'Ecclesiastico libri 10\, sopra Mateo libri 8\, sopra 
+li Atti de li Apostoli libri 4\, e pi@u altre opere\, ^El calavrese 
+abate Ioacchino~; questo @e lo duodecimo\, quanto al numero et a la 
+nominazione; ma quanto all'ordine\, in che finge l'autore ch'elli 
+fussono\, questo era l'undecimo: imper@o che maestro Bonaventura prima 
+nomin@o s@e\, poi frate Illuminato\, poi frate Agostino\, poi Ugo da San 
+Vittore\, poi Pietro mangiatore\, poi Pietro Spano\, poi Natan profeta\, 
+poi Ioanni Grisostimo\, poi Anselmo\, poi Donato\, poi Rabano che @ae 
+detto che era allato a lui\, e poi allato a Rabano era l'abbate 
+Ioachino\, sicch'el era in mezzo tra frate Illuminato e Rabano\, e cos@i 
+@ae compiuto lo cerchio di dodici come fu descritto l'altro cerchio dei 
+dodici dottori pi@u eccellenti\, pi@u presso al centro del corpo solare 
+come pi@u eccellenti in scienzia.  Questo abbate Ioacchino fu di 
+Calavria e venne a papa Urbano che stava a Verona allora\, et essendo 
+uomo che non molto aveva acquistato di scienzia; ebbe dono 
+d'intelligenzia dallo Spirito Santo\, sicch@e tutte le scuritadi de le 
+Scritture manifestava\, e scrisse molte cose e tra l'altre fece una 
+opera molto notabile della durazione del mondo e disse le cose che 
+dovevano in quel mezzo avvenire; e secondo che si truova scritto disse 
+al re di Francia et al re d'Inghilterra\, quando andavano a vincere 
+l'infideli\, essendo a vernare a Messina di Sicilia\, che eglino non 
+acquisterebbono niente: imper@o che non erano anco venuti a lo tempo 
+d'acquistare Ierusalem\, e cos@i addivenne; e per@o dice l'autore di 
+lui: ^Di spirito profetico dotato~: imper@o che li fu conceduto da Dio 
+spirito di profezia\, interpretando et esponendo le Scritture sante.
+
+        |142-145.~  In questo uno ternario et uno versetto lo nostro 
+autore finge che maestro Bonaventura manifestasse la cagione che 'l 
+mosse a parlare di santo Domenico\, e dice che fu lo parlare fatto prima 
+da santo Tomaso di santo Francesco\, dicendo cos@i: ^Ad inveggiar~; 
+cio@e a manifestare e lodare\, et @e parlare lombardo\, ^cotanto 
+paladino~; cio@e s@i grande paladino\, come fu santo Domenico che 
+veramente si pu@o chiamare paladino di Cristo: imper@o che come furno 
+dodici conti di palazzo del re Carlo Magno a combattere con lui per la 
+santa Chiesa\, che si doverebbono chiamare ^palatini~\, come dice la 
+Grammatica ^comites palatini~; ma lo vulgare li chiama paladini; cos@i 
+fu santo Francesco e santo Domenico novellamente a combattere per la 
+fede contra 'l mondo\, contra la carne e contra lo dimonio\, ^Mi mosse~; 
+cio@e mosse me Bonaventura\, ^la 'nfiammata cortesia~; cio@e l'ardente 
+carit@a\, che @ae mostrato santo Tomaso in verso santo Francesco\, 
+lodando la sua vita e santit@a; e dice ^cortesia~: imper@o che cortesia 
+@e dire bene d'altrui\, ^Di fra Tomaso~: imper@o che frate Tomaso fu 
+quello\, che l'autore introdusse nel precedente canto a parlare di santo 
+Francesco e poi dei frati predicatori\, come qui in questo canto @ae 
+introdutto maestro Bonaventura da Bagnoreo a parlare di santo Domenico e 
+de' frati minori\, ^e 'l discreto latino~: imper@o che molto 
+discretamente fu introdutto santo Tomaso a parlare di santo Francesco\, 
+prima dicendo eccellentemente le sue virt@u\, e poi con discrezione 
+riprese li suoi frati predicatori\, ^E mosse meco questa compagnia~; 
+dice maestro Bonaventura a Dante et a Beatrice che non solamente santo 
+Tomaso mosse lui a dire de le virt@u di santo Domenico; ma eziandio con 
+lui ^mosse~ tutta questa compagnia di quelli dodici\, che l'autore @ae 
+finto che fussono con lui non senza cagione; ma per dare ad intendere 
+che tutti li sopradetti undici dottori erano stati studiati da lui e 
+veduti da lui\, e da loro avea appreso\, e cos@i da' suo' frati 
+Illuminato et Augustino della loro
+ santit@a.  E qui finisce lo canto XII\, et incominciasi lo XIII canto.

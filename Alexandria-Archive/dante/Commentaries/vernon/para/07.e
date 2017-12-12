@@ -1,0 +1,112 @@
+	|Proemio.~  Incomincia il chapitolo settimo del Paradiso.
+
+	|1-51.~ 
+	^Osanna Sanctus Deus sabaoth~
+^superillustras claritate tua~
+^felicies ignies horum malahoth.~
+
+Tratta l'altore delle mirabili cose fatte sotto quel segnio dell'aquila 
+che muove l'altore una dubitazione a Beatricie sopra due detti passati 
+conciossiacosach@e chagione e giustizia fu che Cristo morisse per 
+ricomperare l'umana gienerazione seghue addunque che lla vendetta che 
+ssi fecie per lui contro a' Giudei non fusse giusta e puotesi dividere 
+questo C.o in tre parti gienerali.  In questa prima parte l'altore fa 
+uno exordio che quello ispirito di Giustiniano imperadore il quale avea 
+fatti tanti belli sermoni e mostrando che ciascheduno che appella 
+questa insegnia fanno doutamente.  Or volendo far fine alle sue parole 
+Iustiniano proruppe le sue parole Iustiniano considerando chome 
+chomincia il capitolo i[n] linghua ebraicha.  Osanna viene a dire 
+salvos nos fach domine ed @e parola ebraicha defettibum moi inperativui 
+[sic].  Sabaot viene a dire exercito overo Deus exercituum.  Malaoth 
+viene a dire rex veritatis e viene a dire santificho il quale e nome di 
+Dio e viene a dire fanne salvi in e regni etc.
+
+	^Cos@i volgendosi alla nota sua~
+^fu visa a mme cantare essa sustanza~
+^sopra la qual doppio lume s'adua.~
+
+In questo passo d@a l'altore a Giustiniano gran fama comendandolo molto 
+ch'egli avesse la virt@u delle iscienzie principali e poscia ch'egli 
+avesse la virt@u dell'armi cio@e la prodezza che ll'una e ll'altra 
+virt@u ebbe in questo mondo s@i cch'egli @e ben degnio di lodo quanto 
+fosse mai alchuno altro valente.
+
+	^Per non sofferire alla virt@u che vole~
+^freno a ssuo prode quell'om che no' nacque~
+^danando s@e dann@o tutta suo prole.~
+
+Dicie qui l'altore che avendo Iddio criato il primo huomo cio@e Adamo 
+ed Eva e fatto loro il comandamento della obedienza ed eglino non 
+volendo essere contenti a quello che Idio ordin@o loro e non volendo 
+sofferire all'obedienza sua credendo s'eglino essere da llui inghanati 
+o credendosi essere pari di lui secondo che 'l diavolo diede a credere 
+che s'eglino mangiassino di quel pome il quale Iddio avea loro vietato 
+ch'eglino sarebbono simiglianti a llui e per quelle parole del nimico 
+si ne mangiarono disubidendo Iddio e ' suoi chomandamenti.  Per questa 
+disubidienza stette molti secholi d'anni che ogni secolo @e ciento anni 
+infermo il mondo.  E ffu questa infermit@a di tempo d'anni cinque mila 
+cinqueciento novanta quatro.  In questo tempo venne il figliuolo di Dio 
+Cristo e incharn@o nella Vergine Maria e nacque Cristo e predic@o la 
+novella leggie e stette al mondo XXXIII anni e poi fu morto da' Giudei 
+e solo questo volle fare per ricomperare l'umana gienerazione del 
+pecchato della disubidienza che fecie Adamo ed Eva nostri primi padri e 
+per questo Idio ne volle portare la pena della paxione in su[l] legno 
+santo della crocie.
+
+	|52-120.~ 
+	^Ma i' vegg' or la tuo mente ristretta~
+^di pensiero in pensier dentro a u[n] nodo~
+^del qual con gran disio solver s'aspetta.~
+
+In questa seconda parte l'altore domanda Beatricie movendole questa 
+quistione se in altro modo si potea ricomperare l'umana gienerazione 
+sanza la incharnazione e morte di Cristo.  Risponde Beatricie a Dante 
+cos@i
+
+	^Questo decreto frate sta sepulto~
+^agli occhi di ciaschuno il chui ingegno~
+^nella fiamma d'amor non @e adulto.~
+
+La risposta che fa Beatricie a Dante cio@e la sacra teologia si @e 
+questa ch'egli non cierchi ci@o imper@o che in questo passo non ci @e 
+bastato n@e ingiegnio n@e intelletto n@e sapere di filosafi n@e di 
+nessun valente huomo n@e santo perch@e Iddio venise a ricomperare 
+l'umana gienerazione ma che i chattivi il sanno eglino 
+conciosiacosach@e per loro chagione e difetto venne a patire passione 
+per loro in sul santo legnio della crocie.
+
+	^La divina bont@a che da ss@e sperne~
+^ogni livore ardente in s@e sfavilla~
+^s@i cche dispiegha le bellezze eterne.~
+
+Dicie qui Beatricie all'altore Iddio la chui bont@a @e infinita e volle 
+s@e unire a tutte le criature avendo egli creato ogni cosa per fagli 
+partefici a ss@e.
+
+	|121-148.~ 
+	^Or per compierti bene ogni disio~
+^ritorno a dichiarare in alchun loco~
+^perch@e tu veggi l@i cos@i chom'io.~
+
+In questa terza parte l'altore muove una quistione a Beatricie cio@e 
+che dicie a Beatricie tu mmi di' che Idio ha fatte tutte queste cose 
+inchorruttibili e istabili e io veggio tutto il contrario imper@o che 
+tutte queste chose sono chorruttibili e Beatricie allora risponde e 
+dicie
+
+	^Gli angeli frate e 'l paese sinciero~
+^nel qual tu sse' dir si posson creati~
+^s@i chome sono i[n] lloro essere intero.~
+
+Risponde Beatricie all'altore in questa forma cio@e che Idio cre@o i 
+cieli con tutti i pianeti e gli angieli le qua' cose non sono 
+chorruttibili ma quelle che sono quaggi@u degli alimenti sono ben 
+chorruttibili cio@e il fuoco l'acqua e anche sono incorruttibili e 
+assai volte manchano le cose che nascono quaggi@u per la influenzia de' 
+pianeti del cielo chome sono gli animali bruti e altri e simile 
+gl'uomini le femine che hanno assai volte voglie che hanno manchamento 
+nelle persone e questo viene e prociede dal cielo.  Ma l'anima nostra 
+razionale non ha a ffare con quelle sustanzie ma solo con Dio la quale 
+egli cre@o di niente e sanza gli altri artefici del cielo cio@e sanza i 
+quatro elimenti che Idio fecie.
+

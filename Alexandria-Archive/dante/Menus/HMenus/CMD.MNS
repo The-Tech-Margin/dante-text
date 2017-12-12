@@ -1,0 +1,55 @@
+{CMD}
+;
+; Transmit the "ready for command" prompt, and wait for input...
+;
+
+:COMPARE @SYNCH
+
+     TO "NO"
+          :GET @LINE ~_~
+          :COMPARE @LINE
+               TO "@UC"
+                  :SET @SYNCH TO ~YES~
+                  :MENU
+          :DONE
+          :MENU
+
+:DONE
+
+:GET @LINE ~@UC~
+:PARSE @LINE EXTRACTING @CMD USING ~:~
+:SET @SYNCH TO ~NO~
+
+:COMPARE @CMD
+
+     TO "A"
+        :MENU ~AUTHORS_~
+
+     TO "D"
+        :MENU ~DISPLAY_~
+
+     TO "E"
+        :MENU ~EXPAND_~
+
+     TO "L"
+        :MENU ~LIST_~
+
+     TO "P"
+        :MENU ~PURGE_~
+
+     TO "S"
+        :MENU ~SEARCH_~
+
+     TO "Q"
+        :PRINT ~DONE HYPERCARD~
+        :EXIT
+
+     TO "Z"
+        :MENU ~SUMMARY_~
+
+     TO "@UC"
+        :SET @SYNCH TO ~YES~
+
+:DONE
+
+:MENU

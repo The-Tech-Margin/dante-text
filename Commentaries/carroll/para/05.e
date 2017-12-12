@@ -1,0 +1,446 @@
+	|1-33.~  Beatrice, after warmly expressing her joy in Dante's
+spiritual progress [vv. 1-12], replies to the effect that a vow is the
+offering to God of our free-will, and since free-will is the most
+precious of all things we possess, there exists no possible equivalent
+for it:
+
+     `The greatest gift which in his largess God
+     Made in creating, and to his own goodness
+     Most conformed, and that which he doth prize
+     The most, was the freedom of the will,
+     Wherewith the creatures of intelligence,
+     Both all and only, were and are endowed.'
+
+In other words, the peculiar dignity of free-will is that it is
+the image within us of the Divine goodness, which is absolutely
+free.  The nearer in nature anything is to God, the greater is
+this inner power of self-determination bestowed upon it; so that,
+while stones, plants, animals are under laws of necessity, `the
+creatures of intelligence,' men and Angels, and they alone, have
+something of this Divine power of freely determining their own
+being.  When this highest gift of the Creator is offered back to
+him in a vow, and the vow then broken, man has nothing of equal
+value to render as a substitute in satisfaction.  And that for
+three reasons which are stated in three lines:
+
+     `For, in confirming between God and man the compact,
+     A victim is made of this same treasure,
+     Such as I say, and made with its own act.'
+
+The first reason here is that it is a `compact' between God and
+man, and therefore a more solemn thing than a compact between man
+and man.  The second, that this infinitely precious thing is made
+`a victim,' the will being thus declared dead to itself, as a
+victim offered in sacrifice is dead.  The third is that all this
+is done by the will's own act -- it is the priest as well as the
+victim.  For all these reasons there is no adequate satisfaction
+for a broken vow.  To think we can use the will which we offered
+and drew back for some other good end, is to use ill-gotten gains
+for the doing of good deeds: as if, in Dante's words about
+another matter, one should steal the cloth from the altar to spread it
+on the table at which he feasts his friends [^Par.~ v. 25-33; ^Conv.~
+iv. 27.  Butler thinks that the argument in this passage is Dante's
+own, no trace of it being found in ^Summa~, ii-ii. q. lxxxviii. where
+the subject of vows is fully discussed.  If, however, we turn to q.
+clxxxvi. of the same division of the ^Summa~, we find the following
+argument: `Religion' means a state of perfection; perfection consists
+of poverty, chastity and obedience; to these three things religious
+perfection demands that a man be bound by a vow, thus offering himself
+as a holocaust to God; and finally, of the three, the vow of obedience
+is the chief, because by it `^a man offers something greater to God
+namely, his own will~, which is a better gift than his own body, which
+he offers by continence, and than exterior things, which he offers by
+the vow of poverty.'  The meaning is that in these three vows, a man
+offers his entire being to God, the most precious part of which is the
+will; and this involves Dante's inference that, for the will, there
+exists no equivalent which can take its place].
+
+	|34-63.~  This decision, however, seems to be contradicted by the
+fact that Holy Church grants dispensations from vows, and to this
+difficulty Beatrice now addresses herself.  She draws a
+distinction between the matter of a vow, and the compact or
+agreement itself, the latter of which, as the previous discourse
+showed, could never be cancelled, save by being fulfilled.  Even
+the Hebrews had still to offer, though sometimes the thing
+offered was allowed to be changed.  Among Christians the
+surrender of the will in a vow must still be made, but in certain
+cases the `matter' of the vow may be exchanged for something
+else.  This commutation, however, is to take place under the
+strictest conditions.  First of all, no man is at liberty to
+shift the burden at his own pleasure: since the vow is to God,
+only God's representative can alter it -- `both the white key and
+the yellow' must turn in the lock, the knowledge and the
+authority of the Church.  Even the Church, in the second place,
+ought not to commute the `matter' of a vow save for something
+else of greater value.  In the Mosaic law, the increase of
+value was assessed at one-fifth; Dante raises it to one-half --
+the proportion is to be as four to six.  It follows from this, in
+the next place, that there are some things of such supreme value that
+this exchange of a half more is impossible; and in this case there can
+be no commutation, far less dispensation.  It is commonly assumed that
+Dante is here referring to the vow of chastity, which `draws down every
+scale,' and can have no equivalent.  The question is carefully
+discussed by Aquinas, who holds that even the Papal authority has no
+power to cancel this vow.  It can, indeed, grant a dispensation to one
+in Holy orders, because to these continence is not annexed essentially,
+but only by statute of the Church.  But in the state of religion, which
+is a renunciation of the world, marriage included, continence is an
+essential, and not even when the common good and the peace of a country
+demand the marriage of certain persons under this vow, is a
+dispensation lawful.  That would be to convert things that belong to
+God to human use.  `Those who have professed religion are dead to the
+world, and live to God; hence they are not to be recalled to human life
+by occasion of any event whatsoever.'  It is to be noted that while
+Aquinas starts from the vow of chastity, his argument runs back to the
+religious state as a whole, and he says expressly, `the Pope cannot
+make that he who has professed religion, be not a religious; though
+some jurists ignorantly say the contrary' [^Summa~, ii-ii. q. lxxxviii.
+a. 11.  Aquinas founds the impossibility of commuting a vow of chastity
+on the Vulgate of Ecclus. xxvi. 20: `Omnis ponderatio non est digna
+animae continentis,' though the context seems to me to refer to the
+married woman rather than the cloistered nuns].  It is not likely,
+therefore, that Dante, any more than Aquinas, is confining himself to
+the vow of chastity: he has the whole state of religion in view.  That
+state is founded on the vow of obedience, which, as Aquinas says,
+`contains under itself the other vows'; the vow of obedience is a
+sacrifice of the will; and the will being the most precious thing man
+can offer to God, dispensation, or even commutation, is impossible.
+
+It is in the light of all this that we must read what
+Aquinas says as to the power of the Church to commute and
+dispense in the case of other vows.  No man has this power in
+himself -- he must submit the case to a Prelate of the Church, as
+the representative of God, who may rule that `in this particular
+case the matter is not proper matter for a vow,' or not proper
+for that particular person.  `And therefore, when a Prelate of
+the Church dispenses from a vow, he does not dispense from any
+precept of natural or divine law; but he rules a point, which was
+become matter of obligation through the resolve of a human will,
+wherein the person who so made up his mind was not able at the
+time to see all round the circumstances of the case.'  The whole
+discussion may indeed seem, in Plumptre's words, to belong to
+`the dreariest regions of casuistry'; but the Spiritual
+Franciscans found this question of the Papal power a matter of
+life and death.  Not many years after Dante wrote this passage,
+these unhappy men were being burned in batches all over the south
+of France for denying that Pope John XXII. had power to cancel
+their vows of poverty and chastity [Lea, ^A History of the 
+Inquisition~, iii. 77].
+
+	|64-84.~  The discussion ends with certain practical exhortations
+against taking vows in a trifling spirit, or without seeing clearly
+what they may involve [`A person vowing makes in a certain way a law
+for himself, binding himself to something that is ordinarily and for
+most cases good.  But it may happen that in a particular case the thing
+proves either simply evil, or useless, or a hindrance to greater good;
+which is against the idea of what falls under a vow.  And therefore it
+is necessary to have it ruled in such a case that the vow is not to be
+observed' (^Summa~, ii-ii. q. lxxxviii. a. 10)].  Of this second class
+Beatrice gives two examples: the vows of Jephthah and Agamemnon, which
+it had been better to break, since they involved the slaying of their
+innocent daughters in sacrifice.  She warns Christians that they must
+neither vow on every slight occasion, as if they were feathers moved by
+every breath of wind; nor, having vowed, imagine that the guilt of
+unfaithfulness can be lightly washed away with a few drops of holy
+water.  Nay, she hints plainly enough that vows are not necessary for
+salvation:
+
+     `Ye have the Old and the New Testament,
+     And the Shepherd of the Church who guideth you:
+     Let this suffice you unto your salvation.'
+
+We may compare with this the passage in the ^Convito~ (iv. 28) in
+which, with special reference to marriage, Dante declares
+religious vows unnecessary for salvation: `Not he alone turns to
+religion who makes himself in habit and life like St. Benedict
+and St. Augustine and St. Francis and St. Dominic, but also it
+is possible to turn to a good and true religion whilst remaining
+in matrimony, for God wishes nothing religious of us but the
+heart.  And therefore St. Paul says to the Romans: "He is not a
+Jew, which is one outwardly; neither is that circumcision which
+is outward in the flesh: but he is a Jew which is one inwardly;
+and circumcision is that of the heart, in the spirit, not in the
+letter; whose praise is not of men but of God."'  Aquinas, of
+course, held equally that religious vows, while essential to
+perfection, are not necessary to salvation; but it is evident
+that on the question of the superior ethical power of vows, Dante
+parts company with his master.  It is difficult to believe that
+he would have accepted the following: `The same work done with a
+vow is better and more meritorious than without a vow, for three
+reasons.  First, because to vow is an act of religion, which is
+the chief of the moral virtues....  And therefore the acts of the
+other moral virtues, as of abstinence and of chastity, are better
+and more meritorious for being done by vow, because thus they
+come to belong to divine worship as sacrifices offered to God. 
+Secondly, because he who both vows a thing and does it
+accordingly, subjects himself to God more thoroughly than
+another, who simply does the thing; for he subjects himself to
+God, not only as to the act, but also as to the power, because
+henceforth he has it not in his power to act otherwise: as he who
+should give a man the tree with the fruit, would give more than another
+who gave the fruit only.  Thirdly, because by a vow the will is clamped
+fast to good; but to do a thing with a will, firm set on good, belongs
+to the perfection of virtue, as obstinacy in sin is an aggravation of
+the sin' [^Summa~, ii-ii. q. lxxxviii. a. 6 (Rickaby's transl.).  If
+Dante, as is not improbable, ever contemplated joining the Franciscan
+Order, the casting away of the Cord in ^Inf.~ xvi. 106-114 may be
+taken as corroboration of his distrust of vows for salvation.  The
+subject is discussed in my ^Exiles of Eternity~ {see comm. to ^Inf.~
+16.106-108}, and ^Prisoners of Hope~ {see comm. to ^Purg.~ 1.103-105}. 
+In the latter, the Cord which he cast away is contrasted with the rush
+with which Virgil girt him on the shore of Mount Purgatory].  At all
+events, Dante appeals to Christians to be on their guard against the
+wicked greed which will tell them that the Old and the New Testament
+and the Shepherd of the Church are not sufficient to salvation, and
+induces them to take vows under promise of an easy absolution for the
+breaking of them.  The reference is said to be to the Friars of St.
+Anthony, popularly known as ^fratres de campanella~, who for a trifling
+payment absolved from all vows [`^They eat up the sin of my people~
+(Hosea iv. 8), as if He said: "They exact the price of sins for their
+own profit, but for the sinners they do not take the care which is
+due."  Whom will you find among those who are set over the government
+of the Church who is not far more intent upon emptying the purses of
+those under his authority than of rooting up their sins?' (St. Bernard
+on the Canticles, Sermon lxxvii. Eales' transl.).  The evil was not
+confined to an obscure order of friars].  The very Jews, who had only
+the one guide, the Old Testament, and kept their vows better, mocked at
+such laxity.  Christians who were guilty of it are like a silly and
+wanton lamb which leaves his mother's milk to fight with his own self
+for his own pleasure: `the mother's milk' is the true guidance to
+salvation which has just been pointed out; and the `fighting with his
+own self' well describes the pastime of lightly making and lightly
+breaking vows -- the will fighting against the will.
+
+	|85-99.~  Turning now to `that part where the world is most
+living,' Beatrice by her silence and changed look checked the new
+questions that were rising in Dante's mind.  In a moment, like an
+arrow that strikes the mark before the bowstring ceases to
+quiver, they find themselves in Mercury, the second Heaven. 
+[It is to be noted that Dante follows all the ancient systems of
+Astronomy in transposing the true position of Mercury and Venus
+relatively to the earth and the sun.  Dr. Moore traces this error to
+the periods of their orbital motions: `It was not unnaturally assumed
+that their relative proximity [to the earth] was proportionate to their
+periods of apparent revolution round the earth.  Thus (1) the moon, one
+month; (2) Mercury, c. 88 days (sidereal) or c. 116 (synodical); (3)
+Venus, c. 225 (sidereal), c. 584 (synodical), and so on.'  When Dante
+looks down from the sign of Gemini on the solar system, he sees Mercury
+and Venus in the same transposed order (^Par.~ xxii. 139 ff.).  See Dr.
+Moore, ^Studies in Dante~, 3rd series, 27-29.]  The joy of his Lady on
+entering was so greatly increased that the planet grew more luminous
+for her presence; and, says Dante, with one of his swift flashes of
+light upon himself,
+
+     If the star itself was changed and smiled,
+     What then did I, who by my very nature am
+     Susceptible to change through every guise!
+                              [vv. 97-99.]
+
+It is not improbable that we have here a hint of Dante's belief
+in the astrology of his day.  Elsewhere he tells us that his
+genius, whatever it was, came from Gemini, the sign under which
+he was born; and, according to the astrologers, Gemini is the `house'
+of Mercury [^Par.~ xxii. 112-120: see {comm. thereto}.  Comp.
+R. A. Proctor's ^Myths and Marvels of Astronomy~, chap. i., in which a
+short popular account of Astrology is given.  `Gemini is the house of
+Mercury.  The native of Gemini will have a sanguine complexion and
+tall, straight figure, dark eyes quick and piercing, brown hair, active
+ways, and will be of exceedingly ingenious intellect' (p. 23).  For
+the limitations of Dante's belief in the stars, see {comm. to ^Par.~
+4.19-27}].  From this, therefore, came a certain `mercurial'
+temperament -- not mere fickleness, but an openness to impressions, to
+rapid movements of the mind and alterations of emotion.  The words are
+perhaps an expression of his sympathy with the spirits of this star: he
+shares with them the quick mercurial temperament which responds to
+every change of praise and censure.  Another meaning may be found in
+the mutual joy of Beatrice and the planet.  In the ^Convito~ (ii.14)
+Mercury stands for the science of Dialectics.  The joy of Beatrice or
+Theology as she enters Mercury may well be the delight of the
+theologian in the application of dialectic to the subject of his study,
+a delight in which, as the whole poem shows, Dante had his full share. 
+On the other hand, the entrance of Beatrice gave a new brightness to
+the planet: a symbolical way of saying that dialectic gains clearness
+and beauty when applied to theology, the highest subject of human
+thought.  To quote Landino, `Mercury has influence on doctrine and
+eloquence....  Beatrice, that is to say, Christian theology, causes
+Mercury to shine; because in no other religion is its influence more
+apparent than in ours.  And, according to the astrologers, it has a
+great part in the Christian religion, because in the nativity of our
+Redeemer, the infrangible and immutable rock on which is built the
+Christian Church, Mercury was found in Gemini its mansion, and in the
+ninth house, which is the house of religion and of faith: through the
+influence of which our doctors, both by wisdom and by eloquence, have
+conquered all the writers of every other religion.'
+
+	|100-126.~  Let us now proceed to gather out of this narrative the
+symbolic correspondences between these spirits and their Heaven. 
+Like the Moon, Mercury lies within the shadowy cone of Earth,
+though not so deeply; and this implies, as we have seen, that
+some earthly frailty falls like a shadow on its blessedness.  The
+frailty is a certain love of their own glory with which these
+spirits dimmed their desire for the glory of God.  They wrought
+great and good deeds, but with a divided heart.  In Justinian's
+words,
+
+     `This little star doth furnish forth herself
+     With the good spirits who have active been,
+     That honour and fame should wait upon them;
+     And whensoever the desires mount thither,
+     Thus deviating, it is but meet the rays
+     Of the true love should mount up with less life.'
+
+[^Par.~ vi. 112-117.  If Boccaccio is to be believed, this very alloy
+of vainglory was what drew Dante himself into the strife of politics in
+Florence which proved his ruin.  `When he saw that his labour was in
+vain [in trying to reconcile the factions], and perceived that the
+minds of his hearers were hardened, supposing it to be a judgment of
+God he at first purposed utterly to withdraw himself from every public
+office, and live in private to himself; but afterward, drawn on by the
+sweetness of glory, and the vain favour of the people, and further by
+the persuasions of his elders, and beside all this thinking that should
+the occasion come he would be able to do far more good for his city if
+he were a great power in public affairs than as a mere private man, far
+removed from public place, -- oh foolish longing for human splendours,
+how far mightier is thy strength than he who has not tried it would
+believe! this man, in his mature age, brought up, nourished, and
+instructed in the bosom of Philosophy, having before his
+eyes the fall of ancient kings and modern, the desolation of kingdoms,
+provinces and cities, the furious rushes of fortune which aim only at
+exalted things, yet had not the wit or had not the power to resist thy
+sweetness!' (^Life of Dante~, Wicksteed's Transl.)]  Their activity, in
+contrast with the slow movements of the cloistered virtue of the Moon,
+is set forth in various figures.  The eagerness with which they rush to
+meet Dante is like that of fishes in a clear and tranquil pool, when
+something falls which they think may be their food [^Par.~ v.
+100-105]; and when they depart, it is like swiftest sparks of fire
+which veil themselves from his sight `by sudden distance,' in obvious
+contrast to the way in which Piccarda vanished slowly, like a heavy
+body sinking in deep water [^Par.~ vii. 7-9].  Justinian is taken as a
+typical instance of this activity: Gibbon, indeed, regards his
+perpetual diligence as a danger to the Empire: `His repasts were short
+and frugal: on solemn fasts, he contented himself with water and
+vegetables; and such was his strength, as well as fervour, that he
+frequently passed two days and as many nights without tasting any
+food.  The measure of his sleep was not less rigorous: after the repose
+of a single hour, the body was awakened by the soul, and, to the
+astonishment of his chamberlains, Justinian walked or studied till the
+morning light.  Such restless application prolonged his time for the
+acquisition of knowledge and the dispatch of business; and he might
+seriously deserve the reproach of confounding, by minute and
+preposterous diligence, the general order of his administration.  The
+emperor professed himself a musician and architect, a poet and
+philosopher, a lawyer and theologian; and, if he failed in the
+enterprise of reconciling the Christian sects, the review of the Roman
+jurisprudence is a noble monument of his spirit and industry.'  Yet
+much of this untiring diligence had its root in his own glory.  `The
+love of fame,' continues Gibbon, `was deeply implanted in his breast,
+but he condescended to the poor ambition of titles, honours, and
+contemporary praise; and, while he laboured to fix the admiration, he
+forfeited the esteem and affection, of the Romans' [^Decline and Fall~,
+ch. xliii.  In ^Summa~, ii-ii. q. cxxxii., Aquinas discusses the
+subject of Vainglory.  The seeking after glory in itself is not
+necessarily a vice: it becomes so when the seeking is for vain or empty
+glory.  Glory becomes vain in three ways: (1) when the endowment for
+which we seek glory is unworthy of glory; (2) when the judgment of the
+man from whom we seek it is worthless; (3) when the seeking is not
+directed to the due end -- the honour of God or the salvation of men. 
+Vainglory is not necessarily inconsistent with charity, and therefore
+may not be a mortal sin].
+
+The effects of this vainglory are seen in Mercury in
+three symbolic forms.  The first is that already named, the
+earthly shadow which rests for ever on this Heaven; or, as
+Justinian states it without the figure, the desire for honour and
+fame arrests the rays of the true love, the love of God and man,
+and makes them mount up with a less living fire.  The second is
+that Mercury is a `small star' -- indeed, `the smallest star of
+heaven,' as Dante calls it in the ^Convito~ (ii. 14).  The
+symbolic meaning is that men who are lovers of their own glory
+pursue it under the delusion that they are creating for
+themselves a great heaven, a wide and ample beatitude.  In
+reality, they are narrowing their heaven, dooming themselves to a
+far lower quality and degree of blessedness than if they had been
+able to lose themselves in `the glory of Him who moveth all.' 
+And finally, Mercury is `the sphere that veils itself to mortals
+with another's rays.'  `It is more veiled by the rays of the
+sun,' says the ^Convito~ (ii. 14), `than any other star' -- the
+proximity of Mercury to the Sun making it very difficult to see. 
+The meaning turns on the words `to mortals.'  Just as the Heaven
+of these spirits is made small by their ambition, so also is it
+veiled even to their fellowmen on earth.  In other words, when
+men see the vainglorious motive shining through a great and good
+career, they refuse to give the very honour for which the career
+is run -- it grows dim even in their eyes, `by reason of the
+glory that excelleth.'  They instinctively feel that all human
+glory is as nothing and vanity beside that of Him who is the
+Eternal Sun.  Thus in both worlds these spirits lose the self-glory
+for which they toiled.  [It is a mistake to say the sun means fame, and
+that these souls therefore lost themselves in the fame of their cause,
+as Mercury is veiled in the sun's rays (see W. T. Harris, ^The
+Spiritual Sense of Dante's Divina Commedia~, p. 86).  The sun is always
+to Dante the greatest natural symbol of God.  He is thinking of the way
+in which the glory of God quenches the small star of their own glory,
+for which these men had lived.]
+
+The visible aspect of Justinian and his companions bears
+the likeness of their spiritual state.  Like the souls in the
+Moon, they are seen by Dante in their own proper forms, even to the
+sparkling of their eyes.  This, as we saw, is the sign that they have
+not lost themselves completely in the light and love and joy of God. 
+Nevertheless, though some of the effects of their vainglory remain in
+their souls for ever, they are raised far above the old earthly
+condition, as Dante indicates by the variation in the play of light
+within and around them.
+
+     `By the light which through all the heaven is spread
+     We are enkindled,'
+
+says Justinian significantly: they no longer draw any of their
+light from men.  When they first come near, they are called
+`splendours' for the same reason that they now reflect the
+Divine rays; and the change is heard in the words with which they
+welcome Dante: `Lo! one who shall increase our ^loves~,' not our
+^glories~, as they would once have said or thought.  It is the same
+change which is implied in Dante's words to Justinian:
+
+     `I see well how thou dost nest thyself
+     In thine own light, and drawest it from thine eyes,
+     Because they sparkle when thou smilest.'
+                              [vv. 124-126.]
+
+This is in contrast to the time when he drew his light from the
+eyes of others, and nested in the light of glory which they gave
+him.  Now the light is his own, drawn from his own eyes, which sparkle
+with the inner joy; and in the light he rests content, even as a bird
+within her nest [Cf. Gal. vi. 4: `But let every man prove his own work,
+and then shall he have his glorying in regard of himself alone, and not
+of his neighbour' (R. V.)]. 
+
+	|127-138.~  And then comes the last and greatest change of all,
+the entire concealment of his form in light.  When Dante asks the
+Emperor who he is and why he is in this Heaven, the inner light breaks
+forth for very joy and covers him `with its own ray' as with a garment
+-- the joy, obviously, of losing himself in the glorious achievements
+of the Roman Eagle, `the bird of God,' of which he proceeds to speak. 
+The time was when the Empire existed for his glory; now the thought
+that it exists for the glory of God shines through him, until, to use
+Dante's simile, like the sun it burns away all mists and vapours of
+self, and hides itself in its own excess of light.  But this
+height of self-forgetfulness is intermittent: in rare and radiant
+moments these Mercurial spirits are capable of this lofty rapture in
+which all self is hidden, but their usual condition is that in which
+Dante first met them.  There is, however, no murmuring at the lowness
+of their Heaven.  As Piccarda had peace in the Divine Will, they have
+joy in the Divine Justice:
+
+     `But in the commensuration of our wages
+     With our desert is portion of our joy,
+     Because we see them neither less nor greater.
+     Herein doth the Living Justice sweeten so
+     Affection in us, that for evermore
+     It cannot warp to any wickedness.
+     Divers voices make sweet notes below:
+     So divers seats in this our life
+     Render sweet harmony among these wheels.'
+                    [^Par.~ vi. 118-126.]
+

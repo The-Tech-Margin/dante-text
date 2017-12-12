@@ -1,0 +1,671 @@
+	|SUMMARIUM.~  CANTUS DECIMUS NONUS, ^ubi post aliquam
+visionem cum Virgilio aliqua receptavit Dantes, et hoc facto,
+invenerunt avaros sub titulo cuiusdam papae, et de modo poenae
+ipsorum; et sicut ille papa cum Dante multa receptavit.~
+
+	|Proemio.~  ^NELL'ora che non pu@o il calor diurno.~ 
+Postquam in capitulo praecedenti poeta tractavit et determinavit
+de vitio accidiae, nunc consequenter in isto capitulo XIX, agit
+et tractat de vitio avaritiae, quae punitur et purgatur in quinto
+circulo.  Et praesens capitulum potest dividi in quatuor partes
+generales; in quarum prima poeta describit somnium suum.  In
+secunda describit introitum ad quintum circulum, et apparitionem
+angeli qui dirigit eum ad viam suam, et purgat a vitio accidiae,
+ibi: ^Io volsi.~  In tertia describit poenam et purgationem
+avarorum in uno spiritu moderno specialiter, ibi: ^Com'io.~  In
+quarta et ultima solvit unum dubium circa praedictum spiritum,
+ibi: ^Io m'era.~  
+
+	|1-3.~  Ad primum veniens dico quod poeta describit
+somnium suum: et quia semper somniat circa auroram quando fiunt
+somnia vera, ideo primo describit horam temporis dupliciter,
+scilicet, per viam naturalem.  Ad cuius intelligentiam debes
+primo scire, quod sol cum est in nostro hemisperio superiori
+reverberat terram radiis suis et calefacit ipsam et vicinam
+partem aeris; sed post occasum solis luna frigefacit, sicut sol
+calefacit: sed tamen propter calorem diurnum praecedentem terra
+calefacta resistit usque ad diluculum; et sic calor diurnus illa
+hora vincitur a terra quae est frigida et sicca, et aliquando a
+Saturno planeta frigido, sicco et nocturno.  Dicit ergo:
+|Nell'ora~, scilicet, in aurora, |che 'l calor diurno~, quem sol
+facit in die et durat usque ad illam horam, |non pu@o pi@u
+intiepidar~, idest, temperare, |il freddo della luna~, scilicet,
+nocturnum, quod luna facit in nocte; ille, dico, calor diurnus,
+|vinto da terra~, quae est frigida, |et talor~, idest aliquando,
+|da Saturno~, qui et ipse frigidus est; unde quidam dicunt: cave
+tibi a coniunctione lunae cum Saturno.  
+
+	|4-6.  Quando.~  Hic poeta describit horam temporis
+artificialiter.  Ad cuius intelligentiam debes notare quod
+geomantes utuntur multis figuris factis ex punctis, sed una
+praecipue quae dicitur fortuna maior, quae fuit abstracta a sex
+stellis similiter dispositis, ut patet in ista figura: 
+
+                           * *
+                           * *
+                            *
+                            *
+
+quae oriuntur in aurora; et dicunt quod ista fortuna maior est
+figura in fine aquarii et in principio piscis etc.  Dicit ergo:
+|Quando i geomanti~, geomantia dicitur a ^geos~, quod est terra,
+et ^mantos~, divinatio, quasi scientia facta in divinatione
+terrae, sic dicta quia indi et saraceni in ortu solis accedebant
+ad litus maris, et faciebant ibi puncta sua paria vel imparia in
+arena maris, quem morem adhuc hodie servare dicuntur: |veggiono
+lor maggior fortuna sorgere in oriente~, in aurora, |innanzi
+all'alba~, quae statim sequitur auroram.  Et dicit: |per via che
+poco le sta bruna~, quia statim succedit alba oriente sole qui
+clarificat aerem.  Et hic nota quod geomantia, ut aliqui volunt,
+est commune refugium astrologorum; et ex hoc non videtur
+spernenda penitus, quia habet aliqua principia in astrologia;
+unde appellatur astrologia minor.  Alii tamen dicunt quod
+geomantia non est scientia nisi eo modo quo sortes, nisi fiat sub
+constellatione veridica vel falsidica; unde si fiat in aurora
+quando Venus vel Mercurius sunt orientales solet dicere verum,
+nisi Mars obstet vel aliqua stella de natura Martis.  Sed
+quicquid dicant nihil credo geomantibus cum nihil credam
+astrologis.  Et si vis bene ordinare literam incipe a rhythmo
+sequenti, deinde revertere supra ad primum.  
+
+	|7-9.  Mi venne.~  Hic poeta descripta hora, nunc
+describit somnium quod fecit in tali hora.  Et ad declarationem
+literae volo te scire, quod poeta noster per istud mirabile
+somnium praefigurat materiam de qua tractaturus est; quia enim
+jam tractaverat de quatuor vitiis capitalibus, quae sunt
+spiritualia secundum Gregorium, nunc tractare intendens de
+reliquis tribus, quae sunt corporalia et versantur circa
+delectabilia, fingit sibi apparere unam foeminam mirabiliter
+deformatam, quae paulo post per inspectionem eius mirabiliter
+reformatur, et pulcra et placida videtur.  Nota ergo profundam
+fictionem poetae: nam per istam mulierem sic transformatam in
+contrariam figuram poeta figuraliter repraesentat nobis
+illecebram et voluptatem mundanam, quae recte ad modum mulieris
+est in se turpis, horribilis, et odibilis quantum ad existentiam
+et rei veritatem; sed est pulcra, placibilis et amabilis quantum
+ad apparentiam et umbram exteriorem.  Hanc ergo mulierem
+prodigiosam poeta describit a quinque organis defectuosis: primo,
+quia erat balbutiens lingua; secundo, lusca visu; tertio, clauda
+pede; quarto, trunca manu; quinto, fucata colore.  Nunc ergo his
+praemissis veniendum est ad literam exponendam, quae male
+exposita est a multis, qui putaverunt istam mulierem figurare
+solum avaritiam, de qua tractatur in praesenti capitulo, quod
+tamen est penitus falsum, imo figurat avaritiam, gulam et
+luxuriam, ut statim clarebit ex ipsa expositione.  Dicit ergo
+poeta: |Una femmina balba~; hoc respicit avaritiam quae non
+loquitur clare et aperte, sed implicite et dolose: gulam, quia
+ebrietas facit linguam grossam, ita ut non possit articulate
+loqui: luxuriam, quae facit hominem adulari, lingere et multa
+fingere falso; |negli occhi guercia~: hoc facit avaritia, quia
+avarus non videt recte, nimia cupiditate caecus tam habendi, quam
+retinendi; hoc facit gula, quae reddit oculos lippientes et visum
+destruit; luxuria multo fortius, quia offuscat oculos corporales
+et intellectuales, et quid deceat non videt ullus amans: |e sopra
+i pi@e distorta~, talis est avaritia quae numquam recte incedit,
+nec judicat recta lance; gula peius, quia ebrius praestat risum
+videntibus ipsum ambulare tortuose: luxuria pessime vadit per
+viam rectam, |con le man monche~, istud patet in avaro, qui nihil
+dat, nil recte facit nisi cum moritur; unde paulo infra audies
+quod avari stant manibus et pedibus ligati; gulosus nihil vult
+operari, luxuriosus minus, imo luxuria fovetur inertia et
+accidia, |e di colore scialba~: hoc verificatur in avaro, guloso
+et luxurioso qui habent bona tantum simulata.  Omnes isti
+communiter habent faciem pallidam et sine colore; talis, inquam,
+mulier, |mi venne in sogno~, hoc est propter abstractionem mentis
+dedit se ad considerandum quid esset ipsa voluptas, et vidit quod
+realiter erat talis si bene inspicitur.  
+
+	|10-15.  Io.~  Hic poeta descripta natura vera ipsius
+voluptatis, describit ipsam apparentiam fictam: et fingit
+subtiliter quod inspectione sua illa visa est tota reformari, per
+quod dat intelligi quod infirmitas humani visus facit illam
+videri pulcram quae non est.  Unde loquitur proprie, et dicit:
+|Io la mirava~, idest, cum admiratione respiciebam; et sic tangit
+quid nos decipit, quia miramur ista talia vilia tamquam meliora
+et pulcriora quam sint.  Et continuo ostendit reformationem
+istius mulieris per comparationem pulcerrimam, quae breviter stat
+in hoc, quod sicut calor solaris in die refocillat membra
+oppressa a frigore nocturno, ita intuitus eius reformabat omnia
+membra turpia illius mulieris.  Dicit ergo: |e come il sol
+conforta le fredde membra, che la notte aggrava~, nimio frigore
+quod contrahit et ligat membra; |cos@i lo viso mio~, qui est causa
+amoris, |le facea la lingua scorta~, idest, expeditam, quae prius
+erat balba, ita quod, |scorta~, est hic nomen adiectivum, non
+substantivum; similiter, |e poscia la drizzava~; exponunt aliqui
+illam linguam ad cantandum; tu vero dic ipsam mulierem, quantum
+ad oculos, pedes et manus, in quibus erat obliquitas; |in poco
+d'ora~, quia faciliter et cito fallitur et inescatur oculus
+noster, |e cos@i le colorava lo smarrito volto~, qui prius erat
+pallidus et sine colore; et dicit: |come amor vuole~, quia amor
+caecus faciebat illam turpem videri pulcram, ita quod amorabatur
+de ea, et ita rectificabat, ornabat et colorabat eam.  Et hic
+nota quod comparatio est valde propria; nam calor amoris ad modum
+solis colorat et ornat illam mulierem de se frigidam et tristem
+quantum ad omnes partes suas; avaritia enim procedit a
+frigiditate, ideo mulier est naturaliter avara; ebrietas
+infrigidat hominem; unde videmus quod ebriosi stant libenter ad
+solem, ut dicit Aristoteles libro Problematum, et Macrobius;
+luxuria vero extinguit calorem naturalem.  
+
+	|16-24.  Poi.~  Hic poeta describit dulcem cantum huius
+fallacis mulieris tam mirabiliter reformatae, in quo praedicat
+mirabilem potentiam suam.  Dicit ergo: |Poi ch'ella avea il
+parlar cos@i disciolto~, quod prius erat ligatum balbutiae,
+|cominciava a cantar~, cum magna delectatione, |s@i che con pena
+avrei rivolto~, idest, difficulter removere potuissem, |mio
+intento~, idest, meam intentionem, |da lei~, ita affixe
+attendebam illi.  Et explicat cantionem eius, dicens: illa
+mulier, |cantava: io son io son~, dicit bis ad maiorem
+expressionem, |dolce sirena~; sirenes secundum fictionem poeticam
+sunt monstra maris antiqua suavissimo cantu seducentia
+navigantes, quos sopitos submergebant et spoliabant.  Ideo bene
+in universali vocat voluptatem hic sirenem, quae propinat dulce
+venenum.  Unde dicit: |che 'n mezzo il mar~, idest, in isto mundo
+amaro, |i marinar dismago~, idest, navigantes disturbo, |tanto
+son di piacer a sentir piena~; et bene dicit, quia quantum ad
+sensum videtur habere summam placibilitatem, quae tamen summe
+conturbat intellectum.  Et subdit efficaciam potentiae suae, quia
+non solum incautos, sed et oculatissimos viros exorbitare fecit. 
+Unde dicit: |Io volsi Ulisse~, qui fuit prudentissimus longa
+experientia, |dal suo camin vago~, quia peregrinatus est per
+decennium, |al canto mio~; sed contra Homerus XI Odysseae dicit,
+quod Ulyxes vitavit sirenes, quia fecit se alligari malo navis,
+et obturavit sibi aures cum cera ne audiret cantum earum.  Dici
+potest quod poeta loquitur de Circe et Calypso, quae verae
+sirenes detinuerunt Ulyxem, Circe per annum, Calypso per multos. 
+Et concludit generalem potentiam suam in omnibus, dicens: |e qual
+meco s'ausa~, idest, quicumque facit sibi habitum per longam
+consuetudinem in ipsis voluptatibus, |rado sen parte s@i tutto
+l'appago~, idest, ita contento eum.  
+
+	|25-33.  Ancor.~  Nunc poeta describit aliam mulierem
+pudicam potentius insurgentem contra illam meretricem
+impudentissimam.  Per hanc intelligit virtutem rationalem quae
+detegit turpitudinem primae, et docet vitare illius blanditias. 
+Dicit ergo continuative: |Ancor non era sua bocca richiusa~, quia
+adhuc persistebat in cantu suo, |quando una donna~, bene vocat
+istam dominam, ubi illam vocaverat famulam, quia ratio debet
+dominari, et passio famulari; |apparve~, scilicet, in somnio,
+|santa~, quia efficit homines sanctos, imo deos, vel |santa~,
+idest firma, ubi illa erat mobilis et mutabilis, |e presta~, quia
+statim succurrit homini contra appetitum sensualitatis,
+|lunghesso a me~, idest prope me, in favorem meum, |per far colei
+confusa~, quae prius gloriabatur de potentia et placibilitate
+sua.  Et ostendit quomodo recurrit ad Virgilium, dicens: |dicea~,
+scilicet, ego Dantes, |fieramente, o Virgilio, Virgilio~,
+admirative loquitur, |chi @e questa~? scilicet, domina, tam
+imperiosae autoritatis: |et ei~, scilicet, Virgilius, |ven$ia con
+gli occhi fitti pur in quella onesta~; et sic vide quod oculus
+Dantis in carne positus respiciebat tantum cum delectatione illam
+primam lubricam, sed oculus Virgilii sine carne respiciebat istam
+secundam cum veneratione: illa enim videbatur pulcra et amabilis,
+ista vero rigida, sed venerabilis.  Et subdit maiorem potentiam
+istius mulieris, quae faciliter confundit illam, dicens: et ista
+mulier, |prendea l'altra~, vel Virgilius fuit, |e dinanzi l'apria
+fendendo i drappi~, et bene; nam pulcritudo tota illius consistit
+solum in superficie.  Nam avaritia videtur pulcra in auro,
+argento, vestibus; gula, in cibis, vinis; luxuria videtur
+pulcerrima in mulieribus, sed interius latet omnis turpitudo et
+abominatio; unde dicit: |e mostravami il ventre~, vas foetidum:
+ideo concludit somnium, |quel mi svegli@o~, idest, excitavit me
+dormientem, |col puzzo che n'uscia.~  O quam bene, quam pulcre
+dicit iste honestus et verax poeta: nonne est magnus foetor avari
+qui foedat omnia pulcra et honorabilia sua miseria? ideo harpiae
+stercorant mensam avari.  Qualis foetor gulosi? nonne ex
+ebrietate cadit in lutum? os eius foetet, nares fluunt, oculi
+lacrymantur, imo evomit vinum, effundit venenum.  Quantus sit
+foetor luxuriae foedum est dicere.
+
+	|34-36.  Io volsi.~  Ista est secunda pars generalis, in
+qua poeta tractat de introitu ad quintum circulum, et purgatione
+sua facta per angelum.  Et primo ostendit quomodo Virgilius
+invitavit eum ad procedendum in via sua, dicens: |Io volsi gli
+occhi al buon maestro~; ac si diceret: quid restat agendum? |e
+mentre~, idest, interim cum volverem oculos, |voce~, scilicet
+Virgilii, venit ad me, |come dicesse: surgi~, quia satis
+dormisti, et phantasiasti, |e vieni, troviam la porta~, novi
+circuli, |per la qual tu entre.~  
+
+	|37-39.~  Et continuo tangit suam obedientiam cum
+descriptione temporis, dicens: |su mi levai, e' giron de l'alto
+monte~, qui tendit usque ad coelum, |eran gi@a pieni dell'altro
+d@i~, scilicet tertio, quasi dicat: omnes circuli purgatorii erant
+jam illuminati novo sole.  Unde dicit: |et andavam col sol nuovo
+alle reni~, quia tunc erant conversi ad occidentem; et haec est
+tertia dies postquam intraverunt purgatorium.  
+
+	|40-42.~  Et subdit suam dispositionem in ista via per
+unam comparationem domesticam et claram, dicens: |seguendo lui~,
+bonum ducem, |portava la mia fronte~, incurvatus ad terram, |come
+colui che l'ha di pensier carca~; magna enim et fortis cura
+gravabat mentem suam propter illam mirabilem visionem; ideo
+dicit: |che fa di se un mezzo arco di ponte~, qui incurvat se eo
+modo quo semiarcus sive semivolta pontis lapidei supra flumen.  
+
+	|43-45.  Quando.~  Hic poeta ponit quomodo fuerit
+directus ab angelo, dicens: sic ergo ibam, |quand'io udi'
+parlare~, scilicet, ab angelo, |venite, qui si varca~, idest, hic
+est passus ad alium circulum, |in modo soave e benigno~, quia vox
+non erat humana, ideo dicit: |qual non si sente in questa mortal
+marca~, idest, non auditur in isto mortali mundo.  
+
+	|46-51.~  Et subdit quomodo traxerit eos, et per quem
+locum, dicens: |colui che s@i parlonne~, scilicet angelus,
+|volseci in su~, versus altum montem, |con l'ali aperte~, quibus
+portabat gratiam, |che parean di cigno~, quasi dicat, albis.  Est
+enim cygnus avis alba, canora, cui recte similatur angelus
+ratione albedinis, quia est purissimus, et ratione cantus
+suavissimi, qui est in angelo; |tra i due pareti del duro
+macigno~, idest, saxi, in quo erat excavata scala, ita quod saxum
+erat excavatum hinc inde tamquam paries rectus: lapis enim
+macignus appellatur ille durus ex quo fiunt macinae.  Deinde
+ostendit quomodo purgaverit eum, dicens: |mosse le penne sue~,
+idest, alas albas, |e ventilonne~; et per hanc ventilationem
+tacite dat intelligi quod angelus abrasit a fronte eius quartum
+P, idest, peccatum accidiae.  Et ecce quomodo pronuntiavit eum
+absolutum; |affermando~, illos |qui lugent esser beati ch'avran
+di consolar l'anime donne~, idest qui habebunt in coelo animas
+suas dominas consolationis.  Vult dicere, quod angelus dixit
+illud Matthaei V capitulo: ^Beati qui lugent quoniam ipsi
+consolabuntur~; quasi dicat: Beati qui deplorant peccata sua in
+vita, sicut fecit ipse poeta, qui vere fuit parum accidiosus, nec
+distulit poenitentiam post mortem, sicut alii qui erant hic.  
+
+	|52-54.  Che hai.~  Hic poeta ostendit quomodo Virgilius
+petiverit ab eo de causa suae alterationis, dicens: |La guida mia
+incominci@o a dirmi, Che hai che 'n v#er la terra par che guati~,
+idest, respicis, cum tamen magis deberes respicere coelum, quanto
+magis salis in altum: et hoc dixit: |poco dall'angelo ambedue
+sormontati~, idest, nobis ambobus parum separatis ab angelo per
+ascensum, quasi dicat: cum modicum ascendissemus post
+ventilationem et locutionem angeli. 
+
+	|55-57.~  Et subdit responsionem suam, dicens: |et io~;
+supple, dixi sibi, |novella vision~, numquam alias visa per
+alium, |ch'a se mi piega~, idest, trahit me ad cogitandum super
+ipsa, ut intelligam quid sibi velit res tam nova; ideo dicit: |s@i
+ch'io non posso dal pensier partirmi~, nisi inveniam quid latet
+sub ista figura; ideo dicit: |fa irmi con tanta suspicion~,
+idest, cum tanto dubio inclinante me ad terram.  
+
+	|58-63.~  Deinde ponit declarationem Virgilii circa
+dubium suum, qui primo replicat formam somnii sub brevitate. 
+Unde dicit: |disse~; ille Virgilius: |vedesti quella antiqua
+strega~, idest, inveteratam meretricem, quae ab initio mundi
+seduxit hominem, |che sola sopra noi omai si piagne~, idest,
+punitur et purgatur deinceps in tribus circulis superioribus; vel
+dicit: quae sola plorat super nos, quia dolet nos recessisse ab
+ea, ipsa remanente confusa, quia non potuit revolvere nos ab
+itinere nostro, sicut jactabat se fecisse de Ulyxe; ideo dicit:
+|vedesti come l'uom da lei si slega~, scilicet, per detectionem
+foetoris.  Et dat Virgilius optimum consilium sibi circa istam
+visionem, suadens ut singulis membris accommodet sua officia, ut
+scilicet, pedibus ambulet per terram, et oculis respiciat coelum. 
+Dicit ergo: |bastiti~, scilicet, quod vidisti ad informationem
+tuam, |e batti a terra le calcagne~, quasi dicat: pedes qui sunt
+apti nati ambulare, deserviant terreno incessui, |et rivolgi gli
+occhi~, qui sunt positi in alto et apti nati ad videndum alta,
+|al logoro che gira~, idest, movet et volvit circulariter, |lo
+rege eterno~, scilicet, Deus, |con le rote magne~, idest, magnis
+speris vel revolutionibus.  Et hoc dicit Virgilius, quia poeta
+portabat oculos ad terram.  Et hic nota quod sub istis verbis
+pulcris Virgilius non vult aliud dicere nisi utaris istis
+terrenis sicut pecunia, gula, luxuria, quantum sufficit ad
+sustentationem vitae, et subiicias ipsa pedibus tuis tamquam
+vilia et parva, et erige speculationem mentalem ad coelum, quod
+est aeternum et immortale; ideo intellectus debet quaerere ipsum.  
+
+	|64-69.  Quale.~  Hic poeta ostendit per nobilem
+comparationem quomodo statim se disposuit avide ad praeceptum
+Virgilii.  Dicit ergo: |Io mi feci tale quale il falcon che prima
+ai pi@e se mira, indi si volge al grido~, scilicet, falconerii, |e
+si protende~, idest, extendit se, |per lo disio del pasto che l@a
+il tira~, scilicet, ad ipsum falconerium.  Et hic nota quantum
+comparatio est propria.  Sicut enim falco de sui natura levis,
+animosus volat in altum per rotas multas magnas, ita poeta noster
+volabat alis ingenii per multos et magnos circulos alti montis. 
+Et sicut falco prius respicit sibi ad pedes, ita nunc faciebat
+ipse poeta; et sicut falco levans caput se extendit aviditate
+escae, quae trahit eum, ita poeta noster erigens caput extendit
+se spe coeli ad clamorem Virgilii, qui, sicut nobilis
+falconerius, ducebat eum ad venationem.  Et concludit quomodo
+ascendit, dicens: |E tal~, qualis falco, |n'andai quanto la
+roccia~, idest, ripa, |si fende~, idest, quantum scala durat per
+totum, |per dar via a chi va suso infine ove 'l cerchiar si
+prende~, idest, usque ad introitum quinti circuli, ubi ascendens
+incipit circuire, sicut fit in omnibus aliis gironibus, quia
+scala est semper recta, sed via quae appellatur cornix est semper
+circularis.
+
+	|70-75.  Com'io.~  Ista est tertia pars generalis, in qua
+poeta describit punitionem et purgationem avarorum in uno spiritu
+moderno avarissimo.  Et ut litera fiat clara est notandum, quod
+poeta perfectissime purgat hic avaros.  Fingit enim quod omnes
+stant plorantes resupinati cum facie ad terram, et tergo contra
+coelum, cum manibus et pedibus ligatis.  Quid autem hoc figuret
+ipse poeta exponit paulo infra, ideo possum levius pertransire. 
+Est ergo imaginandum, quod volens in se purgare vitium avaritiae
+debet in mente sua recordari, dolere et plorare de tam perdita
+vita.  Si enim accidia cessat a bono per pigritiam, avarus facit
+omne malum per malitiam; ideo fugit coelum, colit terram, imo
+fodit more bufonis, et manus et pedes tenet ligatos, quia nemini
+dat, nulli succurrit, infelicissimus hominum.  Quaedam enim
+animalia pro salute vitae sponte abiiciunt partem corporis, ut
+dicit Plinius, sicut vulpes capta laqueo cum dentibus amputat
+sibi pedem pro evasione.  Avarus vero miser animam exponit
+manifestae morti pro modica pecunia acquirenda vel defendenda. 
+Ad literam ergo: poeta dicit: |Com'io nel quinto giro fui
+dischiuso~; hoc dicit, quia scala est clausa intra duos parietes,
+sed cornix illa est aperta ab extremitate, ubi nullum habet
+claustrum, |vidi gente per esso~, idest, genus avarorum, |che
+piangea~, culpam suam, |giacendo a terra tutta volta in giuso.~ 
+Et subdit quid dicebant in planctu; unde dicit: |senti' dir
+loro~, scilicet avaros, illud dictum prophetae: |Adhaesit
+pavimento anima mea.~  Vult dicere, quod omnis avarus purgans se
+dicit cum dolore: tota intentio et affectio mea et animae meae
+vacavit in vita cupiditati terrenorum inutiliter; est enim
+pavimentum terra indurata, calcata, quale est solum ecclesiarum;
+et dicit: |con s@i alti sospiri~, quia profunda fuerat avaritia,
+|che la parola a pena s'intendea.~  
+
+	|76-78.  O eletti.~  Hic poeta ponit petitionem Virgilii
+ad illos spiritus, qui captans benevolentiam dicit: |O eletti di
+Dio~, idest, praedestinati ad salvationem, |li cui soffriri~,
+idest, quorum poenas quas portatis, |e giustizia e speranza fan
+men duri~, idest, minus gravia et tolerabiliora; duo enim
+alleviant poenas istorum, scilicet, justitia, quia digne
+patiuntur, et spes, quia sperant post satisfactionem pervenire ad
+felicitatem; |drizzate noi verso gli alti saliri~, idest, ad
+ascensum alti montis postquam per vos non potestis ascendere.  
+
+	|79-87.~  Et subdit responsionem unius illorum spirituum,
+qui captat benevolentiam eo modo quo fecerat Virgilius, dicens:
+|se voi venite dal giacer sicuri~; hoc dicit, quia Virgilius
+dixerat quod volebant ascendere, ex quo comprehendebat quod erant
+sine poena, et ex speciali gratia faciebant istud iter; vel quia
+imaginabatur quod fuissent in eadem poena, sed soluti et purgati;
+et loquitur dubitative, quia jacens ad terram non poterat videre
+eos.  Dicit ergo: |e volete trovar la via pi@u tosto, le vostre
+destre sian sempre di furi~: moraliter loquendo, non teneatis
+manus subtus, sicut nos fecimus, non porrigendo pauperi proximo. 
+Et concludit poeta ne procedat obscure: |cos@i preg@o il poeta~,
+scilicet, Virgilius per excellentiam, |e s@i risposto poco dinanzi
+a noi~, ab uno spiritu magni sacerdotis; unde dicit: |perch'io
+nel parlar avvisai l'altro nascosto.~  Vult dicere quod ex verbis
+perpendit de alio spiritu jacente, ita quod loquela erat quasi
+latens.  Et ostendit quomodo petivit licentiam loquendi cum eo;
+unde dicit: |e volsi gli occhi agli occhi al signor mio~,
+scilicet Virgilio, quasi dicens tacite: possum loqui cum isto? 
+Et ponit assensum illius dum dicit: |ond'elli m'assent@i con lieto
+cenno ci@o che chiedea la vista del disio~; nam in facie ostendi
+desiderium meum, sine loqui, et Virgilius similiter solo nutu
+respondit: secure loquere cum isto papa avaro, aliter tamen quam
+cum papa Nicolao de Ursinis.  
+
+	|88-96.  Poi.~  Hic poeta ostendit quomodo allocutus
+fuerit illum spiritum, dicens: |Poi ch'io potei di me fare a mio
+senno~, ex licentia domini, quia servus non est sui juris,
+|trassimi sopra quella creatura~, scilicet papam Adrianum, qui
+non poterat ad me venire, |le cui parole pria notar mi fenno~,
+quando respondit Virgilio, |dicendo~, cum exordio: |o spirto, in
+cui pianger~, idest, planctus, |matura~, idest, accelerat cum
+maturitate, |quel~, scilicet, fructum poenitentiae, |sanza il
+quale a Dio tornar non puossi~, quia sine depuratione non potest
+anima reverti ad coelum, |sosta un poco per me~, idest, in
+favorem meum, |tua maggior cura~; quasi dicat: licet plus cures
+de planctu quam de me, rogo, cessa modicum a fletu gratia mei,
+quia si tu purgas avaritiam, et ego quaero totis viribus fugare
+eam a me et ab aliis.  Et continuo petit tria, dicens: |dimme~,
+idest, dic mihi: |chi fosti~, haec est prima petitio; |e perch@e
+avete v#olti i dossi al su~, contra coelum; et tertio petit: dic
+mihi, |e se vuoi ch'io t'impetri cosa di l@a~, in mundo vivorum,
+|ond'io vivendo mossi~, quando descendi ad infernum per quem huc
+veni.  Et sic vide quod poeta dicit implicite qualiter est
+securus a jacendo.   
+
+	|97-99.  Et elli.~  Nunc poeta ponit responsionem illius
+spiritus ad quaesita, qui primo respondet primae petitioni, et
+promittit se responsurum ad secundam; unde dicit: |Et elli a me~,
+supple respondit: |saprai~, scilicet, paulo post, |perch@e 'l
+cielo rivolga i nostri diretri~, idest, dorsa, |a se~, nolens
+quod videamus ipsum.  Et describit se a dignitate dicens: |ma
+prima, Scias quod ego fui successor Petri~, sed non pauper ut
+Petrus; deinde describit se a nobilitate generis.  Et ad
+evidentiam sequentis literae debes scire, quod in MCCLXXIII,
+Adrianus V natione januensis de famosa et potenti domo illorum de
+Flisco, qui primo vocatus erat Octobonus, electus est ad papatum
+tempore Rodulphi electi ad imperium romanorum.  Sedit in cathedra
+Petri uno mense et octo diebus; unde morte praeventus nec
+sacerdos ordinatus est.  
+
+	|100-102.~  Dicit ergo Adrianus: |Una fiumana bella~, sic
+dicta a flumine Lavagna, |s'adima~, idest, avallatur, seu
+abassatur, |intra Siestri e Chiaveri~, quae sunt duae terrae
+riperiae januensis; |lo titol del mio sangue~, idest, illorum de
+Flisco, |fa sua cima~, idest, apicem sive culmen nobilitatis et
+potentiae magnae, |e del suo nome~; quia scilicet dicti nobiles
+vocantur comites de Lavagna, seu de Lovagno.  De quorum genere
+fuerunt multi viri valentes, praecipue alius papa, qui dictus est
+Innocentius papa IV vir quidem magnificus, et destructor
+Friderici II, et scientificus in utroque jure et sacra scriptura. 
+Et huius Innocentii fuit nepos iste Adrianus ex fratre; qui suis
+exultantibus de promotione sua dixit: ^Melius erat vobis habere
+cardinalem vivum, quam papam mortuum.~  
+
+	|103-105.  Un mese.~  Hic Adrianus ostendit, qualiter
+modica experientia cognovit importabile pondus papalis dignitatis
+dicens: |Un mese e poco pi@u prova' io come pesa 'l gran manto~,
+per mantellum Petri dat intelligi papatum, et maxime, |a chi dal
+fango il guarda~, sicut a labe avaritiae, gulae, et luxuriae,
+quae foedant virtutes omnes, ut jam dictum est in prima parte. 
+Et hic nota, quod vere laboriosum est onus pontificale, si debeat
+bene servari immaculatum.  Et magis experto poterat credere
+Adrianus, scilicet sanctissimo papae Gregorio I, qui in multis
+libris et locis dolet et deplorat istud gravamen; ex quo ostendit
+sarcinam illam nimis molestam esse omnibus, qui custodiunt illam
+illaesam.  Ideo bene Coelestinus IV quasi mortifero fasce
+deposito, cum gaudio et laetitia solitudinem repetebat, nisi
+retractus fuisset opera Bonifacii; et tamen in illo privato
+carcere sancte vixit, et animam feliciter Deo reddidit; ubi
+Bonifacius infeliciter et desperate vitam finivit.  Et confirmat
+dictum suum per comparationem claram, dicens: |che men mi sembran
+tutte l'altre some~, idest, quia caetera onera, quantumcumque
+gravissima, videntur levissima in comparatione ad istud.  Et hic
+nota, quod vere nullum onus est par isti; nam qui summum
+pontificatum adeptus est, omnium curas, omnium sarcinas in se
+ipsum transtulit; quoniam intravit mare magnum cum parva
+navicula, quae semper agitatur turbine omnium ventorum; et ex
+libero factus servus in magnam miseriam incidit: omnium enim
+linguae de eo loquuntur, et lacerant eius vitam, et quidquid mali
+fit ubique totum ex illo, quasi uno fonte malorum, provenisse
+dicunt.  Ideo bene alius papa Adrianus, natione anglicus,
+dicebat, quod pastor erat similis ventri, contra quem olim omnia
+membra iniuste coniuraverunt, ideo juste defecerunt.  Nam
+stomachus quasi servus publicus dispensans omnia omnibus alimenta
+subtraxit.  Ideo, ut breviter concludam, summus pontificatus, si
+bene geritur, est summus honor, summum onus, summa servitus,
+summus labor: si vero male, est summum periculum animae, summum
+malum, summa miseria, summus pudor.  Ergo dubium est ex omni
+parte negotium.  Ideo bene praefatus Adrianus papa quartus
+dicebat, cathedram Petri spinosam et mantum eius acutissimis per
+totum consertum aculeis, et tantae gravitatis, ut robustissimos
+premat et conterat humeros.  Et concludebat: nonne miseria dignus
+est, qui pro tanta pugnat miseria?  Et dicit: |un mese e poco
+pi@u~, quia stetit in papatu forte quadraginta diebus.  Et hic
+nota quod cum omnis hominum vita sit brevis, regum est brevior,
+pontificum brevissima.  Unde multo maior numerus pontificum, quam
+imperatorum invenitur.  Quia raro aliquis vocatur ad culmen
+tantae dignitatis, nisi senex vel vergens in senium. 
+
+	|106-108.  La mia conversion.~  Hic Adrianus ostendit,
+quando et quare recognovit errorem suum, dicens: |La mia
+conversion~, scilicet, ad Deum, |oim@e~, heu mihi! damno meo, |fu
+tarda~, quia solum circa finem; unde dicit: |ma, come fatto fui
+roman pastore~, idest, papa romanus, |cos@i scopersi la vita
+bugiarda~, quia avaritia mendax promittit homini sufficientiam,
+et praestat sibi indigentiam.  Et tangit causam, quare detexit
+vitam fallacem in papatu, quia venit sibi in mentem: Ecce quid
+petisti? tot laboribus, tot viribus cunctis diebus vitae tuae,
+studens semper cupiditati, ut pervenires ad istum amarum gradum? 
+
+	|109-114.~  Dicit ergo: |Vidi che l@i~, idest, in tanta
+altitudine, |non si quetava il core~, sicut falso speraveram, |n@e
+pi@u salir poteasi in quella vita~, idest, non poteram pervenire
+ad altiorem gradum dignitatis in vita temporali.  Et hic nota,
+quod Adrianus fecit optimam rationem.  Cui enim regi vel principi
+est tanta dignitas vel potestas?  Caeteri habent regere mortalia;
+hic spiritualia gubernare: alii habent praeminentiam ab homine,
+hic ab aeterna sapientia Dei: alii facultatem terrenorum, hic
+habet libertatem aeternorum, immo, ut dicunt, dominator vivorum
+simul et mortuorum.  Nihil ergo maius est vel esse potest in orbe
+christiano, licet hodie parum magnipendatur; ideo bene dicit:
+|perch@e di questa~, scilicet, vita aeterna, pro qua habenda hic
+purgor plorando, |in me s'accese amore.~  Et hic subdit qualis
+fuerit ante illud tempus dicens: |fino a quel punto~, promotionis
+maximae, |fui anima misera e partita da Dio.~  Et hic nota quod
+Adrianus verum dicit; quoniam avaritia sectatores suos a
+consortio divinitatis et usu coelestis beatitudinis removet et
+elongat; nec potest avarus fieri voti compos, sicut accidit uni
+consorti istius Adriani.  Nam dominus principalis de Flisco
+ditissimus clericorum impetravit vicariatum imperii a Rodulpho,
+ex quo depauperatus est.  Et dicit Adrianus, |del tutto avara~,
+quia furor totius avaritiae consistit in duobus articulis,
+scilicet quia immoderate appetit aliena, et sua tenacius servat,
+sicut iste fecit diu.  Et hic nota quod a principio primitivae
+ecclesiae olim haec dignitas non erat invidiosa, quia omnes fere
+pontifices trahebantur ad supplicium et martyrium; nunc vero
+petitur cum tanta ambitione, ut fraudes, munera et promissa
+interveniant pro hac dignitate habenda.  Et concludit Adrianus in
+hac materia: |or, come vedi, qui ne son punita.~  
+
+	|115-120.  Quel.~  Hic Adrianus respondet secundae
+petitioni juxta promissionem factam ostendens, quare stant sub
+tali forma martyrii.  Unde dicit: |Quel che avarizia fa~,
+scilicet, malitia avaritiae, |si dichiara qui~, scilicet, in ista
+poena, |in purgazion dell'anime converse~, scilicet, ad Deum,
+quales sunt animae avarorum ibi positorum, qui habuerunt
+emendationem in fine.  Et hic nota, quod poeta bene fingit hoc,
+quia memoria et consideratio excruciat animum poenitentis avari,
+dum recolit qualiter caecus non levavit oculos ad coelum, sed
+solum tenuit fixos ad terrestria; et manus et pedes habuit semper
+ligatos non erogando aliquid pauperibus, non subveniendo proximo,
+non proficiendo sibi nec alteri.  Ideo bene dicit: |e nulla pena
+il monte ha pi@u amara~; quia memoria talis vitae perditissimae
+est amarissima; et loquitur hyperbolice.  Et declarat
+particulariter quare sic stent, dicens: |siccome l'occhio nostro
+non s'aderse~, in vita, |in altro fisso ch'a le cose terrene;
+cos@i giustizia qui~, in isto circulo, |a terra il merse.~  Unde
+nota quod isti avari recte ferunt imaginem talparum, quia semper
+in imo versantur, quorum tota conversio in terram deprimitur ut
+nihil altum sapiant, nihil divinum, sed et nihil humanum; nam
+solius hominis est recta facie respicere coelum, cum natura
+caetera animalia abiecerit ad pastum: sic ergo peior est quem
+culpa maculat, eo qui naturae parit imperio.  
+
+	|121-124.~  Et eodem modo dicit: |come avarizia spense il
+nostro amore~; nam avaritiae frigus extinguit omnem amorem et
+omnem ardorem caritatis: |onde operar perd@esi~, omne bonum; |cos@i
+giustizia qui stretti ne tiene nei piedi e nelle man legati e
+presi.~  Et hic nota quod istud maxime tangit ipsum pontificem
+qui infinitis creditoribus est obligatus.  Ideo bene Gregorius
+vocavit se servum servorum Dei, qui habet reddere rationem Domino
+omnium ecclesiarum, immo omnium animarum quae pereunt negligentia
+sua.  Ergo quantumcumque qui eligitur papa sit ditissimus statim
+efficitur pauperrimus.  
+
+	|125-126.~  Et concludit Adrianus: |e quanto fia piacer
+del giusto sire~, idest, quamdiu placebit Deo justo domino,
+|tanto staremo immobili e sospesi~; sub spe.
+
+	|127-132.  Io m'era.~  Ista est quarta et ultima pars, in
+qua poeta removet unam dubitationem circa dictum spiritum,
+scilicet, utrum dignitas temporalis finiatur morte temporali.  Et
+fingit primo quod voluit procumbere ad pedes eius, et ipsum
+revereri secundum exigentiam altissimae dignitatis; unde dicit:
+|Io m'era inginocchiato, e volea dire~, ad excusationem meam:
+Sanctissime Pater, parcat sanctitas vestra justae ignorantiae
+meae, quia nesciebam vos esse papam.  Unde nota quod nulli inter
+christianos exhibetur reverentia maior, quantumcumque ille sit
+vilissimus vel vitiosissimus; quod pro miraculo habetur a multis. 
+Hoc autem eleganter tetigit hic poeta semel in civitate Veronae. 
+Nam cum ibi coenaret cum quibusdam honoratissimis viris, unus
+curiosus petiit: Unde est, vir doctissime, quod vir semel
+naufragus reintrat mare; quod mulier semel puerpera vult amplius
+concipere; et quod tot millia pauperum non deglutiunt paucissimos
+divites?  Cui prudentissimus Dantes, veritus parere errorem
+convivis minus intelligentibus, sagaciter vitavit solutionem.  Et
+respondens petenti dixit: Adde quartum; quare scilicet principes
+et reges terrae reverenter exosculantur pedem filio lotricis et
+tonsoris, cum fuerit factus papa?  Et dicit, quod Adrianus
+recusavit suam reverentiam, dicens: |ma com'io cominciai~,
+supple, dicere, |et ei s'accorse del mio reverire, solo
+ascoltando~; bene dicit, quia Adrianus non poterat videre ipsum
+flectentem genua aut inclinantem se, quia tenebat oculos fixos
+immobiliter ad terram; |disse: qual cagion cos@i ti torse in gi@u~;
+et ponit responsionem suam, dicens: |et io a lui~, supple, dixi:
+|mia coscienza dritta~, cum sim fidelis devotus militantis
+ecclesiae, |mi rimorse~, quod fueram locutus ita nude et in
+singulari, |per vostra dignitate~, scilicet, papali; ideo nunc
+loquitur sibi in plurali.  
+
+	|133-138.  Drizza.~  Hic poeta ponit responsionem Adriani
+qui probat quod post mortem nec sibi nec alteri debeatur
+exhibitio reverentiae; unde dicit ille Adrianus: |Rispose: o
+frate, drizza le gambe e levati su, non errare~; et probat quod
+non debeat ipsum revereri nunc, dicens: ego, |son conservo teco e
+con gli altri ad una potestate.~  Haec verba sunt abstracta de
+Apocalypsi XVIIII capitulo, ubi, cum beatus Joannes procubuisset
+ad pedes unius angeli fuit sibi dictum: Vide ne feceris;
+conservus tuus sum et fratrum tuorum habentium testimonium Jesu,
+Deum adora.  Et sic vide quomodo Adrianus adducit optimum
+exemplum ex optimo libro sacrae scripturae; si enim fas est
+facere talem comparationem, Dantes vir summe speculativus potest
+assimilari Joanni summe contemplativo, quorum uterque licet
+diversimode in abstractione mentis vidit varias et mirabiles
+figuras.  Sicut ergo Joannes procubuerat ad pedes angeli, ita
+nunc Dantes ad pedes magni sacerdotis; et sicut angelus non
+acceptavit hunc honorem vocans se conservum eius et aliorum
+habentium testimonium Jesu, ita nunc papa fecit, vocans se
+conservum autoris et aliorum christianorum; ideo textus qui habet
+^converso~ perversus est.  Et subdit Adrianus confirmans dictum
+suum per aliud testimonium sacrae scripturae; |ben puoi veder
+perch'io cos@i ragiono, se mai intendesti quel santo evangelico
+suono~, Matthaei XXII capitulo, che dice: ^in resurrectione neque
+nubent neque nubentur.~  Sic enim respondit Christus cum facta
+esset sibi quaestio de muliere quae plures habuit viros, cuius
+debeat esse in resurrectione.  Ex quibus patet quod dignitas
+temporalis vanescit per mortem. 
+
+	|139-141.  Vattene.~  Hic ultimo Adrianus licentiat
+poetam, dicens: |Vattene omai~, quia habes plura videre de
+materia uberrima avarorum, et ego habeo redire ad solitum
+planctum.  Unde dicit: |non vo' che pi@u t'arresti~, quia satis
+stetisti mecum, |ch@e la tua stanza mio pianger disagia~, idest,
+quia tua mora interrumpit planctum meum, |col qual maturo~,
+idest, accelero, |ci@o che tu dicesti~, paulo supra, scilicet
+poenitentiam.  
+
+	|142-146.~  Et continuo Adrianus respondet tertiae
+petitioni; quia enim petiverat supra, si volebat eum facere
+aliquid in mundo, respondet Adrianus: |Nepote ho io di l@a~,
+scilicet in Tuscia in valle Macrae, |ch'ha nome Alagia~; ista
+neptis papae Adriani fuit uxor marchionis Marcelli Malaspinae,
+qui multum honoravit eum tempore sui exilii, ut alibi dictum est;
+et ista domina multum complacuit tunc Danti.  Unde quidam volunt,
+quod poeta loquatur de ea infra capitulo XXIV, ubi dicit, quod
+una mulier faciet sibi placere civitatem Lucanam: sed non credo. 
+Et dicit Adrianus: |buona da se~, quia naturaliter pudica et
+honesta, |pur che la nostra casa non faccia lei per esemplo
+malvagia~, idest, lubricam, et impudicam.  Et vide, quod iste
+sacerdos loquitur honeste et caute: dicit enim quod neptis est
+bona, nisi imitetur exemplum aliarum de domo sua.  Per hoc enim
+dat intelligi caute, quod mulieres illorum de Flisco fuerunt
+nobiles meretrices; qualis, si fama non mentitur, fuit uxor Petri
+de Russis de Parma, strenuissimi militis.  Quid dicam de Isabella
+uxore domini Luchini potentissimi et justissimi tyranni in
+Lombardia?  Et concludit Adrianus: |e questa sola m'@e di l@a
+rimasa~, in qua sperare possim; quia illi de domo mea sunt dediti
+avaritiae, sicut ego fui, tum quia januensis, tum quia sacerdos. 
+Ideo rogo te, recommenda me sibi et bonis operibus suis.
+
+

@@ -1,0 +1,3 @@
+set	mail = (/usr/spool/mail/dante /usr/spool/mail/siena)
+setenv	replyto	siena@Eleazar
+unalias	mail

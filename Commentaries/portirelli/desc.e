@@ -1,0 +1,19 @@
+..COMM:
+Portirelli
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Luigi Portirelli
+..PUBD:
+1804-05
+..PUBL:
+La Divina Commedia di Dante Alighieri illustrata di note da
+Luigi Portirelli [and, for ^Par.~, G. Ferrario].  Milano, Tipografia
+de' Classici Italiani, 1804-05.
+..DENT:
+Typed
+..EDTR:
+Antonia Rossi
+..LODD:

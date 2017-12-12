@@ -1,0 +1,32 @@
+This file demonstrates all Dante Project escape sequences.
+
+[1mThis is boldface.[0m	This is not.
+[4mThis is italics.[0m	This is not.
+[1m[4mThis is bold italics.[0m	This is not.
+
+Upper and lower case Roman and Greek alphabets follow:
+
+	ABCDEFGHIJKLMNOPQRSTUVWXYZ
+	_ABCDEFGHIJKLMNOPQRSTUVWXYZ[0m
+
+	abcdefghijklmnopqrstuvwxyz
+	_abcdefghijklmnopqrstuvwxyz[0m
+
+«This line has quotes.»
+
+This is a "1" followed by a degree mark: 1°.
+
+Grave accents:
+	À à È è Ì ì Ò ò Ù ù Q q
+
+Acute accents and cedillas:
+	Á á É é Í í Ó ó Ú ú Q q Ç ç
+
+Carets:
+	Â â Ê ê Î î Ô ô Û û
+
+Umlauts:
+	Ä ä Ë ë Ï ï Ö ö Ü ü
+
+Ligatures:
+	æ Æ ÷ ×

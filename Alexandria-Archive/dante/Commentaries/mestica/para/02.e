@@ -1,0 +1,376 @@
+	|1-15.  O voi che siete~ ec.: A principio della 
+seconda Cantica il Poeta aveva rassomigliato il suo ingegno a una 
+^navicella~ che lasciando dietro a s$e un ^mare crudele~ 
+(^Inferno~) alza ora le vele dovendo correre ^acqua migliore~ 
+(^Purgatorio~).  Qui riprende le stesse immagini: se non che la 
+navicella si converte in un |legno~, o grossa nave, che cantando 
+varca per l'alto mare (|alto sale~), e lascia dietro a s$e le 
+barche picciolette che non possono e non devono osare di seguirlo 
+per un'acqua che giammai non si corse da alcuno, perch$e 
+rischierebbero di rimanere nel pelago smarrite. 
+
+     @E aperto e chiaro il significato di questo ammonimento 
+che il Poeta, consapevole dell'altezza del suo ingegno e della 
+profonda dottrina acquistata con lungo studio e grande amore, 
+compenetrato della sublimit@a della materia che ora prende a 
+trattare, rivolge a coloro di mal provveduto e debole ingegno. -- 
+Tornate ai vostri modesti studi, egli dice loro, ch$e alle alte 
+speculazioni il vostro ingegno ha corte l'ali. -- In sostanza @e 
+l'avvertimento che Orazio nell'^Arte poetica~ d@a agli scrittori: 
+<Prendete materia adeguata alle forze, voi che scrivete, e 
+bilanciate a lungo qual peso gli omeri vostri ricusino o possano 
+sostenere> (v. 38-41). 
+
+	Il Poeta si desidera a lettori della sublima Cantica quei 
+pochi che fin da giovani inalzarono la mente a quei sommi e 
+dolcissimi veri che sono il |pan de li Angeli~, del quale pur si 
+vive qui in Terra, ma non se ne rimane satolli che in Cielo: <Oh 
+beati quelli pochi che seggiono a quella mensa dove lo pane de li 
+angeli si manuca! e miseri quelli che con le pecore hanno comune 
+cibo!>  Cos$i il Poeta esclama nel ^Convivio~ (Tratt. I, c. I); e 
+modestamente quanto a s$e soggiunge: <E io, che non seggio a la 
+beata mensa, ma, fuggito de la pastura del vulgo, a' piedi di 
+coloro che seggiono ricolgo di quello che da loro cade, e conosco 
+la misera vita di quelli che dietro m'ho lasciati, per la 
+dolcezza ch'io sento in quello che a poco a poco ricolgo, 
+misericordievolmente mosso, non me dimenticando, per li miseri 
+alcuna cosa ho riservata>.  Ci@o Dante poteva dire allorch$e 
+scriveva il ^Convivio~, e modestamente augurarsi che, <dirizzato 
+l'artimone de la ragione a l'ora del ^suo~ desiderio, la ^sua 
+nave entrasse~ in pelago con isperanza di dolce cammino e di 
+salutevole porto> (Tratt. II, c. I).  Ora per@o le condizioni 
+eran molto cambiate: non pi$u ai miseri e non pi$u le briciole 
+del pane della sapienza, ma a quelli stessi che siedono alla 
+beata mensa pu@o somministrare il cibo dell'anima da nessuno 
+gustato ancora, perch$e nessuno aveva mai osato di mettere in 
+versi volgari forti cose a pensare; e ben lo poteva il Poeta per 
+l'alto suo ingegno avvalorato dalla scienza delle cose umane e 
+divine (|Muse~ e |Minerva~) e dal magistero dell'arte (|Apollo~) 
+che ha il suo fondamento nella meditazione profonda e nel saper 
+quindi significare ci@o che Amore detta dentro.  Cfr. C. XXIII, 
+67-69. 
+
+	|16-18.  Que' gloriosi~ ec.: Si veda l'Introduzione al 
+Canto e la nota ai v. 86-87, C. XVIII, ^Inferno.~ 
+
+	|19-21.  La concreata~ ec.: L'amore ingenito, 
+istintivo, quella sete naturale che mai non si sazia se non alla 
+fonte dell'eterno Vero <Di fuor dal qual nessun vero si spazia> 
+(C. IV, 126), ci portava verso l'Empireo con quella velocit@a con 
+cui lo sguardo si leva al Cielo a un mover di ciglia. 
+
+	|23-24.  In quanto un quadrel~ ec.: Per significarci 
+la rapidit@a del movimento Dante pi$u volte si vale dell'immagine 
+dello strale: <Corda non pinse mai da s@e saetta Che s@i corresse 
+via per l'aere snella, Com'io vidi una nave piccioletta Venir per 
+l'acqua ec.> (^Inf.~, VIII, 13-15); Gerione <Si dilegu@o come 
+da corda cocca> (^Ivi~, XVII, 136); <E s@i come saetta, che nel 
+segno Percuote pria che sia la corda queta, Cos@i corremmo nel 
+secondo regno> (^Par.~, V, 91-93).  Qui pure abbiamo la 
+similitudine dello strale che colpisce nel segno, trasvola per 
+l'aria ed esce di balestra.  L'inversione del procedimento 
+naturale @e fatta con arte, a rendere pi$u sensibile la rapidit@a 
+di quel volo, quasi che il prima e il poi fossero un solo 
+istante.  Inversione consimile di fatto naturale l'abbiamo nel C. 
+XXII, l@a dove il Poeta dice della sua rapida ascensione dal 
+Cielo di Saturno al Cielo stellato, e precisamente alla 
+costellazione dei Gemelli che segue quella del Toro: <Tu non 
+avresti in tanto tratto e messo Nel foco il dito, in quant'io 
+vidi 'l segno Che segue il Tauro e fui dentro da esso> (109-111). 
+
+	|26-27.  E per@o quella~ ec.: <Ond'ella, che vedea me 
+s@i com'io ec. > (C. I, 85). 
+
+	|31-33.  Parev'a me~ ec.: Dante penetra con Beatrice 
+nella sostanza lunare, la quale a lui rende immagine d'una nube 
+accesa dai raggi del Sole, densa, consistente e liscia.  Gli 
+attributi di |lucida~, |spessa~ e |solida~, osserva l'Antonelli, 
+sono convenienti, non cos$i il |pulita~, essendo la faccia della 
+Luna che @e volta verso la Terra, scabrosissima per grandi catene 
+di monti, per picchi elevati. 
+
+	|34.  L'etterna margarita~: Perla, Gemma eterna, 
+incorruttibile, del Cielo. 
+
+	|35-36.  Com'acqua~ ec.: L'immagine del raggio di 
+luce che penetra una massa d'acqua senza disunirla @e 
+felicissima, dice l'Antonelli, e l'unica che la Fisica ci 
+somministri per vedere come sensibilmente possa venire 
+un'eccezione a una delle leggi della natura, la impenetrabilit@a 
+dei corpi.  Con quella immagine viene a ritrarci la felice 
+trasformazione avvenuta nel suo corpo, per cui pu@o penetrare la 
+sostanza di quel Pianeta senza disunirla. 
+
+	|37-45.  S'io era corpo~ ec.: Anche precedentemente il 
+Poeta aveva manifestato questo dubbio: <S'i'era sol di me quel 
+che creasti Novellamente, amore che 'l ciel governi, Tu 'l sai, 
+che col tuo lume mi levasti> (C. I, 73-75).  Qui ribatte lo 
+stesso dubbio: -- Se io ero in anima e corpo, e qui su la Terra 
+non si concepisce come una dimensione possa accoglierne un'altra 
+dentro di s$e, il che necessariamente accadrebbe se un corpo 
+s'insinuasse (|repe~ dal lat. ^repere~), penetrasse in un altro, 
+questo miracolo vero dovrebbe vie pi$u accendere in noi il 
+desiderio di giungere a conoscere quella |Essenza~ (Cristo), in 
+cui si vedono insieme congiunte le due nature, umana e divina.  
+In quella divina Essenza vedremo un giorno quei misteri che noi 
+ora teniamo veri per fede.  In tale Essenza dunque noi vedremo 
+quei misteri, e non per dimostrazione, ma per semplice 
+intuizione, nella stessa guisa con cui il nostro intelletto 
+presta perfettamente il suo assenso al |ver primo~, o ^prime 
+notizie~ che possiamo considerare come esistenti virtualmente in 
+noi, in quanto il senso le eccita, non le d@a.  Si veda la nota 
+ai v. 55-60, ^Purgatorio~, XVIII. 
+
+	|52-57.  S'egli erra~ ec.: Se gli uomini sbagliano 
+laggi$u in Terra, a tanta distanza dalla Luna, favoleggiando di 
+^Caino e le spine~, non dovresti pi$u maravigliarti, da che tu 
+che sei in essa e vedi le macchie da presso, non sai spiegartele.  
+In altre parole: Se la mente umana non sempre riesce a 
+comprendere le cose anche se la soccorre il senso, nessuna 
+maraviglia che essa erri quando il senso non soccorre, poich$e 
+dal senso prende le mosse la nostra conoscenza, e per@o dice 
+Aristotile: <Nulla @e del nostro intelletto che non sia stato 
+prima nel senso>; o in altre parole: il senso fornisce la materia 
+prima all'intelletto; il che significa Dante in quel verso in cui 
+chiama l'apprensiva dei sensi <La virt@u ch'a ragion discorso 
+ammanna> (^Purg.~, XXIX, 49).  Dalle sensazioni e dai fantasmi 
+delle cose l'intelletto apprende la loro natura immaterialmente e 
+immutabilmente, e forma i concetti; ma per quanto in essi si 
+sublimi non si potr@a mai rompere il nodo che alla sensitivit@a 
+lo congiunge.  E per@o l'ingegno umano <solo da sensato apprende 
+Ci@o che fa poscia d'intelletto degno> (C. IV, 40-42).  E 
+questa cosa per Dante @e tanto certa, ch'egli qui afferma che 
+dove il senso non apre la verit@a, il giudizio dei mortali va 
+fuori del vero.  E in altra opera a lui attribuita @e detto: 
+<Omnis opinio quae contradicit sensui est mala opinio>.  Ogni 
+opinione che contradice al senso @e mala opinione (^Quaestio de 
+acqua et terra, 3).  Quindi @e che il <nostro intelletto non puote
+a certe cose salire, s@i come sono le sustanze partite da materia;
+de le quali se alcuna considerazione sanza di quella avere potemo,
+intendere non le potemo, n@e comprendere perfettamente> (^Conv.~,
+Trattato III, c. IV).  Donde l'uso delle metafore e dei paragoni
+che noi siamo costretti di adoperare allorch$e ci piace fare
+intendere ad altri la verit@a.  Cos$i degli enti immateriali, di
+Dio, degli Angeli, l'intelletto ha soltanto una conoscenza
+analogica; ad essi, cio@e, ascende dalla conoscenza delle cose
+sensibili: <Per questo la Scrittura condescende A vostra facultate,
+e piedi e mano Attribuisce a Dio, ed altro intende; E Santa Chiesa
+con aspetto umano Gabriel e Michel vi rappresenta. E l'altro che
+Tobia rifece sano> (C. IV, 43-48).  N$e alla verit@a di questa
+dottrina della conoscenza fondata nel senso contrasta punto ci@o
+che il Poeta stesso dice nel C. XVIII del ^Purgatorio~, dove, dopo
+aver accennato alla specifica virt$u dell'Anima umana, che @e la
+virt$u del conoscere e la virt$u dell'amare, dice che ciascuna di
+queste due virt$u ha i suoi propri oggetti: cio@e, la virt$u del
+conoscere, certe ^prime notizie~ o assiomi, chiamati qui |il ver
+primo che l'uom crede~, che la dirigono nelle sue particolari
+operazioni; e la virt$u dell'amare, certi ^primi appetiti~, come
+l'amore del vero, del bello, del buono, della felicit@a, ec., che
+similmente la muovono e la guidano nelle sue particolari
+operazioni. 
+
+	|59-60.  Ci@o che n'appar~ ec.: Ci@o che a noi mortali 
+apparisce diverso qua su nella Luna (cio@e le macchie lunari), 
+credo derivi dall'esser la materia di essa dove pi$u rara, dove 
+pi$u densa.  Questa opinione su le macchie della Luna, procedenti 
+dalla minore o maggiore spessezza del corpo, Dante pi$u 
+chiaramente la espresse nel ^Convivio~, l@a dove dice che l'ombra 
+che @e nella Luna non @e altro che <raritade del suo corpo, a la 
+quale non possono terminare li raggi del sole e ripercuotersi 
+cos@i come ne l'altre parti> (Tratt. II, c. XIII). 
+
+	|61-63.  Certo assai vedrai sommerso~ ec.: A proposito 
+di questa confutazione di Beatrice e della susseguente 
+dimostrazione @e opportuno notare con Dante che due sono le vie 
+che la mente pu@o tenere nel trattare la verit@a: <Trattare lo 
+vero e poi riprovare lo falso; o si fa l'opposto, ch@e prima si 
+ripruova lo falso, e poi si tratta lo vero>.  E la seconda via 
+segue Beatrice in questo suo ragionamento, dove <prima si 
+ripruova lo falso, acci@o che, fugate le male oppinioni, la 
+veritade poi pi@u liberamente sia ricevuta.  E questo modo tenne 
+lo maestro de l'umana ragione, Aristotile, che sempre prima 
+combatteo con li avversari de la veritade e poi, quelli convinti, 
+la veritade mostroe> (^Conv.~, Tratt. IV, c. II). 
+
+	|64-148.  La spera ottava~ ec.: Qui, come in altri 
+Canti del Poema, abbiamo creduto opportuno esporre per disteso il 
+ragionamento nell'Introduzione premessa al Canto, perch$e meglio, 
+cos$i per disteso, pu@o chiaramente comprendersi, di quello che 
+spezzettandolo in molteplici annotazioni, come si suol fare 
+comunemente.  Ci limiteremo quindi, quasi esclusivamente, a 
+semplici note di lingua e a citazioni di qualche passo che valga 
+a vie pi$u illustrarlo.  {Segue la nota finale al canto.}
+
+	|LE MACCHIE LUNARI.~  A me sembra che se la dottrina 
+esposta da Beatrice circa le macchie della Luna meglio risponde 
+alla Teologia cristiana, pi$u si discosti dal vero che non 
+l'opinione in voga a quei tempi del ^denso~ e del ^raro~ 
+accettata da Dante nel ^Convivio~ (Tratt. II, c. XIV) e qui 
+ripudiata.  A parte la rarit@a e densit@a del corpo lunare, sta 
+in fatto che quelle macchie, come oggi s'@e dimostrato, sono 
+prodotte da profonde vallate, da crat@eri e da cavit@a, come 
+letti di fiumi, per entro cui i raggi solari penetrando e 
+riflettendosi a maggiore distanza non giungono a mandare lo 
+stesso splendore che riflettendosi su la superficie del corpo 
+lunare.  Le quali cavit@a potrebbero riportarsi al ^raro~, ma 
+limitato nell'interno del corpo dal fondo di quelle, che alla sua 
+volta costituerebbe il ^denso.~  N$e l'esperienza degli specchi 
+mi sembra molto propria, perch$e essi, essendo corpi lucidi e di 
+gran chiarit@a di diafano, o posti a distanza o prossimi a una 
+sorgente luminosa, tutta riflettono in egual maniera la luce per 
+ci@o che riguarda la qualit@a di essa, sebbene diversamente per 
+la quantit@a, che minore giunge al nostro occhio, ma senza 
+macchia o oscuramento vero e proprio.  @E per@o certo che in 
+confronto degli altri due la luce dello specchio pi@u lontano, 
+venendo men tosto alle nostre pupille, par quasi velata dalla 
+maggior luce degli altri due.  Quanto alla Luna poi, trattandosi 
+di un corpo opaco con avallamenti ed escavazioni, gli effetti di 
+luce a maggiore e a minore distanza @e necessario che varino 
+apparentemente per qualit@a e per quantit@a, donde l'apparenza 
+delle macchie. 
+
+	Per concludere, Dante dopo avere accettata la dottrina 
+del ^denso~ e del ^raro~ circa le macchie della Luna, 
+riconosciutala non vera, la rigett@o; ma non riuscendo a trovare 
+in natura una causa plausibile di tale fenomeno, ricorse alla 
+dottrina del sovrannaturale, e cos$i pot$e togliersi d'impaccio.  
+
+	|69.  Altrettanto~: O in eguale misura nei corpi eguali. 
+
+	|71.  Principii formali~: Due principi distinguevano gli 
+Scolastici nei corpi: il ^materiale~, cio@e la materia prima, 
+eguale in tutti, e il |formale~, o forma sostanziale, costituente 
+le varie specie e virt$u dei corpi.  Ricordiamoci che la parola 
+^forma~ scolasticamente significa anima (^Inf.~, XXVIII, 73; 
+^Purg.~, IX, 58), e per@o |principii formali~ val quanto 
+principi vitali, essenziali; ci@o da cui una cosa ha la sua 
+essenza. 
+
+	|72.  Seguiterieno... distrutti~: Seguirebbe che 
+sarebbero distrutti, all'infuori di quello di cui tu ragioni. -- 
+|Seguiterieno~ @e la forma scolastica ^sequeretur.~ 
+
+	|74.  Oltre in parte~: Da banda a banda (^trans~) in 
+alcuna parte del corpo lunare. 
+
+	|78.  Nel suo volume~ ec.: Supponendo la Luna come un 
+composto di strati densi e rari, l'immagine del libro, il cui 
+volume risulta dalla sovrapposizione di carta a carta, pu@o 
+sembrare anche giusta, ma non certo in relazione alla 
+similitudine con cui dovrebbe strettamente collegarsi. 
+
+	|81.  Come in altro raro ingesto~: Come trasparirebbe il 
+raggio allorch$e penetrasse (|ingesto~) in qualsiasi altro corpo 
+raro. 
+
+	|84.  Falsificato fia~ ec.: Sar@a dimostrato falso. 
+
+	|89-90.  Come color torna~ ec.: In questa similitudine 
+dello specchio il vetro rappresenta il ^raro~ per cui passa la 
+luce e il piombo sottostante, ^lo suo contraro~, cio@e lo strato 
+denso che non lascia passare la luce, ma la rifrange (^la 
+rifonde~). 
+
+	|94.  Da questa instanza~ ec.: Da questa obbiezione.  
+|Instanza~ dal verbo latino ^Instare~, Star contro; @e del 
+linguaggio scolastico. 
+
+	|95-96.  Esperienza... Ch'esser sul fonte~ ec.: 
+Dall'esperienza sogliono procedere le Scienze e le Arti umane, 
+come rivi da proprio fonte.  Notabilissimo, in quanto qui Dante 
+segna la via che deve tenere il savio nella ricerca del vero; e 
+vedremo (C. IV, 127-132) come a fondamento di scienza porr@a 
+anche il dubbio, ma modesto e ragionevole: <due dettami questi 
+che a taluno paiono rivelati all'umanit@a dal Cartesio e da 
+Bacone> Tommas@eo, ^Comm. a Dante~, vol. III. 
+
+	|104.  La vista pi@u lontana~: La luce riflessa dallo 
+specchio pi$u lontano.  Essa @e minore in quantit@a di quella dei 
+due specchi pi$u vicini, non gi@a in qualit@a, risultando della 
+stessa chiarezza.  La conclusione adunque del ragionamento di 
+Beatrice @e che in altri ^principii formali~ si deve ricercare la 
+causa delle macchie lunari. 
+
+	|106-109.  Or come ai colpi~ ec.: Or come ai caldi 
+raggi del Sole le cose sottostanti rimangono libere dalla neve e 
+dal bianco e dal freddo di essa, cos$i libero il tuo intelletto 
+ec.  Altri interpreta: Come la sostanza (|il suggetto~) ond'@e 
+fatta la neve si disf@a ai raggi del Sole perdendo le sue 
+qualit@a di bianca e di fredda, cos$i ec.  Se non che con questa 
+interpretazione verrebbe a mancare la rispondenza nei termini 
+della comparazione.  Il ragionamento di Beatrice era riuscito a 
+liberare l'intelletto di Dante dalla falsa opinione, come il 
+caldo raggio del Sole, distruggendo la neve, libera le cose 
+sottostanti dal bianco e dal freddo di essa. 
+
+	|111.  Che ti tremoler@a~: Come la luce brillante delle 
+Stelle fisse. 
+
+	|112.  Ciel de la divina pace~: L'Empireo, immobile. 
+
+	|113-114.  Ne la cui virtute~ ec.: <Lo cielo 
+cristallino, o primo mobile, ordina col suo movimento la 
+cotidiana revoluzione di tutti li altri, per la quale ogni die 
+tutti quelli ricevono e mandano qua gi@u la vertude di tutte le 
+loro parti> (^Conv.~, Tratt. II, c. XIV). 
+
+	|Contento~: Ogni cosa contenuta entro l'ampio giro del Primo
+Mobile, cio@e gli altri Cieli e la Terra (Cfr. ^Inf.~, II, 77). 
+
+	|115-117.  Lo ciel~ ec.: Il <ciel cui tanti lumi fanno 
+bello> (v. 130), ossia il Cielo delle Stelle fisse, il quale 
+quella essenza che riceve dal Primo Mobile distribuisce in 
+diverse sostanze (Stelle) da lui contenute e da lui distinte. 
+
+	|118-120.  Li altri giron~ ec.: Gli altri sette Cieli 
+per vari modi le particolari loro virt$u e le loro influenze 
+rivolgono, ciascuno al proprio fine e alle proprie cause 
+effettive.  Son <le rote magne Che drizzan ciascun seme ad alcun 
+fine> (^Purg.~, XXX, 109-110). 
+
+	|124-126.  Riguarda bene~ ec.: Con questo richiamo di 
+Beatrice al metodo da lei seguito nel suo ragionamento Dante ci 
+ammonisce che in ogni questione intesa a dimostrare il vero si 
+deve ricercare da prima e stabilire un principio che sia 
+fondamento di verit@a alle verit@a delle proposizioni 
+particolari.  E questo dichiara esplicitamente nel ^De 
+Monarchia~: <Ogni verit@a che non @e un principio si manifesta 
+per la verit@a d'alcun principio, e per@o alla ricerca del 
+verit@a @e necessario aver notizia del principio al quale 
+analiticamente si ricorra per certificare in tutte le 
+proposizioni che dopo quello si pigliano> (Lib. I, II). 
+
+	|128.  Come dal fabbro~ ec.: Come dal fabbro derivano i 
+lavori che si fanno col martello, poich$e il martello opera 
+soltanto in virt$u del fabbro ec.  Questa similitudine, di cui 
+Dante si vale anche nel ^Convivio~ (Tratt. I, c. XIII e Tratt. 
+IV, c. IV) e nel ^De Monarchia~ (Lib. III, c. VI), fu molto in 
+uso presso gli Scolastici. 
+
+	|129.  Da' beati motor~: Sono le Intelligenze o Sostanze 
+separate da materia, le quali la volgare gente chiama 
+Angeli (^Conv.~, Tratt. II, c. VII).  <Colui lo cui saver tutto 
+trascende, Fece li cieli e di@e lor chi conduce, S@i ch'ogni 
+parte ad ogni parte splende> (^Inf.~, VII, 73-75). 
+
+	|133-135.  Si risolve~: L'anima umana spiega la sua attivit@a 
+per mezzo delle diverse membra del corpo, |conformate~, cio@e 
+formate secondo le funzioni dei vari sensi o organi sensori. 
+
+	|136-138.  L'intelligenza~ ec.: L'intelligenza motrice 
+del Cielo stellato, la <mente profonda che lui volve> (v. 131), 
+diffonde per le Stelle la sua molteplice virt$u pur rimanendo una 
+nella sua essenza.  Cos$i, parlando dell'unit@a dell'anima 
+razionale, dice che <vive e sente e s@e in s@e rigira> (^Purg.~, 
+XXV, 75).  Vedi pure ^Par.~, XIII, 55-60). 
+
+	|139-141.~  Virt@u diversa~ ec.: Dopo aver parlato 
+delle Intelligenze angeliche che muovono l'ottavo Cielo, passa a 
+quelle dei Cieli sottostanti, tra cui il Cielo della Luna, e per 
+significare l'intima unione che lega ciascuna Virt$u al proprio 
+Cielo, si vale, ma con rapida frase, del paragone fatto ai versi 
+133-135 per le Intelligenze motrici dell'ottavo Cielo. 
+
+	|142.  Per la natura lieta onde deriva~ ec.: Perch$e 
+<mossa da lieto fattore> (^Purgatorio~, XVI, 89). 
+

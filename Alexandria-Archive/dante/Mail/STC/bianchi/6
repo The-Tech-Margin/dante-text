@@ -1,0 +1,53 @@
+Return-Path: LBIANCHI@Sol.YorkU.CA 
+Received: from sol.yorku.ca by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA13230; Fri, 5 Feb 1993 02:19:19 -0500
+Received: from Sol.YorkU.CA by Sol.YorkU.CA (PMDF #12410) id
+ <01GUCH2ZRKU88YAE6Y@Sol.YorkU.CA>; Fri, 5 Feb 1993 02:19 EDT
+Date: Fri, 5 Feb 1993 02:19 EDT
+From: Luigi M Bianchi <LBIANCHI@Sol.YorkU.CA>
+Subject: Re: speller
+To: steve@avalon.dartmouth.edu
+Message-Id: <01GUCH2ZRKU88YAE6Y@Sol.YorkU.CA>
+X-Envelope-To: steve@avalon.dartmouth.edu
+X-Vms-To: IN%"steve@avalon.dartmouth.edu"
+Status: OR
+
+> Please call me Steve.
+
+Hi Steve,
+
+please call me Luigi, first of all.
+
+>
+> .....................I just need to be clear how to handle apostrophes.
+> Should I treat them as word breaks or should I elide them?  For example
+> here is a line from Dante:
+>
+>               diro de l'altre cose ch'i' v'ho scorte.
+>
+> Exactly what words should this line generate for you?
+
+diro
+de
+l
+altre
+cose
+ch
+i
+v
+ho
+scorte
+
+The reason for (mis)handling apostrophes, accents and other markers this way
+has to do 1) with the spelling engine I have in mind, 2) with the *practical*
+use it will be put to, namely spelling of ASCII texts (as opposed to special
+format word processing documents, where one can use the word processor's
+speller anyway).
+
+I hope this requirement does not cause problems for you.
+
+Thank you for your interest and help,
+
+--Luigi
+
+

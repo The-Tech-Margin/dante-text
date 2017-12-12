@@ -1,0 +1,44 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id QAA11036
+	for <steve@avalon.dartmouth.edu>; Thu, 12 Nov 1998 16:58:16 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id QAA22612
+	for <Steve.Campbell@Dartmouth.EDU>; Thu, 12 Nov 1998 16:58:16 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 47435 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67897-27803>; Thu, 12 Nov 1998 16:57:20 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA27686
+	for <Steve.Campbell@dartmouth.edu>; Thu, 12 Nov 1998 16:57:18 -0500 (EST)
+Received: from flagstaff.Princeton.EDU (flagstaff.Princeton.EDU [128.112.131.154])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA12850;
+	Thu, 12 Nov 1998 16:57:16 -0500 (EST)
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.8.8/8.8.8) id QAA08024;
+	Thu, 12 Nov 1998 16:57:16 -0500 (EST)
+Message-Id: <199811122157.QAA08024@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Thu, 12 Nov 1998 16:57:16 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: DDP
+Cc: bobh@phoenix.Princeton.EDU
+
+Got started today with your messages, but then got
+interrupted.  Got Campi done.  See the HISTORY of
+C.ng/campi/para.
+
+Also to remember (we've covered this elsewhere):
+
+The edited Campi files in the campi directory under
+"bobh" are mainly OK (I hope).  But
+
+for Inferno 21 we should use the file in C/campi/para
+that is labelled "21": it is really Inf. 21.
+
+for Paradiso 21 we shoulduse the file in C/campi/para
+that is labelled "22": it is really Par. 21.
+
+for Purg. there are some missing files that we need to
+import from C/campi/purg.
+
+I think that is all for now.  Best, Bob

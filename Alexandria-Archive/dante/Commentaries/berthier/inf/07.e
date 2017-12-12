@@ -1,0 +1,1423 @@
+	^I peccati d'avarizia, d'accidia e di collera~
+
+	|1-9.  Pape Satan...~  Questo verso, secondo il Blanc, 
+aspetta ancora il suo Edipo.  Alcuni asseriscono che il poeta non
+abbia voluto significare altro che un grido inintelligibile di
+rabbia.  Ma hanno torto, perch@e il |Savio gentil che tutto seppe~
+(v. 3) ne ebbe il senso e vi rispose.  Gli antichi, il Laneo, 
+Pietro di Dante, l'Ottimo, l'Anonimo Fior., Boccaccio, Buti, 
+ecc., prendono il |pape~ come una esclamazione di maraviglia, e
+l'|aleppe~ come una esclamazione di dolore.  Per loro, il verso
+significa: ^Oh Satana! oh Satana, ahi!~  Cos@i il Casini, ^ivi.~
+
+	Tra i moderni, alcuni vogliono che sia per noi
+inesplicabile, bench@e in s@e intelligibile: ma questo non @e
+logico: se si ammette che @e intelligibile, si deve riconoscere
+come esplicabile, perch@e Dante scrisse per i mortali.
+
+	Moltissimi tentarono spiegazioni.  Chi ci legge
+dell'ebraico, chi del greco, chi del francese.  Dice il sig. A.
+Ranieri.  <Compiono sei secoli, dal Boccaccio al Re di Sassonia, 
+che vi sarebbe da riempire non saprei quanti scaffali delle
+fatuit@a appioppate al primo verso.  Ne raccoglier@o soltanto
+alcune, intrecciandone, alla meglio, come una maniera di
+selvetta.  I pi@u si accaniscono sull'Aleph, prima lettera
+dell'alfabeto ebraico, e la traducono in Principe.  Il Bargigi:
+^Oh Satan, Principe dei Diavoli.~  Il Tommaseo: ^Le parole di
+Pluto sono di maraviglia; ed un volgersi a Satana, suo capo, per
+chiedere riparo.~  L'Ottimo: ^Quando Pluto vide la Ragione
+conducere l'Umanit@a, si meravigli@o molto.~  Pompeo Venturi:
+^Poffar di me! o poter di Satanasso, signore di questo luogo, 
+adontato!~  Il Volpi: ^Aleph, voce ebraica; dolore, confusione.~ 
+Il Lombardi: ^Capperi, Satanasso, capperi, gran Satanasso!~  E
+cos@i il Biagioli.  Tutti sanno le parole notate da Benvenuto
+Cellini sulle labbra del giudice francese che sgridava la calca
+del Pretorio: ^Paix, paix, Satan; paix, paix, Satan, allez, 
+paix!~  Il Monti le chiama: ^Voci bestiali, fuori d'ogni umano
+concetto.~  Il Lanci, tornando alle lingue semitiche:
+^Resplendeat facies Satani, resplendeat facies Satani, 
+Principis.~  Giuseppe Venturi, ancor esso semiticamente: ^Qui qui
+@e Satanasso, qui qui @e Satanasso, l'Imperatore.~  Brunone
+Bianchi, prima maniera: ^Voci segrete e di magico incanto, che
+accrescono il maraviglioso ed il terribile appunto per ci@o stesso
+che non s'intendono.~  Brunone Bianchi, seconda maniera, ricorda
+le parole di San Pier Damiano: ^Papae Satanae, Papae Satanae, 
+principi~: ed afferma ch'@e una scudisciata ai preti, nei quali, 
+egli soggiunge, ^usa avarizia il suo soperchio.~  Il Torricelli:
+^Non vis sapere, amice lector, plus quam oportet sapere.~  E, 
+finalmente, Don Giovanni, penultimo Re di Sassonia dice che sono
+parole ebraiche: ^Pach pi, Satan, pach pi, Satan, halleabe~: le
+quali suonano, in tedesco: ^Spei' aus, Satans mund, spei' aus, 
+Satans mund, feuer!~  ^Frammento di alcune note~, ecc.  Quanto al
+Ranieri stesso, ci vede del greco e legge:
+%pi%alpha%pi%alpha%@iota\, %Sigma%alpha%tau%alpha%nu\, 
+%pi%alpha%pi%alpha%@iota\, %Sigma%alpha%tau%alpha%nu\, 
+%alpha%lambda%eta%pi%eta\, e traduce: ^Oh diavolo! oh diavolo!
+per qualunque altro luogo.~>  ^Ivi.~  Il sig. Can. Morelof ne
+dar@a presto al pubblico una ingegnosa, supponendo che Dante
+faccia parlare a Pluto il gergo de' ghetti italiani, composto di
+radici ebra, iche colle desinenze italiane.  Si vorrebbe attendere
+meno al senso delle parole, che all'intenzione del poeta, il
+quale avrebbe fatto cos@i la sua prova di antisemitismo.
+
+	Vedine altre riferite dal Casini, ^ivi~; dal Ferrazzi, 
+^Man.~, II, pp. 305, 706; IV, pp. 159, 554; V, p. 72.  Quale sia
+la vera, non si sa di certo.
+
+	Quelli che ci leggono del francese sono numerosi, ma non
+sono d'accordo sul tenore n@e sul senso di questo francese.  Il
+primo legge: ^Pas paix, Satan!  Pas paix, Satan! @a l'$ep$ee!~  Il
+secondo cambia la finale di cotesta traduzione, e dice: ... ^@a
+l'$epais.~  Ma questo @e molto ^$epais.~  Il terzo vuole: ^Paix! 
+Paix!  Satan!  Paix!  Paix!  Satan!  Allez!  Paix!~  Questa
+formola, la quale @e del Cellini, @e meno impossibile delle altre;
+ed a confermarla si potrebbe riferire una predica del Card.
+Jacopo di Vitry, dove dice che il diavolo ^per quod certus est
+quod nisi vadium suum~ (cio@e l'anima) ^ante mortem redimat
+peccator~ (e non ^peccatum~ come stamp@o malamente il Card. Pitra)
+^antequam scil. divisio fiat, quando clamatur, secundum morem
+Gallorum~: ^Hale!  Hale!~ ^vadium ejus erit perpetuum.~  ^Serm.~
+LVI, ad Campsores.
+
+	Tenteremo anche noi di essere un Edipo infelice di pi@u. 
+Il verso anche secondo noi @e francese, e si deve leggere:
+
+	|Pape, Satan!  Pape, Satan, @a leppe!~
+
+	Si noti prima di tutto che i testi VJ, VM, riferiti
+nell'edizione Cassinese hanno ^alepe~ e ^sepe~; quindi nella
+parola ^leppe~ l'ortografia non sarebbe invariabile per il doppio
+^p~ tanto nell'italiano quanto nel francese.  D'altronde
+ammettiamo volentieri l'ortografia comune.
+
+	Due parole sono da spiegarsi: |pape~ e |leppe.~  Ora la
+parola |pape~, nel vecchio francese aveva il significato di
+^mangia~ o ^mangi~, come ha anche oggi la parola ^pappa~ in
+italiano.  Eccone una prova tra mille:
+
+     Tex fait devant le papelart, 
+     Ki par deri@ere pape lart...
+     Tex ne mengue, ne ne pape...
+
+^Mirac. de la B. V. M.~ Lib. I, riferito dal Ducange, voc.
+^Papare~, ed. Niort.
+
+	La parola |leppe~ altrimenti ^l@epe, lippe~, dal sassonico
+^lep~ o ^lip~ (Cf. il greco
+%lambda%alpha%pi%tau%varepsilon%iota%nu\, e il latino ^lambere~)
+vuol dire propriamente ^labbro~; e al traslato, ^appetito~, o
+anche ^buon boccone~, donde: ^courir la lipp$ee.~
+
+     Voirs est movoir estuet grenon
+     De l$egier cui la l@epe pent.
+
+Lacurne de Sainte-Palaye, ^Diction.~, voc. ^L@epe.~  E altrove:
+^Dedit eidem dominae unam lippam fractam in aqua.~  ^Vita S.
+Ivonis~, 4 maggio, ^Act. SS.~  Anche il Lafontaine dice, L. i, v.
+nella sua favola ^Le loup et le chien~: ^Point de franche
+lipp$ee~; e oggi si ha ancora ^laper~, ^lippe~, ^lippu.~  Quindi
+|@a leppe~ significa ^secondo l'appetito~, o anche ^come buon
+boccone.~
+
+	La traduzione del verso intero sar@a dunque: ^Mangi, 
+Satanasso!  Mangi, Satanasso, a tuo appetito~; o anche forse:
+^Mangi, Satanasso!  Mangi, Satanasso, come buon boccone.~
+
+	Crediamo pi@u probabile delle altre questa spiegazione:
+^a~) Perch@e @e semplice; ^b~) Perch@e una gran parte degli
+interpreti credono che quel verso sia francese, e lo stesso suono
+delle parole lo dimostra: ma in tutte le frasi francesi proposte
+si deve cambiare pi@u o meno l'ortografia, e violare le leggi
+della rima con ^seppe~, o ^sepe~: nella nostra spiegazione in
+vece non c'@e nulla da cambiare n@e da violare; ^c~) Perch@e il
+senso di questa minaccia deve combinare col senso chiaro della
+risposta di Virgilio; e questa risposta @e nel v. 9: ^Consuma
+dentro te, con la tua rabbia~, e sarebbe difficile, crediamo, di
+trovare un significato il quale con tale risposta combinasse
+meglio che quel da noi proposto; ^d~) Perch@e |leppe~ conviene col
+^labbia~ del v. 7.
+
+	Se si domanda come l'intendeva Virgilio, giacch@e certo ei
+non sapeva di francese, si risponde che secondo Dante, Virgilio
+|tutto seppe.~  Perch@e non basterebbe questo alla
+verosimiglianza, se le anime separate possono sapere attualmente
+di questo mondo le cose che le interesano?  Cf. Ia, q. 89, aa.
+4-8.
+
+	Vuol indovinare lo Scartazzini ^per qual motivo Dante
+faccia parlar francese a Pluto, e un tal motivo @e quasi cos@i
+difficile indovinarlo come il senso del verso~ (^Forse per morder
+Carlo Senza Terra).~  ^Ivi.~  Il dottissimo uomo avr@a la risposta
+alla propria questione da Dante stesso, che risponde nel ^Par.~, 
+XV, 120.  Si andava anche allora in Francia per fare un p@o di
+quattrini.
+
+	|chioccia~, rauca stridente; si derivi questa parola
+dalla voce della |chioccia~, come vuole la Crusca, o dalla
+campana rotta, detta altre volte ^clocha~, donde il francese
+^cloche~, come asseriscono altri.  Dice il Buti: ^Allegoricamente
+si pu@o intendere di quelli del mondo, che il demonio
+dell'avarizia~, ... ^considerando.~.. ^l'uomo non morire in quel
+peccato, si maraviglia, duolsi.~..  ^Ivi.~
+
+	|gentile~, nobile.  Cf. ^Purg.~, VIII, 53; XVIII, 82;
+XXXIII, 130.  Quell'addiettivo qualifica esattamente Virgilio.
+
+	|tutto seppe~, anche la lingua di Pluto.  Virgilio @e
+personificazione della ragione retta, e quindi della Filosofia, 
+la quale conosce le cause supreme di tutte le altre scienze.  Se
+poi ci si domanda come si supponga che Virgilio conosce i
+^singularia~ lo spiega San Tommaso dicendo che l'anima separata
+^cognoscit.~.. ^per species sibi inditas in separatione~, e che
+^species illae.~.. ^quamvis sint in se immateriales, et ideo
+universales, tamen sunt similitudines rei et quantum ad naturam
+universalem, et quantum ad naturam singularem; et ideo nihil
+prohibet per eas singularia cognosci.~  ^Verit.~, q. 19, a. 2.
+
+	|che poder ch'egli abbia~, perch@e, quanta potenza egli
+abbia.  Dice l'Imolese: ^Quamvis avaritia sit potens, adeo quod
+vincit sacerdotes et prophetas, tamen non poterit vincere te.~ 
+^Ivi.~
+
+	|torr@a~, toglier@a.  Vari testi hanno ^terr@a~, cio@e
+t'impedir@a: ma pare sbagliato.  Cf. Moore, ^Textual Criticism~, 
+^ivi.~
+
+	<Allegoricamente vuole qui Dante dimostrare che, bench@e
+la sensualit@a sua fosse spaurita dell'avarizia, la ragione, 
+significata per Virgilio, la confort@o: e questo che dice di s@e, 
+si pu@o intendere di tutti i savi uomini, che si recano a
+considerazione de' vizi.>  Buti, ^ivi.~
+
+	|enfiata labbia.~  La parola |leppe~, come l'abbiamo
+interpretato ha la stessa radice che ^labbium.~  Confessando che
+|enfiata labbia~ pu@o significare ^viso~, ^aspetto gonfiato
+dall'ira~, come si dice da tutti, pensiamo che potrebbe anche
+significare ^ingordigia~, ^avarizia~, perch@e ai vecchi, i quali
+sono abitualmente avari (S. T., ^Mal.~, q. 13, a. 2, 8m), ^di
+l$egier la l@epe pent~, come fu detto sopra, sul v. 1.  Meglio
+s'intende della faccia intera, presa la parte per il tutto, come
+s'incontra spesso nei vecchi scrittori italiani.  Cf. ^Inf.~, 
+XIV, 67; XIX, 122; ^Vita Nuova~, XXVI.  Dante dice che Plutone
+<avesse le labbia enfiate, e questo dice per la sua sozzezza, 
+ovvero per dare ad intendere la stoltizia che @e nell'avaro: le
+labbia grosse, significano stoltizia.>  Buti, ^ivi.~ L'Imolese ci
+vede un segno di superbia, ^quia opulentia divitiarum inflat.~ 
+^Ivi.~
+
+	|maledetto.~  L'avarizia @e principio di tutti i mali, 
+poich@e, secondo l'Angelico ^pecuniae obediunt omnia, ut dicitur~
+^Eccl.~, X.  ^Et ideo.~.. (^avaritia~) ^est generale malum, non
+cummunitate generis vel speciei, sed communitate causalitatis.~ 
+^In Rom.~, c. VIII, lec. 2.  Quanto alla genesi dei peccati che
+procedono dall'avarizia immediatamente, dice San Tommaso: <Quia
+avaritia est superfluus amor habendi divitias, in duobus excedit. 
+Primo enim superabundat in retinendo.  Et ex hac parte oritur ex
+avaritia obduratio contra misericordiam...  Secundo ad avaritiam
+pertinet superabundare in accipiendo.  Et secundum hoc avaritia
+potest considerari dupliciter.  Uno modo secundum quod est in
+affectu.  Et sic ex avaritia oritur inquietudo...  Alio modo
+potest considerari in affectu.  Et sic in acquirendo aliena, 
+utitur quandoque quidem vi, quod pertinet ad violentias;
+quandoque autem dolo.  Quod quidem si fiat in verbo, erit
+fallacia quantum ad simplex verbum; perjurium autem, si addatur
+confirmatio juramenti.  Si autem dolus committatur in opere, sic
+quantum ad res erit fraus, quantum ad personas erit proditio, ut
+patet de Juda qui ex avaritia prodidit Christum.>  ^Sum.~, 22ae, 
+q. 118, a. 8.
+
+	|lupo~; simbolo dell'avarizia.  Vedi quanto abbiam detto
+della lupa, nel canto I, 49-111.  Cos@i @e chiamato Pluto, perch@e
+il diavolo della ricchezza deve essere rubatore, come i lupi. 
+Cf. 22ae, q. 118, a. 7.
+
+	|Consuma...~  Virgilio risponde al verso di Pluto. 
+Questo avrebbe voluto nuocere anche a Dante: ma Virgilio, la
+retta ragione, l'impedisce.  E spiega l'opposizione, aggiungendo
+che il voler della retta ragione @e conforme a quello di Dio, come
+gi@a fece contro Caronte, ^Inf.~, III, 95; e contro Minosse, 
+^ivi~, 23, e come far@a altrove.  I demoni non hanno il peccato di
+avarizia nel senso proprio, ma bens@i nel senso improprio, in
+quanto vogliono possedere ogni ben creato.  S. T., Ia, q. 63, a.
+2, 2m.  Quindi si pu@o supporre che il Dio dell'avarizia soffra
+ancora del supplizio degli avari, specialmente l'inquietudine e
+la violenza.  S. T., 22ae, q. 55, a. 8; q. 118, aa. 7, 8.
+
+	|10-12.  cagion~, ragione, motivo.
+
+	|al cupo~, al fondo, dove tutto @e oscuro.
+
+	|nell'alto~, lass@u, nel cielo.
+
+	|strupo.~  Secondo alcuni, qui si direbbe per metatesi, 
+invece di ^stupro~, come si dice ^drento~ invece di ^dentro~, e
+^drieto~ invece di ^dietro.~  Poco tempo fa domandavo ad un
+Fiorentino: Cosa @e questa processione?  E rispondeva: @E uno
+^straporto~, invece di ^trasporto.~  L'Anon. Fior.: <Chiamalo
+|strupo~, perocch@e qualunque sforza una vergine, @e detto questo
+peccato strupo: cos@i Lucifero volle sforzare la deit@a del cielo.> 
+^Ivi.~  In fatti l'anima o lo spirito angelico fidanzato a Dio
+per la Fede, commette, secondo il parlare delle Scritture (Cf.
+^Matth.~, XI, 39), una fornicazione coll'infedelt@a.  Cf. S. T., 
+IV, Dist. 39, q. 6, 2m.  Altri vogliono che quella parola sia lo
+stesso che ^truppa~ e lo fanno derivare dal latino barbaro
+^stropus~, ^strupus~, o meglio dall'antico ^trope~, donde il
+francese ^troupeau~, ^troupe.~  Vedi il Camerini, ^ivi.~  Ci
+piace meglio questo secondo significato, ^a~) Perch@e l'addiettivo
+^superbo~ combina poco bene col primo significato; ^b~) Perch@e il
+primo parrebbe quasi estraneo all'idea generale; ^c~) Perch@e nel
+secondo non si ha bisogno di metatesi.
+
+	In quei due versi rammenta Dante per umiliar Pluto il
+fatto narrato nell'^Apoc.~, XII, 7-9.
+
+	|13-15.  Quali...~  Quando l'albero si rompe, le vele
+l'avviluppano cadendo con lui.  <Viva la similitudine e calzante. 
+Le vele gonfiate dal vento danno idea dell'ira orgogliosa di
+Pluto.  Se l'albero maestro, cui sono raccommandate, a un tratto
+si fiacca, cascano gi@u d'un colpo ravviluppate: e cos@i Pluto
+cadde a terra, d#omo e quasi raggomitolato; quelle rese ormai
+inutili, questi non pi@u temibile.>  Venturi, ^Simil.~, 370.
+
+	|16-18.  lacca~, cavit@a.  Cf. ^Inf.~, XII, 11; ^Purg.~, 
+VII, 71.  Alcuni vogliono che sia derivato da ^lacus~, o dal
+greco %lambda%alpha%kappa%kappa%o%varsigma\.  Se si avverte per@o
+che presso Dante tal vocabolo nei luoghi citati significa
+piuttosto ripa, riva, pare pi@u logico derivarlo dal latino
+medioevale |lacca~, di cui il Ducange ci d@a il senso nel testo
+seguente: ^Sura est tibia sive lacca.~  ^Gloss.~ voc. |Lacca~, 
+ediz. Niort.  E dunque lo stesso che coscia, fianco.  Si dice
+ancora in italiano ^lacchetta di castrone.~  Nei dialetti veneti
+si chiamano lacche o slacche le coscie dell'uomo.  Nel vecchio
+francese ^lasche~, ^laische~ era una corazza.  In ogni caso si
+parla del quarto cerchio.
+
+	|Prendendo pi@u~, cio@e prendendo coi passi, ossia
+inoltrandoci vieppi@u.
+
+	|dolente ripa~, il balzo infernale visto dall'alto.
+
+	|insacca~, contiene come in un sacco.  La metafora sta
+bene in questo canto dove si parla degli avari, dei quali il
+cuore @e ^quasi saccus pertusus.~  Ugo Card., ^Sup. Eccl.~, c. V.
+
+	|19-22.  tante chi stipa~, chi ammucchia tante?
+
+	|nuove~ pu@o significare ^altre~ e ^inaudite.~
+
+	|si ne scipa~, ne strazia tanti?  ^Scipare~ @e
+raccorciamento di ^dissipare.~
+
+	|22-24.  l@a sovra Cariddi~, nel faro di Messina.
+
+	|Che si frange...~  L'onda del mar Ionio si urta contro
+quella del Tirreno, sotto l'impulso de' venti, o meglio delle
+correnti sottomarine che producono il fluire e rifluire tra
+Cariddi e Scilla.  L'immagine @e ^gagliardamente scolpita a
+spiegare la rabbia feroce di quei dannati.~  Venturi, ^Simil.~, 
+110.  Riferisce il Venturi la stessa similitudine ammessa dai
+poeti antichi, cio@e Omero, Virgilio, Ovidio.
+
+	|riddi~, balli in tondo, giri intorno.  Ridda @e un ballo
+di molte persone in giro.
+
+	|25-27.  Qui vid'io...~  L'Ottimo: <L'Autore in questa
+parte fa due cose: nell'una accresce il numero, nell'altra la
+pena, a dare ad intendere che per questo peccato pi@u che per
+alcun altro ne vanno a dannazione; e questo peccato trae a s@e
+cherici e laici, uomini e femine; e delli cherici s@i li prelati, 
+come gli altri minori, li quali sono ministri delle chiese; e
+delli laici, cos@i li governatori delli regni, e occupatori delle
+province, come li sudditi; e de' sudditi, come de' cavalieri, 
+come giudici, come mercatanti, come artefici; onde per avarizia
+li prelati commettono simonia, e li minori comperando da loro la
+grazia de' beni spirituali, sono simoniaci, e vendendo ellino
+alli laici cose ch' 'l tacere @e bello.  Li principi laici, per
+ragunare pecunia, con diverse generazioni di taglie e di
+gravamenti affogano il suddito.  Li occupatori delle province e
+delle cittadi rubano, predano, e tolgono, e stracciano, e ogni
+male fanno per far sacco di moneta.  I cavalieri in guerra colle
+ruberie, con le prede, con le violenze, uccisioni, arsure e
+guasti; e nella pace con occupare li minori ne' loro servigi, o
+nelle loro cose, caggiono in questo seno dell'avarizia.  Li
+giudici con false sentenze date per danari, falsi consigli per
+pecunia, confortano nell'ingiusti piati e cause false, 
+advocazioni per li salari, anzi prezzi dati.  I mercatanti e gli
+artefici in vendere pi@u caro che possono, in mentire dello valore
+della cosa; o vizio in furti, i quali sono in difettivi pesi, 
+numero, e misura, quando vendono, e in soperchi quando comperano. 
+In vendere a termine, ch'@e spezie d'usura; d'altro fare mostra il
+saggio, ed altre dare a fare; trovare luoghi nelli quali la cosa
+pi@u bella e migliore, o meno difettiva mostrano; in prestare a
+usura, e comperare innanzi: e in questo peccato caggiono li
+giovani, e maggiormente li vecchi, e li uomini, e grandemente le
+femmine, la quale generazione delle femmine @e massimamente
+avara.>  ^Ivi.~
+
+	|troppa~, numerosa: da ^ultra opus~, oltre il bisogno, 
+dice, ^ivi~, lo Scartazzini.  Spesso dice Dante che l'avarizia fa
+pi@u vittime degli altri vizi.  Cf. ^Inf.~, I, 100; ^Purg.~, XX, 
+11; S. T., 12ae, q. 84, aa. 1, 2.  Vedi il commentario del canto
+I.
+
+	|E d'una parte e d'altra...~  In quelle due parti erano
+gli avari e i prodighi.  Il Casini descrive cos@i il supplizio:
+<Delle due schiere, quella degli avari corre alla sinistra dei
+due poeti (cf. v. 39), e quella dei prodighi alla destra; gli uni
+e gli altri sono condannati a percorrere eternamente la met@a del
+cerchio, s@i che ai due punti estremi del diametro l'una schiera
+s'incontri nell'altra (v. 55); e ivi nell'atto di ritornare
+indietro, si gittano scambievolmente un motto di rimprovero (v.
+30): tutti poi camminano volgendo per forza di petto macigni e
+pesi gravissimi (v. 29); cfr. anche ^Inf.~, XI, 72.>  ^Ivi.~
+
+	|Voltando...~ cio@e rotolando de' sassi, perch@e amarono
+troppo le cose della terra; e colla forza del petto si urtano. 
+Il Castelvetro spiega: <Voltando i pi@e, si per forza di poppa
+Percotevansi incontro.>  ^Ivi.~  Se per questa variante ci
+fossero codici, sarebbe da considerare molto.
+
+	|per forza di poppa~, di mammele, di petto.  Dice
+l'Imolese: <Hic notandum quod autor dat debitam poenam istis: nam
+per ista onera repraesentat nobis magna pondera laborum et
+curarum, quae continuo premunt et gravant corpus et animum avari
+et prodigi...  Nonne avari acquirunt cum labore, possident cum
+timore, perdunt cum dolore?...  Quid prodigus?  Quali onere
+premitur cum deficit sibi ad expendendum?>  ^Ivi.~
+
+	|28-30.  Percotevansi incontro...~  L'avarizia @e opposta
+alla prodigalit@a.  <In moralibus attenditur oppositio vitiorum
+ad invicem et ad virtutem, secundum superabundantiam et defectum. 
+Differunt autem avaritia et prodigalitas secundum
+superabundantiam et defectum diversimode.  Nam in affectione
+divitiarum avarus superabundat plus debito eas diligens: prodigus
+autem deficit minus debito earum sollicitudinem gerens.  Circa
+exteriora vero, ad prodigalitatem pertinet excedere quidem in
+dando, deficere autem in retinendo et acquirendo.  Ad avaritiam
+autem pertinet e contrario deficere quidem in dando, 
+superabundare autem in accipiendo et retinendo.  Unde patet quod
+prodigalitas avaritiae opponitur.>  S. T., 22ae, q. 119, a. I. 
+Cf. ^In Ethic.~, IV, lec. 4; 12ae, q. 72, a. 8, 3m.
+
+	|pur li~, l@a appunto...  Il Casini osserva: <E frequente
+in Dante e negli altri poeti antichi il caso di un monosillabo
+che perde il proprio accento, appogiandosi encliticamente alla
+parola precedente per formare una specie di rima composta.> 
+^Ivi.~  Cf. ^Inf.~, XXVIII, 123; XXX, 87; ^Purg.~, XIX, 34;
+^Par.~, V, 122.
+
+	|tieni~, ritieni; |burli~, getti.  Il primo grido @e de'
+prodighi contro gli avari; il secondo degli avari contro i
+prodighi.  Dice San Tommaso che l'uso delle ricchezze consiste
+nel tenerle e darle.  ^In I Tim.~, VI, lec. 4, med.  Gli avari
+peccano nel primo, e prodighi nel secondo.  La parola ^burlare~, 
+secondo alcuni, sarebbe una variante dell'aretino ^bujare~, che
+vuol dire ^gettare~, e pare lo stesso che ^buttare via.~  Cos@i il
+Landino, ^ivi.~  Vedi il Casini, ^ivi.~ Secondo altri, 
+specialmente secondo la Crusca, vale ^dispregiare~; ma forse non
+bene.  Cf. Ducange, ^Gloss.~, voc. ^Burla.~
+
+	|32-33.  da ogni mano~, da ogni banda, o parte.
+
+	|ontoso metro~, vergognoso ritorniello.  S'ingiuriano
+mutuamente, perch@e gli uni e gli altri sono colpevoli, e tutti
+hanno ragione.  I rimproveri mutui sono |ontoso metro~, perch@e
+indicano azioni che si fanno senza ragione.  Spiega bene
+l'Imolese: <Se impugnant cum prodigus dicit de avaro: Iste miser
+infelix nunquam bonum habet, nec habet propinquum, nec amicum, 
+nisi nummum; timet semper ne terra deficiat sibi...  Avarus vero
+dicit de prodigo: Iste prodigus vanus bona parta a patre et
+praedecessoribus dispergit meretricibus, lenonibus, gulosis, 
+infamibus; cito ibit ad hospitale...>  ^Ivi.~, sul v. 29.  La
+parola |ontoso~ viene dal tedesco ^hohn~, donde il francese
+^honteux, honni.~
+
+	|35.  all'altra giostra~, all'altro incontro, o punto
+d'incontro.  Dice l'Imolese: <Avari et prodigi semper adversantur
+sibi factis, sicut videmus de facto in isto inferno viventium, 
+quod avarus saepe occupat bona prodigi, et pro modico pretio
+occupat bona ejus, quando laborat inopia, vel urgetur debito; et
+e converso, prodigus saepe violenter invadit bona avari, quando
+deficiunt sibi, visa opportunitate.>  ^Ivi~, V. 29.
+
+	|38-39.  cherci~, chierici.
+
+	|chercuti~, chericuti, aventi la chierica o tonsura. 
+Questi appariscono tanto numerosi al pellegrino che gli sembra
+inverosimile che tutti siano chierici.
+
+	|alla sinistra nostra.~  Queste parole unite alle
+seguenti significano che i poeti avevano gli avari alla sinistra, 
+ed i prodighi alla destra.  I pi@u colpevoli stanno a sinistra. 
+Cf. ^Matt.~, XXV, 33.  Il Poeta insinua che l'avarizia @e peccato
+pi@u grave della prodigalit@a; e l'@e davvero, per tre motivi. 
+<Primo quidem quia avaritia magis differt a virtute opposita:
+magis enim ad liberalem pertinet dare, in quo superabundat
+prodigus, quam accipere vel retinere, in quo superabundat avarus. 
+Secundo quia prodigus est multis utilis quibus dat; avarus autem
+nulli, sed nec sibi ipsi, ut dicitur IV ^Ethic.~  Tertio quia
+prodigalitas est facile sanabilis, et per hoc quod declinat ad
+aetatem senectutis..., et per hoc quod pervenit ad egestatem de
+facili..., et etiam quia de facili perducitur ad virtutem propter
+similitudinem quam habet ad ipsam.  Sed avarus non de facili
+sanatur.>  ^Sum.~, 22ae, q. 119, a. 3.  Cf. 22ae, q. 118, a. 5, 
+3m; ^Mal.~, q. 13, a. 2, 10m.
+
+	|40-42.  tutti quanti~, cio@e quei di destra come di
+sinistra.
+
+	|guerci~, loschi, stravolti.  Furono acciecati dalla
+cupidigia.  Cf. ^Inf.~, XII, 49; ^Purg.~, XVI, 66; S. T., 22ae, 
+q. 15, a. 2; ^In Matth.~, II, princ.  Gl'infelici non viddero che
+i beni temporali sono veramente beni concessi da Dio e per l'uso
+della vita presente, e per la conquista della vita futura.  Cf.
+12ae, q. 59, a. 4; q. 114, a. 10; ^Eph.~, VI, lec. I, fine;
+^Cont. Gent.~, III, c. CXXXIII.
+
+	|con misura nullo spendio...~, n@e gli avari fecero lo
+spendio necessario, n@e i prodighi fecero il solo spendio
+necessario; quindi tutti peccarono contro la misura, gli uni
+ammassando, gli altri scialacquando.  Dice San Tommaso ^quod
+prodigalitas opponitur avaritiae secundum oppositionem
+superabundantiae et defectus.  Medium autem virtutis per utrumque
+corrumpitur.  Ex hoc autem est aliquid vitiosum et peccatum quod
+corrumpit bonum virtutis.~  S. T., 22ae, q. 119, a. 2.  La virt@u
+alla quale sono opposte l'avarizia e la prodigalit@a @e la
+liberalit@a: ^Possumus bene et male uti non solum his quae intra
+nos sunt, puta potentiis et passionibus animae; sed etiam his
+quae extra nos sunt, scil. rebus hujus mundi concessis nobis ad
+sustentationem vitae.  Et ideo cum bene uti his rebus pertineat
+ad liberalitatem consequens est quod liberalitas virtus sit.~ 
+^Sum.~, 22ae, q. 117, a. I.  Nei tempi di Dante i vizi di
+avarizia e di prodigalit@a s'incontravano spesso nel clero. 
+Osserva il buon Imolese: <Nota, lector, quod author loquitur hic
+tam aperte ex indignatione...  Et quamvis videatur fuisse nimis
+audax, tamen multi alii habuerunt hanc libertatem, sicut
+Bernardus qui dixit: ^Vos autem, sacerdotes, fecistis Deum
+fabulam mundi...~  Nota etiam quod author loquitur solummodo de
+vitiosis.>  ^Ivi.~
+
+	|ferci~, ci fecero.
+
+	|43-45.  abbaia~, ripetendo l'^ontoso metro~, del v. 33. 
+Si rammenti il lettore che cosa @e una zuffa di numerosi cani. 
+<Dice ^abbaia~ quasi in dispregio di loro parlare.>  Laneo, 
+^ivi.~
+
+	|Colpa contraria.~  L'avarizia ha contraria la
+prodigalit@a in quanto si oppone alla liberalit@a.  (^Mal.~, q. 13, 
+a. 2), bench@e talvolta questa nasca dall'avarizia, la quale cerca
+il favore degli altri per arricchirsi, e s'incontri nello stesso
+coll'avarizia.  Cf. 12ae, q. 72, a. 8, 3m; 22ae, q. 119, a. I, 
+4m; a. 2, Im.
+
+	|46-48.  non han coperchio~, non hanno la capigliatura. 
+Quelli che hanno |coperchio piloso al capo~, sono i laici.  Il
+simbolismo della tonsura o rasura, quale s'intendeva il medio evo
+era questo, cio@e che i capelli figuravano le cure terrestri, e il
+taglio de' capelli la rinunzia a tali cure.  Vedi S. T., IV, 
+Dist. 24, q. 3, a. I, q. I; 12ae, q. 102, a. 5.  -- Sono poi
+sette specie di avarizia.  Cf. ^Sum.~, 22ae, q. 118, a. 8, 4m.
+
+	|soperchio~, cio@e la dismisura dell'avarizia, dal latino
+^super operculum.~  Cos@i generalmente gl'interpreti.  Ma il
+Poletto: <Parmi non doversi intendere per colpa d'avarizia
+(Cicerone chiam@o ^genus avarissimum~ i sacerdoti del suo tempo), 
+come tutti i commentatori intendono; chi bene ponga mente al v.
+57, e a quanto riconferma altrove (^Purg.~, XXII, 46), forse mi
+dar@a ragione, se discostandomi dagli altri, intendo e spiego
+prodigalit@a.>  ^Dizion.~, voc. |Avarizia.~  Quindi la parola
+|soperchio~ qui significherebbe il contrario eccessivo
+dell'avarizia, cio@e la prodigalit@a.  Cos@i anche il Bennassuti, 
+^ivi.~  Ci pare pi@u logica l'antica interpretazione, perch@e il
+|soperchio~ dell'avarizia non pu@o essere che l'eccesso della
+stessa.  -- Dante condanna specialmente l'avarizia della gente di
+Chiesa, come fecero tanti santi medievali, e tra tutti San
+Tommaso, 22ae, q. 119, a. 3, Im.  Se il Zamboni fosse meno
+fanatico, avremmo consigliato di leggere qui il suo volumetto
+^Gli Ezzelini~, ecc., pp. 190-192, Fir., 1864.
+
+	Il buon Ottimo qui riferisce le sue autorit@a: <Dice
+Gualtieri: Nobilissima parte degli uomini sono gli cherici, della
+ragione ch'elli sono ministri delle cose divine, le quali senza
+comparazione sono maggiori che le umane; e dice ch'elli furono si
+guerci in questa vita, cio@e che il guercio per difetto ch'@e
+nell'occhio non guata diritto: cos@i costoro per l'avarizia, ch'@e
+vizio dell'anima, non guatarono diritto al fine al quale da Dio
+(furono) prestati gli usi de' beni temporali.>  ^Ivi.~  Se si
+vogliono notizie, si legga specialmente San Pier Damiano, 
+^Opusc.~ XXXI.
+
+	|51.  immondi...~  L'avarizia e la prodigalit@a sono
+peccati.  Della prima dice San Tommaso: <In omnibus quae sunt
+propter finem, bonum consistit in quadam mensura.  Nam ea quae
+sunt ad finem, necesse est commensurari fini...  Bona autem
+exteriora habent rationem utilium ad finem...  Unde necesse est
+quod bonum hominis circa ea consistat in quadam mensura, dum
+scil. homo secundum aliquam mensuram quaerit habere exteriores
+divitias, prout sunt necessariae as vitam ejus secundum suam
+conditionem.  Et ideo in excessu hujus mensurae consistit
+peccatum, dum scil. aliquis supra debitum modum vult eas
+acquirere, vel retinere; quod pertinet ad rationem avaritiae.> 
+S. T., 22ae, q. 118, a. I.  E se <in tantum amor divitiarum
+crescat, quod praeferatur charitati, ut scil. propter amorem
+divitiarum aliquis non vereatur facere contra amorem Dei et
+proximi, sic avaritia erit peccatum mortale.>  ^Sum.~, 22ae, q.
+118, a. 4.  Cf. ^Mal.~, q. 13, a. 2.  Quanto alla prodigalit@a
+<opponitur avaritiae secundum oppositionem abundantiae et
+defectus.  Medium autem virtutis per utrumque horum corrumpitur. 
+Ex hoc autem est aliquid vitiosum et peccatum quod corrumpit
+bonum virtutis.  Unde relinquitur quod prodigalitas sit
+peccatum.>  ^Sum.~, 22ae, q. 119, a. 2.
+
+	|53-54.  La sconoscente vita...~  Perch@e la vita loro fu
+senza conoscenza (v. 40), loro stessi sono sconosciuti.  La vita
+loro @e sconosciuta perch@e l'avarizia impedisce ogni atto di
+virt@u, che potrebbe illustrare la loro memoria.  Cf. 12ae, q. 84, 
+aa. 1, 2.  Disse il Card. Ugo: ^Magna stultitia est quod alius
+per sapientiam bona multiplicat, et alius per stultitiam
+dissipat.~  ^In Eccl.~, II.
+
+	|56-60.  Questi risorgeranno col pugno chiuso~, perch@e
+avari.  Sono quei dannati posti alla sinistra dei poeti.
+
+	|Questi co' crin mozzi~, perch@e prodighi, avendo speso
+fino i capelli, secondo il proverbio.  Essi stanno alla destra
+dei poeti.
+
+	In questi due versi significa il poeta quanto
+incorriggibile sia il vizio dell'avarizia e della prodigalit@a. 
+Egli vuol dire che i due vizi suddetti, quando sono inveterati, 
+durano fino alla morte: l'avarizia nella sua essenza, la
+prodigalit@a negli effetti.  S. T., 22ae, q. 118, a. 5, 3m; q.
+119, a. 3; ^Ethic.~, IV. lec. 4.
+
+	|mondo pulcro~, il cielo bello, il paradiso, dove non @e
+difetto n@e peccato.  S. T., II, Dist. I, q. I, a. 1, 3m; Dist. 2, 
+q. 2, a. 3, 4m; ^Cont. Gent.~, III, cc. CVIII, CX.
+
+	|Ha tolto~, perch@e l'avarizia, in quanto opposta alla
+giustizia, ^ex genere suo, est peccatum mortale.~  S. T., 22ae, 
+q. 118, a. 4.  E anche la prodigalit@a pu@o essere peccato mortale
+e talvolta pi@u grave.  ^Sum.~, 22ae, q. 119, aa. 2, 3.
+
+	|zuffa~, rissa.  Cf. ^Inf.~, VII, 59; XVIII, 108; XXII, 
+135.  Viene dal germanico ^zopf~, ciocca di capelli, donde il
+lombardo ^zuff~, il toscano ^ciuffo~, e il francese ^toupet~; e
+^azzuffarsi~ @e prendersi pel ciuffo.  Quindi ^battaglia~, 
+^rissa.~
+
+	|parole non ci appulcro~, non abbellisco con parole, o
+meglio, non ci abbellisco parole.
+
+	|61-66.  buffa~, nel senso proprio, @e fiato, vento; nel
+senso traslato, @e vanit@a, derisione.  Gli antichi spiegano
+diversamente la parola |buffa.~  Per il Laneo @e ^bont@a~, per
+l'Ottimo ^bugia~, per il Buti ^derisione~, per l'Anonimo Fior., 
+^potenzia~, per l'Imolese e il Boccaccio ^vanit@a.~  Si vegga
+Ducange, ^Gloss.~, voc. |Buffa~, ^Buffare~; e Lacurne de
+Sainte-Palaye, ^Diction.~, voc. ^Boufage~, ^Bouffard~, ^Bouffe.~
+
+	|si rabbuffa~, si ribella.  <Il significato di questo
+verbo |rabbuffa~ pare che importi sempre alcuna cosa intervenuta
+per riotta o per quistione.>  Boccaccio, ^ivi.~  Quasi nello
+stesso senso si avrebbe nel francese volgare ^se rebiffer.~ 
+Quindi spiega bene il Buti: <Si percuotono gli uomini del mondo
+insieme, ingiuriando, scacciando, battendo, uccidendo l'uno
+l'altro.>  ^Ivi.~
+
+	|posar~, non che salvarla.  <Sunt duplices, divitiae, 
+scil. naturales et artificiales.  Naturales quidem divitiae sunt
+quibus homini subvenitur ad defectus naturales tollendos, sicut
+cibus et potus...  Artificiales sunt quibus secundum se natura
+non juvatur, ut denarii: sed ars humana eas adinvenit propter
+facilitatem commutationis, ut sint quasi mensura rerum venalium. 
+Manifestum est autem quod in divitiis naturalibus beatitudo
+hominis esse non potest: quaeruntur enim hujusmodi divitiae ad
+sustentandam naturam hominis, et ideo non possunt esse ultimus
+finis: sed magis ordinantur ad hominem sicut ad finem... 
+Divitiae autem artificiales non quaeruntur nisi propter
+naturales..., unde multo minus habent rationem finis.>  S. T., 
+12ae, q. 2, a. I.  Dante soggiunge una altra ragione: <Dico che
+la loro imperfezione (delle richezze) primamente si pu@o notare
+nella indiscrezione del loro avvenimento, nel quale nulla
+distributiva giustizia risplende, ma tutta iniquit@a quasi sempre;
+la quale iniquit@a @e proprio effetto d'imperfezione.>  ^Conv.~, 
+IV, c. XI.
+
+	Qui dice il poeta che l'avaro e il prodigo non sono mai
+sazi dell'oro che possedettero e posseggono: tanto sono
+insaziabili, l'uno per ritenere, l'altro per spendere!  Cf.
+^Eccl.~, II, 26.
+
+	|68-69.  tocche~, tocchi, facendo menzione; in francese
+^toucher~, collo stesso significato.
+
+	|tra branche~, in potere o in bal@ia.
+
+	Questa parole @e poco rispettosa, e suppone ignoranza:
+perci@o Virgilio far@a una riprensione.
+
+	|70-71.  sciocche~, stolte, perch@e mancano di sapienza, 
+ossia della conoscenza secondo la causa suprema.  Cf. 22ae, q. 8, 
+a. 7, Im; q. 46, a. I, Im.
+
+	|ignoranza.~  Dice |ignoranza~ ^privative~, la quale
+consiste nel non sapere quello che dovrebbe essere saputo.  Cf.
+12ae, q. 76, a. 2.  Quindi tale ignoranza |offende~, cio@e
+indebolisce la natura umana.  Il Buti scrive: <Qui @e da notare
+che Dante, che @e posto in figura della sensualit@a, domanda
+Virgilio, che significa la ragione, che cosa @e fortuna... per
+certificare li uomini grossi che credono che la fortuna sia una
+Dia: imper@o che i poeti figurano che sia una donna cieca, che
+volge una ruota che va quattro stati, e questa donna a due volti:
+l'uno ridente e l'altro piangente, col ciuffetto, e capelluta
+dinanzi dal volto ridente, e calva dall'altro; et uno de' quattro
+stati @e di chi @e in felicit@a, e quello si pone nella sommit@a
+della ruota; l'altro di chi @e in avversit@a, e quello si nota
+nell'infima parte; lo terzo @e di quelli che sale alla felicit@a, 
+nella parte della ruota ascendente; lo quarto @e del descendente
+alla miseria, e questo si pone nella parte della ruota che
+discende.  Ma li uomini semplici non intendono la figura de'
+poeti, imper@o che per questa figura li poeti intendono li effetti
+della fortuna...  Ma alquanti savi conobbono bene ci@o che era la
+fortuna, e dissono che fortuna non @e se non temporale
+disposizione delle cose provedute da Dio, o vero mutabilit@a delle
+cose temporali secondo che procede dalla volont@a divina.>  ^Ivi.~ 
+La rota della fortuna si scolpiva spesso intorno al finestrone
+tondo, chiamato ^rosace~, nella facciata delle chiese medievali, 
+per esempio sulla porta di San Gallo nella cattedrale di Basilea, 
+in quelle di San Stefano di Beauvais, e di San Zeno a Verona. 
+Quest'ultima vidde Dante.  Quanto alla dottrina, Dante si sar@a
+ispirato specialmente di Boezio.
+
+	|72-76.  imbocche~, imbocchi, cio@e ricevi in bocca come
+un bambino riceve il cibo.  Cf. S. T., 22ae, q. 189, a. I, 4m;
+^In Is.~, c. LV, dove si confronta la scienza col latte; e
+^Summa~, in ^Prol.~, dove dice che il dottore deve insegnare
+anche ai principianti.
+
+	|saver~, sapere.  S'intenda qui non solo della scienza, 
+ma della sapienza, la quale conosce per l'altissime cause.  <Cum
+sapientis sit ordinare et judicare, judicium autem per altiorem
+causam de inferioribus habeatur, ille sapiens dicitur in
+unoquoque genere, qui considerat causam altissimam illius
+generis...  Ille igitur qui considerat simpliciter altissimam
+causam totius universi, quae Deus est, maxime sapiens dicitur. 
+Unde et sapientia dicitur esse divinorum cognitio.>  S. T., Ia, 
+q. I, a. 6.  Cf. 22ae, q. 9, a. 2; q. 45, a. I.  Ma quella causa
+suprema non @e altra che la sapienza infinita di Dio, che @e Dio
+stesso, perch@e ^esse sapientem et intelligentem in divinis non
+sumitur nisi essentialiter.~  S. T., Ia, q. 37, a. 2, Im.  Cf.
+Ia, q. 14, a. 4; q. 34, a. 1, 2m.
+
+	|tutto trascende~, perch@e la sapienza di Dio conosce
+tutto quello che @e, e tutto quello che pu@o essere.  Iddio ha la
+scienza perch@e @e ^in summo immaterialitatis.~  S. T., Ia, q. 14, 
+a. 1.  Si comprende se stesso, perch@e ^tanta est virtus Dei in
+cognoscendo, quanto est actualitas ejus in existendo.~  Ia, q.
+14, a. 3.  Ha l'intelligenza perfetta di tutto, perch@e si conosce
+perfettamente se stesso, ^si autem perfecte aliquid cognoscitur, 
+necesse est quod virtus ejus perfecte cognoscatur.~  Ia, q. 14, 
+a. 5.  Et questa virt@u si stende a tutto quello che esiste e pu@o
+esistere a motivo di essa.  ^Sum.~, Ia, q. 14, aa. 6-16.
+
+	|Fece...~  Quale connessione esiste tra la scienza e
+l'azione di Dio?  Risponde l'Angelico: <Scientia Dei se habet ad
+omnes res creatas, sicut scientia artificis se habet ad
+artificiata...  Sed... forma intelligibilis non nominat
+principium actionis secundum quod est tantum in intelligente, 
+nisi adjungatur ei inclinatio ad effectum, quae est per
+voluntatem...  Unde necesse est quod sua scientia sit causa
+rerum, secundum quod habet voluntatem conjunctam.>  ^Sum.~, Ia, 
+q. 14, a. 8.  Cf. ^Ps.~ CXLVII, col ^Comm.~, del Card. Ugo.
+
+	|cieli.~  Sono i cieli materiali, n@e pu@o intendersi delle
+gerarchie celesti, ^a~) Perch@e reggerebbe meno il paragone della
+successione della luce che si descrive nel mondo materiale; ^b~)
+Perch@e si oppongono |li cieli~ a |chi conduce.~  Si noti per@o
+che, come insegna Dante, i cieli e gli angeli, secondo una
+teologia probabile, furono creati insieme.  <Sententia...
+probabilior videtur quod angeli simul cum creatura corporea sunt
+creati.  Angeli enim sunt quaedam pars universi.  Non enim
+constituunt per se unum universum, sed tam ipsi quam creatura
+corporea in constitutione unius universi conveniunt: quod apparet
+ex ordine unius creaturae ad aliam.  Ordo enim rerum ad invicem
+est bonum universi.  Nulla autem pars perfecta est a suo toto
+separata.  Non est igitur probabile ut Deus, cujus perfecta sunt
+opera, ut dicitur ^Deut.~, XXXII, creaturam angelicam seorsum
+ante alias creaturas creaverit.>  S. T., Ia, q. 61, a. 3.  Cf.
+II, Dist. 2, q. I, a. 3; ^Pot.~, q. 3, aa. 18, 19.
+
+	|di@e~, assegn@o.  Come i fatti contingenti dipendono dalla
+volont@a divina, lo spiega cos@i San Tommaso: <Cum aliqua causa
+efficax fuerit ad agendum, effectus consequitur causam, non
+tantum secundum id quod fit, sed etiam secundum modum fiendi vel
+essendi...  Cum igitur voluntas divina sit efficacissima, non
+solum sequitur quod fiant ea quae Deus vult fieri, sed quod eo
+modo fiant quo Deus ea fieri vult.  Vult autem quaedam fieri Deus
+necessario, quaedam contingenter, ut sit ordo in rebus ad
+complementum universi.  Et ideo quibusdam effectibus aptavit
+causas necessarias, quae deficere non possunt, ex quibus effectus
+de necessitate proveniunt.  Quibusdam autem aptavit causas
+contingentes defectibiles, ex quibus effectus contingenter, 
+eveniunt.  Non igitur propterea effectus a Deo voliti
+contingenter eveniunt contingenter, quia causae proximae sunt
+contingentes: sed propterea quia Deus voluit eos contingenter
+evenire, contingentes causas ad eos praeparavit.>  S. T., Ia, q.
+19, a. 8.  Cf. q. 22, a. 4; ^Cont. Gent.~, III, c. LXXX.
+
+	|chi conduce.~  @E l'ordine delle Virt@u, alle quali @e
+commesso l'officio di muovere i cieli materiali.  Intorno a
+queste teoriche ammesse nel medio evo, si legga San Tommaso: <Tam
+in rebus humanis quam in rebus naturalibus hoc communiter evenit
+quod potestas particularis gubernatur et regitur a potestate
+universali...  Manifestum est autem quod virtus cujuslibet
+corporis est magis particularis quam virtus spiritualis
+substantiae.  Nam omnis forma corporalis est forma individuata
+per materiam, et determinata ad hic et nunc: formae autem
+immateriales sunt absolutae et intelligibiles.  Et ideo sicut
+inferiores angeli, qui habent formas minus universales, reguntur
+per superiores, ita omnia corporalia reguntur per angelos.  Et
+hoc non solum a sanctis doctoribus ponitur, sed etiam ab omnibus
+philosophis qui incorporeas substantias posuerunt.>  ^Sum.~, Ia, 
+q. 110, a. I.  Cf. ^Mal.~, q. 16, a. I, 14m; II, Dist. 14, a. 3;
+^Par.~, VIII, 34; XXVIII, 75.  -- Si pu@o negare tali teoriche, ma
+bisogna ricordarsi che gli astronomi, anche essi, non hanno dato
+che ipotesi per ispiegare il movimento centripeto; e che non
+hanno nemmeno trovato ipotesi serie per ispiegare il movimento
+tangenziale.  -- La parola dantesca rammenta il ^coeli
+coelorumque virtutes~ del Prefazio nella Messa.
+
+	D'altronde Iddio esercita la sua provvidenza
+immediatamente quanto alla ragione dell'ordine, bench@e
+mediatamente quanto all'esecuzione dello stesso.  <Ad
+providentiam duo pertinent, scil. ratio ordinis rerum provisarum
+in finem, et executio hujus ordinis, quae gubernatio dicitur.
+Quantum igitur ad primum horum, Deus immediate omnibus providet, 
+qui in suo intellectu habet rationem omnium, etiam minimorum.  Et
+quascumque causas aliquibus effectibus praefecit, dedit eis
+virtutem ad illos effectus producendos.  Unde oportet quod
+ordinem illorum effectuum in sua ratione praehabuerit.  Quantum
+autem ad secundum, sunt aliqua media divinae providentiae, quia
+inferiora gubernat per superiora, non propter defectum suae
+virtutis, sed propter abundantiam suae bonitatis, ut dignitatem
+causalitatis etiam creaturis communicet.>  S. T., Ia, q. 22, a.
+3; q. 112, a. 6; Cf. ^Cont. Gent.~, III, cc. LXXVI, LXXVII, 
+LXXXIII, XCIV.
+
+	|Si ch'ogni parte...~  Gli angeli muovono i cieli in tal
+modo che la luce arriva a tutti con proporzione, ^secundum
+qualitatem materiae receptibilis~ dice l'Imolese, ^ivi.~  Cf. S.
+T., I, Dist. II, q. I, a. 1, 5m; Dist. 37, q. I, a. 2, 2m.
+
+	|77-81.  splendor mondani~, cose stimate in questo mondo:
+onori, ricchezze, vestiti, piaceri.  Cf. 12ae, q. 108, a. 3, 4m;
+a. 4; ^Cont. Gent.~, III, cc. XXX, XXXI.
+
+	|ministra e duce.~  San Tommaso, interpretando Aristotile
+disse che ^Fortuna est intellectus agens praeter intentionem, sed
+casus est natura agens praeter intentionem.~  ^In Metaph.~, II, 
+lec. 8, fine; Cf. ^In Phys.~, II, lec. 10.  Anche Dante ha usata
+la stessa metafora, e l'ha personificata, assegnandole l'officio
+che Iddio confid@o ai Principati.  La dottrina dell'Angelico @e
+infatti che ^bonum commune civitatis vel gentis, dispositio
+regnorum et mutatio dominationis de gente in gentem, et
+instructio principum de administratione regiminis, pertinent ad
+ordinem Principatuum.~  ^Cont. Gent.~, III, c. LXXX, fine.  Cf.
+Ia, q. 108, aa. 5, 6; q. 113, a. 3.  Che poi non ci sia
+dissimilitudine di dottrina, ce lo dice Dante stesso: ^Heram
+vocabat Pyrrhus Fortunam, quam causam melius et rectius nos
+divinam Providentiam appellamus.~  ^Mon.~, II, c. X.  Vedi San
+Tommaso, ^Cont. Gent.~, III, c. XCII, dove spiega ^quomodo
+dicitur aliquis bene fortunatus.~  Fra Giov. Balbi scrive: ^Quam~
+(Fortunam) ^fingunt esse quamdam Deam humanas res variis casibus
+et fortuit@o alludentem.~..  ^Sed hec Dea aut nihil est, aut est
+temporalis eventus rerum a Deo provisarum.~  ^Cathol.~, voc.
+^Fortuna.~
+
+	|Che permutasse.~  Tutte le mutazioni sono soggette alla
+Provvidenza.  <Sicut homo imprimit denuntiando quoddam interius
+principium actuum homini sibi subjecto, ita etiam Deus imprimit
+toti naturae principia propriorum actuum, et ideo per hunc modum
+Deus dicitur praecipere toti naturae...  Et per hanc etiam
+rationem omnes motus et actiones totius naturae legi aeternae
+subduntur, in quantum moventur a divina providentia: non autem
+per intellectum divini praecepti, sicut creaturae rationales.> 
+S. T., 12ae, q. 93, a. 5.  Cf. ^Verit.~, q. 5, aa. 4, 5.  E
+d'altronde <defectus qui accidunt in rebus naturalibus, quamvis
+sint praeter ordinem causarum particularium, non tamen sunt
+praeter ordinem causarum universalium, et praecipue causae primae
+quae Deus est, cujus providentiam nihil subterfugere potest.> 
+^Sum.~, 12ae, q. 93, a. 5, 3m.  Cf. Ia, q. 22, a. 2.
+
+	|a tempo~, di tempo in tempo.
+
+	|vani~, cio@e falsi, non fermi, non utili.  Cf. S. T., 
+^Mal, ~, q. 9, a. I; ^In Ps.~ XI, med.
+
+	|sangue~, famiglia, generazione.
+
+	|Oltre la defension~, non ostante l'opposizione.  <Cum
+effectus conformetur agenti secundum suam formam, eadem ratio est
+in causis agentibus quae est in causis formalibus.  In formis
+autem sic est, quod licet aliquid possit deficere ab aliqua forma
+particulari, tamen a forma universali nihil deficere potest. 
+Potest enim esse aliquid quod non est homo vel vivum: non autem
+potest esse aliquid quod non sit ens.  Unde hoc idem in causis
+agentibus contingere opportet.  Potest enim aliquid fieri extra
+ordinem alicujus causae particularis agentis: non autem extra
+ordinem alicujus causae universalis, sub qua omnes causae
+particulares comprehenduntur: quia si aliqua causa particularis
+deficiat a suo effectu, hoc est propter aliquam aliam causam
+particularem impedientem, quae continetur sub ordine causae
+universalis.  Unde effectus ordinem causae universalis nullo modo
+potest existere...  Cum igitur voluntas Dei sit universalis causa
+omnium rerum, impossibile est quod divina voluntas suum effectum
+non consequatur.  Unde quod recedere videtur a divina voluntate
+secundum unum ordinem, relabitur in ipsam secundum alium.> 
+^Sum.~, Ia, q. 19. a. 6.  Cf. ^Quodl.~, 11, a. 3; 12, a. 4.
+
+	|82-84.  Seguendo lo giudicio.~  Le cose arrivano quali e
+come lo previdde la Provvidenza.  <In hoc est immobilis et certus
+divinae providentiae ordo, quod ea quae ab ipso providentur, 
+cuncta eveniunt eo modo quo ipsa providet, sive necessario sive
+contingenter.>  S. T., Ia, q. 22, a. 4, 2m.
+
+	|che @e occulto...~  Talvolta il |giudicio~ della fortuna
+@e |occulto come in erba l'angue~, perch@e anche quando sembra
+moltiplicarci i suoi fiori, pu@o darsi che sotto le apparenze ci
+sia un occulto decreto della Provvidenza, a cui obbedisce la
+fortuna, e del quale non conosciamo le ragioni.  Il singolare e
+contingente non @e propriamente oggetto della scienza umana, ma
+bens@i della divina.  <Cujus ratio manifeste apparet, si
+consideretur diversa habitudo quam habet ad rem similitudo rei
+quae est in intellectu nostro, et similitudo rei quae est in
+intellectu divino.  Illa enim quae est in intellectu nostro est
+accepta a re, secundum quod res agit in intellectum nostrum, 
+agendo per prius in sensu: materia autem, propter debilitatem sui
+esse, quia est in potentia ens tantum, non potest esse principium
+agendi, et ideo res quae agit in animam nostram, agit solum per
+formam: unde similitudo rei quae imprimitur in sensum, et per
+quosdam gradus depurata usque ad intellectum pertingit, est
+tantum similitudo formae.  Sed similitudo rei quae est in
+intellectu divino, est factiva rei: res autem, sive forte debile
+esse participet, hoc non habet nisi a Deo, et secundum hoc
+similitudo omnis rei in Deo existit quod res illa a Deo esse
+participet.  Unde similitudo immaterialis quae est in Deo non
+solum est similitudo formae, sed materiae.  Et quia ad hoc quod
+aliquid cognoscatur, requiritur quod similitudo ejus sit in
+cognoscente, non autem quod sit per modum quo est in re, inde est
+quod intellectus noster non cognoscit singularia, quorum cognitio
+ex materia dependet, quia non est in eo similitudo materiae, non
+autem hoc quod similitudo sit in eo immaterialiter: sed
+intellectus divinus qui habet similitudinem materiae, quamvis
+immaterialiter, potest singularia cognoscere.>  ^Verit.~, q. 2, 
+a. 5.
+
+	|85-87.  Vostro saver...~  La sapienza umana non pu@o
+contrastare a quella divina, perch@e la sapienza divina @e
+perfettamente immutabile e quanto al soggetto, e quanto
+all'oggetto; la sapienza umana invece @e mutabile quanto al
+soggetto se non l'@e quanto all'oggetto.  <Sapientia increata
+nullo modo mutabilis est: creata vero in nobis mutatur per
+accidens, non per se.  Est enim ipsam considerare dupliciter. 
+Uno de quibus est, et sic ommino immutabilis est.  Alio modo
+secundum esse quod habet in subjecto, et sic per accidens mutatur
+subjecto mutato de potentia habendi sapientiam in actu habens. 
+Formae enim intelligibiles ex quibus sapientia consistit, et sunt
+rerum similitudines, et sunt formae perficientes, intellectum.> 
+^Verit.~, q. II, a. I, 10m.  Non pu@o impedire la prescienza
+divina, tanto pi@u che la scienza divina @e principio delle cose, e
+dalle cose non @e prodotta.  <Hoc quod tam multa in humanis
+accident quorum contraria deberent accidere, ut videtur
+consideratis inferioribus causis, ostendit quod humani actus
+divina providentia gubernantur, ex qua contingit quod frequenter
+potentiores succumbunt.  Ostenditur enim per hoc quod victor
+magis est ex divina providentia quam ex humana virtute.> 
+^Verit.~, q. 5, a. 5, 5m.  Cf. Ia, q. 14, a. 11; q. 19, a. 6; 3a, 
+q. 46, a. 2.
+
+	|provvede~, nel senso di prevedere.  In questo verso sono
+indicati i tre atti della sapienza: conoscere le cause supreme, 
+giudicare di tutto, e ordinare.  <Magnitudo virtutis secundum
+suam speciem consideratur ex objecto.  Objectum autem sapientiae
+praecellit inter objecta omnium virtutum intellectualium:
+considerat enim altissimam causam, quae Deus est...  Et quia per
+causam judicatur de effectu, et per causam superiorem de causis
+inferioribus, inde est quod sapientia habet judicium de omnibus
+aliis virtutibus intellectualibus, et ejus est ordinare omnes.> 
+S. T., 12ae, q. 66, a. 5.  Cf. q. 57, aa. 2, 3; ^Cont. Gent.~, 
+II, c. XXIV.
+
+	La sapienza divina si stende anche alle permutazioni dei
+beni mondani: ^Dives et pauper obviaverunt sibi; utriusque
+operator est Dominus.~  ^Prov.~, XXII, 2.
+
+	|persegue~, prosegue.  San Tommaso dice: ^Persequutio
+duplex, scil. a bonis, ex amore et zelo, et ad bonum; et a malis, 
+ex odio, et ad malum.~  ^In Ps.~ XVII, fine.
+
+	|come gli altri dei.~  Il poeta teologo avendo accettata
+la metafora pagana di Fortuna, per ispiegare idee cristiane, 
+continua la stessa allegoria, e chiama |dei~ gli angeli che
+governano l'universo.  Cf. ^Par.~, XXVIII, 121.  Sul governo
+degli angeli, vedi II, Dist. I, q. I, a. 4, 2m; Dist. 3, q. I, a.
+3, 4m; Dist. 14, q. 3; IV, Dist. 45, q. I, a. I, q. I. 
+D'altronde anche la Scrittura aveva detto: ^Vos dii estis.~ 
+^Ps.~ LXXXI, 6.  Cf. ^Joan.~, X, 34; ^I Cor.~, VIII, 5.  Dante ci
+rammenta che le altre intelligenze ^li Gentili le chiamavano dei
+o dee.~  ^Conv.~, II, c. V.
+
+	|88-90.  triegue~, riposo; in francese ^tr@eve.~  La
+fortuna @e incerta e volubile quanto a noi, perch@e dipende da
+cagioni non determinate.  <Effectus cujuslibet actionis ex fine
+ejus pensari potest: nam per operationem efficitur ut pertingatur
+ad finem.  Finis autem gubernationis mundi est bonum essentiale, 
+ad cujus participationem et assimilationem omnia tendunt. 
+Effectus igitur gubernationis potest accipi triplicitur.  Uno
+modo ex parte ipsius finis, et sic est unus effectus
+gubernationis, scil. assimilari summo bono.  Alio modo potest
+considerari effectus gubernationis secundum ea quibus ad Dei
+assimilationem creatura perducetur; et sic in generali sunt duo
+effectus gubernationis.  Creatura enim assimilatur Deo quantum ad
+duo, scil. quantum ad id quod Deus bonus est, in quantum creatura
+est bona; et quantum ad hoc quod Deus est aliis causa bonitatis, 
+in quantum una creatura movet aliam ad bonitatem.  Unde duo sunt
+effectus gubernationis, scil. conservatio rerum in bono, et motio
+earum ad bonum.  Tertio modo potest considerari effectus
+gubernationis in particulari: et sic sunt nobis innumerabiles.> 
+S. T., Ia, q. 103, a. 4.  Cf. XI ^Metaph.~, lec. 8, fine.
+
+	|necessit@a~: cio@e la volont@a immutabile della Providenza
+divina. <Ordo divinae sapientiae dupliciter potest considerari. 
+Uno modo in generali, secundum scil. quod progreditur a causa
+gubernativa totius.  Alio modo in speciali, secundum quod
+progreditur a causa particulari, quae est executiva divinae
+gubernationis.  Quod ex duobus patet.  Primo quidem ex hoc quod
+ordo divinae gubernationis totaliter in bonum tendit, et
+unaquaeque res in sua operatione et conatu non tendit nisi ad
+bonum: nullus enim respiciens ad malum operatur, ut Dionysius
+dicit.  Alio modo apparet idem ex hoc quod omnis inclinatio
+alicujus rei, vel naturalis vel voluntaria, nihil est aliud quam
+quaedam impressio a primo movente, sicut inclinatio sagittae ad
+signum determinatum nihil aliud est quam quaedam impressio a
+sagittante.  Unde omnia quae aguntur vel naturaliter vel
+voluntarie quasi propria sponte perveniunt ad id ad quod
+divinitus ordinantur.>  S. T., Ia, q. 103, a. 8; ^Cont. Gent.~, 
+III, c. XCIV.  Sono tre specie di necessit@a: la prima di
+coazione, che non conviene a Dio; la seconda assoluta, che esiste
+in Dio, ma solo ^ad intra~; la terza e ipotetica, suppone la
+prescienza o predefinizione della volont@a immutabile di Dio.  Cf.
+Ia, q. 22, a. 4; III, Dist. 20, a. I, q. 3; ^Verit.~, q. 22, a.
+5.  Ma questa necessit@a, della quale parla Dante, non impedisce
+la contingenza della cose e la variabilit@a della fortuna.  Cf.
+Ia, q. 19, a. 8; 12ae, q. 10, a. 4; 22ae, q. 83, a. 2; ^Cont.
+Gent.~, III, cc. LXIX-LXXIV.  Il povero Cecco d'Ascoli non aveva
+capito la dottrina di Dante, e glie ne fa un rimprovero, 
+^Acerba~, lib. I, c. I:
+
+     In ci@o peccasti, o Fiorentin Poeta, 
+       Ponendo che li ben della Fortuna
+       Necessitati sieno con lor meta.
+     Non @e fortuna cui ragion non vinca.
+       Or pensa, Dante, se prova nessuna
+       Si pu@o pi@u fare che questa convinca.
+
+	|S@i spesso vien chi...~  Altri leggono: ^S@i spesso vien
+che...~, cio@e: Cos@i spesso avviene che...  -- Da questa
+variabilit@a voluta da Dio, proviene che spesso son nuovi
+fortunati e nuovi sfortunati.  Si deve notare che il moto della
+Fortuna @e confrontato a quello locale e circolare de' cieli, 
+perch@e il solo moto locale e insieme circolare pu@o essere
+continuo.  ^Cont. Gent.~, III, c. LXXXII, 5m.
+
+	|91-93.  posta in croce~, vilipesa.  <Quamvis videatur
+nobis quod omnia aequaliter bonis et malis accidant, ex hoc quod
+nescimus qua de causa divina providentia singula dispenset, non
+est tamen dubium quin in omnibus bonis et malis quae eveniunt
+sive bonis sive malis, sit recta ratio, secundum quam divina
+providentia omnia ordinat.  Et quia eam ignoramus, videtur nobis
+quod inordinate et irrationabiliter eveniant: sicut si aliquis
+intraret officinam fabri videretur ei quod instrumenta fabrilia
+essent inutiliter multiplicata, si nesciret rationem utendi
+unoquoque; quorum tamen multiplicatio ex causa rationabili
+apparet ei qui virtutem artis intuetur.>  ^Verit.~, q. 5, a. 5, 
+6m.  Alla fine dell'ultimo volume della ^Bibliotheca Latina~ di
+J. A. Fabricius, ediz. Fir., 1858, si legge un poemetto di 1002
+versi, scritto nel secolo XIII, e intitolato ^De diversitate
+Fortunae et Philosophiae consolatione.~  Fu dedicato al vescovo
+di Firenze.  L'autore, ^Henricus Septimellensis~, si lagna molto
+della Fortuna:
+
+     Cui de te, Fortuna, querar?  Cui?  Nescio quare, 
+       Perfida, me cogis turpia probra pati? etc.  
+
+Pare che fosse in moda allora come oggi di lagnarsi della
+Fortuna.
+
+	|le dovrian dar lode~, perch@e le mutazioni sue sono un
+bene.
+
+	|biasmo~ ne' pensieri, |mala voce~ colle parole.  Gli
+uomini hanno torto di biasimare le leggi della Providenza, ^a~)
+Perch@e questa d@a sempre agli uomini quel che @e giusto, secondo la
+giustizia distributiva: cos$i S. T., Ia, q. 21, a. 1; ^b~) Perch@e
+non deve impedire i mali particolari: cos@i S. T., Ia, q. 103, a.
+5, 2m; ^Cont. Gent.~, III, cc. CXII, CXIII; ^c~) Perch@e dalle
+avversit@a vuole che si cavi un bene: cos@i S. T., ^Cont. Gent.~, 
+III, c. CXXXV; ^d~) Perch@e le avversit@a private servono al bene
+commune: cos@i S. T., Ia, q. 19, a. 9, 2m; q. 48, a. 2; q. 49, a.
+3; II, Dist. 34, q. I; ^e~) Perch@e quanto pi@u l'uomo soggiace
+all'intelletto, tanto meno soggiace alla Fortuna: cos@i Dante, 
+^Conv.~, II, c. II.
+
+	|94-96.  s'@e beata~, perch@e @e beata.
+
+	|non ode~, non disturbandosi.  Si legga il ^Salmo~ II per
+intero.
+
+	|Con l'altre prime creature~, gli angioli.  Sono le prime
+creature, ^a~) Perch@e sono le pi@u perfette: cos@i S. T., ^Cont.
+Gent.~, II, cc. XLVI, LIV; Ia, q. 50, a. I; ^b~) Perch@e furono le
+prime creature complete: cos@i S. T., Ia, q. 46, a. 3, 1m; q. 61, 
+a. 3; ^Pot.~, q. 3, a. 18, 2m; a. 19.  Cf. ^Purg.~, XI, 3.
+
+	|Volve sua spera~, volge sua sfera, cio@e de' beni
+terrestri.  Si legga la stessissima dottrina espressa dal
+Boccaccio, ^Decam.~, giorn. II, nov. 3.  Pi@u tardi il
+Macchiavelli scrisse il suo ^Capitolo di Fortuna~, che si
+potrebbe considerare come un commentario qualunque di Dante.
+
+	|e beata si gode~, perch@e quello che i moderni
+chiamerebbero ^l'Angelo della fortuna~ vede colla sua
+intelligenza l'ordine che esiste sia ^per se~, sia ^per
+accidens~, e non pu@o non esistere.  Cf. S. T., in I, Dist. 12, a.
+2, 2m; II, Dist. 37, q. I, a. I, 5m; ^Ethic.~ princ.  E questo @e
+una beatitudine accidentale.  S. T., ^In Ps.~ XXVI, med.; ^Mal.~, 
+q. 5, a. I.
+
+	|97-99.  discendiamo.~  Dopo i peccati del
+concupiscibile, si passa a considerare quelli dell'irascibile. 
+<Appetitus sensitivus est una vis in genere, quae sensualitas
+dicitur: sed dividitur in duas potentias, quae sunt species
+appetitus sensitivi, scil. in irascibilem et concupiscibilem.  Ad
+cujus evidentiam considerari oportet quod in rebus naturalibus
+corruptibilibus non solum oportet esse inclinationem ad
+consequendum convenientia et refugiendum nociva, sed etiam ad
+resistendum corrumpentibus et contrariis, quae convenientibus
+impedimentum praebent et ingerunt nocumenta...  Quia igitur
+appetitus sensitivus est inclinatio consequens apprehensionem
+sensitivam, sicut appetitus naturalis est inclinatio consequens
+formam naturalem, necesse est quod in parte sentitiva sint duae
+appetitivae potentiae.  Una per quam anima simpliciter inclinatur
+ad prosequendum ea quae sunt convenientia secundum sensum, et ad
+refugiendum nociva: et haec dicitur concupiscibilis; alia vero
+per quam animal resistit impugnantibus, quae convenientia
+impugnant et nocumenta inferunt: et haec vis vocatur irascibilis. 
+Unde dicitur quod ejus objectum est arduum: quia scil. tendit ad
+hoc quod superet contraria, et superemineat eis.>  ^Sum.~, Ia, q.
+81, a. 2.  Cf. Ia, q. 59, a. 4; 22ae, q. 18, a. I; q. 168, a. 2;
+^Conv.~, IV, c. XXVI.
+
+	|maggior pi@eta~, perch@e ci sono maggiori peccati e pene
+maggiori.
+
+	I peccati dell'irascibile sono pi@u gravi dei suddetti, 
+perch@e, sebbene <ex parte passionis... incontinentia
+concupiscentiae turpior est quam incontinentia irae, quia motus
+concupiscentiae habet majorem inordinationem quam motus irae...>, 
+nondimeno <potest considerari peccatum incontinentiae quantum ad
+malum in quod quis incidit a ratione discedens: et sic
+incontinentia irae est ut plurimum gravior, quia ducit in ea quae
+pertinent ad proximi nocumentum.>  ^Sum.~, 12ae, q. 156, a. 4. 
+Per questo i peccati dell'irascibile si dicono stare pi@u basso
+nell'inferno.  Cf. 22ae, q. 142, aa. 2-4; III, Dist. 26, q. I, a.
+2; ^Verit.~, q. 25, a. 2.  San Tommaso nel testo riferito adopra
+la parola ^incontinentia~ nel senso dantesco, ^Inf.~, XI, 82.
+
+	|Gi@a ogni stella cade che saliva~, cio@e @e passata mezza
+notte.  L'azione del poema cominci@o nella mattina, ossia la prima
+ora del giorno precedente (^Inf.~, I, 37), poi venne la sera
+(^Inf.~, II, 1): ecco dodici ore; poi dalla notte cominciata fino
+a mezza notte passata sono altre sei ore e pi@u: in tutto diciotto
+ore, almeno.  Siamo al principio del 9 di aprile.
+
+	|il troppo star si vieta.~  Il Lombardi interpreta cos@i:
+<Allude all'insegnamento degli ascetici, che nella considerazione
+de' vizi non si fermi la mente di soverchio, ma solo quanto basta
+a conoscerne la bruttezza loro e pernicie.>  ^Ivi.~
+
+	|100-102.  ricidemmo...~, attraversammo il cerchio fino
+all'altra riva.
+
+	|una fonte...~  Sull'origine di quest'acqua come delle
+acque precedenti si legga, ^Inf.~, XIV, 112-116.
+
+	|103-105.  buia molto pi@u che persa~, pi@u oscura che se
+fosse persa.  Il perso ^@e un colore misto di purpureo e di nero:
+ma vince il nero, e da lui si denomina.~  ^Conv~, IV, c. XX.
+
+	|in compagnia~, lunghesso.
+
+	|gi@u~, nel quinto cerchio.
+
+	|diversa~, strana, sconcia (Cf. ^Inf.~, VI, 13); ovvero
+pi@u semplicemente per una via |diversa~ da quella |dell'onde
+bige.~
+
+	|106.  Una palude...~  Lo Stige, fiume freddissimo
+dell'Arcadia.  Sta bene trasportato nell'inferno dove si
+puniscono i peccati dell'irascibile, perch@e quel nome
+%Sigma%tau%$nu%xi\ viene da
+%sigma%tau%nu%gamma%$varepsilon%omega\, odiare.  Il ruscello e le
+paludi infernali hanno lo stesso nome.
+
+	|110-111.  Vidi genti fangose...~  Si noti che le genti
+sono numerose, e che tutte sono ^con sembiante offeso.~  Questi
+peccatori commisero i peccati dell'irascibile, e vissero nel
+disturbo continuo.  S. T., ^In Ps.~ XXXVI, princ.  E per questo
+sono in un |pantano.~  Le passioni del concupiscibile hanno
+specialmente per oggetto o il piacere sensibile della ^lussuria~
+e della ^gola~, o i beni esteriori che servono a procurarsi
+questi piacere: donde la passione dell'^avarizia.~  Sono i tre
+peccati capitali narrati e condannati dal canto V fino al verso
+96 del canto VII.
+
+	Molti espositori, tra cui Pietro di Dante, vogliono a
+tutta forza trovare nel Poema gli altri peccati capitali, ed a
+questo sono spinti dal pensiero che Dante doveva starsene
+strettamente all'enumerazione ordinaria fatta dai teologi.
+
+	Anche noi siamo dello stesso sentire, e non ci pare tanto
+difficile il constatare cotesta pienezza di dottrina cristiana. 
+Crediamo che i quattro peccati sono esplicitamente mostrati dal
+v. 97 del canto VII, fino al v. 66 del canto VIII, e puniti
+insieme nella stessa presente bolgia.  In fatti nel canto VII, 
+123, @e nominata l'^accidia~ o pigrizia, dove s'incontrano quelli
+che portarono 
+
+     ..... dentro accidioso fummo.  
+
+	@E nominata l'^ira~, ^ivi~, V. 116, dove si veggono
+
+     L'anime di color cui vinse l'ira.  
+
+	@E nominata l'^invidia~, dove si vidde, canto VIII, 58-59
+
+     ....... quello strazio
+     Far di costui alle fangose genti.
+
+	Senza dubbio, ^ivi~, V. 61, 
+
+     Tutti gridavano: A Filippo Argenti! 
+
+ma ^non lo sbranano gli altri: lo straziano con le grida; egli
+poi punisce s@e stesso.~  Tommaseo, ^ivi.~ @E nominato la
+^superbia~, quando apparisce, ^ivi~, V. 46, Filippo Argenti, che
+
+     ..... fu al mondo persona orgogliosa.
+
+	Ecco i sette peccati capitali ordinati in due serie
+generiche.  Cf. il Del Lungo, ^Gli invidiosi nello Stige.~  Ci
+pare chiaro e certo quanto abbiam detto.  Aggiungeremo solo
+questa osservazione fatta dal Del Lungo, ^op. cit.~, cio@e che
+mancherebbe la simmetria voluta tra il Purgatorio e l'Inferno, se
+in questo non s'incontrassero tutti i peccati capitali.
+
+	|con sembiante offeso.~  La sembianza umana si atteggia
+secondo la qualit@a degli appetiti.  In quel aureo volumetto
+intitolato ^Compendium totius Theologiae~, e attribuito a Pietro
+di Tarantasia, si leggono due interessantissimi capitoli sulla
+fisionomia trasformata dalle passioni, secondo la dottrina
+medievale.  Sono i capitoli LVIII e LIX del libro II.  Quanto
+alle passioni dell'irascibile, e specialmente dell'ira, dice
+l'Angelico: <Transmutatio quae est in passionibus animae
+proportionatur motui appetitus.  Manifestum est autem quod
+quilibet appetitus, etiam naturalis, fortius tendit in id quod
+est sibi contrarium, si fuerit praesens...  Motus autem
+appetitivus irae causatur ex aliqua injuria illata, sicut ex
+quodam contrario injacente.  Et ideo appetitus potissime tendit
+ad repellendum injuriam per appetitum vindictae: et ex hoc
+sequitur magna vehementia et impetuositas in motu irae...  Et
+exinde est quod propter magnam perturbationem cordis quae est in
+ira, maxime apparent in iratis indicia quaedam in exterioribus
+membris; unde Gregorius dicit in V ^Moral.~: ^Irae suae stimulis
+accensum cor palpitat, corpus tremit, lingua se praepedit, facies
+ignescit, exasperantur oculi, et nequaquam recognoscuntur noti:
+ore quidem clamorem format, sed sensus quid loquatur ignorat.~> 
+S. T., 12ae, q. 48, a. 2.  Cf. ^Verit.~, q. 26, a. 3.
+
+	|112-114.  si percotean...~ vicendevolmente.  Qui si
+dipingono al vivo gli atti bestiali degli iracondi, ne' quali si
+suppongono gli eccessi dell'ira.  Cf. Ia, q. 63, a. 4, 2m; 22ae, 
+q. 157, a. 1, 3m.  Tali atti sono prodotti dalla perturbazione
+fisica (12ae, q. 48, aa. 2, 4) e dall'impedimento della ragione. 
+Cf. 12ae, q. 48, aa. 3, 4.  Questi dannati non parlano, perch@e
+dall'ira la ragione @e perturbata.  Cf. 12ae, q. 48, a. 4.  L'ira
+@e punita nell'inferno, cio@e @e peccato mortale.  Cf. 22ae, q.
+158, a. 3.  @E peccato capitale perch@e <vitium capitale dicitur ex
+quo multa vitia orientur.  Habet autem hoc ira quod ex ea multa
+vitia oriri possunt, duplici ratione.  Primo ex parte sui
+objecti, quod multum habet de ratione appetibilitatis, in quantum
+scil. vindicta appetitur sub ratione justi, vel honesti, quia sub
+dignitate allicit, ut dictum est supra, 22ae, q. 158, a. 4.  Alio
+modo ex suo impetu, quo mentem praecipitat ad inordinata
+quaecunque agenda.  Unde manifestum est quod ira est vitium
+capitale.>  S. T., 22ae, q. 158, a. 6.  Cf. 22ae, q. 34, a. 5;
+^Mal.~, q. 8, a. I.  Si legga qui San Gregorio, ^Moral.~, V, cap.
+ult.
+
+	N@e deve recare maraviglia che Dante punisca questi
+quattro peccati insieme, sotto il nome d'|ira~, bench@e abbia
+punito separatamente i peccati del concupiscibile.  Il
+concupiscibile in fatti si nomina dalla concupiscenza, perch@e
+questa @e il suo effetto pi@u noto.  <Hoc modo nominatur aliquid
+secundum quod nobis innotescit: voces enim sunt signa
+intellectuum, secundum Philosophum.  Nos autem, ut plurimum, per
+effectum cognoscimus causam.  Effectus autem amoris, quando
+quidem habetur amatum, est delectatio; quando vero non habetur, 
+est desiderium vel concupiscentia.  Ut autem Augustinus dicit in
+X ^De Trin.~, amor magis sentitur cum eum prodit indigentia. 
+Unde inter omnes passiones concupiscibilis magis est sensibilis
+concupiscentia: et propter hoc ab ea denominatur potentia.>  S.
+T., 12ae, q. 25, a. 2, Im, q. 82, a. 3.  L'irascibile invece si
+nomina dall'ira, non solo perch@e questa @e pi@u nota, ma ancora
+perch@e <ira causatur ex aliis passionibus, sicut effectus a
+causis praecedentibus; ideo ab ea tanquam a manifestatione
+denominatur potentia.>  S. T., 12ae, q. 25, a. 3, Im.  Cf.
+^Verit.~, q. 26, a. 5.  L'ira poi contiene le specie, n@e come una
+causa contiene gli effetti: ma come un'effetto contiene le sue
+cause.  <Quicumque irascitur quaerit vindicari de aliquo; et sic
+motus irae tendit in duo, scil. in ipsam vindictam, quam appetit
+et sperat sicut quoddam bonum, unde et de ipsa delectatur; tendit
+etiam in illum de quo quaerit vindictam, sicut contrarium et
+nocivum: quod pertinet ad rationem mali.  Est autem duplex
+differentia attendenda circa hoc irae ad odium et ad amorem. 
+Quarum prima est quod ira semper respicit duo objecta; amor vero
+et odium quandoque respiciunt unum objectum tantum...  Secunda
+est quia utrumque objectorum quod respicit amor est bonum: vult
+enim amans bonum alicui tanquam sibi convenienti; utrumque vero
+eorum quae respicit odium habet rationem mali: vult enim odiens
+malum alicui tanquam cuidam inconvenienti.  Sed ira respicit unum
+objectum secundum rationem boni, scil. vindictam quam appetit; et
+aliud secundum rationem mali, scil. hominem nocivum de quo vult
+vindicari.  Et ideo est passio quodammodo composita ex contrariis
+passionibus.>  ^Sum.~, 12ae, q. 46, a. 2.
+
+	Per il motivo detto i quattro ultimi peccati capitali
+sono puniti insieme, donde non c'@e propriamente gerarchia da
+osservare; e se poi l'ira @e nominata prima dell'accidia, e
+l'invidia prima della superbia, non deve far maraviglia.  Vedremo
+nel ^Purg.~, XVII, che il poeta stesso non ha seguito il medesimo
+ordine nell'enumerazione e nella considerazione dei peccati
+capitali.
+
+	E d'altronde si deve notare che la superbia @e punita un
+po' pi@u in l@a verso la citt@a di Dite, come pi@u colpevole.  Vedi
+^Inf.~, VIII, 49-63.  E poi sotto l'ira @e punita l'accidia, e
+colla superbia, l'invidia: e questo @e conforme alla natura delle
+cose.
+
+	|116-120.  color cui vinse l'ira.~  L'ira @e pi@u impetuosa
+della altre passioni (12ae, q. 46, a. 5; 22ae, q. 156, a. 4, Im;
+q. 162, a. 6, Im), e vince l'uomo, diminuendo l'uso della ragione
+(12ae, q. 48, aa. 3, 4; ^Mal.~, q. 12, aa, 1, 4) e nello stato
+grave, @e acuta, durevole, e furiosa.  S. T., 12ae, q. 46, a. 8;
+22ae, q. 158, a. 5.  Sono sette le figlie dell'ira, cio@e ^rixa~, 
+^tumor mentis~, ^contumelia~, ^clamor~, ^indignatio~ et
+^blasphemia.~  Dall'ira considerata nel cuore, proviene
+l'^indignatio~ contro l'avversario, e il ^tumor mentis~ della
+vendetta nell'iracondo; dall'ira considerata nelle parole, si ha
+la parola confusa segno di collera, ossia il ^clamor~, e la
+parola articolata, cio@e la ^blasphemia~ contro Iddio, et la
+^contumelia~ contro il prossimo; dall'ira considerata nei fatti, 
+si ha la ^rixa.~  S. T., 22ae, q. 158, a. 7.
+
+	Appare giusto che i dannati lordi dei peccati
+dell'irascibile appariscano quasi trascinati in quel fiume
+fangoso, come sassi e rena, tanto pi@u che la Scrittura aveva
+detto: <Grave est saxum et onerosa arena: sed ira stulti utroque
+gravior.>  ^Prov.~, XXVII, 3.
+
+	|pullular.~  Il Buti: ^Per lo fiatare sotto l'acqua
+venivano li bollori~ (le bolle) ^suso.~  ^Ivi.~
+
+	|al summo~, alla superficie.
+
+	|121.  Tristi fummo.~  L'accidia @e una specie di
+tristizia (12ae, q. 35, a. 8), specialmente nel senso di
+disperazione.  S. T., 22ae, q. 24, a. 4.
+
+	|123.  accidioso fummo.~  L'accidia cagiona l'amarezza. 
+S. T., 22ae, q. 35, a. 4, 3m.  L'accidia della disperazione si
+chiama ^notte~ nella Scrittura.  Cf. S. T., ^In Is.~, XV, med.  @E
+peccato mortale ^ex suo genere~ perch@e ^de se secundum propriam
+rationem contrariatur charitati~, di cui un'effetto principale @e
+^gaudium de Deo.~  S. T., 22ae, q. 35, a. 3.  Cf. ^Mal.~, q. II, 
+a. I.
+
+	|124.  belletta.~  Fango, @e la posatura che fanno le
+acque torbide.  Cos@i sono indicati gli effetti dell'accidia dei
+quali dice San Tommaso: <Ut Philosophus dicit in VII ^Eth.~, V, 
+nullus diu absque delectatione potest manere cum tristitia, 
+necesse est quod ex tristitia aliquid dupliciter oriatur: uno
+modo ut homo recedat a contristantibus, alio modo ut ad alia
+transeat, in quibus delectatur; sicut illi qui non possunt
+gaudere in spiritualibus delectationibus, transferunt se ad
+corporales, secundum Philosophum in X ^Ethic.~, VI.  In fuga
+autem tristitiae talis processus attenditur: quia primo homo
+fugit contristantia, secundo etiam impugnat ea quae tristitiam
+ingerunt.  Spiritualia autem bona, de quibus tristatur acedia, 
+sunt et finis et id quod est ad finem: fuga autem finis fit per
+desperationem.  Fuga autem bonorum quae sunt ad finem, quantum ad
+ardua, quae subsunt consiliis, fit per pusillanimitatem; quantum
+autem ad ea quae pertinent ad communem justitiam, fit per
+torporem circa praecepta.  Impugnatio autem contristantium
+bonorum spiritualium quandoque quidem est circa homines qui ad
+bona spiritualia inducunt, et hic est rancor; quandoque vero se
+extendit ad ipsa spiritualia bona, in quorum detestationem
+aliquis adducitur, et hoc proprie est malitia.  Inquantum autem
+propter tristitiam a spiritualibus aliquis transfert se ad
+delectabilia exteriora, ponitur filia acediae evagatio circa
+illicita.>  S. T., 22ae, q. 35, a. 4, 2m.  Cf. ^Mal.~, q. II, a.
+4.
+
+	|125.  inno~, detto ironicamente.
+
+	|gorgoglian~, come fanno quelli che avendo la bocca piena
+d'acqua vogliono parlare.
+
+	|strozza~, gola.
+
+	|126-129.  Ch@e dir nol posson.~  Qui si esprime il
+carattere dell'accidia disperata, la quale non sa terminare nulla
+di bene in questo mondo, e non pu@o nemmeno finire una parola di
+lagnanza.  Cf. 22ae, q. 85, aa. 1, 3; 22ae, q. 24, a. 4.  Il
+Buti, ^ivi~, enumera le sedici specie dell'accidia, le sei sue
+figliuole e le sei compagne.
+
+	|pozza~, gora.
+
+	|Grand'arco.~  Anche oggi si direbbe un ^arco di
+cerchio~, tra i geometri.
+
+	|mezzo.~  Il Cesari: <Quel |mezzo~ coll'^e~ stretto e le
+^zete~ schiacciate @e il contraposto di ^secco~, cio@e molliccio.> 
+^Ivi.~
+
+	|a chi del fango ingozza.~  Questi sono gl'iracondi, i
+quali soli si veggono, e anche loro ingozzavano fango.  Vedi v.
+110.
+
+	|130.  al dassezzo~, cio@e alla ripa ultima, dove era il
+passo della palude, o anche da ultimo, o finalmente, come
+vogliono altri.  -- @E voce toscana.  Sull'origine di cotesto
+vocabolo dicono che si ha poco di certo.  Secondo il Poletto, 
+^Dizion.~, voc. |Dassezzo~, verrebbe dal latino ^sequius.~  Lo
+stesso Poletto ci rimanda alla parola ^sezzaio~, che poi ha
+dimenticata nel suo ^Dizionario.~  Pensiamo anche noi che le due
+parole abbiano la stessa radice, la quale per@o non giova tanto
+cercare, bench@e trovarla si possa.
+
+

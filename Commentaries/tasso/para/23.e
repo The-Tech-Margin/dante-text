@@ -1,0 +1,158 @@
+	|1-9.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|2.~ |(ed.  Rosini)~
+Nati.  [richiamo marginale] [Sessa]
+
+	|6.~ |(ed.  Rosini)~
+Lab@or.  [richiamo marginale] [Sessa]
+
+^Lab@or~, fatiche.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+Previene.  [richiamo marginale] [Sessa]
+
+	|12.~ |(ed.  Rosini)~
+Meridiano.  [Da Fino]
+
+	|14-15.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+^Appaga~, contenta.  [Da Fino]
+
+	|20.~ |(ed.  Rosini)~
+^Frutto~, delle tue fatiche.  [Da Fino]
+
+	|25-27.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+Comparazione.  [Da Fino]
+
+	|28.~ |(ed.  Rosini)~
+^Lucerne~, anime.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+Viste superne.  [richiamo marginale] [Sessa]
+
+	|31.~ |(ed.  Rosini)~
+^Viva luce~, umanit@a.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+^Lucente sustanzia~, divinit@a.  [Da Fino]
+
+	|35.~ |(ed.  Rosini)~
+Sobranza.  [richiamo marginale] [Sessa]
+
+	|37.~ |(ed.  Rosini)~
+Cristo.  [Da Fino]
+
+	|40-42.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|40-45.~ |(ed.  Rosini)~
+Mirabile.  [Sessa]
+
+	|43.~ |(ed.  Rosini)~
+^Dape~, vivande.  [Da Fino]
+
+	|49-51.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|53-54.~ |(ed.  Rosini)~
+^Grado~, gratitudine; ^Che mai non si stingue, Dal libro ch 'l 
+preterito rassegna~, che non si dimentica.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+^Pi@u pingue.  Pingue~, nel numero del pi@u.  [Sessa]
+
+	|66.~ |(ed.  Rosini)~
+Non @e cosa da gabbo il descrivere il fondo all'universo.  [Da Fino]
+
+	|67-69.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|67.~ |(ed.  Rosini)~
+^Non @e poleggio da picciola barca.~  Pareggio.  [Sessa]
+
+^Peleggio~, pelago.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+La Vergine.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+^Gigli~, Apostoli.  [Da Fino]
+
+	|79-81.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+^Mei~, raggi.  [Da Fino]
+
+	|83.~ |(ed.  Rosini)~
+Fulgurati.  [richiamo marginale] [Sessa]
+
+	|85.~ |(ed.  Rosini)~
+^Imprenti~, impronti.  [Da Fino]
+
+	|88.~ |(ed.  Rosini)~
+^Bel fior~, la vergine.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Intorno ad ella.  Ella~, terzo caso.  [Sessa]
+
+	|97-99.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|99.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|101.~ |(ed.  Rosini)~
+^Bel zaffiro~, vergine.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+^Inzaffira~, orna.  [Da Fino]
+
+	|103.~ |(ed.  Rosini)~
+^Amor angelico~, Angelo.  [Da Fino]
+
+	|107.~ |(ed.  Rosini)~
+^Dia~, divina.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+Il primo mobile.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+^L'eterna riva~, Inferna.  [Sessa]
+
+	|116.~ |(ed.  Rosini)~
+^Parvenza~, paruta.  [Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+^Coronata fiamma~, circolato splendore.  [Da Fino]
+
+	|120.~ |(ed.  Rosini)~
+^Sua sentenza~, Semenza.  [Sessa]
+
+	|121-123.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|124.~ |(ed.  Rosini)~
+Candori.  [richiamo marginale] [Sessa]
+
+^Candori~, anime.  [Da Fino]
+
+	|130-132.~ |(ed.  Rosini)~
+Metafora non continuata.  [Sessa]
+
+	|130.~ |(ed.  Rosini)~
+^Soffolce~, ricovera.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+^Bobolce~, aratori.  [Da Fino]
+
+	|139.~ |(ed.  Rosini)~
+S. Pietro.  [Da Fino]
+

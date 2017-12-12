@@ -1,0 +1,733 @@
+	|1.~  Ser Brunetto Latini nel ^Tesoretto~:
+
+     Or se ne va il maestro
+     Per lo cammino a destro ec.
+
+	|Stretto~ meglio, che ^Segreto~ secondo altra lezione.  Si
+conosce dalle parole del Poeta:
+
+     ... ed io dopo le spalle {v.3}.
+
+	L'angusto calle lo dispaiava dal suo Maestro.  Pure la
+lettera ^secreto~ o ^segreto~ @e quasi di tutti gli altri codici,
+tranne che della Nidobeatina, del 4 Pucciano, de' Riccardiani
+1005 e 1036, e d'un Ms. del Poggiali.  G. B. Niccolini crede
+|stretto~ la vera; ^poich@e non potrebbe~... ^convenire l'epiteto
+di segreta ad una via, dalla quale i poeti vedevano quella grande
+campagna ove punivansi gli eresiarchi, ed erano pur veduti da
+loro.~  Ma se l'illustre uomo avesse un poco atteso alla
+propriet@a della voce ^segreto~ ch'@e da ^secernere, separare~; non
+l'avrebbe, per solo rispetto alla Crusca, ammessa come una
+variante.  Il Bargigi non intende per ^secreto~ quel ch'intese il
+valentuomo; ma ^secreto calle~, dic'egli, ^via secreta, cio@e
+separata e distinta dal muro e dalli sepolcri.~  Potea cos@i esser
+^segreto~ quel calle, senza esser nascosto: e tutte le ragioni
+del Niccolini, del Borghi, del Capponi e del Becchi son ite a
+monte.
+
+	|2.  Mart@iri.~  Vedi l'ultimo v. del canto precedente.
+
+	|3.  Dopo~, ^dietro.~  Per lo ^stretto calle~ {v.1} i due
+poeti non poteano andare a paro.  Anche altrove (^Inf.~ XXIII, 2)
+n'andavan
+
+     ... l'un dinanzi e l'altro dopo,
+     Come i frati minor vanno per via.
+
+	|4.  Virt@u somma~, per ^sommamente virtuoso~, o
+^virtuosissimo.~  L'astratto pel concreto.  Sineddoche.
+
+	Nota, lettore, quanto bene stia questo nome applicato a
+^quel savio gentil che tutto seppe~, massime ora dopo che fu
+^vinta la pugna~ (^Inf.~ IX, 7, 106), e che la Ragione,
+personificata in Virgilio, ottiene per celeste favore che le si
+disserrino le porte di Dite.  Qui |virt@u~ @e ^valore~ pi@u
+ch'altro.
+
+	|Empi giri.~  Altra lettera ^ampi~, e non ispregevole; ma
+pare che il P. abbia voluto imitare Virgilio l@a dove (^En.~ VI,
+542) dice:
+
+     ... ^at laeva~ (^via~) ^malorum~
+     ^Exercet poenas, et ad impia Tartara mittit.~
+
+|Empi giri~, perch@e ^vi @e punita molto maggior empiet@a che ne'
+superiori.~  Barg.  -- O perch@e vi son dannati, massime qui, gli
+eresiarchi co' lor seguaci diretti nemici della ^piet@a~ e
+dell'onore e gloria debita a Dio; i quali propriamente si
+appellano |empi~ secondo il linguaggio della Bibbia.
+
+	|5.  Come a te piace.~  Ch@e, dopo ci@o che si narra ne'
+due precedenti canti essere avvenuto ai due poeti; e dopo l'alto
+periglio in cui Dante trovossi, pare che questi facesse andando
+anzi che il suo piacere, quello del Maestro.  Figuratamente poi
+sembra che questo motto accenni un grado di moral perfezione, per
+cui il Poeta si abbandona alla Ragione che lo guidi a sua posta.
+
+	|6.~  I grammatici attendano un po' a questo |soddisfammi
+ai miei~... come a quell'altro (v. 126) ^li soddisfeci al suo.~ 
+Son vani gli arzigogoli delle forme ellittiche Biagioliane ec.;
+considerando che |ai miei~, ^al suo~ son retti dal |soddisfammi~
+e dal ^soddisfeci~, siccome il lat. ^satisfacere~ che va
+costrutto col terzo caso.
+
+	|8-9.  Son levati~... |i coperchi~ delle arche dove
+giacciono gli eresiarchi e seguaci; perch@e di loro Davide pare
+abbia detto: ^Sepulcrum patens est guttur eorum, et linguis suis
+dolose agebant.~  Non lungi da questi sepolcri @e sentito il
+puzzo, di cui nel seguente canto.
+
+	|Nessun guardia face~ come i |levati~... |coperchi~ non
+sono senza alcuna allusione alla porta di Dite guardata gi@a dai
+diavoli e dalle furie (^Inf.~ VIII e IX).  Mostra che il Poeta
+parli sotto il naturale impulso della fantasia ancora oscillante
+dalle passate impressioni.  E cos@i @e che l'arte sia imitatrice
+della natura e che il suo lavoro possa trionfare del tempo.
+
+	|Face~, ^fa.~  Dal lat. ^facere~ ritenuto nell'ital., e
+di cui sono ancora in onore le voci regolari ^faceva, facevi~ ec. 
+Nel v. 16 il Nostro usa anche ^faci~ per ^fai.~
+
+	|10.  Saran serrati~ dopo il d@i del finale Giudizio,
+quando non saranno pi@u eretici da seppellirvi.  ^La qual cosa~,
+dice Guiniforto delli Bargigi, ^allegoricamente parlando @e vera,
+perocch@e fino a quel d@i non sar@a mai, che non si senta qualche
+eresia nel mondo.~
+
+	|15.  Fanno~, ^tengono per opinion loro~, ^stimano~, ec. 
+Forza indita anche nel lat. ^facere.~
+
+	|16.  Dimanda~ (vedi v. 7 e 8), alla quale il Maestro
+avea gi@a (vv. 13, 14, 15) risposto in genere; ma al Poeta sar@a
+pi@u satisfatto quando avr@a favellato con Farinata e con
+Cavalcante.  Egli teneva nascosto questo desiderio, perch@e sapeva
+le opinioni che questi ebbero circa la vita futura, e perch@e di
+Farinata gli avea Ciacco gi@a detto (^Inf.~ VI, 85) che il
+troverebbe pi@u gi@u.  L@i disse il Poeta:
+
+     Ch@e gran disio mi spinge di sapere
+     Se 'l ciel gli addolcia o lo 'nferno gli attosca.
+
+Des@io che serrava chiuso nell'anima e Virgilio o come spirito
+gl'intravvide, o tenea presenti le parole che il Nostro avea gi@a
+mosse a Ciacco; epper@o gli dice che sarebbe tosto soddisfatto e
+alla dimanda fatta,
+
+     E al disio ancor che tu mi taci.
+
+	|20.  Dicer~ forma primitiva di nostra lingua e della
+quale tratta del latino, son inflessioni regolari ^dico, dici,
+dice~ -- ^diciamo~... ^dicono; diceva~ ec. ec.; poche voci
+inflettendosi da ^Dire~ altra configurazione dell'indefinito.  V.
+^Inf.~ III, 45.
+
+	|21.  Non pur mo~, ^non soltanto adesso.~  Virgilio
+dispose il nostro poeta a parlar breve; qui, a nostro avviso,
+perch@e domandato della gente di questo luogo, risponde in genere,
+che vi eran rinchiusi i materialisti; nel canto precedente perch@e
+dice ricisamente: ^qui son gli eresiarchi~; ma non nomina le
+persone come Dante desiderava, e com'egli avea fatto altrove
+(^Inf.~ IV, 85 segg.).  Ancora (^Inf.~ III, 72-81, e IX, 87) pi@u
+volte gli s'impone il tacere.  E ragionevole che dove altri pu@o
+veder da s@e non si perda la fatica del favellare.
+
+	|24.  Piacciati di ristare~ ec.  Farinata dice a bocca
+quel che soglion dire le epigrafi sepolcrali: ^Siste gradum,
+viator.~
+
+	|25-26.  La tua loquela~ ec.  ^Loquela tua manifestum te
+facit~ (Matth. cap. XXVI, 73 ec.).
+
+	|Manifesto~... |natio~ cio@e ^manifestamente~... ^nativo~:
+ch@e un aggettivo non pu@o modificarne un altro; e il primo per
+enallage tien luogo d'avverbio.
+
+	|36.~  Negando la immortalit@a dell'anima non si pu@o
+creder la vita futura.  Che ora Farinata ^spregi~, nella sua
+postura, l'inferno @e qualcosa dippi@u che non il negarlo affatto. 
+Dovea come Capaneo, anche questi esser dal poeta dipinto a colori
+di ^spirito forte.~  Sulla voce |dispitto~ vedi ^Inf.~ XIV, 71.
+
+	|39.  Conte~, ^chiare, bene intelligibili~ e ^franche.~ 
+Da ^cognitum~; ^conto, conosciuto, noto~; ^contezza~ per
+^notizia, conoscenza~; ^contare~ per ^narrare~ ec.
+
+	^Conto~ per chiaro, famoso ec.  Jac. da Lentino
+
+     ... la mia donna amorosa
+     ..........................
+     E somigliante a stella @e di splendore
+     Con la sua conta e gaia innamoranza.
+
+	E pi@u altri.
+
+	|45.  Soso~, ^suso.~  Qualche testo, come quel di M.
+Cassino, legge ^suso~ che, siccome troviamo fatto appo gli
+antichi, rima per assonanza.  Ma @e facile lo scambio delle due
+vocali (Vedi v. 69 not.).
+
+	|50.  Risposi lui~, cio@e ^a lui.~  V. ^Inf.~ I, 81,not.
+
+	|52-53.  Alla vista scoperchiata~, ^alla bocca, ovvero
+all'orlo del sepolcro, del quale era sospeso, ed elevato il
+coperchio.~  Barg.  Cos@i quasi tutti.  Il Bianchi: <|Surse alla
+vista~: usc@i a farsi vedere.  -- |un'ombra scoperchiata sino al
+mento~, fuor del coperchio tutta la testa>.  A noi par bella
+questa interpretazione; se non che, a raffermarla, troviam
+necessario che |scoperchiata~ s'intenda l'ombra s@i di Farinata
+che del Cavalcante e di tutti gli altri che trovavansi nello
+^scoperchiato~ avello, come naturalmente pu@o dirsi che
+scoperchiati fosser tutti quanti infino al Giudizio, che gli
+accoperchier@a in eterno (v. 10 ec.)  -- Il Tommaseo.  <|Vista~,
+^Finestra, apertura~, Fenestra dal gr. (^Phenome~) ^comparire~>.
+
+	Adduce un esempio del Nostro (^Purg.~ X, 67), dove
+|Vista~ vuols'intendere per ^fenestra, apertura, balcone.~  Il
+valentuomo adunque s'attiene alla prima interpretazione, dando
+l'epiteto |scoperchiata~ non all'|ombra~, ma alla |vista~ come su
+@e detto; ma osterebbe alla sua chiosa il riflettere che la frase
+|vista scoperchiata~ tornerebbe allo stesso che dire ^apertura
+aperta.~  Il Lombardi spiega |scoperchiata~ per ^aperta,
+scoperta~, e fa la voce aggiunto anche di |vista.~  -- Non
+resterebbe se non sospettare che |la vista scoperchiata~
+significasse ^gli occhi sbarrati~ con cui levossi il Cavalcante,
+pensando di dover vedere con Dante il suo figliuolo.  Le palpebre
+son coperchio degli occhi.  In questo caso direbbesi |alla~
+adoperato per ^con~ la.  Ma teniamoci alla comune sposizione.
+
+	|Un'ombra lungo questa~, cio@e un'altra ombra a lato di
+questa, val dire l'ombra del Cavalcanti accosto quella di messer
+Farinata.
+
+	|54.  Inginocchion levata.~  L'un'ombra sorge pi@u che non
+l'altra, segno di preminenza che Farinata tiene sopra del
+Cavalcanti.  E ci@o dimostrano per questo canto gli atti e i modi
+e le parole di entrambi.  Il Biagioli rileva la fiacchezza del
+carattere del Cavalcanti dal suo lagrimare (v. 58).
+
+	|55.  Talento.~  V. ^Inf.~ II, 81 not.
+
+	|57.  Suspicar~ ec.  Dal lat. ^suspicari~, ^sperare.~  I
+Provenzali ^sospechar~ e ^sospeissar~ per ^attendere, sperare~; e
+^sospeisso, speranza, aspettazione~: quindi ^suspicar~ in questo
+luogo usato per ^sperare, speranza.~
+
+	Il Bianchi: ^Ma poich@e gli venne meno l'opinione ch'egli
+aveva di vedere la persona desiderata~ ec.  ^Qui~ |suspicar~ ^@e
+preso nel significato di Attendere, con una specie d'incertezza,
+o sospensione d'animo.~  @E esso il senso, ma non @e desso. 
+Cotesto ^suspicare~, che fu |tutto spento~, prima era ^acceso~ e
+^vivo~: il che mostra che fosse tutt'altro che ^opinione~, la
+quale appartiene all'intelletto, non al sentimento.  N@e sapremmo
+con quanta propriet@a dir si potesse ^opinione ardente~ e ^viva~
+che si spegnesse; tranne forse quelle degli Aristotelici; ma il
+nostro Poeta non vorrebbe cantare fuor di coro, n@e qui accennare
+l'ardenza di quelle opinioni, che facevan venire i disputanti
+alle corte o a mezza lama.  E poi vero che ^speranza~ @e di cose
+che hanno a venire; ma non per@o si vorrebbe identificare
+^Sperare~ con ^Attendere~, come par qui faccia l'egregio
+Comentatore.  Il Cavalcanti s'accese di vivo desiderio e speranza
+che gi@a fosse in sul punto di vedere il suo Guido con Dante; ma
+fu un lampo di speranza che tosto s'accese e si spense.  Questo @e
+un traslato s@i semplice e naturale; che nuocerebbe alla sublimit@a
+del concetto poetico, non meno che alla propriet@a della
+locuzione, chi volesse far passare Dante, sempre lucido nel
+concepire e sporre il suo pensiero, per la filiera delle ambage e
+delle sottigliezze.  Ed egli in pi@u luoghi attribuisce l'ardore
+al desiderio, ^Parad.~ XXIX, 47:
+
+     ... S@i che spenti
+     Nel tuo disio gi@a sono tre ardori ec.
+
+	Ognun sa che valesse appo i Latini la voce ^ardere.~  --
+Noto anche da ^Suspicari~ venirsi ^sospetto~ o ^speranza~ e
+queste due voci prendersi nello stesso sentimento di ^timore~ ne'
+versi:
+
+     Lasciate ogni ^speranza~ o voi che 'ntrate --
+     Qui si convien lasciare ogni ^sospetto~:
+
+con l'ultimo de' quali Virgilio spiegherebbe a Dante le parole
+dell'epigrafe infernale, e chiarirebbe l'ambiguo senso della voce
+^speranza.~  V. ^Inf.~ III, 20 not.
+
+	|63.  Guido ebbe a disdegno~ Virgilio, non perch@e
+spregiass'egli il principe del poeti latini; ma perch@e, come dice
+il Boccaccio (comm. al canto X dell'Inf.): ^la filosofia gli
+pareva, siccome ella @e, da molto pi@u che la poesia.~  Essendo tra
+i primi stato benemerito della volgare poesia (^Purgat.~ XI, 97),
+si crede ch'egli dispettasse il Mantovano come ^poeta cesareo~ e
+cantore della divina origine dell'Impero; a cui prima come Guelfo
+fu avverso, e poscia fautore qual Ghibellino.  Certo chi legge le
+rime di Guido Cavalcanti vi trover@a della leggiadria, nata
+piuttosto dallo squisito sentimento proprio di chi le scrisse,
+che non quell'attrattiva bellezza de' versi Danteschi; dove,
+oltre alla natural vena del poeta. si scorge il magistero
+finissimo dell'imitazione.  Nel qual senso disse veramente
+l'Alighieri (v. 61)
+
+     ... da me stesso non vegno;
+
+perciocch@e Virgilio gli fu di grande aiuto nell'alto lavoro della
+Divina Commedia.
+
+	|64-65.  Letto il nome.~  Altra lezione ^detto.~  Alcuni
+ritengono questa, parendo strano che ^le parole leggessero~,
+invece ch'esser lette o proferite.  Ma oltre che la locuzione ha
+un non so che di forza e di bellezza che si sente pi@u che spiegar
+si potesse; certo @e che sottilmente considerando la cosa, il
+vocabolo ^leggere~ significa primitivamente ^raccogliere~ e
+^scegliere~; sicch@e quelle |parole~ e il modo |della pena~ del
+Cavalcanti erano pel Poeta come altrettante note o lettere che
+componevano giunte insieme il nome della persona; per modo che
+mentre quegli parlava, e trovavasi alla stessa pena con Farinata,
+era come dicesse: io son Cavalcante dei Cavalcanti.  Se dunque la
+voce ^detto~ a molti parr@a da preferirsi per la sua chiarezza
+all'altra, questa, posto ci@o che detto abbiamo, non manca di
+perspicuit@a, ed ha dippi@u maggiore efficacia e bellezza.  Onde a
+ragione A. Cesari scrive al proposito: ^Che @e pi@u di questo, del
+farsi leggere un nome?  Che chi legge non si cava il nome dal suo
+cervello, o dal suo parergli cos@i; il che d@a all'uditore poca
+certezza; ma le trae dal libro belle e stampate e scritte, cio@e
+ferme e sicure.  Simile a questo @e quell'altro modo di Dante
+medesimo, dovecchessia, dove parlando della bellezza di un
+Angelo, dice: Parea beato per iscritto, cio@e espressamente; la
+beatitudine gli appariva stampata nel viso.~  Bellezze della Div.
+Comm.  Oltre a questo, in gr. si ha
+%lambda%@varepsilon%gamma%omega\, ^dico.~
+
+	|69.  Lome~, ^lume.~  Agevolmente sonosi scambiate le
+vocali ^u~ ed ^o.~  Per es. tutte le voci latine terminate in ^u~
+o ^us~ che passarono nella nostra lingua mutarono quella vocale
+in o, ed infiniti esempi ci sono.  Nel mezzo poi della voce @e
+avvenuto lo stesso.: da ^dulcis, vultus, multus~ ec. noi facemmo
+^dolce, volto, molto~ ec.  Cos@i da ^lumen, lome~, che dagli
+antichi si disse anche ^lume~; come con molti altri si fece,
+ritenendosi l'^u.~  ^Flumen, lux, numen~ ec., ^fiume, luce, nume~
+ec. {(a) Boez. ^Consol. Filos.~ volgar. 37: ^Tu medesimo t'hai
+in delle peggior cose rinchioso.~  -- ^Rinchioso~ per ^rinchiuso.~ 
+-- Jacopo da Lentino:
+
+     Tanto prende pi@u loco
+     E non pu@o (^il foco~) star rinchioso.
+
+	L'^o~ fu viceversa mutato nell'^u.~  Boez. cit. 16: ^Lo
+cui saziamento se tu vorrai rimpiere~ (riempiere), ^quello che vi
+mettrai~ (metterai) ^u non fi molesto, u fi nocevole.~  Cio@e: ^o
+non fia~... ^o fia~ ec.  -- Bonagg. Urbiciani: ^Ch@e Amore ha in
+se vertode~: cio@e ^virtude.~  -- Guitton d'Arezzo:
+
+     E s'io di voi disio cosa altra alcona.
+
+per ^alcun'altra cosa.~  Ancora:
+
+     Nel cui lavoro non credo bastasse
+     Alcun uomo, n@e forse Angelo alcono.
+
+	E cos@i ^Soperbia, Notricare~ ec. che incontra leggere
+negli antichi.}.  Nessun creda per@o che il Poeta venisse tratto
+per forza dalla rima a dir |lome~ invece che ^lume.~  ^Lume~
+infinite altre volte egli us@o; ma volendo servare il modo di
+parlare del Cavalcanti che entra in dialogo, Dante credette bene
+di porgli in bocca alcuna voce ch'ei forse riprovava, ma che
+Guido aveva usata nella famosa Canzone sulla natura d'Amore.:
+
+     In quella parte dove sta memora
+     Prende suo stato, s@i formato-come
+     Diafan dal lome, -- d'una oscuritade,
+
+dove sta |lome~ per lume, siccome appresso ^costome~ per
+^costume~ ec.  -- Pu@o ciascuno osservare, che, a rendere pi@u
+naturali e pi@u distinti i caratteri delle persone, Dante le fa
+parlare per motti e modi da esse; e talvolta non cura della
+diversit@a del linguaggio.  Anchise (^Parad.~ XV) parla latino
+(comecch@e in lingua Figia parlar dovesse); in bocca al Mosca
+(^Inf.~ XXVIII, 107) ponesi la sentenza che accese l'incendio
+della civile discordia in Firenze; Arnaldo di Provenza (^Purgat.~
+XXVI) ragiona in sua favella; e dalla strozza di Plutone e di
+Nembrotte escono strani gerghi e bisticci d'Inferno e di
+confusione.  In molti luoghi della Divina Commedia tornerebbe
+assai utile lo stare in sull'avviso per questa parte.
+
+	|73-74.  A cui posta~ -- |Restato~ ec. poich@e Farinata
+gli avea detto (v. 24)
+
+     Piacciati di restare in questo loco. 
+
+Pure, tuttoch@e il Cavalcanti sorga ad interrompere il suo
+favellar col Poeta; non fa segno di risentirsene, poich@e
+magnanimo, debb'essere in tutto gentile e cortese.
+
+	|79.~  ^Non si compiranno cinquanta lunazioni: non
+passeranno cinquanta mesi~ (lunari),^cio@e non saran compiuti
+quattro anni, che~ ec.
+
+	|80.  La donna~ che regge in Inferno @e Proserpina moglie
+di Plutone, la quale in cielo @e detta ^Luna~, ne' boschi ^Diana.~ 
+@E la ^Diva triformis~ degli antichi.
+
+	|81.  Pesa~, ^non @e lieve.~  Vuol dire: ^saprai quanto sia
+difficil cosa il trovar modo come racquistare la patria
+perduta.~
+
+	|82.~  1+o~ Se particella deprecativa usata spesso per
+^Cos@i~, come l'^utinam~ e pi@u il ^Sic~ de' latini.  Oraz. ^Sic te
+diva potens Cypri~ ec.
+
+	Il Tasso, ^Gerus. liber.~ VII:
+
+     Se non t'invidi il ciel s@i dolce stato ec.
+
+	V. nota 94.
+
+	2+o~ |Regge~ per ^Rieda, torni~; 2a del pres. sing. sogg. 
+-- Questo esempio di Dante credettero nuovo i dotti commentatori
+e solo.  Non videro che attinenza vi potess'essere tra ^Reggere~
+e ^Riedere.~  Il Bianchi (dopo l'Analisi di Vincenzo Nanucci),
+annota bene questo luogo, istrutto egli da ci@o che questo valente
+filologo aveva detto (Manuale della letteratura del primo secolo
+della lingua italiana, Fir. Barbera ec. 1858, vol. II, pag. 315
+not. 7).  Brunetto Latini in un suo racconto ^Della giustizia di
+Trajano~ (dal quale racconto pare che Dante {(a) ^Purg.~ X:
+
+     Quivi era storiata l'alta gloria
+     Del roman prence ec.
+
+Anche nel Novellino si conta il fatto di Trajano quasi
+istessamente.} tratto avesse l'episodio della vedovella che
+domanda vendetta al rom. imp. di quelli che l'ebbero morto il
+figliuolo) novella cos@i:
+
+	^Trajano fue imperadore molto giusto, ed essendo uno die
+salito a cavalto per andare alla battaglia colla cavallaria sua,
+una femmina venne e preseli l'un piede, e piangendo molto
+teneramente domandavalo e richiedevalo che li~ (le) ^facesse
+diritto~ (giustizia) ^di coloro che l'aveano morto uno suo
+figliuolo, il quale era giustissimo, sanza cagione.  E quegli
+rispuose e disse: Io ti sodisfar@o quando io reddir@o.  E quella
+disse: E se tu non riedi?  E que' rispuose: E s'io non Reggio, e'
+ti sodisfar@a il successore mio.~
+
+	Stor. di Paolo Orosio, Volgariz. per Bono Giamboni, Lib.
+I, Cap. I: ^Reggendo~ (ritornando) ^in prima rec@o in Occidente le
+reliquie di San Stefano martire~ ec.
+
+	Siccome da ^Fiedere~ si venne ^Feggere~ (^Inf.~ XV, 39 --
+XVIII, 75, ec.) per ^Ferire~; cos@i da ^Riedere, Reggere~ per
+^Tornare~; quindi ancora per ^Siedo, Vedo~, ^Chiedo, Cado~ ec.
+s'usano tuttora ^Seggio~, ^Veggio, Chieggio, Caggio~ ec.  Quanto
+poi alla desinenza in ^e~ al presente singolare del congiuntivo
+pe' verbi della seconda, veggasi ci@o che per noi @e annotato
+^Purg.~ XXV, 36.
+
+	Intendono |regge~ per ^rieda, torni~, a quanto abbiam noi
+veduto, il Bargigi, che chiosa: ^Questo @e un modo di pregare,
+come si suol dire: Deh!  Dio ti doni ci@o che tuo cuor desia,
+fammi tal piacere~; il Landino, il Venturi, il Daniello, il
+Volpi, il Bianchi, il Tommaseo.  E s@i lo spiega la Crusca.  Al
+contrario il Vellutello, il P. Lombardi, il Torelli e il Biagioli
+con qualche altro spongono |regge~ per ^regni, comandi, duri~; e
+le principali ragioni sono: 1+o~ Che il |se~ va seguito dal |mai~,
+quando @e particella condizionale o dubitativa, non gi@a quando sia
+deprecativa.  Ma lo stesso Biagioli prende per deprecativo il
+^se~ nel v. 94, e pure va seguito dal ^mai.~  Dippi@u cotesto
+|mai~, che pu@o valer ^quando che sia~, qual forza avr@a egli a
+distruggere la significanza propria della detta parlicola?  In
+ogni caso la lez. ^omai~, ch'@e del cod. Cassin. e de' ^variorum~
+del Witte, chiuderebbe la bocca al Lombardi, e torrebbe al
+Biagioli la fatica di compiere i parlari ellittici.  -- 2+o~
+|Regge~ @e troppo distante da ^riedi.~  -- Rispondiamo: basta che
+da quel lo derivi, perch@e non gli si possa negare la legittimit@a. 
+Risalendo all'origine della voce, l'una @e all'altra tanto vicina,
+quanto che sono una stessa cosa.  -- 3+o~ La novit@a del ^reggere~
+per ^ritornare~, che non ha esempio!  -- Signor Torelli, ^Nihil
+sub sole novum.~  @E anzi troppo antico il vocabolo ^reggere~ per
+^riedere~, ed ei pare nuovo perch@e troppo vetusto.  Che poi sia
+senza esempio @e falso, come dimostrano le autorit@a di sopra
+addotte.  -- 4+o~ Per soddisfare alla richiesta del Farinata non
+abbisognava, se non ch'ei (Dante) ^reggesse, durasse.~  -- No. 
+Bisognava che ^tornasse.~  E Farinata gliene faceva assai buon
+augurio, considerando che lo scendere in Inferno era ben pi@u
+facil cosa, che il risalirne.
+
+	|86.  Colorato in rosso.~  Lucano, volgarizz. dal Giamb.:
+^Eniples~ (Enipeus) ^il fiume di Tessaglia; sar@a oggi colorato e
+tinto del loro sangue.~  Il testo:
+
+     ^Sanguine romano quam turbidus ibit Enipeus~!
+
+	Il Guinicelli:
+
+     Viso di neve colorato in grana.
+
+	E, dopo Guido, Fra Guittone:
+
+     E che in viso di grana ave colore.
+
+	^Grana~, |rosso.~
+
+	|87.  Tempio~ fu luogo delle adunanze popolari, innanzi
+che si edificasse il pubblico palagio.  |Orazione~ per
+^rescritto, decreto, legge~ ec. vocabolo messo dal P. in
+corrispondenza dell'altro ch'@e |tempio~; ed anche ironicamente, a
+significare quanto mal si convenisse in luogo santo dare sfogo
+alle ire civili, ed ordinare lo sterminio e la dispersione de'
+propri fratelli.
+
+	|91.~  Ricordano Malespini: ^E nel detto parlamento tutte
+le citt@a vicine e i conti Guidi e i conti Alberti e quelli di
+Santa Fiore e gli Ubaldini proposono e furono in concordia, per
+lo meglio di parte ghibellina, di disfare la citt@a di Fiorenza, e
+di recarla a borgora, acciocch@e di suo stato non fosse fama n@e
+potere.  Alla quale proposta si lev@o il savio cavalier messer
+Farinata degli Uberti, e la sua diceria propose gli antichi due
+grossi proverbi che dicono: Come asino sape, cos@i minuzza rape: E
+vassi capra zoppa, se lupo non la intoppa.  E questi due proverbi
+investi in uno dicendo: Come asino sape, si va capra zoppa; cos@i
+minuzza rape, se il lupo non la intoppa recando poi con varie
+parole l'esempio sopra il grosso proverbio, com'era follia di ci@o
+parlare, e come grande pericolo e danno ne poteva avvenire; e se
+altri ch'egli non fosse, mentre che avesse vita, colla spada in
+mano la difenderebbe.  Veggendo ci@o il conte Giordano,
+considerando l'uomo e la sua autorit@a, ch'era messer Farinata, e
+il suo grande seguito, si rimasono dal detto parlare e intesono
+ad altro.  E cos@i per lo valentre cittadino scamp@o la nostra
+citt@a di tanta furia.~
+
+	|93.  Colui che la difesi a viso aperto.~  Altra lez.
+^che la difese.~
+
+	^Difendere a viso aperto~ importa due cose degne d'essere
+osservate.  La prima @e una significanza di non dubbia, non
+coperta, ma franca e leale protezione, e di forte amore che si ha
+per cui si prendon le difese; la seconda @e quel vivo sentimento
+di rettitudine e quell'avversione che si porta all'ingiustizia e
+agli atti della ferocia; onde l'uomo toglie a difendere il giusto
+e l'onesto, non pur curando della sua vita.  Pare la metaforica
+locuzione esser presa da' cavalieri di ventura; che difendeano le
+loro dame combattendo ed armeggiando, ma a visiera calata, o
+parando con la buffa i colpi al viso.  Il Farinata in quella
+contingenza si lev@o a difendere la patria sua da prode paladino. 
+V. not. 91.
+
+	|94.  Deh, se riposi mai vostra semenza.~  |Se~ @e
+particella deprecativa come il ^Sic~ de' latini, quale in
+Virgilio.
+
+	^Ecl.~ IX, 30:
+
+     ^Sic tua cyrnaeas fugiant examina taxos~:
+     ^Sic cytiso pastae distendant ubera vaccae~:
+     ^Incipe si quid habes~...
+
+	^Ecl.~ X, 4:
+
+     ... ^Arethusa~,
+     ^Sic tibi, quum fluctus subterlabere Sicanos~,
+     ^Doris amara suam non intermisceat undam~;
+     ^Incipe~...
+
+	E altrove pi@u volte.
+
+	Orazio I, ^od.~ III:
+
+      ^Sic te diva potens Cypri~
+      ^Sic fratres Helenae lucida sidera~,
+      ^Navis, quae tibi creditum~
+     ^Debes Virgilium, finibus Atticis~
+      ^Reddas incolumen precor ec.~
+
+	Il Petrarca:
+
+     Cos@i cresca il bel lauro in fresca riva.
+
+Qual particola desiderativa equivale anche all'^utinam~ ed @e come
+si dicesse: Come voglio da te questo, cos@i abbiti questo altro,
+in ricambio, qual io te l'auguro.  Il Tasso, ^Ger. lib.~ VII, 15:
+
+     ... O fortunato,
+     Che un tempo conoscesti il male a prova,
+     Se non t'invidi il ciel s@i dolce stato,
+     Delle miserie mie piet@a ti mova.
+
+	Il nostro Poeta usa molte volte questo modo, come ^Inf.~
+XXIX, 103:
+
+     Se la vostra memoria non s'imboli
+      Nel primo mondo dalle umane menti,
+      Ma s'ella viva sotto molti soli,
+     Ditemi chi voi siete e di che genti.
+
+	^Inf.~ XVI, 64:
+
+     Se lungamente l'anima conduca
+      Le membra tue, rispose quegli allora,
+      E se la fama tua dopo te luca,
+     Cortesia e valor, d@i, se dimora ecc.
+
+	|95.  Semenza~, ^prosapia, discendenza~, ^sangue~ ec.  V.
+^Inf.~ III, not. 104 e 105.
+
+	|103-104.  Vano~... |intelletto~, rispetto alle imagini
+delle cose vedute che pi@u non vi sono.  Niente vedono quando le
+cose s'appressano o sono, e niente hanno nell'intelletto, secondo
+anche la sentenza aristotelica: ^Nihil est in intellectu~, ^quod
+prius non fuerit in sensibus.~
+
+	|105.  Sapem~, ^sappiamo.~  Forma primitiva del verbo
+^sapere.~  Oggi sono in uso soltanto ^sapete, sapessi~ ec.  V.
+^Inf.~ IV, 42; XXVIII, 40, ^Parad.~ XX, 128.
+
+	|108.~  All'estremo giudizio annientato il mondo, dai cui
+rivolgimenti @e il tempo, non sar@a pi@u futuro: e in quelle anime
+sar@a spenta ogni notizia in eterno, seconda Farinata.
+
+	|113.  Fate i~, ^fategli.~  V. ^Inf.~ V, 78 not.
+
+	|120.  Il Cardinale~ fu Ottaviano degli Ubaldini, che
+fior@i verso il 1260.  Favor@i i Ghibellini; pei quali disse che
+se anima era, egli l'aveva perduta.  Ma egli l'avea e gentile e
+non molto dissimile da quella del Petrarca: come ne fanno fede i
+versi del seguente sonetto; il quale trascriviamo, perch@e
+ciascuno abbia alcuna notizia del carattere della persona, cui
+Dante accenna, e nol noma perch@e famoso, se non
+antonomasticamente |il Cardinale.~
+
+     Io non so che si sia, che sopra il core
+      Mi stilla un sudor ghiaccio che mi sface
+      E trasforma la neve in calda face
+      E fiera sicurtade in gran tremore.
+     Io non so chi si sia questo signore,
+      Che mostra darmi guerra, e dammi pace,
+      Facendomi piacer quel che mi spiace;
+      Io non so che si sia se non Amore.
+     Che altra potenza non aria tal forza
+      Dare alto spirto del suo albergo bando
+      E farlo volar nudo senza scorza,
+     N@e che facesse altrui arder tremando.
+      Questo @e colui, che li mortali sforza.
+      E che di sopra al ciel va tr,ionfando.
+
+Da questo porporato il cantore di Laura appar@o di esprimere il
+fenomeno del fuoco-diaccio, dicendo d'Amore.:
+
+     Che 'n un punto m'agghiaccia e mi riscalda.
+
+Ancora:
+
+     E tremo a mezza state ardendo il verno.
+
+E:
+
+        Questo signor che tutto il mondo sforza.  Gentile lettore,
+     se andrai nell'inferno, ^quod absit~, tu non vi troverai n@e
+     questo Cardinale, e n@e Federico, tutto che percosso di papale
+     saetta.
+
+	|129.  E ora attendi qui: e drizz@o il dito~, cio@e: ^tieni
+a mente ci@o che ti predisse Farinata~ (79 segg.) ^ma ora poni~ la
+^tua attenzione alle cose di qua.  Age quod agis.~
+
+	|Drizz@o il dito~: accompagn@o la parola col gesto,
+^drizzando e dirigendo~ |il dito~ ^verso il luogo dinotato
+dall'avverbio~ |Qui~; l'atto della mano simultaneo alla
+proferenza della voce rese la sentenza pi@u efficace ed evidente. 
+^Drizzare~ non vale soltanto ^raddrizzare~, ma eziandio dirigere
+in su, in gi@u e dove che sia.  Il Tasso:
+
+     E ver le piagge di Tortosa poi
+     Drizz@o precipitando il volo in guiso
+
+e basti sol questo per mille altri esempi.  Sicch@e ci reca
+meraviglia che i comentatotori intendano la frase |drizz@o il
+dito~ come se Virgilio levasse diritto il dito al cielo
+accennando Beatrice, la quale non cielo in iscena, se non
+nell'altra terzina.  ^Forse~, dice il Bianchi, ^quel~ |Drizz@o il
+dito~ ^si potrebbe spiegare cos@i: alz@o il dito alla parte
+superna.  Questo atto @e conveniente a Virgilio, che, volendo
+parlare di Beatrice, addita il luogo celeste ov'ella ha sua
+sede.~  N@e a Virgilio n@e a chiunque pu@o convenire l'opposizione
+tra il gesto e la parola, che come Dante ci dice, furono
+simultanei e ad uno stesso intento.  Il Poeta latino non avea pur
+mestieri di apprendere il trattato ^de actione~, per non fare
+che, mentr'egli col |qui~ dinotava l'inferno, il suo dito si
+alzasse diritto al paradiso.  Dante dice chiarissimo: Ora bada
+qui (e mostra |qui~ e non altrove).  Quando poi avrai veduto
+Beatrice, allor saprai da lei le venture del viver tuo. 
+Malissimo e il Bargigi e il Bianchi ed altri intendono ^l'attendi
+qui~ per ^attendi a quel che ti vo' dire.~  Niun bisogno di
+questo preambolo.  L'|attendi~ esorta il Poeta a non isviarsi col
+pensiero dall'onorata impresa, a percorrere l'inferno ec. con
+quell'attenzione ch'era necessaria per derivarne morale profitto. 
+Adesso abbi la mente tutta intesa al viaggio di questo mondo de'
+morti; Beatrice poi sapr@a dirti qual sar@a per essere il viaggio
+della tua vita mortale.  Si consideri bene il verso 132:
+
+     ^Da lei saprai di tua vita il viaggio.~
+
+	|135.  Fiede~ @e da ^Ferire~, onde ^Fedire~ e ^Fiedere.~ 
+Gli antichi spesso mutarono la ^r~ in ^d~, come ^Contradio~ per
+^contrario~ ec.
+
+	Dino Compagni, ^Intell.~:
+
+      Quando Cesar lo vide, immantinente
+     Fed@i 'l cavallo ai fianchi delli sproni ec.
+     E pass@o Rubicon pi@u vistamente, (prestamente)
+     Che s'egli avesse cuor per tre leoni, ec.
+
+Qui @e ^Fedire~ usato nella sua propria significanza.
+
+	Bellissimi sensi traslati ha la voce, in vari luoghi del
+Poema.
+
+	Qui la figura @e tolta dall'atto, con cui l'arciero
+appunta l'occhio al segno che vuol ferire.  D'una via o sentiere
+pu@o ben dirsi che vada dritta, miri ad un punto o a un certo
+termine; ed il verso dantesco @e notevole per questo tropo.
+
+	Questo stesso significato pare che bene s'acconci al
+verbo ^fiede.~  ^Purg.~ IX, 25 seg.:
+
+     Fra me pensava: forse questa (aquila) fiede
+     Pur qui per uso ec.
+
+cio@e ^drizza il suo volo, mira e tien ferme l'ali a questo
+luogo.~
+
+	Altri dicono.: ^Piomba, s'avventa a far preda~; ma questo
+sentimento vien loro porto da quel che suole fare un uccel di
+rapina; non mica da quel che il Poeta con la parola intende
+significare.
+
+	Nel ^Purg.~ XXVIII, 90:
+
+     E purgher@o la nebbia che ti fiede.
+
+il vocabolo vale ^Offendere~ ch'@e pi@u lato di ^Fedire~; ed
+^Offendere~ nel senso di ^oscurare, ottenebrare~ l'intelligenza:
+il che @e una cotale lesione, ferita e offesa che arreca, nonch@e
+danno, morte allo spirito.
+
+	E ^Parad.~ XXXII, 40.  ^Fiedere~ vale ^Tagliare~, ch'@e un
+^ferire~ speciale; in luogo del quale s'@e adoperato il suo
+^genere~ per la Sineddoche; inversamente che nel verso gi@a
+allegato (^Purg.~ XXVIII, 90).
+
+	Il P. adopra ^Rifiedere~ per ^Riflettere~, ^Tornare con
+l'attenzione ad una stessa cosa~: come della goccia, che fora la
+pietra, ^non semel sed saepe cadendo.~  E qui anche prende questo
+^Rifiedere~ alcun che del semplice ^Fiedere~, in sentimento di
+^Pigliar di mira, Intendere ad una cosa~ ec.  ^Inf.~ XX, 105:
+
+     Che solo a ci@o la mia mente rifiede.
+
+cio@e: non pensa che a questo ec.
+
+	^Per un sentier che ad una valle fiede~ @e a un dipresso
+locuzione simile a quest'altra di Virgilio (^En.~ VI, 900):
+
+     ^Ille viam secat ad naves, sociosque revisit.~
+
+che anche vuol dire: va difilato e va per la dritta via ec.
+(^Inf.~ VIII, 29 not.).

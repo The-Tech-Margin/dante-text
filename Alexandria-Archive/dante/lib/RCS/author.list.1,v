@@ -1,0 +1,44 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	94.05.16.17.31.44;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@The list of commentaries as it is shown at the beginning of a session.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@                       The database currently contains:
+
+                               "La Commedia"
+                                     &
+                     commentaries by the following authors:
+
+ Jacopo Alighieri [jacopo], 1322	Guiniforto, 1440
+ Jacopo della Lana [lana], 1324  	Daniello, 1568
+ Guido da Pisa [guido], 1327		Castelvetro, 1570
+ L'Ottimo commento [ottimo], 1333	Venturi, 1732
+ Anonimo selmiano [selmiano], 1337	Lombardi, 1791
+ Pietro di Dante [pietro], 1340		Portirelli, 1804
+ Codice Cassinese [cassinese], 1400[?]	Costa, 1819
+ Giovanni Boccaccio [boccaccio], 1373	Tommaseo, 1837
+ Benvenuto da Imola [benvenuto], 1373	*Longfellow, 1867
+ Anonimo fiorentino [fiorentino], 1400	G. Di Siena [siena], 1867
+ Serravalle, 1416			Bianchi, 1868
+ *Vellutello, 1544			Scartazzini, 1874
+
+An asterisk indicates a partial commentary.  The list continues...
+@

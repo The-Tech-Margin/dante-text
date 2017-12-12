@@ -1,0 +1,101 @@
+{INITD}
+
+:COMPARE @SELECTION
+     TO "S"
+	:RETURN
+
+     TO "*"
+	:PRINT ~@HEADING_Query selected for @STEXT:\n\n~
+
+	:COMPARE @BR
+	     TO "0"
+		:PRINT ~      \o2ALL @MXDOCS DOCUMENTS IN DATABASE\f2\n~
+	     TO "1-999"
+		:BRS QUERIES USING ~@BR~
+	:DONE
+
+	:PRINT ~\n@PTEXT~
+	
+     TO "R"
+	:PRINT ~Options for redirect file specification are:\n
+	\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+	:GET @FILE -
+	~Enter full pathname for file to collect data in [S]:\n   --> ~
+
+	:COMPARE @FILE
+	     TO "#1:h|#1:H"
+		:MENU ~INITD_HR~
+
+	     TO "#1:s|#1:S|"
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:SEND ~RA,@FILE~
+	:SHOW BEFORE "*"
+
+	:PARSE #LEFTOVER EXTRACTING @P1
+	:COMPARE @P1
+	     TO "1-99"
+		:PRINT ~\n\o5 Unable to redirect data to @FILE \f5\n~
+		:PAUSE
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:SET @TMP ~~
+
+     TO "P"
+	:PRINT ~Options for print identification are:\n
+	\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+	:GET @P1 -
+	~Enter identification for output [Default]:\n   --> ~
+
+	:COMPARE @P1
+	     TO "#1:h|#1:H"
+		:MENU ~INITD_HP~
+
+	     TO "#1:s|#1:S"
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+	:PARSE @P1 INSERTING ~'~ USING ~"~
+
+	:SEND ~Ebrsqueue -receipt #USER "-@P1"~
+	:SHOW BEFORE "*"
+
+	:COMPARE #LEFTOVER
+	     TO "*,*"
+		:SET @RECEIPT ~#LEFTOVER~
+		:SET #LEFTOVER ~~
+	     TO "*"
+		:PRINT ~\n\o5 Unable to queue output \f5\n~
+		:PAUSE
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:SET @TMP ~~
+
+     TO "M"
+	:SEND ~RU,#WORKAREA#USER.inp,#WORKAREA#USER.ptr~
+	:SHOW BEFORE "*"
+
+	:PARSE #LEFTOVER EXTRACTING @TMP
+
+	:COMPARE @TMP
+	     TO "1-99"
+		:PRINT ~\n\o5 Unable to modify documents \f5\n~
+		:PAUSE
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:SET @TMP ~M~
+:DONE
+
+:MENU ~GETPD_~

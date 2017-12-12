@@ -1,0 +1,25 @@
+{GOPTS_HP}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Print Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The  P  option  enables you to print selected documents at a remote
+     printing device.  After choosing "P", you are prompted to enter:
+
+     * the  result  set  number  in  which target documents are located.
+       (This  prompt  does  not  appear if there is only one outstanding
+       result set.)
+
+     * your  identification  header  that appears on the leading page of
+       printed output.
+
+     * the document paragraphs that you wish to print.
+
+     * the  document numbers (relative to the previously selected result
+       set) that you wish to print.
+
+     There  is additional help text to explain each of these selections;
+     simply enter "H" at the appropriate prompt.\n~
+
+:PAUSE BOTTOM
+:RETURN

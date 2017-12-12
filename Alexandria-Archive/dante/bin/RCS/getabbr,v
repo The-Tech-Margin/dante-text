@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.16.19;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@extract possible abbreviations and sort by frequency
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+: extract possible abbreviations and sort by frequency
+
+tr A-Z a-z | \
+abbr | \
+sort | \
+uniq -c | \
+sort -nr
+@

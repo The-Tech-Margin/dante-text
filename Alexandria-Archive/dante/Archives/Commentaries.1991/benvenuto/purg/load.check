@@ -1,0 +1,17 @@
+Checking file 15.load
+Error at line 190: Spaces/Tabs used in paragraph
+>>>	
+>>>	|46-48.  Perch'ello.~  Hic p@@oeta ponit responsionem
+Error at line 607: Multiple blank lines
+>>>
+Checking file 19.load
+Error at line 47: tabs used for indenting
+>>>			   * *
+>>>			    *
+>>>			    *
+>>>
+Checking file 31.load
+Error at line 48: Spaces/Tabs used in paragraph
+>>>	
+>>>	|7-9.  Era.~  Hic p@@oeta ponit effectum petitionis
+Error at line 557: Multiple blank lines

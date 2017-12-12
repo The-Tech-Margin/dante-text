@@ -1,0 +1,140 @@
+	|1.~  AL TORNAR DE LA MENTE CHE SI CHIUSE, avendo detto poco di sopra 
+^e caddi come corpo morto cade~.
+
+	|2.~  DINANZI A LA PIET@A D'I DUE COGNATI: nota che ha tirato fin qui 
+a dire che erano cognati.
+
+	|5.~  COME CH'IO MI MOVA: modo di dire, cio@e, in ogni banda ch'io mi 
+mova, e nota che ha tre volte ripigliato ^[come ch'io]~; @e da notare 
+che in questa ripigliation us@o quel artificio che us@o il Petrarca in 
+quel sonetto ^Quanta invidia ti porto, avara terra~, e Virgilio nel I 
+della ^Georgica~, <Quid qui ne gravidas>, etc.
+
+	|7.~  IO SONO AL TERZO CERCHIO DELLA PIOVA: ^terzo~ si @e di dentro de 
+l'Inferno, ma quarto in ordine, come ho detto.
+
+	|9.~  REGOLA E QUALIT@A MAI NON L'@E NOVA: ^regola~ dice perch@e nel 
+verso di sopra ha detto ^eterna~ e perci@o, essendo eterna, non muta 
+mai regula; ^e qualit@a~ perch@e ha detto ^fredda e grave~, che sono 
+qualitati le quali sempre durano, e perci@o non hanno mai altro di 
+nuovo.
+
+	|12.~  PUTE LA TERRA CHE QUESTO RICEVE: condegna pena della gola, che 
+vilissimo peccato @e, che nel fango a guisa di porco si strughi.
+
+	|13.~  CERBERO FIERA CRUDELE E DIVERSA: ogni cerchio aver@a alcuna 
+meraviglia: lo pone Virgilio nel VI ancora; ^diversa~ dice da quello 
+che suole essere nel nostro mondo.
+
+	|16.~  GLI OCCHI HA VERMIGLI: questa descrittione @e tutta ad un 
+goloso appropriatissima.
+
+	|18.~  INGOIA da `gola' viene, vulgo `ingluviare'.
+
+	|20.~  SCHERMO, riparo.
+
+	|22.~  QUANDO SI SCORSE: qui `scorgere' per `veder' si piglia.
+
+	|23.~  SANNE @e vocabolo tosco e tolto dal latino, i quali chiamano 
+`subsannare' quel atto che si fa levando il naso, s@i che si mostri i 
+denti: di qui i toschi `sanne' han tolto per i denti.
+
+	|24.~  NON AVEA MEMBRO CHE TENESSE FERMO: proprio de' cani quando 
+alcuna cosa agognano, e perci@o disse ^la gitt@o dentro alle bramose 
+canne~.
+
+	|28.~  QUALE @E QUEL CANE: fa qui agnominatione, avendo detto ^canne~, 
+dice ^cane~; CH'ABBAIANDO AGOGNA: `agognare' @e quello che fa il cane, 
+quando baia domandando mangiare e sta cos@i aspettando, onde si piglia 
+per desiderare: Petrarca: <Italia, che s'aspetti o che s'agogni>.
+	|30.~  INTENDE E PUGNA: per pi@u d'ornamento pose i dui verbi di 
+diversa congiugatione; ^pugna~, adunque, si sforza.
+
+	|31.~  QUELLE FACCIE: avendo detto che la trov@o con tre gole.
+
+	|34.~  CHE ADONA, idest, aduna: ha mutato la ^u~ in ^o~ per la rima.
+
+	|48.~  CHE S'ALTRA @E MAGGIOR, NULLA @E S@I SPIACENTE, et @e 
+verissimo: molti sono peccati pi@u gravi, ma certo questo @e tanto vile 
+che @e per il vero troppo spiacente.
+
+	|50.~  D'INVIDIA S@I CHE GI@A TRABOCCA IL SACCO: @e modo di dire; 
+usalo il Petrarca ancora in quel sonetto ^L'avara Babilonia~ etc.
+
+	|51.~  SECO MI TIENE, avendo detto ^sacco~, ch'@e agnominatione; IN LA 
+VITA SERENA: ^serena~ dice, `chiara' a comparatione di quella che avea 
+ne l'Inferno.
+
+	|52.~  CIACCO: in lingua tosca vuole dire porco.  Di questo Ciacco 
+parla il Boccaccio nella IX giornata.
+
+	|58.~  IO GLI RISPOSI: CIACCO IL TUO AFFANNO: s'el fa benivolo il 
+poeta, mostrando aver compassion di lui, acci@o che gli dica quello che 
+vuole sapere.
+
+	|59.~  CH'A LAGRIMAR M'INVITA: us@o tal modo il Petrarca in quel 
+sonetto ^Vago augelletto~: <a parlar teco con piet@a m'invita>.
+
+	|60-63.~  MA DIMMI SE TU SAI etc.: tre cose dimandar@a Dante in questi 
+versi a Ciacco, a' quali per ordine risponder@a: prima, ^a che verranno 
+li cittadin della citt@a partita~, idest, divisa; poi, ^s'alcun v'@e 
+giusto~; alfin, ^e dimmi la cagione perch@e l'ha tanta discordia 
+assalita~.  Alla prima risponde:
+
+	|65.~  VERRANNO etc.  E LA PARTE SELVAGGIA, idest, la parte 
+foreuscita, e non viene da quello che pensa il Landino, ma cos@i come 
+foreuscita @e quelli che sono di fuori di casa, cos@i per questa ragion 
+^selvaggia~;
+
+	|69.~  CON LA FORZA DI TAL CHE TEST@E PIAGGIA: s'inganna qui il 
+Landino: `piaggiare' vuole dire star basso e quieto, da `piaggia' ch'@e 
+piana e bassa parte; che sia vero, subito gli risponde ^alte terr@a~ 
+etc.
+
+	|72.~  E CHE N'ADONTI, idest, che io n'abbia dispetto; `onta' vole 
+dire `dispetto'.
+
+	|73.~  GIUSTI SON DUI: ora risponde alla seconda parte, perch@e avea 
+dimandato ^s'alcun v'@e giusto~.
+
+	|74.~  SUPERBIA, INVIDIA etc.: e qui alla terza, che avea detto ^e 
+dimmi la cagione~.
+
+	|75.~  C'HANNO I CUORI ACCESI, avendo detto ^faville~.
+
+	|84.~  SE 'L CIEL GLI ADDOLCIA, che risponde ^o l'inferno gli attosca~.
+
+	|88.~  NEL DOLCE MONDO, a rispetto di quello, come avea detto ^vita 
+serena~.
+
+	|91.~  BIECHI @e quello che noi chiamam `storti', e s'accorda col 
+latino, in tanto che essi chiamano `oculi hirqui' e `hirqui' l'animale, 
+e altres@i i toschi `becchi' gli animali e `biechi' gli occhi chiamano.
+
+	|99.~  QUEL CHE IN ETERNO RIMBOMBA: <ite maledicti in ignem aeternum>.
+
+	|100.~  A PASSI LENTI, idest, pigri.
+
+	|102.~  DELLA VITA FUTURA: ^futura~ chiama dopo il d@i del giuditio.
+
+	|103-105.~  PERCH@E I' DISSI MAESTRO ESTI TORMENTI: bella dimanda.  
+Aveva detto Virgilio che quelli dormiranno fin al d@i del giuditio, che 
+saranno chiamati e ripigliaranno i lor corpi; dimanda mo il Poeta se 
+dal d@i del giuditio in l@a quelli tormentati averanno maggior o minor 
+o tanto tormento quanto pria, et egli gli risponde:
+
+	|106.~  RITORNA A TUA SENTENZA, cio@e alla aristotelica.  @E 
+d'Aristotile questa propositione: che quanto l'uomo ha pi@u del 
+perfetto, tanto pi@u sia atto a fruir la beatitudine, e cos@i a sentir 
+pi@u mart@ire.
+
+	|109-110.~  TUTTO CHE, idest, ancora che.  IN VERA PERFETTION GIAMAI 
+etc.: perch@e, ancora che dopo il d@i del gran giuditio, essi 
+riaveranno il corpo, per il che pi@u perfetti fien che prima, quando 
+erano anime sole secondo esso Aristotile, non perci@o @e quella vera 
+perfettione per la danatione.
+
+	|111.~  DE L@A PI@U CHE DI QUA ESSER ASPETTA: modo di dire: aspettane, 
+adunque, esser pi@u di l@a dalla pena che di qua, idest, esser pi@u 
+dentro ne la pena et esser pi@u puniti, che esser di fuori e meno 
+puniti.

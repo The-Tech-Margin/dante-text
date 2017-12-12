@@ -1,0 +1,39 @@
+{EDVFY}
+
+:PRINT ~@HEADING_Entering BRS Update Mode ...\n~
+:RUN ~brsupdmd #USER #DBNM @FLAG #TRMTYPE~
+
+:COMPARE #RC
+     TO "5|11"
+	:PRINT ~\nUpdate has been paused\n~
+
+	:COMPARE @FLAG
+	     TO "1"
+		:SET #UPDBNM ~A`#DBNM~
+	     TO "2|10"
+		:SET #UPDBNM ~D`#DBNM~
+	     TO "4|12"
+		:SET #UPDBNM ~M`#DBNM~
+	:DONE
+	:SET @SELECTION ~Signoff!~
+	:SET #RC ~~
+
+     TO "3"
+	:PRINT ~\nUpdate is being processed\n~
+
+     TO "7"
+	:PRINT ~\n\o5 Update has been cancelled \f5\n~
+
+     TO "9"
+	:PRINT ~\n\o5 All documents were locked \f5\n~
+
+     TO "0-2|4|6|8|10|12-255"
+	:PRINT ~\n\o5 Internal Fatal Error \f5\n~
+
+     TO "*"
+	:SET #UPDBNM ~~
+	:SET @SELECTION ~S~
+	:PAUSE
+:DONE
+
+:RETURN

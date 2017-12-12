@@ -1,0 +1,66 @@
+.Strings
+versASCIItrn,'$Revision: 1.1 $'
+
+'FNSep','\n-----------------------------------\n'
+'footnote_ref','[$_0;]'
+'footnote_Bref','[$_0;]'
+
+
+.Strings
+'OverrideDefs','1'                              # Forces these settings files into override mode
+#cinclude '$BaseName(InputFile).trn'  # conditionally include file specific settings
+
+#ifmatch $Package() 1
+#endif
+#cinclude 'trnflag.trn'               # Conditionally include users local settings
+
+.Strings
+'OverrideDefs','0'             # No longer in force mode
+
+.Functions
+Function ProcessField
+Save Infield,1
+Set ''
+
+Function EndResult
+Save Infield 0
+
+Function PNOverrideFunction
+Set Normal
+
+.Strings
+'HtmlExt', 'txt'
+'OutMap','asciimap.txt'
+
+# Paragraph Style Tags table
+# Format:
+#'name','starttag','endtag','col2mark','tabmark','parsep',
+#'linetag',allowtext,cannest,DeleteCol1,fold,TocStyl,generate_emptypar
+.PTag
+'Normal','','\n','\t','\t','\n','\n',1,0,0,0,0,1
+
+
+
+# Text STyle Tags table
+# Format
+# 'name','Starttag','Endtag'
+.TTag
+'null','',''
+'b','|','~'
+'i','^','~'
+'sup','+','~'
+
+# 
+.TMatch
+'',0,'','','_NEVER_','null'
+'',0,'Italic','','','i'
+'',0,'bold','','','b'
+'',0,'SuperScript','','','sup'
+
+# Format:
+# 'Paragraph Style',NestLevel,'ParagraphStyleName'
+.PMatch
+# First Entry is the default if no style match. Should be level 0 
+# point to a Paragraph style with no markup
+'Normal',0,'Normal'
+

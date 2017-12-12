@@ -1,0 +1,127 @@
+	|Proemio.~  Incomincia l'undecimo chap. del purghatorio.
+
+	|1-21.~ 
+
+   ^O padre nostro che nel cielo stai~
+   ^non circuscritto ma per pi@u amore~
+   ^che a' primi effetti di l@a su tu hai.~
+
+Trattato il nostro altore della spezie della superbia del primo 
+circhulo ora in questo chapitolo continuando tratta della detta materia 
+e giugniendovi insieme con esso loro la vanagloria e dividesi questo 
+chapitolo in cinque parti gienerali.  Nella prima seghuitando l'altore 
+discrive la orazione che chantano questi spiriti.  In questa prima 
+parte l'altore continuando discrive l'orazione la quale chantono questi 
+superbi e vanagroriosi ed @e questa orazione domenichale e di cielo 
+l'altore chome chomincia il chapitolo e lla chagione perch@e chantano 
+questa orazione si @e questa cio@e il paternostro si @e che per sette 
+pitizioni principali che sono nel paternostro la prima domandagione che 
+ffa l'uomo a Dio si @e che lla sua gloria sia acresciuta.  La seconda 
+che noi preghiamo Idio di provenire alla sua groria.  La terza domanda 
+che noi facciamo ch'egli ci presti quella cosa per la quale noi 
+pervenire possiamo al suo santo regnio di paradiso.  La quarta ch'egli 
+ci presti quella cosa la quale ci conducha al suo regnio.  La quinta si 
+@e che ttu prieghi chos@i per altrui chome per s@e intanto che sse ttu 
+sse' in atto di pecchato che 'l priegho non vaglia a tte vale a uno che 
+sia in grazia di Dio.  La sexta che ttu prieghi ch'egli rimuova da nnoi 
+quelle cose che cci hanno a 'npedire cio@e le tentazione del dimonio 
+che l'uomo ha ne' ma' pensieri e ne' sogni chattivi.  La settima e 
+ultima si @e che noi il preghiamo che ci diliberi dalle pene infernali. 
+ E questa orazione andavano cantando per noi e non per loro.  Imper@o 
+ch'eglino son gi@a nel chamino d'andare all'alto Iddio.
+
+	|37-69.~ 
+
+   ^Deh se giustizia e piat@a vi disgrevi~
+   ^tosto s@i che possiate mover l'ale~
+   ^che secondo il disio vostro vi lievi.~
+
+In questa seconda parte fa l'altore menzione d'uno spirito ch'egli vide 
+e ffu lo spirito del conte Uberto da Santo Fiore di quegli di Maremma 
+il quale fu al mondo huomo altiero e superbo per loro antichit@a chome 
+pi@u pienamente se n'@e detto altrove.  Costui fu morto da' Sanesi in 
+terra di Champagnia e dicie cos@i lo spirito
+
+	|73-84.~ 
+
+   ^Ascoltando chinai in gi@u la faccia~
+   ^e un di lor non questi che parlava~
+   ^si torse sotto 'l peso che lli 'npaccia.~
+
+In questa terza parte fa l'altore menzione d'un altro spirito purghato 
+qui per la superbia e vanagloria e questo fu uno Oderigho da Ghobbio el 
+quale fu in sua vita ecielentissimo miniatore di libri e per questo era 
+forte superbo e vanaglorioso intanto ch'egli non dava vanto a veruno e 
+s@e faciea migliore di tutti.  Or quivi schusa a Dante e d@a qui i[l] 
+libro del maestro del miniare a un Franco da Bolognia.
+
+	|91-99.~ 
+
+   ^O vana gloria de l'umane posse.~
+   ^chom poco verde in sulla cima dura~
+   ^se non @e giunto dalle etade grosse.~
+
+In questa quarta parte l'altore fa una exclamazione contro alle gienti 
+di questa superbia e vanagloria e chome poco tempo dura a veruno ch'un 
+altro non vengha dietrogli migliore di lui.  S@i cche veruno per sua 
+virt@u non doverebbe pigliare superbia n@e vanagloria di cosa che 
+sappia anzi ringraziare il donatore cio@e Iddio e datti la similitudine 
+di Cimabue il quale fu fiorentino sommo dipintore e dietro a llui venne 
+Giotto suo discepolo il quale venne pi@u perfetto di lui.  Intanto 
+ch'essendo vivi amendue ed essendo i[n] Napoli cho re Ruberto furono 
+alla pruova chi era di loro migliore maestro e furono date l'onore e 
+lle lode a Giotto.  Ancora te lo mostra per una similitudine d'u[n] 
+messer Ghuido de' Ghuinizegli da Bolognia il quale fu finissimo dottore 
+dicitore e trovatore di belle rime.  E poi venne dietro a llui messer 
+Ghuido Chavalcanti da Firenze troppo pi@u valente e migliore trovatore 
+e dicitore e per@o dicie cos@i l'altore
+
+   ^Cos@i ha tolto l'uno a l'altro Ghuido~
+   ^la gloria della linghua e fors'@e nato~
+   ^chi l'uno e l'altro chaccier@a del nido.~
+
+Questo si dicie che disse l'altore per s@e medesimo per@o che troppo @e 
+stato migliore dittatore Dante che l'uno e l'altro Ghuido o che veruno 
+altro huomo infino quivi i[n] rima volghare.
+
+	|109-138.~ 
+
+   ^Colui che del chamino s@i poco piglia~
+   ^dinanzi a mme Toschana son@o tutta~
+   ^e ora a ppena in Siena sen pispiglia.~
+
+In questa quinta parte l'altore fa menzione d'un altro spirito il quale 
+fu al mondo superbissimo huomo bench'egli fecie una volta una cosa 
+molto notabile e di grande umilitade e di doverne fare memoria e fu 
+questa.  In Siena fu uno valentissimo huomo il quale ebbe nome messer 
+Provenzano Salvani de' maggior cittadini signior di Siena e ghuidavala 
+chome gli piacieva e reggievasi Siena a pparte ghibellina allora.  Onde 
+venne per caso in quel tempo i Sanesi furono isconfitti da Charlo Sanza 
+Terra conte d'Angi@o nella quale isconfitta fu preso da Charlo un 
+gra[n] cittadino e amico molto di questo messer Provenzano Salvani de' 
+maggior cittadini come di sopra dissi.  E sentendo Charlo chom'egli era 
+amicho di questo messer Provenzano gli puose una gran taglia di che 
+messer Provenzano pensossi di ricogliere questi danari per amore e non 
+per forza con umilt@a e non con superbia.  In questo modo ch'egli se 
+n'and@o in sul champo di Siena e ivi tese un tappeto e cominci@o a 
+chiedere in acchatto per Dio a chi andava e chi veniva per questo suo 
+amico.  E ci@o veggiendo i Sanesi tanta umilit@a in costui che ssi 
+poteva dire ch'egli era signiore di Siena che ogn'uomo piccholi e 
+grandi correvano a dare danari e in questo modo e' rischosse e champ@o 
+l'amicho suo da morte.  Et per questa umilit@a l'altore il mette in 
+purghatorio e none nell'antipurghatorio tra coloro che furono morti per 
+morte violenta inper@o che alla fine gli fu tagliato il capo chome a 
+ppoco istante iconter@o.  Questo messer Provenzano fu coi Sanesi a 
+iscofiggere i Sanesi a Monte Aperti ove ricieverono cos@i gran danno 
+chome tocchai di ci@o in un chapitolo paxato.  Poi venne che nel 
+MCCLXVIIII il conte Ghuido Novello era in Siena con tutta la parte 
+ghibellina di Toschana e feciono oste di nuovo contro a' Fiorentini e 
+vennono a cCholle di Val d'Elsa e ivi puosono campo per averla e furono 
+MCCCC chavalieri e M.M. pedoni.  E in quel tempo era in Firenze un 
+vichario di Charlo il quale aveva nome Giabertaldo e sentendo questo si 
+part@i da fFirenze con suo oste di Fiorentini e chavalieri francieschi 
+ed entrarono in Colle.  E veggiendo ci@o i Sanesi si partirono e 
+tornaronsi a sSiena.  Questo Gianbertaldo veggendogli andare usc@i 
+fuori e perchosse i Sanesi e s@i gli misse i[n] rotta e prese questo 
+messer Provenzano e molti ne prese e ucise e a messer Provenzano fecie 
+tagliare la testa.  E cos@i chapit@o etc.

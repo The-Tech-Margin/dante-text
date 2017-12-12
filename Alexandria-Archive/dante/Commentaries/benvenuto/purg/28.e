@@ -1,0 +1,701 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS OCTAVUS, ^in quo tractat
+sicut absque Virgilio intravit sylvam, ubi vidit ultra flumen
+Lethe quamdam dominam tenentem flores, quae dixit multa de crimine
+Adae primi patris, et de modo illius fluminis, et de toto modo
+paradisi terrestris.~
+
+	|Proemio.~  ^VAGO gi@a di cercar dentro e dintorno.~ 
+Postquam in praecedenti capitulo poeta noster tractavit et
+determinavit qualiter pervenerint ad apicem montis ubi ponit
+paradisum deliciarum, nunc consequenter in isto capitulo XXVIII
+describit ipsum paradisum.  Et praesens capitulum potest dividi
+in quatuor partes principales.  In prima quarum describit ipsum
+locum quantum ad viredinem herbarum et arborum, et ventum et aves
+et aquam.  In secunda describit unam illustrem dominam quam
+reperit, ibi: ^Co' pi@e ristetti.~  In tertia movet quaestionem
+illi dominae de aqua et vento, quae primo respondet sibi de vento
+faciente sylvam sonare, ibi: ^L'acqua diss'io.~  In quarta et
+ultima dicta domina respondet de aqua irrigante ibi terram, et
+addit magnam nobilitatem huius loci, ibi: ^L'acqua che vedi.~  
+
+	|1-6.~  Ad primum veniens dico quod poeta noster
+describit hortum deliciarum multipliciter; sed antequam veniam ad
+literam, volo primo te notare, quod totum istud capitulum est
+figurale et allegoricum, aliter pro magna parte esset vanum aut
+falsum.  Per istum ergo hortum tam floridum, tam amoenum poeta
+proponit nobis figuraliter statum felicem hominis positi in
+perfectione virtutis, quantum possibile est in hac vita miseriae:
+ideo bene ponit ipsum in loco altissimo omnium, propinquo coelo,
+remoto omnibus alterationibus, sine omni molestia, cum omni
+delectatione.  Dicit ergo continuans se: |Vago gi@a~, idest, ego
+jam avidus ex Virgilii verbis, |di cercar la divina foresta~,
+idest, paradisum deliciarum, ubi Deus posuit primum hominem
+perfectum, qui est locus remotus a terra habitabili sub
+aequinoctiali, ut aliqui volunt, quibus poeta consentit, licet
+alii ponant ipsum in parte orientali; sed ubicumque sit, sive
+loquamur historice, sive allegorice, locus est solitarius ad quem
+pauci perveniunt; |spessa~, propter frequentiam arborum
+virentium, |e viva~, quia numquam aret; et dicit, |dentro~,
+idest, in locis mediterraneis, |e dintorno~, scilicet, in ripis,
+|che agli occhi temperava~, idest, temperate respiciebam, |il
+nuovo giorno~, idest, diem quartum, qui de novo oriebatur.  Et
+subdit suum ingressum in istud viridarium, dicens: |lasciai la
+riva~, scilicet, extremam ubi eram, |senza pi@u aspettar~, quasi
+dicat: non potui expectare adventum Beatricis, sedendo, sicut
+Virgilius praedixerat mihi, |prendendo la campagna~, ubi primo
+venerat per scalam rectam, |lento lento~; hoc dicit quia cum
+quodam timore et reverentia intrabat locum sacrum ignotum; vel
+lente incedebat ut plus delectaretur; vel in hoc innuit
+difficultatem novae et altae materiae quam intrabat, |su per lo
+suol~, idest, terrenum herbosum, |che d'ogni parte oliva~, idest,
+redolebat; quia locus est consitus omni genere arborum, idest
+virtutum, ex quibus resultat magnus odor. 
+
+	|7-15.  Un'aura.~  Hic poeta describit ventum lenem qui
+spirat ibi, dicens: |Un'aura dolce, senza avere in s@e mutamento~,
+idest, et immutabilis, quod contingit propter motum illius
+superioris aeris uniformem, ut dicetur postea, |mi feria per la
+fronte~, quia motus aeris ab oriente hoc faciebat, |non di pi@u
+colpo~, idest, non maioris impetus, |che soave vento~, qualis est
+zephyrus noster, qui suaviter adducit nobis flores et frondes
+tempore veris.  Et hoc manifestat per signum, dicens: |per cui le
+fronde~, illius sylvae, |tremolando pronte, tutte quante
+piegavano~, quia sequebantur motum sperae, |alla parte~,
+scilicet, versus occidentem, |u' il santo monte~, scilicet,
+purgatorii, |gitta la prima ombra~, scilicet, in mane.  Et hic
+nota quod poeta per hoc moraliter dat intelligi, quod in tali
+statu virtutis, licet spiret ventus aliquis, idest aliqua levis
+perturbatio quae parum flectit, non tamen frangit vel prosternit
+arbores, nec impedit viros virtuosos a suo placido officio et
+exercitio.  Ideo bene subdit frondes dico, |non per@o sparte~,
+idest, dispartitae, |dal lor esser dritto~, quia arbor
+naturaliter tendit recte versus coelum, |tanto, che gli
+augelletti per le cime lasciasser d'operar ogni lor arte~, idest,
+garritum et cantum.  Et hic nota quod per aves recte dat
+intelligi viros sapientes et virtuosos, qui volant per apices
+virtutum, et cantant laudes Deo cum laetitia.  
+
+	|16-21.  Ma.~  Hic poeta describit cantum illarum avium;
+et dicit breviter, quod aves cantabant secundum motum illius
+venti qui percutiebat frondes arborum et resonantiam faciebat,
+sicut ventus orientalis facit in pineta apud Ravennam.  Et est
+propriissima comparatio: sylva enim Ravennae habet in se pinus
+arbores odoriferas sicut ista; quae pinus producunt fructus
+fortissimos protectos multiplici cortice non timentes vim, vel
+tempestatem sicut et virtutes: et sicut ventus veniens ab oriente
+spirat in illa sylva, ita in ista.  Dicit ergo: |Ma cantando~,
+illae aves, |l'ore prime~, scilicet, diei tunc surgentis, quando
+viri religiosi cantant Primam, |riceveano~, illum ventum, |intra
+le foglie che tenean bordone~, idest, firmum, |alle sue rime~,
+idest, cantui, |bordone~, dico, |tal qual si raccoglie di ramo in
+ramo~, arborum excelsarum, |per la pineta~, quae est sylva magna
+plena pinis, in qua poeta noster saepe notaverat istam
+resonantiam venti, cum deambularet solitarius speculando per
+litus maris adriaci; unde dicit: |in sul lito di Chiassi.~  Ad
+quod est sciendum quod Classis fuit terra extra Ravennam in
+litore maris; apud quam Justinianus imperator dicitur fecisse
+ecclesiam sancti Apollinaris.  Leoprandus autem rex longobardorum
+cum obsedisset Ravennam invasit Classem oppidum, atque destruxit. 
+Ibi fuit olim portus Ravennae, ubi Augustus tenuit magnam classem
+ad defensionem maris adriaci; alteram tenuit apud Neapolim ad
+defensionem maris tyrrheni.  Et hoc accidit, |quando Eolo~, rex
+ventorum, |discioglie fuor scirocco~, idest, emittit Eurum
+ventum.  Et est notandum, quod poetae fingunt quod Eolus habet
+ventos in potestate sua, quos in spelunca tenet inclusos et illos
+emittit et revocat ad arbitrium suum; unde Homerus in Odyssea
+fingit quod Eolus dedit ventos inclusos in utribus Ulyxi; et
+Virgilius, qui multum imitatur Homerum, fingit primo Eneidos quod
+Eolus relaxavit ventos ex carcere ad excitandam tempestatem
+contra Eneam.  Veritas autem est, quod Eolus fuit rex insularum,
+quae sunt in mari siculo, quarum una, ut scribit Plinius in
+naturali historia, vocata est Liparis a Liparo rege qui successit
+Eolo.  Inter hanc et Siciliam est insula Vulcani, quae nocturnas
+emittit flammas.  Tertia Strongilia distans a Lipara per milliare
+inclinans ad ortum solis, in qua regnavit Eolus quae differt a
+Lipara solum in clariore flamma, cuius fumo incolae dicuntur
+praenoscere qui venti sint flaturi per triduum: unde dictum est
+ventos paruisse Eolo.  Aliae quatuor sunt minoris famae, de
+quibus etiam loquitur Martianus Capella.  Justinus vero dicit,
+quod Eolus extinctis Cyclopibus regnum Siciliae occupavit etc. 
+
+	|22-27.  Gi@a.~  Hic poeta describit aquam irrigantem istum amoenissum
+hortum.  Et primo continuans se, dicit, quod cum esset satis
+elongatus a ripa reperit fluvium interrumpentem suum iter rectum. 
+Unde dicit: |I lenti passi~, quasi dicat: licet incederem lente,
+|gi@a m'avean trasportato~, idest, transportaverant me cum magna
+delectatione, quod non perpenderam, |dentro alla selva antica~,
+qua nulla est antiquior, quia ibi positi fuerunt primi parentes,
+|tanto, ch'io non potea riveder ond'io m'entrassi~, quando a
+principio recessi a ripa: |ed ecco un rio~, profundus et arctus
+latitudinis trium passuum, ut postea dicetur.  Hic autem erat
+fluvius Lethaeus qui irrigat istum hortum ex una parte; nam ex
+alia est fluvius oppositus isti, qui irrigat aliam partem; |mi
+tolse l'andar pi@u~, idest, procedere ulterius per iter incoeptum;
+ideo domina, quam inveniet statim, ducet eum per ripam fluminis
+donec merget eum in aquam, et transportabit eum ultra.  
+
+	|28-33.~  Et subdit excellentem pulcritudinem istius
+aquae per comparationem claram, dicens: |tutte l'acque che son di
+qua~, in nostro mundo, |pi@u monde~, sicut, aqua Ticini apud
+Papiam, et aqua Benaci apud Veronam, |parrieno avere in se
+mistura alcuna~, idest, turbulentiam, |verso di quella~, idest,
+in comparatione ad aquam lethaeam.  Et bene dicit poeta quod sit
+tam sincera et limpida, quia aqua mundana non lavat nisi sordes
+corporum, ista vero sordes animarum, |che nulla nasconde~, quia
+parva festuca posset videri in fundo eius, et tamen hoc videtur
+mirabile cum sit tota cooperta; unde dicit: |avvegna che si muova
+bruna bruna sotto l'ombra perpetua~; vult dicere quod tanta est
+ibi densitas arborum, quod ex connexione ramorum radii solis vel
+lunae penetrare non possunt; unde dicit: |che mai raggiar non
+lascia sole ivi, n@e luna~, et per consequens nec die nec nocte
+potest esse ibi lux maxima, nec ibi est calor vel frigus, sed
+continua temperies: ista enim aqua inducit oblivionem peccatorum.
+
+	|34-42.  Coi pi@e.~  Ista est secunda pars in qua poeta
+noster describit mirabilem dominam quam reperit ibi cantantem et
+flores colligentem.  Et ad intelligendam plene istam nobilem
+partem, volo primo te notare quod autor nunc ostendit se videre
+de facto illam dominam, quam superius finxerat se vidisse in
+somno in eodem habitu et actu.  Haec est ergo comitissa
+Mathildis, quae devota filia Petri pro matre ecclesia semper de
+hostibus triumphavit.  Ista ergo propter excellentiam suae
+virtutis inducitur hic, ut doceat et ostendat animas purgatas
+ascensuras ad coelum, oportere transire per ecclesiam Dei
+militantem mediante balneatione duarum aquarum quae hic
+inveniuntur; sic Cato ponitur in introitu purgatorii ad
+praeparandum animas ad ascensum montis per lotionem faciei.  Ad
+literam ergo dicit poeta: |Coi pi@e ristetti~, idest, firmavi me
+in ripa fluminis, |e passai con gli occhi di l@a dal fiumicello~,
+scilicet, Lethaeum, quem jam vocavit rivum, |per mirare~, cum
+visu, |la gran variazion di freschi mai~, idest, virentium
+ramorum, qui erant diversi in colore, odore, et sapore fructuum:
+et talis locus bene convenit locato; unde dicit: |e l@i m'apparve
+una donna soletta~, idest, solitaria; et vere ista domina non
+habuit sociam in Italia jam tempore multo; imo nec virum sibi
+similem in virtute, |che si g$ia cantando~; quid cantaret audisti
+in capitulo praecedenti, quia delectatur in bene operando, |e
+scegliendo fior da fiore~, idest, secernendo florentiora opera
+virtutis ad faciendum suum sertum, ut dicebat supra in somnio
+nostri poetae; |onde~, idest, ex quibus floribus, |tutta la sua
+via era pinta~, idest, eius vita erat ornata.  Et declarat dictum
+per simile, dicens: |siccome egli appare~, interdum, |subitamente
+cosa~, mirabilis, |che disvia per meraviglia tutt'altro pensare~;
+quasi dicat tacite: nunc accidit mihi sicut peregrino transeunti
+per solitudinem virentem, cui miranti amoenitatem florum et
+arborum ex insperato apparet pulcerrima virgo, quae statim
+retrahit visum ad illum dimissa inspectione sylvae.  
+
+	|43-48.  Deh.~  Nunc poeta ponit suam orationem ad istam
+egregiam dominam.  Et primo quidem facit exordium cum petitione,
+dicens: |Diss'io a lei~: illi dominae, |deh~, dictio deprecativa
+est, quasi dicat: rogo te, |bella donna~, sic commendat eam a
+pulcritudine quam maxime affectant mulieres, |ch'ai raggi d'amor
+ti scaldi~, quasi dicat, quae videris amorata; ideo deberes esse
+placida, |s'i' vo' credere ai sembianti~, idest, signis
+exterioribus, |che soglion esser testimon del cuore~, maxime in
+facto amoris, quia amor celari non potest, |vegnati in voglia di
+traerti avanti~, quia ego ulterius venire non possum, |verso
+questa riviera~, idest, rivum, |tanto~, idest, tam prope; erat
+enim ipsa domina satis a longe, |ch'io possa intender che tu
+canti~, quasi dicat: ut sentiam delectationem tuam.  Et hic nota
+quod poeta merito tantum affectat appropinquare ad istam dominam,
+quia facta purgatione vitiorum optabat accedere ad operationem
+virtutis, quae repraesentatur in ista domina.  Nota etiam,
+lector, quam pulcros rhythmos poeta noster fabricavit in tam
+pulcra materia: ex quo apparet verum esse illud quod festive
+dixit quidam in commendationem eius: dicebat enim quod quando
+Dantes primo parabat se ad condendum tam nobile poema, omnes
+rhythmi mundi presentarunt se conspectui eius tamquam pulcerrimae
+domicellae suppliciter rogantes singulae, ut dignaretur admittere
+illas libenter in opere tanto.  At ille coepit vocare nunc istam,
+nunc illam, et unamquamque in ordine secundum exigentiam materiae
+collocare; tandem, libro ad felix complementum perducto, nulla
+remanserat extra: sub hoc curiali dicto volens ostendere, quod
+videtur impossibile extorquere rhythmum Danti.  
+
+	|49-51.  Tu.~  Nunc poeta confirmat dictum suum extollens
+excellentiam istius dominae, quam assimilat Deae habenti multas
+et magnas virtutes in opere suo.  Et ad intelligentiam istius
+comparationis fortis est primo sciendum, quod Ceres, ut aliqui
+scripserunt, fuit vetustissima siculorum regina, quae mirabili
+ingenio prima excogitavit culturam terrae cum bobus domitis et
+aratro; quae ob tam singulare munus credita est immortalis, et
+divinis honoribus sublimata.  Haec autem Ceres dicitur habuisse
+unicam filiam Proserpinam, quam a Plutone raptam mater diu
+quaesivit accensis facibus; et post longos labores illam repertam
+recuperavit cum pacto quod sex mensibus esset apud superos, et
+totidem apud inferos: invenit autem ipsam in Sicilia juxta montem
+AEtnam.  Hanc rem Ovidius verborum prodigus multum late describit
+in Maiori; et Claudianus placidus poeta de hoc facit tractatum in
+suo Minori, quem non complevit.  Huius fictionis duplex allegoria
+invenitur: una, quam subtiliter investigat Macrobius.  Scribit
+enim Cererem non esse aliud quam terram; unde sic dicta est quasi
+^creans res~: per Proserpinam vero voluit significari lunam, quae
+dicitur sic, quasi ^prope serpens~, quia propinquius terrae
+movetur, quam caeteri planetae: per Plutonem vero terram, sive
+corpus terrae.  Quod vero Proserpina dicitur filia terrae non est
+aliud nisi quod luna plus continet in se de natura terrae, et
+plus accedit naturae eius quam caeteri planetae, quia est
+obscurior et gravior; unde potest dici fex planetarum, sicut
+terra fex elementorum.  Hanc autem rapit Pluto, dum
+interpositione tumoris terrae luna nobis absconditur; et eam
+autem quaerit Ceres cum facibus, quia, scilicet, in nimio
+aestatis fervore terra maxime repetit humorem lunae, quo fervor
+ille temperari possit, et unde etiam fructus sui recipiat
+augmentum; et hoc in nocte, quia tunc scilicet humor plus abundat
+in aere ex vicinitate ipsius lunae; in die enim nihil administrat
+humoris subditis, vel si aliquid calore solis exsiccatur.  Quod
+autem sol manifestavit eam Cereri significat quod non habet
+apparere nisi per splendorem quem recipit a sole: quod autem
+dicitur per dimidium anni morari cum Plutone, et per dimidium
+apud superos, nihil aliud est nisi quod luna per sex menses est
+in inferiori hemisperio et non videtur a nobis; per totidem vero
+in superiori, et nobis apparet.  Alii vero per Proserpinam volunt
+intelligi annonam, quae ad tempus latet, ad tempus apparet, et
+quaeritur cum facibus, quia non nisi in magno calore habetur, et
+invenitur in Sicilia fertilissima frugum apud ignem et aquam,
+idest, calorem et humorem; sed prior allegoria videtur melior. 
+Nunc ad literam dicit poeta ad Mathildim: |Tu mi fai rimembrar~,
+idest, recordari, |dove~, quia apud lacum Pergusae in Sicilia, |e
+qual era Proserpina~, in aetate, in forma et actu, |nel tempo~,
+scilicet, veris, |che la madre~, dicta Ceres, |perdette lei~,
+raptam a Plutone, |et ella~, Proserpina perdidit, |primavera~,
+quia intravit locum tenebrarum.  Et sic nota quantum comparatio
+est propria: nam Proserpina pulcerrima inventa est in prato
+florido, colligens diversa genera florum, juxta montem qui ex
+summitate emittit ignem apud lacum lucidissimum; ita Mathildis
+talis per omnia inventa est in monte purgatorii propinqua igni et
+rivo purissimo, colligens flores etc.  Ut ergo concludam uno
+verbo, poeta vult dicere: tu videris mihi una Dea pulcra,
+honesta, qualis est Diana dea castitatis, quae est quaedam regina
+mundi.  
+
+	|52-60.  Come.~  Hic poeta ostendit qualiter Mathildis
+persuasa oratione eius exaudivit eum per comparationem pulcram et
+claram.  Unde dicit: |Volsesi~, illa domina, |verso me~, ubi
+primo respiciebat suos flores, |su i fioretti vermigli e su i
+gialli~, qui sunt ibi diversorum colorum, |non altrimenti~, imo
+similiter, |che vergine che gli occhi onesti avvalli~, idest,
+inclinet ad terram, quia erat pulcra et pudica, licet esset
+inamorata; a simili, |come donna che balli~, juvenis pulcra sicut
+ista, |si volge con le piante strette a terra~, et intra se apte
+et habiliter, |e piede innanzi a piede a pena mette~; quia vix
+videtur tangere terram.  Et fecit sicut domina magnanima quae
+delectatur audire et videre viros valentes et sapientes licet non
+sint pulcri; unde dicit: |e fece i preghi miei esser contenti, s@i
+appressando s@e~, idest, in tantum, |che 'l dolce suono~, sui
+cantus, |venia a me co' suoi intendimenti~; hoc est, quod poteram
+intelligere ipsum propter propinquitatem.  
+
+	|61-66.  Tosto.~  Hic poeta ostendit maiorem gratiam
+istius liberalis dominae, quia non contenta venisse de prope
+dignata est levare oculos suos plenos amoris, et tunc visa est
+sibi pulcrior Venere; unde dicit: et illa domina, |mi fece dono~,
+idest, gratiam, |di levar gli occhi suoi~, quibus plus placeret
+mihi, |tosto che fu~, idest, statim cum fuit in ripa, |l@a dove
+l'erbe sono bagnate gi@a dall'onde del bel fiume~, scilicet,
+Lethaei.  Et superexaltat pulcritudinem istius dominae
+multiplicans comparationes pulcras.  Et ad declarationem istius
+comparationis est sciendum, quod Ovidius fingit in X Maioris,
+quod cum Cupido filius Veneris oscularetur matrem sagipta una
+exiliens de pharetra percussit eam in pectore; ex quo Venus
+accensa amore, viso Adone formosissimo juvene filio Myrrhae
+ardenter adamavit illum, quem finaliter laniatum ab apro Venus
+convertit in florem.  Modo ad propositum, ut videas quantum
+comparatio sit decens, poeta vult dicere quod sicut Venus, quae
+dicitur mater amoris, est de se semper pulcra et amans, tamen
+percussa sagipta filii visa est fieri pulcrior et amantior; ita
+nunc domina ista capta amore poetae qui placuit sibi non minus
+quam Adonis Veneri, quia magno labore per sylvam tendebat ad
+acquisitionem virtutis, visa est sibi fieri pulcrior et amantior,
+quam esset primo.  Dicit ergo poeta: |Non credo che tanto lume~,
+idest, tanta claritas, |splendesse sotto le ciglie~, scilicet, in
+oculis, |a Venere trafitta~, cum sagipta aurea, |dal figlio~,
+scilicet, Cupidine, |fuor di tutto suo costume~; quia ultra
+solitum transfixit cor eius plusquam soleat alios vulnerare.  Et
+bene dicit quia multo luminosior est amor virtutis honestae quam
+venereae voluptatis, quantumcumque femina pulcerrima videatur. 
+
+	|67-69.~  Et subdit actum dictae dominae, dicens: |ella~,
+scilicet, Mathildis, |ridea~, quia delectatur in opere virtutis,
+|dall'altra riva dritta~, ex opposito mei, ut possem recte videre
+studium eius, |traendo pi@u colori~, idest, flores diversorum
+colorum, |con le sue mani, che~, idest, quos flores, |l'alta
+terra~, qua nulla est altior, |senza seme gitta~, idest,
+producit.  
+
+	|70-75.  Tre.~  Hic poeta ostendit immensam aviditatem
+suam transeundi ad istam dominam gratiosam per pulcerrimam
+comparationem: et dicit breviter quod arctus rivus aquae
+impediens ipsum ire ad istam amorosam dominam, ita factus est
+sibi nunc odiosus sicut olim angustus ramus maris factus est
+odiosus Leandro, prohibens sibi accessum ad amatam suam.  Ad quod
+est sciendum quod Hellespontus est quoddam brachium maris
+angustum per tria vel duo milliaria, quod hodie appellatur
+brachium sancti Georgii ab una ecclesia eius non longe a
+Constantinopoli, dividens Asiam ab Europa; in cuius uno litore,
+scilicet ex parte Asiae, est civitas vocata Abydos; in altero
+vero ex parte Europae est civitas dicta Sestos.  De civitate
+autem Abydena fuit juvenis nomine Leander, qui nimis inconsulte
+adamavit puellam nomine Hero habitantem in Sesto, ad quam saepe
+solebat tempore noctis transire natando: tandem semel saeviente
+tempestate submersus eiectus est ad litus, quo viso infelix Hero
+mortua est prae dolore.  Est ulterius sciendum, quod poeta ad
+decorem sui tractatus inserit aliud factum magis memorabile, ibi;
+nam Xerses potentissimus rex persarum, cum exercitu innumerabili
+et infinita classe transivit in Graeciam, facto ponte ex navibus;
+sed in brevi victus et fugiens trepide retransivit Hellespontum
+cum navicula piscatoria.  Nunc ad literam, dicit poeta: |Il
+fiume~, scilicet, Lethaeus, |ci facea lontani tre passi~, ita si
+fuisset ita levis corpore, sicut erat animo, poterat transire ad
+eam saltando vel natando per tres passus sicut Leander per tria
+milliaria, |l@a ove pass@o Xerse~, filius Darii; Xerses, dico,
+|ancora freno a tutti orgogli umani.~  Et hic nota, quod vere hic
+Xerses est perpetuum exemplum, habens refraenare superbiam
+potentum regnantium.  Sicut enim scribit Justinus, mirabile
+spectaculum erat videre latentem parvo navigio, quem paulo ante
+vix omne mare capiebat et omnis terra tremebat; sed qui videbatur
+calcare sidera velut lepus, velut mus pavidus, victus vilissime
+terra et mari, parva scapha sine minimo servo, redivit in Asiam,
+dispersa multitudine inaudita, prout dicetur plenius Paradisi
+capitulo VIII; |non sofferse pi@u odio da Leandro per mareggiar~,
+idest, fluctuare fortiter, |intra Sesto et Abido~, duas
+antiquissimas civitates, de quibus fit frequens mentio apud omnes
+autores.  Unde et Livius refert miserabile facinus de abydenis,
+qui ex desperatione pro libertate sua trucidaverunt se invicem,
+ne venirent in manus Philippi regis macedonum, qui bellum gerebat
+cum romanis; |che quel~, scilicet, flumen Lethaeum, |da me~,
+substinuit odium, |perch@e allor non s'aperse~, ad dandam mihi
+viam.  Et hic nota quam bene comparatio facit ad propositum, si
+consideres singulas partes eius comparando Leandrum Danti, Hero
+Mathildi, strictum mare huic stricto flumini, amorem Leandri ad
+dominam suam, amorem Dantis ad dominam istam, odium Leandri ad
+mare, odium Dantis ad flumen; sed Dantes fuit prudentior Leandro,
+quia non deiecit se ad aquam sicut ille, imo expectavit usquequo
+Mathildis traheret eum ad aliam ripam.  
+
+	|76-84.  Voi.~  Hic poeta ponit orationem Mathildis ad
+se, quae excludit admirationem ab animo poetarum quam videbantur
+contraxisse ex eius risu, cantu et gaudio.  Et videtur
+sententialiter dicere: non debetis de hoc mirari, quia mea
+delectatio non procedit a vanitate sicut in mulieribus viventibus
+amoratis in mundo mortali, sed ab honestate; virtus enim non
+solum est bonum honestum, sed etiam utile et delectabile habenti. 
+Dicit ergo poeta: |Ella~, scilicet, domina tam laeta, |cominci@o~,
+scilicet, dicere, |voi~, scilicet, tres poetae, |siete nuovi~, et
+novitas rei parit admirationem, quasi dicat: vos estis ignari
+huius rei, |e forse alcun sospetto tienvi maravigliando~, quia
+creditis quod sim philocapta, ut tu dicebas paulo ante mihi,
+|perch'io rido~, cum risus non videatur laudabilis in muliere
+perfecta etiam in loco perfecto, |in questo loco eletto~, idest,
+destinato et deputato, |all'umana natura~, si stetisset in
+innocentia, |per suo nido~, idest, hospitio sive habitaculo.  Et
+confirmat dictum suum per dictum prophetae, qui dicit:
+^Delectasti me, Domine, in factura tua, et in operibus manuum
+tuarum exultabo.~  Unde dicit: |ma il salmo Delectasti~, non
+intelligas psalmum qui incipit: ^Delectasti~, quia nullus est sic
+incipiens, sed in psalmo qui incipit: ^Bonum est confiteri
+Domino~, est versiculus qui dicit: ^Delectasti me~ etc., |rende
+luce~, idest, facit declarationem, |che puote disnebbiar~, idest,
+illuminare et dilucidare, |vostro intelletto~, qui non capit quae
+et qualis sit delectatio mea.  Potest etiam aliter exponi litera
+ista, et non minus bene, ut sit sensus, quod accedentibus nuper
+ad apicem virtutis perfectae, operatio virtutis non videtur ita
+delectabilis sicut est in rei veritate, et sicut videtur
+habituatis in virtute.  Quod autem ista sit intentio literae
+videtur patere ex praecedentibus, quia dixit: vos estis novi; et
+ex sequentibus, quia aliqui textus habent, ^dilatasti~: et hic
+est versiculus alterius psalmi, ubi propheta tendens ad
+perfectionem virtutis, quae in paradiso deliciarum typice
+designatur, dicit: ^Dilatasti, Domine, gressus meos~ etc.  Deinde
+Mathildis in speciali offert se nostro poetae, dicens: |E tu, che
+se' dinanzi~, qui solebas hactenus sequi socios, |e mi pregasti~,
+ubi dixisti quod facerem me propinquam tibi, |di', s'altro vuoi
+udire~, quia jam respondi ad quaesita, |ch'io venni presta ad
+ogni tua question, tanto che basti~, ad declarationem tuam.
+
+	|85-87.  L'acqua.~  Ista est tertia pars capituli, in qua
+poeta noster movet quaestionem venti et aquae, cum videatur
+impossibile per naturam.  Dicit ergo: |Diss'io~, illi dominae,
+|l'acqua~, juxta quam sumus, |e 'l suon della foresta~, idest,
+ventus sylvae, qui spirat et quatit arbores, |impugnan dentro a
+me novella fede~, idest, novam aviditatem sciendi, |di cosa ch'io
+udi'~, scilicet, supra a Statio, capitulo XXI, |contraria a
+questa.~  Ibi enim dixit Statius, quod nulla impressio aeris
+fiebat a porta purgatorii supra; ideo nunc plus mirabatur de
+vento et aqua in cacumine montis, quam paulo ante de risu
+Mathildis.  
+
+	|88-90.~  Et subdit responsionem Mathildis, quae primo
+promittit solutionem dubii, dicens: |ond'ella~, supple, dixit
+mihi, ut faceret me attentum: |io dicer@o come ci@o ch'ammirar ti
+face~, scilicet, ventus et aqua, |procede per sua cagion~, non
+naturali, |e purgher@o la nebbia~, idest, dissolvam nebulam
+ignorantiae, |che ti fiede~, idest, ferit et percutit mentem tuam
+admiratione, quasi dicat: sicut vox prophetae potest dissolvere
+et distenebrare tuum intellectum de una re mirabili, ita vox mea
+distenebrabit ipsum de alia re non minus mirabili.  
+
+	|91-96.  Lo sommo.~  Hic Mathildis volens solvere ipsam
+quaestionem incipit parum a longe, ostendens quare et ad quem
+finem factus est locus iste sine aliqua alteratione naturali. 
+Unde dicit: |Lo sommo Bene~, scilicet, Deus, |che solo esso a se
+piace~, quia solus Deus se videt, se intelligit et cognoscit
+perfecte, |fece l'uom~, scilicet, Adam et Evam, |buono~,
+simplicem et rectum in statu innocentiae, |a bene~, idest, ad
+finem beatitudinis, |e diede questo loco~, scilicet, paradisum
+terrestrem, |a lui~, scilicet, Adae et Evae, |per arra d'eterna
+pace~, idest, pro parte coelestis felicitatis.  Et hic nota quod
+primi parentes satis magnam felicitatem habebant, etiam si nullam
+aliam expectarent in isto loco, ubi erat quies placida sine
+labore, sanitas sine languore, securitas sine timore, laetitia
+sine dolore, pax sine bello, libertas sine servitute; et quod est
+super omnia, vita sine morte: sed quanto feliciores ante
+peccatum, tanto infeliciores post peccatum.  Ideo dicit: et ille
+homo, |dimor@o qui poco~, quia paucis horis stetit in isto
+paradiso, ut dicetur Paradisi capitulo XXVI, |per sua diffalta~,
+idest, propter suum defectum, quia per superbiam voluit fieri
+sicut Deus; et quod fuit gravius, ipse homo, |cambi@o onesto
+riso~, qualis erat risus Mathildis paulo ante, |e dolce giuoco~,
+idest, delectationem, |in pianto et in affanno~, a quo auspicatur
+miserias suas, |per sua diffalta~, idest, defectum, quia
+ingratissimus non fuit contentus tanto bono sibi sine merito
+donato.  
+
+	|97-102.  Perch@e.~  Hic poeta ostendit qualiter Deus, ut
+homo pacifice frueretur bono sibi parato, dedit sibi locum
+immunem ab omni alteratione.  Unde dicit: |Questo monte sal$io v#er
+lo ciel tanto~, quia quasi tangit coelum, |perch@e 'l turbar~,
+idest, turbatio, scilicet terraemotus, ventus, pluvia, nix,
+pruina, ros et talia, quorum generationem tangit, dicens: |che~,
+idest, quam multiplicem turbationem, |le esalazioni dell'acqua e
+della terra~, idest, vapores qui exalant ab aqua et terra; nam
+vapores aquae et terrae sunt causa materialis omnium istarum
+impressionum.  Nam vapores terrae sicci faciunt ventos, et
+vapores humidi aquae faciunt pluviam, nivem etc.  Et causa
+efficiens harum est corpus coeleste; unde dicit: |che, quanto
+posson, dietro al calor vanno~; quia scilicet, sequuntur calorem
+solis et aliarum stellarum, attrahentis ipsos vapores usque ad
+mediam regionem aeris; |fanno sotto da se~, idest, infra
+altitudinem istius montis, quia ab introitu veri purgatorii supra
+non fiunt ista, |non facesse alcuna guerra all'uomo~, habitatori
+huius loci, sicut videmus quod istae impressiones faciunt bellum
+continuum et inexorabile homini habitanti in nostra terra
+habitabili.  Unde dicit: |e liberonne~, idest, altitudo istius
+montis liberavit hominem et me et omnes tendentes ad virtutem per
+totum purgatorium ab omni perturbatione tali, |da indi~, idest,
+ab ipsa porta purgatorii citra, |ove si serra~; ipse mons ab
+angelo clavigero.  Et hic nota quod in ista particula forti poeta
+non vult aliud dicere sententialiter, nisi quod iste locus factus
+est temperatissimus et amoenus, ut homo nullis perturbationibus
+impeditus spiritualibus deliciis frueretur.  
+
+	|103-108.  Or.~  Nunc Mathildis ostenso quare ventus
+noster vel aliqua alia peregrinarum impressionum non attingit
+locum istum maxime quietum; nunc assignat veram causam istius
+venti, et videtur velle dicere in effectu quod quia mons iste
+superextendit cacumen suum in aere vivo, qui continuo volvitur
+cum firmamento coeli; ideo talis motus aeris superioris est causa
+soni sive venti.  Ad literam ergo; quia poeta noster poterat
+dicere isti dominae: o bona femina, satis dixisti mihi quare
+ventus noster non attingit istam altitudinem, sed hoc non est
+quod peto, imo vellem scire causam istius venti hic de quo miror. 
+Ideo Mathildis dicit: |Or il cerchio~, idest, circulus aeris
+vivi, |si volge ratto~, idest, velociter, quia quasi nullam habet
+resistentiam, sicut noster aer inferior, |d'alcun canto~, prope
+coelum, |perch@e 'n circuito~, idest, circulariter, |tutto quanto
+l'aer si volge con la prima volta~, idest, cum primo mobili;
+ideo, |tal moto~, scilicet aeris, |percuote in quest'altezza~,
+idest, in sylvam, quae est in ista planitie, |ch'@e tutta
+disciolta~, idest, aperta et non clausa aliis montibus,
+|nell'aere vivo~, idest, puro, sine nubibus ullis, |e fa sonar la
+selva perch'@e folta~, idest, arboribus plena: et sic videtur
+dicere breviter, quod ventus qui est hic non est aliud quam motus
+aeris, quod multi etiam dixerunt de nostro vento inferiori.  Sed
+hic nota, lector, quod poeta noster non videtur ponere aliquod
+elementum ignis, sicut aliqui philosophi antiqui, qui dixerunt
+ignem generari ex confricatione aeris ad coelum; unde ponit hic
+aerem vivum continuari coelo.  Aliqui vero moderni posuerunt
+aerem vivum super ignem, sicut Brunettus Latinus, qui nescivit
+philosophiam; et sicut Michael Scottus qui fuit melior magus quam
+naturalis, ut dicit Albertus: sed credo quod poeta loquitur
+moraliter, ut ostendat habitationem hominis perfecti esse
+contiguam coelo, sicut doctores dicunt paradisum deliciarum
+pertingere usque ad globum lunae hyperbolice loquentes.  
+
+	|109-114.  E la.~  Hic Mathildis ostendit qualiter
+generantur fructus ibi virtute venti, dicens: |E la pianta~,
+idest, sylva, |percossa~, ab illo aere sive vento, |tanto puote~,
+idest, est tantae potentiae, |che della sua virtute impregna
+l'aura~, idest, implet aerem, |e quella~, scilicet aura vel aer
+sic impraegnatus, |scuote~, idest, commovet et concutit, |poi
+girando intorno~; et isto modo fit multiplicatio arborum ibi:
+unde dicit, |e l'altra terra~, illius sylvae, |concepe e figlia~,
+idest, gignit et parit, |diverse legna~, idest, varia genera
+arborum, |di diverse virt@u, secondo ch'@e degna~, idest, disposita
+passive, |per se~, sine semine, |o per suo cielo~, idest,
+secundum puritatem sui aeris et proximitatem coeli.  Et declarat
+quod dixit hic de generatione arborum per id quod accidit
+aliquando in nostris arboribus naturaliter, sed occulte; nam
+aliqua arbor vigorosa impraegnat aerem circumstantem odore suo,
+et aliquis ventus asportat illum aerem ad terram aptam ad
+concipiendum, et ibi nascetur similis arbor; et ita aliquando
+portabit semen arboris ad aliquam partem longinquam, sicut
+videmus quod interdum arbor domestica reperitur in sylva, arbor
+sylvestris reperitur in horto.  
+
+	|115-117.~  Dicit ergo: |Non parrebbe poi meraviglia di
+l@a~, scilicet in mundo nostro, |udito questo~, scilicet quod
+terra per se concipiat sine semine, |quando alcuna pianta~,
+idest, arbor novella, |vi s'appiglia~, idest, pullulat ibi,
+|senza seme palese~, idest, manifesto, quod patenter appareat, de
+quo homines mirantur, ignorantes causam, sed audita causa non
+mirarentur; et ita tu audita causa non debes mirari si ventus
+sive motus aeris est causa generationis arborum.  
+
+	|118-120.~  Et concludit quantum ad hoc dans unum
+notabile, dicens: |e saper dei che la campagna santa~, idest,
+ista terra plana multo fertilior quam Campania romana, |ove tu
+se' @e piena d'ogni semenza~, quia scilicet in ea sunt germina
+omnium arborum, idest, virtutum et virtuosarum operationum, |et
+ha frutto in se che non si schianta di l@a~, idest, qui non
+carpitur et colligitur in mundo vestro inter tot turbationes. 
+Felicior enim est fructus laborantis sub virtute, quam laborantis
+sub fortuna.
+
+	|121-126.  L'acqua.~  Ista est quarta et ultima particula
+generalis, in qua comitissa, ostenso unde oritur ventus in
+paradiso deliciarum, nunc consequenter respondet de aqua,
+ostendens quod ista aqua transcendit naturam omnium aquarum
+mundanarum, immo est immutabilis et invariabilis.  Unde dicit:
+|L'acqua che vedi~, tam puram et lucidam sub oculis tuis; erat
+enim poeta tunc in ripa fluminis Lethaei, |non sorge di vena~,
+sicut vestrae aquae inferiores per subterraneos meatus a mari. 
+Sicut enim in corporibus nostris sanguis effunditur a vena, ita a
+venis terrae rivus et flumen effunditur, |che~, idest, quam
+venam, |ristori vapor~, idest, restituat nubes, |che 'l giel
+converta~, idest, aer resolvat in pluvias, |come fiume
+ch'acquista o perde lena~, idest, vires recipit et amittit per
+incrementum et decrementum.  Et hic nota quod communiter flumina
+et fontes augentur in pluviis et minuuntur in siccitate; sed
+causa indeficientiae est ab oceano qui est proprius locus
+aquarum.  Hoc autem non accidit in flumine isto; unde dicit: |ma
+esce~, ista aqua, |di fontana salda e certa~, quae scaturit de
+solida petra, non de specu cavernosa, quales reperiuntur
+communiter in montibus, in quibus fiunt receptacula magna, ubi
+est thesaurus et copia aquarum multarum; unde communiter flumina
+a montibus oriuntur.  Et dicit: |che~, idest, qui fons,
+|riprende~, idest, iterum capit, |tanto~, scilicet, aquae, |dal
+voler di Dio~, idest, divina voluntate, quae est profundior
+oceano magno, |quant'ella~, idest, quantum aqua, |versa~, idest,
+effundit, |aperta da duo parti~; quae scilicet efficit duo
+diversa flumina, de quibus statim subiicit.  
+
+	|127-129.  Da questa.~  Hic Mathildis describit utrumque
+fluvium a virtute mirabili et nomine convenienti.  Ista enim duo
+flumina opposita habent diversas operationes ad unum finem
+tendentes: aqua enim unius potata facit oblivisci malum
+praeteritum; altera vero commemorat bonum et vivificat virtutes. 
+Dicit ergo: |Da questa parte~, scilicet, sinistra, ubi est Lethe,
+|discende~, scilicet, aqua, |con virt@u~, idest, cum tanta
+potentia et virtute, |che toglie altrui memoria del peccato;
+dall'altra~, scilicet, parte dextra, ubi est Eunoe, |la rende~,
+scilicet, ipsam memoriam, |d'ogni ben fatto.~  Et sic vide quod
+duo sunt necessaria homini tendenti ad felicitatem: primo oblivio
+mali, ita quod amplius non veniat in mentem eius peccare; secundo
+memoria boni, quae non permittat ipsum amplius peccare.  
+
+	|130-133.~  Et nominat ipsa flumina, dicens: |quinci~,
+scilicet, a sinistra, |si chiama Lete~, graece, et latine
+interpretatur oblivio; |cos@i dall'altro lato~, scilicet, dextero,
+|si chiama Euno@e~; sic dictum ab ^Eu~, quod est bonum, et ^noys~,
+quod est mens; quasi bona mens, idest, memoria bonorum, quae bene
+sequitur ad oblivionem malorum.  Et tangit correlativam virtutem
+amborum fluviorum, dicens: |e non adopra~, idest, non praestat
+salutem homini, |se pria non @e gustato~, istud flumen, |quinci e
+quindi~, primo de Lethaeo, secundo de Eunoe, quia non sufficit
+abstinere a malo, nisi fiat quod bonum est.  Ideo bene dicit
+poeta quod oriuntur ab eodem fonte divinae gratiae, qui exit de
+petra viva, quae est Christus, in quorum utroque poeta lavabitur,
+et de utriusque aqua gustabit, ut patebit.  Et concludit
+bonitatem huius aquae quae non habet parem, dicens: |esto~,
+idest, iste sapor aquae, |@e di sopra a tutti altri sapori~,
+idest, superexcedit omnes sapores, quia habet in se omnes
+sapores, ubi aqua nostra dicitur perfecta quia nullum habet
+saporem.  
+
+	|134-138.~  Et avvegna.~  Nunc ultimo ista alta domina
+addit unam potissimam conclusionem ad ostendendam felicitatem
+huius loci.  Et primo ut reddat eum attentum promittit suam
+gratam liberalitatem.  Dicit ergo: |Et avvegna ch'assai possa
+esser sazia la sete tua~, idest, aviditas sciendi de aura et aqua
+istius montis, |perch'io pi@u non ti scuopra~, declarando et
+detegendo istam materiam, quae videbatur tibi satis occulta,
+|darotti un corollario~; corollarium appellatur ultima conclusio,
+quae datur post alias quasi conclusio conclusionum, sic dictum a
+corolla, idest, parva corona, quasi coronarium, quia datur
+disputantibus in praemium; |ancor per grazia~, quia hoc tu non
+somniabas, et ego tibi non promiseram.  Et excusat se de ista
+digressione, quia hoc facit propter complacentiam suam, dicens:
+|n@e credo che'l mio dir ti sia men caro~, quasi dicat: imo sum
+certa quod dictum meum erit tibi carius, |se teco si spazia~,
+idest, extra vagatur, |oltre promission~, quia non promisi tibi
+nisi me responsuram de vento et aqua.  
+
+	|139-144.  Quelli.~  Hic Mathildis explicat ipsum corollarium;
+et vult breviter dicere quod poetae antiqui, qui finxerunt olim
+illam aetatatem felicem quam auream vocaverunt, voluerunt dare
+intelligi statum felicem perfectae virtutis qui figuratur in isto
+loco.  Homo enim positus in perfectione virtutum est quodammodo
+felix remotus ab alterationibus, quia non subiicitur passionibus. 
+Unde ad veram declarationem istius literae volo te attente
+notare, quod hanc aetatem auream pulcre describit Seneca et
+commendat in una epistola; et alter Seneca in una tragoedia, et
+omnes poetae ante et post eos; sed ubi vel quando fuerit haec
+aetas invidiosa non invenio si discurro per omnes aetates et
+nationes mundi.  Et ut omittam barbaros sine more, sine lege,
+numquam apud graecos sapientissimos, numquam apud romanos
+optimos, imo nec apud hebraeos cultores veri Dei invenies istam
+aetatem.  Quid primi fratres in orbe, quid primi in urbe; in qua
+regione vel in quo tempore fuit unquam gens quae viveret cum
+innocentia et sobrietate, sine cupiditate, sine concupiscentia,
+sine labore, sine cura, vacans simpliciter Deo suo, aut servans
+jura naturae? nisi forte verum sit quod scribitur de Bragmanis in
+India, quorum vita videtur vere felix, mors tamen misera, cum se
+sponte in incendium mutant.  Credo ergo quod poetae loquantur non
+simpliciter, sed secundum quid, scilicet, quod talis aetas fuerit
+nunc in uno loco et tempore, nunc in alio, et respective, sicut
+sub Saturno in Creta, et sicut sub Augusto in Italia, sub quibus
+fuit magna pax, justitia et libertas: et sic videtur intelligere
+Virgilius libro Georgicorum, ubi describens egregie istam
+aetatem, dicit: ^hanc olim vitam veteres coluere Sabini.~  Et
+concludit, quod talis est vita ruricularum.  Nunc ad literam;
+dicit Mathildis: |Quelli ch'anticamente poetaro~, idest, poetice
+descripserunt tam graeci quam latini, |l'et@a dell'oro~, scilicet,
+auream semper florentem, |e 'l suo esser felice forse sognaro~,
+idest, somniaverunt, et somnium fuit verum, vel ^signaro esto
+loco~, quem ostendi esse felicem, |in Parnaso~, idest, Parnaso
+monte, ubi poetae dicebantur somniare, ut dicit Persius.  Et
+superextollit felicitatem huius viridarii, dicens: |qui~, in isto
+paradiso, |fu innocente l'umana radice~, scilicet, Adam et Eva,
+sed paucis horis; et ut dicit Josephus: simplicitatem qua
+vivebant homines Cain statim pervertit ad malitiam et rapinam
+etc.  Et dicit: |qui primavera sempre, ed ogni frutto~; hoc tamen
+est impossibile per naturam in nostro mundo, imo si esset semper
+ver perirent fructus; ideo poetae moraliter loquuntur, ut dictum
+est; |e questo~, scilicet, rivus, |@e nettare di che ciascun
+dice~, quia dicunt, quod aqua erat tunc dulcior nectare.  Nectar
+enim est idem quod mulsum, idest, vinum conditum aromatibus, de
+quo loquuntur omnes poetae; unde Ovidius: ^Flumina jam lactis,
+jam flumina nectaris ibant.~  
+
+	|145-148.~  Et concludit poeta effectum illius dicti,
+dicens: |Io mi rivolsi indietro allora tutto ai miei poeti~,
+idest, ad Virgilium et Statium, quos pro meis specialiter semper
+habui, quasi dicens tacite: istud tangit vos antiquos poetas; |e
+vidi che con riso~, quia placuit eis sonus verborum, |udito
+avevan l'ultimo construtto~, scilicet, corollarium praedictum; et
+dicit: |poi alla bella donna tornai il viso~, scilicet, ad
+Mathildim, quae cantare coepit sicut in sequenti cantu apparebit.
+
+

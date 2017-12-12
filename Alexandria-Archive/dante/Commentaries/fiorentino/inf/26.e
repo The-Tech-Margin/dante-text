@@ -1,0 +1,623 @@
+	|Proemio.~  Dividesi il presente capitolo in quattro
+parti; la seconda parte cominci quivi: ^Noi ci partimmo~ {v. 13};
+la terza quivi: ^Rispose a me~ {55}; la quarta et ultima quivi:
+^Lo maggior corno~ {85}.  Nella prima parte, seguendo l'Auttore
+la materia usata, poi che ha trattato nel precedente capitolo di
+coloro che contro a giustizia l'altrui s'ingegnorono di t@orre et
+recarlo a loro uso; pensando quanto questo vizio @e pericoloso et
+abominevole, et veggendo tanti cittadini di Firenze essere puniti
+per cos@i vituperevole peccato, recando in parte alla citt@a et a
+s@e la vergogna de' suoi cittadini; in questo presente fa una
+esclamazione contro alla citt@a di Firenze, che @e uno colore
+rettorico: ^Exclamatio est quae conficit significationem doloris
+aut indignationis alicujus personae, hominis, aut urbis, aut
+loci, aut rei cujuspiam complantionem~; Exclamatione, @e che fa
+una significazione di dolore, o di indegnazione d'alcuno uomo,
+ovvero di citt@a, o di luogo, o compiagnersi d'alcuna cosa, come
+fa al presente l'Auttore della sua citt@a.  Nella seconda parte @e
+da sapere che l'Auttore comincia a trattare di coloro che tutto
+il loro sapere mettono in ingannare per astuzia et per callidit@a,
+stendendosi per tutto il capitolo.  Tiene questo vizio l'uno
+degli estremi della prudenzia.  La prudenzia, come virt@u, tiene
+il mezzo: il grado di sotto, et uno degli estremi @e la semplicit@a
+et la sciocchezza; il grado di sopra @e l'astuzia et la callidit@a. 
+Et pare che questi tali, a cui Iddio ha dato sapere, o dalla
+natura loro sia proceduto, non avendo rispetto al donatore di
+tutte le grazie, che ogni cosa produce a buono fine, costoro
+quello che a bene pi@u che gli altri che non sanno doverrebbono
+dirrizzare e attendere a virt@u o a valore, egli si sforzono
+aoperare con astuzia et con ret@a il loro sapere, et in danno et
+in detrimento del prossimo.  Per la qual cosa l'Auttore,
+considerando quanto male s@eguita del loro operare, volendo che la
+pena sia conforme alla colpa, gli fa punire in questo ottavo
+cerchio in fiamme accese di fuoco, et dentro a queste fiamme
+gl'inchiude, per volere mostrare che sempre le loro operazioni
+furono coperte et ascose, per potere pi@u pienamente fornire la
+loro malvagia operazione; et cos@i copertamente sono per la divina
+giustizia puniti in queste fiamme del fuoco.  La terza et la
+quarta parte appariranno chiare nella sposizione del testo. 
+Vegnendo dunque alla lettera.
+
+	|1-3.  Godi Firenze poi~: Qui, com'@e detto, l'Auttore si
+volge verso la sua citt@a, dicendo ch'ella @e grande; et come che
+egli per lo contrario senso il voglia altrui mostrare, pure la
+citt@a di Firenze @e grande et famosa, et sparti i suoi cittadini
+per diverse parti del mondo, e cresciuta in brieve tempo, per@o
+che Firenze @e quasi delle pi@u nuove citt@a d'Italia.
+
+	|4-6.  Tra li ladron~: Ci@o furono Angiolo Brunelleschi,
+messer Buoso, messer Cianfa de' Donati, messer Francesco
+Cavalcanti, et Puccio Sciancato.  |E tu in grande orranza~: Dice
+l'Auttore ch'elli si vergogn@o d'essi cittadini, et Firenze non ne
+viene in orranza: et parla qui sincopato; usa quella figura che
+in grammatica si chiama sincopa, che toglie le sillabe del mezzo
+del nome, dicendo orranza per onoranza.
+
+	|7.  Ma, se presso al mattin~: Per che di questa materia
+fu trattato addietro in questo libro, non la distendo qui, se non
+che l'anima nostra nel sonno, per@o che non @e occupata da' sensi
+corporei essendo ristretta et unita in s@e, a' quali intende
+essendo l'uomo desto, poi nel sonno vuolsi ricordare delle cose
+passate, et non patito il cibo, che da quello @e offuscata,
+confusamente le sogna; ma in sul d@i alcuna volta, perch@e il cibo
+@e digesto, et l'anima non mette la sua potenzia ne' sensi
+corporei, essendo ristretta et unita in s@e, alcuna volta sogna
+del vero, et vede dinanzi a s@e, quasi indivina.  In sul fare del
+giorno sogliono i sogni apparire veri, dice il verso.
+
+	|8-9.  Di quel che Prato~: I Pratesi sogliono essere mal
+vaghi della signoria de' Fiorentini; et per@o l'Auttore, volendo
+mostrare che sinistri avverranno alla citt@a di Firenze, usa le
+parole del testo.  Quali fossono i sinistri non nomina; ma molti
+possono essere, che al tempo dell'Auttore avvennono, come fu la
+cacciata de' Bianchi che fu nel 1302 in fino nel 1303: l'arsione
+di Calimala messo per ser Neri Abati, mentre che i Bianchi et i
+Neri s'azzuffavono: la venuta dello imperadore Arrigo che fu nel
+1312: la sconfitta di Montecatino che fu nel 1315; ch@e tutte
+queste cose pot@e vedere l'Auttore, bench@e finga d'indivinare et
+pronosticare.
+
+	|12.  Che pi@u mi graver@a~: Quanto pi@u m'indugio, dice
+l'Auttore, pi@u mi grava non vedere punire le ingiustizie et i
+difetti loro secondo diritto giudicio.
+
+	|13-15.  Che n'avea fatti iborni~: Ci@o @e, noi tornammo su
+per quelle scalee, ci@o @e ruine, per le quali eravamo borni scesi,
+ci@o @e gombi et chinati, come va chi a tentone scende.
+
+	|18.  Lo pi@e senza la man~: Ci@o @e i piedi mi portavono,
+et colla mano m'appiccava; et la mano non si part$ia senza il
+piede, n@e il piede senza la mano.
+
+	|19-24.  Perch@e non corra~: Veggendo l'Auttore questi
+spiriti essere puniti qui per troppo vedere, et quello loro
+vedere messo in male operare, che tanto bene furono dotati dalla
+natura; pensando l'Auttore che la natura et la costellazione
+celeste era stata benigna inverso lui, et egli ricordando male
+avere operato il suo sapere; et in quelle cose fece, mentre fu
+giovane, in sue canzone, sonetti, et ballate, et forse poi in
+trattare di tornare a Firenze, forse delle cose non lecite, dice
+che, veggendo costoro cos@i puniti, s'@e compunto et pentuto, et
+affrena lo 'ngegno pi@u ch'ei non suole, per che non trascorra che
+la virt@u nol guidi.  |S@i che, se stella buona~: S@i che, se buona
+costellazione l'ha fatto bene disposto, o migliore cosa, ci@o @e la
+provvidenzia divina, ch'elli non s'invidj, non abbia invidia del
+bene che Iddio gli ha dato.
+
+	|25-33.  Quante 'l villan~: Ci@o @e quante lucciole l'anno
+del mese di giugno vede il villano la sera per lo valli et pe'
+campi, quando @e tornato dal lavorio, dov'elli ha vendemmiato, ci@o
+@e ricolto et mietuto, et dov'egli hae arato, di tante fiamme
+risplendea l'ottava bolgia.
+
+	|34-39.  Et qual colui~: Egli si legge nel quarto libro
+de' Re che Elia, grandissimo profeta, Iddio, volendolo riserbare
+infino al fine de' secoli con No@e, gli disse ch'egli passasse il
+fiume Giordano, et ch'egli il volea portare altrove.  Elia ubbid@i
+il Signore, et disse a Liseo suo discepolo ch'egli volea ire di
+l@a da Giordano per comandamento di Dio: Liseo si pens@o troppo
+bene che Iddio per la sua santit@a non volesse che Elia stesse pi@u
+in terra; ma ch'egli nel volesse portare al cielo.  Tennegli
+dirietro: Elia pi@u volte gli disse ch'egli si ritornasse verso la
+sua terra: Liseo non ne volle fare niente, ma continuamente and@o
+con lui, et giunti a Giordano, Elia gett@o in su l'acqua il suo
+mantello; et in su quello per divino miracolo passato il fiume,
+ultimamente, doppo molti scongiuri, Elia disse a Eliseo come
+Iddio nel voleva portare altrove.  Eliseo il preg@o ch'egli avesse
+doppio spirito, ci@o @e ch'egli gli lasciassi il suo spirito
+profetico sopra il suo; come che di questo, come s'intenda, ci
+abbia varj opinioni.  Elia gli disse: Quando tu mi vederai
+portare, s'io ti rispondo di niente in su quello punto, tu arai
+quello che tu addimandi.  Vennono ultimamente fiamme da cielo in
+guisa d'uno carro, et cavalli di fuoco che guidavono questo
+carro: su vi fu posto Elia et portato nel paradiso terrestre,
+come si dice.  Liseo, volti gli occhi al cielo, cominci@oe a
+gridare: ^Pater mi, currus Israel auriga, memento~; Padre mio,
+carro d'Israel, ricorditi di me.  Elia si lasci@o cadere il suo
+mantello, il quale Liseo ricolse, et conobbe essere stato
+esaudito.  Tornato adunque verso la sua citt@a, dolendosi, dicendo
+come Elia s'era partito, et andandosi dolendo per la terra senza
+nulla in capo, i fanciulli cominciorono a farsi beffe di lui,
+gridandogli dirietro: ^Descende, calve, descende~, per@o che Liseo
+era tutto calvo.  Liseo, sentendo tanta noja, preg@o divotamente
+Iddio che mandasse due orsi che 'l vendicassono da costoro, et
+cos@i intervenne; ch@e subito apparvono due orsi che tutti uccisono
+quelli giovani et fanciulli.
+
+	|40-42.  Tal si movea~: Ci@o @e tal fiamma qual fu quella
+che ne port@o Elia, ne vedea simili in apparenza molte per quella
+valle, nelle quali erano rinchiusi spiriti.
+
+	|43-45.  A veder surto~: Vuole dire l'Auttore che,
+levato, si guardava sopra il ponte nel fosso, faccendosi innanzi
+verso la sponda, per vedere meglio.  ^Surgo, surgis~ in
+grammatica @e per Stare ritto.  |Senza esser urto~: ^Urgeo, urges~
+in grammatica sta per Spignere, ci@o @e, senza essere sospinto,
+sarei caduto.
+
+	|52-54.  Che par surger dalla pira~: Gli antichi pagani
+soleono i corpi de' nobili uomini doppo la morte fare una gran
+catasta di legne, et in su quella porre il corpo morto et
+arderlo, et seppellire in uno vaso la cenere: et questa tal massa
+chiamavono Pira.  Avvenne adunque, per quello che dice l'Auttore,
+che, secondo che scrive Stazio nella sua ^Tebaida~, avendo
+Creonte re di Tebe fatto comandamento che i corpi morti non
+fossono seppelliti, com'@e stato detto innanzi; et morti nella
+battaglia Eteocle et Polinice fratelli, Antigone loro sirocchia,
+non ostante il dolore, cercava per lo campo di Eteocle, et Argia
+figliuola del re d'Arcadia, moglie di Polinice, partitasi per la
+novella, et venuta nel campo, cercando del corpo del marito,
+s'abbatt@e con Antigone sua cognata; et trovati i corpi del re
+Eteocle et di Polinice, et fatta una gran pira di legname et
+postovi su costoro per ardere al loro modo antico et paganico,
+parve, per divino miracolo, che l'odio che avevono avato questi
+due fratelli ancora sel serborono doppo la morte: le fiamme che
+uscivono della pira il manifestarono, per@o che sempre, assai
+seppono acconciare il fuoco, le fiamme d'esso sempre divisorsi,
+per modo che l'uno corno della fiamma andava in una parte et
+l'altro in un'altra; et cos@i dice l'Auttore che facea la fiamma
+che vidde.
+
+	|55-57.  Ulisse e Diomede~: Chiaro appare che, come e'
+furono compagni fedelissimi insieme nell'oste de' Greci allo
+assedio di Troja, cos@i insieme quivi sono puniti dalla divina
+giustizia.
+
+	|58-60.  L'aguato del caval~: Poi che l'Auttore hae
+nominati chi sono quelli che sono nella fiamma, viene a dire de'
+loro difetti, de' quali sono qui puniti.  Onde egli @e da sapere
+che Ulisse fu savissimo uomo et sagacissimo, figliuolo di Laerte:
+et avuto responso i Greci che dovevono andare allo assedio di
+Troja d'Apolline loro iddio, che mai quella citt@a non s'arebbe,
+se Ulisse non andasse con loro, Ulisse, che avea sentito il
+fatto, et vedea bene come le cose deveano andare per la sua
+sagacit@a, per non andare, s'infinse d'essere pazzo.  Ora i Greci,
+il re Agamenon et gli altri, mandarono per Ulisse, et fra gli
+altri che v'andorono fu Palimede; et giunti nel suo paese ch'era
+sterilissimo paese et povero, Ulisse che sent@i la loro venuta,
+infingendosi d'essere pazzo, quando giunsono a lui, cominci@o ad
+arare, et avea sale, et dicea che volea seminare.  Palamede
+disse: Io giugner@o costui; prese il figliuolo et poselo innanzi
+al solco.  Ulisse, per non fare male al figliuolo, volse i buoi. 
+Allora conobbono esso non essere pazzo: o volesse egli o no il
+menorono nell'oste di Troja.  Ora Ulisse subito squadr@o, et pens@o
+di recarsi ad amico Diomede, che fu figliuolo di Tideo cognato di
+Polinice, del quale @e stato fatto menzione.  La cagione perch@e
+Ulisse il tolse per compagno fu perch@e Diomede era dei pi@u
+valenti cavalieri che fossono nell'oste, et Ulisse il pi@u savio:
+pens@o col senno et colla prodezza che ogni cosa loro dovesse
+venire fatto.  Ora, essendo molta gente consumata, come scrive
+Omero, et de' Greci et de' Trojani, tennono i Greci pi@u trattati
+per avere la terra, et di tutti fu capo Ulisse, come il pi@u
+astuto.  Ora, come scrive Virgilio (ch@e l'Auttore il seguita qui
+in ogni cosa) nel suo II libro dell'^Eneida~, i Greci, infintosi
+di partire dall'assedio di Troja, si nascosono in una isola
+presso a Troja, nomata Tenodos, et lasciorono presso a Troja uno
+cavallo grandissimo fatto a onore della dea Pallas, nel quale
+inchiusono cavalieri, pensando d'avere Troja per questo modo,
+come venne loro fatto: et tutto questo fu ordinato per la
+sagacit@a d'Ulisse.  Lasci@o Ulisse ancora uno suo parente, nome
+Sinone, legato nel campo, et ammaestrollo di ci@o che avessi a
+fare.  I Trojani usciti fuori, credendo ch'e Greci fossono
+partiti, ultimamente trovarono questo Sinone et menorollo inanzi
+al re Priamo.  Sinone, come falso uomo, doppo molte astute
+parole, come recita ivi Virgilio, disse finalmente che i Greci,
+che viddero indegnata la deit@a di Pallas, per potersi partire
+ch'ella non gli pericolasse in mare, feciono questo cavallo a suo
+onore, et feciorlo s@i grande, perch@e non capassi per la porta: Et
+pertanto, soggiunse, se voi fate venire dentro il cavallo, la
+qual cosa non sperorono i Greci, voi prosperrete sempre; et per
+dare colore a questa sua novella, disse come i Greci l'avevono
+preso per fare sacrificio di lui, et elli ultimamente s'era
+fuggito, et molte altre cose da dovergli credere, com'@e scritto. 
+I Trojani diedono fede alle parole; feciono mettere dentro il
+cavallo pieno di cavalieri armati; la notte seguente, fatto segno
+a' Greci ch'erono nascosi ne' campi, scesono del cavallo i
+cavalieri armati, per certi canapi; et i principali furono
+questi: Scesono per una fune due duchi, Tesandro et Steneleo, et
+il crudele Ulisse, Atamas et Toas et Pirro figliuolo d'Achille,
+et Menelao et Feo fabbricatore dello 'nganno del cavallo, et
+assalirono la citt@a, et tutta la missono sotto le fiamme; et
+allora n'usc@i Enea col figliuolo Ascanio, et navicorono colla
+loro brigata; et doppo molte cose che avvennono, i discendenti
+d'Enea fondaron la citt@a di Roma: et questo @e quello che dice
+l'Auttore, che da quello cavallo venne et usc@i il seme di che
+nacquono i Romani, et questo @e secondo le fizioni poetiche.  La
+verit@a fu che Antenore, Polidamas, Anchise et Enea, accozzati
+insieme una notte, pensorono di dare a' Greci la terra et tradire
+il re Priamo: mandorono quella medesima notte Polidamas a' Greci,
+che, s'egliono voleono assicurare loro et le loro case et genti,
+e' gli darebbono la terra.  A' Greci piacque il fatto.  Polidamas
+prese il saramento di tutti quelli principi de' Greci che gli
+atterrebbono il convenente, et egli mandorono Sinone parente
+d'Ulisse con Polidamas per fermare la convenenza co' traditori,
+et pigliare il loro saramento; et fatto questo, dissono i
+traditori a Sinone ch'egliono aspettarebbono i Greci al lato alla
+porta appresso a uno cavallo intagliato che v'era, et farebbono
+certi fuochi verso il campo, et allora si movessono: et cos@i
+feciono, et presono la terra, com'@e detto.
+
+	|61-62.  Piagnevisi entro~: Ci@o @e l'arte per la quale fu
+morta Deidamia: l'arte, ci@o @e la maestria di Tetis madre
+d'Achille et d'esso Achille.  Scrive Stazio, in quello libro
+ch'egli fa d'Achille, che rimase imperfetto et non compiuto, che
+Tetis dea marina et moglie di Pelleo, madre d'Achille, ch'ella
+diede a notricare Achille a Chirone centauro, il quale
+l'ammaestr@o in molte cose, et in essere leggeri et presto, et
+ancora nell'arte della medicina.  Ora avvenne che Tetis, veduto
+per sua arte che Achille, se andasse nell'oste de' Greci, vi
+morrebbe; et saputo ch'ell'ebbe come i Greci avevono avuto
+responso da' loro iddii che mai non arebbono Troja, se Achille
+non v'andasse, Tetis, dato ad Achille certo oppio et fattolo
+addormentare, il port@o da Chirone, ci@o @e da questo centauro
+infino a Sciro, a quella isola del re Licomedes; et giunta al re
+gli disse ch'era venuta per mettere una sua figliuola in quello
+monisterio di Diana, ove era la sua figliuola Deidamia: il re
+dimand@o chi era la sua figliuola: ella disse ch'era sirocchia
+d'Achille; il re si maravigli@o, per@o che mai non avea udito dire
+che Achille avesse sirocchia.  Poi Tetis disse ad Achille il
+fatto, com'ella il volea mettere in quello monisterio, perch@e i
+Greci nollo trovassono: Achille non volea per niente consentire
+di stare come monaca: Tetis priega Licomedes ch'ella possa vedere
+quelle monache, et venute ch'elle furono fuori, Achille getta
+l'occhio addosso a Deidam$ia, et piacquegli: la madre gli gett@o la
+tonica addosso, et dice Stazio che Achille, veduta Deidamia, pi@u
+lievemente diede nella tonica ch'elli non solea.  Ultimamente,
+essendo Achille nel monisterio, ebbe a fare di Deidamia, et
+nacquene Pirro.  Ora in questo mezzo i Greci, che cercavono
+d'Achille, mandorono Ulisse per trovarlo; et egli cerc@o in assai
+paese: nell'ultimo, arrivato in guisa di mercatante con merce al
+re Licomedes, perch@e si pens@o che Achille fosse in quello
+monisterio dov'era, con molte arti venuti alle donne, che
+mandorono per loro per vedere la loro mercatanz$ia, Ulisse disse
+al compagno ch'egli attendesse a mercatare et egli a guardare
+d'Achille; et come Ulisse il vidde grande pi@u che l'altre
+monache, pens@o che quello potesse essere Achille.  Avevono
+portate mercatanz$ie da uomini, ci@o @e spade, coltella et altre
+cose, et simili da donne, perle, specchj, et similia, affinch@e
+venisse loro fatto quello che avvenne.  Ultimamente Achille prese
+una delle spade, dove le monache pigliavono i pettini; et crolla
+et brandisce la spada, per modo che parve bene ch'ella uscisse
+del buono braccio.  Ulisse incontanente cognobbe questi essere
+Achille: disselo al re Licomedes; et non volendo Achille partirsi
+da Deidamia, n@e ella da lui per veruno modo, la cosa si scoperse. 
+Il Re sent@i il fatto, et che Achille avea avuto uno figliuolo di
+lei: parvelene male; et, se non fossono l'arti et le parole di
+Ulisse, sarebbono male arrivati.  Ultimamente questi imbasciadori
+ne menorono Achille al campo de' Greci.  Avvenne poi che Achille
+innamor@o di Polissena: Deidam$ia il sent@i: disperatasi d'Achille,
+finalmente s'uccise; et questo @e quello che dice l'Auttore.
+
+	|63.  Et del Palladio pena vi si porta~: Trovasi che di
+Dardano figliuolo di Giove nacque Eritanus, d'Eritano nacque
+Trous, che fond@o la citt@a di Troja, che fu nomata per lui: di
+Trous nacque Ilius, che fe Ilion la mastra fortezza di Troja:
+d'Ilius nacque Laumedon, di Laumedon il re Priamo.  Ora al tempo
+d'Ilius cadde per divino miracolo da cielo una immagine d'oro,
+dove era la figura di Pallas, et cadde nella citt@a di Troja.  I
+Trojani si maravigliorono: mandorono a sapere d'Apolline loro
+iddio quello che questo volea dire: fu risposto che quella
+immagine tenessono cara, per@o che, mentre ch'egli l'avessono,
+Troja non si potea perdere.  Il re Trous la tenne cara, et Ilius,
+et guardorolla cautamente con grandissima riverenzia: avvenne che
+poi, al tempo di Priamo, Ulisse per sue arti una notte la imbol@o;
+onde che avvenne che poi incontanente fu presa et arsa la citt@a
+di Troja.  La verit@a di questa fizione fue che Pallas @e la dea
+della sapienza, et infino a tanto che i Trojani l'avessono avuta
+non si perdea la citt@a: com'egli perderono il senno, perderono la
+terra, per@o che il senno perderono per l'astuzia d'Ulisse, che
+vidde et seppe pi@u di loro, come di sopra @e scritto.
+
+	|64-69.  Se posson dentro~: L'Auttore pare maravigliarsi
+come la voce organizzata possa uscire delle fiamme; et pertanto
+preg@o Virgilio come apparisce nel testo.  |Vedi che del dis$io~:
+Vedi che io mi piego verso essa fiamma; come fu detto innanzi
+ch'egli si piegava et chinavasi in su 'l ponte per meglio vedere.
+
+	|70-75.  La tua preghiera~: Tu dimandi cose giuste, et
+per@o non ti si debbe negare quello che chiedi: ^juste
+deprecantibus non est auxilium denegandum.~  |Ch'e' sarebbono
+schivi~: Dice Virgilio all'Auttore: |Lascia parlare a me~; et nol
+fece Virgilio perch'elli fussono Greci et l'Auttore Latino, per@o
+che Virgilio fu ancora Latino; ma per che Virgilio sapea la dioma
+greco et latino, et l'Auttore no; et per@o dice: Io m'intender@o
+meglio con loro che non faresti tu; o veramente che voglia
+intendere che, con ci@o sia cosa che l'Auttore voglia dire s@e
+essere sceso di quelli Romani che rimasono in Firenze quando nel
+principio si edific@o la citt@a, come addirietro @e stata fatta
+menzione, dove disse {XV, 76-77}: ^In cui riviva la semente santa
+Di que' Roman che vi rimason quando~; et la citt@a di Roma fu
+fondata da' discendenti d'Enea, che furono nemici de' Greci: et
+per conseguente l'Auttore, come di quelli discendenti, per
+origine verrebbe a essere nimico de' Greci.
+
+	|80-84.  S'i' meritai di voi mentre ch'io vissi~:
+Virgilio gli scongiura et priega, per@o che dice avere meritato
+grazia da loro, con ci@o sia cosa che egli facessi versi di loro,
+i quali versi conservono la loro fama et fannola perdurabile.
+
+	|85-87.  Lo maggior corno della fiamma~: Questi, di cui
+parla l'Auttore, fu Ulisse; et continuando la sua storia, come
+scrive il preallegato auttore, giunto ch'elli fu nel campo de'
+Greci, innanzi ch'elli facessi il fatto del cavallo, si pens@o con
+astuzia di vendicarsi di Palimede, ch'era stato cagione della sua
+venuta nel campo, come @e stato detto.  Andava Palimede spesse
+volte sconosciuto in Troja et nel cospetto del re, et ci@o ch'egli
+udiva (ch@e stava attento), ritornava et avvisava i Greci; et una
+volta fra l'altre Elena che 'l conobbe gli accenn@o ch'egli si
+partisse; et se non fosse Elena, sarebbe stato giunto.  Ora
+Ulisse, come astuto, stava a costui a' passi: fece un d$i uno
+corriere uccidere, et missegli una lettera nella scarsella
+ch'elli dett@o et contraffece, la quale finse che mandasse il re
+Priamo a Palimede dicendo: Ora @e il tempo della tua impromessa;
+et pertanto, se vedi ch'io possa venire assalire i Greci per la
+maniera ch'@ai detto; et qui finalmente comincia a richiedere
+costui d'assai tradimenti, che dicea che avea promesso di fare
+contro a' Greci; et poi conchiuse ch'egli gli mandava certa
+quantit@a di denari, i quali egli mostrava d'avere avuti per dare
+compimento alla tradigione.  Ora, trovata la lettera addosso a
+questo corriere ch'era morto, il grido si spande per lo campo:
+quelli maggiori de' Greci mandorono per Ulisse et dicongli il
+fatto: Ulisse mostra di maravigliarsi, et comincia a pensare; et
+per dare colore al fatto, disse che in su questa cosa non si
+volea correre; et ch'elli si cercasse, prima che pi@u oltre si
+procedesse, se 'l fatto era vero, et s'elli avea avuti i denari
+per veruno tempo.  Mandossi cercando, per consiglio d'Ulisse, et
+ultimamente fu trovata certa quantit@a di denari nascosi sotto il
+capezzale di Palimede, come Ulisse v'avea fatto nascosamente
+porre: onde tutti, credendo essere per questo il fatto vero,
+corsono a Palimede, et fu preso da' Greci, et ultimamente morto. 
+Avvenne, poi ch'e' Greci ebbono avuto Troja, Ulisse si part@i con
+certi suoi compagni, navicando per lo mare del Leone, come
+appresso si dir@a; et cos@i and@o navicando et errando per lo mondo:
+dieci anni stette all'assedio di Troja, et dieci anni navic@o per
+mare errando.  Et lasciando stare come Ulisse, uscito della nave
+con certi suoi compagni per rinfrescarsi, et abbattutosi a
+Polifemo gigante, che non avea se non un occhio nel mezzo della
+testa, grande come uno scudo, il quale come gli vidde gli prese
+et missegli in sua caverna, et a uno a uno gli cominci@o a
+mangiare; et per non prevalicare, che non si conti l'astuzia
+d'Ulisse in questa parte, dimand@o Polifemo Ulisse come egli avea
+nome: Ulisse, celatogli il nome, disse ch'egli avea nome Uti, che
+in Greco vuol dire Non niuno; poi, veggendo Ulisse non potere
+uscire della caverna, con un legno acuto et arsicciato, dormendo
+Polifemo, gli trasse quello occhio: et gridando Polifemo, et non
+trovando Ulisse, che s'era nascoso fra 'l bestiame suo, trassono
+gli altri Cicropi, ci@o @e figliuoli di Vulcano iddio del fuoco al
+grido, et dimandorono: <Chi t'ha fatto male?>, Polifemo disse:
+^Uti~, che vuole dire Non niuno.  Costoro, udendo dire non niuno,
+si tornorono addirietro.  Poi si vest@i Ulisse di cuoja delle
+bestie di Polifemo, et cos@i vest@i i compagni; et Polifemo, stando
+in sull'uscio della spelonca, mandando fuori il suo bestiame per
+cercare poi tritamente per la spilonca d'Ulisse, Ulisse gli usc@i
+tra gambe: quelli gli pose la mano addosso, trovollo piloso,
+credendo ch'egli fosse dell'altre sue bestie, per@o che n'usc@i
+carpone, non gli disse niente, et a questo modo camp@o Ulisse. 
+Poi, navicando tornato alla sua nave, secondo le fizioni
+poetiche, arriv@o a Eolo re de' venti, il quale egli preg@o ch'egli
+rinchiudessi certi suoi venti, che troppo gli davono noja.  Eolo
+gli rinchiuse in uno cuojo d'animale, et dielli a Ulisse, et
+dissegli ch'egli non gli sciogliesse, et poterebbe andare
+dovunque egli volesse.  Avvenne che infino che Ulisse tenne i
+venti rinchiusi, navic@o dovunque egli volle.  Un d@i uno suo
+compagno, per vedere, sciolse la valigia: i venti uscirono di
+fuori, feciono tornare Ulisse addirietro per assai spazio, et fu
+quasi pericolato.  La verit@a della fizione fu che questi venti
+rinchiusi sono gli appetiti disordinati et concupiscibili, i
+quali, mentre che sono legati nella valigia della ragione, pu@o
+l'uomo andare dovunque egli vuole; altri apre loro, sono cagione
+di sospignere ogni uomo dovunque egli vogliono.  Ora avvenne che,
+poi che Ulisse arriv@o presso a Gaeta verso Napoli, dove era
+Circes figliuola del Sole, la quale co' suoi incantamenti fece i
+compagni d'Ulisse, quale diventare leone, quale orso, quale lupo,
+Circe si tenne Ulisse uno anno, et ebbene uno figliuolo.  Poi
+Ulisse, che si volea pur partire, assal@i un d@i Circes con una
+spada, et minacciolla che, s'ella non disfacesse gl'incantamenti,
+ch'egli l'ucciderebbe.  Ella gli disfece, et Ulisse co' suoi
+compagni ritornati uomini, si partirono, et tornorono in Grecia
+con Ulisse ne' loro paesi.  Ora, se queste cose dette d'Ulisse
+sono storie o favole poetiche, molti ne sono indifferenti; et
+sono degli autori degni di fede che dicono che pu@o essere,
+allegando sopra a ci@o la Scrittura santa, alla quale non si pu@o
+contradire, come quelli magi di Faraone feciono delle verghe
+diventare serpenti; et come Nabuccodonosor stette sette anni bue,
+che a lui parea essere et ad altrui parea che fosse; ma, come che
+'l fatto si sia, s'elli @e vero o no, non @e della presente
+materia.  Ma, per venire al fine d'Ulisse, cresciuto questo suo
+figliuolo et di Circe, disse alla madre che volea ire a vedere
+Ulisse suo padre.  Ora Ulisse, per che avea avuto per risponso,
+et per sua arte, che 'l figliuolo il dovea uccidere, tutta
+l'isola disarm@o, et dovunque avea signor$ia facea guardare. 
+Arriv@o nell'ultimo questo suo figliuolo all'isola et scontrossi
+in Ulisse, et non cognoscendosi insieme, volendo entrare, et
+Ulisse negando l'entrata, in questa quistione fed@i a morte
+Ulisse; et Ulisse per alquanto si pens@o: dimand@o chi egli era, et
+trov@o ch'era il suo figliolo et di Circe; et in questo modo
+ultimamente fu morto dal figliuolo: et di questo s'accordono gli
+autori che parlano d'Ulisse.  Ora, per che l'Auttore pare
+scordarsi forte, come suona nel testo, @e qui d'arguire che
+l'Auttore intese per Ulisse, quando egli dice ch'egli and@o
+navicando per lo mare, et mor@i in quello esercizio di venire
+sperto del mondo, gli uomini virtuosi; et per Ulisse intese
+poeticamente essa virt@u della sperienza, seguendo Orazio che
+scrive nella seconda sua pistola a Lelio, quel suo amico giudice
+romano, che comincia: ^Trojani belli scriptorem maxime Leli~; io
+scrivo, dice Orazio, le battaglie de' Trojani, Lelio, quando tu
+stai a Roma et gridi et piatisci; poi pi@u gi@u, per venire al
+nostro proposito: ^Rursus quid virtus, et quid sapientia possit,
+Utile proposuit nobis exemplar Ulysses, Qui domitor Trojae~ etc.:
+Quello, dice Orazio, che raguard@o le battaglie de Trojani et i
+costumi degli uomini, Ulisse, propose a noi per utile esemplo
+quello che possa la virt@u, et quello che possa la sapienza etc. 
+L'altro spirito ch'era inchiuso nell'altro corno della fiamma fu
+Diomede, compagno grandissimo d'Ulisse, com'@e detto di sopra. 
+Questo Diomede, navicato molto tempo per mare, ultimamente arriv@o
+in Puglia appi@e del monte santo Agnolo, et ivi con sua gente si
+pose et fece una terra; et dice Virgilio nell'VIII libro che
+Turno mand@o in quello luogo per ajuto a Diomede, dobbiendo
+combattere con Enea, perch@e sapea che Diomede era nimico de'
+Trojani, dove dice: Fu mandato Venolo alla citt@a del grande
+Diomede, et fugli imposto che gli domandassi ajuto, et che
+dicesse che i Trojani si volevono stare in Italia, et come Enea
+era loro duca, et aveva menati seco nel navilio i suoi iddii
+della patria.  Diomede rispose ch'egli avea provato i Trojani et
+Enea, et ch'elli sapea la loro forza, et pertanto non intendea
+d'impacciarsi con loro.  Ora, lasciando stare i fatti di Diomede
+finalmente egli mor@i in questo luogo, dove i suoi lungo tempo
+l'onororono come de' loro iddii.
+
+	|88-89.  Come fusse la lingua~: Dice che la fiamma dava
+quelli guizzi et tratti che d@a la voce nell'aere quando l'uomo
+parla.
+
+	|91.  Mi diparti' da Circe~: Chiaro appare ch'ella lo
+'ngann@o, per quello ch'@e detto.
+
+	|92-93.  Prima che s@i Enea~: Scrive Virgilio nel
+principio del VII libro che a Gaeta mor@i la b$alia d'Enea, ch'ebbe
+nome Gaeta, et per lei ebbe quello luogo nome Gaeta, et per@o
+dice: ^Tu quoque litoribus nostris Eneja nutrix Aeternam moriens
+famam Gajeta dedisti~ etc.
+
+	|94-96.  N@e dolcezza di figlio~: Qui mostra l'Auttore con
+quanti sproni @e l'uomo punto dall'amore; et dice che l'amore del
+figliuolo pugne con una dolcezza, et quello del padre con una
+piet@a, et quello della moglie con uno debito modo.  |La qual
+dovea Penelope~: Penelope fu moglie d'Ulisse, et fu delle pi@u
+caste donne del mondo; et dice Ovidio nella prima pistola che il
+padre Iecareo infestava la figliuola ch'ella prendesse marito;
+ella non volle mai consentire; et dice ella scrivendo a Ulisse
+queste parole: ^Increpet usquam licet, tua sum, tua dicar
+oportet, Penelope conjux semper Ulixis ero~; riprendami, dice, et
+solleciti mio padre quantunche egli vuole che io prenda marito,
+conviene che io sia sempre tua, et tua donna sia chiamata: io
+sar@o sempre moglie d'Ulisse.  Et cos@i stette vedova senza il suo
+marito XX anni: ^Et pia Penelope lustris errante duobus, Et
+totidem lustris bella gerente viro~: X anni stette Ulisse
+all'assedio di Troja, et X anni andando per lo mondo; s@i che bene
+era tenuto Ulisse di contentare Penelope, et farla lieta di s@e
+medesimo, poi che tanto l'amava.
+
+	|97-99.  Vincer poter dentro~: Ci@o @e tutte queste cose,
+non la dolcezza del figliuolo, il debito amore della moglie, la
+piet@a del padre nol poterono ritenere.
+
+	|102.  Dalla qual non fui deserto~: Che mai non mi
+abbandon@o.  |Deserto~, ci@o @e abbandonato, et viene da questo
+verbo ^desero deseris~, come sanno i grammatici.
+
+	|103-105.  L'un lito et l'altro~: Io vidi, navicando per
+lo mare del Leone ovvero mediterano, ch'@e uno braccio di mare che
+si muove sotto il mezzo d@i et vanne infino in Spagna, infino nel
+ponente, e divide Affrica da Europa; et per@o dice l'Auttore che
+Ulisse vidde l'uno et l'altro lito infino al Marrocco, ci@o @e
+infino a Mauritana, che @e una provincia nello estremo di Spagna;
+et prima avea veduta l'isola di Sardigna, et l'altre isole et
+terre che bagna quello mare.
+
+	|107-111.  I suoi riguardi~: Sotto Sibilia, che @e una
+citt@a in Spagna, pose Ercole certi segni nel mare, che ancora vi
+si chiama le Colonne d'Ercole, per dare a intendere altrui che
+niuno navicasse pi@u oltre, per@o che ivi @e il termine del nostro
+polo, et da indi in l@a s'ascende nell'altro polo, nell'altra
+terra ch'@e sotto a noi, alla quale non si pu@o scendere senza
+pericolo di morte.  Dice ancora Ulisse che da man destra,
+navicando per quello luogo, si lasci@o quella citt@a di Sibilia, et
+dalla manca quell'altra citt@a ch'@e chiamata Setta, che @e in
+Mauritania.
+
+	|112-120.  O Frati, dissi~: Conforta i suoi compagni
+dicendo che 'l vivere degl'uomini @e una picciola veghia de'
+nostri sentimenti, a rispetto di quello che rimane doppo la
+morte, ci@o @e l'anima che vive in etterno.  Non vogliate adunque
+negare a quelli che hanno a vivere doppo noi la sperienza delle
+cose, che fia quella cosa che vi dar@a fama doppo la vostra morte. 
+|Dirietro al sol del mondo~: Ci@o @e, non vogliate negare la
+sperienza che voi non vogliate cercare ci@o ch'@e sotto al nostro
+polo, dove riluce il sole del mondo, ci@o @e questo sole che noi
+veggiamo, et non v'abita gente che possa ridire quello che ivi @e.
+
+	|121-123.  I miei compagni~: Ci@o @e, io mossi tanto
+l'animo de' miei compagni con questa piccola orazione, et furono
+s@i volonterosi a camminare, che, bench@e io avessi poi voluto, non
+gli arei potuti ritenere.
+
+	|124-125.  Nostra poppa nel mattino~: La poppa @e la parte
+dirietro della nave; et per@o dice: Volta la parte dirietro della
+nave verso il levante, e la prora verso la parte di sotto,
+facemmo de' remi ali, ci@o @e, correndo come uccelli per lo
+ascendere del mare che fa in quelle parti, andando verso l'altro
+polo.
+
+	|126.  Sempre acquistando~: Egli si partiano da questo
+nostro emisperio, et andavono in quel di sotto; sicch@e di
+necessit@a era che, movendosi di quass@u a mano ritta, sempre
+andassono nell'altro a mano manca; onde dice Lucano nel quarto
+libro: Voi d'Arabia, che vi movesti dalla parte di sotto, venendo
+verso il nostro ponente, vi maravigliasti quando vedesti l'ombra
+delle cose non andare a mano sinistra come vanno nel vostro paese
+di sotto onde vi partisti.
+
+	|127-129.  Tutte le stelle gi@a~: Erono tanto navicati
+ch'ellino la notte viddono tutte le stelle del polo di sotto et
+di quel cielo, et di questo nostro cielo tanto basso parea loro,
+che quasi toccava il mare; et dice ch'elli vedeano l'una
+tramontana et l'altra, che appunto a corda si rispondono insieme:
+et questo @e possibile, se si pu@o tanto andare che si veda l'una
+tramontana et l'altra: et pare a chi guarda, per la distanzia,
+quando altri @e in parte che niuna montagna gli occupi che
+l'occhio si possa bene vedere innanzi, egli pare molto dalla
+lungi che il cielo si posi in sul mare.
+
+	|130-132.  Cinque volte racceso~: Qui vuole mostrare
+l'Auttore che costoro avevono navicato cinque mesi per questo
+mare; onde egli @e da sapere che la luna non ha lume da s@e, ma @e
+corpo diafano, disposto a ricevere lume; et tanto quanto ne vede
+il sole tanta ne risplende della luna: e sempre sopra a noi, o
+altrove, la met@a della luna @e accesa et l'altra met@a @e oscura et
+non luminosa; et questo si vede a occhio, che una pietra tonda,
+ponendola al sole, sempre la met@a sar@a chiara, et l'altra met@a
+ombrosa.  Ora ogni mese s'accende la luna una volta sopra noi et
+@e piena; sicch@e, se cinqne volte era raccesa la luna, cinque mesi
+aveano navicato.
+
+	|133-135.  Quando m'apparve una~: Qui vuole mostrare
+l'Auttore che Ulisse era giunto di sotto da noi, per@o che dice
+che vidde quella montagna alta, ci@o @e quella montagna del
+paradiso terrestre ch'@e alta infino al cerchio della luna; onde
+quasi, dove altri @e in quello altro emisperio, @e possibile
+vederla per la sua altezza, s@i che, essendo Ulisse sotto quello
+polo, vidde questa montagna, ch'@e appunto a piombo sotto la citt@a
+di Jerusalem, et sotto monte Sion.
+
+	|137-141.  Che dalla nuova terra~: Dice l'Auttore che si
+lev@o uno vento, che si chiama Turbo, del quale @e stata fatta
+menzione nel terzo capitolo di questo libro, il quale vento muove
+la polvere, et ogni cosa che pu@o leva in giro: et cos@i dice
+Ulisse che quello vento mosse la sua nave, e tre volte la gir@o;
+alla quarta volta la poppa della nave, ci@o @e la parte dirietro,
+and@o in alto, et la prora and@o sotto, ci@o @e la parte dinanzi
+della nave.
+
+	|142.  Infin che 'l mar~: In fin che il mare, che prima
+s'aperse quando noi andammo sotto, si chiuse sopra noi.

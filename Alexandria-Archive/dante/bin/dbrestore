@@ -1,0 +1,14 @@
+#! /bin/sh
+
+# Use a tar backup (see dbdump) to restore a previous version of the database
+
+cd $Dante/DANT
+
+echo ""
+echo -n "Mount tape, hit return when ready..."
+read JUNK
+echo ""
+tar xvm
+echo ""
+echo -n "NOTICE:"
+grep Stopword form.db

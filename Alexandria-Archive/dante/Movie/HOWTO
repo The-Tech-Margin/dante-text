@@ -1,0 +1,119 @@
+This file describes how to make a Dante Project "movie."  A movie is
+a canned DDP session, edited and recorded so that it can be shown on
+an IBM PC, even if there is no connection to the Dante Project
+database.  I assume you are familiar with DOS and Unix.
+
+In short, to make a movie you need to prepare a PC diskette that
+contains a bootable version of DOS (so you aren't dependent on there
+being a DOS on the PC you are using), the movie file, and a small C
+program called "show," which displays the movie file on the PC
+screen in small pieces.
+
+To make a movie diskette, follow these steps.  (Command are shown in
+double quotes; these are *not* part of the command.)
+
+1. Decide on the script.  This means running through a ddp session
+to determine which searches and options you want to show off.  Your
+plan should be complete and exact, since typos during the making of
+the movie will have to be edited out by hand.
+
+2. Log onto eleazar.  When you are asked what type of terminal you
+are using, type "ibmpc" even if you aren't really using one.  This
+will cause BRS and the ddp command to generate the correct special
+characters for the PC.  If you aren't really using a PC for this
+session, some characters may be scrambled, but ignore that for now.
+
+3. Change to a convenient directory.
+
+4. Run the script(1) command.  Remember that it creates a file named
+typescript, overwriting any existing file by that name.
+
+5. Issue the ddp command and run through your desired session.  Try
+not to make typos (unless you want to show how ddp responds to
+errors).  Typos will be captured along with the good stuff and will
+have to be edited out carefully later.
+
+6. When your ddp session is complete and you are back at the Unix
+command prompt, type control-D to terminate the script program.
+
+7. Rename your script file and make it read-only for safety.  Type
+"mv typescript movie.script; chmod 444 movie.script" to do this.
+(You may use a different name than "movie.script.")
+
+------
+This movie.script file is your raw movie.  It contains special
+characters like the accented letters.  Some Unix programs will
+gratuitously alter these characters, which you do *not* want,
+so don't use other programs on this file.  For example, don't
+mail it.  You may use cp or mv, however.
+
+The next task is to edit the script file with vi(1) to clean it up
+and to insert the special "stop character" that the show program on
+the PC will use to segment the display.  The stop character is a
+control-L.
+
+Since vi is one of those programs that alters special characters,
+you need to "hide" them from vi by running the file through cat -v,
+then edit the result, then reverse the process with the program
+named uncatv (a DDP program).
+-------
+
+8. Filter the script file through cat -v.  Type the command
+"cat -v movie.script > movie.catv".  Again, your names may differ.
+
+9. Edit the catv'd file with vi.  Remove any unwanted lines at the
+top and bottom of the file.  Fix any typos you made.  Then insert a
+control-L at each place where you want the movie to pause.
+Typically this is immediately before and after each response the
+user types.  Where the user just types a carriage return, place a
+single control-L.
+
+10. Reverse the catv-ing of the file.  Type the command
+"uncatv < movie.catv > movie".  Note that you must redirect the
+input file into uncatv; it does not read command line arguments.
+You should make this final file read-only for safety.  Type
+"chmod 444 movie".  The file "movie" is now ready to transfer
+to the PC.
+
+11. Go to the PC.  I assume that you already have a work directory
+on the PC's hard disk where you have the files show.c, show.exe.
+If you don't, make one, transfer file show.c.dos from this Unix
+directory to the PC, naming it show.c, and compile it on the PC,
+creating show.exe.  If you can't do that, you can try transfering
+the show.exe in this directory.  Be sure to use the "sd" command.
+
+12. Place a new disk in drive A.  *All data on this disk will be
+overwritten by this procedure.*  Format the diskette and copy DOS to
+it by typing (on the PC!) the command "format :a /s".
+
+13. Copy the file ansi.sys from the root directory of your PC to a:
+by typing "copy \ansi.sys a:".
+
+14. Change to your working directory.  Copy show.c and show.exe from
+your working directory onto the diskette by typing "copy show.* a: /v".
+
+15. Change to the a: directory by typing "a:".
+
+16. Start up mlink and log onto eleazar.  Use whatever terminal type
+you usually use.  Cd to the directory where the movie file is,
+presumably this directory.
+
+17. You will now transfer several files from Unix to the PC.  Start
+up mlink on Unix by typing "mlink -h".
+
+18. When mlink prompts for commands, enter these commands:
+	st config.sys config.sys
+	st README.dos readme
+	sd movie movie
+Note that two are st and one is sd.  Each command will cause mlink
+to transfer a file.
+
+19. When all files are transferred, you are through.  type a "q" to
+terminate mlink on Unix, logout, terminate mlink on the PC by typing
+the escape character (control-A on mine) and 'q'.
+
+20. Test the movie diskette by booting the PC from that diskette and
+then typing "show movie".
+
+							Steve Campbell
+							3 October 1990

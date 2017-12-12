@@ -1,0 +1,33 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id SAA17836
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 18:28:53 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id SAA01043
+	for <Steve.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 18:28:52 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 46072 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67460-1456>; Sat, 9 Jan 1999 18:28:44 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA08388
+	for <Steve.Campbell@dartmouth.edu>; Sat, 9 Jan 1999 18:28:42 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA26165
+	for <Steve.Campbell@dartmouth.edu>; Sat, 9 Jan 1999 18:28:41 -0500 (EST)
+Message-ID: <3697E635.7F910977@princeton.edu>
+Date: 	Sat, 09 Jan 1999 18:28:53 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: erratum
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Pietro3: Inf. 3:
+
+	"in{t}endit" = intendit [no squiggly brackets]
+
+I have changd this in 03.html and made a note in History.  But we need
+to change in database.

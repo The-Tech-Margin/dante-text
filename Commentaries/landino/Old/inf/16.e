@@ -1,0 +1,436 @@
+	|1-9.~  [c.100v]|~ Bench$e sia mutato el canto Nientedimeno anchora 
+tracta el poeta della medesima materia: la quale ha tractato nel 
+superiore .xv. canto.  Pone chome presso al fine di questo cerchio 
+scontr@o una schiera di violenti contro a natura: e' quali furono 
+huomini militari.  Era adunque arrivato all'estremit@a del cerchio dove 
+l'acqua cadea nell'altro giro: et facea tal romore quale @e el rombo 
+cio@e el confuso strepito: el quale fanno l'arnie: cio@e e' vasi dove 
+sono le ape overo pecchie.  Quando si partirono tre ombre: cio@e tre 
+anime.  |Da una torma~ ^id est~ da una moltitudine.  Ma proprio in 
+latino ^turma~ significa squadra di cavagli: Et per@o faccendo mentione 
+d'huomini excellenti in facti d'arme dixe Turma.  Ma in nostra lingua 
+si pigla per ogni moltitudine.  |Sobto la pioggia~ Del fuoco.
+
+	|10-18.~  Sequita discrivendo le pene Et aggiugne che fu confortato da 
+Virgilio/ che dovessi aspettare chostoro.  Il che significa che ^etiam~ 
+la ragione vuole che habbiamo compassione degli huomini dannati 
+d'alchun vitio: et dobbiamo honorargli // c.101r se da altra parte in 
+loro risplende alchuna egregia virt@u.  |Et se non fusse 'l focho che 
+saecta / la natura del loco~: cio@e se non fussi el foco: el quale la 
+natura del locho saecta io giudicherei che la frecta stessi meglo a te 
+che alloro: Quasi dica se non che l'ardenti et sfrenate cupidit@a di 
+costoro ti potrebbon nuocere conversandogli molto familiarmente io 
+direi che tu piutosto dovresti cercare di conoscer loro per le loro 
+virt@u: che loro te.  Et certo dobbiamo esser cupidi conoscere 
+gl'huomini: ne' quali risplende alchuna virt@u: Ma non dobbiamo 
+gittarci nelle fiamme nelle quali loro ardono: cio@e imitare le loro 
+ardenti libidini.
+
+	|19-27.~  Questi giunti a noi e' quali ci fermamo per aspectargli 
+dixono ei: la quale voce significa dolore: et dice |L'antico verso~: 
+perch$e in consuetudine havevano di lamentarsi chos@i.  Et di poi 
+perch$e Danthe era fermo: et loro non si potean fermare: come di sopra 
+dimostr@o ser Brunetto S'aggiravano intorno.  Il perch$e tutta volta 
+andavono: et nientedimeno non si discostavono.  Il perch$e a un tracto 
+observavon la legge dell'andare: Et nientedimeno potean parlare chon 
+Danthe |Qual solen e' campioni~.  Fa comperatione di costoro a' 
+gladiatori.  E' gladiatori erono appresso gli antichi huomini e' quali 
+per dar festa al popolo combattevano nel theatro variamente: et con 
+v[a]rie armi: Nella quale battaglia el vincitore uccideva el vincto sel 
+popolo circunstante non lo salvava.  Adunque chome nel theatro 
+s'aggiravono e' gladiatori: Chos@i questi tre s'aggiravono intorno a 
+Danthe.  |E' campioni~: Questo vocabolo in lingua toscana significa 
+grande et forte.  Ma forse @e meglio in questo luogo intendere della 
+palestra: cio@e del giuoco delle braccia.  Faceano gl'antichi molti 
+giuochi ne' theatri: tra' quali era el giuoco delle braccia chiamato 
+palestra: nel quale huomini forti et exercitati si spoglavano: et 
+ingegnavonsi fare tale presa l'uno dell'altro che lo potessino gittare 
+a terra.  Questi stavon nudi per non potere essere ritenuti da' panni: 
+Et ungnevonsi: accioch$e quando eron presi dall'adversario chome 
+anguilla sdrucciolevoli potessino uscirgli delle mani.  Onde Virgilio: 
+^Exercent patrias oleo nitente palestras~.  Questi andavono intorno al 
+theatro l'uno dietro all'altro pensando in che modo potessino 
+abbracciare l'adversario allor vantaggio: et abbracciatosi di poi si 
+diguazavono et percotevonsi et sbattevonsi in terra: et questo 
+significa dicendo battuti et puncti.  Chos@i rotando/ In simil modo 
+aggirandosi queste tre anime andavono innanzi cho' passi: et el collo 
+rivolgevono sempre indrieto inverso Danthe.  Adunque el chollo facea 
+contrario viaggio a quel del pi@e.  Et @e conveniente chosa che 
+nell'huomo el quale procede in tale [v]itio el pi@e el quale si pone 
+per la cupidit@a va innanzi et tira alla libidine: et el collo torce 
+indrieto el capo dove @e la ragione: perch$e la ragione rifugge tanta 
+scellerateza.  Alquanti voglono exprimere per questo aggyrarsi la 
+natura del vitio che qui si punisce.  Imper@o che chome el cerchio non 
+ha n$e principio n$e fine: chos@i questo vitio non ha n$e principio n$e 
+fine naturale.
+
+	|28-45.~  Pone l'oratione di Iacopo Rusticucci cavalieri fiorentino: 
+la quale @e piena d'artificio: et @e in genere deliberativo: et capta 
+benivolentia et attentione dalle persone loro dimostrando: che bench$e 
+al presente et el luogo misero et infelice: nel quale sono: et 
+l'aspecto deturpato dallo 'ncendio gli dimostri vili et indegni 
+d'essere uditi.  Nientedimeno la fama buona acquistata nel mondo lo 
+debba commuovere.  |Loco sollo~ Sollo significa sollevato et non 
+condensato n$e rassodato.  Onde diciamo nell'arme la solla quando in 
+quella parte el ferro non @e ben condensato: et era questo luogho 
+sollo: perch$e era harenoso: et l'harena non si rassoda ma sta solla.  
+|Brollo~ proprio significa pelato.  Onde diciamo brollo // c.101v huomo 
+et spogliato d'ogni bene.  |Questi~ costui |l'orme di cui~: le vestige 
+et pedate del quale tu vedi pestare: perch$e seguitandolo poneva el 
+pi@e dove lui havea lasciato la forma del suo.  |Tucto che vada nudo et 
+dipelato~: cio@e bench$e vada nudo perch$e le fiamme gli hanno levato 
+e' peli et la pelle |Fu di magior grado~ cio@e di maggior dignit@a et 
+fortuna et riputatione |della buona~: cio@e casta et savia Gualdrada Fu 
+figliuol del conte Guido figliuolo di Gualdrada.  Fu questa fanciulla 
+bellissima et figliuola di messer Bellincion Berti de' Ravignani 
+antichissima famiglia fiorentina: et uno de' rami degli Adimari.  Et 
+essendo Octone quarto imperadore in Firenze: Et nel consexo delle donne 
+el quale si celebra per la festa del Baptista stupefa[tt]o della 
+belleza della fanciulla domand@o chi epsa fussi.  Era messer Bellincion 
+appresso allo imperadore: Et innanzi agli altri rispose esser figliuola 
+di tale huomo che allui darebbe l'animo di poter gliene far baciare.  
+Ud@i le parole del padre la fanciulla: et puncta da honesta vergognia 
+levatasi in pi@e dixe: Padre mio non siate s@i liberale promettitore di 
+me: perch$e non mi bacer@a mai chi non sar@a mio legittimo sposo.  
+Stup@i lo 'mperadore della casta et prudente risposta della fanciulla: 
+Et di subito chiam@o a s$e uno de' suoi baroni nominato Guido et in 
+quel puncto gliene fece sposare et in dota gli dette el casentino et 
+parte della romagnia et fecelo conte.  et da lui hebbe orrigine la 
+famiglia de' Conti Guidi.  Di Guido et di Gualdrada nacquono due 
+figliuoli Guiglielmo et Ruggieri: et di Guiglielmo Guido Novello: el 
+quale sequit@o parte ghibellina.  Di Ruggieri Guido Guerra del quale al 
+presente si fa mentione.  Chostui fu excellentissimo nell'arte 
+militare: et di gran prudentia et consiglo.  Onde nella battaglia 
+commessa a Benevento tra Carlo et Manfredi fu riputato principale 
+cagione della victoria di Carlo: perch$e si ritrov@o essere quivi 
+capitano di quattrocento cavalieri fiorentini guelfi et exuli.  E' 
+quali dopo tale ropta ritornorono in Firenze: et con l'aiuto di Carlo 
+cacciorono e' ghibellini.  Tegghiaio Aldobrandi Fu chostui degl' 
+Adimari molto stimato: et a chasa: et negli exerciti per molte 
+maraviglose opere et consigli.  Chostui sconforto la 'mpresa contro a' 
+sanesi/ dimostrando che non si poteva in quella haver victoria.  Ma non 
+fu acceptato el suo consiglo: Onde ne segu@i la infelicissima ropta 
+d'Arbia overo da Montaperti: et da quella lo exilio de' guelfi da 
+Firenze.  |Iacopo Rusticucci~.  Fu chostui cavalieri fiorentino/ non di 
+molto famosa famigla: Ma abondante di riccheza et di grande animo: et 
+pieno di liberalit@a.  Ma hebbe mogle di s@i perversi costumi: che 
+finalmente gli fu necessario di seperarla da s$e: et tal vita fu 
+cagione che lui rimaso sanza mogle cadessi nel vitio abominevole: del 
+quale in questo luogho @e punito.
+
+	|46-51.~  Qui non @e da notare altro se non che vuol dimostrare che 
+una strecta familiarit@a chon gl'huomini ornati di molte virt@u bench$e 
+in lor sia alchun gran vitio si debba cercare.  Et se possiamo esser 
+coperti dal fuoco: cio@e difenderci dalle vitiose cupidit@a dobbiamo 
+havere loro conversatione per imitargli nelle virt@u: et el doctore: 
+cio@e la ragione el concederebbe.  Ma temendo el fuoco: cio@e la 
+contagione del vitio ci asterremo da quella.
+
+	|52-63.~  Risponde che el loro misero stato non gl'ha ficto nel cuore 
+dispregio di loro ma doglia et compassione.  |Di vostra terra~.  Di 
+vostra patria sono.  |Et sempre~ ritrassi: Quasi dica scripsi et mandai 
+alla memoria d'altri.  Overo ritrassi quasi imitai: chome diciamo che 
+uno pictore ritrahe Danthe: cio@e con la pictura imita la imagine di 
+Danthe.  |Et ascoltai~ da chi diceva di voi.  Et per questo dimostra 
+havergli havuti sempre in somma veneratione.  Onde sequita che al 
+presente non gli possa havere in dispregio.  |Lascio lo fele: et vo pe' 
+dolci pomi~ Manifesta in un verso tutto el viaggio di chi va alla 
+beatitudine.  Imper@o che va per lo 'nferno: cio@e per la 
+consideratione de' vitii: e' quali sono fiele per lasciarlo: Et vuole 
+per la purgatione arrivare al Paradiso dove el dolce pome et fructo 
+delle virt@u cio@e la felicit@a.  |Promessi a me per verace~ // c.102r 
+|duca~.  Virgilio cio@e lo 'ntellecto quando lo eleggiamo per ducha: et 
+sequitiamolo ci promette la felicit@a: et non ci mente.  Ma dacciela.  
+Il perch$e @e verace et non bugiardo.  Ma pria ch'io vada a tali pomi: 
+bisogna ch'io tomi.  Quasi vada in gi@u insino al centro: el quale 
+luogho perch$e @e el pi@u basso del mondo contiene el fondo dello 
+'nferno: ci@o vadi colla cognitione insino all'infimo di tutti e' vitii.
+
+	|64-78.~  Priega questa ombra Danthe: et per piegarlo alla sua 
+volont@a gli disidera due chose: le quali e' dannati posson giudicare 
+grandissime la prima lungha vita.  La seconda perpetua fama dopo la 
+vita.  Adunque |Se l'anima conduca~: et quasi mantengha et conservi 
+lungamente |Le tue membra~: el tuo corpo: el quale mentre v'@e inclusa 
+l'anima si conserva intero: et incorropto.  Di poi partita l'anima 
+subito si disfa et corrompe.  In somma se tu lungamente viva: o 
+veramente conduca quasi habbiti a pregio.  |Et se la fama tua luca~/ 
+risplenda |dopo te~: dopo la vita tua |dixe~/ Iacopo |dimora~ habita 
+|nella nostra citt@a~ |cortesia et valore~ liberalit@a et forteza overo 
+magnaminit@a: le quali due virt@u nella repubblica mantengon la 
+concordia: et accrescon lo 'mperio.  Imper@o che la prima genera 
+concordia: et acquista amici.  La seconda fa gl'huomini apti a ogni 
+grande impresa.  |Guiglielmo Borsiere~.  Alquanti dicono Borsiere 
+perch$e da principio facea le borse.  Alquanti affermano Borsiere esser 
+nome di famigla non ignobile.  Chomunche sia lui fu cavalieri di corte: 
+et hebbe practica chon tutti e' signori d'Italia huomo chostumato et di 
+nobil maniera.  Era l'ufficio suo et di simil cavalieri tractare pace 
+tra gl'huomini grandi et nobili: Et interporsi a conducere matrimonii: 
+et alchuna volta con giocose et piacevoli novelle ricreare gl'animi 
+degl'auditori.  Dicono che essendo a Genova: et domandandogli messer 
+Hermino Grimaldi huomo ricchissimo insieme et avarissimo che chosa 
+potessi dipignere in una sala d'una chasa da s$e nuovamente facta: la 
+quale fussi incognita et non pi@u veduta.  Rispose messere io 
+v'insegner@o una chosa della quale voi non havesti mai cognitione: 
+dipignetevi la liberalit@a: la qual parola tanto commosse l'avarissimo 
+animo di messer Hermino che mut@o natura et divent@o assai liberale.  
+Finge adunque el poeta che chostui novellamente morto habbia portato 
+novelle fresche di Firenze.  |El qual si duole / con noi~: cio@e 
+sopporta la medesima dogla et pena che sopportiamo noi: perch$e @e 
+dannato del medesimo vitio.  |Et va l@a choi compegni~.  @E in quella 
+torma onde noi siamo al presente usciti.  N$e corruccia/ n$e tormenta 
+^id est~ ci da assai dolore.  |La gente nova~.  Qui risponde Dante 
+Dicendo |La gente nuova~ cio@e rusticana et che nuovamente @e venuta ad 
+habitare Firenze.  |Et e' subiti guadagni~.  Quasi dica facti chon 
+illeciti contracti: et con somma avaritia.  |Orgoglo et dismisura~ 
+comunemente questo nasce da quello.  Imper@o che quando gl'huomini 
+nuovi diventon ricchi et acquistano stato diventono orgoglosi: et pieni 
+dismisura: perch$e sono s@i arroganti che voglon pi@u che non se 
+gl'appartiene.  Orgoglio in lingua fiorentina significa arrogante 
+alterigia.  Onde el Petrarcha: <Ondio assai mi doglio Quando un 
+superchio orgoglio in bella donna molte virt@u asconde>.  |Chos@i 
+gridai chon la faccia levata~.  Il che dimostra indegnatione.  |Et 
+questi tre guardar l'un l'altro chome il ver si guata~.  Quando quegli 
+che odono alchuna chosa guardano in viso l'un l'altro par che 
+appruovino quel che odono esser vero.
+
+	|79-90.~  La sententia @e che que' tre risposono a Danthe che se 
+ogn'altra volta era cos@i facile a rispondere a chi lo dimanda 
+certamente lui @e felice poich$e parla s@i a sua posta: cio@e poich$e 
+poich$e pu@o parlare ad sua posta s@i: cio@e con tanto ornato et con 
+brevit@a.  Di poi captata tale benivolentia per haverlo chos@i lodato 
+priegano che quando ritorner@a nel mondo gli riduca a memoria 
+degl'huomini.  Possiamo anchora interpretare el gi@a decto ternario 
+Danthe esser felice se s@i pocho gli chosta el satisfare altrui: et se 
+parla a sua posta.  |Quando ti giover@a dicere io fui~.  Cio@e quan- // 
+c.102v do uscito di s@i pericolosi luoghi et ridocto in luogo s@i 
+chiuso ti giover@a narrare le cose passate.  Imper@o che chome dice 
+Cicerone.  Ricordarsi del passato pericolo poich$e siamo ridocti nel 
+sicuro ci d@a volupt@a et piacere.  |Vidi romper la ruota~: Il cerchio 
+che intorno a noi havevon facto.  |Et le lor gambe snelle~: cio@e 
+schiecte.  |Sembiavon ale~: cio@e assimiglavono ale: perch$e erono 
+chos@i veloci al correre chome sono l'ale al volare.  
+
+	|91-105.~  Era gi@a piaciuto a Virgilio di partirsi da quelle anime: 
+perch$e la ragione dimora in tali vitii quanto basta alla cognitione di 
+quelli: poi si parte: et l'appetito et el senso la segue: Et arrivorono 
+alla fine di questo cerchio: dove @e la ripa che discende nell'octavo 
+cerchio per la quale cadendo Phlegeton facea tanto strepito a chi v'era 
+vicino che non potea udir l'un l'altro: Et agiugne che era tale la 
+caduta di questo fiume: quale @e quella del Montone.  Dove @e da notare 
+che Vesulo @e un monte negl'Alpe sopra Monferrato: el quale parte la 
+Provenza da Italia.  Da questo si parte l'Apennino: bench$e alquanti 
+dicono che Apennino comincia a Monaco in Riviera di Genova: et viensene 
+costeggiando inverso Pietrapana lasciando da sinistra el Monferrato 
+Torino et Vercelli et da dextra Lunigiana et parte della Riviera Ivi 
+alquanto si torce et a sinistra lascia Piacenza.  Parma.  Reggio.  
+Modona: Et a dextra Luni.  Lucca.  Pistoia.  Indi procedendo a sinistra 
+lascia Bologna.  la Romagna: et la Marca: Et a dextra Firenze.  Arezo.  
+Perugia.  El patrimonio insino a Roma.  Indi continuando a sinistra 
+Abruzi.  terra di bestia.  Puglia: et terra d'Otranto.  A dextra 
+Campagna.  Terra di lavoro.  Salerno: et parte della Calabria: et da 
+sinistra l'altra parte della Calabria insino al faro di Messina: Et 
+gi@a continuava andando insino in Sicilia.  Imper@o che al dirimpetto 
+del fin suo in Italia @e Peloro monte in Sicilia: el quale gli 
+conrisponde in forma che pare costa svelta dall'Apennino: Et dove in 
+Italia Apennino @e mozo dallo strecto et quivi finisce @e Reggio: el 
+quale nome in greco dimostra el rompimento di questo monte pel mare che 
+lo divise.  Imper@o che in quella lingua ^rhegmin~ significa frangere 
+et spezare.  Il perch$e in Persio si legge: ^Sic costam longo sub 
+duximus apenino~.  Et che Sicilia fussi gi@a congiunta con Italia: et 
+poi o per forza dell'onde assidue: o per terremoti fussi disgiunta 
+molti scriptori lo credono: Et Virgilio: ^Hec locavi quondam et vasta 
+convulsa ruina Tantum evi longinqua valet mutare vetustas Dissilvisse 
+ferunt cum protinus utraque tellus Una foret venit medio vi pontus et 
+undis Hesperium siculo latus abscidit~.  Et perch$e habbiamo di sopra 
+facto mentione della dextra et della sinistra/ intendi la dextra parte 
+quella che @e a mezo d@i: et la sinistra quella che @e septentrionale.  
+Imper@o che volgendoci noi al capo del mondo che @e l'oriente el sito 
+septentrionale ci rimane all[a] sinistra: et el meridiano alla dextra.  
+Tutti quegli fiumi adunque e' quali nascano dalla sinistra parte 
+d'Apennino innanzi a questo entrono in Po/ la cui origine @e nelle 
+radici di Vesulo: et non vanno in mare per proprio corso.  Ma questo fa 
+el contrario.  Imper@o che non mette in Po ma va per proprio corso.  Et 
+ordina chos@i el texto Chome quel fiume el quale ha prima proprio 
+camino: cio@e @e el primo el quale habbi proprio camino.  |Da monte 
+Veso inver levante~: Non intendere che nasca in monte Vesulo: el quale 
+@e lontano pi@u che dugento miglia dal monte sopra Forl@i onde nasci 
+questo fiume.  Ma dixe da monte Vesulo: cio@e dalla parte di monte 
+Vesulo si chiama Acquacheta innanzi che scenda el monte: Et divallisi 
+cio@e scenda per la valle.  |Gi@u nel basso lecto~ ^id est~ nel piano 
+di Romagna.  |Et a Forl@i di quel nome @e vacante~: perch$e non pi@u 
+Acquacheta Ma Montone si chiama: et mette in mare presso a Ravenna.  
+|Rimbomba l@a sopra San Benedecto~.  Perch$e quivi comincia a cadere.  
+|Ad una scesa~.  Questa @e una badia sopra quella parte d'Apennino che 
+divide el Mugello dalla Romagna.  Il perch$e questo monte pigla el nome 
+dalla badia.  |Ove dovea per mille esser ricepto~.  Scrive Giovanni 
+Boccaccio havere udito dall'abate di questo san Benedecto: che gi@a e' 
+conti signori di quel paese tennono ragionamento di fare un castello 
+appresso a questa caduta et ridurvi molte villate quivi vicine.  Ma la 
+morte di cholui che pi@u che gl'altri lo disiderava interruppe el 
+disegno.  Adunque dice Danthe Ove dovea esser ricepto cio@e riceptacolo 
+et stanza et habitatione per mille cio@e per molti.  |Chos@i~: Torna al 
+proposito et dice che chos@i rimbombava quella // c.103r acqua di 
+Phlegeton per quella valle |Discoscesa~: cio@e precipite et molto 
+ripida.  |In forma che poc' hora~: cio@e in brieve tempo.  |Havria 
+offeso l'orecchia~: cio@e el senso dell'udire el quale s'offende 
+dall'excesso del suono et della voce.  Il che accioch$e meglio intenda 
+bench$e l'anima nostra sia incorporea: Nientedimeno exercita la 
+potentia de' sensi con gli strumenti corporei.  Il perch$e @e 
+necessario che chome lo instrumento corporeo @e finito et terminato: 
+chos@i @e finito et terminato el senso.  Adunque ogni excesso sensibile 
+conviene che offenda el senso: perch$e passa la sua proportione.  Onde 
+dicono che quegli che habitono dove chade el Nilo per s@i grande et 
+assiduo romore diventono sordi.
+
+	|106-123.~  Questo luogho contiene in s$e una fictione assai obscura.  
+Pone el poeta che per comandamento di Virgilio si scinse una corda che 
+haveva cincta: et porsela ravviluppata a Virgilio.  Onde alquanti 
+dicono che Danthe in sua pueritia prese l'habito di san Francesco: et 
+di poi partitosi lo lasci@o: Et per questo pone la corda della quale 
+era cincto per la hyppocresia.  Il che n$e cedo: n$e mi pare 
+verisimile.  Ma chosa manifesta @e che in quello che sequita el poeta 
+tracta di dieci spetie di fraude.  Onde @e conveniente chosa che 
+volendo Virgilio dimostrare che chosa sia fraude a Danthe chiegga che 
+lui si scinga la corda che havea cincta.  Il che dinota che volendo 
+l'huomo rectamente conoscere la fraude: la quale @e chosa pi@u 
+implicita et obscura pi@u che alchuno altro vitio/ non pu@o con lo 
+'ntellecto vedere l'universale: se el senso non gli rappresenta qualche 
+particulare: Chome exempli causa non conoscerei io che chosa sia 
+amicitia in genere se prima non intendessi una particulare amicitia: la 
+quale @e tra me et te: la qual fa che tra noi @e una medesima volont@a 
+in tutte le cose El quale particulare porto dal senso allo 'ntellecto 
+fa che lo intellecto abstrae in consideratione tale particulare 
+amicitia: et riducela in generale: Et intende che l'amicitia in s$e non 
+intendendo pi@u quella che @e tra Scipione et Lelio: che un'altra Ma in 
+genere niente altro @e se non consenso di volere: et di non volere tra 
+pi@u huomini.  Adunque in questo luogho Virgilio et Danthe @e un solo 
+huomo chome gi@a molte volte habbiamo dimostro: el quale volendo 
+intendere le fraude bisogna che lo 'ntellecto chiegga al senso la corda 
+che ha cincta: et per la corda s'intende la sua particulare fraude che 
+@e nata dal senso aiutato dalla ragione inferiore.  Lui se la scigne 
+che significa volerla lasciare: et porgela allo 'ntellecto: perch$e 
+cerca con quella conoscere la sua malignit@a: Ma porgela aggroppata 
+cio@e annodata et rinvolta: cio@e ravviluppata: perch$e la fraude @e 
+sempre piena di nodi et di viluppi.  O veramente diremo che el senso et 
+la ragione inferiore porge la corda inviluppata: perch$e non @e 
+sufficiente per s$e a explicare la natura di tal vitio.  Ma puolla 
+explicare lo intellecto: et per@o la porge allui.  Et rectamente pone 
+la chorda per la fraude.  @E la corda facta di canapa chosa apta a 
+inviluppare et a impedire: Et la medesima natura @e nella fraude.  Poi 
+@e torta et composta di pi@u fila: Et similmente la fraude torce et 
+compone insieme pi@u malitie: et niente @e semplice et aperto in 
+quella.  N$e @e quella differentia in lingua toscana tra fune et corde 
+che @e in latino.  Imper@o che e' latini chiamano ^fune~ quella che @e 
+facta di canape: o d'altra simile materia apta a legare.  ^Chorda~ @e 
+nome greco et significa le minugie chon le quali suonano viuole arpe et 
+liuti et simili instrumenti: et in quella medesima significatione 
+l'usano e' latini: Ma noi pigliamo fune et chorda quasi per una 
+medesima chosa.  Adunque dixe corda cio@e fune.  N$e si discosta el 
+poeta dal Psalmista: el quale ponendo la fune per la fraude dixe: 
+^Funes peccatorum circumplexi sunt me~.  Et Isaia: ^Ve qui transitis 
+iniquitatem in funiculum vanitatis~.  |Et con epsa pensai alchuna volta 
+/ prender la lonza~.  Havendo dimostro el poeta che s'era scincto la 
+propria fraude/ subgiugne al presente due chose.  La prima che tale 
+fraude non era stata circa e' peccati molto gravi chome @e usare fraude 
+in avaritia o in superba ambitione.  Ma solamente in luxuria havendola 
+usata per prender la [l]onza: cio@e in chose amatorie et lascive: 
+perch$e la lonza dimostrammo porsi per la luxuria.  Onde sequita che 
+quanto el peccato della luxuria @e men grave che gl'altri: tan[t]o @e 
+meno detestabile tale fraude.  La seconda @e che anchora in luxuria 
+poche volte l'haveva pensato.  Onde dice alchuna volta adunque non 
+havea facto habito Il perch$e era facile a scignersene ^id est~ a 
+diporla.  |Ond' e' si volse inver lo dextro lato~.  Sempre la ragione 
+si volge in sul lato dextro: cio@e in su pensieri diricti et virtuosi: 
+et gitt@o la chorda di lungi dalla sponda quasi nel mezo |In quell' 
+alto~ cio@e profondo |borrato~ fossato.  Borrato diciamo quel // c.103v 
+fiumicello el quale per essere in un vallone profondo et strecto ha le 
+ripe alte da ogni banda.  Gittolla nel mezo per trovare el centro 
+d'epso vitio: dal qual centro tutte le linee nascano.  |E pur convien 
+che novit@a risponda~.  Danthe chome prudente stimava tra s$e medesimo 
+che Virgilio non faccia alchuna chosa sanza somma consideratione.  
+Adunque d'ogni sua operatione si debba aspectare chosa egregia et 
+nuova.  Et admonisce noi che sempre prestiamo fede a' pi@u savi.  
+Imper@o che come scrive Cicerone nel secondo ^De officiis~: ^Sis fidem 
+habemus quos plus sapere quam nos arbitramur: Et quos futura prospicere 
+credimus~.  |Che 'l maestro chon l'occhio si seconda~.  @E optima 
+congiectura che Virgilio non habbia gittato a caso.  Ma con 
+consideratione la chorda: perch$e si seconda con l'occhio: cio@e 
+perch$e la sequita con l'occhio.  Adunque sta attento per aspectare el 
+fine di tal chosa.  |Ah quanto cauti~ @E optimo precepto che quando 
+siamo appresso degl'huomini savi et licterati: et e' quali stimiamo 
+niente fare a chaso o sanza exquisita ragione dobbiamo con somma 
+attentione observare et notare non solamente e' facti et le parole.  Ma 
+ogni minimo gesto et cenno: perch$e chostoro non veggono solamente 
+l'opra cio@e quello che @e presente: ma con gl'occhi della mente mirano 
+l'effecto che ne debba sequire.  |El dixe ad me~.  In un medesimo tempo 
+pensava Virgilio quello che havea a sequire della chorda gittata: et 
+confortava Danthe che presto s'havea a manifestare quello che lui 
+aspectava: et quello che Danthe sognava.  Et certo lo 'ntellecto della 
+causa prevede l'effecto chome chosa certa et quello aspecta: Ma il 
+senso et la ragione inferiore non lo vede perch$e piutosto conosce la 
+causa pell'effecto che l'effecto pella causa.  Onde innanzi che 
+l'effecto segua bench$e habbi veduto la causa non lo antivede.  Ma va 
+imaginando chose diverse simile a un che sogni: et rade volte s'appone.
+
+	|124-36.~  Optimamente et con grande artificio havendo a dire chosa 
+incredibile dimostra che intende che non si debba narrare chose 
+incredibili bench$e sieno vere se la necessit@a non ci strigne: perch$e 
+ci fanno vergogna a torto: perch$e dicendo el vero siamo tenuti 
+bugiardi.  Et perch$e poche chose sono pi@u opposite et contrarie alla 
+natura dell'huomo che la bugia: Conciosiach$e quella ci ha dato el 
+parlare: Il che non @e d'alchuno altro animale accioch$e possiamo 
+exprimere et manifestare di fuori quello che habbiamo conceputo nella 
+mente et noi l'usiamo nel contrario: per@o debba l'huomo non solamente 
+non dir bugia: Ma ^etiam~ non dire quel che pare bugia se la necessit@a 
+nol costrigne.  Adunque Danthe per acquistare fede a quello che di sua 
+natura pare incredibile dimostra conoscere quanto habbiamo decto: Ma 
+esser constrecto da necessit@a di dirlo: perch$e sanza quello in questo 
+luogho resterebbe la chosa imperfecta.  Dicelo adunque: et per dargli 
+fede l'afferma con giuramento di quelle chose che gli sono carissime: 
+et giura in questa sententia Chos@i sieno piene di lunga gratia le 
+note: cio@e le parole di questa comedia ch'io scrivo chom'io vidi 
+venire questa bestia.  Questo @e efficace giuramento.  Perch$e nessuna 
+chosa @e che tanto disideri lo scriptore/ quanto che l'opera scripta 
+habbi gratia.  Et maxime lo disidera Danthe non per vanagloria: Ma 
+perch$e scrivendo chose necessarie alla salute dell'huomo/ disidera 
+esser lecto accioch$e le sue laboriose vigilie produchino optimo fructo 
+a molti.  |Ch'io vidi per quell'aer grosso et scuro / venir notando una 
+figura in suso~.  Molti sono rimasi ingannati credendo perch$e lui dice 
+Venir notando quel luogho esser ripieno d'acqua: Et non s'accorghono 
+che lui imita Virgilio: el quale fa reciproca translatione dal mare 
+all'aria.  Onde dixe: ^Mare velivolum~ id est ^per quod velis volatur~: 
+Et volare @e solo nell'aria: et chos@i dall'aria al mare Onde in 
+Mercurio dixe Remigio ^alarum~ bench$e eremi sieno solamente del mare.  
+Similmente Danthe dixe venir notando bench$e el notatore sia proprio 
+nell'acqua: Et certo @e mirabile fictione et al tutto degna divinit@a 
+di tanto ingegno.  Vuole discrivere la fraude: et dice io vidi una 
+figura: Ma non vide anchora che figura si fussi Il che dinota che la 
+fraude si vede: et da prima non si conosce.  Vedevono e' troiani 
+Sinone: et udivono le parole: Ma non conoscevano a che fine fussi 
+venuto.  ^Preterea~ la vide per l'aere grosso et schuro.  Il che non 
+solamente dinota che nello 'nferno cio@e nell'habito de' vitii sia 
+obscurit@a ^id est~ ignorantia.  Ma vuole dimostrare che la fraude @e 
+sempre aombrata et scurata in modo che non si pu@o discernere.  Veniva 
+notando per l'aere per significare che non sta in luogho sodo et fermo 
+cio@e nel vero.  Ma nuota: perch$e varia et muta sempre le chose el 
+fraudulento: et quando credi sia in un luogo @e in uno altro.  Veniva 
+in suso: perch$e la fraude d@a luogho nascoso quando che sia viene in 
+luce: Et @e maraviglosa a ogni chuore sicuro: Perch$e 'l nesseno @e di 
+s@i invitto animo che non tema la fraude.  Imper@o che la forza la 
+quale ci @e in- // c.104r serita manifestamente da alchuno spatio al 
+provedere alla difensione.  Onde el magnanimo prende confidenza: Ma la 
+fraude prima ci percuote che la possiamo prevedere.  Il perch$e non 
+pu@o l'huomo generoso exercitare o dimostrare alchuna sua forza 
+repugnare a quelle: et per questo molto teme di tali assalti.  Intendi 
+adunque perch$e Danthe la vedea per l'aere obscuro et grosso: perch$e 
+venia notando: perch$e venia dal basso in alto: perch$e era paventosa 
+^etiam~ agl'huomini sicuri: Et finalmente dimostra che venendo in su 
+faceva chome chi @e ito nel fondo dell'acqua per sferrare una anchora 
+attacchata o ascoglo o ad altra chosa coperta dall'acqua: el quale 
+tornando in su distende le prime parti: cio@e el collo: et le braccia: 
+et l'ultime che sono le gambe rattrappa: cio@e rannicchia: Et veramente 
+el fraudulento sempre distende le prime parti: perch$e comincia da 
+alchuna cosa vera: et quella vuole che sia manifesta.  Di poi nel fine 
+aggiugne el falso: et questo rannicchia: et rinviluppa accioch$e stia 
+nascoso: et non sia inteso.
+

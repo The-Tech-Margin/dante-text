@@ -1,0 +1,17 @@
+Thu Feb 13 15:08:50 EST 1986 jvs french c in 01 to be fixed
+Fri Feb 14 15:30:40 EST 1986 jvs cleaned and formatted all files
+Thu Sep 29 12:41:46 EDT 1988 all .f files created to be loaded into the database by jma
+Tue Jan 31 13:15:22 EST 1989 .e files have had their Rubrica antica section modified
+[Note from JMA on Rubrica antica: these sections were denoted prior
+to 9/29 inside square brackets like so [|Rubricat antica~ and so
+on....].  These sections for db compatability have been reformatted
+so that the Rubrica antica sections appear in identical format to
+other nota material like proemi.]
+Thu Feb 16 16:48:26 EST 1989 preloaded inf jvs
+Mon May 1 21:24:06 EDT 1989 jvs corrected .f files with checknew and format.sed
+Mon May 1 21:24:13 EDT 1989 preloaded corrected files
+Mon May 1 21:24:27 EDT 1989 READY FOR LOADING
+Mon Jul 31 10:07:42 EDT 1989 jvs deleted obsolete .e files
+Mon Jul 31 10:07:51 EDT 1989 jvs renamed .f files to .e
+Wed Dec 20 08:29:55 EST 1989 jvs corrected file errors and preloaded corrected files
+Wed Dec 20 08:30:10 EST 1989 jvs READY FOR LOADING

@@ -1,0 +1,754 @@
+|INFERNO CANTO 12~
+
+	|Introduzione.~  Canto pi@u filosofico di questo non vi ha
+in tutto il poema: l'analisi ci far@a scoprire in esso pregi s@i
+visibili, e forse difetti s@i notabili, che produrr@a maraviglia
+non essere stati mai prima osservati.  Vagheggiate {nelle ^Note
+Finali~} le bellezze nascoste, ci piaccia dare uno sguardo alle
+incongruenze non avvertite.  Un genere s@i arduo di poesia
+misteriosa dovea portar seco di necessit@a difficolt@a infinite.  E
+l'Alighieri, a dispetto di sua mente altissima, non seppe sempre
+evitarle.  Ne metter@o in veduta alcune, poich@e mancanza di mio
+ufficio sarebbe il dissimularle.  Chi mi confuter@a, nel darmi
+quelle soluzioni ch'io ho ricercate e non ho sapute trovare,
+otterr@a la mia gratitudine.  Il dimostrare che sono un cattivo
+critico @e un rendermi un gran servigio; ed io ringrazier@o chi,
+provandomi che ho torto, assolver@a il mio autore da una taccia, e
+toglier@a me da un imbarazzo.  Non parler@o gi@a di quello che tutti
+facilmente veggono; vale a dire che gli spiriti Danteschi or sono
+aerei ed or no.  I pi@e de' morti non possono muovere le pietre
+della rovina, come fanno i pi@e de' vivi, e poi Nesso porta Dante
+sul dorso.  Altrove il poeta non pu@o stringer Casella suo amico,
+perch@e @e ^ombra vana~; ed intanto afferra indignato il crine di
+Bocca degli Abati, e ^glie ne trae pi@u d'una ciocca.~  Le stesse
+ombre ora son tangibili fra loro, ed ora no: Virgilio dice a
+Stazio che vuole abbracciarlo: ^Frate, non far; ch@e tu sei ombra
+ed ombra vedi~; ed intanto Virgilio e Sordello son presi altrove
+da tanto affetto che ^l'un l'altro abbracciava~: e cos@i del
+resto.  Nulla di ci@o toccher@o poich@e tutti lo veggono; ma di
+altro faveller@o che in questo canto mi fa inciampo: I.  Possiamo
+immaginare che il Minotauro, Nesso, Folo, ed altri centauri sieno
+demonj, gi@a incarnati e rimasti in terra per qualche tempo, e poi
+tornati nell'Inferno ai loro uffizj: poich@e sono stati, chi pi@u
+chi meno, assai malefici.  Ma riguardo a Chirone il nostro
+pensiero mal pu@o accomodarsi a questa concezione; poich@e esso @e
+dall'antichit@a presentato come sommamente saggio e buono, e come
+istruttore intellettuale e morale di molti eroi.  E sebbene il
+Pelide, suo allievo, sia riuscito cupido e iracondo, pure ci@o fu
+non a cagione, ma a dispetto della educazione ricevuta.  Onde
+quando si dice: quel demonio ^@e il gran Chirone il qual nudr@i
+Achille~ {71}, lo spirito nostro va tosto a ricercarlo ne' boschi
+della Tessaglia, e trovandolo tutt'altro che un demonio, resta
+perplesso e confuso fra l'idea che ne avea e quella che le si
+vuol dare.  Ma Dante, disegnando farne una figura dell'anima, si
+fiss@o in questo pensiero, e non bad@o che mettendolo nell'Inferno,
+come un diavolo, veniva con ci@o a falsificarne il carattere, ed a
+porre in costernazione la mente del lettore.  Che diremo di un
+diavolo divenuto buono?  Diremo che, per ubbidire all'alto volere
+annunziato da Virgilio, colui divenne buono per quei pochi
+momenti; e il poeta ad indicarlo f@e che Chirone si volgesse ^a
+dritta~, e Nesso si ^tornasse.~  Che quelle frasi abbiano il
+significato che lor demmo, @e cosa pi@u che certa; e se non siam
+paghi di questo esempio, altri ne troveremo in appresso, ed avrem
+bene di che saziarci.  II.  Il Maestro dice al discepolo che la
+vecchia roccia infernale croll@o nella morte del Verbo alla ripa
+de' violenti, e ^altrove~, cio@e alla bolgia degl'Ipocriti.  Ma
+avendo egli espresso che la prima volta che scese (e questa @e la
+seconda) la ripa de' violenti ^non era ancor cascata~, ne nasce
+per conseguenza ch'ei nulla sapea della ruina di quell'arco ch'@e
+assai pi@u gi@u.  Come dunque dice questo, senz'averlo ancor
+veduto?
+
+	|1-3.~  Nell'ultimo verso del canto precedente, Virgilio
+addit@o a Dante un balzo, da cui doveano scendere dal sesto al
+settimo cerchio, dicendogli: ^il balzo via l@a oltre si dismonta~:
+Onde qui s'incomincia da quel punto ove s'eran diretti per andar
+gi@u.  Il loco ove i poeti vennero, per discender la ripa della
+voragine, era alpestre; ed, anco per quello ch'ivi era, tal @e
+quel luogo ch'ogni sguardo ne sarebbe schivo ed inorridito:
+Schivo s@i pel luogo ruinoso che pel demonio spaventevole il quale
+v'@e a guardia; di cui tosto si dir@a.
+
+	|4-10.~  Qual @e quella ruina del monte Barco che (o per
+tremuoto che scosse le rupi, o per sostegno che venne manco al di
+sotto) percosse il fiume Adice nel fianco, di qua da Trento; di
+modo che dalla cima del monte, da cui verso il piano la crollata
+roccia si mosse, @e s@i discoscesa che a chi fosse sulla cima
+darebbe appena una qualche via per andar gi@u; cotale era la scesa
+di quel precipizio (burrato).  Il sostegno venne manco perch@e la
+corrente del fiume, rodendo le radici della rupe, ridusse questa
+a non potersi pi@u reggere.
+
+	|11-13.~  E in su la punta superiore di questa rotta
+cavit@a era disteso a guardia il Minotauro, infamia dell'isola di
+Creta, ecc.  Chi si rammenta come nacque questo biforme mostro,
+^Veneris monumenta nefand@@ae~ (Virg.) vedr@a che giustamente @e
+appellato infamia del luogo ove fu concetto.  Dante immaginandolo
+violentissimo, lo ha trasformato in un demonio che presiede al
+tripartito cerchio de' violenti.  Questo primo abbassamento della
+voragine @e appellato |lacca~ s@i perch@e @e una gran cavit@a per se
+stesso, che perch@e il girone di sotto @e concavo, onde contenere
+il fiume di sangue.  Cos@i fu detto |lacca~ anche il cerchio degli
+avari, logoro dai rotolati pesi.
+
+	|12-15 {Nota Finale}.~  Il Minotauro, che sta all'orlo
+superiore di questo tripartito cerchio, si pascea, secondo la
+favola, di membra umane (violenza contro il prossimo); |s@e stesso
+morse~ {14}, secondo il poema (violenza contra s@e medesimo) e fu
+|concetto nella falsa vacca~ {13} (violenza contro la natura,
+figlia di Dio).  In lui dunque, |cui l'ira dentro fiacca~ {15},
+ravvisiamo la violenta ^lforza~ maliziosa, sorella della ^frode~
+(ogni malizia, o con ^forza~ o con ^frode~ altrui contrista, XI):
+e perci@o Virgilio gli disse: ^Questi non viene qui ammaestrato
+dalla tua sorella~ {20}.  La ^malizia~ @e il primo passo verso la
+^bestialit@a~: onde a far vedere che per essa comincia ad operarsi
+nell'uomo quella specie di metamorfosi morale che lo cangia in
+bestia, ma che, prima di giungere al totale pervertimento, @e
+bestia a met@a, @e qui posto il Minotauro, semibestia concetta per
+quel peccato che dai moralisti ^bestialit@a~ si appella.
+
+	|14-21.~  E quando il Minotauro vide i due poeti morse
+rabbioso s@e stesso siccome quegli cui l'ira internamente lacera e
+rode.  Il savio Virgilio allora grid@o verso lui: Credi tu forse
+che qui sia il Duca d'Atene (Teseo) che lass@u nel mondo ti di@e la
+morte?  Partiti, bestia, lasciaci libero il varco: perch@e questi
+non viene qui ammaestrato dalla tua sorella Arianna; ma ei si va
+gi@u (|vassi~) per vedere le vostre pene.
+
+	|22-27.~  Qual @e quel toro che si slaccia impetuoso dai
+legami in quel punto (|in quella~) che ha ricevuto sul capo il
+colpo mortale, che sbalordito non sa gire con equabil passo, ma
+saltella qua e l@a, cotale Dante vide divenire (|far~) il
+Minotauro.  E Virgilio grid@o accorto: |Corri al varco~; mentre
+che quel mostro @e in furore @e bene che tu, approfittandoti del
+contratempo, ti cali gi@u.
+
+	|22-25 {Nota Aggiunta}: Qual @e quel toro che si slaccia
+in quella Ch'ha ricevuto gi@a 'l colpo mortale, Che gir non sa, ma
+qua e l@a saltella, Vid'io lo Minotauro far cotale~: L'ultimo
+verso pu@o anche spiegarsi cos@i: ^Vid'io Minotauro far cotal
+atto~; ma ho preferito l'altro modo, perch@e @e in pi@u stretta
+cosruzione con tutta la sentenza, ed insieme pi@u semplice:
+^Vid'io il Minotauro divenir tale Qual @e quel toro~, ecc.  In
+questa similitudine Dante imit@o Virgilio: <Qualis mugitibus fugit
+eum saucius aram Taurus, et incertain excudit cervice
+securim...>.  Ed il Boccacio imit@o Dante pi@u volte: eccone tre:
+<Quale il forte toro, ricevuto il mortal colpo, furioso in qua e
+in l@a saltella>, ^Fiammetta.~  <Quale il furioso toro, ricevuto
+il mortal colpo, furioso in qua e in l@a saltellando>, ivi.  <Non
+altrimenti il toro va saltando, Qualora il mortal colpo ha
+ricevuto>, ^Filostrato.~
+
+	|28-30.~  Cos@i entrambi presero via gi@u per lo scarico di
+quelle pietre, che spesso moveansi sotto i piedi di Dante, per lo
+nuovo carico di un uomo vivente.  ^Presero via~, perch@e quella
+rupe, essendo divenuta scoscesa, a cagion della rovina, dava
+^alcuna via~ {9} a chi su fosse.
+
+	|31-36.~  Dante g@ia pensando, e Virgilio gli disse: Tu
+pensi forse a questa rovina ch'@e tenuta in guardia da quell'ira
+bestiale che io ora con le mie parole resi vana?  Or voglio che
+sappi che l'altra fiata ch'io discesi quaggi@u nel basso Inferno,
+per servire all'incanto di Erittone, questa roccia non era ancor
+cascata.
+
+	|37-41.~  Ma certo (s'io ben discerno la cagione che la
+f@e cadere) poco pria che venisse colui che lev@o a Satanno la gran
+preda del cerchio superno (i Patriarchi del Limbo) questa
+profonda e sozza valle trem@o s@i da tutte le parti ch'io pensai
+che l'Universo sentisse amore, per lo quale v'@e chi crede essersi
+pi@u volte il mondo converso in Caos.  Ed in quel punto questa
+vecchia roccia fece riverso qui, ed altrove anche pi@u.  La morte
+del Salvatore fu opera della violenza, e pi@u della frode; onde il
+poeta immagin@o che nel terremoto allora avvenuto, parte di questa
+ripa de' violenti e un ponte intero de' fraudolenti, rovinassero:
+con che volle significare che, essendo quel gran misfatto
+accaduto pei due indicati mezzi, la natura tutta inorridita e
+tremante f@e cadere appunto i due luoghi infernali ove que' due
+generi di peccatori vengon puniti: quasi a presentarne eterno
+monumento alla lor rimembranza.
+
+	|42-45.~  Empedocle, figurandosi il mondo come animato,
+lo consider@o pari ad alcuni animali che in certi dati periodi
+dell'anno sentono la forza d'amore, e in certi altri le sono
+avversi.  Onde insegnava che gli elementi di che il mondo @e
+composto (i quali si trovano distribuiti e configurati in varj
+corpi) per innato senso di amore, intendono, dopo un periodico
+corso di tempo, ad attrarsi fra loro: il che se realmente
+avvenisse, vedremmo disciorsi i corpi tutti, e i loro elementi
+mescersi confondersi e compenetrarsi a vicenda: e ci@o produrrebbe
+il Caos.  Ei stabiliva di pi@u che, cessato quell'impeto di
+simpatia, tutto torna a suo luogo, per contraria forza di
+avversione.  Ci@o ch'Empedocle credea essere avvenuto pi@u volte,
+Virgilio pens@o accadere in quel momento che <Terra mota est, et
+petrae scissae sunt>, S. Matt.  |Per lo qual @e chi creda~, modo
+latino, ^est qui credat~, che in Italiano giace assai meglio con
+l'indicativo.
+
+	|44-45 {Nota Aggiunta}: Ed in quel punto questa vecchia
+roccia Qui, ed altrove pi@u, fece riverso~: Ben a proposito il
+poeta rimembra qui il terremoto che accadde nel Venerd@i Santo,
+per la morte del Redentore; poich@e il punto in cui siamo @e
+precisamente il principio di quel d@i memorando.  Al termine del
+canto precedente si disse che la costellazione de' Pesci era
+sull'orizzonte (^E i Pesci guizzan gi@a sull'orrizonta~) il che
+accade due ore avanti lo spuntar del sole.  I due viaggiatori,
+per dirigersi al punto onde scesero a questo settimo cerchio, han
+dovuto impiegar qualche tratto, poich@e l@a si disse: ^Il balzo via
+l@a oltre si dismonta~: possiam perci@o concepire che ora che
+Virgilio parla @e precisamente il levar del sole del Venerd@i
+Santo.  E notisi il concetto: Dante passando dall'esser Guelfo
+all'esser Ghibellino rimane il Gioved@i, il Venerd@i e il Sabato
+Santo, parte nella selva, sede de' vizj, e parte nell'Inferno,
+regione de' ^morti~; e poi comincia a dirigersi al Purgatorio;
+onde pu@o dirsi di lui: ^Descendit ad Inferos... tertia die
+resurrexit a mortuis.~  Ecco perch@e scelse quel punto per
+l'apertura del poema; ecco perch@e rimane tanto e non pi@u
+nell'Inferno; ecco perch@e si avvia al Purgatorio ^tertia die.~ 
+Ei volea dire col nostro divin Signore: ^Fui mortuus, et nunc sum
+vivus~, Apocal.  E vedremoo meglio appresso che significa nel suo
+linguaggio ^esser morto~ ed ^esser vivo.~
+
+	|46-48.~  Virgilio segue a dire a Dante: Ma ficca gli
+sguardi al basso (a valle), perch@e si approssima la riviera del
+sangue, nella quale bolle chiunque produca nocumento in altrui
+per violenza.  Cio@e i violenti, o contro la persona, o contro la
+roba altrui, che ^tutti tormenta lo giron primo per diverse
+schiere~ {XI 38-39}.
+
+	|49-51.~  Il ^concupiscibile~ e l'^irascibile~ mal
+regolati ci spronano ai delitti nella breve vita mortale, e
+nell'eterna poi s@i miseramente ci tuffano nel sangue.  La |cieca
+cupidigia~ ci fa rapir l'altrui, l'|ira folle~ ci fa uccidere o
+ferir altrui.  @E ^cieco~ il cupido perch@e, chiudendo gli occhi
+sul pericolo e sull'ignominia, non vede che d@a ad altri il dritto
+di fargli lo stesso: <homines plerumque cupidine caeci>: Lucret. 
+@E |folle~ l'iracondo perch@e perde la ragione: <Ira est initium
+insaniae>, Cic.  <Immmodica ira gignit insaniam>: Seneca.
+
+	|49-51 {Nota Finale}.~  Trattandosi di malizia, dovea il
+poeta mostrare ci@o che nell'anima per essa accade; e lo f@e in
+profondissima allegoria: a ben esporla uopo @e rammentare una
+teoria notissima, per correr poi all'applicazione.  @E natura
+dell'anima umana il tendere alla felicit@a; quindi ella cerca ci@o
+che le sembra un bene, fugge ci@o che le pare un male.  Quel
+sentimento per cui brama, fu detto ^concupiscibile~: quello per
+cui disdegna, venne chiamato ^irascibile.~  Onde l'anima pu@o
+considerarsi quasi fiancheggiata da questi due principali
+sentimenti, dai quali nascono tutte le azioni viziose o virtuose. 
+In questo primo girone son puniti coloro che involarono la roba
+altrui, o nocqero alla persona altrui, cio@e o quei ^cupidi
+ciechi~, o quegli ^iracondi folli~ che maliziosamente diressero
+que' moti dell'animo (|Oh cieca cupidigia oh ira folle!~): in
+somma qui son castigate le male azioni provenienti dal
+concupiscibile o dall'irascibile, frai quali l'anima sta come in
+mezzo.
+
+	|52-54.~  La |fossa in arco torta~ @e quella cavit@a
+circolare la quale forma l'alveo del fiume.  Un tal modo ne fa
+comprendere che di quel girone Dante non vedea se non un picciol
+|arco~, poich@e il resto andava oltre la sua visuale, a cagione
+della sterminata ampiezza.
+
+	|55-57.  Tra 'l pi@e della ripa ed essa~ cavit@a, cio@e sul
+margine del fiume, ^Centauri armati di saette correano in
+traccia~ di dannati, per vibrar le frecce su chi uscisse dal
+sangue bollente, pi@u che non dovesse.  Cio@e, come solean fare nel
+mondo andando a caccia.
+
+	|52-57 {Nota Finale}.~  Ci resta a dir qualche cosa sul
+fiume sanguigno e sugli altri centauri.  Questo fiume bollente e
+vermiglio @e, come vedremo, ^Flegetonte~ che suona in greco ^fiume
+ardente~ siccome ^Flegias~ vuol dire ^ardere~ onde fu cangiato in
+demonio degl'iracondi.  Or dice la favola che i Centauri nacquero
+da Issione figlio di ^Flegias~: e quindi sul ^Flegetonte~ (fiume
+ardente) son posti come tormentatori di que' violenti ch'^arsero
+in fuoco d'ira~ (^Pg~ XV 106) coloro che derivarono da ^Flegias~
+(ardere).  Gli altri centauri dunque, che a mille a mille van
+saettando l'anime tuffate nel sangue, figurano quelle ire, que'
+desiderj violenti che straziano e trafiggono il cuore degli
+uccisori o rapitori maliziosi.  Nell'ira maliziosa, il sangue del
+violento ribolle; @e giusto perci@o che il sangue bollente formi la
+pena di questi violenti.  <Satia te sanguine quem sitisti>, disse
+Tamiri a Ciro, mentre nel sangue lo immergea.  <@E convenevole che
+l'uomo sia punito con quella cosa stessa della quale si @e
+dilettato nel nuocere altrui>, Vellutello.
+
+	|58-63.~  Ciascun di que' centauri, vedendo calare i
+poeti per la rovina, ristette: e tre di loro si dipartirono dalla
+schiera con archi e frecce (|asticciuole~) che prima elessero,
+per averle pronte al bisogno.  E l'un di essi grid@o da lungi: A
+qual martiro venite voi che scendete la costa?  Ditelo di cost@i;
+se no, tiro l'arco.
+
+	|63 {Nota Aggiunta}: Ditel costinci, se non, l'arco
+tiro~: Da questo verso chiaro si scorge che |se non~ vale <se no,
+altrimenti, in altra guisa> o simile.  Ci@o essendo, il passaggio
+del C. IX 7-9, ^Pure a noi converr@a vincer la punga; ... se non,
+tal ne s'offerse.  Oh quanto tarda a me ch'altri qui giunga!~,
+pu@o ridursi a massima semplicit@a se si spiega cos@i: ^Pure a noi
+converr@a superare questo contrasto; se no, tal ne s'offerse~ alla
+vista, che il far@a per noi: ^Oh quanto tarda a me ch'egli qui
+giunga.~  In fatti, se riflettiamo a due cose, vedremo che questa
+@e la interpretazione retta di quel passaggio e nessun'altra,
+assolutamente: 1.  Di veruna ^offerta~ di ajuto si f@e innanzi
+cenno; ma ben ^si offerse~ alla lontana vista di Virgilio (che
+come spirito ha sguardo acutissimo) il ^Messo del Cielo~ che
+stava scendendo; ed ei lo disse sol pochi versi avanti: ^E gi@a di
+qua dalla porta esterna discende l'erta, passando per li cerchi
+senza scorta, Tal che per, lui ci fia aperta la Terra.~  E non
+potea per nessun altro modo sapere che quel Messo venia, se non
+l'avesse veduto.  2.  Dante disse ch'ei traeva ^la parola tronca~
+di Virgilio a peggior sentenza che quegli non tenne.  ^Parola
+tronca~, singolare, indica una sola reticenza, e non due, o anche
+tre, che qualche interpetre vide in quella sentenza.  Fermo
+sostengo che nel modo ora esposto, e non in alcun altro, dee
+spiegarsi quel passaggio; e, se avessi prima a queste due ragioni
+atteso, l'avrei preferito.  La colpa del mio sbaglio si deve in
+gran parte alla Crusca, la quale non registra ^se non~ in senso
+di ^se no~; perch@e io avea dubitato col@a che potesse esser cos@i,
+e quel nostro fallace codice mi f@e rinunziare a tal pensiero.  Ma
+poi s@i questa che altre autorit@a classiche (e ne ho una sotto
+l'occhio delle ^Istorie Pistolesi~) nel convincermi che ^se non~
+vale ^se no~, mi han data una pruova di pi@u che il chiarissimo e
+benemerito autore della ^Proposta~ ha ragioni da vendere, nel
+dichiarare o mancante al bisogno o soprabbondante allo sproposito
+e spessissimo erronea ed ingannevole quella che, nella cieca fede
+de' molti, si usurpava il credito di oracolo infallibile.
+
+	|64-66.~  Il maestro disse: Noi faremo la risposta a
+Chirone, ch'@e cost@a di presso: mal per te la voglia tua fu sempre
+s@i subitanea ed impetuosa.
+
+	|67-75.~  Poi tent@o Dante col gomito e disse: Quegli a
+cui parlai @e Nesso che mor@i per la bella Dejanira, e f@e morendo
+egli stesso la vendetta di s@e con l'insanguinata camicia.  E quel
+di mezzo che si mira al petto, in atto cogitabondo, @e il gran
+Chirone il quale nudr@i Achille; quell'altro @e Folo, il quale fu
+s@i pien d'ira contro i Lapiti.  I centauri vanno a mille a mille
+d'intorno al circolare fosso, saettando qualunque anima si emerga
+dal sangue, pi@u di quel grado che la sua colpa le merit@o e dielle
+in sorte.  Nesso che fu pieno di cupidigia nel rapir Dejanira, e
+Folo che fu pieno d'ira nel trucidare i Lapiti, sono in relazione
+col v. 49: ^O cieca cupidigia, o ira folle!~  Nell'indicare i
+Centauri, Virgilio dicea cosa di gran significato, ond'@e chiamato
+^Maestro~; volea perci@o che Dante ponesse mente alle sue parole,
+ma volea nel punto stesso evitare il colpo che quel demonio avea
+minacciato: onde per destare attenzione nell'uno, e non perder di
+vista l'altro, tenta l'uno, senza levar gli occhi dall'altro.
+
+	|67-79 {Nota Finale}.~  Ci@o premesso, qui abbiamo tre
+centauri in questa posizione: Nesso a destra, che cupido rap@i
+Dejanira; Folo a sinistra, che fu s@i pien d'ira; Chirone in mezzo
+il quale nudr@i Achille: @e chiaro dunque che Chirone, riguardato
+dall'antichit@a come mente altissima, sia figura dell'anima posta
+fral concupiscibile malizioso ch'@e Nesso e l'irascibile malizioso
+ch'@e Folo e il poeta ramment@o ch'ei nudr@i Achille perch@e quel
+guerriero fu assai cupido ed iracondo: gl'immensi tesori che
+prese da Priamo in compenso d'un cadavero; e il primo verso
+dell'^Iliade~, anzi tutto quel poema, ci assicurano dell'altro
+suo vizio.  L'affetto per cui si brama @e quasi primogenito
+nell'anima, ed @e pi@u nobile di quello per cui si sdegna: onde
+Chirone ha Nesso a destra, e Folo a sinistra.  La mitologia, che
+sotto il velo della favola nasconde profondissime verit@a, ci
+presenta Chirone come ^figlio del Dio~ Saturno, ed inventore
+ingegnosissimo di molte utili cose: perci@o il poeta lo prescelse
+a figurar l'anima, ^figlia di Dio.~  Essa @e la pi@u grand'opera
+del suo fattore; onde chi la figura @e detto |il gran Chirone.~ 
+Il discorso, caratteristica dell'essenza razionale, @e la cosa pi@u
+grande che la distingue, onde Chirone aperse |la gran bocca~
+{79}; il concupiscibile @e pi@u nobile dell'irascibile, quindi
+Nesso @e chiamato ^il gran Centauro~ {104}.  Or osserviamo due
+serie sommamente filosofiche: la prima ne mostrer@a ci@o che accade
+nell'anima maliziosa; la seconda ci@o che accade nell'azione
+maliziosa.  Ia.  Nella testa s'inizia, e nel petto si compie il
+mal volere: la mente escogita, il cuore si determina; ed ecco
+come avviene la successione.  Ricevuta che ha l'anima
+l'impression de' sensi, tosto in lei nasce il pensiero, dal
+pensiero si desta l'affetto, e dall'affetto deriva l'azione e il
+discorso.  Or sapendo che gli occhi son figura dell'intelligenza,
+che il cuore @e la sede degli affetti, che l'azione si fa con la
+mano, e il discorso con la bocca, scorgiamo chiaramente che il
+poeta a dipingere la relazione che vi @e nell'anima fral pensiero
+e l'affezione, e tra questa e l'azione e la parola, pinse Chirone
+che al petto si mira, e che poi prende uno strale, e con esso si
+apre la bocca per parlare.  A spiegar meglio ci@o, diremo che
+Dante con bella frase chiama la bocca ^arco del dire~, forse per
+la sua forma ad arco.  E continuando la metafora considera la
+parola, che quasi vibrata n'esce a percuotere l'orecchio altrui,
+come un dardo che da quell'arco @e scoccato: onde nel ^Pg~ XXV
+17-18 scrisse: ^scocca L'arco del dir che in sino al ferro hai
+tratto~ cio@o, schiudi la bocca, e manda fuori la parola ch'@e in
+atto di uscirne.  E qui riducendo al solito l'astratto al
+visibile, in vece di dire che l'anima, prima di parlare ed
+operare, sta in taciturno raccoglimento, quasi a consulta de'
+suoi pensieri ed affeti, ne presenta Chirone che si mira al petto
+con bocca coperta dalla barba; e poi per mostrare che la parola,
+detta da lui ^dardo~, gli apr@i la bocca, disse che Chirone con la
+cocca del dardo rimosse la barba e parl@o, ci@o con la parola ruppe
+il silenzio.  Cos@i anche altrove: ^Molti han giustizia in cor ma
+tardi scocca, Per non venir senza consiglio all'arco~ {^Pg~ VI
+130-131}: cio@e, molti han giustizia nel cuore, ma timidi e tardi
+la manifestano per non venire, senza averci pria ben riflettuto,
+ad aprir la bocca, per dire il loro avviso.  <Non si trattien lo
+strale, Quando dall'arco usc@i>: cant@o Metastasio, rassomigliando
+la bocca all'^arco~ e la parola allo ^strale.~  E Plutarco
+paragon@o il parlare al dardeggiare con quella sentenza: <Ut
+egregius artifex jaculandi statim scopum petit, ita sapit qui
+pauca loquitur, sed ad rem>.  E Dante porter@a altrove s@i innanzi
+una tal metafora che dir@a: ^Lamenti saettaron me diversi Che di
+piet@a ferrati avean gli strali~ (^If~ XXIX 43-44).  Ed @e chiaro
+che i lamenti stessi erano gli strali ferrati che lo saettavano e
+pungevano di piet@a.  IIa.  I Centauri son nominati in questo
+ordine: ^Nesso, Chirone, Folo~, il che indica che la malizia
+prima desidera; poi pensa come ottenere; nel che eseguire corre
+all'ira, se trova ostacolo.  |Quegli @e Nesso~: il desiderare,
+prima operazione dell'anima.  |Quel di mezzo che al petto si mira
+@e Chirone~: il meditare come soddisfare il desiderio, seconda
+operazione dell'anima; |Quell'altro @e Folo che fu s@i pien d'ira~:
+il prorompere all'ira, trovando ostacolo: terza operazione
+dell'anima.  Il personificare le origini e le derivazioni, le
+cagioni e le conseguenze; il dar corpo ai pensieri ed agli
+affetti; il metter sotto gli occhi ci@o che accade nel segreto
+della mente e del cuore: questa @e la grand'arte di Dante.
+
+	|76-82.  Fiere snelle~ non solo dipinge la svelta parte
+inferiore de' Centauri, e la loro agilit@a nell'andare in traccia
+d'anime, ma ne fa vedere la rapidit@a della violenza che figurano. 
+Chirone prese uno strale, e con la cocca d'esso fece la sua barba
+dietro alle mascelle, onde aver libera la parola.  Quando s'ebbe
+cos@i scoperta la gran bocca, disse ai compagni: Vi siete voi
+accorti che quello di dietro (Dante che seguiva Virgilio) muove
+ci@o che tocca?  Cos@i non soglion fare i pi@e dei morti.
+
+	|83-87.~  E il buon duca che affrettando il passo, per
+non dargli tempo a tirar l'arco, gi@a gli era al petto dove le due
+nature (l'umana e l'equina) son congiunte, rispose: Ben @e vivo; e
+conviene a me s@i soletto mostrargli la valle buja: Necessit@a e
+non diletto ce lo induce.  Non @e certamente diletto il meditare
+sugli orrendi effetti de' vizj; ma necessit@a di migliorar s@e
+stesso ed altrui.  |Le due nature~, d'uomo e di cavallo, |son
+consorti~ nel petto del Centauro, perch@e <consortes dicuntur
+quorum fines contigui sunt>: Rob. Stef.  Virgilio, nel dire che
+conviene a lui |s@i soletto~ mostrar l'Inferno a Dante, vuol
+esprimere che, sebbene questo suo seguace e discepolo fosse mosso
+da impulso divino a quella meditazione (poich@e Beatrice mand@o
+Virgilio a soccorrer Dante) pure, trattandosi di disordini morali
+provenienti dai politici, la sola Filosofia politico-morale senza
+attuale concomitanza della scienza delle divine cose, gli era di
+scorta a quel viaggio mentale: e tosto s'indicher@a l'origine
+della missione.
+
+	|84 {Nota Finale}.~  Per lo stesso motivo i Centauri, ne'
+quali ^le due nature son consorti~, son ministri della pena in
+questo girone; per lo stesso motivo le Arpie, in cui met@a @e
+d'umano e met@a di bestiale, son produttrici di tormento nel
+girone seguente.
+
+	|88-90.~  Beatrice si part@i da cantare |alleluja~ perch@e
+Giovanni che ud@i cantare i beati narr@o: <Audivi quasi vocem
+tubarum multarum in Coelo dicentium alleluja> (cio@e, lode a Dio;
+voce ebraica).  L'|ufficio nuovo~ di Virgilio ricorda l'antico
+commessogli da Erittone.  Questo |non @e ladrone, n@e io [son]
+anima fuja~, o fura, vuol dire: Noi non veniamo qui a penare fra
+i violenti che rubarono l'altrui, ma dobbiam passar oltre per
+divina disposizione: dunque non farci ostacolo.  E con ci@o
+disinganna il Centauro che grid@o: ^A qual martiro venite voi?~
+
+	|90 {Nota Aggiunta}: Non @e ladron, n@e io anima fuja~:
+Siccome si scrive egualmente ^moro~ e ^mojo~, ^paro~ e ^pajo~,
+^acciaro~ e ^acciajo~, ^danaro~ e ^danajo~, e cento simili, cos@i
+Dante scrisse anche ^furo~ e ^fujo~, da ^fur~, lat.  Qui dunque
+|fuja~ @e sicuramente ^ladra.~  <Quelle femmine le quali son
+^ladre~ chiamiamo ^fuje~>, Boccaccio.  ^Fuoco furo~ sar@a detto un
+fuoco che invola alla vista alcuni dannati che vi son chiusi; e
+nel Paradiso incontreremo ^voglia, fuja di s@e~ e significher@a
+brama ^involatrice~ di s@e alla vista.  In luogo di dirsi altrove
+che l'Imperadore avrebbe distrutta la Guelfa potenza, che si
+aveva rubato il Lazio all'Impero, sar@a detto che un duce, ^Messo
+di Dio, ancider@a la fuja, cio@e la ladra~ (^Pg~ XXXIII 44).  E qui
+giova avvertire che quel ^Messo di Dio~ @e il medesimo ^Messo del
+Cielo~ del Canto IX.  Sedotto da mal avvisati interpreti, che
+sovente ci pongono le traveggole in vece di metterci gli
+occhiali, credei altra volta che in quel luogo del ^Purg.~ si
+parlasse di Can Grande; ma veggo ora chiaro che si parla di
+Arrigo ^erede dell'Aquila~ che avrebbe anciso ^il gigante che
+delinqueva con quella fuja~, cio@e Filippo il Bello.  Il picciolo
+signor di Verona poteva bens@i estendere il suo territorio tra
+Feltro e Feltro, ma non mai porre gi@u un re potentissimo, com'era
+quello di Francia; potealo bens@i quell'Imperadore destinato da
+Dante a regolar la Terra tutta.
+
+	|91-96.~  Segue Virgilio a dire a Chirone: Ma per quella
+virt@u celeste, per cui io muovo i passi miei per s@i disastrosa
+strada, danne un de' tuoi a cui noi siamo appresso, che ne
+dimostri il luogo ove si guada questo fiume, e che porti costui
+in sulla groppa all'altra riva: perch@e non @e spirito leggiero il
+quale pu@o andar per l'aria.  @E antico ufficio del robusto Nesso
+il passar guadi: <Nessus adit, membrisque valens, scitusque
+vadorum>: Ovid.  |A pruovo~, voce Lombarda tuttora viva, che vale
+^appresso~; forse da ^ad~ e ^prope~, da che ^adpropinquo.~
+
+	|97-99.~  Chirone si volse in sul destro lato, e disse a
+Nesso; Torna in dietro e li guida s@i come chieggono; e fa cansare
+altra schiera di centauri, se in voi s'imbatte e vuol farvi
+intoppo.
+
+	|97 {Nota Aggiunta}: Chiron si volse in su la destra
+poppa~: Gran capitale far@a il poeta delle parole ^destro~ e
+^sinistro~, ^dritto~ e ^manco~; e profondi significati in esse
+racchiuse: di somma utilit@a fia perci@o il dirne sol qualche cosa:
+poich@e l'estesa dimostrazione di quel che ora accenniamo sar@a in
+luoghi senza numero cui andremo incontro.  Dante s@i nella sue
+prose che ne' suoi versi d@a alla giustizia, o sia alla
+^rettitudine~, il nome di ^drittura~, onde trasse ^dritto~ cui f@e
+sinonimo ^destro~, che suonano per lui <retto, giusto, buono>
+ecc.  Quindi per antitesi ^sinistro~, ^manco~, ^mancino~ valgono
+<ingiusto cattivo, malvagio> ecc.  Idee che gli derivarono da
+quel luogo di S. Matteo dove si dice che nel d@i del Giudizio i
+giusti saranno ^a destra~, e gli empj ^a sinistra.~  Egli ha data
+molta estensione a tal concetto; onde ^destro~ e ^sinistro~
+valgono spesso ^meno cattivo~ e ^pi@u cattivo~ e perci@o i prodighi
+furono a destra e gli avari a sinistra.  Di pi@u: per dire che si
+volse a considerare un genere di peccati, proveniente non da
+profonda malizia ma da falsa persuasione, si volge ^a destra~; e
+per dire il contrario, si volge ^a sinistra.~  Entrato in Dite
+trova Epicurei prima, ed Eresiarchi peggiori dopo: laonde si
+volse ^a man destra~ l@a dove sta Epicuro coi seguaci ^che l'anima
+col corpo morto fanno~ (Vedi il termine del c. IX, e il principio
+del X); e si volse a ^sinistra~ l@a dove sta il Papa Anastagio ^Lo
+qual trasse Fotin dalla via dritta~ (X 133, e XI 8-9).
+
+	|85-99 {Nota Finale}.~  Il suo spirito che accumulava
+allusioni, spesso in un sol atto racchiudeva pi@u significati. 
+Eccone un altro, il pi@u ingegnoso fra tutti.  Essendo stato Nesso
+solito a portar altri in groppa, nel guadar fiumi, parrebbe che
+ci@o bastasse perch@e a questo uffizio lo destinasse: ma pur non @e
+tutto.  Il desio di meditare menava Dante pi@u gi@u, quindi il
+concupiscibile dovea fargli proseguire il viaggio; e perci@o Nesso
+@e prescelto, il quale prima lo conduce, e poi lo porta.  Ma esso
+ch'@e figura della ^cieca cupidigia~, l'avrebbe menato a ruina:
+bisognava dunque prima rettificarlo: e fu rettificato; vedete
+come.  La personificata Filosofia, politico-morale, ottima
+regolatrice e guida (^il mio buon duca~, 83) si avvicina al petto
+dell'anima personificata (^gi@a era al petto~ di Chirone, e
+influendo sul di lei affetto, dove la parte umana si distingue
+dalla bestiale (^ove le due nature son consorti~, 84) le dice:
+questo mio seguace @e virtuoso Ghibellino (|ben @e vivo~), e deggio
+io scortarlo a meditare sui cattivi effetti di corrotta societ@a
+(|mostrargli mi convien la valle buja~): Ci@o @e voler del Cielo
+(|Tal si part@i dal cantare alleluja~, ecc).  Dunque per quella
+forza superiore che mi guida (|per quella virt@u~, ecc), danne
+quello de' tuoi due moti che valga a menarci innanzi; ma tale, a
+cui noi possiam essere <ad approbationem> (|Danne un de' tuoi a
+cui noi siamo a pruovo~): acciocch@e ne dimostri il punto in cui
+possa passarsi, senza sperimentar l'effetto del peccato (|che ne
+dimostri l@a dove si guada~).  La figura dell'anima allor si volge
+a dritta, simbolo della rettitudine (|Chiron si volse in su la
+destra poppa~) e disse al concupiscibile (|e disse a Nesso~:
+Volgiti di malo in buono (|torna~, da ^tornare~, volgere); e
+guidali s@i rettificato, e com'essi chieggono (|e s@i li guida~): e
+fa allontanare altri cattivi desiderj se in voi s'imbattono, e
+vogliono farvi impedimento (|e fa cansar s'altra schiera
+v'intoppa~).
+
+	|100-105.~  I poeti si mossero con la scorta fida, lungo
+la proda del fiume vermiglio, ove gli spiriti che vi bollivano
+faceano alte strida.  Dante vide genti sotto il sangue, tuffate
+infino al ciglio; e il gran Centauro disse: Eglino son tiranni
+che violenti poser le mani nel sangue e nell'avere altrui.  <Qui
+manus in sanguine supermittunt>: Abacuc.
+
+	|106-108.~  Quivi si piangono i danni spietatamente
+fatti: quivi @e Alessandro e Dionisio fero, che fece avere alla
+Sicilia anni assai dolorosi.  Non sappiamo se questo Alessandro
+sia il Macedone o il Fereo.  Se rammentiamo del primo la rovina
+di Tebe, la morte de' prigionieri di Persia, l'assassinio di
+Menandro e di Efestione, e del filosofo Callistene suo
+condiscepolo, e del guerriero Clito suo amico, con altro che fa
+fremere la natura, vedremo che starebbe assai bene qui; come
+colui ^che di@e nel sangue e nell'aver di piglio~; onde Lucano lo
+appell@o ^felix proedo.~  Se ricordiamo del secondo le nefande
+atrocit@a di seppellir vivi gli uomini, o di vestirli di pelli
+ferine per farli divorar dai suoi molossi, ecc. scorgeremo ancora
+che non vi starebbe male.  Due furono ancora i Dionisj di
+Sicilia, ambo sanguinarj, ed ambo perci@o degnissimi di esser qui
+tuffati nel sangue.  Possiam giustamente dubitare che il poeta
+non caratterizz@o con pi@u distinzione n@e l'uno n@e l'altro de' due
+Alessandri e de' due Dionisj, affinch@e significassero tutti e
+quattro; cos@i pare che abbia fatto pi@u sotto di due ^Pirri~ e due
+^Sesti~; e solo si content@o distinguere due Rinieri.  Il Petrarca
+egualmente a Dionisio un@i Alessandro, senza individuar quali:
+<Que' duo pien di paura e di sospetto, L'uno @e Dionisio, e
+l'altro @e Alessandro>.
+
+	|100-108 {Nota Finale}.~  Il rettificato concupiscibile
+(|la scorta fida~) volge allora il dorso alla ruina, simbolo ed
+effetto della violenza maliziosa; e comincia ad avviarsi fra i
+peccatori sempre dalla maggiore alla minor colpa; dalla maggiore
+alla minor pena; e per la via fa da scorta e maestro sui gradi
+del peccato e del castigo, mostrando prima dannati che son
+tuffati nel sangue |sino al ciglio~; e poi altri ^sino alla
+gola~, e poi altri che tenean fuori ^tutto il petto~, di modo che
+quel sangue si facea basso a pi@u il pi@u, sin che giunsero l@a dove
+copria solo i pieidi, e quivi ridotto al minimo il fallo e il
+punimento, Dante portato sul dorso dal rettificato concupiscibile
+pass@o all'altra riva senza toccare il sangue (^quivi fu del fosso
+il nostro passo~ {126}).  Fatto ci@o la cupidigia cangiandosi
+nuovamente di buona in mala col rivolgersi, riede a tormentare i
+dannati (^poi si rivolse e ripassossi il guazzo~ {139}).
+
+	|109-110.~  Il Centauro nel dir |quella fronte~ ne fa
+intendere che la sola fronte si vedea fuori del sangue, e tutto
+il resto era dentro; il che indica somma crudelt@a: po@ich@e i gradi
+della maggiore o minor tirannide vengon qui denotati dai gradi
+della maggiore o minore immersione: onde questi due son pi@u
+colpevoli de' precedenti che possono vedersi ^fino al ciglio~
+{103}.  Azzolino, o Ezzelino da Romano nella Marca Trevigiana, di
+origine Tedesco, mostro di crudelt@a: onde Albertino Mussato,
+amico di Dante, in una sua tragedia latina, lo disse nato dal
+Demonio; cui segu@i l'Ariosto con que' versi: <Ezzelino,
+immanissimo tiranno, Che fia creduto figlio del Demonio, Far@a,
+troncando i sudditi, tal danno, E distruggendo il bel paese
+Ausonio, Che pietosi appo lui stati saranno Mario, Silla, Neron,
+Cajo ed Antonio>.  Delle molte efferit@a che commise udiam questa
+sola: <Dopo la ribellion de' Padovani rinchiuse nel prato di
+Padova dentro a un palancato dodici mila uomini, e tutti li fece
+ardere.  In questa crudelt@a si narra che avendo preso sospetto
+d'un suo cancelliere, chiamato Ser Aldobrandino, gli domand@o se
+sapea chi erano i rinchiusi nel palancato; e rispondendo il
+cancelliere che tutti gli avea notati in un suo quaderno, disse
+Azzolino aver determinato di voler presentar le anime di quelli
+al Diavolo, per molti beneficj ricevuti da lui: laonde voleva che
+andasse col quaderno insieme con loro all'Inferno, e
+nominatamente per sua parte glie li presentasse: e cos@i insieme
+con gli altri lo fece ardere>, Landino.
+
+	|111-112.~  Obizzo da Esti, Marchese di Ferrara, Guelfo
+rabbioso, crudele e rapace.  Ei f@e lega con Carlo d'Angi@o,
+favorendolo nella conquista del regno di Napoli, e con ci@o fu
+concausa della morte di Manfredi e Corradino, ultimi sostegni del
+partito imperiale, dopo la morte di Federico II.  <Ei fu fatto
+per la chiesa marchese della Marca d'Ancona, nella quale, ^Pi@u
+violenza che ragione usando~, fece un gran tesoro; e con quello e
+con l'ajuto de' suoi amici occup@o la citt@a di Ferrara; e cacci@o
+di quella la famiglia de' Vinciguerre con altri seguaci di parte
+Imperiale>: Boccaccio.  Sorda voce lo disse finalmente soffogato
+da un suo figliuolo di parte Ghibellina, detto qui |figliastro~
+per abominio e spregio.  Il fatto era dubbio, ma il poeta lo
+credea sicuro: onde fa dire al Centauro, |per vero fu spento dal
+figliastro.~
+
+	|113-114.~  Dante il quale si rammentava che un frenetico
+della palude degl'Iracondi gli si slanci@o contro per offenderlo,
+ora che passa sul fiume de' tiranni, assai peggiori di quelli,
+udendo il nome di quel da Esti, persecutore acerrimo de'
+Ghibellini, temendo un nuovo assalto dice: |Allor mi volsi~ ecc. 
+Quel volgersi al |poeta~ mostra turbamento d'animo e paura, come
+altrove sponemmo: Onde Virgilio gli disse: In questo punto
+pericoloso (|or~), questi ti preceder@a ed io ti seguir@o; e cos@i
+rimarrai fral Centauro e me, che sarem pronti a difenderti
+davanti e di dietro.
+
+	|109-114 {Nota Finale}.~  Lasciammo per via un atto e un
+detto significantissimo, a cui or torniamo.  Ezzellino che
+oppresse i sudditi era Vicario Imperiale; il figlio di Obizzo che
+uccise il padre era Ghibellino: onde il poeta all'udir rammentare
+quegli snaturati, inorridito all'idea delle criminose violenze,
+cagionate dallo stesso ardor che lui menava ^si volse al poeta~
+quasi per dire: come vuoi tu ch'io segua un affetto che strascina
+a tali atrocit@a?  E Virgilio che lo cap@i gli rispose: |Questi ti
+sia or primo, ed io secondo~: ei messo innanzi ti far@a ufficio di
+vela, ed io posto indietro ti far@o vece di timone in questo moral
+viaggio; il concupiscibile Ghibellino ti conduca, ma con la norma
+della filosofia Ghibellina.  Il timore che taluno tacci me di
+sognatore circa quel che ho detto, mi obbliga a chiamar Dante in
+testimonianza.  Ei dice nel ^Convito~ che l'anima umana @e come un
+cavallo che, per andar bene, deve esser cavalcato dalla ragione
+fornita di freno e di sprone.  Dice che il freno deve usarsi
+quando il concupiscibile ne mena innanzi, perch@e non oltrepassi
+il giusto segno; e che lo sprone ha da impiegarsi quando
+l'irascibile ne fa ^tornare~, cio@e volgerci indietro da ci@o che @e
+da fuggire; il freno lo chiama ^temperanza~, lo sprone lo chiama
+^fortezza~: quello ritiene il focoso concupiscibile perch@e non
+ecceda, questo eccita il restio irascibile perch@e fugga il male:
+e conchiude che l'anima ^convien guardare di retro @e dinanzi~
+(Dante fra Nesso e Virgilio) affinch@e ami i suoi maggiori da cui
+ha ricevuto essere e nutrimento (il che non fece il Ghibellino
+che uccise il padre); ed affinch@e ami i suoi minori da cui sia
+poi sostenuto ed onorato (il che non fece il Ghibellino che
+oppresse i sudditi).  Udiamo lui stesso, e perch@e riesca pi@u
+chiaro, premettiamo ch'ei chiama ^appetito~ tanto quello che
+cerca il bene, quanto quello che brama evitare il male; cio@e il
+concupiscibile e l'irascibile: <L'appetito in noi dal nostro
+principio (spirituale) nasce.  Questo appetito mai altro non fa
+che cacciar e fuggire (cercare ed evitare).  Questo appetito
+conviene essere cavalcato dalla ragione: ch@e siccome uno sciolto
+cavallo, senza il buono cavalcatore, bene non si conduce, cos@i
+questo appetito, che ^irascibile~ e ^concupiscibile~ si chiama,
+alla ragione ubbidire conviene, la quale guida quello con freno e
+con isproni come buono cavaliere.  Lo freno usa quando egli
+caccia, e chiamasi questo freno temperanza, la quale mostra lo
+termine infino al quale @e da cacciare (cercare).  Lo sprone usa
+quando fugge, per lo ^tornare~ (rivolgersi) dal loco onde fuggir
+vuole: e questo sprone si chiama fortezza, la quale mostra lo
+loco ov'@e da fermarsi e da pugnare.  E cos@i infrenato mostra
+Virgilio ecc.  Perch@e appare che nella nostra gioventute essere a
+nostra perfezione ne convenga temperati e forti: perch@e a questa
+et@a si conviene guardare diretro e dinanzi: conviensi amare li
+suoi maggiori, dalli quali ha ricevuto ed essere e nutrimento e
+dottrina; conviensi amare li suoi minori, acci@o poi sia da loro
+sostenuto ed onorato>.
+
+	|117.  Bulicame~ vale acqua che nel sorgere bolle, e qui,
+sangue che bolle: nome derivato dal famoso Bulicame di Viterbo.
+
+	|118-120.~  Nel 1270 Guido di Monforte, per vendicar suo
+padre, che per giusta cagione avea subita la morte in Londra,
+trafisse con una stoccata nel cuore un nipote di Arrigo III, re
+d'Inghilterra; e consum@o s@i nera atrocit@a entro una chiesa di
+Viterbo, nell'atto che si elevava la sacra ostia: onde il poeta
+con modo iperbolico dice che quegli trafisse (|fesse~) |in grembo
+a Dio il cuore che in sul Tamigi anchor si cola~, cio@e ^si cole.~ 
+In fatti quel cuore trasferito poi in Londra in una coppa d'oro,
+e collocato sopra una colonna presso il Tamigi, valeva a destare
+onorevole rimembranza e dolorosa in tutti coloro che ne aveano
+ammirato le rare virt@u; poich@e quel real rampollo <divoto e buon
+giovine era>: Boccaccio.  La singolarit@a del delitto, senza
+esempio atrocissimo, fa che l'anima dell'assassino sia |dall'un
+canto sola.~
+
+	|121-123.~  Poi Dante vide genti che fuori del sanguigno
+fiume tenean la testa; e poi altri che vi tenean tutto il petto
+(|casso~, da ^capsum~ lat. cassa del petto, torace).  I piccioli
+tiranni sono in maggior numero che i grandi; onde Dante, che
+vivea in que' tempi atroci, pot@e riconoscerne assai.
+
+	|124-126.~  Cos@i seguendo a scemarsi quel sangue si facea
+basso a pi@u a pi@u, s@i che copria solo i piedi de' dannati; e
+quivi fu il loro passo di quel fosso circolare.  Dante, che nelle
+pene procede sempre dal meno al pi@u, ha in questo canto invertito
+l'ordine; poich@e, dovendo passare il fiume sul dosso del
+Centauro, volea prepararsi pi@u facile il guado, l@a dove il sangue
+@e pi@u basso.  Per non violare per@o il suo sistema, fa che, giunti
+all'altra riva, si arrestino alquanto a considerare dal meno al
+pi@u quella tremenda pena; come or udiremo.
+
+	|127-139.~  Passati che furono il Centauro disse: Siccome
+tu vedi che il bulicame sempre si scema di altezza da questa
+parte, voglio che tu creda che, da quest'altra, prema gi@u con
+altezza di umori il fondo suo anche a pi@u a pi@u, fin che si
+riunisce e ricongiunge: punto il pi@u profondo, dove conviene che
+la tirannia gema.  La divina Giustizia di qua tormenta
+quell'Attila che fu flagello di Dio in terra; e Pirro e Sesto,
+tutti nel sangue intieramente tuffati; ed in eterno spreme le
+lagrime, che col bollore dagli occhi disserra, a Rinier da
+Corneto, ed a Rinier Pazzo, que' due famosi assassini che fecero
+tanta guerra alle pubbliche strade.  Poi ch'ebbe detto ci@o, il
+Centauro si rivolse dietro, e ripass@o il guazzo sanguigno. 
+<Attila flagellum Dei>, @e comun detto.  |Pirro~ o l'Epirota, o il
+Neottolemo, furono ambo crudelissimi.  |Sesto~, o il figlio di
+Tarquinio Superbo, o il figlio di Pompeo Magno, non furono
+migliori.  Gran parte di questo canto dee intendersi secondo
+l'allegoria assai diversamente da quello che secondo la lettera
+spiegammo: le seguenti Riflessioni ne faran fede.

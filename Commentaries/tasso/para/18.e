@@ -1,0 +1,116 @@
+	|2.~ |(ed.  Rosini)~
+^Spirto~, Anima.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+^Mio conforto~, Beatrice.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+^Sovra s@e tanto, s'altri non la guidi.  Se~, col subjuntivo.  [Sessa]
+
+	|19.~ |(ed.  Rosini)~
+Lume d'un sorriso.  [richiamo marginale] [Sessa]
+
+	|25.~ |(ed.  Rosini)~
+^Fulgor santo~, Anima.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+Di gran voce.  [richiamo marginale] [Sessa]
+
+	|33.~ |(ed.  Rosini)~
+^Opima~, grassa.  [Da Fino]
+
+	|37.~ |(ed.  Rosini)~
+^Lume~, Anima.  [Da Fino]
+
+	|39.~ |(ed.  Rosini)~
+Per lo splendor che fece.  [Da Fino]
+
+	|41.~ |(ed.  Rosini)~
+Roteando.  [richiamo marginale] [Sessa]
+
+	|42.~ |(ed.  Rosini)~
+Paleo.  [richiamo marginale] [Sessa]
+
+^Paleo~, che si volgea.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|50.~ |(ed.  Rosini)~
+^Alma~, Anima.  [Da Fino]
+
+	|53.~ |(ed.  Rosini)~
+^Il mio dovere~, che far dovessi.  [Da Fino]
+
+	|58-60.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|63.~ |(ed.  Rosini)~
+Beatrice.  [Da Fino]
+
+	|68.~ |(ed.  Rosini)~
+A differenza di Marte.  [Da Fino]
+
+	|73-75.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+Gru.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+Volitando.  [richiamo marginale] [Sessa]
+
+	|78.~ |(ed.  Rosini)~
+Enigma.  [Da Fino]
+
+	|82.~ |(ed.  Rosini)~
+^O diva Pegas@ea~, Calliope.  [Da Fino]
+
+	|85.~ |(ed.  Rosini)~
+^Rilievi~, possa ritrarre.  [Da Fino]
+
+	|88.~ |(ed.  Rosini)~
+Sta nell'enigma.  [Da Fino]
+
+	|93.~ |(ed.  Rosini)~
+^Sezzai~, ultimi.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+^Nell'M, terram.~  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+Ciocchi.  [richiamo marginale] [Sessa]
+
+	|100-103.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^Ciocchi~, tizzoni.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^Il Sol~, Dio.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+Dio.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+^Imprenta~, forma dell'aquila.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+^Gemme~, anime.  [Da Fino]
+
+	|122.~ |(ed.  Rosini)~
+^Templo~, chiesa.  [Da Fino]
+
+	|129.~ |(ed.  Rosini)~
+^Pio padre~, Dio [Da Fino]
+
+	|130.~ |(ed.  Rosini)~
+^Ma tu~, Papa: ^per cancellare~, per dispensare.  [Da Fino]
+
+	|134.~ |(ed.  Rosini)~
+^S@i a colui~, al danajo.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+S. Gio. Battista per i salti d'Erodiade.  [Da Fino]
+

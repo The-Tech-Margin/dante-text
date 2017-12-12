@@ -1,0 +1,31 @@
+
+Document parameters:
+	Doc. type  = Description
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante        687 Apr 28 13:08 staging/desc
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Giambullari
+	Language   = Italian
+	Pub. Year  = 1538-48
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/01
+
+Filtering 01.e...
+Verifying ../staging/inf/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      89466 Apr 28 13:08 ../staging/inf/01

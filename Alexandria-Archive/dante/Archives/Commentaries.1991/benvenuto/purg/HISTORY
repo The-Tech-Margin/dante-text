@@ -1,0 +1,14 @@
+Wed Feb 19 09:54:50 EST 1986 jvs pre-edited 1-10
+Tue Apr 1 11:31:48 EST 1986 jvs pre-edited 18-33
+Tue Jan 31 14:21:42 EST 1989 all .s files deleted by jma
+Sun Feb 12 14:28:05 EST 1989 preloaded purg 1-15 jvs
+Mon Feb 20 08:59:45 EST 1989 05.f: removed xfer garbage ^[[2~ jvs
+Mon Feb 20 09:04:50 EST 1989 preloaded corrected 05.f jvs
+Thu Mar 23 15:43:57 EST 1989 jvs removed obsolete .e files. renamed .f files to .e
+Mon Mar 27 09:09:48 EST 1989 jvs rm old.e files: mv old.load => new.e files
+Tue Jun 27 22:59:44 EDT 1989 jvs rm'd compressed .e files, mv'd .load => .e
+Tue Jun 27 23:05:02 EDT 1989 jvs deleted ligatures in .e => .noligs, as directed by bobh
+Mon Jul 31 07:38:27 EDT 1989 jvs deleted obsolete .e files: those with ligatures
+Mon Jul 31 07:38:41 EDT 1989 jvs renamed .noligs files to .e files
+Mon Aug 21 08:59:43 EDT 1989 bobh adjusted note to 02.46-48:
+...plenius {e.g., ad ^Inf.~ 4.57}.

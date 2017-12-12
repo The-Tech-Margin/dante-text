@@ -1,0 +1,1156 @@
+	|1-39.~  The prayer to the Virgin which follows is one of the
+great passages of the ^Commedia~, of surpassing beauty even to those
+who may be unable to give her the same intensity of devotion and
+veneration which breathes like a sweet odour through the lines.  It
+falls into two parts -- the praise of the Virgin (ll. 1-21); and the
+intercession for Dante (ll. 22-39).  While Mr. Gardner is right in
+saying that the simple affection of the heart is a better interpreter
+of the prayer than `the cold light of dogma,' it is to be remembered
+that with St. Bernard the light of dogma is never cold.  When he speaks
+of Mary, his words glow and burn with the heart's own fire; and while I
+shall not interrupt the beauty and devotion with comments, it may be of
+interest to give in the footnotes parallel passages from the Saint's
+own writings, in order to see how faithfully the poet reproduces his
+spirit.  As an introduction, and to show the power which Bernard
+believed Mary to possess, I may quote the prayer with which he closes
+his second sermon on the Advent: `Let us also strive, most beloved, to
+ascend through her to Him who through her descended to us; through her
+to come into the grace of Him who through her came into our misery. 
+Through thee may we have access to the Son, O blessed finder of grace,
+author of life, mother of salvation [`O benedicta inventrix gratiae,
+genetrix vitae, mater salutis']: that through thee He may receive us,
+who through thee was given to us.  May thy integrity excuse before Him
+the guilt of our corruption, and thy humility, pleasing to God, obtain
+the pardon of our vanity.  May thy abundant charity cover the multitude
+of our sins, and thy glorious fecundity confer upon us fecundity of
+merits.  Our Lady, our Mediatrix, our Advocate [`Domina nostra,
+mediatrix nostra, advocata nostra.'  It is to be remembered, of course,
+that the Church has no intention of setting the mediation of Mary above
+that of Christ, or in any sense independent of it.  `Evil, indeed,
+would this devotion be, if it diminshed or obscured, ever so little,
+that supreme devotion to God, who is over all, and to Jesus Christ whom
+He has sent.  But one who dared to put Mary on an equality with God, or
+to deny that Christ is the "one mediator between God and man" -- i.e.
+the sole author of our redemption, the beginner and the finisher of our
+faith -- would, by that very fact, cease to be a Catholic' (^Cath.
+Dictionary~, 607).  Mary is a creature, though the highest, and is
+herself dependent on the mediation of her Son for salvation.  It is
+held, however, that as she co-operated with Him in the work of
+Redemption by consenting to become His mother, this co-operation is
+continued in the distribution of His merits.  Her position as mediatrix
+is therefore that of the highest and holiest channel by which the
+benefits of His salvation are conveyed to mankind.  Apart from Him,
+there were no benefits to convey.  It is obvious that Dante had all
+this clearly before his mind.  Mary's position as one of the Redeemed
+in the Rose is proof.  He must have been familiar with the distinction
+of Aquinas between ^latria~, the worship due to God; ^dulia~, the
+veneration given to saints and Angels; and ^hyperdulia~, the higher
+veneration given to Mary, as the most exalted of creatures (^Summa~,
+ii-ii. q. ciii. a. 3, 4)], reconcile us to thy Son, commend us to thy
+Son, represent us to thy Son.  Obtain, O blessed one, by the grace
+which thou hast found, by the prerogative which thou hast merited, by
+the mercy which thou hast brought forth, that He who through thy
+mediation deigned to become partaker of our infirmity and misery, may
+also through thy intercession make us partakers of His glory and
+blessedness, Jesus Christ, thy Son, our Lord, who is over all God
+blessed for evermore.  Amen.'  The position given to Mary in the poem
+shows that Dante was in perfect sympathy with this prayer.  From her
+comes the first movement of his salvation in the beginning of the
+^Inferno~; from her at the close of the ^Paradiso~ comes the final
+grace by which his eyes are strengthened to see God.  She was his Lady,
+his Mediatrix, his Advocate.  I give Longfellow's rendering of the
+prayer he now puts in St. Bernard's lips:
+
+     `Thou Virgin Mother,{1} daughter of thy Son,{2}
+     Humble and high beyond all other creature,{3}
+     The limit fixed of the eternal counsel,{4}
+     Thou are the one who such nobility
+     To human nature gave, that its Creator
+     Did not disdain to make Himself its creature.
+     Within thy womb rekindled was the love,
+     By heat of which in the eternal peace
+     After such wise this flower has germinated.{5}
+     Here unto us thou art a noonday torch
+     Of charity,{6} and below there among mortals
+     Thou art the living fountain-head of hope.{7}
+     Lady, thou art so great, and so prevailing,
+     That he who wishes grace, nor runs to thee,
+     His aspirations without wings would fly.{8}
+     Not only thy benignity gives succour
+     To him who asketh it, but oftentimes
+     Forerunneth of its own accord the asking.{9}
+     In thee compassion is, in thee is pity,
+     In thee magnificence; in thee unites
+     Whate'er of goodness is in any creature.{10}
+     Now doth this man, who from the lowest depth
+     Of the universe as far as here hath seen
+     One after one the spiritual lives,{11}
+     Supplicate thee through grace for so much power
+     That with his eyes he may uplift himself
+     Higher towards the uttermost salvation.
+     And I, who never burned for my own seeing
+     More than I do for his, all of my prayers
+     Proffer to thee, and pray they come not short,
+     That thou wouldst scatter from him every cloud
+     Of his mortality so with thy prayers,
+     That the Chief Pleasure be to him displayed.
+     Still farther do I pray thee, Queen, who canst
+     Whate'er thou wilt, that sound thou mayst preserve
+     After so great a vision his affections.
+     Let thy protection conquer human movements;
+     See Beatrice and all the blessed ones
+     My prayers to second clasp their hands to thee!'
+
+[{1} The virginity of Mary is an endless theme of wonder and
+praise with Bernard.  `What tongue,' he asks, `though it were that
+of an Angel, could extol with worthy praises the Virgin Mother:
+mother not of some one, but of God?...  What angelic purity may dare
+to be compared to that virginity which was worthy to become the
+shrine of the Holy Spirit and the habitation of the Son of God?'
+(^In Assumptione B.V.M.~, Serm. iv).]
+
+[{2} Comp. Petrarch's prayer to the Virgin:
+
+     `Vergine pura, d'ogni parte intera,
+          Del tuo parto gentil figliuola e madre';
+
+and Chaucer's rendering of ll. 1-21 in the ^Second Nonne's Tale.~]
+
+[{3} Bernard regards humility as of greater value than even
+virginity: `laudable is the virtue of virginity, but more necessary is
+humility.  The first is of counsel, the latter of precept....  Without
+humility (I dare to say) the virginity of Mary had not been pleasing
+to God' (^De Laudibus B.V.M.~, Hom. i).  It was by humility she
+became the mother of the Saviour: see ^Purg.~ x. 34-45.  The perfect
+union of the two lifts her to the supreme rank among creatures, human
+and Angelic (^In Nat. B.V.M.~]
+
+[{4} The woman worthy to be the `Mother of God' must have been
+elect from the beginning.  `It was needful that the Maker of men, in
+order to become man, should choose for Himself out of all, nay
+create, such a mother as He knew to be worthy of Himself.'  `Not
+found recently or by chance, but elect from eternity, foreknown and
+prepared for Himself by the Most High, guarded by Angels, signified
+before by the patriarchs, promised by the prophets.'  The Scriptural
+proof of her election to this great honour is Gen iii. 15, Prov.
+xxxi. 10, Is. xi. 1 (^De Laudibus Virginis~, Hom ii).]
+
+[{5} The `love' of l. 7 probably refers to Luke i. 35: `The Holy
+Ghost shall come upon thee' -- love being the special attribute of
+the Spirit.  The restoration of the `supernal city' was attributed
+by Bernard to Mary: `Through thee heaven is replenished, hell
+emptied, the ruins of the heavenly Jerusalem restored' (^In Assump.
+B.V.M.~, Serm. iv).  `In thee the Angels evermore find joy, the
+just grace, sinners pardon.  Rightly do the eyes of the whole
+creation look to thee, for in thee, and through thee, and for thee
+the bounteous hand of the Almighty has re-created what things soever
+He had created' (^In Festo Pentecostes~, Serm. ii).]
+
+[{6} In ^Cant. Canticorum~, Serm. xxix. 8, Bernard uses another
+figure: `There is also the elect arrow, the love of Christ, which
+not only pierced the soul of Mary, but transfixed it through and
+through, that it might leave no spot in that virgin breast empty of
+love, but that she should love with all the heart, and with all the
+soul, and with all the strength, and be full of grace.  Or perhaps
+it transpierced her, that it might come even to us, and that of that
+fulness we might all receive, and that she might become the mother
+of charity, of which God who is charity is the Father, bringing
+forth and setting her tabernacle in the sun.']
+
+[{7} In his sermon ^In Nativ. B.V.M.~ Bernard calls Christ the
+fountain of living waters, and Mary the aqueduct by which the
+heavenly stream reaches us -- an aqueduct whose summit, like the
+ladder which Jacob saw, touches the heavens, yea transcends the
+heavens, and reaches that most living fountain of the waters which
+are above the heavens.  Dante seems almost to go beyond Bernard:
+Mary is more than the aqueduct, she is `the living fountain' of the
+hope of glory.]
+
+[{8} In this same sermon ^De Aquaeductu~: `Dost thou wish to have
+an Advocate with Christ?  Fly to Mary.  Without doubt the Son will
+hear the Mother, the Father will hear the Son.  This is the ladder
+of sinners, this my greatest confidence, this the whole ground of
+my hope.'  In Hom. ii. ^De Laudibus Virg. Matris~, speaking of
+^Maria~ as ^Maris stella~, Bernard says: `O thou, whoever thou be,
+who perceivest thyself to be tossed about in the flux and flow of
+this world among storms and tempests, rather than to walk on the
+earth: turn not away thine eyes from the shining of this star, if
+thou wish not to be overwhelmed by the storms.  If winds of
+temptations arise, if thou run among rocks of tribulations, look to
+the star, call on Mary.  If thou art tossed by waves of pride, of
+ambition, of detraction, of jealousy, look to the star, call on
+Mary,' etc.  Elsewhere he says `God wishes us to have nothing that
+does not pass through the hands of Mary.'  God `placed the plenitude
+of all good in Mary, that thus if there is anything of hope in us,
+if anything of grace, if anything of salvation, we might know that
+it redounds from her.']
+
+[{9} In ^Conv.~ i. 8 Dante quotes Seneca that `nothing is bought
+so dear as that which is purchased with prayers': perfect liberality
+is to give without being asked, as the rose gives its fragrance
+(^Conv.~ iv. 27; ^Purg.~ xvii. 59).  As we saw, Mary, as prevenient
+grace, came to Dante's rescue through Lucia and Beatrice, not in
+answer to any prayer of his, but of her own pity and charity.  See
+above {comm. to ^Par.~ 32.115-138}.]
+
+[{10} Buti thinks ^misericordia~ (compassion), ^pietate~ (pity),
+and ^magnificenza~ (magnificence, the doing of great things) are
+singled out from the other virtues of the Virgin because of the
+lines preceding (16-18).  Her ^misericordia~ is shown in succouring
+him who asks; her ^pietate~ in forerunning the asking; and her
+^magnificenza~ in carrying the great things in which she succours to
+a perfect end.  `We praise thy virginity,' says Bernard, `we marvel
+at thy humility: but thy compassion (misericordia) tastes sweeter to
+the wretched, we embrace thy compassion more lovingly, we remember
+it oftener, we call upon it more frequently' (^In Assump. B.V.M.~,
+Serm iv).  In his ^Cant. Canticorum~, Serm. xii. he says the
+perfume of piety (^unguentum pietates~) is the most excellent of
+all, `because it is made of the necessities of the poor, of the
+anxieties of the oppressed, of the unrests of the sad, of the faults
+of sinners, and finally of all the distresses of those who are
+wretched, though they should be our enemies....  Many miseries,
+therefore, gathered together, and looked on with the eye of pity
+(^oculo pietatis~), are the species from which the best perfumes are
+compounded, worthy of the bosom of the Bride, and pleasing to the
+senses of the Bridegroom.']
+
+[{11} The point of this reference is that it was by Mary's grace
+that Dante made his great journey down to `the lowest lagoon of the
+universe' and up to the White Rose.  She is not merely ^Regina
+Coeli~, but, in Bonaventura's words, ^Domina coelestium,
+terrestrium, et infernorum.~  To her, says Bernard, `look both those
+who dwell in heaven and those in hell..., those who are in heaven,
+that their ranks may be restored; and those in hell, that they may
+be delivered' (^In Festo Pentecostes~, Serm. ii).  It was by Mary's
+authority and power as Domina infernorum that Beatrice was able to
+enter Limbo and send Virgil to guide Dante through the kingdom of
+the lost.  I incline to think that we have here the solution of a
+most difficult passage in the ^Inferno~ (ix. 64-103 -- the opening
+of the gates of the City of Dis and the rebuke of the rebel angels by
+one `sent from heaven.'  In my ^Exiles of Eternity~ {comm. to ^Inf.~
+9.88}, I suggested that this unnamed Messenger is Michael who hurled
+these rebel angels out of heaven, sent now on another errand of
+judgment.  I now suggest that it is Gabriel, for two reasons. (1) He is
+described as ^del ciel messo~, `sent from heaven,' an echo, in my
+view, of the Vulg. of Luke i. 26, ^Missus est~ angelus Gabriel ^a
+Deo~ (comp. Bernard's Homilies `Super ^Missus est~ which he himself
+preferred to call `De Laudibus Virginis Matris').  (2) The second
+reason is more significant.  The `sent from heaven' opened the gate
+of Dis with a rod -- ^una verghetta.~  What I suggest is that this
+^verghetta~ is the ^virga~ which was universally regarded as a type
+or figure of the Virgo.  Aaron's rod that budded of itself was the
+Virgin; the rod from which Jesus, the Flower of Nazareth, bloomed
+(Is. xi. 1, Vulg.: Et egredietur ^virga~ de radice Jesse, et ^Flos~
+de radice eius ascendet).  The writings of the mediaeval mystics
+overflow with this play of piety on ^virgo~ and ^virga.~  Now
+Bonaventura, in the passage just referred to, connects this with
+Mary's power and authority as ^Domina daemonum~: `Consider how Mary
+is Domina daemonum in hell, so powerfully ruling over them that the
+passage of the Psalm (cx. 2) may be taken as referring to her:
+Virgam virtutis tuae emittet Dominus, etc. ^Virga virtutis~ est
+^virgo Maria~....  Haec virga virgo Maria, virga virtutis est contra
+inimicos infernales, quibus magna virtute dominatur.'  In the light
+of such a passage it is not unnatural to suppose that the ^verghetta~
+of the Messenger from heaven is the symbol of the ^virga~ of the
+Virgin -- the rod of power by which she ruled the demons as their
+Domina.  Mary's name, like her Son's, is never mentioned in the
+^Inferno~, but Dante indicates here and elsewhere that the powers of
+darkness are subject to her.  E.g., in ^Inf.~ iii. 95 and v. 23
+Virgil silences the opposition of Charon and Minos to Dante's
+journey by the words:
+
+     `It is so willed there where is power to do 
+     That which is willed.'
+
+This is universally taken as meaning the will of God.   But in ^Par.~
+xxxiii. 34 Bernard attributes the same power to Mary: `Queen, who hast
+power to do that which thou wilt.'  It seems to me, therefore, that
+Virgil's words to Charon and Minos refer to Mary as ^Domina daemonum~
+whose will has power behind it -- the ^virga virtutis~, of which the
+^verghetta~ of the one `sent form heaven' was the symbol.  If the
+Messenger was Gabriel, the storm with which he swept across the Stygian
+Fen shows how he fulfilled the meaing of his name, Fortitudo Dei, the
+Strength of God, armed as he was with the `virga virtutis,' the rod of
+power of Virgo Maria.  He represents some intervention of the Virgin's
+grace to save Dante form the fiends of doubt that held the gate of the
+City of Heretics.]
+
+Three petitions may here be distinguished.  That `every cloud of his
+mortality' may be scattered is regarded by some as a reminiscence of a
+passage in Virgil; and doubtless in form it is so [^Aen.~ ii. 604-606:
+
+     `Aspice, namque omnem, quae nunc obducta tuenti
+     Mortales hebetat visus tibi, et humida circum
+     Caligat, nubem eripiam.'
+
+The speaker is Venus, the mother of Aeneas, and the cloud she promises
+to withdraw from his mortal sight is that which hides from him the
+deities who are aiding the Greeks in the destruction of Troy].  But
+Dante filled the heathen form with Christian contents.  It is a
+petition that the last vestige of the darkness of original sin and its
+consequences be swept away from his soul.  The loss of original justice
+through Adam inflicted, according to Aquinas, four wounds on our
+nature: ignorance in the intellect, badness in the will, weakness in
+things that require courage, and concupiscence, the rebellion of the
+senses against reason and Divine law [^Summa~, i-ii. q. lxxxv. a. 3:
+`Ignorantia in intellectu, malitia in voluntate, infirmitas in
+irascibili, et concupiscentia in concupiscibili.'  Father Rickaby has a
+characteristic note on ^irascible~ and ^concupiscible~: it will help an
+Englishman to understand if we call the former Pluck and the latter
+Passion.  `Pluck fails, and Passion runs to excess, till Pluck is
+formed to fortitude, and Passion to temperance' (^Moral Phil.~ 86 n.)];
+and this wound of sin, overflowing the bounds of the soul, involved the
+body in diseases and death [^Summa~, i-ii. q. lxxxv. a. 5].  These
+are the clouds of mortality from which Dante must be freed before he
+could uplift his eyes to `the last salvation'; and since the clouds had
+their rise in the sin of Eve, they could be dissipated only by the
+grace won through the prayers of her who closed the wound which she had
+made.
+
+	|34-36.~  The second petition (ll. 34-36) has regard to the time
+when the great vision is past, and Dante must return to the earth and
+to himself.  What will then be the effect of this supernatural vision
+of the intellect on the affections of the heart?  Will they remain
+sound, sane, healthy; or will they be thrown by the reaction of the
+ecstasy into morbid disorder and confusion?  In a Sermon on the right
+ordering of the affections, Bernard says the human soul cannot exist
+without four affections -- love and joy, fear and sorrow.  Rightly
+ordered, they sit as a crown of virtues on the soul; inordinate, they
+are confusions and perturbations.  The prayer then is that when Dante
+returns to himself the very excess and rapture of intellect in `so
+great a vision' may not throw the affections of his heart into an
+unhealthy disorder and confusion [in ^Cant. Canticorum~, Serm. xlix. 4,
+Bernard distinguishes two kinds of ecstasy: `one in the intellect, the
+other in the affection; one in light, the other in heat; one in
+knowledge, the other in devotion; verily, pious affection, and the
+heart glowing with love, and the infusion of holy devotion, yea, and a
+vehement spirit full of zeal: these assuredly are brought back from no
+other where than the banqueting house; and whoso can rise from prayer
+endowed with the fulness of these things, can say with truth: `The King
+hath brought me into his banqueting house' (^in cellam vinariam~, Vulg.
+Cant. ii. 4)]. 
+
+	|37.~  The last petition is that the guardianship of the Virgin
+may conquer every movement that has its source in himself alone,
+the mere natural man, that through her grace every movement of his
+being may have a supernatural beginning and end, from God to God.  It
+is, as Hettinger says, a prayer for perseverance, a virtue that Bernard
+was never tired of urging on his hearers.  [Perseverance is `the image
+of the Divine eternity,' and it alone receives the crown.  `Not he who
+begins, but he who perseveres, the same shall be saved.  Many can
+begin, few can persevere.  Perseverance is the daughter of the most
+high King, the fruit of virtues and their consummation, the storehouse
+of all good: a virtue without which no one shall see God, nor by God be
+seen' (^In Festo S. Andreae Apos.~, Serm. ii).]
+
+	|40-54.~  The remainder of the Canto forms the answer to the first
+petition of this prayer.  Mary first fixed her eyes, `beloved of God
+and venerated,' on St. Bernard, then turned them to the Eternal Light
+in intercession.  As no other creature can pierce so far into that
+Light, so none can see so clearly the soul's needs, or help so surely. 
+In a moment Dante felt all yearning die away, because he now drew near
+the end of all desire.  Since God is `the good of the intellect,' and
+the intellect can rest only in Him, desire itself fades away in the
+perfect satisfaction of seeing Him as He is.  Dante needed not
+Bernard's smile and sign to made him look up: already his purified
+vision was entering deeper and deeper into `the high Light which of
+itself is true.'  [In God, being and intellect are one, hence He is
+truth in and of Himself, whereas all else is true only according to its
+participation in the Divine intellect.  `His being is not only
+conformed to His intellect, but it is His intellect itself; and His
+intellect is the measure and cause of every other being and of
+every other intellect; and He Himself is His own being and
+intelligence.  Hence it follows that not only is truth in Him, but that
+Himself is the sovereign and first truth' (^Summa~, i. q. xvi. a.
+5).] 
+
+	|55-75.~  From this point onward he warns us again and again, as
+he did at the very beginning of the poem, that his vision, being beyond
+the bounds of the natural powers, is of necessity beyond the limits of
+both speech and memory.  He is like a man awaking from a dream who
+finds that the clear outlines of the vision have vanished, and nothing
+remains but the sweetness of the passion which it has imprinted on the
+mind.  As the snow unseals itself to the sun and melts away; as on the
+leaves the oracle of the Sibyl vanished light upon the wind [the
+reference is to ^Aen.~ iii. 441-452.  The Cumaean Sibyl wrote her
+oracles on the leaves of trees and left them in her cave; at the
+turning of the hinge a breath of wind sets them flying, and she never
+gathers them together again], so vanished from his memory that which he
+had seen `with open face.'  He can only invoke the Light Supreme to
+relend to his mind a little of what He had appeared to him, and to give
+his tongue power to leave one spark of His glory to future generations,
+that even from the spark they might conceive how far He transcended
+`mortal thoughts.'  [`Thy victory' in l. 75 is not, in the first
+instance, the infinite greatness and excellence of God by which he
+conquers or transcends the universe, though of course that is
+involved.  But Dante's immediate thought is what he is speaking of --
+the way in which the vision of God conquered all his mortal powers, so
+that no more than a spark of it remains in his memory.]
+
+	|76-78.~  Dante proceeds to tell how he gazed at the piercing ray,
+until his vision became one with the Infinite Goodness, and he
+had boldness to look until he `consumed his sight upon it':
+
+     I believe, by the kneeness of the living ray
+     Which I endured, I had bewildered been,
+     If but mine eyes had been averted from it.
+
+The reason is that, were it possible for a soul that sees the
+Highest to turn to some lower good, the very conception of good
+would be darkened and confused.  It is not possible, as is
+expressly stated in ll. 100-105:
+
+     In presence of that Light one such becomes,
+     To turn from it to any other sight,
+     It is impossible he e'er consent.
+     Because the good which of the will is object
+     Is gathered all in it, and outside it
+     That is defective which is perfect here.
+
+[The good is the natural object of desire, however mistaken we may
+be as to what it is.  `God in His goodness includes all goodnesses, and
+thus is the good of all good.  God is good by essence; all other beings
+by participation: therefore nothing can be called good except inasmuch
+as it bears some likeness to the divine goodness.  He is therefore the
+good of all good' (^Cont. gent.~ i. 40, Rickaby's trans.).  It follows
+that apart from Him, all good is defective, as the part is, severed
+from the whole.]  `It is impossible,' says Aquinas, `that any one
+seeing the Divine Essence should wish not to see it: because every good
+gift which one is willing to go without, is either insufficient, so
+that something else more sufficing is sought in its place, or has some
+inconvenience annexed to it, whereby it comes to excite disgust.  But
+the vision of the Divine Essence fills the soul with all good things,
+since it unites to it the Source of all good....  In like manner that
+vision has no inconvenience annexed: as it is said of the contemplation
+of wisdom: "Her conversation hath no bitterness, nor her company any
+tediousness" (Wisd. viii. 16).  Thus it is evident that of his own
+will the happy being cannot forsake happiness' [^Summa~, i-ii. q. v. a.
+4 (Rickaby's trans.).  Comp. St. Bernard, ^De Consideratione~, v. 13:
+`When we shall see Him face to face, we shall see Him as He is.  When
+that blessed time shall come, the poor, weak blade of our intellect,
+however hard it may strike, will not recoil, or be broken to shivers. 
+It will rather concentrate itself, and will conform itself to His
+unity, or rather to that Unity, so that we shall have one face
+corresponding to His one face' (Lewis' trans.).  One is also reminded
+of Tennyson's line already quoted:
+
+     We needs must love the highest when we see it,
+
+and the verse from Frederic Myers' ^St. Paul~:
+
+     Whose hath felt the Spirit of the Highest
+       Cannot confound nor doubt him nor deny:
+     yea with one voice, O world, tho' thou deniest,
+       Stand thou on that side, for on this am I].
+
+	|79-84.~  The feeling that could he turn away all were lost, gave
+Dante boldness to endure the keen ray to the utmost:
+
+     And I remember that I was more bold
+     On this account to bear so much that I united
+     My aspect with the Goodness Infinite.
+     O grace abundant, whereby I did presume
+     To fix my sight upon the Light Eternal,
+     So that my vision was consumed therein!
+
+This last line is rendered by Vernon: `I exhausted all there was to be
+seen in it,' which is precisely what Dante never could have meant.  The
+teaching of Aquinas is that the souls ^in patria~ see the Essence of
+God by the union of that Essence with their intellect.  Yet since God
+is what Dante here calls Him, the Infinite Goodness, He is capable of
+being known to infinity, and this is beyond the power of any created
+intelligence.  The Blessed see God more perfectly or less according to
+the measure of their charity, and Dante, of course, could see no more. 
+He does not mean, therefore, that he exhausted all there was to be seen
+in the Eternal Light, -- that would imply that the finite creature was
+able to comprehend the infinitude of his Creator.  He means just what
+he says, that he consumed his own sight: he gazed into the Light
+Eternal till he reached the last limit of his power of vision, the
+limit begin determined by the measure of his charity [^Summa~, i. q.
+xii. a. 5-8.  In art. 6 Aquinas says: `The intellect that participates
+more in the ^lumen gloriae~ will see God more perfectly.  But he will
+participate more in the light of glory who has more of charity; because
+where is the greater charity, there is the greater desire; and desire
+makes him who desires in some fashion apt and prepared for the
+reception of the thing desired.  Hence he who will have the most of
+charity will see God more perfectly, and will be more blessed.'  This
+certainly seems to contradict the Thomist doctrine (see above {comm. to
+^Par.~ 28.106-111}) that knowledge of God determines the love, and not
+conversely.  The difficulty is solved, I understand, by drawing a
+distinction between charity ^in via~ and ^in patria.~  Charity on earth
+^merits~ the vision of God; but charity in Paradise is the ^effect~ of
+the vision.  There is unreality in such distinctions: the more we love
+God the more we know Him, and the more we know Him the more we love
+Him.  Love and knowledge are mutually cause and effect].
+
+
+	|85-93.~  In the Beatific Vision which now breaks upon the
+intellect, Dante distinguishes three moments in an ascending scale. 
+The first and lowest is the immediate and simultaneous knowledge of the
+entire created universe in God (ll. 85-93).  It is the perfect
+celestial fulfilment of what Aquinas calls `the ascent through
+creatures to the knowledge of God by the natural light of reason'
+[^Cont. Gent.~ iv. 1].  Against those who held that the existence of
+God, being either a self-evident truth or one revealed to faith, is
+incapable of demonstration, Aquinas argues from Rom. i. 20: `For the
+invisible things of him from the creation of the world are clearly
+seen, being understood by the things that are made, even his eternal
+power and Godhead.'  That knowledge which begins thus in `the natural
+light of reason' is now made perfect in the supernatural `light of
+glory': `the universal form' of the whole creation flashing on the
+intellect in one glance of direct, immediate vision.  The second and
+infinitely higher moment is the vision of the Holy Trinity (ll.
+106-126), from which the whole creation flows.  `The highest goodness
+of God,' says Aquinas, `according to the mode in which it is at present
+known ^by its effects~, can be known apart from the Trinity of persons;
+but according to the knowledge of it ^in itself~, as it is seen by the
+Blessed, it cannot be known apart from the Trinity of persons'
+[^Summa~, ii-ii. q. ii. 8.  St. Bernard (^In Festo Omnium Sanctorum~,
+Serm. iv. 3) says: `In that eternal and perfect beatitude we shall
+enjoy God in a threefold way, seeing Him in all creatures, having Him
+in ourselves, and (which is ineffably more joyful and blessed than all
+these) knowing the Trinity in itself, and contemplating that glory
+without any aenigma with the pure eye of the heart.  For in this will
+be life eternal and perfect, that we know the Father and the Son with
+the Holy Spirit, and see God as He is: that is, not merely as He is in
+us, or in other creatures, but as He is in Himself'].  Beatitude
+consists in the vision of the Divine Essence as it exists in Father,
+Son, and Spirit.  It is difficult to say whether Dante claims to have
+seen the very Essence.  The Trinity appears to him under the similitude
+of three circles of light of different colours, and Aquinas declares
+that to say God is seen through a similitude is equivalent to saying
+that the Divine Essence is not seen at all [^Summa~, i. q. xii. a. 2]. 
+The third and supreme moment is the vision of the Incarnation (ll.
+127-141), which all mediaeval theology regarded, in its union of
+Divine and Human, as the final mystery of all being [comp. ^Par.~ ii.
+40-42; vii. 28-33; xiii. 25-27.  `The piety shown by Richard of St.
+Victor in the earlier period, by Bonaventura and others in the later,
+was able to attach itself most intimately to this intractable dogma of
+the Trinity, and also to the other dogma of the Incarnation.  The
+infinite love must be contemplated in the Mystery of the Trinity, and
+the highest point of the spirit's enlightenment is reached when in
+prayer, in knowledge, and in vision, man becomes absorbed in the great
+mystery of the union of deity and humanity, and contemplates the
+indifference of opposites (indifferentia oppositorum), seeing how the
+Creator and the creature, the lofty and the lowly, the being and the
+not-being coalesce in one' (Harnack, ^Hist. of Dogma~, vi. 103, Eng.
+trans.)].
+
+The vision of the universe in `the Light Eternal' is told in terms
+of the scholastic philosophy with which Dante was familiar:
+
+
+     I saw that in its depth far down is lying,
+     Bound up with love together in one volume,
+     What through the universe in leaves is scattered;
+     Substance and accidents and their operations,
+     All interfused together in such wise
+     That what I speak of is one simple light.
+     The universal form of this knot
+     Methinks I saw, since more abundantly
+     In saying this I feel that I rejoice.
+
+[The rendering is Longfellow's with the exception of one word.  To
+translate ^la forma universal~ (l. 91) `the universal fashion' is to
+betray the sense.  ^Forma~ has a definite scholastic sense which is
+lost in `fashion.'  See above on ^Par.~ i. 103-105 {in comm. to ^Par.~
+1.96-126}, where `order' is defined as `form, which makes the universe
+resemble God.'  In our day this part of the vision has been called
+`cosmic consciousness': `The prime characterstic of cosmic
+consciousness is a consciousness of the cosmos, that is, of the
+life and order of the universe.  Along with the consciousness of the
+cosmos there occurs an intellectual enlightenment which alone would
+place the individual on a new plane of existence -- would make him
+almost a member of a new species.  To this is added a state of moral
+exaltation, an indescribable feeling of elevation, elation and
+joyousness, and a quickening of the moral sense, which is fully as
+striking, and more important than is the enhanced intellectual power. 
+With these come what may be called a sense of immortality, a
+consciousness of eternal life, not a conviction that he shall have
+this, but the consciousness that he has it already' (Dr. R. M. Bucke,
+^Cosmic Consciousness: a Study in the Evolution of the Human Mind~,
+quoted by Prof. William James in his ^The Varieties of Religious
+Experience~, p. 398.  An instance of Dr. Bucke's experience of the
+cosmic consciousness is given.  The whole of Lectures xvi. and xvii.
+on Mysticism should be read in connection with this closing vision of
+the ^Paradiso~).]  The general meaning is, in the words of Aquinas,
+that he who sees the Divine substance sees in it `the genera and
+species and capabilities of all things and the whole order of the
+universe.'  In other words, what physical science in this life is ever
+laboriously seeking to spell out from the scattered leaves of the
+universe, and to reduce to one all-embracing principle of knowledge, is
+there seen at a glance in its unity, the `one simple light' and
+`universal form.'  `By "seeing all things that belong to the perfection
+of the universe,"' says Father Rickaby, `St. Thomas would mean, in
+modern terminology, "having a comprehensive scientific view of the
+universe as a whole": this would include a knowledge of the
+constitution of matter, and of its working arrangements, molar and
+molecular; an understanding of electricity, of gravitation, of
+vegetable and animal life, of the genesis of nebulae and stars, of the
+origin of species, animal and vegetable, of the workings of the mind,
+such as free will' [note in Father Rickaby's translation of ^Contra
+Gentiles~ (iii. 59, p. 231).  Sir Oliver Lodge, mystic and man of
+science, seems to have reached the same idea as Aquinas, that a
+scientific knowledge of the universe is an essential part of the
+Beatific Vision.  In an address, the reference to which I have mislaid,
+he holds that social reform must flow in the channel of the scientific
+study of Nature.  Not, however, for the mere materialistic end of
+better physical life on earth, though that too will be `added unto us.' 
+His ultimate aim, he declares, `is no less than to be able to
+comprehend what is the length and breadth and depth and height of this
+mighty universe, including man as part of it, and to know not man and
+nature alone, but to attain some incipient comprehension of what saints
+speak of as the love of God which passeth knowledge, and so begin an
+entrance into the fulness of an existence (I understand him to mean
+eternal life in another world) beside which the joy even of a perfect
+earthly life is but as the happiness of a summer day.'  The reform of
+mankind which leads to this comprehension of the universe which is thus
+part of the beatitude of heaven, is to begin by `a study of nature and
+of mathematics, and of the facts at present studied under the
+conventional head "science."'  It is interesting to see the modern man
+of science and the scholastic of the Middle Ages agree in holding that
+a scientific knowledge of the universe must be regarded as an essential
+element of man's final beatitude.  The idea is eloquently drawn out in
+Father Joseph Rickaby's ^Moral Philosophy~, 21-27].
+
+This is the general idea stated in terms of modern science, and
+we must not lose it under the mediaeval phraseology which Dante
+employs.  `Substance' is that which exists ^per se~, not as a mere
+quality in something else; `accident' is that which apart from
+something else has no existence: the `accidents,' e.g., of colour,
+hardness and softness, cold and heat, and so on, require some
+`substance' in which they inhere, something that has a proper being of
+its own which persists, let the accidents vary as they may.  [For a
+discussion of the mediaeval doctrine of substance and accident, see
+Father John Rickaby's ^General Metaphysics~, 221-297.  A simple example
+is quoted to prove that the distinction is involved in ordinary
+experience: `the wax which I handle is now warm, now cold; first hard,
+then soft, and finally liquid; by the pressure of the fingers it
+acquires first one shape, and afterwards another: yet throughout it is
+the same piece of wax.  There is, therefore, a subject permanent under
+the successive changes: it is one while they are many; it can be
+without any particular set of them, they cannot be without it, for they
+are precisely its modifications' (p. 248).  The doctrine that accidents
+cannot exist without a substance in which they inhere has one great
+exception.  Transubstantiation means that the substance of the bread
+and wine of the Eucharist is changed into the substance of the body and
+blood of Christ.  By a Divine miracle, however, the ^accidents~ of the
+bread and wine (extension, colour, taste, etc.) remain without any
+substance in which to inhere.  This is in the realm of the
+supernatural; in the natural, the connection of substance and accident
+is constant.]  These variations and combinations are the |costume~ of
+l. 88, the infinite relations and operations through which substance
+and accidents are continually passing.  No longer are they seen as
+here, scattered in leaves throughout the universe.  Dante now sees them
+not discursively and in succession, but simultaneously at one glance:
+as St. Augustine says: `Our thoughts will no longer be in motion, going
+and returning from thing to thing; but we shall see all our knowledge
+at once, and at one glance' [^De Trinitate~, xv. 16.  Aquinas quotes
+and expands the saying in ^Summa~, i. q. xii. a. 10].  They form `one
+simple light,' because God, in whom they are seen, is one simple
+light.  The relations in which He stands to the universe, though
+manifold, in no sense prejudice the simplicity and singleness of His
+Being, rather they are the attestation of it [comp. ^Cont. Gent.~ ii.
+14.  In i. 77 Aquinas argues that the multitude of the objects of God's
+will is not inconsistent with the simplicity of His substance, since
+they are all included under His goodness, and in His goodness all
+things are one].  Properly speaking, God is the one and only
+Substance, and all other `substances' are in relation to Him mere
+`accidents,' inasmuch as it is in Him they have their being.  [Of
+course there is no such thing as accident in God's own substance, else
+His substance were composite.  `Accident is not of the essence of the
+subject.  But God ^is~ whatever He ^has~ in Himself.  Therefore in God
+there is no accident' (^Cont. Gent.~ i. 23).  Yet since God is the one
+absolute substance, existing ^per se~ alone, and since all created
+substances exist in Him, these substances in relation to Him are as
+accidents.  To mark this distinction the schoolmen confine ^per se~ to
+uncreated and created substance, and apply ^a se~ to the self-existent
+substance which is God (comp. Father John Rickaby's ^General
+Metaphysics~, 251-253).]  `The universal form' which Dante believes he
+saw is that order of the universe which makes it, in its own measure, a
+likeness of its Maker.  The `form' of anything is the archetypal idea
+of it in the Divine Mind which gives it its essential nature.  Not only
+has each individual thing a form, but also the universe as a whole. 
+The universal form is that by which every created thing participates,
+according to the powers of its nature, in the likeness of God, and by
+which all are so related to one another as to constitute an order and
+unity [^De Mon.~ i. 8: `It is of the intention of God that everything
+should represent the Divine likeness, so far as its proper nature can
+receive it.'  Comp. ^Summa~, i. q. iv-vi].  This universal form Dante
+believed he saw, because the mere saying of it gave him a more ample
+joy.  Finally, this unity of being is `bound up in one volume with
+love.'  Love in God is the desire to communicate His own goodness as
+widely as possible; when He loves He creates and infuses goodness in
+things [^Summa~, i. q. vi. a. 4; xx. a. 2.  See above {comm.} on ^Par.~
+vii.{67-120}, and {comm.} on xxix.{1-15}].  To sum up, what Dante here
+sees is that Being, Unity, and Goodness are essentially one: as he says
+in ^De Monarchia~ (i. 15): `Being by nature precedes Unity, and Unity
+Good; for where Being is greatest, Unity is greatest, and where Unity
+is greatest, Good is greatest; and in proportion as anything is removed
+from Being in its supreme form, it is removed from being one, and by
+consequence from being good.'  [In ^Summa~, i. q. v. a. 1, 3 Aquinas
+identifies Being and Goodness, and in q. xi. a. 1, Being and Unity. 
+The question is discussed by Boethius in Bk. III. of the
+^De Consolatione.~  On `Order' as the `form' of the universe, see
+above, {comm.} on ^Par.~ i.{96-126}.]
+
+	|94-96.~  The comparison used by Dante to explain the effect on
+him of this vision of the universe in God has given rise to many
+interpretations:
+
+     One moment only is to me more lethargy
+     Than five-and-twenty centuries to the emprise
+     That made Neptune wonder at the shade of Argo.
+
+
+[The expedition of the Argonauts was believed to have taken place about
+1250 years B.C., and therefore fully twenty-five centuries before the
+ideal date of the poem.  Neptune's wonder was to see the Argo, the
+first ship whose shadow fell upon his waves.]  The interpretation which
+seems now most generally accepted is that suggested by Scartazzini who
+takes the |letargo~ of l. 94 not as forgetfulness of the vision the
+moment it was past, but as forgetfulness of all else in the absorbing
+admiration which the vision produced.  This absorption in the vision,
+he thinks, is proved by the ^terzina~ immediately following (ll.
+97-99), in which Dante says his mind was all suspended in the intensity
+of his gaze upon the Light; and he paraphrases accordingly: `All the
+admiration which in five-and-twenty centuries men have given to the
+emprise of the Argonauts gathered together, would be less than mine in
+one single moment when I held my regard fixed on Divinity.'  I confess
+that this does not seem to me the natural meaning of this strange
+comparison.  To begin with, |letargo~ can scarcely mean a wonder or
+admiration which made Dante forget all not included in his vision, for
+the simple reason that there was nothing not included in it.  Dante has
+just been labouring to tell us that he saw the entire universe in God
+-- the sum-total of things.  In the second place, he has warned us
+again and again that his memory is powerless to recall his vision, and
+this is therefore likely to be a repetition of this warning.  And
+finally, the comparison joins as naturally with the preceding ^terzina~
+as with the one following.  In ll. 91-93, he cannot say positively that
+he saw `the universal form of this knot' -- the union of substance and
+accidents in the universe; all he ventures to say is `^credo~ ch'io
+vidi,' I ^believe~ that I saw.  The comparison seems to me to be a
+parenthetical explanation thrown in to show why he could only say he
+^believed~ he saw: `One moment after the vision was past made me forget
+more of what I saw than five-and-twenty centuries have made the world
+forget the expedition of the Argonauts; hence I cannot go further than
+"I believe I saw."'  After this parenthesis he resumes the story of his
+vision in the following lines.
+
+	|109-114.~  It is important to notice that, in order to receive
+the vision of the Trinity, Dante has no need to turn away his eyes from
+the `one simple light' in whose depth he saw the universe.  As we have
+seen, the universe is a similitude of God, and since the three Persons
+were concerned in its creation, Dante finds that, by an absorbed
+continuance of his gaze upon it, the Trinity itself begins to appear:
+though of the little he remembers, he is able to tell less than an
+infant at the breast.  The vision comes only by degrees: not that the
+Living Light on which he gazed had more than one simple semblance, the
+change was in himself.  [We may compare the changing image of the two
+natures of Christ which Dante saw in the eyes of Beatrice, Christ
+Himself remaining the same:
+
+     Think, reader, if within myself I marvelled,
+     When I saw the thing in itself stay quite,
+     And in its image it transformed itself. 
+                              (^Purg.~ xxxi. 124-126.)
+
+In ^Summa~, i. q. ix. Aquinas holds the immutability of God (1)
+because He is ^Pure Act~ -- that is, His whole being is at every moment
+actualized, no part of it in ^potentiality~, which would imply that it
+was capable of receiving more; (2) in every change there is something
+composite, the substance remaining, the accidents varying, a thing
+impossible to God, who is absolutely simple; (3) everything moved is
+moved to something it had not before, and God having the plenitude of
+all perfections has no need of anything, and therefore is absolutely
+unchangeable.] 
+
+	|115-123.~  As his sight gathered strength by what it looked upon,
+`one sole appearance was winnowed out' to him [I follow Butler's
+rendering of ^si travagliava~ (l. 114).  In the Glossary to his
+translation of the ^Paradiso~ (p. 438) he says: `I feel very little
+doubt that in this place we must derive the word from ^vaglio~, "a
+sieve," Lat. ^vannulus~, dim. fr. ^vannus.~'  The ordinary rendering
+implies mere change or transformation]:
+
+     In the profound and clear subsistence
+     Of the High Light appeared to me three circles,
+     Of three colours and of one dimension;
+     And the one from the other, as Iris from Iris,
+     Appeared reflected, and the third appeared fire
+     From the one and the other equally breathed forth.
+     O how short the speech is, and how faint,
+     To my conception, and this to what I saw
+     Is such, `tis not enough to call it little!
+
+[This {last line} refers back to ll. 67-69, where Dante had prayed for
+power to tell `a little' of his vision.  Here he says it is not even `a
+little.']  As has been already pointed out, the mere fact that Dante
+uses a figure to convey what he saw of the Trinity is possibly his way
+of saying that he did not see the Divine Essence, since the very idea
+of seeing the Essence is face to face vision, without the need of any
+similitude [or, perhaps, that only in a similitude could he ^report~
+what he saw].  The word `subsistence' (l. 115) is applied to the High
+Light in the strict scholastic sense, as that which is absolutely
+self-existent [^Summa~, i. q. xxix. a. 2. `As a thing exists ^per se~,
+and not ^in alio~, it is called ^subsistentia.~'  It is not mere being,
+as it is sometimes rendered, it is self-existent being].  The figure
+chosen by Dante, since figure was necessary, is as full of beauty and
+spiritual suggestion as it was possible to find.  The `clear
+subsistence of the High Light' is the symbol of the Unity of God, the
+First Truth `unbroken of the prism.'  The three circles represent the
+Three Persons of the Trinity, existing only in the Unity of the Divine
+Light.  [The circle is a natural symbol of Divine perfection.  `Many
+centuries before,' says Landino, `Hermes Trismegistus defined God as a
+circular sphere, because the knowledge of God is the knowledge of
+Himself.  And so He is from Himself to Himself, like the circle,
+without beginning and without end.'  `The circle,' says Didron, `is
+considered as emblematic of God, and three circles figure the three
+persons; but in order to mark the indissoluble union in which those
+three persons are linked together, the three circles are intertwined,
+one within the other, in such a manner that one could not be severed or
+removed without at the same time severing all the three' (^Christian
+Iconography~, ii. 45).  Of course, in any visible representation of
+this Tri-unity such as Didron gives from a French miniature of the
+thirteenth century, this intertwining of the circles is the only device
+possible; but this is certainly not Dante's conception here.  His
+circles are `of one dimension' -- not intertwined, but, so to speak,
+occupying and containing the same space, though, of course, his vision
+is intellectual and not spatial.]  The three colours are the three
+attributes specially connected in Dante's theology with the several
+Persons: the Power of the Father, the Wisdom of the Son, the Love of
+the Spirit.  The unity of the Persons and attributes is asserted in the
+`one dimension' of the three circles -- the one substance of Godhead. 
+The next ^terzina~ (ll. 118-120) gives what Aquinas calls the Relations
+of Divinity according to the Procession of Persons out of identity of
+substance -- the Relations of Paternity, Generation and Spiration
+[^Summa~, i. q. xxviii].  From the circle of the Father appeared
+reflected the circle of the Son, as Iris from Iris; and from both was
+breathed forth equally the fire of Love which is the Holy Spirit [on
+the Procession of the Spirit from both Father and Son, and the
+^filioque~ controversy, see above, {comm.} on ^Par.~ x. 1-6].  We must
+not think of these in the form of three rainbows one within another, or
+even as the three colours of a rainbow, for these are also one within
+another.  The `one dimension' shows that Dante conceived of them as
+co-existing in the one space, though he does not explain how he was
+able to see the three colours distinct within each other.
+
+	|124-126.~  In the following ^terzina~ (ll. 124-126) the
+scholastic subtlety which pervades the whole passage reaches its
+climax.  I scarcely venture to translate it, and have seen no
+interpretation which seems to me to reach Dante's central thought,
+which is indeed the central thought of the whole poem and of all
+Thomist theology, namely, that the highest blessedness is an activity
+of the intellect, and that it is from the intellect that love springs. 
+We have again and again seen the application of this view to human
+blessedness; in this ^terzina~ Dante applies it to the supreme
+beatitude of the Trinity -- the happiness of God within His own being,
+in the communion of Person with Person.  Let us take the aspects of
+this happiness one by one.  The first relates to God in His unity --
+His perfect rest in and knowledge of Himself:
+
+     `^O luce eterna, che sola in te sidi,
+         Sola t'intendi.~'
+
+`O Light Eternal, who sole in Thyself abidest, sole understandest
+Thyself.'  God alone abides in Himself: all other beings seek their
+rest beyond themselves.  He rests in Himself because He is His own
+happiness, because He understands Himself.  For perfect happiness is
+the perfect activity of a perfect intellect exercised upon a perfect
+object; and `the activity of God,' says Aquinas, `fulfils all these
+conditions: since it is (1) activity in the order of understanding; and
+(2) His understanding is the highest of faculties, not needing any
+habit to perfect it; and (3) His understanding is bent upon Himself,
+the highest of intelligible objects; and (4) He understands perfectly,
+without any difficulty, and with all delight.  He is therefore happy'
+[^Cont. Gent.~ i. 100; 47; ^Summa~, i. q. xii.; xiv.; xxvi].  This
+perfect understanding of Himself is possible only to Himself, since no
+created intellect can equal His [^Cont. Gent.~ iii. 56, 59].
+
+The remainder of the ^terzina~ relates to what Catholic theology
+calls `the inner fecundity of the Divine Life,' the productions of that
+Life within itself.  According to Aquinas, the Eternal Wisdom in its
+own inner activity proceeds by two ways and only two: that of
+^intellect~, the procession of the Word, the Son, the Second Person;
+and that of ^will~, the procession of Love, the Holy Spirit, the Third
+Person [^Summa~, i. q. xxvii. a. 5; xxviii. a. 4; xxxvi. a. 2].  The
+words in ll. 125, 126: `|da te intelletta ed intendente te~,' refer to
+the Word -- `known of Thee and understanding Thee': the mutual
+knowledge of Father and Son of which Christ speaks: `No man knoweth the
+Son but the Father; neither knoweth any man the Father save the Son,'
+and `As the Father knoweth me, even so know I the Father' [Matt. xi.
+27; John x. 15].  `Wisdom in God is His knowledge of Himself.  But
+because He does not know Himself by any presentation of Himself other
+than His essence, and His act of understanding is His essence, the
+wisdom of God...  is the very essence of God.  But the Son of God is
+the Word and Concept of God understanding Himself.  The Word
+of God, thus conceived, is properly called "begotten Wisdom"' [^Cont.
+Gent.~ iv. 12].
+
+The final words, `^ami ed arridi~,' `lovest and smilest,' refer
+to the Third Person.  As the Son proceeds by way of intellect as Word,
+so the Holy Spirit proceeds by way of will as Love, breathed forth
+equally by Father and Son.  This Love is here regarded, not in its
+outflow upon creatures, but as the bond of communion and joy between
+the Father and the Word.  It is in the mutual knowledge of Father and
+Son that the Spirit `loves and smiles,' -- the smile representing the
+happiness with which this activity of the Divine Life within itself is
+for ever filled.  `The Father loves in the Son, as in the resplendent
+image of His Goodness, the Supreme Beauty; and the Son loves in the
+Father, as in the principle of His Beauty, the Supreme Goodness'
+[Wilhelm and Scannell, ^Manual of Cath. Theol.~, i. 319.  It is
+possible that this exposition may cast little light on the mystery of
+the Trinity; but we ought to be careful not to miss the great idea that
+was in Dante's mind -- the infinite activity and peace and joy which
+eternally fill the being of God, an activity ever flowing through the
+intellect and the will.  A Trinity of Persons in the Divine unity was
+inferred from the beatitude of God.  Hettinger quotes the following
+from Richard of St. Victor on the Trinity: `The proof or argument for
+the plurality of persons, furnished by the plenitude of the Divine
+Goodness, is obtained by a parity of reasoning from the plenitude of
+the (divine) happiness....  As charity is ever united with goodness and
+happiness, it must exist where the joy is supreme.  And as joyful love
+must be mutual, therefore in that sovereign happiness, mutual love
+cannot but be found.'  The above exposition is based chiefly on
+^Summa~, i. q. xxvi-xlii.  For exposition of other passages relating
+to the Trinity, see above ({comms. to} ^Par.~ x. 1-6; xxiv. 139-147].
+
+	|127-141.~  We come now to the third and final moment of the
+vision, the crowning mystery of the Incarnation:
+
+     That circulation, which being thus conceived
+     Appeared in Thee as a reflected light,
+     When somewhat contemplated by mine eyes,
+     Within itself, of its own very colour
+     Seemed to me painted with our effigy,
+     Through which my sight was all absorbed therein.
+     As the geometrician who endeavours
+     To square the circle, and discovers not,
+     By taking thought, the principle he wants,
+     Even such was I at that new apparition;
+     I wished to see how the image to the circle
+     Conformed itself, and how it there finds place;
+     But my own wings were not enough for this,
+     Had it not been that then my mind there smote
+     A flash of lightning, wherein came its wish.
+
+[(Longfellow's trans., except ^per che~ in l. 132 which he renders
+^wherefore.~  I take it as meaning that through the human nature, `our
+effigy,' Dante was drawn into contemplation of the union of the two
+natures in the Person of the Son).  The `thus conceived' of l. 127
+refers to the preceding ^terzina~; the Word is begotten of the Divine
+Intellect.  The `measuring of the circle' in l. 134 is referred to as
+impossible in ^Conv.~ ii. 14 and ^De Mon.~ iii. 3.]  It has been
+already pointed out that this is the third vision of Christ in the
+^Paradiso.~  In the Heaven of Mars, Dante saw the outflash of His
+Sacrifice in the hosts who died as soldiers of the Cross (xiv.
+103-108).  In the Starry Heaven, His light shone forth in
+the souls of the Redeemed who formed His Triumph (xxiii. 25-45).  Once
+before either of these, in the Earthly Paradise, he had a lower vision
+of the Divine and Human natures in the symbolic form of a Gryphon,
+half-eagle, half-lion, -- the former representing the spiritual
+government on earth, the latter the temporal [see my ^Prisoners of
+Hope~ {comm. to ^Purg.~ 29.106-114}].  Now the time has come when all
+these indirect and partial modes of knowledge as in a glass are to give
+way to vision face to face, and the mystery be known of itself,
+
+     In fashion of the first truth that man believes.
+                    [^Par.~ ii. 43-45.  See {comm. thereto}.]
+
+It is to be noted that Dante, in common with all mediaeval
+theologians, regarded the Incarnation as the final mystery, and the
+understanding of the union of the Divine and Human in Christ as the
+crown of the eternal beatitude.  `Of all the works of God,' says
+Aquinas, `the mystery of the Incarnation most transcends reason. 
+Nothing more astonishing could be imagined as done by God than that the
+true God and Son of God should become true man' [^Cont. Gent.~ iv.
+27].  And not only is it the greatest mystery in itself: it is the
+fullest revelation of the Divine Goodness, and therefore of that
+interior life of the Trinity of which Dante has just spoken.  To quote
+Aquinas once more, `since the very nature of God is the essence of
+goodness, and it belongs to the idea of good to communicate itself to
+others, it is clear that it is worthy of God to communicate Himself
+to creatures in the highest way, and this was fulfilled in the work of
+the Incarnation.'  He quotes John Damascene to the effect that the
+Incarnation reveals at once the goodness and wisdom, the justice and
+power of God: goodness, `since He despised not the infirmity of the
+work of His own hands; justice, in that by the man conquered, and not
+another, He conquered the tyrant, not snatching man from death by
+force; wisdom, because He found the most fitting payment of the
+heaviest price; and infinite power or virtue, since nothing is greater
+than that God should be made man [^Summa~, iii. q. i. a. 1.  In ^Par.~
+vii. 85-120 {see comm. to ^Par.~ 7.67-120} Dante argues similarly that
+the Incarnation was the way of salvation most honouring to the ^mercy~
+of God, since it was more generous for God to give Himself, than to
+pardon of mere courtesy; and to His ^justice~, since by becoming
+incarnate, the Son of God humbled himself as far as Adam had tried to
+raise himself in pride: hence the atonement equalled the offence].
+
+To this final mystery Dante tells us his eyes were specially
+drawn by the appearance of our effigy painted within the circle in the
+very colour of the circle itself -- the human nature suffused with the
+Divine attribute of Wisdom, and made one with it.  This union he found
+as insoluble as the measuring of the circle.  Two problems baffled all
+his thinking.  The first was `how the image conformed itself to the
+circle,' that is, how human nature could be commensurate with the
+Divine.  The fundamental thought of all scholastic theology is that the
+Divine nature is for ever beyond the human; before man can see God he
+must be raised above his natural powers.  Even when thus Divinized, he
+falls short of perfect union with all that is in God.  How then in
+Christ does the human image conform itself to the circle of Divinity? 
+How is the human nature commensurate with the Divine?  The second
+problem was `how it there finds place,' -- the mode of the union of the
+two natures.  Let any one read the discussion of this problem in the
+first twenty Quaestiones of the Third Part of the ^Summa~, and he will
+not wonder that even Dante's `wings were not enough for this.'  And
+then one lightning-flash of supernatural power smote his mind and gave
+him his wish.  The final secret of the union of God and Man lay open to
+his intellect.
+
+	|142-145.~  The poet is too wise to attempt to tell us what he
+saw: it is, in St. Bernard's words, an ^abyssus impenetrabilis~, and
+`the rest is silence.'  There is no pressing with the Areopagite and
+many mystics into `the darkness of the un-knowledge' behind the Trinity
+and beyond the intellect, in which one knows by knowing nothing.  Dante
+returns sanely, as St. Bernard always did, to the firm ground of the
+plain moral life.  In four lines, as simple as they are beautiful, he
+tells us the issue of the ineffable vision in his own nature and life,
+and so ends:
+
+     Here to the high fantasy power failed;
+     But now was turning my desire and will,
+     Even as a wheel that equally is moved,
+     The Love which moves the sun and the other stars.
+
+[Comp. the words of Boethius quoted in ^De Mon.~ i. 9:
+
+          `O felix hominum genus,
+          Si vestros animos amor
+          Quo coelum regitur, regat!']
+
+One cannot but feel the restrained and simple beauty of the words; yet
+if we examine them, they will discover to us Dante's strange power of
+fusing together the highest poetry and the most exact scholastic
+significance.  `The high fantasy,' for instance, is not, as many
+readers seem to suppose, the poem itself, as if he were saying the high
+dream or vision failed and broke.  It is `the shaping spirit of
+imagination.'  The ^phantasia~ in scholastic psychology is that
+interior sense of the soul which has the power to form ^images~ of
+things perceptible by the senses.  The use of the word does not mean
+that Dante regarded his crowning vision of the Incarnation as having
+come to him through sensible images: it was a lightning-flash of pure
+supernatural intellect.  For that very reason, he means us to
+understand, his fantasy or imagination failed in power to turn it into
+any image which would give the reader some faint idea of what the pure
+intellect saw.  Even the mystery of the Trinity his fantasy had been
+able to present under the sensible image of three circles of colour;
+but now this is beyond its highest power.  When the pure intellect
+attains the last reality of Being, it sends back no report, no shadowy
+image, through any other power of the soul, such as memory or
+imagination.
+
+Nevertheless, this irrecoverable flash of intellect is not
+without its issue in the other parts of his nature, in accordance with
+that order by which, as we have so often seen, vision and knowledge are
+the parents of love [^Par.~ xxviii. 109-111].  Having once seen, if
+but for a moment, the Incarnate Word, the Eternal Wisdom of the Father,
+his desire and will are of necessity subdued to the power of the Spirit
+of Love which is breathed equally from both,
+
+     The Love which moves the sun and the other stars.
+
+For it seems to me that the entire context gives us no option but to
+take Love here as the special attribute of the Spirit.  Within the
+Trinity itself, Dante's intellect had seen the love and smiling of the
+Spirit in relation to the other Persons.  It is the same Love that
+moves like an axle, so to speak, the mighty wheel of universal Nature. 
+And in the equal and uniform motion of that wheel Dante feels that his
+desire and will are carried round, that they are at last in harmony
+with the Divine Love which is the Spirit of the universe.  The
+comparison of the harmony between his desire and will to the equal
+movement of a wheel in its every part, has its own significance.  As we
+have many times seen, it is ^desire~ for God that `moves the sun and
+the other stars,' and keeps the Angelic Orders circling round the Point
+of burning Light: `He moves the whole Heaven with love and with desire'
+[^Par.~ xxiv. 130-132; ii. 19, 20; ^Conv.~ iv. 12].  The desire, in
+short, is simply the Love of the Divine Spirit drawing all creatures to
+itself, that there they may find their rest.  In this universal desire
+Dante shares; but he was painfully conscious that oftentimes his ^will~
+was out of harmony with it, and went its own way.  His desire was for
+God, his will, alas, was too often against Him.  And now he knows that
+this inner contradiction is reconciled: desire and will move equally
+together as a wheel moves, because they are one with the Holy Spirit of
+Divine and universal Love that moves the great wheel of Nature.  It is
+the unity for which Dante's whole being hungered, so far as it could be
+his while the `clouds of his mortality' hung around him -- unity with
+himself, with the universe, and with the Spirit of God.  It is
+impossible to read the passage without feeling that Dante is drawing a
+contrast with certain words which Love spoke to him in a sad and
+troubled dream of his youth.  Beatrice, he tells us in the ^Vita
+Nuova~, had just denied him `her most sweet salutation, in the which
+alone was his blessedness.'  In a passion of grief he fell asleep `like
+a beaten sobbing child,' and Love appeared to him, also weeping.  `Why
+weepest thou, Master of all honour?' asked Dante; to which the answer
+came: `^Ego tanquam centrum circuli~, ^cui simili modo se habent
+circumferentiae partes~: ^tu autem non sic~' -- `I am as the centre of
+a circle, to which the parts of the circumference bear a like relation:
+^but thou art not so~' [^Vita Nuova~, {Part.} xii].  In other words,
+Love is the centre of the universe, the power that moves the sun and
+the other stars in a perfect circle, but Dante was not in right
+relation to that centre, his desire and will did not move in the same
+circumference around it.  Now, at last, the disorder is removed. 
+Though he is powerless to recall his vision, it has left behind a great
+unity of being; and he is content to wait `until the day break, and the
+shadows flee away,' and the little moment's flash becomes the abiding
+vision of Eternity.
+
+Meantime he has the mirrors of `the sun and the other stars'~
+[`What then? may I not everywhere behold the mirrors of the sun and
+stars?  Can I not everywhere under heaven meditate on the sweetest
+truths?' -- ^Epis.~ ix., in which Dante refuses to return to Florence
+on dishonourable terms].  With that last shining word he closes every
+stage of his pilgrimage, and every stage gives it a higher meaning.  To
+his mystic mind, as to that of St. Bernard [`A holy soul is a heaven,
+having for ^sun~ the intellect, for ^moon~ faith, for ^stars~
+virtues....  A virtue, then, is a star, and a man of virtues a heaven'
+(^Cantica Canticorum~, Serm. xxvii. 8).  St Bonaventura (^De Sept.
+Donis Spiritus Sancti~, viii. ch. xi.) quotes from a sermon in which
+St. Bernard explains the crown of twelve stars of Rev. xii. 1 as twelve
+beatitudes of the souls ^in patria~: `Prima stella est memoria sine
+oblivione.  Secunda stella est ratio sine omni errore.  Tertia stella
+est voluntas sine omni perturbatione.  Quarta est impossibilitas
+moriendi, quia resurget corpus incorruptibile.  Quinta est claritas,
+quia configuramur claritati Christi corporaliter.  Sexta est agilitas,
+ut corpus sit agile secundum agilitatem mentis.  Septima est
+subtilitas, ut corpus nostrum penetret omnia corpora.  Octava est, ut
+quilibet diligat alium sicut seipsum.  Nona est, videre quod proximus
+quilibet diligit ipsum sicut seipsum.  Decima est Deum perfecte
+diligere, et plus quam siepsum.  Undecima est diligere seipsum
+tantummodo propter Deum.  Duodecima est videre Deum diligere se,
+diligentem plus quam ille homo diligat seipsum'], the stars stand for
+the bright virtues of `the life which is life indeed,' and the entire
+poem is, in Milton's phrase, `a star-ypointing pyramid.'  From `the
+dead air' of the lost world `where the light is as darkness,' he
+`issued forth to rebehold the stars.'  In the Paradise Regained on the
+summit of the Mount of Cleansing, his will is made `pure and disposed
+to mount up to the stars.'  And now, having climbed on the shining
+stairway of all the starry virtues to the Eternal Sun who is the
+fountain of their light, his desire and will are carried round, as in
+the equal motion of a wheel, by `the Love that moves the sun and the
+other stars' -- the Love of the Spirit which is the soul of every
+virtue.  For `God is love; and he that dwelleth in love dwelleth in
+God, and God in him.'
+
+
+     THOU SHALT MAKE THEM DRINK OF THE RIVER OF THY PLEASURES.
+             FOR WITH THEE IS THE FOUNTAIN OF LIFE:
+                IN THY LIGHT SHALL WE SEE LIGHT.
+
+
+          NOW UNTO HIM WHO IS ABLE TO KEEP YOU FROM FALLING, 
+          AND TO PRESENT YOU FAULTLESS BEFORE THE PRESENCE 
+          OF HIS GLORY WITH EXCEEDING JOY, TO THE ONLY GOD 
+          OUR SAVIOUR, THROUGH JESUS CHRIST OUR LORD, BE 
+          GLORY AND MAJESTY, DOMINION AND POWER, BEFORE 
+          ALL TIME, AND NOW FOR EVERMORE.  AMEN.
+

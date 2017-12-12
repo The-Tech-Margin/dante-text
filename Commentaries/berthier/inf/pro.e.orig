@@ -1,0 +1,909 @@
+	|I.~  Dante prese la sua teologia dei peccati dalla
+Bibbia e dalla Scolastica.  Disse infatti Davidde: <Ecce qui
+elongant se a te peribunt; perdidisti omnes qui fornicantur abs
+te: mihi autem adhaerere Deo bonum est> [^Ps.~, LXXII, 27].  La
+parola: <Qui elongant se abs te..., qui fornicantur abs te>
+dinota che la malizia del peccato consiste nella deviazione da
+Dio, principio e fine ultimo dell'umana vita; principio e fine
+d'ogni moralit@a, senza cui non rimane ragione n@e di bene n@e di
+male [Vedi ^Sum.~, 22ae, q. 151, a. 2].
+
+	Le parole <peribunt, ... perdidisti> dimostrano quale sia
+la pena del peccato, cio@e che dopo la vita presente non sar@a pi@u
+penitenza possibile, e l'uomo non cesser@a di aderire a ci@o per
+cui sar@a punito, e insieme odier@a sempre le pene meritate pel suo
+peccato, mentre in fine quelli che rimarranno fedeli avranno ogni
+bene, avendo Dio stesso in possesso loro, e in possesso
+connaturale e inamissibile [S. T., II ^Sent.~, Dist. 38, q. I, a.
+2; II ^Sent.~, Dist. 38, q. I, a. 2].
+
+	Ma si vuole entrare pi@u avanti nel soggetto nostro.
+
+	Dante nell'Inferno suo ci descrive i peccati gravi, 
+omettendo i peccati veniali, sia perch@e il peccato veniale rimane
+diminuito nella sua ragione di peccato, cio@e quanto
+all'avversione dal sommo bene, donde si dice peccato per analogia
+al mortale [S. T., II ^Sent.~, Dist. 42, q. I, a. 3]; sia perch@e
+i primi parenti nostri non poterono, per la prima volta, 
+commettere un peccato soltanto veniale [S. T., ^Sum.~, 12ae, q.
+89, a. 3]; e qui si deve parlare dei soli peccati mortali
+dell'uomo, tra cui s'annovera il peccato originale: il quale, 
+sebbene sia meno volontario che ogni peccato attuale [S. T., 
+^Sum.~, 3a, q. I, a. 4; ^Verit.~, q. 25, a. 6, 4m; ^Mal.~, q. 5, 
+a. 1, 6m; II ^Sent.~, Dist. 35, q. I a. 2, 2m], toglie per@o la
+grazia santificante [Cf. ^Sum.~, 12ae, q. 82, a. 1, 1m; a. 3;
+^Mal.~, q. 3, a. 7; q. 4, a. 2].  Il peccato consiste
+essenzialmente in un atto moralmente perverso, <actus moraliter
+malus>, dice San Tommaso [S. T., ^Mal.~, q. 7, a. 3.  Cf. II
+^Sent.~, Dist. 24, q. 3, a. 2], ma denomina anche le conseguenze, 
+e specialmente lo stato di quello che persevera nel peccato, 
+ossia nella volont@a del peccato, e si dice quindi <peccato
+abituale> dai moderni, il <reato di colpa>, o la <macchia del
+peccato>, dagli antichi [S. T., ^Sum.~, 12ae, q. 87, a. 6.  N@e si 
+confonda il peccato abituale col vizio o disposizione perversa, 
+acquistata per gli atti perversi.  Quello non @e che la privazione
+prolungata della grazia nell'anima; questo @e una disposizione al
+male, inerente fisicamente alle potenze; quello segue ad ogni
+peccato mortale, questo segue alla ripetizione dei medesimi atti
+viziosi; quello si merita la dannazione eterna, questo non sela
+merita.].  Il peccato poi se si prende non per il soggetto del
+male, ma per il male stesso; @e una privazione, non assoluta, che
+tolga ogni bene opposto, come avviene talvolta nel male fisico, 
+per esempio nella morte che toglie ogni vita; ma relativa, perch@e
+toglie solo l'ordine in un atto particolare, e rimane sempre la
+tendenza della volont@a verso il sommo bene.  Anzi l'uomo nel bene
+inordinatamente amato, non cerca che un riflesso del bene eterno
+[Cf. S. T., ^Mal.~, q. I, a. 1, 2m; q. 2, a. 5, 3m; a. 9]. 
+Quindi nel male v'@e la sostanza dell'atto, cio@e l'atto morale
+preso inadeguatamente, in quanto cio@e ritiene qualche ordine
+della ragione, e quella sostanza, perch@e @e un bene, @e da Dio, il
+quale <influit agenti esse, posse et agere>; v'@e poi la mancanza
+di rettitudine, e questa non @e da Dio, perch@e non @e che una
+privazione, e una privazione non ha la sua causa nella
+perfezione, ma nell'imperfezione [S. T., ^Sum.~, 12ae, q. 72, a.
+1; II ^Sent.~, Dist. 35, q. I, a. 2; Dist. 37, q. I, a. 1; q. 2, 
+a. 2, 2m; ^Mal.~, q. 3, a. 2, 2m].
+
+	Questa mancanza di rettitudine consiste nella difformit@a
+dell'atto colla regola della legge eterna, che @e applicata dalla
+coscienza [S. T., ^Sum.~, Ia, q. 63, a. 1; 12ae, q. I, a. 1;
+^Comp. theol.~, c. CXIII; ^Mal.~, q. 3, a. 1; ^Verit.~, q. 17, a.
+1].  Donde segue che se legge eterna non vi fosse, non vi sarebbe
+male morale, o peccato [S. T., ^Sum.~, 12ae, q. 93, a. 3].  La
+legge eterna poi non proibisce ogni male nello stesso modo.  E
+proibito prima il male che si commette contro Iddio, ultimo fine, 
+sia ^immediate~, quali sono la bestemmia, lo spergiuro, la
+disperazione, ecc.; sia ^mediate~, perch@e deturpa e avvilisce
+l'uomo o in se stesso, o nelle sue relazioni col prossimo e colla
+societ@a [Vedi ^Sum.~, Ia, q. 60, a. 5; ^Mal.~, q. 14, a. 2, 8m;
+III ^Sent.~, Dist. 38, q. I, a. 4, 5m], e quindi l'allontana dal
+suo retto amore, e dall'ordine da Dio stabilito.
+
+	E proibito dipoi il male che non si commette ^immediate~
+o ^mediate~ contro Iddio, ma contro i mezzi da adoperarsi, 
+lasciando illeso ^quoad substantiam~ il diritto di Dio e
+dell'uomo, ma involvendo qualche inordinazione [S. T., ^Sum.~, 
+12ae, q. 88, a. 1, col commento del Gaetano].
+
+	Il male che toglie l'ordine debito verso Iddio ultimo
+fine si dice peccato mortale, che si definisce bene ^un atto o un
+desiderio contrario alla legge eterna~; il male che lascia
+sussistere tale ordine @e peccato veniale [^Sum.~, 12ae, q. 72, a.
+5, col commento del Gaetano].  N@e costituisce un'eccezione il
+peccato d'omissione, perch@e sebbene considerato ^in se~ non sia
+che ^quid negativum~, suppone nondimeno un'atto positivo almeno
+della volont@a, senza il quale non vi sarebbe peccato di sorta; e
+quell'atto ha per oggetto o l'omissione stessa, o una cosa che
+comporta con s@e l'omissione [S. T., ^Sum.~, 12ae, q. 71, a. 5].
+
+	Da tale dottrina risulta che nel peccato v'@e un'elemento
+quasi materiale, cio@e la conversione inordinata dell'uomo verso
+un bene commutabile, e un elemento formale, cio@e l'avversione da
+Dio fine ultimo [S. T., ^Sum.~, 3a, q. 86, a. 4, 1m]; e quanto
+pi@u completa sar@a cotesta avversione, tanto pi@u grave sar@a il
+peccato [S. T., ^Sum.~, 22ae, q. 20, a. 3; q. 34, a. 1], bench@e
+il motivo dell'avversione da Dio bene incommutabile, non sia che
+la conversione ad un bene commutabile [S. T., ^Sum.~, 12ae, q.
+73, a. 2; q. 87, a. 4, col commento del Gaetano].
+
+	Dal suddetto si conchiude che i peccati si distinguono
+specificamente tra loro secondo gli oggetti, perch@e il peccato
+non @e una semplice privazione, ma un'atto volontario ordinato
+male [S. T., ^Sum.~, 22ae, q. 10, a. 5, 1m], e quindi si
+diversifica come tutti gli atti volontari; e le circostanze che
+mutano la specie sono circostanze dell'oggetto, o tra queste si
+possono annoverare.  Quindi la gravit@a del peccato si prende o
+dalla specie [S. T., ^Mal.~, q. 2, a. 10], o dalle circostanze
+aggravanti [S. T., ^Mal.~, q. 2, a. 7].
+
+	Quanto al soggetto del peccato non pu@o essere
+propriamente che l'anima ragionevole, giacch@e per questa solo
+l'uomo @e libero, bench@e si attribuisca ^vario respectu~ anche
+alle altre potenze [S. T., ^Sum.~, 12ae, qq. 74, 83, per tot.].
+
+	Le cause del peccato sono o interiori nel peccatore
+stesso, o esteriori, cio@e esistenti fuori del peccatore.  Le
+cause interiori sono l'ignoranza, che diminuisce il lume della
+ragione direttrice; la passione, che esalta l'appetito sensitivo
+e accieca la ragione; la malizia, che spinge la volont@a al male, 
+senza l'incentivo della passione, o la suggestione esterna.  E a
+queste si aggiungono gli stessi peccati, quando cio@e l'oggetto
+d'un peccato si ordina al fine d'un altro, e quindi si hanno i
+peccati ^capitali~, che sono principio d'altri.  Le cause
+esteriori del peccato sono l'uomo e il diavolo, che spingono al
+peccato coi consigli, cogli esempi, colle tentazioni, ecc. [S.
+T., ^Sum.~, 12ae, qq. 75, 81, per tot.; ^Mal.~, qq. 8-15, per
+tot.].
+
+	Quanto alle conseguenze o effetti del peccato, sono
+numerose e tremende.
+
+	Prima di tutto, sebbene i principi costitutivi della
+natura umana non siano soppressi, rimane per@o diminuita la
+tendenza naturale al bene, e tolta la grazia divina santificante, 
+sia nell'attuale, sia nell'originale peccato [S. T., ^Sum.~, 
+12ae, q. 63, a. 1; q. 75, a. 3].  Un'altra conseguenza @e il reato
+di colpa il quale non @e formalmente che una permanente reit@a del
+peccato commesso, o una continuata imputabilit@a, per la quale il
+peccatore @e avverso da Dio suo ultimo fine, e la quale suppone
+come elemento materiale la privazione della grazia santificante. 
+Questa essendo voluta, giacch@e la volont@a del peccatore non @e
+mutata, costituisce una vera colpa [S. T., II ^Sent.~, Dist. 33, 
+q. 2, a. 2].  Il reato di colpa nel peccato attuale @e per@o
+diverso dal reato del peccato originale.  Il peccato originale
+infatti non infetta la persona se non perch@e prima infett@o la
+natura [S. T., ^Mal.~, q. 4, a. 1]: quindi il reato del peccato
+originale importa quell'avversione da Dio ultimo fine, di cui @e
+capace la natura: e quest'avversione non pu@o essere positiva, la
+natura non potendo essere positivamente n@e avversa da Dio, n@e
+conversa ad un bene commutabile, perch@e essa da Iddio solo
+dipende: ma suppone semplicemente un'avversione negativa da Dio, 
+in quanto cio@e la natura rimase disturbata dal primitivo stato
+suo sopranaturale per un consenso di volont@a.  Il peccato attuale
+invece infetta immediatamente la persona, e mediatamente la
+natura [S. T., ^Mal.~, q. 5, a. 2].
+
+	E quindi si ha un'altra differenza, ed @e questa, che cio@e
+il peccato attuale si pu@o commettere in ogni stato dell'uomo, o
+naturale o soprannaturale, mentre il peccato originale non si pu@o
+commettere se non supponendo l'uomo elevato allo stato
+soprannaturale.  Nell'uno e nell'altro peccato s'incontra la
+privazione della grazia santificante e della conversione a Dio;
+nell'originale per@o non si ha che per un allontanamento
+dall'ordine soprannaturale proveniente dalla natura nella
+persona; mentre nell'attuale si ha una positiva e personale
+adesione ad una creatura come ad un fine ultimo.  Quindi questi
+peccati non convengono che ^analogice~ nella medesima specie.
+
+	Il reato di colpa si chiama anche macchia del peccato, e
+non senza motivo, giacch@e toglie all'anima la bellezza delle
+grazia [S. T., ^Sum.~, 12ae, q. 86, a. 1].
+
+	La macchia del peccato e il reato di colpa non
+differiscono realmente, ma solo perch@e il peccato si chiama colpa
+in quanto offende Iddio, e macchia in quanto spoglia e deturpa
+l'anima.
+
+	E questa differenza induce un doppio modo di
+giustificazione dell'empio, come appare dalle forme dei
+sacramenti del Battesimo e della Penitenza.  Nel primo, dov'@e
+maggior ragione di macchia si adopera l'^Ego te baptizo~; nel
+secondo dov'@e maggior ragione di colpa, si adopera: ^Ego te
+absolvo.~
+
+	Ma oltre il reato di colpa, v'@e il reato di pena, cio@e
+l'obbligo di subire un gastigo [S. T., II ^Sent.~, Dist. 42, q.
+1, a. 2; ^Mal.~, q. 1, a. 4].  La colpa precede, @e volontaria, 
+importa una deviazione da Dio; la pena segue, @e involontaria, 
+importa una soppressione del bene individuale nel peccatore [S.
+T., ^Sum.~, 12ae, q. 46, a. 6, 2m; ^Mal.~, q. 1, a. 4; ^Comp.
+theol.~, c. CXXII].
+
+	Tali pene sono due.  L'una accompagna da se il peccato, 
+perch@e @e impossibile che la creatura, e specialmente la creatura
+libera, s'allontani dal suo fine ultimo, senza patirne qualche
+danno [S. T., II ^Sent.~, Dist. 27, q. 1, a. 5], per esempio il
+rimorso di coscienza, la depravazione delle facolt@a, ecc. 
+L'altra s'infligge come gastigo per la violazione della legge [Si
+omette quella pena che pu@o infliggersi per la correzione del
+colpevole, la quale non @e propriamente pena].  Questa s'infligge
+propriamente nell'inferno, ed @e doppia: quella della dannazione, 
+ossia la privazione della grazia e della visione beatifica, la
+qual privazione risponde all'avversione da Dio contenuta nel
+peccato, e quella del senso, la quale risponde alla conversione
+indebita verso la creatura [^Sum.~, 12ae, q. 87, a. 4].
+
+	Quel reato di pena sar@a sempre proporzionato al peccato, 
+perch@e ogni legge deve avere la sua sanzione, e perch@e il peccato
+sendo un disordine, bisogna che si ristabilisca l'ordine colla
+punizione debita.  Al peccato mortale deve adunque infliggersi
+una pena eterna, perch@e ^in se~ induce un disordine irreparabile, 
+togliendo il principio dell'ordine, cio@e il fine debito [^Sum.~, 
+12ae, q. 87, a. 3; ^Cont. Gent.~, lib. III, cc. CXLIV, CXLV], e
+amando quasi fine ultimo un bene creato e limitato, a cui perci@o
+aderisce ^per se~ assolutamente [S. T., II ^Sent.~, Dist. 42, q.
+1, a. 5], e, dopo la morte, ostinatamente [^Cont. Gent.~, lib.
+IV, c. XCV; ^Comp. theol.~, c. CLXXIV]: donde risulta che questa
+ostinazione non @e opera di Dio, ma del dannato; non @e effetto, ma
+cagione dell'eternit@a delle pene.
+
+	Tali sono i principi della Teologia circa il peccato, da
+Dante conosciutissimi, e non mai da lui dimenticati.
+
+	Una parola sola si vuol aggiungere, intorno alla
+divisione dei peccati da lui adoperata.
+
+	Chiedendosi se i peccati si possono distinguere secondo
+gli oggetti, risponde San Tommaso: <Ad rationem peccati duo
+concurrunt, scilicet actus voluntarius et inordinatio ejus, quae
+est per recessum a lege Dei.  Horum autem duorum unum per se
+comparatur ad peccantem, qui intendit talem actum voluntarium
+exercere in tali materia: illud autem, scilicet inordinatio
+actus, per accidens se habet ad intentionem peccantis: nullus
+enim intendens ad malum operatur, ut Dionysius dicit IV cap. ^De
+Div. Nom.~  Manifestum est autem quod unumquodque consequitur
+speciem secundum illud quod est per se, non autem secundum id
+quod est per accidens, seu extra rationem speciei.  Et ideo
+peccata specie distinguuntur ex parte actuum voluntariorum magis
+quam ex parte inordinationis in peccato existentis: actus autem
+voluntarii distinguuntur specie secundum objecta: unde sequitur
+quod peccata proprie distinguuntur secundum objecta> [^Sum.~, 
+12ae, q. 72, a. 1].
+
+	L'Allighieri rimase fedelissimo a cotesta dottrina, 
+dividendo i peccati principalmente secondo gli atti volontari, 
+come apparir@a dal quadro sinottico seguente.  N@e per@o omise la
+suddivisione secondo l'inordinazione esistente nel peccato, come
+appare anche dal medesimo quadro.
+
+	Poniamo sotto gli occhi del lettore tal prospetto ossia
+quadro sinottico di quanto si @e detto, spiegando quello
+dell'Inferno, enunziando quelli del Purgatorio e del Paradiso, 
+che negli altri volumi spiegheremo.  Quindi apparir@a schietto che
+la sola dottrina scolastica ci dimostra l'ingegno filosofico di
+Dante, e che questo si merit@o il nome di Divino anche per l'arte
+sua nel dividere, giacch@e, secondo il detto di Platone, quello
+che divide bene @e da trattarsi come un nume [^Phoedr.~, circa
+finem].  E da questo soltanto pu@o apparire il motivo pel quale
+Dante, per esempio, tratt@o di seguito del peccato di pigrizia
+(^Inf.~, III), del peccato originale (^Inf.~, IV) e del peccato
+di lussuria (^Inf.~, V); n@e rimane che o prenderne la ragione
+nella scolastica, o di confessare che Dante dispose il suo quadro
+a caso: ma questo @e affatto contrario e all'ingegno di Dante, e
+agli usi ammessi nell'ambiente dove visse, e al metodo col quale
+ci spieg@o egli stesso le sue altre poesie.  Bisogno sar@a adunque
+di ricorrere alla scolastica.  E cento altri esempi si potrebbere
+addurre, non solo per la dottrina, ma anche per le stesse parole
+che spesso non si conprendono se non colla scolastica, alla quale
+di necessit@a ricorriamo [Vedi il Liberatore, nel volume ^Omaggio
+a Dante~, pp. 299, segg.].
+
+	|II.~  Si @e detto sopra che nella ^Divina Comedia~ si
+celebra la conversione dell'uomo peccatore, della quale si
+considera ^la preparazione~ e ^l'esecuzione.~  Nella
+preparazione, si vogliono allontanare ^gli ostacoli di
+contrariet@a~, come si dice nel canto I dell'^Inferno~; e ^gli
+ostacoli d'insufficienza~, come si ha nel Canto II.
+
+	Nell'esecuzione, giacch@e la conversione @e un moto, si
+deve considerarne il punto di partenza, il termine ^a quo~, cio@e
+lo stato di peccato, detto l'^Inferno~, e ci@o si fa
+nell'^Inferno~, propriamente detto, canti III-XXXIV; il termine
+^per quem~, ossia l'uscita dal peccato, e detta il Purgatorio, e
+ci@o si fa nel ^Purgatorio~, canti I-XXXIII; il termine ^ad quem~, 
+ossia il possesso della grazia, detto il Paradiso, e ci@o si ha
+nel ^Paradiso~, canti I-XXXIII.
+
+	Il punto di partenza @e lo stato di peccato, ossia
+l'Inferno morale.
+
+	I peccati si dividono in due grandi categorie: quelli di
+^omissione~, contrari al precetto positivo, che comanda certe
+opere; quelli di ^trasgressione~, contrari al precetto negativo, 
+che ne proibisce altre.
+
+	Differiscono tra loro quanto alla forma e quanto alla
+materia [^Sum.~, 12ae, q. 72, a. 6].
+
+	Dante rappresenta prima le omissioni di
+
+     Questi sciaurati, che mai non fur vivi;
+      [^Inf.~, III, 64]
+
+	poi le trasgressioni di quelli che
+
+     Bestemmiavano Iddio, e i lor parenti
+      [^Inf.~, 103]
+
+	Cos@i nel canto III dell'Inferno.
+
+	Il primo precetto positivo, obliga solo ^ad semper~ [S.
+T., ^Ad Gal.~, VI, lec. I]; il secondo, cio@e il precetto
+negativo, obbliga ^semper et ad semper~ [S. T., ^Ad Gal.~, VI, 
+lec. I].  Chi pecca contro il primo @e meno colpevole, perch@e
+suppone minore adesione della volont@a al male [^Sum.~, 22ae, q.
+79, aa. 2-4; ^In Ps.~ XXIV, princ.]: quindi @e punito meno in
+basso nell'Inferno.
+
+	Ma il peccato di trasgressione non @e unico: anzi @e di
+diverse specie, e si divide in trasgressione che si dice
+^naturale~, ossia originale; e in trasgressione ^personale~, 
+ossia attuale.  Quello @e meno colpevole, perch@e meno volontario
+[S. T., ^Mal.~, q. 4, a. 1, 19m].  Anche qui Dante segue la retta
+Teologia.
+
+	Nel canto IV descrive prima il peccato a la trasgressione
+originale:
+
+     . . . ei non peccaro; e s'egli hanno mercedi, 
+     Non basta, perch'e' non ebber Battesmo, 
+     Ch'@e porta della Fede che tu credi.
+      [^Inf.~, IV, 34-36]
+
+	Negli altri canti, descrive le trasgressioni o peccati
+attuali.
+
+	Cos@i, e solo cos@i si spiega perch@e, dopo coloro che
+omisero di fare il bene, si veggono nell'Inferno dantesco coloro
+che sono considerati come colpevoli del solo peccato originale. 
+Chi vorr@a considerare questo fatto, avr@a una chiave della logica
+dantesca nella prima parte della ^Comedia.~
+
+	I peccati poi di trasgressione si suddividono, e Dante
+stesso nel canto XI [^Inf.~, XI, 22-90] ci disse come si
+suddividono, seguendo la schietta dottrina di Aristotile, di
+Sant'Agostino e di San Tommaso.
+
+	Ecco dunque la genealogia dei vizi, secondo cotesta
+dottrina.
+
+	Il peccato si commette o per ^debolezza~ in faccia alle
+passioni, quando si lascia parlare la ragione o coscienza, ma non
+si ascolta: o per ^bestialit@a~, quando si soffoca la ragione
+stessa, e non si lascia agire che la famosa bestia umana; o per
+^malizia~, quando si adopra abitualmente la ragione stessa a mal
+fare [S. T., ^Ethic.~, VII, lec. v, vi; ^Sum.~, 12ae, q. 76, a.
+1, prol. S. Agostino aveva gi@a detto: <Peccata alia sunt
+infirmitatis, alia imperitiae, alia malitiae.>  ^Lib. LXXXIII~, 
+^Quaest.~, q. 26].
+
+	Le tre parole francesi ^faiblesse~, ^abrutissement~, 
+^malice~ esprimono lo stesso concetto, e riferiscono il senso
+della %alpha%kappa%rho%alpha%sigma%$iota%alpha\, 
+%theta%eta%rho%iota%$o%tau%eta%varsigma\, 
+%kappa%alpha%kappa%$iota%alpha\.
+
+	Il peccato di debolezza @e meno colpevole degli altri, 
+perch@e v'@e meno fissazione volontaria nel male [^Sum.~, 12ae, q.
+47, a. 2; ^Quodl.~, q. 2, a. 5]; quello di bestialit@a, come tale, 
+@e meno colpevole di quello di malizia, perch@e suppone attualmente
+meno costanza e meno libert@a; il peccato di malizia @e il pi@u
+grave, per la ragione opposta [^Sum.~, 12ae, q.76, a. 1; q. 77, 
+aa. 2, 3; q. 78, a. 1].
+
+	Cos@i anche Dante considera prima i peccati di debolezza
+nell'Inferno superiore, dal canto V al canto VIII; poi i peccati
+di bestialit@a, dal canto IX al XVII; infine i peccati di malizia, 
+dal canto XVIII al XXXIV.
+
+	Ma ritorniamo indietro, cio@e ai peccati di debolezza in
+faccia alle passioni.  Essi sono o dell'appetito concupiscibile, 
+che si riferisce al bene sensibile assolutamente considerato; o
+dell'appetito irascibile, che si riferisce al bene considerato
+come arduo [^Sum.~, Ia, q. 59, a. 4; q. 81, a. 2; q. 82, a. 5;
+12ae, q. 23, aa. 1, 2].  I primi sono meno colpevoli quanto al
+male in cui cadono, bench@e siano pi@u vergognosi [^Sum.~, 22ae, q.
+156, a. 4; ^Verit.~, q. 25, a. 2].  Quindi i peccati
+dell'irascibile sono puniti pi@u basso nell'Inferno, e se ne
+parler@a dopo i peccati del concupiscibile.  Dei primi si tratta
+dal canto V fine al VII, 96; dei secondi, dal canto VII, 97-130
+fino all'VIII, 66.
+
+	Ma bisogna entrare pi@u avanti nell'intimo delle cose.  Il
+concupiscibile, secondo lo Stagirita, si riferisce o alle cose
+naturalmente gradevoli, %eta%delta%$varepsilon%alpha\
+%varphi%$upsilon%sigma%epsilon%iota\, e qui si pu@o commettere il
+peccato di debolezza ^simpliciter~, 
+%alpha%pi%lambda%omega%vrsigma\
+%alpha%kappa%rho%alpha%sigma%$iota%alpha\, ossia di ^lussuria~ o
+di ^gola~ in quanto si pu@o peccare in ci@o che riguarda la
+conservazione della specie, o quella dell'individuo [^Sum.~, 
+22ae, q. 141, aa. 4, 5]; ovvero si riferisce alle cose
+ipoteticamente gradevoli, cio@e gradevoli per scelta, 
+%alpha%$iota%rho%epsilon%tau%$alpha\ quali sono le ricchezze, e
+qui si commette il peccato di debolezza sopraggiunta, cio@e di
+%alpha%kappa%rho%alpha%sigma%$iota%alpha\ %kappa%alpha%tau%alpha\
+%pi%rho%o%sigma%theta%alpha%sigma%iota%nu\, ossia il peccato
+d'^avarizia~ col suo contrario, cio@e il peccato di prodigalit#a.
+
+	I peccati di lussuria e di gola sono meno colpevoli ^in
+se~ [^Sum.~, 12ae, q. 77, a. 4; q. 87, a. 2, 1m], perch@e dinotano
+una minore conversione della volont@a verso i beni sensibili, e
+perch@e si avvicinano meno ai peccati spirituali [^Sum.~, 12ae, q.
+72, a. 2, 4m; q. 73, a. 5; ^In Ps.~, LI, fin.].  Quindi Dante ci
+descrive il primo e il secondo nei canti V-IV; e il terzo nel
+canto VII.
+
+	Ora tra i peccati di lussuria e di gola, bench@e il primo
+sia ^in se~ pi@u grave, per@o se v'@e come nell'Inferno, peccato
+mortale da ambedue le parti, il peccato di gola @e pi@u colpevole, 
+perch@e c'@e meno eccitazione per iscusarlo [^Mal.~, q. 15, a. 2, 
+6m; IV ^Sent.~, Dist. 33, q. I, a. 3, Im; q. I, a. 3, q. 2, 4m], 
+e perch@e suppone pi@u libidine nella volont@a [^Sum.~, 22ae, q.
+156, a. 3], la libidine della volont@a aggravando il peccato, 
+mentre la libidine de' sensi lo diminuisce [S. T., ^Mal.~, q. 14, 
+a. 4, 3m; q. 15, a. 4, 1m].  E d'altronde l'astinenza @e
+condizione e principio della continenza [^Sum.~, 22ae, q. 54, a.
+3, Im; q. 156, a. 3, 3m], e perci@o pi@u grave sar@a l'offendere il
+principio che la conseguenza.  E quindi Dante descrive la
+lussuria nel canto V, e la gola nel canto VI.
+
+	Questi sono i tre primi tra i peccati ^capitali~, quelli
+cio@e del concupiscibile, nella loro natura e nel loro ordine
+logico.
+
+	Passando ai peccati dell'irascibile, Dante, bench@e pi@u
+brevemente, ne parla nei canti VII-VIII: e sono i quattro ultimi
+peccati ^capitali.~  E non ci pare punto difficile il verificare
+cotesta pienezza di dottrina cristiana.  Crediamo che i quattro
+peccati sono esplicitamente mostrati dal v. 97 del canto VII, 
+fino al v 66 del canto VIII.  Infatti nel canto VII, v. 116, @e
+nominata l'^ira~, dove si veggono
+
+     L'anime di color cui vinse l'ira.
+
+	Quivi, nel v. 123, @e nominata l'^accidia~ o ^pigrizia~, 
+dove s'incontrano quelli che portarono:
+
+     ..... dentro accidioso fummo.
+
+	@E nominato l'^orgoglio~, ossia ^superbia~ quando
+apparisce, nel canto VIII, 46, Filippo Argenti, che
+
+     ..... fu al mondo persona orgogliosa.
+
+	@E nominata l'^invidia~, dove si vede (^ivi~, vv. 58-59):
+
+     ......... quello strazio
+     Far di costui alle fangose genti.
+
+	Senza dubbio (v. 61), 
+
+     Tutti gridavano: A Filippo Argenti!
+
+ma per@o non lo sbranano gli altri: lo straziano con le grida, 
+egli poi punisce s@e stesso.  Cos@i si strazia l'invidioso.
+
+	Ecco i sette peccati capitali ordinati in due serie
+generiche.
+
+	Ci pare chiaro e certo quanto abbiam detto.  Aggiungeremo
+solo questa osservazione, cio@e che mancherebbe la simmetria
+voluta tra il Purgatorio e l'Inferno, se in questo non
+s'incontrassero tutti i peccati capitali.
+
+	Abbiamo qui tre cose da spiegare: primo, quale @e l'ordine
+logico dei peccati dell'irascibile; secondo, come i quattro
+ultimi peccati appartengono all'appetito dell'irascibile, se sono
+intesi bene; terzo, che non senza ragione sono puniti insieme
+nello stesso cerchio, sotto il nome d'ira.
+
+	Quanto all'ordine logico, si ricordi il lettore che il
+termine dell'ira o dell'appetito irascibile @e doppio [S. T., III
+^Sent.~, Dist. 26, q. 1, a. 2, 5m].  L'uno prossimo, e consiste
+nel vincere l'ostacolo che s'incontra nel possesso del bene.  Gi@a
+fu detto che l'oggetto dell'irascibile @e il bene non
+^simpliciter~, ma in quanto arduo: consiste questo bene nel
+possesso di ci@o che conviene, o nella fuga di ci@o che non
+conviene [^Sum.~, Ia, q. 81, a. 2].  Ora nel combattere l'arduo, 
+o l'ostacolo, si pu@o peccare per eccesso, e questo @e l'ira, o per
+difetto, e questo @e l'accidia o pigrizia.  L'altro fine @e remoto, 
+e consiste nel possedere il bene arduo, sia ^in re~, sia ^in
+spe.~  Ma questo bene pu@o essere posseduto o da noi o dagli
+altri.  Se da noi, potr@a accadere che ne risulti una compiacenza
+illegittima: e sar@a la superbia, o l'orgoglio; se dagli altri, 
+potr@a darsi in noi un dispiacere illegittimo: e sar@a l'invidia. 
+Questo @e l'ordine logico quanto all'origine di cotesti peccati. 
+Ognuno sa d'altronde che stabilire quest'ordine non @e cosa tanto
+facile, n@e intesa da tutti nello stesso modo [Cf. ^Sum.~, 12ae, 
+q. 84, a. 4; ^Mal.~, q. 8, a. 1; II, ^Sent.~, Dist. 42, q. 2, a.
+3].
+
+	Quanto al secondo vero da stabilirsi, cio@e che tutti
+questi peccati appartengono all'appetito irascibile, lo si
+dimostra facilmente.
+
+	L'ira gli d@a il suo nome [^Sum.~, 12ae, q. 46, a. 3;
+22ae, q. 162, a. 3].
+
+	L'accidia si deve intendere qui della disperazione di
+poter vincere ci@o che si considera come un male, e quella risiede
+nell'irascibile [^Sum.~, 12ae, q. 23, a. 4; q. 14, aa. 3, 4; ^In
+II Ethic.~, lec. 5]; o anche della pusillanimit@a, che risiede
+nello stesso irascibile [^Sum.~, 12ae, q. 60, a. 5].
+
+	L'orgoglio, superbia o vanagloria, risiede
+nell'irascibile, perch@e si riferisce al bene arduo [^Sum.~, 22ae, 
+q. 162, a. 3; ^Mal.~, q. 8, a. 3; ^Virt.~, q. 1, a. 5, 10m].
+
+	L'invidia, nel senso ordinario, risiede veramente nel
+concupiscibile [S. T., ^Mal.~, q. 8, a. 3, 6m], e cos@i intesa, 
+non si spiegherebbe il suo posto quivi, se non a motivo della sua
+gravit@a, o anche della sua origine, in quanto cio@e nasce
+dall'orgoglio [^Sum.~, 22ae, q.36, a. 4, Im; II, Dist. 21, q. 2, 
+a. 1, 1m].  Ma si pu@o comprendere qui per il timore invidioso, 
+cos@i definito da San Tommaso: <tristitia non quidem
+essentialiter, sed ratione objecti tristantis, si sit praesens>
+[^Sum.~, 22ae, q. 41, aa. 1, 2, 4].  Il male presente, per il
+geloso, @e il bene del prossimo; e impugnando questo, non esiste
+per la potenza di combattere, ma per il difetto [^Sum.~, 12ae, 
+q.43, a. 2, 3m].  Ora il timore cos@i inteso esiste nel solo
+irascibile [^Sum.~, 12ae, q. 13, a. 1; III ^Sent.~, Dist. 26, q.
+1, a. 2].
+
+	A giustificare in fine il motivo per il quale
+l'Allighieri ripone questi quattro peccati insieme, sotto il nome
+d'ira, bench@e abbia punito separatamente i peccati del
+concupiscibile, baster@a osservare che il concupiscibile si nomina
+dalla concupiscenza, solo perch@e questa @e il suo effetto pi@u noto
+[^Sum.~, Ia, q. 25, a. 2, Im; q. 82, a. 3]; l'irascibile invece
+si nomina dall'ira, non solo perch@e questa @e pi@u nota, ma ancora
+perch@e @e l'effetto e l'unico termine delle altre passioni
+dell'irascibile [^Sum.~, Ia, q. 59, a. 1, 2m; q. 25, a. 3, 1m;
+^Verit.~, q. 26, a. 5, 5m; III ^Sent.~, Dist. 26, q. 1, a. 4, 
+3m].  L'ira contiene molte passioni, non gi@a come il genere
+contiene le specie, n@e come una causa contiene gli effetti, ma
+come un effetto contiene le sue cause [^Sum.~, 12ae, q. 46, a.
+1].  Quindi si puniscono coll'ira e quasi in essa.
+
+	Fin qui il Divin Poeta intorno ai peccati di debolezza.
+
+	Siamo al principio del canto IX dell'Inferno.
+
+	Dopo questi, si arriva ai peccati di bestialit@a, e il
+passaggio @e narrato nell'intero canto IX.
+
+	Cotesti peccati sono pi@u gravi de' peccati di debolezza, 
+perch@e nei primi non rimane la ragione pratica, mentre rimane nei
+secondi.  Quindi i peccati di bestialit@a sono meno imputabili e
+gravi dei peccati di malizia, perch@e c'@e meno di ragione e di
+libert@a.  Cos@i spiegano Aristotile e l'Aquinate [<Cum bona actio
+non sit sine ratione practica et appetitu recto, per hoc quod
+aliquid horum duorum pervertitur, contingit quod aliquid sit in
+moribus fugiendum.  Si quidem igitur sit perversitas ex parte
+appetitus, ut ratio practica remaneat..... erit incontinentia, 
+quae scilicet est quando aliquis rectam aestimationem habet de eo
+quod est faciendum vel vitandum, sed per passionem appetitus in
+contrarium trahitur.
+
+	Si vero in tantum invalescat appetitus perversitas ut
+rationi dominetur, ratio sequitur id in quo appetitus corruptus
+inclinat, sicut principium quoddam, existimans illud ut finem
+optimum.  Unde electione operabitur perversa, ex quo aliquis
+dicitur malus;... unde talis dispositio dicitur malitia.  Est
+autem considerandum quod perversitas in unaquaque re contingit ex
+eo quod corrumpitur temperantia debita illius rei: sicut
+aegritudo corporalis in homine provenit ex eo quod corrumpitur
+humorum debita proportio huic homini.  Et similiter perversitas
+appetitus, qui interdum rationem pervertit, in hoc consistit quod
+corrumpitur commensuratio affectionum humanarum.  Talis autem
+corruptio non consistit in indivisibili, sed habet latitudinem
+quamdam, ut patet de temperantia humorum in corpore humano:
+salvatur enim natura humana cum majori vel minori caliditate.  Et
+similiter contemperantia vitae humanae salvatur secundum diversas
+materias affectionum.  Uno igitur modo potest contingere
+perversitas in tali consonantia, ita quod non exeatur extra
+limites humanae vitae, et tum dicetur simpliciter incontinentia
+vel malitia humana: sicut aegritudo humana corporalis in qua
+salvari potest humana natura.  Alio modo potest corrumpi
+contemperantia humanarum affectionum ita quod progrediatur ultra
+limites humanae vitae, in similitudinem affectionum alicujus
+bestiae, puta leonis aut porci: et hoc est quod vocatur
+bestialitas.>  S. T., VII ^Ethic.~, lec. I.
+
+	Spiegando il suo pensiero e quello de Filosofo, soggiunge
+S. Tommaso: <Delectabilium quaedam sunt delectabilia secundum
+naturam, quaedam autem non secundum naturam: et utrumque eorum
+subdivitur.  Eorum enim quae sunt delectabilia secundum naturam
+quaedam sunt delectabilia omni habenti sensum;... quaedam vero
+delectabilia quibusdam differentiis et animalium et hominum... 
+Eorum vero quae sunt delectabilia non naturaliter, quaedam fiunt
+propter aliquas supervenientes aegritudines corporales, aut etiam
+tristitias animales, ex quibus transmutatur natura ad aliam
+dispositionem; quaedam vero fiunt delectabilia propter malam
+consuetudinem, quae fit quasi quaedam natura; quaedam vero fiunt
+delectabilia propter vitiosas naturas: puta cum aliqui homines
+habent corruptas et perversas complexiones corporales.  Et
+secundum hoc sequitur quod in his sint perversissimae tam
+apprehensiones imaginationis, quam affectiones sensibilis
+appetitus: quae quidem vires, cum sint organorum corporalium
+actus, necesse est quod sint corporali complexioni
+proportionatae.  Et quia secundum diversitatem objectorum
+diversificantur habitus, necesse est quod singulis praedictorum
+delectabilium respondeant similes habitus.>  S. T., ^VII Ethic.~, 
+lec. 5.
+
+	<Dicit (Philosophus) quod bestialitas minus habet de
+ratione malitiae, si consideretur conditio bestiae vel hominis
+bestialis: sed bestialitas est terribilior, quia facit majora
+mala...  Semper enim pravitas ejus qui non habet pricipium
+actionum innocentior est, quia minus potest imputari ad culpam, 
+quae propter hoc homini imputatur quia habet principium per quod
+est dominus suorum actuum: quod quidem principium est
+intellectus, qui in bestiis non est.>  S. T., ^VII Ethic.~, lec.
+6.  <Hujusmodi autem homines, qui propter perniciosam naturam
+sunt bestiis similes, habent quidem aliquid universalis
+apprehensionis, sed valde modicam, propter hoc quod ratio est in
+eis oppressa ex malitia complexionis.>  ^VII Ethic.~, lec. 5].
+
+	I peccati di bestialit@a sono ^nelle dottrine~ e ^negli
+atti.~
+
+	La bestialit@a nelle dottrine sar@a o il ^materialismo~, o
+la negazione dell'anima, la prima delle bestialit@a, perch@e nega
+quello per cui l'uomo differisce dalla bestia: e questo si spiega
+nel canto V; o l'^eresia~, che si chiamava spesso col nome di
+bestialit@a nel medio evo: e questo @e l'oggetto del canto XI.
+
+	San Tommaso ci spiega perch@e l'eresia si diceva
+bestialit@a.  <Sicut, secundum Philosophum, bestialitas ponitur
+extra numerum aliarum humanarum malitiarum, quia humanum modum
+transcendit: ita a sanctis ponitur haeresis extra numerum
+peccatorum quae in fidelibus inveniuntur> [S. T., IV ^Sent.~, 
+Dist. 13, q. 2, a. 2, Im].
+
+	La  bestialit@a negli atti, ossia la violenza @e di tre
+sorte, ed esiste sia ^contro il prossimo~ coll'omicidio, come si
+narra nel canto XII; sia ^contro s@e stesso~ col suicidio, come
+spiega il canto XIII, sia ^contro Iddio~, come si legge ne' canti
+XIV-XVII.
+
+	Ognun sa poi che i peccati commessi contro Iddio sono pi@u
+gravi di quelli commessi contro se stesso; e questi pi@u gravi di
+quelli commessi contro il prossimo [^Sum.~, 12ae, q. 72, a. 4; q.
+73, a. 9; II, ^Sent.~, Dist. 42, q. 2, a. 2].
+
+	Quindi i peccati contro il prossimo sono meno in basso
+nella gerarchia infernale che i peccati contro se stesso e contro
+Iddio; e i peccati contro se stesso, meno in basso che i peccati
+contro Iddio.  [Ma qui si vuol fare un po' di teologia come l'ha
+supposta l'Allighieri.  Tre cose sono da spiegarsi, cio@e prima
+perch@e i violenti sono divisi in tre categorie; secondo come in
+certe cose si rassomigliano; terzo, perch@e in altre si
+dissomigliano.
+
+	Quanto alla prima questione si noti che si pu@o prima fare
+violenza contro Iddio considerato ^in se~, e cos@i fa il
+bestemmiatore (^Sum.~, 22ae, q. 13, a. 3, Im), e questa @e la
+prima specie di violenza; e tale violenza @e contro natura, perch@e
+ogni essere tende natiralmente a Dio.  ^Sum.~, Ia, q. 44, a. 4;
+^Cont. Gent.~, lib.I, cc. XVII-XVIII.  Si pu@o fare anche violenza
+contro Iddio considerato ^in se~, e cos@i fa il bestemmiatore
+(^Sum.~, 22ae, q. 13, a. 3, Im), e questa @e la prima specie di
+violenza; e tale violenza @e contro natura, perch@e ogni essere
+tende naturalmente a Dio.  ^Sum.~, Ia, q. 44, a. 4; ^Cont.
+Gent.~, lib. I, cc. XVII-XVIII.  Si pu@o fare anche violenza
+contro Iddio considerato < nelle sue opere>, cio@e nella natura, 
+della quale l'ordine @e da Dio (^Sum.~, 22ae, q. 154, a. 12, Im);
+la quale @e istrumento di Dio (^Sum.~, 12ae, q. I, a. 2, ; q. 6, a.
+1, 3m; II ^Sent.~, dist. 5, q. I, a. 2; ^Pot.~, q. 0, a. 7;
+^Cont. Gent.~, lib. I, c. XLIV, 4m); nella quale Iddio ha messo
+l'arte propria per condurre le cose ai fini loro (^Cont. Gent.~, 
+lib III, c. III; ^I Physic.~, lec. 4 e 12): e quindi chiunque
+viola ci@o che @e veramente della natura, cio@e messo da Dio nella
+natura quando la costitu@i (^Verit.~, q. 2, a. 7, 10m), fa
+veramente una violenza contro Iddio: e quindi il peccato contro
+natura @e pi@u grave anche del sacrilegio, perch@e l'ordine della
+natura ha una priorit@a sopra ogni altro ordine sopraggiunto. 
+^Sum.~ 22ae, q. 154, a. 12, Im, 2m.  Quindi si vede che Dante @e
+sempre logico, anche dove meno appare.
+
+	Ora la natura, quanto a noi, comprende l'uomo e ci@o che @e
+fatto per l'utilit@a dell'uomo (^Cont. Gent.~, lib. III, c. CXII;
+I ^Sent.~, Dist. I, q. 2, a. 3; I ^Sent.~, dist. 47, q. 2, a. 1;
+^Pot.~, q. 5, a. 9), con questa differenza che l'uomo deve andare
+da s@e all'ultimo suo fine che @e Iddio, e le altre creature
+materiali vanno a Dio mediante l'uomo (^Cont. Gent.~, lib. III, 
+cc. XXII, LXXVIII) ma l'uno e l'altro si devono sempre conformare
+all'arte divina (^Sum.~, Ia, q. 44, a. 2; ^Cont. Gent.~, lib. I, 
+c. XCIII), <ut sic opus naturae videatur esse opus intelligentiae, 
+dum per determinata media ad certos fines procedit; quod etiam in
+operando ars imitatur.>  S. T., ^II Physic.~, lec. 4.  Quanto a s@e
+stesso, la legge primaria dell'uomo, voluta da Dio, @e la
+continuazione della specie umana, e quindi Iddio stabil@i le leggi
+della generazione, e per questo conviene che nascano gl'individui
+nella specie umana (^Sum.~, Ia, q. 47, a. 2; q. 119, a. 1); poi
+per la conservazione di cotali individui sono dati i beni
+materiali esteriori; e di questi per arte umana si deve cavare il
+frutto analogo alla natura delle cose.  ^Sum.~, 22ae, q. 78, a.
+1; ^Mal.~, q. 13, a. 4; Opusc. LXXIII, cc. IV, XV.  Ma l'uomo ha
+potere sulla natura <non quoad intima> sed < quoad extrinseca>
+(Cf. ^Pot.~, q. 3, a. 5, 4m), e quindi potr@a impedire
+l'applicazione normale delle suddette leggi.  Se si violano le
+leggi della generazione umana, non solo perch@e si cotradice la
+natura umana <secundum differentiam ejus>, quel che conviene a
+tutti i peccati, e in ispecie ai peccati ordinari di lussuria, ma
+se si contradice anche <de ratione generis>, allora si hanno i
+peccati enormi, innominabili, puniti in questo luogo dell'inferno
+dantesco.  ^Sum.~, 12ae, q. 6, a. 4, 3m; q. 71 a. 2; q. 94, a. 3, 
+2m; 22ae, q. 34, a. 5; q. 154, aa. 1, 11, 12; ^Cont. Gent.~, lib.
+III, C. CXII; ^In Rom.~, I, lec. 8.  Se si violano le leggi
+divine intorno all'uso delle cose concesse all'uomo, le quali
+comprendono non solo il denaro, ma ogni cosa che si pu@o
+determinare <numero, pondere et mensura>, allora per tutte queste
+si avr@a il peccato di usura (S. T., Opusc. LXXIII, c. II), il
+quale @e anche esso contro natura.  ^Sum.~, 22ae, q. 78, a. 1;
+^Mal.~, q. 13, a. 4; II, ^Sent.~, Dist. 37, q. 6; ^Quodl.~, q. 3, 
+a. 19; Opusc. LXXIII, cc. IV, XV.  Quindi apparisce come sono tre
+violenze contro Iddio.
+
+	Quanto alla seconda questione, si noti che si
+rassomigliano in questo che tutte tre oltraggiano Iddio
+ditruggendo le leggi naturali.  E si capir@a meglio quest'ultimo
+detto, se non si dimentica quell'assioma de' dottori antichi e
+medievali, cio@e che natura si diceva in doppio senso, ossia come
+<natura naturans>, vale a dire Iddio, che cre@o e ordin@o li esseri
+contingenti <omnium, vel qui creavit omnes naturas; e come
+<natura naturata, scilicet instrumentum ejus.>  ^Sum.~, 12ae, q.
+I, a. 2; q. 26, a. 1; q. 67, a. 1; II, ^Sent.~, Dist. 49, q. 3, 
+a. 1, q. 1; I ^Perith.~, lec. 14.  Lo stesso dice S. Bonaventura. 
+II ^Sent.~, Dist. 8, dub. 2.  Cos@i proprio l'intese e quasi colle
+medesime parole l'espresse l'Imolese, ^Inf.~, XI, v. 97.
+
+	Quindi appare benissimo come tutti questi peccati siano
+contro natura, e rassomigliandosi in s@e devono rassomigliarsi
+anche nella pena.  Questa pena conviene a loro per i motivi
+storici che abbiam detti sopra: ma vi pu@o essere una ragione
+intrinseca.  Cotesti bestiali resero sterile, quanto hanno
+potuto, l'opera della natura increata e quella della natura
+creata instrumento di Dio: e per questo sono puniti in quella
+sabbia infuocata dal cielo.  Quelle fiamme, anche se Dante
+n'abbia presa la similitudine dalla storia di Alessandro, la
+quale probabilmente allude al <simoum> o al <mirage>, hanno un
+per@o non so che di preternaturale che conviene come castigo ai
+peccati contro natura; e questi dannati sono suggellati
+d'infamia.  Cf. ^Inf.~, XI, 49.  Quanto al senso di tale
+allegoria non vuol esprimere altro che l'infamia colla quale
+cotesti vizi sono puniti anche in questo mondo, come erano puniti
+col segno infuocato certi infami nel medio evo.  Cf. Macri, 
+^Hierol.~, voc. ^Notatus.~
+
+	Ad accertare questo senso, rammentiamo i versi seguenti, 
+riferiti da Giovanni da Genova nel suo ^Cathol.~, voc. ^Stigma~:
+
+     Stemma genus dices, cocturam stigma vocabis, 
+     Materiam thema. . . . . 
+
+e anche questo di Prudenzio ^In Rom.~:
+
+     Quamcumque partem corporis fervens nota stigmarit.
+
+	Quanto alla terza questione, cio@e alle differenze che
+esistono tra le tre sorte di violenza contro Iddio, si osservi
+primo che si conoscono dalle positure diverse di quei dannati.  I
+bestemmiatori hanno la faccia contro il cielo; gli usurai
+guardano le loro borse, e sono immobili nel pensiero delle loro
+usure; i sodomiti corrono senza freno addietro alle brutalissime
+passioni.
+
+	Quanto alla ragione filosofica di cotesta infernal
+gerarchia appare facilmente.  @E manifesto che il violento contro
+la Divinit@a ^in se~ considerata @e pi@u colpevole, perch@e la
+gravit@a del peccato si considera specialmente dal grado di
+avversione da Dio (^Sum.~, 12ae, q. 73, a. 3, 2m; q. 100, a. 6;
+22ae, q. 10, a. 3; ^Quodl.~, q. 5, a. 20; II ^Sent.~, Dist. 9, a.
+3, q. 3), e tale avversione s'incontra pi@u completa dove
+s'incontra il pi@u completo dispregio di Dio.  ^Sum.~, 3a, q. 88, 
+a. 3; II, ^Sent.~, Dist. 9, q. 3, a. 3.  Quanto alle due altre
+violenze contro Iddio, si noti che il peccato di Sodoma e Gomorra
+offende Iddio quanto alle leggi dell'umana specie soltanto;
+l'usura invece offende Iddio quanto alle stesse leggi, e quanto
+agli individui.  Tocca questa ragione San Tommaso quando dice:
+<Maxima praeter naturam et rationem pecuniarum acquisitio est
+quae est per %tau%o%kappa%@o%nu\, id est in mutuo pecuniae pro
+augmento pecuniae.  Et dicit: <maxima> respectu illius
+acquisitionis quae fit in contractibus aliis causa cupiditatis
+tantum, quae mala est et contra naturam.  Adhuc pejor est quae
+fit per execitium turpitudinum corporalium.  Sed ista (scil.
+usura) maxime est contra naturam, quia obligat eum ad
+restitutionem acceptorum, quod non faciunt primi duo modi.>  S.
+T., Opusc. LXXIII, c. IV, ediz. Nicolai.
+
+	Spiega pi@u a lungo quest'ultimo punto il Santo Dottore, 
+^Sum.~, 22ae, q. 78, a. 1; ^Quodl.~, q. 3, a. 19; Opusc. LXXIII, 
+c. XV.  Insomma il peccato di usura offende Iddio nelle leggi e
+nell'uomo.  Quindi questa ultima @e pi@u colpevole ^in se~ e pi@u
+contraria alla natura.
+
+	Da cotesta dottrina segue che i bestemmiatori sono meno
+numerosi, e i figli di Sodoma pi@u numerosi, perch@e un peccato @e
+tanto meno frequente quanto @e pi@u contro natura.  ^Mal.~, q. 5, 
+a.5, 17m.
+
+	Segue ancora che i primi non si possono riparare per
+niente contro la nevicata di fuoco; i secondi lo possono un po';
+i terzi anche un po' di pi@u.].
+
+     Quest'ultima violenza sar@a di pi@u specie.
+
+	Sar@a infatti o ^immediatamente~ o ^mediatamente~ contro
+Iddio.  Lo sar@a immediatamente, colla ^ribellione~ e la
+^bestemmia~, come si narra nel canto XIV: lo sar@a mediatamente, 
+colla ^violenza~ o ^contro la natura~, opera di Dio, secondo che
+si dice nei Canti XV e XVI; o ^contro l'arte di Dio~, per esempio
+coll'usura, come spiega il poeta nel Canto XVII.
+
+	Tutto questo @e dottrina scolastica e dantesca.
+
+	Col Canto XVIII incomincia quasi direi il trattato dei
+peccati di malizia.
+
+	Dante come vari teologi medievali li divide in peccati di
+^frode~, e in peccati di ^tradimento~ [^Sum.~, 22ae, q. 40, a.
+8].
+
+	I peccati di malizia sono puniti nel Malebolge, cio@e nel
+luogo pi@u orrendo dell'Inferno.  I peccati di malizia per frodi
+sono dieci, puniti nell'ottavo cerchio, in dieci zone, descritti
+dal Canto XVIII al XXX.
+
+	Quelle dieci variet@a sono le fraudolenze de' ^seduttori, ~
+degli ^adulatori~, dei ^simoniaci~, degl'^indovini~, dei
+^barattieri~, degl'^ipocriti~, dei ^ladri~ dei ^mali
+consiglieri~, dei ^seminatori di scandali~ e dei ^falsatori.~
+
+	Anche in cotesta enumerazione ci si pu@o trovare un nesso
+logico.  I maliziosi per frode ingannano gli altri ^privatamente~
+o ^pubblicamente.~
+
+	Quelli che ingannano privatamente lo fanno ^nelle parole~
+o ^negli atti.~
+
+	Gl'inganni di parole si fanno ^per conto altrui~, come
+dai Ruffiani [^Inf.~, XVIII, 1-99] o ^per conto proprio~, come
+dagl'Adulatori [^Inf.~, XVIII, 100-136].
+
+	Gl'inganni di atti si riferiscono o ^alle cose divine~, o
+^alle cose umane.~
+
+	Se alle cose divine, ci saranno gl'inganni dei Simoniaci, 
+che rubano le cose divine [^Inf.~, XIX]; o degl'Indovini che
+rubano la scienza divina [^Inf.~, XX].  Se alle cose umane, ci
+saranno gl'inganni contro lo stato, ossia quelli dei Barattieri, 
+che s'approfittano o dei beni del comune [^Inf.~, XXI] o delle
+grazie del Signore [^Inf.~, XXII]; e gl'inganni contro la
+societ@a, ossia quelli degl'Ipocriti che rubano il bene
+immateriale della fama [^Inf.~, XXIII], e dei Ladri, che rubano i
+beni materiali tanto sacri [^Inf.~, XXIV] quanto profani [^Inf.~, 
+XXV].
+
+	Quei che ingannano pubblicamente lo fanno o inducendo al
+male, sia colle parole, come i mali consiglieri [^Inf.~, 
+XXIV-XXVII]; sia cogli atti, come i seminatori di scandali
+[^Inf.~, XXVIII], o facendo il male, come i falsatori [^Inf.~, 
+XXIX-XXX].
+
+	Quanto al tradimento, punito nel cerchio nono in quattro
+zone diverse, col quale s'ingannano o gli uguali o i superiori. 
+Gli uguali hanno un diritto ^naturale~ alla nostra fedelt@a, o un
+diritto ^convenzionale~ e sovraggiunto.
+
+	Gli uguali che hanno un dritto naturale alla nostra
+fedelt@a sono specialmente i ^parenti~ e ^i concittadini.~  I
+traditori, dei parenti sono puniti nella prima zona [^Inf.~, 
+XXXI-XXXII, 1-71]: i traditori dei concittadini, ossia della
+patria nella seconda [^Inf.~, XXXII, 72-139; XXXIII, 1-90].
+
+	Quei che hanno diritto convenzionale o sovraggiunto alla
+nostra fedelt@a, sono gli amici.  I traditori degli amici sono
+puniti nella terza zona [^Inf.~, XXXIII, 91-157].  I traditori
+poi dei superiori nella quarta [^Inf.~, XXXIV].
+
+	Ecco tutto l'Inferno dantesco, ossia tutta la teologia
+dello stato di peccato.  Tutto @e collegato, tutto armonizzato:
+levate dall'edifizio una pietra, aggiungetene una: tutto @e
+sproporzionato, disordinato.
+
+	Tali, se non isbaglio, sono i caratteri della vera
+scienza, o meglio di un vero trattato scientifico, bench@e sotto
+forma poetica.

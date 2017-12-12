@@ -1,0 +1,13 @@
+Fri Apr 4 11:26:39 EST 1986 jvs pre-edited paradiso
+Tue Jan 31 14:23:47 EST 1989 all .s files deleted by jma todya
+Tue Jun 27 23:14:38 EDT 1989 jvs deleted ligatures from .e => .noligs as directed by bobh
+Mon Jul 10 11:35:48 EDT 1989 jvs moved .noligs to .n suffix
+Mon Jul 31 07:39:51 EDT 1989 jvs deleted obsolete .e files: those with ligatures
+Mon Jul 31 07:40:06 EDT 1989 jvs renamed .n files to .e files
+Thu Dec 7 09:17:56 EST 1989 jvs rm'd obsolete .e files
+Mon Feb 19 10:39:08 EST 1990 jvs deleted old .e.Z files
+Mon Feb 19 11:20:01 EST 1990 jvs preloaded corrected .f files
+Fri Jun 29 08:50:47 EDT 1990 jvs compressed 01.bobh.e 02.bobh.e 03.bobh.e 04.bobh.e 05.bobh.e 06.bobh.e 07.bobh.e 08.bobh.e 09.bobh.e 10.bobh.e 11.bobh.e 12.bobh.e 13.bobh.e 14.bobh.e 15.bobh.e 16.bobh.e 17.bobh.e 18.bobh.e 19.bobh.e 20.bobh.e 21.bobh.e 22.bobh.e 23.bobh.e 24.bobh.e 25.bobh.e 26.bobh.e 27.bobh.e 28.bobh.e 29.bobh.e 30.bobh.e 31.bobh.e 32.bobh.e 33.bobh.e dated 9/18/89
+Fri Jun 29 08:51:06 EDT 1990 jvs compressed 01.f 02.f 03.f 04.f 05.f 06.f 07.f 08.f 09.f 10.f 11.f 12.f 13.f 14.f 15.f 16.f 17.f 18.f 19.f 20.f 21.f 22.f 23.f 24.f 25.f 26.f 27.f 28.f 29.f 30.f 31.f 32.f 33.f dated 2/15/89
+Mon Jan 14 10:30:57 EST 1991 jvs deleted obsolete 02.bobh.e.Z 03.bobh.e.Z 04.bobh.e.Z 05.bobh.e.Z 06.bobh.e.Z 07.bobh.e.Z 08.bobh.e.Z 09.bobh.e.Z 10.bobh.e.Z 11.bobh.e.Z 12.bobh.e.Z 13.bobh.e.Z 14.bobh.e.Z 15.bobh.e.Z 16.bobh.e.Z 17.bobh.e.Z 18.bobh.e.Z 19.bobh.e.Z 20.bobh.e.Z 21.bobh.e.Z 22.bobh.e.Z 23.bobh.e.Z 24.bobh.e.Z 25.bobh.e.Z 26.bobh.e.Z 27.bobh.e.Z 28.bobh.e.Z 29.bobh.e.Z 30.bobh.e.Z 31.bobh.e.Z 32.bobh.e.Z 33.bobh.e.Z files
+Mon Jan 14 10:31:41 EST 1991 jvs renamed old .f files to .e

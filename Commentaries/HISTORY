@@ -1,0 +1,6 @@
+-------------------------------------------------
+Entered on 10 Aug 2011 by dante:
+Changed database and website so that Conclusione and Nota Finale appear at the end of a canto's
+hits.
+
+Also ran a script to locate line number formatting errors. There were about 50.		-stc

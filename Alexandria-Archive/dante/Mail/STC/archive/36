@@ -1,0 +1,35 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4])
+          by avalon.dartmouth.edu (8.8.4/8.8.4) with ESMTP
+	  id LAA21381 for <steve@avalon.dartmouth.edu>; Sat, 28 Dec 1996 11:38:08 -0500
+Received: from lists.Princeton.EDU (root@lists.Princeton.EDU [128.112.129.249])
+          by dartvax.dartmouth.edu (8.8.4+DND/8.8.4) with ESMTP
+	  id LAA32301 for <Steve.Campbell@dartmouth.edu>; Sat, 28 Dec 1996 11:38:10 -0500 (EST)
+Received: from ponyexpress.Princeton.EDU ([128.112.129.131]) by lists.Princeton.EDU with ESMTP id <370206.s1-1>; Sat, 28 Dec 1996 11:38:04 -0500
+Received: from tucson.Princeton.EDU (tucson.Princeton.EDU [128.112.131.153]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id LAA16972 for <Steve.Campbell@dartmouth.edu>; Sat, 28 Dec 1996 11:37:50 -0500
+Received: (bobh@localhost) by tucson.Princeton.EDU (SMI-8.6/8.6.12) id LAA25539 for Steve.Campbell@dartmouth.edu; Sat, 28 Dec 1996 11:37:50 -0500
+Message-Id: <199612281637.LAA25539@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	 Sat, 28 Dec 1996 11:37:50 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: Singleton
+
+Hi, Steve.  I'll be sending Campi via "fetch" from a
+Mac in our cluster one day this coming week.  I've been
+trying to finish Singleton's PURGATORY, which, it turns
+out, had lots of little errors when it was edited.  I
+have gotten most of these now and hope to finish in the
+next few days.  To review, Singleton INFERNO should be
+OK.  I did all of PARADISO some months ago, and sent
+you the new version of _all_ those files.  I will now
+shortly send you the Singleton PURGATORY when I have
+all the files.  AS I recall, we used e-mail for this
+the last time we tested the system, and it worked fine.
+ Just to be sure, I'll send you a sample file (which
+you should look at and discard) in a minute.
+
+Hope all is well with you.  This DDP _never_ finishes,
+does it?
+
+HAppy 1997 to you and to Anne. Bob (Jean joining)

@@ -1,0 +1,77 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id SAA27646
+	for <steve@avalon.dartmouth.edu>; Sun, 10 Jan 1999 18:01:40 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id SAA25713
+	for <Steve.Campbell@dartmouth.edu>; Sun, 10 Jan 1999 18:01:40 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 56653 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68092-19730>; Sun, 10 Jan 1999 18:01:18 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA28430
+	for <Steve.Campbell@dartmouth.edu>; Sun, 10 Jan 1999 18:01:16 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup52.Princeton.EDU [128.112.71.52])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA17244;
+	Sun, 10 Jan 1999 18:01:15 -0500 (EST)
+Message-ID: <36993153.5054615@princeton.edu>
+Date: 	Sun, 10 Jan 1999 18:01:39 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>,
+        Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: Grandgent extra files
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+OK, here's the story.  I have now spent some twenty hours working with
+these.  The Purg. one, esp., was entered very sloppily.  They are both
+pretty clean now.  Even very clean (better than some of the Grandgent we
+have up in the comm.).
+
+I have divided both the Inf. and the Purg. file into two parts:
+
+(1) intrinf1 = Intro. to Divine Comedy as a whole
+(2) intrinf2 = Intro to individual cantos of Inf.
+(3) intrpurg.01 = Intro. to Purg. as a whole
+(4) intrpurg.gra = Intro to individual cantos of Purg.
+
+Your finding these did cause me a lot of work, but I am glad.  Here are
+the reasons.  Grandgent was a really fine Dantist.  This was the
+monument he left behind.  His commentary is really pretty thin, because
+he put a lot of it into the intros.  we can put the whole thing back to
+rights quite easily.  Further, for English-only users, it will be great
+to have a guide to the poem in overview in their own language.  So here
+is the design of work.
+
+(1) We put this first, as is.  It is about thirty pages long, and will
+be one of the longest "documents" in the DDP.
+
+(2) ALL of this huge file (some 60 pages) is dedicated to easily
+extracted proemi (pl. of proemio) to each of the 34 cantos of Inferno. 
+I checked Grandgent today to be sure (on DDP) and there are NO proemial
+files in him.  All I need to ask you to do is to make proemi for each of
+the cantos of Inferno from that big file.  The good news is that all are
+extremely clearly titled in a single format, as you'll see.  It's just a
+cut-and-paste job.  Each of these should be labelled "Proemio" at the
+head of its page (and "Nota.", I guess, in DDP's labelling -- whatever
+you generally do).
+
+(3) This 10-pager is a general Intro. to Purg. and should be the first
+file in Purg., just as it is (no work for Steve -- or hardly any).
+
+(4) This last file is a bit of a puzzle.  He did what he did for
+Inferno, but stopped with Purg. 10.  He may have run out of time or
+patience (and that may explain why we have nothing of this kind for
+Paradiso).  But I think we simply do what we did for (2): make it into a
+series of "proemi" for the first ten canti of Purg., just as we did for
+Inferno.
+
+I hope all that is clear enough.  It is clear to me that this new
+material gives us some very nice additional value for the English-only
+user.
+
+I will send all four files in a separate message just after this one.
+Bob

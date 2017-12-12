@@ -1,0 +1,21 @@
+..COMM:
+Lana
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Jacopo della Lana
+..PUBD:
+1324-28
+..PUBL:
+Comedia di Dante degli Allaghieri col Commento di Jacopo
+della Lana bolognese, a cura di Luciano Scarabelli.  Bologna,
+Tipografia Regia, 1866-67.
+..DENT:
+KDEM
+..EDTR:
+Margherita Frankel.
+Scarabelli's notes entered by Robert Hollander.
+..LODD:
+871209

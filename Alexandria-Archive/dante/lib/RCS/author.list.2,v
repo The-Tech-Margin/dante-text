@@ -1,0 +1,44 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	94.05.16.17.31.44;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@The second page of the autor list as shown at the beginning of a session.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@Continuing the list of commentators...
+
+
+ Berthier, 1892				Trucchi, 1936
+ Tozer, 1901				Pietrobono, 1946
+ Ruskin, 1903				Momigliano, 1946
+ Torraca, 1905				Porena, 1946
+ Grandgent, 1909			Sapegno, 1955
+ Steiner, 1921				Fallani, 1965
+ Mestica, 1921				Padoan, 1968
+ Casini-Barbi, 1921			Giacalone, 1968
+ Del Lungo, 1926			Singleton, 1970
+ Scartazzini-Vandelli [vandelli], 1929	Bosco-Reggio, 1979
+ Grabher, 1934				Pasquini-Quaglio, 1982
+
+
+
+
+
+An asterisk indicates a partial commentary.  Some pub. dates are approximate.
+@

@@ -1,0 +1,858 @@
+	Testo e Commento.  -- Secondo la dottrina cabalistica
+pitagorica, ritenuta universalmente scientifica nell'et@a di
+mezzo, anche da Dottori della Chiesa, tante volte affermata ed
+usata da Dante, come nel numero uno consiste la concordia ed ogni
+bene, cos@i il numero due, principio di pluralit@a, di contrasto e
+di opposizione, si presta a raffigurare l'invidia: perci@o, 
+crediamo, il nostro Canto procede tutto per coppie: i due Poeti, 
+i due spiriti purganti, Toscana e Romagna, due esempi d'invidia
+punita.
+
+	Nel principio del Canto, introducendosi due nuovi
+personaggi, alcune belle pennellate che ritraggono la natura
+degli Invidiosi e dei ciechi, continuano la rappresentazione del
+Canto precedente; ma ad un tratto i Poeti e i due nuovi spiriti
+purganti passano in seconda linea; dominano la scena due province
+italiane, quelle forse che Dante am@o maggiomente, nelle quali
+maggiormente sper@o, dei cui mali maggiormente si dolse, e
+l'Invidia cede il posto a quella che @e il suo diretto contrario, 
+la passione magnanima che trabocca contro il male, per amore del
+bene, per sentimento di carit@a umana e di patria carit@a.
+
+	<Una delle maraviglie maggiori dell'arte di Dante nella
+sua Cantica seconda>, scriveva lo Zenatti a proposito del Canto
+precedente, <@e il contrasto negli spiriti espianti tra
+l'abitudine contratta in terra e la nuova volont@a di farsi in
+tutto degni del cielo>.  Se non cos@i stridente come in Sapia, 
+questo contrasto apparisce anche nei due invidiosi che ora, udite
+le ultime parole di Dante alla Senese, si parlano all'orecchio, 
+ragionando di lui, come gente che fa vista di non voler essere
+intesa, ma che in realt@a ha vivo desiderio di farsi scorgere e
+notare, e che pure non sa nascondere l'interno fiele.
+
+	|1-6.~  L'osservare tanti privilegi nell'ignoto
+visitatore potrebbe anche indicare ammirazione; ma il tono
+inquisitorio, il |chi @e costui~?, quel |nostro monte~ che par
+dire: intruso!, l'|a sua voglia~, l'insistenza |apre li occhi a
+sua voglia e coperchia~, rivelano l'invidioso.  N@e meno
+caratteristica @e la risposta dell'altro: pi@u indolente forse, o
+pi@u prudente, cerca una scusa, pochi centimetri di maggior
+lontananza, per togliersi la curiosit@a a spese altrui, e col
+consiglio finale, accoglilo dolcemente s@i che parli, mira ad
+accaparrarsi la simpatia di Dante a spese del vicino, che non
+lascia di pungere, scoprendocene il carattere solitamente
+impetuoso e non propenso ad accoglier dolcemente; ma punge anche
+Dante con quel |so che non @e solo~, cio@e un'anima purgata che
+liberamente senta il desiderio d'alzarsi a miglior soglia, come
+sappiamo dal Canto precedente (v. 139).
+
+	|7-9.  A man dritta~, cio@e essendosi fermato Dante di
+faccia a Sapia, pi@u in l@a di costei, sulla via per cui dovevano
+proseguire i due Poeti.  |L'uno a l'altro chini~: magnifica
+dipintura: <Qui si parlano due segretamente all'orecchio: or
+quando cos@i vogliono comunicarsi qualche cosa due che ci veggono, 
+basta che l'uno dei due senza pi@u, si pieghi un poco l'orecchio
+dell'altro che sta pur dritto ascoltando.  Ma se ambedue son
+ciechi, si chinano ambedue l'uno verso l'altro, perch@e, non
+veggendosi insieme, non pu@o sapere l'uno s'egli sia tanto vicino
+agli orecchi dell'altro, che parlando piano possa essere inteso;
+n@e l'altro se egli abbia gli orecchi a tale distanza dal compagno
+che possa ricevere scolpito il suo pispigliare; e pertanto per
+essere certi di avvicinarsi insieme, si piegano ambedue l'un
+verso l'altro> (Cesari).  Poi, dirigendo di comun accordo l'un
+d'essi la parola a Dante, |fer li visi supini~, entrambi levano i
+menti e drizzano la faccia in su, come abbiam visto fare a Sapia, 
+perch@e le parole dell'uno esprimono il pensiero di entrambi.
+
+	|10-15.~  La richiesta @e fatta con quella dolcezza che
+aveva consigliato il compagno e che risponde al vivo desiderio
+d'aver risposta: confessa maraviglia, riconosce una grazia che in
+vita l'avrebbe fatto vedere ^di livore sparso~, chiede in nome
+della carit@a: un vocabolo, osserva il Pistelli, che appare
+soltanto tre volte nel Purgatorio, e tutte e tre in questo
+Girone, tra i peccatori che nel mondo avevano recato maggiori
+offese a questa virt@u.  Ma Dante, o che l'avessero indispettito
+le parole prima bisbigliate, o che si ricordasse l'ammonimento di
+Virgilio d'essere ^arguto~, perch@e c'@e poco da guadagnare a
+metter gli invidiosi a parte delle proprie faccende, certamente
+poi per aprirsi la via alla nuova materia, risponde con parole
+vaghe.
+
+	|16-21.~  Notisi l'enfasi del verso |per mezza Toscana si
+spazia~, e il rimbombo del nome di Falterona: non diremmo perci@o
+che Dante chiami l'Arno un |fiumicel~ perch@e non @e navigabile
+(Benvenuto), o perch@e mira al suo principio (Lombardi, Casini, 
+ecc.); ma piuttosto che egli usa il diminutivo in senso di
+accrescitivo, come talora sogliam fare giocosamente parlando: se
+no, che significato avrebbe il |cento miglia di corso nol sazia~?
+il Villani infatti ne calcolava il corso in miglia 120.
+
+	Il Poeta, richiesto della patria, non nomina Firenze, per
+la ragione che tosto vedremo, e neppure dice il nome dell'Arno;
+ma in questi versi egli esalta il suo Arno, il ^bel fiume~
+(^Inf.~, XXIII, 95), ^lo fiume real~ (^Pur.~, V, 122), che
+spaziandosi |per mezza Toscana~ (^per mediam Etruriam~, alla
+latina), da un capo all'altro, sembrerebbe dare esempio di unit@a
+e concordia a tutta la provincia; il fiume severo che ^torce il
+muso~ dovrebbe avvicinarsi a cittadini indegni di lui!
+
+	Quanto a s@e, Dante tace il suo nome perch@e |ancor molto
+non sona~: ma soner@a, dice l'|ancor~!  Per@o i due invidiosi non
+rilevano questa taccherella di superbia, abilmente mascherata, 
+che potrebbe offrir loro qualche piccolo strale; non la rilevano
+perch@e la reticenza di Dante nel dichiararla patria d@a appiglio
+per pi@u alta conversazione.
+
+	|22-24.~  Se ben |accarno~, penetro nella carne, afferro
+il tuo intendimento con l'intelletto, tu parli d'Arno!  Non
+sappiamo se la metafora alquanto preziosa dell'^accarnare~ sia da
+attribuirsi a Dante o allo stile oratorio del personaggio che
+parla, e che ci @e poco noto.  Gli antichi commentatori si
+limitarono a ripetere il nome e a dirlo di Bertinoro: poche e non
+tutte sicure notizie aggiunsero le recenti ricerche sui documenti
+romagnoli giunti fino a noi e lo studio dei cronisti del tempo. 
+Il Casini e l'Amaducci lo credettero della famiglia degli Onesti, 
+Conti di Bertinoro, insigni per i nomi di San Romualdo e di
+Pietro Peccatore; il Torraca lo nega, ritenendo Guido del Duca
+nome proprio, distinto dalla famiglia degli Onesti.  L'Amaducci
+lo disse ghibellino e il Torraca lo credette guelfo: ma anche il
+Torraca conviene con le ricerche dell'Amaducci, per cui Guido del
+Duca ci appare persona che ebbe uffici e stato ragguardevole in
+Bertinoro, sua patria, nella prima met@a del secolo XIII: nel 1202
+coi Bulgari e coi Mainardi, probabilmente suoi consorti, si
+sottomise all'Arcivescovo di Ravenna, giurando di rispettare la
+cessione dei beni fatta dal Conte di Bertinoro all'Arcivescovo
+stesso; nel 1204 fu presente alla designazione dei Giudici per
+una controversia sorta tra gli stessi Conti e l'Arcivescovo; nel
+1229 figura in altro atto riguardante altra controversia del suo
+Comune, e un ultimo documento del 1249 l'annovera tra i
+possessori di feudi della Casa Traversara: un antico adunque, che
+da circa cinquant'anni cerchia il sacro monte.
+
+	|25-27.  L'altro~, Raniero da Calboli nella valle del
+Montone, guelfo, fu podest@a di Faenza nel 1247, di Parma nel 52, 
+di Ravenna ne 65.  Nel 76, con l'amico suo Lizio di Valbona, si
+ribell@o a Forl@i, avendo fortificato Calboli: ma fu assediato e
+vinto da Guido da Montefeltro.  Dopo la donazione della Romagna, 
+fatta da Rodolfo d'Asburgo a Niccol@o III, resistette con altri
+signori ai rettori pontifici.  Nel 1292, essendo podest@a di
+Faenza, con Maghinardo di Susinana s'impadron@i di Forl@i
+scacciandone l'allora Conte di Romagna per il Papa, Ildobrandino
+da Romena, il quale aveva seco i fratelli Aghinolfo e Alessandro
+(^Inf.~, XXX, 77), e Alberico de' Manfredi (^Inf.~, XXXIII, 109);
+ma due anni dopo ne fu espulso.  Nel 96, mentre i Forlivesi e
+Maghinardo, non pi@u amico, assediavano Castronovo, castello dei
+Calboli, Raniero riusc@i nuovamente a penetrare in Forl@i; ma
+sopraggiunti, reduci dall'assedio, i Forlivesi e Scarpetta degli
+Ordelaffi, perd@e la vita combattendo.  <Spirito irrequieto>, 
+conchiude queste notizie il Torraca, <avverso a Guido da
+Montefeltro, avverso agli Orgogliosi, avverso agli Ordelaffi, e
+quando alleato, quando nemico di Maghinardo, pi@u che ambizioso, 
+il prode romagnolo pot@e parere a Dante invidioso>.
+
+	I due personaggi che purgan l'invidia l'uno a fianco
+dell'altro nel Purgatorio, nulla ebbero di comune in vita, salvo
+l'esser romagnoli.  Nel nostro Canto, il pi@u antico, Guido del
+Duca, appare di animo pronto e sdegnoso, con una punterella
+d'invidia ancora, ma sotto cui gi@a s'accende il foco della
+carit@a; l'altro, Ranieri de' Calboli, l'uomo del tempo nuovo, che
+non ha che quattro anni di purgazione, di contro al mezzo secolo
+del compagno, @e pi@u astuto e ancora impregnato dell'antico
+veleno.
+
+	|Tu parli d'Arno~! ha detto Guido a Dante, volendo veder
+chiaro nel suo pensiero; ma Ranieri, simulando una certa
+ingenuit@a, vuole che lo straniero manifesti meglio le sue
+intenzioni, e chiede: |Perch@e nascose questi il vocabol d quella
+riviera~? suggerendo la risposta egli stesso, perch@e dice che non
+si tace che il nome delle |orribili cose.~
+
+	Da questo punto la parola spetta a Guido del Duca; Dante
+gli presta la sua voce e l'animo suo, sicch@e le terzine che
+seguono sembrano una continuazione dell'apostrofe all'Italia del
+Canto VI, e per tutto il resto dell'episodio, come dice il
+Pistelli, <campeggiano tutti i sentimenti pi@u generosi dell'uomo
+che si purifica, del cristiano che si santifica, del cittadino e
+dell'italiano che anelano alla giustizia e alla pace>, per quanto
+la parola sia dura, e la duplice descrizione della Toscana e
+della Romagna del trecento rivesta la forma dell'invettiva.
+
+	|28-30.~  Nella prima parte della terzina c'@e un cozzo di
+vocali -- |domandata era~ -- e d'accenti tronchi -- |ci@o, 
+sdebit@o, cos@i, non so, ma~ -- che minaccia tempesta; e peggio
+dopo: |degno ben @e che il nome di tal valle pera~!: ^muovansi la
+Capraia e la Gorgona~!... anzi, perisca anche il nome di tutta la
+valle bagnata dall'Arno!  E gi@u un periodo di quattro terzine che
+sembra uno straripamento di fiume.
+
+	Il discorso diventa cos@i impetuoso e denso che il
+commentatore @e costretto a procedere distinguendo: un abile
+lettore pu@o riprodurne la violenza coi suoni del verso.
+
+	Volendo adunque Guido tracciare un quadro di tutta la
+valle dell'Arno, incomincia col descrivere in due terzine il
+corso del fiume con accenni di geografia e di meteorologia; poi
+in due altre terzine abbraccia d'un'occhiata sola tutta la
+popolazione toscana; infine in quattro terzine torna a discendere
+col fiume dall'Appennino al mare per descrivere, con progressione
+di bestialit@a, le citt@a che si trovano sulle sue rive.
+
+	|31-33.~  Dalla sorgente alla foce, vuol dire Guido, e si
+serve di due terzine: in questa prima egli segna il monte
+Falterona.  |L'alpestro monte ond'@e tronco Peloro~ l'Appennino, 
+che secondo una classica tradizione, geologicamene confermata, in
+antico si prolungava fino alla Sicilia, formandovi il nostro
+Peloro, che poi fu distaccato per un cataclisma, donde ebbe
+origine lo Stretto di Messina; l'Appennino che presso il
+Falterona @e pi@u che altrove |pregno~, cio@e massiccio, formando
+ivi uno dei principali centri orografici.
+
+	Ora si osservi; anche Guido cela sotto forma di una
+circonlocuzione il nome della catena montuosa che corre tutta
+l'Italia, come Dante aveva fatto per l'Arno: sicch@e se alcuno
+ripetesse a lui la domanda che gli aveva rivolto Raniero, non
+solo Romagna e Toscana, ma tutta l'Italia sarebbe chiamata a
+rispondere alle mdesime accuse: degno @e che il nome di tali valli
+pera, e perci@o io non ho nominato gli Appennini!  Ma l'infuriare
+di Guido e di Dante, per ora, si limita alla Toscana ed alla
+Romagna: fra due Canti Marco Lombardo e Dante riallacceranno il
+discorso sulla Marca Trevigiana.
+
+	|34-36.  Infin l@a~, fino alla foce: ma nemmeno questa si
+dice col suo semplice nome; n@e si poteva indicare pi@u
+poeticamente e scientificamente: <la geografia, dice il Tommaseo, 
+diviene poetica come non fu mai>: il fiume che cento miglia di
+corso non sazia, comincia dal pi@u massiccio centro geografico
+degli Appennini, e va, ubbidiente alle leggi di natura, a buon
+fine; <per dire semplicemente fino al mare, scrive l'Antonelli, 
+il Poeta espone in questa terzina lo stupendo fatto che il cielo, 
+mediante il calore che ci comparte sol Sole, fa evaporare le
+acque dei mari; i vapori acquei ricadono in pioggia; le piogge
+alimentano i fiumi, o porgono loro l'acqua, la quale @e |ci@o che
+va con loro~; e questi infine la rendono al mare per ristoro
+delle perdite fatte da lui con l'evaporazione.  Tutte queste
+nozioni potevano elleno dirsi meglio o pi@u brevemente?>.  E il
+Poletto ricorda che lo Stoppani scriveva al Giuliani (^De aqua et
+terra~): <Maury, il vero creatore della fisica terrestre, non
+avrebbe potuto sintetizzare meglio il grandioso fenomeno della
+circolazione dei vapori e dirne al tempo stesso poeticamente le
+cause, che citando questa terzina di Dante>, che ribadisce il
+concetto gi@a da noi illustrato nel Canto di Buonconte da
+Montefeltro.
+
+	Dalla sorgente alla foce dell'Arno adunque, continua
+Guido:
+
+	|37-42.~  L'Arno conserva le sua natura; ma gli abitanti
+della |misera valle~, e in quel |misera~ piange tra lo sdegno la
+compassione, gli abitanti di tutta la Toscana da un capo
+all'altro, o |per sventura del luogo~ che disponga gli uomini al
+male, o |per mal uso che li fruga~, ossia li stimola a fuggir la
+virt@u, sembrano tramutati in bestie, come i compagni di Ulisse da
+Circe: |che par che Circe li avesse in pastura~: la voce si
+arresta paurosa sul |par~, poggia e s'eleva sul |Circe~, mugghia
+tetra sul |pastura.~  <Chi da la ragione si parte, e usa pur la
+parte sensitiva, non vive uomo, ma vive bestia> (^Conv.~, II, 
+VII, 3-4).
+
+	Cos@i @e dei Toscani tutti del 300, e valgan gli esempi. 
+Torniamo alla sorgente e seguiamo l'Arno passando di popolo in
+popolo per tutto il suo corso, e in quattro terzine troveremo <un
+saggio di topografia satirica unico al mondo> (Amp@ere), una
+<descrizione idro zoologica> (Pistelli), per cui l'Arno, 
+quadripartito come il fiume dell'Inferno, precipita al basso
+incontrando gente sempre pi@u abbrutita dalla ferocia e dalla
+malizia.
+
+	|43-45.~  Fino a Romena l'Arno @e un fumicello dal |povero
+calle~, e in quel primo cammino trova fra gli alri il forte
+castello di Porciano, cos@i denominato per l'allevamento dei suini
+che fioriva in quelle campagne, e per cui oggi ancora son celebri
+i prosciutti affumicati del Casentino.  In quello stesso castello
+secondo alcuni, a Poppi secondo il Torraca, nel Marzo Aprile del
+1311 il nostro Poeta fu ospite del Conte di Battifolle, cugino
+dei Conti Guidi da Romena, e, a nome della Contessa, figlia di
+Ugolino della Gherardesca, scriveva alla moglie di Arrigo VII
+alcune lettere, delle quali tre ci rimagnono.
+
+	|Porci~, adunque, pi@u degni di ghiande che di cibo umano, 
+i casentinesi dell'alto Arno e in particolare i Conti Guidi del
+ramo di Porciano, che ne erano i signori, e che gli antichi
+commenti dicono dati al vizio della lussuria.
+
+	Erano i Conti Guidi di Modigliana e di Porciano <ramo
+ghibellino di quella potentissima famiglia dei Conti Guidi, e
+dettero ad Arrigo VII fedeli servitori e a Dante stesso nel 1311
+un ospite gradito.  Onde se veramente Dante abbia voluto |fra
+brutti porci~ porre i Guidi di Modigliana, dovremo ammetterne
+anche qui la tenace imparzialit@a sempre vigile e indipendente, 
+pur senza conoscere le ragioni del guidizio suo; che alcuni
+moderni commentatori pensarono fossero la lunga inimicizia contro
+il Comune di Firenze e lo scarso aiuto dato ai Bianchi nei
+tentativi di tornare in patria> (Casini-Barbi).
+
+	Si @e pensato che dal nome di Porciano sia venuta a Dante
+l'idea di rassomigliare ai porci gli abitanti dell'alto
+Casentino; ma sembra pi@u probabile che il Poeta, per quanto
+sovrattutto politico sia il movente del suo sdegno in questo
+Canto, prestasse alle varie citt@a attributi bestiali con un
+criterio morale.  Ed @e degno d'osservazione come anche Boezio
+(IV, III) nomini insieme, bench@e con ordine inverso e in
+compagnia di altri animali, porci, cani, lupi, volpi, come ora fa
+Dante.
+
+	|46-48.~  Ricorda l'Anonimo Fiorentino che gli Aretini
+avevano dipinto nel loro stemma un cane ed un cinghiale, con
+sotto il motto: ^a cane non magno, saepe tenetur aper~, e il
+Poeta sembra metterli in ridicolo: che cani! caricatura di cani, 
+come sono i botoli, che per quanto appartengano agli alani, son
+piccoli, ringhiosi, impotenti.  Il frizzo era forse popolare a
+Firenze, perch@e anche Franco Sacchetti (Sermoni) diceva che gli
+Aretini <furono sempre chiamati botoli, e veramente cos@i sono, 
+per@o che senza intelletto sempre abbaiano, s'@e' loro signori non
+li battono; e per lo battere si rimangono d'abbaiare, e dopo le
+battiture stanno suggetti con timore e con pi@u amore che non
+essendo battuti>.  E anche qui forse il Poeta ricordava le vane
+promesse fatte dagli Aretini ai Bianchi: <I Bianchi n'andorno ad
+Arezzo ove era podest@a Ugoccione della Faggiuola, antico
+ghibellino, rilevato di basso stato.  Il quale, corrotto da vana
+speranza datali da Papa Bonifazio, di fare uno suo figliuolo
+Cardinale, a sua petizione fece loro tante ingiurie>, che
+<convenne loro partirsi> (Dino Compagni, II, XXVIII).
+
+	Arrivando nel territorio d'Arezzo l'Arno improvvisamente
+cambia direzione, volgendo ad occidente, mentre fin l@a era
+disceso verso mezzogiorno; sicch@e il |volger muso~ dantesco non @e
+puramente metaforico.
+
+	|49-51.~  Man mano che s'allontana da Arezzo, l'Arno vede
+la natura canina degli Aretini trasformarsi in lupina, e veri
+lupi trova in Firenze.  Anche nel Paradiso Dante chiama |lupi~ i
+suoi concittadini (XXV, 6): moralmente l'attributo morde la
+cupidigia di Firenze, non mai sazia di estendersi ai danni dei
+vicini, e politicamente ricorda il significato etimologico della
+parola ^guelfo~, in tedesco ^welf~ -- lupo.
+
+	|52-54.  Per pi@u pelaghi cupi~, sono quei seni che a
+quattordici miglia da Firenze verso Empoli fa l'Arno, stretto fra
+massi, alla Gonfolina, e <che chiamansi anch'oggi pelaghi>, 
+annota Brunone Bianchi.  E dopo Empoli l'Arno entra nel
+territorio dei Pisani, |le volpi.~  I porci ed i botoli ci fan
+ricordare gli Incontinenti dell'Inferno, i lupi i Violenti, le
+volpi, piene di froda, i Frodolenti: la progressione @e manifesta. 
+<Li Pisani> dice il Buti, pisano, <sono astuti e con l'astuzia
+pi@u che con la forza si rimediano dai loro vicini>; e non @e la
+prima volta questa che Dante ci mostra il suo sdegno verso i
+Pisani: maestri d'inganni, essi |non temono ingegno che li
+occupi~, cio@e li prenda: ricordiamo che appetto a loro i
+Fiorentini furon gi@a detti ^orbi~ (^Inf.~, XV, 67).
+
+	Tanta aberrazione di popoli non rester@a impunita, e gi@a
+la punizione si annuncia per Firenze, l'unica citt@a guelfa fra i
+Conti di Porciano, Arezzo e Pisa di fazione ghibellina.  Quattro
+terzine hanno descritto l'abbruttimento della Toscana e quattro
+profetizzano la punizione della capitale toscana.
+
+	|55-57.  Altri, costui~, si riferiscono a Dante; Guido si
+scusa con Ranieri di dover dir male d'un suo nepote; ma, 
+sentendosi illuminato da una improvvisa rivelazione dello Spirito
+Santo, parler@a, perch@e a Dante sar@a buono rammentare la sua
+profezia, in quanto, nell'esilio, gli sar@a di sollievo il
+pensiero di non esser stato presente a tanta calamit@a della
+patria.
+
+	|58-60.~  Furcherio o Fulcieri de' Calboli, figlio d'un
+figlio, o d'un fratello di Rinieri, <uomo feroce e crudele>
+(Villani, VIII, LIX), nel 1294, quando i Calboli furon cacciati
+da Forl@i, fu fatto prigioniero e poi liberato per intercessione
+di Maghinardo.  Nel 1297 lo ritroviamo podest@a di Milano, e
+l'anno dopo di Parma; ma il suo nome rimase tristemente legato
+soprattutto alla storia di Firenze dell'anno 1303, quando vi fu
+podest@a, per la ferocia che mostr@o contro i Bianchi e i
+Ghibellini fuorusciti.  Era il tempo della seconda guerra
+mugellana: un fuoruscito, certo Diedati, aveva scritto ad un
+amico in Firenze che i confinati stavan in speranza di rimpatriar
+colle armi, e tanto bast@o perch@e Fulcieri facesse imprigionare
+alcuni Bianchi e Ghibellini, e confessar per mezzo della tortura
+quanto sapessero: un d'essi, Tignoso de' Macci, vecchio, mor@i
+sulla colla; gli altri furono decapitati.  Uscito poi contro i
+ribelli, che, ancora forti di 6000 pedoni e di 1000 cavalli, si
+erano fermati a Pellicciano, Fulcieri li sgomin@o, facendo
+decapitare in Firenze, nel luogo dove si giustiziavano i
+malfattori, quanti gli eran caduti fra le mani.  Cos@i pot@e esser
+rinominato Podest@a per il secondo semestre di quell'anno e
+arricchirsi a prezzo di taglie e confische.  N@e la triste fama
+lasciata a Firenze gli imped@i di esser poi nominato podest@a di
+Modena nel 1306, bench@e ne fosse cacciato prima che finisse il
+suo ufficio; fu poi ancora capitano del popolo di Bologna nel
+1309, e nel 1312 nuovamente Podest@a della stessa Firenze.
+
+	|61-63.~  Vero cacciatore di lupi agli ordini di lupi, 
+Fulcieri ne vendeva la carne ancor viva, non badando se fosser
+rei o no, imponendo taglie e riscatti, che non salvavano dalla
+morte, perch@e ne seguiva la confisca dei beni.
+
+	|64-66.~  L'antica belva ha ritrovato la sua selva, 
+Firenze, e l'ha lasciata cos@i spopolata che mille anni non
+basteranno a restituirle i suoi lupi, perch@e le sue orribili
+persecuzioni inacerbirono gli odi e resero impossibile ogni
+riconciliazione dei partiti.
+
+	|67-72.~  Una scena patetica forma passaggio dalla
+Toscana alla Romagna: quelle tre anime, rappresentanti le due
+sventurate province, si confondono in un'anima sola, perch@e si
+comprendono: le parole del cieco ispirato han turbato Ranieri
+come un pericolo il cui annunzio ci addenti, da qualunque parte
+venga, perch@e inevitabile: le espressioni dell'uno e il
+turbamento dell'altro han destato in Dante tanta subita simpatia
+che vuol conoscerne i nomi, ed umilmente li chiede, supplicando.
+
+	|73-78.~  Guido sa di umiliarsi dicendo il proprio nome a
+chi ha taciuto il suo, e lo dice il |diduca~ che appunto in senso
+di umiliarsi fu usato dai latini.  Ma ci@o non ostante parler@a di
+s@e e del compagno: loder@a Ranieri come uomo del tempo antico, e
+dalle lodi di lui prender@a motivo per deplorare il tralignamento
+delle antiche famiglie signorili governanti la Romagna, come gi@a
+aveva deplorato l'abbrutimento delle masse popolari dei liberi
+comuni toscani.
+
+	|79-81.~  In cambio delle notizie storiche, parlano in
+favore di Guido in questi versi l'altezza dell'eloquio, la
+semplicit@a del nominarsi, la sincerit@a della confessione che
+segue.
+
+	|82-87.~  ^Invidus alterius macrescit rebus opimis~
+(Orazio, ^Epis.~, I, II, 57); l'invidia @e seme che germina in
+paglia e non in grano!  <Chi semina iniquit@a, mieter@a vanit@a>
+(^Proverbi~, XXII, 8).  E Guido dal suo proprio compunto dolore
+si eleva alla considerazione dell'infelicit@a umana, ricerca la
+radice dell'umano dolore: o uomini, perch@e ponete il core in
+quelle cose che hanno |mestier di consorto divieto~?  Queste
+parole ci saran pi@u largamente spiegate nel prossimo Canto: vi
+sono due specie di beni per gli uomini: i beni materiali e gli
+spirituali: i beni materiali sono limitati, sicch@e quanto pi@u ne
+acquista alcuno, tanto meno ne resta per il vicino; per goderli
+bisogna possederli da solo, ossia essi importano divieto di
+compagno o di consocio.  Ma i beni spirituali e intellettuali, 
+l'amore, il sapere ecc. sono infiniti, possono godersi in comune
+da tutti, anzi quanto ne possiede pi@u alcuno, tanto pi@u cresce il
+patrimonio comune e tutti se ne avvantaggiano.  Guido lamenta
+appunto il soverchio amore dei beni materiali; alla fine del
+Canto Virgilio esalter@a l'amore dei beni spirituali, fecondi di
+carit@a.
+
+	|88-90.~  Grande suona qui l'elogio di Rinieri, e tanto
+pi@u vituperevole quindi il tralignamento della discendenza sua:
+tralignata la casa da Calboli, tralignate tutte le case signorili
+della Romagna, prosegue Guido, enumerandole.
+
+	|91-96.~  Tali erano allora i confini della Romagna: a
+settentrione il Po, a mezzogiorno l'Appennino, l'Adriatico a
+oriente e il Reno all'occidente.  Secondo la norma del Canto, il
+nome della Romagna @e anch'esso taciuto, perifrasticamente
+nascosto in questo <ampio verso che Guido dice con vanto, quasi a
+far sentire quanto sarebbe bello il dolce paese che si estende
+tra l'Appennino, l'Adriatico e i due fiumi, e far rilevare, per
+contrasto, come ora non lo ricoprano che sterpi velenosi, brullo
+com'@e di ogni virt@u civile, di cortesia, di gentilezza, insomma
+di ogni ^valore~ {v.90}, che @e la somma di ogni virt@u>
+(Pistelli), o, come dice Dante, del vero bene, |del ben richiesto
+al vero ed al trastullo~, cio@e alla ricerca del vero e della
+felicit@a.
+
+	Dove sono ormai gli antichi cittadini gagliardi e probi? 
+Il nostro Canto segna appunto la decadenza delle citt@a romagnole, 
+mettendo a fronte la nuova generazione del trecento, a poco a
+poco tralignata, da che manc@o il freno dell'Impero e fu confuso
+il potere di Roma, con le generazioni valorose ed oneste dei
+tempi dell'Impero; l'ultima generazione del secolo XII e quella
+del secolo XIII.  E che tale sia il concetto generale di questo
+Canto lo comprenderemo meglio al Canto XVI, per voce di Marco
+Lombardo, che istituir@a lo stesso confronto tra le antiche e
+nuove generazioni della Marca Trevigiana; sicch@e da questo punto
+di vista i Canti XIV, XV, XVI formano un sol tutto: l'argomento
+che qui si inizia, l@a si conchiude.
+
+	|97-99.~  Lizio da Volbona, signore di quella terra che
+siede nelle montagne tra la Romagna e la Toscana, <largo e
+curiale uomo e di grande cortesia> (Lana), come tale @e ricordato
+in molti racconti del tempo.  In una Novella del Boccaccio (^G.~
+V., ^N.~ IV), il suo nome @e unito a quello di Arrigo Mainardi, 
+come nel verso dantesco: l'Ottimo narra che una volta vendette
+una coltre di zendado per dare un pranzo; Pier di Dante che
+essendogli annunziata la morte d'un triste figliuolo, 
+rispondesse: lo credevo morto da un pezzo.  Nel ^Libro del
+Parlare gentile~ si legge che Rinieri da Calboli un giorno
+pregasse d'amore la donna di Lizio, dicendole tra l'altro, 
+<com'elli era gentile e ricco e bello, e vostro marito @e cos@i
+laido, come voi sapete>; e che Lizio, udendo, dalla vicina stanza
+alzasse la voce, suggerendogli di acconciare i fatti suoi, senza
+sconciare gli altrui!  Dai documenti si apprende che il |buon
+Lizio~ fu compagno e sostenitore di Rinieri de' Calboli nelle sue
+imprese: con lui lo troviamo fra i ribelli di Forl@i nel 1276, e
+con lui nella zuffa che ne segu@i contro Guido da Montefeltro, 
+nella quale Lizio perdette un figlio, Arrigo; con lui presente
+nel 1279 alla dichiarazione di pace tra gli Accarisi e i
+Manfredi.
+
+	Arrigo Mainardi o Manardi, da Brettinoro o Bertinoro, fu
+tanto amico di Guido del Duca, narra Benvenuto, che alla morte di
+questo fece segare per met@a il banco su cui solevan sedere
+insieme, affermando <quod non remanserat alius similis in
+liberalitate et honorificentia>.  La storia di Arrigo Mainardi
+s'intreccia anche con quella di Pier Traversaro che lo segue nel
+verso: nel 1168 per la mala lingua dei Forlivesi contro i
+Faentini si accese una lunga guerra fra le due citt@a, durante la
+quale, nel maggio 1170 presso San Verano, i Forlivesi ebber la
+peggio, e Arrigo Mainardi e Pier Traversaro rimasero prigionieri. 
+Nel 1195 Arrigo figura tra i testimoni d'un diploma
+all'Imperatore Arrigo VI in Bertinoro; nel 1188 in Ravenna
+partecip@o a un'adunanza di Guelfi che elessero Paolo Traversaro, 
+figlio di Pietro, procuratore di quel Comune.
+
+	Pier Traversaro o da Traversara, presso Bagnacavallo, di
+antica e nobilissima famiglia, ghibellino, nel 1170 fu, come
+abbiam visto, prigioniero dei Faentini; nell'81, 89, 96 podest@a
+di Ravenna.  Nel 1212, insieme col Marchese Azzo IV d'Este e col
+Conte Bonifacio di San Bonifacio, dal Pontefice Innocenzo III che
+voleva far giungere in Germania Federico, re di Sicilia, per
+opporlo ad Ottone IV, ricevette il delicato incarico di
+proteggere il giovane principe nel passaggio attraverso la
+Lombardia, dove prevalevano i partigiani di Ottone.  Nel 1215
+ebbe guerra coi Conti Guidi del Casentino per il possesso di
+alcuni castelli, e finalmente nel 1218, con l'aiuto dei Mainardi, 
+prese Ravenna e vi domin@o sino alla morte, che avvenne nel 1225. 
+Ospit@o signorilmente Amerigo da Peguilhan e altri trovatori
+provenzali che cantaron le lodi della sua seconda moglie Emilia, 
+gi@a dei Conti Guidi, e della sua nuora Beatrice di Magonza. 
+Morendo lasci@o la signoria di Ravenna al figlio Paolo (morto nel
+1240).
+
+	Guido di Carpigna, guelfo, discendente d'un Ulderico che
+nel 992 pare ricevesse in dono da Ottone I terre e castelli del
+Montefeltro per servizi resi all'Impero ed alla Chiesa contro
+Saraceni e Greci della bassa Italia, era figlio del Conte
+Raniero, e fu podest@a di San Pietro in Vincoli presso Ravenna, 
+nel decembre 1251, quando il Pontefice Innocenzo ingiunse ai
+Ravennati, fautori di Corrado di Svevia, di sottomettersi alla
+Santa Sede entro quindici giorni.  Nel 1256 lo troviamo alleato
+della Citt@a di Castello in guerra contro Massa Trebaria.  Un
+documento del 1283 lo d@a come gi@a defunto in quell'anno.
+
+	|Oh Romagnoli tornati~ (cio@e mutati, alla francese) |in
+bastardi~! esclama Guido rivolgendo il pensiero da questi antichi
+ai suoi concittadini del tempo presente.
+
+	|100-102.~  Dal contado passiamo alle citt@a: Bologna, 
+Faenza.
+
+	|Fabbro~, nobile soldato, uomo sapiente e di grande
+consiglio, al dir di Benvenuto, appartenne a quella famiglia dei
+Lambertazzi, d'origine feodale, ghibellina, che per tanto tempo
+coi guelfi Geremei si disput@o il dominio di Bologna.  Era figlio
+di quel Bonifazio di Guido, che <podest@a di Padova nel 1205 e
+nella battaglia delle Nebbie contro i Veneziani, due anni di poi
+crociato, di@e il suo nome per grido di guerra in Terra Santa a'
+suoi aderenti bolognesi e rimpatriato lo di@e a parte ghibellina>;
+e sotto il principato di costoro, padre e figlio che gli
+successe, <parte ghibellina tenne alta la fronte in Bologna, 
+senza che i Lambertazzi si mischiassero, salvo una volta, di
+risse cittadine>, come poi avvenne dal 1271 in avanti (G.
+Gozzadini).  Il nostro Fabbro prima del 57 era stato podest@a a
+Bagnacavallo, e lo fu poi a Viterbo, a Pistoia, due volte a Pisa, 
+tre a Faenza, <di dove venne con milizia e popolo in aiuto de'
+Bolognesi contro i Modenesi, prendendo parte a zuffe, ad assedii, 
+ad oppugnazioni, con vicende ora prospere ora avverse> (1235), e, 
+continua il Torraca, <port@o poi la guerra fin sotto le mura di
+Ravenna; e incusse tal terrore che poco manc@o non s'impadronisse
+di quella citt@a>.  Nel 1239 assist@e, per Faenza, al giuramento
+per cui Azzo d'Este entr@o nella lega lombarda; era fuori di
+Bologna nel '57, quando il Podest@a e l'assessore giurarono di
+mantenere indenni la persona e le ragioni di lui, e cess@o di
+vivere nel 1259, carico di anni e d'onori; ma la sua morte segn@o
+il principio della decadenza di parte ghibellina in Bologna.
+
+	Bernardino di Fosco, <di piccola condizione> (Lana), 
+figlio d'un lavoratore della terra, secondo l'Ottimo, per suo
+valore divenne grande in Faenza, che nel 1240 difendeva contro
+Federico II.  <Fu podest@a in Pisa nel 1248, in Siena nel 1249>
+(Casini).  Della sua liberalit@a racconta l'Anonimo Fiorentino
+che, <volendo un giorno cavalcare, e non trovando cavalli nella
+sua ben fornita scuderia, perch@e tutti li aveva prestati, e non
+potendo averne uno in prestito dai cittandini, adirato, si fece
+portare innanzi un libro sacro, e giur@o <che mai niuno cavallo
+gli sarebbe stato chiesto, quantunque egli n'avesse bisogno, 
+ch'egli non prestasse, per@o ch'egli avea provato quanto altri
+avea caro d'essergli prestati quando altri n'avea bisogno>.
+
+	|103-111.~  Idilliaci versi che ci torneranno a mente
+quando, nel cielo di Marte, il |tosco~ Poeta, con lo stesso
+nostalgico sentimento e con la stessa commozione di Guido del
+Duca, vaghegger@a, rimpiangendolo, il buon popolo antico della sua
+Firenze!  Questi veri, e gli ultimi tre specialmente, <ritraggono
+tutto l'evo antico della cavalleria>, comment@o il Gioberti, 
+quando tutto spirava |amore e cortesia~, cos@i tra gli |affanni~
+della vita, come fra gli |agi~ dei lieti riposi entro le
+domestiche pareti, allietate dai sorrisi delle donne amorose e
+pudiche.  I nomi di quel tempo, passato per sempre, si affollano
+alla mente di Guido, e noi vorremmo conoscerne le storie pi@u
+ampiamente di quel che ci consentano le notizie che ci son
+pervenute.
+
+	Un Guido da Prata, presso Russi, tra Faenza e Ravenna, @e
+nominato con Arrigo Mainardi, tra gli intervenuti all'adunanza
+guelfa del 1228 che nomin@o Paolo Traversaro procuratore della
+Republica ravennate, ed @e forse questo il personaggio qui
+ricordato; forse tutt'uno con un Guido Prata che nel 1186 dal
+giudice del Podest@a di Faenza fu condannato in contumacia a
+rimettere un podere a certo monastero che su di esso accampava
+diritti.  L'Ottimo lo dice amicissimo di Ugolin d'Azzo.
+
+	Questo Ugolin d'Azzo, secondo il Landino ed altri, fu
+degli Ubertini toscani, ma vissuto per lo pi@u in certi castelli
+che possedeva in Romagna, e morto nel 1293.  Il Torraca invece
+preferisce crederlo, col Lana, Faentino; un Ugolin d'Azzo che, in
+nome di Faenza, si trov@o presente alla conclusione della pace di
+Costanza tra Federigo Barbarossa e la Lega Lombarda (1183).  Gi@a
+l'Ottimo al |vivette nosco~ d@a questa interpretazione: <nato di
+basso luogo, convers@o continuo con li predetti nobili>; si pu@o
+anche intender ^vivette ai nostri tempi.~  Il nostro Testo, 
+scrivendo |vivetter nosco~ estende l'allusione anche a Guido da
+Prata.
+
+	Nessuna notizia sicura abbiamo di Federico Tignoso, 
+ritenuto montefeltrano da Pietro di Dante, da tutti gli altri
+commentatori riminese, detto Tignoso per antifrasi, secondo
+Benvenuto, perch@e aveva una magnifica capigliatura.
+
+	Pochissime pure le notizie degli Anastagi, per lo pi@u
+creduti emuli di casa Traversara.  Un Anastasio nel 1199 fu
+incaricato di ricercar fuori di Ravenna una persona atta a
+governarla, e al principio del secolo XIII prestava grano e
+denari agli Arcivescovi ravennati.  Un altro, probabilmente
+figlio del precedente, per mezzo di suoi tutori, nel 1215 aveva
+litigio col Vescovo di Rimini, ed @e forse quel ^quemdam
+Anastasium~, ghibellino, che Salimbene da Parma indica
+sprezzantemente come nemico di Casa Traversara, e che nel 1234 fu
+fatto prigioniero dai Faentini.  Un altro Anastasio nel 1249, 
+partigiano di Ruggero da Bagnacavallo, e ribelle alla Chiesa, fu
+minacciato di scomunica dal Cardinale Ottaviano degli Ubaldini, 
+allora Vescovo di Bologna (Torraca).
+
+	Tanto la casa Traversara quanto quella degli Anastagi, 
+aggiunse Guido, nel 300 erano diseredate, cio@e prive di eredi, 
+spente; e da questa osservazione Guido prende occasione per una
+terribile invettiva che non riguarda ormai pi@u i suoi
+concittadini d'un tempo, ma i presenti, per dire che si possono
+ritenere felici le famiglie che avevano finito di esistere, a
+petto di quelle che ancora si prolungavano in una discendenza
+fatalmente indegna del nome dei suoi maggiori.
+
+	|112-114.~  Terzina oscura; chi pensa che qui si parli di
+tutta la buona |famiglia~ o popolazione di Bertinoro, esulata per
+non diventar malvagia; chi, con l'Anonimo Fiorentino interpreta:
+O Bertinoro -- la citt@a nativa di Guido --, perch@e non
+scomparisci dalla faccia della terra, da che @e finita la tua
+famiglia, quella dei tuoi Mainardi, al dir dello stesso Anonimo, 
+cos@i generosa che, per evitare dispute in famiglia, <feciono fare
+campanelle a' palagi loro in su la piazza, e qualunque forestieri
+vi capitava, dov'egli legava il cavallo quivi gli conveniva
+albergare>.  Per@o i Mainardi non furono mai Conti effettivi di
+Bertinoro, n@e la loro famiglia era spenta nel 1300.
+
+	|115-117.~  Bagnacavallo, Castrocaro, Conio eran terre di
+Romagna, e Guido loda quelle che non provvedevan di figliuolanza
+i loro Conti pervertiti, e biasima quelle che s@i li provvedevano.
+
+	Bagnacavallo fu in potere dei Conti Malabocca, o
+Malvicini, fino al 1248, quando il Cardinal Ubaldini fu mandato a
+rivendicare alla Chiesa i diritti su tutta la provincia, sicch@e
+il Comune, cacciati i Conti, istitu@i di reggersi liberamente, e
+nel 1282 ne fu podest@a Catalasio da Polenta, nel primo semestre
+del 1283 Bonifazio Fieschi, Archivescovo di Ravenna (^Purg.~, 
+XXVI, 29), e nel secondo semestre dello stesso anno quell'Ugolino
+Buzzola che si trova nominato nel ^De Vulgari Eloquentia~ (I, 
+XIV, 3).  Nel 1300 i Malabocca non avevano continuatori maschi
+della casa, ma soltanto tre figlie, una delle quali, Caterina, fu
+sposa di Guido Novello da Polenta, l'ospite di Dante.  Nel 1305
+colla morte del padre di Caterina, ardito guerriero, il ramo
+principale dei Malabocca era spento.
+
+	Castrocaro invece non pativa difetto di Conti; vivevano
+alla fine del secolo XIII un Conte Piero, un Conte Anastasio e un
+Conte Guglielmo, forse della famiglia Pagani.  Nelle carte di
+Conio poi i Conti sono nominati a due, a tre, a quattro per
+volta, <onde @e da giudicare sarcastico il ^figliare~ di Dante, 
+detto di essi, come di bestie> (Torraca).
+
+	|118-120.~  Ricordiamo la descrizione della Romagna del
+300 nel Canto di Guido da Montefeltro: il |demonio~ @e quel
+Maghinardo da Susinana che l@a fu detto <mutar parte da la state
+al verno>.  Era della famiglia dei Pagani di Faenza, e fu
+astutissimo mestatore nelle faccende politiche di Romagna e di
+Toscana, con continui voltafaccia.  Nel 1294 ad esempio, quando i
+Manfredi e i Conti di Conio coi loro seguaci tentarono di
+sottrarre Faenza alla Chiesa, Maghinardo ricuper@o la porta
+Ravegnana gi@a presa dai ribelli e restitu@i la citt@a al capitano
+pontificio, Napoleone da Rieti, con alte proteste scritte
+d'ubbidienza alla Chiesa; e pochi mesi dopo diventava capitano
+generale della Lega contro il Pontefice.  Veramente, dice
+l'Anonimo fiorentino, era <della natura del diavolo che quando
+piglia et appare in forma umile per ingannare altrui, et quando
+in maniera aspra e dura per spaventare altrui>.
+
+	Quanto alla nostra terzina se ne danno due
+interpretazioni: la tradizionale @e quella dell'Ottimo: <Li
+Pagani, privati di Maghinardo (1302), faranno bene>, cio@e saranno
+degni di lode; ma non s@i che costui non li lasci col titolo suo
+infamati per sempre>.  Il Torraca invece intende che anche i
+Pagani faranno bene a non figliar pi@u dopo la morte del demonio
+loro; e infatti <de Maghinardo non remansit proles masculina>
+(Benvenuto), n@e il padre suo ebbe altri discendenti legittimi, n@e
+si sa d'altri rami della famiglia.  Morto Maghinardo, nella
+storia di Faenza prevalsero i Manfredi, e non si fa pi@u parola
+dei Pagani.
+
+	|121-123.~  Ugolino da Cerfugnano, nel territorio di
+Faenza, figlio di Alberto di Fantolino, guelfo, fu podest@a di
+Faenza nel 1253, nel '57 nel '69, signore di molti castelli nella
+valle del Lamone e di terre nella valle del Serio, e in
+quest'ultima coi Conti di Conio e di Donigaglia e con quei di
+Bagnacavallo e di Lugo fece lavori che il fiume rendeva
+necessari: mor@i nel 1278.  Ebbe due figli maschi, entrambi
+entrati in Faenza per il tradimento di Tebaldello (^Inf.~, XXXII, 
+122): uno di essi, Tano o Ottaviano, genero di Tebaldello, mor@i a
+Forl@i combattendo contro Guido da Montefeltro (1o maggio 1282), 
+il giorno del ^sanguinoso mucchio~ (^Inf.~, XXVII, 45), e la
+vedova sua, Zambasina di Tebaldello, pass@o a seconde nozze con
+Gianciotto Malatesta, vedovo di Francesca.  L'altro figlio, 
+Fantolino, pare che morisse prima del 1291, perch@e in quell'anno
+le sorelle disponevano dell'eredit@a del padre e dei fratelli: la
+prima di esse, Caterina, aveva sposato il Conte Alessandro da
+Romena, l'altra, Agnese, Taddeo di Montefeltro.
+
+	|124-126.~  Imperioso congedo, che sembrerebbe una
+rivincita dell'umiliazione a cui Dante aveva quasi costretto
+Guido del Duca in principio, se molto pi@u del tono della voce non
+ci commovesse qui questo disiderio di pianto, che |nostra
+ragion~, il ragionamento sulle sventure della patria ha suscitato
+nell'anima di Guido.
+
+	Durante il suo discorso ci @e sembrato che quella
+raffinata sensibilit@a morale che nel mondo l'aveva spinto
+all'invidia, dice il Donadoni, nel Purgatorio si sia sublimata in
+odio verso la corruttela umana, e specialmente verso i costumi
+della gente nuova.  <L'aspro rammarico prorompe nelle pi@u diverse
+forme, tutte frementi di commozione: ora @e satira che flagella:
+^o romagnoli~ {v.99}! ora @e la voce di chi chiama nel deserto:
+^ov'@e il buon Lizio~ {v.97}? ora @e un misto di piet@a e di
+sarcasmo: ^o Brettinoro, ch@e non fuggi via~ {v.112}! ora @e, come
+nel linguaggio di qualche profeta, la benedizione degli sterili:
+^Ben fa Bagnacaval che non rifiglia~ {v.115}...  ^O Ugolin de'
+Fantolin~ {v.121}!  Ma la nota umana saliente, quella che
+trasforma l'elegia in dramma @e, in Guido del Duca, il pianto:
+nessun pianto @e cos@i inaspettato e commovente come questo del
+vecchio cavaliere di Romagna, e in mezzo a tanta asperit@a
+d'invettiva.  @E un pianto virile, un pianto e un singhiozzo, del
+quale egli ha quasi vergogna e che sente il bisogno di
+giustifacare: ^non ti maravigliar~ {v.103}: un pianto dapprima
+pacato, ma che alla fine scoppia con tutta violenza.  Allora
+Guido non pu@o parlar pi@u, e quasi caccia via il testimonio della
+sua debolezza: |ma va via, Tosco, omai.~  N@e chiede a Dante
+quello che gli altri penitenti, salvo pochi magnanimi, 
+insistentemente chiedono: il suffragio dei vivi: come se egli
+vivesse ancora nelle Romagna sua, come se non fosse un eletto ed
+un atteso da Dio; una delle tante contraddizioni felici in cui
+l'uomo di qui sopraff@a nel Poema l'uomo dell'al di l@a>.
+
+	|127-129.~  Quanto sentimento di vera umanit@a in questa
+terzina!  Dante, non punto offeso, anzi impietosito dal brusco
+congedo, s'avvia con Virgilio per la strada che nessuno dei due
+conosce, ma s'inoltrano sicuri, <perch@e quelle anime, che non
+vedono, ma sentono, li avrebbero subito avvertiti se si fossero
+accorte che avevan preso una direzione falsa.  Cos@i Guido e
+Ranieri, sul punto di lasciarli, li vediamo attenti al risonar
+de' passi dei due poeti, ansiosi un momento, poi soddisfatti>
+(Pistelli): |anime care~! chi si sarebbe aspettato tali parole al
+principio del Canto?  Tanto pu@o nelle anime nobili il comune amor
+della patria!
+
+	|130-135.  Poi~, poscia che fummo fatti soli...  I due
+Poeti, appena raggiunte le ombre cieche, avevan udito Sapia: poco
+pi@u in l@a di Sapia sedeva, quasi figura centrale, Guido, e al suo
+lato Rinieri: appena discostatisi da questi due, Dante e Virgilio
+son |soli.~  Il verso ci dice che pochi invidiosi si salvano, e
+suona triste come un doloroso distacco.  Ma nella tristezza del
+distacco e della solitudine scoppiano improvvise voci terribili
+che gridan gli esempi della punitrice giustizia, voci inaspettate
+e ratte come folgore, spaventose e rombanti come tuono che |si
+dilegua se subito la nuvola scoscende~: si credeva che il tuono
+fosse prodotto da venti imprigionati che squarcian le nuvole.  I
+due rapidi esempi d'invidia punita sono tolti al solito
+promiscuamente dalla storia biblica e dalla pagana: il primo, 
+|anciderammi qualunque m'apprende~, o sorprender@a, traduce le
+parole di Caino dopo il delitto: <Omnis qui invenerit me, occidet
+me>, e a lui si riferisce.
+
+	|136-141.~  La prima voce fu paragonata allo schianto del
+fulmine, la seconda al tuono che subito gli tien dietro, <sicut
+diurnis corruscationibus illico succedunt tonitrua> (Dante, 
+^Epist.~, IV, 3): di entrambe noi non comprenderemmo il
+significato senza conoscer la storia.
+
+	Cecrope, re d'Atene (^Metam.~, II, 708), ebbe tre figlie, 
+Pandros, Erse, Aglauro: Pandros savia e virtuosa, Erse
+bellissima, Aglauro avara e invidiosa.  Mercurio s'invagh@i di
+Erse, e domand@o aiuto ad Aglauro che chiese un compenso d'oro. 
+Il dio and@o in cerca dell'oro, ma, tornato, trov@o Aglauro ad
+impedirgli il passo alla stanza della sorella, per invidia; onde
+Mercurio la convert@i in sasso, e pass@o.  L'esempio, 
+manifestamente allegorico, simboleggia forse la critica
+fastidiosa e pretenziosa di chi @e incapace d'ispirazione propria
+e di comprender l'altrui: dinanzi alla quale bisgna fare come
+Dante: rifuggirne e stringersi ai veri maestri dell'arte
+ragionevole e sana.  All'udire l'esempio di Aglauro che divenne
+sasso, Dante, che ricorda Medusa, n'ha un s@i fiero spavento, che
+gli par d'essere nei panni d'Aglauro, veder avanzarsi il dio, e
+sollecitamente gli lascia libero il varco.
+
+	|142-144.  Camo~ significa museruola, morso o freno: <in
+camo et fraeno maxillas eorum constringe>, cio@e di coloro che si
+ribellarono a Te, prega David (^Salmo~ XXXI, 10).  Le grida udite
+sono adunque il freno che dovrebbe ritener l'uomo entro i termini
+della sua meta, cio@e entro i termini della carit@a, il ^freno~
+{v.147} che Virgilio aveva annunziato al verso 40 del Canto XIII, 
+e perci@o forse qui si dice |fu~ e non ^@e il duro camo.~  @E
+notevole che le stesse parole, |camo e freno~, si trovino usate
+dal Poeta nel ^Monarchia~ (III, XVI, 9) per indicare l'ufficio
+dell'Imperatore.
+
+	|145-147.~  Ma che vale il freno? continua Virgilio con
+parole tra l'ironico e l'irato, che ricordano lo stile biblico:
+l'uomo corre avido all'esca che gli offre il demonio, all'amore
+dei beni materiali, e s'avvia verso l'Inferno: <nescit homo finem
+suum; sed sicut pisces capiuntur hamo, et sicut aves lqueo
+comprehenduntur, sic capiuntur homines> (^Ecclesiast.~, IX, 12). 
+E il Canto termina con quattro versi nei quali la divina
+giustizia risplende della immensa bellezza onde la divina bont@a
+anima i cieli e d@a loro un linguaggio.
+
+	|148-151.~  ^Pronaque cum spectent animalia caetera
+terram, Os homini sublime dedit, coelumque tueri Iussit et
+erectos ad sidera tollere vultus~ (Ovidio, ^Met.~, I, 84-87); ma
+<quel che aveva detto Ovidio, ed era gi@a un'immagine bella in
+versi splendidi, diventa appena un'ombra, in confronto dei versi
+che Dante fa dire a Virgilio>; versi <ampi e solenni>, che
+<seguono, anzi creano il giro delle eterne sfere, che pur non
+valgono a scuotere il torpore e attrarre lo sguardo dell'uomo
+carnale, |onde vi batte chi tutto discerne~: ultimo verso fiero e
+reciso come il castigo di Dio> (Pistelli).
+
+	Stupenda ampliazione poetica del forte passo di Boezio:
+<Riguardate lo spazio del cielo, la fermezza, la celerit@a, e
+finite qualche volta di guardare con maraviglia le cose vili; il
+qual cielo per@o non @e retto> (^De consolat.~, III, 8).  N@e stuona
+una s@i cristiana massima perch@e venga pronunciata da Virgilio, il
+quale aveva compreso e cantato quanto la contemplazione dei cieli
+sia atta a nobilitare l'uomo, a soddisfare l'uomo, ^linquentem
+terras et sidera voce sequentem~ (^En.~, X, 193).

@@ -1,0 +1,318 @@
+	|1-9.~  Dante apologizes for not having under his control a language 
+rough enough to be the exact counterpart of what he must describe.  For 
+the relationship of the diction of the passage to that found in Dante's 
+^Rime petrose~, see Poletto's commentary (1894) to verses 1-6, perhaps 
+the first to contain this observation, now become customary.  See also 
+Luigi Blasucci, "L'esperienza delle ^Petrose~ e il linguaggio della 
+^Divina Commedia~," in his ^Studi su Dante e Ariosto~ (Milan: 
+Ricciardi, 1969), pp. 1-35.
+	The place he needs to describe is the center of the entire universe 
+(at least it is in the geocentric view).  If he had the right words, he 
+would be able to set forth more adequately what he indeed fully 
+understands, i.e., his ^conception~ does not come short of the nature 
+of these things (see v. 12), but his words may.  Dante draws this 
+distinction with some care.  To repeat, his 'conception' is one matter, 
+his description of it another (it is the 'juice' that he must 'squeeze' 
+from the 'fruit' of his experience).  And the setting of that 
+experience into verse is no light task (^impresa~ -- for the importance 
+of this word, referring variously to Dante's journey and to his poem, 
+see Hollander [^Allegory in Dante's "Commedia"~ (Princeton: Princeton 
+University Press, 1969), p. 230], citing its other three occurrences in 
+the poem [^Inf~. II.41; ^Inf~. II.47; ^Par~. XXXIII.95], not one for a 
+tongue that is capable only of 'babytalk.'  For the linguistic program 
+concerning 'babytalk' found in the ^Commedia~ and its oppositional 
+relation to that previously advanced by Dante in ^De vulgari 
+eloquentia~, see Hollander, "Babytalk in Dante's ^Commedia~," in 
+^Studies in Dante~ (Ravenna: Longo, 1980), pp. 115-29.  Here Dante is 
+including two words, 'mommy' and 'daddy,' that he himself had 
+explicitly proscribed from the illustrious vernacular (^De vulgari 
+eloquentia~ II.vii.4).
+	A curiosity to be taken under consideration is the claim made by 
+Berthier (comm. to these verses), citing Ferrazzi's ^Manuale Dantesco~ 
+(IV, p. 235), that it is probable that Dante derived his ^terza rima~ 
+from Rutebeuf's Old French verse.
+
+	|10-12.~  This is Dante's second invocation.  For the program of 
+invocation in the poem as a whole, see the note to ^Inferno~ II.7-9.  
+Here the poet seeks aid only from the Muses and only for his ability to 
+find the right words for his difficult task in rendering such 
+unpleasant matter.  His 'conception' (see v. 4), we may understand, is 
+already formed (in ^Inf~. II.7 he implicitly asked for that, as well).
+	The reference to the poet Amphion probably derives from the ^Ars 
+poetica~ of Horace (vv. 394-396), a work well known to Dante.  Amphion 
+was able, through the magic of his inspired lyre-playing, to compel the 
+rocks of Mt. Cithaeron to move down the mountain and, of their own 
+accord, create the walls of Thebes.  Dante, describing the Infernal 
+'city of destruction,' the ninth Circle, home of Lucifer, asks for the 
+help of the Muses in order to build, not the physical city, but his 
+image of it in words that do justice to the conception he has been 
+given.
+
+	|13-15.~  The poet's address to all the denizens of Cocytus seems to 
+have been aimed particularly at the arch sinner punished here, Judas, 
+by its reference, first noted by Pietro di Dante (Pietro1, comm. to 
+these vv.), to Matthew 26:24, Christ's words to Judas, for whom it had 
+been better 'not to have been born.'
+
+	|16-18.~  The narrative of this ultimate part of the first ^cantica~ 
+has been held in abeyance for nine self-conscious opening lines about 
+the poet's craft, for an invocation, and then for an apostrophe.  The 
+visit to the pit of the universe has finally begun.  However, Dante's 
+failure to manage these details more clearly has rattled his readers.  
+Do the giants stand on the icy floor of Cocytus?  Apparently not.  Here 
+Dante asserts that he and Virgil find themselves far below the feet of 
+Antaeus.  They do not seem, however, to have themselves descended that 
+distance.  Rather, it seems more likely that Antaeus has set them down 
+just about where they find themselves now.  Some commentators object, 
+since most humans, and certainly most giants, are probably not limber 
+enough (or long-armed enough) to bend at the waist and deposit a burden 
+well below the level of their feet.  Do we learn where the giants 
+stand?  No.  Is Dante concerned lest their feet become chilled on the 
+ice?  No.  Might they be standing on some sort of ledge?  Yes.  Can we 
+be certain that they are?  No.  Might Antaeus have longer arms than we 
+like to think?  Yes.  Can we know that he does?  No.  This is a poem, 
+and, especially when it deals with the marvelous, while it is at times 
+amazingly precise, it is also, at other times, exasperatingly (to 
+certain readers) imprecise.  As a result, beginning perhaps with 
+Bianchi (comm. to verse 17), commentators have invented a ledge for 
+Antaeus, and hence all the giants, to stand on.  It has become part of 
+the furniture of the poem, even if Dante did not construct it.
+
+	|19-21.~  The identity of this voice has long puzzled readers.  
+Torraca (comm. to v. 19), essentially alone in this opinion, opts for 
+Virgil; many for an unnamed sinner; many others for one (or both) of 
+the Alberti brothers, whom we see in vv. 41-51.  Benvenuto da Imola 
+(comm. to vv.  16-21), followed only by his student John of Serravalle, 
+makes probably the best surmise: the voice is that of Camicione de' 
+Pazzi, a position that seems sensible, as we shall see as we move 
+through the scene, but has had no success among the commentators.
+
+	|22-24.~  Dante had been looking back up in the direction of Antaeus 
+and wondering at the height of the wall he now stood beneath.  The 
+voice calls on him to attend to his surroundings, as he now immediately 
+does, realizing that he is standing on a frozen lake.
+
+	|25-30.~  A double simile describes the thickness of the ice, greater 
+than even that found on the Danube or the Don, so thick that even had a 
+mountain (whether Tambura or Pania, in the Apuan Alps above Lucca) 
+fallen upon it, it would not have even creaked.
+
+	|31-36.~  A second simile reflects the protagonist's new awareness 
+that there are sinners in this ice, looking like frogs in summer (and 
+how they must wish for summer, these shades), with just their snouts 
+out of the water, and their teeth sounding like the clicking bills of 
+storks.
+
+	|37-39.~  This first group of sinners (we will learn eventually that 
+there are four, each in a somewhat different posture) has their heads 
+facing downwards.  Their mouths clatter with the cold, their eyes run 
+with tears (as we shall find out, that is a better condition than that 
+enjoyed by those lower down in the ninth Circle).  We are in 
+Ca,ina, named for Cain, the first murderer (of his brother Abel).
+
+	|40-45.~  Now Dante looks just before him and sees two who are bound 
+together tightly; he asks for their identities.
+
+	|46-51.~  These two (we will shortly learn that they are brothers) 
+lift up their heads to behold Dante, which action causes their tears to 
+spill over their faces and onto their lips (instead of onto the ice), 
+thus gluing them together still more firmly when their tears become 
+gelid.  Frozen into a parody of the Christian kiss of peace, they 
+respond by moving the only part of them they can, their foreheads, 
+which they use to butt one another in anger.  Once we hear who they 
+are, we will understand the reason for such hatred.
+
+	|54-69.~  The speaker is Camicione de' Pazzi.  Nothing much is known 
+of him except that he, from near Florence (the Val d'Arno) murdered his 
+relative Ubertino.  His is the only voice we hear in this first zone of 
+Cocytus, the prime reason to believe that it was he who spoke at vv. 
+19-21.  Having warned Dante to be careful as he began walking, lest he 
+kick the inseparate heads of the two brothers, he now identifies them 
+for Dante.  Alessandro and Napoleone degli Alberti, Counts of Mangona, 
+were also 'neighbors' of Dante's, living in the countryside near Prato. 
+ While little is known of them, they apparently killed one another in 
+the 1280s as the result of a dispute over their inheritance from their 
+father.
+	Also here, says Camicione, is Mordred (vv.61-62), who killed King 
+Arthur and was slain by him, as recounted in the Old French ^Morte 
+d'Arthur~.  The blow of Arthur's lance left a hole clear through 
+Mordred's body so that a ray of sunlight passed through it -- and thus 
+through his shadow as well.  And Focaccia is here (v. 63).  That was 
+the nickname (see John Ahern, "Apocalyptic Onomastics: Focaccia 
+[^Inferno~ XXXII, 63]," ^Romance Notes~ 23 [1982], pp. 181-84) of Vanni 
+dei Cancellieri of Pistoia, a White Guelph who was reputed to have 
+murdered various of his relatives by various commentators, most 
+probably at least his cousin Detto, a member of the Black Guelphs, ca. 
+1286.  Also present is Sassol Mascheroni (vv. 63-66), another 
+Florentine who murdered a relative in a quarrel over an inheritance.  
+After he identifies himself, Camicione says that his relative, Carlino, 
+will commit a still greater sin, betraying a White stronghold in the 
+Val d'Arno to Black forces for money -- a sin fit for the next zone, 
+Antenora, where political treachery is punished, thus making (in his 
+own eyes, at least) Camicione's sin seem less offensive.
+	Carlino's treachery and death took place only in 1302; therefore, 
+Camicione is using the power of the damned to see into the future, of 
+which we were told in ^Inferno~ X.100-108.  The staging of a future 
+damnation just here perhaps has consequence for Francesca's projected 
+damnation of her husband in 1304 to precisely this circle and zone: 
+Gianciotto is headed here, according to her (^Inf~. V.107; and see the 
+note to ^Inf~. V.107).  Since Dante uses this occasion precisely to 
+predict the later coming of a damned soul currently still alive, we may 
+be reminded of Francesca's similar prediction.  And we sense how easy 
+it would have been for Dante to have had Camicione, guilty of the same 
+sin as Gianciotto, tell of his future presence in Ca,ina, thus 
+'guaranteeing' Francesca's prediction.  And he, like Francesca in this, 
+tries to exculpate himself to some degree by insisting that the person 
+he refers to is more guilty than he is, and will be punished still 
+lower down in hell.
+
+	|70-72.~  We have crossed a border without knowing it.  The ice of 
+Cocytus is not marked, as were the Malebolge, with clear delineators 
+that separate one sin from another.  This difference may result from 
+Dante's sense of the essential commonality of all the sins that are 
+treacherous in nature, that are so utterly debased (they are referred 
+to as 'matta bestialitade' in ^Inf~. XI.82-83).
+	The four areas of Cocytus make concentric circles, each lower in the 
+ice than the last, as we move toward the center.  We understand that we 
+have reached a new zone only because the faces of the damned look 
+straight out at us (and are not bent down, as they were in Ca,ina). 
+ This zone is named after Antenor, the Trojan who, a grandson of Priam, 
+in the non-Virgilian versions of the story of the Trojan War, urged 
+that Helen be given back to Menelaus.  After Paris refused to give her 
+back, Antenor, in such sources as Dictys Cretensis, is responsible for 
+betraying the city to the Greeks.  He escaped from the city and founded 
+Padua (see ^Purg~. V.75).
+	The rare (unique?) picture we get here of Dante, having finished his 
+work on the ^Comedy~ for the day, walking a winter countryside, a 
+'civilian' again, is disconcerting and moving, especially when we 
+consider that he never had those days of 'being done,' perhaps only 
+barely finishing ^Paradiso~ before his death in September 1321.
+
+	|73-78.~  The protagonist's footwork has raised questions in many.  
+Did he kick Bocca on purpose?  The language is such that answering is 
+not easy.  Was the blow the result of will (his own) or fate (destiny, 
+as determined by God) or chance (mere accident, a thing of no 
+consequence to the Divine Mind)?  These three alternatives offer a 
+range of genuine and separate possibilities, which is not true for all 
+the hypotheses that one may consult in the commentary tradition.  As 
+Bosco/Reggio argue, that Dante kicks the head ^hard~ makes it difficult 
+to believe that his will was not involved (comm. to ^Inf~. 
+XXXII.76-112).
+
+	|79-81.~  The victim of Dante's kick, we will learn at v. 106, is 
+Bocca degli Abati.  Bocca's betrayal occurred on the battlefield at 
+Montaperti (1260) when he, a member of the Florentine Guelph army, cut 
+off the arm of the standard-bearer at the height of the battle.  The 
+ensuing disastrous defeat of the Guelphs at the hands of the 
+Ghibellines was sometimes laid at his door, as it is here by Dante.
+
+	|82-85.~  The protagonist thinks he knows that this might well be 
+Bocca, and gets Virgil's permission to question him.  We recall how 
+stern Virgil was in his rebuke of Dante for listening to the 'tenzone' 
+between Master Adam and Sinon in ^Inferno~ XXX.131-132.  Here he stands 
+complacently to one side as Dante gets involved in a fairly violent 
+'tenzone' himself.  But now, one might argue, he is actively engaged in 
+remonstrating with a wrong-doer and thus has Virgil's full support.
+
+	|87-112.~  This 'tenzone' is in five parts.  (1) Dante begins it with 
+a rebuke for Bocca's bad manners (a sinner in the depth of hell should 
+treat mortal special visitors better than he has done); Bocca answers 
+with continuing complaint.  (2) Dante offers fame -- for a price; Bocca 
+answers rudely.  (3) Dante moves to a threat of physical assault; Bocca 
+defies him.  (4) Dante begins pulling out Bocca's hair; Bocca 'barks,' 
+thus moving another sinner there present to name him (he is answering 
+in Bocca's place, as it were).  (5) Dante rejoices in his victory over 
+Bocca; Bocca remains sullen.
+	The Italian at v. 90 is, in itself, ambivalent.  Because of the 
+conjugation of the present subjunctive, 'se fossi vivo' can either mean 
+'were I alive' or 'were you alive.'  Since Bocca, like Camicione (if he 
+is the speaker of vv. 19-21), seems to be able to tell that Dante is in 
+the flesh, e.g., from the sound of his footfall on the ice, from the 
+force of his kick, it would make no sense for him to doubt Dante's 
+presence as a living being.  Further, Dante's response would seem to 
+follow better if Bocca's words are understood as meaning, 'were I 
+alive.'  Our translation runs accordingly.  (There are those who 
+dispute this reading.)
+	At vv. 103-105 Dante is playfully citing his own vengeful and 
+sexually-charged desire to pull the hair of the 'stony lady' in one of 
+his ^Rime petrose~, 'Cos@i nel mio parlar' (^Rime~ CIII.66-73).  
+For the most recent discussion see Emilio Pasquini ("Lettura di 
+^Inferno~ XXXII," ^L'Alighieri~ 13 [1999]), pp. 31-33, noting as well 
+various other resonances of the 'stony rhymes' in this canto.  See also 
+the study of Durling and Martinez (^Time and the Crystal: Studies in 
+Dante's "Rime petrose"~ [Berkeley: University of California Press, 
+1990]) for a wider view.
+
+	|113-123.~  Bocca's revenge for his 'betrayal' by Buoso da Duera is to 
+reveal the names of others in Antenora so that they may join him in 
+infamy as a result of Dante's eventual report to the living, the first 
+of these, naturally, being Buoso himself (vv. 114-117).  Buoso was a 
+Ghibelline (he is 'paired' with the Guelph Bocca) who, entrusted by 
+Manfred's high command to hold the high passes near Parma against the 
+invading army of Charles of Anjou in 1265, apparently accepted a bribe 
+in order to let the Guelph forces reach Parma without a fight.
+	Tesauro de' Beccheria (vv. 119-120), abbot of Vallombrosa, a 
+Ghibelline, was accused of treacherously assisting the Florentine 
+Ghibellines, banned from the city in 1258, to re-enter Florence.  He 
+was beheaded for betraying the city.
+	Gianni de' Soldanieri (v. 121), also a Ghibelline, joined the popular 
+uprising against the Ghibelline leaders of Florence just after the 
+defeat and death of the great Ghibelline leader, Manfred, at Benevento 
+in 1266.  He thus was seen as betraying his own party.
+	Ganelon (v. 122) treacherously betrayed Charlemagne's rear guard at 
+Roncesvalles in 778.  See the note to ^Inferno~ XXXI.16-18.
+	Tebaldello Zambrasi of Faenza (v. 122), also a Ghibelline, betrayed 
+his fellow Ghibellines of Bologna who, having been exiled, had taken 
+refuge in Faenza.  In 1280 Tebaldello opened a gate of his city, just 
+before dawn, to a war party of Bolognese Guelphs so that they might 
+avenge themselves upon their fellow citizens.  Tebaldello himself died 
+in 1282 in another battle.
+
+	|124-125.~  A sudden change in the protagonist's attention reveals the 
+pair of sinners whom we will shortly know as Uglolino and Ruggieri (vv. 
+13-14 of the next canto), the one with his head above the other's.
+
+	|127-132.~  Again Dante blends an unadorned 'ordinary' scene (a hungry 
+man wolfing down a load of bread) with classical material (a passage 
+from Statius, ^Theb~. VIII.751-762) in a double simile.  The moment in 
+Statius describes Tydeus, dying in battle, asking his men to cut off 
+for him the head of Melanippus, whom he had just slain, but who had 
+first given him his own mortal blow.  They do so (Capaneus [^Inf~. XIV] 
+is the one who carries the body to him).  With savage joy Tydeus, 
+dying, chews upon the head of the man who had killed him.
+
+	|133.~  For the 'bestial sign' as reflecting the words of St. Paul, 
+see Freccero's essay, 'Bestial Sign and Bread of Angels' (^Dante: The 
+Poetics of Conversion~, ed. Rachel Jacoff [Cambridge: Harvard 
+University Press, 1986]), p. 160: 'But if you bite one another, take 
+heed or you will be consumed by one another' (Galatians 5:15).  The 
+cannibalistic scene before us here introduces the concerns with 
+starvation that will be so prominent in the first half of the next 
+canto.
+
+	|135-139.~  Dante offers to present to the world this sinner's case 
+(so that it may judge whether or not his wrath is justified) if he will 
+but reveal his name and the offense committed by the other sinner.  
+Dante fulfills this promise in the following canto, and the world -- or 
+at least the Dantean part of it -- has been arguing about that case 
+ever since.
+	There is also a dispute over the exact meaning of the last line of 
+Dante's oath.  A number of understandings have been offered: 'as long 
+as I do not die first' (the choice of many of the early commentators); 
+'as long as my tongue does not fail me' (also popular among the early 
+commentators); 'if this cold [of Cocytus] does not wither it' (only 
+Torraca and Pietrobono; probably not worth serious consideration); 'if 
+my words do not die' (Grabher and Fallani); 'if it does not become 
+paralyzed' (Steiner and quite a few modern commentators).  It seems 
+clear that Dante, in this vernacular and salty oath, swears on his life 
+that he will carry out his promise.  Tozer, in 1901 (comm. to vv. 
+138-139), paraphrases adequately: 'If I live to recount it.'  Recently 
+Guglielmo Gorni has tried an entirely new tack: 'if my Florentine 
+vernacular survives' ("'Se quella con ch'io parlo non si secca' 
+[^Inferno~ XXXII 139]," in ^Operosa parva per Gianni Antonini~, ed D. 
+De Robertis & F. Gavazzeni [Verona: Valdonega, 1996], pp. 41-46), but 
+this seems more venturesome than necessary.
+	When we finish reading this canto we may reflect on the singular fact 
+that, for the first time since he entered the poem (^Inf~. I.67), 
+Virgil has not spoken in an entire canto.  See the note to ^Inferno~ 
+XXX.37-41.

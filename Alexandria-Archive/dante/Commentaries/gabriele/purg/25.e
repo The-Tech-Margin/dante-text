@@ -1,0 +1,268 @@
+	|1.~  ORA ERA: @e figura, agnominatio.  ONDE: per la qual.  STORPIO: 
+impedimento, ma il vero dire @e `stroppio', come disse il Petrarca nel 
+sonetto ^S'amor o morte non d@a qualche stroppio~.
+
+	|2-3.~  IL CERCHIO DI MERIGGE, di mezzogiorno, LASCIATO AL TAURO: era 
+adunque di due ore passato il mezzogiorno, essendo il sole nel 
+principio d'Ariete, e veniva ad esser vespero.  ALLO SCORPIO, che @e 
+l'opposito del Tauro.
+
+	|5.~  CHE CHE, quicquid.
+
+	|6.~  TRAFFIGGE, avendo detto ^stimolo~.
+
+	|7.~  CALLAGIA, idest, calle.
+
+	|9.~  DISPAIA: fa disparo.
+
+	|10.~  E QUAL IL CICOGNIN: bella comparatione da l'occhio a l'animo.
+
+	|11.~  NON S'ATTENTA, idest, non s'assicura.
+
+	|13.~  ACCESA, che risponde a quello ^leva l'ala~; E SPENTA, risponde 
+a quello ^e gi@u la cala~.
+
+	|17-18.~  L'ARCO, avendo detto ^scocca~, e dir@a ^che insino al ferro 
+hai tratto~.
+
+	|20.~  COME SI PU@O FAR MAGRO: propone Dante un dubbio, come l'ombre 
+di questi golosi si possano far magre, cum sit che non mangiano, n@e @e 
+mistier di mangiar per nutrir lo corpo qual non hanno.
+
+	|21.~  UOPO: bisogno.
+
+	|22-23.~  AMMENTASSI, idest, tornasse a mente.  COME MELEAGRO: molto a 
+proposito il nostro Poeta pone queste sue istorie, perch@e in Meleagro 
+non era niuna cagione perch@e si vedesse che per quella si consumasse, 
+e cos@i, che l'imagine nostra faccia quelli moti stessi che fa l'omo, 
+non si vede perch@e, n@e @e cagione che si veda: queste sono ragioni 
+poetiche e apparenti, far@a che Statio parler@a come filosofo.
+
+	|26.~  IMAGE, idest, imagine.
+
+	|27.~  \<VI\>ZO, idest, maturo, e dicelo avendo detto ^duro~.
+
+	|28.~  MA PERCH@E DENTRO A TUO VOLER T'ADAGGE: translate, acci@o che 
+nel tuo voler ti accommodi e rimanghi sodisfatto; ^adagge~ @e seconda 
+persona dello indicativo della prima congiugatione, che in ^i~ et ^e~ 
+parimente termina.
+	|30.~  PIAGE, dice, avendo detto ^sanator~.
+
+	|31.~  SE LA VENDETTA ETERNA, che @e la pena, cio@e la magrezza.
+
+	|32-33.~  L@A DOVE TU SIE, perch@e a te come maggior toccarebbe, 
+DISCOLPI ME NON POTERTI IO FAR NIEGO: bella e gentil scusa, et @e da 
+notare che in un dialogo cascherebbe molto bene; FAR NIEGO, idest, 
+negar.
+
+	|36.~  AL COME, ch'avea detto ^come si pu@o far magro~.  DIE, idest, 
+dici, e nota che qui ^die~ e di sopra, nella stessa rima c'ha fatto, 
+^sie~, ha fatto contro alle regole, perch@e solo i verbi della prima 
+congiugatione forman la lor persona seconda nel numero del meno ne 
+l'indicativo alcuna volta nella ^e~.
+
+	|37.~  SANGUE PERFETTO: comincia a repeter d'alto principio, e dir@a 
+come si faccia il sperma e, di quello come l'omo, da gran filosofo, e 
+mi rimetto in ci@o al Landino.
+
+	|38.~  ASSETATE, avendo detto ^beve~.
+
+	|39.~  LEVE, idest, tu ^leve~: @e seconda persona dell'indicativo del 
+numero del meno della prima congiugatione.
+
+	|40-42.~  PRENDE NEL CORE: il sangue adunque, che in sperma si 
+risolve, prende virt@u informativa dal core.  A TUTTE MEMBRA UMANE: @e 
+modo di dire, idest, a formar tutte le membra umane.  COME, idest, 
+tamquam.  CHE VANE, idest, che ne va, A FARSI QUELLE, cio@e membra.  
+^Membra~: questi nomi neutri, cos@i finienti in ^a~, fanno molto bella 
+l'oratione, e d@a numero e gravit@a non poca.  VENE VANE: figura, 
+agnominatio.
+
+	|43-45.~  OV'@E PI@U BELLO TACER CHE DIRE: bella prudentia: non vuol 
+dire <verga> o altro nome, per non disonestar le sue rime: cos@i avesse 
+fatto quando e' disse ^merda!~ SOVR'ALTRUI SANGUE, che @e quello della 
+donna, NATURAL VASELLO, cio@e la matrice.
+
+	|46.~  IVI S'ACCOGLIE L'UNO E L'ALTRO INSIEME.  Vuole adunque che di 
+necessit@a concorra il menstruo della donna col sangue de l'omo a 
+concepere, e cos@i conchiudeno tutti i medici, ma fa dubbioso il 
+concepere degli animali irrationali che non hanno menstro alcuno.
+
+	|47-48.~  L'UN DISPOSTO A PATIR, che @e quello della donna, e sar@a 
+come materia, E L'ALTRO A FARE, che @e quello de l'omo, quasi forma.  
+PER LO PERFETTO LUOCO, che @e il core, ONDE, idest, dal quale, SI 
+PREME, si cava fuori: perci@o @e disposto il sangue de l'omo a far per 
+la perfettione e virtute, come dissi di sopra, che tuo' dal core.
+
+	|49.~  E GIONTO LUI: @e ablativo in consequentia: idest, subito 
+ch'egli @e gionto.
+
+	|50-51.~  COAGULANDO PRIMA: va gradatim toccando il progresso della 
+formation de l'omo: si coagula prima, E POI RAVIVA, idest, fa vivo e 
+d@a vita, e questa @e vita vegetativa, come @e quella delle piante, 
+come dir@a, CI@O CHE PER SUA MATERIA F@E RESTARE, che fu quel menstruo 
+muliebre.
+
+	|52.~  VIRTUTE ATTIVA, che @e il sperma de l'omo.
+
+	|54.~  CHE QUESTA @E IN VIA: questa, di che se ha a far l'uomo, ^@e in 
+via~, idest, non @e perfetta, E QUELLA @E GI@A A RIVA, idest, @e 
+fornita e perfetta: l'anima vegetativa @e propria della pianta, con la 
+quale ella ha sua perfettione.
+
+	|55.~  CHE GI@A SI MOVE E SENTE: comincia a prender vita sensitiva, 
+che @e pi@u che la pianta, che non si muove o sente meno che l'animale 
+che ancor non ha tutti i sentimenti.
+
+	|56-57.~  FONGO MARINO: gli pescatori nostri lo chiamano `potta 
+marina', E IVI IMPRENDE, e di qui comincia, AD ORGANAR LE POSSE, che 
+sono i cinque sentimenti, ONDE: delle quali.
+
+	|58.~  OR SI PIEGA, etc.: questi effetti sono ^le posse~.
+
+	|59-60.~  LA VIRT@U CHE @E DAL COR DEL GENERANTE, che di sopra chiam@o 
+^virt@u attiva~ etc., DOVE, dal qual core, NATURA INTENDE, idest, ha 
+suo intendimento a tutte le membra.
+
+	|61.~  MA COME L'ANIMAL: fin qui ora questa fattura, avendo l'anima 
+vegetativa e la sensitiva, era solo come animale irrationale.  FANTE, 
+idest, omo, perch@e si dice ^fante~ nella specie de l'omo solamente.
+
+	|63.~  CHE PI@U SAVIO DI TE: questi fu Averois.
+
+	|65.~  DA L'ANIMA: questa @e quella anima c'ha virt@u vegetativa e 
+sensitiva, ch'@e l'anima mortal.  POSSIBILE INTELLETTO: @e il proprio 
+dell'intelletto che ha virt@u agente e patiente in s@e: ha l'agente 
+perch@e intende, ha la paciente perch@e intende in s@e.
+
+	|66.~  PERCH@E DA LUI, cio@e intelletto, NON VIDE, Averois, ORGANO, 
+instrumento per lo quale si manifestasse e nel quale giacesse, SUNTO, 
+preso.  Dicea Averois: <vedo ne l'omo esser vegetatione, perch@e giace 
+ne l'organo de' membri che crescono; vedo il senso che giace nei suoi 
+organi che sono gli occhi, il naso, gli orecchi, la bocca etc.>, ma non 
+vedea organo da lo intelletto.
+
+	|69.~  L'ARTICOLAR, idest, il formar; CEREBRO: il cervel.
+
+	|70-72.~  LO MOTOR PRIMO, Dio, SOVRA, idest, si ^volge~, TANT'ARTE DI 
+NATURA, che @e quel ^feto~.  SPIRITO, avendo detto ^spira~, NOVO DI 
+VIRT@U REPLETO: questo ^spirito novo~, pien di virt@u, spirato nel 
+cerebro umano, vuole che sia l'intelletto, cio@e l'animo, che anima 
+immortale chiamiamo, da' platonici <ignis caelestis> chiamato.
+
+	|73-75.~  ATTIVO, che @e quella sperma de l'omo che ha virt@u attiva, 
+QUIVI, al cerebro, IN SUA SUSTANTIA, dice, perch@e si fa una sola 
+sustantia l'anima vegetativa con la sensitiva e questa rationale, e 
+fassi una sola anima con tre potentie, CHE VIVE, in quanto alla virt@u 
+vegetativa, E SENTE, in quanto alla sensitiva, E S@E IN S@E RIGIRA, che 
+@e proprio de l'anima rationale.  @E in questo quel grandissimo 
+argomento della immortalit@a dell'anima, che abbia il moto in s@e e da 
+s@e: l'occhio vede ma non vede veder, e cos@i gli altri sensi, ma lo 
+intelletto intende e intende in s@e e per s@e, onde Cicerone nel ^Sonno 
+di Scipione~ dice de l'uomo: <Deum te igitur scito esse, si quidem est 
+deus qui viget, qui sentit, qui meminit, qui providet, qui tam cogit et 
+moderatur et movet id corpus> etc.; e poco pi@u di sotto: <animus 
+sempiternus movet.  Nam quod semper movetur, aeternum est; quod autem 
+motum affert alicui quodque ipsum agitatur aliunde, quando finem habet 
+motus, vivendi finem habere necesse est.  Solum igitur, quod sese 
+movet, quia numquam deseritur a se, numquam nequidem moveri desinit> 
+etc.  Perci@o Dante disse ^e fassi un'alma sola che vive e sente e s@e 
+in s@e rigira~: vedi Macrobio sovra quel luoco di Cicerone.
+
+	|77.~  \<GUARDA\> 'L CALOR DEL SOLE etc.: come il sol comincia 
+appressar di qua da l'equinottial, perch@e comincia a riscaldar, tira 
+virt@u dalla terra per la radice della vite, onde essa vite comincia a 
+colar umore; ma, fatto pi@u possente, il calor del sole informa 
+quell'umor de la virt@u sua calida a generarsi in liquor che si fa il 
+vino.
+
+	|79-81.~  E QUANDO LACHESIS, idest, quando l'uomo more, SOLVESI 
+quest'anima, E L'UMANO, che @e la virt@u vegetativa e la sensitiva, E 
+'L DIVINO, le potentie dello intelletto, che son queste che dice di 
+sotto, ^memoria~, etc.
+
+	|82-84.~  L'ALTRE POTENTIE etc.: il suo verbo s'intender@a <sono>, CHE 
+PRIMA ACUTE, cio@e <sono>: e non senza ragione sono pi@u acute, perch@e 
+dai membri mortali erano impedite, IN ATTO dice, perch@e in potentia 
+non son pi@u.
+
+	|86.~  A L'UNA DE LE RIVE: o a quella d'Acheronte, se @e dannato a lo 
+'nferno, o ad Ostia, se vuole purgarsi.
+
+	|87.~  QUIVI: da la morte.
+
+	|88-89.~  TOSTO CHE LUOGO L@A LA CIRCUMSCRIVE, idest, tosto che @e 
+tenuta da quel luoco ove casca, LA VIRT@U FORMATIVA, quella natura che 
+ha detto con quelle tre potentie, RAGGIA, illumina e splende intorno.
+
+	|91.~  PIORNO, idest, sereno, che i latini <sudus> chiamano.
+
+	|94.~  QUIVI SI METTE, e si fa quasi corpo aereo di quella anima.
+
+	|97-98.~  A LA FIAMMELLA CHE SEGUE IL FUOCO: quella vampa che vedemo 
+della candela @e aere acceso che egli qui chiama ^fiammella~; fuoco @e 
+quello che sta nel papiero.
+
+	|99.~  SUA FORMA NOVELLA, che @e quel corpo aereo tratto a s@e da 
+l'anima, come il fuoco trae la fiamma e, dovunque va, e l'uno e l'altro 
+@e seguitato.
+
+	|101-102.~  Ha chiamato OMBRA questa ^forma novella~: con quella 
+virt@u ORGANA, forma, CIASCUN SENTIRE, ciascun sentimento, INFIN A LA 
+VEDUTA: quasi dica, organa tutti i sentimenti organando infin alla 
+veduta, che @e il pi@u eccellente.
+
+	|103.~  QUINDI: l'ha ripigliato tre volte secondo l'arte, ch@e due 
+saria vitioso.
+
+	|106.~  SECONDO CHE S'AFFIGON, idest, che si pontano e premeno, e ora 
+vien Statio a risponder alla question di Dante, perch@e quell'ombre 
+sien magre.  DESIRI: qui prese cos@i in cattiva come in buona parte per 
+le perturbationi de l'animo.
+
+	|109-110.~  E GI@A VENUTO S'ERA PER NOI: modo di dire, gi@a eravan 
+venuti.
+
+	|113-114.~  FIATO, idest, vento, CHE LA RIFLETTE: venia vento dal di 
+fuori che pingeva la fiamma in dentro e faceva strada al passar oltra; 
+SEQUESTRA: sepera.
+
+	|115.~  SCHIUSO, idest, aperto, ch@e era da l'@oro de la ripa, e lo 
+^s~ ha potentia qui di negativa, che fa che <schiuso> sia il contrario 
+di <chiuso>.
+
+	|116-117.~  E TEMEA IL FOCO QUINCI, che era dalla banda di dentro, E 
+QUINDI TEMEA IL CADER GIUSO, che era dalla banda destra di fuori.
+
+	|118-119.~  PER ESTO LUOCO SI VUOL TENER AGLI OCCHI IL FRENO STRETTO. 
+La lussuria ha origine dagli occhi, onde il Petrarca:
+
+^	Occhi piangete; accompagnate il core~
+^	che del vostro fallir morte sostiene,~
+
+e Propertio: <Si nescis, oculi sunt in amore duces>.
+
+	|120.~  PER POCO, idest, facilmente.
+
+	|121.~  SUMMAE DEUS CLEMENTIAE: non senza grandissima cagione pose qui 
+questo inno, parlandosi di lussoriosi che si puniscono in fuoco, 
+perch@e la chiesa il canta contra lussuria, perch@e dice: <Lumbos 
+\<iecur\>que morbidum adure igne congruo accincti ut sint perpetui luxu 
+remoto pessimo>: @e l'inno della Feria VI, ad laudes.
+
+	|123.~  CHE NON MENO CALER: non minor voglia, che si fusse il grande 
+ardore.
+
+	|126.~  A QUANDO A QUANDO: a parte a parte, cio@e, quando guardando ai 
+lor passi, e quando ai miei.
+
+	|128.~  VIRUM NON COGNOSCO: questi sono gli essempi di continenza per 
+rimover dalla lussuria, et @e di Maria Virgine.
+
+	|130.~  AL BOSCO CORSE DIANA: questo @e essempio d'istoria di gentili.
+
+	|132.~  DI VENERE IL TOSCO, et @e veramente tosco!
+
+	|139.~  CHE LA PIAGA DA SEZZO: il Poeta volse ben alluder al luogo per 
+il quale si commette questo peccato, ma ^la piaga da sezzo~, idest, 
+ultima, chiama perch@e colui @e l'ultimo de' peccati mortali.

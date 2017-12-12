@@ -1,0 +1,289 @@
+|PARADISO CANTO 14~
+
+	|1.~  The ascent to the planet Mars, where are seen the
+spirits of Martyrs, and Crusaders who died fighting for the
+Faith.
+
+	|2.~  In this similitude Dante describes the effect of the
+alternate voices of St. Thomas Aquinas in the circumference of
+the circle, and of Beatrice in the centre.
+
+	|6.~  Life is here used, as before, in the sense of
+spirit.
+
+	|28.~  Chaucer, ^Troil. and Cres.~, the last stanza: --
+
+     "Thou One, and Two, and Thre! eterne on live,
+     That raignest aie in Thre, and Two, and One,
+     Uncircumscript, and all maist circumscrive!"
+
+Also Milton, ^Par. Lost~, III. 372: --
+
+       "Thee, Father, first they sung, Omnipotent,
+     Immutable, Immortal, Infinite,
+     Eternal King; thee, Author of all being,
+     Fountain of light, thyself invisible
+     Amidst the glorious brightness where thou sitt'st
+     Throned inaccessible; but when thou shadest
+     The full blaze of thy beams, and through a cloud
+     Drawn round about thee like a radiant shrine,
+     Dark with excessive bright thy skirts appear,
+     Yet dazzle heaven; that brightest seraphim
+     Approach not, but with both wings veil their eyes.
+     Thee next they sang of all creation first,
+     Begotten Son, Divine Similitude,
+     In whose conspicuous countenance, without cloud
+     Made visible, the Almighty Father shines,
+     Whom else no creature can behold: on thee
+     Impressed the effulgence of his glory abides;
+     Transfused on thee his ample Spirit rests."
+
+	|35.~  The voice of Solomon.
+
+	|73.~  According to Buti, "Spirits newly arrived"; or
+Angels, such being the interpretation given by the Schoolmen to
+the word Subsistences.  See Canto XIII.  Note 58.
+
+	|86.~  The planet Mars.  Of this planet Brunetto Latini,
+^Tresor~, I. iii. 3, says: "Mars is hot and warlike and evil, and
+is called the God of Battles."
+
+	Of its symbolism Dante, ^Convito~, II. 14, says: "The
+Heaven of Mars may be compared to Music, for two properties.  The
+first is its very beautiful relation [to the others]; for,
+enumerating the movable heavens, from whichsoever
+you begin, whether from the lowest or the highest, the Heaven of
+Mars is the fifth; it is the centre of all.....The other is, that
+Mars dries up and burns things, because its heat is like to that
+of the fire; and this is the reason why it appears fiery in
+color, sometimes more, and sometimes less, according to the
+density and rarity of the vapors which follow it, which sometimes
+take fire of themselves, as is declared in the first book of
+^Meteors.~  (And therefore Albumasar says, that the ignition of
+these vapors signifies death of kings, and change of empires,
+being effects of the dominion of Mars.  And accordingly Seneca
+says that at the death of the Emperor Augustus a ball of fire was
+seen in the heavens.  And in Florence, at the beginning of its
+downfall, a great quantity of these vapors, which follow Mars,
+were seen in the air in the form of a cross.)  And these two
+properties are in Music, which is wholly relative, as may be seen
+in harmonized words, and in songs, in which the more beautiful
+the relation, the sweeter the harmony, since such is chiefly its
+intent.  Also Music attracts to itself the spirits of men, which
+are principally as it were vapors of the heart, so that they
+almost cease from any operation; so entire is the soul when it
+listens, and the power of all as it were runs to the sensible
+spirit that hears the sounds."
+
+	Of the influences of Mars, Buti, as usual following
+Albumasar, writes: "Its nature is hot, igneous, dry, choleric, of
+a bitter savor, and it signifies youth, strength, and acuteness
+of mind; heats, fires, and burnings, and every sudden event;
+powerful kings, consuls, dukes, and knights, and companies of
+soldiery; desire of praise and memory of one's name; strategies
+and instruments of battle; robberies and machinations, and
+scattering of relations by plunderings and highway robberies;
+boldness and anger; the unlawful for the lawful; torments and
+imprisonments; scourges and bonds; anguish, flight, thefts,
+pilfering of servants, fears, contentions, insults, acuteness of
+mind, impiety, inconstancy, want of foresight, celerity and
+anticipation in things, evil eloquence and ferocity of speech,
+foulness of words, incontinence of tongue, demonstrations of
+love, gay apparel, insolence and falseness of words, swiftness of
+reply and sudden penitence therefore, want of religion,
+unfaithfulness to promises, multitude of lies and whisperings,
+deceits and perjuries; machinations and evil deeds; want of
+means; waste of means; multitude of thoughts about things;
+instability and change of opinion in things, from one to another;
+haste to return; want of shame; multitude of toils and cares;
+peregrinations, solitary existence, bad company;....breaking open
+of tombs, and spoliations of the dead."
+
+	|87.~  Buti interprets this, as redder than the Sun, to
+whose light Dante had become accustomed, and continues:
+"Literally, it is true that the splendor of Mars is more fiery
+than that of the Sun, because it is red, and the Sun is
+yellow; but allegorically we are to understand, that a greater
+ardor of love, that is, more burning, is in those who fight and
+conquer the three enemies mentioned above [the world, the flesh,
+and the devil], than in those who exercise themselves with the
+Scriptures."
+
+	|88.~  The silent language of the heart.
+
+	|96.~  In Hebrew, ^El, Eli~, God, from which the Greeks
+made Helios, the Sun.  As in St. Hildebert's hymn ^Ad Patrem~: --
+
+     "Alpha et Omega, magne Deus,
+     Heli, Heli, Deus meus."
+
+	|99.~  Dante, ^Convito~, II. 15, says: "It must be known
+that philosophers have different opinions concerning this Galaxy.
+For the Pythagoreans said that the Sun once wandered out of his
+way, and passing through other regions not adapted to his heat,
+he burned the place through which he passed, and traces of the
+burning remained.  I think they took this from the fable of
+Phaeton, which Ovid narrates in the beginning of the second book
+of the Metamorphoses.  Others, and among them Anaxagoras and
+Democritus, that it was the light of the Sun reflected in that
+part.  And these opinions they prove by demonstrative reasons.
+What Aristotle says of this we cannot well know; for his opinion
+is not the same in one translation as in the other.  And I think
+this was an error of the translators; for in the new one he
+appears to say, that it was a gathering of vapors under the stars
+of that region, for they always attract them; and this does not
+appear to be the true reason.  In the old, it says, that the
+Galaxy is only a multitude of fixed stars in that region, so
+small that they cannot be distinguished here below; but from them
+is apparent that whiteness which we call the Galaxy.  And it may
+be that the heaven in that part is more dense, and therefore
+retains and reflects that light; and this opinion seems to have
+been entertained by Aristotle, Avicenna, and Ptolemy."
+
+	Milton, ^Par. Lost~, VII. 577: --
+
+     "A broad and ample road, whose dust is gold,
+     And pavement stars, as stars to thee appear,
+     Seen in the Galaxy, that Milky Way,
+     Which nightly, as a circling zone, thou seest
+     Powdered with stars."
+
+	|101.~  The sign of the cross, drawn upon the planet Mars,
+as upon the breast of a crusader.  The following Legend of the
+Cross, and its significance, is from Didron, ^Christian
+Iconography~, Millington's Tr., I. 367: --
+
+     "The cross is more than a mere figure of Christ; it is in
+     Iconography either Christ himself or his symbol.  A legend has,
+     consequently, been invented, giving the history of the cross, as
+     if it had been a living being.  It has been made the theme and
+     hero of an epic poem, the germ of which may be discovered in books
+     of apocryphal tradition.  This story is given at length in the
+     Golden Legend, ^Legenda Aurea~, and is detailed and completed in
+     works of painting and sculpture from the fourteenth century down
+     to the sixteenth.  ....After the death of Adam, Seth planted on
+     the tomb of his father a shoot from the Tree of Life, which grew
+     in the terrestrial Paradise.  From it sprang three little trees,
+     united by one single trunk.  Moses thence gathered the rod with
+     which he by his miracles astonished the people of Egypt, and the
+     inhabitants of the desert.  Solomon desired to convert that same
+     tree, which had become gigantic in size, into a column for his
+     palace; being either too short or too long, it was rejected, and
+     served as a bridge over a torrent.  The Queen of Sheba refused to
+     pass over on that tree, declaring that it would one day occasion
+     the destruction of the Jews.  Solomon commanded that the
+     predestined beam should be thrown into the probationary pool (Pool
+     of Bethesda), and its virtues were immediately communicated to the
+     waters.  When Christ had been condemned to suffer the death of a
+     malefactor, his cross was made of the wood of that very tree.  It
+     was buried on Golgotha, and afterwards discovered by St. Helena.
+     It was carried into captivity by Chosroes, king of Persia,
+     delivered, and brought back in triumph to Jerusalem, by the
+     Emperor Heraclius.  Being afterwards dispersed in a multitude of
+     fragments throughout the Christian universe, countless miracles
+     were performed by it; it restored the dead to life, and gave sight
+     to the blind, cured the paralytic, cleansed lepers, put demons to
+     flight, and dispelled various maladies with which whole nations
+     were afflicted, extinguished conflagrations, and calmed the fury
+     of the raging waves.
+
+     "The wood of the cross was born with the world, in the terrestrial
+     paradise; it will reappear in heaven at the end of time, borne in
+     the arms of Christ or of his angels, when the Lord descends to
+     judge the world at the last day.
+
+     "After reading this history, some conception may be formed of the
+     important place held by the cross in Christian Iconography.  The
+     cross, as has been said, is not merely the instrument of the
+     punishment of Jesus Christ, but is also the figure and symbol of
+     the Saviour.  Jesus, to an Iconologist, is present in the cross as
+     well as in the lamb, or in the lion.  Chosroes flattered himself
+     that, in possessing the cross, he possessed the Son of God, and he
+     had it enthroned on his right hand, just as the Son is enthroned
+     by God the Father.  So also the earliest Christian artists, when
+     making a representation of the Trinity, placed a cross beside the
+     Father and the Holy Spirit; a cross only, without our crucified
+     Lord.  The cross did not only recall Christ to mind, but actually
+     showed him.  In Christian Iconography, Christ is actually present
+     under the form and semblance of the cross.
+
+     "The cross is our crucified Lord in person. Where the cross is,
+     there is the martyr, says St. Paulinus.  Consequently it works
+     miracles, as does Jesus himself: and the list of wonders operated
+     by its power is in truth immense.....
+
+     "The world is in the form of a cross; for the east shines above
+     our heads, the north is on the right, the south at the
+     left, and the west stretches out beneath our feet.  Birds, that
+     they may rise in air, extend their wings in the form of a cross;
+     men, when praying, or when beating aside the water while swimming,
+     assume the form of a cross.  Man differs from the inferior
+     animals, in his power of standing erect, and extending his arms.
+
+     "A vessel, to fly upon the seas, displays her yard-arms
+     in the form of a cross, and cannot cut the waves, unless her mast
+     stands cross-like, erect in air; finally, the ground cannot be
+     tilled without the sacred sign, and the ^tau~, the cruciform
+     letter, is the letter of salvation.
+
+     "The cross, it is thus seen, has been the object of a worship and
+     adoration resembling, if not equal to, that offered to Christ.
+     That sacred tree is adored almost as if it were equal with God
+     himself; a number of churches have been dedicated to it under the
+     name of the Holy Cross.  In addition to this, most of our
+     churches, the greatest as well as the smallest, cathedrals as well
+     as chapels, present in their ground plan the form of a cross."
+
+	|104.~  Chaucer, ^Lament of Marie Magdaleine~, 204: --
+
+         "I, loking up unto that rufull rode,
+     Sawe first the visage pale of that figure;
+     But so pitous a sight spotted with blode
+     Sawe never, yet, no living creature;
+     So it exceded the boundes of mesure,
+     That mannes minde with al his wittes five
+     Is nothing able that paine to discrive."
+
+	|109.~  From arm to arm of the cross, and from top to
+bottom.
+
+	|112.~  Mr. Cary here quotes Chaucer, ^Wif of Bath's
+Tale~, 6450: --
+
+     "As thikke as motes in the sonnebeme."
+
+And Milton, ^Penseroso~, 8: --
+
+                "As thick and numberless
+     As the gay motes that people the sunbeam."
+
+To these Mr. Wright adds the following from Lucretius, II. 113,
+which in Good's Tr. runs as follows: --
+
+     "Not unresembling, if aright I deem,
+     Those motes minute, that, when the obtrusive sun
+     Peeps through some crevice in the shuttered shade
+     The day-dark hall illuming, float amain
+     In his bright beam, and wage eternal war."
+
+	|125.~  Words from a hymn in praise of Christ, say the
+commentators, but they do not say from what hymn.
+
+	|133.~  The living seals are the celestial spheres, which
+impress themselves on all beneath them, and increase in power as
+they are higher.
+
+	|135.~  That is, to the eyes of Beatrice, whose beauty he
+may seem to postpone, or regard as inferior to the splendors that
+surround him.  He excuses himself by saying that he does not
+speak of them, well knowing that they have grown more beautiful
+in ascending.  He describes them in line 33 of the next canto: --
+
+     "For in her eyes was burning such a smile
+        That with mine own methought I touched the bottom
+        Both of my grace and of my Paradise!"
+
+	|139.~  Sincere in the sense of pure; as in Dryden's line,
+--
+
+     "A joy which never was sincere till now."

@@ -1,0 +1,726 @@
+	|3.~  Virgil's brief admonition will be his only utterance in this
+canto, which, like the twenty-fourth, is heavily involved in questions
+regarding vernacular poetry, thus necessarily marginalizing Virgil's
+presence.
+
+	|4-6.~  Dante, according to the calculations of Trucchi (comm. to vv.
+1-6), having begun his climb of the mountain at due east at the
+antipodes, has now reached a point some 25+o~ short of due west.  As
+for the time, it has apparently taken a bit more than two hours to
+climb between the two terraces (see the note to ^Purg.~ XXV.1-3).
+
+	|7-9.~  A shadow cast upon flames does indeed make them glow a darker
+color.  (See Richard Abrams ["Illicit Pleasures: Dante among the
+Sensualists [^Purgatorio~ XXVI]," ^Modern Language Notes~ 100 [1985],
+pp. 1-41] for a consideration of this image as emblematic of the themes
+of this canto.)  Once again Dante's presence in the body serves as a
+provocation to a group of penitents.  Our translation takes into
+account and follows the argument of Picone ("Canto XXVI," in ^Lectura
+Dantis Turicensis: Purgatorio~, ed. Georges G,untert and Michelangelo
+Picone [Florence: Cesati, 2001]), pp. 407-8, based in the earlier
+observation of Mario Marti ("Il XXVI del ^Purgatorio~ come omaggio
+d'arte: Guinizzelli e Daniello nel cammino poetico di Dante," in his
+^Studi su Dante~ [Galatina: Congedo, 1984 (1978)]), p. 156, that the
+'sign' created by Dante's shadow is not presented as a minor one, but
+as something quite extraordinary, as the notice it receives from many
+of the penitents, even while they are intent on their purgation, would
+indicate.  And thus the adverb ^pur~ (which can have the very different
+meanings of 'only' or of 'indeed') here does not take away from the
+importance of the sign but stresses it, i.e., does not mean 'only,' as
+many commentators believe (but see, among others, Lombardi [comm. to
+the verses], who reads ^pur~ as having that second and intensifying
+sense, as do Marti and Picone).  Among modern commentators who deal
+closely with these lines, only Chimenz, Giacalone, and Bosco/Reggio
+support this reading.  Chimenz, for example, argues that the excited
+reaction of the penitents (comm. to vv. 16-24) does not seem a response
+to a 'small' stimulus.
+
+	|12.~  At ^Inferno~ VI.36 the poet speaks of the shades of the
+gluttons as 'lor vanit@a che par persona' (their emptiness, which
+seems real bodies).  Here the penitents remark at Dante's condition;
+his body does not seem to be, like theirs, 'fictitious,' airy (about
+which state we have just heard Statius's lengthy disquisition).
+
+	|15.~  Their impulse, reversing Dante's, is ^not~ to leave the searing
+flames.  Again we sense the eagerness of penitents to undergo their
+purgation.  See the remark of Forese Donati, 'I speak of pain but
+should say solace' (^Purg.~ XXIII.72).
+
+	|16-20.~  The speaker is Guido Guinizzelli (see the note to ^Purg.~
+XXVI.92), the previous Italian poet to whom, we will learn, Dante now
+feels the greatest allegiance.  While Guido may or may not be correct
+in thinking Dante is following the two other souls out of reverence
+rather than from lack of zeal (or fear of the flames that he must
+enter), what he cannot know (and never discovers) is that these are the
+great shades of Virgil and Statius.  We, however, do know that and
+realize that this scene is the last in a series that began in the
+cantos devoted to Statius (^Purg.~ XX-XXII), a program devoted to an
+exploration of the nature of Dante's poetics in relation to those of
+other poets: Statius, Bonagiunta (who throws in Giacomo da Lentini and
+Guittone d'Arezzo for good measure), and, in this canto, Guinizzelli
+(adding Giraut de Bornelh and poor Guittone again) and Arnaut Daniel.
+No other part of the poem is as extensively or as richly concerned with
+the purposes of poetry.
+
+	There is some debate among the commentators about the metaphoric or
+literal nature of the thirst to which Guido refers: 'answer me, since I
+burn with thirst and fire' (verse 18).  While hunger and thirst were
+the natural penalties undergone by the penitent gluttons, there is no
+such ^contrapasso~ here.  Further, Guido's description of his
+co-sufferers' 'thirst' (^Purg.~ XXVI.20-21) is surely metaphoric, thus
+suggesting that this first mention of thirst is also.  For this view,
+among others, see Lino Pertile ("^Purgatorio~ XXVI," in ^Dante's
+"Divine Comedy," Introductory Readings II: "Purgatorio,"~ ed. Tibor
+Wlassics [^Lectura Dantis (virginiana)~, 12, supplement,
+Charlottesville: University of Virginia, 1993]), p. 381.  On the other
+hand, the fire of which he speaks is literal enough, as Dante will find
+out in the next canto (^Purg.~ XXVII.49-51), and his aerial body surely
+allows him to feel such sensations.
+
+	|17.~ Benvenuto's gloss (comm. to vv. 16-18) to this verse is amusing.
+After identifying 'the others' as Virgil and Statius, he comments on
+the phrase ^non per esser pi@u tardo~ (which he apparently took to
+mean, 'not for having come later than they') as follows: 'as though he
+were saying, "not because you are a modern poet and they ancient," for
+the passage of time does not make poems improve as it indeed does
+improve wines.'
+
+	|31-36.~  This remarkable simile, a rare medieval manifestation of a
+moment of fraternal affection between heterosexuals and homosexuals, is
+striking.  The passage probably reflects Paul's admonition in Romans
+16:16: 'Greet one another with a holy kiss,' as was suggested by
+Scartazzini (comm. to verse 32).  For the ants, see Virgil's memorable
+simile in ^Aeneid~ IV.402-407.  Aeneas's men, preparing their ships for
+departure from Carthage, are described as follows: 'Just so do ants,
+when winter's on their mind, pillage great stores of grain and fill
+their houses to the beams.  Over the fields moves a black column,
+carrying their spoil through the grass along their narrow path; some
+heave the huge seeds upon their shoulders, some shape up the columns,
+rebuking their delay.  All the path fairly shines with labor.'
+
+	|40.~  Those who have argued that the sin punished in ^Inferno~ XV and
+XVI is not homosexuality (see ^Inf.~ XV.13-21) are hard pressed to
+account for the obvious reference of the word 'Sodom' repeated here,
+used first in ^Inferno~ XI.50 to refer to the sinners on the barren
+sands of homosexuality.  The early commentators have no doubt
+whatsoever about all this.  See, for example, John of Serravalle (comm.
+to vv. 37-42): 'And from this city, Sodom, the sin against nature took
+its name, just as simony did from Simon [Magus].'  Each group cries out
+the appropriate exemplar(s) of its sin, the first the homosexuals,
+calling out the names of these two 'cities of the plain' (see Genesis
+19:1-28), the ^locus classicus~ for homosexual lust, where the men of
+Sodom ask Lot to give them for their sexual pleasure the two angels who
+have come to Lot and whom they take for men (Genesis 19:4-11).
+
+	What has long been problematic is the fact that, in Inferno, we find
+the heterosexual lustful punished in the realm of Incontinence, while
+those guilty of homoerotic behavior are in that of Violence (against
+nature, in their case).  That these two groups are now purging
+themselves on the same terrace may be the result of the changed ground
+rules for the sins of the two ^cantiche~ more than of any supposed
+change of heart on Dante's part, that is, Dante no longer has the
+option of fitting these two different bands onto an
+Aristotelian/Ciceronian grid, but must associate them with one of the
+seven capital vices, which leaves him little choice.  Nonetheless, no
+matter what his intentions, the effect is to make the reader feel that
+the poet has now softened his views.  The notion of Pertile
+("^Purgatorio~ XXVI," in ^Dante's "Divine Comedy," Introductory
+Readings II: "Purgatorio,"~ ed. Tibor Wlassics [^Lectura Dantis
+(virginiana)~, 12, supplement, Charlottesville: University of Virginia,
+1993]), p. 388, that the impulse to love is the same in hetero- and
+homosexuals and that, since in purgatory only the impulse (or
+predisposition) toward sin is purged, there is no longer any need to
+distinguish between them is interesting but difficult to accept.  In
+^Inferno~ homosexuality is treated as a sin of hardened will, and one
+would be hard pressed to show that this does not make the 'impulse'
+that drives it different from that behind the sins of Incontinence.
+
+	|41-42.~  The heterosexuals call out the name of Pasipha,e (see ^Inf.~
+XII.12-13 and note), the wife of Minos, king of Crete, who had Deadalus
+build for her a wooden frame covered with a cowhide so that she could
+be mounted by a bull.  The child of this union was the Minotaur.
+Pasipha,e here is clearly meant to represent the animalistic nature of
+unrestrained lust, not some sort of sodomy.
+
+	|43-48.~  The hypothetical nature of this simile is underlined by
+Dante's use of the subjunctive mood for its main verb (^volasser~).
+Cranes do not and would not migrate simultaneously in two different
+directions, north to the Riphaean mountains and also south to the sands
+of the (Libyan?) desert.  Dante has developed the passage on the model,
+perhaps, of some of Lucan's similes concerning cranes (see the note to
+^Purg.~ XXIV.64-74), but the resemblance does not seem more than
+casual, if the closest would seem to be that found at ^Pharsalia~
+VII.832-834.  For a meditation upon Dante's cranes here and in
+^Inferno~ V.46-49 and ^Purgatorio~ XXIV.64-69 see Guglielmo Gorni
+("'Gru' di Dante: Lettura di ^Purgatorio~ XXVI," ^Rassegna europea di
+letteratura italiana~ 3 [1994]), pp. 23-30.
+
+	The 'former song' of the penitents is the hymn ^Summae Deus
+clementiae~ punctuated by the words of Mary at the Annunciation and
+those regarding Diana's chaste anger at Callisto (^Purg.~ XXV.121-132).
+Each sub-group also then sends up 'the cry that most befits' it, that
+is, either 'Sodom and Gomorrah' or 'Pasipha,e.'
+
+	|55-66.~  Dante at last responds to the request of the penitents, if
+only to some degree, since he does not fully identify himself, in
+keeping with his avoidance of doing so on other terraces.
+He tells them what they suspected (he is here in
+the flesh, not in the aerial body), and that Beatrice (not named, and
+decidedly not the sort of woman penitents here 'do time' for) draws him
+heavenward.  Thus he admits to his miraculous presence among them, but
+gives no information that might genuinely satisfy their curiosity.  In
+return for relatively little he asks to know the identity of those with
+whom he speaks and the condition of the group that has moved away from
+them.
+
+	His evasive behavior here allows him to avoid naming himself uselessly
+to those who do not know him (see his similar avoidance with Sapia
+[^Purg.~ XIII.133-138], Guido del Duca [^Purg.~ XIV.20-21], and Marco
+the Lombard [^Purg.~ XVI.37-42]).  Those who recognize Dante in
+purgatory are as follows: Casella (^Purg.~ II.76-78), Belacqua
+(recognized by Dante at ^Purg.~ IV.109-123; it would seem that he knows
+Dante but does not, in his laconic, sardonic way, reveal that he does);
+Nino Visconti (^Purg.~ VIII.46-57); Oderisi (^Purg.~ XI.76); Forese
+(^Purg.~ XXIII.40-42); and Bonagiunta (^Purg.~ XXIV.35-36).
+
+	|64-65.~  See Benvenuto's (comm. to vv. 61-66) paraphrase: 'as though
+to say, so that I may write of you souls and give your true reputation,
+in case there should remain in the world infamous word of your lust.'
+Dante's way of promising to record the penitents' presence on the road
+to salvation (we must remember that his charitable offer is made
+without knowing the identity of any of the souls whom he here
+addresses) so that it may draw prayers from the living and thus hasten
+their passage to bliss will be enlarged in Guido's final request of
+Dante (^Purg.~ XXVI.130-132), where he hopes for prayers of
+intercession on his behalf in Heaven itself.
+
+	The language here reflects the mode of preparing a manuscript for
+inscription, the pencilling in of guidelines that can be erased once
+ink is set to vellum or paper.  Dante imagines, from the vantage point
+of his progress through the second kingdom of the afterworld, the
+preparation, by his own hand, of the manuscript of the ^Comedy~ once he
+is back in the world.  Here the preparation of the page equates with
+its completion, the inscription of Guido Guinizzelli in the Book of
+Life.  See ^Inferno~ XXIX.54-57 and note; see also the less generous,
+but similar, offer made to Bocca degli Abati at ^Inferno~ XXXII.93.
+Bocca is also recorded, but in the Book of the Dead.
+
+	|67-70.~  For a later resonance of the image of the rustic mountainman
+struck dumb by the sights of the city, see Boccaccio's 'meta-^novella~'
+(^Decameron~ IV.Intro.19-20), when the normally appetitive son of
+Filippo Balducci, Boccaccio's version of Dante's 'montanaro... rozzo e
+selvatico' (the mountaineer... rough and rustic), descends with his
+father from their monastic mountain and sees Florence for the first
+time, immediately falling under the spell of the lovely women in the
+beautiful city.  (For Boccaccio's redoing of Dante's text see Hollander
+[^Boccaccio's Dante and the Shaping Force of Satire~ (Ann Arbor:
+University of Michigan Press, 1997)], p. 75.)  However, and as William
+Stephany pointed out in a lecture at Dartmouth College on 31 August
+1983, Dante's mountainman is a revised version of his own earlier
+portrait of such rude folk.  In ^De vulgari eloquentia~ (II.i.6) he
+declaims that the illustrious vernacular is not fitting to
+'mountaineers who treat of rustic matters' (^montaninis rusticana
+tractantibus~).  Here, in a sort of palinode, he chides his younger
+self for his stylistic and intellectual snobbery, making these saved
+souls amazed at the presence of this writer of low vernacular texts and
+thus canceling the prideful assertiveness of his younger self.
+
+	|75.~  Guido uses a nautical metaphor to praise Dante's on-loading of
+this precious cargo of knowledge, paraphrased by Benvenuto (comm. to
+vv. 73-75) as follows: Dante is one who 'gathers and assembles in the
+bark of his wit' the mountain's source of knowledge that will allow him
+a better chance for salvation.  Dante's substitution of the verb 'to
+die,' where a more conventional thought would have posited 'to live,'
+brought the following admiring thought from Benvenuto: 'And I do not
+doubt but that this poet lived better and died better because he
+compiled this work.'  Thus Benvenuto suggests that the poem, not only,
+as others have thought (and as Dante claimed -- see ^Par.~ I.34-36),
+would bring at least some of its readers to salvation, but had had this
+result for its author himself.
+
+	|76.~  Guido now addresses Dante's question (^Purg.~ XXVI.65-66),
+brought on by the sight of the second group of penitents that had
+caught his attention (^Purg.~ XXVI.25-27).
+
+	|77-78.~  As part of his rather cruel treatment of Julius Caesar, who
+has already been put forward as a ^positive~ exemplary figure of zeal
+(see ^Purg.~ XVIII.101-102 and note), Dante now makes him an 'informal
+exemplar' (this practice is observable elsewhere only once on the
+mountain: see the note to ^Purg.~ XXIII.25-30) of homosexual lust (that
+is, he is not a part of the 'official' program of those who are
+presented to all penitents, but is mentioned only to Dante by Guido).
+This makes him perhaps the only exemplary figure in ^Purgatorio~ to
+have both positive and negative valences.  Again we can see how
+complex, troubled, and unremitting Dante's response to Julius was.
+
+	Benvenuto (comm. to vv. 76-81) dutifully and ashamedly reports
+Caesar's one known homosexual experience but surrounds it, in his
+perplexity and discomfort, with a list of Julius's (at times
+outrageous) sexual encounters with women.  In a similar mode, John of
+Serravalle (comm. to vv. 76-81) insists that Julius was a mere fourteen
+years old at the time of this misadventure.  Dante's source for poor
+Julius's escapade in Bithynia may eventually be found in Suetonius's
+^Life of the Caesars~ (ch. 49), as Daniello reports (comm. to vv.
+76-78), citing the lines that were supposedly cried out against him
+when he returned from Gaul in triumph: 'See how Caesar triumphs, having
+conquered Gaul; / Nicomedes triumphs not, but he made Caesar fall.'
+What had happened?  Apparently, when Julius was young and serving in
+Bithynia, the king, who admired him, got him drunk and had sexual
+relations with him.  Other tales make Caesar a more willing accomplice
+to the king's desire, e.g., Suetonius, attributing the story to Cicero,
+cites the report that he was dressed in purple as the queen of the
+realm at a wild party that ended in his 'deflowering,' etc.  Later
+Dante commentators (e.g., Oelsner [comm. to these verses]) suggest that
+Dante's source was a much condensed version of the events in Bithynia
+found in Uguccione of Pisa's entry for 'triumph' in his ^Magnae
+derivationes~, which adverts to Bithynia and to Caesar's being called
+both 'king' and 'queen' during one of his triumphs.
+
+	|82.~  The word 'hermaphrodite,' here doubtless means (and only means)
+'heterosexual' (from Ovid's tale of Salmacis and the son of Hermes
+(Mercury) and Aphrodite (Venus), Hermaphroditus [^Metam~. IV.285-388],
+in which their two genders are eventually included in a single
+double-sexed human being).  If 'hermaphrodite' here meant other than
+that, the only souls saved from the sin of Lust would have been
+homosexual and bisexual, that is, there would be no heterosexual
+penitents on the mountain.  The commentary tradition yields some
+amusing missteps on this subject.  Francesco da Buti (comm. to vv.
+76-87), selecting 'hermaphrodite' (in the sense of bisexual) as the
+second category of the penitent lustful on the mountain, tells the tale
+of a person he had seen, while he was a youth, who dressed as a man but
+who sat at the distaff and spun wool, using the name 'Mistress Piera.'
+It is only with Gabriele (comm. to this verse) and Daniello (comm. to
+vv. 82-87) that commentators get the problem cleared up: these are the
+penitent heterosexual lovers.  There was still so much confusion three
+centuries later that even Scartazzini (comm. to this verse) felt that
+he had to do a full review of the question.  In our own day, however,
+the confusion has again become manifest.  See Bernard Knox, reviewing
+W. S. Merwin's translation of ^Purgatorio~ (^New York Review of Books,~
+21 September 2000), where the word is translated as 'the performance as
+both sexes,' and the corrective rejoinder by Peter D'Epiro in the same
+journal (15 November 2001).  It should be said that it was provocative
+for Dante to have used the myth as he chose to.  Ovid's original tale
+is quite startling in its sexual role reversals: Salmacis behaving like
+a traditional slavering male while Hermaphroditus behaves like a
+traditional inviting female (even performing an unintended striptease
+before the excited Salmacis, peeping from her hiding place in the
+woods).  The tale seems fully intended to serve as the foundation myth
+of hermaphroditism.  That was not enough, however, to protect it from
+Dante's by now unsurprisingly elastic and eclectic reading of classical
+material.  His meaning for the word is clear: 'heterosexual'; to arrive
+at that unriddling, he probably foresaw, would cause his readers some
+exertion.
+
+	|83-87.~  These lines themselves possess the capacity to settle a
+problem that some readers prefer to keep open.  How can the name of
+Pasipha,e, who was involved not in heterosexual lust between humans,
+but in sodomy (sexual contact between human and beast), be used here to
+indicate the former?  He and his companions, Guido makes plain, did
+^not~ commit 'unnatural' sexual acts, but broke the laws that govern
+human sexual concourse, specifically those of marriage, and did so with
+an untamed energy that is more fit for beasts than humans, and is thus
+symbolized by a woman who conspired to be entered by a bull.
+
+	|90.~  The large number of those who repine their former lust seems to
+be commensurate with those who are condemned forever to relive it; see
+^Inferno~ V.67-69, where Virgil points out to Dante a vast number of
+identifiable sinners -- and this after we have already seen huge flocks
+of essentially anonymous lovers (^Inf.~ V.40-42).  And these sinners
+here, like those among whom we find Francesca and Paolo, are also
+compared to cranes (^Purg.~ XXVI.43-45; ^Inf.~ V.46-49).
+
+	|92.~  The speaker finally reveals himself as Guido Guinizzelli.  'The
+most illustrious of the Italian poets prior to Dante, he belonged to
+the family of the Principi of Bologna, in which city he was born ca.
+1230.  In 1270 he was Podest@a of Castelfranco; in 1274, when the
+Ghibelline Lambertazzi were expelled from Bologna, Guido with the rest
+of the Principi, who belonged to the same party, was forced to leave
+his native city; he is said to have died in exile at Verona in 1276'
+(Toynbee, "Guido Guinizelli" [^Concise Dante Dictionary~]).  His most
+famous poem is the ^canzone~ 'Al cor gentil rempaira sempre amore'
+(Love always finds shelter in the noble heart).  It sets out the
+doctrine, embraced by Dante in the fourth treatise of ^Convivio~, that
+true nobility is not determined by birth but by inner virtue.
+
+	|93.~  Since Guido had died ca. 1276, he has made his way from Ostia
+in very good time indeed, passing through ante-purgatory and the first
+six terraces in less than a quarter century.  Such speedy passage
+through purgation is a feature common to all the major figures whom
+Dante meets on the mountain, one forced on him by his predilection for
+the recently dead (Statius being the only ancient of note upon the
+slopes of the mountain allowed a speaking part, while Hugh Capet is the
+oldest 'modern').  However, we have no idea how long any of the souls
+whom we see will be at their penance (if Statius is a model, a good
+long time, since he spent more than 1200 years purging himself [see the
+note to ^Purg.~ XXI.22-24]).  We simply have no idea how long Guido
+must stay in the fire for his lust.  Time is not over for any of these
+sympathetic figures, and the mysteries of penance and redemption leave
+such concerns unresolved.  For all we know, Manfred or Belacqua may
+finish purgation before Guido does.
+
+	|94-96.~  In a striking example of ^abbreviatio~, Dante boils down a
+lengthy scene in Statius's ^Thebaid~ (V.499-730) to two lines.  The
+story to which he refers runs roughly as follows.  Hypsipyle was the
+daughter of the king of Lemnos, whom she saved from death when the
+women of the island determined to kill all the males on it.  She was
+subsequently seduced and abandoned by Jason (^Inf.~ XVIII.88-95), by
+whom she had twin sons, Thoas and Euneus.  When the Lemnian women
+discover that their king is still alive, Hypsipyle flees, and after a
+misadventure with pirates ends up in the service of the king of Nemea,
+Lycurgus.  While caring for Archemorus, the king's son, she was
+approached by the seven exiled warriors marching against Thebes in
+civil war.  Since they were thirsty, she agreed to show them to water
+(the fountain of Langia -- see ^Purg.~ XXII.112), but left the baby
+behind long enough for him to be killed by a snake.  Lycurgus would
+have killed her but for the chance arrival of her twin sons.  Once they
+have quelled the attempt on their mother's life, they embrace her
+eagerly, more eagerly than Dante will move to embrace Guido because he
+fears the flames.
+
+	|97-99.~  Benvenuto (comm. to vv. 94-99) remembers the reference to
+Guido's having been 'driven from the nest' at ^Purgatorio~ XI.97-99,
+and that he had been cast forth precisely by Dante.  But who are these
+other poets who wrote (the verb is in the past tense) better poems than
+Dante?  While most commentators simply avoid this problem, those who
+deal with it tend to favor Guido Cavalcanti and Cino da Pistoia.  The
+first precision of any value is only made by Tommaseo (comm. to these
+verses) pointing out that Dante here refers to style, and not language
+(i.e., he is not limiting the field to Italians, as some argue), as we
+can see by his later inclusion of Arnaut in this canto.  (But Arnaut
+cannot have been a 'son' of Guido because he lived and wrote before the
+Bolognese master.)  Steiner (comm. to these lines) suggests that Cino
+da Pistoia is one of these elect.  Trucchi (comm. to vv. 94-99) insists
+that the distinction is purely formal, stylistic, since Dante had
+insisted, two cantos earlier (^Purg.~ XXIV.52-54), that his and no
+other's was the true 'intelligence of love,' which alone accounts for
+his innovations in the content and substance of poetry; but Trucchi
+does not say who he thinks are indicated.  Porena (comm. to vv. 61-62)
+considers the matter in some detail and suggests that the most probable
+names are those of Cavalcanti, Cino, and Lapo Gianni.  Cavalcanti's
+name is heard in Chimenz (comm. to these verses) along with Cino's.
+And that pair is mentioned also by Giacalone (comm. to vv. 96-99) and
+by Bosco/Reggio (to this passage), who also tentatively offer the name
+of Lapo Gianni, as had Porena.  On the whole, the commentary tradition
+has been extremely cautious in trying to piece together Dante's
+thoughts about Guinizzelli's other 'progeny.'  However, Roberto
+Antonelli ("Cavalcanti e Dante: al di qua del Paradiso," in ^Dante: da
+Firenze all'aldil@a.  Atti del terzo Seminario dantesco
+internazionale~, ed. Michelangelo Picone [Florence: Cesati, 2001]), p.
+294, insists on an implausible reading of verse 98 to make the
+comparative adjective ^miglior~ refer to Guinizzelli alone; but see the
+sensible objection raised by Del Sal in the discussion of Antonelli's
+paper, pp. 366-67.  For the later reappearance of the adjective
+'sweet,' see ^Purgatorio~ XXVI.112 and note.
+
+	|100-105.~  It is not difficult to understand how much Dante wants his
+reader to understand the importance of Guido to his sense of himself as
+poet.  No one else on the mountain is treated as respectfully as he.
+
+	His oath to Guido evidently was to swear to tell the truth (see
+^Purg.~ XXVI.109).
+
+	|107.~  Guido, like Bonagiunta, refers to hearing Dante's voice with
+the relative clause 'ch'i' odo' (that I hear).  See ^Purgatorio~
+XXIV.57.  Both clauses draw attention to the importance that each of
+these predecessor poets places on listening to the living voice of this
+extraordinary visitor to their realm.
+
+	|109-111.~  Guido's request allows Dante to formulate another defining
+moment that will use no more than the space of a difficult tercet to
+respond to the remarks of a poetic predecessor (see ^Purg.~ XXIV.49-51).
+
+	Beginning in these lines, words for truth and for speaking or for
+writing poetry wend their way through 22 lines (^ver~ here in vv. 109,
+121, 126; ^dir~ or its derivative ^detto~ [poem] in vv. 111, 112, 119,
+130).  Their conjunction reminds the reader of the importance of the
+issue of the possibility of poetic truth, given the traditional view
+that poets are liars.  It may be helpful to know that in Dante's day a
+poet in the vernacular was known as a ^dicitore per rima~, a 'speaker
+in rhyme.'
+
+	|112.~  For the rarity of Dante's use of the honorific ^voi~, here
+given to Guido, see the note to ^Purgatorio~ XIX.131.
+
+	If Guido's poems are ^dolci~ (sweet), in what way are they different
+from those of Dante that are written in the 'sweet new style' (^Purg.~
+XXIV.57)?  This is a question that has had a variety of answers.  Some
+make Guido the first practitioner of the 'sweet new style' (which is
+impossible, in Dante's view, given his precisions at ^Purg.~ XXIV.49-51
+that make his ^canzone~ 'Donne ch'avete,' written at least ten years
+after Guido's death, the first of the 'new' poems that constitute the
+^dolce stil novo~).  The better understanding is that Guido
+Guinizzelli, Guido Cavalcanti, others among the Tuscans, and surely
+Dante himself, all wrote in the 'sweet style' (the most effective
+demonstration of this is found in Lino Leonardi ["Cavalcanti, Dante e
+il nuovo stile," in ^Dante: da Firenze all'aldil@a.  Atti del terzo
+Seminario dantesco internazionale~, ed. Michelangelo Picone (Florence:
+Cesati, 2001), pp. 331-54]).  But what both Guidos, the early Dante,
+and just about everybody else failed to do was to find the 'new style'
+that Dante developed from his understanding of Guinizzelli's sweet
+style of praise, a mode that he took one step farther when he developed
+his own theologized poetics of Beatrice.  In that he was the first, and
+had perhaps no more than one companion (Cino da Pistoia, who also wrote
+'theologically' of Beatrice after her death).  This is what the
+evidence of the texts seems to suggest.  In short, Dante honors
+Guinizzelli for being what he was, as far as the younger poet was
+concerned, the 'father' of the ^dolce stil novo~, but not one of its
+practitioners.  Thus we may understand that a number of poets wrote in
+the 'sweet style,' but hardly any of them achieved the ^new~ 'sweet
+style' that is the hallmark of Dante's praise of Beatrice.  In all
+aspects of this debate, it is essential to remember that we are trying
+(or should, at any rate, be trying) to negotiate an answer from what
+Dante ^said~ happened, not from what actually happened (or what we
+imagine actually happened).
+
+	Lino Pertile, with whom this writer disagrees cordially about
+a number of issues, including this one, some ten years ago
+suggested, thoughtfully and usefully, that the interpretation
+advanced here boiled down to understanding the phrase ^dolce
+stil novo~ as though it had been ordered ^alla rovescia,~ that
+is as though Dante had written it as "novo stil dolce" (which
+he might easily have done, but chose not to).  In other words,
+Guinizzelli had written in the "old" ^stil dolce,~ while Dante's
+theologized Beatrice made for a sweet "style" that is radically
+^novo.~  Further, in this line of analysis it is possible that
+Dante thought of his own former poetry in celebration of other
+women as being similar to Guinizzelli's, as lacking precisely
+the theological "edge" that the prose of the ^Vita nuova~
+(and the later poetry of the ^Commedia~) gave to Beatrice, thus
+making a breakthrough that the younger Dante turned his back on.
+For instance, Casella's song in ^Purgatorio~ II is referred to as
+deeply affecting its auditor, Dante himself. The poet marks
+the moment in the following terms: "la dolcezza ancor dentro
+mi suona" (the sweetness sounds within me still -- verse 114).
+Are we to think of the second ode of ^Convivio,~ "Amor che ne la
+mente mi ragiona," as being in the intellectualizing "style"
+of Guinizzelli, praising his lady as being the repository
+of every value except the most important one, at least in a
+Christian poet? and thus as falling short of the ^dolce stil novo~?
+This would again set the poetry in praise of the ^donna gentile~
+against that in praise of Beatrice, the allegorical poetry of
+earthly love against a poetry based in a Psalm (113) itself based
+on the Exodus (see Hollander, "^Purgatorio~ II: The New Song and
+the Old," ^Lectura Dantis [virginiana]~ 6 [1990]: 28-45).
+
+	|113-114.~  Dante's affectionate remark bestows less than it may seem
+to do, for all his unquestionable admiration of Guido.  In ^Purgatorio~
+XI.97-108 we are told both that this Guido had been eclipsed by Guido
+Cavalcanti in the public's esteem and that fame for artistic excellence
+does not last very long, in any case.  In short, 'modern custom' is not
+enduring.  As long as such poems (i.e., those in the Italian
+vernacular) are written, Guido's will be read; he will have an honored
+place amongst the vernacular poets.  Dante, partly because of his own
+endeavors on Guido's behalf, got it right.  His praise, however, is not
+of the order of his praise of Virgil; according to Beatrice ^his~ fame
+will last as long as the world lasts (^Inf.~ II.59-50), a life that
+even Dante probably thought would be longer than that enjoyed by the
+Italian vernacular (see ^Par.~ XXVI.133-138).  For Dante's relationship
+to Guido see discussions in Mario Marti (^Con Dante fra i poeti del suo
+tempo~ [Lecce: Milella, 1966]), Gianfranco Folena ("Il canto di Guido
+Guinizzelli," ^Giornale storico della letteratura italiana~ 154 [1977],
+pp. 481-508), Vincent Moleta (^Guinizzelli in Dante~ [Rome: Edizioni
+di Storia e Letteratura, 1980]), and Teodolinda Barolini (^Dante's Poets~
+[Princeton: Princeton University Press, 1984]), esp. pp. 125-36.
+
+	|115-116.~  Guido now, in a moment of evidently heartfelt humility,
+insists on Arnaut Daniel's superiority in the vernacular, but in the
+vernacular of Provence, an area in the southeast of what is now France;
+it only came under the official rule of the French kings in 1245.
+
+	'Arnaut Daniel, famous Proven$cal poet (fl. 1180-1200); but little is
+known of his life beyond that he belonged to a noble family of Ribeyrac
+in P$erigord, that he spent much of his time at the court of Richard
+Coeur-de-Lion, and that he visited Paris, where he attended the
+coronation of Philip Augustus, as well as Spain, and perhaps Italy.
+His works, such as they have been preserved, consist of eighteen
+lyrical poems, one satirical, the rest amatory' (Toynbee, "Arnaldo
+Daniello" [^Concise Dante Dictionary~]).
+
+	Arnaut's poems are brilliantly difficult, written in the so-called
+^trobar clus~ (a modern translation could be 'hermetic verse'),
+typified by its harsh tones and challenging phrasing; in other words,
+he avoids the ^trobar leu~ (a more open style, easier and more
+mellifluous).  On Dante's knowledge and use of Arnaut's poems see
+Maurizio Perugi ("Arnaut Daniel in Dante,"  ^Studi Danteschi~ 51
+[1978], pp. 59-152.).  For a brief overview in English of Dante's
+relations with Proven$cal poets and poetry see Thomas Bergin ("Dante's
+Proven$cal Gallery," ^Speculum~ 40 [1965], pp. 15-30).  And for a
+substantial study of Dante's response to previous modern poets,
+Proven$cal and Italian, see Teodolinda Barolini (^Dante's Poets~
+[Princeton: Princeton University Press, 1984]), pp. 85-187.
+
+	|117-118.~  What does it mean to say that Arnaut was 'a better
+craftsman of the mother tongue'?  Not, it would appear, that he wrote
+poems that were better in substance than those of others, but better in
+style, better made.  It is possible that Guinizzelli's language
+reflects the claim that lay latent (but clear enough) in some poems of
+Cavalcanti, who liked to use the image of the file (^limo~), an
+instrument used to refine one's handiwork, to suggest the careful
+nature of his own poeticizing.  Dante here would seem to be, through
+the testimony of Guinizzelli, taking some of that distinction away from
+the other Guido and, in a sense, replacing him with Arnaut, a craftsman
+not only better than he, but better than Cavalcanti, too.
+
+	The 'mother tongue' here not only refers to Arnaut's ^langue d'oc~,
+his native Proven$cal, but to ^any~ Latin-derived vernacular (see
+Sordello's similar remark, addressed to Virgil, at ^Purg.~ VII.16-17,
+which also makes Proven$cal the child of Latin: 'O glory of the
+Latins... through whom our language showed what it could do').
+
+	Guido also seems to mean that Arnaut's vernacular verse was
+stylistically better than anyone else's writing in the vernacular,
+whether in verse (in the ^langue d'oc~ -- Dante is cavalierly
+unconcerned, at least publicly, with French poetry) or in prose fiction
+(in the ^langue d'o,il~, since according to ^De vulgari eloquentia~
+I.x.2, all vernacular prose was written in French).  This passage is
+the cause of much debate, one issue in which centers on the question of
+whether or not Dante means that Arnaut himself wrote prose fiction.
+This seems more than dubious.  See Poletto's comment to this effect
+(gloss on vv. 118-120).
+
+	|119-120.~  'Giraut de Borneil, one of the most famous troubadours of
+his century, born at Essidueil, near Limoges, ca. 1175, died ca. 1220'
+(Toynbee, "Geradus de Borneil" [^Concise Dante Dictionary~]).  Dante
+refers to him a number of times in ^De vulgari eloquentia~ and once in
+^Convivio~, never slightingly -- quite the opposite is true.  Hence
+Dante's about-face here is dramatic.  In ^De vulgari eloquentia~
+II.ii.9 he had made Girault his own Proven$cal counterpart: Dante
+presented himself as the leading poetic celebrant of virtue in Italian,
+while Giraut was presented in exactly the same role for his language
+group.  In the same passage Arnault Daniel was put into the identical
+relationship with Dante's then first friend, Cino da Pistoia; they are
+the twin wonders of amorous poetry.  However, and as Barolini points
+out (^Dante's Poets~ [Princeton: Princeton University Press, 1984]),
+pp. 98-99, Giraut is clearly ranked above Arnaut.  For consideration of
+Dante's possible reasons for wanting now to distance himself from
+Giraut see Picone ("Giraut de Bornelh nella prospettiva di Dante," ^Vox
+romanica~ 39 [1980], pp. 64-85) and Mengaldo ("Dante come critico," ^La
+parola del testo~ 1 [1997], pp. 36-54).  And for a set of formulations
+that attempts to deal with the whole range of the ^Comedy~'s
+revisionism regarding Dante's poetic precursors, see Barolini, pp.
+175-87.
+
+	|124-126.~  'Guittone del Viva, more commonly known as Fra Guittone
+d'Arezzo, one of the earliest Italian poets, was born ca. 1240 at Santa
+Firmina, about two miles from Arezzo.  But little is known of the
+details of his life, a great part of which was spent in Florence, where
+Dante may have known him.  About the year 1266 Guittone, who was
+married and had a family, entered the Order of the Frati Gaudenti
+[Jovial Friars, see ^Inf.~ XXIII.103].  In 1293 he helped to found the
+monastery of Sta. Maria degli Angeli at Florence, in which city he
+appears to have died in the following year' (Toynbee, "Guittone"
+[^Concise Dante Dictionary~]).  Dante, surely unfairly, is getting
+even, less perhaps with Guittone than with his admirers, who were many
+(and continue to exist today).  It was not enough for him to have
+Bonagiunta (^Purg.~ XXIV.56) include him, along with himself, among
+those who failed to come up to Dante's measure.  Now Dante uses the
+great Guinizzelli (who had indeed come to dislike Guittone's poetry in
+reality) to skewer Guittone a second time, and much more harshly.  As
+early as ^De vulgari eloquentia~ (e.g., I.xiii.1; II.vi.8) Dante had
+been deprecating Guittone.  One may sense a certain 'anxiety of
+influence' at work here, especially since Guittone did so many of the
+things that Dante himself took on as his own tasks: love lyrics, moral
+^canzoni~, and eventually religious poems.
+
+	On Dante's rejection of Guittone see Contini (^Un' idea di Dante~
+[Turin: Einaudi, 1976]), pp. 60-61, the contributions of Gorni,
+Antonelli, and Mazzoni in the volume devoted to studies of Guittone
+edited by Michelangelo Picone (^Guittone d'Arezzo nel settimo
+centenario della morte: Atti del Convegno Internazionale di Arezzo
+[22-24 aprile 1994]~, ed. M. Picone [Florence: Franco Cesati, 1995],
+pp. 307-83), and Barolini ("Guittone's ^Ora parr@a~, Dante's
+^Doglia mi reca~, and the ^Commedia~'s Anatomy of Desire," in
+^Seminario Dantesco Internazionale: Atti del primo convegno tenutosi al
+Chauncey Conference Center, Princeton, 21-23 ottobre 1994~, ed. Z. G.
+Baranski [Florence: Le Lettere, 1997], pp. 3-23).
+
+	|127-132.~  Guido's request speaks now of a better kind of poetry, the
+Lord's Prayer, that this other poet can offer in his name in Heaven.
+He concludes by suggesting an 'edit' in the text, namely of that part
+which speaks of leading not into temptation and delivering from evil
+(Matthew 6:13; Luke 11:4).  Similarly, in ^Purgatorio~ XI.19-24 the
+penitents ^do~ sing this part of the text, but only on behalf of their
+earthly brethren, since it no longer pertains to them.
+
+	|133-135.~  Guido's departure reminds the reader that those who speak
+with Dante need to come to the edge of the flame, without leaving it,
+in order to be visible (see ^Purg.~ XXVI.13-15).  His disappearance
+back into the flames like a fish from the surface of a pond recombines
+images of fire and water, as did his opening sally to Dante, in which
+he speaks of his thirst, while he burns in flame, to know of a living
+man's reason for being here.
+
+	|137-138.~  Why does Dante now, in a canto composed of so much direct
+address, shift into indirect discourse?  Steiner, glossing these lines,
+was perhaps the first commentator to note that the style of the remark
+is 'elegant and studied in form,' as befits a discussion with Arnaut or
+any Proven$cal poet, all of whose verse is similarly ornate.  But
+Steiner does not remark upon the use of indirect discourse ^per se~,
+nor does any other commentator.  In fact, Dante had already employed it
+in describing his oath to Guido (^Purg.~ XXVI.104-105).  A desire for
+stylistic variation may explain his choice, or there may be a more
+interesting reason that has escaped us.
+
+	|140-147.~  That Arnaut's speech forms a little Proven$cal poem eight
+lines in length may reflect, according to Nathaniel Smith ("Arnaut
+Daniel in the ^Purgatorio~: Dante's Ambivalence toward Proven$cal,"
+^Dante Studies~ 98 [1980]), pp. 101-2, the fact that this was generally
+a favored stanza length for Proven$cal poets and indeed of six of the
+eleven Proven$cal poems cited by Dante in ^De vulgari eloquentia~.
+Smith also demonstrates that Dante's ^pastiche~ of Proven$cal lyric is
+wider than an imitation of Arnaut, and reflects numerous other poems
+and poets in the ^lingua d'oc~.  He also comments on the deliberate
+'dumbing down' of Dante's version of Arnaut's language (recognized by
+its difficult and elliptical style) in which almost every word of this
+invented poem has an obvious Italian (or Latin) cognate (pp. 106-7).
+
+	It is interesting to consider that both the first and last lines of
+Arnaut's poem contain fairly obvious imitations of lines of two other
+notable vernacular poets.  The first, as has been noted by
+commentators, first by Chimenz (comm. to these verses), is meant to
+recall the first line of a ^canzone~ of Folco di Marsilia, the last
+vernacular poet to appear in the poem and the most highly placed, the
+only one seen in paradise (he is named at  ^Par.~ IX.94).  Dante cites
+the opening line of one of his ^canzoni~ as being among the ^illustres~
+(i.e., components of the 'illustrious vernacular' that his treatise
+champions) in ^De vulgari eloquentia~ (II.vi.6): 'Tan m'abellis
+l'amoros pensamen' (So pleases me the very thought of love).  Arnaut's
+opening line derives from Folco's.  And the same is true of his closing
+verse, derived, as Mario Marti indicates (in his edition, ^Poeti del
+Dolce stil nuovo~ [Florence: Le Monnier, 1969] -- note to verse 7 of
+Cino's poem numbered 64), from Cino da Pistoia: 'e sovverrebbe a voi
+del mio dolore' of which 'sovenha vos a temps de ma dolor' (remember,
+when the time is fit, my pain) is a fairly close Proven$cal
+translation.  If we are supposed to notice these redoings, are we also
+supposed to consider a new side to the daring and flashy Arnaut, now
+content to borrow from his fellows?  And they are particularly good
+ones, Folco, already in Heaven, and the Cino who has had, in ^De
+vulgari~, Dante's ^imprimatur~ as fellow poet of Beatrice.  (For a
+speculative treatment of Cino's absence from the ^Commedia~, based on
+the hypothesis that he was indeed originally intended to be the last
+modern poet included in the poem at the center of ^Paradiso~, a plan
+that was discarded once Dante became aware that Cino had deserted the
+imperial cause and, surely worse, joined with his Florentine enemies
+sometime after the death of Henry VII in 1313, see Hollander ["Dante
+and Cino da Pistoia," ^Dante Studies~ 110 (1992)], pp. 215-19.)
+
+	Arnaut, like Guido, is now more interested in salvation than in
+dazzling the world with verse.  These are penitential moments, not ones
+that encourage thoughts of emulous poetic striving.  Giacalone (comm.
+to vv. 139-147) says it this way: 'The poet of the ^trobar clus~, who
+was ever at the ready to make his poems "concealing," now at the end
+conceals himself, but in the penitential fire.'  There seems no
+question but that Dante was staggered by Arnaut's virtuosity; and
+surely we were staggered, in turn, by Dante's perhaps most virtuosic
+versification, heavily indebted to Arnaut, found in the last cantos of
+^Inferno~.  But now there is no dwelling on the excellence of poetic
+technique, but rather on prayer and hopes for the joys of Heaven.
+Guido's last words (^Purg.~ XXVI.92-93), which seem to imply that,
+unlike Dante, he came to God ^not~ in his poetry but even in spite of
+it, and Arnaut's Proven$cal stanza, which also speaks to life rather
+than to art, are matched by Dante's own 'sweet new style' here, singing
+of salvation, the subject it took this poet some time to find again
+after his first attempt in the concluding chapter of his ^Vita nuova~.
+In this sense Guido's words about prayer as poem and Arnaut's poem,
+which is a request for prayer, posthumously join these two poets to
+Dante's new style, a poetry in tune with God.

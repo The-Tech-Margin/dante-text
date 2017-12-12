@@ -1,0 +1,588 @@
+	|Proemio.~  The only sign by which Dante was made aware that he
+had risen to Venus, the third Heaven [for the transposition of Mercury
+and Venus, see {comm. on ^Par.~ 5.85-99}] was the increase of beauty in
+his Lady.  A circle of spirits in the form of lights suspend their
+dance and flash toward the newcomers more swiftly than the lightning. 
+One soul reveals himself as the poet's friend, Carlo Martello [Mr.
+Vernon complains that commentators do not warn their readers that this
+Charles Martel is not the famous Duke of Austrasia who, in A.D. 732,
+gained the great victory over the Saracens between Tours and Poitiers. 
+The omission is not unnatural: it may surely be take for granted that a
+contemporary of Dante in the thirteenth century is not a man who lived
+in the eighth.  The ^Martel~ here, Mr. Vernon reminds us, does not mean
+a ^Hammer~ as in the case of the earlier Charles, but is `merely a
+common mediaeval form for ^Martin~], eldest son of Charles II. of
+Naples, who tells him of the vast dominion over which he would have
+ruled had he been spared.  In reply to Dante's question he explains how
+degenerate children may spring from noble parents.  Then Cunizza,
+sister of the tyrant Ezzelino III. da Romano, points out the soul of
+Folco the troubadour of Marseilles, and he in turn that of Rahab the
+harlot, the name of whom rouses Dante's indignation against the Pope
+and the Cardinals for their abandonment of Holy Land to the infidels.
+
+We have now to trace the symbolic correspondences of the
+star to the souls whom Dante sees in it.  It represents the
+Heaven possible to those who on earth divided their hearts
+between two diverse loves: the love of God, else there had been
+no heaven for them; and the unworthy love of some fellow-creature,
+else their heaven had been higher.  It is essential to understand
+clearly what this unworthy love is.  It is a mistake to identify
+it, as is sometimes done, with the simple, natural human love of
+family and friends.  It is the heaven of lovers, says one writer,
+`and includes the conjugal, the parental, the filial, and the
+fraternal, as well as the love of friends.  Terrestrial love is
+connected with a limitation, -- devoted to a special object,
+parent, child, husband, wife, brother, sister, or friend.  Such
+love is of the same nature fundamentally as celestial love or
+Divine Charity.  But there is a particular limitation in the
+former which prevents its complete identity....  It is allied to
+selfishness in the fact that it is thus limited to those near it, or
+connected by natural ties' [W. T. Harris, ^The Spiritual Sense of
+Dante's Divina Commedia~, p. 88].  
+
+	|1-21.~  The entire passage which treats of this Heaven shows that
+Dante was thinking of a far different love.  The opening lines of Canto
+viii. strike the keynote by their reference to `the beautiful Cyprian,'
+the goddess Venus, whose star was believed by the ancient world `in its
+peril' to ray down `mad love,' the lust which overflows the limits of
+the wise love of nature and reason.  The classical example given is
+Dido, in whose lap Cupid, the son of Venus, sat in the form of
+Ascanius, the son of Aeneas; and Dido is placed in the Circle of the
+Sensual in the Inferno [^Inf.~ v. 85].  If any doubt remained, it would
+be dispelled by a glance at the souls whom Dante singles out for
+mention.  There might be some uncertainty about Charles Martel, but
+there is none whatever about Cunizza, Folco, and Rahab.  It is this
+sensual love which lies like the shadow of earth upon their Heaven: a
+heart which has thus yielded itself to an impure love can never be
+illuminated as it might have been with the unclouded light of
+Him who is the Eternal Love and Purity.  Nevertheless, it is to be
+noted that Venus is the Heaven in which the shadowy cone of earth
+`comes to a point' [^Par.~ ix. 118, 119]: evil as such love is, it does
+not, in Dante's view, sink the soul so deeply into the shadow as what
+might seem the lighter sins of Mercury and the Moon.
+
+Now, the planet Venus corresponds to this twofold power
+of love in a peculiar way to which Dante draws special attention
+when he says that it `revolves in the third epicycle.'  [I take the
+liberty of borrowing this diagram {omitted} from Toynbee's ^Dante
+Dictionary~ (p. 530), adapting it to the case before us.  S,
+the Sun, revolves round E, the Earth, the fixed centre of the universe,
+carrying V, Venus, with it, so that the cycle of the Sun involves also
+the cycle of Venus.  But as Venus is thus carried round in her ^cycle~,
+she is all the time revolving round the sun in the smaller circle,
+which is her ^epicycle.~  As Toynbee says, this theoretical movement of
+the planet with regard to the Earth in the Ptolemaic system is `similar
+to the actual movement of the Moon, as the satellite of the Earth,
+about the Sun in our solar system.']  `On the summit of this circle in
+the Heaven of Venus,' he says in the ^Convito~ (ii. 4), `is a small
+sphere which revolves of itself in that Heaven; the circle of which the
+astrologers call an ^epicycle.~'  Now, it is important to understand
+the cycle and epicyle of Venus, because they represent in the poet's
+symbolism that twofold movement of the human heart already spoken of --
+one round God, and one round some unworthy object of earth.  `Epicycle'
+is a term of the Ptolemaic system of astronomy, according to which the
+heavenly bodies, as explained in the Introduction, revolve round the
+Earth as the fixed centre of the universe.  The Sun, for example, goes
+round the Earth in a simple circle or cycle.  Venus also goes round the
+Earth, but not in a mere cycle: by another motion she appears sometimes
+as morning star, sometimes as evening star, -- in Dante's words, she
+
+     Wooes the sun now from behind, now from before [v. 12]. 
+
+This is her epicyclic motion -- a motion like that of a satellite
+round the Sun.  It may be said that Dante did not conceive of
+Venus as such a satellite; but I am not so sure of this.  When
+from the height of the Heaven of the Fixed Stars he looks down on
+the seven spheres, he tells us that he saw the Sun
+
+                     and how there move
+     ^Around and near to him~ Maia and Dione,
+
+[^Par.~ xxii. 142-144.  Butler, however, following a different
+punctuation, translates: `how he (the Sun) moves around, and Maia and
+Dione near to him.'  I follow the pointing of the Oxford edition.  See
+Dr. Moore's ^Studies in Dante~, 3rd series, p. 40, note], Maia and
+Dione being Mercury and Venus named after their mothers; and this
+certainly seems to imply that he conceived of these inferior planets as
+virtually satellites of the Sun.  If so, then the movements are these. 
+First, the Sun makes his revolution round the Earth, carrying Venus
+with him as a satellite, so that his ^cycle~ is also hers.  But in
+addition she performs a revolution of her own round him, and this
+constitutes her ^epicycle.~  Translating all this into its spiritual
+equivalent, the meaning appears to be: as Venus had one movement round
+the Earth and another round the Sun, so these souls had two movements
+of the heart, cyclic and epicyclic, one round some earthly centre, the
+other round God, of whom the Sun is the natural symbol.  This divided
+and twofold life of theirs is again hinted at in the passage in which
+Dante compares them to a spark within a flame, and a voice within a
+voice:
+
+     And as within a flame a spark is seen,
+     And as within a voice a voice discerned,
+     When one is steadfast, and one goes and comes,
+     Within that light beheld I other lamps
+     Move in a circle, speeding more and less
+     In measure, I believe, of their eternal vision.
+
+[^Par.~ viii. 16-21.  The reference of ^voce ferma~ in ll. 17, 18 is
+to the form of music known in Italian as ^canto fermo~, firm or fixed
+song, `the ancient traditional vocal music of the Christian church: so
+called because, its form being settled and its use prescribed by
+ecclesiastical authority, it was not allowable to alter it in any
+manner.  It was originally sung in unison, or in octave only, and in
+its strictest from one note was assigned to each syllable of the
+words.  After the third century it was allowable to add other parts in
+harmony with the canto fermo, which was then assigned to the tenor
+voice and sung without change, the other parts moving above and below
+it in counterpoint more or less free....  These additional parts, being
+more elaborate and ornamental than the canto fermo, were called, in
+contradistinction to it, ^canto figurato~' (^Century Dictionary~).]
+
+	|22-26.~  We turn now to the symbolic forms by which Dante
+indicates the celestial condition and blessedness of these
+spirits of Venus, and the way in which the higher love now rules
+their life.  Almost the first thing he marks in them is the
+swiftness of their motion as they draw near to him, singing
+^Hosanna~:
+
+     From a cold cloud never descended winds,
+     Or visible or not, with so great swiftness,
+     That they would not appear restrained and slow
+     To any one who had those lights divine
+     Seen come toward us, leaving the circling
+     Whose first beginning is in the high Seraphim.
+
+The `winds or visible or not' are hurricanes or lightnings,
+lightnings being, according to Aristotle, winds made visible by
+ignition [^Meteor.~ II. ix.; III. i.  See Moore, ^Studies in Dante~,
+1st series, p. 132].  The comparison indicates the eager, swift,
+mysterious movements of love, as in the passage Canticles viii. 6,
+which was probably in Dante's mind: `the flashes thereof are flashes of
+fire, a very flame of the Lord' [Revised Version.  Dante would read it
+in the Vulgate: `lampades eius lampades ignis atque flammarum'].  It
+is now the eagerness of unselfish love which suspends the circling of
+its own joy to increase the joy of the strangers: `We are all ready to
+thy pleasure that thou mayest have joy of us,' are the first words of
+Carlo Martello.
+
+	|27-37.~  Further, Dante tells us that these souls, though they
+must bear for ever the spiritual consequences of their cyclic and
+epicyclic love, have nevertheless escaped from that duplicity of
+movement, and attained to the peace of one single revolution
+around God.  This is undoubtedly the general meaning, although it
+is not easy to work it out in detail.  The first hint of this
+unity of motion is the circling in which Dante finds them engaged
+on his arrival, and which they suspend in order to speak to him. 
+It is `the circling first begun in the high Seraphim'; and since
+the Seraphim are the Order of Angels nearest God, burning with
+His Love, and revolving most swiftly with longing for Him, the
+obvious meaning is that these spirits of Venus are now being
+swept in that one single movement of the Highest Love which turns
+all the spheres.  Charles Martel by a threefold repetition
+emphasizes this unity of movement, in relation to the Order of
+the Principalities which rules this third sphere:
+
+     `We turn around with the celestial Princes
+     In one circle, and one circling, and one thirst,
+     To whom thou in the world of old didst say:
+     ^Ye who by intellect the third heaven move.'~
+
+[In l. 35, the `one circle' (^un giro~) seems to mean this special
+sphere of Venus in its revolution; the `one circling' (^un girare~),
+the one same rate of motion with the Principalities; and the `one
+thirst' (^una sete~), the same intensity of longing for God which
+produces the `circling.'  The point of the emphasis is the ^unity~ of
+their motion now -- the double movement of the divided heart is for
+ever past.]  This line, as we have just seen, is the beginning of the
+first Canzone of the ^Convito~, and is addressed to the Angelic Movers
+of this Heaven of Venus, not, as Plumptre suggests, because Dante had
+`a paternal fondness' for it, but because, as I have shown, it is his
+own personal experience which fills these Cantos.  When he wrote it his
+heart was divided between a higher and a lower love; and now these
+souls tell him that they, after the same struggle, have attained to
+peace, and turn `in one circle, and one circling, and one thirst' with
+the Movers of this Heaven, to whom once he had addressed his prayer. 
+There seems also to be a pathetic reason for putting this line in the
+mouth of Charles Martel.  From a comparison of the dates mentioned in
+^Convito~ ii. 2, at the beginning, and 13, ll. 49-69, it is inferred
+that this Canzone was written in March, 1294, the precise time when
+Charles, as we shall see, visited Florence.  `Can we doubt,' asks Mr.
+Vernon, `that Dante then communicated it to his royal friend, who
+probably expressed his admiration of it?  The death of Charles occurred
+within the year, and the friends do not appear to have met again.  It
+is a touching incident that their first greeting in Paradise should
+recall the words of the song which was associated with their last
+intercourse on earth!' [Vernon, ^Readings on the Paradiso~,
+p. 255 note.  Comp. Moore, ^Studies in Dante~, 3rd series, pp. 42,
+43.  It is possible that it is for some similar personal reason Dante
+puts into the lips of his friend Casella the song, `^Love that in my
+mind discourseth to me~,' the second Canzone in the ^Convito~ (^Purg.~
+ii. 112)].
+
+There is, however, some difficulty in reconciling Charles
+Martel's words here with Dante's in the ^Convito.~  The Intelligences
+invoked in the line quoted are not the Princes, or Principalities, of
+whom Charles speaks, but the ^Thrones~, which, says Dante, `taking
+their nature from the love of the Holy Spirit, make their operation
+connatural thereto, to wit the movement of that heaven which is full of
+love' [^Conv.~ ii. 6].  As we have seen in the Introduction, Dante in
+the ^Paradiso~ (xxviii. 97-139) follows the order of the Angelic
+Hierarchy as laid down by the Pseudo-Dionysius, according to which the
+Thrones preside over the movements of Saturn.  They are referred to in
+the present Heaven as mirrors up above, which reflect to all the lower
+spheres the Divine judgments [^Par.~ ix. 61-63.  According to
+Dionysius, every Order is a mirror to those beneath.  The Thrones
+mirror and reflect in particular the Divine judgments.  Comp. ^Epis.~
+x. 21].  It is in accordance with the same Dionysian doctrine that the
+Principalities are now regarded as the Intelligences who move this
+third Heaven; and in this there is a certain symbolic appropriateness
+to the discourse which follows by a prince and concerning princes.  To
+Dante's mind this sphere of Venus, ruled over by `the heavenly
+Princes,' represents the love with which earthly princes must rule
+their subjects, if their kingdoms are to endure.  There is a passage in
+the ^De monarchia~ (i. 11) in which this conviction is applied to the
+monarch, the head and ruler of princes: `Moreover, just as greed,
+though it be never so little, clouds to some extent the disposition of
+justice, so does charity or right love sharpen and brighten it.  In
+whomsoever therefore right love has the greatest power of inhering, in
+him justice may take the most commanding place.  The monarch is such;
+therefore when he exists justice is most powerful, or at any rate may
+be so.  Now, that right love has the action I have said, may be shown
+thus.  Greed, scorning the intrinsic significance of man, seeks other
+things; but charity, scorning all other things, seeks God and man, and
+consequently the good of man.  And since, amongst the other blessings
+of man, living in peace is the chief, and justice is the chiefest and
+mightiest accomplisher of this, therefore charity will chiefly give
+vigour to justice; and the stronger she is, the more' [Wicksteed's
+translation in ^The Latin Works of Dante~, Temple Classics].  It is the
+function of the celestial Princes of Venus to inspire earthly princes
+with this `right love' which `sharpens and brightens' justice; and when
+these reject this inspiration, it becomes the duty of the
+Principalities to place their dominion in hands that may prove
+worthier.  `By their government and wisdom,' says St. Bernard, `all
+rule on earth is established, ruled, limited, transferred, curtailed,
+changed' [^De Consideratione~, v. 4].  This is why in the discourse
+which follows Charles Martel tells how the tyranny of his grandfather
+Charles of Anjou lost Sicily to his house, and warns his brother Robert
+of Naples of the disasters which his greed as a prince will drag upon
+him.
+
+
+	|37.~  It adds much to the probability and the interest of this
+interpretation that it is based on Dante's own experience, as he
+hints in the line of one of his poems which he makes his friend
+Charles Martel quote:
+
+     `^Ye who by intellect the third heaven move.~'
+
+This is the opening line of Canzone I. of the ^Convito~, and is
+addressed to the Angelic Intelligences that move the sphere of
+Venus as an appeal to rescue him from this very conflict of two
+loves within his heart.  One draws him heavenward to Beatrice:
+
+     The life of my sad heart is wont to be
+     One gentle thought the which would take its way
+     Full many a time even to your Sire's feet,
+     Where a Lady it beheld in glory,
+     Of whom it spoke to me so sweetly
+     That my soul said, `I, too, would go!'
+
+This Godward movement of his heart, however, is immediately
+followed by another in a different direction:
+
+       Now appeareth one who putteth it to flight,
+       And lords it over me with so great power
+       The trembling of my heart appears without.
+
+The story of this struggle is told in the closing sections of the
+^Vita Nuova~, in which, after the death of Beatrice, he curses his eyes
+that he cannot withhold them from another lady [see especially {Sect.}
+xxxviii.: `At length, by the constant sight of this lady, mine eyes
+began to be gladdened overmuch with her company; through which thing
+many times I had much unrest, and rebuked myself as a base person:
+also, many times I cursed the unsteadfastness of mine eyes, and said to
+them inwardly: "Was not your grievous condition of weeping wont one
+while to make others weep?  And will ye now forget this thing because a
+lady looketh upon you? whoso looketh merely in compassion of the grief
+ye then showed for your own blessed lady.  But whatso ye can, that do
+ye, accursed eyes! many a time will I make you remember it! for never,
+till death dry you up, should ye make an end of your weeping"'
+(Rossetti's translation)].  The veil of allegory which he draws over
+this in the ^Convito~ cannot hide the true original meaning.  Probably
+therefore the whole conception of this Heaven of Venus as the only
+Paradise of the divided heart, had its root in Dante's own experience:
+he felt himself circling round some earthly love unworthy of him; yet
+he was conscious all the time that his soul had never really forgotten
+Beatrice, but was moving round her in an epicycle of true heavenly
+love.
+
+	|52-54.~  It is to be noted too that the spirits of this star,
+unlike those of the Moon and Mercury, are invisible to Dante in
+their own proper forms.  His friend, Charles Martel, explains
+that it is the intensity of his joy which hides him with its
+light, like a silkworm in its cocoon:
+
+     `My gladness keepeth me concealed from thee,
+     Which rayeth round about me, and doth hide me,
+     Like an animal in its own silk enswathed.'
+
+It is a mistake to say, as is sometimes done, that this is a mere
+temporary concealment due to the sudden increase of joy caused by
+this meeting with his friend.  Doubtless there was this increase of
+joy, and therefore of light, for Dante expressly says so [^Par.~ viii.
+46-48]; but from the very first he describes them as `lamps' and
+`sparks' within a flame.  There is no indication that at any time he
+saw them in their own proper forms.  The reason, as already explained,
+is that the souls in this and the remaining Heavens have lost ^self~:
+their greater vision creates greater love, and greater love greater
+joy, joy which rays round them an aureole of concealing light:
+
+     By joy up there is brightness won,
+     Even as a smile down here.
+
+[^Par.~ ix. 70, 71.  I am not using the word `aureole' here in its
+theological sense.  Aquinas uses it for a certain accidental reward
+super-added to the essential bliss of Paradise for some excellent
+victory gained during the earthly warfare.  There are three aureoles --
+of virgins, of martyrs, of doctors and preachers.  `Virgins have
+triumphed with special glory over the flesh; martyrs, over the world,
+which persecuted them to death; preachers, over the devil, whom they
+have driven, not only from their own hearts, but also from those of
+others' (Addis and Arnold's ^Catholic Dictionary~).  The subject is
+discussed at great length in ^Summa~, ^Supp.~, q. xcvi.  Obviously the
+aureole in this sense could not be given to the souls in Venus.]  The
+idea is virtually that of Tennyson's well-known lines, except that
+Dante is thinking of a higher love:
+
+     `Love took up the harp of Life, and smote on all the chords
+          with might;
+     Smote the chord of Self, that, trembling, pass'd in music
+          out of sight.'
+                                   [^Locksley Hall.~]
+
+The music is here too: the souls flash toward Dante singing
+^Hosanna~, for love and joy cannot but fulfil themselves in
+praise.
+
+	|55-57.~  This Charles Martel is the only member of the house of
+Anjou whom Dante's soul could tolerate.  The two probably met in
+Florence on the occasion of the young king's visit in 1294, when
+he was awaiting the return of his father, who had gone to France
+to receive his three sons whom he had left as hostages in Aragon. 
+Villani tells how he came to the city `with his company of 200
+knights with golden spurs, French and Proven$cal and from the
+Kingdom, all young men, invested by the king with habits of
+scarlet and dark green, and all with saddles of one device, with
+their palfreys adorned with silver and gold, with arms quarterly,
+bearing golden lilies and surrounded by a bordure of red and
+silver, which are the arms of Hungary.  And they appeared the
+noblest and richest company a young king ever had with him.  And
+in Florence he abode more than twenty days, awaiting his father,
+King Charles, and his brothers; and the Florentines did him great
+honour, and he showed great love to the Florentines, wherefore he was
+held in high favour with them all' [^Chronicle~, viii. 13 (Miss Selfe's
+transl.)].  A warm affection sprang up between the poet ad the prince,
+to which Charles here alludes:
+
+     `Much didst thou love me, and thou hadst good cause;
+     For had I been below, I should have shown thee
+     Something beyond the leafage of my love.'
+
+His death within the year at the age of twenty-four left
+unfulfilled the great hopes Dante had formed of him, both from
+his character and from the vastness of the realms over which he
+would ultimately have reigned.  Charles goes over the count of
+them, not in pride, but to show the evils he might have prevented
+had he lived.  Through his grandmother Beatrice, he would have
+been Count of Provence (vv. 58-60).  On his father's death he
+would have succeeded to the throne of Apulia, `that horn of
+Ausonia' (ll. 61-63).  Through his mother, Mary, daughter of
+Stephen V. of Hungary, he had already been crowned king of that
+country (ll. 64-66).  Above all, had not the `evil lordship' of
+his grandfather Charles of Anjou provoked the `Sicilian vespers,'
+`beautiful Trinacria' [Trinacria is the name given to Sicily by Virgil
+(^Aen.~ iii. 384, 440, etc.) and others, from, it is said, its
+triangular shape.  When Frederick II. of Aragon wrested the island from
+Charles II. of Naples, he took the title of `King of Trinacria,' to
+distinguish his kingdom from that of the two Sicilies, Naples and
+Apulia, which remained in the hands of Charles.  Toynbee is no doubt
+right in thinking that the use of the name Trinacria here is meant to
+give an additional sting to Charles Martel's rebuke of his house for
+the misgovernment which lost the fair island to Frederick] would have
+been ruled over by his descendants, whom he significantly describes as
+`born through me from Charles and from Rudolph' (ll. 67-75).  In 1291
+Charles Martel married Clemence of Hapsburg, daughter of the Emperor
+Rudolph, in the hope, as Villani suggests [^Chron.~ vii. 55], that the
+alliance would unite the Guelph and Ghibelline factions.  The discourse
+closes with a warning to his younger brother, Robert, third son of
+Charles the Lame.  Since the poem is written from the standpoint of the
+year 1300, and Robert did not succeed till his father's death in 1309,
+the warning is prophetic.  The lawful heir to the kingdom of Naples was
+Charles Martel's son, Carobert, whom his uncle by a successful appeal
+to Pope Clement V. ousted from his rights.  In the opening of the Ninth
+Canto Dante addresses Clemence, Charles Martel's wife, and assures her
+that her and her son's wrongs will be avenged: ^how~ he is not at
+liberty to say, the spirit of her husband having bound him to silence. 
+[Robert based his claim on his father's will.  I assume that the
+Clemence here meant is the wife of Charles, and not his daughter who
+bore the same name.  To me it is inconceivable that a writer so careful
+as Dante would ever speak to a daughter of her father as `thy
+Charles.'  Dante writes from the ideal standpoint of the year 1300, and
+although Charles's wife died in 1301, we have no grounds for assuming
+that this standpoint is here abandoned.  The ^intention~ of the passage
+is to encourage the wronged family with the promise of justice on the
+usurper.  Commentators seem fairly divided between Clemence the wife
+and Clemence the daughter, but `thy Charles' seems to me quite
+decisive.]  Meantime this unscrupulous Prince -- the avaricious son of
+a liberal sire -- was preparing to ruin his realm with the horde of
+greedy Catalan adventurers whom he had gathered round him during his
+captivity in Aragon -- their rapacity, if he could but see it, only
+giving less scope for his own [vv. 76-84].  This denunciation
+may not be unconnected with the fact that Robert, as head of the
+Guelphs, was the bitter enemy of the Emperor, Henry VII., around whom
+all Dante's hopes had gathered.  It may be noted too that it was
+Robert's vicar in Florence who in 1315 renewed the sentence of death
+against Dante, extending it also to his two sons.
+
+The reference to the contrast between Robert and his
+father, Charles the Lame, suggests the question `how from sweet
+seed bitter can issue forth.'  We are somewhat surprised to hear
+Dante call Charles II. liberal.  From ^Par.~ xix. 127-129, this
+must be his one solitary virtue, for there he declares that his
+goodness is marked by an I, and his contrary qualities by an M, a
+thousand.  Liberality was one of the virtues attributed to him by
+Villani; but this one solitary goodness, according to Dante, is lacking
+in his son.  [It is strange to find liberality attributed to Charles
+the Lame in face of ^Purg.~ xx. 79-84, where he is accused of selling
+his daughter in marriage through avarice.  Villani admits that Robert
+grew avaricious in his old age, but seems to regard this as his one
+vice (^Chron.~ xii. 10).] 
+
+	|94-105.~  This problem of heredity, or rather the failure
+of heredity, has been already discussed in ^Purg.~ vii. 115-132, and
+in precisely the same connection.  In the Valley of the Princes the
+same contrast between father and son rises in Dante's mind, and he
+accounts for it by the very nature of virtue.  Virtue is a personal
+thing into which the will must go: it can be had only by claiming it
+from God.  In the passage before us, however, he traces it to the
+nature of society.  Society requires men of various gifts, and
+provision for this variety must be made somewhere in the laws of birth. 
+Charles Martel's argument is as follows.  The providence of God, like a
+well-directed arrow, never fails to strike the end it has in view.  
+
+	|122-135.~  This end is threefold: first, the individual nature of
+each thing; second, their relations to each other; and third, their
+salvation or preservation.  If this threefold end is not attained,
+nature fails: the Heavens, the Angelic intellects which work through
+them, nay, the Primal Intellect which ought to have made them perfect,
+all have failed, and produce not works of art but ruins: which is
+impossible.  Now, according to Dante's master, Aristotle, the nature
+and preservation of man imply citizenship, since, apart from the
+relations of society, the individual cannot reach his true nature and
+well-being; and citizenship implies diversity of individual powers and
+faculties [Aristotle, ^Pol.~ ii. 2: `Not only does a State consist of a
+number of individuals, but the individuals are different in kind.  It
+is impossible to form a state all the members of which are alike.'  In
+iii. 4. he says: `Since the members of the State are dissimilar, and,
+as an animal e.g. consists of soul and body, soul of reason and
+appetite, and a household of husband and wife, master and slave, so too
+a State consists of all these and of other dissimilar elements besides,
+it follows that the virtue of all the citizens can no more be one and
+the same than the virtue of a leader and a subordinate member of a
+chorus' (Welldon's transl.).  Comp. ^Conv.~ iv. 4].  Hence one is born
+Solon, a lawgiver; another Xerxes a soldier; a third, Melchizedek, a
+priest; a fourth, Daedalus, an artificer.  If no power intervened,
+these diversities would be impossible -- like would produce like in
+endless sameness.  The intervening power is `revolving Nature,' the
+stars in their courses.  The star under which a man is born sets its
+stamp upon him, according to its own virtue, and not according to the
+character or faculties of his parents: as Dante puts it, it does not
+distinguish one inn, or house, or family, from another.  This is why
+even twin-brothers differ as widely as Esau and Jacob; why Quirinus (a
+name for Romulus), whose father was utterly unknown, was attributed to
+Mars, so impossible did it seem that so great a warrior should spring
+from some obscure root.  We are reminded of the `audacious fiction'
+which Socrates in the ^Republic~ (iii. 415) proposes `to communicate
+gradually, first to the rulers, then to the soldiers, and lastly to the
+people.'  `Citizens, we shall say to them in our tale, you are
+brothers, yet God has framed you differently.  Some of you have the
+power of command, and these he has composed of gold, wherefore also
+they have the greatest honour; others of silver, to be auxiliaries;
+others again who are to be husbandmen and craftsmen he has made of
+brass and iron; and the species will generally be preserved in the
+children.  But as you are of the same original family, a golden parent
+will sometimes have a silver son, or a silver parent a golden son.  And
+God proclaims to the rulers, as a first principle, that above all they
+should watch over their offspring, and see what elements mingle in
+their nature; for if the son of a golden or silver parent has an
+admixture of brass and iron, then nature orders a transposition of
+ranks, and the eye of the ruler must not be pitiful towards his child
+because he has to descend in the scale and become a husbandman or
+artisan, just as there may be others sprung from the artisan class who
+are raised to honour, and become guardians and auxiliaries.  For an
+oracle says that when a man of brass or iron guards the State, it will
+then be destroyed.  Such is the tale; is there any possibility of
+making our citizens believe in it?' [Jowett's translation].
+
+	|137-148.~  Charles Martel ends with a `corollary,' which is
+substantially the same as Plato's conclusion in the above
+quotation, namely, that each man's function in the State should
+be determined by the faculties with which he is endowed by Nature
+-- Nature being, as just explained, the power of God which,
+working through the starry spheres, stamps each soul with a
+separate and individual quality, beyond the operation of a mere
+mechanical heredity.  He gives two examples of the confusion
+caused by the violation of Nature's intentions:
+
+     But ye to a religious order wrench aside
+     Such as was born to gird him with the sword,
+     And make a king of one who is for preaching;
+     Wherefore your track is outside of the road.'
+
+
+There is little doubt that Charles is referring to two of his own
+brothers.  Louis, the next to himself in age, almost immediately
+after his release from captivity in Aragon, renounced his hereditary
+rights, joined the Franciscan Order, and was made Bishop of Toulouse
+[Louis died in 1297, and was canonized in 1311].  This renunciation of
+the sword, for which Dante evidently thought him better fitted, gave
+the throne to his younger brother Robert, who had in him more of the
+preacher than the king.  Villani says of him: `This King Robert was the
+wisest king that had been among Christians for five hundred years, both
+in natural ability and in knowledge, being a very great master in
+theology and a consummate philosopher' [^Chronicle~, xii. 10.  Robert
+was surnamed `the Wise.'  Petrarch, who regarded him as the king of
+philosophers and poets, submitted to be examined by him for the space
+of two days and a half, in the presence of the entire Court, on every
+known branch of learning.  Gregorovius sweeps aside Robert's claims to
+wisdom with contempt: `The King enjoyed an undeserved reputation as a
+lover of learning, and was himself the author of tedious lucubrations
+on religious and profane questions.'  His character reminds us of
+James, `the British Solomon,' who held that `a sovereign ought to be
+the most learned clerk in his dominions,' and took himself seriously as
+a great theologian.  Dante probably would have agreed with Plato
+(^Rep.~ v. 473) that only philosophers should be kings, provided they
+be lovers of wisdom indeed.  In ^De Mon.~ iii. 16 he lays it down as
+the function of the Emperor `to guide mankind to happiness in this
+world, ^in accordance with the teaching of philosophy.~'  The tomb of
+Robert in Sta. Chiara, Naples, unites the secular and the religious
+vocations.  On a throne above, Robert sits as king with crown and
+sceptre and royal robes: the inscription being: ^Cernite Robertum
+Regem Virtute Refertum.~  At the foot of the pedestal he lies in the
+humble garb of a Franciscan friar, and barefooted; but even in death
+the friar retains his crown and sceptre.  See engraving in
+D'Agincourt's ^History of Art~, vol. ii., Plate xxx].
+
+The discussion provokes one inevitable criticism, that it
+explains nothing of the difficulty from which it sprang, namely,
+how a covetous son could be descended from a liberal father. 
+This is the problem of the origin of the ^moral~ differences
+between parents and children.  It is certainly no explanation of
+these to point out the source of those differences of ^natural~
+gift and ability which are necessary for the service of the
+State.  Obviously to explain how one is born a law-giver and
+another a soldier is an entirely different thing from telling us
+how a son is born with a vice from which his father is
+comparatively free.  It is the only case known to me in which
+Dante wanders into a discussion not strictly relevant to the
+point at issue.

@@ -1,0 +1,458 @@
+Traditores contra dominum suum
+
+	|1-3.~ 
+	<Vexilla regis prodenut inferni
+^verso di noi; per@o dinanci mira>,~
+^disse 'l maestro mio, <se tu 'l discerni>.~
+
+	D. in questo capitulo fa 3 cosse.  A la prima esso trata de la quarta 
+spetie di traditione, chiamata Giudeca.  A la 2a tracta e descrive la 
+forma de Lucifero.  A la 3a nomina alcuni contaminati nel dicto vicio 
+di traditione, adaptato a Iuda Scariot che trad@i Cristo, secondo che 
+scrive lo ^Evangelio~.  E comenza D. da quello che si scrive quando 
+Cristo and@o a lo 'nferno, col segno triumfale e col vexillo in mano, a 
+caciar le anime de li beati da l'inferno: e per@o dice che ^VEXILLA 
+REGIS INFERNI PRODEUNT~, ^idest~ ^apparent~, ^VERSO DE NOI~, ^idest~ 
+verso V. e verso D.
+
+	|4-9.~ 
+	^Come quando una grossa nebia spira,~
+^o quando lo emisperio nostro anotta,~
+^par da lungi un molin ca 'l vento gira,~
+^	veder mi parve un tal defitio alotta;~
+^ma per lo vento mi ristrinsi retro~
+^al duca mio, ch@e non l@i era grotta.~
+
+	Qui D. fa una comparatione che esso vedea li vexilli, ^idest~ li 
+segnali, a modo che quando ^SPIRA~, ^idest~ se disippa una grossa 
+nebia, o quando anocta questo nostro ^EMISPERIO~, ^idest~ questa parte 
+dove noi abitemo, che non p@o parere chiaro a la vista nostra: a quella 
+ora pare che sia da lungi un molino lo quale lo vento lo gira.  ^VEDER 
+MI PARVE ETC.~, ^idest~ al modo nanti dicto.  ^MA PER LO VENTO ETC.~  
+Ed @e chiaro.
+
+	|10-12.~ 
+	^Gi@a era, e con paura il meto in metro,~
+^l@a dove l'ombre tute eran coperte,~
+^e trasparian come fistuca in vetro.~
+
+	Io intendo questo passo coss@i: che D. dica che esso era l@a ove le 
+ombre eran coperte e trasparien a modo de paglia posta nel vetro: e 
+per@o esso cum pagura lo mete in questi metri de questa soa opera.  E 
+questa @e vera.
+
+	|13-15.~ 
+	^Altre sono a giacere; altre stano erte,~
+^quella col capo e quella con le piante;~
+^altra, com'arco, el volto a piedi inverte.~
+
+	D. in questa parte fa una distinctione de queste anime che vide: che 
+alcune de loro ^STANO A GIACERE~ in questo giacio, altre stano drite, 
+^QUELA COL CAPO~, ^idest~ che tene el capo per contrario, ^idest~ de 
+soto, e l'altra ^CON LE PIANTE~, e l'altra con le piante che tenea 
+voltate al capo in arco.
+
+	|13-21.~ 
+	^Quando noi fumo fatti tant'avante,~
+^ch'al mio maestro piaque di mostrarmi~
+^la creatura ch'ebbe il bel sembiante,~
+^	d'inanci mi si tolse e f@e restarmi,~
+^<Eco Dite>, dicendo, <ed eco il loco~
+^ove convien che di forteza t'armi>.~
+
+	Qui dice D. Como V. si li tolse denanti e lo f@e restare dicendo: ^ECO 
+DITE~, ^idest~ quela cit@a la qual contene Lucifero, la quale li poeti 
+chiamano Dite, s@i como ti contai capitulo VIII; ^ECO IL LOCO 
+\<ETC.\>~, ^idest~ te armi de forteza d'animo che @e contra la pagura.
+
+	|22-24.~ 
+	^Com'io divenni allor gelato e fioco,~
+^nol dimandar, lector, ch'i' nol scrivo,~
+^per@o ch'ogni parlar sarebbe poco.~
+
+	Qui D. dice che esso divent@o ^GELATO E FIOCO~ per modo che non se 
+potrebbe contare.
+
+	|25-27.~ 
+	^Io non mori' e non rimasi vivo;~
+^pensa omai per te, s'hai fior d'ingegno,~
+^qual io divenni, d'uno e d'altro privo.~
+
+	Questo vol dir che esso sincopiz@o, ^idest~ afrevolio, per@o che, 
+quando omo pate questa passione, esso non @e morto n@e vivo.
+
+	|28-33.~ 
+	^L'imperator del doloroso regno~
+^da mezo 'l petto uscia fuora de la ghiacia;~
+^e pi@u con un gigante mi convegno,~
+^	che ' giganti non fan con le sue bracia:~
+^vedi ogimai quant'esser dee quel tutto~
+^ch'a coss@i fata parte si confacia.~
+
+	Qui dice che ^L'IMPERATOR~, ^idest~ Lucifer, ^DA MEZO IL PETTO USCIA 
+FOR DE LA GIACIA~, e pi@u che non era un gigante, tanto quanto se 'l 
+gigante avesse alzate le bracia, tanto era pi@u: vedi or tu quanto vol 
+esser lo resto che si confacia a questa parte.
+
+	|34-36.~ 
+	^S'el fo s@i bello com'elli @e ora brutto,~
+^e contra 'l so fattor alz@o le ciglia,~
+^ben dee da lui proceder ogni lutto.~
+
+	Questa @e la 2a parte del capitulo, dicendo D. che, se Lucifer fo 
+coss@i bello como era bruto, ^BEN DEE DA LUI~, ^idest~ da Lucifer, 
+^PROCEDER OGNI LUCTO~, ^idest~ pianto per@o che volse la facia a Dio.
+
+	|37-42.~ 
+	^Oh quanto parve a me gran maraviglia~
+^quand'io vidi tre faze a la sua testa!~
+^L'una dinanci, e quel'era vermiglia;~
+^	l'altr'eran due, che s'agiungeno a questa~
+^sovr'esso mezo di ciascuna spalla,~
+^e s@e giongeno al luoco de la cresta.~
+
+	Qui descrive como esso vide lo dicto Lucifer con tre teste: l'una 
+denanti vermiglia, e ^LE ALTRE ERAN DOE, CHE SE AGIONGEVANO A QUESTA~ 
+testa nel mezo di ciascuna spalla, e agiongiansi infin a la cresta del 
+capo.
+
+	|43-45.~ 
+	^E la destra parea tra bianca e gialla;~
+^la sinistra a veder era tal, quali~
+^vegnon di l@a onde 'l Nilo s'avalla.~
+
+	Qui dice che ^LA DESTRA~ testa ^PAREA~ de color ^TRA BIANCA E GIALLA~, 
+e la sinistra era da vedere tal, quale ^VENGON DI L@A ONDE 'L NILO SE 
+AVALLA~: questa testa era negra a modo de li omini de Etiopia, ove 
+avalla el Nilo.
+
+	|46-48.~ 
+	^Sotto ciascuna uscivan doe grand'ali,~
+^quanto se convenia a tanto ucello:~
+^velle di mare non vid'io cotali.~
+
+	Qui dice D. che ciascuna testa avea doe grandi alli, tanto quanto se 
+convenne \<etc.\>; e fa comparatione de le vele de mare, ed @e chiaro.
+
+	|49-54.~ 
+	^Non avean penne, ma di vispistrello~
+^era lor modo; e quelle svollatava,~
+^s@i che tre venti se movean da ello:~
+^	quindi Cocito tuto s'agelava.~
+^Con sei ochi piangea, e per tre menti~
+^gociava il pianto e sanguinosa bava.~
+
+	Qui dice che le dicte ale avean pene ^DI VISPRISTELLO~, ^idest~ 
+sportegione; ^E QUELLE SVOLATAVA, S@I CHE TRE VENTI SE MOVEAN DA ELLO~ 
+per lo moto de queste sei ale.  ^QUINDI~, ^idest~ per questo vento se 
+agelava Cocito.  ^PER SEI OCHI PIANGEA~, ^idest~ in ciascuno capo doi 
+ochi, ^E PER TRE MENTI~, ^idest~ barbe e labia, gitava bave di sangue.
+
+	|55-57.~ 
+	^Da ogni boca dirompea coi denti~
+^un pecator, a guisa di maciulla,~
+^s@i che tre ne facea coss@i dolenti.~
+
+	Qui fa comparatione de quello instrumento col qual se bate el lino o 
+il canepo chiamato ^MACIULLA~, che non taglia, ma dirompe.  E lo 
+precedente @e chiaro.
+
+	|58-60.~ 
+	^A quel dinanci il mordere era nulla~
+^verso 'l graffiar, che talvolta la schiena~
+^rimanea de la pelle tuta brulla.~
+
+	Qui dice che al primo il mordere de l'una de le boche de Lucifero era 
+niente ^VERSO EL GRAFFIARE~, che talvolta la schena rimanea ^BRULLA~, 
+^idest~ scoperta de la pelle.
+
+	|61-63.~ 
+	^<Quel'anima l@a s@u c'ha magior pena>,~
+^disse 'l maestro, <@e Iuda Scariotto,~
+^che 'l capo ha dentro e fuor le gambe mena>.~
+
+	Questa @e la 3a parte, ove V. dice a D. che questo @e Iuda Scariot che 
+^FUORA~ ha le gambe, ^idest~ da la gelata de Lucifero, e dentro ha il 
+Capo e l'altro rimanente.  La istoria de Giuda assai @e nota.
+
+	|64-69.~ 
+	^De li altri due c'hanno el capo di sotto,~
+^quel che pende dal nero ceffo @e Brutto:~
+^vedi come si torce, e non fa motto!;~
+^	l'altro @e Cassio, che par s@i membrutto.~
+^Ma la notte risurge, e oramai~
+^@e da partir, ch@e tuto avem vidutto.~
+
+	Convene ch'io te diche la istoria de Cassio e di Brutto, per che D. li 
+introduce qui.  Cassio e Bruto foron con l'altri conspirati contra 
+Iullio Cessare; li quali con li stili d'argento de' lor pugilari 
+occisero a tradimento lo dicto Iullio Cesare.  E cos@i dice Eusebio ^in 
+quadam Cronica~: <Cum Cesar a Cimbro per fimbrias teneretur, dixit: 
+"Ista quidem vix est!".  Cassius vero per ensem etc.\>.
+
+	|70-75.~ 
+	^Come a lui piaque, il collo li avinchiai:~
+^ed el prese di tempo e logo e poste,~
+^e quando l'ali furon aperte assai,~
+^	apilli@o s@e alle vellute coste;~
+^di velo in velo gi@u discese poscia~
+^tra 'l folto pello e le gelate croste.~
+
+	Qui dice D. che esso pigli@o el collo a V. ed elli, ^idest~ V., ^PRESE 
+EL TEMPO E LOCO E POSTE, E QUANDO LE ALI~ de Luciffero ^FURON APERTE 
+ASSAI~, esso se apigli@o ^A LE VELLUTE COSTE~, ^idest~ piene de lanagio 
+o de peli.  ^DI VELO IN VELLO~, ^idest~ da cierro in cierro, ^GI@U 
+DISCESE TRA 'L FOLTO PELO E LE GELATE CROSTE~ de Luciffero.
+
+	|76-81.~ 
+	^Quando noi fumo l@a dove la coscia~
+^si volge, a punto in sul grosso de l'anche,~
+^lo duca, con fatica e con angoscia,~
+^	volsce la testa ov'elli avea le zanche,~
+^e agrappossi al pel com'om che salle,~
+^s@i che 'n inferno io credea tornar anche.~
+
+	Qui dice che, quando furon lui e V. ^IN SUL GROSSO DE L'ANCHE, LO DUCA 
+ETC.~  E questo @e vero, per@o che questo Lucifero da la mit@a stava 
+soto l'uno emisperio, da l'altra mit@a sopra: per@o convenia che, 
+discendendo da la mit@a da l'uno \<a l'altro\>, a l'altra mit@a si 
+sagliea, considerando el centro de la terra, s@i che D. credea tornar 
+in inferno.
+
+	|82-84.~ 
+	^<Atienti ben, ch@e per cotali scalle>,~
+^disse 'l maestro, ansando com'om lasso,~
+^<conviensi dipartir da tanto malle>.~
+
+	Or mostra chiaro como, montando per li peli del dicto Lucifero, essi 
+uscian dal ponto ove @e il mezo, lo core de la terra nel qual @e 
+l'inferno: e per@o se dice inferno, per@o che @e la pi@u infima parte 
+de la terra.  E vegnono a l'altro emisperio.
+
+	|85-87.~ 
+	^Poi usc@i fuori per lo f@oro d'un sasso~
+^e puosemi in su l'orlo a sedere;~
+^appresso porse a me l'acorto passo.~
+
+	Questo @e chiaro.  ^FORO~, ^idest~ pertuso.
+
+	|88-96.~ 
+	^Io levai li ochi e credeva vedere~
+^Lucifero com'io l'avea lassato,~
+^e vidili le gambe in s@u tenere;~
+^	e s'io divenni allora travagliato,~
+^la gente grossa el pensi, che nol vede~
+^qual @e quel punto ch'io avea lassato.~
+^	<L@evati s@u>, disse 'l maestro, <in pede:~
+^la via @e longa ed @e il camin malvagio,~
+^e gi@a il sole a meza terza riede>.~
+
+	Questo @e chiaro.
+
+	|97-99.~ 
+	^Non era caminata di pallagio~
+^l@a ove eravam, ma natural burella~
+^ch'avea mal suolo e di lume disagio.~
+
+	Qui D. descrive questa via e questo loco, ed @e chiaro.
+
+	|100-102.~ 
+	^<Prima ch'io de l'abisso mi divella,~
+^maestro mio>, diss'io quand'io fu' dritto,~
+^<a trarmi d'error un poco mi favella>.~
+
+	Qui dice D. a V.: <Prima ch'io ^MI DIVELLA~, ^idest~ parta, ^A TRARMI 
+D'ERROR~, un poco mi parla>.
+
+	|103-105.~ 
+	^Ov'@e la ghiacia? e questi com'@e fitto~
+^s@i sotosopra? e come, in s@i poc'ora,~
+^da sera a mane ha fatto il s@ol tragitto?~
+
+	Qui D. fa doi domande a V., le quale sono chiare domande.  E poi 
+subgionge un'altra: ^COMO, IN S@I POCA ORA~, da mane a sera ^HA FATTO 
+EL S@OL~, ^idest~ la terra, ^TRAGITTO~, ^idest~ che ha mutato: questo 
+che stava di sotto ora sta di sopra.  Ed @e nostro vocabulo <tragitare>.
+
+	|106-108.~ 
+	^Ed elli a me: <Tu imagini ancora~
+^d'esser di l@a dal centro, ov'io mi presi~
+^al pel del vermo reo che 'l mondo fora>.~
+
+	V. responde a D.: ^TU, D., IMAGINI ANCORA DE ESSER DE L@A DAL CENTRO~, 
+^idest~ dal punto in mezo, ^OV'IO MI PRESI~ a Lucifero, il qual percia 
+el mondo.
+
+	|109-111.~ 
+	^Di l@a fosti cotanto quant'io scesi;~
+^quand'io mi volsci, tu pasasti 'l ponto~
+^al qual si tragon d'ogni parte i pesi.~
+
+	Ancora V. sotogionge: <Tu, D., ^DI L@A~, ^idest~ dal centro, fosti 
+tanto ^QUANTO IO SCESI; QUAND'IO MI VOLSI, TU PASSASTI EL PONTO, AL 
+QUAL~ ponto ^SI TRAGON~ li pesi da ogni parte>.  Questo vol dir che, se 
+una pietra fosse gitata da questa parte del nostro emisperio al 
+profondo de la terra, essa pietra non poria passare el punto de mezo de 
+la terra, per@o che equalmente repondeno l@i tuti li pesi.  E l@i fo 
+situato l'inferno e quella parte ove se punisse l'ultimo pecato e il 
+pi@u grave con pena equal: e 'l pecato e ogni cossa grave tende per 
+equal linea.
+
+	|112-117.~ 
+	^E se' or sotto l'emisperio giunto~
+^ch'@e opposto a quel che la gran seca~
+^coverchia, e sotto 'l cui colmo consunto~
+^	fu l'om che nacque e vixe senza peca;~
+^tu hai i pedi in su piciola spera~
+^che l'altra facia fa de la Giudeca.~
+
+	Qui dice ancora V. a D. como esso @e gionto ^SOTO LO EMISPERIO~, 
+^idest~ australe, ^SOTO 'L CUI COLMO~, ^idest~ monte e altitudine, fu 
+^CONSUMPTO~, ^idest~ morto fu, ^L'OMO \<CHE\> NAQUE E VIXE SENZA PECA~: 
+@e questo Ies@u Cristo signor nostro, e questo colmo fu il monte Sion; 
+il qual @e opposito a l'altro emisperio in che @e Ierusalem.  E D. @e 
+mo venuto a l'altro emisperio, ove @e il monte del purgatorio.  E poi 
+li dice como esso D. ha li pedi ^IN SU PICOLA SPERA CHE L'ALTRA FACIA~, 
+^idest~ de l'emisperio, @e ^DE LA GIUDECA~, ^idest~ onde se punisse 
+Iuda.
+
+	|118-120.~ 
+	^Qui @e da mane, quando di l@a @e sera;~
+^e questi, che ne f@e scalla col pelo,~
+^fitto @e ancora s@i come prim'era.~
+
+	Ancor sotogionge V. a D. como ^QUI~, ^idest~ in quello emisperio ove 
+@e D. e lui, @e da matina ^QUANDO DI L@A~, ^idest~ a questo nostro 
+emisperio onde venne D. e lui, ^@E SERA.  E QUESTI~, ^idest~ Lucifero 
+@e ancora ficto ne la giacia s@i ^COMO PRIM'ERA~.
+
+	|121-126.~ 
+	^Da questa parte cadde gi@u dal cielo;~
+^e la terra, che pria di qua si sporse,~
+^per paura di lui f@e dil mar velo,~
+^	e venne a l'emisperio nostro; e forse~
+^per fugir lui lassi@o qui luogo v@oto~
+^quella ch'apar di qua, e s@u ricorse.~
+
+	Qui dice ancora como ^DA QUESTA PARTE~, ^idest~ da quelo loco ove era 
+lui e D., cadde il dicto Lucifero dal cielo -- ^idest~ quando disse: 
+<Ponam sedem meam ab aquilone et ero simillis Altissimo> --, ^E LA 
+TERRA CHE PRIA ETC.~, ^idest~ che, per lo penetrare che fece Lucifer, 
+convenne che lo soperchio de quella terra onde per forza pass@o avesse 
+qualche loco.
+	E dice che, per la pagura del dicto Lucifero, se misse el mare 
+denanti, facendo velo de quello, ^E VENNE A L'EMISPERIO NOSTRO; E 
+FORSE~ -- qui V. non asertivamente determina, dicendo <forse> --^PER 
+FUGIRE... QUI IL LOCO VOTO~; e ^QUELLA CHE APARE DI QUA IN S@U 
+RICORSE~, ^idest~ torna in su de questo emisperio nostro.
+
+	|127-132.~ 
+	^Luogo e l@a gi@u da Belzeb@u rimoto~
+^tanto quanto la tomba si distende,~
+^che non per vista, ma per suono @e noto~
+^	d'un ruscelletto che quivi discende~
+^per la buca d'un sasso, ch'elli ha roso,~
+^col corso ch'elli avolge, e poco pende.~
+
+	V. ancora mostra a D. como essi venero in questo emisperio, e dice che 
+^LOCO @E L@A GI@U~, ^idest~ ne l'abisso, remoto da Belzab@u: questo non 
+@e loco de inferno, e per@o dice <rimoto da Belzab@ut>, per@o ch'@e un 
+diavolo che se chiama Belzab@u in Sacra Scriptura, che se interpetra 
+<vir muscarum>.
+	^TANTO QUANTO LA TOMBA~, ^idest~ la c\<a\>duta sotosopra, la qual se 
+chiama <tomba>, andando col capo in giuso, ^SE DESTENDE~, ^idest~ 
+infine a quello mezo ponto ove rimase coss@i ficto.  Il qual logo non 
+@e noto per vista, ma per lo sono de un rusceleto che discende quivi 
+^PER LA BUCA~, ^idest~ per la fixura, ^DE UN SASSO~, ^idest~ de una 
+pietra, la qual ha rosa, ^idest~ rosicata, ^COL CORSO CH'ELLI~, ^idest~ 
+lo ruscello, ^AVOLGE~, ^idest~ porta, ^E POCO PENDE~, e per@o non corre 
+forte.
+
+	|133-139.~ 
+	^Lo duca e io per quel camin ascoso~
+^intramo a ritornar nel chiaro mondo;~
+^e senza cura aver d'alcun riposo,~
+^	sallimo s@u, el primo e io sicondo,~
+^tanto ch'io vidi de le cosse belle~
+^che porta 'l ciel, per un pertugio tondo.~
+^	E quindi uscimmo a riveder le stelle.~
+
+	Qui D. dice como V. e lui uscirono ^A RIVEDERE LE STELLE~: e questo @e 
+che venne da la cognitione de la selva de li vitii al monte del 
+purgatorio, ^idest~ a via de pentimento.
+	Or convene ch'io dechiare la intentione de D. soto el senso alegorico, 
+da poi ch'io te ho exposto soto lo senso literale.  E diciamo de 
+Lucifero.  Per@o che D. lo dimostra star soto sopra, dico che fa questo 
+per dimostrar la sua innata superbia, s@i como dice el testo de Isaia: 
+<Quomodo cecidisti, Lucifer et in infernum deduceris in profundum?>.  E 
+perch@e ha 3 faze, intendi che esso tempt@o de essere simille a Dio: in 
+potentia como a Patre, in sapientia como a Figlio, in amore como al 
+Spirito Sancto.  E in tre contrari @e caduto: ^idest~ in impoter, odio 
+e ignorantia, ^idest~ per li trei colore.  Qu\<e\>ste sei alle de 
+spiritello denotano che esso fo de l'ordine de' Serafini, li quali se 
+figurano con sei ale.  E per@o che lo vispristello, overo spiritello, 
+@e animale odiato e nocturno, orribile al viso, esso gli figura le ali 
+a quelo modo, como lo pi@u dispetto e abominato.  Questi venti de 
+queste ali denotano li moti tentativi del diavolo, li quali extingono 
+con lor vento e lor freddo lo calor caritativo in li omini e conduceli 
+a far queste traditione per fredeza e crudelit@a de animo.
+	Ma, perch@e possi pi@u chiaro intendere, questa salita de V. e de D. 
+\<@e\> dal punto el qual @e in mezo de li doi emisperi, ove finge 
+Lucifero stare ficato da la mitate in s@u, per@o che esso cadde dal 
+cielo col capo sotto, e cade ne lo emisperio dove noi stammo situati; 
+onde intr@o V. e D. discendendo sempremai da circulo in circulo e da 
+boglia in boglia infin al solo del grande pozo, ove finge trovare lo 
+dicto Luciffero.  Dice che la terra, la qual era l@a ove @e la 
+concavit@a de l'inferno, si ritrasse e situosse sotto el dicto nostro 
+emisperio; e fu grande e seca.  Questa @e quella terra la qual @e 
+rimota dal mare, la qual non @e abitata tuta: e per@o dice che essa 
+fece velo del mare, ^idest~ intrapose el mare intra s@e e Lucifero.  E 
+secondo lo ^Speculatore de astrologia~ @e la decima parte de la terra, 
+de la qual decima parte non se abita si non la quarta parte, e questa 
+dice D. <la gran seca>.
+	E ancora dice che quella parte de la terra che @e di soto al nostro 
+emisperio, ^idest~ a l'altro, ove finge esser il monte del purgatorio, 
+fugio per la pagura como l'altra di qua.  E de questa minor parte de 
+l'inferno, la qual dice rimota da Belzab@u, ^idest~ dal grande demonio, 
+e ne la picola spera, ^idest~ picol circulo oposto a Iuda, ^idest~ al 
+ponto ove se martira Iuda, la qual minor parte dice che @e tanto rimota 
+quanto si stende la tomba, ^idest~ la caduta de Lucifer.
+	E finge che da un ruscello che discende da l@a ove era V. e lui, <per 
+la boca>, ^idest~ per lo pertuso d'un saxo, il qual ha roso lo dicto 
+rusceleto, col corso el qual avolge, e pende poco, esso venne, cum V. 
+primo ed esso sicondo, tanto che passaron a l'altro emisperio a riveder 
+le stelle.  E per@o dice V.: <His demum exactis, perfecto munere dive, 
+/ devenere locos letos etc.>.
+	Ma perch@e tu vedi pienamente ci@o che D. figuratamente dice in questo 
+passo quando disse: <Da questa parte cadde gi@o dal cielo / e la terra 
+che pria di qua si porse / per pagura de lui f@e del mar velo>, qui D. 
+spiritualmente vol tanto dire che, del caso de Lucifero, non solo ne 
+debono avere pagura li omini, li quali sono animati de anime 
+intellective, ma D. finge che la terra la qual ^SI SPORSE~, ^idest~ 
+tolse, pria, per pagura del dicto Lucifero -- tanto era fatto diforme, 
+impio e reo che, segondo che esso fo bello divent@o laido, secondo che 
+esso fo bono divent@o malvaso, secondo che esso fo alto divent@o basso 
+e vile -- dal dicto emisperio e f@e velo del mare, ^idest~ intrapose il 
+mare intra lei e il dicto Luciffero, e venne al nostro emisperio, 
+^idest~ in questa parte di qua ove noi abitamo.
+	E forsi per fugire nel dicto emisperio nostro, ^LASS@O QUI~, ^idest~ 
+in quello emisperio ove era D. cum V., ^IL LOCO VOTO.  QUELLA CHE 
+APPARE DI QUA~, ^idest~ dal nostro emisperio, ^RICORSE IN S@U~, ^idest~ 
+che se fece montagne altissime.  E coss@i finge D. qui questo pertuso.
+	E V. e lui usciron per quello e tornoron ^A RIVEDER LE STELLE~ a 
+l'altro emisperio: e questo intendi che esso, con la ragione umana, 
+usc@i de la selva de li vitii, la qual @e tenebrosa, e per la gratia de 
+Dio torn@o a la illuminatione intelectuale a riveder le stelle, ^idest~ 
+le virtude, s@i como te figurar@a al primo capitulo del ^Purgatorio~, 
+metendo s@e essere passato a l'altro emisperio.  E vidde le stelle, le 
+quale esso figura per le quatro virt@u morale, ^idest~ iusti\<ti\>a, 
+forteza, prudentia e temperanza.  E coss@i se deve intendere: che per 
+la ragione umana, la qual esso figura in V., pervenne a cognitione de 
+le quatro virtute, le quale esso figura in Catone.  E per le dicte 
+quatro virt@u pervenne a cognitione de le tre teologiche.  Le qual 
+quatro morale e tre teologiche esso figura a la sacra teologia e 
+chiamela Beatrice, a figura de quella dopna fiorentina di casa de' 
+Portanari, s@i como te dissi capitulo II: s@i che qui non @e da 
+intendere si non per modo alegorico.
+	E questo basti per la prima parte de la ^Comedia~ de Dante Alligieri 
+di Fiorenza chiamata ^Inferno~.

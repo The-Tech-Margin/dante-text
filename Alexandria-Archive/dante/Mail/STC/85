@@ -1,0 +1,90 @@
+Return-Path: makedon@tenaya.cs.dartmouth.edu
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id QAA21173 for <steve@avalon.dartmouth.edu>; Wed, 2 Oct 1996 16:45:36 -0400
+From: makedon@tenaya.cs.dartmouth.edu
+Received: from tenaya.cs.dartmouth.edu (tenaya.cs.dartmouth.edu [129.170.200.32]) by dartvax.dartmouth.edu (8.7.6+DND/8.7.3) with ESMTP id QAA16866; Wed, 2 Oct 1996 16:45:09 -0400 (EDT)
+Received: by tenaya.cs.dartmouth.edu (8.7.5/4.2)
+	id QAA31289; Wed, 2 Oct 1996 16:45:05 -0400 (EDT)
+Message-Id: <199610022045.QAA31289@tenaya.cs.dartmouth.edu>
+Subject: Website development/Dante
+To: bohh@phoenix.princeton.edu
+Date: Wed, 2 Oct 1996 16:45:04 -0400 (EDT)
+Cc: steve.campbell@Dartmouth.EDU, cowen@cs.dartmouth.edu (owen),
+        makedon@tenaya.cs.dartmouth.edu (Fillia Makedon),
+        Otmar.K.E.Foelsche@Dartmouth.EDU (Otmar K. E. Foelsche)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+Dear Professor Hollander,
+
+
+In looking for the right person to contact about the 
+Dante materials, I was directed to you by several sources,
+including Steve Campbell and Otmar Foelsche.  I was told that you 
+are the PI of this project.  It is a pleasure to make
+this electronic acquaintance with you.
+
+I am a faculty in the computer science department at Dartmouth and 
+director of a computational multimedia laboratory called the DEVLAB.
+For a year now we have been involved in humanities-related projects
+with the Foundation of the Hellenic World, primarily building 
+tools for efficient website development, as well as building 
+websites.  We also research image analysis techniques, compression
+techniques for multimedia data, data access, copyright issues, 
+and other more fundamental computer science tools.
+
+The reason I  am sending you this note is because we have recently
+developed a new system called ASML, which is basically a set of routines
+extending the power of HTML and making it easier for the humanities to 
+author on the web, search, compose, etc We would like to experiment 
+and extend ASML using as content the Dante materials.  We envision 
+adding images (covers of texts), audio clips (commentaries) video 
+clips (from lectures), slides or graphics or maps that relate to 
+the time and place of the commentators or the author.
+I understand that you are also interested in something similar.
+The opportunity of a small internal Dartmouth Grant would give us
+the possibility to start using ASML on the Dante materials that 
+have been digitized and are online but not on the web.
+Dartmouth just announced the annual Hewlett Foundation grant
+(modest, $15K/yr, max 2 yrs)  My idea is that if we do this
+together, then we have the chance and track record to apply in 
+a year for a large NEH grant ($250K for 3 yrs) jointly with 
+Princeton.  My lab has all the facilities to do this, a server,
+and all the expertise to do the initial phase. We would work 
+together with Kiewit (Campbell) and perhaps with Humanities 
+Computing (Foelsche) to make it available to courses.  We do 
+lack domain expertise but I understand that perhaps Professor 
+Walter Stephens may assist us here.
+
+The ASML system ( http://devlab.cs.dartmouth.edu/asml/)
+was developed (primarily by Charles Owen, one of my students)
+as a result of a grant with the Foundation of the Hellenic World
+and working with the Classics department at Dartmouth: we worked with 
+Professor Jeremy Rutter and built a website on the Ancient Bronze age
+of Greece, including about 500 images.  The site is about to be "stitched
+together" and has interactive features, search abilities, etc.
+
+We have developed some powerful tools for multimedia authoring 
+on the web particularly attractive to persons in the humanities.
+(please see http://devlab.dartmouth.edu/lab) for projects of my
+laboratory.
+
+
+I look forward to the opportunity to talk to you onthe phone.
+I can be reached at 603-646-3048 during early afternoons.
+My home phone is 603-643-6345.
+
+Sincerely,
+
+Fillia Makedon
+
+****************************************
+Fillia Makedon
+Associate Professor of Computer Science
+Director of the Dartmouth Experimental Visualization Laboratory (DEVLAB)
+Director of the Dartmouth Institute for Advanced Graduate Studies
+
+Dartmouth College, Hanover, NH 03755
+(603) 646-3048
+email: makedon@cs.dartmouth.edu

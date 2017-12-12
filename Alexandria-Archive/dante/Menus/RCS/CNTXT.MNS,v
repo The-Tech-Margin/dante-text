@@ -1,0 +1,156 @@
+head     1.2;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.2
+date     89.12.13.11.12.34;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     89.05.02.21.50.00;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@DDP context display menu.  Custom menu by JMA to show hits in
+OUR context, which is BRS' printclose format
+@
+
+
+1.2
+log
+@This version does not handle full display documents gracefully.  The
+version which supercedes it does.  Other than that it works OK.
+@
+text
+@{CNTXT}
+
+;This is a special menu for displaying hits in context.  Written by
+; JMA 2/1/89 using BRS' example on how to imitate the native ..pc
+; command from within MNS as a starting kernel
+;	MODIFICATION HISTORY
+;	5/4/89 JMA fixed to handle complex searches (where hits occur
+;		in both text and bibliographic fields in each document
+;		so that only the textual hit appears.  Thanks to Andy
+;		Chillrud at BRS for the help.
+
+:REQUEST ~XG16~   ; turns off display of subpara #'s
+:REQUEST ~XG1~    ; turns off display of paragraph names
+:REQUEST ~X16-~   ; turns off display of document #
+		  ; This is sloppy programming-we should remember the old
+		  ; values, but this is a difficult task.  Actually, it
+		  ; might be just as efficient to SET the values as I did
+		  ; here as a permanent matter, since what they tag is
+		  ; unnecessary in our db.
+		  ; actually-this NEEDS to be moved to GETPD.MNS just before
+		  ; the jump to this menu
+:COMPARE @@PSTAT
+     TO "OCCURRENCE"
+	:REQUEST ~TON,1~ ;1=#sentences.  We can increase later
+	:COMPARE #LEFTOVER
+	     TO "0*"
+		:REQUEST ~TD~ USING @@DOC
+		:SET @@PSTAT ~PRINT~
+	     TO "5*"
+		:SET @@PSTAT ~DOCUMENT~
+	:DONE
+
+     TO "DOCUMENT"
+	:REQUEST ~TDN~
+	:COMPARE #LEFTOVER
+	     TO "0*"
+	  	:SET @@PSTAT ~PRINT~
+		:REQUEST ~TD~ USING @@DOC
+		:PARSE @@DOC EXTRACTING @@SELECTION
+	:DONE
+
+     TO "PRINT"
+	:PRINT ~\c~
+	:BRS PRINT PARAGRAPHS ~@@PARS~ DOCUMENT ~@@DOC~
+	:BRS PRINT 
+	:BRS PRINT PARAGRAPHS ~TEXT~ DOCUMENT ~@@DOC~
+	:SEND ~L1~  ;it seems that the #sentences could be put in
+	    	;in a user variable which the user then could set.
+	    	;This is a feature to add later
+	:SHOW
+	:SET @@P1 ~Enter document number (max is #DO), \o2S\f2earch ~
+	:SET @@M1 ~Next occurrence~ 
+	:COMPARE @@DOC
+	     TO "#DO"
+		:SET @@P1 ~\02No more documents\f2~
+		:SET @@M1 ~Search~
+	:DONE ; again, sloppy fall-through programming
+	:SET @@PSTAT ~DOPROMPT~
+
+     TO "DOPROMPT"
+	:GET @@SELECTION PROMPT ~@@P1 [@@M1]: ~ "F|f|S|s|1-#DOC|" BOTTOM
+	:COMPARE @@SELECTION
+	     TO ""
+		:COMPARE @@M1
+		     TO "Search"
+			:SET @@SELECTION ~S~
+		:DONE
+		:SET @@PSTAT ~OCCURRENCE~	;this is the nastiest fall 
+						;through programming I've 
+						;ever seen
+	     TO "S|s"
+		:SET @@SELECTION ~~
+		:REQUEST ~XG128~   ; these three requests reset the changes
+		:REQUEST ~XG4~    ; made on entering the menu.  It would be
+		:REQUEST ~X16+~   ; better form to save the old values when
+				  ; when we entered, and restore them here,
+				  ; but this would be much harder and so is
+				  ; left for later
+		:MENU ~GSRCH_~
+	     TO "F|f"
+		:REQUEST ~FF,#CP_DANT.fmt~
+		:PRINT ~\c~
+		:BRS PRINT PARAGRAPHS ~@@PARS~ DOCUMENT ~@@DOC~
+		:BRS PRINT 
+		:REQUEST ~FF,#CP_DNTE.fmt~
+		:SET @@PSTAT ~DOPROMPT~
+	     TO "1-#DOCS"
+		:REQUEST ~TD,@@SELECTION~
+		:PARSE #LEFTOVER EXTRACTING @@SELECTION
+		:SET @@DOC ~#LEFTOVER~
+		:SET @@PSTAT ~PRINT~
+		:SET @@SELECTION ~~
+	:DONE
+
+:DONE
+:MENU
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d6 5
+d44 8
+a51 14
+	:BRS PRINT DOCUMENT ~@@DOC~
+	:REQUEST ~HS,%ld%d%4s%s%d%d~ USING @@PSTAT
+	:COMPARE @@PSTAT
+	     TO "*TEXT*|*BTXT*"
+		:BRS PRINT
+		:SEND ~L1~  ;it seems that the #sentences could be put in
+		    	;in a user variable which the user then could set.
+		    	;This is a feature to add later
+		:SHOW
+		:SET @@PSTAT ~IT~	; this is a BAD hack but it's the
+	     TO "3-:"		; only way to get MNS to skip the next
+					; condition reliably
+	:DONE
+	:SET @@P1 ~Enter document number(max is #DO), \02S\f2earch ~
+d61 1
+a61 1
+	:GET @@SELECTION PROMPT ~@@P1 [@@M1]:~ "|S|s|1-#DOC|" BOTTOM
+d80 7
+@

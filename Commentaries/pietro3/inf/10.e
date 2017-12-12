@@ -1,0 +1,116 @@
+	|79-81.  Ora sen va per un secreto calle~ {v. 1}.  Continuato hoc decimo capitulo cum fine
+precedentis auctor fingit se invenire inter dictos hereticos mortuos in errore dicti Epicuri phylosophi
+discipuli Socratis, scilicet quod anima simul cum corpore moriatur, umbram domini Farinate de Ubertis
+de Florentia et umbram domini Cavalcantis de Cavalcantibus de dicta terra, patris Guidonis, viri
+acutissimi ingenii et comitis contemporanei huius auctoris qui, quamvis fuerit magnus rimator in materno
+stilo, nullatenus tamen delectabatur in poesia, sed potius in phylosophia, ut colligitur hic in textu in eo
+quod dicit sibi auctor quod dedignatus fuerat studere super Virgilio, inducendo inde auctor umbram
+domini Farinate ad prenuntiandum sibi quomodo ante quinquaginta menses exulabit de dicta civitate
+Florentie per illa verba quod facies domine regentis ibi quinquaginta vicibus non erit reaccensa etc.,
+idest facies lune in quantum pro Proserpina poetice summitur.  Unde Ovidius, de ipsa luna loquens, ait:
+^Ingemuit regina Erebi~ etc. {Ov., ^Met~. V 543}, et Virgilius: ^Hii dominam Ditis talamo deducere adorsi~,
+et alibi: ^Nec quicquam lucis Hecate prefecit Avernis~ {Verg., ^Aen~. VI 397 e 118}.  Vocatur enim luna
+interdum Hecate, interdum Proserpina, interdum Lucina, interdum Dyana, interdum Delia, interdum
+Phebes, secundum varios eius effectus, que ideo attribuitur Plutoni regi infernali coniunx, ut tetigi in
+proximo supradicto capitulo, per poetas allegorice quia, ut dicit Ovidius in quinto {cf. Ov., ^Met~. V 294-408},
+medio tempore sui cursus ipsa luna lucet in hac parte superna, et alio medio tempore in parte
+inferna, quod tangit dicendo ibi quomodo Iupiter statuit quod dicto medio tempore dicta Proserpina
+foret cum dicto Plutone suo viro in Inferno, et alio medio tempore hic cum Cerere eius matre.
+
+	|85-86.~  Post hec sciendum est quod, expulsis dictis Ubertis cum sua parte Ghibellina de
+Florentia, et morantibus in civitate Senarum anno domini mcclviiii+o~ Florentini cum Lucensibus cum
+valido exercitu, ingressi sunt comitatum Senarum et castramentati sunt apud Montem Apertum, iuxta
+quem currit quoddam flumen quod vocatur Arbia, et ibi breviter dictus exercitus Florentinorum positus
+est in conflictu per dictos Senenses mediante auxilio regis Manfredi, tunc regis Sicilie et Apulie, qui misit
+comitem Iordanum cum octingentis militibus ad id faciendum dictis Senensibus, hoc pacto interveniente
+quod, si dicta civitas Florentie caperetur per dictam partem Ghibellinorum, quod funditus destrueretur,
+ad quod omnes Ghibellini Florentini extrinseci consenserunt, excepto dicto domino Farinata dicente
+tunc se nolle mori quando non appellaretur civis civitatis Florentie.
+
+	|91-93.~  Et hoc vult tangere umbra dicti domini Farinate dicens hic quomodo fuit solus etc., et
+auctor dum dicit quomodo aqua dicti fluminis Arbie ex dicto conflictu colorata fuit de sanguine
+Florentinorum in rubeum; nam occisi fuerunt ibi ultra quam sex milia Florentinorum.
+
+	|97-108~.  Hiis expeditis, instamus circa questionem motam hic per auctorem dicte umbre domini
+Farinate ex eo quod videbat eam sibi suum exilium pronuntiare in futurum et dictam umbram dicti
+domini Cavalcantis ignorare quid in presenti esset de dicto suo filio, respondendo dicta umbra quod
+ipse anime separate et dampnate vident ibi ut vident senescentes, qui melius vident a longe quam prope,
+unde presciunt futura quodam lumine divino a longe spirante adhuc in eas, quasi dicat non sua natura, ut
+statim dicam, et presentia ignorat, nisi referentur eis ab aliis animabus supervenientibus ibi ut dicit textus
+hic, ad quem primum articulum responsionis et solutionis facte per dictam umbram in premissa
+questione, dicit Thomas de Aquino in prima parte eius ^Summe~ questione lxxxviii ubi plene tractat de
+hac materia: ^Cognitionem futurorum non habere angelos nec demones, nec animas separatas ex
+natura sua, nisi in suis causis, vel per revolutionem divinam~ {Thom., ^Theol~. I q. lxxxviii 3} -- cum
+^Futura scire solius Dei sit, qui in sua contemplatione etiam angelos illa prescire facit~, ut ait
+Augustinus in suo libro ^Retractationum~ {^Decr. Grat.~  II C. XXVI q. v c. 1}, -- non tamen excluditur quin
+dicte anime separate et dampnate talem cognitionem a demonibus habere etiam non possint de futuris. 
+Unde idem Augustinus in viiii+o~ ^De Civitate Dei~ ait: ^Demones non ecternas causas temporum in
+Dei contemplatione et sapientia contemplantur, sed ut maiori experientia futura presciunt et
+suas disponens quandoque prenuntiant, et hoc non gratia, sed natura sui, quod quidem recipiunt
+a bonis angelis et recipient usque ad Diem iudicii~ {Aug., ^Civ. Dei ~IX xxii 1}.  Et hoc est quod ait idem
+Thomas in preallegato loco, scilicet quod ^In demonibus maior cognitio viget quam in anima
+dampnata~ {Thom., ^Theol~. I q. lxxxviii 3}, unde in libro ^De Natura Demonum~ idem Augustinus dicit quod
+^Demones predicunt futura non quod ipsi sciant futura, sed quia habent probabiles coniecturas,
+primo illa ratione quia de subtili materia sunt creati aerea, item quia per antiquitatem multa
+sciunt, item quia consueverunt morbos in milite, et illud ipsi predicunt quod aliquis sit habiturus
+malum, item ex signis que procedunt ex animo hominis prevident quedam, item quia dicta
+prophetarum audierunt, ex quibus futura predicunt~ {Thom., ^Theol~. I q. lxxxi 4}.  Ad secundum
+articulum, scilicet dum dicta umbra dicit quod dicte anime separate et dampnate, licet ita presciant
+futura secundum quod supra dictum est, presentia tamen non, hoc est quod ignorant quicquid hic fit,
+secundum etiam auctoritatem sanctorum.  Dicit enim Augustinus in libro ^De Cura Pro Mortuis Agenda~
+quod dicte anime mortuorum ^Ibi sunt, vel que hic fiunt scire non possunt~, et alibi, eodem libro, dicit
+quod ^Anime mortuorum rebus viventium non intersunt~ {^Decr. Grat. ~Pars II C. XIII q. ii c. 29}.   Item
+Gregorius in viiii+o~ ^Moralium~ ad idem etiam ait: ^Mortui vitam in carne viventium post eos,
+qualiter disponitur, ignorant, quia vita spiritus longe est a vita carnis, et sicut corporea et
+incorporea diversa sunt genera, item sunt distincta cognitione~ {Greg., ^Mor~. XII xxi 26}, et
+^Ecclesiastes~ viiii+o~ capitulo dicitur: ^Mortui nichil noverunt amplius nec habent ultra mercedem
+quam oblivioni tradita est memoria eorum~ {^Eccl~. IX 5}.  Et respondet Thomas ad id quod posset
+opponi de anima illius divitis, de qua dicitur Luce capitulo xvi+o~, quod ardens in Inferno dixit: Habeo
+quinque fratres, micte Lazerum ad eos, ait, testetur ne et ipsi veniant in hunc locum tormentorum, dicens
+quod ^Anime mortuorum possunt habere curam de rebus viventium, etiam si ignorent eorum
+statum, sicut nos curam habemus de mortuis eis suffragia impendendo, quamvis eorum statum
+ignoremus~ {^Luc~. XVI 28 e Thom., ^Theol~. I q. lxxix 7}, salvo, dicit dicta umbra, quod, licet dicte anime
+ignorent que hic aguntur, ut dictum est, tamen ea scire valent per relationem animarum hic ad eas
+descendentium, seu a spiritibus malis, unde idem Thomas ibi subdit dicens: ^Possunt etiam dicte tales
+anime facta viventium non per se ipsas cognoscere, sed vel per animas eorum qui hinc ad eas
+accedunt, vel per angelos, seu demones, vel etiam Spiritu Dei hoc eis revelante~ {Thom., ^Theol.~ I q.
+lxxix 8}, ut ait etiam Augustinus in preallegato libro ^De Cura Agenda Pro Mortuis~, ubi dicit: ^Fatendum
+est nescire quidem mortuos quid hic agatur, sed dum hic agitur; postea audire ab eis qui hinc ad
+eos moriendo pergunt, non quidem omnia, sed que sinuntur etiam istis meminisse, et que illos
+quibus hec indicant oportet audire; possunt etiam ab angelis, qui rebus que hic aguntur, presto
+sunt, audire aliquid mortui, sed quod unumquodque illorum audire debere iudicat cui cuncta
+subiecta sunt~ {^Decr. Grat.~ II C. XIII q. ii c. 29}.   Per que dicta et auctoritates debent patere satis verba
+auctore hic posita, hoc tamen adhuc addito ad maiorem indaginem, scilicet quod in eo quod auctor in
+persona dicte umbre domini Farinate dicit quod quando predicta futura ita prescita a dictis animabus
+proximant se ad esse sive sunt vel existunt, cum de iure paria sint aliqua esse vel de proximo fieri
+debere, tota eorum talis scientia evanescit, infert hoc tali respectu.  Nam, ut iam dictum est, dicta talia
+futura presciuntur solum a dictis animabus ex quodam divino beneficio quod adhuc recipiunt ex quadam
+habitudine earum nature spiritualis et incorporee; modo cum dicta talia futura proximant se ad esse, vel
+eveniunt, non possunt amplius futura censeri et dici, cum sint statim ad modo presentia censeri, at
+presentia dicte anime scire non possunt tali divino predicto beneficio, sed alio singulari modo, ut iam
+supra dixi ergo etc.  Ad quod facit quod ait dictus Thomas in preallegata parte dicte eius ^Summe~
+dicens: ^Cognitio anime separate ad rerum species vel individua determinatur ad que ipsa habet
+aliquam determinatam habitudinem.  Nam non se habet equaliter ad omnia singularia sed ad
+quedam habet aliquam habitudinem quam non habet ad alia~ {Thom., ^Theol~. I q. lxxix 8}.  Vidimus
+igitur quomodo dicte tales anime se habeant ad cognitionem futurorum et presentium: nunc videamus
+quid de preteritis utrum recordentur, seu scientiam habeant eorum, et dicit dictus Thomas quod ^Sciunt
+ea de quibus habuerunt notitiam in corporibus existentes~ {Thom., ^Theol~. I q. lxxxix 2}; aliter si non
+recordarentur eorum que gesserunt in vita ^Periret in eis vermis conscientie qui non moritur~, idest
+semper durat, ut dicit ^Ysaie~ ultimo capitulo {^Is~. LXVI 24}.   Item vidimus de scientia animarum
+dampnatarum quid de beatis existentibus in celo nunquid dicta futura presentia et preterita videant, et
+dicit Thomas ^Qui forant hanc questionem~ {Thom., ^Theol~. I q. lxxix 8}, in preallegato loco eius ^Summe~,
+Gregorium tenere quod sit, dicentem: ^Anime que inter omnipotentis Dei claritatem vident nullo
+modo credendum est quod sit foris aliquid quod ignorent~ {Greg., ^Mor~. XII xxi 26}, Augustinus vero in
+dicto suo libro ^De Cura Pro Mortuis Agenda~ expresse dicit quod ^Nesciunt mortui etiam sancti quid
+agant vivi~ {^Decr. Grat.~ II C. XIII q. ii c. 29}, et idem tenet ^Glosa Ysaie~ xvi+o~, super illo verbo: ^Alieni
+nesciunt nos~ {^Is~. XVI 8 e ^Gl~. rel.}, sed opinio Gregorii ibi approbatur per ipsum Thomam allegantem
+Augustinum illud dixisse, dubitando quid de existentibus in Purgatorio, dicit quedam ^Glosa~ in ^Decreto~,
+quod ignorant talia cum nundum fruantur visione Dei, tamen iste auctor contrarium tenet ut patet infra in
+Purgatorio per totum, cum talia habeant a bonis angelis dicte anime, quos dicit ibi perisse, et quos
+Augustinus asserit scire omnia que apud vivos aguntur, unde idem Gregorius: ^Videntes Deum vident.
+ergo eadem ratione videntes angelos vident ea que angeli vident~ {^Decr. Grat.~ II C. IX q. iv c. 15}.
+
+	|118-120.~  Ultimo auctor inducit dictam umbram ad dicendum quomodo ibi secum umbra
+imperatoris Federici secundi de Svevia, olim dampnati de heresi per ecclesiam erat, ac umbra domini
+Octaviani de Ubaldinis, olim cardinalis, qui in vita sua pluries usus est hiis verbis: "Si anima est",
+dubitative loquendo, "iam eam amisi pro parte ghibellina".

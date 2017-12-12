@@ -1,0 +1,119 @@
+	|7-10.~  DIMOSTRATA l'ottava sopradetta bolgia, cio@e
+qualit@a della semplice froda, in questo canto procedendo la nona
+si segue, cio@e quella di coloro che con aperta e palese
+dimostrazione maliziosamente in scisma e in iscandali commettono
+errori.  La cui essenza formando, cos@i figura che per loro
+diverse incisioni e macole per le carni diversamente si
+sostengano, a dimostrare i simiglianti prodotti da loro
+operazioni; per la cui grandissima quantit@a e qualit@a qui per
+simiglianti mali, e per essempro di lei di molte passate guerre e
+battaglie nelle contrade di Puglia fatte si contano, delle quali
+principalmente, incominciando a quella de' Troiani, cio@e d'Enea
+contr'al re Latino e Turno s'intende.
+
+	|11-12.~  E la seconda di quella che tra l'Africano
+Annibale e i Romani [per] dieci sette [anni] trascorse, la cui
+battaglia finalmente nella detta Puglia ad un luogo, nominato
+Cannuole si fece, per la quale, secondo che Tito Livio scrive,
+grandissima quantit@a d'anella d'oro nel detto luogo rimase, per
+dimostrare la grandissima milizia de' cavalieri romani e africani
+che quivi rimasono.
+
+	|13-14.~  E seguentemente la terza di quella d'alcun
+grande principe di Fiandra, nominato Roberto Guiscardo, contro a'
+Pugliesi, i quali sotto sua signoria lungo tempo si ressero.
+
+	|15-18.~  La quarta di quella de' re Manfredi, il quale,
+essendo ingannato da ciascun Pugliese per lor false promissioni
+in alcuno luogo nominato Ceperano, in Puglia, da re Carlo di
+Francia, finalmente combattendo con sua gente fu morto.  E la
+quinta, di quella di Corradino simigliantemente s'intende, il
+quale finalmente dal sopradetto re Carlo in alcuno luogo di
+Puglia, nominato Tagliacozzo, fu morto, la cui isconfitta per
+alcuno cavaliere del re Carlo, nominato messer Alardo, si fece il
+quale, per sua vecchiezza col senno, sanza arme cos@i [si] reggea,
+de' quali cos@i per loro facultade, figurati, d'alquanti nelle
+seguenti chiose per essempro si conta.
+
+	|31-33.~  Conciosiacosa che per due modi la presente
+colpa si contiene, in prima qui dello scismatico, siccome per men
+grave, si conta, il quale lo scommettere d'una fede in altra
+errando s'intende.  Tra' quali d'alcun grande prelato di Spagna,
+nominato Maometto, con alcuno suo conpagno nominato Ali, qui si
+concede, il quale anticamente essendo dal papa di Roma alcuna
+volta mandato oltremare, per invidia di sua facultade con grande
+inpromissione a predicare [di] Cristo, e con vittoria di fede
+tornando, e non trovando alle promessione fermo volere, ritornato
+di l@a e il contrario predicando ridisse, affermando la credenza
+che al presente pe' saracini si ritiene.  Onde per cotale aprire
+d'animo e d'intelletto, come per lui e simigliante per [lo suo]
+compagno contra nostra fede predicando si fece, cos@i
+figurativamente aperti qui i lor corpi si fanno e cos@i
+simigliantemente degli altri s'intende.
+
+	|55-60.~  Tra' quali [scismatici] consideratamente alcun
+frate predicatore vivendo nominato frate Dolcino per somigliante
+s'annunzia, il quale cos@i simigliante operazione nella montagna
+di Novara di Lombardia si ridusse, per la quale non possendo
+resistere dall'assedio celestiale della neve ed essendo da tutti
+i Lombardi per comandamento della chiesa ancora assediato,
+finalmente da lor fu preso, e nella sopradetta terra con alcuna
+altra sua compagnia arso.
+
+	|73-75.~  Dimostrata la prima qualit@a della presente
+colpa cio@e della scisma, qui dell'altra, che volgarmente scandalo
+si chiama, si contiene, il quale essere s'intende lo scommettere
+maliziosamente male tra uno ed un altro, figurandogli con diverse
+piaghe picciole e grandi, secondo la facult@a dello scommesso male
+e con simigliante effetto a significare in loro quel che per loro
+di male si produsse.  Tra' quali d'alquanti, per essempro di ci@o
+si ragiona; incominciandosi ad alcuno di Romagna, nominato Piero
+da Medicina, il quale con cos@i fatto vizio vivendo si resse.
+
+	|76-81.~  Per lo quale [Piero] prediciendo d'alcun
+tradimento fatto per Malatestino de' Malatesti contra due da Fano
+della Marca, in cotal modo si conta, a' quali essendo da lui
+fidati, e facendogli, ritornando, accompagnare in mare, sopra la
+Cattolica tra Pesaro e Fano affogare finalmente gli fece.
+
+	|97-99.~  Qui per simigliante colpa del sopradetto Piero,
+alcuno grande romano nominato Curio, si notifica, il quale
+essendo Cesare rubello di Roma, con gran malizia di cavalieri
+nella citt@a di Rimino di Romagna gi@a giunto, tornando di Francia,
+come nel Lucano nelle sue istorie si conta, con molti altri
+confinati di Roma per Ponpeo, a lui nella detta cittade pervenne;
+al quale, tra gli altri consigli, pi@u volte proponendo e
+affermando dicea, che sempre con danno @e l'aspettare del fornito
+che dovesse guerriando operare.  Onde per cotale parlamento,
+figurativamente, qui sanza la lingua si pone, per dimostrare, che
+solo la eccellenza della lingua a ci@o lui produsse, e quindi la
+sua veduta d'Arim[in]o amara procede, per@o che quivi pi@u cotal
+colpa commise.
+
+	|106-108.~  Anticamente per alcun parentado giurato in
+Firenze e non osservato tra Bondelmonti e gli Amidei della detta
+terra, gli Uberti colla parte ghibellina di Firenze tra loro per
+cotale disdegno consigliando pruoposero che a quel ch'avea
+promesso il detto parentado, cio@e a messer Bondelmonte de
+Bondelmonti fosse tagliato il naso, e chi dicea che d'una cosa
+fosse battuto, e chi d'un'altra, tra' quali messer Mosca Lamberti
+affermando che fosse morto propose, dicendo che cosa fatta avea
+capo.  Il cui consiglio finalmente si prese.  Per la cui morte il
+cominciamento del partito istato di Firenze ebbe processo,
+ond'ei, figurativamente, sanza le mani nella presente colpa si
+pone, per lo scommettere dell'operazione simigliante, che per lui
+ordinato si fece.
+
+	|133-135.~  Ancora d'alcuno altro di questa qualit@a,
+nominato Beltram Dal Bornio, castellano d'uno castello
+d'Inghilterra nominato Altaforte, qui cos@i si ragiona, che
+dimorando alcun tempo nella corte del buon re giovane
+d'Inghilterra con sue frodolenti e maliziose parole in rubellion
+del padre il produsse; per la quale il detto Re giovane
+finalmente dallo sforzo dal suo padre guerriando fu morto.
+
+	|139-142.~  Onde figurativamente qui sanza il capo il suo
+busto si pone, a dimostrare, che cos@i come part@i la congiunzione
+del padre al figliuolo che tanto @e unita, che cos@i da s@e partito
+proceda.  La qual giustizia anticamente in ciascun malificio,
+cos@i nel mondo osservata contrapasso volgarmente era detta.

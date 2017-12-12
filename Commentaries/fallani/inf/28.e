@@ -1,0 +1,493 @@
+	|1.  Chi poria mai...~: chi mai potrebbe, con parole
+dette in prosa (|sciolte~: <oratio soluta>), senza le esigenze
+del ritmo e della rima, esprimere lo spettacolo della nona
+bolgia, ove soggiacciono i seminatori di discordia?
+
+	|2.  del sangue...~: sangue e piaghe sono il motivo
+dominante del canto.
+
+	|3.  per narrar pi$u volte~: per quanto provi a
+sviluppare il racconto.
+
+	|4-6.  Ogne lingua...~: @e sicuro (|per certo~) che ogni
+linguaggio @e inefficace, non solo perch$e la lingua (|nostro
+sermone~) risulta insufficiente, ma perch$e l'intelligenza umana
+ha poca capacit@a (|seno~) di comprendere una cos$i vasta e
+complessa materia.  <Non mihi si linguae centum sint, oraque
+centum -- ferrea vox, omnes scelerum comprendere formas, -- omnia
+poenarum percurrere nomina possim> (Virgilio, ^Aen.~, VI, 625-
+627).
+
+	|7.  S'el s'aunasse...~: se non giova la parola, valga
+almeno l'esempio, e cerca di richiamare alla mente le pi$u
+tragiche guerre e le stragi tremende antiche e recenti.
+
+	|8-9.  la fortunata...~: la <Campania felix>
+(|fortunata~), nome che abbracciava in antico il reame di Napoli,
+compresa la Puglia (cfr. ^Purg.~, VII, 126).  -- |del suo sangue
+dolente~: le tre guerre (343-290 a.C.), che colpirono i popoli
+dei Campani, degli Apuli, dei Lucani, dei Bruzii.
+
+	|10.  li Troiani~: i Romani, discendenti da Enea, e
+quindi da Troia.  -- |la lunga guerra~: la seconda guerra punica
+(218-201 a.C.), durata sedici anni, fu la pi$u terribile per
+Roma, che dopo le numerose sconfitte al Ticino, alla Trebbia, al
+lago Trasimeno e l'azione di Fabio Massimo il Temporeggiatore,
+sub$i in riva all'Ofanto, a Canne nel 216 -- erano consoli Lucio
+Emilio Paolo e Marco Terenzio Varrone -- la pi$u irreparabile
+sconfitta.
+
+	|11.  che de l'anella...~: perirono circa 25.000 uomini,
+il console Emilio, il proconsole Servilio, due questori, molti
+tribuni militari, vari senatori, e gran numero di cavalieri.  Si
+racconta che Annibale spedisse a Cartagine tre moggia di |anella~
+d'oro, distintivo dell'ordine dei cavalieri (Tito Livio, XXIII,
+7, 12).
+
+	|12.  che non erra~: Dante anche in ^Conv.~ (IV, V, 19)
+si attiene alla notizia storica di Livio sulle <tre moggia
+d'anella>.
+
+	|13-14.  con quella...~: con la gente che difese l'impero
+bizantino e le signorie longobarde, e mor$i per contrastare
+l'invasione normanna comandata dal figlio di Tancredi
+d'Altavilla, Roberto il Guiscardo, tra il 1057 e il 1071, l'anno
+della caduta di Bari; ma questi scacci@o i Saraceni, e il poeta 
+lo incontra in ^Parad.~ (XVIII, 48).
+
+	|15-16.  e l'altra...~: la guerra tra gli Angioini e gli
+Svevi, che culmin@o a Ceprano (|Ceperan~), sul Liri.  Sembra che
+accenni al tradimento del conte di Caserta e di Giordano Lancia,
+zio del re svevo, ai quali era stata affidata la difesa del punto
+strategico di Ceprano (cfr. Villani, ^Cron.~, VII, 5, 9); il
+tradimento ebbe per conseguenza la battaglia di Benevento (1266)
+e la sconfitta di Manfredi (cfr. ^Purg.~, III, 128).  --
+|bugiardo~: mancante alla fede data.
+
+	|17-18.  ciascun pugliese~: i baroni pugliesi, in genere
+del meridione.  -- |Tagliacozzo...~: la battaglia tra Carlo
+d'Angi@o e Corradino di Svevia, avvenuta il 23 agosto 1268, a
+Scurcola, presso Tagliacozzo, dove fu sconfitto e fatto
+prigioniero il re svevo.  Araldo di Val$ery (cfr. Villani,
+^Cron.~, 26-27) consigli@o il re angioino di lasciare
+l'avversario, all'inizio, padrone del campo, fingendo la
+sconfitta, per poi piombare su di lui annientandolo, come poi
+avvenne, con un gruppo di soldati scelti, nascosti dietro
+un'altura.  Carlo d'Angi@o vinse quindi <|sanz'arme~>, senza
+combattimento.  Stragi, lutti, tradimenti, astuzie: sono le
+guerre avvenute nel Sud, che compongono come un unico campo di
+guerra, poich$e il poeta le rivive e ne @e consapevole in uno
+stesso momento, nella rievocazione storica e nella referenza
+geografica.
+
+	|20-21.  d'aequar...~: impossibile eguagliare, anche
+immaginando presenti tante battaglie, la sozza condizione della
+bolgia nona, nel duplice raffronto delle guerre e dei feriti che
+si sollevano mostrando l'orrore delle carni mutile e martoriate.
+
+	|22-24.  Gi@a veggia...~: una botte non si squarcia (|si
+pertugia~) cos$i per la perdita della doga di centro (|mezzul~) o
+di una di quelle laterali (|lulla~: da ^lunula~, <ad modum
+lunae>), come io vidi uno squarciato <ab ore usque ad anum>
+(Benvenuto).  -- |dove si trulla~: dove si ripete il segnale di
+Barbariccia (cfr. ^Inf.~, XXI, 139).
+
+	|25.  le minugia~: le budella.
+
+	|26-27.  la corata...~: il cuore e i visceri, lo stomaco
+(|sacco~) ripugnante (|tristo~), e gl'intestini.  Nella
+realistica descrizione della botte spaccata e dell'uomo tagliato
+in due, che lentamente avanza mostrando dal lurido squarcio la
+sua miseria, vi @e tutta la rivolta cristiana e la beffa contro
+il fondatore dell'Islam, i cui seguaci, dopo aver invaso le terre
+che si affacciavano nel Mediterraneo meridionale, minacciavano,
+senza sosta, le coste italiane ed europee, e rendevano attuale e
+desiderata la crociata: e Dante si vanter@a di discendere da
+Cacciaguida, combattente contro <quella gente turpe> (cfr.
+^Parad.~, XV, 139-148).
+
+	|28.  m'attacco~: miro attentamente.
+
+	|29-30.  guardommi...~: il dannato guarda, e risponde
+cos$i all'attenzione del poeta, e quasi ad implorare un senso di
+piet@a, divarica la ferita del petto, e parla.  -- |mi dilacco~:
+mi apro, divido.
+
+	|30-31.  vedi...~: Maometto @e impedito (|storpiato~), e
+nella presentazione c'@e l'eco di una fierezza e di un contrasto
+che non pu@o mai placarsi: il personaggio continua, nel cieco
+orgoglio, a credere di essere qualcuno, nonostante il corpo
+sanguinante, ed esorta Dante a vedere le piaghe.  @E <un infelice
+che avrebbe qualche velleit@a di essere Capaneo, e non riesce
+nemmeno ad essere Vanni Fucci> (V. Rossi, ^Saggi e discorsi su
+Dante~, Firenze 1930, p. 162).  -- |Maometto~: dall'arabo:
+Muhammad, nato alla Mecca tra il 570 e il 580 d.C. e morto a
+Medina nel 632, fondatore dell'Islamismo.  Nel Medioevo molte
+leggende corsero sulla sua figura sia nell'oriente bizantino che
+nel mondo latino, facendo di lui un licenzioso, un impostore, un
+eretico, anzi l'Ottimo rifer$i di un cardinalato di Maometto,
+dell'impedita ascesa al papato, onde lo scisma.  Ma la conoscenza
+delle cose islamiche era penetrata a Palermo, alla corte di
+Federico II, e nella penisola iberica, specialmente
+nell'Andalusia, a Cordova, Granata, Siviglia, e poi a Toledo.
+Centri di conoscenza e di studio della civilt@a dell'Islam furono
+anche Salerno, e, in Francia, il monastero di Cluny, e soprattutto
+il mondo di tutta la Borgogna, terreno propizio e alla prima
+crociata e all'origine dell'epica francese della ^Canzone di
+Orlando.~  Quanto fosse noto il mondo arabo e il suo scientismo
+ce lo dice la corrente averroista e la figura di Sigieri (cfr.
+^Parad.~, X, 136-138) e, in genere, la divulgazione del ^Corano~,
+al punto che nel 1919 As$in Palacios, nell'opera ^La escatologia
+musulmana en la D. C.~, credette d'individuare nelle fonti
+arabe l'antecedente ispiratore dell'opera dantesca,
+particolarmente per il ^Libro della Scala~ e la ^Collectio
+Toledana~; si rammenti tuttavia quanto nell'Islamismo fosse
+penetrata e assimilata l'eredit@a storica giudaica e cristiana,
+attraverso la Bibbia.
+
+	|32.  Al$i~: Ibn Al$i Talib, cugino e genero di Maometto,
+di cui spos@o la figlia Fatimah, morto nel 66l, per un attentato
+nella moschea di Kufa.  Egli fu uno sciita (scismatico), autore
+del primo scisma dell'Islam, che fu detto: asc-scia.
+Nell'Occidente la sua figura fu collocata accanto a quella del
+profeta dell'Islam, bench$e fossero meno note le gesta politiche
+della sua turbida figura.
+
+	|33.  fesso~: spaccato, dal lat. <findere>.
+
+	|35.  seminator...~: da vivi seminarono, con le loro
+idee, la discordia (|scandalo~), e furono causa di divisione
+(|scisma~).  Dante intese lo scisma nel senso pi$u generale, e
+non nel significato specifico di una separazione della comunione
+della Chiesa; Maometto non pu@o dirsi scismatico, rispetto alla
+Chiesa, non avendone mai fatto parte, ma lo @e per il colpo
+inferto al Cristianesimo e per la rapida espansione, che tolse
+all'influsso e alla vita cristiana, tra l'altro, le pi$u attive
+regioni, da Alessandria a Cartagine, sulle rive del Mediterraneo.
+
+	|37-42.  Un diavolo @e qua dietro...~: rimane come
+nascosto un demonio che divide (|accisma~) cos$i i dannati, con la
+spada tagliente: costoro percorrono in giro (|volta~) il cammino
+della bolgia, e poi sono rimessi in fila (|risma~) al taglio
+terribile.  Le piaghe si richiudono nel percorso, ma appena
+richiuse il colpevole si ritrova di fronte alla giustizia che
+cos$i punisce, e il corpo viene diviso, amputato: azione
+materiale, che richiama quella spirituale delle divisioni e
+separazioni operate da costoro nella vita sociale e nella
+comunit@a dei fedeli.  -- |accisma~: divide, taglia.  <Da ^cisma~
+che si us@o per ^scisma~, invece di adornare che risale al
+provenzale ^acesmar~> (Grabher).
+
+	|43.  scoglio~: ponte.  -- |muse~: sporgi il viso,
+guardando.  Nel francese arcaico: <muser>, e nel provenzale:
+<muzar>.
+
+	|44.  forse...~: Maometto sospetta che il poeta sia uno
+dei tanti che piovono in questa bolgia, e che se ne stia sul
+ponte tremando, prima di scendere tra i suoi compagni di pena.
+Ma non @e ben sicuro, @e una sua ipotesi, poich$e si meraviglia
+di un fatto strano, mai avvenuto sinora.
+
+	|46.  N$e morte...~: Virgilio reagisce con prontezza,
+spiegando che per Dante non @e giunto il fine della vita (|N$e
+morte~), e non @e condotto l@a dal loro turpe peccato (|colpa~).
+
+	|48.  esperienza piena~: l'uomo ha esperienza di una sola
+parte della sua vita, quella temporale; di quella eterna ha una
+conoscenza per fede.  Dante, nella parola virgiliana, ha tutta
+l'esperienza del senso della vita, sia di quaggi$u che dell'al di
+l@a.
+
+	|51.  e quest'@e ver...~: il dannato non pu@o dubitare
+della parola che sta ascoltando, @e una percezione fisica che
+controlla egli stesso: cos$i nella formula perentoria del poeta
+mantovano non deve assolutamente mettere in dubbio la verit@a
+che gli @e stata comunicata.
+
+	|52.  Pi$u fuor di cento...~: un gran numero di dannati
+(cfr. ^Purg.~, II, 67-75).
+
+	|54.  obliando~: perdura il tormento, ma la mente @e
+rivolta altrove, e questa @e una forma di oblio, l'unica
+consentita ai dannati, che hanno memoria della vita e delle cose
+trascorse.
+
+	|55-59.  fra Dolcin...~: Dolcino Tornielli di Novara,
+successo a Gerardo Segarelli quale capo laico della setta degli
+apostolici.  Non fu frate.  La sua dottrina, con elementi catari
+e valdesi, sulla comunanza dei beni, <etiam uxores>, e sulla
+Chiesa spirituale, si diffuse nelle valli del Trentino e nella
+Valsesia.  Fortificatosi sui monti del Biellese con un gruppo di
+seguaci, resistette ai vescovi di Vercelli e di Novara
+(|Noarese~) e al marchese di Monferrato.  Clemente V band$i una
+crociata contro di lui, ed eman@o tre bolle di condanna.  Si
+arrese insieme alla compagna Margherita il 23 marzo 1307, e poi
+nel giugno fu mandato al rogo.  Maometto ha sentito che quella
+persona di fronte @e viva, e non @e colpevole; allora
+immediatamente s'affissa nel futuro e vede un'altra persona viva,
+colpevole di scisma, prossima a giungere nella bolgia.  Nel suo
+accento non c'@e un minimo d'ironia, ma piuttosto uno spavento
+per quelli che stanno per fare la sua fine.  -- |forse~: non sa
+quando torner@a al mondo, subito o tra molto tempo.
+
+	|60.  acquistar...~: ottenere la vittoria non sarebbe
+stato facile, se fra Dolcino avesse provveduto alle vettovaglie
+per il lungo assedio.  Dante @e esattamente informato del come si
+svolsero i fatti, confermati dalle cronache di Bernardo di Guido,
+Giovanni Villani, Alvaro Pelagio, Nicola Eymerico, e dalla
+^Historia~ anonima e dall'^Additamentum~, editi dal Muratori
+(R.I.S., IX, coll. 423-442).
+
+	|61.  Poi che l'un pi@e...~: aveva alzato un piede per
+andare oltre, poi, terminato il suo discorso, lo poggia a terra e
+prosegue nel cammino.  Forse il piede in movimento indica,
+semplicemente, che non era lecito a questi dannati fermarsi pi$u
+a lungo.
+
+	|66.  non avea mai~: non aveva pi$u (cfr. ^Inf.~, IV,
+26).
+
+	|68.  apri la canna~: della gola.  Parl@o, e la sua
+parola sembrava provenisse non soltanto dalla bocca, essendo
+mutilo il viso.
+
+	|69.  d'ogni parte vermiglia~: rossa per il sangue che
+colava dall'ampia ferita.
+
+	|71.  in su terra latina~: in terra italiana.
+
+	|73.  Pier da Medicina~: <Fu del contado di Bologna, e
+commise la guerra da Fiorenza a Bologna, e da Bologna agli
+Ubaldini; poi per sue male opere fu cacciato e stette in Fano, e
+commise la guerra tra que' di Fano e i Malatesti> (Chiose Anon.).
+La famiglia va ricercata tra i Cattani di Medicina, tra i signori
+dell'antico castello feudale, conteso tra le citt@a dell'Emilia e
+della Romagna per la sua importante posizione.  Sembra che Pietro
+accrescesse le discordie tra il contado e la citt@a di Bologna,
+la quale s'impadron$i del castello nel 1303, e che fosse un
+fautore degli Estensi che Dante odia, come dimostrerebbe il
+ricordo della lotta tra gli Estensi, Venezia e i Polentani di
+Ravenna, per il castello di Marcab@o.  <Pier da Medicina deve
+aggirarsi in un cerchio di fatti che fecero sanguinare il cuore
+del Poeta, offendendo vincoli e affetti della sua stessa
+famiglia, sebbene non in modo cos@i vicino, come fece il suo
+congiunto Geri del Bello> (cfr. F. Filippini, ^Dante scolaro e
+maestro~, Ginevra 1929, pp. 54-60).
+
+	|75.  Marcab@o~: al confine della Romagna, sul lido di
+Venezia, costituito dai Veneziani e distrutto nel 1309 da Roberto
+di Polenta.
+
+	|76-77.  a' due miglior da Fano...~: Guido del Cassero e
+Angiolello da Carignano, capi di fazioni contrarie, ma uniti per
+la difesa della libert@a del comune contro le pretese dei
+Malatesta da Verrucchio, che finirono per impadronirsi della
+citt@a, dopo l'uccisione di Jacopo del Cassero, spento dai sicari
+di Azzo VIII d'Este (cfr. ^Purg.~, V, 67-84), e dei <|due
+migliori~> fanesi fatti massacrare nel 1304 presso Cattolica
+sull'Adriatico, facendoli chiudere in un sacco con una grossa
+pietra e gettare in mare (mazzerare).
+
+	|79.  lor vasello~: la loro nave.
+
+	|81.  fello~: malvagio.
+
+	|82-84.  Tra l'isola di Cipri...~: il Dio Nettuno non vide
+mai, tra Cipro e Maiorca, nelle acque del Mediterraneo un pi$u
+nefando delitto, non paragonabile a quello dei pirati, n$e dei
+Greci (|gente argolica~).  L'accenno erudito non @e fuori
+argomento, anzi introduce, tra la storia spietata dei delitti, la
+profezia del fatto che sta per accadere, e che Dante riferisce
+con particolari cos@i precisi, da suscitare l'impressione di
+averli forse uditi in Fano nelle Marche dalla cronaca cittadina,
+ancor viva per la memoria dell'avvenimento, che aveva spazzato
+via due delle famiglie pi$u potenti della citt@a adriatica,
+famosa per le mura e l'arco di Augusto, per la basilica di
+Vitruvio, per aver fatto parte, in et@a longobarda, della
+Pentapoli marittima, per le sue chiese, di cui Dante ricorda
+quella dove @e sepolto Jacopo del Cassero: S. Domenico (cfr.
+^Purg.~, V, 70-71).
+
+	|85.  che vede pur con l'uno~: Malatestino Malatesta,
+fratellastro di Gianciotto e di Paolo.  <Era manco di un occhio>
+(cfr. Muratori, ^Cron. riminese~, R. I .S., XV, 890).
+
+	|86.  tien la terra~: Rimini.
+
+	|87.  vorrebbe...~: vorrebbe non averla vista mai (|esser
+digiuno~).
+
+	|88.  a parlamento~: li invit@o a desinare per trattare
+e regolare comuni interessi.
+
+	|89-90.  Focara~: monte tra Pesaro e Cattolica, da cui
+proviene un vento temibile, noto ai naviganti, che giunti su
+quella rotta facevano voti e preghiere perch$e Dio li scampasse
+dalla tempesta.  I due fanesi non ebbero bisogno di fare tali
+preci, essendo stati uccisi prima di arrivare nella direzione del
+Focara.
+
+	|93.  colui...~: quel dannato, che si duole di aver
+veduto Rimini.
+
+	|96.  non favella~: non parla.
+
+	|97-99.  Questi...~: Caio Curione, tribuno romano
+nell'anno 50 a.C., lodato da Cesare per la sua oratoria
+all'esercito.  Era stato repubblicano, poi si avvicin@o e
+sostenne il partito di Cesare, per denari ricevuti, come
+riferiscono Plutarco e Svetonio.  Nel '49 inform@o Cesare a
+Ravenna dell'andamento delle cose romane, torn@o a Roma con
+lettere di lui per il senato.  Dopo il decreto senatoriale che
+dichiarava Cesare nemico della repubblica, raggiunse con altri
+tribuni Ravenna e spron@o Cesare a non indugiare oltre, dicendo:
+<Tolle moras: semper nocuit differre paratis> (Lucano, ^Phars.~,
+I, 281).  Costui aveva sommerso in Cesare il dubbio a tardare,
+cio@e a procrastinare la guerra civile.  Il Tommaseo not@o la
+contraddizione del poeta che qui condanna quel consiglio espresso
+nel verso di Lucano, mentre lo ripete poi -- tanto gli faceva
+velo la passione -- nell'^Epist.~ (VII, 16) ad Arrigo VII,
+perch$e l'imperatore affretti la sua venuta in Toscana.  -- |'l
+fornito~: chi @e pronto.  -- |l'attender sofferse~: danneggi@o se
+stesso nell'attendere.
+
+	|100-102.  Oh quanto...~: aveva parlato contro la
+libert@a della sua patria: <privavit se sponte lingua, quia
+vendidit eam: ergo merito ponit eum sine lingua> (Benvenuto).
+
+	|103-105.  E un ch'avea...~: dalla guerra civile romana
+alle divisioni di parte e alle lotte fiorentine, raffigurate nel
+triste spettacolo di un personaggio, che avanza con le sue mani
+mozze, agitando i moncherini nella fosca atmosfera infernale, da
+cui gli gronda il sangue sul viso sconvolto.
+
+	|106.  Mosca~: della famiglia Lamberti (cfr. ^Inf.~, VI,
+80); fu consigliere degli Amidei esortandoli a vendicare l'offesa
+di Buondelmonte, che aveva mancato alla promessa di sposare una
+giovane della loro casa (cfr. Villani, ^Cron.~, V, 37; Compagni,
+^Cron.~, I, 2), sposando invece una dei Donati.
+
+	|107.  Capo ha cosa fatta~: una cosa, una volta fatta, @e
+finita.  Disse ch'era bene uccidere Buondelmonte, senza
+preoccuparsi delle conseguenze.
+
+	|108. 'l mal seme...~: l'origine delle divisioni in
+Firenze.
+
+	|109.  E morte di tua schiatta~: il seme dell'odio si
+svilupp@o, e tra i primi ad esserne colpiti furono i Lamberti,
+cacciati da Firenze nel 1258 e dieci anni dopo dichiarati
+<ribelli>, e fu la loro fine.  C'@e un tono di sdegno e di
+rimprovero in queste parole.
+
+	|110.  accumulando...~: il Mosca era addolorato dei mali
+causati alla sua citt@a (^lasso!~); ora, avendone inteso le
+conclusioni, sente il cumulo delle sue responsabilit@a, anche per 
+la rovina della sua stirpe.
+
+	|112.  lo stuolo~: i seminatori di discordie.
+
+	|114.  sanza pi$u prova...~: senza altra prova che la mia
+sola testimonianza.
+
+	|115-117.  coscienza...~: la sentenza morale conferma
+l'atteggiamento del poeta, che dice la verit@a, forte della
+|buona compagnia~ della sua coscienza senza colpa (|pura~).
+L'uomo diviene ardito, quando @e consapevole del vero; per una
+coscienza il sentirsi pura @e come sentirsi difesa da una corazza
+(|sotto l'asbergo~).  -- |l'om francheggia~: rende l'uomo franco
+(cfr. Orazio, ^Epist.~, I, I, 60-61).
+
+	|119-120.  un busto sanza capo...~: l'idea potrebbe esser
+nata da episodi consimili, narrati negli atti dei m@artiri, come
+quello di S. Valeria decollata, che porta la testa a S. Marziale,
+primo vescovo di Limoges, mentre celebra la Messa, ma
+specialmente dai leggendari di S. Miniato e di S. Dionigi.
+
+	|122.  p$esol con mano~: pendente in alto con la mano.
+
+	|123.  e quel...~: <Questo capo mirava noi, mostrando col
+mirare che il busto desiderava di parlarci, o pure ci mirava per
+meraviglia che io fossi vivo e senza pena, e Virgilio senza pena.
+Or questo "mirare" non @e ufficio di lanterna perci@o che ufficio 
+di lanterna @e scacciare le tenebre, s$i che altri possa vedere e 
+mirare> (Castelvetro).
+
+	|124.  Di s$e facea...~: con gli occhi di quel capo
+faceva lume a se stesso per il cammino.
+
+	|125.  ed eran due...~: erano due corpi separati, ma
+appartenenti a un solo individuo; una medesima vita divisa in
+due, contrariamente alla legge di natura.
+
+	|126.  com'esser pu@o...~: come ci@o accada, Dio soltanto
+pu@o saperlo, essendo l'autore di queste pene.  Il poeta nel
+riferire la visione ne affida la testimonianza alla sua
+coscienza, che sa di esprimere la realt@a delle cose viste, e a
+Dio stesso, che ai peccatori della nona bolgia ha inflitto un
+cos$i orrido e straziante castigo.
+
+	|127.  diritto...~: esattamente sotto il ponte.
+
+	|128.  con tutta la testa~: insieme con la testa.
+
+	|131.  spirando~: respirando, un vivo tra i morti.
+
+	|132.  vedi s'alcuna...~: chiede commiserazione per
+essere cos$i decapitato: la macabra figura sfoga nella
+confessione il motivo del suo supplizio.
+
+	|134-136.  Bertram dal Bornio...~: visconte di Hautfort,
+castello della Guascogna.  Avrebbe istigato contro Enrico II, re
+d'Inghilterra, il figlio primogenito: Enrico (il |Re giovane~),
+che il padre aveva associato al regno.  Poeta provenzale, tra i
+pi$u significativi, lodato da Dante per i suoi versi d'argomento
+guerresco (^De Vulg. Eloq.~, II, {II, 9}) e la sua liberalit@a
+(^Conv.~, IV, {XI, 14}).  Non sembra del tutto estraneo alla
+rappresentazione dantesca il compiacimento di lui per le scene
+cruente (cfr. la canzone: ^Bem platz lo gais temps de pascor~).
+Mor$i verso il 1207, sembra nel monastero cistercense di Dalon,
+dove si sarebbe ritirato, gi@a vecchio, nei suoi ultimi anni.
+
+	|137-138.  Achitof@el...~: consigliere dapprima, poi
+traditore del re David, contro il quale parteggi@o sostenendo il
+figlio ribelle Absalom nella congiura.  David preg@o il Signore
+perch$e rendesse vani i consigli di lui (^Il Reg.~, XV-XVII).
+Achitofel, vistosi perduto nella sua ribellione, s'impicc@o a
+Gilo.  Si ritiene da alcuni biblisti che il lamento davidico per
+il tradimento del suo consigliere o forse di Absalom sia
+contenuto nel ^Ps.~ LIV.  -- |punzelli~: insinuazioni.
+
+	|139.  cos$i giunte~: cos$i strette per i vincoli di
+natura e di sangue.  
+
+	|140.  partito...~: porto il mio capo separato dal cuore, 
+ch'@e racchiuso in questo tronco. @E un passaggio dall'attivo al 
+passivo.  <Perch'io partii... partito porto>.  L'essere 
+<|partito~> @e il <partire> stesso, il peccato dentro di lui.  
+<Quod quisque fecit patitur> (cfr. S. Vazzana, ^Il contrapasso 
+nella Div. Com.~, Roma 1959).
+
+	|142.  lo contrapasso~: da <contra pati>, patire secondo
+quello che s'@e fatto.  Secondo la legge mosaica del taglione, il
+colpevole veniva punito con la stessa pena che aveva inferto al
+prossimo (^Esodo.~ XXI. 24; ^Levit.~, XXIV, 20; ^Deuter.~, XIX,
+21) <Haec est forma divini iudicii, ut secundum quod aliquis
+patiatur, secundum illud Matthei VII, 2 "In quo iudicio
+iudicaveritis iudicabimini, et in qua mensura mensi fueritis
+remetietur vobis" Ergo id est simpliciter quod contrapassum> (S.
+Tommaso, S. ^theol.~, II, II, 61, 4).  Questa legge ha una
+logica: non dipende da allegoria, da contrasto o da qualcosa che
+proviene dal di fuori, ma @e intrinseca allo stesso fatto morale
+e al concetto di peccato.  Ci@o che Dante apprese dalla teologia
+morale, circa la natura e la forma del peccato, viene risolto
+intuitivamente nella visione poetica, nelle immagini convenienti
+ai concetti astratti: e questo riconferma il valore positivo e
+unitario della ^Commedia~, in cui l'esigenza etica, conforme alla
+valutazione del male secondo la legge biblica, trova nella
+fantasia e nella rappresentazione l'adeguato linguaggio.
+Maometto, Pier da Medicina, Curione, Mosca de' Lamberti, Bertram
+dal Bornio raffigurano, nel loro dolore, quello dei popoli, delle
+citt@a, delle fazioni, delle famiglie, in un quadro di luttuose
+conseguenze, in cui ogni separazions dalla ragione e dall'ordine
+divino diventa la lacerazione dell'uomo e delle leggi di vita.

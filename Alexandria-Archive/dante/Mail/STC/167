@@ -1,0 +1,120 @@
+Return-Path: steve@avalon.Dartmouth.EDU
+Received: from avalon.Dartmouth.EDU (localhost [127.0.0.1])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id IAA01369;
+	Tue, 5 Jan 1999 08:36:21 -0500 (EST)
+Message-Id: <199901051336.IAA01369@avalon.Dartmouth.EDU>
+X-Mailer: exmh version 2.0.2 2/24/98
+To: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Cc: steve
+Subject: Re: Pietro3 
+In-reply-to: Your message of "Mon, 04 Jan 1999 17:53:55 EST."
+             <199901042253.RAA10553@phoenix.princeton.edu> 
+Reply-To: Stephen.Campbell@Dartmouth.EDU
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Tue, 05 Jan 1999 08:36:21 -0500
+From: Steve Campbell <steve@avalon.Dartmouth.EDU>
+
+
+> I see you got allthat loaded.  Stout lad!  I checked it
+> all out.  There are NO problems with incorrect Latin
+> words, as you feared.  It is all quite clean.  Here are
+> some problems, corrections, suggestions.
+> 
+> Header (this may impact other headers as well for other
+> comms.): the date appears as follows:
+> 
+>         (1359-64 (?))
+> 
+> I think that is not pretty.  Here are two  options:
+> 
+>         (1359-64[?])  OR (1359-64 [?])
+> 
+> I am not sure which I think is "prettier."  Do you have
+> a view?  I think I lean toward the first (no space).
+
+
+Actually, the date appears as "(1359-1364 (?))". I'll make it "(1359-64[?])".
+
+
+> document 2 is called Inf. Nota.  Can it be "Inf.
+> Proemio"?  If not, can we stick a "Proemio" at the
+> beginning of the first line of text, as we do for the
+> proemi when that is the first text for a canto?  Or put
+> a "PROEMIO" above this text?  It is important that
+> people know it is the proem to the Inferno, not to any
+> partic. canto.
+
+Changing the "Inf. Nota" is hard, but we can put any text we want in the first 
+line. Should we indicate that it's our text, not the author's? Like 
+"[Proemio]" or "[Prof Hollander wants you all to know that this here is a 
+Proemio to the whole friggin' Inferno.]"  You choose.
+
+
+> doc. 2, in text: both septimum}capitulum and
+> noni}capituli need spaces between the "}" and the next
+> word.  Did I cause that?
+
+They are like that in the html. I have fixed them.
+
+
+> doc. 9: Aug. Conf. XIII i 6 (&gt; Decr  should read
+>         Aug. Conf. XIII i 6 (> Decr
+> 
+> If the ">" is problematic, we can use "cf."
+
+The ">" is the Euro quote symbol, so I'll use "cf.".
+
+
+> docs. 14 & 21: some superscript control chars. made
+> their way into text: <<SUP>> <<SUP>>.  These should be
+> removed and the words they appear between be put one
+> space from one another.  I only found these two, but
+> perhaps you should do a search to check for more.
+
+That's an html-ism I missed. It's fixed.
+
+
+> doc 116 Decr.  Grat = Decr. Grat (one space)
+
+That's BRS thinking it has found an end-of-sentence. We do not have "Decr." 
+defined as an abbreviation. If we did, I think the double spacing would 
+vanish. Do you wantto make Decr an abbr? I think spacing is the only effect it 
+has.
+
+
+> doc 123 Ep.  Hebr. = Ep. Hebr. (1 sp.)
+
+Ditto
+
+
+> doc 123 bestiam&nbsp;habentem = bestiam habentem  (what
+> is happening here?)
+
+I dunno. That's how it is in the html. It looks like some kind of special 
+spacing notation. Anyway, I fixed it.
+
+
+> doc 123 Grat.  I D = Grat. I D (1 space)
+
+Grat. is not defined as an abbr. See above. You tell me.
+
+
+> doc. 29 Adv.  Iovianiam = Adv. Ioviniam (1 sp.)
+
+
+Ditto.
+
+
+> ACCENT PROBS.:  There are few Italian words in this
+> comm., and thus few accents.  In the following docs I
+> found them in an unresolved form: e.g., citt&agrave:
+> docs. 11, 45, 57, 63, 86, 94, 98, 99, 110, 116.
+
+Yes, I saw those. They are in the html. It looks like "&Xgrave" appears when "X" should have a grave accent. X = a, i, o, e.  The correct DDP code would be "@X". There are not a lot - perhaps a dozen. I will fix them by hand.
+
+------------
+When you get back to me about the things I need answers on, please incorporate the original text of this message in your reply, so I know which question you are answering. Thanks.
+
+							Steve
+

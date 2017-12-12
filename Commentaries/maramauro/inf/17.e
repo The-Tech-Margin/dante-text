@@ -1,0 +1,459 @@
+De pena uxurarii
+
+	|1-61.~ 
+
+   ^<Eco la fiera con la coda aguzza,~
+   ^che passa i monti e rompe i muri e l'armi!~
+   ^Eco colei che tut'el mondo apuzza!>.~
+
+   ^S@i cominci@o lo mio duca a parlarmi;~
+   ^e accennolle che venisse a proda,~
+   ^vicin'al fiume d'i passegianti marmi.~
+
+	D. in questo capitulo fa 3 cosse.  A la prima, continuando s@e con la 
+fine del precedente, mostra la figura de la fraude como @e facta.  A la 
+2a tracta la pena de li usurari.  A la 3a nomina alcuni contaminati in 
+questo vitio.
+
+	Al primo V. dice: ^ECO LA FIERA ETC.~  E 'nanti ch'io passa pi@u 
+oltre, e' voglio sapere chi vol dir D. de questa coda ^CHE PASSA ETC.~, 
+e perch@e lo pose in figura de Gerione.  Al primo D. se referre a quel 
+che fece Tamiri per fraudolentemente avere Ciro re de' [Medi]: e' con 
+astute guardie e fraudolenti, l'ingan@o passando li monti e tornando 
+indietro como fosse rotto, tale che lo pigli@o.  Questa istoria dir@o 
+[^Purgatorio~ capitolo XII].
+
+	E sequita: ^ROMPE I MURI~.  Ancora D. se referre a la fraude del 
+cavallo de Troia, la qual f@e rompere le mura de la porta de Troia.  E 
+questa dir@o [capitolo XXVI].  E sequita: ^E L'ARMI~.  Questa de le 
+arme tutod@i se fa; per la qual Achile pass@o l'arme de Ector, 
+lassandolo assegurare per pigliare quella armatura -- e questa @e nota 
+-- e torn@o a Palante.
+
+	^ECO COLEI ETC.~  Questo se referre a la umana fragilitate la qual @e 
+tanto montata in questo vicio, che gi@a tuto el mondo ne fete, per 
+tanti modi se usa.  ^E ACENOLLI ETC.~  Questo @e chiaro quanto a la 
+litera, ma se vol intendere, con la ragione umana, per[ch@e] [par] 
+forte a potere cognoscere la oculta malicia [sencia] praticarla.
+
+	|7-9.~ 
+
+   ^E quella sozza imagine di froda~
+   ^sen venne, e ariv@o la testa e 'l busto,~
+   ^ma 'n su la riva non trasse la coda.~
+
+	Questo testo @e chiaro.  ^E ARRIV@O ETC.~  Questo senso @e che la 
+fraude comincia con cosse de bona aparentia, quando vole fare alcuna 
+fraude, e poi a la fine pinge la coda in su la riva: e questa @e 
+l'aguta coda.  E per@o dice beato Isedoro, libro ^De summo bono~, 
+capitulo ^De mendatio~: <Sepe vera premitit qui falsa dicturus est>.
+
+	|10-12.~ 
+
+   ^La facia soa era faza d'uom giusto,~
+   ^tanto benigna avea di for la pelle,~
+   ^e d'un serpente tuto l'altro frusto.~
+
+	Questo testo @e chiaro, a designare che quisti fraudolenti vano a modo 
+de omini de religione, col viso a terra.  E coss@i scrive Beda ^quod~ 
+<serpens qui decepit Evam, habebat fatiem muliebrem et reliquum 
+serpentis>.  ^TANTO BENIGNO ETC.~, cio@e quanto a l'extrinsico par 
+dolce e mansueto, tanto pi@u @e intrinsico tuto 'l contrario.
+
+	^E D'UN SERPENTE ETC.~  Non senza cagione D. mete lo fusto da serpe a 
+la dicta frode, perch@e lo serpe tra tuti li animali @e il pi@u sagace 
+e lo pi@u cal[i]do; e per@o Lucifer se f@e in forma de serpe quando 
+ingan@o Eva, s@i como dice el ^Genesi~ primo; e ^naturaliter~ @e 
+inimico de lo omo.
+
+	|13-18.~ 
+
+   ^Due branchi avea pilose infin l'ascelle;~
+   ^lo dosso e 'l petto e ambedue le coste~
+   ^dipinte avea di nodi e de rotelle.~
+
+   ^Con pi@u color, sommess'e sopraposte~
+   ^non fer mai drappo Tartari n@e Turchi,~
+   ^n@e fur tai tele per Aragna imposte.~
+
+	Qui D. descrive questa bestia e dice ^DUE BRANCHE ETC.~  E queste sono 
+li falsi modi da inganar altrui a tolere lo loro per coperti modi; e 
+sono coperte de pelli aci@o che non parano.  ^LO DOSSO ETC.~  Or questa 
+pentura designa la piacevolenza del fraudolente; e li nodi sono li 
+legamenti che fa per prender e anodare l'omo per tal modo che non li 
+scampe.  Questi rotelli sono li ambiciuni e li rotelli che se usano 
+fare: quando el fraudolente vole una cossa, fa un gran tornello per 
+venir a quello che vole, con parole losengevole, dolce e atractive.
+
+	|19-30.~ 
+
+   ^Come talvolta stanno a riva i burchi,~
+   ^che parte sono in aqua e parte in terra,~
+   ^e come l@a tra li Todeschi e li Urchi~
+
+   ^lo bifaro s'asseta a far soa guerra,~
+   ^coss@i la fiera pexima si stava~
+   ^su l'orlo ch'@e di pietra e 'l sabion serra.~
+
+   ^Nel vano tuta soa coda guizava,~
+   ^torcendo in s@u la venenosa forca~
+   ^ch'a guisa di scorpion la punta armava.~
+
+   ^Lo duca disse: <Or convien che si torca~
+   ^la nostra via un poco fin a quella~
+   ^bestia malvagia che col@a si corca>.~
+
+	Qui D. fa una comparatione dicendo: ^COME TAL VOLTA ETC.~  Burchio @e 
+una navetta per la qual passa la gente li fiumi; e ne sono assai in 
+Lombardia ne la riva de Po.  De li quali fa una comparatione quando 
+stanno a la riva, parte in aqua e parte in terra: coss@i questa froda.  
+E fa un'altra comparatione del bifaro, il qual nasce ne li fiumi de 
+Alemagna, in quelli lochi che sono tra li Todeschi e li Urchi, li quali 
+sono presso le montagne; e per@o dice ^COMO... TRA LI TODESCHI ETC.~
+
+	^LO BIFARO ETC.~  Questo @e uno animal il qual @e in queste parte de 
+Alamagna ove sono li Todeschi e li Urchi; e ivi @e gran copia de loro.  
+Ed @e mezo pesse e mezo bestia.  Ed @e fraudolente, ch@e, quando esso 
+ha fame, esso se pone a la riva del fiume e tene la coda in l'aqua e il 
+busto in terra e va menando la coda per l'aqua; e cos@i menando geta 
+alcune goze de grassa, a la qual grassa coreno li pessi ed esso li 
+piglia.  E ne ho mangiato io, cio@e de la coda, la qual ha proprio 
+sapor de pesse.
+
+	^NEL VANO ETC.~  Questo @e chiaro.  ^LO MAESTRO ETC.~, ^idest~ V., 
+como ragione umana fa schifar D. de non se acostar al dicto Gerione: e 
+questo intendi che, quando l'omo trova simili gente, non se aproxime a 
+loro.  ^CORCA~, cio@e se colloca.
+
+	|31-33.~ 
+
+   ^Per@o scendemo a la destra mamella,~
+   ^e diece passi femmo in [su] l'extremo,~
+   ^per ben cessar la rena e la fiamella.~
+
+	Qui andaron ^A LA DESTRA ETC.~, cio@e a cognoscere questo vitio per 
+via virtuosa.  ^E DECE PASSI ETC.~, ^idest~ per dece bolge, como 
+vederiti nel sequente capitulo; ^IN SU L'EXTREMO~, ^idest~ fin a 
+l'ultimo circulo de l'inferno.
+
+	|34-42.~ 
+
+   ^E quando noi a lei venuti semo,~
+   ^poco pi@u oltre veggio in su la rena~
+   ^gente seder propinqua al logo semo.~
+
+   ^Quivi 'l maestro <Aci@o che tuta piena~
+   ^experientia d'esto giron porti>,~
+   ^mi disse, <va, e vedi la lor mena.~
+
+   ^Li toi ragionamenti sien l@a corti;~
+   ^mentre che torni, parler@o con questa,~
+   ^che ne conceda i soi umeri forti>.~
+
+	Questa @e la 2a parte de questo capitulo, ove D. pone la pena de 
+quelli del pecato de la fraude che se chiama usura.  ^Et dicitur 
+<usura> ab usu rei, idest~ `uso de cossa' ch@e, usando la moneta 
+altrui, esso se vol pagare per@o che l'omo la usa.  Ma la propria 
+etimologia: ^dicitur <usura> idest usus urens, idest~ `uso il [qual] 
+arde e consuma'.
+
+	|43-45.~ 
+
+   ^Coss@i ancor su per l'extrema testa~
+   ^di quel septimo cerchio tuto sollo~
+   ^andai, dove sedea la gente mesta.~
+
+	D. dice como esso and@o ^SOLLO ETC.~  E questo vol dir che, quanto al 
+cognoscimento de la fraude de la usura, non bixogna la ragione umana, 
+^idest~ V., per@o che l'uxurario fa patto in prima che preste la moneta.
+
+	|46-48.~ 
+
+   ^Per li ochi fuori scoppiava lor dollo;~
+   ^di qua, di l@a soccurrien con le mani~
+   ^quando ai vapori, e quando a caldo suollo.~
+
+	D. mostra qui la pena loro e dice che per li ochi de costoro 
+^SCOPPIAVA ETC. QUANDO A' VAPORI ETC.~, ^idest~ a pioggia, ^E QUANDO 
+ETC.~, ^idest~ a la calda terra.
+
+	|49-51.~ 
+
+   ^Non altrimenti fan d'estate i cani~
+   ^or col ceffo or col pi@e, quando son morsi~
+   ^da pulci o da mosche o da tafani.~
+
+	Qui D. fa una comparatione de li cani: quando son morsi ^DA PULCI 
+ETC.~ se moveno ^OR COL CEFFO~, ^idest~ con boca, ^OR COL P@E ETC.~
+
+	|52-57.~ 
+
+   ^Poi che nel viso a certi gli ochi porsi,~
+   ^nei quali doloroso foco casca,~
+   ^non ne cognobbi alcun; ma io m'acorsi~
+
+   ^che dal collo a ciascun pendea una tasca~
+   ^ch'avea certo color e certo segno,~
+   ^e quindi par che 'l lor ochio si pasca.~
+
+	Questa @e la terza parte del capitulo, ove D. nomina tacitamente 
+alcuni famosissimi usurari per le loro insegne e arme.  E 'nanti ch'io 
+proceda pi@u oltre, voglio dir perch@e D. mete questi giacere, e queste 
+lor lacrime e questo moto de le mani a la pioggia de' vapori e al caldo 
+de la tera che significa.  E dico che questa pioggia de questi vapori 
+si @e la fredeza de poca carit@a la qual hanno auti a li lor proximi.  
+E questa caldeza de suolo, ^idest~ de terra, si @e l'ardente apetito 
+che hanno auto a le cosse terene ne le quali li usurari ardeno 
+desiderando el sangue de li poveri bixognosi.  Mo resta a dire perch@e 
+D. non nomina costoro, ma sollo le lor arme.  Dico che questi, non 
+tanto essi, ma tuti o la magior parte de li lor lignagi, sono stati 
+usurari, s@i che seria longa cossa volerli tuti dire, e non poria n@e 
+saperia.
+
+	|58-63.~ 
+
+   ^E com'io riguardando tra lor vegno,~
+   ^in una borsa gialla vidi azurro~
+   ^che d'un leone avea faza e contegno.~
+
+   ^Poi, procedendo de mio sguardo il curro,~
+   ^vidine un'altra come sangue rossa,~
+   ^mostrando un'oca bianca pi@u che burro.~
+
+	Qui D. nomina le dicte parentele e dice: ^IN UNA BORSA GIALLA ETC.~  
+Questa @e l'insegna de li Granfigliazi de Fiorenza.  E sequita: ^VIDINE 
+UN'ALTRA ETC.~  Questa @e l'insegna de li Ubriachi de Fiorenza.
+
+	|64-69.~ 
+
+   ^E un che d'una scroffa azurra e grossa~
+   ^segnat'avea lo so sacheto bianco,~
+   ^mi disse: <Che fai tu in questa fossa?~
+
+   ^Or te ne va; e perch@e sei vivo anco,~
+   ^sappi che 'l mio vicin Vitalliano~
+   ^sedr@a qui dal mio sinistro fianco>.~
+
+	Questo da la ^SCROFFA AZURRA ETC.~ fo miser Nieri de' Scroffingi de 
+Padoa, il qual dice alcune cosse a D.; tra le qual dice che miser 
+Vitaliano, el qual era so vicino in Padoa, ser@a tosto l@i a seder dal 
+suo fianco sinistro.
+
+	|70-75.~ 
+
+   ^<Con questi fiorentin son padoano:~
+   ^spesse fiate me intronan le orechi~
+   ^gridando: "Vegna il cavaler sovrano,~
+
+   ^che recar@a la tasca con tre bechi!">.~
+   ^Qui distorse la faza e di fuor trasse~
+   ^la lingua, come bue che 'l naso lechi.~
+
+	Qui miser Nieri se palesa per patria dicendo: ^CON QUESTI FIORENTINI 
+ETC.~  E apresso dice che molte fiate ode dir del dicto Vitaliano e de 
+uno che ^RECHER@A LA TASCA CON TRE BECHI~, ^idest~ una armatura coss@i 
+fata.  E questo @e miser Ianpinamonte de' Bici de Fiorenza E sequita 
+^QUI DISTORSE ETC.~, lo quale @e molto chiaro.
+
+	|76-78.~ 
+
+   ^E io, temendo nel pi@u star cruciasse~
+   ^lui che di poco star m'avea 'munito,~
+   ^torna'mi 'ndietro da l'anime lasse.~
+
+	D., avendo odito le parole de miser Nieri quando disse <Vatene>, e 
+ricordandose de questo, torn@o indietro da le dicte anime.
+
+	|79-84.~ 
+
+   ^Trovai el duca mio ch'era salito~
+   ^gi@a su la groppa del fiero animale,~
+   ^e disse a me: <Or sii forte e ardito.~
+
+   ^Omai si scende per s@i fatte scale;~
+   ^monta dinanci, che voglio esser mezo,~
+   ^s@i che la coda non possa far male>.~
+
+	D., tornato a la ragione umana lassando costoro, trova V. salito in su 
+la groppa de Gerione figurato per la fraude.  ^E DISSE ETC.~  V. 
+confort@o D., per@o che vole descendere pi@u in gioso.
+
+	^MONTA DINANCI ETC.~  Questo testo @e chiaro, ma lo intelecto de D. @e 
+questo: questo cavalcare de V. s@i denota che la ragione umana non 
+tanto d@a notitia a l'omo de cognoscere questo vitio, ma li [lo] fa 
+segnorezare: e per questo intendi lo cavalcare de V. in prima, ^idest~ 
+de la ragione, e poi [de] D.  E questa coda significa le oculte vie 
+da fraudare altrui.  E cos@i la ragione insegna a l'omo a guardarsi da 
+le insidie de le frode, ma pi@u de signoregiarle: e per@o mostra qui 
+como V. fa cavalcare D.
+
+	|85-90.~ 
+
+   ^Qual @e colui c'ha s@i presso il riprezo~
+   ^da la quartana, c'ha gi@a l'ungie smorte,~
+   ^e trema tuto pur guardando 'l rezo,~
+
+   ^tal divenn'io a le parole porte;~
+   ^ma vergogna mi f@e le sue minaze,~
+   ^che 'nanci a bon signor fa servo forte.~
+
+	Qui fa una comparatione de quelo che ha ^IL RIPREZO~, ^idest~ lo 
+principio de la quartana febre, che ha ^LE UNGIE SMORTE.  TREMA TUTO 
+ETC. REZO~, ^idest~ [...]; tal se fece D. a le parole ^PORTE~, ^idest~ 
+dicte a lui per V. ^MA VERGOGNA ETC.~, quando disse <Or sii forte 
+etc.>.  La qual vergogna dice D. che fa ^FORTE~ servo, ^idest~ ardito, 
+denanti a bon signore: e questo @e notabile.
+
+	|91-93.~ 
+
+   ^Io m'assetai in su quelle spalaze;~
+   ^s@i volli dire, ma la voce non venne~
+   ^com'io credetti: `Fa che tu m'abraze'.~
+
+	D. dice che esso volse, e non puot@e dir a V.: ^FA CHE TU M'ABRAZE~, 
+per@o che l'era diretro.
+
+	|94-96.~ 
+
+   ^Ma esso, ch'altra volta mi sovenne~
+   ^ad altro forse, tosto ch'io montai~
+   ^con le bracia m'avinse e mi sostenne.~
+
+	D. mostra como la ragione non se conduce che l'omo li ricorde la 
+cossa, ch@e essa fa ci@o che convene.  E cos@i fe' V., s@i como ha fato 
+in pi@u lochi, si como te ho dicto.  ^AVINSE~, zo@e mi leg@o.
+
+	|97-99.~ 
+
+   ^E disse: <Gerion, moviti omai:~
+   ^le rote large, e lo scender sia poco;~
+   ^pensa la nova soma che tu hai>.~
+
+	Qui V. nomina chiaramente questo Gerione, posto in figura de la 
+fraudolentia, e dice ^MOVITI ETC. LE ROTE LARGE~.  Questo se intende 
+che, quando uno cavalca per perigliosa via ascendendo, per la qual se 
+convegna dar alcune volte, se li dice <fa larga la volta>, ch@e 
+facendola stretta cade de ligiero; e per@o dice <le rote large>.  ^LO 
+SCENDER SIA POCO~, ^idest~: <Adasio! pensa che costui @e vivo>; e per@o 
+dice ^NOVA SOMMA~.
+
+	|100-105.~ 
+
+   ^Come la navicella esce de loco~
+   ^in dietro in dietro, s@i quindi si tolse;~
+   ^e poi che tuto se sentia a gioco,~
+
+   ^l@a ov'era 'l petto, la coda rivolse,~
+   ^e quella tesa, como anguilla, mosse,~
+   ^e con le branche l'aere a s@e racolse.~
+
+	Qui D. fa una comparatione de Gerione a la navicella che esce de[l] 
+loco ove @e stata ingradata e va in mari a poco a poco: coss@i el dicto 
+Gerione.  ^E POI ETC.~, ^idest~ al gioco como sta il boe.
+
+	^L@A OVE ERA IL PETTO ETC.~  Questo ha altro senso che quello che pare 
+a la litera.  Questa bestia rivolse la coda, ^idest~ a dire che, quando 
+questi fraudolenti sono 'nanti a persone aragionate che cognoscono li 
+lor defeti, alora piegano la coda, ^idest~ lo loro malicioso ingegno, 
+vedendo che non p@o usare soa arte.  ^E CON LE BRANCHE ETC.~  Questo 
+aire intendi per la caliginosa qualit@a del vitio de la fraude.
+
+	|106-108.~ 
+
+   ^Magior paura non credo che fosse~
+   ^quando Fetonte abandon@o li freni,~
+   ^per che 'l ciel, come par ancor, si cosse.~
+
+	Qui D. fa una comparatione d'una favola che mete Ovidio 
+^Metamorphoseos~ libro 2°, e io la breviar@o pi@u che posso.  Feton, 
+figlio del Sole e de Climine, volendossi acertare se 'l Sole era so 
+patre, disse: <Io ti prego che mi lassi cavalcar lo to carro con li toi 
+quatro cavalli>.  El patre, per@o che li avia promisso de non negare 
+alcuna soa domanda, li convenne satisfare.  El dicto Fetonte ascend@e 
+il carro e non atese a li acti del regimento li quali lo patre li avia 
+deto; per@o che era asai vagabundo, lass@o stracorre li cavalli 
+passando per li cieli e per li elementi, donde che tuto se arse, 
+^et[iam]~ una partita de la terra.
+
+	|109-114.~ 
+
+   ^N@e quando Icaro misero le reni~
+   ^sent@i spenar per la scaldata cera,~
+   ^gridando 'l patre a lui <Mala via tieni!>,~
+
+   ^che fu la mia, quando vidde ch'era~
+   ^ne l'aere e d'ogni parte vidi spenta~
+   ^ogni veduta fuor che de la fera.~
+
+	Qui fa un'altra comparatione de Icaro, figlio de Dedalo, el qual toca 
+V. nel principio del VI ^Eneidos~.  Dedalo, essendo col figlio pregione 
+in una isola presso l'isola de Creti, pens@o ingeniosamente fugire col 
+figlio, il qual se chiam@o Icaro; e fecesse ale a lui e al figlio, e 
+amagistr@o el figliolo che tenesse la via doppo lui.  El giovene, 
+sentendosi lizere sopra l'aere, and@o tanto alto che 'l calor del sole 
+li liquefece la cera a la qual erano agionte le ale impenate, per modo 
+che esso cadde in mari, e se chiam@o per questo lo Mare Icareo.  Cos@i 
+[D.] divenne quando se sent@i portar e non vedea altro che Gerione.
+
+	Or diciamo perch@e D. introduce qui questo Gerione.  Costui fo re de 
+Spagna, omo pieno d'ogni fraude; e per le soe fraude fece grandi 
+acquisti.  E li poeti lo figurano omo de tre facioni, e coss@i se 
+figura qui la faza de omo, la pelle e lo dosso d'un serpente, con la 
+coda [de scorpione].  E fingeno che Ercule lo occise; unde Ovidio 
+^Epistularum~: <Prodigium triplex armentis dives Yberi / Gerionis etc.>.
+
+	|115-117.~ 
+
+   ^Ella sen va notando lenta lenta;~
+   ^rotta e discende, ma non me n'acorgo~
+   ^se non ch'al viso e di sotto mi venta.~
+
+	Qui dice como questa frode fa li acti soi, dicendo ^LENTA ETC.~  E poi 
+dice ^NON ME NE ACORGO~: e cos@i fanno.
+
+	|118-120.~ 
+
+   ^Io sentia gi@a da la man destra il Gorgo~
+   ^far sotto noi un orribile stroscio,~
+   ^perch'io con gli ochi in gi@u la testa sporgo.~
+
+	D. dice che sentiva el Gorgone il qual, como te dissi de Medusa, chi 
+lo guardava diventava pietra.  E dice che sentiron lo dicto Gorgone far 
+^UN ORRIBILE STROSSIO~, ^idest~ fracasso.
+
+	|121-126.~ 
+
+   ^Allor fu' io pi@u timido a lo scoscio,~
+   ^per@o ch'io vidi fochi e senti' pianti;~
+   ^ond'io tremando tuto mi rascoscio.~
+
+   ^E vidi poi, ch@e nol vedea davanti,~
+   ^lo scender e il gridar per li gran mali~
+   ^che s'apressavar da diversi canti.~
+
+	Mostra qui D. como fo ^PI@U TIMIDO A LO SCOSCIO~, ^idest~ a lo 
+scotere, perch@e vide etc.  ^ME RACOSCIO ETC.~, ^idest~ me restrinxe.  
+E coss@i a poco a poco vedea che esso scendea ^E IL GRIDARE ETC.~ 
+<Racoscio>, ^idest~ stringo le cosce.  <Scosso>, ^idest~ de l'aqua che 
+se movete.
+
+	|127-136.~ 
+
+   ^Come 'l falcon ch'@e stato assai su l'ali,~
+   ^che senza veder lodoro o ucello~
+   ^fa dir al falconer <Om@e, tu cali!>,~
+
+   ^discende lasso onde si move isnello,~
+   ^per cento rote, e da lungi se pone~
+   ^dal suo maestro desdegnoso e fello;~
+
+   ^coss@i ne puose al fondo Gerione~
+   ^a pi@e a pi@e de la scagliata roca,~
+   ^e, discarcate le nostre persone,~
+
+   ^si dilegu@o come da corda coca.~
+
+	Qui D. fa una comparatione del falcone, la quale @e chiara.  E coss@i 
+Gerione puse V. e lui al pi@e ^DE LA STAGLIATA ETC. E, DISCARCATE ETC., 
+SI DELEGU@O ETC.~, ^idest~ lo dicto Gerione, come la noca del quadrello 
+de la corda de la balestra.

@@ -1,0 +1,13 @@
+#! /bin/sh
+
+# Record a note in a HISTORY file
+
+if [ -f HISTORY ]; then
+	echo 'Appending to HISTORY.  Enter 1 or more lines; end with ^D.'
+else
+	echo 'Creating HISTORY.  Enter 1 or more lines; end with ^D.'
+fi
+
+echo '-------------------------------------------------' >> HISTORY
+echo Entered on `date +"%d %b %Y"` by $USER: >> HISTORY
+cat >> HISTORY

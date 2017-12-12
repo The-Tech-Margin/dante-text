@@ -1,0 +1,21 @@
+Fri Sep 13 15:57:47 EDT 1985 jvs pre-edited 1-5
+Fri Sep 20 16:20:24 EDT 1985 jvs pre-edited 6-22
+Thu Sep 26 17:18:58 EDT 1985 jvs pre-edited 23-34
+Tue Feb 18 14:25:57 EST 1986 jvs downloaded 18-34 for KB, and delivered discs and hardc
+Tue Jan 31 14:20:11 EST 1989 all .a and .b files deleted today by JMA
+Sun Feb 12 14:19:28 EST 1989 preloaded inf jvs
+Thu Feb 16 19:39:22 EST 1989 fixed M-0 problem in 03 and 06 jvs
+Thu Feb 16 19:39:52 EST 1989 fixed title inconsistency all files inferno. jvs
+Mon Feb 20 08:48:23 EST 1989 deleted xfer garbage "^E^[[29~" from 01.f jvs
+Mon Feb 20 08:50:20 EST 1989 03.f: deleted xfer garbage "^[[2~" jvs
+Mon Feb 20 08:53:57 EST 1989 06.f: removed xfer garbage "^[[29~^[[29~ jvs
+Mon Feb 20 09:05:08 EST 1989 preloaded corrected 01.f, 03.f and 06.f jvs
+Thu Mar 23 16:03:30 EST 1989 jvs removed obsolete .e files
+Thu Mar 23 16:03:44 EST 1989 jvs renamed .f files to .e
+Tue Jun 27 22:51:09 EDT 1989 jvs removed all ligatures from all files, as per direction from bobh
+Tue Jun 27 22:51:38 EDT 1989 jvs (unligatured files currently
+*.nolig)
+Mon Jul 31 07:36:27 EDT 1989 jvs deleted obsolete .e files: those with ligatures
+Mon Jul 31 07:36:40 EDT 1989 jvs renamed .noligs files to .e files
+Thu Dec 7 09:04:01 EST 1989 corrected 12 and preloaded jvs
+Tue Apr 16 22:01:01 EDT 1991 jvs preloaded .e files: NO Ligatures

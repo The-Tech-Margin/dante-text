@@ -1,0 +1,341 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Singleton
+	Language   = English
+	Pub. Year  = 1970
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.t into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49417 Feb 21 20:45 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.t into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46915 Feb 21 20:45 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.t into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40633 Feb 21 20:46 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.t into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       44288 Feb 21 20:46 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.t into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29701 Feb 21 20:47 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.t into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32552 Feb 21 20:47 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.t into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33842 Feb 21 20:47 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.t into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30592 Feb 21 20:48 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.t into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50072 Feb 21 20:48 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.t into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       52772 Feb 21 20:49 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.t into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       53781 Feb 21 20:49 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.t into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       60059 Feb 21 20:50 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.t into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       62265 Feb 21 20:50 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.t into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57253 Feb 21 20:51 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.t into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       52927 Feb 21 20:51 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.t into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43494 Feb 21 20:52 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.t into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48603 Feb 21 20:53 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.t into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47772 Feb 21 20:53 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.t into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45670 Feb 21 20:54 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.t into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41851 Feb 21 20:54 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.t into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34156 Feb 21 20:55 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.t into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48952 Feb 21 20:55 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.t into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55240 Feb 21 20:56 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.t into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54004 Feb 21 20:57 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.t into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       61602 Feb 21 20:57 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.t into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59987 Feb 21 20:58 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.t into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       79368 Feb 21 20:59 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.t into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48538 Feb 21 20:59 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.t into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50689 Feb 21 21:00 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.t into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46997 Feb 21 21:00 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.t into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       62236 Feb 21 21:01 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.t into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56083 Feb 21 21:01 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.t into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Singleton...
+Verifying Singleton...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48842 Feb 21 21:02 ../staging/inf/34

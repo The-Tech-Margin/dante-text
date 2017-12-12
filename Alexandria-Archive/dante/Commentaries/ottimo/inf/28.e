@@ -1,0 +1,485 @@
+	|Proemio.~  Dimostrata la qualitade che nella VIIJ bolgia
+si punisce, cio@e della semplice [fraude]; procedendo alla VIIIJ
+bolgia, in questo capitolo tratta di quella fraude, per la quale
+li popoli furono scommessi e scandalizzati, la quale con aperta e
+palese demostrazione in scisma e scandali [c]ommette errori.  Li
+autori della quale fraude pone qui tagliati, e maculati nelli
+loro membri, a dimostrare li simiglianti mali prodotti da loro
+operazioni: per la cui grandissima quantitade e qualitade
+essemplificare, introduce in questo cominciamento le passate
+guerre fatte in sulle terre di Puglia, come apparir@ae di sotto;
+dicendo, che se tutti li fediti e morti nelle dette guerre si
+racogliesero insieme, non si troverebbe in loro tante
+pestilenzie, e orribilitade di fedite e di morti e di
+percussioni, quanta era quella ch'era nelli dannati puniti nella
+VIIIJ bolgia.
+
+	|1-6.  Chi poria mai~ ec.  Volendo l'Autore mostrare la
+grandezza del sangue, e delle piaghe della VIIIJ bolgia, usa un
+colore rettorico, per lo quale pi@u lascia nello intendimento
+dello auditore, ch'elli non specifica, in ci@o che dice: ogni
+lingua sarebbe insufficiente per lo difetto de' vocaboli latini,
+e della memoria, che non @e tanto capace.  Dice dunque, che tanta
+era la diversit@a delle piaghe, e li modi delli impiagati, che non
+in versi, dove il dicitore @e costretto a dire in certo numero di
+silabe, e a venire a certa rima per consonare nella sua opera; ma
+chi le volesse trattare in parole sciolte, cio@e non tenute alli
+detti stili, non potrebbe ritrare a pieno per difetto di parole,
+che non si stende tan[t]o, e difetto di mente; per@o che quella
+quantitade e diversitade s@i @e fuori d'ogni contegno d'umana
+mente, onde hanno insufficiente tenuto il sermone nostro, e la
+mente.  Ma avegnach@e naturalmente, n@e artificialmente non si
+possa espriemere per nostro parlare tanta moltitudine, volle
+l'Autore ad intelligenzia parlare d'alcune grandissime battaglie,
+nelle quali moltissimi uomini furono distrutti e morti; e poi
+della soma di quelli fare comparazione a quelli ch'elli vidde, e
+essere li predetti nulla verso essi; e fa menzione, come apparir@a
+nella esposizione del testo.
+
+	|7-8.  Se s'adunasse~... |Fortunata terra~ ec.  Qui
+comprende tutto quello, che di sotto particularmente scrive; e
+dice fortunata, per@o che pi@u a caso, che per ragione @e stata
+menata.
+
+	|10-12.  Per li Troiani~ ec.  Questa @e la prima: dice
+alcuno che fu la guerra, che fu tra Enea e Turno.  -- |e per la
+lunga guerra~ ec.  Qui tocca l'Autore la seconda guerra africana,
+la quale si cominci@o per Anibale figliuolo [d'Amilcare nell']
+anno poi che Roma fu fatta DXXXIIIJ, la quale dur@o anni XVII. 
+Anibale pass@o col suo navilio d'Affrica in Spagna, e puosesi ad
+assedio sopra Sagunto citt@a antiquissima di Roma, e stetevi VIII
+mesi, e quelli vinti dalla fame si renderono.  Quelli
+miserabilmente li tratt@oe e la citt@a disfece; poi passando li
+monti Pirenei, per le ferocissime genti di Gallia per forza di
+ferro la via s'aperse.  Venne in Lombardia con C'M pedoni, e con
+XX'M cavalli, con L elefanti, e combatt@e presso a Piagenza con
+Plubio Cornelio Scipione, e quello vinse; poi pass@o in Toscana;
+poi apo il lago Transumeno sconfisse Flaminio consolo con l'oste
+romana, e uccise.  Ora incominciano quelle che fece in Puglia,
+nell'anno DXL, Anibale coll'oste sua.  Nella contrada di Canni
+eran Lucio Emmilio Paulo e Terrenzio Varroni consoli contro
+Anibale mandati.  Per impazienzia di Varrone male aventuratamente
+apo Canni, uno borgo, fue combattuto; dove poco meno che tutte le
+forze e speranze de' Romani furono morte, avegnach@e de l'oste
+d'Anibale la maggiore parte fosse tagliata.  In null'altra
+battaglia furono li Romani da quelli di Cartagine cos@i recati al
+neente, perch@e vi mor@i il consolo Paolo Emilio, e XX'M tra uomini
+patrizj e stati consoli, e XXX'M sanatori tra morti e presi, e
+CCC gentilissimi grandi uomini, e pedoni da combattere XL'M, e
+cavalieri III'MD; ma Varrone consolo con gli altri cavalieri
+fugg@i a Venusio fedito; e non @e dubbio che quello sarebbe stato
+l'utimo d@i dello stato di Roma, se Anibale incontanente dopo la
+vitoria fosse venuto alla citt@a di Roma, e quella avesse intesa
+ad assalire.  Ma Anibale tre moggia d'anella mand@o a Cartagine in
+testimonio della sua vittoria, le quali avea tratte delle dita
+delli cavalieri romani, e delli sanatori, e dell'altri gentili
+uomini, che morirono in quella battaglia.  Poi Claudio Marcello,
+essendo pretore, fue fatto consolo, il quale l'oste d'Anibale
+sconfisse, e fue il primo che rend@e speranza a' Romani; Sempronio
+Gracco per consolo in Lucania a tradimento fu morto; Centeno
+Penula centurione, adomandando che li fosse conceduta la
+battaglia contro Anibale, fue da lui sconfitto con VIIJ'M uomini
+che dati li furono, e elli morto.  Dopo costui Graco Fulvio
+pretore, vinto da Anibale, perduto l'oste appena scamp@oe; poi nel
+X anno, ch'elli era entrato in Italia..., di Campagna mosse
+l'oste, e vegnendo per la via latina per le campagne di Sedecimo,
+e di Suessimo, faccendo grande mortalit@a d'uomini al fiume Annio,
+presso a Roma a tre miglia puose il campo, poi venne infino
+presso alle porti; e quivi da ciascuna parte a campo s'aparechi@oe
+due volte la battaglia, e due volte fu impedita da fortuna di
+tempo; onde Anibale si torn@o in Campagna.  Poi uccise Anibale
+Fulvio proconsolo, e XI tribuni, e XVII'M d'uomini d'arme: poi
+Marcello consolo con Anibale tre continovi d@i combatt@e; il primo
+d@i con battaglia iguale si partirono, nel seguente fu il Consolo
+vinto, e nel terzo fu vincitore, e VIIJ'M uomini d'arme [prese],
+e fece partire Anibale di campo.  Fabio Massimo T[a]ranto
+un'altra volta rubellato combattendo vinse, e quivi grandissima
+oste d'Anibale col doge suo Ca[r]talone uccise e disperse, e
+XXX'M d'uomini vend@e, e il prezzo rec@o in comune.  Nel seguente
+anno Claudio Marcello consolo da Anibale con tutta l'oste fu
+morto; [e fu morto] Asdruballe fratello d'Anibale con l'oste sua
+al lago Transimeno, e la testa sua porta e gittata innanzi l'oste
+d'Anibale.  Con la gente sua il XIIJ anno, ch'era venuto in
+Italia, si torn@o in Abruzzo.  Dopo le dette cose uno anno
+continuo parve che fosse riposo, per@o che ne l'oste di catuno
+aveva grandissima infermit@a.  Poi Scip[i]one fatto consolo
+trapass@oe con oste a Cartagine, e constrinseli s@i forte, ch'elli
+mandarono comandamento ad Anibale, che con l'oste tornasse in
+Cartagine per soccorere i suoi; il quale piagnendo abandon@o
+Italia, e uccise tutti li suoi cavalieri d'Italia, che non lo
+volessono seguire, e tornossi in Affrica.  Ora anovera, lettore,
+se tu sai, quanta gente per@i nelle terre di Puglia in questa
+seconda guera d'Affrica, e metti a conto nella VIIJ bolgia.
+
+	|13-14.  Con quella~... |a Ruberto Guiscardo~ ec.  Questo
+Ruberto Guiscardo, figliuolo di Ruberto duca di [Nor]mandia, il
+quale lasciata la eredit@a del padre al maggiore, cio@e a Riccardo
+suo fratello, lasciata Normandia, con gente d'arme se ne venne in
+Italia negli anni del Signore circa MXL, e aquistossi per forza
+d'arme Sicilia, Puglia e Calavr[i]a, e tutto il regno, e fu fatto
+re di Puglia, e sconfisse li Viniziani, e lo 'mperadore de'
+Greci, e prese Roma in favore di papa Gregorio, il quale con li
+suoi Cardinali era assediato circa li anni del Signore MLXXIIIJ
+da Arrigo terzo imperadore, il quale aveva fatto eleggere in papa
+Gu[i]berto, arcivescovo di Ravenna, e facevalo chiamare Clemento;
+il quale Imperadore col suo Papa fugg@i a Siena.  Il detto Ruberto
+Guiscardo rimase in Laterano: papa Gregorio molti Romani
+graviamente pun@i; poi and@o il detto Papa in Puglia con detto
+Ruberto; e nel MCVIJ il detto Ruberto Guiscardo vinse Allesso
+imperadore di Costantinopoli.  Ma il suo principio fu, ch'elli
+venne con Normandi e Francieschi grande oste a Roma per volere
+prendere la terra, se potesse; quindi discacciato per forza entr@o
+in Puglia, e a poco a poco prese tutto il Regno; questi ebbe uno
+figliuolo nome Ruggieri, re di Sicilia, e una figliuola ch'ebbe
+nome Gostanzia, che fu madre di quello imperadore Federigo, che
+fu promosso contro a Otto imperadore.
+
+	|15-16.  E l'altra, il cui ossame~... |A Ceperan~ ec.
+Queste sono l'ossa degli uccisi [nella sconfitta], che di@e Carlo
+conte di Provenza allora a Manfredi, figliuolo naturale di
+Federigo imperadore, nel MCCLXV.  Il detto Carlo per ricoverare
+il regno di Sicilia, il quale gli era dato da Urbano papa IIIJ a
+Roma, ove era eletto Sanatore, per mare venne, e ivi il d@i
+dell'Epifania per comandamento di papa Clemento IIIJ del detto
+regno fu coronato, e li suoi cavalieri ne vennero per terra, e
+entrato in Puglia, e preso per forza San Ge[r]mano e altre terre,
+infino al ponte a Benevento con la gente venne; e ivi aboccandosi
+con Manfredi, e con la sua gente l'utimo d@i di Febraio, per forza
+di battaglia di campo Manfredi del reame e della vita spogli@o, e
+la sua gente fu per lo pi@u morta e presa.  Intra quali fu lo
+conte Giordano, e Piero Asino degli Uberti presi, e mandatine in
+Provenza fece morire.  E in questo tempo ebbe tutta la terra di
+Puglia, e la pi@u parte di Sicilia, e fu la cagione della venuta
+del detto Conte d'Angi@o; per@o che essendo in Sicilia e in Puglia
+alcuni rettori, e spezialmente il detto re Manfredi, li quali non
+si conformavano bene con la Chiesa, pens@o il Papa e li Cardinali
+di volere torre costui della Signoria, e mandarono per lo detto
+Carlo fratello di Lodovico re di Francia, e promisongli di farlo
+re di Sicilia; onde venne, come @e detto di sopra, a Roma, e [per]
+la disensione, ch'era tra li Romani, fu fatto Sanatore: dove
+dimorato per IIIJ mesi, e ragunata sua gente pass@o in Puglia, e
+venne a Ceperano, e sconfisse gente del re Manfredi.  Dopo la
+quale sconfitta uno de' Baroni pugliesi si part@i dal re Manfredi,
+e andonne al detto re Carlo; per la qual cosa il re Manfredi
+aspett@o la battaglia, cognoscendo li costumi de' Pugliesi, e
+vennene a Capova, e quivi credette combattere: ma il re Carlo si
+ritrasse lungo Ceperano infino a Benevento.  Manfredi il segu@ie, e
+nel piano di Benevento s'afrontarono; li Pugliesi fuggirono;
+Manfredi fu vinto.  Vero [@e] che la prima schiera di Manfredi,
+ch'era de' balestrieri e arcadori, permolti Franceschi e
+Provenzali caddono.
+
+	|17-18.  E l@a da Tagliacozzo~ ec.  |Il vecchio Alardo~
+ec.  Qui racconta l'altra battaglia campestre che fu tra 'l detto
+re Carlo, e Curradino figliuolo di Federigo Imperadore secondo,
+nella quale il detto Curradino fu sconfitto; il quale Curradino
+venne della Magna per torre il reame di Sicilia al re Carlo nel
+mille ducento sessanta sette, e poi nel MCCLXVIII del mese
+d'Agosto con sua gente, acompagnato da don Arigo Sanatore di
+Roma, e fratello del re di Castella, e da molti Romani, contro al
+re Carlo entr@o in Puglia; a cui il detto re Carlo con sua gente
+nel piano di San Valentino a Tagliacozzo si fece incontro, e la
+vilia di San Bartolomeo d'Agosto, morto gi@a il maliscalco del re
+di Francia, e grande parte della gente del detto re Carlo messa
+in sconfitta, il re Carlo con la sua schiera percosse e sconfisse
+Curradino quasi nell'ultima ora del die; e la detta battaglia si
+condusse per lo senno del detto messer Alardo.  Questo Curradino,
+sommosso dalli amici dello avolo ch'erano in Italia, per lettere
+e ambasciate che venisse ad essere Signore, prima ne venne a
+Verona, e men@oe per suoi conducitori il duca di Baviera, e 'l
+conte di Tirallo; la cui venuta sentita per li Saracini di Nocera
+di Puglia, incontanente si ribellarono al re Carlo, per@o che
+sostenevano gravi oppressioni da' Franceschi.  Quella citt@a fece
+fare il re Manfredi, e fecela abitare a' Saracini suoi soldati
+per tenere il capresto alla gola a quegli Pugliesi, che non
+voleano essere sotto sua signoria.  Stato Curradino tre mesi in
+Verona, [n'] and@o a Pavia; poi per mare venne di verso Genova a
+Pisa, e quivi acolse tutta forza di parte ghibellina; il re
+Carlo, lasciato un suo maliscalco in Toscana, se n'and@o in
+Puglia.  Curradino cavalc@o sopra Lucca, e sconfisse il maliscalco
+del re.  Era allora, come @e detto di sopra, messer Arrigo di
+Spagna Sanatore di Roma, e avegnach@e fosse parente del re Carlo,
+s@i l'avea in odio, s@i che mand@o per Curradino.  Curradino fue a
+Roma con sua gente contra il volere del Papa; poi con la sua
+gente, e col detto Sanatore, e col popolo di Roma n'and@o in
+Puglia, e avisato contra al re Carlo, ciascuna parte fece tre
+schiere.  Vero @e che dopo un luogo occulto rimase il re Carlo con
+CCCC cavalieri, e misse in una delle dette tre predette schiere
+uno in forma e in abito di re: li Tedeschi sconfissero la gente
+del re, e credendo avere vinto tutto, atendendo alla preda e a'
+pregioni, il re con li detti CCCC cavalieri di leggiero gli
+sconfisse per consiglio del detto, che non potea arme.
+
+	|19-21.  E qual forato suo membro~ ec.  Torna, dopo li
+essempli dello smisurato numero, alla forma delle pene, dicendo
+ancora come li predetti morti, e tagliati in Puglia non si
+potrebbono n@e per quantit@a, n@e per qualit@a aguagliare a questi. 
+Qui compie l'Autore sua comperazione, che se tutta questa gente
+cos@i tagliata nelle sopradette V battaglie fosse in uno luogo, e
+ciascuno mostrasse le sue fedite, sarebbe nulla a comparazione di
+quelli, ch'elli vide nella detta VIIIJ bolgia.  E in prima per
+simiglianza d@a uno essemplo, che elli vide gi@a botte alcuna volta
+sanza il mezzule, alcuna volta sanza l'una delle lulle; ed @e
+lulla quella parte del fondo della botte, che dal mezzule alla
+strema parte si congiugne alla botte; ma nulla era cos@i sozza,
+come la rottura ch'era in Maumetto.
+
+	|22-31.  Gi@a veggia~ ec.  Poi che in genero ha parlato di
+tutti quelli della VIIIJ bolgia, qui in particulare tratta della
+qualit@a della pena d'uno principe di questi scismatici, cio@e di
+Maumetto, il quale con la sua scisma hae pi@u danno dato alla
+Chiesa di Dio, e alla fede cristiana, che nullo, o tra tutti gli
+altri incomparabilmente.  Dice, che cos@i non si pertugia veggia,
+n@e per perdere il suo mezzule, o la parte che gli @e dallato, che
+ha nome lulla, come costui era rotto dal mento alle natiche, e
+che era s@i fesso, che tutte le parti dentro li pendeano tra le
+gambe: e poi lo induce l'Autore a mostrare il fesso petto, e
+nominare s@e essere Maometto.  Nelli anni del Signore circa DCXXI,
+essendo papa Onori[o] primo, e imperadore Eraclio, Maometto
+profeta de' Saracini si lev@oe, il quale fue negromante, e gravato
+d'infermitade che si chiama epilensia, e fue appostata.  Quando
+per quella infermit@a cad[ea], acci@o che la gente non se n'adesse,
+facea credere, che allora parlava con l'Angelo; e dicesi che
+costui, essendo capo di certi uomini dati a uccidere e a rubare,
+per la costoro forza divenne re, e fue amaestrato da uno monaco
+eretico, ch'ebbe nome Sergio.  In sulla malattia ch'elli fece,
+questo Maometto mor@ie al tempo del detto Imperadore, e dopo lui
+signoreggi@oe Abu[bek]er.  Del quale Maometto si figne altrimenti:
+dicono alcuni, ma non @e vero, ch'egli fu cardinale, e savio
+scienziato; e che in servigio della fede cristiana and@o a
+predicare in Affrica; e che fu s@i grazioso, che quasi tutte
+quelle parti ridusse a cristianitade; e che quando elli and@o di
+l@a, li fue promesso per li cardinali il papato, se 'l Papa
+morisse anzi ch'egli ritornasse, la qual cosa non fecero: per lo
+quale sdegno predic@o alla gente convertita il contrario, e di@e
+loro nuove legge; per la qual cosa fu pronu[n]ziato scismatico. 
+Mor@i circa gli anni di Cristo DCXXV a mezzo Luglio.
+
+	|32.  Dinanzi a me sen' va~ ec.  Al@i fu grande discepolo
+di Maometto, e eccellente in quella legge.
+
+	|34-42.  E tutti gli altri~ ec.  Qui conchiude, che tutti
+quegli della VIIIJ bolgia sono seminatori di scandoli e di
+scisma, e per@o sono cos@i fessi; e manifesta chi @e colui, che cos@i
+li fende; e con che @e tutto il processo di questa pena.
+
+	|43.  Ma tu chi se'~ ec.  Questa domanda all'Autore @e
+chiara; ma qui domanda Maometto, per@o che crede che Dante fosse
+autore di nova scisma, e elli non sapea che dopo fra Dolcino
+nullo fosse levato a seminare il malvagio loglio nella terra
+cristiana, e ne l'orto di Piero.
+
+	|46.  N@e morte 'l giunse ancor~ ec.  Questa risposta, che
+fa Virgilio a Maometto, @e assai chiara e aperta.
+
+	|55-60.  Or di' a fra' Dolcin~ ec.  In questa parte
+Maometto palesa uno scismatico, il quale nuova zizzania avea
+seminata nel terreno lombardo, nome fra' Dolcino.  Fue apostata;
+e antivedendo Maometto che il fine suo dovea essere come il testo
+pone, dice a cautela di lui, che s'armi di vivanda ec.  Questo
+fra' Dolcino con li suoi seguaci si ridusse nella montagna di
+Noara, per la quale difendendosi dalli uomini per la fortezza
+dello luogo, ma non dello assedio celestiale della neve, neente
+di meno da tutti li Lombardi per comandamento della Chiesa
+assediato, fue preso, e nella sopradetta terra con suora
+Margherita, e molti e molti de' suoi fue arso: e io scrittore ne
+vidi de' suoi ardere a Padova in numero di XXII a una volta;
+gente di vile condizione, idioti, e villani.
+
+	|61-80.  Poich@e l'un pi@e~ ec.  Segue il poema; e poi
+ch'ha detto delli scismatici partiti dalla unione della santa
+Chiesa, fa qui menzione de' seminatori di scisma, e di scandoli
+tra le persone; e introduce un altro scismatico, ch'avea forata
+la gola, e tronca la pi@u nobile parte del viso, e uno orecchio, a
+denotare che in costui non fu tanta offensione; nello quale nota
+la seconda spezzie di scisma.  Questi dice, che fu Piero da
+Medicina del contado di Bologna, il quale allo Autore dice un suo
+antivedimento, acci@o che elli il faccia noto a due Marchigiani
+della citt@a di Fano, li quali Malatestino de' Malatesti avendogli
+fidati, e venendo a parlarli per mare, dovendo venire infino a
+uno luogo detto la Cattolica, ch'@e in mezzo tra Rimino e Pesero,
+ivi presso li fece gittare in mare; s@i che non torna[rono] verso
+Fano, e per@o non passarono ritornando sotto uno luogo detto la
+Focara, ch'@e tra Cattolica e Pesero, dove @e una foce d'impetuosi
+venti, li quali molto sono temuti da' navicanti; onde non bisogn@o
+ivi per paura di quelli venti pregare Idio che gli aiutasse; e
+dice:
+
+	|81.  Per tradimento~ ec.  Cio@e di Malatestino, del quale
+@e scritto capitolo XVII ^Inferni~; e dice:
+
+	|82-87.  Tra l'isola di Cipri~ ec.  Queste parole dice
+l'Autore ad infamia e detestazione del tradimento, che fece loro
+Malatestino, dicendo che tra l'isola di Cipri, ch'@e la prima del
+Levante, e quella di Maiolica, ch'@e l'utima di quello mare del
+Leone mediterraneo, Nettuno, cio@e il mare (perch@e li Pagani
+chiamano Nettuno, figliuolo di Saturno, Dio del mare) non vide
+fare s@i grande fallo, n@e da pirati, cio@e corsali, n@e da gente
+argolica, cio@e gente greca, cos@i detti da Argos, che fu la prima
+nave, o vero da Argo citt@a di Tesaglia.  E per certo segnale
+dinomina il tiranno, per@o che Malatestino non avea che un occhio,
+l'altro perd@e da fanciullo per uno colpo, che da uno di sua etade
+vi ricevette entro: poi il dichiara per la terra, ch'egli tiene;
+la quale mentovando, induce un altro scandelizzatore, dicendo,
+che quello cotale vorrebbe essere digiuno della veduta di Rimino. 
+Onde nota, che molti e crudeli mali sono stati fatti, e si fanno
+nel mare mediterraneo per corsari di diverse generazioni, e
+lingue, e per Greci, e per Latini, e [per] Cristiani, e per
+Saracini.
+
+	|91.  Ed io a lui~ ec.  Questa domanda, che fa l'Autore a
+Piero da Medicina, @e chiara.
+
+	|94-99.  Allor puose la mano~ ec.  Qui si palesa il nome,
+e 'l fatto di questo scandilizzatore, il quale ebbe nome Curio. 
+Fu Romano, uomo di popolo, del numero delli tribuni del popolo,
+seguace di Julio Cesere: costui, come sospetto a Pompeo, perch@e
+oltre modo parlava per Cesere, usc@ie di Roma, e andandone verso
+Cesere il trov@o in sulla piazza di Rimino con la sua gente armata
+a cavallo, dubitante se era d'andare a Roma, o no, con l'armi
+levate contro la propria patria.  Questo Curio grid@o a Cesere:
+^tolle moras~ ec. tolli via, o Cesere, le dimoranze, le quali
+sempre nocerono alle cose apparechiate; quasi dica: le cose sono
+tutte preste in tuo favore, li amici tuoi hanno sommosso lo stato
+di Roma, li avversarj tuoi sono in paura, e non sanno che si
+fare.  Questo Curio avea con auro, e con parole di promessione e
+di minaccie seminato molto scandolo e divisione in Roma; e per@o
+qui si figura, ch'abbia meno quella lingua, con la quale commisse
+il detto scandolo.
+
+	|100-102.  O quanto mi parea~ ec.  In queste parole con
+amirazione parla l'Autore della diversit@a della presente
+condizione di Curio alla condizione sua, quando grid@o a Roma e in
+Arimino: ^tolle moras~ ec.
+
+	|103-111.  Ed un, ch'avea~ ec.  Qui induce l'Autore un
+altro di questo peccato sozzo, il quale nella citt@a di Firenze
+semin@o scandolo.  Chiamato fu costui messer Mosca de' Lambertini,
+il quale nel MCCXV circa la Pasqua di Risuresso, per@o che sendo
+prima trattato un parentado intra una casa di Firenze chiamata
+Buondelmonti, e un'altra casa della detta citt@a chiamata gli
+Amidei, e fallito per la parte de' Buondelmonti il compiere del
+matrimonio, in ci@o che fatta la ragunata d'amici per giurare la
+donna secondo la costuma fiorentina, lo sposo con la sua gente
+non col@a dove dovea, ma a casa i Donati and@o, per lo conforto
+d'una donna, a sposare una bellissima giovane di quella casa,
+dispettata quella dalli Amidei, perch'era rustica del corpo.  Li
+Amidei, e' loro amici quando ebbero molto aspettato, si partirono
+scornati; poi sentita la cosa, il si recarono a grave ingiuria, e
+ristrinsonsi con loro amici a consiglio, che fosse da fare di
+questa contumelia, la quale ellino si ricevevano a vergogna.  Per
+alcuni amici fu variamente consigliata la vendetta; il detto
+messer Mosca ch'era al detto consiglio, disse che messer
+Buondelmonte, ch'era il maggiore della casa, fosse morto, dicendo
+quello motto: |Cosa fatta capo ha~; e questo disse, perch@e ad
+alcuni parea troppo, cercando a che fine la cosa verrebbe; il cui
+fine finalmente fu preso, e indussevi a ucciderlo li caporali
+amici de' detti Amidei.  Per la cui morte nacque quella zizania
+di parte, e quella divisione d'animi, che non pare che mai debbia
+finire; d'onde inumerabile morte, e fedite, [e] ruberie, e
+arsioni, e presure, e essilii, [e] povertadi, e inopie, e
+avolterii, e altri mali sono seguiti in Toscana: e per@o
+figuratamente si pone questo Mosca reo sanza mani; e dice ello
+stesso, che quelle parole furono il mal seme di Toscana; e
+l'Autore, perch@e li toccava, replic@oe l'argomento, e dice: |e
+morte di sua schiatta~; perch@e i Lamberti, uomini e femine, ne
+hanno sofferta pena chi di morte, chi d'essilio, di distruzione
+di beni, e di povertade: onde dice, che quello Mosca, che col suo
+ago fece assillare Uberti, Amidei, Sifanti, e Conti di
+Gangalandi, racolto l'uno duolo con l'altro, se n'and@o tristo, e
+quasi pazzo.  Questo medesimo effetto quasi ebono le parole
+dell'Autore: capitolo decimo ^Inferni~, di messer Farinata delli
+Uberti.
+
+	|112-113.  Ma io rimasi~ ec.  Sotto queste generali
+parole comprende l'Autore la smisurata orribilitade ch'elli vide,
+come seguita.
+
+	|118-122.  Io vidi certo~ ec.  Qui l'Autore introduce
+un'altra spezie di scisma gravissima, la quale divide intra s@e
+non solo li prossimi, ma ancora li congiunti di sangue; la quale
+figura in uno uomo detto Beltramo dal Bornio, che port@o la sua
+tagliata testa nella sua mano, volto il viso di fuori, come uomo
+fa una lanterna, quando a s@e solo ne fa lume.
+
+	|127-130.  Quando diritto appi@e~... |Or vedi la pena
+molesta~ ec.  Qui introduce l'Autore a fare parlare Beltramo, le
+cui parole denotano la grandezza della sua pena, e il suo
+peccato; nel quale ne essemplifica un altro peccatore innanzi
+l'avenimento di Cristo.  E nota, che l'Autore altro stile tiene a
+parlare di coloro che furono, ed altro nel parlare di coloro che
+[sono] edioti: che se tu riguardi bene, vi vedrai che li
+sottili e ragionati con lui parlano come con uomo; li idioti,
+come ignoranti, parlano con lui come con spirito: ^n@e sa~, che
+colui che nol vede, come @e papa Niccola Orsini, parli come non
+veggente.
+
+	|134-136.  Sappi ch'io son Beltram~ ec.  Fu dunque
+costui, ch'@e cos@i diviso, Beltramo dal Bornio, uomo sottile, e
+valoroso in arme, e fu signore d'uno castello in Inghilterra nome
+Altaforte: fue prima del consiglio del buono re Riccardo
+d'Inghilterra, e famigliarissimo; poi s'apogi@o al re Giovanni
+figliuolo del detto re Riccardo, intra quali semin@o tanto
+scandolo, che il giovane re si rubell@o dal padre, e con lui
+lungamente guereggi@o; finalmente nella detta guerra da lo sforzo
+del suo padre fu morto.  Onde qui figuratamente Beltramo sanza il
+capo nel busto si pone, a dimostrare che s@i come elli part@ie la
+congiunzione del padre, ch'@e principio del figliuolo, (ch'@e tanto
+unito, che quasi uno si giudic@o col figliuolo) che cos@i da s@e
+partito proceda.
+
+	|137-138.  Antitofel non fe'~... |E di David~ ec.  Questo
+Antitofel del popolo d'Isdrael, del consiglio del re David,
+s'acost@o ad Ansalone figliuolo del detto re David; il quale
+Ansalone desiderava d'essere re, e aveva confortato il popo[lo]
+ad apellarlo re, vivente David suo padre: venne il messo a David,
+dicendo con tutto il cuore, tutto Isdr[a]el seguisce Ansalone; e
+disse David alli servi suoi, ch'erano con lui in Gerusalem:
+levatevi, e fuggiamo noi; noi non potremo campare dalla faccia
+d'Ansalon; affrettatevi, uscite fuori, acci@o ch'elli non ci
+sopraprenda, e percuota la citt@a nel taglio della spada.  Uscisene
+il re, e la sua famiglia a piede, e lasci@o X sua alla guardia
+della casa.  VI'C uomini a piede, ch'erano di Geth, che l'aveano
+seguito, andavano innanzi al re: pass@o il re e la gente sua il
+fiume di Cedron, e and@o contro alla via dello Ulivo che guata al
+deserto; venne Sadae sacerdote e li Levi[ti], e recarono l'arca
+^foederis~, e il re li rimand@o indrieto con l'arca: il re e tutto
+il popolo sal@ia per la via dello Ulivo, coperte le teste, a piedi
+scalzi, piangendo.  @E nu[n]ziato a David, che Antitofel era nella
+congiurazione con Ansalone; e disse David: io ti prego, Signore
+Idio, che tu impazzi il consiglio d'Antitofel.  Ansalon, e tutto
+il popolo d'Isdrael entrarono in Gerusalem; e disse Ansalon ad
+Antitofel: tenete consiglio di quello, che io ho a fare; e
+disse Antitofel ad Ansalone: eleggimi XII'M uomini e
+perseguiter@oe David questa notte, e lui stanco percoter@o, e poi
+star@a il popolo in pace.  Piacque ad Ansalon, e a tutti li vecchi
+d'Isdrael questa parola: e fece chiamare Cusi Arachito per udire
+che direbbe; il quale disse: non @e buono il consiglio che diede
+Antitofel a questa volta; ma raguna il popolo d'Isdrael da Adan
+infino Bersab@e, ch'@e come rena di mare innumerabile; e tu sarai
+in mezzo di loro; e andiamo sopra David, e uccidiamoli tutti, e
+non ne lasciamo uno.  Disse Ansalone: migliore @e il consiglio di
+Cusi, che 'l consiglio d'Antitofel; e per consentimento di Dio
+dissipato @e il consiglio d'Antitofel, il quale era utile, acci@o
+che 'l Signore inducesse sopra Ansalon male: e Cusi rinunzi@oe a
+Sadae li detti consigli; e disse che mandasse a David che si
+partisse de' luoghi campestri, acci@o che non sieno questa notte
+morti, e cos@i @e fatto: levosi il re, e quelli ch'erano con lui, e
+trapassarono il fiume Giordano infino che si facesse d@i. 
+Antitofel, vedendo che non fu seguitato il consiglio suo, sell@o
+l'asino, e andossene a casa, e ordinata la casa sua s@e impicc@o, e
+seppelito @e nel monimento del padre suo.  David s'acamp@o, e
+Ansalon misse campo nella terra di Galaad, e David ordin@o la
+gente sua la terza parte sotto Joali, la terza sotto Absai, la
+terza sotto Abisaj.  Usc@i il popolo di David in campo contra
+Isdrael, e fatta @e la battaglia nel campo d'Ifraim, e tagliato @e
+ivi il popolo d'Isdrael da l'oste di David: XX'M uomini vi furono
+tagliati di quelli d'Ansalone.  Fuggendo Ansalon in su uno mulo,
+[i] suoi capelli s'apiccarono ad una smisurata quercia, e quivi
+sospeso tra cielo e terra, il mulo pass@o oltre; e fu detto a
+Joab: tolse Joab tre lancie, e ficcole nel cuore d'Ansalon, e lui
+ancora palp[it]ante X sergenti di Joab l'accisono; e Joab son@o
+alla ritratta, e presono il corpo d'Ansalon, e gittarolo in una
+fossa, e sopr'esso un monte di pietre: e contristato @e il re per
+la morte d'Ansalon.
+

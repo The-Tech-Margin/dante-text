@@ -1,0 +1,1894 @@
+INTRODUCTION TO THE "DIVINE COMEDY"
+
+	ACCORDING to the Ptolemaic system, which was accepted
+from antiquity down to the time of Copernicus, the earth is a
+solid motionless sphere in the centre of the universe.  Around
+it
+revolve nine transparent hollow spheres, each within its
+outside
+neighbor up to the ninth, the Primum Mobile; this imparts its
+movement to the others and constitutes the frontier of the
+material world.  The eighth heaven carries with it all the
+fixed
+stars.  Each of those below it contains one heavenly body: the
+seventh, Saturn; the sixth, Jupiter; the fifth, Mars; the
+fourth,
+the Sun; the third, Venus; the second, Mercury; the first, the
+Moon.  They all circle around the earth together, from east to
+west, once in twenty-four hours.  But each heaven except the
+ninth has, besides, an independent motion of its own, so that
+it
+is really moving in a compound curve, made up of two or more
+different circular revolutions; for instance, the special
+revolution of the moon is accomplished in a month; that of the
+sun, in a year.  By these sets of motions, and an elaborate
+system of computation by epicycles, the shifting positions of
+the
+sun, moon, and stars were accurately accounted for.  Outside
+the
+whole universe of matter is the spiritual Paradise, the
+Empyrean,
+the true abode of God, the angels, and the blest.  The earth
+is
+surrounded by air, and between this air and the heaven of the
+moon is a sphere of fire, toward which all the fire on earth
+is
+striving to return.  All natural operations on earth are
+controlled by the movements of the spheres, which are directed
+by
+nine orders of angels, or Heavenly Intelligences, created by
+God
+for this office.
+
+	We have seen that two of the four elements, fire and air,
+are between the moon and our globe; this body itself consists
+of
+the other two water and earth.  The four are arranged in the
+order of their lightness and their purity.  Dante believed the
+earth to be perfectly spherical and about 20,000 miles in
+circumference.  The continents are all grouped on one side,
+the
+Hemisphere of Land which contains not only Europe, Asia,
+Africa,
+and some islands, but also the Mediterranean and a part of the
+great ocean; at the exact centre of this hemisphere is
+Jerusalem. 
+On the other side is the Hemisphere of Water, in which is no
+land, except (according to Dante's idea) the mountainous
+Island
+of Purgatory, situated precisely opposite Jerusalem.  At the
+top
+of the mountain of Purgatory is the Garden of Eden.  The
+greater
+part of the land on the earth's surface is north of the
+equator,
+the greater part of the water is south; but the Hemispheres of
+Land and Water by no means coincide with the northern and
+southern hemispheres.  At the eastern extremity of the
+Hemisphere
+of Land is the River Ganges, at the western edge are the
+Straits
+of Gibraltar.  The Mediterranean was thought to extend over
+900,
+or a quarter of the earth's circumference; Italy, midway
+between
+Gibraltar and Jerusalem, is therefore 450, or three hours,
+from
+each.
+
+	Hell is a vast cavity in the form of an inverted cone,
+whose apex is at the centre of the earth and whose circular
+base
+lies beneath the Hemisphere of Land, from which it is shut off
+by
+a crust; it extends, apparently, from Italy to mid-Asia.  The
+round declivity of the cavern is broken into nine steps, each
+of
+which runs all the way around it; they are of unequal width
+and
+separated by cliffs of varying height and steepness.  Two
+enormous precipices divide it roughly into three horizontal
+sections.  A huge wall, circling around one of the terraces,
+severs the outermost section from the other two, making an
+Upper
+and a Lower Hell; the latter is called the City of Dis.  On
+each
+of the steps is punished some particular kind of sin: in the
+Upper Hell, the sins of Incontinence, due to lack of
+self-control;
+in the Lower Hell, the sins of Violence and Fraud, due
+respectively to Bestiality (or rather ^bestilialis malitia~)
+and Malace or ^malitia humana~).  Violence occupies the middle
+section Fraud the lowest.  Four steps, or circles, are devoted
+to the four kinds of Incontinence -- lust, gluttony, avarice
+(and
+prodigality) anger.  One circle suffices for Bestiality, but
+it
+is divided into three parts, according to the object of the
+violence: that object may be one's neighbor, one's self, or
+God. 
+Malice occupies two circles: in the first are the fraudulent,
+those who deceived persons not bound to them by any special
+ties;
+in the second are the traitors, destroyers of their kinsfolk,
+their countrymen, their guests, or their benefactors.  This
+last
+circle forms the very floor of Hell; it is a lake of ice at
+the
+bottom of a pit; embedded in the middle, at the centre of the
+earth, is Satan, in whose three mouths are the three
+arch-traitors,
+Judas, Brutus, and Cassius.  Outside of this general
+scheme, but within Hell, are three regions inhabited
+respectively
+by the souls of sluggards and time-servers, those who were
+neither good nor bad; the souls of unbaptized children and
+virtuous pagans; and the souls of heretics.  All three are
+circles, like those mentioned.  The first, sometimes called
+the
+^Antinferno~, is a vestibule, just inside the entrance, but
+outside the River Acheron.  The second, the Limbus, is within
+the
+encircling Acheron, at a lower level than the Vestibule, and
+forms the first of the nine steps.  The third, which
+constitutes
+the sixth circle, lies close within the walls of the City of
+Dis,
+but is separated from the rest of the Lower Hell by a mighty
+precipice.  The souls in the nether world are, then, arranged
+in
+this order: sluggish; ^unbaptized~; lustful, gluttonous,
+avaricious (and prodigal), wrathful; ^heretical~; violent;
+fraudulent, treacherous.  The sluggish, the unbaptized, and
+the
+heretical lie outside the three great classes -- Incontinence,
+Violence, Fraud.  The sluggish are in the Vestibule; all the
+others are in the nine circles.  The punishments vary
+according
+to the sins, each being a retaliation for the offence.  It
+must
+not be forgotten, however, that allegorically the torments
+represent the sins themselves. 'Wherewith a man sinneth, by
+the
+same also shall he be punished '(Wisdom xi, 16).  Dante, under
+the guidance of Reason, ransacks the human heart and learns to
+know wickedness as it really is, stripped of the false
+semblance
+of good.  Thus, for instance, the furious blast that eternally
+wafts the carnal sinners symbolizes irresistible passion; the
+ice
+in which traitors are buried is the coldness of the heart from
+which all love has been expelled.
+
+	In Dante's Purgatory the sinners are arranged as follows:
+lustful, gluttonous, avaricious (and prodigal), slothful,
+wrathful, envious, proud.  Sloth intevenes between avarice and
+anger; envy and pride correspond to the violence, deceit, and
+treachery of Hell; there is no place for paganism or heresy. 
+The
+difference is a natural one.  Hell is the eternal abode of
+those
+who die unrepentant; Purgatory is a place of passage for those
+who, whatever their crimes may have been, die penitent within
+the
+Church.  In Purgatory we have to do only with man's
+fundamental
+evil dispositions, of which the soul is to be cleansed; in
+Hell
+souls are tortured for specific acts or states of the will,
+the
+multifarious fruit of these dispositions.  The seven capital
+vices had long been defined by Church writers, and their
+order,
+in the main, was pretty well established; the relative
+positions
+of sloth and wrath were the most doubtful.  In the ^Moralia~
+of
+Gregory the Great (XXXI, Cap. 45) and in one passage in St.
+Thomas (^De Malo~, VIII, i) they are all arranged as in Dante,
+but St. Thomas has them in three other orders, and apparently
+regards their sequence as unimportant; he prefers ^inanis
+gloria~
+to ^superbia~ as a designation of Pride.  All the sins in the
+Lower Hell are directed against justice, and are due to some
+kind
+of malice, originally caused, perhaps, by Envy and Pride. 
+Pride,
+indeed, is the foundation of all sin, inasmuch as sin consists
+in
+defying God's law; this doctrine is laid down by St. Cyprian,
+and
+recurs in Gregory and St. Thomas.  Sloth, or lukewarmness in
+love
+of the Lord and his creatures, corresponds to the
+philosophical
+^ignavia~ and ^pusillaninimitas~; in so far as it belongs in
+the
+nether world at all, it has its proper place in the Vestibule.
+The unbaptized are beyond redemption, and therefore Purgatory
+is
+denied them.  Heresy belongs to the speculative intellect, not
+to
+the lower appetite nor to the will; it is neither incontinence
+nor malice and therefore has no manifestly appropriate place
+in
+Dante's system, nor in St. Thomas's.  What becomes of
+repentant
+heretics we are not told, but we may assume that their penance
+must be paid in the circle of pride.
+
+	The mystic journey occurs in 1300, the year of the great
+Papal jubilee proclamed by Boniface VIII.  It was a time of
+general religious enthusiasm, an appropriate moment for a
+moral
+awakening.  The date is given vaguely in the opening line of
+the
+poem definitely in ^Inf.~ XXI, 112-4.  This latter passage
+tells
+us also that the descent was begun on the anniversary of the
+crucifixion.  This may mean March 25, the real date, or Good
+Friday, the movable Church anniversary.  Good Friday in 1300
+fell
+on April 8, and several references in the poem seem to fit
+that
+day better than March 25.  ^Inf.~ XX, 127 and ^Purg.~ XXIII,
+119
+inform us that the moon was full the night before; in reality
+the
+full moon occurred in 1300 on April 5, but in the
+ecclesiastical
+calendar for that year the Paschal full moon was set down for
+the
+night of April 7.  ^Purg.~ I, 1920 represents Venus as the
+morning star two days later; this was the case in 1301, not in
+1300, but here again it was surely the almanac that led Dante
+astray.  There is a peculiar fitness in starting on the
+downward
+journey on the evening of Good Friday, when day and hour are
+conducive to gloom.  The ascent of Purgatory, on the other
+hand,
+begins at a time when everything suggests hope, the morning of
+Easter Sunday.  Throughout the poem we are apparently to think
+of
+sunrise and sunset as occurring at six o'clock.  It is, then,
+on
+the night of April 7, 1300, that Dante comes to his senses in
+the
+dark wood of sin.  The next day he spends in trying to
+struggle
+out, directing his steps toward the sunlit mountain of
+righteousness; but three beasts -- his evil habits -- impede
+his
+progress.  When all seems lost, Virgil, or Reason, appears and
+offers to lead him out by another way.  They enter Hell at
+sunset
+on April 8, and spend the night and the next day in their
+spiral
+course, turning always to the left as they descend.  In Hell
+they
+go by the time of Jerusalem, which is directly over the bottom
+of
+the pit.  When they reach the centre of the earth, they pass
+beyond, climbing along the shaggy side of Satan, who is
+planted
+there; then, of course, they are under the opposite
+hemisphere,
+whose middle point is Purgatory, between which and Jerusalem
+there is a difference of twelve hours.  Dante represents
+Virgil
+and himself, therefore, as gaining twelve hours when they pass
+the earth's centre: they have a new Saturday before them, and
+they use all that and the following night in climbing out, by
+a
+dark, difficult cavern, to the other side of the earth, where
+they emerge on the Island of Purgatory on Sunday morning. 
+Dante
+has turned his back on sin, has laboriously weaned himself
+from
+it, and is now ready to cleanse his soul by penance.
+
+	Virgil evidently represents Reason, human understanding,
+as opposed to Revelation, heavenly intelligence, embodied in
+Beatrice.  One may ask why he was chosen for this function,
+rather than Aristotle, 'il filosofo,' 'maestro di color che
+sanno.'  For many centuries the ^Aeneid~ had been the best of
+school-books, the one from which pupils learned grammar,
+rhetoric, history, mythology.  It was expounded literally and
+allegorically.  Its author, at least until Aristotle was
+discovered in the 12th century, was universally regarded as
+the
+wisest man of antiquity, the personification of the best that
+humanity, without superhuman enlightenment, could achieve; and
+even in 1300 his fame was scarcely dimmed by the greater glory
+of
+the Greek philosopher.  Moreover, he had already proved, in
+the
+sixth book of the ^Aeneid~, his competence as a guide to the
+other world.  People generally believed, too, that in his
+fourth
+Eclogue he had unconsciously prophesied the coming of Christ. 
+Furthermore, Aristotle was to Dante only a book, while Virgil
+had
+been so long a figure in popular and scholarly legend that he
+had
+become a distinct personality, one with whom it was a joy to
+travel and from whom it was anguish to part.  Dante thought of
+himself as in reality a disciple and successor of Virgil.  The
+Mantuan was the bard of Imperial Rome, its beginnings in
+history
+and its future greatness as ruler of the world.  The
+Florentine
+was the prophet of the second advent of Rome, now seat of both
+temporal and spiritual authority.  The ^Commedia~ is, then, as
+it
+were, a second ^Aeneid.~  Lastly, Dante felt for the master of
+his childhood, his model in later years, a warm personal
+gratitude that he was eager to express:
+
+     'Tu se' lo mio maestro e 'l mio autore;
+     Tu se' solo colui da cu' io tolsi
+     Lo bello stilo che m'ha fatto onore.'
+     
+In the ^Image du Monde~, of the first half of the 13th
+century, St.
+Paul says of Virgil:
+
+     'Ha! quel je t'eusse rendu
+     A Dieu, se tu fusses vivant!'
+
+One may compare a canticle, sung at the office of St. Paul in
+Mantua, apparently as late as the 15th century:
+
+     'Ad Maronis mausoleum
+     Ductus, fudit super eum
+     Pie rorem lacryme.
+     "Quam te," inquit, "reddidissem,
+     si te vivum invenissem,
+     Poetarum maxime!"
+
+	N. B. -- Whenever Dante's minor works are cited, the
+references are to the Oxford Dante, ^Tutte le opere di Dante
+Alighieri~, edited by Dr. E. Moore, 3d ed., 1904.
+
+	References to the Bible are printed in lower case Roman
+type.
+
+	1. THE FLORENCE in which Dante lived was virtually an
+independent municipality controlled by trades' unions. 
+Intense
+local pride, multifarious energy and enterprise, zest for
+politics, and partisan rivalry kept the blood of her citizens
+hot.  The town was rapidly coming to the front rank among
+European cities; in manufactures and commerce she was a
+leader;
+inrushing wealth and increasing magnificence made her a
+pleasant
+abode.  And all these interests -- self-government, business,
+luxurious living -- had the charm of novelty.  So it was with
+painting, which was undergoing transformation at the hands of
+Giotto, the successor of Cimabue; so with sculpture and
+architecture; so with literature in the vulgar tongue, first
+introduced into Tuscany in the generation preceding Dante. 
+Yet
+all these innovations were developing, not in a traditionless
+new
+settlement, but in a very ancient community, the home of
+countless generations of civilization.  This, no doubt, is the
+reason why all her creative activities, material and
+intellectual, naturally assumed an artistic form in which
+delicacy and sobriety are allied to a dominant sense of
+harmony. 
+It was a fit place for the breeding of genius: the swiftly
+growing town was big enough to afford a field for all kinds of
+talent, and yet so little that all were neighbors and merit
+could
+scarcely go unrecognized.  The public offices, too, were
+numerous
+and the terms of service short, so that many citizens had a
+direct share in the management of affairs.  On the other hand,
+the community was rent by party strife.  The middle class,
+with
+its accumulating wealth and strength, was hated by the old
+military aristocracy, largely of Germanic origin, which lurked
+entrenched in castles within and without the city, surrounded
+by
+armed retainers, ready to seize upon any pretext to make
+trouble
+and the burghers were bent on reducing the feudal lords to
+political impotence.  The old quarrel between Guelfs and
+Ghibellines had ceased with the defeat of the latter party at
+Benevento in 1266, but new factions, as irreconcilable as the
+old, carried on the internal war.  The Whites, under the
+leadership of the Cerchi family, represented the new power of
+industry and money; the Donati, with their Blacks, stood for
+the
+old nobility, with which the unaffiliated lowest class was
+inclined to side.  In 1300 the most active leaders of both
+parties were sentenced to banishment.  The Blacks,
+unsuccessful
+at home, sought aid abroad.  Pope Boniface VIII, who had an
+old
+claim on Tuscany, sent to the city that royal adventurer,
+Charles
+of Valois, ostensibly as a peacemaker.  He entered Florence
+with
+an army, and straightway turned it over to the Blacks.  The
+Whites were driven out, among them Dante, who never returned. 
+This was in 1302.
+
+	2. In such a community Dante was born in 1265, probably
+in the last days of May.  We know little of his career.  His
+works afford some bits of information, and there are a few
+scraps
+of documentary evidence; his neighbor, Giovanni Villani,
+inserted
+a brief sketch of him in his Chronicle; Boccaccio prepared a
+short, eulogistic account of him after his death, and his life
+was written in the next century by Leonardo Bruni.  These are
+our
+principal sources.  The mass of legend that has grown up about
+him makes the truth all the more difficult to ascertain.  He
+came
+of a family ennobled several generations back, but neither
+rich
+nor particularly conspicuous.  Their name was originally
+^Alagherius~, or ^Alaghieri.~  His own name, ^Dante~, is a
+shortened form of ^Durante.~  His mother died during his
+childhood, and his father, after marrying again, died in 1283. 
+A
+half-brother, Francesco, and a half-sister, Tana, were the
+fruit
+of this new marriage.  Concerning another sister we do not
+know
+whether she was the child of the first wife or the second.  As
+far as we can judge from the ^Commedia~, the lad's early
+impressions of family life were happy.  He doubtless received
+a
+careful education; it is likely enough that, after learning
+the
+rudiments from the Dominicans, he attended the Franciscan
+school
+of Santa Croce.  Close familiarity with country as well as
+city
+life is shown in his writings.  His imagination was cultivated
+by
+much reading of Proven$cal and Italian poets, from whom he
+learned unaided the science of metrics.  He was deeply
+influenced, too, by contemporary art, and himself practised
+drawing.  Early he distinguished himself as a poet, in a town
+where poetry and music were just acquiring an unprecedented
+vogue; and through his verse he made valuable acquaintances. 
+His 'first friend' was the famous poet Guido, considerably his
+senior and his literary adviser, of the rich Cavalcanti
+family.
+Brunetto Latini, a great scholar, secretary of the Republic. 
+aided him with counsel.  Other poets, the notary Lapo Gianni
+and
+later the youthful Cino da Pistoia, and also the musician
+Casella, were his associates.  A comrade of less desirable
+character was Forese Dunati, brother of Corso, the leader of
+the
+Blacks; Forese, a high liver of shady reputation, exchanged
+with
+Dante a series of scurrilous sonnets.  Dante mingled in the
+pastimes of his city and did not hold aloof from more serious
+civic matters: in 1289 he took part in an important military
+campaign, probably not his first.  He may have been in Bologna
+in
+1287 or thereabouts; he must have visited Lombardy before
+1300. 
+Between 1293 and 1300 he got deeply into debt.  At some time
+probably before 1297 he married Gemma Donati, a fourth cousin
+of
+Corso and Forese, to whom he had probably been affianced since
+boyhood (the dowry having been fixed in 1277); she bore him
+two
+sons, Pietro and Jacopo, and, in all likelihood, two
+daughters.  The family did not follow him in his exile,
+although three of the children later joined him in Ravenna.
+Gemma remained in Florence, where she was still alive in 1332. 
+In 1295 Dante entered public life, and a few years later
+became
+an important figure in local politics.  He strove for the
+independence of Florence, and repeatedly opposed the projects
+of
+the Pope.  After going on a successful embassy to San
+Gimignano,
+he was for two months, in the summer of 1300, one of the six
+Priors of Florence.  In 1301 he was commissioned to supervise
+the
+widening and improvement of a street.  At the critical moment
+of the advent of Charles of Valois, or shortly before, Dante
+is
+said, on good authority, to have been absent on a mission to
+Rome.  On trumped-up charges he was condemned, first to fine
+and
+exclusion, later to death by fire; subsequently, perhaps in
+1315,
+he refused to purchase pardon by submission.  For a little
+while after his banishment, in 1302, he conspired with his
+fellow-exiles; then, disgusted with their policy, perhaps in
+danger of his life from their violence, he turned his back on
+them and formed 'a party by himself.  'The story of his
+wanderings
+is fragmentary.  His first refuge was with the Scala family in
+Verona.  On the death of his generous patron, Bartolommeo or
+Alboino, in 1304, he is supposed to have visited the
+university
+at Bologna, where he was known by 1287.  There is reason to
+believe that he traveled widely in Italy, especially in the
+North.  He appears to have been in Padua in 1306.  In the same
+year he was in Lunigiana with the Malaspina, for whom, on
+October
+6, he acted as attorney in concluding a peace with the bishop
+of
+Luni.  Thence he probably went to the mountains of the
+Casentino,
+on the upper Arno; and it is believed, on the authority of
+Boccaccio and Villani, that he journeyed between 1307 and 1309
+to
+Paris.  In 1308 Henry of Luxembourg, a noble idealist, was
+elected Emperor; crowned the next year at Aix as Henry VII, he
+descended in 1310 into Italy, to reunite Church and State,
+restore order, and reduce rebellious cities to submission. 
+His
+coming aroused wild excitement and conflicting passions.
+Florence from the first offered sturdy and successful
+opposition.
+Dante, who firmly believed that the woes of Florence and all
+Italy -- in fact, most of the evils in the world -- were due
+to
+lack of Imperial guidance, greeted Henry as a saviour and
+hastened to pay him homage.  Three letters written in 1310 and
+1311 show him in a state of feverish exaltation.  He was
+probably
+in Pisa in 1312.  Henry's invasion, however, was fruitless: he
+was involved in a turmoil of party strife; the Pope who had
+summoned him turned against him; and just as his prospects
+were
+brightening he died ingloriously near Siena in 1313.  With him
+perished Dante's immediate hopes of peace, the regeneration of
+his country, and his own restoration.  Possibly he took refuge
+with the Imperial champion Can Grande della Scala in Verona in
+1314.  If, as we may infer from a passage in the ^Commedia~
+Dante
+went to Lucca, this visit may well have occurred shortly after
+Henry's death, possibly in 1315; in that year or the next he
+doubtless returned to Verona.  Later, we do not know when, the
+poet, already famous through his lyrics, his ^Convivio~,
+^Inferno~,
+and ^Purgatorio~ was offered an asylum in Ravenna by Guido
+Novello da Polenta, a nephew of Francesca da Rimini.  His
+daughter Beatrice was a nun in that city; his son Pietro held
+a
+benefice there.  This was his home until his death on
+September
+13 or 14, 1321.  Shortly before the end he was sent on a
+mission to Venice.  His last years seem to have been peaceful
+and
+happy.  In Ravenna, where he was greatly esteemed, he had
+congenial society and eager pupils.  He maintained friendly
+relations with Can Grande della Scala, captain of the
+Ghibelline
+league, on whom he built great hopes.  Though Florence still
+repudiated him, Bologna desired his presence.
+
+	3.  The foregoing biography of Dante omits the most
+significant feature of his life, the love for Beatrice.  The
+chivalric amorous service of ladies, which had sprung up among
+the poets of southern France, developed with some of the later
+troubadours, under the influence of the growing cult of Mary
+in
+the 13th century, into an idealization of woman and a
+spiritual
+devotion.  But it remained for the school of Bologna and its
+Florentine disciples to transform this sentiment into a
+transcendental passion, a combination of religious mysticism
+and
+instinctive desire with the Averroistic doctrine of a passive
+individual soul and an active oversoul.  In the verse of Guido
+Guinizelli, who lived just before Dante, woman becomes the
+visible symbol of the angelic nature; the lover worships in
+his
+lady the Heavenly Intelligence which reveals itself in her;
+only
+the noble heart is capable of love, and without a fitting
+object
+to arouse its inborn love to activity even such a heart is
+powerless to manifest its latent goodness.  These ideas are
+set
+forth in a beautiful ^canzone~ beginning 'Al cor gentil ripara
+sempre amore' to which Dante continually reverts.  Guinizelli
+he
+calls his master, and master of all those who write sweet
+rimes
+of love.  Dante dreamer that he was, and profoundly religious,
+naturally fell under the sway of this teaching.  Critics have
+hotly debated the question whether his Beatrice was a real
+woman. 
+Boccaccio asserts that she was Beatrice Portinari, daughter of
+Folco Portinari, a wealthy and public-spirited Florentine who
+died in 1289; before that date she was married to a rich
+banker
+of good family, Simone dei Bardi.  There is no valid ground
+for
+rejecting this statement.  But after all it makes little
+difference who she was: the living woman merely furnished the
+impression that aroused the poet's creative fancy.  All
+imaginative lovers idealize their mistresses beyond
+recognition.
+The Beatrice that Dante presents to us, real as she was to
+him,
+is almost wholly the product of his own mind.  With the
+flesh-and-blood Beatrice he seems to have had little more than
+a bowing
+acquaintance, and there is no reason to believe that she
+returned
+or even understood his affection.  He first met her when he
+was
+nine and she was eight, and even then -- at least so it seemed
+when he looked back upon the episode -- she appeared to him as
+a
+revelation of the heavenly.  Nine years later they exchanged a
+greeting.  When, led to think ill of him by his excessive
+attentions to another lady, she refused to recognize him, he
+was
+profoundly hurt; and his pain was redoubled on one occasion
+when,
+with other ladies, she laughed at his show of emotion.  He
+grieved with her sorrow at the loss of a friend. and again
+when
+her father was taken from her; he was tormented by a
+foreboding
+of her death.  Stirred by feminine criticism, he determined to
+exclude supplication from his verse and make all his
+love-poetry
+a hymn of praise.  So much he tells us, in the ^Vita Nuova~,
+of
+his relations with the living Beatrice.  After her death, in
+1290, her image seems to have become clearer and more fixed;
+but
+her influence could not preserve him from morbid dejection and
+unworthy pursuits.  Book-learning and worldliness engrossed
+him
+for a while, in spite of the recurring prick of conscience. 
+Even
+in early youth his fancy had strayed to other women, and his
+comradeship with the disreputable Forese Donati is perhaps to
+be
+ascribed to a boyish period.  After the passing of Beatrice he
+was, as he thought, unduly moved by the pity of an unnamed
+lady,
+who soon, however, became in his mind a mere visible picture
+of
+the object of his great passion, Philosophy.  At some time,
+perhaps later, in the Casentino, he apparently became
+violently
+enamored of a young woman to whom he addressed the most wildly
+beautiful lyrics in all amatory literature; but even these
+poems
+are not beyond the suspicion of allegorical intent.
+
+	4. When we ask ourselves why we are so strangely stirred
+by the words of a man of whom we know so little, one so remote
+in
+date and in thought, we find that it is because, on the one
+hand,
+he knew how to present universal emotions, stripping his
+experiences of all that is peculiar to time or place; and,
+secondly, because he felt more intensely than other men: his
+joy,
+his anguish, his love, his hate, his hope, his faith, were so
+keen that they come quivering down through the ages and set
+our
+hearts in responsive vibration.  This intensity seems to
+distinguish him from other poets of the Middle Ages, perhaps, 
+in part, because he alone had the art to express it.  See V.
+Cian, ^I
+contatti letterari italo-provenzali e la prima rivoluzione
+poetica della letteratura italiana~, 1900; K. Vossler, ^Die
+philosophischen Grundlagen zum "s,ussen neuen Stil"~, 1904; L.
+Azzolina, ^Il "dolce stil nuovo"~, 1903; P. Savj Lopez,
+^Trovatori
+e Poeti~, 1906, pp. 9 ff.; Moore, II, 79; E. V. Zappia, ^Studi
+sulla Vita Nuova di Dante.  Della questione di Beatrice~,
+1904;
+I. Del Lungo, ^Beatrice nella vita e nella Poesia del secolo
+XIII~, 1891; G. Carducci, ^Delle rime di Dante~, in his ^Studi
+letterari~, VIII, 1 ff.; A. Zenatti, ^Le rime di Dante per la
+Pargoletta~, in the ^Rivista d'Italia~, Jan. 15, 1899; V.
+Imbriani, ^Sulle canzoni pietrose di Dante~, in his ^Studi
+danteschi~, 1891, pp. 427 ff.; A. Abbruzzese, ^Su le "Rime
+Pietrose" di Dante~, in the ^Giorn. dant.~, XI, 97 ff.; A.
+Santi,
+^Il Canzoniere di Dante~, vol. II, 1906 (vol. I has not
+appeared); M. Barbi, ^Studi sul canzoniere di Dante~, 1915;
+R$emy de Gourmont, ^Dante, Beatrice et la po$esie amoureuse,
+essai sur l'id$eal f$eminin en Italie @a la fin du XIII@eme
+siecle~, 1908; L. Valli, ^Il Linguaggio segreto di Dante e dei
+"Fedeli d' amore"~, 1928; C. H. Grandgent, ^The Ladies of
+Dante's
+Lyrics~, 1917.  His mastery of language far
+transcends that of any other medieval poet, and surpasses that
+of
+all but the few very foremost in the world's history.  In his
+close observation and apparent enjoyment of the varying, even
+the
+sternest aspects of nature, he seems nearer to our generation
+than to his own.  His study of human nature is no less close. 
+Though the title ^Commedia~ contained, in its author's mind,
+no
+suggestion of the stage, the poem exhibits a command of
+dramatic
+situation, a skill in characterization by means of dialogue,
+not
+to be found in any playwright between Euripides and
+Shakespeare. 
+One other gift he possessed that belongs to no period, but is
+bestowed upon the greatest artists of all times -- the power
+of
+visualization, the ability to see distinctly in his mind's eye
+and to place before the mental vision of the reader not only
+such
+things as men have seen, but also the creations of a grandiose
+imagination, and even bodiless abstractions.  In most other
+respects he belonged to his age: in his submission to
+authority
+in all matters of science and philosophy, his unquestioning
+acceptance of Christian dogma; in his subordination of beauty
+to
+truth and his relegation of it to the position of handmaid to
+utility; in his conception of the individual, not as an
+independent unit, but as a part of humanity, and his
+consequent
+desire to suppress all reference to the events and
+characteristics that differentiate himself from other men.
+Mediaeval, too, was his mysticism: in him we see a man with
+the
+most acute perception of reality, the most eager interest in
+the
+doings of his fellows, yet imbued with the idea that the world
+of
+fact is all a shadowy image of the world of spirit; his feet
+were
+firmly planted on earth, while his head was in the clouds.
+
+	5.  Visionary as he was, saddened by his own misfortunes,
+and exasperated by human wickedness, he had a fundamentally
+healthy disposition.  In his character fierce passion was
+mated
+with equally vigorous self-control; vehemence was balanced by
+introspection and self-judgment; imagination was yoked with
+logic.  He admired simplicity, even asceticism, but he was far
+from being a foe to culture or to the usages of polite
+society.
+He was fond of courtly pursuits, and erudite even to pedantry. 
+In the great writings of pagan times he found a source of
+endless
+delight, and he did not hesitate to put them on a par with his
+Christian authorities.  His admiration was less excited by
+Christian martyrs than by heroic pagan suicides.  His Christ
+is
+always sublime, a part of the triune God, never the meek lamb
+nor
+the humble preacher of Galilee.  His outlook upon life was
+persistently hopeful.  Bad as the world was, there could be no
+doubt of ultimate reform.  The Lord, in his unfathomable
+wisdom,
+might allow evil to triumph for a while, but his kingdom was
+sure
+to come.  Dante's political views were entirely abstract and
+theoretical, and reactionary even for his own day.  He had
+always
+before him the general principle rather than the particular
+case. 
+Man being naturally a social creature, political organization
+is
+necessary, both in order to supply the manifold needs of the
+community, assigning different functions to different members,
+and in order to check greed and insure justice and peace, so
+that
+every citizen may have an opportunity to attain his highest
+development.  The State, then, is as necessary -- though not
+so
+venerable -- as the Church.  God ordained both, and decreed
+that
+Caesar should found the one, Christ the other.  Empire and
+Papacy are co,ordinate powers, neither subservient to the
+other,
+but both responsible directly to God.  The goodness and
+happiness
+of the world depend on the balance of the temporal and the
+spiritual authorities.  The rapacity of the clergy and the
+negligence of sovereigns have disturbed this equilibrium by
+transferring to the Papacy what belongs to the Empire. 
+Mankind
+cannot thrive until the adjustment is restored.  In his
+treatment
+of civics, and in the importance given to avarice as a
+disturber
+of society, Dante follows Aristotle (^Ethics~, V), whom he
+first
+knew through the commentary of St. Thomas.  From the same
+master he derived vast stores of physical information, as well
+as
+a philosophical method and terminology.  His general
+classification of sins and his definition of moral virtues are
+Aristotelian, but his essential conception of sin and virtue
+is
+quite different, being thoroughly Christian.  One can only
+guess
+what Dante would have been had he really known Plato, to whom
+he
+was temperamentally so much more akin.  On the ethical side
+Dante
+was an eclectic, as were his ancient masters, Cicero and
+Boethius; Senecan stoicism and Franciscan mysticism dwelt in
+him
+side by side.  St. Thomas, the interpreter of Aristotle, the
+learned and ingenious expounder of moral philosophy and
+Christian
+dogma, furnished Dante with an abundance of religious doctrine
+and a host of subtle observations and arguments (not always
+devoid of inconsistency), and reinforced his inborn fondness
+for
+intricate reasoning.  To St. Thomas's teacher, Albertus
+Magnus,
+the 'Universal Doctor,' perhaps the greatest scholar and
+philosopher of the Middle Ages, Dante was directly indebted
+for
+not a few of his physical and ethical ideas.  Like St.
+Augustine,
+Dante takes as his starting-point the Pauline doctrine of
+predestination and grace; but he draws from it very different
+consequences.  In Dante, as in St. Paul, love is supreme.  It
+is
+the moving force of the universe and of God himself.  Through
+love God was impelled to create, that there might be others to
+share his happiness.  Everything created is filled with love
+of
+the Creator.  Animals, plants, lifeless things express their
+love
+by being what he made them: the stone, bv its hardness and its
+magic power; the star, by its light and its influence upon
+earth;
+the beast, by following its instinct.  They cannot do wrong,
+having no choice.  It was God's purpose, however, that there
+should be creatures with an individual consciousness, a real
+life
+of their own; this could not be without freedom of the will,
+and
+such freedom implies the possibility of sin.  Angels and men
+alone were given ability to sin, because they alone were
+created
+free.  But almost instantly after their creation the angels
+were
+endowed with such overwhelming grace of vision that their will
+was identical with that of their Maker.  The revolt of Lucifer
+and his fellows occurred in the moment between creation and
+the
+acceptance of this grace.  The power of vision bestowed on the
+Heavenly Intelligences is not the same for all: no two angels
+see
+God alike, and consequently their natures and functions are
+diverse, though entirely good.  So it is with men.  God, in
+his
+grace, gives to different men, as he shapes their souls,
+different degrees of vision.  On this vision all their
+knowledge
+and all their love depend.  According to its clearness, the
+love
+of God is more or less intense, wisdom is greater or less, the
+choice of good and evil is easier or harder, and the eternal
+state of the soul, if Heaven be attained, is a higher or lower
+degree of blessedness.  Every soul has sight enough to win
+salvation, and is therefore fully responsible; but some are
+capable of greater beatitude than others.  Predestination
+becomes, then, in Dante, a mysterious manifestation of God's
+love: he loves all men, but he fashions them for different
+ends,
+on earth and in Heaven, and his love for all is not identical. 
+The natural instinct of man is to return to his Creator and to
+love all that is like him.  But through inexperience and lack
+of
+guidance he may at first mistake evil for good.  He possesses,
+however, the grace of vision, which enables him to
+discriminate;
+if he persists in wrongdoing, he rejects grace and sins.  If
+he
+dies unrepentant, he loses grace forever; if he repents before
+death, he retains grace and innocence by discipline.  Had
+mankind
+from the beginning made the proper use of the free will, there
+would have been no death; all human beings would have lived
+happily on earth until the Judgment Day, and would then have
+been
+taken up to Heaven in the flesh.  Adam's disobedience brought
+death and sin into the world, and suspended salvation until
+atonement was made by Christ.  Only by faith in Christ, before
+or
+after his coming, can man be saved; but this faith is
+(theoretically, at least) within the reach of all.  We have
+seen
+that man's path is made unduly hard by the lack of temporal
+direction, for which the impotence of the State is to blame. 
+Men's talents and dispositions differ, too, being the product
+of
+the stars -- governed by Heavenly Intelligences -- that
+presided
+over their birth; but every human creature has power to
+overcome
+his natural defects so far as to make himself worthy of
+Heaven. 
+The origin of imperfection in the universe is a difficult (not
+to
+say insuluble) problem -- one to which Dante often reverted,
+without ever finding a satisfactory answer.  His main argument
+is
+that whatsoever is directly shaped by God is perfect what is
+fashioned by nature (that is, by the influence of the stars)
+is
+faulty.  God created brute matter, the heavens, the angels and
+creates human souls as they are born.  All the rest is the
+work
+of nature.  Why nature, itself the work of God, should operate
+defectively, we are not told.  Elsewhere Dante says that God,
+in
+making material things, has to work with matter, which being
+imperfect, the divine plan is not realized; but inasmuch as
+God
+created matter, this statement can be reconciled with the
+other
+only by the supposition that Dante here means, not brute
+matter,
+but matter already differentiated and compounded by nature. 
+His
+whole explanation reduces itself to this: the angels, having
+an
+incomplete vision of the divine mind, cannot execute its
+intent
+so well as God himself.  If we ask why -- this being the case
+--
+the angels were given this ministry, or, having the charge,
+were
+not endowed with complete sight, no reply is offered.  The
+theory
+that evil was introduced into the world that man might have
+exercise for his free will is not formulated in the ^Divine
+Comedy.~
+
+	6.  Outside of the ^Divine Comedy~, Dante's ideas are to
+be found, first of all, in the ^Convivio~, an unfinished
+encyclopedic work, in Italian, in the form of a discursive
+prose
+commentary on fourteen of the author's ^canzoni~; of the
+projected fifteen books, only four were written, and only
+three
+^canzoni~ are included.  The logically constructed, but purely
+idealistic and theoretical ^Monarchia~, a Latin treatise in
+three
+books, contains his political views.  Another Latin treatise,
+the
+uncompleted ^De Vulgari Eloquentia~, gives us his opinions on
+language in general, the use of the modern idiom as a literary
+medium, the relative merits of the various Italian dialects,
+and
+the principles of poetic composition in the vulgar tongue; he
+believed that an ideal, universal Italian, different from any
+of
+the actually spoken dialects, was fit, not onlv for amatory
+verse, but for martial and moral themes as well.  A third
+Latin
+work ascribed to him, the ^De Aqua et Terra~, is a
+controversial
+lecture delivered in Verona in 1320, debating technically the
+question whether the water of the sea rises in any part higher
+than the land.  Some fourteen Latin letters, written at
+different
+periods, are attributed to him in manuscripts, and there is
+record of others, now lost; the authenticity of all the
+fourteen
+has been doubted, but it is probable that at least ten are
+his.
+Of a political character are the epistles to the princes and
+peoples of Italy, to the Emperor, to the Florentines, to the
+Italian cardinals, to a Florentine friend, and an early one to
+Niccol@o da Prato.  The most important from a literary
+standpoint, if he really wrote it, is the later, ponderously
+exegetical ^Epistola ad Canem Grandem~, accompanying the first
+canto of the ^Paradiso~ with a minute comment on its opening
+lines and a general discussion of allegory.  Many letters and
+many poems have doubtless perished.  On the other hand, some
+pieces of verse that have gone under his name are, in all
+likelihood, not his.  There seems to be no sufficient reason
+to
+ascribe to him the long sonnet sequence called ^Il Fiore~, an
+abridged paraphrase of the ^Roman de la Rose.~  Among the
+miscellaneous poems, not contained in his longer works, that
+are
+attached to him, we may reckon as his a dozen ^canzoni~, a
+half
+dozen or more ^ballate~, two ^sestine~, and some twenty-five
+or
+thirty sonnets; they were composed at various times, and treat
+of
+love, philosophy, ethics, and sundry occasional topics.  Some
+of
+them are similar in tone to those comprised in the ^Convivio~,
+others are in the same vein as the thirty-one (mostly sonnets)
+that form the skeleton of the ^Vita Nuova.~  This 'little
+book'
+consists of a carefully selected and artistically arranged
+series
+of amatory poems, surrounded by a dainty prose commentary
+telling
+of the poet's early love for Beatrice.  There is reason to
+believe that the prose was written in 1292.  Now the final
+chapter of the ^Vita Nuova~ speaks of a wondrous vision which
+determined the lover to write no more of his lady until he
+should
+be worthier of the theme; to prepare himself, he was studying
+with might and main, and he hoped, if his life were spared a
+few
+years, to say of her what never had been said of woman.  This
+study, begun for comfort's sake in the darkest hour of
+mourning
+for his dead love, as he declares in the ^Convivio~ soon
+became
+an object in itself, and aroused a new passion that threatened
+to
+quench the memory of the old.  Beginning with Cicero's ^De
+Amicitia~ and the ^Consolatio Philosophiae~ of Boethius, he
+plunged deep into philosophy and theology.  Of the vast
+knowledge
+thus accumulated the scholar was naturally proud, and he
+planned
+to set it before his fellow-men in the ^Convivio~, which was
+to
+be a guide to others and a defence of himself.  This treatise
+doubtless occupied him between 1305 and 1308.  Only when vast
+hopes were awakened and then temporarily blighted by the
+advent
+and death of his Imperial hero, did Dante forsake this
+project;
+then, leaving it two thirds unrealized -- leaving unfinished,
+too, it would seem, his ^De Vulgari Eloquentia~, -- he
+returned
+to the fulfilment of his earlier purpose, which, in all
+probability, he had never quite abandoned.  Conceived, then,
+it
+appears, as early as 1292, the plan of the ^Divina Commedia~
+was
+probably not fully matured until after the death of Henry VII,
+the Emperor whose advent in 1310 had aroused such wild
+expectations in Dante's breast.  As Henry died in 1313 and the
+poet in 1321, we may ascribe the composition of the work, in
+the
+main, to the years that lie between these dates.  Some
+critics,
+however, put the ^Inferno~ much earlier.  Both the ^Inferno~
+and
+the ^Purgatorio~ were made public, either singly or together,
+considerably before the ^Paradiso.~  If report is to be
+trusted,
+this last ^cantica~ busied the author until the very end of
+his
+life.  Yet he found time, in his last years, to write two
+graceful Latin eclogues and (if they be his) the letter to Can
+Grande and the ^Quaestio de Aqua et Terra.~  There is no
+external and no definite internal evidence to fix the date of
+the
+^Monarchia~; its general style and maturity point to the
+latest
+possible period.
+
+	7.  In making his preparation, what books had he studied? 
+The ^Aeneid~, that corner-stone of medieval education, must
+have confronted him from childhood; he tells us that he knew
+it
+all by heart.  There is no proof, however, that he read the
+^Georgics~, or any of the ^Eclogues~ except the fourth.  The
+Latin Bible he had at his fingers' ends.  Cicero's ethical
+writings -- especially ^De Amicitia~ and ^De Officiis~ -- and
+the great work of Boethius introduced him to philosophy.  Much
+of
+Aristotle (but not the ^Poetics~) and perhaps Plato's
+^Timaeus~
+he mastered later, in Latin translation.  He seems to have
+seen
+something of Seneca's prose.  Of the Christian scholars and
+theologians, first of all St. Thomas, then Albertus Magnus,
+St.
+Augustine, Hugh and Richard of St. Victor, St. Bonaventure,
+St.
+Bernard, Peter Lombard, and apparently St. Gregory the Great,
+St.
+Isidore of Seville, Peter Damian, were assiduously consulted;
+and
+his works show traces of many others.  His principal
+historians
+were Livy and the Christian Paulus Orosius, author of the
+^Historia adversus Paganos~; he knew also several compendiums,
+notably the anecdotical compilation of Valerius Maximus.  The
+treatises of Aegidius Romanus and John of Paris probably came
+under his inspection.  He doubtless was acquainted with the
+elder
+Pliny and Sulinus; he certainly read the ^Tr$esor~ of Brunetto
+Latini, and probably the ^Composizione del mondo~ of Ristoro
+d'Arezzo.  Astronomy he pursued with characteristic
+thoroughness,
+first, perhaps, in the ^Elementa Astronomica~ of Alfraganus. 
+Some strange words and a deal of curious misinformation he got
+from the ^Magnae Derivationes~ of Uguccione da Pisa, who lived
+in the second half of the 12th century.  Among the Latin
+poets,
+besides Virgil, he was intimate with Ovid, Lucan, and Statius,
+from whom he derived most of his classical mythology and much
+of
+his ancient history.  He knew Horace's ^Ars Poetica.~  Many
+classical authors whom he had not read were known to him by
+name
+and reputation; among them, Homer.  Greek and Hebrew he never
+learned, save a few isolated words.  Latin, of the rhetorical,
+mediaeval sort, he wrote well, but with less ease and
+brilliancy than Italian.  He could read and write Proven$cal
+and
+assuredly knew French.  He was deeply versed in the lyric
+poetry
+of southern France, and was familiar, directly or indirectly,
+with the epics of the north.  He had critically examined the
+work of the Italian poets who had preceded him in Sicily,
+Tuscany, and Bologna; his estimates are to be found, not only
+in
+his ^De Vulgari Eloquentia~, but also incidentally in the
+^Vita
+Nuova~ and the ^Divina Commedia.~  His own lyrics, by the way,
+reveal a skill far excelling that of any of his forebears. 
+The
+learning acquired by all this study was not wasted: it
+reappears
+in the ^Divine Comedy.~  This great poem, unrivaled as it is
+for
+sustained grandeur of thought and symmetry of form, resolves
+itself, upon careful analysis, into at least six diverse
+elements, fused by genius into a single masterpiece --
+
+     'Quasi conflati insieme, per tal modo
+     Che ci@o ch' i' dico @e un semplice lume.'  ^Par.~ XXXII, 89, 90.
+
+Six literary types are blended into one: the Encyclopaedia,
+the
+Journey, the Vision, the Autobiography, the Praise of Woman,
+the
+Allegory.
+
+	8.  The idea of a practical compendium of human knowledge
+was not unknown to the old Romans: Pliny, for instance,
+composed
+the ^Historia Naturalis~, Celsus the ^De Artibus.~  To the
+borderland of ancient and mediaeval times belongs that famous
+compilation, the ^Origines~ or ^Etymologiae~ of St. Isidore of
+Seville.  Others followed, not only in Latin but also in the
+vulgar tongues; and then came the attempt to give such works
+poetic form: witness, for example, the French ^Image du monde~
+and the Proven$cal ^Breviari d'Amors~, a huge allegorized
+treatise, written and widely diffused in Dante's lifetime.  In
+Dante's own city lived Brunetto Latini, author of the French
+^Tr$esor~ and also of the Italian ^Tesoretto~, a versified
+guide
+to learning in the semblance of a mystic journey -- that same
+Latini who taught the youthful poet 'come l' uom s' etterna.' 
+The ^Commedia~ contains the essentials of the vital science,
+theology, with a full discussion of difficult problems; also
+the
+principles of the ancillary discipline, philosophy.  It
+offers,
+furthermore, a complete course in astronomy and cosmography,
+with
+occasional lessons in physics, and much incidental instruction
+in
+history and mythology.  And this solid doctrine is not to be
+regarded as intrusive; it forms, so to speak, the nucleus of
+the
+whole work.
+
+	9.  Among the travelers' tales that delighted the
+wonder-loving public none were better liked than those which
+told
+of journeys to the Garden of Eden; and of these the most
+famous
+was the ^Voyage of St. Brendan~, the narrative of an Irish
+monk
+who sailed out into the Atlantic and after marvelous
+adventures
+discovered the Isles of the Blest.  It is in Dante's
+^Purgatorio~, and especialiy in his description of the Earthly
+Paradise, that the influence of such stories is most evident. 
+The inaccessibility, the wall of fire, the birds, the flowers,
+the streams, the eternal springtime are traditional features;
+even the lovely youthful figure of Matilda, genius of the
+place,
+has a counterpart in the ^St. Brendan.~  Some authorities put
+the
+Garden on a remote mountain-top, others consigned it to a
+distant
+island.  Dante combined these locations, and made his Eden the
+summit of a lone peak rising sky-high from the midst of the
+great
+ocean.  The spot where man first sinned is directly opposite
+Jerusalem, where he was redeemed.
+
+	10.  In 2 Corinthians xii, St Paul declares that 'he was
+caught up into paradise, and heard unspeakable words, which it
+is
+not lawful for a man to utter.'  What he saw and heard he
+refused
+to tell, but posterity was less discreet.  Toward the end of
+the
+4th century there appeared a Greek document, found, it was
+said,
+in the apostle's house in Tarsus -- the ^Apocalypse of St.
+Paul.~ 
+Though denounced by St. Augustine, and never accepted by the
+Church, it enjoyed an immense vogue, and was turned into
+Syriac
+and Latin.  The Latin ^Visio Sancti Pauli~ -- which tells how
+the
+Chosen Vessel, led by an angel, visited the realms of the dead
+--
+formed the basis of several versions in the vulgar tongues of
+Europe.  But it stood by no means alone.  Visions too numerous
+to
+tell were seen and invented for many centuries; conspicuous
+among
+them are those described in two Irish tales, the ^Tundal~ and
+^St. Patrick's Purgatory~; in Dante's own country there was
+recorded the ^Visio Alperici.~  Most of these treat of the
+lower
+world, in which Hell and Purgatory lie side by side.  A large
+part of the punishments portrayed by Dante were commonplaces
+of
+vision literature; but he avoided the extremes of coarseness
+and
+grotesqueness, and introduced system and fitness where all had
+been chaotic.  It was his happy idea, moreover, to lift
+Purgatory
+to the earth's surface, place it far from Hell, next to the
+Garden of Eden, and surround it with an atmosphere of light
+and
+hope.  Meanwhile St. Paul's reticence had borne other fruit. 
+A
+Neo-Platonic treatise, not earlier than the 5th century, ^On
+the
+Celestial Hierarchy~, dealing with the heavens and the
+Heavenly
+Intelligences, had been ascribed to Dionysius the Areopagite,
+the
+apostle's convert in Athens, and was supposed to contain an
+authentic record of revelation confided by the master to his
+disciple.  Dante's classification of heavens and angels is
+founded on this work.  But heathen as well as Christian could
+dream dreams of the hereafter.  The ^Somnium Scipionis~ in
+Cicero's ^De Re Publica~ depicts good souls rising to the
+stars,
+and the petty earth in the centre of nine revolving spheres. 
+If
+Homer's account of a descent into the world of the departed
+was
+unknown in the Middle Ages, those of Ovid, Lucan, and Statius
+were familiar to scholars, and Virgil's was before every
+schoolboy's eyes.  Dante's Hell is full of Virgilian names;
+Christian and pagan figures are strangely commingled.  This
+must
+have seemed less incongruous to the author than to us, for in
+his
+day the gods of classic mythology were regarded as demons,
+fallen
+angels who had seduced mankind to worship them.  Furthermore,
+Dante thought of the ancient poets as seers, who had some
+inkling
+of the truth, and in veiled language told of things that
+became
+fully known only through the word of God: for instance, when
+Ovid
+sang of the Golden Age, or the battle of the giants, he was
+dimly
+conscious of the state of man before the fall, and the revolt
+of
+the angels against their Maker.
+
+	11.  The ^Divine Comedy~ is not only an Encyclopaedia,
+a Journey, a Vision -- it is the Autobiography of a soul.  The
+events of his external life Dante scrupulously excluded from
+his
+works: he never mentions his parents, his children, nor, in
+all
+probability, his wife; an apparent reference to his sister, in
+the ^Vita Nuova~, is couched in the vaguest terms; only
+incidentally and rarely does he afford a passing glimpse of
+his
+material affairs.  His ^Vita Nuova~, professedly the story of
+his
+youth, is the most baffling record ever penned.  In his
+opinion,
+it is not meet to speak of one's self: 'parlare alcuno di s@e
+medesimo pare non licito,' he declares in the ^Convivio.~ 
+This
+maxim evidently does not apply, however, to the inner self,
+provided that self be generalized into a type of mankind, and
+provided the recounting of its experiences be helpful to other
+erring souls -- 'quando per ragionare di s@e grandissima
+utilit@a
+ne segue altrui per via di dottrina.'  Like St. Paul and
+Aeneas, Dante had a mission, a vital message for humanity. 
+The
+^Divine Comedy~ is the epic of remorse, repentance,
+purification,
+and final uplifting.  Incidentally it depicts the depravity;
+of
+the world and points the way to social regeneration.  For a
+work
+of this kind Dante had a great example in the ^Confessions~ of
+St. Augustine, and another, allegorically conceived, in
+Boethius's ^Consolatio Philosophiae.~
+
+	12.  From the dawn of amorous poetry in Provence it was
+the habit of the bard to vaunt the charms of his mistress and
+her
+superiority to the rest of her sex, attributing to her
+influence
+all credit for such gifts as he himself might possess.  His
+life,
+he alleged, was given to her service, his verse was a tribute
+to
+her power.  Such a tribute, but a loftier more enduring one,
+Dante determined to pay to his lady: 'spero' he says,' di dire
+di
+lei quello che mai non fu detto d' alcuna.'  The ^Divine
+Comedy~
+is a monument to Beatrice, and, in truth, such a monument as
+never was erected, before nor after, to any woman.
+
+	13.  'Sciendum est,' declares the letter to Can Grande,
+referring to the ^Divina Commedia~, 'quod istius operis non
+est
+simplex sensus, immo dici potest polisemos, hoc est plurium
+sensuum; nam alius sensus est qui habetur per literam, alius
+est
+qui habetur per significata per litteram.  Et primus dicitur
+litteralis, secundus vero allegoricus, sive mysticus.' 
+Allegorical interpretation had been applied by the ancient
+Hebrews to the prophecies of the Old Testament, and by the
+Greeks
+-- in late, sophisticated times -- to the Homeric poems.  It
+was
+early applied also to some of the Latin poets.  The ^Aeneid~
+was regularly so expounded; a commentary of this kind was
+surely
+known to Dante.  The method reached its highest development,
+however, in the explanation of the Bible by the Church
+fathers. 
+In the second book of the ^Convivio~ Dante discusses it at
+length; and there he differentiates theological from poetic
+allegory.  In the former the literal as well as the mystic
+sense
+is true, while in poetry the letter is fiction and truth
+resides
+in the allegory alone.  The Old Testament is an accurate
+record
+of fact, but at the same time a prophecy of the New; whereas
+the
+fable of Orpheus is literally false and only metaphorically
+true. 
+Furthermore, Dante distinguishes, in addition to the literal
+and
+the allegorical, a moral and an anagogical meaning: the one is
+merely the useful inference that the reader may draw from a
+story, for the guidance of his own life; the other, which is
+obscurely defined, seems to be a revelation of spiritual
+truth,
+hidden in the words of the text.  Dante himself, in the
+interpretation of his ^canzoni~ in the ^Convivio~, confines
+his
+attention to the literal and the allegorical senses. 
+Allegorical
+composition was to Dante not an artificial but a natural
+process. 
+He lived in a world of mystic correspondences.  Numbers,
+stars,
+stones, beasts, had a mysterious significance; even the events
+of
+history were fraught with symbolic meaning.  The relation of
+fact
+to symbol was not arbitrary nor fortuitous; it was real and
+predestined; for Dante combined mystic symbolism with formal
+allegory.  Thus in his poem the outer and the inner narratives
+seem indissolubly bound; neither obstructs the other, neither
+is
+complete without the other, and to the intelligent reader the
+two
+are of equal interest.  The ^Divine Commedy~ is perhaps the
+only
+great allegory of which this can be said to-day.  In Bunyan's
+^Pilgrim's Progress~, for example, the literal story is too
+crude
+and fantastic to please any but a child and the symbolism
+appeals
+only to the adult.  In the ^Roman de la Rose~ the allegory is
+ingenious and artistically attractive, but the literal fable
+is
+insignificant; while the converse is true of Spenser's ^Faerie
+Queene.~
+
+	14.  In exposition, says Dante, 'sempre lo litterale dee
+andare innanzi'; and he adds, describing his interpretation of
+his own ^canzoni~, 'ragioner@o prima la litterale sentenza, e
+appresso di quella ragioner@o la sua allegoria, cio@e l'ascosa
+verit@a.'  We may pursue the same course.  Literally, then,
+the
+^Divina Commedia~ is the narrative of a journey through Hell,
+Purgatory, and Heaven.  The poet, in the middle of his life,
+finds himself astray at night in a dark wood.  He tries to
+save
+himself by climbing a mountain whose top is lit by the rays of
+the rising sun; but three beasts, besetting his path, are
+about
+to drive him back, when Virgil, summoned to Dante's help by
+Beatrice, at the bidding of Mary and St. Lucia, appears and
+offers to guide him.  They can escape from the wood only by
+going
+through the earth from side to side.  This path leads them
+through the whole of Hell, where Dante sees the punishment of
+every kind of sin and converses with the damned.  Hell ends at
+the earth's centre, and from that point the poets climb out by
+a
+dark, undescribed channel to the opposite hemisphere.  They
+emerge in the middle of the ocean, on the shore of an island
+which consists mainly of a colossal mountain.  Cato of Utica,
+the
+guardian of the place, meets and directs them.  Up the steep
+mountain-side Dante drags himself, still accompanied by
+Virgil. 
+On the ledges are repentant souls preparing themselves by
+discipline for the heavenly life.  As Dante and Virgil are
+approaching the summit, they are joined by Statius, who has
+just
+completed his penance.  The three mount together to the top,
+where they find the Garden of Eden, and in it a fair, happy,
+amorous young maiden, Matilda, who seems to embody the spirit
+of
+the place.  Amid the trees and flowers they witness a pageant
+of
+the Church, or Triumph of Revelation, whose culmination is the
+appearance of Beatrice in a shower of lilies thrown by angels. 
+Now Virgil vanishes, and presently Statius is mentioned for
+the
+last time.  Beatrice it is who leads Dante up from earth
+through
+the revolving heavens into the real Paradise, which is the
+presence of the Almighty, and consigns him to St. Bernard, the
+great mystic.  There has been unrolled before us a picture of
+mankind, past and present, and a view of the universe. 
+Dante's
+conception of the world is essentially symmetrical and
+organic;
+there is exact correspondence between the physical, the
+intellectual, and the spiritual.  The poem ends with the
+vision
+of God.
+
+	15.  In its 'allegorical and true sense' the ^Divine
+Comedy~ is the history of a soul struggling with sin and, with
+celestial help, winning peace.  The wood typifies the worldly
+life; the sunlit mountain, righteousness; the three beasts,
+evil
+habits, which make reform impossible for the unaided soul. 
+But
+divine Mercy and Grace send Revelation to direct it -- that
+heavenly enlightenment or superhuman Wisdom which ^Beatrix~,
+the
+Bestower of Blessings, had always personified in Dante's eyes. 
+For direct Revelation the sinner is not yet fit; he must
+approach
+it through Reason.  So Virgil, who typifies human
+understanding,
+discloses to Dante the true nature of sin in all its
+hideousness
+and folly: for the punishments of Hell so minutely described,
+are
+but the image of the sins themselves.  When Reason has probed
+sinfulness to the bottom Dante horrified turns his back upon
+it
+and painfully wrests his soul from its clutches; such is the
+significance of the laborious but uneventful journey from the
+centre of the earth to the Island of Purgatory.  As yet,
+however,
+Dante has merely weaned himself from evil practices; he has
+still
+to cleanse his soul so that wrongdoing shall no longer attract
+it
+-- to purify it and prepare it for the sight of God.  This can
+be
+accomplished only by discipline, under the guidance of the
+Church.  Then, as the shackles of sin are removed, the soul
+once
+more ehjoys its inborn liberty; it regains the Free Will,
+God's
+most precious gift to man.  Of all the doctrines that Dante
+expounds, that of Free Will is closest to his heart -- the
+wholesome doctrine of individual responsibility.  And Cato,
+Dante's favorite character in all history -- Cato, who gave up
+life to assert his independence -- is made its exponent.  The
+torments on the terraces of Purgatory represent the penances
+that
+the soul, under proper direction, must undergo before it can
+return to its first freedom and innocence.  As Dante
+approaches
+the top, some questions confront him which Reason alone cannot
+quite solve; and to answer them, apparently, comes Statius, or
+human understanding illumined by Christianity.  When the soul
+has
+regained its original purity -- has climbed to its Garden of
+Eden
+-- and is restored to the primeval life of innocence and
+activity
+(which Matilda seems to symbolize), it has no more need of
+Reason, for all its instincts are unerring.  Then, after the
+true
+glories of the Church are unfolded before its eyes, it can
+follow
+Revelation through heaven after heaven, ever nearer and nearer
+to
+the real Paradise, until at last it stands before its Maker. 
+In
+the presence of the Source of all knowledge, even Revelation
+is
+superfluous; Beatrice resigns her great office, leaving Dante
+in
+the charge of St. Bernard, the type of Intuition.  'Blessed
+are
+the pure in heart, for they shall see God.' 
+
+	16.  If to the literal and the allegorical we must add a
+moral and an anagogical interpretation, we may assume that
+morally the poem is a warning against sin, an exhortation and
+guide to repentance, and an incentive to religious
+contemplation. 
+Anagogically, the poet may be said to portray in Hell the
+wicked
+world as he knows it, in Purgatory the rescue of the elect,
+and
+in Paradise the kingdom which is to come.
+
+	17.  The epithet 'Divine' became attached to the poem in
+the 16th century through its use in the edition of 1555.  The
+title which Dante gave his work is ^Commedia~ (or, as he
+pronounced it, ^Comed$ia~), meaning a poetic composition in a
+style intermediate between the sustained nobility of tragedy
+and
+the popular tone of elegy; according to the letter to Can
+Grande,
+the name indicates also a sad beginning and a happy end.  The
+author, in fact, does not scruple, on occasion, to sacrifice
+elegance and even clearness to brevity, vigor, and pictorial
+effect.  He expected to be minutely studied and weighed, not
+cursorily read.  The characteristic detail, the specific term,
+the appropriate coloring were worth more to him, when he wrote
+the ^Commedia~, than any absolute standard of poetic
+propriety. 
+His imagery stamps on the reader's mind an unbroken sequence
+of
+visual impressions.  An inexhaustible inventiveness, a compact
+style, a richly varied and picturesque vocabulary make the
+perusal of the ^Commedia~ a series of literary surprises. 
+Especially when we consider the poverty of the poetic idiom
+before Dante, does the master's creative power seem almost
+beyond
+belief.  His literary medium was virtually his own handiwork. 
+And this nervous strength, this irrepressible originality do
+not
+preclude a haunting melodic beauty and a triumphant rhythm
+that
+remind one of the tramp of many feet marching to sweet music. 
+Vowel harmonies, pervasive but seldom obtrusive alliteration,
+skillful distribution of stress are the elements that combine
+to
+work the spell.  His language is, in the main, the Florentine
+speech of his day, as it sounded in the mouths of cultivated
+people.  Mingled with this are a few Gallicisms, some
+archaisms,
+some words borrowed from other Italian dialects, and a great
+many
+Latinisms.  The foreign and unusual words and those employed
+in a
+strange sense occur for the most part in the rime.  Dante was
+generallv averse to periphrasis or deviation from his idea,
+and
+was loath to end a verse with an insignificant word; so he was
+sometimes forced to do violence to usage in his rimes.
+
+	18.  Of the external attributes of the ^Divine Comedy~,
+the most wonderful is its symmetry.  With all its huge bulk
+and
+bewilderingly multifarious detail, it is as sharply planned as
+a
+Gothic cathedral.  Dante had the very uncommon power of fixing
+his attention upon the part without losing sight of the whole:
+every incident, every character receives its peculiar
+development, but at the same time is made to contribute its
+exact
+share to the total effect.  The more one studies the poem, the
+clearer become its general lines, the more intricate its
+correspondences, the more elaborate its climaxes.  At the end
+of
+each ^cantica~ is one of these great culminating points -- the
+sight of Lucifer, the appearance of Beatrice, the vision of
+God;
+and for each of them the reader is insensibly prepared by a
+series of gradations whose structure reveals itself only after
+long repeated readings.  The arrangement of the ^Commedia~ is
+based on the number three, the 'mystic' number, the symbol of
+the
+Trinity.  Dante shared with most philosophers of his day a
+profound belief in the significance of numbers.  The ^Divine
+Comedy~ falls into three books, or ^cantiche~, of nearly equal
+length; each of these has thirty-three cantos, except that the
+^Inferno~ has an additional first canto which serves as an
+introduction to the whole.  The total number of cantos is
+therefore 100, or the 'perfect' number, ten, multiplied by
+itself.  The verse, invented by Dante for this use, is what is
+called ^terza rima~, a succession of tiercets in which the
+first
+and third lines rime together while the middle line rimes with
+the first and third of the next ^terzina.~  The metre is the
+^endecasillabo~, which had developed long before Dante's time. 
+It is really the same verse, essentially, as the French
+ten-syllable line; but the French take the 'masculine,' or
+oxytonic,
+verse as the standard, while the Italians take the 'feminine,'
+or
+paroxytonic.  The Italian line has normally, then, eleven
+syllables, with an accent on the tenth: see, for instance,
+^Inf.~
+I, i.  Occasionally the final unstressed syllable is dropped,
+and
+the verse becomes 'masculine,' or ^tronco~: for example,
+^Inf.~
+IV, 60.  Sometimes, on the other hand, an extra unaccented
+syliable is added, making a dactyllic ending, and the line is
+called ^sdrucciolo~: e. g., ^Inf.~ XXIV, 66.  In counting
+syllables, contiguous vowels, whether in the same word or in
+adjacent words, are generally reckoned as one, being blended
+together, as in ^Inf.~ I, 25-6:
+
+     'Co-s@i -- l' a-ni-mo -- mio -- ch' an-cor -- fug-gi-va
+     Si -- vol-se a-re-tro a -- ri-mi-rar -- lo -- pas-so.'
+
+But often two vowels which in prose may make separate
+syllables
+are allowed to count as two in verse; this is regularly done
+at
+the end of a line; so ^Inf.~ I, 12:
+
+     'Che -- la -- ve-ra-ce -- vi-a ab-ban-do-na-i.'
+
+It is done also in Latin words, as in ^Inf.~ XXXIV, 1:
+
+     'Vexilla regis prode-unt inferni.'
+
+Besides the fixed accent on the tenth syllable of every line,
+there must be a stress either on the fourth or on the sixth,
+as
+in ^Inf.~ I, 1-2:
+
+     'Nel mezzo del camm$in di nostra v$ita
+     Mi ritrovii per una selva oscura.'
+
+In point of fact, however, Dante almost always has a more
+regular
+alternation of strong and weak syllables -- a movement more
+nearly approaching that of English poetry -- than this
+theoretical scheme would indicate; see, for instance, ^Inf.~
+V, 106:
+
+     'Am$or cond$usse n$oi ad $una m$orte.' 
+
+	19.  The ^Divina Commedia~ has come down to us in nearly
+600 manuscripts, none of them in the author's hand, and none
+taken directly from the original; upwards of 200 are in
+Florence,
+the others are collected in Italy or scattered over Europe. 
+Many
+are beautifully illuminated.  Although some of the manuscripts
+go
+back to a time within fifteen or twenty years of Dante's
+death,
+these copies are by no means in full agreement with one
+another;
+furthermore, the early commentators cite variants: it is
+evident
+that the corruption of the text set in as soon as the poet
+died,
+perhaps even before his decease.  The poem was first printed
+in
+1472.  In 1502 appeared the Aldo Manuzio edition, in 1595 that
+of
+the Accademia della Crusca; these were for centuries regarded
+as
+authoritative.  There was no critical edition until 1862, when
+K.
+Witte published one based on four good manuscripts; for one
+canto
+he also collected over 400 manuscripts.  Three years later A.
+Mussafia brought out a collation of two manuscripts.  After a
+long interval came editions by P. Toynbee and G. Vandelli.  A
+fruitless attempt to establish a genealogical sequence of
+manuscripts was made by G. A. Scartazzini.  No satisfactory
+classification of manuscripts has been made; but it is certain
+that no existing manuscript or group of manuscripts can be
+regarded as authoritative throughout.  In 1894 appeared the
+'Oxford Dante,' ^Tutte le opere di Dante Alighieri~, edited by
+E.
+Moore (3d ed., 1904); the ^Divine Comedy~ in this volume is
+based
+primarily on Witte's text, but Dr. Moore has examined for
+crucial passages some 200 manuscripts, and has made use of the
+investigations of other scholars.  The text published in 1921
+by
+the Society Dantesca Italiana (Bemporad, Florence) is due to
+G.
+Vandelli, who from year to year had revised the Scartazzini
+edition; Vandelli has clung as closely as possible to one
+manuscript, the Trivulziano a carefully written one and the
+earliest in real Florentine.
+
+	20.  Countless allusions, some of them purposely blind
+vast accumulations of learning, conciseness and originality of
+phrase, symbolism, not infrequent obscurity combine to
+obstruct
+the understanding of the poem.  Some of the difficulties we
+encounter are due to our remoteness from Dante's world, our
+different habits of thought, the archaic character of his
+language.  Many of them, however, were as great in his day as
+in
+ours, and the need of interpretation was immediately felt.  At
+least eleven commentaries on the whole or a part of the work
+were
+composed in the 14th century; from the 15th century we have
+five.  The first commentator certainly known to us by name is
+Graziolo de' Bambaglioli, who goes back as early as 1324. 
+Within
+sixteen years after him were written the expositions of Jacopo
+della Lana, those of Dante's sons Jacopo, who expounded the
+^Inferno~ in Italian and Pietro, who expounded the whole poem
+in
+Latin, and the work known as the 'Ottimo Commento,' probably
+made
+in 1325.  To the latter part of the 14th century belong the
+exegeses of Boccaccio, who was appointed to expound the
+^Commedia~ in Florence but carried his explanation no further
+than the 16th line of canto 17, of Benvenuto da Imola, and of
+Buti.  The best informed of all these are perhaps Pietro and
+Benvenuto.  All, however, must be used with caution, as they
+were
+deficient in poetic insight, and in historical matters did not
+always discriminate between fact and invention.  The task of
+interpretation has been carried on, with greater or less
+intelligence and erudition, down to our own day.  To keep well
+abreast of the Dante literature that now appears from year to
+year would require a man's whole time.  At present three
+recent,
+copiously annotated Italian editions are at the disposal of
+students, those of G. A. Scartazzini (revised bv G. Vandelli),
+T.
+Casini, and F. Torraca.  There is a scholarly English edition,
+with a translation, by A. J. Butler.  Of the numerous English
+versions, the prose rendering by Norton, the unrimed poetic
+translations of Longfellow, Johnson, and Langdon, and
+Shadwell's
+^Purgatory~ and ^Paradiso~ in four-line stanzas excel in
+accuracy
+and literary skill; the easiest to read is that of Cary, in
+blank
+verse; Plumptre's and Anderson's, in ^terza rima~, combine
+fidelity with happy phrasing and acceptable versification.
+Perhaps the happiest combination of accuracy and poetic
+feeling
+is to be found in J. B. Fletcher's modification of ^terza
+rima.~ 
+Several volumes of general studies are especially to be
+commended: F. D'Ovidio, ^Studii sulla Divina Commedia, Il
+Purgatorio e il suo preludio, Nuovi studii danteschi~; E.
+Moore,
+^Studies in Dante~, 4 vols.; H. Hauvette, ^Dante: Introduction
+@a la Divine Com$edie~, 1911; C. H. Grandgent ^Dante~, 1915,
+^The Power of Dante~, 1918, ^Discourses on Dante~, 1924; J. B.
+Fletcher, ^Dante~ 1916; E. G. Parodi, ^Poesia e storia nella
+"Divina Commedia~," 1921; G. L. Passerini, ^Dante~, 1921; B.
+Croce, ^La Poesia di Dante~, 1921; K. Vossler, ^Die g,ottliche
+Kom,odie. Entwicklungs Geschichte und Erkl,arung~, 2 vols.; I.
+Del Lungo, ^Dal secolo e dal Poema di Dante~; F. Novati, ^Con
+Dante e Per Dante~; F. De Sanctis, ^Saggi critici~ and ^Nuovi
+saggi critici~; K. Witte, ^Essays on Dante~; G. A.
+Scartazzini,
+^Prolegomeni della Divina Commedia.~  For the allegory there
+is
+nothing better than F. Flamini, ^I significati reconditi della
+Divina Commedia e il suo fine supremo~, 3 vols.  Noteworthy
+also is J. B. Fletcher's ^Symbolism of the Divine Comedy~,
+1921.  To those who read German, F. X. Kraus's comprehensive
+and
+beautifully illustrated ^Dante~ may be recommended.  N.
+Zingarelli's ^Dante~ and ^La vita di Dante in compendio~ and
+^La
+vita, le opere e i tempi di Dante~ contain full and accurate
+information concerning the poet's life and works.  See also C.
+A.
+Dinsmore, ^Life of Dante Alighieri~, 1919.  Excellent
+handbooks
+are E. G. Gardner's ^Dante~ and F. Flamini's ^Introduction to
+the Study oj the Divine Comedy~, 1911 (translated by F. M.
+Josselyn); C. A. Dinsmore's ^Aids to the Study of Dante~ is a
+convenient compilation.  E. A. Fay's ^Concordance of the
+Divine
+Comedy~, E. K. Rand and E. H. Wilkins's ^Concordanza delle
+opere
+latine di Dante Alighieri~, and E. S. Sheldon and A. C.
+White's
+^Concordanza delle opere italiane in prosa e del canzoniere di
+Dante Alighieri~ are invaluable helps.  Most useful for
+reference
+are P. Toynbee's ^Dictionary of Proper Names and Notable
+Matters
+in the Works of Dante~ and G. A. Scartazzini's ^Enciclopedia
+dantesca.~  Works of a more special character are mentioned,
+as
+occasion arises, in the preceding and the following pages.
+
+	THIS work, the first annotated edition of the Italian
+text of the ^Divine Comedy~ published in America, is intended
+primarily for the general literary public, though adapted also
+to
+academic use.  I have aimed to make it so complete that
+readers
+will need for the comprehension of the poem, no other book
+save
+their dictionary; but to those (may they be many!) who may be
+led
+to push their inquiry further, a great abundance of
+bibliographical suggestion has been offered.  Remembering how
+often the ^Commedia~ is read and enjoyed by persons whose
+Italian
+equipment is scanty, I have explained in the notes many words
+and
+forms that present no difficulty to the experienced student. 
+On
+the other hand, I have endeavored, by discarding a vast
+accumulation of interesting but unnecessary erudition, so to
+curtail the annotation that the reader's attention shall not
+be
+constantly distracted from the text.  This alleviation has
+been
+facilitated by the relegation of all lengthy discussions and
+involved explanations to the arguments that precede the
+several
+cantos.  In my interpretation I have tried to give the
+'allegorical and true meaning,' as Dante calls it, the place
+it
+deserves, but seldom receives, beside the literal.  The text
+here
+printed is based on the latest edition of Moore's Oxford
+Dante; I
+have, however, not neglected the recent investigations of
+other
+scholars.  The punctuation has been made to conform, as far as
+possible, to modern English standards.  I am under obligations
+to
+all the authorities cited in the following pages.  For many
+notes
+I owe a particular debt to Torraca's edition and to Norton's
+translation of the poem.  It gives me pleasure to acknowledge
+also the special benefit I have derived from the works of
+Moore,
+Toynbee, Gardner, Del Lungo, Novati, D'Ovidio, Zingarelli,
+Flamini, and Vossler.

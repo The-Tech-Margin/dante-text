@@ -1,0 +1,246 @@
+	|3-9.  Guarda~, intendi, dove tu metti il piede.  |Giovi
+ch'io ti scaltro~, giovi ch'io ti renda avvertito.  Propriamente
+^scaltrire~ vale ^far sagace e lesto.~  |Feriami 'l sole~ ec.  Ai
+v. 7, 8 e 9 del C. XV, quando il Poeta andava dritto inver
+l'occaso, non avendo il sole che tre ore a tromonatre, disse, che
+i raggi lo ferivano per mezzo la faccia; ora essendo egli voltato
+da quella parte del monte che guarda l'occidente, e perci@o
+andando esso da Austro a Settentrione, ritenuto, che sotto
+l'emispero opposto al nostro tramonta il sole per dove nasce a
+noi, egli viene ferito dal sole stesso su la destra spalla, in
+modo che l'ombra sua si volgea verso la fiamma gettata dal monte,
+e la facea sembrare pi@u |rovente~ rossa, perch@e di fatto quando
+il fuoco @e nell'ombra pare pi@u rosso ed acceso.  |E pure~, ed
+altres@i, |a tanto indizio~, a questo mio far ombra cagionato dal
+mio real corpo, |vidi molt'ombre andando poner mente~, vidi
+nell'andare che molte ombre restavano attente e stupite.
+
+	|29-39.  Venne~ -- |Sopragridar~, le altre ediz. ^Ven$ia~
+-- ^Sopra, gridar.~  |Sopragridar ciascuna~ ec., ciascuna tenta
+di gridar a pi@u alta voce dell'altra.
+
+	|40-42.  La nuova gente~, quella cio@e che venne incontro
+alla prima, intendi, gridava: |Soddama e Gomorra~; due citt@a
+della Palestina distrutte dal fuoco in punizione del peccato
+carnale contro natura.  |E l'altra~, cio@e e la prima gente,
+intendi, gridava: |nella vacca entra~ (le altre ediz. ^entr@o~)
+|Pasife~ ec.  Pasife innamoratasi d'un toro per aver commerzio
+con esso si pose in una vacca di legno.  Con questi due esempi le
+anime sopravvenute manifestavano d'essere state colpevoli del
+peccato di soddomia; a le prime del peccato di bestialit@a.
+
+	|43-48.  Montagne Rife~, o Monti Rifei sono certi monti
+della Moscovia Boreale, e perci@o schife del sole.  |Inver
+l'arene~, intendi, di Libia, le quali essendo australi sono
+schife del gielo.  |A' primi canti~, intendi, dell'inno ^Summae
+Deus clementiae~, di cui s'@e parlato al v. 121 del Canto
+antecedente, cantato indistintamente da tutte quell'anime.  |Ed
+al gridar~ ec., ed al rammentare gridando ciascuna parte
+dell'anime stesse quegli esempi che pi@u allo speziale loro
+peccato si convengono.  Paragona quest'anime alle grue, chiosa il
+Lombardi, non per altro se non perch@e a guisa appunto di grue,
+che ^van cantando lor lai~ (Inf. C. V v. 46), esse van ricordando
+le loro magagne; e come di quest'anime parte di qui si dirige, e
+parte di l@a, per@o pone per ipotesi, che le grue volassero parte
+alle montagne Rife, e parte inver l'arene di Libia.  
+
+	|49-73.  Come davanti~, come prima ho detto al v. 13. 
+|Lor grato~, il loro piacere, grado, desiderio.  |Donna @e di
+sopra~ ec., intendi accennarsi Beatrice.  |Perch@e~, per la qual
+grazia, |il mortal~, sottintendi, corpo.  |Ma se la vostra~ ec. 
+Questa |se~ @e una particella deprecativa, che ha la forza del
+^sic~ de' Latini.  |Ch'@e pien d'amore~ ec.  L'empireo cielo come
+sede de' beati @e di fatto ripieno di santo amore, e come
+superiore a tutti gli altri cieli @e il pi@u spazioso.  |S'inurba~,
+entra in citt@a.  |Paruta~, sembianza.  |Negli alti cuor~, ne'
+cuori cio@e non volgari e bassi.  |S'attuta~, s'acquieta. 
+|Marche~, contrade, regioni.
+
+	|76-81.  La gente, che non vien~ ec., quelle anime, che
+camminano con una direzione opposta alla nostra, |offese di ci@o~,
+offese Dio con quel peccato di Soddomia, |perch@e~, pel quale,
+Cesare trionfando gi@a intese contra se stesso essere chiamato
+regina; e per@o si partono gridando l'esempio di Soddoma,
+rimproverando a se, com'hai udito, e con la vergogna, che tal
+confessione cagiona loro, accrescono l'arsura della fiamma, in
+cui sono.  Giulio Cesare @e forse stato il pi@u grand'uomo, che
+Roma abbia in ogni tempo prodotto.  Dotato d'un animo dilicato e
+pronto, e insieme coraggioso e paziente acqui stossi il nome di
+accorto capitano, e di guerriero intrepido non meno che di
+scrittore elegane, d'orator robusto, di politico profondo.  Di
+pi@u essendo ben fatto della persona, magnifico, liberale,
+galante, venne temuto dagli amanti e dai mariti ugualmente che
+dalle armate nemiche; talch@e comunemente fu appellato il marito
+di tutte le mogli, e la moglie di tutti i mariti.  Quello per@o
+che in tal genere di cose oscur@o vie pi@u la sua fama, si ritenne
+sempre essere stato il suo accondiscendere, mentr'era ancora
+giovenetto, agli sconci desiderii di Nicomede re di Bitinia;
+della quale obbrobriosa accondiscendenza, allorch'egli trionf@o
+della Gallia, non si dimenticarono i soldati, che in tali
+occasioni divenivano sempre pi@u licenziosi.  Ecco ci@o che ne
+scrive Svetonio nella vita di lui: ^Pudicitiae ejus famam nihil
+quidem praeter Nicomedis contubermum laest, gravi tamen et
+perenni opprobrio, et ad omnium convitia exposito.  Omitto Calvi
+Licinii notissimos versus~:
+
+     ^Bithynia quicquid, et paedicator Caesaris~
+        ^Umquam habuit.~
+
+^Praetereo actiones Dolabellae et Curionis patris, in quibus eum
+Dolabella pellicem reginae, spondam interiorem regine lecticae,
+ac Curio stabulum Nicomedis, et Bithynicum fornicem dicunt. 
+Missa etiam facio edicta Bibuli, quibus proscripsit collegam
+suum, Bithynicam reginam: eique regem antea fuisse cordi, nunc
+esse regnum.  Quo tempore, ut M. Brutus refert, Octavius etiam
+quidam, valetudine mentis liberius dicax, conventu maximo cum
+Pompeium regem appellasset, ipsum reginam salutavit.  Sed C.
+Memmius etiam ad cyathum, et vinum Nicomedi stetisse objecit, cum
+reliquis exoletis, pleno convivio, accubantibus nonnullis urbicis
+negotiatoribus, quorum refert nomina.  Cicero vero non contentus
+in quibusdam epistolis scripsisse, a satellitibus eam in
+cubiculum regium educatum, in aureo lecto, veste purpurea
+decubuisse, floremque aetatis a Venere orti, in Bithynia
+contaminatum: quondam etiam in senatu defendenti Nysae causam,
+filiae Nicomedis, beneficiaque regis in se commemoranti: remove
+iniquit, istaec, oro te; quando notum est, et quid ille tibi, et
+quid illi tu dederis.  Gallico denique triumpho milites ejus
+inter caetera carmina, qualia currum prosequentes joculariter
+canunt, etiam vulgatissimum illud pronuntiaverunt~:
+
+     ^Gallias Caesar subegit, Nicomedes Caesarem~:
+     ^Ecce Caesar nunc triumphat, qui subegit Gallias~
+     ^Nicomedes non triumphat, qui subegit Caesarem.~
+
+	|82-87.  Nostro peccato fu~ ec.  Ermafrodito fu un
+bellissimo giovane, figliuolo di Mercurio e di Venere, che,
+innamoratosi della ninfa Salmace, nell'atto della carnale
+congiunzione con lei ottenne da Giove di star cos@i sempre con
+essa unito, e perci@o ^ermafroditi~ chiamansi quelli, che
+sortiscono dalla natura un corpo avente ambedue i sessi.  Avendo
+il Poeta fatto prima distinguere quelle due schiere di gente, in
+rei di soddomia, ed in rei di bestialit@a, e avendo fatto parlare
+in seguito dei primi, or pare che debba far parlare dei secondi. 
+Ma sembrando agli espositori che non si confaccia al peccato di
+bestialit@a l'epiteto di |ermafrodito~, essi dicono, che qui non
+si parla de' rei di bestialit@a, ma di quelli che usano maniere
+disordinate nell'atto venereo naturale tra uomo e donna.  Di tal
+parere @e anche il Lombardi, il quale dice che colle parole |ma
+perch@e non servammo umana legge~, ci si fa capire, che il peccato
+di costoro consistesse in azioni tali che, osservata circa di
+esso |umana legge~, sarebbero state lecite, quali certamente non
+potevan essere quelle della bestialit@a.  Io per@o appoggiato non
+solo su la distinzione di tutte queste anime, in anime ree di
+soddomia, ed in anime ree di bestialit@a, ma anche su le parole
+che queste dicono: |In obbrobrio di noi per noi si legge~ ec.,
+riterrei che qui si parli propriamente di anime, che sonosi
+rendute colpevoli del secondo peccato; e tanto dell'epiteto
+|Ermafrodito~, come delle parole, |ma perch@e non servammo umana
+legge~, io darei questa spiegazione: il nostro peccato non fu,
+come quello delle altre anime di unirsi uomo con uomo; fu anzi
+peccato ermafrodito, cio@e fu congiunzione di maschio con femmina;
+ma perch@e non servamo umana legge, congiungendoci noi non gi@a
+uomo con donna, come vuole l'ordine dell'umana generazione, ma
+uomo con bestia, seguendo cos@i l'appetito carnale come bestie
+piuttosto che come uomini, in obbrobrio di noi per noi si fa
+noto, quando ci partiamo, il nome di Pasife, che s'imbesti@o
+|nell'imbestiate schegge~, nel legno, che coperto della pelle
+d'una vacca compariva nella forma di essa.  Ma usciamo una volta,
+dir@o col Venturi, da questo avello, che me ne fa mille anni
+d'esserne fuori.  Ovidio fa che Fedra cos@i rammenti gli amori di
+Pasife:
+
+     ^Pasipha,e mater decpeto subdita tauro~
+        ^Enixa est utero crimen onusque suo.~
+
+	|91-93.  Farotti ben~ ec., col dirti, chi sono, ti far@o
+ben meno ansioso di voler sapere il nome mio.  |Guido Guinicelli~
+Bolognese, buon rimatore per quei tempi.  Di lui si fece cenno
+anche al v. 97 del C. XI.  |E gi@a mi purgo~, e sono gi@a qui in
+alto salito a purgarmi, quantunque sia morto di fresco, |per ben
+dolermi~, per essermi ben doluto, |prima ch'allo stremo~, prima
+ch'io giugnessi all'estremo punto di mia vita.
+
+	|94-99.  Quali nella tristiza~ ec.  Isifile pel
+commerzio, ch'ebbe con Giasone, partor@i Toante ed Eumenio. 
+Abbandonata da Giasone (vedi la Nota de' v. 86 e segg. del C.
+XVIII dell'Inf.) divenne schiava di Licurgo re di Nemea, dal
+quale fu posta a custodire un suo figliuolino, appellato Ofelte. 
+Un serpente uccise il fanciullo; il che saputosi da Licurgo nel
+tempo stesso, che giunsero alla sua corte Toante ed Eumenio,
+offrendosi d'essere tra' fedeli esecutori de' suoi comandi, con
+essi and@o per vendicare la morte del proprio figliuolo contro
+Isifile, che malamente lo avea custodito.  Giunti tutti insieme
+l@a dove soggiornava Isifile, la trovarono che si truggeva in
+lagrime.  Toante ed Eumenio subito riconobbero in lei la loro
+madre, e corsero ad abbracciarla e a badaciarla, quindi con  ogni
+pi@u affettuosa maniera ottennero da Licurgo il perdono del fallo
+da dei commesso.  Dante qui dunque dice: quali nella tristizia di
+Licurgo si fer due figli, Toante ed Eumenio, pieni di allegrezza,
+a riveder la madre Isifile, tale fui io allegro (|ma non a tanto
+insurgo~, quantunque non sorga io a tanto bene di liberare dalla
+fiamma Guido, come i figliuoli d'Isifile di liberare la madre
+loro) quando udii Guido a nominar se stesso; quel Guido
+ch'essendo stato maestro di me e di altri, io lo chiamo padre
+mio, e padre degli altri migliori di me, i quali |mai~, in alcun
+tempo, usarono rime dolci e leggiadre d'amore.
+
+	|106-108.  Tu lasci tal vestigio~ ec., tu per quello
+ch'io odo, lasci in me tal segno d'amore, che il fiume Lete
+(inteso qui per obblivione) n@e lo potr@a mai togliere, n@e punto
+oscurare.
+
+	|115-126.  Questi ch'io ti scerno~ ec.  L'indicato
+spirito @e Arnaldo Daniello, com'egli stesso dir@a al v. 142.  Fu
+questi s@i artifizioso e leggiadro dicitore nel suo parlar
+|materno~, cio@e Provenzale, che super@o tutti gli altri versi
+d'amore, e tutte le altre prose di romanzi, e non sono che gli
+stolti, che credono a lui superiore quello di Lemos@i, cio@e
+Gerault de Berneil, altro famoso poeta Provenzale di Limoges, o
+Lemos@i.  Gerault port@o il nome di maestro de' Frombatori (cos@i in
+Provenzale si chiamavano i compositori di rime); nondimeno egli
+acquistossi tanta fama solo perch@e gli stolti, la cui copia @e
+sempre assai maggiore, che non sia quella de' dotti e
+degl'intelligenti, |drizzan li volti~ ec., danno ascolto pi@u al
+chiasso altrui, che al vero, e cos@i giudicano prima che per essi
+s'oda l'arte o la ragione.  Quello che cotesti stolti fanno di
+Gerault, molti antichi fecero di Guittone d'Arezzo, frate
+Gaudente, ed uno de' pi@u antichi rimatori, dando anche a lui di
+grido in grido pregio sopra gli altri, finch@e la verit@a |l'ha
+vinto~, lo ha atterrato,  |con pi@u persone~, con un numero di
+persone, che furono pi@u accorte nel discernere e nel giudicare,
+ovvero, col far vedere pi@u altre persone che meglio di lui hanno
+scritto.  Ecco anche il giudizio del Petrarca intorno Arnaldo
+Daniello, e Guittone d'Arezzo, che sta nel Trionfo d'Amore:
+
+     ^Tra tutti il primo Arnaldo Daniello~
+        ^Gran maestro d'amor, che alla sua terra~
+        ^Ancor fa onor col suo dir nuovo e bello.~
+        . . . . . . . . . . . . . . 
+     ^Ecco Dante, e Beatrice, ecco Selvaggia~,
+        ^Ecco Cin da Pistoia, Guitton d'Arezzo~,
+        ^Che di non esser primo par, ch'ira aggia.~
+
+	|128-132.  Chiostro~, cio@e Paradiso, nel quale Cristo @e
+|abate del collegio~ (metafora corrispondente a |chiostro~) capo
+dell'adunanza de' Beati.  |Fagli per me~ ec., digli per me un
+paternostro; ma digline solo quanto basta a noi di questo mondo,
+ove non possiam pi@u peccare, omettine cio@e le due ultime
+petizioni, ^et ne nos inducas in tentationem; sed libera nos a
+malo.~  Questo terzetto poteva servire d'epigrafe alla Regolata
+Divozione del Muratori.
+
+	|136.  Al mostrato~, cio@e ad Arnaldo Daniello, mostratomi
+a dito (v. 155 e 116) da Guido Guinicelli.
+
+	|140-147.  Tan m'abbelis~ ec.  Arnaldo qui risponde nel
+proprio Provenzale idioma.  Eccone la letterale traduzione fatta
+dal Volpi: ^Tanto mi piace la vostra cortese dimanda, che io non
+posso, n@e voglio a voi coprire~, intendi, il mio nome.  ^Io sono
+Arnaldo che piango, e vo cantando in questo rosso guado la
+passata follia, e veggio dinanzi a me il giorno ch'io spero.  Ora
+vi prego per quel valore, che vi guida al sommo della scala,
+ricordivi a tempo~ (cio@e opportunamente) ^del mio dolore~,
+intendi, pregando Dio per me.
+
+	|148.  Che gli affina~, che li purga, metafora presa dai
+metalli, che si affinano col purgarsi nel fuoco.

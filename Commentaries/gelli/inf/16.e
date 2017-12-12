@@ -1,0 +1,713 @@
+	|Proemio.~  LETTURA SETTIMA SOPRA LO INFERNO FATTA ALL'ACCADEMIA 
+FIORENTINA NEL CONSOLATO DI MAESTRO TOMMASO FERRINI MDLXI
+
+A LATTANZIO CORTESI AMICISSIMO SUO
+
+	Avendo io a' giorni passati, Lattanzio mio cortesissimo, indiritta la 
+sesta mia lettura sopra lo Inferno di Dante a Tommaso Baroncelli, amico 
+nostro carissimo, solo per rendergli qualche guiderdone della 
+benevolenza e dell'amorevolezza ch'ei mi ha dimostro e dimostra 
+continovamente, e considerando che ancor voi non restate di fare il 
+medesimo, mi riprendeva la conscienza se io non dimostrava ancor verso 
+di voi la gratitudine medesima, e massimamente essendo stata l'amicizia 
+nostra quasi un triunvirato. Da questa cagione adunque mosso vi fo 
+dono, e vi ho indiritta questa settima che seguita a quella. Il che io 
+fo ancor pi@u volentieri, avendovi veduto ritirare da le faccende 
+mercantili a la vita solitaria e contemplativa, ove hanno pi@u il lor 
+luogo proprio cos@i fatte cose. La qual vita, se egli @e il vero, come 
+si dice, che chi ha provato il male gusti meglio il bene, vi doverr@a 
+parere oltre a modo dolce e quieta; tanti travagli avete trovati pi@u 
+per mala fortuna, che per vostra colpa, nel negoziare, le occasioni che 
+vi sono occorse, nelle faccende: a la qual mala vostra fortuna voi 
+avete pur questo obligo di esservi ridotto con quiete d'animo, e senza 
+fatica e disagio del corpo, a guidar felicemente la vostra. Godetevi 
+adunque, godetevi, come voi fate ora, nelle belle case e ville vostre 
+quelle facult@a che vi ha date Dio per questa cagion sola e non altra. 
+E considerate che, infra i vostri antichi, M. Pagolo Cortesi 
+Protonotario Appostolico, fratel dello avol vostro, perch@e ei si 
+ritir@o, dopo lo aver molti anni servita la Corte, nelle medesime case 
+e ville ove vi siate ritirato or voi, non solo si procacci@o quiete in 
+vita, ma onoratissimo nome dopo morte, componendo, mentre ch'ei viveva 
+in virtuoso ozio, quel tanto dotto e artificioso libro ^de 
+Cardinalatu~, nel quale ei vive ancora appresso gran parte degli 
+uomini; e M. Antonio vostro padre, perch@e ei si esercit@o sempre, 
+mentre ch'ei visse, quelle faccende del mondo, non ebbe mai una ora 
+quieta, e lasci@o ancor similmente travagliato lo stato suo doppo la 
+morte. Vivete felice.
+
+	Di Firenze, il d@i primo di novembre, l'anno 1561.
+
+	|1-6.~	[LEZIONE PRIMA CAPITOLO XVI]
+
+   ^Gi@a era in luogo ove s'udia il rimbombo~
+   ^De l'acqua, che cadea ne l'altro giro,~
+   ^Simile a quel che l'arme fanno rombo;~
+
+   ^Quando tre ombre insieme si partiro,~
+   ^Correndo, d'una torma che passava~
+   ^Sotto la pioggia de l'aspro martiro.~
+
+Noi lasciammo i nostri poeti, se ei vi ricorda bene, ascoltatori 
+nobilissimi, quando noi ponemmo fine per cagion dei troppi gran caldi 
+al legger nostro l'anno passato, che attraversavano l'ultimo de' tre 
+cerchietti del settimo girone de l'Inferno, ove sono puniti i violenti 
+contro a natura e contro a l'arte, per scender ne l'ottavo. Ove il 
+Poeta, non avendo ancor trattato a pieno di tal materia, e dubitando di 
+non infastidire con la troppa lunghezza i lettori, pose fine, per dare 
+loro in certo modo alquanto di riposo, al XV capitolo di questa prima 
+cantica; e incominci@o questo XVI, continuandolo per tal cagione con 
+quello, con dire ch'eran camminati gi@a tanto, ch'egli era arrivato in 
+luogo ch'egli udiva il rimbombo che faceva l'acqua di quel fiumicello 
+nel cadere nell'altro girone. Questa voce ^rimbombo~, propriamente 
+parlando, significa quel risonamento che resta di qualche suono o 
+romore dopo di lui (e massime ne' luoghi concavi e racchiusi) per 
+alquanto di tempo, cio@e tanto che quell'aria, che essendo spezzata e 
+mossa violentemente faceva quel suono, si quieti e si ritorni, 
+fermandosi, nel suo esser di prima. Onde si piglia molte volte ancora, 
+metaforicamente, per quella voce e per quella memoria, che resta di 
+qualche cosa notabile appresso gli uomini. E ne l'uno e ne l'altro 
+significato la us@o nelle sue rime il Petrarca; nel suo propio, quando 
+disse:
+
+   ^E quasi in ogni valle~
+   ^Rimbomba il suon de' miei gravi sospiri;~
+
+e nel metaforico, quando disse:
+
+   ^Ma questa pura e candida colomba,~
+   ^A cui non so se al mondo mai par visse,~
+   ^Nel mio stil frale assai poco rimbomba.~
+
+Udendo adunque il Poeta questo rimbombo e rinsonamento, che faceva 
+questa acqua nel cadere strisciandosi nel burrato di Gerione, e 
+volendolo descrivere, dice ch'egli era simile a quel ^rombo~ (ch@e 
+cos@i si chiamava in quei tempi quel romore) che fanno ^l'arme~ 
+strisciandosi e fregandosi insieme. Io so bene che tutti i testi 
+stampati, e la maggior parte di quei che sono scritti in penna, hanno 
+^arnie~, e non ^arme~; e so bene che tutti gli espositori le pigliano 
+per le casse delle pecchie, e dicono che il Poeta intende di quel 
+mormorio che si sente dentro di loro. Nientedimanco io tengo ch'egli 
+abbia a dire ^arme~, e intenda (com'io ho detto) di quel romore ch'elle 
+fanno stropicciandosi l'una con l'altra. E a questo m'inducono queste 
+due cose. La prima @e l'autorit@a di quel commentatore contemporaneo 
+del Poeta, che io ho appresso di me; il quale legge ed espone cos@i: 
+<Udivasi il ^rimbombo~, cio@e il romore dell'acqua che cadeva ne 
+l'altro girone, simile a quel delle ^arme~ quando si giungono insieme. 
+Il quale suono, propriamente parlando, @e appellato ^rombo~. Perci@o 
+che egli @e ^suono vocale~, e questo @e quello che nasce ed esce della 
+voce; ^suono di fiato~, e questo @e quel della tromba e del flauto; e 
+^suono di tasto~, e questo @e quel della cetera. E questi soli sono 
+solamente appellati ^suoni~. Ma il mormoramento delle arme non @e 
+propriamente ^suono~, ma ^rombo~; perci@o che ei non ha significazione, 
+come quel della voce, n@e delettazione, come quel del flauto e della 
+cetera.> E l'altra @e, che io non ho mai trovato in paese alcuno che le 
+cassette delle pecchie si chiamino ^arnie~. Quando erano adunque 
+arrivati i nostri poeti ove egli cominciavano a udire questo rimbombo, 
+dice il testo ch'ei si mossero e partirono ^tre ombre~ e tre anime da 
+una ^torma~ e schiera di loro, che passava correndo ^sotto la pioggia~ 
+dello eterno martiro, cio@e sotto quelle falde delle fiamme che 
+cadevano continovamante sopra quel luogo.
+
+	|7-12.~  E queste, dice,
+
+   ^Venian ver noi, e ciaschedun gridava:~
+   ^S@ostati tu, che a l'abito ne sembri~
+   ^Essere alcun di nostra terra prava.~
+
+   ^Ahim@e, che piaghe vid'io ne' lor membri,~
+   ^Recenti e vecchie, delle fiamme accese!~
+   ^Ancor men duol, pur ch'io me ne rimembri.~
+
+Scrive, esponendo questo luogo, il Boccaccio che tutte le citt@a 
+principali di Italia avevano a quel tempo qualche abito e qualche 
+usanza di vestire particolare, secondo il quale vestivano tutti i loro 
+cittadini. N@e sarebbe stato alcuno che avesse portato di giorno altro 
+abito che quello, temendo nel fare altrimenti o di esser biasmato di 
+stimar poco la civilit@a, o di esser reputato persona bassa e che non 
+fusse del numero de' cittadini della citt@a; s@i come si vede osservare 
+ancora oggi a' Viniziani. Il quale costume volendo dimostrare il Poeta 
+che si osservava in Firenze ne' tempi suoi, dice ch'ei conobbono, 
+essendo fiorentini, come ancora egli era fiorentino, ^a l'abito~ e al 
+modo del vestire. Onde dice ch'ei venivan gridando e dicendo: 
+^s@ostati~, cio@e f@ermati un poco e aspettaci, ^tu che ne sembri~ e 
+apparisci a l'abito di esser uno de' cittadini della citt@a nostra 
+^prava~ e malvagia; chiamata in tal modo da loro, non perch'ella fusse 
+tale a lor tempo, ma per aver udito da uno Guglielmo Borsiere, 
+similmente nostro fiorentino, ch'era poco inanzi disceso fra loro, 
+ch'ella era cos@i, s@i come si dir@a pi@u largamente di sotto. Dal 
+quale chiamare mosso il Poeta, dice che ragguardando chi ei fossero, 
+vide nelle lor membra tante ^piaghe, e vecchie e nuove~, delle fiamme 
+che cadevano loro addosso, ch'ei se ne duole, e ha ancor, qualunche 
+volta ch'ei se ne ricorda compassione di loro.
+
+	|13-18.~  Seguita dipoi il testo:
+
+   ^A le lor grida il mio Dottor s'attese;~
+   ^Volse il viso ver me, e disse: aspetta,~
+   ^Ch@e a costor si vuol esser cortese.~
+
+   ^E se ei non fusse il fuoco che saetta~
+   ^La natura del luogo, io dicerei~
+   ^Che meglio a te, che a lor, stesse la fretta.~
+
+Gran dono hanno da la natura quegli a chi ella d@a una certa gravit@a 
+nello aspetto e una certa grazia ne' sembianti, che gli promette tali a 
+chi gli ragguarda, ch'egli acquistono, subito ch'ei giungono nel loro 
+conspetto, senza ch'ei faccino cosa alcuna, la benevolenza de gli 
+uomini. Della qual cosa non @e n@e la pi@u necessaria n@e la pi@u utile 
+in questo mondo al bene essere de l'uomo; perci@o che gli altri che se 
+la hanno a guadagnare co' meriti e col bene operare, o ei non riesce il 
+pi@u delle volte loro, o ei penon tanto ad acquistarla, ch'ei non sono 
+poi a tempo a servirsene. Questo dono e questa grazia naturale, la 
+quale io credo che sia quella ch'@e chiamata da i Latini ^bona 
+indoles~, bisogn@o che fusse quella che, non avendo Virgilio veduti mai 
+prima questi tre spiriti, lo mosse a diventar lor tanto affezionato, 
+che subito ch'egli gli sent@i chiamar Dante, ei volse il viso verso di 
+lui, e dissegli, non solamente ch'egli gli aspettasse, ma ch'egli eron 
+gente da ^esser lor cortese~, cio@e da usare con loro ogni gentile e 
+buon costume (ch@e cos@i significa, come voi sentirete poco di sotto, 
+questa voce); e soggiugnendo ancora poi di pi@u, che se ei non fusse la 
+pioggia del fuoco che ^saettava~ e feriva quel luogo, che direbbe 
+ch'egli stesse meglio a lui ^la fretta~, cio@e andare con prestezza a 
+trovar loro, che aspettare ch'ei venissero a trovar lui.
+
+	|19-27.~  E qui segue:
+
+   ^Ricominci@ar, come noi restammo, ehi~
+   ^L'antico verso, e poi che a noi fur giunti,~
+   ^Ferno una ruota di s@e tutti a trei;~
+
+   ^Qual soleano i campion far nudi ed unti,~
+   ^Avvisando lor presa e lor vantaggio,~
+   ^Prima ch'ei sien fra lor battuti e punti;~
+
+   ^E s@i rotando, ciascuno il visaggio~
+   ^Drizzava a me, s@i che contrario il collo~
+   ^Faceva a i pi@e continovo viaggio.~
+
+Seguita il Poeta in questi versi la narrazione sua, e dice come, subito 
+ch'egli e Virgilio restarono di parlare, questi spiriti ricominciarono 
+a rammaricarsi con questa voce ^ehi~. La quale @e una interiezione 
+dolorosa, e uno accento che dimostra passione, chiamato da 'l Poeta, 
+come voi vedete nel testo, ^verso~ lor ^antico~ e consueto; perci@o che 
+ei facevan continovamente, per la pena ch'ei sentivano, cos@i. E da poi 
+ch'ei furono giunti loro appresso, dice ch'ei feciono di ^tutti a tre~ 
+loro una ^ruota~ (e un ballo, diciamo noi) in quel modo che facevano 
+anticamente i campioni. Usavano gli antichi, infra i loro giuochi, fare 
+combatter gli uomini nel teatro publicamente con varie sorti d'arme, e 
+far ancor fare a le braccia l'un con l'altro. E quegli che combattevano 
+eron chiamati ^gladiatori~, e quei che facevano a le braccia, ^atleti~. 
+E tutti questi si spogliavano ignudi, e ugnevansi con olio tutta la 
+persona, acci@o che, venendo a le prese, non potessero tenersi l'un 
+l'altro. Delle quali due sorte de' giuochi non so io giudicare qual 
+voglia dire il Poeta; perci@o che nel fare a le braccia non accade il 
+pungersi, e nel combattere non accade attendere di far presa; ma basti 
+questo. E di questo si serve il Poeta; ch@e come questi combattitori o 
+atleti (i quali ei chiama ^campioni~, cio@e uomini grandi e forti), in 
+questi giuochi si aggiravano prima un pezzo, innanzi ch'ei venissero a 
+lo effetto, per guadagnarsi o le prese o il vantaggio del luogo, cos@i 
+questi tre spiriti si aggiravano e facevano una ruota, andando l'uno 
+dietro a l'altro; e ciascheduno di loro, mentre ch'egli si aggirava in 
+questa maniera, dirizzava il viso inverso Dante per vederlo. Da 'l che 
+avvenne che il collo di ciascuno faceva contrario viaggio a quel de' 
+piedi, i quali seguitavano quello ch'era loro inanzi; e il collo, e 
+conseguentemente il viso, si volgeva verso il luogo ove era il Poeta. E 
+questo era fatto da loro, perci@o che non potendo eglino per la legge, 
+che noi dicemmo di sopra, di questo girone fermarsi mai punto, se ei 
+non volevano aver a star dipoi cento anni a iacere in terra supini a le 
+fiamme del fuoco, e volendo vedere e parlare con Dante, trovaron questo 
+modo di fargli attorno, camminando, questa ruota; nel quale ei 
+sadisfacevano co' piedi a la legge del non potere fermarsi, e, col 
+voltare il collo, al desiderio di veder Dante continovamente in volto.
+
+	|28-45.~  Dopo il che seguita il testo:
+
+   ^E se miseria d'esto loco sollo~
+   ^Rende in dispetto noi e i nostri preghi,~
+   ^Cominci@o l'uno, e il tristo aspetto brollo;~
+
+   ^La fama nostra il tuo animo pieghi~
+   ^A dirne chi tu se', che i vivi piedi~
+   ^Cos@i sicuro per lo inferno freghi.~
+
+   ^Questo, l'orme di cui pestar mi vedi,~
+   ^Tutto che nudo e dipelato vada,~
+   ^Fu di grado maggior che tu non credi.~
+
+   ^Nipote fu della buona Gualdrada;~
+   ^Guido Guerra ebbe nome, ed in sua vita~
+   ^Fece col senno assai e con la spada.~
+
+   ^L'altro, che appresso a me la rena trita,~
+   ^@E Tegghiaio Aldobrandi, la cui voce~
+   ^Nel mondo su dovrebbe esser gradita.~
+
+   ^Ed io, che posto son con loro in croce,~
+   ^Iacopo Rusticucci fui; e certo~
+   ^La fiera moglie, pi@u ch'altro, mi nuoce.~
+
+Desiderando questi spiriti di sapere chi fusse particularmente Dante, 
+prima per essere egli (secondo ch'ei mostrava a l'abito) fiorentino, e 
+dipoi per vederlo camminare cos@i sicuramente per quei luoghi 
+infernali, si mosse un di loro a domandarnelo. Il quale temendo ch'ei 
+non disprezzasse, rispetto a lo stato nel quale ei si trovavano, i lor 
+preghi, scusa primieramente circa a tal cosa e se e loro, dicendo, che 
+se ben la miseria di quel luogo ^sollo~, cio@e non sodo e fermo, per 
+avere il suolo ricoperto di rena (la quale, per essere per natura rara 
+e arida, non si riserra e stringe insieme come la terra, onde non si 
+pu@o fermare se non difficilmente i piedi sopra di lei, che altrui non 
+sdruccioli), e lo aspetto loro tristo e ^brollo~, cio@e pelato (ch@e 
+cos@i dice il Boccaccio che vuol dire ^brollo~), rendeva e loro e i lor 
+preghi ^in dispetto~, cio@e in dispregio, e da esserne fatto poca 
+stima, che la fama onorata, che aveva lasciato ciascun di loro di s@e 
+nel mondo, fusse almanco quella ella che piegasse il suo animo a dir 
+loro chi egli era. E perch@e ei sapessi chi eglino erano, e 
+conseguentemente la lor fama, egli, incominciandosi da quel che gli 
+camminava inanzi, dice: questi, l'orme del quale tu mi vedi pestare 
+andandogli dietro, fu nipote della buona Gualdrada, e fu chiamato Guido 
+Guerra, e oper@o, mentre ch'egli fu in vita, molto e ^col senno e con 
+la spada~, cio@e fu uomo che valse assai ne' consigli e nella guerra; 
+modo che esprime molto bene, e con non poca leggiadria, quel che 
+dicevano i Latini ^domi forisque~. Questa Gualdrada, della quale parla 
+il testo, fu una figliuola di M. Bellincione Berti, cavaliere e nostro 
+cittadin fiorentino, molto vaga e molto bella; la quale @e chiamata da 
+'l Poeta ^buona~, per una cosa molto notabile che racconta il Boccaccio 
+ch'ella fece, mentre ch'ella era giovane, in testimonianza della 
+onest@a sua. La quale fu questa, che ritrovandosi ella una mattina nel 
+tempio di S. Giovanni, ov'era Ottone Imperadore che passava per Firenze 
+per andare a Roma per la corona a Innocenzio terzo; e sentendo che suo 
+padre, essendo domandato per sorte da Ottone che la vide, e parvele 
+sopramodo bella, chi ella fusse, gli rispose: ella @e figliuola di tale 
+ch'ei mi basta l'animo di farlavi baciare; si lev@o in piede, e 
+diventata cos@i alquanto rossa per la vergogna nel volto, si volse al 
+padre, e dissegli: padre mio, non siate cos@i largo promettitore della 
+onest@a mia, ch'ei non mi bacier@a altri (se forza non mi fia fatta) se 
+non colui che voi mi darete per marito. La qual cosa piacque tanto a 
+Ottone, ch'ei la dette, con consenso suo e del padre, per sposa a un 
+suo barone chiamato Guido Bisangue; e dettegli per dota gran parte del 
+Casentino, e fecelo conte. Di costui e di questa Gualdrada nacque dipoi 
+il padre di questo spirito; il quale, come voi vedete nel testo, ebbe 
+nome, per lo avolo, similmente Guido; e dipoi cognominato ^Guerra~, 
+perch@e egli oper@o assai in quella, e particularmente quando ei si 
+trov@o capo de' Guelfi in quello esercito ch'ei feciono per ritornare 
+in Firenze con lo aiuto di Carlo primo re di Napoli; nella qual guerra 
+si ritrov@o ancora, secondo che scrive M. Lionardo d'Arezzo, il Poeta 
+nostro. E l'altro, che ^tritava~ dietro a lui la rena, cio@e la 
+calpestava camminandogli dietro, dice ch'era Tegghiaio Aldobrandi. Il 
+quale, secondo che referisce il Boccaccio, fu un nostro cavaliere 
+fiorentino, uomo molto stimato ne' consigli, e particularmente delle 
+cose della guerra. Onde dicono ch'egli sconsigli@o forte il Comune di 
+Firenze, circa a lo uscir fuori nella campagna contro a' Sanesi nella 
+guerra di Monte Aperti; il quale consiglio non accettando i Fiorentini, 
+ma facendo il contrario, ne segu@i quella rotta nella quale moriron 
+tanti Fiorentini, che il fiume d'Arbia si tinse, come disse di sopra il 
+Poeta, di rosso; per la qual cosa dice qui questo spirito che la sua 
+^voce~, cio@e quel suo consiglio, doveva esser ^gradita~ e stimata su 
+nel mondo. Ultimamente ei narra chi era egli posto insieme con loro a 
+tal ^croce~ e a tal tormento, dicendo come egli era Iacopo Rusticucci, 
+similmente ancor egli cavaliere e cittadin nostro fiorentino; uomo, 
+secondo che scrive il Boccaccio, molto ricco, e non punto manco 
+liberale e magnanimo. Laonde, per scusarsi alquanto del suo peccato, 
+dice esserne stato nella maggiore parte cagione la moglie ^fiera~, 
+cio@e bestiale e di perversi costumi, che la sorte gli dette. Da la 
+quale ei dicono ch'ei fu forzato a separarsi e viver da s@e; onde non 
+volse mai pi@u, per tale sdegno, avere dimestichezza e familiarit@a di 
+donna alcuna.
+
+	|46-51.~  
+
+   ^S'io fussi stato dal fuoco coperto,~
+   ^Gittato mi sarei con lor di sotto,~
+   ^E credo che 'l Dottor l'ar@ia sofferto.~
+
+   ^Ma perch'io mi sarei bruciato e cotto,~
+   ^Vinse paura la mia buona voglia,~
+   ^Che di loro abbracciar mi facea ghiotto.~
+
+Questa cosa, che finge qui il Poeta per far bella la favola in quanto 
+alla invenzione (cio@e, che inteso le persone onorate e virtuose 
+ch'eran quelle, si sarebbe gittato fra loro, se ei fusse stato 
+^coperto~ e difeso da 'l fuoco; ma perch@e ei conosceva che si sarebbe 
+abbruciato, fu vinta la sua buona voglia da la paura), ne avvertisce e 
+ne ammaestra che l'uomo non debbe mai usare la conversazione di alcuno, 
+per virtuoso che ei sia, e abbia qualche vizio, se ei non @e sicuro che 
+le sue macchie non abbino a 'mbrattar lui; pigliando questo esempio del 
+Poeta che non volse abbracciare, come ei desiderava, questi uomini di 
+gran fama, perch@e ei temeva che 'l fuoco che gli abbruciava non 
+abbruciassi e cocessi ancor lui.
+
+	|52-63.~ 
+
+   ^Poi cominciai: non dispetto, ma doglia~
+   ^La vostra condizion dentro mi fisse~
+   ^Tanto, che tardi tutta si dispoglia,~
+
+   ^Tosto che questo mio Signor mi disse~
+   ^Parole, per le quali io mi pensai,~
+   ^Che qual voi siete, tal gente venisse.~
+
+   ^Di vostra terra sono, e sempre mai~
+   ^L'ovre di voi e gli onorati nomi~
+   ^Con affezion ritrassi ed ascoltai.~
+
+   ^Lascio lo fele, e vo pe' dolci pomi~
+   ^Promessi a me per lo verace duca;~
+   ^Ma fin al centro pria convien ch'io tomi.~
+
+Risponde finalmente il poeta, parte per parte, a le parole di M. Iacopo 
+Rusticucci. E prima a quel di dubitare che la miseria e il luogo nel 
+quale egli gli aveva trovati non avessi rendutogli in dispregio 
+appresso di lui, e in grado ch'ei facessi poca stima di loro, dicendo 
+che tal cosa non solamente non aveva scemato loro riputazione appresso 
+di lui, ma lo aveva trafitto il cuore di tanta compassione, ch'ei non 
+poteva spogliarsene al tutto, se non con lunghezza di tempo. E questo 
+fu subito che Virgilio gli disse tali parole di loro, che pens@o ch'ei 
+fussero le persone onorate ch'eglino erano. Quanto dipoi al pregarlo 
+ch'ei fecero, per la fama ch'eglino avevano lasciata di loro nel mondo, 
+che dicesse loro chi egli era, ei risponde ch'era uno della lor terra, 
+cio@e di Firenze, e che ritrasse sempre e da s@e stesso, e ascolt@o da 
+altri, le opere e gli onorati nomi loro con ^affezione~ e divozione 
+grandissima. E ultimamente, quanto a dir di loro per quel ch'egli 
+passava cos@i vivo per lo Inferno, dice che lasciava lo ^fele~, cio@e 
+si era partito da la ignoranza della verit@a, nella quale, volendo egli 
+camminare con il lume suo naturale, si era smarrito, e andava per i 
+^pomi~ e per i frutti della cognizione d'essa verit@a (i quali ei 
+chiama ^dolci~, per non si trovare cosa alcuna che apporti maggior 
+dolcezza a lo intelletto umano, che questa promessagli da Virgilio; il 
+quale ei chiama ^verace~, perch@e ei lo considera mandato a lui da 
+Beatrice, cio@e da la Teologia, scienza divina e che non pu@o errare, e 
+non come poeta gentile, studioso delle scienze umane, sotto la quale 
+considerazione ei non poteva chiamarlo assolutamente verace, ma in 
+qualche parte sola); ma ch'ei conveniva prima ch'ei ^tomassi~, cio@e 
+cadessi (ch@e cos@i significa questo verbo; onde disse M. Francesco 
+Petrarca:
+
+   ^Prima ch'io torni a voi, lucenti stelle,~
+   ^O tomi gi@u nell'amorosa selva~),
+
+gi@u nel ^centro~, cio@e nella ultima cognizione di s@e stesso e de' 
+vizii e delle imperfezioni umane. E qui si tacette. La qual cosa, 
+parendo avervi per oggi affaticati assai, faremo similmente qui ancor 
+noi.
+
+	|64-72.~  [LEZIONE SECONDA
+
+   ^Se lungamente l'anima conduca~
+   ^Le membra tue, rispose quelli allora,~
+   ^E se la fama tua dopo te luca;~]
+
+   ^Cortesia e valor di' se dimora~
+   ^Nella nostra citt@a s@i come suole,~
+   ^O se del tutto se ne @e gita fuora?~
+
+   ^Ch@e Guglielmo Borsieri il qual si duole~
+   ^Con noi per poco, e va l@a co' compagni,~
+   ^Assai ne crucia con le sue parole.~
+
+Considerando il nostro Poeta, come il ritrovarsi rebello e cacciato 
+fuori di Firenze non poteva arrecargli se non biasimo e infamia 
+appresso la maggiore parte degli uomini, per pensare i pi@u che tal 
+cosa gli fusse occorsa giustamente o por qualche sua colpa particulare 
+o per avere operato qualcosa contro a essa sua patria, e non, come era 
+stato, per il suo ben fare e per cagion di avere amato, come debbon 
+fare i buon cittadini, pi@u il ben publico che il proprio; e 
+desiderando di fare noto al mondo questa sua innocenza, non restava 
+mai, qualunche volta se gliene offeriva l'occasione, o con parole o con 
+lo scrivere di farlo, s@i come voi vedete ch'egli fa in pi@u luoghi di 
+questa sua opera, e particularmente qui, fingendo per tale effetto la 
+pi@u bella e la pi@u artificiosa favola, che io credo che sia mai 
+possibile immaginarsi. E questa @e, che sentendo questo Guido Guerra, 
+affezionatissimo della citt@a di Firenze, e questi due Cavalieri 
+fiorentini, dire a un Guglielmo Borsieri, ancor egli fiorentino, che 
+era sceso nuovamente a lo inferno, come quasi tutti i cittadini di 
+Firenze erano diventati malvagi e di cattivissimi costumi; laonde la 
+citt@a era tutta in parte, e piena di sedizioni e d'inimicizie; e non 
+lo potendo credere, per averla lasciata a la loro morte, poco tempo 
+inanzi, molto bene ordinata e governata pacificamente da ottimi 
+cittadini; subito che ei videro Dante e cognobbero, come voi vedeste di 
+sopra, che egli era fiorentino, gli corsero incontro per sapere da lui 
+se tal cosa era vera. Per il che fare, da poi che M. Iacopo Rusticucci 
+ebbe ragionato seco quel tanto che voi sentiste nella lezione passata, 
+egli lo domanda, scongiurandolo per due cose che son molto care e 
+desiderate da gli uomini come uomini (e queste sono, vivere assai, e 
+lasciar di poi dopo la morte di s@e fama che resplenda lungo tempo), se 
+ei dimorava pi@u nella citt@a di Firenze cortesia e valore, come soleva 
+far ne' tempi loro, o se veramente elle se ne eron gite del tutto 
+fuora, come diceva loro spesse volte, con non piccolo dispiacer loro, 
+uno Guglielmo Borsieri, che di poco inanzi era morto in Firenze e sceso 
+gi@u fra loro; non volendo inferire altro, come voi vedrete di sotto, 
+se non se i cittadini di Firenze erano buoni di mente e di natura e di 
+costumi e d'opere, come eglino erano a' tempi loro.
+
+	|73-78.~  La qual cosa non ha intesa il Landino; e questo @e, per non 
+avere inteso quel che significhino questi due termini ^valore~ e 
+^cortesia~ secondo la mente del Poeta; onde ha detto che ^cortesia~ 
+significa liberalit@a, e ^valore~ fortezza, le quali due cose dice che 
+mantengon nelle Republiche la concordia, e accrescon lo imperio. Il che 
+egli non arebbe mai detto, se egli avesse veduto il ^Convivio~ del 
+Poeta nostro, ove egli espone e dichiara particularmente il significato 
+di tutte a due questi voci, dicendo, parlando della cortesia, cos@i: 
+<Credono, ingannandosi i volgari, che ^cortesia~ non sia altro che 
+^larghezza~. E la larghezza @e una spezie, e non la generale cortesia; 
+perci@o che ^cortesia~ e ^onestade~ @e tutta una. E per@o che nelle 
+Corti si usavano anticamente molto le virt@u e i bei costumi, si tolse 
+da loro questo vocabolo, e fu tanto a dire ^cortesia~, quanto uso e 
+costume degno di Corte.> E del valore dice nel medesimo ^Convivio~: <E 
+avvenga che ^valore~ intender si possa in pi@u modi, ei si piglia per 
+lo pi@u per bont@a di natura.> Domandando adunque questi spiriti il 
+Poeta, se in Firenze era ^cortesia~ e ^valore~, come era a tempo loro, 
+non era altro che domandargli, se gli uomini erono in Firenze di quella 
+bont@a di natura, e di quella onest@a di costumi, ch'eglino erano ne' 
+tempi loro. Il Boccaccio intende per questa ^cortesia~, che costoro 
+domandano se ella era pi@u in Firenze, un costume e una usanza, ch'ei 
+dice che era gi@a in Firenze, di ragunarsi quasi in ogni contrada 
+insieme quegli che per ricchezze potevano, e far una brigata e una 
+compagnia, e cenare e desinare spesse volte insieme. E quando ei veniva 
+qualche gentiluomo e qualche virtuoso nella terra, quella di esse 
+brigate, dice il Boccaccio, si reputava da pi@u, che prima lo levava da 
+l'albergo, e pi@u onorevolmente lo riceveva. La qual cosa mi pare molto 
+frivola, e ch'ei non se le convenga la risposta che fece Dante; la 
+quale cosa narrando il testo, dice:
+
+   ^La nuova gente e i subiti guadagni~
+   ^Orgoglio e dismisura han generata,~
+   ^Firenze, in te, s@i che tu gi@a ten piagni.~
+
+   ^Cos@i gridai con la faccia levata;~
+   ^E i tre, che ci@o inteser per risposta,~
+   ^Guardar l'un l'altro, come al ver si guata.~
+
+Volendo rispondere il Poeta a la domanda di M. Iacopo Rusticucci, 
+volge, per dare maggiore efficacia al suo detto, per anastrofe e per 
+figura, il suo parlare a Firenze; e dicele che ^la gente nuova e i 
+subiti guadagni~ hanno generato in tal maniera in lei ^dismisura~ e 
+^orgoglio~, cio@e disparit@a e alterezza, ch'ella se ne duole e 
+^piagne~ amaramente seco stessa. E queste parole son dette da lui, come 
+noi dicemmo di sopra, per cagion di molte famiglie ch'erano venute 
+nuovamente del contado ad abitare in Firenze, e quivi essendo 
+arricchite volevano soprastare ed essere da pi@u che gli altri; onde 
+nascevano nella cittade ogni d@i molte discordie e molte inimicizie. E 
+infra queste, dice il Boccaccio, era la famiglia de' Cerchi. I quali 
+essendo venuti, di poco innanzi, del piviere d'Acone nella citt@a, ed 
+essendo diventati in brieve tempo, per essere stati molto avventurati 
+nella mercanzia, oltre a modo ricchi, e per questo ancora molto 
+insolenti e orgogliosi, si sentiva tutto il giorno per la citt@a 
+qualche scandolo, causato da loro o da' loro amici. E questo dice il 
+Boccaccio; il quale non si truova, per essersi interposta a tal cosa la 
+morte, che sia passato con la esposizione sua questo luogo. Queste 
+parole, dette da 'l Poeta a la citt@a di Firenze, pigliando (dice il 
+testo) questi tre spiriti per risposta della loro domanda, si 
+guardarono in volto l'un l'altro, in quel modo che voi vedete far tutto 
+il giorno fra quegli che ragionano insieme, quando uno dice qualcosa 
+che sodisfa e piace, in segno di approvarla e confermarla.
+
+	|79-81.~  Onde ne segu@i questo, che dice il testo:
+
+   ^Se l'altre volte s@i poco ti costa,~
+   ^Risposer tutti, il sadisfar altrui,~
+   ^Felice te, che si parli a tua posta!~
+
+cio@e, che parendo loro, ch'egli avessi trovata veramente la causa per 
+la quale era tanto peggiorata Firenze ne' costumi e nel modo del 
+vivere, e dipoi espressola con s@i brevi parole e con modo tanto 
+efficace di dire, gli risposero tutti insieme a una voce, che la sua 
+era una grandissima felicit@a, se egli sodisfaceva con s@i poca fatica 
+a tutti quegli che lo domandavano di qualcosa si volesse, e parlava in 
+cos@i fatta maniera ^a sua posta~ e qualunche volta ei voleva.
+
+	|82-93.~  E dopo questo ei seguitarono:
+
+   ^Per@o se campi d'esti luoghi bui,~
+   ^E ritorni a veder le belle stelle,~
+   ^Quando ti giover@a di dire: io fui,~
+
+   ^Fa' che di noi a le genti favelle;~
+
+pregandolo che da poi ch'egli diceva cos@i felicemente quel ch'ei 
+voleva, che se egli scampava di quei ^luoghi bui~ e infernali, e 
+tornava a riveder le stelle nel mondo, quando gli ^gioverebbe~ e gli 
+darebbe piacere dire: ^io fui~, e non sono, ne' vizii, e nelle tenebre 
+della confusione ch'eglino apportono con loro, che favellasse di loro e 
+gli riducesse nelle memorie delle genti. E detto questo, racconta il 
+testo come ei ^ruppero la ruota~ e restarono di pi@u aggirarsi, e 
+fuggironsi tanto velocemente, che le loro gambe ^snelle~ e preste 
+sembrarono ale di uccelli, tanto ch'ei non si sarebbe potuto dire uno 
+^Amen~ in quello spazio di tempo ch'egli sparirono e non si videro 
+pi@u. Per il che dice che al maestro, cio@e a Virgilio, parve di 
+partirsi e seguitare il cammino. Il che facendo, e seguitandolo il 
+Poeta (io non sto a esporvi le parole del testo, perch@e elle son 
+facilissime e non han difficult@a alcuna), dice ch'era poco ito 
+seguitandolo, che il suono e il romore dell'acqua, della quale noi 
+parlammo di sopra, che cade ne l'altro giro, era lor tanto ^vicino~ e 
+appresso, che appena si sentivan parlare l'un l'altro.
+
+	|94-105.~  Il modo del cadere della quale acqua volendo ei descrivere, 
+dice:
+
+   ^Come quel fiume, che ha proprio cammino~
+   ^Prima da Monte Veso ver levante~
+   ^Per la sinistra costa d'Apennino,~
+
+   ^Che si chianna Acquacheta suso, avante~
+   ^Ch'ei si divalli gi@u nel basso letto,~
+   ^Ed a Furl@i di quel nome @e vacante,~
+
+   ^Rimbomba l@a sopra San Benedetto~
+   ^Delle Alpi, per cadere a una scesa,~
+   ^Ove dovea per mille esser ricetto.~
+
+Nasce questo fiume, del quale parla qui il Poeta, appresso a un monte, 
+chiamato anticamente ^Veso~, e oggi ^Vesulo~. Il quale @e in sul giogo 
+d'Apennino, presso a dove esso Appennino si spicca da' monti che 
+dividono la Provenza da la Italia, per venirsene, come ei fa, pel mezzo 
+di quella, ma nella costa di l@a, chiamata da 'l Poeta ^sinistra~, 
+perch@e chi camminasse su pel giogo d'esso Appennino con la faccia 
+volta verso levante, ove gli astrologi pongono il principio del cielo, 
+arebbe da sinistra settentrione e il mare Adriatico, e da man destra 
+mezzogiorno e il mar Tirreno; e quindi venendosene verso di noi per un 
+certo piano ch'@e in mezzo di certe montagne altissime, corre tanto 
+quietamente e senza fare romore alcuno, ch'ei si ha acquistato questo 
+nome di ^Acquacheta~ che dice il Poeta. E in questo modo correndo 
+insino a l'Alpe di S. Benedetto, chiamata cos@i da una Badia 
+ch'edific@o gi@a in quel luogo S. Romualdo, egli spunta finalmente e 
+cade verso levante, strisciandosi su per certi massi, in un burrone 
+appresso a Furl@i con tanto strepito e romore, ch'ei si perde quel nome 
+d'^Acquacheta~. Ed @e chiamato da i paesani il ^Montone~, o da quello 
+scendere ch'ei fa a salti su per quei massi a guisa di montone, secondo 
+alcuni, o veramente, secondo alcuni altri, da un monticello appresso al 
+quale ei cade; il quale @e chiamato cos@i, perch'egli @e fatto, e da 
+una via che lo attraversa ove ei si spicca da lo Apennino e va alquanto 
+verso Furl@i, e da questo fiume che gli corre da un lato a' piedi, e da 
+un altro che gli corre da l'altra banda e poi entra in questo, d'una 
+figura che somiglia propiamente una testa di montone. E perch@e tutti 
+gli altri fiumi ch'escono da quella parte dello Apennino se ne vanno 
+nel Po, e da lui sono poi portati nel mare Adriatico; e questo, quando 
+gli @e presso a Furl@i, si volge verso Ravenna, e vassene da s@e stesso 
+nel mare, il Poeta lo chiama, infra gli altri nomi, ^quel fiume che ha 
+proprio cammino~. E assomiglia il cadere che fanno l'acque di 
+Flegetonte nel burrato di Gerione, al cader che fanno, rimbombando, le 
+sue sotto la Badia di S. Benedetto in un luogo, il quale dice il Poeta 
+che deverria essere ^ricetto per mille~. Dicono alcuni espositori, che 
+gi@a fu pensato da i paesani, per levare quel romore, di farvi, 
+volgendo quelle acque altrove, case e ville, e dimesticarvi e 
+cultivarvi, perch@e vi son le terre molto fertili; onde sarebbe stato 
+ricetto e abitazione per ^mille~, ponendo un numero determinato per un 
+numero indeterminato. E alcuni altri dicono che deveria, intendendo del 
+fiume, esser ^ricevuto~ a poco a poco ^per mille gradi~, e non cadere 
+nel modo ch'ei fa, onde egli @e tanto molesto col suo romore a' 
+paesani. Dove il nipote del Poeta, avendo il suo testo che dice: ^Che 
+devria~ per Emilia ^esser ricetto~ (la quale Emilia @e quella provincia 
+ch'@e infra Parma e Ravenna), dice ch'ei dovrebbe esser ricevuto da lei 
+e messo nel Po, come ella fa gli altri, e di quivi andarsene poi 
+insieme con esso Po nel mare, e non attraversare, come ei fa, la 
+Flamminia, la quale @e poi quell'altra provincia ch'@e fra Ravenna e il 
+mare, e andarsene da s@e stesso in quello. In questa maniera dice 
+adunque il Poeta che trovaron, dopo una gran ^ripa discoscesa~ e rotta, 
+fare tanto gran romore, cadendo, quell'acqua di Flegetonte, tanto rossa 
+e ^tinta~, nel burrato di Gerione, ^S@i che in poca ora avria 
+l'orecchia offesa,~ come @e costume di fare ciascun sensibile, troppo 
+potente e troppo gagliardo, al sensorio e a l'organo per mezzo del 
+quale la potenza sensibile lo comprende, guastando con la sua troppa 
+potenza la temperatura di quello di sorte, ch'ei non pu@o far l'ofizio 
+suo.
+
+	|106-123.~  Dopo il che segue il testo:
+
+   ^Io avea una corda intorno cinta,~
+   ^E con essa pensai alcuna volta~
+   ^Prender la lonza e la pelle dipinta.~
+
+   ^Poscia ch'io l'ebbi tutta da me sciolta,~
+   ^S@i come il Duca m'avea comandato,~
+   ^Porsila a lui aggroppata e raccolta.~
+
+   ^Onde ei si volse in su lo destro lato,~
+   ^Ed alquanto di lunge da la sponda~
+   ^La gitt@o giuso in quello alto burrato.~
+
+   ^E pur convien che novit@a risponda,~
+   ^Dicea fra me medesmo, al nuovo cenno~
+   ^Che il maestro con gli occhi s@i seconda.~
+
+   ^Ah quanto cauti gli uomini esser denno~
+   ^Presso a color, che non veggon pur l'opra,~
+   ^Ma per tutto il pensier miran col senno!~
+
+   ^Ei disse a me: tosto verr@a di sopra~
+   ^Ci@o che io intendo e che il tuo pensier sogna;~
+   ^Tosto convien ch'al tuo viso si scuopra.~
+
+	Il senso di questi versi, per esser istoria e non aver difficult@a in 
+quanto a le parole, @e (come voi vedete) facilissimo; parlando per@o 
+per ora del litterale; ch@e de l'altro, cio@e quel che voglia 
+significare questo aver fatto Virgilio scignere il Poeta nostro la 
+corda della quale egli era cinto, e avere con essa fatto venire Gerione 
+su in su la sponda del suo burrato, esamineremo noi un poco pi@u gi@u. 
+Considereremo adunque solamente per ora, ch'ei non @e di poca 
+importanza il non sapere celare in questo mondo le passioni e i 
+concetti suoi, e massimamente in presenza di quegli uomini, i quali, 
+come dice qui il Poeta, non ragguardono solamente a quel che altrui fa, 
+ma penetrono con la sottilit@a de l'ingegno e con la sagacit@a loro, 
+mediante ogni piccola coniettura, infino a quel che altrui pensa, come 
+ei mostra qui che facessi Virgilio col suo senno verso di lui; ch@e 
+conoscendo nel volto suo ch'egli aspettava ch'ei nascesse da 'l cenno 
+che aveva fatto Virgilio di gittar quella corda dentro al burrato, e di 
+poi secondandola e andandole dietro con gli occhi, qualche novit@a, gli 
+disse ch'ei verrebbe tosto di sopra quel ch'esso Virgilio ^attendeva~ e 
+aspettava, e si scoprirebbe a la sua vista quel che il pensiero di 
+Dante sognava e conietturava.
+
+	|124-129.~  La qual cosa avvenendo, parve al nostro Poeta tanto 
+maravigliosa e da non esser creduta da chi non la vedessi, ch'ei ne fa, 
+innanzi ch'egli incominci a raccontarla, una bellissima e 
+artificiosissima scusa, e dice:
+
+   ^Sempre a quel ver che ha faccia di menzogna~
+   ^Dee l'uom chiuder le labbra fin ch'ei puote,~
+   ^Per@o che senza colpa fa vergogna.~
+
+   ^Ma qui tacer nol posso; e per le note~
+   ^Di questa Comedia, lettor, ti giuro,~
+   ^S'elle non sien di lunga grazia vote,~
+
+preponendo nella prima parte di questo ragionamento (ch'egli fa, come 
+si @e detto di sopra, per scusa della cosa incredibile ch'ei vuole 
+raccontare) questa notabilissima sentenza: che l'uomo debbe sempre, 
+infino a ch'ei pu@o, tacere quelle cose che, se bene elle son vere, 
+hanno ^faccia~ e apparenza di ^menzogna~ e di bugia; perci@o ch'elle 
+fanno vergogna a chi le racconta, ^senza colpa~ e senza cagione, 
+facendolo tener, bench@e ei dica il vero, bugiardo e mendace, se non da 
+tutti quei che lo odono, almanco da la maggior parte; accennando con 
+queste parole, che se ei fa ora il contrario, lo fa constretto e 
+necessitato da 'l non voler che la narrazion sua sia diminuta e 
+imperfetta. E per tal cagione, non potendo ei tacere quel che ei dir@a, 
+se ben egli ^ha faccia di menzogna~, egli giura ch'ei fu vero e che lo 
+vide; e giuralo per cosa che gli @e carissima, e questa @e la vita di 
+questa sua opera. Perci@o ch'ei non vuol significare altro il dire che 
+questo suo poema ^non sia di lunga grazia voto~, se non ch'ei piaccia 
+tanto, che gli uomini non lo lascino andare in dimenticanza, ma lo 
+mantenghin vivo col leggerlo.
+
+	|130-136.~ 
+
+   ^Ch'io vidi per quel aer grosso e oscuro~
+   ^Venir rotando una figura in suso~
+   ^Maravigliosa a ogni cuor sicuro,~
+
+   ^S@i come torna colui che va giuso~
+   ^Talora a sciogliere @ancora, ch'aggrappa~
+   ^A scoglio o altro che nel mare @e chiuso,~
+
+   ^Che in su si estende, e da pi@e si raggrappa.~
+
+Fatta che ha il Poeta la scusa che voi avete sentito, egli racconta 
+come ei vide venire in su girando per quello aere grosso e oscuro una 
+figura tanto ^maravigliosa~ e monstruosa, ch'ella arebbe spaventato 
+ogni ^cuore~ e ogni animo, per ^sicuro~ ch'ei fusse. E dice ch'ella 
+teneva quel modo, nel venire in su, che tengono nel tornare quegli che 
+vanno in mare gi@u sotto l'acqua a ^sciogliere~ e spiccare l'ancore, 
+quando elle si ^aggrappono~ e appiccono a scogli o altre cose che sono 
+sotto l'acqua; che distendono, appiccandosi al canapo, la parte loro di 
+sopra, e ^raggrappono~ e ritirono di poi a loro quella di sotto. E qui 
+fa il Poeta fine a questo capitolo, e noi a questa lezione.
+

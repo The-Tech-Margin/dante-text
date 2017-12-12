@@ -1,0 +1,918 @@
+	|SUMMARIUM.~  CANTUS SECUNDUS, ^in quo tractat sicut 
+quidam Angelus duxit in nave aliquos spiritus, et missis et
+depositis in terram locutus est Virgilius cum eis; et cum
+perpendissent quod Dantes vivebat, omnes eum perspexerunt, et
+unus vocatus Casella precibus Dantis cantabat; et Cato subito
+supervenit; cum clamore omnes expulsit.~
+
+	|Proemio.~  ^GI@A era il sole all'orizzonte giunto.~ 
+Postquam in superiori capitulo prohemiali poeta Dantes proposuit,
+invocavit, et narravit qualiter intraverit purgatorium per
+Catonem, et lotus et cinctus fuerit per Virgilium, nunc
+consequenter in isto secundo capitulo incipit suum tractatum de
+his qui neglexerunt poenitentiam usque ad mortem, qui sunt
+relegati ibi in antipurgatorio, quorum plures sunt species.  Et
+primo in isto capitulo tractat de prima specie eorum qui
+tardaverunt suam conversionem usque in finem abstracti aliqua
+magna delectatione tam naturali quam artificiali, qualis est illa
+quae consistit in musica, puta cantu vel sono.  Et praesens
+capitulum potest breviter dividi in quatuor partes generales.  In
+prima quarum poeta describit tempus et locum simul sui tractatus
+subtiliter et pulcre.  In secunda describit unum Angelum, cuius
+officium est transportare animas salvandorum ad purgatorium in
+navi, ibi statim: ^Noi eravam.~  In tertia describit unam turbam
+animarum portatarum ab Angelo, et earum conditionem, inter quas
+describit in speciali unam animam modernam, quam familiariter
+noverat in vita, ibi: ^La turba.~  In quarta et ultima invitat
+animam amici ad canendum, cuius cantus interrumpitur a Catone
+rigide increpante eos, ibi: ^Et io: se nuova legge.~  
+
+	|1-9.~  Ad primam partem veniens dico, quod poeta
+describit tempus et locum; et quia in praecedenti capitulo
+descripserat stellam Dianam quae praenuntiabat diem venire, ideo
+nunc describit ipsam diem; et vult dicere in summa quod in illo
+hemisperio oriebatur dies in arietem; in nostro vero superiori
+oriebatur nox in Libra.  Unde ad intelligendam literam clare,
+quae videtur obscura, debes repetere unum quod notavi in capitulo
+praecedenti, scilicet, quod totum coelum est divisum in duas
+partes aequales, quarum una vocatur hemisperium superius, altera
+medietas vocatur hemisperium inferius, et zona dividens unam
+medietatem ab altera vocatur horizon.  Modo dicit poeta, quod sol
+jam pervenerat ad horizontem in nostro occidente, qui erat oriens
+sibi, qui erat in hemisperio inferiori; ideo quando fit nobis
+nox, illis fit dies, et e converso.  Et declarat sic, quia si sol
+erat in horizonte, sequitur, quod ille circulus quem facit sol in
+meridie tegit Hierusalem, quae est in medio orbis; nox ergo, quae
+est directe opposita soli, veniebat super nos a nostro oriente,
+et dies veniebat super illos ab eorum oriente.  Nunc ad literam
+dico, quod poeta describit ortum solis fugantis auroram, dicens:
+|il sole~, scilicet oriens ibi, |gi@a era giunto all'orizzonte~,
+quia recedebat a conspectu nostro et accedebat ad eos; unde
+dicit: |lo cui~, scilicet cuius horizontis, |meridian cerchio~,
+in nostro hemisperio, |coperchia Jerusalem~, accusativi casus
+quia Hierusalem est subiecta meridiano solis, qui est in medio
+mundi, |col suo pi@u alto punto~, qui appellatur zenith,
+respiciens directe caput nostrum, |e la notte che opposita a
+lui~, scilicet illi soli, |cerchia~, idest, circuit, quia nox non
+est aliud quam umbra terrae, quae fit quando sol transit sub
+terram, et est sub nobis, |usc$ia fuor~, idest, incipiebat oriri,
+|di Gange~, idest, in oriente nostro, quia Ganges est fluvius
+maximus Indiae.  Quatuor enim sunt flumina famosa orientis,
+scilicet Tigris, Euphrates, Ganges et Nilus; et quatuor
+occidentis, scilicet Danubius, Rhenus, Padus et Rhodanus.  Et
+dicit: |con le bilance~, idest, Libra, quae aequa lance mensurat
+diem et noctem; et sic erat aequinoctium vernale; et dicit:
+|che~, idest, quae bilanciae, |le caggion di man~, idest, a
+manibus noctis et potestate, quia non potest amplius tenere
+aequalitatem, |quando soverchia~, idest, quando ipsa nox superat
+Libram, scilicet quando crescit et intrat Scorpionem.  Et probat
+per effectum quod sol oriebatur super eos, quia aurora incipiebat
+mutare tertium colorem; nam propter approximationem solis vapores
+primo albescunt, deinde propter refractionem radiorum solarium
+efficiuntur rubei, et propter superabundantiam radiorum
+efficiuntur citrini; unde dicit: |s@i che le guance~, idest, genae
+splendoris, |bianche~, scilicet, primae, |e le vermiglie~,
+scilicet, secundae, |della bella aurora~, alludit poetice, quasi
+aurora sit una pulcra domina alba colorata, |divenian rance~,
+idest obumbratae, idest citrinae.  Est enim citrinum, idest
+giallus rubeo colore permixtus, quasi dicat: genae aurorae quae
+fuerant primo albae, postea rubeae, nunc fiebant subrufae, |per
+troppa etate~, idest, moram, quia nimis steterant ante conspectum
+solis venientis cum splendore magno; |l@a dove io era~, scilicet
+in illo hemisperio inferiori.  Enucleata sententia et declarata
+litera in generali, nunc sunt plura notanda in speciali ad
+maiorem claritatem.  Et primo quidem super illo vocabulo horizon
+est notandum, quod horizon interpretatur limitans; est enim
+horizon circulus ille qui terminat spatium nostri visus, idest
+ultra quem visus extendi non potest.  Ubi enim videtur nobis
+coelum coniungi ipsi terrae, intellige quamdam lineam ibi, quae
+ita ex omni parte circumdatur aequaliter quousque visus noster
+pervenire potest; et haec linea erit horizon artificialis.  Est
+enim alius horizon naturalis, videlicet ille qui jacens juxta
+litora terrae dividit firmamentum in hemisperium superius et
+inferius recto modo, et iste naturalis horizon variari non
+potest.  Artificialem pero, quem sibi fingit unusquisque, variat
+secundum motum illius ab uno loco in alium.  Non enim potest
+movere pedem in antea vel retro, quin varietur ille suus horizon
+ex una scilicet parte crescendo, ex alia decrescendo.  In
+proposito ergo poeta loquitur de horizonte naturali, non de
+artificiali.  Secundo nota super illo vocabulo meridianus, quod
+meridianus habet variari secundum diversitatem habitantium:
+meridianus enim est quaedam linea intelligibilis, quae dividit
+firmamentum in parte illa in qua sol aequaliter distat ab oriente
+et ab occidente respectu nostri: certum est enim, quod est
+quaedam hora diei, in qua sol est ita super capita nostra, quod
+aequaliter est remotus ab ortu et occasu; quem ortum sive occasum
+habet quantum ad nos, idest, secundum quod nobis oritur vel
+occidit.  Haec autem hora appellatur meridies, quasi media dies,
+quia media pars diei praeteriit, et media futura est.  Debes ergo
+fingere in animo quamdam lineam intelligibilem, quae firmamentum
+dividat, ubi sol in tali hora diei invenitur; et haec linea
+dicitur circulus meridianus, qui circulus habet variari secundum
+diversitatem habitationum.  Non enim omnes gentes eodem modo
+sitae sunt, vel in eadem regione, imo quaedam sunt magis
+propinquae orienti, quaedam magis remotae ab eo; unde nec omnibus
+in eodem tempore sol oritur, nec occidit; nec simul omnes habent
+meridiem, sicut nec simul habent omnes ortum et occasum: imo illi
+qui sunt propinquiores orienti habent citius meridiem, similiter
+et suum meridianum.  In proposito ergo poeta non loquitur de
+meridiano artificiali, qualis est praedictus, imo de naturali,
+qui dividit istum nostrum hemisperium superius in duo aequa; et
+in quo quando est sol aequaliter distat a vero oriente et a vero
+occidente, et in eo solum meridies deberet esse si omnes gentes
+essent aequaliter sitae, et nisi tumor terrae impediret.  Tertio
+nota super eo quod poeta dicit, quod meridianus tegit Hierusalem;
+nam videtur dubitandum de eo quod dicit hic, et alibi dixit et
+dicet, quod Hierusalem sit in medio mundi, nam contrarium
+videntur dicere magni philosophi et theologi.  Dicendum breviter
+quod Hierusalem potest dici esse in medio mundi ex testimonio
+Sacrae Scripturae: est etiam in medio regionis Judaeae; unde
+Egisippus in libro de captivitate hebraeorum, dicit: In medio
+autem Judaeae civitas hierosolimitana quasi umbilicus regionis
+totius, ut prudentibus placuit, abundans regio mediterraneis
+copiis, nec fraudata maritimis, ita ut quasi caput in corpore non
+obumbret sua membra sed regat, atque ei tuitioni sit et
+pulcritudini; de qua saepe multa dicentur in isto libro.  Et
+posito quod hoc non sit verum historice, tamen est verum
+allegorice: et eleganter poeta fingit quod iste mons purgatorii
+directe est oppositus inferno, quia virtus recte contrariatur
+vitio, sicut jam declaratum est circa finem inferni.  Quarto et
+ultimo nota quod hora temporis qua autor intravit purgatorium
+optime convenit materiae describendae: unde Virgilius in simili
+casu describit eamdem horam pulcre.  Cum enim Eneas veniens a
+Troia, quae est terra voluptatis, passus multa et varia pericula
+venisset ad conspectum Italiae, quae ponitur pro terra virtutis,
+apparebat aurora; unde dicit tertio Eneidos: ^Jamque rubescebat
+stellis aurora fugatis, Cum procul obscuros colles humilesque
+videmus Italiam.  Italiam primus conclamat Achates, Italiam laeto
+socii clamore salutant.~  Ita nunc poeta Dantes veniens de terra
+vitiorum ad terram virtutis cum fido socio Virgilio, illucescente
+aurora quae est initium diei, laetatus est videns montem
+purgatorii et humilem planitiem quae circumdat eum.
+
+	|10-12.  Noi eravam.~  Ista est secunda pars generalis in
+qua poeta, praemissa descriptione temporis et loci, nunc
+describit unum Angelum qui ex officio suo habet transportare
+animas ad purgatorium; et quia litera est valde difficilis et
+sententia abscondita, volo te scire, quod poeta sententialiter
+vult dicere quod cum Virgilius et ipse starent adhuc in litore
+maris cogitantes circa iter agendum, vidit subito venire per mare
+unum lumen fulgentissimum, ardentissimum ad modum planetae Martis
+cum velocitate mirabili; quod quidem lumen quanto magis
+appropinquabat, tanto magis invalescebat.  Hic autem erat quidam
+Angelus, qui cum navicula levissima portabat animas purgandorum
+ad istud litus.  Ad literam ergo: poeta primo describit
+dispositionem ipsorum duorum dicens: |Noi eravam lunghesso il
+mare ancora~, idest nos ambo poetae adhuc eramus prope mare in
+litore unde fuerat apulsus juncus; et ecce quomodo stabant, |come
+gente che pensa a suo cammino~, idest, sicut peregrini qui vadunt
+pro indulgentia, sic modo isti ibant, qui timent errare in via,
+quando primo sunt intraturi stratam rectam, |che va col core~,
+idest, cum animo, |e col corpo dimora~, ne inconsulte moveat: et
+interim viderunt Angelum luminosum.  
+
+	|13-18.~  Unde ordina sic literam, quae est satis
+intricata: |et ecco un lume venir per lo mar~, hic erat Angelus
+Domini, |s@i ratto~, idest, tam velox, |che 'l mover suo nessun
+volar pareggia~, idest, quod nullus motus alicuius avis
+levissimae, velocissimae aequat vel aequiparat motum illius
+luminis; et bene dicit.  Quis enim motus alicuius avis corporalis
+possit assimilari motui Angeli, qui est substantia spiritualis
+incorporea?  Et declarat ipsum Angelum per unam comparationem
+nobilem vel propriam, dicens: lumen dico, |cotal~, idest, tam
+ardens et ignitum, |qual Marte~, qui est de natura sui calidus,
+igneus, |su 'l presso del mattino~, idest, in aurora, |rosseggia
+per li grossi vapori~, quia si Mars de se rubeus inveniat vapores
+obvios sibi duplicatur rubor eius, |gi@u nel ponente~, idest, in
+occidente, |sopra il suol marino~, idest, supra superficiem
+maris.  Et hic nota quantum comparatio est propria de
+intelligentia ad planetam; sicut enim Mars planeta calidus rubeus
+de sui natura accendit homines ad bella, ita Angelus splendens et
+ardens inducit homines et inclinat hic ad bellandum contra vitia
+et debellandum hostes.  Nota etiam quod rubedo ista tam
+inflammata figurat amorem caritatis, quo Angelus ardet in
+contemplatione Dei; sicut autem Angelus malus trahit homines ad
+infernum, ita Angelus bonus trahit eos a vitiis et inducit ad
+purgationem.  Et confirmat dictum suum sacramento, dicens: hoc
+lumen vidi, |s'io ancora lo veggia~, modus est jurandi, quasi
+dicat: si Deus det mihi tantam gratiam quod ego iterum videam
+dictum Angelum, scilicet, quod in puncto mortis bene dispositus
+veniam secundario ad purgatorium realiter, sicut jam semel vivens
+ivi ad ipsum mentaliter; et facit in hoc parenthesim, idest,
+interpositionem.  
+
+	|19-21.~  Et subdit intensionem dicti luminis, dicens:
+|dal qual~, scilicet lumine, idest, Angelo luminoso, |com'io ebbi
+ritratto un poco l'occhio~, idest, cum in parvo momento
+removissem visum ab eo, et convertissem versus Virgilium, |per
+domandar lo duca mio~, idest, ut dicerem Virgilio: o quid est
+istud tam mirabile! |rividil pi@u lucente e maggior fatto~,
+quantum ad visum eius propter approximationem.  Et in hoc nota
+velocitatem Angeli qui in instanti transcurrerat magnum spatium,
+ita quod quem prius viderat a longe splendentem, subito vidit
+ipsum de prope splendentissimum.  
+
+	|22-24.  Poi.~  Hic poeta descripto Angelo in generali,
+nunc describit ipsum in speciali quantum ad organa quibus
+utebatur: et quia litera est difficilis, in summa vult dicere,
+quod vidit duo alba quae movebantur a dextris et sinistris eius,
+et paulo post vidit quoddam tertium album quod coepit apparere
+sub eo.  Unde dicit: |poi un non sapea che bianco~, quia non
+poterat hunc percipere quid esset, sed postea scivit, |m'appar$io
+d'ogni lato ad esso~, ita quod lumen illud rubeum flammatum
+rutilabat inter duo alba candidissima, |e un altro~, scilicet,
+album, |usc$io~, idest, apparuit, |di sotto a lui~, idest, de sub
+illo lumine primo.  Et hic nota quod aliqui credentes subtiliter
+exponere istam literam, dixerunt quod ista duo alba erant duo
+Angeli collaterales dicti Angeli; et tertium album erat tertius
+Angelus in societate eius induti candidis vestimentis; sed isti
+somniant nescio quid.  Ideo dic quod duo alba erant duae alae
+volantes et ventilantes illius Angeli igniti, quae figurant
+puritatem eius et velocitatem.  Licentia enim poetarum et
+pictorum attribuit alas Angelo, ut notum est apud omnes.  Tertium
+vero album erat quaedam navicula alba, quam regebat Angelus sub
+se, in qua portabant unum gregem animarum.  Et quod ista sit
+intentio autoris, litera sequens glosa est praecedentis.  
+
+	|25-30.~  Unde continuo ostendit quomodo Virgilius se
+habuerit circa manifestationem Angeli, et honorationem eius
+dicens: |lo mio maestro~, scilicet Virgilius, qui stabat attentus
+expectans, |ancor non fece motto~, idest, non dixit mihi verbum,
+et non respondit ad id quod tacite petiveram cum admiratione,
+|mentre che i primi bianchi~, idest, usquequo illa duo alba quae
+primo apparuerant a lateribus Angeli, |aperson l'ali~, idest,
+visa fuerunt sibi habere formam et figuram alarum.  Et per hoc
+tacite innuit quod ratio sapientis non judicat cito vel faciliter
+antequam habeat cognitionem expressam de re visa, quia visus
+aliquando fallitur de longinquo, sicut ipse Virgilius dixit Danti
+alibi in inferno, ubi accipiebat gigantes a longe pro turribus:
+et cognito Angelo ab alis statim praecepit Danti, ut redderet
+illi debitam reverentiam.  Unde dicit: |e grid@o: fa' fa' che le
+ginocchia cali~, idest, sine mora procumbe super genua tua,
+|allor che ben conobbe il galeotto~, idest, quando cognovit quod
+erat unus Angelus, qui ducebat navim.  Unde dicit: |ecco l'Angel
+di Dio, piega le mani~, in signum reverentiae, quia si praestitit
+reverentiam magnam Catoni, quanto magis Angelo nuntio divino, qui
+habet transferre animas mortuorum ad purgatorium, ubi Cato solum
+habuit introducere animam viventem in corpore poetae Dantis, qui
+introduxit eum tamquam magnum magistrum morum.  Unde si bene
+advertis non invenies quod unquam alia anima transeat per manus
+Catonis.  Et ad bonam exhortationem eius dicit: |omai vedrai di
+s@i fatti officiali~, quasi dicat: ubi consuevisti per infernum
+videre Angelos malos, terribiles, horribiles, nigros, feroces,
+armatos, clamantes, minantes, trahentes homines ad poenam
+damnabilem; amodo videbis Angelos bonos, splendidos, lucidos,
+suaves, benignos, cantantes, dirigentes homines ad poenam
+salutarem.  Et hic nota quod sicut poeta noster in introitu
+inferni descripsit nautam, qui habebat traiicere per aquam
+fluminis omnes animas damnandorum cum navi; ita nunc describit
+unum patronum qui habet traducere omnes animas purgandorum cum
+navi.  
+
+	|31-36.  Vedi.~  Hic Virgilius describit excellentiam
+istius gubernatoris gloriosi, et est litera clara.  Unde dicit:
+vidisti nautam mirabilem, sed vide modum navigandi numquam visum:
+|Vedi che sdegna gli argomenti umani~, quasi dicat: vide quod non
+dignatur in regendo navim uti organis hominis, quae homo reperit
+arte et ingenio, qualia sunt vela, remi, temo, funes, quae
+instrumenta poeta tetigit Inferni capitulo XXI; sed hic tantum
+tangit duo principalia, quibus vehitur navis, scilicet remum et
+velum, unde dicit: |s@i che remo non vuol n@e altro velo che l'ale
+sue tra liti s@i lontani.~  Per hoc notat quod Angelus non indiget
+auxilio humano, sed potius homo auxilio Angeli.  Unde nota quod
+bene dicit inter litora tam longinqua, quia iste Angelus
+transportat animas bene morientium ab isto nostro hemisperio
+superiori ad illud inferius ad portum poenitentiae per mare tam
+amarum; unde dicit: |Vedi come l'ha dritte~, scilicet illas alas,
+|verso 'l cielo~, quia dirigit animas ad coelum, ubi Charon ad
+infernum, |trattando l'aere con l'eterne penne~, idest, volando
+per aerem cum pennis perfectis, |che non si mutan come mortal
+pelo.~  Hic exponunt aliqui quod alae Angeli non mutantur in
+tempore, sicut pilus hominis, qui a principio est parvus, deinde
+crescit et mutat colorem, quia canescit, ultimo resolvitur et
+consumitur.  Tu vero dic et melius, quod loquitur de plumis
+avium, quia aves mutant pennas et earum pennae sunt
+corruptibiles.  Et hic nota quod comparatio est propria de ave ad
+Angelum.  Avis enim nobilis est levis volans per aerem sicut nunc
+iste Angelus: aer enim dominatur in ave, et aer inclusus inter
+concavitatem pennarum alleviat avem et habilitat ut feratur
+sursum; unde avis quanto plus habet pennositatis et minus
+carnositatis, tanto facilius se levat sursum.  Ex levitate ergo
+habet aptitudinem volandi.  Bene ergo dat alas Angelo ad
+denotandum subitum motum et expeditam operationem, ut statim
+sequitur.  
+
+	|37-42.  Poi.~  Hic poeta describit celerem appulsionem
+Angeli cum luminis intensione dicens: |poi l'uccel divino~,
+idest, Angelus Domini immortalis, non mutabilis, non
+corruptibilis, sicut nostrae aves, |sen venne a riva~, idest, ad
+illud litus ubi eramus, |pi@u chiaro appariva~, sed non erat,
+|come pi@u e pi@u verso noi venne~, et ecce claritatem immensam,
+|perch@e l'occhio d'apresso nol sostenne~; quia non erat proportio
+obiecti ad sensum; ideo dicit: |ma chinail giuso~, scilicet, ad
+terram, quia oculus eius erat assuetus videre tenebram
+infernorum, et nunc primo incipiebat videre lucem Angelorum; ideo
+bene ostendit infirmitatem sui visus, |e quei~, scilicet,
+Angelus, |sen venne a riva con un vasello~, idest, navicula alba,
+|isnelletto e leggiero~, quia non erat glarea sive saburra in
+sentina illius navis ad firmandam eam, sed velociter currebat per
+terga maris; unde dicit: |tanto che l'acqua nulla ne
+'nghiottiva~: quia scilicet non mergebatur, non profundabatur
+infra aquam, quia navis erat levis, et animae sedentes in navi
+erant leves sine pondere carnis.  Et hic nota quod ista navis est
+navicula Petri, per quam homines ducuntur ad purgatorium, idest
+ad poenitentiam, juvante et dirigente divina gratia, quae navis
+nunquam potest submergi in mari huius mundi.  Unde dixit
+Christus: ^Rogavi pro te, Petre, ut fides tua non deficiat.~ 
+Ideo bene est alba et pura ista navis, sicut fides, ubi navis
+Charontis est nigra et obscura, de qua dicit Virgilius VI
+Eneidos: ^Et ferruginea subvectat corpora cymba.~  
+
+	|43-45.~  Et describit modum navigandi istius nautae
+gloriosi, dicens: |il celestial nocchiero~, scilicet Angelus
+missus a coelo ad eruendum miseros de fluctibus tempestatum,
+|stava da poppa~, sicut est de more gubernantium navim.  Et addit
+ad augmentum maioris perfectionis: |tal che faria beato per
+iscritto~, ne dum visus, sicut nunc ego vidi eum, licet oculus
+non esset fortis ad tantam claritatem sustinendam; et dicit: |e
+pi@u di cento spirti entro sedero~, pro sedebant, quasi dicat,
+multi; tamen Charon habet maiorem multitudinem in sua navi
+continuo, quia pro uno qui tendit ad poenitentiam, mille sunt qui
+tendunt ad peccandum.  
+
+	|46-48.  In exitu.~  Hic poeta describit cantum illarum
+animarum.  Et ad intelligentiam huius fictionis artificiosae volo
+te primo scire, quod AEgyptus satis commendatur ab autoribus; et
+primo quidem ab antiquitate, unde Plato in Thimaeo vult quod
+diluvium non pervenerit ad eos.  Augustinus tamen libro de
+Civitate Dei contra hoc dicit, quod hoc est verum de diluvio
+particulari quod fuit in Graecia tempore Deucalionis et Ogygii
+regis; sed diluvium generale quod fuit tempore Noe bene pervenit
+ad aegyptios et ad omnes.  Et de diluvio particulari loquitur
+etiam Aristoteles libro Problematum, qui dicit quod orientales
+fuerunt sapientiores, quia diluvium non pervenit ad eos. 
+Commendatur etiam AEgyptus a fertilitate, quia ut ait Lucanus:
+^Terra suis foecunda bonis.~  Sed certe terra est plena
+serpentibus, calore et siccitate, plena monstris et
+superstitionibus, cuius gens generaliter est imbellis, vilis et
+tristis; unde, ut omittam testimonia Sacrae Scripturae, Juvenalis
+poeta irridet sacra aegyptiorum, qui colunt pro diis canes et
+serpentes.  Adrianus etiam imperator romanus, magnus poeta, et
+vir certe magnae intelligentiae et prudentiae, qui plus
+perambulavit provincias romanas, quam umquam alius princeps,
+detestatur valde mores aegyptiorum in epistola quadam quam
+scribit ad amicum, sicut scribit AElius spartianus in vita eius;
+et ut concludam cum Tullio in suo Tusculano libro V aegyptiorum:
+^mores quis ignorat? quorum imbutae mentes pravitatis erroribus.~ 
+AEgyptus ergo maleficiorum mater, qui non solum restiterunt
+Moysi, sed cum eo signis et miraculis contenderunt, qui missus a
+Deo fecit tot miracula aperta, et fuit magnus astrologus, ut
+perhibet Petrus Comestor in Historia ecclesiastica.  Justinus
+tamen breviator Trogi Pompeii, satis verus scriptor rerum
+gentilium, iniuste admiscet vera falsis in hoc.  Scribit enim
+libro XXXVI inter alia: cum multum laudasset Joseph quod Moyses
+filius eius dux fuit hebraeorum qui sunt expulsi de AEgypto cum
+scabiem et lepram paterentur, et abstulit furto sacra
+aegyptiorum, et aegyptii persecuti illos repulsi tempestatibus
+domum redierunt; quod dictum damnat Augustinus et Orosius
+scribens sibi.  Unde Josephus historicus hebraeus tertio libro
+Antiquitatum dicit, quod quilibet irridebit eos qui dicunt Moysem
+lepra fatigatum factum fuisse ducem expulsorum eadem de causa, et
+venisse in Chananaeam cum eis.  Si enim hoc fuisset verum,
+nequaquam Moyses expulisset leprosos a castris suis, qui tamen
+apud multas gentes morantur et honorantur.   Commendatur et
+ultimo AEgyptus a magna potestate, quia olim habuit Pharaones
+potentes, et Ptholomeos qui regnaverunt post Alexandrum Magnum. 
+Hodie vero habet Soldanos qui tenent Babyloniam, Alexandriam olim
+aemulam Carthaginis, Syriam et Terram Sanctam et multas terras;
+sed gens aegyptia semper fuit apta nata servituti.  -- Ad literam
+ergo, poeta fingit quod animae portatae ab Angelo cantabant nunc
+illum psalmum David, qui incipit: ^In exitu Israel de AEgypto,
+domus Jacob de populo barbaro~; in quo quidem psalmo David
+describit liberationem populi hebraeorum de captivitate
+aegyptiorum; nam dicit: et illi spiritus sedentes in navi fundati
+in fide: |cantavan tutti insieme ad una voce~, cum magno gaudio,
+sicut olim hebraei cantaverant hymnum cum Moyse: |In exitu Israel
+de AEgypto~: et non solum cantabant principium illius psalmi, sed
+totum usque in finem, unde dicit: |con quanto di quel salmo @e
+poscia scritto.~  Et sic vide quod spiritus portati in nave
+Angeli intrabant purgatorium cantando, ubi portati in nave
+Charontis intrabant infernum, frendentes dentibus, blasphemantes
+Deum, parentes etc.  Et hic adverte lector quam subtiliter poeta
+noster finxerit istos canere psalmum praedictum; quoniam AEgyptus
+terra plena erroribus, laboribus, serpentibus, figuraliter est
+terra habitabilis, plena peccatis et periculis, cuius rex est
+Pharao, idest diabolus qui appellatur princeps mundi, ut clare
+ostensum est ultimo capitulo Inferni; in qua terra quamdiu
+hebraei steterunt, fuerunt vexati omnibus calamitatibus et
+pressuris, coacti facere omnia opera vilia et servilia, sicut
+cavare fossas, coquere lapides murales et similia; et ad tantum
+deducti sunt quod omnes mares eorum statim cum nati erant
+necabantur; nec poterant de ista terra pessima recedere, et a tam
+atrocibus malis, nisi miserante divina gratia, quae dedit eis
+optimum ducem Moysem qui familiariter loquebatur cum Deo, et
+secundum praeceptum eius regebat et ducebat populum Dei in terram
+promissionis, sicut Angelus iste ducit istos ad regnum, quod
+promisit Deus diligentibus se.  Et sicut hebraei liberati, postea
+habuerunt Deum propitium et receperunt maxima et mirabilia
+beneficia ab eo, sed saepe ingrati conquerebantur et volebant
+redire in AEgyptum, propter quod Deus saepe flagellavit eos; ita
+recte accidit his qui recedunt a vitiis et tendunt ad virtutes
+per purgatorium.  Et sicut hebraei tandem pervenientes in terram
+promissionis habuerunt mirabiles victorias et magnas praedas in
+terra fertilissima; ita isti tendentes ad virtutem debellant
+hostes, idest, vitia, in terra felicissima, idest, virtute, et
+tandem triumphant in coelesti Hierusalem.  Et hic ultimo nota,
+quod, sicut scribit Josephus tertio Antiquitatum, luna quarta
+decima, sole posito in ariete, hebraei liberati sunt a servitute
+aegyptiorum, in quo puncto poeta noster liberatus est a servitute
+peccatorum, et per desertum purgatorii pervenit ad coelestem
+Hierusalem.  De isto ducatu Moysis dicetur alibi plenius {e.g., ad
+^Inf.~ 4.57}. 
+
+	|49-51.~  Et finaliter poeta ostendit quomodo Galeottus
+deposuerit animas ad terram, dato eis certo signo; unde dicit:
+|poi~, ille Angelus, |fece lor il segno di santa croce~, ad
+denotandum quod sicut venerant ad litus in barca fidei, ita sub
+vexillo et signo Christi militarent et certarent contra hostes
+per totum iter usquequo perveniant ad praemium laborum magnorum. 
+Et bene fingit quod Angelus dederit istis signum crucis, quia
+infidelis, donec infidelis, numquam potest facere istud iter:
+idcirco statim accepto signo descenderunt ad terram: unde dicit:
+|ond'ei si gittar tutti in su la piaggia~: ibi non est portus,
+ubi debeant quiescere, nec morari; |et ei~, scilicet Angelus,
+|sen g@io com'el venne veloce~, quia pari velocitate redivit pro
+aliis animabus portandis.
+
+	|52-60.  La turba.~  Ista est tertia pars generalis, in
+qua poeta describit unam turbam animarum portatarum ab Angelo, ex
+quarum numero recognoscit animam unius sui dilecti.  Et primo
+ostendit morem earum, dicens: |la turba~, scilicet illorum
+spirituum, |che rimase l@i, parea selvaggia del loco~, idest,
+ignara loci, quod ostendebant, |rimirando intorno~, sicut faciunt
+peregrini in terra ignota, unde dicit: |come colui che nuova cosa
+assaggia~; et isti venerant ad novam rem tentandam, scilicet ad
+poenitentiam.  Et continuo ostendit quando et quid dixerint illi
+spiritus eis.  Unde describit tempus idoneum processui istorum,
+et vult breviter dicere quod jam fiebat dies clara ubique in illo
+hemisperio, quod ostendit per evidens signum, quia scilicet
+capricornus, qui erat paulo ante in medio coeli, declinaverat
+aliquantulum ad occasum procedente sole; nam ut dictum est in
+principio capituli nox fiebat nobis in libra, et capricornus est
+tertium signum post libram, ideo erat in medio coeli; nam semper
+sex signa sunt super terram et sex infra terram, quocumque
+tempore dato.  Dicit ergo: |lo sol~, oriens cum ariete ibi,
+|ch'avea cacciato il capricorno da mezzo il ciel~, quia sicut sol
+paullatim ascendebat, ita capricornus paullatim declinabat,
+|saettava il giorno~, idest, emittebat diem, |con le saette
+conte~, idest, cum radiis suis manifestis, qui velut sagittae
+acuti feriunt et penetrant subtiliter, |da tutte parti~, in
+hemisperio illo.  Et sic vide quod, sicut praedixerat eis Cato,
+sol oriens ostendebat eis iter, et ascendebat paullatim, sicut et
+ipsi ascendent paullatim, |quando la nuova gente~, quae noviter
+appulerat ad illud novum litus, |alz@o la fronte v#er noi~, putans
+nos fore incolas illius loci, |dicendo a noi: se voi sapete,
+mostratene la via di gire al monte~, quia ignorabant viam
+virtutis.  
+
+	|61-66.~  Et subdit poeta responsionem Virgilii ad illos,
+dicens: |e Virgilio rispose~, ostendens similem ignorantiam in
+se: |voi credete forse che siamo esperti d'esto loco~, scilicet,
+quia fecerimus diu residentiam hic, sed non est sic, quia iste
+miser tantum nunc recognoscit errorem suum, sicut et vos; habet
+tamen praerogativam, quia quaerit reverti ad viam rectam in vita,
+vos vero solum post mortem.  Unde dicit: |ma noi siam peregrin
+come voi siete~, quia vadimus ad montem sanctum pro indulgentia,
+sicut et vos, et citius perveniemus ad terminum quam vos, quia
+jam multum ambulavimus per sylvam asperrimam, et diu laboravimus
+pro perveniendo ad istam viam.  Unde dicit: |dianzi venimmo
+innanzi a voi un poco~, quasi dicat: modo-modo, |per altra via~,
+scilicet infernalem, |che fu s@i aspra e forte~, idest, semper
+descendendo; |che 'l salire oggimai~, idest, ascendere amodo ad
+montem purgatorii, |ne parr@a gioco~, idest, quid delectabile,
+respective.  Et vere, considerata bene et cognita infirmitate et
+infelicitate peccatorum, quae semper tendit ad ima, facilius est
+ascendere ad altitudinem et felicitatem virtutum.  
+
+	|67-75.  L'anime.~  Hic poeta describit effectum
+responsionis Virgilii; et breviter dicit, quod videntes autorem
+fore vivum in tanta turba mortuorum, prae nimia admiratione
+factae sunt attonitae et pallidae.  Et est litera clara; unde
+dicit: |L'anime che si fur di me accorte~, per evidens signum,
+|ch'io era ancor vivo per lo spirare~, quia, scilicet, attrahebam
+et emittebam aerem, sine quo est impossibile hominem vivere, quod
+animae illorum non faciebant, quae carent pulmone et caeteris
+organis corporalibus, |meravigliando diventaro smorte.~  Et hic
+nota quod stupor est quaedam species timoris qui provenit ex
+insolita imaginatione; ideo terret hominem, et mutat colorem,
+sicut est de natura timoris; imo aliquando ita opprimit
+phantasiam quod lingua ligatur ita ut loqui non possit.  Isti
+autem mirabantur de re nova et insueta, scilicet quod unus vivens
+venisset ad purgatorium, et per aliam viam quam ipsi; ipse enim
+venerat per terram, illi vero per mare; et moraliter loquendo
+mirabantur quod ipse solus inter tot, ante tempus et horam mortis
+venerat ad poenitentiam, quam illi distulerant usque in finem. 
+Et ostendit quomodo omnes cum summa festinantia concurrerunt
+sicut in omnibus rebus videmus accidere, quod ad nova homines
+concurrunt; et hoc per comparationem valde claram de cursore qui
+portat olivum.  Dicit ergo: |e quelle anime fortunate~, quia
+electae et jam certae de salute, |tutte quante s'affissaro al mio
+viso~, idest, omnes firmaverunt se ante faciem meam et me
+respiciebant quasi angelum nuntium Domini, |quasi obliando d'ire
+a farsi belle~, idest, quasi obliviscendo ire ad montem, de cuius
+via paulo ante petebant; in quo quidem monte animae fiunt pulcrae
+quia purgantur et lavantur ab omni contagione vitiorum.  Et
+notanter dicit |quasi~, quia quamvis viderentur dimittere viam
+suam parum firmando se, tamen imaginabantur non perdere tempus et
+operam, si videbant hominem constitutum in tanta gratia vivum ire
+per purgatorium: et faciebant a simili, |cos@i come la gente
+tragge a messagger che porta ulivo, per udir novelle~, avidis
+auribus, |e di calcar nessun si mostra schivo~, quia in tali actu
+nullus praestat reverentiam alteri cedendo sibi.  Et hic nota
+quantum comparatio est propria ad propositum.  Nam poeta noster
+erat novus nuntius portans bona nova, quia faciebat novum opus,
+et bene portabat ramum olivae, quae est arbor gratiae, sapientiae
+et pacis; et iste filius gratiae, homo magnae sapientiae,
+portabat nova pacis, quia quaerebat pacificare se et alios Deo,
+triumphatis hostibus, idest, vitiis.  
+
+	|76-81.  Io vidi.~  Hic poeta describit in speciali unam
+animam modernam de numero praedictarum, et ostendit eius magnam
+affectionem ad se, quia non contenta videre ipsum de prope, ruit
+impetuose in amplexus eius.  Dicit ergo: |Io vidi una di lor~, in
+speciali, |trarsi davante~, ante alias, |per abbracciarmi con s@i
+grande affetto~, idest, cum tanta affectione, |che mosse me a far
+lo simigliante~, ut redderem sibi vicem curialitatis, licet
+nondum cognoscerem ipsum.  Et quia non potuit amplecti eum sicut
+credebat, non minus miratus est quod non posset tangere eam, quam
+illae miratae fuissent quod viderant eum vivum, quia par ratio
+erat in utrisque.  Sicut enim videbatur umbris mirabile videre
+hominem vivum, ita videbatur Danti vivo videre animam
+amplectentem se, et non posse amplecti eam; ideo ex magna
+admiratione prorumpit in unam exclamationem dicens: |o ombre
+vane~, o, idest, dico, animas vacuas et carentes corpore praeter
+quam in uno; unde dicit: |fuor che nell'aspetto~! idest, praeter
+quam in sola visione, quasi dicat, quod istae umbrae nihil
+videbantur habere corporeitatis, nisi in tantum quod erant
+visibiles, sed non erant aliter sensibiles; quod declarat per
+effectum dicens: |tre volte dietro a lei le mani avvinsi~, idest,
+ter amplexus fui illam animam manibus post tergum eius junctis,
+|e tante~, idest, et totidem vicibus, |mi tornai con nulla al
+petto.~  Verba sunt Virgilii cum dicit: |Ter conatus eram collo
+dare brachia circum, Ter frustra comprehensa manus~ etc.  
+
+	|82-84.~  Ideo ponit effectum ex parte sui et illius
+animae, dicens: |di maraviglia, credo, mi dipinsi~; quia mutavi
+colorem, sicut fecerat paulo ante iste, et alii socii; et dicit,
+|credo~, quia non poterat videre faciem suam sicut aliorum, tamen
+bene sentiebat alterationem suam.  Et non mireris si autor ita
+stupefactus est, quia iste erat primus mortuus quem unquam fuerat
+amplexus, |perch@e l'ombra sorrise~, de simplicitate poetae qui
+tentabat amplecti animam separatam, sicut olim solebat facere
+corpus animatum, |e si ritrasse~, scilicet aliquantulum a me
+retro se traxit, |et io seguendo lei~, tantum quantum illa se
+retrahebat, |oltre mi pinsi~, idest, protraxi me versus eam. 
+
+	|85-87.  Soavemente.~  Hic poeta ostendit quomodo
+recognoverit istum spiritum ad loquelam dicens: et illa anima,
+|soavemente~, sicut habuerat suavem vocem in loquendo et
+cantando, |disse ch'io posasse~, quia frustra conabar amplecti
+eam, |allor conobbi chi era~, ita quod quem non cognoveram ex
+conspectu cognovi ex loquela, |e pregai che per parlarmi un poco
+s'arrestasse~, quia fuerat mihi carus et familiaris in vita.  
+
+	|88-90.~  Et ponit responsionem illius, dicens:
+|risposemi~, anima praedicta, |cos@i com'io t'amai nel mortal
+corpo~, scilicet in prima vita, |cos@i t'amo sciolta~, idest,
+soluta et separata a carne; |per@o m'arrester@o~; et petit: |ma tu
+perch@e vai~? quasi dicat: sed tu Dantes, quare vivus facis istud
+iter?  
+
+	|91-92.~  Et poeta respondet, appellans eum nomine
+proprio ex magna affectione, et dicit: |Casella mio.~  Ad quod
+sciendum quod iste spiritus cum quo autor tam amicabiliter
+loquitur fuit quidam suus florentinus nomine Casella, qui fuit
+famosus cantor tempore suo, vir quidem curialis, affabilis, ad
+quem Dantes saepe solebat accedere in vita ad recreandum spiritum
+cantu illius, quando erat fatigatus studio, vel stimulatus
+passione amoris.  Ideo poeta introducit eum hic, quia multum
+facit ad propositum suum, ut statim videbis.  Nec dicas, sicut
+audivi ab aliquibus, multi fuerunt excellentiores cantores ante
+istum et post, de quibus poeta justius poterat facere mentionem;
+sed nihil ad rem, quia autor potius voluit facere memoriam et
+famam de amico cui tenebatur adducere se ipsum in exemplum in
+materia cantus quo fuit summe delectatus, ut statim videbis. 
+Dicit ergo: |diss'io~, illi Casellae, |io fo questo viaggio~,
+scilicet purgatorii, |per tornar altra volta l@a dov'io son~,
+quasi dicat: ideo facio hoc in vita ut merear in morte per
+purgatorium pervenire ad vitam aeternam.  Sed ne dimittam aliquid
+indiscussum, hic oritur justissima dubitatio: quaerunt enim multi
+cum magna admiratione, quid sibi vult ista nova fictio istius
+novi poetae, quare istae animae relegatae extra purgatorium
+ponuntur sine aliqua poena purgatoria?  Ad hoc respondent quidam,
+quod amara poena est homini expectare.  Alii dicunt quod poeta
+per hoc dat intelligi quod aliqui puniuntur in isto mundo ante
+purgatorium, sicut dictum est in praecedenti capitulo; sed sic
+dicentes quaerunt subterfugia ignorantiae suae.  Sed ad verum
+intellectum istius fictionis debes notare quod sicut plene dixi
+in primo capitulo poeta noster loquitur de purgatorio morali;
+vult enim dare intelligi quod de numero salvandorum aliqui sunt
+mortui spiritualiter per totum tempus vitae, qui tamen salvantur,
+quia in fine habent contritionem et conversionem debitam ad Deum;
+ideo bene fingit quod morantur et vagantur extra purgatorium sine
+poena poenitentiali per tantum tempus, per quantum distulerunt
+poenitentiam in mundo.  Et quod dico de istis intelligas de
+caeteris negligentibus, de quibus dicitur usque ad capitulum
+nonum.  
+
+	|93-96.  Ma a te.~  Hic poeta quia dixerat Casellae,
+quare vivus venerat ad purgatorium, nunc merito petit quare ipse
+tantum tardaverit venire.  Ad quod respondet Casella, quod
+Angelus qui habet officium uod respondet Casella, quod Angelus
+qui habet officium transportandi animas ad purgatorium, noluit
+ipsum levare citius; et jure optimo hoc fecit, quia ipse non
+disposuit se citius, sed finaliter in illo anno jubilaei ipse,
+sicut et multi alii, reduxit se ad Deum, et contritus et
+confessus ivit Romam pro indulgentia, et paulo post meruit levari
+ab Angelo.  Dicit ergo poeta primo: |ma a te com'@e tanta ora
+tolta?~ idest, et tu quare tanto tempore distulisti venire huc?
+et continuo ponit responsionem Casellae, dicens: |et elli a me~:
+scilicet Casella cantor dixit: |nessun m'@e fatto oltraggio~,
+idest, nulla iniuria, nulla iniustitia, |se quei~, scilicet,
+Angelus Domini, |che leva~, scilicet, in navi, |quando e cui li
+piace~, cum gratia divina, |pi@u volte m'ha negato esto
+passaggio~, quia scilicet non promovit, non invitavit me ad istud
+purgatorium, sicut tu saepe invitabas me ad cantum.  Et hic nota
+quod gratia non datur ei, qui non se habilitat; de quo possunt
+dari multa exempla, sicut in illo qui manum ad largitatem non
+ostendit, quia Deus quantum in se est dat omnibus affluenter: in
+illo qui oculos contra lumen claudit, cum tamen Deus solem suum
+oriri faciat super bonos et malos: in illo qui fontem inveniens
+erigit fundum vasis sursum, quia Deus, ut ait Augustinus, magna
+liberalitate et ubertate omnes creaturas replet pro capacitate
+earum, in eo qui domum suam cingit spinis ne ingrediatur amicus,
+ipse enim Deus semper stat ad ostium et pulsat: in eo qui lolium
+non extirpat ex agro suo, propter quod fructus crescere non
+potest: in eo qui negligit aperire os ad sumendum cibum, quia
+talis merito debet fame mori: in illo qui tempore pugnae arma
+abiicit, quia talis saepe capitur, vulneratur vel occiditur: in
+illo qui remum non movet tempore tempestatis, quia talis saepe
+mergitur: in eo qui aegrotans, medicis contradicit; et ita possem
+dicere de mille.  Ideo bene dicit Casella, quod nulla facta est
+sibi iniustitia si non fuit jamdiu levatus ab Angelo Domini.  
+
+	|97.~  Et continuo Casella assignat causam sui dicti,
+dicens: |che di giusto voler lo suo si face~; construe sic: |che
+lo suo~, supple, velle, |si face di giusto voler~, idest, quia
+voluntas Angeli fit ex voluntate divina, quae est semper justa,
+quasi dicat: Angelus nemini potest facere iniuriam cum sit
+minister divinae voluntatis justae.  Et hic nota bene, lector,
+quod sicut dicit Calcidius comentator super Thimaeum Platonis, ut
+Deus juxta Angelum, sic Angelus juxta hominem.  Angeli enim sunt
+nobis usui nuntiantes Deo nostras preces et hominibus Dei
+voluntatem intimantes, et illi nostram indigentiam, certe ad nos
+divinum auxilium deferentes; quam ob causam vocati sunt Angeli ob
+assiduum officium nuntiandi.  Huius beneficii testis est universa
+Graecia et tota Italia; nam natura generis humani nimis infirma
+indiget auxilio melioris et perfectioris naturae: quam ob rem
+creator omnium et conservator Deus volens genus humanum esse,
+praefecit eis Angelos, per quos recte regerentur: et isti quidem
+ministri Dei protectores nostri sunt contra adversam potestatem,
+de quibus ait Plato, quod sunt quadam admirabili prudentia,
+memoria vel docilitate, quia omnia sciant, et cogitationes
+hominum introspiciant, et bonis quidem eximie delectentur,
+improbos oderint, nec visibiles, nec sensibiles.  
+
+	|98-102.~  Et ostendit Casella quando se habilitaverit,
+tangens tempus generalis indulgentiae dicens: |veramente elli~,
+scilicet Angelus gratiosus, |ha tolto~, idest, receptavit in
+navi, |chi ha voluto intrar con tutta pace~, idest, quicumque
+voluit conciliari et pacificari Deo, |da tre mesi~, idest a
+tribus mensibus citra, quod est dicere a natali citra.  Nam, ut
+alibi dictum est, annus ille quo poeta habuit suam mirabilem
+visionem, scilicet millesimus trecentesimus, fuit annus jubilaei,
+qui incoeperat a nativitate, et nunc erat tempus primi veris,
+quia sol intraverat arietem.  Vocatur autem hic annus, quem
+Moyses statuit in deserto, jubilaeus, et erat quinquagesimus, ut
+refert Josephus tertio Antiquitatum, in quo debitores a creditore
+laxabantur, et servi dimittebantur liberi.  Stante siquidem
+jubilaeo, quod nomen significat libertatem, restituebantur etiam
+campi antiquis dominis; ideo dicit Casella quod tali tempore
+liberatus est de AEgypto et de potestate Pharaonis.  Dicit ergo:
+|ond'io che era alla marina volto~, scilicet, ad maritimam
+romanam, |dove l'acqua~ |di Tevere s'insala~, idest, intrat
+salum, sive mare; per quod intelligit quod erat conversus ad
+obedientiam romanae ecclesiae, |benignamente fu' da lui ricolto~,
+scilicet ab illo Angelo, qui libenter recipit redeuntes ad
+gremium ecclesiae quantumcumque tarde.  Et hic nota quod Tiber
+fluvius romanus intrat mare longe a Roma per duodecim milliaria
+juxta civitatem quae vocatur Hostia, quam olim condidit Ancus
+Martius quartus rex romanorum in ipso confinio maris et fluminis,
+ut ait Florus, jam tunc praesagiens animo debere esse, ut
+divitiae totius mundi et victualia reciperentur illo quasi
+maritimo hospitio urbis.  
+
+	|103-108.~  Et subdit Casella quod Angelus revertitur
+nunc versus ostium Tiberis, quia omnis anima salvanda transit per
+passum illum, scilicet per praecepta romanae ecclesiae.  Dicit
+ergo: |elli~, scilicet Angelus, |ha or dritta l'ala~, idest, nunc
+de praesenti revolat, |a quella foce~, scilicet tiberinam; et
+ecce rationem, |per@o che qual~, idest, omnis anima quae, |non si
+cala verso d'Acheronte~, idest, non descendit damnanda ad
+infernum in quem intratur per passum Acherontis, |si raccoglie
+sempre quivi~, scilicet ad portum almae urbis, quasi dicat
+breviter quod Angelus non colligit animas ab alia parte quam a
+christiana fide, cuius est caput romana ecclesia.
+
+	|106-111.  Et io.~  Ista est quarta et ultima pars
+generalis, in qua poeta ostendit quomodo invitaverit Casellam ad
+cantandum, et quomodo cantus illius et auscultatio eorum fuerint
+disturbata per Catonem.  Et primo exordiens adiurat eum per
+beneficia praeterita, ut ita nunc recreet ipsum fatigatum cantu
+suo semel, sicut olim in vita saepe facere solebat.  Unde dicit:
+|et io~, supple dixi Casellae: |se nuova legge~, scilicet post
+mortem, |non ti toglie memoria o uso~, quasi dicat: si non
+perdidisti per mortem memoriam et usum, quae duo maxime
+conservant artem; et Ioquitur conditionaliter, quia nesciebat si
+iste qui perdiderat organa, quibus vox formatur, per mortem,
+posset cantare, et dicit: |all'amoroso canto~, quia praecipue
+fuerat expertus dulcedinem cantus Caseltae in materia amoris;
+ideo dicit: |che mi solea quetar tutte mie voglie~, idest, qui
+cantus solebat sedare mihi passiones amoris; et sic captat
+benevolentiam in eo quod dicit illum fuisse cantorem eximium,
+adiutorem sui amoris; unde petit: |di ci@o~, idest, de amoroso
+cantu, |ti piaccia~, loquitur blande, |di consolarmi alquanto
+l'anima mia~, quae vere indiget consolatione; unde dicit: |che
+venendo qui~, idest, quae anima mea veniens ad istum purgatorium,
+|con la mia persona~, idest, carne humana, |@e affannata tanto~,
+simul cum corpore per tot aspera loca, per tormenta poenarum.  Et
+hic nota quod poeta noster de industria fingit quod petat
+delectationem cantus ad relevationem suarum curarum, quia de rei
+veritate summe delectatus est musica.  Primo quidem ratione
+generali, quia haec est delectatio naturalis omnibus; sicut enim
+philosophus scribit octavo Politicorum, ait Museus magnus musicus
+et Musarum amicus hominibus esse delectabilissimum cantare. 
+Secundo ratione speciali, quia poeta; musica enim est necessaria
+poetae.  Unde Calcidius: Musicae quidem consanguineam esse
+poeticam palam est omnibus.  Tertio ratione specialissima: cum
+enim usus musicae naturaliter sit amicus omnibus aetatibus et
+omnibus moribus, maxime juvenes et melancholici indigent
+delectatione secundum philosophum.  Hic poeta fuit valde
+melancholicus a natura et a studio, sicut communiter fuerunt viri
+sapientes.  Unde Aristoteles libro Problematum petit propter quod
+quicumque fuerunt viri excellentes aut secundum philosophiam, aut
+politiam, aut poesim, aut artes videntur esse melancholici,
+qualis fuit Hercules; Tullius tamen, cui dictum non placet, ridet
+hoc in suo Tusculano.  
+
+	|112-117.  Amor.~  Hic poeta ostendit formam et
+suavitatem cantus istius Casellae, et breviter dicit, quod
+Casella benevolus non tardavit vel negavit cantare, sicut est
+commune vitium omnium cantatorum, qui sunt rogati, ut ait
+Horatius; sed statim coepit canere; unde dicit: |elli~, scilicet
+Casella, |cominci@o a dir~, scilicet, cantando: |Amor che nella
+mente mi ragiona.~  Hic nota quod Dantes fecit istam cantationem
+de virtutibus et pulcritudine Beatricis.  Ipse enim nimium
+delectatus ab ipsa juventute sonis et cantibus musicis fuit
+amicus omnibus optimis musicis et citharoedis sui temporis, et
+praesertim Casellae, qui intonavit multos sonos eius; et
+praedictam cantilenam de amore Beatricis intonavit cum summa
+delectatione ipsius Dantis; unde dicit: |s@i dolcemente, che la
+dolcezza dentro ancor mi sona~, quia impressio remansit in anima,
+quae mirabiliter delectatur musica.  Unde poeta, ut ostendat
+delectationem musicae generaliter capere omnes, statim ostendit
+effectum illius cantus, dicens: |lo mio maestro~, scilicet
+Virgilius, |e quella gente ch'eran con lui~, idest, et reliqua
+turba quae erant cum illo Casella, quasi dicat: non solum viri
+studiosi sed vulgares, |parevan s@i contenti come a nessun
+toccasse altro la mente~, quam ille cantus, quasi dicat, quod
+nullus videbatur curare de alia re, ita erat astractus cantu quod
+videbatur oblitus tendere ad montem, de quo paulo ante cum tanta
+cura quaerebat.  Et ut cognoscas, lector, quanta est virtus,
+potentia et efficacia musicae, nota quod musica non solum
+speculationi, sed etiam moralitati coniuncta est.  Nihil est enim
+tam proprium humanitati quam remitti dulcibus cantibus.  Est
+autem musica tam naturalis, quod sicut scribit Boetius in
+prohemio suae musicae, infantes, juvenes et senes ita naturaliter
+cantibus musicis afficiuntur quadam affectione voluntaria, ut
+nulla sit omnino aetas quae a delectatione dulcis cantilenae
+separata sit.  Musica naturaliter est tam potens quod mutat et
+provocat homines ad devotionem, ut patet in choris ecclesiarum,
+placat iram.  Unde Pythagoras mitigavit juvenem ebrium
+tauromintanum, qui furiose volebat comburere domum, in qua erat
+clausa meretrix sua a quodam, qui etiam cognoscebat eam, sicut
+scribit Tullius in suo libro de consiliis.  Similiter idem
+Pythagoras retraxit a furore alios juvenes ebriosos qui accensi
+cantibus tibiarum tentabant rumpere portas mulieris honestae. 
+Dicit etiam Boetius de Empedocle qui temperavit iracundiam
+adolescentis, qui furibundus invaserat hospitem suum, quia
+accusaverat patrem eius; omnis aetas, omnis sexus naturaliter
+melodia musicae delectatur; unde in funeribus temperat planctus,
+ita quod causa flendi fit dulcior cum quodam cantico.  Nam
+antiquitus fuit consuetudo quod cantus tibiae praecedebat
+planctum, sicut scribit Statius in maiori; unde videmus quod
+mulieres deplorantes planctus suorum quodammodo decantare
+videntur; Aristoteles etiam libro Problematum petit propter quod
+dolentes et delectantes fistulantur; et dicit: ut hi quidem minus
+tristentur; alii autem magis gaudeant: magni ergo et varii sunt
+effectus musicae.  
+
+	|118-123.  Noi.~  Nunc poeta ostendit qualiter Cato
+superveniens turbaverit immensam delectationem eorum, arguens
+omnes negligentiae.  Dicit ergo continuans partem parti: |Noi
+eravam tutti fissi ed attenti alle sue note~, scilicet cantus
+illius Casellae, |et ecco il veglio onesto~, scilicet, Cato
+Uticensis, licet uterque Cato fuerit rigidus et honestus et
+hostis omnis lascivae vanitatis.  Primus enim oratione gravissima
+clamavit in senatu romano contra impudentiam et audaciam
+foeminarum, quae repetebant usum auri et argenti et praetiosarum
+vestium, licet non obtinuerint.  Uticensis vero tacens sola
+praesentia sua vetabat in theatro ne fierent ludi inhonesti
+valde, in quibus mulieres nudabantur.  Ideo merito poeta
+introducit eum increpantem vanam delectationem eorum; unde dicit:
+|che @e ci@o spiriti lenti~, qui dimittitis honestum et sanctum
+iter virtutis propter delectamina vana; |qual negligentia~, certe
+turpissima est jactura, quae per negligentiam venit; |quale stare
+@e questo~? in isto plano; ergo |correte al monte~, scilicet
+purgatorii, |a spogliarvi lo scoglio~, idest deponendum saxum et
+onus vitiorum, quod pergravat animam ad ima; ideo dicit:
+|ch'esser non lascia a voi Dio manifesto~; ad quem itur per istum
+montem altum.  Et hic adverte bene quanta arte poeta noster
+utitur hic, qui primo posuit suam delectationem omnium, deinde
+mordacem increpationem Catonis.  Unde volo ulterius te notare
+quod non obstante commendatione musicae facta, poeta hic digne
+reprehenditur a Catone; primo, quia non erat amplius juvenis;
+secundo, quia hic renovabat cantum de materia amorosa, qua olim
+fuerat nimis inviscatus; tertio, quia nunc tendebat ad
+poenitentiam, unde melius erat nunc plorando ad gaudium
+pervenire, quam cantando pervenire ad planctum.  Ad quod notandum
+quod sicut musica bene morata et temperata parit optimos
+effectus, ita si sit mollis et lasciva, pessimos, quia nullum
+vestigium sequitur honestatis.  Unde Plato qui fuit magnus
+musicus praecipiebat quod pueri non erudirentur in omnibus modis
+musicalibus, ex quo volebat quod musica esset simplex et mascula,
+quali olim usi sunt lacedaemonii in Graecia, et romani in Italia,
+ad alliciendos animos juvenum ad amorem bellorum et laborum; sed
+non effoeminata quae emollit virilitatem.  Nam teste Gregorio:
+^cum blanda vox quaeritur sobria vita deseritur.~  Ideo
+Athanasius ad vitandam vanitatem usum canendi in ecclesiis
+interdixit.  Ambrosius ad invitandam pietatem ordinavit ut
+caneretur.  Augustinus de utroque dubitat, utrumque permittens,
+ut scribit libro Confessionum.  Et quidam vir bonus et prudens
+habens curam magni conventus monialium, vetuit ne cantando
+divinum officium celebrarent.  Sed, ut de caeteris taceam, Nero
+mollissimus, qui fuit vir omnium mulierum et mulier omnium
+virorum, nimis damnabiliter delectatus est omni genere musicorum,
+omnia theatra Graeciae percurrens, ubi olim studium musicae
+maxime viguit, adeo quod ignarus musicae reputabatur indoctus,
+sicut Themistocles praeclarissimus dux et philosophus atheniensis
+culpatus est quia in convivio lyram recusavit.  Et Epaminondas
+strenuissimus dux thebanus similis Catoni superiori, in tanta
+rerum industria laudatus est, quod sciebat optime canere lyra,
+sicut Tullius libro Tusculanarum: et Achilles juvenis se sono
+lyrae a laboribus recreabat; et Socrates senex in senio non
+erubescebat discere musicam.  Et idem Tullius secundo de Legibus
+mirabiliter commendat musicam, et pulcre disputat utrum sit
+utilis, et ostendit quod neque colenda, neque negligenda sit.  Et
+Plato vir divini ingenii arbitratus est musicam ad statum sive
+corruptionem morum ac reipublicae pertinere.  Nero autem ita
+alienatus est mente per musicam, quod in ultimo discrimine
+positus deflebat, non quantus princeps sed qualis musicus
+periret, ut scribit Svetonius in sexto.  
+
+	|124-132.  Come.~  Hic ultimo poeta describit recessum
+illarum animarum per unam comparationem domesticam; et breviter
+dicit, quod isti fecerunt nunc sicut columbi, qui intendentes ad
+capiendum cibum, exterriti clamore vel strepitu alicuius
+supervenientis, subito aufugiunt dimisso victu suo.  Ordina sic
+literam, quae videtur intricata: |vid'io~, scilicet ego Dantes,
+|quella masnada fresca~, idest, turbam novam illarum animarum,
+|lassar lo canto~, illius Casellae, |e fuggir v#er la costa~,
+scilicet montis purgatorii, |com'uom che va, n@e sa dove riesca~,
+quia qui incipit tendere ad virtutem ignorat exitum et finem;
+|cos@i come li columbi~, supple, fugiunt, |quando adunati alla
+pastura~, in campo ubi pascuntur, |cogliendo biada o loglio,
+queti senza mostrar l'usato orgoglio~, idest dimisso magno
+murmure suo naturali, |lascian subitamente star l'esca~, qua tam
+dulciter pascebantur, |perch@e assaliti son da maggior cura~,
+scilicet, fugiendi nocumentum, quae est maior cura quam sit cura
+capiendi cibum.  Unde dicit: |se cosa appare ond'egli abbian
+paura~, quasi dicat: si timent de salute sua.  Et hic nota
+quantum comparatio praedicta sit pulcra et propria.  Primo quidem
+columbi sunt pulcri, politi, amorosi, mansueti, et tales sunt
+communiter isti cantores et pulsatores, ut dictum est paulo supra
+de Casella; et sicut columbi congregati in campo intenti
+pascuntur dulci cibo, ita isti spiritus congregati in isto plano
+pascebantur attenti delectabili cantu; et sicut columbi qui de se
+sunt naturaliter inquieti quietantur ad cibum, ita isti spiritus
+similiter de se inquieti quietabantur ad cantum; et sicut columbi
+exterriti clamore alterius fugiunt dimisso cibo timore
+impellente, ita isti spiritus territi clamore Catonis fugierunt
+impellente pudore, qui est species timoris.  
+
+	|133.~  Et concludit poeta istum tractatum et claudit
+capitulum, dicens: |n@e la nostra partita~, scilicet Virgilii et
+mei, |fu men tosta~, et facit diminutionem, quasi dicat, imo
+multo velocior tanto quanto viri studiosi magis timent
+verecundiam, et magis verecundantur de omni parvo fallo, ut ipse
+poeta clare dicit statim in principio sequentis capituli.

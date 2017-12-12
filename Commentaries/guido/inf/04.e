@@ -1,0 +1,1373 @@
+	|Proemio.~  ^Incipit quartus cantus prime cantice.~  In
+isto quarto cantu autor descendit in primum circulum, qui incipit
+ibi: <Cos@i si mise, et cos@i mi f@e intrare / nel primo cerchio che
+l'abisso cinge>; et finit ibi: <et vegno in parte ove non @e chi
+luca>.  In quo quidem circulo ponit Limbum puerorum et
+habitationem philosophorum, et poetarum, et virorum iustorum qui,
+sine cognitione unius Dei, virtuose et iuste in hac vita
+viventes, ad inferos descenderunt.
+
+	In isto quarto cantu continentur una comparatio {*vv.
+94-96*} et duo notabilia {*103-105; 112-114*}.
+
+	|Deductio textus de vulgare in latinum.~
+
+	Postquam in superiori cantu autor Acherontis fluvium
+transvadavit, et postquam posuit quomodo percussus fuit a quadam
+luce, ex qua percussione cecidit sicut solet cadere somnolentus,
+nunc in isto ponit quomodo unum grave tonitruum excussit eum a
+somno.  Et sic, duce Virgilio, abyssi vallem ingreditur; quam
+quidem vallem in novem circulos poetando distinguit.  Istud idem
+sentit Statius secundo ^Thebaidos.~  Stix, inquit, in novem
+circunflua campos {text has ^inde novem circunflua campis.~
+^Theb.~ II. 5}.  Et vocat hic Statius infernum Stigem, quia
+ponitur pars pro toto.  Virgilius etiam: <Novies>, inquit, <Stix
+interfusa coercet> {^Aeneid~ VI. 439}.  Ponit autem in isto
+circulo Limbum puerorum et habitationem tam virorum quam
+mulierum, qui virtutibus moralibus inherentes et in eis se
+totaliter exercentes, sine fide unius Dei de hac luce migrarunt. 
+Pena quorum, secundum fidem catholicam, est solummodo carentia
+visionis divine; cui carentie alta suspiria adhibet autor iste. 
+Vocatur autem iste circulus a poetis <Elisium>, a nobis autem
+christianis vocatur <Limbus>, quem locum Sacra Scriptura vocat
+<sinum Abrahe>.  Est autem Elysium, secundum poetas, quidam locus
+semotus a penis, ubi quiescunt anime piorum, et dicitur Elysium
+ab ^e~ quod est <extra> et ^lision~ quod est <miseria>, inde
+^Elysium~, <locus extra miseriam positus>.  Dum vero sic ab uno
+gravi tonitruo esset excitatus a somno surrexit, et dum attente
+respiceret, invenit se super ripam unius vallis que erat ita
+obscura, profunda, et nebulosa, quod licet oculum infigeret in
+profundum, nichil breviter discernebat.  Tunc Virgilius dulcibus
+verbis et exhortationibus ipsum ad descendendum induxit.  Dum
+autem sic ambo per istum primum circulum ambularent, invenit
+autor turbas grandes puerorum virorum et mulierum.  Tunc
+Virgilius ait ad Dantem: Tu non requiris a me que anime sunt iste
+quas tu vides.  Volo enim quod scias quod iste anime non
+peccarunt, et si bene fecerunt, non sufficit, quia non habuerunt
+baptismum; qui quidem baptismus est pars illius fidei quam tu
+credis.  Et si fuerunt antequam Christus veniret in carnem, non
+adoraverunt debito modo Deum.  Ubi est advertendum quod antiqui
+iusti de populo paganorum credebant unum Deum esse, tamen
+distinctionem personarum ignoraverunt, et ideo non debite
+adoraverunt.  Audiens autem Dantes quod ille locus ubi modo erant
+esset Limbus, et considerans atque ymaginans quod tempore quo
+Christus resurrexit a mortu[i]s ille locus a Christo fuerat
+spoliatus, interrogavit ducem suum dicens: Dic michi, magister,
+dic domine mi: Exivit hinc aliquis homo unquam?  Et ille: Ego
+eram novus in hoc statu, quando vidi huc venire unum potentem,
+cum signo victorie coronatum; qui quidem extraxit hinc umbram,
+idest animam, primi hominis et aliorum multorum qui continentur
+in textu.  Et dum sic videndo et loquendo ambularent per illam
+silvam spirituum antiquorum, vidit autor non multum a longe unum
+ignem, qui tenebrarum emisperium vinciebat, idest ligabat.  In
+quo loco vidit honorabiles gentes valde; de quibus honorabilibus
+gentibus quatuor umbras vidit obviam sibi venire.  Que quidem
+umbre, postquam cum Virgilio locute sunt in secreto, ipsum
+autorem honorabiliter salutarunt; et sic ipsum in quoddam castrum
+septem muris et uno fluvio circumdatum introduxerunt.  In quo
+castro invenit antiquissimos spiritus philosophorum, medicorum,
+poetarum, et virorum iustorum, qui in hoc mundo, licet iuste
+vixerint, tamen, quia non debite Deum adoraverunt, ad inferos
+descenderunt.  Quibus visis et cognitis de isto castro luminoso,
+quod continetur in primo circulo, in secundum descendit.
+
+     La sexta compagnia in due si scema:
+     per altra via mi mena il savio duca,
+     fuor de la queta, nell'aura che trema.
+     Et vegno in parte ove non @e chi luca.
+
+	|1-2.  Ruppemi l'alto sonno ne la testa~ / |un grave tuono.~ 
+Continuatio est ad id quod precedit in cantu precedenti.  Ibi enim
+ait: <et caddi come l'uom che sonno pillia>.  Hic autem dicit quod
+unum grave tonitruum excussit sive excitavit eum a somno, et sic
+excitatus descendit in primum circulum.  
+
+	|42.  Che sanza speme vivemo in disio~; hoc est, sine spe
+de istis tenebris evadendi vivimus in desiderio, quia licet
+nunquam habeamus spem hinc exeundi, nichilominus tamen hoc
+naturaliter affectamus.  Dico naturaliter quia sicut sunt due
+leges, una naturalis altera divina, ita sunt due spes que
+oriuntur ab ipsis.  Lex enim nature non vult ut non peccans
+condemnetur; lex autem divina non vult ut qui non credit in
+Christum salvetur.  Contra spem, igitur, que a lege divina
+procedit, sperant isti in spem que oritur a natura.
+
+	|55-56.  Trasseci l'ombra del primo parente.~  Primus
+parens humane nature est Adam, quem Deus de limo terre formavit. 
+|D'Ab@el su' figlio~; Abel fuit secundus filius Ade; nam primus
+fuit Caym, et secundus Abel, quem Caym, ductus invidia,
+interfecit; quem planxerunt Adam et Eva centum annis in quadam
+valle que ob hoc vallis dicitur lacrimarum.  De quo Psalmista: In
+valle lacrimarum que {*i.e., ^in loco quem*} posuit.  |Et quella
+di No@e~; No@e in generatione sua solus iustus inventus est in
+mundo.  Huic Deus mandavit ut faceret archam, quam in centum
+annis fecit, et in qua, tempore diluvi, uno anno cum uxore et
+tribus filiis et tribus nuribus stetit; filii autem eius Sem,
+Cham, et Iafet {^Genesis~ 6.10}.  Isti tres totum mundum post
+diluvium impleverunt.  Sem obtinuit Asiam, Cham Affricam, Iafet
+vero Europam.
+
+	|57.  Di Moise legista et ubidente.~  Moyses mitissimus
+hominum in Egypto est natus et a filia Pharaonis in filium
+adoptatus.  Huic enim, dum oves pasceret in deserto, apparuit
+Deus in rubo.  Qui dum esset annorum octaginta, ex precepto Dei
+stetit coram Pharaone decem, plagis Egyptum percussit, Mare
+Rubrum divisit, in montem Synai legem a Deo accepit, XL annis in
+heremo populum manna paravit.  Et sic CXX+o~ anno vitam finiens,
+divinis manibus est sepultus.
+
+	|58-59.  Abraam patriarca.~  Abraam pater multarum
+gentium fuit.  Nam de eo nati sunt Iudei et Sarraceni, idest de
+duobus filiis suis, Ysaac videlicet et Ismaele.  Allegorice autem
+pater omnium salvandorum ab Apostolo appellatur.  Sibi enim facta
+fuit a Deo promissio quod Christus, in quo est nostra salus, de
+sua progenie nasceretur.  In veteri testamento primus fidem unius
+Dei publice predicavit.  Unde Prudentius ait de eo: Senex fidelis
+prima credendi via est {cf. ^Psychomachia~, Pref. 1}.  Primus
+etiam xenodochia instituit; est autem xenodochium, ut dicit
+Ysidorus XV+o~ libro ^Ethimologiarum~ {^Etym.~ XV. iii. 13},
+peregrinorum susceptio.
+
+	|Et David re.~  David rex, propheta, et psalmografus
+fuit, de cuius semine natus est Christus.  |Israel.~  Iste
+Israel, alio nomine Iacob vocatur; fuit autem filius Ysaac et
+pater XII patriarcharum.  Quorum nomina sunt ista: Ruben, Symeon,
+Levi, Iudas, Ysachar, Zabulon, Dan, Gath, Asser, Neptalin, Ioseph
+et Beniamin.
+
+	|Con lo padre.~  Iste est Ysaach pater Israel sive Iacob,
+et filius Abraam.  Nam tres sunt summi patriarche, scilicet
+Abraham, Ysaach, et Iacob.  Patriarcha autem dicitur princeps
+patrum, ab ^archos~ quod est <princeps> et <pater>; inde
+^patriarcha~, <princeps patrum>.  |Et co' suoi nati.~  Isti sunt
+XII patriarche, filii Iacob, quorum nomina sunt superius
+annotata.
+
+	|60.  Et con Rachele, per cui tanto f$e.~  Rachel, filia
+Laban et pulcherrima mulierum, fuit una ex uxoribus ipsius Iacob,
+quam tantum dilexit Iacob quod, amore ipsius, XIIII annis pavit
+pecora soceri sui, sustinens frigus et gelu.  Ideo dicitur in
+textu: <per cui tanto f$e>, ipse scilicet Iacob.
+
+	|61.  Et altri molti.~  Hoc est omnes superius nominatos
+extraxit Christo de Limbo quando spoliavit infernum, et multos
+alios, idest omnes iustos utriusque sexus qui ante adventum
+Christi ad inferos descenderunt.
+
+	|62-63.~  Hoc est, volo quod scias quod antequam isti
+educti fuissent de Limbo, humani spiritus salvati non erant.  Hoc
+dicit ad angelorum differentiam, qui quidem semper salvi fuerunt
+postquam fuerunt in gratia confirmati.  Confirmati vero fuerunt
+in gratia statim quod de celo mali angeli ceciderunt.  Spiritus
+autem humani, ante Christi adventum, quia ianua celi omnibus erat
+clausa, omnes ad inferos descendebant, mali in profundum Inferni
+et boni in Limbum; qui quidem Limbus in isto primo superiori
+circulo continetur.  Christus autem per suam passionem et ianuam
+celi aperuit, et sanctos patres de Limbo extraxit, et eos in
+celestem patriam introduxit.
+
+	|64-66.  Non lasciavam l'andar perch'e' dicessi.~  Hoc
+est, non dimittebamus iter nostrum propter ea que Virgilius
+loquebatur, sed simul et loquebamur et silvam spissam illorum
+spirituum transibamus.
+
+	|67-69.  Non era lung'ancor la nostra via~ / |di qua dal
+sonno.~  Hoc est, non multum per istum circulum descenderam
+postquam fueram a somno per tonitruum excitatus, quando vidi a
+longe unum ignem, quem quidem ignem tenebrarum emisperium
+vinciebat, idest ligabat.  Est autem emisperium illa pars celi
+quam videmus supra nos.  Et nota quod emisperium est duplex,
+scilicet superius et inferius; pars enim celi que supra nos est
+dicitur superius emisperium; pars autem illa celi que sub terra
+est dicitur emisperium inferius, quam quidem videre non possumus
+quamdiu sub terra latet, ut dicit Ysidorus tertio libro
+^Ethymologiarum.~  Simili modo ponit hic autor quod supra illum
+ignem qui est in isto primo circulo est unum emisperium
+tenebrarum, quod quidem emisperium ligat et circumdat illum
+ignem; et similiter est aliud emisperium tenebrarum inferius
+positum.
+
+	|79-81.  Intanto voce fu per me udita.~  Idest, interim
+quod loquebamur, audivi quandam vocem loquentem et dicentem:
+Honorate altissimum poetam, nam ecce sua umbra, idest anima, que
+a nobis recesserat, ad nos redit.  
+
+	|82-84.~  Et statim, finita voce, dicit autor se vidisse
+quatuor magnas umbras, idest animas, venire eis obviam, quod
+autem dicit: |sembianza aveano n$e trista n$e lieta.~  Hoc est,
+quod in Limbo anima neque bonum patitur neque malum, sed solum
+carentiam visionis divine.  Sed, re vera, ista carentia, licet
+non sit pena in parvulis, est pena maxima in adultis.  Et
+exemplum habemus de duobus hominibus, quorum unus nunquam fuit
+dives, alter de summis divitiis descendit in paupertatem.  Primo,
+paupertas ipsa non est pena; sed secundo, est pena et summa
+miseria.  Et hoc est quod Boetius allegat tertio libro ^De
+Consolatione~, dicens: <Hoc est quod recolentem vehementius
+quoquit; nam in omni adversitate fortune infelicissimum genus
+infortunii est fuisse felicem> {^Cons.~ II. pr. 4.2}.  Et ideo
+carentia tanti boni, de quo aliquam notitiam antiqui philosophi
+habuerunt in mundo, est eis pena maxima iudicanda, hoc dico si in
+Limbo sunt.  Sed nostra fides non tenet quod ibi sint nisi
+parvuli innocentes.  Iste autem poeta in hac parte, et in
+quibusdam aliis, loquitur non theologice sed poetice.  Et ideo
+per Infernum non Beatrix, que typum tenet teologie, sed Virgilius
+eum ducit, qui tenet figuram rationis humane.  Sed si vere et
+lucide autoris verba pensamus, istum primum circulum bipartitur. 
+In prima namque parte ponit Limbum, ubi collocat parvulos
+innocentes, quem locum dicit expoliatum a Christo, tempore
+scilicet sue victorie, quando resurrexit a mortuis.  In secunda
+vero parte, hoc est in loco magis infimo, quia in suo descensu
+semper tendit ad centrum, ponit quandam partem luminosam in qua
+ordinat quoddam castrum, septem muris et una aqua munitum, ubi
+collocat antiquos iustos et sapientes de populo paganorum, qui
+tres virtutes theologicas ignorantes, in quatuor virtutibus
+cardinalibus sive moralibus studuerunt.  
+
+	|86-88.  Quelli @e Homero, poeta sovrano.~  Homerus fuit
+grecus et summus poeta inter grecos; de quo, antequam nasceretur,
+prophetavit Sibilla Erictea.  Tanta namque sapientia plenus fuit,
+quod Valerius vocat eum, libro VIII, capitulo de otio, <celestis
+ingenii vatem> {^Fact et dict.~ VIII. viii. 2. Ext. 2}.  Iste
+Homerus, ut ait Seneca, apud Athenienses pro insano habitus est,
+eo quod deos inter se belligerasse diceret; et quia deos
+belligerasse dixit, ideo ait autor in textu: <Mira colui con
+quella spada in mano>.  Sed re vera Homerus non fuit insanus, sed
+iuxta morem antiquorum theologorum, ipse et Plato et multi alii,
+in tradendo eorum philosophiam, tradiderunt sub integumentis,
+idest fabulis, quorum occasione multi eorum sequaces a veritate
+deviaverunt, licet ipsi forte bonum et sanum intellectum
+habuerint.  Mos enim poetarum est uti fabulis et integumentis et
+frequenter locutionibus impropiis; sicut Plato cum posuit
+Vulcanum et Neptunum ad invicem dimicare, intellexit enim aquam
+et ignem, propter diversas qualitates, ab invicem discrepare.  Ne
+te moveat, o lector, id quod dixi supra iuxta more antiquorum
+theologorum.  Nam, ut superius in prologo est expressum, beatus
+Augustinus, VII+o~ libro ^De Civitate Dei~ {cf. ^De Civ. Dei~
+VII. 23}, ponit Marcum Varronem tria theologie genera posuisse:
+unum scilicet fabulosum, alterum naturale, tertium vero civile. 
+Primo utuntur poete, secundo philosophi, et tertio populi.  Primo
+nanque genere usus est Homerus qui tandem, ut ait Valerius, libro
+VIIIIM+, capitulo de mortibus non vulgaribus, {^Fact. et dict.~
+IX. xii. 8. Ext. 3 (^adapted~)} cum in insula quandam questionem
+a piscatoribus sibi propositam solvere non potuisset, derisus ab
+eis, pre verecundia confusionis dolore cordis tactus, intrinsecus
+ad mortem spiritum exalavit.
+
+	|89.  L'altr'@e Oratio satyro.~  Oratius, ut quidam
+dicunt, fuit de Brundusio oriundus, qui ideo ab autore satyrus
+appellatur quia satyrice et scripsit et docuit.  Quid autem sit
+satira, habetur in prologo superius {*Quidam dicuntur satirici eo
+quod pleni sunt omni facundia, sive a saturitate vel copia.  De
+pluribus enim rebus simul loquuntur, et dicuntur satirici sive
+satiri a quadam scientia poetica que dicitur ^satyra~, sicut
+dicit quedam glosa super Persium: <Satyra est lauta mensa multis
+generibus frugum repleta, que consuevit offerri Veneri in
+sacrificio>.  Et ista de causa istud secundum genus poetice
+narrationis dicitur satira, quia abundat reprehensione vitii et
+commendatione virtutis; vel satyra dicitur a Satyro, deo
+silvarum.  Satyri enim sunt quedam animalia ab umbilico supra
+formam hominis habentia, sed ab umbilico deorsum habent formam
+caprinam; in capite habent duo cornua, et nasum uncinatum.  Sunt
+autem isti satyres leves et saltatores, nudi et dicaces, et
+omnium subsannatores.  Sic ista scientia poetarum est levis, quia
+cito saltat de vitio in virtutem et de virtute in vitium; nuda et
+dicax dicitur, quia aperte vitia reprehendit; subsannatrix est
+quia deridet vitiosos*}.
+
+	|90.  Ovidio @e il terzo.~  Ovidius, egregius poetarum,
+composuit multos libros, et specialiter librum de
+transformationibus rerum, qui grece dicitur ^Methamorphoseos.~ 
+Qui quidem liber paganorum biblia posset merito appellari, quia
+in ipso omnia magnalia et notabilia ab origine mundi usque ad
+tempora sua eleganti et venusto metro, sub integumentis et
+impropriis locutionibus, exaravit.  Fuit etiam nobilis miles in
+armis et multo tempore sub Augusto Cesare militavit.  Tamen, ad
+persuasionem invidorum quorumdam ipsum apud imperatorem
+infamantium, ipse Augustus ipsum poetam exilio crudeli damnavit. 
+Fuit etiam alia causa sue damnationis, ut dicitur.  Nam Ovidius
+vidit uno semel Augustum cum uno puero carnaliter conmisceri;
+unde Augustus, confusione confossus, ipsum exilio religavit
+{^Br.~ relegavit}.  Et hoc est quod in libro ^De Tristibus~ ait
+ipse Ovidius: <Cur aliquid vidi? cur noxia lumina feci?>
+{^Tristia~ 2.103}.  Fuit autem oriundus de Ytalia, de quadam
+civitate que dicitur Sulmo, et de nobili prosapia que dicebatur
+antiquitus pelignea.  Unde de primo ait ipse in libro ^De Ponto~:
+<Sulmo michi patria est gelidis uberrima limphis> {the verse is
+actually from ^Tristia~ 4.10.3}.  Et de secundo: <Peligne gentis
+gloria dicar ego> {^Amores~ 3.15.8 (^adapted~)}.
+
+	|Et l'ultimo Lucano.~  Lucanus ab antiquis doctoribus in
+numero poetarum non ponitur, quia non poemata sed ystorias
+scripsisse videtur; nam nudam historiam et apertam de Iulio
+Cesare texuit et Pompeio.  Officium namque poete est, ut dicit
+beatus Ysidorus, VIII libro ^Ethymologiarum~ {^Etym.~ VIII. vii.
+10}, ut ea que vere gesta sunt in alias speties obliquis
+figurationibus cum aliquo decore transducant.  Et subdit idem
+Ysidorus: Unde Lucanus ideo in numero poetarum non ponitur, quia
+videtur ystorias composuisse, non poemata.  Tamen, comuni et
+usitata locutione, poeta censetur.  Ideo autor inter summos
+quatuor poetas ipsum quartum ascribit.  Fuit autem Lucanus de
+Ispania, de quadam civitate que dicitur Corduba, nepos magni
+Senece et magistri Neronis imperatoris.  Unde ipsemet ait:
+<Corduba me genuit, rapuit Nero, prelia dixi>.
+
+	|94-96.~  ^PRIMA COMPARATIO.~  In ista comparatione
+demonstrat autor quante excellentie fuit Virgilius in hac vita,
+inquantum comparat eum aquile volanti, dicens quod quemadmodum
+aquila volat super omnes aves, ita Virgilius volavit, idest
+locutus est, super omnes poetas.
+
+	|103-105.  Cos@i andammo infin a la lumera.~  Hoc est, sic
+loquendo et ad invicem conferendo, ivimus usque ad illum lumen
+quod ante iam videram.
+
+	|Parlando cose che 'l tacere @e bello.~  Multa enim inter
+se sapientes conferunt, que aliis reserari non convenit; et hoc
+propter grossitiem intellectus.
+
+	^PRIMUM NOTABILE.~  In hoc notabili admonemur quod ea que
+in secreto cum sapientibus pertractamus tacere debemus, nec ea
+extra ipsos pandere attentemus.
+
+	|106-108.  Venimo a pi@e d'un nobile castello~, etc.  Per
+istud castrum, septem muris et uno fluvio {^Br.~ flumine} sic
+vallatum, in quo stant antiqui principes, virtuosi philosophi et
+poete et multi alii, accipere possumus gloriosas virtutes, quibus
+ipsi in mundo fulserunt; que quidem virtutes armant hominem
+contra vitia et errores.  Unde per castrum accipe virtutes; per
+VII muros VII scientias {^Br.~ artes} liberales; per fluvium vero
+solidum divitias intellige conculcatas: quia nisi divitias, que
+sunt labiles et hominem labilem faciunt, homo conculcaverit, ad
+virtutes et scientias pervenire non poterit.  Unde beatus
+Ieronimus in epistola ad Paulinum refert quod Crates, philosophus
+thebanus, homo quondam ditissimus, cum ad phylosofandum Athenas
+pergeret, magnum auri pondus in mari proiecit; nec putavit se
+posse et virtutes simul et divitias possidere.  Refert Valerius,
+libro VIII, capitulo de studio et industria {^Fact. et dict.~
+VIII. vii. 6 (^adapted~)}, quod cum Anaxagoras rediret a studio
+et suas possessiones desertas vidisset, ait: Non essem ego salvus
+nisi iste perissent.  Et subdit Valerius: Nam si prediorum potius
+quam ingenii culture vacasset, dominus rei familiaris intra
+penates suos mansisset, non tantus Anaxagoras ad eos redisset.
+
+	|112-114.~  ^SECUNDUM NOTABILE.~  In isto notabili ponit
+autor tria que reddunt homines, et maxime principes et barones,
+maiestate mirabili reverendos.  Primum est tarditas et gravitas
+oculorum, nam principes et barones debent in oculis tarditatem et
+gravitatem habere.  Secundum est autoritas et maiestas in nutibus
+atque signis.  Debent enim principes habere gestus et motus
+corporis ponderosos.  Tertium est raritas et suavitas in
+loquendo.  Non enim decet magnos viros nisi raro loqui, quia
+eorum verba melius ab auditoribus retinentur.  Hec autem in
+Scipione fuisse, dum loquebatur ad populum, in libro ^De
+Amicitia~ Tullius asseverat.  Quanta, inquit, o dii immortales,
+fuit illi gravitas, quanta in oratione maiestas {^De Amicitia~
+XXV. 96}.
+
+	|121.  I' vidi Eletra.~  Eletra, filia Athalantis, fuit
+uxor regis Teveri, cum qua iacuit Iupiter rex cretensis et habuit
+ex ea filium nomine Dardanum.  Teverus itaque una cum Dardano ab
+Ytalia recedentes Cretam iverunt, postea in provincia Frigie
+Troyam edificaverunt.  Unde Troyani aliquando dicuntur Teveri,
+aliquando Dardanide.  De primo ait Virgilius, libro VI+o~
+^Eneydorum~: <Deyphobe armipotens, genus alto a sanguine Teverum>
+{^Aeneid~ VI. 500}.  De secundo ait Ovidius in libro
+^Epystolarum~ {^Epist.~ 13.79}:
+
+     Parcite dardanide de tot precor hostibus uni.
+
+	Secundo etiam ^Eneydorum~ uno versu ista duo concludit
+Virgilius, ubi inducit Eneam loquentem ad Ectorem dicens: <O lux
+Dardanie, o spes fidissima Teverum> {^Aeneid~ II. 281}.  Ponitur
+autem hic primo Eletra tanquam principium Troyanorum, et per
+consequens Romanorum.
+
+	|122.  Tra' quai conobi Hectore.~  Hector fuit
+primogenitus filius Priami regis Troyanorum, qui fuit in armis
+fortissimus et in moribus gloriosus, et fuit intantum pulcher et
+gratiosus quod ab omnibus qui eum videbant mirabiliter amabatur. 
+Nam, ut scribit Homerus, non filius hominum sed deorum in ipsa
+sua pueritia credebatur.
+
+	|Et Enea.~  Eneas fuit filius Anchisis, de stirpe regia
+Troyanorum, qui ad Ytaliam veniens post destructionem Troye,
+Laviniam filiam regis Latini in uxorem accepit; Lavinium in
+honorem uxoris condidit; duos filios, Iulum Ascanium et Silvium
+Postumum, dereliquit.  Ascanius Albam condidit, ex qua civitate
+alma urbs originem duxit.
+
+	|123.  Cesare armato~, etc.  Cesar Iulius, secundum
+Virgilium et Ovidium, a Iulo Enee filio originem traxit et nomen. 
+Hic primus Romanorum imperatorum mundi monarchiam gubernavit. 
+Quante autem virtutis et nobilitatis atque magnificentie fuerit,
+Salustius in Catellinario {cf. ^Catilinae Coniuratio~ 54.2-6}
+faciens mentionem de ipso Iulio et Catone sic ait: Hiis duobus
+genus etas et eloquentia prope equalia fuere, magnitudo animi
+par, item gloria, sed alia alii.  Cesar beneficiis ac
+munificentia magnus habebatur; integritate vite, Cato.  Cesar
+mansuetudine et misericordia clarus {^Br.~ clarius} factus est;
+Catoni severitas dignitatem addiderat.  Cesar dando, sublevando,
+ignoscendo; Cato nichil largiendo gloriam adeptus est.  In Cesare
+profugium miseris erat; in Catone malis pernities.  Cesaris
+facilitas, Catonis constantia laudabatur.  Postremo, Cesar in
+animo induxerat laborare et vigilare negotiis amicorum intentus,
+sua negligere.  Nichil denegare quod dono dignum esset; sibi
+magnum imperium exercitum bellum novum exoptabat ubi sua virtus
+enitescere posset.  At Catoni studium modestie, decoris, et
+maxime severitatis erat.  Non divitiis cum divite, nec factione
+cum factioso, sed cum strenuo virtute, cum modesto pudore, cum
+innocente abstinentia certabat.  Et malebat esse quam videri
+bonus.  Ita quo minus petebat gloriam, eo magis illam
+assequebatur.  Hucusque Salustius de laudibus Cesaris et Catonis. 
+Tante enim nobilis virtutis extitit iste Cesar quod etiam in hora
+mortis, in qua solet homo omnia oblivisci dum vita privaretur,
+virtutibus privari non potuit, sicut demonstrat Valerius libro
+quarto, capitulo de verecundia, {^Fact. et dict.~ IV. v. 6
+(^adapted~)} in hec verba: Quam precipuam in Gaio Cesare
+verecundiam quoque fuisse et sepe numero apparuit et ultimus eius
+dies significavit.  Cum pluribus enim parricidariis violatus
+mucronibus, inter illud ipsum tempus, quo divinus spiritus
+mortali discernebatur a corpore, ne tribus quidem et viginti
+vulneribus quin verecundie obsequeretur absterreri potuit,
+siquidem utranque manum toga dimisit, ut inferior pars corporis
+tecta conlaberetur.  In hunc modum non homines expirant, sed dii
+immortales sedes suas repetunt.  Hucusque Valerius.  Obiit autem
+Cesar anno etatis sue LVI, cum per triennium et menses VII
+tenuisset principatum.  Fuerat quidem Rome imperatum a Romulo sub
+regibus septem, annis CCLX.  Post sub consulibus imperatum est
+Rome annis CCCCLXIIII, et sic ab urbe condita usque ad mortem
+Cesaris fluxerunt anni DCCXXIIII+or.~  Mortuo Cesare, corpus eius
+in foro ubi fiebant consilia combustum est.  Statuit autem
+populus romanus in foro solidam columnam lapidis numidici, idest
+marmoris de Numidia, super quam tumulatus est, que et Iulia dicta
+est.  Magister autem in historiis scolasticis ponit tria
+mirabilia signa que in morte eius apparuerunt.  Centesimo enim
+die ante mortem eius fulmen cecidit iuxta statuam eius in foro,
+et de nomine eius superscripto C licteram capitalem abrupit. 
+Nocte precedenti diem obitus, fenestre thalami eius cum tanto
+strepitu sunt aperte, ut exiliens de lecto ruituram domum
+extimaret.  Eadem die cum iret in capitolium date sunt ei
+lictere, in quibus continebatur quod a suis carioribus
+consiliariis debebat occidi, que lictere dum referretur occisus,
+in manu eius nondum aperte invente sunt.  Die sequenti
+apparuerunt tres soles in oriente, qui paulatim in unum corpus
+solare redacti sunt, significantes quod dominium Lucii Antonii et
+Marchi Antonii et Octaviani Augusti in unam monarchiam rediret;
+vel potius quia notitia trini Dei et unius toti orbi futura
+imminebat.  Hucusque magister in ystoriis scolasticis {Petrus
+Comestor, ^Historia Scholastica, Libri II Machabeorum~, cap. XVI
+(^Pat. Lat.~, vol. 198, pp. 1531-1532)}.
+
+	|Armato.~  Armatum ideo dicit se Cesarem invenisse, quia
+nullus unquam homo romanus ita fuit fortis aut ita fortunatus in
+bello.  Nam quinquageties [^sic~] vexillis explicitis dimicavit
+in campo; cuius opera bellicosa autor breviter comprehendit
+infra, tertia cantica, cantu qui incipitur: <Poscia che Costantin
+l'aquila volse> {^Par.~ VI. 1}.
+
+	|124.  Vidi Camilla.~  Camilla fuit regina Vulscorum que,
+ut scribit Virgilius, venit in auxilium Turno regi Rutilorum
+quando cum Enea pugnavit.  In quo bello cecidit ipsa Camilla, ut
+habetur superius primo cantu {*^Inf.~ I. 107*}.
+
+	|E la Pantasilea.~  Panthasilea fuit quedam virgo, regina
+scilicet Amazonum, que, ut scribit Dares Phrigius, cum
+multitudine mulierum venit in auxilium Troyanorum quando Greci
+Troyam obsederunt decem annis.  Hoc etiam ponit Virgilius, primo
+libro ^Eneydorum~, dicens:
+
+     Duxit Amazonidum lunatis agmina peltis
+     Panthasilea furens mediisque in millibus ardet,
+     Bellatrix, audetque viris concurrere virgo.
+
+                        {^Aeneid~ I. 490-491,493}
+
+In qua obsidione, dum ipsa regina quadam die cum Grecis strenue
+et bellicose pugnaret, fuit occisa cum suarum multitudine
+feminarum.  Venit etiam secum Memnon, rex Ethiopie, qui duxit
+secum quendam hominem silvestrem qui erat dimidius homo et
+dimidius equus; qui, velocitate et arte sagittandi, Grecorum
+exercitum mirabiliter infestabat.
+
+	|125.  Da l'altra parte vidi 'l re Latino.~  Latinus fuit
+rex Ytalie, a quo Ytalici Latini dicti sunt.  Ante quem
+regnaverunt in ipsa Ytalia Ianus, Saturnus, Picus et Faunus; post
+quos regnavit iste Latinus.  Post Latinum vero regnavit Eneas,
+post Eneam regnaverunt reges Albanenses, quorum nomina superius
+sunt expressa.  Post Albanenses autem regnaverunt Romani.  
+
+	|126.  Ke con Lavinia sua fillia sedea.~  Lavinia fuit
+filia regis Latini et uxor Enee; in honorem istius Lavinie Eneas
+condidit civitatem et a suo nomine Lavinium appellavit.
+
+	|127.  Vidi quel Bruto che cacci@o Tarquino.~  Quia duo
+fuerunt Bruti famosissimi in Roma, unus summe bonus, alter summe
+bonus et malus, ideo autor, volens de primo facere mentionem,
+ait: <Vidi illum Brutum qui expulit Tarquinium>.  Iste Brutus
+primo vocatus est Iunius, in cuius honorem mensem qui sequitur
+madium Romani iunium vocaverunt.  Brutus autem ideo dictus est
+quia, ut tyrannidem superbi Tarquini avunculi sui evaderet, qui
+omnes potentes Romanos occiderat, se brutum foris moribus
+ostendebat, cum esset interius omnium virtutum genere decoratus. 
+Quod maxime patet per illud quod refert de illo Titus Livius ^Ab
+Urbe Condita~, libro I {^Ab Urbe Condita~ I. 60. 3}, et Valerius,
+libro VII, capitulo de vafre factis aut dictis, {^Fact. et dict.~
+VII, iii. 2 (^adapted~)} sic dicens: Quo in genere acuminis in
+primis Iunius Brutus referendus est?  Nam cum a rege Tarquinio
+avunculo suo omnem nobilitatis indolem excerpi interque ceteros
+etiam fratrem suum, eo quod vegetioris ingenii erat, interfectum
+animadverteret, obtunsi se cordis esse simulavit, eaque fallacia
+maximas virtutes suas texit.  Profectus etiam Delphos cum
+Tarquinii filiis quos is ad Apollinem Phytium muneribus et
+sacrificiis miserat honorandum, aurum Deo nomine doni clam cavato
+{^Br.~ clavi clavato} baculo inclusum tulit, quia timebat ne sibi
+celeste numen aperta liberalitate venerari tutum [non] esset. 
+Peractis deinde mandatis patris Apollinem iuvenes consul[u]erunt
+quisnam ex ipsis Rome regnaturus videretur.  At is penes cum
+summam urbis nostre potestatem futuram respondit, qui ante omnes
+matri osculum dedisset.  Tum Brutus perinde atque casu prolapsus
+de industria se abiecit terramque, comunem omnium matrem
+existimans osculatus est.  Quod tam vafre telluri impressum
+osculum urbi libertatem, Bruto primum in fastis locum tribuit.
+
+	Iste enim Brutus fuit primus consul Romanorum, qui tante
+iustitie fuit, quod duos suos filios, Titum scilicet et Tyberium,
+quia contra patriam coniuraverant, in oculis suis virgis cedi et
+securi feriri mandavit, sicut scribit Titus Livius, ^Ab Urbe
+Condita~ libro secundo {II. 2. 4-5}.  Et Valerius, libro quinto,
+capitulo de severitate parentum in liberos {^Fact. et dict.~ V.
+viii. 1}, per hec verba: Brutus, gloria par Romulo, quia ille
+urbem, hic libertatem romanam condidit, filios suos dominationem
+Tarquinii a se expulsam reducentes summum imperium obtinens,
+comprehensos proque tribunali virgis cesos et ad palum religatos,
+securi percuti iussit.  Exuit severitas patrem ut consul[em]
+ageret, orbusque vivere quam publice vindicte deesse maluit.  De
+istius consulatu et de punitione filiorum loquens, Virgilius VI
+libro ^Eneydorum~ inducit Anchisem patrem Enee veluti futuram
+laudem Bruti pronuntiantem his versibus:
+
+     Consulis imperium primus hic sevasque secures
+     Accipiet, natosque pater nova bella moventes,
+     Ad penam pulcra pro libertate vocabit.
+     Infelix! utrunque ferent ea facta minores:
+     Vincet amor patrie laudumque immensa cupido.
+
+                        {^Aeneid~ VI. 819-823}
+
+	Tarquinius, cognominato Superbus, fuit septimus et
+ultimus rex Romanorum; nam primus fuit Romulus, secundus Numa
+Pompilius, tertius Tullius Hostilius, quartus Ancus Martius,
+quintus Tarquinus Priscus, sextus Servius Tullius, septimus vero
+Tarquinius Superbus.  Hunc Tarquinium propter violationem
+Lucretie, Brutus cum tota sua progenie de Roma fugavit.  Iste
+Tarquinius primus genera tormentorum excogitavit, primusque fuit
+qui exilia adinvenit, et ipse prior ex regibus exilium meruit, ut
+scribit Titus Livius ^Ab Urbe Condita~, libro primo {I. 58. 2}. 
+
+	|128.  Lucretia.~  Dux romane pudicitie Lucretia, ut
+scribit Valerius libro VI, capitulo de pudicitia {^Fact et dict.~
+VI. i. 1 (^adapted~)}, virilem animum habuit, sed maligno errore
+fortune muliebre corpus sortita est.  Tam siquidem virilem animum
+habuit, quod postquam fuit a filio Tarquinii corrupta, sicut
+dicit beatus Ieronimus libro primo contra Iovinianum, nolens
+vivere violata, maculam corporis proprio cruore delevit.  Hanc
+ystoriam plene tractat Titus Livius ^Ab Urbe Condita~, libro
+primo {^Ab urbe condita~ I. 57. 6 ff. (^adapted~)}, sic dicens:
+Dum Tarquinius Ardeam civitatem Rutilorum obsideret, regii
+iuvenes interdum otio, conviviis, et commessationibus se
+occupabant, forte potantibus his aput Sextum Tarquin[i]um filium
+Tarquinii Superbi, ubi et Collatinus, Lucretie coniunx, cenabat,
+Tarquini egregii filius incidit de uxoribus mentio, suam quisque
+laudare miris modis cepit.  Inde certamine accenso, Collatinus
+negat verbis opus esse, paucis his quidem horis posse sciri
+quantum ceteris prestet Lucretia sua.  Quin, si vigor iuvente
+est, conscendamus equos uxores visuri tendamus, et quod inopinato
+viri adventu occurrerit oculis videamus.  Incaluerant vino omnes,
+citatis equis evolant Romam.  Quo cum intendentibus tenebris
+pervenissent, pergunt inde Collatinam, ubi Lucretiam non quanquam
+ut regie nurus quas in convivio luxuque cum equalibus viderant
+tempus terentes, sed deditam, lane inter lugubrantes ancillas in
+medio edium sedentem inveniunt.  Muliebris certaminis laus penes
+Lucretiam fuit.  Maritus invitat comiter regios iuvenes, ipsum
+Sextum Tarquinum mala libido per vim strupende Lucretie capit. 
+Tum forma, tum spectata castitas incitat.  Et quidem cum a
+nocturno iuvenili ludo in castra redeunt, paucis interiectis
+diebus, Sextus Tarquinus, inscio Collatino, cum comite uno
+Collatinam venit.  Ubi exceptus benigne, cum post cenam in
+hospitale cubiculum ductus esset, amore ardens, postquam satis
+tuta omnia, sopitique omnes videbantur, stricto gladio ad
+dormientem Lucretiam ivit, sinistraque manu mulieris pectore
+oppresso: <Tace, Lucretia>, inquit, <Sextus Tarquinus sum; ferrum
+in manu est; moriere si emiseris vocem>.  Cum pavida e somno
+mulier surrexisset et nullam opem preter mortem imminentem
+videret, mortem potius quam vitam impudicam elegit.  Tum
+Tarquinus fateri, amorem orare, miscere precibus minas cepit.  At
+ubi muliebrem animum obstinatum vidit et ne mortis quidem metu
+inclinari, addit ad metum dedecus, cum mortua iugulatum servum
+po{*s*}iturus ait, ut in sordido adulterio necata dicatur.  Quo
+terrore cum vicisset obstinatam pudicitiam, victrix libido,
+profectus inde Tarquinus ferox expugnato muliebri decore
+recessit.  Lucretia mesta tanto malo nuntium Romam ad patrem,
+eundemque Ardeam ad virum mittit, ut cum singulis fidelibus
+amicis veniant, scientes ipsam rem atrocem incidisse, unde omnes
+oportere ita mature venire.  Brutus cum Valerio, Collatinus cum
+Lucretio venerunt.  Lucretiam mestam sedentem in cubiculo
+invenerunt, adventu suorum lacrime oborte.  Querentique viro:
+<Salva es, Lucretia?>  <Minime>, inquit.  <Quid enim salvi est
+mulieri, amissa pudicitia?  Vestigia viri alieni, Collatine, in
+lecto tuo sunt.  Ceterum corpus est tantummodo violatum, animus
+insons, mors testis erit; sed date dextras fidemque non impune
+adultero fore>.  Quod cum illi dextras fidemque dedissent ait
+Lucretia: <Sextus Tarquinus qui hostis pro hospite hac transacta
+nocte vi armatus michi sibique, si vos viri estis, pestiferum
+hinc abstulit gaudium>.  Dant ordini omnes fidem.  Consolantur
+egram animadvertendo noxam mentem peccare, non corpus.  Tunc
+Lucretia: <Vos>, inquit, <videritis quid illi debeatur.  Ego
+vero, si peccato me absolvo, supplicio non libero.  Nec ulla
+deinde impudica exemplo Lucretie vivet {^Br.~ viveret}>.  Cultrum
+statim quem sub veste absconsum habebat in corde defixit,
+prolapsaque in vulnus moribunda cecidit.  Conclamat vir paterque
+Brutus.  Illis luctu occupatis, cultrum ex vulnere Lucretie
+extractum, manantem cruore Brutus tenens: <Per hunc> inquit
+<castissimum sanguinem iuro, vosque dii testes facio, me
+Tarquin[i]um superbum cum scelerata coniuge et omni liberorum
+stirpe, ferro, igne, et quacumque vi potero, destructurum>. 
+Cultrum deinde Collatino tradit.  Inde Lucretio atque Valerio
+stupentibus miraculo rei, iurant omnes totique a luctu versi in
+iram, Brutum ad expugnandum regem sequuntur ducem.  Elatum de
+domo corpus Lucretie, in forum deferunt.  Omnes concurrunt atque
+arma capiunt, Romam tendunt, et Brutus contra regem Romanos
+movet.  Clauduntur porte regi, et ei et filiis perpetuum exilium
+indicitur.  Brutus et Collatinus consules procreantur.  Sextus
+Tarquinus Gabios fugiens a Gabinis occiditur.  Tarquin[i]us vero
+Superbus, pulsus a regno, cum filiis in Etruscos ivit, cum
+regnasset XLV annis.  Fluxerant autem a condita urbe usque ad
+liberatam anni CCXLIIII.  Hucusque Titus Livius.
+
+	Iulia fuit filia Iulii Cesaris et uxor Magni Pompei.  De
+qua Valerius, libro quarto, capitulo de amore coniugali {^Fact.
+et dict.~ IV. vi. 4 (^adapted~}, sic ait: Iulia, Cesaris filia,
+cum Pompei Magni coniugis sui vestem cruore respersam e campo
+domum relatam vidisset, territa metu ne qua ei vis esset allata,
+exanimis concidit partumque, quem in utero conceptum habebat
+subita animi consternatione et gravi dolore corporis eicere
+coacta est, magno quidem cum totius orbis detrimento terrarum,
+cuius tranquillitas tot civilium bellorum truculentissimo furore
+perturbata non esset, si Cesaris et Pompei concordia comunis
+sanguinis vinculo constricta mansisset.  Et Lucanus in primo:
+
+                     Nam pignora iuncti
+     Sanguinis et diro ferales omine tedas
+     Abstulit ad manes Parcarum Iulia seva
+     Intercepta manu.  Quod si tibi fata dedissent
+     Maiores in luce moras, tu sola furentem
+     Inde virum poteras atque hinc retinere parentem,
+     Armatasque manus excusso iungere ferro,
+     Ut generos soceris medie iunxere Sabine.
+     Morte tua discussa fides, bellumque movere
+     Permissum est ducibus -- Cesari scilicet et Pompeo. --
+
+                        {^Pharsalia~ I. 111-120}
+
+Tantum namque ista Iulia Pompeum amavit, quod istum amorem ad
+inferos secum tulit.  Unde sibi in visione apparens, ait, ut
+scribit Lucanus in tertio:
+
+     Me non Lethee, coniunx, oblivia ripe
+     Immemorem fecere tui.
+
+                        {^Pharsalia~ III. 28-29}
+
+	|Martia.~  Ista Martia fuit uxor posterioris Catonis, que
+ex Catone tres filios generavit.  Quam Cato cum ad senectutem
+venisset, quia in tali etate luxurie vacare nolebat, ipsam
+Ortensio viro sanctissimo tradidit in uxorem, ut ex ipsa filios
+urbi et orbi utiles procrearet.  Ipsa vero, post mortem Ortensii,
+rediit ad Catonem, petens ab ipso ut ipsam reciperet, ad hoc
+solum ut ipsa mortua posset scribi in suo sepulcro: <Hic iacet
+Martia sancti marita Catonis>.  Unde Lucanus in secundo ponit
+quod Martia venit ad Catonem miseranda concita vultu.
+
+     Effusas laniata comas contusaque pectus
+     Verberibus crebris cineresque ingesta sepulcri,
+     Non aliter placitura viro, sic mesta profatur:
+     <Dum sanguis inerat, dum vis materna, peregi
+     Iussa, Cato, et geminos excepi feta maritos;
+     Visceribus lapsis partuque exhausta revertor
+     Iam nulli tradenda viro.  Da federa prisci
+     Illibata thori, da tantum nomen inane
+     Connubii; liceat tumulo scripsisse: "Catonis
+     Martia"; ne dubium longo queratur in evo,
+     Mutarim primas expulsa, an tradita, tedas>.
+
+                        {^Pharsalia~ II. 335-345}
+
+Quasi dicat: Recipe me ne queratur in posterum, sicut de dubiis
+queri solet, utrum ego mutaverim primas tedas expulsa a te pro
+mea culpa, an tua tradita voluntate.  Quia si me recipies, et in
+meo sepulcro scriptum fuerit id quod dixi, videbor tibi placuisse
+Catoni.
+
+	|Et Corniglia.~  Due fuerunt Cornelie famosissime in
+urbe: Prima fuit filia superioris Affricani et uxor Gracchi, que
+dicta est mater Gracchorum.  Alia fuit filia alterius Scipionis
+et uxor Gnei Pompei.  Prima miris laudibus extollitur quod nulla
+vanitas umquam in ea visa fuit.  Nam universas quas mulieres
+solent appetere vanitates, ista mirabilis femina respuebat.  De
+qua Valerius, libro quarto, capitulo de paupertate {^Fact. et
+dict.~ IV. iv.} sic ait: Maxima ornamenta esse matronis liberos. 
+Apud Pomponium Rufum collectorem librorum sic invenimus. 
+Corneliam Gracchorum matrem cum Campana matrona apud illam
+hospitata ornamenta sua ei pulcerrima illius seculi ostenderet,
+traxit ea sermonem dum e scola redirent liberi.  Et hec, inquit,
+ornamenta sunt mea.  Omnia nimirum habet qui nichil concupiscit,
+eo quidem certius quo cuncta possidet, quia dominium rerum
+collabi solet, bone mentis usurpatio nullum tristioris fortune
+recipit incursum.
+
+	Secunda vero Cornelia fuit filia alterius Scipionis, de
+qua Lucanus in VIII+o.~
+
+	Femina tantorum titulis insignis avorum quam Pompeius,
+mortua Iulia, in uxorem accepit.  Ista Cornelia primo fuit nupta
+Crasso, deinde Pompeio, et utrique attulit malum omen.  Nam
+Crassus, infuso auro in os eius, mortuus est apud Carras. 
+Pompeius vero, capite truncatus, mortuus est in Egypto.  Et hoc
+est quod de ipsa Iulia dixit in visione Pompeio, ut scribit
+Lucanus in tertio:
+
+     Coniuge me letos duxisti, o Magne, triumphos:
+     Fortuna est mutata thoris, semperque potentes
+     Detrahere in cladem fato damnata maritos
+     Et nupsit tepido pellex Cornelia busto.
+
+                        {^Phars.~ III. 20-23}
+
+Tepido busto dicit, quasi nondum extincto rogo quo more antiquo
+corpora cremabantur; inde sepulcrum dicitur bustum, quasi ustum. 
+Corneliam autem pellicem ideo vocat, quia ante decem menses post
+mortem Crassi nupsit Pompeio.  Ipsa etiam Cornelia, postquam
+Pompeius fuit acie pharsalica devictus a Cesare, hoc testatur, ut
+ait in octavo Lucanus.
+
+     Infelix coniunx et nulli leta marito.
+     Bis nocui mundo.
+
+                        {^Phars.~ VIII. 89-90}
+
+	|129.  Et solo in parte vidi il Saladino.~  Saladinus
+fuit soldanus Babilonie, et fuit, ut dicitur suo tempore,
+sapientior homo mundi.
+
+	|130-132.~  Iste est Aristotiles, inter philosophos
+summus princeps; omnes enim mortales in scientiis naturalibus
+subtilitate ingenii et mentis acumine antecessit.  Fuit autem
+Platonis auditor, et secte peripatetice adinventor.  De quo
+beatus Augustinus octavo libro ^De Civitate Dei~ {^De Civ. Dei~
+VIII. 12}.  Aristotiles, inquit, discipulus Platonis, vir
+excellentis ingenii, eloquii vero Platoni impar, sectam
+peripateticam condidit, plerosque discipulos preclara fama
+excellentes, vivo adhuc preceptore, in suam heresim congregavit. 
+Huius autem tam summi philosophi tria precepta moralia collige
+que Valerius tradit {^Fact. et dict.~ VII. ii. 11}.  Primum
+preceptum est istud: Callisteno enim discipulo suo, quem ad
+Alexandrum misit, mandavit ut aut cum Alexandro raro loqueretur,
+aut cum loqui vellet, ea que Alexandro sciret iocunda vel
+beneplacita loqueretur; causam assignans quod apud regias aures
+vel silentio esset tutior, vel beneplacito sermone acceptior. 
+Secundum preceptum est quod se laudare est vanum, vituperare vero
+stultum.  Tertium vero preceptum est istud: Ut voluptates
+abeuntes consideremus quas considerando inutiles et vacuas esse
+cernemus.
+
+	|134.  Quivi vid'io et Socrate.~  Socrates, magister
+Platonis, non solum sapiens, sed ipsa sapientia reputabatur in
+mundo.  Nam, ut scribit Valerius, libro tertio, capitulo qui
+intitulatur <Qui humili loco nati, clari evaserunt> {^Fact. et
+dict.~ III. iv. 6. Ext. 1}, ipse Socrates non solum hominum
+consensu, verum etiam Apollinis oraculo, sapientissimus iudicatus
+est.  Iste primus ethicam ad corrigendos componendosque mores
+instituit, dividens eam in quatuor virtutibus anime, scilicet in
+prudentiam, iustitiam, fortitudinem, et temperantiam, ut ait
+beatus Ysidorus, secundo libro ^Ethimologiarum~ {^Etym.~ II.
+xxiv. 5}.  Huius philosophi quatuor precepta moralia ponit
+Valerius libro VII+o~, capitulo de sapienter factis aut dictis
+{^Fact. et dict.~ VII. ii. 6. Ext. 1 (^adapted~)}.  Primum est
+istud quod recitat idem Valerius his verbis: Socrates humane
+sapientie quasi quoddam terrestre oraculum, nichil ultra petendum
+a diis immortalibus arbitrabatur quam ut bona tribuerent, quia
+hii demum scirent quid unicuique esset utile.  Et subdit
+Valerius: Nos autem plerumque id votis expetere, quod non
+impetrasse melius foret.  Etenim dempsissimis tenebris involuta
+mortalium mens inque leta [^sic~] patentem errorem cecas
+precationes tuas spargis! divitias appetis que multis exitio
+fuerunt.  Honores concupiscis, qui quam plures pessundederunt. 
+Regna tecum ipsa volvis, quorum exitus sepe numero miserabiles
+cernuntur.  Splendidis coniugiis inicis manus; at hec ut
+aliquando illustrant, ita non nunquam domos evertunt.  Desine
+igitur stulta futuris malorum tuorum causis quasi felicissimis
+rebus inhiare, et totam te celestium arbitrio permitte, quia qui
+tribuere bona ex facili solent etiam eligere aptissime possunt. 
+Secundum: Idem Socrates expedita et compendiaria via eos ad
+gloriam pervenire dicebat qui id agerent ut quales videri
+vellent, tales etiam essent.  Qua quidem predicatione aperte
+monebat ut homines ipsam potius virtutem haurirent quam umbram
+eius consectarentur.  Tertium: Idem Socrates ab adulescentulo
+quodam consultus utrum uxorem duceret, an se omnium matrimonio
+abstineret, respondit quod si aliquid istarum duarum rerum quas
+petebat faceret, peniteret.  Hinc te, inquit, solitudo, hinc
+orbitas; hinc generis intentus, hinc heres alienus excipiet. 
+Illinc perpetua solicitudo querelarum contextus, dotis exprobatio
+affinium gravem supercilium, garrula socrus lingua, subsessor
+alieni matrimonii, incertus liberorum eventus.  Quartum: Idem
+Socrates cum venisset ad mortem, fortique animo et constanti
+vultu potionem veneni e manu carnificis accepisset, admoto iam
+labris poculo, uxori Xantippe inter fletum et lamentationem
+vociferanti innocentem eum periturum, ait: Quid ergo? nocenti
+michi mori satius esse duxisti?  Et subdit Valerius: O immensam
+sapientiam, que ne in ipso quidem vite excessu oblivisci sui
+potuit.  Galienus etiam refert quod Socrates potionem venenatam
+accepit et diu de immortalitate anime disputans, potionem illam
+letus hausit.  Causam autem quare Atheniensium scelerata dementia
+tantum philosophum interfecit, assignat beatus Augustinus in
+libro ^De Vera Religione~ {^De Vera Religione~ 2}, dicens quod
+quia Socrates hominibus prohibebat iurare per deos, et etiam quia
+deos adorare nolebat, dicens: <Ego adorarem potius canes, qui
+sunt opera nature, quam ydola, que sunt opera manuum hominum>, ab
+Anetio duce Atheniensium positus est in carcerem, et ut scribit
+Seneca, sumpta ibi cicuta, interiit.  Hoc idem asserit Macer in
+libro ^De Viribus Herbarum~ {Macer Floridus, ^De Viribus
+Herbarum~, ^vide~ cicuta, I}, capitulo de cicuta, dicens: Publica
+pena reis hec esse solebat Athenis; hac sumpta, Socrates magnus
+fuit exanimatus.  Vixit autem Socrates nonaginta novem annis,
+sicut scribit beatus Ieronimus in epistula ad Nepotianum, sic
+dicens: Socrates nonaginta novem annos in docendi scribendique
+dolore laboreque complevit.  Et quia iste philosophus inter omnes
+antiquos philosophos sapientior habebatur, ideo quosdam flores
+dictorum suorum tibi, Lucane, disposui describendos, quos quidem
+utiles in vivendo reperies, si eos in memoria retinebis, et opere
+adimplebis.
+
+     Age sic alienum ut tuum non obliviscaris negotium.
+     Amico ita prodesto ne tibi noceas.
+     Quod habes ita utere ut alieno non egeas.
+     In tuo quam [in] alieno labore sarcinam suscipe.
+     Pecunie querende et tuende modum habere oportet.
+     Velox consilium sequitur penitentia.
+     Duo maxime sunt contraria consilio, ira et festinatio.
+     Cum amicis breves orationes amicitiasque
+     longas habere oportet, quia inter veros carosque
+     amicos multa effundere non est opus, nam est
+     signum diffidentie; cum amanti solum sufficiat intimare.
+     Negat sibi ipsi qui quod difficile est petit.
+     Malum alienum tuum ne feceris gaudium.
+     Principium amicitie est bene loqui; exordium
+        vero inimicitiarum est male dicere.
+     Amicus raro acquiritur, cito amittitur.
+     Nulli imponas quod ipse pati non possis.
+     Hoc exhibe quod tibi optaveris exhiberi.
+     Presentem laudare minime decet.
+     Sepultus apud te sit sermo quem solus audieris.
+
+	|Et Platone.~  Plato, discipulus Socratis, magister vero
+Aristotilis, inter omnes philosophos magis cum catholica fide
+nostra concordat.  Asserit enim beatus Augustinus libro VII+o~
+^Confessionum~ {^Confessionum~ VII. ix}, se in libris platonicis
+invenisse non quidem hiis verbis, sed similibus: In principio
+erat verbum, et verbum erat apud Deum, et Deus erat verbum; et
+huiusmodi que ibi sequuntur.  Hucusque Augustinus.  Non est ergo
+mirum si de eo signa et prodigia magna legantur.
+
+	Refert enim Valerius, libro primo, capitulo de prodigiis
+{^Fact. et dict.~ I. vi. Ext. 3}, quod dum Plato dormiret in
+cunis, apes in ore eius mellificaverunt.  Qua re audita,
+prodigiorum interpretes singularem eloquii suavitatem ore eius
+emanaturam esse dixerunt.  Et subdit Valerius: At michi ille apes
+quidem non montem Hymettum timi flore redolentem, sed Musarum
+Elyconios colles omni genere doctrine virentis dearum instinctu
+depaste maximo ingenio dulcissima summe eloquentie instillasse
+videntur alimenta.  In libris quoque Apulei quos de vita et
+moribus Platonis {^De Platone et eius dogmate~ I. 1} composuit
+legitur quod, cum Ariston, pater Platonis, i{*ps*}um Platonem
+deferret ad Socratem instruendum, nocte precedenti somnium
+viderat Socrates quod pullus eximii candoris et vocis canore in
+sinum suum de ara cupidinis advolabat, et de sinu suo postea
+volabat ad celum.  Cum igitur vidisset puerum Platonem ad se a
+patre deferri, sui somnii interpretationem statim dixit esse
+completam.
+
+	De hoc summo philosopho tria moralia narrat Valerius.
+Primum, libro quarto, capitulo de moderatione {^Fact. et dict.~
+IV. i. 15. Ext. 2 (^adapted~)}.  Audivit enim a quodam de se
+Xenocratem discipulum suum impie multa locutum; sine ulla
+cunctatione criminationem respuit.  Instabat certo vultu iudex
+causam querens cur sibi fides non haberetur.  Adiecit Plato non
+esse credibile ut quem tantopere amaret ab eo invicem non
+diligeretur.  Postremo cum ad iusiurandum inimicitias asserentis
+malignitas confugisset, ne Plato de eius periurio disputaret,
+affirmavit nunquam Xenocratem illa dicturum fuisse, nisi ea dici
+expedire sibi iudicasset.  Et subdit Valerius: Non in corpore
+mortali, sed in arce celesti certe armatum animum eius vite
+stationem putes peregisse, humanorum vitiorum incursus a se
+invicta pugna repellentem, cunctosque virtutis sue numeros
+altitudinis sue sinu clausos custodientem.  Secundum, libro VII,
+capitulo de sapienter dictis aut factis {^Fact. et dict.~ VII.
+ii. 6. Ext. 4 (^adapted~)}: Iam, inquit, Platonis verbis astricta
+sed sensu prevalens sententia; qui tum demum beatum orbem
+terrarum futurum esse predixit cum aut sapientes regnare, aut
+reges sapere cepissent.  Tertium, libro VIII, capitulo de studio
+et industria {^Fact. et dict.~ VIII. vii. Ext. 2 (^adapted~)}:
+Plato ingenii divini instructus abundantia, cum omnium iam
+mortalium sapientissimus haberetur, eo quidem usque, ut, si ipse
+Iupiter de celo descendisset, nec elegantiore nec beatiore
+facundia usurus videretur, Egyptum peragravit ibique a
+sacerdotibus eius gentis geometrie multiplices numeros celestium
+observatione numerorum percepit; eo scilicet tempore quo a
+studiosis iuvenibus certatim Athene Platone doctorem querentibus
+petebantur.
+
+	|136.  Democrito che 'l mondo a caso pone.~  Democritus
+fuit antiquus et famosus philosophus de quo scribit Valerius,
+libro VIII, capitulo de studio et industria {^Fact. et dict.~
+VIII. vii. Ext. 4 (^adapted~)}, quod amore adipiscende sapientie
+patrimonium suum ditissimum, parva valde retenta summa, patrie
+donavit.  Athenis autem quam pluribus annis moratus omnia
+temporum momenta ad percipiendam et exercendam doctrinam
+conferens ignotus illi urbi vixit.  Tandem oculos sibi eruit ut
+subtiliores cogitationes haberet.  Alii dicunt quod hoc fecit ne
+videret bene [in] malis.  Tertullianus {^Br.~ Tullianus} autem
+dicit quod cecavit se ipsum quia mulieres sine concupiscentia
+videre non poterat, scilicet porro merito sibi oculos eruit quia
+magicas tenebras oculis humanis invexit.  Nam, ut dicit beatus
+Ysidorus, VII libro ^Ethimologiarum~ {actually VIII. ix. 2},
+artem magicam mundo ignotam post mortem Zoroastis primi magi
+Democritus ampliavit.  Posuit autem quod omnia a casu veniant et
+fortuna, et non regantur a providentia Dei.  Ideo ait autor: <che
+'l mondo a caso pone>.
+
+	|137.  Diogene.~  Diogenes, philosophus naturalis, nichil
+in mundo breviter possidebat.  Dicit enim Seneca de eo: Potentior
+erat Dyogenes Alexandro omnia possidente.  Plus enim erat quod
+Dyogenes nollet accipere quam quod posset tribuere Alexander.  Et
+hoc est quod refert Valerius, libro quarto, capitulo de
+abstinentia et continentia {^Fact. et dict.~ IV. iii. 14. Ext.
+4}, dicens quod Alexander, qui omnia vicit, Diogenis continentiam
+vincere non potuit.  Ad quem cum in sole sedentem accessisset,
+hortareturque ut si qua vellet beneplacita indicare(t), ait: Rogo
+ut michi a sole non obstes.  Dicitur de Dyogene quod pallio usus
+sit {^Br.~ est} propter frigus, peram pro cellario, et clavam ob
+corpusculi fragilitatem habuerit.  Beatus quoque Ieronimus de
+eius continentia sic scribit, libro primo contra Iovinianum
+{^Adversus Iovinianum~ II. 345}: Dyogenis virtutem et
+continentiam mors quoque indicat.  Nam cum ad Agonem olimpiacum,
+qui magna frequentia Grecie celebratur, iam senex pergeret, febre
+in itinere dicitur apprehensus.  Volentibus autem eum amicis aut
+in iumentum aut in vehiculum tollere, non acquievit; sed
+transiens ad arboris umbra, locutus est eis dicens: Abite, queso,
+spectatum pergite.  Hec me nox aut victorem probabit, aut victum. 
+Si febrem vincero, veniam ad Agonem; si vero me vicerit, ad
+inferos properabo.  Fulgentius autem dicit quod Diogenes cum
+dolore animi torqueretur, et videret homines ad amphiteatrum
+concurrentes aiebat: Qualis hominum stultitia currunt spectare
+feris homines repugnantes, et me pretereunt naturali dolore
+certantem.
+
+	|Anaxagora.~  De isto Anaxagora tria mirabilia exempla in
+memoria retinenda narrat Valerius.  Primum exemplum libro V,
+capitulo de parentibus qui obitum filiorum forti animo tulerunt
+{^Fact. et dict.~ V. x. 3}.  Ait sic Anax{*a*}goras audita morte
+filii: Nichil michi, inquit, inexpectatum aut novum nuntias.  Ego
+enim illum ex me natum sciebam esse mortalem.  Et subdit
+Valerius: Has voces utilissimis preceptis imbuta virtus mittit. 
+Quas si quis efficaciter auribus receperit, non ignorabit ita
+liberos esse procreandos ut meminerit his a rerum natura et
+accipiendi spiritus et reddendi eodemque momento temporis legem
+dari; atque ut mori neminem solere qui non vixerit, ita ne vivere
+aliquem quidem posse qui non sit moriturus.  Secundum exemplum,
+libro VII, capitulo de sapienter dictis aut factis {^Fact. et
+dict.~ VII. ii. 12}.  Interroganti namque cuidam Anaxagoram
+quisnam esset beatus: Nemo, inquit, ex his quos tu felices
+extimas, sed eum in illo numero reperies qui a te ex miseriis
+constare creditur.  Tertium exemplum libro VIIII, capitulo de
+studio et industria {actually VIII. 7. 6}: Quali porro studio
+Anaxagoram flagrasse credimus?  Qui cum e diutina peregrinatione
+patriam repetisset, possessionesque suas desertas vidisset, <Non
+essem, inquit, ego salvus nisi iste perissent>.  Et subdit
+Valerius: O vocem perite sapientie compotem.  Nam si prediorum
+potius quam ingenii culture vacasset, dominus rei familiaris
+intra penates mansisset, non tantus Anaxagoras ad eos redisset.
+
+	|Et Tale.~  Tales Milesius fuit unus ex septem
+sapientibus Grecorum qui in omni sapientia ceteros philosophos
+excedebant.  Hic primus apud Grecos philosophiam adinvenit.  Hic
+enim ante alios celi causas atque vim rerum naturalium
+contemplata ratione suspexit; quam scientiam postmodum Plato in
+quatuor diffinitiones distribuit, in arismetricam, scilicet,
+geometriam, musicam et astronomiam, sicut scribit beatus
+Ysidorus, secundo libro ^Ethimologiarum~ {^Etym.~ II. xxiv. 4}. 
+Huius philosophi habetur illa sancta sententia quam recitat
+Valerius libro VII, capitulo de sapienter dictis aut factis
+{^Fact. et dict.~ VII. ii. 8} in hec verba: Interrogatus Tales an
+facta hominum deos fallerent, ait: Nec etiam cogitata.  Inducens
+nos ut non solum manus, sed etiam mentes puras habere vellemus;
+cum secretis cogitationibus nostris celeste numen adesse
+credidissemus.  Septem vero sapientes sunt isti: Tales Milesius,
+Pittagoras Miletes, Bias Piareus, Piander Corinthius, Pilon
+Periandrus, Solon Atheniensis, et Ligurgus.  Quorum accipe septem
+versus in quibus summe sententie continentur.
+
+     Que casta? De qua mentiri fama veretur.             TALES
+     Que dos matrone pulcherrima? Vita pudica.           PITTAGORAS
+     Quid stulti proprium? Nec posse et velle nocere.    BIAS
+     Quid sapientis opus? Cum possit, nolle nocere.      PIANDER
+     Quis dives? Qui nichil cupiat. Quis pauper? Avarus. PILON
+     Quenam summi boni est? Que mens sibi conscia veri.  SOLON
+     Pernities hominum quam maxima? Solus altus homo.    LIGURGUS
+
+	|138.  Empedocles.~  Iste Empedocles fuit antiquissimus
+philosophus, cuius tres egregias sententias scribit Aristotiles
+in libro de vegetalibus, dicens: Tria sunt, ut ait Empedocles, in
+tota rerum varietate precipua: nobilis affluentie contemptus;
+future felicitatis appetitus; mentis illustratio.  Quorum primo,
+nil honestius; secundo, nil facilius; tertio, nil ad amborum
+ademptionem efficacius.  Dum fuisset a quodam interrogatus
+Empedocles cur viveret, respondit, ut ait Bernardus Silvestris:
+Vivo ut astra respiciam.  Celum subtrahe, nichil ero.
+
+	|Eraclito.~  Eraclitus fuit philosophus bene vivens, qui
+quotiens prodibat in publicum, considerans circa se multitudinem
+male viventium imo male pereuntium flebat.  Sed e contra Tales
+Democritus deridebat.
+
+	|Et Zenone.~  Zenon fuit philosophus ystoicus, cuius est
+illa famosa sententia: Sapientis est non posse turbari.  Iste
+Zenon sibi ipsi manus iniecit ut post mortem felicissimus
+viveret, ut ait Lactantius.  Beatus enim Augustinus dicit Zenonem
+et Chrisippum principes ystoicorum fuisse.  Cuius Chrisippi, ut
+ait Seneca, est illa sententia: Sapiens nulla re eget; stulto
+nulla re opus est; nulla enim re scit uti, sed omnibus eget.  De
+isto Zenone scribit Valerius, libro tertio, capitulo de patientia
+{actually VII. iii. 2. Ext. 2}, quod cum ipse Zenon esset in
+contemplanda rerum natura maxime prudentie atque in exercitandis
+ad vigorem iuvenum animis prontissimus, preceptorum fidem sue
+virtutis exemplo mirabili publicavit.  Patriam enim egressus, in
+qua frui secura poterat libertate, Agrigentum miserabili
+servitute Falaris obrutum petiit.  Tanta fiducia ingenii ac morum
+suorum fretus, ut speraverit et tyranno et Falari vesane mentis
+feritatem a se deripi posse.  Postquam deinde apud illum plus
+consuetudinem dominationis quam consilii salubritatem valere
+animadvertit, nobilissimos eius civitatis adolescentes cupiditate
+liberande patrie inflammavit.  Cuius rei indicium cum ad tyrannum
+manasset, convocato in forum populo, torquere eum vario cruciatus
+genere cepit, subinde querens quosnam consilii participes
+haberet.  At ille neque eorum quemquam nominavit et proximum
+quemque ac fidissimum tyranno suspectum reddidit, increpitansque
+Agrigentinis ignaviam ac timiditatem, effecit ut subito mentis
+impulsu concitati Phalarim lapidibus prosternerent.  Senis ergo
+unius eculeo impositi non supplex vox nec miserabilis eiulatus,
+sed fortis cohortatio totius urbis animum fortunamque mutavit. 
+Fuit et alius Zenon qui, ut scribit idem Valerius, libro et
+capitulo ut supra {^Fact. et dict.~ VII. iii. 2. Ext. 3}: Cum ab
+Archo {Text has ^a Nearcho~} tyranno de cuius nece consilium
+inierat torqueretur supplicii pariter atque indicandorum gratia
+sociorum doloris victor sed ultionis cupidus, esse dixit quod
+secreto audire eum valde expediret; laxatoque eculeo, postquam
+insidiis oportunum tempus animadvertit, aurem eius morsu
+corripuit, nec ante dimisit quam et ipse philosophus vita et ille
+tirannus parte corporis privaretur.
+
+	|139.~  Hic enim Diascorides librum quendam de rerum
+qualitatibus compilavit.  Ideo autor dicit: <accoglitor del
+quale>.
+
+	|140.  Et vidi Orpheo.~  Orpheus, sicut scribit Ovidius,
+X libro ^Methamorphoseos~, et Boetius, tertio ^De Consolatione~,
+fuit quidam cytharista de Tracia.  Est autem Tracia quedam
+provincia Grecie.  In hac itaque provincia natus est Orpheus, qui
+a poetis fingitur fuisse Phebi filius et Caliope; et ideo vates
+appellatus est.  Vates autem aliquando a ^vi mentis~ dicitur, ut
+ait Varro {^De lingua latina~ VII. 36}, et tunc ^vates~ tantum
+valet quantum ^sacerdos.~  Aliquando vates dicitur a ^vieo~,
+-^es~, et tunc tantum valet quantum ^propheta.~  Aliquando
+dicitur a ^vi{*e*}o~, -^es~, quod est ^ligare~, et tunc ^vates~
+tantum valet quantum ^poeta.~  Dicitur itaque Orpheus vates a
+^viendo~, idest ^ligando~, quia carmina sua metris et pedibus
+ligabat.  De quo fabulose dicitur quod cantu vocis et sono
+cithare non solum homines, sed etiam animalia ad se trahebat,
+silvas evocabat, et flumina stare faciebat.  Hic habuit uxorem
+Euridicem quam, cum Aristeus quidam pastor amaret, et cum ipsa
+iacere vellet, fugiens per prata, calcato serpente, interiit et
+ad inferos properavit.  Quam volens reducere ab inferis, Orpheus
+modulationibus suis deos celestes placare voluit, sed nequivit. 
+Unde ad infernum descendit, et tanta dulcedine infernales deos
+linivit, quod concessa est ei uxor, ista conditione, ut non
+verteret se retro.  Cum vero prope exitum esset, amore allectus
+flexit oculos retro, sicque uxorem perdidit.  Ideo ait Boetius:
+<Quis legem det amantibus, maior lex amor est sibi> {^De Cons.
+Phil.~ 3 verse. 12. 47-48}.  Quasi dicat: Amor est ita fortis
+quod nulla lege alia frangi potest.  Allegorice vero, sicut
+exponit Fulgentius in mitologia, Orpheus vir sapiens et eloquens
+suavitate citare, idest eloquentie, homines brutales et
+silvestres reduxit ad normam et regulam rationis.  Cetera require
+in Fulgentio.
+
+	|141.  Tullio.~  Tullius fuit flos et decus romane
+eloquentie, qui de Arpino traxit originem, que fuit rethorum
+civitas prope Romam, de qua fuit etiam Maximus Valerius et Titus
+Livius, licet quidam dicant ipsum Titum fuisse de Padua.  Sed, re
+vera, ut ait Tullius, non de Padua sed de Arpino fuit, de quo
+etiam fuit ipse Tullius.  Unde in suo epythafio sic habetur:
+
+     Hic iacet Arpinas, manibus tumulatus amici,
+     Qui fuit orator summus et eximius,
+     Quem nece crudeli mactavit civis et hostis.
+     Nil agis Antoni scripta deserta manent,
+     Vulnere perpetuo Ciceronem conficis, at te
+     Tullius eternis vulneribus lacerat.
+
+Item alii versus:
+
+     Corpus in hoc tumulo magni Ciceronis humatum
+     Contegitur, claro qui fuit ingenio.
+     Quique malis gravis hostis erat tutorque bonorum
+     Quo pene indigere consule Roma fuit.
+     Sed vigili cura detectis hostibus urbem
+     Supplicioque datis prestitit incolumen.
+
+Item alii:
+
+     Unicus orator lumenque decusque senatus,
+     Aspice quo iaceat conditus ille loco,
+     Ille vel orator vel civis maximus idem.
+     Clarus erat facie, clarior eloquio,
+     Ac ne quid fortuna viro nocuisse putetur,
+     Vivus in eternum docta per ora volat.
+
+	Fuit itaque, ut patet, de Arpino, sed Rome educatus et
+instructus, ad tantam perfectionem devenit quod fuit consul et
+summus orator; in qua quidem arte illo tempore studebatur.  Fecit
+autem multos libros, et spetialiter istos: ^De Officiis~, libros
+tres; ^De Amicitia~, librum unum; ^De Senectute~, librum unum;
+^De Oratore~, libros novem; ^De Paradoxis~, librum unum; ^De
+Phylippicis~, librum unum; ^Rethoricorum~, libros duos; ^De
+Tusculanis~, librum unum; ^Orationum~, libros duodecim;
+^Invectivarum~, libros sex; ^De Legibus~, libros tres; ^De Fine
+Boni et Mali~, libros quinque; ^De Natura Deorum~, libros tres;
+^De Divinatione~, libros duos; ^De Fato~, libros novem; ^De
+Creatione Mundi~, libros novem; ^Dialogorum ad Ortensium~, librum
+unum; ^De Partitione Oronis~, libros novem; ^De Achademicis~,
+librum unum.  Tempore vero sui consolatus, a coniuratione
+Catelline urbem mirabili sagacitate defendit, sicut narrat
+Salustius in Catellinario.  Unde Lucanus in VII+o~:
+
+     Cunctorum voces Romani maximus autor
+     Tullius eloquii, cuius sub iure togaque
+     Pacificas sevus tremuit Catellina secures,
+     Pertulit, etc.
+
+                 {^De bello civili~ (^Phars.~) VII. 62-65}
+
+Et licet fuerit flos eloquentie romane et urbem in suo consulatu
+magnifice rexerit, tamen fuit de Roma expulsus et in Gaeta
+occisus.  Unde Valerius, libro V, capitulo de ingratis {^Fact. et
+dict.~ V. iii. 4}, dicit quod quidam qui vocabatur Popilius
+Lenas, de regione pycena, dum esset accusatus in urbe in causa
+valde dubia, fuit adiutus a Tullio ac etiam liberatus.  Hic
+Popilius postea nec re nec verbo a Cicerone lesus audacter,
+Marcum Antonium rogavit ut ad Tullium Ciceronem, qui erat
+proscriptus in Gaeta, mitteretur ad persequendum ac etiam
+iugulandum.  Impetratisque detestabilis ministerii licteris,
+gaudio exultans Gaetam cucurrit, et virum tam amplissime
+dignitatis iugulum prebere iussit.  Ac protinus caput romane
+eloquentie et pacis clarissimam dextram per summum et securum
+otium amputavit, eaque sarcina, tanquam opimis spoliis, oneratus,
+alacer in urbem reversus est.  Neque enim portanti onus scelestum
+occurrit illud se caput ferre quod pro capite suo quondam
+peroraverat.  Sed invalide ad hoc monstrum sigillandum lictere,
+quoniam qui talem Ciceronis casum satis digne deplorare possit,
+alius Cicero non extat.  Et quia Cicero fuit ita bonus et
+eloquens, ideo quosdam flores suorum librorum hic proposui
+inserendos.  In ^Philippicis~: Te miror Antoni, quorum exempla
+imitaris, eorum exitus non pertimescere.  Male parata male
+dilabuntur.  Omne malum nascens facile opprimitur; inveteratum
+vero plerumque fit robustius.  In libro ^De Officiis~ {I. vii}:
+Fundamentum primum iustitie est ne alicui noceatur, deinde ut
+comuni utilitati serviatur.  Fortes et magnanimi sunt illi
+habendi, non qui faciunt, sed qui propulsant iniuriam.  Fortis et
+constantis animi est non turbari in rebus asperis.  Cavendum est
+ne assentatoribus sive adulatoribus aures patefaciamus, in quo
+falli facile est.  Luxuria, cum in omni etate sit turpis, in
+senibus maxime est turpissima {^De Officiis~ I. xxiv}.  Male se
+res habet cura quod virtute effici debet; id pecunia tentatur. 
+Omnia ficta tanquam flosculi celeriter decident, nec simulatum
+quicquam potest esse diuturnum.  Qui veram iustitie gloriam
+adipisci voluerit, iustitie fungatur officiis.  In libro ^De
+Amicitia~ {^De Amicitia~ IV. 17}: Amicitia omnibus rebus humanis
+preponenda est; nichil est enim tam nature aptum tamque
+conveniens ad res prosperas vel adversas.  Scipio nichil
+difficilius esse dicebat quam amicitiam usque ad extremum vite
+diem permanere.  Interdum enim dirimitur amicitia contentione,
+luxuria, vel aliquo commodo, quod idem adipisci uterque non
+potest.  Nulla est excusatio peccati si amici causa peccaveris. 
+Hec lex in amicitia sanciatur, ut neque rogemus res turpes, neque
+rogati faciamus.  Non minoris cure est michi qualis res publica
+post mortem meam futura sit, quam qualis hodie sit.  Monendi et
+obiurgandi sepe amici sunt, tali tamen conditione, ut monitio
+acerbitate et obiurgatio careat contumelia.  Caveamus ne nimis
+cito diligere incipiamus, neque indignos.  Digni sunt amicitia in
+quibus est causa cur diligantur.  In libro ^De Senectute~: Nemo
+tam senex est qui se per annum posse vivere non putet {^De
+Senectute~ 24}.  Ut contra morbum, sic contra senectutem est
+obpugnandum; utendum est ergo exercitationibus modicis et tamen
+cibi et potus adhibendi sunt ut vires reficiantur, non
+opprimantur.  Avaritia senilis quid sibi velit non intelligo. 
+Quid enim absurdius esse potest, quam quo minus restat vie, eo
+amplius viatici querere?  Frustra sperat adolescens vivere vel
+promictit se diu victurum; facilius enim in morbos incidit,
+gravius egrotat, tristius curatur.  In his enim melioris
+conditionis est senex, quia quod sperat adolescens ipse iam
+consecutus est.  Ille vult diu vivere; iste diu vixit.  Mors
+etiam contingit adolescentibus aversante et repugnante natura; et
+ideo gravis.  Sicut enim poma ex arboribus, si cruda sunt, vi
+avelluntur, si vero matura et cocta, decidunt; sic vis
+adolescentibus vitam aufert, senibus maturitas.  Non est lugenda
+mors quam immortalitas sequitur.  Sapientissimus quisque
+equissimo animo moritur, nec eum vixisse penitet, quia ita vixit
+ut non frustra se natum existimet.  In libro ^De Paradoxis~:
+Sicut in improbo stulto et inerti bene esse non potest, sic vir
+bonus et sapiens miser esse non potest.  Omnis sapiens est liber,
+omnis stultus servus.  Nunquid ille est liber cui mulier imperat,
+cui lex imponit, iubet, vel vetatur; ego istum non tantummodo
+servum, sed nequissimum servum appellandum puto, licet ex
+amplissima familia natus sit.  In libro ^Rethoricorum~: Sapientia
+sine eloquentia parum prodest; eloquentia vero sine sapientia
+nunquam prodest, sed plerunque nimium obest.  In libro
+^Tusculanorum~: Stultitie proprium est aliorum vitia cernere,
+suaque oblivisci.  Quemadmodum misericordia est egritudo ex
+alterius rebus adversis, sic invidentia est egritudo ex alterius
+rebus secundis.  Quid dulcius otio licterato?  In libro ^De
+Natura~ ^Deorum~: Stulti nec vitare venientia nec ferre presentia
+mala possunt.  Amicitiam si ad fructum nostrum referimus et non
+ad illius commodum quem diligimus, non est amicitia, sed
+mercatura quedam utilitatum suarum: prata, et arva et pecudes. 
+Hoc modo diliguntur eo quod ex eis fructum capiunt.  Hominum
+autem caritas gratuita est.  In oratione sua ^Pro Marcello~:
+Nulla corporis tanta vis est que non ferro et viribus debilitari
+frangique possit.  Animum vero vincere, iracundiam cohibere,
+victoriam temperare, adversarium non tantum modo iacentem
+extollere, sed etiam ampliare eius pristinam dignitatem; hec qui
+fecerit, non ego eum summis viris comparo, sed simillimum Deo
+iudico.
+
+	|Et Alino.~  {Lacuna of about four lines.}
+
+	|Et Seneca morale.~  Seneca fuit philosophus moralis
+natione yspanus, de quadam civitate que dicitur Corduba, cuius
+nepos fuit Lucanus poeta.  Fuit autem adeo moralis et virtute
+preclarus quod a Nerone imperatore, discipulo suo, quia sua vitia
+arguebat, ad eligende necis fuit compulsus arbitrium.  Fuit etiam
+a deo moralis et virtute preclarus quod a Nerone imperatore,
+discipulo suo, quia sua vitia arguebat, ad eligende necis fuit
+compulsus arbitrium.  Fuit etiam beati Pauli apostoli vinculo
+dilectionis a[d]strictus, ut per epystolas constat, quas sibi
+mutuo destinarunt, quibus epistolis beatus Ieronimus provocatus
+ipsum Senecam in sanctorum cathalogo adnotavit.  Et quia fuit ita
+moralis et bonitate conspicuus, ideo quedam sua dicta notabilia
+exarabo: Si scirem deos ignoscituros et homines ignoraturos,
+adhuc dedignarer peccare.  Leta afflictio non est afflictio; leta
+paupertas non est paupertas.  Unum exemplum mali multa mala
+facit.  Remisse imperanti melius obeditur.  Indiscrete precipit
+qui nimia vel nimis ardua precipit.  Gloriosum genus vindicte est
+ignoscere, et magni animi est iniurias in summa potestate pati. 
+Magnanimus non est ille qui de alieno liberalis est.  Concordet
+sermo cum vita.  Ad summam totius sapientie volo te esse
+breviloqu[u]m et rariloquum, et summissa voce loquentem.  Nulla
+res carius emitur quam que precibus empta est.  Providi cultoris
+est colligere poma antequam marcescant.  Optimum est mori cum
+iuvat vivere.  Lex prima sapientie est velle mori, secunda vero
+scire mori.  Omitte excusationem, nemo peccat invitus.  Lauda
+parce, vitupera parcius; nam sicut reprehensibilis est nimia
+laudatio, sic immoderata vituperatio.  Quid enim stultius quam in
+homine aliena laudare?  Nemo gloriari nisi de suo debet.  Non
+faciunt meliorem equum aurea frena.  In homine laudandum est quod
+ipsius est: generosus est, laudet parentes; dives est, laudet
+fortunam; pulcer et fortis est, expectet paulisper et non erit;
+bene morigeratus est, nunc demum laudasti hominem.  Copia ciborum
+subtilitas impeditur.  Si vis amari, ama.  Noli decipere, ne
+decipiaris.  Quietissime viverent homines si hec duo pronomina
+tollerentur, meum et tuum.  Si ad naturam vivas, nunquam pauper
+eris; si ad opinionem, nunquam dives; exiguum enim natura
+desiderat, opinio vere immensum.  Palatum tuum fames excitet, non
+sapores.  Si prudens fuerit animus tuus, tribus temporibus
+dispensetur: presentia ordina, futura previde, preterita
+premeditare.  Amicum meum non amo si cum offenderit non corrigo.
+
+	|142.  Euclide geometra.~  Euclides fuit maximus
+philosophus in scientia geometrie.  Ideo autor in textu: <Euclide
+geometra>.
+
+	|Et Tholomeo.~  Ptholomeus fuit rex Alexandrie, inter
+astrologos magnus princeps.
+
+	|143.  Ypocrate.~  Iste Ypocras fuit Grecus, inter
+medicos summus princeps, qui secundum Galienum in libro ^De
+Regimine Acutorum~ commento libri primi, fuit primus omnium
+medicorum qui scientiam medicine amphoristice atque ordinarie
+adinvenit.  Nam, licet plures medici ante ipsum fuerint, nullus
+fuit ante eum qui scientiam medicine ita ordinate et utiliter
+compila{*v*}it.  Fecit autem in dicta scientia plures libros, et
+spetialiter istos: ^Librum Amphororum~, ^Librum De Regimine
+Acutorum~, ^Librum Pronosticorum~, ^Librum de Natura Fetus~,
+^Librum de Humana Natura~, ^Librum de Lege~, ^Librum de Aere et
+Aqua.~  In quibus libris amphoristice universam tradidit
+scientiam medicine.  Est autem amphoris locutio brevis.
+
+	|Avicenna.~  Hic fuit saracenus yspanicus et, ut dicitur,
+rex Saracenorum.  Fuit autem tempore Averrois, qui omnes libros
+Aristotilis commentatus est.  Fuit enim iste Avicenna in scientia
+naturali peritissimus, nec non et in medicinali probatissimus,
+nam omnes Galieni libros elucidavit; unde se Galieni interpretem
+attestatur.  Fecit enim in medicina librorum plura volumina, et
+maxime ^Librum Canonum~, qui continet quinque libros; ^Librum
+Canticorum~; ^Librum de Viribus Cordialibus.~  In quibus libris
+homines optime ordinavit.
+
+	|Et Galieno.~  Galienus fuit de Grecia, et intantum etiam
+dum viveret notus in mundo, quod Rome insonuit fama eius.  Unde
+ipse refert in ^Libro de Interioribus~: Fama, inquit, mea
+divulgata est Rome, et ab imperatoribus cognitus extiti, non
+sophisticis rationibus, sed quia veritatem dilexi.  Huic Galieno
+hoc nomen <medicus>, quod est omnibus medicis generale, attribuit
+Avicenna.  Nam, sicut cum dicimus <prophetam> intelligimus David
+per anthonomasiam, idest per excellentiam, et cum dicimus
+<apostolum> intelligimus Paulum, et cum dicimus <evangelistam>
+intelligimus Iohannem; et cum dicimus <philosophum> intelligimus
+Aristotilem; et cum dicimus <poetam> intelligimus Virgilium; ita,
+cum Avicenna dicit <medicum>, intelligit Galienum.  Fecit autem,
+ut fertur, a medicis in ipsa scientia medicine plus quam C
+volumina, de quibus habentur fere volumina sexaginta, quorum
+nomina omitto propter tedia evitanda.
+
+	|144.  Averrois che 'l gran comento feo.~  Averrois fuit
+philosophus sarracenus, qui omnes libros Aristotilis commentatus
+est.  Ideo ait autor: <che 'l gran commento feo>.
+
+	|145-151.  I' non posso ritrar di tutti a pieno.~ 
+Postquam autor mentionem fecit tantorum principum et baronum, ac
+etiam in omni scientia summorum philosophorum, dicit quod propter
+materiam longam que eum ad alia narranda compellit, non potest de
+omnibus que vidit plenarie pertractare.  Et ideo sequitur in
+textu: <La sexta compagnia in due si scema>.  Hoc est, illi
+quatuor summi poete qui eis obviam venerunt, et eos per illam
+partem quietam et luminosam associaverunt, in suo circulo
+remanserunt, quia non est licitum nisi per dispensationem divinam
+de uno circulo ad alium pertransire, et Virgilius autorem ad
+alium locum ducit, ad locum scilicet tempestuosum et tenebrosum. 
+Ideo sequitur in textu:
+
+     Per altra via mi mena il savio duca,
+     fuor de la queta, nell'aura che trema.
+     Et vegno in parte ove non @e chi luca.
+
+Et sic descendit de primo circulo in secundum.
+

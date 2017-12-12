@@ -1,0 +1,632 @@
+	|1-12.~  No sooner had La Pia proffered her gentle request for 
+Dante's prayers, than the whole crowd of spirits broke out into 
+the most importunate and unmannerly demands for the same favour. 
+Dante represents himself, indeed, as almost mobbed by them.  He 
+compares himself to the winner in the game of zara or hazard who, 
+when he rises to go, is attacked by a crowd of impudent onlookers 
+for a share of his winnings: one runs in front of him, another 
+plucks him from behind, a third importunes at his side.  He 
+pushes on, listening to this one and that, and clearing his way 
+by giving something to the sturdiest of the beggars.  Just so 
+did Dante extricate himself from the unmannerly mob by promising 
+prayers right and left.
+
+	|13-15.~  Probably the souls he names are those who were most
+importunate.  Two natives of Arezzo come first: 
+ 
+       There was the Aretine who from the arms 
+       Untamed of Ghin di Tacco had his death; 
+       And he who running in the rout was drowned. 
+ 
+The former is Benincasa da Laterina, a well-known judge of 
+Arezzo, who met with a most tragic death for having administered 
+justice.  As assessor to the Podest@a of Siena, he condemned to 
+death a relative of the Ghin di Tacco here named, said by some to 
+have been his brother and a robber like himself.  Fearing the 
+vendetta, Benincasa got himself transferred to Rome; and one day 
+sitting in the hall of justice he was stabbed on the bench by 
+Ghino, who had gained an entrance in the disguise of a beggar. 
+The murderer made good his escape, and indeed was rewarded rather 
+than punished.  Benvenuto, says Toynbee, `described him as a sort 
+of Robin Hood, who if he robbed a merchant would restore him part 
+of his gold; or, if a fat priest fell into his hands, would take 
+his mule and give him a worn-out hack in exchange; but, if he 
+came across a poor scholar, would make him a present of money, 
+and recommend him to pay attention to his studies.'  On the 
+intercession of a wealthy abbot whom he had captured and treated 
+well, Pope Boniface knighted the highwayman and granted him a 
+rich priory.  The second Aretine is identified with Guccio of the 
+Ghibelline family of the Tarlati.  There is considerable 
+uncertainty as to his fate; but the account generally received is 
+that after the defeat of the Aretines at Campaldino he was 
+pursued so hotly that he was driven into the Arno and drowned. 
+Another account has it that he was pursuer not pursued, and that 
+he followed the enemy so impetuously that he perished in the 
+river. 
+ 
+	|16-18.~  Of the third soul named, Federico Novello, who `prayed
+with outstretched hands,' little is known beyond that he was a member
+of the great Conti Guidi house, and that he was slain at 
+Bibbiena in 1289.  He is coupled here with another soul who is 
+mysteriously indicated as 
+ 
+                              he of Pisa 
+       Who made the good Marzucco seem so strong. 
+ 
+`The good Marzucco' was a member of the family of the Scornigiani of
+Pisa, a doctor of laws, who joined the Franciscan Order in 1286.  It is
+his son Farinata whom Dante finds here in Ante-Purgatory.  Under what
+circumstances he met his end seems to be quite uncertain.  If we accept
+Benvenuto's account, he was beheaded by Count Ugolino, the tyrant of
+Pisa, whom Dante saw frozen in the ice of Antenora (^Inf.~ xxxii.
+124ff.); and Marzucco `showed himself strong' by begging his son's body
+for burial with so much humility that Ugolino could not refuse his
+request.  Another account which makes him strike his son's murderer
+dead is not likely to be true, else Dante would scarcely have called
+him `the good Marzucco.'  He knew that forgiveness, not revenge, is the
+true sign of strength. 
+ 
+	|19.~  `I saw Count Orso' is all that Dante says of the next 
+spirit.  He was the son of that Napoleone degli Alberti whom 
+Dante saw in the ice with his brother Alessandro, frozen together 
+in the same hatred in which they slew each other.  Count Orso is 
+said to have been slain by his cousin Alberto, son of Alessandro -- 
+doubtless in pursuance of the blood-feud in which their fathers 
+perished (^Inf.~ xxxii. 16-51). 
+ 
+	|19-24.~  The last spirit singled out by name is the most 
+interesting and important of all: 
+ 
+                    the soul divided 
+       From its body by hatred and by envy, 
+       So it said, and not for any fault committed -- 
+       Pierre de la Brosse I mean; and here provide 
+       While still on earth the Lady of Brabant, 
+       So that for this she be of no worse flock. 
+ 
+The fortunes of this Pier della Broccia are very similar to those 
+of the unhappy suicide, Pier delle Vigne, and, like his, enveloped 
+in mystery.  According to tradition, he was a surgeon of humble 
+birth who rose to be chamberlain to Philip III. of France. 
+Louis, son of Philip by his first wife, and heir to the throne, 
+died suddenly in 1276, and Pierre accused the Queen, Mary of 
+Brabant, of having poisoned him in order to secure the succession 
+to her own son.  In revenge, she is said to have accused him of 
+an attempt upon her honour; or, according to another account, to 
+have forged letters from the chamberlain to Alphonso X. of 
+Castile, with whom Philip was at war.  Whatever the exact charge 
+was, Pierre was suddenly arrested and hanged for it; and so 
+firmly did Dante believe in his innocence that he attributed his 
+death to hatred and envy, and warns `the Lady of Brabant' to 
+repent, lest she go at last to a worse herd than this for her 
+treachery. 
+ 
+	|26-27.~  Before passing on it may be worth while pausing to note
+the significance of the words in which Dante describes these 
+souls and the whole crowd that thronged round him: 
+ 
+                              those shades 
+       Who only prayed that some one else may pray, 
+       so as to hasten their becoming holy --  
+ 
+that is, by a quicker entrance into the purifying discipline of 
+Purgatory proper.  (A quotation from Dr. Hettinger may throw light on
+the importuning of Dante for his prayers: `This division into Ante-
+Purgatory and Purgatory proper had a real foundation in the canonical
+penances of the Primitive Church.  The penitents were divided into four
+classes -- the mourners, the hearers, the prostrate, and the stationary
+[^consistentes~].  The first class of penitents, "the mourners," were
+forbidden to enter the church, but stood without the porch, exposed to
+all the inclemency of the weather, and ^imploring with tears the
+prayers of the worshippers as they passed.~  "The hearers" assisted at
+the prayers from the vestibule, but not at the mass.  "The prostrate"
+assisted at the Mass of Catuchumens, and left after the sermon, before
+the Preface.  "The stationary" remained for the sacrifice, but did not
+go up to make their offering, with the rest of the faithful, and were
+not allowed to receive Holy Communion' [^Dante's Divina Commedia~,
+164].)  These words are interesting because they suggest the conception
+of prayer held by Dante as a very high and noble exercise of our
+spiritual powers, which rises and falls with the soul's moral
+condition.  If one is not mistaken, he indicates four distinct
+gradations in the power of prayer.  The lowest stage is that of the
+souls before us.  They have lost the power of prayer even for
+themselves, not to speak of others.  Their whole conception of prayer
+is low and selfish, for that is certainly what Dante means by comparing
+them to parasites hanging on to the winner in a game of hazard.  When
+we reach the Valley of the Princes, we shall find the souls there able
+to pray for themselves, but, so far as appears, for themselves alone. 
+It is only when we get inside the Gate of Purgatory proper that we find
+spirits so far advanced in the unselfish life that they can pray 
+for others as well as for themselves: 
+ 
+       Thus for themselves and us good furtherance 
+       Those shades imploring went. 
+                         (^Purg.~ xi. 25, 26.) 
+ 
+Finally, when Paradise is reached, the power of prayer is 
+perfectly regained and so purifed of every taint of selfishness 
+that the saints pray only for others, as St. Bernard did for 
+Dante (^Par.~ xxxiii. 22-39).  In short, sin destroys the power of
+prayer and turns it into selfishness at the beginning of the penitent
+life, and it is only as the soul is purified that the power is
+restored.  Dante would have agreed with the view of Coleridge that `the
+act of praying is the very highest energy of which the human heart is
+capable, praying, that is, with the total concentration of the
+faculties,' and that the great mass of worldly men have entirely 
+lost the power.  (In a note in Coleridge's ^Table Talk~, the editor,
+his nephew and son-in-law, narrates an incident which well illustrates
+what I conceive to be Dante's view.  Two years before his death the
+poet said to him that prayer was `the most arduous act of the reason
+and will': `"^To pray~, to ^pray~ as God would have us; this is what at
+times makes me turn cold to my soul.  Believe me, to pray with all your
+heart and strength, with the reason and the will, to believe vividly
+that God will listen to your voice through Christ, and verily do the
+thing He pleaseth thereupon -- this is the last, the greatest
+achievement of the Christian's warfare upon earth.  ^Teach~ us to pray,
+O Lord!"  And then he burst into a flood of tears, and begged me to
+pray for him.'  Coleridge evidently felt himself to be one of the souls
+`who pray only that others pray.')  The ^Purgatorio~ and ^Paradiso~
+show how {this power} is destroyed by sin, and returns only in
+proportion as the soul regains spiritual health. 
+ 
+	|28-39.~  We saw how Dante extricated himself from the importunate
+crowd by promising prayers right and left.  The moment he was clear of
+them, however, he was assailed by doubts of the 
+efficacy of prayer for those whose fate is already decided -- 
+doubts suggested by Virgil himself who represents Reason.  He 
+reminds his Guide of the line if the ^AEneid~ in which the 
+Sibyl rebukes Palinurus for his impious prayer to be allowed to 
+cross the Stygian River while his body was still unburied: 
+ 
+       Desine fate De#um flecti sperare precando.
+
+(^Aen.~ vi. 376; the question is discussed by Aquinas, ^Summa~, ii-ii,
+q. lxxxiii, a. 2.)  `Cease hoping that the decrees of the Gods can be
+bent by prayers.'  Does not this mean that prayer is vain, an impious
+attempt to alter Heaven's decrees of judgment? 
+ 
+Virgil's reply is that the cases are not parallel.  The 
+prayer of Palinurus was `separate from God.'  These words may 
+mean either that Palinurus was already in Hell, or that, being a 
+heathen, he was beyond the Divine grace; but probably they refer 
+to the nature of his prayer.  He was seeking to ^overturn~ a 
+decree of Heaven; whereas in the present case the object of 
+prayer was to ^fulfil~ that decree by another means.  What, then, 
+is this other means?  The answer is one of the most beautiful and 
+suggestive things in the poem: 
+ 
+       `The summit of judgment is not lowered 
+       Because the fire of love fulfilleth in one moment 
+       What he must satisfy who here is lodged.' 
+ 
+In other words, the decree of God is that satisfaction must be 
+made for sin.  The common mode of satisfaction is the sinner's 
+own suffering, the painful discipline of penance, and the slow 
+undoing year by year of the evil habits which year by year had 
+wrought into the soul.  But there is `a more excellent way.'  Love 
+is the strongest thing in the universe, the power that `moves the 
+sun and the other stars' (^Par.~ xxxiii. 145); and therefore it can
+accomplish in a moment what mere pain and self-discipline take
+laborious years to do.  It is not suffering and penance but love, that
+God's decree cares for most; and the prayer of any soul that loves
+enough can shorten the time of delay, and hasten the beginning of the
+purifying process.  By this `fire of love' `the summit of 
+judgment is not lowered,' the decree of God is not broken; it is 
+simply fulfilled in a higher, Diviner way.  There is surely 
+something very beautiful in this idea.  It shows Dante is not, as 
+some think, entangled and imprisoned in the mechanical rules of 
+the penitential discipline of the Church.  One moment of `the 
+fire of love' can do more to satisfy God, and burn out evil, than 
+half an eternity of penances.  (Contrast with this Peter Damiani's
+Canon of penitence, in which sins were tabulated with their equivalents
+of Purgatorial pain: `A day's penance was equal to twenty strokes on
+the hand, or to fifty psalms; a year of penance was equivalent to three
+thousand strokes rightly counted, if accompanied by the singing of
+psalms.'  A friend of his, Dominicus, was so expert in the
+`^disciplina~,' as it was called, that he `could scourge away a century
+or more' in six days! [Gregorovius, ^Rome in the Middle Ages~, iv. 106,
+English Translation].) 
+ 
+	|43-57.~  On the whole subject, however, it is to be noted that 
+Virgil gives his opinion with great humility, recognizing that 
+Reason cannot fathom the mysterious power of prayer.  He 
+therefore enjoins Dante not to rest in so great a doubt until she 
+explain it to him who is `a light between truth and intellect' -- 
+that is, reveals truth to the intellect as light reveals an 
+object to the eye.  The reference is to Beatrice, the Heavenly 
+Wisdom, whom he is soon to meet upon the Mountain-top, `smiling 
+and blessed' in her clear vision of such high mysteries.  At the 
+name of Beatrice all Dante's weariness vanishes, and he urges his 
+Guide to hurry upwards, evidently thinking to see her before 
+nightfall.  Even yet he does not understand how great is the 
+purifying process necessary for the vision of the mysteries of 
+theology; and Virgil has to check his foolish hope by telling him 
+the sun will return before he climb far enough to see her.  As a 
+matter of fact, the sun returns thrice. 
+ 
+	|58-66.~  At this point the Pilgrims suddenly catch sight of a 
+solitary soul, to whom they make their way for information about 
+the path.  It is Sordello, the famous troubadour of Mantua, and 
+one of the most mysterious figures in the ^Commedia.~  Dante 
+appears to have had a great admiration of him as patriot and as 
+poet.  In the ^De Vulgari Eloquentia~ (i. 15), he speaks of him 
+as a man `distinguished by his eloquence not only in poetry but 
+in every form of speech.'  He represents him here as `all, all 
+alone' -- a proud solitary soul who had nothing in common with 
+the vulgar, unmannerly rabble which Dante had just shaken off 
+with so much difficulty.  His whole bearing is haughty and 
+superb, like a lion in repose: 
+ 
+                              O Lombard soul, 
+       How wert thou standing lofty and disdainful, 
+       And in the moving of thine eyes dignified and slow! 
+       Nothing whatever did it say to us, 
+       But let us go our way, eyeing us only 
+       After the fashion of a lion when he couches. 
+ 
+Browning's ^Sordello~ rises instinctively to the mind, but it 
+gives no help in the present passage.  It is almost purely 
+imaginary reconstruction of the troubadour's life and character, 
+of no value as history.  He regards him as Dante's forerunner, `a 
+herald-star' which the great Florentine absorbed into `the 
+consummate orb' of his own passionate genius.  Browning sets 
+himself the difficult task of `disentwining' the softer gleam of 
+Sordello from that `sea of glass mingled with fire' which is 
+Dante.  Whether he succeeds in this or not, the poem sheds no 
+light on the problem of Dante's admiration for Sordello, or why 
+he chooses him as guide through the Valley of the Princes.  The 
+little that is known of his life only deepens the mystery.  He 
+was born at Goito near Mantua in the beginning of the thirteenth 
+century.  The story of his life is far from pleasant reading.  In 
+early youth he was attached to the household of Ricciardo, Count 
+of S. Bonifazio, in Verona, who had married Cunizza, daughter of 
+Ezzelino II. da Romano.  Her brother, the terrible Ezzelino III., 
+instigated Sordello to run off with Cunizza to Treviso.  While 
+living there, he married a lady of the Strasso family; but this 
+did not prevent his carrying on an intrigue with Cunizza, on 
+account of which he was forced to flee to Provence to escape her 
+brother's vengeance.  Cunizza -- the Palma of Browning's 
+^Sordello~ -- is set by Dante in the Heaven of Venus in Paradise, 
+and this is probably her lover's final destination also (^Par.~ ix.
+13ff.).  We need not follow Sordello's wanderings from court to court
+of Spain, Portugal, Provence, and various parts of France.  It is 
+his connection with Charles of Anjou which brings him again into 
+relation with the narrative before us, and raises a very curious 
+problem.  By his marriage with Beatrice, youngest daughter of 
+Count Raymond Berenger, Charles became Lord of Provence, and 
+Sordello enrolled himself under his banner.  It seems certain 
+that when Charles, at the Pope's invitation, invaded Italy to 
+assume the sovereignty of Sicily and Apulia, Sordello accompanied 
+the army that went by land.  His relations with his master, 
+indeed, were not always of the most harmonious kind.  In one of 
+his poems he complains that he was `unfortunate in lord, love, 
+and lady'; to which Charles replied that he was ungrateful: `I 
+have always cherished and honoured him.  I have given him 
+substantial property and a wife of the kind he wished; but he is 
+a fool and a nuisance, and he would not be grateful if you gave 
+him a county' (see ^The Troubadours at Home~ by Professor Justin H.
+Smith, i. 269).  In 1266, the troubadour seems to have been in 
+prison at Novara, and the Pope thought him of sufficient 
+importance to interest himself for his release.  In a brief of 
+September 22 of that year, Clement IV. remonstrates with 
+Charles for allowing his faithful follower to lanquish in prison, 
+after the services he had rendered.  From this it has been 
+inferred that Sordello was present at the battle of Benevento in 
+the preceding February; and we know that when the spoils of war 
+were divided after the execution of Conradin, the last of the 
+Hohenstaufens, Sordello received as his share several castles in 
+Apulia.  This was in 1269, and in the same year, the troubadour 
+suddenly and mysteriously disappeared, and the castles passed 
+into the hands of others.  From the place assigned him in
+Ante-Purgatory it is evident that Dante believed Sordello died a 
+violent death, but under what circumstances seems to be 
+absolutely unknown.  His repentance at the last hour was probably 
+a fiction of Dane's imagination. 
+ 
+Now, there can be no doubt that this story of Sordello's 
+life leaves on our minds a totally different impression from that 
+produced by Dante's description of the man and his evident 
+admiration of him.  It is difficult to recognize in the restless, 
+wandering, licentious, unscrupulous troubadour and soldier of 
+fortune, the majestic form, with slow grave eyes as of a lion 
+couchant, which Dante here describes.  But the chief difficulty 
+springs from the fact that Sordello seems to be brought in as the 
+ideal of patriotism, in order to rebuke the factions which in 
+every city were destroying Italy.
+
+	|69-75.~  The reserved and haughty shade, instead of answering the
+poets' question about the shortest way up, asked them of their country
+and life; and when Virgil in reply began, `Mantua' -- Sordello,
+suddenly swept out of his proud reserve by the name of his own
+birthplace, 
+ 
+       Rose towards him from the place where first he was, 
+       Saying: `O Mantuan, I am Sordello 
+       Of thine own land!' and one embraced the other. 
+ 
+	|76-87.~  On seeing this, Dante suddenly broke into the famous
+outburst of patriotic sorrow and indignation, suggested by the contrast
+between this warm greeting of compatriots in the other world and the
+suicidal strife of Italy in this: 
+ 
+       Ah servile Italy, the hostelry of woe! 
+       Ship without pilot in so great a tempest, 
+       No Lady thou of Provinces, but brothel! 
+       That noble spirit was thus swift, only 
+       At the sweet sound of his own native land, 
+       To give its citizen glad greeting here: 
+       And now in thee abide not without war 
+       Thy living men, and one doth gnaw the other 
+       Of those whom one wall and one fosse enclose! 
+       Search, wretched one, all round about the shores 
+       Thy seaboard, and then look within thy bosom, 
+       If any part of thee enjoyeth peace! 
+ 
+When we remember Sordello's life, this seems utterly 
+inexplicable.  `Opening a career by abandoning his native land, 
+attaining to fame by singing in a foreign tongue on a foreign 
+soil, and enriched by fighting against Italy for a Gallic 
+oppressor, he became in Dante's poem the ideal patriot, the 
+embodiment of Italian aspirations' (^The Troubadours at Home~, i. 272). 
+Remembering Dante's opinion of Charles of Anjou and the whole house to
+which he belonged, it is quite impossible to believe that he meant to
+represent an Italian who fought for the French usurper as the ideal of
+Italian patriotism.  Assuming, as we must, that Dante 
+knew the facts, even his great power of idealization could not so 
+gloriously transfigure Sordello beyond recognition.  The 
+solution, however, is easy and natural if we bear in mind the 
+point of view which Dante here occupies, that, namely, of the 
+contrast between earth and Purgatory.  Here, he means to tell us, 
+is a man who during his earthly life was as unpatriotic as the 
+rest of his countrymen.  He took his share in its feuds and 
+factions, fought under the banner of a foreign invader, and 
+accepted from his hand his share of the spoils of war.  Now he 
+has passed into a world where all the sin and folly of such sins 
+against his fatherland is revealed to him.  It is an essential 
+part of his repentance, and the proof of its reality, that he 
+welcomes with great joy a citizen of the land he had so deeply 
+wronged; just as, a little farther up, it is proof of the 
+repentance of his lord, Charles of Anjou, that he lays aside the 
+feuds of earth and sings ^Salve Regina~ with Peter of Aragon, his 
+former enemy and rival for the dominion of Sicily (^Purg.~ vii. 124-
+126).  This appears to be the solution of what is otherwise
+inexplicable.  Sordello cannot possibly be Dante's ideal of Italian
+patriotism, else words lose all meaning.  He must have known perfectly
+that during his earthly life he spent his great powers in unpatriotic
+attempts against his country; and it is precisely this fact which gives
+point and emphasis to the change of spirit and attitude created by the
+revelation of the higher world into which he has entered.  From the
+standpoint of that new life he sees now the 
+sin of all the wrong he did his native land in thus selfishly 
+carving his own fortunes out of her ruin. 
+ 
+Sordello is one of three souls chosen to act as guides to 
+the Pilgrims in Purgatory, one for each of the three great 
+divisions of the Mountain: Sordello here in Ante-Purgatory, 
+Statius in Purgatory proper, and Matelda in the Earthly Paradise 
+on the top.  The need for them arises out of the limitations of 
+Virgil: at each great stage of the higher life, the natural 
+Reason of man requires the aid of souls who have had experience 
+of the means of purification.  The question remains, however, why 
+Sordello is here chosen for this task.  The first reason we have 
+already seen: the ardent love of country which his repentance has 
+kindled in his heart.  A second is undoubtedly his great 
+admiration of Virgil.  When he heard him say `Mantua,' Sordello 
+embraced him breast to breast; but when afterwards he said: `I am 
+Virgilius,' he bowed his brow, stooped, and embraced him `where 
+the inferior lays hold' -- by knees or feet -- exclaiming: 
+ 
+                    `O glory of the Latins, 
+       Through whom our language showed what it could do, 
+       O praise enternal of the place I came from, 
+       What merit or what favour shows thee to me?'
+                              (^Purg.~ vii. 16-19.) 
+ 
+It is partly for the same reason that Statius is chosen as guide 
+in Purgatory proper; just as, on the other hand, Dante parted 
+with the first among his friends, Guido Cavalcanti, because `he 
+held Virgil in disdain' (^Inf.~ x. 63).  The final reason, however,
+lies in the special region of the Ante-Purgatory through which the 
+Pilgrims are about to pass -- the Valley of the Princes.  The 
+guide here must be one who possessed some knowledge of the great 
+ones of the earth and of their characters.  Sordello had 
+sojourned in many courts, seen many princes and kings, and in his 
+famous poem on the death of Blacatz had courageously denounced 
+their vices.  This Blacatz was a rich baron of Aups in Provence, 
+himself a singer, and the most generous of friends and patrons. 
+The Lament attacks the ruling sovereigns and princes, from the 
+Emperor downwards, with extraordinary audacity, declaring that 
+the only remedy for the death of Blacatz would be to send his 
+heart through the nations that their `coward lords' might eat of 
+it and thus gain the courage of which it was full.  It is 
+generally believed that it was this Lament which suggested to 
+Dante the idea of making Sordello his guide through the Valley of 
+the Princes. 
+ 
+	|88-111.~  The beginning of the long and passionate burst of 
+lamentation over the condition of Italy which occupies the 
+remainder of this Canto, has been already quoted.  Dante proceeds 
+to lay the blame for its distracted state on both Pope and 
+Emperor.  He compares Italy to a horse for which in vain 
+Justinian made a bridle -- the laws which he codified.  The 
+`people that ought to have been devout' -- that is, the Popes, 
+whose duty it was to attend to things spiritual -- refused `to 
+let Caesar sit upon the saddle,' and insisted on holding the 
+bridle of law themselves, on exercising, that is to say, the 
+temporal power.  The result is that there being no Emperor in the 
+saddle to apply the spurs, the horse had grown into a vicious 
+`wild beast.'  The meaning grows clear when we turn to the 
+relations between Pope Boniface VIII. and the `German Albert,' 
+whom Dante proceeds to denounce, along with his `father Rudolph,' 
+for suffering Italy, `the garden of the Empire,' to become a 
+wilderness.  The election of Albert as Emperor in 1298 involved 
+him in a struggle with the spiritual power.  Boniface refused to 
+recognize his election, partly because his consent had not been 
+asked, and partly because he regarded him as a traitor and 
+regicide, inasmuch as he had slain his predecessor, the Emperor 
+Adolph.  `He even summoned him before his tribunal and forbade 
+the princes of the empire to look upon him as King of the Romans. 
+It is said that he received the German envoys seated theatrically 
+upon a throne, the crown on his head, and a sword in his hands, 
+and that he angrily exclaimed, "I, I am the Emperor"' (Gregorovius,
+^Rome in the Middle Ages~, v. 567, 568).  This claim of absolute power
+over kings and kingdoms Boniface set forth four years later in its most
+high-handed form in his famous Bull ^Unam Sanctam~: `We declare,
+announce, and define, that it is altogether necessary to salvation for
+every human creature to be subject to the Roman pontiff.'  This was
+directed against Philip the Fair of France, with whom he was in sharp
+collision over this very question.  Boniface now sought the aid of the
+man whom he had a few years before denounced as guilty of treason and
+regicide, and Albert made the most abject submission to him as his
+feudal superior.  `The Nuremberg Diplomas of July 17, 1303,' writes
+Gregorovius, `are the pitiable witnesses of the slavish subjugation of
+the imperial power to the Papacy.  The Roman King unblushingly admitted
+that the Pope alone bestowed the crown of empire, that the princes of
+the empire only possessed the 
+elective right in virtue of the power bestowed by him, that 
+everything that the empire and emperors possessed emanated from 
+the papal grace....  To such profound abasement did the imperium 
+sink in the person of the one-eyed and intellectually 
+insignificant son of Rudolph.  The head of the empire, the 
+successor of the Hohenstaufens, acknowledged himself as a vassal 
+of the Pope at the time when the King of France cited the latter 
+before a General Council, because he had pronounced the royal 
+power subject to the sacred chair' (Gregorovius, ^Rome in the Middle
+Ages~, v. 577).
+ 
+Yet for all this abject submission Albert never sat in 
+the saddle, never entered Italy; and for this long neglect of 
+both himself and his father Dante prays that a just judgment of 
+Heaven may fall upon his blood.  It is a prophetic reference to 
+his assassination by his nephew John in 1308.  (For other references to
+Albert, see ^Par.~ xix. 115-117, and ^Conv.~ iv. 3.  In the latter
+passage Dante declares Frederick II. the last Roman Emperor, in spite
+of the election of Rudolph, Adolph and Albert.)  It is necessary 
+to remember that these are the things which lie behind Dante's 
+denunciations of Pope and Emperor.  He summons `German Albert' to 
+come and see for himself the frightful state of civil disorder 
+into which his cowardly refusal to sit in the saddle had plunged 
+the country through Guelph misgovernment.  In the cities the 
+great families waged constant feud -- in Verona, the Montagues 
+and Capulets; in Orvieto, the Monaldi and Filippeschi.  Beyond 
+the cities let him come and see the persecution of his nobles, 
+his Ghibelline supporters, by the Guelphs, and `how secure is 
+Santafiora.'  These words are, of course, ironical.  Santafiora 
+was the territory of the great Ghibelline family of the 
+Aldobrandeschi in the Maremma.  In Dante's time it was held by 
+the Guelphs of Siena, who governed it so badly that it is said to 
+have been infested with robbers.
+
+	|112-117.~  But it was at Rome itself that Papal misgovernment
+revealed its most terrible results: 
+ 
+       Come and see thy Rome that weepeth, 
+       Widowed, alone, and day and night doth cry: 
+       `Caesar, why dost thou not companion me?' 
+       Come and see how much the folk love one another; 
+       And if for us no pity moveth thee, 
+       Come to shame thyself for thy renown! 
+ 
+The mournful picture drawn by Gregorovius of Rome in Dante's day 
+fully justifies the poet's indignant denunciations of Pope and 
+Emperor for the gross neglect of duty which made such a state of 
+things possible in the very seat of government.  `Rome resembled 
+a huge field, encircled with moss-covered walls, with tracts of 
+wild and cultivated land, from which rose gloomy towers or 
+castles, basilicas and convents crumbling to decay, and monuments 
+of colossal size clothed with verdure; baths, broken aqueducts, 
+colonnades of temples, isolated columns, and triumphal arches 
+surmounted by towers; while a labyrinth of narrow streets, 
+interrupted by rubbish heaps, led among these dilapidated 
+remains, and the yellow Tiber, passing under broken stone 
+bridges, flowed sadly through the ruinous waste....  Baths and 
+circuses were overgrown with grass, and were here and there 
+absolutely marshy.  Everywhere that the eye rested might be seen 
+gloomy, defiant, battlemented towers, built out of the monuments 
+of the ancients, with crenelated enceintes of most original form, 
+constructed of pieces of marble, bricks, and fragments of 
+peperino.  These were the castles and palaces of Guelph or 
+Ghibelline nobles, who sat thirsting for battle in ruins on the 
+classic hills, as though Rome were not a city but an open 
+territory, the possession of which was to be disputed in daily 
+warfare.  There was not a single nobleman in Rome at the time who 
+was not owner of a tower.  In deeds of the period the possessions 
+of the Romans in the city are occasionally specified as "towers, 
+palaces, houses, and ruins."  Families dwelt among ruins, in 
+uncomfortable quarters, barred by heavy iron chains, with their 
+relatives and retainers, and only now and then burst forth with 
+the wild din of arms, to make war on their hereditary 
+enemies' (Gregorovius, ^Rome in the Middle Ages~, v. 658-660).  When
+Rome was left `widowed' indeed by the removal of the Papal Court to
+Avignon in 1308 (this was the date of the formal resolution to remove
+the Papal Chair to Avignon; the Babylonish Captivity of the Church,
+however, is generally dated from 1305, the year of the election of
+Clement V., who never appeared in Rome at all), the state of the city
+and its neighbourhood sank to a still lower level.  `The absence of the
+Pope left the nobility more unbridled than ever; these hereditary
+houses now regarded themselves as masters of Rome, left without her
+master.  Their mercenaries encamped on every road; travellers and
+pilgrims were robbed; places of worship remained empty.'  Though Dante
+writes from the ideal standpoint of 1300, it must have been almost
+impossible for him to keep his knowledge of this later ruin from
+tinging his words here with a deeper indignation.  Indeed, we may go
+further and say that the passage contains a secret warning to Henry
+VII. of Luxemburg against the neglect of Italy of which his predecessor
+was guilty: 
+ 
+       O German Albert, who abandonest 
+       Her who has grown untamed and savage, 
+       And oughtest to bestride her saddlebows, 
+       May a just judgment from the stars fall down 
+       Upon thy blood, and be it strange and manifest, 
+       Such that thy successor may have fear thereof.
+                              (^Purg.~ vi. 97-102.)
+ 
+Now, Albert's successor was Henry VII., and if we assume that the 
+passage was written between the assassination of Albert in 1308, 
+and Henry's crossing of the Alps in 1310, its purpose may have 
+been to decide the new Emperor's hesitation in entering Italy. 
+When he did respond to the urgent invitation, `widowed' Rome gave 
+a sharp welcome to her Caesar.  In vain he fought his way from 
+barricade to barricade and from tower to tower, through the 
+streets; and after weeks of struggle had to content himself with 
+an irregular coronation in the Lateran instead of St. Peter's. 
+No wonder Henry asked the Romans indignantly if they had sent him 
+so many urgent letters and messengers in order to make him the 
+laughing-stock of the world.  (See Gregorovius' vivid account of the
+fighting in the streets of Rome, vi. 45-61 [English Translation].  If
+we take the almost ten steps of Beatrice in Canto xxxiii. 16-18 as
+years, and count them from 1300, the ideal date of the poem, we come to
+1309-10 -- the times when Henry may have been hesitating about coming
+to Italy.)  It is certainly a curious commentary on Dante's picture of
+the widowed city weeping for her Caesar, and complaining that he had
+left her alone and uncompanioned. 
+ 
+	|127-151.~  And then Dante turns suddenly on his native city with
+the bitterest sarcasm.  How keenly his Florence must enjoy this 
+castigation of others, he says, since she herself is so wise and 
+prudent that it cannot touch her.  Many others have justice in 
+their hearts, but her people have it on their very lips.  Many 
+others refuse the burden of public office, but her citizens cry, 
+`I submit to the burden,' without being asked.  Athens and 
+Lacedaemon, famous for their laws, were mere novices compared 
+with her, for the thread of law she spins in October snaps before 
+the middle of November: 
+ 
+       How, oft within the time of thy remembrance, 
+       Laws, money, offices, and customs 
+       Hast thou remodelled, and renewed thy members?'
+
+(Napier [^Florentine History~, ii. 626] does not agree with Dante's
+condemnation of these changes of laws: `A characteristic, and if
+discreetly handled a wise regulation of the Florentines notwithstanding
+Dante's sarcasms, was the periodical revision of their statutes and
+ordinances, a weeding out as it were of the obsolete and contradictory,
+and a substitution of those which were better adapted to existing
+circumstances and the forward movement of man.'  He admits, however,
+that the changes were made `sometimes facetiously': probably Dante
+would have substituted `generally' for `sometimes.')  {Florence} is
+like a sick woman who can find no rest on the softest down, and who
+turns and turns to ward off the pain, not knowing that change of
+position is unavailing when the fever is in the blood. 
+

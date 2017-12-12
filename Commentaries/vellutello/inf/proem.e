@@ -1,0 +1,94 @@
+	Havendo noi, oltre a la prefattione, e la
+vita & i costumi del poeta, ancora il sito con la forma e la
+misura d'ogni universale e particolare parte de lo Inferno
+descritto, Verremo hora (come par esser conveniente cosa) a
+l'espositione del testo cominciando dal presente primo canto de
+la prima cantica nominata Inferno da questa Latina dittione
+^Infra~, che significa ^di sotto.~  Nel qual primo canto esso
+poeta finge essersi nel mezo del corso de la vita humana, e nel
+tempo de la notte (quando la dritta via era da lui smarrita)
+ritrovato in una oscura selva, E che uscito di quella sul far del
+d@i, e giunto al piede d'un colle, vide (guardando in alto) le
+sue spalle gia vestite de' raggi del sole, perche, riposatosi
+alquanto, si mise in via per voler salir sopra di quello, Ma
+impedito (quasi al cominciar de l'erta) da tre diverse fiere, che
+li vietaron la salita, e facevanlo rovinar al fondo ne la
+oscurit@a de la selva, finge esser venuto al suo soccorso
+Virgilio, alqual domandato aiuto contra de la lupa, l'una de le
+tre fiere, esso Virg. dopo lungo sermone, li dimostra la pessima
+natura di tal fiera, e come volendo compar di quel selvaggio &
+oscuro luogo, convenirli tener altra via di quella, che haveva
+preso del colle offerendoseli per guida, e promettendo di
+condurlo prima per lo Inferno, poi per lo Purgatorio, &
+ultimamente da lasciarlo con Beatrice, che lo condurr@a al cielo. 
+Laqual offerta accettata da lui con richiederlo che la volesse
+essequire, si misero in camino.  Comincia'l testo adunque cosi,
+<Nel mezo del camin di nostra vita Mi ritrovai> e cet.  Ma per
+non lasciar alcuna cosa dubbia a dietro, prima che vegniamo
+all'espositione di quello, diremmo ancora, esser cosa manifesta,
+che l'autore, secondo lo stile di molti altri Poeti, parte questa
+sua prima Cantica in tre parti: propositione, invocatione, e
+narratione, come chiaramente veggiamo ancora che fa le due
+seguenti.  E la invocatione ogn'huomo intende esser dop@o il
+principio del secondo canto, & in questi versi: <O Muse, o alto
+ingegno, o mente, che scrivesti>, &c. {Dante ^Inf.~ 2.7-8}.  Ma
+dove la propositione, e la narratione cominci, sono state de gli
+espositori varie opinioni, perche alcuni hanno detto li primi due
+canti esser in luogo di prohemio, e che nel principio del terzo
+comincia la narratione.  Altri hanno inteso la propositione esser
+nel presente primo canto, & in questi versi: <MA PER trattar del
+ben ch'io vi trovai, Dir@o dell'altre cose, ch'io v'ho scorte.>  E
+la narratione nel seguente verso: <IO NON so ben ridir, com'io
+v'entrai.>  E questi si movono con qualche miglior ragione. 
+Nondimeno, e ne l'uno e ne l'altro modo, quando fosse, si
+verrebbe a prevertir l'ordine, perche nel primo la invocatione
+sarebbe contenuta ne la propositione, e ne l'altro verrebbe ad
+esser nel proceder de la narratione, ilqual inconveniente non @e
+da essistimare in un tanto Poeta.  Ma se diligentemente
+consideriamo ne' preallegati versi vedremo, che propone solamente
+voler dire, non del bene che trov@o ne la selva, ma de l'altre
+cose v'ha scorte, le quali, come vuol inferire, non son bene, per
+venir a trattar poi di quel tal bene che vi trov@o, e che vedremo
+esser la vera propositione non solamente di questa prima Cantica,
+ma di tutta l'opera insieme.  Viene adunque a dire de l'altre
+cose trovate da lui ne la selva, che non son bene, anzi male, ma
+cagioni, come vedremo, del bene del qual intende poi voler
+trattare.  Et il mal che vi trov@o si fu lo impedimento de le tre
+fiere, che non solamente li vietaron il salir del colle, ma lo
+faceano rovinar al fondo, se non fosse l'aiuto di Virgilio il
+qual dandoli a conoscer la pessima natura de la lupa, propone e
+dispone volerlo indrizzar al colle per altra via che per quella
+che era impedita da le fiere, Prima proponendo di condurlo per lo
+Inferno, accioche possa venir ne la cognitione de' vitij, Poi per
+lo Purgatorio, accioche conosciuti quelli se ne venga a purgare,
+Et ultimamente lasciarlo con Beatrice, che lo condurr@a al regno
+del Cielo, essendo per tal purgatione fatto habile a potervi
+salire.  E questo @e il bene che oltre a l'altre cose trov@o ne la
+selva, del qual in tutta l'opera vuol trattare, Onde nel secondo
+canto vedremo che essortandolo Virgilio a questa impresa dice:
+<El mio parlar tanto ben t'impromette> {Dante ^Inf.~ 2.126}. 
+Dop@o la qual propositione seguita, come habbiamo detto, nel
+secondo canto la invocatione, e dop@o quella immediate la
+narratione.  Sar@a adunque innanzi a la propositione posta la
+cagion di quella, la qual @e l'essersi il Poeta ritrovato nel
+mezzo del camin di nostra vita in oscura selva, e volendo, per
+uscir di tal oscurit@a, salir il colle, esserli impedito la salita
+da le tre fiere, e per questo, venuto al suo soccorso Virgilio,
+propone volerlo condur per altra via, la qual propositione
+intendiamo cominciar da questi versi: <OND'IO per lo tuo me'
+penso e discerno, Che tu mi segui, & io sar@o tua guida, E
+trarrotti di qu@i per luogo eterno, &c.>  La invocatione, come
+habbiamo detto, nel secondo canto: <O MUSE, o alto ingegno, O
+mente, che scrivesti> {Dante ^Inf.~ 2.7-8}.  Dop@o la qual
+immediate comincia la narratione in questo verso: <IO COMINCIAI,
+Poeta che mi guidi &c.> {Dante ^Inf.~ 2.10}.  Avenga che qu@i
+propriamente non cominci a trattar de l'Inferno, la qual per cosa
+vedremo, che sar@a nel principio del terzo canto: <PER ME si va ne
+la citt@a dolente, &c.> {Dante ^Inf.~ 3.1}.  Ma tratta de la sua
+dispositione al discender a quello, che @e parte de la narratione,
+onde veggiamo che il medesimo fa ancora ne la seguente Cantica
+innanzi che venga a trattar del Purgatorio, perche, secondo
+l'ammonitione di Catone, convien prima che Virgilio li lavi'l
+viso e lo ricinga d'uno schietto giunco &c. {Dante ^Purg.~
+1.94-96}.  Questo medesimo veggiamo che fa ancora ne la terza
+Cantica prima, che venga a trattar del Paradiso.

@@ -1,0 +1,958 @@
+|INFERNO CANTO 06~
+
+	|1  E come ch'io~ ecc.  Ecco Dante passato nel terzo
+cerchio.
+
+	Ma come fece a passar dal secondo al terzo?  Non dovea
+egli attraversar prima tutto il secondo e passar per attraverso
+la bufera infernale?
+
+	Egli pass@o appunto per questo mezzo, sebbene non si
+dica; perch@e @e facile intendere che Virgilio colse il momento
+in cui Dante era svenuto dalla piet@a verso i due cognati, per
+levarselo egli stesso sulle sue braccia e cos@i portarlo al di
+l@a in un baleno.  Se Virgilio non avesse fatto cos@i,
+difficilmente Dante avrebbe avuto il coraggio e la forza di
+attraversare il secondo cerchio, che era corso da s@i tremendi
+tifoni.  Fu un caso tutto simile a questo anche il passaggio di
+Acheronte. (Vedi il Canto III, nota 69).  Appena Virgilio l'ebbe
+deposto dalle sue braccia nel terzo cerchio, Dante ritorna nei
+sensi, si trova, con sua sorpresa, tra nuovi tormenti e
+tormentati, ond'egli si volge intorno ammirato, come fa
+naturalmente chi crede essere in un luogo ed @e invece in un
+altro.
+
+	Del resto si osservi che Dante, fiacco ancora nella
+virt@u, non pu@o affrontare opposizioni troppo gagliarde e troppo
+spaventose, e perci@o la Provvidenza lo viene ajutando a seconda
+di sua debolezza.
+
+	Quando Dante si sar@a fortificato nella via Purgativa, in
+cui si trova, allora egli sosterr@a opposizioni anche maggiori di
+questa, dietro i semplici consigli di Virgilio.
+
+	|2  I' sono~ ecc.  Prima dice dei tormenti, e poi dir@a
+dei tormentati.  I tormenti sono: 1.  Pioggia, ma di quelle
+terribili; perch@e formata da grandine grossa, da acqua sucida e
+da neve, cose tutte che rendono la pioggia maladetta, fredda e
+greve; e questa pioggia @e costante pel tempo, che dura sempre,
+ed @e costante nelle qualit@a, perch@e @e sempre formata dai
+detti elementi.  2.  Pantano puzzolente, in cui stanno ravvolti i
+tormentati.  3.  Un orribile cagnaccio che urla da tre bocche
+addosso ai miseri, e colle unghie gli sbrana.
+
+	Questo ^Cerbero~ @e un altro demonio, perch@e, come si @e
+detto, ogni cerchio @e a guardia di uno o pi@u demoni.  Si chiama
+Cerbero perch@e ha la figura di cane, e la mitologia chiama
+Cerbero quel cane, che anch'essa pose in Inferno a tormento dei
+dannati.  Si osservi bene la bellissima ipotiposi che descrive
+una cotal bestiaccia, che @e cane e non @e cane: @e cane, perc@he
+ha alcune parti da cane; non @e cane, perch@e ha pi@u di quello
+che hanno i cani: perci@o si dice ^diversa~, ossia mostro che
+aduna in s@e pi@u forme, le due predominanti delle quali sono
+cane nel ceffo, serpente nel corpo.  Ma perch@e si d@a per
+tormento ai golosi pioggia, puzza e cane?  Per dar loro una pena
+proporzionata alla colpa.  In sostanza con questa pena ammannisce
+loro un pranzo completo, ma assai disgustoso, in cui d@a per pane
+la grossa grandine, per vino l'acqua tinta, per gelatine la neve,
+per mensa la terra puzzolente, per canti gli urli di lor
+medesimi, per musicali accompagnamenti i latrati di un orrido
+cane, per balli il volgersi e rivolgersi nel fango, e per ultimi
+piaceri, le graffiature ed i laceramenti della fiera crudele, nel
+quale spasso, anche a questo mondo, vanno a finire i
+gastromaniaci, cio@e in baruffe ed accoltellate.
+
+	E perch@e finalmente i golosi sono pi@u profondati in
+inferno dei lussuriosi?  Certo perch@e il loro peccato @e
+maggiore, ed a pari circostanze @e maggiore sotto questi
+rispetti: 1.  Perch@e avvilisce pi@u l'uomo, come si vede
+apertamente, p. e. in un ubbriaco.  2.  Perch@e @e molto pi@u
+facile a vincerlo, che non la lussuria.
+
+	|3  Profani.~  Perch@e i golosi son detti profani?  Per
+alludere alla sentenza di san Paolo, che noi, non solo per
+l'anima, ma anche pel corpo, siamo templi vivi dello Spirito
+Santo.  Che fa la ingluvie di questo tempio?  Lo profana, lo
+insozza.  E poi, si dicono profani anche per alludere agli
+effetti della gola, la quale rese profano Esa@u, che per essa
+vendette la sua primogenitura, ch'era pur cosa sacra.
+
+	|4  Vermo.~  Perch@e Cerbero @e detto per antonomasia ^il
+gran vermo~?  Perch@e questo Cerbero dantesco @e precisamente il
+rappresentante di quel serpente che nel Paradiso terrestre
+ingann@o i nostri primi padri.  Questa @e la sola ragione, per
+cui @e detto il ^gran vermo~, o il gran serpente.  Perci@o vedete
+che questo demonio Cerbero, o questo serpente mostruoso, @e posto
+alla punizione dei golosi appunto perch@e esso fu che tent@o di
+gola i nostri progenitori, ed @e il vero demone della gola.
+
+	Tenetevi bene a mente questa verit@a, che viene
+comprovata da Dante stesso al Canto IX dell'^Inf.~, nota 42, per
+bocca dell'angelo che va ad aprire la porta di Dite.  Il
+ricorrere alla mitologia, come fanno tutti gli interpreti, per
+avere una spiegazione del Cerbero dantesco, @e una vera
+sciocchezza, perch@e il Cerbero di Dante non ha niente che fare
+col Cerbero dei poeti e colle sue avventure.
+
+	|5  Le bocche aperse~ ecc.  Le tre bocche, e i denti
+delle tre bocche.  I cani nell'ira contraggono sempre le labbra,
+onde apparisce la dentatura.
+
+	|6  Non avea~ ecc.  Si moveva tutto, come fanno i cani di
+guardia all'appressarsi di qualche straniero: s'avventano, si
+ritirano, vanno a destra a sinistra, fremono e si dibattono
+tutti.
+
+	Perch@e Cerbero fa tutto questo?  Per la stessa ragione
+di Caronte e di Minosse, detti di sopra, cio@e per opporsi al
+passaggio di Dante, all'uomo privilegiato dal cielo, e al bene
+che perci@o gliene veniva nell'anima, cosa che tanto incresce al
+demonio.  Notatelo bene.
+
+	|7  Distese~ ecc.  Trattandosi di una bestia, di un cane,
+di un gran vermo, Virgilio dovea regolarsi in modo diverso da
+quel che tenne con Caronte e Minosse, ch'erano di forma umana.
+Con quelli us@o parole e ragioni, con questo fatti, e fatti degni
+di un verme che vive di pantano, che gl'ingol@o a piene mani.
+Cos@i Virgilio tratt@o questo vermo, come vuole la ^Bibbia:
+Terram comedes~ (Gen.  III, 14).  Si noti che ^distese le sue
+spanne~, @e ablativo assoluto, guindi fra due virgole.
+
+	|8  Agugna.~  Agogna di mordere.
+
+	|9  Intende e pugna.~  @E tutto il far de' cani, che
+divorano l'ossa con intensione e con ringhio pugnace.
+
+	|10  L'anime s@i~ ecc.  Come mai tanto dolore da questi
+urli canini, se non fossero la personificazione dei latrati della
+loro coscienza, che si tiene cos@i continuo svegliata?
+
+	|11  Adona.~  Pesta e schiaccia.
+
+	|12  Ponevam le piante.~  Camminavano sui corpi dei
+dannati; perch@e il resto era tutto fangoso e molle s@i, che
+Dante vi si sarebbe tutto sprofondato.  Dio privilegia Dante, ma
+dove occorre.  Per esempio qui gliene fa uno, che @e un miracolo,
+ma gli @e necessario: desso @e il trovarsi sotto tanta pioggia,
+senza esserne tocco.  E le anime si risentono del calcar su loro
+che fa Dante?  No: perch@e il colpo delle piante era niente a
+confronto della grandine.  Si noti anche che esse stavano colla
+faccia nel fango, come si vedr@a.
+
+	|13  Persona.~  Dissi altra volta, che le ombre sono
+anime col corpo fatto d'aria condensata, che ha le fattezze del
+corpo lasciato in vita.
+
+	|14  Giac@en per terra tutte quante~, per la ragione
+addotta dal poeta di sopra: ^Dell'un de'lati fanno all'altro
+schermo -- Volgonsi spesso i miseri profani.~  Cos@i, mentre
+giaciono, non sono percosse dalla pioggia che da un solo lato,
+mentre se stessero ritte o sedute, sarebbero percosse da ambo i
+lati.
+
+	|15  Si lev@o~ ecc.  Perch@e si lev@o a seder, e non si
+lev@o ritta?  Perch@e sedendo, si ripara la persona pi@u che con
+esser ritto, nel caso in cui siamo.  Si noti il verso: ^Ch'ella
+ci vide~ ecc., che col suo metro indica passaggio.
+
+	|16  Se sai~, vuol dir ^di grazia.~  Risponde al ^se ti
+piace~, di cui fanno tanto abuso i Francesi anche oggid@i.
+
+	|17  Tu fosti~ fatto prima che io fossi disfatto.  Ci@o
+non vuol dire, tu nascesti prima ch'io morissi; ma tu fosti fatto
+uomo ed uomo capace di conoscermi, ossia quando io morii tu avevi
+una et@a da potermi conoscere.  Bello questo ^fatto~, perch@e i
+bambini non si ponno dire uomini fatti, ma solamente sono i via
+di farsi.
+
+	Fin che l'uomo non @e in caso di esercitare tutte le sue
+facolt@a, non pu@o dirsi uomo.
+
+	|18  Maggio.~  Antiquato; sta per maggiore.
+
+	|19  Ciacco.~  Ci aveano in Firenze a quei tempi, e
+continuarono anche molto dopo, delle compagnie di buontemponi,
+tutto il cui fare andava in divertimenti e conviti.  Si vede che
+questo Fiorentino portava tra loro la palma, perch@e lo
+contrassegnavano col nome di Ciacco (porco).
+
+	|20  Non son sola.~  Bisogna badar molto a questa notizia
+che Ciacco d@a a Dante per lui conosciuto.  Esso lo informa che
+tante altre anime stanno con lui nella medesima pena.  Qui
+appunto c'@e un dubbio da sciogliere.  Perch@e Ciacco porge a
+Dante la notizia di cosa, che Dante stesso poteva veder co'suoi
+occhi, e che aveva gi@a bene veduto?  Rispondo: che quelle anime
+^giacean per terra tutte quante~, come Dante disse di sopra, e
+Ciacco sapeva.  Stando dunque quelle anime cos@i, e in gran parte
+tuffate nel pantano, Ciacco credeva che fossero sfuggite alla
+vista di Dante.  Ciacco inoltre non sapeva che Dante per
+camminare in quei fangacci posasse i piedi sui dannati medesimi,
+e credeva ch'egli passasse sostenuto da un altro, ragion per cui
+avea cominciato con dire: ^O tu che se'per questo inferno
+tratto~: non condotto, ma tratto.  Perci@o, come a persona che
+non sa, gliene conta.
+
+	|21  Se tu sai.~  Anche questo vuol dir: ^Se ti piace, se
+vuoi~, come fu spiegato di sopra.  Anche qui un dubbio.  Perch@e
+Dante dimanda le cose future ad un dannato?  I dannati le sanno?
+Rispondo: Non importa il determinar se le sappiano o non le
+sappiano.
+
+	Quello che importa si @e se Dante loro attribuisca questa
+scienza; ed appunto Dante loro la attribuisce per i suoi fini
+poetici, cio@e per render pi@u vago e vario il suo poema con
+queste profezie, che sono bens@i di cose che si fingono future,
+ma in realt@a sono passate.
+
+	Dante stesso spiegher@a presto in altro Canto come sia
+che quest'anime preveggano, e fino a qual segno.
+
+	|22  Citt@a partita.~  Citt@a divisa in parti o fazioni
+di Bianchi e Neri.  E qui bisogna dare la storia di queste parti;
+che sat@a un po lunga, ma necessaria, perch@e spiega questo passo
+e infiniti altri che si troveranno nel poema.  Questa storia la
+trovo saggiamente compendiata da Cesare Balbo nella sua ^Vita di
+Dante~, vol. I, c. X, ed io la tolgo da lui come sta e giace,
+perch@e non si potrebbe far meglio.  <Il parteggiare (dic'egli)
+che segu@i in Firenze, in quasi tutta la Toscana, e in alcune
+citt@a all'intorno, non fu se non un suddividersi della parte
+guelfa; quel suddividersi che sempre succede di qualunque parte
+dopo qualche tempo di vittoria e baldanza, in puri e non puri,
+pi@u o meno esagerati.  E come pur succede sovente, i puri o pi@u
+esagerati ebbero, ajutati da fuori, la vittoria; e i meno puri,
+tacciati prima di parte contraria, poi condannatine e dispersi,
+si confusero in breve con questa.  Pochi anni durarono siffatti
+accidenti di parte guelfa, e i nomi di Neri e Bianchi
+incominciati nel 1300, gi@a dieci anni dopo pi@u non s'udivano,
+perduti di nuovo in quelli primitivi di Guelfi e Ghibellini.
+Quind'@e, che tal episodio avrebbe poco interesse, e sarebbe
+appena notato nella storia d'Italia, o nella Fiorentina stessa,
+se non vi si trovasse impigliato il nostro sommo autore; tanto
+che, dopo l'amore di lui, @e l'evento pi@u importante di sua
+vita, e quello a che pi@u sovente allude nel divino poema.>  --
+Detto dunque prima chi erano i Donati e messer Corso loro capo,
+le sue soperchierie contro i consorti, forso contro Dante suo
+affine, certo contro Guido Cavalcanti, il primo amico di Dante,
+segue cos@i a citare Giovan Villani: <Per le invidie si
+cominciarono tra cittadini le sette; et una principale et
+maggiore si cominci@o nel ^Sesto dello scandalo~, di Porta S.
+Pietro, tra quelli della casa dei Cerchi e la casa dei Donati.
+L'una parte si mosse per invidia, e l'altra per salvatica
+ingratitudine.  Della casa dei Cerchi era capo messer Vieri de'
+Cerchi; et elli e quelli di casa sua erano di grande affare
+possenti, et di grandi parentadi, et ricchissimi mercantanti; che
+la loro compagnia (cio@e ^casa di commercio~) era delle maggiori
+del mondo.  Huomini erano morbidi, salvatichi, e 'ngrati; siccome
+genti venute in piccol tempo in grande stato e potere.>  -- Dove
+nota quel nome di ^Sesto dello scandalo~, dato a quello de'
+Cerchi, e Donati e Dante.  E nota principalmente quel soprannome
+dato ai Cerchi di Selvatichi; il quale sia che fosse come a dire
+campagnuoli, inurbani, mal inciviliti, sia che pur venisse loro
+dalle selve di Val di Sieve, e del Pivier d'Acone, ond'erano
+originarj, fu dato loro cos@i generalmente, che da principio la
+parte loro fu pur chiamata la parte ^Selvaggia~, e cos@i ancor la
+chiama Dante.  -- <Vicini erano in Firenze et in contado; et per
+la conversatione della loro invidia con la bizzarra Salvatichezza
+nacque soperchio sdegno fra loro.>  -- E Dino Compagni: <Alcuni
+di loro comperarono il palagio de'conti Guidi, che era presso
+alle casa de' Pazzi e de' Donati, i quali erano pi@u antichi di
+sangue, ma non s@i ricchi.  Onde veggendo i Cerchi salire in
+altezza, avendo murato e cresciuto il palazzo, e tenendo gran
+vita, cominciarono avere i Donati grande odio contra loro.  Il
+quale crebbe assai, perch@e messere Corso Donati cavaliere di
+grande animo, essendogli morta la moglie, ne ritolse un'altra,
+figliuola di messer Accerito da Gaville, la quale era reda; ma
+non consentendo i parenti di lei, perch@e aspettavano quella
+redit@a, la madre della fanciulla, vedendolo bellissimo uomo,
+contro alla volont@a degli altri conchiuse il parentado.  I
+Cerchi parenti di messer Neri da Gaville cominciarono a sdegnare,
+e a procurare non avesse la redit@a, ma pur per forza l'ebbe.  Di
+che si gener@o molto scandalo, e pericolo per la citt@a, e per
+speziali persone.>
+
+	 -- A ci@o era quella inimicizia in sul principio del
+1300, quando ad accrescerla venne un'altra, non dissimile, da
+Pistoja.  Segue il citato Dino.  -- <Essendo in Pistoja una
+famiglia la quale passava per numero pi@u di cento uomini d'arme,
+non per@o d'antichit@a grande, ma di possanza, d'avere, e di
+persone quanto @e detto, e d'amicizia assai, li quali discesero
+d'uno ser Cancellieri notajo, e da lui aveano nome ritenuto
+Cancellieri, il nome di schiatta; di che ne discesero di due
+donne figliuoli che fecero lo numero in questo di centosette
+uomini d'arme, e l'una discensione fu della donna, che si chiam@o
+Madonna Bianca, e quelli che di lei scesero furono detti
+Cancellieri Bianchi; di che per opposito gli altri si dissero
+Cancellieri Neri ....  Addivenne, come il nemico della umana
+generazione vuole, che giuocando l'uno coll'altro, uno figliuolo
+di messer Guiglielmo Cancellieri Neri, il quale avea nome Lore,
+fed@i Petieri figliuolo di messer Bertacca Cancellieri Bianchi.
+Tornato messer Guiglielmo a casa, non facendo di questo stima
+grande, altro che di riprendere il figliuolo, disse: Va a messer
+Bertacca; e chiedigli perdono, e vuoglia pregare il figliuolo,
+che ancora perdoni egli arte; e mand@o seco un vicino, dicendo,
+che se simile a lui fosse intervenuto, si sarebbe contro al
+perdonare datto.  Il figliuolo ubbid@i al padre; giunse a casa di
+messer Bertacca, lo quale era addolorato del figliuolo ferito.
+Udito costui, disse: Tu fosti poco savio a venirci, e tuo padre a
+mandartici.  Di che essendo nella sua casa un terreno allato ad
+una sua stalla, ov'era una mangiatoja, lo fece prendere, e
+fecegli tagliare la mano, e dissegli: Porta la mano al tuo padre,
+che qua t'ha mandato.  Il giovane cos@i concio si part@i, e
+tornossi al suo padre.  Quando il padre il vide, allora, come
+ragionevolmente esser dovea di simile cosa, entr@o nell'arme egli
+ed i suoi; di che molte zuffe ne seguirono, e d'una parte e
+d'altra ne mor@i, e la citt@a di Pistoja se ne divise.>
+
+	 -- Fu in principio di quest'anno (1300) ch'ei (un tal
+fatto) produsse il suo mal effetto in Firenze, innestando la
+inimicizia de' Bianchi e Neri di Pistoja, e dando i nomi a quella
+de' Cerchi e Donati di Firenze.  Imperciocch@e essendo Firenze
+capo della Taglia Guelfa, ella esercitava la supremazia sulle
+citt@a minori di quella Taglia, e cos@i sopra Pistoja; ed ora,
+temendo non se ne turbasse la parte, ella prese la signoria di
+Pistoja, e chiam@o in Firenze stessa a confine i principali, e
+pi@u da temersi dei Cancellieri Bianchi e Neri.  -- <La parte de'
+Neri (segue Villani) si ridusse a casa Frescobaldi oltr'Arno; la
+casa de' Bianchi a casa Cerchi nel Garbo, per parentadi ch'aveano
+tra loro.  Ma come l'una pecora ammalata ammala l'altra et
+corrompe tutta la greggia, cos@i questo maladetto seme uscito da
+Pistoja, stando in Firenze corruppe tutti i Fiorentini, et
+partilli di sieme; che prima tutte le schiatte et casati
+de'nobili, appresso tutti i popolani si partirono, et chi
+favoriva l'una parte, et chi l'altra.  Per la qual cosa et gara
+cominciata, non che i Cancellieri per li Fiorentini si
+racconciassono insieme, ma i Fiorentini per li Cancellieri furono
+divisi e partiti, multiplicando di male in peggio.>
+
+	 -- Trovansi negli storici gli elenchi delle famiglie che
+seguirono la parte de' Cerchi, gi@a Selvaggia, ora de' Bianchi; e
+quelle che seguirono la parte de' Donati, ora de' Neri.  I quali
+tralasceremo come a noi meno importanti.  Ma giova l'osservazione
+del Villani che alla parte Bianca de' Cerchi oltre le nominate
+<s'accostarono altre case et schiatte di popolani et artefici
+minuti, e tutti i grandi e popolani ghibellini, et per lo seguito
+grande ch'aveano i Cerchi il reggimento della citt@a era quasi
+tutto in loro potere.>
+
+	 -- Cos@i mutandosi l'andamento solito delle due parti,
+per cui quasi sempre e per ogni dove Ghibellini erano i grandi, e
+Guelfi i popolani; qui all'incontro i popolani se non pi@u
+Ghibellini, ma meno Guelfi che i grandi.  Adunque <la parte
+guelfa (segue Villani) per tema che le dette parti non tornassero
+in favore dei Ghibellini, si mandarono a corte a papa Bonifatio,
+che ci mettesse rimedio.  Per la qual cosa il detto papa mand@o
+per messer Vieri de' Cerchi, et come fu dinanzi a lui, s@i 'l
+preg@o che facesse pace con messer Corso Donati, et con la sua
+parte, promettendoli di metter lui et suoi in grande et buono
+stato in Firenze, et di farli grazie spirituali, come sapesse
+addomandare.  Messere Vieri come che nelle altre cose fosse savio
+cavaliere, in questo fu poco savio, troppo duro e bizzarro, ch@e
+della richiesta dal papa nulla volle fare, dicendo: che non avea
+guerra con niuno; onde si torn@o in Firenze, e il Papa rimase
+molto sdegnato contro a lui, e contro a sua parte.>
+
+	Essendo poi cos@i a guardarsi l'una dall'altra le parti,
+ma non per anco rotta per niun fatto la guerra tra esse, e
+visitandosi gli uni gli altri, avvenne che si trovarono insieme
+in casa messer Vieri la mattina del 23 Aprile 1300 una moglie di
+messer Filippo, che era de' Bianchi, ed una moglie di Bernardo
+Donati.  Le quali sendo per esser messe a tavola l'una allato
+all'altra dalla moglie di messer Vieri, disse a questa il marito:
+<^Non far cos@i che non sono d'un animo.  Tramezza chi che sia.~
+Disse la moglie di Bernardo: ^Messere, voi fate una gran villania
+a far me o i mici di parte o nemici di persona; ed ho voglia di
+andarne fuori.~  Di che la moglie di messer Vieri disse: ^E tu te
+ne va~; e se non fosse messer Vieri che la prese, ella si partia.
+Ma non di meno, come femmina che poco us@o cortesia, disse: ^Ora
+m'avete fatta la seconda vergogna, ch'@e gran villania a cercare
+le donne.~  Messer Vieri, con tutto che fosse savio cavaliere,
+disse: ^Bene sono il diavolo le femmine~, e and@o pi@u oltre e
+lasciolla.
+
+	Torn@o a casa la donna, e disse pi@u l@a che non era
+stata la facenda.>
+
+	 -- Il marito venne a dolersene con messer Vieri, e
+disprezzato da esso e malmenato dagli altri di casa Cerchi,
+trovandone uno poi al ritorno presso a casa sua, lo assal@i col
+coltello, e ferillo alquanto: e cos@i, da un pettegolezzo
+femminile, venne il primo alterec e il primo sangue. --
+
+	<Sette giorni appresso il d@i di calen di maggio, e
+facendosi le feste consuete di donne e d'uomini, con pi@u balli
+sulla Piazza della chiesa di S. Trinit@a, v' arriv@o a cavallo
+una brigata di giovani de' Cerchi che erano armati perch@e si
+guardavano dai Donati, ed andavano per Firenze vedendo le feste.
+E stando a vedere cos@i a cavallo, sopravvenne una Brigata de'
+Donati, i quali o non riconoscendo di dietro i Cerchi, o appunto
+perch@e li riconoscessero, si spinsero loro addosso coi cavalli.
+Quindi a rivolgersi i Cerchi, e far rumore, e dal rumore
+all'armi, e alle ferite di parecchi; fra'quali a Ricoverino di
+messer Ricovero de' Cerchi fu mozzo il naso, ben non si seppe da
+chi, e fu taciuto da quei de' Cerchi stessi per farne poi pi@u
+sicura vendetta.
+
+	E perch@e anche i circostanti cittadini favoreggiando chi
+gli uni chi gli altri, s'erano messi nella mischia, ne rimase
+turbata tutta la citt@a.  -- Et come la morte di messer
+Buondelmonte il vecchio fu principio di parte guelfa et
+ghibellina, cos@i questo fu incominciamento di grande ruina di
+parte guelfa, e della nostra citt@a.  Et nota che l'anno dinanzi
+a queste novitadi erano fatte le case del Comune, che
+cominciavano al pie'del Ponte vecchio sopr'Arno, verso il
+castello Altafronte, et per ci@o fare si fece il pilastro a
+pie'del Ponte vecchio, et convenne che si rimovesse la statua di
+Marte; et dove guardava prima verso levante, fu rivolta verso
+tramontana, onde per l'augurio delli antichi fu detto: ^Piaccia a
+Dio che la nostra citt@a non abbia grande mutatione.~>
+
+	 -- Poco prima, o poco dopo questi due fatti un altro ne
+avvenne, il quale gi@a toccava pi@u presso a Dante.  Dicemmo la
+inimicizia di messer Corso Donati e Guido Cavalcanti, il quale
+naturalmente co'giovani che avean promesso d'essergli in ajuto
+(con essi probabilmente Dante) era ora della parte Selvaggia, o
+Bianca, e de' Cerchi.  Ed <essendo un d@i a cavallo con alcuni di
+casa Cerchi, con un dardo in mano spron@o il cavallo contro a
+messer Corso, credendosi esser seguito dai Cerchi per farli
+trascorrere nella briga; e trascorrendo il cavallo, lanci@o il
+dardo, il quale and@o in vano.  Era quivi con messer Corso,
+Simone suo figliuolo forte e ardito giovane, e Cecchino dei
+Bardi, e molti altri con le spade, e corsongli dietro; ma non lo
+giugnendo li gettarono de'sassi, e dalle finestre gliene furono
+gittati, per modo che fu ferito nella mano.  Cominci@o per questo
+l'odio a multiplicare.  E messer Corso molto sparlava di messer
+Vieri, chiamandolo l'^asino di porta~, perch@e era huomo
+bellissimo, ma di poca malizia, n@e di bel parlare, e per@o
+spesso dicea: ^ha vegghiato l'asino di porta.~
+
+	E molto lo spregiava, e chiamava guido ^Cavicchia.~  E
+cos@i rapportavano i giullari; e spezialmente uno si chiamava
+Scampolino, che rapportava molto peggio non si dicea, perch@e i
+Cerchi si movessono a briga co' Donati.>
+
+	(Dino Compagni).
+
+	 -- Aperta cos@i pubblicamente la guerra tra le parti, e
+pi@u forte facendosi nel governo la Bianca, pendente a
+Ghibellinismo, <i capitani della parte guelfa e il loro
+consiglio, temendo che per le dette sette et brighe parte
+ghibellina esultasse in Firenze (che sotto titolo di buono
+reggimento gi@a ne facea il sembiante, et molti ghibellini tenuti
+buoni huomini erano cominciati a mettere in su li uffici) et
+ancora quelli che teneano parte Nera, per ricoverare loro stato,
+si mandarono loro ambasciadori a Corte a papa Bonifacio a
+pregarlo che per bene della citt@a di Firenze, et di parte di
+Chiesa vi mettesse consiglio.  Per la qual cosa incontanente il
+papa fece legato a ci@o frate Matheo d'Acquasparta, Cardinale
+Portuense dell'ordine dei frati minori, et mandollo a Firenze del
+seguente mese (giugno) dell'anno 1300, e da' Fiorentini fu
+ricevuto a grande onore.> (Gian Vill.)
+
+	E qui Balbo intramezza l'avvenimento del Giubileo del
+1300, e provato che vi fu anche Dante, di questo cos@i ragiona,
+prima di riprendere la storia del legato di Acquasparta: <Se poi
+and@o Dante al giubileo, certo ei dovette essere nei primi sei
+mesi dell'anno anteriori al suo priorato.  E quantunque molto
+incerte restino le congetture aggiunte a congetture, tuttavia non
+mi tratterr@o di dire un mio dubbio: che delle due ambascerie
+mandate in questo principio del 1300 dai capitani di parte guelfa
+a papa Bonifacio, una pot@e essere esercitata da Dante.  Una tale
+della medesima parte gli vedemmo esercitare non un anno addietro.
+Ora poi nel suo priorato siamo per vederlo tutto guelfo ancora, e
+d'accordo col legato, ed imparziale tra le due suddivisioni
+Bianca e Nera; onde si fa molto probabile che in occasione di
+tale ambasceria a Roma egli assistesse al giubileo, e da quella
+tornasse appunto quando assunse il priorato.  Ad ogni modo certo
+@e da tutte le memorie che eletto egli dalle arti secondo gli
+ordini di giustizia del novantatr@e, entr@o priore add@i 15
+giugno (1300) e vi rimase due mesi secondo il costume.  (Qui
+nomina i cinque colleghi di Dante nel priorato).  Della qual
+elezione dice poi Dante stesso in una lettera, or perduta:
+<Tutti li mali e tutti gli inconvenienti miei dagli infausti
+comizj del mio priorato ebbero cagione e principio.
+
+	Del quale priorato, bench'io per prudanza non fossi
+degno, niente di meno per fede e per et@a non ne era indegn@o;
+perocch@e dieci anni erano gi@a passati dopo la battaglia di
+Campaldino ecc. ecc.  (Leon.  Aret. p. 53).
+
+	Giunto a Firenze, forse con Dante, certo di giugno, e
+cos@i all'intorno all'entrare di quei priori, il Cardinal
+d'Acquasparta legato di papa Bonifacio a far pace tra le due
+fazioni che dividevano la guelfa Firenze, ei vi fu ricevuto a
+grande onore.  Et lui riposato in Firenze, richiese al Comune la
+balia (potest@a straordinaria, e come dittatoriale) di pacificare
+insieme i Fiorentini; et per levare via le sette Bianca e Nera
+volle riformare la terra, et raccomunare di officj (cio@e darli
+senza distinzione di parte, mentre ora li vedemmo quasi
+esclusivamente di parte Bianca); et quelli dell'una parte et
+dell'altra, ch'erano degni di esser priori, mettere in sacchetti
+a sesto a sesto, et trarli di due mesi in due mesi, come la
+ventura venisse; che per le gelosie delle parti et sette
+incominciate ^non~ si faceva eletione dei priori per le
+cepitudini delle arti, che quasi la citt@a non si commovesse a
+subuglio, e tal hora con grande apparecchiamento d'arme.  Quelli
+della parte Bianca che guidavano la signoria della terra per tema
+di non perdere loro stato et d'essere ingannati dal papa e dal
+legato per la detta riformazione, presono il piggiore consiglio
+et non vollero ubbidire; per la qual cosa il detto legato prese
+sdegno e tornossi a corte, lasci@o la citt@a di Firenze
+scomunicata et interdetta.>
+
+	Cos@i il Villani; molto saviamente certo, per quanto
+possiam noi guidicare.  Ma nota che per questi che ^presono il
+piggior consiglio~ debbono intendersi i capi di parte Bianca, che
+avevano il sopravvento, ^che guidavano la signoria della terra~,
+e non forse i priori, o almeno non tutti.  I particolari di
+questo fatto del Cardinale, o almeno guelli che mettendolo in
+sospetto dei Bianchi signoreggianti fecero rigettar le
+proposizioni di lui, ci sono serbati da Dino Compagni, testimone
+e partecipe.  <Alla vigilia di S. Giovanni, e cos@i al nono d@i
+del priorato di Dante, andando l'arti a offerta, com'era usanza,
+e essendo i Consoli innanzi, furono manomessi da certi grandi e
+battuti dicendo loro: ^Noi siamo guelli che demmo la sconfitta in
+Campaldino, e voi ci avete rimossi dagli uffizi e onori della
+nostra citt@a.~
+
+	I signori sdegnati ebbono consiglio da pi@u cittadini, ed
+io Dino fui uno di quelli.  E confinarono alcuni di ciascuna
+parte (dal che vedesi che la baruffa tra le arti e i popolani e i
+grandi fu considerata, e fu veramente, tra Bianchi e Neri, tra
+Cerchi e Donati, avendo cos@i allora tre nomi ognuna delle parti)
+-- cio@e per la parte de' Donati messer Corso e Sinibaldo Donati,
+messer Rosso e messer Rossellino della Tosa, messer Giacchinotto
+e messer Pazzino de' Pazzi, messer Geri Spino, messer Porco
+Manieri e loro consorti, al castel della Pieve.  E per la parte
+de' Cerchi messer Gentile e messer Torrigiano, e Carbone de'
+Cerchi, Guido Cavalcanti, Baschiera della Tosa, Baldinuccio
+Aldimari, Naldo Gherardini, e de'loro consorti a Sarezzano, i
+quali ubbidirono e andarono ai confini.>
+
+	Ma gi@a qualche parzialit@a giusta o ingiusta, sembra che
+fosse in questa condanna, posciach@e era cos@i confinato messer
+Corso capo di parte Nera, e non messer Vieri capo di parte
+Bianca.  E quindi forse ci@o che segue:
+
+	<Quelli della parte de' Donati non si voleano partire
+mostrando che tra loro era congiura.  I rettori (sinonimo di
+priori) gli volevano condannare, e se non avessero ubbidito, e
+avessono preso l'arme, quel d@i avrebbon vinta la terra;
+perocch@e i Lucchesi (Guelfi vecchi e caldi) di coscienza del
+Cardinale veniano in loro ajuto con grande esercito di uomini.
+Vedendo i signori (altro sinonimo di priori) che i Lucchesi
+veniano, scrissono loro non ^fossono arditi entrare in su loro
+terreno.~  E io mi trovai a scrivere le lettere.  E alle villate
+si comand@o pigliassono i passi; e per studio di Bartolo di
+messer Jacopo de' Bardi tanto si procur@o che ubbidissono.
+
+	Molto si pales@o allora la volont@a del Cardinale, che la
+pace ch'egli cercava era per abbassare la parte dei Cerchi, e
+innalzare la parte dei Donati.  La qual volont@a per molti
+intesa, dispiacque assai; e pero si lev@o uno di non molto senno,
+il quale con un balestro saett@o uno quadrello alla finestra del
+Vescovado dove era il Cardinale, il quale si ficc@o nell'osse.  E
+per paura si part@i di quindi, e and@o a stare oltr'Arno a casa
+messer Tommaso de' Mozzi per pi@u sicurt@a.
+
+	I signori per rimediare allo sdegno avea ricevuto, gli
+presentarono fiorini MCCC nuovi, e glieli portai in una coppa
+d'ariento, e dissi: ^Monsignore, non li disdegnate perch@e sieno
+pochi; perch@e senza i consigli palesi non si pu@o dare pi@u
+moneta.~  Rispose: gli avea cari, e molto li guard@o, e non li
+volle.>
+
+	Finalmente prendiamo da Leonardo Aretino la
+partecipazione di Dante in tutto ci@o:
+
+	<Essendo la citt@a in armi, e in travagli, i priori per
+consiglio di Dante provvidero di fortificarsi della moltitudine
+del popolo; e quando furon fortificati, ne mandarono a'confini
+gli uomini principali delle due sette, i quali furono questi:
+messer Corso Donati, messer Geri Spini, messer Giacchinotto de'
+Pazzi, messer Rosso della Tosa ed altri con loro; tutti questi
+erano per la parte Nera, e furono mandati a'confini al castello
+della Pieve, in quel di Perugia.  Dalla parte dei Bianchi furono
+mandati a'confini a Serezzana messer Gentile, e messer Torrigiano
+de' Cerchi, Guido Cavalcanti, Baschiera della Tosa, Baldinuccio
+Aldimari, Naldo di messer Lottino Gherardini ed altri.
+
+	Questo diede gravezza assai a Dante; e con tutto che esso
+si scusi (certo nella medesima lettera or perduta, di che
+riferimmo test@e l'altro squarcio) come uomo senza parte,
+nientedimeno fu riputato che pendesse in parte Bianca;....  E
+accrebbe l'invidia perch@e quella parte di cittadini che fu
+confinata a Serezzana, subito ritorn@o a Firenze; e l'altra che
+era confinata a Castello della Pieve si rimase di fuori.  A
+questo risponde Dante (certo pur nella detta lettera) che quando
+quelli di Serezzana furono rivocati, esso era fuori dell'ufficio
+del priorato e che a lui non si debba imputare.  Pi@u dice: che
+la ritornata loro fu per la infirmit@a e morte di Guido
+Cavalcanti, il quale ammal@o a Serezzana per l'aere cattivo, e
+poco appresso mor@i.>
+
+	Anche il Villani mostra che ambe le parti furono
+richiamate, bench@e prima e per la ragione detta, la Bianca.
+<Questa parte stette meno ai confini; che furono revocati per lo
+infermo luogo; et tornonne malato Guido Cavalcanti, onde morio.
+Et di lui fu gran dannaggio, perciocch@e era, come filosofo,
+virtudioso huomo in molte cose.>
+
+	Del resto la scusa di Dante non @e forse compiuta,
+potendo essere che egli, anche uscito di priorato, ajutasse con
+parzialit@a l'amico suo.  Ma tal ajuto dato fuori d'ufficio, fu
+ad ogni modo men colpevole.....  Tra tali contese e tali zuffe
+finiva in Firenze l'anno ultimo del secolo XIII, n@e diversamente
+incominciava poi il seguente.
+
+	Fin qui ho recato quasi tutto il cap. X del Balbo, e
+dovea fare cos@i, perch@e si trattava di conoscere appieno le due
+parti Bianca e Nera fino dalla sua origine.  Ora che abbiamo
+imparato a conoscerle, baster@a che compendiamo gli avvenimenti
+dai primi del 1301 sino alla venuta di Carlo Valois.  Eccoli
+tolti dai cap. XI e XII.
+
+	 -- Del mese di gennajo 1301 i Cerchi ritornando di villa
+hanno una zuffa coi Donati presso alla villa di questi, perci@o
+si condannarono alcuni Cerchi e alcuni Donati.  Intanto alcuni
+de' Cerchi rimasti liberi sono avvelenati, e se ne d@a la colpa a
+Corso Donati.
+
+	Di qui nuovi odj contro questi.  I Cerchi approfittano di
+questi odj, e si accostano pi@u a' popolani e veggenti.
+S'ingrossa in modo la loro parte contro i Donati, che si eccitano
+a prender la signoria, ch'essi per@o rifiutarono.  I donati al
+veder crescere i Cerchi ed essi perdere ogni d@i pi@u, si
+accordano di chiedere al papa un nuovo piacere.  Questo accordo
+si chiama congiura di S. Trinita dal luogo dove fu fatta.  Forse
+si congiurava anche di far venire col mezzo del Papa Carlo di
+Valois.  In questa congiura c'@e pur Dino Compagni, il quale par
+ci sia per dissuaderne il progetto; poich@e prima di finir la
+raunata dice: <Signori, perch@e volete voi confondere e disfare
+una cos@i buona citt@a?  Contro a chi volete pugnare?  contro a'
+vostri fratelli?  che vittoria avete?  Non altro che pianto.>  La
+raunata risponde: <Che il lor consiglio non era che per spegnere
+scandalo, e stare in pace.>  Quindi Dino va con Lapo di Guaza
+Ulivieri e con altri della raunata ai Priori (Dante n'era uscito
+da alcuni mesi) per amicarli con quelli di S. Trinita.  Ma i
+Priori si sdegnano.  Indagano la congiura e condannano alcuni,
+fra quali Corso Donati confinato a Massa Trabaria.  Questi rompe
+il confine, con altri va a Roma dal Papa per accelerare la
+chiamata di Carlo.  Ne sono avvisati i Priori, e lo condannano
+negli averi e nella persona.
+
+	Cos@i i Bianchi cacciano i Neri e restan soli al potere.
+
+	I Bianchi si fortificano attirando alla loro parte
+Pistoja, e vi mandano a reggerla de'loro Bianchi, e tra i Bianchi
+scelgono gli anziani.  Quindi cacciate di Neri anche da Pistoja.
+Bonifacio VIII stimolato da Corso e da Spini, trattava con
+Filippo il Bello, che giacch@e Carlo suo fratello andava in
+Sicilia, andasse pure da paciere in Toscana.  Sel sa a Firenze,
+ed i Bianchi che allor teneano tutti gli uffici stanno in
+apprensione.  Carlo @e gi@a a Bologna.
+
+	Gli esuli Neri di Firenze gli si presentano dicendo:
+<Signore!  merc@e per Dio.  Noi siamo i Guelfi di Firenze, fedeli
+della casa di Francia: Per Dio prendi guardia di te, e della tua
+gente.>  Partiti i Neri, gli si presentano i Bianchi per tirarlo
+dalla lor parte.  Invano.
+
+	Carlo lascia per ora Firenze e va a Roma.  I Guelfi Neri
+gli son d'attorno e lo stimolano all'andata di Firenze.  Anche i
+Guelfi Bianchi di Firenze s'ingegnarono a Roma presso Carlo per
+ambasciatori, tra quali Dante in cui molto si confidava, e che
+vedeva il male e dall'una e dall'altra parte.  Va senza dire che
+Dante si opponeva all'intervento di Carlo.  Il papa convoca a s@e
+gli ambasciatori Bianchi e cos@i (secondo Dino Compagni) parla:
+<^Perch@e siete voi cos@i ostinati?
+
+	humiliatevi a me, ed io vi dico in verit@a, che io non ho
+altra intenzione, che di vostra pace.  Tornate indietro due di
+voi e abbiano la mia benedizione, se procurano che sia ubbidita
+la mia volont@a.~  Intanto che il papa tratta cogli ambasciatori
+a Roma, si pensa in Firenze di rimediare alle discordie facendo
+nuovi Signori d'accordo con Bianchi e Neri.  Nessuna per@o di
+queste parti era sincera, meno ancora i Bianchi che miravano solo
+ad acquistar tempo.  Intanto a Roma si combin@o tutto con Carlo
+da parte dei Neri che lo assoldarono per 10 mila fiorini.
+
+	Giunge a Siena.  Di qui manda a Firenze suoi
+rappresentanti.  Giunti dicono ai Signori: <Che il sangue reale
+di Francia era venuto in Toscana solamente per mettere pace nella
+parte di santa Chiesa, e per grande amore che alla citt@a
+portava, e a detta parte, e che il papa il mandava siccome
+signore, che se ne potea ben fidare; per@o che il sangue della
+casa di Francia mai non tra@i n@e amico n@e nemico.  Il perch@e
+dovesse loro piacere venisse a fare il suo ufficio.>  Oratori
+sopra oratori fiorentini vogliono qui parlare e persuadere di
+accettar Carlo, ma i Signori nol permettono.  Gli ambasciatori
+s'accorgono che i pi@u de' Fiorentini vogliono Carlo, e scrivono
+a lui che la parte dei Donati era grande, piccola quella de'
+Cerchi.  I Signori rispondono agli ambasciatori di Carlo, che gli
+manderebbero un'ambasciata.  Quindi ragunano il consiglio
+generale dei 72 mestieri, che avean tutti i loro consoli.
+
+	Questi, salvo i fornaj, danno il loro voto che <fosse
+lasciato venire, e onorato fusse come signore di nobile sangue.>
+Si mandano ambasciatori adirglielo, ma a patto che non usurpasse
+nessuna giurisdizione.  Prima di sua venuta, Dino raccoglie i
+capi al battistero di S. Giovanni, e li fa giurar pace tra loro,
+perch@e Carlo non li trovi divisi.  Molti giurarono, perch@e
+giuravano gli altri, ma erano di fede contraria.
+
+	Mentre in Firenze avvengono questi fatti Dante @e a Roma
+cogli altri ambasciatori.  Egli non vedr@a pi@u Firenze.
+
+	Ad@i 1.+o~ novembre 1301 Carlo entra in Firenze, e i Neri
+con lui, da tutte parti a quattro, a sei, a centinaja per volta,
+sicch@e tra questi e i suoi si trova con mille dugento cavalli.
+Smonta oltr'Arno in casa Frescobaldi (contro il costume e contro
+gli inviti) e vi si fortifica.  I Priori per non esser sospetti,
+eleggono un consiglio di quaranta d'ambe parti.  Si arringa per
+decretar il richiamo dei Neri.  Uno dei pi@u caldi oratori @e
+Lapo Salterelli, che avea nascosto in casa Pazzino de' Pazzi un
+Nero confinato.  Un altro volea che fosser dimessi i Priori.  In
+questo ritornano da Roma i due ambasciatori colleghi di Dante, e
+Dante resta a Roma.  Riferiscono le parole del papa in consiglio,
+che determina di ubbidirgli; e subito gli scrivono che mandasse
+il cardinal Gentili da Montefiore.  I Neri veggono vinta la loro
+causa, ma invece di secondare il papa nelle mire pacifiche, si
+danno a vendette, e mettono a sacco la citt@a.  I Priori ne
+scrivono al papa; ma cercano subito di rimediare all'interno
+dimettendosi, e facendo creare altri sei Priori, tre per parte,
+ed il confaloniere.
+
+	I Neri intanto si armavano ognora pi@u, ed ingrossavano
+di quei di dentro e di fuori, apparecchiando una grossa guerra ai
+Bianchi.  I Bianchi invece viveano in tema e non ardivano armarsi
+tanto.  I Neri ad@i 4 novembre per poter far guerra ai Bianchi a
+sicurt@a davano loro parole d'amicizia.  I Medici cominciarono i
+primi con un ferimento ad Orlanduccio Orlandi, e non ne sono
+puniti dai Priori.  Viene la notte e ciascuno si asserraglia in
+casa.  Carlo vuol puniti i Medici malfattori e chiede quindi le
+porte della citt@a a sua guardia.  Si levano quindi i Fiorentini,
+e si mettono i Francesi; ma prima Carlo giura: <Che riceveva la
+guardia della terra sopra a s@e, e guardarla e tenerla a
+petizione della Signoria.>  Carlo rompe la fede, e quella stessa
+notte riceve per la porta molti sbanditi.  Intanto si andava per
+le case invitando ad armarsi per il giorno seguente.  I Priori
+erano abbandonati soli nelle loro case, e il popolo senza capo.
+Quel d@i giunge a Firenze Corso Donati, gi@a condannato, con
+alquanti soldati.
+
+	I Priori ed il Capitano volevano incontrarlo e prenderlo;
+ma Vieri lo impedisce.  Corso si schiera nella Piazza e gli si
+accresce il seguito: va alle carceri e delibera i prigioni; poi
+va ai Priori e li fa rinunciare.  Dino Compagni @e un dei Priori
+cacciati in quel giorno.  Lapo Salterelli consiglia che si
+consegnino a Carlo i capi delle due parti.  Ma Carlo ritiene i
+Bianchi e rilascia i Neri.  Si suona la campana grossa di
+palagio, ma nessuno accorre, tranne alcuni Aldimari, che
+vedendosi soli ritornano.  Ad@i 5 la citt@a @e senza magistrati.
+I Bianchi si nascondono per le case de'loro amici: l'uno offendea
+l'altro: le case ardeano: si rubavano.  I Neri voleano danari dai
+Bianchi: maritavansi le fanciulle a forza: uccideansi uomini: e
+quando una casa ardea forte Carlo dimandava: Che fuoco @e quello?
+
+	Era un palazzo, e gli si diceva una capanna.  Questo
+tenore dur@o giorni 6.  Il contado ardea d'ogni parte.  Ad@i 7 si
+rauna un nuovo consiglio sotto un nuovo capitano.  S'invocano
+tutti i Santi, e si fan proteste di devozione al papa, alla
+Chiesa, a Carlo Valois, e si creano 6 Priori ed il gonfaloniere,
+tutti con piena balia, e tutti Neri.  Entrano in ufficio agli 11
+novembre e pochi d@i appresso eleggono a podest@a Cante Gabrielli
+da Gubbio.  Questi ripara a molti mali, e molti permette.  Niuno
+per allora fu cacciato, ma naturalmente uscivano volontarii dei
+perseguitati, e rimanevano fuori coloro che vi si trovavano.
+
+	Cos@i fu di Dante, che finita l'ambasciata, resta a Roma
+a udir tali orrori.  Li ode anche il papa e manda il cardinal
+d'Acquasparta a moderare i Neri, come l'anno innanzi era venuto
+inutilmente a moderare i Bianchi.  Egli viene e riesce in alcune
+paci, e stringe matrimoni fra nemici.  Vuole raccomunar gli
+uffici, ma s'oppongono i Neri come l'anno innanzi s'opponeano i
+Bianchi.  Parte, lasciando la citt@a sotto interdetto.  Lui
+partito le paci non durarono.  Ad@i 25 dicembre Nicola de' Cerchi
+Bianchi viene assalito sulla piazza S. Croce da Simone figliuolo
+di Corso Donati suo nipote per madre.  Muore Nicola, ma la notte
+appresso muore anche Simone per ferita in quell'assalto.
+
+	D'allora in poi s'inaspriscono pi@u le parti, e bench@e
+non si facesse ancora una cacciata generale de' Bianchi,
+continuano ed accrescono le condanne di taglie e, non pagando,
+d'esilii.
+
+	Al principio del 1302, Carlo va per poco a Roma, e
+intanto in Firenze si ordina una congiura per ucciderlo.
+Ritornato, raduna un consiglio di pochi e si determina di far
+tagliar la testa ai colpevoli che si nominano.  I congiurati ne
+hanno avviso e fuggono.  Carlo gli condanna per contumaci e arde
+le loro case.  Si fa una gran cacciata di Bianchi ai primi d@i
+aprile 1302, fra questi Dante, che era a Roma; furono in tutti
+pi@u di seicento.  Dopo di che Carlo lascia definitivamente
+Firenze in mano de Neri, principalmente dei due Corso Donati e
+Rosso dalla Tosa, i quali poi si suddividono nuovamente.
+
+	|23  Dopo lunga~ ecc.  Dopo mille angherie, e
+provocazioni, e bazelli, e bandi, Bianchi e Neri verranno a
+guerra aperta, e i Bianchi (parte selvaggia, perch@e il pi@u
+composta di capi di gente nuova e venuta di contado, cresciuta
+poi in ricchezze e potenza pi@u che i Neri, di pi@u antico sangue
+cittadino, ma di minori ricchezze) cacceranno i Neri.  Capo dei
+Bianchi era Vieri dei Cerchi, venuto dal Pivier d'Acone, e dai
+boschi di Val di Nievole: e capo dei Neri era Corso Donati affine
+di Dante.  Dante apparteneva ai Bianchi.  @Si gli uni che gli
+altri per@o erano Guelfi.  Vedi Nota 22.
+
+	|24  Questa~ ecc.  La parte Bianca, prima vittoriosa
+sulla Nera, cadr@a anch'essa fra tre anni, e la Nera ripiglier@a
+animo e forza sulla Bianca, la qual parte Nera sar@a ajutata da
+Carlo di Valois fratello di Filippo il Bello re di Francia, che
+@e presso a venire (^che test@e piaggia~, ossia che @e presso a
+piaggia, dove giunti i legni son presso a sbarcar la gente~).
+Vedi Nota 22.
+
+	|25  Alto terr@a~ ecc.  I Neri si conserveranno in istato
+contro i Bianchi per lungo tempo (vedi la storia della Nota 22,
+massime verso il fine) e tratteranno molto male i Bianchi negli
+averi e nelle persone, delle quali, senza le uccise, le sole
+mandate ai confini o bandite saranno oltre 600, fra le quali
+Dante.  Cos@i queste andranno pel mondo a piangere ed a chiamarsi
+adontate.  Dante dovette piangere ed adontarsi sino alla morte,
+perch@e non gli fu mai fatta grazia di ritorno, anzi fu rinnovata
+la sua condanna, pena la vita se ritornava.
+
+	|26  Due.~  Dante e Guido Cavalcanti.  Questi fu il primo
+amico di DAnte, che dai disagi sofferti in esiglio a Serezzana,
+appena ripatriato dopo il priorato di Dante, mor@i.  (Rammenta le
+lodi che di lui fa Giov. Villani nella Nota 22.  Qui DAnte parla
+di tutta la parte Bianca.  Rammenta anche quel che Dante dice di
+s@e nella lettera or perduta, di cui nella Nota 22).
+
+	|27  Farinata~ ecc.  Siccome queste persone sono in altre
+parti pi@u profonde d'Inferno, cos@i se ne dir@a mano mano che si
+troveranno.  Un dubbio.  Tutte queste persone si lodano (^Fur s@i
+degni -- A ben far poser gl'ingegni~); come dunque li pone in
+Inferno, e assai pi@u sotto di qui?  Rispondo: perch@e se aveano
+di gran virt@u, aveano pure di gran vizj.  Gli avranno pianti
+prima di morire?  Questo @e quello che Dante non sa, e che
+vorrebbe sapere.  E infatti ha saputo quanto basta: ha saputo che
+sono morti impenitenti.  Che giova la virt@u civile senza la
+cristiana?
+
+	Vedi su ^Tegghiai~' cos@i scritto, ^Par.~ XXVII, 142, N.
+75.
+
+	|28  Pregoti~ ecc.  Perch@e Ciacco prega che Dante lo
+faccia sopravvivere nella memoria dei posteri?  Rispondo: appunto
+perch@e dannato non pu@o desiderare che questo: s'egli fosse in
+cielo non se ne curebbe.  I dannati sono nella morte eterna;
+piuttosto di questa vorrebbero la intera distruzione, ma non la
+possono ottenere.  Essi dunque debbono vivere eternamente in
+morte.  Ma il sentimento della vita @e pure un istinto che da lor
+non si perde: in mancanza dunque di quel che non ponno avere al
+mondo di l@a, desiderano almeno quella vita che @e lor concessa
+al mondo di qu@a per la fama.  Vedremo che questo sar@a il
+desiderio di tutti.
+
+	|29  Gli diritti~ ecc.  La guardatura umana la cangi@o in
+torva e feroce.
+
+	|30  Cadde~ ecc.  Ciacco chin@o la testa e cadde: dunque
+egli cadde per dinanzi, e cos@i tuff@o la faccia e non
+l'occipizio nel fango; e come era lui, cos@i erano gli altri (^a
+par degli altri~); i quali perci@o erano ciechi, perch@e aveano
+gli occhi dentro la melma.
+
+	Era anche in loro pi@u naturale questa, che altra
+positura, salvando cos@i il dinanzi della persona, perch@e le
+parti anteriori di noi sono pi@u sensibili che le deretane.  @E
+vero che si volgono spesso, come si disse di sopra (^volgonsi
+spesso~), ma questo non @e un riversarsi.
+
+	|31  Di qu@a dal suon~ ecc.  Prima del suono.  Non si
+desta pi@u sino alla fine del mondo, quando verr@a Ges@u Cristo
+con piena podest@a a giudicare i vivi ed morti, cio@e i buoni ed
+i rei.
+
+	|32  Ciascun~ di questi dannati.
+
+	|33  Udir@a~ ecc.  La sentenza di eterna maledizione, che
+risuoner@a continuo alle loro orecchie.
+
+	|34  Trapassammo~ ecc.  Sempre per@o ponendo le piante
+sull'ombre che erano sozze dalla pioggia.  L'andamento del verso
+fa sentire quello della persona.
+
+	|35~  Perch@e ^a passi lenti~?  Perch@e dovea Dante esser
+guardingo nel por le piante, dovendole por sulle Ombre, e perch@e
+si camminava discorrendo.  Quando si discorre, massime di cose
+serie, sempre si va a rilento.  Fin che si ragiona non si pu@o
+correre.  Vedremo che quando Dante deve affrettarsi non parla
+mai.
+
+	|36  Toccando.~  Discorrendo un poco della vita futura,
+che era il discorso che gli venia facendo Virgilio.  Si noti che
+la poesia veramente grande dee dilettare ed istruire: ^Omne tulit
+punctum qui miscuit utile dulci.~  (Oraz. Poet.)  A ci@o
+massimamente dee prestarsi la ^Divina Comedia~, che @e un viaggio
+ascetico.
+
+	|37  Minori~ ecc.  Cio@e, saranno maggiori, minori o
+equali?
+
+	|38  A tua scienza.~  Alla filosofia, che tu hai
+imparato, alla scienza di Aristotele.
+
+	|39  Pi@u perfetta.~  Pi@u completa nel suo essere, cio@e
+avente tutte le sue parti, che naturalmente la costituiscono.
+Qui la cosa @e l'uomo, il quale @e un composto di anima
+ragionevole e di corpo.  Egli ha da esser rimeritato sia
+nell'una, come nell'altra parte, perch@e con entrambi fece il
+bene o il male.  Queste pene dunque cresceranno dopo la gran
+sentenza, perch@e l'uomo allora avr@a anche il corpo, che ora non
+ha che fittizio.
+
+	|40  In vera~ ecc.  Perch@e non va in vera perfezion?
+Perch@e il dannato, alla fine del mondo, acquista bens@i anche
+l'altra parte integrante di s@e stesso, che @e il corpo, ma la
+acquista non per suo bene, ma per suo male: e perci@o l'acquisto
+ch'egli fa del corpo, non si pu@o dire vera perfezione; perch@e
+la vera perfezione inchiude un bene che non fa pei dannati.  La
+vera perfezione l'acquisteranno soli i beati, perch@e questi
+ricuperando il corpo, lo ricuperano a gioja, mentre i dannati lo
+ricuperano a tormento.
+
+	|41  Di l@a~ ecc.  Questa gente aspetta essere pi@u di
+l@a della sentenza finale, che di qu@a da essa.  Cio@e, dopo la
+fine del mondo i dannati avranno quello (corpo) che non hanno
+adesso, e quindi avranno un essere maggiore allora, che adesso,
+onde allora saranno impropriamente perfetti, e quindi sentiranno
+pi@u dolore, secondo che insegna la tua filosofia.
+
+	|42  Aggirammo~ ecc.  I poeti passati al di l@a del
+cerchio dei golosi ne radevano l'orlo.  Perch@e non passarono
+subito al quarto cerchio, ma invece girarono lungo quest'orlo?
+Perch@e il passo dal terzo al quarto cerchio non era qui, ma
+altrove, e quindi bisognava girare fin che si fosse trovato il
+guardiano di quel cerchio.  Il giro @e a sinistra, come sempre in
+Inferno.
+
+	|43  Pluto~ ecc.  Ecco il guardiano del cerchio degli
+Avari e Prodighi.  Egli @e un demonio secondo il solito, col nome
+di Plutone, che secondo la mitologia era Dio d'Inferno e delle
+ricchezze.  Perch@e Plutone si dice ^il gran nemico~?  Perch@e la
+cupidigia dei beni terreni @e il vizio pi@u universale dell'uomo,
+quello che pi@u d'ogn'altro gli impedisce il cammino della
+virt@u, e pi@u d'ogn'altro lo trascina all'Inferno.  Si rammenti
+la prepotenza della lupa nel I Canto, che si combina molto bene
+con ^il gran nemico.~  Anche questo infernale guardiano si
+opporr@a al passaggio di Dante, come vedemmo fare sin qui agli
+altri guardiani: e la ragione dell'opporsi @e sempre la stessa,
+cio@e il gran bene spirituale del viaggio ascetico.  Io vi ripeto
+continuamente questa osservazione e perch@e @e vera, e perch@e vi
+rende ragione del concetto cattolico di questo viaggio, e perch@e
+finalmente con essa alla mano, avete la spiegazione di qualche
+passo, come quello della tomba di papa Anastagio, nel Canto XI,
+^Inf.~, che senza questa chiave resterebbe ancora insoluto sia in
+punto di religione, sia in punto di logica.  

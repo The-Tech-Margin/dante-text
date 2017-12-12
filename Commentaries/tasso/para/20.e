@@ -1,0 +1,106 @@
+	|1-3.~ |(ed.  Rosini)~
+Descrive il Sole.  [Da Fino]
+
+	|5.~ |(ed.  Rosini)~
+^Rif@a parvente~, dimostra.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+^Segno del mondo~, aquila.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+Caduci.  [richiamo marginale] [Sessa]
+
+	|14.~ |(ed.  Rosini)~
+Favilli.  [richiamo marginale] [Sessa]
+
+	|16.~ |(ed.  Rosini)~
+^I cari e lucidi lapilli~, anime.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+Squilli.  [richiamo marginale] [Sessa]
+
+	|19-30.~ |(ed.  Rosini)~
+Energia grandissima.  [Sessa]
+
+	|21.~ |(ed.  Rosini)~
+^Cacume~, cima.  [Da Fino]
+
+	|22-24.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|27.~ |(ed.  Rosini)~
+^Bugio~, aperto.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+^Fuochi~, splendori, anime.  [Da Fino]
+
+	|44.~ |(ed.  Rosini)~
+^Colui~, Trajano.  [Da Fino]
+
+	|51.~ |(ed.  Rosini)~
+Ezechia.  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+Che prolunga la vita.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^L'altro, che segue~, Costantino.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Fulgore~, anima.  [Da Fino]
+
+	|73-75.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+Quale li piace tale diventa.  [Da Fino]
+
+	|79-80.~ |(ed.  Rosini)~
+Perch@e mi conosceano.  [Da Fino]
+
+	|83.~ |(ed.  Rosini)~
+^Dl suo peso~, del dubbio.  [Da Fino]
+
+	|91-93.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|97-99.~ |(ed.  Rosini)~
+Ripigliamento.  [Da Fino]
+
+	|98.~ |(ed.  Rosini)~
+Si lascian vincere, perch@e cos@i vuole.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^La prima vita.  Vita~, per anima spesso usata.  [Sessa]
+
+	|105.~ |(ed.  Rosini)~
+^Passuri e passi~, venturi e venuti.  [Da Fino]
+
+	|118-120.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|121.~ |(ed.  Rosini)~
+Drittura.  [richiamo marginale] [Sessa]
+
+	|127.~ |(ed.  Rosini)~
+^Donne~, virt@u.  [Da Fino]
+
+	|127-129.~ |(ed.  Rosini)~
+Bisogna vedere se questo @e vero.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+^Prima cagione~, Dio.  [Da Fino]
+
+	|133-135.~ |(ed.  Rosini)~
+Argomento ^a majori~.  Pare che sia contro a s@e, avendo detto, che, 
+rimirando in Dio, vedono ogni cosa.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+Ci contenta il non sapere.  [Da Fino]
+
+	|142-144.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|148.~ |(ed.  Rosini)~
+^Fiammette~, anime.  [Da Fino]
+

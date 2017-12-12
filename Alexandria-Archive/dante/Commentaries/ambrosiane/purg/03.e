@@ -1,0 +1,99 @@
+	|7.~  ^Rimorso~ -- Propter increpationem Catonis sibi factam.
+
+	|10.~  \<^Lassiar la frecta~\> -- Subitus motus in viro honesto non 
+laudatur.
+
+	|26.~  ^Facie~ -- Loquitur anima Virgilii de se ipsa.  ^Onbra~ -- 
+Umbra est obiectio corporis tenebrosi ad lucem.
+
+	|27.~  ^Napoli~ -- Virgilius obiit Brundisii et Octavianus fecit eius 
+ossa Neapolim sepeliri.
+
+	|32.~  ^Corpi~ -- Iulianus Toletanus secundum Gregorium ait: <Si 
+viventis hominis incorporeus spiritus tenetur in corpore, cur non post 
+mortem etiam corporeo igne teneatur?> et infra: <Profiteri animam 
+habere posse similitudinem corporis et corporalium omnium membrorum 
+quisquis renuit, potest negare animam esse qui in sompnis videt vel 
+ambulare se> et cetera.
+
+	|37.~  ^Quia~ -- Pluribus modis queritur de aliqua re, videlicet quia 
+est, quid est, qua re est, propter quid est, scilicet modum, 
+substantiam, causam efficientem et finalem.  In hoc casu et similibus 
+humano intellectui non cognitis debemus esse contenti quia sic est et 
+non inquirere alias causas occultas, ex incomprehensibili divina 
+voluntate manantes.
+
+	|39.~  ^Mestier~ -- Si primus homo non peccasset, omnia fuissent 
+manifesta sue scientie que sunt obculta et non fuisset necessaria 
+redemptio et per consequens incarnatio Christi ex beatissima Virgine 
+matre Maria.
+
+	|41.~  ^Tali~ -- Scilicet philosophos antiquos qui perquisiverunt 
+cognoscere summum bonum, primariam causam, principium omnium rerum et 
+alia que non capit intellectus humanus, quia ymaginatio hominis 
+comprehendit solum res quantitate luminatas.  Deus autem est infinitus, 
+incircumscriptus, totus spiritus.
+
+	|43.~  ^Aristotile~ -- Isti voluere rationabiliter et demostrative 
+perquirere supradicta incomprehensibilia et in hiis defecere et 
+erraverunt.  Aristotiles posuit mundum ab eterno fuisse.  Plato posuit 
+animas ex natura stellarum ad eas redire.
+
+	|44.~  ^Chin@o la fronte~ -- Quia se recognovit ex illis fuisse 
+errantibus.
+
+	|45.~  ^Turbato~ -- Compunctio est.
+
+	|49.~  ^Lerice~ -- Terra Ianue in rivera.  ^Turbia~ -- Locus est in 
+rivera.  Inter hec loca sunt itinera asperrima.
+
+	|78.~  ^Spiace~ -- Qui scienter peccat bis peccat et turpis est 
+iactura que per negligentiam fit.
+
+	|102.~  ^De le man~ -- Dantis qui erat vivus.
+
+	|109.~  \<^Quando me~\> -- In hoc secundo gradu vestibuli remorantur 
+illi qui mortui sunt contriti in excomunicatione tamen, qui eorum 
+negligentia non fecerunt se absolvi.
+
+	|112.~  ^Manfredi~ -- Rex Sicilie et Apulee, filius naturalis 
+imparatoris Federici secundi, quem papa Clemens quartus excomunicavit 
+et vocavit Carolum comitem Provincie et concessit ei regnum predictum.  
+Qui Carolus sua probitate et baronibus regni proditoribus faventibus 
+optinuit et Manfredus in eo prelio mortuus fuit, nullo supersiste ex eo 
+masculo.
+
+	|113.~  ^Costanza~ -- Mater imparatoris Federici.
+
+	|115.~  ^Fillia~ -- Costanza uxor Petris regis Aragonum et matris 
+Federici, qui regnavit in Sicilia, et Iacobi, qui regnavit in Aragonia 
+post mortem Petri patris eorum.
+
+	|122.~  ^Infinita~ -- Divina misericordia.
+
+	|124.~  ^Pastor~ -- Archiepiscopus qui fuit legatus et exequtor pape 
+ad mictendum Carolum in possexionem regni.
+
+	|125.~  ^Clemente~ -- Papa IIII.
+
+	|128.~  \<^Benevento~\> -- In Apulia civitas fortilitia sic vocata ubi 
+sepultus fuit Manfredus.
+
+	|131.~  ^Da for~ -- Quia dictus legatus fecit ossa eius proici extra 
+regnum.  ^Verde~ -- Flumen in ultimo regni confine.
+
+	|132.~  ^Lume spento~ -- In signum excomunicationis.  Quando fit 
+denuntiatio extinguntur candele in aqua benedicta, ut comprendatur 
+excomunicatum non habere consortium neque participium divini suffragii 
+cum Christianis.
+
+	|135.~  ^Fior de lu verde~ -- Scilicet potentiam peccandi.
+
+	|139.~  ^Trenta~ -- Tempus perfecte etatis.
+
+	|143.~  ^Costanza~ -- Filia ipsius Manfredi et uxor Peri regis 
+Aragonum qui postea, suasionibus ipsius uxoris sue capta Sicilia, plus 
+quam XX milibus de gente Caroli trucidatis per diversas partes regni 
+unica die, sicut signum datum fuerat per dominum Iohannem de Proxida se 
+fatuum tunc fingentem, regem constituit Federicum.
+

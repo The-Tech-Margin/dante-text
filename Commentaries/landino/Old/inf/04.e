@@ -1,0 +1,1223 @@
+	|1-12.~  Tracta el poeta del primo cerchio dell'Inferno: nel quale 
+pone quegli che bench$e non habbino a esser puniti di gran peccati: 
+Nientedimeno perch$e non hanno havuto baptesimo non meritano el cielo.  
+Non pu@o l'huomo passare alla speculatione de' vitii se la sensualit@a 
+repugnante alla ragione non @e prima consopita.  Hora giunto a decta 
+speculatione la sensualit@a @e desta dal tuono: et volge gli occhi 
+riposati intorno.  Il che significa che nel principio quando l'huomo 
+dilibera lasciare la vita activa: et andare alla contemplativa la 
+sensualit@a non starebbe obediente alla ragione.  Il perch$e @e 
+necessario che s'adormenti: et adormentata vi sia portata.  Ma giunti 
+che siamo alla contemplativa el tuono la desta: cio@e la ragione 
+tonandogli sopra et gravemente riprendendola della pigritia la fa 
+vigilante: et attenta a ubbidire la ragione nelle chose grandi.  Il 
+perch$e pu@o volgere l'occhio riposato cio@e pu@o usare el senso 
+quieto: et non pi@u infiammato et infuriato dalla cupidit@a delle cose 
+terrene.  @E cosa nota in philosophia che solo lo intellecto specula et 
+contempla: perch$e lui solo pu@o havere cognitione degli universali.  
+Ma perch$e @e necessario che 'l principio nasca da' particulari: et 
+questi sono ne' sensi: per@o cercha lo 'ntellecto farsi la sensualit@a 
+subiecta.  Questa da principio dall'una parte concitata: et commossa 
+dalle illecebre et lusinghe delle chose momentanee et temporali.  Et 
+dall'altra parte repressa dalla ragione tutta invilisce: perch$e non @e 
+anchora perfectamente obediente alla ragione.  Adunque bisogna 
+adormentalla come @e decto Ma poich$e gi@a siamo entrati al contemplare 
+sanza repugnantia de' sensi adormentati allhora: perch$e gi@a sono al 
+tutto obedienti la ragione gli excita et desta: et congiugnegli seco: 
+perch$e @e venuto gi@a a tanta perfectione l'huomo che discerne con la 
+mente et discerne chol corpo: perch$e e' sensi nostri corruptibili: et 
+corporei si convertono in ragione: et la ragione in intellecto: et lo 
+'ntellecto in intelligentia: et la intelligentia in Dio N@e @e da 
+maravigliarsi se l'anima facta a similitudine di tutta la sapientia ha 
+in s$e la similitudine di tutte le chose.  Onde anchora da Aristotele 
+@e decta similitudine di tutte le chose: perch$e ha in s$e potentie con 
+le quali ogni chosa investighi: et d'ogni chosa sia simile bench$e sia 
+una.  @E simile alla terra pel senso.  All'acqua per la imaginatione.  
+All'aria per la ragione.  Al fermamento per lo 'ntellecto.  Al cielo 
+de' cieli per la intelligentia Scrive adunque.  |Un greve tono mi ruppe 
+l'alto sonno della testa~: cio@e la medesima gratia di Dio: la quale 
+prima havea consopita la sensualit@a: perch$e non impedissi la ragione 
+nel passare alla contemplatione/ hora la desta: perch$e chon quella si 
+congiungha.  Et dixe/ Ruppemi a di notare che non lasci@o che si 
+destassi da s$e: et fornissi il sonno.  Il che significa che la 
+sensualit@a non si desterebbe mai dalla sua pigritia se non fussi desta 
+dalla divina gratia: et dixe l'alto sonno: cio@e profondo sonno: 
+perch$e molto @e profondo el sonno: et la pigritia della sensualit@a.  
+^Quia spiritus promptus est caro vero infirma~.  |Della testa~: dixe 
+questo perch$e el sonno procede da' vapori: e' quali elevati dal 
+nutrimento vanno al cerebro: et quivi raffreddati dalla frigidit@a del 
+cerebro: et per questo condensati serrono la via al caldo et allo 
+spirito: el quale nel cervello d@a perfectione a' sensi.  |S@i ch'io mi 
+riscossi~.  Non @e sanza grande movimento quando l'huomo @e desto per 
+forza.  Ma anchora fa non piccolo moto nell'animo la sensualit@a rapita 
+dalla ragione.  |Et l'occhio riposato intorno mossi~.  Come el corpo ha 
+gli occhi co' quali guarda et vede: Chos@i l'anima ha potentia con la 
+quale investiga et discerne.  La mente adunque @e l'occhio dell'anima: 
+et la ragione @e el suo sgardare: et lo intellecto @e el suo vedere et 
+discernere.  Il perch$e allhora volge l'anima el suo occhio riposato 
+quando discorre con la ragione tranquilla: et allhora @e tranquilla la 
+ragione quando el senso et l'appetito gli @e in forma obediente che in 
+ogni parte la seguita.  |Dritto levato~: a dimostrare che la 
+sensualit@a si levava dalle cose basse et terrene per seguire lo 
+'ntellecto.  |Et fiso riguardai~: @E necessario se vogliamo rectamente 
+contemplare/ che la mente tranquilla et vacua d'ogni perturbatione et 
+passione si muova intorno ^id est~ si volga a tutte le parti: et chol 
+risguardo della ragione stia ferma et fisa: perch$e non basta a chi 
+vuole trovare la verit@a fare discorso per tutte le chose: se non vi si 
+volge chon ogni acume d'ingegno: et quello affisi ^id est~ tengha 
+fermo: et di quivi non lo diparta: accioch$e dall'occhio: et dal suo 
+sguardare nasca el vedere cio@e lo 'ntendere: et conoscere el luogho 
+dove ci ritroviamo.  |Ver' @e che 'n su la proda mi trovai~.  Questo @e 
+l'effecto del voltare dell'occhio: et del guardare fiso: perch$e da 
+questo nasce el vedere: cio@e non dubia opinione ma indubitata et vera 
+scientia: et per@o dice Vero @e perch$e la contemplatione nelle chose 
+universali truova el vero: el quale @e l'ultimo fine nelle virt@u 
+intellective: chome el buono @e el fine nelle virt@u morali.  |In su la 
+proda d'abisso~: Cio@e nel principio della profondit@a dell'Inferno.  
+Et certo nulla chosa @e pi@u profonda: n$e pi@u lontana dalle chose 
+celesti che el vitio.  |Che~: cio@e la quale valle.  |Accoglie tono 
+d'infiniti guai~: Raccoglie in s$e suono d'infiniti guai.  Quando una 
+valle cincta atorno d'altissimi monti fussi ripiena d'huomini: e' quali 
+variamente gridassino: et varie // c.40v querele et strida usassino.  
+ne nascerebbe per la commixtione di tante voci: et pel rimbombo della 
+valle un suono confuso raccolto in aria di tutte quelle voci: perch$e 
+la concavit@a del luogho non le lascia uscire.  Ma aggironsi et 
+multiplicano per la repercussione: et insieme si raccogliono: et fanno 
+quasi un tuono.  Et maxime si sente questo da chi @e di sopra come era 
+Danthe.  Ma allegoricamente intende che nella contemplatione de' vitii 
+si conosce che di quegli tanti et tanto diversi: et tra loro contrarii: 
+ma tutti miseri risulta una extrema miseria.  |Obscura era~: Perch$e 
+chi contemplando vuole cognoscere la natura del vitio truova ogni chosa 
+obscuro: cio@e intende che ogni vitio consiste in ignorantia: la qual 
+nasce d'havere perduto el lume dell'intellecto.  |Tanto che per ficcar 
+lo viso al fondo / Io non vi discernea alchuna chosa~.  Non pu@o chi 
+contempla el vitio: el quale @e nella tenebre dell'ignorantia vedervi 
+alchuna cosa.  Imper@o che non @e vitio cosa alchuna: ma @e solo 
+privatione.  Questa @e adunque la ragione perch$e lo 'nferno @e 
+obscuro: et perch$e nulla vi si discerne.  Il che expresse anchora 
+Virgilio in questi versi: ^Ibant obscuri sola sub nocte per umbras Per 
+que domos ditis vacuas et inania regna.~
+
+	|13-24.~  Truovasi Danthe di l@a dal fiume Acheronte: ne sa chome si 
+passassi.  Ma poi c'ha mosso intorno l'occhio riposato pare a Virgilio 
+menarlo nell'Inferno: et dice.  |Hor discendiamo qua gi@u nel ciecho 
+mondo~: Cio@e nella contemplatione de' vitii: Ne' quali non @e altro 
+che cecit@a et privatione di lume di ragione.  Et per questo el 
+Psalmista supplica per questi dicendo: ^Illuminare iis qui in tenebris: 
+et umbra mortis sedent~.  Era pallido et ismorto Virgilio.  il che 
+significa percussione d'animo chos@i per compassione chome per paura.  
+Ma Danthe volse questa coniectura et segno alla paura.  Il che 
+significa che spesso lo 'ntellecto nostro si volge a una chosa buona: 
+Et la sensualit@a lo interpreta in peggior parte insino che lo 
+intellecto non la fa docta.  Et per questo risponde Virgilio che il 
+colore mutato nel volto suo viene da piet@a: la quale Danthe sente per 
+tema: cio@e ripiglia per paura: et stima esser paura.  |Io sar@o el 
+primo: et tu sarai secondo~.  Et rectamente/ imper@o che andando alla 
+contemplatione Danthe: cio@e la sensualit@a: et ragione inferiore debba 
+seguitare chome vera guida Virgilio: cio@e la ragione superiore: 
+perch$e lo 'ntellecto @e quello che contempla et tirasi drieto el 
+senso.  Ma a chi va all'Inferno per non tornare: cio@e chi chade ne' 
+vitii: allhora Danthe si tira seco Virgilio: et non Virgilio guida 
+Danthe: perch$e l'appetito predomina alla ragione.  |Et egli ad me 
+l'angoscia delle genti~.  Dimostra che bench$e gli stoici non voglino: 
+che el savio caggia in alchuna passione: et perturbatione d'animo: 
+Nientedimeno secondo e' peripatetici et christiani theologi @e humana 
+chosa havere compassione della miseria degl'huomini.  Et per questo 
+finge che Virgilio entrando nello 'nferno divent@o smorto per la 
+compassione de' tormentati seguitando Heraclito ephesio.  Imper@o che 
+due philosophi furono di diversi costumi.  Et bench$e l'uno et l'altro 
+conoscessi la stultitia degl'huomini essere infinita: et quasi tutte le 
+loro operationi procedere da ignorantia piutosto che da prudentia.  
+Nientedimeno l'uno che era Heraclito ephesio lachrimava sempre che 
+vedea tale stultitia in alchuno.  Ma l'altro che era Democrito abderita 
+per l'opposito ridea schernendo la vanit@a degl'huomini.  Il perch$e si 
+conclude che non @e contro alla constantia del philosopho contemplando 
+la miseria nella quale si truova che @e nell'Inferno ^id est~ chi @e 
+oppresso da' vitii haverne compassione non excedendo el modo: perch$e 
+@e chosa humana.  Et chome dice el Terentiano: ^Cremete Homo sum Nihil 
+humani a me alienumputo~.  |Andiam che la via lungha ci sospingne~.  Se 
+consideri al sito dell'Inferno @e lungha via: perch$e @e dalla 
+superficie della terra insino al centro.  Ma allegoricamente lungha et 
+difficile @e la cognitione de' vitii: perch$e sono di molte ragioni: et 
+spesse volte alchuni sono s@i simili alle virt@u che difficile @e 
+discernere l'uno dall'altro.  |Chos@i mi messe~.  Quando Danthe: cio@e 
+la sensualit@a @e messa nello 'nferno da Virgilio ^id est~ dalla 
+ragione: Allhora conosce quanto sia detestabile el vitio: et 
+guardasene.  Ma quando v'entra per s$e medesima si lascia aescare da 
+quello: et rimanvi chome el pescie all'hamo.
+
+	|25-42.~  Dalla porta insino al fiume d'Acheronte dimostr@o el poeta 
+essere un luogho nel quale: perch$e n$e al tutto era nello 'nferno: n$e 
+al tutto fuor dello 'nferno pose quegli: e' quali n$e buoni n$e rei al 
+tutto si poteono chiamare.  El quale fu quasi un precinto et vestibulo 
+di tutto el luogho.  Hora dopo el fiume Acheronte discrive el principio 
+dello 'nferno: et pone el primo cerchio: el quale perch$e tutti gli 
+altri cigne @e chiamato Limbo per una certa similitudine conciosiach$e 
+proprio ^limbo~ in latino // c.41r significa un fregio: el quale 
+ricigne tutta la veste.  Et in questo vuole che chome @e pi@u superiore 
+che gli altri: et pi@u lontano dal profondo: chos@i @e pi@u leggieri 
+peccati in quello sieno puniti.  Ponvi adunque prima quegli e' quali 
+nel christianesimo non havendo havuto baptesimo/ son morti in peccato 
+originale: el quale gli priva della etherna visione et gloria di Dio.  
+^Item~ quegli: e' quali essendo stati innanzi a Christo non adororono 
+debitamente Iddio: perch$e non credectono nella Trinit@a Padre 
+Figliuolo et Spirito Sancto/ n$e in Christo venturo.  Questi perch$e 
+vixono secondo le virt@u civili non meritavono suplicii: Ma per la 
+ragione gi@a decta non meritano gloria Ma perch$e in questo luogho 
+dimostra el poeta che l'anime de' parvoli: a quali el baptesimo non ha 
+lavato el peccato originale: el quale @e debito di pena/ contracto 
+dalla colpa del primo padre.  Stimo sar@a grato agli orecchi del 
+lectore udire con brevit@a qual iustitia patisca che gl'innocenti 
+parvoletti: e' quali n$e per libero arbitrio n$e per volont@a hanno 
+potuto peccare sieno privati della visione divina nella quale consiste 
+la nostra beatitudine.  Essendo scripto: ^Quod filius non portabit 
+iniquitatem patris~: Et altrove.  ^Anima que peccaverit ipsa morietur~. 
+ Ma prima @e da intendere che el peccato originale @e manchare 
+d'originale iustitia: la quale era debito nostro havere.  Fu facto 
+l'huomo da Dio recto.  Ma lui per partirssi dal suo creatore si fece 
+debole: et infermo: et soctomessesi a' infiniti modi di pecare.  Era 
+adunque Adam con tanta rectitudine creato: che in lui le chose 
+inferiori erono subgette alle superiori.  La carne in forma era 
+soctoposta all'anima che niente gli potea adivenire: perch$e havessi a 
+insurgere contra all'anima.  Et similmente era suggetto l'appetito alla 
+ragione.  Questa era iustitia divina: perch$e richiede la giustitia che 
+sempre gl'inferiori sieno sobto e' superiori: et chiamavasi originale: 
+perch$e Adam dalla sua origine da Dio quella haveva ricevuto: et per 
+origine s'haveva a trasferire ne' suoi descendenti: perch$e havevono a 
+essere chome membra d'Adam.  Ma poich$e Adam si ribell@o dal suo 
+superiore Iddio richiese l'ordine della giustitia: che le chose sue 
+inferiore si ribellassino da lui.  Et chos@i la carne si ribell@o 
+dall'anima: et per questo caddono in lei contrarie dispositioni.  Onde 
+quella che potea non morire pel peccato per necessit@a muore.  Et 
+similmente l'appetito si ribell@o dalla ragione.  Il perch$e cholui che 
+per sua rectitudine potea non morire: et non peccare/ cadde in 
+necessit@a di morire et di peccare.  Ma per non esser prolixo diremo 
+chome scrive Egidio: che havendo Dio perfecto et absoluto l'huomo con 
+la giust[it]ia originale.  Di poi per sua spontanea liberalit@a: et per 
+gratuito dono gli concedecte oltra alla sua natura che mentre che 
+stessi sanza peccato potessi fruire el divino conspecto.  Il perch$e 
+harebbe potuto Adam se si fussi conservato in stato d'innocentia 
+lasciarci per legge d'heredit@a tanto dono.  Ma non si conservando lo 
+perd@e innanzi che noi nascessimo: et perdutolo non ci @e lo pot@e 
+lasciar.  Il che meglio s'intender@a per questo exemplo.  Uno huomo 
+d'arme per havere rinfrancata la battaglia: et essere stato cagione 
+della victoria hebbe dal re in premio delle sue virt@u una citt@a.  Di 
+poi diventando traditore pel tradimento facto gli ritolse el re la gi@a 
+donata citt@a.  Questa havevono havere e' figliuoli del cavaliere chome 
+heredi suoi se lui fussi stato nella fede.  Hora che ingiuria fa loro 
+el re? se non hanno quello che non fu mai loro n$e di loro patrimonio? 
+Per la qua chosa essendo la visione di Dio non secondo nostra natura 
+non c'@e facto ingiustitia se non c'@e data: chome se uno per gratia di 
+Dio havessi l'ale et volassi.  Il che sarebbe sopra la natura humana.  
+Di poi e' figliuoli suoi si dolessino non havere l'ale chome el padre.  
+Non ha facult@a l'anima nostra poich$e @e uscita delle carcere corporee 
+di fruire el divino conspecto se non @e monda: et pura: perch$e non @e 
+lecito che el non puro tocchi el puro.  Ma si el puro: perch$e in 
+chostui @e gratia perfec[t]a et absoluta: Adunque non potea el parvolo 
+vedere Iddio: Nientedimeno non @e privato d'alchuna chosa sua: perch$e 
+tal dono era stato dato ad Adam oltra alla natura sua non per alchun 
+merito del ricevente: ma per liberalit@a del Danthe.  Perdesselo per 
+volere piutosto compiacere alla moglie che ubidire a Dio.  Ma il 
+parvoletto di che si pu@o dolere se non gli @e dato quello che @e sopra 
+la sua natura? Di che non seguita la pena del senso: Ma quella del 
+danno.  Adunque la pena di tutti questi @e la privatione della gloria: 
+et della speranza d'haver mai gloria.  Adunque |Quivi~ cio@e quello 
+luogho secondo che per udire si potea imaginare non havea pianto el 
+quale procede da dolore di pene.  Dixe per udire: perch$e questa spetie 
+di dannatione @e tutta posta in fede |Ma che di sopiri~: Cio@e se non 
+di sospiri: et @e modo di parlare piutosto lombardo che fiorentino: 
+perch$e dicono questo non @e ma che bene: cio@e questo non @e se non 
+bene.  |Non havea pianto ma che di sospiri~.  Cio@e quel luogho non 
+havea altro pianto se non di sospiri.  Imper@o che el vero pianto @e 
+dove sono lachrime et voci meste: et significa dolore et pena di senso: 
+Ma el sospiro significa pena di danno: et disiderio di chosa absente.  
+Onde Iuvenale: ^Suspirat longo non visam tempore matrem~.  @E suspiro 
+angustia di spirito.  Et dixe l'aura: cio@e aria etherna: perch$e lo 
+'nferno chome @e decto di sopra dura etherno: Et dimostra la grandeza 
+de' sospiri poich$e erono s@i grandi che commovevono l'aria.  |Ci@o 
+advenia di duol sanza martiri~.  Era duolo di mente: ma non martire: 
+cio@e pena di senso.  |D'infanti~.  Infantia @e la prima et@a 
+dell'huomo: la qual dura insino in septe anni.  Et chiamonsi in questa 
+et@a infantes ^id est~ non fantes cio@e non favel- // c.41v lanti: 
+perch$e o non favellono: o non hanno anchora bene prompta la favella.  
+|El buon maestro~: @E buono el preceptore el quale non solamente 
+insegna quando @e domandato.  Ma anchora invita el discepolo a 
+domandare.  ^Andi Vada~ Vocabolo romano: et non fiorentino: perch$e il 
+nostra lingua non usiamo di questo verbo el singulare del presente: 
+perch$e non diciamo ^Ando Andi Anda~: Ma in quello scambio @e ^Vo Vai 
+Va~.  Et finge in questo luogho el poeta che Danthe non domandi della 
+dannatione di costoro: Ma Virgilio sanza esserne domandato lo dica: 
+perch$e in vero el peccato originale el quale gli danna non @e cognito 
+da noi per scientia naturale.  la quale ha principio dalla 
+intelligentia che @e nel senso: et nella ragione inferiore: Ma per 
+theologia.  Il perch$e la sensualit@a non aspira ad alchuna 
+inquisitione di questo: ne gliene nasce dubio alchuno del quale possi 
+domandare.  |Non basta perch$e non hebbon baptesimo~: Due spetie pone 
+d'huomini non salvati bench$e sieno vixuti moralmente: cio@e quegli che 
+doppo Christo non hanno havuto el baptesimo.  Perch$e: ^Quicunque 
+crediderit et baptizatus fuerit hic salvus erit~.  Et quegli che 
+innanzi all'avenimento di Christo quando non era necessario el 
+baptesimo.  |Non adoraron~ |debitamente Iddio~: Cio@e non credoctono 
+nella Trinit@a Padre Figliuolo et Spirito Sancto: N$e in Christo 
+venturo.  Et di questi pone s$e medesimo.  |Per tai difecti~: Cio@e per 
+questo manchamento di non havere vera fede.  Et non per altro rio: 
+Cio@e non per delicti commessi habbiamo pena non di senso: ma di mente: 
+perch$e viviamo in disio cio@e in desiderio della gloria del cielo.  
+|Sanza speme~: Cio@e sanza speranza d'haverla Chi @e in gloria: et 
+fruisce Iddio @e nel sommo bene.  Chi @e fuor di gloria o egli @e con 
+isperanza d'andarvi quando che sia chome quegli del Purgatorio.  O egli 
+@e fuori di speranza.  Et questi sono di due spetie: Imper@o che 
+alchuni sono posti in eterne pene sensibili chome son quegli di tutti 
+gli altri cerchi dello 'nferno.  O e' sono sanza pene di senso chome 
+sono questi.  Questi non hanno tormenti di senso: ma d'animo.  Et la 
+pena loro @e el desiderio.  N$e @e altro desiderio se non cupidit@a 
+d'havere presente quella chosa che gli @e absente: la quale absentia 
+del continuo tormenta l'animo.
+
+	|43-51.~  Due chose tracta in questi versi.  Imper@o che prima 
+dimostra haver gran compassione agl'huomini: e' quali essendo vixuti 
+moralmente: et ripieni di molte virt@u: et havendo o con scientia o con 
+disciplina militare facti molti beneficii alla generatione humana: o al 
+manco alla lor patria: nientedimeno per non havere havuto la fede 
+christiana o l'hebraica sono dannati.  Nel secondo luogho vuole che 
+Virgilio gli sia testimonio: et faccilo quasi certo di quello che lui 
+teneva per fede: cio@e che Christo chol suo pretioso sangue ricomper@o 
+quegli: che bench$e havessino havuto recta religione pure erono morti 
+nel peccato originale.  |Dimmi maestro mio dimmi signore~.  Nel primo 
+capitolo dimostrammo perch$e chiama Virgilio maestro signore et padre.  
+N$e accade al presente ripeterlo.  |Per volere esser certo~ Bench$e 
+ogni fedele crede quanto c'impone sancta chiesa.  Nientedimeno ogni 
+grande ingegno potendo volentieri cerca la scientia: et la 
+certificatione di quello che crede.  |Di quella fede che vince ogni 
+errore~ Questo dixe per dimostrare che bench$e non havessi alchuna 
+scientia: nientedimeno tiene la fede christiana verissima et sanza 
+errore.  |Per suo merto / o per altrui~.  Bench$e nessuno possi per s$e 
+medesimo uscire del peccato se non @e aiutato dalla divina gratia: 
+Nientedimeno @e bisogno che operiamo in bene quanto pu@o la nostra 
+fragilit@a.  Onde Augustino dixe: ^Qui fecit te sine te non salvabit te 
+sine te~.  Adunque vuole dimostrare qui che quegli del Limbo uscirono 
+non solamente pe' meriti della passione di Christo/ sanza la quale 
+nessuno @e s@i perfecto che si possa salvare.  Ma anchora pe' loro 
+proprii: perch$e l'uno et l'altro @e necessario.  |El mio parlare 
+coperto~.  Imper@o che non exprimeva quello che chiaramente volea dire.
+
+	|52-66.~  Intese Virgilio che Danthe desiderava esser certo di quello 
+che credeva: Cio@e se Christo trasse del Limbo l'anime degli antichi 
+padri chome sancta chiesa pone Et per@o risponde.  |Io ero nuovo in 
+questo stato~.  Perch$e pocho avanti ero venuto qui.  Imper@o che 
+Virgilio mor@i nel vigesimosexto anno dell'imperio d'Octaviano Augusto: 
+el quale regn@o anni .LVI.  Et Christo mor@i nel decimo octavo anno 
+dell'imperio di Tyberio successore d'Augusto.  Adunque era venuto 
+Virgilio nel Limbo anni quarantotto innanzi che Christo ne traessi 
+l'anime degli antichi padri.  |Un possente~: cio@e Christo.  Et nota 
+che non essendo stato Virgilio christiano non parve a Danthe che lui 
+dovessi nominare Christo // c.42r Perch$e non essendo instructo della 
+doctrina christiana non conobbe Christo chome Christo: et chome causa 
+della liberatione di quelle anime: perch$e non sapea perch$e cagione 
+potessi far questo: Ma chiamalo possente per lo effecto che ne vide: 
+N$e si discorda dal decto del propheta: ^Attollite portas principes 
+vestras: et elevamini porte ethernales: et introibit rex glorie.  Quis 
+est iste rex glorie? Deus fortis et potens deus potens in prelio~.  
+|Con segno di victoria~.  Se era stato possente nella guerra: Meritava 
+haver segno di quella victoria della quale nessuna fu maggiore: perch$e 
+morendo vinse la nostra morte: et risucitando ci restitu@i la vita: la 
+quale el fallo d'Adam ci havea tolta: et triomph@o del diavolo principe 
+di questo mondo.  |Trasseci~ ^id est~ traxe di qui |l'ombra~ ^id est~ 
+l'anima.  |Del primo parente~.  Cio@e padre: et questo fu Adam 
+protoplasto: cio@e prima factura di Dio/ et dal qual son nati tutti 
+gl'huomini.  D'Abel suo figlio.  Adam in lingua hebraica significa 
+secondo le interpretationi della bibia testificante overo testimonio.  
+Abel fu secondo figliuolo d'Adam: et deva huomo giusto et molto 
+religioso: Era pastore: et perch$e Dio haveva comandato allui: et a 
+Cain suo fratello: et primogenito d'Adam che gli facessin sacrificio 
+Abel sempre con prompta voglia sacrificava e' megliori animali de' suoi 
+armenti et greggi.  Et per questo meritava che Iddio el prosperassi.  
+Cain huomo avaro et pocho riverente a Dio: perch$e era dato alla 
+agricultura sacrificava de' suoi campi le pi@u sterile spighe.  Et 
+finalmente mosso da invidia uccise Abel.  El quale fu pianto da' suoi 
+genitori cento anni in una valle: che per questo @e nominata valle di 
+lachrime.  Abel in hebraico significa lucto et timore et vanit@a et 
+miserabile.  No@e fu el principio della seconda et@a: la qual dur@o 
+insino ad Abraham: da Adam insino allui dur@o la prima: Chostui fu solo 
+tra tucti gl'huomini di quel secolo trovato giusto.  Et irato Iddio per 
+l'universale scellerateza di tutti gl'huomini volendo uccidergli et 
+spegnergli col diluvio d'acqua Comand@o allui: el quale era gi@a d'anni 
+ottocento che facessi l'archa: chome pone la Bibbia: la qual pen@o 
+affare cento anni: et in questa lui entr@o: et tre figliuoli Sem Cam et 
+Iaphet con le loro mogli: Et due animali maschio et femina d'ogni 
+spetie.  Dopo el Diluvio No@e et Sem habitorono in Asia.  Cam in 
+Affrica.  Iaphet in Europa.  Moys@e legista et ubbidente da Abraham 
+insino a Moys@e dur@o la terza et@a.  Chostui nacque per padre et per 
+madre della trib@u di Levi in Egypto: et in quel tempo che 'l re 
+d'Egypto facea gittare nel fiume tutti e' maschi che nascevono della 
+gente hebrea.  Il perch$e vedendolo la madre d'optimo aspecto lo tenne 
+nascoso mesi tre.  Di poi non lo potendo celar pi@u lo misse in un vaso 
+facto di giunchi: et stucchato di bitume et di pece: et fecelo lasciare 
+in su la ripa del fiume.  Venne alle mani della figliuola di Pharaone: 
+et per opera della sorella del fanciullo lo fece allevare alla propria 
+madre: et adoptollo: et perch$e l'haveva trovato appresso all'acqua lo 
+chiam@o Moys@e.  Venendo di poi Moys@e in et@a adulta: et vedendo in 
+quanta afflictione era el popolo hebreo: et che quasi era divenuto 
+schiavo degli egyptii: un giorno in vendecta d'uno hebreo uccise uno 
+egyptiano: et nascoselo nel sabbione.  Di poi sentendo che l'homicidio 
+era scoperto fugg@i per paura dal conspecto di Pharaone che lo facea 
+cerchare: et and@o nella regione di Madian sacerdote: et accaso 
+trovando septe sue figliuole: alle quali da' altri pastori era stata 
+tolta l'acqua che haveano attinta per abeverare le loro gregge/ le 
+difese et aiutolle abeverare.  Per questo merito hebbe una di queste 
+per moglie decta Sephora.  Et pascendo gli armenti del suocero arriv@o 
+al monte Oreb: dove in forma di fiamma gli apparve Iddio: et dallui fu 
+amaestrato che via havessi a tenere a liberare el popolo d'Isdrael 
+delle mani di Pharaone.  Molto prolixo sarebbe riferire le innumerabili 
+et egregie virt@u sue: per le quali merito vedere Iddio a faccia a 
+faccia non solo in Oreb: Ma anchora in Sinai.  Fu huomo in doctrina et 
+disciplina militare: et in sanctit@a di vita admirabilissimo.  
+Finalmente mor@i nel monte Nebor poich$e Iddio gl'hebbe mostro la terra 
+di promissione Vixe anni cento venti: Et fu ne' tempi che Cecrope 
+regnava in Athene.  |Legista et obidiente~: Legista perch$e Iddio per 
+le sue mani decte le leggi al popolo hebreo.  |Obbediente~: perch$e in 
+tanto observ@o e' divini precepti che nessuno pericolo o faticha mai da 
+quegli lo torse.  N$e sia chi si dolgha se molto brevemente percorro 
+queste historie: perch$e non si pu@o in pocho luogho altrimenti mettere 
+molte chose.  Abraham patriarcha: Cio@e primo de' padri.  Chostui fu el 
+primo fedel vecchio a chui Iddio rivel@o la Trinit@a.  Dall'anno del 
+Diluvio insino che nacque Abraham furono anni mille septantadue.  
+L'origine sua fu da Sem figliuolo di No@e.  Imper@o che di Sem nacque 
+Arphasath.  di costui Chaman: Et di Chaman Sala.  di Sala Heber.  
+d'Heber Phalech.  di Phalech Raghan.  di Rhagan Saruch.  di Saruch 
+Nachor.  di Nachor Thara.  di Thara Abraham.  Nacque chostui in terra 
+di Chaldea nel tempo che Nino figliuolo di Belo regnava.  Et per 
+comandamento di Dio venne ad habitare in Chanaan: et promessegli Iddio 
+che darebbe quella regione al suo seme: la quale @e dal fiume d'Egypto 
+insino ad Euphrates: et el seme suo tanto multiplicherebbe che chi 
+potessi numerare la polvere della terra numererebbe quello.  Habit@o 
+adunque nella valle di Mambra.  El decimo anno dopo la venuta in Canaan 
+vedendosi Sarai sterile confort@o Abraham che volessi seme della sua 
+ancilla Agar: la qual vedendosi pregna cominci@o a insuperbire contro a 
+Sarai: et essendo afflicta da lei si fugg@i: Ma per le parole 
+dell'agnolo ritorn@o: et partor@i ad Abraham Ismael.  Di poi essendo 
+gi@a d'anni cento gli dixe Iddio che harebbe un figliuolo di Sarai: la 
+quale era d'anni novanta.  Et comandogli la circuncisione in tutti e' 
+maschi: et che lui non si chiamassi pi@u Abraham: Ma Abraham: et 
+similmente la moglie Sara: et non Sarai.  Rise fra s$e Abraham che in 
+cento anni havessi a generare.  Ma di poi nato el figliuolo di Sara lo 
+chiam@o //c.42v Isaac.  Circuncise Abraham se el figliuol suo Ismael 
+essendo lui d'anni novantanove: et el figliuolo d'anni tredici: et 
+chos@i tutti gli altri suoi.  Di poi nato Isaac lo circuncise l'octavo 
+giorno.  Questo @e quello el quale lui fu contento di sacrificare per 
+ubidire a Dio.  Il perch$e merit@o che Dio benedicessi el seme suo.  
+Dopo la morte di Sara hebbe un'altra moglie Cetura: et di quella 
+gener@o pi@u figliuoli.  Vixe anni cento septacinque.  Abraham 
+significa padre exaltato: Ma Abraham padre vedente el popolo: overo 
+padre di moltitudine.  Isaac riso.  Ismael huomo udito da Dio o vero 
+che piglia l'auditione di Dio.  Sara sign[if]ica principe.  overo 
+carbone o velame.  o angustia.  Sarai principe mio o carbone mio.  
+|David~ ^~Significa forte di mano: o desiderabile di volto.  Chostui fu 
+el secondo re del popolo di Dio.  Regn@o anni .xl.  Fu propheta et 
+poeta chome appare ne' suoi psalmi.  Regn@o nel tempo che gl'atheniesi 
+morto Codro non vixono pi@u socto re.  chostui fu nella quinta et@a che 
+dur@o insino a Christo: N$e mi distendo nella historia sua: perch$e 
+sarebbe troppo prolixa.  Ma quale fussi Iddio lo dimostr@o dicendo 
+havere trovato uno huomo secondo el cuor suo.  Isdrael chol padre et 
+cho' suoi nati.  Isdrael fu Iacob chos@i decto: perch$e andando in 
+Mesopotania vide una scala che agiugnea dalla terra al cielo: et angeli 
+salire et scendere per quella: et Iddio appoggiato a quella: perch$e 
+Isdrael significa huomo vedente Iddio: overo visione di Dio.  Adunque 
+ne traffe Iacob chol padre che fu Isach figliuolo d'Abraham: el quale 
+vixe cento sexanta anni: et mor@i regnante Xerxe primo re degli 
+assyrii.  |Et cho' suoi nati~: cio@e cho' suoi figliuoli: e' quali 
+furono dodici: et da questi discesono le dodici trib@u d'Isdrael.  
+Hebbe di Lya.  Ruben.  Simeon.  Levi: et Iuda.  Et de l'ancilla di 
+Rachel gener@o Dan: et Neptalim.  Et di Zelpha ancilla di Lya gener@o 
+Gad: et Assar.  Di poi concepe Lya di lui el quinto figliuolo che fu 
+Isachar: et il sexto Zabulon: Et di Rachel hebbe Ioseph: et Beniamin.  
+|Et Rachel per chui co tanto f@e~.  Fu Laban fratello di Rebecca madre 
+di Iacob: et habitava in Mesopotamia/ A chostui and@o Iacob: et 
+ricevuto parentevolmente promise di servirlo septe anni alla custodia 
+delle sue greggi se gli dessi per moglie Rachel sua figluola minore: la 
+quale era molto bella.  Ma finito il tempo Laban lo 'ngann@o: et 
+missegli allato la prima nocte delle noze Lya sua figliuola maggiore 
+non bella quanto Rachel et cispa.  Di poi la mattina conosciuto lo 
+'nganno Iacob si compose di servire altri septe anni: et Laban gli 
+dessi Rachel.  Et per@o dixe el poeta.  |Per cui~: cio@e per la quale 
+Rachel |tanto f@e~ ^id est~ tanto s'affatich@o servendo per haverla 
+anni .xiiii.  |Non lasciavano l'andar perch$e dicessi~: Perch$e due 
+spetie d'anime pone in questo Limbo: Una di quelle che nella prima 
+infantia sono partite dal corpo sanza baptesimo.  l'altra di quelle che 
+bench$e fussino illustre per molte virt@u: Nientedimeno sono dannate 
+per non havere havuto el baptesimo.  le prime per non haver facto 
+alchuna cosa degna vuole che sieno simile alla selva/ la selva @e 
+luogho inculto.  @e ombroso et sanza sole.  ha gl'alberi spessi: et 
+sanza alchuno suave fructo.  @e habitata da fiere et non da huomini.  
+Chos@i queste anime non sono exculte d'alchuna doctrina: perch$e nella 
+vita non hebbono spatio di potere comprendere.  Il perch$e rimangono 
+ombrose: et obscure: conciosiach$e in loro non riluce alchuna doctrina: 
+n$e sole d'alchuna verit@a.  Essere la selva molta spessa: et folta 
+d'alberi dinota la infinit@a turba di tali anime.
+
+	|67-75.~  Habbiamo veduto che questo primo cerchio contiene due 
+generationi: cio@e e' piccoli fanciulli non baptezati.  ^Item~ quegli 
+e' quali furono innanzi al baptesimo E' quali o per doctrina: o per 
+facti d'arme: et altre virt@u civili acquistorono gran fama nel mondo.  
+Ma e' primi pone nella prima parte del cerchio in forma di selva.  E' 
+secondi pone seperati nella seconda parte in luogho luminoso: et alto.  
+De' primi parla secondo la christiana oppinione.  De' secondi finge 
+chome poeta ma non sanza ragione.  Imper@o che chome @e ragionevole che 
+bench$e non sieno bastato loro le molte et gran virt@u al salvarsi non 
+havendo havuto el baptesimo: n$e havendo adorato debitamente Iddio: 
+Nientedimeno debbino havere qualche vantaggio et prerogativa da quegli 
+che son vixuti sceleratamente: Maxime dicente la verit@a che nessuno 
+bene ha essere in remunerato.  Et per questo attribuisce loro luogho 
+ameno et giocondo: et quasi discrive e' Campi Elisii: Et ingegnasi 
+imitare Virgilio in quegli: Ma quanto patisce la nostra religione.  
+|Non era lungha anchor la nostra via~: Cio@e non eravamo molto 
+dilunghati di qua dal sommo: cio@e dalla sommit@a onde si scende nel 
+primo cerchio.  Alchuni texti hanno somno: et allhora diremo di qua dal 
+somno ^id est~ di qua dal luogho dove fui posto dormendo che fu la ripa 
+d'Acheronte.  |Emisperio di tenebre vincea~.  Un corpo tondo chome 
+sarebbe una palla @e decto spera.  Onde hemisperio significa meza 
+spera.  Et per questo dinota che quel fuoco illuminava da mezo il tondo 
+in su.  |Di lungi veravamo anchora un pocho: Ma non si ch'io non 
+discernessi in parte ch'orrevol gente possedea quel loco~.  Bench$e lo 
+'ntellecto sia quello che conosce le doctrine: et discernele.  
+Nientedimeno anchora Danthe ^id est~ la ragione inferiore posto che non 
+le discerna: pure discerne e' litterati huomini essere degni d'honore: 
+et maxime quando gli vede honorare da altri.  |O tu ch'onori ogni 
+scientia et arte~.  @E certo ogni doctrina di sua natura honorata: Ma 
+quando @e exornata con poetica eloquentia @e molto pi@u honorata: @E 
+adunque propria laude di tanto poeta e' poemi // c.43r del quale son 
+refertissimi d'ogni maniera di doctrina.  Et meritamente si pu@o dir di 
+lui che come loro adorna la gemma legata in quello: chos@i lui rende 
+pi@u illustre ogni scientia della quale tracti.  Et allegoricamente non 
+@e dubbio che lo 'ntellecto humano quando @e ripieno di grande: et 
+varia doctrina non solamente @e honorato da quella: Ma anchora epsa 
+doctrina nella boccha: et negli scripti suoi diviene pi@u degna 
+d'ammiratione.  |Questi chi son ch'anno chotant'horanza~ ^id est~ 
+honoranza: et fece syncopa per rispecto del verso.  Conoscea Danthe 
+l'honore in costoro: Ma non conoscea la scientia dalla quale gli 
+venissi tanto honore.  Adunque ne domanda Virgilio: perch$e come ho 
+decto lo 'ntellecto solo @e quello che ne pu@o dare vero giudicio.
+
+	|76-96.~  Pare giusta chosa che essendosi innalzati da terra con 
+singulari virt@u in questa vita.  Nell'altra anchora se non son salvi 
+al mancho habbino luogho chon qualche honore et dignit@a.  |Gratia 
+acquista nel cielo~.  Piace a Dio la virt@u ^etiam~ in quegli e' quali 
+non l'hanno adorato debitamente.  Onde come dice Augustino Molti 
+beneficii hanno ricevuto da Dio e' gentili in premio delle lor virt@u.  
+Imper@o che quella vita virtuosa commuove Iddio a volere che sieno in 
+miglior grado.  Finge di poi havere udito una voce che confortassi 
+quegli spirti a honorar Virgilio: el quale pocho avanti s'era partito 
+in soccorso di Danthe.  Et induce che quattro poeti gli andorono in 
+contro a similitudine degli honori che tra loro si fanno gl'huomini in 
+questa vita.  Et dimostra l'aspecto di questi poeti essere stato n$e 
+tristo n$e lieto: overamente perch$e lo stato loro non era mesto 
+perch$e non erono in pena sensitiva: n$e lieto: perch$e non erono in 
+gloria: overamente perch$e l'habito del savio sta sempre in una 
+conveniente mediocrit@a: n$e leggiermente si rallegra: n$e vilmente si 
+rattrista.  Pone Homero chon la spada in mano: perch$e fu el primo 
+poeta fra' greci: el quale si possa veramente dire che habbi scripto le 
+battaglie.  Onde Horatio: ^Res gestas regumque ducumque: et tristia 
+bella.  Quo scribi possent numero monstravit Homerus~.  Fu el padre 
+d'Homero Marone: et la madre Ornithone: Altri affermano che una 
+figliuola di Melanopo chiamata Chritelda gener@o Homero n$e sapea chi 
+si fussi el padre: et partorillo in Smyrna apresso al fiume Meleta: et 
+per questo lo chiam@o Melesogene.  Nutrillo con somma povert@a.  Di poi 
+pel suo mirabile ingegno fu adoptato da un maestro di grammaticha: Et 
+facto adulto: et divenuto docto/ And@o ricercando la maggior parte 
+delle cipt@a di Grecia: et finalmente in Colophone divent@o cieco: et 
+per questo fu chiamato Homero: perch$e e' Colophonii chiamano e' ciechi 
+homeri.  Torn@o adunque in Smyrna: et quivi exercit@o l'arte poetica: 
+Nella quale fu s@i excellente che per anchora nessuno l'ha superato: 
+N$e da alchuno se non da Virgilio @e stato equiperato.  Fu constrecto 
+da povert@a andar cantando e' suoi versi per prezo.  Et nella regione 
+di Phocida si pactu@i chon un certo Testoride che dandogli lui el victo 
+el vestito gl'attribuissi tutti e' versi che facea.  Ma dopo alchun 
+tempo Testoride se n'and@o nell'isola di Chio: et quivi recitava e' 
+versi d'Homero per suoi.  Finalmente volendo andare da Samo in Athene 
+gli fu proposto uno enigma ^id est~ un decto obscuro: el quale non 
+potendo lui solvere di dolore si mor@i.  Lo eniygma fu che domandando 
+Homero.  O huomini d'Archadia habbiamo noi preso alchuna chosa.  Loro 
+risposono.  Quegli che noi habbiamo preso noi lasciamo: et portiancene 
+quegli che non habbiamo preso.  Homero intese de' pesci: et per@o non 
+seppe solvere: et loro intendevono de' pidocchi che havevono adosso.  
+Ma in vero pare questa a tanto huomo non conveniente morte.  Il perch$e 
+piutosto consent@o a Herodoto: el quale scrive lui esser morto oppresso 
+da ultima vecchiaia.  N$e @e molto manifesto qual fussi la sua patria.  
+Imper@o che altri dice Smyrna.  Altri Colophone.  Altri Chio.  Altri 
+Athene.  Similmente @e controversia tra gli scriptori in che tempo 
+nascessi.  Herodoto vuole cento quaranta anni dopo la distructione di 
+Troia.  Erathostene cento.  Philocoro cento octanta.  Apollodoro 
+atheniese dugenquaranta.  Horatio Flacco poeta satiro et lyrico nacque 
+a Venusia l'octavo giorno di dicembre.  El terzo anno della centesima 
+septuagesima octava olimpiade.  El padre suo fu banditore: et libertino 
+^id est~ nato d'huomo gi@a stato schiavo.  Fu nella satyra pi@u necto 
+et pi@u puro che Lucilio.  Molto libero nel riprendere: Et ne' versi 
+lyrici quasi solo tra' latini.  Ovidio Nacque a Sermona nel terzo anno 
+della centesima octogesimasexta olimpiade/ huomo s@i apto a ogni // 
+c.43v generatione di poema: et di tale ingegno che se non havessi 
+rifuggito la fatica dello elimare a nessuno era inferiore: Mor@i 
+nell'isola di Ponto dove da Octaviano era stato rilegato .M.  Anneo 
+Lucano fu nipote di Seneca philosopho nato d'Actilio Lucano suo 
+figliuolo.  Fu da Corduba citt@a di Spagna: fu di vita: et di costumi 
+simile all'avolo: et tanto amatore della libert@a che divent@o uno de' 
+congiurati di Pisone contro a Nerone.  Onde dannato a morte si fece 
+tagliare le vene: et mor@i l'ultimo giorno d'aprile nel vigesimo 
+septimo anno della sua vita: et nel terzo anno della ducentesima decima 
+olympiade: et nel sexagesimo quinto anno di Christo.  Scripse 
+^Saturnalia Sylvarum~ libros decem: ^Medeam~.  ^Orpheum~: Et 
+^Pharsalia~ dove sono le guerre civili tra Cesare et Pompeo.  L'ordine 
+che pone l'auctore di questi tre poeti latini Dando el primo luogho a 
+Horatio: El secondo a Ovidio: el terza a Lucano si pu@o disputare in 
+pro et in contro.  Et varii sono e' giudicii.  N$e mi piace che alchuni 
+ponghino questi quattro poeti per le quattro virt@u morali.  |Ciaschun 
+meco si conviene / nel nome~.  Cio@e ciaschuno @e poeta.  |Fannomi 
+honore: et di ci@o fanno bene~.  Dinota che sempre quegli che sono 
+d'una medesima doctrina o arte si debbono honorare l'uno l'altro et 
+favorire: bench$e la invidia el pi@u delle volte produca contrario 
+effecto.  Scola in greco significa otio: et ponsi per le disputationi 
+dove in otio: et postposta ogn'altra faccenda gl'huomini exercitano lo 
+'ngegno in qualche liberale doctrina.  ^Item~ si pone pel luogho dove 
+s'exercita.  |Altissimo canto~: chiama la poesia la quale in optimo et 
+ornatissimo canto di versi abraccia tutte le doctrine: Et maxime la 
+theologia.  Imper@o che e' primi poeti furono theologi chome appare non 
+solamente in Orpheo Museo et Lino.  Ma in David et Iob: et in molti 
+altri chome pi@u distesamente scrivemmo nel proemio di questo libro.  
+|Che sopra agli altri chom'aquila vola~: Ha tanta forza l'aquila che 
+raguarda e' razi del sole ne v'abbaglia: chos@i el poetico furore 
+trascende in sino alla divinit@a chome dimostra Platone quando scrive 
+di quattro spetie di furori divini.
+
+	|97-108.~  El saluto che danno e' poeti a Danthe: et il farlo il sexto 
+fra loro Niente altro significa se nonche divent@o poeta per essere 
+tirato dall'ornato: et dalla doctrina delle loro opere: et per havergli 
+imitati.  N$e @e sanza ragione che loro parlassino chose che 'l tacere 
+@e bello chome era bello in quel luogho parlarne Imper@o che @e 
+ragionevole che tra loro fussi ragionamento di cose apartenenti allor 
+doctrina.  Il che quadrava bene quivi: Et nella presente opera non 
+quadrerebbe.  Dove @e da notare che non basta ragionare di belle chose. 
+ Ma bisogna anchora che sieno accomodate al tempo: et al luogo et alla 
+materia di che si tracta.  ^Preterea~ dimostra che habitassino in 
+castello alto: perch$e sono posti in alta fama et nominanza: la quale 
+@e in expugnabile: perch$e nessuna chosa nuoce alla vera fama.  Adunque 
+chome l'alte mura difendono el castello: chos@i la doctrina et la 
+eloquentia de' poeti conservano la fama immortale.  Onde Ovidio di s$e 
+medesimo dixe: ^Iamque opus exegi quod nec iovis ira nec ignis: Nec 
+poterit ferrum nec edax a bolere vetustas~.  Et pocho di socto: ^Super 
+alta peremni astra ferar nomenque erit in delebile nostrum~.  Et certo 
+come l'ombra seguita el corpo cos@i la fama seguita la virt@u.  Onde 
+Horatio: ^Vivet extento procul eius evo Notus in fratres animi paterni. 
+ Illum aget penna metuente solvi fama superstes~.  Per le mura che 
+difendono el castello intendi le virt@u et le doctrine: le quali sono 
+quelle che difendono la fama.  Queste sono septe Tre morali Iustitia 
+Forteza: et Temperantia: le quali purgano l'animo da ogni 
+perturbatione: et fannolo idoneo a potere ricevere le doctrine Una 
+activa: che @e la prudentia: la quale addiriza: et regola l'operationi 
+delle morali.  Tre speculative intelligentia Scientia: et Sapientia.  
+^Preterea~ pone el numero septenario per la perfectione delle virt@u.  
+Imper@o che secondo e' philosophi questo @e perfecto numero.  Ma 
+prolixo sarebbe riferire tutte l'argomentationi con le quali questo 
+pruovano e' pyctagorei: et e' platonici.  Di poi usano per testimonio 
+la natura: la quale chome sapientissima usa in molte chose el numero 
+septenario perch$e @e perfecto.  Con questo numero pongono generata 
+l'anima del mondo.  Septe sono le stelle erratili: le quale con greca 
+dictione chiamiamo planete: bench$e noi diciamo pianeti.  La luna si 
+muove al numero septenario.  Imper@o che in iiii volte septe di che 
+sono ventocto: et octo hore torna in quel medesimo luogho del cielo: 
+onde era partita dal sole.  El septimo mese @e maturo el parto nel 
+ventre della donna.  Similmente la vita humana si divide in septenarii 
+chome nel primo canto dimostrai.  Lascio indrieto infinite altre chose 
+degne d'essere udite: Ma troppo prolipse in tanta moltitudine Alchuni 
+dicono che pose septe mura per le septe arti liberali: donde procede 
+ogni vera fama.  Pel fiumicello alchuni pongono l'abbundantia delle 
+chose terrene/ sanza le quali difficilmente si pu@o acquistare 
+doctrina.  Ma credo sia pi@u erudita expositione: et meglio quadri 
+porre el fiumicello per quella spetie di fiume: la quale e' latini 
+chiamano torrente: Onde el Petrarcha dixe: <In questo alpestro et 
+rapido torrente> // c.44r @E adunque torrente ogni piccol fiume: el 
+quale scende da' monti: et mette ne' fiumi maggiori: decto torrente: 
+perch$e la state torret ^id est~ si secca: Ma per le piove cresce et 
+corre con molto empito.  Onde e' latini da questa copia: et vehementia 
+chiamano la vementia dello stile: et la copia della eloquentia 
+torrente.  Di qui Iuvenale: ^Sermo promptus et isseo torrentior~.  
+Adunque el poeta nostro non volendo dire fossato che chos@i si chiama 
+in lingua fiorentina Dixe fiumicello.  ^Preterea~ spesso in latino 
+quando vogliono dimostrare gran copia nel dire dicono: ^Flumen 
+dicendi~.  Adunque lo porremo per la facundia: et eloquentia degli 
+scriptori: e' quali veramente difendono la fama.  Imper@o che gli 
+egregii facti degli excellenti huomini verrebbono in oblivione se la 
+eloquentia degli scriptori non gli facessi etherni: chome dimostra 
+Salustio degli atheniesi: Et el Petrarcha dixe.  Pandolfo mio 
+quest'opere son frali: Allungo andare: Mal nostro stilo @e quello Che 
+fa per fama gl'huomini immortali.  Et che el fiume si ponga per 
+eloquentia dinota el Petrarcha dicendo Che per chosa mirabile s'addita 
+chi fa d'elicona nascer fiume.  Potremmo anchora porre el fiume pel 
+moto dell'animo alla doctrina: Il che non sarebbe altro che l'appetito 
+di quella.
+
+	|109-120.  Questo passamo come terra dura~ ^id est~ sanza bagnarci: et 
+quasi dimostra che bench$e agguagli la eloquentia al fiume: 
+Nientedimeno @e stabile et durabile.  Overamente se poni el fiume per 
+l'appetito dimostra quello esser fermo et constante.  |Per septe 
+porte~: perch$e septe eron le mura: Et optime entroron per le porte: 
+perch$e in ogni virt@u: et in ogni doctrina bisogna entrare per la 
+porta: cio@e pe' suoi principii: et chon certo ordine: perch$e sono 
+molti che prevertono l'ordine nelle doctrine: et vogliono imparare 
+prima le chose ultime che le prime Onde @e nato el proverbio che chi 
+vuole imparare bene entri per la porta.  Il che significa che dobiamo 
+cominciarci dal principio: et non dal fine.  |Venimo in prato di fresca 
+verdura~.  Pone che stessino in prato: perch$e tal luogho per varii 
+fiori: et herbe @e dilectevole: Et diciamo che la fama stabile @e 
+sempre verde.  Et anchora imita Virgilio: el quale dice: ^De Venere 
+locos letos: et amena vireta~.  Et pocho di socto: ^Pars in gramineis 
+exercet membra palestris~.  El prato sta sempre verde: et sanza 
+cultivarsi produce el fructo suo.  Onde @e decto prato quasi parato.  
+Imper@o che e' campi delle biade: et le vigne non sono parate a 
+produrre l'utilit@a che s'aspecta da quelle/ sanza qualche cultura: Ma 
+solo el prato per s$e medesimo produce.  Chos@i la fama: la quale nasce 
+da vera virt@u sempre sta verde: et per s$e medesima produce loda.  Di 
+poi dimostra essersi accorto a' modi: et a' gesti: che quegli fussino 
+d'auctorit@a: A dinotare che raro interviene che e' gesti: et 
+l'apparenza extrinseca non dimostri la qualit@a dell'huomo.  Et maxime 
+gli occhi sono quasi finestre: per le quali vegiamo l'animo posto 
+drento al corpo.  |Tardi et gravi~: Non dimostravono esser tardi 
+perch$e lo 'ngegno fussi tardo.  Il che il greco dice ^brady~: et el 
+latino ^bardo~: cio@e balordo: Ma erono tardi: cio@e pesati: et 
+considerati.  Perch$e si come facilmente si conosce negli occhi una 
+stolta leggereza: et spessa mutabilit@a sanza ragione: chos@i per 
+l'opposito n'apparisce maturit@a: et gravit@a.  Adunque non eron tardi 
+chome sono in certi balordi: et stupidi: et trasognati.  Ma come 
+veggiamo negl'huomini gravi .  considerati: et appensati.  Erono gli 
+occhi tardi: et gravi: perch$e nella investigatione non bisogna che 
+l'occhio: cio@e lo 'ntellecto corra: et giudichi prima che conosca.  Ma 
+@e necessario che con diuturnit@a di tempo consideri tritamente: et 
+sanza leggereza: et con gravit@a examini ogni parte: et pro: et contro/ 
+se vuole ritrovare el vero.  |Auctorit@a~: diciamo quella: per la quale 
+accresce nell'huomo la riputatione: et la extimatimatione: la quale @e 
+cagione che spesse volte gli crediamo bench$e nessuna ragione ci 
+dimostri.  |Sembianti~: quasi gesti: et acti: o a dire pi@u 
+expressamente in loro dimostratione.  Et @e vocabolo franzese: perch$e 
+loro dicono assemblare/ assimigliare: et nasce da questo vocabolo 
+exemplo.  Onde diciamo alchuno ne' sembianti dimostrare bonit@a.  
+|Parlavan raro~: Il che significa maturit@a: et sapientia.  Imper@o che 
+chome @e scripto: ^In multiloquio non de est peccatum~.  |Con voce 
+suavi~.  Il che significa humanit@a et affabilit@a.  Et questo pose 
+accioch$e non si credessi: che el parlare raro procedessi da superbia: 
+o da austerit@a.  Adunque pel parlare raro dimostra gravit@a: et 
+modestia: Et pelle voci suavi dinota humanit@a: et giocondit@a.  Et 
+certo @e perfecta laude nell'huomo quando veggiamo in lui essere somma 
+gravit@a congiunta con somma giocondit@a.  |Traemoci chos@i dall'un de' 
+canti~: Che chos@i fa chi vuol meglio vedere.  Et imita Virgilio el 
+quale dixe: ^Et tumulum capit unde omnis longo ordine possit Adversos 
+legere: et venientum discere vultus~.  Et occultamente significa che 
+chi vuole conoscere: et speculare/ si trahe dall'un de' canti: cio@e in 
+solitudine: perch$e la turba: et la frequentia @e nimica della 
+speculatione.  Et di poi aggiugne.  |In luogo aperto luminoso et alto~. 
+ Imper@o che chome chi vuol veder chogli occhi corporei/ cerca luogho 
+aperto: cio@e non sia occupato n$e da alberi: n$e da monti: n$e da 
+obstaculi che tolgono la veduta: et sia // c.44v luminoso: cio@e sia di 
+giorno puro: et sanza nebbia: et sia alto: accioch$e soprastia alla 
+chosa che vuole vedere: chome Zacheo che sal@i in sul sychomoro.  
+Chos@i nella speculatione @e necessario levare: et confutare tutti gli 
+obstaculi et dubii: che ci tolgono la veduta della verit@a.  ^Preterea~ 
+useremo luminosi: et perspicui et chiari discordi: et staremo in luogo 
+alto: chome @e la prima philosophia: la quale @e fonte onde diriva ogni 
+verit@a.  |Me stesso m'exalto~: Perch$e contemplare e' facti egregii 
+de' magnanimi fa che l'animo del considerante s'inalza: et desidera 
+imitare tale magnanimit@a.
+
+	|121-129.~  Pone in questa sua speculatione prima gli huomini 
+excellenti nella vita activa et civile.  Di poi quegli che sono stati 
+egregii nella contemplativa/ non perch$e preponga l'activa: Ma perch$e 
+in considerare alla natura dell'huomo in quanto huomo occorre prima 
+l'actione: la quale @e ne' particulari/ che la contemplatione che 
+consiste negli universali.  Electra figliuola d'Athlante.  Hebbe 
+Athlante septe figliuole.  Electra.  Maia.  Sterope.  Cylleno.  Taygete 
+Alcyone: et Merope.  Electra fu moglie di Chorito re in Italia: dal 
+quale la sua principale cipt@a fu denominata Corito.  Questo credono 
+molti fussi quella che hoggi chiamano Corneto.  Electra adunque non del 
+marito: ma di Iove gener@o Dardano.  El quale dopo la morte di Corito 
+venendo in dissensione chon Lasio suo fratello di madre: et figliuolo 
+di Corito/ diliber@o lasciarlo solo nel regno: et chon parte del popolo 
+navig@o in Samothracia: Et di poi in Phrigia dove poi fu Troia: et 
+dallui hebbono origine e' troiani.  Questo fu nel trigesimo quinto anno 
+di Moys@e: et negli anni del mondo tremila septecento trentasepte.  
+|Con molti compagni~: quasi dica o del popolo che seguit@o Dardano: o 
+piutosto di molti Re che furono excellenti nella progenie di Dardano.  
+Ma perch$e chostoro furono men famosi dimostranon gl'havere pienamente 
+conosciuti chome Hectorre: et Enea: perch$e questi furono 
+excellentissimi.  Hectorre fu figluolo di Priamo: et di tanta virt@u: 
+che quasi lui solo fu cagione che Troia si difendessi dieci anni.  Et 
+dopo molte excellentissime pruove secondo Homero: et gli altri 
+scriptori che seguitano Homero fu morto da Achille.  Ma Dione 
+Christostomo sommo philosopho: et diligente investighatore 
+dell'antichit@a/ dimostra et per le historie degli egyptii: et per 
+molti segni/ che non Achille Hectorre: ma Hectorre Achille uccidessi.  
+Et Troia non essere stata distructa da' greci: Ma e' greci ropti: et in 
+gran parte consumpti da' troiani.  De Enea dicemmo di sopra.  Cesare: 
+non immeritamente pone Cesare tra' troiani: perch$e fu della famiglia 
+de' Iulii: e' quali discesono da Iulio Ascanio figliuolo d'Enea.  Fa 
+mentione de' troiani: et de' romani dicesi da quegli: perch$e da tal 
+successore fu fondato el romano imperio: el quale el poeta in molti 
+luoghi exalta.  Caio Iulio Cesare fu quello che civili guerre exercit@o 
+chon magno Pompeo suo genero.  Et tandem obtenne la victoria: et 
+divent@o dictatore perpetuo.  Huomo sanza fallo per innumerabili virt@u 
+s@i admirabile/ che se non l'havessi obfuscate con l'ambitione: et 
+cupidit@a del signoreggiare tra mortali gentili potea obtenere el primo 
+grado: N$e so chi se gli possa anteporre nella militare disciplina.  
+Imper@o che in dieci anni subgiug@o innumerabili: et bellicosissimi 
+popoli di tutta la Francia: et Germania et Inghilterra.  Vinxe la 
+Spagna.  L'Affrica: et gran parte delle regione orientali.  In 
+cinquanta battaglie giudicate fu superiore: et nelle sue zuffe furono 
+occisi un milione: et centonovantadue migliaia d'huomini.  Et oltra 
+alla peritia in facti d'armi fu huomo di molta: et varia doctrina: et 
+el primo che per astronomica ragione appresso de' latini riduxe l'anno 
+sanza errore nel numero de' d@i che @e al presente.  Fu ornato di tanta 
+eloquentia/ che havendo lui corsivamente notato le guerre da s$e facte 
+ne' suoi comentarii per lasciare memoria a chi volessi farne historia: 
+Nientedimeno son tanto ornati: et s@i eloquenti che nessuno sper@o mai 
+con accurato et diligente otio farne historia che gli paregiassi.  Fu 
+di s@i veloce ingegno: et di tanto consiglio et memoria/ che in un 
+medesimo tempo leggieva: et dectava: et dava audientia.  Dectava a un 
+tracto quattro lettere/ bench$e fussino di molta importanza: Et non 
+attendendo ad'altra chosa ne dectava septe.  Fu ornato di tutti e' 
+civili costumi.  Ma maxime si conobbe in lui excellentissima humanit@a 
+et affabilit@a: Nessuno mai fu pi@u liberale inverso gli amici.  
+Nessuno pi@u clemente in perdonare ogni ingiuria.  Per le quali tutte 
+chose @e oppinione di molti che se non fussi stato morto s@i presto 
+harebbe renduto la libert@a alla repubblica.  Finalmente congiurorono 
+excellenti huomini: et amatori della repubblica contro a Cesare: chome 
+contro a tyranno: et in Senato fu ucciso.  E' principi della 
+coniuratione furono Bruto et Cassio.  |Chon gli occhi grifagni~: cio@e 
+lucidi et sfavillanti.  Il che significa acuto: et vehemente ingegno: 
+et attribuisce tali occhi a Iulio Cesare: quali Virgilio d@a a Cesare 
+Augusto dove dice: ^Geminas cui tempora flammas leta vomunt~: Dixe 
+Griphagni: perch$e gli sparvieri mudati in selva hanno simili occhi.  
+Et gli uccellatori chiamano gli sparvieri Nidiaci raminghi et 
+griphagni: Nidiaci sono e' presi nel nidio.  Raminghi quegli che 
+novellamente usciti del nidio non volano anchora molto: ma molto si 
+posano in su' rami degli alberi.  Griphagni sono quegli che gi@a 
+passato l'anno sono mudati in selva.  Dixe adunque armato insegno // 
+c.45r della virt@u militare: Dixe chogli occhi gryphagni in segno della 
+vivacit@a dello 'ngegno: et della doctrina Camilla: Di questa dicemo di 
+sopra.  |Et la Penthesilea~.  Fu appresso a Thermondo[n]te fiume una 
+generatione di femine: le quali vivevono con tanta industria: et 
+francheza d'animo: et di corpo in disciplina militare/ che tennono 
+l'imperio di molte regione: et gl'huomini loro riduxono socto la loro 
+potest@a: et a quegli da pueritia debilitavono s@i le gambe et le 
+braccia/ che rimanevono sanza forza.  Il perch$e questi e' feminili: et 
+quelle e' virili officii exercitavono.  Et per potere meglio usare 
+l'archo s'incendevono da piccole la poppa dextra: accioch$e non 
+crescessi.  Onde furono decte Amazone: il quale vocabolo in greco 
+significa sanza poppa.  Fondorono una nobilissima cipt@a alla foce di 
+Thermodonte: et in processo di tempo distesono el loro imperio insino 
+al Tanai: et dall'altra parte insino alla Syria.  Ma finalmente vinte 
+da Hercule furono quasi ridocte ad ultimo exterminio.  Chostui prese 
+Hyppolita loro regina: et dectela per moglie a Theseo re d'Athene.  Ma 
+dopo pochi anni Penthesilea bandeggiata: perch$e haveva morto la 
+sorella venne in aiuto de' troiani: et in quella guerra fece mirabili 
+pruove.  Ma finalmente fu morta da Achille.  Latino Saturno 
+antichissimo re di Candia gi@a decta Creta cacciato da' figliuoli venne 
+in Italia: et da Iano el quale allhora regnava nelle parti dove poi fu 
+Roma gli fu comunicato el regno.  Di Saturno nacque Pico: et di Pico 
+Fauno: et di Fauno Latino: el quale regnava quando Enea venne in 
+Italia: et mosso dagli oracoli del padre: et da' varii augurii spos@o 
+la sua figliuola Lavina a Enea: la quale prima havea promessa a Turno 
+re de' rutili.  Il che fu cagione delle guerre tra Enea: et Turno.  Et 
+dixe |Sedea~: a dimostrare che la fama sua nasce piutosto dalla 
+maturit@a del consiglio: che dalla ferocit@a dell'arme/ chome si vede 
+in Virgilio.  |Vidi quel Bruto che caccio Tarquino~.  El primo Tarquino 
+fu el quinto re de' romani figliuolo di Demarato da Corintho.  Et 
+nacque in Tarquini citt@a d'Italia onde prese el nome.  Di poi persuaso 
+da Tanaquil sua moglie/ femina molto perita negli augurii: cho' quali 
+predicea le chose future/ Venne a Roma: et fu in tanto auctorit@a 
+apresso d'Anco re de' romani: che morendo lo lasci@o tutore de' 
+figliuoli.  Ma lui per ambitione us@o tanta arte che fu facto re.  El 
+figliuolo suo di poi succedecte non allui: ma al genero suo Servio 
+Tullio: et per la sua arrogante: et crudel vita fu chiamato Tarquino 
+Superbo.  Ne' tempi che questo re era a campo ad Ardea cipt@a de' 
+rutili nacque altercatione tra Sexto Tarquino figliuolo del re: et 
+Collatino/ di chi havessi pi@u costumata moglie: Et finalmente fu 
+giudicato che Lucretia moglie di Collatino fussi unico exemplo di 
+castit@a tra le romane donne.  Il che tanto fu molesto ad Sexto che 
+occultamente si part@i di campo: et venne di nocte a Lucretia: et 
+dallei chome parente fu liberalmente riceptato.  Di poi volendo torgli 
+la castit@a la minacci@o che se non gli consentiva ucciderebe lei et 
+uno suo servo: et di poi direbbe con quello haverla trovata in 
+adulterio.  Aconsent@i Lucretia col corpo: et non con l'animo per 
+fuggire sempiterna infamia.  Ma l'altro giorno convoc@o el padre suo 
+Spurio Lucretio: et el marito.  Quello men@o seco Publio Valerio: et 
+questo Lucio Iunio Bruto.  Narr@o Lucretia tutto el facto: Et bench$e 
+da' suoi fussi consolata: et dimostrogli che dove non havea 
+acconsentito la volont@a non potea esser peccato.  Nientedimeno col 
+cotello el quale per questo havea occultato sobto la veste s'uccise 
+dicendo prima che non volea che dallei alchuna romana prendessi captivo 
+exemplo.  Fu Lucio Iunio come dicemmo presente a tal morte.  El quale 
+per insino a quel tempo per fuggire la crudelt@a di Tarquino: el quale 
+o uccideva o mandava in exilio qualunche fussi d'alchuna prudentia/ 
+havea fincto essere stolto et vivea quasi chome bruto animale: et per 
+questo era chiamato Lucio Iunio Bruto.  Chostui mostrando el coltello 
+sanguinoso della morte di Lucretia convoc@o el popolo romano: et con 
+lunga oratione dimostrata la crudelt@a et la superbia di Tarquino: et 
+de' figliuoli persuase che fussino mandati in exilio: et privati del 
+regno.  In questo modo manch@o el regno a Roma: el quale era durato 
+anni dugento quaranta quattro.  Fu Bruto figliuolo d'una sorella di 
+Tarquino/ Huomo tanto amatore della libert@a che facto console dann@o a 
+morte e' figliuoli: perch$e insieme cogli Aquilii loro cugini havevono 
+congiurato di ristituire el regno a' Tarquini.  Et da chostui deriv@o 
+la casa de' Bruti: della quale fu quell'altro Bruto che per liberare la 
+patria dal tyranno uccise Cesare.  El primo uccise l'ultimo re: El 
+secondo el primo tyranno.  Habbiamo: et con somma brevit@a transcorso 
+la historia di Tarquino Bruto: et di Lucretia.  Hora diremo di Martia: 
+et di Cornelia.  Martia @e nobilitata: et per la castit@a sua: et per 
+la excellentia del marito: fu moglie di Catone uticense: et a quello 
+partor@i due figliuoli.  Di poi parendo a Catone che quegli gli 
+bastassino: et vedendo che Ortensio suo amicissimo era sanza figliuoli 
+fece divortio dallei: et maritolla a Ortensio: et lui vixe in vita 
+celibe et casta.  Nientedimeno morto Ortensio mosso a compassione di 
+lei la ritolse.  Iulia fu figliuola di Cesare: et moglie di Pompeo: et 
+tanto am@o el marito/ che essendogli arrecato a casa la veste del 
+marito macchiata di sangue che gl'era uscito del naso: et ricordandosi 
+delle discordie civili prese tanto dolore temendo che non fussi stato 
+morto/ che tramort@i: et sconciossi del parto: et poco dopo mor@i non 
+sanza lucto universale: perch$e era di tante virt@u che fu constante 
+opinione che se fussi vixuta sarebbe stata tal legame tra Pompeo et 
+Cesare: che non sarebbon seguite le guerre civili.  Corniglia: cio@e 
+Cornelia fu figluola di Scipione Affricano maggiore: et moglie di 
+Graccho/ femina di prudentia: et d'animo virile: et per questo tanto 
+amata dal marito: che essendo apparito in casa due serpi: et 
+rispondendo gl'indovini/ che era necessario che una se ne uccidessi: et 
+uccidendosi el maschio morrebbe Graccho: uccidendosi la femina morrebbe 
+Cornelia/ Volle Graccho che succedessi el maschio stimando che alla sua 
+famiglia fussi pi@u utile // c.45v la vita di lei che la sua.  Fu 
+eloquentissima: et in forma erud@i Tyberio Graccho: et Caio Graccho 
+suoi figluoli che vinsono tutti gli oratori di quella et@a.  Et 
+domandata alchuna volta da altre femine che gli mostrassi le sue gioie/ 
+mostrava e' figliuoli ornati d'ogni costume: et eloquentia: et questi 
+dicea essere le sue gioie Poich$e rimase vedova fu chiesta in mogle da 
+molti principi et re.  Ma epsa sempre observ@o castissima viduit@a.  
+Saladino fu soldano di Babylonia: Acquist@o lo 'mperio con fraude et 
+scellerateza uccidendo Calypha suo signore: questo fu negli anni di 
+Christo mille cento sexantatre.  Di poi nel mille cento ottantasepte 
+decte grandissima ropta a' christiani: et prese Hierusalem: la quale 
+doppo Gottifredi e' christiani havevono tenuto chon gran gloria anni 
+octantocto.  Finalmente dopo lunga persecutione: et strage de' 
+christiani mor@i in Damascho nel mille cento novantaquattro anni/ huomo 
+excellente in disciplina militare.  N$e sanza cagione dixe |Et solo in 
+parte vidi el Saladino~: A dinotare che pochi di quella generatione 
+sono stati excellenti A' tempi di Saladino fu el passaggio di 
+christiani per ricuperare Hierusalem: la quale Saladino havea occupata. 
+ Il perch$e prese consiglio di notare et spiare tutti gli stati: et le 
+forze de' christiani.  Et con due suoi amicissimi: et tre famigli 
+sconosciuto in habito di mercatante pass@o in Armenia: et indi in 
+Grecia: et di poi in Sicilia con diligentia ogni chosa considerando: di 
+Sicilia pass@o a Napoli: et da Napoli a Roma.  Et inteso el governo 
+della chiesa per Toscana: et per Lombardia pass@o gli alpi.  Trascorse 
+la Gallia: Trascorse la Spagna: et la Germania.  Et finalmente chome un 
+nuovo Ulixe facto prudente per havere visto molti paesi: et varii 
+costumi d'huomini torn@o per mare in Alexandria.
+
+	|130-144.~  Havea gi@a el poeta narrato alchuni di quegli che 
+acquistorono fama in vita civile et activa.  Hora pone quegli: e' quali 
+sono in pi@u excelso grado collocati: perch$e sono nobilitati nelle 
+virt@u intellective et nella vita contemplativa: la quale sanza dubbio 
+@e preposta all'activa.  Il che significa dicendo.  |Po' ch'io alzai un 
+poco pi@u le ciglia~: Perch$e a conoscere chi @e in pi@u alto loco @e 
+necessario alzare pi@u gli occhi.  Tra questi d@a el primo luogo ad 
+Aristotele huomo sanza dubbio di mirabile ingegno: et di profonda 
+doctrina: et el quale ha la palma per haver collocato in perfectissimo 
+ordine tutta la philosophia: et con optima distinctione di tutte le sue 
+parti haver tractato.  Il perch$e el poeta lo prepone a Platone non 
+solo da questo mosso: Ma forse anchora dalla sua professione: perch$e 
+fu peripatetico: N$e ardirei qui dare mio giudicio di due tanti 
+huomini: n$e potrei volendo/ prohibito dalla imbecillit@a del mio 
+ingegno: et dal defecto della doctrina: el quale @e in me.  Ma veggo 
+appresso de' greci Aristotele essere in somma admiratione nelle 
+phisiche doctrine.  Et Platone essere giudichato superiore nelle 
+metaphysiche: et divine.  Onde Aristotele chiamano demonio: et Platone 
+divino.  Et certo tutti gli antichi latini: e' quali non seperorono la 
+eloquentia dalla doctrina/ vogliono che 'l principe de' philosophi sia 
+Platone.  N$e @e in piccolo odio di questi incorso Aristotele per 
+haverlo in molti luoghi dannato: Conciosiach$e ^etiam~ buona parte de' 
+comentatori d'Aristotele difendono Platone dove Aristotele lo danna.  
+Cicerone lo chiama Homero de' philosophi: Et Augustino dice havere 
+electo e' platonici: chome quegli che hanno inteso meglio la divinit@a: 
+et altrove scrive Taccia Aristotele: el quale contro a Platone @e 
+sempre fanciullo.  Et el nostro Petrarcha lo prepone dicendo.  Volsimi 
+da man dextra et vidi Plato Chen quella schiera and@o pi@u presso al 
+segno Alquale aggiugne chi dal cielo @e dato.  Aristotele poi pien 
+d'alto ingegno.  Fu adunque Aristotele di Stagyra cipt@a.  Et figliuolo 
+di Nicomaco: el quale hebbe origine da Nicomacho figliuolo di Machaone: 
+et nipote d'Esulapio riputato iddio in medicina.  Scrive Apollodoro che 
+nacque el primo anno della nonagesima nona olympiade: et nella et@a 
+d'anni diciesepte cominci@o a udire Platone: et anni venti fu suo 
+auditore.  Stette con Philippo re di Macedonia: el quale gli decte a 
+erudire Alexander suo figluolo d'anni quindici: Et impetr@o da Philippo 
+che facessi rifare Stagyra sua patria.  Insegnava philosophia et 
+rhetorica insieme: Disputava andando per la schuola.  Onde e' suoi sono 
+chiamati peripatetici: perch$e peripatin in greco significa andare.  Fu 
+accusato: perch$e fece alla sua concubina: la qual molto amava e' 
+medesimi sacrificii/ che gli atheniesi facevono a Ceres grande iddia 
+appresso di loro.  Onde fugg@i in Chalcide: et quivi mor@i in quel 
+medesimo anno: che Demostene mor@i in Calabria.  Socrate atheniese 
+figliuolo di Sophronisco sculptore fu aiutatore a Eupolo in scrivere le 
+tragedie.  Ud@i Anaxagora: et poich$e lui fu dannato si trasfer@i ad 
+Archelao.  Fu sculptore: et fece le gratie: le quali furono poste nelle 
+roccha d'Athene.  fu in arte oratoria vehemente et acre.  Ma 
+vietorongli e' trenta tyranni: che non la potessi insegnare.  Scrivono 
+lui essere stato el primo: che con Eschine suo discepolo aperse: et di 
+lato e' campi: et gli ornamenti // c.46r oratorii.  Onde da Aristophane 
+poeta comico @e ripreso: chome huomo che potessi per forza d'eloquentia 
+far giusta la causa ingiusta.  Fu el primo repertore de' precepti di 
+philosophia morale: perch$e gli altri stati innanzi allui havevono 
+invigilato solamente in physica ^id est~ in philosophia naturale: N$e 
+solamente la disputava: Ma secondo quella vivea ripieno: et ornato di 
+tutte le virt@u: et sprezatore d'ogni volupt@a allegramente s'opportava 
+la povert@a: et con l'arte imparata dal padre sostentava la vita.  
+Insino ad tantoch$e Critone con sua liberalit@a lo souvenne: et fecegli 
+lasciare l'arte: et divent@o suo discepolo.  Insegnava per le botteghe 
+degli artefici sanza alchuna pompa: Ma chon grande utilit@a: et provava 
+chol testimonio d'Homero: che la philosophia morale @e pi@u utile 
+agl'huomini che la naturale.  Finalmente perch$e dall'oracolo 
+d'Apolline fu giudicato sapientissimo di tutti gli altri contraxe tanta 
+invidia: che Anyto gli provoc@o contro Aristophane poeta: et commosse 
+Melito che l'accusassi: che non adorava gli dii della patria: ma 
+induceva nuovi idii: et corrompeva la giovent@u: et finalmente dannato 
+a morte/ bevve el veleno datogli: perch$e in questo modo uccidevono 
+gl'atheniesi chi era condennato a morte.  Platone principe di dieci 
+secte di philosophi fu atheniese: et figliuolo d'Aristone: et per 
+sangue materno hebbe origine da Solone.  Era el suo proprio nome 
+Aristocle: Ma chiamoronlo Platone da excellente habito di corpo: o vero 
+da larga copia di dire: Altri dicono da larga et spatiosa fronte: 
+perch$e platos in greco significa largo: fu studioso in pictura et in 
+poetica.  Sogn@o Socrate che in grembo gli cresceva un piccolo cigno: 
+et cresciuto volava: et mirabilmente cantava: Di poi el giorno seguente 
+dandogli el padre Platone per discepolo dixe questo @e el cygno.  Vince 
+ogni oratorio ingegn@o tanta materia.  N$e si pu@o in brieve tempo n$e 
+le sue immortali: et varie virt@u: n$e el mare di tanta scientia 
+trascorrere: Tre volte and@o in Sicilia per ridurla in libert@a.  Et 
+tanto offese Dionisio tyranno di quella che lo vend@e a Polide 
+spartano.  Di poi in Egina fu ricomperato da Niceride cyrenasco: et 
+rimandato in Athene: Et per somma cupidit@a che havea di conseguire 
+ogni doctrina cerch@o gran parte della terra: In venti anni cominci@o a 
+udire Socrate: in ventisepte and@o a Megara a Euclyde mathematico.  Di 
+poi in Cyrene ad Theodoro.  Venne in Italia ad Philolao: et Euryto 
+pyctagorci: Navig@o insieme con Eurypide in Egypto a' sacerdoti: ne' 
+quali era somma doctrina.  In Babylonia a Chaldea: Volle andare in 
+Persia a' magi: Ma fu impedito dalla guerra asiatica: Onde fu 
+accumulato di tanta scientia: che dopo lui non fu necessario ad alchuno 
+greco ricercare altri studii che quegli di Grecia.  Mor@i el primo anno 
+della centesima octava olympiade sedendo a tavola a certe noze 
+nell'octogesimo primo anno della sua et@a.  |Democrito che 'l mondo a 
+caso pone~.  Fu Democrito della cipt@a chiamata Abdera/ huomo tutto 
+dato alla investigatione de' secreti della natura.  Ud@i in Egypto e' 
+sacerdoti.  In Persia e' magi.  Alchuni dicono che and@o anchora in 
+India a' gimnosophisti: et in queste peregrinationi spese tutto el suo 
+patrimonio: che fu cento talenti.  Il perch$e fu necessario che 'l 
+fratello lo nutrissi: Ma di poi fu in tanta auctorit@a che la sua 
+repubblica l'honor@o di gran pecunia: et fecegli statue Viveva sempre 
+in profonda meditatione: N$e conversava cogli altri: Et ridea di ci@o 
+che vedea fare sprezzando l'opere humane chome tutte piene di vanit@a: 
+et di stultitia.  Il perch$e riputando e' suoi ciptadini/ che lui 
+havessi perduto el sentimento chiamorono Hippocrate medico divinissimo 
+alla sua cura: Venne Hippocrate: et conobbe che non per stultitia: Ma 
+per somma sapientia parea stolto.  Scripse molte chose: ma perch$e nel 
+parlare fu obscuro @e decto da' greci ^scotinos~ ^id est~ ombroso.  
+L'opinione sua fu: che sia uno spatio infinito vacuo al tutto: nel 
+quale vadino volando infiniti atomi cio@e corpi s@i piccoli: che non si 
+possino dividere: e' quali a caso toccandosi insieme: et appiccandosi 
+fanno per questo vacuo infinito innumerabili mondi.  Adunque la fortuna 
+et el caso: et non divino artificio gli fa.  Il perch$e dixe el poeta 
+che lui pone el mondo a caso ^id est~ vuole che el mondo sia generato a 
+caso.  Diogene figliuolo di Nicesio fu di Sinope cipt@a: el padre era 
+cambiatore: et fals@o le pecunie.  Alquanti dicono che anchora lui le 
+fals@o.  Ma di poi mutando vita divent@o philosopho cynico.  Questi 
+havevono la medesima oppinione che gli stoici Che nessuna chosa fussi 
+bene se non la virt@u: et nessuna chosa fussi male se non el vitio.  Ma 
+vestivono di saccho: Ne ricusavono alchuno mercennume: Tenevono vita 
+austera et dura.  Riprendevono e' vitii mordacemente: Onde erono decti 
+cynici ^id est~ canini in lingua greca.  Diogene adunque venne Athene: 
+et dectesi nella disciplina d'Antistene principe de' cynici.  
+L'habitatione sua era un vaso di terra rimboccato.  Mendicava el victo/ 
+N$e riceveva pi@u che gli bisognassi per quel giorno.  Fu huomo 
+patientissimo d'ogni asperit@a.  Dormiva involto nel suo mantello.  
+Mangiava pocho chol pane altro che herbe.  Et dicendogli Aristippo Se 
+tu sapessi adulare a Dionisio re tu non viveresti in tanta penuria/ 
+rispose: et se tu sapessi vivere in tanta penuria non haresti a essere 
+adulatore a Dionisio.  Era in tanta reputatione/ che Alexander Magno 
+and@o a visitarlo: et trovollo sobto el suo vaso volto al sole.  
+Profersegli assai: A chui Diogene rispose non volere altro/ se non che 
+non gli togliessi el sole.  Conobbe tanta grandeza d'animo Alexander: 
+et intese che era pi@u riccho di lui: perch$e nel philosopho non era 
+cupidit@a alchuna/ vivendo contentissimo al pocho: et in s$e sentiva 
+tanta ambitione et desiderio di dominare: che udendo che secondo 
+Democrito erono pi@u mondi lachrim@o disperandosi potere vincergli 
+tutti.  Il perch$e soleva dire/ che se non fussi Alexander non vorrebbe 
+essere altri che Diogene.  Anaxagora fu di Clazomene citt@a/ decte 
+opera a philosophia in Athene sobto Callia: del quale trenta anni fu 
+discepolo.  Diceva che la luna conteneva in s$e gran paese: et monti et 
+valli.  Domandato a che fussi nato/ rispose Per contemplare el cielo.  
+el sole: et la luna.  Diceva che el poema d'Homero era tutto composto 
+di virt@u: et di iustitia.  Fu philosopho // c.46v naturale: et el 
+principio dell'opera sua: @e In principio tutte le chose erono confuse: 
+et insieme mixte.  Di poi la mente divina l'ordin@o et compose.  Dixe 
+che la mente era principio del moto.  |Et Thale~ Thalete nacque in 
+Phenycia della nobile schiacta del re Agenore: et venne in Meleto 
+isola: et fuviti facto ciptadino.  Fu uno de' Septe Savii della Grecia: 
+et el primo che fussi chiamato savio.  Scrive Callimaco che lui trov@o 
+l'orsa minore: alla quale navicano e' phenici.  El primo fu che in 
+Grecia disputassi di physica Voleva che ^etiam~ le chose inanimate 
+havessino anima trahendo congectura dalla calamita: dall'ambra perch$e 
+luna tira el ferro l'altra la paglia.  Volendo dimostrare quanto gli 
+fussi facile diventare riccho: et conoscendo per astrologia che in 
+quello anno haveva a essere abondantia d'ulive/ tutte le comper@o 
+innanzi al tempo: et gran pecunia ne guadagn@o.  Pose l'acqua essere 
+principio di tutte le chose: el mondo essere animato: et pieno di 
+spiriti.  Ringratiava di tre chose la fortuna/ che fussi huomo et non 
+bestia.  Maschio et non femina.  Greco et non barbaro: Bench$e altri 
+attribuiscono questo a Socrate.  Diceva iddio essere antichissimo di 
+tutte le chose.  bellissimo.  ingenito: et factore del tutto.  
+Empedocle fu di Sicilia: et della citt@a d'Agrigento [sic] Pose sei 
+principii alle chose: cio@e quattro elementi: et l'amicitia: et la 
+discordia Secondo Aristotele in Sophista fu el primo inventore d'arte 
+oratoria: et nel libro de' poeti lo chiama Empedocle homerico: perch$e 
+fu egregio poeta.  Satyro scrive che fu optimo medico: et optimo 
+degl'oratori: et preceptore di Gorgia Leontino.  El quale afferma 
+essersi trovato quando Empedocle exercitava l'arte magica: et dava 
+potioni a cacciare e' morbi et la senect@u: et fare venire venti 
+prosperi: et cessare gl'adversi.  Heraclyde scrive che lui riduxe in 
+vita una femina morta.  Scripse di Physica: et delle purgationi 
+cinquemila versi: et di medicina secento.  Heraclito: Fu Heraclito 
+d'Epheseo citt@a in Asia: et per assiduo et ardentissimo studio sanza 
+preceptore divent@o singularissimo.  Et chome Democrito del continuo 
+rideva la stultitia degl'huomini/ chos@i per l'opposito Heraclito 
+piangea mosso a compassione della miseria humana: et vedendo e' captivi 
+costumi de' suoi ciptadini/ habitava ne' monti in solitudine.  Zenone 
+citieo constitu@i la secta degli stoici: Chostui navicando con Purpura 
+di Phenycia in Grecia ruppe in mare: et perd@e le sue merce.  Onde 
+sconsolato venne in Athene: et volt@o alla philosophia/ ud@i Crate 
+philosopho cynico.  Divenne tanto docto: che era in somma veneratione: 
+in forma che gli atheniesi diponevono appresso di lui le chiavi delle 
+porti.  Fu anchora per publico decreto honorato di corona d'oro: et di 
+statua di bronzo: et factogli la sepultura in ceramico.  Et Antigono re 
+di Macedonia quando veniva in Athene sempre l'udiva.  L'opinione sua 
+era che niente sia buono se non la virt@u: et niente male se non el 
+vitio.  E' philosophi della sua secta prima dal suo nome furono 
+chiamati Zenonii.  Di poi perch$e disputava in nel portico pisianactio: 
+et portico in greco si dice ^stoi~: furono da tal portico nominati 
+stoici.  Di Ascoride fu optimo medico: et investigatore: del quale ^id 
+est~ delle qualit@a: et virt@u dell'herbe: et degli alberi: et delle 
+pietre.  Orpheo fu di Thracia.  et perch$e fu optimo musico et poeta: 
+dicono lui essere stato figliuolo d'Apolline: et di Calliopea.  Diodoro 
+Siculo scrive: che Baccho per le insidie in Thracia da Lygurgo factegli 
+sarebbe perito se Tharope huomo di quella regione non l'havessi innanzi 
+avvisato.  Il perch$e Baccho gli dette el reame di Thracia: et 
+insegnogli fare e' suoi sacrificii: Di Therope nacque Eagrio: et di 
+costui Orpheo: el quale ornato di molta prudentia et doctrina/ ripul@i 
+et orn@o molto e' sacrificii inseguati da Baccho: Et perch$e volle che 
+in quegli giorni: ne' quali tali sacrificii si facevono gl'huomini 
+dormissino seperati dalle mogli: le donne gli congiuroron contro: et 
+uccisonlo.  Altri scriptori dicono che lui and@o in Egypto: et impar@o 
+la doctrina de' sacerdoti: et tornando introduxe in Grecia e' 
+sacrificii di Baccho egyptiaco.  Dicono che col suono della sua Cythera 
+ragunava a s$e le fiere: et moveva e' monti: et fermava e' fiumi Il che 
+non @e altro se non che chon la sua eloquentia tirava alla vita civile 
+gli huomini efferati: et commovea alla virt@u gl'huomini stupidi et 
+rozzi: et acquietava l'impeto de' furiosi.  Tullio/ Sarebbe per 
+aventura meglio niente dire di tanto huomo/ che pocho dirne.  Et certo 
+non @e luogo questo potere non dico exornare: ma brievemente narrare le 
+sue molte grandi: et divine virt@u.  Imper@o che se consideriamo el 
+governo suo nella repubblica pare che niente gli potessi restare d'otio 
+agli studii: et alla doctrina.  Se da altra parte noteremo le chose che 
+ha scripto: giudicheremo che mai dallo studio si sia partito: Et 
+nientedimeno serv@i perfectamente all'una: et all'altra vita.  Solo 
+nella coniuratione di Catellina conserv@o la libert@a: nel qual tempo 
+era la libert@a romana da tutti e' nobili derelicta se lui non la 
+soccorreva.  Il perch$e merit@o dal Senato: et popolo romano per 
+publico decreto esser chiamato padre della patria.  Et Pompeo Magno 
+tornato chol triompho dixe che ogni obbligho haveva con Cicerone: 
+perch$e se non gl'havessi conservato la patria: non harebbe havuto dove 
+triomphare.  Fu adunque padre della patria: N$e meno padre della latina 
+eloquentia: la quale produxe a tanta sublimit@a: Che di poi nessuno ha 
+potuto non dico pi@u inalzarla: ma mantenerla dove lui la pose.  Lino 
+fu thebano: et per la sua somma eloquentia dixono alchuni poeti esser 
+figluolo di Mercurio et de Urania.  Alchuni d'Apolline.  Fu el primo 
+appresso de' greci: che trov@o la melodia: et la proportione nella 
+musica: et nell'arte poetica fu excellente: et le lectere le quali 
+Cadmo arrec@o di Phenycia in Grecia in greca dictione riduxe: Hebbe 
+molti discepoli: ma @e pi@u excellenti sono Hercule Tamyri: et Orpheo.  
+Scripse le chose facte dal primo Dionisio.  Dicono che Hercule/ perch$e 
+era di duro ingegno a imparare sonare la cythera: et per questo era 
+spesso battuto dal maestro cholla cythera con la quale imparava 
+l'uccise.  Seneca fu Anneo Seneca hyspagniuolo nato in Corduba: et poi 
+facto ciptadino romano: Et di chostui nacque Seneca: del quale al 
+presente si tracta huo- // c.47r mo admirabile di doctrina maxime 
+stoica: N$e meno laudabile per sapientia naturale: et sanctit@a di 
+vita: per le quali virt@u fu dato in preceptore a Nerone imperadore: Et 
+ne' principii molto honorato da lui.  Ma di poi dispiacendogli ogni 
+giorno la pi@u crudel tyrannide di Nerone: et molte volte ingegnandosi 
+obviare a' suoi furori venne in suspictione: et anchora da molti 
+detractori spesso era morso appresso di Nerone chome huomo che le 
+riccheze sue grandi: et pi@u che di privato s'ingegnassi accrescere: et 
+el favore de' ciptadini si conciliassi: Et quasi volessi contendere 
+chon Nerone nella magnificentia delle ville: et belleza degl'orti.  
+Volle adunque Seneca sobto honesta spetia liberarsi da tanta invidia: 
+et rendere a Nerone tutte queste cose dimostrando per la senile et@a 
+non essere pi@u apto al governo di tante cose.  Ma Nerone allhora 
+simulando amarlo non le volle.  Di poi non potendo pi@u dissimulare 
+l'odio ditermin@o che morissi: Ma concedendogli che eleggessi qual 
+morte volessi Seneca in bagno d'acqua calda si f$e tagliare le vene.  
+Fu amicissimo di Paolo apostolo chome dimostrano pi@u epistole mandare 
+dall'uno all'altro.  Il che persuase a Hieronimo che lui possa essere 
+tra' beati: Ma Danthe non apparendo di lui baptesimo: n$e trovandolo 
+nel catalogo de' sancti lo pone nel Limbo.  Euclide fu della cipta di 
+Megara studiosissimo lectore de' libri di Parmenide: Divenne physico: 
+et mathematico excellente.  Il perch$e dopo la morte di Socrate Platone 
+et gli altri suoi discepoli per paura de' trenta tyranni d'Athene 
+fugg@i in Megara ad Euclide.  Costui stim@o essere un solo bene: et 
+quello chiama hora dio.  hora mente: et hora prudentia.  Ptholomeo fu 
+d'Egypto: non per@o della stirpe reale de' Ptolomei alexandrini discesi 
+da lago milite d'Alexander Ma fu della cipta di Pelusio: et ne' tempi 
+di Troiano imperadore.  Scripse el sito della terra: et molte cose in 
+astrologia.  Hippocrate nacque nell'isola di Chio: fu tanto excellente 
+in medicina/ che in quella fu riputato iddio.  Era ne' tempi 
+d'Artaxerxe re di Persia.  Avicena fu emolo d'Averois: et figluolo di 
+re hispano: Riduxe in ordine le chose di Galieno.  Vixe ne' tempi 
+d'Antonio Pio.  Averois medico: et philosopho sommo: et emolo 
+d'Avicena: et d'una medesima patria: @E el primo tra quegli che hanno 
+comentato Aristotele
+
+	|145-151.~  Scusa che el thema: cio@e la materia proposta @e s@i lunga 
+che non pu@o insistere distinctamente: et particularmente in tutte le 
+parti di quella.  Et in questo admonisce qualunque scriptore che ha a 
+tractare in un volume molte chose/ non si distenda in ciaschuna 
+tantoch$e diventi tropo lungho: chome verbi gratia.  El Petrarcha 
+tracta in ogni triompho solamente una spetie d'huomini: et per questo 
+pu@o essere prolixo in narrarne molti.  Ma Danthe non tractando in 
+questo Inferno solamente de' famosi.  Ma de' luxuriosi.  golosi.  
+invidiosi.  avari: et superbi: et di molti altri vitiosi: non debbe in 
+ciaschuna di queste spetie nominarne molti: perch$e procederebbe in 
+infinito.  Ma bisogna che el dire ^id est~ el narrare venghi meno al 
+facto: ci@o non sia tanto quanti sono gl'huomini che hanno facto: et 
+pe' proprii facti sono in quel luogho dove gli pone la vita loro.  |La 
+sexta compagnia compagnia in due si scema~.  Perch$e Homero: et 
+gl'altri tre rimasono.  Et discrive che chome nel castello era l'aere 
+tranquillo et lucido: chos@i fuor del castello dove erono tormentati e' 
+dannati tremava: et era obscura.  |Per altra via~.  Imper@o che chome 
+alla contemplatione degl'huomini famosi si procede per la via delle 
+virt@u.  Chos@i alla contemplatione de' vitiosi si va riconoscendo e' 
+vitii.  Adunque per altra via mena el savio duca ^id est~ lo intellecto 
+nostro illustrato di scientia con altra ragione ci mostra el virtuoso: 
+et con altra el vitioso.  |Fuori dell'aria cheta~: Non erono quegli del 
+castello beati: perch$e non fruivono iddio: Nientedimeno erono in aria 
+cheta: cio@e immobile et quieta: perch$e la loro virt@u morale fu 
+sufficiente a tenergli in tranquillit@a: Ma fuori del castello era 
+l'aria tremante: perch$e negl'huomini vitiosi sempre l'animo @e in 
+vario moto: et pieno di perturbationi.  N$e meno si commuove et ribolle 
+exagitato da diverse passioni che el mare percosso da varii venti |Dove 
+non @e che luca~: Cio@e nel quale luogho non @e alchuna chosa che 
+risplenda o facci lume.  Et certo nell'animo infecto da' vitii: perch$e 
+@e impulso dal cieco appetito non apparisce lume alchuno di ragione.  
+Ma @e altutto nelle tenebre: Et questi chome dice el propheta: ^In 
+umbra mortis iacent~.  ^Preterea~ volle el poeta conformarsi col 
+Vangelio: el quale dimostra nello 'nferno essere tenebre exteriori: et 
+stridore di denti ^id est~ tremito et freddo // c.47v

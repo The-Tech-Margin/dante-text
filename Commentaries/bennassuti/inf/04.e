@@ -1,0 +1,627 @@
+	|1-3. Ruppemi~ ecc. Una causa naturale, ma prodotta da
+poter soprannaturale, addorment@o Dante in fine dell'altro canto,
+ed una causa pur naturale, quale si @e il tuono, ma pur prodotta
+da poter soprannaturale, svegli@o lo stesso Dante.
+
+	^Sonno nella testa~, perch@e la testa @e la sede
+principale del sonno. Qui per@o v'ha una ragione speciale per
+metterlo nella testa, e non diffuso per le altre membra, ed @e
+perch@e quel sonno di Dante fu sforzato e non richiesto dal
+bisogno di natura, la quale lo sparge proporzionatamente per
+tutto. In effetto quel sonno risponderebbe ad un grave
+sbalordimento.
+
+	|4-6. E l'occhio~ ecc. Bellissima pittura di quello che
+naturalmente fa chi si sveglia da un letargo, e non si trova
+dov'era prima.
+
+	|7-9. In su la proda~ ecc. Sull'orlo del primo cerchio
+d'Inferno.
+
+	Qui comincia il vero Inferno, a miglia 3150 dalla
+superficie, e va sino al centro per miglia 95. Vedi la mia ^Inf.~ Tav.
+I, N.+o~ 3.
+
+	Non do il disegno del vero Inferno, perch@e credo bastare
+il cono N.+o~ 3 anzidetto.
+
+	|10-12. Oscura~ ecc. Questo non vuol dire che nel luogo dove
+stava allora il poeta, cio@e nel primo cerchio non vi ci vedesse
+proprio niente. Dante parla della valle sottoposta, e
+precisamente del fondo di essa, dove del vedere era affatto
+niente. Sarebbe il caso identico di chi guarda gi@u in un pozzo
+profondo al cominciar della notte: vicino all'orlo di sopra si
+vede un poco, ma pi@u gi@u @e tolta affatto la vista, e non vi
+scorge che oscurit@a e tenebre perfette. Tal era il caso di
+Dante. -- ^Profonda.~ Miglia 95.
+
+	|14. Tutto smorto.~ Perch@e tutto smorto? Lo dir@a al v.
+19 e seg.
+
+	|16. Del color~ ecc. Bellissimo questo accorgersi del
+colore.
+
+	Ci fa supporre che Dante n'andasse atteso ad ogni minimo
+accidente della sua guida, prendendo da lui i suoi affetti o di
+tema, o di fidanza.
+
+	@E naturalissimo questo fatto in un uomo che si trovava
+in quelle condizioni di estremo terrore.
+
+	|17-18. Come verr@o~ ecc. Dante interpret@o male lo
+smarrimento di Virgilio. Ma anche questa torta interpretazione
+@e naturalissima, perch@e naturalmente si crede che altri provi
+in s@e stesso quello che proviamo noi ne' casi simili. Anche
+questa @e una nuova tentazione per ritirarsi dal santo viaggio.
+
+	|25. Secondo che~ si raccoglieva pel senso dell'udito, che
+la vista non potea tanto servire per l'oscurit@a dell'aria. In
+altro modo si direbbe: Secondo l'udito, a giudizio dell'udito.
+@E bel modo.
+
+	|26. Non avea pianto~ ecc. Qui era il Limbo. I
+condannati a questo luogo non aveano tormenti corporali ed
+esterni, ma solo tormenti di spirito e di cuore. Essi
+sospiravano. Erano perci@o in uno stato di mezzo tra i beati ed
+i veri dannati, oppure in uno stato di mezzo tra i primi che
+abbiamo trovati, e gli altri che troveremo. Perci@o si chiamano
+i sospesi: ^Io era fra color che son sospesi.~
+
+	|27. Che l'aura~ ecc. Si noti ben l'andatura di questo
+verso che esprime le vibrazioni aeree prodotte dai sospiri.
+
+	|31-32. Tu non dimandi.~ Perch@e gli fa questa
+interrogazione?
+
+	Per manifestargli che le sue interrogazioni gli son care
+quando sono a tempo e luogo, come questa. Questa assicurazione
+era necessaria per Dante, il quale ebbe un rifiuto all'ultima
+interrogazione che fece intempestiva, per cui tanto si vergogn@o
+da andarne cogli occhi vergognosi e bassi per tema no 'l suo dir
+gli fosse grave, e da non parlar pi@u sino al fiume Acheronte
+(Nota 43, Canto III) [vedi il commento a ^Inf.~ III, v. 79].
+
+	|33. Andi.~ Vada. Anticamente c'erano due verbi: Andare
+e Vadere. Poi di questi due se ne fece uno, togliendo alcune
+persone da un verbo e alcune dall'altro. Qui si adoper@o
+l'antico: ~io ando, tu andi, colui anda.~
+
+	|34-39. Ch'ei non peccaro~ ecc. Intendi con peccato attuale.
+
+	Dunque nessuna delle persone che sono in questo cerchio
+del Limbo ha peccato attuale, ma solo l'originale. Tutti
+questi poi che hanno il solo peccato originale, sono qui
+classificati.
+
+	Prima classe dei bambini prima e dopo il cristianesimo.
+Dove nota: Per bambini prima del cristianesimo non s'intendono
+ebrei, i quali si salvavano per la circoncisione e per la fede
+dei loro padri.
+
+	Seconda classe degli adulti dopo il cristianesimo, che
+non ebber peccati attuali, ma non ebbero nemmeno battesimo, onde
+sebbene avessero meriti, questi non valeano loro per il Paradiso
+(^E s'egli hanno mercedi -- Non basta~ ecc.).
+
+	Terza classe degli adulti prima del cristianesimo, che
+non ebber neppur essi peccati attuali, ma ebbero il peccato
+originale non mai cancellato, e l'ignoranza incolpevole del
+debito culto a Dio.
+
+	(^E se furon dinanzi~ ecc.) Tra questi Virgilio (^E di
+questi cotai son io medesmo~). Nota che la sentenza pi@u
+accreditata tra ' cattolici @e appunto questa che pel solo peccato
+originale non si ha la pena del senso, ma solo quella del danno,
+cio@e la perdita di Dio.
+
+	|40. Per tai difetti.~ Colpe negative, cio@e mancanza di
+cose necessarie alla vita eterna. ^Non per altro rio.~ Non per
+colpe positive, cio@e atti fatti scientemente contro la Legge
+divina.
+
+	|42. Che senza speme~ ecc. Questa @e detta dai teologi
+la pena del danno; cio@e la certa privazione di Dio per sempre,
+quantunque naturalmente si sentano portati a desiderarlo. @E la
+massima delle pene, quella che supera anche la pena del senso.
+Gli altri dannati adunque hanno due pene: questi una sola.
+
+	Non so se abbiate osservato una cosa, che par molto
+strana a prima vista, cio@e che ci sieno pene corporali
+nell'atrio dell'Inferno; poi, discendendo da questo nel primo
+cerchio, non sieno ivi pene corporali, le quali ricominciano nel
+secondo cerchio, per continuar poi in tutti gli altri. Perch@e
+dunque il poeta pone nell'atrio la pena del senso, e solo non la
+pone nel primo cerchio, sebbene qui cominci il vero Inferno?
+Rispondo: per indicare che il vero Inferno non @e costituito
+tanto dalla pena del senso, quanto dalla pena del danno. L'aver
+perduto Dio, questo @e il vero Inferno: ogni pena di senso
+sarebbe niente, se i dannati non avessero perduto Dio, o
+potessero sperare di possederlo quando che sia. Anche nella
+ipotesi che ai dannati fosse data la scelta, o di patire
+eternamente con Dio, o di non patir mai (intendi sempre
+sensibilmente) senza Dio, essi per cosa certa s'appiglierebbero
+al primo partito e non al secondo. Dante con questa
+distribuzione di dannati fece intendere nel modo pi@u chiaro e
+sensibile questa verit@a.
+
+	|47-51. Per voler esser certo -- Di quella fede~ ecc. Per
+voler esser certificato anche con argomenti umani di quel che
+crede la Fede cattolica in punto di Limbo e di persone che ne
+furono liberate.
+
+	Dante da buon cattolico credeva gi@a quello che insegna
+la Fede in questa materia, cio@e credeva che Ges@u Cristo appena
+morto discese all'Inferno a liberare le anime che erano al Limbo,
+non queste di cui Virgilio parl@o sino adesso, ma quelle dei
+santi, che morendo, col@a andavano e col@a stavano, finch@e Ges@u
+Cristo avesse loro aperte le porte del Paradiso. @E il V
+articolo del ^Credo~: <Discese all'Inferno>; onde Dante di questo
+era certo per certezza di Fede, che vince ogni errore, cio@e di
+Fede infallibile. Dunque il ^certo~ che abbiamo qui, non @e
+altro che: ^certificato anche per argomenti umani~, a riprova
+della nostra Fede. Ci@o che @e lecito, lecitissimo, massime
+trattandosi di essere a mano della Ragione, che @e Virgilio.
+
+	Questa dimanda poi che fa Dante @e anche suggestiva, in
+quanto che per essa viene ad accertarsi della veracit@a di
+Virgilio, per poter poscia viver tranquillo sulla sua parola. In
+somma @e una prova che la Fede cattolica piglia della Ragione per
+iscoprire s'ella sia vera e retta, oppur non lo sia. Perci@o
+disse: ^E quei che intese~ ecc.
+
+	|52. Io era nuovo in questo stato.~ Virgilio era nato 70
+anni prima della nascita di Ges@u Cristo, ossia 64 anni prima di
+essa, secondo la cronologia del medio evo, che anticipava la
+nascita di 6 anni; e 19 anni, ossia 13 secondo l'anzidetta
+cronologia, prima di detta nascita era morto. Si sommino dunque
+questi 13 anni coi 33 della vita di Ges@u Cristo e si avranno 46.
+Perci@o erano 46 anni che Virgilio era al Limbo. Egli dice che
+vi era nuovo, non ostante che fossero passati 46 anni; perch@e
+questo tempo che sarebbe abbastanza lungo per la vita presente,
+@e un nulla per la vita futura.
+
+	|53-54. Con segno~ ecc. Col vessillo della Croce, sulla
+quale Ges@u Cristo, questo Possente, trionf@o della morte e del
+peccato, e colla corona di spine, entrambi non pi@u segni di
+sconfitta, ma di vittoria.
+
+	|55. Primo parente.~ Primo padre Adamo.
+
+	|58. Abraam~ ecc. Personaggi della genealogia diretta di
+Ges@u Cristo, cominciando dal capostipite Abramo, col quale Dio
+contrasse i patti d'alleanza diretti a sceverare il popolo eletto
+dalle nazioni idolatre, ed al quale furono fatte le promesse del
+futuro Redentore.
+
+	|59. Israel~ @e Giacobbe figlio d'Isacco. ^Suoi nati~
+sono i dodici suoi figliuoli (compresi quelli di Giuseppe) capi
+delle dodici trib@u.
+
+	|60. Rachele~ ecc. Fra le donne ebree ha una particolar
+menzione Rachele e perch@e prima e vera moglie di Giacobbe,
+mentre le altre furono mogli surrogatizie, e perch@e ella era s@i
+bella, savia e dolce, che per lei tenne bene spesi Giacobbe
+quattordici anni di fatiche, e perch@e dessa @e la madre di
+Giuseppe e Beniamino, i soli figliuoli di Giacobbe che fossero
+buoni, e perch@e finalmente @e la compagna di Beatrice i cielo,
+come vedremo.
+
+	|62-63. Dinanzi ad essi~ ecc. Prima che venisse quel
+Potente nessuno del limbo usc@i mai n@e per proprio merito, n@e
+per altrui per volare alla beatitudine. Cos@i Virgilio ha
+risposto perfettamente alla dimanda di Dante: ^Uscinne mai
+alcuno~ ecc.? e cos@i conferm@o con argomenti umani quello che
+gi@a Dante tenea per Fede infallibile, e mostr@o che la Ragione
+punto non ripugna alla Rivelazione.
+
+	|66. Di spiriti spessi.~ Di tanti milioni di bambini
+morti senza battesimo.
+
+	|69. Emisperio~ (nominativo). ^Vincia~: circondava.
+Perch@e dice: ^emisperio~ e non ^sfera~ di tenebre? Perch@e in
+una sfera orizzontale non si pu@o vedere che un emisperio. Dalla
+parte di Dante c'era questo ^emisperio~ tenebroso, e al di l@a
+quel ^foco.~
+
+	|72. Orrevol gente.~ Intendi come vuoi, o accusativo o
+nominativo. Il senso @e lo stesso.
+
+	|73. Onori~ ecc. La biografia insegna che Virgilio era
+uomo enciclopedico e sommo.
+
+	|76-78. L'onrata~ ecc. Non serve dire che tutta questa
+distinzione onorifica concessa alla grandezza umana @e solo una
+fantasia del poeta.
+
+	Esso potea dir queste cose non gi@a perch@e le tenesse
+vere, ma perch@e son tali, che non ripugnano al dogma. Infatti
+non ripugna al dogma che persone le quali non hanno altri peccati
+che l'originale, se sono escluse dalla beatitudine, non sieno
+escluse da certe felicit@a naturali, fondate in massima parte sui
+nobili affetti che in vita li animarono a belle imprese.
+
+	|80. Poeta.~ Virgilio. L'applauso era delle quattro
+grandi ombre che venivano ad incontrarlo. Esse sono poeti perch@e
+Virgilio @e anzitutto poeta.
+
+	|83-84. N@e trista, n@e lieta.~ Perch@e non erano n@e beati
+n@e dannati.
+
+	|86. Spada.~ La spada @e segno di comando. Perch'esso
+era il capo, la spada gli stava bene. Quella spada accenna anche
+alle guerre della sua ^Iliade~, e come tale lo si trova
+raffigurato anche in qualche medaglia.
+
+	|88. Omero~, primo di tutti i poeti, eccetto Dante
+maggior d'Omero.
+
+	|89. Satiro~, ossia satirico, perch@e scrisse le satire.
+
+	Perch@e notarlo dalle satire e non dalle odi? Perch@e le
+satire sono pi@u utili ed instruttive delle odi, e qui si calcola
+pi@u questo che altro. Inoltre molte odi puzzano d'epicureo.
+
+	|90. Ovidio~ autore di varie poesie, terzo nel merito.
+
+	^Lucano~, autore della ^Farsaglia~, ultimo nel merito.
+
+	|91. Si conviene~ con me nel nome di poeta, essendo essi
+tutti e quattro poeti.
+
+	|92. La voce sola.~ Dovette essere quella di Omero, che
+parlava come capo.
+
+	|93. Fanno bene.~ Virgilio approva l'onor che gli fanno,
+perch@e il sentimento di onore era il pi@u grande che avessero i
+gentili, e i sentimenti della vita restano anche dopo morte, se
+buoni per nostro gaudio, se cattivi per nostra pena.
+
+	|94-96. Sovra gli altri~ ecc. Il poeta dell'antichit@a, che
+pi@u si accost@o a natura (nel che sta l'eccellenza), @e appunto
+Omero, e perci@o egli vola sovra tutti. Virgilio, in confronto
+di Omero, lavor@o pi@u di arte che di natura. ^L'altissimo
+canto~ @e prima l'^Iliade~, poi l'^Odissea.~
+
+	|97-99. Da ch'ebber ragionato~ ecc. Di che cosa hanno
+ragionato?
+
+	Dei meriti di Dante nella poesia. Questo non dirlo e
+farlo indovinar dagli effetti, cio@e dai saluti che gli fecero
+subito dopo, e dal sorriso di Virgilio, @e tale una gioja di
+natura che rapisce.
+
+	|100-102. Fui sesto~ ecc. Lo ascrissero al numero dei poeti;
+fra i quali si dice il sesto. Troppa umilt@a, perch@e in fatto
+era il primo di tutti loro.
+
+	|103-104. Parlando~ ecc. Dante sapeva il proverbio: ^Laus in
+ore proprio sordescit.~ Quando per@o la propria lode si deve
+dire, allora convien dirla col massimo riserbo. Cos@i fece Dante
+anche in questo luogo, oltre il detto alla Nota 39 [vedi il commento a ^Inf.~ IV, 
+v. 97]. Io sono persuaso che Dante in quella passeggiata sino alla lumiera
+(sopra la disse ^foco~) si facesse conoscere a quei poeti per quel
+valente ch'egli era, e sono persuaso che gli altri poeti suoi
+compagni avranno sentito quanto gli dovessero stare al di sotto:
+e quindi lodi sopra lodi. L@a dunque era bello e lusinghiero il
+parlarne, e qua il tacerne. Che dilicati e gentili pensieri!
+
+	|106-108. D'un nobile castello~ ecc. Questa abitazione @e
+cos@i immaginata da bella fantasia poetica intesa a rendere pi@u
+che si pu@o gradevole ed onorifico un tal soggiorno per le anime
+grandi.
+
+	Lo cerchia di sette mura, credo, in onore dei sette studi
+del trivio e del quatrivio in che ripartivano tutte le scienze
+nel medio evo.
+
+	Lo difende da un fiumicello, perch@e questo @e sempre
+necessario ai luoghi ameni.
+
+	|109. Come terra dura.~ Tutto qui vuol esser portentoso.
+
+	Acheronte non si pu@o passar che per nave, qui invece si
+cammina sull'acque. Passi per gli altri ch'erano spiriti, ma per
+Dante? Pure anche per Dante dovea esser cos@i, perch@e anch'egli
+era stato gi@a ascritto a quella schiera (^essi mi fecer della
+loro schiera~), e quindi dovea partecipare ai privilegi del corpo
+a cui apparteneva.
+
+	Immaginate che gusto pel nostro poeta, che pur avea tanto
+bisogno di rifocillarsi dalla tristezza patita ad Acheronte.
+
+	|110. Per sette~ ecc. Se avea sette mura; dunque anche
+sette porte. Siccome poi l'una scienza apre l'adito all'altra,
+cos@i queste sette porte vorrebbero significar il passaggio da
+una scienza inferiore ad un'altra superiore, parlando sempre
+delle sette, dette trivio e quatrivio, di cui puoi leggere un
+esatto dettaglio in Cesare Balbo, ^Vita di Dante.~
+
+	|111. Prato~ ecc. Il prato, come il fiume, non deono mai
+mancare ad una pittura di amenit@a. E poi si tratta di far seder
+tanta gente. Dove meglio, che per un prato di fresca verdura?
+
+	|112-114. Con occhi~ ecc. Ecco qual dev'essere il consesso
+delle persone grandi, quali dovrebbono essere i Parlamenti delle nazioni,
+le Camere dei Senati. Notate gli occhi (^tardi e
+gravi~); notate i sembianti (^di grande autorit@a~); notate le
+parole (^parlavan rado~); notate la voce (^voci soavi~). Che si
+ha da dire adesso di certe Camere?
+
+	|115. Traemmoci~ ecc. Di qui senza dubbio tolse Rafaele
+il suo bellissimo ^Parnaso~ dipinto a fresco in una lunetta delle
+logge del Vaticano. Sempre i pittori deono attingere dai poeti
+le loro immagini. Rafaele il faceva, e ne dimandava all'Ariosto,
+al Bembo, al Castiglioni. Non si fidava mai di s@e stesso.
+Perci@o riusc@i massimo. Noto a questo proposito che i pittori
+hanno bisogno di Dante, come del pan che si mangia. Non v'ha
+scena della vita che Dante non abbia dipinta co' suoi colori. Chi
+va fuor da questi, cade nel falso. Il terribile Buonarotti,
+anima dantesca, apprese molto da Dante. Gli sapea s@i caro, che
+ne effigi@o su cartoni gli argomenti di tutti i Canti. Peccato
+che andassero smarriti!
+
+	|116-117. In luogo aperto~ ecc. Osservate il ^Parnaso~ di
+Rafaele, e lo vedrete tale.
+
+	|118. Diritto~ ecc. Non seduto ma ^diritto.~ @E naturale
+in simili incontri, quando ad uno si vogliono far vedere cose
+straordinarie.
+
+	Si dice anche ^diritto~ per un'altra ragione tutta
+naturale, ma poco osservata. Provatevi, o immaginatevi di essere
+sopra un luogo alto, donde potete dominare comodamente tutti gli
+oggetti sottoposti. Quantunque li vedreste istessamente anche
+stando seduto, pure non potete tenervi a scranna, ma vi levate
+diritto della persona, quasi credendo di vedere di pi@u per una
+insensibile altezza che vi date. Non @e questa natura?
+
+	|120. Di vederli~ sta per ^di averli veduti~, secondo
+l'uso del trecento.
+
+	^N'esalto.~ Insuperbisco in me stesso. @E quel che
+succede.
+
+	Chi pu@o dire: Ho veduto il papa, ho parlato
+coll'imperatore, si sente come crescere in s@e stesso.
+
+	|121-123. Elettra.~ Vengono primi quattro eroi, in onore dei
+tre poeti epici Omero, Virgilio e Lucano; cio@e Elettra per
+Omero, Ettore ed Enea per Virgilio, Cesare per Lucano.
+Trattandosi di Cesare, quale vincitor di Farsaglia contro Pompeo,
+la pittura degli occhi grifagni, e dell'armatura, sta molto bene.
+L'indicatore @e Virgilio, perch@e guida di Dante.
+
+	Di questi personaggi e degli altri che seguono, viene a
+far Dante alcuni gruppi distinti gli uni dagli altri. Ed @e
+naturalissimo anche questo aggrupparli a drappelli distinti,
+perch@e ogni simile ama il suo simile; e facilmente si uniscono
+fra loro quelli che ne hanno un interesse o una simpatia
+particolare. Se non fosse per questa inclinazion di natura, il
+poeta bisognava che facesse cos@i anche per ragioni d'arte, cio@e
+per distribuire con un qualche ordine i suoi personaggi a scanso
+di monotonia o di confusione. Cos@i (per dare un esempio nella
+pittura ad ammaestramento dei pittori), cos@i fece Leonardo da
+Vinci nel suo famoso a fresco della ^Cena di Ges@u cogli
+Apostoli~ esistente in Milano: esso gli aggrupp@o a tre a tre, e
+cos@i ottenne una distribuzione simmetrica, che risponde tanto
+bene nelle pitture, e che dovrebbe esser lo studio dei pittori
+prima di abbozzare le tavole.
+
+	Della discendenza trojana adunque, che forma il primo
+gruppo, si prendono quattro personaggi principali. 
+
+	1.+o~ La madre del fondatore di Troja, che fu Dardano (Elettra),
+la quale si dice con molti compagni, perch@e a fondare una citt@a ed
+un regno occorre assistenza d'intere colonie: Dardano venne
+dall'Italia nel 1480 avanti Cristo.
+
+	2.+o~ Due eroi al tempo della caduta di Troja (Ettore figlio di Priamo, ultimo re di Troja, ed Enea figlio di Anchise, principe trojano).
+
+	Questi, siccome furono contemporanei, ed hanno combattuto
+insieme contro i Greci, cos@i si pongono uniti (^ed Ettore ed
+Enea~). 
+
+	3.+o~ Giulio Cesare, che pretendevasi disceso da Enea per via
+di padre, ^nascetur pulchra Trojanus origine Caesar.~ Ma siccome
+egli fu assai lontano di tempo dagli altri due, perci@o Dante si
+espresse in modo che si venisse a raccogliere questo distacco.
+Questi fu il distruggitore della Republica mediante la guerra di
+Farsaglia, e il fondatore dell'Impero Romano. Per questo lo si 
+contrassegna ^armato con gli occhi grifagni.~
+
+	|124. Camilla~ ecc. Il secondo gruppo @e formato da due
+donne guerriere, che avendo avuto il medesimo ticchio dell'armi,
+perci@o si accoppiano volentieri. Camilla era regina de' Volsci,
+e mosse in ajuto di Turno e dei Latini contro Enea, che si voleva
+stabilire in Italia. Pentesilea, regina delle Amazzoni, che
+and@o a Troja a soccorrervi i Trojani al tempo del famoso
+assedio. Siccome la prima ha combattuto contro Enea, e la
+seconda in favore, perci@o i discorsi fra queste due donne di
+parte contraria, deono essere stati alquanto curiosi.
+
+	Un pittore che facesse questo secondo gruppo, avrebbe un
+bel da fare.
+
+	|125-128. Il re Latino~ ecc. Il terzo gruppo @e formato da
+padre e figlia (Latino e Lavinia). Esso la diede in isposa ad
+Enea, ma la figlia amava Turno, nemico di Enea, e a lui era stata
+promessa in isposa. Questi rovesci d'amore la fanno sedere, e
+per consequenza, le fan sedere accanto anche il padre per
+consolarla del suo amore perduto, perch@e Turno era stato ucciso
+da Enea. Quanta perizia delle passioni e dei loro effetti
+dovrebbe aver quell'artista che pingesse siffatti gruppi.
+
+	|Bruto~ ecc. Il quarto gruppo @e formato da Bruto
+vendicatore della violata Lucrezia, e da questa e da tre altre
+romane, celebri per l'amore alla libert@a della patria e per la
+loro onest@a.
+
+	Bruto cacci@o Tarquinio ultimo re di Roma, per vendicar
+nel padre il delitto del figlio Sesto, e cos@i pose termine alla
+Monarchia di Roma (509 avanti Ges@u Cristo) e fond@o la
+Republica. Lucrezia, moglie di Collatino, violata da Sesto.
+Giulia, figlia di Giulio Cesare, e moglie di Pompeo, i quali
+stettero amici finch'ella visse, e perci@o a lei il mondo and@o
+debitor della pace. Marzia, moglie di Catone uticense.
+Cornelia, figlia di Scipione Africano e moglie di Gracco.
+
+	 -- Ora riepilogando questi quattro gruppi, e facendone
+vedere la profonda filosofia e cognizioni di storia che ebbe il
+poeta nell'ordinarli, dir@o che
+
+	Nel primo, abbiamo la storia di Troja, dalla sua
+fondazione alla sua caduta, alla quale storia si unisce anche
+Cesare, per far rilevare che Cesare @e discendente da Enea; punto
+che stava molto a cuore a Virgilio che @e, per Dante, il cicerone
+di tutta questa mostra.
+
+	Nel secondo, abbiamo un episodio di due eroine, tra di
+loro contrarie, le quali servono di anello di congiunzione tra la
+guerra di Troja e la guerra d'Italia, per la sua conquista da
+parte dei Trojani.
+
+	Nel terzo, abbiamo l'epoca dei re latini discendenti da
+Enea.
+
+	Nel quarto, abbiamo il termine del regime monarchico e
+l'epoca della Republica.  Dopo la Republica venne l'Impero, ma
+questo venne accennato sopra in Cesare.
+
+	|129. Saladino~, soldano di Siria, stava da solo.  Dunque
+non ve ne avea altri della setta Maomettana. Desso era valente,
+generoso, umano e fedele mantenitore della sua parola. Regn@o 24
+anni in Egitto e 19 in Siria. Mor@i nel 1193 di 59 anni. Questo
+sarebbe il quinto gruppo; e il metterlo col@a, piuttosto che tra
+i veri dannati, @e in appoggio della possibilit@a di un tal caso,
+e delle vere sue virt@u morali. L'opinione pubblica de' Crociati
+stessi, dice Torricelli, proclamavalo per ^giusto re.~ Il
+signor Renuard nella storia delle Crociate ci fa sommamente
+ammirare le singolari doti di s@i famoso Soldano, di cui cant@o
+un poeta orientale: <Saladino dal campo di battaglia copriva i
+popoli con le ali della sua giustizia.>
+
+	|130. Poich@e innalzai~ ecc. Il sesto gruppo @e formato
+da Aristotele (la cui filosofia s'insegnava ai tempi di Dante) e
+dalla sua scuola. Ma per questi tali il poeta dovette guardar
+pi@u in alto, perch@e il valor nelle scienze supera il valor
+nell'armi. Siede, perch@e chi ammaestra siede a cattedra.
+
+	|131-133. Tutti~ ecc. Aristotile, come si disse, era il testo
+di filosofia che adoperavano gli Scolastici, che allora erano i
+soli maestri degli studj superiori. Perci@o noi vediamo
+l'Angelico fondar sempre i suoi dottrinali sull'autorit@a
+d'Aristotile. I Padri invece dei secoli antecedenti non erano
+Aristotelici, ma Platonici. Insiste dunque il poeta sugli onori
+e sulle ammirazioni per Aristotile.
+
+	|134. Socrate~ ecc. Due altri filosofi di primo grido,
+l'uno maestro (Socrate) e l'altro discepolo (Platone); greci
+entrambi.
+
+	Parlando di filosofi, si restringe ai Greci, perch@e
+veramente la Grecia super@o tutti anche in questo ramo
+d'insegnamento. I Romani difettavano di filosofi, e quando una
+lor persona educata volea perfezionarsi negli studj fatti, non
+tralasciava mai di viaggiare in Grecia. Cos@i fece Virgilio,
+cos@i Cicerone, cos@i Augusto e tutti.
+
+	|136-138. Democrito~ ecc. Altri filosofi di secondo calibro,
+de' quali, per toccare il difetto in confronto dei menzionati,
+nota una stravaganza del primo, cio@e Democrito, che poneva il
+mondo opera del caso, quasi dicesse: Se questi, ch'@e il primo,
+commise errore, nemmeno gli altri furono senza.
+
+	|139-140. Dioscoride~, celebre medico d'Anazarbo, citt@a di
+Cilicia sotto il regno di Nerone: prima dato all'armi, poi allo
+studio dei semplici, de' quali accolse in un'opera le qualit@a
+(^quale~).
+
+	Da questo in poi cessano i gruppi di pi@u persone.
+Questi stanno da soli qua e col@a; perch@e i loro studj sono
+diversi. Dante dovea fare cos@i anche pittoricamente parlando.
+
+	|140-141. Orfeo~, musico celebratissimo anteriore ad Omero.
+
+	^Lino~, grammatico, del quale Suida dice: ^Primum Linum
+ex Phaenice in Graeciam literas intulisse (Huetius Demons. Evang.
+prop. IV, c. VIII, XX, post medium~). Invece al chiaro
+Torricelli piacque leggere con qualche codice, Livio e non Lino,
+intendendo Livio Andronico, ^che primo di@e lezioni in Roma di
+grammatica metodica.~ A proposito del signor Torricelli,
+raccomandiamo la lettura di un suo prezioso opuscolo pubblicato a
+Venezia nel 1864, che ha per titolo: ^La poesia di Dante ed il
+suo castello del Limbo~, dove si fa un assai dotto confronto tra
+i savj del Limbo e i savj veduti da Dante nel Sole, e tra le arti
+liberali del trivio e del quatrivio di quelli, colle arti di
+questi. Dei Romani, per la dottrina, non tocca che Tullio e
+Seneca, perch@e i Romani se furono superiori ai Greci nell'armi,
+erano loro inferiori nel resto: Tullio per la eloquenza, Seneca
+per la filosofia morale.
+
+	|142-144. Euclide~ ecc. Finalmente cos@i alla rinfusa pone un
+geometra (^Euclide~); un astronomo (^Tolomeo~, il cui sistema si
+seguiva anche ai tempi di Dante); tre enciclopedici, che
+spiccavano per altro in medicina (^Ippocrate, Avicenna e
+Galieno~); e da ultimo un commentatore di Aristotele (^Averrois~,
+arabo come Avicenna). Tutti sanno che nel Medio Evo s'era
+formato un nucleo di letteratura presso gli Arabi di Spagna, i
+quali ebbero il merito delle scienze pure e della conservazione
+di scritti arabi di pregio.
+
+	Qui termina la rivista dei personaggi celebri, che stanno
+al Limbo in luogo distinto, frammezzo ad una bella luce,
+sparpagliati per siti ameni, entro ad un'aura sempre tranquilla,
+perch@e non era mossa da sensibili sospiri, com'era fuori di
+questo emisperio, dove si disse di sopra, che i sospiri eran
+tali: ^Che l'aura eterna facevan tremare.~
+
+	Ancora uno sguardo a tutti guesti personaggi prima di
+lasciarli.
+
+	Osserviamo con quanta variet@a Dante li pone: 1. Talora
+a gruppi e talora soli. 2. Talora gruppi di sole donne e talora
+donne con uomini. 3. Alcuni pi@u bassi e alcuni pi@u alti. 4.
+Certuni seduti e certuni in piedi. 5. Parte pi@u vicini e parte
+pi@u lontani. I pittori troverebbero qui un bellissimo campo da
+colorire, un quadro stupendo di nuova invenzione, da intitolarsi:
+^Il Limbo di Dante.~
+
+	Un altro quadro simile a questo noi lo troviamo nel
+^Purg.~ Canto VII, dove Dante pone ben partiti in un'amena
+valletta i signori troppo affezionati alla terra, dall'imperatore
+al marchese.
+
+	^NB.~ Se alcuno si maravigliasse che Dante abbia
+assegnato nell'altra vita a certi personaggi antichi e celebri
+assai, uno stato n@e tristo n@e lieto, quale si @e quello del
+castello dei savj, sappia che Dante, con immaginare un tal luogo
+ed una tale condizione di stato ultramondiale, ha inteso di dare
+tutte le possibili gradazioni in che pu@o trovarsi l'uomo
+nell'altra vita a seconda de' suoi meriti.
+
+	La qual cosa ci @e lasciata ignota da Dio; e perci@o
+senza offesa della divina giustizia e del dogma, pu@o un poeta
+immaginare e fingere quello che pur esser potrebbe.
+
+	|145-147. Al fatto~ ecc. Tante cose debbo dire nel mio lungo
+poema, che al fatto di descrivere tutti i personaggi, che ho
+veduto col@a, non possono rispondere le mie parole, ma debbo
+troncare il discorso, e risparmiarlo per pi@u altre cose che
+saran lunghe.
+
+	|148. La sesta~ ecc. La compagnia de' sei ne perde due,
+cio@e Virgilio e Dante, che partono.
+
+	|149. Per altra via~ ecc. Non per la prima, dove avea
+veduto Dante quell'emisperio di tenebre, ma per l'altra opposta,
+dove egli passer@a per l'altro emisperio di rimpetto al primo.
+In somma entr@o per una parte, ed usc@i per la parte opposta,
+tenendo sempre a sinistra, come si dir@a in appresso.
+Nell'Inferno si gira sempre per la sinistra, e nel Purgatorio si
+gira sempre per la destra.
+
+	|150. Fuor della queta~ ecc. Nel Limbo degli uomini
+celebri non si sospirava sensibilmente, ma solo si desiderava
+(^Sol di tanto offesi -- Che senza speme vivemo in desio~).
+Invece nel Limbo degli altri, che stavano tra le tenebre, si
+sospirava e fortemente s@i da far tremar l'aura.

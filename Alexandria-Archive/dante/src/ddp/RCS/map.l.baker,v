@@ -1,0 +1,415 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.12.23.19.14.28;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@%{
+#define	THIS_IS_MAP
+#include "map.h"
+/*
+ * The string array mapstr[TERMINAL][SEQUENCE] contains the strings to be
+ * output for each escape sequence for each terminal.
+ */
+static char *mapstr[2][58] = {
+	/*
+	 * Strings for the DEC VT200 and Rainbow
+	 */
+	{
+#define BOLD		0
+	"\033[1m",
+#define ITALIC		1
+	"\033[4m",
+#define ROMAN		2
+	"\033[0m",
+#define DEGREE		3
+	"\260",
+#define L_EUROPE	4
+	"\253",
+#define R_EUROPE	5
+	"\273",
+#define UP_AE		6
+	"\306",
+#define LOW_AE		7
+	"\346",
+#define UP_OE		8
+	"\327",
+#define LOW_OE		9
+	"\367",
+#define UP_GR_A		10	/* UPper case GRave A */
+	"\300",
+#define LOW_GR_A	11
+	"\340",
+#define UP_GR_E		12
+	"\310",
+#define LOW_GR_E	13
+	"\350",
+#define UP_GR_I		14
+	"\314",
+#define LOW_GR_I	15
+	"\354",
+#define UP_GR_O		16
+	"\322",
+#define LOW_GR_O	17
+	"\362",
+#define UP_GR_U		18
+	"\331",
+#define LOW_GR_U	19
+	"\371",
+#define UP_GR_Q		20
+	"\121",
+#define LOW_GR_Q	21
+	"\161",
+#define UP_AC_A		22	/* UPper case ACute A */
+	"\301",
+#define LOW_AC_A	23
+	"\341",
+#define UP_AC_E		24
+	"\311",
+#define LOW_AC_E	25
+	"\351",
+#define UP_AC_I		26
+	"\315",
+#define LOW_AC_I	27
+	"\355",
+#define UP_AC_O		28
+	"\323",
+#define LOW_AC_O	29
+	"\363",
+#define UP_AC_U		30
+	"\332",
+#define LOW_AC_U	31
+	"\372",
+#define UP_AC_Q		32
+	"\121",
+#define LOW_AC_Q	33
+	"\161",
+#define UP_CEDILLA	34
+	"\307",
+#define LOW_CEDILLA	35
+	"\347",
+#define UP_UM_A		36	/* UPper case UMlauted A */
+	"\304",
+#define LOW_UM_A	37
+	"\344",
+#define UP_UM_E		38
+	"\313",
+#define LOW_UM_E	39
+	"\353",
+#define UP_UM_I		40
+	"\317",
+#define LOW_UM_I	41
+	"\357",
+#define UP_UM_O		42
+	"\326",
+#define LOW_UM_O	43
+	"\366",
+#define UP_UM_U		44
+	"\334",
+#define LOW_UM_U	45
+	"\374",
+#define UP_CAR_A	46	/* UPper case CAReted A */
+	"\302",
+#define LOW_CAR_A	47
+	"\342",
+#define UP_CAR_E	48
+	"\312",
+#define LOW_CAR_E	49
+	"\352",
+#define UP_CAR_I	50
+	"\316",
+#define LOW_CAR_I	51
+	"\356",
+#define UP_CAR_O	52
+	"\324",
+#define LOW_CAR_O	53
+	"\364",
+#define UP_CAR_U	54
+	"\333",
+#define LOW_CAR_U	55
+	"\373",
+#define TERMINIT	56
+	"\033[62\"p",
+#define TERMDEINIT	57
+	"\033[61\"p\033[?7h",
+	},
+	/*
+	 * Strings for the IBM PC
+	 */
+	{
+/* BOLD */
+	"\033[1m",
+/* ITALIC */
+	"\033[4m",
+/* ROMAN */
+	"\033[0m",
+/* DEGREE */
+	"\370",
+/* L_EUROPE */
+	"\256",
+/* R_EUROPE */
+	"\257",
+/* UP_AE */
+	"\222",
+/* LOW_AE */
+	"\221",
+/* UP_OE */
+	"OE",
+/* LOW_OE */
+	"oe",
+/* UP_GR_A */
+	"A",
+/* LOW_GR_A */
+	"\205",
+/* UP_GR_E */
+	"E",
+/* LOW_GR_E */
+	"\212",
+/* UP_GR_I */
+	"I",
+/* LOW_GR_I */
+	"\215",
+/* UP_GR_O */
+	"O",
+/* LOW_GR_O */
+	"\225",
+/* UP_GR_U */
+	"U",
+/* LOW_GR_U */
+	"\227",
+/* UP_GR_Q */
+	"Q",
+/* LOW_GR_Q */
+	"q",
+/* UP_AC_A */
+	"A",
+/* LOW_AC_A */
+	"\240",
+/* UP_AC_E */
+	"\220",
+/* LOW_AC_E */
+	"\202",
+/* UP_AC_I */
+	"I",
+/* LOW_AC_I */
+	"\241",
+/* UP_AC_O */
+	"O",
+/* LOW_AC_O */
+	"\242",
+/* UP_AC_U */
+	"U",
+/* LOW_AC_U */
+	"\243",
+/* UP_AC_Q */
+	"Q",
+/* LOW_AC_Q */
+	"q",
+/* UP_CEDILLA */
+	"\200",
+/* LOW_CEDILLA */
+	"\207",
+/* UP_UM_A */
+	"A",
+/* LOW_UM_A */
+	"\204",
+/* UP_UM_E */
+	"E",
+/* LOW_UM_E */
+	"\211",
+/* UP_UM_I */
+	"I",
+/* LOW_UM_I */
+	"\213",
+/* UP_UM_O */
+	"O",
+/* LOW_UM_O */
+	"\224",
+/* UP_UM_U */
+	"U",
+/* LOW_UM_U */
+	"\232",
+/* UP_CAR_A */
+	"A",
+/* LOW_CAR_A */
+	"\203",
+/* UP_CAR_E */
+	"E",
+/* LOW_CAR_E */
+	"\210",
+/* UP_CAR_I */
+	"I",
+/* LOW_CAR_I */
+	"\214",
+/* UP_CAR_O */
+	"O",
+/* LOW_CAR_O */
+	"\223",
+/* UP_CAR_U */
+	"U",
+/* LOW_CAR_U */
+	"\226",
+/* TERMINIT */
+	"",
+/* TERMDEINIT */
+	"",
+	}
+};
+
+#define map(i)	(mapstr[termtype][i])
+
+/*
+ * Arrange for yylex to work on a single string rather than on stdin.
+ * The results are put into another string rather than written to stdout.
+ */
+#undef	getc
+#define	getc()	(*lexinp++)
+#undef	ECHO
+#define	ECHO	outs(yytext)
+#undef	output
+#define	output(c)	(*lexoutp++=(c))
+#define	yywrap()	(*lexoutp = '\0',1)
+#define	outs(s)	{if(italics_suspended) { \
+			setmode(ITALIC); \
+			italics_suspended = 0; \
+		} \
+		for(lexworkp=(mapon?(s):yytext); *lexworkp; *lexoutp++ = *lexworkp++); \
+		}
+#define setmode(m)	{for(lexmodep=(mapon?map(m):yytext); *lexmodep; *lexoutp++ = *lexmodep++);}
+
+%}
+VOWEL		[AaEeIiOoUu]
+MAPPINGON	\002			/* STX or ^B */
+MAPPINGOFF	\001			/* SOH or ^A */
+%%
+	register char *lexworkp, *lexmodep;
+	register int mapon = 1;		/* enables mapping */
+ /*
+ * We go through a bit of extra work to work around a BRS bug.  If a line is italicized,
+ * ie underscored, beyond the end of the line, the indentation blanks on the next line
+ * are also underscored, which looks ugly.  So we keep track of this situation with
+ * some state variables - italics and italics_suspended - and un-underscore those
+ * leading blanks on the lines.
+ */
+	static int	italics = 0, italics_suspended = 0;
+
+" "*\n		{
+			outs("\n");
+			if (italics) {
+				/*
+				 * end of an underscored line; need to turn off underscoring.
+				 */
+				setmode(ROMAN);
+				italics_suspended++;
+			}
+		}
+MAPPINGON	mapon = 1;
+MAPPINGOFF	mapon = 0;
+"|"		setmode(BOLD);
+"^"		{setmode(ITALIC); italics++;}
+\+[a-zA-Z]+~	outs(map(DEGREE));
+~		{setmode(ROMAN); italics = 0;}
+"<<<"|">>>"	ECHO;
+"<"		outs(map(L_EUROPE));
+">"		outs(map(R_EUROPE));
+[^ ]		outs(yytext);
+@@@@ae		outs(map(LOW_AE));
+@@@@A[eE]		outs(map(UP_AE));
+@@@@oe		outs(map(LOW_OE));
+@@@@O[eE]		outs(map(UP_OE));
+@@({VOWEL}|[Qq])	{
+		switch (yytext[1]) {		/* accent grave */
+			case 'A':	outs(map(UP_GR_A)); break;
+			case 'a':	outs(map(LOW_GR_A)); break;
+			case 'E':	outs(map(UP_GR_E)); break;
+			case 'e':	outs(map(LOW_GR_E)); break;
+			case 'I':	outs(map(UP_GR_I)); break;
+			case 'i':	outs(map(LOW_GR_I)); break;
+			case 'O':	outs(map(UP_GR_O)); break;
+			case 'o':	outs(map(LOW_GR_O)); break;
+			case 'U':	outs(map(UP_GR_U)); break;
+			case 'u':	outs(map(LOW_GR_U)); break;
+			case 'Q':	outs(map(UP_GR_Q)); break;
+			case 'q':	outs(map(LOW_GR_Q)); break;
+		};
+		}
+
+\$({VOWEL}|[QqCc]) {
+		switch (yytext[1]) {		/* accent acute */
+			case 'A':	outs(map(UP_AC_A)); break;
+			case 'a':	outs(map(LOW_AC_A)); break;
+			case 'E':	outs(map(UP_AC_E)); break;
+			case 'e':	outs(map(LOW_AC_E)); break;
+			case 'I':	outs(map(UP_AC_I)); break;
+			case 'i':	outs(map(LOW_AC_I)); break;
+			case 'O':	outs(map(UP_AC_O)); break;
+			case 'o':	outs(map(LOW_AC_O)); break;
+			case 'U':	outs(map(UP_AC_U)); break;
+			case 'u':	outs(map(LOW_AC_U)); break;
+			case 'Q':	outs(map(UP_AC_Q)); break;
+			case 'q':	outs(map(LOW_AC_Q)); break;
+			case 'C':	outs(map(UP_CEDILLA)); break;
+			case 'c':	outs(map(LOW_CEDILLA)); break;
+		};
+		}
+
+\,{VOWEL}	{
+		switch (yytext[1]) {		/* umlaut */
+			case 'A':	outs(map(UP_UM_A)); break;
+			case 'a':	outs(map(LOW_UM_A)); break;
+			case 'E':	outs(map(UP_UM_E)); break;
+			case 'e':	outs(map(LOW_UM_E)); break;
+			case 'I':	outs(map(UP_UM_I)); break;
+			case 'i':	outs(map(LOW_UM_I)); break;
+			case 'O':	outs(map(UP_UM_O)); break;
+			case 'o':	outs(map(LOW_UM_O)); break;
+			case 'U':	outs(map(UP_UM_U)); break;
+			case 'u':	outs(map(LOW_UM_U)); break;
+		};
+		}
+
+#{VOWEL}	{
+		switch (yytext[1]) {		/* caret */
+			case 'A':	outs(map(UP_CAR_A)); break;
+			case 'a':	outs(map(LOW_CAR_A)); break;
+			case 'E':	outs(map(UP_CAR_E)); break;
+			case 'e':	outs(map(LOW_CAR_E)); break;
+			case 'I':	outs(map(UP_CAR_I)); break;
+			case 'i':	outs(map(LOW_CAR_I)); break;
+			case 'O':	outs(map(UP_CAR_O)); break;
+			case 'o':	outs(map(LOW_CAR_O)); break;
+			case 'U':	outs(map(UP_CAR_U)); break;
+			case 'u':	outs(map(LOW_CAR_U)); break;
+		};
+		}
+%%
+char *
+terminit()
+{
+	if (termtype == MAP_NOMAP) 
+		return("ERROR: no terminal type set");
+	return(map(TERMINIT));
+}
+
+char *
+termdeinit()
+{
+	return(map(TERMDEINIT));
+}
+@

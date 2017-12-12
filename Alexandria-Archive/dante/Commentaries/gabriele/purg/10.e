@@ -1,0 +1,163 @@
+	|1.~  POI FUMMO DENTR'AL SOGLIO DE LA PORTA: di questa particella 
+^poi~, che tanto vale quanto ^dapoi che~, vedi quello ho notato nella 
+sestina del Petrarca ^A qualunque animale~, sopra quel verso <e io da 
+che si part@i la bella alba>.
+
+	|2-3.~  CHE 'L MAL AMOR, che @e quello che portamo a cui non devemo, 
+DISUSA, per mezzo della purgatione; ^mal amor~ dico, PERCH@E FA PARER 
+DRITTA LA VIA TORTA, idest, la via d'i vitii.
+
+	|4.~  SONANDO, perch@e nel superiore canto disse, ^et Te Deum laudamus 
+mi parea in voce udir mista al dolce suono~.
+
+	|6.~  QUAL FORA STATA? quasi dica `niuna'.
+
+	|7.~  SALAVAN: fa terminar questo verbo come fosse del primo ordine il 
+Poeta, et @e del secondo e fa `sal\<i\>an'.
+
+	|8.~  CHE SI MOVEVA D'UNA E D'ALTRA PARTE.  Non mi piace n@e la 
+espositione n@e l'allegoria del Landino: le parole sono chiare, che la 
+strata qual onda si moveva; l'allegoria non intendo, se non dicemo che 
+la penitentia fa vacillare molto l'animo di cului che v'@e intento e 
+che vuol emendar i suoi peccati, s@i che s'egli ha coteste 
+vacillationi, poste qui in figura della strada ch'a guisa d'onda si 
+mova, non sa usar arte n@e fermezza nel suo bon proponimento e cade 
+facilmente.
+
+	|14.~  L'ESTREMO DELLA LUNA: poteva dir la luna, non so a che 
+^l'estremo~ dicessi; @e corrotto il testo e vol dir ^scemo della luna~: 
+cos@i ho letto in testi antiqui.  E dice ^scemo~ perch@e, parlando da 
+buon astrologo, @e da sapere che la luna, secondo che referisce Plinio, 
+sempre tien volta la parte lucida verso quella parte ov'@e 'l sole, e 
+perci@o, infin che giunga alla oppositione, la luna tien il pien e il 
+lucente verso ponente; passato il tondo, perch'ha 'l sol da levante, la 
+lucida parte tien da levante e la scura e la scema da ponente; e 
+perci@o dopo il tondo la luna, quando andr@a a monte, andr@a prima con 
+la parte scema, e questo @e quel che dice qui il Poeta, perch@e, come 
+vedemo, la luna avea passato l'oppositione; adunque, andando a monte, 
+va prima con la parte scema e oscura.
+
+	|16.~  CRUNA, idest, buscia.
+
+	|18.~  S@U, DOVE IL MONTE IN DIETRO SI RAUNA: dice ci@o perch@e finge 
+'l Poeta che, \<in\> salir quel calle che si movea, vuole ch'intrino in 
+su un balzo piano e che sopra quello ne sia un altro, ma pi@u stretto, 
+e cos@i vada d'uno in altro, e questo chiama `raunarsi il monte a 
+dietro'.
+
+	|19.~  IO \<STANCATO\>: stanco, per il corpo.
+
+	|22.~  OVE CONFINA IL VANO, idest, l'aere e il vano del monte.
+
+	|24.~  MISURREBBE etc.: vole adunque che questi balzi sian larghi 
+quanto @e lungo un omo tre volte e drett\<i\> quanto potea guardare, e 
+questa misura vuol che s'intenda esser di tutti gli altri.
+
+	|25.~  TRAR D'ALE: durissima locutione.
+
+	|30.~  CHE DRITTO DI SALITA AVEVA MANCO, idest, che non aveva onde si 
+potesse salire.
+
+	|34.~  L'ANGEL CHE VENNE, perch@e 'l Poeta nel Purgatorio, nel quale 
+tratta da cristiano, non potea mettervi l'anime gentile, trov@o 
+nondimeno modo di mettervi molto poeticamente l'istorie, e finge che 
+nelle cornici de tutti i balzi ne fussero intagliate, overo ad altra 
+guisa mostrate, l'istorie contrarie agli peccati che in quelli si 
+purgano, e nel pavimento loro quelle conformi a' vitii che ivi si 
+purgano.  In questo primo che si purga la superbia, di tutti i mortali 
+peccati mortalissimo, pone nella cornice essempii e istorie di umilt@a 
+e insieme antique e moderne; COL DECRETO: con la deliberatione.
+
+	|35.~  DELLA MOLT'ANNI LACRIMATA PACE: bel verso s@i per lo numero 
+come per lo modo di dire.
+
+	|36.~  DAL SUO LUNGO DEVIETO: ch'infin che non venne Cristo, non 
+s'apr@i il Paradiso per niuno.
+
+	|48.~  ONDE 'L CUOR HA LA GENTE: dice perch'essendo egli anima, non 
+avea cuore.
+
+	|57.~  PERCH@E SI TEME OFFICIO NON COMMESSO: dice questo per Oza che, 
+non gli essendo commesso che aiutasse l'arca, quando la tocc@o, fu da 
+Dio percosso e mor@i.
+
+	|59.~  A DUOI MIEI SENSI: al veder e a l'udire.
+
+	|62.~  CHE V'ERA IMAGINATO, idest, posto in immagine e figura.
+
+	|64.~  VASO chiama l'arca.
+
+	|66.~  E PI@U E MEN CHE RE, perch@e, come sacerdote, era pi@u che re, 
+come ^trescando~, da meno.
+
+	|67.~  DI CONTRA EFFIGIATA, idest, posta in effigie.
+
+	|75.~  MOSSE GREGORIO: dicesi, ma non @e certo ci@o.
+
+	|78.~  DI LACRIME ATTEGIATA, idest, posta in atto e maniera che 
+lacrimasse, e proprio `attegiare' @e del scultore o pittore quando d@a 
+quella vivacit@a alla scultura o pittura del suo officio.
+
+	|80.~  L'AGUGLIE, idest, l'aguile.
+
+	|84.~  DI MI' FIGLIO: un figliolo di Traian dicesi che ammazz@o il 
+figliolo di questa vedova, onde Traian volse che 'l figlio suo stesse 
+in casa della vedova e lei come madre obedisse.
+
+	|86.~  CH'I' TORNI, perch@e andav' in guerra.
+
+	|88-89.~  CHI FIA DOVE IO, idest, chi fia imperatore come sono io ora, 
+LA TI FAR@A, cio@e vendetta; L'ALTRUI BENE, perch@e far giustitia @e 
+grandissima laude e ne ven bene a cui la face.
+
+	|94-95.~  COLUI CHE MAI NON VIDDE COSA NOVA, Dio, PRODUSSE ESTO 
+VISIBILE PARLARE: chiama questo ^vesibile parlare~, che senz'essere 
+scritto intenda e legga e veda le parole apartenenti a queste 
+sopradette istorie; e ci@o dice per darne ad intendere com'era 
+possibile che, senza esser scritto, legesse o vedesse le parole che 
+parean dir quelle figure.
+
+	|98.~  DI TANT' UMILITADI: non pu@o tacer il Poeta che non ci faccia 
+intendere queste istorie esser poste per essempii di umilt@a.
+
+	|99.~  E PER LO FABRO, avendo dett'^imagine~.
+
+	|101.~  MOLTE GENTI: questi sono li superbi, che si puniscono con 
+portar gravi pesi.
+
+	|106.~  SMAGHI, idest, frangi e spaurisca e togli.
+
+	|110-111.~  PENSA LA SUCCESSION, cio@e, ch'e' purgati andaranno al 
+Paradiso; PENSA CH'A PEGGIO: come quelli sono ch'all'Inferno dannati in 
+perpetuo sonno; OLTRA LA GRAN SENTENTIA: perch@e non pu@o esser 
+condannato ad altra pena.
+
+	|116.~  RANNICCHIA: \<inchina a terra\>.
+
+	|118.~  DISVITICCHIA: dislega, tratto da' viticchi delle viti che 
+quelle lega alla cosa vicina, le quali Cicerone chiama (<claviculae>).
+
+	|123.~  FIDANZA AVETE NE' RITROSI PASSI, cio@e nella morte, de 
+pentirsi allora.
+
+	|125.~  L'ANGELICA FARFALLA, chiama l'anima alla giustitia, ch'@e la 
+purgatione.
+
+	|127.~  DI CHE, idest, cuius rei amore; IN ALTO GALLA, idest, si erge 
+e va superbo, e perci@o li ponisce con l'andar bassi.
+
+	|128-129.~  POI, idest, dapoi che, come nel principio disse; ENTOMATA 
+chiamano i greci quelli animali che Plinio <indivisa> chiama, che sono 
+mosche, formiche e simili, e dichiaraci il Poeta che sia ^entomata~ 
+dicendo S@I COME VERME IN CUI FORMATION FALLA, che non sono 
+integramente formati.
+
+	|131.~  PER MENSOLA: mensola @e quello trave che si suol metter nel 
+mezzo del colmo, al quale s'appoggian tutti gli altri, et @e consueto 
+di formarvi per lo pi@u alcun omo che rassembri stanco pel gran peso.
+
+	|133.~  LA QUAL FA DEL NON VER VERA RANCURA, perch@e di quella figura, 
+come viva fusse, abbiamo piet@a.
+
+	|138.~  E QUAL PI@U PACIENTIA AVEA: pensava quello doveano far quelli 
+che non avean tanta pacientia.

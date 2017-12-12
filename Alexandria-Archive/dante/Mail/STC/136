@@ -1,0 +1,81 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id SAA23774
+	for <steve@avalon.dartmouth.edu>; Mon, 26 Oct 1998 18:03:36 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id SAA26283
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 26 Oct 1998 18:03:35 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 48332 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67535-24129>; Mon, 26 Oct 1998 18:02:53 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA06594
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 26 Oct 1998 18:02:48 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA07483
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 26 Oct 1998 18:02:48 -0500 (EST)
+Message-ID: <3634FD2F.773508D7@phoenix.princeton.edu>
+Date: 	Mon, 26 Oct 1998 17:52:31 -0500
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: Commentaries
+References: <199810261340.IAA28836@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> > To clarify: the file in Par. that was numbered "21" is REALLY Inf. 21.
+> > It ought to be preserved as a back-up to the current Inf. 21, in case I
+> > find problems in the current Inf. 21 some day.  But I believe the
+> > current Inf. 21 is a better file than the old one, and we should load
+> > that one, i.e., load all the Inf. files now in C.ng.
+> 
+> OK, I'm trying to sort it out. I have to make a request. We typically have 2
+> or more versions of every file in the database. For example we campi files in
+> C, C.ng, ~bobh. When we talk about "a file," we have to fully-qualify the file
+> name or we'll never keep straight which copy we're talking about. So for
+> example when you say "the file in par that was numbered 21," I'm not sure
+> which file in par numbered 21 you mean. I know this is tedious and pedantic,
+> but I can't think of any other way to keep clear what we are talking about.
+> 
+> Now, having got that off my chest, I see we still have a problem. The file in
+> C.ng/campi/inf/21.e has the same text in it as C.ng/campi/para/21.e, though
+> they are not identical files. Further, for what it's worth, the file in
+> C.ng/campi/para/21.e is identical to the file in C/campi/para/21.e.
+> 
+> So I'm still confused. Maybe we should straighten this out verbally. If you
+> want to call me at work today, that's fine with me.
+> 
+> > As for Paradiso of Campi, we need to be sure that the file numbers after
+> > Par. 20 match the numbers in the text files.  I suspect that 22.e is
+> > really 21.e, all the way to 34.e (= 33.e).  Clear?
+> 
+> We are talking about C.ng/campi/para, true? I checked and the file names match the canto numbers in the first line of each file.
+> 
+>                                                         Steve
+
+OK, there's good news and bad news.  The file in
+C.ng/Campi said to be Par. 21 is in fact Inf. 21.  It
+is, as I suggested, an inferior version of the file
+sitting where it ought in C.ng/Campi/inf.  BUT WHERE
+THE HELL IS PAR. 21?  From what you say, it has
+disappesared.  I thought when I checked some time ago,
+the problem was that there WAS a real PAr. 21 (numbered
+22?) and a fake Par. 21 (numbered 21?), that was the
+lost Inf. 21 that we scanned over.  However, I'm not
+sure this is true.  If not, we need to find said par.
+21.  If it was ever typed in (whoever put Inf. 21 in
+its place may have figured Par. 21 was "done" and not
+typed it), it would be nice to find it.... (smile).
+
+The rest of Campi in C.ng/para looks just fine and
+dandy.
+
+Other good news: the Lombardi floating tildes make NO
+mark at all when one views the DDP in action, at least
+not when I do.  And so we can forget about 'em.
+
+All for now, Bob

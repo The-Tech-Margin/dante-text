@@ -1,0 +1,1204 @@
+	|1.  Quando~: cfr. nota 1 di ^Purg.~, IV (in fine).  --
+|si parte~: si divide, separa; ma con inclusione del fatto
+immediatamente precedente: il terminare del giuoco.  La scena,
+delineata con una tecnica figurativa che, pur nel suo gusto
+tipicizzante, irradia una vivace sensazione di <cosa vista>, @e
+cos@i colta nel momento della sua maggiore animazione (successiva
+alla serrata tensione del giuoco) e pi@u puntualmente illustrativo
+del fatto col quale si trova, comparativamente, in rapporto: il
+distacco di Dante dalle anime, e l'ansioso e vociante affollarsi
+di queste intorno a lui.  Si pu@o osservare, e osserv@o gi@a il
+Gentile, che da tale rapporto (coi postulanti accalcati intorno
+al vincitore) l'ardente e patetica ansia delle anime esce
+alquanto degradata, e che se il rapporto @e proprio e vivacemente
+illustrativo per quanto riguarda il <meccanismo> delle due
+situazioni, nel suo intimo @e asintonico e alquanto dissonante: l@a
+il pittoresco di una scena di costume, qui ben altra cosa.  Il
+rilievo @e estensibile a numerose altre comparazioni, in specie
+della terza cantica; e sar@a opportuno, segnando il fatto,
+correggere l'impressione risalendo, comprensivamente, alla causa
+del fatto stesso: in Dante la preoccupazione della sintonia che
+diremo interna, qualitativa, delle comparazioni non @e costante n$e
+preminente.  Il quadretto del giuoco tuttavia, che apre il canto
+con una nota di ariosa e pittoresca animazione, adempie a una sua
+duplice funzione: di trapasso narrativo-distensivo dal V al VI
+canto (lieto riposo contemplativo), e di preludio in dissonanza
+all'alta e procellosa materia del canto.  <Amant alterna
+Camoenae>: e osserva giustamente, con parole diverse, ancora il
+Gentile, che la parabola discendente (dal cielo alla terra) dei
+preludi dei primi sei canti @e significativa della diversit@a di
+note e interessi di tutta la cantica e della variet@a dialettica
+con cui la visione dell'umano vivere vi @e configurata; e che
+proprio dopo aver toccato qui, nel quadretto del giuoco il suo
+punto pi@u basso, torna a curvarsi, prontamente, verso l'alto.  --
+|gioco~: non solo i due giocatori, ma quanto fa giuoco,
+scenicamente, compresa la folla di contorno.  Donde la
+geminazione del motivo: il perdente, malinconicamente trascurato
+e solitario, e il vincitore, attorno al quale si affollano,
+vociando, i postulanti.  -- |zara~: uno dei tanti giuochi
+d'azzardo nominati e regolamentati negli Statuti comunali.  Il
+giuoco, condotto con gettate di tre dadi, consisteva
+nell'indovinare preventivamente il numero di combinazione
+uscente.  La parola <zara> caratterizzava il giuoco e segnava
+perdita, mancata rispondenza tra il numero chiamato e quello
+uscito: di qui il significato negativo del vocabolo (sfortuna,
+malaugurio) come si rileva da un passo di Guittone cit. dal
+Torraca.  Cfr. anche Sacchetti, ^Trec.~, CXXII.  Una scenetta
+identica a questa, rapidamente delineata da Dante (scena tipica e
+familiare, di costume), con lo stesso affollarsi di postulanti
+attorno al vincitore, @e descritta dal giurista bolognese Odofredo
+(sec. XIII) nel suo ^Super tribus libris codicis.~
+
+	|2.  si riman~: il |si~ ha una funzione psicologica e
+rappresentativa, e non grammaticale, sfumando il verbo in un
+particolare significato indicativo di una particolare condizione
+o atteggiamento del soggetto: qui lo starsene solitario del
+perdente.  -- |dolente~: malinconico e mortificato, per la
+perdita, e per la poca bravura dimostrata.  La scenetta @e di
+ambientazione popolaresca (taverna, o strada, o piazza);
+elementari i giocatori nelle loro reazioni, in specie il
+perdente.
+
+	|3.  volte~: o mandate o gittate dei dadi; e forse, come
+accade talvolta, gli esce la combinazione giusta e cos@i,
+|tristo~, troppo tardi!  -- |impara~ (come avrebbe dovuto
+giocare).  @E il momento caratteristico della fine-giuoco quando,
+o da soli, o per via di discussione, si rif@a, correggendo, lo
+svolgimento del giuoco stesso.  Scenetta di ogni tempo!
+
+	|4.  tutta la gente~: la scena ricorda, pur senza
+restarne vincolata, quella degli eroi troiani che nell'Eliso si
+affollano intorno ad Enea, (^En.~, VI, 76 sgg.): ricorrono,
+sotto, movenze verbali virgiliane anche nel <catalogos> delle
+anime: <hic... hic... hic vidit... ecc.>.  <Circumstant animae
+dextra laevaque frequentes>, l. c. 486.
+
+	|5.  va dinanzi~: al vincitore, prendendolo di petto.  --
+|prende~: gli tira il vestito.  Questa corsa alla spartizione
+della vincita, da parte dei postulanti, come si rileva qui e da
+un passo dell'opera di Odofredo, non era considerata
+sconveniente; faceva, per cos@i dire, parte del giuoco.  Lo stesso
+(cit. del Torraca) in un sonetto di Pieraccio Tedaldi.
+
+	|6.  reca a mente~: gli si ricorda: cfr. ^Inf.~, XI, 106.
+
+	|7.  intende~: ascolta, porge orecchio.
+
+	|8.  a cui~: colui al quale: d'uso frequente, in questa
+doppia funzione sintattica.  -- |porge la man~: per donare,
+ovviamente.  Nel sonetto cit. di Pieraccio Tedaldi: <E quando io
+ho denari in abbondanza... -- dinanzi ho il cerchio e di dietro
+ho la schiera di gente assai, ch$e ciascuno ha speranza -- ch'io
+lo sovvegna per qualche maniera>.  -- |pressa~: pressione, nella
+calca; ^gente~... ^preme~ in ^Purg.~, V, 43.
+
+	|9.  cos@i~...: schermaglia rapida, evasiva, per portare
+in salvo il pi@u possibile del gruzzolo, senza irritare nessuno. 
+Virgilio, in ^Purg.~, V, 45: ^per@o pur va, ed in andando
+ascolta.~
+
+	|10.  spessa~: densa, folta; ^la selva~... ^di spiriti
+spessi~ in ^Inf.~, IV, 66; ^genti spesse~, ibid. XX, 94.
+
+	|12.  promettendo~: di ricordarli, una volta tornato al
+mondo.  -- |mi sciogliea~: mi liberavo; senza intendere che Dante
+fosse infastidito; imbarazzato piuttosto, ma doveva andarsene. 
+Comunque, come il vincitore della zara, egli ^porge la mano~
+{v.8} ad alcuni, nominandoli: fortunati!...
+
+	|13.  l'Aretin~: Benincasa da Laterina, nel territorio
+d'Arezzo, giudice e professore di diritto nello Studio di
+Bologna.  Essendo giudice a Siena, aveva fatto condannare a morte
+per ruberie e grassazioni due congiunti di Ghino di Tacco:
+trasferitosi poi a Roma vi fu, secondo quanto racconta il Lana,
+aggredito in pieno tribunale dal vendicativo brigante e ucciso.
+S'ignora la data del fattaccio; si ha notizia di un soggiorno di
+Benincasa a Firenze, per l'anno 1282.
+
+	|14.  fiere~: feroci; <fiera> stretta di brigante (e
+quanto forte e stringente questo |fiere~ in punta di verso!): fa
+pensare a strangolamento.  -- |Ghin di Tacco~: della famiglia
+senese della Fratta, si ritiene autorevolmente: figura di
+gentiluomo che traversie politiche o feudale prepotenza, o l'una
+e l'altra cosa insieme, spinsero al brigantaggio che dal suo
+castello di Radicofani egli praticava sulle strade che da Siena
+portavano a Roma.  Fu in lotta con Siena e con la Chiesa, ma pare
+che sulla fine della sua aberrante carriera si rappattumasse con
+Bonifacio VIII e, attraverso di questi, col comune di Siena. 
+Mor@i, pare, assassinato.  La figura di questo brigante-gentiluomo
+doveva essere assai popolare in Toscana, e ancora il Boccaccio,
+in ^Decam.~, X, 2, narra gustosamente della terapia dietetica con
+cui Ghino, dopo averlo fatto prigioniero, riusc@i a guarire il
+molto grasso abate di Cluny.  Nell'accenno di Dante non v'@e nulla
+di propriamente infamante a carico di Ghino: al diritto di
+vendetta, nella mentalit@a e nella legislazione del tempo, si
+riconoscevano applicazioni assai larghe.
+
+	|15.  l'altro~: fatto assai noto, pur questo, come dice
+|l'altro~ e il modo dell'accenno.  Guccio dei Tarlati, di
+famiglia ghibellina, vissuto nella seconda met@a del Duecento. 
+Varie le versioni del fatto negli antichi commentatori:
+trovandosi egli tra i ^morti per forza~, periti di morte
+violenta, si @e indotti a ritenere che il suo annegamento sia
+avvenuto mentre egli <correva>, fuggiva inseguito (come Iacopo
+del Cassero nel canto precedente), dopo la battaglia di
+Campaldino o lo scontro di Bibbiena (1289), secondo l'ipotesi pi@u
+attendibile e pi@u conforme a tutto il contesto.  Anche Iacopo del
+Cassero, nel canto precedente (v. 82) <corre>, al palude, ed @e
+certamente un correre disperato.  -- |caccia~: nella caccia, o
+inseguimento, datagli da altri, l'idea d'inseguimento dovendo
+andar associata a quella di morte violenta, cosa diversa dalla
+morte per banale incidente.  |Caccia~, in questo significato, era
+d'uso abbastanza frequente; cfr. ^Inf.~, XIII, 113; XXXIII, 29.
+
+	|16.  Quivi pregava~: <stabant orantes...>, <tendebantque
+manus...> (^En.~, VI, 313-314).  -- |sporte~: protese in avanti,
+verso Dante: gesto d'intenso richiamo, o di calda implorazione. 
+E si noti il contrappunto: il vincitore ^porge la mano~ {v.8}
+(per donare), l'anima <sporge> le mani (per pregare).
+
+	|17-18.  Federigo~: del casato toscano dei conti Guidi;
+era nato dal matrimonio di Guido Novello da Bagno con una figlia
+di Federico II, e qui, probabilmente, la ragione del nome.  Segu@i
+parte ghibellina, e fu in lotta col proprio casato, di
+orientamento guelfo; mor@i in uno scontro a Giazzolo nei pressi di
+Bibbiena, nel settembre 1291.  -- |quel~... |forte~: Farinata,
+figlio di Marzucco Scornigiani, pisano, assassinato da un
+concittadino; o, in base alle risultanze di studi pi@u recenti
+(Luiso), Gano, altro figlio di Marzucco, fatto uccidere dal conte
+Ugolino della Gherardesca nel dicembre 1287.  In ogni caso si
+tratt@o di assassinio, e la forza rivelata dal padre Marzucco sar@a
+stata la forza morale, la capacita di resistere agli allettamenti
+della vendetta che nel costume del tempo era, oltretutto, un
+impegno d'onore: vittoria, quindi, tanto pi@u difficile.  Secondo
+il racconto del Buti, il <|buon Marzucco~>, che ormai aveva
+abbandonato il secolo entrando nell'ordine francescano, dopo i
+funerali del figlio, radun@o i <consorti> inducendoli con efficaci
+argomenti a perdonare all'uccisore.  |Buon~, qui, @e in primo
+luogo riconoscimento di nobilt@a morale, ricordandosi tuttavia che
+Marzucco Scornigiani fu uomo noto e di eccellente reputazione
+presso i contemporanei: giurista e cavaliere, aveva ricoperto
+onorevoli uffizi in Pisa, sua citt@a natale, e fuori; giudice in
+Arezzo nel 1249, come appare da una lettera a lui indirizzata da
+Guittone; rappresentante di Pisa nelle trattative di pace con
+Firenze del 1276; ambasciatore presso la corte angioina nello
+stesso anno.  Nel 1286 era entrato nell'Ordine francescano, a
+Pisa, ma per gli anni 1291-1298 si ha notizia della sua presenza
+nel convento francescano di Santa Croce in Firenze.  -- |quel da
+Pisa~: ^quel da Lucca~ in ^Purg.~, XXIV, 35; ^quel da Esti~,
+ibid. V, 77, ^Franco bolognese~, ibid. XI, 83: l'indicazione
+della localit@a di origine surrogava, nell'uso corrente, il
+cognome.
+
+	|19.  Conte Orso~: toscano, della famiglia degli Alberti,
+ramo di Cerbaia; figlio del conte Napoleone, uno dei fratricidi
+nominati in ^Inf.~, XXXII, 55; ucciso nel 1286 dal cugino
+Alberto.  La sua morte @e un anello della sanguinosa catena di
+vendette che funest@o per lunghi anni il casato provocandone, alla
+fine, la rovina.  Cfr. Villani, ^Cron.~, IX, 313.  -- |l'anima~:
+Pierre de la Brosse, medico della corte di Francia sotto Luigi IX
+e Filippo III (cfr. ^Purg.~, VII, 103-109), del quale ultimo fu
+anche segretario.  La sua tragedia ebbe inizio nel 1276 con la
+morte misteriosa del primogenito di Filippo III, Luigi, di cui
+egli attribu@i la responsabilit@a alla regina, Maria di Brabante,
+seconda moglie del re (1274), preoccupata di assicurare la
+successione al trono al proprio figlio, Filippo il Bello (un
+potere dunque, quello di quest'ultimo, frutto di un assassinio!). 
+Due anni dopo, durante la guerra tra Filippo III e Alfonso X di
+Castiglia, il rancore della regina si abbatt$e sull'imprudente
+Pierre travolgendolo: accusato di tradimento, egli fu condannato
+a morte; secondo un'altra versione, la regina lo avrebbe accusato
+di aver tentato di sedurla.  Un assassinio legale, in ogni modo,
+perch$e la frase ^non per colpa commisa~ del v. 21 fa pensare a
+formale accusa, a giustificazione di una regolare sebbene
+ingiusta condanna.  -- |divisa~: a forza, non per morte naturale.
+
+	|20.  inveggia~: invidia (<enveja> in prov.).  Come gi@a
+Pier delle Vigne, in ^Inf.~, XIII, 64-65; stessa causa, stesso
+ambiente (una corte).  |Astio~ della regina, invidia dei
+cortigiani che ne favorirono le macchinazioni.
+
+	|21.  com'e' dicea~: a quanto egli, Pierre, diceva...: ma
+@e riserva, come si vede nell'ammonimento alla regina, puramente
+formale, come l'accreditare la versione peggiore @e un altro
+capitoletto di quel misogallismo di Dante che avr@a pi@u largo
+sfogo nella epopea morale a rovescio della dinastia capetingia
+nel XX del ^Purg.~  -- |colpa commisa~: commessa, realmente
+commessa.  ^Miso~ in ^Inf.~, XXVI, 54; ^Par.~, VII, 21.  Tra le
+ombre giacenti <in limine primo> dell'Averno virgiliano sono i
+<falso damnati crimine mortis>.  Dato il tono dell'espressione e
+il fatto (un processo) a cui si applica, forse nel linguaggio
+giudiziario del tempo corrispondeva alla formula <reus est>,
+<culpam commisit> con cui i giudici riassumevano il loro parere e
+giustificavano la sentenza di condanna.  Ancor oggi, nei
+verdetti: <colpevole>.  Il personaggio, francese, @e fatto parlare
+alla francese, e cio@e con termini dell'uso letterario italiano
+portanti il sigillo fonico della loro origine francese: <enveja>
+(^inveggia~ {v.20}) @e provenzale; |commisa~ richiama il franc.
+<commise>.  Donde l'altra interpretazione di |com'e' dicea~: per
+dirla col suo linguaggio.
+
+	|22.  dico~: intercalare a fine di precisazione o
+chiarimento o di ripresa: usitatissimo da Dante, anche nelle
+opere latine; cfr. ^Purg.~, III, 43; X, 76; XXI, 97 ecc.  --
+|qui~: a questo proposito, in questa trista faccenda; @e un indice
+puntato in gesto di grave ammonimento, e, ancor pi@u, di accusa. 
+-- |proveggia~; provveda, pentendosi e riparando al mal fatto:
+cfr. ^Inf.~, XXIV, 26.
+
+	|23.  di qua~: in vita, nel mondo dei vivi; ^di l@a~,
+parlandosi dal Purgatorio (cfr. ^Purg.~, III, 145).  Che a Dio
+nulla sfugga @e concetto corrente: nell'Averno virgiliano,
+Radamanto costringe i rei a confessare <quae quis apud superos,
+furto laetatus inani -- distulit in seram commissa piacula
+mortem>.  -- |la~... |Brabante~: Maria dei duchi di Brabante,
+andata sposa a Filippo III nel 1274, m. nel 1321.  |Donna~ ha qui
+significato gentilizio (<domina> nel latino cancelleresco del
+tempo); e Dante usa l'indicazione del titolo pi@u limitato, del
+casato di origine, quasi il misfatto rendesse la |donna di
+Brabante~ indegna del titolo di regina.
+
+	|24.  per@o~: per questo.  -- |non~... |greggia~: non vada
+a finire tra la folla dei dannati, greggia assai diversa da
+quella delle anime purganti: ^trista greggia~ in ^Inf.~, XXVIII,
+120; ^santa greggia~, le anime della cornice dei golosi, in
+^Purg.~, XXIV, 73.
+
+	|26.  che~... |prieghi~: una sola (|pur~: solamente) la
+preghiera delle anime: che |altri~, qualcuno, ancor vivo, preghi
+per loro.  Cos@i in tutto il Purgatorio.
+
+	|27.  s'avacci~: venga affrettato: cfr. ^Purg.~, IV, 116. 
+-- |divenir sante~: la loro purificazione, con cui esse
+conseguono la santit@a e perfezione e possono salire a Dio. 
+|Divenir~, si badi, non esser sante; le anime chiedono che venga
+abbreviato il loro soggiorno in Antipurgatorio, non di sottrarsi
+alla pena, di cui riconoscono la necessita e la giustizia (cfr.
+^Purg.~, XXIII, 70-75).  Vero @e tuttavia, che le anime dei gironi
+soprastanti, chiedendo preghiere, chiedono, implicitamente, una
+abbreviazione di pena.
+
+	|28.  cominciai~: con piglio deciso...  -- |El par~:
+appare (|el~: impersonale); d'uso normale nel poema, in questa
+reggenza.  -- |mi~: dativo etico; esprime l'attento interesse di
+Dante lettore dell'^Eneide~, faccenda che, in verit@a, aveva
+provocato qualche frizione tra maestro e discepolo: cfr. ^Inf.~,
+III, 75-8; e XX, 114.  -- |nieghi~: alla latina, con
+trasferimento della negazione al verbo reggente.  Il quesito che
+Dante sottopone al maestro @e un interessante documento
+storico-culturale: il documento delle sottigliezze a cui
+l'applicazione, corrente, del canone morale e allegorico
+all'interpretazione delle opere classiche costringeva, in certi
+casi, gli interpreti, al fine di trovare il punto d'incontro e di
+sutura tra la <favola> e la lettera del testo interpretato, e le
+verit@a <cristiane> che dall'una e dall'altro s'intendeva
+ricavare.
+
+	|29.  espresso~: espressamente, esplicitamente:
+<expresse>, nel latino dantesco (^Mon.~, II, 7).  -- |alcun
+testo~: in un passo delle tue opere.  Dante non precisa, per non
+aver l'aria di proporre il quesito troppo in punta, ma l'accenno
+in realt@a @e specifico: si riferisce al passo del VI dell'^Eneide~
+(vv. 372 sgg.) in cui la Sibilla, alle preghiere di Palinuro di
+essere traghettato all'altra riva dell'Acheronte, risponde col
+noto: <Desine fata de#um flecti sperare precando>.
+
+	|30.  che~... |pieghi~: che la preghiera possa mutare un
+provvedimento deliberato e preso da Dio.  |Pieghi~ riproduce il
+<flecti> del testo latino; ^si piega~, la volont@a, in ^Par.~, IV,
+79.
+
+	|31.  e~: eppure, sta di fatto che...  -- |pur~: solo e
+proprrio...  -- |di questo~: di argomento; @e il tema costante
+della preghiera delle anime.
+
+	|33.  detto~: quanto dici, affermi.  -- |manifesto~:
+aperto, chiaro, nel suo vero significato.
+
+	|34.  Ed elli~: di modulo virgiliano; <at ille...>.  --
+|scrittura~: quanto espresso in quel passo; o anche,
+semplicemente, testo, come in ^Par.~, XII, 125.  Scritture~ i
+sacri testi o libri (Bibbia) in ^Par.~, XIII, 128; <secundum
+scripturam (testo) Geneseos> in ^Mon.~, III, 4.  -- |piana~:
+facile e chiara; e (ironico), non tale da assottigliarcisi sopra,
+come ha fatto Dante.  A parte questo, Virgilio riconosce che il
+quesito, in s$e, ha una sua rilevanza.  Cfr. ^Purg.~, XVIII, 65;
+<planum est>, chiaro, evidente, in ^Mon.~, III, 10.
+
+	|35.  falla~: va a vuoto, fallisce al suo scopo; cfr.
+^Purg.~, IX, 121.
+
+	|36.  ben~... |sana~: duplice condizione: |bene~, con
+adeguata attenzione; |con la mente sana~, con intelligenza
+rettamente ed efficacemente operante.  ^Intelletti sani~ in
+^Inf.~, IX, 61; <mentis bene sanae> in Orazio, ^Sat.~, I, 9.
+
+	|37.  cima di giudicio~: <apex juris> nel linguaggio
+giuridico del tempo, la suprema dignit@a del giudizio divino,
+^alto fato di Dio~ in ^Purg.~, XXX, 142.  Il senso del passo @e il
+seguente: il principio e l'obbligo della soddisfazione alla
+giustizia sono inderogabili, e vanno in ogni modo rispettati; ma
+non si detrae nulla all'altezza del giudizio divino se, con
+provvedimento di squisita misericordia, Dio permette che quanto @e
+dovuto alla sua giustizia, invece che dall'anima purgante, sia
+pagato da un vivo, con preghiere od opere, salva restando la
+santit@a del principio.  La misericordia di Dio, in altre parole,
+non ne diminuisce affatto la grandezza.  -- |s'avvalla~:
+s'abbassa a valle, in continuazione della metafora di |cima~; si
+abbassa, degrada.  Di fatto il |giudicio~ non viene mutato; muta
+solo la modalit@a della sua esecuzione.
+
+	|38.  perch$e~: per il fatto che...  -- |foco d'amor~:
+l'ardente carit@a o piet@a del vivo orante per l'anima del defunto:
+il quale |foco d'amor~, davanti a Dio, ha un prezzo non inferiore
+alla soddisfazione che alla giustizia dovrebbe offrire l'anima
+con la pena purgatoriale.  Cfr. San Tommaso, ^S. T.~, III, S. 13,
+71.  |Foco d'amor~, in altro significato, in ^Purg.~, VIII, 7; e
+le sue innumerevoli varianti espressive in ^Paradiso~; ad es.
+^arder parea d'amor nel primo foco~ (^Par.~, III, 69) ecc.  --
+|compia~: adempia, assolva.  -- |in un punto~: in un momento, nel
+breve giro della preghiera (contrapposto alla lunga durata
+dell'espiazione).  Cfr. ^Inf.~, XXII, 122.  @E chiaro che tra
+<pena> e |foco d'amor~ c'@e un rapporto non materiale ma
+qualitativo: sono insomma, davanti a Dio, due <valori> diversi
+ma, per cos@i dire, intercambiabili.
+
+	|39.  stalla~: ha stallo, dimora, qui (cfr. ^Inf.~,
+XXXIII, 102).
+
+	|40.  e~: ma.  -- |dov'io~... |punto~: nel caso a
+proposito del quale io espressi questa sentenza (v. 30).
+
+	|41-42.  non~... |disgiunto~: il difetto, la mancanza
+delle debite condizioni (nel caso di Palinuro la sepoltura, senza
+la quale le anime non potevano varcar l'Acheronte), non poteva
+essere <ammendato> con la preghiera, perch$e questa, non essendo
+indirizzata al vero Dio, cadeva nel vuoto.  |Difetto~: colpa;
+mancanza di espiazione, secondo altri; ma qui il difetto da
+ammendare @e la mancanza di sepoltura, e quindi il termine ha lo
+stesso significato che in ^Inf.~, IV, 40.
+
+	|43.  Veramente~: tuttavia.  -- |alto sospetto~: a cos@i
+ardui dubbi.  Il grave dubbio o problema espresso ai vv. 31-32, @e
+la dibattuta questione dei suffragi e della loro efficacia,
+questione risolta dalla Chiesa in senso positivo e tradotta in
+formale dottrina e prassi religiosa.  Una dottrina vera e
+propria, e cio@e precisamente organizzata, manca affatto nella
+Bibbia, Vangeli compresi, e si spiega come alcune s@ette ereticali
+(Catari e Valdesi) oltre a respingere tale dottrina, si fossero
+spinte fino a negare l'esistenza del Purgatorio.  @E questione a
+doppia faccia, filosofica e teologica, nella quale la <ratio>,
+per usare il linguaggio del ^Monarchia~, deve appoggiarsi alla
+<auctoritas>, alla dottrina ufficiale della Chiesa, interprete e
+integratrice del messaggio del Vecchio e Nuovo Testamento. 
+Poich$e, in certe questioni, @e pericoloso sia esasperare il dubbio
+critico-razionale, sia saltare sulla mediazione della Chiesa e
+rifarsi esclusivamente ai testi sacri.  Di qui le riserve di
+Virgilio il quale, rigorosamente consapevole dei propri limiti,
+conclude rimandando Dante a Beatrice (Teologia; Chiesa nel suo
+magistero dottrinale): egli, se ben si osserva, si limita ad
+affermare che, nella dottrina dei suffragi, non c'@e nulla di
+razionalmente inaccettabile.
+
+	|44-45.  non ti fermar~: non indugiare, insistere, se non
+te lo dice, te ne autorizza, ed @e presente a farti da guida,
+Beatrice: quanto dire che in questioni del genere la dottrina
+della Chiesa deve far |lume~ tra la verit@a (la vera soluzione) e
+l'intelletto il quale ultimo, operando con le sue sole forze,
+potrebbe errare.  Secondo altri: non star fermo, ma procedi
+oltre.  Sopra: <fermare> un punto; qui |fermar~ s$e: con due
+diverse sfumature di significato.  -- | quella~: Beatrice, come
+si pu@o dedurre dalla perifrasi che la definisce.  -- |dice~:
+autorizza, invita a farlo.  -- |vero~: qui il vero non misurabile
+con l'esclusivo metro della ragione.
+
+	|48.  ridere e felice~: lezione del Vandelli, in genere
+accolta dai commentatori; altri preferisce leggere: ^ridente e
+felice~ (Del Lungo), ^ridere felice~ (Porena).  Si pu@o osservare
+che, nella variazione del piano e consueto costrutto, sorriso e
+felicit@a, distinguendosi, riescono l'uno e l'altra pi@u vivi: e
+|felice~ indicher@a la felicit@a di Beatrice in s$e, e insieme, come
+intende il Barbi, la sua condizione di ^beata~ (cfr. ^Par.~, III,
+64); e |ridere~ la sorridente accoglienza ch'essa riserva a
+Dante.  Il Barbi cita ^Purg.~, XII, 34-35: ^Vedea Nembr@ot~...
+^quasi smarrito, e riguardar le genti.~
+
+	|49-51.  E io~... |getta~: proietta ombra, segno (sono
+ormai le tre circa del pomeriggio) che il sole si avvia al
+declino.  <Tratto graziosissimo d'un Dante cos@i schietto e
+ingenuo che ha qualche cosa dell'infantile, com'@e spesso
+infantile l'uomo in cui parla una passione.  Qui Dante, sentendo
+che sulla cima del monte vedr@a Beatrice, si assume lui le parti
+che di solito fa Virgilio, stimolando alla fretta, e richiamando
+l'attenzione sull'ora che passa, affermando anche di non sentir
+pi@u la fatica di prima, il che non @e vero, o @e un effetto tutto
+psicologico dell'idea di veder Beatrice> (Porena).  Uno spunto
+affine in ^Purg.~, XXVII, 34-35: a Dante sembra di poter arrivare
+in vetta prima che sia notte; ed @e, anche questo, un effetto del
+lietamente illusivo desiderio.
+
+	|53.  rispuose~: preciso e pacato, e in una sintassi
+rallentata: sei versi contro gli affollati tre di Dante: che
+fretta!...
+
+	|54.  ma~... |stanzi~: ma le cose si svolgeranno in modo
+diverso da quel che tu sembri pensare.  -- |forma~: |forma~ di un
+fatto @e il suo svolgersi, considerato in rapporto alla sua causa,
+e al suo fine.  -- |stanzi~: in senso affine ad <instantia>,
+termine del latino scolastico: opinione, ipotesi, e simili; cfr.
+^Par.~, II, 94.
+
+	|56-57.  colui~: il sole.  Cfr. ^Purg.~, XXIII, 120.  --
+|della costa~: agli occhi dell'osservatore il sole @e ormai
+coperto dalla costa del monte.  I due poeti si trovano nella
+parte orientale della montagna e perci@o avvolti nell'ombra
+proiettata dalle rocce.  Il tutto @e detto con una punta di
+flemmatica ironia: c'@e ombra? certo!  Il sole @e dall'altra parte
+del monte...  Tramonta? e s@i, ma torner@a ancora (dunque la salita
+durer@a pi@u di un giorno).  Non valeva proprio la pena di mettersi
+in agitazione; l'unica cosa notabile @e che Dante non proietta pi@u
+ombra.  Una faccenda questa, con tanti occhi sbarrati di anime,
+che aveva finito per infastidire Virgilio.  -- |romper~:
+rompersi, interrompersi.  <^Rotti~> raggi in ^Purg.~, III, 88.
+
+	|58.  Ma~: cosa assai pi@u interessante di quanto aveva
+notato Dante finora: c'@e ancora dell'altro da vedere, e poi, come
+andare avanti senza informazioni?  -- |posta~: indica il modo di
+starsi dell'anima.  Secondo altra lezione <a posta> (Tommaseo,
+Del Lungo): quasi in posta, appostata.
+
+	|59.  sola soletta~: la duplicazione accentua
+l'impressione di solitudine e isolamento; ^tutto solo~ in ^Inf.~,
+XVII, 44.  Un'anima solitaria, dopo tante ^genti~ e ^schiere~:
+fatto davvero sorprendente.  Pi@u nobilmente il Gentile, e nella
+tradizione della commossa eloquenza con cui, nell'Ottocento, era
+di rito interpretare l'episodio di Sordello: <Nella solitudine
+cresce la sua statura.  La folla @e sparita e questa ombra riempie
+la scena.  I due poeti peregrini la mirano prima da lungi. 
+"^Vedi l@a~ {v.58}...", ripete qui Virgilio, com'ha detto in
+Inferno tra le arche di fuoco: "Vedi l@a Farinata".  N$e l'altera
+noncuranza con cui guarda ai nuovi venuti, @e turbata dalla
+meraviglia che provavano le altre anime a veder Dante vivo,
+poich$e la sera @e imminente, cadono le ombre e Dante non rompe pi@u
+col corpo i raggi solari.  @E la raffigurazione classica del
+magnanimo esaltato da Aristotele.  Ma @e anche il suggello della
+grande poesia, che tocca la cima quando l'oggetto in cui la
+fantasia si affisa, riempie di s$e tutta l'anima del Poeta, come
+un mondo infinito, di l@a dal quale nulla @e che possa sospettarsi,
+temersi o desiderarsi: nulla insomma che possa distrarre l'animo
+di chi contempla in pieno oblio di s$e>.  -- |riguarda~: guarda,
+osserva: cfr. ^Inf.~, XIII, 20.
+
+	|60.  tosta~: rapida, breve.
+
+	|61.  Venimmo~: ci portammo verso di lei.  Non @e chiara
+la condizione di quest'anima appartata che, come sapremo, @e il
+trovatore Sordello di Goito.  Dante l'ha collocato tra i ^morti
+per forza~, seguendo una voce secondo la quale Sordello sarebbe
+stato fatto uccidere da Ezzelino da Romano?  Par improbabile che
+Dante ignorasse la fine di Sordello, morto feudatario
+nell'Abruzzo.  @E presumibile che sia assegnato alla valletta dei
+Principi dai quali tuttavia egli, gi@a fiero giudice e
+flagellatore di Principi, ama tenersi in disparte.  La questione,
+se pur si pu@o definir tale, @e opinabile, e opinata.  -- |o
+anima~: con l'usitato procedimento: d'introdurre al fatto con
+un'esclamazione destinata a stimolare l'attenzione del lettore. 
+La stessa funzione ha il prologo: e questa @e, a suo modo,
+un'esclamazione-prologo.  -- |lombarda~: detto per anticipazione;
+ma d@a un primo vago orientamento al lettore.  Per l'uso del
+termine cfr. ^Inf.~, I, 68.
+
+	|62.  altera e disdegnosa~: i due aggettivi,
+nell'intenzione di Dante, come dice di rincalzo il verso
+seguente, vorranno indicare la condizione di un'anima librata
+nella sfera di elevati pensieri, aliena dagli spiccioli
+accadimenti e motivi di curiosit@a, a cui non manca, peraltro, una
+sicura consapevolezza del proprio valore.  @E difficile liberarsi
+da una residua impressione di alterigia: Sordello se ne sta
+solitario, non amando confondersi nella folla, praticare l'umana
+virt@u della cordiale comunicazione con e altre anime; resta
+sempre, sia pur con una pi@u pacata nobilt@a di stile, l'uomo che
+nel poemetto ^Ensenhament d'onor~ e nel ^Compianto~ per Blacatz
+era abituato a guardare dall'alto e a giudicare re e principi. 
+Come si vedr@a meglio nel c. VII dov'egli, mostrando ai poeti i
+personaggi della valletta, uscir@a alquanto dallo stile nobilmente
+composto con cui ci si presenta qui, rivelandosi lingua
+tutt'altro che priva di mordenza.
+
+	|63.  onesta e tarda~: lenta e nobilmente dignitosa; ^con
+occhi tardi e gravi~ i personaggi del Limbo, ^Inf.~, IV, 112.  La
+fretta, l'eccessiva velocit@a o mobilit@a @e contraria al decoro;
+cfr. ^Inf.~, XV, 121-125; ^Purg.~, III, 10-11.
+
+	|65.  solo sguardando~: limitandosi a osservare i due
+poeti, con uno sguardo calmo e grave.
+
+	|66.  si posa~: @e in posa, in giacitura di riposo; con la
+relativa impressione di statuaria solennit@a.  In ^Gen.~, XLIX, 9:
+<requiescens accubuit ut leo>.  Le immagini della realt@a esterna
+sembrano arrivare all'anima di Sordello come astratte e incapaci
+di fare stimolo: il personaggio appar chiuso nel circolo di un
+suo intenso e immobile pensiero, il pensiero, si vedr@a pi@u sotto,
+della sua ^terra~ {v.75}.  Per questo egli elude la domanda di
+Virgilio, chiedendo loro del ^paese~ {v.70} e della ^vita~
+{v.70}, e ha poi quel suo famoso ^surse~ {v.73}, scatto
+all'abbraccio, che altrimenti non riuscirebbe del tutto
+spiegabile.  Cos@i, Farinata, assorto nello stesso pensiero, balza
+dalla sua tomba all'udire la parlata fiorentina, la <^sua
+loquela~> (^Inf.~, X, 21 sgg.).
+
+	|67.  Pur~: ciononostante: l'atteggiamento, invero, non
+era invitante.  Secondo altri: solamente.
+
+	|68.  miglior~; pi@u rapida e facile.
+
+	|69.  e~: ma.  -- |dimando~: cfr. ^Purg.~, IV, 18.
+
+	|71.  c'inchiese~: in lat. <inquirere>: chiedere con
+interesse o calore, o per il minuto.  -- |duca~: guida; usitato.
+
+	|72.  Mantova~: risposta avviata nel modulo
+dell'epitaffio che secondo la tradizione, Virgilio avrebbe egli
+stesso composto e voluto inciso sulla sua tomba: <Mantua me
+genuit, Calabri rapuere, tenet nunc -- Parthenope; cecini pascua,
+rura, duces>.  -- |e~: ed ecco: l'imprevedibile passaggio,
+dall'immobilit@a statuaria al levarsi all'abbraccio.  --
+|tutta~... |romita~: prima cos@i totalmente chiusa e raccolta in
+se stessa (|romita~ suggerisce gusto della solitudine, romitaggio
+voluto, non coatto).
+
+	|73.  surse~: si alz@o... verbo usitato nei classici,
+usitatissimo nella Bibbia.
+
+	|74.  Sordello~: Sordello di Goito (nel Mantovano), nato
+nei primi anni del sec. XIII da famiglia di piccola nobilt@a,
+poeta e uomo di corte, il pi@u famoso fra i <trovatori> italiani
+(rimatori, s'intenda, che poetarono in lingua provenzale), ma la
+cui fama postuma, @e appena necessario osservare, @e quasi
+totalmente dovuta al prestigioso onore di cui Dante lo ha voluto
+privilegiare assumendolo a figura emblematica in questo episodio,
+dei pi@u noti ed eloquentemente commentati di tutto il poema.  Fu
+prima alla corte di Riccardo di San Bonifacio, e qui cade (1224
+circa) l'episodio pi@u avventurosamente romantico della sua vita:
+il rapimento (o l'aiuto alla fuga) di Cunizza da Romano sorella
+di Ezzelino III da Romano e moglie del conte Riccardo, con la
+quale ripar@o nella Marca Trivigiana.  Minacciato di morte e
+coinvolto in altre non del tutto chiare vicende, ripar@o in
+Francia e, fissatosi alla fine alla corte dei conti di Provenza,
+entr@o in relazione con Carlo d'Angi@o ch'egli segu@i nella
+spedizione in Italia (1266) e dal quale, in ricompensa dei
+servigi prestati, ricevette in feudo alcune localit@a
+dell'Abruzzo.  Mor@i intorno al 1270.  L'interesse dei critici si
+@e appuntato in modo particolare sulle ragioni che possono aver
+indotto Dante alla scelta; in aggiunta, s'intende, alla prima ed
+esteriore ragione, l'esser Sordello conterraneo di Virgilio; e
+all'altra pi@u intima ragione della simpatia morale e psicologica
+che Dante, poeta ed esule, errabondo di corte in corte, dovette
+sentire per questo poeta, protagonista di una fortunosa vicenda
+biografica, uomo di corte e pur ardito giudice di re e principi. 
+La ragione principale @e additata in due componimenti di Sordello:
+un ^Compianto~ o lamento funebre in morte di un valente cavaliere
+(ser Blacatz), e il poemetto ^Ensenhament d'onor~, nei quali sono
+passati in rassegna e, come gi@a detto, arditamente giudicati re e
+principi contemporanei.  I due componimenti, effettivamente,
+fanno di Sordello un personaggio ben titolato per assolvere al
+compito di rassegnatore e giudice di grandi della terra, che
+Dante gli assegna nel canto seguente,
+
+	|75.  della~... |terra~: tuo concittadino o, pi@u
+latamente, conterraneo.  |Terra~ vale: citt@a, e anche, regione:
+Mantova, in ogni modo, @e il centro della regione che da lei si
+denomina.  -- |abbracciava~: Virgilio non @e arrivato a
+presentarsi, ma @e bastato il nome di Mantova per far <surger>
+Sordello.  E l'abbraccio fa campeggiare in primo piano il motivo
+dominante da cui si svolge la requisitoria del poeta spettatore
+del gesto, ma protagonista poi e attore a sua volta nel suo aspro
+commento: l'idea e il sentimento di patria, come elemento primo e
+assoluto di fusione o di conciliazione o di caldi incontri, al di
+sopra di ogni distinzione e considerazione.  A Farinata Dante,
+per il convegno di Empoli, ha perdonato in parte Montaperti,
+pesando sulla giusta bilancia il bene e il male, ma non ha forse
+dimenticato di esserne stato accolto col moto sopracciliare di
+nobilesco disdegno proprio di chi ama segnare, socialmente e
+politicamente, le distanze.  Si pu@o osservare che l'esempio
+offerto da Virgilio e Sordello @e di amor patrio regionale o
+municipale, non nazionale, come amarono vedere gli interpreti
+dell'Ottocento: la requisitoria di Dante, in effetti, che per
+questo riprende e inquadra in una prospettiva pi@u ampia il motivo
+politico del VI canto dell'^Inf.~, (dramma di Firenze), corre sul
+binario-motivo del disordine generale dovuto alla carenza
+dell'autorit@a imperiale, estesosi fino ad alterare e dissociare
+le fibre delle collettivit@a comunali.  E dall'indicazione delle
+cause generali (carenza dell'autorit@a imperiale; degradazione,
+apportatrice di confusione, del magistero spirituale della
+Chiesa) la spietata e dura diagnosi procede, esemplificando, fino
+a concludersi con l'amaro-sardonico elogio di Firenze, esempio
+quintessenziale di feroce lacerazione e di instabilit@a politica. 
+Altro e diretto punto di raccordo col VI dell'^Inf.~
+
+	|76.  serva~: nell'interpretazione politico-patriottica
+dell'Ottocento l'epiteto @e stato fonte di lunghi fraintendimenti. 
+Saranno da ricordare i due concetti capitali dell'Etica e della
+Politica dantesche: servit@u @e il peccato, inosservanza della
+legge morale; servo l'uomo senza legge, e libero chi vive
+nell'osservanza della legge, <summa libertas>, <iugum libertatis>
+com'@e definita nell'^Epistola~ ai Fiorentini: @e un principio
+cardine del ^Monarchia.~  Garanzia e fonte della legge, cio@e
+della libert@a umana, @e l'autorit@a imperiale.  Dire |serva~ vale
+quindi dire senza legge, e, di conseguenza, in disordine e
+marasma.  -- |ostello~: domicilio, ricettacolo: <d'ogni tormento
+ostale e chiave> in ^V. N.~, VII.
+
+	|77.  nave~: metafora tipica e vulgata, e con numerosi
+riscontri nelle opere di Dante che l'usa in varia funzione
+emblematica (cfr. ^Purg.~, I, 2 e ^Par.~, VIII, 80).  Qui, nel
+doppio accenno nave-nocchiero, la nave @e figura di una comunit@a o
+Stato o Nazione in cui la molteplicit@a delle funzioni o delle
+suddivisioni particolari fa capo a un potere ultimo e unitario,
+com'@e spiegato in ^Conv.~, IV, 4: <s@i come vedemo in una nave,
+che diversi offici e diversi fini di quella a uno solo fine sono
+ordinati... dove, s@i come ciascuno officiale ordina la propria
+operazione nel proprio fine, cos@i @e uno che tutti questi fini
+considera, e ordina quelli ne l'ultimo di tutti; e questo @e lo
+nocchiero, a la cui voce tutti obedire deono>.  Importante anche
+il riscontro dell'^Epist.~ ai Fiorentini: <quod, solio augustali
+vacante, totus orbis exorbitant, quod nauclerus et remiges in
+navicula Petri dormitant, et quod Ytalia, misera, sola, privatis
+arbitriis derelicta omnique publico moderamine destituta, quanta
+ventorum fluentorumve concussione feratur verba non caperent...>. 
+-- |gran tempesta~: effetto (disordine) massimo, per l'incidenza
+di due cause: mancanza di nocchiero; furiosa |tempesta~,
+agitazione di onde.
+
+	|78.  donna di provincie~: signora (in lat. <domina>)
+di... <Provincia> nel significato latino: terra o popolo soggetto
+alla giurisdizione romana (Gallie, Grecia ecc.).  Nelle ^Lament.~
+di Geremia, I, I <facta est quasi vidua domina gentium>; ma,
+avverte il Casini, era espressione d'uso corrente derivata dalla
+glossa del ^Corpus Juris~ <non est provincia, sed domina
+provinciarum>.  -- |bordello~: sentina, luogo di vizio e
+perdizione: per variazione verbale (|donna~, sopra), @e indicato
+il contenente per il contenuto, la casa per chi vi abita:
+puttana, meretrice.  Una puttana, sedente sul carro
+simboleggiante la Chiesa, troveremo in ^Purg.~, XXXII, 148-fine.
+
+	|79-80.  gentil~: nobile; nobile slancio di Sordello, al
+solo udire il dolce nome (|suono~; il sentir risuonare il nome)
+della sua terra...  Il ^nome~... ^suona~ in ^Purg.~, XIV, 21.  --
+|presta~: pronta, d'impeto.
+
+	|81.  cittadin~: concittadino, compatriotta.  -- |quivi~:
+in Purgatorio, dove i ricordi del mondo sono lontani, e nessun
+interesse o calcolo poteva muovere le due anime.
+
+	|82.  e~: fortemente avversativo: mentre.  -- |stanno~...
+|guerra~: in ^Inf.~, XXVII, 37.  Romagna ^non @e e non fu mai
+sanza guerra.~
+
+	|83.  vivi~: considerati dal Purgatorio, gli abitanti
+d'Italia sono dei |vivi~; anima ^viva~ aveva detto Caronte (in
+^Inf.~, III, 88); ^questi vive~, Virgilio in ^Purg.~, I, 77: e il
+problema e l'interesse di vivere in pace, in una patria
+terrestre, non pu@o essere che dei <|vivi~>.  -- |si rode~:
+accanimento e ferocia!  Cos@i Tideo (^Inf.~, XXXII, 130) ^rose~ le
+tempie a Menalippo, e Ugolino il cranio dell'arcivescovo Ruggeri.
+
+	|84.  un muro~... |serra~: coloro che un solo e comune
+|muro~ (le mura a difesa delle citt@a) e una sola e comune |fossa~
+(il fossato antistante alle mura) |serra~, tiene chiusi in
+ristretto cerchio, costringe a vivere insieme.  Il verso delinea,
+in modo tipico e visivo, l'immagine della citt@a medievale e pone
+l'accento sull'effetto ultimo e pi@u grave del disordine italiano,
+la discordia delle parti portata nel ristretto ambito del vivere
+cittadino.
+
+	|85.  misera~: compassionevole e sferzante!  -- |prode~:
+lidi, coste, percorrendole con lo sguardo.
+
+	|86.  marine~: mari.  -- |in seno~: nell'interno.
+
+	|87.  s'alcuna~...: ^cerca~ {v.85} (osserva, indaga) se
+c'@e qualche, una sola parte in te...: ricerca (@e sottinteso),
+inutile!  -- |pace~: l'instaurata |pace~ nel mondo aspett@o Dio
+per farsi uomo (cfr. ^Par.~, VI, 55-57): la |pace~, l'ordinato
+vivere nell'osservanza e sotto la garanzia della Legge, nella
+dottrina del ^Mon.~ @e la condizione prima e necessaria perch$e
+l'uomo possa, esplicando le proprie virt@u, conseguire la felicit@a
+temporale, e il fine del suo mondano vivere.  Nella catena,
+reversibile, delle equivalenze:
+legge-giustizia-ordine-pace-felicit@a.
+
+	|88.  racconciasse il freno~: la metafora @e gi@a in
+^Conv.~, IV, 9: <dire si pu@o de lo Imperadore, volendo lo suo
+officio figurare con una imagine, che elli sia lo cavalcatore de
+la umana volontade.  Lo quale cavallo come vada sanza lo
+cavalcatore per lo campo assai @e manifesto, e spezialmente ne la
+misera Italia, che sanza mezzo alcuno a la sua governazione @e
+rimasa>.  Il freno sono le leggi, e precisamente il ^Corpus
+Juris~ di Giustiniano, testo base nelle scuole di Diritto, e sul
+quale, in effetti, fu elaborata la dottrina giuridica dell'Impero
+medievale.  Dire ^Corpus Juris~ perci@o vale dire Impero, e
+l'accenno a Giustiniano, introdotto nel VI del ^Par.~ a esaltare
+i titoli di gloria umana e religiosa del principio imperiale,
+pone implicitamente la soluzione qui caldeggiata da Dante, in
+perfetta concordanza col ^Mon.~ per il disordine d'Italia: la
+<renovatio Imperii>.  L'Imperatore, in ^Mon.~, I, 13, @e detto
+<legislator et legis executor>.
+
+	|89.  Iustiniano~: imperatore sul trono di Bisanzio dal
+527 al 565: promosse il riordinamento del diritto romano,
+attivit@a esaltata in ^Par.~, VI.  -- |vota~: mancando un
+imperatore che, sempre nei termini della metafora iniziale,
+cavalchi il cavallo (Italia) e lo governi col freno delle leggi. 
+In ^Purg.~, XVI, 97: ^le leggi son, ma chi pon mano ad esse~?
+
+	|90.  Sanz'esso~: da riferire a ^freno~ {v.88}: strumento
+potente e titolo prestigioso di gloria le leggi giustinianee,
+basi di un ordinato riassetto monarchico-unitario del mondo; le
+quali tuttavia, non applicate, sono ragione di maggior vergogna. 
+-- |fora~: sarebbe.
+
+	|91.  gente~... |devota~: la classe ecclesiastica,
+Pontefice compreso; non gi@a, l'Italia, la |gente~ italiana, o i
+guelfi, come intende qualche commentatore.  Sono indicate le due
+cause prime e generali del disordine italiano: la carenza
+dell'autorit@a imperiale, e l'intrusione della Chiesa nelle cose
+temporali (cfr. ^Purg.~, XVI, 127-29) in violazione
+dell'esplicito avvertimento di Cristo, e aggravata dalla sua
+evidente inettitudine ad assolvere la funzione assegnata
+all'Impero: l'effetto @e un maggior disordine, e confusione,
+politica e spirituale.  -- |devota~: dedita ad opere di sola
+religione, rispettosa e fedele alla tua missione, puramente
+spirituale.
+
+	|92.  Cesare~: l'Imperatore.  Il termine, gi@a nei primi
+tempi dell'Impero romano, aveva assunto un significato
+istituzionale, poi rimasto nell'uso, medievale e moderno.  Cfr.
+^Par.~, VI, 10.
+
+	|93.  ti nota~: con esplicito avvertimento, nelle parole
+di Cristo: <Reddite quae sunt Caesaris, Caesari; et quae sunti
+Dei, Deo> (^Luca~, XXII, 21, 25-6; ^Giov.~, XVIII, 36). 
+Nell'^Epist.~ ai Principi: Cristo, <ad revelationem
+Spiritus,...quasi dirimens duo regna, sibi et Cesari universa
+distribuens, alterutri iussit reddi que sua sunt>.  Il richiamo
+ai Vangeli non @e platonico e generico, come pu@o sembrare a prima
+vista: l'interpretazione di alcuni passi dei Vangeli concernenti
+la delega di potere fatta da Cristo a San Pietro e agli Apostoli,
+fu tema di accaniti dibattiti dottrinali (con le relative
+deduzioni di carattere politico-giurisdizionale) nelle violente
+polemiche tra regalisti e teocratici dei tempi di Bonifacio VIII:
+e tali polemiche, com'@e noto, eran tornate a riardere, violente,
+negli ultimi mesi della spedizione di Arrigo VII (1313).
+
+	|94.  fiera~: bestia; il cavallo-Italia divenuto fiera. 
+-- |fella~: selvaggia, ingovernabile.  Cfr. ^Inf.~, XVII, 132;
+XXVIII, 81.
+
+	|95.  per~: causale; usitato, con la reggenza
+dell'infinito, anche nel latino dantesco, e con valore causale o
+strumentale.  -- |corretta~: governata; cfr. ^Inf.~, V, 60.  --
+|sproni~: solo l'Imperatore ha |sproni~, @e capace di governare il
+cavallo-Italia; la Chiesa non ha sproni, che sono fuori dalle sue
+attribuzioni.
+
+	|96.  poi che~...: da quando... incominciarono in Italia
+le contese giurisdizionali tra Impero e Papato e, dopo la
+battaglia di Benevento (1266), l'Impero cess@o di essere la forza
+regolatrice della vita italiana permettendo cos@i la
+prevaricazione della Chiesa nel campo temporale.  In questo c'@e
+anche una precisa responsabilit@a degli imperatori di Germania,
+come dir@a, con vibrata chiarezza, l'invettiva all'imperatore
+Alberto.  -- |predella~: la parte della briglia che va dal morso
+ai finimenti e si afferra per condurre il cavallo a mano.  Si
+noti ancora che la sella continua a esser vuota: che la Chiesa,
+fuori di metafora, @e incapace di inforcare l'arcione, di
+sostituirsi all'Impero.
+
+	|97.  Alberto~: Alberto I d'Austria, figlio di Rodolfo I
+(cfr. ^Purg.~, VII, 94), imperatore dal 1298 al 1308.  In
+^Conv.~, IV, 3, Dante considera come <ultimo imperadore de li
+Romani> Federico II; negando, invece, tale qualifica, sebbene
+<eletti>, ma non incoronati a Roma, a Rodolfo e ad Alberto.  Di
+qui il significato fortemente limitativo di |tedesco~,
+contrapposto a <romano>, il solo che comporti predicato di
+legittimit@a e di universalit@a.  Cos@i, nel ^Monarchia~,
+normalmente: <romanus Princeps>, <romanus principatus>.  --
+|abbandoni~: trascuri, lasci abbandonata, a se stessa e ad altri. 
+L'Italia non solo @e, per ragioni storiche e giuridiche, sotto la
+giurisdizione dell'Impero ma ne @e il centro, ^il giardin~
+{v.105}, come Roma ne @e la capitale ideale e legale, essendo la
+citt@a nella quale paganesimo e cristianesimo si sono
+provvidenzialmente armonizzati nella formazione dei due distinti
+e supremi Poteri.  Come il Papa @e <sposo> della Chiesa (cfr.
+^Inf.~, XIX, 111); cos@i lo @e di Roma, l'Imperatore; Roma,
+dimorando gli Imperatori in Germania, @e ^vedova e sola~ {v.113}.
+
+	|98.  costei~: la ^fiera~ del v. 94.  -- |fatta~:
+diventata.  -- |indomita~: indomabile; ma, di fatto, da lunghi
+anni, non pi@u domata, governata.  -- |selvaggia~: ^sparvier
+selvaggio~ in ^Purg.~, XIII, 71.
+
+	|99.  e~: con accento energicamente avversativo: dovere
+di Alberto sarebbe intervenire attivamente nelle cose d'Italia. 
+Nel discorso l'Italia @e considerata come un <complesso> unitario
+e distinto, ed @e questione dibattuta, e variamente risolta (in
+senso positivo dal Barbi e dall'Ercole; negativo dal Summer) se
+in Dante fosse presente l'idea di un <Regnum Italiae>: il titolo
+di <Romanorum rex> in aggiunta a quello di <Imperator Augustus>
+compare nel linguaggio cancelleresco gi@a nel sec. XI, e il doppio
+titolo, <Romanorum rex et semper Augustus>, usa anche Dante nella
+cerimoniosa introduzione all'^Epistola~ ad Arrigo.  Duplice pure
+il rito dell'incoronazione per gli Imperatori: regale, a Milano;
+imperiale, a Roma.  Il quesito, ripetiamo, non comporta una
+soluzione di positiva, e documentata certezza: il dovere, per gli
+Imperatori, d'intervenire nelle cose d'ltalia sottintende
+sovranit@a legittima, idea questa, tuttavia, derivabile tanto dal
+principio della universale sovranit@a propria dell'autorit@a
+imperiale quanto, pi@u ristrettamente, dal principio della
+sovranit@a regale.
+
+	|100.  giudicio~: sentenza, propriamente, la quale,
+venendo da Dio, e applicata a colpa, e non potendo ch'essere
+giusta, vale, per deduzione, castigo.  -- |caggia~: cada, scenda,
+dalle stelle, dall'alto...: Dio non @e direttamente nominato, per
+formale ritegno.  In ^Salmo~ LXXV, 9: <de coelo... fecisti
+iudicium tuum>; in ^Apocal.~, XV, 3-4: <iustae et verae sunt viae
+tuae...  Quis non timebit te, Domine, quoniam iudicia tua
+manifesta sunt?>; e nell'^Epistola~ ai Fiorentini: <severi
+iudicis adventante iudicio...>.  L'imprecazione, si noti, @e
+dottrinalmente significativa: l'autorit@a imperiale @e di origine
+divina, e venir meno al proprio dovere, per un Imperatore, @e
+perci@o tradimento di un mandato divino.
+
+	|101-102.  sangue~: casato, stirpe.  L'invocazione, cos@i
+esplicita, fa pensare a cose gi@a accadute.  Nel 1307 il
+primogenito di Alberto, Rodolfo, re di Boemia, moriva dopo breve
+malattia; l'anno dopo lo stesso Alberto veniva assassinato da
+Giovanni duca di Svezia.  E poich$e segue, di rincalzo, un severo
+ammonimento al successore di Alberto, che fu Arrigo VII, @e
+attendibile l'ipotesi che il passo rifletta le impazienze e le
+prime delusioni di Dante di fronte alle incertezze di Arrigo VII,
+durante la sua spedizione italiana, e sia perci@o da collegare
+abbastanza strettamente, anche per la datazione, all'^Epistola~
+dantesca ad Arrigo del 17 aprile 1311.  -- |novo~: inusitato,
+eccezionale, nella sua gravit@a.  -- |aperto~: chiaro nel suo
+significato (di richiamo a un alto e imprescindibile dovere).
+
+	|103.  Ch'avete~: poich$e avete.  -- |tuo padre~: Rodolfo
+d'Asburgo, imperatore dal 1273 al 1291.  -- |sofferto~:
+tollerato, permesso (cfr. ^Inf.~, X, 91).  Il biasimo @e valido
+nell'angolo visuale del problema italiano come lo vede Dante:
+manca la considerazione realistica delle cause obbiettive (le
+lotte interne del mondo germanico) che non permisero agli
+imperatori di Germania di riprendere saldamente in mano le redini
+della vita italiana, nella quale erano venute maturando forze e
+formazioni politiche il cui processo di svolgimento si riveler@a
+ormai inarrestabile.  A Dante non sfugge il processo in s$e, ma
+egli lo giudica un fenomeno negativo di sfaldamento e di
+corruzione in cui riuscir@a sempre pi@u difficile per l'Italia
+ritrovare un principio di vita unitaria, e la soluzione @e dedotta
+consequenziariamente dal principio ideologico-sistematico della
+dottrina politica esposta nel ^Monarchia~: la restaurazione
+dell'Impero in Italia.  La necessit@a di una restaurazione
+dell'Impero, a sua volta, per quanto utopistica e astrattamente
+ideologica possa sembrare, @e dedotta realisticamente dal fatto
+che n$e la concezione n$e il costume n$e la mentalit@a politica del
+tempo considerava o rendeva possibile una mediazione spontanea di
+sovranit@a e di diritti tra partito e partito (nell'ambito del
+Comune), tra Comune e Comune, tra Signoria e Signoria: donde la
+necessit@a di una armonizzazione autoritaria operata dall'alto, ad
+opera di un Potere investito dei corrispondenti titoli: l'Impero.
+
+	|104.  cupidigia~: interpretazione moralistica del fatto:
+sola cupidigia, brama di potere e di terre; |cost@a~ ha una
+sfumatura di spregio.  -- |distretti~: stretti e distolti (dal
+vostro dovere, di curare il ^giardin~ {v.105} dell'Impero, il
+centro storico-ideale e la parte pi@u bella dell'Impero: Roma,
+Italia).  <Sua cupiditate detenti> in ^Mon.~, III, 3.
+
+	|105.  giardin~: l'idea di una situazione privilegiata e
+di un primato dell'Italia era abbastanza comune, fin dalla prima
+met@a del sec. XIII.  La definizione ricorda affini espressioni
+bibliche (cit. Cavedoni): <sicut paradisus Domini> (^Gen.~, XIII,
+10): <quasi hortus Domini> (^Isaia~, LI, 3).  -- |diserto~:
+devastato, mandato in rovina.
+
+	|106-107.  Vieni~: ripetuto quattro volte, e in
+progressiva gravit@a di motivo: famiglie, feudalit@a ghibellina,
+Roma, la ^gente~ {v.115} tutta d'Italia.  -- |Montecchi e
+Cappelletti~: @e incerto se Dante alluda a famiglie della stessa
+citt@a o territorio in lotta fra loro (guelfe e ghibelline) o a
+famiglie ghibelline di citt@a e terre diverse.  La seconda ipotesi
+d@a rilievo al fatto che i pilastri di parte imperiale in Italia,
+abbandonati alla loro sorte, o sono crollati o vanno, l'uno dopo
+l'altro, crollando; e si potrebbe pensare, col Tedeschini, ai
+Montecchi di Verona, ai Cappelletti di Cremona, ai Monaldi di
+Perugia e ai Filippeschi di Orvieto.  Ma si fa osservare che i
+Cappelletti di Cremona erano di parte guelfa, e par difficile che
+Dante, cos@i informato, sia incorso in errore.  Secondo l'altra
+interpretazione: Montecchi e Cappelletti di Verona, Monaldi e
+Filippeschi di Orvieto, e l'accenno verterebbe, in modo
+preminente, a titolo largamente esemplificativo, e senza
+distinzione di parte, sul tema delle sanguinose lotte tra
+famiglie e loro consorterie, che portarono alla loro rovina e, in
+qualche caso, estinzione.  Alla tragedia della nobilt@a feudale di
+parte ghibellina si accenna, in effetti, nella terzina seguente. 
+-- |sanza cura~: affetto da sconsiderata, colpevole incuranza. 
+Cfr. ^Purg.~, VII, 92.
+
+	|108.  color~: Montecchi e Cappelletti o, per simmetrica
+contrapposizione, Montecchi e Monaldi?  O, senza intendere in
+modo troppo preciso, gli uni e gli altri?  -- |tristi~:
+sopraffatti dagli avversari, mal ridotti.  Come erano, gi@a nel
+1300, i Montecchi ad opera dei conti Sanbonifacio, e i
+Cappelletti di Cremona, ad opera dei Pelavicino.  -- |con
+sospetti~: in timore di esserlo, diventare, |tristi.~
+
+	|109-110.  pressura~: l'oppressione, la drammatica
+situazione.  Un altro e complementare aspetto del quadro: il
+travaglio, il tracollo dei |tuoi gentili~, della nobilt@a feudale
+che derivava i titoli di legittimit@a del proprio potere da
+concessione e nomina imperiali, baroni, conti, marchesi ecc., i
+cui possessi erano pericolosamente minacciati dall'espansione dei
+Comuni.  Un esempio tipico e ammonitore era la sorte della contea
+di Santafiora, nella zona del Monte Amiata, dominio della
+famiglia Aldobrandeschi (cfr. ^Purg.~, XI, 58) e oggetto di
+lunghi contrasti col Comune di Siena al quale, nel 1300, veniva
+ceduta una parte di quel territorio.  Per il termine si cita
+^Luca~, XXI, 23-5, <pressura gentium>, <pressura magna super
+terram>.  Si sforza il contesto intendendo: l'oppressione
+esercitata dai |gentili~, l'abuso di potere degenerante in
+tirannia: per Dante (e si rileva chiaramente dal ^Mon.~) la
+tirannia feudale e signoriale non @e affatto diversa, nella
+sostanza, dalla tirannia in cui avevano, costituzionalmente,
+tendenza a degenerare le <democrazie> comunali.
+
+	|111.  oscura~: come ^tristi~ del v. 108; dolente; cfr.
+^Par.~, XI, 65.  Secondo altra lettura: ^sicura~ (Del Lungo,
+Torraca); quanto sicura, cio@e quanto poco... (lettura pi@u viva).
+
+	|112.  tua~: ^tuoi gentili~ {v.110} sopra, ^Cesare mio~
+{v.114} sotto: ^tuo~ e ^mio~ implicano rapporto di stretta
+parentela (cfr. ^Purg.~, I, 79; VIII, 71 ecc.), e perci@o
+corrispondente, maggiore, e pi@u stretto dovere.
+
+	|113.  vedova~: nell'^Epist.~ ai Cardinali: <Romanam
+civitatem... viduam et desertam lugere compellimur>; con
+citazione, nell'^incipit~ dell'^Epistola~ stessa, del noto
+versetto di Geremia: <Quomodo sedet sola civitas... facta est
+quasi vidua domina gentium!>.  -- |chiama~: grida, invoca (in
+lat. <clamat>).  Nel passo, un intreccio di modi biblici:
+<Plorans ploravit in nocte...> (^Geremia~, I, 2), <super me
+viduara et desolatam... a multis derelicta...> (^Baruch~, IV,
+12), <clamantium ad se die ac nocte> (^Luca~, XVIII, 7) ecc.
+
+	|116.  nulla~: nessuna.  -- |move~: stimola, sprona;
+usitato.  La stessa movenza, di modulo virgiliano, nell'^Epist.~
+ad Arrigo: <si te nulla movet...>.
+
+	|117.  a vergognar~... |fama~: invito paradossale ma,
+come ultima misura, se le precedenti ragioni non sono
+sufficienti, per Dante il pi@u efficace; sempre che nell'animo di
+Alberto sia rimasto un minimo di amor proprio e di dignit@a. 
+Secondo altra lettura: ^a vergognarti vien.~
+
+	|118.  E se licito~...: <La mossa @e ardita, ma
+naturalissima in chi ha cercato ma non ha trovato alcun conforto
+al suo dolore.  Ha inveito contro i reggitori della Chiesa e
+dell'Impero, ma con poca o nessuna speranza di essere esaudito. 
+Eppure, sembra riflettere seco stesso, non sono l'una e l'altra
+istituzioni divine?  Non se ne pu@o dubitare.  E allora Dio a che
+guarda? come mai permette ne facciano tanto scempio?  E leva la
+faccia in alto a domandare.  Ma ha appena pronunziata la |e~, con
+cui sembra volersi scagliare anche contro Dio, che subito pensa a
+moderare il proprio ardimento con un |se licito m'@e~ e
+riconoscendo gi@a che in Lui non ci pu@o essere se non giustizia>
+(Pietrobono).  -- |sommo Giove~: Dio, o Cristo, detto |Giove~ per
+analogia con quel che Giove, re degli d@ei, @e nella favola pagana;
+<vivo Giove>, <eterno Giove> in Petrarca (^Rime~, CLVI, CCXLVI). 
+L'espressione non ha nulla di ardito: la rendeva naturale la
+secolare abitudine alla interpretazione allegorica delle favole
+mitologiche, nonch$e la loro familiarit@a.  Cfr. ^Inf.~, XXXI, 92.
+
+	|121-122.  preparazion~: lega con |per alcun bene~; in
+vista di un bene...  -- |nell'abisso~: l'abissalit@a, e cio@e
+imperscrutabilit@a, dei ^consigli~ o deliberazioni di Dio @e motivo
+soritturale, e corrente: ^Salmo~, LXXVI, 9: <Justitia et judicium
+praeparatio sedis tuae>; ^Salmo~, XXXV, 7: <Judicia tua abyssus
+multa> ecc.  Cfr. ^Par.~, XI, 28-30; ^Purg.~, III, 34-36.
+
+	|123.  in tutto~... |scisso~: assolutamente lontano
+(|scisso~: separato) dalle possibilit@a della nostra intelligenza
+(|accorger~: inf. sostantiv.: il capire, rendersi conto di
+qualcosa).
+
+	|124.  Ch$e~...: il dubbio espresso nella terzina
+precedente non attenua la gravit@a del quadro sopra delineato, e
+di cui si addita un altro elemento: il travaglio delle parti nei
+Comuni, e la crisi delle istituzioni da cui spuntano,
+irresistibili, i regimi tirannici e signoriali, portanti tutti lo
+stesso sigillo: la negazione della libert@a e della legge. 
+<Democratie...  oligarchie atque tyrannides in servitutem cogunt
+genus humanum> (^Mon.~, I, 12).
+
+	|125.  tiranni~: nell'accezione negativa di dittatura o
+regime personale, che si sovrappone alla legge, e ne fa uso
+arbitrario a fini personali (cfr. nota a ^Inf.~, XII, 104).  --
+|Marcel~: Marco Claudio Marcello, il vincitore di Siracusa e dei
+Galli, l'<insignis spoliis Marcellus> di ^En.~, VI; o, secondo
+altri, C. Claudio Marcello, console nel 50 a. C., fautore di
+Pompeo e avversario di Cesare, al quale allude Lucano in ^Fars.~,
+I, 313.  @E preferibile la seconda interpretazione: l'accenno a
+<quei capiparte, che levati dal nulla a forza di audacia e di
+sfacciataggine, diventano nuovi Marcelli, che ardiscono pi@u
+dell'antico di levarsi contro la maest@a di Cesare> (F. Tocco),
+rende pi@u vivo e calzante l'argomento.
+
+	|126-127.  villan~: nel lessico dantesco, il contrario di
+^gentile~ {v.110}, nobile, tanto in senso sociale quanto
+psicologico-morale (uomo rozzo, volgare, privo di educazione). 
+Secondo il Del Lungo, la punta di |villano~ sarebbe indirizzata
+contro Baldo d'Aguglione, ^il villan d'Aguglione~ che in ^Par.~,
+XVI, 55 @e detto mandar ^puzzo~, e nel 1311 aveva dato il suo nome
+a una riforma della costituzione fiorentina in forza della quale
+Dante, ed altri esuli ghibellini, erano esclusi dal ritorno in
+patria.  Che l'accenno concerna Firenze @e probabile; la ripresa,
+infatti, @e immediata: |Fiorenza mia~...
+
+	|128.  digression~: ironico: come se tutto il discorso
+fosse stato una inutile digressione dal tema principale e cos@i
+lieto; come se in Italia non ci fosse Firenze, un'oasi di pace,
+di armoniosamente regolato e pacifico viver cittadino.  --
+|tocca~: riguarda, concerne; corrisponde al <tangit> <tangere>,
+usitato nel latino dantesco.
+
+	|129.  merc@e~: in grazia e merito.  L'elogio @e permeato
+d'ironia passionale, e perci@o portato a uscire dai propri limiti,
+a forzare il tono a sarcasmo e, verso la fine, a mutarsi in
+aperta requisitoria.  -- |argomenta~: si d@a da fare, con tutti i
+mezzi e in tutti i modi: cos@i in ^Inf.~, XXII, 21.  Secondo altra
+lettura: ^s@i argomenta~: cos@i ben ragiona, provvede al proprio
+bene.
+
+	|130-131.  Molti~... |arco~: molti, in altre citt@a, hanno
+in cuore la giustizia l'amano veramente (non solo con la bocca,
+come i Fiorentini), ma sono lenti e ponderati prima di emanar
+leggi, per evitare che esse, agli effetti, risultino ingiuste o
+sconsiderate o bisognose di successivi mutamenti...  -- |scocca~:
+dalla metafora dell'arco: il saggio arciere non volendo che il
+suo por mano all'arco risulti azione sconsiderata, |sanza
+consiglio~, tarda, pondera bene, prima di far partire il colpo. 
+-- |per~... |venir~: causale; poich$e, per il fatto che non si
+viene... ecc.  Altri intende in senso finale.
+
+	|132.  in~... |bocca~: sulle labbra, a fior di labbra; ne
+parla, non fa che parlare di giustizia, ma non l'ha veramente in
+cuore (vera sede degli affetti), n$e la pratica.  E ne parla a
+vanvera.  ^Matteo~, XV, 8: <Populus hic labiis me honorat, cor
+autem eorum longe est a me>; e ^Sapienza~ e ^Proverbi~ abbondano
+di precetti sul governo della lingua; in ^Ecclesiastico~ IV, 34:
+<Noli citatus esse in lingua tua> ecc.  In ^Mon.~, I, 12:
+<libertas arbitrii, quam multi habent in ore, in intellectu vero
+pauci>.
+
+	|133.  lo~... |incarco~: i pubblici uffici; la pesante
+responsabilit@a del governo della cosa pubblica.
+
+	|134.  sollicito~: entusiasta, pieno di nobile zelo.
+
+	|135.  sanza chiamare~: senza bisogno d'inviti e
+sollecitazioni.  -- |mi sobbarco~: grido (per ironia) di generoso
+entusiasmo e di ardente dedizione al bene pubblico: di fatto,
+l'incomposta corsa all'arrembaggio delle cariche pubbliche da
+parte dei pi@u incompetenti e sfacciati.
+
+	|138.  nasconde~: lo rivelano i fatti, gli effetti.
+
+	|139.  fenno~: crearono, elaborarono: Atene, per mezzo di
+Solone; Sparta, di Licurgo.
+
+	|140.  l'antiche leggi~: nel senso che le costituzioni
+ateniese e spartana furono il fondamento di tutta l'antica
+legislazione, com'@e affermato in un passo delle ^Institutiones~
+giustinianee, I, 2, 10: <Origo (juris civilis) ab institutis
+duarum civitatum, Athenarum scilicet et Lacedemonis, fluxisse
+videtur>.  -- |civili~: perch$e regola e fondamento della
+<civilitas> @e la legge, sola garanzia di pace e d'ordine, e
+documento di ^senno~ {v.137}, di civile sapienza.  L'esser
+|civili~, dunque, @e in dipendenza dall'aver elaborate l'|antiche
+leggi.~
+
+	|141.  al viver bene~: <ad bene esse> nel latino del
+^Mon.~; sulla via del retto e ordinato vivere.  -- |picciol
+cenno~: un passo, pochi passi in confronto ai tanti e passi da
+gigante compiuti da Firenze.  Letteralm.: un piccolo accenno,
+un'idea, cos@i, vaga, della cosa.
+
+	|142.  verso di~: in confronto di; cfr. ^Purg.~, III, 51;
+XXVIII, 30.  -- |sottili~: nell'italiano e nel latino danteschi
+vale: profondi, acutamente pensati; ma ci sar@a anche l'altro
+significato: sottili in senso proprio, per analogia col tessuto o
+filato sottili, come fa supporre il ^fili~ del v. 144: il che,
+osserva il Fraticelli, <rende mordace il grazioso equivoco>.
+
+	|143-144.  novembre~... |fili~: ^dalla state al verno~ in
+^Inf.~, XXVII, 51, per indicare mutevolezza di condotta.  L'aver
+scelto questi due mesi, non conoscendosi proverbio del genere,
+starebbe a indicare, secondo il Del Lungo, che l'allusione @e
+specifica: a quanto accadde nell'autunno del 1301 quando il
+priorato di parte bianca, eletto il 15 ottobre, per l'intervento
+di Carlo di Valois, fu dimesso dall'ufficio con provvedimento
+straordinario l'8 novembre successivo.  L'allusione @e possibile;
+il contesto tuttavia, regge egualmente bene anche interpretando
+in un senso pi@u lato e generico.
+
+	|145.  tempo che rimembre~: del tempo che ricordi, nel
+breve giro d'anni che un fiorentino, vivente nel 1300, pu@o
+ricordare direttamente; il biasimo di instabilit@a, per riuscire
+efficace, dev'esser limitato nel tempo.
+
+	|146.  officio~: cariche pubbliche, mutate nel nome e
+nella forma, o create ex-novo.
+
+	|147.  membre~: cittadini...: @e un plur. neutro al
+femminile, come in ^Inf.~, XXIX, 51; forme analoghe in ^Purg.~,
+XII, 21; XXXIII, 108; ^Par.~, XXXI, 81.
+
+	|148.  E~: conclusivo; il succo dell'elogio @e condensato
+nel paragone finale.  -- |vedi lume~: riesci ancora a vedere, non
+sei totalmente cieca nell'intelletto.  <Lumen>, nelle pi@u varie
+applicazioni, @e usitatissimo termine scritturale: in ^Tobia~, V,
+12: <In tenebris sedeo et lumen coeli non video> ecc. 
+Espressioni affini in ^Mon.~, III, 3: <quorum obstinata cupiditas
+lumen rationis extinxit>, ecc.
+
+	|149.  quella~: la nota; l'|inferma~ del noto proverbio. 
+Un vecchio proverbio fiorentino, ricordato dal Villani (^Cron.~,
+XI, 16) diceva: <Fiorenza non si muove, se tutta non si duole>:
+il significato, peraltro, @e tutto diverso.
+
+	|150.  posa~: requie, tregua.  ^Geremia~: <Nec invenit
+requiem>; ^Apocal.~, XIV, 11: <nec habent requiem nec die nec
+nocte>.  -- |in~... |piume~: nel suo letto, anche il pi@u morbido:
+cfr. ^Inf.~, XXIV, 47.
+
+	|151.  dar volta~: girandosi, or su un fianco, or su
+l'altro.  I golosi, in ^Inf.~, VI, 20: ^dell'un de' lati fanno
+all'altro schermo.~  Cfr. ^Inf.~, XXI, 136; XXX, 94; ^Purg.~,
+VIII, 107 ecc.  -- |scherma~: cerca, illusorio riparo, di
+schermire, attenuare il proprio dolore; ^schermar lo viso~ in
+^Purg.~, XV, 26.  @E notazione ormai badiale che i sesti canti
+delle tre cantiche sono fra loro in puntuale rispondenza
+tematica, e cio@e d'argomento politico.  Il punto di raccordo @e il
+valore simbolico del numero 6, significativo d'idee d'ordine e di
+assetto: il compito, appunto, dell'autorit@a imperiale.  E dal 3
+(numero misteriale) moltiplicato per 6 il 18; e XVIII di ^Par.~
+il canto dell'Aquila.  La rispondenza poi @e in calcolata
+progressione di tema e di aperture ideali: Firenze (VI di ^Inf.~)
+il cui dramma @e ricondotto, limitatamente, a cause morali
+(superbia-invidia-avarizia); l'Italia, (VI di ^Purg.~), con
+visuali politico-ideali aperte alla visione delle cause generali
+del disordine italiano; l'umanit@a, nel VI di ^Par.~, con
+l'esaltazione del valore dell'idea imperiale librata a volo nella
+sfera dell'universale.

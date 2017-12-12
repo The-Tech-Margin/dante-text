@@ -1,0 +1,80 @@
+Return-Path: LBIANCHI@Sol.YorkU.CA 
+Received: from sol.yorku.ca by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA11732; Thu, 4 Feb 1993 00:52:01 -0500
+Received: from Sol.YorkU.CA by Sol.YorkU.CA (PMDF #12410) id
+ <01GUAZQG50WG8YA5VP@Sol.YorkU.CA>; Thu, 4 Feb 1993 00:51 EDT
+Date: Thu, 4 Feb 1993 00:51 EDT
+From: Luigi M Bianchi <LBIANCHI@Sol.YorkU.CA>
+Subject: Re: speller
+To: steve@avalon.dartmouth.edu
+Message-Id: <01GUAZQG50WG8YA5VP@Sol.YorkU.CA>
+X-Envelope-To: steve@avalon.dartmouth.edu
+X-Vms-To: IN%"steve@avalon.dartmouth.edu"
+Status: OR
+
+Dear Prof. Campbell,
+
+		Thank you for your message + instructions concerning the
+Dante Database.  I will certainly take a good look and suggest texts which
+may be good sources of words for *The List*.
+
+You write,
+
+> It would be a simple matter to generate word lists from any of the
+> commentaries.  A possible format would be a flat file containing one word
+> per line, each word perhaps followed by the number of occurances in the
+> original text. Something like this:
+>
+> nel		374
+> mezzo		329
+> del		289
+> cammin        
+> ...
+>
+> The list could be sorted alphabetically or by increasing or decreasing
+> occurance counts.  I would need some guidance on how to deal with
+> contractions and probably some other syntactic issues.  I would be glad
+> to take the time to prepare a sample word list from any few cantos of
+> any commentary.
+
+Actually the criteria I would like to follow are somewhat simpler.  I do
+not need a count for the number of occurrances.  The alphabetical sort would
+be the best arrangement of the list (one words per line, each line terminated
+either with a LF or a LF+CR).  I do not need accents, apostrophes nor other
+diacritical or other mark(er)s.  All letters, including initials, should
+preferably be lower case.  Proper nouns, geographical, historical, etc. nouns
+should also not be capitalized.
+
+I have the tools for performing these filtering work on any text (ASCII),
+and of course I am ready to sign a release or other document explicitly
+stating that the texts would only be used as sources of words, outside of
+even the fliemsiest of contexts, and that the purpose of this work is
+entirely academic and does not nor will not involve any form of payment,
+royalties, etc., and that explicit acknowledgment of the help of Darmouth's
+Dante Project (cum names of any and all helping persons there and elsewhere)
+would be part of a text document accompanying the word list...
+
+
+> I would suggest that if Prof. Bianchi has not already done so he take
+> a look at the database and consider which commentaries would be appropriate
+> as sources for such a word list.  I will send a description of the
+> database and instructions for accessing it to Prof. Bianchi in a separate
+> message.
+
+I received it today, and will make good use of it this weekend.  I wish to
+make it very clear that I appreciate your help very much, and that I am ready
+to work directly on some of the texts (as opposed to just ... letting you do
+all the dirty work) if this is possible, i.e. if no violation of copyright
+rules, regulations and laws is thus involved.   In any case, by next Monday
+or so I will let you have a list of text I consider potentially useful and
+usable. (Incidentally, I do already have a complete list of all the words
+present in Dante's Commedia.)
+
+Thank you again for your interest and kind help.
+
+Best regards,
+
+--Luigi Bianchi
+
+
+

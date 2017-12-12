@@ -1,0 +1,1480 @@
+	|Nota~ Il Canto, secondo Pietro, si divide in tre parti; la prima @e come
+l'esordio alla materia del secondo Cerchio (vv. 1-27); la seconda
+tratta della pena ivi inflitta (vv. 28-51): la terza rappresenta
+il gran dramma (dal v. 52 fino alla fine).  Donde Dante traesse
+l'idea di questo Cerchio, cf. v. 85.
+
+	|1-3.  Cos@i~, in compagnia del solo Virgilio: |primaio~, 
+primo (cf. VII, 41; ^Purg.~, IX, 94; XIII, 5; e anche fuor di
+rima, ^Purg.~, XIV, 66).  -- |Che men loco cinghia~, cinge
+(^Inf.~, IV, 24), @e meno ampio del primo, ha minore diametro, per
+quello che fu detto nel Canto IV, v. 24.  Del secondo girone del
+Purgatorio: "ove ^secondamente~ si risega lo monte" (^Purg.~, 
+XIII, 2).  -- |E tanto pi@u dolor~, ecc.; la frase |men loco
+cinghia~, contiene in s@e tanto |pi@u dolor~, a rispetto del
+cerchio primo, che opprimendo le anime, le costringe a ^trar
+guai~ (v. 48; cf. ^Inf.~, IV, 7, 9).  Tutto al contrario avviene
+nel Purgatorio, 
+
+     Lo monte, che, salendo, altrui dismala
+
+(^Purg.~, XIII, 2), il quale ^quanto uom pi@u va su e men fa male~
+(ivi, IV, 90).
+
+	|4-6.  Minos~: @e nominato sei volte in questa prima
+Cantica, una nel Purgatorio.  La mitologia cel tramand@o come un
+savio re di Creta, ma severissimo.  Gli antichi poeti fecero di
+lui un giudice infernale insieme con Eaco e Radamanto (Pier di
+Dante dichiara lo speciale officio di tutti e tre); Virgilio a
+Radamanto attribuisce l'eguale officio che Dante a Minosse e con
+quasi simili parole (cf. ^Aen.~, VI, 566 e segg.).  Minosse @e dal
+Mantovano collocato subito appresso al luogo dei bambini, e
+scrive (^Aen.~, VI 426 e segg.):
+
+     Nec vero hae sine sorte datae, sine judice, sedes:
+     Quaesitor Minos urnam movet; ille silentum
+     Conciliumque vocat, vitasque et crimina discit.
+
+Quanto pi@u potente la figura e il modo del Minosse dantesco! 
+Dante tuttavia ne fa un demonio, come s'@e detto nel Canto III, 
+vv. 97-99.  Nessun dannato pu@o sfuggire a Minosse (^Inf.~, XX, 
+36); e giudicando, come rappresentante della divina Giustizia, 
+non pu@o prendere inganno (ivi, XXIX, 120), onde, conosciute le
+colpe di ciascuno |manda~ le anime alla foce o cerchio, che loro
+appartiene (^Inf.~, XIII, 96), attorcendosi un corrispondente
+numero di volte la coda al dosso (vv. 9-12) e ^per gran rabbia
+mordendosela~ (^Inf.~, XXVII, 125).  -- |Orribilmente~, in
+atteggiamento da incutere orrore, spavento.  -- |Ringhia~, freme
+d'ira, digrigna i denti (^Inf.~, XXII, 91); cf. ^Inf.~, XXVII, 
+126.  Pietro: ^Fingit invenire Minoem judicem infernalem, ut
+canem ringhiantem, qui pro generali judicio conscientiae
+fingitur, quod ut canis nos peccantes remordet.  Unde Isaias:
+vermis eorum non morietur; quod exponitur remorsus conscientiae
+nam et conscientia quandoque dicitur scientia peccati, quandoque
+morsus peccati.~  -- |Nell'entrata~: alcuni intendono ^stando
+Minosse all'ingresso di questo cerchio~; altri ^nell'atto che
+l'anima vi entra.~  -- |Manda~, a un dato cerchio |secondo che
+avvinghia~, secondo un dato numero di avvolgimento della sua coda
+al dosso, come il Poeta spiega nella seguente terzina.  Lo
+Scartazzini: "Dante pone a custodia dei diversi cerchi infernali
+enti mitologici; in ci@o egli si conforma alle credenze teologiche
+del medioevo, che negli enti della mitologia pagana soleva vedere
+essere reali, ma non d$ei, anzi altrettanti demonj, conciliando in
+tal modo, bene o male, la cristiana credenza con la tradizione
+pagana."  Cf. ^Inf.~, III, 99 e 109.
+
+	|7-12.  Mal nata~ (^mal nati~ i dannati in genere, ^Vit.
+N.~, XIX, nella Canz., st. 2; ^Inf.~, XVIII, 76; XXX, 48;
+l'opposto di ^ben nato~ per le anime del Purgatorio, ^Purg.~, V, 
+60; e cos@i dai Santi @e detto Dante, ^Par.~, V, 115), sventurata
+cos@i, che sarebbe meglio che nata non fosse (^Inf.~, XXXII, 15). 
+-- |Tutta si confessa~, "pienamente, non lasciando alcuna colpa"
+(Buti).  -- |Conoscitor delle peccata~ ecc.; @e voce del f#oro, 
+avverte il Cesari, da ^cognoscere~ per ^giudicare~, ^fare il
+processo~; e nella ^Mon.~, I, 12 (^cum alter de altero~
+cognoscere ^non possit.~.., ^oportet~ ecc.), appunto per
+^giudicare.~  -- |E da essa~, le appartiene, le @e donato; @e
+propriet@a di nostra lingua: il Petrarca: "^Da~ altri omeri soma, 
+che ^da'~, miei."  -- |Quantunque gradi~, quanti (cf. ^Purg.~, 
+XV, 71; XXX, 52).  La voce |gradi~, cerchi infernali, ben
+richiama il concetto di ^scala~, che il Poeta dice altrove
+(^Inf.~, XVII, 81; XXXIV, 82), pel discendere gi@u di cerchio in
+cerchio; e cos@i pel Purgatorio (^Inf.~, XXIV, 55), e pel Paradiso
+(^Par.~, XXI, 7).
+
+	|13-15.  Sempre dinanzi a lui ne stanno molte~; perch@e
+^tutti quelli che muoiono nell'ira di Dio~ (^Inf.~, III, 108), 
+tutti gli debbono passare innanzi, ed egli tutti ^afferra~
+(^Inf.~, XX, 36).  E quanta sia la moltitudine, il vedemmo al
+Canto III, 120.  Se pi@u sieno le anime che si dannano, ovvero
+quelle che si salvano, cf. ^Purg.~, X, 2, nel commento.  -- |A
+vicenda~, ciascuna alla sua volta, una per volta.  -- |Dicono~ le
+colpe (si ^confessano~ senza nulla tacere, v. 8): |odono~ la
+sentenza, che ^rimbomber@a~ in eterno (^Inf.~, VI, 99).  -- |Son
+gi@u v#olte~, per quella forza superna che a Minosse detta il
+giudicio: onde l'anima ^cade~ o ^piove~ (^Inf.~, XIII, 97; XXX, 
+95) nel cerchio ch'@e ^da essa~ (cf. ^Inf.~, XXX, 96, nel
+commento).  Si attenda all'armonia del verso, in tutto
+rispondente all'idea.
+
+	|16-20.  Doloroso ospizio~, le dolenti case (^Inf.~, 
+VIII, 120), ^la citt@a dolente~ (ivi, III, 1), il ^regno della
+gente morta~ (ivi, VIII, 85), ^la notte de' veri morti~ (^Purg.~, 
+XXIII, 122).  -- |Lasciando l'atto~ di confessore e giudice delle
+anime peccatrici.  -- |Guarda com'entri~: opposizione diabolica
+al mistico viaggio, al conseguimento della salute spirituale;
+Minosse tenta perci@o d'indebolire la fiducia di Dante verso la
+sua guida; onde dice e |di cui tu ti fide~, di chi ti fidi, in
+chi poni la tua fiducia, (cf. ^Inf.~, XI, 53).  -- |Non t'inganni
+l'ampiezza~ ecc.  Dal parlar coperto, rispetto a Virgilio, e
+generale, viene al particolare: per consimile modo l'Angelo
+guardiano della porta del Purgatorio dice ai due viaggiatori:
+
+                      che volete voi?...
+     Guardate che il venir su non vi n#oi
+
+(^Purg.~, IX, 85-87).  In Virgilio (^Aen.~, VI, 126):
+
+                        facilis descensus Averno
+     (Noctes atque dies patet atri janua Ditis);
+     Sed revocare gradum superasque evadere ad auras, 
+     H#ic opus, h#ic labor est.
+
+Ma forse Dante meglio pensava alle parole del Vangelo (^Matth.~, 
+VII, 13): ^Intrate per angustam portam; quia lata porta et
+spatiosa via est, quae ducit ad perditionem, et multi sunt qui
+intrant per eam.~  E forse accenna pure a questa ^facilit@a~ o
+|ampiezza~ d'ingresso il fatto toccato dal Poeta (^Inf.~, VIII, 
+126), che la porta, che vedemmo al principio del Canto III, 
+^senza serrame ancor si trova~; e ognuno pu@o, cui piaccia, 
+entrarci a suo agio, dacch@e questa @e la porta, 
+
+     Lo cui sogliare a nessuno @e negato
+
+(^Inf.~, XIV, 87).
+
+	|21-24.  Perch@e pur gride~? che non cessi dal gridare?
+(|gride~ per ^gridi~; cf. ^Inf.~, I, 94).  Qui il |pur~, oltrech@e
+continuit@a di azione, pu@o anche significare ^anche tu~, 
+richiamandosi Virgilio all'opposizione di Caronte; tanto @e vero
+che qui ripete le medesime parole (cf. ^Inf.~, III, 95); cos@i, 
+altro impedimento, e pur vano, frapporr@a ^gridando~ Flegias
+(^Inf.~, VIII, 19).  -- |Non impedir lo suo fatale andare~;
+lascialo andare (^Inf.~, XXII, 83; ^Purg.~, I, 83).  |Fatale~;
+^fato~, nel linguaggio di Dante, risponde a ^voler divino~
+(^Inf.~, XXI, 82; ^Purg.~, XXX, 142), ; onde ^dar di cozzo nella
+fata~ altro non @e che opporsi ai ^divini voleri~ (^Inf.~, IX, 
+97).  Il Gelli (Lett. III, lez. 1): "Non significa altro ^fato~, 
+secondo Boezio, cristianamente parlando, che la disposizione
+della volont@a divina circa le cose."  E appunto, parte del Lib.
+IV e V della ^Consol. Philos.~ di Boezio tratta di ci@o.  E si
+vedr@a pi@u sotto (ci@o che in buona parte @e schiarimento al luogo
+presente) come l'Allighieri della cieca ^Fortuna~ de' gentili
+faccia una ^creatura angelica~, la quale per volere di
+Provvidenza governa le cose del nostro mondo, e le distribuisce
+qual fida ministra (^Inf.~, VII, 73 e segg.: cf. ^Par.~, VIII, 
+97).  Ondech@e nella ^Monarchia~ (II, 10): ^Heram vocabat Pyrrhus~
+Fortunam, ^quam melius et rectius nos divinam Providentiam
+appellamus.~  Se dunque questo viaggio di conversione era voluto
+da Dio (^Inf.~, XXI, 83), gli ostacoli erano del tutto vani;
+perch@e "^qui divinae ordinationi resistit, voluntati
+omnipotentiae coaequali recalcitrat~ (^Epist.~, V, {paragraph.}
+4), Dio potendo tutto, onde l'inteso fine non gli pu@o mai ^esser
+mozzo~ (^Inf.~, IX, 95).  Se cotal viaggio pertanto era da Dio
+voluto (cf. ^Inf.~, VII, 11), ne segue che era di pieno diritto
+che nessuno lo potesse impedire, perch@e divina ^voluntas est
+ipsum Jus~ (^Mon.~, II, 2).  Da questo convincimento intimo di
+Virgilio si pu@o desumere il tuono riciso delle sue risposte.  Con
+quella a Caronte e con questa a Minosse si raffrontino, anche per
+ragione di stile, altre risposte pi@u innanzi (VII, 8-12; VIII, 
+19-21; IX, 91-99; XII, 16-21; XII, 85; XXI, 79-84).
+
+	|25-27.~  Sono notati dall'Alfieri.  -- |Dolenti note~, 
+qui per il ^suono~, il ^lamento~, le ^disperate grida~ (cf.
+^Inf.~, I, 115; e qui sotto, v. 35).  -- |A farmisi sentire~, 
+crescendo di forza e d'intensit@a mano mano che i Poeti pi@u
+s'accostavano al luogo donde quelle note provenivano.  -- |Son
+venuto l@a dove, in parte ove~ ecc. (cf. IV, 151), in ^luogo~ (v.
+seg.).  -- |Pianto~, i guai che ^suonano~ (^Purg.~, VII, 30), lo
+strepito derivante dal ^dolore~ (cf. ^Inf.~, VIII, 65).  -- |Mi
+percuote~: per estensione Dante adopera tal verbo riferendolo
+all'udito: ^negli orecchi mi percosse un duolo~ (^Inf.~, VIII, 
+65); ma pi@u spesso lo riferisce alla vista (cf. ^Purg.~, XV, 23;
+XVII, 41 e 44; XXX, 40; XXXII, 11): qui per@o il |percuote~ si
+riferisce non solo al senso, ma pur all'animo, e ricorda ^la
+guerra della pietate~, ^Inf.~, II, 4-5.
+
+	|28-30.~  L'Alfieri li ricopi@o.  |Loco d'ogni luce muto~, 
+privo di luce, dove non c'era cosa che mandasse luce (cf. IV, v.
+151), dacch@e vi ^taceva~ il Sole (^Inf.~, I, 60), il Sole
+intellettuale, il ^Bene dell'intelletto~ da questi sventurati
+perduto per sempre (^Inf.~, III, 18).  Il Venturi (^Similit.~, 
+ecc., 65): <La voce dantesca (|muto~), con bel traslato, mentre
+rinvigorisce l'idea appropriando alla vista la privazione d'un
+altro senso, adombra l'arcana corrispondenza che @e fra i sensi
+nostri, e pi@u specialmente fra la vista e l'udito.>  La |luce~ @e
+favella, eloquenza possente: ^Coeli enarrant gloriam Dei~ (Ps.
+XVIII, 1): quindi il nostro Autore trae come ispirazione
+all'esordio del suo Paradiso:
+
+     La gloria di Colui, che tutto muove, 
+     Per l'universo penetra, e risplende
+     In una parte pi@u, e meno altrove.
+
+-- |Che mugghia~ ecc.; ^mugghiare~ @e proprio degli animali bovini
+(cf. ^Inf.~, XXVII, 7); qui per traslato.  Il Boccaccio:
+<Chiamasi questo rumore del mare impropriamente ^mugghiare~;
+perciocch@e da s@e non ha proprio vocabolo, @e preso un vocabolo a
+descriver quel rumore che pi@u verisimilmente gli si confaccia, e
+questo @e il ^mugghiare~, il quale @e proprio de' buoi; ma perch@e @e
+un suono confuso e orribile, par che assai convenientemente
+s'adatti al rumor del mare.>  L'^oscurit@a~ e il ^mugghiare~
+tempestoso di questo Cerchio sono acconcia figura della cecit@a
+intellettuale e dello scompiglio del cuore dei peccatori carnali. 
+Pietro: ^Dicit~ (auctor) ^supplicium talium luxuriosorum esse in
+vento tempestuoso.~..  ^Cuius figura satis patet bene
+inspicientibus motus et actus amantium et fornicantium, et
+incessabiles circuitus eorum.~  Ma di tali meglio assai e pi@u
+viva la parola dell'Apostolo S. Giuda (vv. 10-13): ^Quaecumque
+naturaliter, tamquam muta animalia norunt, in his
+corrumpuntur.~..  ^Hi sunt in epulis suis maculae, convivantes
+sine timore, semetipsos pascentes, nubes sine aqua, quae a ventis
+circumferuntur, arbores autumnales, infructuosae, bis mortuae, 
+eradicatae, fluctus feri maris, despumantes suas confusiones, 
+sidera errantia; quibus procella tenebrarum servata est in
+aeternum.~  In quest'ultime parole c'@e tutto il secondo Cerchio
+nel disegno e morale e materiale.  Isaia (LXVII, 20): ^Impii
+quasi mare fervens, quod quiescere non potest.~  -- |Se da
+contrari venti @e combattuto~: cf. ^Inf.~, VII, 22-23.
+
+	|31-33.~  L'Alfieri trascrisse il primo.  |La bufera
+infernal~, cio@e il ^vento che mena~ questi dannati (^Inf.~, XI, 
+71; cf. vv. 43 e 78).  Il Boccaccio: <|Bufera~, nell'usitato
+parlar delle genti, @e uno vento impetuoso, forte, il qual
+percuote e rompe e abbatte (-- cf. ^Inf.~, IX, 67-71 --) ci@o che
+dinanzi gli si para.>  -- |Che mai non resta~, non cessa, non si
+queta (cf. ^Inf.~, IV, 82; ^Purg.~, XXIX, 19).  Cf. pi@u sotto, al
+v. 96.  <La bufera @e dipinta come da uomo che ha vedute tempeste
+del cielo @e dell'acqua e provate tempeste dell'anima> (Tommaseo). 
+-- |Rapina~, vortice, rapimento in giro; e fa rammentare il
+celerissimo movimento del primo Mobile, il quale nella sua
+ampiezza e velocit@a
+
+        tutto quanto rape
+     L'alto universo seco
+     (^Par.~, XXVIII, 70).
+
+E nel ^Convito~, II, 6: <la |rapina~ del primo Mobile.>
+
+	|34-36.~  L'Alfieri not@o il v. 35.  |Ruina~: col
+Boccaccio, col Lana, col Buti e con altri antichi qualche moderno
+intende non gi@a un vero e proprio scoscendimento o ^riverso~
+(^Inf.~, XII, 45) di rocce, ma la bufera che avvolge gli spiriti, 
+come se Dante, nota il Casini, dicesse: Quando le anime, mandate
+da Minosse, pervengono in questo turbinio rovinoso, cominciano
+grandissime strida ecc.  Ma in tal caso si parlerebbe solo delle
+giunte di fresco, mentre @e chiaro che qui parla di tutte le anime
+di questo Cerchio.  Filalete: <|Ruina~; vicino al centro del
+Cerchio, ove pi@u profondo si vede l'inferno:> e certo non bene;
+anche il Tommaseo pare intendere col dotto Tedesco, perch@e parla
+^dell'orlo della ruina~, onde ne verrebbe che le anime ivi
+appressandosi imprecano a Dio per tema di esser precipitate nel
+profondo; pensiero in tutto difforme da quello di Dante, quando
+si rifletta che il Poeta in pi@u luoghi dell'opera sua ne insegna
+che n@e demoni n@e dannati possono mai abbandonare il cerchio loro
+assegnato.  Io mi sto con que' pochi che nella |ruina~ ravvisano
+un vero e proprio scoscendimento della roccia, contro il quale
+sono dalla ^bufera~ {v.31} scaraventati que' miseri, onde ad ogni
+nuovo giro della ^rapina~ {v.32} in loro si rinnova il dolore, le
+urla e la disperazione bestemmiante la |Virt@u divina.~  Se questa
+|ruina~ abbia relazione con quanto Dante discorre altrove del
+tremuoto avvenuto alla morte di Cristo o preesistesse (cf.
+^Inf.~, XII, 32-45; XXI, 106-114; XXII, 137), ho discorso nel
+^Dizionario Dantesco~ (cf. artic. Ruina), dove il lettore, se gli
+aggrada, potr@a prendere notizia.  -- |Quivi le strida~ ecc. 
+Verso sovrano, ancor pi@u per l'elissi del verbo.  -- |Bestemmian
+quivi~ ecc.: cf. III, 103.  -- |La Virt@u divina~ (^Canz.~ parte
+II, canz., II, v. 37), ^Dio, prima semplicissima e nobilissima
+Virt@u~ (^Conv.~, III, 7), ^quel Bene infinito e ineffabile~, che
+hanno perduto, ^Purg.~, XV, 67.  Sul ^bestemmiare~ de' dannati, 
+cf. ^Inf.~, III, 103.  Il Tommaseo: <Quel farli bestemmiare
+sull'orlo della rovina @e, come nella stretta finale delle
+musiche, cosa potente.>
+
+	|37-39.  Intesi~: i pi@u tengono che il Poeta
+l'^intendesse~ da Virgilio; lo Scartazzini: <non gi@a perch@e
+Virgilio o alcun altro glie lo dicesse, ma sibbene argomentando
+dal modo della pena, come ^Inf.~, III, 61; X, 64;> ma il Casini
+risponde: <ma nel primo luogo Dante ^intende~ dopo che Virgilio
+gli ha gi@a detto che ivi sono i vili, e nel secondo riconosce il
+Cavalcanti dal modo della pena e da certe parole ch'egli ha
+detto, appunto perch@e sa gi@a che @e in cospetto degli eretici.> 
+-- |Enno~, forma arcaica ^per sono~; cf. ^Par.~, XIII, 97.  -- |I
+peccator carnali, che la ragion~ ecc., ^seguendo come bestie
+l'appetito~ (^Purg.~, XXVI, 84).  Nel ^Conv.~, III, 10: <L'anima
+pi@u (^@e~) passionata, pi@u si unisce alla parte concupiscibile e
+pi@u abbandona la ragione.>  E ivi, II, 8: <Chi dalla ragione si
+parte, e usa pur la parte sensitiva, non vive uomo, ma vive
+bestia.>  Dante, di s@e: <Era di s@i nobilissima virt@u (^l'immagine
+di Beatrice fissa nel suo cuore)~, che nulla volta sofferse che
+Amore mi reggesse senza il fedele consiglio della ragione.>  Si
+avvera cos@i la parola del ^Convito~, III, 3: <Gli uomini hanno
+loro proprio amore alle perfette e oneste cose:> e qualvolta
+l'uomo si parte da tale amore naturale, @e perversione, va contro
+all'ordine, diviene bestia.  E poi: <Per la natura sensitiva, ha
+l'uomo altro amore, per lo quale ama secondo la sensibile
+appetenza, siccome bestia; e questo amore nell'uomo massimamente
+ha mestiere di rettore, per la sua soperchievole operazione nel
+diletto massimamente del gusto e del tatto> (^Conv.~, loc. cit.). 
+-- |Sommettono~: in questo verbo sta tutta la terribilit@a della
+conseguente condanna; tanta @e l'umana libert@a, che l'uomo @e
+sinanco padrone di fare schiavo se stesso; del Diavolo dice S.
+Agostino: ^latrare potest; mordere non potest, nisi volenti~; nel
+|sommettono~ @e tutto l'atto della volont@a pervertita.  Dante nel
+^Canzoniere~, (Parte II, canz., V, st. 2):
+
+               O Dio, qual maraviglia, 
+     Voler cadere in servo di signore!
+     Ovver di vita in morte!
+
+L'Aquinate (^Summ. Th.~, II, 11, 53, 6): ^delectatio, quae est in
+venereis, totam animam absorbet.~  E ivi, 153, 5: ^Per luxuriam
+maxime superiores vires deordinantur, scilicet ratio et
+voluntas.~  La lussuria, pi@u che altro tiranno, pu@o ben dire:
+^stat pro ratione voluntas.~  |I peccatori carnali~ formano la
+prima sezione dei veri dannati, ed hanno minor pena per ci@o che
+il Poeta ne ragiona altrove (^Inf.~, XI, 70 e segg.).  Il
+Tommaseo: <Pi@u fondo @e l'Inferno, pi@u i dolori si condensano, e, 
+come suole della materia condensata, si fanno pi@u forti.  Ma la
+lussuria viene prima, cio@e meno rea della gola e dell'avarizia, e
+cos@i @e, finch@e non s'ammogli, come accade, con altri peccati pi@u
+turpi.>
+
+	|40-45.~  L'Alfieri nota i vv. 44 e 45.  |E come gli
+stornei~ ecc. (|stornei~ da ^stornello~, sull'analisi di
+^fratei~, ^Inf.~, XXXII, 21); la costruz. @e: come l'ali portano
+gli stornelli, cos@i il vento ecc.  |Stornei~ <uccelli lussuriosi, 
+come i gru> nota l'Ottimo.  Gli ^stornelli~ dicono la
+compattezza, il fitto di quella schiera; i ^gru~ {v.46} la
+lunghezza della fila.  Il Lombardi: <Sceglie, al paragone
+dell'irregolare mossa data dal vento a quegli spiriti, il volo
+degli stornelli, perocch@e di fatto @e irregolarissimo.>  -- |Nel
+freddo tempo~, nel tempo invernale.  Nel ^Canzon.~, Parte II, 
+canz. VII, st. 1:
+
+     E per lo tempo caldo e per lo freddo.
+
+Si potrebbe domandare: perch@e il Poeta si di@e premura di notare
+l'^inverno~? se fosse delle ^gru~ {v.46}, di cui ^parler@a~ tosto, 
+lo si capirebbe dal passo del ^Purg.~, XXVI, 43-45, perch@e solo
+in tale stagione fanno le loro trasmigrazioni; ma gli stornelli?
+io non so rispondere.  -- |Fiato~, vento (cf. ^Inf.~, XXXIII, 
+108): anche nel ^Purgatorio~ (XXV, 113) la Cornice de' lussuriosi
+^spira fiato in suso~ e fa pi@u viva la fiamma.  Qui per@o @e
+notabile che a questi |spiriti mali~, che sono lussuriosi, dir@o
+cos@i, semplici, per pena @e data la ^rapina~ {v.32} del vento, 
+mentre a' peccatori carnali contro natura @e dato il fuoco (cf.
+^Inf.~, XV e XVI).  Nel Purgatorio invece (loc. cit.) essendo
+messi tutti nello stesso Cerchio i lussuriosi d'ogni specie, si
+riunisce il doppio tormento, che nell'Inferno @e diviso come i
+peccatori in due Cerchi differenti, cio@e ^vento e fuoco.~  -- |Di
+qua di l@a~ ecc.  Il Venturi osserva, not@o il Casini, come <coi
+suoni rotti di questi avverbi, che l'un l'altro s'incalzano, > sia
+ben dipinto l'effetto della bufera, che avvolge e agita
+miseramente quegli spiriti.  -- |Gli mena~: cf. vv. 32 e 78.  --
+|Nulla speranza~ ecc., perch@e ogni speranza @e in eterno perduta
+(cf. ^Inf.~, III, 9).  -- |Non che diposa~ ecc., perch@e ^la
+bufera mai non resta~ (cf. v. 31), e se per un istante il ^vento
+tacer@a~ (v. 96), non sar@a per loro, n@e in loro vantaggio.
+
+	|46-49.~  L'Alfieri not@o i vv. 46 e 47.  |E come i gru~
+ecc.  La prima similitudine degli stornelli accenna come il Poeta
+vide, cos@i all'indigrosso e in genere tutti insieme gli ^spiriti
+mali~ {v.42} di questo girone; la seconda delle gru risguarda il
+modo con che in lunga riga quelle anime passavan davanti al
+Poeta.  Brunetto Lat. (^Tes.~, V, 27): <Grue sono una generazione
+d'uccelli che vanno a schiera, come i cavalieri che vanno a
+battaglia.>  |Gru~ <sono uccelli molto lussuriosi> nota l'Ottimo. 
+Di queste |gru~ ne dice altrove (^Purg.~, XXIV, 64-66):
+
+     Come gli augei, che vernan lungo il Nilo
+     Alcuna volta in aer fanno schiera, 
+     Poi volan pi@u in fretta e vanno in filo ecc.
+
+E appresso (ivi, XXVI, 43-45):
+
+             come gru, ch'alle montagne Rife
+     Volasser parte, e parte in v#er le arene, 
+     Queste del giel, quelle del sole schife ecc.;
+
+e non deve lasciarsi inosservato che quest'ultima similitudine @e
+proprio tolta per descrivere il differente andare e l'incontrarsi
+delle Anime, che scontano le colpe della lussuria.  -- |Lai~;
+anche delle rondini (^Purg.~, IX, 13): ed @e notabile il ^cantare~
+accoppiato a |lai.~  Osserva il Boccaccio che |lai~ nel francese
+antico indicava una specie di componimento poetico ^in forma di
+lamentazione~; per@o le due volte che Dante usa tal voce nella
+^Commedia~ @e in senso ^di voce dolorosa lamentevole~, di certi
+uccelli; e presso altri scrittori @e riferita al lamentarsi
+dell'uomo.  -- |Facendo in aer~ ecc.; @e pittura, che mena
+l'occhio a lunga, pel suono e per la posizione delle parole.  --
+|Vid'io venir traendo guai~ ecc. ^Inf.~, XIII, 22:
+
+     Io sentia d'ogni parte tragger guai;
+
+e nella ^Vit. N.~, XXIII (nella canz., st. 4):
+
+     Qual lagrimando, e qual traendo guai;
+
+e appresso, XXXII (nella canz., st. 1):
+
+     Conviemmi di parlar, traendo guai.
+
+Il Venturi (^Similit.~ ecc., 433); <La similitudine delle gru si
+congiunge colla precedente.  L@a @e mostrata la folla; qui con
+lamentosi gridi, la schiera in lunga fila, s@i che il Poeta
+discerne l'una dall'altra anima, che gli passa davanti.>  --
+|Ombre portate~ ecc., perch@e @e la ^bufera~ {v.31} che ^porta~
+quelle anime.  -- |Briga~: bufera, procella (cf. ^Par.~, VIII, 
+69).
+
+	|50-51.~  L'Alfieri not@o il v. 51.  -- |Aer nero~ (cf. v.
+89), la bufera in luogo tenebroso.  -- |Si castiga~, ^mette a
+siffatta pena~ (^Inf.~, VI, 47), ^a cos@i fatto tormento~ (v. 37). 
+Se Dante aveva gi@a inteso (v. 37) che quivi erano puniti i
+peccatori carnali, ora desidera di ^saper novelle~ {v.52-53}
+almeno de' principali tra loro: questo modo egli tiene col suo
+Maestro in altri Cerchi: nel Cerchio quarto (VII, 37):
+
+     Maestro mio, or mi dimostra
+     Che gente @e questa:
+
+nel Cerchio sesto (X, 7):
+
+     La gente che per li sepolcri giace, 
+     Potrebbesi veder?
+
+nel terzo girone del settimo Cerchio (XIV, 43 e segg.):
+
+     Io cominciai: Maestro...
+     Chi @e quel grande, che non par che curi
+     L'incendio, e giace dispettoso e torto...?
+
+e gi@a sin dal vestibolo dell'Inferno l'udimmo chiedere (^Inf.~, 
+III, 32-33):
+
+     Maestro, che @e quel ch'io odo?
+     E che gent'@e che par nel duol s@i vinta?
+
+Cf. ^Inf.~, XIX, 31.
+
+	|52-54.  La prima di color~ ecc.  Badino i giovani il
+semplice e pur meditato artifizio con che il Poeta spiana al suo
+lettore la via al grande episodio di Francesca; prima prepara lo
+sfondo con tutto il magistero che valga ad attirare tutta
+l'attenzione sulla scena tremenda insieme e pietosa. 
+Nell'^Eneide~ (VI, 440-476) i morti per amore occupano il quarto
+scompartimento; e sar@a non disutile leggere attentamente quel
+tratto.  -- |Saper novelle~, aver notizia (^Purg.~, VIII, 115, 
+^saper novella~; e nella ^Vit. N.~, XXIII, nella Canzon., st. 4:
+
+                        non sai tu novella?
+     Morta @e la Donna tua, ch'era s@i bella).
+
+-- |Allotta~; voce antiquata (cf. ^Inf.~, XXI, 112), allora.  --
+|Fu~: veggasi il commento all'^Inf.~, I, 67-69.  -- |Imperatrice
+di molte favelle~, imper@o (^Inf.~, XII, 82) sopra molte nazioni:
+qui |favelle~ per ^stirpi, nazioni~, come spesso nella Bibbia:
+(^Apoc.~, XI, 9; ^gentibus et populis et linguis~, e altre sette
+volte, nota il Tommaseo).  Il Petrarca: ^Var#i di lingue~ e ^var#i
+di paese.~  Nel ^Conv.~, I, 6: <Lo Latino non ha conversazione
+con tanti in alcuna lingua:> e il Pederzini approvato dal
+Giuliani, spiega ^nazioni.~  E ivi, I, 3: <per le parti quasi
+tutte, alle quali questa lingua (^italiana~) si stende, 
+peregrino, quasi mendicando, sono andato, > cio@e per l'Italia. 
+^Favella~ per ^nazione~, osserv@o il Cant@u, fu commentato anche
+dai Tedeschi, quando nel 1870 invasero la Francia, cantando la
+nota ode dell'Arndt:
+
+     Was ist des Deutschen Vaterlan?...
+
+e si risponde:
+
+     So weit die deutsche Zunge clingt
+
+(^quale @e la patria del Tedesco~?... ^fin dove la lingua tedesca
+risuona~).
+
+	|55-57.~  L'Alfieri not@o il 55 e 56.  -- |A vizio di
+lussuria fu s@i rotta~, s@i sfrenata, cos@i disciolta, s@i usa a
+lussuria (^Par.~, III 106).  In senso simile, osserva il
+Tommaseo, dissero ^abruptus~ i Latini: e al presente si dice:
+^rotto di costumi, rotto ad ogni malfare.~  E nell'idea di
+rompere c'@e la moralit@a, perch@e ogni mala azione @e un ^rompere~ o
+^guastare le leggi~ (^Purg.~, I, 46 e 76).  -- |Che libito~;
+nell'^Epist.~, V, 2: ^quidquid libet agere~; -- |licito~ (cf.
+^Purg.~, VI, 118; VII, 41; ^Par.~, I, 55): S. Agostino: ^fiunt in
+nobis concupiscentiae malae, quando id quod non licet, libet.~ 
+Dell'et@a dell'oro scrisse il Tasso nell'^Aminta~:
+
+                   O legge aurea, felice, 
+     Che natura scolp@i: S'ei piace, lice.
+
+L'Ottimo: <Ella fu (Semiramide) che le leggi, le quali si fanno
+per rettificare gli atti umani, fece a corruzione de' costumi, 
+per questo sozzissimo peccato (di ^stupro~), nel quale ella era
+convolta.>  Il Postill. Cass.: <^Sua legge~: quia statuit ut
+pater filiae et frater sorori jungerentur jure.  Cum haec lex
+inhonesta juberet abusive dicitur lex.>  -- |Per t#orre il biasmo
+in che era condotta~ per le sue malvage operazioni.  Lattanzio
+(^Epist.~, cap. IX): ^Venus deorum et hominum libidinibus
+exposita cum regnaret in Cypro, artem meretriciam reperit, ac
+mulieribus imperavit ut quaestum facerent ne sola esset infamis.~ 
+Questa terzina contiene un profondo ammaestramento di filosofia
+cristiana e sociale: quando con ^leggi~ fe' |licito~ il |libito~?
+poi che fu |rotta a lussuria~: fece allora un passo avanti: non @e
+che la lussuria che vuole scuotere ogni giogo per quanto sapiente
+e salutare, ^rompere~ le leggi e farne altre anco pervertitrici
+dell'ordine naturale e divino, sconvolgitrici della pace sociale, 
+e creare uno stato secondo i propri fantasmi; e sono i rotti a
+lussuria che ^dominationem spernunt, majestatem autem
+blasphemant~, come scrisse S. Giuda; e i torbidi agitatori
+trionfano quando il mal costume trionfa, e allora i Re ^sono
+bestemmiati.~  Gli @e per questo che un popolo morigerato @e il pi@u
+tranquillo, perch@e il meglio disposto e soggetto alle leggi.
+
+	|58-60.  Ell'@e Semiramis.~  Nella ^Cronachetta
+d'Amaretto~ VIII): <Semiramide reina molto lussuriosa, la quale
+reina ordin@o le prime brache, che si facessero mai al mondo, e
+ordinolle per le femmine.>  Brunetto Lat. (^Tes.~, I, 26): <Il re
+Nino tenne in sua signoria tutta la terra d'Asia e gran parte
+d'India; e quando egli pass@o di questo secolo, egli lasci@o un
+giovane figliuolo, ch'ebbe nome Saratiel; ma fu appellato Nino
+per nome di suo padre; e poich@e fu morto, alla sua madre rimase
+il regno e la signoria.  E essa fu pi@u calda e pi@u fiera che
+nullo uomo, e appresso fu la pi@u crudele femmina del mondo.> 
+Paolo Orosio, autore carissimo a Dante, le cui parole (in
+sentenza riferite anche dal Postill. Cass.), ben avverte lo
+Scartazzini, son qui dal Poeta tradotte quasi letteralmente, 
+scrive (^Hist.~, I, 4): ^Huic~ (^Nino regi Assyriorum~) ^mortuo
+Semiramis uxor successit.  Hae libidine ardens, sanguinem
+sitiens, inter incessabilia stupra et homicidia, quum omnes quos
+regiae arcessitos, meretricis habitu, concubitu oblectasset, 
+occideret; tandem filio flagitiose concepto, impie exposito, 
+incestu cognito, privatam ignominiam publico scelere obtexit. 
+Praecepit enim ut inter parentes ac filios, nulla delata
+reverentia naturae, de coniugiis adpetendis, quod cuique libitum
+esset, licitum fieret.~  Dante nella ^Mon.~, II, 9: ^Ninus
+Assyriorum rex.~.. ^cum consorte thori Semiramide, per nonaginta
+annos et plures, ut Orosius refert, Imperium mundi armis
+tentavit.~  Dunque Semiramide ^sposa di Nino~ e a lui succeduta:
+perci@o non ha ragione di essere la brutta lezione ^sugger dette~, 
+per primo messa innanzi dall'Attavanti, come gi@a bene avvert@i il
+Federici nel 1836, quantunque il Barlow ne accerti che di 131
+codici da lui esaminati, 14 diano la stessa lezione.  La lez.
+|succedette~ @e bellamente per effetto propugnata dal Boccaccio
+(^Amorosa Vis.~, cap. VII):
+
+     Rigido e fiero quivi si sedea
+     Nino...
+     E dopo lui segniva la sua sposa
+     Con sembiante non men del suo ardito.
+     Tanto robusta e cos@i furiosa
+     Vi si mostrava, come quando a lui
+     Succedette nel regno valorosa.
+
+Nel |succedette~ viene anche espresso il carattere forte di
+questa femmina, perch@e |succedette~ a Nino fingendosi il figlio
+Ninia, ci@o che, per le leggi del paese, non poteva avvenire senza
+fingersi uomo.  Il Tommaseo: <Amante del figlio; secondo
+Giustino, morta da lui; bella reticenza.>  Il Postill. Cass.:
+^Semiramis fuit uxor Nini regis Babyloniae mater Nini filii dicti
+Nini et ipsius Semeramis; quae cum multis suis consanguineis
+fornicata est post mortem dicti Nini, et ideo statuit licitum
+quodcumque juvaret.~  -- |Tenne la terra~ ecc.: (cf. ^Inf.~, XIX, 
+102; XXVIII, 86; XXIX, 29), cio@e ^strinse nelle mani il freno del
+governo di quella terra~ ecc. (^Purg.~, XX, 55), che ora @e
+governata dal Soldano.  Qualcuno crede che qui Dante abbia
+scambiato Babilonia sull'Eufrate colla Babilonia sul Nilo, sede
+a' suoi tempi del Soldano d'Egitto.  |Soldano~, nota il Gelli, in
+lingua Caldea significa supremo principe.  -- |Corregge~, 
+governa, amministra; fa rammentare il ^corretto~ del ^Purg.~, VI, 
+95, in egual senso.
+
+	|61-63.~  L'Alfieri not@o il v. 62.  |L'altra~, Didone, 
+moglie di Sicheo, fondatrice e regina di Cartagine, la quale, 
+morto il marito, promise stato vedovile; ma poscia, innamoratasi
+d'Enea, (cf. ^Par.~, VIII, 9), a lui si diede: quindi da Enea
+abbandonata, per disperazione s'uccise (cf. ^Aen.~, I-IV).  --
+|Ruppe fede~, venne meno al gi@a fatto giuramento (cf. ^Inf.~, 
+XIII, 74), per conseguenza
+
+     Noiando ed a Sicheo ed a Creusa
+
+(^Par.~, IX, 98).  -- |Clopatr@as~: <le due dieresi di
+|lussuriosa~ e di |Cleopatr@as~ (forma del genitivo greco), e
+l'accento sull'ultima ritraggono la sozza regina> (Tommaseo). 
+Cleopatra, figlia di Tolomeo Aulete, regina d'Egitto; visse
+dall'anno 69 al 30 a. Cr.  Fu amante di Cesare e d'Antonio; dopo
+la battaglia d'Azio fuggendo per non cader prigioniera di
+Ottaviano, affine di non sottostare allo scorno di essere tratta
+a Roma come ornamento del trionfo, facendosi morsicare il seno da
+un aspide (^Par.~, VI, 76), 
+
+     La morte prese subitana ed atra.
+
+	|64-66.  Elena vedi~: se @e Virgilio che a Dante fa da
+additatore (cf. v. 52 e segg.), |vedi~ e non ^vidi~ @e la vera
+lezione.  Coloro che fanno terminare il discorso di Virgilio col
+v. 63, e persistono a tener la lezione ^vidi~, come fanno a
+spiegare i versi 68 e 70, dove il Poeta ridice che fu appunto
+Virgilio a fargli la recensione di quelle anime?  Soprach@e, lo
+stesso modo occorre altrove, ^Inf.~, XX, 118-123, per somigliante
+rassegna di dannati.  -- |Elena~, moglie di Menelao, il cui ratto
+da parte di Paride figliuolo di Priamo fu cagione della guerra
+troiana: fu poi uccisa da una donna greca per vendetta del marito
+mortole sotto Troia.  Tutti i qui nominati morirono di morte
+violenta.  -- |Reo tempo~, di guerra, con tutte le conseguenti
+disgrazie.  -- |Il grande Achille~: figliuolo di Peleo (^Inf.~, 
+XXXI, 5) e di Teti, da Dante collocata nel Limbo (^Purg.~, XXII, 
+113).  Achille fu dato a educare al centauro Chirone (^Inf.~, 
+XII, 71): scoppiata la guerra de' Greci contra i Troiani, la
+madre per iscongiurare il destino che a Troia il chiamava, lo
+tolse da Chirone e portollo alla corte di Licomede nell'isola di
+Sciro (^Purg.~, IX, 34-40), dove si innamor@o di Deidamia
+figliuola del re.  Se non che l'astuto Ulisse lo scoperse
+(^Inf.~, XXVI, 61), e lo trasse seco a Troia, dove, dopo l'amore
+per Briseide, egli, invitto nell'armi, fu vinto |al fine~
+dall'amor di Polissena figliuola di Priamo (^Inf.~, XXX, 17); ma
+nel momento che stava inginocchiato dinanzi all'ara per
+isposarla, Paride, fratello di lei, lo fer@i con una freccia nel
+tallone, unica parte vulnerabile in lui, e l'uccise.  Dice la
+favola, che Peleo ed Achille avevano una lancia, le cui ferite
+non si guarivano se non con la ruggine raschiata dalla lancia
+medesima (^Inf.~, XXXI, 4-6).  Delle geste di Achille, Stazio
+aveva posto mano a scrivere un poema epico, che, prevenuto dalla
+morte, lasci@o incompiuto (^Purg.~, XXI, 91).  -- |Il grande
+Achille~: altrove il ^gran Chirone~ (^Inf.~, XII, 71).
+
+	|67-69.~  L'Alfieri, in un colle parole |pi@u di mille~, 
+trascrisse i due ultimi versi.  -- |Paris~: in questo |Paris~ gli
+antichi chiosatori veggono concordi Paride o Alessandro, 
+figliuolo di Priamo e d'Ecuba, il famoso rapitore di Elena test@e
+ricordata, che pur dal Petrarca @e detto latinamente |Paris.~ 
+Alcuni moderni (il Volpi, il Tommaseo, il Bianchi, il Fraticelli)
+intendono Paris, cavaliere errante della tavola Rotonda e amante
+di Vienna.  Alla prima spiegazione per alcuni sembra fare intoppo
+il gran salto da Paride a Tristano; ma non vengono poscia tra
+tanti antichi Paolo e Francesca?  Contro alla seconda sta una
+considerazione assai pi@u grave, che non fu amore cagione della
+morte di Paris cavaliere errante, come di tutti i qui nominati
+(cf. v. 69); mentre di Paride si sa che l'amor suo per Elena lo
+trasse finalmente a morire per mano di Pirro.  Io dunque accetto
+il commento antico.  Anche il Blanc rigetta la spiegazione di
+coloro che spiegano |Paris~, il cavaliere errante; per@o parmi che
+erri assai quando dichiara che |Paris~ @e ^un cavaliere oscuro, 
+trovato dal Volpi~, sapendosi quanto popolare in Italia nel medio
+evo la leggenda di ^Paris e Vienna.~  -- |Tristano~: il
+Boccaccio: <Tristano, secondo i romanzi di Francia, fu figliuolo
+del re Meliadus, e nepote del re Marco di Cornovaglia: e fu, 
+secondo i detti romanzi, pro' uomo della persona e valoroso
+cavaliere; e d'amore men che onesto am@o la reina Isotta, moglie
+del re Marco suo zio, per la qual cosa fu fedito dal re Marco
+d'un dardo avvelenato.  Laonde vedendosi morire, ed essendo la
+reina andata a visitarlo, l'abbracci@o, e con tanta forza la si
+strinse al petto, che a lei e a lui scoppi@o il cuore, e cos@i
+insieme morirono, e poi furono similmente seppelliti insieme.  Fu
+costui al tempo del re Art@u.>  Altri fa Isotta morta alquanti
+mesi dopo l'amante.  Il Tommaseo: <Dante congiunge la mitologia
+col romanzo cavalleresco, ch'erano, dopo la Bibbia, le due fonti
+poetiche dov'egli attinse.>  Paris e Tristano, e i cavalieri
+erranti, bene not@o il Ferri-Mancini, appartengono ad un ciclo
+epico ben differente da quello di Carlo Magno e d'Orlando; e
+Dante sel sapeva, e d@a, con tocchi magistrali, il carattere
+differente de' due cicli, nel fatto che altrove colloca Carlo M.
+e Orlando in Paradiso, e ^santa gesta~ chiama la loro impresa;
+mentre qui pone Paris e Tristano tra coloro che la ^ragion
+sommettono al talento~ {v.39}.  Anche le Canzoni sul primo ciclo
+sono austere, animate da spirito religioso, senza quasi
+intervento di donne con un maraviglioso che scende dal Cielo, e
+sono Angeli, Santi e miracoli; laddove nel ciclo d'Art@u sono
+amori e romanzesche avventure, e maghi e incanti, che d@anno
+materia ad un racconto spesso licenzioso con esempi di seduzioni, 
+d'inganni e di convegni furtivi.  Tale doppio carattere @e
+manifesto anche nella ^Gerusalemme liberata.~  -- |E pi@u di
+mille~ ecc.  |Mille~, un numero tragrande.  S. Gregorio M.
+(^Mor.~, IX, 2): ^In scriptura sancta millenarius numerus pro
+universitate solet intelligi.~  Nel ^Conv.~, II, 15: <Mille @e il
+maggior numero, e pi@u crescere non si pu@o se non questo
+moltiplicando.>  E ben s'avvis@o il Perticari che appunto per
+questa ragione i nostri scrittori abbiano adoperata la voce
+|mille~ per significare un numero infinito (cf. ^Inf.~, VIII, 82;
+XII, 71: ^Purg.~, XIX, 29; XXVI, 78; ^Par.~, XXIX, 134-135).  --
+|Mostrommi a dito~, additandole colla mano (cf. commento, ^Inf.~, 
+X, 129).  -- |E nominolle~, facendomi d'ognuna il nome.  --
+|Ch'amor~ ecc., che amore tolse, divise, trasse fuori della vita
+presente.  -- |Dipartille~: cf. ^Inf.~, I, 111; ^Purg.~, IX, 39.
+
+	|70-75.~  L'Alfieri not@o l'ultimo verso.  |Poscia ch'io~
+ecc.  Dunque chi fece la recensione di quelle Anime fu Virgilio;
+dunque si rafferma la lez. ^vedi~ {v.67} e non ^vidi.~  --
+|Nomar~, dire per nome (cf. ^Inf.~, XXX, 101).  -- |Piet@a mi
+vinse~ (cf. v. 117): gran dolore mi prese al cuore (cf. ^Inf.~, 
+VIII, 60) quando lo intesi ecc.  Cf. ^Inf.~, III, 135; VII, 116;
+XXXII, 51; ^Purg.~, V, 127.  -- |Le donne antiche~ ecc.  Dante
+per ischiatte e famiglie usa la voce ^antico~ pur trattandosi di
+antenati morti da non molto tempo, forse avuto rispetto che son
+corte le vite nelle succedentisi generazioni (cf. ^Purg.~, VIII, 
+119; XXII, 97); per@o trattandosi di avvenimenti, di accenni
+storici, mitologici o morali, alla voce d@a senso ben pi@u ampio
+(cf. ^Inf.~, I, 116; XXIX, 62; XXX, 37; ^Purg.~, VI, 140; ^Par.~, 
+VIII, 6).  Perci@o dicendo qui le |donne antiche~ (e tutte invero
+le qui nominate appartengono agli antichi tempi), si potrebbe
+anche supporre che il Poeta non abbia inteso riferir tal voce ai
+|cavalieri~, perch@e Tristano almeno era di data pi@u recente.  --
+|Fui quasi smarrito~, quasi venni meno (v. 141, e X, 125).  Il
+Tommaseo: <Il verso |Piet@a mi vinse e fui quasi smarrito~, mi
+suona dei pi@u belli del canto, perch@e @e confessione e giudizio
+de' falli suoi propri.>  Che Dante di colpe amorose fosse scevro, 
+non dico; ma questo sentimento mi @e troppo pi@u bello farlo
+scaturire in lui non altro che da |piet@a~ verso quegli
+sventurati.  -- |Volentier parlerei~ ecc. (cf. ^Purg.~, IV, 85). 
+-- |Al vento~, alla bufera (v. 31); portati dalla bufera (non
+direi ^innanzi al vento~ o alla ^bufera~ {v.31}, perch@e da essa
+anzi ^portati~ o ^menati~, v. 32) sembrano pi@u leggieri, pi@u
+volanti delle altre ombre.  |Leggieri~, chiosa il Tommaseo, pi@u
+forte menati, perch@e pi@u rei; e anche perch@e pi@u volonterosi a
+correre insieme.  Ma lo Scartazzini, non approvando, risponde:
+<Meglio: non avendo questi due cercato di resistere all'impeto
+della passione non sono essi in istato di opporre alcuna
+resistenza all'impeto del vento>: sar@a; ma chi poi ha detto al
+chiosatore che gli altri dannati abbiano resistito all'impeto
+della passione, e che oppongano resistenza all'impeto del vento? 
+Io credo invece che tal pennellata desse l'Autore non per altro
+che per meglio distaccare l'attenzione del lettore dagli altri
+dannati, e tutta raccoglierla e quasi infiammarla al gran quadro
+che ora gli sta mettendo d'innanzi.
+
+	|76-78.  Li prega per quell'amor che i mena~: il |vento~ 
+{v.75} la ^bufera~ {v.31} che |mena~ gli spiriti, qui @e fatta
+sinonimo dell'|amore~; infatti quella era per questo.  |I mena~;
+|i~ per ^li~, ^Inf.~, VII, 53; XVIII, 18; ^Purg.~, XXIV, 125;
+^Par.~, XII, 26.  Terribile e pur vivace espressione, pregare e
+ottenere per ci@o che fu ed @e perpetua cagione di tanta ruina!  Il
+Magalotti: <Efficacissima preghiera e convenientissima a due
+amanti, scongiurarli per lo scambievole amore.>  E la ragione @e
+tutta nelle parole dell'Aquinate (^Summ. Th.~, II, II, 13, 4), 
+che i dannati ^diligunt ea pro quibus puniuntur, et vellent eis
+uti, si possent~: il che dal Poeta @e qui confermato, e ancora in
+appresso (cf. v. 105).  Come nelle anime pentite e ravvedute la
+memoria dei falli commessi @e amarissima, e desta ribrezzo, ed @e
+cagione di nuovo pentimento ed abborrimento al male (^Purg.~, 
+XXXI, 84 e segg.); cos@i nei dannati tal memoria persevera con
+rinnovato desiderio del male, quasi parte del castigo di Dio, che
+non possano non amar quel male, che fu causa della loro
+dannazione; cos@i l'odio di Capaneo verso Dio @e sua debita pena
+(^Inf.~, XIV, 65-66).  Sull'episodio di Paolo e Francesca cos@i, 
+tra altro, scrisse il De Sanctis: <Di questa tragedia sviluppata
+nei suoi lineamenti sostanziali e pregna di silenzii e di
+misteri, Musa @e la piet@a, pura di ogni altro sentimento, corda
+unica e onnipotente, che fa vibrare l'anima fino al deliquio.  E
+la Musa @e Dante, che d@a principio al Canto gi@a commosso; che usa
+le immagini pi@u delicate, quasi apparecchio alla scena; che al
+nome delle donne antiche e dei cavalieri rimane vinto da piet@a e
+quasi smarrito; che si sente gi@a impressionato alla sola vista di
+que' due che insieme vanno; che a renderne la figura trova un
+paragone cos@i delicato e pieno di immagini tanto gentili; che
+alle prime parole di Francesca rimane assorto in una fantasia
+piena di dolore e di dolcezza, e tardi si riscuote ed ha le
+lacrime negli occhi; e che nella fine cade come corpo morto, e
+non @e la donna che parla, @e l'uomo che piange che fa su lui
+l'ultima impressione...  Tutta questa concezione @e cos@i viva e
+costante innanzi all'immaginazione, che non trovi qui la pi@u
+lieve dissonanza e il menomo indizio di raffreddamento.  Virgilio
+@e di troppo in questa trilogia e scomparisce, non fa atto alcuno
+di presenza.  Tutta la composizione sembra tirata d'un fiato e in
+una sola volta; tanta @e l'armonia e la perfezione tecnica nei pi@u
+piccoli particolari.  Lo stesso verso ubbidisce alla possente
+volont@a e risponde con la morbidezza musicale de' suoni alle pi@u
+delicate intenzioni del Poeta.>  -- |E quei verranno~: come
+Virgilio potesse sapere che a quella chiamata sarebbero venuti, 
+cf. ^Inf.~, VIII, 57.
+
+	|79-81.  S@i tosto come~ (cf. ^Purg.~, XXV, 68; ^Par.~, 
+XXVIII, 134), non appena, e dimostra il vivo desiderio di parlare
+a quegli spiriti.  -- |A noi~; verso noi (cf. ^Purg.~, XII, 88). 
+-- |Li piega~, li fa appressare, seguendo il giro del vortice. 
+-- |Mossi la voce~; dissi.  Cos@i, in quasi somigliante maniera, 
+altrove (^Inf.~, XXVI, 76-78):
+
+     Poich@e la fiamma fu venuta quivi, 
+     Ove parve al mio Duca tempo e loco, 
+     In questa forma lui parlare audivi.
+
+-- |O anime affannate~; grido affettuoso (v. 87), e di tanto
+colore e sentimento d'affetto (^s@i forte~), che subito s'insinua
+nell'anima della donna affettuosissima, cos@i che subito ella si
+professa a Dante obbligata.  Virgilio consigli@o l'Allighieri a
+pregare que' due ^per quell'amor che i mena~ {v.78}; e Dante
+prega colle parole |o anime affannate~; e bene, perch@e
+^l'affanno~ era conseguente ^all'amore~ {v.78}; anzi qui ^amore~
+(vv. 103-105) e ^dolore~ si identificano.  -- |Venite a noi
+parlar~, ^venite a parlare a noi~ (cf. ^Purg.~, VIII, 38; XI, 51;
+XXXI, 136; ^Par.~, IV, 122).  -- |S'altri nol niega~, non lo
+vieta (cf. ^Inf.~, VIII, 101 e 120).  Altro modo per indicar
+forza superiore e indeterminata, ^Inf.~, XXVI, 141.
+
+	|82-84.~  Terzina trascritta dall'Alfieri.  -- |Quali
+colombe~ ecc.  Cf. ^Inf.~, VI, 28-31.  Delle colombe Virgilio
+(^Aen.~, v. 213):
+
+     Qualis spelunca subito commota columba, 
+     Cui domus et dulces latebroso in pumice nidi, 
+     Fertur in arva volans, plausumque exterrita pennis
+     Dat tecto ingentem; mox a, ere lapsa quieto, 
+     Radit iter liquidum, celeres nec commovet alas.
+
+-- |Dal disio chiamate~: il Giuliani: <^Desio~, come talora
+^desiderium~ presso gli scrittori latini, significa l'^oggetto
+desiderato.~>  Cos@i @e potente la similitudine che dall'augello, 
+tutto innamorato dal desiderio di vedere gli ^aspetti desiati de'
+suoi dolci nati~, trae fuori il Poeta (^Par.~, XXIII, 1-9; e cf.
+ivi; XIX, 91-93).  Il Tommaseo: <|chiamate~, indica la prima
+mossa; |portate~ la tendenza amorosa del volo; |con l'ali ferme~, 
+ch@e cos@i gli uccelli volano d'alto in basso.>  -- |Ali ferme~, 
+senza dibatterle.  In luogo di |aperte~, molti codici e stampe
+hanno ^alzate.~  -- |Dal voler~, dal desiderio de' loro nati, 
+spiegano i pi@u; ma hanno |volere~ gli animali bruti? il nostro
+autore nella ^Vulg. El.~, I, 2: ^inferiora animalia~ (i bruti)
+^solo naturae instinctu moventur~; e ivi, 3: ^homo non naturae
+instinctu, sed ratione movetur.~  E per tutto questo fa mestieri
+mettere punto e virgola dopo |aer~, e la frase |dal voler~ ecc., 
+riferirla ai due dannati; ma so bene che a molti non piace.
+
+	|85-87.~  Da quanto si rileva ai vv. 41 e 67, |schiera~
+ha qui un significato di grande ^moltitudine.~  Al Canto II, 105, 
+tenendo conto che ^infinito~ @e il numero degli stolti, |schiera~
+ha pur quivi il senso di ^moltitudine grande.~  -- |Dido~ (anche
+in prosa, ^Conv.~, IV, 26; come ^sermo~, ^Inf.~, XIII, 138, e
+^Par.~, XXI, 112; ^Scipio~, ^Par.~, XXVII, 61; ^Varro~, ^Purg.~, 
+XXII, 98; ^Curio~, ^Inf.~, XXVIII, 102; ^erro~, errore, ^Inf.~, 
+XXXIV, 102): Didone; la rinomina o perch@e una delle pi@u
+sventurate, o perch@e gli amori e la morte di lei erano i pi@u
+celebri, merc@e il poema di Virgilio.  La |schiera~, ov'era
+Didone, pare formata da quei che peccarono in cose d'amore non
+per brutale sensualit@a, come fu Semiramide e Cleopatra, ma per un
+impeto di violenta passione, onde la nobilt@a dell'animo non fu
+del tutto corrotta.  Chi legge attentamente l'^Eneide~ (VI, 
+442-451), non tarder@a ad accorgersi che ebbe ragione il Tommaseo
+quando afferm@o che que' versi ispirarono a Dante l'idea di questo
+Cerchio.  -- |Aer maligno~: anche Virgilio ^sub luce maligna~
+(^Aen.~, VI, 270).  -- |S@i forte~, cos@i potente all'anima di
+quegli sciagurati.  -- |Affettuoso grido~: cf. vv. 80-81.  E
+tanta la perversione della loro volont@a nel male, che bench@e per
+esso soffrano tal fatta d'inferno, tuttavia per la memoria di
+quel loro peccato ubbidiscono al grido di Dante: cos@i altrove
+Ugolino s'induce a narrare la propria storia, perch@e il Poeta gli
+promise d'infamare il suo nemico; amor perverso, odio, vendetta, 
+tutto ci@o ch'@e inferno vero domina i dannati.
+
+	|88-90.~  L'Alfieri nota i due ultimi.  |O animal~
+(^terreni animali~; ^Par.~, XIX, 85): il Tommaseo cita qui le
+parole di S. Tommaso: ^Nell'uomo @e la natura sensibile, dalla
+quale egli @e detto animale, e la ragionevole, dalla quale uomo.~ 
+-- |Grazioso~: nel ^Conv.~, IV, 25: "In questa et@a
+(^nell'adolescenza~) comincia l'uomo a essere |grazioso.~..  La
+qual grazia s'acquista per ^soavi reggimenti~ che sono ^dolce e
+cortesemente parlare, dolce e cortesemente servire e operare.~" 
+Scrive il Giuliani: "Dobbiamo osservare che quello dei due
+consorti, che viene introdotto a rispondere @e la donna, come di
+cuore pi@u gentile e meglio perci@o adatta a far sentire la verit@a
+della tanto lacrimevole narrazione.  Ella peraltro... parla in
+nome di tutti e due."  -- |Aer perso~ (cf. v. 51): nel ^Conv.~, 
+IV, 20: "Il |perso~ dal nero discende...  Il |perso~ @e un colore
+misto di purpureo e di nero, ma vince il nero, e da lui si
+denomina."  Dopo ci@o chi attenda bene, si persuader@a che per Dante
+|perso~ vale quanto ^nero~ (cf. v. 51), e cos@i perso, ^grigio~ e
+^bigio~ (^Inf.~, VII, 103, 104).  Nel ^Canzoniere~ (parte II, 
+canz. 6):
+
+               il mondo versi
+     I bianchi fiori in persi.
+
+-- |Sanguigno~; qui @e sost. per ^sangue~, o ^colore rosso~; come
+altrove (^Inf.~, X, 86) ^rosso~ per ^sangue.~  Di ^colore
+sanguigno~ era vestita Beatrice la prima volta che Dante la vide
+(^Vit. N.~, II).  -- |Tignemmo il mondo di sanguigno~, fummo
+ammazzati.
+
+	|91-93.  Se fosse amico~ ecc.  E |amico~ non poteva
+essere, perch@e Dio @e ^l'avversario d'ogni male~ (^Inf.~, II, 16);
+onde la sua giustizia doveva ^frugar~ que' miseri (^Purg.~, III, 
+3).  -- |Re dell'universo~, Dio, ^dispensatore dell'universo~
+(^Conv.~, I, 3), ^universi Princeps, qui Deus est~ (^Mon.~, I, 9;
+cf. III, 14); onde @e ^omnium spiritualium et temporalium
+gubernator~ (^Mon.~, III, 15).  -- |Pregheremmo.~.. |per la tua
+pace~; un'anima del ^Purgatorio~ (XXI, 13) dice ai due Poeti:
+^frati miei, Dio vi dea pace.~  Il De Sanctis: "Questa preghiera
+condizionata, che dal fondo dell'inferno manda a Dio un'anima
+condannata, @e uno de' sentimenti pi@u fini e delicati e gentili
+c@olto dal vero.  Non c'@e la preghiera; ma c'@e l'intenzione; ci @e
+terra ed inferno mescolati nell'animo di Francesca; una
+intenzione pia con linguaggio ed abitudine di persona ancor viva, 
+ma che non giunge ad essere preghiera perch@e accompagnata con la
+coscienza dello stato presente."  -- |Piet@a~ (cf. ^Inf.~, IV, 
+21).  Dante scrive (^Conv.~, II, 11): "Non @e piet@a quella che
+crede la volgare gente, cio@e ^dolersi dell'altrui male~; anzi @e
+questo un suo speziale effetto, che si chiama ^misericordia~ ed @e
+passione.  Ma ^pietade~ non @e passione, anzi @e una nobile
+disposizione d'animo, apparecchiata di ricevere ^amore, 
+misericordia~, e altre caritative passioni.>  -- E il Giuliani
+commenta: "Questo serve a dichiarare in pi@u sicura maniera quel
+notabile passo dell'^Inf.~, XX, 28."  Sta bene, ma la definizione
+del ^Convito~ fa proprio alle pugna colla |piet@a~ toccata da
+Francesca, perch@e qui tal voce @e usata nel senso, onde l'usa e
+l'intende la ^gente volgare~; onde Dante si stacca manifestamente
+da ci@o che aveva definito.  N@e anco si sa capire perch@e Virgilio
+non rivolga qui all'alunno per la sua |piet@a~ quel grave
+rimprovero, che altrove gli muove per simile ^compassione~
+(^Inf.~, XX, 27-30).  -- |Mal perverso~, amaro, orribile.
+
+	|94-96.~  Dante aveva detto ai due amanti:
+
+     ^Venite a noi parlar, s'altri nol niega~;
+     {v.81}
+
+e qui per l'appunto risponde Francesca: |di quel che udire e che
+parlar vi piace~ (^ti piace~ altre edizioni; ^ti piace~; perch@e
+"Francesca rivolge le sue parole a Dante solo, " scrive lo
+Scartazzini; ma come, se tosto soggiunge |parleremo a vui~?). 
+Qualcuno legge: ^Di' quel ch'udire e che parlar ti piace~: ad
+ogni modo la costruzione @e: ^noi udiremo ci@o che a te piacer@a di
+parlare; e parleremo a voi ci@o che vi piacer@a di udire.~  --
+|Parleremo~: parler@a ella soltanto, ma sapendo che pari ai suoi
+erano i sentimenti del compagno, parler@a per tutti e due.  --
+|Vui~, voi, dagli antichi usato pure in prosa.  -- |Mentre che il
+vento~ ecc. (cf. v. 75); parrebbe contradditorio al ^mai non
+resta~ del v. 31; ma qui si deve pensare che Dio, quando
+dall'uomo vuole un fine, d@a i mezzi necessari; e siccome Dante
+doveva trar profitto per s@e e pe' suoi lettori dal colloquio di
+Francesca, per divina disposizione il vento, pur continuando per
+le altre anime, momentaneamente |si tace~ (del vento si dice che
+^urla, rugghia, fischia~), sta queto, si ferma, sospende la sua
+^rapina~ {v.32} per i due cognati, senza di che il Poeta non
+avrebbe potuto indi trarne verun insegnamento; ma ci@o non vuol
+dire che se per loro cessava il vento, cessasse anche la pena. 
+Della contraddizione che ad alcuni qui pareva di scorgere, che
+pel Tommaseo ^non~ @e ^morale~, ma ^letteraria~, mi sono ingegnato
+di chiarire altrove la cosa: cf. ^Dizionario Dantesco~, artic.
+Vento, n. 111.  E giova rammentare, che come per tutto il Poema, 
+cos@i per ogni singola parte, e per ci@o per l'istesso episodio di
+Francesca, valgono le testuali parole dell'Autore altrove
+riferite: finis ^totius et partis est removere viventes in hac
+vita de statu miseriae, et perducere ad statum felicitatis~
+(^Epist.~, X, XV).  Fu giustamente notato che gli antichi
+chiosatori, poco dal pi@u al meno, narran tutti il fatto di
+Francesca, in sostanza, colle medesime circostanze: chi meglio
+illumina l'episodio dantesco parmi l'Anonimo Fiorentino, allegato
+dallo Scartazzini e dal Casini; cos@i scrive: "Gran tempo fu
+guerra tra messer Guido da Polenta et messer Malatesta vecchio da
+Rimino.  Ora, perch@e era rincresciuta all'una parte et all'altra, 
+di comune concordia feciono pace, et acci@o che meglio si
+osservasse, feciono parentado insieme...  Madonna Francesca, 
+figliuola di messer Guido, fu maritata a Gianciotto di messer
+Malatesta, et come ch'egli fosse savio, fu rustico uomo, et
+madonna Francesca bellissima...  Messer Guido, che aveva pi@u caro
+il senno che la bellezza, volle pure che il parentado andasse
+innanzi: et come ch'elli si ordinasse, acci@o che la buona donna
+non rifiutasse il marito, fece venire Polo a sposarla per
+Gianciotto suo fratello; et cos@i credendosi avere Polo per
+marito, ebbe Gianciotto...  Ella il vide (^Paolo~) bello; posegli
+amore, e contentossene.  Et essendo ita a marito, et trovandosi
+la sera a lato Gianciotto et non Polo, come ella credea, fu male
+contenta.  Vide ch'ella era stata ingannata; non lev@o l'amore
+ch'ella aveva posto a Polo, ma crebbe continuamente: onde Polo, 
+veggendosi amare a costei, come che prima ripugnasse, inchinossi
+agevolmente ad amare lei.  Avvenne che in questo tempo ch'egli
+s'amavano insieme, Gianciotto and@o fuori in signoria, di che a
+costoro crebbe speranza per la sua partita; et cos@i crebbe amore
+tanto che segretamente essendo nella camera, et leggendo un libro
+di Lancillotto, com'egli innamor@o della reina Ginevra, et come...
+veggendola ridere prese sicurt@a e basciolla; questi, dice, 
+leggendo et venendo a questo punto si guardorono nel viso et
+scolororonsi... et nell'ultimo posono in pace i loro desii.  Et
+pi@u volte in diversi tempi facendo il simigliante, uno famiglio
+di Gianciotto se n'avvide: scrisselo a Gianciotto; di che, per
+questa cagione tornato Gianciotto, et avuta un giorno la posta, 
+gli sopraggiunse nella camera che rispondea di sotto; et troppo
+bene (Polo) si sarebbe partito, se non che una maglia del coretto
+ch'egli aveva in dosso, s'appicc@o ad una punta d'aguto della
+cateratta, et rimase cos@i appiccato.  Gianciotto gli corse
+addosso con uno spuntone: la donna entr@o nel mezzo; di che, 
+menando, credendo dare a lui, diede alla moglie et uccisela; et
+poi uccise ivi medesimamente Polo dove era appiccato."  Cf. vv.
+106-108.  Quando avvenisse il s@i lugubre fatto non dicono gli
+antichi; c'@e piena discordia tra moderni; pel Balbo, nel 1289;
+per Teofilo Betti, nel 1288; secondo le ultime ricerche del
+Tonini, nel 1276.  Ma ci@o che importa avvertire, si @e che non
+bisogna credere, come fu scritto da alcuni (e tra questi, parmi, 
+anche dal Foscolo), che Francesca fosse figlia di Guido, detto il
+Novello, l'amico e il creduto ospite di Dante, sibbene figliuola
+di Guido il vecchio, e perci@o sorella di Guido Novello.  Ma per
+questa e per altre osservazioni io prego il lettore di volgere
+un'occhiata all'articolo Francesca nel mio ^Dizionario Dantesco.~ 
+Ridico solo che questo episodio @e di quel genere di lavori
+d'arte, ai quali intendere fa duopo di sentimento e non di
+chiose; e chi non @e nato agli affetti vivi, pu@o leggere anche
+tutti i commentatori del mondo, ma non capir@a nulla di ci@o che
+pi@u rileva.
+
+	|97-99.~  L'Alfieri not@o questa terzina.  |Siede la
+terra~ ecc.  @E Ravenna.  |Siede~: "il suolo, dove Roma siede"
+(^Conv.~, IV, 5): nel ^Par.~, IX, 92: "Buggea siede":
+nell'^Inf.~, XX, 70, ^siede Peschiera~: cos@i, in luogo di ^si @e~, 
+molti leggono ^si @e~ per |siede~ nell'^Inf.~, XXVII, 53.  --
+|Nata fui~, latinismo, ^nacqui~: cf. ^Inf.~, XXII, 48; e ivi, 
+XXIII, 94, il Poeta di s@e:
+
+                       io fui nato e cresciuto
+     Sovra il bel fiume d'Arno alla gran villa
+
+che @e precisamente la parola del ^Convito~ (I, 3): "nel quale
+(^dolcissimo seno di Firenze~) ^nato~ e nudrito ^fui~".  Cf.
+^Par.~, VIII, 146.  -- |Sulla marina~ ecc., alle sponde
+dell'Adriatico, o ^sul lito Adriano~ (^Par.~, XXI, 123), ch@e
+Ravenna dal mare dista tre miglia, e un tempo v'era affatto
+vicina: cos@i ^sopra il bel fiume~ udimmo test@e; e altrove ^sopra
+Senna~, ^Par.~, XIX, 118.  Non intenderei ^sulla foce del Po~
+(cf. ^Purg.~, V, 124), essendo Ravenna dalla foce del Po lontana
+delle buone miglia; ma @e da intendere su quella marina, su quel
+lido dell'Adriatico dove ecc.  -- |Discende~; ^mettendo c@o~
+(^Inf.~, XX, 75) o ^labendo dalle rocce~ dell'Alpi (^Par.~, VI, 
+41), e percorrendo tutta la vallata, 
+
+     Che da Vercello a Marcab@o dichina
+     (^Inf.~, XXVIII, 75), 
+
+^sgorga in mare~ (^Par.~, VIII, 65).  -- |Per aver pace~ ecc.  Il
+^fiume~ risveglia nell'esulante l'idea dell'umano esilio, e il
+^mare~ l'idea di pace e riposo raggiunto: Dio @e quel ^Mare al
+qual tutto si muove~, e il fare la sua volont@a @e quanto trovar la
+^pace~ (^Par.~, III, 86).  -- |Seguaci~, i suoi influenti;
+Virgilio, ^Georg.~, I, 106; ^fluvium rivosque sequentes.~
+
+	|100-102.~  Furon trascritti dall'Alfieri.  Per quello
+che in parte m'accadde di dire al v. 76, qui @e chiaro il
+confronto tra i dannati e le anime del Purgatorio; queste nel
+fuoco cocentissimo, narrano al Poeta i lor falli amorosi, ma la
+narrazione palesa l'abborrimento, e ridesta in loro
+soddisfattorio rossore, che @e parte di penitenza, ^rimproverando
+a s@e~, senza ricercar cagioni, senza scuse, senza odio e vendetta
+(^Purg.~, XXVI, 80 e segg.);
+
+     Ed aiutan l'arsura vergognando;
+
+ma nel racconto di Francesca, per quanto tinto di piet@a, la
+vendetta e l'ira son palesi, come si palesa manifestamente, da un
+cotal fuoco della narrazione, che @e vera la sentenza
+dell'Aquinate, che i dannati ^diligunt ea, pro quibus puniuntur, 
+et vellent eis uti, si possent~ (^Summ. Th.~, II, II, 13, 4.)  --
+|Amor~: notabile l'incominciare tre terzine colla stessa voce
+|amore.~  ^Vit. N.~, XX:
+
+     Amore e cor gentil sono una cosa
+
+(e deesi legger il sonetto per intiero), dove l'Allighieri si
+richiama a questi versi d'una Canzone del Giunicelli:
+
+     Al cor gentil ripara sempre Amore
+     Siccome augello in fronda alla verdura;
+     Non f@e Amore anzi che gentil core, 
+     N@e gentil core, anzi che amor, Natura...
+     E prende Amore in gentilezza loco, 
+     Cos@i propriamente
+     Come colore in chiarit@a di loco...
+     Fuoco d'Amore a gentil cor s'apprende.
+
+E Cecco d'Ascoli nel poema sulla Fisica e Storia Naturale: ^Amore
+e passion di cor gentile.~  Il Boccaccio qui intende |gentile~
+per ^cuor dolce~ e naturalmente disposto ad amare; potendo questa
+facilit@a d'intenerirsi trovare qualche discolpa del grave fallo. 
+E come nasca amore in noi, Dante altrove ricerca ed espone
+filosoficamente (^Purg.~, XVIII, 19 e segg.).  -- |Ratto
+s'apprende~, con prestezza, quasi furtivamente, nei suoi primi
+assalti; per@o il Poeta ne dichiara che "non subitamente nasce
+amore e fassi grande e viene perfetto, ma vuole alcun tempo e
+nutrimento di ^pensieri~" (^Conv.~, II, 2); il che Dante conferma
+pi@u avanti colle parole ^quanti dolci pensier, quanto desio~ ecc.
+(v. 113); dal che si dovrebbe anche conchiudere, che l'amor de'
+due cognati a divenir grande e a condurli al mal passo, richiese
+del tempo (cf. commento al ^Purg.~, XVIII, 31-33).  Delle cause
+poi che generano l'|amore~ e l'accrescono, l'Allighieri discorre
+nel ^Conv.~, I, 12; e prima di tutte pone la ^prossimit@a~, cio@e
+la vicinanza delle persone; cosa rilevante al caso presente.  Qui
+@e da leggersi tutta l'Epistola, da alcuni creduta apocrifa, a
+Moroello, che @e la III nell'edizione del Giuliani.  -- |Prese~, 
+accese, invagh@i (cf. vv. 103 e 128); e cos@i ^l'animo preso entr@o
+in desire~ (^Purg.~, XVIII, 31); -- |della bella persona~, del
+bel corpo; cos@i di Beatrice (^Vit. N.~, XXXII):
+
+     Partissi della sua bella persona
+     Piena di grazia l'anima gentile.
+
+-- |E il modo ancor m'offende~; il modo con che mi fu tolta, 
+poich@e la morte violenta la colse nell'atto del peccato, s@i che
+non ebbe tempo a pentirsi; cos@i, in generale, i chiosatori.  Il
+Giuliani: "Al Poeta sembrano ambedue (queste ^anime~) ^offese~, 
+pi@u che dal loro martirio, dal tenace pensiero della rea fama
+lasciata e diffusa nel mondo."  Il Foscolo intende il |mi fu
+tolta~ riferirsi alla frode usata perch@e Francesca diventasse
+moglie di Gianciotto; e questa (ripeto quanto dissi altra volta, 
+cf. ^Diz. Dant.~, artic. Francesca) @e circostanza capitale a
+scusa della misera donna; non sarebbe stata troppo pi@u rea, o
+certo men degna ^di piet@a~ se a divenir moglie di Gianciotto
+avesse dato il suo libero e pieno consenso?  E questa circostanza
+affermata dal Boccaccio e da altri antichi chiosatori, doveva il
+Poeta trascurarla ad accattare a Francesca scusa e
+commiserazione? e se non @e inchiusa in queste parole, dove la si
+trova in tutto l'episodio?  Ma v'ha di pi@u; infatti, se la frase
+|mi fu tolta~, si spiega fui ^uccisa~, @e l'altra il |modo ancor
+m'offende~, si deve intendere per la ^mala fama~ lasciata nel
+mondo, o che altro; vi par egli che Francesca avesse proprio
+tutto il diritto di querelarsi? e non pare ch'ella qui cerchi di
+attenuare il suo fallo, col mettere in chiaro che a Paolo ella
+intese di dare la |bella persona~, che altri poi ^le tolse~ con
+frode?  Per@o altra spiegazione, pi@u sottile, d@a il Bartoli
+(^Stor. Lett. It.~, vol. VI, P. II, cap. 1), che quanto @e
+ingegnosa, altrettanto non @e di quelle campate in aria.  Il
+Bartoli osserva che il Lana scrisse che Gianciotto trovati il
+fratello e la moglie "in sul peccato, prese una spada, e
+conficcolli insieme in tal modo che, abbracciati, ad uno
+morirono:" e il falso Boccaccio ripete: "gli giunse amendue, e
+amendue, a un'otta, gli uccise": e il Bargigi: "li trafisse con
+uno stocco ambedue congiunti insieme": Giovanni da Serravalle:
+"ambos unum super alium amplexatos interfecit": perch@e il Bartoli
+soggiunge: "@E questo forse il modo che ancora offende Francesca;
+pi@u che della morte ella si duole dell'offeso pudore.  Il pudore, 
+di donna, anche innamorata e colpevole, si ribella al pensiero di
+essere stata colta nel momento del peccato, e di essere stata
+dalla spada del marito come inchiodata all'amante."  I pi@u intimi
+sentimenti della verecondia femminile fremono in tempesta di
+rammarico per s@e e di odio per l'uccisore.  E questa circostanza
+del fatto, unita all'altra del fratricidio, pu@o essere stata
+quella che abbia destata l'universale piet@a.
+
+	|103-105.~  Notati dall'Alfieri.  |Amor che a nullo~
+ecc.: |perdona~; qui vale ^fa grazia, concede~; risponde al
+^parcere~ de' Latini; amore che non consente che chi @e amato non
+riami, non rimette ad alcuno amato il debito di riamare. 
+Virgilio a Stazio (^Purg.~, XXII, 10-12):
+
+     Amore, 
+     Acceso di virt@u sempre altro accese, 
+     Pur che la fiamma sua paresse fuore.
+
+-- |Mi prese~, m'invagh@i (cf. v. 101), mi fece schiava (al v.
+128, ^stringere~): -- |del costui piacer~, della costui bellezza, 
+spiegano alcuni; altri: ^del piacere, della gioia di amare
+costui~, o ^del piacere ch'io faceva a costui~, mostrando cos@i, 
+dice il Magalotti, di essersi innamorata non tanto per genio, 
+quanto per vaghezza d'accorgersi di piacere e di essere amata, e
+per certo obligo di gentil corrispondenza: onde acquisterebbe
+lume la sentenza del De Sanctis, a proposito di Francesca: ^la
+poesia della donna @e l'esser vinta.~  Nella ^Vit. N.~, III, cos@i
+Dante comincia il primo sonetto che sappiasi da lui scritto:
+
+     A ciascun'alma presa e gentil core...
+     Salute.
+
+-- |Ancor non m'abbandona~, cio@e questo amore tuttavia
+m'accompagna; uniti in vita, in morte, nell'Inferno.  S. Tommaso
+(^Summ. Th.~, I, II, 32, 3): ^Amor est unio, vel connaturalitas
+amantis ad amatum.~  Il Boccaccio: ^i due amanti furono posti
+nella medesima sepoltura.~  Scrive Dante (^Conv.~, IV, 1):
+Pitagora dice: ^Nell'amist@a si fa uno di pi@u.~  E perocch@e le
+cose congiunte communican naturalmente intra s@e le loro qualit@a, 
+intanto che talvolta @e che l'una torna del tutto nello natura
+dell'altra, incontra che le passioni della persona amata entrano
+nella persona amante, s@i che l'amor dell'una communica
+nell'altra; e cos@i l'odio e il desiderio e ogni altra passione.
+
+	|106-108.~  L'Alfieri not@o il primo verso.  |Ad una
+morte~, alla morte medesima e nel medesimo punto.  -- |Caina~:
+bolgia ove punisconsi i fratricidi, dicono il Tommaseo e lo
+Scartazzini, certo per isvista, perch@e le dieci bolge sono tutte
+nell'ottavo Cerchio, mentre la |Caina~ non @e che uno de' quattro
+scompartimenti in che @e diviso il Cerchio nono, dove son puniti i
+traditori ed uccisori de' consanguinei, da Caino, uccisore del
+fratello.  Su questo predire la dannazione a Gianciotto, si vegga
+^Inf.~, XVII, 69, nel commento (cf. ^Par.~, III, 108, nel
+commento).  L'allegato verso d'imprecazione e di profezia insieme
+c'@e chi lo vorrebbe detto da Paolo, e chi da lui insieme e da
+Francesca (|da lor~); ma questa interruzione, nota a buon
+proposito il Casini, turberebbe lo sviluppo dell'episodio, nel
+quale Francesca, come ben dice il De Sanctis, empie di s@e tutta
+la scena, e Paolo @e solamente l'espressione muta di lei: alla
+donna il parlare, all'uomo il piangere, perch@e come sono
+eternamente confusi quasi in un solo essere per forza d'affetto, 
+cos@i anche nelle loro manifestazioni si compiono a vicenda.  --
+|Queste parole da lor ci f#ur porte~: cf. ^Inf.~, II, 135; XVII, 
+88; ^Purg.~, XXXIII, 52; e anche ^porgere~ soltanto, ^Inf.~, 
+VIII, 112.  -- |Chi vita~ ecc; altri: ^chi in vita~ ecc.  Della
+casa dei Malatesta (cf. ^Inf.~, XXVII, 46-48 e XXVIII, 85) scrive
+la ^Cronaca Riminese~ (Muratori, ^Rer. It. Script.~, XV, 896), 
+che cacciati i Parcitadi (1295), ebbero la signoria di Rimini i
+Malatesta. "Questo Misser Malatesta (^il padre di Paolo~ ecc.)
+ebbe tre donne; de la prima nacque Misser Malatestino
+dall'Occhio...  Della seconda nacque Gianne Sciancato e Paolo. 
+De la terza, che fu figliuola di Misser Righetto, nacque
+Pandolfo, il quale fu molto virtuoso.  E da Paolo predetto
+discesero i Conti da Ghiazolo."
+
+	|109-111.~  L'Alfieri not@o il v. 110.  |Anime offense~
+(epentesi, come ^offensa~ per offesa, offensione, ^Par.~, IV, 
+108), cf. ^Purg.~, XXXII, 12; ^Par.~, XVII, 52: ^offese~ per
+doppia maniera, dal dolore cio@e della qualit@a di lor morte e
+dall'eterno tormento.  -- |Chinai il viso~: atto di piet@a e di
+raccoglimento (cf. ^Inf.~, XXIII, 139).  -- |E tanto il tenni
+basso~, per la commozione, e, pensando, tenendo la testa
+
+     Come colui che l'ha di pensier carca
+     (^Purg.~, XIX, 41)
+
+-- |Che pense~? (cf. ^Purg.~, XXXI, 10), a che cosa pensi
+(^Inf.~, XI, 15)?
+
+	|112-114.~  L'Alfieri, da |o lasso~, trascrisse tutto
+sino all'ultimo verso del Canto.  |O lasso~! interiezione di
+dolorosa compassione.  Il De Sanctis: "Dante non pu@o rispondere
+subito, e quando lo fa, non volge la parola a Virgilio, ma parla
+come trasognato a s@e stesso."  Per@o se da ci@o solo si vuole
+inferire che Dante sentisse in questo istante rimordimento in s@e
+per simili falli, come alcuni pretesero, bisognerebbe per la
+stessa ragione conchiudere che Dante, perch@e sentesi indotto al
+piangere per la pena di Ciacco (^Inf.~, VI, 59), sia stato anche
+un parassita; o un indovino o stregone, perch@e piange al
+contemplare la pena di simili dannati (^Inf.~, XX, 19 e segg.). 
+-- |Quanti dolci pensier~ (cf. v. 100), perch@e l'amore non puro, 
+pur essendo ^tosco di Venere~ (^Purg.~, XXV, 132), ha i suoi
+allettativi inganni e seduttrici dolcezze (^Purg.~, XIX, 19-24). 
+Nel ^Canzoniere~ (P. II, canz. VIII, st. 3):
+
+     E gli dolci pensier non mi son tolti.
+
+-- |Men@o costoro~: qui li |men@o~ il disonesto |desio~, l@a li
+^mena~ la bufera infernale (v. 32).  -- |Al doloroso passo~ (in
+antitesi ai |dolci pensieri~), alla morte e alla dannazione.
+
+	|115-117.  I tuoi martirj~: altrove a Ciacco (^Inf.~, VI, 
+58):
+
+     Ciacco, il tuo dolore
+     Mi pesa s@i, ch'a lagrimar m'invita.
+
+E ^Vit. N.~, XXXII (canz., st. 3) ^mi vien di pianger voglia.~ 
+-- |A lagrimar~: |a~, fino alle lagrime; e trova rincalzo al v.
+3, ^pugne a guaio.~  -- |Tristo e pio~, dolente e pietoso. 
+|Pio~, opposto a ^spietato~ (cf. ^Inf.~, XIII, 38; XXIX, 36).
+
+	|118-120.  Ma dimmi~ ecc.  Siccome nel racconto fatto da
+Francesca il Poeta scorse un'immensa lacuna tra il suo
+innamoramento e la morte, Dante pensava a ci@o, pensava ai tanti
+^dolci pensieri~ {v.113}; a ^s@i gran disio~, che alla morte
+trasse costoro; ed ora, quasi ripresa padronanza sull'affetto
+commosso, chiede a Francesca ch'ella stessa riempia la lacuna
+lasciata nel primo racconto.  -- |Dolci sospiri~ e ^dolci
+pensieri~ (v. 113); |a che~, a quale indizio (cf. ^Inf.~, XXIII, 
+74); -- |e come~, in quale guisa l'amore vi porse il destro di
+conoscere i desiderj reciproci?  |dubbiosi~, per non essersi
+ancora vicendevolmente dichiarati.  Il Boccaccio: "chiamagli
+|dubbiosi~, perciocch@e, quantunque per molti atti appaia che
+l'uno ami l'altro, e l'altro l'uno, tuttavia suspicano non sia
+cos@i come lor pare, insino a tanto che del tutto discoperti e
+sicuri sono".
+
+	|121-123.  Nessun maggior dolore~ ecc.  Boezio (^Cons.
+Phil.~, lib. II, pr. 4): "^In omni adversitate fortunae, 
+infelicissimum est genus infortunii fuisse felicem.~"  Il
+Petrarca (^Canz.~ III, in vit.):
+
+     E quant'era mia vita allor gioiosa
+     M'insegna la presente aspra e noiosa.
+
+E l'Aquinate (^Summ. Th.~, II, II, 36, 1): ^Memoria praeteritorum
+bonorum, in quantum fuerunt habita, delectationem causat; sed in
+quantum sunt amissa, causat tristitiam.~  Se nei dannati la
+memoria del |tempo felice~ fa massimo il |dolore~ per la
+|miseria~ presente; per somigliante maniera nessuna maggior
+contentezza nei Beati, che rammentarsi degli affanni patiti
+(^Par.~, XX, 47-48).  E in una sua ^Epistola~ (VII, 8) scrive
+l'Allighieri: "Ac quemadmodum sacrosanctae Jerusalem memores, 
+exules in Babylone, ^gemiscimus~; ita tunc cives, et respirantes
+^in pace~, confusionis ^miserias in gaudio~ recolemus."  E si
+legga il principio del {paragraph.} XXXVI della ^Vita Nuova.~  A
+questo pensiero tener vivo nei cristiani mira ogni insegamento
+della Religione; e questo pensiero bellamente ripresenta ed
+illustra per esempi la calda parola di S. Agostino (^Serm.~, 44
+^de Sanctis~): ^Coronata est beati Martyris patientia.~..  ^Hoc
+attendens in agone suo gloriosus Christi athleta, non exhorruit
+carcerem.  Ad imitationem Capitis sui toleravit probra, sustinuit
+irrisiones, flagella non timuit, et quot ante mortem pro Christo
+pertulit supplicia, tot ei de se obtulit sacrificia.  Quod enim
+propinante Apostolo, biberat, alte retinebat~: quia non sunt
+condignae passiones huius temporis ad futuram gloriam, quae
+revelabitur in nobis.  ^Et quia momentaneum hoc et leve nostrae
+tribulationis, aeternum gloriae pondus operatur in coelis.  Huius
+promissionis amore a terrenis suspensus, et praegustata supernae
+suavitatis dulcedine ineffabiliter affectus, dicebat~ ecc.  --
+|Miseria~; cf. ^Inf.~, XXX, 61, nel commento.  -- |Il tuo
+dottore~: per la sentenza di Boezio or ora allegata (v. 121), 
+qualcuno intende che qui si accenni a lui, perch@e uno degli
+scrittori da Dante studiato assai; per@o la forma assoluta e come
+antonomastica qui usata da Francesca, fa credere ragionevolmente
+che non d'altri s'intenda, che di Virgilio; onde il Talice: ^tuus
+doctor, idest Virgilius: qui Virgilius fuit spoliatus suis bonis, 
+et jam fuit in adversitate~: e meglio il Lana: "ricordandosi
+(Virgilio) del suo essere in lo mondo poeta e in grande stato; e
+ora vedersi nel Limbo senza grazia e speranza di bene, non @e
+senza dolore e gramezza."  Si potrebbe anche ammettere che
+Francesca, anzich@e al Limbo credesse Virgilio dannato in qualche
+altro Cerchio d'Inferno, se per tale reputollo anche Chirone
+(^Inf.~, XII, 90).
+
+	|124-126.  Ma~ ecc.; altrove: ^Dacche' tu vuoi saper
+cotanto addentro~ (^Inf.~, II, 85); e ancora (^Purg.~, I, 55):
+
+     Ma dacche' @e tuo voler che pi@u si spieghi
+     Di nostra condizione ecc.
+
+-- |Prima radice~ (cf. v. 136-138); bella metafora, la prima
+cagione, la prima origine (cf. ^Purg.~, XVII, 135)).  -- |Hai
+cotanto affetto~, cotanto desiderio (cf. ^Purg.~, XVIII, 57;
+XXIX, 62); e Virgilio (^Aen.~, II, 10):
+
+     Sed si tantus amor casus cognoscere nostros.
+
+-- |Far@o come colui~ ecc.  Conte Ugolino (^Inf.~, XXXIII, 9):
+
+     Parlare e lagrimare vedrai insieme.
+
+	|127-129.  Per diletto~, per isvago, per passatempo.  --
+|Lancillotto~; uno de' Cavalieri della Tavola Rotonda, amante
+della regina Ginevra (cf. ^Par.~, XVI, 15).  I romanzi di tali
+cavalieri, specialmente scritti in lingua francese, erano ai
+tempi di Dante molto in voga nelle corti e nelle case de' gran
+signori; e a che fatta di letture si dessero anche le donne, 
+Dante ce ne porge qui un chiaro documento; e documento pu@o
+essere, per quasi un secolo dopo, la lettera del pentito
+Boccaccio a Mainardo Cavalcanti sul suo Decamerone.  Dante ne
+certifica de' molti romanzi notissimi al suo tempo, scritti in
+lingua d'^oil~; ^videlicet biblia cum Troianorum Romanorumque
+gestibus conpilata, et Arturi regis ambages pulcherrimae~ (^Vulg.
+El.~, I, 10).  -- |Come amor lo strinse~; nel ^Canzoniere~ (P. I, 
+canz. X, st. 3):
+
+     Ben @e verace amor quel che m'ha preso, 
+     E ben mi stringe forte.
+
+Cf. vv. 101, 104; ^Purg.~, XXII, 17.  E ^Vit. N.~, XIII: <La
+donna, per cui amore ti stringe cos@i, non @e come l'altre donne;>
+e altrove ^amore costringe~ il Poeta (^Par.~, XXX, 15).  E anco
+dell'|amore~ al luogo nativo, ^Inf.~, XIV, 2.  -- |Soli eravamo~;
+ecco il primo incentivo; |e senza alcun sospetto~, senza timore
+di essere sorpresi o scoperti: |sospetto~ per ^timore~, anche
+altrove (^Inf.~, XXII, 127; XXIII, 54), ovvero per temenza, 
+dubitazione (^Inf.~, III, 14; IX, 51 e ^altrove~).  Il De
+Sanctis: "Chi mai fa questa osservazione se non l'amore
+colpevole?  Leggono una storia d'amore e non osano di guardarsi, 
+e temono che i loro sguardi tradiscano quello che l'uno sa
+dell'altro e l'uno nasconde all'altro; e quando in alcuni punti
+della lettura veggono un'allusione al loro stato, uno stesso
+pensiero fa violenza, sforza, ^sospinge i loro sguardi~; e gli
+occhi immemori s'incontrano, n@e gi@a osano di sostenerli e li
+ribassano, e la coscienza di essersi traditi e il fremito della
+carne si rivela nel volto che si scolora."
+
+	|133-136.  Riso~ per bocca; nella ^Vit. N.~, XIX (nella
+canz.):
+
+     Voi le vedete Amor pinto nel riso, 
+
+ove spiegano |bocca.~  E nella Canzone <^Amor, che nella mente mi
+ragiona~> (st. 4), si legge:
+
+     Cose appariscon nello suo aspetto, 
+     Che mostran de' piacer di Paradiso;
+     Dico negli occhi e nel suo dolce riso, 
+     Che le vi reca Amor com'a suo loco;
+
+e Dante spiegando questo tratto (^Conv.~, III, 8), Scrive:
+<Perocch@e nella faccia, massimamente in due luoghi adopera
+l'Anima, cio@e negli ^occhi~ {v.130} e nella |bocca~ (per@o che in
+quelli due luoghi quasi tutte e tre le nature dell'Anima hanno
+giurisdizione), quelli massimamente adorna, e quivi pone
+l'intento tutto a far bello se puote.  E in questi due luoghi
+dico io, che appariscono questi piaceri, dicendo: ^Negli occhi e
+nel suo dolce riso.~  Li quali due luoghi per bella similitudine
+si possono appellar balconi della Donna che nello edificio del
+corpo abita, ch'@e l'^Anima~, perocch@e quivi, avvegnach@e quasi
+velata, spesse volte si dimostra.>  Dopo ci@o mi sembrano non
+vere, per quanto colorite come sempre, le parole del De Sanctis, 
+che qui non si tratta materialmente della |bocca~, s@i bene del
+|riso~ (bench@e due versi dopo il Poeta usi |bocca~ nel medesimo
+senso), ^che @e l'espressione, la poesia, il sentimento della
+bocca, qualche cosa d'incorporale che si vede errar fra le labbra
+e come staccato da esse, e che tu puoi vedere, ma non puoi
+toccare.~  -- |Esser baciato~ ecc.; e questo, se non il primo di
+fatto, fu ^il primo fallo scritto~ di questa regina (^Par.~, XVI, 
+15).  Il libro qui accennato @e uno de' pi@u antichi che la Chiesa
+abbia proibito; fu proibito con Bolla di Innocenzo III (ma
+appunto per ci@o non gi@a nel 1313 come a torto dice il Perticari:
+cf. Foscolo, ^Disc.~, sez. 104).  E non occorre scendere, come si
+dice, in sagristia per ravvisare dal fatto di Francesca quanto
+provvida la legge della Chiesa; se que' meschini cognati le
+avessero prestato ossequio, forse non sarebbe loro accaduto
+quello che accadde.  -- |Questi, che mai~ ecc.  La misera donna, 
+pur nella apparente letizia delle felici memorie, ha l'inferno
+davanti, lo sente nell'anima, e lo deve di necessit@a rammentare. 
+Il De Sanctis: <Quando Francesca @e vinta, quando il peccato
+ch'era gi@a nell'anima si rivela, nel punto stesso del bacio, anzi
+prima ancora che il peccato le esca di bocca, ... tra l'amante e
+il peccato si gitta in mezzo l'inferno, e il tempo felice si
+congiunge con la miseria, e quel momento d'oblio, il peccato, non
+si cancella pi@u, diventa l'eternit@a.>  -- |La bocca~, @e il
+|disiato riso~ (v. 133); -- |tutto tremante~, il che rivela e
+tutta la passione, e lo spasimo non senza pudore.
+
+	|137-138.  Galeotto fu il libro~: quel libro, quella
+lettura fece tra Paolo e Francesca quel medesimo ufficio di
+mezzano, che tra Ginevra e Lancillotto comp@i Gallehaut
+(|Galeotto~): |e chi lo scrisse~, e mezzano l'autore di esso, 
+quant'a dire insinuatore di illeciti amori.  Fu questa sciagurata
+lettura la prima radice (v. 124), la cagione onde i due cognati
+poterono a vicenda ^conoscere~ i ^desiri~ fin allora ^dubbiosi.~ 
+Il Giuliani, in una nota marginale al testo della Div. Commedia
+da lui tanti anni usato: <Il libro Galeotto... fu la ^radice~
+{v.124} prima del loro amore, come un sonetto del Cavalcanti fu
+^il principio~ dell'amicizia fra lui e Dante: ^Vit. N.~, III.> 
+Il Tommaseo: <Nelle vecchie edizioni il Decamerone s'intitola
+^Principe Galeotto~; e |Galeotto~ significava mezzano di turpi
+amori.>  -- |Quel giorno~ ecc.; questo verso, per l'intimo
+significato, @e creazione michelangiolesca; per me non trovo altro
+s@i potente riscontro a questo punto, che l'altro potente del pari
+in bocca di Ugolino (^Inf.~, XXXIII, 75), 
+
+     Poscia pi@u che il dolor pot@e il digiuno.
+
+Il Giusti: "Con questo verso volle il Poeta adombrare d'un velo
+onesto una cosa inonesta in s@e, inonestissima in bocca d'una
+donna.  Quasi ultimo tocco, volle ripercuotere tutte le corde
+sentimentali di quella lagrimevole istoria."  Conosciuti cos@i i
+lor ^dubbiosi desiri~, quanto dur@o quell'amore? non si sa: ma si
+pu@o ammettere che l'orribile tragedia da parte di Gianciotto
+avvenisse la prima volta che furono insieme; quel d@i che, 
+leggendo di Lancillotto, conobbero i lor dubbiosi desiri? @e
+impossibile, anche semplicemente considerando che Francesca parl@o
+di ^tempo felice~, espressione bastevole per intendere che la
+cosa ebbe una durata, un periodo di tempo, per quanto resti
+indeterminato.
+
+	|139-142.  L'uno spirto~, Francesca; -- l'|altro~, Paolo. 
+-- |Di pietade~ (cf. vv. 72, 93) |io venni men~, perch@e la
+^piet@a~ lo ^confuse di tristezza~, cio@e gli tolse la coscienza di
+se stesso, ^gli vinse ciascun sentimento~ (^Inf.~, III, 135), di
+guisa che per questa ^piet@a~ sentendosi quasi morire, cadde
+svenuto.  Nella ^Vit. N.~, XXII, di Beatrice piangente la morte
+del padre: "Certo ella piange s@i, che qual la mirasse dovrebbe
+morir di pietade."  E si legga altro smarrimento di spirito in
+Dante, ^Vit. N.~, XIV, per vedere come in cose d'amore il Poeta
+sentisse profondo; non gi@a per trarne quella sbagliatissima
+induzione, che ne trasse il P. Tosti, nella prefazione alla
+stampa del famoso Codice Cassinese del 1865.  -- |Com'io
+morisse~, morissi (cf. ^Inf.~, XIII, 25).  -- |E caddi~ ecc.  Il
+Venturi: "La scelta delle parole, tutte di due sillabe, e
+l'uniforme gravit@a degli accenti rendono stupendo questo verso
+per suono imitativo; e fan sentire la caduta d'un corpo con modo
+pi@u efficace di quel d'Ovidio ove narra d'Alcione: ^collapsaque
+corpore tota est~ (^Met.~, XI, 460)."
+
+	Nota le terzine 4, 5, 10, 11, 12, 14, 15, 16, 18, 21, 24, 
+25 27, 28, 31, 33 alla 41, 43 all'ultima.

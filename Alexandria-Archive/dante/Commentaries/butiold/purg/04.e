@@ -1,0 +1,805 @@
+|PURGATORIO CANTO 04~
+
+	|Proemio.~  ^Quando per dilettanze~ ec.  Questo @e lo quarto canto de 
+la seconda cantica, nel quale lo nostro autore tratta del secondo luogo 
+che finge essere ne la montata del primo balzo del monte del 
+purgatorio, dove si monta con grande fatica; et in questo luogo non 
+finge che trovasse niuno s@i, che si d@e intendere che questo balso sia 
+quello delli scomunicati; ma in sul secondo balso finge che stieno li 
+negligenti, li quali sono stati negligenti in tutte le cose s@i, che 
+nelli atti virtuosi e ne la penitenzia anco sono stati negligenti; ma 
+pur a la fine, o innanti, si sono riconosciuti, li quali finge l'autore 
+che stiano in balso del monte tanto tempo, quanto sono stati negligenti 
+nel mondo.  E perch@e questo terso grado di negligenzia procede da 
+accidia carnale che @e meno grave che li passati gradi, per@o finge che 
+sia punita in pi@u alto luogo; e perch@e @e pi@u grave che li altri 
+gradi che sono a trattare, per@o finge che sia punita pi@u bassa, s@i 
+che veggiamo nel mondo che chi @e di questo grado @e pi@u vile, che chi 
+@e di quelli de' quali si tratter@a, et @e meno abominevile, che chi @e 
+dei gradi dei quali @e trattato.  E di questo terso luogo incomincia a 
+trattare in questo canto, e dividesi questo canto principalmente in due 
+parti, perch@e prima finge come sallisseno lo primo balso del monte; ne 
+la seconda finge come quindi sallitte nel secondo balso, e quive trov@o 
+l'anime negligenti, nel terso grado del quale @e detto di sopra, et 
+incomincia, quive: ^Ben s'avvidde il Poeta~ ec.  La prima si divide in 
+cinque parti, perch@e prima l'autore nostro dichiara uno dubbio de le 
+potenzie dell'anima umana quando @e nel corpo, lo quale fu tra li 
+antichi filosofi; e come la via del montare li fu mostrata; ne la 
+seconda descrive lo luogo per lo quale mont@o suso, quive: ^Maggior 
+aperta~ ec.; ne la tersa dimostra la malagevilezza del montare, quive: 
+^Noi sallivam~ ec.; ne la quarta confessa l'autore la stanchit@a sua e 
+lo conforto che li diede Virgilio, quive: ^Lo sommo era alto~ ec.; ne 
+la quinta finge come, monti suso, elli si ripos@o e meravilliavasi che 
+il sole lo feria da mano sinistra, quive: ^S@i mi spronavan le parole 
+sue~ ec.  Divisa la lezione, ora @e da vedere lo testo co la sua 
+esposizione testuale et allegorica, o vero morale.
+
+	|1-18.~  In questi 6 ternari lo nostro autore, presa cagione de la 
+materia, solve uno dubbio che ebbeno certi filosofi; cio@e che l'omo 
+avesse quattro anime; cio@e vegetativa, sensitiva, imaginativa e 
+ragionevile; e diceano che, quando lo feto @e in ventre de la madre et 
+@e creato, @ae la vegetativa per la quale si notrica e cresce; e come 
+lo corpo @e organizzato e compiuto di fare s@i, che @ae li sentimenti, 
+diceano che sopra venia la sensitiva; e poi quando @e nato, sopra viene 
+la imaginativa; e quando @e in etade di cognoscere, diceano che sopra 
+venia la ragionevile; e cos@i poneano essere 4 anime; lo quale dubbio 
+l'autore nostro solve in questo principio del canto, dinarrando questa 
+opinione esser falsa et erronea per tanto, che seguitrebbe che l'omo in 
+uno medesimo tempo potesse coll'anima intendere a pi@u cose; la quale 
+cosa veggiamo manifestamente che non @e possibile; e per@o dice: 
+^Quando per dilettanze, o ver per dollie~; tocca qui l'autore due 
+principali passioni che muoveno l'anima nostra: cio@e l'allegressa e 
+dolore che sono cagionate dal presente bene e dal presente male: 
+imper@o che 'l bene presente cagiona allegressa, come presente male 
+cagiona dolore; e cos@i lo futuro bene cagiona speransa, e lo futuro 
+malo cagiona paura; e cos@i sono 4 le passioni generali; cio@e 
+allegressa e dolore, speranza e timore de le quali tocca l'autore, e 
+come detto @e, dicendo: ^Quando per dilettanze~; cio@e per diletti, che 
+tanto vale quanto allegresse, ^o ver per dollie~; cio@e dolori, ^Che~; 
+cio@e le quali, ^alcuna virt@u~; cio@e potenzia delle nostre potenzie 
+sensitive che sono a cinque sentimenti; cio@e vedere, udire, gustare, 
+odorare, e toccare; o vero de la memorativa che sono; apprensiva, 
+imaginativa e retentiva, ^nostra~; cio@e dell'anima umana: imper@o che 
+l'uomo @ae naturalmente le dette virt@u, che sono specie de le potenzie 
+dell'anima, che sono tre secondo li Filosofi; cio@e vegetativa, 
+sensitiva e ragionevile; e ciascuna di queste @ae suoe specie le quali 
+l'autore chiama virt@u, ^comprenda~; cio@e in s@e retenna, ^L'anima~; 
+cio@e la virt@u animale che Dio @ae posto nell'anima umana, che @e una 
+sola che @ae tre potenzie ditte di sopra, ^bene ad essa si raccollie~; 
+non mostrando questa sua virt@u, se none a quella potenzia che riceve 
+la passione che li @e obietta, ^Par che a nulla potenzia~; delle altre 
+dette di sopra, se none a quella a che s'@e ricolta, ^pi@u intenda~; la 
+virt@u animale abbiente in atto allora quella potenzia sola, ^E questo 
+@e contra quello error, che crede Che un'anima sovr'altra in noi~; 
+cio@e omini, ^s'accenda~; cio@e che come fu detto di sopra, prima sia 
+la vegetativa, poi sopra vegna la sensitiva, poi la imaginativa e poi 
+la ragionevile, che se ci@o fusse vero, queste 4 anime in uno istante 
+farebbeno ciascuna sua operazione e non impaccerebbe l'una l'altra; la 
+quale cosa veggiamo manifestamente esser falsa: imper@o che in uno 
+istante non possiamo ad una cosa applicare il sentimento, et ad 
+un'altra la imaginazione, et ad un'altra la ragione.  E di questo @e 
+cagione, perch@e l'anima @e una sola et @ae una sola virt@u ragionevile 
+operativa, la quale risponde a tutte queste potenzie tutta s@i, che in 
+uno istante non risponde se non ad una quanto a lei @e bisogno, bench@e 
+a la vegetativa potenzia sempre, mentre che l'omo vive, questa una 
+anima sempre ministra la sua unica virt@u ragionevile, distributa e 
+divisa in parte, quanto li @e di bisogno; e questo non la impaccia ad 
+operare in alcuna dell'altre potenzie, come detto @e.  ^E per@o quando 
+s'ode cosa, o vede~; questi sono due dei sentimenti pi@u nobili; cio@e 
+vedere et udire, e pi@u @anno a servire allo intelletto umano che li 
+altri, ^Che tegna forte a s@e l'anima volta~; s@i che da tutte l'altre 
+potenzie l'abbia rimossa, ^Vassene il tempo~; in che l'anima esercita 
+quello atto, ^e l'om non se n'avvede~; cio@e non s'accorge in quel 
+mezzo del passamento del tempo, se non quando applica a ci@o lo 
+pensieri: ^Ch@e altra~; cio@e imper@o che altra, ^potenzia @e quella 
+che~; cio@e la quale potenzia, ^l'ascolta~; cio@e intende lei, cio@e 
+essa cosa che s'ode o che si vede, ^Et altra @e quella~; cio@e 
+potenzia, ^ch'@a l'anima intera~; cio@e che @a l'anima in s@e a poter 
+operare in tutte le suoe potenzie non distributa, ^Questa~ cio@e la 
+potenzia che @ae l'anima intera, ^@e quasi legata~; perch@e mai s@e non 
+estende in atto a tutte le suoe potenzie s@i, che vi torni, @e quasi 
+legata, ^e quella @e sciolta~; cio@e la potenzia.  Ma per volere 
+cognoscere le potenzie dell'anima debbiamo sapere che 4 sono le 
+potenzie principali; cio@e vegetativa, sensitiva, ragionevile et 
+intellettiva.  La vegetativa @e quella che vivifica lo corpo, crescelo 
+e nutricalo infine alla morte et incomincia da poi che il seme @e 
+concetto nel ventre de la madre, et @ae sotto di s@e 6 potenzie; cio@e 
+appetitiva, o vero attrattiva, l'una quando @e lo feto cio@e 
+l'attrattiva, e l'appetitiva quando @e venuto a luce; la seconda, 
+retentiva di quel che pillia; la tersa, degestiva di quel che ritiene; 
+la quarta, distributiva del digesto a le parte necessarie; la quinta, 
+espulsiva del superfluo; la sesta, genitiva di simile come appare, che 
+s'@e stesa per s@i fatto modo la natura umana da Adam infine a noi, e 
+da noi inde discendenti si distender@a quanto a Dio piacer@a; appresso 
+@e nel feto la sensitiva in quanto si stende, muove e sente, la quale 
+mentre ch'@e nel ventre de la madre @e una; cio@e lo senso come la 
+motiva; ma poi che @e a luce, @e lo senso come la motiva, e le cinque 
+potenzie sensitive per mezzo dei 5 strumenti corporali; cio@e potenzia 
+visiva, auditiva, odorativa, gustativa e tattiva; ma compiuto 
+d'organizzare lo feto nel ventre de la madre e l'articulare del cerebro 
+compiuto, l'onnipotente Iddio crea di nulla l'anima umana nel corpo, lo 
+quale pillia et unisce a s@e la vegetativa e sensitiva, dando loro 
+perfezione la quale non arebbeno da s@e.  E fa questa unione per s@i 
+fatto modo, che ella @e cagione del loro operare e mai non si disf@a 
+questa unione; ma anco quando si parte l'anima dal corpo, ne le porta 
+seco bench@e non abbino pi@u attivit@a niuna, e viene l'anima umana 
+dotata de le infrascritte tre doti, le quali sono pi@u attive quando @e 
+separata dal corpo che quando @e coniunta.  Viene adunque dotata di tre 
+potenzie; cio@e memorativa, intellettiva e volitiva; e d'irascibilit@a, 
+ragione e concupiscenzia: imper@o che le prime, quando sono in sua 
+perfezione, chiamanosi cos@i; e, quando mancano de la perfezione, 
+chiamansi al secondo modo; cio@e quando la volont@a vuole lo bene e 
+rifiuta lo male chiamasi volont@a, quando @e l'opposito chiamasi 
+concupiscenzia; e la memorativa, quando seguita lo bene e scaccia lo 
+male chiamasi memorativa, e quando fa l'opposito chiamasi 
+irascibilit@a; e questa memorativa @ae tre potenzie; cio@e apprensiva, 
+imaginativa e retentiva; e la ragione @ae due parti; cio@e la inferiore 
+e pratica che @ae traffico co le cose mondane, e la superiore e teorica 
+che traffica co le cose celesti, et @ae queste potenzie; discursiva, 
+cooperativa, discretiva et iudicativa; e la intellettiva, ch'@e lume 
+che inlumina la mente, @ae due potenzie; cio@e compositiva e divisiva 
+et illumina sempre la ragione l'una parte e l'altra.  Chiamansi 
+potenzie, perch@e non sono sempre in atto; ma sono in potenzia, che 
+l'anima le pu@o mettere in atto quanto vuole.  ^Di ci@o~; dice Dante, 
+^ebb'io~; cio@e Dante, ^esperienzia vera~; cio@e vera prova che sia 
+vero quello che dico, ^Udendo quello spirito~; cio@e lo re Manfredi, 
+che m'avea parlato di sopra, ^e ammirando~; cio@e meravilliandomi, ^Che 
+ben cinquanta gradi sallito era Lo Sole~: diceno li Astrologi che 
+ciascuno emisperio @e 180 gradi, li quali lo sole passa da la mattina a 
+la sera s@i, ch'era passato del d@i poco pi@u del quarto; dico pogo 
+pi@u, perch@e pi@u 5 gradi: imper@o che 'l quarto serebbe 45 gradi.  
+^et io~; cio@e Dante, ^non m'era accorto~; del passamento del tempo; 
+acconciamente finge qui l'autore esser stato disavveduto del passamento 
+del tempo, perch'elli finge che quive fusseno li negligenti.  che 
+aveano perduto lo tempo de la penitenzia, e quive lo ristoravano, 
+^quando Venimmo~; cio@e io Dante e Virgilio, ^dove~; cio@e a quel luogo 
+nel quale, ^quell'anime ad una~; cio@e insieme, ^Gridaro a noi~; cio@e 
+a Virgilio et a me Dante: ^Qui @e vostro dimando~; cio@e in questo 
+luogo @e lo luogo da sallire che voi dimandate.
+
+	|19-30.~  In questi quattro ternari lo nostro autore descrive lo primo 
+sallimento del monte del purgatorio, dimostrando la sua malagevilessa 
+che finge esser mostrata a lui et a Virgilio da quella escomunicata 
+gente negligente, che finse di sopra essere in sul primo balso del 
+monte del purgatorio, li quali vissero scomunicati.  E per questo 
+allegoricamente dimostra che la vita altrui @e maestra a chi @a 
+cognosciuto; e per@o finge che costoro, ch'erano stati negligenti, 
+insegnasseno a lui a montare, lo quale dimostra quanto sia stretto e 
+faticoso, dicendo: ^Maggior aperta~; cio@e maggior callare, ^molte 
+volte impruna~; cio@e chiude coi pruni, ^Con una forcatella di suoe 
+spine~; cio@e con poghe spine, quanto ne pu@o pilliare con una piccula 
+forca, ^L'uom de la villa~; cio@e lo villano, ^quando l'uva imbruna~; 
+cio@e annerisce che @e matura, e per@o chiude lo callare de la vigna 
+perch@e nolli sia mangiata l'uva, ^Che non era lo calle, onde salline 
+Lo Duca mio~; cio@e Virgilio, ^et io~; cio@e Dante, ^appresso~; a lui, 
+^soli~; perch@e nessuno di coloro, che negligenti erano stati per li 
+diletti mondani, venne con esso noi perch@e non poteano montare, 
+perch@e non aveano compiuto de la negligenzia loro ancora la 
+penitenzia, ^Come da noi la schiera~; di quelle anime scomunicate, ^si 
+partine~; cio@e s'and@o via, aggirando lo primo balso dello monte, a 
+suo cammino.  E per mostrare la malagevilessa del balso, mostra questa 
+via esser pi@u malagevile che quattro altre montate che sono nel mondo, 
+dicendo: ^Vassi in Salleo~; questo Salleo @e una citt@a che @e in Monte 
+Feltro, posta in su uno monte molto alto et aspro da montare, ^e 
+descendesi in Noli~; questo Noli @e una villa nel contado de Genova, di 
+lungi da Genova per L millia, posta in luogo bassissimo, ^Montasi su in 
+Bismantova~; bench@e sia molto malagevile: Bismantua @e una montagna 
+nel contado di Reggio, in su la quale @e gran fatica a montare, ^e in 
+Cacume~; cio@e in una montagna altissima in Campagna che si chiama 
+Cacume; e niente di meno con tutto che i luoghi detti siano faticosi, 
+vassi ad essi, ^Con esso i pi@e~; che sono strumento del corpo umano da 
+poter montare e scendere; e per questo vuole dare ad intendere che a le 
+virt@u attive vastano, ^ma l@i convien ch'om~; cio@e che l'omo, ^voli~; 
+a montare lo primo balso del purgatorio: per@o che il primo del 
+montamento de la penitenzia @e molto malagevile, ^Dico coll'ale snelle 
+e co le piume Del gran disio~; cio@e del grande amore.  Ecco che 
+l'autore dimostra lo intelletto allegorico ch'elli ebbe nel testo, 
+^l'ale snelle~ s'intendeno acconce a volare leggieri e significano la 
+fede e speranza, e ^le piume~ significano le loro specie le quali 
+produce la carit@a e l'amore che l'anima @ae a Dio; o volliamo 
+intendere che queste ^ale~ siano l'opere attive e contemplante, 
+virtuose; e ^le piume~ le loro specie co le quali gravate da la 
+carit@a, l'omo si leva a l'altessa de la penitenzia, ^dietro a quel 
+Condotto~; cio@e di rieto a quella Guida, cio@e Virgilio che significa 
+la ragione superiore, ^Che speranza mi dava~; cio@e a me Dante di poter 
+sallire, secondo la lettera, quel balso; et allegoricamente, lo primo 
+grado de la penitenzia che @e cos@i malagevile, ^e facea lume~; cio@e 
+che illuminava la mia sensualit@a, che cognoscesse la sua perfezione.
+
+	|31-39.~  In questi tre ternari lo nostro autore dimostra la via che 
+tenneno poi che funno salliti, et anco dimostra la malagevilessa del 
+sallire, dicendo: ^Noi~; cio@e Virgilio et io Dante, ^sallivam per 
+entro il sasso rotto~; e per questo mostra che la via fusse fatta per 
+forsa, per mostrare che la penitenzia @e dura; ma la sua duressa si 
+vince co la continuansa e rompesi, ^E d'ogni lato noi strigea lo 
+stremo~; e per questo dimostra che, come la penitenzia @e dura; cos@i 
+@e anco stretta, ^E piedi e mani volea il suol di sotto~; e per questo 
+mostra che sia alta e malagevile da montare s@i, che richiede piedi e 
+mani; cio@e l'affezioni e l'opere: la penitenzia @e dura, @e stretta et 
+@e alta e richiede l'affezioni e le opere, lo intrare a la penitenzia 
+@a le suoe malagevilesse, com'@e stato detto di sopra; ma lo cominciare 
+a montare n'@a pi@u: imper@o che dice santo Agustino: ^Angusta via est, 
+quae ducit ad vitam; et tamen per eam, nisi dilatato corde, non 
+curritur~; e questo @ae dimostrato l'autore per lo testo.  ^Poich@e 
+noi~; cio@e io Dante e Virgilio, ^fummo in su l'orlo supremo~; montati 
+gi@a lo primo grado che era duro, stretto et alto, ^Dell'alta ripa~; 
+cio@e del primo balso del monte, ^a la scoperta piaggia~; che era 
+piaggia infine a l'altro balso, ^Maestro mio, diss'io, che via faremo?~ 
+ Finge l'autore che, poi ch'elli ebbe montato lo primo balso del monte 
+che @e lo secondo grado de la penitenzia dei negligenti scomunicati, 
+passando le cose dure, strette et alte, trovasi in su la piaggia in su 
+lo stato da dovere anco montare; ma non sa, se la sensualit@a non si 
+consillia co la ragione e per@o addimanda consillio a Virgilio.  ^Et 
+elli~; cio@e Virgilio, ^a me~; cio@e a me Dante, rispuose, s'intende: 
+^Nessun tuo passo caggia~; cio@e non ponere niuno passo in basso; cio@e 
+non descendere punto de la vita virtuosa incominciata, ^Pur su al monte 
+dietro a me acquista~; cio@e monta pur su ai gradi pi@u alti et a 
+l'opere pi@u virtuose di rieto a la ragione, ^Fin che n'appaia alcuna 
+scorta saggia~; cio@e alcuna guida che sappia la via: non vasta la 
+ragione a guidare l'anima per li gradi della penitenzia, convienvi 
+essere ancora la grazia illuminante, cooperante e perficiente di Dio.
+
+	|40-48.~  In questi tre ternari l'autore nostro dimostra la sua 
+defezione e lo conforto che li diede Virgilio, dicendo: ^Lo sommo~; 
+cio@e del monte tutto, ^era alto~; per s@i fatto modo, ^che vincea la 
+vista~; cio@e che li occhi non poteano tanto vedere, ^E la costa~; 
+cio@e la montata ritta di quel monte, ^superba~; cio@e ritta, ^pi@u 
+assai~; e fa una comparazione, dicendo, ^Che da mezzo quadrante a 
+centro lista~: quadrante @e una quarta parte di uno tondo piano, et 
+anco de la met@a d'uno tondo che fusse spartito.  Chi menasse una linea 
+perpendicularmente dal mezzo del quadrante al centro del cerchio 
+farebbe una linea molto ritta; ma anco era pi@u ritta la costa del 
+ditto balzo del monte, unde considera che la prima @e alta, la seconda 
+pi@u alta, la tersa assai pi@u alta; dunqua era, come la tersa, la 
+montata di quel balso secondo: imper@o che la linea mezza tra piano e 
+ritto non @e molto erta; e per@o dice che quella era pi@u erta assai.  
+^Io~; cio@e Dante, ^era lasso~, cio@e stanco, ^quando cominciai~; a 
+parlare, s'intende: ^O dolce Padre~; dice Dante a Virgilio, ^volgeti e 
+rimira Com'io rimagno sol, se non ristai~; cio@e rimanea le sensualit@a 
+sola ne la fatica de la penitenzia, se la ragione non l'avesse 
+confortato: la ragione spesse volte tira tanto, che la sensualit@a non 
+pu@o tanto andare.  ^Filliuol mio, disse~; Virgilio a Dante, ^infin 
+quivi ti tira~; cio@e sforzati in fin quie, ^Additandomi~: cio@e 
+mostrandomi col dito, ^un balzo poco in sue~; cio@e non s@i alto, come 
+quella altessa avea veduto di tutto il monte prima, ^Che da quel lato~; 
+unde era Dante e Virgilio, ^il poggio tutto gira~; questo dice, perch@e 
+quel balso non girava se non da quello lato lo monte, perch@e v'erano 
+valloni e piaggie, come apparr@a di sotto, e coste et erte, come @anno 
+li monti nostri.
+
+	|49-57.~  In questi tre ternari lo nostro autore finge come confortato 
+da Virgilio si sforz@o tanto, che sallitte di rieto a lui in sul 
+secondo balso, che in sul primo non ristette punto; e questo finge, 
+perch@e il primo era solo deputato di scomunicati del numero dei quali 
+non era elli, e per@o finge che non vi si restasse.  E di questi fu 
+detto di sopra che mostronno loro la via a montare su, che bene la 
+sapeano come loro luogo s@i, che non n'avea a dir pi@u, dicendo cos@i: 
+^S@i mi spronavan~; cio@e s@i mi sollicitavano come il cavallo si 
+sollicita co li sproni, ^le parole sue~; cio@e di Virgilio, ^Ch'io~; 
+cio@e Dante, ^mi sforzai~; d'andar su, ^carpando~; cio@e andando 
+boccone, ^appresso lui~; cio@e a Virgilio, ^Tanto~; s'intende ^mi 
+sforzai, che il cinghio~; del secondo balso, ^sotto i pi@e mi fue~; 
+cio@e ch'io vi montai suso.  ^A seder ci ponemmo ivi~; in quel luogo, 
+^ambedui~; cio@e Virgilio et io Dante, ^Volti a levante~; cio@e inverso 
+l'orto del sole, ch'era in quello emisperio dov'@e nel nostro emisperio 
+l'occaso, ^ond'eravam salliti~; Virgilio et io Dante.  E questo dice: 
+per@o che come ne lo inferno finse sempre andare verso l'occaso del 
+sole e girare, s@i che il sole li venia di rieto, bench@e di l@a non vi 
+fusse sole; ma tenebre, et in verso mano sinistra; sempre finge che qui 
+vada verso mano destra e verso l'orto del sole, girando per s@i fatto 
+modo lo monte che sempre la spera del sole si vedea inanti, in fin che 
+venia a l'occaso e la notte stava; e come lo sole si levava, girava 
+dall'altro lato lo monte andando in verso l'oriente, e come girava lo 
+sole, cos@i girava lo monte et andava col sole inanti in verso 
+l'occaso, e cos@i girava lo d@i tutto il monte.  ^Che~; cio@e lo quale 
+orto del sole, ^suole a riguardar giovar altrui~; cio@e l'omo si suole 
+confortare, ragguardando in verso l'oriente.  ^Li occhi prima drizzai~; 
+io Dante, ^ai bassi liti~; del mare, ^Poscia li alzai al Sole~; li 
+occhi miei, dice Dante, ^et ammirava~; cio@e io mi meravigliava, ^Che 
+da sinistra~; cio@e da mano manca, ^n'eravam feriti~; cio@e mi facea 
+meravillia che 'l raggio del sole ci percoteva da mano manca: con ci@o 
+sia cosa che chi fusse nel nostro emisperio e stesse col volto verso 
+oriente, lo raggio del sole vedrebbe quando s'alzasse verso la mano 
+destra e farebbe ombra verso la sinistra, e quive era lo contrario 
+sicch@e di ci@o si meravilliava; ma di questo si render@a ragione ne la 
+seguente lezione.  Et allegoricamente, per farsi agevile la 
+preparazione all'atto de la penitenzia, ragguardava col pensieri 
+l'amaritudine di questo mondo, et appresso lo nascimento de la Grazia 
+Divina significata per lo sole, e maravilliavasi che il sole feriva lo 
+sinistro lato; cio@e la grazia di Dio percotea lo suo cuore; la quale 
+cosa non soleva essere.  Seguita la seconda lezione.
+	^Ben s'avvidde il Poeta~ ec.  Questa @e la seconda lezione del IV 
+canto ne la quale l'autore dichiara alcuno punto d'Astrologia; e fa 
+menzione de la tersa specie dei pigri e negligenti, stati nel mondo 
+all'atto de la penitenzia, perch@e sono stati negligenti naturalmente 
+per loro tristessa d'animo in tutte le cose; ma pure a la fine si sono 
+ricognosciuti e morti ne la obedienzia de la Santa Chiesa.  E di questa 
+negligenzia portano pena quive, indugiato tanto d'andare a purgare 
+l'altre peccata, quanto sono stati negligenti nel mondo.  E dividesi 
+questa lezione in 7 parti, perch@e prima finge che Virgilio li solva lo 
+dubbio ch'elli avea del sole che li dava dal lato manco; ne la seconda 
+l'autore dimostra s@e esser dichiarato, e dimanda de la lunghessa et 
+altessa del monte, quive: ^Certo, diss'io~, ec.; ne la tersa finge come 
+Virgilio lo dichiara de la via; e come elli sent@i un'anima di quelle 
+che v'erano in quel secondo balso rispondere per costa, quive: ^Et elli 
+a me~: ec.; ne la quarta finge come, incitato dal parlare, and@o a 
+vedere chi era e trov@o gente assai, quive: ^Al suon di lei~ ec.; ne la 
+quinta finge che una di quelle anime li parlasse e come le ricognove, 
+quive: ^Allor si volse~ ec.; ne la sesta finge come quella anima li 
+risponde a la riprensione che Dante li avea fatta, quive: ^Et elli: O 
+frate~; ne la settima finge che Virgilio solliciti del cammino, 
+montando al terso balso, mostrando lo corso del tempo, quive: ^E gi@a 
+il Poeta inanzi~ ec.  Divisa la lezione, ora @e da vedere l'esposizione 
+del testo co l'allegorie, o vero moralitadi.
+
+	|58-75.~  In questi sei ternari lo nostro autore finge che Virgilio 
+s'avidde del suo dubbio, e che elli liel dichiar@o, dicendo cos@i: ^Ben 
+s'avidde il Poeta~; cio@e Virgilio, e non sensa cagione lo chiama qui 
+^Poeta~; cio@e per dimostrare che in questo seguit@o la poes@i di 
+Virgilio dove elli nel 1 de la sua Georgica dice: ^Quinque tenent 
+coelum zonae~, e massime quando dice, ^Hic vertex nobis semper 
+sublimis; at illum Sub pedibus Styx atra videt, manesque profundi.....  
+Illic, ut perhibent, aut intempesta silet nox Semper, et obtenta 
+densantur nocte tenebrae; Aut redit a nobis Aurora, diemque reducit; 
+Nosque ubi primus equis oriens afflavit anhelis, Illic sera rubens 
+accendit lumina Vesper~.  E perch@e Virgilio puose qui questa sentenzia 
+dell'altro emisperio, per@o lo chiama ^Poeta~, perch@e elli lo seguita 
+come poeta; et @e qui da notare che alcuna volta l'autore lo chiama 
+Virgilio, quand'ei lo pillia per la ragione poetica; alcuna volta 
+Poeta, quando seguita la sua poes@i secondo la lettera come avale; 
+alcuna volta Maestro, quando seguita lo suo modo del fingere; et alcuna 
+volta Duce o per simili vocabuli, quando lo pone per la ragione....  E 
+chiamalo qui Poeta, perch@e lo induce a rispondere secondo la poes@i, 
+in quanto dice di Castor e Polluce e di tre altre finzioni poetiche 
+oltra la sua, come appar nel testo.  E perch@e qui l'autore @ae fatto 
+menzione di tre finzioni poetiche, mosterr@o brevemente unde venne 
+questo errore et unde ebbe principio; e perci@o debbiamo sapere che 
+Giove terso, che fu lo primo filliuolo di Saturno re di Creta, fu 
+ricchissimo re e larghissimo e cupido di fama e con questo molto 
+lussurioso; e per aver fama incominci@o ad essere benefico alli omini 
+scientifici, dando grandissime provigioni, unde costoro incominciorno a 
+dire che era lo loro iddio, e l'uno a prova dell'altro pi@u lo 
+magnificava, intanto che lo finseno iddio dell'universo.  E per fare 
+verisimile la sua finzione, incomincionno a fingere che Saturno era 
+stato iddio e cos@i tutta la sua origine, e ci@o che era stato fatto 
+per li altri Giovi che erano stati innanti a lui o per lui umanamente, 
+incomincionno ad attribuire a lui, e finge fatto sopra natura, come 
+appare in queste tre finzioni; cio@e di Leda, di Calistone e di 
+Fetonte.  E per vedere questo debbiamo sapere che Leda fu filliuola di 
+uno re di Grecia, lo quale per allevare virtuosa, come fu nata, la fe 
+notricare in una torre che avea in mare, comandando le nutrici che mai 
+nolli dicessero se non cose oneste.  Cresciuta costei, la fama and@o 
+per la Grecia de la sua bellessa; unde Giove fatto inamorato di lei 
+and@o a questa torre con una nave che si chiamava Ciecino e portava per 
+insegna lo detto uccello; e tanto seppe ben parlare ch'elli fu lassato 
+intrare a lei, e rapittela quinde, e tanto la tenne che n'ebbe 2 parti, 
+e due femine ad uno parto, e 2 maschi ad un altro parto; e poi la 
+rendette al padre e maritolla a Tindaro.  Ecco questa verit@a fatta 
+umanamente; li poeti per mostrare Giove iddio, la coperseno con 
+finzione dicendo che v'era volato in specie di cecino, perch@e v'era 
+ito co la nave Cecino e perch@e col bel parlare avea ingannato le 
+guardie e la fanciulla; e per dare colore a la finzione che fusse fatta 
+sopra natura, disseno che stette co lei in specie di ciecino e che ella 
+parturitte du' uova e l'altre cose che seguitano.  E simile si pu@o 
+dire di Calistone, lo quale ingann@o in specie di Diana, e parturitte 
+Arcade, e che Iuno mollie di Giove la convertisse in orsa.  Fu la 
+verit@a ch'ella la scacci@o e lo filliuolo Arcade, sicch@e viveano 
+nelle selve come li orsi; e che Arcade la volesse uccidere fu che 
+arrecandosi a vergogna quello che la madre avea fatto, tent@o 
+d'ucciderla; ma Giove, sentendolo, lo disperse ancora.  E cos@i fingeno 
+li poeti per mostrare che Giove era iddio che lo mutasse in orsacchino, 
+e ponesseli in cielo; lo picciolo al corno, e lo grande al carro.  E 
+cos@i avendo guerra coi Titani, perch@e 'l sole, che era di loro, si 
+partitte da loro e fu con Giove, lo Giove lo costituitte governatore 
+del suo regno.  E li poeti finseno che li desse a reggere lo carro del 
+sole; perch@e Fetonte filliuolo del sole, contrastando con Epafo 
+filliuolo di Giove, volse tenere l'officio e la dignit@a del padre, 
+Giove lo fe uccidere.  E per@o fingeno li poeti che Giove lo fulminasse 
+volendo reggere lo carro del padre, o perch@e vi commise qualche 
+difetto.  E cos@i di tutte l'altre fizioni.  ^che io~; cio@e Dante, 
+^stava Stupido tutto al carro de la luce~; cio@e meravilliandomi, non 
+sapendo la cagione, stava attento a ragguardare lo carro del sole, ^Ove 
+tra noi~; cio@e tra me e Virgilio che eravamo nell'altro emisperio 
+sotto, o vero poco di l@a dall'Equatore cerchio, verso l'antartico 
+polo, ^et Aquilone~; cio@e lo nostro settentrione, ^entrava~; cio@e lo 
+carro del sole; come a noi che siamo in questo emisperio sempre sta di 
+verso il mezo d@i, e noi rimagnamo sempre verso la tramontana; cos@i a 
+Dante et a Virgilio ch'erano nell'altro emisperio veniva lo carro del 
+sole da la parte de la tramontana nostra, et ellino erano al lato 
+dell'Equatore che @e pi@u oltra tanto, quanto lo nostro artico @e di 
+qua dell'Equatore.  E questo finge, per mostrare che l'altro emisperio 
+in ogni cosa stia contrario a questo nostro, considerato che quello 
+polo si chiama antartico.  Dante si meravilliava che il sole entrava 
+tra lui e la parte nostra settentrionale; e lui imaginava ch'el si era 
+nell'altro emisperio di l@a da la torrida zona verso l'antartico, 
+sicch@e la via del sole era tra lui e nostro polo artico; e per@o finge 
+che Virgilio lo dichiara, dicendo: ^Ond'elli~; cio@e Virgilio disse, 
+s'intende, ^a me~; Dante: ^Se Castor e Polluce~; cio@e se quel segno 
+che si chiama Gemini, che fingeno li poeti di certi che siano due 
+fratelli, filliuoli di Leda e di Giove quando Leda stette con Giove 
+apparito a lei in specie di cecino, ingravid@o e parturitte due uova, e 
+de l'uno nacque Elena primo Clitennestra e dell'altro Polluce e 
+Castore, li quali funno valentissimi omini e feceno molte grandi e 
+belle cose nel mondo siccome singularissimi omini; per la quale cosa 
+fingeno li poeti che fusseno translati in cielo e posti in quel segno 
+che si chiama Gemini, ch'@e lo terso segno di po' Ariete che @e primo 
+del Zodiaco.  Lo quale Ariete @e allato l'Equatore et incomincia 
+quinde, e poi @e Tauro in verso settentrione, e poi Gemini pi@u presso 
+a settentrione che Tauro, e poi Cancro lo quale incomincia dal tropico 
+estivale dove finisce Gemini, di po' Cancro li altri segni; cio@e Leo e 
+Vergine si cominciano ad accostare in verso l'Equatore, l'uno pi@u che 
+l'altro in fine a Libra che di sotto all'Equatore incomincia come 
+Ariete, di sopra per opposito e finisce al Tropico estivale o vero 
+artico; e poi l'uno segno di po' l'altro s'accostano verso lo Tropico 
+antartico infine a Sagittario che finisce al Tropico iemale, o vero 
+antartico, e quive incomincia Capricorno e poi Aquario, e poi Pesci 
+finisce a l'Equatore dove incomincia Ariete.  E per questi segni che 
+sono nel zodiaco, come si dimostra ne la spera meridionale de' poli, va 
+lo sole ogni d@i uno grado; et ogni segno @e 30 gradi sicch@e in 30 d@i 
+@e fuora del segno; e, come dichiarato fu ne la prima cantica, lo sole 
+@e pi@u basso che 'l zodiaco assai, e per@o si d@e intendere ch'elli va 
+sotto lo zodiaco sotto li detti segni; e per@o dice l'autore che 
+Virgilio li dicea: ^Se Castor e Polluce~, che fanno quel segno che si 
+chiama Gemini, ^Fossero in compagnia di quello specchio~; cio@e del 
+sole; cio@e che 'l sole fusse sotto Gemini, com'era allora sotto 
+Ariete, ^Che~; cio@e lo quale specchio del sole, ^su~; cio@e 
+l'emisperio di sopra, ^e gi@u~; cio@e l'emisperio di sotto, ^del suo 
+lume conduce~: imper@o che l'uno emisperio e l'altro illumina col suo 
+lume.  Et altri ci d@a altra esponizione, dicendo che ^su e gi@u~ 
+significano li pianeti di sopra al sole; cio@e Saturno, Giove e Marte; 
+e li tre di sotto al sole; cio@e Venus, Mercurio e la Luna, ^Tu~; cio@e 
+Dante, ^vedresti il Zodiaco~; cio@e lo cerchio dei segni del quale @e 
+detto di sopra, ^rubecchio Ancora all'Orse~; cio@e al polo artico dove 
+sono le due Orse; cio@e la maggiore e la minore, ^pi@u stretto rotare~; 
+cio@e fare sua revoluzione che tu non vedi avale, perch'@e in segno 
+pi@u rimoto; cio@e in Ariete che @e pi@u rimoto dal polo artico che 
+Gemini.  Et in questo luogo @e da notare la finzione di Calistone 
+d'Arcadia e d'Arcade suo filliuolo, che mutati in Orsa funno translati 
+al polo artico, ^Se non uscisse fuor del cammin vecchio~; cio@e quello 
+ch'io detto.  ^Come ci@o sia se il vuoi poter pensare~; tu, Dante, 
+^Dentro~; ne la mente tua, ^raccolto~; sicch@e non applichi la fantasia 
+a le cose di fuora, ^imagina Sion~; cio@e lo monte di Gerusalemme 
+chiamato Sion, in sul quale era la citt@a di Gerusalem, ^Con questo 
+monte~; cio@e del purgatorio, ^in su la terra stare~; per opposito 
+s'intende, sicch@e l'uno; cio@e Sion @e nel nostro emisperio, e lo 
+monte del purgatorio @e nell'altro emisperio, l'uno contra all'altro, 
+^S@i ch'ambedu'~; cio@e per s@i fatto modo che l'uno sia opposito 
+all'altro: cio@e Gerusalem in verso lo polo artico, e il monte del 
+purgatorio in verso l'antartico, dove finge essere l'isula come la 
+quarta che finge che appaia di qua; e per@o dice ^ambedu'~; cio@e Sion 
+e il monte del purgatorio, ^@anno un solo orizzon~: orison @e lo 
+cerchio lineare che divide l'uno emisperio dell'altro; e perch@e 
+secondo siti de la terra sono diversi orisonti, per mostrare che amburo 
+abbiano uno medesimo sito, per@o dice che amburo abbiano uno orison, ^E 
+diversi emisperi~: l'emisperio @e mezza spera del cielo, questi due 
+monti @anno divisi emisperi: imper@o che l'uno @ae l'una met@a del 
+cielo di sopra, e l'altro l'altra apposita, sicch@e come la quarta 
+abitabile @e verso lo nostro artico; cos@i l'isula del purgatorio sia 
+verso lo loro antartico, ^onde la strada~; cio@e la via del sole, ^Che 
+mal non seppe carreggiar Feton~; cio@e male, perch@e non seppe guidare 
+lo carro del sole Feton suo filliuolo, perch@e male lie ne colse: 
+imper@o che fu fulminato e morittene.  Di questa finzione fu ditto ne 
+lo XVII canto de la prima cantica: questa strada @e quella via che 
+descrive ogni d@i lo rotamento del sole, lo quale non esce mai da la 
+linea eclittica per la quale sempre va per lo mezzo del zodiaco lo 
+sole; e questa via @ae ogni d@i mutamento, secondo che ogni d@i passa 
+uno grado, et altro cerchio fa l'uno d@i che l'altro, secondo la 
+revoluzione del primo movibile.  ^Vedrai~; tu, Dante, se tu imagini 
+quel che fu detto di sopra, ^come a costui~; cio@e a costui che iera 
+nel nostro emisperio, ^convien che vada Dall'un~, cio@e canto; cio@e 
+del ritto, ^quando a colui~; che ser@a nell'altro emisperio, 
+^dall'altro fianco~; cio@e del manco la luce del sole e cos@i a quelli 
+che 'l nostro emisperio abita, stando volto verso l'oriente lo lato 
+manco @e ritto tramontana, e l'ombra cade in verso tramontana; et a 
+colui che abitasse l'altro emisperio, ragguardando verso oriente che @e 
+opposito al nostro oriente verrebbe lo raggio del sole da mano manca e 
+cadrebbe l'ombra in verso l'antartico, che sarebbe a mano ritta; e 
+cos@i viene per opposito all'uno e l'altro l'ombra, secondo 
+l'emisperio, ^Se lo intelletto tuo ben chiaro bada~; cio@e ragguarda 
+chiaramente la verit@a.
+
+	|76-87.~  In questi quattro ternari lo nostro autore, per dimostrare 
+ch'elli abbia bene inteso quello che prima mostrava di non avere 
+inteso, induce la ragione de la Strologia, dicendo: ^Certo, diss'io~; 
+cio@e Dante, ^Maestro mio, unquanco Non vidd'io chiaro~; come a noi ora 
+lo sole d@e ferire dal lato manco, ^s@i com'io discerno~; cio@e 
+cognosco ora la ragione, ^L@a dove mio ingegno parea manco~; cio@e 
+parea defettuoso, non parendo che potesse conprendere come era che il 
+sole ferisse loro dal lato sinistro, stando verso l'oriente dell'altro 
+emisperio; la qual cosa che intenda ora chiaramente lo dimostra per 
+ragione astrologica, dicendo: ^Ch@e~; cio@e imper@o che, ^il mezzo 
+cerchio~; cio@e l'equinoziale lo quale chiama mezzo, o perch@e dall'uno 
+e dall'altro emisperio non si vede se non mezzo, o perch@e veramente 
+sta in mezzo tra du' poli; cio@e artico et antartico, li quali diceno 
+li Astrologi essere fissi et immovibili, e che in su essi lo primo 
+mobile si gira dall'oriente in verso l'occidente e tirasi di rieto 
+l'VIII spera, dove @e lo zodiaco e sono le stelle fisse e tutti li 
+pianeti che sono di sotto ad esso; cio@e Saturno, Iupiter, Mars, lo 
+Sole, Venus, Mercurio e la Luna; sicch@e in 24 ore fa ogni cosa una 
+volta circuire lo cielo e volversi sotto sopra.  E niente di meno 
+l'ottava spera si volge ^contrario motu~ in 100 anni uno grado; e tutti 
+li pianeti similmente si volgeno con contrario movimento, e qual compie 
+sua revoluzione in poco tempo e qual in assai, come la Luna in 20 d@i o 
+poco pi@u, e lo Sole in uno anno, e cos@i delli altri.  E diceno li 
+Astrologi che questa revoluzione si fa in su du' poli mobili che esceno 
+da' poli immobili detti di sopra; e perch@e tutta la distanzia dall'uno 
+polo all'altro si dice essere 180 gradi, o parti che si chiamino, lo 
+cerchio equinoziale @e distante dell'uno polo 90 gradi e 90 dall'altro, 
+e per@o dice lo mezzo cerchio, perch'elli @e in mezzo tra l'uno polo e 
+l'altro; et anco divide lo zodiaco in 2 mezzi.  ^del moto superno~; 
+dice a dare ad intendere lo diritto movimento del cielo, lo quale 
+cagiona lo primo mobile; cio@e la nona spera la quale si muove in su li 
+poli due; cio@e artico et antartico, in 24 ore una revoluzione 
+tirandosi di rieto tutti li altri cieli di sotto, come detto @e.  
+^Che~; cio@e lo quale cerchio mezzo, ^si chiama Equatore~: imper@o che 
+li Astrologi chiamano l'equinoziale Equatore: per@o che pareggia lo d@i 
+co la notte e la notte col d@i; et altri lo chiamano Equonoziale per 
+quella medesma cagione, ^in alcuna arte~; cio@e nell'Astrologia.  Lo 
+Trattato de la Spera dice che tra l'uno polo e l'altro sono 5 cerchi 
+paralelli; cio@e equidistanti s@i, che 'l primo @e intorno al polo 
+artico e chiamasi paralello artico, e quello spazio dice Virgilio che 
+@e la zona fredda che non s'abita sotto per lo troppo freddo; e da 
+quello cerchio poi @e un altro cerchio equidistante che si chiama 
+tropico estivale: imper@o che infine a quello viene lo Sole quando esce 
+di Gemini et entra in Cancro, e quello spazio che @e tra 'l detto 
+cerchio e l'altro del polo @e detto da' Poeti zona temperata, e sotto 
+quella ben si pu@o abitare.  E poi @e lo terzo cerchio che si chiama 
+Equinoziale, o vero Equatore: imper@o che, quando lo Sole @e quie, @e 
+pari lo d@i co la notte, che @e in principio d'Ariete quando lo Sole 
+s'accosta a noi; et @e in principio di Libra, quando lo Sole si diparte 
+da noi, sicch@e poich@e @e intrato in Ariete @e pareggiata la notte col 
+d@i, che tutta via @e mancata infine a quel punto; e, quive diventata 
+pari, incomincia poi a crescer lo d@i e mancare la notte infine che 
+viene al tropico estivale che fa la state a noi, e lo maggior d@i che 
+sia in tutto l'anno; e poi come discende, cos@i manca lo d@i e cresce 
+la notte, infine a l'Equatore al segno di Libra, dove pareggia lo d@i 
+co la notte e poi discende ai segni meridiani et australi, infine che 
+viene al tropico iemale; dove, mancati li d@i e cresciute tuttevia le 
+notti, fa la maggior notte che sia, et allora lo Sole entra in 
+Capricorno e poi ritorna anco a l'Equatore, mancando le notti e 
+crescenti li d@i, infine che ritorna al segno d'Ariete dov'@e pari lo 
+d@i co la notte, e ritorna a Cancro poi dov'@e lo maggior d@i che sia, 
+et @e a noi la state, et a quelli che sono all'altro tropico @e allora 
+lo verno.  E cos@i per opposito, quando lo Sole @e in Capricorno, @e 
+quive la state et a noi @e lo verno; e cos@i veggiamo che sempre 
+l'Equatore @e in mezzo tra 'l Sole e 'l verno; cio@e tra la state e 'l 
+verno: imper@o che la presenzia del Sole fa la state, e la sua assenzia 
+fa lo verno; e tutta questa zona, che tiene dall'uno tropico all'altro 
+che v'@e in mezzo l'Equatore, chiamano li Poeti torrida; e diceno che 
+di sotto @e inabitabile per lo troppo caldo.  E cos@i dal tropico di 
+Capricorno infine all'altro paralello @e zona temperata, e sarebbe di 
+sotto abitabile se non che l'occeano cuopre ogni cosa: per@o ch'ell'@e 
+dall'altro emisperio e poi @e l'altro paralello intorno all'altro polo 
+antartico; e questa diceno li Poeti anco essere zona fredda e di sotto 
+inabitabile per lo troppo freddo; ma, come detto @e, di sotto non v'@e 
+abitazione perch@e ogni cosa @e acqua.  E perch@e l'autore finge che di 
+l@a in quell'altro emisperio sia l'isula col monte del purgatorio nel 
+colmo di quella abitabile, che finge che sia verso lo polo antartico, 
+come la nostra @e verso lo polo artico, per@o finge che quive era lo 
+Sole da sinistra come a noi @e a destra; e quando a noi @e d@i, di l@a 
+@e notte; e quando a noi @e la state, col@a @e 'l verno, e cos@i per 
+opposito ogni cosa: imper@o che ci@o che @e dall'Equatore in qua @e per 
+contrario a quello che @e dall'Equatore in l@a, et e contrario.  ^E~; 
+cio@e quello, ^che sempre riman~; cio@e lo cerchio Equatore, ^tra il 
+Sole e il verno~: imper@o che se 'l Sole e di qua noi abbiamo la state, 
+e di l@a lo verno; e se lo Sole @e di l@a, di l@a @e la state e di qua 
+@e lo verno, s@i che sempre @e l'Equatore in mezzo: per@o che divide 
+per lo mezzo ancora li segni del zodiaco: imper@o che sei ne sono di 
+qua; cio@e Aries, Taurus, Gemini, Cancer, Leo, Virgo; e di l@a, Libra, 
+Scorpio, Sagittario, Capricornus, Aquarius e Pisces, ^Per la ragion~; 
+ecco che assegna la ragione, ^che di quinci~; cio@e da questo tropico 
+antartico, ^si parte~; cio@e lo Sole, ^Verso settentrion~; cio@e 
+andando per lo segno settentrionale, lo quale si chiama tropico; cio@e 
+conversivo: imper@o che 'l Sole in Cancro s'incomincia dall'altra banda 
+del zodiaco a convertere a rieto in verso l'Equatore per questi segni; 
+cio@e Cancer, Leo, Virgo; e poi se ne va per li australi segni; cio@e 
+Libra, Scorpio, Sagittario, nel quale s'accosta al tropico iemale o 
+vero australe, o vuoi antartico; e poi incomincia a ritornare 
+all'Equatore per questi segni; Capricornus, Aquarius, Pisces; e per@o 
+dice: ^quanto gli Ebrei~; cio@e tanto, quanto li Ebrei che sono popoli 
+cos@i presso all'Equatore, come fusse di l@a Dante, quando era 
+nell'altro emisperio di verso il polo antartico: imper@o che sono li 
+popoli di Gerusalem; e Gerusalemme si dice essere in sul mezzo colmo de 
+la terra, come Dante finge che sia di l@a lo purgatorio, ^Vedevan~; 
+cio@e quando erano nel diserto, ^lui~; cio@e lo Sole, ^verso la calda 
+parte~; cio@e di l@a dall'Equatore verso il tropico antartico.  E 
+perch@e di l@a dell'Equatore si dice lo mezzo d@i essere e la parte 
+calda, secondo li vulgari; bench@e a la verit@a la parte calda sia tra 
+l'uno tropico e l'altro, nel mezzo dei quali @e l'Equatore come detto 
+@e di sopra, per@o disse l'autore ^verso la parte calda~.  E qui tocca 
+la storia de la Bibbia; cio@e quando lo populo d'Isdrael pass@o per lo 
+diserto d'Egitto in terra di promissione, dove dice la Santa Scrittura 
+che Dio opponeva la colonna de la nebbia in verso lo incendio del Sole, 
+e la colonna del fuoco a levare le tenebre de la notte; e per notare 
+questo indusse l'autore questa ragione, sicch@e per questo d@a ad 
+intendere cos@i la ragione, che mi fa avvedere di quel ch'io mi 
+meravilliava, @e questa; @e che il Sole tanto va di l@a dall'Equatore 
+verso settentrione, quanto va di l@a dall'Equatore verso l'antartico.  
+Poi esce di questa materia, dicendo: ^Ma, se a te~; cio@e a te 
+Virgilio, ^piace, volentier saprei~; io Dante, ^Quanto avemo ad andar~; 
+ecco che si mostra disideroso di sapere lo fine del cammino; et assegna 
+la cagione cio@e la dificult@a, dicendo: ^ch@e~; cio@e imper@o che, ^il 
+poggio~; cio@e del monte del purgatorio, ^sale~; cio@e va in alto, 
+^Pi@u che sallir non posson li occhi miei~; cio@e pi@u ch'io non posso 
+comprendere co la vista corporale.  E per questo si conferma quel che 
+fu detto di sopra, che la sensualit@a e lo senso umano non si pu@o 
+stendere a considerare l'altessa de la penitenzia.
+
+	|88-99.~  In questi quattro ternari lo nostro autore finge come 
+Virgilio li rispuose a la sua dimanda; e come un'anima di quelle che 
+erano quive, diede per costa a la risposta di Virgilio, dicendo cos@i: 
+^Et elli~; cio@e Virgilio, ^a me~; cio@e Dante disse, s'intende: 
+^Questa montagna~; cio@e del purgatorio, secondo la lettera; ma, 
+secondo l'allegoria, de la penitenzia, ^@e tale~; cio@e @e s@i fatta, 
+^Che sempre al cominciar di sotto~; cio@e a montare suso: ogni via che 
+va ad alto @e faticosa, e per@o dice: ^@e grave~; e cos@i la via de la 
+penitenzia @e faticosa dal primo grado, ^E quanto pi@u va su~; dice de 
+la via del monte del purgatorio; ma intende de la via de la penitenzia, 
+che quanto l'omo pi@u monta di grado in grado, meno l'incresce; e per@o 
+dice: ^e men fa male~; cio@e a chi su monta sempre la via de la virt@u 
+diletta pi@u l'uno grado che l'altro; e quanto pi@u si monta, pi@u 
+cresce lo diletto.  ^Per@o quand'ella ti parr@a soave~; cio@e 
+delettevile e dolce questa sallita, ^Tanto, che su andar ti sia 
+leggiero~; cio@e che ti paia lieve e non faticoso, ^Come assegonda~; 
+cio@e com'@e prospera, o come @e agevile, ^giuso~; cio@e ver lo chino 
+dell'acque, ^andar per nave~; cio@e andare per una piatta o scafa, che 
+per li Fiorentini si chiama nave: a la china del fiume si va senza 
+fatica tanta, con quanta si va a l'in su; e per@o ben dice facendo la 
+similitudine che, quando lo montare li fi' leggero come @e leggero a la 
+piatta o a la scafa andare a la china dell'acqua; o volliamo intendere 
+pur dell'acqua; cio@e come andare per nave gi@a ad acqua segonda; cio@e 
+ad acqua seguitante lo corso de la nave e non contastante col suo 
+corso, ^Allor serai al fin d'esto sentero~; cio@e allora serai 
+all'ultimo grado de la penitenzia e della virt@u: per@o che allora ar@a 
+l'abito de la penitenzia, come dice lo Filosofo: ^Signum generati 
+habitus est in opere delectatio~; e quando l'omo @a l'abito, pu@o dire 
+che sia al fine de la sua apprensione.  ^Quivi~; cio@e a quel fine, ^di 
+riposar l'affanno aspetta~; tu, Dante: imper@o che ogni operante al 
+fine riposa l'affanno suo.  ^Pi@u non rispondo~; dice Virgilio, ^e 
+questo so per vero~.  Bene adiunge questa sentenzia, che la ragione sa 
+per vero che mai lo desiderio dell'operante non @e quietato, in fin a 
+tanto che non viene al fine de la sua operazione.  ^E com'elli~; cio@e 
+Virgilio, ^ebbe sua parola detta~; cio@e com'ebbe finito lo suo 
+parlare, ^Una voce dappresso~; cio@e de l'anime che erano quive presso, 
+^son@o~; cio@e disse queste parole per costa: ^Forse Che di sedere in 
+prima avrai distretta~; cio@e forsi che in prima avrai disagio di 
+sedere, che tu ti riposi.
+
+	|100-111.~  In questi quattro ternari lo nostro autore finge come elli 
+e Virgilio s'accorseno di quell'anima che diede per costa al loro 
+ragionare, dicendo come s'appressorno e viddeno loro condizione.  Dice 
+cus@i: ^Al suon di lei~; cio@e di quell'anima ch'avea cos@i detto, come 
+appare di sopra, ^ciascun di noi~; cio@e di me Dante e Virgilio, ^si 
+torse~; in verso il lato, ^E vedemmo a mancina un gran petrone~; 
+perch@e quive era gente che era occupata da negligenzia d'andare a la 
+penitenzia, per@o finge che sia a mano sinistra, perch'elli non fu di 
+loro condizione; et andare a loro, quanto a lui, era perder lo tempo, e 
+per@o finge che fusse a mano sinistra; e perch@e in loro era duressa, 
+per@o finge che fusseno sotto uno grande petrone, ^Del qual~; cio@e 
+petrone, ^n@e ei~; cio@e Virgilio, ^n@e io~; cio@e Dante, ^prima 
+s'accorse~; cio@e innanti che udissimo la voce.  ^L@a ci traemmo~; 
+cio@e Virgilio et io, ^et ivi~; cio@e quive, ^eran persone~; che prima 
+noll'avavamo vedute, ^Che si stavano all'ombra~: chi @e negligente @e 
+freddo della grazia di Dio, e per@o finge l'autore che si stia 
+all'ombra, ^dietro al sasso~; cio@e per farsi riparo del sole; et 
+allegoricamente per farsi con la duressa del cuore riparo da la grazia 
+di Dio, e per@o adiunge: ^Come uom per negligenzia a star si pone~; 
+questa @e la similitudine propia a la intenzione.  ^Et un di lor~; 
+cio@e di quelle persone ch'erano di rieto al sasso, ^che mi sembiava 
+lasso~; cio@e mi parea stanco, ^Sedeva et abbracciava le ginocchia~; 
+ecco l'atto dei negligenti che abbracciano e stringeno l'affetto, a 
+ci@o che non vegna loro vollia di fare, ^Tenendo il viso~; cio@e la 
+ragione e lo intelletto, ^gi@u tra esse~; cio@e tra le ginocchia, che 
+significano li affetti inferiori, ^basso~; cio@e inchinato: ch@e la 
+ragione e lo intelletto sta inchinato gi@u a li afetti mondani in 
+coloro che sono negligenti a le virt@u.  E per mostrare la condizione 
+loro, adiunge: ^O dolce Signor mio, diss'io~; dice Dante a Virgilio, 
+^adocchia~; cio@e guarda coll'occhio, ^Colui~; ecco che li mostra una 
+di quelle anime, ^che mostra s@e pi@u negligente~; nelli atti suoi, 
+^Che se pigrizia fusse sua sorocchia~; e per questo ben mostra come 
+nelli atti dimostravano quant'era stata la pigressa loro.
+
+	|112-126.~  In questi cinque ternari finge lo nostro autore come venne 
+a parlamentare con una di quelle anime che stavano di po' il petrone, 
+dicendo come prima ella mosse le parole in questa forma: ^Allor~; cio@e 
+quando io dicea le parole dette di sopra, ^si volse a noi~; cio@e a 
+Virgilio et a me quelli che di sopra avea dato per costa, ^e puose 
+mente~; verso noi, ^Movendo il viso pur su per la coscia~; cio@e non 
+alsando lo capo e dimenandolo come chi fa scherno d'altrui, e cos@i 
+facea elli di Dante; e parlando come parlano li pigri; e cos@i finge, 
+per mostrare la condizione di quelli del mondo, che in purgatorio @e 
+carit@a, come detto @e, e questo non repugna per@o a la carit@a, ^E 
+disse: Or va tu su, che se' valente~; cio@e quell'anima parl@o in s@i 
+fatta forma a Dante; beffeggiandolo.  ^Cognobbi allor~; io Dante, ^chi 
+era~; colui che avea cus@i parlato, ^e quella angoscia~; che io avea 
+preso per lo montare, dice Dante, ^Che m'avacciava un poco ancor la 
+lena~; cio@e l'anelito del pulmone, ^Non m'imped@i l'andare a lui~; 
+cio@e non mi impacci@o ch'io non andasse a lui, bench'io fusse stanco, 
+^e poscia Che a lui fui giunto~; io Dante, ^alz@o la testa a pena~; 
+cio@e quella anima che parlato avea alz@o lo capo con malagevilessa; et 
+in questo si nota ancora la sua negligenzia, ^Dicendo~; a Dante: ^Ai 
+ben veduto~; tu, Dante, ^come il Sole Dall'umero sinistro il carro 
+mena?~  Questo dice, perch@e Dante se n'era meravilliato, come appare 
+di sopra; e parla qui beffeggiando Dante.  ^Li atti suoi pigri~; li 
+quali sono contati di sopra, ^e le corte parole~: imper@o che costui 
+parlava molto breve, ^Mossen le labbra mie un poco a riso~; ecco che 
+qui si nota lo ridere del savio che d@e essere con modestia, ^Poi 
+cominciai~; io Dante a parlare, dicendo in questa forma: ^Belacqua~; 
+questi fu cos@i chiamato in questa vita e fu molto negligente in tutte 
+le cose e cos@i nell'atto de la penitenzia; ma pur al fine si pent@i; e 
+per@o ebbe remissione de la colpa; ma non de la pena.  E finge l'autore 
+che di questa negligenzia elli e l'altre anime che vi sono, facciano 
+penitenzia in fine a tanto in quello luogo, quanto sono stati 
+negligenti in questa vita, e poi vadano a purgarsi.  ^a me~; cio@e 
+Dante, ^non dole Di te omai~; cio@e in gi@u mai, perch@e veggo che se' 
+in stato di grazia; ^ma dimmi~; cio@e a me Dante, ^perch@e assiso~; 
+cio@e fermato, ^Qui ritto se'~; cio@e in questo luogo, che tu non vai 
+pi@u suso?  ^Attendi~; cio@e aspetti, ^tu la scorta~; cio@e guida che 
+ti guidi, ^O pur lo modo usato~; de la tua negligenzia, ^t'@ai 
+ripriso~; cio@e t'@ai ripilliato, lo quale tu solevi avere nel mondo?
+
+	|127-135.~  In questi tre ternari finge lo nostro autore come 
+Belacqua, del quale fu detto di sopra, risponde a la dimanda sua e 
+dichiara la pena di coloro che sono quive, dicendo: ^Et elli~; cio@e 
+Belacqua disse a me Dante, s'intende: ^O frate~: sempre finge l'autore 
+che nel purgatorio e nel paradiso s'usino per l'anime che vi sono 
+vocabuli di carit@a, e per@o finge che quell'anima dica a lui: ^O 
+frate~, ch'@e nome di carit@a, ^andar in su che porta?~  Quasi dica: 
+Nulla; e per questo mostra che non si pu@o fare contra l'ordine posto 
+da Dio.  ^Che non mi lasserebbe ire a' martiri~; cio@e a sostenere pena 
+de' miei peccati, secondo l'ordine de la Divina Iustizia, nel 
+purgatorio, ^L'uccel di Dio~; cio@e l'angiulo di Dio lo quale chiama 
+uccello, perch@e @e alato, ^che siede in su la porta~; cio@e del 
+purgatorio, de la quale si dir@a nel processo.  ^Prima convien che 
+tanto il ciel m'aggiri Di fuor da essa~; cio@e porta del purgatorio, di 
+fuor de la quale conviene stare tanto tempo, secondo la finzione 
+dell'autore, quanto l'uomo @ae indugiato la sua penitenzia in questa 
+vita: lo girare del cielo @e lo passamento del tempo, ^quanto fece in 
+vita~; cio@e quanto m'aggiroe lo cielo, mentre ch'io vissi, ^Perch'io 
+indugiai~; cio@e perch'io, Belacqua, penai, ^al fine i buon sospiri~; 
+cio@e li pentimenti e rimordimenti de la penitenzia, che inducono 
+sospiri, ^Se orazion in prima non m'aita~; ecco che manifesta l'aiuto 
+che possano avere quelli del purgatorio; cio@e l'orazione dei santi 
+omini, e per@o dice: ^Che surga su di cuor~; cio@e che si levi in su a 
+Dio dal cuore: imper@o che si dice: ^Si cor non orat, in vanum lingua 
+laborat --, che in grazia viva~; cio@e di Dio: imper@o che chi non @e 
+ne la grazia di Dio, non @e esaudito.  ^L'altra~; cio@e orazione di chi 
+non @e in grazia, ^che val~; quasi dica: Nulla, ^che in ciel non @e 
+udita?  -- Non exaudit Deus preces peccatorum~.
+
+	|136-139.~  In questo ultimo ternario e versetto lo nostro autore 
+finge come Virgilio lo solicita del cammino, montando su al terso 
+balso, ammonendolo del passamento del tempo, dicendo cos@i: ^E gi@a il 
+Poeta~; cio@e Virgilio, ^inanzi mi saliva~; cio@e al quarto luogo che 
+@e lo terso balso, dove si purgano de la negligenzia coloro che sono 
+stati bellicosi, e per l'opere de l'arme @anno indugiato la penitenzia 
+in fine a la morte accidentale, e meschiam co loro li morti per morte 
+violenta per qualunqua altra cagione.  Se l'uomo vuole essere bene 
+guidato, sempre d@e lassare la ragione andare inansi e guidare la 
+sensualit@a; e per@o finge che il poeta, cio@e Virgilio che significa 
+la ragione, salliva inansi a lui che significa la sensualit@a.  ^E 
+dicea~; a me Dante Virgilio: ^Vienne omai~; ecco che 'l sollicita et 
+ammoniscelo del passamento del tempo, dicendo: ^vedi ch'@e tocco~; 
+cio@e toccato, ^Meridian~; lo cerchio che si chiama meridiano lo quale 
+@e diverso, secondo li luoghi diversi de la terra, quive dove l'omo 
+abita imper@o che quando lo sole viene alto s@i che vegna per ritto 
+noi, allora @e meridiano a noi: imper@o che allora @e mezzo d@i a 
+punto; e questo si comprende al quadrante, quando l'ombra de lo stecco 
+del centro viene per mezzo il quadrante dirittamente.  E perch@e in 
+quello emisperio, dove finge l'autore che fusseno, gi@a lo sole era al 
+mezzo d@i, per@o dice: Vedi che @e toccato lo cerchio meridiano, ^dal 
+Sole~; perch@e gi@a @e quive, ^e da la riva~; cio@e e dall'occidente 
+nostro, s'intende: imper@o che quinde si leva lo sole a chi @e in 
+quello emisperio, e cos@i la notte; e perch@e vi @e lo mare oceano, 
+entra ne la terra, per@o dice ^e da la riva~; cio@e del mare oceano 
+ch'@e ne l'occaso, ^Cuopre la notte~; che ne viene, descendendo di 
+quell'altro emisperio e montando suso nel nostro; ma avale discende et 
+@e ^gi@a coi pi@e~; suoi a ^Marrocco~, e per@o dice: ^gi@a coi pi@e 
+Marrocco~; cio@e che gi@a vi s'incomincia ad approssimare co' piedi: 
+Marrocco @e uno regno posto ne le parti occidentali vicino a la Spagna 
+ne la parte de l'Africa; e per@o si dice lo re di Marrocco, sopra 'l 
+quale regno la notte era allora coi piedi: imper@o che allora 
+incominciava quive a comparire, e sopra Gerusalem era allora mezza 
+notte et era profonda quive la notte, quando nell'altro emisperio era 
+mezzo d@i.  E qui finisce lo canto quarto et incomincia lo quinto.
+

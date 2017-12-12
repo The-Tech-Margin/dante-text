@@ -1,0 +1,785 @@
+	|SUMMARIUM.~  CANTUS DECIMUS PRIMUS, ^in quo tractat de
+eisdem superbis canentibus Pater noster rogantibus eos ut precent
+pro eis sub titulo Humberti de Senis et aliorum multorum; et hic
+declarat dominus Provenzanus Salvani de Senis sicut inanis gloria
+mundi est ventus.~
+
+	|Proemio.~  ^PADRE nostro che nei cieli stai.~  Postquam
+in superiori capitulo proxime praecedenti poeta noster tractavit
+et determinavit de qualitate et poena superborum in generali;
+nunc consequenter in isto capitulo XI agit et tractat de eisdem
+superbis in speciali.  Et totum praesens capitulum potest
+breviter dividi in quatuor partes generales; in prima quarum
+praemittit orationem quam cantant isti superbi.  In secunda
+introducit unum spiritum modernum superbum, ratione generositatis
+sanguinis, ibi: ^Deh! se giustizia.~  In tertia introducit
+secundum spiritum modernum superbum et vanum ratione excellentiae
+artis, ibi: ^Ascoltando.~  In quarta introducit tertium spiritum
+modernum superbum ratione potentiae et status temporalis, ibi:
+^Colui, che del camin.~  
+
+	|1-3.~  Ad primum veniens dico, quod poeta praemittit
+orationem quam cantant isti superbi, quia, scilicet, cantant
+orationem dominicam, dicentes: |Pater noster.~  Sed antequam
+veniam ad expositionem literae, est primo praevidendum, quod
+aliqui mirati sunt, imo quasi truffati, cur poeta inserat hic
+istam orationem communem, quam sciunt omnes pueri et puellae.  Ad
+quod dico, quod non inutiliter, non superflue hoc fecit, cum in
+ea sint multi passus non bene intellecti; ideo ipsam ponit, et in
+quibusdam punctis exponit.  Et est notandum quod poeta potius
+ponit istam orationem sanctam hic, quam alibi, quia isti superbi
+damnabilius peccaverunt, et plus fecerunt contra istam orationem;
+ideo orationem perfectissimam omnium canunt.  Ad cuius
+perfectionis intelligentiam volo te tota mente notare, quod
+oratio est perfectissima; primo ratione autoris est excellens et
+authentica, quia non a discipulo vel propheta, sed a Dei
+sapientia instituta; ratione materiae est sufficiens et completa,
+cuncta necessaria homini comprehendens; ratione formae, quia
+brevis et expedita.  Sic enim decuit ut verbum abreviatum faceret
+Christus in oratione, ne quis de ignorantia eius posset se
+excusare, quasi tardus ingenio vel ineptus ad studium; ergo bene
+est oratio perfectissima; unde Augustinus: Si per omnia sanctarum
+precationum verba discurras, quantum existimo nihil invenies,
+quod ista non contineat vel excludat.  Ista ergo oratio non
+continet nisi bonum, quod patet discurrendo per omnes petitiones. 
+In duabus enim primis petimus consequi ultimum finem; et prima
+enim, quae est ^sanctificetur~, petimus dilectionem nostri in
+Deum.  In duabus sequentibus petimus quae per se sunt utilia ad
+finem ipsum consequendum, unum quidem directe, cum dicimus
+^fiat~; aliud vero instrumentaliter cum dicimus, ^panem.~  In
+tribus sequentibus petimus quae utilia sunt per accidens: in
+prima quidem rationem peccati, cum dicimus, ^et dimitte~; in
+secunda, superationem hostis, cum dicitur: ^et ne nos~; in tertia
+liberationem a malo, cum concluditur: ^sed libera.~  Quia vero in
+omni deprecatione benevolentia reconcilianda est eius quem
+deprecamur, ut ait Augustinus, ideo brevis praemittitur prologus,
+scilicet, ^Pater noster qui es in coelis~, in quo disponitur
+animus deprecantis: primo per hoc quod dicitur ^Pater~: dulce
+verbum est, ubi olim terribiliter dicebat: ego Dominus, ego
+Dominus, nunc vult appellari ^Pater~, et sic fiduciam praestat
+obtinendi quod petitur filiis adoptionis.  Quanta cura ergo debet
+conari qui dicit: ^Pater noster~, quod tanto patre non sit
+indignus: et dicit ^noster~, et non ^meus~, ut confitearis
+filiationem esse communem aliis, et non velis derogare juri
+fratrum tuorum.  Pater enim est specialiter solius Christi, sed
+generalis omnium.  Et quia voluntas exauditionis ostenditur
+inesse Deo, per hoc quod dicitur ^Pater~, ita et potentia per hoc
+quod dicitur, ^qui es in coelis~; sed cum sit ubique, dicitur
+potius esse in coelo, quia ut dicitur ^primo coeli et mundi~,
+propter incorruptionem coeli omnes posuerunt coelum locum
+spirituum.  Dicit ergo poeta in litera invocative: |O Padre
+nostro, che nei cieli stai~; et declarat quomodo sit in coelis,
+dicens, |non circonscritto~, quia non continetur a coelis, sed
+solus est omnia continens, ut ait Augustinus; nam immensitas
+divinae magnitudinis est, ut intelligamus eum intra omnia non
+inclusum, extra omnia non exclusum; unde non est magis in coelo
+quam in terra vel alibi, sed constituit sibi locum excelsum et
+luminosum, in quo angeli et beati contemplarentur eum.  Unde
+dicit: |ma per pi@u amore ch'ai primi effetti~, scilicet, angelis
+ab initio seculi, |di lass@u tu hai~; quia magis diligit eos, et
+diligitur ab eis.  
+
+	|4-6.  Laudato.~  Hic poeta dicto quis sit qui petitur,
+incipit ponere quae petuntur; primo enim petitur honorificentia
+divini nominis, qua ostendimus nos diligere Deum in se et propter
+se; et quia vocasti eum Patrem et dixisti eum habitare in coelis,
+videtur respondere: quid vis, quid petis?  Ad hoc respondens,
+peto, ut sanctificetur nomen tuum: et merito praeponitur ista
+petitio, quia ante omnia debet filius petere honorationem patris. 
+Et hic nota quod quia litera videbatur obscura, quomodo enim
+potest sanctificari qui est sanctus sanctorum? poeta hoc
+declarat, dicens: |laudato sia il tuo nome e 'l tuo valore~,
+idest virtus, |da ogni creatura~, quasi dicat: fac nos sic
+vivere, ut per nos te universi glorificent, et nomen tuum
+sanctissimum amplietur in omnibus digne; ideo dicit: |com'@e degno
+di render grazie al tuo dolce vapore~; idest, benignae gratiae;
+vel expone: sanctificetur, idest, firmetur in nobis; sanctum
+enim, idest firmum; et haec prima petitio maxime videtur contra
+superbos.  
+
+	|7-9.  Vegna.~  Ista est secunda petitio, in qua post
+honorificentiam patris adiungitur congrue petitio haereditatis,
+in qua dirigimus nos in Deum, dicentes: ^adveniat regnum tuum~:
+et quia ista litera videtur obscura, poeta ipsam declarat,
+dicens: |Vegna ver noi la pace del tuo regno~, quasi dicat: non
+petimus huc coelestia inclinari, sed magis nos ad coelestia
+elevari catena divini luminis, quae veniens a coelo trahat nos
+sursum; et assignat causam quare sic dixit, dicens: |ch@e noi non
+potem~, supple, venire, |ad essa~, scilicet, pacem, |da noi con
+tutto nostro ingegno~, quia non est possibile homini accedere ad
+regnum Dei, nisi gratia Dei preveniat et perveniat ad eum; ideo
+dicit: |s'ella~, idest, si ipsa pax, |non vien~, scilicet, ad
+nos.  Et hic nota quod Christus proponit nobis praemium
+beatitudinis sub metaphora regni.  Nam in domo una inveniuntur
+necessaria ad vitam, sed melius in vico, et optime in civitate,
+in regno vero superabundanter.  Per regnum ergo petimus
+beatitudinem, statum omnium bonorum aggregatione perfectum. 
+
+	|10-12.  Come.~  Ista est tertia petitio, in qua petimus
+quod nos directe ducat ad regnum.  Et ad huius literae
+intelligentiam volo te notare, quod istud dictum exponitur
+diversimode a multis: uno modo, ut per coelum intelligas justum,
+per terram peccatorem; sed secundum hoc videtur quod haec petitio
+solum proficeret peccatoribus: secundo modo, ut per coelum
+intelligatur spiritus, per terram corpus: tertio modo, ut per
+coelum intelligatur Christus, per terram Ecclesia; ita ut sit
+sensus, quod sicut Christus fecit voluntatem Patris, ita fiat in
+Ecclesia; sic tripliciter ponit Augustinus: quarto modo exponit
+Hieronymus sic, ut quomodo angeli inculpate serviunt tibi in
+coelo, ita et nos tibi serviamus in terra; et hanc expositionem
+Hieronymi sequitur Thomas de Aquino, quem poeta noster sequitur. 
+Dicit ergo, istam petitionem declarans: |come del suo voler gli
+angeli tuoi fan sacrificio a te~, cui dedicaverunt totam
+voluntatem ad serviendum, |cantando Osanna~, quod idem sonat quod
+salvifica; |cos@i facciano gli uomini de' suoi~, scilicet, de
+voluntatibus suis.  Et hic nota, lector, quod aliquis hic
+dubitabit, quare non dixit Christus aperte, sicut in angelis ita
+et in hominibus.  Ad quod respondetur, quod non omnes angeli
+faciunt voluntatem Dei, sed tantummodo qui in coelis sunt; nec
+omnes homines faciunt voluntatem Dei, quia non damnati; non etiam
+pro omnibus hominibus oramus, quia non pro beatis, sed pro his
+qui in terra sunt. 
+
+	|13-15.  Da' oggi.~  Ista est quarta petitio, in qua
+petimus instrumentum et organum quod valet ad obtinendum regnum;
+et hoc multipliciter exponitur, scilicet, de pane spirituali,
+sacramentali et corporali: et per panem intelligimus omnia
+necessaria vitae praesenti et humano victui; et dicit nostrum, ut
+ostendat quod victualia omnibus sunt communia; unde qui abundat
+panibus et non dat indigentibus, non solum manducat panem suum,
+sed etiam alienum, ut dicit Chrysostomus: per hoc quod dicit
+quotidianum intelligitur quod quotidie est necessarium. 
+Cyprianus autem exponit: ut tantum quis manducet, quantum ratio
+naturalis exigit; si enim in uno convivio tantum expendis,
+quantum tibi sufficere potest per centum dies, jam non
+quotidianum cibum manducas sed multorum dierum: vel sic dicitur,
+ne desiderium petitionis extendatur in longum.  Sed quare
+dicimus, da nobis, si nostrum est?  Respondet Gregorius: nostrum
+est per acceptionem, a Deo vero datur ex munere; ne igitur fiat
+nostrum quasi res furtiva sine voluntate Domini dicimus: da nobis
+hodie, quia non cogitabis de crastino.  Ad literam ergo, dicit
+poeta: |da' oggi a noi la quotidiana manna.~  Et hic nota, quod
+loquitur subtiliter, quia pro manna sub pulcerrima metaphora dat
+intelligi cibum spiritualem et corporalem, quia pluvit a coelo et
+pavit corporaliter populum Dei in deserto; ita et hic panis
+pascit corporaliter et spiritualiter in deserto huius mundi, qui
+est vere desertum, sicut poeta pulcre finxit primo capitulo
+Inferni.  Unde dicit: |senza la qual~, scilicet manna, |per
+questo aspro deserto~, idest, in isto mundo, |a retro va chi pi@u
+di gir s'affanna~: quod verum est tam de cibo corporali quam
+spirituali; quia sine corporali moritur quantum ad corpus, et
+sine spirituali moritur quantum ad animam.  
+
+	|16-18.  E come.~  Ista est quinta petitio, in qua
+petimus remissionem peccatorum; debita sunt peccata secundum
+Augustinum, quae petimus nobis dimitti, sed sub conditione:
+dimittere autem debemus non solum veniam postulantibus, sed etiam
+non postulantibus.  Petimus ergo ut removeatur a nobis illud quod
+habet nos excludere a regno Dei, scilicet malum culpae, idest
+peccatum.  Dicit ergo: |e tu benigno perdona~, scilicet, nobis,
+|e non guardar a nostro merto~; scilicet, quod simus immeriti et
+indigni, |come noi perdoniamo a ciascuno lo mal ch'avem
+sofferto.~  Et hic oritur dubitatio, quia videtur quod homo, qui
+non parcit alteri, dicens istam orationem, directe roget contra
+se.  Ad hoc dixerunt aliqui, quod litera debet exponi, sicut nos
+dimittimus, idest, dimittere debemus; sed quidquid dicatur,
+unusquisque debet et potest dicere istam orationem communem
+omnibus, in qua loquitur in persona Ecclesiae: unde: ^dimitte
+nobis~ et non mihi.  
+
+	|19-21.  Nostra.~  Ista est sexta et ultima petitio: nam,
+petita venia peccatorum praeteritorum, petitur praeservatio a
+futuris.  Ad quod est notandum, quod tentare idem est quod
+experiri vel probare; tentat ergo hominem qui de eius virtute
+experientiam sumit.  Virtus autem hominis consistit in duobus,
+videlicet, in operando bonum, et declinando a malo.  Primo modo
+Deus tentat hominem; secundo modo virtus hominis tentatur per
+inductionem ad malum per tres tentatores: primo tentat caro, quia
+unusquisque tentatur a concupiscentia sua, ut dicit apostolus de
+se: secundo, tentat mundus cum vanitatibus suis: tertio, diabolus
+tentat hominem de vitio, ad quod videt hominem facilius
+inclinari; et magis tentat quem robustiorem invenit pugnatorem,
+nec aliquis sanctorum sufficeret crudelitatem daemonis sustinere,
+nisi praesens Christus repelleret et froenaret eorum incursus. 
+Dicit ergo poeta in litera: |non spermentar nostra vert@u, che di
+leggier s'adona~, idest, quae tam debilis faciliter inclinatur et
+comprimitur ad terram, sicut palea quando pluit super eam; |con
+l'antico avversaro~, idest, diabolo.  Et hic nota quod, ut dicit
+Augustinus, non oramus hic ut non tentemur, sed ut non inducamur
+in tentationem; sicut si aliquis, cui necesse est igne examinari,
+non orat ut igne non tangatur, sed ut non exuratur.  Et subdit:
+|ma libera~, scilicet, nos, |da lui~, scilicet, daemone, |che s@i
+la sprona~, idest, stimulat.  Et hic nota quod poeta hic sequitur
+Thomam de Aquino.  Aliqui tamen volunt, quod cum dicitur: ^sed
+libera~, sit septima petitio, ita ut petatur liberatio ab omni
+malo.  Et hic nota quod ut aliqui volunt, istae septem petitiones
+contineant septem virtutes contra septem vitia; ideo ultimo
+ponitur conclusio, amen, quasi dicat: verae et justae sunt
+petitiones tibi propositae, ideo nos exaudire digneris.  
+
+	|22-24.~  Et ultimo poeta addit, quod isti superbi sic
+orantes dicebant in fine se facere istam ultimam petitionem non
+pro eis sed pro viventibus; unde dicit: |questa ultima
+preghiera~, scilicet, |ne nos inducas; o signor caro, gi@a non si
+fa per noi ch@e non bisogna~, quia mortui tentari non possunt, |ma
+per color che dietro a noi restaro~, scilicet, pro viventibus in
+mundo, vel pro animabus quae sunt retro, quae nondum intraverunt
+portam purgatorii; nam illae possunt tentari a daemone, ut patuit
+supra capitulo VIII, et sic moraliter loquitur; potest etiam dici
+quod illae non tentantur, licet serpens quaerat hoc, quia angeli
+defendunt eas.  
+
+	|25-30.  Cos@i.~  Hic ultimo poeta concludit bonam
+dispositionem illarum animarum, dicens: |Cos@i~, sicut dictum est,
+|quell'ombre~, idest, animae praedictae, |orando buona ramogna~,
+idest, bonum augurium, |a se et a noi~, qui sumus adhuc in hoc
+seculo, |andavan sotto il pondo~, scilicet, saxorum; et declarat
+ipsum pondus importabile gravissimum per unam subtilem
+comparationem, quae propriissime repraesentat hunc actum, dicens:
+|simile a quel~, scilicet, ponderi, |che tal volta si sogna.~  Ad
+cuius intelligentiam est notandum quod est quoddam genus morbi
+naturalis accidens homini in nocte in somnio, quia videtur ei, ut
+audio ab expertis, quod habeat totum mundum super se, et videtur
+suffocari sub nimio pondere et vocatur a physicis incubus.  Illae
+animae dico, ibant |angosciate~, idest, angustiatae,
+|disparmente~, secundum plus et minus ponderis, |tutte a tondo~,
+quia omnes ibant in circuitu montis, |e lasse~, idest, fatigatae,
+|su per la prima cornice~, idest, per primum circulum, qui est
+prima pars illius cornicis; et dicit: |purgando la caligine del
+mondo~, idest, superbiam, quae offuscat mentem prae caeteris
+vitiis, quia istud vitium vult facere hominem Deum, vel similem
+Deo.  
+
+	|31-36.  Se.~  Hic poeta persuadet nobis reddere piam
+vicem, scilicet mercedem duplicem pro istis.  Unde dicit: |se di
+l@a~, scilicet, in purgatorio, |ben per noi si dice~, scilicet, ab
+ipsis qui orant pro nobis cum dicunt: |et ne nos inducas; che si
+puote~, interrogative loquitur, |dire~, scilicet, orando, |e
+far~, sicut jeiunia, eleemosinas, peregrinationes et similia;
+|per noi~, pro animabus eorum, |di qua~, scilicet, in mundo
+nostro, |da quei~, scilicet, justis, |c'hanno al voler buona
+radice?~  Aliqui enim habent voluntatem benefaciendi mortuis,
+quorum preces non merentur exauditionem.  Et respondet sibi,
+dicens: |ben si dee aitar lavar le note loro~, idest, signa,
+scilicet, peccata mortalia, |che portar~, scilicet, in fronte
+signatas a sacerdote, |quinci~, idest, ad hoc seculo; |s@i che
+mondi~, idest, mundati et purgati ab istis maculis, |e lievi~,
+idest, alleviati pondere saxorum, |possano uscire alle stellate
+rote~, idest, ad speras coelorum.
+
+	|37-45.  Deh! se giustizia.~  Ista est secunda pars
+generalis, in qua poeta introducit unum spiritum modernum qui
+fuerat superbus ratione generositatis sanguinis.  Et primo fingit
+quod Virgilius rogat umbras in generali ut doceant meliorem viam;
+et in brevi et pulcra oratione sua Virgilius primo facit
+exordium, secundo petitionem, tertio confirmationem.  Primo
+quidem captat benevolentiam ab istis per id quod desiderant super
+omnia, scilicet per festinam liberationem eorum; unde adiurat
+eos, dicens: |Deh!~ dictio deprecativa est, |se giustizia e
+piet@a~, justitia enim, et misericordia exercentur erga illos, qui
+puniuntur in purgatorio, ut jam saepe dictum est, |vi disgrevi
+tosto~, idest, alleviet ab oneribus vestris, |s@i che possiate
+mover l'ala~, ad volandum sursum, |che secondo il disio vostro vi
+levi~, scilicet, ad coelum, quod solum desideratis, |mostrate da
+qual mano~, scilicet, an ad dexteram, an sinistram, |si va pi@u
+corto in ver la scala~, quae ducit ad cornicem.  Et sic vide,
+quod nondum intraverant viam, sed stantes extra, primo viderant
+exaltationem humilium in ripa figuratam; deinde poenam superborum
+veram in via, sive cornice.  Et dicit: |e se c'@e pi@u d'un varco~,
+idest, passus, vel ascensus, |quel ne 'nsegnate che men erto
+cala~; quasi dicat: si in dextrum et sinistrum ascenditur
+ostendatis nobis quo levius ascendere possumus: et assignat
+causam quare sic petit, dicens: |ch@e questi che vien meco~,
+idest, qui sequitur me ducem suum, |per l'incarco della carne
+d'Adamo~, idest, corporis, quod traxit originem ab Adam, ita quod
+{h}abet unum onus carnis, et vult subire aliud, scilicet saxum
+suum, |onde si veste~, quia est adhuc vivus, |al montar su~, per
+istam scalam, |contra sua voglia @e parco~, idest avarus; quasi
+dicat: spiritus eius promptus est, caro autem infirma, de quo
+dolet.  
+
+	|46-51.  Le.~  Hic poeta ponit responsionem illarum
+umbrarum satis clare; et dicit: |Le lor parole, che rendero~,
+illae animae, |a queste~, scilicet verbis, |che dette avea
+colui~, scilicet, Virgilius, |cui io seguiva~, idest, cuius
+vestigia imitabar poetando, |non fur da cui venisser manifeste~;
+quia licet vox audiretur, tamen non videbatur persona quae erat
+latens sub saxo, quod non solum erat magnum et grave, sed etiam
+latum; ita quod ubi primo superbus conabatur ostentare se, nunc
+nititur ex humilitate se occultare, et licet non videretur a quo
+proveniret ista vox, tamen veniebat ab Humberto comite de Sancta
+Flore.  Et tangit verba dicens: |ma fu detto~, ab uno spiritu,
+|venite con noi~, quasi dicat: sicut imus, |a man destra per la
+riva~, quia per purgatorium semper itur ad dexteram, |e troverete
+il passo possibil a salir persona viva.~  Intellexerat iste
+spiritus quod poeta noster erat vivus, quando Virgilius dixerat
+quod erat tardus propter carnem, de quo erat valde stupefactus. 
+Et vult dicere tacite, quod licet via purgandi superbiam videatur
+valde difficilis, non tamen impossibilis est volenti.  
+
+	|52-57.~  Et ostendit aviditatem videndi vivum, dicens:
+|e s'io non fossi impedito dal sasso~, sub quo non possum
+respicere nisi ad terram, |che la cervice mia superba doma~, quam
+porto bassam sub jugo humilitatis, quia portavi eam altam in
+vita; unde dicit, |onde portar conviemmi il viso basso~, scilicet
+ad terram; |guardere' io cotesto ch'ancor vive~, quod est
+mirabile, |e non si noma~, idest, nominat, |per veder s'io 'l
+conosco~, quia debet esse verisimiliter homo magnae excellentiae;
+|e per farlo pietoso a questa soma~, idest, ut compateretur gravi
+oneri meo.  
+
+	|58-60.  Io fui.~  Hic praedictus spiritus ut inclinet
+facilius animum autoris ad se, manifestat se a provincia generali
+et speciali et parentibus et nomine proprio.  Et ad huius literae
+intelligentiam est sciendum, quod in maritima civitatis Senarum
+fuerunt olim comites nobilissimi de Sancta Flore castello, adeo
+potentes in Tuscia, quod solebant gloriari quod poterant omni die
+anni mutare locum et stare in loco tuto, tot castella fortia
+habebant; sed habuerunt diu bellum cum dicta civitate, per quod
+jam tempore nostri poetae erant in magna ruina, et hodie sunt
+quasi omnino exterminati.  De hac stirpe illustri fuit iste
+Humbertus, qui hic loquitur, juvenis quidem strenuus et animosus
+valde: qui cum exivisset probiter contra inimicos ad unum
+avisamentum, interfectus fuit in campo apud unum suum castellum,
+quod dicitur Campagnaticum.  Ad literam ergo: dicit iste: |Io fui
+latino~, idest italicus; nam in Italia primo natum est nomen
+latinum, |e nato d'un gran tosco~, idest, nobilis et potentis
+comitis in Tuscia; et ecce patrem, |Guglielmo Aldobrandeschi~,
+sic cognominatus, |fu mio padre~; et dicit: |non so se 'l nome
+suo giamai fu vosco~; quasi dicat: credo quod sic, quia fuit
+satis famosus in Italia.  Iste Humbertus audiverat Virgilium
+loquentem latine, ideo sic loquitur.  
+
+	|61-66.  L'antico.~  Hic Humbertus narrat quid praestabat
+sibi superbiam magnam; et dicit, quod fuerunt duo, scilicet,
+nobilitas et virtus suorum clarorum progenitorum; dicit ergo:
+|L'antico sangue~, idest nobilis, |e l'opere leggiadre~, idest,
+gesta strenua, |de' miei maggior~, idest, praedecessorum;
+antiquitas enim facit nobilitatem, ut dicit philosophus libro
+Rhetoricorum, |mi fer s@i arrogante~, idest, fecerunt me tam
+superbum, |che non pensando a la comune madre~, idest, ad Hevam,
+ex qua omnes sumus nati, vel communem matrem vocat terram, quae
+est communis omnium parens; vel vult dicere et melius, quod omnes
+aequaliter nascimur de foemina, ita quod per viam nativitatis
+nulla est differentia inter regem et rusticum; quasi dicat:
+respiciens tantum nobilitatem et claritatem maiorem, et non ad
+vilissimum ortum omnium hominum; |ogni uomo ebbi in despetto.~ 
+Et hic nota, quod secundum philosophum II Rhetoricorum, hic est
+malus mos nobilium, quod sunt despectores suorum progenitorum,
+quia nobilitas crevit in eis, sicut patuit in Alexandro Magno,
+qui in furore interfecit Clitum familiarem suum, quia praeferebat
+Philippum patrem sibi.  Et dicit: |tanto avante~, idest, tam
+excessive despexi omnes non appretiando vires et potentiam
+hostium, |ch'io ne mori' com'i senesi sanno~; a quibus
+interfectus fui, |e sallo in Campagnatico~, castello tunc meo,
+|ogni fante~; quia ibi cum paucis exivi contra multos. 
+
+	|67-69.  Io.~  Hic Humbertus damnat superbiam causam
+exterminii sui et suorum, dicens: |Io sono Omberto: e non pur a
+me danno superbia fu~ vel |fe, ch@e ella ha tratto seco tutt'i mei
+consorti~, idest, consanguineos meos, qui pluries per impotentiam
+superati sunt a senensibus, sicut jam tetigit supra, capitulo VI,
+|nel mal anno~; quia in ruinam irreparabilem.  
+
+	|70-72.~  Et concludit Humbertus, tangens poenitentiam ob
+culpam; |e qui convien ch'io questo peso porti~, idest,
+ponderosum saxum, |per lei~, scilicet, superbiam, |tanto~, idest,
+tam diu, |ch'a Dio si sodisfaccia~, idest, divinae justitiae,
+|qui trai morti~, in isto primo circulo, |poi ch'io nol fei trai
+vivi~, idest, in vita temporali.
+
+	|73-81.  Ascoltando.~  Ista est tertia pars generalis, in
+qua poeta introducit alium spiritum superbum ratione excellentiae
+artis.  Et primo apparat se et illum ad loquendum, unde
+continuans dicta dicendis, dicit: |Ascoltando, chinai in gi@u la
+faccia~, ut viderem illum loquentem; |et un di lor~, scilicet,
+superborum, |non questi che parlava~, quasi dicat, non magnus et
+magnificus sicut comes Humbertus, sed quidam spiritus parvus et
+plebeius.  Erat enim unus miniator librorum; |si torse sotto'l
+peso che l'impaccia~, quia non permittit erigere caput; |e videmi
+e conobbemi~, quia noverat me in vita, |e chiamava~, scilicet me,
+|tenendo gli occhi con fatica fisi~, idest, fixos propter pondus,
+|a me che tutto chin andava con loro~; scilicet, cum ipsis
+oculis, ut viderem et audirem facilius loquentem: et moraliter
+potest intelligere, quod exemplo istius et aliorum hic discebat
+inclinari et humiliari; et manifestat enim, dicens: |diss'io
+lui~, scilicet, illi spiritui, qui ita firmaverat se: |o~,
+admirative loquitur et petit: |non se' tu Odorisi?~  Iste
+Odorisius fuit magnus miniator in civitate Bononiae tempore
+autoris, qui erat valde vanus jactator de arte sua non credens
+habere parem; ideo Dantes, qui optime noverat animum eius avidum
+laudis et gloriae, de industria commendat eum super omnes, ut
+experiatur si deposuit ventum, quo solebat esse inflatus, dicens:
+|l'onor da Gobbio~, quasi dicat, qui multum honoras patriam tuam
+et artem tuam; unde dicit: |e l'onor di quell'arte~, scilicet,
+miniandi, |ch'alluminar @e chiamata in Parisi!~  Parisius enim
+dicitur illuminare ubi italici dicunt miniare.  Et hic nota, quod
+miniare est magis proprium: sic enim dicitur a colore minio, qui
+olim fuit aliquando in maximo pretio; unde Scipio Africanus
+ducens gloriosissimum triumphum, devicto Hannibale, intravit
+urbem cum facie tincta minio, ut scribit Plinius.  
+
+	|82-88.  Frate.~  Hic poeta ponit responsionem illius ad
+se, qui humiliter confitetur falsam gloriam quam quaerebat, et
+concedit ipsam alteri.  Dicit ergo: |diss'elli~, scilicet, ille
+Odorisius dixit mihi: |o frate, pi@u ridon~, idest florent, |le
+carte che pennelleggia~, idest, miniat cum pennicello, |Franco
+bolognese~: hic fuit alius miniator de Bononia excellentior eo
+concurrens secum, sicut adhuc apparet in quibusdam libris
+miniatis per eum; ideo dat sibi palmam huius artis, dicens:
+|l'onor @e tutto or suo~, quia scilicet ipse tenet apicem, |e mio
+in parte~, solummodo; et subdit: |ben non sare' io stato s@i
+cortese~, sicut modo sum, |mentre ch'io vissi~, et ecce causam,
+|per lo gran disio dell'eccellenzia~, idest, propter magnum
+desiderium excellendi caeteros in arte mea, |dove mio core
+intese~; quia totum conatum apponebam circa hoc.  Et hic nota
+quod aliqui mirantur hic ex ignorantia, et dicunt: quare Dantes
+nominavit hic homines ignoti nominis et bassae artis, cum
+potuisset dignius facere mentionem de viris excellentissimis qui
+pulcra et nobilia opera fecerunt avidissimi gloriae?  Sed certe
+poeta fecit hoc cum magna arte et jure optimo, quia per hoc dat
+tacite intelligi, quod appetitus gloriae ita indifferenter
+occupat omnes, quod etiam parvi artifices sunt solliciti circa
+illam acquirendam, sicut vidimus quod pictores apponunt nomina
+operibus, sicut scribit Valerius de pictore nobili etc.; et
+concludit Odorisius quod ad culpam necessario sequitur poena,
+dicens: |il fio~, idest feudum, scilicet, pretium et supplicium,
+|si paga qui~, idest, punitur, |di tal superbia~, idest, tam
+superbae gloriae.  
+
+	|89-90.~  Et dicit quod habet bonum pactum, quod non
+tardavit poenitentiam usque in finem.  Unde dicit: |et ancor non
+sarei qui~, idest, in isto purgatorio, imo essem relegatus extra
+cum aliis, |se non fosse che mi volsi a Dio~, a quo recesseram
+per superbiam, |possendo peccare~; quia in vita homo potest
+peccare per libertatem arbitrii, et sic Odorisius tacite
+commendat felicitatem nostri poetae, qui bono tempore convertit
+se ad Deum, et admonet unumquemque ut non sit tardus ad
+poenitentiam.  
+
+	|91-93.  O vanagloria.~  Hic poeta gratia praedictorum
+exclamat ad dissuasionem inanis gloriae, ostendens, quam inutilis
+et vanus est eius appetitus, quia paucissimi sunt pervenientes ad
+summum gloriae, et cum pervenerint rarissime gloria diu durat. 
+Et quia ista litera videtur non modicum obscura, volo te notare,
+quod multi multa vana dixerunt ad illius expositionem.  Aliqui
+enim dicunt, quod gloria parum durat, et cito arescit, nisi
+attingatur ab aetatibus grossis, idest, ab antiquis sapientibus,
+qui sciunt uti ea moderate.  Sed istud nihil valet, quia multi
+juvenes intemperantes mundanam gloriam obtinuerunt, sicut
+Alexander Macedo, cuius pectus fuit insatiabile gloriae: sapienti
+vero clarissimum est spernere gloriam etiam studio virtutis
+acquisitam.  Alii autem videntur subtilius dicere exponentes,
+quod gloria parum durat, nisi attingatur a magnis
+constellationibus; sed ista expositio est alienissima a mente
+autoris, qui videtur velle, et sic est, quod quocumque tempore
+aliqui perveniant ad summam gloriam, licet non tot quot sub
+coniunctionibus magnis, ita quod si tempore Alexandri Magni
+fuerunt magni famosi, sicut Aristoteles, Plato, et alii, et
+tempore Augusti Titus Livius et Trogus, tamen aliis temporibus
+fuerunt et ante et postea viri famosissimi, sicut Homerus,
+Boetius, Averrois.  Sed ne vanus videar discurrendo per plura,
+dico breviter, quod vera intentio poetae est, quod si fama vel
+gloria alicuius debet diu durare in culmine, oportet quod
+coniungatur aetatibus grossis, idest, rudium hominum, intellige
+per respectum ad se: verbi gratia, fama Platonis non diu viguit
+in alto, quia Aristoteles subtilior diminuit et offuscavit
+gloriam eius; sed quia post Aristotelem non venit alius
+subtilior; ideo fama adhuc viget.  Nunc vide literam: dicit poeta
+arguens amorem propriae excellentiae in hominibus: |O vanagloria
+dell'umane posse~, idest, humanarum potentiarum et studiorum
+hominum, sicut armorum, scientiarum, artium; |com' poco dura
+verde~, idest, quam brevi tempore viret, quasi dicat: quam cito
+arescit, |in su la cima~, idest, in summo apice.  Et notanter in
+cima, quia fama multorum durat in longum tempus, sed non
+excellentia singulari; |se non @e giunta dall'etati grosse!~ quia
+si coniungeretur subtilibus, non duraret; verbi gratia, si
+fuissent plures tempore Virgilii, qui scripsissent de eadem
+materia vel simili eo, vel aeque bene, fama eius non durasset jam
+per tot secula in alto apice.  
+
+	|94-96.  Credette.~  Hic poeta confirmat dictum suum per
+exempla moderna, quae clare manifestant expositionem factam; et
+primo ponit exemplum duorum concivium suorum, quorum unus nomine
+Cimabos fuit excellens pictor.  Alter nomine Giottus fuit
+excellentior illo; ideo cito derogavit gloriae eius.  Ad literam
+ergo, dicit poeta, vel Odorisius: |Cimabue~, tuus florentinus,
+|credette tener lo campo nella pintura~, idest, victoriam gloriae
+in arte pingendi, sed spes eius est delusa, quia non reperit se
+in aetatibus grossis, imo subtilioribus.  Unde dicit: |et ora ha
+Giotto il grido~, idest, rumorem famae et gloriae, |s@i che la
+fama di colui~, scilicet, Cimabovis, |oscura.~  Et hic nota,
+lector, quod poeta noster merito facit commendationem Giotti,
+ratione civitatis, ratione virtutis, ratione familiaritatis.  De
+isto namque Giotto faciunt mentionem et laudem alii duo poetae
+fiorentini, scilicet Petrarcha et Boccatius, qui scribit, quod
+tanta fuit excellentia ingenii et artis huius nobilis pictoris,
+quod nullam rem rerum natura produxit, quam iste non
+repraesentaret tam propriam, ut oculus intuentium saepe
+falleretur accipiens rem pictam pro vera.  Accidit autem semel
+quod dum Giottus pingeret Paduae, adhuc satis juvenis, unam
+cappellam in loco ubi fuit olim theatrum, sive harena, Dantes
+pervenit ad locum: quem Giottus honorifice receptum duxit ad
+domum suam, ubi Dantes videns plures infantulos eius summe
+deformes, et, ut cito dicam, simillimos patri, petivit: egregie
+magister, nimis miror, quod cum in arte pictoria dicamini non
+habere parem, unde est, quod alienas figuras facitis tam
+formosas, vestras vero tam turpes!  Cui Giottus subridens,
+praesto respondit: Quia pingo de die, sed fingo de nocte.  Haec
+responsio summe placuit Danti, non quia sibi esset nova, cum
+inveniatur in Macrobio libro Saturnalium, sed quia nata videbatur
+ab ingenio hominis.  Iste Giottus vixit postea diu; nam mortuus
+est in MCCCXXXVI.  Et sic nota, quod Giottus adhuc tenet campum,
+quia nondum venit alius eo subtilior, cum tamen fecerit aliquando
+magnos errores in picturis suis, ut audivi a magnis ingeniis. 
+Ista ars pingendi et sculpendi habuit olim mirabiliores artifices
+apud graecos et latinos, ut patet per Plinium in naturali
+historia.  
+
+	|97-99.  Cos@i.~  Hic poeta adducit aliud exemplum aliorum
+modernorum, quorum uterque fuit pulcer inventor Rhythmorum in
+lingua materna.  Unus vocatus est Guido Guinicellus de Bononia,
+de quo et cuius laudibus habes infra capitulo XXVI.  Alter vero
+vocatus est Guido de Cavalcantibus de Florentia, sine
+comparatione excellentior eo, quia fuit magnus philosophus, de
+quo jam multa dicta sunt Inferni capitulo X, ubi poeta
+commendavit eum a scientia; hic vero commendat eum ab eloquentia,
+dicens: |l'un Guido~, scilicet, Cavalcantes, |ha tolto cos@i~,
+idest, simili modo, sicut Giottus florentinus, |a l'altro Guido~,
+de Guinicellis bononiensi, |la gloria della lingua~, idest,
+dicendi in lingua materna.  Et hic nota, quod iste Guido, sicut
+et Dantes, fuit homo multum speculativus, tardiloquus, faciens
+subtilia et subita scommata.  Accidit autem, quod semel Guido
+cogitabundus deambulabat solus juxta sanctum Johannem in
+Florentia, cum quidam miles florentinus nomine Bettus de
+Burneleschis superveniens cum aliis sociis clamavit super eum,
+dicens: Ecce, Guido, cum tantum cogitaveris, quod inveneris Deum
+non esse, quid feceris?  Cui Guido praesto respondit: Domini,
+potestis dicere juxta domum vestram quidquid placet.  Et continuo
+evolavit a facie eorum, quia erat agillimus ut capreolus.  Tunc
+illi respicientes unus alterum coeperunt dicere, quod Guido erat
+unus immemor, quia id quod responderat nihil portabat, cum non
+haberent plus facere ibi, quam caeteri cives, nec Guido minus. 
+Quibus dominus Bettus dixit: immo vos estis immemores, qui non
+intellexistis eum.  Ipse dixit vobis honeste maximam verecundiam;
+quia, si bene advertitis, arcae sunt domus mortuorum, quas dicit
+esse nostras domos, ad innuendum quod nos et alii vulgares
+ignorantes ad comparationem scientiatorum sumus peius quam
+homines mortui et sepulti; et ideo cum sumus hic, sumus ad domum
+nostram.  Tunc illi intelligentes coopertum scomma Guidonis
+laudaverunt autorem et interpretem eius.  Et subdit poeta: |e
+forse @e nato~, scilicet, aliquis excellentissimus eloquens: et
+dicit signanter |forte~, quia verecunde loquitur de se ipso: |chi
+l'uno e l'altro~, scilicet, utrumque Guidonem, |caccer@a di nido~,
+idest, de domo famae, quam pulcre describit Ovidius in Maiori. 
+Et certe hic praeclarus non solum expulit istos de possessione,
+sed et omnes alios ante se, et post se usque in hodiernam diem. 
+Aliqui tamen volunt quod poeta noster loquatur hic de quodam
+tertio Guidone, scilicet de domino Guidone de Polenta Novello,
+sub quo vixit et mortuus est; qui fuit vir satis intelligens et
+eloquens: sed non credo.  
+
+	|100-102.  Non @e.~  Nunc poeta ex dictis concludit
+vanitatem famae assimilans eam vento; unde dicit: |il mondan
+romor~, idest, fama loquax, |non @e altro ch'un fi$ato di vento~,
+et est optima similitudo, quia fama est volatilis velut ventus,
+et cito pertransit magna spatia terrarum cum magno rumore; unde
+Virgilius: ^Fama malum, quo nil aliud velocius illum Mobilitate
+viget, viresque acquirit eundo Parva motu primo~ etc.  Talis
+recte est ventus; unde dicit: |ch'or vien quinci et or vien
+quindi~, idest, nunc ab una plaga mundi, nunc ab alia, |e muta
+nome perch@e muta lato~, quia unus et idem ventus habet diversa
+nomina, et diversas vires in partibus diversis: ita est recte de
+fama et gloria, quia illud quod est laudabile apud unam gentem
+est vituperabile apud aliam.  Sicut enim dux Venetiarum, qui est
+tam venerabilis apud suos, si accederet ad partes vicinas, ne
+dicam barbaras, certe irrideretur cum cornu suo quod portat in
+capite; sicut etiam ventus venit interdum cum magno impetu, et
+omnia prosternit, ita et fama saepe facit magnos motus, sed cito
+deficit, et vanescit sicut ventus.  
+
+	|103-108.  Che fama.~  Hic poeta, sive Odorisius, ostensa
+vanitate famae, ostendit eius brevitatem; et est litera fortis,
+sed in effectu videtur velle dicere, quod fama hominis, quae
+durat mille annis, imo mille millibus si sit possibile, parva imo
+nulla est si comparetur ad aeternitatem, quia finiti ad infinitum
+nulla est proportio.  Dicit ergo Odorisius: |tu~, scilicet
+Dantes, qui appetis multum gloriam, |che fama avrai pi@u~, quasi
+dicat: parum plus vel nihil plus famae habebis; |se tu scindi~,
+idest, separas et dividas, |la carne vecchia da te~, idest, si
+morieris in senectute, |che se fossi morto anzi che tu lasciassi
+il pappo e 'l dindi~, idest, in infantia quando nesciebas adhuc
+expedite loqui, et nominare panem et denarium.  Et hoc dico:
+|pria che passin mill'anni, ch'@e spazio pi@u corto a l'eterno~,
+idest, respectu aeternitatis infinitae, |ch'un muover di ciglia~,
+idest, quam unum instans indivisibile sit breve, |al cerchio~,
+idest, coelo, |che pi@u tardi in cielo @e torto~, idest, respectu
+nonae sperae, quae movetur in centum annis uno gradu.  Aliqui
+tamen exponunt, quod poeta loquitur hic de circulo zodiaci, qui
+est tortuosus, sed nihil esset dicere hic; ideo cum dicit, |@e
+torto~, debet exponi, idest, torquetur, movetur, volvitur
+circulariter.
+
+	|109-114.  Colui.~  Ista est quarta et ultima pars
+generalis, in qua poeta describit alium spiritum modernum,
+superbum ratione status et potentiae temporalis, ut ostendat
+brevitatem vanae gloriae in eo.  Ad cuius intelligentiam est
+sciendum, quod iste fuit quidam nomine Provinzanus Silvanus,
+dominus nobilis civitatis Senarum, qui cum gente regis Manfredi
+dedit illum terribilem conflictum florentinis ad Montem Apertum,
+de quo plene dictum est capitulis X et XXXII Inferni.  Hic
+Provinzanus in MCCLXlX cum comite Guidone Novello et gente
+Manfredi venit in obsidionem ad quoddam castrum, quod dicitur
+Colle, in comitatu Florentiae, et habuit mille quadringentos
+equites et octo millia peditum.  Tunc Florentiae erat quidam
+vicarius Caroli Veteris, nomine Zannes Bertaldus, qui cum sua
+gente gallica et florentinis ivit contra praedictos.  Senenses
+timentes sibi, voluerunt recedere; sed in recessu fuerunt invasi
+ab hostibus et faciliter debellati.  Provinzanus captus
+decapitatus fuit in campo per dictum Zannem Bertaldum; cuius
+caput abscissum affixum fuit hastae longae, et circumportatum per
+campum.  Ex quo fuit verificatum et declaratum responsum auguris,
+sive daemonis, qui praedixerat sibi: ^Ibis, pugnabis, vinces, non
+morieris in proelio.  Et tuum caput erit sublimatum super
+caetera.~  Paucis senensibus parcitum fuit a florentinis, in
+vindictam eorum qui fuerant occisi paulo ante ad Montem Apertum. 
+Nunc ad literam; dicit Odorisius nostro poetae: |Colui che del
+camin s@i poco piglia~, quia ibat totus contractus per cornicem,
+|dinanzi a me~, quia praecedebat ipsum, |son@o tutta Toscana~,
+quia fuit ad tempus famosus in tota Tuscia; |et ora~, idest, nunc
+de praesenti, MCCC, |a pena se n' pispiglia~, idest, vix
+susurratur et murmuratur de eo tacite, |in Siena~, idest, in
+patria sua, ubi fuit magnus et magnificus dominus.  Quanto minus
+ergo in Florentia vel alibi?  Et ostendit gloriam eius per
+victoriam magnam, quam habuit de superbia florentinorum, dicens:
+|ond'era sire~, idest, cuius civitatis Senarum erat dominus,
+|quando la rabbia fiorentina~, idest, plebs furiosa Florentiae,
+quae tunc erat intolerabilis, |fu distrutta~, idest, debellata et
+prostrata; et sic una superbia punivit aliam, ut est de more;
+unde dicit: |che superba fu a quel tempo~, quia contra consilium
+omnium sapientum voluit pertinaciter ire contra hostes ad
+exterminium suum, |s@i com'@e or putta~, idest, lasciva, vana,
+avara, sicut meretrix.  
+
+	|115-117.  La.~  Hic poeta, sive Odorisius, tangit ex
+dictis mutabilitatem famae per similitudinem herbae, dicens: |la
+vostra nominanza @e color d'erba, che viene e va~, quia nunc
+virescit, nunc arescit; et dicit, quod qui dederat eam, aufert
+eam, scilicet sol, unde dicit: |e quei sol per cui ella~,
+scilicet, fama, tamquam herba, |usc@io acerba della terra~, idest,
+nata est tenella, nondum matura, |la discolora~, idest, aufert
+sibi viriditatem.  Et bene assimilat famam herbae, quae virtute
+solis tempore primi veris egreditur acerba ex terra; postea
+processu temporis caliditas temporis crescendo discolorat, et
+exsiccat eam, sicut patet in messibus; ita fama humana, quae non
+habet radicem stabilem, paulatim in tempore mutatur et amittit
+viriditatem.  Et ita videtur dicere quod tempus est illud quod
+dat et tollit famam homini.  Ideo nota, quod gloria humana est
+quaedam umbra vel aura volatilis, quam qui dant homines eripiunt
+in tempore; unde saepe videmus, quod qui erat gloriosus heri
+hodie est ignominiosus.  Stultum ergo est ponere spem in deposito
+quod locaveris penes instabilem et perfidum, quia populus est
+iniquissimus judex, et ex manibus, imo linguis eius, pendent
+famae hominum.  Et tamen nulla est tanta humilitas quae dulcedine
+gloriae non tangatur.  Unde Tullius: vix invenitur aliquis, qui
+susceptis laboribus non desideret gloriam quasi mercedem rerum
+gestarum, sicut Africanus maior, et magnus Pompeius et alii duces
+avidissimi gloriae.  Sed hic oritur dubitatio, quia videtur quod
+autor contradicat sibi, qui in inferno dixit, quod homo qui
+moritur sine fama vanescit velut fumus in aere et spuma in aqua;
+hic vero assimilat ipsam famam vento et herbae.  Dicendum
+breviter, quod bene dicit hic et ibi, quia ad virtutem sequitur
+fama et gloria, et homo potest licite appetere honorem, laudem et
+gloriam de merito suo, et si referat hoc in Deum, non in
+nocumentum proximi; sed non debet ponere felicitatem suam in ea,
+nec superbire de ea.  Ideo hic damnat superbam gloriam et merito
+quia hic tendit ad poenitentiam.  
+
+	|118-120.  Et io.~  Hic poeta laudat dictum Odorisii, et
+petit de praedicto spiritu, dicens: |et io a lui~, supple, dixi
+illi Odorisio: |tuo ver dir m'incuora~, idest, ponit mihi in
+corde, |buona umilit@a, e m'appiani gran tumor~, idest, mitigas in
+me magnam inflationem ventosae gloriae.  Hoc dicit, quia ipse
+aliquando multum amavit gloriam; et petit: |ma chi @e colui di cui
+tu parlavi ora?~ idest, ille famosus tuscus, de quo dicebas mihi
+nunc?  
+
+	|121-123.~  Et ponit responsionem Odorisii qui manifestat
+nomen et culpam illius spiritus; unde dicit: |quegli~, scilicet
+Odorisius, |rispose: Provenzan Salvani @e qui~, in ista gravi
+poena; et ecce causam, |per@o che fu presuntuoso~, temeritas est
+una de filiabus superbiae, |a recar Siena tutta alle sue mani~,
+idest, ad reducendum totam patriam suam in suam potestatem: fuit
+enim senensis gloriosus et vanus.  
+
+	|124-126.~  Et tangit diuturnitatem poenae ultra
+gravitatem, dicens: |ito @e cos@i e va senza riposo poi che mor@i~,
+jam viginti novem annis; et ostendit quod poena correspondet
+culpae, dicens: |chi @e troppo oso~, idest, quicumque est nimis
+audax, quia superbire non est aliud, quam super alios velle ire,
+|di l@a~, scilicet, in mundo viventium, |rende cotal moneta~,
+idest, luit poenam tam dignam, |a sodisfar~, idest, ad
+satisfaciendum divinae justitiae.  
+
+	|127-132.  Et io.~  Hic poeta movet unam dubitationem
+circa dictum spiritum, et breviter petit quomodo iste pervenerit
+ad purgatorium, qui deberet esse extra, quia tardavit
+poenitentiam usque ad mortem.  Unde repetens illud, quod jam
+totiens dictum est, dicit: |et io~, supple dixi Odorisio: |se
+quello spirito ch'attende~, idest, expectat, |l'orlo~, idest,
+extremitatem, |della vita pria che si penta, dimora l@a gi@u~,
+inter alios relegatos, |e non ascende quass@u~, ad verum
+purgatorium, |se buona orazion~, alicuius viri justi, |non aita
+lui~, impetrando gratiam apud Deum, sicut audies infra de alio
+spiritu senensi, qui fuit adiutus precibus sancti viri, |prima
+che passi tempo~, scilicet, tantum, |quanto visse~, scilicet, in
+peccato sine poenitentia, |come fu la venuta largita a lui~,
+idest, qualiter ergo fuit donatus et concessus sibi accessus ad
+purgatorium?  
+
+	|133-138.  Quando.~  Hic poeta ponit responsionem
+Odorisii ad quaesitum suum, qui breviter respondet quod
+Provinzanus promeruerit istam gratiam a Deo propter opus pium,
+quod cum summa humilitate et benignitate fecit pro amico in
+suprema necessitate.  Ad cuius rei intelligentiam claram volo te
+scire, quod cum quidam amicus Provinzani, captus in conflictu
+Conradini, detineretur in carcere Caroli victoris, adiudicatus
+morti, nisi infra certum brevem terminum solvisset decem millia
+aureorum, ipse Provinzanus exposuit se ad mendicandum suffragia
+pro redemptione amici.  Nam posito banco cum tapeto in platea
+civitatis, coepit humiliter rogare unumquemque ut conferret
+redemptioni istius; et sic in brevi collecta pecunia necessaria
+liberavit amicum.  Ad literam ergo, dicit poeta: Ille Odorisius,
+|disse~: Provinzanus praedictus, |liberamente s'affisse~, idest,
+firmavit et collocavit se, |nel campo di Siena~, idest, in platea
+Senarum, quae vulgo appellatur ibi Campus: et est pulcerrimum
+forum, quasi circulare, circumcinctum magnis palatiis, et in eius
+circuitu solent deambulare nobiles et honorabiles cives, in medio
+vero negotiantes.  Ideo Provinzanus habilius fecit istam
+procurationem pecuniae ibi; et dicit: |quando vivea pi@u
+glorioso~, idest, in illa gloriosa civitate, |deposta ogni
+vergogna~, quia verecundia magna videtur quando dominus rogat
+servum, ut minor maiorem.  Et tangit summam humiliationem
+Provinzani, dicens: |e si condusse a tremar per ogni vena~,
+scilicet, rogando, quo nihil est durius et verecundius.  Ideo
+bene exclamat Seneca II de Beneficiis: ^O onerosum verbum, vultu
+dimisso semper dicendum rogo~; et ecce quare: |per trar l'amico
+suo~; iste vocabatur Vinea, qui captus apud Tagliacocium
+expectabat decapitari; ideo dicit: |di pena, che sostenea nella
+prigion di Carlo~, idest, Caroli regis veteris: et sic vide quod
+Provinzanus redemit amicum de manibus Caroli, qui non potuit
+postea se redimere de manibus vicarii illius.  
+
+	|139-142.~  Et concludit Odorisius: |quest'opera~, tantae
+humilitatis et caritatis, |gli tolse quei confini~, idest,
+liberavit eum a loco confinatorum extra purgatorium.  Et excusat
+se praedicens sibi suum exilium, unde dicit: |pi@u non dir@o~, quia
+bene intelligenti pauca verba sufficiunt, |e scuro so ch'io
+parlo~; quia dixerat quod Provinzanus conduxerat se ad tremendum
+per omnem venam; |ma poco tempo andr@a~, quia forte biennium
+transibit, |che i tuoi vicini~, scilicet, florentini, |faranno
+s@i~, expellendo te de patria, |che tu potrai chiosarlo~, idest,
+declarare aliis, quia cum tremore et pudore disces rogare alios,
+et facit parenthesim.
+
+

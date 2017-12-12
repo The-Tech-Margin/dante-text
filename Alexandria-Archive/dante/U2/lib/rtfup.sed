@@ -1,0 +1,60 @@
+s/\\'c8/>/g
+s/\\'c7/</g
+s/\\'ce/@@Oe/g
+s/\\'cf/@@oe/g
+s/\\'ae/@@Ae/g
+s/\\'be/@@ae/g
+s/\\'9f/,u/g
+s/\\'86/,U/g
+s/\\'9a/,o/g
+s/\\'85/,O/g
+s/\\'95/,i/g
+s/\\'acI/,I/g
+s/\\'91/,e/g
+s/\\'acE/,E/g
+s/\\'8a/,a/g
+s/\\'80/,A/g
+s/\\'9e/#u/g
+s/\^U/#U/g
+s/\\'99/#o/g
+s/\^O/#O/g
+s/\\'94/#i/g
+s/\^I/#I/g
+s/\\'90/#e/g
+s/\^E/#E/g
+s/\\'89/#a/g
+s/\^A/#A/g
+s/\\'8d/$c/g
+s/\\'82/$C/g
+s/\\'abq/$q/g
+s/\\'abQ/$Q/g
+s/\\'9c/$u/g
+s/\\'abU/$U/g
+s/\\'97/$o/g
+s/\\'abO/$O/g
+s/\\'92/$i/g
+s/\\'abI/$I/g
+s/\\'8e/$e/g
+s/\\'83/$E/g
+s/\\'87/$a/g
+s/\\'abA/$A/g
+s/`q/@q/g
+s/`Q/@Q/g
+s/\\'9d/@u/g
+s/`U/@U/g
+s/\\'98/@o/g
+s/`O/@O/g
+s/\\'93/@i/g
+s/`I/@I/g
+s/\\'8f/@e/g
+s/`E/@E/g
+s/\\'88/@a/g
+s/\\'cb/@A/g
+s/+/\\+/g
+s/{\\up6 /+/g
+s/\\par //
+s/}/~/g
+s/{\\ul /\^/g
+s/{\\b /|/g
+s/\\tab /	/g
+s/^~$//g

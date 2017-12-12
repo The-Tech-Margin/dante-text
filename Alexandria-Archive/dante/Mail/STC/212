@@ -1,0 +1,57 @@
+Return-Path: Robert.J.Brentrup@Dartmouth.EDU
+Received: from mailhub.Dartmouth.EDU (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.3/8.9.1) with ESMTP id KAA18101
+	for <steve@avalon.Dartmouth.EDU>; Tue, 25 Jan 2000 10:53:57 -0500 (EST)
+Received: from vixen.Dartmouth.EDU (vixen.dartmouth.edu [129.170.208.15])
+	by mailhub.Dartmouth.EDU (8.9.3+DND/8.9.3) with ESMTP id KAA10644;
+	Tue, 25 Jan 2000 10:52:57 -0500 (EST)
+Message-id: <28440775@vixen.Dartmouth.EDU>
+Date: 25 Jan 2000 10:54:04 EST
+From: Robert.J.Brentrup@Dartmouth.EDU (Robert J. Brentrup)
+Subject: Re: DDP troubles
+To: kirk@Princeton.EDU
+Cc: bobh@Princeton.EDU, steve@avalon.Dartmouth.EDU (Stephen Campbell),
+        Robert.J.Brentrup@Dartmouth.EDU (Robert J. Brentrup),
+        Malcolm.B.Brown@Dartmouth.EDU (Malcolm B. Brown)
+MIME-Version: 1.0
+Content-Type: text/enriched
+Content-Disposition: inline
+
+Hi,
+
+	I've had a look around at the Princeton Dante Project web site using Steve's
+account. The DCIS team was unaware that you had reformatted the results pages
+coming from our system for use in yours.  It seems from Kirk's description that
+you made use of the comment markers we had provided on the result pages for our
+own use for similar purposes.  For various reasons we had decided to solve this
+problem in a different matter and have removed these markers from the redesigned
+version of our system which obviously caused problems for you.  It seems that
+you have in the meantime adapted for the most part to our revised web pages. 
+The one remaining problem I saw overlapped our database and copyright
+description with the header graphics from your site.  Though I can guess that
+there may be some other elements you'd rather not currently include (for example
+our green function buttons and check boxes on the records?).  We certainly can't
+promise that we will not be changing our interface in the future.  Since we
+hadn't looked at the previous setup, it would be most helpful now if you could
+explain what you would be planning to do next if we did nothing else to our
+present system.
+
+
+	I have discussed some of the technical issues of providing results from our
+system for use by yours with the DCIS programmers.  As I mentioned above, we
+have developed another approach to building a customized web site around results
+retrieved from a DCIS database.  We are recommending that we use this code to
+set up a custom view of this database for your use, one that would leave off of
+the results pages the header graphics and other end user functions and links of
+our standard interface.  With a few URL changes you could alter your system to
+make use of this view and probably eliminate the code you have for finding and
+removing these elements yourselves.  Your code could continue to add your own
+header and footer HTML elements to these result pages.  Such a custom view
+should not be perturbed by our continuing work.  If this sounds to you like a
+workable way for us to collaborate, we will implement this view ASAP and provide
+documentation on how to use it.
+
+
+Thanks,
+
+Bob Brentrup

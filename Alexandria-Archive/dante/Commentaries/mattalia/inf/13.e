@@ -1,0 +1,1416 @@
+	|1.  di l@a~: di ritorno all'altra riva del guado,
+attraversato con Dante in groppa.
+
+	|2.  bosco~: un bosco fantastico e abnorme: ma qui il
+<fantastico>, per dirla col De Sanctis, non scoppia dalla potenza
+di un'immagine o di un'indicazione che concentrino in una
+subitanea e unitaria visione una molteplicit@a di viste
+terrificanti, come ai vv. 106-108; @e, invece, realizzato con un
+procedimento alla Poe, ossia con una tecnica quasi matematica, e
+per via di una serie di negazioni puntualmente bilanciate da
+corrispondenti affermazioni.  Non @e un fantastico alla romantica,
+come l'ha sentito e interpretato il De Sanctis, s@i lucidamente
+dominato, e delimitato, dal segno espressivo.
+
+	|3.  nessun~: nella figurazione del bosco @e la
+formula-chiave del canto dove, come ben intravede il Sapegno,
+tutto @e alla rovescia: il bosco @e il rovescio del bosco normale e
+naturale; il dramma del suicida Pier della Vigna @e il rovescio
+del dramma-paradigma di Severino Boezio: il suicidio (questa @e la
+selva dei suicidi!) @e un tragico rovesciamento dell'istinto di
+conservazione e dell'amor di s$e, che @e naturalmente massimo, in
+odio di s$e; l'incarceramento delle anime nelle piante, la forma
+pi@u elementare di vita, presenta alla rovescia il processo
+generativo dell'uomo per cui le fasi vegetativa e animale
+culminano e si riassorbono nell'anima razionale; una caccia
+rovesciata troveremo nella parte finale del canto, dove il
+cacciato @e l'uomo e cacciatori sono i cani; e un rovescio di
+procedura giudiziaria, se l'ultima anima che incontreremo @e un
+giurista, ci presenta il finale, dove un giudice avrebbe come reo
+se stesso, e si condanna a morte eseguendo egli stesso la
+sentenza.  -- |segnato~: non ne portava segno o traccia.  Il
+sentiero evoca idea di frequente e familiare passaggio d'uomini.
+
+	|5.  schietti~: lisci e diritti: ^giunco schietto~ in
+^Purg.~, I, 95.  -- |'nvolti~: attorcigliati, inviluppati.
+
+	|6.  pomi~: frutti; dell'uso virgiliano.  -- |v'eran~:
+abilmente ritardato fin qui, nota il Torraca: e l'attentissimo
+Grabher, ma forzando, a nostro parere, il tono della descrizione
+dantesca: <Dopo la prima impressione, che gi@a preannuncia un
+pauroso luogo d'oltremondo, ecco la descrizione particolare: in
+tre versi in cui l'attonita contemplazione si profonda
+nell'orrida natura, facendone sentire il maligno e oppressivo
+pondo: tre |non~ che escludono ci@o che si aspetterebbe, tre |ma~
+{vv.4-5} che ribadiscono l'incredibile realt@a di ci@o che si vede;
+tre versi di ugual peso, divisi ognuno in un quinario e in un
+senario, e coi quinari tutti formati di un ugual numero di parole
+aventi un ugual numero di sillabe e gli stessi accenti>.  --
+|stecchi~: spini lunghi e pungenti.  -- |con tosco~: con tossico
+o veleno, velenosi: velenosit@a, s'intende, indotta
+dall'impressione visiva.
+
+	|7.  non han~: se il paragone, come il contesto autorizza
+ad intendere, @e col massimo noto o comunemente pensato, la
+Toscana maremmana doveva essere quella distesa di <oscure e
+pericolose selve e solitudini... (e)... selve antiche e
+spaventevoli> di cui parla il Boccaccio, o, se non proprio cos@i,
+una vasta distesa di selvaggia macchia.  L@i fu il <regno> di
+Rinier da Corneto, nominato negli ultimi versi del canto
+precedente; e di Ghino di Tacco (^Purg.~, VI, 13).  -- |sterpi~:
+pruni e altre piante selvatiche di piccola e media altezza, dal
+cui insieme risulta la <macchia>, come gi@a spiegava il Buti. 
+|Sterpi~ gli eretici, in ^Par.~, XII, 100.
+
+	|8.  fiere selvagge~: cinghiali, e fors'anche lupi, e
+altro del genere.  -- |in odio hanno~: nella minuta spiegazione
+del Boccaccio: <Hanno le fiere salvatiche i luoghi lavorati ed
+espediti [^colti~ {v.9}] in odio, in quanto gli fuggono perci@o
+che n$e vi truovano pastura, n$e gli truovano atti alle lor
+latebre, n$e sicuri come le selve: e hannogli in odio, in quanto
+talvolta, uscendo delle selve e vegnendo ne' luoghi colti, tutti
+gli guastano, come massimamente fanno i cinghiari>.
+
+	|9.  Cecina e Corneto~: due citt@a delimitanti
+approssimativamente, a nord la prima e a sud la seconda, la
+Maremma toscana.  -- |colti~: coltivati, si pu@o intendere, e
+quindi: abitati.  ^Terren~... ^non colto~, in ^Purg.~, XXX, 119.
+
+	|10.  Quivi~: in questa selva, nella cui figurazione,
+guardando in controluce l'<inventio>, s'intravede il ricordo di
+letterarie selve; probabilmente le due selve del VI dell'^En.~,
+l'<antiqua silva, stabula alta ferarum> in cui i Troiani vanno a
+far legna per il rogo di Miseno, o la gran selva in cui Enea va
+in cerca del ramoscello d'oro; o la selva tracia in cui Enea
+trover@a il mirto-parlante di Polidoro (^En.~, III).  Come altre
+volte, Dante <contamina>, rifonde nell'unit@a di una nuova e
+autonoma rappresentazione fantastica elementi diversi: dati
+prodotti dal proprio fondo, ricordi di cose viste, elementi di
+letteraria provenienza.  L'episodio virgiliano delle Arpie,
+narrato nel III dell'^En.~, giustifica esteticamente
+l'introduzione di questi mostri nella selva dantesca, e la loro
+introduzione @e anche l'omaggio del poeta al suo ^autore~ e
+^maestro.~  -- |brutte~: sozze; e bruttarono infatti di sterco le
+mense dei Troiani i quali, accanitamente perseguitati da questi
+avidi sporchi e malaugurati uccelli, dovettero ripartire in tutta
+fretta dalle isole Strofadi.  Dante, pur accettandone lo schema,
+ha modificato il tipo dell'Arpia virgiliana, in cui predomina
+l'elemento della rapacit@a: lo ha ridimensionato in una pi@u
+pesante grandezza, attribuendogli un gran ventre e riassorbendo
+in questa indicazione il motivo del continuo stercorizzare su cui
+tanto si insiste nel passo virgiliano; ha poi accentuato
+l'elemento mostruoso-grottesco dell'insieme con l'accenno, posto
+in primo piano, al collo e al viso umano, cio@e di donna.  Ecco
+l'Arpia nella figurazione di Virgilio, ^En.~, III, 215-41:
+<virginei volucrum vultus, foedissima ventris -- proluvies,
+uncaeque manus, et pallida semper -- ora fame... magnis quatiunt
+clangoribus alas...: obscenae... volucres...>.  Nell'^Eneide~ le
+Arpie volteggiano agilissime, mentre quelle dantesche hanno un
+che di tetramente pigro e greve; ma la ragione per cui le Arpie
+virgiliane si scatenano contro i Troiani (l'aver questi fatto
+strage nel gregge sacro al Sole) prefigura la ragione per cui
+Dante le colloca qui, nel bosco dei suicidi, violatori di una
+legge naturale e divina.
+
+	|12.  con~... |danno~: nel racconto virgiliano @e l'Arpia
+Celeno che, dall'alto di una rupe, predice ai Troiani in fuga
+alcune tristi esperienze ch'essi, arrivati nel Lazio, dovranno
+subire.
+
+	|13.  late~: larghe.  -- |umani~: nel testo virgiliano:
+<virginei volucrum vultus>.
+
+	|15.  strani~: poich$e, ed @e comune osservazione, la
+stranezza degli alberi @e stata ampiamente illustrata, sar@a meglio
+riferire a |lamenti~, e il dato completa utilmente la descrizione
+delle Arpie: strani, inusitati, abnormi, combinazione di voce o
+lamento umani e di grido d'uccello.
+
+	|16.  buon~: valente.  -- |pi@u entre~: penetri
+ulteriormente nella selva.
+
+	|17.  sappi~: l'avvertimento @e carico d'intenzioni, come
+risulta dai versi che seguono.  -- |secondo girone~: del settimo
+cerchio, dove Dante, dalle informazioni gi@a fornite dal maestro
+(^Inf.~, XI, 41-5), doveva ricordare esser puniti i violenti
+contro se stessi.
+
+	|18-19.  sarai~: vi ti troverai.  -- |mentre~: uno al
+momento in cui arriverai |all'orribil sabbione~ (cfr. ^Inf.~,
+XIV, 23), ch'@e il terzo e ultimo girone del cerchio.  Perch$e il
+sabbione sia |orribile~, si vedr@a nel canto seguente.
+
+	|20.  per@o~: perci@o.  -- |riguarda ben~: osserva
+attentamente: pi@u di quanto, si sottintende, Dante non avesse
+fatto a proposito della scena di ^Inf.~, III (Acheronte), della
+quale non aveva colto a prima vista la puntuale rispondenza con
+l'analoga scena del VI di ^En.~  Qui si preannuncia rispondenza
+con altro ancor pi@u fantastico e mirabile <inventum> di Virgilio:
+col noto episodio di Polidoro ucciso e trasformato in mirto
+parlante, narrato nel III dell'^En.~ (III, 19-68), il paradigma
+letterario da cui Dante @e mosso per la sua invenzione
+dell'episodio di Pier della Vigna.  La quale, guardata in
+controluce attraverso le parole di Virgilio, si scopre nelle sue
+componenti dantesco-virgiliana, creativa e riflessa, in quel
+singolare intreccio di piani diversi per cui il
+Virgilio-personaggio che parla @e tutt'uno col Virgilio che
+poetando ha trasformato Polidoro in mirto e perci@o qui e ora
+^sa~; ed @e poi lo stesso Dante che trascrive nei termini della
+sua invenzione poetica la dichiarazione della propria dipendenza
+da un illustre modello pur, in quanto Dante-personaggio
+dell'episodio, non sapendo ancora...  -- |s@i~: rinforzativo
+dell'affermazione.
+
+	|21.  torr@ien~... |sermone~: toglierebbero credibilit@a al
+mio discorso, trattandosi di cose che, se raccontate o udite da
+altri, difficilmente sono credute.  L'espressione corrisponde a
+<fide maius> di Ovidio (^Fasti~, II, 1) e alle parole con cui
+Enea introduce o sottolinea il racconto dell'episodio di
+Polidoro: <horrendum et dictu video mirabile monstrum;... eloquar
+an sileam?...>.
+
+	|22.  trarre guai~: lanciar lamenti: ^lamenti saettaron
+me diversi~ in ^Inf.~, XXIX, 43; ^trar guai~ in ^Inf.~, V, 48:
+espressione di largo uso.
+
+	|24.  smarrito m'arrestai~: impressionato e disorientato. 
+Parecchi di questi arresti, per orrore o paura, nell'^En.~  ^Come
+gente di subito smarrita~, in ^Purg.~, VIII, 63.
+
+	|25.  Cred'io~... |credesse~: il famoso <equivoco> o
+catena logico-verbale (qui di tre anelli, e tre al v. 67-9, nel
+discorso di Pier della Vigna), la cui facile e superficiale
+girata in canzonatura parodistica, il lettore deve decisamente
+correggere col richiamo a questo essenziale e determinante dato
+d'informazione storico-letteraria: esso rientra nel tipo delle
+<figure> o procedimenti esornativi dello stile cari al gusto e
+alla rettorica medievali che in essi vedevano il modo di
+risolvere l'uso della lingua in <arte> o <ars> o, diremmo oggi,
+<tecnica>, e di combinare l'ingegnosit@a tecnica con la finezza e
+ingegnosit@a intellettuale.  Retorica <latina>, sar@a bene
+precisare (stilistica dell'epistolografia o dell'oratoria in
+latino, in prevalenza), e appunto nel latino, lingua <secondaria>
+e di apprendimento tecnicamente regolato fin dagli inizi, e alla
+quale l'<ars> era perci@o connaturale in partenza, questi
+procedimenti, anche spinti ai limiti di un gusto che pi@u tardi si
+denominer@a barocco, si presentavano con maggior naturalezza.  Pi@u
+laborioso e difficile, per la stessa ragione, fu il loro
+trapianto nell'italiano letterario, dove il riporto al substrato
+dell'uso vivo ingenerava pi@u facilmente la sensazione del falso o
+sforzato o artificioso, com'@e documentariamente visibile nelle
+^Lettere~ di Guittone, e si rendeva necessaria una pi@u severa e
+vigile misura.  E questa misura, pur nel piano dell'orgoglioso
+compiacimento dell'alta e raffinata tecnica, ebbe Dante, il cui
+latino @e pi@u baroccamente metaforizzante del suo volgare, e il
+cui poema @e sapientemente tramato di <schemi> o <figure>, ma
+entro un limite che solo qui @e decisamente varcato.  E l'averlo
+varcato, e l'ulteriore serrata insistenza su modi espressivi
+nettamente riportabili a moduli di prescrizione rettorica, non
+pu@o non indicare intenzione: o la intenzionale sintonizzazione
+dello stile alla tematica generale, intricata e stravolta, del
+canto (L. Spitzer e N. Sapegno); o l'offerta al lettore (cos@i il
+D'Ovidio) della chiave preludiale al tono stilistico
+dell'episodio di Pier della Vigna.  Due interpretazioni che non
+si escludono l'un l'altra, essendo la prima una pi@u attenta e
+sottile applicazione estensiva della seconda, la quale conserva
+il merito di richiamare l'attenzione su quello ch'@e indubbiamente
+il ^nodo~ del canto, l'episodio di Pier della Vigna, il
+personaggio pi@u rappresentativo, od esemplare, del girone dei
+suicidi.  Quanto alla figura rettorica qui usata, si cita Persio
+(^Satire~, I, 27): <Scire tuum nihil est, nisi te scire hoc sciat
+alter>; e quanto di essa (<traductio> in latino) @e detto nella
+vulgatissima ^Rethorica ad Herennium~ (IV, 14): <cura idem verbum
+crebrius ponatur, non modo non offendit animum, sed etiam
+concinniorem orationem reddit>.
+
+	|26.  bronchi~: variante di ^sterpi~ {v.7}, ^pruni~
+{v.32}, ecc.
+
+	|27.  da gente~: anime; |da~ di provenienza.  -- |si
+nascondesse~: pur preavvertito dei <mirabilia> della selva, Dante
+insiste nella ricerca di una spiegazione plausibile e naturale. 
+Di qui l'invito di Virgilio.
+
+	|28.  Per@o~: perci@o.
+
+	|29.  fraschetta~: ramoscello.  Dante sceglier@a i pi@u
+piccoli, anche per un istintivo e insospettito ritegno che gli
+viene dall'invito di Virgilio e dalle precedenti parole di
+questo; ma Virgilio lo invita a scegliere i pi@u piccoli, perch$e
+sa!
+
+	|30.  tutti~: totalmente.  -- |monchi~: il pensiero
+non-monco, completo, va dalla mente all'oggetto o al vero
+supposto tale: rivelatosi falso quel supposto vero, il pensiero,
+quasi tagliato dal coltello dell'esperienza, resta <monco>, cio@e,
+fuori di metafora, non rispondente al vero.
+
+	|31.  un poco~: di ritegno e titubanza, e in una pausa di
+silenzio da cui esplode, violento nel contrasto, il <grido>.
+
+	|32.  gran pruno~: possiamo immaginare il |pruno~ pi@u
+grande degli altri, e legare questa grandezza materiale
+all'ideale grandezza del personaggio che vi sta rinchiuso: il
+^gran comento~ (^Inf.~, IV, 144); ^il grande Achille~ (^Inf.~, V,
+65); ^il gran Chiron~ (^Inf.~, XII, 71) ecc.
+
+	|33.  schiante~: nell'episodio virgiliano: <... gemitus
+lacrimabilis imo -- auditur tumulo et vox reddita fertur ad
+auris: -- Quid miserum, Aeneas, laceras? iam parce sepulto: --
+parce pias scelerare manus>.  Sempre nel racconto virgiliano, il
+mirto (Polidoro) prima sanguina, poi parla disteso; in Dante
+l'invenzione @e pi@u contrattamente viva e drammatica e pi@u
+efficacemente calcolata nella sequenza dei fatti: prima un grido,
+e poi fuoruscita di parole e sangue, che fa un ben tristo e
+vischiosamente impacciato parlare, mancando l'organo adatto.  La
+rottura di un ramo, per quelle anime-piante, surroga l'apertura
+di bocca.  E tale forse, e ancor pi@u tristo nella sua ingegnosa
+eleganza, bisogner@a immaginare il parlar di Pier della Vigna.
+
+	|34.  di sangue bruno~: bruno di sangue.  In Virgilio:
+<atro liquuntur sanguine guttae -- et terram tabo maculant... --
+...ater... de cortice sanguis>.
+
+	|35.  scerpi~: schianti, laceri: <convellere... ruptae
+radices> nel testo virgiliano.  Queste anime-piante di suicidi,
+che ruppero di violenza il vitale nodo dell'anima col corpo,
+rivelano ora una espiatoria ipersensibilit@a alle anche piccole
+rotture, tutte sentite come atti di grande violenza: |scerpi~,
+^sterpi~ {v.37} sono, infatti, verbi di suono e significato
+forti.  La violenza, nel racconto virgiliano, @e nel gesto con cui
+Enea strappa da terra il cespuglio: in Dante @e nella dolorosa e
+crucciosa reazione dell'anima che accusa, sproporzionatamente, un
+atto di disumana violenza in un semplice e marginale strappo di
+fronde, e nel responsabile dell'atto una mancanza quasi
+inconcepibile di piet@a, quel nobile sentimento che l'uomo per
+naturale amore non prova solo verso il suo simile, ma @e capace di
+estendere anche agli animali, agli esseri che in quanto dotati di
+anima partecipano del divino dono della vita.
+
+	|36.  piet@a~: protesta in cruccioso e vibrato crescendo;
+e in |piet@a~, un'accusa di quasi profanazione che ha la sua
+spiegazione nel vibrato ^uomini fummo~ {v.37} pronunziato subito
+dopo e nella vaga risoluzione della nozione della pianta-pruno in
+cui l'anima @e chiusa in quella del funerario cipresso che sorge
+sul tumulo o tomba: <animamque sepulcro condimus> nell'episodio
+virgiliano, <parce sepulto; -- parce pias scelerare manus>.  Lo
+stesso in Ovidio, ^Metam.~, II, 361 sg., narrandosi la
+trasformazione delle Eliadi: <Parce, precor, mater -- ...nostrum
+laceratur in arbore corpus>.
+
+	|37.  Uomini~... |sterpi~: dall'altissimo all'infimo. 
+L'aurea scala degli esseri terrestri, al cui vertice @e l'uomo,
+<divino-animale> (^Conv.~, III, 2), ponte fra il terrestre e il
+divino (Dio e Angeli), ruota bruscamente nel verso offrendosi in
+proiezione capovolta; come, nella pena assegnata ai suicidi (e
+questa @e la sua formula teorico-dottrinale), appare capovolto, o
+rifatto a ritroso, l'ascendente processo dell'umana generazione
+culminante nell'infusione dell'anima razionale qui, in punizione
+della rottura del vincolo sacrale anima-corpo (vincolo voluto da
+Dio), ricondotta eternamente a vivere nei modi e condizione della
+fase pi@u elementare (vegetale) del processo generativo.  E come
+l'infusione dell'anima razionale (cfr. ^Purg.~, XXV, 61-75) @e
+condizionata dalla perfezione del processo organico-animale, ch$e
+solo allora avviene l'infusione, cos@i il divino vincolo
+anima-corpo, rotto di arbitraria iniziativa, non si ricomporr@a
+mai pi@u, e nello spettacolo delle anime-piante che dopo il
+Giudizio porteranno appesi ai loro rami il proprio corpo (cfr.
+oltre al v. 103-105), vedremo il trino-uno processo dell'umana
+generazione (vegetativo-animale-razionale) scomposto nella sua
+eterna frattura: i due momenti estremi, il pi@u alto e il pi@u
+basso, l'anima razionale e l'anima vegetativa, contratti insieme,
+e il momento intermedio, l'organico-animale, isolato a s$e, nel
+corpo appeso alle anime-piante.
+
+	|38.  ben~: davvero.
+
+	|39.  se~: anche se: -- |serpi~: @e l'esempio-limite e pi@u
+significante, nell'uomo essendo istintivo l'odio o il ribrezzo
+per il serpente, di per s$e, e perch$e, biblicamente,
+figura-simbolo del demonio: ^virt@u cos@i per nimica si fuga~ --
+^da tutti come biscia~ in ^Purg.~, XIV, 37; e cfr. ibid. VIII,
+39, 95.
+
+	|40.  Come~: paragone giustamente lodato, e per rapida e
+incisiva precisione, e per la compatta fusione della suggestione
+fonica col motivo, e, si aggiunga, per l'orrificata impressione
+che, nel primo piano della rappresentazione, s'ingenera dal
+pronto riassorbirsi della prima immagine nella seconda (^s@i della
+scheggia rotta~ ecc.).  -- |stizzo~: pezzo di legno o ramo
+tagliato, ma di una certa lunghezza.  -- |verde~: notazione
+necessaria: perch$e solo lo stizzo appena o di recente tagliato
+contiene umidit@a, e quindi permette il verificarsi del fenomeno
+descritto.  -- |arso sia~: sia messo ad ardere sul fuoco, o:
+prenda fuoco.
+
+	|41.  che~: consecutivo.  -- |geme~: indica fuoruscita a
+stille di linfa o acqua: cfr. ^Purg.~, XXV, 44.
+
+	|42.  va via~: fuoriesce, a forza, per la rapida
+trasformazione dell'acqua in vapore: donde il cigolio.
+
+	|43.  della~: dalla.  -- |scheggia rotta~: non dalla
+frasca che Dante teneva in mano, ma dal ramo, nel punto della
+rottura.
+
+	|44.  parole e sangue~: espressione potentemente visiva,
+e suggestiva di opaco ribrezzo -- |cima~: la parte di ramo tenuta
+in mano; ^fraschetta~ e ^ramicel~ ai v. 29 e 32.
+
+	|45.  cadere~: il verbo ^cade~ dalla pausa-silenzio
+d'inchiodante stupore-terrore della fine-verso 44, ed @e a sua
+volta seguito da un'altra pausa.  -- |stetti~: fermo, inchiodato
+al suolo.  -- |come~... |teme~: nell'atteggiamento tipico di chi
+@e immobilizzato dallo stupore e dal terrore: stupore per le
+^parole~ {v.44}; terrore con orrore, per il sangue.  Nel racconto
+virgiliano: <mihi frigidus horror -- membra quatit, gelidusque
+coit formidine sanguis>.  Il tutto da completare con le altre
+manifestazioni proprie del terrore: gelo e pallore: cfr. ^Purg.~,
+VIII, 42.
+
+	|46.  creder~: credere per vero.  -- |prima~: di far la
+trista prova con lo strappo di un ramoscello.
+
+	|47.  savio~: sostant.: filosofo, sapiente.  -- |lesa~:
+danneggiata e offesa.
+
+	|48.  pur~: solamente.  -- |rima~: estensivam., e
+dell'uso, per: poesia: il gi@a citato racconto di ^En.~, III, che
+Dante, ovviamente, accreditava solo come originale e sorprendente
+invenzione poetica.  Il termine |rima~ @e usato
+anacronisticamente, avvertendosi, sempre, che la nozione
+dell'anacronismo mancava nella cultura del tempo: cfr. nota a
+^Inf.~, I, 58.
+
+	|49.  in te~: verso e contro: la ^lesione~ @e fisica e,
+perch$e cos@i sentita dall'anima, anche morale.
+
+	|50.  incredile~: se solamente raccontata: cfr. v. 20-1.
+
+	|51.  ovra~: azione.  -- |stesso~: in modo particolare,
+vorr@a dire, perch$e egli @e il vero responsabile: lasciando cos@i
+intendere che anche a Dante quel gesto <pesi>, gravi nell'animo,
+dia grave rammarico.
+
+	|52.  'n vece~: a titolo di.
+
+	|53.  d'alcun'ammenda~: un |alcuna~ (qualche)
+accortamente e umanamente diplomatico: Virgilio ammette la
+gravit@a difficilmente riparabile della lesione, andando cos@i
+incontro alle vibrate proteste dell'anima (cfr. v. 33-9).  E
+diplomatico @e anche |fama~, che pu@o dir molto e poco, ma lusinga
+l'anima, la quale pu@o pensare che i due sappiano.  --
+|rinfreschi~: cos@i aveva chiesto Ciacco (^Inf.~, VI, 88-9), e
+cos@i, salvo pochissime eccezioni, chiederanno le anime dannate,
+per le quali Virgilio sa quanto sia potente e allettante una
+promessa del genere.  Nulla invece aveva chiesto Farinata, di s$e
+a s$e sufficiente.  E non un ^rinfresco~, ma un ^conforto~ della
+memoria, una riabilitazione morale nel ristabilimento della
+verit@a, chieder@a Pier della Vigna.
+
+	|54.  su~: dei viventi.  -- |li lece~: gli @e lecito,
+concesso: un vivo, dunque, e qui, sulla punta dell'amo, la dolce
+esca!
+
+	|55.  tronco~: il tronco-parlante, gi@a lo sappiamo, @e il
+capuano Pier della Vigna (in lat. <Petrus de Vinea>), il pi@u
+prestigiosamente famoso tra quei notai e giudici che troviamo
+cos@i largamente legati alle vicende della cultura letteraria, e
+non solo letteraria, italiana del sec. XIII; e la personalit@a
+dominante, dopo Federico II, di quella <magna curia> federiciana
+la cui nobile e feconda azione nel campo delle lettere e della
+cultura Dante loda ampiamente nel ^De V. E.~, assumendola quasi a
+esemplare e prestigioso mito storico.  Nato intorno al 1190, di
+umile famiglia, Pier della Vigna studi@o legge, pare, a Bologna ed
+entrato poi giovanissimo al servizio della <magna curia>, vi
+percorse una carriera culminata nella nomina a protonotaro e
+logoteta generale del regno (1247): poi, l'anno dopo, improvvisa
+e clamorosa, almeno all'opinione dei contemporanei, venne la
+catastrofe.  Sospettato o accusato di tradimento, il gran
+cancelliere fu gettato in carcere, sottoposto, pare, alla pena
+dell'accecamento per abacinazione, e mor@i oscuramente: ma la voce
+corse insistente ch'egli si suicidasse, gettandosi contro il muro
+della propria cella nel carcere di San Miniato al Tedesco, in
+Toscana, o, sempre con lo stesso mezzo, secondo altra versione,
+durante il trasferimento da San Miniato a Pisa o in Pisa. 
+Secondo un'altra versione ancora, raccolta dal Boccaccio e
+dall'^Anonimo~, Pier della Vigna sarebbe stato poi liberato dal
+carcere ma costretto a vivere a Pisa dove peraltro, fatto oggetto
+del disprezzo generale, si uccise.  Coordinatore del grandioso
+apparato della <magna curia>, scrittore in latino elegantissimo,
+e in gran fama, precettista dell'<ars dictandi>, rimatore in
+volgare e probabile ispiratore del gusto letterario a cui
+s'informarono i rimatori della <Scuola siciliana>, uomo di grande
+dottrina, Pier della Vigna nel ritratto dantesco ci si presenta
+come una figura esemplare in cui il <savio> o <doctor> @e
+intimamente compenetrato col <dictator> o l'elegante e accurato
+stilista, e con lo statista per il quale la politica @e stata la
+dominante ragione della sua vita.  Tanto e in tale grado, che al
+momento della suprema prova, com'@e un capovolgimento di destino,
+a Pier della Vigna vennero a mancare adeguate forze di resistenza
+morale, e quella superiore liberazione del <savio> che permette
+di dominare dall'alto l'avversa fortuna, o di mantenere la misura
+nell'ambizione e nell'amore dei terrestri onori.  I rapporti di
+Pier della Vigna con Federico II ricordano per generica analogia
+quelli di Aristotele con Alessandro Magno e di Seneca con Nerone,
+salvo che in Aristotele il <savio> assorbe in s$e e delimita il
+politico in un pi@u profondo equilibrio, e in Seneca @e quel
+distacco dello stoico che manca in Pier della Vigna il quale, con
+l'anima tutta impegnata nell'alto officio, sprofonda e scompare
+nel baratro della sua sventura, come Ulisse nella sua tomba
+marina.  Il richiamo pi@u evidente, tuttavia, @e a quel Severino
+Boezio che nella filosofia, fondendo etica stoica ed etica
+cristiana, trov@o la via di una superiore liberazione: questo
+l'ideale paradigma del dramma di Piero, ma rovesciato nel finale,
+per cui la morte di Severino @e un vero e grande testamento, un
+elevato insegnamento morale e umano che ha il suo testo nel ^De
+Consolatione Philosophiae~: quel che non @e la morte di Piero, pur
+miseranda e compassionevole, opacamente contratta in un gesto
+disperato.  Questi i fili riflessi che Dante ha annodato
+nell'invenzione del suo episodio: si aggiungano l'episodio
+virgiliano di Polidoro e del mirto che sanguina, il generico
+paradigma del <casus virorum illustrium>, e l'ambientazione, che
+fa rientrare il dramma di Piero nel tipo classico del dramma di
+corte: qui una corte imperiale, la massima e pi@u in alto nella
+scala delle realt@a umane, e dove perci@o ascese e cadute hanno la
+loro misura massima.  Anche dell'episodio di Pier della Vigna il
+De Sanctis ha dato un'interpretazione vivacemente drammatica,
+psicologizzando intensamente il personaggio, facendogli scuotere
+dall'interno, per cos@i dire, le affilate e calcolate strutture
+della propria <retorica>: e qui la presa del De Sanctis @e stata
+meno imperiosa, men duramente dominante, ma di effetti, poi, pi@u
+occultamente prolungati, ai quali non @e sempre facile sottrarsi. 
+Oggi, in sostanza, la questione verte sui rapporti fra stile e
+personaggio: se, cio@e, Dante abbia intenzionalmente voluto
+sintonizzare lo stile col personaggio, facendolo parlare nello
+stile ch'egli gli conosceva o presumeva proprio.  La risposta @e,
+ragionevolmente, positiva; intendendosi tuttavia che Dante non ha
+fabbricato la parlata di Pier della Vigna con <pezzi> per cos@i
+dire documentari, di cui si debba e possa cercare il riscontro
+negli scritti di Piero, ma l'ha, inventivamente, interpretata
+nella chiave del suo proprio stile.  -- |dolce dir~: la dolcezza
+dell'esca nell'evocata dolcezza, costante nel sentimento e nei
+discorsi dei dannati, delle memorie del terrestre mondo: ^dolce
+mondo~ e ^vita serena~ aveva detto Ciacco (^Inf.~, VI, 51, 88);
+^dolce mondo~, Farinata (X, 82).  -- |m'adeschi~: il cortese
+preludio, e di elegante blandizie, avviato con la metafora
+dell'esca con cui il cacciatore cerca di attirare l'uccello nella
+pania coperta di vischio, @e chiuso in chiave corrispondente, e
+nello stile e gusto del <dictator> che ama lavorare con elegante
+e sistematica precisione i suoi motivi.  Con questa esca, dice
+Pier della Vigna, voi mi attirate facilmente alla pania (della
+risposta) e io sono ben lieto, e spero non vi riesca sgradito, di
+mordere all'esca.  Questo gusto della lavorazione sistematica, e
+palesemente massima e pi@u in alto nella scala delle realt@a umane,
+e dove perci@o o <arte>, delle metafore o di altre <figure> di
+stile (con campeggiante rilievo nella personificazione dei vv.
+64-9), caratterizza tutto il discorso di Piero, ed ha larghi
+riscontri tanto nelle varie <Artes dictandi> e Arti poetiche del
+medio evo (si vedano ad es. l'^Ars versificatoria~ di Matteo de
+Vend#ome, la ^Poetria nova~ di Goffredo de Vinsauf e il
+^Laborintus~ di Everardo il Tedesco con le loro minute e rigorose
+classificazioni) quanto nei modi stilistici ricorrenti nella
+epistolografia politica o cancelleresca in latino.  La base
+storico-letteraria @e la precettistica classica, da Cicerone a
+Quintiliano ai retori della decadenza latina.
+
+	|56.  tacere~: Arnaldo Daniello, in ^Purg.~, XXVI,
+141-42, con altrettanto ornata cortesia: ^tan m'abellis~...
+
+	|57.  m'inveschi~: m'invischio; cfr. ^Par.~, XVII, 32 (o
+forse <invescare>, andare verso l'esca, in contrappunto ad
+<adescare>?).  La sorpresa e la reazione dell'anima al sapere di
+aver davanti a s$e un vivo non hanno espressione in alcun
+rilevante scatto di tono o segno verbale, e questa @e la misura
+del successivo discorso che la vivace e animata interpretazione
+drammatica del De Sanctis fa oscillare eccessivamente sulla linea
+del suo naturale diagramma.  Si veda come il discorso si svolga
+lucidamente dominato e ordinato nelle sue sequenze (preludio di
+cortesia, presentazione di se stesso, causa del dramma,
+perorazione) secondo i moduli della pi@u razionale oratoria, senza
+scatti e fratture e accelerazioni incomposte di ritmo; e come al
+lucido congegno d'insieme faccia riscontro il polito e perfetto
+congegno dei singoli motivi.  Su questa linea diagrammatica, il
+discorso rifonde coerentemente insieme i diversi e non
+discordanti elementi del ritratto di Pier della Vigna come dalla
+tradizione arrivava a Dante e come questi, restando nel suo
+stile, intende presentarlo: il <dictator> elegantissimo; il
+<doctor> o uomo di alta cultura; il <savio> che una sola volta e
+tragicamente, ma solo in fin di vita, perdette la misura di s$e,
+ma la cui caratteristica @e il sereno autodominio; e persino il
+cortigiano, al quale, di fronte all'augusta persona imperiale e
+nell'infida vita di corte, l'autodominio e l'attento calcolo
+della parola, senza dire del galateo proprio delle corti, sono
+non solo abito mentale ma anche necessit@a.  La chiave rettorica
+del discorso, insomma, @e n$e pi@u n$e meno che la sua chiave
+psicologica.
+
+	|58.  colui~: il De Sanctis ha una vivace battuta sulla
+sinuosa <vanit@a, di Piero, battuta temperata dal Parodi: ci sar@a
+anche vanit@a nell'orgoglio, certo (poich$e @e difficile separare
+nettamente i due sentimenti), ma come sfumatura dell'alto
+orgoglio e del legittimo e comprensibile compiacimento per cui
+Pier della Vigna, sottile <loico> anche, nel presentarsi applica
+con un'angolatura particolare il principio teorico (ben noto a
+Dante!) ogni individuo doversi definire dal suo attributo pi@u
+specificante, che, in questo caso, nel confronto degli altri
+uomini, @e anche il pi@u rilevante: l'essere stato logoteta del
+regno, unico depositario dei segreti imperiali, quasi un <alter
+ego> dell'Imperatore: lasciandosi in dubbio se, ed entro quali
+limiti, egli fosse esecutore o ispiratore, e al dominio formale
+dell'imperatore egli surrogasse occultamente il proprio.  --
+|tenni~: ebbi in mio potere.  -- |ambo~: due le chiavi consegnate
+da Cristo a San Pietro e, nel discorso di papa Bonifacio VIII
+(^Inf.~, XXVII, 104), da questi trasmesse ai pontefici, come
+simbolo delle due principali prerogative dell'Autorit@a
+ecclesiastica, condannare e assolvere.  La chiave esprime
+metaforicamente, e tradizionalmente, autorit@a: le due chiavi, una
+per <serrare> o chiudere, l'altra per <diserrare> o aprire
+autorit@a piena e assoluta, totale dominio.  La metafora risale ad
+^Isaia~, XXII, 22: <dabo clavem domus David... et aperiet et non
+erit qui claudat; et claudet et non erit qui aperiat>; e dal
+^Vangelo~ di Matteo, insieme con l'altra, vulgatissima, delle due
+spade, pass@o nella tradizione.
+
+	|59.  cor~: il segreto animo, come altrove; quel che uno
+sente o pensa dentro di s$e; dei segreti pensieri e sentimenti,
+quindi, dell'imperatore.  -- |volsi~: girai, nella toppa.
+
+	|60.  soavi~: con valore avverbiale: soavemente,
+dolcemente.  In |soavi~ @e rispetto per l'augusta persona, e
+insieme cautelosa e necessaria abilit@a nella difficile e
+aleatoria <arte> di arrivare a cattivarsi completamente la
+fiducia e la confidenza di un uomo come Federico II, che, si pu@o
+facilmente immaginare, sul principio della propria sovrana
+autorit@a non era certamente disposto a transigere.  Le chiavi
+giravano nella toppa, ma n$e si sentiva, e nemmeno pareva (e non
+doveva apparire!) che quelle chiavi esistessero.  Si pu@o
+osservare che l'idea di abilit@a, anche senza psicologizzarla
+eccessivamente nell'anima che parla, che pur ne fa un suo
+<vanto>, @e naturalmente inerente alla natura di una prestigiosa
+carriera politica come quella percorsa da Pier della Vigna e
+dell'ambiente in cui essa si svolse: la <magna curia>, la corte
+imperiale, estremamente complesso apparato politico --
+amministrativo e giurisdizionale.
+
+	|61.  secreto suo~: non i <segreti> interiori, cosa gi@a
+detta nel v. 59, ma la parte pi@u <secreta> dell'<aula> o reggia
+(^l'aula pi@u secreta~ in ^Par.~, XXV, 42), dove sta,
+difficilmente accessibile, l'Imperatore, e dove si prendono le
+supreme decisioni.  In senso lato: i segreti, gli arcani del
+potere.  -- |quasi~: tempera l'enfasi del <vanto> pur lasciando
+intatta l'entit@a del risultato o successo conseguito, grande
+anche con la limitazione del |quasi.~  -- |tolsi~: esclusi,
+arrivai ad escludere.
+
+	|62.  fede~: fedelt@a, la pi@u assoluta lealt@a, e
+soprattutto quel ch'@e eloquente documento di lealt@a e fedelt@a, il
+continuato dispendio di energie fisiche e morali fatto
+nell'adempimento dell'altissimo ma estremamente gravoso compito. 
+Nel ritratto dantesco, il <vanto> di Piero ha la sua naturale
+legittimazione, etica e psicologica, nel positivo riconoscimento
+che Dante, in ^Conv.~, IV, 17, e ^Par.~, VI, 112-14 e IX, 41-2,
+fa del valore della <amativa d'onore> (una delle undici virt@u
+aristoteliche) o ambizione: l'ardente desiderio di fama e onore
+spingendoci al successo e portandoci in alto, ci costringe o
+permette perciostesso di esplicare pi@u largamente, e con utile
+proprio e degli altri, le nostre personali virt@u: meritorio e
+lodevole sforzo, la cui umana ricompensa sono l'onore e la fama. 
+Perci@o nel <vanto> di Piero, e mettiamoci pure una sfumatura di
+vanit@a, che psicologicamente non guasta, @e il legittimo orgoglio
+di un'ambizione nobilmente spesa nella conquista di un alto e
+degno scopo, e l'orgoglio a sua volta @e tutt'uno col sentimento
+dell'onore che gli veniva dall'altissimo compito espletato, e col
+sentimento della propria superiore dignit@a nell'espletamento di
+quel compito, dignit@a dell'uomo giusto, operante con lealt@a e
+giustizia, e pu r umanamente ambizioso di onore e fama, al quale,
+e qui @e il nodo tragico della vicenda, in un momento di accecante
+aberrazione spirituale, tocc@o in sorte di avallare, o cos@i
+intesero molti contemporanei, con un gesto disperato (il
+suicidio), il sospetto o l'accusa che aveva capovolto il suo
+prestigioso destino.  Non fama e onore ma, qui, il nobile
+tormento morale di Piero, disonorata fama, ^orribile dispregio.~ 
+-- |offizio~: carica: in senso elevato.
+
+	|63.  perde'~: perdetti: verbo dolorosamente equivoco: vi
+spesi ogni mia energia, fisica e spirituale; e ve la perdetti, ve
+la spesi inutilmente, ottenendone alla fine un risultato ben
+diverso da quello che mi aspettavo e mi era legittimamente, e
+secondo giustizia, dovuto.  <Operam perdere>, spendere
+inutilmente qualcosa, in latino.  -- |sonni e' polsi~: variante
+di ^le vene e' polsi~ di ^Inf.~, I, 90.  Frase tipica e dell'uso,
+si fa notare, come ^dalla cintola in su~ di ^Inf.~, X, 33:
+malaforza espressiva resta intatta.
+
+	|64-65.  meretrice~: l'Invidia, in personificazione
+rettorica: e ha occhi |putti~, come la ^puttana~ di ^Purg.~,
+XXXII, 149-50, che si guarda avidamente intorno con ^ciglia
+pronte.~  L'Invidia, per definizione, odia il bene del prossimo e
+vuole il suo male, come sapremo da ^Purg.~, XVII, 115-20: e bene
+e male, onore e disonore, in una corte imperiale, che sta al
+vertice della scala, hanno il loro massimo; e il massimo, quindi,
+di tragedie, di ascese e cadute spettacolari: dall'abisso al
+cielo, dal cielo all'abisso.  -- |l'ospizio~: la casa dove
+alberga Cesare, la corte imperiale.  -- |Cesare~: nel vulgato
+significato istituzionale del termine: l'imperatore: cfr.
+^Purg.~, VI, 2; ^Par.~, I, 29 e VI, 11.  -- |torse~: distolse.
+
+	|66.  morte comune~: fonte di male a tutti gli uomini, si
+pu@o intendere; o, forse meglio, dall'equivalenza peccato-malattia
+o morte dell'anima: peccato di un po' tutti gli uomini, dei quali
+il demonio, ^invidia prima~ (^Inf.~, I, 111), @e invidioso,
+richiamandosi il detto di ^Sapienza~, II, 24: <Invidia diaboli
+mors introivit in orbem terrarum>.  -- |vizio~: qui ha
+significato pi@u grave di |morte~: male grave; cancrena, diremmo
+oggi.  Per Dante il dramma di Pier della Vigna @e un drarama
+classico di corte generato dall'invidia, e, ci si consenta la
+ripetizione, rientra esemplarmente nella serie dei <casus virorum
+illustrium> su cui il Boccaccio imposter@a la serie delle
+biografie del suo ^De Casibus~: su questo schema, abbastanza
+comune e probabilmente di origine svetoniana (Svetonio,
+storico-scandalista dell'et@a imperiale, offriva abbondante
+materia in proposito) Dante innest@o, ma presentandolo alla
+rovescia, il paradigma di un altro famoso dramma: il dramma di
+Severino Boezio, autore tanto celebre nel medio evo quanto caro a
+Dante, del <saggio> o <filosofo> che nella filosofia attinge la
+forza per la conquista di una superiore serenit@a nella sventura,
+e per dominare dall'alto la tempesta dell'avversa sorte lasciando
+ai posteri, e scrivendolo in carcere, un memorando insegnamento. 
+Proprio quella serenit@a che manc@o a Pier della Vigna, adusato
+alle sottili e difficili lotte contro gli uomini e l'ostilit@a
+dell'ambiente ma, e forse per questo, per un abito mentale che
+faceva una sola cosa della carica e dell'onore e della ragione
+del vivere e dell'operare, impreparato a quelle tempeste
+interiori che esigono un dominio di s$e non inferiore, e forse
+superiore, a quello che occorre nella lotta contro gli uomini, e
+ricavabile solo dal trasferimento di s$e in una pi@u elevata sfera
+di contemplazione filosofica e morale, dalla quale meglio e
+solamente si ricava la retta misura dei veri beni e dei veri
+mali.
+
+	|67.  infiamm@o~: avvia la trianellare catena
+logico-verbale: |infiamm@o~-^infiammati-infiammar~ {v.68}; cfr. n.
+al v. 25.  -- |tutti~: una vera congiura, contro la quale Piero
+si trov@o impotente a lottare.  |Tutti~, peraltro, potrebbe forse
+aver valore avverbiale, come altre volte: totalmente,
+intensamente.  In grande, il dramma del giusto Romeo (^Par.~, VI,
+127-fine), che tuttavia ha l'alto privilegio di esser riabilitato
+da un imperatore.
+
+	|68.  infiammar~: nel verbo ruota l'oscuro pensiero,
+renitente ad esprimersi in modo pi@u esplicito, di questo
+imperatore che, fedelmente servito per lunghi anni, apre alla
+fine l'anima alle insinuazioni degli invidiosi.  E si apre,
+insieme, uno scorcio storico-psicologico altraverso il quale la
+memoria evoca vagamente il ricordo di certe feroci crudelt@a di
+Federico II, il suo fosco e sospettoso inasprimento degli ultimi
+anni, e quanto pot$e o dovette accadere nell'animo
+dell'Imperatore: il veleno del sospetto che corrode la fiducia, e
+da quel lento e avvelenato ribollimento il duro e inesorabile
+gesto finale.
+
+	|69.  lieti~... |tristi~: da intendere come due massimi,
+ai due estremi opposti: una caduta nell'abisso.  -- |tornaro~: si
+mutarono; cfr. ^Inf.~, XXVI, 136.
+
+	|70.  L'animo~: l'animo, si badi, e non la <mente>,
+travolta dalla scatenata tempesta dei <moti> dell'animo: stupore,
+renitenza ad accettare l'incredibile e l'inaspettato, sdegno,
+ira, rancore, mortificazione, legati nel nodo di una furia o
+<raptus> col quale solamente nel cristiano Piero @e spiegabile la
+suprema irrazionalit@a del gesto suicida, in questo nettamente
+differenziato dal tipo del suicidio classico, per lo pi@u
+freddamente e lucidamente voluto.  Qui @e l'atto di una volont@a
+aberrante, non pi@u infrenata dalla ragione, totalmente asservita
+ai moti dell'animo, e perci@o incapace di vedere nel suicidio non
+la liberazione da un grave male, ma, nell'illusoria liberazione
+da questo, la caduta in male peggiore (la dannazione).  --
+|disdegnoso gusto~: pi@u facilmente intuibile che geometricamente
+interpretabile e forse, se interpretato con tutta e certa
+precisione, privo di quella pregnanza psicologica che ameremmo
+trovarvi.  L'interpretazione @e assai contestata, ma @e certamente
+concettosa la formulazione del concetto d'insieme nel rapporto
+|disdegnoso gusto~ e ^disdegno~ {v.71}: |disdegnoso gusto~ @e
+comunque la causante psicologica che tramutandosi in aberrante
+causante mentale (^credendo~ {v.71}) provoca il gesto suicida. 
+<Vinto da smanioso disgusto> interpreta il D'Ovidio: <mosso a
+sdegno>, il Torraca; <per l'amaro piacere che cercasi nella
+soddisfazione di fiero sdegno>, il Tommaseo, seguito dal
+Momigliano: <indignazione assaporata dentro amaramente> il
+Flamini-Pompeati, il quale cita l'espressione <dedignatione
+motus> del racconto del suicidio di Piero fatto dal forlivese
+Guido Bonatti: ecc.  |Gusto~ nell'uso del poema significa di
+preferenza l'atto o fatto del gustare (cfr. ^Purg.~, XXIV, 152;
+^Par.~, XVII, 131 e XXXII, 122) e quindi ci sembra pi@u nel
+contesto l'interpretazione del Flamini-Pompeati.
+
+	|71.  disdegno~: variamente interpretato anche questo: se
+il ^disdegnoso gusto~ {v.70} @e la prima causante, |disdegno~, per
+evitare la ripetizione, deve indicare nell'oggetto che si crede
+di fuggire col |morir~, qualcosa di diverso da ^disdegnoso gusto~
+{v.70}, e ci pare non del tutto illegittima l'ipotesi di qualche
+commentatore che il |disdegno~ sia l'ira dell'Imperatore, la cui
+persona domina nel discorso e la cui ira, ingiusta o no, in forza
+del lungo e fedele e profondo vincolo, all'anima travolta di
+Piero appare come il massimo male soverchiando la nozione di
+un'altra e ben pi@u temibile ira, l'ira di Dio.  Se questa nozione
+infatti Piero avesse avuta ben netta e salda, il suicidio non
+sarebbe avvenuto.  Nell'ira di Federico tutta una vita @e
+distrutta, e in quell'ira ogni altro vivere a Piero appare senza
+significato, anzi orrendamente stravolto.
+
+	|72.  ingiusto~... |giusto~: in concettosa e vibrata
+sentenza: giusto, avendo giustamente operato, e a norma
+dell'umana giustizia, Pier della Vigna suicidandosi ^fece s$e~,
+trasform@o se stesso in reo, violando una legge naturale e divina. 
+-- |fece~: l'^animo~ {v.70}, sempre, si noti, sede dei moti
+passionali, e non la mente, la quale, se conservata serena,
+avrebbe evitato l'aberrazione del suicidio.  -- |contra~: evoca
+indirettamente l'atto di violenza esercitato contro se stesso, ma
+significa, propriamente: in contrasto, in rapporto a quel ch'ero
+prima, fino a quel momento.
+
+	|73.  Per~: la perorazione o il giuramento in proprio, si
+fa sulle cose pi@u sacre e care; qui, e anche qui c'@e
+stravolgimento, sulle cose pi@u odiate, per quelle |radici~ in
+cui, inauditamente, si svilupp@o e incarcer@o la sua anima.  --
+|nove~: strane, inusitate, strane radici (un'anima razionale!) di
+strana pianta.  Secondo altra interpretazione, meno bene e meno
+utilmente: recenti, per allusione alla morte, relativamente
+recente, di Pier della Vigna (1249).
+
+	|74.  giuro~: il discorso tocca l'acme della sua
+intensit@a in questo |giuro~, la parola dell'uso pi@u comune,
+pronunziata senza ornamenti e giuochi, ma con l'alta
+consapevolezza dell'uomo giusto e d'onore, che del giuramento
+conosce il valore.  -- |ruppi fede~: venni meno al vincolo di
+lealt@a e fedelt@a: cfr. ^Inf.~, V, 62.
+
+	|75.  signor~: nel significato feudale: sovrano, chi
+detiene l'assoluta autorit@a.  -- |d'onor s@i degno~: cavalleresco
+quanto doloroso omaggio al <suo> imperatore, la cui figura
+continua a librarsi alta, se pur vagamente fosca e terribile.  La
+parola e la nozione d'ingiustizia Piero ha riservato a se stesso,
+e sebbene dal suo proprio dramma essa rimbalzi oscuramente verso
+l'alto, non arriva a configurarsi in accusa, frenata da una
+considerazione quasi sacrale.  L'atteggiamento di Piero ha
+qualcosa di religioso e riflette la concezione dantesca della
+divina origine dell'autorit@a imperiale: onoriamo il Signore,
+sembra dire Piero, anche quando la sua mano si abbatte su di noi.
+
+	|76.  e se~: si richiama all'offerta ^ammenda~ dei vv.
+52-5.  -- |riede~: ritorna.
+
+	|77.  conforti~: rinvigorisca, ridia vigore, in modo che
+possa risollevarsi dal disonore in cui |giace.~  @E il tormento
+morale di un uomo che ha speso la vita bene operando per
+l'acquisto di onore e fama, e che, quindi, vede il massimo male
+nel disonore.  Il tutto, coerentemente, nei limiti del ritratto
+qui delineato.  Per i dannati, si aggiunga, non c'@e altra vita
+che il ricordo di s$e nel mondo dei vivi; e per un uomo d'onore
+questo ricordo, se disonorato, @e peggio che morte.  -- |giace~: a
+terra, inerme.
+
+	|78.  del colpo~: in conseguenza del colpo.  -- |diede~:
+inferse, vibr@o.
+
+	|79.  attese~: prest@o attenzione, per vedere se l'anima
+intendesse continuare.  Non par essere propriamente una pausa
+meditativa, nel tipo di quella che segu@i alla prima parte del
+racconto di Francesca (^Inf.~, V, 109-112): Virgilio, infatti, la
+interrompe abbastanza prontamente con una domanda che, come gi@a
+nell'episodio di Farinata (dove peraltro @e Dante a formularla),
+prolungano la parte pi@u animata o drammatica del dialogo in
+un'appendice informativa sulla particolare condizione delle
+anime, ch'@e poi l'equivalente delle spiegazioni offerte da
+Virgilio in coda al dialogo tra Dante e Ciacco nel canto sesto:
+come avviene l'incarceramento delle anime nelle piante? che
+avverr@a dopo il Giudizio Universale?  -- |da ch'el~: dal momento
+che egli.
+
+	|80.  l'ora~: il tempo, qui: in commenti o riflessioni;
+cosa da fare, pi@u utilmente, e con pi@u comodo, in altro momento. 
+Nell'episodio di Francesca, e anche di Farinata, Dante aveva
+preso l'iniziativa di ulteriori domande.
+
+	|81.  parla~: all'anima di tua iniziativa -- |se piace~:
+se |pi@u~ (cose: in lat. <plus, plura>), se altro desideri sapere
+(dall'anima, in risposta a tua domanda), o dire.  In ^Inf.~, V,
+94-5: ^di quel che udire e che parlar vi piace~ -- ^noi udiremo e
+parleremo a vui~; e in ^Inf.~, VI, 78: ^e che di pi@u parlar mi
+facci dono.~
+
+	|83.  satisfaccia~: a domande (quesiti) che ora non
+riesco a pensare, ma che mi verrebbero forse in mente dopo, col
+rammarico di non averle fatte: cfr. ^Inf.~, X, 16-7.
+
+	|84.  piet@a~: la stessa |piet@a~ che nel canto dei
+lussuriosi (l'entit@a della tragedia soverchiando l'idea di
+colpa): cfr. ^Inf.~, V, 72, 117, 140; VI, 59.  In ^Inf.~, IV, 43:
+^gran duol mi prese al cor.~  -- |m'accora~: mi grava il cuore:
+in senso profondo e pieno: cos@i la vedovella, in ^Purg.~, X, 84,
+<si accora> per l'uccisione del figlio.  Secondo il D'Ovidio, la
+spiegazione della profonda piet@a @e nel fatto che Pier della Vigna
+era per Dante <una delle figure storiche che pi@u lo attraevano
+per conformit@a d'idee o di personali tendenze.  Gli pareva non
+solo il consigliero di colui nel quale egli venerava il Cesare e
+l'amico dei dotti e dei poeti, ma il pensatore politico, lo
+scrittore, il cortigiano salito per mera virt@u d'ingegno.  Gli
+coceva quanto mai che il bell'idillio tra il grande imperatore e
+il degno ministro fosse cos@i miseramente finito>.
+
+	|85.  ricominci@o~: riprese a dire.  -- |Se~: augurativo;
+cfr. ^Inf.~, X, 94.  -- |l'uom ti faccia~: l'usitato |uom~
+generico e indeterminato: e l'augurio par trascendere la persona
+di Dante e dilatarsi nel pi@u ampio e consolante augurio che anche
+altri, su in terra, riabilitino la memoria dell'anima.
+
+	|86.  liberamente~: liberalmente, come in ^Purg.~, XXVI,
+139 e ^Par.~, XXXII, 2, e XXXIII, 18: e caratteristica della
+liberalit@a, per Dante (cfr. ^Conv.~, I, 8) @e o prevenire la
+richiesta o, quando questa sia gi@a fatta, di soddisfarla nella
+pi@u larga misura possibile.  Garanzia di Virgilio che il ^vivo~
+ch'@e con lui, verr@a incontro alla preghiera non per puro e dosato
+ricambio (cfr. v. 52-3), ma con particolare impegno e calore.
+
+	|87.  ti piaccia~: formula-invito d'eletta cortesia: ^e
+voi non gravi~, aveva detto l'anima (cfr. v. 56); ^non ti
+dispiaccia~, dir@a, con tono caldo-dolente Brunetto, in ^Inf.~,
+XV, 31; ^piacciati~, con pi@u secca pronunzia, Farinata, in
+^Inf.~, X, 24.
+
+	|88.  si lega~: fa lega vitale; simbiosi, in termine
+d'oggi: ^natura~... -- ^in voi si lega~ in ^Purg.~, XVIII, 27. 
+Il quesito @e di tutta dottrina: come pu@o l'anima razionale, che
+assomma e risolve in s$e, al culmine, i due processi vegetativo e
+animale (conformemente alla dottrina esposta nel XXV di ^Purg.~),
+far lega vitale con una pianta, ossia vivere nella forma di vita
+pi@u elementare (la vegetativa) senza la mediazione dell'apparato
+organico-animale al compimento del quale, nel processo
+generativo, essa viene infusa?  La risposta, se bene
+interpretiamo quanto @e implicito nei vv. 97-100, par esser la
+seguente: l'anima del suicida, per punizione fatta seme,
+ripercorre il processo formativo della forma elementare di vita,
+la vegetale, arrestandosi al limite, poich$e manca l'anello
+intermedio, il corpo, l'apparato organico-animale, di cui essa
+ha, con violenza, fatto getto.
+
+	|89.  nocchi~: nodi; rami ^nodosi e involti~ al v. 5.  --
+|se tu puoi~: sempre che tu possa e sappia.
+
+	|90.  mai~: una volta: la domanda, un po' velata, verte
+sulla condizione delle anime dopo il Giudizio Universale: che
+accadr@a dei corpi? a qualcuna di esse, dopo il Giudizio, sar@a
+concesso di liberarsi dal suo carcere vegetale e di rientrare nel
+corpo?  -- |si spiega~: dal lat. <explicare>: si libera,
+svincola.  Cfr. ^Purg.~, XVI, 54.
+
+	|91.  soffi@o~: |forte~, fortemente: sospiro? pi@u
+probabilmente (D'Ovidio) sforzo per mantenere aperta la rottura
+che sta per richiudersi, e attraverso la quale unicamente l'anima
+pu@o parlare, e non certo senza fatica, mancando l'organo adatto. 
+Cfr. n. 138.
+
+	|92.  vento~: cfr. v. 42: il |vento~ @e soffio che,
+articolato, diventa umana |voce.~  Ma questa voce, nel finale,
+sembra pi@u fonda e cupa.
+
+	|94.  feroce~: il suicidio @e atto di selvaggia violenza
+contro se stessi, provocato dalla ferocia (alla latina), da un
+violento turbine o <raptus> interiore.  Qui Piero alluder@a
+soprattutto a se stesso, suicida ^per disdegnoso gusto~ {v.70}.
+
+	|95.  stessa~: con atto e iniziativa suoi, e non per
+legge naturale.  -- |disvelta~: dice sforzo e scardinamento dalle
+radici, quel che avviene quando si strappi di forza una pianta
+dal terreno.  @E verbo sintonizzato col tema generale del canto e
+con l'attuale condizione dell'anima-pianta; come, poco sotto, il
+rilievo che l'anima @e <balestrata>, lanciata dal caso in un punto
+qualunque, non preventivamente assegnato, com'@e dei semi vegetali
+portati qua e l@a dal vento.
+
+	|96.  Min@os~: il giudice infernale, di cui al canto V,
+4-12.  -- |manda~: del linguaggio giuridico: nel <mandato> o
+ordine, formula della sentenza, si concreta il giudizio di
+Minosse, che ^giudica e manda~ (cfr. v. 6): l'assegnazione al
+cerchio, come sappiamo, @e fatta con gli attorcigliamenti della
+coda.  -- |foce~: qui: cerchio.  Il termine @e usato in vari
+significati: punto di uscita (^Inf.~, XXIII, 129; ^Par.~, I, 37);
+accesso (^Purg.~, XII, 112); porto, localit@a di arrivo (^Par.~,
+XIII, 138).
+
+	|97.  in la~: accompagna il moto in caduta.  -- |e~:
+avversativo: ma non le @e stato ^scelto~, prescelto o preordinato
+un preciso luogo.
+
+	|98.  fortuna~: il caso.  -- |balestra~: scaglia a mo' di
+balestra: moto e urto violento, per cui vien fatto d'immaginare
+che le anime affondino nel terreno donde poi, come semi,
+incominciano a germogliare.  Cfr. ^Purg.~, XXV, 112.
+
+	|99.  quivi~: in quel preciso punto, l@i per sempre
+inchiodata: il moto, sappiamo, @e proprio ed esclusivo degli
+animali, e l'anima @e ormai preda della limitante legge del regno
+vegetale.  -- |gran~: chicco-seme; di |spelta~, una specie di
+biada, spiega il Boccaccio, che <gittata in buona terra cestisce
+molto, e perci@o ad essa somiglia il germogliare di queste misere
+piante>.
+
+	|100.  Surge~: si leva dal suolo, crescendo,
+sviluppandosi progressivamente in |vermena~, virgulto o piccola
+pianta e poi, in |pianta silvestra.~  -- |silvestra~: usato in
+genere (cfr. ^Inf.~, II, 142) in significato metaforico derivato:
+selvaggio, aspro, intricato e contorto: e tali le piante della
+selva, nella rappresentazione iniziale.
+
+	|101.  pascendo~: pascendosi.  Il De Sanctis: <L'anima
+separatasi violentemente dal corpo non lo riavr@a pi@u mai, e riman
+chiusa in corpo estraneo di natura inferiore, in una pianta, e la
+pianta sentir@a ad ogni ora la trafittura che il suicida si fece
+in vita.  La separazione @e eterna, la ferita @e eterna; l'inferno
+de' suicidi e il suicidio ripetute eternamente in ogni istante>.
+
+	|102.  fenestra~: apertura al dolore: e il dolore si
+effonde in lamenti attraverso le rotture.
+
+	|103.  l'altre~: al pari di tutte le altre anime, beate o
+dannate: e quasi mosse da un istintivo desiderio e bisogno di
+riprendere la pienezza del nostro essere (cfr. ^Par.~, XIV,
+61-3), andando poi ad urtare contro il terribile divieto di
+rientrare nei corpi che le anime dei suicidi (sequenza d'immagini
+macabre e terrificanti!) dovranno trascinarsi dietro per venire
+ad appenderli ciascuna al proprio albero.  -- |per~: in cerca di. 
+-- |spoglie~: ^veste~ dell'anima, nel poema, generalmente, il
+corpo; qui ^spoglia~, per essersene l'anima, sdegnosamente,
+spogliata.
+
+	|104.  per@o~: perci@o, malgrado il desiderio di
+ricongiungersi al corpo, desiderio avallato dal dogma cristiano
+della risurrezione della carne.
+
+	|105.  ch$e~... |toglie~: spiegazione in chiave di
+sentenza: non @e giusto tornare a possedere quel corpo di cui, di
+suo arbitrio, contro la legge naturale e divina, l'anima si @e
+privata.
+
+	|107.  appesi~: per il De Sanctis il <fantastico>, tutto
+addensato nella rappresentazione iniziale della selva, va in gran
+parte perduto in quest'ultima parte, in cui egli sente prevalere
+la piet@a di s$e e il <pathos> con un finale di <suoni flebili e
+soavi>.  A nostro parere, la costruzione matematica del
+<fantastico> della rappresentazione iniziale @e ben lontana dal
+pareggiare la cupa e concentrata potenza di questo immaginato
+quadro chiuso nel breve giro di tre soli versi, e i cui
+particolari s'irradiano da un solo punto focale.  E il quadro
+chiude il colloquio in una nota spaurita e terrificante.  <Ma se
+il fantastico muore, rimane il patetico, anzi si accresce. Poich$e
+la spiegazione qui non ha niente di didattico: il concetto
+scientifico @e gittato per incidente in un verso: ^Ch$e non @e
+giusto aver ci@o ch'uom si toglie~ {v.105}.  Il qual concetto
+diviene poesia, perch$e Dante ne ha fatto un individuo, l'anima
+del suicida che racconta la propria storia dal punto che si @e
+separata dal corpo fino al giudizio universale.  Non vi @e
+pensiero, ma azione, narrata con una vigoria ed efficacia di
+stile insolita.  Le parole sono molto comprensive e risvegliano
+parecchie idee accessorie.  Nel ^disvelta~ {v.95} si sente non
+solo la separazione, ma la violenza e lo sforzo contro natura;
+nel ^balestra~ {v.98} non solo il cadere, ma l'impeto e la
+rapidit@a della caduta e l'ampio spazio percorso: nella parola
+^finestra~ {v.102}, si sentono i sospiri ed i lamenti e il pianto
+che esce fuori per quel varco.  E perch$e tanto affetto e vivacit@a
+nella spiegazione di un fatto?  Perch$e @e un suicida che spiega la
+pena del suicidio, e narrando la storia dell'anima suicida
+ricorda insieme la sua propria storia.  Nell'immaginazione di
+Pier delle Vigne vi @e se stesso presente: sul suo labbro vi @e
+"un'anima"; nella sua coscienza vi @e "io": tanto che da ultimo si
+mescola nella narrazione: la terza persona va via, e al ^parte~
+{v.94}, al ^cade~ {v.97}, al ^surge~ {v.100} succede ^verremo~
+{v.103} e ^strascineremo~ {v.106}> (De Sanctis).
+
+	|108.  prun~: pianta intricata e selvaggia.  --
+|l'ombra~: l'anima (chiusa nel suo |pruno~).  -- |sua~: gi@a
+|sua~, ma ora mai pi@u!  -- |molesta~: variamente interpretato:
+gi@a |molesta~, infesta al corpo, da cui volle con violenza
+separarsi; crudele; odiosa, nemica.  Probabilmente, per quella
+ricercata condensazione di significati ch'@e nel gusto di Dante,
+|molesta~ indica l'atto (suicidio), con cui l'anima fu per odio
+|molesta~ al suo corpo, prolungato in una condizione di
+permanente separazione che esprime, almeno fisicamente, odio e
+sdegno.  E in |molesta~ persino il povero e freddo corpo sembra
+prender vita, e come rivolgere un eterno rinfaccio alla gi@a sua
+|molesta~ anima.
+
+	|109.  tronco~: nella sequenza delle variazioni verbali:
+^alberi~ (v. 15), ^bronchi~ (v. 26), ^piante~ (v. 29), ^pruno~
+(v. 32), ^sterpi~ (v. 37), ^tronco~ (v. 55), ^legno~ (v. 73),
+^nocchi~ (v. 89), ^tronco~ (v. 91), ^pianta silvestra~ (v. 100),
+^pruno~ (v. 108).  -- |attesi~: attenti, intenti ad ascoltare;
+d'uso normale.
+
+	|110.  altro~: dell'altro ancora, continuando il
+discorso: il taglio di chiusa, come al solito, @e stato duro e
+netto: cfr. ^Inf.~, V, 138; VI, 90; X, 120.
+
+	|111.  romor~: con valore intensivo, come in ^Inf.~,
+XXIII, 38; pressappoco il ^fracasso d'un suon~ di ^Inf.~, IX, 65. 
+-- |sorpresi~: sopraggiunti, improvvisamente investiti. 
+L'intensit@a dell'impressione s'inferisce dai due fatti: la
+violenza del |romore~, e la sua subitaneit@a.
+
+	|112.  similemente~: di analogia indicativa e
+approssimata, poich$e chi sta alle poste, a differenza dei due
+poeti, qualcosa s'aspetta: ai poeti invece, il romore arriva con
+improvviso rombo d'esplosione.  Il paragone peraltro, nel suo
+fine primo, mira a chiarire la duplice impressione: violenza del
+rumore, e sensazione, quasi spaurita, di essere investiti e
+travolti.  ^Sente~, del v. 113, ha significato intensivo, come
+<sentire amor> di ^Inf.~, XII, 42.  -- |venire~: alla sua ^posta~
+{v.113}, verso il luogo dov'egli sta appostato.
+
+	|113-114.  porco~: il cinghiale, detto anche porco o
+maiale selvatico.  Scena tipica, come dalla tradizione ci sono
+arrivate, come tipiche appunto del costume medievale, le scene di
+caccia al cinghiale in chiave di drammatica animazione e di
+movimento: cacciatori alle poste, cani e battitori fruganti le
+macchie, o lanciati all'inseguimento insieme ai cacciatori a
+cavallo.  Era il tipo di caccia considerato il pi@u ricco di
+emozioni: in una partita di caccia al cinghiale mor@i Filippo il
+Bello (cfr. ^Par.~, XIX, 120).  L'accenno di Dante sottintende
+cosa nota; quanto alla sua ambientazione, si possono ricordare
+gli aspri e folti sterpeti maremmani (v. 7-9) popolati di ^fiere
+selvagge~ che saranno, appunto, cinghiali.  -- |caccia~: come
+^gioco~ in ^Purg.~, VI, 1, tutto quanto fa |caccia~: cani,
+battitori, cacciatori a cavallo lanciati all'inseguimento, il
+tutto colto nell'attimo di maggior tensione-movimento e di
+conseguenti effetti: latrati di cani, urla di cacciatori,
+|stormire~ di frasche, come in vestite da un'improvvisa e
+violenta ventata.  -- |ode~: con doppia funzione e reggenza:
+|ode~ le |bestie~ (cani latrare e cavalli nitrire) e |stormire~
+le frasche.
+
+	|115.  Ed ecco~: di modulo scritturale (<et ecce>), e
+usitato, a cominciare da ^Inf.~, I, 31.  -- |due~: l'ultima parte
+del canto @e riservata agli scialacquatori o dilapidatori delle
+proprie sostanze, da non confondere coi prodighi, puniti insieme
+agli avari (c. VII; e cfr. ^Inf.~, XI, 40-5).  Essi sono
+assimilati ai ^violenti~ per la violenta radicalit@a dell'atto
+distruttivo dei propri averi che si compie quando, trascinati
+dalla passione del gioco (il pi@u rapido dei mezzi distruttivi) o
+di una folle prodigalit@a, li gettiamo tutti o in parte all'urto
+dell'imponderabile e, perdendo, danneggiamo gravemente noi stessi
+e le persone verso le quali abbiamo vincoli di affetto od
+obblighi di altro genere (creditori; chi ci ha fatto fiducia
+affidandoci le proprie sostanze ecc.).  Sono poi uniti ai suicidi
+per la ragione realistica e verificabile che spesso il suicidio @e
+la conseguenza tanto tragica quanto inevitabile della
+dilapidazione operata per questa via (dallo sconvolgimento
+provocato da un atto irrazionale l'ultimo e supremamente
+irrazionale atto del suicidio), e per una ragion dottrinale
+(<ratio> sopra; qui <auctoritas>) che fa capo al IV dell'^Etica~
+aristotelica o al suo commento tomistico, dove la dilapidazione @e
+assimilata a una sorta di autodistruzione della personalit@a nel
+complesso sociale, in cui abbiamo compiti e doveri che, usando
+razionalmente il denaro, avremmo potuto assolvere degnamente, a
+nostro e ad altrui vantaggio.  Questa probabile configurazione
+etico-sociale del reato della dilapidazione riporta coerentemente
+in campo il concetto di ^ingiuria~ (cfr. ^Inf.~, XI, 22-4), di
+danno inflitto violando una norma giuridica o etico-religiosa, e
+si ricollega col discorso sulla ricchezza svolto nei primi
+capitoli del IV di ^Conv.~ (specialm. l'11+o~), e nella canz.
+^Doglia mi reca~...  Ma altri due elementi sono da tener
+presenti: il disdegno intellettuale di Dante per le attivit@a
+mercantilesche, e il dominante sospetto di illiceit@a (per
+rapporto ai mezzi usati) ch'egli fa gravare sulla nozione di
+ricchezze grandi e rapidamente acquistate (cfr. sempre ^Conv.~,
+IV, 11).  Per questa via la poeticamente figurata scena di caccia
+infernale, interpretata, evoca il pi@u realistico e, alla fantasia
+di Dante, presente quadro di una societ@a mercantilesca come
+poteva esser la fiorentina della seconda met@a del Duecento,
+popolata, oltre che di occhiuti finanzieri (e li ritroveremo, in
+combutta coi padovani, nel c. XVI), di individui rapidamente e
+avventurosamente arricchiti, preda dello <snob> del gioco e
+protagonisti, alcuni, di crolli finanziari seguiti da suicidio. 
+Cfr. ^Inf.~, I, 55-7; VI, 74; XI, 43-5.
+
+	|116.  nudi~: sempre, le anime, sono ^nude~ (cfr. ^Inf.~,
+III, 65), ma il fatto, richiamato a seconda dei vari contesti,
+risolve efficacemente in dato visivo la spaurita nozione
+dell'essere inerme e indifeso.  Nudit@a-simbolo della condizione
+del dilapidatore ridottosi a nudo, secondo il D'Ovidio: senza
+capelli (^Inf.~, VII, 57) risorgeranno dalla tomba i prodighi. 
+-- |graffiati~: dai rovi o sterpi ch'essi, in preda a folle
+panico, attraversavano alla disperata.  -- |fuggendo~: fuggenti,
+che fuggivano.
+
+	|117.  romp@ieno~: rompevano: effeto violento da ^forte~
+{v.116} corsa.  -- |rosta~: ostacolo, cosa che si frappone, a
+senso: fraschetta o ramo usato per ripararsi dalle mosche, spiega
+il Boccaccio (^arrostarsi~ in ^Inf.~, XV, 39); ostacolo, cosa
+rizzata a ostacolo o riparo, (probabilmente dal germanico
+<rost>), secondo altra spiegazione, convalidata dal Barbi.
+
+	|118.  Quel dinanzi~: un senese, autorevolmente
+identificato in un Arcolano Maconi che, a dire del Boccaccio,
+sarebbe stato uno dei membri di quella ^brigata~ spendereccia
+(nominata in ^Inf.~, XXIX, 130) in cui altri due senesi ci
+rimisero l'uno gli averi e l'altro il senno, documento di quella
+<vanit@a> che Dante altrove (^Inf.~, XXIX, 122; ^Purg.~, XIII,
+151), con maldicenza municipalesca di fiorentino del resto
+largamente ricambiata dalle altre citt@a toscane, noto come
+stimmata clinica della gente senese.  Un <Lano sanese>, morto
+nello scontro tra Aretini e Senesi avvenuto a Pieve del Toppo
+(1287) @e nominato nella ^Cronica~ falsamente attribuita a
+Brunetto Latini, e sar@a il Lano lodato e poi dislodato dal senese
+Cecco Angiolieri in due suoi sonetti (cit. Torraca).  --
+|accorri~: invocazione tipica di aiuto.  -- |morte~: invocazione
+naturalissima: chi e che altro si pu@o invocare a propria difesa
+nell'Inferno?  Qualche commentatore si richiama alla gridata
+^seconda morte~ di ^Inf.~, I, 117; ma @e pi@u in tono pensare a
+espressione concettosamente coniata per antifrasi all'altra,
+tipica e corrente, <accorr'uomo!>.
+
+	|119.  l'altro~: nominato al v. 133: un Giacomo da
+Sant'Andrea, localit@a nel territorio di Padova, figlio di Odorico
+da Monselice e di Speronella Delesmanini gi@a moglie di Ezzelino
+III da Romano, fatto uccidere, secondo la voce corrente, da
+Ezzelino IV nel 1239.  Sulla inconsulta prodigalit@a con cui
+questo Giacomo dilapid@o rapidamente le grandi ricchezze ereditate
+fiorirono voci e aneddoti poi passati nella tradizione a cui fa
+capo Dante, e ripresi da alcuni commentatori trecenteschi e da
+Benvenuto in particolare, che ne narra alcuni con fiorito gusto
+di novellatore, pur dichiarando di averli uditi personalmente da
+padovani <fide digni>: denari gettati a profusione nell'acqua
+durante una gita sul fiume Brenta; un fal@o d'onore ottenuto
+appiccando il fuoco a case e tuguri di sua propriet@a per
+accogliere degnamente degli ospiti; aneddoto dal Bambagliuoli
+variato in una scena di sapore pi@u schiettamente neroniano, del
+fuoco appiccato a una propria villa per il gusto di vedere una
+bella scena d'incendio, ecc.  -- |tardar troppo~: detto con
+canzonatura (l'atteggiamento di Dante @e freddamente impietoso):
+che aveva anch'egli la sua brava fretta di filarsela.  Cfr.
+^Inf.~, II, 80; ^Par.~, XI, 81.
+
+	|120.  gridava~: pur fuggendo, legato con invisibile filo
+all'atteggiamento di Dante spettatore-scrivente (del quale
+saranno da ricordare le aspre note contro avari e prodighi della
+canz. ^Doglia mi reca~), il padovano inserisce in una scena
+effettualmente tragica una battuta di allegro-macatro umorismo in
+cui c'@e anche, forse, il sottile municipalesco compiacimento di
+Dante nel mostrare un senese fuggente a gambe levate davanti a
+quegli Aretini che due anni dopo, a Campaldino, i Fiorentini
+volsero in disordinata fuga.  -- |s@i~: siffattamente, tanto.  --
+|accorte~: abili all'uopo, veloci: cfr. ^Inf.~, VIII, 41; XII,
+26.
+
+	|121.  giostre~: ironica interpretazione di uno scontro
+bellico in termini di ^giostra~, scontro in festosa, e non
+sanguinosa, parata: cfr. ^Inf.~, VII, 35.
+
+	|122.  fall@ia~: veniva a mancare; la |lena~, respiro,
+fiato.
+
+	|123.  un groppo~: si lanci@o in un cespuglio, cercando di
+fare un solo groppo di s$e e del cespuglio stesso, s@i da riuscire
+invisibile.  Ma l'energia dell'espressione, come quasi sempre in
+Dante, va perduta nella spiegazione.
+
+	|125.  nere~: il nero, colore del diavolo (cfr. ^Inf.~,
+XII, 109), caratterizza la natura di questa caccia nella quale,
+con <infernale travolgimento> dice elegantemente il Parodi, i
+cacciati sono gli uomini.  @E un ingrediente tipico di queste
+<cacce>: un nero cavallo nella terrificante visione del carbonaio
+di Niversa, nella nota novella della ^Specchio~ del Passavanti;
+e, <sopra un corsier nero un cavalier bruno, nella scenografica
+apparizione descritta dal Boccaccio nella novella di Nastagio
+degli Onesti, ecc.  -- |cagne~: |cagne~ ancora nel sogno di
+Ugolino (^Inf.~, XXXIII, 31), ^magre studiose e conte~; e, per
+riferimento al possibile paradigma letterario, ululanti cagne le
+custodi di Ecate in ^En.~, VI, 257; e, ancora ibid. VII, 493 sb.,
+<rabidae canes> in compagnia del cacciante Iulo.  Ma era,
+largamente, abitudine degli scrittori latini indicare di
+preferenza la femmina: ^lupa~, e non <lupo> in ^Inf.~, I, 49. 
+Queste cagne saranno cani-diavoli; figura dei creditori, secondo
+Pietro Alighieri, ed @e interpretazione plausibile; al pari di
+quest'altra: che siano l'espiatorio rovescio della feroce avidit@a
+con cui certi finanzieri-dissipatori sfruttavano e perseguivano i
+poveri.  -- |bramose~: perch$e affamate: ^di tutte brame~...
+^carca nella sua magrezza~ la gi@a citata ^lupa~ del I ^Inf.~  --
+|correnti~: veloci: d'uso normale negli scrittori dei secc.
+XIII-XIV.  Si cita ^Conv.~, I, 12: <bontade propria... nel veltro
+@e ben correre>.
+
+	|126.  come~... |catena~: come cani da caccia (^Inf.~, I,
+101), la cui caratteristica, oltre alla velocit@a, @e l'avidit@a di
+preda per cui, appena liberati dalla catena, si sfrenano a
+frugare per ogni dove, e a corsa pazza se la preda sia in vista. 
+Una scena analoga di assalto canino, con furore e tempesta di
+latrati, in ^Inf.~, XXI, 67-9.
+
+	|127.  s'appiatt@o~: si era appiattato nel cespuglio,
+Giacomo da Sant'Andrea.
+
+	|128.  e quel~: sempre lo stesso: e ben gli sta, per aver
+sprecato il fiato in quel suo impronto umorismo.
+
+	|129.  poi~... |dolenti~: notazione di freddo ed
+essenziale realismo.  Dissipazione espiatoria, nota il D'Ovidio:
+in terra, di beni; qui, dolorosamente, della propria vitale
+sostanza, tanto in questo dannato, quanto, in scala minore,
+nell'anima-cespuglio; e strumento di pena le Arpie, le cagne o,
+come si @e visto qui, un'anima all'altra.
+
+	|130.  scorta~: Virgilio, cfr. ^Inf.~, XII, 54.  -- |per
+mano~: gesto di paterna rassicurazione; e cos@i, un po' sempre,
+nei momenti pi@u gravi o impressionanti: cfr. ^Inf.~, III, 19.
+
+	|132.  per~: per mezzo di, attraverso: e, come gi@a per
+Pier della Vigna, ne escono ^parole e sangue~: cfr. vv. 44, 10 --
+|sanguinenti~: sanguinanti.  -- |in vano~ piangeva invano, vano,
+inutile, essendo per definizione il pianto nell'Inferno: ^pianti
+vani~ in ^Inf.~, XXI, 5.
+
+	|134.  schermo~: riparo.
+
+	|135.  ho io~: perch$e debbo pagare anche per la tua vita
+rea?  Lamento cruccioso e patetico, in cui vibra una nota di
+superstite <pietas> riservata da Dante, come dice anche il pio
+gesto descritto nei primi versi del canto seguente, a un
+concittadino nella cui vicenda, forse, la nota umana della
+tragedia soverchiava la nozione della colpa.
+
+	|137.  punte~: ferite, e pi@u profonde quelle inflitte con
+la spada usata <di punta>: ^punte mortali~ le ferite di Manfredi,
+in ^Purg.~, III, 119.
+
+	|138.  soffi~: le parole escono mescolate a sangue e
+l'anima, prima di poter articolare a sufficienza la parola, come
+gi@a Pier della Vigna (cfr. v. 91) deve <soffiare>, quasi a
+spazzar via il sangue.  Lo stesso, sia pur in modo diverso, per
+le anime dei consiglieri frodolenti nei c. XXVI e XXVII: si
+crolla ^mormorando~ la lingua della fiamma di Ulisse; <rugghia>,
+prima di poter parlare, la fiamma di Guido da Montefeltro.  --
+|sermo~: parole, discorso: in lat. <sermo>; ricorre in ^Par.~,
+XXI, 112.
+
+	|140.  disonesto~: deturpante: di modulo virgiliano:
+<lacerum crudeliter ora... -- ...et truncas inhonesto vulnere
+nares> (^En.~, VI, 495-97).
+
+	|142.  raccoglietele~: qualche commentatore ha sollevato
+il quesito; perch$e l'anima si mostra cos@i desiderosa di riavere
+vicino a s$e le proprie disperse fronde?  Del quesito non si d@a
+risposta; ma nella richiesta @e una profonda e fine notazione
+psicologica: la <pietas> l'amore e anche il pudore di s$e,
+dell'essere e sentirsi, come persona, completo, sia pur in quella
+degradata forma di vita -- |tristo cesto~: sventurato e dolorante
+cespuglio, frutice.
+
+	|143-144.  I' fui~: due i candidati in titolo: il
+giurista Lotto degli Agli, personalit@a di rilievo nella vita
+fiorentina, priore nel 1285, e podest@a in varie citt@a dell'Italia
+settentrionale, morto suicida tra il 1293 e il 1295 in seguito
+alla scoperta di una grave irregolarit@a giuridica da lui commessa
+(Grazioli, Lana, ^Anonimo~); e il finanziere Ruco de' Mozzi,
+morto suicida prima del 1303 (incerto l'anno esatto), e il
+fallimento della cui casa commerciale fu ufficialmente dichiarato
+nel 1301-1302.  Quest'ultimo, secondo il Boccaccio, che cos@i
+scrive: <N@e @e costui dall'autore nominato, credo per l'una delle
+due cagioni, o per riguardo de' parenti che di questo cotale
+rimasero, i quali per avventura sono onorevoli uomini, e perci@o
+non gli vuole maculare della infamia di cos@i disonesta morte;
+ovvero perciocch$e in que' tempi, quasi come una maladizione
+mandata da Dio nella citt@a nostra, pi@u se ne impiccarono;
+acciocch$e ciascun possa apporlo a qual pi@u gli piace di que'
+molti>.  -- |citt@a~: Firenze, la quale, secondo la vulgatissima
+leggenda cara ai fiorentini e infiorata di pittoresche e
+superstiziose storie, avrebbe avuto il suo primo |padrone~,
+religioso padrone o protettore, nel dio Marte poi sostituito,
+alla conversione della citt@a al cristianesimo, da San Giovanni
+Battista.  Maghi e indovini, secondo la leggenda, (cos@i il
+Villani, ^Cron.~, III, I) avrebbero avuto parte nella dedica
+della citt@a, e l'oscuro attaccamento dei fiorentini al loro primo
+patrono si sarebbe manifestato nel salvataggio della statua di
+Marte che, andato distrutto l'antico tempio pagano, fu collocata
+in cima ad una torre in vicinanza dell'Arno.  Nella distruzione
+di Firenze ad opera di Attila, la statua cadde nel fiume dal
+quale fu recuperata solo all'et@a di Carlo Magno quando,
+riedificata la citt@a, i fiorentini tornarono a collocare la
+statua, mutila e corrosa, su un pilastro in un punto del fiume
+che poi corrispose all'inizio di Ponte Vecchio.  E l@i era ai
+tempi di Dante, e alla data della innondazione del 1333, quando
+caduta per la seconda volta nel fiume, vi scomparve, pare,
+definitivamente.  Si trattava, secondo il Davidsohn, di una
+statua raffigurante o Teodorico o qualche altro re barbarico. 
+Per Dante, naturalmente, la leggenda ha un preciso significato se
+interpretata: il superstizioso attaccamento dei fiorentini per
+quella mutila statua esprime la loro funesta propensione per la
+discordia e la guerra.  Cos@i gi@a Brunetto Latini (^Tesoro~, I,
+38, cit. Torraca), deducendo dalla denominazione Campo di Marte,
+nome originario della localit@a su cui poi sorse Firenze: <Perci@o
+non @e punto maraviglia se i fiorentini sono continuamente in
+guerra e discordia, perch$e quel pianeta regna su lei.  Di ci@o,
+deve sapere il vero, maestro Brunetto Latini>.
+
+	|145.  arte sua~: l'|arte~ o professione o attivit@a cara
+al dio Marte: discordia e guerra: -- |far@a trista~: per danni e
+lutti.  Un consimile accenno in ^Par.~, XVI, 145-47.
+
+	|146.  se non fosse~: la spiegazione in un passo
+dell'^Ottimo~: <Alcuna idolatria si parea per li cittadini
+contenere in quella statua, che credeano che ogni mutamento
+ch'ella avesse, fosse segno di futuro mutamento della cittade>. 
+E cos@i anche il Villani (^Cron.~, III, I): <Dicesi che gli
+antichi aveano opinione che di rifarla non s'ebbe podere se prima
+non fu ritrovata e tratta d'Arno l'imagine di marmo, consecrata
+per li primi edificatori, pagani per nigromanzia a Marti, la
+quale era stata nel fiume d'Arno dalla distruzione di Firenze
+infino a quello tempo: e ritruovatala la puosero in su uno
+piliere in su la riva del detto fiume, ov'@e oggi Ponte Vecchio>. 
+-- |'n sul passo~: in un punto della riva dove si pu@o passare
+l'Arno, quindi: a capo, all'inizio di un ponte.
+
+	|147.  alcuna vista~: qualche traccia o segno visibile,
+la statua, pur ridotta in male stato, come la descrive il
+Boccaccio: <Questa statua era diminuita dalla cintola in su:
+senza che essa tutta era per l'acqua e per li freddi e per li
+caldi molto rosa per tutto, tanto che quasi, oltre al grosso de'
+membri, n$e dell'uomo n$e del cavallo alcuna cosa si discernea; e
+per quello se ne potesse comprendere, ella fu piccola cosa per
+rispetto alla grandezza d'uno uomo a cavallo, e di rozzo e grosso
+maestro>.
+
+	|148.  rifondarno~: la ricostruirono da cima a fondo,
+quasi una nuova fondazione: dell'antica citt@a, infatti, frutto
+del passaggio d'Attila, non era rimasto che ^cenere.~
+
+	|149.  Attila~: secondo la tradizione raccolta da Dante;
+Totila, re dei Goti, secondo la tradizione pi@u vulgata, e accolta
+dal Villani.
+
+	|150.  lavorare indarno~: avrebbero speso inutilmente le
+loro fatiche: |lavorare~ @e un infinito sostantivato.  Opinabile
+la ragione perch$e Dante ha introdotto qui e posto in bocca
+proprio a questo fiorentino questa "variazione" intorno alla
+leggenda di Marte.  Probabilmente si tratta di una dotta ed
+elaborata bestemmia (a differenza delle impetuose bestemmie delle
+anime sulla riva dell'Acheronte) contro la citt@a o patria in cui
+l'anima @e nata e ha peccato; con finale sarcastico: per fortuna
+che i vecchi fiorentini riuscirono a ripescare la statua e
+poterono quindi ricostruire la loro citt@a: gran fatto! ne valeva
+davvero la pena!  Gran brutta citt@a: vi ho vissuto, peccato, e mi
+ci sono impiccato...  Tirate voi le conclusioni!
+
+	|151.  Io~... |case~: la frase, nel suo sottile calcolo,
+parrebbe pi@u di giurista che di mercante: io (giudice?) condannai
+me stesso a morte, e luogo di esecuzione della sentenza fu casa
+mia, mentre di solito il |giubbetto~, la forca su cui si
+impiccano i criminali condannati a tale morte, viene rizzata in
+luogo pubblico: giudice dunque, e criminale e boia tutt'insieme,
+e luogo di esecuzione casa mia.  -- |giubbetto~: probabile
+francesismo (<gibet> in franc.), forca; |giubbetto~, forca
+rizzata in luogo pubblico, nel gallicizzante ^Fiore~ (son. L.) --
+|case~: plurale spesso usato per indicare il complesso di edifici
+tra loro collegati di famiglie potenti o facoltose; ^dolenti
+case~, la citt@a di Dite nel suo insieme, in ^Inf.~, VIII, 120. 
+Altri spiega: il plur. del tutto, per sineddoche, invece del
+plurale della parte: mi impiccai alle travi di casa mia.

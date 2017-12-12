@@ -1,0 +1,759 @@
+	|1-2.  La benedetta fiamma~ di Tommaso ha finito il suo
+discorso ripetendo l'antitesi, che Dante non aveva dapprima
+capita.  I rettorici insegnavano che l'antitesi (^contenzione~)
+doveva esser pronunziata dal dicitore in modo speciale; e Dante
+imagina che S. Tommaso si uniformi al precetto.  Cfr. ^Rettorica
+ad Erennio~, III, 19.  ^Fra Guidotto~, III, 4: <Se la favella
+sar@a in contendere, si pu@o fare il dicitore la voce sua in due
+modi: l'uno, che, cominciando di dire con voce mezzana,
+continuando le parole sue, crescer@a la voce, e torcendo il suono,
+dir@a parole molto tosto, gridando>.  |Tolse~: alla latina, lev@o,
+alz@o; cfr. ^Par.~, XXII, 79.  Dunque: Non appena lo spirito alz@o
+la voce pronunziando |l'ultima parola.~  Cfr. ^Par.~, XXI, 79.
+
+	|3.~  Gli spiriti beati, che avevan fatto Beatrice e
+Dante ^centro~ di loro ^corona~ (^Par.~, X, 64-65) ricominciarono
+a girare.  |Mola~: propriamente la macina del mulino, cfr.
+^Par.~, XXI, 81; ^Conv.~, III, 5: <Veggia esso sole girare il
+mondo intorno gi@u alla terra, ovvero al mare, come una mola>. 
+Forse Dante si ricord@o di ^Alfragano~, il quale (VII) dice che,
+sul polo, <il cielo volgesi in giro come una mola da macinare>.
+
+	|4-6.~  Ma prima che la ^mola~ {v.3} di spiriti avesse
+compiuto il |giro~, ecco -- fatto inatteso e mirabile -- ecco
+un'altra circondarla e danzare allo stesso modo, e accordare il
+proprio |canto~ a quello di essa.  |Colse~: riun@i, appai@o; cfr.
+il lat. ^colligo.~
+
+	|7-9.~  Chi pu@o ridire la bellezza del canto di quelle
+|dolci~ voci?  Sorpassa |tanto~ il canto delle |Muse~ e delle
+|Sirene nostre~, quanto lo |splendore~ primamente suscitato dalla
+luce in un corpo, sorpassa intenso, abbagliante, quello, che da
+esso riverbera attenuato altrove.  -- |Nostre Muse~ e |nostre
+Sirene~: alle quali noi sogliamo attribuire incomparabile
+maestria di canto; cfr. ^Purg.~, I, 8-12; XIX, 19 e le n.  Sono
+insieme anche nella ^Consol.~ di ^Boezio~, I, pr. I. 
+^Buonvicino~, ^Scrittura dorata~, 1611-12: <Li pi@u dolcissimi
+versi che in questo mondo sia, Appresso de quilli, pariraveno
+pagura e villania>.  -- |Tube~: cfr. ^Par.~, VI, 72.  -- |Quando~
+ecc.  Da ^Buti~: <Quando lo sole manda li raggi suoi sopra una
+acqua, e di quindi li riflette a qualche parete, lo primo
+splendore del sole vince lo splendore secondo che riflette a la
+parete>.  -- |Refuse~: cfr. ^Par.~, II, 88 n.
+
+	|10-21.  Le due ghirlande di quelle rose sempiterne~,
+degli spiriti beati, si volgevano intorno a noi, e quella di
+fuori corrispose a quella di dentro per ^moto~ {v.6} e per
+^canto~ {v.6}, cos@i come due |archi paralleli e concolori~,
+equidistanti e allo stesso modo colorati, |si volgon~ per |nube~
+rorida quando Giunone manda la sua messaggiera Iride, e danno
+agli uomini sicurezza che il diluvio universale non allagher@a pi@u
+la terra, perch@e questo |patto Dio pose con No@e.~  Con la imagine
+de' due |archi~, il poeta d@a anche la ragione del loro essere
+|paralleli e concolori~, e la illumina con un altro paragone;
+perch@e quel |di fuori~ nasce da |quel d'entro~ come dal suono
+nasce l'eco.  -- |Per tenera nube~: <rorida, ossia che ha piccole
+goccioline semi-lucide a guisa di rugiada, come accade quando
+comincia a piovere, prima della pioggia o anche quando cessa>. 
+^S. Tommaso~, comm. alle ^Meteore~ di ^Aristotile~, III, ii, 3. 
+Cfr. ^Tesoro~, I, iii, 107: caduta la pioggia, la nuvola <diviene
+bianca e leggera, e il sole manda i suoi raggi splendenti tra
+queste nuvole, e fa del suo risplendere un arco di colori
+diversi>.  |Concolori~: lat., de' medesimi colori: non si pu@o
+pretendere che il poeta avesse accennato anche alla disposizione,
+la quale @e diversa.  -- |Quando Giunone~ ecc.  Cfr. ^Purg.~, XXI,
+50 n.  |Iube~: lat. ^iubet~, comanda.  -- |Nascendo di quel
+d'entro~ ecc.  Per riflessione, cfr. ^Par.~, XXXIII, 118.  --
+|Quella vaga~: la ninfa Eco, vagando per le selve (^Purg.~, XXIX,
+4-6), vide Narciso (^Inf.~, XXX, 128, ^Par.~, III, 18), e se ne
+innamor@o.  Respinta, si ridusse a viver negli antri; <ma l'amor
+le dura, E cresce pel dolor della repulsa.  Le sue misere membra
+assottigliate Son da vigili cure, e per magrezza Le si aggrinza
+la pelle, e tutto il succo Del corpo in aer si risolve, e solo A
+lei l'ossa rimangono e la voce.  Poi la voce le resta, e l'ossa @e
+fama Che in forma le si mutano di pietra>.  ^Ovidio~, ^Metam.~,
+III, 395 segg.  -- |Consunse come sol vapori~: <Lo nuvolo... lo
+calore del sole lo spinge e caccia e consuma>; ^Sidrac~, CXXV. 
+-- |Del mondo che~ ecc.  Che la terra |non s'allaga pi@u.~  --
+|Per lo patto~ ecc.  Accanto alle allusioni mitologiche, il
+ricordo biblico; cfr. ^Purg.~, VI, 118-119.  <Disse |Dio a No@e~ e
+a' suoi figliuoli...  Fermer@o il mio patto con voi n@e diluvio
+verr@a in appreso a disertare la terra.  E disse Dio: -- Ecco il
+segno del patto che io fo tra voi e me... porr@o il mio arcobaleno
+nelle nuvole, e sar@a il segno del patto tra me e la terra>. 
+^Genesi~, XI, 8 segg.  |Giammai pi@u non s'allaga~: suoni alti e
+aperti; cinque ^a~, quattro accenti.  -- |Circa noi~: intorno a
+noi.  -- |Estrema~: pi@u esterna.  |Intima~: pi@u interna usato
+solo in questo luogo.  Altri leggono ^cos@i l'estrema all'ultima~,
+che vuol dire: <cos@i l'ultima all'ultima!>  Ma cfr. ^S. Tommaso~,
+comm. citato: <Talvolta si vedono due iridi, ma pi@u di due non
+appaiono se non di rado, delle quali una contiene l'altra, e
+ognuna di esse ha tre colori principali, della stessa specie e di
+numero eguale; ma nell'iride, la quale sta di fuori e contiene
+l'altra, i colori sono pi@u oscuri e meno appariscenti che non in
+quella, la quale sta dentro ed @e contenuta.  E rispetto alla
+collocazione, questi colori sono posti in modo contrario, perch@e
+l'iride pi@u interna (^interior~), e che @e contenuta dall'altra,
+ha il colore purpureo nella periferia o circonferenza maggiore,
+il verde nella mezzana e l'arancio nella minore.  Ma l'iride pi@u
+grande esterna ha nel circolo minore il purpureo, in quello
+dimezzo il verde, e nel superiore l'arancio>.
+
+	|22-27.~  Abbiam veduto formarsi le due splendide
+ghirlande, e volgersi; guardiamole pi@u da vicino.  |Gaud,iose~,
+piene di gaudio, e |blande~, con atti gentili scambievoli,
+danzarono un tratto, e |alta festa grande~ si fecero cantando e
+fiammeggiandosi |luce con luce~ -- quasi, a male agguagliare, due
+girelle concentriche d'un fuoco artificiale -- sinch@e si
+fermarono |insieme~, nello stesso istante, per effetto dello
+stesso |volere~, a quel modo che |insieme~ bisogna chiudere e
+rilevare i due |occhi~ a guardare cosa, che piace.  L'esposizione
+procede vivace, rapida sino al terzo v. -- si badi alla forza di
+|grande~, di |cantare~, di |fiammeggiarsi~; alle ripetizioni |s@i
+e s@i, luce con luce~ -- l@i si allenta la voce e si fa soave,
+carezzevole, -- |gaud,iose e blande.~  Al quarto, si risolleva con
+impeto, colpendo |insieme~, dando come un balzo dalla prima
+sillaba di |punto~ all'ultima di |voler~: poi, d'un tratto, si
+frena e s'indugia a |quetarsi~, che ritrae l'improvvisa fermata
+delle due <corone>, di botto.  -- |Tripudio~: lat., danza (di tre
+passi); cfr. ^Par.~, XXVIII, 124.  -- |Come gli occhi~ ecc.  Cfr.
+^Par.~, XX, 147.  Anche a cose, che non piacciano, gli occhi si
+chiudono e aprono insieme; ma il paragone @e qui adattato agli
+spiriti <gaudiosi>.  -- |Conviene~: non possono altrimenti, <Ched
+un occhio vedire Non poria per certanza>; ^Ant. r. volg.~, LXV.
+
+	|28-30.  Del cor~: di dentro.  |Nove~: giunte da poco. 
+-- |Che~ ecc.  La quale |voce~ volgendomi io l@a, donde veniva, mi
+fece parere l'|ago~ della bussola, che si volge alla tramontana. 
+Fu movimento infrenabile e prontissimo.  Il paragone non era
+nuovo: Dante gl'impresse concisione e rapidit@a.  -- |Alla
+stella~: ^G. Guinizelli~, ^Madonna~: <S@i che l'ago si drizza ver
+la stella>; ^Ristoro~, VII, iv, 2: <L'aguglia, che guida li
+marinari, per la virt@u del cielo, @e tratta e rivolta alla stella,
+la quale @e chiamata tramontana>.  -- |Al suo dove~: cfr. ^Par.~,
+III, 88.
+
+	|31-33.  L'amor, che mi fa bella~: ^virt@u di carit@a~,
+^Par.~, III, 71.  -- |Dell'altro duca~: di S. Francesco, a
+proposito o in grazia del quale ^S. Tommaso~ ha detto tante belle
+cose di S. Domenico; cfr. ^Par.~, XI, 35-42, 118 segg.  -- |Del
+mio~: parla un francescano per render cortesia alla cortesia di
+un domenicano.  |S@i ben~: elogio, che @e, insieme, ringraziamento. 
+-- Era costume che, il giorno di S. Francesco, un frate
+predicatore, e, il giorno di S. Domenico, un frate minore dicesse
+il panegirico del santo, di cui si celebrava la festa.
+
+	|34.  Degno @e~: vigorosa affermazione.  -- |S'induca~:
+uno de' significati del lat. ^inducere~ @e quello di recar in
+mezzo parlando, far menzione.  Perci@o a |dov'@e~ par preferibile
+^dove~: degna cosa @e che, dove si parla dell'uno, si parli
+dell'altro.
+
+	|35-36.~  Riprende il concetto di ^S. Tommaso~, ^Par.~,
+XI, 35-36.  -- |Ad una~: cfr. ^Purg.~, IV, 17.  |Militaro~:
+combatterono.  -- |La gloria~: cfr. ^Par.~, XI, 96 n.  -- |Luca~:
+cfr. ^Inf.~, IV, 151, ^Purg.~, V, 4.
+
+	|37-39.  L'esercito di Cristo~: non tutti i Cristiani,
+che compongono la Chiesa (^la sposa~); ma gli ordini religiosi. 
+<Lo stato di religione @e una certa disciplina ovvero esercizio di
+tendere alla perfezione>; ^Somma t.~, II-II, 186.  -- |S@i caro~
+ecc.  Perch@e non si @e capito di qual |esercito~ parli qui il
+poeta, non s'@e interpretato, o s'@e interpretato male
+quest'inciso: a |r,iarmar l'esercito~, a rendere di nuovo i
+religiosi buoni a combattere, non ci volle poco.  Gli antichi
+ordini, corrosi dall'opulenza e dall'ozio, erano decaduti;
+Francesco e Domenico armarono quelli da essi fondati della
+povert@a e dell'operosit@a, efficacissime armi.  -- |Alla 'nsegna~:
+alla croce.  -- |Suspiccioso~: lat. ^suspiciosus~, dubbioso,
+timido; cfr. ^Purg.~, VI, 108.  |Raro~: diminuito di numero.
+
+	|40.~  Cfr. ^Inf.~, I, 124.
+
+	|41-42.  Alla milizia~: all'^esercito di Cristo~ {v.37}. 
+Dio provvide per sola sua |grazia~, non perch@e |la milizia~
+meritasse aiuto.  ^Guittone~ a San Domenico: <era 'l secol
+perduto Non ne avesse Dio proveduto, Di te ecc.>.
+
+	|43-45.~  L'ha |detto~ S. Tommaso, nel c. preced. 31-36. 
+^Guittone~: <T'ha per soccorso a noi dato>.  -- |Campioni~: cfr.
+^atleta~ nel v. 56, ^Inf.~, XVI, 22.  ^Guittone~: <A la Chiesa tu
+defensione E forte campione>.  -- |Al cui fare, al cui dire~: per
+quel, che operarono, e per quel, che insegnarono; cfr. ^Purg.~,
+XVII, 61.  -- |Disv,iato~: cfr. ^Par.~, IX, 131.  |Si raccorse~:
+si ravvide.  ^Ant. r. volg.~, DCCCXLV: <E quindi si raccorga
+s'alcun ci erra>.
+
+	|56-57.  Calaroga~, Calahorra, ch'ebbe la fortuna di dare
+i natali a S. Domenico, @e in Ispagna, onde spira |Zeffiro~, che
+porta all'Europa la primavera, e propriamente nella vecchia
+Castiglia.  -- |Surge ad aprire~ ecc.  ^Petrarca~: <Zeffiro torna
+e 'l bel tempo rimena E i fiori e l'erba>.  ^Novelle fronde~:
+cfr. ^Purg.~, XXXIII, 144.  -- |Non molto lungi~ ecc. 
+Generalmente si crede che |le onde~, di cui qui parla Dante,
+sieno quelle dell'Oceano Atlantico.  Dunque, forse Dante non era
+bene informato?  Separano Calahorra dall'Oceano quasi due terzi
+della larghezza della penisola iberica!  Pi@u vicina @e la citt@a al
+Golfo di Guascogna; ma chi, e specialmente quale italiano, si
+sogn@o mai di dire che il sole si nascondesse dietro le coste
+della Francia?  La verit@a @e che Calahorra |siede~ lontana non pi@u
+di due miglia dall'Ibero, dall'Ebro (cfr. ^Purg.~, XXVII, 3) e
+che Dante ebbe a mente i versi di ^Virgilio~, ^En.~, XI, 912-913:
+<Il roseo Febo stava gi@a per immergere i suoi cavalli stanchi
+nelle onde dell'Ibero>.  <Stanchi> @e l'effetto; Dante sostituisce
+la causa; |per la lunga foga~: per aver corso troppo, cfr.
+^Purg.~, XXXI, 18.  -- |Talvolta~: cfr. ^Par.~, XI, 51 n. e si
+noti la corrispondenza: qualche volta il sole nasce dal Gange,
+qualche volta si nasconde nell'Ebro.  |Ad ogni uom~: Dante
+credeva che solo il nostro emisfero fosse abitato, cfr. ^Inf.~,
+XXVI, 117.  -- |Siede~: cfr. ^Inf.~, V, 97.  -- |Grande scudo~,
+ecc.  I re di Castiglia portavano nello scudo, da un lato, un
+leone sopra un castello, dall'altro, un castello sopra un leone;
+perci@o il leone, da un lato, stava sotto (|soggiace~),
+dall'altro, sopra (|soggioga~).  Cfr. ^Purg.~, XII, 101, dove
+|soggioga~ rima con |foga.~  -- |Vi nacque~: nel 1170.  |Amoroso
+drudo~ amante.  Non sempre |drudo~ aveva significato cattivo. 
+^Conv.~, II, 168: <quando e sa (la filosofia) alli suoi drudi
+ragiona>; ^Pseudo-Brunetto~: <Grigorio era il pi@u drudo caro
+amico, che lo 'mperadore Federico avesse>; ^B. dello Scelto~:
+<uno cavaliere, che molto era suo amico e suo drudo>.  -- |Il
+santo atleta~: cfr. v. 44 e la n.  -- |Benigno~ ecc.  @E,
+invertiti i termini, l'esempio di contenzione di parole (cfr. v.
+3 n.), che d@a la ^Rettorica ad Erennio~, 106: <Ai nemici ti
+mostri placabile e agli amici inesorabile>.  S'incontra anche
+nelle rime de' Provenzali.  |Benigno a' suoi~: l'antico biografo
+di S. Domenico nota la benignit@a del volto sorridente di lui,
+espressione della serenit@a dell'animo.  -- |A' nemici crudo~:
+vedremo come, al v. 100.
+
+	|58-60.~  Probabilmente Dante conobbe e segu@i il racconto
+di ^Iacopo da Varaggio~ nella ^Leggenda d'oro~: <Prima che egli
+nascesse, la madre vide in sogno che ella portava nel ventre un
+cagnolino con una fiaccola ardente nella bocca, il quale, uscito
+dal ventre, accendeva tutto quanto il mondo.  Anche ad una
+matrona, la quale l'aveva levato al fonte, pareva che il bambino
+portasse in fronte una stella, che illuminava il mondo intero>. 
+-- |Come fu creata~... |fu repleta~: cfr. ^Purg.~, XXV, 6872.  --
+|Che~, stando ancora |nella madre~, nell'utero, |fece profeta
+lei~, mosse la madre il profetare.  ^Laude cortonesi~: <Profet@o
+la vecchiarella Ch'avea in corpo l'alta stella>.
+
+	|61-66.~  ^L'amoroso drudo~ {v.55} della fede la spos@o
+sin da quando fu battezzato.  Cfr. ^Inf.~, IV, 33-36 n.  ^Somma
+t.~, III, 66: <Il battesimo @e una certa protesta di fede, e
+perci@o si dice sacramento di fede>.  -- |Si, dotar~: nelle
+sponsalizie, negli sponsali, del Medio Evo, la sposa recava la
+dote, allo sposo, e questi le faceva una donazione: la fede e
+Domenico, dice Dante, si dotarono mutuamente |di salute~, perch@e
+senza il battesimo egli non avrebbe mai potuto <conseguire la
+salute dell'anima>, salvarsi (^Somma t.~, l. cit., 68); ed egli
+s'impegn@o a combattere per la salute di lei contro i nemici di
+lei.  -- |Che, per lui, l'assenso diede~: la madrina risponde: --
+Voglio -- quando il sacerdote domanda al bambino: -- Vuoi essere
+battezzato?  -- |Che uscir dovea~: cfr. ^Inf.~, II, 18.  |Rede~:
+^i frati suoi~, cfr. ^Par.~, XI, 112.
+
+	|67-69.~  E perch@e il nome di lui esprimesse ci@o, che
+egli |era~ veramente, di qui, dal cielo, scese l'ispirazione di
+chiamarlo dal |possessivo~ di Colui, del quale |era tutto~, del
+Signore.  Dove @e da osservare che in lat. signore si dice
+^dominus~, onde l'agg. ^dominicus~, del signore; si ricordi la
+domenica, ^dies dominicus~, giorno del Signore.  Ma Dante non si
+content@o della sola derivazione di ^dominicus~ da ^dominus~;
+volle anche l'interpretazione mistica, come si vede nel terzetto
+seguente.  |Perch@e fosse qual era~ ecc.  Cfr. ^V. N.~, XIII: <Li
+nomi seguitano tutte le nominate cose> (sono conseguenza delle
+cose); ^Giudice Ubertino~: <Se 'l nome deve seguitar lo fatto>. 
+-- |In costrutto~: ^Dominicus~ si risolve in una costruzione di
+parole o proposizione: ^qui Domini est~, che @e del Signore.
+
+	|70-72.  Ed io ne parlo si come dell'agricola~ ecc.  Tra
+le parecchie spiegazioni del nome di S. Domenico, che ^I. da
+Varaggio~ raccolse, @e questa: <Custode della vigna del Signore>. 
+|Agricola~: lat., agricoltore; cfr. ^Conv.~, IV, 2.  ^Guittone~:
+<O nome ben seguitato E onorato dal fatto, Domenico degno nomato,
+^A Domine~ dato for patto!  Chi tanto fu per Dio tratto, Gi@a fu
+mill'anni, in vertute, D'ogni salute coltore?  Agricola a nostro
+Signore, Non terra, ma cori, coltando, Fed'e speranz'e amore, Con
+vivo valor sementando, Oh quanti beni, pugnando, Fai, di diserti,
+giardini Con pomi di fino savore>.
+
+	|73-75.~  Cfr. ^Inf.~, IX, 85, ^Purg.~, XXIX, 136.  --
+Ecco perch@e |parve.~  |Il primo consiglio, che di@e Cristo~,
+cominciando il suo primo discorso alle turbe, fu quello
+dell'umilt@a: <Beati i poveri di spirito, perch@e di questi @e il
+regno dei cieli>.  ^Matteo~, V, 3, cfr. ^Purg.~, XII, 110 n.  E
+sin dall'infanzia Domenico dimostr@o di amarlo.  Ricorre tre altre
+volte la parola |Cristo~ in rima, in tre altri canti della terza
+cantica (cfr. ^Par.~, XIV, 104 segg.; XIX, 103 segg.; XXXII, 83
+segg.) ossia terminando dodici versi (3+9), forse perch@e Dante
+attribuiva un misterioso potere al tre e al nove, come si vede
+nella ^V. N.~  Che |Cristo~ non rimi con alcun'altra parola in
+tutto il poema, @e testimonianza della riverenza del poeta.  Ma,
+non si deve dimenticare, i trattati di rettorica consigliavano di
+accrescer la dignit@a del discorso con la ^conversione~, cio@e
+facendo terminare successivamente con la stessa parola parecchie
+proposizioni o frasi.  ^G. Faba~ d@a questo esempio di
+^complessione~, che accoppiava in s@e la ^ripetizione~ e la
+^conversione~: <Chi ci liberer@a dalla mano del nemico?  Cristo.
+Chi intercede continuamente per noi presso il padre?  Cristo.  -
+Chi deve venire a giudicare tutti?  Cristo.  Chi, dunque, si deve
+temere ed amare, sopra tutti?  Cristo>.
+
+	|76-77.~  <Essendo egli ancora fanciullo e affidato alle
+cure della nutrice, spesse volte fu ritrovato lasciare il letto e
+sedere sopra la nuda terra>.  ^Da Varaggio.~  |Tacito e desto~:
+non paiono cose da bambini!
+
+	|78.~  Cfr. ^Purg.~, VIII, 12.  |Come dicesse~: se ne
+stava ^tacito~ {v.76}; ma l'atto compiuto era per s@e eloquente. 
+|Venuto a questo~: per seguire e per insegnare l'umilt@a.
+
+	|79-81.~  Il racconto di tali particolari suscita nello
+stesso narratore l'ammirazione; ma il terzo verso non si
+aspetterebbe da uno spirito, che legge in Dio.  |Veramente
+Felice~: di nome e di fatto, per quel maraviglioso figliuolo.  --
+|Veramente Giovanna~: vera <Grazia di Dio>.  Questo @e il
+significato del nome in ebraico, riferito non solo nelle
+^Derivazioni~ di ^Uguccione~; ma anche nel ^Tesoro~ (I, ii, 69),
+e chi sa in quante altre opere; ma pare che Dante, non fosse ben
+sicuro dell'esattezza dell'interpretazione volgata (|se val come
+si dice~).
+
+	|82-84.~  Prima una supposizione infondata, poi la
+verit@a.  |Mo s'affanna diretro~ ecc.  Ora con molta fatica si
+studia diritto canonico o medicina per giovarsene ad arricchire
+nel |mondo~, non cos@i Domenico; cfr. ^Par.~, XI, 4-9. 
+|Ostiense~: Enrico da Susa, professore di diritto canonico a
+Bologna e a Parigi, autore di una divulgatissima e ammiratissima
+^Somma delle decretali~ (cfr. ^Par.~, IX, 134 n.), nominato
+cardinale vescovo d'Ostia nel 1261, m. dieci anni dopo.  Degli
+studiosi delle opere dell'|Ostiense~ e di altre analoghe, dice
+Dante, nella ^Lett.~, VIII, 7, che <conseguono censi e benefizi>. 
+-- |Taddeo~: di Alderotto, fiorentino, eccellente medico e
+professore di medicina a Bologna, m. nel 1295, scrisse commenti
+alle opere d'^Ippocrate~ e di ^Galeno~ (^Inf.~, IV, 143) consigli
+medici, ricettari ecc.  Tradusse anche dal latino in volgare
+l'^Etica~ di ^Aristotile~; non bene, a giudizio di Dante,
+^Conv.~, I, 10.  -- |Verace manna~: ^il pan degli angeli~, la
+vera sapienza; cfr. ^Par.~, II, 11, ^Purg.~, XI, 13.
+
+	|85.~  <Mandato allo studio di Palencia, per amore della
+sapienza, in dieci anni non assaggi@o vino>; ^Da Varaggio.~ 
+|Picciol tempo~... |gran dottor~: gli accenti danno rilievo
+all'antitesi.
+
+	|86-87.  Circuir~: andare attorno, andare in cerca.  Cfr.
+^Meditazione della povert@a di S. Francesco~: <Incominci@o
+sollecitamente, s@i come desideroso, circuire per vie e per
+piazze, cercando quella cosa, la quale amava l'anima sua>;
+^Matteo~, XXIII, 15: <circuite il mare e la terra per fare un
+proselite>.  |La vigna~, imagine biblica per il popolo d'Israele:
+cfr. le parole di ^I. da Varaggio~ nella n. a' vv. 70-72. 
+|Imbianca~, si fa bianca perdendo il color verde se il |vignaio~,
+il vignaiolo, non @e buono.  Cfr. ^Lett.~, V, 2: <@E vicino quegli,
+che fitter@a la sua vigna ad altri agricoltori, i quali, al tempo
+del raccolto, renderanno il frutto della giustizia>.
+
+	|88-96.  Non~... |ma~ di nuovo.  E alla |sedia~ papale
+|non~ domand@o <censi e benefizi>; |ma~ licenza di combattere per
+la vera fede contro gli eretici.  Questo il concetto principale,
+ma lo spirito beato -- ed @e spirito di uno, che, in terra, fu
+frate, che fu cardinale -- dalla domanda di Domenico toglie
+occasione di censurare i papi degeneri, e la curia.  La |sedia~
+papale, dice, un tempo fu |pi@u benigna~ che non ora |ai poveri
+giusti~, virtuosi; non per colpa sua, ma per colpa di chi vi
+|siede~ non segue gli esempi de' pontefici buoni.  E si ferma a
+notare quel, che si soleva chiedere, e si otteneva: licenza di
+|dispensare~, distribuire in buone opere, in elemosine, solo il
+terzo o la met@a delle rendite de' beni ecclisiastici --
+concessione del |primo~ beneficio |vacante~ per morte -- facolt@a
+di volgere a proprio vantaggio le decime, che sono de' poveri di
+Dio.  |Colui che siede~ ecc.  Non credo che si riferisca al solo
+Bonifazio VIII, che <sedeva> nel 1300.  S. Domenico and@o a Roma
+nel 1215: poco dopo capit@o alla corte pontificia Giacomo di
+Vitry, e vi vide <molte cose, che lo rattristarono vivamente:
+vide tutti tanto assorti negli affari secolari e temporali... che
+quasi non era possibile parlare di affari religiosi>.  -- |Due~
+ecc.  Cfr. ^Par.~, VI, 138 ecc.  Si noti la solennit@a, con cui
+questa sentenza latina chiude la serie delle negazioni.  Cfr.
+^Somma~, II-II, 87: <Anche le stesse decime, che si danno ai
+ministri della Chiesa, dobbon essere dispensate da essi ad uso
+de' poveri>.  -- |Ma contra~ ecc.  <Incominci@o a pensare
+all'istituzione di un ordine, uffizio del quale fosse andar per
+il mondo (ecco il ^circuir~ {v.86} dantesco) predicando, e
+fortificare la fede cattolica contro gli eretici.  And@o a Roma
+insieme con Folco vescovo tolosano (Folchetto di Marsiglia,
+^Par.~, IX, 94) e domand@o al Sommo Pontefice di fondare un
+ordine, che si chiamasse de' Predicatori>.  ^Da Varaggio.~  Gi@a
+prima S. Domenico aveva predicato contro gli eretici della
+Provenza, <Albigesi, Ariani, Manichei e Valdesi>.  |Mondo
+errante~ fuori della schietta dottrina cattolica; ma qualche cosa
+deploravano gli eretici, che anche Dante deplor@o, nella Chiesa
+romana.  ^Nov. ant.~, XXXIII: <Ah mondo errante e disconoscente!> 
+Cfr. ^Par.~, XX, 67.  -- |Lo seme~, del quale |ventiquattro
+piante ti fasciano~: stanno intorno a Dante, lo circondano due
+ghirlande, ognuna formata da dodici spiriti, |piante del seme~
+della fede; cfr. ^Par.~, X, 91-93.
+
+	|97-102.~  Dell'acquisto della |dottrina~ ha gi@a, parlato
+espressamente (v. 85); della forza di |volere~ erano prove il
+^primo amore~ {v.74} all'umilt@a, in maniera singolare manifestato
+sin dall'infanzia (vv. 74-78) e la domanda rivolta al papa (vv.
+88-96): |dottrina~ e |volere~ furono le principali sue armi
+quando, avuta la ^licenza~ {v.95} del papa, ottenuto l'|officio
+apostolico~ di generale del nuovo ordine, |mosse~ ad esercitarlo. 
+Stupendamente efficace nella concisione di un solo verso, e per
+il suono, l'imagine del |torrente~, che, premuto da |vena~
+profonda, sgorga impetuoso; ma al |torrente~ continua a
+somigliare il santo quando percuote negli |sterpi~, e |pi@u
+vivamente~ percuote dove incontra |resistenza~ maggiore.  Si veda
+come la frase frusta <estirpare l'eresia> (il ^Villani~, V, 25
+scrisse che S. Domenico fu <stirpatore degli eretichi>) ritrovi
+qui tanta energia da parer nuova di conio nella raffigurazione
+degli eretici a modo di |sterpi~, non svelti, percossi con
+|impeto.~  -- |Ch'alta vena preme~: cfr. ^Purg.~, XXVIII, 121 n. 
+^Sidrac~, CXXX: <Se un uomo si sagnasse nel capo, lo sangue
+n'uscirebbe per le vene (le vene lo porterebbero alla ferita
+della lancetta); altres@i aviene dell'acqua nella terra; l'acqua
+va per mezzo della terra, di lungo e per traverso e in alto e per
+lato, l@a dove ella la truova tenera e frale, ella la criepa e
+scende (esce) d'alto e di basso>.  E ^Ristoro~, che attribuiva
+l'ascensione delle acque nei monti alla pressione dell'acqua del
+mare VI, 7: <Il grande peso... prieme e caccia l'una acqua
+l'altra entro per li pertugi e forati, e per forza la fa andare a
+sommo il monte>.  -- |Dove~ ecc.  In Provenza.  Il cronista ^G.
+di Puylaurens~ dice che due forti campioni di Dio, Diego vescovo
+di Osma e Domenico (il santo), dopo due anni e pi@u di
+predicazione in Provenza, vedendo di non valere a estinguere
+l'incendio, furono costretti a domandare aiuto alla sede
+apostolica; e allora, per ispirazione divina, <fu provveduto a
+istituire predicatori perpetui contro gli eretici, e
+principalmente per questa causa sotto il santo vescovo signor
+Folco, sorse l'ordine de' Predicatori, del quale prese la guida e
+la cura insieme il vessillifero santo Domenico>.
+
+	|103-105.~  L'imagine de' |rivi~ richiama quella del
+^torrente~, e torna l'imagine dell'orto (v. 72), e gli
+|arbuscelli~ si metton di contro agli ^sterpi~ {v.100}.  |Diversi
+rivi onde~ ecc.  Diversi ordini religiosi.  -- |Pi@u vivi~:
+<L'arbore riverdisce e riviene quando egli @e bene abeverato e
+servito dal giardiniere>; ^Sidrac~, CCXXI.
+
+	|106-111.~  Lo spirito segue l'esempio di San Tommaso
+(cfr. ^Par.~, XI, 118-120), e, dall'elogio di S. Domenico, toglie
+argomento di esaltare il <collega> di lui San Francesco.  |Biga~:
+carro a due ruote, il carro della |Chiesa~; cfr. ^Purg.~, XXIX,
+115-117 e la n.  |E vinse~ ecc.  Verso sonante.  -- |Civil
+briga~: guerra civile.  <Eresia non @e scisma; l'eresia si oppone
+all'unit@a della fede, lo scisma all'unit@a della Chiesa>; ^Somma
+t.~, II-II, 39, cfr. ^Inf.~, XXVIII, 35 n.  -- |Ben ti dovrebbe~:
+cfr. ^Purg.~, XXXI, 55.  -- |Assai~: cfr. ^Par.~, I, 17. 
+|Tomma~: lat. ^Thoma~, Tommaso.  -- |Dinanzi al mio venir~: egli
+@e venuto appunto per questo, vv. 31-33, 143-145.  -- Si congiunga
+|di cui~... |fu s@i cortese.~
+
+	|112-114.~  Ma la rotaia, che il cerchio della ruota
+segn@o, @e abbandonata; la regola di S. Francesco non @e osservata. 
+Il v. spezzato dopo la quarta, con l'accento su la seconda
+sillaba, ha tono di rimpianto.  Non mi pare che |la parte somma~
+significhi S. Francesco, il quale @e rappresentato come ^una
+ruota~ {v.106} tutta intera.  -- |L'orbita~ ecc.  Cfr. ^Purg.~,
+XXXII, 29-30, ^Ecl.~, II, 3.  -- |S@i ch'@e la muffa~ ecc.  Cfr.
+^Inf.~, XVIII, 106 n.  Vive il proverbio: <Il buon vino fa gromma
+e il cattivo muffa>.  ^Della Lana~: <Dov'era in principio la
+|gromma~, cio@e la fraternitade e la unitade, mo si gli @e la
+|muffa~ cio@e la discordia e la disunione>.
+
+	|115-117.~  Cfr. ^Par.~, XI, 124 segg.  Da questo
+terzetto, ma specialmente dal v. 117, non s'@e potuto, sinora,
+cavare un senso soddisfacente.  Io tengo per certo che |quel
+dinanzi~ sia la parte anteriore del corpo, e |quel di dietro~ la
+parte posteriore, le spalle.  Gettando |quel dinanzi a quel di
+dietro~, i Francescani si torcono dalla via buona, ^fanno retroso
+calle~; cfr. ^Inf.~, XX, 39, ^Purg.~, XXX, 123; ^Lett.~, VIII, ai
+Cardinali: <essendo che le spalle, non i volti, rivolgiate al
+carro della Sposa>.  |Si mosse dritta~ ecc.  ^S. Bonaventura~,
+^Vita~: <Molti, non solo compunti di devozione, ma infiammati dal
+desiderio della perfezione di Cristo, sprezzata ogni vanit@a del
+mondo, seguivano le pedate di Francesco>.  -- |Quel dinanzi~ ecc. 
+<Se noi consideriamo li animali, troviamo in loro sei parti
+opposite l'una all'altra, siccome la parte dinanzi e quella di
+dietro ecc.  Non @e ragione che l'uomo tenga rivolti i piedi in
+una parte, e la testa nell'altra per opposito, che sarebbe a
+ritroso>.  ^Ristoro~, I, 24; III, 1.  Giova ricordare la
+favoletta del gambero e della madre: <Muove quello i primi passi,
+ma incurva il tergo e cammina con andatura de' piedi retrograda>. 
+|Gitta~: accenna a sforzo violento, come per cosa non conforme
+alla natura.
+
+	|118-120.~  I Francescani, subito dopo la morte del loro
+<padre e maestro>, si erano divisi in ^Spirituali~,
+intransigenti, i quali, volevano l'osservanza rigida della regola
+da lui lasciata, e ^Conventuali~, i quali, volendo temperata
+quell'eccessiva rigidit@a, scivolavano all'eccesso opposto.  La
+lotta fu vivissima tra la fine del secolo XIII e il principio del
+XIV, e fin@i co' la peggio degli Spirituali.  Nel suo testamento
+il santo aveva prescritto: <E a tutti i miei fratelli chierici e
+laici comando fermamente per ubbidienza che non mettano chiose
+nella regola n@e in queste parole (nel testamento) dicendo: Cos@i
+s@i vuole intendere: ma, come Dio diede a me di dire e scrivere la
+regola e queste parole puramente e semplicemente, cos@i
+semplicemente e puramente e senza chiosa la intendiate, e
+santamente l'osserviate operando fino alla fine>.  Divisi e
+infiammati nell'aspra contesa intorno al modo d'intendere il
+precetto, i seguaci del santo parte volsero le spalle alla
+<sposa> di lui, alla povert@a; e parte all'ubbidienza, all'umilt@a,
+alla mansuetudine.  |La mala cultura~ del grano, predice ora lo
+spirito, produrr@a presto pessimo raccolto, perch@e non si
+raccoglier@a se non |loglio~, e in tanta quantit@a, che la cassa
+non baster@a a contenerlo tutto: vuol dire che i Francescani
+saranno divenuti quasi tutti pessimi.  La fiera ironia del
+|loglio~, che si lamenter@a del poco spazio, il poeta la fa
+trovare da colui, che, sin da quarantanni prima, aveva dipinto a
+vivi colori e deplorato la crescente corruzione dell'ordine; cfr.
+sotto, n. al v. 127.  Per le imagini, cfr. ^Purg.~, XXX, 118,
+^Conv.~, IV, 7: <Cos@i come l'erba multiplica nel campo non
+cultivato, e sormonta e cuopre la spiga del formento, sicch@e,
+disparte agguardando, il formento non pare, e perdesi il frutto
+finalmente; cos@i la mala opinione nella mente non gastigata n@e
+corretta cresce e multiplica, sicch@e la spiga della ragione, cio@e
+la vera opinione, si nasconde e quasi sepulta si perde>.  -- |Il
+loglio si lagner@a~ ecc.  Una volta era gettato al fuoco. 
+^Matteo~, XIII, 30: <Al tempo della ricolta dir@o ai mietitori: --
+Sterpate in primo luogo la zizzania e legatela in fastelli per
+bruciarla; il grano poi radunatelo nel mio granaio>.  Si @e voluto
+vedere in questo passo un'allusione alle scomuniche e alle
+persecuzioni, che colpirono gli spirituali al tempo di Giovanni
+XXII (1317-1318).  Ma, ben lontani dal lagnarsi di non trovar pi@u
+posto nell'|arca~, spontaneamente essi ne erano usciti: inoltre,
+se @e vero che Dante non loda i troppo rigidi interpreti della
+regola come eran essi, @e anche vero che non loda la rilassatezza
+dei loro avversari.  Chi poi ricordi il caldo elogio della
+primitiva povert@a francescana (^Par.~, XI, 58 segg.) e le severe
+censure alla corruzione della Chiesa, cos@i frequenti nel poema,
+credere piuttosto che Dante dov@e sentire maggiore simpatia per
+gli Spirituali che non per i Conventuali.
+
+	|121-123.~  Ci sono ancora de' Francescani degni del
+maestro; ma son s@i pochi...  Cfr. ^Par.~, XI, 130-132.  Paragona
+l'ordine a un |volume~, cfr. ^Par.~, II, 78.  |Carta~ @e la
+facciata; un |foglio~ ha due carte.  -- |Io mi son~: cfr.
+^Purg.~, XXIV, 52.  |Soglio~: solevo, frequente scambio di tempi;
+cfr. ^Inf.~, XVI, 68 ecc.
+
+	|124-126.  Ma non fia~ ecc.  Non sarebbe, quella ^carta~
+{v.122}, quel francescano, oriundo di |Casale~ o di
+|Acquasparta~, luoghi, da cui |vengono tali~ interpreti alla
+|scrittura~, alla regola, che uno si allontana fuggendo da essa,
+e |altro~ la restringe troppo.  Cfr. ^Par.~, XIII, 127-129.  --
+|Da Casal~: Ubertino d'Ilia (1259-1338) capo degli Spirituali. 
+Dopo aver insegnato a Parigi e in Italia, si dette alla
+predicazione; ma i suoi superiori non permisero che continuasse,
+e lo mandarono alla Verna (cfr. ^Par.~, XI, 106).  Col@a, <tutto
+devoto a S. Francesco, fedele testimonio della prima ed ultima
+perfezione regolare, sincero e fervente predicatore
+dell'evangelica verit@a, infiamm@o e dest@o per esempio della vita e
+per virt@u della sua parola molti nella religione (nell'ordine)
+alla pura e fedele observantia della promessa perfectione>. 
+^Cronaca delle tribolazioni~; ^Tocco~, ^L'eresia nel Medio Evo.~ 
+^Alla Verna~ scrisse ^l'Albero della vita crocifissa~, voluminosa
+difesa delle sue idee.  Dopo varie vicende, fu costretto a
+passare tra i Benedettini.  Cfr. ^Cosmo~, ^Le mistiche nozze~
+ecc.  -- |D'Acquasparta~: Matteo Bentivenga, n. ad Acquasparta
+vicino a Todi, duodecimo generale dell'ordine francescano (1287),
+poi cardinale, pi@u volte legato apostolico, fu mandato da
+Bonifazio VIII a Firenze due volte (1300 e 1301) per pacificarla,
+e non riusc@i, e <turbato si torn@o a corte> (di Roma).  <La
+seconda volta, lasci@o la citt@a scomunicata e interdetta>. 
+^Villani~, VIII, 40-49.  Dante, che era allora uno de' principali
+cittadini di parte Bianca, fu de' priori proprio al tempo della
+prima missione del cardinale.  Essendo questi sdegnato perch@e
+<era stata lanciata una freccia alla finestra del vescovato, dove
+abitava>, i signori (priori) per rimediare allo sdegno avea
+ricevuto gli presentarono fiorini duemila nuovi.  E io (racconta
+^D. Compagni~, I, 21) gliele portai in una coppa d'ariento, e
+dissi: -- Non li disdegnate perch@e siano pochi ecc.  Rispose gli
+avea cari; e molto li guard@o, e non li volle>.
+
+	|127-129.  La vita~: cfr. ^Par.~, IX, 7.  -- |Bonaventura
+da Bagnoregio~: <il dottore serafico>, Giovanni Fidanza di
+Bagnorea (^Balneum regium~) n. nel 1221, generale de' Francescani
+(1256), poi vescovo e cardinale, m. nel 1274.  Quando fu eletto
+alla prima dignit@a dell'ordine, mand@o una circolare, nella quale
+francamente disse oscurato lo splendore di esso dalle cattive
+abitudini, che i frati avevano contratte, occupandosi di affari,
+vagando di qua e di l@a, oziando, pretendendo costose accoglienze,
+innalzando edifizi suntuosi ecc.  <Uomo di gran cuore e di grande
+mente sapeva tenersi lontano dagli eccessi dei due partiti, e
+difensore caloroso della povert@a, sapea pur tener conto dei
+temperamenti necessarii alla pratica della vita>.  ^Tocco~, ^Op.
+cit.~  Lasci@o molte opere ispirate a fervido misticismo.  Della
+^Vita~ di S. Francesco scritta da lui, Dante si giov@o largamente
+nel c. precedente.  -- |La sinistra cura~: quella cura, che
+<batte in basso le ali>; ^Par.~, XI, 1-3.  <La sapienza
+appartiene alla destra, come anche gli altri beni spirituali; il
+nutrimento temporale alla sinistra secondo quel de' ^Proverbi~
+(III, 16): Ella (la sapienza) ha nella sinistra le ricchezze e la
+gloria>.  ^Somma t.~, I-II, 102.  Cfr. ^Proverbi~, IV, 27: <Non
+torcere n@e a destra n@e a sinistra, ritira il tuo piede dal male;
+perocch@e le vie, che sono alla destra, il Signore le ama: ma
+quelle della sinistra sono perverse>.
+
+	|130-132.~  Cfr. ^Par.~, XI, 80, 83, 87.  |Illuminato~:
+<uomo per certo pieno di lume e di virti@u>, accompagn@o S.
+Francesco in Oriente.  ^S. Bonaventura~, ^Vita~, cfr. ^Par.~, XI,
+100-102.  -- |Agostin~: era ministro de' Francescani in Terra di
+Lavoro, e gravemente infermo quando S. Francesco mor@i.  <Subito
+esclam@o e disse: -- Aspettami, Padre, aspettami, che io vengo
+teco.  Et investigando i frati, quello che tali voci volessero
+dire, et molto maravigliati, domandatogli a chi in tal modo
+parlasse, rispose loro audacemente: -- Non vedete voi il nostro
+padre Francesco, che se ne va in cielo?  Et ci@o detto, subito la
+sua anima part@i dal corpo>.  ^S. Bonaventura.~
+
+	|133-135.  Ugo da S. Vittore~: fiammingo, canonico della
+badia di S. Vittore, professore di teologia, autore di molte
+opere teologiche, m. nel 1141.  Fu maestro di Riccardo e di Pier
+Lombardo; cfr. ^Par.~, X, 131, 107.  -- |Pietro Mangiadore~:
+^Comestor~ (divoratore di libri), n. a Troyes, canonico regolare
+di S. Vittore, autore di una compilazione dell'^Antico~ e del
+^Nuovo testamento~ con commento allegorico molto letta, m. nel
+1179.  ^Pseudo-Brunetto~: <Nel tempo di costui (^Lucio~, III),
+apparve la bont@a di Pietro Magnante, il quale rec@o tutte le
+storie del Vecchio Testamento in un volume, e questo libro @e
+chiamato il libro delle ^Storie iscolastiche~>.  -- |Pietro
+Ispano~: da Lisbona.  <Il maestro Pietro Ispano..., grande
+sofista, logico e disputatore nonch@e teologo> (^Salimbene~),
+succedette col nome di Giovanni XXI ad Adriano V (^Purg.~, XIX,
+99), <e non vivette papa che otto mesi e d@i, ch@e, dormendo in sua
+camera in Viterbo, gli cadde la volta di sopra addosso e morio>
+(1277).  ^Tolomeo da Lucca~ domenicano afferma che Dio volle
+castigarlo cos@i perch@e, <pieno di spirito spagnuolo, detestava i
+religiosi>; invece, Dante lo pose in Paradiso, anzi lui solo
+volle nominare de' papi del suo tempo ammessi a godere la
+beatitudine eterna.  Vero @e che non lo chiama col nome, che
+assunse su la cattedra.  -- |Gi@u~ in terra, Pietro |luce~ ne'
+|dodici libelli~ della sua ^Somma di Logica.~
+
+	|136-138.  Natan profeta~: rivel@o pi@u d'una volta al re
+Davide i voleri e gli sdegni di Dio.  Cfr. ^Libro II de' Re~,
+VII, XII.  -- |Il metropolitano Crisostomo~: S. Giovanni detto
+|Crisostomo~ (Bocca d'oro) per la sua eloquenza, patriarca di
+Costantinopoli, m. nel 407 d. C.  Cfr. ^Purg.~, XIX, 25-33 n.  --
+|Anselmo~: S. Anselmo di Aosta, uno de' pi@u perspicaci ingegni e
+de' pi@u nobili caratteri del sec. XXI (1033-1109), abate di Bec
+in Francia, arcivescovo di Canterbury in Inghilterra.  Pensava:
+<Credo per intendere: senza la fede, non si pu@o conoscere; ma
+quando si ha fede, @e giusto adoperarsi a conoscere quello, che si
+crede>.  Cfr. ^Par.~, VII, 145-148 n.  -- |Quel Donato~ ecc. Elio
+Donato, grammatico del IV secolo, autore d'un trattato su le otto
+parti del discorso, usato come libro di testo per l'insegnamento
+del latino nelle scuole del Medio Evo.  |Alla prim'arte~: alla
+Grammatica, prima delle <sette scienze del Trivio e del
+Quadrivio>, a cui Dante, nel ^Conv.~, II, 14, dice potersi
+comparare il primo cielo, il cielo della luna.  Cfr. ^A. da
+Settimello~, III, in principio: <La prima vergine (delle sette
+compagne della Filosofia), alimenta i fanciulli>.  -- |Degn@o~
+ecc.  Donato compose opere di maggior importanza, bench@e non cos@i
+utili, i commenti a ^Terenzio~ e a ^Virgilio~; il suo nome @e
+durato come sinonimo di grammatica sino ai giorni nostri.
+
+	|139-141.  Rabano~: di Magonza, monaco e abate di Fulda,
+arcivescovo di Magonza, m. assai vecchio nell'856.  <Primo
+maestro della Germania>, compose un gran numero di compendi e
+trattati per le scuole, un'enciclopedia ^Dell'Universo~, commenti
+del Vecchio e del Nuovo Testamento, sermoni, poesie.  -- |Da
+lato~: se S. Bonaventura ha cominciato, come S. Tommaso (^Par.~,
+X, 97), a indicare i compagni dal primo alla sua destra, l'ultimo
+gli |luce~ dal |lato~ sinistro.  -- |Il Calavrese~ ecc. Gioachino
+di Flora, prima cisterciense, poi fondatore d'un ordine nuovo,
+che ebbe la prima sede nella badia di Fiore in Calabria (presso
+la quale sorse il borgo di S. Giovanni in Fiore), m. nel 1202. 
+Nel ^Commento all'Apocalisse~ e in altri scritti, interpretando
+con molta libert@a la Scrittura, annunzi@o prossima la terza ed
+ultima et@a del mondo, l'et@a dello Spirito Santo, che sarebbe
+cominciata nel 1260.  Le sue dottrine piacquero molto, pi@u tardi,
+al partito intransigente de' Francescani, che gli attribuirono
+altre opere e profezie ben pi@u precise di loro invenzione. 
+^Salimbene~, il quale fu gioachimita, riferisce che, avendo
+l'imperatore Arrigo VI (^Par.~, III, 119) domandato all'abate
+Gioachino come sarebbe stato il piccolo Federico suo figliuolo,
+ebbe questa risposta: <Perverso il tuo fanciullo, pessimo il
+figlio ed erede tuo o principe.  Giacch@e, divenuto signore,
+turber@a la terra e calpester@a i santi dell'Altissimo>.  E
+soggiunge: <Tutte queste cose si avverarono in Federico, come
+abbiamo veduto noi cogli occhi nostri!>  -- |Di spirito~ ecc. 
+Cfr. ^S. Bonaventura~, ^Vita di S. Francesco~: <Tanto fu in lui
+perfetto lo spirito profetico, che egli predicava le cose
+future>.  -- ^S. Bonaventura~, ^Illuminato~, ^Agostino~, il primo
+da dotto e forte ingegno, gli altri da semplici ed illetterati,
+contemplarono la divina verit@a, come e quanto @e concesso agli
+uomini in terra, intuitivamente per forza di amore, <incitati da
+carit@a alla contemplazione di Dio> (cfr. ^Somma t.~, II-II, 180);
+^Ugo da S. Vittore~ e ^S. Anselmo~ teorizzarono, se cos@i posso
+dire, la contemplazione; ^Natan~ e l'abate ^Gioachino~ conobbero
+le cose future per speciale rivelazione, e stanno bene insieme
+con gli altri cinque, perch@e la profezia @e una <veemente
+contemplazione> (ivi, 184); ^S. Giovanni Crisostomo~, ^Rabano~,
+^Pietro Mangiatore~, studiando ed interpretando i sensi riposti
+della Scrittura, che contiene la verit@a soprannaturale in quanto
+rivelata, spianarono la via alla contemplazione diretta, pi@u
+intima e pi@u calorosa di essa.  Ma perch@e Dante pose nella loro
+schiera, nella loro ^ghirlanda~, un maestro di logica ed un
+maestro di grammatica, Pietro Ispano e Donato?  Quando un uomo
+non solo concepisce una verit@a intelligibile, e si diletta nella
+considerazione e nell'amore di essa, ma vuole anche esporla,
+insegnarla, come quegli altri dieci fecero, bisogna che <esprima
+con le parole l'interno concepimento affinch@e possa addurre gli
+altri a intendere la verit@a> (^Somma t.~, ivi, 81); e lo esprima
+in modo efficace: or, <il primo grado dell'efficacia @e che
+s'istruisca l'intelligenza> dell'uditore o del lettore (ivi, 77);
+ma non istruisce chi non ragiona e non ammaestra secondo le norme
+della logica.  Anche il profeta non @e veramente tale se la sua
+mente non @e ^illuminata a giudicare~ (ivi, 83).
+
+	|142-145.~  Cfr. v. 111.  S. Bonaventura, conchiudendo
+cortesemente, d@a nuovo e maggiore rilievo alla |cortesia~ di S.
+Tommaso: |infiammata~ accenna alla cagione di essa, ammirazione
+ed amore; |discreto latino~ al modo come s'@e manifestata. 
+Infiammato anch'egli, si esprime con sonanti parole: |cotanto
+paladino.~  -- |Ad inveggiar~: a invidiare (prov. ^envejar~, cfr.
+^Purg.~, VI, 20).  Avvertono: in senso buono, nel senso di
+lodare, encomiare; S. Bonaventura, in sostanza, vuol dire che
+l'|infiammata cortesia~ ecc. di |fra Tommaso~ l'ha mosso a dire
+le lodi di S. Domenico.  Come potesse avvenire il passaggio dal
+senso cattivo al buono, nessuno sa mostrare esattamente e
+chiaramente.  Ma il prov. ^envejar~ signific@o pure emulare,
+gareggiare; ed ^enveja~, emulazione, gara.  D'altra parte, come
+credere che il |paladino~ sia S. Domenico, se S. Bonaventura ha
+gi@a lasciato questo da un gran pezzo?  Si consideri che tra il v.
+105 e il v. 142 si succedono altri trentacinque, ne' quali non @e
+fatta pi@u menzione diretta o indiretta del santo di Callaroga. 
+|Paladino~ s'@e preso per sinonimo di ^campione~ e di ^atleta~ (v.
+44, 56); ma forse non aveva ancora assunto questo significato al
+tempo di Dante, e certo conservava ancora intatto il significato
+proprio originario di ^palatinus~, <che appartiene al palazzo>
+(del sovrano, alla reggia): -- i conti Guidi di Toscana erano
+^conti palatini~, e Dante nella ^V. E.~ (I, 18) chiam@o aulico il
+volgare altissimo perch@e, se in Italia fosse stata la corte
+imperiale, esso <sarebbe stato ^palatino~>.  Orlando (^Inf.~,
+XXXI, 18) e gli undici suoi compagni famosi erano detti paladini,
+non perch@e guerrieri, campioni della fede; ma perch@e considerati
+tutti come conti palatini di Carlomagno; cfr. ^Tesoro
+versificato~, 122, ^Par.~, XXV, 42.  |Paladino~, dunque, |fra
+Tommaso~, perch@e dimora nella reggia di Dio, nella corte celeste,
+nell'<eterno palazzo> (cfr. ^Par.~, XXI, 8); e il senso del passo
+@e: |la infiammata cortesia e 'l discreto latino di fra Tommaso,
+mi mosse~ a entrar in gara con lui; egli aveva detto tali lodi
+del mio S. Francesco, che io mi son sentito obbligato a esaltare
+il suo S. Domenico.  Cfr. vv. 31-33.  -- |Fra Tommaso~: frate
+semplicemente, non santo @e chiamato qui l'Aquinate; non perch@e
+non era ancora stato canonizzato in terra -- in cielo tutti son
+santi -- ma perch@e, nel Paradiso di Dante, nessuno d@a del santo
+ad altri; cfr. al v. 136 ^Crisostomo~, ^Anselmo.~  -- |Il
+discreto latino~: il linguaggio reverente.  <Lo pi@u bello ramo,
+che dalla radice razionale consurga, si @e la discrezione...  Uno
+de' pi@u belli e dolci frutti di questo ramo @e la reverenza, che
+debbe al maggiore il minore>.  ^Conv.~, IV, 8.  -- |E mosse
+meco~: a venire qui con me.

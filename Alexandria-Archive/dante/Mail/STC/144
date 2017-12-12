@@ -1,0 +1,90 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id XAA25676
+	for <steve@avalon.dartmouth.edu>; Mon, 23 Nov 1998 23:29:09 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id XAA18936
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 23 Nov 1998 23:29:08 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 51245 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67100-15926>; Mon, 23 Nov 1998 23:28:51 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id XAA10553
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 23 Nov 1998 23:28:37 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup16.Princeton.EDU [128.112.70.16])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id XAA29392;
+	Mon, 23 Nov 1998 23:28:35 -0500 (EST)
+Message-ID: <365A3611.7E99B405@princeton.edu>
+Date: 	Mon, 23 Nov 1998 23:29:05 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU, Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: Re: unresolved typos
+X-Priority: 3 (Normal)
+References: <199811221900.OAA20021@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> OK, Bob. I've worked my way through all the typo files in C/Typos/.
+> The ones I
+> could resolve, I did and moved the corresponding file into the "Done"
+> subdirectory. The files remaining in C/Typos contain some problems
+> that I need
+> you to resolve. I have already sent you a few messages today about
+> some of
+> these, but please check each real file in C/Typos and get back to me
+> with a
+> solution if you can. Be sure you tell me *which* typos you are talking
+> about.
+> 
+> Several of these typos say something ot the effect of "check original
+> texts."
+> I have almost onone of the original texts available. (I do seem to
+> have
+> printed version of some of Rossetti left by Janet for some reason.)
+> I'm sorry,
+> but I am not going to be able to chase down any original texts to
+> resolve
+> these questions. If you can resolve them - with or without texts -
+> either edit
+> them yourself (and be *sure* to move the corresponding file from
+> C/Typos to
+> C/Typos/Done!) or tell me the solution, and I'll do the editing.
+> 
+>                                                         Steve
+
+Steve, those early instructions to run down the original texts go back
+to when the "office staff" had them in the office.  I never intended
+that a mere Yale graduate would have such a tremendous responsibility. 
+In any case, I've now done all these, and will list them in a moment.
+
+I couldn't edit the typos, since they were "read only."  But I think
+this will do.  Here they are, in order.
+
+daniello-inf: "Aeneid." is the correct form.  Please change accordingly.
+
+disiena-inf: correct, there is no "Polybistor" in him.  No action
+needed. Disregard.
+
+lana: "tolno" (twice).  Change both to "tol{go}no" [with squiggly
+brackets].  That OUGHT to be the reading, and we can go with it that
+way.  (These occur in Lana, Par. 17 and Par. 18.)
+
+lombardi-purg: "Pe 'l" should be "Per 'l".  Please change accordingly.
+
+portirelli-purg: Purg. 26.76-81, "curruna" should be "currum".  Please
+change accordingly.
+
+scartazzini-para: suono/suona: I cannot find.  FORGET THIS ONE.
+
+serravalle-purg: Purg. 24.26: there is no problem in the text there. I
+wonder if I got some dirty transmission, a glitch, that was not
+permanent.  In any case, DISREGARD.
+
+As far as I can see, that takes care of ALL the remaining problems in
+the TYPOS directory.
+
+More coming.  Bob

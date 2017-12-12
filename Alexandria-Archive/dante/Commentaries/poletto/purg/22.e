@@ -1,0 +1,1270 @@
+	|1-6.~  Per variet@a d'arte e di stile, qui non ci
+descrive il Poeta come venisse dinanzi all'Angelo del quinto
+girone, n@e, come altrove (cf. ^Purg.~, XII, 91; XV, 35; XVII, 47;
+XIX, 47), ci discrive il suo fulgore, e lo scancellargli d'un
+altro ^P~ dalla fronte; ma sol ci narra il fatto avvenuto, e tira
+via.  E in parte l'avviso d'Orazio, che il poeta ^in medias res, 
+non secus ac notas, auditorem rapit.~  -- |Gi@a~; il Tommaseo:
+<Trapasso maestro.  Per non ripetere la medesima descrizione, 
+valica il passo dell'Angelo con questo |gi@a.~>  -- |L'Angel~
+ecc.; dopo la gran festa fatta da Stazio per aver riconosciuto
+Virgilio, i tre Poeti erano giunti alla scala, che dal quinto
+menava al cerchio sesto; appi@e di essa trovano l'Angelo, il quale
+battendo in fronte a Dante le ali, gli scancella il quinto ^P~, 
+dicendo una delle sette beatitudini evangeliche.  -- |Dietro a
+noi~ ecc.; i tre Poeti ascendevano per la scala.  -- |N'avea
+v#olti~; n'avea indirizzati verso il sesto girone.  |N'avea
+volti~, altrove, per ^n'avea guidati~; ^condotti~ (^Purg.~, VII, 
+86); -- |Un colpo~ ecc.; un ^P~; e |colpo~ lo dice, perch@e que'
+^P~ simbolici eran ^segni~ (^Purg.~, XXI, 22), od impressioni
+fatte dalla spada dell'Angelo in fronte al Poeta (^Purg.~, IX, 
+112); che altrove disse ^piaghe~ (^Purg.~, IX, 114; XV, 86).  --
+|E quei~ ecc.; e l'Angelo ci aveva detto esser beati coloro, i
+cui desiderii sono unicamente rivolti alla giustizia.  -- |A
+giustizia.~.. |desiro~; cf. ^Par.~, XVIII, 33.  -- |Beati~; S.
+Matteo (^Ev.~, V, 6): ^Beati qui esuriunt et sitiunt justitiam.~ 
+L'Ottimo: <Nota che questa beatitudine... corrisponde in
+contrario all'avarizia; perocch@e l'avaro desidera a s@e ci@o ch'@e
+d'altrui; ed il giusto vuole che a ciascuno sia attribuito
+quello, che a lui si dee.>  E contraria alla sete (^Purg.~, XX, 
+116-117) e alla fame dell'uomo cupido dei beni terreni (^Inf.~, 
+I, 47 e 97) @e la sete e la fame del giusto; onde dell'Imperatore
+Enrico (e il Veltro doveva essere un Imperatore) dice all'Italia
+(^Epist.~, V, 2): ^Liberabit te de carcere impiorum: qui
+percutiens malignantes, in ore gladii perdet eos, et vineam suam
+aliis locabit agricolis, qui fructum justitiae reddant in tempore
+messis.~  S. Agostino (^Ex lib.~ I, ^De Serm. Dom.~): ^Beati qui
+esuriunt et sitiunt justitiam, quoniam ipsi saturabuntur.~  Jam
+istos amatores dicit veri et inconcussi boni.  Illo ergo cibo
+saturabuntur, de quo ipse Dominus dicit: ^Meus cibus est ut
+faciam voluntatem Patris mei~, quod est justitia.>  -- |Le sue
+voci~; le sue parole, dell'Angelo.  -- |Senz'altro~ ecc.; alcuni
+opinano che quest'Angelo avesse detto soltanto ^Beati quisitiunt
+justitiam~, tralasciando l'^esuriunt~, riservandolo all'Angelo
+della sesta Cornice (^Purg.~, XXIV, 151): altri invece son
+d'avviso che il Poeta con tale espressione abbia voluto
+significarci, che l'Angelo non aggiunse a quelle le parole
+susseguenti della beatitudine evangelica: ^quoniam ipsi
+saturabuntur.~  Altri poi lessero: <detto n'avean, |beati~, in le
+sue voci con ^sitio~, e senz'altro ci@o forniro> (o col Cod. Cass.
+^detti n'avean beati e le sue voci.~.. ^ne forniro~), malamente
+intendendo, che quella beatitudine fosse non gi@a cantata
+dall'Angelo (e se all'uscir d'ogni cerchio @e un Angelo che canta
+la relativa beatitudine, perch@e non qui?) ma dalle anime della
+quinta cornice: ma il Lombardi non essendo persuaso che tal canto
+fosse levato dalle anime pazienti, nelle parole |quei che hanno a
+giustizia lor desiro~, intende gli ^Angeli~, e che gli Angeli
+sieno a questo passaggio i cantori di quella beatitudine: e cos@i, 
+a cagione di quel plurale ^avean~, da un ghiribizzo s'@e passato
+in un altro.
+
+	|7-9.  Pi@u lieve~ (cf. ^Purg.~, XII, 116); ad ogni ^P~, 
+che gli viene scancellato dalla fronte, il Poeta acquista nuova
+leggerezza e maggior vigore di volont@a, in prova di quello che
+gli aveva detto Virgilio (^Purg.~, IV, 91 e segg.; XII, 121 e
+segg.), e che Dante per effetto rafferma (^Purg.~, XXVII, 
+121-123).  Perci@o meglio s'intende perch@e il Poeta ^mondo~ e
+|lieve~ faccia quasi sinonimi (^Purg.~, XI, 31); e quanto sia
+profondo e vero il senso del trascendere che il Poeta far@a ^i
+corpi lievi~ (l'aria e il fuoco), pi@u lieve di loro (^Par.~, I, 
+98-99, senso che si svela dalle parole di Beatrice (ivi, 136 e
+segg.).  -- |Foci~; propriamente sboccatura di fiume (cf. ^Inf.~, 
+XXXIII, 83; ^Purg.~, V, 124), e per imboccatura di fiume o porto
+(^Par.~, XIII, 138).  Qui, come altrove (^Inf.~, XII, 96;
+^Purg.~, XII, 112), per cerchio, girone; e per varco, apertura
+(^Inf.~, XXIII, 129); e |foci~ per i punti differenti
+dell'orizzonte, onde a noi si presenta nei vari mesi il Sole (ed
+ecco l'idea di sboccatura, uscita), ^Par.~, I, 37 e 44.  --
+|Labore~ (dal ^labor~ de' Lat., cf. ^Par.~, XXIII, 6, onde
+abbiamo ^laborioso, laboriosit@a~), fatica; e tal voce ricorre nel
+^Conv.~, II, 16: <Non teme labore di studio e lite di
+dubitazioni.>  -- |In su~; su per la scala.  -- |Gli spiriti~
+ecc.  Virgilio e Stazio.
+
+	|10-12.  Amore~ ecc. (e si badi alla condizione |acceso
+di virt@u~); l'amore nato da virt@u, da cagione virtuosa ecc.; il
+Tommaseo: <Pu@o intendersi ^accese un altro amore~, e ^accese
+altri d'amore.~  Il primo @e forma pi@u viva.>  Rammenta l'^Inf.~, 
+V, 103.  Nel ^Conv.~, I, 12: <La bont@a @e cagione d'amore
+generativa.>  E ivi, III, 3: <Per la natura razionale, ha l'uomo
+amore alla verit@a e alla virt@u; e da questo amore nasce la vera e
+perfetta amist@a, dall'onesto tratta.>  Peraltro il Giuliani
+(postill. ined.) intende di persona: <|Amore~, che apparisca in
+qualcuno, accese pur costui ad amare chi per |virt@u~ gli si fa
+amico;> ma ci si risente lo sforzo.  -- |Paresse fuore~; nel
+^Conv.~, III, 11: <@E l'intenzione d'Aristotele, che quegli si
+dice amico, la cui amist@a non @e celata alla persona.>  E questo
+^parer fuore della fiamma d'amore~ fa ripensare alla domanda del
+Poeta alla misera donna (^Inf.~, V, 118-120), e riporta al
+paragrafo trentesimosesto della ^Vita Nuova.~  Veggasi anche
+^Inf.~, II, 51, e V, 103.
+
+	|13-18.  Limbo dell'Inferno~; il Limbo, se differiva
+quanto alla pena, era poi, quanto al sito, una continuazione come
+sentimmo gi@a altrove dall'Aquinate (cf. ^Summ. Th.~, III, 52, 2);
+e questo Limbo costituiva ^il primo cerchio che cinge l'abisso~
+(^Inf.~, IV, 24); ^il primo cinghio del cieco carcere~ (^Purg.~, 
+XXII, 103).  S. Giovanni Damasceno (^Oratio II de Dormit. B.
+Mariae Virg.~), parlando dell'anima di Eva, ne dice: ^Mortis
+sententia damnatur, et in inferorum collocatur penetralibus.~ 
+Cf. ^Par.~, XXVI, 133.  -- |Giovenale~; Decimo Giunio Giovenale
+nato in Aquino verso l'anno 47, e morto verso il 130 dell'$era
+volgare, e perci@o contemporaneo di Stazio.  Di Giovenale abbiamo
+sedici satire, nella settima delle quali il poeta mostra la sua
+ammirazione ed amicizia per Stazio; e forse per ci@o parve
+all'Allighieri conveniente di farne nel Limbo come un eccitatore
+d'amore in Virgilio verso il cantore della Tebaide.  L'Allighieri
+nel ^Convito~ (IV, 12) ricorda Giovenale, insieme a Seneca e ad
+Orazio, tra' benemeriti, che s'ingegnarono di ritrarre il cuore
+umano dalla cupidigia dell'oro; e nel ^capo~ 28 allega alquante
+parole dall'ottava satira rispetto alla ^nobilt@a.~  -- |Mia
+benvoglienza~ ecc.; il mio affetto per te fu cos@i vivo, che
+nessuno am@o mai tanto una persona non vista ma solo conosciuta
+per fama.  E parmi che un contesto cos@i chiaro riduca a mera
+sottigliezza la distinzione che qui fanno alcuni tra
+|benevoglienza~ e ^affezione.~  Nell'^Inf.~, XVI, 59, dice ai tre
+Fiorentini;
+
+     L'ovra di voi e gli onorati nomi
+     Con affezion ritrassi e ascoltai;
+
+e abbiamo il ^benvolere~ nelle ^Rime Ant.~; e ^benvogliente~ in
+^Liv. M.~ e ^Ovid. Pist.~; e ^benvoluto~ nel Varchi.  --
+|Strinse~; cf. ^Inf.~, V, 128; e ^Canzon.~ (P. II, canz. X, st.
+3):
+
+     Ben @e verace amor quel che m'ha preso, 
+     E ben mi stringe forte.
+
+-- |Non vista~ ecc.; Cicerone (^de Amicitia~) scrive: ^Nihil est
+amabilius virtute, nihil quod magis alliciat homines ad
+diligendum; quippe cum propter virtutem et probitatem eos etiam, 
+quos numquam vidimus, quodammodo diligamus.~  E il Petrarca:
+
+     Digli: Un che non ti vide ancor d'appresso, 
+     Se non come per fama uom s'innamora.
+
+-- |Mi parram corte~ ecc.; pel piacere d'essere in tua compagnia, 
+queste scale (e non intende solo di quelle che salivano ora) mi
+parran corte, pel grande desiderio che fosse lungo il tempo di
+starmene teco.  E ben osserva lo Scartazzini che errano coloro, 
+che, seguendo Benvenuto, intendono qui della fatica del salire;
+basterebbe anche solo notare che Stazio era spirito come
+Virgilio, del quale non abbiamo nessun sentore che nell'ascendere
+pel Purgatorio provasse fatica.  Osserv@o il Gioberti: <Si vede da
+questo luogo (v. 14) come Dante avesse in grande stima Giovenale. 
+Pare che Dante mettesse innanzi Stazio a Lucano, poich@e fa che
+Virgilio professi di amar pi@u Stazio che ogni altro; e a Stazio e
+non a Lucano concede l'onore di questo bellissimo episodio.>
+
+	|19-24.~  Notati dall'Alfieri.  |Come amico~; cf. v. 12, 
+il passo del Convito.  -- |M'allarga il freno~; se troppa
+confidenza mi fa eccedere nelle domande.  Nel ^Par.~, XXII, 52 e
+segg., dice il Poeta a S. Benedetto:
+
+                 l'affetto, che dimostri
+     Meco parlando, e la buona sembianza, 
+     Ch'io veggio e noto in tutti gli ardor vostri, 
+     Cos@i m'ha dilatata mia fidanza, 
+     Come il Sol fa la rosa ecc.
+
+(e nel ^Canzon.~, P. I, canz. I, st. abbiam ^restringere il
+freno~ e ivi, canz. II, st. 5, ^alle mie virt@u fu posto un
+freno~).  -- |E.~.. |meco ragiona~; parla colla franchezza
+d'amico, e non colla riverenza di ammiratore.  E con tale
+gentilezza di dire (che @e proprio ^la parola ornata~, ^Inf.~, II, 
+67) il buon Virgilio fattosi via nell'animo di Stazio, gli
+rivolge una domanda per dar luogo ad una bella dottrina; la
+domanda @e questa: tu sei giaciuto cinque secoli nel cerchio
+precedente (^Purg.~, XXI, 67), dove ho inteso purgarsi l'avarizia
+(^Purg.~, XIX, 115); or come mai un uomo come te, con tanta
+sapienza ch'avesti, potesti lasciarti prendere da vizio cos@i
+sordido, quale @e l'avarizia?  -- |Tra cotanto senno~; cf. ^Inf.~, 
+IV, 102 (dove c'@e ^fra~; |tra~ accenna alle parti che compengono
+un tutto; ^fra~ accenna a cose differenti).  -- |Per tua cura~;
+senno acquistato col tuo buon volere e colle tue fatiche; ed @e
+proprio ^il lungo studio e il grande amore~ ricordato da Dante
+(^Inf.~, I, 83), e il ^sudavit et alsit~ di Orazio (^Poet.~, 
+413), @e la parola santa di Virgilio all'Allighieri (^Inf.~, XXIV, 
+47 e segg.).
+
+	|25-27.~  L'Alfieri not@o l'ultimo.  |A riso~ ecc.; dal
+vedere che Virgilio ignorava la vera cagione dell'esser lui stato
+in quel cerchio.  -- |Muover~ ecc.; la stessa frase ricorre nel
+^Purg.~, IV, 121; ma altro @e ivi il |riso~ di Dante per Belacqua, 
+altro questo di Stazio all'error di Virgilio.  -- |Ogni tuo dir~
+ecc.; ogni tua parola mi @e cara dimostrazione dell'amore che hai
+per me.  Parole dolcissime, e piene d'affetto nobile e
+d'eleganza, dice il Cesari; e il Tommaseo: <Sentesi la dolcezza
+di questo colloquio cordiale.>
+
+	|28-30.~  Molte volte vediamo cose che danno falso motivo
+a dubitare, perch@e le vere cagioni ci sono occulte.  In luogo di
+|dubitar~ il Giuliani propugn@o e accolse nel suo testo la lezione
+^giudicar~, per quello ch'egli ragiona nella prefazione alla sua
+edizione della ^Commedia~; e le ragioni son sottili, dacch@e una
+cosa pu@o dar falsa materia al giudicio, ma non falsa materia al
+dubbio, poich@e il dubbio, per s@e, non @e n@e falso n@e vero:
+tuttavia senza il suffragio di buoni Codici (bench@e la lez. del
+Giuliani sia piaciuta a non pochi) non sar@a possibile introdurla
+nel testo.  -- |Dubitar~; cf. ^Par.~, VIII, 92.  Nel ^Conv.~, 
+III, 9: <Alcuna volta la verit@a si discorda dall'apparenza.>  --
+|Matera~ (cf. ^Purg.~, XVIII, 37; come ^varo~ per ^vario~, 
+^Inf.~, IX, 115; e lo dissero i nostri antichi anco in prosa);
+argomento, motivo.  -- |Cagion.~.. |nascose~; cf. ^Par.~, XVII, 
+141.
+
+	|31-33.  La tua dimanda~ (cf. vv. 22-24) ecc.; la
+domanda, che mi facesti, mi dimostra (^avverare~, ^Purg.~, XVIII, 
+35, tener per vero; qui mostrar per vero), mi prova essere tua
+opinione che io vivendo sia stato seguace dell'avarizia.  -- |In
+l'altra vita~; nella vita mortale.  -- |Forse~ ecc.; in tale
+opinione indotto forse dall'avermi trovato nella quinta cornice, 
+dove apprendesti che si purga l'avarizia.
+
+	|34-36.  Partita da me~; lontana da me; fui troppo alieno
+dall'avarizia.  -- |Troppo~; in guisa che tanto mi scostai
+dall'avarizia, che caddi nella colpa contraria.  -- |Dismisura~;
+eccesso, ci@o che soverchia i giusti confini; qui Stazio intende
+della sola prodigalit@a; altrove, s@i de' prodighi che degli avari
+(^Inf.~, VII, 42), dice che ^con misura nullo spendio f#erci~; e
+rammenta l'^orgoglio e dismisura~ de' Fiorentini (^Inf.~, XVI, 
+74).  E or si capisce quel d'Orazio (III, ^Od.~ II, 14): ^Nullus
+argento splendor est.~.. ^nisi temperato splendeat usu.~  E lo
+stesso (I ^Epist.~, XVIII, 9): ^Virtus est medium vitiorum et
+utrinque reductum~; e Dante (^Conv.~, IV, 17): <Di tutte le
+morali virt@u si pu@o dire, che sieno ^abito elettivo consistente
+nel mezzo~> (cf. ^Purg.~, XVII, 96, 100-101).  -- |Migliaia di
+lunari~ (presa la ^Luna~ per ^mese~ cf. ^Inf.~, X, 79-80);
+migliaia di mesi; sentimmo da Stazio (^Purg.~, XXI, 67-68)
+ch'egli giacque nella quinta cornice ^cinquecent'anni e pi@u~;
+onde abbiamo oltre a seimila mesi.  -- |Lunari~; periodi o
+rivoluzioni lunari, che si compiono in ventinove giorni e mezzo
+circa.
+
+	|37-42.  E se non fosse~ (cf. ^Purg.~, XIII, 127); e se
+non fosse avvenuto che io corressi le mie cure, volgendole al
+bene (che prima avevo volte al male), quando posi ben mente a
+quel luogo del tuo poema, dove tu, quasi sdegnato contro gli
+uomini male operanti, esclami: ^quid non~ ecc., io sarei caduto
+all'Inferno.  -- |Drizzai~; da storto che era facendo dritto il
+mio amore, i miei pensieri; cio@e mi ravvidi.  -- |Cura~; cf.
+^Par.~, XII, 129.  -- |Chiame~ (altri ^esclame~); gridi, esclami. 
+Nel ^Conv.~, IV, 12: <La verace Scrittura divina chiama contro a
+queste false meretrici> (^le ricchezze~).  E qui abbiamo ^gridar
+contro~, nel verso invece ^chiamare a~, che @e lo stesso; senonch@e
+il luogo @e letto variamente; e chi |all'umana~ ecc. fa dipendere
+da |chiame~, chi da |crucciato.~  -- |Crucciato~ (cf. ^Inf.~, XI, 
+89; XIV, 53), da ^crucciare~ o ^crucciarsi~ (^Inf.~, III, 94), 
+sdegnato; nell'^Inf.~, XXX, 1-2, ^crucciato contro alcuno.~ 
+Nell'^Imit. Cr.~ (II, 3, 2): <La vera carit@a non si sa indegnare, 
+n@e ^cruciare~, se non ^inverso~ di s@e medesima.>  -- |Perch@e non
+reggi~ ecc. (altri ^A che~ ecc.); non v'ha alcun dubbio che Dante
+ha qui inteso di tradurre la parola di Virgilio (^Aen.~, III, 
+56-57) a proposito di Polinnestore (cf. ^Purg.~, XX, 115);
+
+     quid non mortalia pectora cogis, 
+     Auri sacra fames?
+
+cio@e: ^a che non trascini, non induci i cuori mortali, o
+esecranda fame dell'oro~?  Ma pur su ci@o invalsero opinioni
+disparatissime.  Il Lana prendendo |sacra~ nel senso proprio, di
+^santa~, intese che Dante volesse dire: <O umana natura, perch@e
+non reggi tue, perch@e non osservi tu la sacra fame dell'oro, cio@e
+lo virtudioso appetito delle ricchezze? Quasi a dire: non hai
+fame sacra d'oro e di ricchezze, e per@o le getti via.  E nota
+ch'egli dice |sacra~, cio@e che s'ella s'abbandonasse troppo in
+quella, egli non sarebbe altro che avarizia.>  Ma, oltre al dare
+al |sacra~ un senso certo disforme da quello inteso
+dall'Allighieri, chi ha chiare in mente le idee di Dante intorno
+alle ricchezze, stenter@a assai a ricevere come espressione del
+concetto di Dante quel ^virtudioso appetito delle ricchezze.~ 
+Invece Benvenuto: <^Auri sacra~ etc.; quasi dicat, quod cupiditas
+auri compellit corda hominum ad omnia magna mala; tamen hic
+Statius largiter interpretatur istud dictum et dicit quod
+Virgilius arguit intemperantiam divitiarum tam in dando quam in
+retinendo...  |Sacra~, idest, o execrabilis cupiditas auri, 
+|perch@e non reggi~ etc.; quia alii appetunt immoderate propter
+dare, alii propter retinere.>  E con lui si accorda, in sostanza, 
+il Buti, il quale crede che Dante intendesse bens@i il preciso
+senso del testo virgiliano, ma abbia rivolto quelle parole ad
+altro intento; onde @e, scrive il Bianchi, che lo segue, che
+mentre comunemente s'interpreta ^quid non cogis audere, vel
+committere~ (che non sforzi tu ad osare o a commettere ecc.);
+Dante ha inteso il verbo ^cogere~ nel senso di ^frenare~, 
+^contenere~, e ha preso il ^quid~ per sinonimo di ^cur~, onde ha
+spiegato: |perch@e~, o maledetta fame dell'oro, |non reggi~, non
+regoli, non contieni nei giusti confini |l'appetito dei mortali~, 
+i quali o sono dell'oro troppo avidi e tenaci, o lo gettano
+vanamente senza misura?  Dalle quali parole cos@i interpretate, 
+soggiunge il Bianchi, Stazio comprese che si potea peccare anco
+per ismodato spendere.  E fin qui sono opinioni pi@u o men
+discutibili.  Ma non parve vero al Venturi che Belisario
+Bulgarini avesse detto duecent'anni prima un audace sproposito
+per farlo suo proprio, e affermare che Dante qui non ha inteso il
+concetto di Virgilio (@e tra pochi altri al Venturi si associ@o a'
+nostri d@i Cesare Cant@u); tanto da far scrivere al candido Cesari
+quelle pepate parole, ch'ognuno pu@o leggere a questo luogo delle
+sue ^Bellezze.~  L'opinione pi@u accolta e pi@u rispondente al
+concetto dantesco @e quella propugnata dal Rosa Morando, dal
+Lombardi e dai pi@u accreditati chiosatori moderni.  Il Rosa
+Morando legge: |Per che non reggi~ ecc.; e spiega: <^Per che
+distorte vie, per che malvagit@a.~.. |non reggi~, non conduci e
+guidi ecc.>  Il Lombardi legge: ^A che~; e spiega: ^A che non
+trasporti~ ecc.  Per poi intendere, aggiunge il Lombardi, in qual
+modo la detta riprensione, che Virgilio fa alla fame dell'oro, 
+appartenga a far conoscere cattiva anche la prodigalit@a, i
+commentatori asservano, che tanto l'avaro che il prodigo hanno
+mala fame del danaro, l'uno per contemplarlo, l'altro per
+ottenersi con quello smodate soddisfazioni; e citano il seguente
+passo d'^Aristotele~ (^Etica~, lib. IV, c. 1, trad. di ^Bernardo
+Segni~): <Egli interviene che la pi@u parte de' prodighi tolgono
+donde non si conviene, e per questo verso hanno il vizio
+dell'avarizia; e tolgono quel d'altri per poter gettar via.> 
+Anche Pietro, nelle parole di Virgilio, intende compresi i due
+vizi; e soggiunge: <Ad hoc rationem assignat Augustinus, dicens:
+^Deus fecit Adam, et dedit ei omnia mundi, nec contenitus fuit. 
+Et ex hoc, et sic quilibet eius similis simile facit.~>  Cf.
+^Conv.~, IV, 12, dove citansi Cicerone e Boezio.  -- |Voltando~;
+cio@e ^voltando pesi per forza di poppa~ (^Inf.~, VII, 27), sarei
+dannato fra i prodighi del quarto cerchio infernale.  -- |Giostre
+grame~; i tristi, i dolorosi urti dell'incontrarsi tra prodighi
+ed avari, che anche altrove il Poeta disse |giostre~ o ^cozzi~
+(^Inf.~, VII, 35 e 55).
+
+	|43-45.  Allora~; dalla ben meditata lettura di quel
+punto del tuo Poema avvedendomi che quella fame ci pu@o trascinar
+al male per diverse ed opposte vie; -- |m'accorsi~ ecc., conobbi
+che l'uomo poteva peccare d'intemperanza pur nello spendere.  --
+|Troppo~ (cf. vv. 35 e 43), oltre misura (^Purg.~, XXIII, 65), in
+che risiede la colpa (cf. ^Conv.~, IV, 17).  -- |Aprir l'ali~;
+variamente usa Dante questa metafora dell'ali; qui vale
+^allargarsi~ ed @e nuova e dantesca, dice il Biagioli; per@o io sto
+col Tommaseo, il quale pensa che se pu@o esser bello dar le |ali~
+agli ^occhi~ (^Purg.~, X, 25), non a tutti parr@a bello il modo
+^le ali della mano dilatata.~  -- |Pent$emi~ ecc.; mi pentii del
+peccato della prodigalit@a come d'ogn'altro.
+
+	|46-48.  Crini scemi~; e sono i prodighi (^crini mozzi~, 
+^Inf.~, VII, 56-57).  -- |Per l'ignoranza~ ecc.; perch@e non
+s'accorgendo che anche la prodigalit@a @e peccato, se ne pentono
+nel corso della vita, n@e in punto di morte (cf. ^Purg.~, XIII, 
+124).  -- |Pentir~ (altri ^penter~), il pentimento (cf. ^Purg.~, 
+XVII, 132).
+
+	|49-51.~  E sappi che una colpa, che drittamente s'oppone
+ad uno de' peccati capitali (siccome @e la prodigalit@a rispetto
+all'avarizia), |qui~ (nel Purgatorio) |suo verde secca~ (tolta la
+figura dalle piante che inaridiscono), consuma il suo rigolio, si
+matura, viene espiata colla penitenza (v. 53) nel luogo stesso
+ov'@e punito il peccato a lei contrario.  Il Borghini intende che
+^rimbeccare~ <@e trasportato da ^galletti~ e ^galline, che quando
+si azzuffano insieme~ propriamente si dicono ^rimbeccare~, e dal
+^becco~ che @e proprio degli uccelli @e formata la voce> (op. cit., 
+pag. 246); per@o non nega che pi@u comune anche a' suoi tempi era
+il significato di ^ripercuoter la palla che ci @e gettata contro.~ 
+Bella la chiosa del Lombardi: <^Rimbeccare~ propriamente
+significa il rimandare, il ribattere la palla l'uno all'altro
+giocatore; ma qui l'adopera Dante metaforicamente per
+^contrariare, opporsi~; onde |che rimbecca per dritta opposizione
+alcun peccato~ vale quanto che ^direttamente~ contraria alcun
+peccato, come direttamente contraria all'avarizia la prodigalit@a, 
+alla golosit@a l'inedia ecc., estremi tutti egualmente discosti
+dal mezzo che tengono le rispettive virt@u, liberalit@a, sobriet@a
+ecc.  Ma dice |per dritta opposizione~, perch@e sebbene oppongasi, 
+per cagion d'esempio, all'avarizia anche la golosit@a, non per@o se
+non obliquamente si oppone, e non gi@a |per dritta opposizione~; e
+perci@o in altro luogo si puniscono gli avari, ed in altro i
+golosi.>  -- |Suo verde secca~; il Giuliani (postilla ined.), ^si
+matura, perde il suo aspro.~  L'Anon. Fior.: <|Verde~ intende il
+peccato non purgato.>
+
+	|52-54.  Per@o~; per conseguente, per quello ch'or t'ho
+detto.  -- |Tra quella gente~ ecc.; nel cerchio ov'@e punita
+l'avarizia (cf. ^Purg.~, XIX, 82).  -- |Contrario~; prodigalit@a. 
+-- |M'@e incontrato~; mi @e avvenuto.
+
+	|55-60.~  L'Alfieri not@o i due primi e il sesto.  Siccome
+dalla Tebaide apparisce che Stazio fosse gentile, Virgilio il
+richiede quando accadde che si facesse cristiano.  |Quando
+cantasti~ (^e canter@o di quel secondo regno~ ecc.; ^Purg.~, I, 4;
+e cf. ivi, nel commento), quando narrasti nella tua Tebaide |le
+crude armi~, la guerra fratricida ecc.  -- |Doppia tristizia~
+ecc.; Eteocle e Polinice (cf. ^Inf.~, XXVI, 54), figliuoli di
+Giocasta, i quali per sete di regno combattendosi empiamente
+corpo a corpo, simultaneamente s'uccisero dando cos@i alla madre
+doppia cagione di dolore; e cos@i intendono tutti comunemente; ma
+quel |doppia tristizia~, anzich@e intenderlo come effetto non si
+potrebbe prendere come cagione, in luogo del concreto ^due
+tristi, due malvagi~?  -- |Giocasta~; figlia di Creonte, moglie
+di Laio e madre di Edipo, cui dopo la morte di Laio, spos@o senza
+conoscerlo, e n'ebbe due figli, Eteocle e Polinice, e due figlie
+Antigone ed Ismene (cf. vv. 110-111; cf. ^Dizionario Dantesco~, 
+alla voce Edipo).  -- |Cantor~ ecc.; Virgilio, autore della
+Bucolica.  -- |Per quel che Clio~ ecc.; Clio, una delle nove
+Muse, la quale presiedeva alla storia; e Stazio, secondo alcuni, 
+fu pi@u storico che poeta.  Stazio la invoc@o al principio della
+Tebaide (I, 41); ma non @e da credere che per questa semplice
+invocazione Virgilio argomentasse del paganesimo di lui (perch@e
+in tal caso, osserva lo Scartazzini, Dante condannerebbe s@e
+stesso, avendo invocato le Muse (^Inf.~, II, 7; XXXII, 10;
+^Purg.~, I, 8-9; XXIX, 37), ed Apollo, (^Par.~, I, 13); ma
+intende in generale dello spirito pagano che informa il poema. 
+-- |L@i~; nel tuo poema.  -- |Tasta~ (e diciam ^toccare~ il
+cembalo, ^toccare~ il plettro), tocca sulla lira, |teco~, con te;
+perch@e, osserva bene il Casini, l'opera d'arte @e quasi lavoro
+collettivo dell'autore e della Musa (cf. ^Purg.~, I, 1-12). 
+Pietro spiega ^sonat, idest poetando.~  Insomma altro non vuol
+dire che questo: stando a quello che mostrano i tuoi versi (il
+Giuliani, in una postilla ined.: ^per quello che ivi la tua musa
+ti consiglia ed ispira~: -- |tasta~, ^suona teco, accompagna col
+suono la tua parole~).  -- |Non par~ ecc.; non pare che tu fossi
+ancora cristiano.  -- |La F@e~ ecc.; la Fede in Cristo, senza la
+quale le opere buone non conducono all'eterna salvezza.  Di quei
+del Limbo ha gi@a detto (^Inf.~, IV, 34 e segg.):
+
+     non peccaro; e, s'egli hanno mercedi
+     Non basta, perch@e non ebber battesmo, 
+     Ch'@e porta della Fede
+
+(cf. ^Purg.~, VII, 8; ^Par.~, XIX, 103-105); nella ^Mon.~, II, 8:
+^Nemo, quantumcumque moralibus et intellectualibus virtutibus, et
+secundum operationem perfectus, absque Fide salvari potest~; che
+@e la parola di S. Paolo (^Hoebr.~, XI, 6): ^Sine fid  impossibil
+est placere Deo~; perch@e, secondo il Grisostomo (^Homil. 24 in
+Matth.~) ^Fides caput est et radix.~
+
+	|61-63.  Se cos@i @e~; posto dunque che tu eri pagano; --
+|qual Sole~ ecc.; qual celeste o qual terreno lume (cio@e grazia
+divina e insegnamenti umani); -- |ti stenebraron~ ecc.; ti
+illumin@o l'intelletto (v. 66), ti tolse le tenebre del
+paganesimo.  -- |Pescator~ (cf. ^Par.~, XVIII, 126), S. Pietro. 
+-- |Drizzasti~ ecc.; altrove (^Par.~, VI, 22) ^muovere i piedi
+con la Chiesa~, cio@e camminare d'accordo con lei, secondo i suoi
+insegnamenti: e si noti la correlazione tra |vele~ e |Pescatore.~ 
+Bene il Gioberti: <Con questa perifrasi Dante accenna di qual
+lume soprannaturale fosse mestieri a un Gentile naturalmente vano
+della sua sapienza, l'inchinarsi all'umilt@a evangelica
+coll'ubbidire ai successori d'un pescatore.  Nota qui come ci
+parli della fede cattolica, senza di cui non vi ha
+Cristianesimo.>
+
+	|64-66.~  Tu prima mi facesti poeta, e poi m'avviasti
+alla religione cristiana (che @e quanto ridice, riassumendo, al v.
+73).  Dante, osserv@o il Gioberti, non poteva fare di Virgilio un
+maggiore elogio; dacch@e fa che da lui Stazio riceva 1o
+l'educazione poetica, e l'idea de' suoi poemi (^Purg.~, XXI, 94 e
+segg.) 2o la buona dottrina che lo converte alla virt@u (^Purg.~, 
+XXII, 37 e segg.); 3o il lampo stesso che lo conduce alla Fede
+(vv. 64 e segg.); onde fa di Virgilio non solo un maestro in
+poesia, e in morale, ma eziandio di religione, e di religione
+cristiana.  -- Questo far poi che alla conversione di Stazio al
+Cristianesimo fosse, dopo Dio, principale cagione un passo di
+Virgilio, ha qualche affinit@a colla conversione di sant'Agostino
+(e Dante certo il sapeva) mediante la lettura dei libri di
+Cicerone sulla Sapienza; come abbiam gi@a notato l'analogia tra la
+conversione di sant'Agostino e quella di Dante (cf. ^Inf.~, I, 
+16).  E Dante con ci@o ritraeva l'opinione diffusa nel medioevo, 
+che Virgilio fosse stato un profeta della venuta di Cristo; e
+mentre colla conversione di Stazio, quale ingegnosamente c'@e qui
+narrata, vuole dare rincalzo a quella credenza de' suoi tempi, 
+vuol anche mostrare quanto sien profonde le operazioni della
+Grazia alla salvezza di molte anime, come altrove vedremo di
+Rifeo e di Traiano (^Par.~, XX, 44-45 e 68; cf. ^Purg.~, X, 74). 
+-- |Parnaso~; monte della Focide, il quale, secondo la mitologia, 
+era la residenza sacra alle Muse e ad Apollo (cf. ^Purg.~, 
+XXVIII, 141; XXXI, 141; ^Par.~, I, 16).  -- |A ber~; e il ^bere~
+anche ^Purg.~, XXXI, 141; e nella ^Vulg. El.~, II, 4, dice del
+poeta, in genere: ^Prius Helicone potatus, tensis fidibus adsumat
+secure plectrum.~  -- |Grotte~; a ber nelle sue fonti, il fonte
+Pegaseo che esce dalle grotte del monte Parnaso, che altrove il
+Poeta chiama ^cisterna di Parnaso~ (^Purg.~, XXXI, 141).  -- |E
+poi~; il Cod. Vat. 3199, il Chig., e qualche altro, leggono ^E
+prima.~  -- |Appresso Dio~; molti intendono: m'illuminasti nelle
+vie di Dio, ad appressarmi a Dio, o ad andar dietro a Dio, a'
+suoi insegnamenti; ma @e troppo meglio coll'Ottimo intendere, |e
+poi~, dopo Dio, prima causa di tutto, mi apristi la mente alla
+vera fede, ad ^adorar debitamente Iddio~, ^Inf.~, IV, 38 (e cos@i
+si viene drittamente a ricalcare l'idea del ^Sole~ e delle
+^candele~, cio@e grazia divina e aiuti umani: cf. v. 61);
+
+	|67-72.~  L'Alfieri not@o i tre primi.  |Facesti~ ecc.; il
+servo, che di notte accompagna il padrone, precede portando la
+lanterna dietro, onde illumina la via a quello mentr'egli cammina
+all'oscuro; e vuol dire: tu mi illuminasti la via alla fede
+cristiana, ma tu non la vedesti (cf. ^Inf.~, I, 125); leggiadra e
+appropriata similitudine, lo dice il Cesari.  E tal similitudine, 
+not@o gi@a il Lombardi (bench@e a Dante, osserva il Casini, possa
+essere stata suggerita dall'osservazione naturale del fatto), la
+abbiamo in Paolo Zoppo di Castello, poeta della prima met@a del
+secolo XIII (cf. ^Rime di poeti bolognesi del secolo XIII~, 
+Bologna, 1881, pag. 120):
+
+     S@i como quel che porta la lumiera
+     La notte, quando passa per la via, 
+     Alluma assai pi@u gente de la spera
+     Che s@e medesmo che l'ha in bal$ia.
+
+-- |E s@e~; altri legge ^e a s@e.~  -- |Dotte~; scorte, non ignare
+della via.  -- |Dopo s@e~; dietro a s@e.  -- |Quando dicesti~ ecc.;
+si riferisce ai versi dell'^Egloga~ quarta di Virgilio (vv. 47), 
+che traduce letteralmente:
+
+     Ultima Cumaei venit jam carminis aetas;
+     Magnus ab integro saeclorum nascitur ordo.
+     Jam redit et virgo, redeunt saturnia regna;
+     Jam nova progenies coelo demittitur alto.
+
+Virgilio, secondo Servio, fece questo vaticinio alla nascita di
+Salonino, figlio di Asinio Pollione (o, secondo altri, al figlio
+nascituro di Livia Drusilla, moglie di Augusto); e tali versi, 
+sino dai primi secoli del Cristianesimo, furono intesi quali una
+profezia della venuta del Redentore (cf. Natal. Aless., ^Hist.
+Eccl. soec.~ I, diss. I); e questa interpretazione nota il
+Casini, appare gi@a diffusa nel secolo IV, e largamente svolta in
+un'allocuzione dell'imperatore Costantino, al dire d'Eusebio
+(^Vit. Const.~, IV, 32), dinanzi ad un'assemblea ecclesiastica; e
+Lattanzio (^Div. instit.~, VII, 24) e sant'Agostino (^Civ. D.~, 
+X, 27, che non di per s@e parl@o Virgilio, ma che ^a Cumoea Sybilla
+dictum esse incunctanter apparet~) la riferiscono e la accettano, 
+mentre la combatt@e san Girolamo (^Epist.~, LIII, ^ad Paulin.~); e
+pi@u tardi diede occasione a leggende religiose di conversioni
+alla fede cristiana, come qui si narra di Stazio (cf. Comparetti, 
+^Virgilio nel medioevo~, pagg. 128 e segg.).  Dunque Dante non
+fece qui altro che fedelmente raccogliere e rappresentare una
+tradizione, com'era in parte quella della salvezza di Traiano, 
+gi@a radicata nelle menti.  Per@o @e giusto avvertire, che
+l'Allighieri, nella ^Monarchia~ (I, 13), riferendosi agli stessi
+versi, intende della Giustizia, fiorentissima, secondo lui, nel
+tempo d'Augusto, essendovi allora la Monarchia perfetta, e
+scrive: <Virgilius commendare volens illud saeculum, quod suo
+tempore surgere videbatur, in suis ^Bucolicis~ cantabat: ^Jam
+redit et virgo, redeunt saturnia regna.  Virgo~ namque vocabatur
+^Justitia~, quam et ^Astroeam vocabant.  Saturnia regna~
+dicebantur optim a tempora, quae et ^aurea~ nuncupabant.>  E tali
+versi, scrivendo all'imperatore Enrico (^Epist.~, VII, 1), Dante
+applica alla ristorazione dell'Impero, perch@e a lui l'Impero
+doveva essere nuova redenzione morale del genere umano (cf.
+^Dizionario Dantesco~, vol. VIII, App. VIII, {Paragraph.} II e
+segg.).  -- |Primo tempo~ ecc.; pei pagani era quello di Saturno, 
+^sotto cui giacque ogni malizia morta~ (^Par.~, XXI, 27), cio@e
+^il mondo fu casto~ (^Inf.~, XIV, 96); e pei cristiani @e lo stato
+d'innocenza prima del peccato originale (^Purg.~, XXVIII, 
+139-142; cf. ^Mon.~, III, 15; ^Vulg. El.~, I, 7).
+
+	|73-75.~  L'Alfieri not@o i due ultimi.  |Per te~ ecc.;
+riassume il gi@a detto, che cio@e per aiuto e merito di Virgilio, 
+per sua cagione, ei divenne prima poeta e poscia credente.  --
+|Perch@e veggi~ ecc.; perch@e tu intenda pi@u chiaramente quanto ho
+accennato della mia conversione ecc.  -- |Disegno~; ho adombrato, 
+ho accennato; il disegno, dice il Bianchi, adombra la cosa, e i
+colori l'avvivano.  -- |A colorar~ ecc.; te la spiegher@o pi@u
+chiaramente (cf. ^Purg.~, XXXII, 64-69).  Il Cesari: <Dicesi
+^colorare~ ed ^incarnare~ un disegno, per ^condurre a termine~, o
+ad effetto alcun nostro divisamento; ed @e tolto dalla pittura, 
+nella quale sopra il disegno fatto, si conducono i colori, e
+s'impone quasi carne alle cose o figure delineate.>
+
+	|76-81.  Tutto quanto~ vale, dice la Crusca, tutto intero
+(ma vale anche le varie parti componenti realmente o mentalmente
+un tutto), a) di cosa: cf. ^Inf.~, XX, 114; ^Purg.~, XXVIII, 11 e
+103; ^Par.~, I, 103; XXII, 133; b) di persona, di spirito:
+^Inf.~, IV, 117; VI, 37; XX, 4 e 42; XXXI, 33; ^Purg.~, II, 74;
+VI, 25; VII, 36; X, 58; ^Par.~, XIV, 45.  -- |Pregno~; ripieno
+(cf. ^Purg.~, XIV, 31; XVIII, 42).  -- |Vera credenza~; la fede
+di Cristo (^la fede sincera~, ^Par.~, VI, 17; ^la verit@a che
+tanto ci sublima~, ^Par.~, XXII, 42; ^la Fede che vince ogni
+errore~, ^Inf.~, IV, 48; mentre il paganesimo @e difinito il
+^tempo degli Dei falsi e bugiardi~, ^Inf.~, I, 72, ed ^antico
+errore~, ^Par.~, VIII, 6, e ^puzzo~, ^Par.~, XX, 125).  --
+|Seminata~; sparsa, diffusa (ma bella l'idea di seme; cf. ^Par.~, 
+XII, 95; XXIII, 131; XXIV, 110; XXIX, 92).  -- |Messaggi~
+(^Purg.~, V, 28); messaggieri; gli Apostoli; altrove degli Angeli
+(^Purg.~, XXX, 18):
+
+     Ministri e messaggier di vita eterna.
+
+-- |Eterno regno~ (in opposizione a ^regno mortal~, ^Par.~, VI, 
+84); il Cielo, il Paradiso.  -- |La parola tua~ (cf. ^Inf.~, IV, 
+43); le tue parole, i tuoi versi che or ora riferii.  -- |Sopra
+toccata~; accennata (cf. ^Inf.~, VI, 102; VII, 68; ^Par.~, I, 
+108; e ^Mon.~, III, 10: ^Per ea quae superius tacta sint~).  --
+|Si consonava~; si conformava, combinava, rispondeva (cf. ^Par.~, 
+XIX, 88; simile il verbo ^conformare~ nel ^Par.~, III, 102).  --
+|Usata~; usanza.  Il Bianchi: <I participii passati tanto al
+masc. che al fem. si usarono anticamente per nomi.  Cos@i il
+^destinato~, il ^cogitato~, la ^gelata~, la ^disposta~, per
+^destino, cogitazione, gelo, disposizione.~>  E ad ogni momento
+diciamo ^scritta, attestato, certificato~, ed altri.
+
+	|82-84.~  Notati dall'Alfieri.  Praticando con loro, gli
+conobbi di tanta santit@a ecc. (cf. v. 86).  -- |Domizian~;
+secondogenito di Vespasiano successo al fratello Tito, imper@o
+dall'anno 81 al 96, e promosse una fiera persecuzione contro i
+Cristiani, della quale parlano Eusebio e Tertulliano, Girolamo, 
+Agostino e altri ancora degli antichi scrittori; tuttavia lo
+Scartazzini afferma che i ^cristiani accusarono~ di ci@o
+Domiziano, ma che per@o ^storicamente non si sa nulla di certo
+intorno a questa pretesa persecuzione~ (non s'accorgendo che, 
+dicendo la pretesa, dichiara che @e certissimo che non ci fu); e
+il Casini, facendo un passo innanzi, vi ammaestra che ^la critica
+moderna~ (certo quella che nega l'esistenza di Dino Compagni, e
+qualcosa d'altro ancora) ^ha riconosciuto che nulla di certo si
+sa intorno a tale persecuzione~; e sia con Dio! e i nostri santi
+martiri, oggetto di tante carezze da parte di Domiziano, sono
+usurpatori del posto che hanno nel Martirologio!  Per@o veggasi la
+Nota in fine di questo Canto.  -- |Perseguette~; persegu@i, 
+perseguit@o (cf. ^Inf.~, XXV, 40; ^Par.~, IX, 141; XXV, 83).
+
+	|85-87.~  Notati dall'Alfieri.  |Mentre~; nel tempo ch'io
+vissi dopo la mia conversione.  -- |Per me~, da me.  -- |Gli
+sovvenni~; gli aiutai (cf. ^Purg.~, I, 54, e ^Inf.~, XVII, 94). 
+-- |Dritti costumi~; (cf. ^Par.~, XX, 121; ^Mon.~, I, 13;
+^Conv.~, I, 12), costumi santi, che seguivano la via dritta (cf.
+^Conv.~, III, 15); cf. ^Purg.~, XXX, 123 (cf. v. 82).  La santit@a
+de' primi Cristiani, not@o il Gioberti @e una delle pi@u belle prove
+della divinit@a del Cristianesimo, e delle pi@u efficaci, perch@e
+parla al cuore.  Sant'Agostino ne fece argomento alla sua opera
+^De moribus christianorum.~  -- |Sette~, e ^setta~, da' nostri
+antichi s'adoper@o (venendo dal ^sequor~ de' Lat., onde ^seguace~)
+s@i in buono che in cattivo senso, per unione d'uomini professanti
+uno stesso principio o regola religiosa (cf. ^Par.~, III, 105)
+ovvero per ogni Legge o Religione che abbia seguaci; nel ^Conv.~, 
+II, 5: <Nessuno dubita, n@e filosofo, n@e Gentile, n@e Giudeo, n@e
+Cristiano, n@e alcun'altra setta, che elle (^le creature separate
+da materia~, gli Angeli) non sieno piene di tutta beatitudine>
+(cf. ^Inf.~, III, 82; e ivi, XV, 41, vel commento).
+
+	|88-93.~  E prima ch'io compissi l'opera, nella quale
+narro l'arrivo de' Greci alle mura di Tebe.  Ma siccome nel lib.
+IX della ^Tebaide~ Stazio narra che i Greci, venendo con Adrasto
+loro re in soccorso di Polinice, arrivarono ai fiumi di Tebe
+Asmeno ed Asopo (cf. ^Purg.~, XVIII, 91); cos@i molti chiosatori, 
+seguendo l'Ottimo e il Buti, intesero che Dante volesse far dire
+a Stazio: ^prima ch'io scrivessi il nono libro delle Tebaide~; ma
+parmi migliore la spiegazione, da me seguita, del Lana, di
+Benvenuto, e dei migliori tra' moderni.  -- |Conducessi~;
+guidassi, facessi giungere, descrivendo; il poeta narrando, fa, 
+nota il Tommaseo.  -- |Ebb'io battesmo~ (cf. ^Inf.~, IV, 35);
+Pietro: ^Christianus fuit occultus, idest in baptismo flaminis, 
+quo est cum quis in Christum et Ecclesiam sanctam credit, non
+contemnendo baptismum aquae, sed eum non volendo habere~; ma poi
+si rimette sulla buona strada, e meglio riflette il pensiero
+paterno: ^vel loquitur et intendit auctor de baptismo aquae, quem
+accepit occulte~; n@e altro poteva Dante intendere.  -- |Chiuso~;
+nascosto (cf. ^Inf.~, XXV, 147); e ci@o fu cagione della pena, che
+dice al v. 92.  Ma non bast@o che Stazio fosse cristiano chiuso;
+ma |lungamente~, per molti anni (dunque si fece cristiano molto
+tempo innanzi alla morte), mostr@o |paganesmo~, si finse pagano; e
+questa @e tutt'altro che tiepidezza, ma un mancare al grande
+dovere di professare apertamente Cristo e la sua Religione;
+perch@e ^corde creditur ad justitiam, ore autem confessio fit ad
+salutem~, dice S. Paolo (^Rom.~, X, 10); e nostro Signore
+(^Luc.~, IX, 26): ^Qui me erubuit, et meos sermones; hunc Filius
+hominis erubescet, cum venerit in majestate sua.~  @E dunque da
+intendere che di tale infingimento siasi Stazio pentito per
+tempo, ma che non avendone fatta bastevole penitenza in vita, 
+l'abbia dovuta fare nel quarto cerchio degli accidiosi per pi@u
+che |il quarto centesmo~, per pi@u di quattrocent'anni.  --
+|Cerchiar mi f@e~; mi fece girare correndo (^Purg.~, XVIII, 9, e
+segg.; cf. v. 123, ^girar il monte~; e ^cerchiare~, ^Purg.~, 
+XIV).
+
+	|94-99.~  L'Alfieri not@o, salvo i due primi.  |Levato hai
+il coperchio~ ecc.; mi togliesti dagl'occhi dell'intelletto (mi
+^stenebrasti~ la mente, v. 62, mi ^illuminasti~, v. 66) il velo, 
+che mi nascondeva s@i gran bene, cio@e la religione cristiana.  --
+|Mentre~ ecc.; mentre che salendo abbiam tempo che ci
+sopravvanza; e il |salire~ alcuni intendono di tutto il rimanente
+viaggio, sino alla vetta; il Cesari invece intende cos@i: ^in
+questo avanzo di scala~ (^che fino a qui erano venuti montando
+su~) ad ogni modo, parmi troppo meglio, anzich@e al tempo, 
+riferire allo spazio la frase ^avere soverchio di salire~, cio@e
+finch@e ci resta via a percorrere, finch@e saremo su.  --
+|Terenzio~; Publio Terenzio, poeta comico, nato a Cartagine
+l'anno 185 a. Cr. e morto a venticinque anni (altri dice a
+trentacinque) in Grecia, dove s'era recato per desiderio di
+studio.  Venuto quindi a Roma, volse l'ingegno allo scrivere
+commedie; ne compose sei, che gli acquistarono moltissima fama;
+ma perch@e, oltre che con Lelio (cf. ^Conv.~, II, 13), Terenzio
+era in istretta amicizia con Scipione l'Africano ne venne che
+alcuni credettero, falsamente per@o, che molta parte delle
+commedie di Terenzio fosse opera di Scipione.  -- |Antico~ (per
+nessun modo accettabile, per quello che ne discorre lo
+Scartazzini la lez. ^amico~); rispetto a Stazio, vissuto due
+secoli dopo Terenzio questi potevasi dire |antico.~  Dante
+ricorda Terenzio e le sue Commedie (^Epist.~, X, 10).  --
+|Cecilio~; milanese, coetaneo di Ennio e di Pacuvio; mor@i verso
+l'anno 168 a Cr.; delle sue trenta commedie nulla @e rimasto; e
+Dante pot@e averne avuto notizia da A. Gellio, da Quintiliano e
+anche dalla Poetica d'Orazio.  -- |Plauto~; M. Accio (e fa
+pensare alla guerra, pi@u ardente della Troiana tra il nostro
+Vallauri e quel tedesco, ch'or non ricordo, che vuole Plauto non
+gia ^Marco Accio~, sibbene ^Maccio~), nato a Sarsina nel 234 av.
+Cr. e morto nel 184, il pi@u celebre scrittor di commedie, che
+vanti la lingua latina; fra le tante che ne scrisse, venti son le
+commedie che abbiam di lui; Dante per@o non le poteva conoscere, 
+essendo state scoperte nel secolo XIV.  -- |Varro~; M. Terenzio
+Varrone, nato a Rieti l'anno 116 a. Cr., e morto a
+ottantanov'anni.  Per la sua svariata erudizione fu giudicato il
+pi@u dotto degli scrittori romani.  Dicono che avesse scritto
+quattrocentonovanta opere, quasi tutte perdute.  Ugo da S.
+Vittore (^Exc.~, lib. I, cap. 22): ^Theologus primus apud Graecos
+Linus fuit; apud Romianos Varro.~  E l'Angelico (^Summ.~, I, 1), 
+allegando S. Agostino, reca di Varrone l'opinione che Dio @e
+l'anima del mondo, governandolo col moto e colla ragione.  Per@o
+alcuni pochi fra gli interpreti opinarono che il |Varro~, 
+nominato qui dal Poeta, sia invece Publio Terenzio Varrone, 
+soprannominato ^Atacino~ (da ^Atax~, fiume della Gallia
+narbonese, dove nacque l'anno 82 a. Cr.), elegante imitatore dei
+Greci, lo dice il Blanc, e le cui opere andarono perdute. 
+Qualche altro invece, seguendo il Witte ed il Blanc (e anche a me
+arrise un tempo tale opinione, che ora rifiuto), credono che
+Dante (seguendo Orazio, ^Art. Poet.~, 53-54, dove nomina
+^Cecilio, Plauto, Virgilio~ e ^Vario~) abbia scritto ^Vario~ e
+non |Varro~, bench@e la concordanza de' Codici abbatta tale
+supposizione; d'altra parte, siccome di M. Terenzio Varrone fanno
+spesso memoria Cicerone e Quintiliano, Lattanzio e Sant'Agostino
+e altri scrittori ecclesiastici, a Dante notissimi (i quali non
+fanno neppur cenno di ^Varrone Atacino~ o di ^Vario~ poeta, 
+l'amico), di Orazio e di Virgilio, ragion vuole che qui s'intenda
+di Marco Terenzio Varrone.  -- |Se lo sai~; i tre versi 97-99
+arieggiano a quelli dell'^Inf.~, VI, 79 e segg.  -- |In qual
+vico~; il ^vicus~ de' Lat. vale propriamente ^contrada~; e
+contrada @e parte di citt@a o borgata; onde qui |vico~ vale
+^cerchio~ infernale, ognuno de' quali @e come una speciale
+contrada della citt@a dolente; e qui ha proprio il preciso senso
+che vedemmo altrove di ^chiostra~ (^Purg.~, VII, 21); e ci@o si
+capisce chiaro anche dalla voce ^cinghio~, che Virgilio usa nella
+risposta (v. 103).
+
+	|100-105.~  Notati dall'Alfieri |Persio~; Aulo Persio
+Flacco, nato a Volterra l'anno 34 dopo Cr. e morto a Roma nel 62;
+scrisse sei satire informate alle dottrine degli stoici, 
+mostrandosi innamorato della virtuosa e austera semplicit@a degli
+antichi; lo stile fu giudicato nobile e vigoroso, bench@e alle
+volte oscuro per soverchio studio di concisione.  -- |Altri
+assai~; altri pi@u (v. 107), altri molti (^Inf.~, IV, 61).  --
+|Quel Greco~ ecc., Omero, il ^poeta sovrano~ (^Inf.~, IV, 88), il
+^buon Omero~ (^Vit. N.~, {Paragraph.} 25).  -- |Latt#ar~;
+allattarono nutrirono (cf. ^Par.~, XXIII, 55).  -- |Cinghio~;
+vale ^cerchio~ o ^vico~ (cf. v. 99); cf. ^Inf.~, IV, 24.  --
+|Carcere cieco~; l'Inferno (cf. ^Inf.~, X, 58).  -- |Del monte~;
+del Parnaso, sede delle Muse (cf. v. 65 nel commento).  --
+|Nutrici nostre~; le Muse, nutrici de' poeti (cf. ^Purg.~, XXI
+97-98 nel commento).
+
+	|106-108.  Euripide~; uno de' tre grandi tragici greci, 
+nato a Salamina l'anno 480 a. Cr. e morto nel 406.  Scrisse
+moltissime tragedie, delle quali soltanto diciotto arrivarono
+fino a noi, con molti frammenti delle altre.  Dante non pot@e aver
+notizia direttamente di questo tragico, ma solo dai libri di
+Aristotele, di Cicerone e di Quintiliano, che spesso lo
+ricordano.  -- |Antifonte~; lezione si pu@o dire, come avverte lo
+Scartazzini, di tutti i migliori Codici, in luogo di
+^Anacreonte~, lezione seguita da altri.  Antifonte fu scrittore
+tragico, e Aristotele lo ricorda con lode.  Osserv@o l'Ab. di
+Costanzo, non esser probabile che Dante, poeta tutto serio e
+grave, facesse menzione d'un poeta tutto mollezza, quale
+Anacreonte, e lo mettesse qui in compagnia di grandi epici, 
+lirici e drammatici.  Tale argomento, aggiunse lo Scartazzini, 
+diventa molto pi@u forte ove s'osservi che Dante non fa qui
+menzione n@e di Catullo, n@e di Tibullo, n@e di Properzio, n@e di
+Ovidio, i quali come latini gli erano certo pi@u famigliari assai
+che non Anacreonte.  Ma certo notabili queste parole
+dell'illustre dantista: <L'autorit@a de' Codici, che leggono
+|Antifonte~, basterebbe tutta sola a decidere la questione. 
+S'osservi inoltre che non @e probabile che gli amanuensi
+cambiassero il notissimo nome di ^Anacreonte~ nel molto di men
+noto |Antifonte~, mentre all'incontro un amanuense cui
+quest'ultimo nome era ignoto poteva facilissimamente soggiacere
+alla tentazione di scrivere invece il nome di ^Anacreonte~ da lui
+conosciuto.>  -- |Simonide~; nato nell'isola di Ceo l'anno 559 a
+Cr., vissuto prima in Atene e nella Tessaglia, e quindi in
+Sicilia alla corte di Gerone a Siracusa, dove mor@i nel 469.  Fu
+poeta lirico di gran fama; vinse Eschilo nel concorso del premio
+proposto dagli Ateniesi per la pi@u bella elegia sui morti di
+Maratona.  Dante ricorda Simonide, a proposito della confutazione
+che Aristotele fece d'un opinione di quel poeta (^Conv.~, IV, 
+13).  -- |Agatone~; poeta tragico ateniese nato nel 448 a. Cr.;
+Aristotele nella ^Poetica~ parla con molta lode di Agatone, ed
+encomia specialmente una sua tragedia intitolata ^il Fiore.~  --
+|Di lauro~ ecc.; cf. ^Purg.~, XXI, 90: ^Par.~, I, 14 e 26.
+
+	|109-111.  Quivi~; nell'Inferno, non gi@a nel Limbo, per
+quanto si discorre pi@u sotto, nel commento del v. 113.  -- |Genti
+tue~, de' personaggi da te celebrati ne' tuoi poemi.  --
+|Antigone~; figlia di Edipo e di Giocasta sorella di Ismene (cf.
+v. 56), della quale parla Stazio nella ^Theb.~, XII, 349 e segg. 
+-- |Deifile~; figliuola di Adrasto re di Argo, moglie di Tideo
+(cf. ^Inf.~, XXXII, 130), madre di Diomede (^Inf.~, XXVI, 56), 
+ricordata da Dante nel ^Conv.~, IV, 25.  -- |Argia~; sorella di
+Deifile, e moglie di Polinice (^Conv.~, IV, 25).  Fu ella che
+prima possedette quella famosa collana, ^lo sventurato
+adornamento~, per amor del quale Erifile s'indusse a tradire il
+marito (cf. ^Purg.~, XII, 51; ^Par.~, IV, 103-105).  Di lei parla
+Stazio, ^Theb.~, XII, III e segg.  -- |Ismene~; sorella di
+Antigone (v. 110); |trista come fue~ come fu nel mondo; perch@e
+promessa in isposa a Cirreo, lo vide morire prima delle nozze, fu
+spettatrice di tutte le sventure che oppressero la sua casa, e
+finalmente fu dannata a morte colla sorella Antigone dal tiranno
+Creonte per aver dato sepoltura alla salma del fratello Polinice.
+
+	|112-114.  Quella che mostr@o~ ecc.; Isifile, ^la
+giovinetta~ di cui tocc@o nell'^Inf.~, XVIII, 2.  Dopo aver
+salvato il padre Toante, quando le donme di Lenno uccisero tutti
+gli uomini, per cansare la vendetta di quelle feroci fugg@i
+dall'isola, ma cadde in mano de' corsari, che la vendettero a
+Licurgo re di Nemea, il quale le diede in custodia il figlioletto
+Ofelte.  Un d@i ch'ell'era col fanciullo a diporto nei pressi di
+Nemea, fu accostata dai sette eroi che guerreggiavano contro
+Tebe, i quali, assetati, pregarono Isifile di additar loro una
+fonte; ed ella, deposto il fanciullo sull'erba, li condusse alla
+fontana detta Langia; ma ritornata indi, trov@o Ofelte ucciso dai
+morsi d'una serpe, onde fu condannata a morte; ma nell'atto che
+si stava per eseguire la sentenza, sopraggiunsero Toante ed Eumeo
+figliuoli di Isifile, i quali liberarono la madre (cf. ^Purg.~, 
+XXVI, 94 e segg.).  Stazio parla di Isifile nella ^Theb.~, V.  --
+|La figlia di Tiresia~: e qui viene un mezzo finimondo; chi @e la
+figlia di Tiresia? @e Manto: e Manto dov'@e qui posta? riferendo il
+^quivi~ del v. 109 al ^primo cinghio~ del v. 103, si dovrebbe
+conchiudere che Dante la pone nel Limbo; ma non fu Manto insieme
+col padre posta gi@a dal Poeta nella bolgia degli indovini? non
+c'@e dubbio (cf. ^Inf.~, XX, 52 e segg.); ed @e appunto in ci@o che
+sta la difficolt@a, tanto che lo stesso Mazzoni, pur tanto
+sollecito dal difender Dante, fu costretto di dichiarare, che il
+Poeta rispetto a Manto, ^ha dette due cose che non si ponno in
+alcuna maniera accordare insieme.~  E s'ha dunque da credere che
+Dante siasi contraddetto in maniera cos@i manifesta e solenne?  E
+questo che parve e pare duro; onde il Rosa Morando s'ingegn@o di
+trar fuori altre due figliuole di Tiresia; ^Dafne~, ricordata da
+Diodoro Siculo, e ^Istoriade~, ricordata da Pausania.  Colla
+scoperta del Rosa Morando pareva finita ogni questione, e molti
+vi s'acquetarono.  Ma non per questo furon vinte due gravi
+difficolt@a, che affaccia lo Scartazzini; e son queste:-- D'onde
+mai pot@e Dante aver qualche notizia di queste due pretese figlie
+di Tiresia? Ma anche concesso che ne avesse, o non avrebbe egli
+forse dovuto esprimersi in modo diverso quando di una di esse e
+non di Manto avesse voluto parlare?  La |figlia~, -- questo
+termine presuppone o che essa figlia di cui si parla sia ^unica~
+al padre, oppure che chi in tal modo si esprime intende di una
+figlia notissima a chiunque lo ascolta o legge.  Or questa figlia
+notissima @e ^Manto~, e se di altra persona voleva il Poeta
+parlare, egli avrebbe dovuto dire ^una figlia~ o ancor meglio
+^una delle figlie.~>  -- La seconda difficolt@a, che lo
+Scartazzini accampa, parmi pi@u grave ancora; ed @e che Virgilio
+vuol parlare di personaggi cantati da Stazio (diffatti aveva
+detto ^delle genti tue~, v. 109) nella ^Tebaide~ o
+nell'^Achilleide.~  E infatti ^Antigone, Deifile, Argia, Ismene~
+ed ^Isifile~ sono cantate da Stazio nella ^Tebaide~; ^Teti e con
+le suore sue Deidamia~ nell'^Achilleide~; ^Manto~ @e ricordata pi@u
+volte, ^Theb.~, IV, 463 e segg.; VII, 758 e segg.; X, 639 e segg. 
+Ma dov'@e che Stazio canta di Dafne o di ^Istoriade~ figlie di
+Tiresia? Qui sta il punto!  Non basta provare che Tiresia aveva
+altre figliuole oltre ^Manto~, bisogna anche provare che queste
+altre figlie siano nominate da Stazio nelle sue opere.  Queste
+difficolt@a, ripeto, son fortissime; ma non @e men forte ammettere
+che Dante abbia preso una cantonata cos@i strana, tanto
+nesplicabile: ci dicono che anche Omero ^dormitat~ alle volte, e
+che neppur Dante era scevro delle umane debolezze; cosa, in
+genere, che non pu@o esser pi@u giusta.  Per@o l'umana memoria @e pur
+troppo inferma e labile anche negli uomini grandi; e di ci@o ne
+diede manifeste prove Omero e ancor pi@u l'Ariosto, rispetto ai
+personaggi dei loro poemi, come acutamente dimostr@o il Milanesi;
+ma qui, si conceda, il caso @e troppo diverso, dacch@e non si
+tratta mica di rinominare un personaggio, che in altra parte del
+Poema fu semplicemente nominato, ma si tratta di assegnare un
+posto sostanzialmente diverso a tal personaggio, che altrove
+occup@o tutta l'attenzione del Poeta cos@i da formarne il
+principalissimo soggetto della quarta bolgia e l'argomento pi@u
+vitale del Canto XX dell'Inferno.  Tanta labilit@a di memoria, per
+quanto inferma l'umana natura in siffatte condizioni, via, siamo
+giusti, non si saprebbe spiegare, nonch@e in un Dante, ma neppure
+in uno scrittorello.  Pertanto; tenendo, per le esposte ragioni, 
+che per |la figlia di Tiresia~ Dante intende Manto, per non
+mettere l'Allighieri in s@i grave contraddizione, non resta che
+accettare la chiosa di Benvenuto: <|la figlia di Tiresia~, 
+scilicet Mantho, de qua plene dictum est Inferni capitulo XX, et
+hic videtur auctor contradicere sibi, qui posuit istam ibi inter
+divinatores, nunc ponit eam inter animas piorum; potest dici
+breviter quod hic non respicit ad Limbum, sed ad carcerem
+caecum;> e per conseguente il ^quivi~ del v. 109 non si dovrebbe
+riferire a ^cinghio~, sibbene a ^carcere cieco~ del v. 103;
+diffatti Stazio colla sua domanda aveva compreso due termini (v.
+99), luogo generale e luogo speciale di pena; Virgilio risponde
+prima intorno al Limbo (^primo cinghio~ ecc.), in ispecie
+(100-108), e poi intorno all'Inferno, in genere (109 e segg).  --
+|Teti~; figlia di Nereo e di Dori, moglie di Peleo e madre di
+Achille (cf. ^Purg.~, IX, 37), ricordata da Stazio
+nell'^Achilleide~, I, 25 e segg.  -- |Deidamia~; figliuola di
+Licomede re di Sciro, la quale s'innamor@o d'Achille nel tempo che
+rimase nascosto in quella corte (cf. ^Inf.~, XXVI, 62): cf.
+^Achill.~, I, 295.
+
+	|115-117.~  I due Poeti, giunti al sommo della scala, 
+interrompono il loro colloquio, per vedere qual via dovessero
+tenere a trovar la scala che metteva alla cornice superiore.  --
+|Liberi~ ecc.; soverchiata la parete (^Purg.~, II, 99), fumino
+all'aperto (^Purg.~, X, 17), cio@e arrivati al sommo della scala
+(^Purg.~, XIII, 1).
+
+	|118-123.~  L'Alfieri not@o la prima terzina.  |Ancelle~;
+le ore (^Purg.~, XII, 80; cf. ^Purg.~, XXX, 25); cio@e eran
+passate le dieci antimeridiane.  -- |Al temo~ (forma latina, 
+^timone~, come ^sermo~ per ^sermone~; e ricorre anche altrove, 
+^Purg.~, XXXII, 49, 140; ^Par.~, XIII, 9; XXXI, 124); al timone, 
+al governo del carro del sole (cf. ^Par.~, XXXI, 124).  --
+|Drizzando~ ecc.: tuttavia salendo.  Come l'umana vita non @e che
+un salire e uno scendere, quasi ad immagine d'arco (^Conv.~, IV, 
+23), cos@i tale idea si applica non solo al giorno, che ^monta~
+fino al suo mezzo, e poi discende, ma anco alle ore, ognuna delle
+quali sale fino alla met@a, e poi scende: quindi @e che se qui
+l'ancella quinta continuava a drizzare in su l'ardente corno, 
+vuol dire ch'ella non era ancor giunta al mezzo del suo corso;
+dunque eran bens@i passate le dieci, ma non erano ancora le dieci
+e mezzo; quanta esattezza, eppur quanta semplicit@a di
+espressione! (cf. ^Purg.~, IX, 9, nel commento).  Si rammenti che
+quando Dante e Virgilio uscirono dalla quarta cornice (cf.
+^Purg.~, XIX, 34 e segg.) era gi@a sorto il Sole del Mercord@i dopo
+Pasqua; dunque spesero circa quattro ore da quell'istante sino a
+qui.  -- |L'ardente corno~; per esser pi@u delle precedenti vicina
+al mezzod@i.  -- |Il duca~ (disse); certo Virgilio si rammentava
+qui l'avviso di Omberto Aldobrandeschi (^Purg.~, XI, 49) e di
+Adriano V (^Purg.~, XIX, 79-81).  -- |Allo stremo~; all'orlo, 
+all'estremit@a esteriore della cornice.
+
+	|124-126.~  L'Alfieri not@o il primo.  |Insegna~; segnale, 
+indizio (cf. ^Purg.~, III, 102).  -- |Prendemmo~ ecc.; cf.
+^Inf.~, VII, 17; ^Purg.~, I, 108; XXVIII, 5.  -- |Sospetto~;
+timore, dubbio (cf. ^Inf.~, III, 14).  -- |Per l'assentir~; pel
+consentimento, per l'approvazione di Stazio (cf. ^Purg.~, XIX, 
+86).  L'Ottimo: <Noi non avemmo altri che ne insegnasse il
+cammino, se non l'uso, ch'@e parente della natura; e perocch@e
+Stazio non contraddisse, avemmolo ch'elli consentisse; e per@o pi@u
+sicuramente prendemmo a questa mano la via.>
+
+	|127-129.~  Notati dall'Alfieri.  |Soletto~ (cf. ^Purg.~, 
+VI, 59); in disparte e raccolto in s@e.  Cos@i dimandava il loro
+merito (^di Virgilio e di Stazio~), dice il Cesari, la cortesia
+di Virgilio e la modestia di Dante, che qui si fa lor discepolo. 
+Ma in quel |soletto~ @e forza e significato potente, chi guardi
+Dante in confronto ai poeti suoi contemporanei, come nel
+^soletta~ detto di Nella, paragonata, moralmente, alle altre
+donne Fiorentine (^Purg.~, XXIII, 93).  -- |Diretro~; cf. ^Inf.~, 
+XXIX, 16; ^Purg.~, XXIII, 8.  -- |Ascoltava~ ecc.; @e quello che
+disse altrove colla frase ^pensava prode acquistar nelle parole
+sue~ (^Purg.~, XIV, 41).  Il Postill. Caet. del Cod. Caet.: ^Et
+est bene; quod Dantes intellexit istos poetas, et multa didicit
+ab illis.~  E il Cesari: <E questo @e andar dietro alla ragione e
+la fantasia far servire alla padrona; il che fanno pur i savi
+poeti; sbordellando gli altri generalmente, senza badar a regole, 
+n@e a dovere.>  -- |Intelletto~; intelligenza.  E infatti Virgilio
+e Stazio furono de' Latini i due Poeti, che Dante studi@o con pi@u
+ardore, e i cui poemi scrut@o pi@u addentro, come puossi vedere
+anche dal ^Convito~ (III, 8, 11; IV, 25; cf. ^Vulg. El.~, II, 6).
+
+	|130-132.  Ruppe le dolci ragioni~, (cf. ^Inf.~, XXV, 
+38); i ragionamenti cari al mio amore di apprendere.  |Ruppe~;
+interruppe (come dice altrove ^rompere il silenzio~, ^Par.~, 
+XIII, 38); -- |ragioni~ (cf. ^Purg.~, XVIII, 12), discorso, 
+ragionamento; quello ch'or ora (v. 128) aveva detto ^sermoni.~ 
+-- |In mezza strada~; in mezzo alla strada, cio@e in mezzo al
+ripiano della sesta cornice; e cos@i vedemmo ^sovra il mezzo
+fosso~ (^Inf.~, XIX, 9); ^per mezza Toscana~ (^Purg.~, XIV, 17);
+e sentiremo ^per mezza la fronte~ (^Purg.~, XIV, 148).  Qui, 
+all'entrata della cornice, trovano i Poeti quest'albero; un altro
+ne troveranno prima che se vi escano (^Purg.~, XXIV, 103 e
+segg.).  Di questi due alberi scrive Pietro: <quae duae arbores
+figurant duas species vitii gulae, scilicet ebrietatem et
+gastrimargiam, sive commessationem.  Nam ab istis duobus actibus
+vitiosis homo volens se purgare, et a gula, siti et fame, 
+jejunando et cum temperantia vivendo, debet ad hoc respicere, 
+audiendo vocem illam inter frondes, hoc est audiendo Scripturas
+detestantes tale vitium, et suadendo temperantiam.  Et quia origo
+vitii gulae ortum habuit ab arbore, ... ideo nunc fingit per
+arbores talia.>  Del secondo albero il Poeta ne dir@a che @e un
+rampollo tolto dall'albero dal quale Eva prese il divietato
+frutto (^Purg.~, XXIV, 116-117), dall'albero cio@e della scienza
+del bene e del male: ma di questo tace; lo Scartazzini per@o
+argomenta che questo primo albero sia da considerarsi in
+relazione al secondo; e siccome il ^Genesi~ (II, 9) ne dice che
+il Signore produsse ^lignum vitae in medio Paradisi, lignumque
+scientiae boni et mali~ cos@i opina che questo primo albero sia un
+rampollo dell'albero della vita; altri invece, come del secondo, 
+reputa essere un rampollo di quello della scienza del bene e del
+male.
+
+	|133-135.~  Notati dall'Alfieri.  |E come~ ecc.; e come
+gli abeti del nostro mondo hanno il tronco e i rami sempre pi@u
+corti e sottili di mano in mano che le corone di rami s'accostano
+alla cima di essi abeti; cos@i, per contrario, quell'albero aveva
+il tronco e i rami pi@u lunghi e pi@u grossi quanto pi@u le corone
+eran prossime alla cima; presentava dunque la figura d'una
+piramide arrovesciata.  Ma notabile, che quasi tutti gli antichi
+intendessero che quest'albero avesse la cima verso la terra e le
+radici per aria; e gi@a not@o il Lombardi che in alcuni disegni de'
+vecchi chiosatori @e cos@i figurato quest'albero: e i pi@u de'
+moderni, non escluso il Casini, seguirono siffatta
+interpretazione.  Altri per@o, seguendo il Costa, intendono il
+^digradamento~ soltanto de' rami, e non gi@a del ^tronco~; io
+intendo, seguendo l'Ottimo e Benvenuto, anco del tronco, dacch@e
+gli @e per codesta strana forma del tronco, pi@u che dei rami, che
+doveva venire l'impedimento che |persona su non vada.~  --
+|Digrada~; va scemando.  -- |Di ramo~ ecc.; (cf. ^Purg.~, XXVIII, 
+19).  -- |Persona~; alcuno (cf. ^Inf.~, XIII, 23).
+
+	|136-138.~  Notati dall'Alfieri, salvo il primo.  |Dal
+lato~ ecc.; dalla parte della roccia, che era come muraglione di
+sostegno alla cornice superiore; @e quello che dice pi@u sotto
+(XXIV, 120): ^dal lato che si leva.~  -- |Chiuso~; non v'era via
+a salire, era chiuso dalla ripa.  -- |Liquor chiaro~; limpida
+acqua, (e si noti che quest'acqua mandava pur essa fragranza, al
+paro dei pomi; ^Purg.~, XXIII, 36-37).  -- |Si spandeva~ ecc.; si
+spargeva sulle foglie.  Ma la voce |suso~ trasse in errore, e
+cominci@o l'Ottimo a dirci che l'acqua andava in su; e l'Ottimo fu
+seguito da non pochi.  Altri col Lana intendono che venisse in
+gi@u; e infatti il Poeta dice chiaro che l'acqua |cadea~ dalla
+ripa sull'albero, n@e dice che andasse in su.  Ora di quell'acqua
+come di que' pomi dovea bens@i, in punizione, essere stuzzicata la
+sete e la fame dell'anime di questo cerchio, ma esse non ne
+potean toccare; e siccome, per non toccar di que' pomi, l'albero
+fu fatto da Dio in quella forma contra la voglia dell'anime, cos@i
+bisogna ammettere che fosse loro impossibile anche il gustar una
+sola stilla di quell'acqua; cosa che non si saprebbe spiegare se
+quell'acqua veniva gi@u dall'albero ^gocciando e a rivoli
+piccioletti~, come dice il Lana, seguito da molti moderni. 
+Dunque @e giusta, @e verissima la spiegazione dello Scartazzini, 
+seguito dal Casini, che le foglie dell'albero assorbiscono quel
+|liquor chiaro~ di modo, che non una goccia ne cade in sul suolo.
+
+	|139-141.~  L'Alfieri not@o i due ultimi.  |Una voce~
+ecc.; di chi sia questa voce, il Poeta non dice; ma certo di
+qualche spirito celeste (come accadde altrove, ^Purg.~, XIII, 29;
+XIV, 130-141); non per@o dall'Angelo guardiano di questo Cerchio, 
+come intende l'Ottimo, Angelo che troveremo altrove, e ben
+lontano di qui (cf. ^Purg.~, XXIV, 133 e segg.): e anche dal
+secondo albero, senza saper da chi, sentiremo uscir voci, e quasi
+di minaccia (^Purg.~, XXIV, 115-118).  -- |Di questo cibo~ ecc.;
+di questo cibo avrete carestia, non potrete toccarne, in pena del
+vizio della gola che in questo cerchio si sconta.
+
+	|142-144.  Maria ch'ora risponde~; prega, intercede |per
+voi~ in Cielo, ^pensava pi@u al mezzo~ (onde), ^pel quale le nozze
+fossero onorevoli e compiute, che non alla sua bocca.~  Il primo
+esempio di temperanza @e, come sempre, tolto dalla vita della
+Vergine, la quale alle nozze di Cana, accorgendosi che mancava il
+vino, (cf. ^Purg.~, XIII, 28 e segg.), avvisandone il divin
+Figlio, non pens@o gi@a a s@e stessa, al suo desiderio di bere, ma
+ne fu indotta dal pietoso desiderio dell'onore e del decoro
+altrui (^Ev.~, Joann., II, 11).  -- |Orrevoli~ (cf. ^Inf.~, IV, 
+72); voce del tempo, quasi solenne, dice il Tommaseo.
+
+	|145-147.  Le Romane antiche~; secondo esempio di
+temperanza tratto dalla storia civile.  L'Angelico (^Summ.
+Theol.~, II, II, 149, 4), su quelle parole dell'Apostolo a
+Timoteo (I, III, 11) ^mulieres similiter pudicas, sobrias~ etc., 
+e su quelle a Tito (II, 6), ^juvenes sinniliter hortare ut sobrii
+sint~, cos@i discorre: ^Aliqua virtus magis requiritur in
+aliquibus duplici ratione.  Uno modo, quia in eis est major
+pronitas ad concupiscentias, quas oportet per virtutem
+refroenari, et ad vitia, quae per virtutem tolluntur.  Et
+secundum hoc sobrietas maxime requiritur injuvenibus; in
+mulieribus autem non est sufficiens robur mentis ad hoc quod
+concupiscentiis resistant.  Unde secundum Valerium Maximum~ (lib.
+II, cap. I, n. 3) ^mulieres apud Romanos antiquitus non bibebant
+vinum.~  E Valerio Massimo scrive infatti (loc. cit.): ^Vini usus
+olim romanis feminis ignotus fuit, ne scilicet in aliquod dedecus
+prolaberentur, quia proximus a Libero patre intemperantiae gradus
+ad inconcessam Venerem esse consuevit.~  E il ^casto~
+dell'^Inf.~, XIV, 96, rispetto al primo tempo dell'umanit@a, che
+qui tosto si ridice in sentenza, esprime tutto.  -- |Daniello~;
+il terzo esempio di temperanza @e, come il primo, tolto dalla S.
+Scrittura risguardo al profeta Daniele (cf. ^Dan.~, I, 1-20); il
+quale, dice Pietro, ^cum esset cum certis aliis pueris traditus
+ad nutriendum per Nabuchodonosor Malasar suo pincernoe, rogavit
+habere Legumina et aquam, spretis regalibus cibis; et venustior
+effectus omnibus aliis, qui comederant epulas, repertus est.~  --
+|Savere~; @e propriamente il ^senno~, la sapienza (^Par.~, X, 
+113), quella che Salomone domand@o a Dio invece d'ogn'altra cosa
+(^Par.~, XIII, 95).
+
+	|148-150.~  Notati dall'Alferi.  Quarto esempio, tratto
+s@i dalla S. Scrittura che dalle tradizioni, e riguarda la
+sobriet@a delle prime genti.  |Lo secol primo~ ecc.; ^il primo
+tempo umano~ (cf. v. 71, nel commento).  -- |Oro~; nel ^Conv.~, 
+IV, 11: <L'oro perfettamente forma e atto ha in suo essere.>  --
+|Bello~; cio@e ^casto~ (^Inf.~, XIV, 96, cio@e, com'ivi spiega il
+Boccaccio ^senza vizio di cupidigia~); il che @e un dire, ch'era
+^innocente~ (^Purg.~, XXVIII, 142).  -- |Fe' savorose~ ecc.;
+perch@e non mangiavano n@e bevevano per gola ma solo per naturale
+bisogno, come dicono le due frasi ^con fanne, con sete.~  Pietro
+qui cita Ovidio (^Metam.~, I, 103 e segg.):
+
+     Contentique cibis nullo cogente creatis...
+     Flumina jam lactis, jam flumina nectaris ibant.
+
+Saviamente osserva il Perez (op. cit. pagg. 229-230), che nella
+memoria del secolo d'oro par che suoni un sospiro di Dante ai
+primi tempi di Firenze, quand'ella ^si stava in pace, sobria e
+pudica~ (^Par.~, XV, 99); come l'accenno alle antiche Romane ci
+riporta alla tirata di Forese sulle Fiorentine coeve al Poeta, 
+delle quali dir@a pi@u innanzi (^Purg.~, XXIII, 91 e segg.); il che
+trova riscontro nell'Epistola ai Fiorentini (^Epist.~, VI).  Cf.
+^Dizionario Dantesco~, vol. VIII, App. VIII, {Paragraph.} 4.
+
+	|151-154.~  Il quinto esempio di sobriet@a @e tolto dal S.
+Evangelio (^Matth.~, III, 4; ^Marc.~, I, 6), e risguarda S.
+Giovanni Battista.  |Mele e locuste~ ecc.; di S. Giovanni
+Battista dice l'Evangelio (^Matth.~, III, 4): ^esca eius erat
+locustae et mel silvestre~; locuste e miele selvatico.  Non si
+capisce perch@e il Daniello, contro alla concorde opinione, voglia
+intendere |locuste~ non ^cavallette~, ma ^cime tenerissime
+d'alberi, virgulti ed erbe~; e il Biagioli gli d@a ragione; e per
+giunta a |mele~ soggiungendo ^salvatiche, mostra~ chiaro ch'egli
+non intenda ^miele~ ma ^pomi~; opinione stranissima, perch@e @e
+chiaro che qui il Poeta intese tradurre puramente la parola
+biblica ^mel.~  Che poi le |locuste~ fossero cibo, non certo da
+epuloni, ma da poveri o penitenti, agli orientali, qualunque
+trattato di archeologia biblica lo pu@o insegnare, non potendo in
+esso mancare un capitolo ^de locustis.~  -- |Nel deserto~; cf.
+^Par.~, XVIII, 134; XXXII, 31.  -- |Tanto grande~ ecc.; allude
+alla parola del Salvatore (^Matth.~, XI, 11): ^Non surrexit inter
+natos mulierum major Joanne Baptista.~  -- |V'@e aperto~; v'@e
+fatto palese.  Del ^secol primo~ scrisse Boezio (^Cons. Fil.~, 
+II, r. 5):
+
+     Oh bene avventurosa
+     Et@a prisca, ch'a quello
+     Vivea contenta che la terra dava!
+     ...la fame domava
+     Dopo un lungo digiuno
+     Col grand'arbor di Giove, 
+     N@e sapea come o dove
+     Si mescolasse il vino e il mele in uno...
+     Spegnean la sete a chiaro rivo o fonte.
+
+	Nota le terzine 3 alla 9; 15, 17, 23, 24, 28, 31, 33; 36
+alla 39; 42 sino all'ultima.
+
+	^Nota al verso 83~
+
+	Sentimmo in questo Canto il Poeta parlar chiaramente
+della persecuzione avvenuta contro i Cristiani sotto l'imperatore
+Domiziano; e altro martire di tale persecuzione abbiamo in altra
+parte del Poema, voglio dire il Sommo Pontefice S. Cleto (^Par.~, 
+XXVII, 49).  Autori sincroni, come Tertulliano, parlano di quella
+persecuzione; scrittori di Storia ecclesiastica, come Eusebio e
+S. Girolamo [Parlando di San Giovanni Evangelista, scrive:
+^Quartodecimo anno, secundam post Veronem persecutionem movente
+Domitiano, in Patmos insulam relegatus, scripsit Apocalypsim~
+ecc.  E Sant'Agostino (^Civ. D.~, XVIII, 52), annoverando le
+persecuzioni, dice esplicito che la ^seconda~ fu mossa da
+Domiziano] confermano il fatto che si tenne vivo nella costante
+tradizione ecclesiastica.  Ma un'ipercritica, che par mettere
+ogni sua forza nella disinvoltura del negare, ha pur negato, o
+almeno messo in dubbio anche la persecuzione di Domiziano.  Per@o
+il grande progresso che nell'et@a nostra fecero gli studi
+dell'Archeologia cristiana, come venne opportuno a sfatare altri
+sogni e altre negazioni, pare sia venuta apposta anche per
+confermare appuntino ci@o che della persecuzione di Domiziano ne
+narrano gli antichi scrittori, e che la tradizione ecclesiastica
+conserv@o fedelmente.  Com'@e naturale, anche nel commento dantesco
+and@o, per riflesso, insinuandosi cotal dubbio, anzi un'aperta
+negazione; doveroso quindi, soprattutto per l'indole del commento
+mio, l'ingegnarmi di chiarire la cosa.  E per farlo nel debito, 
+modo, affinch@e lo schiarimento avesse un'autorit@a incontestabile, 
+mi rivolsi alla dottrina e alla cortesia dell'illustre Prof.
+Orazio Marucchi, il dotto alunno del dottissimo Comm.
+Giambattista De Rossi (che da tutto il mondo @e stimato quale il
+vero creatore dell'Archeologia Cristiana), del quale con ardore
+pari alla scienza mantiene in tali studi le norme ed incrementa
+con iscritti sapienti il magistero.  Proposta adunque la
+questione, che mi premeva di chiarire, l'illustre Professore, cui
+rendo grazie vivissime, mi riscriveva cos@i:
+
+	<Non sono soltanto lo Scartazzini e qualche altro
+chiosatore di Dante ad impugnare la persecuzione di Domiziano, 
+giacch@e parecchi altri scrittori l'hanno pur fatto, e fra questi
+alcuni anni or sono l'Aub@e, lo storico razionalista delle
+persecuzioni.  Per@o la verit@a storica di quella seconda
+persecuzione non pu@o negarsi da chi vuol ragionare con sana
+critica: e le scoperte e gli studi recenti nel campo
+dell'archeologia cristiana la confermano mirabilmente.
+
+	Alla persecuzione di Domiziano si fa allusione
+nell'Apocalissi e nella celebre lettera di Clemente romano alla
+Chiesa di Corinto.  Nella risposta di Traiano a Plinio si vieta
+di condannare da allora in poi i cristiani per accuse anonime; il
+che dimostra che prima tali accuse vi erano state.
+
+	Parlano poi espressamente di questa persecuzione
+Sant'Ignazio d'Antiochia nella sua Lettera, Egesippo presso
+Eusebio (^Hist. eccl.~, XX, 3), Giustino (^dialogo con Trifone~), 
+Tertulliano (^ad nationes~, I, 14), nominando i delatori, e
+dandone colpa ai Giudei; i quali avevano allora una ragione di
+pi@u per odiare i Cristiani, perch@e Domiziano aveva imposto loro
+una tassa che non colpiva i seguaci di Cristo.
+
+	Del resto anche gli autori pagani ci danno alcune notizie
+che possono riferirsi a questa persecuzione.  Dione Cassio narra
+che Domiziano mand@o a morte il suo cugino Flavio Clemente
+console, insieme alla moglie Flavia Domitilla, perch@e accusati di
+ateismo e di costumi stranieri; ed aggiunge che fece anche
+uccidere Acilio Glabrione e ^molti altri~ perch@e accusati degli
+stessi delitti.  E Svetonio, parlando di Glabrione, dice che fu
+condannato come ^molitor rerum novarum.~  Ora queste accuse di
+ateismo, di opinioni giudaiche, di novit@a, nascondono senza
+dubbio l'accusa di Cristianesimo.
+
+	Gli atti dei Martiri completano, bench@e sotto forma
+leggendaria, la storia del martirio di Flavio Clemente e di
+Domitilla sua moglie, e d'un'altra Domitilla giuniore sua nepote, 
+della quale ci d@a notizia anche Eusebio, citando lo storico
+Bruzio Presente.
+
+	Ora le scoperte avvenute nel grande cimitero della via
+Ardeatina nel 1874 e 1875 hanno recato una conferma monumentale a
+tutto il racconto di quei martiri, mostrando che nei loro Atti vi
+era certamente un fondo di storica verit@a.  Infatti si @e trovato
+che il cimitero chiamato, per tradizione, di Domitilla, era
+fondato sotto un predio appartenente a questa nobile signora, che
+le tombe cristiane pi@u antiche di quel sotterraneo erano appunto
+dei tempi di Domiziano, e vi erano sepolti illustri personaggi
+della gente Flavia.  Cos@i pure si @e constatato che in questo
+antichissimo ^Sepulcrum Flaviorum~ furon sepolti i santi martiri
+Nereo ed Achilleo, i quali appartenevano appunto alla famiglia di
+Flavia Domitilla: e nella loro Basilica si @e trovato il carme
+damasiano, in cui il poeta Pontefice attesta la loro morte
+avvenuta mentre infieriva una crudele persecuzione.
+
+	Quanto all'altro celebre personaggio immolato da
+Domiziano, cio@e Acilio Glabrione, non era restata alcuna memoria
+nei fasti ecclesiastici; tanto che solo per congettura qualche
+erudito aveva supposto che egli fosse stato ucciso in odio della
+fede cristiana.  Ora per@o le recentissime scoperte avvenute nel
+cimitero di Priscilla sulla via Salaria hanno mutato questa
+congettura in assoluta certezza.
+
+	In quel cimitero, che @e il pi@u antico di tutti, e dove
+furono sepolti Pudente, Pudenziana e Prassede, Aquila e Prisca, 
+ed altri personaggi contemporanei degli Apostoli, in quel
+cimitero, e precisamente in una delle regioni pi@u antiche di
+esso, si @e rinvenuto l'ipog@eo sepolcrale di Acilio Glabrione e
+dei suoi discendenti, con molte iscrizioni dei membri di questa
+famiglia, recanti indizi sicuri di cristianesimo.  Di pi@u, il
+sepolcro di Acilio Glabrione divenne nel quarto secolo la
+Confessione della Basilica di S. Silvestro, fabbricata al disopra
+di quelle grotte; la qual cosa prova che la tomba del console era
+tenuta in grande venerazione.
+
+	Finalmente nello stesso cimitero di Priscilla si sono
+trovate alcune tombe ancora intatte della fine del primo secolo;
+e sopra una di queste si legge il nome di un ^Verecundus~ col
+titolo solenne di ^martyr.~  Fu questi, secondo ogni indizio, un
+martire fin qui sconosciuto della persecuzione di Domiziano.
+
+	Adunque le recenti scoperte avvenute nelle Catacombe
+Romane confermano splendidamente la verit@a storica della fiera
+persecuzione mossa alla Chiesa dall'indegno fratello dell'ottimo
+Tito, giustamente vituperato per la sua crudelt@a dagli stessi
+scrittori pagani.>

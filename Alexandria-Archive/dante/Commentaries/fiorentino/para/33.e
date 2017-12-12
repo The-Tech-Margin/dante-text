@@ -1,0 +1,683 @@
+	|Proemio.~  In questo capitolo finale intende l'Auttore
+toccare undici cose.  La prima tocca nella sua orazione le
+prerogative di Nostra Donna; la seconda fae S. Bernardo per lo
+Auttore la petizione, a ci@o che la sua vista tanto si levi
+ch'egli possa vedere dell'ultima salute, soggiugnendo ancora
+ch'ella gli conservi sua visione e concetti; la terza cosa che
+intende toccare, s@i @e come fin$io suo desiderio, veggendo l'ultima
+salute; la quarta recita come sua visione s@i s'incorava, e
+montava in tale modo che, n@e in detto n@e in fatto, la memoria
+gliele pu@o ridire; la quinta fa invocazione a Dio che gli presti
+grazia, acci@o che alquanto possa palesare in questa ^Commedia~ di
+sua visione; la sesta dice in universali quello ch'el vide; la
+settima tocca la dificult@a che ha la memoria a dire di ci@o;
+l'ottava tocca come chi vede quella ultima salute @e impossibile
+che mai se ne parta ^volontarie~; la nona ancora tocca e descrive
+quello ch'el vide, ma in particularit@a; la decima tocca la
+dificultade del manifestare tale visione, per che non poteo nelle
+persone cogliere ordine a chi dovesse cominciare, tanto sono
+equali, e ponlo per esemplo; la undecima et ultima tocca come Dio
+puose fine a sua volont@a, quasi a dire: Io vidi tanto quanto @e
+possibile a vedere, e s@i lo conobbi, onde mia parlatura pi@u non
+si estende.  E qui fa fine all'ultimo capitolo del ^Paradiso~,
+ch'@e la fine della sua ^Commedia.~  Alla prima cosa s@i @e da
+sapere che maravigliose sono le prerogative di Nostra Donna, e
+possonsi considerare in tre modi.  Lo primo modo s@i @e da parte
+della sua persona; lo secondo modo s@i @e da parte di suo
+Figliuolo; lo terzo modo da parte degli suoi atti.  Quanto al
+primo modo appare grande prerogativa che fue Vergine anzi al
+parto e nel parto e dopo 'l parto; innanzi al parto si hae per
+Isa$ia, capitolo VIJ: ^Ecce Virgo concipiet~ etc., nel parto per
+Jeremia capitolo XXJ: ^Novum faciet Dominus super terram~; dopo
+'l parto: Canticorum IIIJ: ^Tota pulcra es, amica mea, et macula
+non est in te.~  Ancora fue madre di Cristo, che fue verace Iddio
+et uomo, e in essa incarnazione ministroe la sustanzia subietta,
+e 'l conveniente nutrimento, per IX mesi nel suo ventre, unde
+Sapientiae VIJ: ^In ventre matris figuratus sum caro.~  Fue
+eziandio di stirpe regale, ch@e fue del parentado di Davit: unde
+l'Apostolo ad Romanos II, dicendo del Figliuolo suo, s@i dice:
+^Qui factus est ex semine Davit, secundum carnem~ etc. et ad
+Galatas IIIJ tocca come Dio mand@o ad incarnare lo figliuolo nella
+Vergine Maria, e dicesi: ^Misit Deus filium suum factum ex
+muliere~ etc.  Or quanto siano maravigliose le sue prerogative da
+parte del Figliuolo e alte, appare che fue madre del Figliuolo di
+Dio: Ecclesiaste XXIIIJ: ^Qui creavit me requievit in tabernaculo
+meo.~  Ecco come fue figlia del suo figlio.  Ancora per lo suo
+figliuolo fue redemita la umana generazione, s@i come pi@u volte @e
+detto, e per questo si dinota l'altezza di tale creatura.  Or
+quanto siano maravigliosi gli suoi atti appare per la sua
+umilitade in prima, della quale scrive S. Bernardo: ^Quae est
+ista tam sublimis humilitas?  quae honori cedere non novit,
+insolescere gloria nescit, Dei mater eligitur, et ancilla se
+nominat, de se dicens: Respexit humilitatem ancillae suae.~ 
+Ancora si dinota sua umilitate quando and@o a servire Elisabetta
+nel parto, unde S. Bernardo: ^In momentanea confestinatione
+abiit, et Elisabet salutata, eius ministerio quasi mensibus
+tribus humiliter stetit~ etc.  Ancora si @e nostra avocata dinanzi
+a Dio; onde S. Bernardo: ^Securum accessum habes, o homo, ad
+Deum, ubi mater ante filium, et filius ante patrem: mater
+ostendit filio pectus, et ubera: filius patri latus et vulnera:
+nulla ergo poterit esse repulsa tibi, ubi tot occurrunt
+charitatis insigna~ etc.  Ancora questa avvocata s@i ha tre
+condizioni, per le quali ella adduce a diritto fine le nostre
+cagioni ^termine fisso di eterno consiglio~ {v. 3}.  La prima si
+@e che sollecita e sempre prega, unde in Psalmo: ^Astitit regina a
+dextris tuis~ etc., che non si parte, s@i come molte volte si
+partono gli avocati all'ora bisognosa di allegare per la parte. 
+La seconda condizione, che @e savia, unde nel predetto Salmo
+segue: ^In vestitu deaurato~; e questa vesta significa sapienzia,
+imper@o che l'oro per la Scrittura santa hae a significare ci@o: et
+@e grande sicurtate ad avere avocato savio, imper@o che non si pu@o
+dubitare di peccare in forma; ch@e molti avocati sono, che
+ignorono s@i bene l'oficio suo, come colui per cui egli avocano. 
+La terza condizione si @e ch'Ella @e amata in corte, per la quale
+cosa ella hae quelle grazie e doni ch'ella sa adomandare, unde in
+salmo: ^Circumdata varietate~, la quale varietade sono gli ordini
+degli angeli, e gli ordini degli santi, gli quali tutti la
+onorono, tutti la desiderano, s@i come scrive S. Gerardo vescovo e
+martire, nella sua Omelia: ^Solus Dominus Jesus Cristus potest
+ipsam magnificare, quemadmodum fecit, ab ista majestate laudem
+accipiat et honorem, angelicis stipata choris, arcangelicis
+vallata turmis, thronorum, hinc inde possessa jubilationibus,
+Dominationum circumdata tripudiis, Principatuum circumscripta
+obsequiis, Potestatum amplexata plausibus, Virtutum girata
+honoribus, Cherubim circumstantiata ignificationibus, Seraphim
+undique possessa ineffabilibus cantionibus, Apostolorum
+splendidisimus ordo ineffabili laude illam extollit, Martirum
+exercitus omnimode supplicat Dominae tantae, Confessorum
+multitudo innumerabilis continuum sibi personat canticum:
+Virginum candidissima comptio vigentem choream ad suam celebrat
+gloriam~ etc.  S@i che, considerando tali prerogative, tali
+grandezze, tale stato nella corte di Paradiso avere Nostra Donna,
+s@i come propria avvocata introduce S. Bernardo l'Auttore ad orare
+a lei acci@o che per essa sia ^impetrata~ grazia dallo unico
+Signore, che l'Auttore possa dicernere e vedere alcuna cosa del
+suo splendore: e s@i come apparer@a nel testo, nella orazione si
+contiene per varj modi le prerogative predette.  Alla seconda
+cosa s@i @e da sapere che, connumerate le prerogative di Nostra
+Donna S. Bernardo fae due petizioni per lo Auttore, la prima si @e
+che disponga s@i sua vista ch'egli possa vedere l'ultima salute;
+la seconda si @e che, dopo tale visione, gli conservi gli suoi
+buoni concetti, acci@o che possa ridirne nella sua ^Commedia~,
+perch@e se ne segua quella cagione finale che dirizoe sua opera,
+ci@o @e di rimuovere gli mondani dagli vizj, e adirizzargli in
+vivere di virtude.  Circa la quale disposizione s@i si pu@o formare
+tre domandagioni; la prima si @e, se l'uomo per gli suoi naturali
+pu@o vedere Iddio per essenzia; veduto che no, se per grazia lo
+pu@o vedere; terzio lo modo che lo vede, se per alcuna
+similitudine etc.  Circa la seconda petizione si pu@o formare due
+domandagioni; prima, se la nostra memoria pu@o conservare tale
+visione per suoi naturali, o per grazia; seconda, se nostra
+locuzione pu@o manifestare tale visione per suoi naturali, o per
+grazia.  Veduto questo, chiaro apparer@a come fue bisogno, acci@o
+che l'Auttore alquanto manifestasse di sua visione, impetrasse
+grazia orando, con ci@o sia che per s@e medesimo non era possibile
+a sua vertude tanto carico.  Alla prima si @e da sapere che, s@i
+come dice Tommaso nella I parte, questione XII, articolo IIIJ, lo
+conoscere aviene secondo che la cosa conosciuta @e nello
+conoscente; la cosa conosciuta s@i @e nello conoscente secondo lo
+modo del conoscente, e secondo sua natura; ma, se la cosa che si
+dee conoscere eccede e superabunda la natura del conoscente,
+chiaro appare che per suoi naturali lo conoscente nolla puote
+conoscere.  Or, se lo 'ntelletto umano non pu@o da s@e conoscere
+Dio, perch@e escede a sua natura, molto maggiormente lo senso del
+viso nollo pu@o vedere, con ci@o sia cosa che le virtudi sensitive
+sono pi@u basse che quelle dello 'ntelletto; e spezialmente contro
+le divine cose.  Or'@e da vedere, se per grazia Dio pu@o esser
+veduto dall'uomo; et @e la seconda domandagione, alla quale
+risponde Tommaso nella I parte, questione XIJ, articolo V, che
+ogni cosa che si leva sopra sua natura, fa bisogno che sia
+disposta per alcuna disposizione sopra naturale; s@i come, se
+l'aire dee pigliare forma di fuoco, fa bisogno che alcuna
+disposizione, ^supple~ celeste, la disponghi, e tirilo alla forma
+del fuoco cos@i ogni intelletto creato, se dee accedere a tanta
+sublimitade quant'@e a vedere Dio per essenzia, fa bisogno che la
+divina grazia lo disponga e soprav@egnali, con ci@o sia che per suo
+naturali, com'@e detto, non pu@o montare a tanta perfezione; e
+questo si @e quello lume, di cui @e scritto Apocalipsis XXJ:
+^Claritas Dei illuminat eam~, ci@o @e quella compagn$ia degli beati
+che vegono Idio; e secondo questo lume diviene l'uomo ^Deiforme~,
+ci@o @e simiglievole di Dio, s@i come scrive S. Joanni in Evangelio,
+capitolo IIJ: ^Cum apparuerit, similes ei erimus~ etc.  E cos@i
+possiamo conchiudere che, sanza tale disposizione, l'uomo non pu@o
+vedere Iddio per essenzia; e con essa si @e veduto come Dio, per
+alcuno modo, si pu@o vedere, ci@o @e per grazia.  S@i @e da sapere che
+tale visione si @e differente da questa mondana: quando noi
+veggiamo una cosa, la spezie visibile di quella cosa ne viene
+alla pupilla, e per quella la conosciamo, imper@o che la nostra
+pupilla si immuta per colore e ha figura della cosa.  Ancora
+possiamo vedere una cosa che si specchi, ch@e la nostra pupilla si
+muter@a allo specchio secondo colore e figura, e si immuter@a
+secondo quella spezia visiva ch'@e nello specchio, che v'@e per la
+cosa che si specchia in esso specchio, e cos@i vedremo la cosa che
+si specchia mediante lo specchio, e solo per le spezie visibili,
+e veggiamola tutta.  Nella visione di Dio non possiamo lui tutto
+comprendere, con ci@o sia che nostra visione, eziand$io con grazia,
+nollo possa comprendere; et eziand$io non possiamo comprendere
+tutto quello che in lui si vede, s@i com'@e possibile che non
+veggiamo n@e conosciamo ogni spezie visibile che appare nello
+specchio.  Ancora non veggiamo per spezia visibile quello che sia
+in la essenzia di Dio, ma secondo che tale essenzia n'@e congiunta
+collo intelletto, s@i che chi pi@u intende pi@u vede, e chi meno,
+meno: unde tale visione segue la condizione di colui che vede,
+della quale materia si tratta per Tommaso nel preallegato libro,
+e per tutti gli articoli della XII questione a sufficenzia.  E
+cos@i, conchiudendo, per le predette cose possiamo dire che la
+visione di Dio per essenzia sia secondo due condizioni: l'una s@i
+@e da parte d'esso Iddio veduto, l'altra s@i @e da parte dell'uomo
+vedente: da parte di Dio s@i @e impossibile comprenderlo, imper@o
+che @e infinito, e tanto rimosso dal segno degli mortali e d'ogni
+essenzia creata, quanto @e da Creatore a creatura, che non v'ha
+alcuna proporzione: da parte dell'uomo vedente s@i @e differenzia
+da uno a un altro; ch@e, s@i com'@e detto, secondo la condizione
+dello vidente e disposizione, s@i @e pi@u e meno nella sua visione,
+e questo basti al nostro proposito.  Alla prima quistione della
+seconda domandagione s@i @e da sapere che la virt@u della memoria
+nell'uomo s@i @e fondata in organo corporale, s@i come mostra lo
+Filosofo in IIJ ^De anima.~  Or, se lo intelletto, ch'@e virtude
+spirituale, e che non @e fondato in organo corporale, non pu@o
+accedere a tanta altezza d'intendere e vedere, molto maggiormente
+la memoria, per suoi naturali, non @e sufficiente a potere
+ricevere tali spezie intelligibili; ch@e, s@i come dice Tommaso,
+questione XIJ, articolo XJ: ^Anima nostra quanto magis a
+corporalibus abstraitur, tanto intelligibilium astractorum fit
+capacior~ etc.  E cos@i ^per locum ab oppositis~, quanto la
+vertude @e pi@u conjunta cogli corpi, tanto @e meno sufficente alle
+astratte cose.  La memoria, s@i come detto, @e fondata nell'organo
+corporale, ^ergo~ etc.  Adunque si pu@o conchiudere che la memoria
+@e uno tale strumento, che non pu@o ridire quello che per lo suo
+intelletto @e veduto circa la divina essenzia, quando lo
+intelletto vede per grazia; imper@o che, se lo intelletto @e tirato
+fuori degli suoi termini, la memoria, che, secondo ordine
+naturale, @e proporzionata a quello, non pu@o accedere a tanta
+altezza: adunque @e bisogno che per grazia similemente la memoria
+sia illuminata, acci@o che possa ridire a quello che
+all'intelletto per grazia @e mostrato.  Allora quella proporzione
+che ha lo intelletto alla cosa ch'@e veduta secondo suo grado,
+secondo quella proporzione avr@a la memoria alla cosa ch'@e veduta
+secondo suo grado in ridirlo, salva sempre la volontade del
+Creatore; imper@o che, poscia che la cosa passa gli suoi termini
+naturali, non @e di sua considerazione a cercare in essa l'ordine
+naturale, tutto che la possanza sua possa, in quelle cose che
+sono infra gli termini naturali, adoperare altro, s@i come appare
+negli miracoli etc.  Alla seconda domandagione della seconda
+petizione s@i @e da sapere che la locuzione fruttifera si @e grazia
+^gratis data~ da Dio all'uomo in altrui utilitade, s@i come mostra
+Tommaso, ^Secunda secundae~, questione CLXXVIJ, ^Ad primum~; unde
+tale grazia si aggiunge sopra natura, imper@o che per pura
+locuzione, s@i come hanno gli uomini, non si potrebbe manifestare
+quello che trascende lo intelletto e la memoria umana ad
+intendimento: potrebbesi ben parlare di cose alte oltre gli
+limiti naturali, s@i come faceano gli profeti; ma ancora tale
+locuzione non era sanza grazia, tutto che alcune volte egli non
+intendeano le sue profez$ie, s@i come mostra Tommaso, ^Secunda
+secundae~, questione CLXXJ articolo V; e per@o, considerando
+l'Auttore che s@i la visione come la memoria, come eziand$io la
+parlatura, trascende nella presente materia tutti gli limiti,
+termini vel segni naturali; e che sanza grazia non potea alcuna
+cosa toccarne, quella s@i impetroe a Nostra Donna orando, acci@o
+che egli potesse ottenere suo intento.  Or quanto sia lo valore
+della orazione, chiaro appare nella ^Secunda secundae~ di Fra
+Tommaso, questione LXXXIIJ.  Alla terza cosa ch'@e toccata nello
+presente capitolo s@i @e da considerare due cose, imper@o che
+l'Auttore dice che fin$ie in s@e l'ardore del disiderio: la prima
+si @e, se la visione della essenzia divina @e l'ultima beatitudine;
+la seconda si @e, se in essa visione si quieta lo desiderio umano. 
+Alle quali due questioni Tommaso nella ^Secunda secundae~,
+questione IIJ, articolo VIIJ, risponde e dice, che l'ultima e
+perfetta beatitudine non pu@o essere se non nella visione della
+divina essenzia; e mostralo considerando circa ci@o due cose,
+l'una si @e che l'uomo non @e beato fino che gli resta alcuno
+desiderio di sapere pi@u innanzi, o che li @e pi@u da considerare;
+l'altro si @e che ogni cosa riceve perfezione secondo la ragione
+del suo obietto: l'obietto dello 'ntelletto s@i @e sapere ^quicquid
+est~, ci@o @e sapere ci@o ch'@e la cosa per sua essenzia, s@i come lo
+filosofo dice nel III dell'^Anima~: e per questi due modi la
+visione della essenzia divina s@i @e la perfetta beatitudine e
+queta il suo disiderio: primo che, veggendo la essenzia divina,
+vede la cagione di tutte cose; e cos@i @e beato, come dice Tommaso:
+^Ad perfectam beatitudinem requiritur quod intellectus pertingat
+ad ipsam essentiam primae causae, et sic perfectionem suam
+habebit per unionem ad Deum, sicut ad obiectum, in quo sola
+beatitudo hominis consistit~; secondo, poi che ha conosciuta la
+prima cagione, non pu@o lo 'ntelletto pi@u domandare, e cos@i rimane
+quieto, s@i come chiaro appare ^Contra Gentiles~ III, capitolo
+LXIIJ.  Alla quarta s@i @e da sapere come l'Auttore tocca che sua
+visione montava a tal modo, che dificile gli @e a dirlo: alla qual
+cosa s@i @e da sapere che tale visione, dappoi che passa gli
+termini naturali, e tende nella essenzia divina, puote esser
+detta ^ratto~, s@i come si difinisce ^raptus est ab eo quod est
+secundum naturam, in id quod est supra naturam.~  Circa lo quale
+^rapto~ s@i @e da sapere ch'ello pu@o accadere negli uomini in tre
+modi: l'uno si @e quando la cagione s@i @e intrinseca, che l'anima
+si leva dagli sensi, e con essi non fae quella sua operazione, s@i
+come in sogno vel per infirmitade alcuna, che per debilezza di
+corporal natura l'anima non @e imbrigata e levasi ad alcune cose
+astratta; l'altro modo s@i @e per virt@u di demonj, per la quale
+congiunzione l'anima vede alcune astratte cose; lo terzo modo s@i
+@e per virt@u divina, per la quale virt@u l'anima si leva a vedere,
+vel considerare, cose sopra natura, e che trapassano ogni
+naturale podere; e s@i come @e scritto in Isa$ia VIIJ: ^Spiritus
+elevavit me inter coelum et terram, et adduxit me in Jerusalem in
+visionibus Dei.~  E per questo terzo modo intende l'Auttore che
+sua visione si sincerisse et ascendesse.  Or, vogliendo mostrare
+l'Auttore che sua visione tegna lo excelso grado, eschiude che ad
+essa non pu@o attingere memoria n@e parlatura, n@e altra corporale
+disposizione vel possanza, s@i come dice la chiosa sopra lo
+Psalterio in principio degli modi delle profez$ie: ^Ille modus
+prophetiae caeteris est dignior, quando scilicet ex sola Spiritus
+Sancti spiratione, remoto omni exteriori amminiculo, facti, vel
+dicti, vel visionis, vel somnii, prophetatur.~  E cos@i ^per locum
+a simili~ quella visione ch'@e pi@u astratta, e remota da ogni
+corporale virtude, vel possanza, tiene pi@u degno grado nelle
+visioni.  Alla quinta cosa si @e da sapere che l'Auttore domanda,
+faccendo sua invocazione a Dio, che gli presti grazia ch'egli
+possa dire alcuna cosa di sua visione, e tocca brievemente quello
+che ha bisogno del sermocinare, primo ^ad instruendum
+intellectum, quod fit dum quis loquitur quod doceat~; e questo
+tocca quando dice: ^Ch'una favilla sol della tua gloria, Possa
+lasciare alla futura gente~ {71-72}; secondo ^ad movendum
+effectum ut sic libenter audiatur~; e questo quando dice: ^E per
+sonar un poco in questi versi~ {74} etc., imper@o che sono
+dilettevoli le rime; tertio ^ad hoc quod auditor amet ea quae
+verbis significantur.~  E questo tocca quando dice: ^Pi@u si
+conceper@a di tua vittoria~ {75}; ch@e quanto pi@u si conosce lo
+sommo bene, pi@u s'ama.  Avendo tale intenzione, fa sua preghiera;
+poi accede a dire quello che vide.  La sesta cosa ch'@e toccata si
+@e come nella divinitade vide tre persone in una essenzia, la
+quale Trinitade non repugna alla unitade.  Ello fa bisogno che
+noi concediamo che Dio sia, e che lo suo essere sia amore; le
+quali cose per uno modo sono in Dio, e per un altro negli uomini:
+nell'uomo s@i @e in sua natural sustanzia, ma lo 'ntendere e
+l'amare dell'uomo non sono la sustanzia dell'uomo: l'uomo,
+secondo che si considera sua natura, s@i @e alcuna cosa ch'@e
+^substinens~; ma, secondo ch'ello @e nello 'ntelletto suo, non @e
+cosa ^substinens~, ma @e alcuna intenzione della cosa che @e
+^substinens.~  E similemente l'amore @e nell'uomo come l'amato
+nell'amatore; e cos@i appare che nell'uomo si pu@o considerare tre
+cose, ci@o @e l'uomo esistente nella sua natura; e l'uomo esistente
+nello 'ntelletto, e l'uomo in amore esistente.  Et ancora queste
+tre cose non sono una, imper@o che lo 'ntendere dell'uomo non @e lo
+suo essere; n@e l'amore dell'uomo non @e in suo essere.  In Dio
+sono per altro modo; ch@e Dio s@i @e suo essere, s@i come prova
+Tommaso ^Contra Gentiles~ I, capitolo XXIJ; Dio s@i @e suo
+intelletto e intendere, s@i come pruova nel predetto libro
+capitolo XLV: Dio s@i @e suo amore, s@i come nel LXXXXJ capitolo del
+predetto libro chiaro appare: e tutte queste cose sono uno,
+avegna che ciascuna sia ^subsistens~, le quali sussistenze sono
+le persone della Divinitade, Padre, Figliolo e Spirito Santo, che
+sono uno Dio; ^unde Athanasius dicit, quod unitas in trinitate et
+trinitas in unitate veneranda sint.~  E S. Agostino dice nello
+libro ^De fide ad Petrum~: ^Una est essentia patris, filii et
+spiritus sancti, in qua non est aliud pater, aliud filius, aliud
+spiritus sanctus, quamvis personaliter sit alius pater, alius
+filius, alius spiritus sanctus~; e dice che in esse tre persone
+vede tutto quello che si squaterna per lo mondo, s@i sustanzie, s@i
+accidenti, s@i loro composizioni: s@i che, veggendo Dio, vede tutte
+le cose del mondo.  E nota, che dice ^del mondo~, imper@o che
+sarebbe impossibile ad intelletto creato potere vedere tutto
+quello ch'@e in Dio, con ci@o sia che solo esso si vede e si
+comprende, s@i come mostra Tommaso nella I parte, questione XIJ,
+articolo VIIJ.  Alla settima cosa s@i @e da sapere che l'Auttore s@i
+adduce, a mostrare la difficultade, una fabula poetica, la quale
+come l'adduce in proposito, chiaro apparer@a nella esposizione del
+testo.  Alla ottava cosa s@i @e da sapere, s@i come pruova Tommaso,
+III ^Contra Gentiles~, questione XLVIIJ, che la ultima felicit@a
+umana consiste nella visione della essenzia di Dio, in quello
+modo ch'ella vede le sustanzie separate, lo qual modo non pu@o
+essere sanza grazia e lume datogli da Dio, s@i come si prova nella
+questione LIIJ del predetto III; lo qual lume l'Auttore pone che
+avesse largitoli per la soprascritta orazione e invocazione che
+fece; lo qual lume dispone s@i l'uomo, ch'@e queto suo desiderio,
+imper@o che egli vede lo summo bene, ed @e impossibile che da tale
+visione si voglia partire, imper@o che la volont@a non vuole, se
+non sotto ragione d'alcuno bene.  Or s'ella vede alcuno maggior
+bene, come si puote volere cambiarlo, con ci@o sia che ogni altra
+visione cade da quella in bontade?  e per@o pruova Tommaso ^Contra
+Gentiles~ III, capitolo LXIJ: ^Quod videntes Deum in perpetuum
+eum videbunt.~  Et in Psalmo: ^Beati qui habitant in domo tua,
+domine; in saeculum saeculi laudabunt te.~  Et in un altro
+psalmo: ^Non commovebitur in aeternum qui habitat in Jerusalem.~ 
+La nona cosa che tocca in questo capitolo, s@i come apparir@a nel
+testo, si @e quello che ha toccato nella sesta; ma dicielo per
+altre parole; ci@o @e della unitate della essenzia e della Trinit@a
+delle persone nella divinitade.  Alla decima cosa s@i @e da sapere
+che, poi che l'Auttore vedea la divinitade esser una in essenzia,
+e t@erna in persone, dice che non sae dove si cominciasse sua
+visione.  Or ello non vuole dire altro, se non che nelle persone
+della divinit@e @e tanta equalitade, che non sae da quale si
+cominci, nella vertude, nella possanza, ne lo splendore; e per@o
+non sa ridire da quale ello cominciasse sua visione.  Circa la
+qual cosa s@i @e da sapere, s@i come si mostra nella I parte per
+Tommaso, questione XLII, articolo I: Necessaria cosa @e ponere
+equalitade nelle Divine Persone, imper@o che, s@i come dice lo
+Fiiosofo nel IX della ^Metafisica~: ^Aequale dicitur per
+negationem maioris et minoris.~  Nelle divine persone non
+possiamo porre alcuno maggiore e minore, perch@e la quantit@a a chi
+spetta maggiore e minore s@i @e la essenzia divina; e di sopra @e
+detto che, se tre persone sono in una essenzia, se fossero
+differenti e non equali, seguirebbesi non essere una essenzia, il
+quale @e assurdo; imper@o che non sarebbe tre persone uno Dio ch'@e
+impossibile.  Adunque @e bisogno che, poi che sono in una
+essenzia, siano equali, e questo dice Atanasio: ^Tres personae
+sunt, sibi coequales.~  La undecima et ultima cosa che tocca, e
+compie suo capitolo, s@i @e, come quello Creatore, che lo allumin@o
+a conoscere tanta altezza, gli volse il volere suo, quasi a dire,
+messe termino a suo itinere, e fece quello punto ch'@e l'ultimo
+nella sua poetria, s@i come apparir@a nel testo esposto ^cum laude
+Dei.~
+
+	|1-3.  Vergine madre~: Invocando, cominci@o a nomare
+Nostra Donna, quasi a dire: A te, donna, io dirigo il mio
+parlare.  |Figlia del tuo~: Quasi a dire: Tu se' figliuola di
+Dio, il qual'@e padre d'ogni creatura, il quale @e tuo figliuolo,
+il quale prese da te carne e del tuo puro sangue.  |Umile~: Ci@o @e
+negli tuoi atti e abiti.  |Alta~: Perch@e fosti madre di Dio. 
+|Termine~: Ci@o @e tu se' quello segno, a cui dee essere diretto
+ogni nostro sermone e bisogno, per@o che bene soccorri. 
+|D'eterno~: Nota la escellenzia s@i del consiglio come dello
+ajutorio, ch@e dice |eterno,~ ci@o @e sanza fine, e dice a
+differenzia di tutti gli altri consigli che hanno tutti fine;
+consiglia la medicina a conservare la sanitade solo per lo tempo
+del decorso del tempo della vita: consiglia la legge a vivere
+virtudioso, solo per lo tempo della vita umana; e cos@i tutte le
+altre arti consigliano tutte a termine; ma lo ajutorio e
+consiglio che s'hae da Nostra Donna non @e terminato n@e
+circoscritto da termine, ma @e etterno, che mai non verr@a meno.
+
+	|4-6.  Tu se' colei~: Quasi ^demostrative~ parlando, tu
+se' quella, per cui @e riparata et esaltata e sovenuta la natura
+umana, caduta dipressa e affondata per lo peccato.  |S@i che 'l
+suo~: Tu fosti mezo tra Dio e l'umana natura; e fosti tal mezo, e
+se', ch'alcuno disdegno non ebbe lo Creatore di assumere di te
+carne, e diventare uomo.
+
+	|7-9.  Nel ventre~: ^Et benedictus fructus ventris tui~,
+ci@o fue la umanit@a di Cristo.  |Per lo cui caldo~: Ci@o @e per la
+cui passione e morte, @e cos@i allegrato questo fiore, questa rosa,
+in cui forma mi si mostra la trionfante congregazione de' beati.
+
+	|10-12.  Qui se'~: Or dice S. Bernardo: Tu, Donna, se' a
+noi meridiana facella (nota ^facella~ che importa splendore e
+lume) meridiana, ci@o @e in supremo grado di splendore; che, s@i
+come lo sole e l'altre stelle rifulgono pi@u nella linea
+meridiana, che nelle altre plaghe celesti, cos@i tu, Donna, tra
+l'altre lumiere se' meridiana, ^hoc est superabundans in lumine.~ 
+|Di carit@a~: Ci@o @e, s@i come in vista tu se' pi@u lucida delle
+altre, cos@i in essere in te @e pi@u ardore di caritade.  |E giuso~:
+Ci@o @e al mondo tanto ridonda tua caritade che ogni mortale da cui
+se' conosciuta pone viva speranza in te.
+
+	|13-15.  Donna se'~: Detta la scellenzia da parte d'essa
+donna, or la mostra da parte del Creatore, lo qual tanto l'ama,
+che quasi non @e disposto a fare grazia sanza questo benedetto
+mezo di Nostra Donna ad alcuno; e per@o dice l'Auttore: ^Chi vuole
+grazie e non ricorre a te, vuole volare sanza ale~, ci@o @e lo
+Creatore hae ordinato alla natura che faccia ale alli animali che
+debbono volare, e cos@i hae ordinato, chi vuole domandare grazia,
+v@egnala a domandare mediante Nostra Donna, e sara'gli fatta, le
+quali parole importano sottile intendimento in questo modo: per
+Nostra Donna, cio @e mediante essa, @e fatto Dio uomo, @e
+riconciliata la divinitade colla umanitade; e tale modo @e
+piaciuto alla Divinitade d'osservare in rilevazione della natura
+umana; e in essa fue lo Verbo divino incarnato, e d'essa nacque
+Cristo nostro redentore: essa vergine inanzi il parto, nel parto
+e dopo 'l parto, s@i com'@e detto.  Or questo s@i @e fondamento della
+Fede Cattolica: detto @e per l'Apostolo, che sanza fede @e
+impossibile piacere a Dio: adunque sanza questa benedetta Donna
+impossibile @e piacere a Dio.  Ma, se non piace al Signore n@e 'l
+detto n@e 'l fatto di quello che domanda grazia, come @e verisimile
+che lo Signore gliele faccia?  non @e ragionevole; e per@o @e ben
+detto che |qual vuol grazia e a te non ricorre, sua disianza vuol
+volare senz'ali.~
+
+	|16-18.  La tua benignit@a~: Chiaro appare ch'@e tanto
+benigna che previene innanzi che sia per orazione richiesta: e
+questo si @e grande segno di speranza ferma, che non @e sorda a chi
+la richiede.  |Precorre~: Ci@o @e previene.
+
+	|19-21.  In te pietade~: Soccorrendo gli deficienti per
+non potere.  |In te magnificenzia~: Ci@o @e che magnificamente dona
+e distribuisce le sue grazie: e nota che |magnificenzia~ s@i si
+hae per escelso grado nella dispensazione della liberalitade, ch@e
+d@ae e tiene quello ch'@e da dare e da tenere, regulando con
+ragione.  |In te s'aduna~: Ci@o @e in te sono tutte quelle
+perfezioni, che in creatura possono essere; e nota qui che si
+inchiude anche gli angeli: e per@o @e locata sopra tutti gli angeli
+in perfezione et in altezza.
+
+	|22-24.  Or questi~: Fatto S. Bernardo sua persuasione
+orando, qui comincia a toccare alcuno esordio e dice: |Questi~,
+ci@o @e Dante.  |Che dall'infima~: Ci@o @e dal pi@u basso luogo che
+sia nell'uomo, ci@o @e dal peccato.  |Infin a qui ha vedute~: Ci@o @e
+montato a tante intelligenzie e visioni, tanto ch'@e venuto a
+vedere l'ultima salute, ch'@e la essenzia di Dio.  |Le vite~: Ci@o
+@e per quegli mezzi che sono tra gli predetti estremi.
+
+	|25-27.  Supplica a te~: Qui fa sua petizione come chiaro
+appare.  |Levarsi~: Ci@o @e montare a tanta disposizione quant'@e
+bisogno a suo intento.
+
+	|28-30.  E io che~: Ci@o @e io Bernardo d'amore di carit@a
+infuso, ti priego che a lui sia cos@i benivola come mai fosti a
+me.  |Tutti i miei~: Chiaro appare.
+
+	|31-33.  Perch@e tu ogni~: Imper@o che non @e possibile ad
+uomo, in cui sia conjunta l'anima col corpo, innanzi la
+glorificazione ch'avranno gli corpi lo d@i del giudicio, a vedere
+la essenzia divina, s@i come mostra Tommaso, I parte, e per@o
+abbisogna che quella oscurit@a che d@a il corpo all'anima sia per
+grazia lavata, acci@o che possibile sia la visione optata; e per@o
+dice.  |Che il sommo piacer~: Ci@o @e Iddio.  |Si gli dispieghi~:
+Ci@o @e gli si lasci vedere, vel sia possibile a lui vederlo.
+
+	|34-36.  Ancor~: Acci@o che questi effetti che seguiranno
+di tale visione possano essere, per tale conservazione in esso,
+utili ad altri, a cui egli lo dir@a, se non li perde a memoria.
+
+	|37-39.  E vinca~: Ci@o @e, e tua custodia in tali spezie
+visibili che per lui saranno apprese, vinca ogni alterazione
+umana, ci@o @e corporea, che quelle potesse imbrigare.  |Vedi
+Beatrice~: Segue 'l poema.  |Chiudon le mani~: Ci@o @e orano a te
+per questa grazia.
+
+	|40-42.  Gli occhi di lei~: Ci@o @e di Nostra Donna
+guardavano fissi nello oratore, ci@o @e in S. Bernardo, et erano
+quegli segni che fecero demostrazione che molto era a lei di
+piacere gli divoti prieghi.
+
+	|43-45.  Indi all'eterno~: E qui dice che Nostra Donna
+dirizz@o gli occhi all'eterno lume, ci@o @e alla divinitade.  |Nel
+qual~: S@i come @e detto, occhio creato non pu@o inviarsi al fondo
+della divinitade.  |Inii~: S@i @e verbo informativo, et @e tanto a
+dire come diventare simile di quella cosa che considera.
+
+	|46-48.  Et io ch'al fine~: Ci@o @e, et io Auttore,
+apropinquai al fine del disiderio, ci@o @e a quella ultima salute,
+dove sono tutti gli disiderj quetati: e per@o sobjunge, che lo
+ardore del disiderio in s@e fin$ie per la predetta visione.
+
+	|49-51.  Bernardo~: Segue 'l poema e chiaro appare. 
+|Quale ei volea~: Ci@o @e contento e quetato.
+
+	|52-54.  Colla mia~: Chiaro appare.  |Che da s@e~: Ci@o @e
+che non @e grazia ^alterius.~
+
+	|55-57.  Da quinci~: Nota la escellenzia della sua
+visione, ch'@e tale che memoria n@e parlatura non ha tanto
+oltraggio.
+
+	|58-60.  Qual'@e colui~: Qui per esemplo dice che tanto
+gli @e rimaso di sua visione quanto rimane del sogno a colui che
+si ricorda che sogn@o, ma non sa che; s@i come pi@u volte aviene che
+l'uomo dice ^io sopniai uno sopnio d'allegrezza o di paura~, ma
+non hae a mente come fue.
+
+	|61-63.  Cotal fu' io~: Qui fa la comparazione.  |Che
+quasi~: Ci@o @e perduta.  |E ancor~: Ma pur sapea che era stato di
+grande cosa, perch@e alcuno effetto dolce si gli distillava in
+cuore, che procedea dalla sua visione.
+
+	|64-66.  Cos@i la neve~: Ci@o @e s@i come la neve si
+disigilla al sole, perdendo il colore e la figura, cos@i le spezie
+della memoria, che fantasticando riducono allo 'ntelletto la cosa
+gi@a veduta, s@i si disigillorono per quello sole, ch'@e padre
+d'ogni lume, ci@o @e Dio.  |Cos@i al vento~: Circa questa sposizione
+s@i @e due oppinioni: l'uno si @e che la Sibilla, che fue al tempo
+d'Eneas, volendo sue sentenzie essere ascose, s@i le scrivea su le
+foglie degli albori collo licore d'alcune erbe e questa scrittura
+durava tanto quanto la foglia stava verde; quando la foglia
+cadeva per lo vento, essa si seccava, e diventava dello colore
+della foglia, s@i che non si dicernea pi@u la scrittura in sulla
+foglia, e cos@i si perdea.  L'altra oppinione si @e che sibilla sia
+quello suono che fanno le foglie sugli albori mosse dal vento;
+cadute le foglie, @e perduto quello suono, s@i che per difetto di
+subietto si perde tale romore, il quale aviene per lo vento, il
+quale la caccia alla terra; e cos@i in proposito, per difetto di
+fantas$ia, l'Auttore non rimemora sua visione; e per@o questa
+seconda pi@u si conf@a.
+
+	|67-69.  O somma luce~: Ci@o @e, o divinit@a, che tanto se'
+rimossa dagli termini della condizione degli mortali, prestami
+della tua grazia, s@i che nella mia memoria ritornino di quelle
+spere visibili che vi furono quando io ti vidi.
+
+	|70-75.  E fa la lingua~: Et ancor fa che la mia loquela
+possa esprimere quelle, tutto ch'io soe che non @e possibile; ma
+pure una favilla ne dica, et io quella lascer@o in iscritto per
+quegli che sono avenire al mondo, acci@o che abbino alcuna
+introduzione; e soggiungne persuadendola: pi@u si conceper@a di tua
+gloria, se mi ritornono le visioni predette alla memoria, delle
+quali canteranno questi miei versi in suono rimato.
+
+	|76-78.  Io credo~: Qui comincia a dirne, e dice che
+tanto era l'acume del raggio della Divinitade, ci@o @e la
+escellenzia, che, s'egli avesse torto il viso, sarebbe smarrito. 
+E nota qui lo diverso modo ch'egli esprime la bont@a della divina
+visione.  In queste escellenzie quaggi@u, cotanto quanto lo senso
+pi@u vi si ficca, cotanto fae maggior danno al senso, s@i come
+appare chi fisso guarda nello radiar del sole, e come appare
+nello abacinare; e s@i come dice lo Filosofo II ^De anima~:
+^Excellentia sensus corrumpit sensum.~  In quella celeste visione
+della divina essenzia @e tutto 'l contrario, ch@e cotanto quanto
+pi@u vi si mira, tanto si diventa pi@u possente e remuovesi da ogni
+corruzione, imper@o che si diventa simile d'essa: Johannis III:
+^Dum autem apparuerit, similes ei erimus.~  Adunque @e bene detto
+quello dell'Auttore, che quanto pi@u contemplava in esso tanto era
+pi@u sicuro da smarrimento.
+
+	|79-81.  E mi ricorda~: Ci@o @e che per tale simiglianza
+egli era diventato possente e ardito, ch'ello giunse a sostenere
+nelle sue pupille l'aspetto della Divinitade.
+
+	|82-84.  O abondante~: Apostrofa, come appare.
+
+	|85-90.  Nel suo profondo~: Qui mette come ivi sono tre
+persone, ^pater, filius et spiritus santus~, e come in essa
+sustanzia vide tutte le mondane cose, s@i sustanzie, come
+accidenti, et ogni operazioni naturali.  |Quasi conflati~: Qui
+mostra 'l modo, e dice |conflati~, ci@o @e per modo di idee, vel
+esemplarj e similitudini.
+
+	|91-93.  La forma universal~: Ci@o @e la vertude ch'@e nella
+divinit@a creante, che @e essa divinit@a.  |Perch@e pi@u~: E questo,
+dice l'Auttore, @e quello mi fa credere ch'io la vidi, che pure
+ragionandone io mi sento gaudere.
+
+	|94-96.  Un punto~: Qui introduce una fabula poetica, a
+mostrare quanta @e la difficultade di tale visione et
+incomprensibile, in questo modo.  Poneano gli poeti che Neptuno
+s@i era Iddio del mare, ed era molto desideroso che 'l mare fosse
+abitato di genti, s@i come vedea esser la terra: quando avvenne
+che gli uomini fecero da prima navi, e Neptuno l'and@o a vedere; e
+in tal vedere gli avvenne due cose, ci@o @e ammirazione e
+allegrezza, per l'ammirazione gli andava pure attorno, e come era
+dall'uno capo, tornava dall'altro, e cos@i non calava per
+l'allegrezza: era tanto lo detto desiderio che non gli sarebbe
+bastato a fare cos@i per XV secoli di tempo, e lo secolo @e CX
+anni.  Or dice l'Auttore, per mostrare come li @e impossibile a
+dire sua visione, che uno punto, ch'@e delle LX parti l'una d'una
+ora, gli @e di maggiore oblivione, ci@o @e dimenticanza; e per@o
+maggiore disiderio et allegrezza a rimirare; che non sarebbe
+stati XXV secoli a Neptuno a rimirar l'ombra della nave.  Or, se
+cos@i in poco di tempo come uno punto si ricoglie tanta
+ammirazione e pi@u allegrezza che in duemila DCCL anni, chiaro
+appare come impossibile @e a notificarlo n@e in pensiero, n@e in
+detto, n@e in iscritto.  |Letargo~: S@i si espone in due modi,
+^Letargus, idest, copiosus in laetitia; et Letargus est morbus
+oblivionis~, s@i che qual si vuole si toglia, che viene al
+proposito dello Auttore.
+
+	|97-99.  Cos@i la mente~: Qui fa la sua comparazione, s@i
+come chiaro appare.
+
+	|100-105.  A quella luce~: Chiaro appare ch'@e 'l Sommo
+Bene, il quale @e obietto della volontade, e per@o @e impossibile
+che gli Beati vogliano mai altro che volere vedere lo Creatore.
+
+	|106-108.  Omai sar@a~: Qui tocca come @e al fine della sua
+^Commedia~, e che tale proporzione avea la sua parlatura alla sua
+memoria, quale proporzione hae la lingua degli fantolini
+all'essere delle cose.
+
+	|109-111.  Non perch@e~: Or l'Auttore hae detto di sopra
+^tre persone~: qui vuole dire ch'esse sono una divina essenzia,
+s@i come appare.
+
+	|112-114.  Ma per la vista~: Or dice egli ella @e pure una
+essenzia; ma io ven$ia prendendo valore guardando in essa, s@i che
+io mi mutava a me medesimo d'ora in ora.
+
+	|115-117.  Nella profonda~: Ci@o @e nella essenzia divina. 
+|Parvemi tre~: Ci@o @e che quello parea l'uno che l'altro, e
+ciascun dava e ciascun riceveva; nota le relazioni delle persone.
+
+	|118-120.  Iri da Iri~: Ci@o @e, s@i come nell'arco celeste
+si vede diversi colori, ch@e l'uno colore l'altro in s@e riceve e
+fae, cos@i in quella visione.  E dice che 'l |terzo parea fuoco~,
+ch'@e l'amor dello Spirito Santo, il quale igualmente procedea
+dalle due persone, ci@o @e dal padre e dal figliuolo.
+
+	|121-123.  Quanto @e corto~: Qui mostra come sua favella,
+n@e suo esemplo non @e sufficiente a quello ch'el vide, dicendo:
+mio detto non @e sufficiente al mio concepto, alla visione, s@i che
+non basta a dire, ^io dico poco~; ma converrebbesi a dire, ^io
+dico niente.~
+
+	|124-126.  O luce eterna~: Qui vuol mostrare come la
+persona del Figlio gli apparve in effige, vel similitudine umana;
+e mirando quella, cercava di vedere come la Divinit@a era conjunta
+colla umanit@a, la qual cosa non potea vedere, per che solo lo
+Creatore la sae.  E dice |O luce eterna~, ci@o @e, o Divinit@a. 
+|Che sola~: Che stai in te medesima.  |Sola t'intendi~: Ci@o @e
+niuna creatura ti pu@o intendere tutta, s@i che tu sola t'intendi
+s@i come se' intelletta da te, e se' intendente che t'intendi. 
+|Te ami e arridi~: Ci@o @e aprimiti un poco.
+
+	|127-132.  Quella circulazion~: Ci@o @e nelle tre persone
+che m'apparevano in circulazioni, le quali riflettevano gli suoi
+raggi l'una nell'altra, s@i come io vedea dentro da s@e, non
+diverso di colore, m'apparve la nostra efige, per che lo mio viso
+era tutto messo a lei guardare.
+
+	|133-138.  Qual il geometra~: Qui esemplifica che non
+sapea come dovere vedere tale conjunzione, n@e anche come potesse
+cogliere ordine in considerare quelle per la sua eguaglianza; e
+dice che, s@i come lo geometra, ci@o @e mensuratore, quando vuole
+misurare la circumferenza del cerculo, et egli ignora in che
+parte della circumferenza @e lo principio del misurare, e non vi
+sa tornare, cos@i era sua visione, ch'ello non sapea cogliere, n@e
+sapea intendere ordine, nell'intelletto suo, come quella effigie
+fosse entro esse persone, come gli venisse in visione, che luogo
+tenesse in esse.  |Veder volea~: Chiaro appare per quello ch'@e
+detto.  |Vi s'indova~: Ci@o @e come era tale conjunzione: et @e
+|s'indova~ verbo informativo, che procede da intelletto
+d'informarsi di cagione, ci@o @e dove @e la cagione di tale effetto.
+
+	|139-145.  Ma non era~: Ci@o @e la propriet@a dell'Auttore,
+e d'ogni intelletto creato.  |Se non che~: Ci@o @e alla escellenzia
+di tale cagione, manc@o la fantas$ia: e la voglia dell'Auttore,
+considerando ch'era impossibile a creatura vederla, fu mossa e
+volta da quello amore che muove lo sole e l'altre stelle, lo
+quale si @e esso Iddio, che vive e regna in saecula saeculorum
+Amen.  Et amen nos quoque dicimus.

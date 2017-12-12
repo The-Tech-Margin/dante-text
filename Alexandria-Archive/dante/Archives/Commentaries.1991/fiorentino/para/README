@@ -1,0 +1,13 @@
+Arbitrary breaks have been made in Paradiso 06 (introductory 
+paragraph), because of line length problems during loading. 
+
+Breaks have been made in following locations:
+
+"Acquistata questa jurisdizione gli...."
+
+and:
+
+"Dopo Ottaviano fue Imperadore...."
+
+If ever this file is to be printed, these paragraph breaks should be
+eliminated.  They were not intended by the author.  jvs 02/26/90

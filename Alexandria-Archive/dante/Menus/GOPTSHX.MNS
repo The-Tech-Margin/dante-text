@@ -1,0 +1,51 @@
+{GOPTS_HX}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Special Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The  Special  Functions  Menu  permits  you  to control a number of
+     parameters  that  affect  the search and display characteristics of
+     the interface.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     The menu selections are:
+
+     1) Set  Searching  Defaults.   This selection allows you to control
+        the  following  searching defaults: NEAR level, ADJacency level,
+        automatic  expansion  question, purging of zero results, default
+        operator, and truncation limit.
+
+     2) Set  Display  Formatting.   This selection allows you to control
+        the  following  display  format  specifications: paragraph label
+        format, subparagraph numbering, word occurrence counts, detailed
+        result  set  display, print formatting capabilities and terminal
+        type.
+
+     3) Set  Miscellaneous  Parameters.   This  selection  allows you to
+        control the following SearchMate functions: default mode after a
+        successful  search,  default paragraph selection, maximum number
+        of  queries  on  a  screen, maximum number of indices at a time,
+        number of automatic expansion terms, and occurrence highlighting
+        when printing at a remote device.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     L) List  current  paragraphs.   This  selection  produces a list of
+        paragraphs  in  the  current  databases, similar to the list you
+        receive when you sign on to a database.\n~
+
+:COMPARE #PVLG
+     TO "255"
+	:PRINT ~
+     !) escape  to  the  operating  system  or  run any operating system
+        command.\n~
+
+:DONE
+
+:PRINT ~
+     After  making one of these menu selections, more detailed Help text
+     is available.  Simply type "h" at the appropriate prompt.\n~
+
+:PAUSE BOTTOM
+:RETURN

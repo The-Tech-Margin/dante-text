@@ -1,0 +1,995 @@
+	|Proemio.~  Trattato ch'@a l'Auttore nel precedente
+capitolo di coloro che con astuzia, et con sagacit@a piena
+d'inganni, hanno menata la loro vita, in questo presente restava
+di trattare, seguendo la materia ordinata, della nona spezie
+della froda, ci@o @e di coloro che hanno messo scisma nella fede
+cattolica, et divisione fra congiunti et amici, onde quelli che
+la cattolica fede hae congiunti et uniti, egli si sono ingegnati
+di disjungere et partire; et quelli i quali il legame del
+parentado ha legati, sono ingegnati di sciogliere.  Et come che
+tutti i vizj sieno comunemente contro alla carit@a, pure questo
+scisma, ci@o @e divisione, @e opposito et contrario quanto pu@o a
+questa virt@u della carit@a, per@o che, come la carit@a unisce e
+congiugne insieme gli uomini col vincolo della dilezione, cos@i
+costoro collo scandolo et collo scisma gli divide et digiugne. 
+Et per adequare l'Auttore la pena alla colpa commessa, dice che,
+per divina giustizia, sono dimonj con spade affilate, et tagliono
+crudelmente, et dividono i corpi loro, s@i che, come questi
+peccatori hanno divisa la fede cattolica, et diviso il corpo di
+tutta la vera credenzia, con inganni et suttrazioni, et hanno
+diviso l'amore et la carit@a del parentado et amist@a, cos@i la
+divina ineffabile justizia quello che la natura congiunse et un@i
+nel proprio corpo l'uno coll'altro membro, con incisione et
+tagliamento @e divisa l'una parte dall'altra d'uno medesimo corpo,
+et l'uno dall'altro membro scisso et spiccato.  D@a l'Auttore in
+questo capitolo tre cose: nella prima, avendo rispetto alla
+materia inusata et difficile, a modo poetico dice, s@e essere
+insufficiente a trattare, giugnendo certi esempli per mostrare
+quanto @e difficile la materia di che egli hae a trattare; la
+seconda cosa ch'egli fa, nomina il principe della scisma, et
+della divisione messa nella cristianit@a et cattolica fede; et
+soggiugne narrando d'alcuno spirito scismatico et infedele, che
+al tempo dell'Auttore s'ingegn@o di dividere l'unit@a della fede,
+et di certi altri spiriti moderati: la terza et ultima cosa
+ch'elli fa, nomina uno spirito, il quale misse divisione et
+omicidj fra congiuntissime persone di parentado, mostrando la
+pena che per noi gli @e attribuita: et cos@i pone fine alla materia
+del capitolo.  La seconda parte comincia quivi: ^Vedi come~ {v.
+30}; la terza quivi: ^Io vidi certo~ {118}.  Tornando a sporre la
+lettera.
+
+	|1-3.  Chi por@ia mai~: Qui nel principio del capitolo, al
+modo poetico, si scusa et rendesi insufficiente a trattare della
+presente materia; et dice che, non che con parole rittimate et
+ordinate sotto certo numero come sono le rime et i versi, ma
+averne a trattare con modo et stilo prosaico et sciolto sarebbe
+ardua et difficile.
+
+	|4-6.  Ogni lingua per certo~: Dice che la mente sua non
+@e sufficiente a concepire qui, e la lingua a manifestare,
+seguendo in questo, come in assai parti, Virgilio che dice: ^Non
+mihi si linguae centum sint oraque centum~ etc.: S'io avessi,
+dice, cento lingue et cento bocche, et la voce fosse di ferro,
+non poterei comprendere le forme delle cose ch'io vidi.
+
+	|7-9.  Se s'adunasse ancor~: Tutte le genti et battaglie
+che appresso si conteranno.
+
+	|10-12.  Per li Trojani~: Tutte queste battaglie, che
+appresso si conteranno, furono in Puglia, et per@o la chiama terra
+sventurata: la prima battaglia fu, come scrive Virgilio, per sei
+ultimi libri dell'^Eneida~, che Turno, per combattere con Enea,
+raccolse per Puglia et per Italia grande gente, essendo
+massimamente atato dal re Latino et dalla sua gente; et Enea
+colla brigata sua, che aveva menata da Troja, et coll'ajuto del
+re Evandro et di Pallante; le quali battaglie furono in Puglia
+fiere et pericolose, et nell'ultimo vinse Enea, et ebbe Lavina
+figliuola del re Latino per moglie, et succedette nel reame di
+Laurenzia doppo la morte del re Latino.  |Et per la lunga
+guerra~: Racconta Tito Livio, nel secondo libro della terza Deca,
+che, essendo Paulo Emilio et Varone consoli mandati dal Senato
+contro Annibale duca de' Cartaginesi, et preso insieme consiglio
+di volere menare i loro eserciti a Carini, ch'@e in Puglia presso
+a Barletta a sei miglia verso ponente, costrignendogli le cose
+necessarie, v'andorono.  Presso a quello luogo avea Annibale
+posto il campo suo rivolto colle spalle al vento chiamato
+Vulturno, il quale ne' campi per lo secco abbrucciati, in nuvoli
+molta polvere port@o: questo pens@o Annibale che al presente, et
+ancora nel futuro quando doveano combattere, gli fusse utile,
+per@o che, avendo il vento alle spalle, et i nimici avendolo al
+viso, prendea Annibale grande vantaggio nella battaglia.  Giunti
+a Canni amendue i consoli, dove essi avevono dinanzi Annibale,
+due campi fortificorono, quasi avendo dall'uno all'altro piccolo
+intervallo, et Aufido fiume ch'@e presso a Canni a due miglia; et
+a ciascuno de' campi correndo, et al Romano et al Cartaginese,
+dava acqua, ma non senza battaglia.  Annibale, avendo speranza
+nella poca concordia de' consoli, et nella temerit@a del consolo
+plebeo, ch'egli arebbe copia di combattere, dirizz@o la sua
+schiera, et con stormenti de' Numidi cominci@o gl'inimici a
+stimolare; quindi da capo si cominci@o a sollecitare la divisione
+ch'era tra loro, per la discordia degli uomini d'arme, et per
+quella de' Consoli, Annibale fuori della schiera, la quale grande
+parte del giorno avea tenuto, con ci@o fosse cosa che nel campo
+avesse tutte l'altre copie rimenate, mand@o i Numidi cavalieri
+assalire quelli che all'acqua venivono, la quale disordinata
+turba, quelli che appena ancora la ripa passata aveano con romore
+et tumulto cacciorono, et pressoch@e infino alle porti del campo
+de' Romani n'andorono.  Ma perch@e parve a' Romani che fosse cosa
+sconvenevole che da tumulmati cavalieri fossono spaventati et
+assaliti, fu questa cagiono che gli ritenne che quello d@i non
+vennono alla battaglia.  Era lo 'mperio et la capitan@ia quel
+giorno appo Paulo Emilio consolo; l'altro giorno, essendo lo
+'mperio per sorte venuto nell'altro consolo, invano, senza averne
+alcuno consiglio col suo compagno consolo, il segno della
+battaglia propose, et colle copie della gente dell'arme trapass@o
+il fiume, seguitandolo Paulo Emilio, per@o che piuttosto seguitare
+il consiglio preso che vietare lo potea; et cos@i ordinata la
+schiera, nel destro corno, il quale era al fiume pi@u vicino,
+posono i Romani cavalieri; appresso a costoro i pedoni: al
+sinistro corno furono posti extrenui cavalieri de' compagni infra
+li pedoni: infino al mezzo giunti colle legioni de' Romani
+tennono i giaculatori et tutti gli altri ausilj della lieve
+armadura: i consoli tennono i corni; Terenzio Varro il sinistro,
+et Emilio Paulo il destro: a Geminio Servilio fu data a difendere
+la mezzana battaglia.  Annibale, nel primo fare del giorno,
+avendo innanzi i Balearj et quelli della lieve armadura mandati,
+trapass@o il fiume: cos@i come ellino alcuni n'aveano trapassati,
+cos@i nella schiera gli aloccava.  Egli pose i Galli et gli
+Spagnuoli cavalieri presso alla ripa del fiume nel sinistro corno
+incontro alli Romani cavalieri: e 'l destro corno diede a'
+Cavalieri Numidi; la mezzana schiera fu formata da' pedoni in s@i
+fatta maniera che l'uno corno et l'altro fosse degli Affricani,
+et in questo mezzo di costoro s'interposono i Galli et gl'Ispani
+in maggiore parte.  Guardandogli, si sarebbe creduto che fosse
+stata Romana schiera, per@o ch'essi erono armati d'arme tratte a'
+Romani, et Trebbia et a Transimeno: a' corni, et all'uno et
+all'altro pose duchi cartaginesi; il sinistro reggea Asdrubale,
+et il destro Maharbale: nella mezzana schiera stette Annibale col
+fratello Magone, acci@o che fosse a ciascuna delle schiere
+pieghevole.  Il vento chiamato Vulcano, ovvero Vulturno, si lev@o,
+et recando molta polvere nelle facce a' Romani, tolse loro la
+vista di vedersi innanzi; et primieramente fu la battaglia
+incominciata da quelli della lieve armadura, appresso da'
+cavalieri Galli et Spagnuoli; et di picciola dimoranza furono
+affrontate insieme le schiere: et perch@e lo spazio era poco, ch@e
+dall'uno lato circundava le ripe del fiume, et dall'altro
+chiudeano i pedoni, et turbati i cavalli, l'uno uomo abbracciando
+l'altro, a terra il tirava.  Et quello che fu grande cagione
+della perdita de' Romani fu che intorno di V cento cavalieri
+Numidi, avendo sotto le loriche occulti coltelli, presono forma
+di fugitivi, et gettati gli scudi dirietro alle spalle, et
+gettate le lance in terra in mezzo la battaglia furono ricevuti
+da' Romani, et menati all'ultima schiera: quivi fu loro comandato
+che stessono, i quali, mentre che la battaglia d'ogni parte si
+facea, si stettono in pace; ma poi che il combattere avea di
+tutti gli occhi et gli animi occupato, allora, ripresi gli scudi,
+in qua et in l@a fra' corpi morti la rivolta schiera de' Romani
+assalirono et fer@iangli nelle spalle: grandissimo danno feciono. 
+Paulo consolo, avegna Iddio che nel primo entrare della battaglia
+fosse da una ferita ferito; non pertanto soccorrea a quelli che
+con Annibale combatteano, et in alquanti luoghi ristitu@i la
+battaglia gi@a inclinata; ma nell'ultimo, vinti i Romani cavalieri
+dalla soperchia fatica et stanchi dalle ferite, furono quindi
+tutti dissipati et rotti.  Per fuggirsi ripigliavono i cavalli,
+quando Lentulo tribuno de' cavalieri, passando oltre col cavallo
+suo, vidde Lucio Emilio consolo pieno di sangue sedere sopra uno
+sasso; e L. Emilio, il quale uno, siccome non colpevole
+dell'odierna sconfitta, monta in su questo cavallo acci@o che tu
+non faccia questa sconfitta pi@u sozza per morti di consolo, egli
+nol volle pigliare et ivi mor@i.  Varro, l'altro consolo, si fugg@i
+a Venosa.  Quaranta milia pedoni et IJ milia V cento cavalieri,
+et presso che altrettanti de' Romani, quivi si dice essere stati
+morti.  Appresso Mago, fratello d'Annibale, ito a Cartagine, et
+avuto il senato, disse la vittoria di Canni, et nella corte
+versate l'anella d'oro che furono J+o~ moggia, tratte da' corpi de'
+Romani.  Altri autori dissono che furono moggia tre e mezzo.
+
+	|13-14.  Per contastare a Ruberto Guiscardo~: Ruberto
+Guiscardo fu fratello di Ruberto duca di Normandia; et volendo
+sperimentare la sua bont@a, in Puglia venne, et in quello tempo
+era duca di Puglia Ruberto nato del paese, il quale in prima fu
+suo scudiere; poi da lui fu fatto cavalieri, et mostr@o molta
+prodezza contro a' nimici del duca Ruberto, ci@o @e contro al
+Prenza di Salerno, il quale da Ruberto Guiscardo capitano della
+gente del Duca fu sconfitto, et con vittoria torn@o al suo
+signore, il quale, guidardonandolo magnificamente, da lui prese
+comiato et tornossi in Normandia, et le ricchezze di Puglia port@o
+di l@a: et con ci@o sia cosa che l@a torn@o ricco et adorno, per la
+qual cosa, provocati molti uomini d'arme, per cupidigia di
+ricchezza et di gloria, con questi insieme si ritorn@o in Puglia,
+et stette appo 'l duca di Puglia fedelmente contro a Gottifredi;
+et non molto tempo poi Ruberto duca di Puglia venne a morte, il
+quale, con volont@a de' suoi baroni, lasci@o Ruberto Guiscardo suo
+successore nel ducato, et diegli la figliuola per moglie: et ci@o
+fu negli anni di Cristo MLXXVIIJ.  Et poi poco tempo Alesso
+imperadore di Costantinopoli, che Cicilia et parte di Calavria
+avea occupata, fu cacciato da lui et sconfitto et messo fuori di
+Cicilia et di tutta Puglia; et ancora vinse et sconfisse i
+Viniziani.  Et per che tenea il regno di Puglia, ch'@e possessione
+della Chiesa, et contro al volere di santa Chiesa si mosse la
+contessa Matilda in servigio della Chiesa contro a lui; ma al
+fine si concili@o con santa Chiesa, et fu, con volont@a del Papa,
+fatto signore; et non molto tempo poi papa Gregorio settimo co'
+cardinali fu assediato da Arrigo quarto imperadore in castello
+santo Agnolo; onde Ruberto Guiscardo cacci@o Arrigo et l'Antipapa
+suo, il quale avea fatto per sua forza, et liber@o il Papa dallo
+assedio, et rimisse il Papa nel palagio di Laterano, punendo i
+Romani che dato avevono ajuto allo 'mperadore et all'Antipapa: et
+dicesi che una volta infra l'altre, andando a una caccia
+seguitando una fiera, si smarr@i da' compagni; et vegnendo la
+sera, et tornando verso casa, trov@o nella selva uno lebbroso che
+gli addimand@o ajuto, et pregollo ch'egli dirietro a s@e il ponesse
+a cavallo.  Ruberto cos@i fece; et poi addimand@o il lebbroso,
+dicendo che gli facea freddo alle mani, di mettergliele in seno;
+Ruberto gli concedette ch'egli l'accostassi alle sue carni sotto
+i suoi panni; et ancora non contento, il lebbroso gli dimand@o che
+in sella il ponesse che dirietro non si potea sostenere, et egli,
+mosso a misericordia, il pose in sella, abbracciando il lebbroso
+infino al suo albergo: nella sua camera, nel suo proprio letto il
+fece mettere; et andando la donna sua nella camera, la trov@o
+piena di tanto odore, come se tutte le rose et cose odorifere del
+mondo vi fossono state; per la qual cosa, venendo ivi Ruberto,
+non trov@o il lebbroso.  Onde, con divoto cuore, egli et la moglie
+s'inginocchiarono pregando Iddio che rivelasse questo miracolo;
+onde il seguente d@i apparve Cristo in visione a Ruberto, et
+dissegli che in forma di lebbroso gli s'era mostrato, acci@o
+ch'egli provasse la sua piet@a; et annunzi@ogli ch'egli arebbe
+figliuoli della sua donna, che l'uno sarebbe imperadore, l'altro
+re, l'altro duca.  Di questa visione confortato, abbattuti i
+rubelli di Sicilia et di Puglia, in tutto ebbe la signoria, et
+ebbe cinque figliuoli.  Il primo fu Guglielmo; questi prese per
+moglie la figliuola d'Alesso imperadore, et poi fu dello imperio
+duca et possessore, et questi fu Guglielmo Spada lunga: alcuni
+dicono ch'egli fu del lignaggio de' marchesi di Monferrato.  Il
+secondo figliuolo fu prima duca di Taranto.  Il terzo fu Ruggeri
+duca di Puglia, il quale, doppo la morte del padre, fu coronato
+re di Cicilia da papa Onorio secondo.  Il quarto fu Arrigo duca
+di Normandia; il quinto Ricciardo conte della Cerea.  Disposesi
+Ruberto Guiscardo per divozione d'andare al Sepolcro; et venendo
+al porto in Grecia, che per lui s'@e chiamato poi Porto Guiscardo,
+ivi cominci@o aggravare d'infermit@a; et egli, confidandosi delle
+rivelazioni che fatte gli furono, in niuno modo temea di morte;
+et stando ivi vidde a rincontro una isola, alla quale, per mutare
+luogo, gli venne voglia d'andare; et essendo l@a portato,
+aggravato pi@u forte, dimand@o come quivi si chiamava: risposto gli
+fu che quella isola si chiamava per lo nome dell'antica
+Jerusalem: la qual cosa udita, certificato fu della sua morte;
+onde divotamente fece tutte le cose che appartenea alla salute
+della sua anima, et ci@o fatto mor$io negli anni di Cristo MCX: il
+quale regn@o in Puglia XXXIIJ anni.
+
+	|15-17.  A Ceperan l@a dove fu~: Questa @e la quarta guerra
+et battaglia.  Fue il re Manfredi, del quale al presente si
+tratter@a, bello del corpo come lo 'mperadore Federigo suo padre,
+et pi@u dissoluto in ogni lussuria, sonatore et cantatore, et
+volentieri si vedea intorno giocolari et uomini di corte et belle
+cucciole; et sempre si vestia di drappi verdi: et fu molto largo
+et cortese et di buona aria, et molto amato, et grazioso; ma
+tutta sua vita fu epicuria.  Racconta la Cronica, che negli anni
+MCCLXV fu Carlo conte d'Angi@o coronato a Roma per due Cardinali
+re di Jerusalem et di Cicilia, il quale regno tenea Manfredi, et
+incontenente Carlo fatto re, si misse per via con sua gente per
+la via di Campagna verso il regno di Puglia, et Campagna ebbe
+assai tosto senza contasto.  Il re Manfredi, sentendo la venuta
+sua, et come sua gente era passata per la difalta della sua
+grande oste che era in Lombardia, fu molto cruccioso; ma
+incontanente misse tutto suo studio alla guardia de' passi del
+Regno, et al ponte a Ceperano misse il conte Giordano et quello
+di Caserta, i quali erono de' conti d'Aquino, et con gente assai
+a pi@e et a cavallo; et in San Germano misse gran parte di sua
+baronia, Tedeschi, et Pugliesi, e tutti i Saracini, coll'@arcora
+et balestra et molto saettamento, confidandosi pi@u in quello
+riparo che in altro, per lo forte luogo et per lo sito, che
+dall'una parte hae gran montagne, et dall'altra paludi et marosi:
+et era fornito di vittuaglia et di tutte cose.  Et avendo cos@i
+forniti Manfredi i passi, mand@o suoi ambasciadori al re Carlo per
+avere pace o triegua, et disposta la loro imbasciata, il re Carlo
+di sua bocca f@e la risposta in francesco: <Ales dit mo alle
+sultayn de Nocere oge metray lui en enferne, o el metra moy a
+paradisis>; volle dire: <Io non voglio altro che la battaglia,
+ove egli uccider@a me o io lui>; et ci@o fatto, senza sogiorno si
+misse a cammino.  Avenne che, giunto il re Carlo con sua oste a
+Fresolone in Campagna, scendendo verso Ceperano, Giordano, che a
+quel passo era a guardia, veggendo venire la gente del Re per
+passare, volle difendere il passo.  Il conte di Caserta disse
+ch'era meglio lasciarne in prima alquanti passare: assalendoli di
+l@a dal passo, gli averebbono senza colpo di spada.  Il conte
+Giordano, credendo che consigliasse il migliore, acconsent@i; ma
+quando vidde ingrossare la gente, ancora volle assalire con
+battaglia: allora il conte di Caserta, il quale era in trattato
+col re Carlo, disse che la battaglia era di gran rischio, per@o
+che troppi n'erono passati.  Allora il conte Giordano, veggendo
+s@i grossa la gente del Re, abbandonorono la terra et il ponte;
+chi disse per paura, ma i pi@u dissono per lo trattato fatto dal
+Re e 'l conte di Caserta, per@o che non amava Manfredi, per@o che,
+per la sua disordinata lussuria, per forza era giaciuto colla
+donna del conte di Caserta: et fu il primo egli et i suoi, che
+saramentaro al Re, et non tornorono all'oste di Manfredi, ma
+tornoronsi al loro castello.  Come il re Carlo ebbe preso il
+passo di Ceperano, i Franceschi con gran furore assalirono la
+terra di Santo Germano, et d@anno battaglie da pi@u parti: il conte
+di Vandemon, et messer Gianni suo fratello, con loro bandiere, i
+quali furono de' primi armati, seguirono i ragazzi di quelli, i
+quali erono usciti a badaluccare, et cacciandogli con loro
+insegne, si missono dentro per una porticella, ch'era aperta per
+ricoglierli; et ci@o fu non senza gran pericolo, imper@o che la
+porta era bene guardata da pi@u gente d'arme, et rimansonvene
+morti et fediti: ma pure vinsono la pugna, et entrorono dentro,
+et ebbono la terra.  Come il re Manfredi intese la novella,
+sbigott@i della perdita di Santo Germano: prese consiglio quello
+che avessi a fare: fu consigliato per lo conte Calvagno, per lo
+conte Giordano, et per lo conte Bartolomeo, et per lo conte
+Camarlingo, che egli con tutto suo potere si ritraesse alla citt@a
+di Benevento, per avere la signoria di prendere la battaglia a
+sua posta, et per ritrarsi verso Puglia, se bisognasse, et per
+contradire il passo al re Carlo.  Sentendo il re Carlo l'andata
+del re Manfredi, incontanente si part@i da san Germano, et non
+tenne il cammino diritto da Capova; ma missesi a passare il fiume
+di Vulturno, et giunse a pi@e di Benevento alla valle incontro
+alla citt@a di spazio di due miglia presso alla riva del fiume di
+Colore.  Il re Manfredi, veggendo venire l'oste del re Carlo,
+prese partito di combattere et d'uscire fuori, et assalirgli anzi
+ch'essi passassono; et se pi@u si fosse indugiato il re Carlo et
+sua gente, senza colpo di spada erano perduti per difalta di
+vittuaglia.  Prese consiglio il re Carlo co' suoi baroni,
+veggendo Manfredi et sua gente venuta a campo, se fusse da
+combattere; et consigliando molti ch'egli indugiasse infino
+all'altra mattina, messer Gilio il Bruno conestabile di Francia
+consigli@o al tutto che si combattesse.  Allora, per non dare
+cuore a' nimici per lo indugio, onde il re Carlo prese il suo
+consiglio et ordin@o tre schiere principali di sua gente: la prima
+schiera era de' Franceschi in quantit@a di mille cavalieri, onde
+era capitano messer Filippo di Monforte e 'l Maliscalco di
+Mirapesce; la seconda il re Carlo col conte Guido di Monforte et
+con molti de' suoi baroni, ch'erono intorno di VIIJ cento
+cavalieri, et messer Guglielmo port@o lo stendardo: della terza fu
+guidatore Ruberto conte di  Fiandra col suo maestro Gilio
+maliscalco di Francia co' Fiamminghi et Brabanzoni et Normandi et
+Piccardi, in numero di VIJ cento cavalieri.  Di fuori di queste
+schiere furono gli usciti Guelfi di Firenze con altri Italiani,
+et furono intorno di mille cavalieri; et fu capitano il conte
+Guido Guerra, et la 'nsegna port@o messer Currado da Montemagno da
+Pistoja.  Et disse il re Manfredi: <Dov'@e la parte ghibellina,
+ch'io ho tanto servita?  coloro non possono oggi perdere>. 
+Ordinate appresso le schiere de' due Re nel piano della Gradella,
+et ci@o fatto, cominci@o la battaglia tra le due prime schiere da
+Tedeschi a' Franceschi; et fu s@i forte l'assalto dei Tedeschi che
+malamente menavano la schiera de' Franceschi, et assai gli
+feciono rinculare addirietro, et presono campo.  Il re Carlo,
+veggendo i suoi s@i malamente conciare, non tenne l'ordine della
+battaglia di fedirsi colla seconda schiera.  Avvisandosi che la
+prima schiera, ove avea tutta sua fidanza, fosse rotta, piccola
+fidanza di salute gli rimanea; incontanente si misse al soccorso
+della schiera de' Franceschi contro a' Tedeschi: dall'altra parte
+fed@i il conte Giordano colla sua schiera, onde la battaglia fu
+aspra, et dur@o gran pezzo che non si sapea chi avessi il
+migliore; ma subitamente si lev@o uno grido fra le schiere de'
+Franceschi dicendo: <Agli stocchi agli stocchi; a fedire i
+cavalli>; et cos@i fu fatto; per la qual cosa i Tedeschi in poca
+d'ora furono molto mal menati, et molti abbattuti et quasi
+sconfitti.  Veggendo il re Manfredi i suoi Tedeschi mancare,
+confort@o quelli della sua schiera alla battaglia, ch'era la
+maggiore parte de' baroni pugliesi et del Regno, da' quali fu
+male ubbidito: infra gli altri il conte Camarlingo, et quello
+della Cerra, et quel di Caserta, et altri, per vilt@a di cuore,
+veggendo allora avere il peggiore (et chi disse per tradimento),
+come genti infedeli et vaghi di nuovo signore, si fuggirono et
+abbandonorono Manfredi.  Rimaso Manfredi con pochi, fece come
+valente signore; ch@e innanzi volle morire Re che fuggire con
+vergogna; et mettendosi l'elmo, una aquila che avea per cimiero
+gli cadde in sull'arcione, onde egli sbigott@i et disse a' baroni:
+^Hoc est signum Dei~; ma per@o non lasci@o: incontanente si misse
+alla battaglia, non con sopransegne reali, ferendo francamente
+nel mezzo della battaglia; ma i suoi per@o poco durorono:
+incontanente furono sconfitti, et il re Manfredi morto nel mezzo
+de' nimici.  Il re Carlo poi ne venne a Napoli, et da' Napoletani
+onorevolmente fu ricevuto; et fu signore a cheto di Puglia et del
+Regno.
+
+	|18.  Ove senz'arme vinse~: Truovasi ancora per la
+predetta cronica di Giovanni Villani che Curradino, figliuolo del
+re Currado, nipote dello 'mperadore Federigo secondo, per lo
+regno di Puglia, che dicea ch'era suo di ragione, posseduto
+lungamente per suoi, per acquistarlo si mosse della Magna con
+tutto suo sforzo; et giunto a Roma, da' Romani et da donno Arrigo
+senatore fu ricevuto a grande onore, a guisa d'Imperadore, et a
+Roma fece sua raunata di gente et di moneta, et con pi@u di L
+cavalieri si truov@o a Roma tra' Tedeschi et Italiani, et quelli
+di donno Arrigo senatore fratello del Re di Spagna, che avea bene
+VIIJ cento cavalieri: et partissi da Roma a d@i X d'agosto gli
+anni di Cristo MCCLXVIIJ, et fece la via della montagna fra
+l'Abruzzi et Campagna per val di Celle, ove non era guardato; et
+senza niuno contasto arriv@o nel piano di Valentino nella contrada
+detta Tagliacozzo.  Il re Carlo, sentendo come Curradino era
+partito da Roma per entrare nel Regno, si lev@o da Nocero da oste,
+et venne con tutto suo sforzo alla citt@a dell'Aquila, et poi indi
+si part@i per la via a traverso della montagna, et accozzossi
+assai di presso all'oste di Curradino a pi@e di santo Valentino;
+et non avea in mezzo se non il fiume.  Il re Carlo avea di sua
+gente, tra Franceschi et Provenzali et Taliani, meno di IIJ milia
+cavalieri; et veggendo che Curradino avea troppo pi@u gente di
+lui, per lo consiglio di messer Alardo di Vallati, cavalieri
+francesco di gran senno et prodezza, il quale di quei tempi era
+arrivato in Puglia tornando d'oltre mare dalla Terra santa, s@i
+disse al Re Carlo, se volesse essere vincitore, gli convenia
+usare maestria di guerra pi@u che forza.  Il re Carlo,
+confidandosi nel senno di messer Alardo, gli commise il governo
+dell'oste, il quale ordin@o della gente del Re tre schiere, et
+dell'una fu capitano messer Arrigo di Cosense, grande della
+persona et buono uomo d'arme; et questi fu armato come re colle
+soprainsegne reali, et guidava Provenzali, Toscani et Lombardi et
+Campagnini: l'altra schiera fu de' Franceschi, onde furono
+capitani messer Gianni di Cruci, et messer Guglielmo lo
+Stendardo; et misse i Provenzali alla guardia del ponte del detto
+fiume, acci@o che l'oste di Curradino non potesse passare senza
+disvantaggio della battaglia.  Il re Carlo col fiore della sua
+baron$ia, in quantit@a di VIIJ cento cavalieri, feceli porre in
+aguato dopo un colletto in una valle; et col re Carlo rimase il
+detto messer Alardo.  Curradino dall'altra parte fece tre
+schiere: l'una di Tedeschi, onde egli era capitano col doge di
+Sterlich, et con pi@u conti et baroni; l'altra de' Taliani, onde
+fece capitano il conte Calvagno con alquanti Tedeschi; l'altra fu
+di Spagnuoli, onde era capitano don Arrigo di Spagna loro
+signore.  In questa stanza, l'una oste et l'altra appresso, i
+baroni del regno rebelli del re Carlo, fittiziamente, per fare
+sbigottire il re Carlo, feciono venire nel campo di Curradino
+falsi ambasciadori molto parati con chiavi in mano et presenti,
+dicendo ch'ellino erono mandati dal comune dell'Aquila a dargli
+la terra; onde Curradino et sua oste, credendo essere vero, ne
+feciono gran festa allegrezza; et sentendosi nell'oste del re
+Carlo n'ebbono grande sbigottimento, temendo non fallisse loro la
+vittuaglia, che ven$ia da quella parte.  Curradino et sua oste
+avendo vana speranza che l'Aquila fosse rubellata, con gran
+romore et strida si misse a passare il valico di Tagliacozzo.  Il
+re Carlo, che si posava, sentendo il romore de' nimici,
+incontanente fece schierare sua gente per lo modo che abbiamo
+ragionato; et stando la schiera de' Provenzali, i quali guidava
+messer Arrigo di Cosenza, alla guardia del ponte, contastando a
+donno Arrigo di Spagna il passo, don Arrigo et sua gente si
+missono a valicare il guado ch'era assai picciolo, et
+cominciorono a richiedere la gente che difendeano il ponte di
+battaglia.  Curradino, veggendo passati gli Spagnuoli, si missono
+a passare, et con gran furore si missono assaltare la gente del
+re Carlo, et in poca d'ora ebbono sbarrata la gente de'
+Provenzali, et messer Arrigo di Cosenza morto, et abbattute le
+insegne del re Carlo, et rotta la schiera de' Provenzali: simile
+feciono di quella de' Taliani, la quale guidava messer Gianni de
+Cruci et messer Guglielmo lo Stendardo, per@o che la gente di
+Curradino era per ognuno due che quella del re Carlo.  Veggendosi
+la gente del re Carlo cos@i malmenare, si missono in fuga et
+abbandonorono il campo; i Tedeschi si credeono avere vinto, ch@e
+non sapeano dell'aguato: si cominciorono a spandere per lo campo,
+et attendere alla preda et alle spoglie.  Il re Carlo era in sul
+colletto presso alla valle ove era la sua schiera, et messer
+Alardo de' Vallari et il conte Guido di Monforte; et veggendo la
+sua gente cos@i barattata, prima l'una schiera, poi l'altra, et
+venire in fuga, moriva a dolore, et voleva pure fare muovere la
+sua schiera per andare a soccorrere i suoi; et messer Alardo,
+savio di guerra, con savie parole il ritenne, per@o che conoscea
+la cupidigia de' Tedeschi, per lasciargli pi@u spandere.  Quando
+gli vidde bene sparti, disse al Re: <Fa muovere le bandiere>; et
+cos@i fu fatto; et uscendo la detta schiera della valle, Curradino
+et i suoi non credevono che fossono nimici, ma che fossono di
+loro gente, et non se ne prendeano guardia; et vegnendo il Re con
+sua gente stretti et serrati, al diritto se ne vennono dove era
+la schiera di Curradino co' maggiori de' suoi baroni, et quivi si
+cominci@o la battaglia aspra et dura, con tutto che poco durasse,
+per che la gente di Curradino era lassa et stanca per lo
+combattere, n@e non erono tanti cavalieri schierati n@e d'assai
+quanto quelli del Re, et senza ordine di battaglia, per@o ch'erano
+sparti per lo campo per guadagnare preda et prigioni: et la
+schiera, per lo improvviso assalto de' nimici, tuttora scemava;
+quella del re Carlo tuttora cresceva, perch@e quelli che prima
+erono fuggiti della sconfitta, conoscendo le insegne del re, si
+rimetteano nella schiera; s@i che in poca d'ora Curradino et i
+suoi furono sconfitti: et Curradino, per consiglio de' suoi,
+veggendo volta la fortuna, si misse in fuga egli e 'l Doge di
+Sterlich e 'l conte Calvagno, e'l conte Gualferano, e 'l conte
+Gherardo da Pisa et pi@u altri.  Messer Alardo, veggendo fuggire i
+nimici, gridava che niuno nolli seguisse et bene bisogn@o stare
+fermi alla schiera; ch@e donno Arrigo, seguitati i Provenzali, et
+tornando al campo, non sappiendo niente della sconfitta venne
+verso i nimici non conoscendogli, et ivi doppo della lunga
+difesa, similmente egli et sua gente fu sconfitta, et il re Carlo
+in tutto rimase vincitore.
+
+	|19-21.  Mostrasse, d'aequar sarebbe nulla~: Chi volesse
+agguagliare le piaghe di queste cinque battaglie a quelli ch'elli
+vidde in questa nona bolgia, sarebbe la comperazione nulla et
+niente.
+
+	|22-24.  Gi@a veggia per mezz$ul~: Una botte ch'abbia
+perduto o levato il mezz$ule, o quella doga laterale ch'@e dalle
+latora, che si chiama lulla, non pare aperta come quivi il
+peccatore fesso dal mento in fino all'anche, ove si sputa vento.
+
+	|25-27.  Tra le gambe pendeva~: La minugia si fa delle
+'nteriora degli animali; et per@o dice che pendea la minugia, ci@o
+@e le 'nteriora.  |La corata parea~: Il ventre, che riceve la
+materia grossa di quello che si mangia.  L'altre parti del cibo
+rispondono alle membra.
+
+	|31.  Vedi come @e stroppiato~: Et pone qui l'Auttore il
+principe d'ogni resia.  Questo scrive la Cronica Martiniana: Nel
+torno di seicento anni dalla incarnazione di Cristo, al tempo
+d'Eraclio imperadore, et di Costantino suo figliuolo, nel paese
+d'Arabia, nella citt@a di Lamech, fu uno falso Profeta ch'ebbe
+nome Macometto cominciatore della malvagia setta de' Saraceni. 
+Fu Macometto figliuolo d'Aldimench, il quale fu grande
+nigromante; questi fu disceso della schiatta d'Ismalicu, ci@o @e
+de' discendenti d'Isdrael, figliuolo d'Abram et d'Agar sua
+ancella; et con tutto che i Saracini de' discendenti d'Ismael si
+dinomano da Sara la moglie d'Abram, pi@u degnamente, et da origine
+doverebbono essere chiamati Agarini, per Agar onde loro
+cominciamento nacque.  Questo Macometto fu di piccola nazione et
+di povero padre et madre; et rimaso picciolo fanciullo senza
+padre o madre, fu nodrito in Salingia in Arabia, et ivi allevato
+con uno sacerdote d'idoli, et con lui prese alquanto di
+nigromanzia: et quando Macometto fu pi@u innanzi dell'et@a
+giovanile, venne a stare al servigio d'uno ricco mercatante arabo
+per menare suoi muli et asini con mercatanzia; et and@o giovane
+garzone con mercatanti: arriv@o per cammino in una badia di
+Cristiani, la quale era in sul cammino a' confini di Siria et
+Arabia, di l@a dal monte Sinai, ove i mercatanti facevano loro
+porto et ridotto: in quella aveva uno santo eremita cristiano, et
+avea nome Bacayra, al quale per rivelazione divina gli fu
+mostrato che tra' mercatanti l@a venuti avea uno giovane, di cui
+parlava la profezia sopra Smael nel XVJ capitolo del Genesis che
+dice: E' nascer@a uno fiero uomo, che la sua mano sar@a contro a
+tutti, et la mano di tutti sar@a contro a lui; et che sarebbe
+avverso della fede di Cristo et persecutore grandissimo.  Et
+quando venne co' mercatanti alla detta badia dicono i Saracini
+che 'l primo miracolo che Dio mostr@o per lui fu ch'egli crebbe
+una porta della Chiesa, onde egli entr@o maravigliosamente; et se
+vero fu, si fu segno manifesto ch'egli dovea squarciare et aprire
+la porta della santa Chiesa di Roma.  Et conosciuto il giovane
+per lo santo padre per li segni a lui rivelati, il ritenne seco
+con pura fede, per ritrarlo dall'idolatria, et insegnavagli la
+vera fede di Cristo, la quale Macometto molto bene imparava; ma
+per lo destino, ovvero per la forza del nimico dell'umana
+generazione, Macometto non pot@e continuare, ma si torn@o al suo
+primo servigio et del suo maestro, col quale crescendo in bont@a,
+gli di@e il suo maestro a guardia i suoi cammelli, come era usato,
+guidando sue mercatanzie, le quali bene avventurosamente avanz@o;
+et morto il suo signore, per lo suo buono servigio alla donna sua
+piacque et ebbe affare di lui; et morto il marito, secondo loro
+costume, il prese per marito, et fecelo signore d'ogni sua
+sustanzia et di molto avere.  Macometto, venuto di povert@a in
+ricchezza, si mont@o in grande orgoglio et superbia et in alti
+intendimenti, et pensossi di potere essere signore di tutti gli
+Arabi, per@o ch'erono grossi di senno et di costumi, et non aveano
+niuno signore, n@e re, n@e legge.  Egli era savio, malizioso et
+ricco; et per fornire suo proponimento, prima si fece profeta, et
+predicava a quello grosso popolo, i quali viveano senza legge; et
+per avere s@eguito et potere, s'accost@o con uomini giovani, poveri
+et bisognosi, et che avevono debito, et con rubatori et
+disperati, seguendo con loro ogni peccato, et vivendo con loro a
+comune di ruberie et d'ogni male acquisto, et spezialmente sopra
+i Giudei, cui molto disamava; et per questo divenne et mont@o in
+stato et signoria, et fu molto dottato et temuto nel paese; et
+quasi come uno loro re fu tenuto, per lo potere et senno che avea
+fra quella gente barbera et grossa.  Et per sua superbia pi@u
+battaglie ebbe coi signori vicini, et pi@u volte vinse, et fu
+sconfitto, et in alcuna battaglia perd@e de' denti dinnanzi.  Et
+perch@e si facea profeta, et nelle dette battaglie in alcuna fu
+sconfitto, onde per falso profeta fu riprovato, di che si scusava
+dicendo che Iddio non volea ch'ei combattesse, et per@o il facea
+perdere; ma come suo messaggio volea che predicasse al popolo et
+ammaestrasse, il quale predicando dicea ch'era sopra a tutti i
+profeti, et che dieci angioli per comandamento di Dio il
+guardavono, et era messo mandato da Dio per dichiarare la legge
+a' Giudei et a' Cristiani data da Dio a Moises; et quale
+contradicesse la sua legge fosse morto di spada, e' figliuoli o
+mogli di quello cotale fussono suoi servi, et tutta loro
+sustanzia in sua signoria.  Questo fu il primo suo comandamento. 
+Fu da sua natura molto lussurioso, et in ogni villano atto di
+lussuria grazioso era; et colle femine dicea che, per grazia di
+Dio, egli potea pi@u generare che XL altri uomini, et per@o tenea
+XV mogli et pi@u altre concubine; et per gelosia le tenea nascose
+et velate il viso, per che non fossono vedute et conosciute: et
+per suo esemplo si reggono ancora i Saracini di loro mogli. 
+D'altre femine usava quanto potea et gli piacea; et pi@u
+volentieri le maritate che l'altre: et di ci@o essendo ripreso, si
+fu cacciato della citt@a di Lamech.  Per la qual cosa se n'and@o ad
+abitare in un'altra citt@a alquanto diserta, ove abitavono Giudei
+et Pagani, idolatri et d'una salvatica gente, per meglio potere
+usare la sua dottrina falsa; et predicava et commoveagli tutti
+alla sua legge: et fece fare in quella terra uno tempio, ove egli
+predicava; et per scusarsi della sua disordinata vita
+d'adulterio, si fece una legge, seguendo la giudaica del Vecchio
+Testamento, che qual femmine fosseno trovate in adulterio fosse
+morto, salvo che colei che con lui giacesse, per@o che avea per
+comandamento dall'angiolo Gabbriello che usasse le maritate per
+potere generare profeti.  Et essendo Macometto vago d'una moglie
+d'uno suo servo, et toltola et giaciuto con lei, il marito la
+cacci@o; et il marito fatto questo, Macometto la si riprese et
+tennela coll'altre sue femmine; et a conservare il suo adulterio
+disse che ebbe lettere da Dio che facesse legge, che quale uomo
+cacciasse la moglie apponendogli adulterio, et nol provasse, che
+uno altro la si potesse prendere; et se il marito la rivolesse
+nolla potesse avere mai, se prima in sua presenzia uno altro uomo
+non giacesse con lei carnalmente: allora era purgato il peccato:
+et questo tengono ancora i Saracini.  Ancora fece legge che a
+ciascuno fusse lecito d'avere et usare tante mogli et concubine
+quante ne potesse fornire per avere figliuoli et crescere il suo
+popolo; et ciascheduno potessi usare la sua propria cosa a sua
+volont@a.  Avvenne in questo tempo, per suasione del diavolo, che
+uno monaco cristiano nome Golgare Sergio, gran cherico in corte
+di Roma et scienziato, ma per sue male opere et falso errore fu
+scomunicato et condennato per eretico, sentendo la fama di
+Macometto, n'and@o in Arabia et rinneg@o Cristo, et accozzossi con
+Macometto; et con loro insieme s'accozz@o similmente uno Giudeo
+valentissimo et scienziato, ma per sue male opere et falso errore
+fu scomunicato, et condennato per eretico; sentendo la fama di
+Macometto, rinnegata la fede giudaica; et questi due consiglieri
+furono di Macometto; et Macometto gli fece grandi, et egliono lui
+appo il popolo, mostrando come egli era grande profeta sopra
+tutti quelli che mai furono, et ch'egli era messo da Dio.  Et
+ordinorono insieme la falsa dottrina et mala legge dell'Arcaram,
+traendo in parte quello che a loro piacque del Vecchio Testamento
+et de' comandamenti di Mois@e et della sua legge; et cos@i del
+Nuovo evangelico di Cristo et legge cristiana, et parte della
+pagana idolatria; et accomunandole insieme colle leggi prima
+fatte per Macometto, e' feciono una quarta legge in confusione
+della fede cristiana, mescolando il veleno col mele: la quale
+legge, per lo vizio lascivo et largo della carnalit@a, corruppe
+non solamente i grossi Arabi; et ancora perch@e la fe' osservare
+coll'arme; ma ancora corruppe il paese di Siria, Persia et Media
+et Mesopotamia, Sor$ia et Turch$ia, et quasi tutto Oriente, et poi
+l'Egitto et l'Affrica, et infino in Spagna et parte della
+Provenza; et alcuna volta distesesi in Italia et infino a Roma
+questa legge dell'Arcaram.  Et quando Macometto fu nell'et@a di XL
+anni, per invidia fu da' suoi avvelenato; et veggendosi venire a
+morte, comand@o fosse fatta osservare colla spada, et che non
+fosse sotterrato, ch@e in capo di tre d@i ne sarebbe portato in
+cielo: egliono lo tennono de' d@i XIJ, et non ne fu portato; ma
+poi lo imbalsamaro et portorono il corpo suo alla sua citt@a di
+Lamech, et in uno tempio messo in un'arca onoratamente, la quale
+arca sta tutta spiccata in aria per forza di calamita; e'
+Saraceni di diversi paesi vi vengono in pellegrinaggio, et
+tengono che per miracolo divino sta quella arca sospesa.  Doppo
+la morte di Macometto molti savj uomini conobbono la sua falsa
+dottrina, et da quella si partirono.  E' parenti di Macometto, i
+quali per la sua signoria erono grandi, per non perdere loro
+stato, s@i ordinorono uno successore di lui, il quale tenessi et
+guardassi la legge et chi@amallo Califf.  Bene ebbe tra loro, per
+invidia della signoria, grande scisma, et per gara feciono due
+Califf; et feciono addizioni et correzioni all'Alcaram; onde per
+questa si partirono da loro; Saracini dal levante tennono la
+propria legge di Macometto, et il loro Califf abit@o alla gran
+citt@a di Baldaca; et quelli d'Egitto et d'Affrica, ne feciono uno
+altro.  Et questo basti aver detto di questo errore.
+
+	|32-33.  Piangendo Al@i~: Fece Macometto suoi apostoli
+come Cristo; et il maggiore fu questo Al@i come tra gli veri
+apostoli di Cristo san Piero.
+
+	|35.  Di scandoli et di scisma~: idest divisio.
+
+	|39.  Di questa risma~: Risma, ci@o @e ordine, come una
+risma di bicchieri, ci@o @e uno ordine.
+
+	|43.  Musa~: ci@o @e indugia.
+
+	|55-60.  Or di' a Fra Dolcin~: Questo frate Dolcino fu
+delle montagne di Noarra in Lombardia, grande scenziato, tanto
+che gli venne nel pensiero di fare, l@a per quelle montagne di
+Noarra, quello che avea fatto Macometto nel Levante; et cominci@o
+a predicare, et molti uomini del paese, per che erono grossa
+gente, et quelli scienziato et saputo, rivolse dalla diritta fede
+et rec@ogli a questa sua resia; tanto che papa Bonifazio scrisse
+al vescovo di Vercelli che perseguitasse lui et chiunque gli
+credea.  Questi avea gi@a detto a quelli ch'egli avea convertiti
+ch'egli era loro mestiere di difendere; et tiravasi dirietro ben
+IIIJ milia fanti.  Fugli bandita la croce addosso: ultimamente
+questi prese, l@a nella montagna, certe fortezze et certe
+castella, et tenevasi gagliardamente; et se non che la neve
+sopravvenne, et missene tanta in quelle montagne, che questi,
+ch'era mal fornito di vittuaglia, che la neve il costrinse, non
+possendo avere vittuaglia, per fame s'arrend@e et venne preso a
+Vercelli, et non si volle mai pentere n@e confessare l'errore suo,
+ch@e forse gli sarebbe stato perdonato; anzi dicea che, s'egli
+morisse, risusciterebbe il terzo d@i.  Egli fu attanagliato; et fu
+di tanta costanzia che mai non si dolse n@e fece vista che gli
+dolessi; et poi ch'egli fu morto, la moglie, ch'ebbe nome madonna
+Margherita et fu delle belle donne del mondo, mai non si volle
+pentere: dicea ch'ella l'aspettava, ch'egli risusciterebbe il
+terzo d@i: ultimamente ella fu morta com'elli.  Et seppe s@i questo
+fra Dolcino seminare questa resia che che ancora tutto d@i ne sono
+arsi.
+
+	|64-66.  Un altro che forata~: Questi, di cui parla
+l'Auttore, fu uno gentile uomo di Romagna Captano, da Medicina,
+ch'@e una fortezza presso a Bologna.  Questo Piero da Medicina fu
+uno grandissimo seminatore di scisma et di divisione, et fu al
+tempo dell'Auttore; et dicesi di lui ch'egli s'ingegn@o di
+dividere tutti i signori di Romagna, mettendogli in divisione et
+in scandoli; et ancora assai volte tra' cittadini di Bologna.  Il
+modo era questo: egli cavalcava per Romagna; et come quelli
+ch'era molto conosciuto, trovava per la via de' famigli di quelli
+signori: addimandato da loro, dava al famiglio una lettera et
+dicea: <Porta questa a messer Malatesta a Rimino>; et nella
+lettera si conteneva: <Guardatevi dall'usanza et dimestichezza di
+messer Guido da Ravenna, et del tale et dell'altro tale signore>;
+et poi soggiugnea: <Io verr@o a voi, et dirovvi la cagione>.  A
+mano a mano scriveva a messer Guido il simile; et per questo
+modo, o per simile, s'ingegnava di mettere scandolo dovunque egli
+potea; et bench@e ne ricevesse vergogna assai volte, non se ne
+rimanea.  Per@o dice l'Auttore ch'egli avea forata la gola per
+divina giustizia; ch@e, come costui, mentre visse, for@o il petto
+dello amore degli uomini, ingegnandosi di mettere in quello luogo
+sdegno et ira, cos@i qui gli @e forata la gola.  |Et tronco il
+naso~: Com'egli non temette vergogna assai volte essendogli
+raffacciato il suo tradire, cos@i qui gli @e tronco il naso, come
+quello membro che, essendo mozzo, pi@u ogn'uomo si riputa in
+vergogna.  |Ma' che una orecchia~: Fece la natura a ciascuno due
+orecchi et una lingua; et questo @e segno che ciascheduno dee due
+tanti udire che parlare: parl@o due tanti ch'egli non ud@i; et
+pertanto, per divina iustizia, gli @e mozzo l'uno orecchio.
+
+	|70-72.  In su terra latina~: Qui mostra Piero aver
+veduto assai volte per Italia l'Auttore.
+
+	|73-75.  Rimembriti di Pier~: Vuole qui chiosare alcuno
+che, per paura che a lui non crescesse pena, si rammentava
+all'Auttore, per ch'egli spegnessi i mali ch'egli avea seminati
+nel mondo, allegando l'auttorit@a di santo Augustino, ch@e, come a
+san Paulo et agli altri scrittori et aumentatori della fede,
+quanti per le loro scritture se ne sono salvati et salveranno, di
+tanto @e cresciuto loro gloria, cos@i tutto a simile quanti mali
+nascono del seme de' mali che alcuno semina, di tanti gli @e
+cresciuta pena in inferno.  |Che da Vercelli a Marcab@o~: Reca
+Piero a mente all'Auttore il paese dove egli us@o et pecc@o, ci@o @e
+Lombardia et Romagna; et dice |da Vercelli.~  Vercelli @e una
+citt@a nel principio di Lombardia, verso le montagne che serrono
+la Magna dalla Lombardia.  Marcab@o @e uno luogo di l@a da Ravenna
+nel fine di Romagna, dove i Veniziani posono una bastia
+guerreggiando quelli di Ravenna.  Et dice che il piano ch'@e in
+questo mezzo da Vercelli infino a Marcab@o sempre china; et questo
+appare a occhio, per@o che 'l Po si muove da quelle montagne che
+abbiamo conte, et mette sotto Ravenna, s@i che sempre dichina.
+
+	|76-81.  Et fa sapere~: Ora qui annoda l'Auttore, a modo
+poetico, questa novella con questa che seguir@a, per che @e pi@u
+bello modo di parlare questo, che per copula averle congiunte: et
+questa novella ch'egli toccher@a era gi@a stata; ma figne l'Auttore
+in forma di profezia il fatto che fosse a venire, et sta la
+novella in questo modo.  Messer Guido da Fano et Agnolello erano
+i maggiori uomini di Fano, onde messer Malatestino de' Malatesti,
+era signore di Rimino, vennegli in pensiero d'essere signore di
+Fano: mostrandosi amico di questi messer Guido et Agnolello
+pens@o, avendo tentato pi@u volte: S'io uccido costoro, che sono i
+maggiori, io ne sar@o poi signore; et cos@i gli avvenne.  Scrisse
+loro ch'egli volea loro parlare, et ch'egliono venissono alla
+Cattolica, et egli sarebbe ivi, ch'@e uno luogo in quel mezzo tra
+Rimino et Fano.  Questi due, fidandosi, si missono in una
+barchetta per mare per venire alla Cattolica: messer Malatestino
+fece i suoi stare in quello mezzo con una altra barchetta; et
+come messer Malatestino avea loro comandato, presono messer Guido
+et Agnolo et gettorongli in mare; onde segu@i che la parte che
+aveano in Fano, perdendo i loro capi, furono cacciati di Fano:
+onde ultimamente segu@i che messer Malatesta ne fu signore.  |Ch@e,
+se lo antiveder~: S'io pronostico et indivino bene.  |Di lor
+vascello~: Ci@o @e fuori di quello legno.  |E mazzerati~: Mazzarati
+si dice propriamente di coloro che sono gettati et affogano in
+mare; et @e vocabolo antico.
+
+	|82-84.  Tra l'isola di Cipri~: L'isola di Cipri @e quasi
+in levante, et Majolica @e in Ponente; s@i che fra queste due isole
+si contiene, si pu@o dire, tutto il mondo, o gran parte.  |Non di
+pirrate~: Pirrate sono detti i rubatori di mare, da Pirro, ovvero
+da ^Pir~, quod est ^ignis~, come @e stato tocco addirietro, da
+quello fuoco che si facea ne' falsi porti per rubatori.  |Di
+gente argolica~: Argo f@e la prima nave, come @e stato conto in
+alcuno luogo; et per lui fu chiamata Argon: et da questo sono
+detti quelli che navicono Argolici.  Et ancora i Greci sono detti
+Argolici, per la citt@a d'Argo che fu la principale citt@a di
+Grecia in provedenza et in virt@u.
+
+	|86-87.  Et tien la terra che tal'@e~: Questi @e Curio,
+come innanzi appresso si dir@a.
+
+	|89-90.  Al vento di Focara~: In mezzo tra Fano et la
+Cattolica @e una montagna che si distende verso la marina; et
+ognora ch'e' marinaj vi valicano presso, s@i trae vento di quello
+luogo che gli tira verso la montagna, v'ha scogli pericolosi,
+onde vuole dire l'Auttore: Costoro non aranno bisogno o pregare
+che il vento di Focara non tragga; per@o che, prima ch'eglino vi
+sieno giunti, saranno morti.  La Cattolica @e uno borgo presso a
+questa Focara, in sulla marina, et fu gi@a una buona terra; ma @e
+coperta dal mare, et anch'ora chi guarda, essendo il sole chiaro,
+si veggiono sotto l'acqua del mare gran pezzi di muri et di
+torri, et puossi comprendere che terra vi sia stata sotto: et @e
+presso, com'@e detto, a questa montagna detta Focara.
+
+	|93-99.  Colui della veduta amara~: Questi fu Curio, che
+mai non arebbe voluto vedere Rimino.  Avendo Pompeo et i Pompeani
+fatto a Roma decreto et negato a Cesare il triunfo, per@o che
+diceano che Cesare era stato in Francia oltre all'ordine posto di
+cinque anni, Curio, essendo Tribuno et corrotto, secondo che
+scrive Lucano, co' doni di Cesare, che prima fu della setta di
+Pompeo; e mutato Curio, et parlando in favore di Cesare, con ci@o
+sia cosa che prima fosse tenuto uno giusto uomo, a cui, come
+scrive questo Auttore, erono tenute le leggi per@o che bene lo
+facea osservare; molti Romani il seguiro et fu grande movimento a
+ogni cosa; onde per questa cagione fu cacciato di Roma et ebbe
+bando; onde Curio se ne venne a Rimino, ove soprastava Cesare per
+non valicare il fiume di Rubicone, che, valicandolo, cadea nella
+seconda contumacia de' Romani; et male gli parea che i Romani gli
+negassono il triunfo, et male gli parea a Julio Cesare di venire
+con arme contro alla citt@a sua.  Onde, poi ch'egli fu giunto
+all'onde del picciol fiume di Rubicone, gli apparve la grande
+immagine di Roma chiara nella oscura notte, dicendo: Dove portate
+l'arme?  perch@e venite contro a me, se voi siete miei cittadini? 
+Ora finalmente per queste cose stando Cesare sospeso, et non
+sappiendo pigliare partito, Curio sopraggiunse et disse queste
+parole a Cesare: Noi, dice Curio, siamo cacciati dalle nostre
+case et dalla nostra patria: or sofferiamo et sostegnamo d'essere
+sbanditi; et vogliamo sofferirlo?  per@o che la tua vittoria,
+Cesare, ci far@a cittadini; mentre che le parti temono et non sono
+fermate con veruna fortezza, lieva via le dimoranze, per@o che lo
+indugio sempre nocque alle cose apparecchiate: pari fatica et
+pari paura sono addimandate con maggiore pregio.  Francia ti
+tenne combattendo continuamente X anni piccola parte delle terre;
+ora se picciole battaglie tu farai in questo tuo agevole
+avvenimento, tu vincerai Roma, et Roma ti sottometter@a tutto il
+mondo alla tua signoria.  Cesare, infiammato per queste parole di
+Curio, si mosse come uno cavallo sfrenato, et dirizza le 'nsegne,
+et passa il fiume di Rubicone, et va verso Roma.
+
+	|100-102.  Colla lingua tagliata~: Dice che, per divina
+giustizia, Curio avea tagliata la lingua, per@o che, per oro et
+per le spoglie de' Franceschi che Cesare gli don@o, parl@o in
+favore di Cesare, et contro la libert@a della sua patria; et per@o
+ch'egli vend@e la lingua, @e convenevole che la lingua, per la
+divina giustizia, gli fosse tolta, perch@e, come dice l'Auttore in
+altro luogo addirietro, e' non @e giusto aver ci@o ch'uom si
+toglie.
+
+	|103-108.  Et un che aveva l'una~: Negli anni di Cristo
+MCCXV, essendo podest@a in Firenze messer Gherardo Orlandi, messer
+Buondelmonte de' Buondelmonti, nobile cittadino di Firenze,
+promesse di t@orre per moglie una donzella di casa gli Amidei,
+onorevoli et nobili cittadini; et poi, cavalcando per la citt@a il
+detto messer Buondelmonte, ch'era molto leggiadro et bello
+cavaliere, una donna di casa i Donati il chiam@o, et biasimollo
+della donna ch'egli avea promessa, come non era bella sufficiente
+a lui, et dicendo: <Io avea guardata questa mia figliuola>, la
+quale gli mostr@o et era bellissima, incontanente, per sossidio
+diabolico, senza pi@u pensarvi, prese di lei la promessa, et poi
+la spos@o: per la qual cosa i parenti della donna promessa in
+prima, raunandosi insieme, et dolendosi di ci@o che messer
+Buondelmonte avea fatto loro di vergogna, si presono il maladetto
+sdegno, onde la citt@a di Firenze fu guasta et partita; ch@e di pi@u
+casati di nobili si congiurorono insieme di fare vergogna al
+detto messer Buondelmonte per vendetta di quella ingiuria.  Et
+stando in tra loro in consiglio in che modo il dovessono
+offendere, o di batterlo o di fedirlo, il Mosca Lamberti disse la
+mala parola |Cosa fatta capo ha~, ci@o @e che fosse morto, et cos@i
+fu fatto: et la mattina di Pasqua di resurrexi si raunarono in
+casa gli Amidei da santo Stefano; et vegnendo d'oltr'Arno il
+detto messer Buondelmonte vestito nobilmente di nuovo di roba
+tutta bianca, et in su uno palafreno bianco, giugnendo a pi@e del
+ponte vecchio dal lato di qua appunto a pi@e del pilastro dove era
+l'idolo di Marte, il detto messer Buondelmonte fu atterrato a
+terra del cavallo per Schiatta degli Uberti, et per Mosca
+Lamberti; et Lambertuccio degli Amidei l'assal@i et fedillo; et
+per Odorigo Fifanti gli furono segate le vene et tratto a fine;
+et ebbevi con loro uno de' Conti da Gangalandi: per la qual cosa
+la citt@a corse ad arme et a romore.  Et questa morte di messer
+Buondelmonte fu la cagione et cominciamento della maladetta parte
+guelfa et ghibellina, con tutto che in Firenze erono assai
+dinnanzi le dette parti, per cagione delle brighe et quistioni
+della Chiesa et dello Imperadore; et tutte le schiatte di Firenze
+se ne partirono: onde molto male ne segu@i in Toscana et altrove.
+
+	|109.  Et morte di tua schiatta~: Per@o che per questa
+cagione i Lamberti, colle altre famiglie ghibelline, furono
+cacciati di Firenze, et sono morti et disfatti.
+
+	|115-117.  Coscenzia m'assicura~: ^Nihil timidum hominem
+esse facit, nisi reprehensibilis vitae conscientia~: Niuna cosa,
+dice Seneca, rende gli uomini vili quanto la coscenzia della loro
+reprensibile vita; et per@o dice bene l'Auttore che la buona
+coscenzia l'assicurava, ch'era pura sotto il petto, ch'@e sbergo
+dell'anima.
+
+	|121-125.  Et eran due in uno~: Ci@o @e, avendo il capo in
+mano come lanterna, et da quello vedea lume tutto l'avanzo, et da
+quello parlava, s@i che li si pu@o dire ch'elli era e due et uno.
+
+	|134-136.  Sappi ch'i' son Beltram~: Il re Ricciardo
+d'Inghilterra avea uno suo figliuolo, nome il re Joanni, onde il
+padre, pensando che 'l figliuolo divenisse pi@u valoroso
+allevandosi altrove che seco, o che a casa sua, il mand@o in
+Francia, et per suo maestro mand@o questo messer Beltramo dal
+Bornio.  Ora, stando nella corte del re di Francia, divenne
+questo re Giovanni il giovane, ch@e cos@i fu chiamato, valente
+uomo, tanto che uno d@i uno cavalieri, venendo al re di Francia a
+dimandare una grazia, una cosa che volea da lui, il Re gliel
+disdisse: onde questo cavaliere si part@i maninconoso et pensoso. 
+Il Re si rivolse a quelli che gli erono innanzi dicendo: @E nel
+mondo pi@u grave cosa agli uomini che non avere quello che
+dimandano o quello ch'egli chieggono?  Il re Giovanni essendo
+presente disse: Santa Corona, s@i; non darla loro et negarla.  Il
+re di Francia guarda costui, et giov@ogli della risposta: mand@o
+per quello cavaliere, a cui avea negato il servigio, et fecegli
+quello che gli chiese.  Ora, essendo il re Giovanni stato in
+Francia quanto parve al re Ricciardo, mand@o per lui.  Il re
+Giovanni torn@o in Inghilterra; et tornato, cominci@o a spendere
+largamente, come quelli che fu il pi@u cortese uomo del mondo.  Il
+re Ricciardo gli parea che spendessi troppo: assegnogli parte nel
+reame: questi in poco tempo baratt@o et vend@e ogni cosa, et spend@e
+in cortesia.  Il Re gli assegn@o un'altra parte: questi fa il
+simile: il Re s'adira contro a lui et sbandillo.  Questi si
+rinchiude in uno castello di questo messer Beltramme da Bornio,
+che ha nome Altaforte.  Il re Ricciardo vi si pose intorno, et
+ultimamente quei dentro, combattendo con quelli di fuori, il re
+Giovanni, combattendo, sconosciutamente et per disavventura, come
+avviene nelle battaglie, fu nella zuffa morto: poi fu preso il
+castello; et questo messer Beltramo venne nella forza del re
+Ricciardo.  Aveva usato di dire questo messer Beltramo, quando il
+Re facea contro al figliuolo, queste parole: Io non ho ancora
+usato la met@a dell'avviso mio, et @e rimaso ancora del senno; onde
+il Re, che gli era stato ridetto questo, disse: Dimmi, messer
+Beltramo, ov'@e questo tuo avviso et questo tuo senno che t'@e
+rimaso?  Monsignore, disse messer Beltramo, quand'ei mor@i il tuo
+figliuolo et mio signore, mor@i insieme con lui ogni mio senno. 
+Al Re intener@i il cuore udendo costui; dimandollo la seconda
+volta: Dimmi, quando tu vedevi quello mio figliuolo fare le cose
+ch'elli facea, come nol riprendevi tu?  Rispose messer Beltramo:
+Egli non mi parve ch'egli fallasse mai.  Il re Ricciardo,
+intenerendo per la morte del figliolo, considerando che questo
+messer Beltrame, come ch'elli avessi fallato, avea portato grande
+amore al figliuolo, gli perdon@o et lasciollo.  |Io feci il padre
+e 'l figlio~: Chiaro appare, per quello ch'@e detto.
+
+	|137-138.  Achitofel non fe' pi@u~: Leggesi nel II libro
+de' Re che Amon figliuolo di Davit innamor@o d'una sua sirocchia
+nome Tamar, figliuola del re Davit, et per questa cagione Amon ne
+inferm@o; et andando il padre a lui, ci@o @e Davit, a visitarlo in
+questa sua infermit@a, pregollo che mandassi Tamar a servillo: il
+Re ve la mand@o: giunta a lui, contro a sua volont@a la sforz@o, et
+ancora fece peggio, che costei volea stare nella camera uno pezzo
+perch@e altri non s'avvedesse di niente; Amon nol sofferse,
+cacciolla fuori: ella se n'and@o a Absalon suo fratello di madre
+et di padre (Amon era sol di padre), et dissegli l'oltraggio che
+le avea fatto Amon.  Il fratello, come fellone, pens@o di
+vendicarsi: invit@o un d@i Amon a' suoi luoghi che avea fuori di
+Jerusalem.  Amon v'and@o, ch@e non prendea guardia: Absalon avea
+ordinati certi fanti, et fecelo tagliare per pezzi.  Il re Davit
+sent@i il fatto: dolente quanto si pu@o pensare, f@e dare bando a
+Absalon et cacciollo del reame.  Absalon, partitosi, non doppo
+molto tempo, per consiglio ch'ebbe il Re, fu ribandito Absalon,
+et torn@o in Jerusalem; et come fellone et malvagio, tornato,
+pens@o di vendicarsi del padre et t@orgli il reame: ordin@o tanto et
+sommosse il popolo che uno d@i a furore cacci@o Davit fuori di
+Jerusalem.  Andonne Davit fuggendo, accompagnato da 600 uomini a
+cavallo; et cos@i fuggendo trov@o per la via uno sacerdote, valente
+et savio uomo, nome Cusi.  Davit il dimand@o della sua venuta;
+rispose: Signore mio, io vengo a visitarti et seguitarti.  Davit
+gli disse: Va et seguita tuo signore Absalon, per@o ch'egli ha
+tutto il dominio.  Questi disse: Vedi, tu d@ei essere signore tu:
+te non intendo d'abbandonare mai.  Veduta il re la buona
+disposizione di costui, gli disse: Se tu mi vuogli servire, torna
+a Jerusalem, et torna a servire Absalon, et consiglialo di quello
+che vedi che faccia per me.  Et questo gli disse Davit, per@o che
+avea sentito che Achitofel era consigliere d'Absalon; onde,
+subito che Davit il sent@i, disse: Morto sono; se Absalon
+s'attiene al consiglio di costui, io non posso campare; per@o che
+conoscea Achitofel savissimo et astuto uomo.  Cusi fece quello
+che Davit gli comand@o; et entr@o nella grazia d'Absalon, et fu di
+suo consiglio.  Avvenne che Achitofel consigli@o Absalon ch'egli
+facesse due cose, s'egli volea tenere la signoria: l'una che X
+mogli che avea Davit (per@o che allora si poteono t@orre quelle
+mogli che altri volea) con tutte a dieci usasse; et questo fece,
+acci@o che 'l popolo pi@u s'assicurasse a fare contro a Davit. 
+L'altro consiglio fu ch'egli mandasse dirietro a Davit diecimila
+uomini, et tanto il seguissono et uccidessorlo, dicendo: Mai non
+sarai sicuro mentre che Davit vive.  Cusi, ch'era presente,
+troppo bene quella delle mogli consent@i; al secondo consiglio
+s'oppose, dicendo che non era il meglio di mandare dirietro a
+Davit, assegnando: Egli hae uomini seco seicento et sono caldi et
+disperati: la gente nostra poterebbe per disavventura essere
+sconfitta; et tu, signore mio, perderesti la signoria; noi il
+poteremo ancora giugnere senza tanto rischio: onde s'attenne a
+questo consiglio.  Achitofel, sdegnato che 'l consiglio suo non
+fu accettato, si part@i et impiccossi per la gola egli stesso. 
+Avvenne poi che Davit ingross@o gente, et venne contro Absalonne:
+la battaglia fu grande: nell'ultimo Absalon et sua gente fu
+rotta; et fuggendo Absalon, ch'era in su una mula et aveva i
+capelli lunghissimi et biondi, per@o che fu de' pi@u belli giovani
+del mondo, i capelli s'appiccorono a una quercia che pendea sopra
+la via, et ivi rimase appiccato, et la mula trascorse oltre. 
+Joab, ch'era col re Davit, gli lanci@o, contra volont@a di Davit,
+et ucciselo: et Davit fu signore come dovea.
+
+	|142.  Cos@i s'osserva in me lo contrappasso~: Egli @e
+differenzia fra giustizia et contrappasso: Giustizia si dice
+quando l'uomo ha morto uomo, et egli @e poi morto; in qualunque
+modo muoja, si dice giustizia.  Contrappasso ha in s@e pi@u
+severit@a et ragione; ch@e vuole che nella esecuzione della
+giustizia tutte le cose occorrano che sono occorse nella offesa;
+ch@e vuole che l'uomo omicida sia morto quell'ora del d@i ch'elli
+uccise, per quel modo, et in quello luogo, et con quelli ordini,
+et similia.

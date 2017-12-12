@@ -1,0 +1,769 @@
+|PARADISO CANTO 22~
+
+        |Proemio.~  ^Oppresso da stupore~ ec.  Questo @e lo XXII\, nel 
+quale l'autore finge come li apparve santo Benedetto e parlament@o con 
+lui; e come si trov@o subitamente montato per la scala sopradetta nel 
+segno di Gemini che @e nell'ottava spera; e come fece invocazione ad 
+esso; e come\, ragguardando in gi@u\, vidde tutti li pianeti che aveva 
+passati e la spera della terra di vile condizione\, in tanto ch'elli 
+commenda chi la sa dispregiare.  E per@o divide questo canto 
+principalmente in due parti: imper@o che prima finge come Beatrice li 
+dichiar@o che fusse lo grande suono che uditte\, e come li apparve santo 
+Benedetto e manifest@oli la sua condizione\, e come li dimandoe grazia 
+di vederlo ne la sua essenzia\, e come santo Benedetto li risponde a la 
+sua dimanda; nella seconda finge che\, non finita ancora la sua 
+diciaria\, l'incomincioe a contare della lentezza che @e venuta nei 
+monaci e ne' religiosi del mondo a fare bene\, diventati tutti carnali 
+dove solevano essere spirituali\, e come gravemente li minacci@o de 
+l'iudicio d'Iddio\, e come Beatrice l'accenn@o che montasse su per la 
+scala predetta\, e come si trov@o nell'ottava spera in Gemini\, e come a 
+lui fece invocazione\, e come per consillio di Beatrice si rivolse in 
+gi@u e vidde tutti li pianeti ch'aveva passati e la terra che aveva 
+lasciata\, et incominciasi quine: ^Ma per salirla mo~ ec.  La prima\, 
+che sar@a la prima lezione\, si divide tutta in cinque parti: imper@o 
+che prima finge come\, meravigliandosi del suono predetto\, ricorse a 
+Beatrice come fa lo figliuolo a la madre\, e come Beatrice lo confort@o 
+e dichiar@alo di quel suono et ammonittelo che riguardasse a li spiriti 
+che vedeva venire verso loro; nella seconda finge come uno di quelli 
+spiriti\, stando elli stupido a ragguardarli\, l'incominci@o a parlare\, 
+et incominciasi quine: ^Come a lei piacque~ ec.; nella terzia finge 
+come\, continuando suo parlare\, li manifest@o per circustanzie come 
+elli era santo Benedetto\, e come convertitte Monte Casino e le 
+circustanzie a la fede cristia
+na\, et incominciasi quine: ^Quel monte~ ec.; nella quarta parte finge 
+com'elli fece prego a san Benedetto di vederlo nella sua essenzia\, et 
+incominciasi quine: ^Et io a lui~ ec.; nella quinta parte finge come 
+santo Benedetto li dichiara che ora nol pu@o vedere; ma quando sar@a 
+suso nel cielo empireo lo vedr@a\, cio@e al sommo de la scala per la 
+quale montavano e scendevano li beati spiriti\, et incominciasi quine: 
+^Ond'elli: Frate\, il tuo caldo~ ec.  Divisa la lezione\, ora @e da 
+vedere lo testo colle sue esposizioni allegoriche e morali.
+
+        |1-21.~  In questi sette ternari lo nostro autore finge 
+com'elli\, meravigliatosi del suono predetto\, ricorse a Beatrice per 
+soccorso; e com'ella lo dichiar@o\, dicendo cos@i: ^Oppresso~; cio@e 
+aggravato\, ^da stupore~; cio@e da meraviglia io Dante\, ^a la mia 
+guida~; cio@e Beatrice\, ^mi volsi~; cio@e volsi me Dante; e fa la 
+similitudine: ^come 'l parvol~; cio@e lo fanciullo\, ^che ricorre Sempre 
+col@a~; cio@e a quello luogo et a quella persona\, ^dove pi@u si 
+confida~; cio@e nel qual luogo\, o nella qual persona\, @ae maggior 
+fidanza; e cos@i ricorsi io a Beatrice.  ^Ma quella~; cio@e Beatrice\, 
+^come madre che soccorre Subito~; cio@e subitamente senza indugio\, ^al 
+fillio pallido~; cio@e smorto per la paura\, ^et anelo~; cio@e et 
+angoscioso per lo battere del pulmone\, ^Co la sua voce~; dicendo: Che 
+@ai tu\, figliuol mio?  ^che 'l suol ben disporre~; cio@e la quale voce 
+suole bene disponere lo suo figliuolo\, io ricorsi a Beatrice come 
+figliuolo a la madre\, et ella mi soccorse come la madre soccorre lo 
+figliuolo.  Et ecco le parole che us@o: ^Mi disse~; cio@e disse a me 
+Dante Beatrice: ^Non sai tu che tu se' 'n Cielo~; quasi dicesse: @Ai tu 
+dimenticato che tu se' in cielo?  ^E non sai tu~; cio@e Dante\, ^che 'l 
+Cielo @e tutto santo~?  Ben lo debbi sapere questo; e non sai tu\, 
+Dante\, ancora questo?  ^E ci@o che ci si fa~; cio@e in cielo\, ^vien da 
+buon zelo~; cio@e da buono amore e desiderio di bene?  Adunqua se tu @ai 
+a mente queste tre cose; cio@e che tu se' in cielo\, e ch'elli @e tutto 
+santo\, e che ci@o che ci si fa viene da buono amore e desiderio\, come 
+temi tu o ti meravigli tu\, Dante?  Queste sono tre cose che moralmente 
+si debbono attendere in ogni cosa\, cio@e lo luogo\, li abitatori e 
+l'opere che nel luogo si fanno: imper@o che queste danno e tolliono ogni 
+sospetto.  Lo luogo santo\, li abitatori santi\, l'opere piene tutte di 
+carit@a tollieno ogni timore et ammirazione; e cos@i per contrario lo 
+luogo maladetto\, li abitatori scelerati\, l'opere viziosissime danno 
+ragionevilmente timor
+e e meraviglia.  Et oltra lo dimanda: ^Come t'avrebbe trasmutato 'l 
+canto~; cio@e come arebbe travallato la tua mente lo canto che qui si 
+fa\, se tu lo potesse udire?  Ma come fu detto di sopra\, li orecchi di 
+Dante\, che erano mortali\, non potevano comprendere s@i fatto canto\, 
+come quine si fa; cio@e s@i alto\, che l'orecchio corporale nollo 
+comprende\, come l'occhio mortale non comprende la letizia che in quello 
+grado dei beati @e\, come fu detto di sopra.  ^Et io~; cio@e Dante\, 
+^ridendo~; rispuosi a Beatrice: ^Mo pensar lo puoi~; cio@e avale lo puoi 
+pensare\, cio@e tu\, Beatrice\, come m'arebbe mosso lo canto.  ^Poscia 
+che 'l grido t'@a mosso cotanto~; e qui ritorna anco al parlare 
+Beatrice\, poi che Dante intermisse quella risposta\, dicendo: Poi che 
+'l grido @a mosso te Dante tanto\, quanto tu pari mosso\, ^Nel qual~; 
+cio@e canto\, ^se 'nteso avessi i prieghi suoi~; cio@e se tu\, Dante\, 
+avessi inteso; nel qual grido fatto dai beati spiriti li preghi che 
+contenne quel grido\, ^Gi@a ti sarebbe nota la vendetta~; cio@e sarebbe 
+manifestata a te Dante la vendetta\, cio@e de' prelati della santa 
+Chiesa\, dei quali @e stato detto di sopra.  ^Che tu vedrai inanti che 
+tu muoi~; ecco che finge l'autore che Beatrice dica che Dante debbe 
+vedere la vendetta dei prelati della Chiesa innanzi che muoia\, siccome 
+vidde in papa Bonifazio del quale fu detto nella seconda cantica\, e de' 
+cardinali che preseno li Pisani in mare\, quando fu la discordia tra la 
+Chiesa e lo imperadore Federigo (1241).  ^La spada di quass@u~; questo 
+@e notabile.  Finge l'autore che Beatrice dicesse: E' ti pare troppo 
+indugiare a vedere questa vendetta?  Or sappi che ^La spada~; cio@e la 
+iustizia punitiva\, ^di quass@u~; cio@e del cielo\, cio@e d'Iddio\, ^non 
+taglia in fretta~; cio@e non fa in fretta la sua esecuzione\, ^N@e 
+tardo~; cio@e n@e non tallia tardamente\, cio@e n@e non tarda la 
+iustizia punitiva d'Iddio: imper@o che Iddio ogni cosa fa a modo et a 
+misura: non fa Iddio n@e troppo tosto\, n@e troppo tardo li suoi fatti\, 
+^ma ch'al parer 
+di colui~; cio@e se no al parere di colui\, ^Che disiando~; cio@e lo 
+quale con desiderio\, ^l'aspetta~; cio@e la divina iustizia\, et a colui 
+non pu@o essere s@i tosto\, che nolli paia tarda\, ^o temendo 
+l'aspetta~; cio@e la divina iustizia\, et al parere di colui che 
+l'aspetta temendo\, non sa tanto indugiare che nolli paia troppo tosto; 
+sicch@e due sono le condizioni delle persone a le quali la iustizia 
+punitiva d'Iddio non pare che vegna a modo debito.  L'una di coloro che 
+la desiderano in altri\, che per lo desiderio che n'@anno non viene s@i 
+tosto\, che non paia loro che troppo indugi; l'altra @e di coloro che la 
+temano in s@e\, che per la paura che n'@anno non viene s@i tardi\, che 
+non paia loro troppo tosto: e questo intende di quelli che sono nel 
+mondo\, che chi la desidera e chi la teme: desideranola li buoni e 
+temenola li rei; o di quelli che sono nello inferno che la temano; li 
+altri\, cio@e li beati e quelli che sono in grazia\, stanno contenti a 
+la volunt@a d'Iddio.  Et anco pu@o essere che uno medesimo uomo alcuna 
+volta la desideri\, et alcuna volta la tema\, secondo le condizioni sue 
+con s@e medesimo: imper@o che\, se l'omo @e bene disposto\, desidera 
+d'essere tosto punito del suo peccato; e s'elli @e male disposto\, n'@a 
+paura.  Et anco uno medesimo omo la desidera in altrui\, e temela in 
+s@e.  ^Ma rivolgeti~; cio@e tu\, Dante\, ^omai~; cio@e ingiummai\, ^in 
+verso altrui~; ecco che Beatrice l'ammonisce che si rivolga a vedere li 
+spiriti\, che quine sono\, ^Ch'assai~; cio@e imper@o che assai\, 
+^illustri spiriti~; cio@e chiari spiriti\, ^vedrai~; cio@e tu\, Dante\, 
+^Se\, come dico~; cio@e io Beatrice\, ^l'aspetto redui~; cio@e riduci lo 
+tuo sguardo in verso loro.  Seguita.
+
+        |22-36.~  In questi cinque ternari lo nostro autore finge come\, 
+ammon@ito da Beatrice\, si rivolse e vidde molti beati spiriti; e come 
+uno di quelli l'incominci@o a parlare\, dicendo cos@i: ^Come a lei~; 
+cio@e a Beatrice\, ^piacque~; che di ci@o m'ammonitte\, ^li occhi~; 
+cio@e miei\, ^dirizzai~; cio@e in verso la parte dirieto.  E per questo 
+nota l'autore ch'elli dirizz@o la ragione e lo intelletto suo a 
+considerare quelli che erano stati contemplativi nel mondo\, di che la 
+santa Scrittura fa menzione; e questo fu lo guardare a drieto; cio@e 
+considerare quelli che erano passati contemplativi\, degni d'essere 
+fatto menzione di loro in questo luogo; e dice che questo fece per 
+ammonizione di Beatrice: imper@o che qui non nomina\, se non di quelli 
+che la santa Chiesa tiene che siano santi; e la santa Teologia ci 
+ammonisce che debbiamo tenere quello\, che santa Chiesa tiene.  ^E 
+viddi~; cio@e io Dante colli occhi della mente\, secondo l'allegorico 
+intelletto e secondo la verit@a\, ^cento sperule~; cio@e cento beati 
+spiriti che mi s'appresentavano come piccole spere luminose\, che colli 
+occhi corporali non si debbe intendere che li vedesse\, ^che 'nsieme~; 
+cio@e le quali insieme\, ^Pi@u s'abbellivan~; cio@e che ciascuna non era 
+per s@e bella\, ^con mutui rai~; cio@e con avvicendevili raggi\, che 
+l'una gittava a l'altra; e per questo dimostra la carit@a che @e tra li 
+beati\, la quale sempre cresce tra loro.  ^Io~; cio@e Dante\, ^stava 
+come quei~; cio@e come colui\, ^che 'n s@e~; cio@e che in s@e medesimo\, 
+^ripreme~; cio@e ristrigne\, ^La punta del disio~; cio@e la 
+sollicitudine del desiderio\, che lo punge\, ^e non s'attenta Di 
+dimandar~; cio@e quello che desidera di sapere.  ^s@i del troppo si 
+teme~; cio@e s@i teme di dimandar troppo.  ^E la maggiore e la pi@u 
+luculenta~; cio@e quella luce che era maggiore e pi@u chiara\, che 
+l'altre luci\, ^Di quelle margarite~; cio@e di quelle anime\, che 
+riluceno pi@u che margarite\, ^inanti fessi~; cio@e inverso me pi@u\, 
+che l'altre\, ^Per far di s@e la mia vollia conte
+nta~; cio@e per farmi contento\, dice Dante\, di quello ch'io desiderava 
+di sapere da lei.  ^Poi dentro a lei~; cio@e dentro dalla luce\, ^udi'~; 
+cio@e parlare lo spirito beato\, che di quella luce si fasciava\, 
+^udi'~; cio@e io Dante dire a lui.  ^Se tu vedessi\, Com'io\, la carit@a 
+che tra noi arde~; cio@e se tu\, Dante\, vedessi\, disse quello 
+spirito\, la carit@a che arde tra noi beati\, come veggo io che sono 
+beato\, ^Li tuoi concetti sarebber espressi~; cio@e li tuoi pensieri 
+sarebbono manifestati da te a noi\, e non aresti lasciato per dubitanza 
+di non addimandare troppo: imper@o che aresti veduto che noi siamo s@i 
+desiderosi del bene del prossimo e s@i contenti\, che c'@e diletto di 
+poterlo fare contento.  ^Ma perch@e tu~; ma acci@o che tu\, Dante\, 
+^aspettando~; cio@e aspettando che io sodisfaccia al tuo desiderio\, 
+^non tarde~; cio@e non indugi\, ^All'alto fine~; cio@e di venire a Dio\, 
+che @e l'alto fine a che tu vuoi venire e quine finire la tua comedia\, 
+che so che questo @e lo tuo grande desiderio\, ^io~; cio@e beato 
+spirito\, ^ti far@o risposta~; cio@e a te Dante\, ^Pur al pensier~; 
+cio@e che tu @ai di voler sapere\, ^di che~; cio@e del qual pensieri\, 
+^s@i ti riguarde~; cio@e tu\, Dante\, di dimandare.  Seguita.
+
+        |37-51.~  In questi cinque ternari lo nostro autore finge come 
+lo detto beato spirito\, lo quale elli finge che fusse santo Benedetto 
+trovatore e componitore della regola monacile dell'ordine di Camalduli\, 
+dicendo cos@i: ^Quel monte~; questo @e uno monte altissimo in Campagna\, 
+chiamato Casino per uno castello che @e chiamato cos@i\, posto nella 
+costa del monte; e per@o dice l'autore: ^a cui~; cio@e al quale monte\, 
+^Casino @e nella costa~; cio@e uno castello cos@i chiamato\, ^Fu 
+frequentato~; cio@e usato\, ^gi@a in su la cima~: imper@o che v'era lo 
+tempio d'Appolline\, al quale andava la gente pagana a fare sacrificio 
+et ad avere risposta delle cose che doveano venire: imper@o che li 
+populi di Campagna erano infideli et adoravano l'iduli; e per@o dice 
+l'autore: ^Da la gente ingannata~; cio@e da' dimoni che parlavano 
+nell'iduli\, e cos@i ingannavano la gente e facevano credere che fussono 
+iddii\, ^e mal disposta~: imper@o che erano disposti tutti al culto 
+dell'iduli.  ^E quel son io~; cio@e io spirito\, che ti parlo\, sono 
+quello\, ^che su vi portai prima~; cio@e in su quel monte\, ^Lo nome di 
+Colui~; cio@e di Iesu Cristo\, ^che 'n terra addusse~; cio@e lo quale 
+Cristo arrec@o in terra\, ^La verit@a~; cio@e della fede\, ^che~; cio@e 
+la quale verit@a\, ^tanto ci soblima~; cio@e tanto c'innalza\, che ci fa 
+montare in cielo in vita eterna.  Questo fu santo Benedetto\, lo quale 
+fu di Norcia\, monaco di santa vita e poi abbate\, e fece la regola dei 
+monaci bianchi: prima fu eremita e poi fece pi@u monasteri di monaci\, 
+et in monte Casino ne fece e quine abit@o coi suoi monaci al tempo di 
+Iustiniano imperadore ne li anni della incarnazione di Cristo 529.  E 
+convertitte tutte quelle terre a la fede\, e fece cadere lo tempio 
+d'Apolline per divino miraculo\, e quine fece fare la chiesa a Dio vivo 
+e vero; e per@o finge l'autore che dica le parole predette.  E per@o 
+dice ancora: ^E tanta grazia~; cio@e d'Iddio\, ^sovra me~; cio@e 
+Benedetto\, ^rilusse~; cio@e risplend@e\, ^Ch'io ritrassi le ville 
+circustanti~; cio@
+e al monte Cassino\, ^Dall'empio culto~; cio@e dell'iduli\, ^che~; cio@e 
+lo qual culto dell'iduli\, ^il mondo sedusse~; cio@e ingann@o: imper@o 
+che grande tempo fu ingannato lo mondo dal culto dell'iduli.  E\, poi 
+che @ae detto di s@e\, finge che dica delli altri spiriti che erano con 
+lui\, dicendo: ^Questi altri fochi~; cio@e questi altri spiriti\, che 
+sono dentro a questi fuochi\, ^tutti contemplanti Uomini furno~; e 
+questo finge l'autore che dica santo Benedetto\, perch'elli fu 
+contemplativo: et in quella spera\, secondo sua fizione\, si 
+rappresentano li contemplativi\, ^accesi di quel caldo~; cio@e dello 
+amore d'Iddio\, ^Che~; cio@e lo quale caldo\, ^fa nascere i fiori e i 
+frutti santi~; cio@e le parole sante e l'opere sante: imper@o che dal 
+caldo de l'amore divino viene lo bene dire e lo bene operare.  ^Qui @e 
+Maccario~; questo anco fu santo omo contemplativo.  ^qui @e Romualdo~; 
+questo anco fu santo omo contemplativo.  ^Qui son~; cio@e in questo 
+luogo si rappresentano\, ^li frati miei~; cio@e li miei monaci santi e 
+buoni e contemplativi\, ^che dentro ai chiostri~; cio@e dentro a le 
+clausure de' monasteri\, ^Fermaro i piedi~; cio@e le loro affezioni; e\, 
+quanto alla lettera\, fermorno la loro abitazione\, ^e tenner~\, cio@e 
+li detti miei frati\, ^il cuor saldo~; cio@e lo suo proposito saldo e 
+fermo: imper@o che\, come detto @e\, l'autore nostro finge che nel cielo 
+di Saturno si rappresentino li contemplativi\, perch@e tale influenzia 
+viene di quinde\, come Iddio @ae ordinato che tali\, che nasceno sotto 
+tale costellazione\, siano atti ad essere solitari e contemplativi\, 
+come @e stato detto di sopra\, dove si disse delle significazioni di 
+Saturno.  E finge che questo li dica santo Benedetto\, e che elli li 
+manifesti: imper@o che per lui venne in tale pensieri e considerazione.  
+Seguita.
+
+        |52-60.~  In questi tre ternari lo nostro autore finge com'elli 
+dimand@o santo Benedetto s'elli lo poteva vedere nella sua formale 
+essenzia\, senza la fascia dell'ardore e de la fiamma\, dicendo cos@i: 
+^Et io~; cio@e Dante dissi cos@i\, ^a lui~; cio@e a santo Benedetto: 
+^L'affetto~; cio@e la carit@a e l'amore\, ^che dimostri~; cio@e la quale 
+carit@a dimostri tu\, beato spirito\, ^Meco parlando~; cio@e con me 
+Dante parlando\, come @e detto di sopra\, ^e la buona sembianza~; cio@e 
+la buona vista\, ^Ch'io~; cio@e la quale io Dante\, ^veggio e noto in 
+tutti li ardor vostri~; li quali sono qui con teco e che io @one veduto 
+nell'altre spere del cielo\, ^Cos@i @a dilatata mia fidanza~; cio@e 
+cos@i @ane ampliato la mia fede\, ^Come 'l Sol fa la rosa~; cio@e come 
+il Sole fa ampia la rosa col suo caldo; cos@i voi co la vostra ardente 
+carit@a\, ^quando aperta Tanto divien~; cio@e la rosa\, ^quant'ell'@a di 
+possanza~; cio@e quant'ella si pu@o aprire.  Ecco che fa la similitudine 
+vera; cio@e che\, come lo caldo del Sole fa aprire la rosa\, quanto 
+aprire si pu@o; cos@i la vostra carit@a @ae ampliato la mia fede e la 
+mia credenza; cio@e di potere essere dichiarato da te\, se io posso 
+avere tanto di grazia\, che io vegga la tua imagine senza lo velame 
+della luce.  E per@o dice: ^Per@o ti prego~; cio@e te beato spirito\, ^e 
+tu\, padre~; cio@e santo Benedetto\, padre di tanti monaci\, quanti 
+@anno seguitato la tua regola\, ^m'accerta~; cio@e fammi certo\, ^S'io 
+posso prender~; cio@e se io Dante posso avere\, ^tanta grazia~; cio@e da 
+Dio\, ^ch'io~; cio@e che io Dante\, ^Ti veggia~; cio@e vegga te\, ^con 
+imagine scoperta~; cio@e con imagine manifesta\, e non velata da questa 
+luce.  Qui si pu@o muovere dubbio\, perch@e lo nostro autore finge\, 
+perch@e pi@u qui che altrove li venisse questa vollia di vedere l'anime 
+nella loro propria imagine.  A che si pu@o rispondere\, perch@e lo luogo 
+ne fa cagione: imper@o che\, s'elli era sallito alla spera de' 
+contemplativi\, degno era ch'elli avesse pi@u alti pensieri che per 
+l'altre sp
+ere: imper@o che li contemplativi pensano tutte l'alte cose d'Iddio\, 
+contemplando la creatura s'inalzano a contemplare lo creatore; e perch@e 
+l'anima umana @e fatta a similitudine sua\, per@o @anno desiderio li 
+contemplativi di vedere l'essenzia dell'anima umana pi@u che di niuna 
+altra cosa creata; e per@o finse l'autore che tale pensieri li venisse 
+in questo luogo.
+
+        |61-72.~  In questi quattro ternari lo nostro autore finge come 
+santo Benedetto rispuose a la sua dimanda\, dicendo cos@i: ^Ond'elli~; 
+cio@e per la qual cosa elli\, cio@e santo Benedetto per la mia dimanda 
+mosso rispuose\, s'intende: ^Frate~; disse a Dante\, chiamandolo 
+fratello\, che @e nome di carit@a\, ^il tuo caldo disio~; cio@e lo tuo 
+acceso desiderio\, ^S'adempier@a~; cio@e sar@a sazio\, ^in su l'ultima 
+spera~; cio@e di sopra a la nona et ultima spera\, dove @e lo cielo 
+empireo e dove @e la gloria de' beati: imper@o che quine @e Iddio\, ^ove 
+s'adempien tutti li altri~; cio@e desid@eri\, e quine sono sazi e 
+quieti\, ^e 'l mio~; cio@e et anco lo mio desiderio s'adempie e sazia\, 
+finge che dicesse santo Benedetto.  ^Ivi~; cio@e di sopra a la nona 
+spera\, ^@e perfetta natura~: imper@o che quine @e Iddio\, che d@a 
+perfezione a la natura naturata umana et angelica\, e per@o s'intende: 
+Quine @e perfetta la nostra natura umana\, ^et intera~; cio@e e 
+compiuta\, ^Ciascuna disianza~; cio@e ciascuno desiderio umano\, ^in 
+quella sola~; cio@e sopra la nona spera\, ^@E ogni parte l@a\, dove 
+sempre era~; cio@e sopra la nona spera\, che @e lo primo mobile\, @e lo 
+cielo empireo che @e immobile; e per@o dice che ogni parte @e dove era 
+prima: per@o che non @a movimento; et ora rende la cagione\, dicendo: 
+^Perch@e non @e in loco~; cio@e lo cielo empireo non @e locato in luogo 
+alcuno\, sicch@e non @e contenuto da luogo\, come sono le nove spere\, 
+^e non s'impola~; cio@e e non si ferma in su' poli\, come l'altre spere: 
+imper@o che la nona spera @ae due poli; artico et antartico\, e cos@i 
+poi l'altre.  ^E nostra scala~; cio@e lo nostro ascendimento\, ^infin ad 
+essa varca~; cio@e infine la sopradetta nona spera.  ^Onde cos@i dal 
+viso ti s'invola~: imper@o che da indi ins@u non la puoi vedere tu\, 
+Dante.  ^Insin lass@u~; cio@e infine al detto luogo\, ^la vidde il 
+patriarca Iacob porger la superna parte~.  @E scritto nel Genesi\, ca.o 
+XXVIII che\, quando Isaac ebbe benedetto Iacob\, li disse che egli 
+andasse in Siria\, in Me
+sopotamia\, e pigliasse donna de le figlie di Laban\, e comandolli che 
+non pigliasse di quelle di Canaan.  Unde andando\, una sera si puose a 
+dormire nel cammino al sereno e puosesi una pietra per capezzale; e la 
+notte vidde questa visione; cio@e una scala che di terra ascendeva 
+infine al cielo\, e sopra essa li Angeli salliano e descendevano\, et in 
+capo a la detta scala era Iddio che li diceva: Io sono lo Iddio d'Abraam 
+e d'Isaac\, e l'altre che quine sono scritte.  E di questa scala finge 
+l'autore che santo Benedetto facesse menzione: ^Quando li apparve~; 
+cio@e al detto Iacob\, ^d'Angeli s@i carca~; cio@e la detta scala ne la 
+sua visione\, come detto @e di sopra.  E qui finisce la prima lezione 
+del canto XXII\, et incominciasi la seconda.
+        ^Ma per salirla~ ec.  Questa @e la seconda lezione del canto 
+XXII\, ne la quale lo nostro autore finge come della spera VII di 
+Saturno sallitte ins@u l'ottava del cielo stellifero; e come si trov@o 
+nel segno Gemini.  E dividesi tutta in parti sei: imper@o che prima 
+finge come santo Benedetto si lamenta che nessuno si leva dalle cose 
+terrene per sallire quella scala\, e lamentasi dei monaci suoi che sono 
+in terra che non seguitano la regola sua; nella seconda parte finge come 
+santo Benedetto\, seguitando lo suo parlare\, si lament@o dei prelati 
+della Chiesa\, e come li detti beati spiriti sallitteno per la detta 
+scala\, et incominciasi quine: ^Pier cominci@o~ ec.; nella terzia parte 
+finge come Beatrice lo pinse di rieto ai detti beati spiriti\, e come 
+subito si trov@o nell'ottava spera nel segno Gemini\, et incominciasi: 
+^La dolce donna~ ec.; nella quarta parte finge com'elli\, trovatosi in 
+Gemini fece al detto segnio di Gemini dimanda d'acquistare altezza 
+d'ingegno per la materia alta a che salliva\, et incominciasi quine: ^O 
+gloriose stelle~ ec.; nella quinta parte finge come\, ammon@ito da 
+Beatrice\, ragguard@o in giuso a vedere quanto era quello che aveva 
+montato\, e com'elli l'ebbe in dispregio lo mondo che aveva lasciato\, e 
+conforta che l'omo l'abbia\, parlando in generale\, et incominciasi 
+quine: ^Tu se' s@i presso~ ec.; nella sesta et ultima finge come vidde 
+la Luna e la Terra\, e come anco confort@o li lettori che la debbiano 
+dispregiare\, parlando singularmente de la Terra\, et incominciasi 
+quine: ^Vidi la fillia~ ec.  Divisa la lezione\, ora @e da vedere lo 
+testo coll'esposizioni letterali\, allegoriche e morali.
+
+        |73-87.~  In questi cinque ternari lo nostro autore finge come 
+santo Benedetto continu@o lo suo parlare\, dicendo come la scala 
+predetta non @e frequentata; e cos@i fa digressione da la materia di 
+prima\, lamentandosi dello sviamento dei suoi monaci da la vita virtuosa 
+e contemplativa che solevano avere\, dicendo cos@i: ^Ma per salirla~; 
+cio@e la detta scala\, ^mo nessun~; cio@e avale nessuno omo\, ^diparte 
+Da terra i piedi~; cio@e non s'ingegna di partire li piedi da terra\, 
+per montare la detta scala delle virt@u; et allegoricamente s'intende: 
+Nissuno diparte l'affezione da le cose terrene\, ^e la regola mia~; dice 
+santo Benedetto\, ^Rimasa @e gi@u~; cio@e nel mondo\, ^in danno de le 
+carte~; cio@e per logorare le carte\, in che ella si scrive; ma non che 
+s'osservi.  ^Le mura\, che soleano esser badia~; cio@e li monasteri che 
+solevano essere badia\, cio@e luogo che d@a padre ai figliuoli 
+spirituali che vogliano servire a Dio\, ^Fatte sono spilonche~; cio@e 
+ricettaculo di malandrini e di malifattori: spilonca @e caverna di monte 
+dove solliano appiattare li malandrini\, per non essere veduti e per 
+aspettare lo mercatante che passi: imper@o che i monaci non stanno a d@i 
+d'oggi et al tempo d'oggi\, se non per furare i frutti de le badie\, e 
+per essere fatti abbati e dispensare quello del monastero a loro modo\, 
+^e le cucolle~; cio@e le cappe de' monaci\, che si chiamano cuculle\, 
+^Sacca son piene di farina ria~; cio@e son piene di malvage anime e 
+peccatrici\, piene di mali pensieri e di mala volunt@a.  E come della 
+mala farina esce male pane; cos@i de le male voluntadi\, che sono nei 
+monaci\, esceno male operazioni; li quali monaci per l'abbondanzia dei 
+beni temporali diventano oziosi e viziosi.  E per@o il pigliare pi@u\, 
+che non @e bisogno al viver virtuosamente\, @e loro grave pi@u\, che non 
+@e l'usura che si piglia contra 'l piacere d'Iddio; e per@o dice: ^Ma 
+tanto usura grave non si tolle Contra 'l piacer d'Iddio~; cio@e non @e 
+usura tanto grave che non si tollia contra 'l piacere d'Iddio 
+dall'usurieri
+ a l'anima sua\, quanto sar@a grave quello che ' monaci pigliano pi@u 
+che non debbono\, oltra la vita onesta\, all'anime loro; e per@o dice: 
+^quant'@e~; cio@e quanto grave @e\, ^quel frutto~; all'anime de' monaci 
+e delli abbati\, ^Che~; cio@e lo quale frutto\, preso pi@u che non si 
+debbe\, ^fa il cuor de' monaci s@i folle~; cio@e s@i stolto\, che li fa 
+vaneggiare et intendere a le cose del seculo\, a le lascivie e disoneste 
+cose\, quando vivendo sobriamente intendrebbeno a la contemplazione 
+d'Iddio.  Et assegna la cagione\, per che @e pi@u ch'ogni usura: imper@o 
+ch'eglino lo toggano ai poveri d'Iddio: imper@o che ci@o\, che avanza a 
+la vita necessaria dei monaci\, si debbe distribuire ai poveri per 
+l'amore d'Iddio; e per@o dice: ^Ch@e~; cio@e imper@o che\, ^quantunche 
+la Chiesa guarda~; cio@e ci@o\, che la chiesa @ae e possiede\, oltra la 
+vita del cherico che serve a la chiesa\, ^tutto @E de la gente che per 
+Dio dimanda~; cio@e de' poveri mendicanti\, ^Non de' parenti\, n@e 
+d'altro pi@u brutto~; cio@e non @e de' parenti de' monaci\, n@e delli 
+abbati quello che v'avanza\, n@e de le meretrici\, n@e di disoneste 
+persone; ma dei poveri mendicanti per l'amore d'Iddio.  Dimostra ora la 
+cagione\, onde sia proceduta questa mutazione nei monaci da tutta virt@u 
+e santit@a in tanta lascivia e disonest@a.  E dice che @e venuta da la 
+corruzione della carne\, dicendo: ^La carne dei mortali~; cio@e 
+l'appetito carnale delli omini\, ^@e tanto blanda~; cio@e @e tanto 
+lusinghevile a la ragione\, che inganna la ragione che si lascia 
+ingannare\, e per@o non dura molto lo buono principio; e per@o dice: 
+^Che gi@u~; cio@e nel mondo\, ^non basta~; cio@e non dura\, ^buon 
+cominciamento~: che fatto sia\, ^Dal nascer de la quercia al far la 
+ghianda~; cio@e non dura tanto\, quanto di tempo @e da poi che @e nata 
+la quercia infine ch'ella pena a fare delle ghiande\, che si dice che 
+comunemente pena anni 20\, sicch@e innanzi che la quercia faccia ghiande 
+@ae bene anni 20.  E cos@i dice santo Benedetto: Bench@e li monaci miei 
+facesseno buono pri
+ncipio\, non @e loro durato per la sensualit@a che li @a ingannati co le 
+sue lusinghe.
+
+        |88-99.~  In questi quattro ternari lo nostro autore finge come 
+santo Benedetto\, continuando lo suo parlare\, dimostr@o questa 
+mutazione fatta non pure ne' monaci; ma ne' prelati della Chiesa e ne' 
+mendicanti; e come santo Benedetto se ne ritorn@o ai suoi e 
+rinstrinsenosi insieme e volonno su per la scala predetta\, come 
+apparr@a di sotto\, dicendo cos@i: ^Pier~; cio@e santo Piero apostolo\, 
+primo papa\, ^cominci@o senza oro e senza argento~; la Chiesa e 
+l'ordinazioni de' preti e de' prelati\, cio@e con povert@a\, ^Et io~; 
+cio@e Benedetto cominciai li miei monasteri\, ^con orazioni e con 
+digiuno~: imper@o che con aspra vita incominciai\, stando ne l'eremo con 
+grande astinenzia\, ^E Francesco~; cio@e santo Francesco\, istitutore 
+dell'ordine dei frati minori incominci@o\, ^umilmente il suo convento~: 
+imper@o che in povert@a et umilt@a fond@o la regola sua e lo convento 
+dei suoi frati minori.  ^E\, se guardi~; cio@e tu\, Dante\, ^al 
+principio di ciascuno~; cio@e di san Piero e di me Benedetto e di san 
+Francesco\, ^Poscia riguardi~; cio@e tu\, Dante\, ^laddov'@e trascorso~; 
+cio@e lo principio di ciascuno di noi tre\, ^Tu~; cio@e Dante\, ^l@i~; 
+cio@e nelle dette tre istituzioni\, ^vedrai del bianco fatto bruno~; 
+cio@e fatta mutazione contraria\, come del bianco al bruno: imper@o che 
+li prelati della Chiesa al tempo d'oggi vogliano essere ricchi\, e li 
+miei monaci vogliano ben mangiare e ben bere e stare in piaceri 
+mondani\, e li frati minori diventati superbi et ipocrite.  E per@o 
+adatta la parola de la santa Scrittura\, cio@e del Salmista a suo 
+proposito\, quando dice: ^Quid est tibi mare\, quod fugisti; et tu 
+Iordanis\, quia conversus es retrorsum?~  Quasi meravigliandosi\, dice: 
+^Veramente Iordan volt'@e retrorso~; cio@e tanto sono mutati dal suo 
+principio li prelati della Chiesa\, li monaci e li frati minori\, che 
+veramente si pu@o dire che siano volti a drieto\, come 'l fiume 
+Iordano\, quando pass@o lo popolo d'Iddio in terra di promissione si 
+ritorn@o verso la sua fonte e lasci@o lo fondo asciutto al p
+assamento del popolo d'Iddio\, come appare nella Bibbia\, Iosu@e III.  
+Et adiunge la speranza del remedio\, che Iddio porr@a a questi cos@i 
+rivolti\, dicendo dell'altra parte della detta autorit@a et arrecandola 
+anco a suo proposito dicendo: ^Pi@u fu fuggir\, Mirabil a veder\, lo 
+mar~; cio@e lo mare rosso\, quando s'aperse e stette da la parte ritta e 
+manca come muro\, perch@e passasse Mois@e col popolo d'Israel\, come @e 
+scritto ne la Bibbia\, Esodi XIV\, ^quando Iddio volse~: imper@o che 
+questo fatto fu miraculosamente\, secondo la volunt@a d'Iddio\, e fu 
+mirabile cosa a vedere a Faraone et ai suoi et al popolo d'Iddio; e 
+niente di meno pur fu\, ^quando Iddio volse~; e cos@i sar@a quando Iddio 
+vorr@a ponere rimedio a queste cose\, ^che quel soccorso~; cio@e che non 
+sar@a mirabile a vedere da te lo soccorso a questa ruina\, quando Iddio 
+vorr@a\, come volse quello.  E per questo induce santo Benedetto Dante 
+in buona speranza che Iddio apporr@a rimedio\, quando vorr@a.  ^Cos@i mi 
+disse~; cio@e cos@i disse a me Dante santo Benedetto\, come detto @e di 
+sopra\, ^et indi~; cio@e da quello luogo\, dove era venuto per 
+parlarmi\, ^Al suo collegio si ricolse~; cio@e si ritorn@o a li altri 
+beati spiriti che erano discesi con lui\, come fu detto di sopra; lo 
+qual descendere non fu se non la fizione dell'autore\, che tir@o la 
+memoria dei detti santi a la sua fantasia\, ^e 'l collegio~; cio@e dei 
+detti beati\, ^si strinse~; cio@e insieme: per@o che tutti li consider@o 
+l'autore insieme ritornare\, unde erano descesi\, a la sua fantasia.  
+^Poi~\, cio@e poi che furno stretti\, ^come turbo~; questo @e vocabulo 
+di Grammatica\, et @e a dire raccoglimento di vento e spingimento\, ^in 
+s@e tutto s'accolse~; cio@e lo detto globo dei beati spiriti\, coi quali 
+era disceso santo Benedetto a parlare con Dante.
+
+        |100-111.~  In questi quattro ternari lo nostro autore finge 
+come Beatrice l'ammonitte col cenno che montasse dirieto a loro 
+all'ottava spera\, dove era a sallire\, dicendo cos@i: ^La dolce donna~; 
+cio@e Beatrice\, ^dietro a lor~; cio@e a quelli beati spiriti detti di 
+sopra\, che rimontavano su per la scala\, und'erano discesi\, ^mi 
+pinse~; cio@e pinse me Dante\, ^Con un sol cenno~; cio@e con uno solo 
+atto\, ch'ella mi fece\, ^su per quella scala~; cio@e su per la quale 
+montavano li detti beati spiriti.  ^S@i sua virt@u~; cio@e di Beatrice\, 
+^la mia natura~; cio@e di me Dante\, che era natura d'omo mortale\, 
+^vinse~; cio@e soperchi@o.  E per questo d@a ad intendere che elli per 
+sua natura non sarebbe potuto montare la detta scala dirieto ai detti 
+beati spiriti\, se non fusse la virt@u de la santa Teologia che 
+ammaestr@o lo ingegno suo\, sicch@e con esso mont@o di rieto a loro\, 
+imaginando e contemplando tale montamento.  ^N@e mai quaggi@u~; cio@e 
+nel mondo dove l'autore era\, quando scrisse quello che finge avere 
+veduto nella sua visione\, ^dove si monta e cala~; cio@e nel quale mondo 
+si sale e scende\, ^Naturalmente~; cio@e secondo natura: imper@o che in 
+cielo si monta per grazia\, che @e cosa sopra natura\, ^fu s@i ratto 
+moto~; cio@e s@i veloce movimento\, ^Ch'agguagliar si potesse a la mia 
+ala~; cio@e che si potesse pareggiare al mio montamento; e vero dice: 
+imper@o che nessuno movimento naturale si pu@o assimilliare per pari al 
+movimento\, che @e per grazia d'Iddio.  E bene dice ^a la mia ala~: 
+imper@o che\, come @e stato detto di sopra\, l'ale con che si monta 
+mentalmente sono due\, cio@e la ragione che @e l'ala sinistra\, e lo 
+intelletto che @e l'ala destra: al cielo stellifero\, ottava spera\, non 
+si pu@o montare coll'ala della ragione\, che non apprende se non natural 
+montamento; ma coll'ala dello intelletto\, che apprende per grazia data 
+da Dio le cose sopra natura.  ^S'io torni~; ecco che conferma per 
+ossecrazione lo suo veloce montamento\, dicendo: Se io Dante\, ^torni 
+mai\, Lettor~; ecco che 
+dirizza suo parlare al lettore\, ^a quel devoto Triunfo~; cio@e di 
+paradiso: triunfo @e allegrezza di vittoria avuta sopra i nimici\, del 
+quale @e stato detto pienamente di sopra; e veramente la gloria di 
+paradiso si pu@o chiamare triunfo: imper@o che triunfano li beati della 
+vittoria avuta contra 'l dimonio\, contra 'l mondo e contra la carne\, 
+^per lo qual~; cio@e triunfo avere\, ^io piango spesso Le mie peccata~; 
+cio@e di me Dante\, ^e 'l petto mi perquoto~; dicendo mia colpa d'esse.  
+^Tu~; cio@e lettore\, ^non avresti intanto tratto e messo Nel fuoco il 
+dito~; cio@e tuo\, che @e cosa che quanto l'uomo pi@u tosto pu@o fare\, 
+tanto lo fa\, ^in quanto viddi il segno~; cio@e io Dante\, lo quale fu 
+mentale vedere\, e nessuna cosa corre pi@u tosto che la mente\, ^Che~; 
+cio@e lo qual segno\, ^segue 'l Tauro~; cio@e quel segno che si chiama 
+Gemini\, che viene di rieto a Tauro\, secondo l'ordine dei segni del 
+zodiaco\, ^e fui~; cio@e io Dante\, ^dentro da esso~; cio@e dentro da 
+esso segno Gemini.  Bench@e l'autore finga che v'intrasse dentro\, non 
+si debbe intendere che v'intrasse se non co la mente; e la cagione\, per 
+che dice che si trov@o pi@u tosto in questo segno che in altro\, si 
+dir@a di sotto.  Seguita.
+
+        |112-123.~  In questi quattro ternari lo nostro autore finge 
+che\, quando fu dentro al segno che si chiama Gemini\, congratulandosi a 
+quelle stelle che fanno lo detto segno\, perch'elli nacque quando lo 
+Sole era in Gemini\, dice s@e avere avuto la influenzia dello ingegno 
+suo da le dette stelle\, siccome da cagione seconda: imper@o che Iddio 
+@e prima cagione d'ogni umano bene\, dicendo cos@i: ^O gloriose stelle~; 
+cio@e le quali costituite lo segno di Gemini; e dice ^gloriose~; cio@e 
+piene di gloria: imper@o che danno gloria a coloro\, ai quali danno 
+influenzia d'ingegno\, ^o lume pregno Di gran virt@u~; cio@e pieno et 
+atto a parturire grande virt@u giuso; e ben dice ^lume~: per@o che le 
+stelle infundeno le sue influenzie coi suoi raggi de la loro luce e 
+splendore\, ^dal quale~; cio@e lume\, ^io~; cio@e Dante\, ^ricognosco 
+Tutto\, qual che si sia\, il mio ingegno~; cio@e tutto l'@one da voi o 
+buono\, o rio che si sia\, o grosso o sottile.  ^Con voi~; cio@e con voi 
+stelle\, che fate lo segno di Gemini\, ^nasceva e s'ascondeva vosco~; 
+cio@e con voi nasceva e tramontava lo Sole\, ^Colui\, che @e padre 
+d'ogni mortal vita~; cio@e lo Sole @e generativo d'ogni vita che muore; 
+e questo dice\, a dare ad intendere che non @e generativo dell'anime 
+umane\, che sono immortali e generate senza mezzo da Dio\, ^Quand'io 
+senti' da prima l'aire tosco~; cio@e quando prima nacqui in questo 
+vita\, che fu la mia nativit@a in Toscana\, cio@e in Fiorenza; e per@o 
+dice: ^Quand'io senti' da prima l'aire~ toscana.  ^E poi\, quando mi fu 
+grazia largita~; cio@e quando a me fu donato grazia\, ^D'entrar 
+nell'alta rota~; cio@e nel cielo ottavo stellifero\, che @e pi@u alto 
+che tutti gli altri sette cieli de' pianeti\, ^che vi gira~: imper@o che 
+'l detto cielo girando s@e tutto\, gira cioe che in esso @e\, e girali 
+in due modi; l'uno modo @e quando in 24 ore fa revoluzione sua tonda; lo 
+secondo modo @e quando in cento anni va uno grado contra 'l primo\, ^La 
+vostra region~; cio@e lo sito vostro\, ^mi fu sortita~; cio@e per sorte 
+fu dato a
+ me Dante.  ^A voi~; cio@e stelle\, che costituite lo segno di Gemini\, 
+^devotamente~; cio@e dispostamente\, ^ora sospira~; cio@e si leva su a 
+voi considerare\, ^L'anima mia~; cio@e di me Dante\, ^per acquistar 
+virtute~; cio@e d'ingegno\, ^Al passo forte che a s@e la tira~; cio@e a 
+passare e montare a la contemplazione d'Iddio\, e dire di lui quanto a 
+me fia possibile; la quale cosa tira l'anima mia a s@e.  E perch@e in 
+questo luogo l'autore @ae figurato s@e sallito in Gemini molto 
+velocemente\, secondo l'ordine che abbiamo preso\, debbiamo dichiarare 
+quanto @ene la distanzia da la terra a l'ottava spera.  Et appresso\, 
+perch@e dice che ebbe influenzia d'ingegno da Gemini\, vedremo le 
+significazioni sue\, come abbiamo veduto dei sette pianeti.  E per@o 
+debbiamo sapere che la pi@u presso lunghezza de l'ottava spera che\, 
+come fu detto quando dicemmo di Saturno\, @e la pi@u lunga lunghezza di 
+Saturno\, secondo che dice Alfragrano ca. XXI\, @e sessantacinque volte 
+mille volte mille\, e trecentocinquantasette volte mille e cinquanta 
+miglia; e la pi@u lunga lunghezza non @e colta dal predetto autore se 
+non in questa forma\, ch'elli dice che la ritondit@a sua @e dal lato 
+d'entro di verso noi quattrocento diece volte mille volte mille\, e 
+centoquarantuna volta mille\, e centosessantadue miglia; e la grossezza 
+delle stelle fisse maggiori che sono 15: imper@o ch'elle sono sedici\, 
+si comprende per lo diametro loro\, lo quale\, secondo che scrive lo 
+prefato autore\, @e cento sette volte quanto la Terra\, e delle minori 
+@e diciotto volte quanto la Terra.  E poi che in queste misure siamo 
+intrati\, diremo lo diametro di ciascuno corpo celeste.  @E adunque lo 
+diametro dell'ottava spera cento trenta volte mille volte mille e 
+settecento quindici volte mille miglia\, e la sua rotundit@a d'entro e 
+di fuora @e stata detta.  Lo corpo di Saturno @e novantuna volta quanto 
+la Terra; lo corpo di Iove novantacinque volte quanto la Terra; lo corpo 
+di Marte @ene una volta e mezzo e la met@a d'una ottava volta quanto la 
+Terra; lo corpo de
+l Sole @e cento sessanta sei\, e quarta et ottava d'un'altra volta 
+quanto la Terra; lo corpo di Venere @e la trigesima nona parte de la 
+Terra; il corpo di Mercurio @e una parte di ventidue migliaia di parti 
+del corpo della Terra; e lo corpo della Luna @e la trigesima nona parte 
+del corpo della Terra; e lo corpo della Terra @e tutto quanto a la 
+superficie sua cento trenta due volte mille miglia.  Adunqua lo maggiore 
+corpo delle spere @e l'ottava spera\, @e bene maggiore ancora la nona; 
+ma qui s'intende delle spere visibili.  E dei corpi lo maggiore @e lo 
+Sole 2.\, e poi le 15 stelle fisse maggiori 20\, e poi Iove 30\, e poi 
+Saturno 40\, e poi tutte l'altre stelle 50 secondo l'ordine loro\, e poi 
+Marte 6\, e poi la Terra 7\, e poi Venus 8\, e poi la Luna 9\, e poi 
+Mercurio 10\, e cos@i digradano l'uno minore che l'altro.  E\, detto de 
+la distanzia e del sito di Gemini e degli altri cieli e pianeti\, ora @e 
+da dire delle sue significazioni\, secondo che pone Albumasar nel suo 
+Introduttorio\, ^tractatu~ VI.  E prima debbiamo sapere che Gemini @ae 
+significazione di forte voto e d'ingegno\, come si convenia a l'autore 
+parlando di s@i alta materia: @ae ancora significazione di sterilit@a\, 
+e temperamento nell'onest@a e nella religione\, e bellezza et onest@a e 
+mondezza quando lo detto segno @e ascendente\, o che vi sia lo signore 
+de la descendente o la Luna; e larghezza d'animo e bont@a e latitudine 
+di spese.  Et @ane nel corpo umano le spalle\, le braccia e le mani\, et 
+@ae a significare spezie d'uomini grandi\, in istato e nobili\, et altre 
+cose che\, perch@e non fanno alla materia\, lasciato @one per brevit@a.  
+E per@o finge che facesse l'autore la detta deprecazione a' Gemini\, 
+intendendo di farla principalmente a Dio\, siccome a prima cagione\, 
+sapendo che le seconde cagioni non operano\, se non sono mosse da la 
+prima cagione\, che @e Iddio.  Seguita.
+
+        |124-138.~  In questi cinque ternari lo nostro autore finge 
+come\, ammonito da Beatrice\, ragguard@o lo mondo che aveva lasciato di 
+sotto da s@e\, poi che fu montato in Gemini; e viddelo vile cosa et 
+approva chi lo sa dispregiare\, e per@o dice: ^Tu se' s@i presso~; cio@e 
+tu\, Dante\, ^all'ultima salute~; cio@e a Dio\, che @e l'ultima nostra 
+salute\, ^Cominci@o Beatrice~; a dire\, s'intende; e questo finge che 
+dica Beatrice: imper@o che la santa Scrittura sempre ci ammonisce 
+d'amare lo cielo e dispregiare lo mondo\, ^che tu~; cio@e Dante\, ^dei 
+Aver le luci tuoe~; cio@e delli occhi corporali\, secondo la lettera; 
+ma\, secondo l'allegoria\, le luci mentali\, cio@e la ragione e lo 
+intelletto\, ^chiare~; cio@e non turbate da passione\, ^et acute~; cio@e 
+sottili a discernere e vedere le vilt@a del mondo\, sicch@e bene ti puoi 
+rivolgere a guardare lo mondo\, senza timore che lo suo sguardo 
+t'inganni e tiriti a s@e.  Di sopra sempre @ae detto che quanto l'omo 
+pi@u monta in su\, tanto pi@u schiara lo intelletto: imper@o che pi@u 
+s'approssima a Dio.  E questo montamento s'intende mentale e non 
+corporale\, del quale dice santo Agustino: ^Accedendo enim ad Dominum 
+illuminatur ignorantia et corroboratur infirmitas\, data sibi 
+intelligentia qua videat\, et charitate qua serviat~.  — ^E per@o\, 
+prima che tu~; cio@e Dante\, ^pi@u t'illei~; cio@e pi@u t'approssimi a 
+lei\, cio@e a la salute ultima\, cio@e Iddio: illeare @ene in lei 
+entrare\, et @e verbo derivato da questo vocabulo ella\, come spesso 
+l'autore finge s@i fatti verbi\, ^Rimira in gi@u~; cio@e ragguarda tu\, 
+Dante\, giuso a le cose del mondo\, ^e vedi quanto mondo~; cio@e come 
+grande mondo\, o vero quantit@a del mondo\, ^Sotto li piedi gi@a esser 
+ti fei~; secondo la lettera @one fatto essere sotto li tuoi piedi\, ch@e 
+se' gi@a montato a l'ottava spera; e\, secondo l'allegoria\, @one fatto 
+essere sotto la tua affezione: imper@o che la santa Scrittura t'@a fatto 
+dispregiare lo mondo\, e ponere l'affezione a Dio.  ^Sicch@e 'l tuo 
+cuore~\, cio@e di te Dante\, ^q
+uantunche giocondo~; cio@e in ogni modo allegro\, ^S'appresenti a la 
+turba triunfante~; cio@e a la turba e moltitudine che triunfa in 
+paradiso\, senza avere affezione a le cose mondane\, ^Che~; cio@e la 
+quale turba\, ^lieta vien per questo etere tondo~; cio@e per questo 
+cielo tondo\, cio@e per questa ottava spera che @e tonda come sono tutte 
+l'altre; e bench@e ^aether~ sia l'aire puro che @e sopra l'aire grosso\, 
+qui si pone per lo cielo\, come usanza @e de' poeti di ponere una parte 
+per un'altra.  ^Col viso~; cio@e mentale\, quanto a la verit@a; ma\, 
+quanto a la lettera\, corporale di me Dante\, ^ritornai~; cio@e io 
+Dante\, ^per tutte quante Le sette spere~; cio@e dei sette pianeti detti 
+a drieto\, ^e viddi questo globo~; cio@e della terra\, nel quale elli 
+era quando scrisse quello che aveva veduto; e per@o dice\, ^questo Tal~; 
+cio@e s@i fatto e s@i vile\, ^ch'io~; cio@e che io Dante\, ^sorrisi del 
+suo vil sembiante~; cio@e della sua vile apparenzia.  ^E quel consillio 
+per miglior approbo~; cio@e io Dante\, ^Che~; cio@e lo qual consiglio\, 
+^l'@a~; cio@e la terra\, ^per meno~; cio@e per meno la pregia e meno la 
+stima\, ^e chi~; cio@e colui lo quale\, ^ad altro pensa~; cio@e che a la 
+terra\, cio@e che @a lo suo pensieri ai beni celesti e non terresti\, 
+^Chiamar si puote veramente probo~; cio@e virtuoso e galliardo d'animo.
+
+        |139-154.~  In questi cinque ternari et uno versetto lo nostro 
+autore finge che\, volto in giuso poi che ebbe veduto la terra vilissima 
+e dispregiatola\, ragguard@o li corpi celesti e viddeli pi@u certamente 
+che non aveva veduto prima\, dicendo cos@i: ^Vidi~; cio@e io Dante\, ^la 
+fillia di Latona~; cio@e la Luna che si chiama Diana ne le selve\, Luna 
+@e in cielo\, e Proserpina ne lo inferno; e secondo li autori Iove 
+stette con Latona e gener@o Febo e Diana.  Et altri diceno che 
+Proserpina fu figliuola di Cerere\, e messer Boccaccio fiorentino dice 
+nel libro ^De Geneologia Deorum~ che Titanus\, figliuolo di Celio\, de 
+la Terra gener@o li giganti\, e nominane alquanti; Iperione\, lo quale 
+dice che gener@o lo Sole e la Luna.  E debbiamo sapere che tutti questi 
+furno omini e donne\, li quali li autori fingeno essere pianeti e 
+stelle\, per compiacere ai loro genitori e progenitori\, dai quali 
+conti\, regi potentissimi e ricchissimi aveano le grandi provigioni.  
+L'autore nostro seguita in questa fizione Ovidio che dice Febo e Diana 
+nati di Latona e di Iove.  ^incensa~; cio@e quando ella era in 
+combustione\, che era volta la parte fulgida insuso\, e cos@i conveniva 
+che fusse volendo fare verisimile la fizione dell'autore: imper@o che\, 
+se l'autore era nell'ottava spera in Gemini\, com'elli finge\, come 
+arebbe potuto vedere la Luna\, se non fingendo che ella fusse allora 
+sotto lo Sole in combustione\, che essendo altramente arebbe avuto la 
+faccia luminosa in verso noi del mondo\, e non in verso l'ottava spera?  
+^Senza quell'ombre~; cio@e senza quelle tre ombre che si vedeno da noi 
+del mondo\, quand'ella @e tonda\, ^che mi fur~; cio@e le quali ombre 
+furno\, ^cagione~; a me Dante\, ^Per che~; cio@e per la qual cagione\, 
+^io~: cio@e Dante\, ^gi@a la credetti rara e densa~; siccome appare nel 
+secondo canto di questa terza cantica\, quando l'autore disse: ^Ci@o che 
+n'appar quass@u diverso\, Credo che 'l fanno i corpi rari e densi~.  E 
+per questa fizione\, che l'autore fa ora qui\, appare ch'elli voglia 
+tenere che que
+lle ombre siano l'ombre della terra\, che @e divisa in tre parti divise: 
+per l'acqua si rappresenta in essa come in uno specchio\, e nella parte 
+chiara si rappresenti l'acqua: imper@o che non @e altro a dire che\, 
+quando @e volta in verso la terra\, abbia l'ombre; e\, quando @e volta 
+in su\, non l'abbia\, se non che la terra ne sia cagione.  ^L'aspetto 
+del tuo nato\, o Iperione~; volge ora l'autore lo suo modo del parlare 
+ad Iperione che\, come @e stato scritto di sopra\, figliuolo di Titano\, 
+figliuolo di Celio\, gener@o lo Sole e la Luna\, sicch'elli dice: ^o 
+Iperione\, L'aspetto del tuo nato~; cio@e del Sole tuo figliuolo\, 
+^Quivi~; cio@e in quello luogo essente\, ^sostenni~; cio@e patittono li 
+miei occhi di guardare nella rota del Sole; la qual cosa non poteva 
+fare\, quando io Dante era in terra\, sicch@e questo era confermamento 
+di quel che fu detto di sopra; cio@e ch'elli doveva avere ^le luci~ sue 
+^chiare et acute~.  ^e viddi~; cio@e io Dante\, ^com' si move Circa~; 
+cio@e intorno\, ^a lui~; cio@e al Sole\, ^e vicino~; cio@e prossimano al 
+Sole\, ^Maia~; cio@e Mercurio nato di Maia figliuola d'Atlante e di 
+Iove\, e ^Dione~; cio@e Venere nata di Celio e di Dione che fu madre 
+della seconda Venere\, che la prima Venere fu figliuola di Celio ancora 
+e d'Orne.  E qui l'autore pone Maia per Mercurio\, e Dione per Venere\, 
+e cos@i tocca uno punto d'Astrologia\, cio@e come questi due pianeti\, 
+Mercurio e Venus\, vanno sempre prossimani al Sole.  E se non fusse che 
+@anno epiciclo\, per lo quale alcuna volta vanno innanti al Sole\, et 
+alcuna volta dirieto\, et alcuna volta insieme\, secondo che si trovano 
+in vari siti de' suoi epicicli\, sempre andrebbono coniunti col Sole e 
+non si vedrebbono; e per@o dice l'autore che allora vidde la cagione di 
+questa vicinit@a.  ^Quindi~; cio@e del luogo\, nel quale io era; e nel 
+segno di Gemini\, ^m'apparse~; cio@e apparitte a me Dante\, ^il temperar 
+di Iove~; cio@e la temperanza\, che fa lo pianeto Iove\, ^Tra 'l padre e 
+'l figlio~; cio@e tra Saturno e Marte.  Saturno\, secondo le
+ finzioni poetiche\, fu padre di Iove e Iove fu padre di Marte e furno 
+traslati in cielo e fatti pianeti\, e sono in questo ordine\, come @e 
+stato mostrato di sopra\, che Saturno @e lo supremo\, lo secondo @e 
+Iove\, lo terzo @e Marte\, lo quarto @e lo Sole\, lo quinto @e Venere\, 
+lo sesto @e Mercurio\, lo settimo @e la Luna; sicch@e Iove\, che @e in 
+mezzo tra Saturno e Marte\, tempera colla sua buona influenzia la 
+influenzia di Saturno\, e di Marte.  ^e quindi~\, cio@e da quel luogo\, 
+^mi fu chiaro~; cio@e a me Dante\, ^Il variar~; cio@e lo variamento\, 
+che @anno li detti pianeti\, ^che fanno~; cio@e lo quale variare fanno 
+li detti pianeti\, ^di lor dove~; cio@e di loro luogo: imper@o che li 
+pianeti ora si vedeno innanzi\, ora adrieto\, ora fermi in uno medesimo 
+luogo; e per@o diceno li Astrologi che li pianeti alcuna volta sono 
+progressivi\, alcuna volta retrogradi\, et alcuna volta stazionari\, e 
+questo addiviene per lo moto che @anno nel loro epiciclo: imper@o che 
+tutti anno epiciclo\, salvo che 'l Sole.  ^E tutti e sette~; cio@e 
+pianeti\, ^mi si dimostraro~; cio@e mi si dimostrorno a me Dante\, ^Come 
+son grandi~: imper@o che vidde la grandezza dei loro corpi e de le loro 
+spere\, le misure de le quali sono dette di sopra.  ^e come son veloci~; 
+cio@e come fanno o tardo\, o veloce lo suo corso; e di questo @e stato 
+detto di sopra\, quando @e stato detto in quanti anni\, o in quanto 
+tempo ciascuno pianeto fa suo corso.  ^E come sono~; cio@e li detti 
+pianeti\, ^in distante riparo~; cio@e in differente ritornamento al 
+principio del suo moto: imper@o che alcuno ritorna tosto\, et alcuno 
+tardo\, siccome @e stato dichiarato di sopra.  ^L'aiuola~; cio@e la 
+piccola aia\, cio@e la terra che appare fuor dell'acqua\, che\, come 
+dice Boezio nel libro II della Filosofica Consolazione\, unde l'autore 
+nostro prese questa sentenzia\, dice: ^Huius igitur tam exiguae in mundo 
+regionis\, quarta fere portio est...\, quae a nobis cognitis animantibus 
+incolatur.  Huic quartae\, si quantum maria\, paludesque premunt\, 
+quantumque siti
+ vasta regio distenditur\, cogitatione subtraxeris\, vix angustissima 
+inhabitandi hominibus area relinquetur~; e per@o dice l'autore 
+^L'aiuola\, che ci fa~; cio@e che fa noi omini\, ^tanto feroci~: imper@o 
+che per li beni de la terra l'omini sono feroci e crudeli\, l'uno contro 
+l'altro\, ^Volgendom'io~; cio@e mentre che io Dante mi volsi per lo 
+cielo\, girando per l'uno emisperio e per l'altro\, ^co li eterni 
+Gemelli~; cio@e con quel segno che si chiama Gemini; e dice ^eterni~\, 
+cio@e ^sempiterni~: imper@o che ebbono principio et aranno fine; ma 
+dureranno alcuno tempo\, secondo alcuna opinione: alcuni altri diceno 
+che @anno bene avuto principio; ma non aranno fine: imper@o che Iddio li 
+commutr@a in mellio\, e che li far@a stabili e non gireranno pi@u; e 
+cos@i si pone ^eterni~; ^perpetui~; e dice l'autore ^Gemelli~; cio@e 
+fratelli\, avendo rispetto a la fizione dei Poeti\, che diceno che 
+Polluce e Castore furno fratelli figliuoli di Iove e di Leda\, co la 
+quale Iove stette in ispezie di ciecino\, et ella fece due uova\, che 
+dell'uno nacque Clitennestra et Elena\, e dell'altro Polluce e Castore; 
+e che essendo morto Castore et andato a l'inferi\, Polluce addimand@o di 
+grazia ad Iove che lo rivocasse\, et Iove disse che non si poteva: 
+imper@o che non si poteva rompere lo statuto de la iustizia; ma\, s'elli 
+voleva participare lo suo stato con lui\, l'arebbe.  La quale cosa 
+accett@o\, e cos@i Iove li unitte insieme\, e feceli segno del cielo che 
+si chiama Gemini\, che sei mesi dell'anno stanno nell'altro emisperio\, 
+e sei in questo: imper@o che ogni d@i 12 ore stanno di sotto\, e 12 ore 
+di sopra\, e cos@i s'adempie la iustizia\, e questi fratelli participano 
+insieme lo stato l'uno coll'altro.  E che Iove stesse con Leda in forma 
+e spezie di ciecino significa che Iove venne a lei in su una galea\, che 
+portava per insegna lo ciecino; ch'ella facesse due uova significa 
+ch'ella fece due parti\, e parturittene due ad uno parto ogni volta.  
+^Tutta m'apparve~; cio@e a me Dante la detta aiuola\, ^dal colle a le 
+foci~; cio@e d
+all'oriente a l'occidente\, e non dice e converso\, perch@e nell'altro 
+emisperio non appare la terra\, che non v'@e se non acqua.  ^Poscia 
+rivolsi~; cio@e io Dante\, ^li occhi~; cio@e miei\, ^alli occhi belli~: 
+cio@e di Beatrice\, che sono li due intelletti della santa Scrittura\, 
+cio@e letterale et allegorico.  E qui finisce il canto XXII\, et 
+incominciasi il canto XXIII della terza cantica.

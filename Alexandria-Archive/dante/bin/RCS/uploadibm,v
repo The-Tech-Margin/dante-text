@@ -1,0 +1,80 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.31.57;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@upload files
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh
+
+# Upload files from the PC
+
+set HARDDISK=C
+set MLEXEC=mlink.exec
+set RUNMLINK="mlink -o ibmpc.opt $MLEXEC"
+set MLCMD=RT
+set SUFFIX=e
+
+# CHARRATE is the average number of characters per minute transferred.
+@@ CHARRATE = 180 * 60
+
+echo -n 'Upload from which drive [c,a,b] - '
+set drive=$<
+if ($drive == C || $drive == c) then
+	set drive
+else
+	set drive="${drive}:"
+endif
+
+echo -n 'Cantica abbreviation in PC filenames [inf,purg,para] - '
+set cantica=$<
+
+echo -n 'Commentary abbreviation in PC file extensions [dan,bos,etc.] - '
+set commentary=$<
+
+if ("$1" != "") then
+	set sources=($*)
+else
+	echo -n 'Enter PC file canto numbers - '
+	set sources=($<)
+endif
+
+rm -f $MLEXEC
+
+echo ""
+echo 'The following files will be uploaded...'
+foreach n ($sources)
+	set s="${drive}${cantica}$n.${commentary}"
+	echo $s "	-> " $n.$SUFFIX
+	echo "${MLCMD} $n.upload $s" >> ${MLEXEC}
+end
+
+echo ""
+echo -n 'Type y to continue - '
+if ("$<" != "y") exit
+
+$RUNMLINK
+
+foreach s (*.upload)
+	deibm $s `basename $s .upload`.$SUFFIX
+#	rm $s
+end
+
+rm -f $MLEXEC
+@

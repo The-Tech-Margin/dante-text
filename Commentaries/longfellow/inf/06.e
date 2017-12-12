@@ -1,0 +1,350 @@
+	|2.~  The sufferings of these two, and the pity it
+excited in him.  As in Shakespeare, ^Othello~, IV. 1: "But yet
+the pity of it, Iago! -- O Iago, the pity of it, Iago!"
+
+	|7.~  In this third circle are punished the Gluttons.
+Instead of the feasts of former days, the light, the warmth, the
+comfort, the luxury, and "the frolic wine" of dinner tables, they
+have the murk and the mire, and the "rain eternal, maledict, and
+cold, and heavy"; and are barked at and bitten by the dog in the
+yard.
+
+	Of Gluttony, Chaucer says in ^The Persones Tale~, p. 239:
+--
+
+     "He that is usant to this sinne of glotonie, he ne may no
+     sinne withstond, he must be in servage of all vices, for it
+     is the devils horde, ther he hideth him and resteth.  This
+     sinne hath many spices.  The first is dronkennesse, that is
+     the horrible sepulture of mannes reson: and therefore whan a
+     man is dronke, he hath lost his reson: and this is dedly
+     sinne.  But sothly, whan that a man is not wont to strong
+     drinkes, and peraventure ne knoweth not the strength of the
+     drinke, or hath feblenesse in his hed, or hath travailled,
+     thurgh which he drinketh the more, al be he sodenly caught
+     with drinke, it is no dedly sinne, but venial.  The second
+     spice of glotonie is, that the spirit of a man wexeth all
+     trouble for dronkennesse, and bereveth a man the discretion
+     of his wit.  The thridde spice of glotonie is, whan a man
+     devoureth his mete, and hath not rightful maner of eting.
+     The fourthe is, whan thurgh the gret abundance of his mete,
+     the humours in his body ben distempered.  The fifthe is,
+     foryetfulnesse by to moche drinking, for which sometime a
+     man forgeteth by the morwe, what he did over eve."
+
+	|52.~  It is a question whether ^Ciacco~, Hog, is the
+real name of this person, or a nickname.  Boccaccio gives him no
+other.  He speaks of him, ^Comento~, VI., as a noted diner-out in
+Florence, "who frequented the gentry and the rich, and
+particularly those who ate and drank sumptuously and delicately;
+and when he was invited by them to dine, he went; and likewise
+when he was not invited by them, he invited himself; and for this
+vice he was well known to all Florentines; though apart from this
+he was a well-bred man according to his condition, eloquent,
+affable, and of good feeling; on account of which he was welcomed
+by every gentleman."
+
+	The following story from the ^Decamerone~, Gior. IX.,
+Nov. viii., translation of 1684, presents a lively picture of
+social life in Florence in Dante's time, and is interesting for
+the glimpse it gives, not only of Ciacco, but of Philippo
+Argenti, who is spoken of hereafter, Canto VIII. 61.  The Corso
+Donati here mentioned is the Leader of the Neri.  His violent
+death is predicted, ^Purg.~ XXIV. 82: --
+
+     "There dwelt somtime in Florence one that was generally
+     called by the name of Ciacco, a man being the greatest
+     Gourmand and grossest Feeder as ever was seen in any
+     Countrey, all his means and procurements meerly unable to
+     maintain expences for filling his belly.  But otherwise he
+     was of sufficient and commendable carriage, fairly demeaned,
+     and well discoursing on any Argument: yet not as a curious
+     and spruce Courtier, but rather a frequenter of rich mens
+     Tables, where choice of good chear is seldom wanting, and
+     such should have his Company, albeit not invited, he had the
+     Courage to bid himself welcome.
+
+     "At the same time, and in our City of Florence also, there
+     was another man named Biondello, very low of stature, yet
+     comely formed, quick witted, more neat and brisk than a
+     Butterflie, always wearing a wrought silk Cap on his head,
+     and not a hair standing out of order, but the tuft
+     flourishing above the forehead, and he such another trencher
+     flie for the Table, as our forenamed Ciacco was.  It so fell
+     out on a morning in the Lent time, that he went into the
+     Fish-market, where he bought two goodly Lampreys for Messer
+     Viero de Cerchi, and was espyed by Ciacco, who, coming to
+     Biondello, said, `What is the meaning of this cost, and for
+     whom is it?'  Whereto Biondello thus answered, `Yesternight
+     three other Lampreys, far fairer than these, and a whole
+     Sturgeon, were sent unto Messer Corso Donati, and being not
+     sufficient to feed divers Gentlemen, whom he hath invited
+     this day to dine with him, he caused me to buy these two
+     beside: Dost not thou intend to make one of them?' `Yes, I
+     warrant thee,' replyed Ciacco, `thou knowest I can invite my
+     self thither, without any other bidding.'
+
+     "So parting, about the hour of dinner time Ciacco went to
+     the house of Messer Corso, whom he found sitting and talking
+     with certain of his Neighbours, but dinner was not as yet
+     ready, neither were they come thither to dinner.  Messer
+     Corso demanded of Ciacco, what news with him, and whether he
+     went?  `Why Sir,' said Ciacco, `I come to dine with you, and
+     your good Company.' Whereto Messer Corso answered, That he
+     was welcome: and his other friends being gone, dinner was
+     served in, none else thereat present but Messer Corso and
+     Ciacco: all the diet being a poor dish of Pease, a little
+     piece of Tunny, and a few small fishes fryed, without any
+     other dishes to follow after.  Ciacco seeing no better fare,
+     but being disappointed of his expectation, as longing to
+     feed on the Lampreys and Sturgeon, and so to have made a
+     full dinner indeed, was of a quick apprehension, and
+     apparently perceived that Biondello had meerly gull'd him in
+     a knavery, which did not a little vex him, and made him vow
+     to be revenged on Biondello, as he could compass occasion
+     afterward.
+
+     "Before many days were past, it was his fortune to meet with
+     Biondello, who having told his jest to divers of his
+     friends, and much good merryment made thereat: he saluted
+     Ciacco in a kind manner, saying, `How didst thou like the
+     fat Lampreys and Sturgeon which thou fed'st on at the house
+     of Messer Corso?' `Well, Sir,' answered Ciacco, `perhaps
+     before Eight days pass over my head, thou shalt meet with as
+     pleasing a dinner as I did.'  So, parting away from
+     Biondello, he met with a Porter, such as are usually sent on
+     Errands; and hyring him to do a message for him, gave him a
+     glass Bottle, and bringing him near to the Hall-house of
+     Cavicciuli, shewed him there a Knight, called Signior
+     Philippo Argenti, a man of huge stature, very cholerick, and
+     sooner moved to Anger than any other man.  `To him thou must
+     go with this Bottle in thy hand, and say thus to him.  Sir,
+     Biondello sent me to you, and courteously entreateth you,
+     that you would erubinate this glass Bottle with your best
+     Claret Wine; because he would make merry with a few friends
+     of his.  But beware he lay no hand on thee, because he may
+     be easily induced to misuse thee, and so my business be
+     disappointed.'  `Well, Sir,' said the Porter, `shall I say
+     any thing else unto him?'  `No,' quoth Ciacco, `only go and
+     deliver this message, and when thou art returned, I'll pay
+     thee for thy pains.' The Porter being gone to the house,
+     delivered his message to the Knight, who, being a man of no
+     great civil breeding, but very furious, presently conceived
+     that Biondello, whom he knew well enough, sent this message
+     in meer mockage of him, and, starting up with fierce looks,
+     said, `What erubination of Claret should I send him? and
+     what have I to do with him or his drunken friends?  Let him
+     and thee go hang your selves together.'  So he stept to
+     catch hold on the Porter, but he being nimble and escaping
+     from him, returned to Ciacco and told him the answer of
+     Philippo.  Ciacco, not a little contented, payed the Porter,
+     tarried in no place till he met Biondello, to whom he said,
+     `When wast thou at the Hall of Cavicciuli?'  `Not a long
+     while,' answered Biondello; `but why dost thou demand such a
+     question?'  `Because,' quoth Ciacco, `Signior Philippo hath
+     sought about for thee, yet know not I what he would have
+     with thee.' `Is it so,' replied Biondello, `then I will walk
+     thither presently, to understand his pleasure.'
+
+     "When Biondello was thus parted from him, Ciacco followed
+     not far off behind him, to behold the issue of this angry
+     business; and Signior Philippo, because he could not catch
+     the Porter, continued much distempered, fretting and fuming,
+     because he could not comprehend the meaning of the Porter's
+     message, but only surmised that Biondello, by the
+     procurement of some body else, had done this in scorn of
+     him.  While he remained thus deeply discontented, he espyed
+     Biondello coming towards him, and meeting him by the way, he
+     stept close to him and gave him a cruel blow on the Face,
+     causing his Nose to fall out a bleeding.  `Alas, Sir,' said
+     Biondello, `wherefore do you strike me?' Signior Philippo,
+     catching him by the hair of the head, trampled his Night Cap
+     in the dirt, and his Cloak also, when, laying many violent
+     blows on him, he said, `Villanous Traitor as thou art, I'll
+     teach thee what it is to erubinate with Claret, either thy
+     self or any of thy cupping Companions.  Am I a Child to be
+     jested withal?'
+
+     "Nor was he more furious in words than in stroaks also,
+     beating him about the Face, hardly leaving any hair on his
+     head, and dragging him along in the mire, spoiling all his
+     Garments, and he not able, from the first blow given, to
+     speak a word in defence of himself.  In the end Signior
+     Philippo having extreamly beaten him, and many people
+     gathering about them, to succour a man so much misused, the
+     matter was at large related, and manner of the message
+     sending.  For which they all did greatly reprehend
+     Biondello, considering he knew what kind of man Philippo
+     was, not any way to be jested withal.  Biondello in tears
+     maintained that he never sent any such message for Wine, or
+     intended it in the least degree; so, when the tempest was
+     more mildly calmed, and Biondello, thus cruelly beaten and
+     durtied, had gotten home to his own house, he could then
+     remember that (questionless) this was occasioned by Ciacco.
+
+     "After some few days were passed over, and the hurts in his
+     face indifferently cured, Biondello beginning to walk abroad
+     again, chanced to meet with Ciacco, who, laughing heartily
+     at him, said, `Tell me, Biondello, how dost thou like the
+     erubinating Claret of Signior Philippo?'  `As well,' quoth
+     Biondello, `as thou didst the Sturgeon and Lampreys at
+     Messer Corso Donaties.'  `Why then,' said Ciacco, `let these
+     tokens continue familiar between thee and me, when thou
+     wouldest bestow such another dinner on me, then will I
+     erubinate thy Nose with a Bottle of the same Claret.'  But
+     Biondello perceived to his cost that he had met with the
+     worser bargain, and Ciacco got cheer without any blows; and
+     therefore desired a peacefull attonement, each of them
+     always after abstaining from flouting one another."
+
+	Ginguen$e, ^Hist. Lit. de l'Italie~, II. 53, takes Dante
+severely to task for wasting his pity upon poor Ciacco, but
+probably the poet had pleasant memories of him at Florentine
+banquets in the olden time.  Nor is it remarkable that he should
+be mentioned only by his nickname.  Mr. Forsyth calls Italy "the
+land of nicknames."  He says in continuation, ^Italy~, p. 145: --
+
+     "Italians have suppressed the surnames of their principal
+     artists under various designations.  Many are known only by
+     the names of their birthplace, as Correggio, Bassano, etc.
+     Some by those of their masters, as Il Salviati, Sansovino,
+     etc.  Some by their father's trade, as Andrea del Sarto,
+     Tintoretto, etc.  Some by their bodily defects, as Guercino,
+     Cagnacci, etc.  Some by the subjects in which they excelled,
+     as M. Angelo delle battaglie, Agostino delle perspettive.  A
+     few (I can recollect only four) are known, each as the
+     ^prince~ of his respective school, by their Christian names
+     alone: Michael Angelo, Raphael, Guido, Titian."
+
+	|65.~  The Bianchi are called the ^Parte selvaggia~,
+because its leaders, the Cerchi, came from the forest lands of
+Val di Sieve.  The other party, the Neri, were led by the Donati.
+
+	The following account of these factions is from Giovanni
+Fiorentino, a writer of the fourteenth century; ^Il Pecorone~,
+Gior. XIII. Nov. i., in Roscoe's ^Italian Novelists~, I. 327.
+
+     "In the city of Pistoia, at the time of its greatest
+     splendor, there flourished a noble family, called the
+     Cancellieri, derived from Messer Cancelliere, who had
+     enriched himself with his commercial transactions.  He had
+     numerous sons by two wives, and they were all entitled by
+     their wealth to assume the title of Cavalieri, valiant and
+     worthy men, and in all their actions magnanimous and
+     courteous.  And so fast did the various branches of this
+     family spread, that in a short time they numbered a hundred
+     men at arms, and being superior to every other, both in
+     wealth and power, would have still increased, but that a
+     cruel division arose between them, from some rivalship in
+     the affections of a lovely and enchanting girl, and from
+     angry words they proceeded to more angry blows.  Separating
+     into two parties, those descended from the first wife took
+     the title of Cancellieri Bianchi, and the others, who were
+     the offspring of the second marriage, were called
+     Cancellieri Neri.
+
+     "Having at last come to action, the Neri were defeated, and
+     wishing to adjust the affair as well as they yet could, they
+     sent their relation, who had offended the opposite party, to
+     entreat forgiveness on the part of the Neri, expecting that
+     such submissive conduct would meet with the compassion it
+     deserved.  On arriving in the presence of the Bianchi, who
+     conceived themselves the offended party, the young man, on
+     bended knees, appealed to their feelings for forgiveness,
+     observing, that he had placed himself in their power, that
+     so they might inflict what punishment they judged proper;
+     when several of the younger members of the offended party,
+     seizing on him, dragged him into an adjoining stable, and
+     ordered that his right hand should be severed from his body.
+     In the utmost terror the youth, with tears in his eyes,
+     besought them to have mercy, and to take a greater and
+     nobler revenge, by pardoning one whom they had it in their
+     power thus deeply to injure.  But heedless of his prayers,
+     they bound his hand by force upon the manger, and struck it
+     off; a deed which excited the utmost tumult throughout
+     Pistoia, and such indignation and reproaches from the
+     injured party of the Neri, as to implicate the whole city in
+     a division of interests between them and the Bianchi, which
+     led to many desperate encounters.
+
+     "The citizens, fearful lest the faction might cause
+     insurrections throughout the whole territory, in conjunction
+     with the Guelfs, applied to the Florentines in order to
+     reconcile them; on which the Florentines took possession of
+     the place, and sent the partisans on both sides to the
+     confines of Florence, whence it happened that the Neri
+     sought refuge in the house of the Frescobaldi, and the
+     Bianchi in that of the Cerchi nel Garbo, owing to the
+     relationship which existed between them.  The seeds of the
+     same dissension being thus sown in Florence, the whole city
+     became divided, the Cerchi espousing the interests of the
+     Bianchi, and the Donati those of the Neri.
+
+     "So rapidly did this pestiferous spirit gain ground in
+     Florence, as frequently to excite the greatest tumult; and
+     from a peaceable and flourishing state, it speedily became a
+     scene of rapine and devastation. In this stage Pope Boniface
+     VIII. was made acquainted with the state of this ravaged and
+     unhappy city, and sent the Cardinal Acqua Sparta on a
+     mission to reform and pacify the enraged parties.  But with
+     his utmost efforts he was unable to make any impression, and
+     accordingly, after declaring the place excommunicated,
+     departed.  Florence being thus exposed to the greatest
+     perils, and in a continued state of insurrection, Messer
+     Corso Donati, with the Spini, the Pazzi, the Tosinghi, the
+     Cavicciuli, and the populace attached to the Neri faction,
+     applied, with the consent of their leaders, to Pope
+     Boniface.  They entreated that he would employ his interest
+     with the court of France to send a force to allay these
+     feuds, and to quell the party of the Bianchi.  As soon as
+     this was reported in the city, Messer Donati was banished,
+     and his property forfeited, and the other heads of the sect
+     were proportionally fined and sent into exile.  Messer
+     Donati, arriving at Rome, so far prevailed with his
+     Holiness, that he sent an embassy to Charles de Valois,
+     brother to the king of France, declaring his wish that he
+     should be made Emperor, and King of the Romans; under which
+     persuasion Charles passed into Italy, reinstating Messer
+     Donati and the Neri in the city of Florence.  From this
+     there only resulted worse evils, inasmuch as all the
+     Bianchi, being the least powerful, were universally
+     oppressed and robbed, and Charles, becoming the enemy of
+     Pope Boniface, conspired his death, because the Pope had not
+     fulfilled his promise of presenting him with an imperial
+     crown. From which events it may be seen that this vile
+     faction was the cause of discord in the cities of Florence
+     and Pistoia, and of the other states of Tuscany; and no less
+     to the same source was to be attributed the death of Pope
+     Boniface VIII."
+
+	|69.~  Charles de Valois, called Senzaterra, or Lackland,
+brother of Philip the Fair, king of France.
+
+	|73.~  The names of these two remain unknown.  Probably
+one of them was Dante's friend Guido Cavalcanti.
+
+	|80.~  Of this Arrigo nothing whatever seems to be known,
+hardly even his name; for some commentators call him Arrigo dei
+Fisanti, and others Arrigo dei Fifanti.  Of these other men of
+mark "who set their hearts on doing good," Farinata is among the
+Heretics, Canto X.; Tegghiaio and Rusticucci among the Sodomites,
+Canto XVI.; and Mosca among the Schismatics, Canto XXVIII.
+
+	|106.~  The philosophy of Aristotle.  The same doctrine
+is taught by St. Augustine: "^Cum fiet resurrectio carnis, et
+bonorum gaudia et tormenta malorum majora erunt.~"
+
+	|115.~  Plutus, the God of Riches, of which Lord Bacon
+says in his ^Essays~: --
+
+     "I cannot call riches better than the baggage of virtue; the
+     Roman word is better, `impedimenta'; for as the baggage is
+     to an army, so is riches to virtue; it cannot be spared nor
+     left behind, but it hindereth the march; yea, and the care
+     of it sometimes loseth or disturbeth the victory; of great
+     riches there is no real use, except it be in the
+     distribution; the rest is but conceit....  The personal
+     fruition in any man cannot reach to feel great riches: there
+     is a custody of them; or a power of dole and donative of
+     them; or a fame of them; but no solid use to the owner."
+

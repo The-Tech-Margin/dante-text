@@ -1,0 +1,61 @@
+{OUTPT_H}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Document Display Help\f2\n~
+
+:PRINT ~#HEADING
+     Many  options  are available at the "Enter Document Number" prompt.
+     To continue browsing retrieved documents you may enter:
+
+       RETURN          to display the next document.
+
+       +               to move forward one document in the retrieved set
+                       of documents.
+
+       -               to  move  backward  one document in the retrieved
+                       set of documents.
+
+       =               to re-display the current document.
+
+       #               to display the specified document number.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     At the  Document Number prompt,  you can also enter a new paragraph
+     specification  to  re-display  the  current  document.  To do this,
+     simply enter a period followed by a valid paragraph  specification.
+     For example, at the prompt:
+
+     Enter document number; H for Help [Next Document]:
+
+       .f -  re-displays the current document in FULL format.
+
+       .b -  re-displays the current document in BRIEF format.
+
+       .c -  re-displays in-context HITS for the current document.
+
+       .all -  re-displays  ALL  paragraphs in  standard format  (i.e.:
+               this  overrides  the special  format file,  and produces 
+               output in standard paragraph-labeled style.
+
+       .<parlabels> - re-displays the current  document with  specified
+                      paragraph label(s) only (e.g: to,from,re).\n~
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+
+     This flexibility is very useful when you are browsing an extensive
+     document list.   For example,  if you are  browsing the  title (TI
+     paragraph)  of a number of retrieved  documents,  and  encounter a
+     particularly relevant record,  simply enter  ".f"  at the Document
+     Number  prompt to produce a full,  formatted display of the target
+     document.
+
+     Note that this affects the display of the  current document  only. 
+     Subsequently browsed documents will retain the previously selected
+     paragraph specifications.
+
+     Alternatively, you can enter D to return to the previous menu, and
+     make new paragraph selections.
+
+     You may also enter S to cancel the  Display request  and return to
+     Search Mode.\n~  
+:RETURN

@@ -1,0 +1,177 @@
+	|Proemio.~  Incomincia il terzo chapitolo della chantica del 
+purgatorio.
+
+	|1-18.~ 
+	^Avvegnia che lla subitana fugha~
+^dispargiesse color per la montagnia~
+^rivolti al monte ove ragion ne frugha.~
+
+Trattato l'altore di questa ispezie di pecchatori che ss'indugiano a 
+pentere insino alla loro fine.  Ora in questo chapitolo tratta 
+d'un'altra spezie di pecchatori che ssi purghano fuori di purghatorio.  
+E costoro son quegli che muoiono in iscomunichazione della santa chiesa 
+chome si toccher@a qui d'alchuno e dividesi questo C.o in quatro parti 
+gienerali.  In questa prima parte continuando l'altore fa chome lui si 
+ristrigniesse al suo fedele ducha Virgilio cio@e alla sua propia 
+ragione.  Cio@e vuoldire l'altore se lla ragione non @e ghuida 
+dell'uomo chome s'andrebbe mai alle virt@u cierto no' mai non mai non 
+avendo l'uomo in s@e ragione.  Et fingie che Virgilio parea rimorso in 
+s@e medesimo del fallo ch'egli avea fatto i[n] restare a udire chantare 
+quel Chasella cio@e dicie Dante che gli parea avere perduto troppo 
+tempo a ricogniosciersi cos@i diciendo l'altore etc.
+
+	^Lo 'ntento rallargh@o s@i chome vagha~
+^e diedi il viso mio incontr'al poggio~
+^che 'nverso il cielo pi@u alto si dislagha.~
+
+	|19-45.~  Seghue il testo chos@i diciendo il nostro laureato poeta 
+Dante
+
+	^Io mi volsi dal lato com paura~
+^d'essere abandonato quando i' vidi~
+^solo dinanzi a mme la terra schura.~
+
+In questa seconda parte l'altore muove e dichiara alchuno dubbio cio@e 
+che dicie lui ghuardandosi inanzi al sole all'uscire che fecie del 
+monte gli percosse nella faccia non vedendo fare veruna ombra e 
+resistenza al sole per Virgilio che gli andava inanzi s@i cche l'altore 
+che gli ebbe gran paura che Virgilio nollo avesse abandonato.  Laonde 
+Dante fingie che Virgilio di ci@o s'avedesse e si llo conforta che di 
+ci@o non abbia paura e dicie chome egli @e ivi choll'anima e non col 
+corpo e per@o non inpediscie il sole.  E dagli una similitudine a' 
+cieli i quali sono dieci e l'un cielo none impediscie l'altro essendo 
+assai cieli di sotto al sole e altri pianeti e spere i quali sono di 
+sopra al sole tutti gli veggiamo.  Et per@o dicie Virgilio a Dante che 
+ll'anima none impediscie niente.  Solo vuole dire che ll'anima abbia in 
+s@e pene e tormenti per lo malfare e metterti in gloria per lo benfare. 
+ E questo hae riserbato in s@e perch@e noi non possiamo vedere tutto e 
+per@o sono istati assai e sono pazzi che vogliono sapere pi@u che Idio 
+non vole ch'egli sappino e male ne 'ncontra loro d'insino del principio 
+del mondo quando Iddio comand@o Adamo che non dovesse mangiare del 
+frutto della scienzia del bene e del male.  E lla moglie Eva glieglie 
+fe' mangiare imper@o che 'l diavolo disse loro s'elli ne mangiassono 
+ch'elli sarebbono pari a dDio e simili a llui e saprebbono il bene e 'l 
+male chome lui.  Et per questa disubidienzia si convenne fosse la 
+nostra ricomperazione che Iddio venisse e incharnasse e fosse morto e 
+crocifisso per noi ricomperare.  E per@o dicie bene l'altore nostro
+
+	^State contenti humana giente al quia~
+^ch@e se possibil fosse veder tutto~
+^mestier non era partorir Maria.~
+
+Seghue i versi del testo cos@i diciendo il nostro altore Dante
+
+	^Vespero @e gi@a col@a dov'@e sepolto~
+^lo corpo dentro lo quale i' facievo ombra~
+^Napoli l'ha e da Brandizio @e tolto.~
+
+L'altore fa qui menzione della morte di Virgilio.  Virgilio istette a 
+Napoli gran tempo e dilettogli quel paese e ll@a fecie i[l] libro suo e 
+poi se n'and@o Atene che allora v'era lo studio e ivi istette gran 
+tempo e poi tornando d'Atene inferm@o per la via e arriv@o a Brandizio 
+e ivi fu la sua fine e quando e' venne a morte lasci@o il suo corpo 
+fosse portato a Napoli il quale Napoli prima avea nome Partenope 
+dinominata per una donna reina la quale si lla fond@o.  Ed @e la 
+sepoltura di Virgilio fuor di Napoli all'uscire del monte Ferrato cio@e 
+che per lo mezzo del monte @e una coperta e dall'altra parte del monte 
+@e la sepoltura di Plinio di Storia Naturali [sic].
+
+	|46-102.~ 
+	^Noi divenimo intanto a pi@e del monte~
+^quivi trovamo la roccia s@i erta~
+^che 'ndarno vi sarien le gambe pronte.~
+
+In questa terza parte discrive l'altore un'altra spezie di giente 
+ch'egli pone qui perch@e s'indugiarono a pentere per indegniazione di 
+scomunichazione della chiesa di Dio.  Et questo ti mostra l'altore 
+perch@e non @e veruno s@i pecchatore n@e tanto ischomunichato quanto ti 
+mostra qui di sotto che alla sua fine pentuto e ritornato a Dio egli 
+nollo ricieva a misericordia ma bene ha pi@u di pena nella sua 
+purghazione che non arebbe se penitenzia n'avesse fatta.  E dati qui 
+l'altore una similitudine chome era erta e malagievole quella via per 
+la quale eglino andavano che non viene a dire altro se nnon che gli @e 
+a l'uomo pecchatore grande faticha a partirsi dalla via de' vizi e 
+salire alla via di penitenzia e di virtute.
+
+	^Tra Lerici e Turbia la pi@u diserta~
+^la pi@u romita via @e una schala~
+^verso di quella agievole e aperta.~
+
+Lericie e Turbia sono due montagnie nel contado di Gienova e pessime e 
+malagievole vie da chaminare e pone l'altore ch'elle sono un diletto 
+appresso a quelle della penitenzia di questo monte ch'egli hanno a 
+ffare e per@o dicie Dante a ss@e medesimo ch'egli pigli buona isperanza 
+imper@o che ttu non ti se' indugiato a pentirti de' tuoi pecchati 
+insino alla fine di tua vecchiezza e della tua vita ch'@e fatichevole 
+poi a partirsi da' vizi.
+
+	|103-145.~ 
+	^E un di loro incominci@o chiunque~
+^tu sse' cos@i andando volgi viso~
+^po' mente se di l@a mi vedesti unque.~
+
+In questa quarta e ultima parte l'altore discrive uno spirito il quale 
+gli parla in questa forma diciendo a Dante s'egli i[l] ricogniosciesse 
+e Dante gli dicie di no.  E questo dicie per una piagha ch'egli ebbe 
+nel viso quand'egli fu morto che nolla avea veduta inanzi quando Dante 
+il conobbe per questa chagione Dante fingie che nollo ricogniosciea.  
+Questo spirito che fingie qui che truovi che parli fu llo spirito del 
+re Manfredi e figliuolo di Federigho secondo e nipote di Ghostanza 
+inperadricie e fu moglie di Federigho Barbarossa e madre di Federigho 
+secondo padre del re Manfredi il quale ebbe un altro fratello bastardo 
+e ffu il re Renzo il quale fu preso da' Bologniesi essendo a oste a 
+Bolognia e si llo feciono morire a grande stento e verghognia in 
+prigione.  Ancora ebbe questo re Manfredi due frategli madornali de' 
+quali l'uno ebbe nome il re Arrigho chostui mor@i in prigione lui e due 
+suoi figliuoli e la moglie e fecievegli morire il padre cio@e il re 
+Federigho secondo perch'egli iriprendea della ghuerra che pigliava 
+contro al santo padre e apuosegli ch'egli il volea tradire.  L'altro 
+figliuolo madornale e fratello di questo Arrigho si ebbe anche nome 
+Manfredi questo fu padre di Churradino.  Questo Manfredi essendo il 
+padre malato si ragiona che gli fecie porre un ghuanciale in sulla 
+ghola e fecielo morire ed egli rimase signore.  E poi essendo in Puglia 
+contro a santa chiesa si amal@o di che il re Manfredo suo fratello 
+bastardo il fecie avelenare in un cristeo e per s@e si prese i[l] reame 
+di Puglia mostrando a' baroni co llettere false che Churradino era 
+morto ch'era nella Magnia ed era piccholo fanciullo e s@i ssi ingiegnio 
+di farlo morire bench@e poco tempo ghodette i[l] regnio che fu morto 
+questo Manfredi.  Ed ebbe una figliuola ch'ebbe nome Ghostanza la quale 
+marit@o a don Piero re di Raona del quale nacque due figliuoli.  E 'l 
+primo fu don Iacopo e questo fu re di Cicilia.  E il secondo ebbe nome 
+don Piero e questo rimase re di Raona.  E per@o dicie chos@i lo spirito 
+di Manfredi a Dante che faccia sapere alla sua figliuola Ghostanza 
+ch'egli non @e perduto e che l'orazione e lle limosine gli possono 
+assai valere venire piutosto alla gloria cielestiale per questi chotali 
+prieghi cos@i diciendo
+
+	^Poi sorridendo disse i' son Manfredi~
+^nipote di gGhostanza imperadore~
+^ond'io ti priegho che quando tu riedi.~
+
+Essendo questo re Manfredi iscomunichato e faciendo gran ghuerra alla 
+chiesa di Roma e 'l papa che allora regniava mand@o in Francia per 
+Charlo ducha d'Angi@o e quando fu venuto il papa gli concedette il 
+reame di Puglia e ch'egli se 'l dovesse acquistare.  Onde Charlo fecie 
+la 'mpresa e mand@o per le contrade di Fiandra suo gienero che venisse 
+aiutarlo e chos@i venne con gran giente e in effetto feciono battaglia 
+e in breve Charlo fu vincitore e il re Manfredi fu isconfitto e morto e 
+mor@i iscomunichato e stette tre d@i e notti che lo corpo suo non si 
+ritrovava se era vivo o morto e poi per u[n] Rubaldo Sachomanno fu 
+ritrovato e rechavallo nella citt@a in sun un asino.  E non fu 
+aconsentito ch'egli fosse sotterrato in sagrato per la 
+ischomunichazione ch'egli aveva.  Anzi il feciono portare fuori della 
+citt@a al detto Rubaldo presso a Benevento sotto un ponte d'acque d'un 
+fiume che si chiama il Verde e ivi il sotterr@o il detto Rubaldo.  
+Questo re Manfredi fu crudeliximo huomo intanto ch'egli fecie venire i 
+saracini insieme con esso lui contro alla chiesa di Roma laonde poi a 
+pi@u anni essendo papa Chimenti e udendo ci@o ch'aveva fatto Manfredi 
+contro a papa Alexandro e santa chiesa fecie cierchare dell'ossa sue e 
+trovatole e di nuovo fattole disotterrare le fecie di nuovo 
+ischomunichare e felle gittare in un fiume chiamato il Verde e ffu il 
+veschovo di Cosenza quello che llo ischomunich@o di nuovo e per@o dicie 
+cos@i lo spirito a Dante e al mantovano Virgilio poeta
+
+	^Se 'l pastor di Cosenza ch'alla caccia~
+^di me fu messo per Clemente allora~
+^avesse in Dio be[n] lletta questa faccia.~
+

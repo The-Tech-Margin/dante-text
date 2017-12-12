@@ -1,0 +1,727 @@
+	|1.  Lo giorno se n'andava~: Era uscito dalla selva di
+primo mattino, e ora siamo gi@a sull'imbrunire.  Che avranno fatto
+in tutto quel giorno?  Il lettore lo noti, perch$e poi vedr@a che
+sempre per uscire dalle ^piagge~ {v.62} impiegano lungo tempo, e
+ne scoprir@a la ragione.
+
+	|2.  animai~: gli animali, ragionevoli e irragionevoli. 
+Deriva probabilmente da quel di Virgilio: ^Nox erat et terras
+animalia fessa per omnes~ -- ^alituum pecudumque genus sopor
+altus habebat~ (^En.~, VIII, 26); -- ma anche quando imita, D.
+ricrea.  In V. @e pi@u pace; nell'alunno pi@u gravit@a, come richiede
+il pensoso raccoglimento dell'ora.
+
+	|3.  sol uno~: unico e solo dei viventi.
+
+	|4-5.  m'apparecchiava~...: Senti come trasfuso nel verso
+il vigore che viene richiamando al petto per prepararsi all'alta
+impresa.  -- |la guerra~...: Il cammino gli far@a guerra, perch$e
+aspro e lungo; la piet@a, commovendolo alla vista dei tormenti.
+
+	|6.  ritrarr@a~: ridir@a.  -- |la mente che non erra~: non
+@e vanto che il P, faccia soltanto alla sua, ma qualit@a propria
+della memoria che scrive, come dice appresso, ci@o che vede.
+
+	|7.  O Muse~: Alla proposizione -- canter@o ^la grerra s@i
+del cammino e s@i della pietate~ {v.5} -- fa seguire subito
+l'invocazione alle muse, perch$e a narrare il viaggio per
+l'inferno l'ispirazione di queste gli @e sufficiente.  Nel
+^Paradiso~ si richieder@a anche quella di Apollo.  -- |o alto
+ingegno~: Sa d'aver ingegno adeguato all'altezza della materia
+presa a cantare, e lo dice chiaro (cfr. ^Inf.~, IV, 100 e segg.;
+^Purg.~, XXX, 109 e segg.; ^Par.~, XXII, 112 e segg.), non per
+iattanza, ma per obbedir alla virt@u della ^verit@a~, la quale,
+secondo gl'insegnava Aristotile, ^Modera noi dal vantare noi
+oltre che siamo e da lo diminuire noi oltre che siamo, in nostro
+sermone~ (^Conv.~, IV, xvii, 6).
+
+	|9.  si parr@a~: apparir@a, si dimostrer@a se hai la nobilt@a
+che si richiede.  ^Per questo vocabulo nobilitade s'intende
+perfezione di propria natura in ciascuna cosa~ (^Conv.~, IV, xvi,
+8).
+
+	|10.  Poeta~...: In V. ora vede soltanto il poeta, e teme
+che, per quanto grandissimo, non abbia la virt@u necessaria a
+guidarlo per i mondi dello spirito, dove si va solo, in grazia di
+una concessione divina, per motivi molto gravi e da chi debba
+compiere una straordinaria missione.
+
+	|12.  a l'alto passo~: avanti che tu |mi fidi~, mi
+affidi, mi metta per quello che @e il passo pi@u alto: dal tempo
+all'eterno.  L'inferno @e un |passo~, come la selva che lo figura.
+
+	|13.  Tu dici~: La discesa di Enea all'inferno @e
+raccontata nel VI dell'^Eneide.~  -- |di Silvio il parente~: il
+padre di Silvio, Enea.
+
+	|14.  corruttibile ancora~: essendo ancora mortale, and@o
+a secolo immortale, al mondo di l@a.  -- <La tua mirabile donna @e
+partita di questo secolo> (^Vita Nuova~, XXIII, 6).
+
+	|15.  e fu sensibilmente~: e vi and@o con i suoi sensi, in
+anima e corpo.
+
+	|16.  l'avversario d'ogni male~: colui che @e principio
+d'ogni bene, Dio, detto dal Poeta anche ^Sire de la cortesia~
+(^V. N.~, XLII, 3).
+
+	|17.  i~: contrazione di ^ei~, a lui.  -- |pensando~...:
+che Dio fosse cortese a Enea non parr@a cosa sconveniente o strana
+a chi abbia mente sana e consideri l'alto effetto, la grandezza
+di cio@e che da lui sarebbe derivato.
+
+	|18.  e 'l chi e 'l quale~: e chi, quali uomini cio@e e di
+quali virt@u forniti.  -- Ritengo che accenni ai cittadini
+^divini~ di Roma (^Conv.~, IV, v, 11 e segg.).  ^Nunc age
+Dardaniam prolem quae deinde sequatur~ -- ^gloria, qui maneant
+Itala de gente nepotes~ (^En.~, VI, 756).  C'@e chi riferisce |'l
+chi e 'l quale~ a Enea dotato di alte e nobili virt@u personali e
+nobilissimo per origine.  A me pare che ^l'alto effetto~ {v.17}
+sia determinato nel verso seguente con Roma e il suo Impero.
+
+	|20-21.  ne l'empireo ciel~: L'elezione di Roma e
+dell'Impero ^convenia primieramente procedere da quel consiglio
+che per tutti provede, cio@e Dio~ (^Conv.~, IV, iv, 9), la cui
+sede @e nel cielo empireo.  ^Veramente, fuori di tutti questi~
+(nove cieli), ^li Cattolici pongono lo cielo Empireo, che @e a
+dire cielo di fiamma o vero luminoso, che @e lo luogo di quella
+somma Deitade che sola s@e compiutamente vede~ (^Conv.~, II, iii,
+8, 10).
+
+	|22.  la quale e 'l quale~: la qual Roma e il quale
+Impero furono, a dir la verit@a, ordinati a preparare la sede
+pontificia, dove siede il successore di san Pietro, principe
+degli Apostoli.  Ma essere ordinati a una cosa non significa
+risolversi in questa.  La vita mortale @e ordinata all'eterna, ma
+l'eterna non @e, quantunque la prepari.  Come dimostra il discorso
+precedente (vv. 16-21), nel pensiero di D. l'Impero conserva
+piena la sua ragion d'essere, @e voluto e stabilito direttamente
+da Dio, rimane sacro e inviolabile, come la Chiesa.  Tuttavia,
+parlando a V., poeta pagano, D. si permette di ricordargli che,
+oltre l'autorit@a dell'Impero, ce n'@e un'altra, della quale poteva
+supporre che il maestro non tenesse il debito conto, com'egli non
+ne aveva tenuto nessun conto nel ^Convivio.~  Perci@o accentua
+l'importanza della Chiesa, a cui subordina l'Impero.  Il
+medesimo, del resto, fa alla fine della ^Monarchia~: ^Romam~ --
+^cui~... ^verbo et opere Christus orbis confirmavit imperium,
+quam etiam ille Petrus, et Paulus gentium predicator, in
+apostolicam sedem aspergine proprii sanguinis consecravit~ --
+^cum Ieremia~, etc. (^Ep.~, XI, 3).
+
+	|23.  fu stabilita~: Non ci aspetteremmo ^furono
+stabiliti~; ma gli antichi spesso concordarono il verbo con uno
+dei soggetti.  Cfr. ^Inf.~, I, 84; XVI, 66-68.
+
+	|24.  u'~: dove, abbreviazione del latino ^ubi~,
+frequente nella ^Commedia.~  -- |del maggior Piero~: Non sempre
+presso gli antichi |maggiore~ @e comparativo; spesso @e positivo ed
+esprime un titolo d'onore: il massimo dei Pontefici.
+
+	|25.  Per questa andata~...: per questa sua discesa
+all'inferno, per cui tu lo celebri.
+
+	|26.  intese: ~ apprese.  -- Quando Anchise gli mostr@o le
+anime pi@u gloriose de' suoi discendenti e gli rivel@o per sommi
+capi la storia avvenire di Roma.
+
+	|27.  di sua vittoria~: Le cose vedute gl'insegnarono a
+resistere e a trionfare di Turno e quindi ad assicurare prima la
+sede all'Impero, poi, in processo di tempo, al Pontificato.  Con
+l'avvento di questo il disegno divino sarebbe stato compiuto: a
+somiglianza dell'impero ^giustissimo e pio~, che @e ne' cieli, in
+Roma avrebbero avuta la loro sede l'Imperatore, ministro della
+giustizia, e il Papa, ministro della piet@a, virt@u ambedue
+necessarie alla felicit@a degli uomini, temporale ed eterna.  --
+|papale ammanto~: il ^gran manto~ di cui il papa si veste (cfr.
+^Inf.~, XIX, 69; ^Purg.~, XIX, 104), che @e come dire, per
+sineddoche, il papato.
+
+	|28.  Andovvi poi~...: San Paulo stesso, nella ^II Ep. ai
+Corinzi~ (XII, 2-4) racconta d'essere stato rapito fino al terzo
+cielo e di aver udite cose che la lingua umana non sa ridire.  @E
+stato giustamente osservato che, parlando di questa seconda
+andata al secolo immortale, il P. adopera un'espressione di
+assoluta certezza, mentre per quella di Enea si limita a un: ^tu
+dici, tu gli d@ai vanto~ {v.25}.  Ma D. crede ugualmente all'una e
+all'altra.  Se non che, per la ragione accennata nella nota al v.
+22, seguita a porre in maggior rilievo la parte spettante alla
+Chiesa.  Di V. ha la maggiore stima; ma sa che fu ribelle alla
+legge divina (c. I, 125), e che un viaggio siffatto sarebbe stata
+follia intraprenderlo senza un segno della volont@a di Dio.  --
+|lo Vas d'elezione~: cos$i @e detto san Paolo negli ^Atti degli
+Apostoli~ (IX, 15); e altrove da D. stesso: ^il gran vasello
+dello Spirito Santo~ (^Par.~, XXI, 127).  Alcuni citano anche la
+^Visio Pauli~ a chiarimento di questo verso; ma in essa mi sembra
+non ci sia nulla che ci autorizzi a supporre che D. la
+conoscesse.
+
+	|29.  per recarne conforto~: Perch$e veduta direttamente
+la verit@a, potesse confortarla, ossia confermarla nelle menti
+degli altri, secondo gli insegnamenti di |quella fede~, la
+cristiana, indispensabile a entrare nella via della salvezza
+eterna.  Senza la fede ^ben far non basta~ (^Purg.~, XXII, 60).
+
+	|31.  Ma io~: Aveva accettata con entusiasmo la proposta
+di Virgilio e s'era anche incamminato; ma lungo la via prima un
+dubbio, poi un altro e un altro lo assalgono.  Non osa rivelarli;
+ma, sul punto di muover l'alto passo, @e costretto e parla.  Da
+principio come impacciato dalle tante riflessioni fatte; poi,
+alla fine, condensando in pochi versi, chiare, precise, le sue
+difficolt@a.  Innanzi tutto: |io~, chi son io? e poi: |perch$e
+venirvi~?  Codesto viaggio al quale m'inviti non si fa senza una
+grande ragione.  -- |o chi 'l concede~?  E in secondo luogo non
+si pu@o fare, se Dio stesso non lo conceda -- mentre V., a dir
+vero, gli s'era appresentato come venuto di sua spontanea
+volont@a.
+
+	|32.  Io non Enea~...: Riconoscendo di non essere n$e un
+Enea, n$e un Paolo, fa capire che bisognerebbe avere le ragioni e
+la grazia dell'uno o dell'altro, o di tutti e due insieme, per
+mettersi a un'opera cos$i grande.  Perci@o insiste su quell'io,
+come a mettere in evidenza la sua piccolezza.
+
+	|33.  n$e altri~: Virgilio, s$i, invitandolo a seguirlo
+^per loco eterno~, aveva mostrato di crederlo degno a ci@o; ma V.
+non era quell'|altri~, che si richiedeva.
+
+	|34.  del venire~...: intorno al venire: se mi lascio
+andare al viaggio che dici.
+
+	|35.  folle~: La stessa parola che poi user@a parlando
+dell'impresa di Ulisse, che fu un ^folle volo~ (^Inf.~, XXVI,
+125), perch$e tentato contro l'esplicito divieto di Dio.  Con le
+sue riflessioni il poeta si dimostra ricreduto dell'errore di un
+tempo, quando credeva che la ragione fosse sufficiente a liberare
+il mondo dal male e si propose di <gridare a la gente che per mal
+cammino andavano acci@o che per diritto calle si drizzassero>
+(^Conv.~, IV, i, 9).
+
+	|36.  se' savio~...: sei un sapiente, e intendi meglio
+che io non sappia dire a parole.
+
+	|37.  disvuol~: non vuole pi@u.
+
+	|38.  e per novi pensier~: quali fossero questi nuovi
+pensieri D. lo ha detto.
+
+	|39.  tutto si tolle~: desiste affatto dall'impresa,
+l'abbandona.
+
+	|40.  in quella oscura costa~: nella piaggia ridiventata
+oscura, per il sole che era tramontato.  -- Non faccia difficolt@a
+che la piaggia sia chiamata |costa.~  Nel ^Purg.~ troveremo una
+^scoperta piaggia~ che @e anche una ^costa superba~ (IV, 35-41). 
+Si badi piuttosto a questo volere e disvolere, a questa sua
+incertezza, perch$e, come si vedr@a a suo luogo, i dubbi, gli
+avvolgimenti, le perplessit@a pi@u gravi, sono caratteristiche di
+tutte le piagge.  Cfr. nota al v. 30 del c. I.
+
+	|41.  pensando, consumai~...: A furia di rifletterci su,
+non ne voleva pi@u sapere e distruggeva ci@o che aveva cominciato
+con tanto ardore.  Il medesimo gli accadde, scrivendo il
+^Convivio.~  L'analisi soverchia impedisce l'azione.  Ma Dante
+vuol dire inoltre che la ragione da sola non giunge mai a
+risolvere i problemi pi@u gravi.  Altro motivo che vedremo tornare
+nelle piagge.
+
+	|42.  tosta~: precipitosa quasi, inconsiderata (^Inf.~,
+XII, 66).
+
+	|43.  S'i' ho ben~...: Non gli dice chiaro che la sua @e
+vilt@a.  Avrebbe finito di scoraggiarlo.  Anzi, con un tratto
+d'animo saggio e delicato, mostra che potrebbe anche non aver
+capito bene il suo discorso.
+
+	|44.  magnanimo~: per antitesi a lui pusillanime.
+
+	|46.  molte fiate~: Anche questo serve a scusar Dante: @e
+cosa che accade di frequente.
+
+	|47.  lo rivolve~: lo distoglie.
+
+	|48.  come falso veder~...: come i vani fantasmi, le
+allucinazioni fanno alle bestie, quando adombrano.
+
+	|49.  ti solve~: ti sciolga, ti liberi.
+
+	|50.  'ntesi~: intesi, appresi.
+
+	|51.  punto~: momento.  -- | mi dolve~: mi dolse, provai
+dolore della tua condizione.
+
+	|52.  Io era~...: Racconta riposatamente, con
+compiacenza: risente ancora la dolcezza del colloquio avuto.  --
+|che son sospesi~: Le anime del Limbo, fra le quali @e V., son
+sospese tra il desiderio di Dio e la nessuna speranza di
+giungere, quando che sia, a vederlo.  Ma il |sospesi~ potrebbe
+anche voler dire che su loro il giudizio non @e ancora definitivo.
+
+	|53.  e donna~...: non dice chi, perch$e la curiosit@a di
+D. si faccia pi@u viva e segua il racconto con maggior interesse.
+
+	|54.  tal che~...: tanto beata e tanto bella che...  Era
+nata per aver signoria nella mente di chiunque la guardasse; era
+infatti la V$erit@a, che non ammette ^lite alcuna d'oppinioni o di
+sofistici argomenti~ (^Conv.~, II, xiv, 19).
+
+	|55.  la stella~: Nel linguaggio di D. pu@o voler dire
+cos@i qualunque stella, come il sole (^Conv.~, III, ix, 12; ^V.
+N.~, canz. II).  Per l'allegoria torna meglio intendere il sole.
+
+	|56.  soave e piana~: soave e piena di benigna dolcezza,
+come al tempo che andava ^benignamente d'umilt@a vestuta~ (^V.
+N.~, son. XV).
+
+	|57.  con angelica voce~: V. non si stanca di celebrare
+la bellezza di Beatrice: si sente che n'@e rimasto profondamente
+colpito.  -- |in sua favella~: con voce d'angelo nel suo
+favellare, nel suo modo di parlare.
+
+	|58.  O anima cortese~...: Riferisce tali e quali le lodi
+fattegli da Beatrice, perch$e D. gli si affidi con pi@u sicurezza.
+
+	|59-60.  ancor~: dopo circa tredici secoli! ma durer@a
+assai pi@u tempo, finch$e dura il mondo.
+
+	|61.  l'amico mio~...: pi@u affettuoso che se avesse detto
+il nome.  In un verso le memorie dolci del passato e le sventure
+presenti e l'amore di Beatrice e l'odio del mondo, che gli s'era
+fatto tutto nemico.  -- |e non de la ventura~, ma non amico della
+fortuna, che lo perseguita.
+
+	|62.  ne la diserta piaggia~: Basta cos$i, perch$e V.
+intenda di qual luogo si parli.  E questa @e una ragione di pi@u
+per tenerla ben distinta dalla ^valle~ e dal ^monte.~
+
+	|63.  che volt'@e per paura~: che torna indietro, ruinando
+^in basso loco~, atterrito della paura, che esce dalla vista,
+dagli occhi della lupa.
+
+	|64.  e temo~...: timore di donna che ama.  Nella
+Beatrice della ^Commedia~ il simbolo non impedisce che seguiti a
+vivere la creatura un tempo tanto amata.
+
+	|65.  tardi~: Non nasconde il rimprovero che fa a se
+medesima: teme d'aver tardato troppo ad accorrere in aiuto di D.,
+e se ne duole.  Per capire come Beatrice, simbolo della Verit@a
+rivelata e quindi anche della Chiesa, possa aver fatto tardi,
+bisogna ricordare quanto @e detto nell'^Ep.~, VI, 3: ^Solio
+augustali vacante, totus orbis exorbitat~... ^nauclerus et
+remiges in navicula Petri dormitant.~
+
+	|66.  per quel~...: che cosa abbia udito, lo dir@a
+appresso.
+
+	|67.  Or movi~: pi@u che un comando, @e una preghiera.  --
+|ornata~: come a dire: con la tua bella eloquenza.
+
+	|68.  e con ci@o~...: e con quanto @e necessario alla sua
+salvezza.  S'intende facilmente che in quest'opera di redenzione
+lei lo assister@a tutte le volte che occorre; perci@o lo tace.
+
+	|69.  l'aiuta~: n$e altro che aiuto poteva aspettarsi da
+V.  Il resto bisognava lo facessero la volont@a di D. e la grazia
+divina.  -- |s@i ch'i' ne sia consolata~: Sembra pensare a s$e, e
+invece dimostra quanto grande amore nutra per D.  Se questi non @e
+salvo, lei non avr@a pace, sebbene nel paradiso.  Sono espressioni
+che prese alla lettera sarebbero eresie; e sono invece poesia,
+dove la donna amata parla come dovrebbero coloro che la
+rappresentano in terra.  Cfr. ^Par.~, XXVII, 31-36.
+
+	|70.  I' son Beatrice~...: molto probabilmente la
+figliuola di Folco Portinari, amata da Dante prima che fosse
+fuori di puerizia, e gi@a nel racconto della ^V. N.~ creatura di
+cielo.  Il suo significato simbolico nella ^Commedia~ lo abbiamo
+gi@a accennato, e meglio lo udiremo da V. di qui a poco.  Ma si
+noti la grande delicatezza di farle dire soltanto all'ultimo il
+suo nome, e cos$i di passaggio; e ci si rappresenti pure la
+commozione di D. all'udirlo, ossia nel concepire questa scena. 
+Non poteva esser che lei la donna ^beata e bella~ {v.53}, che
+aveva fatto accorrere V. in suo aiuto; ma ora ne @e certo, e deve
+sentirsi il cuore pieno d'amore e gratitudine.
+
+	|71.  del loco~: Accenna e passa, senza determinazione
+alcuna.  Non sarebbe stato n$e cortese, n$e opportuno parlar della
+sua felicit@a a uno che @e, o si crede, ^perduto.~
+
+	|72.  amor mi mosse~: amor di donna, tanto pi@u vero
+quanto pi@u puro.  Gi@a nella ^V. N.~  Amore diceva di lei: ^e
+quella ha nome Amor; s$i mi somiglia.~  (Son. ^Io mi sentii~). 
+Nei personaggi della ^Commedia~ questo @e notevole che l'idea a
+cui servono @e tratta dalla loro realt@a storica, e per@o non sono
+astrazioni.
+
+	|74.  di te mi loder@o~...: mi loder@o spesso a Dio del
+modo con cui hai corrisposto al mio desiderio -- certo per
+meritargli da |Lui~ una grazia maggiore.  Annota il Tommaseo:
+<Beatrice che promette a Virgilio di lodarsi in cielo di lui, con
+qualche altro tocco non conforme alla pura verit@a del domma, @e da
+intendere o umanamente o simbolicamente, n$e da ammirare n$e da
+condannare alla leggiera>.  Infatti B. che teme di essersi levata
+tardi al soccorso, pi@u che a s$e, pensa a coloro che la
+rappresentano in terra e li esorta indirettamente a essere pi@u
+solleciti della salute degli uomini; quando dice: -- ^l'aiuta s$i
+ch'i' ne sia consolata~ -- vuol far riflettere a' suoi
+rappresentanti qual dolore sarebbe il loro se, per dissensi con
+il potere civile, il mondo andasse in rovina; quando promette a
+V. di lodarsi di lui a Dio, esprime un desiderio che non era solo
+di Dante, ma di molti altri, anche di S. Gregorio papa, che preg@o
+pel giusto Traiano, e gl'impetr@o da Dio la grazia di rivivere,
+convertirsi alla fede e salvarsi.  Ved. il Comparetti, ^Virgilio
+nel Medioevo.~
+
+	|75.  Tacette~: tacque.
+
+	|76.  O donna di virt@u~...: Molti intendono che per la
+virt@u di Beatrice gli uomini vincono d'eccellenza le creature
+contenute sotto il cielo della luna.  Ma non @e spiegazione
+accettabile: le vincevano anche prima che B. fosse.  Bisogna
+spiegare: O signora della virt@u, in grazia della quale soltanto
+gli uomini trascendono quanto @e contenuto sotto il cielo della
+luna, ecc.; vale a dire: O signora della Verit@a rivelata, per
+mezzo della quale solamente gli uomini possono conoscere qualcosa
+di quanto si contiene sopra il cielo della luna, dalla scienza
+umana cio@e elevarsi alla divina, ecc.  Invero nella ^Somma~ di S.
+Tom. si legge: ^Nihil possumus scire de his quae sunt fidei, nisi
+per revelationem a Deo vel a beatis.~  Cos$i, mentre la celebra
+per la virt@u che impersona, V. viene come a segnare il limite tra
+s$e, che rappresenta la verit@a naturale, e B., simbolo della
+Verit@a rivelata.
+
+	|77.  ogni contento~: ogni cosa contenuta -- latinismo.
+
+	|78.  di quel ciel~...: dal cielo della luna che gira pi@u
+vicino alla terra e fa quindi i cerchi pi@u piccoli.
+
+	|80.  che l'ubidir~...: mi tarda l'ubbidirti; e mi
+sembrerebbe ugualmente tardi, se avessi gi@a eseguito il tuo
+^comando~, dice lui; ma B. lo chiamer@a ^preghiera.~  Io credo
+sian degni di qualche attenzione anche codesti |tardi~ che
+suonano sulle labbra di ambedue.  V. nacque ^sub Julio~, sebbene
+|tardi~, e qui dichiara che l'aver gi@a ubbidito gli sarebbe
+|tardi~ lo stesso; B. teme d'essere accorsa |tardi.~  Come mai? 
+Cfr. la n. al v. 65.
+
+	|81.  pi@u non t'@e uo'~...: altro non devi che
+manifestarmi il tuo desiderio; |uo'~, apocope di ^uopo.~
+
+	|82-83.  Ma dimmi la cagion~...: Dopo le parole di B. e
+le sue ci si aspetterebbe che V. senza indugio accorresse in
+aiuto di D.; e invece esce in una domanda a primo aspetto non
+necessaria, ma che ci avvia a conoscere un alto decreto divino e
+il modo con cui si prepara la liberazione del mondo dalla lupa. 
+-- |in questo centro~: come mai non ti fai riguardo di scendere
+quaggi@u, in questa voragine aperta nel centro della terra, la
+quale a sua volta sta, secondo gli antichi, nel centro, e quindi
+nel luogo pi@u basso, di tutto l'universo?  ^Basta~... ^sapere che
+questa terra @e fissa e non si gira e che essa col mare @e centro
+del cielo~ (^Conv.~, III, v, 7).  D. si serve della maraviglia di
+V.  -- un relegato nell'eterno esilio richiesto di aiuto dalle
+potenze celesti!  -- per rivelare al lettore il dramma che si @e
+svolto in cielo e quindi la ragione profonda del suo viaggio.
+
+	|84.  de l'ampio loco~: dall'empireo, cielo immenso, ^che
+solo amore e luce ha per confine~ (^Par.~, XXVIII, 54).  --
+|ardi~: desideri ardentemente, ^Ardet abire~ (^En.~, IV, 281).
+
+	|85.  cotanto a dentro~: In vero, non contento del fatto,
+vuol conoscerne la ragione riposta.  La frase tuttavia, col
+promettere la rivelazione d'una verit@a nascosta, invita a fermar
+la mente sul significato della discesa di B. nel Limbo, indizio
+di qualche straordinario avvenimento.
+
+	|90.  paurose~: tali da far paura.
+
+	|91.  sua merc$e~: per sua grazia.
+
+	|92.  la vostra miseria~: l'infelicit@a delle anime
+separate da Dio.  -- |non mi tange~: non mi tocca.  ^Non tanget
+illos tormentum mortis~ (Sap., III, 1).
+
+	|93.  d'esto incendio~: Pu@o alludere in genere alle pene
+infernali, figurandole tutte nel fuoco; ma anche al fuoco, che
+vedremo ardere nel Limbo e al quale potrebbe accennare come a
+cosa l@i vicina: |esto~ = codesto.
+
+	|94.  Donna @e gentil~...: La ^donna gentile~ che prova
+compassione dell'impedimento opposto dalla lupa a D. e lo
+soccorre, non pregata, @e senza dubbio Maria.  E D. se ne
+ricorder@a anche alla fine del ^Paradiso~ (XXXIII, 16-18).  Ma il
+lettore al sentirla chiamar cos@i, non pu@o non ripensare a
+un'altra ^donna gentile~, di cui si parla a lungo nella ^V. N.~,
+nel ^Conv.~ e nel ^Canz.~  L'appellativo @e lo stesso; ma qual
+differenza fra loro due!  L'una fu principio del suo errore,
+l'altra della sua salute.  Eppure allora gli pareva che ^tutta la
+piet@a~ fosse accolta nella prima (^V. N.~, XXXV).
+
+	|95.  ov'io ti mando~: a liberarlo dal quale io ti mando.
+
+	|96.  s@i che duro giudicio~...: Nel cielo un severo
+giudizio era stato pronunziato sugli uomini.  Avendo osato
+dirubare per la seconda volta la pianta del paradiso terrestre,
+che moralmente significa violare la giustizia di Dio (^Purg.~,
+XXXIII, 70-72), Dio li aveva abbandonati alle potenze del male
+che difatti sotto forma di tre fiere hanno invasa la terra e
+riacquistato il potere d'impedire agli uomini la salita al colle
+della felicit@a.  Se non che, Maria con la sua intercessione @e
+valsa a far revocare tal giudizio, l'ha infranto.  Ecco la
+ragione riposta della discesa di B. all'inferno.  Essa viene a
+muover V. in aiuto di Dante, dando principio cos@i all'azione che
+salver@a il mondo dalla schiavit@u del maligno, simboleggiato
+specialmente nella lupa.
+
+	|97.  in suo dimando~: nel suo parlare, richiedendola
+d'aiuto.  <A ciascuno soddisfar@o, rispondendo al suo dimando,
+come a figliuolo> (Cavalca, ^Vite dei Santi Padri~, Trieste,
+Lloyd Austriaco, 1858, p. 22).  -- Lucia, come si vedr@a in
+seguito (^Purg.~, IX, 13-63), personifica la giustizia divina, e
+lo dice anche col nome, simile nella radice a quello del minor
+luminare: ^luna~ da ^lucna.~  Per questo specialmente @e lecito
+ritenere che D. abbia inalzata la santa martire Siracusana a far
+parte della trinit@a femminile del paradiso, perch$e col nome
+ricordava la ^lucna~, ossia il simbolo allora corrente
+dell'impero, che per il Poeta vuol dire della giustizia.  I pi@u
+vedono in essa la grazia illuminante.
+
+	|98.  il tuo fedele~: E, senz'altra designazione, quella
+capisce.  Vuol dire che, se non proprio l'unico, D. @e colui che
+merita, come veramente per il suo grande amore all'Impero
+meritava, d'esser chiamato per antonomasia ^il fedele di Lucia.~
+
+	|99.  ed io a te lo raccomando~: Ma per veder Lucia
+subito dopo rivolgersi a B. non si creda che dunque si rifiuti
+all'opera affidatale da Maria, che le ha detto: -- ha bisogno |di
+te~, lo raccomando |a te.~  -- Lucia si rivolge a B. perch$e le
+tre donne di cielo devono operare congiuntissimamente, in
+perfetto accordo, con un unico volere.  Infatti il primo a
+incominciare nel mondo l'azione richiesta alla salvezza di D. @e
+V., un rappresentante dell'Impero e quindi della giustizia, che
+s'impersona in Lucia.  Altra ragione, per cui V. sulle prime si
+mostra silenzioso e fioco; ha le qualit@a del minor luminare.
+
+	|100.  nimica di ciascun crudele~: ^Quegli @e crudele che
+non ha misura in condannare, quand'egli n'ha cagione~ (B. Latini,
+^Tes.~, IX, 25).  Lucia al contrario @e perfetta giustizia, e
+perci@o naturalmente nemica d'ogni crudelt@a.
+
+	|101.  si mosse e venne~...: I simboli in D. non sono
+quasi mai fredde astrazioni, ma persone vive.
+
+	|102.  che mi sedea~...: Determina il posto che ha nel
+cielo, accanto a Rachele, simbolo notissimo della vita
+contemplativa, perch$e si capisca la parte che ella fa in
+quest'azione di fronte a Lucia.  Maria, che frange il ^duro
+giudicio~ {v.96}, @e pi@u propriamente simbolo della potenza
+divina, che a redimere D. e il genere umano muove Lucia, perch$e
+lo riconformi a s$e nella giustizia; e Lucia muove Beatrice,
+simbolo della piet@a.  Per liberare gli uomini dalla lupa, Dio si
+serve dello stesso ^processo~ con cui li redense la prima volta,
+quando gli piacque di porre in opera la sua ^giustizia~ e la sua
+^piet@a~ (^Par.~, VII, 109-114); con la differenza che allora
+operarono direttamente le Tre persone divine e ora operano le Tre
+donne benedette.
+
+	|103.  loda di Dio vera~: perch$e nella Verit@a rivelata
+risplendono meglio gli attributi di Dio.  Anche quando passava
+per via alcuni dicevano: <Questa @e una maraviglia; che benedetto
+sia lo Segnore, che s@i mirabilmente sae adoperare!>  (^Vita
+Nuova~, XXVI, 2).  Fin d'allora Beatrice era |loda~, ossia lode
+di Dio.
+
+	|104.  t'am@o tanto~: un tempo; ma ora?  -- Ora viveva
+piuttosto dimentico di lei.
+
+	|105.  usc@i per te~...: Invero l'amore di B. gli aveva
+data l'ispirazione alle ^rime nuove~, e sollevato l'animo da ogni
+cosa vile.
+
+	|106.  non odi tu~?: e subito dopo: ^non vedi tu~?
+{v.107}  -- Ci si sente la punta d'un rimprovero, o almeno d'un
+rammarico, per quanto velato.  Come faceva a non udire il pianto
+pietoso di Dante, lei, la signora della piet@a? e a non vedere,
+lei, ^il cui bell'occhio tutto vede~?  (^Inf.~, X, 131).  -- Cfr.
+la n. al v. 65.
+
+	|107.  la morte~: Cos@i D. stesso ci insegna che la lupa
+allegoricamente rappresenta la morte che @e vera morte, ossia il
+peccato originale, per cui nel mondo entr@o la morte.  Ma nel caso
+particolare di D. nulla toglie di pensare anche alla morte
+fisica, cercata forse in un momento di disperazione, quando, dopo
+l'improvvisa scomparsa di Arrigo VII, si vide chiusa per sempre
+la via di tornare in patria, e, pi@u miseramente di prima,
+<portato a diversi porti e foci e liti dal vento secco che vapora
+la dolorosa povertade> (^Purg.~ I, 58-60; ^Conv.~, I, iii, 5). 
+Si spiegherebbe cos@i l'ansia di B. d'essersi levata tardi al
+soccorso e le parole di Lucia acquisterebbero un altro valore.
+
+	|108.  la fiumana~: Il male @e ora ^selva oscura~, ora
+^pelago~, ora |fiumana~: secondo che il Poeta se ne rappresenta o
+il tenebrore o l'immensit@a o la furia travolgitrice.  -- |ove 'l
+mar non ha vanto~: sulla quale il mare non ha vanto, perch@e non @e
+pi@u grande n@e pi@u crudele di essa, non la vince.  C'@e chi per
+questa fiumana intende l'Acheronte, che non rende le sue acque al
+mare; ma, bench@e gli somigli molto, D. non essendo ancora entrato
+nell'inferno non pu@o esser combattuto sopra una fiumana che si
+trova solo nel baratro.  E c'@e chi ritiene che il Poeta parli
+d'una fiumana vera e propria scorrente attorno alla selva.  Non
+conviene moltiplicare i simboli.  La lupa lo combatte all'orlo
+della selva, in cui sta per ^ruinare~, e quindi sulla fiumana
+ecc.; tanto pi@u che la selva @e effetto della cupidigia, che i
+mortali ^affonda~ s@i sotto s$e che nessuno ha potere di levar gli
+occhi fuori delle sue ^onde~ (^Par.~, XXVII, 121).
+
+	|109.  Al mondo~...: Non esita a paragonarsi con una
+creatura mortale.  Sapeva di non poter parlare diversamente al
+nostro ingegno.  -- |ratte~: veloci.
+
+	|110.  pro~: vantaggio.
+
+	|111.  dopo cotai~...: dopo che mi furon dette tali
+parole gravi.
+
+	|112.  venni qua gi@u~...: Lo dice con ammirevole
+semplicit@a e naturalezza; ma noi, pensando all'immensa distanza
+fra il suo seggio beato e il Limbo, sentiamo tutta la grandezza
+della sua bont@a.
+
+	|113.  fidandomi~...: Fra tante anime che avrebbe potuto
+inviare al soccorso, B. non vuol tempo a scegliere, e si rivolge
+direttamente a V.  Essendo la favola del Poema, come dimostra
+l'azione delle tre donne benedette, esemplata sul disegno
+ordinato da Dio alla redenzione della colpa di Adamo, ed essendo
+Roma uno degli strumenti principali della redenzione, era
+inevitabile che nell'opera della liberazione del mondo dalla lupa
+concorresse un rappresentante della gloriosa citt@a.  -- |nel tuo
+parlare onesto~: nella nobilt@a del tuo parlare, di quanto cio@e
+hai espresso, seguendo l'ispirazione del tuo animo nobilissimo. 
+Ma intanto l'anima, nella cui rettitudine ella pienamente si
+confida, @e relegata nell'eterno esilio.  A D. non dispiace che si
+senta quella specie di contradizione che sorge necessariamente
+fra le lodi di B. e la misera condizione di V.; anzi lo vuole.
+
+	|114.  e quei ch'udito l'hanno~: e coloro che l'hanno
+capito.  -- Il discorso di B. si apre e si chiude con le lodi di
+V., ed @e dal principio alla fine improntato di affettuosa
+premura.
+
+	|115.  ragionato~: detto.
+
+	|116.  li occhi lucenti~...: B. che piange con que' suoi
+occhi cos@i belli e li volge, come temendo di mostrar le sue
+lacrime a V., si appalesa pi@u umana e vera che non sia nella
+stessa ^V. N.~
+
+	|117.  del venir pi@u presto~: pi@u sollecito a venire.
+
+	|118.  e venni a te~...: @E un verso pensato in
+corrispondenza dell'altro: ^venni qua gi@u del mio beato scanno~
+{v.112}, pieno, al pari di questo, di sottintesi profondi e
+commoventi.  Cielo e terra cospirano insieme alla salute di D.
+che poi vuol dire a quella del mondo.  -- |volse~, per <volle>,
+si trova spesso anche in prosa.
+
+	|120.  il corto andar~: l'andar su al bel monte sarebbe
+stato corto, a paragone ^della lunga via~ che dovr@a fare traverso
+l'inferno e il purgatorio, riuscendo, moralmente, alla stessa
+meta.  Cfr. la n. al v. 91 del I c.
+
+	|121.  Dunque che @e?~: Il |dunque~ con cui ripiglia, le
+domande con le quali lo stringe, tutto dimostra il desiderio
+vivissimo di vincere l'incertezza dell'alunno e comunicargli
+l'ardore concepito dal momento che B. gli ha rivelato il decreto
+divino.
+
+	|122.  tanta vilt@a~: Ora glielo pu@o dir chiaro che la sua
+@e vilt@a, e grande; ma D. temeva appunto, perch$e ignorava che il
+suo viaggio era voluto dal cielo.  Qualche sentone ne aveva avuto
+in grazia delle visioni della ^V. N.~; ma soltanto ora n'@e certo. 
+-- |allette~: accogli e quasi chiami.
+
+	|123.  ardire e franchezza~: che sono le virt@u del forte,
+opposte all'audacia e alla timidit@a.
+
+	|124.  tai~: cos@i potenti, quali Beatrice Lucia e Maria,
+tutte e tre donne vere un tempo e ora, per le loro grandi virt@u,
+elevate all'altissima gloria di formare una specie di Trinit@a
+femminile del bene, opposta alle tre fiere che formano una specie
+di trinit@a del male.
+
+	|126.  tanto ben~: quanto @e quello di salvarsi dalla
+lupa, visitar da vivo i regni dell'oltremondo e annunziare vicina
+la liberazione dal male: quel bene insomma, di cui si propone di
+trattare nella ^Commedia.~ Cfr. c.  I, v. 8.
+
+	|127-129.  Quali i fioretti~...: A un'immagine di soave
+delicatezza -- |i fioretti~ -- ne segue subito un'altra che par
+voglia aduggiarla col senso di freddo e d'oscurit@a che rende:
+|dal notturno gelo~; ma torna il sole, e i fiorellini tornano a
+bere la dolce luce: erano |chinati~ e si drizzano, erano
+|chiusi~, ed eccoli di nuovo |tutti aperti~ sul loro stelo.  La
+corrispondenza con l'anima di D. @e perfetta, e le parole aiutano
+a vedere anche co' suoni.  Beatrice, i cui occhi lucevano pi@u che
+la stella, ha illuminata di nuovo la mente di D. ^Sicut rosa per
+frigus noctis clausa solis ardore surgente tota aperitur~... 
+^Ita flos coeli~ etc.  S. Bonaventura ^Vitis Mystica~, c. 23, n.
+I.  Dalle ^Postille Bonaventuriano-dantesche~, del p. Leone
+Cicchitto.
+
+	|130.  di mia virtute~: rispetto alla mia virt@u stanca:
+per l'assalto sostenuto contro le tre fiere, ma pi@u per il suo
+lungo dubitare.
+
+	|131.  buono ardire~: non audacia, ma ardimento buono,
+quello che @e virt@u dei forti.
+
+	|132.  franca~: libera dalla vilt@a di prima.  @E diventato
+quale V. lo voleva, ardito e franco.
+
+	|133.  Oh pietosa colei~: Chi lo soccorse?  Tutte e tre
+insieme le donne benedette; ma il suo primo ringraziamento egli
+lo manda a colei che fa le prime parti nel racconto di V. e alla
+quale si sente pi@u vicino che mai, ora che sa come la piet@a vera
+alberghi solo in lei, e non, come credeva al tempo dell'errore,
+nella consolatrice della ^Vita Nuova~ (capitolo XXXV).
+
+	|134.  ubidisti~: @e questo, secondo le dottrine del
+tempo, l'ufficio della ragione: servire alla Verit@a rivelata
+(^Par.~, XXIX, 88-93).
+
+	|135.  a le vere parole~...: uscite dalla bocca di chi
+non pu@o dire menzogna.
+
+	|136.  con disiderio~: Dianzi lo temeva, ora lo desidera,
+perch$e sa che V. lo conduce a B.
+
+	|137.  con le parole tue~: con quelle parole ^ornate~
+{v.67}, di cui lo ha lodato anche B.
+
+	|138.  nel primo proposto~: nel primo proponimento (cfr.
+c. I, 130 e segg.): il medesimo che si legge ai capp. XVIII, 9 e
+XLII, 1-2, della ^V. N.~, ma dal quale l'avevano distolto l'amore
+alla ^donna gentile~, i dubbi che lo studio della filosofia gli
+aveva fatti nascere, e la vita viziosa a cui s'era lasciato
+andare.
+
+	|139.  un sol volere~: Ha cominciato col togliere da lui
+^lo bello stilo~; ora si conforma alla sua volont@a: alla fine del
+viaggio lo avr@a' rivissuto tutto intero.
+
+	|140.  tu duca~...: duce, conduttore, rispetto alla via;
+|segnore~, rispetto alla volont@a; |maestro~, rispetto
+all'intelletto.  Affida tutto se stesso a lui, ora che ha saputo
+come V. sia stato mosso da B. e a B. riconduca.  Non cos@i pensava
+intorno alla ragione, allorch$e scriveva il ^Convivio~; allora la
+scienza era per lui ^l'ultima perfezione della nostra anima~ e
+bastava alla felicit@a.  Di questo concetto hai un ricordo nel
+discorso di V. nel primo canto, dove l'ombra non fa
+nessun'allusione alla virt@u divina che lo muove, e sembra accorsa
+in aiuto di D. per sua spontanea volont@a.  Invece nel secondo
+canto V. non @e altro che un ^messo~ del cielo: la ragione @e un
+raggio dell'intelletto divino, che viene da Dio e a Dio ritorna. 
+Nella differenza di tono tra il primo e il secondo ragionamento
+di Virgilio @e segnato il divario tra lo spirito che informa il
+^Convivio~ e quello che la ^Commedia.~
+
+	|142.  intrai~...: Ci@o detto, V. avanti e D. appresso,
+rientrano nella selva, |cammino alto~, ossia profondo, e
+|silvestro~, selvaggio.

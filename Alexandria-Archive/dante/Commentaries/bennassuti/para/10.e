@@ -1,0 +1,1452 @@
+|PARADISO CANTO 10~
+
+	|1  Guardando nel suo Figlio~ ecc.  La creazione de mondo
+@e opera d'infinita sapienza e d'infinito amore, e d'infinita
+potenza.
+
+	La potenza @e attribuita al padre, prima delle tre
+persone divine, la sapienza al Figliuolo, l'amore allo Spirito
+Santo, che @e spirato ab eterno dal Padre e dal Figlioulo.  Si
+dice dunque che tutte queste tre persone divine sono concorse,
+ciascuna nella sua attribuzione, all'opera della creazione delle
+cose visibili ed invisibili, il Padre colla sua potenza, il
+Figlio colla sua sapienza, lo Spirito Santo col suo amore.
+Siccome per@o l'attributo che pi@u campeggia sensibilmente nella
+creazione @e la potenza, perci@o se ne fa il padre primo autore.
+
+	|2  Lo primo~ ecc.  Padre Eterno.
+
+	|3  Quanto per mente.~  Creature invisibili (angeli ed
+anime) e creature visibili.
+
+	|4  Senza gustar di lui.~  Senza gustar di Dio stesso
+nell'atto che si rimira il bell'ordine delle sue opere.
+
+	|5  Lettore.~  Dunque Dante non dice queste cose dal suo
+cielo dov'@e attualmente, ma dalla terra dopo d'esservi
+ritornato, compito il suo viaggio, e dopo d'avere scritto la
+relazione d'esso viaggio.
+
+	^All'alte rote.~  Alle ruote dei cieli, alle quali limita
+il suo discorso, astraendo dalle altre parti dell'universo
+accennato prima.
+
+	|6  A quella parte -- Dove~ ecc.  Guarda i cieli e poi
+mettili, o lettore, a considerar prima di tutto quella parte di
+essi che @e l'equatore, attraverso il quale passa il zodiaco o
+l'eclittica, che dall'equatore alquanto diverge verso i poli,
+come sa chi ha presente la sfera.
+
+	|7  Dove l'un moto all'altro~ ecc.  Dove il cerchio
+dell'equatore taglia il cerchio dell'eclittica che gli passa
+attraverso.  Perch@e il poeta ci porta a notare fra tutto il
+cielo il solo cerchio equatoriale?
+
+	Perch@e questo @e quel cerchio intorno a cui s'aggira ad
+uguali distanze, quinci e quindi il sole, al quale egli ora
+ascende, e del quale egli vuole qui far ammirare al lettore
+l'ammirabile collocazione, avendolo Dio posto a girare in quella
+parte del cielo dove dev'essere per bene di tutta la terra, come
+dir@a.
+
+	Questo dunque non @e altro che una preparazione o
+preambolo a dir del sole, eccitando alla lode divina per siffatto
+ordine e beneficio.
+
+	|8  L@i comincia.~  Nel cerchio dell'equatore,
+all'osservazione del quale per ora io ti chiamo.
+
+	|9  Di quel Maestro.~  Dio.  Si chiama qui Maestro,
+perch@e si parla dell'arte ammirabile di lui.
+
+	^Che dentro a s@e l'ama -- Tanto~ ecc.  Questo non @e
+altro che quel senso contenuto nel passo seguente dei proverbi:
+^Quando praeparabat caelos, aderam; quando certa lege et giro
+vallabat abyssos~ ecc. ^cum eo eram cuneta componens, et
+delectabar per singulos dies ludens coram eo omni tempore~ ecc.
+
+	|10  Che mai da lei l'occhio non parte.~  Accenna alla
+conservazione dell'universo, la quale non @e da meno che la prima
+creazione.
+
+	|11  Da indi.~  Dall'equatore.
+
+	|12  L'obliquo cerchio.~  L'Eclittica o Zodiaco.  Abbi
+qui dinnanzi la tua sfera celeste, e tutto sar@a chiaro.
+
+	^Che i pianeli porta.~  Che porta le 12 costellazioni
+zodiacali per le quali s'aggira il sole in un anno.
+
+	|13  Per soddisfare al~ ecc.  Perch@e dall'una e
+dall'altra parte dell'equatore goda il mondo de'loro influssi.
+
+	|14  E se la strada lor~ ecc.  E se l'Eclittica o Zodiaco
+non fosse parte a settentrione, parte a mezzogiorno, e quindi il
+sole colle sue costellazioni non girasse or da una or da un'altra
+parte, ma e Sole e costellazioni fossero tutte sul cerchio
+equatoriale, in tal caso molta virt@u ecc.
+
+	|15  Molta virt@u nel ciel~ ecc.  Nel cielo ci avrebbe
+molta virt@u che sarebbe inutile, p. e. se il Sole e le
+costellazioni si girassero sul solo equatore, tutto l'influsso
+del Sole e delle costellazioni sarebbe goduto col@a, e niente
+nelle parti pi@u lontane da lui.
+
+	|16  E quasi ogni potenzia~ ecc.  Perch@e se e Sole e
+costellazioni fossero sul loro equatore, sole le parti della
+terra a questo vicine avrebbero vita, sentendone esse sole la
+influenza; e le altre lontane, che sono le pi@u, resterebbero
+prive di questa vita che loro viene dal Sole e dai pianeti.
+
+	|17  Dal dritto.~  Dal dritto cerchio dell'equatore, che
+divide verticalmente l'Universo in due uguali emisferi, l'uno
+settentrionale, l'altro meridionale.  -- ^Pi@u o men lontano --
+Fosse il partire.~
+
+	Il partire, o lo scostarsi, o il diramarsi
+dell'eclittica, cio@e se il Sole (giacch@e di questo pianeta
+principalmente si parla) invece di andare fino ai tropici e di
+girare sempre in mezzo ad essi, o non arrivasse ai tropici, e
+quindi si teaesse sempre pi@u presso all'equatore, ovvero
+oltrepassasse i tropici, andando al di l@a di essi verso i poli;
+se dunque la cosa fosse cosi, vi sarebbe molto meno ordine
+nell'Universo, tanto in cielo quanto in terra.
+
+	Questa ipotesi Dante la prese da S. Giangrisostomo IX e
+X, Omilia al popolo antiocheno, dove una gran parte ha per
+titolo: ^Mundi naturalis descriptio~, e dove si ragionano con
+somma eloquenza e pari popolarit@a le principali malefiche
+conseguenze che ne avverebbero da questa ipotesi.
+
+	|18  Or ti riman, lettor~, ecc.  Or che ti ho narrato per
+accenni quest'ordine bellissimo dell'Universo, restrigendomi a
+quell'alta sua parte dov'@e l'equatore e l'eclittica, ora che ti
+ho toccato del danno che verrebbe all'Universo, nella ipotesi che
+il Sole e le sue costellazioni non si tenessero nei limiti loro
+assegnati dalla Provvidenza, ma, o stessero sempre sul solo
+Equatore, o non arrivassero ai tropici, o li oltrepassassero, ora
+dico, pensa e medita da te stesso le conseguenze particolari
+funeste che deriverebbero dall'alterazione di questo ordine
+ammirabile che qui non si fa altro che prelibare, ma che puoi
+vedere, deducendo quelle conseguenze tu stesso.  Sono appunto le
+conseguenze ragionate dal Crisostomo ^loco citato~, a cui
+evidentemente ci riporta Dante, e che sono veramente degne di
+esser lette e considerate.  Brunone Bianchi, seguendo il poeta,
+pretende che quel che qui tace Dante, e chi ci esorta a dedur per
+noi stessi non sieno, come sono infatti, le naturali conseguenze
+della ipotesi dantesca, ma sieno invece, indovinate che?  il papa
+e l'imperatore, quello inteso per l'equatore, questo pel zodiaco,
+schicherandovi le analogie tra quei due cerchi, e queste due
+persone.  ^Risum teneatis amici~!
+
+	|19  Quella materia~ ecc.  Il viaggio che ho incarico di
+scrivere.  Molti sono i luoghi in cui Dante si fa investire di
+questa autorit@a; fra gli altri nel Canto XXXIII del
+^Purgatorio~:
+
+     Queste parole si le insegna a'vivi.....
+       Ed haggi a mente, quando tu le scrivi;
+
+e nel Canto XVII del ^Paradiso~:
+
+     Tutta tua vision fa manifesta.
+
+	|20  Lo ministro maggior~ ecc.  Il Sole, che nella
+^Genesi~ @e chiamato ^luminare maius.~
+
+	|21  Che del valor del cielo~ ecc.  Che impronta e
+sigilla il mondo inferiore della virt@u del suo cielo, poich@e fu
+detto di sopra:
+
+     Questi organi del mondo cos@i vanno,
+       Come tu vedi omai di grado in grado,
+       Che di su prendono e di sotto fanno.
+
+	^Parad.~ II
+
+	Questo che va detto degli altri pianeti, va pur detto del
+Sole, sebbene con maggiore ampiezza.
+
+	|22  E col suo lume~ ecc.  Oltre le influenze tanto
+estese del Sole sul mondo inferiore notate nel verso antecedente,
+se ne nota qui un'altra tutta propria del Sole a riguardo della
+sola terra, che @e i misurar egli col suo lume il nostro tempo.
+A questo accenna la ^Genesi~ dove dice: ^Luminare maius ut
+praesset diei.~
+
+	|23  Con quella parte~ ecc.  Congiunto coll'ariete, al
+quale il Sole si congiunge sull'equatore, dov'esso equatore @e
+tagliato dall'eclittica, cominciando dal 21 marzo al 21 aprile.
+Ricordiamoci che noi al fine del ^Purgatorio~ abbiamo lasciato il
+Sole in 23 gradi di ariete, come si pu@o vedere nella Tavola X
+del ^Purgatorio~, e nella Tavola I del ^Purgatorio~, e nella
+Tavola I del ^Paradiso~, Canto I.
+
+	^Che su si rammenta.~  Questa parte si @e rammentata
+nella terzina superiore:
+
+     Leva dunque, lettore, all'alte ruote
+       Meco la vista dritto a quella parte
+       Dove l'un moto all'altro si percote.
+
+	Si percote cio@e il cerchio del zodiaco con quello
+dell'equatore nel punto che questi due cerchi si intersecano.
+
+	Qui si accenna il punto d'intersecazione in primavera,
+che ha l'ariete, a differenza dell'altro punto opposto che ha la
+libra in autunno.
+
+	|24  Per le spire, -- In che pi@u tosto~ ecc.  Con ci@o
+il poeta determina che il sole quand'egli vi ascese non era in
+libra, ma in ariete, che sono i due punti opposti
+d'intersecazione del zodiaco e dell'equatore.  Appunto quando il
+Sole @e in ariete (21 marzo sino al 21 aprile) viene verso noi
+(nord) e si allungano i giorni, per cui pi@u tosto s'appresenta
+ogni d@i, a differenza di quando @e nell'opposta libra, che si
+appresenta ogni d@i pi@u tardo.  ^Spire~ sono i giri che fa il
+Sole dall'equatore ai tropici, e qui al tropico del cancro.
+
+	|25  Ed io era con lui~ ecc.  Dante dichiara cos@i la sua
+salita da Venere nel Sole; la qual salita, come tutte l'altre, @e
+istantanea, cio@e tale che si effettua senza intervallo di tempo.
+
+	Ricordatevi ora di tutte le altre quattro precedenti
+salite, e vedrete che tutte sono bens@i istantanee, e che ci@o
+nulla ostante, il poeta seppe trovare ogni volta espressioni che
+dinotano una maggiore istantaneit@a.
+
+	Quest'ultima espressione supera tutte le altre.  Ci@o @e
+proprio di questa ascensione al cielo, dove tutto deve crescere
+progressivamente, sia per la natura dei cieli, che crescono e
+moto e perfezione, sia per la natura della Via Illuminativa, che
+perfeziona sempre pi@u il soggetto.  Le altre quattro precedenti
+le troverete accennate nella Tavola I del ^Paradiso~ al suo
+proprio casellino:  ^Accenni di salita.~
+
+	La istantaneit@a di questa V salita, @e tolta dal
+pensiero.  Qual cosa pi@u rapida della venuta in noi di un
+pensiero?  E che distanza ponete voi tra il venire di quel
+pensiero e l'accorgervi di averlo?
+
+	Nessuna; perch@e la venuta di un pensiero, e l'accorgervi
+di averlo @e un punto solo.  Pure il poeta seppe tagliar per
+mezzo anche questo punto, e vi trov@o quella differenza che @e
+impercettibile al calcolo umano.  Dessa per@o @e sempre un
+istante, ma un istante assai pi@u breve dello scocco d'una saetta
+dall'arco, e dell'arrivo alla sua meta, che Dante port@o altre
+volte per indicare istantaneit@a.
+
+	Se Dante in questo punto sale da Venere nel Sole, dunque
+egli ha compita la sua circolazione in Venere.  Vediamo dunque
+prima quanta sia stata la sua circolazione in Venere, e il tempo
+ch'essa porta (giacch@e la circolazione sola porta tempo) e poi
+vedremo quanta sia stata la sua salita pel solo spazio.
+
+	<Quanto al loro circolar moto (@e sempre il calcolo del
+Velutello che @e esattissimo in questa parte) con essa Venere nel
+suo concavo, essendo fin quivi dalla terra 167 semidiametri di
+quella, se gli aggiungiamo un semidiametro che sar@a dal centro
+alla superficie della terra, saranno 168 semidiametri.  E se li
+moltiplichiamo per tre e un settimo, faranno 528 semidiametri.  E
+di tanti sar@a il semicercolo della sfera di Venere nel suo
+concavo.  De'quali una ottava parte sar@a 66 semidiametri della
+terra.  E di tanti sar@a il loro quarto circolar moto in Venere.
+
+	Il V lor salire @e dal concavo di Venere al concavo del
+Sole, il quale @e una cosa medesima col convesso di Venere.  Ed
+Alfragrano pone che dalla terra al concavo del Sole sieno 1120
+semidiametri della terra, de'quali, trattone il concavo di
+Venere, che diciamo esser 167 semidiametri, restano 953
+semidiametri E di tanto sar@a stato questo lor quinto salire.>
+
+	Ora osserviamo una cosa d'immensa importanza.  Al momento
+che Dante entr@o nel Sole, erano le sei pomeri diane.  Trovandosi
+egli fuori della terra, e precisamente nel Sole, la regola delle
+sue ore non era che la revoluzione degli astri, da oriente in
+occidente, contando ventiquattr'ore dalla partenza di essi da un
+punto sino al loro ritorno al punto medesimo.  Ma se per compiere
+essi un cerchio intorno, impiegano 24 ore; per compiere un
+quadrante di cerchio, ne impiegheranno se.  Da ci@o ne viene che
+al fine d'ogni sei ore, il Sole, e con lui tutti gli altri
+pianeti, che pone Dante necessarii al suo volo, devono trovarsi
+al fine d'ogni quadrante.  Facciamo dunque adesso una dimanda:
+dove Dante deve trovare il Sole alle sei pomeridiane, che abbiamo
+presentemente, mentre egli si @e levato dalla terra quando il
+Sole era di poco passato il mezzogiorno del Purgatorio?  Egli
+deve trovarlo al fine preciso del primo quadrante, cio@e
+all'orizzonte della terra, che divide in due giuste met@a i due
+emisferi del Purgatorio e di Gerusalemme.  E appunto in questo
+momento delle sei pomeridiane, il Sole, dove entra Dante, trovasi
+all'orizzonte del Purgatorio e di Gerusalemme, come si pu@o
+vedere sul nostro Disegno Tavola II.
+
+	Cos@i l'orario serve di prova alla localit@a, e la
+localit@a all'orario.
+
+	Cos@i resta provata e riprovata l'esattezza del nostro
+Disegno del ^Paradiso~, in questa parte.
+
+	|26  E Beatrice~ ecc.  Costruisci: ^E quant'esser
+convenia da s@e lucente Beatrice, quella~ ecc.  Cos@i e non
+altrimenti esige il senso, checch@e altri se ne dica con poco
+buon criterio.
+
+	^Quella che si scorge -- Di~ ecc.  Sappiamo da tutte le
+altre volte che Beatrice @e salita a qualche nuovo cielo, ch'ella
+@e diventata sempre pi@u bella.  Questa bellezza che si accresce,
+@e la gloria accidentale, di che si aggiunge un grado a Beatrice
+pel gusto che prova la sua carit@a negli avanzamenti del suo caro
+guidato.
+
+	|27  S@i subitamente che~ ecc.  Siccome il salire da
+Venere nel Sole @e atto istantaneo, cos@i istantaneo dovea essere
+il tramutar sembiante di Beatrice dalla bellezza che avea in
+Venere, alla bellezza maggiore che acquist@o nel Sole.  E ci@o @e
+naturale perch@e la perfezione dello stato dei beati, che non
+hanno impedimento veruno alla lor carit@a, esige che all'atto
+segua subitamente l'effetto.
+
+	|28  Quant'esser convenia da s@e lucente~!  Se Beatrice
+in chiarezza di luce dovea sempre vincere la chiarezza del
+pianeta in cui entrava, per appartener ella nel cielo Empireo
+alle sedi pi@u elevate di esso, quale chiarezza dovea esser la
+sua, ora che @e nel Sole, astro pur si lucente?  -- ^Da s@e~, non
+per la chiarezza che avesse aquistata dal Sole, ma per lo
+sviluppo della chiarezza sua propria.
+
+	|29  Quel ch'era dentro~ ecc.  Quel che era Beatrice
+dentro al Sole ecc.  Con queste parole Dante si scusa di non
+poter descrivere quanto era lucente Beatrice poich@e entr@o nel
+Sole: Nel verso prima avea detto che era conveniente un
+accrescimento di splendore in lei, ma quanto questo fosse nol
+seppe dire, se non con una generica esclamazione.
+
+	Qui dunque reca la scusa del suo non saperla descrivere.
+
+	Altri intese questo delle anime, ma non @e vero.  Delle
+anime dir@a poi.  Perch@e Beatrice cresce tanto di luce?  @E il
+suo solito: ad ogni cielo che ascende diviene pi@u splendida
+perch@e dee sviluppare a Dante gradatamente la sua bellezza.  Qui
+poi la sua bellezza deve essere strordinariamente grande in
+isplendore, perch@e straordinario @e lo splendore del Sole a
+paraggio degli altri pianeti.  Notisi bene che la bellezza non si
+manifesta qui per colore, come fra noi, ma per lume, perch@e il
+fondo del Sole @e lume, e chi vi @e dentro per esser parvente
+deve aver maggior lume di esso Sole, altrimenti si confonde col
+Sole.
+
+	|30  Perch'io~ ecc.  Per quanto io ecc.
+
+	|31  Ma creder~ ecc.  Il poeta al solito, pio com'@e,
+prende da ci@o motivo a destare in noi un vivo desiderio del
+cielo.
+
+	|32  Che sovra il sol~ ecc.  Dovendo discorrere di una
+cosa, @e necessario averne l'idea.  Questa idea si ha col mezzo
+dei sensi.  Ma i sensi non ci danno luce maggior di quella del
+Sole.  Eppure qui si dovrebbe discorrere di tale un oggetto, che
+in luce vince il Sole.  Dunque non @e maraviglia se le fantasie
+nostre son basse a tanta altezza cio@e a descrivere una chiarezza
+che superi quella del Sole dove mai non giunse occhio mortale.
+Per esser Beatrice la rivelazione le convenia tanta fulgidezza di
+splendore.
+
+	|33  Tal era quivi.~  Notate bene questo ^Tal.~  Vuol
+dire che lo splendore che svilupp@o Beatrice salita nel Sole,
+quello stesso lo avevano i beati che col@a abitavano.  E ci@o sta
+bene, perch@e i teologi, che qui sono, si fanno belli della
+bellezza medesima della rivelazione che @e Beatrice.  -- ^Quarta
+famiglia.~  Il quarto ordine di beati, ossia il primo ordine
+della seconda gerarchia, che risponde al primo ordine della
+seconda gerarchia angelica.  Le Podesta.  Vedi Tav. II.  Questa
+quarta famiglia @e la famiglia dei Teologi, e da questa
+incominciano i veri santi, stati tali anche in terra e perci@o
+molti d'essi canonizzati dalla chiesa, a differenza dei beati dei
+cieli inferiori che andarono in paradiso anche per un sincero
+pentimento dei loro peccati fatto presso alla morte.  Come vedete
+tra questi e gli altri santi v'@e gran distanza, siccome v'ha
+immensa differenza tra la luce dei tre pianeti inferiori e questa
+del Sole.  Questa terzina @e detta per anticipazione.
+
+	|34  Mostrando come~ ecc.  Come produce il figlio
+generandolo, e come produce lo Spirito santo, spirandolo.
+
+	Trattandosi che quelli, di cui qui ragiona, sono teologi,
+@e tutto proprio qualificarli dai pi@u sublimi misteri della fede
+che furono la materia dei loro studi sulla terra.  Per questo si
+dice che il Padre eterno mostra loro la generazione eterna del
+Figlio, e la spirazione dello Spirito Santo; non gi@a perch@e
+mostri ad essi solo questo mistero, ma perch@e essendo questo
+mistero il pi@u sublime di tutti e la fonte di tutti, perci@o @e
+cosa pi@u da teologi.
+
+	|35  Il sol degli angeli.~  Dio, purissimo e
+semplicissimo spirito.  Gli angeli che sono anch'essi puri e
+semplici spiriti non ponno avere altro Sole.
+
+	|36  Digesto.~  Disposto.
+
+	|37  Ed a rendersi~ ecc.  E cotanto presto a rendersi a
+Dio con tutto il suo gradir.  Che @e questo gradir?  Da ^gradior,
+eris, gradi~, muoversi, dar passi.  @E il ^gradior~ usato da
+Dante un'altra volta:
+
+     E qual pi@u a gradir oitre si mette,
+
+che abbiamo veduto nel ^Purgatorio~ Canto XXIV, v. 61.
+
+	Anche il cuore ha il suo moto e i suoi passi; per questo
+si dice con tutto il suo gradir, cio@e col moto e col passo che
+@e proprio di lui.  Il gradire di questo luogo conferma l'altro
+del ^Purgatorio.~
+
+	|38  Mi fec'io; -- E s@i tutto~ ecc.  Ci@o dice il poeta
+per indicare quanto avanzamento avesse egli fatto nella Via
+Illuminativa, che qui percorre.  Lo scopo di questa via @e
+appunto di accendere nell'anima la divozione e l'amore a Dio.
+
+	|39  In lui.~  In Dio.
+
+	|40  Che Beatrice eccliss@o~ ecc.  Il detto mio amore a
+Dio fu tanto che momentaneamente oscur@o nell'oblivione la stessa
+Beatrice, ossia quasi obliai Beatrice.  Non dice spense
+nell'oblio, n@e oscur@o semplicemente, ma ^eccliss@o~, per farci
+notare che la soppressione avvenuta in lui della memoria di
+Beatrice non fu che momentanea, come momentanea @e l'oscurit@a di
+un pianeta per la ecclissi, e non fu nemmeno intera; fu una quasi
+oblivione.
+
+	@E proprio del fervore della divozione non vedere che
+Dio, non ricordarsi che di Dio.  A questo tendono tutti gli
+sforzi di chi guida un'anima per la Via Illuminativa.  Perci@o
+Beatrice, che @e questa guida per Dante, spinse ella stessa il
+suo guidato a s@i alto grado d'amore e di divozione da far per
+poco dimenticare s@e stessa; quando gli disse sopra: ^Ringrazia,
+ringrazia il Sol~ ecc.
+
+	|41  Non le dispiacque~ ecc.  Chi guida un'anima a Dio,
+quanto @e pi@u santo, e tanto pi@u egli gode che l'anima da lui
+guidata dimentichi tutto per Iddio, fia lui stesso che le @e di
+guida.  Ecco perch@e ^non le dispiacque~: ecco perch@e ^se ne
+rise.~
+
+	^S@i se ne rise -- Che lo splendor~ ecc.  Dovea Dante
+gettarsi tutto in Dio, ma dovea anche tornarsi al suo tema.  Come
+fare?  Egli fa che Beatrice sia causa dell'una e dell'altra cosa.
+Beatrice @e causa della prima coll'eccitamento: ^Ringrazia,
+ringrazia~ ecc.  Beatrice @e causa della seconda colla mostra
+d'un maggior riso degli splendidi occhi suoi.  La Rivelazione,
+che @e Beatrice, slancia l'anima in Dio, quando in Dio essa deve
+slanciarsi: e la stessa rivelazione la richiama da Dio a'suoi
+doveri, coll'attraenza della bellezza che essa Rivelazione ha da
+Dio.
+
+	|42  Unita.~  Nel solo Dio in che era dapprima.  ^In pi@u
+cose divise.~  La divise da Dio all'anime beate che erano molte,
+e che per non saper allora precisamente che cosa fossero le
+chiama pi@u cose.  Quelle anime fasciate entro a'loro vivi
+splendori gi@a si ponevano tutte intorno a lui nel momento che il
+riso degli occhi di Beatrice lo richiam@o da Dio.  Le cose sono
+legate a maraviglia.  Ecco che segue tosto la descrizione di
+quelle molte cose, ossia di quei fulgori vivissimi che ancor non
+sa dire che sieno.
+
+	|43  Io vidi pi@u fulgor~ ecc.  Sono i santi teologi che
+dalle carole che menavano intorno al centro solare, scendono a
+far corona intorno a Dante a Beatrice.  Come vedete, qu@i tutto
+@e cresciuto, cresciuto il numero dei santi, cresciuti i loro
+splendori, cresciuta la loro disposizione a soddisfare a Dante,
+cresciuto lo splendor di Beatrice, cresciuta la piet@a in Dante.
+Ti par di essere in un paradiso tutto diverso dai tre passati.
+Ma se non @e diverso, @e d'assai superiore, perch@e qu@i abbiamo
+i gran santi non solamente del cielo, ma e della terra, dove
+praticarono le virt@u in grado eroico, il che @e ben altro che
+essere stati buoni cristiani, o anche essere stati cattivi, ma
+convertiti a tempo per salvarsi, quali furono i beati dei tre
+pianeti inferiori.  Allora ci parve non potersi dar beatitudine
+maggiore.
+
+	Ma ecco il valente poeta farci apparire il passato come
+nulla a confronto del presente.
+
+	Che forza d'ingegno, di fantasia, di parola non conveniva
+posseder per levarsi a tanta altezza?  Eppure avremo altezze
+assai maggiori.  I fulgori di cui qu@i si parla erano 12, dei
+quali si d@a un disegno in fine del Canto.
+
+	^Vincenti.~  Vincenti non @e superanti in fulgidezza la
+fulgidezza del Sole, come tutti intesero, perch@e il poeta avea
+detto ci@o prima, quando disse:
+
+     Tal era quivi la quarta famiglia,
+
+e Dante non dice due volte la stessa cosa: ^Vincenti~ in questo
+luogo @e porgentisi le mani l'un l'altro, come usano di far
+coloro che danzano intorno ad un punto, e come usano di fare
+spesso i pittori nel colorir massimamente danze di fanciulli o di
+donzelle intorno a qualche oggetto lor sacro.  Con questo
+intreccio di mani, i nostri santi teologi dimostrano il
+bell'accordo ch'ebbero tra loro nelle verit@a teologiche.  Ma
+come ^vincenti~ pu@o significare porgentisi le mani l'un l'altro,
+se quei santi erano tutto lume splendentissimo?  Come si potea
+loro vedere le mani che si impalmassero a vicenda?
+
+	Rispondo che non occorreva veder n@e mani, n@e braccia
+per sapere ch'essi s'intrecciavano, ma bastava vedere luce unita
+a luce.
+
+	E perch@e si pongono cos@i intrecciati intorno a Dante e
+Beatrice?
+
+	Prima e soprattutto per far onore a Beatrice, che per
+essere la Rivelazione @e l'unica maestra dei teologi, il che i
+beati diranno da qu@i a poco: poi per far onore anche a Dante che
+avea tanto studiato la teologia alla Sorbona in Parigi, e n'era
+riuscito s@i valente.
+
+	|44  Pi@u dolce in voci~ ecc.  @E dir molto.  Che
+dolcezza di voce dovea esser mai quella, che vinceva la
+proporzione della loro luce, pure superiore a quella del Sole!
+
+	|45  Cos@i cinger~ ecc.  La figlia di Latona @e Diana,
+che in cielo @e Luna.  Quando l'aere @e pieno di vapori umidi,
+non gi@a di nuvole, caso che qui si esclude, allora si forma
+intorno alla luna una zona che diciamo alone.  Come questo cinge
+talvolta la luna, cos@i quei beati cingevano Beatrice e Dante.
+
+	|46  S@i, che ritenga~ ecc.  Non ad ogni grado di
+densit@a di vapori succede bellissimo e quasi consistente l'alone
+intorno alla luna.  Se la densi@ta @e scarsa riesce un alone
+sfumato alle estremit@a.
+
+	Non @e questo l'alone che descrive il poeta.  @E l'alone
+formato da una densit@a maggiore, la quale d@a all'alone non un
+languido contorno, ma un contorno spiccato, che ti sembra proprio
+un tratto forte di pennello.  Quando questo succede eccoti il
+filo netto o chiaro che fa la zona, ossia che circonda e stringe
+la zona, quasi perch@e non si dilegui.  A darvene un'idea in
+materie solide, questo ^filo che fa la zona~ sarebbe come quel
+cerchio di ferro che stringe e aduna una ruota di carrozza.
+Questo vuol dir qui Dante, ma i commentatori non si curarono di
+chiarirlo.  Ora come l'alone intorno alla luna @e tutto unito,
+cos@i tutti uniti o vincenti tra loro, secondo che dicemmo di
+sopra, erano i beati intorno a Dante e Beatrice.  Cos@i Dante ci
+spieg@o in questa similitudine la parola ^vincenti~, ed @e
+un'altra prova pel senso che noi le abbiamo dato.
+
+	|47  Nella corte del ciel~ ecc.  Nella terzina di sopra:
+^Io vidi~ ecc. il poeta avea detto due cose: 1.+a~  che i beati
+si posero a corona intorno a Dante e Beatrice, 2.+a~  che
+cantavano.
+
+	La prima cosa la spieg@o colla similitudine dell'alone
+che cinge la luna; la seconda la spiega colle gioie pi@u rare.
+Dice adunque che come si traggono talora a gran ventura dalle
+miniere certi capi di gioie di pregio al tutto singolare, ed
+anche unico, delle quali, per legge sovrana @e proibito fare
+l'esportazione, affinch@e tali gioie abbiano ad ornare piuttosto
+il paese nat@io che gli stranieri, cos@i, dice, @e di quel canto:
+esso @e tale che si pu@o sentire sul luogo, ma non pu@o
+descrivere qui in terra, chi di col@a ritorna.
+
+	@E graziosissima questa similitudine: essa ti fa del
+poeta un mercatante di gioie, che ritornato in patria si scusa
+a'suoi di non aver potuto portar loro certe gioie assai pi@u
+preziose, perch@e per legge sovrana in quei lontani paesi, ove
+fu, vi avea proibizione di venderle ad uso d'altri paesi.
+
+	|48  E il canto di quei lumi era di quelle.~  Era della
+natura di quelle gemme, che non si possono esportare.
+
+	|49  Chi non s'impenna~ ecc.  Chi non si mette l'ali (dei
+veri meriti) per volare lass@u, non potr@a mai saper da nessuno
+che sieno quei canti, ossia tutti saranno muti a dirgliene.  @E
+questo un bell'eccitamento al cielo, che Dante si spesso ripete
+da vero cristiano, e da vero amante di Dio.
+
+	|50  Poi.~  Poich@e.  ^Quegli ardenti soli.~  Quei beati
+che sono tanti Soli entro il Sole.  Si dicono ^ardenti~ per
+indicare che ardono pi@u del Sole, altrimenti questo epiteto
+sarebbe ozioso.
+
+	Gi@a dicemmo di sopra ch'essi splendeano pi@u del Sole, e
+sempre vedemmo che tutti i beati vinceano di luce il loro
+pianeta.  Ci@o era necessario, perch@e si potessero discernere.
+Si dicono ^Soli~ perch@e il Sole, che fu il loro dominatore, e da
+esso ricevettero gli influssi, @e l'astro della teologia.
+
+	|51  Si fur girati~ ecc.  Dante avea dette di questi
+beati 1.+o~  quanto splendessero; 2.+o~  quanto bene cantassero;
+restava che gli facesse danzare, poich@e tutti i santi deono
+danzare, come abbiamo veduto sin qui.  La danza @e l'espressione
+pi@u viva e sensibile della gioia del cuore.  Perci@o in Paradiso
+sempre danze.  La natura stessa ci porta a questa specie di
+manifestazione gioviale.  Gli antichi, massime gli Asiatici,
+usavano onorar Dio nelle loro feste religiose anche colla danza;
+perci@o Davide danzava dinanzi all'arca.  Questo costume @e
+rimasto fino ad oggi, e rimane ancora nella Spagna meridionale,
+dove fanciulli e fanciulle danzano nel presbitero alla
+esposizione del Venerabile, vestiti all'antica.
+
+	^Tre volte.~  Forse perch@e il tre @e numero perfetto, e
+forse per far omaggio alla SS. Trinit@a, di cui si parl@o per ben
+due volte in questo Canto, e che @e il mistero della pi@u alta
+teologia, e il primo tema teologico.
+
+	|52  Come stelle~ ecc.  @E questa, credo, l'unica
+similitudine che avesse madre natura per indicare la condizione
+ed i rapporti in cui si trovavano allora quei beati verso Dante e
+Beatrice.  Dante and@o a scavare fia questa sola.  -- ^Vicine~
+per indicare che vicino a Beatrice e Dante era pur la corona dei
+santi.  -- ^Fermi poli.~
+
+	Dante e Beatrice.
+
+	|53  Donne mi parver~ ecc.  Una ricchezza chiama l'altra.
+
+	Avendo messo in danza i beati, per farli poi fermare,
+come @e necessario, prende appiglio dalle stesse leggi della
+danza accompagnata dalla musica.  V'ha nei balli delle fermate,
+che non sono vere fermate, ma piuttosto sospensioni od aspetti
+per lasciar passare quelle due o quattro battute musicali che
+esige il ballo.  Si scorge evidentemente nell'aria dei ballerini
+ch'essi non s'arrestano per aver finito il loro ballo, ma per
+aspettare la nota che loro tocca, e perci@o si vede che stanno
+sempre in attesa di questa.  Ebbene, cos@i si fermarono quei
+beati.  Perch@e poi la similitudine fosse pi@u graziosa, invece
+di ballerini pose ballerine.  I ballerini non fanno mai
+belvedere.
+
+	Quanti tesori di gemme poetiche non ha finora messo in
+mostra questo brano di Canto!  Esso n'@e un magazzino, o
+piuttosto una miniera.
+
+	Eppur tanti s'annoiano del ^Paradiso~!  Che ignoranza!
+
+	|54  E dentro all'un.~  Dice ^dentro~ perch@e del beato
+non si vedeva che lo sprazzo luminoso raggiato intorno dalla
+persona, la quale cos@i era nascosta entro a'suoi stessi
+splendori.
+
+	^Quando.~  Alla latina per ^poich@e, perciocch@e.~
+
+	|55  Lo raggio della grazia~ ecc.  In questo e nei tre
+versi seguenti, il beato, che si mostra, com'@e infatti, istrutto
+dello stato primiero e presente del poeta, cio@e della sua vita
+rea e della sua conversione, vita rea e conversione per@o solo
+rappresentata da Dante, il beato, dico, con esso lui si
+congratula: 1.+o~  Di aver trovato appo Dio tanto di grazia da
+spegnergli nel cuore il falso amore, che avea quando era nella
+vita rea, e da accendergliene il verace, che @e il santo,
+med'antela grazia santificante, che oper@o in lui la conversione;
+2.+o~  Alla quale egli corrispondendo, accrebbe poi con atti
+d'amore lo stesso santo amore acquistato prima, e lo accrebbe
+mediante la Via Purgativa corsa per l'Inferno e pei Purgatorio, e
+lo accresce presentemente mediante la Via Illuminativa corsa
+dalla cima del Purgatorio sin qui, e che sar@a per correre in
+appresso, il che @e una moltiplicazione di grazia sovra grazia.
+
+	Come vedete, questo beato riepiloga in brevi tratti tutto
+il concetto cattolico della ^Divina Comedia~ dal principio sin
+qui, ossia dalla vita peccaminosa di Dante (sempre quale
+rappresentante del peccatore, e non gi@a quale realmente
+peccatore egli stesso) e dalla sua conversione sino a questo
+punto della Via Illuminativa.  La vita rea e la conversione @e
+accennata in queste parole:
+
+     Lo raggio della grazia onde s'accende
+     Verace amore........
+
+Tutta la Via Purgativa fatta in Inferno e Purgatorio, e una parte
+della Via Illuminativa fatta in Paradiso, ch'ebbe per iscopo di
+crescere l'amore santo acquistato, @e accennata in quelle altre
+parole:
+
+       ..... E che poi cresce amando,
+     Moltiplicato in te tanto risplende,
+       Che ti conduce su per quella scala.
+
+	Questo e non altro che questo intende di dire il beato
+che qu parla.  Anche questi versi non furono intesi come vanno.
+Si @de dato loro generalmente un cotal senso ristretto e
+indeterminato, ma non quel senso esteso e preciso che hanno
+infatti, per cui la bellezza cresce mille tanti, ed il concetto
+@e reso per intero e non per un quarto o per met@a, come si @e
+reso da tutti.
+
+	|56  Moltiplicato in te.~  Il primo raggio della grazia
+@e il raggio della conversione: tutti gli altri mezzi, che
+servono a perfezionare il convertito, sono una moltiplicazione
+del primo raggio della grazia che oper@o la conversione.  Essendo
+stato il poeta dopo la sua conversione avvenuta ai pi@e del
+Calvario, come si mostra nel I e II Canto dell'^Inferno~,
+perfezionato con altri mezzi al tutto straordinarii,
+somministrati da Dio, quali sono il viaggio per l'Inferno,
+Purgatorio e Paradiso, sino al punto presente, viaggio che altro
+non @e, come si disse, che un corso di santi spirituali esercizi
+per la Via Purgativa, Illuminativa, e quella che poi verr@a,
+Unitiva, perci@o questi mezzi straordinarii formano quel cumulo
+di grazie, ossia quel raggio della grazia moltiplicato, che qui
+accenna il poeta.
+
+	^Tanto risplende.~  Tanto risplende per esserti stata da
+Dio concessa la grazia non solamente della conversione, e del
+viaggio per l'^Inferno e Purgatorio~, ma fin quella che ti
+conduce su per la scala dei nove cieli sino all'Empireo,
+affinch@e tu avessi a dare all'anima tua tutta la santificazione
+possibile ad un'anima, non solamente cogli esercizii della Via
+Purgativa, ma e con quelli della Illuminativa che or percorri e
+della Unitiva, alla quale giungerai.
+
+	|57  U'senza risalir~ ecc.  Dove o la quale scala nessuno
+discende senza risalirla, perch@e @e la scala dei beati che
+vivono nel cielo Empireo superiore a tutti i cieli, per la quale
+nessun discende per mandato di Dio a qualche officio, qual era il
+presente, senza che poi la rifaccia per ritornare al suo cielo
+Empireo, ed al suo Dio.
+
+	|58  Qual ti negasse~ ecc.  Nessuno potrebbe negarti ^il
+vin della sua fiala -- Per la tua sete.~  Allegoria per indicare:
+nessuno potrebbe non soddisfare a'tuoi desiderii.  L'atto di
+carit@a che userebbero i beati in soddisfare ai desiderii di
+Dante, si chiama ^vino~ e vino della loro fiala.
+
+	Ecco il pensier di Dante.  I santi in cielo siedono ad un
+banchetto d'amore, dove ciascuno ha dinanzi a s@e la sua fiala o
+bottiglia piena di tanto vino, quanto si conviene al grado che
+esso occupa in cielo.  Quella quantit@a dunque di vino propria di
+ciascuno @e la carit@a che ciascuno possede in cielo
+proporzionata al suo grado.
+
+	Il beato fa parte volentier[i?] di questa sua carit@a al
+suo prossimo, anzi non pu@o negarla, ed @e, mi si permetta il
+dirlo, come quei generosi che non sanno bere senza darne ad ogni
+costo agli amici.  L'allegoria del vino potrebbe forse parer
+bassa a taluno, che non sa come il santo amore, o la carit@a
+nella Cantica ci viene descritto sotto il simbolo del vino, il
+quale produce nel corpo quegli effetti, che la carit@a produce
+nell'anima.
+
+	|59  Per la tua sete.~  Avendo chiamato vino della
+propria fiala la carit@a propria di ciascun beato, dovea per
+conseguenza chiamar ^sete~ il desiderio di Dante.
+
+	|60  Se non com'acqua~ ecc.  L'acqua cala al mare
+necessariamente, Dunque il dire acqua che non cali al mare @e
+dire cosa impossibile.
+
+	Dunque ecco il senso come @e impossibile acqua che non
+cala al mare, cos@i @e impossibile che il beato non soddisfaccia
+ai tuoi desideri che ti ha messo Dio.
+
+	|61  Di quai piante~ ecc.  Di quai beati sia composta
+questa ghirlanda, che sopra si disse corona.  Avendo detto
+ghirlanda, i santi che la componevano erano piante.
+
+	|62  Vagheggia -- La bella~ ecc.  I teologi vagheggiano
+la Rivelazione loro maestra infallibile.
+
+	|63  Ch'al ciel t'avvalora.~  Non @e la teologia ma la
+Rivelazione che possa dar valore a levarsi al cielo.  La teologia
+per quanto sia sublime @e sola scienza: avvalorer@a al pi@u la
+mente del teologo ad innalzarsi al cielo, ma non gi@a tutta la
+persona, qual @e il caso di Dante.
+
+	Inoltre l'agente in cui si attribuisce tanta possa di
+elevare al ciel tutta la persona, deve avere in sua disposizione
+la grazia; e questa non @e gi@a in disposizione della teologia,
+ma della Rivelazione.
+
+	@E tempo dunque che si distingua la Rivelazione dalla
+Teologia, e che si faccia Beatrice rappresentante di quella e non
+di questa.
+
+	|64  Io fui degli agni.~  Lo fui dei frati del santo
+ordine religioso, che si dir@a.  Udimmo nel Canto III precedente
+l'apologia dell'ordine religioso femminile; ed ora udiamo quella
+degli ordini maschili, Francescanie e Domenicani, appartenenti
+alla vita attiva, e che furono li due ordini principali del medio
+evo.  Nei Canti poi XXI e XXII il poeta ci far@a l'apologia degli
+ordini contemplativi, i pi@u cospicui de'quali erano allora i
+Camaldolesi ed i Benedettini.
+
+	Per Dante dunque non @e punto dubbio il merito sommo di
+queste ecclesiastiche istituzioni, e un tanto giudizio dovrebbe
+pur pesare sui consigli dei loro avversari.  E si noti che Dante
+ne fa le apologie in momenti nei quali v'avean religiosi poco
+fedeli alla regola.  Avviso a chi tocca.
+
+	|65  Che Domenico mena~ ecc.  San Domenico fondatore
+dell'Ordine dei Predicatori nel 1216.
+
+	^Per cammino.~  Per cos@i santa regola di vita che ecc.
+
+	|66  U'ben s'impingua~ ecc.  @E si santa la regola che,
+se ben si osserva, si giunge a gran perfezione.  Presentato
+l'ordine sotto l'allegoria della greggia, del pastore, degli
+agnelli e dei pascoli, bisognava chiuderla colla stessa allegoria
+dicendo ^impinguarsi~ per santificarsi.
+
+	|67  Questi che m'@e a destra~ ecc.  Era naturale che
+volendo indicare a Dante tutti i componenti la santa ghirlanda,
+cominciasse alla sua destra, che @e la parte pi@u nobile, e nella
+sua destra cominciasse dal suo vicino.
+
+	|68  Frate e maestro fummi.  Frate~ s'intende dei
+Predicatori.
+
+	Come s'intende questo?  Perch@e lo dice suo ^maestro~, e
+i religiosi di Ordini non hanno altri maestri che quelli dello
+stesso Ordine.
+
+	 -- ^Ed esso Alberto -- @E di Cologna~ ecc.  Egli @e
+Alberto Magno di Cologna mio maestro, ed io Tomaso d'Aquino suo
+discepolo.  Notatel'artifizio e la delicatezza di Dante.  S.
+Tomaso avrebbe dovuto nominare prima s@e stesso che parlava, e
+ch'era capo di tutti, perch@e tutti super@o nella scienza
+scolastica.  Ma ci@o non andava bene.  Come dunque il poeta ha
+combinato la cosa?  Con porgli allato il suo stesso maestro.
+
+	In tal caso poich@e ^non est discipulus supra magistrum~
+si poteva con tutta convenienza nominar prima Alberto e poi
+Tomaso.
+
+	Inoltre @e sempre questo l'uso di Dante suggeritogli
+dalle leggi della civilt@a, che quando uno dee parlare di s@e e
+di un altro, prima parli dell'altro e poi di s@e.
+
+	Trattandosi di questi due sommi teologi scolastici, credo
+bene dir di loro con qualche diffusione, traendone le notizie da
+Ladvocat.
+
+	<Alberto il Grande, di Lawinghen, uno dei pi@u dotti
+teologi del XIII secolo, fu provinciale dei Domenicani, di poi
+vescovo di Ratisbona nel 1260.  Rinunzi@o questa dignit@a per di
+nuovo esercitarsi nella Universit@a, e nel Chiostro.
+
+	Assistette al Conc. Gen. di Lione nel 1274 e mor@i in
+Colonia il 15 novembre 1282.  Dicesi che abbia inventate
+ingegnosissime macchine, e che la scuola, ov'egli insegnava in
+Parigi, non potendo contenere i suoi scolari, fu necessitato a
+fare le sue lezioni in quella piazza, che dal suo nome fu
+chiamata ^Place Maubert~, quasi dicasi di ^Maestro Alberto.~>
+
+	<S. Tomaso d'Aquino celebre dottore della Chiesa
+dell'Ordine dei Domenicani, ed uno de'pi@u begli ingegni, e dei
+pi@u dotti uomini del secolo XIII, nacque nel 1227 dell'illustre
+ed antica casa dei Conti d'Aquino.  D'anni 5 fu posto a Monte
+Cassino per esservi allevato.
+
+	Fu mandato poi a Napoli, ove prese l'abito di S. Domenico
+nel 1243 Quindi si port@o a Parigi, e vi studi@o per qualche
+tempo, e nel 1214 and@o a Colonia per fare i suoi studi sotto
+Alberto il Grande.  Egli segu@i l'anno dopo questo celebre
+Dottore a Parigi, sotto cui egli stud[-?]@o sino al 1248.
+
+	<Ritorn@o con lui a Colonia, e vi dett@o filosofia, la
+Sacra Scrittura e le sentenze.  S. Tomaso ritorn@o a Parigi nel
+1251, e vi fu ricevuto dottore nel 1257, e vi si distinse colle
+sue lezioni e colle sue predicazioni.  Alcuni anni dopo venne in
+Italia, egli segu@i i Papi, e insegn@o in tutti i luoghi ove
+dimorava.
+
+	<Ritorn@o ancora a Parigi nel 1269, e v'insegn@o la
+teologia con tanta riputazione, che fu sopranominato l'^Angelo
+della scuola, il Dottore Angelico, e l'Aquila dei Teologi.~  Il
+Re S. Luigi ebbe per lui una stima particolare, e lo fece sovente
+mangiare alla sua tavola.  Carlo re di Sicilia, fratello di S.
+Luigi, che avea altra volta offerto a S. Tomaso l'arcivescovado
+di Napoli, lo dimand@o nel 1272 con tante istanze ad insegnare
+nella medesima citt@a, che non si pot@e dirgli di no.  S. Tomaso
+dimor@o in Napoli sino al 1274.
+
+	Ma essendo partito in questo anno per andare al Conc.
+Gen. di Lione, ed avendo altrove volto il cammino per andare a
+vedere la sua nipote maritata ad Annibale di Ceccano, cadde
+ammalato nel loro castello.
+
+	Poi sentendosi molto male si fece portare nel monastero
+di Fossa Nuova dell'Ordine de' Cistercensi, ove mor@i santamente
+a'7 marzo 1274 d'anni 48.  Giovanni XXII lo canonizz@o nel 1323.>
+
+	|69  Esser vuoi certo~ ecc.  Vuoi esser informato dal
+latino ^certiorem fieri.~
+
+	|70  Girando su.~  Girando intorno.  La corona de'santi
+era orizzontale non verticale.
+
+	|71  Esce del riso.~  Tutta la persona del beato era
+luminosa, ma la faccia lo era pi@u del resto, e pi@u del reso
+della faccia la bocca e gli occhi.  Perci@o si fa notare il
+fiammeggiar del riso; perciocch@e ridono tanto la bocca quanto
+gli occhi.  Della bocca @e chiaro per s@e; degli occhi, si @e
+detto poco fa anche in questo Canto:
+
+     Che lo splendor degli occhi suoi ridenti.
+
+	Notate poi ancora la variet@a colla quale si vengono
+additando i santi del beato serto.  Intanto per indicar questo,
+si dice il suo fiammeggiare, quasi il suo fiammeggiare fosse la
+sua persona.  @E una bellezza di stile che non pare, eppure @e
+tanta.
+
+	|72  Di grazian~ ecc.  Valga per nota la biografia che ne
+fa il Ladvocat: <Graziano celebre religioso Benedettino del
+secolo XII, nativo di Chiusi, impieg@o quasi 24 anni a comporre
+nel monastero di Bologna un'opera che gli acquist@o una fama
+immortale.  La intitol@o egli Decreto, o ^Concordantia
+Discordantium Canonum~, perch'egli procura in essa di conciliare
+i canoni, che sembrano contrari fra s@e.  Publicolla verso il
+1151.  Siccom'egli s'ingann@o talvolta in prendendo un canone
+d'un concilio, od un passo d'un padre per un altro, ed ha sovente
+citato de'falsi Decretali, diversi autori si sono affaticati a
+correggere i suoi errori, e principalmente Antonio-Agostino nella
+sua opera eccellente intitolata ^De emendatione Gratiani.~
+Graziano era contemporaneo di Pietro Lombardo e di Pietro
+Comestore, o il ^Mangiatore.~  Alcuni autori hanno creduto
+altres@i, che questi tre grandi uomini fosser fratelli e
+bastardi; ma questi due ultimi spropositi sono una favola
+inverosimilissima.>
+
+	^L'uno e l'altro f#oro.~  Tutti i canoni son della
+Chiesa; ma que@i canoni riguardavan materie ecclesiastiche e
+materie civili, perch@e per molti secoli non c'era altra legge,
+anche pel foro civile, che i canoni della Chiesa.
+
+	|73  Che piace in Paradiso.~  Questo riguarda lo spirito
+con cui sono fatte le concordanze dei canoni che sembrano
+discordanti.
+
+	Siccome poi Graziano @e lodato per aver atteso ai
+Decretali, e nel Canto passato si biasimano gli ecclesiastici che
+attesero ai Decretali, perci@o si dice qu@i:
+
+     Aiut@o s@i che piace in Paradiso,
+
+avendo egli atteso ai Decretali cos@i da non trascurare il resto
+pi@u importante di sua profession religiosa, mentre degli
+ecclesiastici dei suoi tempi, Dante avea detto: ^solo ai
+Decretali si studia~, il che era cosa ben diversa dallo studio di
+Graziano.
+
+	|74  Quel Pietro fu~ ecc.  D'uomo si grande diamo la
+biografia del Ladvocat: <Pietro Lombardo, celeberrimo teologo del
+XII secolo, chiamato anco il ^Maestro delle Sentenze~ fu detto
+^Lombardo~, perch@e era di Novara in Lombardia.  Egli si distinse
+talmente colla sua scienza nell'universit@a di Parigi, che fugli
+dato un canonicato in Chartres, e poi fu eletto vescovo di Parigi
+verso il 1159.  Filippo figlio del re Luigi il grosso, fratello
+di Luigi il giovine, rifiut@o questo vescovado per cederlo a
+Pietro Lombardo, ch'era stato suo maestro, volendogli con ci@o
+dimostrare la sua riconoscenza.  Pietro mori nel 1164.  Havvi di
+lui 1.+o~  l'eccel.  Opera delle Sentenze, divisa in 4 libri,
+sopra dei qual@i Guglielmo d'Auxerre, Alberto il Grande, S.
+Tomaso, S. Bonaventura, Guglielmo Durando, Giulio di Roma,
+Gabriele Maggiore, Scoto, Okam, Estio e diversi altri hanno fatto
+dei Commenti.
+
+	Puossi considerare questa sua Opera come la sorgente e
+l'origine della teologia scolastica nella Chiesa Latina; 2.+o~
+de' Commenti sopra l'Epistole di S. Paolo.>
+
+	^Con la poverella.~  Pietro Lombardo nel proemio alle sue
+sentenze dice appunto di darle alla Chiesa, unendo e paragonando
+la sua offerta a quella che fece la poveretta che pose due
+piccioli nel Gazofilacio di Gersualemme, come si narra in s, Luca
+(Evang. c. XXI).
+
+	Eccone le sue parole: ^Cupientes aliquid de tenuitate
+nostra cum paupercula in Gazophylacium Domini mittere.~  Ci@o fa
+spiccare la umilt@a profonda in uomo di tanto sapere.  Offrire
+un'Opera che @e un vero tesoro, e offerirla riputandola la pi@u
+grande meschinit@a!
+
+	|75  La quinta Luce.~  La prima fu lo stesso S. Tomaso,
+la seconda Alberto Magno, la terza Graziano, la quarta Pietro
+Lombardo, la quinta la presente che @e Salomone figliuolo di
+Davide.  Perch@e Dante pose Salomone in cielo e in questo cielo?
+Lo pose in cielo, perch@e essendo dubbia la sua sorte, egli era
+in libert@a di crederlo salvo.
+
+	Lo pose poi in questo cielo, e nel Sole, per essere stato
+il pi@u profondo anche nella scienza teologica, il cui proprio
+pianeta si @e il Sole per esser questo la luce per eccellenza,
+come luce per eccellenza @e la verit@a e la sapienza teologica.
+
+	^Ch'@e tra noi pi@u bella.~  Come mai Salomone @e luce
+pi@u bella di tutti gli altri undici teologi, fra i quali ve n'ha
+tanti di santi, come Tomaso, Dionigi, Isidoro e Beda?  Rispondo
+che dal momento che Dante ha creduto bene di valersi della
+libert@a in cui era di collocare Salomone in Paradiso, era anche
+lecito a lui di farlo pi@u santo di tutti questi.  Chi pu@o
+infatti asserire il contrario?
+
+	Ma si dice, egli cadde nella volutt@a e nella idolatria.
+
+	Vero, ma vi cadde da vecchio, onde quando si convert@i
+prima di morire, giacch@e questo si suppone, rivissero i suoi
+meriti precedenti, i quali erano tanti da poterlo fare un gran
+santo del Paradiso.  Chi dice ch'era ^pi@u bella~, perch@e ebbe
+una sapienza pi@u estesa di tutti, non dice il vero.  La gloria
+del Paradiso, indicata dalla luce, e la maggior gloria, indicata
+dalla maggior luce, non @e frutto veramente della sapienza, e
+della maggior sapienza, se non in quanto si @e degnamente
+corrisposto in vita a questa stessa sapienza.  Se non si fosse
+corrisposto, non ostante una sapienza anche maggiore di quella di
+Salomone, si cadrebbe in dannazione.  Io non ho mai veduo questo
+passo dilucidato a dovere.
+
+	|76  Spira di tale amor che~ ecc.  Spira, esce fuori, da
+tale anima amante che ecc.  Cos@i tutti che commentano questo
+passo.
+
+	Avrei per@o una difficolt@a contro questo senso, e
+sarebbe il presentarci Salomone sotto il carattere dell'amore,
+mentre questo carattere non @e delle anime del Sole, ma di quelle
+di Venere.  Come gi@a avrete osservato, di nessuno dei quattro
+santi passati, n@e di quegli latri sette che vedremo si nota il
+carattere dell'amore.  E ci@o con ragione, perch@e il carattere
+dei teologi @e la luce, ossia la verit@a, che nel santo vangelo
+si chiama luce.  Avrebbe per@o potuto il poeta fare un'eccezione
+per Salomone, quale scrittor della cantica che @e tutta cosa
+d'amore, divino s'intende, essendo come un epitalamio di nozze
+tra l'anima e Dio.  Ad ogni modo la difficolt@a non si dilegua
+per questo.
+
+	Sarebbe per altro mai possibile (per dire una mia
+opinione) che il poeta avesse scritto: ^Spir@o di tale amor~, in
+luogo di ^spira di tale amor~, accennando cos@i agli amori
+profani in che Salomone cadde verso il fine della sua vita,
+cagion per cui tutto il mondo rimase incerto della eterna sua
+sorte?  Certo che cos@i la seconda proposizione, correlativa
+della prima, avrebbe un senso molto pi@u chiaro e storico che non
+dicendosi ^spira di tale amor.~  @E poi facile supporre il
+cangiamento della ^o~ accentata in ^a~, solo che nella scrittura
+di Dante ci sia stato l'accento un po'troppo abbasato ed
+approssimato alla ^o~ per es. @o.~  Dico il vero questa variante
+mi piacerebbe assai pi@u che la comune ^spira~ che per lo meno mi
+lascia un senso dubbio.
+
+	|77  L'alta mente.~  Salomone.  Della sapienza
+impareggiabile di Salomone si parla uel lib. III dei Re c. III.
+
+	|78  Fu messo.~  Si dice ^fu messo~, perch@e la sapienza
+di Salomone fu infusa, non aquisita.  Egli l'avea chiesta a Dio
+dietro l'offerta di chiedere, che gliene avea fatto prima il
+Signore.  -- ^Se il vero @e vero.~  La verit@a non pu@o esser che
+vera; e appunto quella che si asserisce nella Santa Scrittura @e
+verit@a infallibile.
+
+	@E da questa verit@a infallibile che si fa l'elogio della
+sapienza, piuttosto unica che rara, di Salomone.
+
+	|79  A veder tanto non surse il secondo.~  @E appunto
+quello che di Salomone si assevera nel lib. III dei Re c. III v.
+12: ^Ecce feci tibi secundum sermones tuos, et dedi tibi cor
+sapiens et inteligens in tantum ut nullus ante te similis tui
+fuerit, nec post te surrecturus sit.~
+
+	|80  Di quel cero.~  Metafora.  Come il cero risplende di
+luce, cos@i l'anima di questo sommo teologo.  Egli @e S. Dionigi
+Areopagita che scrisse ^de Divinis nominibus et de Angelica
+hierarchia~, nella quale parla della natura degli angeli e del
+lor ministero, ordine in cui sono disposti, e servizio che fanno.
+
+	|81  Pi@u addentro vide.~  Avanz@o tutti gli altri
+dottori in questa materia teologica.
+
+	|82  Nell'altra piccioletta~ ecc.  Perch@e la fa
+picciola?
+
+	Perch@e il personaggio di cui si parla sommo in eloquenza
+e stile, non fin cos@i sommo in divinit@a, come vedrassi dalla
+sua biografia, che @e necessario dare, nell'altra nota.
+
+	|83  Quell'avvocato~ ecc.  Dicendosi avvocato non
+s'intende un difensore di cause forensi, secondo che porta il
+senso comune e moderno, che ci@o non farebbe all'uopo; ma
+s'intende un difensore od apologista della religione cristiana.
+-- ^Dei tempi cristiani.~
+
+	Tempi cristiani secondo il senso che ha qui la parola, si
+dicono a distinzione dei tempi pagani.  Tempi pagani furono sino
+a Costantino il Grande, perch@e sino allora domin@o la idolatria,
+e il cristianesimo dovea starsi nascosto.  Tempi cristiani da
+Costantino in poi, perch@e, mediante la conversione di questo
+imperatore, si cangi@o la scena dei tempi, la idolatria, sino
+allora trionfante e maniresta, fu sol tollerata, e il
+cristianesimo sino allora nemmeno tollerato, fu trionfante e
+publico.  Per altro le follie pagane inveterate dall'uso di tanti
+secoli, continuavano a far guardare il cristianesimo, divenuto
+omai religion dello Stato, come una credenza nociva.  Perci@o
+v'ebbe allor bisogno d'un apologista, adattato alle esigenze dei
+tempi e diverso dagli apologisti antichi dei tempi pagani.
+Questi fu il famoso Lattanzio e non Orosio.
+
+	Ma siccome alcuni stanno per quello ed altri per questo,
+cos@i a dirimere questa lite basteranno le loro biografie, dalle
+quali si conchiuder@a per Lattanzio e non per Orosio, e dalle
+quali pure risulter@a la spiegazione dell'altro verso:
+
+     Del cui latino (stile e materia) Agostin si provvide,
+
+avendo anche sant'Agostino nella sua famosa opera della ^Citt@a
+d@i Dio~, trattato gli argomenti medesimi di Lattanzio, ed
+attinto al suo stile brillante.
+
+	<Lattanzio (Lucio Celio Firmiano) rinnomatissimo autore
+ecclesiastico del principio del IV secolo (ecco i ^tempi
+cristiani~) era africano, giusta il Baronio, e, secondo altri, di
+Fermo, nella Marca d'Ancona, donde credono che fosse
+soprannominato Firmiano.  Studi@o la rettorica sotto Arnobio, e
+di poi la profess@o in Africa, ed in media con tale applauso, che
+Costantino imperadore (ecco che ci troviamo ai tempi cristiani di
+Dante) lo scelse per essere precettore di suo figlio Crispo
+Cesare.  Lattanzio, anzich@e ricercar piaceri e richezze alla
+corte, vi men@o una vita cos@i povera, che, al riferir d'Eusebio,
+mancava spesso delle cose necessarie.  Ci rimangono molte sue
+opere benissimo scritte in latino (ecco il latino di Dante inteso
+per materia e stile): 1.+o~  Un libro della collera di Dio; 2.+o~
+un altro dell'opera di Dio, in cui prova la creazione dell'uomo e
+la Provvidenza divina; 3.+o~  le Istituzioni divine in sette
+libri.  Di tutto ci@o anche sant'Agostino nella sua grand'opera
+^La citt@a di Dio~, per cui Dante scrisse:
+
+     Del cui latino Agostin si provvide.
+
+	Questa fra tutte le opere di Lattanzio @e la pi@u
+considerabile (come ^La citt@a di Dio~ @e il capo d'opera fra
+quelle di Agostino) Ivi si accinge a provare la religione
+cristiana, ed a constatare tutte le difficolt@a, che se le
+possono opporre.  Combatte ivi sodamente e con forza tutte le
+illusioni del paganesimo (lo stesso anche Agostino, ma
+adattandosi ai bisogni del tempo, alquanto cangiati dopo un
+secolo di tempi cristiani); ma bisogna confessare con san
+Girolamo, che Lattanzio sa meglio abbattere gli errori dei
+pagani, di quel che sia valente a stabilire i dogmi dei
+cristiani, n@e va sempre esente da errori, essendosi applicato
+pi@u all'eloquenza ed alla filosofia, che allo studio de'nostri
+misteri e della teologia (ecco perch@e Lattanzio @e ^piccioletta
+luce~).  Il suo stile @e puro, chiaro e naturale; le sue
+espressioni nobili ed eleganti (questo sono pure le prerogative
+dello stile di sant'Agostino nella ^Citt@a di Dio~).  In una
+parola Lattanzio fra tutti gli antichi autori ecclesiastici
+Latini @e il pi@u eloquente, ed @e quello che meglio scrisse in
+latino, toltone forse Sulpizio Severo, il che gli ha meritato il
+nome di Cicerone cristiano.  Ecco qui ribadito il concetto del
+verso:
+
+     Del cui latino Agostin si provvide.>
+
+Ladvocat, ^Biografia~, i cui cenni paiono esser fatti
+nell'intento di commentare questo passo dantesco.
+
+	Ora vediamo come non sia possibile che l'^Avvocato~
+accennato qui da Dante sia Orosio, secondo che altri vorrebbe.
+La sua biografia tolta dallo stesso Ladvocat, dichiarer@a tutto.
+Eccola:
+
+	<Orosio (Paolo) sacerdote di Tarragona in Catalogna nel V
+secolo (notate bene l'epoca e le relazioni di lui con Agostino,
+dalle quali risulter@a a luce di sole essere affatto impossibile
+che sant'Agostino si provvedesse del latino d'Orosio) fu mandato
+da due vescovi spagnoli nel 414 a sant'Agostino.  Dimor@o un anno
+con questo santo Dottore, e fece presso di lui grandi progressi
+nella scienza della Sacra Scrittura (dunque non Agostino apprese
+da Orosio, ma Orosio da Agostino).  Sant'Agostino mandollo nel
+415 in Gerusalemme per consultare san Girolamo sopra l'origine
+dell'anima.  Nel suo ritorno compose, per consiglio di
+sant'Agostino, la sua Storia in sette libri, dal principio del
+mondo sino al 416 (quest'opera non gli d@a certo il carattere di
+Avvocato).>  Lasciamo il resto che non fa per noi.
+
+	Ora si potr@a giudicare con quanto poco fondamento il
+signor canonico Bianchi abbia scritto su questo passo di Dante le
+seguenti parole: <Qualche moderno ha opinato che l'^Avvocato dei
+tempi cristiani~, inteso da Dante sia Lattanzio.  Ma per quanto
+possano convenire in parte anche a Lattanzio le qualit@a qui a
+ccennate, io ritengo che meglio e pienamente sieno investite
+(^sic~) ad Orosio.>
+
+	|84  L'occhio della mente~ ecc.  Dietro alle sole lodi
+che san Tommaso fa d'uno e d'altro beato, non pu@o andar che
+l'occhio della mante.  Si sa poi che all'occhio della mente tien
+dietro anche l'occhio del corpo.  -- ^Trani.~  Accorciato di
+^traini~, trascini, o meni.
+
+	|85  Con sete rimani.~  Supposto il caso che dalla
+settima passi ad osservar l'ottava, @e l'ottava che ti mette in
+desiderio di s@e, per sapere chi sia.
+
+	|86  Per vedere ogni ben.~  Per veder Dio.  La
+beatitudine consiste in veder Dio.
+
+	|87  Fa manifesto.~  Costruisci cos@i: Fa manifesto
+essere il mondo fallace, e lo fa manifesto nella sua stessa
+persona, mal pagata dal mondo, e nelle opere che ha scritto sulla
+fallacia del mondo.  -- ^A chi di lei ben ode.~  A chi non ha
+tristo concetto della sua persona giustificandone i fatti e gli
+seritti che potrebbero aver aria di reit@a.
+
+	|88  Lo corpo ond'ella~ ecc.  Per intelligenza di questa
+terzina e dell'altra superiore, non occorre che dare la biografia
+di questo beato.  Eco quella del Ladvocat:
+
+	<Boezio, uno dei migliori scrittori e poeti latini del
+suo tempo, nacque in Pavia nel secolo V da una delle pi@u nobili
+famiglie di Roma.  Fece li suoi studi in Atene, e vi divenne
+versato nelle scienze, principalmente nella filosofia, seguendo i
+sentimenti di Aristotele.  Ritornato a Roma fu innalzato alle
+cariche di senatore e patrizio, e sino al consolato nel 487.
+Boezio nel 500 fece in nome del Senato il panegirico di Teodorico
+re de' Goti per lo suo ingresso in Roma.  (Ecco una cosa in cui
+Boezio potrebbe parer riprensibile, senza esserlo).  Fu
+nuovamente console nel 510 e nel 511.  Ma nel 523 avendo fatte
+alcune rimostranze contro le vio lenze di Teodorico, fu presso di
+lui accusato di voler congiurare unitamente all'imperadore
+Giustino contro i Goti (altro punto in cui Boezio potea parer
+riprensibile senza esser vero il fatto che gli veniva imputato, o
+veramente senza che nel fatto pure ammesso ci potesse esser
+colpa).  Infatti da un'antica prefazione de' Libri della
+Consolazione, scoperta nella Biblioteca Ambrosiana in Milano dal
+P. Mabillon, si comprende che Boezio teneva secrete intelligenze
+co' Greci, ed ideava di sottrarre la citt@a ed il Senato Romano
+al potere dei Goti, coll'assistenza dei Greci.  (Noto che una
+prefazione, di chi sa chi, ad un libro di Boezio, per quanto
+antica sia, non mi pare argomento certo per ammettere la congiura
+di Boezio).  Fu egli arrestato con suo suocero Simmaco, e
+condotto a Pavia, dove dopo sei mesi di prigionia, fu decapitato
+per ordine di Teodorico il 23 ottobre 524.  Ci rimangono di esso:
+1.+o~  Cinque libri della Consolazione della filosofia, che
+compose per mitigare il rigore della sua prigionia; 2.+o~  Un
+trattato delle due nature di Ges@u Cristo, ed un trattato della
+Trinit@a.
+
+	|89  Cieldauro.~  Chiesa di Pavia che ha il titolo di S.
+Maria di ciel d'auro.
+
+	|90  Da esiglio.~  La terra @e un esiglio, onde nella
+Salve Regina: ^Exules filii Evoe.~  La nostra vera patria @e il
+cielo.
+
+	^A questa pace.~  Il Paradiso @e chiamato nelle sante
+Scritture col nome di Pace: ^Sedebit populus meus in pulcritudine
+pacis.~  La pace comprende ogni bene.  Perci@o il saluto di Ges@u
+Cristo era sempre: ^Pax vobis.~
+
+	|91  L'ardente spiro.~  L'anima.
+
+	|92  D'Isidoro~ ecc.  Isidoro di Siviglia nacque in
+Cartagine di Spagna: fu allevato da suo fratello Leandro, vescovo
+di Siviglia, a cui succedette nel vescovado nel 601.  Fu per 35
+anni l'oracolo di tutta la Spagna, e mor@i il 4 aprile del 636.
+Ha scritto 20 libri delle Origini, un Cronico, i Commentari sovra
+i libri storici dell'antico testamento, ed altro.
+
+	Beda (venerabile) sacerdote inglese, ed un de'maggiori
+letterati del suo tempo, nacque nel 673.  Si applic@o allo studio
+delle scienze sacre, e profane, e vi fece molti progressi.  Era
+mansueto, umile, affabile, e gran osservatore della disciplina
+ecclesiastica.  Mor@i nel 735 di 63 anni.
+
+	Riccardo di San Vittore, famoso teologo del XII secolo,
+era scozzese.  Si port@o in Parigi a fare i suoi studi, ove si
+fece canonico regolare nella Badia di S. Vittore.  Egli
+acquistossi una gran riputazione col suo sapere e colla sua
+virt@u.  Fu priore della detta Badia nel 1164, e mor@i li 10
+marzo 1173.  Abbiamo un grandissimo numero di sue opere, nelle
+quali (ecco come si esprime il Ladvocat quasi a commento del
+verso: ^Che a considerar fu pi@u che viro~) egli ragiona molto
+giusto, e metodicamente, e dimostra un gran fondo di teologia.
+
+	|93  Questi, onde a me~ ecc.  Questi, passato il quale,
+tu coll'occhio vieni su di me: ossia questi che m'@e a sinistra
+immediatamente.
+
+	|94  Che in pensieri -- Gravi.~  Che occupandosi in
+profonde meditazioni.
+
+	|95  A morire gli parve esser tardo.~  Da ci@o si
+raccoglie che i gravi pensieri versavano sulle vanit@a del mondo,
+e sui beni della vita celeste, per cui vivea in continuo
+desiderio della morte, a cui deve esser giunto solo in et@a
+avanzata, secondo che ci fa sospettar Dante colla frase:
+
+     ... A morir gli parve esser tardo.
+
+	|96  Sigieri.~  Lettore in divinit@a nell'Universit@a di
+Parigi, e poi, com'altri dice, vescovo.
+
+	|97  Vico degli strami.~  Cos@i chiamavasi la contrada
+dov'era la universit@a di Parigi.  Non essendoci l'uso dei banchi
+nelle scuole, gli scolari dovean provvedersi il loro fascetto di
+strame, o di paglia, di cui perci@o si facea commercio nelle
+botteghe di quella contrada.
+
+	|98  Sillogizz@o.~  Tratt@o argomentando con sillogismi.
+
+	^Invidiosi veri.~  Io non credo che le verit@a, trattate
+da Sigieri in quel modo scolastico, gli partorissero odio e
+rivalit@a, come piacque a taluno d'intendere la voce ^invidiosi~,
+onde ci tir@o la sposizione: ^Veritas odium parit.~  Questo
+^invidiosi~ non credo esser altro che l'^invidi~ del latino,
+usato s@i bene da Orazio: ^Virtutem incolumem odimus; sublatam ex
+oculis quaerimus invidi.~  Il che non racchiude che un senso di
+ammirazione e di emulazione.
+
+	|99  Come orologio~ ecc.  Si paragona quella ruota dei
+dodici beati, che dopo la spiegazione di san Tomaso, si rimette
+al giro della danza ed al canto di prima, all'ordigno
+dell'orologio a sveglia, ma orologio sacro ad uso dei conventi
+per chiamar le monache a mattutino nell'ora di mezzanotte, il
+qual orologio ha anch'esso un moto circolare nella sua ruota a
+denti, come un moto circolare presero pur quei beati, ed ha nel
+tempo medesimo il suono dello sveglietto, come un suono di
+dolcissima voce mandarono pur quei beati nel punto di ripigliare
+la danza.
+
+	La similitudine non pu@o essere n@e pi@u graziosa n@e
+pi@u propria.  L'inventore di questi orologi fu l'arcidiacono
+Pacifico di Verona nel IX secolo di cui ecco quel che dice Dalla
+Corte nella storia di questa citt@a lib. VI: Questo Pacifico fu
+veramente uomo rarissimo, e di cos@i sottile e bello intelletto
+che fu il primo che trov@o gli orologi con le ruote e con
+nutturni, o, come noi diciamo, svegliaroli.  Il suo epitafio
+(seguita il Venturi nella storia di Verona volume I secolo IX)
+che @e nella cattedrale ci fa sapere come questi invent@o (almeno
+in Italia) l'orologio notturno: vale a dire con ruote,
+contrappesi e campana.  In fatto di macchinismi per segnare le
+ore si di giorno che di notte, poco prima dei tempi di Dante,
+erano assai pi@u esperti e scientifici gli Arabi o Saraceni, ed
+una prova l'abbiamo nel 1232.  <Mand@o in quest'anno (narra il
+Muratori ^An.  d'Italia~ togliendo il fatto dalla Cronica di
+Gotifredo Monaco) il Sultano d'Egitto a donare a Federigo II un
+padiglione di mirabil lavoro.  il cui valore si fece ascendere a
+pi@u di venti mila marche d'argento.
+
+	Vi si vedeva con ammirabile artificio il corso del Sole e
+della Luna, co'suoi determinati spazi, indicanti con sicurezza
+l'ore del giorno e della notte.
+
+	|100  Nell'ora.~  Mezzanotte.  -- ^Sposa di Dio.~
+Monaca, o anche Monaco, l'anima d'entrambi i quali @e sposa di
+Dio.
+
+	|101  A mattinar lo sposo.~  Essendo sposa di Dio la
+suora od il frate, perci@o il mattutino ch'essa canta, @e una
+vera sacra mattinata che la innamorata fa al suo sposo Iddio; e
+gliela fa a bella posta per innamorar serupre pi@u di s@e il suo
+celeste sposo.
+
+	|102  Che l'una parte e l'altra~ ecc.  Nessuno, cred'io
+ha spiegato meglio il congegno di questo orologio esposto qui da
+Dante in un sol verso, quanto il mio cittadino Padre Antonio
+Cesari.  Ad omaggio di s@i terso scrittore, mi si permetta di
+riferirlo per intero:
+
+	<Negli sveglietti nostri (e cos@i credo che fossero
+allora) quel che batte nella campanella @e un martellino a due
+capi in cima ad una verghetta di ferro, che bilicata a basso in
+un centro, si volge di qua e di l@a, e ad ogni voltata batte
+nella campanella: e la forza, che volge il martellino cos@i, @e
+un peso, che tirando in gi@u volge una rotella dentata, e questa
+@e congegnata per forma che li suoi denti danno in due tacche, o
+alette poste nella verghetta di qua e di l@a, ed esse cos@i
+urtate danno la volta alla verga ed al martellino, spingendolo
+contro l'un labbro e l'altro della campanella, che fa tin tin.
+Ecco dunque che l'orologio tira una parte, e l'altra urge e
+spinge: cio@e tira col peso e fa volger la ruota, ed urge il
+martellino nella campana.  Dice poi ^l'una parte e l'altra~;
+perch@e infatti l'ordigno, che nell'orologio forma lo sveglietto,
+@e di due sole parti; la ruota girata dal peso, e il martellino a
+due capi senza pi@u.>
+
+	|103  Che il ben disposto~ ecc.  Questo suono, caro alla
+sposa veramente fedele alla sua vocazione, eccita in lei un pi@u
+caldo amore al suo sposo.  Ci@o non avviene nella sposa che sia
+tiepida od infedele; a lei quel suono riesce increscevole.
+
+	|104  Gloriosa rota.~  Dei dodici beati.
+
+	|105  Muoversi.~  Ripigliarono la danza che aveano solo
+sospeso, come si disse in principio del Canto.
+
+	^Render voce a voce.~  Come fanno quelli che cantano in
+coro, dove l'uno risponde all'altro.  -- ^In tempra.~  In tempo.
+
+	|106  Il gioir s'insempra.~  Dove @e sempiterno il
+godere, cio@e in Paradiso.
+
+	|APPENDICE ARTISTICA AL CANTO X.~
+
+	Dante @e sommo poeta, anzi principe dei poeti, e perci@o
+@e sommo artista e principe degli artisti.  Eccone una prova,
+oltre tante altre che ne abbiamo dato, nei 12 santi del Sole.
+Questi santi sembrerebbero a chi non sa, messi gi@u a caso; ma
+invece @e tutto il contrario.  Dante ne studi@o l'arte e
+l'effetto pi@u di quel che si crede, ed ha cos@i presentato
+a'pittori un vero modello da studiare quando hanno da distribuire
+un gruppo di svariate persone sulle loro tele, non gi@a perch@e
+debbano sempre collocarle cos@i, che questo dipende da caso
+particolare, ma perch@e nel collocarle scelgano sempre quell'atto
+che fa pi@u bella prova.  Infatti:
+
+	1.+o~  Li distribu@i in forma circolare, che tra le forme
+@e la pi@u bella e graziosa.
+
+	2.+o~  Con ci@o ottenne di presentare le persone sotto
+tutti gli aspetti possibili, di piena figura, di mezza, di
+profilo, di fronte, di spalla, di shiena ecc.
+
+	3.+o~  Diede la parola prima di tutti all'Angelo delle
+scuole.
+
+	4.+o~  Li divise in due cori da 5 ciascuno, con due tra
+loro che servono di annello che li congiunge.
+
+	5.+o~  Vari@o le persone ponendo laici, frati, sacerdoti,
+secolari, vescovi e perfino un re.
+
+	6.+o~  In questa stessa variet@a pose un gran ordine.  Il
+punto cardinale di quest'ordine @e Salomone che @e la luce pi@u
+bella di tutte.  Movendo da questo punto a destra ed a manca,
+avete due vescovi il pi@u degno a destra di Salomone, il meno
+degno a manca, ambo per@o gran maestri.  Ai lati di questi due,
+seguono due semplici sacerdoti, Lattanzio e Graziano.  Al grande
+Alberto corrisponde Boezio, a Tomaso Isidoro, al meditativo Beda
+il meditativo Sigieri.  Riccardo che @e pi@u vivo risponde a
+Salomone di tale sapienza, che a veder tanto non surse il
+secondo.
+
+	7.+o~  Avendo variato cos@i le persone, per averle scelte
+da vari stati, ottenne una grande variet@a di panneggiamenti.  In
+sostanza ci sono vestiti d'ogni sorta, come d'ogni sorta, d'ogni
+et@a, d'ogni stato, e si pu@o dire d'ogni paese, sono le persone.
+
+	8.+o~  In questa corona ci
+
+	8.+o~  In questa corona ci sono santi e non santi, ma
+solo il santo si fa parlare, S. Tomaso, che sebbene allora non
+ancora canonizzato pure operava strepitosi miracoli.
+
+	9.+o~  Dante e Beatrice sono posti nel centro: essi
+accrescono la variet@a coi loro vestiti, e colla diversit@a del
+sesso.  Cos@i il quadro @e compito.  A maggior intelligenza
+eccovi un apposita rosa di santi.  {DIAGRAM UNTRANSCRIBABLE. With
+Beatrice and Dante as the "hub", twelve spokes radiate from them,
+each spoke represents a pair of Saints.  The following list
+describes at what "o'clock" each pair are to "B." and "D.":
+
+     {12:00}  8. Boezio / Illuminato
+     {1:00}   7. Lattanzio / BONAVENT.
+     {2:00}   6. DIONIS. AR. / GIOACH. Ab.
+     {3:00}   5. SALOME / Rabano
+     {4:00}   4. PIETRO L. / DONATO
+     {5:00}   3. GRAZIANO / ANSELMO
+     {6:00}   2. GRISOSTOM. / ALBERTO M.
+     {7:00}   1. NATANO / TOM. D'AQ.
+     {8:00}  12. Pietro isp. / Sigieri
+     {9:00}  11. Pietro man. / RIC. DA S.V.
+     {10:00} 10. UGO DA S.V. / BEDA
+     {11:00}  9. Agostino fr. / ISIDORO}
+

@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.59.58;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@check DDP formatted files for indent style consistency.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+#	Checkform-Shell script to check DDP formatted files for indent
+#		style consistency.  Accepts multiple filenames for
+#		arguments.  Written 2/23/89 by JMA, mostly to make using
+#		the awk program easier to use by elminating the need for
+#		specifying the path to the awk program file
+
+AWKFILE=/dante/lib/checkform.awk
+awk -f $AWKFILE $@@
+@

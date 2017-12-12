@@ -1,0 +1,14 @@
+Reply-To: Stephen.Campbell@dartvax.dartmouth.edu
+Date: Tue, 09 Jul 1996 15:10:12 -0400
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+
+> It's DDP I'm locked out of.
+
+Did you try
+
+brslock -unlock -user bobh
+
+Try that. If it works, write it down somewhere.
+

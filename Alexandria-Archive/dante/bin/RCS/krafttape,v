@@ -1,0 +1,40 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.20.56;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Make a tape file for Bob Kraft at the Packard Institute
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+: Make a tape file for Bob Kraft at the Packard Institute
+
+FILENO=0
+for FILE
+do
+	FILENO=`expr $FILENO + 1`
+	echo ""
+	echo ""
+	echo '::::::::::::::::::::::::::::::::'
+	echo File $FILENO: $FILE:
+	echo '::::::::::::::::::::::::::::::::'
+	head -10 $FILE
+	dd if=$FILE of=/dev/rmt4 obs=4000 conv=block cbs=80 > /dev/null 2>&1
+done
+@

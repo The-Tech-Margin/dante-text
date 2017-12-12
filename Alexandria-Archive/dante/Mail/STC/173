@@ -1,0 +1,83 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id QAA04209
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 16:37:17 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id QAA03900
+	for <Stephen.Campbell@DARTMOUTH.EDU>; Sat, 9 Jan 1999 16:37:15 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 40106 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67598-1450>; Sat, 9 Jan 1999 16:37:10 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA23558
+	for <Stephen.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 16:37:09 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id QAA13206;
+	Sat, 9 Jan 1999 16:37:06 -0500 (EST)
+Message-ID: <3697CC12.7A1FE8DB@princeton.edu>
+Date: 	Sat, 09 Jan 1999 16:37:22 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+CC: bobh@phoenix.Princeton.EDU
+Subject: Re: copyrights
+X-Priority: 3 (Normal)
+References: <199901062017.PAA07124@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> Here's a list of those comms which I show as copyrighted. Any
+> corrections?
+> (Ignore the "/desc".)
+>
+
+Yes, I have several corrections and remarks.  Hope all this will be
+clear.  I have put the additions in the right hand column in alph.
+order.  I have put comments there too.  Everything untouched is OK.  NB:
+There is another set of info. at the bottom of this file about the DESC
+files.
+
+> boccaccio/desc
+> bosco/desc
+> casini/desc
+> chimenz/desc
+> daniello/desc
+> dellungo/desc		Yes, copyrighted; but DESC doesn't say so
+> fallani/desc
+> giacalone/desc
+> grabher/desc
+> grandgent/desc	graziolo (ADD)
+> guido/desc
+> mattalia/desc
+> momigliano/desc	ottimo (ADD)
+> pasquini/desc		padoan (ADD)
+> pietro2/desc
+> pietro3/desc
+> pietrobono/desc
+> poem/desc
+> porena/desc
+> provenzal/desc	not being loaded, as you know
+> sapegno/desc
+> singleton/desc
+> steiner/desc		trucchi (ADD)
+			vandelli (ADD)
+
+In addition, here are a few comments re. data production in some of the
+DESC files of comms.:
+
+Buti: we say "By Hand" -- that is meaningless.  I _think_ he may have
+been KDEM'd, even though it's an 1858 edition.  It was done pretty early
+on, and at D'mth, I think.
+
+Campi: we say "unknown"  but it was typed in Ireland.  I _think_ that
+means Norfolk Data, Inc.
+
+Singleton: about Paradise editing: Please add me to Janet's name: "JS &
+RH"
+
+All for this mail. Bob

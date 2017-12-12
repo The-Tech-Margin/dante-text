@@ -1,0 +1,481 @@
+Checking file 01.newload
+Warning: Single line indent at line 356
+>>>     Io venni in luogo d'ogni luce muto;
+
+Warning: single line paragraph at line 1254
+>>>	|Proemio.  Oscurit@a della poesia.~
+
+Warning: single line paragraph at line 1442
+>>>	|Nota.  Sensi allegorici.~
+
+Warning: single line paragraph at line 1471
+>>>	|10-12.  Sonno.~
+
+Warning: single line paragraph at line 1531
+>>>	|Nota.  Sonno mentale.~
+
+Warning: single line paragraph at line 1597
+>>>	|3.  Via smarrita.~
+
+Warning: single line paragraph at line 1629
+>>>	|Nota.  Ravedimento.~
+
+Warning: single line paragraph at line 1730
+>>>	|1.  Mezzo della nostra vita.~
+
+Warning: single line paragraph at line 1776
+>>>	|4-7.  Selva oscura.~
+
+Warning: single line paragraph at line 1843
+>>>	|37-43.  Mattino.~
+
+Warning: single line paragraph at line 1870
+>>>	|13-18.  Colle e sole.~
+
+Warning: single line paragraph at line 1927
+>>>	|19-21.  Perch@e cessa la paura.~
+
+Warning: single line paragraph at line 1951
+>>>	|31-60.  Le tre bestie.~
+
+Error at line 2002: First indent not five spaces
+>>>  ^Credo ego amorem primum apud homines carnificinam commentum.~
+
+Warning: single line paragraph at line 2370
+>>>	|61-87.  Virgilio.~
+
+Warning: single line paragraph at line 2495
+>>>	|101-111.  Veltro.~
+
+Checking file 02.newload
+Warning: Single line indent at line 94
+>>>     ^Musa, michi causas memora: quo numine leso etc.~;
+
+Error at line 150: tabs used for indenting
+>>>	e fermal dentro, ch$e non fa scienza,
+>>>	senza lo ritenere, avere inteso,
+Error at line 735: tabs used for indenting
+>>>	di tutto me, pur per 'be' e per 'ice'.
+Warning: Single line indent at line 794
+>>>     ^Fama, malum quo non aliud velocius ullum etc.~,
+
+Error at line 949: tabs used for indenting
+>>>	acceso da virt@u, sempre altro accese
+>>>	sol che la fiamma sua paresse fore,
+Warning: single line paragraph at line 1258
+>>>	|1-6.  Perch@e s'inizia il cammino la notte
+
+Warning: single line paragraph at line 1296
+>>>	|10-42.  Causa della vilt@a di Dante
+
+Warning: single line paragraph at line 1331
+>>>	|52-120.  Cagione che mosse Virgilio ad aiutare Dante
+
+Warning: Single line indent at line 1536
+>>>     ^Eoliam venit: hic vasto rex Eolus in antro~,
+
+Checking file 03.newload
+Warning: Single line indent at line 104
+>>>     ^Nunc animis opus, Enea, nunc pectore forti.~
+
+Warning: single line paragraph at line 806
+>>>	|1-12.  Porta dell'Inferno.~
+
+Warning: single line paragraph at line 830
+>>>	|52-69.  Corrispondenza fra supplizio e colpa.~
+
+Warning: single line paragraph at line 896
+>>>	|71-111.  Acheronte, Caronte, sonno {cfr. vv. 130-136}.~
+
+Warning: single line paragraph at line 1145
+>>>	|130-136.  Acheronte, Caronte, sonno {cfr. vv. 71-111}~
+
+Checking file 04.newload
+Warning: Single line indent at line 840
+>>>     ^Quantum Smirnei durabunt vatis honores~,
+
+Warning: Single line indent at line 1047
+>>>     ^quidquid conabar scribere versus erat~;
+
+Warning: Single line indent at line 1107
+>>>     ^Perdiderunt me cum duo crimina, carmen et error.~
+
+Warning: Single line indent at line 1114
+>>>     ^Cur aliquid vidi, cur lumina noxia feci?~;
+
+Warning: Single line indent at line 1119
+>>>     ^Alterius facti culpa silenda michi est.~
+
+Warning: Single line indent at line 1300
+>>>     ^Sum pius Eneas, fama super ethera notus.~
+
+Error at line 1931: Spaces/Tabs used in paragraph
+>>>	|126.  Che con Lavina, sua figlia, sedea~: Lavina, come
+Error at line 3247: Spaces/Tabs used in paragraph
+>>>	{|a.  ^Ignorantia facti~}
+>>>	{|b.  ^Ignorantia iuris~}
+Warning: single line paragraph at line 3264
+>>>	|23-39.  Prima colpa: Peccato originale.~
+
+Warning: single line paragraph at line 3285
+>>>	|Nota.  Battesimo: quattro maniere.~
+
+Warning: single line paragraph at line 3328
+>>>	|40-42.  Punizione dei non battezzati.~
+
+Warning: single line paragraph at line 3383
+>>>	|Nota.  Quale ignoranza scusa il peccato.~
+
+Warning: single line paragraph at line 3403
+>>>	|Nota.  ^Ignorantia facti.~
+
+Warning: single line paragraph at line 3649
+>>>	|Nota.  ^Ignorantia iuris.~
+
+Error at line 3651: Spaces used at head of paragraph
+>>>     ^De <ignorantia iuris>~ non dico cos@i; per ci@o che, come
+>>> di sopra dissi, come la legge, la quale a ciascuno apartiene, @e
+
+Warning: single line paragraph at line 3675
+>>>	|106-110.  Castello, fiumicello, sette porte.~
+
+Warning: single line paragraph at line 3749
+>>>	|111-147.  Prato della Filosofia.~
+
+Warning: single line paragraph at line 5125
+>>>		|II.  ESPOSIZIONE ALLEGORICA~
+
+Error at line 5132: Spaces/Tabs used in paragraph
+>>>	{|a.  ^Ignorantia facti~}
+>>>	{|b.  ^Ignorantia iuris~}
+Error at line 5536: Spaces used at head of paragraph
+>>>     ^De <ignorantia iuris>~ non dico cos@i; per ci@o che, come
+>>> di sopra dissi, come la legge, la quale a ciascuno apartiene, @e
+
+Checking file 05.newload
+Warning: Single line indent at line 1109
+>>>     ^Me duce, Dardanius Spartam expugnavit adulter~ ^etc.~
+
+Error at line 1402: tabs used for indenting
+>>>	acceso da virt@u, sempre altro accese,
+>>>	sol che la fiamma sua paresse fore.
+Error at line 1576: Multiple blank lines
+>>>
+Warning: single line paragraph at line 1598
+>>>	|4-15.  La giustizia di Min@os.~
+
+Warning: single line paragraph at line 1784
+>>>	|28-45.  Il vizio della lussuria.~
+
+Checking file 06.newload
+Warning: single line paragraph at line 1102
+>>>	|7-12.  Punizione dei golosi.~
+
+Error at line 1160: Spaces/Tabs used in paragraph
+>>>	|18-21.  Punizione dei golosi.~
+Warning: single line paragraph at line 1219
+>>>	|32-33.  Punizione dei golosi.~
+
+Warning: single line paragraph at line 1278
+>>>	|94-96.  Punizione dei golosi.~
+
+Warning: single line paragraph at line 1337
+>>>	|13-17.  Cerbero.~
+
+Warning: single line paragraph at line 1430
+>>>	|22-31.  Cerbero.~
+
+Checking file 07.newload
+Warning: single line paragraph at line 528
+>>>	Voi, che 'ntendendo il terzo ciel movete etc.
+
+Warning: Single line indent at line 619
+>>>     ^Nullum numen etc.~,
+
+Error at line 984: Spaces/Tabs used in paragraph
+>>>	  prodigalit@a (vv. 22-35)~}
+Warning: single line paragraph at line 1013
+>>>	|1-15.  Plutone.~
+
+Warning: Single line indent at line 1120
+>>>     ^Nulli fas casto sceleratum insistere limen~,
+
+Warning: single line paragraph at line 1332
+>>>	|Nota.  Avarizia: origini e natura.~
+
+Warning: single line paragraph at line 1612
+>>>	|Nota.  Prodigalit@a.~
+
+Warning: single line paragraph at line 1761
+>>>	|22-35.  Conformit@a della pena al peccato d'avarizia e prodigalit@a.~
+
+Warning: single line paragraph at line 1818
+>>>	|103-108.  La palude Stigia.~
+
+Warning: single line paragraph at line 1917
+>>>	|109-116.  Ira.~
+
+Warning: single line paragraph at line 2225
+>>>	|117-126.  Accidia.~
+
+Checking file 08.newload
+Error at line 29: Multiple blank lines
+>>>
+>>>
+Error at line 31: Spaces/Tabs used in paragraph
+>>>	|1.~  Dice adunque nella prima: |Io dico, seguitando~:
+Warning: single line paragraph at line 869
+>>>	|1-9.  Torri e fiamme.~
+
+Warning: single line paragraph at line 885
+>>>	|13-24.  Flegi@as.~
+
+Warning: single line paragraph at line 900
+>>>	|25-30.  Navigazione sulla palude dello Stige.~
+
+Warning: single line paragraph at line 912
+>>>	|67-115.  Citt@a di Dite.~
+
+Checking file 09.newload
+Warning: single line paragraph at line 1011
+>>>	|34-51.  Le tre Furie infernali.~
+
+Warning: Single line indent at line 1054
+>>>     ^Eumenides tenuere faces de funere raptas~ ^etc.~
+
+Warning: single line paragraph at line 1255
+>>>	|52-60.  Medusa.~
+
+Warning: single line paragraph at line 1422
+>>>	|61-103.  L'Angelo che apre la porta.~
+
+Warning: single line paragraph at line 1441
+>>>	|110-133.  Gli eretici.~
+
+Checking file 10.newload
+Checking file 11.newload
+Checking file 12.newload
+Warning: Single line indent at line 239
+>>>     ^..............inferni regia Ditis~;
+
+Warning: single line paragraph at line 1274
+>>>	|11-27.  Il Minotauro.~
+
+Warning: single line paragraph at line 1381
+>>>	|55-99.  I Centauri.~
+
+Checking file 13.newload
+Error at line 646: Tab used in indenting
+>>>				    ^romana~) ^etc.~
+Error at line 648: Missing indentation
+>>>Il quale imitando l'autore, come in assai altre cose fa, fa a
+Error at line 650: Missing indentation
+>>>non fa senza cagione, ma il fa, volendo con questa oppinione
+Error at line 652: Missing indentation
+>>>disperazione: per ci@o che assai volte avviene gli uomini pi@u per
+Error at line 654: Missing indentation
+>>>scellerate.  @E il vero, che che a' poeti gentili gi@a conceduto
+Error at line 656: Missing indentation
+>>>cristiano, n$e in sua persona n$e in altrui, racontare o far
+Error at line 658: Missing indentation
+>>>alla catolica verit@a; e per@o non par qui assai essere scusato
+Error at line 660: Missing indentation
+>>>errore.
+Error at line 662: Tab used in indenting
+>>>	Ma a questo punto si pu@o cos@i rispondere, acci@o che si
+Error at line 663: Missing indentation
+>>>conosca l'autore in questo non avere errato: dobbiamo adunque
+Error at line 665: Missing indentation
+>>>quali, la giustizia di Dio condanna coloro che male hanno
+Error at line 667: Missing indentation
+>>>illativa>, e l'altra <pena privativa>.  La pena illativa s'impone
+Error at line 669: Missing indentation
+>>>tagliargli alcun membro o farlo d'alcuna spezie di morte morire;
+Error at line 671: Missing indentation
+>>>di colui il quale ha peccato, s@i come nelle sue sustanze, negli
+Error at line 673: Missing indentation
+>>>queste o di parte d'alcuna o di tutte: e per@o si pu@o dir qui, per
+Error at line 675: Missing indentation
+>>>quegli che se medesimi uccidono, per ci@o che il corpo morto non
+Error at line 677: Missing indentation
+>>>uccisi sieno gittati a divorare alle fiere, questa non @e pena
+Error at line 679: Missing indentation
+>>>dire: egli @e infamia al nome dell'ucciso, questa infamia perisce
+Error at line 681: Missing indentation
+>>>infamia @e l'essersi ucciso che non @e l'essere poi gittato via a
+Error at line 683: Missing indentation
+>>>nelle sue cose punirlo, per ci@o che chi se medesimo priva della
+Error at line 685: Missing indentation
+>>>facessero ogni suo bene occupare, a lui non monta niente; e de'
+Error at line 687: Missing indentation
+>>>d'alcuna altra sua cosa, e quella non si pu@o dirittamente dir
+Error at line 689: Missing indentation
+>>>la divina giustizia che impunito non rimanga cos@i grande eccesso,
+Error at line 691: Missing indentation
+>>>supplisce, e vuole che in questi cotali sia la pena illativa, s@i
+Error at line 693: Missing indentation
+>>>la privativa.  Ma, per ci@o che ad alcuno passato di questa vita
+Error at line 695: Missing indentation
+>>>corpo, vuole la divina giustizia che questi cotali si credano non
+Error at line 697: Missing indentation
+>>>che nella verit@a essi il riaranno come l'altre.  E se forse si
+Error at line 699: Missing indentation
+>>>avendo questa oppinione, che l'altre che non l'hanno?>, si pu@o
+Error at line 701: Missing indentation
+>>>acci@o che, come essi furono in questa vita partefici delle
+Error at line 703: Missing indentation
+>>>loro insieme partefici della gloria, cos@i l'anime dannate
+Error at line 705: Missing indentation
+>>>come strumenti delle loro malvage operazioni furono in questa
+Error at line 707: Missing indentation
+>>>pene, come sostengono esse.  E perci@o quegli, che di questo loro
+Error at line 709: Missing indentation
+>>>illativa, similmente la privativa.  E per@o avvedutamente l'autore
+Error at line 711: Missing indentation
+>>>la giustizia di Dio permette di stare in lor maggior pena in
+Error at line 713: Missing indentation
+>>>verit@a, si pu@o dir l'autore avere come cristian poeta scritto.
+Error at line 715: Tab used in indenting
+>>>	|109-111.  Noi eravamo~: Qui comincia la terza parte
+Error at line 716: Missing indentation
+>>>principale del presente canto, nella quale, poi che l'autore n'ha
+Error at line 718: Missing indentation
+>>>usano violenza, ne dimostra una spezie di tormenti strana dalla
+Error at line 720: Missing indentation
+>>>quelle de' primieri equali, per ci@o che non in s$e ma nelle lor
+Error at line 722: Missing indentation
+>>>tronco attesi, Credendo ch'altro ne volesse dire~, avendo egli
+Error at line 724: Missing indentation
+>>>d'un romor sorpresi~, il qual sentimmo farsi nella selva.
+Error at line 726: Tab used in indenting
+>>>	|112-114.~  E quinci per una comparazione dimostra come
+Error at line 727: Missing indentation
+>>>soprapresi fossero, dicendo: |Similemente a colui che venire
+Error at line 729: Missing indentation
+>>>uomini che di dietro il cacciano, |a sua posta.~  Usano i
+Error at line 731: Missing indentation
+>>>quelle parti della selva, donde stimano dover potere, fuggendo,
+Error at line 733: Missing indentation
+>>>parti, dove si pongono, chiamano <poste>.  E per@o colui, alla cui
+Error at line 735: Missing indentation
+>>>bestie~, le cacciate e quelle che cacciano, |e le frasche~, cio@e
+Error at line 737: Missing indentation
+>>>lo stropiccio del porco e de' cani e de' cacciatori.
+Error at line 739: Tab used in indenting
+>>>	|115-117.  Ed ecco~, mentre essi stavano soprapresi dal
+Error at line 740: Missing indentation
+>>>romore, |due dalla sinistra costa, Nudi e graffiati~: dice |nudi~
+Error at line 742: Missing indentation
+>>>eran quelle anime che rilegate erano in que' bronchi; e
+Error at line 744: Missing indentation
+>>>pieno <di stecchi con tosco>, e chi corre tra cos@i fatte piante,
+Error at line 746: Missing indentation
+>>>graffi; |fuggendo s@i forte~, cio@e s@i velocemente e con tanto
+Error at line 748: Missing indentation
+>>>graffiati.  E questo vocabolo |rosta~ usiam noi in cotali
+Error at line 750: Missing indentation
+>>>cacciam le mosche.
+Error at line 752: Tab used in indenting
+>>>	|118-121.  Quel dinanzi~, ^supple~: gridava: |ora acorri,
+Error at line 753: Missing indentation
+>>>acorri, morte.!~; nelle quali parole dimostra o la graveza della
+Error at line 755: Missing indentation
+>>>troppo~, cio@e esser troppo lento nel suo fuggire, per rispetto a
+Error at line 757: Missing indentation
+>>>non furo accorte Le gambe tue alle giostre dal Toppo.~  Ad
+Error at line 759: Missing indentation
+>>>sanese, il quale fu ricchissimo di patrimonio, e, acostatosi ad
+Error at line 761: Missing indentation
+>>>brigata spendereccia>, li quali similmente erano tutti ricchi e,
+Error at line 763: Missing indentation
+>>>consum@o ci@o ch'egli aveva e rimase poverissimo.  E, avvenendo per
+Error at line 765: Missing indentation
+>>>aiuto de' Fiorentini sopra gli Aretini, fu costui del numero di
+Error at line 767: Missing indentation
+>>>tornandosene a Siena assai male ordinati e mal condotti, come
+Error at line 769: Missing indentation
+>>>rotti e sconfitti; e nondimeno, potendosene a salvamento venire
+Error at line 771: Missing indentation
+>>>cosa a sostener la povert@a, s@i come a colui che era uso d'esser
+Error at line 773: Missing indentation
+>>>avventura disiderava, fu ucciso.  E perci@o, in modo di
+Error at line 775: Missing indentation
+>>>suo corso [non esser stato] cos@i presto, cio@e veloce, |alle
+Error at line 777: Missing indentation
+>>>fuggito non s'era, potendo; volendo in questo ricordargli la
+Error at line 779: Missing indentation
+>>>strema povert@a, nella quale per sua bestialit@a era venuto.  E,
+Error at line 781: Missing indentation
+>>>suo, il discrive l'autore in questo luogo.
+Error at line 783: Tab used in indenting
+>>>	|122-123.  E poi che forse gli fall@ia la lena~, cio@e a
+Error at line 784: Missing indentation
+>>>questo spirito, che gridava rimproverando a Lano e la morte e,
+Error at line 786: Missing indentation
+>>>cespuglio~, nato d'una di quelle anime, |fece un groppo~, cio@e un
+Error at line 788: Missing indentation
+>>>muovere le cagne, le quali il seguivano.
+Error at line 790: Tab used in indenting
+>>>	|124-129.  Di dietro a loro~, cio@e a questi due che
+Error at line 791: Missing indentation
+>>>fuggivano, |era la selva piena Di nere cagne bramose e correnti,
+Error at line 793: Missing indentation
+>>>in questo secondo, che avea fatto un groppo di s$e e d'un
+Error at line 795: Missing indentation
+>>>brano a brano; Poi sen portar quelle membra dolenti~, del
+Warning: single line paragraph at line 1013
+>>>	|Nota.  Ragione per cui i suicidi sono trasformati in piante.~
+
+Warning: single line paragraph at line 1085
+>>>	|10-15.  Le Arpie.~
+
+Warning: single line paragraph at line 1107
+>>>	|101-102.  Le Arpie.~
+
+Warning: single line paragraph at line 1129
+>>>	|115-129.  Pena degli scialacquatori.~
+
+Checking file 14.newload
+Error at line 733: Spaces/Tabs used in paragraph
+>>>		(vv. 19-27)~}
+Warning: single line paragraph at line 747
+>>>	|19-27.  Violenti contro Dio, contro natura e contro arte.~
+
+Warning: single line paragraph at line 775
+>>>	|94-120.  La statua.~
+
+Checking file 15.newload
+Warning: Single line indent at line 761
+>>>     ^Artem quisque suam doceat, sus nulla Minervam.~
+
+Checking file 16.newload
+Checking file 17.newload
+Checking file access.newload
+Error at line 202: tabs used for indenting
+>>>	che la mia ^Comed@ia~ cantar non cura etc.
+Error at line 253: tabs used for indenting
+>>>	con le quali la tua ^Etica~ pertratta,
+Warning: single line paragraph at line 320
+>>>	Dante, perch$e Virgilio se ne vada;
+
+Warning: single line paragraph at line 339
+>>>	Dante {da te}, la voglia tua discerno meglio etc.
+
+Warning: Single line indent at line 570
+>>>     ^Tros Anchisiades, facilis descensus Averni~;
+
+Warning: Single line indent at line 584
+>>>     ^Perque domos Ditis vacuas et inania regna~;
+
+Warning: Single line indent at line 591
+>>>     ^Vestibulum ante ipsum primisque in faucibus Orci~;
+
+Warning: Single line indent at line 597
+>>>     ^Venimus et magnos Erebi transnavimus amnes~;
+
+Warning: single line paragraph at line 605
+>>>	Cotal di quel baratro {burrato} era la scesa;
+
+Warning: single line paragraph at line 649
+>>>	Questo soluto, ne resta venire etc., ^ut supra.~
+

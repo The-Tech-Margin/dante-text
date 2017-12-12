@@ -1,0 +1,368 @@
+|INFERNO CANTO 03~
+
+	|1-9.~  La scritta sopra la porta contiene: 1.  Il
+termine dove si vada per la porta 2.  La cagione per che fu fatta
+3.  Il maestro che la fece 4.  Il tempo che fu fatta 5.  Quanto
+sia per durare 6.  Che sua natura sia d'intrare e non d'uscire.
+Le quali sono sei cose.  E quantunque parli la porta di s@e, come
+di porta, dice nondimeno cose, che convengono ancora al contenuto
+dentro della porta, cio@e allo 'nferno.
+
+	|1.~  Si va adunque per la porta nella citt@a dolente,
+come a termine pi@u lontano, che @e la citt@a di Dite;
+
+	|2.~ e si va nell'eterno dolore, come a termine men
+lontano, cio@e nel luogo, che @e di fuori della citt@a, e
+nondimeno il dolore @e eterno, quantunque non sia tanto intenso
+come @e il cittadinesco;
+
+	|3.~ e si va tra la perduta gente, cio@e a luogo pi@u
+vicino, dove sono que' che non hanno affiizione, quantunque non
+godano della visione di dio, che @e il limbo.
+
+	|4-6.  Giustizia mosse il mio~ etc.  Questa @e la cagione
+per che la porta fu fatta, che fu per punire secondo giustizia i
+peccati.  Nella lingua nostra |Giustizia~ si prende per la
+punizione publica fatta dal magistrato, e perch@e si dice |il mio
+alto fattore~ e non distintamente si dice chi sia questo fattore,
+soggiugne che questo alto fattore fu la trinita.
+
+	|7-8.~  E perch@e lo 'nferno @e la casa de' diavoli
+conviene che fosse fatto quando peccarono, e peccarono prima che
+l'uomo, e perch@e le cose per cagione dell'uomo fossero create
+seguita che innanzi allo 'nferno non fossero create se non cose
+eterne e che esso @e eterno, s@i perch@e la pena contenuta dentro
+dalla porta @e eterna, si perch@e, dice Platone, che le cose
+fatte da dio senza mezzo sono eterne, e questo medesimo dir@a di
+sotto Dante, e quindi nasce una conclusione che tutti coloro, li
+quali entrano dannati per questa porta, non sieno mai per uscire
+dicendo:
+
+	|9-10.  Lasciate ogni speranza~ d'uscire |voi
+ch'entrate.~  Plauto in ^Bacch.~: <Pandite atque aperite propere
+ianuam hanc Orci, obsecro.  Nam equidem haud aliter esse duco:
+quippe quoi nemo advenit, Nisi quem spes reliquere omnes ex se ut
+frui possiet> [^Bacchides~, III, i, 2].  La qual conclusione si
+vede essere falsa per Dante medesimo, poich@e vuole che i santi
+padri v' entrassono e n'uscissono, e Cristo similmente ed Enea, e
+Teseo, ed Ercole e Traiano e Beatrice e l'angelo, che fa aprir la
+porta di Dite, e Virgilio esce e rientra, ed esso Dante non @e
+ritenuto e Catone.  Laonde @e da dire che questa legge generale,
+che chi entra non esce, riceve alcune limitazioni e
+dispensazioni, e la prima limitazione @e che Cristo, s@i come
+figliuolo di dio, non @e soggetto alle leggi, e perci@o Virgilio
+disse: ^Dij geniti potuere~ [^Aen.~, VI, 131].  Senza che questa
+legge s'intende de' morti e non de' vivi.  Laonde non @e
+meraviglia se non @e ritenuto Enea, Teseo, Ercole, Orfeo e Dante.
+Appresso, gli angeli eletti ed i beati non entrano per questa
+porta come dannati, laonde non sono ritenuti, per che Beatrice e
+l'angelo non potevano essere ritenuti.  Ancora coloro non si
+dicono uscire, che deono tosto ritornare, essendo loro permesso
+da dio d' andarsene per alcuna facenda come fu permesso a
+Virgilio ed al soldato Pompeiano appresso Lucano [^Phars.~ VI.
+750-827].  Si traggono della legge ultimamente coloro, che sono
+confinati quivi a tempo da dio per la fede sua verso dio e per la
+buona vita; de' quali furono i santi padri, Traiano e Catone.
+
+	|10-11.  Di colore oscuro.~  Le lettere in luogo chiaro
+poste, a voler essere ben vedute, convengono essere di colore
+oscuro e nero, ma, se sono poste in luogo oscuro, convengono
+essere di colore chiaro e bianco.  Laonde veggasi Dante come
+abbia fatto bene a fare le lettere oscure in luogo oscuro, per
+voler col senso loro spaventare il lettore.
+
+	|12.  Il senso lor m'@e duro~; cio@e mi spaventa
+minacciandomi che, se io entro, pi@u non ne debba uscire.
+
+	|13-15.~  Al quale spavento ragionevole di Dante per
+iscacciarlo Virgilio nulla risponde in particolare, se non che si
+conviene lasciare ogni sospetto ed ogni vilt@a.  Anzi conviene
+prender sospetto ed invilirsi chi non @e pazzo o senza
+considerazione.
+
+	Dove consiste questo accorgimento di Virgilio?  Non
+nell'ammonire prima Dante che leggesse la scritta, dicendogli: Tu
+vedrai un cos@i fatto titolo, non ti smarrire.  Non nell'
+accorgersi che Dante si fosse smarrito per la scritta, percioch@e
+egli gli aveva detto chiaramente: <Il senso lor m' @e duro> {v.
+12}.
+
+	|16-18.  Ov' io t' ho detto Che vederai le genti
+dolorose, C' hanno perduto il ben de lo 'ntelletto.~  Questo
+sapeva Dante per le parole della scritta, ma che montava ci@o
+allo spavento di Dante, che per le parole aveva preso, che non
+dovesse uscirne?  Questo luogo si pu@o intendere generalmente di
+tutti i dannati, e si pu@o intendere spezialmente de' gentili
+morali, li quali sono dolorosi non per pena afflittiva, ma
+perch@e non isperano mai di vedere la faccia di dio, ch' @e il
+ben dello 'ntelletto; e questo secondo intelletto pare pi@u vero
+perch@e si dice ^Vedrai~ si come si disse di sopra: ^Vedrai gli
+antichi spiriti dolenti~ {^Inf.~, I, 116}; e degli altri si
+disse: ^Udrai le disperate strida~ {^Inf.~, I, 115}.
+
+	|19-20.~  Dante, s@i come si pu@o credere, s'era fermato,
+n@e volea entrare dentro dalla porta; ma Virgilio, presolo per la
+mano e fattogli un buon volto, vel fece entrare.
+
+	|21.~  Adunque ^mi mise~ per la porta |dentro alle cose
+secrete~ agli uomini di questo mondo, che non sanno come si
+steano le cose dello 'nferno.
+
+	|22.  Quivi sospiri, pianti.~  Questo @e l'anzilimbo, che
+forse con parola latina si potrebbe chiamare ^vestibulum Limbi~,
+s@i come il limbo si pu@o chiamare ^vestibulum Inferni.~  Ora in
+questo anzilimbo sono puniti gli angeli mezzani, che non furon
+dalla parte di dio, n@e congiurarono contra dio con Lucifero, e
+l'anime degli sciagurati, che in questo mondo non hanno operato
+n@e bene n@e male, poi che sono pervenuti agli anni della
+discrezione.  Ora questi angeli e sciagurati, quantunque fossero
+tormentati di pena afflittiva, essendo costretti ad essere in
+continuo corso e stimolati da mosche e da tafani, non dimeno la
+pena non era di tanto dolore e cos@i pungente, che dovessono
+gridare come facevano; e per volere Dante dimostrare che il grido
+trapassava il dolore si stende in descriverlo, e prima dice che
+sospiravano, che piangevano, che traevano guai, dove non
+intervengono parole.
+
+	|23.  Per l'aer senza stelle.~  Sotto il nome di stelle,
+si comprende ancora il sole e la luna.
+
+	|24.  Perch'io al cominciar ne lagrimai~: o s@i come
+persona nuova ad udir simil lamento, o pensando che patissono
+ingiustamente.
+
+	|25.~  Poscia dice che le lingue erano diverse non tanto
+perch@e le lingue degli angeli erano diverse da quelle degli
+uomini, quanto perch@e quelle degli uomini tra s@e erano diverse,
+essendovi uomini di tutte le nazioni del mondo e di tutti i
+secoli.  |Orribili favelle~: o perch@e erano disintendevoli, o
+perch@e contenevano cose orribili come bestemmie, o perch@e erano
+barbare.
+
+	|26.  Parole di dolore~; parole lamentevoli.  |Accenti
+d'ira~; parole minaccievoli.
+
+	|27.  Voci alte e fioche~; alte e basse.  |E son di man
+con elle~, o battendosi l'una mano con l'altra, o con le mani
+battendosi la fronte o la coscia.  Il che @e segnale di
+disperazione.
+
+	|28-30.  Senza tempo tinta~; cio@e sempre tinta, perci@o
+che l'aria nostra @e tinta a tempo o per ombra della terra o per
+nuvoli o per altro accidente.  |Fanno un tumulto~: fanno un
+rumore confuso, quale fa la rena percotendosi insieme le sue
+granelle quando il vento trae in giro, |quando a turbo spira.~
+Ma [non] @e da dire quando la rena spira, ma quando spira, cio@e
+fa vento e venta a turbo, percioch@e il vento trae distesamente,
+e trae ancora in s@e stesso come ^caecias~ [Greco Levante.  Vedi
+Seneca, ^Quaest.  Natur.~ V., 16], e trae in giro, che si dice |a
+turbo~ dalla forma ritonda e puntata del turbine, stormento di
+legno, col quale, facendolo girare, i fanciulli si trastullano.
+
+	|31.~  Gli errori, di che Dante aveva intorniata la
+testa, erano specialmente tre: il primo che credeva che i lamenti
+procedessero da pena afflittiva; il secondo che i lamentanti
+avessono meritata la pena per far male, e non per non fare n@e
+male n@e bene, il terzo che i lamentanti fossero anime di dannati
+e non ancora angeli.
+
+	|36.  Che visser senza fama.~  I migliori testi hanno:
+<senza infamia>.
+
+	|40.  Cacciarli i cieli.~  Seguita Virgilio parlando
+degli angeli, che furono per s@e, e rende ragione perch@e siano
+posti in questo luogo, che non @e n@e cielo n@e inferno.  Ma
+potrebbe alcuno dire: perch@e non potevano restare in aere o
+sopra la terra?  E non sarebbono similmente n@e in cielo, n@e in
+inferno.  Laonde ancora alcuni dicono che questo nostro aere @e
+pieno di spiriti rei.
+
+	|46-48.  Questi non hanno speranza di morte.~  Risponde
+prima perch@e gli angeli, che per s@e furono, si lamentassono
+tanto forte, e poi risponder@a perch@e gli sciagurati similmente
+si lamentino.  Ora questi angeli si lamentavano perch@e, essendo
+angeli, non sono sottoposti alla morte e non essendo sottoposti
+alla morte non hanno speranza di mutare stato per morte, e la
+vita loro @e tanto trista, che hanno invidia non solamente agli
+angeli buoni, che godono in cielo, ma a quelli ancora, che
+patiscono nello 'nferno.  E gli sciagurati si lamentano cos@i
+forte perch@e non restano per fama in questo mondo, n@e sono
+ricevuti per misericordia in cielo, n@e puniti per giustizia in
+inferno.  E si dee sporre.
+
+	|49.  Fama di loro il mondo esser non lassa~; cio@e la
+fama non lascia il mondo esser di loro, cio@e di coloro che si
+chiamano sciagurati o cattivi.
+
+	|53.  Che girando correva tanto ratta.~  La pena adunque
+di questi sciagurati, insieme con gli angeli che furono per s@e,
+era il perpetuo corso in giro ed, essendo essi ignudi, l'essere
+stimolati da mosconi e da vespe.  La qual pena non era tanto
+leggiera che Dante e Virgilio dovessono giudicare pena non
+afflittiva e per la quale non si dovessono dolere, bench@e per
+aventura non tanto.  Boccaccio (^Novelle~, G. II, Nov. 9):
+<Ambrogiuolo il di medesimo, che legato fu al palo ed unto di
+m@ele, con sua grandissima angoscia dalle mosche e dalle vespe e
+da' tafani, de' quali quel paese @e copioso molto, fu non
+solamente ucciso, ma infino all'ossa divorato>.  Ma perch@e non
+@e, propriamente parlando, Inferno se non di l@a d'Acheronte, non
+pareva che spiriti ed anime non dovessono essere tormentati di
+pena afflittiva di qua d'Acheronte.  La quale cosa se fosse stata
+fatta, Dante molto pi@u ragionevolmente avrebbe fatta la sua
+domanda, perci@o che la pena procedente dal pensiero non si vede.
+
+	|54.  Ched ogni posa mi pareva indegna.~  Io leggo |Ched~
+in luogo di |Che~, e dico: dice Dante che questa gente correva
+tanto ratta, che ogni posa in questo mondo, la quale fa l'uomo,
+ancora onesta, o per dormire o per mangiare o per altra
+necessit@a, mi pareva degna di riprensione veggendo la pena e la
+solicitudine, che avevano quelle anime e quelli angeli per essere
+stati pigri e lenti a far suo dovere.
+
+	|59-60.  E vidi l'ombra di colui, Che fece per viltate il
+gran rifiuto.~  Dante non par credere che il papa non possa
+errare o la chiesa di Roma, ponendo Celestino quinto tra gli
+sciagurati, il quale la chiesa di Roma ha canonizzato per santo.
+Ma si pu@o rispondere, scusando Dante, che al tempo che scrisse
+questo di lui non era ancora stato canonizzato.
+
+	|61-62.  Incontanente intesi e certo fui.~  Se Virgilio
+aveva detto a Dante che gente era questa, che fa pi@u di mestiere
+che dica d'avere inteso ed essersi certificato che quella fosse
+la setta de' cattivi?
+
+	|64.  Questi sciagurati, che mai non fur vivi~; cio@e che
+non avevano mai fatta operazione niuna, n@e buona n@e rea, non
+altramente che se fossero stati morti: erano perci@o puniti.
+
+	|75.  Com' io discerno per lo fioco lume.~  Quasi dica:
+ancora che l'aria non sia tanto chiara che io possa pienamente
+vedere, non @e perci@o tanto oscura che non si discerna la
+prontezza loro di volere passare.
+
+	|76-78.  Le cose ti fien conte Quando noi fermerem li
+nostri passi Su la trista.~  Quasi dica: io ho da dire molte
+altre cose e del fiume e di Carone, ed insieme quali genti sieno
+queste e perch@e sieno pronte a volere passare il fiume; le quali
+tutte insieme ti dir@o in su la ripa d'Acheronte, per non dirle
+separate o due volte, ridicendole poi che l'avesse dette qui:
+senza che la vista aiuta assai a fare intendere pi@u pienamente
+quello che si dice.
+
+	|80-81.  Temendo no 'l mio dir gli fosse grave, Infino al
+fiume di parlar mi trassi~: cio@e mi ritrassi di parlare, e non
+parlai infino al fiume, anzi Dante, poi che fu al fiume, non
+parl@o se non passato il fiume.
+
+	|83-109.~  Descrive Carone, ma in tre flate separate
+l'una dall' altra; la prima dicendo (v. 83): |Un vecchio bianco
+per antico pelo~: la seconda (v. 97): |Quindi fur quete le lanose
+gote Al nocchier de la livida palude, Ch'intorno agli occhi avea
+di fiamme rote~: e la terza (v. 109): |Caron dimonio con occhi di
+bragia.~  Ma Virgilio lo descrive in una fiata sola dicendo:
+<Portitor has horrendus aquas et flumina servat Terribili
+squalore Charon; cui plurima mento Canicies inculta iacet, stant
+lumina flama {sic} etc.>  [^Aen.~, VI, 298-300]; e fece per aventura
+meglio.
+
+	|87.  Ne le tenebre eterne, in caldo e 'n gelo.~  Pone
+queste due pene per tutte le pene, ancora che ce ne sieno molte
+per altro che per caldo e per gelo.
+
+	|88-89.  Anima viva~, non perch@e l'anime separate da'
+corpi sieno morte, ma chiama anima viva quella, che @e congiunta
+al corpo, in quanto @e viva all'operazioni buone e ree, quasi
+dica: Tu, che puoi ancora essere salvo, non venire qua.  Ma nasce
+dubbio qui ed in alcuni altri luoghi come Carone conoscesse Dante
+essere vivo e molti altri, e non dimeno altrove @e conosciuto
+essere vivo o al movimento delle cose dure, che fa co'piedi, o
+allo spirare, o perch@e Virgilio il dica o egli.
+
+	|93.  Pi@u leve legno convien che ti porti.~  Se la nave
+di Carone non era atta per la sua gravezza a passar corpo vivo,
+come fu passato Dante e sopra qual legno, se non fu passato sopra
+la predetta nave?
+
+	|95-96.  Vuolsi cos@i dove si pote Ci@o che si vuole.~
+Dee parer cosa strana che gli ufficiali dello 'nferno alcuni
+credano al simplice affermamento di Virgilio, che venga da parte
+di dio, come Carone, Minos, Flegias, Pluto, Chiron, ed alcuni
+altri non gli prestino fede niuna come i dimoni guardiani della
+porta di Dite, ed altri gli prestino fede s@i, ma costretti da
+argomenti, come i dimoni della pece.  N@e veggo ragione, onde
+nasca questa disuguaglianza di prestamento di credenza.  Virgilio
+fa nel libro sesto dell'Eneida, a confermazione di quello, che
+dice la Sibilla, che si mostra a Carone il ramo dell'oro.
+
+	|97-98.~  Avea Caron minacciato all'anime dannate di
+menarle in perpetue pene, ed aveva minacciato a Dante che non era
+per passarlo su la sua nave.  Ora, quanto @e a Dante, l'ira cessa
+e la minaccia riesce in vano per le parole di Virgilio; ma,
+quanto @e a' dannati, dura l'ira e la minaccia ha essecuzione.
+
+	|101.  Cangiar colore e dibattero i denti~, per la paura
+sopravenuta loro per la pena minacciata da Carone;
+
+	|103-105.~ e, s@i come quelle che non isperano perdono,
+bestemmiano dio, come prima cagione del loro essere, |e i loro
+parenti~, cio@e Adamo ed Eva, come seconda cagione, e |l'umana
+spezie~, desiderando che mai non fosse stata umana spezie,
+accioch@e non fosseno nati uomini ragionevoli atti ad esser
+tormentati perpetuamente, |il luogo e 'l tempo~, che sono cagioni
+senza le quali non si fa nulla, |e 'l seme di lor semenza~:
+questi sono il padre e la madre.
+
+	|108.  Ch'attende ciascun uom che dio non teme~: questo
+dice non da s@e, ma per quello che intender@a da Virgilio.
+
+	|111.  Batte col remo qualunque s'adagia.~  Questo
+contradice a quello, che si dice di sopra: <E qual costume le fa
+parer di trapassar si pronte> {73-74}; ed a quello, che si dir@a
+di sotto: <E pronte sono a trapassar lo rio; Ch@e la divina
+giustizia gli sprona Si, che la tema si volge in desio> {124-
+125}.
+
+	|112-113.  Come d' Autunno si levan le foglie L' una
+appresso dell'altra.~  Questa comperazione mostra pi@u l'ordine e
+la successione dell'anime, che andavano per passare, che la
+moltitudine, e pure si doveva tener pi@u conto della moltitudine
+che della successione, s@i come fece Virgilio nel libro VI
+dell'Eneida: <Quam multa in silvis autumni frigore primo Lapsa
+cadunt folia> [vv.  309-310].
+
+	|122-123.~  Ora risponde Virgilio alle due domande, che
+Dante, essendo ancora lontano dal fiume, aveva fatte, cio@e quali
+genti sieno queste e perch@e sieno cos@i pronte a volere
+trapassare il fiume, ed aggiugne una terza risposta ad una terza
+domanda, che poteva far Dante, perch@e si turbasse e negasse
+Carone di volerlo passare.  |Quelli, che muoion nell'ira di dio,
+Tutti.~  Questo non @e simplicemente vero per ci@o che gli
+sciagurati muoiono nell' ira di dio, n@e perci@o convengono qui
+per passare come s' @e veduto, restando nell'anzilimbo.
+
+	|127-129.  Quinci non pass@o mai anima buona.~  Questo @e
+falso, percioch@e, secondo la credenza pagana, quinci pass@o
+Enea, Ercole, Teseo e, secondo la credenza di lui, i santi padri,
+li quali di sotto dir@a essere stati tratti da Cristo del primo
+cerchio.  Adunque si dee restringere questo detto da che fu
+constituito il purgatorio e poi che Cristo liber@o i santi padri
+del predetto primo cerchio.  Ma @e da porre mente che Virgilio
+parla qui d'anima buona, e Carone si crucciava perch@e era anima
+viva, e cosi non risponde a tempo.
+
+	Qui non appare, per cose alcune che si dicano, la cagione
+di questo tremuoto e di questo baleno, n@e Dante, che suole
+essere tanto curioso nelle novit@a e desideroso di intenderne la
+cagione, non ne domanda nulla, n@e si maraviglia.  Non fa miga
+cosi nel tremuoto del purgatorio, quando l'anima di Stazio ebbe
+fatto fine alle purgazioni.  Laonde io non posso commendare
+questa disuguaglianza in questo poeta.  Ora altri si potrebbe
+imaginare che questo tremuoto si facesse ogni anno in quel punto
+in rammemorazione del tremuoto, che avenne pure in quel punto
+nella morte di Cristo, o si potrebbe ancora imaginare che, si
+come il monte del purgatorio trema per rallegrarsi della
+liberazione dell'anima dalle pene, cos@i lo 'nferno trema per
+contristaisi che alcuno vivo venga in inferno, ricordandosi della
+venuta di Cristo, ehe spogliollo di molte anime; ma sono
+imaginazioni di fuori, e non procedono dalle parole del poeta.
+

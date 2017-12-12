@@ -1,0 +1,181 @@
+Return-Path: <@DARTCMS1.DARTMOUTH.EDU:U35395@UICVM.CC.UIC.EDU>
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA00151; Fri, 20 May 1994 16:15:22 -0400
+Received: from DARTCMS1.DARTMOUTH.EDU by dartvax.dartmouth.edu (8.6.8.1+DND/4.5HUB)
+	id QAA04836; Fri, 20 May 1994 16:15:22 -0400
+Message-Id: <199405202015.QAA04836@dartvax.dartmouth.edu>
+Received: from DARTCMS1.DARTMOUTH.EDU by DARTCMS1.DARTMOUTH.EDU
+   (IBM VM SMTP V2R2) with BSMTP id 8491; Fri, 20 May 94 16:15:45 EST
+Received: from UICVM.CC.UIC.EDU (NJE origin MAILER@UICVM) by DARTCMS1.DARTMOUTH.EDU (LMail V1.1d/1.7f) with BSMTP id 8490; Fri, 20 May 1994 16:15:41 -0500
+Received: from UICVM (NJE origin U35395@UICVM) by UICVM.CC.UIC.EDU (LMail V1.2a/1.8a) with BSMTP id 9181; Fri, 20 May 1994 15:14:49 -0500
+Date:         Fri, 20 May 94 15:14:46 CDT
+From: "C. M. Sperberg-McQueen" <U35395%UICVM.BITNET@DARTCMS1.DARTMOUTH.EDU>
+Organization: ACH/ACL/ALLC Text Encoding Initiative
+Subject:      Re: TEI Guidelines
+To: Stephen.Campbell@Dartmouth.EDU
+In-Reply-To:  Message of Tue, 17 May 94 08:43:13 -0400 from
+ <steve@avalon.dartmouth.edu>
+
+On Tue, 17 May 94 08:43:13 -0400 Stephen Campbell said:
+>Hello,
+>
+>Please send me information about electronic access to the TEI Guidelines.
+>Thanks.
+>                                                Steve Campbell
+>                                                Dartmouth Dante Project
+
+Thanks for your note.  I append information on how to get TEI P3 in
+electronic and paper forms; feel free to contact me if you encounter
+any difficulties.
+
+-C. M. Sperberg-McQueen
+
+--------
+TEI P3 is available in the following forms:
+
+  - in paper (1300 pp., 2 volumes), at a cost of $75 US, 50 pounds
+    sterling, or 7500 yen.  Order form below.
+  - electronically in an SGML-tagged form (ca. 5.6 Mb) using the TEI DTD
+    documented in TEI P3, with minor extensions; this form is available
+    without cost via Listserv or anonymous ftp.  More info below.
+  - electronically in a formatted 'ASCII-only' version (ca. 3.1 Mb)
+    suitable for display by those without an SGML-aware rendering engine;
+    this form is available without cost via Listserv or anonymous ftp.
+
+The TEI document type definition (DTD) files are available electronically
+via Listserv or anonymous ftp.
+
+The electronic forms of the documentation are available via Listserv
+commands from LISTSERV@UICVM.UIC.EDU, and by anonymous ftp from:
+
+    ftp-tei.uic.edu (in pub/tei and its subdirectories)
+    sgml1.ex.ac.uk (in pub/tei/p3 and its subdirectories)
+    TEI.cix.chiba-u.ac.jp (in /TEI)
+    ftp.ifi.uio.no (in pub/SGML/TEI)
+
+For instructions on using ftp, consult your local documentation.
+For instructions on using Listserv, see below.
+For further information about the TEI, subscribe to TEI-L (see below
+for instructions).
+
+--------
+
+Getting electronic copies of the files from Listserv
+
+To fetch TEI P3 from the TEI-L file server maintained at the University
+of Illinois at Chicago, send electronic mail to
+
+    listserv@uicvm.uic.edu
+
+containing one or more of the following lines.  To order the SGML-tagged
+version of TEI P3, include the line
+
+    get teip3 package
+
+To order the formatted, untagged (ASCII-only) version of TEI P3, include
+
+    get p3ascii package
+
+To order the TEI P3 DTD files, include
+
+    get p3dtds package
+
+If you want ALL THREE packages (SGML-tagged, formatted, and DTDs), you
+may include all three of the lines given above, or the single line
+
+    get p3all package
+
+For further information on using the file server, include the line
+
+    get edj8 memo
+
+or consult the materials Listserv sent you when you subscribed to TEI-L.
+If you are not already subscribed, you can subscribe by including the
+following line in your note to Listserv@uicvm.uic.edu:
+
+    subscribe tei-l J. Doe
+
+(substituting your name for 'J. Doe')
+
+--------
+Getting paper copies of TEI P3
+
+To get paper copies of TEI P3, send the order form below to the
+appropriate address, enclosing appropriate payment.
+
+
+
+
+                               ORDER FORM
+
+           Association for Computers and the Humanities (ACH)
+            Association for Computational Linguistics (ACL)
+        Association for Literary and Linguistic Computing (ALLC)
+
+
+                        Text Encoding Initiative
+
+        Guidelines for Electronic Text Encoding and Interchange
+                           (TEI P3, May 1994)
+
+
+
+Name:
+
+Organization:
+
+Street:
+
+City:                               Postcode/ZIP:
+
+
+Please supply  .....  copies of TEI P3
+at (check one)
+    .. Standard Price:  ($75/50 pounds/7500 Yen)
+    .. Discount Price, for members of ACH, ACL, or ALLC:
+       ($50/35 pounds/5000 Yen)
+                                                             ......
+Shipping and handling Charges
+   Parcel Post (no charge)
+   Surface/first class ($10 per copy/10 pounds per copy)     ......
+   Express delivery within Europe/North America only:
+       ($30 per copy / 20 pounds per copy)                   ......
+
+                              Total sum enclosed: __________________
+
+
+Send this form to the nearest of the following:
+
+    C. M. Sperberg McQueen
+    University of Illinois at Chicago
+    Academic Computing Center (M/C 135)
+    1940 W. Taylor, Rm. 124
+    Chicago IL  60612-7352
+    U.S.A.
+
+    N.B. Payments to the Chicago office must be by check in
+    US Dollars payable to the Association for Computers and the
+    Humanities.
+
+OR  TEI Orders
+    Oxford University Computing Services
+    13 Banbury Road
+    Oxford OX2 6NN
+
+    N.B. Payments to the Oxford office must be by cheque or
+    money order in sterling or US Dollars, payable to Oxford
+    University Computing Services.
+
+OR  Prof. Syun Tutiya
+    Faculty of Letters
+    Chiba University
+    1-33 Yayoi-cho
+    Inage-ka
+    Chiba 263
+    JAPAN
+    fax: +81 (43) 256-7032
+
+    N.B. Payments to the Chiba office must be in yen; for details,
+    please contact Prof. Tutiya by email
+    (tutiya@culle.l.chiba-u.ac.jp) or by
+    fax: +81 (43) 256-7032.

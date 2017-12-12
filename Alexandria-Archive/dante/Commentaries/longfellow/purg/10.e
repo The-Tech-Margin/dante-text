@@ -1,0 +1,287 @@
+	|1.~  In this canto is described the First Circle of
+Purgatory, where the sin of Pride is punished.
+
+	|14.~  It being now Easter Monday, and the fourth day
+after the full moon, the hour here indicated would be four hours
+after sunrise.  And as the sun was more than two hours high when
+Dante found himself at the gate of Purgatory (Canto IX. 44), he
+was an hour and a half in this needle's eye.
+
+	|30.~  Which was so steep as to allow of no ascent;
+^dritto di salita~ being used in the sense of right of way.
+
+	|32.~  Polycletus, the celebrated Grecian sculptor, among
+whose works one, representing the body-guard of the king of
+Persia, acquired such fame for excellence as to be called "the
+Rule."
+
+	|33.~  With this description of the sculptures on the
+wall of Purgatory compare that of the shield which Vulcan made
+for Achilles, ^Iliad~, XVIII. 484, Buckley's Tr.: --
+
+     "On it he wrought the earth, and the heaven, and the sea,
+     the unwearied sun, and the full moon.  On it also he
+     represented all the constellations with which the heaven is
+     crowned, the Pleiades, and Hyades, and the strength of
+     Orion, and the Bear, which they also call by the appellation
+     of the Wain, which there revolves, and watches Orion; but it
+     alone is free from the baths of the ocean.
+
+     "In the likewise he wrought two fair cities of articulate
+     speaking men. In the one, indeed, there were marriages and
+     feasts; and they were conducting the brides from their
+     chambers through the city with brilliant torches, and many a
+     bridal song was raised.  The youthful dancers were wheeling
+     round, and among them pipes and lyres uttered a sound; and
+     the women standing, each at her portals, admired.  And
+     people were crowded together in an assembly, and there a
+     contest had arisen; for two men contended for the ransom-
+     money of a slain man: the one affirmed that he had paid all,
+     appealing to the people; but the other denied, averring that
+     he had received naught: and both wished to find an end of
+     the dispute before a judge.  The people were applauding
+     both, supporters of either party, and the haralds were
+     keeping back the people; but the elders sat upon polished
+     stones, in a sacred circle, and the pleaders held in their
+     hands the staves of the clear-voiced heralds; with these
+     then they arose, and alternately pleaded their cause.
+     Moreover, in the midst lay two talents of gold, to give to
+     him who should best establish his claim among them.  But
+     round the other city sat two armies of people glittering in
+     arms; and one of two plans was agreeable to them, either to
+     waste it, or to divide all things into two parts, -- the
+     wealth, whatever the pleasant city contained within it.
+     They, however, had not yet complied, but were secretly
+     arming themselves for an ambuscade.  Meanwhile, their
+     beloved wives and young children kept watch, standing above,
+     and among them the men whom old page possessed.  But they
+     (the younger men) advanced; but Mars was ther leader, and
+     Pallas Minerva, both golden, and clad in golden dresses,
+     beautiful and large, along with their armor, radiant all
+     round, and indeed like gods; but the people were of humbler
+     size.  But when they now had reached a place where it
+     appeared fit to lay an ambuscade, by a river, where there
+     was a watering-place for all sorts of cattle, there then
+     they settled, clad in shining steel.  There, apart from the
+     people, sat two spies, watching when they might perceive the
+     sheep and crooked-horned oxen.  These, however, soon
+     advanced, and two shepherds accompanied them, amusing
+     themselves with their pipes, for they had not yet perceived
+     the stratagem.  Then they, discerning them, ran in upon
+     them, and immediately slaughtered on all sides the herds of
+     oxen, and the beautiful flocks of snow-white sheep; and slew
+     the shepherds besides.  But they, when they heard the great
+     tumult among the oxen, previously sitting in front of the
+     assembly, mounting their nimble-footed steeds, pursued; and
+     soon came up with them.  Then, having marshalled themselves,
+     they fought a battles on the banks of the river, and wounded
+     one another with their brazen spears.  Among them mingled
+     Discord and Tumult, and destructive Fate, holding one alive
+     recently wounded, another unwounded, but a third, slain, she
+     drew by the feet through the battle; and had the garment
+     around her shoulders crimsoned with the gore of men.  But
+     they turned about, like living mortals, and fought, and drew
+     away the slaughtered bodies of each other.
+
+     "On it he also placed a soft fallow field, rich glebe, wide,
+     thrice-ploughed; and in it many ploughmen drove hither and
+     thither, turning round their teams.  But when, returning,
+     they reached the end of the field, then a man, advancing,
+     gave into their hands a cup of very sweet wine; but they
+     turned themselves in series, eager to reach the other end of
+     the deep fallow.  But it was all black behind, similar to
+     ploughed land, which indeed was a marvel beyond all others.
+
+     "On it likewise he placed a field of deep corn, where
+     reapers were cutting, having sharp sickles in their hands.
+     Some handfuls fell one after the other upon te ground along
+     the furrow, and te binders of sheaves tied others with
+     bands.  Three binders followed the reapers, while behind
+     them boys gathering the handfuls, and bearing them in their
+     arms, continually supplied them; and among them the master
+     stood by the swath in silence, holding a sceptre, delighted
+     in heart.  But apart, beneath an oak, servants were
+     preparing a banquet, and, sacrificing a huge ox, they
+     ministered; while women sprinkled much white barley on the
+     meat, as a supper for the reapers.
+
+     "On it likewise he placed a vineyard, heavily laden with
+     grapes, beautiful, golden; but the clusters throughout were
+     black; and it was supported throughout by silver poles.
+     Round it he drew an azure trench, and about it a hedge of
+     tin; but there was only one path to it, by which the
+     gatherers went when they collected the vintage.  Young
+     virgins and youths, of tender minds, bore the luscious fruit
+     in woven baskets, in the midst of whom a boy played sweetly
+     on a shrill harp; and with tender voice sang gracefully to
+     the chord; while they, beating the ground in unison with
+     dancing and shouts, followed, skipping with their feet.
+
+     "In it he also wrought a heard of oxen with horn erect.  But
+     the kine were made of gold and of tin, and rushed out with a
+     lowing from the stall to the pasture, beside a murmuring
+     stream, along the breeze-weaving reeds.  Four golden
+     herdsmen accompanied the oxen, and nine dogs, swift of foot,
+     followed.  But two terrible lions detained the bull, roaring
+     among the foremost oxen, and he was dragged away, loudly
+     bellowing, and the dogs and youths followed for a rescue.
+     They indeed, having torn off the skin of the great ox,
+     lapped up his entrails and black blood; and the shepherds
+     vainly pressed upon them, urging on their fleet dogs.  These
+     however refused to bite the lions, but, standing very near,
+     barked, and shunned them.
+
+     "On it illustrious Vulcan also formed a pasture in a
+     beautiful grove full of white sheep, and folds, and covered
+     huts and cottages.
+
+     "Illustrious Vulcan likewise adorned it with a dance, like
+     unto that which, in wide Gnossus, Daedalus contrived for
+     fair-haired Ariadne.  There danced youths and alluring
+     virgins, holding each other's hands at the wrist.  These
+     wore fine linen robes, but those were dressed in well-woven
+     tunics, shining as with oil; these also had beautiful
+     garlands, and those were golden swords, hanging from silver
+     belts.  Sometimes, with skilful feet, they nimbly bounded
+     round; as when a potter, sitting, shall make trial of a
+     wheel fitted to his hands, whether it will run: and at other
+     times again they ran back to their places through one
+     another.  But a great crowd surrounded the pleasing dance,
+     amusing themselves; and among them two tumblers, beginning
+     their songs, spun round through the midst.
+
+     "But in it he also formed the vast strength of the river
+     Oceanus, near the last border of the well-formed shield."
+
+	See also Virgil's description of the Shields of AEneas,
+^AEneid~, VIII., and of the representations of the walls of the
+Temple of Juno at Carthage, ^AEneid~, I.  Also the description of
+the Temple of Mars, in Statius, ^Thebaid~, VII., and that of the
+tomb of the Persian queen in the ^Alexandreis~ of Philip
+Gualtier, noticed in Mr. Summer's article, ^Atlantic Monthly~,
+XVI. 754.  And finally "the noble kerving and the portreitures"
+of the Temples of Venus, Mars, and Diana, in Chaucer's ^Knightes
+Tale~: --
+
+       "Why shulde I not as wel eke tell you all
+     The portreiture that was upon the wall
+     Within the temple of mighty Mars the Rede?
+     .....
+       "First on the wall was peinted a forest,
+     In which ther wonneth neyther man ne best;
+     With knotty, knarry, barrein trees old,
+     Of stubbes sharpe, and hidous to behold;
+     In which ther ran a romble and a swough,
+     As though a storme shuld bresten every bough.
+     And, dounward from an hill, under a bent,
+     Ther stood the temple of Mars Armipotent,
+     Wrought all of burned stele; of which th'entree
+     Was longe and streite, and gastly for to see,
+     And therout came a rage an swiche a vise,
+     That it made all the gates for to rise.
+     The northern light in at the dore shone;
+     For window, on the wall, ne was ther none,
+     Thurgh which men mighten any light discerne.
+     The dore was all of athamant eterne;
+     Yclenched, overthwart and endelong,
+     With yren tough.  And, for to make it strong,
+     Every piler the temple to sustene
+     Was tonne-gret, of yren bright and shene.
+       "Ther saw I, first, the derke imagining
+     Of felonie, and alle the compassing;
+     The cruel ire, red as any glede;
+     The pikepurse; and eke the pale drede;
+     The smiler, with the knif under the cloke;
+     The shepen brenning, with the blake smoke;
+     The treson of the mordring in the bedde;
+     The open werre, with woundes all bebledde;
+     Conteke, with blody knif and sharp menace:
+     All full of chirking was that sory place.
+     The sleer of himself, yet, saw I there,
+     His herte-blood hath bathed all his here,
+     The naile ydriven in the shode anyght,
+     The colde deth, with mouth gaping upright."
+
+	|40.~  Luke i. 28: "And the angel came in unto her and
+said, Hail, thou that art highly favored, the Lord is with thee."
+
+	|44.~  Luke i. 38: "And Mary said, Behold the handmaid of
+the Lord."
+
+	|57.~ 2 Samuel vi. 6, 7: "And when they came to Nachon's
+threshing-floor, Uzzah put forth his hand to the ark of God, and
+took hold of it; for the oxen shook it.  And the anger of the
+Lord was kindled against Uzzah, and God smote him there for his
+error; and there he died by the ark of God."
+
+	|65.~ 2 Samuel vi. 14: "And David danced before the Lord
+with all his might; and David was girded with a linen ephod."
+
+	|68.~ 2 Samuel vi. 16: "And as the ark of the Lord came
+into the city of David, Michal, Saul's daughter, looked through a
+window and saw King David leaping and dancing before the Lord;
+and she despised him in her heart."
+
+	|73.~  This story of Trajan is told in nearly the same
+words, though in prose, in th ^Fiore di Filosofi~, a work
+attributed to Brunetto Latini.  See Nannucci, ^Manuale della
+Letteratura del Primo Secolo~, III. 291.  It may be found also in
+the ^Legenda Aurea~, in the ^Cento Novelle Antiche~, Nov. 67, and
+in the ^Life of St. Gregory~, by Paulus Diaconus.
+
+	As told by Ser Brunetto the story runs thus:
+
+     "Trajan was a very just Emperor, and one day, having mounted
+     his horse to go into battle with his cavalry, a woman came
+     and seized him by the foot, and, weeping bitterly, asked him
+     and besought him to do justice upon those who had without
+     cause put to death her son, who was an upright young man.
+     And he answered and said, `I will give thee satisfaction
+     when I return.'  And she said, `And if thou dost not
+     return?' And he answered, `If I do not return, my successor
+     will give thee satisfaction.'  And she said, `How do I know
+     that? and suppose he do it, what is it to thee if another do
+     good?  Thou art my debtor, and according to thy deeds shalt
+     thou be judged; and is a fraud for a man not to pay what he
+     owes; the justice of another will not liberate thee, and it
+     will be well for thy successor if he shall liberate
+     himself.'  Moved by these words the Emperor alighted, and
+     did justice, and consoled the widow, and then mounted his
+     horse, and went to battle, and routed his enemies.  A long
+     time afterwards St. Gregory, hearing of his justice, saw his
+     statue, and had him disinterred, and found that he was all
+     turned to dust, except his bones and his tongue, which was
+     like that of a living man. And by this St.  Gregory knew his
+     justice, for this tongue had always spoken it; so that then
+     he wept very piteously through compassion, praying God that
+     he would take this soul out of Hell, knowing that he had
+     been a Pagan.  Then God, because of these prayers, drew that
+     soul from pain, and put it into glory.  And thereupon the
+     angel spoke to St Gregory, and told him never to make such a
+     prayer again, and God laid upon him as a penance either to
+     be two days in Purgatory, or to be always ill with fever and
+     side-ache.  St.  Gregory as the lesser punishment chose the
+     fever and side-ache (^male di fianco~)."
+
+	|75.~  Gregory's "great victory" was saving the soul of
+Trajan by prayer.
+
+	|124.~  Jeremy Taylor says: As the silk-worm eateth
+itself out of a seed to become a little worm; and there feeding
+on the leaves of mulberries, it grows till its coat be off, and
+then works itself into a house of silk; then, casting its pearly
+seeds from the young to breed, it leaveth its silk for man, and
+dieth all white and winged in the shape of a flying creature: so
+is the progress of souls."
+
+	|127.~  Goer, ^Confes. Amant.~,: --
+
+     "The proude vice of veingloire
+     Remembreth nought of purgatoire."
+
+	And Shakespeare, ^King Henry the Eighth~, III. 2: --
+
+	                 "I have ventured,
+     Like little wanton boys that swim on bladders,
+     This many summers in a sea of glory."
+

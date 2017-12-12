@@ -1,0 +1,89 @@
+Checking file 01.f
+Checking file 02.f
+Checking file 03.f
+Warning: single line paragraph at line 270
+>>>	|122.~  VANIO, disparve, & vien dal Latino Evanuit.
+
+Checking file 04.f
+Checking file 05.f
+Warning: single line paragraph at line 276
+>>>	|72.~  COLTO, sacrificio.
+
+Checking file 06.f
+Warning: single line paragraph at line 153
+>>>	|79.~  Lito RUBRO, il mar rosso.
+
+Checking file 07.f
+Checking file 08.f
+Error at line 52: Spaces/Tabs used in paragraph
+>>>          [[[[[DIAGRAM]]]]] Il maggior circolo di questa figura
+Checking file 09.f
+Warning: single line paragraph at line 168
+>>>	|63.~  S@i che questi parlar ne paion BONI, ne paion veri.
+
+Checking file 10.f
+Checking file 11.f
+Error at line 3: Spaces used at head of paragraph
+>>>                |Proemio.~  Nel presente canto introduce il Poeta
+>>> san Tomaso @a risolvere uno delli duo dubbij, che esso santo
+
+Warning: single line paragraph at line 211
+>>>	|97.~  Di seconda CORONA, cio@e di dignit@a sacerdotale.
+
+Warning: single line paragraph at line 213
+>>>	|98.~  da l'eterno SPIRO, Spirito santo.
+
+Warning: single line paragraph at line 233
+>>>	|113.~  la sua Donna pi@u CARA, essa povert@a.
+
+Warning: single line paragraph at line 235
+>>>	|115.~  del suo GREMBO, del suo corpo.
+
+Checking file 12.f
+Checking file 13.f
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  Nel presente XIII. canto per bellissime
+>>> similitudini ci dimostra, & dipinge il Poeta, in che guisa le due
+
+Checking file 14.f
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  Dimostra nel presente canto il Poeta, come
+>>> poi che san Tomaso gli hebbe risoluto il dubbio, & che si tacque,
+
+Warning: single line paragraph at line 80
+>>>	|33.~  giusto MUNO, conveniente guiderdone & merc@e.
+
+Checking file 15.f
+Checking file 16.f
+Checking file 17.f
+Checking file 18.f
+Checking file 19.f
+Checking file 20.f
+Checking file 21.f
+Checking file 22.f
+Warning: single line paragraph at line 59
+>>>	|20.~  ILLUSTRI, grandi & eccellenti.
+
+Checking file 23.f
+Checking file 24.f
+Checking file 25.f
+Error at line 284: Spaces used at head of paragraph
+>>>                |101-102.~  S@i che se'l Cancro havesse un tal
+>>> CRISTALLO.  sogliono i Poeti far comparationi di cose
+
+Checking file 26.f
+Checking file 27.f
+Checking file 28.f
+Error at line 1: Multiple blank lines
+>>>
+Error at line 2: Spaces/Tabs used in paragraph
+>>>	|Proemio.~  In questo vigesimo ottavo canto, narra il
+Checking file 29.f
+Error at line 253: Spaces used at head of paragraph
+>>>  	|88-96.~  ma ancora che in questo voi erriate,
+>>> nientedimeno tal errore si comporta qu@a s@u, con manco assai
+
+Checking file 30.f
+Checking file 31.f
+Checking file 32.f
+Checking file 33.f

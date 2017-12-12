@@ -1,0 +1,149 @@
+	|1-3.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|6.~ |(ed.  Rosini)~
+Vita di Tommaso.  [richiamo marginale] [Sessa]
+
+^Vita~, anima.  [Da Fino]
+
+	|13.~ |(ed.  Rosini)~
+^Se la luce, onde s'infiora.  Infiorarsi della luce~; non risponde la 
+metafora.  [Sessa]
+
+	|19-21.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|20.~ |(ed.  Rosini)~
+Alla fiata.  [richiamo marginale] [Sessa]
+
+	|24.~ |(ed.  Rosini)~
+Torneare,...  mira.  [richiamo marginale] [Sessa]
+
+	|26.~ |(ed.  Rosini)~
+Quive.  [richiamo marginale] [Sessa]
+
+	|27.~ |(ed.  Rosini)~
+^Ploja~, felicit@a.  [Da Fino]
+
+	|28-31.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+	|28.~ |(ed.  Rosini)~
+^Quell'uno e due e tre~, Dio uno e trino.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+^Muno~, dono.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+^Dia~, divina.  [Da Fino]
+
+	|41.~ |(ed.  Rosini)~
+^L'ardor~, repetizione.  [Da Fino]
+
+	|48.~ |(ed.  Rosini)~
+^Lume~, repetizione.  [Da Fino]
+
+	|52-54.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+Parvenza.  [richiamo marginale] [Sessa]
+
+	|56.~ |(ed.  Rosini)~
+^Carne~, corpo.  [Da Fino]
+
+	|59.~ |(ed.  Rosini)~
+^Forti~, disposti.  [Da Fino]
+
+	|63.~ |(ed.  Rosini)~
+^De' corpi morti~, di risuscitare.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Sempiterne fiamme~, anime salve.  [Da Fino]
+
+	|68.~ |(ed.  Rosini)~
+Lustro.  [richiamo marginale] [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^Sussistenze~, sustanze.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+Esclamazione.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+Candente.  [richiamo marginale] [Sessa]
+
+^Candente~, chiaro.  [Da Fino]
+
+	|83.~ |(ed.  Rosini)~
+Translato.  [richiamo marginale] [Sessa]
+
+	|84.~ |(ed.  Rosini)~
+^A pi@u alta salute~, al pianeta di Marte.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+Roggio.  [richiamo marginale] [Sessa]
+
+	|93.~ |(ed.  Rosini)~
+Litare.  [richiamo marginale] [Sessa]
+
+^Litare~, sacrificare.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+Lucore...  robbi.  [richiamo marginale] [Sessa]
+
+^Robbi~, rossi.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^O Eli@os, che s@i gli addobbi~, o Dio che tanto li orni.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Maggi.  [richiamo marginale] [Sessa]
+
+	|99.~ |(ed.  Rosini)~
+^Galassia~, via lattea.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^Costellati~, uniti.  [Da Fino]
+
+	|101.~ |(ed.  Rosini)~
+^Segno~, croce.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+Crociati.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+Alb@or.  [richiamo marginale] [Sessa]
+
+	|112-114.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+Minuzie.  [richiamo marginale] [Sessa]
+
+^Minuzie~, atomi.  [Da Fino]
+
+	|115-116.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|118.~ |(ed.  Rosini)~
+^Giga ed arpa~, instrumenti di musica.  [Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+^Tintinno~, voce finta.  [Sessa]
+
+	|121.~ |(ed.  Rosini)~
+Apparinno.  [richiamo marginale] [Sessa]
+
+	|122.~ |(ed.  Rosini)~
+Melode.  [richiamo marginale] [Sessa]
+
+	|125.~ |(ed.  Rosini)~
+^Resurgi, e vinci~, Cristo.  [Da Fino]
+
+	|138.~ |(ed.  Rosini)~
+^Dischiuso~, aperto.  [Da Fino]
+

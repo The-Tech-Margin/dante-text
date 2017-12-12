@@ -1,0 +1,416 @@
+\~
+\~	Form File for the Dartmouth Dante Project 1998 load
+\~
+
+\~
+\~	IMPORTANT: Several version of this file exist. They are identical
+\~		except for the definitions of the alternate stopword
+\~		lists. A version of this file exists for each combination
+\~		of languages found in the commentaries. The appropriate
+\~		version is symlinked into place before loading each comm.
+\~		See ~dante/bin/setloadlang for more information.
+\~
+
+              banner:	The Dartmouth Dante Project
+
+         inputindent:	0
+
+\~
+\~	Paragraph Entries
+\~
+
+\~
+
+           shortname: DOCN
+            longname:	BRS Assigned Accession Number
+           inputname:	..Document-Number:
+               flags:	SEARCH COMPR-E
+              verify:	MIN-CHARS=1 MAX-LINES=1 LINELEN=9 MASK=999999999
+
+\~
+
+           shortname: COMM
+            longname:	Dante Project name for the commentary
+           inputname:	..COMM:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 DOUBLPOST -
+			NO-PERIOD 
+              verify:	ANYTHING MIN-CHARS=1 MAX-CHARS=75 MAX-LINES=1
+
+\~
+
+           shortname: LANG
+            longname:	Language of the Commentary
+           inputname:	..LANG:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 NO-PERIOD
+              verify:	LETTERS MIN-CHARS=1 MAX-CHARS=20 MAX-LINES=1
+
+\~	Possible values for DTYP:
+\~		D - Commentary Description
+\~		T - Commentary Text keyed to poem line numbers
+\~		I - Non-line-specific text (proemio, nota finale, etc.)
+\~		P - Poem Text
+\~		S - Special Dcoument
+
+           shortname: DTYP
+            longname:	Type of Document
+           inputname:	..DTYP:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 NO-ABBREV 
+              verify:	LETTERS MIN-CHARS=1 MAX-CHARS=20 MAX-LINES=1
+
+\~
+
+           shortname: AUTH
+            longname:	Commentary Author
+           inputname:	..AUTH:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 DOUBLPOST -
+			NO-PERIOD FORMAT
+              verify:	ANYTHING MIN-CHARS=1
+
+\~
+
+           shortname: PUBD
+            longname:	Original Publication Date (year)
+           inputname:	..PUBD:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 VALUES NO-POSITION
+              verify:	ANYTHING MIN-CHARS=4 MAX-LINES=1
+
+\~
+
+           shortname: PUBL
+            longname:	Original Publisher or Editor
+           inputname:	..PUBL:
+               flags:	FORMAT NO-SEARCH
+              verify:	ANYTHING LINELEN=79
+
+\~
+
+           shortname: EDTR
+            longname:	Dante Project Editor
+           inputname:	..EDTR:
+               flags:	FORMAT NO-SEARCH
+              verify:	ANYTHING MIN-CHARS=1 LINELEN=79
+
+\~
+
+           shortname: ATTR
+            longname:	Technical Attributes of the Commentary
+           inputname:	..ATTR:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2 DOUBLPOST PERIOD 
+              verify:	ANYTHING LINELEN=79
+
+\~
+
+           shortname: NOTE
+            longname:	Miscellaneous Notes
+           inputname:	..NOTE:
+               flags:	DOUBLPOST NO-PERIOD FORMAT ABBREV
+             subpars:	1000
+              verify:	ANYTHING LINELEN=79
+
+\~
+
+           shortname: DENT
+            longname:	Data Entry Information
+           inputname:	..DENT:
+               flags:	NO-SEARCH
+              verify:	ANYTHING LINELEN=79
+
+\~
+
+           shortname: LODD
+            longname:	Date of Loading (Automatically supplied)
+           inputname:	..LODD:
+               flags:	NO-SEARCH
+              verify:	ANYTHING DATE-SIX DATE-REPLACE MIN-CHARS=6 -
+			MAX-CHARS=6 MAX-LINES=1 LINELEN=6 MASK=999999
+
+\~
+
+           shortname: CTCA
+            longname:	Cantica in the format 10-Inferno, etc.
+           inputname:	..CTCA:
+               flags:	NO-STDSTOP NO-ALTSTOP1 NO-ABBREV NO-ALTSTOP2 DOUBLPOST
+              verify:	ANYTHING MIN-CHARS=6 MAX-CHARS=40 MAX-LINES=1
+
+\~
+
+           shortname: CNTO
+            longname:	Canto Number (or "Proemio")
+           inputname:	..CNTO:
+               flags:	VALUES NO-POSITION DOUBLPOST PERIOD COMPR-OFF
+              verify:	ANYTHING LINELEN=79
+
+\~
+
+           shortname: LINE
+            longname:	First Line Number Reference
+           inputname:	..LINE:
+               flags:	NO-SEARCH 
+              verify:	NUMBERS MAX-CHARS=10 MAX-LINES=1
+
+\~
+
+           shortname: ENDL
+            longname:	Ending Line Number Reference
+           inputname:	..ENDL:
+               flags:	NO-SEARCH 
+              verify:	NUMBERS MAX-CHARS=10 MAX-LINES=1
+
+\~
+
+           shortname: LRNG
+            longname:	Range of line numbers
+           inputname:	..LRNG:
+               flags:	NO-POSITION COMPR-OFF VALUES
+              verify:	ANYTHING
+
+\~
+
+           shortname: REFS
+            longname:	Line Search Reference Words
+           inputname:	..REFS:
+               flags:	NO-DOUBLPOST NO-STDSTOP NO-ALTSTOP1 NO-ALTSTOP2
+              verify:	ANYTHING
+
+\~
+
+           shortname: TEXT
+            longname:	Commentary or Poem Text
+           inputname:	..TEXT:
+\~ Uncomments the appropriate stopword lists below for the desired language combination.
+               flags:	DOUBLPOST NO-PERIOD FORMAT ABBREV NO-STDSTOP ALTSTOP1 ALTSTOP2
+             subpars:	1000
+             eoslist:	".  ",".~  ","?  ","?~  ","!  ","!~  "
+              verify:	ANYTHING LINELEN=200
+
+\~
+
+           shortname: BTXT
+            longname:	Non-searchable commentary text
+           inputname:	..BTXT:
+	       flags:	NO-SEARCH FORMAT
+             subpars:	1000
+             eoslist:	".  ",".~  ","?  ","?~  ","!  ","!~  "
+              verify:	ANYTHING LINELEN=200
+
+\~
+
+           shortname: TCHR
+            longname:	Count of Text Characters
+           inputname:	..TCHR:
+               flags:	NO-SEARCH NO-STDSTOP NO-ALTSTOP1
+              verify:	NUMBERS AMOUNTS MAX-LINES=1 LINELEN=74
+
+\~
+\~	Equivalences for DANT Database
+\~
+
+           shortname: DESC
+         equivalence:	COMM,LANG,AUTH,PUBD,PUBL,EDTR,NOTE,LODD
+
+           shortname: HDR
+         equivalence:	DOCN,COMM,LANG,DTYP,AUTH,PUBD,EDTR,ATTR,NOTE,-
+			DENT,LODD,CTCA,CNTO,LINE,ENDL
+
+           shortname: SHRT
+         equivalence:	COMM,LANG,PUBD,CTCA,CNTO,LINE,ENDL
+
+\~
+\~	List Entries
+\~
+
+noiselist:
+	"|"
+	"\036"
+	"~"
+	"_"
+	"+"
+	"@"
+	"$"
+	"#"
+	","
+	"{"
+	"}"
+:end
+
+parbreak:
+	"\n"
+:end
+
+\~
+\~ Italian stopword list
+\~
+altstoplist1:
+	&
+	A
+	AD
+	AGLI
+	AL
+	ALL
+	ALLE
+	CE
+	CI
+	COL
+	CON
+	DEL
+	DELL
+	DELLA
+	DELLE
+	DELLO
+	DI
+	E
+	IL
+	IN
+	L
+	LA
+	LE
+	LO
+	MA
+	NEL
+	NELLA
+	NELLE
+	SE
+	SI
+	UN
+	UNA
+	UNO
+:end
+
+\~
+\~ Latin stopword list
+\~
+\~altstoplist2:
+\~	&
+\~	&C
+\~	A
+\~	AB
+\~	AC
+\~	AD
+\~	AT
+\~	DE
+\~	E
+\~	ET
+\~	ETC
+\~	EX
+\~	IN
+\~:end
+
+\~
+\~ English stopword list
+\~
+altstoplist2:
+	A
+	AN
+	AND
+	IF
+	IN
+	OF
+	ON
+	OR
+	THAT
+	THE
+	THESE
+	THIS
+	THOSE
+	TO
+:end
+
+abbrevlist:
+	Achil.~
+	Adv.
+	Aen.~
+	Am.~
+	Amic.~
+	Anon.~
+	Apoc.~
+	Aq.~
+	Arb.~
+	Aug.~
+	Bocc.~
+	Boeth.~
+	Caes.~
+	Carm.~
+	cf.
+	Cfr.
+	Cic.~
+	Civ.~
+	Cond.~
+	Cons.~
+	Conv.~
+	Cron.~
+	Dec.~
+	Decr.
+	ec.~
+	ec.
+	ecc.~
+	ecc.
+	etc.
+	Eccl.~
+	Eccli.~
+	Ecl.~
+	ed.
+	Eleg.~
+	Eloq.~
+	En.~
+	Ep.
+	Epig.~
+	Epist.~
+	Epod.~
+	Eth.~
+	Etym.~
+	Geo.~
+	Grat.
+	Hes.~
+	Hist.~
+	Hor.~
+	Inf.~
+	Juv.~
+	Leg.~
+	Lib.~
+	Lig.~
+	Lit.~
+	Liv.~
+	Lucan.~
+	Lucr.~
+	Met.~
+	Meta.~
+	Mon.~
+	Nat.~
+	Nic.~
+	opp.
+	Or.~
+	Ovid.~
+	Par.~
+	Pet.~
+	Petr.~
+	Phaedr.~
+	Phars.~
+	Plat.~
+	Plin.~
+	Poet.~
+	Prop.~
+	Psal.~
+	Pub.~
+	Purg.~
+	Rem.~
+	Rep.~
+	Repub.~
+	Rer.~
+	Rhet.~
+	Sat.~
+	Sen.~
+	Stat.~
+	Suet.~
+	Summ.~
+	Theb.~
+	Theog.~
+	Theol.~
+	Thess.~
+	Thom.~
+	Tib.~
+	Tusc.~
+	Vill.~
+	Virg.~
+	vs.
+	Vulg.~
+:end

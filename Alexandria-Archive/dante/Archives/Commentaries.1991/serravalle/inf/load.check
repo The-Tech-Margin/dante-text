@@ -1,0 +1,113 @@
+Checking file 01.e
+Warning: Single line indent at line 67
+>>>     Per me si va ne la citt@a dolente;
+
+Warning: Single line indent at line 71
+>>>     Per me itur in civitatem dolentium.
+
+Warning: Single line indent at line 77
+>>>     Lo giorno se ne andava
+
+Warning: Single line indent at line 81
+>>>     Dies iam declinabat.
+
+Warning: Single line indent at line 86
+>>>     Nel mezo del camin de nostra vita;
+
+Warning: Single line indent at line 90
+>>>     In medio itineris vite nostre,
+
+Warning: Single line indent at line 98
+>>>     Ed eccho quasi al comenzare;
+
+Warning: Single line indent at line 102
+>>>     Et ecce quasi in principio ascensus.
+
+Warning: Single line indent at line 108
+>>>     Mentre che io ruinava in basso loco;
+
+Warning: Single line indent at line 112
+>>>     Dum sic ruinarem in ymum locum.
+
+Warning: Single line indent at line 117
+>>>     A te convene tenere altro viagio;
+
+Warning: Single line indent at line 121
+>>>     Aliud iter te oportet tenere.
+
+Warning: single line paragraph at line 252
+>>>	|19. Tunc timor~: ecce effectum visionis.
+
+Warning: single line paragraph at line 254
+>>>	|20. In profundo cordis~: sive in lacu radicata.
+
+Checking file 02.e
+Warning: Single line indent at line 47
+>>>     Io comenzai: Poeta che me guide.
+
+Warning: Single line indent at line 52
+>>>     S'io @o bene la tua parola intesa.
+
+Warning: Single line indent at line 57
+>>>     Doncha che haie; perch@e, perch@e ristaie?
+
+Warning: Single line indent at line 68
+>>>     Tempo era del principio del mattino:
+
+Warning: single line paragraph at line 134
+>>>	|12. Fidi~: idest, fidenter commictas.
+
+Checking file 03.e
+Warning: Single line indent at line 484
+>>>     Temendo che 'l mio parlare non gle fosse grave.
+
+Checking file 04.e
+Checking file 05.e
+Checking file 06.e
+Checking file 07.e
+Warning: Single line indent at line 448
+>>>     Tunc ad textum.
+
+Checking file 08.e
+Warning: Single line indent at line 96
+>>>     Iam ad textum veniendo, dicit auctor.
+
+Checking file 09.e
+Warning: single line paragraph at line 103
+>>>	|7.  Certe nos vincemus pugnam~: idest rixam.
+
+Warning: single line paragraph at line 192
+>>>	|30.  Bene scio iter, ideo sis securus~: idest ne timeas.
+
+Checking file 10.e
+Checking file 11.e
+Checking file 12.e
+Checking file 13.e
+Checking file 14.e
+Checking file 15.e
+Checking file 16.e
+Checking file 17.e
+Checking file 18.e
+Checking file 19.e
+Checking file 20.e
+Checking file 21.e
+Checking file 22.e
+Checking file 23.e
+Checking file 24.e
+Checking file 25.e
+Checking file 26.e
+Checking file 27.e
+Checking file 28.e
+Checking file 29.e
+Checking file 30.e
+Checking file 31.e
+Checking file 32.e
+Checking file 33.e
+Checking file 34.e
+Error at line 1: Missing indentation
+>>>|PREAMBULA~
+Error at line 3: Tab used in indenting
+>>>	Antequam ad divisionem libri procedam, intendo aliqua
+Error at line 4: Missing indentation
+>>>preambula facere, et illa expositioni et comento preponere, ex
+Checking file pream.e

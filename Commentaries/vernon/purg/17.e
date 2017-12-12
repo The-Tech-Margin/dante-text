@@ -1,0 +1,141 @@
+	|Proemio.~  Incomincia il diciasettesimo C.o di purghatorio.
+
+	|1-39.~ 
+
+   ^Ricordati lettor se mai nell'alpe~
+   ^ti colse nebbia per la qual vedessi~
+   ^non altrimenti che per pelle talpe.~
+
+Poi che 'l nostro altore hae trattato e determinato del vizio dell'ira 
+in due chapitoli proximi paxati ora in questo chapitolo e quarto 
+circhulo intende trattare il vizio dell'accidia continuando la sua 
+materia alla passata e puotesi dividere questo Cap.o in tre parti etc. 
+diciendo chome comincia il capitolo vogliendo mostrare chome la 
+purghazione dell'ira si fa e dicie in questa forma
+
+   ^O imaginativa che nne rube~
+   ^talvolta che di fuori huom non si acchorgie~
+   ^perch@e dintorno suonin mille tube.~
+
+Istandosi l'altore in questa oschura imaginazione si ffa una amirazione 
+contro all'ira e si gli occorse tre imaginazioni contro all'ira.  L'una 
+fu la cruda impiezza d'ira che dimostr@o il re Tereo di Tracia quando 
+egli sforz@o la cogniata Filomena e poi gli trasse la linghua 
+perch'ella nollo potessi manifestare.  La seconda imaginazione fu la 
+cruda enpiezza d'ira che fe' Prognie la moglie del detto re Tereo che 
+per questo dispetto quando il seppe uccise il suo propio figliuolo e 
+del detto re Tereo e diegliele a mangiare chome pienamente @e scritta 
+questa storia nel nono Cap.o di questa cantica.  E seghue l'altore 
+cos@i diciendo
+
+   ^Poi piove dentro all'alta fantasia~
+   ^un crocifisso dispettoso e fiero~
+   ^nella sua vista e cotal si moria.~
+
+Questa @e la seconda istoria ed @e fatto d'ira che ochorse alla mente 
+dell'altore ed @e questa la storia.  Il re Ansuero fu potentissimo re 
+intanto ch'egli signioreggi@o C°XXVII provincie e stando cierto tempo 
+gli venne voglia di mostrare la sua signoria e di vedere i baroni 
+ch'egli signoreggiava e si mand@o per tutti i suoi baroni che dovessino 
+venire alla citt@a di Susi dove egli abitava nella provincia di Persia 
+per uno grande convito ch'egli voleva fare loro e venuti e dato loro 
+mangiare di fuori della terra per la grande moltitudine e volendo fare 
+loro onore mand@o per la sua donna reina Vasti che venisse a llui la 
+quale avea fatto il suo convito alle donne e il re volea ella venisse 
+i[n] lloro presenza perch'era bellissima perch@e lla vedessono e avea 
+nome Vasti.  Costei dinegh@o il venire per verghognia di tanta giente o 
+vero per superbia ira e alterezza laonde il re Assuero indegniato e 
+mosso a ira contro a llei e raun@o suo consiglio e disse quello dovesse 
+fare di costei ch'avea disubidito di che fra gli altri uno consigli@o 
+ch'egli togliesse altra donna e lei lasciasse e per questo tutte 
+l'altre ne piglierebbono esempro altrimenti le mogli 
+signioreggierebbono i mariti.  E cos@i prese per consiglio e mand@o 
+costui per lui per tutte le belle fanciulle di sue provincie e una ne 
+trov@o delle pi@u belle che mai fosse e di lei invagh@i ed era giudea 
+nipote d'uno ch'avea nome Mardoccheo ed ella avea nome Ester.  E costui 
+disse alla fanciulla non diciesse fusse giudea imper@o ch'eglino erano 
+in disgrazia delle gienti e avea questo re uno malischalcho ch'avea 
+nome Aman e a lui avea il re comesso la signioria come propio fosse re 
+e cos@i era reverito da ogni persona salvo dal zio della fanciulla 
+cio@e Mardoccheo che no' gli faciea alchuna reverenzia.  Il di che fu 
+detto a questo sinischalcho e il sinischalcho mosso ad ira contro a 
+questo Mardocheo il quale era santo e savio huomo imper@o ch'era della 
+leggie del Vecchio Testamento andonne al re e disse signiore voi siete 
+signiore d'una giente i quali sono in disgrazia d'ogni persona e 
+chiamansi Giudei e fanno s@i gran multiprichare che tti potrebbono 
+t#orre la signoria.  Ansuero disse trovasse modo fossono tutti morti e 
+chos@i inteso dal re diede ordine tutti fossono morti.  Et venendo ci@o 
+a notizia a Mardoccheo egli parl@o alla nipote reina e dissegli il 
+fatto dell'ordine dato per lo traditore di Aman e ch'ella dovesse 
+subito preghare il re che non dovesse la sua schiatta disfare s@i 
+dolorosamente.  Di che la donna and@o al re e chiesegli di grazia 
+dovesse andare esso e Aman a mangiare nella chamera di lei il re 
+acciett@o Aman di che Aman and@o a chasa sua e disse alla sua donna e 
+figliuoli l'onore che gli era fatto dal re e dalla reina e da ciaschuna 
+persona salvo che da Mardocheo e che aveva acciettato d'andare a 
+mangiare cholla reina non sapiendo quello che gli dovea incontrare e 
+subito fecie fare un paio di forche per inpicchare questo Mardoccheo 
+rinpetto al suo palagio e poi quando fu otta insieme cho re and@o a 
+mangiare colla reina e quando furono chon esso lei ella manifest@o loro 
+chome ell'era di schiatta giudaicha e ch'ella era nipote di Mardoccheo 
+il quale Aman volea perch'egli no' gli faciea riverenza fare morire 
+tutti i Giudei e anche Marduccheo e che gli piaciessi ci@o non fare e 
+di fare vendetta di Aman traditore e per gli prieghi della reina 
+perdon@o a tutti i Giudei e fecie inpicchare Aman in sulle forche ove 
+dovea inpicchare Marducheo e a Marducheo don@o quell'altorit@a avea 
+Aman cio@e vecier@e e ffu sinischalcho e ghovernatore del re Ansuero 
+d'oriente.  S@i cche l'ira ch'avea Aman contro a Marducheo tutta torn@o 
+sopra a lui.  E per@o dicie chos@i il nostro altore Dante
+
+   ^Intorno a esso era il grande Ansuero~
+   ^Ester suo sposa e 'l giusto Mardocheo~
+   ^che ffu ardire e al fare cos@i intero.~
+
+Questa @e anchora la terza istoria ed effetto d'ira che lla reina Amata 
+moglie del re Latino e madre di Lavina voleva pure che lLavina fosse 
+maritata al re Turno e il re Latino la voleva dare al re Enea troiano e 
+per questo fra Enea e il re Turno fu gran ghuerra intanto che Turno fu 
+morto da Enea ed ebbe Lavina per sua sposa.  E per questo dolore la 
+reina Amata madre de lLavina s'inpicch@o per la ghola.  E per@o dicie 
+la figliuola le predette parole qui dette di sopra.
+
+	|40-75.~ 
+
+   ^Come si frangie il sonno che di butto~
+   ^nuova luce percute il viso chiuso~
+   ^che fratto ghuizza pria che muoia tutto.~
+
+In questa seconda parte discrive l'altore una apparizione gli venne 
+d'un agnolo gli ventol@o l'ali per la faccia e che gli levasse e 
+mondassero dal vizio dell'ira.  E dei intendere per questo agniolo la 
+coscienzia che l'uomo de' avere in s@e medesimo quando si ricognoscie 
+del pecchato ch'egli abbia fatto e da quello si lievi e lavi e mondi 
+chome qui dicie l'altore che ricognosciuto l'uomo si leva mondo dal 
+pecchato.  Ancor dicie che chi non socchorre il proximo anzi che gli 
+adomandi vegiendo la sua bisognia e nicist@a riniegha quello e no' gli 
+vale tanto la limosina.
+
+	|76-139.~ 
+
+   ^Noi eravam dove pi@u non saliva~
+   ^la schala su ed eravano affissi~
+   ^pur chome nave ch'alla piaggia arriva.~
+
+In questa terza parte l'altore vogliendo trattare del vizio 
+dell'accidia e di tutti e sette i pecchati mortali.  In questo quarto 
+circhulo di purghatorio dove si purgha il vizio dell'accidia.  E 
+discrive l'altore che ll'amore @e chagione di tutti vizi e pecchati e 
+che ogni vizio e pecchato procede da cierto amore che l'uomo ha in s@e 
+ed @e cagione di bene e di male.  E sono due amori cio@e amore di 
+charit@a e dirittura e amore d'animo del primo amore si ne nascie 
+quatro pecchati mortali cio@e l'ira la invidia l'accidia e lla 
+vanagloria.  E questi sono contro a dDio e chontro al proximo 
+dell'altro amore cio@e amore d'animo nascie tre pecchati mortali e non 
+sono tanto grandi quanto i primi cio@e avarizia ghola e luxuria ed @e 
+minore il pecchato di dietro che 'l primaio.  E a volere sapere chome 
+questi pecchati naschono e venghono propio per amore dell'uomo cio@e a 
+ss@e medesimo in ogni caso e dicie l'altore in questa forma
+
+   ^@E chi per essere suo vicino sopresso~
+   ^spera eciellenzia e sol per questo brama~
+   ^ch'el sie di suo grandezza in basso messo.~

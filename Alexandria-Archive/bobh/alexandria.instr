@@ -1,0 +1,70 @@
+From steve@avalon.dartmouth.edu Fri Jun 28 11:56:35 1996
+Received: from avalon.dartmouth.edu (avalon [129.170.18.5]) by baker.dartmouth.edu (8.7.4/8.7.3) with ESMTP id LAA11306; Fri, 28 Jun 1996 11:56:29 -0400
+Received: from avalon (localhost [127.0.0.1]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id LAA00586; Fri, 28 Jun 1996 11:56:13 -0400
+Message-Id: <199606281556.LAA00586@avalon.dartmouth.edu>
+To: bobh@baker.dartmouth.edu, siena@baker.dartmouth.edu
+Subject: alexandria accounts
+Reply-To: Stephen.Campbell@dartvax.dartmouth.edu
+Date: Fri, 28 Jun 1996 11:56:07 -0400
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+I have created your accounts on alexandria.dartmouth.edu.  You have the same
+user names and passwords as on baker.  You will probably be asked to change
+your password the first time you log in.  I have NOT compied any of your
+personal files from baker to al.  You can do that yourselves.  Don't forget
+the files that begin with "." like .cshrc and .login.  If you need help, let
+me know, but I may not get to it until after July 8.
+
+I have also created the account named "dante" and "ddpdemo".  I will work on
+transferring these myself.  The dante account has a new password: Comedia.
+There are some other old ddp* logins: ddpjanet, ddpcmarc, and ddpneh. I
+propose we leave those to die on baker.  They have not been used in ages. We
+can handle any new requests if and when we get them.
+
+							Steve
+
+From steve@avalon.dartmouth.edu Mon Jul  8 14:45:29 1996
+Received: from avalon.dartmouth.edu (avalon [129.170.18.5]) by baker.dartmouth.edu (8.7.4/8.7.3) with ESMTP id OAA23031; Mon, 8 Jul 1996 14:44:56 -0400
+Received: from avalon (localhost [127.0.0.1]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id OAA25362; Mon, 8 Jul 1996 14:44:52 -0400
+Message-Id: <199607081844.OAA25362@avalon.dartmouth.edu>
+To: Robert Hollander - DDP PI <bobh@baker.dartmouth.edu>
+Cc: siena@baker.dartmouth.edu
+Subject: Re: alexandria accounts 
+In-reply-to: Your message of "Fri, 28 Jun 1996 20:17:58 EDT."
+             <199606290017.UAA17690@baker.dartmouth.edu> 
+Reply-To: Stephen.Campbell@dartvax.dartmouth.edu
+Date: Mon, 08 Jul 1996 14:44:46 -0400
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+
+>  Please tell me what the target is when I move my files to Al.
+
+Bob, I created a file named .rhosts (note the leading dot, which make the file
+NOT show up when you do an ls command) that contains one line:
+
+baker bobh
+
+Its effect is to allow user bobh on host baker to have access without password
+to user bobh on host al.  With this capability it is easy to copy files from
+your account on baker to your account on al.  Use the rcp (remote copy)
+command.  Log onto baker and do a command like
+
+rcp filename al:filename
+
+That copies any file named "filename" from baker to your account on al.  Toby
+can do the same for his accounts, though he needs to create that .rhosts file
+is his directory for himself.
+
+> And what about the address we should  use for the DDP coming in
+> from the Internet?
+
+Anyone coming in from the Internet to use the DDP should telnet to
+library.Dartmouth.EDU. I hope that's what we've been telling people.
+
+
+We had a fine time in England, floating around near Bath on a canal boat.
+
+							Steve
+

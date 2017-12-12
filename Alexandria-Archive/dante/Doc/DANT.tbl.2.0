@@ -1,0 +1,16 @@
+DBMGR=dante
+INV2=/dante/DANT/inv2.db
+INV1=/dante/DANT/inv1.db
+TXT1=/dante/DANT/txt1.db
+ICVR=100000000
+TCVR=150000000
+EDPRV=100
+PRVLG=25
+WRK2=/dante/DANT/
+WRK1=/dante/DANT/
+FORM=/dante/DANT/form.db
+INFO=/dante/DANT/info.db
+DICT=/dante/DANT/dict.db
+TXIX=/dante/DANT/txix.db
+TXT0=/dante/DANT/txt0.db
+INV0=/dante/DANT/inv0.db

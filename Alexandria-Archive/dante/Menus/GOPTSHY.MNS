@@ -1,0 +1,12 @@
+{GOPTS_HY}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Query Option Help\f2\n~
+
+:PRINT ~#HEADING
+
+     The  Query  Functions  Menus  allows  you  to  view  (or  to purge)
+     outstanding result sets from the current online session. Additional
+     Help is available for each Query Function Menu option.\n~
+
+:PAUSE BOTTOM
+:RETURN

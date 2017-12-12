@@ -1,0 +1,6 @@
+#! /bin/sh
+
+#	filter the poem for loading
+
+sed 's/  *\(\|[0-9]*\~\)$/	\1/' $1 | \
+expand -1,65 

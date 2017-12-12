@@ -1,0 +1,35 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.34.33;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@check DDP formatted files for transfer problems.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+#	Checknew-Shell script to check DDP formatted files for transfer
+#		problems.  Accepts multiple filenames for
+#		arguments.  Written 4/18/89 by JMA, mostly to make using
+#		the grep file easier by elminating the need for
+#		specifying the path to the egrep pattern file
+#	Caveat-Do not use this as a filter.  It writes its diagnostics to
+#		standard output.
+
+GREPFILE=$Dante/lib/checkform.egrep
+egrep -n -f $GREPFILE $@@
+@

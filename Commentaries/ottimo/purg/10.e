@@ -1,0 +1,501 @@
+	|Proemio.~  In questo capitolo l'Autore, continuandosi al
+precedente, intende di trattare, e ne l'XJ e XIJ, di quelli che
+si purgano del peccato della superbia, della quale come di sua
+radice procedono tutti li mali.  E dividesi questo canto in due
+parti principali; la prima contiene la ragione e la consuetudine
+di questo luogo; la seconda contiene il processo dello andare
+dello Autore e di Vergilio, e comincia quivi -- ^Noi salavam~ ec. 
+E questa seconda parte contiene in s@e tre principali parti; nella
+prima descrive la malagevolezza della via; nella seconda una
+dottrina, che d@a all'Autore del modo dello andare; la terza
+perseguita la detta dottrina.  La seconda comincia quivi -- ^Qui
+si convien~ ec.  La terza quivi -- ^E questo fece~ ec.  E questa
+terza parte, che comincia -- ^E questo fece~ ec., si divide in
+tre parti; la prima tiene il processo dell'andare; la seconda
+dove giunti si posano; la terza discrive certe anime purgantisi
+di questo vizio.  La seconda comincia qui -- ^Ma quando fummo~
+ec.  La terza quivi -- ^Mentre io mi dilettava~ ec.  La
+continuanza @e cotale, ch'@e scritta nel precedente canto, come
+giunti al Purgatorio vidono la sua porta, alla quale salire si
+montava per tre gradi; in su la quale entrata era uno Angelo; e
+della contenenza d'esso, e di suo offizio; e come li misse dentro
+al Purgatorio, e amonilli che non si guardassero dietro.  Qui
+dice, che poi che dentro furono alla porta che disusa, cio@e purga
+il malo amore, cio@e il mondano, il quale @e solo alle cose
+terrene, ed @e torta dalle celestiali, fu richiusa ec.  E circa
+questo capitolo toccheremo alquanto intorno a questa parola
+scritta nel principio del male amore, avvegnach@e in altra parte
+d'amore si tocca pi@u difusamente; ed alquanto toccheremo della
+presenziale materia di superbia.  Amore, @e buono amore, e reo; e
+quello @e buono, che s'ha verso il Creatore con debita subiezione,
+e verso la creatura con onesta proporzione; e quello @e reo, ch'@e
+opposito di questo.  A Dio amare ne incita la Santa Scrittura,
+incitane la natura, incitane la sua grazia, e la gloria che elli
+ne promette, incitane ciascuna materia.  La sagra pagina,
+Deut[e]ronomio, capitolo sesto: <Ama Idio tuo di tutto il cuore
+tuo>; ed XJ: <Ama il Signore Dio tuo>.  Ecclesiastico, XIIJ: <In
+tutta la tua vita ama Idio>; in altro, XXIJ: <Ama Idio tuo>. 
+Luca XJ, e Johanni IV.  Amiamo Idio, perch'elli prima am@o noi; la
+natura, per@o che naturalmente amare dovemo colui, dal quale avemo
+benefizio.  Se naturalmente noi amiamo il padre nostro terreno,
+dal quale avemo parte di nostro essere, cio@e la materia
+corporale, quanto maggiormente dovemo amare Idio, il quale ci ha
+dato tutto l'essere, cio@e l'anima e 'l corpo, per@o che l'anima ne
+crea di niente, il corpo ne concede per procurazione del paterno
+seme] Agostino: <Da amare @e il generatore, ma da premettere @e il
+Creatore>.  Ecclesiastico, VIJ: <In tutta l'anima tua ama colui,
+che ti fece la grazia>.  E massimamente quella della
+recomperazione, della quale Paolo, IJ ^ad Corinthios~, capitolo
+VIIJ: <Voi sapete la grazia di nostro Signore Jehs@u Cristo, che
+per noi @e fatto povero, conciosiecosach'elli fosse ricco, acci@o
+che noi per la sua povertade fossimo ricchi>.  ^Ad Galathas~ II:
+<Am@oe me, e diede se medesimo per me, e non sono ingrato della
+grazia di Dio>.  La grazia promessa @e apparecchiata a coloro, che
+amano Idio; prima ^ad Corinthios~, capitolo IJ: <L'occhio non
+vide ec. quelle cose, ch'elli apparecchi@oe a coloro, che
+l'amano>.  Iacopo, J: <Ricever@ae la corona della vita, la quale
+impromette Idio a coloro, che l'amano>.  Agostino, nel libro
+delle Confessioni: <Il Cielo, e la terra, e tutte quelle cose che
+in essa sono, d'ogni parte mi dicono che io te ami; n@e questo
+cessano di dire, acci@o che sieno scusate a tutti.  In due modi
+dicono le creature a noi, che noi amiamo Idio; l'uno modo
+mostrando dignissimo lui del nostro amore, per@o che la bontade
+della misericordia del Creatore, mostra il Creatore essere
+ottimo, e per questo dignissimo d'amore; per lo secondo modo,
+perch@e le creature sono devote di Dio, @e beneficio di Dio> ec. 
+Conseguentemente @e l'amore proporzionato ed onesto, [ch]e dovemo
+avere alla creatura.  Il primo, e il maggiore amore che l'uomo
+dee avere, si @e [a] Idio; il secondo a s@e; il terzo al prossimo,
+il quale dee essere da amare lui come se medesimo; ed amare si
+dee l'uomo onestamente, e giustamente, e temperatamente.  E cos@i
+il prossimo amare dee le creature per amore del Creatore, e
+quelle usare secondo l'uso, al quale Idio l'ha create per noi, e
+regolatamente.  Chi eccede in amare s@e, @e superbo; chi @e tiepido
+in amare il prossimo, @e invidioso; chi disordinatamente l'ama,
+cade in peccato di disordinato amore, e idolatrio.  Li quali
+amori in questo Purgatorio si purgano; e prima quello, che l'uomo
+eccede in s@e contra il prossimo; di che viene superbia.  Superbia
+non @e altro, che uno amore desordinato d'eccelenzia, che la
+creatura desidera.  E l'amore puote essere desordinato per due
+cagioni; s'elli @e amore di male, avegna anche che 'l buono amore
+possa essere disordinato; s'elli @e meno, o s'elli @e troppo.  E
+questo, secondo due spezie di beni, li quali sono piccoli, s@i
+come li temporali; o grandi, s@i come li beni della grazia, e
+quelli della gloria.  L'amore poco del bene cade della accidia; e
+l'amore del piccolo bene disordinato tiene le sue radici nel
+peccato della lussuria, gola, ed avarizia; per@o che li piccoli
+beni amare si possono quanto alla signoria d'avere d'ess[i], o
+quanto alla possessione, o quanto all'uso.  Nel primo modo ama
+l'avaro, nel IJ il goloso, o lussurioso.  L'amore ch'@e
+disordinato, per@o che @e amore di male, pare che si possa
+distinguere in amore del proprio male, ed in amore dell'altrui
+male: ma per@o che niuno ama il proprio male, in quanto elli @e
+male, ma in quanto elli stima che quello sia bene del corpo, per@o
+[@e] solamente d'altrui male: ha radice nelli tre vizi, cio@e
+superb[i]a, ira, invidia.  Diversificansi questi vizi: per
+questo, che nel peccato della superbia, @e amore del proprio bene
+con altrui male; ama il superbo la essaltazione di s@e, e
+l'abassamento del prossimo; ma nel peccato dell'ira, e
+dell'invidia @e amore dell'altrui male s@i [cer]tamente.  Ma in
+questo paiono diversificarsi questi due vizi, ira ed invidia,
+per@o che nel peccato dell'ira l'amore de l'altrui male pare che
+nasca del male altrui.  Colui che si adira contro alcuno, per@o li
+vole male, per@o che da lui male ricevette: ira @e appitito di
+vendetta.  Nel peccato della invidia, l'amore dell' altrui male
+nasce da propria malizia, ch'@e in colui che invidia, cio@e dalla
+superbia: lo invidioso, a questo vuole male altrui, perch@e non
+sieno pari a lui.  Onde il peccato della invidia comunica a
+materia col peccato dell'ira; ma l'origine riceve dal peccato
+della superbia.  Per quello ch'@e detto si pu@o vedere ragione di
+legge, che li detti tre peccati, superbia, ira, invidia, rendono
+l'amore disordinato verso il prossimo; ma gli altri IIIJ peccati,
+lussuria, gola, avarizia, accidia, rendono disordinato amore a
+s@e, e verso s@e.  Per le predette cose puoi chiarire il male
+amore, ch'@e in disordinato amore di bene, o in disordinato amore
+di male.  Detto del male amore, qui dicemo del vizio della
+superbia, ch'@e materia del presente capitolo.
+
+	|1-3.  Poi fummo dentro~ ec.  Dice l'Autore in questo
+principio, che poi che Vergilio ed egli furono entrati dentro
+dalla soglia della porta del Purgatorio, lo quale Purgatorio, per
+la pena che inflige a quelli che peccano, disusa l'amore del
+male, o il male amore dell'anime; il quale malo amore fa parere
+la via torta essere diritta, per@o che li fa estimare li falsi
+beni essere veri, e fa che uomo pone tutto suo intento nelle cose
+corporali, s@i come fossero l'ultimo bene, e la somma beatitudine.
+
+	|4.  Sonando la sent@i~ ec.  Come sonando la sente aprire
+a guisa di porta, che inchiudi e serri grande tesoro (s@i come
+[la] Tarp@ea), la quale con molta maestria ed arte e peso si fa,
+acci@o che non di leggiero possa essere dimagrata del buono,
+ch'ella serra: acci@o che nullo v'entri, se prima non sente la
+gravezza del salire per li tre gradi.
+
+	|5-6.  E s'io avessi~ ec.  Quasi dica, nulla scusa
+sarebbe esuta tanta, che bastasse a venire contro al comandamento
+che ne aveva fatto l'Angelo di Dio, il quale [loro] ingiunse in
+fine del precedente capitolo, che non si volgessero indietro,
+cio@e alle cose mondane, s'elli non voleano torna[r] di fuori.
+
+	|7-8.  Noi salavam~ ec.  Qui descrive la dificult@a del
+camino, della quale dice Santo Agostino: <Stretta @e la via, che
+ne mena a vita etterna>.  E dice: -- |Per una pietra fessa,~ ec. 
+Dove fa due cose; denota, perch@e dice |fessa~, la strettezza;
+denota perch@e dice |si movea~, la difficultate, che non andavano
+spediti, n@e sanza paura.  Ed @e tutta opposita alla via, che
+vogliono li superbi, li quali la vogliono larga, e spedita d'ogni
+impedimento: elli vogliono, che ogni uomo dea loro luogo, ogni
+uomo li reverisca, e levi loro dinanzi qualunque cosa pare
+impedire, o ritardare loro volere.
+
+	|10-12.  Qui si convien~ ec.  Questa dottrina, la quale
+d@a Vergilio all'Autore, @e assai chiara e manifesta; dove dice,
+che secondo che il sasso cede, si vole prendere il camino. 
+L'umiltade @e opposita della superbia, e per@o questo seguire in
+acostarsi, non @e altro, che essere umile.  S@i come principio
+d'ogni peccato @e la superbia (Ecclesiastico, X); cos@i principio
+della nostra reparazione pare che sia l'umilitade.  Jeronimo: <La
+prima virt@u de' Cristiani si @e l'umilitade>.  Umilitade, secondo
+che descrive Agostino, @e una voluntaria inclinazione di mente, in
+su o di sotto ordinabile al suo Fattore, per rispetto della sua
+condizione, e della eccellenzia dello suo conditore.
+
+	|13-16.  E questo fece~ ec.  Dice, che seguendo la sua
+dottrina andavano s@i poco, che anzi ch'elli fossero fuori di
+quella cruna, cio@e fesso della prieta, la Luna ch'era gi@a
+alquanto scema della ritondit@a, ch'era in lei quando cominci@o
+questa opera, infino ad ora ritorn@o al letto suo, cio@e and@oe al
+ponente.
+
+	|17-21.  Ma quando fummo~ ec.  Dice, che quando furono
+fuori di quello stretto calle, vennero in uno piano cos@i
+solitario, come sono le strade per li diserti; e pi@u discrive la
+forma di quello luogo.
+
+	|28-33.  Lass@u non eran mossi~... |Che non pur Policreto~
+ec.  Poi che hae descritto il luogo, quanto al sito, qui il
+discrive quanto alla sustanzia, e quanto allo ornamento.  E dice
+che la ripa, che 'l cignea, era tanto erta, che non vi si potea
+salire; ed era di marmo bellissimo, nel quale erano tali intagli,
+che non che per arte umana si potessino tale rendere, ma la
+natura sarebbe insufficiente: e per@o nota, che sono fatti dal
+Creatore della natura, Idio.  E dove dice, non pure Policreto,
+nota qualunque pi@u sommo artefice d'intagli fu mai; del quale
+Policreto tocca Valerio Massimo che fue Greco, e fu s@i
+superillustre di questa arte, che le immagine non pareano
+intagli, ma pareano quella propria persona, o cosa @e in quello
+proprio atto, alla cui similitudine egli l'avea ritratta, e pi@u;
+ch@e non solamente ritraeva in tanta proprietade le cose umane, ma
+ancora le divine.  Elli fece una statua di Dea Venus di tanta
+eccellenzia di ministerio, che pareva viva cosa divina.  Ma per
+pi@u mostrare in che era la sua deitade, la fece s@i madre d'Amore,
+che molti uomini provoc@oe a profana opera; di che egli
+ricevettero morte.
+
+	|34-44.  L'Angel, che venne~ ec.  Il primo atto contrario
+alla superbia si @e l'umilitade, come @e detto.  La somma superbia
+fu quella del Lucifero, quando disse, ^ponam sedem~..... ^in
+aquilone, et ero par Altissimo.~  La somma umilitade fu quella di
+Cristo, quando elli per redenzione della umana generazione prese
+carne umana.  Nulla umanitade puote a questo essere pari, che il
+Creatore prendere forma di creatura; il Signore pigliare abito di
+servo.  La quale umilitade l'Autore descrive, s@i come somma nel
+principio di queste imagine, ed incomincia quivi: Luca, capitolo
+primo, ^missus est Gabriel ad Virginem~ ec.  E dice, che venne in
+terra col decreto, cio@e costituzione, ed ordinamento della pace
+pianta dall'o[m]o; ch@e l'umana generazione per disubidenza fece
+guerra contra il suo Fattore, ^Genesis~, capitolo IIJ: col quale
+decreto, che contenne, che Dio prendeva carne umana, e che
+sofferebbe morte e passione per la nostra salute, aperse il
+Cielo; per@o che ne riconcili@o a Dio, e con la sua morte la nostra
+distrusse, e la nostra vita repar@oe, ne aperse il Cielo: capitolo
+IV dell'Inferno -- ^Io era nuovo in questo stato~ ec.  --
+^Trasseci l'ombra del primo parente~, e fecelo beato.  -- ^E vo'
+che sappi, che dinanzi ad essi, Spiriti umani non eran salvati~
+ec.  E dice, che parea s@i proprio nell'atto, che sembiava vivo, e
+pronunziante quella salutazione, che fece alla Vergine Maria,
+quando disse: |Ave~, ^gratia plena, Dominus tecum~, ec.  E
+soggiugne, che Nostra Donna, la quale sola fue degna di vol[g]ere
+la chiave ad aprire l'amore divino, e pacificare al Creatore, era
+ivi in simile intaglio ed atto, quale quand'ella, poi che
+l'Angelo li ebbe palesato il divino volere, rispuose: |Ecce
+ancilla Dei~, ^fiat mihi secundum verbum tuum~; Lucas, capitolo
+J.
+
+	|46-48.  Non tener pur~ ec.  Prosegue suo poema.  Il
+testo @e aperto; e dice, che Virgilio era dalla parte manca, per@o
+che @e il capo del cuore nella sinistra parte, per@o che in quella
+parte pi@u vive ed abita lo spirito vitale.  E dice, che la
+ragione li era da quella parte, ch'@e il cuore alla gente, per@o
+che ogni sollecitudine, e cura di sapere @e in quello.
+
+	|53-69.  Perch'io mi mossi~ ec.  Poi che l'Autore hae di
+sopra [narrata] una, e la maggiore storia d'umilitade, che
+pertegna alla nostra salute; in questa parte ne discrive un'altra
+appresso a quella, nella quale Davit re (che secondo carne fu
+l'antecessore di Cristo) in forma d'uno di Leviti intorno
+all'Arca de' patti di Dio festeggia, a ci@o didutto per devozione
+ed umilitade: la quale storia si conviene in due luoghi; l'uno,
+quando la detta arca fu fabricata; l'altro, dove la storia
+presente @e scritta.  Dice, ch'era intagliato di drieto da Maria,
+dalla parte manca, il carro e li buoi, traendo l'arca santa, ec. 
+Libro secondo de' Re, capitolo VJ: <Ragun@o Davit tutti gli eletti
+d'Isdrael XXX'M, e con loro and@oe per rimenare l'arca di Dio,
+sopra la quale chiamato fue il nome di Dio delli esserciti,
+sedente ne' Cherubini sopra quelli; e puosero l'arca di Dio sopra
+il carro nuovo; e tolse[r]lo della casa d'Aminadab, ch'era in
+Gabria, ch'aveva guardata l'arca di Dio; uomo andava dinanzi
+all'arca.  Il re Davit, e tutto [I]sdrael sollazzavano dinanzi in
+tutti strumenti lavorati in cetere, chitarre, tamburi, cembali, e
+sistri.  E poi ch'elli pervennero all'arca, Oza stese la mano a
+l'arca di Dio, e traela, perch@e li buoi recalcitravano, ed
+inchinavano quella.  Idio indegnato @e contra Oza, e percosse
+quello sopra la sua pazzia; il quale @e morto ivi a lato
+all'arca>.  E questo @e quello, che non l'era commesso questo
+offizio; e per@o dice l'Autore, |perch@e si teme~ ec. <E
+contristato @e Davit, per@o che Dio avea percosso Oza; e chiamato @e
+il nome di quello luogo ^percussione d'Oza~, infino nel presente
+die.  E temette Davit il Signore quello d@i, dicendo: Come
+entrer@ae a me l'arca di Dio? E non volle volgere l'arca del
+Signore nella citt@a di Davit, [ma la fece ridurre] nella casa di
+Bededoz Geteo; e stete l'arca del Signore in quella casa di
+Bedego Giteo tre mesi.  E benedisse Idio Obededon, e tutta la
+casa sua.  Ed anu[n]ziato @e a Davit, che 'l Signore avea
+benedetto Obededon, e tutta la sua casa per l'arca.  E disse
+Davit: Io andr@oe, e rimener@oe l'arca, con la benidizione della
+casa mia.  And@oe Davit, e ridusse l'arca di Dio della casa di
+Bededon nella citt@a di Davit con gaudio.  Ed erano con Davit
+sette cori.  Conciosiecosach@e quelli, che portavano l'arca del
+Signore, trasmontassino VJ passi, sacrificando il bue e il
+montone.  E Davit toccava li organi, e saltava con tutte le forze
+dinanzi al Signore.  Davit avea alzato uno Esor di lino.  E
+Davit, e tutta la casa d'Isdrael conducevano l'arca del
+testamento del Signore in cantare, ed in suono di tromba.  E
+conciofossecosach@e l'arca del Signore fosse entrata nella citt@a
+di Davit, Micol figliuola di Saul riguard@o per la finestra, vide
+Davit re cantando sotto boce, e ballante dinanzi al Signore, e
+dispregiollo nel cuore suo.  E menarono dentro l'arca del
+Signore, e puosono quella nel luogo suo, nel mezzo del
+tabernacolo, che vi avea disteso Davit.  E offerse Davit
+sagrifizj dinanzi al Signore, e cose pacifiche.  Ed avendo
+compiute quelle cose, offerendo li olocaustri, e li sagrifizj, e
+pacifichi, benedisse il popolo nel nome di Dio delli esserciti. 
+E part@ie tutta la moltitudine d'Isdrael, cos@i al maschio, come
+alla femmina, a ciascuno [una] collinda di pane, ed una asseruola
+di carne di bue, e semola fritta in olio; e partissi tutto
+Isdrael; ciascuno si torn@oe in casa sua.  E tornossi Davit per
+benedicere la casa sua.  Ed usci[t]a Micol figliuola di Saul
+incontro a Davit, disse: O come fu oggi glolioso il re d'Isdrael,
+discoprendosi alle serve de' servi suoi; e' spogliossi, come si
+spoglierebbe uno giullare, e scherniano] Disse Davit a Micol: se
+Dio m'aiuti, vive il Signore, ch'io sollazzer@o dinanzi al
+Signore, il quale elesse me in re, maggiormente che il padre tuo,
+e che tutta la casa sua; e comandommi, che io fossi duca sopra il
+popolo di Dio d' Isdrael.  Io giucher@o, e farommi pi@u vile, che
+io non sono fatto, e sar@oe umile e basso nelli occhi miei; e
+parr@oe glolioso con quelle ancelle, delle quali tu hai parlato. 
+Adunque a Micol figliuola di Saul non @e nato figliuolo infino al
+d@i della morte sua>.  Era Micol moglie di Davit.  Appare qui
+l'umilitade di Davit contraria alla superbia, che qui si punisce. 
+Appare quello che tocca dell'arca; e come Oza, al quale non era
+commesso il ministerio dell'arca, per@o che se ne intromisse, per
+giudicio di Dio mor@ie; e come per quella morte Davit lasci@oe a'
+vitelli conducere l'arca dove volessero, li quali la condussono
+d'Obedon; e come poi con sette cori di gente Davit pi@u che re (in
+quanto in ministerio di quell'arca di Dio), e meno che re (in
+quanto che, [come] buffone, sonava e cantava e ballava) s'ebbe
+quivi; e come Micol dispettosamente il guatava.  Resta ora a dire
+del principio di questa arca, e dell'ordine d'essa.  Resta ancora
+a contare la generazione di Cristo, s@i che pervegna al detto re
+Davit.  Elesse Idio per conducitore del popolo d'Isdrael Mois@es,
+sotto il cui ducato trasse e liber@oe il detto popolo della
+servitudine di Faraone; allo quale Mois@e apparve pi@u volte; e
+dice, che le leggi, le quali dovesse osservare il detto popolo,
+promisse Mois@e ricevere per lo popolo predetto; che s'elli
+l'oservasse, che li conducerebbe, e darebbe loro le terre di
+promessione, che menano latte e mele; e molte prerogative farebbe
+loro, s@i come @e scritto delle dette leggi nell'Essodo, e nel
+Levitico, nel libro de' Numeri, e Deut[e]ronomio; e de' detti
+patti nel detto Deut[e]ronomio, capitolo XXVIIIJ, in parte nella
+terra di Moab, ed in parte prima in Oreb; e della detta arca,
+capitolo XXV, Essodo, quivi: <Arca de' legni Setin comporrete, la
+cui lunghezza abbia due mezzi cubiti, la larghezza uno cubito e
+mezzo e l'altezza uno cubito e mezzo> ec.  E nello VIIJ capitolo
+de' Numeri @e l'ordine del tabernacolo; e come nullo fosse ardito
+d'accedere al santuario, fuorch@e li Leviti ed il Sacerdote; e
+cos@i intendi della arca.  Che secondo carne, Davit fosse quelli,
+di cui Cristo di[s]cesse, il pruova Santo Matteo, dicendo: <Il
+libro della generazione di Jheus@u Cristo figliuolo di Davit,
+figlio d'Abram.  Abram gener@oe Isac, Isac gener@oe Iacob, Iacob
+gener@oe Juda e' suoi fratelli; Juda gener@oe Fares, e [Z]ara di
+Tamar; Fares gener@oe Esron; Esron gener@oe Aran; Aran gener@oe
+Aminadab; Aminadab gener@oe Naasson; Naasson gener@oe Salmon;
+Salmon gener@oe Booz; Booz gener@oe Obed de Ruth; Obed gener@o
+Iesse; Iesse gener@o David re; David gener@o Salamone della moglie
+d'Uria; Salamone gener@o Roboam; Roboam gener@o Abia; Abia gener@o
+Asa; Asa gener@o Iosaphat; Iosaphat gener@o Iora; Iora gener@o Ozia;
+Ozia gener@o Ioatan; Ioatan gener@o Acaz; Acaz gener@o Ezechia;
+Ezechia gener@o Manasse; Manasse gener@o Amon; Amon gener@oe Iosi;
+Iosi gener@o Ieconia, e suo' fratelli, nella trasmigrazione di
+Babilonia; e dopo la trasmig[r]azione di Babillonia Ieconia
+gener@oe Salaziel; Salaziel gener@oe Zorobabel; Zorobabel gener@o
+Abiud; Abiud gener@oe Eliachin; Eliachin gener@oe Azor; Azor
+gener@oe Sadoc; Sadoc gener@oe Achin; Achin gener@oe Eliud; Eliud
+gener@oe Eliazar; Eliazar gener@oe Mathan; Mathan gener@oe Iacob;
+Iacob gener@oe Ioseph, il marito di Nostra Donna Santa Maria,
+della quale Jheus@u fu nato, il quale @e appellato Cristo.  E dice,
+che tutte le generazioni da Abram a Davit furono XIIIJ, e dalla
+trasmigrazione di Banbillonia a Cristo furono XIIII.
+
+	|70-74.  Io mossi i pi@e~ ec.  Qui introduce l'Autore una
+terza storia, nella quale mostra umilitade, e giustizia in
+Trojano imperadore; lo quale montato a cavallo, per andare contro
+alli nimici del romano imperio, richiesto da una vedova, come
+dice il testo, alla quale era suto morto il figliuolo, che
+facesse giustizia, discese, e rend@ee il suo debito.  Poi, anno
+della nativitate di Cristo DLXXXI, Gregorio dottore, nato di
+Roma, figliuolo di Giordano, sed@e papa anni XIIJ, mesi VI, d@i X. 
+Questi, essendo arcidiacono, fue fatto papa.  Per consentimento
+di Maurizio imperadore cavandosi, o vero aprendosi il monimento,
+nel quale era suto seppellito il detto Trojano, e trovandosi la
+sua testa, con la lingua cos@i intera e cos@i vermiglia, come era
+esuta in prima vita; la quale negli altri prima @e corrotta da'
+vermini, s@i come grandissima nimica de' peccati; conosciuto per
+divina revelazione del detto papa Gregorio, che questo era in
+Trojano per la soma giustizia ch'era essuta in lui; e vedendo,
+come Pagano era dannato, con vigilie, digiuni ed orazioni
+impetr@oe nella misericordia di Dio, che l'anima del detto
+Trojano, essenta dallo Inferno, volendo fare penitenzia e
+riconoscere Idio, fu ristituita al corpo mortale, nel quale per
+la cremenzia del sommo principio Iddio, con li sussidj del beato
+Gregorio, merit@o l'etterna vita.  Ma il detto Gregorio eleggendo
+di volere anzi qui, che in Purgatorio, mondarsi di quello che
+aveva chiesto s@i fatto dono, tutto il rimanente della sua vita
+langu@ie in letto d'ogni generazione d'infermitade, le quali con
+somma pazienzia comport@oe, sempre laudando Idio.  Perci@o dice
+l'Autore:
+
+	|75-76.  Mosse Gregorio~ ec.  Ma Paolo Orosio scrive di
+lui in questo modo.  Anno Domini della nativit@a di Cristo
+LXXXXVIIIJ, Trojano per generazione Spagnuolo, undecimo da
+Augusto, il governamento della replubica, dandogliele Nerva,
+prese, e per XVIIJ anni lo tenne; ed apo Agrippina (una cittade
+di Gallia) le insegne dello imperio prese; ed incontanente
+Germania, oltre al Reno, nel primo stato sotto Roma rec@oe, e di
+l@a dal Danubio molte gente si sottopuose, e le [r]egioni tra
+Eufrates e Tigris poste, fece provincie.  Seleucia, Sifonte, e
+Banbillonia occup@oe; ed ingannato per errore a perseguitare li
+Cristiani, dopo Nerone, la terza persecuzione fece.  E
+conciosiacosach@e sanza discr[e]zione avesse comandato che li
+Cristiani, dovunque fossono trovati, costretti fossero ad adorare
+l'idoli, e chi fare non volesse, fosse morto, e molti ne fossero
+uccisi; amoniti a parole li Cristiani, e per li primi e per li
+secondi giudici che posti erano, [fin@i] la persecuzione de'
+Cristiani; cos@i dicendo: elli non fanno alle leggi romane alcuno
+contrario, se non che Cristo reveriscono, e conf@essollo per
+Signore, e a neuno pare grave, o ispaventosa la morte per la
+fidanza che hanno in lui; sono d'onesta vita, e ragionamenti; e'
+immantanente per lettere temp[er]@o il suo comandamento.  Questi,
+dopo Alessandro, and@oe infino alla fine d'India: al cui tempo
+santo Clemento papa fue coronato di martirio, ed il corpo suo
+giacque lungo tempo nel mare pontico con una macina a collo,
+lungo il Cessena, dove egli fu gittato vivo.  Questo Trojano a
+Roma, e per tutte le provincie a tutti si dava iguali, ed a tutti
+suoi amici fu cortese, e spesso li vedea per cagione di salutare. 
+Sotto lui mor@ie santo Ignazio, discepolo di santo Johanni
+Evangelista, vescovo d'Antroccia, il quale li si fece incontro,
+confessandosi Cristiano a Trojano, che tornava dalla vittoria
+minacciando li Cristiani di morte.  E legato con ferri, fu menato
+a Roma, nel cui cuore tagliato minuto, in tutte le particelle si
+trov@o scritto il nome di Cristo con lettere d'oro.  Al cui tempo
+fior@ie Plinio, fattore di storie.  Mitig@oe il detto Imperadore
+[la] persecuzione: al costui tempo fue tormentato di martorio
+Allarisio papa, s@i come Cleop[h]as consobrino di Jacopo Apostolo,
+che elli aveva succeduto nel vescovado in Jerusalem, e santo
+Eustazio.  Trojano, s@i come certi dicono, apo Seleucia (una
+cittade di Siria) per flusso di ventre mor@ie, tornato lui di
+Persia, dopo glolia di battaglia; e l'ossa sue furono messe in
+uno vasello d'oro, e recate a Roma; e nel mercato, ch'elli
+edific@oe, furono poste sotto una colonna, ch'@e alta CXL piedi. 
+Questi solo fue seppelito a Roma, e tra li Dei raportato; del
+quale @e questa gentile memoria, che nel Senato non erano gridati
+li principi altrimenti, se non pi@u aventuroso d'Agusto, e
+migliore di Trojano.
+
+	|94-95.  Colui, che mai~ ec.  Qui l'Autore a torre via
+ogni oppinione, che questa non sia opera materiale, n@e fatta per
+mano d'uomo, ma s@i intellettuale, e per grazia di Dio messa
+davanti alla sua immaginativa, dice: Colui, ch'@e prima causa, dal
+quale tutto @e proceduto, produsse questo, che io ho di sopra
+narrato.
+
+	|97-102.  Mentre io mi dilettava~ ec.  Dice l'Autore, che
+questo tanto ch'elli era tutto ateso a speculare queste
+umilissime imagini fabbricate da Dio, Virgilio avendo cura di
+spendere il tempo pi@u utilmente, anu[n]zi@oe che gente, che quivi
+si purgavano, ven@iano di l@a.  -- |Ecco di qua~ ec.  Sposto @e di
+sotto.
+
+	|103-111.  Li occhi miei~ ec.  Qui mostra l'Autore, come
+si volse verso quella porta, donde quelle anime ven@iano di ritto
+camino; e soggiugne: o Lettore, io non voglio che dal tuo buono
+proponimento ti tolghi, perch'io narri le gravi pene debite a
+queste anime.  Ed a confortare, dice: non guatare questa pena; ma
+pensa, che dopo il die del giudicio queste anime non faranno come
+quelle d'Inferno, le quali andranno a maggiore pena: perch@e
+questa pena @e temporale, ed ar@a fine; quella @e etternale.
+
+	|112-113.  Io cominciai~ ec.  L'Autore, per debilit@a del
+viso, non discernea bene quelle anime; e per@o dubitando domanda
+Vergilio: che @e quello, che io veggio?
+
+	|115.  Ed elli a me~ ec.  Dice Virgilio: non che tu
+umanamente li possa considerare, ma io dal principio ne dubitai.
+
+	|118-119.  Ma guarda fiso l@a~ ec.  Questi peccatori
+aveano s@i gravi pesi adosso, che le bocche posavano sopra le
+ginocchia.  Per consonare la pena [al] fallo, nel mortale mondo
+andarono con la testa alta, qui la portano tanta bassa, come il
+testo scrive quivi -- ^Come per sostentar solaio o tetto~ {v.130}
+ec.
+
+	|121-129.  O superbi Cristian~ ec.  In questa parte
+l'Autore sgrida contra la superbia de' mortali, dicendo, come la
+mente loro @e gravata dalla infermitade della superbia, la quale
+fa porre loro la speme nelle potenzie mondane, e che li erge per
+lo antico sangue, o per cose terrene, o per magisterj, li quali
+non sono gradi da salire in alto; ma per essi si torna a rieto,
+come dice il Salmista: <Li potenti abatt@ee, e li umili essalt@oe;
+li affamati emp@ie, e li ricchi lasci@o vani>.  E sogiugne,
+dicendo: non vedete voi, che noi siamo vermini corruttibili, e
+putrefattibili, nati da carne umana, vestimento esteriore
+dell'anima, ch'@e quasi da natura angelica, la quale @e seperata
+dal corpo? solamente alla giustizia in sua difensione porta le
+sue opere, s@i come @e scritto in Barlaam.  Con l'anima nostra non
+vano dinanzi al nostro giudice, se none l'opere sue; non potenzie
+di regno, non li carnali amici, non l'etterne ricchezze, non la
+inumerabile quantitade de' sudditi: ^opera enim illorum sequuntur
+illos~, Davit.  E bene dice ver[mi]; per@o che s@i come alcuni
+vermi nascono d'aere, alcuni di carne, alcuni di fronde d'alberi,
+o di legni, o di vestimenti; cos@i delli uomini, alcuni seguitano
+la concupiscenzia della carne, alcuni la mobilitade dell'animo,
+alcuni la vaghezza della sensualitade ec.  E soggiugne: essultate
+voi cos@i, poich@e voi siete cos@i difettuosi, quasi antomata, che @e
+una figura in difettuoso parlare; e d@a l'esemplo, quasi vermo in
+cui formazione falla, per@o che 'l vermo non nasce per
+generazione, ma per putrefazione di legno, o di carne, o di
+vesta, o d'altra cosa.
+
+	|130-139.  Come per sostentar~ ec.  In questa parte per
+essemplo l'Autore dichiara la forma in che si mostravano quelli
+peccatori; e dice, ch'era tale, quale noi vedemo, che fanno li
+dipintori nelle magioni, o ne' palagi, quando vogliono mostrare,
+che alcuno sostenga in sulla sua testa alcuna trave, o simile
+incarico, che 'l fanno quasi avesse sopra s@e incomportabile peso;
+tale che a colui, che guata, ne pesa pure, come s'egli fosse vero
+uomo, e vero peso quella figura.  E sogiugne, che quivi era s@i
+grande il peso, che qualunque il comportava con pi@u pacifico
+animo, parea dire piangendo: io non ho pi@u podere di portare
+questo peso, bene che la voglia non sia stanca.  E cos@i compie
+suo capitolo ec.
+

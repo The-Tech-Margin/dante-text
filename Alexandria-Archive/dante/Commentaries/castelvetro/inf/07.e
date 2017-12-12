@@ -1,0 +1,411 @@
+|INFERNO CANTO 07~
+
+	|1-4.~  Nell'antilimbo, dove sono gli sciagurati, non @e
+mostro o dimonio o altri proposto a quello.  Nell'entrare del
+limbo @e Carone, che @e passaggiero di tutte l'anime
+generalmente, il quale limbo si chiama primo cerchio.  Nel
+secondo cerchio @e Minos, che @e inquisitore generale di tutte
+l'anime da punire in inferno, e in questo secondo cerchio sono
+puniti gli 'namorati stemperati.  Nel terzo cerchio @e Cerbero,
+che punisce l'anime de' golosi con l'abbaiare, col graffiare e
+col mordere, e guarda che anima non debita venga in quel cerchio.
+Nel quarto cerchio @e Pluto, il quale pare posto a guardia
+solamente del cerchio, perch@e anima non debita non vi venga; nel
+quale si puniscono gli avari e gli scialacquatori.  Nel quinto
+cerchio, che @e una palude, @e Flegias, che serve per passaggiere
+a quelle anime, che non rimangono ne' cinque cerchi etc.  Ora
+altri potrebbe domandare: perch@e in alcuni cerchi sono
+guardiani, come in questo quarto, ed in alcuni sono guardiani e
+punitori insieme, come nel terzo, ed in alcuni altri non sono n@e
+guardiani n@e punitori, come nel primo, nel secondo e nel quinto?
+ed onde nasce questa differenza?  Di che non so se altri potesse
+render ragione, che appagasse il domandante.  Ora non @e da dire
+che Pluto in questo luogo sia Plutone fratello di Giove e di
+Nettuno; percioch@e non avrebbe la sua stanza qui, ma nella
+citt@a di Dite, l@a dove abita sua moglie madama la reina dello
+'nferno, dicendosi: ^Ecco le meschine De la reina de l'eterno
+pianto~ {^Inf.~, IX, 43-44}.  Ma per aventura @e da dire che
+s'intende di Pluto, cio@e del dio delle ricchezze, che per
+prosopopea induce Aristofane in comedia, essendo gran differenza
+tra %pi%lambda%upsilon%tau%o%varsigma\ e
+%pi%lambda%o%upsilon%tau%omega%nu\; ma perch@e Pluto, dio delle
+ricchezze, non ha appo gli antichi generazione e nascimento, come
+hanno gli altri dei infernali, seguita che Dante non l'abbia
+convenevolmente posto e figurato come guardiano di questo
+cerchio.  N@e @e da credere n@e da dire, che Pluto per la venuta
+di Dante avesse paura o chiamasse Satanasso in soccorso;
+percioch@e, se egli @e posto guardiano di questo quarto cerchio,
+perch@e non ha ancora poder di poterlo guardare senza aiuto di
+fuori? e spezialmente da un uomo timido e nuovo.  Appresso, come,
+chiamando in aiuto Satanasso, lo domanderebbe nemico ed
+avversario, ch@e cos@i viene a dire |Satan~?  Dovendolo
+ragionevolmente domandare amico, compagno e sozio.  Senza che non
+so vedere come potesse o dovesse chiamare in aiuto Satan, se
+Satan @e Lucifero, come @e; poich@e lo chiamerebbe in vano,
+essendo confitto nel centro della terra senza potersi muovere e
+postovi per tormentatore de' traditori Giuda Iscariota, Cassio e
+Bruto.  E soggiunger@o che a me pare che Dante non abbia fatto il
+meglio del mondo a fare Lucifero, che @e il capitano generale
+delle demonia, legato in guisa che non potesse andare attorno per
+tutto e comandare e far del male ancora in questo mondo come fa.
+E perch@e nel domanda egli ^imperator del doloroso regno~
+{^Inf.~, XXXIV, 28}?  O che imperatore?  Il quale @e prigione
+pi@u di niuno altro.  N@e @e da dire che |Aleppe~ sia Ah per
+Aleph in Ebreo, che sia la lettera Alfa greca o A latina;
+percioch@e questo non @e vero.  Anzi Aleph in Ebreo non @e vocale
+niuna, n@e lettera, ma segno solamente di spirito mezzano.
+Adunque @e da dire che domandi Satan il nemico, cio@e Dante, che
+viene per passare per lo suo cerchio vivo, e che egli parli in
+guisa che minacci d'impedirgli il passo.  Il che appare da quello
+che seguita; in guisa che Dante, udendo le minaccie e
+intendendole pi@u al suono ed agli atti che per le parole, ebbe
+paura e fu bisogno che Virgilio il confortasse, non che Pluto
+mostrasse paura niuna.  Ma che |Pape Pape~ qui significhi
+maraviglia non son ben certo; si come non sono certo che la
+significa |Aleppe~, quantunque io sia certo che non significa
+paura.  @E adunque parlare diabolico, non inteso da ognuno, ma
+s@i da Virgilio, che seppe tutto e intese questo motto e s'avide
+che Dante aveva bisogno di conforto e Pluto di rabbuffo.
+
+	|7.  Quella enfiata labbia~: adirata e minacciante; ma,
+se minacciava e s'adirava, come temeva?  Chi minaccia non teme.
+
+	|9.  Consuma dentro te con la tua rabbia.~  Quando
+l'adirato non pu@o esercitare l'ira sopra colui, contro il quale
+@e adirato, sente grande afflizione, e si consuma dentro con la
+sua stessa ira.  Dunque dice: contra Dante non eserciterai l'ira
+tua, ma ti sarai crucciato a tuo danno.
+
+	|12.  Fe' la vendetta del superbo strupo.~  Se vero che
+|Strupo~ per traponimento di lettere sia stupro, cio@e adulterio,
+@e da dire che gli angeli doveano essere sposi d'umilt@a, e che
+gli angeli rubelli commisero adulterio o stupro, con la superbia,
+e perci@o domand@o lo stupro non simplicemente stupro, ma stupro
+superbo.  Ma si potrebbe dire ancora che strupo, per traponimento
+e mutamento di lettere, @e sturbo, e 'l senso sarebbe pi@u
+manifesto.
+
+	|15.  Tal cadde a terra la fiera crudele~; non per vilt@a
+o per paura, ma per dolore e per tristezza, veggendo che non
+poteva mandare ad esecuzione l'ira sua sopra Dante.
+
+	|16-17.  Prendendo pi@u della dolente ripa.~  Intendi la
+quarta lacca, prendendo pi@u spazio della dolente ripa infernale,
+che non fa ciascuna dell'altre lacche o cerchi, essendo pi@u
+ampia per poter contenere pi@u peccatori avari e prodighi, li
+quali sono molto pi@u che non sono gli altri peccatori degli
+altri cerchi.  Ma perch@e, quanto si scende pi@u, pi@u si
+ristringono i cerchi infernali, non pare che questa sposizione
+sia buona, ma @e da dire: prendendo noi pi@u la dolente ripa,
+cio@e scendendo allo 'ngi@u verso lo 'nferno, scendendo i gradi,
+che menano dal terzo nel quarto cerchio.
+
+	|18.  Che il mal de l'universo tutto insacca.~  CHE pu@o
+referire la dolente ripa, la qual dolente ripa @e descrizione
+dello 'nferno, e pu@o referire lacca; la qual lacca insacca il
+mal tutto dell'universo, cio@e l'avarizia, o gli avari e gli
+scialaquatori.  Nel XX canto del purg.  (v. 7): ^Che la gente che
+fonde a goccia a goccia Per gli occhi il mal, che tutto il mondo
+occ@upa.~  E puossi ancora dire CHE PERCH@E, rendendo ragione
+perch@e questa lacca sia maggiore e pi@u spaziosa che l'altre,
+cio@e perch@e insacca e contiene il male dell'universo tutto.
+Ora, come l'avarizia sia il male di tutto l'universo e del mondo,
+sarebbe da vedere.  E se diremo il male per lo peccato, seguir@a
+che non ci sia altro vizio che l'avarizia, perch@e @e da dire
+nell'uno de' due modi; o che l'avarizia @e cagion che si
+commettano tutti gli altri peccati, maggiori ancora che essa non
+@e, secondo quel motto di San Paolo: <L'avarizia @e radice di
+tutti i mali>; o che l'avarizia @e cagione del male, cio@e del
+danno, che riceve il mondo con guerre, carestie, persecuzioni,
+ingiustizie ecc.
+
+	|19-20.  Ahi giustizia di dio, tante chi stipa Nuove
+travaglie e pene quante io viddi~?  Quasi dica: non Falaride, non
+Nerone, non alcun altro tiranno pose mai insieme tante nuove
+travaglie e pene.  N@e @e da dire: Chi stipa, cio@e comprende con
+la mente, percioch@e stipare non vuol dire comprendere con la
+mente.  Ed @e da sporre tante nuove travaglie e pene, avendo
+rispetto alla moltitudine de' travagliati e de' puniti, e non
+alla moltitudine delle travaglie, e delle pene, le quali non
+erano se non d'una maniera.
+
+	|21.  E perch@e nostra colpa s@i ne scipa.~  E perch@e,
+quasi dica, per cosa cos@i vile come @e l'avere, ne scipa, ne
+punisce con la giostra, ritornando ciascuno indietro e
+seperandosi con pena l'uno dall'altro.
+
+	|25.  Qui vidi io gente.~  QUI @e detto contro regola in
+luogo di quivi.  Perch@e meno @e da biasimare il Petrarca, che
+pure contro regola disse Qui in luogo di Quivi: <Qui de l'ostile
+onor l'alta novella, Non scemato con gli occhi, a tutti piacque>
+[^Trionfo della castit@a~, v.  172].
+
+	|127-128.  Voltando i pi@e s@i per forza di poppa,
+Percotevansi incontro.~  Questo @e il sentimento: Vidi gente e
+d'una parte e d'altra con grandi urli voltando i pi@e, ed @e da
+leggere |I pi@e, s@i~, in guisa per forza di poppa si percotevano
+incontro.  Ora non @e da leggere Pesi, percioch@e Pesi non
+vengono a dir nulla se non hanno per giunta, o piombi, o sassi, o
+simili materie pesanti, n@e si fa menzione di questi pesi quando
+si fa menzione della pena di costoro, n@e qui n@e altrove; la
+quale non @e altro che l'urtare l'uno contro l' altro e 'l
+villaneggiare.
+
+	|37-39.  Or mi dimostra Che gente @e questa e se tutti
+fur cherci.~  Secondo che appare nel testo, tutti gli
+scialaquatori erano co' crini mozzi e gli avari co' crini non
+mozzi, eccetto i papi ed i cardinali, che avevano la cherica
+grande, non ostante che fossero tra gli avari.  Ora erano
+differenti gli scialaquatori da' prelati avari in questo: che
+essi avevano tutto il capo pelato, ed i prelati avari non avevano
+pelata se non quella parte che conteneva la cherica.  Ma avevano
+bene il pugno chiuso come gli altri avari, e dicevano come gli
+altri avari: ^perch@e burli~ {v. 30}, ed erano dalla man destra
+di Dante.
+
+	|40.  Tutti quanti fur guerci.~  Parla cos@i degli avari
+come degli scialacquatori.
+
+	|41-42.  Che con misura nullo spendio ferci~; percioch@e
+o spendevano troppo o poco e non misuratamente, e nota che CI
+ripete la vita primaria ed @e contro regola, ch@e dovrebbe dire
+VI e presupone che questa sia la seconda vita, che di sopra per
+la pena dicemmo chiamarsi morte.
+
+	|53.  La sconoscente vita che i fe' sozzi.~  Si pu@o
+argomentare cos@i.  Gli scialacquatori e gli avari di cui si
+parla qui, sono incontinenti solamente e perci@o sono puniti qui
+fuori della citt@a di Dite, e non sono conosciuti n@e degni
+d'esser conosciuti.  Ora quanto meno dovrebbero essere conosciuti
+gli scialaquatori, che non solamente non sono incontinenti, ma
+maliziosi e bestiali, come Lano e Giacopo da sant'Andrea, che
+sono puniti nella selva dell'arpie.  E similmente quanto meno
+deono essere conosciuti gli avari e non degni d'essere
+conosciuti, che come usurai sono puniti dalla prova del fuoco,
+essendo non pure incontinenti, ma maliziosi e bestiali.  La vita
+adunque, che menarono, fu sconoscente, cio@e non degna d' essere
+conosciuta e da tener conto, |e gli fe' sozzi~, non amabili n@e
+riguardevoli mentre vissero, e meno gli dee far famosi dopo
+morte, n@e deono essere riconosciuti n@e per bene n@e per male
+ancora da coloro, che gli hanno conosciuti in questa vita per
+vista, come Dante hanno fatto alcuni di loro, n@e per udita.  E
+nota che paragona coloro, che non ispendono i suoi beni con
+debita misura, agli sciagurati, de' quali non si tien conto
+niuno.
+
+	|60.  Quale ella sia parole non ci appulcro.~  Non
+perch@e Dante la potesse vedere quale ella fosse, in guisa che le
+parole fossero superflue, ma perch@e non vuole ragionare di gente
+cos@i vile e della pena loro, ed @e quello che disse degli
+sciagurati: ^Non ragioniam di lor, ma guarda e passa~ [^Inf.~,
+III, 51].
+
+	|61-66.  La corta buffa.~  Si dubita che voglia dir buffa
+in questo luogo.  Altrove Dante piglia buffa per beffa e per
+inganno (Inf., XXII, 133): ^Irato Calcabrina de la buffa.~  E
+perch@e i beni della fortuna non sono altro che beni falsi e
+brievi gli chiama |corta buffa~, cio@e inganno corto.  Si pu@o
+ancora dire buffa, cio@e fiato e soffio, significando
+propriamente cos@i buffa, essendo le ricchezze come un vento
+senza sodezza e durata e brevemente senza vigore; poich@e tutto
+l'oro ammassato insieme, |che @e o fu~, e vi manca ^che sar@a~,
+non pu@o fare riposare una anima di queste.  Ora @e da porre
+mente che Dante argomenta male; percioch@e quanto l'avaro ammassa
+pi@u oro, tanto @e pi@u avaro, e quanto lo scialacquatore consuma
+pi@u oro, tanto @e pi@u scialacquatore.  Adunque pi@u oro, o
+ritenuto, o gittato, fa pi@u punire queste anime, e le fa
+giostrare pi@u.  Come dunque dice che tutto l'oro, che @e sotto
+la luna, o che gi@a fu, non ne potrebbe far riposar una?  O che
+dubbio @e questo?  Ma doveva dire che gli uomini in questo mondo
+contendevano di cosa, per la quale non avevano riposo n@e nella
+vita n@e nella morte.  Ora non credo io che le ricchezze per s@e
+sieno da biasimare, anzi, perch@e sono benedizioni di dio e
+necessarie alla conservazione della vita, sono da lodare.  Ma
+l'uso e la dispensazione buona o rea @e quella, che solamente
+riceve lode e biasimo, e fa gli uomini lodevoli o biasimevoli.
+
+	|70-71.  O criature sciocche, Quanta ignoranza @e quella,
+che v' offende.~  Dante non aveva detto male niuno della fortuna,
+ma solamente aveva domandato che @e, e Virgilio, rispondendo con
+villania, chiama lui e gli altri |criature sciocche~, e dice:
+|Quanta ignoranza @e quella, che v' offende.~  N@e appare la
+ragione, per che usi questa villania.
+
+	|71.  Or vo' che tu mia sentenzia n'embocche.~
+Traslazione presa da' fanciulli, a' quali s'imbocca il cibo, non
+essendo atti a prenderlo da s@e; e dice |mia sentenzia~,
+accioch@e altri non credesse che fosse opinione de' Cristiani, ma
+@e opinione filosofica e pagana.
+
+	|73.  Colui, lo cui saver tutto trascende.~  Descrizione
+di dio, il cui saver trapassa tutto l'altro savere, n@e pu@o,
+essendo infinito, esser compreso.
+
+	|74-81.~  S@i come fece i cieli, e ordin@o e fece gli
+angeli, che gli girassono di continuo, n@e cessassono di girarli,
+accioch@e facessero parte di ciascuna parte de' cieli a ciascuna
+parte del mondo; il che no averrebbe se i cieli non girassono;
+cos@i medesimamente dio ordin@o un angelo, chiamato dagli uomini
+Fortuna, che, girando di continuo la massa de' temporali beni e
+travasandogli di popoli in popoli e di famiglie in famiglie e di
+persone in persone, ne facesse parte ad ognuno.  Le quali cose,
+dette qui da Virgilio, non hanno fermezza di ragione o di
+scrittura.  Percioch@e non si pruova per ragione ferma, o per
+iscrittura, che gli angeli facciano girare i cieli continuamente,
+come dicono i peripatetici, n@e che ogni parte o luce o virt@u
+de' cieli per lo suo girare si manifesti ad ogni parte del mondo
+ugualmente: altramente seguirebbe che fosse caldo o freddo per
+tutto ugualmente, e che le nazioni tutte fossero d'una medesima
+complessione e d'un medesimo ingegno ugualmente.  Il che non @e
+vero.  Similmente si cambierebbono i beni in altra maniera tra
+gli uomini, che non si cambiano, se se ne facesse la divisione,
+perch@e ciascun popolo o famiglia o persona n'avesse la parte
+sua.  Ma brevemente: la divisione e 'l cambiamento de' beni
+temporali non @e fatta da dio perch@e ognuno n'abbia la parte
+sua, o la sua volta, ma @e fatta, secondo que' rispetti, che
+altra volta raccogliemmo {^Poetica d'Aristotele volgarizzata e
+sposta~, III, 13], secondo il giusto giudicio di dio o per
+premiare i buoni o i rei d'alcuna buona opera o per rendergli non
+iscusevoli etc., o la privazione n'@e fatta per tentare e per
+provare i buoni o per punire i rei ancora in questo mondo etc.;
+n@e niego che dio non faccia questa divisione e cambiamento per
+mano degli angeli, ma non mi si pruova che si faccia per mano
+d'uno solo proposto a questo ufficio.  |Similemente agli
+splendori mondani Ordin@o general ministra e duce.~  Gran
+podest@a ha la fortuna, concedutale da dio sopra i beni mondani;
+poich@e gli pu@o permutare in quantunque brieve spazio di tempo a
+suo senno, senza che le possa essere ci@o vietato da ingegno
+d'uomo.  Perch@e non @e da maravigliarsi se una parte degli
+uomini del mondo ha ricchezza ed un'altra parte non n'ha; poi che
+ella fa quello, che le pare, ne' beni commessi a lei e n' @e
+libera donna, come gli altri angeli sono liberi signori nelle
+cose commesse a loro, e questa libert@a @e da intendere
+sanamente: cio@e che essa @e libera donna e gli altri angeli sono
+liberi signori, avendo rispetto agli uomini, ma non a dio, di cui
+sono servitori, e fanno la volont@a di lui, quantunque di grado e
+non a forza.
+
+	|89-90.  Necessit@a la fa esser veloce.~  Perch@e gli
+uomini vivono poco tempo, conviene di necessit@a che le
+permutazioni sieno spesse, se vuole che ciascuno sia partefice
+de' beni; altramente, se non fosson spesse, molti ne resterebbon
+senza.  Ma pare che questo contrasti a quello che s'@e detto;
+percioch@e, se la fortuna @e libera nella ministrazione de' beni,
+come @e soggetta alla necessit@a, che la fa essere veloce?
+Rispondi che questa non @e necessit@a precisa, n@e costrettiva,
+ma per lo pi@u usa velocit@a per la predetta cagione.
+
+	|92.  Pur da color, che le dovrian dar lode.~  Li quali
+sono coloro, che sono privati de' suoi beni, o non ne son fatti
+partefici; percioch@e, secondo che vuole dir Virgilio, maggior
+beneficio si riceve dalla fortuna a non ricevere beni che a
+riceverne, o ad esserne privato che ad esservi mantenuto.
+
+	|94.  E ci@o non ode.~  Chi maladice i ministri di dio
+maladice dio, e dio ode le maladizioni dette a' suoi ministri, e
+le punisce e vendica.  Laonde non si pu@o dire che la fortuna non
+oda ci@o o per lei o per mezzo di dio.  Ma, se diciamo: |E ci@o
+non ode~, cio@e ci@o non offende lei, conci@o sia cosa che sia
+angelo, e le bestemmie non le nocciono s@i come non nocciono a
+dio, la cosa passer@a bene; o @e da dire che la fortuna non ode
+ci@o; cio@e non si muove a dare le ricchezze perch@e altri si
+doglia e si lamenti di lei.  Ma @e da sapere che dio ancora d@a
+de' beni temporali per le preghiere e la chiesa priega per gli
+beni temporali.
+
+	|95.  Tra l'altre prime criature.~  Intendi gli angeli e
+non i cieli.
+
+	|96.  Volge sua sfera~; o la rota attribuita alla
+fortuna, per lo rivolgimento della quale si fa permutazione di
+beni, o intende del cielo di Mercurio; l'angelo del quale cielo
+sia sopraposto alle ricchezze.
+
+	|97-99.~  Conforto di Virgilio a partirsi del quarto
+cerchio, s@i perch@e s'ha da vedere maggiore punizione di dannati
+e per peccati maggiori, s@i perch@e gi@a s'@e consumata la met@a
+della notte, e se pi@u s'indugia potrebbe mancare il tempo di
+vedere la punizione maggiore.  Ora si descrive la met@a della
+notte, dicendosi: |Gi@a ogni stella cade, che saliva Quando mi
+mossi~, non del limbo per venirti a soccorrere, ma quando mi
+mossi, entrando nello 'nferno, cio@e quando di sopra si disse:
+<Lo giorno se n'andava e l'aer bruno Toglieva gli anima' che sono
+in terra Da le fatiche loro> {^Inf.~, II, 1-3}.
+
+	|100.  Noi incidemmo il cerchio~ quarto, senza andare per
+tutto lui intorno intorno, |a l'altra riva~, passando in su
+l'orlo del cerchio quarto, il quale orlo @e interno e congiunto
+con l'orlo del quinto cerchio;
+
+	|101-103.~ e giunsero sopra una fonte, onde si forma la
+palude Stigia, la cui acqua tiene pi@u del colore bigio, che del
+colore nero.
+
+	|104-104.  Entrammo gi@u per una via diversa.~  L'acqua
+andava per lo fossato infino a tanto che giugneva al letto della
+palude, e noi andavamo in compagnia dell'acqua, ma non per lo
+fossato, ma lungo il fossato per un'altra via e diversa.
+
+	In |109-126.~ questa palude stigia, che @e il quinto
+cerchio, sono puniti gl'iracondi e gli accidiosi incontinenti.
+La punizione degl'iracondi s'@e lo stare a galla nella palude, e
+percuotersi s@e stessi e gli altri con la testa, col petto, co'
+piedi, non pur con le mani, e mordersi co' denti.  La punizione
+degli accidiosi s'@e lo stare sotto il pantano o l'acqua
+pantanosa e, volendo parlare, inghiottire di quella acqua.  Ma,
+per intendere bene l'ordine delle pene infernali, @e da sapere
+che altro @e l'ordine delle pene del purgatorio, percioch@e nel
+purgatorio si purgano i sette peccati mortali con questo ordine:
+Superbia, Invidia, Ira, Accidia, Avarizia e Prodigalit@a, Gola,
+Lussuria.  Ma nello 'nferno sono puniti con ordine contrario
+cos@i: Lussuria, Gola, Avarizia e Prodigalit@a, Ira, Accidia.
+Restano due peccati non puniti: Invidia e Superbia.  Ma @e da
+dire che con l'accidia @e punita la 'nvidia sotto il pantano,
+essendo l'uno e l'altro peccato fumo accidioso e consumante
+dentro l'uomo di tristizia, e che la superbia @e punita insieme
+con l'ira nella sommit@a della palude, non essendo l'una molto
+differente dall'altra.  E questa punizione @e di que' peccati,
+che sono accompagnati da incontinenza, e perci@o sono puniti
+fuori della citt@a di Dite.  Ma quelli peccati, li quali sono
+accompagnati da malizia o da bestialit@a, sono puniti dentro
+dalla citt@a di Dite, non secondo l'ordine della purgazione, che
+se ne fa in Purgatorio, o secondo l'ordine della punizione, che
+se ne fa fuori della citt@a di Dite, ma secondo che sono
+accompagnati da Eresia, da Violenza, da Frode e da Tradimento.
+L'eresia contiene tutte le sette degli eretici.  La violenza
+contiene tre maniere di peccatori; cio@e i violenti contro la
+persona del prossimo ed i beni di lui, i violenti contro la sua
+persona ed i suoi beni, i violenti con dio e la natura.  La frode
+contiene dieci maniere di peccatori: Ruffiani, Lusinghieri,
+Simoniaci, Indovini, Barattieri, Ipocriti, Ladri, rei
+consiglieri, scandalosi, Falsari.  Tradimento contiene quattro
+maniere di peccatori, cio@e: Traditori de' parenti, Traditori
+della patria, Traditori de' benefattori pari, Traditori de'
+benefattori maggiori.
+
+	|112-114.  Questi si percotean non pur con mano~ etc.;
+cio@e, si percotean l'un l'altro con mano, con la testa, col
+petto e co' piedi, e si mordevano co' denti; ma, quando alcuno
+non poteva percuotere o rimordere gli altri, rivolgea in s@e
+stesso il morso, s@i come vedremo in Filippo Argenti.
+
+	|116.  Cui vinse l'ira.~  Umana cosa @e l'adirarsi, n@e
+il primo movimento @e biasimevole, ma seguire lo 'mpeto dell'ira
+e lasciarsi superare da quella @e peccato, ed altri diviene come
+furioso.
+
+	|119-123.  Fitti nel limo dicon: tristi fummo~ etc.  Gli
+adirosi non hanno motto niuno, per lo quale dimostrino la loro
+miseria; ma gli accidiosi, che sono sotto l'acqua, rimproverano a
+s@e stessi il suo peccato, dimostrando come sono puniti e puniti
+giustamente, e questo rimproverare @e cagione d'aprire la bocca.
+Laonde seguita che l'acqua al sommo pullula, e che essi ingozzano
+di quella acqua pantanosa, che @e grave pena; senza che non
+veggono luce, onde si possano rallegrare.
+
+	|127-128.  De la lorda pozza Grand'arco.~  Pozza per la
+palude; nome picciolo a gran cosa.  |@E'l mezzo~ significa in
+questo luogo molle e bagnato e non duro, come era la ripa pi@u
+lontana dalla palude, accioch@e non restassono fitti, per la
+mollezza della ripa vicina alla palude, nel fango.
+

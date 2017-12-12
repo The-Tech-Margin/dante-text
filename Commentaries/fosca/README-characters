@@ -1,0 +1,4 @@
+Many of these files contain non-ASCII ISO8859-1 characters
+such as the section symbol, the degree mark, and the feminine ordinal
+symbol. Since we are loading the database using ISO8859-1 (or its
+Windows superset 1252), these characters should be handled properly.

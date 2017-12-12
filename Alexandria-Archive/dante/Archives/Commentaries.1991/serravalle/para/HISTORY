@@ -1,0 +1,11 @@
+Tue Jul 14 09:05:20 EDT 1987 deleted 07.k, exact dup of 08.k. upload 
+	was botched by typist. Must be retyped. jvs
+Sun Feb 12 13:57:43 EST 1989 preloaded .e files: 1-4; 17-21; 29, jvs
+
+Wed Feb 22 14:22:39 EST 1989 rest of .e files uploaded last night by STC. JMA
+Fri Mar 31 09:16:11 EST 1989 jvs rmd obsolete .s \& .e files, mvd current .f to .e
+Mon Apr 3 19:59:23 EDT 1989 jvs ran checknew on .e files, wrote reformat.sed
+Mon Apr 3 20:00:44 EDT 1989 jvs fixed .e files with reformat.sed, fixed files are .f
+Mon Apr 3 20:52:26 EDT 1989 jvs preloaded new .f files, EXCEPT 26, still missing
+Wed Apr 19 20:24:42 EDT 1989 jvs deleted obsolete .e files
+Mon Jul 31 10:53:47 EDT 1989 jvs renamed .f files to .e

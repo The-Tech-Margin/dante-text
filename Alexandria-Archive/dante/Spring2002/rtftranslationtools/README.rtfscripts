@@ -1,0 +1,35 @@
+This is the README file for the RTF processing stage of the Dartmouth Dante Project.
+
+The purpose of the rtfprocess.sh script is to translate directories full of RTF files 
+into directories full of DDP files.  This is done using the 3rd party Logictran 
+Word/RTFtoHTML/XML converter.  The only tested binary was version 5.0 for Linux.
+
+How to edit rtfprocess.sh before running it:
+
+Before running rtfprocess.sh, locate the scripts eatwhite.sed,findpara.sed, and 
+extralf.sed and enter their location into the variables $sedscript1, 
+$sedscript2,$sedscript3 at the beginning of rtfprocess.sh.  Be sure the Logictran RTF 
+converter is installed and enter its location into the variable $convertername at the 
+beginning of rtfprocess.sh.  Lastly, enter the location of the RTF to DDP translation 
+file "ascii.trn" into the variable $convertertrn. The file "asciimap.txt" which is 
+referred to in "ascii.trn" must be in the same directory as "ascii.trn".
+
+Linux:  
+       rtfprocess.sh  srcdir  destdir   -->
+       setuppreload.sh  destdir         -->  
+       Tar dirs
+       xfer to Dante machine.
+
+Dante machine:
+        cd to ~dante/destdir
+        preloader.sh 
+
+
+Run rtfprocess.sh with "rtfprocess.sh sourcedirectory destinationdirectory".
+
+Then run setuppreload.sh with "setuppreload.sh destinationdirectory" to create the 
+preload scripts.
+
+Both scripts are recursive, so they can handle large directory structures many levels 
+deep. 
+

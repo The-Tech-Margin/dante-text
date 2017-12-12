@@ -1,0 +1,735 @@
+	|SUMMARIUM.~  CANTUS TRIGESIMUS SECUNDUS, ^in quo tractat
+sicut secutus est currum cum dominabus et senioribus; et sicut
+aquila percussit currum, et de vulpe, et de vera significatione;
+et in fine de gigante et de meretrice, et de multis aliis.~
+
+	|Proemio.~  ^TANTO eran gli occhi miei fissi.~  Postquam
+in proxime praecedenti capitulo poeta noster ostendit plenam et
+perfectam pulcritudinem Beatricis, nunc consequenter in praesenti
+capitulo XXXII describit reversionem militantis ecclesiae in
+patriam.  Et totum istud capitulum potest breviter dividi in
+quatuor partes generales.  In prima quarum describit
+dispositionem illius exercitus.  In secunda fundationem
+primitivae ecclesiae, ibi: ^Forse in tre voli.~  In tertia
+reditum illius exercitus ad coelum, ibi: ^Io non lo intesi.~  In
+quarta et ultima describit sub figura notabiles persecutiones
+quas passa est ista militans ecclesia, ibi: ^Qui sarai tu.~  
+
+	|1-9.~  Ad primum ergo dico quod poeta describit
+dispositionem istius exercitus.  Et primo pro continuatione
+praemittit suam magnam attentionem ad Beatricem; et in effectu
+non vult aliud dicere, nisi quod erat tantum firmatus et tam
+avide in oculis Beatricis, quod nullam aliam rem poterat videre
+vel audire.  Dicit ergo: |Gli occhi miei~, perspicaces, |eran
+tanto fissi et attenti~, in respiciendo oculos Beatricis, |a
+disbramarsi la decenne sete~, idest, ad sedandam aviditatem decem
+annorum; et vere desiderium videndi Beatricem erat decennale in
+MCCC, quando poeta inchoavit hoc opus, quia per decem annos ante
+Beatrix mortua erat; ideo tanta nunc erat sitis eius quod in
+decennio non fuisset extincta; |che gli altri sensi~, scilicet
+alii a visu et etiam visus caeterarum rerum, |m'eran tutti
+spenti~, idest, mortui, inutiles, quia nihil aliud videbat,
+audiebat, vel sentiebat.  Et tangit quomodo, dicens: |et essi~,
+idest, oculi mei, |quinci e quindi~, a dextra et sinistra, |avean
+parete~, idest, obstaculum, |di non caler~, idest, curandi de
+aliqua re; unde non poterat visum flectere in aliquam partem, ita
+erat ligatus; unde dicit: |cos@i lo santo riso~, idest, honesta
+facies istius sanctae mulieris, |traelli a se~, idest, traxit eos
+ad se, |con l'antica rete~, idest, delectatione amoris quam
+antiquitus habebat in ea, vel memoria antiqui amoris, qui diu
+extinctus nunc reaccensus est; licet autem esset sic dispositus,
+tamen violenter coactus est volvere visum sinistrorsum; unde
+dicit: |quando per forza~, rei auditae, |mi fu volto il viso~, a
+dextera, ubi erat, |v#er la sinistra mia da quelle dee~, scilicet,
+fide, spe, et caritate, quae sunt virtutes divinae, |perch'io
+udia da loro~, idest, ab ipsis dicentibus, |un: Troppo fiso~;
+voluerunt dicere istae tres quod Dantes nimis fixe respiciebat
+Beatricem, secundum consilium sibi datum superius ab illis primis
+quatuor, quae dixerunt: |fa' che non risparmi~ etc.: volebant
+ergo istae tres quod poeta removeret visum a Beatrice ut videret
+exercitum redeuntem, ut statim sequitur.  
+
+	|10-18.  E la disposizion.~  Hic poeta describit
+dispositionem suam qualis erat ad alia videnda cum removisset
+oculos a Beatrice: et sententialiter vult dicere, quod sicut
+oculus qui respexit aliquantulum solem remanet hebetatus, ita
+quod non potest videre alia sensibilia minora donec paullatim
+reformetur; ita a simili oculus poetae qui respexerat Beatricem
+non poterat videre alias personas illius exercitus, nisi postea
+reformatione facta.  Dicit ergo faciens comparationem nobilem et
+claram: |E la disposizion~, scilicet, talis, |ch'a veder @ee~,
+idest, quale est videre, |negli occhi~, alicuius hominis, |pur
+test@e~, idest, tantum nunc, |percossi dal sole~, idest, a lumine
+solari, |alquanto esser mi fee sanza la vista~, idest, quasi
+excaecavit me; |ma poi ch'al poco~, scilicet, sensibilem, idest,
+ad splendorem aliarum substantiarum, |il viso~, scilicet meus,
+|riformossi~, quia illa obumbratio solis recessit; et corrigit
+dictum suum per colorem qui dicitur correctio, dicens: |io dico
+al poco~, non quia lumen aliarum substantiarum esset ibi modicum,
+sed |per rispetto al molto sensibile~, idest, ad magnum
+splendorem Beatricis, |onde~, idest, a quo, |mi rimossi a forza~,
+quia compulsus ab illis dominabus removi visum a Beatrice, ut
+praedicitur: et bene dicit quia licet lumen aliarum substantiarum
+quae ibi erant esset magnum, tamen videbatur parvum respectu
+maximi luminis Beatricis, quia ipsa est quae dat intellectui
+humano omne lumen Dei, angelorum, virtutum, donorum etc. imo
+Christus relucet nobis in chartis sacrae scripturae.  Sic ergo
+reformatus, |vidi lo glorioso esercito~, illorum militantium,
+|rivolto sul braccio destro~, quia ad dexteram partem se
+revolverant, |e tornarsi~, versus orientem, |col sole~, scilicet,
+vero sensibili, |al volto~, idest, ante faciem, |e con le sette
+fiamme~, idest, cum septem luminibus candelabrorum.  
+
+	|19-24.  Come.~  Hic poeta describit revolutionem et
+reversionem exercitus per unam comparationem propriam, quae
+breviter stat in hoc, quod sicut in mutatione exercitus volvuntur
+insignia et tota acies armatorum antequam ultimi moveantur, ita
+nunc tota militia illa erat revoluta cum luminaribus antequam
+currus flecteretur.  Dicit ergo: |Quella milizia~, idest, gens
+militaris, |del celeste regno~, cui militat pro triumpho, |che
+precedeva~, idest, iverat ante cum luminaribus, scilicet viginti
+quatuor coronati etc., |tutta trapassonne~, circuendo currum
+tamquam polum suum pariter in se rotantem, |pria che 'l carro~,
+quem trahebat gryphus, |piegasse il primo legno~, scilicet,
+temonem ad gyrandum similiter, sicut illi fecerant; a simili,
+|come schiera volgesi~, stricta, |sotto li scudi~, servando
+ordinem aciei, |per salvarsi~, ne recipiant detrimentum; |e s@e
+gira~, idest, et volvit se in gyrum, |col segno~, idest, simul
+cum vexillo, |prima che possa tutta in se mutarsi~; idest,
+antequam posteriores possint omnes esse revoluti: sicut, verbi
+gratia, si acies vadens versus occidens aliquo casu vertat se ad
+oriens propter suam salutem, manifestum est quod illi qui
+sequuntur in fine non erunt revoluti simul et semel cum primis
+versus oriens, imo adhuc erunt respicientes versus occidens.  Et
+hic nota quod per hoc poeta dat intelligi quod omnes prophetiae
+et leges veteris testamenti erant adimpletae antequam Christus
+firmaret primitivam ecclesiam; ideo dixit: consummatum est.  
+
+	|25-27.  Indi.~  Nunc poeta ostendit quomodo currus
+moverit campum post exercitum, qui jam transiverat; et continuans
+se tangit praeparationem factam, dicens: |Indi~, idest, deinde,
+|le donne~, scilicet, septem virgines, |si tornar alle ruote~,
+illius currus, quatuor ad unam, tres ad aliam, quae prius
+recesserant et iverant ad Beatricem in favorem poetae, |e 'l
+grifon mosse il benedetto carco~, scilicet, currum in quo erant
+angeli et Beatrix, |s@i che per@o nulla penna crollonne~, alarum
+suarum, quia nihil de divinitate mutatum est, quamvis mutaretur
+forma ecclesiae.  
+
+	|28-30.~  Et subdit qualiter ipse secutus est currum cum
+paucis, dicens: |la bella donna~, scilicet, Mathildis comitissa
+christiana, |che mi trasse al varco~, per aquam fluminis ad se,
+|e Stazio~, poeta christianus qui occulte juverat christianos,
+|et io~, qui prae caeteris christianis roboravi poetice fidem,
+|seguitavam la ruota~, scilicet dexteram ad quam currus se
+volvit, ut supra dicitur; et figurat quod ecclesia volvitur supra
+novum testamentum; ideo bene isti christiani sequebantur illam
+rotam.  Et specificat ipsam rotam per signum, dicens: |che fe
+l'orbita sua~, idest, vestigium quod facit rota in via, |con
+minor arco~, idest circulo, quam fecerit sinistra rota: et hoc
+videmus de facto quod quandocumque aliquis currus revolvitur,
+rota interior facit minorem circulum quam exterior, nunc autem
+rota interior erat dextra in ista revolutione: hoc etiam patet
+allegorice, quia novum testamentum facit multo minus volumen quam
+vetus, vel quia per novum testamentum facilius et citius
+ascenditur coelum.  
+
+	|31-33.~  Et subdit quod secundum motum ambulantium
+resonabat melodia angelorum cantantium, dicens: |un'angelica
+nota~, idest, cantus angelorum, |temprava i passi~, conformando
+pariter et proportionaliter, |si passeggiando~, idest, nobis
+percurrentibus, |l'alta selva~, qua nulla est altior, quia
+propinqua coelo, |vota~, idest, vacuata et privata habitatoribus,
+|colpa di quella~, scilicet, Evae, |ch'al serpente crese~, idest,
+quae credidit diabolo, et sibi credidit vir; unde paulo infra
+ponit querelam de Adam: sed certe ad culpam continuo secuta est
+poena; nam uterque factus exul, miser et pauper, omnium egenus,
+subiectus morti vidit omnia dura auditu nedum toleratu; et inter
+anxietates et inter angustias longam et fessam malis terminavit
+vitam.  Si ergo prohibitio auxit concupiscentiam huius mulieris
+excelsae, quid mirum si nullus metus mortis potest caeteras
+continere? quarum corpus molle, animus vilis praecipitat in omnem
+turpitudinem, nec fraeno coerceri potest indomitum animal, cuius
+vir frequentius est in culpa.
+
+	|34-36.  Forse in tre.~  Ista est seconda pars generalis
+in qua poeta describit fundationem primitivae ecclesiae
+militantis.  Et primo ostendit qualiter Beatrix descendit de
+curru, cum appropinquarent ad arborum cui alligandus erat currus,
+quia remansura erat ad custodiam currus recedente grypho: et pro
+continuatione tangit quantum viae fecerant quando pervenerunt ad
+arborem, per unam comparationem claram, dicens: |Saetta
+disfrenata~, ad tractum, |prese forse tanto spazio~, idest,
+transivit tantum viae, |in tre voli~, idest, in triplici jactu
+arcus, |quanto eravam remossi~, idest, quantum eramus facti
+longinqui a loco unde moveramus; quasi dicat, nos tres, scilicet
+Mathildis, Statius et ego leves iveramus forte per tres
+balistratas sequentes currum; |quando Beatrice scese~, idest,
+descendit de curru prope arborem maximam spoliatam.  
+
+	|37-39.~  Ideo subdit: |io sentia a tutti mormorare:
+Adamo~, redarguendo eum de inobedientia propter quam arbor erat
+ita spoliata, quasi dicentes: Adam, Adam ubi es, qui fuisti causa
+tanti mali peccando hic.  Unde dicit: |poi cerchiaro~, idest,
+circumdederunt, |una pianta~, haec erat arbor scientiae boni et
+mali, |dispogliata di fiori e d'altra fronda con suo ramo.~  Et
+sic vide, quod ista fuit prima duarum despoliationum de quibus
+dicit infra capitulo proximo quae facta fuit per Adam.  
+
+	|40-42.  La chioma.~  Hic poeta describit alte istam
+arborem ab altitudine sua per comparationem pulcram altissimarum
+arborum.  Ad cuius intelligentiam est primo sciendum, quod sicut
+scribit Virgilius II Georgicorum, in parte Indiae, quae est juxta
+oceanum orientalem nascitur arbor tantae altitudinis quod nulla
+sagipta valet attingere summitatem eius, licet sint ibi optimi
+sagiptatores.  Et describit deinde Virgilius aliam arborem
+alterius provinciae orientalis, scilicet, Mediae, quae est arbor
+simillima lauro in frondibus et odore, habet tamen maiorem
+odorem: haec autem arbor mirabilis producit pomum optimum contra
+omnem vim veneni, quod habet saporem valde amarum; unde curat
+subito pueros quibus crudeles novercae dederunt venenum
+pestiferum.  Et sic vide quantum arbor haec saluberrima conveniat
+cum arbore tali: differt tamen in hoc quod arbor paradisi per
+contrarium nostrarum arborum semper ingrossatur ascendendo. 
+Dicit ergo: |La chioma sua~, idest, corona ramorum huius arboris,
+|che tanto pi@u si dilata~, idest, ampliatur, |quanto pi@u @e su~,
+idest, ascendit sursum, |fora ammirata~, esset inspecta cum
+admiratione, |dagl'Indi~, idest, ab illis de India, |nei boschi
+lor per altezza~, quasi dicat, quod illa arbor quae est altior in
+India est brevis respectu istius.  Et hic nota quod haec est illa
+arbor a qua excisa fuit illa arbor, de qua dictum est in circulo
+gulosorum, quae habet partem superiorem ampliorem quia recipit
+nutrimentum a coelo, ubi arbores nostrae recipiunt a terra.  Nota
+etiam hic quod, teste Seneca, Virgilius magis voluit delectare
+lectorem quam docere agricolam.  
+
+	|43-51.  Beato.~  Hic poeta quia dixerat, quod omnes
+culpaverant inobedientiam Adae, nunc ostendit qualiter omnes
+commendaverunt obedientiam Christi qui renovavit arborem quam
+Adam spoliaverat.  Dicit ergo: |Beato se', grifon, che non
+discindi~, idest, disrumpis, |col becco~, quasi dicat, qui non
+gustas, |d'esto legno~, scientiae boni et mali; hoc dicit quia
+Christus factus est obediens usque ad mortem, ubi Adam non fuit
+obediens nisi per paucas horas; ideo bene dicit: |dolce al
+gusto~, sed amarum ventri; unde dicit: |poscia che 'l ventre mal
+si torse~, idest, amare torquetur et tormentatur, |quindi~, ab
+illo gustu, ut jam patuit in primis parentibus.  Et tangit unde
+venerit istud dictum et confirmatio dicti, dicens: |gli altri~,
+scilicet, beati, |gridaron cos@i~, sicut dictum est in laudem
+gryphi, |d'intorno all'albero robusto~, magnam et fortem; |e
+l'animal binato~, scilicet, Christus qui est duarum naturarum,
+supple, clamavit, |s@i si conserva il seme d'ogni giusto~,
+scilicet, per perseveratam obedientiam.  Et tangit deinde
+qualiter hic justus jecit primum fundamentum ecclesiae, dicens:
+|e volto~, ille gryphus, |al temo~, currus, |ch'egli avea
+tirato~, ad collum suum, |trasselo a pi@e della vedova frasca~,
+idest, ad arborem viduatam frondibus, ut jam dictum est, |e
+lasci@o quel~, scilicet, currum, |legato di lei a lei~, quia
+scilicet cum ramo arboris alligavit currum arbori et ascendit in
+coelum.  Et hic nota quod aliqui dicunt quod haec ligatio est
+figura incarnationis, aliqui quod dictum lignum habet notare
+crucem; tu vero dic quod per hoc poeta notat quod Christus cum
+obedientia alligavit ecclesiam obedientiae.  
+
+	|52-60.  Come.~  Hic poeta describit effectum mirabilem
+illius ligationis per unam nobilem comparationem: et intendit
+summarie dicere quod ligato curru ad plantam continuo illa
+reviruit et refloruit in tempore gratiae, sicut nostrae arbores
+adveniente vere reinduunt folia, frondes, et omnem ornatum suum,
+quo fuerant primo spoliatae per totum tempus hyemis.  Nunc expone
+et construe sic literam quae subtilis est, et incipe ibi: |La
+pianta~, lignum illud, |che prima avea le ramora s@i sole~, sine
+foliis et floribus, |aprendo~, idest, aperiendo se, |s'innov@o~,
+idest, renovavit, |colore~, medium, |men che di rose e pi@u che di
+viole.~  Et hic nota subtilem fictionem poetae per quam dat nobis
+intelligi, quod arbor quae erat primo sic spoliata, fuit postea
+colorata quodam novo colore minus rubente quam rosae et plusquam
+violae; et hoc per passionem Christi et eius obedientiam.  Sicut
+enim propter peccatum primi parentis inobedientis spoliata erat
+planta illa obedientiae, et non salvabantur aliqui quamvis justi;
+sic propter obedientiam Christi renovata fuerunt folia in planta
+ipsa, cum reconciliatum fuit genus humanum deitati; non tamen ita
+quod reduceretur ad primam gratiam, idest, ad statum innocentiae,
+sicut erat prius; ideo bene dicit, quod folia erant colorata non
+ut rosae, sed plusquam violae.  Sic ergo renovata est planta,
+|come le nostre piante~, generaliter et communiter, |fansi
+turgide~, idest, inflantur, impraegnantur, et pariunt flores,
+|quando la gran luce~, idest sol, |casca~, idest, cadit, sive
+descendit, |gi@u~, scilicet ad terram, |mischiata con quella~,
+idest, coniuncta cum luce arietis, |che raggia dietro alla
+celeste lasca~, idest, signum piscis; nam lasca est genus piscis;
+aries enim immediate sequitur signum piscium, |e poi ciascuna si
+rinovella di suo colore~, secundum suam speciem, |pria che 'l
+sole giunga li suoi corsieri~, idest, equos currentes plusquam
+aliqui equi barbari vel arabes, |sotto altra stella~, idest,
+constellationem, quasi dicat: antequam intret aliud signum,
+scilicet, taurum, qui sequitur arietem.
+
+	|61-63.  Io non lo intesi.~  Ista est tertia pars
+generalis, in qua poeta describit reversionem illius beati
+exercitus ad coelestem patriam; et primo ut praeparet se ad talem
+materiam describit quomodo obdormivit ibi ad dulcedinem cantus,
+eo modo quo Argus obdormivit ad delectationem soni Mercurii.  Ad
+cuius rei evidentiam oportet primo scire quod Isis, quae antea
+vocata fuerat Io, fuit olim regina clarissima aegyptiorum, et
+postea sanctissima et venerabilis dea: de cuius tempore et
+parentibus variae et vanae opiniones sunt apud illustres autores. 
+Sed ut Ovidio faveatur, fuit filia Inachi primi regis argivorum
+et soror Phoronei magni legislatoris tempore Jacob.  Haec, ut
+omnium poetarum figmenta omittam, et historiam veram et
+allegoriam sequar, fuit mulier forma decora, ingenio nobilis,
+quae a Jove magno adultero deflorata virginitate facta est
+meretrix: ideo bene dicitur mutata in vaccam, et tradita Argo
+custodienda, rapta dicitur a Mercurio, quia nemo est tam argutus,
+oculatus et astutus qui mulierem valeat custodire ab insidiosis
+artibus Mercurii, qui viget eloquentia, astutia et omni genere
+furtivae malitiae: ideo bene dicitur apposuisse illi asilum sub
+caudam, idest, stimulum libidinis, quo pungente diu vaga
+discurrit.  Est enim asilus apis quae supposita caudae bovis
+facit illum furiose currere per multa milliaria; ideo bene res
+non honesta colorata est sub honesta fictione et velamine
+fabulae.  Haec igitur diu vagata per orbem, multis percursis
+provinciis, tandem devenit in AEgyptum; ubi femina graeca sapiens
+docuit aegyptios homines imbecilles superstitioni aptos colere
+agros, et ex frugibus panem conficere: et quod longe nobilius
+fuit dedit novum usum literarum illis.  Propter quae tam
+excellentia opera non ex Graecia Isidem venisse, sed ex coelo
+cecidisse sibi crediderunt; unde et illi adhuc viventi tribuerunt
+divinos honores.  Modo ad propositum vult dicere poeta: sicut
+Argus audiens Mercurium pulsantem obdormivit nimia delectatione,
+ita ipse nimia dulcedine cantus auditi obdormivit.  Et sic est
+optima comparatio de poeta nostro ad Argum, quorum uterque
+sopitus est dulcedine magna.  Nunc ad literam: Poeta tangit ipsum
+cantum, dicens: |Io non lo intesi l'inno~, idest, laudem Deo
+debitam, |che quella gente~, quae remanserat ibi circa currum,
+|allor cantaro~, prae gaudio magno, |e qui non ci si canta~, quia
+talis hymnus non cantatur in mundo isto, vel non cantatur hic,
+idest, non poetice describitur in isto libro, quia non possum. 
+Per hoc notat poeta quod iste cantus fuit excellentissimus quem
+non potuit intelligere, quia immensum gaudium et festum ibi
+fiebat pro renovatione plantae; nam si saepe gaudium factum est
+pro purgatione unius solius hominis, scilicet, Dantis, quanto
+magis nunc pro salvatione humani generis.  Unde dicit: |n@e la
+nota soffersi tutta quanta~, quia scilicet somnus rapuit me ex
+nimia dulcedine, sicut contigit Argo.  
+
+	|64-68.~  Unde subdit quod si posset describere modum
+obdormitionis hoc faceret exemplo Argi, quod multum facit ad
+propositum.  Ordina sic literam et construe: |io disegnerei~,
+idest, describerem poetice, |com'io m'addormentai~, ad cantum,
+|come pintor che pinga con esemplo~, et est optima similitudo de
+pictore ad poetam, quorum uterque intendit repraesentare, |s'io
+potessi ritrar~, idest, repraesentare, |come gli occhi spietati~,
+scilicet, Argi qui impie tractabat Io commissam suae custodiae,
+tenens eam sub arcta custodia, |assonnaro~, idest, repleti sunt
+somno, |udendo di Siringa~, scilicet, a Mercurio pulsante
+fistulam et narrante quomodo fistula illa facta fuerat de Siringa
+virgine quae mutata est in cannulam; et repetit: |gli occhi~,
+dico, |a cui pur vegghiar cost@o s@i caro~, quia Argus ex hoc
+perdidit lucem vitae mactatus a Mercurio.  Et volunt aliqui quod
+Mercurius sit sol, et Argus coelum, cuius omnia lumina sol
+extinguit lumine suo.  
+
+	|69-72.~  Et subdit excusans se quod non potest scribere
+obdormitionem et transit ad evigilationem.  Unde dicit: |ma qual
+vuol sia~, idest, quicumque poeta magnus, |che ben finga
+l'assonnar~, quasi dicat: nullus posset bene fingere
+obdormitionem; |per@o trascorro a quando mi svegliai~; duo autem
+fuerunt excitantia ipsum, scilicet, lux magna, et vox; unde
+dicit: |e dico ch'un splendor~, scilicet, recedentium in coelum,
+|mi squarci@o il velo del sonno~, idest rupit mihi somnum, quod
+velabat mihi visum, |et un chiamar~; haec erat vox Mathildis
+dicentis: |surgi, che fai~? quasi dicat, non est amplius tempus
+dormiendi, quia jam militia illa sancta rediverat in coelum post
+gryphum.  Et hic nota quod poeta more suo quando vult describere
+aliquid pulcrum de novo, fingit primo se dormire, deinde in
+diluculo evigilare.  
+
+	|73-81.  Quali.~  Hic poeta ostendit qualiter
+evigilaverit et quid viderit per nobilem comparationem.  Et vult
+sententialiter dicere, quod sibi nunc accidit sicut discipulis
+Christi tempore quo se transfiguravit: nam excitatus a somno cum
+stupore vidit mutatam formam militantis ecclesiae, quia scilicet
+tota militia illius exercitus praecedentis rediverat in coelum
+post Christum qui resumpserat suam veram figuram, sicut discipuli
+excitati cum stupore viderunt Moysem et Helyam disparuisse, et
+Christum resumpsisse primam figuram.  Nunc vide literam, quae est
+satis fortis, et construe et incipe ibi: ^Io tornai tal~, a somno
+in vigiliam, omnibus recedentibus remanente Beatrice, |quali~,
+supple, apostoli rediverunt, scilicet, |Pietro e Giovanni e
+Jacopo~, frater eius: istos enim tres assumpsit Christus, quia
+omne meritum fidei consistit vel credendo cum Petro, vel
+supplantando vitium cum Jacobo, vel operando bonum cum Johanne in
+quo est gratia, |condotti~, scilicet, a Christo in montem Thabor,
+qui est quarto milliario a Nazareth, ubi Christus transfiguratus
+est coram eis, sicut et hic transfiguratus est in gryphum in
+monte excelso, |a veder de' fioretti del melo~, idest, summi
+boni.  Bene dicit, quia tunc viderunt florem beatitudinis, postea
+visuri fructum, idest, maiestatem divinitatis et essentiam
+Trinitatis in coelo, sicut et poeta vidit hic in figura, postea
+vero in divina essentia; ideo dicit: |che fa gli angeli ghiotti
+del suo pomo~, quia pascuntur fructu beatitudinis, |e perpetue
+nozze fa nel cielo~; quia vescuntur aeternaliter talibus epulis
+in coelo non aliquando sicut in terra gustaverunt in monte.  Et
+dicit: |e vinti~, a subito splendore, sicut nunc poeta, |tornaro
+alla parola~, scilicet Christi, qui dixit eis, surgite, sicut et
+nunc Mathildis dixit poetae: surge.  Et dicit: |dalla qual furon
+rotti maggior sonni~, scilicet, sanctorum patrum, quos aliquando
+excitavit Deus; vel dic, quod maior somnus, scilicet mortis,
+aliquando fuit victus ad verbum Domini sicut in Lazaro et
+quibusdam aliis.  Et dicit: |e videro scemata loro scuola~,
+idest, societatem, |cos@i di Mois@e come d'Elia~; adduxerat enim
+Christus legislatorem Moysem et Dei zelatorem Elyam: dominus
+vivorum in Elya, et mortuorum in Moyse; |et al maestro suo~,
+scilicet, Christo, |mutata stola~, idest, veste; nam in illa
+transfiguratione resplenduerat facies eius sicut sol, et
+vestimenta eius facta erant sicut nix, non tamen assumens novam
+faciem vel figuram, sed candor ille vestium procedebat a candore
+faciei, ut ait Augustinus, postea autem vanuerat.  
+
+	|82-87.  E vidi.~  Hic poeta ostendit qualiter reversus a
+se viderit ecclesiam remanentem post discessum Christi et
+exercitus, dicens: |E vidi quella pia~, scilicet, Mathildim, quae
+pie me receperat per sylvam errantem; unde dicit: |che fu
+conducitrice pria de' miei passi lungo il fiume~, scilicet,
+Lethaeum, |e tutto in dubbio~, quia non videbam Beatricem,
+|dissi: ov'@e Beatrice~? quasi volens dicere: recessit ipsa forte
+in coelum cum aliis, et non duxit me secum? et tamen non poterat
+hoc credere, quia totiens fuerat sibi promissum et praedictum;
+ideo bene dicit |in dubbio.~  Et subdit responsionem Mathildis,
+dicens: |ond'ella~, scilicet, Mathildis, supple, dixit: |vedi lei
+sotto la fronda~, quam de novo produxerat dicta arbor, ut
+praedicitur, |nuova sedersi in su la sua radice~, quia fundata
+est super radicem talis arboris sic renovatae, et ministrat
+humorem sibi de quo vivit.  
+
+	|88-90.~  Et addit: |vedi la compagnia~, scilicet, partem
+quae remansit, |che la circonda~, scilicet, septem virtutes et
+septem dona, ita quod ista excelsa domina melius potest dicere
+quam Juno: ^Sunt mihi bis septem praestanti corpore nymphae~:
+|gli altri~, idest, reliqua pars militiae, |sen vanno suso~, ad
+coelum, |dopo 'l griffone~, scilicet, Christum, |con pi@u dolce
+canzon e pi@u profonda~, quam esset cantio remanentium; et merito
+quia cum Christo recedebant prophetae, evangelistae et doctores.  
+
+	|91-93.  E se.~  Hic poeta ostendit qualiter redierit cum
+oculis et animo ad Beatricem, et qualiter viderit eam.  Dicit
+ergo continuative: |E se pi@u fu il suo parlar diffuso~, idest, et
+si plura dixit illa Mathildis, |non so~, quia alia domina maioris
+pulcritudinis et bonitatis vocabat me; unde dicit: |perocch@e
+quella~, scilicet, Beatrix, |ch'ad altro intender m'avea chiuso~,
+scilicet, ad speculandum aliud de remanentibus, ita quod non
+poteram amplius audire de recedentibus, |gi@a m'era negli occhi~,
+idest, jam contemplabar ipsam quae remanserat loco Christi.  
+
+	|94-96.~  Unde subdit: |sola sedeasi~, illa Beatrix, |in
+sulla terra vera~, ubi est arbor scientiae boni, |come guardia
+lasciata l@i del plaustro~, idest, currus qui remanserat ibi: et
+vere sacra scriptura est illa quae post Christum custodit et
+conservat ecclesiam in terra, |che legar vidi~, idest, quem
+currum vidi ligari ad arborem, ut supra dicitur, |alla biforme
+fiera~, idest, Christo duarum formarum, scilicet, aquilae et
+leonis.  
+
+	|97-99.~  Et tangit nobilem comitivam istius nobilissimae
+dominae, quoniam septem virgines domicellae ancillabantur sibi;
+unde dicit: |le sette ninfe~, idest, virtutes, quae sunt tamquam
+deae vagantes in terris, et in coelis sunt septem stellae
+lucentes, ut alibi dictum est, |le facean claustro di se in
+cerchio~, quia in modum coronae circumstabant et claudebant eam;
+et dicit, |con quei lumi in mano~, idest, cum illis septem
+luminaribus quae reliquerant ibi in aere illa septem candelabra
+ardentia, quae sunt septem dona Spiritus sancti, |che son sicuri
+d'Aquilone e d'Austro~, quia non extinguuntur aliquo vento, quia
+non a borea vel austro, qui sunt magis violenti quam zephyrus vel
+eurus.  Solum enim velum culpae non sinit illa lucere oculis
+nostris, ut jam patuit.
+
+	|100-105.  Qui sarai.~  Ista est quarta et ultima pars
+huius penultimi capituli, in qua poeta describit magnam
+desolationem, quae venit super currum triumphalem, quem Christus
+ligaverat ad arborem.  Et primo ponit orationem Beatricis ad se
+quem invitat ad videndum quaedam terribilia affligentia et
+vexantia multipliciter currum.  Dicit ergo Beatrix faciens poetam
+benevolum et attentum ad dicenda: |Tu sarai poco tempo silvano
+qui~, idest, habitator istius sylvae delitiosae, quia cras mecum
+eris in coelo; unde dicit: |e sarai meco~, in aeterna vita,
+|senza fine cive di quella Roma~, idest, supernae patriae, |onde
+Cristo @e romano~, quia est imperator illius curiae.  Et nota quod
+potius facit mentionem de Roma quam de Jerusalem hic, quia Roma
+in tempore gratiae fuit patria istius currus, sedes pontificum,
+terra fere tota madida sanguine martyrum, et quia statim tangit
+persecutiones quas fecerunt romani imperatores contra istum
+currum.  Roma etiam fuit patria libertatis, unde omnis liber homo
+appellatur civis romanus in jure civili; vult ergo dicere
+Beatrix: tu qui nunc es civis terrenae Romae cito eris civis
+aeternae Romae; quasi dicat: quia tu es ita electus et
+praedestinatus ut vivens venias ad hanc civitatem; |per@o tieni or
+gli occhi al carro~, quia si Christus fudit sanguinem suum pro
+eo, et successores sui diu fuderunt suum, |in pro del mondo~,
+idest, ad profectum et instructionem mundanorum, |che mal vive, e
+ritornato di l@a~, scilicet, ad mundum, |fa che tu scrive quel che
+vedi~, quia tu bonus in opere tuo intendis facere alios bonos. 
+
+	|106-108.~  Et continuo ostendit qualiter obediverit
+sibi, dicens continuative: |cos@i Beatrice~, supple, dixit mihi:
+|et io ch'era tutto divoto a' piedi de' suoi comandamenti~,
+praesto ad omnem famulatum, |diedi la mente e gli occhi~, idest,
+oculos mentales, |ov'ella volle~, scilicet, ad currum.  
+
+	|109-114.  Non.~  Nunc poeta incipit describere
+tribulationes ecclesiae, et primo quidem describit figuraliter
+primam generalem maximam persecutionem quam ostendit per
+persecutionem unius aquilae fulminantis.  Sub hac autem dat
+intelligi persecutiones imperatorum romanorum, quorum signum erat
+aquila: multi enim post Christum persecuti sunt ecclesiam, sicut
+Nero, Domitianus, Decius, Dioclitianus et alii: decem enim
+fuerunt persecutiones magnae ad similitudinem decem plagarum
+AEgypti, ut ait Horosius, nec tamen putandum est ecclesiam non
+habuisse vel habituram esse alias, ut ait Augustinus de Civitate
+Dei.  Ad literam ergo poeta tangit terribilem descensum unius
+aquilae per comparationem propriissimam fulminis, dicens: |Fuoco
+non scese mai di spessa nube quando piove~, in hoc tangit
+generationem fulminis de qua alias dictum est et dicetur, |da
+quel confine che pi@u @e remoto~, idest, a remotiori parte Mediae
+regionis, ubi fiunt tales impressiones, |con s@i veloce moto~,
+idest, tam repentino impetu.  Fulmen ergo figurat altam superbiam
+potentum superborum quod facit tantas strages; |com'io vidi calar
+l'uccel di Giove~, idest, descendere aquilam, quae dicitur avis
+Jovis, ut dictum est IX capitulo huius Purgatorii, et dicetur VI
+Paradisi, |per l'arbor~, cui erat alligatus currus, |gi@u,
+rompendo della scorza~, quae erat durior, |non che de' fiori~,
+idest nedum de floribus novis qui erant teneriores, |e delle
+foglie nuove~; quia non solum christianos novellos nuper
+conversos, sed etiam jam firmatos in fide percussit: et haec est
+secunda duarum despoliationum de quibus dicetur infra capitulo
+proximo.  
+
+	|115-117.~  Deinde ab arbore convertit vires suas contra
+currum; unde dicit: |e ferio il carro~, scilicet, bigam, |con
+tutta sua forza~, ut exterminaret ecclesiam primitivam noviter
+pullulantem, sed subvertere non potuit, ideo dicit: |ond'ei~,
+ipse currus, |pieg@o come nave in fortuna~, tempore tempestatis,
+|vinta dall'onde~, idest, fluctuatione maris, |or da poggia or da
+orza~, idest, nunc ab uno latere, nunc ab alio; sunt enim duo
+fines.  Et hic nota quod navicula Petri aliquando flectitur, sed
+nunquam mergitur: unde mille crudelitates Neronis qui faciebat
+omne triste ludibrium de christianis, ut refert Cornelius
+Tacitus, poterant nunquam convincere illos, de quo mirabantur
+omnes.  
+
+	|118-123.  Poscia.~  Hic poeta descripta persecutione
+facta per vim, nunc describit secundam persecutionem factam per
+fraudem; et similiter tangit sub figura generalem et pessimam
+persecutionem haereticorum.  Cessante enim persecutione principum
+per Constantinum, coeperunt pullulare haereses multae et variae,
+quas complectitur sub una vulpe fraudulenta.  Dicit ergo: |Poscia
+vidi una volpe~, idest, versutam astutiam multorum haereticorum,
+sicut Sabelli, Arii et aliorum, |avventarsi nella cuna~, idest,
+ventrem vel gremium, quia haeretici non agunt patenter sicut
+principes contra ecclesiam, sed occulte, |del trionfal veiculo~,
+idest, currus militantis ecclesiae, quae triumphaverat jam de
+imperatoribus, |che parea digiuna~, idest, famelica vel vacua,
+|d'ogni buon pasto~, idest, omni bona doctrina, sed omni pravo
+dogmate pasta.  Et subdit resistentiam quam facit sapiens et
+potens domina contra vulpem de jure et de facto, dicens: |ma la
+mia donna~, idest, sancta scriptura, cuius imperio nunc eram
+deditus, |riprendendo lei~, scilicet vulpem, |di laide colpe~,
+idest, turpibus erroribus; nam Beatrix opposuit ad defensionem
+suam angelos qui erant in curru, idest, magnos doctores contra
+magnos haereticos, sicut Augustinum contra Faustum, Hieronymum
+contra Jovinianum, qui posuerunt enormes errores, sicut ipse
+Jovinianus qui voluit virginitatem nullam esse virtutem etc. et
+ita cum argumentis fidei, |la volse in tanta futa~, quia fugerit
+a facie ecclesiae; |quanto sofferson l'ossa senza polpe~, quia
+maceravit vulpem et spoliavit carnibus, ita quod remansit sola
+pellis extensa super ossibus; vel vult dicere quod remanserunt
+ossa combusta carne, quia ecclesia incinerat haereticos quando
+invenit eos contumaces ne effundant venenum in alios credulos.  
+
+	|124-129.  Poscia.~  Hic poeta tangit aliam persecutionem
+factam ab aquila imperiali, sed contrario modo, quia prima vice
+spoliaverat ecclesiam, nunc vero vestivit eam nudam de proprio. 
+Per hoc tangit dotationem quam fecit Constantinus quam poeta
+ponit pro magna persecutione ecclesiae, quae generaliter infecit
+praelatos avaritia quae est fundamentum omnium malorum.  Dicit
+ergo: |Poscia vidi l'aguglia~, quam Constantinus transportavit in
+Graeciam, ut cederet pastori apostolico, |scender per indi~,
+idest, per arborem, |ond'era pria venuta gi@u nell'arca~, idest,
+ventrem, |del carro, e lasciar lei di se pennuta~, quia
+deplumavit se et depauperavit ut vestiret et ditaret ecclesiam. 
+Et probat poeta quod dotatio fuit magna persecutio ecclesiae,
+quia tempore illius prodigae donationis audita est vox de coelis,
+dicens: Hodie diffusum est venenum in ecclesia Dei.  Dicit ergo:
+|e tal voce~, tam amara et querula, |usc@i del cielo~, audita a
+quodam sancto viro, |qual esce di cuor che si rammarca~, idest,
+qualis vox exit ex animo hominis dolentis qui conqueritur; |e
+cotal~, scilicet, vox, |disse: o navicella mia~, idest, ecclesia
+quae dicitur navicula Petri, |com' mal se' carca~, idest, onusta
+malis mercibus, quas melius esset abiicere tempore tempestatis,
+quam simul perire cum illis.  Et ipse poeta supra jam de hoc
+fecit amaram querelam Inferni XIX capitulo, ubi clamavit: |ah,
+Constantin~ etc.  
+
+	|130-135.  Poi.~  Hic poeta describit quartam pestem,
+quae maius nocumentum dedit ecclesiae, quia detraxit magnam
+partem christianitatis vi et fraude, ita quod hic draco magnus
+plus mali fecit quam aquila praedando vel donando, et quam vulpes
+pravum seminando dogma, quia maiorem scissuram fecit, sicut plene
+notatum est Inferni capitulo XXVIII.  Sed ulterius est sciendum
+pro maiori cognitione, quod Heraclio christianissimo imperatore
+romanum gubernante imperium, anno Domini DCXI, Machomettus
+christianae fidei perfidus adversator, se Dei prophetam mentiens
+orientales plagas et maxime Arabiam labefecit; legem enim a
+diabolo dictatam ministerio Sergii monachi apostatae et haeretici
+tradidit saracenis arabice scriptam.  Fuit Machomettus vir
+luxuriosus, bellicosus, asserens se per gratiam Dei posse gignere
+plusquam quadraginta viri, habens multas uxores et concubinas;
+ideo tradidit leges immundas et vanas suis arabibus, quorum erat
+gens grossa sine lege, sine domino.  Cognovit et uxorem domini
+sui mercatoris ditissimi, quam post mortem illius duxit uxorem;
+tandem in aetate quadraginta annorum extinctus est veneno fraude
+suorum.  Ad literam ergo, poeta describit istum sub figura
+draconis, dicens: |Poi parve a me che la terra s'aprisse~, ut
+pareret istum draconem diabolicum, quem vere visa est emittere ab
+inferno; fuit enim homo totus carnalis et terrenus, |tr'ambo le
+ruote~, idest inter duas rotas, scilicet vetus et novum
+testamentum; et bene dicit, nam Machomettus ex utroque testamento
+constituit legem saracenis; asserebat enim se missum ad
+declarandam legem Moysi judaeis, et legem Christi christianis; et
+ut male intelligentes corrigeret et doceret, et necaret
+incredulos; unde dicit: |e vidi uscirne un drago~; draco dicitur
+serpens templi, et iste intravit templum Domini: fuit hic draco
+immensae magnitudinis, maior serpente qui romanum vexavit
+exercitum sub Marco Regulo in Africa.  Fuit hic draco alatus qui
+volavit ab oriente in occidentem; unde dicit: |che per lo carro
+su la coda fisse~, caudam venenatam, qua infecit magnam partem
+fidelium.  Et quia fixerat caudam sursum contra Deum, subdit
+quomodo retraxit eam ad se cum praeda per comparationem vespae,
+dicens: |e trasse dal fondo~, illius currus, |la coda maligna~,
+idest, male ignitam, ille draco, |traendo a se~, idest,
+retorquendo ad se, |come vespa che ritragge l'ago~, idest,
+aculeum suum.  Et est comparatio propria de vespa quae est
+inimica api, et vastat dulcem fructum eius, sicut Machomettus
+Christi.  Et dicit: |e gissen vago vago~, idest, recessit ille
+draco.  Et hic nota quod Machomettus vagatus est postea per orbem
+terrarum, quia suis malis artibus arabes, syros, medos, persas,
+aegyptios, aethiopes et usque ad Hispaniam suo errore seduxit. 
+Et breviter in ecclesia Dei tantus error factus est, quod ab
+infantia ecclesiae usque ad eius senium, idest, usque ad tempus
+antichristi, nec maior fuit unquam, nec futura videtur
+abominatio, desolatio, vel maius flagellum ecclesiae Dei; ita
+quod de Machometto verificatum videtur quod de Ismaele Genesis
+XVI: ^Iste erit ferus homo, manus eius contra omnes, et manus
+omnium contra eum.~  Et merito talis draco tantae malitiae et
+nequitiae venit de Arabia; nam semper ab antiquo arabes
+latrocinantes insidiati sunt populo Dei, ut saepe patet in sacra
+scriptura: et nunc Beatrix cum suis christianis poterat dicere
+Machometto et suis: ^Ignotum vobis, Arabes, venistis in orbem.~ 
+Nota etiam quod quidam periti per hunc draconem volunt intelligi
+Arium, quem saepe Augustinus vocat serpentem; sed certe
+Machomettus fuit maior serpens; quidam etiam per vulpem
+intelligunt Machomettum, quod nullo modo habet veritatem. 
+
+	|136-141.  Quel.~  Hic poeta ostenso quod draco
+asportavit secum in errorem magnam partem currus, nunc ostendit
+quod pars quae remansit fuit multa vitiata cupiditate, unde
+revertitur ad donationem Constantini, dicens: |Quel che rimase~,
+idest, illa pars currus quae non est secuta Machomettum, scilicet
+romana curia, ut papa et cardinales, quae remansit in fide
+Christi, |si ricoperse della piuma~, idest, dicta dote,
+|offerta~, scilicet, a Constantino, |come terra vivace~, quae est
+de se fertilis, supple, cooperitur, |di gramigna~, gramen enim de
+facili germinat et difficillime eradicatur.  Et est comparatio
+propria: quanto enim terra est naturaliter melior, cum malo
+semine vel non culta efficitur peior, sicut supra dixit ipsa
+Beatrix pro ipso poeta.  Et dicit: |forse con intenzion sana et
+benigna~, quia intentio Silvestri fuit bona forte ad defensionem
+currus et reintegrandum scissuras receptas.  Intentio etiam
+Constantini fuit recta, licet malus sequeretur effectus, ut
+dicitur Paradisi capitulo XX; unde subdit: |e l'una e l'altra
+ruota funne ricoperta~, illa dote, |e il temo~, simul cum rotis
+fuit recoopertus, quasi dicat: tota ecclesia locupletata est, |in
+tanto~, idest, valde modicum cum illa bona intentione, |che pi@u
+tiene un sospir la bocca aperta~, quasi dicat: parvo momento.  
+
+	|142-147.  E transformato.~  Hic poeta describit sub
+terribili figura malum effectum huius dotationis, quia currus
+factus est velut animal monstruosum habens multa capita et
+cornua; dicit ergo: |E il dificio santo~, idest, currus
+fabricatus tot sanctorum manibus prophetarum et evangelistarum,
+|transformato cos@i~, quia ex paupere habitu in divitem cultum
+|mise fuor teste~, idest, septem peccata mortalia quae pullulare
+coeperunt in ecclesia crescente dote, |per le parti sue~; et
+ecce, |tre sopra 'l temo~, idest, principalibus praelatis
+regentibus currum: ista sunt tria vitia peiora et magis
+spiritualia, scilicet, superbia, invidia et ira, |et una in
+ciascun canto~, idest, quod quatuor erant in quatuor angulis
+currus, idest, in aliis praelatis sedentibus in curru per totum a
+quatuor plagis mundi; et ista erant alia quatuor vitia minora et
+magis corporalia, scilicet accidia, avaritia, luxuria et gula; et
+hoc ordine purgavit poeta ista septem vitia sicut patuit per
+totum verum purgatorium.  Et distinguit dicta peccata capitalia
+per signum, dicens: |le prime~, scilicet, tres, |eran cornute
+come bue~, quia habebant duo capita ferientia sicut bovis
+indomiti, quia faciunt duas offensas, scilicet, in Deum et in
+proximum; |ma le quattro avean per fronte un sol corno~, quia
+faciunt magis offensam in Deum quam in proximum, licet omnia
+offendant utrumque.  Et sicut nata sunt septem capita, ita fugata
+sunt septem lumina ab ecclesia Dei; ideo concludit: |Simile
+mostro in vista mai non fue~, quia si hydra Herculis habuit
+septem capita non habuit decem cornua.  
+
+	|148-156.  Sicura.~  Nunc ultimo poeta describit
+novissimam persecutionem ecclesiae, quam viderat tempore suo, qua
+nulla videtur fuisse turpior quamvis maior, scilicet, mortem
+Bonifacii, de qua jam saepe dictum est.  Introducit autem curiam
+romanam sub nomine meretricis, sicut alias fecit, et regem
+Franciae sub nomine gigantis.  Dicit ergo: |una puttana sciolta~,
+idest, lubrica, dissoluta; haec est enim meretrix magna, quae
+sponte se subiicit principibus, et vendit honorem suum,
+|m'apparve seder sovresso~, scilicet currum, |con le ciglia
+pronte intorno~, prompta ad fornicandum cum procis ex omni parte;
+meretrix, dico, |sicura quasi r#occa in alto monte~, propter
+culmen sedis apostolicae; et quia de rei veritate Bonifacius tunc
+reputabat se maxime securum, quia erat in sua patria Anagnia
+inter suos cum quingentis satellitibus ad custodiam sui corporis. 
+Et subdit: |vidi di costa a lei dritto un gigante~, idest, regem
+Franciae Philippum, qui fuit magnus corpore et regno, unde dictus
+est pulcer; et fuit recte gigas, totus terrenus et insurgens
+contra Deum more gigantum, |di costa~, prope illam meretricem,
+|dritto a lei~, scilicet, ex opposito: |e come perch@e non gli
+fosse tolta~, ne adhaereret alteri regi vel imperatori, sed esset
+sub custodia sua, sicut fuerat diu; unde dicit: |e baciavansi
+insieme alcuna volta~: et hoc fuit verum de facto, quia ante
+dissensionem alter favebat alteri; et aliquando Bonifacius
+faciebat gratias ipsi Philippo; sed postea Philippus factus est
+sibi hostis acerrimus.  Unde subdit: |ma quel feroce drudo~,
+idest, crudelis procus, |la flagell@o~, quia verberavit peius quam
+soleat fieri de meretrice, |dal capo infin le piante~, sicut est
+scriptum supra XX capitulo huius Purgatorii, |perch@e l'occhio
+cupido e vagante a me rivolse~, quasi dicat: quia Bonifacius
+voluit respicere ad gentem italicam, dimissa gallica, quia
+nolebat amplius pati servitutem Philippi.  
+
+	|157-160.  Poi.~  Hic poeta subannectit aliud damnum,
+quod paulo post fecit ipse Philippus, quia cum magna fraude
+transportavit ecclesiam ultra montes in Galliam, ubi postea
+transivit de malo in peius, sicut plene scripsi capitulo XIX
+Inferni.  Dicit ergo: |Poi di dispetto pieno~, ille gigas timens
+ne ecclesia perveniret amplius ad manus alterius Bonifacii, qui
+faceret vindictam de eo, |e d'ira crudo~, idest, crudelis ira,
+quia volebat facere vindictam de Templariis, |disciolse il
+mostro~, idest, currum illum monstruosum ab arbore cui erat
+alligatus, |e trassel per la selva~, non per istam sylvam
+delitiosam istius montis, sed per sylvam vitiosam quam descripsit
+in principio Inferni; |tanto che sol di lei~, scilicet, sylva,
+|mi fece scudo~, quasi dicat, quia inter me et monstrum
+interposita est sylva; nam tam a longe traxit currum quod amplius
+videre non poteram, |alla puttana~, scilicet, Bonifacium et
+caeteros, |et alla nuova belva~, idest, bestiam novam, scilicet
+currum qui factus erat animal monstruosum, quia traxit eum supra
+Rhodanum in Galliam, data sibi alia meretrice, scilicet pastore
+Clemente.
+
+

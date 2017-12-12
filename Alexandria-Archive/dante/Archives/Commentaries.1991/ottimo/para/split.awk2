@@ -1,0 +1,12 @@
+BEGIN {suffix = ".a"
+	filename = "15.a"}
+
+($1 ~ /%/) {
+	close(filename)
+	++counter
+	filename = sprintf("%02d%2s", counter, suffix)
+	next
+}
+($1 !~ /%/) {
+	{print $0 > filename}
+}

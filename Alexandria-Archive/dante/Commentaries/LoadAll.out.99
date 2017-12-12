@@ -1,0 +1,2975 @@
+/people/dante/bin/LoadAll started at Tue Jul 20 08:22:38 EDT 1999
+============================
+        poem
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:22:39 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:22:39 1999
+----------
+Loading...
+----------
+cat desc inf/inf purg/purg para/para | brsload NDDP -create -force
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:22:39 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4712,  Dropped      0,    Total in DB   4712
+	    Words:  Added 204937,  Dropped      0,        Stopped  24301
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    45953,  Deleted        0
+	 Occurrences:  Added   204937,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:23:00 1999
+
+============================
+        jacopo
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:23:00 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    277,  Dropped      0,    Total in DB   4989
+	    Words:  Added  25778,  Dropped      0,        Stopped   6472
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     2124,  Deleted        0
+	 Occurrences:  Added    25778,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:23:06 1999
+
+============================
+        lombardus
+============================
+----------
+Loading...
+----------
+cat desc purg/01 purg/02 purg/03 purg/04 purg/05 purg/06 purg/07
+purg/08 purg/09 purg/10 purg/11 purg/12 purg/13 purg/14 purg/15 purg/16
+purg/17 purg/18 purg/19 purg/20 purg/21 purg/22 purg/23 purg/24 purg/25
+purg/26 purg/27 purg/28 purg/29 purg/30 purg/31 purg/32 purg/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:23:06 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    540,  Dropped      0,    Total in DB   5529
+	    Words:  Added  34685,  Dropped      0,        Stopped   3700
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8016,  Deleted        0
+	 Occurrences:  Added    34685,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:23:12 1999
+
+============================
+        graziolo
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:23:12 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    422,  Dropped      0,    Total in DB   5951
+	    Words:  Added  47688,  Dropped      0,        Stopped   6608
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8825,  Deleted        0
+	 Occurrences:  Added    47688,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:23:21 1999
+
+============================
+        lana
+============================
+----------
+Loading...
+----------
+cat desc inf/abbr inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06
+inf/07 inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16
+inf/17 inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26
+inf/27 inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:23:21 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 8968,   Paragraph Label TEXT,   Input Line Number 138489.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 9327,   Paragraph Label TEXT,   Input Line Number 154851.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 9910,   Paragraph Label TEXT,   Input Line Number 179516.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 10253,   Paragraph Label TEXT,   Input Line Number 195093.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   4353,  Dropped      0,    Total in DB  10304
+	    Words:  Added 375023,  Dropped      0,        Stopped  94408
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    19898,  Deleted        0
+	 Occurrences:  Added   375023,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:24:26 1999
+
+============================
+        guido
+============================
+----------------------
+Setting language to LI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:24:26 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:24:26 1999
+----------
+Loading...
+----------
+cat desc inf/prolo inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:24:26 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    898,  Dropped      0,    Total in DB  11202
+	    Words:  Added 182860,  Dropped      0,        Stopped  21254
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    21679,  Deleted        0
+	 Occurrences:  Added   182860,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:24:56 1999
+
+============================
+        ottimo
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:24:56 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:24:56 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/Proem para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:24:56 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   3395,  Dropped      0,    Total in DB  14597
+	    Words:  Added 410255,  Dropped      0,        Stopped 109047
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    16452,  Deleted        0
+	 Occurrences:  Added   410255,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:25:55 1999
+
+============================
+        selmiano
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:25:55 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    462,  Dropped      0,    Total in DB  15059
+	    Words:  Added  33842,  Dropped      0,        Stopped   8701
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     1237,  Deleted        0
+	 Occurrences:  Added    33842,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:26:02 1999
+
+============================
+        pietro1
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:26:02 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1241,  Dropped      0,    Total in DB  16300
+	    Words:  Added 139176,  Dropped      0,        Stopped  17492
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    14719,  Deleted        0
+	 Occurrences:  Added   139176,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:26:29 1999
+
+============================
+        pietro2
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:26:29 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    364,  Dropped      0,    Total in DB  16664
+	    Words:  Added  57974,  Dropped      0,        Stopped   7065
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3789,  Deleted        0
+	 Occurrences:  Added    57974,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:26:46 1999
+
+============================
+        pietro3
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:26:46 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16714,   Paragraph Label TEXT,   Input Line Number 3199.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16795,   Paragraph Label TEXT,   Input Line Number 7915.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16802,   Paragraph Label TEXT,   Input Line Number 8279.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16826,   Paragraph Label TEXT,   Input Line Number 9581.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16873,   Paragraph Label TEXT,   Input Line Number 11986.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16874,   Paragraph Label TEXT,   Input Line Number 12076.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16927,   Paragraph Label TEXT,   Input Line Number 14990.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16930,   Paragraph Label TEXT,   Input Line Number 15255.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 16931,   Paragraph Label TEXT,   Input Line Number 15357.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added    267,  Dropped      0,    Total in DB  16931
+	    Words:  Added  64691,  Dropped      0,        Stopped   7743
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3253,  Deleted        0
+	 Occurrences:  Added    64691,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:27:02 1999
+
+============================
+        cassinese
+============================
+----------------------
+Setting language to LI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:27:02 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:27:02 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:27:02 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 19080,   Paragraph Label TEXT,   Input Line Number 83908.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   4707,  Dropped      0,    Total in DB  21638
+	    Words:  Added 182798,  Dropped      0,        Stopped  15769
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    13573,  Deleted        0
+	 Occurrences:  Added   182798,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:27:48 1999
+
+============================
+        boccaccio
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:27:48 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:27:48 1999
+----------
+Loading...
+----------
+cat desc inf/access inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:27:48 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 22038,   Paragraph Label TEXT,   Input Line Number 29553.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added    904,  Dropped      0,    Total in DB  22542
+	    Words:  Added 219607,  Dropped      0,        Stopped  61893
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     6864,  Deleted        0
+	 Occurrences:  Added   219607,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:28:19 1999
+
+============================
+        benvenuto
+============================
+----------------------
+Setting language to LI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:28:19 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:28:19 1999
+----------
+Loading...
+----------
+cat desc comentum inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:28:19 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 23466,   Paragraph Label TEXT,   Input Line Number 53242.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   3714,  Dropped      0,    Total in DB  26256
+	    Words:  Added 695817,  Dropped      0,        Stopped  94566
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    30301,  Deleted        0
+	 Occurrences:  Added   695817,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:29:58 1999
+
+============================
+        buti
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:29:58 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:29:58 1999
+----------
+Loading...
+----------
+cat desc inf/pro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:29:58 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26493,   Paragraph Label TEXT,   Input Line Number 26178.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26570,   Paragraph Label TEXT,   Input Line Number 34580.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26617,   Paragraph Label TEXT,   Input Line Number 39210.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26625,   Paragraph Label TEXT,   Input Line Number 40092.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26640,   Paragraph Label TEXT,   Input Line Number 41847.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26651,   Paragraph Label TEXT,   Input Line Number 43007.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26652,   Paragraph Label TEXT,   Input Line Number 43081.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26662,   Paragraph Label TEXT,   Input Line Number 44125.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26667,   Paragraph Label TEXT,   Input Line Number 44552.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26680,   Paragraph Label TEXT,   Input Line Number 46000.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26789,   Paragraph Label TEXT,   Input Line Number 56501.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added    534,  Dropped      0,    Total in DB  26790
+	    Words:  Added 279072,  Dropped      0,        Stopped  79064
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     4498,  Deleted        0
+	 Occurrences:  Added   279072,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:30:39 1999
+
+============================
+        fiorentino
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:30:39 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 30427,   Paragraph Label TEXT,   Input Line Number 178152.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   3728,  Dropped      0,    Total in DB  30518
+	    Words:  Added 435128,  Dropped      0,        Stopped 118806
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    10076,  Deleted        0
+	 Occurrences:  Added   435128,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:31:53 1999
+
+============================
+        serravalle
+============================
+----------------------
+Setting language to LI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:31:53 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:31:53 1999
+----------
+Loading...
+----------
+cat desc inf/pream inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/pream purg/01
+purg/02 purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10
+purg/11 purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19
+purg/20 purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28
+purg/29 purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04
+para/05 para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13
+para/14 para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22
+para/23 para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31
+para/32 para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:31:53 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 33915,   Paragraph Label TEXT,   Input Line Number 181614.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   3534,  Dropped      0,    Total in DB  34052
+	    Words:  Added 475999,  Dropped      0,        Stopped  52698
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    15986,  Deleted        0
+	 Occurrences:  Added   475999,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:33:16 1999
+
+============================
+        guiniforto
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:33:17 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:33:17 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:33:17 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    745,  Dropped      0,    Total in DB  34797
+	    Words:  Added 170336,  Dropped      0,        Stopped  39990
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3470,  Deleted        0
+	 Occurrences:  Added   170336,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:33:52 1999
+
+============================
+        vellutello
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:33:52 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1462,  Dropped      0,    Total in DB  36259
+	    Words:  Added 185989,  Dropped      0,        Stopped  43027
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5095,  Deleted        0
+	 Occurrences:  Added   185989,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:34:37 1999
+
+============================
+        daniello
+============================
+----------
+Loading...
+----------
+cat desc inf/vita inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:34:37 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4129,  Dropped      0,    Total in DB  40388
+	    Words:  Added 329408,  Dropped      0,        Stopped  58379
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11129,  Deleted        0
+	 Occurrences:  Added   329408,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:36:08 1999
+
+============================
+        castelvetro
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:36:08 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1298,  Dropped      0,    Total in DB  41686
+	    Words:  Added 122456,  Dropped      0,        Stopped  28335
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3033,  Deleted        0
+	 Occurrences:  Added   122456,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:36:38 1999
+
+============================
+        venturi
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:36:38 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   5694,  Dropped      0,    Total in DB  47380
+	    Words:  Added 199196,  Dropped      0,        Stopped  34943
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    10442,  Deleted        0
+	 Occurrences:  Added   199196,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:37:37 1999
+
+============================
+        lombardi
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:37:37 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   7252,  Dropped      0,    Total in DB  54632
+	    Words:  Added 453496,  Dropped      0,        Stopped  94779
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    16031,  Deleted        0
+	 Occurrences:  Added   453496,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:39:24 1999
+
+============================
+        portirelli
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:39:25 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1889,  Dropped      0,    Total in DB  56521
+	    Words:  Added 226627,  Dropped      0,        Stopped  46622
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     4280,  Deleted        0
+	 Occurrences:  Added   226627,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:40:35 1999
+
+============================
+        costa
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:40:35 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   6175,  Dropped      0,    Total in DB  62696
+	    Words:  Added 189441,  Dropped      0,        Stopped  29507
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7428,  Deleted        0
+	 Occurrences:  Added   189441,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:41:29 1999
+
+============================
+        rossetti
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:41:29 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1062,  Dropped      0,    Total in DB  63758
+	    Words:  Added 174853,  Dropped      0,        Stopped  43170
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     4999,  Deleted        0
+	 Occurrences:  Added   174853,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:42:18 1999
+
+============================
+        tommaseo
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:42:18 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4620,  Dropped      0,    Total in DB  68378
+	    Words:  Added 359984,  Dropped      0,        Stopped  61627
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11501,  Deleted        0
+	 Occurrences:  Added   359984,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:43:54 1999
+
+============================
+        andreoli
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:43:54 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   7277,  Dropped      0,    Total in DB  75655
+	    Words:  Added 280136,  Dropped      0,        Stopped  47636
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     9797,  Deleted        0
+	 Occurrences:  Added   280136,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:45:29 1999
+
+============================
+        longfellow
+============================
+----------------------
+Setting language to EI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:45:29 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:45:29 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:45:29 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   2136,  Dropped      0,    Total in DB  77791
+	    Words:  Added 179017,  Dropped      0,        Stopped  52996
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    18936,  Deleted        0
+	 Occurrences:  Added   179017,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:46:01 1999
+
+============================
+        disiena
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:46:01 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:46:02 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:46:02 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   2218,  Dropped      0,    Total in DB  80009
+	    Words:  Added 355471,  Dropped      0,        Stopped  90335
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11063,  Deleted        0
+	 Occurrences:  Added   355471,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:47:31 1999
+
+============================
+        bianchi
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:47:31 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   7351,  Dropped      0,    Total in DB  87360
+	    Words:  Added 318375,  Dropped      0,        Stopped  60325
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     9138,  Deleted        0
+	 Occurrences:  Added   318375,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:49:00 1999
+
+============================
+        scartazzini
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:49:00 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 93064,   Paragraph Label TEXT,   Input Line Number 237277.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 94835,   Paragraph Label TEXT,   Input Line Number 323954.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95492,   Paragraph Label TEXT,   Input Line Number 358341.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95492,   Paragraph Label TEXT,   Input Line Number 358370.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95731,   Paragraph Label TEXT,   Input Line Number 370443.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95731,   Paragraph Label TEXT,   Input Line Number 370489.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95731,   Paragraph Label TEXT,   Input Line Number 370535.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 95813,   Paragraph Label TEXT,   Input Line Number 374921.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 96081,   Paragraph Label TEXT,   Input Line Number 388520.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 96081,   Paragraph Label TEXT,   Input Line Number 388559.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 96129,   Paragraph Label TEXT,   Input Line Number 390839.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 98158,   Paragraph Label TEXT,   Input Line Number 497783.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 98293,   Paragraph Label TEXT,   Input Line Number 505215.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added  11615,  Dropped      0,    Total in DB  98975
+	    Words:  Added 1161389,  Dropped      0,        Stopped 245426
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    28185,  Deleted        0
+	 Occurrences:  Added   1161389,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:52:25 1999
+
+============================
+        campi
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:52:25 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 100065,   Paragraph Label TEXT,   Input Line Number 67014.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 100066,   Paragraph Label TEXT,   Input Line Number 67082.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 100076,   Paragraph Label TEXT,   Input Line Number 67626.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 100077,   Paragraph Label TEXT,   Input Line Number 67707.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 100079,   Paragraph Label TEXT,   Input Line Number 67852.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   4782,  Dropped      0,    Total in DB 103757
+	    Words:  Added 1012301,  Dropped      0,        Stopped 265182
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    17063,  Deleted        0
+	 Occurrences:  Added   1012301,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:55:50 1999
+
+============================
+        berthier
+============================
+----------
+Loading...
+----------
+cat desc inf/intro inf/pro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06
+inf/07 inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16
+inf/17 inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26
+inf/27 inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 | brsload NDDP
+-add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:55:50 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 104334,   Paragraph Label TEXT,   Input Line Number 37487.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   1323,  Dropped      0,    Total in DB 105080
+	    Words:  Added 279885,  Dropped      0,        Stopped  68080
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5661,  Deleted        0
+	 Occurrences:  Added   279885,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 08:57:05 1999
+
+============================
+        poletto
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 08:57:05 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 108207,   Paragraph Label TEXT,   Input Line Number 226227.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   3710,  Dropped      0,    Total in DB 108790
+	    Words:  Added 1035764,  Dropped      0,        Stopped 264718
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    12809,  Deleted        0
+	 Occurrences:  Added   1035764,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:00:21 1999
+
+============================
+        oelsner
+============================
+----------------------
+Setting language to EI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:00:21 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:00:21 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:00:22 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1334,  Dropped      0,    Total in DB 110124
+	    Words:  Added  86800,  Dropped      0,        Stopped  16264
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7051,  Deleted        0
+	 Occurrences:  Added    86800,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:00:51 1999
+
+============================
+        tozer
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:00:52 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4629,  Dropped      0,    Total in DB 114753
+	    Words:  Added 269121,  Dropped      0,        Stopped  57713
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    12891,  Deleted        0
+	 Occurrences:  Added   269121,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:02:07 1999
+
+============================
+        ruskin
+============================
+----------
+Loading...
+----------
+cat desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/proem purg/01 purg/02 purg/03
+purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12
+purg/13 purg/14 purg/16 purg/17 purg/18 purg/19 purg/21 purg/22 purg/24
+purg/26 purg/27 purg/28 purg/29 purg/30 purg/31 purg/32 purg/33
+para/proem para/01 para/02 para/06 para/10 para/11 para/15 para/16
+para/18 para/19 para/20 para/21 para/28 para/30 para/31 | brsload NDDP
+-add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:02:07 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added    195,  Dropped      0,    Total in DB 114948
+	    Words:  Added  27129,  Dropped      0,        Stopped   6950
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added      964,  Deleted        0
+	 Occurrences:  Added    27129,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:02:23 1999
+
+============================
+        carroll
+============================
+----------
+Loading...
+----------
+cat desc inf/intro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/intro purg/01
+purg/02 purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10
+purg/11 purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19
+purg/20 purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28
+purg/29 purg/30 purg/31 purg/32 purg/33 para/intro para/01 para/02
+para/03 para/04 para/05 para/06 para/07 para/08 para/09 para/10 para/11
+para/12 para/13 para/14 para/15 para/16 para/17 para/18 para/19 para/20
+para/21 para/22 para/23 para/24 para/25 para/26 para/27 para/28 para/29
+para/30 para/31 para/32 para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:02:23 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1052,  Dropped      0,    Total in DB 116000
+	    Words:  Added 455520,  Dropped      0,        Stopped 144620
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     9307,  Deleted        0
+	 Occurrences:  Added   455520,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:03:47 1999
+
+============================
+        torraca
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:03:47 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:03:47 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:03:47 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   6231,  Dropped      0,    Total in DB 122231
+	    Words:  Added 519186,  Dropped      0,        Stopped 118011
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    10174,  Deleted        0
+	 Occurrences:  Added   519186,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:06:18 1999
+
+============================
+        grandgent
+============================
+----------------------
+Setting language to EI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:06:18 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:06:19 1999
+----------
+Loading...
+----------
+cat desc inf/intro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/intro purg/01
+purg/02 purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10
+purg/11 purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19
+purg/20 purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28
+purg/29 purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04
+para/05 para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13
+para/14 para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22
+para/23 para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31
+para/32 para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:06:19 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   5725,  Dropped      0,    Total in DB 127956
+	    Words:  Added 202088,  Dropped      0,        Stopped  34589
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8006,  Deleted        0
+	 Occurrences:  Added   202088,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:07:31 1999
+
+============================
+        mestica
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:07:32 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:07:32 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:07:32 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   3404,  Dropped      0,    Total in DB 131360
+	    Words:  Added 316745,  Dropped      0,        Stopped  76066
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5221,  Deleted        0
+	 Occurrences:  Added   316745,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:09:46 1999
+
+============================
+        casini
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:09:46 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 136158,   Paragraph Label TEXT,   Input Line Number 198693.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   9418,  Dropped      0,    Total in DB 140778
+	    Words:  Added 553637,  Dropped      0,        Stopped 116422
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    12259,  Deleted        0
+	 Occurrences:  Added   553637,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:12:49 1999
+
+============================
+        steiner
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:12:49 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   8604,  Dropped      0,    Total in DB 149382
+	    Words:  Added 461758,  Dropped      0,        Stopped  98925
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11116,  Deleted        0
+	 Occurrences:  Added   461758,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:15:50 1999
+
+============================
+        dellungo
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:15:51 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4191,  Dropped      0,    Total in DB 153573
+	    Words:  Added 258615,  Dropped      0,        Stopped  47472
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     6192,  Deleted        0
+	 Occurrences:  Added   258615,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:17:56 1999
+
+============================
+        vandelli
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:17:56 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4836,  Dropped      0,    Total in DB 158409
+	    Words:  Added 449276,  Dropped      0,        Stopped  96099
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7095,  Deleted        0
+	 Occurrences:  Added   449276,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:20:29 1999
+
+============================
+        grabher
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:20:29 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   3562,  Dropped      0,    Total in DB 161971
+	    Words:  Added 452675,  Dropped      0,        Stopped 111099
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5763,  Deleted        0
+	 Occurrences:  Added   452675,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:22:55 1999
+
+============================
+        trucchi
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:22:55 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   3318,  Dropped      0,    Total in DB 165289
+	    Words:  Added 571604,  Dropped      0,        Stopped 161508
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7742,  Deleted        0
+	 Occurrences:  Added   571604,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:25:38 1999
+
+============================
+        pietrobono
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:25:38 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   9778,  Dropped      0,    Total in DB 175067
+	    Words:  Added 549507,  Dropped      0,        Stopped 130764
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11671,  Deleted        0
+	 Occurrences:  Added   549507,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:28:29 1999
+
+============================
+        momigliano
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:28:30 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   6394,  Dropped      0,    Total in DB 181461
+	    Words:  Added 413588,  Dropped      0,        Stopped  99434
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8109,  Deleted        0
+	 Occurrences:  Added   413588,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:31:19 1999
+
+============================
+        porena
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/proem para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33 | brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:31:19 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   5003,  Dropped      0,    Total in DB 186464
+	    Words:  Added 403158,  Dropped      0,        Stopped  99427
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     6712,  Deleted        0
+	 Occurrences:  Added   403158,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:33:52 1999
+
+============================
+        sapegno
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:33:52 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   8351,  Dropped      0,    Total in DB 194815
+	    Words:  Added 495527,  Dropped      0,        Stopped 110902
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    10533,  Deleted        0
+	 Occurrences:  Added   495527,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:37:22 1999
+
+============================
+        mattalia
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:37:23 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+Maximum number of words for a sentence has been exceeded.
+   Document Number 201171,   Paragraph Label TEXT,   Input Line Number 277732.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 201173,   Paragraph Label TEXT,   Input Line Number 277940.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 201195,   Paragraph Label TEXT,   Input Line Number 279146.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added  10768,  Dropped      0,    Total in DB 205583
+	    Words:  Added 760242,  Dropped      0,        Stopped 193893
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    17652,  Deleted        0
+	 Occurrences:  Added   760242,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:41:39 1999
+
+============================
+        chimenz
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:41:39 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   4361,  Dropped      0,    Total in DB 209944
+	    Words:  Added 328713,  Dropped      0,        Stopped  65974
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5130,  Deleted        0
+	 Occurrences:  Added   328713,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:44:19 1999
+
+============================
+        fallani
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:44:20 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   6939,  Dropped      0,    Total in DB 216883
+	    Words:  Added 430454,  Dropped      0,        Stopped 104445
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8901,  Deleted        0
+	 Occurrences:  Added   430454,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:47:30 1999
+
+============================
+        padoan
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:47:30 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   1007,  Dropped      0,    Total in DB 217890
+	    Words:  Added  89052,  Dropped      0,        Stopped  20230
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     1797,  Deleted        0
+	 Occurrences:  Added    89052,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:48:37 1999
+
+============================
+        giacalone
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:48:37 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   5346,  Dropped      0,    Total in DB 223236
+	    Words:  Added 631528,  Dropped      0,        Stopped 178445
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8327,  Deleted        0
+	 Occurrences:  Added   631528,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:51:58 1999
+
+============================
+        singleton
+============================
+----------------------
+Setting language to EI
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:51:59 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:51:59 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:51:59 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   9248,  Dropped      0,    Total in DB 232484
+	    Words:  Added 643805,  Dropped      0,        Stopped 148705
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    15377,  Deleted        0
+	 Occurrences:  Added   643805,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:55:23 1999
+
+============================
+        bosco
+============================
+----------------------
+Setting language to IL
+----------------------
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:55:23 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+Information file has been reloaded.
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:55:23 1999
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:55:23 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   6515,  Dropped      0,    Total in DB 238999
+	    Words:  Added 857634,  Dropped      0,        Stopped 215008
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     9822,  Deleted        0
+	 Occurrences:  Added   857634,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 09:59:19 1999
+
+============================
+        pasquini
+============================
+----------
+Loading...
+----------
+cat desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33 |
+brsload NDDP -add
+Start of BRS Load Process for NDDP -- Tue Jul 20 09:59:19 1999
+
+
+            Copyright (c) 1997 by Dataware Technologies, Inc.
+                          All rights reserved.
+     Use by unauthorized persons is a violation of applicable laws.
+
+Revision 6.3  (001-04476-AXPOSF1-ABCX)
+
+Distributed by: Dataware Technologies, Inc.
+   Licensed To: Dartmouth College
+                Hanover, NH
+
+BRS Database Construction Kit
+
+	Documents:  Added   9344,  Dropped      0,    Total in DB 248343
+	    Words:  Added 359280,  Dropped      0,        Stopped  54528
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    10354,  Deleted        0
+	 Occurrences:  Added   359280,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jul 20 10:01:58 1999
+
+/people/dante/bin/LoadAll ended at Tue Jul 20 10:01:59 EDT 1999

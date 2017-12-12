@@ -1,0 +1,27 @@
+	|1.~  L'affecto libero al suo piacere quel contemplante uficio de 
+doctore prese et cominci@o a dire.
+
+	|22.~  Da questa parte.  unde 'l fiore @e maturo.  sono i profeti 
+iudeci del vechio testamento.
+
+	|25.~  Da l'altra parte.  unde sono spartiti sono li christiani et i 
+giuderi che credectaro en christo et viddero et divennaro christiani.
+
+	|118.~  Quei due.  pi@u felici per exere pi@u presso a la reina del 
+cielo sono de questa corte quasi due radici.  adam el primo homo radice 
+dei corpi umani.  et sancto pietro de la nostra fede ch'@e salute de le 
+nostre annime.
+
+	|127.~  E quel che vide.  de santa ghie[sa] tucte le presecuzioni 
+ch'ell'avare' @e giovanni vangelista.
+
+	|130.~  Sede lunghe[sso].  l'altro @e el batista.  quel duca @e moises.
+
+	|136.~  E 'ncontro.  al primo omo adan siede lucia.  che s'entende per 
+la pietosa fede che mand@o beatrice a secorre[re] dante come di le[i] 
+@e scritto quando dante ruinava et che vergilio el secorse.
+
+	|140.~  Qui farem punto.  come bu[o]no sartore a chui no @e remaso 
+tanto panno ch'io possa pi@u mettare uno punto.  se non laudare la 
+infinita trinit@a el p[ad]re el figlio et lo spiritu sancto et la sua 
+madre vergine gloriosa sopra tucte criature beata maria.

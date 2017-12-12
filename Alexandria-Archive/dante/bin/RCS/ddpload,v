@@ -1,0 +1,69 @@
+head     1.2;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.2
+date     89.03.07.16.49.20;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     88.01.29.15.26.59;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@First version of ddpload, to load Dante Project files onto BRS db.
+@
+
+
+1.2
+log
+@frosting
+@
+text
+@#! /bin/sh 
+#
+#	Load files of documents into the Dartmouth Dante Project database
+#
+#	Usage:	ddpload  file ...
+
+if [ $# -eq 0 ]
+then
+	echo "Usage:  ddpload  file ..."
+	exit 1
+fi
+
+BRSConfig=/usr/lib/brssearch3.0
+export BRSConfig
+LOG=/dante/doc/load.log
+echo "" >> $LOG
+echo -n "Load started from " `pwd` "on " >> $LOG
+date >> $LOG
+echo "Files to be loaded:" >> $LOG
+echo $@@ | fmt >> $LOG
+
+cat $@@ 2>> $LOG | brsload DANT -add -file - >> $LOG 
+
+set  `grep '^\.\.COMM' "$@@" | wc`
+IN=$1
+set `tail -15 $LOG | grep Documents`
+OUT=$3
+echo "documents loaded:" $OUT "of" $IN >> $LOG
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+#! /bin/sh
+d23 6
+@

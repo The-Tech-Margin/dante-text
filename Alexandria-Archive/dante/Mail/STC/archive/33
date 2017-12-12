@@ -1,0 +1,379 @@
+Return-Path: Fillia.S.Makedon@Dartmouth.EDU
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id PAA28000 for <steve@avalon.dartmouth.edu>; Tue, 15 Oct 1996 15:50:17 -0400
+Received: from cupid.Dartmouth.EDU (cupid.dartmouth.edu [129.170.208.8]) by dartvax.dartmouth.edu (8.7.6+DND/8.7.3) with SMTP id PAA10671; Tue, 15 Oct 1996 15:49:55 -0400 (EDT)
+Message-id: <24647491@cupid.Dartmouth.EDU>
+Date: 15 Oct 96 15:49:26 EDT
+From: Fillia.S.Makedon@Dartmouth.EDU (Fillia S. Makedon)
+Subject: dante proposal updated
+To: Walter.E.Stephens@Dartmouth.EDU (Walter E. Stephens),
+        bobh@phoenix.Princeton.EDU
+Cc: Charles.B.Owen@Dartmouth.EDU (Charles B. Owen),
+        makedon@cs.dartmouth.edu (Fillia S. Makedon),
+        Otmar.K.E.Foelsche@Dartmouth.EDU (Otmar K. E. Foelsche),
+        steve@avalon.dartmouth.edu (Stephen Campbell),
+        scot@cs.dartmouth.edu (Robert L. Drysdale),
+        Debra.Whiting@Dartmouth.EDU (Debra Whiting)
+
+
+Dear Robert, Walter, Otmar and Steve,
+
+Charles and I have made some updates to the proposal and I would appreciate it
+if you took a quick look at it. In particular, please look at the section
+entitled "Impact to students".  We need to list courses and specific ways that
+this site could be used by students and describe how it will improve their
+comprehension and learning.
+
+As I said before, I am leaving tonight for a conference and will be back
+Sunday.  I would like to have this information from you so that we can submit
+it. It would be helpful if the faculty in Dartmouth's French and Italian
+Literature department could write and include a brief enthusiastic letter of
+support.
+
+Thanks, 
+
+Fillia
+***********
+The "Teaching Dante" Website :
+CREATING A WWW TEACHING RESOURCE ON DANTE 
+
+Faculty :
+Fillia Makedon, Project Director
+Associate Professor of Computer Science
+The Dartmouth Experimental Visualization Laboratory
+makedon@dartmouth.edu
+  WWW:  http://devlab.dartmouth.edu/
+
+Walter Stephens, Principal Faculty Advisor of Project
+Professor of Italian Language and Literature
+
+in cooperation with:
+Faculty in the French and Italian Department
+
+Technical Webmaster:
+Charles Owen, Computer Science
+
+Dartmouth Resource Consultants:
+Baker Library Technical Staff
+Steven Campbell, Kiewit Center
+Otmar Foelsche, Language Resource Center
+Janet Stephens, Dante Project Expert
+
+External Domain Expert Consultant
+Robert Hollander, Professor
+Princeton University
+
+ABSTRACT
+We propose to create an interactive and highly usable World Wide Web resource
+for teaching undergraduates using the Dante Project materials.  The Dante
+Project is a collection of  text including and related to the Divine Comedy of
+Dante Alighieri.  It was a project funded by a large NEH grant with development
+taking place at Dartmouth College.  Over 70 commentaries are included in this
+collection as well as the original text of the entire Commedia.  The Dante
+Project is available at Dartmouth College as part of the Online Library system
+and on the Internet using a cumbersome telnet interface.  It is primarily a
+search facility, difficult to interact with, and without browsing facilities. 
+The Dante project  predates the development of the World Wide Web (WWW), a
+global mesh of iterconnected multimedia resources.  
+
+The goal of this proposal is to bring the Dante Project resources to the World
+Wide Web.  As computer scientists, we view the Dante collection as appropriate
+for applying tools we have developed because it contains a large amount of
+highly valuable materials which are: (a) already digitized,  (b) not currently
+on the web (not globally available), and  (c) in a form that is difficult to
+use, not interactive and not aesthetic. For example, we wanted to browse text
+around all locations where the word "purgatory" appears and it was not possible
+to do so with the current system.
+
+We propose to create an easy-to-use teaching resource that not only
+incorporates the existing digital information in a totally new format, but also
+extends it with additional capabilities. We will call the outcome the Teaching
+Dante Website using the DEVLAB's powerful new multimedia authoring system
+called ASML (Automatic Site Markup Language), an extension of HTML.  In this
+new form,  for example, students will be able to locate all the exact
+particular locations in a text where a word appears, relate these locations via
+a graphical (navigational map viewer), cut and paste information to create new
+web information, add annotations, incorporate information in other media such
+as images or audio clips or even video clips of someone lecturing on a
+particular part found in the text.  
+
+To obtain an idea of this user interface, one can look at our newly-created
+website on the Aegean [http://devlab.cs.dartmouth.edu/bronze/]. 
+
+WEBSITE ADVANTAGES OVER THE CURRENT FORMAT
+
+A WWW based presentation (i.e., website) of the Dante Project has many distinct
+advantages over the current system.  The web is a global document delivery
+system with transparent  support on all common personal computers including
+Macintosh, Windows, and Unix.  It is a user friendly environment which presents
+material in a highly formatted form with hyperlinking (=non-sequential
+referencing or linking) to related resources.  
+
+The existing Dante Project user interface is optimized for researchers, not for
+students nor as a teaching resource.  It presents  two interfaces, a
+proprietary interface for Dartmouth students and a terminal based interface for
+Internet users.  Each interface supports only the search of information and
+presents the information in text form.  No paths to related components can be
+followed, nor can the teacher assign new paths of exploration for each class. 
+There is no support for simple browsing of entire documents.  A new WWW based
+presentation of this material will be much more usable by casual users such as
+students desiring enhanced understanding of the text.
+
+The Dartmouth Experimental Visualization Laboratory (DEVLAB) has developed high
+performance tools (see section on ASML below) for searching and browsing
+content on the World Wide Web.  The material can be presented in a highly
+readable form with commentary directly associated with the text of the poem. 
+For example, a student will be able to click at a particular location in the
+poem, and a series of commentaries can appear by date or other type of request. 
+In addition to the translation of existing materials to the WWW, we propose to
+gather, capture and incorporate new materials to enhance the project.  For
+example, a way to give more dimensions to the material and bring them to life
+is to add audio and video from Dante researchers and teachers to the web site
+to put a human feel on the commentary.  Images of Dante library materials such
+as text pages and image collections will be researched and added to the
+collection.  The site can also include links to other existing Dante resources.   
+
+OTHER DANTE WEB SITES
+
+There are several Dante related projects already in existence on the World Wide
+Web.  None of these sites includes any substantial amount of scholarly
+information; they are either presentations of the text or focus on some related
+issue such as printed versions of the text.
+
+The largest of these, the IL Tweb Digital Dante Project at Columbia University,
+[http://ilweb.columbia.edu/projects/dante/], has presented the text of the
+Commedia in side-by-side Italian and English using the Longfellow translation
+(1867).  The site includes over 200 images by Botticelli, Dore, and others. 
+There is also a small amount of additional scholarly material including a few
+chapters of selected works from class notes.  It lists excerpts
+ from five books of commentary but these are typically only 2-3 chapters.  The
+site technically minimal, utilizing a  typewriter font for text alignment
+rather than more advanced HTML features.  It does have a basic search engine. 
+
+Other sites include  Renaissance Dante in Print (1472-1629) at the University
+of Notre Dame [http://www.nd.edu/~italnet/Dante/].  This site is presented in
+association with the Newberry Library and is focused on historical printed
+editions of the Divine Comedy.  It does include some informational pages about
+Dante.  
+
+Many Italian works including the La Divina Commedia and La Vita Nuova by Dante
+are available as Italian text only at the Centre for Advanced Studies,
+Research, and Development in Sardinia
+[http://www.crs4.it/HTML/Literature.html]. 
+
+DanteNet at Princeton [http://www.princeton.edu/~dante/] is the electronic home
+for the Dante Society of America.  This site simply provides an electronic
+bulletin board set up by Professor Hollander or a place to put new commentary
+material on-line. It is not a teaching resource per se but could easily be
+incorporated into one, provided one has the computer programs to automate and
+classify different types of information, such as the DEVLAB has.
+
+What exists on the web does not approach the depth of the Dartmouth Dante
+Project collection.  The site we propose to develop will have a depth of
+commentary and support of resources that is much greater than other sites.
+
+IMPACT ON STUDENTS AND COURSES
+
+Dante materials are used by a series of courses in French, Italian, Latin and
+English Literature classes.  We will start by working with Professor Walter
+Stephens who will guide us as to the most necessary features lacking from the
+current system, namely easy to use, portability on several types of machines,
+greater ability to communicate with scholars outside of Dartmouth, more
+powerful features for browsing, searching and cataloguing the commentaries
+through time, and the incorporation of visual materials and possibly audio.  
+
+COOPERATION WITH DOMAIN EXPERTS
+
+In order to succeed in our efforts, we will work together with domain experts
+from  the Dartmouth College French and Italian Literature department.  They
+will guide us as to what user interface will be best in order to make this
+website a valuable teaching resource at Dartmouth and elsewhere.  Domain
+experts assisting with this effort will include Professor Walter Stephens who
+will be our primary link to the rest of the department and who now teaches
+Dante in his class.  In addition, Professor Robert Hollander from Princeton
+University who was the PI of the Dante project, has agreed to work with us and
+said that it would be very valuable to put the existing information onto the
+web.  
+
+TECHNICAL TRACK RECORD 
+
+The DEVLAB has had extensive experience working with the humanities and in
+particular the development of websites.  We have worked extensively with the
+Foundation of the Hellenic World (FHW) which is creating the largest known
+museum multimedia resource center on the history of Hellenism (from 7,000 BC to
+present) that will exist-both physically and virtually--in a very large space
+in Athens, Greece, with on-line links to Hellenic resources around the world. 
+Fillia Makedon has worked as the senior scientific research scientist for this
+foundation advising them as to how to link digital information with exhibits,
+and on multimedia products.  While the goal of many current on-line exhibits
+might be to "virtually repatriate" historical documents and thus provide links
+across the world, access to web information within the FHW center's walls and
+vis-a-vis an artifact will provide additional "restoration" of the object, and
+links "across time".  The foundation plans to link Hellenic testimonies and
+collections to their temporal element of history (Chronos), to their place or
+origin (Topos) and to their current physical space (Horos).  By linking
+artifacts scattered around the world, it aims to bring history to life.  It is
+also exploring innovative ways of integrating established museological
+conventions to such a center and bring together a convergence between museums,
+libraries, laboratories, classrooms, and the entertainment world
+<http://www.fhw.gr>. 
+
+In addition, the DEVLAB has been involved in copyright issues involving images
+of ancient artifacts found in museums. Fillia Makedon is presenting an invited
+talk at the WEBNET'96 conference in San Fransisco (October 16-19).  DEVLAB
+researchers are also doing basic research in image analysis of video,
+compression, retrieval of multimedia data, digital video processing and
+annotation.  A recent project, jointly with the MIT Media Laboratory and Boston
+University, is to automate the analysis of American Sign Language as captured
+on video, locating the moving components of a facial gesture.  
+
+In this section, we simply outline some of the previous work we have done.  The
+record speaks for itself and so we simply list the URL addresses of our
+websites. 
+1.  	The Devlab website
+	http://devlab.dartmouth.edu/  
+ 
+2. 	On the Prehistoric Archeology of the Aegean
+	 http://devlab.dartmouth.edu/history/bronze_age/ 
+
+3.  	On the ASML  language
+	http://devlab.cs.dartmouth.edu/asml/
+
+	4. 	On Image Tcl: system for processing fast video data					
+http://devlab.dartmouth.edu/imagetcl/
+
+	5. 	Website on Ancient Olympic Games
+		http://devlab.dartmouth.edu/olympic/
+
+
+POWERFUL TOOLS:  AUTOMATIC SITE MARKUP LANGUAGE (ASML) 
+
+ASML is a new markup language for site level design of WWW sites.  Developed at
+the Dartmouth Experimental Visualization Laboratory (DEVLAB), ASML is a
+powerful tool for the design and development of complex sites like that
+proposed for the Dante Project.  ASML development has been supported by grants
+from the Dartmouth College Venture Fund and the Foundation for the Hellenic
+World.
+
+Traditional approaches to the creation of large and complex World Wide Web
+sites is hampered by the "page at a time" approach of many tools and the
+programming knowledge and custom software development required for automated
+solutions. Automatic  Site Markup Language (ASML) is a new markup language
+designed to automate the construction of World Wide Web (WWW, the Web) sites. 
+It is designed to centralize functionality in order to decrease duplication of
+effort and to supplant most uses of scripting languages in web site
+development.  It has already been utilized to construct a large historic site,
+The Prehistoric Archeology of the Aegean as well as many smaller projects at
+the Dartmouth Experimental Visualization Laboratory (DEVLAB), including the
+ASML pages themselves.
+PROPOSED WORK SPECIFICS
+1.  Jointly with faculty from the French and Italian Literature Department, we
+propose to create a "Teaching Dante" website based on the Dante Project
+materials with several extensions and appropriate for classroom instruction
+features.  This website will be also a global teaching resource suitable for
+use by:
+ 	(a) students
+	(b) scholars and faculty
+ 	(c) librarians 
+
+2. In addition to the end result, the teaching Dante website, this project will
+facilitate the use and extension of ASML, a Dartmouth system for authoring on
+the web that was developed at the DEVLAB with Venture funds during the summer
+and fall of 1996.   Using ASML, students and faculty will be able to author and
+incorporate new materials to the resource without needing to know much
+programming and without using Perl scripts.
+
+3.  The website will include the following additions:
+	a. more commentaries that are recent or links to them;
+	b. appropriately placed links to new websites that have been developed
+since the Dante 		Project began;
+	c. an easy to use tutorial on ASML authoring language;
+	d. images, graphics, audio and video clips, as deemed appropriate by
+the faculty of the 		French and Italian Literature department;
+	e. A textual open-ended database of images associated with the text;
+	f. An easthetic database;
+	g. Mechanisms to filter out information, to cluster related data,
+navigation procedures that 		are transparent to the user, and
+ability for teacher to monitor usage of the text in an 		easy to use
+way.
+4. Update the Dante Project information on sources and copyrights and make this
+information visible on the website to all.
+
+FUTURE WORK
+
+We plan to apply for a renewal of this grant application the following year.
+During the second year, we propose to extend this website with the following:
+1. additional audiovisual content
+2. links to copyright information and update
+3. a feature to define personalized paths of exploration by the teacher
+4. a virtual rolodex feature to allow students to exchange comments based on
+who viewed a particular part of a commentary.
+5.We will incorporate into the website some graphical navigational aids
+(graphical viewer) that will help the student cataloque comments in a personal
+file, trace his/her previous searches and communicate with the materials in a
+friendly way.
+6. We plan to work with domain experts to see how we might incorporate the use
+of audio clips or audio in general and possibly images of the commentators.
+
+PROJECT MANAGEMENT AND PERSONNEL
+
+Fillia Makedon, director of DEVLAB, will be the project director
+Walter Stephens will be the Dartmouth domain expert who will give us insight
+into the design of the user interface of the website for teaching purposes. 
+Charles Owen is a full time Ph.D. student who is the DEVLAB "webmaster" and
+main architect of ASML.
+Content and website coordinator: a 12 hours/per week person to collect,
+integrate and archive resources.  Part of his/her task will be to trace
+copyrights and to contact new sources of content, such as multimedia data
+gathering (images, audio, graphics, video)
+Four students:
+Two student programmers, one for the database of the multimedia data and
+another to incorporate this data into ASML code for the web.
+These students will also capture, scan, digitize and process additional
+multimedia information involving images, graphics, audio and video
+
+One student in Italian literature 
+	a. to trace and research other sources and update the current 	
+materials in the Dante Project.
+	b. to link to the Italian dictionary
+One student to program the development of an interactive glossary specific to
+the content and linked with the content.
+
+RESOURCE CONSULTANTS
+
+(1) Stephen Campbell has the technical expertise to help us identify the
+digital sources of the commentaries.
+(2) Otmar Foelsche, Director of the Language Resource Center, will assist us in
+supervising two students in linking the Dante Project materials to an Italian
+dictionary that exists in digital form.
+(3) Janet Stephens will assist us as an external consultant in identifying the
+location of some of the materials.
+(4) Additional assistance will be obtained from experts in the Baker Library.
+
+
+BUDGET
+
+Four students working 10 hours per week for 3 terms, as outlined above:
+	$7/hr x 10 hours/wk x 10 weeks/term x 3 terms = $2,100
+	$2,100 x 4 students = $8,400
+
+Content and Website Coordinator: Collect and update content, incorporate text
+into ASML, clear copyrights, maintain student hours, maintain project progress.
+	$8/hr x 12 hrs/wk x 4 wks/month x 12 months = $4,608 
+		subtotal: $13,008
+
+Disk space (large amount of memory is needed) to store the website information
+= $700
+Supplies, rental of audiovisual equipment, scanning materials and copying costs
+$250
+Copyright permission and communication costs $250
+Audiovisual supplies for capturing and collecting additional information (audio
+and video commentaries, feedback from students incorporated into the website)
+$250
+Consulting/travel fees (Professor Hollander) $400
+
+Total   $14,858
+
+Note: matching funds: the DEVLAB equipment dedicated to this project (scanners,
+computers, printeres, etc. estimated at $20,000.
+
+

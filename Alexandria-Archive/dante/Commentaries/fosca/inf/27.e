@@ -1,0 +1,852 @@
+	|1-6~. La fiamma di Ulisse, ormai raddrizzata e ^ferma~ (|queta~) 
+^perch$e non parlava~ (|per non dir~: proposizione causale composta da 
+"per" e infinito: cfr. ^Inf~. XVI.101 e, qui, v. 13) pi@u, se ne va, 
+con la |licenza~ (cfr. v. 21) di Virgilio. Ma l'attenzione dei due 
+viatori @e attratta da un ^indistinto mormorio~ (|confuso suon~) che 
+fuoriesce da un'altra fiamma (cfr. ^Inf~. XXVI, n. 85-90), la quale 
+racchiude l'anima di Guido da Montefeltro. Il poeta insiste sulla 
+difficolt@a con cui le parole riescono a farsi strada attraverso la 
+punta della fiamma (seguir@a pure, ai vv. 7-15, un paragone di 
+chiarimento; e cfr. poi i vv. 58-60); forse @e l'insistenza sul 
+^contrapasso~ (ricordiamo che il peccato qui punito concerne in 
+particolare l'uso scorretto della parola).
+
+	|7-12~. @E la prima parte della similitudine approntata per chiarire 
+il tipo di suono, ancora indistinto, prodotto dalle parole che cercano 
+di uscire dalla fiamma. L'ateniese Perillo aveva ^costruito~ 
+(|temperato~) per Falaride, tiranno di Agrigento, un bue di rame al cui 
+interno venivano rinchiusi i colpevoli di lesa maest@a; il bue poi 
+veniva arroventato e le urla del ^torturato~ (|afflitto~) si 
+trasformavano sembrando, all'esterno, veri e propri muggiti. Numerose 
+le possibili fonti dell'episodio: in particolare, il giudizio di 
+approvazione (|fu dritto~) sul fatto che fu proprio Perillo ad 
+esperimentare per primo l'efficienza dello strumento di tortura, 
+ricalca l'^Ars amatoria~ di Ovidio: "E fu giusto: infatti non c'@e 
+legge pi@u saggia di quella per cui l'artefice di morte muoia tramite 
+la sua stessa opera" (I.655-56). Ma cfr. ^Ecclus~. 27.26-29. "Accusator 
+in causa accusationis constituitur pars intendens ad poenam accusati. 
+Ad judicem autem pertinet ut inter eos justitiae aequalitatem 
+constituat. Justitiae autem aequalitas hoc requirit, ut nocumentum quod 
+quis alteri intentat, ipse patiatur, secundum illud ^Exod~. 21.24: 
+^Oculum pro oculo, dentem pro dente~. Et ideo justum est ut ille qui 
+per accusationem aliquem in periculum gravis poenae inducit, ipse etiam 
+similem poenam patiatur" (^ST~ II-II, q. 68, a. 4). Ad un primo livello 
+di analisi, la similitudine pone in collegamento le grida bovine della 
+vittima della creazione di Perillo con i lamenti inarticolati di Guido 
+da Montefeltro; ma, al di sotto della superficie, sussiste un'analogia 
+che, come nota R.H. Lansing, diviene chiara solo dopo che Guido ha 
+narrato la storia della propria vita. Infatti, "l'ironia suprema della 
+storia del bue siciliano sta nel fatto che fu proprio il suo artefice a 
+soffrirne per primo le torture" (^From Image to Idea~, Ravenna, Longo, 
+1977, p. 67); e |ci@o fu dritto~. Allo stesso modo, Guido, anch'egli 
+artefice (di stratagemmi), @e stato giustamente dannato per la sua 
+opera: sia Perillo che Guido, quindi, si sono rovinati per un'opera dal 
+cui compimento si aspettavano ricompensa o premio (addirittura eterno, 
+nel caso del conte di Montefeltro). Si tratta dunque di un tipo di 
+similitudine che non ha il semplice scopo di rendere bene edotto il 
+lettore delle sofferenze dei dannati, bens@i mira a chiarire identit@a 
+e personalit@a di un personaggio dell'oltretomba anticipando alcuni 
+eventi della narrazione.
+
+	|13-15~. Si conclude la comparazione: ^in un primo momento~ (|dal 
+principio~: lat. ^a principio~) le parole ^dolorose~ (|grame~) non 
+riescono a farsi strada, non trovando n$e un ^passaggio~ (|via~) n$e 
+un'^apertura~ (|forame~), perci@o si mutano nel linguaggio del fuoco 
+(|suo~), cio@e in un mormor@io, uno schioppett@io, un |confuso suon~ 
+(v. 6), insomma.
+
+	|16-18~. Finalmente le parole riescono a venir fuori: la punta della 
+fiamma riceve quella ^vibrazione~ (|guizzo~) che la lingua aveva 
+operato |in lor passaggio~, cio@e nel passaggio, nella pronuncia, delle 
+parole: ^come fosse la lingua che parlasse~ (^Inf~. XXVI.89). Stretto 
+dunque il nesso tra fiamma e lingua (peccaminosa).
+
+	|19-24~. ^O tu a cui~ (|cu'~) ^io rivolgo la parola~ (|drizzo la 
+voce~) ^e che parlavi ora~ (|mo~) ^lombardo, dicendo 'Adesso~ (|Istra~) 
+^vattene~ (|ten va~), ^non ti sollecito~ (|t'adizzo~) ^pi@u', malgrado 
+io~ (|perch'io~) ^sia giunto forse alquanto tardi~ (|tardo~), ^non ti 
+dispiaccia~ (|t'incresca~) ^fermarti~ (|restare~) ^a parlare con me~ 
+(|meco~); ^vedi che non dispiace~ (|incresce~) ^a me, eppure~ (|e~) 
+^ardo!~  --  L'anima che parla (Guido da Montefeltro) ha udito Virgilio 
+pronunciare la frase di commiato, nei confronti di Ulisse, in 
+|lombardo~, cio@e nel dialetto dell'Italia settentrionale (|istra~ @e 
+appunto voce usata in tale zona, oltre che nella Lucchesia, voce 
+corrispondente al toscano ^issa~, gi@a occorsa a ^Inf~. XXIII.7); non 
+possiamo dire se agli eroi greci Virgilio abbia parlato |lombardo~, 
+tuttavia @e certo che la patina dialettale della frase di Virgilio 
+contrasta col tono alto delle parole inizialmente rivolte ad Ulisse. Il 
+dannato, che |arde~ dal desiderio di avere notizie della sua terra, 
+teme che il suo interlocutore, da lui ritenuto un dannato da poco 
+arrivato (vv. 25-26, 61-66), non possa (o non voglia) trattenersi. Si 
+noti che Guido da Montefeltro resta sulla scena per 128 versi, pi@u di 
+ogni altro personaggio dell'^Inferno~: ovvia di conseguenza la sua 
+importanza (cfr. n. 123).
+
+	L'espressione dialettale proferita da Virgilio prova, a giudizio di G. 
+Mazzotta, che il poeta pone in discussione "la possibilit@a di livelli 
+di rappresentazione rigidamente formalizzati". La presenza di Ulisse 
+segna la distanza fra la grandezza epica ed il mondo provinciale di 
+Guido, tuttavia, nella prospettiva dell'aldil@a (l'unica giusta), i due 
+peccatori, tragicamente, non si distinguono. "In tal modo Dante 
+esemplifica ed al medesimo tempo abolisce la giustapposizione fra 
+l'epico ed il quotidiano", giacch$e, in un contesto cristiano, tenere 
+separati i vari stili narrativi ("la dottrina che ad ogni argomento 
+corrisponde un determinato livello stilistico") @e un'operazione 
+scorretta (^Dante, Poet of the Desert~, Princeton Univ. Press, 1979, 
+pp. 88-89). Secondo F. Chiappelli, il tono brusco della espressione di 
+congedo manifesta l'intenzione di Virgilio di tener lontano il 
+discepolo dal fascino della parola fraudolenta di Ulisse. "Virgilio 
+scaccia Ulisse con una durezza verbale che lascia attoniti. Vattene via 
+di qua, non mi servi pi@u a niente, gli dice, e non nella lingua dei 
+poeti, bens@i in villano dialetto. L'abrasione delle parole ^conte~ e 
+l'emergere color piombo della frase mantovana servono nel racconto a 
+liberare l'accolito dalla presa del possente interlocutore" ("Il colore 
+della menzogna nell'^Inferno~ dantesco": ^Letture classensi~, 1989, p. 
+123). In effetti, tale "presa" @e allettante, giacch$e il discorso di 
+Ulisse @e svolto in stile alto (il ^bello stilo~), anzi esso 
+costituisce il pi@u notevole esempio, nell'ambito della cantica, di 
+tale stile, che si differenzia da quello intermedio, "cristiano": cfr. 
+^Inf~. XXVI, n. 70-75. Lo stile alto pu@o essere incorporato in quello 
+"misto" cristiano, ma "a piccole dosi" ed a condizione che sia al 
+servizio della verit@a: la magniloquenza @e pericolosa proprio perch$e, 
+dietro la maschera delle belle parole, pu@o nascondere una intenzione 
+fraudolenta, quindi trasmettere un messaggio morale che allontana dalla 
+^diritta via~. La chiosa del Vellutello merita di essere riportata: 
+"... il Poeta finge che Virgilio per cattar benevolentia da loro, 
+acci@o che Ulisse satisfacesse a quello che Dante desiderava intender 
+da lui, fece la sua orazione nella loro materna lingua; inteso poi 
+quello che voleva da lui, poco importava, nel licenziarlo, in che 
+lingua si parlassi, non essendo necessario con quelli, che hanno usato 
+l'ingegno nel vizio, d'osservar tutt'i convenienti termini, come con 
+quelli, che l'hanno usato nella virt@u".
+
+	|25-30~. L'anima avvolta dal fuoco mostra di credere che il suo 
+interlocutore sia ^proprio ora~ (|pur mo~) |caduto~ nell'Inferno (il 
+|mondo cieco~, regno delle tenebre e del peccato, come gi@a altrove), 
+cui subito contrappone, manifestando il nucleo dei suoi interessi, la 
+|dolce terra~ natia, a causa della quale dice di essere stato dannato. 
+Quindi rivela che tale nucleo, cio@e l'amor di patria, riguarda la 
+terra ^italiana~ (|latina~) di Romagna, essendo egli nato nel 
+Montefeltro. Questa regione @e designata tramite la perifrasi |i 
+monti... diserra~ ("la regione montuosa fra Urbino e il ^monte~ 
+[|giogo~] da cui ^scaturisce~ [|si diserra~: cfr. ^Par~. XXIII.40] il 
+Tevere"); per alcuni il |giogo~ si riferisce all'intera catena 
+dell'Appennino emiliano. Il fatto di chiedere se l@a vi sia o meno pace 
+non @e casuale, perch$e il conte Guido I da Montefeltro, uno dei pi@u 
+importanti capi ghibellini, vicario di Corradino nel 1268, aveva pi@u 
+volte sconfitto le truppe guelfe. A capo di Forl@i, roccaforte degli 
+oppositori della politica temporale papale, aveva anche resistito a 
+lungo (1281-83) all'assedio delle truppe francesi e guelfe inviate da 
+papa Martino IV (vv. 43-44). Guido, la cui fama di politico astuto e 
+abile condottiero era ampiamente diffusa, fu due volte scomunicato e 
+due volte si riconcili@o con la Chiesa; infine entr@o nell'ordine 
+francescano e nel 1238 mor@i (forse) ad Assisi.
+
+	|31-33~. Dante @e rimasto nella posizione (sporto dal ponte) nella 
+quale ha ascoltato Ulisse. Virgilio lo tocca ^nel fianco~ (|di costa~) 
+e lo invita a rivolgere la parola a questo dannato, il quale @e 
+^italiano~ (|latino~: cfr. v. 27), ma @e anche un contemporaneo.  --  Il 
+verbo ^tentare~, nel senso di "toccare", @e gi@a occorso a ^Inf~. 
+XII.67.
+
+	|34~. |pronta~. La passione politica di Dante @e stimolata dalla 
+domanda di Guido. Si tenga presente che il poeta nutre affetto per la 
+Romagna, che lo vide spesso (soprattutto dopo la condanna all'esilio) 
+pellegrino.
+
+	|38~. |ne' cuor de' suoi tiranni~: "negli animi dei suoi signori".  --  I 
+signori della Romagna, nei cuori dei quali covano rivalit@a, invidie, 
+ecc., pensano sempre alla guerra. I |tiranni~, per l'Alighieri, sono 
+coloro che "non seguono il diritto pubblico per la comune utilit@a, ma 
+cercano di servirsene a proprio vantaggio" (^Mon~. III.iv.10). Il 
+termine "tiranno" aveva gi@a una sfumatura negativa in greco e latino, 
+che dal Trecento in poi si accentu@o: in effetti ai tempi di Dante @e 
+cos@i chiamato ogni signore della valle padana che, con mezzi pi@u o 
+meno leciti, esercita di fatto una dittatura (talora dinastica) sulla 
+citt@a da lui governata. Cfr. ^Inf~. XII.104; ^Purg~. VI.125.
+
+	|39~. Malgrado la guerra sia latente, attualmente, dice Dante a Guido 
+(i dannati non conoscono il presente: ^Inf~. X), non ce n'@e nessuna 
+^aperta~ (|palese~), in corso.
+
+	|40-42~. Ha inizio la descrizione delle condizioni politiche della 
+Romagna nel 1300, descrizione che il poeta compie servendosi anche dei 
+segni araldici delle famiglie (procedura analoga gi@a in ^Inf~. 
+XVII.59-73). Il primo di tali stemmi @e l'^aquila~ (|aguglia~) dei Da 
+Polenta, la famiglia che da |molt'anni~ (dal 1270) ^ha in suo potere~ 
+(|la si cova~ = "la tiene sotto di s$e") |Ravenna~, e con questa 
+|Cervia~ (ricco borgo sull'Adriatico). I |vanni~ "sono le penne delle 
+ali presso alle piume, ed estreme, che sono appellate coltelli" (Lana). 
+L'articolata descrizione @e parsa talora una digressione, e per di pi@u 
+troppo lunga, rispetto al tema basilare della messa a punto della 
+figura di Guido da Montefeltro. In realt@a, il quadro che ne emerge, 
+ossia quello di una terra squassata dalle lotte e dai rancori fra i 
+vari |tiranni~ locali, appare funzionale alla comprensione di Guido e 
+del suo comportamento: anch'egli @e infatti un "tiranno", coinvolto in 
+prima persona in questo mondo di violenza, ed @e soprattutto un uomo di 
+governo costretto, per sopravvivere e godere di un margine di 
+autonomia, a ricorrere ad ogni mezzo disponibile, in primo luogo a 
+quelle |coperte vie~ (v. 76) di cui sar@a considerato magistrale 
+conoscitore. Dante ci fornisce dunque il retroterra storico dell'agire 
+pubblico di Guido, pur senza intenzione giustificativa, essendo per lui 
+la facolt@a di scelta del singolo dote irriducibile; facolt@a della 
+quale Guido  --  come vedremo  --  fece cattivo uso. La descrizione di un 
+simile stato di anarchia, piuttosto, significa per Dante porre 
+l'accento sull'assenza del potere statale (imperiale), quindi sulla 
+deplorevole politica temporale che la Chiesa va conducendo impedendo 
+anche lo stabilirsi di un siffatto potere. La situazione della Romagna 
+@e triste  --  secondo l'Imolese  --  per quattro ragioni: "avaritia pastorum 
+ecclesiae", "pravitas tyrannorum", "fertilitas locorum" e "invidia" 
+(cfr. ^Purg~. XIV).
+
+	|43-45~. La perifrasi dei vv. 44-45 designa Forl@i, la citt@a che, 
+proprio al comando di Guido da Montefeltro, resistette all'^assedio~ 
+(|prova~) da parte delle truppe guelfe (italiane e francesi) inviate 
+dal papa Martino IV (che voleva spazzar via i Ghibellini di Romagna) ed 
+anzi, con abile strategia, fece strage di ^Francesi~ (|Franceschi~). 
+Gli ^artigli~ (|branche~) verdi sono gli artigli del leone verde 
+rampante (in campo oro) che @e lo stemma della famiglia degli 
+Ordelaffi, la quale nel 1300 domina su Forl@i. Non c'@e comunque 
+unanimit@a di parere, fra i primi commentatori, sulla fattura dello 
+stemma in questione.
+
+	|46-48~. I "mastini" sono i |tiranni~ di Rimini, Malatesta da 
+Verrucchio e suo figlio (|'l nuovo~) Malatestino, il primogenito 
+(ricordato in ^Inf~. XXVIII.85), essendo gli altri figli Paolo e 
+Gianciotto (rispettivamente cognato e marito di Francesca da Polenta, 
+la protagonista di ^Inf~. V). I "mastini" ^usano i denti come 
+succhielli~ (|fan d'i denti succhio~), ossia mordono e dilaniano gli 
+avversari politici, come fecero ai danni del capo ghibellino |Montagna~ 
+dei Parcitadi (cfr. ^Prov~. 30.14), che sub@i da loro un ^terribile 
+trattamento~ (|mal governo~: fu infatti ingannato, imprigionato ed 
+ucciso). Pare che in questo caso il poeta non faccia riferimento al 
+simbolo araldico, tuttavia un ramo laterale della famiglia aveva un 
+mastino nello stemma.
+
+	|49-51~. Tali |citt@a~ sono rispettivamente Faenza e Imola, governate 
+da Maghinardo Pagani da Susinana, nel cui stemma appariva un leone 
+azzurro in ^campo~ (|nido~) bianco (per l'Anonimo, il leone era bianco, 
+il campo azzurro). Egli, secondo Villani (^Cronica~ VII.149), agiva da 
+guelfo con Firenze e da ghibellino in Romagna (allora |la state~ 
+sarebbe la meridionale Toscana ed il |verno~ la settentrionale 
+Romagna); pu@o darsi che Dante alluda alla sua mutevole politica di 
+alleanze nei confronti delle altre citt@a romagnole. Maghinardo @e 
+detto ^demonio~ a ^Purg~. XIV.118.
+
+	|52-54~. La rassegna si conclude con Cesena, bagnata dal |Savio~ e 
+retta da Galasso da Montefeltro (cugino di Guido). Questi governava 
+formalmente col titolo di podest@a e capitano del popolo, ma di fatto 
+come signore, pur se non oppressivo (cfr. ^Conv~. IV.xi.14). Per questo 
+il poeta parla di una citt@a che, politicamente, costituisce una via di 
+mezzo fra |tirannia~ e ^governo libero~ (|stato franco~), cos@i come, 
+geograficamente, ^giace~ (|sie'~ = "siede") tra la ^pianura~ (|piano~) 
+e l'^Appennino~ (|monte~).
+
+	|55-57~. ^Ora ti prego che ci faccia sapere~ (|ne conte~) ^chi sei~ 
+(|se'~); ^non essere restio~ (|duro~) ^pi@u di quanto io~ (|ch'altri~) 
+^sia stato, ed il~ ^tuo nome possa resistere~ (|se...tegna fronte~) 
+^nel mondo~.  --  Dante prega il dannato di presentarsi, prima facendo 
+presente che egli stesso ha risposto esaurientemente alla domanda 
+rivoltagli, e poi, per guadagnarsi il suo favore, augurandogli (ancora 
+un uso del |se~ ottativo) che la sua fama duri molto sulla terra (cosa 
+a cui molti dannati tengono). Come sappiamo (^Inf~. VIII.30), 
+nell'ital. ant. |altri~ ("altrui") designa persona determinata: in 
+questo caso vale "io", ma alcuni critici intendono "altri dannati".
+
+	|58~. |rugghiato~: "ruggito", "mugolato".
+
+	|60~. |di@e cotal fiato~: "emise (|di@e~ = "diede") questo soffio che 
+si tramut@o in parole". Cfr. ^Metam~. IX.584. ^Inf~. XXVI.90: ^gitt@o 
+voce di fuori~.
+
+	|61-66~. Guido, non potendo vedere, crede che Dante sia un dannato 
+(quindi impossibilitato a tornare sulla terra), per cui parla 
+liberamente: evidentemente sa che, se il mondo conoscesse la verit@a su 
+di lui (morto da francescano, quasi in odore di santit@a), l'|infamia~ 
+sarebbe inevitabile. Il conte, non volendo che gli uomini conoscano la 
+sua colpa, avvenuta dopo la conversione, si mostra subito circospetto, 
+ragionatore: in effetti il suo ragionamento @e formalmente esatto, ma 
+la premessa su cui si basa ("nessuno entra in |questo fondo~, 
+nell'Inferno, e poi torna a vivere sulla terra") @e materialmente 
+erronea, e quindi porta ad una conclusione altrettanto erronea ("il mio 
+interlocutore rester@a qui e posso tranquillamente parlargli"). Il 
+pellegrino si guarda bene dal disingannarlo: egli tace dunque il vero, 
+analogamente a quanto far@a nei confronti di frate Alberigo, anch'egli 
+impossibilitato a vedere e convinto che Dante sia anima ^crudele~ 
+(^Inf~. XXXIII.110). Dunque Guido, ritenuto in vita abile ragionatore, 
+mostra di prestar fede ad un ragionamento che, per quanto formalmente 
+corretto, porta ad una conclusione erronea; lo stesso egli fece nel 
+momento decisivo della sua vita, per cui sembra proprio che il poeta 
+stia qui anche attaccando coloro che, sulla base di una concezione 
+autoreferenziale del linguaggio, tendono a scindere logica e realt@a, 
+enunciati e fatti: cfr. n. 123.  --  Nota due forme arcaiche: |credesse~ 
+(desinenza -^e~ per -^i~) e |staria~ (condizionale, d'uso soprattutto 
+poetico, per "starebbe"). Circa l'avverbio |mai~, esso vale nella 
+circostanza "una volta o l'altra" (lat. ^umquam~).
+
+	|67-72~. Guido inizia narrando della sua conversione e del suo 
+ingresso nell'ordine francescano (il termine |cordigliero~, un 
+francesismo, deriva dal "cordiglio" o cordone che cinge in vita appunto 
+i frati minori francescani), ingresso deciso nella speranza (una volta 
+|cinto~ del cordiglio, simbolo di virt@u e penitenza) di fare |ammenda~ 
+dei peccati; nel ^Convivio~ (IV.xxviii.8) Dante esalta la conversione, 
+mirabile azione di un uomo che, dopo una vita di "mondane operazioni", 
+decide di tornare a Dio (cfr. vv. 79-81). Alcuni studiosi spiegano tale 
+opinione col fatto che Dante non aveva ancora avuto notizia del ritorno 
+di Guido alla sua vecchia opera di consigliere di frodi; tuttavia sono 
+parecchie le idee del ^Convivio~ che non sono pi@u accettate nella 
+^Commedia~, anzi, si potrebbe forse dire, dato lo stretto rapporto fra 
+Guido da Montefeltro e Ulisse, che il poeta voglia alludere al proprio 
+mutamento di pensiero (cfr. ^Inf~. XXVI, n. 19-24). In secondo luogo, 
+Guido accusa papa Bonifacio VIII (|il gran prete~, con tono 
+dispregiativo), al quale, abbandonando il registro abbastanza elevato 
+fin qui tenuto, augura tanto male, con espressione volgare (degna di un 
+uomo ^~|d'arme~) e rivelativa di un enorme rancore personale. Qui 
+giunti, si pu@o dire che la conversione non pare esser stata tanto 
+convinta, dato che non ha impedito il ritorno al peccato; per@o, il 
+'peso' di un papa @e enorme! Vediamo dunque in che modo e per quale 
+motivo tale ritorno si @e verificato: |quare~ @e un termine tecnico del 
+lat. filosofico, il cui utilizzo mostra la volont@a di Guido di 
+argomentare il proprio agire, di esternarne cio@e la spiegazione (e la 
+giustificazione).
+
+	|73-75~. L'anima @e, secondo la filosofia scolastica, |forma~ del 
+corpo, ossia "principio informatore, vitale": quindi Guido dice che, 
+finch$e la sua anima fu unita al corpo (|ossa~ e |polpe~), cio@e 
+finch$e egli visse, comp@i imprese scaturite pi@u dall'astuzia (volpe) 
+che dal valore militare (leone). In effetti, Guido fu grande guerriero, 
+ma ebbe soprattutto fama di uomo molto astuto (ed @e per questo 
+condannato). "Vulpes est naturaliter dolosa" (^ST~ I, q. 63, a. 4). 
+Nell'anonima ^Cronica di Pisa~ si legge: "Quando il detto Conte Guido 
+usciva fuore di Pisa con la gente..., li Fiorentini fuggiano e diceano: 
+'ecco la Volpe'". La metafora della volpe e del leone @e in Cicerone 
+(^De officiis~ I.xiii.41); essa sar@a resa famosa da Machiavelli 
+(^Principe~ XVIII).
+
+	|76-78~. Guido vanta la conoscenza delle ^astuzie~ (|accorgimenti~) e 
+degli ^espedienti sotterranei~ (|coperte vie~) e la sua abilit@a 
+nell'utilizzarli (|arte~ = "tecnica"), abilit@a che gli consent@i di 
+godere di ^fama~ (|suono~) universale (@e una iperbole: comunque una 
+fama che varc@o i limiti della terra d'origine). Della fama del "buono 
+conte Guido da Montefeltro", che "vol@o per tutto il mondo", parla il 
+Compagni (^Cronica~ II.33); l'immagine @e di ascendenza biblica (^Ps~. 
+18.4). Tipica del toscano l'epitesi in -^e~ di |uscie~.
+
+	|79-84~. ^Quando mi resi conto di essere giunto~ (|mi vidi giunto~) 
+^in quella parte della mia vita~ (|etade~) ^in cui~ (|ove~) ^ogni uomo~ 
+(|ciascun~) ^dovrebbe ammainare~ (|calare~) ^le vele e raccogliere le 
+funi~ (|sarte~), ^allora ci@o che prima~ (|pria~) ^mi piaceva mi 
+ripugn@o~ (|m'increbbe~), ^e, dopo essermi pentito~ (|pentuto~) ^ed 
+avere confessato i miei peccati~ (|confesso~), ^mi feci frate~ (|mi 
+rendei~); ^ahi misero infelice~ (|lasso~)^!, e sarebbe giovato~.  --  
+Giunto alla vecchiaia, indicata con una perifrasi presente nel 
+^Convivio~, Guido si fa frate (|mi rendei~: il verbo ^rendersi~, usato 
+assolutamente, significava, come nel franc. ant. e nel provenzale, 
+"entrare in un ordine monastico": dal lat. mediev. ^se reddere~ 
+[^Deo~]); oppure, dato l'uso di ^Purg~. III.119 e ^Conv~. IV.xxviii.7, 
+si arrende, ritorna (a Dio). L'esclamazione del v. 84, al di l@a del 
+rammarico per l'occasione perduta, manifesta anche la volont@a di 
+presentarsi quale vittima della malvagit@a altrui (di Bonifacio VIII), 
+su cui appunto verter@a ora il discorso di Guido. Ecco il passo del 
+^Convivio~ di cui sopra: "la nobile anima ne l'ultima etade ... fa due 
+cose: l'una, ella ritorna a Dio, s@i come a quello porto onde ella si 
+partio quando venne ad intrare nel mare di questa vita; l'altra, 
+benedice lo cammino che ha fatto, per@o che @e stato diritto e buono, e 
+sanza amaritudine di tempesta. E qui @e da sapere che, s@i come dice 
+Tullio in quello ^De Senectute~ [XIX.70-71], la naturale morte @e quasi 
+a noi porto di lunga navigazione e riposo. Ed @e cos@i: ch$e, come lo 
+buono marinaio, come approprinqua al porto, cala le sue vele e 
+soavemente entra in quello, cos@i noi dovemo calare le vele de le 
+nostre mondane operazioni e tornare a Dio con tutto nostro intendimento 
+e cuore, s@i che a quello porto si vegna con tutta soavitade e con 
+tutta pace" (IV.xxviii.1-3; cfr. ^Inf~. XXVI, n. 112-117). Le |sarte~ 
+sono le "sartie", le corde che bloccano le funi alle antenne della nave.
+
+	|85-93~. Attraverso le parole di Guido il poeta attacca ancora papa 
+Bonifacio VIII, definito addirittura ^capo~ (|principe~) dei moderni| 
+Farisei~ (un'espressione forse diffusa presso i riformatori 
+francescani; cfr. anche ^Epist~. XI.1): accusa grave, giacch$e per 
+"fariseo" s'intendeva qualsiasi sacerdote che, come gli antichi Farisei 
+che fecero condannare Ges@u, fosse solo in apparenza religioso (cfr. 
+^Inf~. XXIII, n. 112-117). Il papa simoniaco (cfr. ^Inf~. XIX, n. 
+52-57) viene descritto, infatti, come privo di ogni interesse 
+religioso, tutto intento al potere terreno: @e infatti in guerra, ^a 
+Roma~ (|presso a Laterano~), contro la famiglia dei Colonna, e non 
+lotta contro nemici della cristianit@a quali Ebrei o Musulmani o falsi 
+Cristiani (quelli che, a fianco dei Saraceni, nel 1291 conquistarono S. 
+Giovanni d'Acri, ultimo baluardo cristiano in Palestina, o quelli che, 
+in barba all'espresso divieto della Chiesa, mercanteggiano nei paesi 
+maomettani). Bonifacio non ha rispetto n$e del proprio ruolo di 
+sacerdote (dotato degli ordini |sacri~) e di pontefice (|sommo officio~ 
+^=~ "altissima carica") n$e dell'ordine francescano (indicato dal 
+cordone o |capestro~: cfr. ^Par~. XI.87), il quale, del resto, @e 
+anch'esso corrotto e degenerato (invece i Francescani un tempo, quando 
+erano fedeli alla regola del fondatore, erano |macri~ per via della 
+rinuncia ai beni materiali). La frecciata contro la degenerazione degli 
+ordini monastici trover@a ampio sviluppo nel ^Paradiso~ (XI.118ss.; 
+XII.112ss.; XXII.76ss.). La precisazione sulle "guerre" condotte dal 
+pontefice @e tutt'altro che casuale o ridondante, giacch$e si tratta di 
+guerre "ingiuste", tali da rendere in ogni caso immorale il ricorso 
+all'inganno, di cui per l'appunto Bonifacio fece uso (dietro 
+suggerimento del Montefeltrano) ai danni dei Colonna (cfr. n. 100-102). 
+Di tutt'altro tenore, invece, la "guerra" che va conducendo l'autentico 
+pellegrino cristiano: egli pu@o anche mettere in atto ^insidiae~ che 
+tuttavia, a rigor di etica, non costituiscono ^fraudes~ (cfr. ^Inf~. 
+XXXIII, n. 115-117).
+
+	|94-99~. Narra Guido che Bonifacio VIII, malato di superbia, che 
+produce brama di potere, lo convoc@o e gli chiese |consiglio~ 
+(fraudolento); egli, per@o, non soddisfece, in un primo momento, la 
+richiesta delirante (da ubriaco) del papa. Il paragone con Costantino 
+(mosso per@o, a differenza di Bonifacio, da buone intenzioni) @e basato 
+sulla leggenda (citata in ^Mon~. III.x.1) secondo la quale l'imperatore 
+fu guarito (|guerir~ @e forma arcaica) dalla |lebbre~ (singolare, usato 
+assieme a ^lebbra~) da papa Sivestro, che si nascondeva per via delle 
+persecuzioni in una grotta del monte Soratte (oggi Sant'Oreste), nella 
+Sabina; e Costantino avrebbe ringraziato il papa con la celebre 
+Donazione (cfr. ^Inf~. XIX, n. 115-117). J. Petrie nota l'anomalia 
+dell'analogia: "Costantino fu effettivamente curato dalla lebbra, ma la 
+'cura' di Bonifacio nutrir@a in verit@a il suo orgoglio. L'osservazione 
+pu@o essere mero sarcasmo oppure pu@o rivelare una pecca nella 
+concezione morale di Guido: mentre l'analogia regge nel caso della 
+malattia, @e vero l'opposto nel caso della cura" (in ^California 
+Lectura Dantis. Inferno~, University of California Press, 1998, p. 
+363). L'appellativo di |maestro~ era allora conferito ai medici.
+
+	|100-102~. Questo @e il |consiglio~ richiesto dal papa: come 
+conquistare Palestrina, roccaforte dei Colonna ("insegnami come io 
+possa riuscire a sottometterli", @e la frase del papa che si legge 
+nella cronaca di Riccobaldo da Ferrara, indipendente da Dante). Contro 
+i Colonna, che non avevano giudicato valida l'elezione di Bonifacio 
+(della famiglia Caetani), questi scaten@o una vera e propria crociata, 
+scomunicandoli; i Colonna si trincerarono a Palestrina (|Penestrino~: 
+lat. ^castrum Praenestinum~) e per un anno e mezzo resistettero 
+all'assedio, finch$e Bonifacio mise in pratica il consiglio di Guido 
+(vv. 110-111), prese la citt@a e nel 1299 la rase al suolo (ad 
+eccezione della cattedrale). Bonifacio si rende conto delle resistenze 
+di Guido, che teme (^sospetto~ ha il senso di "paura" gi@a notato p. 
+es. in XXII.127) di ricadere nel peccato, per cui gli promette di 
+assolverlo ^fin da ora~ (|finor~: storicamente, egli aveva concesso 
+indulgenza a chiunque lo avesse appoggiato nella guerra contro i 
+Colonna). Ma il papa, per convincere il francescano, non si limita a 
+ci@o...
+
+	|103-105~. Il discorso si fa ora per Guido ulteriormente persuasivo: 
+Bonifacio, appellandosi al testo sacro (^Mt~. 16.19), ricorda al frate 
+(|come tu sai~) che il papa pu@o s@i aprire il Paradiso (con 
+l'assoluzione), ma anche chiuderlo (con la scomunica); in sostanza, una 
+minaccia, che Bonifacio per di pi@u aggiunge di esser pronto a mettere 
+in atto (i sostenitori dei Colonna erano infatti stati da lui 
+scomunicati), essendo egli disposto a fare pieno uso della propria 
+autorit@a, al contrario dell'|antecessor~ Celestino V, che abdic@o (ed 
+@e posto da Dante fra i cosiddetti "ignavi": ^Inf~. III.59-60). Siccome 
+era opinione diffusa che Celestino avesse compiuto il ^gran rifiuto~ 
+dietro sollecitazioni del Caetani, le parole di quest'ultimo si 
+rivelano veramente ciniche (Tommaseo parla di "ironia diabolica"). Ma 
+si badi che l'argomentazione del pontefice @e scorretta: si tratta di 
+un inganno compiuto a scapito di chi @e teologicamente sprovveduto, 
+giacch$e nel linguaggio evangelico "il regno dei cieli, del quale disse 
+Ges@u di dare a Pietro le chiavi, non significa il Paradiso, sibbene la 
+famiglia o societ@a dei fedeli, la Chiesa, l'ufficio apostolico di 
+quaggi@u" (P. G. Giovanozzi, cit. da Trucchi). Le due chiavi, inoltre, 
+fanno riferimento l'una al giudizio di idoneit@a di chi desidera 
+l'assoluzione e l'altra al conferimento dell'assoluzione stessa, ma il 
+sacerdote non pu@o serrare o disserrare a suo arbitrio, perch$e egli 
+agisce "sicut instrumentum et minister Dei. Nullum autem instrumentum 
+habet efficacem actum, nisi secundum quod movetur a principali 
+agente... In cujus signum, ^Mt~. 16.17, ante potestatem clavium Petro 
+traditam fit mentio de revelatione divinitatis ei facta; et ^Io~. 
+20.22, praemittitur potestati remissionis Apostolis datae Spiritus 
+Sancti donum, quo ^filii Dei aguntur~. Unde si quis praeter illum motum 
+divinum uti sua potestate praesumpserit, non consequeretur effectum...; 
+et praeter hoc a divino ordine averteretur, et sic culpam incurreret" 
+(^ST~ III ^Suppl~., q. 18, a. 4).
+
+	|106-107~. ^Allora i ragionamenti~ (|li argomenti~) ^autorevoli~ 
+(|gravi~) ^mi spinsero~ (|pinser~) ^al punto in cui~ (|l@a 've~ = 
+"laddove") ^il~ ^tacere mi parve~ (|fu avviso~) ^cosa peggiore~ ('|l 
+peggio~).  --  La decisione di mettersi contro il papa (|tacere~) @e per 
+Guido peggiore di quella di dare il consiglio; tanto pi@u che nel 
+secondo caso c'@e gi@a l'assoluzione! La tendenza al calcolo di Guido 
+rende l'espressione |li argomenti gravi~ ambigua: in effetti, pi@u che 
+di ragionamenti, il papa pare aver fatto uso di strumenti (cfr. ^Inf~. 
+XXXI.55), ossia "mezzi di pressione"; per@o Guido tende a dare una 
+veste di validit@a logica alla propria scelta, celandone quindi il 
+retroterra coercitivo. Vero @e che Guido, da frate francescano, @e 
+tenuto all'obbedienza nei confronti del pontefice, per@o S. Francesco, 
+nella ^Lettera ai fedeli cristiani~, ^~afferma anche: "Nessuno, se ha 
+voto di obbedienza verso qualcuno, deve ritenersi obbligato ad obbedire 
+anche nelle cose che sono immorali e delittuose". Secondo l'Alighieri, 
+quindi, Guido avrebbe dovuto ribellarsi a Bonifacio, tenendo conto in 
+primo luogo dei dettami della propria coscienza. Il conte di 
+Montefeltro non fa ci@o e, per di pi@u, pare considerare come 
+logicamente fondato il discorso 'assolutorio' del papa; e su di esso, 
+appunto, basa la decisione di dare il consiglio.
+
+	|108-111~. ^'Padre, dal momento che~ (|da che~) ^tu mi assolvi~ 
+(|lavi~) ^di quel peccato nel quale io~ (|ov'io~) ^ora~ (|mo~) ^debbo~ 
+^cadere, il promettere molto~ (|lunga promessa~) ^ed il~ (|con l'~) 
+^mantenere poco~ (|attender corto~) ^ti far@a trionfare nel trono 
+pontificio~ (|ne l'alto seggio~)'.  --  Prima di dare il tanto atteso 
+consiglio, Guido ribadisce di parlare solo perch$e si ritiene 
+garantito, in quanto assolto dal papa. Questi, dice quindi il conte, 
+sconfigger@a i suoi nemici (i Colonnesi) adoperando la tattica del 
+promettere molto e, poi, del non mantenere. Effettivamente, Bonifacio 
+VIII finse di riconciliarsi con gli avversari, revocando la scomunica e 
+promettendo loro la restituzione delle cariche che ricoprivano, ma poco 
+dopo distrusse Palestrina e ricominci@o a perseguitarli.
+
+	|112-114~. La scena muta di colpo: Guido @e morto, nulla di nuovo @e 
+intercorso (quindi, nessun pentimento successivo al peccato commesso) e 
+S. Francesco si presenta per ^~|portar~ (era frequente sottintendere il 
+complemento oggetto col verbo al modo imperativo) in Paradiso l'anima 
+di Guido, che @e un francescano. Ma si presenta un diavolo (|nero 
+cherubino~: i Cherubini sono il secondo dei nove cori angelici) a 
+rivendicare il proprio (buon) diritto ad impossessarsi dell'anima. La 
+scena del contrasto fra santo e diavolo @e ricorrente nelle leggende 
+popolari e nella letteratura del tempo (si pensi alle laude di Iacopone 
+da Todi); qui la capacit@a logica 'naturale' di cui il diavolo appare 
+fornito confuta, come vedremo, il ragionamento di Bonifacio e di Guido. 
+Strano @e, piuttosto, che anche S. Francesco abbia creduto a tale 
+ragionamento e che giochi la parte dello sconfitto, lui che pu@o vedere 
+tutta la verit@a in Dio e quindi anche lo stato di peccato in cui giace 
+Guido. Ma si legga il Serravalle: "Nota quod revelatum est cuidam 
+Fratri spirituali, in monte Alverne, a domino Iesu Christo, quomodo, 
+quando aliquis Frater Minor moritur, subito Sanctus Franciscus 
+permissione divina vadit obviam anime illius". Forse il poeta vuole 
+nell'occasione dimostrare la propria sfiducia nella funzione degli 
+ordini mendicanti, anch'essi corrotti, ed in genere della Chiesa 
+(contemporanea) nel suo ruolo di mediazione fra Dio ed il singolo: si 
+tenga presente che, in ^Purg.~ V, si legge che il figlio di Guido, 
+Buonconte da Montefeltro, @e stato strappato dall'angelo al demonio per 
+essersi pentito in punto di morte. Lo stesso viaggio infernale del 
+pellegrino lo condurr@a alla giustificazione sulla sola base della 
+contrizione, senza rito sacramentale penitenziale, senza l'intervento 
+del sacerdote confessore; @e del resto la penitenza-^virtus~ la 
+condizione ^sine qua non~ della giustificazione, cio@e dell'assoluzione 
+effettiva, quella che solo Dio pu@o conferire (^ST~ III, q. 85). Per 
+quanto riguarda i Cherubini, "dicendum quod sicut anime beatorum 
+assummuntur ad diversos ordines angelorum, ita anime dannatorum 
+trahuntur ad diversa supplicia demoniorum, ut cum illo ordine partem 
+habeant quem imitati fuerant in vita. Boni itaque et virtuosi sapientes 
+assumuntur ad ordinem cherubin, quorum scientie adheserunt. Mali vero 
+et malitiosi sapientes trahuntur ad illa cherubin quorum sapientia in 
+malitiam est mutata. Et ideo, quia iste comes fraudulentum consilium 
+dedit, a fraudulento demone dicitur esse captus. ^Bonus cherub~ 
+interpretatur 'plenitudo scientie'; ^malus~ vero ^cherub~ 'plenitudo 
+malitie'" (Guido da Pisa). La corrispondenza fra i due opposti ordini 
+pu@o dar forma  --  puntualizza Berthier  --  ad "una bella dottrina. Al 
+cielo dantesco corrisponde l'inferno dantesco; e sicome nel sommo cielo 
+regna il Dio Trino, ed a lui si avvicinano secondo il grado di 
+perfezione gli angeli dei nove ordini, e per i nove cieli, cos@i nel 
+fondo dell'inferno regna Satanasso, ed a lui si avvicinano secondo il 
+grado di malizia, e per i nove cerchi, gli angeli caduti dei nove 
+ordini, sendo cosa certa che gli angeli ribelli furono tanto pi@u 
+colpevoli quanto erano stati pi@u perfetti, donde poi stanno tanto pi@u 
+basso nell'inferno quanto pi@u alto erano stati nei cieli. E quindi 
+sicome i cherubini fedeli tengono l'ottavo grado nel cielo, cos@i 
+gl'infedeli tengono l'ottavo grado o cerchio, nell'inferno, dove siamo 
+proprio adesso. E quindi si spiega perch@e l'un de' Cherubini neri, e 
+non un altro spirito, and@o a cercare l'anima di Guido da Montefeltro".
+
+	|115~. |tra ' miei meschini~: "tra i miei servi" ^~(come a ^Inf~. 
+IX.43), i miei sudditi (i dannati, sottoposti ai diavoli).
+
+	|116-120~. Ecco in azione il diavolo ragionatore: in primo luogo, 
+precisa la colpa (^il~| consiglio frodolente~), la quale gli ha dato 
+pieno diritto di stare sempre ^addosso~ (|a' crini~ = "ai capelli") a 
+Guido; quindi smonta l'argomentazione svolta da Bonifacio e Guido, la 
+quale si basa sulla premessa per cui "chiunque @e assolto dal peccato 
+evita la dannazione": infatti  --  fa notare il diavolo  --  solo chi @e 
+pentito pu@o essere assolto, e Guido non si @e pentito (|pentere~ @e 
+forma corrente nell'ital. ant.); non @e ammissibile, in quanto 
+contraddittorio, pentirsi nell'atto stesso di peccare, dovendo essere 
+il pentimento successivo all'azione (in quanto concerne la volont@a che 
+ha prodotto l'azione). In conclusione, non essendo Guido un pentito, la 
+sua assoluzione non ha valore. In realt@a, anche questo ragionamento di 
+Guido, come quello precedente (vv. 61-66), @e, dal punto di vista della 
+forma, valido; solo che si basa sulla falsa premessa che dichiara Guido 
+assolto. Sullo sfondo della procedura del poeta v'@e il desiderio di 
+mostrare che la logica diviene pericolosa e dannosa se si esercita, pur 
+nel rispetto della validit@a formale, su affermazioni che non 
+corrispondono alla realt@a, cio@e sono materialmente false. @E l'errore 
+che per due volte ha compiuto la |volpe~ Guido, che quindi fa un 
+cattivo uso della capacit@a raziocinante 'naturale' dell'uomo (cfr. n. 
+123).
+
+	Il comportamento di Guido fa capire che la sua conversione non @e 
+stata sincera. Al momento decisivo, il frate si maschera dietro 
+l'autorit@a formale del pontefice: se il pentimento fosse stato 
+autentico, egli avrebbe dovuto rifiutare di collaborare con Bonifacio. 
+Ma Guido @e sicuro di superare ogni ostacolo con la propria 
+intelligenza: infatti ragiona sempre correttamente, ma non si preoccupa 
+di penetrare il velo della validit@a logica per controllare la 
+fondatezza reale delle sue affermazioni. Il poeta pone in rilievo come, 
+di fronte alla coscienza, l'autorit@a ufficiale passi in secondo piano; 
+egli, del resto, dichiara di parlare in nome di Dio, ed in base a tale 
+investitura svolge le sue invettive contro i finti cristiani, dal pi@u 
+umile frate al |gran prete~; ma, essendo Guido un francescano, basta 
+ricordare quanto scritto dal fondatore dell'ordine: "Se il superiore 
+dovesse comandare a colui che gli @e sottoposto qualcosa che va contro 
+la sua coscienza, allora @e lecito non ubbidire" (e cfr. n. 106-107). 
+Come chiosa Pietro Alighieri, il conte non doveva ubbidire al papa, la 
+cui proposta assolutoria era infondata e peccaminosa. Ed infine, 
+abbiamo fatto cenno al caso di Buonconte da Montefeltro; ricordiamo 
+solo che nel Purgatorio dantesco c'@e un'intera schiera di scomunicati 
+che, in fin di vita, si erano direttamente rivolti a Dio. Guido @e 
+dunque rimasto una |volpe~: ci@o @e deducibile dalla struttura stessa 
+del suo discorso. Come nota Markulin, si tratta di un discorso del 
+tutto retorico, nel senso stretto di "volto alla persuasione". Rispetto 
+al discorso di Ulisse, esso @e pi@u complesso ed involuto, trattando 
+gli argomenti in modo cauto ed indiretto: basti pensare all'invito |non 
+t'incresca restare a parlar meco~ (v. 23), che pare fatto apposta per 
+evitare qualsiasi connotazione di imposizione o comando. Il discorso di 
+Guido si svolge secondo tali modalit@a perch$e risponde ad una 
+strategia centrale: discolparsi e scaricare tutta la responsabilit@a su 
+Bonifacio VIII, colui che richiese il |consiglio frodolente~. Certo, 
+Guido @e posto all'Inferno da Dio, che @e ovviamente infallibile; egli 
+ha senz'altro peccato, ma ha peccato per colpa del papa, di cui @e 
+stato vittima innocente. Quindi egli vuol far credere che la sua 
+dannazione ha avuto luogo soltanto per quel |consiglio~ dato a 
+Bonifacio, sorvolando sulla circostanza che egli (al contrario del 
+figlio) non si @e mai pentito. Il richiamo al suo corpo perduto ed alla 
+madre (vv. 73-74) rientra appunto nella procedura retorica di attirare 
+su di s$e la compassione altrui, in modo da apparire come vittima delle 
+circostanze. Ma, naturalmente, l'Autore fa in modo che il lettore 
+comprenda la falsit@a di Guido: l'espressione che questi usa a 
+proposito della propria conversione (|giovato sarebbe~: v. 84) fa 
+capire come la conversione sia stata un calcolato tentativo di 
+guadagnare con l'inganno la salvezza, un tentativo di ingannare Dio. 
+"Una volta che comprendiamo che Guido non si @e mai pentito e non ha 
+mai rinunciato a percorrere le vie del male, vediamo che anche 
+nell'Inferno egli resta identico a s$e stesso, cio@e contorto, subdolo 
+e calcolatore. Una volta che giungiamo a comprendere che Guido @e 
+^ancora~ il maestro di inganno, allora possiamo vedere il suo discorso 
+per ci@o che veramente @e: non un resoconto accurato di ci@o che 
+accadde, bens@i un resoconto altamente interessato; non la verit@a, 
+bens@i una menzogna nella quale ogni singolo dettaglio @e assemblato 
+con cura allo scopo di discolpare Guido" (J. Markulin, "Dante's Guido 
+da Montefeltro: A Reconsideration": ^Dante Studies~, 1982, p. 32). 
+Questi @e dunque un mentitore fraudolento, come il suo precursore 
+classico Ulisse. F. Villani afferma che egli era conosciuto fra gli 
+Italiani come un "nuovo Ulisse", anche se pu@o anche darsi che tale 
+nesso fra Guido e l'eroe greco sia istituito dallo stesso Villani (cfr. 
+R. Hollander, ^Studies in Dante~, Ravenna, Longo, 1980, p. 142n.).
+
+	In quanto radicale mutamento di vita, perci@o, la conversione @e stata 
+esperienza ignota per Guido. Commenta G. B@arberi Squarotti: "Il fatto 
+@e che l'esempio infernale di Guido non @e quello del frodatore 
+ingannato, del consigliere di frodi che trova qualcuno pi@u di lui 
+abile e ne finisce tanto ingannato da rimetterci l'anima, e neppure si 
+tratta soltanto di dimostrazione dei limiti in s$e dell'astuzia 
+politica e del calcolo mondano. In realt@a, al centro dell'episodio di 
+Guido sta ancora una volta il contrasto fra la dimensione mondana della 
+vita dell'anima e quella ultraterrena. Nel mondo conoscere gli 
+accorgimenti e le coperte vie serve perfettamente a ottenere vittorie e 
+fama; e ugualmente vale a ottenere approvazione e consenso la 
+conversione con la dimostrazione esteriore di essa che @e l'ingresso 
+nell'ordine francescano". Allo stesso modo l'assoluzione preventiva, 
+per quanto invalida, "effettivamente serve a ottenere lo scopo, e nel 
+mondo, dove le opere di volpe hanno sempre successo e in pi@u 
+acquistano fama, ci@o che conta @e il successo" (^In nome di Beatrice e 
+altre voci~, Torino, Genesi, 1989, p. 113). Quello che il conte, 
+finch$e @e vivo, non capisce @e che, nella dimensione dell'aldil@a, il 
+successo mondano non ha alcun valore; egli finisce coll'accettare la 
+richiesta di Bonifacio in quanto "riconosce il linguaggio e il modo di 
+pensare che @e anche il suo, ora che il cordiglio che soleva essere 
+garanzia di salvezza e di umilt@a tale non @e pi@u, dal momento che @e 
+diventato un segno di pura ostentazione mondana, un abito formale, non 
+la dimostrazione esteriore del totale rinnovamento interiore. Guido, di 
+fronte all'argomentazione del nero cherubino, comprende la diversit@a 
+radicale fra ci@o che ha valore nel mondo e ci@o che conta nella 
+dimensione ultraterrena: la contraddizione fra pentimento e volont@a di 
+peccare @e insussistente e insignificante nel mondo, ma @e decisiva 
+nell'aldil@a. La sordit@a spirituale di Guido si dimostra proprio nel 
+non aver mai capito la necessit@a dell'autentica conversione interiore, 
+che @e altra cosa dal fatto di vestire l'abito francescano e, 
+soprattutto, @e proponimento di non pi@u peccare e di affidamento in 
+ogni caso alla misericordia di Dio" (Ivi, p. 114).
+
+	|121~. |mi riscossi~: "mi risvegliai" (^Inf~. IV.2) dalla (falsa) 
+certezza di essere salvo.
+
+	|123~. |ch'io lo,ico fossi~: "che io fossi un diavolo logico", anzi 
+maestro di logica. Il diavolo gode per avere sconfitto, sul suo stesso 
+terreno, un uomo ritenuto abile dialettico (alquanto malizioso sembra 
+il |forse~ del v. 122). Un diavolo, comunque, che, quanto ai mezzi di 
+cui si serve, si distingue dai suoi colleghi, puramente brutali, che si 
+fanno ingannare da Ciampolo di Navarra (canto XXII). Nella sua figura 
+"il poeta, desumendolo dalle tradizioni e leggende popolari, ha 
+fissato, in una scena immortale, uno degli aspetti sotto cui si 
+presentava alla timorosa immaginazione dei credenti, quello di sottile 
+e addottrinato ragionatore, abilissimo cos@i a insidiare le anime dei 
+vivi come a non lasciarsi sfuggire il minimo appiglio per acciuffarle 
+al momento della morte" (Chimenz). Nel ^Convivio~ si legge che "le 
+Intelligenze che sono in essilio de la superna patria", cio@e i 
+diavoli, "filosofare non possono, per@o che amore in loro @e del tutto 
+spento, e a filosofare @e necessario amore" (III.xiii.2). Berthier: 
+"Bench@e gli angeli conoscano senza discorrere ragionando, nondimeno 
+'syllogizare possunt tanquam syllogismum cognoscentes. Et in causis 
+effectus vident, et in effectibus causas: non tamen ita quod 
+cognitionem veritatis ignotae acquirant syllogizando ex causis in 
+causata, et ex causatis in causas' (^ST~ I, q. 58, a. 3)".
+
+	Un uomo ritenuto dialettico sottile pare dunque, in due occasioni, 
+prestare fede a ragionamenti che poi, in effetti, si dimostrano 
+erronei. Una prima volta Guido, sulla base della premessa "Chiunque @e 
+nell'Inferno non torna a vivere sulla terra" e della constatazione che 
+il suo interlocutore @e all'Inferno, conclude che questi non torner@a 
+sulla terra, per cui pensa di potergli parlare senza paura di perdere 
+la buona fama di cui gode presso i vivi. La seconda volta (decisiva), 
+egli parte dalla premessa "Chiunque @e assolto non si danna l'anima", 
+quindi, avuta l'assoluzione (e dal papa!), @e sicuro di essersi 
+salvato; sicurezza dolorosamente crollata dopo l'intervento del diavolo 
+|loico~. Ora, in ambedue i casi Guido sbaglia nel ragionare, ossia nel 
+pervenire alle conclusioni? No. Il problema sta nel fatto che egli si 
+serve di premesse che, essendo false, conducono a conclusioni false. 
+Nel primo caso, @e falsa l'affermazione "Chiunque @e nell'Inferno ..."; 
+nel secondo, la premessa generale @e vera, ma non lo @e quella 
+particolare ("Guido @e stato assolto"), dato che l'assoluzione 
+presuppone il pentimento: non essendoci stato questo, non c'@e neanche 
+assoluzione, come il diavolo dialettico fa notare (neanche Dio pu@o 
+assolvere chi non si pente: ^Mon~. III.viii.7). Allora, Guido @e un 
+'buon' logico oppure no? Secondo la logica moderna s@i, secondo Dante 
+no. Infatti, la logica moderna bada soltanto alla "forma" del 
+ragionamento, per cui considera le deduzioni di Guido esatte: "buono", 
+nel caso, vuol dire semplicemente "tecnicamente corretto". 
+Un'impostazione, questa, gi@a diffusa, al tempo di Dante, presso quei 
+filosofi che cercavano di separare la filosofia dalla teologia, la 
+ricerca scientifica dalla verit@a rivelata (cfr. ^Inf~. XXVI, n. 142). 
+Questo per Dante @e un grave errore, perch$e la ragione umana @e 
+limitata e deve trovare confini e sanzione proprio nella verit@a 
+rivelata: la correttezza tecnica, per lui, va sempre posta al servizio 
+della verit@a. Per quei filosofi, invece, la ricerca scientifica deve 
+liberamente espandersi; anche il ragionamento, e quindi il linguaggio 
+in cui esso si esprime, deve essere studiato indipendentemente dal 
+fatto che le singole parole possano servire a designare la realt@a. In 
+questo modo, il discorso logico non ha pi@u lo scopo prioritario di 
+rispecchiare la realt@a: quello che conta @e l'analisi del modo in cui, 
+da certe proposizioni (non importa se vere o false), si pu@o passare ad 
+altre, cio@e dedurle. Insomma, una cosa @e la correttezza logica (cio@e 
+la validit@a deduttiva), un'altra @e la verit@a di fatto 
+(corrispondenza fra proposizioni e realt@a). Dal punto di vista della 
+correttezza formale, logico-deduttiva, le premesse del ragionamento 
+possono anche essere 'materialmente' false: per l'Alighieri, al 
+contrario, il linguaggio deve sempre adeguarsi alla realt@a; @e un 
+grosso rischio far s@i che le parole perdano il contatto con le cose, 
+le quali sono pur sempre segno divino. Il nostro poeta si basa sulla 
+dottrina aristotelico-boeziana per cui, se @e vero che la ^vox~ designa 
+un concetto (^intellectus~), questo a sua volta designa una ^res~ 
+(sostanza o accidente), donde la corrispondenza, dal punto di vista 
+della portata semantica, tra espressione linguistica e mondo reale. 
+Guido da Montefeltro ha sbagliato nel momento in cui ha assunto delle 
+premesse, per i suoi ragionamenti, in modo infondato. Ed infatti, nel 
+primo caso, la premessa generale @e un'informazione che, secondo alcuni 
+critici, proviene dai suoi compagni di pena (|s'i' odo il vero~: v. 
+65), ma che ad ogni modo @e smentita dalla presenza del vivo Dante (che 
+Guido non pu@o vedere); nel secondo, la fiducia riposta nella 
+proposizione "sono assolto" proviene dall'autorit@a papale, che per@o 
+non garantisce affatto la verit@a. In definitiva, Dante ribadisce 
+quanto sia pericoloso  --  ^diabolico~  --  giocare con le parole, come @e 
+tipico dei consiglieri fraudolenti, i quali fanno distorto uso della 
+capacit@a argomentativa in quanto non la basano sulla verit@a, sulla 
+sapienza. Un gioco che porta Guido alla sconfitta totale: la dannazione 
+e l'|infamia~.
+
+	L'uso scorretto del linguaggio @e espressione di un abito mentale 
+perverso: non tener conto del correlato reale delle parole corrisponde 
+a non tener conto della condizione essenziale dell'assoluzione (che 
+spetta a Dio), cio@e la contrizione. La presunzione intellettuale di 
+Guido gli ha fatto credere di poter salvarsi senza pentirsi, ossia 
+senza umiliarsi, ammettere la propria corruzione morale: in tal modo la 
+sua vicenda si connette ancor pi@u strettamente a quella di Ulisse, il 
+cui viaggio  --  come notato in ^Inf~. XXVI, n. 139-142  --  pu@o essere 
+letto come simbolo del fallimento di ogni viaggio morale che pretende 
+di raggiungere Dio senza discendere all'umilt@a. A. Cornish ("The 
+Epistle of James in 'Inferno' 26: ^Traditio~, 1989-90, p. 376) ha messo 
+l'accento su un passo tomista (^ST~ II-II, q. 21, aa. 1-2) in cui si 
+afferma che @e prova di presunzione lo sperare di ottenere il perdono 
+divino perseverando nel peccato, senza compiere la penitenza. Si 
+comprende la tragica ironia insita nella decisione di cingersi del 
+^cordiglio~, simbolo di umilt@a: il pellegrino Dante, che sta 
+'discendendo' allo scopo di conquistare l'umilt@a necessaria per poter 
+'ascendere', potr@a cingersi (del giunco) solo dopo aver terminato il 
+viaggio penitenziale infernale, quel viaggio che, all'interno della 
+propria coscienza, Guido non intraprese mai. Tuttavia l'ironia si 
+estende, se riflettiamo sul fatto che i Francescani cercavano di dare 
+massimo rilievo al motivo del pentimento interiore (motivo ignorato da 
+Guido), dissentendo dai teologi che invece attribuivano importanza 
+soprattutto al rito penitenziale sacramentale, ossia alla istituzione 
+ecclesiastica, che risultava scavalcata dalla possibilit@a del rapporto 
+diretto e personale fra uomo e Dio che il pentimento 'privato' 
+consente. Altrettanto ironica @e la circostanza che un appartenente 
+all'ordine francescano (ordine che polemizzava contro la logica 
+formale) si perda perch$e applica rigorosamente tale logica formale; ma 
+egli non @e un autentico ^cordigliero~, come non @e per il poeta un 
+autentico logico. Un individuo che indossa indegnamente il saio ed usa 
+ingannevolmente le parole pu@o avere successo sulla terra, ma non di 
+fronte a Dio: sono prova di esclusiva e fraudolenta attenzione per 
+l'apparenza, per il cerimoniale, sia il formalismo della sua logica sia 
+il ^cordiglio~ sia la pretesa di salvarsi senza pentirsi. Non @e 
+casuale  --  rileva Mazzotta  --  che Guido sia sconfitto, come |loico~, da 
+un diavolo: egli, infatti, @e venuto meno ai principi francescani (le 
+lingue di fuoco sono una parodia del dono della profezia che discese 
+sugli Apostoli) ed @e reclamato da uno di quei logici ai quali i 
+Francescani (che si consideravano come i nuovi Apostoli, capaci di 
+riformare il mondo) si erano opposti. Cfr. al riguardo G. Mazzotta, 
+^Dante's Vision and the Circle of Knowledge~, Princeton Univ. Press, 
+1993, pp. 70-71.
+
+	|124-129~. Quando vide dinanzi a s$e Guido, Minosse fece un gesto 
+consueto (si avvolse con la coda per indicare l'ottavo cerchio), quindi 
+un altro forse insolito (si morse la coda, manifestando |rabbia~), ed 
+infine specific@o la bolgia (quella del fuoco ^~|furo~ [lat. ^fur~, 
+"ladro"] perch$e sottrae l'anima alla vista: cfr. ^Inf~. XXVI.41-42). 
+Circa il gesto insolito, Berthier rinvia a S. Tommaso: "Verius aestimo 
+quod sicut servabitur ordo in salvatis, quod quidam a quibusdam 
+illuminabuntur et perficientur, eo quod coelestis hierarchiae ordines 
+perpetui erunt; ita salvabitur ordo in poenis, ut homines per daemones 
+puniantur, ne totaliter ordo divinus quo angelos medios inter naturam 
+divinam et humanam constituit, annulletur. Et ideo sicut hominibus per 
+angelos divinae illuminationes deferuntur, ita etiam daemones sunt 
+executores divinae justitiae in malos. Nec in hoc aliquid minuetur de 
+daemonum poena, quia in hoc quod etiam alios torquent, ipsi 
+torquebuntur. Ibi enim miserorum societas miseriam non minuet, sed 
+augebit" (IV ^Sent~., d. 47, a. 2, q. 4; cfr. ^ST~ I, q. 109, a. 2). Il 
+verbo ^rancurarsi~ ("rammaricarsi", "dolersi", "tormentarsi") ricorre 
+nella lirica cortese.
+
+	|130-132~. Terminato il ^discorso~ (|dir~), la fiamma si allontana 
+dimenando ed ^agitando~ (|dibattendo~) ^la punta aguzza~ (|'l corno 
+aguto~). Essa sembra dire: "quid valent nostra ingenia? quid cautelae? 
+melior et utilior erat bona simplicitas" (Benvenuto). Anche in questo 
+caso Guido da Pisa indaga sul rapporto tra colpa specifica (in questo 
+caso "dolosa ingenia et fraudolenta consilia") e vizi-radice 
+(insistiamo sul tema perch$e la distinzione fra i peccati specifici e i 
+sette vizi capitali @e alla base della struttura dell'aldil@a dantesco, 
+in cui quella particolare forma di ^satisfactio operis~ che va eseguita 
+dalle anime purganti concide con l'espiazione dei vizi capitali), 
+giungendo alla seguente conclusione: se il peccatore ricorre a tali 
+inganni "ut humanum captaret honorem", allora il peccato-radice @e la 
+superbia; se lo fa "ut honorem vel statum obnubilet aliorum", allora il 
+vizio in questione @e l'invidia; se lo fa "ut vindictam capiat de 
+inimicis", allora @e mosso dall'ira; se infine il suo obiettivo @e 
+"emolumentum aliquod temporale", allora il vizio capitale che lo 
+caratterizza @e l'avarizia. E questo  --  continua Guido da Pisa  --  @e 
+anche il caso del montefeltrano, "qui dedit versipelle consilium ipsi 
+Pape ut ipse dominus Papa civitates et castra que ipse dominus Guido 
+comes usurpaverat, suo filio condonaret".
+
+	|133-136~. Andato via Guido da Montefeltro, i due poeti si rimettono 
+in cammino e giungono sul ^ponte~ (|arco~) che scavalca la nona 
+^bolgia~ (|fosso~), nella quale soffrono (come ha mostrato A. 
+Castellani [^Saggi di linguistica e filologia italiana e romanza~, 
+Roma, Salerno, 1980, II, pp. 27-40], |fio~ significa "salario", quindi 
+^pagare il fio~ equivale a "pagare il giusto salario", cio@e la "giusta 
+pena") coloro che ^si caricano di colpa~ (|acquistan carco~) 
+|scommettendo~, cio@e dividendo quello che deve restare unito 
+(^scommettere~ @e il contrario di ^commettere~, "congiungere", "mettere 
+insieme"): si tratta dei ^seminator di scandalo e di scisma~ (^Inf~. 
+XXVIII.35), o, in breve, "di discordie".
+
+

@@ -1,0 +1,182 @@
+{SETUP}
+
+;
+;	Performs initial setup and applies defaults to normally
+;	profiled variables
+;
+
+:COMPARE #ZD
+     TO ""
+	;
+	; #ZD is the default display option when displaying
+	; documents.  It's value may be one of B,F,H,E.
+	;
+	:SET #ZD ~F~
+:DONE
+
+:COMPARE #ZE
+     TO ""
+	;
+	; #ZE is a flag representing whether the automatic expansion
+	; features should be invoked or not (when a term causes a
+	; zero document result).  It's value should be ~Yes~ or ~No~
+	;
+	:SET #ZE ~Yes~
+:DONE
+
+:COMPARE #ZF
+     TO ""
+	;
+	; #ZF is the default option after a successful search
+	; has been performed.  It's value may be S or D.
+	;
+	:SET #ZF ~D~
+:DONE
+
+:COMPARE #ZH
+     TO ""
+	;
+	; #ZH is the flag controlling whether or not highlighting
+	; is available on queued prints.  It's value is either
+	; "Yes" or "No"
+	;
+	:SET #ZH ~No~
+:DONE
+
+:COMPARE #ZI
+     TO ""
+	;
+	; #ZI is the number of reference entries given for
+	; the index feature.  It's value may range from 5 to 15.
+	;
+	:SET #ZI ~12~
+:DONE
+
+:COMPARE #ZM
+     TO ""
+	;
+	; #ZM is the maximum number of current queries displayed
+	; on the main searching screen.  It may be a value from
+	; 5 to 15.
+	;
+	:SET #ZM ~8~
+:DONE
+
+:COMPARE #ZL
+     TO ""
+	;
+	; #ZL is a flag representing what type of labels are to be
+	; used when printing.  It's value is either ~Short~ or ~Long~
+	;
+	:SET #ZL ~Short~
+:DONE
+
+:COMPARE #ZP
+     TO ""
+	;
+	; #ZP is a flag representing whether zero document results
+	; should be not purged (displayed on the current queries list)
+	; or NOT purged (removed from the current queries list).  It's
+	; value is ~Yes~ or ~No~
+	;
+	:SET #ZP ~Yes~
+:DONE
+
+:COMPARE #ZQ
+     TO ""
+	;
+	; #ZQ is the mask to use when displaying queries
+	;
+	:SET #ZQ ~%Q`_:` %T49 %D` document(s)`~
+:DONE
+
+:COMPARE #ZS
+     TO ""
+	;
+	; #ZS is a flag representing what type of labels are to be
+	; used when printing sub-paragraphs.  It's value is either
+	; ~Yes~ (for NUMBERS) or ~No~ (for SHORT)
+	;
+	:SET #ZS ~Yes~
+:DONE
+
+:COMPARE #ZV
+     TO ""
+	;
+	; #ZV is the number of reference entries given for
+	; the automatic expansion feature.  It's value may range
+	; from 5 to 15.
+	;
+	:SET #ZV ~4~
+:DONE
+
+;
+; Force setting of some switches
+;
+
+:SEND ~X2-~			; for int off
+:SHOW BEFORE "*"
+
+:SEND ~X16+~			; docnums on
+:SHOW BEFORE "*"
+
+:SEND ~X32-~			; alldocs off
+:SHOW BEFORE "*"
+
+:COMPARE #ZL			; long or short labels
+     TO "Long"
+	:SEND ~XG,8~
+     TO "Short"
+	:SEND ~XG,4~
+:DONE
+:SHOW BEFORE "*"
+
+:COMPARE #ZS			; pnums on or off
+     TO "Yes"
+	:SEND ~XG,128~
+     TO "No"
+	:SEND ~XG,64~
+:DONE
+:SHOW BEFORE "*"
+
+;
+; Below, the variables which are profiled into the search system are
+; extracted and placed in local variables
+;
+
+:SEND ~XT~				; trunc limit
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING #O2
+
+:SEND ~XO~				; opdefault
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING #O3
+
+:SEND ~XN~				; near level
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING #O4
+
+:SEND ~XA~				; adj level
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING #O5
+
+:SEND ~X1~				; detail
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @TMP
+:PARSE #LEFTOVER EXTRACTING @TMP
+:COMPARE #LEFTOVER
+     TO "+*"
+	:SET #O6 ~Yes~
+     TO "-*"
+	:SET #O6 ~No~
+:DONE
+
+:RETURN

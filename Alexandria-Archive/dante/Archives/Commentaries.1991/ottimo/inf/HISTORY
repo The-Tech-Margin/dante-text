@@ -1,0 +1,9 @@
+Fri Dec 9 19:05:38 EST 1988 all .k files deleted by jma
+Tue Feb 7 20:32:05 EST 1989 corrected file xfer error ":0:]" meaning
+	"!" (exclamation point) in files 07, 29 and 30.
+Mon Feb 20 09:34:56 EST 1989 preloaded inf jvs
+Sun Mar 19 09:32:21 EST 1989 ran checknew on all .e files, corrected inconsistencies jvs
+Sun Mar 19 09:32:57 EST 1989 WHAT IS FILE 35.s jvs
+Wed Apr 19 20:13:56 EDT 1989 jvs deleted obsolete .s files
+Wed Dec 20 09:00:32 EST 1989 jvs fixed and preloaded all files with errors
+Wed Dec 20 09:00:39 EST 1989 JVS READY FOR LOADING

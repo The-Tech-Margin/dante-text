@@ -1,0 +1,60 @@
+	|10.~  ^Dal voi~.  qui dimanda dante l'antico suo.  ditemi dal d@i che 
+roma lass@o de dire l'uno romano a l'altro ^voi~ al d@i che tucti mo' 
+se dicono ^tu~ a onni giente.  beatrice alora cominci@o a sorridere et 
+fece dice dante come quella che toss@io al primo fallo de la reina 
+ginevra.  Quella che toss@io al primo fallo de ginevra fu la donna di 
+monalto la quale stando a vedere e lancilocto era col la reina toss@io 
+perch@e la reina sapesse ch'ella l'av@ia veduta.  et fece segnio che 
+non temesse per avere poi la reina el lei magiure confidenza.  cos@i 
+per similitudine fece beatrice a dante per darli ardire de respondare 
+et di dimanda[re] l'antico suo misere cacciaguida.
+
+	|10.~  Dal voi.  infine che roma se resse a popolo tucti onoravano 
+l'uno l'altro consoli sanatori dictatori mae[s]tri tribuni dicen[do] 
+l'uno a l'altro ^voi~.  ^noi~ el lo dimandare e 'l lo respond[e]re.  
+poi mutato modo al tempo de julio cesare che tucto l'unore s'@e dato a 
+lui.  cio@e a uno.  tu cesare signiore.  tu ciese[re] degnio.  tu 
+cesare onorato.  et quindi nacque de dire ^voi~ al ^tu~.
+
+	|46.~  ^Tucti coloro~.  qui dice misere cacia l'antichita de' 
+firentini al suo tempo de li originali et de li aventicci et dei 
+virtuosi et dei vitiosi et dei desfati casati et dei facti de nuovo.  
+racontando per nome et per segnio de l'armi ch'essi portaro ancora i 
+non desfacti da la fortuna come nel tessto apertamente si contene.  etc.
+
+	|58.~  Se la giente.  ci@o sono i romani et chi dice dei preti.  non 
+fosse questa giente c'al mondo pi@u tralignia non fosse stata a cesare 
+noverca.  matrignia.  ma come madre (^om.~).
+
+	|109.~  O qual io vidi.  costo[ro] furono chiamati lamberti el pi@u 
+antico casato et magiure di firenza.  li quali sonno stati s@i 
+destructi che non se trova chi de quella schiacta sia.
+
+	|127.~  Ciascuno.  questo grande barone se dice per alchuni fo el re 
+Karlo de puglia che sconfisse lo re manfredi prima [^ma veram.~ primo] 
+re de lui.  sconfisse corradino et feceli tagliare la tessta et mandoe 
+tommaso d'aquino al cielo pi@u tosto ch'ei no' i sar@ia vito.
+
+	|136.~  La casa.  questi fuoro li uberti la maggiure famosa casa vel 
+schiata de firenze et la pi@u onorata.  per lo giusto desdegnio.  el 
+desdegnio de questa casa uberti nacque quinci.  avendo uno giovano de 
+la casa dei buon dal monti promessa de torre una fanciulla de li uberti 
+el d@i che lli dev@ia dare l'anello et che l'amist@a era raunata da 
+l'una parte et da l'altra questo giovano passan[d]o da casa dei donati 
+una giovane dei donati ch'elli av@ia lungo tempo per amore amata fu 
+preso da la madre de la giova[ne] et fece tanto che 'l giovano a lora a 
+lora diede l'anello a la figliuola.  per la quale cosa sdegniati 
+l'uberti asi[e]mi consiglia[ro] et col li lamberti consigliaro che 
+fosse da fare.  chi di' una cosa chi un'altra.  ma uno cavalieri de' 
+lamberti mise[r] moscha chiamato consiglio et di' cosa facta cap'@a.  
+i' dico ch'ei sia morto.  et co[s@i] fu morto quello giovano dei buon 
+dal monti onde a la fine li uberti et i lamberti ne sono stati cacciati 
+de firenz' e destructi.  et per@o dice per lo giusto desdegnio che v'@a 
+morti tanti da l'una parte et da l'altra ne sono stati morti.  et anco 
+no @e pace.
+
+	|145.~  Ma conveniessi.  la pietra sciema ch'era posta el lo capo 
+d'uno ponte d'arno in fiorenza era una testa entagliata en figura de 
+marte.  et marte @e dio delle bataglie.  conven[n]e che cos@i fosse 
+per[ch@e] fiorenza sempre stesse poi en guerre et divisione.
+

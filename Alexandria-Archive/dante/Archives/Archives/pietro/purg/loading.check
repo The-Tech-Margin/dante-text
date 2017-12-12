@@ -1,0 +1,460 @@
+Checking file 01.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Per correr miglior acqua alza le vele>.  In
+>>> hoc Capitulo auctor, praemisso primo exordio et invocatione
+
+Warning: Single line indent at line 16
+>>>     ^Parnassusque jugo misit desertus utroque~,
+
+Warning: Single line indent at line 22
+>>>     ^Vos, o Calliope, precor, adspirate canenti.~
+
+Warning: Single line indent at line 29
+>>>     ^Pierus has genuit Pellaeis dives in arvis,~
+
+Error at line 103: Spaces/Tabs used in paragraph
+>>>     ^Non idem Eoi colora etheris, albaque nondum~
+>>>     ^Lux rubet, et flammas propioribus eripit astris.~
+>>>     ^Et jam Pleias habet, flexi jam plaustra Bootae...~
+>>>     ^Majoresque latent stellae, calidumque refugit~
+>>>     ^Lucifer ipse diem~ etc.
+Error at line 150: Spaces/Tabs used in paragraph
+>>>     ^Voce reple: durae saltem virtutis amator~
+>>>     ^Quaere quid est virtus, et posce exemplar honesti.~
+Error at line 187: Spaces used at head of paragraph
+>>> 	|75.~  Dicendo quod vestis, idest corpus ipsius Catonis
+>>> tamquam honestissimi et virtuosissimi, et sic cujuslibet sibi
+
+Checking file 02.e
+Error at line 3: Spaces used at head of paragraph
+>>>   	|Proemio.~  <Gi@a era il sole all'orrizzonte giunto>.  In
+>>> hoc Capitulo auctor, praemisso exordio, tractat de qualitate
+
+Error at line 49: First indent not five spaces
+>>>   ^Qua colitur Ganges, toto qui solus in orbe~
+
+Error at line 65: Spaces/Tabs used in paragraph
+>>>   ^Ora rubor: rursusque evanuit, ut solet aer,~
+>>>   ^Purpureusque fieri, cum primum Luna movetur,~
+>>>   ^Et breve post tempus candescere solis ab ictu.~
+Error at line 104: First indent not five spaces
+>>>   ^O genitor, teque amplexu ne subtrahe nostro.~
+
+Error at line 125: Spaces used at head of paragraph
+>>>  	|112-121.~  Et ultimo auctor ut dicat et tangat primam
+>>> causam, quae nos tardos facit ad confessionem et ad poenitentiam,
+
+Checking file 03.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Avvegnach@e la subitana fuga>.  Dividitur hoc
+>>> Capitulum in duas partes.  In prima exorditur ad praecedentia; et
+
+Warning: Single line indent at line 7
+>>>     <Noi divenimmo quasi a pi@e del monte>
+
+Error at line 9: Spaces used at head of paragraph
+>>>        Ibi secunda, ubi tractat de secunda specie tardantium 
+>>> poenitentiam, contrictione tamen habita; et hoc usque in finem.
+
+Error at line 11: Multiple blank lines
+>>>
+Error at line 12: Spaces/Tabs used in paragraph
+>>>        |7-11.~  Ad primam igitur dicit auctor, quomodo Virgilius
+Error at line 59: Spaces used at head of paragraph
+>>>        |49-51.~  Ad secundam et ultimam dicit quomodo ascensus
+>>> illius montis erat repentior quam inveniretur inter Lericem et
+
+Checking file 04.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Quando per dilettanze, ovver per doglie>. 
+>>> Hoc Capitulum dividitur in tres partes.  In prima facit auctor
+
+Warning: Single line indent at line 7
+>>>     <Maggiore aperta molte volte impruna>
+
+Warning: Single line indent at line 12
+>>>     <E come egli ebbe sua parola detta>
+
+Error at line 17: Spaces used at head of paragraph
+>>>        |1-12.~  Ad primam igitur auctor fingendo se ita fuisse
+>>> attentum cum umbra dicti Manfredi, quod non perpendit quo ivit,
+
+Error at line 77: Spaces used at head of paragraph
+>>>        |25-27.~  Ad secundam dicit quod cum Virgilio, idest cum
+>>> ratione, incoepit ascendere montem illum Purgatorii cum illo
+
+Error at line 175: Spaces used at head of paragraph
+>>>     	|105-107.~  Ad tertiam et ultimam partem auctor procedit
+>>> ad dicendum de tertia qualitate personarum, quae propter
+
+Checking file 05.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|10-21.~  <Io era gi@a da quelle ombre partito>.  Auctor,
+>>> praemisso exordio quodam morali, scilicet de non curando quod
+
+Warning: Single line indent at line 7
+>>>     ^Conscius ipse sibi de se putat omnia dici,~
+
+Checking file 06.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Quando si parte il gioco della zara>.  Hoc
+>>> Capitulum continuatur cum superiori, et est pulcrum, clarum,
+
+Error at line 15: Spaces used at head of paragraph
+>>>        |9-12.~  Ad primam igitur probandam, et etiam ad omnes
+>>> alias, per locum ab auctoribus veniamus.  Et primo quod orare, ut
+
+Warning: Single line indent at line 242
+>>>     ^Heu fuge crudeles terras, fuge littus avarum.~
+
+Checking file 07.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Poscia che l'accoglienze oneste e liete>. 
+>>> Auctor in hoc Capitulo, praemissa oratione Sordelli praedicti et
+
+Warning: single line paragraph at line 129
+>>>	|131.~  Alius, est rex Henricus de Anglia;
+
+Checking file 08.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-8.  Era gi@a l'ora che volge il disio.~  Auctor in hoc
+>>> Capitulo, praemisso exordio ad praecedentem materiam, scilicet
+
+Warning: Single line indent at line 184
+>>>     Successore novo tollitur omnis amore.
+
+Checking file 09.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  La concubina di Titone antico.~  Continuando se
+>>> auctor ad praecedentia, dicit quomodo visis, idest contemplatis
+
+Warning: Single line indent at line 20
+>>>     ^Unde venit Titan, et nox ubi sidera condit.~
+
+Warning: Single line indent at line 31
+>>>     ^Tithonum talamis dignans Aurora superbis.~
+
+Error at line 36: Spaces/Tabs used in paragraph
+>>>     ^Puniceis invecta rotis Aurora rubescit.~
+Warning: Single line indent at line 74
+>>>     ^Nox ruit, Aenea, nos flendo ducimus horas.~
+
+Warning: Single line indent at line 134
+>>>      ^Invisumque genus, et rapti Ganimedis honores.~
+
+Checking file 10.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Poi fummo dentro al soglio della porta>. 
+>>> Hoc Capitulum dividitur in duas partes.  Ad primam, continuando
+
+Warning: Single line indent at line 8
+>>>     <Io stancato, ed amendue incerti>.
+
+Error at line 13: Spaces used at head of paragraph
+>>>     	|1-6.~  Ad primam dicit, quod postquam fuit intra illam
+>>> portam, idest intra statum virtuosi propositi, sive confessionis,
+
+Error at line 47: Spaces used at head of paragraph
+>>>    	|28-33.~  Ad secundam partem auctor incipiendo dicere de
+>>> circulo Purgatorii primo, ubi superbia purgatur, ita procedit
+
+Warning: Single line indent at line 69
+>>>     ^Inquinat egregios adjuncta superbia mores~;
+
+Checking file 11.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-2.~  O Padre nostro, che ne' cieli stai.~  Auctor,
+>>> continuando se ad praecedentia, dicit se audivisse canere illos
+
+Checking file 12.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Di pari, come buoi che vanno a giogo>. 
+>>> Dividitur hoc Capitulum in duas partes.  In prima continuat se
+
+Warning: Single line indent at line 7
+>>>     <Pi@u era gi@a per noi del monte volto>.
+
+Error at line 12: Spaces used at head of paragraph
+>>>        |1-3.~  Ad primam igitur veniamus.  Dicit auctor
+>>> comparative, quod ut bos cum bove ad jugum vadit, ita ibat cum
+
+Error at line 115: Spaces/Tabs used in paragraph
+>>>     ^Clara, sed arte fuit: pater huic Colophonius Idmon~
+>>>     ^Phocaico bibulas tingebat murice lanas.~
+Warning: Single line indent at line 124
+>>>     ^Stamen, et antiquas exercet aranea telas.~
+
+Error at line 149: Tab used in indenting
+>>>		^...hoc docti quamquam majora laborant~
+Error at line 182: Spaces/Tabs used in paragraph
+>>>	
+>>>	|58-60.~  Item ad quid devenit superbia Olophernis ducis
+Error at line 204: Spaces used at head of paragraph
+>>>        |73-83.~  Ad secundam et ultimam partem dicit, quomodo
+>>> perambulato circulo, in quo superbia purgatur, hoc est, se
+
+Checking file 13.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-9.  Noi eravamo al sommo della scala.~  In hoc
+>>> Capitulo auctor continuat se ad proxime dicta, et incipit
+
+Warning: Single line indent at line 30
+>>>     ^Invidus alterius rebus macrescit opimis.~
+
+Error at line 75: Spaces/Tabs used in paragraph
+>>>	
+>>>	|47-48.~  Unde prosequendo dicit, quomodo vidit spiritus
+Warning: Single line indent at line 84
+>>>     ^Nec lapis albus erat, sua mens infecerat illam.~
+
+Warning: Single line indent at line 88
+>>>     ^Pallor in ore sedet~ etc.
+
+Checking file 14.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  Chi @e costui che 'l nostro monte cerchia.~ 
+>>> Continuat etiam se auctor ad praecedentia in hoc Capitulo, dicens
+
+Warning: Single line indent at line 30
+>>>     ^Sed vos qui tandem? quibus venistis ab oris?~
+
+Warning: single line paragraph at line 85
+>>>		^... Alpes immittit apertas.~
+
+Error at line 223: Spaces/Tabs used in paragraph
+>>>     ^A grege mutarum, atque ideo venerabile soli~
+>>>     ^Sortiti ingenium, divinorumque capaces,~
+>>>     ^Atque exercendis, capiendisque artibus apti~,
+>>>     ^Sensum a coelesti demissum traximus arce~,
+>>>     ^Cujus egent prona, et terram spectantia: mundi~
+>>>     ^Principio indulsit communis conditor illis~
+>>>     ^Tantum animas, nobis animum quoque, mutuus ut nos~ etc.
+Checking file 15.e
+Error at line 3: Spaces used at head of paragraph
+>>>   	|Proemio.~  <Quando tra l'ultimar dell' ora terza>. 
+>>> Auctor in hoc Capitulo, praemisso proemio, referendo se ad
+
+Warning: Single line indent at line 7
+>>>   <Com' io voleva dicer: tu m'appaghe>
+
+Error at line 117: First indent not five spaces
+>>>   ^Cecropia Pallas scopulum Mavortis in arce~
+
+Error at line 134: First indent not five spaces
+>>>   ^Phoenices primi,famae si creditur, ausi~
+
+Error at line 188: First indent not five spaces
+>>>   ^Debilitat, saevire facit, dissolvit amores~,
+
+Checking file 16.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Bujo d'inferno e di notte privata>. 
+>>> Continuat hoc Capitulum auctor ad proxime superiora, dicendo
+
+Checking file 17.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Ricorditi, lettor, se mai nell'alpe>.  Hoc
+>>> Capitulum dividitur in duas partes.  In prima dicit auctor,
+
+Warning: Single line indent at line 7
+>>>     <Come si frange il sonno, ove di butto>.
+
+Error at line 12: Spaces used at head of paragraph
+>>>        |17-21.~  Ad primam dicit, quod rimato et contemplato eo,
+>>> quod deberet nos inducere ad pacificentiam, incipit tangere quod
+
+Warning: Single line indent at line 44
+>>>     ^Urbs capitur, vitam laqueo sibi finit Amata.~
+
+Error at line 46: Spaces used at head of paragraph
+>>>        |85-87.~  Ad secundam partem auctor, debendo venire ad
+>>> tractandum de vitio accidiae, praemittit de amore et ejus natura:
+
+Warning: Single line indent at line 106
+>>>     ^Di faciant sine te ne moriar ego~ etc.
+
+Checking file 18.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|13-15.~  <Posto avea fine al suo ragionamento>.  Auctor
+>>> in hoc Capitulo reassumit duo dubia ex praecedentibus.  Primum
+
+Error at line 1: Missing indentation
+>>>|PURGATORIO CANTO 19~
+Error at line 4: Missing indentation
+>>>hoc Capitulo auctor incipit ingredi materiam quinti circuli, ubi
+Checking file 19.e
+Checking file 20.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Contra miglior voler, voler mal pugna.~ 
+>>> Continuando se auctor ad praecedentia, dicit quod cum umbra dicti
+
+Checking file 21.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  La sete natural che mai non sazia.~  Continuando
+>>> se auctor ad praecedentia dicit, quod naturalis sitis, idest
+
+Warning: single line paragraph at line 47
+>>>		^...nubes excussit Olympus.~
+
+Checking file 22.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Gi@a era l'Angel dietro a noi rimaso>.  Hoc
+>>> Capitulum habet duas partes.  In prima auctor se continuat ad
+
+Warning: single line paragraph at line 7
+>>>	<Ma tosto ruppe le dolci ragioni>.
+
+Error at line 12: Spaces used at head of paragraph
+>>>        |1-3.~  Ad primam igitur dicit, quod Angelus, idest
+>>> propositum abstinendi a tali vitio, ut judicium conscientiae
+
+Error at line 51: Spaces/Tabs used in paragraph
+>>>     ^Auri sacra fames?~
+Error at line 162: Spaces/Tabs used in paragraph
+>>>     ^Ismene collapsa super, lacrimisque, comisque~
+>>>     ^Siccabat plangens~ etc.
+Error at line 212: Spaces used at head of paragraph
+>>>        |131-132.~  Ad secundam, incipiendo tractatum sexti
+>>> circuli, ubi vitium gulae purgatur, ibi fingit se reperire illam
+
+Warning: single line paragraph at line 269
+>>>	|148-150.~  Item de prima aetate; unde Ovidius:
+
+Warning: single line paragraph at line 276
+>>>		^...satis est populis fluviusque Ceresque.~
+
+Checking file 23.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Mentre che gli occhi per la fronda verde>. 
+>>> Continuando se auctor ad praecedentia, dicit quomodo vidit se
+
+Checking file 24.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  N@e il dir l'andar, n@e l'andar lui pi@u lento.~ 
+>>> Auctor, continuando se ad superiora, dicit quod per se satis ad
+
+Error at line 62: Spaces/Tabs used in paragraph
+>>>     ^Deprenduntur aquae: quaeque imminet, effugit arbos~...
+>>>     ^Nec bibit inter aquas poma aut pendentia carpit~
+>>>     ^Tantalus infelix, quem sua vota premunt.~
+Warning: Single line indent at line 84
+>>>     ^Duxerat Hippodamen audaci Ixione natus.~
+
+Warning: Single line indent at line 88
+>>>     ^Ardet, et ebrietas geminata libidine regnat.~
+
+Checking file 25.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Ora era onde 'l salir non volea storpio>. 
+>>> Dividitur hoc Capitulum in duas partes.  In primo continuat se ad
+
+Warning: Single line indent at line 7
+>>>     <E gi@a venuto all'ultima tortura>.
+
+Error at line 12: Spaces used at head of paragraph
+>>>        |1-3.~  Ad primam auctor dicit causam quare absque
+>>> storpio, idest impedimento, debebat esse suum iter; scilicet quia
+
+Error at line 48: Spaces used at head of paragraph
+>>>     Igitur ad propositum arguit Virgilius sic: si tu, auctor, et
+>>> alii dubitantes quomodo animae nostrae separatae a corporibus
+
+Error at line 326: Spaces used at head of paragraph
+>>>        |112-114.~  Ad secundam partem auctor incipit tractare de
+>>> purgantibus se in vitio carnis, qui quodammodo sunt in igne
+
+Warning: Single line indent at line 330
+>>>     ^Igneus ille furor nescit habere modum.~
+
+Warning: single line paragraph at line 336
+>>>	|121.~  Dicendo etiam illum hymnum:
+
+Warning: Single line indent at line 362
+>>>     ^Parrhasis obliquos Helice cum verteret axes~ etc.
+
+Checking file 26.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Mentre che s@i per l'orlo uno innanzi altro>. 
+>>> Auctor continuando se ad proxime dicta, in hoc Capitulo tangit de
+
+Warning: Single line indent at line 38
+>>>     ^Riphaeas sic solve nives, huc stagna lacusque~;
+
+Checking file 27.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <Siccome quando i primi raggi vibra>.  Hoc
+>>> Capitulum habet duas principales partes.  In prima auctor
+
+Warning: Single line indent at line 7
+>>>     <Come la scala tutta sotto noi>.
+
+Error at line 12: Spaces used at head of paragraph
+>>>        |1-6.~  Ad primam igitur auctor exordiendo dicit, quod
+>>> devenit ad punctum, quo Sol in illo altero polo et ejus medio
+
+Warning: Single line indent at line 29
+>>>     ^Cardine quem porta vergens prospectat Ibera,~
+
+Error at line 81: Spaces used at head of paragraph
+>>>        |94-96.~  Ad secundam dicit, quod in hora, qua primo ibi
+>>> in illo monte de Oriente irradiavit Cytherea, idest stella
+
+Warning: Single line indent at line 89
+>>>     ^Parce metu, Cytherea, manent immota tuorum~ etc.
+
+Warning: Single line indent at line 93
+>>>     ^Est Amathus, est celsa mihi Paphos, atque Cythera.~
+
+Checking file 28.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|16-18.~  <Vago gi@a di cercar dentro e d'intorno>. 
+>>> Continuat se auctor ad proxime dicta, et ultra Liam, ostendit sub
+
+Warning: Single line indent at line 78
+>>>     ^Europamque Asiae, Sextonque amovit Abido,~
+
+Checking file 29.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Cantando come donna innamorata.~  Continuatione
+>>> facta ad superiora dicit auctor, quod haec Mathelda, idest activa
+
+Warning: Single line indent at line 32
+>>>     ^At Nymphae vicisse Deas Helicona colentes.~
+
+Warning: Single line indent at line 150
+>>>     ^Judico prudentem, prius, et nunc, postque videntem~;
+
+Checking file 30.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-6.  Quando 'l settentr,ion del primo cielo.~ 
+>>> Continuando se auctor ad praecedentia, dicit, quod comparative
+
+Checking file 31.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|Proemio.~  <O tu che se' di l@a dal fiume sacro>. 
+>>> Continuando etiam hoc Capitulum ad proxime praecedentia, et nisi
+
+Warning: Single line indent at line 35
+>>>     ^Suspirans, imoque trahens de pectore vocem,~
+
+Warning: Single line indent at line 104
+>>>     ^Protinus ad regem cursus detorquet Jarbam.~
+
+Warning: Single line indent at line 111
+>>>     ^Quaedam cum prima resecantur crimina barba.~
+
+Error at line 140: Spaces/Tabs used in paragraph
+>>>     ^Securos latices et longa oblivia potant.~
+Checking file 32.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3.  Tanto eran gli occhi miei fissi ed attenti.~ 
+>>> Continuando se auctor adhuc etiam ad praecedentia, dicit primo
+
+Checking file 33.e
+Error at line 3: Spaces used at head of paragraph
+>>>     	|1-3. ^Deus, venerunt gentes~, |alternando.~  Continuando
+>>> se auctor dicit, quomodo per ea quae vidit et audivit de
+
+Warning: Single line indent at line 179
+>>>        	     EXPLICIT PURGATORIUM
+

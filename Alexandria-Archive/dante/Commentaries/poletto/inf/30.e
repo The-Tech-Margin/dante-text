@@ -1,0 +1,1302 @@
+	|1-12.~  Notati dall'Alfieri, salvo i primi quattro.  Il
+Tommaseo: <A modo di similitudine avete due comparazioni lunghe
+molto, dedotte da Ovidio.  Nelle altre due Cantiche gli accenni
+mitologici son pi@u brevi, pi@u diffusi i geografici e gli
+astronomici.  Il dotto si fa pi@u maturo.>  |Giunone~ (<Giunone
+dissero (i ^Gentili~) Dea di potenza> ^Conv.~, II, 5) corrucciata
+che Giove, suo marito, avesse amato Semele, figliuola di Cadmo re
+di Tebe, e madre di Bacco, non contenta con fiera astuzia
+d'essersi vendicata dell'abborrita rivale (^Par.~, XXI, 6), tolse
+a perseguitare tutti i Tebani, che s'eran messi sotto la
+protezione di Bacco (cf. ^Inf.~, XX, 59; ^Purg.~, XVIII, 93): cf.
+Ovidio, ^Met.~, III, 253-315.  -- |Crucciata.~.. |contra~ ecc.;
+altrove (secondo la lez. comunemente seguita) col dat., ^Purg.~, 
+XXII, 39.  -- |Per Semel@e~; a cagione di Semele.  -- |Il sangue~
+ecc.; la stirpe, la razza.  -- |Una e altra fiata~; pi@u volte;
+quando Giunone per vendetta fece s@i che Atteone figlio d'Aristeo
+e di Antonoe sorella di Semele, fosse sbranato dai propri cani; e
+che Agave altra sorella di Semele e moglie d'Enchione, 
+ubbriacatasi nei sacrifici di Bacco, uccidesse l'unico figlio
+maschio Penteo, credendolo un cinghiale; e che finalmente Ino, 
+altra sorella di Semele, si gettasse col figlioletto in mare. 
+|Una ed altra fiata~, ben osserva il Biagioli, non determina le
+volte; ma ben sono determinate a due sole quando vi s'appone
+l'articolo (l'^una e l'altra fiata~, ^Inf.~, X, 48).  --
+|Atamante~; re di Tebe e marito di Ino, divenuto |insano~, 
+impazzito per castigo di Giunone, vedendosi venire incontro la
+moglie Ino che seco menava i due figlioletti Learco e Melicerta, 
+e credendola una leonessa co' suoi leoncini fece tendere le reti
+per prenderli; e preso Learco lo scagli@o contro un sasso; perch@e
+la madre disperata si gitt@o con Melicerta nel mare.  Ovidio
+(^Met.~, IV, 512 e segg.):
+
+     Protinus Aeolides media furibundus in aula
+     Clamat: ^Io, comites, his retia tendite silvis~!
+     ^Hic modo cum gemina visa est mihi prole leaena~, 
+     Utque ferae sequitur vestigia coniugis amens;
+     Deque sinu matris ridentem et parva Learchum
+     Brachia tendentem rapit et bis terque per auras
+     More rotat fundae, rigidoque infantia saxo
+     Discutit ora ferox.  Tum denique concita mater, 
+     Seu dolor hoc fecit, seu sparsi causa veneni, 
+     Exululat, passisque fugit male sana capillis.
+     Teque ferens parvum nudis Melicerta lacertis, 
+     Evoe, Bacche, sonat...
+     Seque super pontum nullo tardata timore, 
+     Mittit onusque suum: percussa recanduit unda.
+
+-- |Carcata~; ci@o fa credere che li portasse in collo (cf. v.
+12).  -- |Da ciascuna mano~; a destra e a sinistra, dall'uno e
+dall'altro lato (cf. ^Inf.~, VII, 32; IX, 110).  -- |Lionessa~, 
+Ino; -- |lioncini~, i figli.  -- |Distese~ ecc. (cf. ^Inf.~, 
+VIII, 40); -- |artigli~, le mani; ma nella voce stessa, e
+nell'agg. che l'accompagna, @e chiara la ferocia selvaggia
+dell'atto, come di fiera (cf. ^Inf.~, XIII, 14; XXII, 137).  Il
+Cesari: <Una cosa mi par qui da notare; che Dante nello stesso
+concetto passa da una in altra metafora, cio@e dalle reti agli
+artigli; e quello che fa qui, s@i il fa in cento altri luoghi; e
+con lui i Latini.>  -- |Rotollo~, tenendolo per un piede lo
+aggir@o come pietra in fionda, e lo ^percosse~, scagli@o ecc.  Il
+Biagioli: <|Rotollo~; questa sola forma esprimer poteva l'azione, 
+poich@e ogn'altra, ^il rot@o, lo rot@o, rotol~, sarebbe un guasto; e
+non meno conveniente si @e l'effetto del dattilo seguente
+|percosselo~, a far sentir la prestezza e la forza di quel
+braccio furibondo.>  -- |E quella~, Ino.  -- |Con l'altro
+incarco~, con l'altro figlioletto, Melicerta, che aveva in
+braccio (cf. v. 6).
+
+	|13-21.~  L'Alfieri not@o sino al 19.  |E quando~ ecc., e
+quando Troia rimase distrutta, Ecuba moglie di Priamo, menata
+schiava dai Greci, avendo veduto la figlia Polissena sgozzata da
+Pirro sulla tomba d'Achille, e poi trovato il cadavere del figlio
+Polidoro alle rive della Tracia, impazz@i pel dolore e and@o
+correndo pe' campi latrando come un cane.  |E~; annoda questa
+alla narrazione precedente.  -- |La fortuna~, la quale governa le
+sorti di quaggi@u, e innalza o deprime i popoli e gli imperi a suo
+piacimento (cf. ^Inf.~, VII, 77 e segg.).  Virgilio (^Aen.~, III, 
+53).
+
+     ... ut opes fractae Teucrum, et fortuna recessit.
+
+-- |Volse in basso~, depresse, fe' decadere (lo stesso verbo
+adopera della Fortuna anche altrove, ^Inf.~, VII, 96, e XV, 95). 
+-- |L'altezza~; la potenza, la grandezza; fa rammentare il
+^superbo Ilion~ (^Inf.~, I, 75) e la sua posteriore condizione
+^bassa e vile~ (^Purg.~, XII, 62).  -- |Tutto ardiva~; tutto si
+facea lecito, ogni impresa anco pi@u scellerata, come lo spergiuro
+di Laomedonte e il rapimento d'Elena.  -- |Insieme col regno~
+ecc.; Ovidio (^Met.~, XIII, 402): ^Troia simul Priamusque
+cadunt.~  -- |Il re~; Priamo, sposo d'Ecuba.  -- |Casso~ (cf.
+^Inf.~, XXV, 76), abbattuto, estinto, per mezzo de' Greci;
+Virgilio (^Aen.~, II, 4-5):
+
+     Troianas ut opes, et lamentabile regnum, 
+     Eruerint Danai...
+
+-- |Ecuba trista~ ecc.; il Cesari (sino al v. 21): <Versi pieni
+di splendore e di piet@a; anche con molto artifizio spezzati, a
+significare lo smarrimento e la disperazione della infelice
+donna.  Quell'affollar d'aggiunti dati ad Ecuba, e ciascuno di
+forte sentenza, @e grande arte ad amplificar il dolore: e quelle
+quattro sillabe del |forsennata~, che forza! e quel |la
+dolorosa~, per infelice, coll'articolo, innalza con enfasi la
+compassione.>  -- |Trista misera~ per la morte de' suoi e per la
+rovina di Troia; -- |cattiva~, schiava de' Greci.  Nel ^Conv.~, 
+I, 13, di Boezio: ^cattivo e discacciato~; di Attilio Regolo
+(ivi, IV, 5): ^cattivato~, cio@e fatto schiavo de' Cartaginesi. 
+-- |Polissena~, sua figlia sacrificata da Pirro sulla tomba
+d'Achille.  -- |Polidoro~; ultimo de' figliuoli di Priamo, da lui
+affidato a Polinestore amico suo re della Tracia; ma Polinestore, 
+saputa la caduta di Troia, perfidamente uccise il giovinetto per
+averne il tesoro seco portato (cf. ^Purg.~, XX, 115).  Cf.
+Virgilio, ^Aen.~, III, 22-56; ^Inf.~, XIII, 46-48.  Giungendo
+Ecuba, trov@o sul lido della Tracia il cadavere del figlio
+tradito.  -- |Forsennata~; pazza di dolore.  Ovidio (lib. cit.
+431 e segg.):
+
+     Dixit, et ad littus passu procedit anili
+     Albentes lacerata comas.  Date, Troades, urnam, 
+     Dixerat infelix, liquidas hauriret ut undas.
+     Aspicit ejectum Polydori in littore corpus, 
+     Factaque Threiciis ingentia vulnera telis.
+     Troades exclamant: obmutuit illa dolore;
+     Et pariter vocem, lacrymasque introrsus obortas
+     Devorat ipse dolor, duroque simillima saxo
+     Torpet, et adversa figit modo lumina terra;
+     Interdum torvos extollit ad aehera vultus, 
+     Nunc positi spectat vultum, nunc vulnera nati, 
+     Vulnera praecipue, seque armat et instruit ira.
+
+-- |Latr@o~ ecc.; Ovidio (loc. cit., 402-404 e 569):
+
+                                Priameia coniux
+     Perdidit infelix hominis post omnia furmam, 
+     Externasque novo latratu terruit auras...
+     Latravit conata loqui... ululavit maesta per agros.
+
+-- |Tanto dolor~ (cf. ^Inf.~, XXXII, 51), a tal segno fu il
+dolore che |le f@e la mente torta~, la trasse di senno, la f@e
+impazzire.  Il Tommaseo: <Il Canto incomincia con due lunghi
+accenni a due passi delle Metamorfosi: l'uno quasi tradotto e con
+molta efficacia, l'altro compendiato in parole d'abbondante piet@a
+e di schiettezza potente.  I lamenti d'Ecuba in Ovidio, in mezzo
+allo scintillar dell'ingegno, hanno calore verace d'affetto; e
+comparata alle aride superfluit@a di certi moderni, la sua
+soprabbondanza feconda apparisce quasi maestrevole parsimonia
+(^Met.~, XIII).  E cos@i nella morte di Polissena son tratti di
+natura veri, e per@o di vero poeta.>
+
+	|22-27.~  Notati dall'Alfieri.  |Ma n@e di Tebe~ ecc.; il
+Bargigi: <Comprendere si pu@o, che grandi furie menavano il Tebano
+Atamente e la Troiana Ecuba; ma n@e furie di Tebe, n@e Troiane si
+vider mai in alcuno tanto crude non punger, non straziar bestia, 
+che sarebbe ancor crudelt@a, non che membra umane ecc.;> che @e
+quanto a dire: nessun furore si vide mai s@i crudele n@e in
+Atamante (^furie Tebane~), n@e in Ecuba (^furie Troiane~), n@e in
+bestie, n@e in uomo alcuno, quanto quello ch'io vidi in due
+dannati ecc.; tale @e la spiegazione che richiede la lez. |vidi in
+due ombre~ (e non ^vidi due ombre~) del v. 25, ch'@e da ritenersi
+la vera.  Lo Scartazzini: <^Altri~: Ma non fur mai vedute furie
+n@e in Tebe n@e in Troia andar s@i crudeli contro alcuno, n@e s@i
+acerbamente straziar bestie non che membra umane (uomini), quanto
+crudeli e furiose vidi due ombre ecc.  Questa dichiarazione
+presuppone che la vera lezione al v. 25 sia ^vidi due ombre~
+invece di |vidi in due ombre~; in secondo luogo essa prende
+|furie~ personalmente -- |Erinni~, invece di prenderlo nel senso
+di ^furori.~  Si osservi per@o: 1o |in due ombre~ nel v. 25 @e
+lezione degli ottimi codd., e cos@i lessero tutti gli antichi
+commentatori.  2o che |furie~ non alluda qui alle Erinni sembra
+provarlo, per tacer d'altro, il v. 79, nel quale le due ombre si
+chiamano ^arrabbiate~ -- ^infuriate.~>  -- |In alcuno~; dentro ad
+alcuno; mentre la spiegazione ^contro alcuno~ ha sua ragione
+dalla differente lezione del v. 25 ^vidi due ombre.~  -- |Non
+punger~, non si videro mai pungere ecc.  -- |Quant'io~; quanto
+crudo io vidi questo furore.  -- |In dire ombre~; sono Gianni
+Schicchi (v. 32) e Mirra (v. 37).  -- |Smorte~, pel dolore e per
+la rabbia.  -- |Nude~, come tutti i dannati.  -- |Mordendo~;
+addentando questo o quello de' dannati, ne' quali s'intoppavano;
+come il porco, uscendo dal porcile, sbalzando qui e l@a addenta
+tutto quello che gli vien sotto.  -- |Di quel modo~, in quella
+maniera.  Il Cesari: <Chi vide porco affamato, apertogli il
+porcile, gittarsi fuori ragghiando e assannando ogni cosa che
+trova, dice: Niente si pu@o immaginarsi pi@u fiero: et @e
+dell'ingegno di Dante, l'aver colto la natura del porco pure in
+quell'atto.>  -- |Si schiude~; quando esce dal porcile, il Buti;
+quando, aperto il porcile, @e lasciato uscire, il Bargigi.
+
+	|28-30.~  Notati dall'Alfieri.  |Giunse a~ ecc.; corse
+verso Capocchio.  -- |Nodo del collo~; qui vale nuca, la parte
+del collo ove son le vertebre cervicali; in fatti Capocchio, 
+trascinato dal folletto, cade bocconi.  -- |L'assann@o~; lo
+afferr@o colle sanne, gli infisse sul nodo del collo le sanne (cf.
+vv. 33-34), mantenendo cos@i la metafora del porco, del quale, 
+come del cane, son proprie le sanne (cf. ^Inf.~, VI, 23; XXII, 
+56; XXXIII, 35).  Altrove ^assannare~ in senso traslato (^Inf.~, 
+XVIII, 99; ^Purg.~, XIV, 69).  -- |Tirando~ ecc.; trascinollo via
+un tratto col ventre sul duro fondo del bolgia (|sodo~, duro, 
+perch@e tutto di macigno, ^Inf.~, XVIII, 2).  Ma col verbo
+^grattare~ vuole il Poeta tenerci viva nella mente l'idea del
+prudore di quei miseri; come a voler dire, osserva il Cesari: <Se
+colui, per la rabbia del pizzicor crudele godeva grattarsi, 
+questa volta ebbe di quel che voleva anche troppo.>  Fu gi@a
+osservato giustamente che il Poeta in questa bolgia (come in
+quella dei ladri, e fra i suicidi e dissipatori, (^Inf.~, XIII, 
+115-135; XXV, 17-151), mostra una parte dei dannati non solo
+quale paziente, ma quale operatrice della pena degli altri.
+
+	|31-33.~  L'Alfieri not@o il secondo.  |L'Aretin~;
+Griffolino (^Inf.~, XXIX, 109).  -- |Rimase tremando~; |rimase~, 
+perch@e tremava anche prima per la sua condizione di membra
+paralitiche (^Inf.~, XXIX, 98); ora poi il tremore gli @e
+ricresciuto dalla paura di essere egli pure assannato.  --
+|Folletto~; il Lamennais: ^Les follets $etaient des esprits qu'on
+croyait repandus dans l'air.~  |Folletto~ @e qui per similitudine, 
+e vale ^spirito malefico~ in genere.  Stupenda la scena; il
+meschino, quasi a coonestare la sua paura, e a trarsi d'impaccio, 
+non aspetta che il Poeta lo interroghi, ma senza richiesta lo
+informa del nome dell'una dalle due ombre furiose.  -- |Gianni
+Schicchi~; fiorentino, della casa de' Cavalcanti, che fals@o in s@e
+medesimo la persona di Buoso Donati (cf. ^Inf.~, XXV, 140), 
+ch'era gi@a morto, per regalare a s@e stesso con falso testamento
+una cavalla, di buona intesa con Simone Donati, non gi@a
+figliuolo, come dicono l'Anon. Fior., Benvenuto ed altri, ma
+fratello di Buoso, come con documenti mostr@o il Del Lungo. 
+^L'Anon. Fior.~: <Essendo messer Buoso Donati aggravato d'una
+infermit@a mortale, volea fare testamento, per@o che gli parea
+avere a rendere assai dell'altrui.  Simone suo figliuolo il tenea
+a parole, per ch'egli nol facesse; e tanto il tenne a parole, 
+ch'elli mor@i.  Morto che fu, Simone il tenea celato, et avea
+paura ch'elli non avesse fatto testamento mentre ch'egli era
+sano; et ogni vicino dicea ch'egli l'avea fatto.  Simone, non
+sappiendo pigliare consiglio, si dolse con Gianni Sticchi, et
+chiesegli consiglio.  Sapea Gianni contraffare ogni uomo, et
+colla voce et cogli atti, et massimamente messer Buoso, ch'era
+uso con lui.  Disse a Simone: ^Fa venire uno notaio, et di' che
+messer Buoso voglia fare testamento: io entrer@o nel letto suo et
+cacceremo lui di dietro, et io mi fascer@o bene, et metterommi in
+capo la sua cappellina, e far@o il testamento come tu vorrai; @e
+vero che io ne voglio guadagnare.~  Simone fu in concordia con
+lui: Gianni entra nel letto, et mostrasi appenato, et contraff@a
+la voce di messer Buoso, che parea tutto lui, et comincia a
+testare et dire: ^Io lascio soldi XX all'opera di S. Reparata, et
+lire cinque ai Frati Minori, et cinque a' Predicatori~, et cos@i
+viene distribuendo per Dio, ma pochissimi danari.  A Simone
+giovava del fatto; ^et lascio~, soggiunse, ^cinquecento fiorini a
+Gianni Sticchi.~  Dice Simone a messer Buoso: ^Questo non bisogna
+mettere in testamento; io gliel dar@o come voi lascerete.~.. 
+Simone per paura si stava cheto: Questi segue: ^Et lascio a
+Gianni Sticchi la mula mia~; ch@e avea messer Buoso la migliore
+mula di Toscana.  ^Oh, messer Buoso~, dicea Simone, ^di cotesta
+mula si cura egli poco et poco l'avea cara.  -- Io so ci@o che
+Gianni Sticchi vuole meglio di te.~  Simone si comincia adirare
+et a consumarsi; ma per paura si stava.  Gianni Sticchi segue:
+^Et lascio a Gianni Sticchi fiorini cento, che io debbo, avere da
+tale mio vicino; et nel rimanente lascio Simone mia reda
+universale~; con questa clausola, ch'egli dovesse mettere ad
+esecuzione ogni lascio fra quindici d@i, se non, che tutto il
+reditaggio venisse a' Frati Minori del convento di S. Croce: et
+fatto il testamento ogni uomo si part@i.  Gianni esce del letto, 
+et rimettonvi messer Buoso.>  -- |Cos@i conciando~; per antifrasi, 
+cos@i malmenando (cf. ^Inf.~, XXVIII, 37, nel commento).  Il
+Tommaseo: <La regina Mirra, che, come porco rabbioso (in Inferno
+staranno i re come porci, ^Inf.~, VIII, 50) ch'esce del porcile, 
+s'avventa a Capocchio, ^scimmia~, @e per vero fantas@ia strana.> 
+Badino i giovani, che il folletto che s'avventa a Capocchio, non
+@e gi@a Mirra, ma Gianni Schicchi.  E prosegue: <Forse voleva il
+poeta simboleggiare la trista uguaglianza che la citt@a della
+colpa mette tra gli uomini, e il rabbioso mordersi tra loro che
+fanno gli uomini falsi.  Tra regina Mirra e falsa (che rammenta
+la regina Pasifae ^falsa vacca, imbestiatasi nelle imbestiate
+schegge~), tra Mirra regina e la moglie del cortigiano Putifarre, 
+troviamo un Fiorentino, che, falsando un testamento e regalando
+s@e stesso del lascito d'una cavalla, si fa beffe de' vivi e de'
+morti.>
+
+	|34-36.~  Il Poeta voleva poi sapere il nome dell'altra
+delle due ombre, onde ne richiede Griffolino.  |Se~; partic.
+deprecativa, cos@i, per quanto desideri che ecc.  -- |L'altro~, 
+l'altro folletto, che era comparso insieme allo Schicchi (v. 25):
+si vede che quello non aveva per anco assannato nessuno de'
+dannati vicini al ponte.  -- |Non ti ficchi~ ecc.; non ti assanni
+(v. 29).  -- |Non ti sia fatica~, non t'incresca, non ti gravi
+(cf. ^Inf.~, XIII, 56; XXVIII, 23), piacciati (^Inf.~, X, 24;
+^Purg.~, XXI, 79).  -- |Di qui si spicchi~, si parta quinci, si
+allontani (cf. ^Purg.~, XXI, 107).
+
+	|37-39.~  Notati dall'Alfieri.  |L'anima antica~, perch@e
+vissuta ne' secoli lontani (cf. ^Inf.~, I, 116; XXVI, 85).  Il
+falsare i metalli, le monete e simili, @e peccato deforme, perch@e
+tutto @e disforme e disforma ci@o che fa contro alla rettitudine;
+per@o il falsare le proprie sembianze, il proprio essere cogli
+intenti dello Schicchi e di Mirra, @e cosa disformissima, e tanto
+disforma che mentre i dannati d'altro genere, pur in questa
+bolgia, conservano certa umana sembianza, per quanto trasmutata;
+lo Schicchi e Mirra son trasformati cos@i, che il Poeta non
+discerne neppure il sesso dell'uno e dell'altro (cf. v. 34).  --
+|Mirra scellerata~; aggettivo pieno, che pare uno sfogo
+dell'anima offesa da tanta reit@a.  Il Tommaseo avverte, che nella
+narrazione che Ovidio ha di tal fatto (^Met.~, X, 298-502), la
+voce ^scelus~ ricorre quasi dieci volte (son otto, e quattro
+volte ^nefas~, e due ^facinus~; cf. vv. 307, 322, 352, 404, 448, 
+471).  E si badi con quale riserbo e con qual velo di onest@a
+accenni il Poeta questo misfatto, simile a quello, bench@e per
+altro fine, delle figliuole di Lot (^Genes.~, XIX, 31-38).  E
+potrebbe insegnare qualcosa, specialmente a certi sbattezzati
+poeti moderni, il modo risentito con che il poeta pagano
+s'introduce nell'orribile narrazione:
+
+     Dira canam; procul hinc natae, procul este parentes.
+     Aut mea si vestras mulcebunt carmina mentes, 
+     Desit in hac mihi parte fides, nec credite factum;
+     Vel si credetis, facti quoque credite poenam.
+     Si tamen admissum sinit hoc natura videri, 
+     Gentibus Ismariis, et nostro gratulor orbi;
+     Gratulor huic terrae, quod abest regionibus illis, 
+     Quae tantum genuere nefas.
+
+Mirra, figliuola di Cinira, re di Cipro, s'invagh@i del padre;
+aiutata dalla perfida nutrice e dalle tenebre, pot@e farsi credere
+altra; e dall'incestuoso commercio nacque Adone.  Cinira, 
+conosciuto l'inganno, voleva uccider la figlia, la quale fuggendo
+in Arabia fu convertita in una pianta.  A Mirra paragona il
+nostro Autore Firenze, perch@e, secondo lui, anzich@e cercare
+legittime nozze coll'Imperatore, ardeva politicamente
+d'incestuoso amore pel Papa, sforzandosi di farlo nemico
+all'Imperatore; onde ad Enrico VII scriveva (^Epist.~, VII, 7):
+^Haec Myrra scelesta et impia in Cinyrae patris amplexus
+exaestuans.~..  ^Vere in paternos ardet ipsa concubitus dum
+improba procacitate conatur summi Pontificis, qui Pater est
+patrum, adversus te violare adsensum.~  -- |Fuor del dritto
+amore~, oltre ai limiti concessi dall'onesto amore, contro le
+leggi dell'amore leggitimo.  -- |Amica~, amante, concubina.
+
+	|40-45.~  Notati dall'Alfieri.  |Cos@i~, nella seguente
+maniera.  -- |Fasificando s@e~ ecc.; per le astuzie della nutrice
+e col favor della notte facendosi credere altra femmina.  Ovidio
+(^Met.~, X, 439), parlando della mezzana nutrice:
+
+     Nomine mentito veros exponit amores.
+
+E Dante, ^Vit. N.~, {Paragraph.} 14: <Ond'io (^per l'impeto e la
+passione d'amore~) mi cangio in figura d'altrui.>  Mirra, osserva
+il Tommaseo, falsifica s@e in altri; Gianni Schicchi, fiorentino, 
+altri in s@e.  Dante altrove accusa di falso i suoi Fiorentini
+marchiando ^que' che arrossan per lo staio~ (^Par.~, XVI, 105;
+cf. ^Purg.~, XII, 105), cio@e che falsificarono le misure
+pubbliche, e alludendo amaramente a' tempi antichi, che era
+sicuro il ^quaderno e la doga~ (^Purg.~, XII, 105).  Quel
+^falsificar s@e~, nota il Cesari, @e verbo di grande efficacia e
+bellezza, e che solo scusa molte parole ed idee.  Pare che per
+Dante la colpa di Mirra, pi@u che nell'incestuoso amore, stia
+nella mentita persona; infatti, se tal peccato da madre a figlio
+@e altrove punito col minor grado di pena, che siavi all'Inferno
+(^Inf.~, V, 52-60); e peccato eguale da figlia a padre @e punito
+tanto pi@u gravemente, altro non resta che ammettere che la
+maggior colpa derivasse dall'aver Mirra falsato s@e |in altrui
+forma~, il che non fu di Semiramide.  -- |L'altro~; l'altro
+folletto, viene a dire Gianni Schicchi.  -- |Sostenne~: si prese
+l'impegno di falsificare ecc.  Il Cesari: <Questo |sostenne~ mi
+pare usato qui assai propriamente, ^pat@i di falsificare~, ecc., 
+il che noi diciamo di chi si lascia da passione strascinare a far
+cosa disonorata e laida, come era questa; egli @e modo latino;
+Cornelio Nepote, in ^Cimone~, cap. 1: ^Negavit se passurum, 
+Miltiadis progeniem in vinculis intem ire.~>  Cf. ^Par.~, XX, 
+124.  -- |Per guadagnar~ ecc.; per guadagnare la mula di Buoso, 
+^la migliore di Toscana~, come la chiama l'Anon. Fior.; o la
+cavalla, come intendono altri, |donna della torma~, regina
+dell'armento (^domina tormae aliarum equarum~, chiosa Pietro), 
+perch@e, dicon le Chiose, ^era delle belle del mondo, e quella che
+faceva i pi@u begli pulledri.~  Forse |donna~ accenna al nome, che
+Buoso le aveva imposto, di ^modonna Tonina~, come afferma
+l'antico commento pubblicato dal Vernon.  Ma forse, come Virgilio
+disse il capro ^vir gregis~, e Orazio ^olentis uxores mariti~ le
+capre, qui donna vorrebbe dire la cavalla fra tutte quelle del
+branco che, come la pi@u bella, era riservata a figliare; e cos@i
+avrebbe senso pi@u determinato l'espressione allegata delle
+Chiose.  -- |Torma~ (dal lat. ^turma~), branco, armento, 
+drappello (cf. ^Inf.~, XVI, 5).  -- |Falsificare in s@e~ ecc., 
+prendendo falsamente le sembianze e la voce di Buoso.  Mirra
+trasmut@o s@e per s@e, per farsi credere un'altra; lo Schicchi
+trasmut@o in s@e le sembianze di Buoso, facendosi creder lui; onde
+il ^falsificare~ prende un doppio atto.  -- |Testando~; facendo
+testamento in persona di Buoso.  -- |Dando.~.. |norma~, 
+osservando tutte le formalit@a volute dalla legge perch@e il
+testamento non venisse invalidato; il che, in altre parole, vuol
+dire che lo Schicchi seppe si bene farsi creder Buoso, che il
+notaio, non avvedendosi dell'inganno, rog@o il testamento come
+ultima volont@a di Buoso e nelle forme prescritte.  Pier di Dante, 
+toccando dell'inganno dello Schicchi, afferma che egli e Simone
+Donati, nipote di Buoso, soffocarono Buoso ch'era infermo; e il
+simile dice il Postill. Cass., recandosi i due malandrini da
+Buoso sotto apparenza di fargli visita (^sub actu visitandi
+eum~).  Ma non pare presumibile che Dante, se vera, non avesse
+fatto cenno di circostanza cos@i aggravante, non toccata dagli
+altri chiosatori.
+
+	|46-48.~  Notati dall'Alfieri.  |I due rabbiosi~, Gianni
+Schicchi e Mirra.  -- |Malnati~, malvagi, dannati in quella
+bolgia (cf. ^Inf.~, V, 7; XVI, 11, 76).  Il Bargigi legge
+^ammalati.~
+
+	|49-51.~  L'Alfieri nota il primo.  E siamo alla terza
+specie di falsatori, i falsatori di moneta che hanno per pena
+l'idropisia; e or viene, scrive il Cesari, una delle pi@u notabili
+pitture di tutta questa Commedia.  |Io vidi~ ecc.; quel
+disgraziato avendo la faccia e il collo scarni e grosso assai il
+ventre, avrebbe presentato l'immagine d'un liuto, se (|pur che~)
+avesse avuto tronca la parte del corpo, ch'@e dall'anguinaia in
+gi@u.  -- |Fatto~ ecc.. formato come ecc.  -- |Liuto~, strumento
+musicale; il liuto ha la cassa sonora, dice il Bianchi, costrutta
+in modo che s'assomiglia a una grossa pancia; onde, se a quel
+dannato fossero state tagliate le cosce, la sua testa e il collo
+avrebbero preso la somiglianza del manico del liuto, e il ventre
+rigonfio quella della cassa sonora.  -- |Anguinaia~; quella parte
+del corpo umano, chiosa il Lombardi, che @e tra la coscia e il
+ventre allato alle parti vergognose.  -- |Tronca~, troncata (cf.
+^Inf.~, XX, 51; XXVIII, 65 e 121; ^Purg.~, VIII, 27).  --
+|Forcuto~ (cf. ^Inf.~, XXV, 134), dove comincia la forcata (cf.
+^Inf.~, XIV, 108).  Chi fosse costui, lo sapremo pi@u sotto (v.
+61).
+
+	|52-57.~  Trascritti dall'Alfieri.  L'idropisia gravosa, 
+la quale con l'umore mutato in acqua marcia (cf. v. 122), 
+disproporziona le membra in modo, che la magrezza del volto non
+risponde all'enorme gonfiezza del ventre ecc.  -- |Grave
+idropisia~ (^idropis@i~ legge il Cod. Vat. 3199), pesante, che
+rende tardi i movimenti dell'uomo.  L'Ottimo: <La idropisia nasce
+da mala digestione, sicch@e gli umori indigesti che si spandono, 
+enfiano cos@i le carni e la buccia: e questo pone l'autore per
+allegoria, che siccome il soperchio da ventuno carati, che il
+maestro Adamo mettea di fino oro, di qui alla fine del giusto
+fiorino, @e metallo infermo e male digesto; cos@i in parte di
+costui appare omore mal digesto e infermo.>  -- |S@i dispaia~, fa
+disuguali le membra tra loro, queste dimagrando, quelle gonfiando
+(^dispaiare~, di persone o cose l'una opposta all'altra, cf.
+^Inf.~, VII, 45).  -- |L'umor~ ecc. (cf. v. 122); il Tommaseo ha
+questa citazione (n@e mi riusc@i di ritrovare nella ^Somma~ il
+luogo preciso): <^Somm.~: ^Privatio debitae commensurationis
+humorum est de ratione speciei aegritudinis.~  E da un lavoro del
+celebre medico Veneziano Mich. Asson lo Scartazzini allega questo
+tratto: <Descrive (^il Poeta~) con tale veracit@a l'idrope
+ascitico, che ne disgrada un'opera nosologica o medica; e segna
+l'enorme gonfiezza del ventre, che fa contrasto col viso smagrito
+e arido, l'umore mal convertito, cio@e la linfa non elaborata che
+la produce, la gravezza delle membra, la sete ardente ed
+inestinguibile, e l'ansia respirazione, che fanno tenere
+all'infermo come all'etico aperte le labbra per bevere l'aria, 
+che rinfreschi e ristori le ardenti sue fauci.>  -- |Converte~;
+assimila, dice il Tommaseo, o rivolge a luoghi dove non dovrebbe. 
+Il Bargigi legge: ^l'umor che il mal converte~; e spiega: ^l'umor
+causato dal male.~  -- |Il viso~ ecc.; la faccia dimagrita non ha
+pi@u la debita rispondenza o proporzione col ventre gonfiato.  --
+|Ventraia~, ventre; ma la voce ha quasi suono di sprezzo, come
+sarebbe ^ventraccia.~  -- |Faceva lui~, a lui, o anche caso
+quarto dipendente dall'infinito |tener.~  -- |Le labbra aperte~, 
+per meglio respirare.  -- |Come l'etico~ ecc.; il Poeta, nota L.
+Venturi, qui mostra l'atto che, per ragioni morbose differenti
+apparisce lo stesso nell'etico e nell'idropico; rapidamente lo
+lumeggia nel rovesciar ch'essi fanno in senso opposto le labbra;
+e il Cesari esclama: <E tutto desso il ritratto: e dilettaci
+tanto questa pittura, perch@e mostraci l'atto che pi@u risalta e
+ferisce gli occhi nell'etico e nell'idropico; e coglie la natura
+in quel momento, nel quale si mostra pi@u viva.>  -- |Per la
+sete~; perch@e, come osserv@o il Lombardi, la febbre etica @e dai
+medici definita ^intemperies calida, et sicca totius corporis.~ 
+Questi falsari ebbero in vita sete insaziabile di beni materiali, 
+desiderii smodati di ricchezze, a ottener le quali ricorsero sino
+a ^falsare il conio~ (v. 115), sperando vanamente da quelle la
+pace, la felicit@a; e quella sete d'averi, e quel gonfiamento
+volontario di desiderii @e lor dato qui per pena sempiterna.  Nel
+^Conv.~, IV, 12, il nostro Autore: <Le ricchezze pericolosamente
+nel loro accrescimento sono imperfette; ch@e, sommettendo ci@o che
+promettono, apportano il contrario.  Promettono le false
+traditrici sempre, in certo numero adunate, rendere il raunatore
+pieno d'ogni appagamento; e con questa promessione conducono
+l'umana volont@a a vizio d'avarizia.  E per questo le chiama
+Boezio, in quello ^di Consolazione~, pericolose, dicendo: Ohime!
+chi fu quel primo che li pesi dell'oro coperto, e le pietre che
+si volevano ascondere, ^preziosi pericoli~ cav@o?  Promettono le
+false traditrici, se ben si guarda, di t#orre ogni sete e ogni
+mancanza, e apportar saziamento e bastanza.  E questo fanno nel
+principio a ciascuno uomo, questa promissione in certa qualit@a di
+loro accrescimento affermando; e poi che quivi sono adunate, in
+loco di ^saziamento~ e di refrigerio, danno e recano sete di esse
+con febbre intollerabile: e in loco di ^bastanza~, recano nuovo
+termine, cio@e maggior quantit@a al desiderio; e con questo ^paura~
+e ^sollecitudine~ grande sopra l'acquisto.>  E per questo la
+^maledetta Lupa~ c'@e dal Poeta dipinta ^carca di tutte brame
+nella sua magrezza~ (^Inf.~, I, 49-50), e d'^una fame senza fine
+cupa~ (^Purg.~, XX, 12), perch@e tali beni ne nutriscono, ne danno
+saziamento.  Cf. v. 99.  -- |L'un~ ecc.; cio@e l'un labbro... |e
+l'altro~ labbro.  -- |Riverte~, rivolta, ripiega; il Cesari: <Qui
+il |riverte~ ha grande evidenza: qui @e quel rimboccarsi quasi, e
+rovesciarsi che fa il labbro superiore verso il naso, tenendo
+aperta la bocca assai: ed @e proprio il ^repandus~ latino, detto
+di cosa aperta all'ins@u, come le foglie del giglio.>  Il Bargigi:
+<De' falsificatori di moneta ... descrive l'autore la pena, 
+fingendoli essere idropici enfiati nel ventre, languidi e
+sitibondi, a denotare di che qualit@a diventa il corpo, ed in
+quanta agonia giace l'animo di coloro, che fabbricano falsa
+moneta, conciossiach@e, per continuamente stare ascosti in luogo
+secreto circa la loro fucina, molto in loro si moltiplicano gli
+umori corrotti, onde diventano sozzi, e quasi gonfi a modo
+d'idropici.  Crucciano ancora l'animo di sete, tanto pi@u
+sitibondi sempre di falsificare, e per tal modo guadagnare, 
+quanto pi@u procedono in tale operazione, secondo che lo idropico, 
+quanto pi@u moltiplica in umore, tanto pi@u secca di sete.>
+
+	|58-61.  O voi~ ecc.; da queste parole si fa palese che
+il dannato non avesse inteso la risposta che pi@u addietro
+Virgilio aveva dato a Griffolino (^Inf.~, XXIX, 94 e segg.), 
+perch@e in tal caso non poteva ignorare |perch@e~ i due Poeti
+fossero senza |alcuna pena~, posto che l'uno era ancor vivo e che
+per l'Inferno non era che di passaggio sotto la scorta
+dell'altro.  -- |Mondo gramo~, mondo del dolore (altrove ^la
+valle dolorosa~, la ^citt@a dolente~, le ^dolenti case~), 
+l'Inferno; e |gramo~ per ^doloroso, misero, triste~ ci occorse
+pi@u volte (^Inf.~, I, 51; XV, 109; XXVII, 15; cf. ^Purg.~, XXII, 
+42).  Cf. ^Dizionario Dantesco~, artic. Tristo, {Paragraph.} II. 
+-- |Guardate~ ecc.; cf. ^Inf.~, XXVIII, 132, nel commento. 
+^Attendere~, per ^osservare attentamente~ una cosa; ora, come
+qui, col dativo (^Inf.~, XXIX, 14); ora, coll'accusativo (^Inf.~, 
+XIX, 122-123; ^Purg.~, X, 109); altre volte, per contrario, con
+un avverbio, che dell'accusativo fa le veci (^Inf.~, X, 129;
+XXII, 39; ^Par.~, XXVII, 77).  -- |Miseria~ (cf. v. 122);
+miserabile condizione, stato di pena (cf. ^Inf.~, II, 92; V, 123;
+XVI, 28; XXIV, 134); e ^stato di miseria~ chiama la condizione
+del peccatore (^Epist.~, X, 5); e |miseria~ l'abbruttita passione
+di Mida (^Purg.~, XX, 106): e Giobbe (X, 22) dice l'inferno
+^terram miseriae et tenebrarum.~  Cf. ^Dizionario Dantesco~, 
+artic. Miseria, ^{Part.}.~ II.  -- |Adamo~; per suggestione de'
+conti Guidi di Romena, fals@o il fiorino d'oro di Firenze (cf. v.
+74).  ^L'Anon. Fior.~: <Erano allora et d'attorno in quello paese
+tre fratelli, il conte Aghinolfo, il conte Guido et il conte
+Alessandro; il maestro Adamo riduttosi con loro, costoro il
+misono in sul salto et feciongli battere fiorini sotto il conio
+del comune di Firenze ch'erono buoni di peso ma non di lega; per@o
+ch'egli erano di 21 carati, dove elli debbono essere di 24; s@i
+che tre carati v'avea dentro di rame o d'altro metallo...  Di
+questi fiorini se ne spesono assai; ora nel fine venendo un d@i il
+maestro Adamo a Firenze, spendendo di questi fiorini, furono
+conosciuti esser falsati; fu preso, et ivi fu arso> (ci@o accadde
+del 1281); e il Troya nel suo ^Veltro~ afferma, che tale arsione
+fu fatta sulla via che da Firenze conduce a Romena (cf. v. 75). 
+Tutti i chiosatori fanno costui di ^Brescia~; per@o il chiaro e
+dotto Cassinese D. Gregorio Palmieri in quel volume ^Introiti ed
+Esiti di Papa Nicol@o III~ (1279-1280), ^antichissimo documento di
+lingua italiana, tratto dall'Archivio Vaticano~ (Roma, ^Tip.
+Vat.~, 1889), afferma che trov@o un atto notarile, fatto a Bologna
+il 28 Ottobre 1277), nel quale fra i testimoni @e ^Maestro Adamo~, 
+famigliare dei conti Guidi di Romena, ^de Anglia~; dunque non
+Bresciano, ma sarebbe Inglese.  Il Palmieri congettura che
+potesse essere di Brest (lat. ^Brestia~) allora soggetta al re
+d'Inghilterra, e ch'egli quindi sia Francese.  Veggasi la ^Nota~
+in fine del Canto.
+
+	|62-63.~  Notati dall'Alfieri.  |Ebbi.~.. |di quel~ ecc.;
+nell'altro mondo ebbi tutto quello che mi veniva in talento.  --
+|Un gocciol d'acqua~ ecc.; e ora sospiro invano una goccia
+d'acqua: @e terribile: e ricorda la parabola evangelica (^Luc.~, 
+XVI, 23-24) del ricco Epulone nell'inferno: ^Cum esset in
+tormentis~ ... ^clamans dixit: Pater Abraham, miserere mei, et
+mitte Lazarum ut intingat extremum digiti sui in aquam~) proprio
+per trarne non pi@u che una sola goccia), ^ut refrigeret linguam
+meam quia crucior in hac flamma.~
+
+	|64-69.~  Notati dall'Alfieri.  Della prima terzina il
+Cesari: <Quanto a me, io vedo il verde rigolio e il rezzo di
+quelle ridenti colline; e sento la frescura e la gelidezza di
+que' ruscelletti, e di quei rugiadosi e freddi canali, e il
+cascare che fanno in Arno; e me ne sento quasi un brivido per la
+persona.>  Il dannato, vinto da orribile sete, ripensa
+naturalmente alle fresche acque de' ruscelli del Casentino, dove
+egli esercit@o quella falsit@a, che gli fu cagione di tanta pena.
+Il Pallavicino (^Perfez. Crist.~, 1, 3): ^Il malato rallegrasi
+nell'immaginare fontane e ruscelli quantunque sappia che quegli
+immaginati liquori non ammorzeranno in lui l'ardor della sete.~ 
+Il Boccaccio (nella giorn. VIII, nov. 7): ^Vedeva Arno, il quale, 
+porgendole desiderio delle sue acque, non scemava la sete, ma
+l'accresceva.  Vedeva ancora in pi@u luoghi boschi e ombre e case, 
+le quali tutte similmente l'erano angoscia desiderando.~  E il
+Tasso (^Ger. lib.~, XIII, 60):
+
+     Che l'immagine lor gelida e molle
+     L'asciuga e scalda, e nel pensier ribolle.
+
+-- |Casentino~ (cf. ^Purg.~, V, 94); territorio nel Valdarno di
+sopra, nell'Apennino, fra l'Arno e il torrente Duccaria sino al
+confine del territorio d'Arezzo.  -- |Canali~, gli alvei pei
+quali l'acque discorrono.  -- |Freddi e molli~; |freddi~ per
+freschi; Virgilio (^Buc.~, X, 42):
+
+     Hic gelidi fontes, hic mollia prata, Lycori.
+
+Cf. ^Purg.~, XXVIII, 1-27.  -- |Mi stanno innanzi~, al pensiero, 
+al desiderio.  -- |Non indarno~; anzi per alta legge di
+Provvidenza, che quindi trae ragione di maggior supplizio.  --
+|M'asciuga~, m'accresce la sete, mi strugge, mi d@a maggiore
+tormento.  -- |Il male~, l'idropisia, per cagion della quale mi
+dimagro nella faccia.  Fa ricordare l'osservazione di Francesca
+(^Inf.~, V, 121-122).  Il misero dannato rassomiglia in ci@o a
+Tantalo; e non @e tormento pi@u terribile di questo.  Chi bene
+attenda, trover@a qui mirabile riscontro in ci@o che altrove il
+Poeta ne racconta de' penanti della sesta Cornice (^Purg.~, 
+XXIII, 34-39).
+
+	|70-72.  Rigida~, severa, che non si lascia piegare.  --
+|Mi fruga~, mi stimola, mi incalza e punisce (cf. ^Purg.~, III, 
+3).  Il Monti (^Bassvill.~): ^la Giustizia di Dio fruga ogni labe
+dell'alma.~  Nel ^Purg.~, XIV, 39, ^frugare~ (metaf.) per
+spronare, dare la spinta, eccitare; cf. ivi, XV, 137, ^frugare i
+pigri~; e XVIII, 4, ^la sete del vero fruga la mente.~  --
+|Tragge cagioni~; prende argomento, si vale del luogo dov'io
+peccai, tenendomelo sempre fisso dinanzi.  -- |Luogo~; il
+Casentino (v. 65).  Nella ^Sapienza~ (XI, 17): ^Per quae peccat
+quis, per haec et torquetur.~  -- |A metter~ ecc., a farmi
+sospirar pi@u spesso, a farmi mandar fuori ardenti sospiri con
+tanta continuit@a, che l'uno pare che incalzi, metta in fuga e
+persegua l'altro.  Il Cesari: <^Mettere in fuga i sospiri~, cio@e
+^affollarli, incalzarli~, finch@e ^si sfoghi l'affollar del
+casso~, avea detto in senso assai somigliante (cf. ^Purg.~, XXIV, 
+72)...  E quel ^trarre cagione~! cio@e, tira l'immagine di quel
+luogo, dove peccai, al doloroso servizio di farmi sospirar pi@u
+calcato, rinfiammando la sete mia.>
+
+	|73-75.  Ivi~, nel Casentino, ^il luogo ov'io peccai~ (v.
+71).  -- |Romena~; castello del Casentino, oggi distrutto, che ai
+tempi del Poeta era propriet@a dei conti Guidi di Modigliana, del
+qual ramo de' Guidi (cf. ^Par.~, XVI, 98) fu capo Aghinolfo I, 
+figliuolo di Guidoguerra (^Inf.~, XVI, 37).  Altro ramo de' Conti
+Guidi, cugini di questi, erano i Conti di Porciano, che altrove
+il Poeta chiama ^porci~ (cf. ^Purg.~, XIV, 43).  L'Amp@ere, nel
+suo ^Viaggio Dantesco~: <Esiste (^in Valdarno~) la torre di
+Romena, dove un Bresciano, nominato Maestro Adamo, falsific@o i
+fiorini della Republica, ad istigazione dei Conti di Romena, e fu
+arso vivo in un luogo, che, a ricordarne l'avvenimento si appella
+tuttora ^La Consuma.~  Ogni passeggiero era solito gettarvi su
+una pietra.  La mia guida conosceva il ^Monticello del Morto~, ma
+ignorava la storia.>  ^Il monticello del morto~ (accennato anche
+dal Troya), pel modo onde fu formato fa risovvenire ^la grave
+mora~, della quale parla Manfredi (^Purg.~, III, 129).  -- |La
+lega~; propriamente |lega~ @e quella piccola mescolanza di rame od
+altro ignobile metallo o mistura minerale, permessa e
+riconosciuta per legge, che si fonde coll'oro o coll'argento, per
+dare alle moneta una maggiore consistenza (cf. v. 61, nel
+commento); qui dunque si parla della |lega~ riconosciuta
+legittima, o, come dice il Buti, ^lo fiorino fatto a lega
+giusta.~  -- |Suggellata~; alcuni intendono ^lega che era
+improntata dell'immagine del Battista~; meglio e pi@u chiaro il
+Poggiali: <Qui maestro Adamo per sineddoche prende la voce |lega~
+per tutto il composto del fiorino; cos@i che |lega suggellata~ @e
+lo stesso che ^oro monetato~;> ^onde falsare la lega suggellata
+del Battista~, @e quanto a dire falsare il fiorino di Firenze; e
+questa frase, @e chiaro, ha l'identico significato dell'altra (v.
+115)), ^falsare il conio~; la quale, a sua volta, risponde a
+capello a questa, ^mal aggiustare il conio~ (^Par.~, XIX, 141), 
+che ci fa vedere che simili falsatori a quel tempo non eran solo
+a Romena, n@e tutti della semplice qualit@a civile di questo
+^Maestro Adamo~ {v.61}.  -- |Battista~; protettore di Firenze
+(cf. ^Inf.~, XIII, 143); il fiorino d'oro di Firenze aveva da un
+lato l'immagine di S. Giovanni Battista (cf. ^Par.~, XVIII, 133), 
+e dall'altro un giglio (cf. ^Par.~, IX, 130), e fu la prima volta
+battuto nel 1252 (cf. Villani, ^Cron.~, VI, 53).  L'immagine di
+S. Giovanni nelle monete di Firenze si conserv@o fino al Duca
+Alessandro de' Medici, quando il Cellini vi sostitu@i l'immagine
+de' Santi Cosma e Damiano, dapprima nelle monete ^d'argento di
+quaranta soldi~ (Cellini, ^Vita~, I, 80); il quale mutamento
+costituiva uno de' capi d'accusa de' fuorisciti Fiorentini contro
+il Duca Alessandro.  -- |Perch'io~ ecc.; per la qual cagione, per
+aver falsato il fiorino (cf. v. 61, nel commento.)  -- |Suso~;
+nel mondo (cf. ^Inf.~, XIII, 54; XX, 61).
+
+	|76-78.~  Notati dall'Alfieri.  Concetto di vendetta e
+d'odio profondo; e vuol dire: S'io potessi veder meco in questi
+tormenti que' tre fratelli, che mi indussero a tal peccato, tanto
+@e il piacere ch'io ne piglierei, che, assetatissimo come sono, 
+non darei quella vista per tutte l'acque di fonte Branda.  Questo
+concetto, osserva il Cesari, supera ogni sforzo di mente; e tutto
+ci@o in un sol verso! concetto e verso, che danno la misura
+dell'odio infernale, che divorava quell'anima.  -- |Vedessi qui~
+ecc.; ogni parola spira vendetta, odio, scusa propria e diabolico
+augurio (cf. v. 88); cos@i per diverso modo, Francesca (^Inf.~, V, 
+107), Guido da Montefeltro (^Inf.~, XXVII, 70), e Jacopo
+Rusticucci (^Inf.~, XVI, 45), e anco conte Ugolino (^Inf.~, XXX, 
+15 e segg.); tutti si scusano, tutti incolpano altri come cagione
+di lor sciagure, tutti, pi@u o men chiaramente, invocano l'inferno
+alla creduta cagione dell'inferno loro.  -- |Guido~ ecc.; secondo
+l'opinione pi@u accreditata questi tre fratelli sarebbero Guido
+II, Alessandro e Aghinolfo II, figliuoli del conte Guido I
+d'Aghinolfo I.  Dalle parole del Poeta (v. 79) non resta dubbio
+di sorta, che due di questi tre nella primavera del 1300 erano
+ancor vivi; ma chi fosse il morto, non @e facile dire con
+certezza; l'Ottimo dice Guido II: Benvenuto e l'Anom. Fior.
+tengono invece che fosse Alessandro; mentre il Troya sostiene che
+era Aghinolfo, morto al principio del 1300.  Il Tommaseo, che, 
+seguendo l'Ottimo, intende che il morto de' tre fratelli sia
+Guido, non si capisce che voglia poi dire quando scrive: <Insieme
+con Guido Dante aveva combattuto per rientrare in Firenze; poi la
+sua dappocaggine gli aveva reso immagine di tradimento.>  Ma se
+Guido, giusta il Tommaseo, era gi@a mort@o nel 1300, come mai
+l'esule Poeta poteva combattere insieme con lui?  Per una di
+quelle facili sviste, che possono accadere anche agli uomini pi@u
+dotti, si pu@o credere che il Tommaseo abbia confuso qui Guido con
+Alessandro, del quale tocco qui appresso.  Il ^Filatete~ (che sta
+per l'anima di Guido o d'Alessandro) afferma che Aghinolfo visse
+sino al 1340; ma lo Scartazzini, allegando il Troya gli oppone, 
+che quell'Aghinolfo, che fece testamento nel 1338 non era il
+^fratello~ ma il ^figlio~ di Guido.  E in quanto ad Alessandro, 
+si pu@o proprio assolutamente negare ogni autenticit@a
+all'^Epistola~, a Dante attribuita, a Oberto e Guido di Romena, 
+nepoti d'Alessandro?  E allora come farlo morto prima dell'epoca
+della Visione?  E l'altro Alessandro, ch'era vivo nel 1316?  Ma
+di quale Alessandro si parla qui?  Il Todeschini, non avvert@i che
+due furono gli Alessandri di Romena; l'uno, come not@o il Troya
+(^Veltro~ ecc.), amico di Dante (e in nome del quale, capitano
+de' fuorusciti Bianchi, fu scritta l'^Epistola~ al Card. da
+Prato, da molti attribuita a Dante), mor@i nel 1305; l'altro
+aspettato da maestro Adamo in Inferno viveva nel 1316 (-- cf. Del
+Lungo, ^Cron.~, II, 593 --), ed era marito di Caterina Fantolini, 
+figliuola d'Ugolino, molto lodato nella Cantica del ^Purgatorio~, 
+XIV, 121.  Ond'@e che il Todeschini, non vedendo modo di
+conciliare il biasimo, che qui @e manifesto, colle lodi che ivi fa
+del morto amico scrivendone ai nipoti di lui Guido ed Oberto
+(^Epist.~, II), giudic@o tale ^Epistola~ un documento apocrifo. 
+Ma, a buon conto, che Dante abbia scritto proprio per celia che
+^poesis nihil aliud est, quam fictio rhetorica, in musica
+posita~?  (^Vulg. El.~, II, 4).  E perch@e se in quell'Epistola
+esprime candido il sentimento suo sulle virt@u del morto amico, 
+non poteva nel Poema raccogliere la popolare leggenda?  E che
+fece altro, se non raccogliere una simile finzione, o leggenda
+popolare intorno a Guido da Montefeltro?  E se di lui con tanta
+lode e rispetto parla nel ^Convito~, perch@e mai una buona volta
+non s'avr@a il coraggio, con tal sistema di critica, di proclamare
+che Dante non @e l'autor del ^Convito~? la logica ha i suoi
+diritti; riconoscerli a met@a, non @e serio.  -- |Fonte Branda~
+(cf. vv. 76-78, nel commento): molto s'@e scritto dai moderni su
+ci@o; i pi@u antichi chiosatori pensarono che il Poeta accenni alla
+celeberrima e copiosa fonte di tal nome, ch'@e in Siena; ma se da
+antichi documenti c'@e affermata l'esistenza d'una fonte di tal
+nome, presso il castello di Romena; se badiamo che il Poeta fu a
+Romena ospite di que' signori ne' primi anni del suo esiglio; se
+teniamo conto della persona che parla, la quale prima accenna
+sospirosa ai ruscelli freschi del Casentino, parmi che tutto
+convenga per poter affermare coll'Amp@ere, che la <Fonte Branda, 
+nominata da Adamo, @e certamente quella fontana del medesimo nome, 
+che scorre tuttora non lungi dalla torre di Romena, fra il luogo
+del delitto e quello del supplizio.
+
+	|79-81.~  Notati dall'Alfieri.  Il dannato nello sfogo
+dell'odio, che lo invade, non s'arresta.  |Dentro~, in questa
+bolgia, qui (v. 76).  -- |L'una~, delle anime triste de' tre
+fratelli (v. 76), cio@e quella d'Aghinolfo (cf. pi@u sopra).  --
+|Arrabbiate ombre~ ecc.; non credo doversi intendere soltanto di
+Gianni Schicchi e di Mirra, ma di tutti i falsificatori di
+persone trasmutati in folletti rabbiosi.  -- |Ma che mi val~; che
+mi giova, che mi fa (cf. ^Inf.~, XVIII, 47; XXII, 127; ^Purg.~, 
+VI, 88, ed altrove); in altra parole: il saper ch'uno di que' tre
+@e gi@a qui dannato, mi consola; ma quanto al poterlo vedere ecc. 
+-- |Le membra legate~ (cf. ^Inf.~, XXIV, 114), non libere (cf.
+^Purg.~, IV, 12), impedite ne' loro movimenti per la grave
+idropisia.  Non tutte per@o le |membra~ eran |legate~ (cf. v. 102
+e 108).
+
+	|82-87.~  Notati dell'Alfieri, tranne l'ultimo.  Il
+nostro Autore, che ne insegna che a far pi@u colpo il valente
+oratore (^Purg.~, XXX, 72)
+
+     il pi@u caldo parlar dietro riserva
+
+(e nel ^Conv.~, II, 9, ^sempre quello, che massimamente dire
+intende lo dicitore si dee riservare di dietro; perocch@e quello, 
+che ultimamente si dice, pi@u rimane nell'animo dell'uditore~), fa
+che quest'ultime parole sieno come il tocco supremo, l'estremo
+dell'intensione, l'espressione pi@u viva dell'odio di quest'anima. 
+-- |Di tanto~; per vezzo di lingua, in luogo di ^tanto, cos@i~ (e
+non come stranamente interpreta il Biagioli ^ancor leggiero per
+scorrere lo spazio di tanto cammino~).  -- |Leggiero~; spedito, 
+agile (cf. ^Inf.~, V, 75).  -- |Oncia~; misura piccola tra le
+misure, dice il Bargigi: se trattasi di misura, com'@e qui, ell'@e
+la dodicesima parte d'un braccio o piede; se di peso, @e la
+dodicesima d'una libbra; qui, per indicare spazio cortissimo; e
+spazio s@i minimo, e pure in cent'anni, ha del terribile a
+mostrare l'odio del dannato, quando si ripensi quanti milioni di
+secoli sarebbero stati duopo a percorre l'intiera bolgia di
+undici miglia; perci@o ha ragione il Cesari di esclamare: <Qual
+altro poeta arriv@o al segno di cos@i rafforzato concetto e sfogo
+di rabbia?>  -- |Mi sarei messo~ ecc.; ^mettersi per~, @e quanto
+cominciare il viaggio (cf. ^Inf.~, IV, 23, ; XIII, 2; XXVI, 100 e
+109; ^Purg.~, I, 63; XXVII, 46).  -- |Lui~, l'anima d'uno de' tre
+fratelli, che gi@a era in quella bolgia (v. 79).  -- |Sconcia~;
+^concio~, dal lat. ^concinnatus~, vale acconcio, conciato; quindi
+^sconcio~, disformato, sconciato dalla idropisia.  -- |Con tutto
+che~; nonostante, avvegnach@e (cf. ^Inf.~, XXVII, 11), come
+l'altra frase |tutto che~ (^Inf.~, VI, 109; XIV, 125; XV, 11, e
+altrove).  -- |Ella~; tutti spiegano quest'|ella~ riferito a
+^bolgia~, tranne il Cesari e lo Scartazzini; e a me par
+giustissima la loro opinione; il Cesari: <|E la gente sconcia~, 
+che |volge~; di sopra al C. XXIX, 9, avea detto che ^la valle
+volgea~; @e da notare uso di questo verbo.>  Infatti, in tutto il
+Canto sino a questo verso non si legge mai n@e ^bolgia~, n@e
+^valle~, n@e altro nome femminino, risguardante la bolgia, al
+quale quest'|ella~ si possa per verun modo riferire; ma dicono
+che @e indicata nel gesto del parlante; nel gesto? ma donde
+apparisce tale gesto? perch@e adunque si vorr@a riferire il pronome
+alla bolgia, e non ^agente~, che le @e tanto vicino?  D'altra
+parte, ^volgersi~ per significare movimento circolare di corpi @e
+nel Poema (cf. ^Par.~, I, 123; IX, 34; XII, 4 e 20); soprach@e, 
+non @e punto mestieri, contro la ragione grammaticale e
+sintattica, riferir quest'|ella~ a nome che non c'@e, per trovare
+la misura della bolgia, dappoich@e risponde egregiamente lo
+Scartazzini: <se |la gente sconcia~ si muove in giro per undici
+miglia, ne deriva l'inevitabile conseguenza che la bolgia ha un
+circuito di undici miglia.>  Cf. v. seg.  -- |Undici miglia~;
+dunque la met@a di circuito di quello della precedente (cf.
+^Inf.~, XXIX, 9).  -- |E men d'un mezzo~ ecc.; e non v'@e alcun
+punto nel fondo tra ripa e ripa, nel quale la larghezza sia
+minore d'un mezzo miglio.  La Crusca, seguendo l'Aldina, lesse ^e
+pi@u~, quantunque la Nidob. e l'ediz. di Foligno, insieme ad una
+trentina di Codd. veduti dagli Accademici, abbiano |e men~; ma
+tale lez. non fu seguita dai quattro Fior. nell'ediz. del 1837; e
+bene, perch@e @e chiaro che Adamo vuole, nella sua condizione
+d'immobilit@a, esagerare la difficolt@a di ricercare il dannato
+nemico e per la lunghezza della bolgia, e anche per la sua
+larghezza, |traverso~, notando perci@o il |meno~ della medesima, 
+come osserva lo Scartazzini.  -- |Di traverso~; potrebbe essere, 
+a parer mio, sostantivo, in senso di traversata, come abbiamo
+^lungo~ per ^lunghezza~ (^Purg.~, IX, 99), e ^largo~ in senso di
+^larghezza~ (^Inf.~, XIX, 15); ma se, perch@e di tal forma cos@i
+intesa in Dante non abbiamo esempi a qualcuno la spiegazione
+paresse stridere pi@u che non paia a me, la frase |di traverso~
+puossi prendere invece dell'altra ^per traverso~ (^Purg.~, IX, 
+99).  -- |Non ci ha~; tolto ai due monosillabi |ci~ e |ha~
+l'accento fonico, l'accento si riporta sul monosillabo
+precedente, pronunciando d'un sol fiato come fosse ^noncia~ (cf.
+^Inf.~, VII, 28).  Ma la frase |non ci ha~ mi conferma che la
+forma |ella volge~ del v. preced. non @e affatto, grammaticalmente
+riferito ^a bolgia~, perch@e in tal caso qui regolarmente il Poeta
+avrebbe detto ^non ha.~
+
+	|88-90.~  Notati dall'Alfieri.  S'ingegna di mostrar
+giusto il suo odio.  |Per lor~, per colpa loro, perch@e
+m'indussero a falsare i fiorini (qui starebbe bene per risposta
+la parola di M. Lombardo, ^Purg.~, XVI, 75-76).  -- |S@i fatta
+famiglia~; tra i falsatori in siffatto modo puniti, ^tra questa
+gente sconcia~ (v. 85).  |Famiglia~, societ@a, consorzio; parit@a
+di colpa, parit@a di pena; e come v'ha societ@a nel far il male, 
+cos@i una certa societ@a risorge fra chi ne sconta il fio (cf.
+^Inf.~, XXVI, 56-57); e l'idea di famiglia, in quanto suppone
+partecipazione d'una stessa sorte (cf. ^Purg.~, XIV, 113; ^Par.~, 
+XV, 125), @e anco laggi@u (cf. ^Inf.~, XV, 22), come ^famiglia del
+cielo~ gli Angeli (^Purg.~, XV, 29); e |famiglia~ i membri d'un
+Ordine religioso (^Par.~, XI, 86; XV, 115); e ^umana famiglia~
+l'umanit@a tutta quanta nel vero concetto cristiano propugnato da
+Dante (^Par.~, XXVII, 141, onde la ragione del suo Monarca
+universale, ^Conv.~, IV, 4, post init.), perch@e tutti vegnenti da
+Adamo (^Conv.~, IV, 15), il ^maggior padre di famiglia~ (^Par.~, 
+XXXII, 136).  -- |Ei~; i tre fratelli ricordati al v. 77. 
+L'Ottimo: <Questi Conti (^di Romena~), e simili potentati
+attendono molto al fabbricare falso per difetto di moneta;
+perocch@e le loro rendite non sono sufficienti alle loro
+disordinate uscite; e perocch'elli non temono li comuni
+d'intorno.>  -- |Battere~; quindi diciamo ^batter moneta.~  --
+|Carati~; carato (che dicesi propriamente dell'oro, come nota il
+Volpi) @e la ventesimaquarta parte dell'oncia; il fiorino di
+Firenze era di ventiquattro carati di puro oro; quelli battuti da
+Adamo eran di ventuno, e tre di |mondiglia.~  -- |Mondiglia~;
+rame od altro inferiore metallo mescolato all'oro (cf. vv. 73-75, 
+nel commento).
+
+	|91-93.~  L'Alfieri not@o i due primi.  E siamo alla
+quarta classe di falsari, cio@e di coloro che falsarono la parola
+a danno altrui; perci@o bugiardi frodolenti; o falsari, come
+spiega l'Ottimo, mutanti il vero non nella persona, ma
+nell'animo; e son puniti con ardentissima febbre (v. 99). 
+|Tapini~; disgraziati, meschini (cf. ^Inf.~, XXIV, 11).  --
+|Fuman~ ecc.; il Lombardi: <Lo svaporamento dell'acqua che opera
+il calore della mano bagnata, essendo nel verno dal freddo
+condensato, rendesi un fumo agli occhi nostri pi@u visibile che
+nella state: ragione per cui anche il fiato nostro stesso rendesi
+nell'inverno pi@u visibile.>  E il Cesari, sempre atteso, come i
+veri maestri, ad appostare certe bellezze di natura e d'arte, che
+maestri molti e non veri chiamano ora pedanterie, scrive: <Togli
+qua! egli avea ben posto mente alle mani bagnate, che fumano il
+verno! e sono di quelle cose, alle quali pochissimi o nessuno
+suole por mente; e per@o, come perle fuggite d'occhio, piacciono a
+vederle notare.>  -- |Giacendo stretti~, l'uno addossato
+all'altro.  -- |Destri confini~; il plur. pel sing., alla tua
+destra parte.  Il Tommaseo ben osserv@o che <nel Veneto sentesi
+^in questi confini~ per dire ^vicinanza di luogo~, non limite di
+regioni, o poderi, o cose.>
+
+	|94-96.~  Notati dall'Alfieri.  Costruz.: |rispose:
+quando piovvi in questo greppo, li trovai qui, e poi non di#erno
+v#olta~ ecc.  |E poi~ dal momento che ci venni io (e son gi@a
+dicianov'anni).  -- |V#olta non di#erno~ (d'un'ammalata ^dar volta
+in sulle piume~, ^Purg.~, VI, 15); non si mossero, avendo le
+membra legate dalla febbre (cf. v. 81).  |Di#erno~ sincop. di
+^dierono~ (l'unica volta che tal forma s'incontri nel Poema).  --
+|Piovvi~; caddi, venni, fui travolto (cf. ^Inf.~, VIII, 83; XXIV, 
+122; ^cadere~, cf. ^Inf.~, XIII, 97; XXVII, 26; XXXIII, 125;
+^Purg.~, XXV, 125; e ^ruinare~, cf. ^Inf.~, XXXIII, 133; cf. ivi, 
+XX, 35).  Da queste varie espressioni, che hanno in s@e la forza
+di repentinit@a e di violenza, (cf. ^Inf.~, V, 15), torna agevole
+capire il ^balestrare~, a che accenna Pier della Vigna, quasi a
+schiarimento del ^cadere~ prima pronunciato (^Inf.~, XIII, 
+97-98).  -- |Greppo~; ciglione, rialzo pietroso o no, chiosa il
+Tommaseo; e il Buti: <|Greppo~ @e cigliare di fossa o sommit@a di
+terra;> qui per ^bolgia, fossa~; (cf. ^Inf.~, XXIX, 94 ^balzo~). 
+-- |E non credo~ ecc.; e non credo che daranno v#olta, che si
+moveranno quanto duri l'eternit@a.
+
+	|97-99.~  L'Alfieri trascrisse i due primi.  |La falsa~;
+la bugiarda moglie di Putifarre, che corrucciata contro il casto
+Giuseppe perch@e respinta nelle adultere sue voglie, lo accus@o per
+vendetta al marito, come avesse tentato di recarle violenza: cf.
+^Gen.~, XXXIX, 6-23.  -- |Giuseppo~; desinenza comune a' nostri
+antichi, anche in prosa (si ricordi ^como~ per ^come~; e ^pome~
+per ^pomo~); e tutto d@i sentiamo dal popolino in molte parti
+d'Italia ^Sant'Iseppo.~  -- |Falso~; mentitore.  -- |Sinon~; il
+frodolento bugiardo, il quale seppe co' suoi rigiri persuadere i
+Troiani a introdurre nella citt@a il famoso cavallo (cf. ^Inf.~, 
+XXVI, 59), dal che la distruzione di Troia (cf. ^Aen.~, II, 
+57-194).  -- |Greco da Troia~; greco di nazione, e |da Troia~
+perch@e dal tradimento ivi fatto acquist@o tanta famosit@a; appunto, 
+dice il Cesari, come S. Antonio da Padova, che era per@o
+Portoghese; ma dalle gran cose operate in Padova, ebbe nome da
+quella citt@a (cf. ^Inf.~, XXIII; 121, nel commento).  Il
+Daniello, pur ammettendo tale spiegazione, ne propone un'altra, 
+cio@e per aver Priamo accettato Sinone nel numero de' suoi
+cittadini, come in persona di lui dimostra Virgilio (^Aen.~, II, 
+148-149), dicendo:
+
+     Quisquis es, ammissos hinc iam obliviscere Graios;
+     Noster eris.
+
+Per@o questa seconda spiegazione, accettata in parte anche da
+qualche moderno, non parmi che regga, pel fatto che Sinone
+dall'esser nominato cos@i, se n'adonta fieramente; ond'@e chiaro
+che Sinone cap@i troppo bene, direbbe il Poeta, ^il velen
+dell'argomento~ (^Purg.~, XXXI, 75), con che si viene a dire che
+s'era famoso, era soltanto pel tradimento fatto a Troia (cf.
+^Dizionario Dantesco~, artic. Greco).  -- |Per febbre~ ecc.; men
+facile, osserva il Bartoli, @e qui cogliere la ragione della pena:
+forse la febbre dando il delirio fa che si mescolino parole false
+alle vere; e la falsit@a della parola @e quindi punita colla
+febbre.  Si richiami il passo di Sant'Ambrogio, altrove allegato
+(^Inf.~, XXVII, 97), e la ragione della febbre apparir@a chiara;
+il Bargigi: <Tal pena attribuisce l'autore a questi falsi
+dicitori, attendendo che in vita per ardente disordinato affetto
+si muovono a gittar fuori parole di falsit@a.>  -- |Gittan~: il
+Cesari: <Mal trovereste parola che quel |gittan~ scambiasse bene;
+non credo che ^esalar~ vaglia un terzo.>  -- |Leppo~; mandano un
+fumo fetente esalato pel morboso ardore di dentro.  Il Bargigi:
+<Leppo si chiama quel fumo unto (-- il Buti: |leppo~ ^@e puzza
+d'arso unto, come quando lo fuoco s'appliglia alla pentola o alla
+padella~ --), arsiccio, che fanno le pignatte, quando stanno al
+fuoco; massimamente quando entro evvi poc'acqua.>
+
+	|100-102.~  Notati dall'Alfieri.  Ci si affaccia ora una
+scena d'arte mirabile, colta con tanta verit@a, che pi@u non
+avrebbe potuto il Goldoni fra i barcaiuoli di Venezia; tutto va
+per botta e risposta; e Dante in s@e ci rappresenta bene il
+popolino che di simili plebee baruffe si diverte un mondo, e che
+col suo contegno quasi stimola e aizza i rissanti; tutta verit@a
+viva e pretta.  |L'un~; Sinone.  -- |Si rec@o a noia~; s'adont@o, 
+se l'ebbe a male.  -- |Oscuro~ (per enallage oscuramente), 
+vilmente, in modo denigrante; infatti maestro Adamo senza tanti
+complimenti non solo l'aveva detto ^falso~ {v.98}, ma anche ^da
+Troia~ {v.98}, cio@e reo di quella falsit@a s@i enorme e scellerata, 
+che port@o alla distruzione di tanta citt@a.  -- |Col pugno~; le
+gambe eran legate (v. 81); ma, come ben qui si vede (e dir@a pi@u
+innanzi, v. 108), le braccia erano ^disciolte.~  -- |Epa~ (cf. v.
+119, e ^Inf.~, XXV, 82); dal lat. ^hepar~, significa proprio la
+rotondit@a del ventre.  -- |Croia~; ^croio~ presso i nostri
+antichi scrittori ha varii significati, ^duro, crudo, zotico~: il
+Blanc lo deriva dal lat. ^corium~ (^croio~, metatesi di ^corio~);
+il Perticari s'avvis@o che Dante qui abbia usato tal voce nel
+senso, in che l'usano i Romagnuoli, di ^meschino, infermo~: onde
+dovrebbesi spiegare ^ventre infermo~, come spiega pure il
+Bargigi: ma il v. 103 rende molto accettevole la spiegazione
+dell'Anon. Fior., ^non arrendevole~, cio@e duro, teso.
+
+	|103-105.~  Notati dall'Alfieri.  |Tamburo~: il
+Longfellow, allegato dal Camerini: <La ^timpanite~ ha questo
+nome, perch@e l'addome e disteso dall'aria raccoltavi, e suona
+come un tamburo quando @e battuto.>  E di sovente sentiamo ai
+poveri contadini, dopo mangiato qualche cibo grossolano e che
+rigonfia, dire: ^ho la pancia come un tamburo.~  Il Giuliani, in
+quel testo della Commedia da lui postillato, scrisse appi@e di
+pagina queste parole, che certo ei raccolse come detto popolare
+in qualche parte di Toscana: <Befana, Befana, non mi bucare, --
+Ho mangiato pane e fave: -- Ho il corpo duro duro, -- Che mi
+suona ^com'un tamburo.~>  -- |Men duro~; il braccio di Adamo non
+parve men duro, meno forte del pugno di Sinone.
+
+	|106-108.~  Notati dall'Alfieri.  |Le membra~ ecc.; cf.
+vv. 52-53 e 81.  -- |A tal mestier~ ecc.; agile, libero a
+renderti ceffoni per pugni.  Il Cesari: <Quel |disciolto~ @e una
+perla; ed ^a tal mestier! ad appiccarti questa pesca~: ha dello
+scherno e della beffa; ed @e tutto a luogo.>
+
+	|109-111.~  Notati dall'Alfieri.  E da quel ^disciolto~
+{v.108}, onde Adamo si vant@o, trae Sinone argomento di pungere in
+sul vivo l'avversario, per una botta rendendogliene due, 
+ricordando cio@e ad Adamo il mestiere esercitato di falsar monete, 
+e la punizione che n'ebbe.  Non in tutto dissimile @e quello che
+Jacopo da Sant'Andrea ricorda, per pungerlo, al povero Lano
+(^Inf.~, XIII, 120-121).  -- |Al fuoco~; quando tu andavi al
+supplizio del rogo, non avevi le braccia cos@i disciolte, perch@e
+te le avevano legate; <chi @e menato alla giustizia, @e menato con
+le mani legate di rietro, s@i che non pu@o avere il braccio
+sciolto> (^Buti~).  -- |Coniavi~, battevi i fiorini falsi.
+
+	|112-114.~  Notati dall'Alfieri.  E anche qui, pane per
+focaccia.  Adamo concede esser vero quanto Sinone disse di lui, 
+ma non gli volendo rimanere al disotto, colla storia alla mano
+gli rivede le bucce.  |A Troia richiesto~; quando Priamo ti
+richiese di dirgli la verit@a intorno al cavallo di legno (cf.
+^Aen.~, II, 150-155).
+
+	|115-117.~  E anche Sinone prende l'altro in parola, e
+tenta di mostrarlo troppo pi@u reo di s@e; ci@o che pur l'altro fa;
+non attendendo che se erano ambedue nella stessa bolgia e a
+consimile pena, non guari di gravit@a doveva differire la colpa;
+ad ogni modo la cricca ontosa @e ben degna di cos@i abbiette
+persone.  -- |Il conio~, de' fiorini.  -- |E son qui~ ecc.; io
+uno e tu mille; <come se i falli si ^contassero invece di
+pesarli.~  Queste parole non contengono solamente un'attenuazione
+delle proprie colpe, ma anche un rimprovero contro la divina
+giustizia.  Son qui soltanto per un fallo:> (^Scartazzini~).  --
+|E tu per pi@u~ ecc.; il Bargigi: <e tu vi sei per pi@u che niuno
+altro demonio; conciossiach@e tu vi sei per tanti falli, per
+quanti denari falsi tu facesti, ed anche vi sei per quanti
+inganni hanno poi commesso altri per spendere quella moneta come
+buona, e vi sei per cagion di quanto danno hanno patito alcuni in
+ricevere tal moneta.>  -- |Dimonio~; non s'ha da intendere
+|dimonio~ per anima dannata, come vogliono alcuni, ma nel senso
+proprio; e spesso nel liguaggio comune: ^@e peggiore d'un demonio, 
+@e pi@u cattivo del diavolo.~  I ^simoniaci~ pi@u rei degli idolatri
+(^Inf.~, XIX, 113-114); i falsatori di monete pi@u rei d'ogni
+demonio.
+
+	|118-120.~  L'Alfieri not@o il primo.  |Spergiuro~; e
+Sinone aveva proprio fatto un giuramento falso, invocando e cielo
+e terra (cf. ^Aen.~, II, 154-156).  -- |Del cavallo~, che co'
+tuoi falsi giuramenti persuadesti Priamo a introdurlo in Troia. 
+-- |Quel ch'aveva~ ecc.; maestro Adamo (cf. v. 49 e segg.).  --
+|Sieti reo~ ecc.; ti sia di tormento e vergogna che tutto il
+mondo conosca il tuo tradimento.
+
+	|121-123.~  L'Alfieri not@o il primo e il terzo.  Il Greco
+di rimando: A te invece sia di tormento la sete, che ti fa per
+l'arsura screpolare la lingua, e l'umor guasto, che s@i ti
+rigonfia il ventre, che ti fa come una siepe innanzi agli occhi. 
+|Crepa~; metafora, dice lo Scartazzini, tolta dal legno in cui
+l'aridit@a genera crepature.  -- |L'acqua marcia~; l'umor putrito
+(l'umor che mal converte, v. 53).  L'Apostolo S. Giacomo (^Epist.
+Cath.~, I, 11): ^dives in itineribus suis mercescet~;
+imputridisce col seminar putridume.  E appresso (V, 1 e segg.):
+^Agite nunc, divites, plorate ululantes in miseriis vestris~ (che
+rammenta la miseria di Maestro Adamo, v. 61), ^quae advenient
+vobis.  Divitiae vestrae putrefactae sunt.~..  ^Aurum et argentum
+vestrum aeruginavit, et aerugo eorum in testimonium vobis erit, 
+et manducabit carnes vestras sicut ignis.~  -- |Che il ventre~
+ecc.; |che~, caso retto.  -- |S@i~; in s@i sconcio modo.  --
+|Assiepa~; cio@e, dice il Cesari, ^forma siepe, rialto~ per la
+gonfiezza.  Il Tommaseo: <D'idropico o di donna gravida i Toscani
+dicono che ^ha la pancia agli occhi.~>
+
+	|124-129.~  Notati dall'Alfieri, tranne i due primi. 
+Risposta piena di veleno, e di artifizio poetico, nota il Cesari, 
+per aggrandire e render pi@u agro il concetto.  |Si squarcia~; si
+spalanca, bruttamente s'apre.  Ne' ^Salmi~ (XXXIV, 21):
+^Dilataverunt super me os suum.~  -- |Come suole~, come fu sempre
+tuo costume nel mondo (cf. ^Inf.~, XXVII, 48).  -- |Ch@e s'io~
+ecc.; |ch@e~, qui pu@o valere ^perciocch@e~, o anche risolversi
+coll'altra forma, frequente nel rispondere altrui, ^del resto.~ 
+-- |Mi rinfarcia~; mi riempie ed ingrossa (dal lat. ^infarcire~, 
+empiere; il nostro ^rinfarciare~, ora fuor d'uso).  Per
+differenza di punteggiatura il Bargigi, il Venturi, il Torelli, 
+il Cesari, il Tommaseo, il Bennassuti ed altri, vengono, parmi, a
+una spiegazione stranissima (il Venturi anzi pretende che la
+risposta d'Adamo si conchiuda col v. 126, e che il terzetto
+seguente sia nuova risposta di Sinone).  Mettendo due punti o
+punto e virgola dopo |rinfarcia~, danno alla |ed~, che precede
+|umor~, il senso di ^anche~, come in molti casi la ^et~ de'
+Latini sta per ^etiam~: onde del verso fanno due proposizioni non
+successive, ma di opposizione, spiegando: ^se io ho sete, ho
+anche umore, che mi d@a qualche compenso all'ardore~ (Cesari): ma, 
+a buon conto, che compenso poteva dare alla sete un umor s@i
+fatto? la risposta non ha cos@i che colore di brutta celia, e male
+a proposito.  Io intendo: ^Del resto, se io ho sete, tu ardi
+dalla voglia di bere: se io ho il ventre rigonfio, tu hai la
+febbre~ (v. 99), ^che ti fa doler la testa.~  -- |Leccar~: cos@i
+bevono i cani; e la sferzata mi pare sanguinosa.  -- |Specchio~
+ecc.; Narciso, vedendo la sua figura in una limpida acqua, 
+credendola altra persona, se ne innamor@o cos@i da morirne (cf.
+Ovidio, ^Met.~, III, 407 e segg; ^Par.~, III, 18); il senso @e:
+per bere a una limpida fonte, non ti faresti pregar molto. 
+^Speculum aquarum~ disse Fedro.  -- |Non vorresti~: non
+aspetteresti molte parole.  -- |A invitar~, per essere invitato;
+di tali passivi cf. ^Inf.~, XV, 89, nel commento.  Il Cesari:
+<tutta questa batosta tra due mariuoli @e espressa con mirabile
+propriet@a; cio@e, con motti frizzanti, e velenose arguzie, e
+contrapposti; ma di stil villano e basso, come le persone.>
+
+	|130-132.~  Notati dall'Alfieri.  |Fisso~; del tutto
+attento, come nessun altro pensiero mi toccasse la mente (^Par.~, 
+II, 117).  -- |Or pur mira~! per ironia, come dicesse; ^mo bravo!
+seguita pure a badare a costoro~!  -- |Che per poco @e~; che poco
+manca (il ^parum abest quin~ de' Latini) ch'io non ti sgridi
+aspramente.  <Chi volesse cercar per sottile ogni ragion di
+grammatica in questo costrutto, |per poco @e, che~ ecc., avrebbe
+forse da far molto, e poco ritrarne.  Egli @e un modo nostro, cos@i
+fatto come egli @e; e basta> (Cesari).  -- |Non mi risso~; in
+luogo del congiuntivo ^mi rissi~; come il Petrarca:
+
+     Poco manc@o che non rimasi in Cielo.
+
+	|133-135.~  L'Alfieri not@o tutto sino all'ultimo verso
+del Canto.  |Con ira~, nel dire a Dante le riferite parole di
+rimprovero.  -- |Vergogna~; la vergogna d'aver preso piacere di
+quella sconcia batosta; @e dunque di quella buona e santa, che
+^tingendo l'una e l'altra guancia~ (^Inf.~, XXXI, 2), mostra la
+bont@a dell'anima, e fa perci@o degno di perdono l'errante
+(^Purg.~, V, 21; cf. ^Inf.~, XVII, 89-90).  Nella ^Vulg. El.~, 1, 
+7: ^Quamquam rubor in ora consurgat animusque refugiat~ (cf.
+^Inf.~, I, 25).  Nel ^Conv.~, IV, 25: <La verecondia @e una paura
+di disonoranza per fallo commesso.  E di questa paura nasce un
+pentimento del fallo, il quale ha in s@e un'amaritudine, ch'@e
+gastigamento a pi@u non fallire...  La vergogna @e apertissimo
+segno di nobilt@a> (e si veggan l@a le tre distinzioni che della
+|vergogna~ fa l'Autore).  E Dante dichiara (^Conv.~, IV, 19) che
+tale vergogna @e frutto di vera nobilt@a d'animo.  Ai Cardinali
+Italici (^Epist.~, VIII, 10): ^Italos praesens miseria dolore
+confecit; erubescendum esse vobis dolendumque quis dubitet~?  E
+prima ({Paragraph.} 9) aveva detto: ^Pariat pudor in nobis
+poenitentiam primogenitam suam, et haec propositum emendationis
+aggeneret.~  E di qui, o m'inganno, riceve lume e senso preciso
+la parola ad Alberto (^Purg.~, VI, 117)
+
+     A vergognar ti vien della tua fama, 
+
+perch@e dalla vergorgna ne scaturisce pentimento.  Cf. ^Inf.~, 
+XXXII, 34, nel commento; ^Purg.~, XXX, 76-78, e ^Dizionario
+Dantesco~, artic. Vergogna, {Paragraph.} I.  -- |Ancor.~.. |gira~
+(cf. ^Inf.~, I, 6; III, 132; XIV, 78), l'ho ancor fissa nella
+memoria; ancor mi vergogno al ripensarvi.
+
+	|136-141.~  Il Poeta, pieno l'anima di confusione al
+riconoscere giusto il rimprovero di Virgilio, vorrebbe scusarsi;
+ma non ci riesce, perch@e la stessa vergogna lo rende muto; ma, 
+senza ch'egli il pensi, @e appunto quella vergogna che gli accatta
+il perdono del Maestro; dice dunque: io era nella medesima
+condizione di colui che sognando qualche sua disgrazia, desidera
+che il sogno sia sogno, e cos@i desidera quello che @e in fatto, 
+come non fosse.  Un chiosatore moderno, che molte volte non
+chiosa, e molt'altre chiosa troppo, qui esclama: ^immensa
+filosofia~, eh! via; se l'immensit@a della filosofia sta qui, 
+francamente @e il caso di ripetere all'arciprete il verso del
+canonico Petrarca: ^Povera e nuda voi, Filosofia~!  --
+|Dannaggio~; ^danno~, (voce antiquata, e la sola volta che
+s'incontra nel Poema).  -- |Desidera~ ecc.; desidera che la
+disgrazia sognata sia sogno.  -- |Non potendo~ ecc.; per la
+confusione, che glien faceva ostacolo (cf. ^Purg.~, XXXI, 13-15). 
+-- |Scusarmi~ ecc.; desiderava di scusarmi colle parole senza
+poterlo; per@o mi scusavo col fatto stesso della vergogna, senza
+per@o ch'io sapessi che quella era tanto eloquente da scusarmi pi@u
+e meglio di qualsiasi parola.  Cf. ^Par.~, XIV, 136-138, nel
+commento.
+
+	|142-144.~  Virgilio anima buona Maestro verace e solo
+inteso al morale perfezionamento dell'alunno @e pronto a cavarlo
+di quello stato angustioso; onde gli dice: anche minor vergogna
+della tua sarebbe bastevole a scancellare colpa assai maggiore, 
+che la tua non fu; perci@o acquetati, sta di buon animo.  --
+|Difetto~; colpa (cf. ^Inf.~, XXII, 125; ^Purg.~, VI, 40).  --
+|Lava~, purga, toglie via (cf. ^Inf.~, XXVII, 108; ^Purg.~, IX, 
+113; ^Par.~, V, 75).  -- |Tristizia~ (cf. ^Inf.~, VI, 3; ^Par.~, 
+XXXII, 54); tristezza, mestizia; pon gi@u la tristezza, 
+racconsolati (cf. ^Purg.~, XXXI, 46).  -- |Ti disgrava~ (cf.
+^Par.~, XVIII, 6); la colpa @e gravame davvero, @e gravame
+conseguente al dolore di essa, e tanto pi@u pesante quanto meno
+l'anima avvert@i l'atto del commetterla.
+
+	|145-148.~  Se t'avverr@a di trovarti altra volta dove
+sienvi persone che si svillaneggiano, in somiglianti contese, fa
+conto ecc.  Le parole di Virgilio conchiudono nella sentenza di
+quelle del Signore ad Abramo: ^Ambula coram me, et esto
+perfectus.~  -- |Fa ragion~ (^Par.~, XXVI, 8); fa conto, pensa, 
+ch'io ti sia dappresso per rimproverarti, com'ora ho fatto.  --
+|T'accoglia~; ti colga, ti faccia imbattere.  -- |Piato~; lite, 
+contesa (^placitum~ pe' Lat. era la lite agitata innanzi ai
+tribunali).  -- |Bassa voglia~; @e gusto sconveniente ad anima
+bennata.  E Pietro cita Salomone (^Prov.~, XX, 3): ^Honor est
+homini, qui separat se a contentionibus: omnes autem stulti
+miscentur contumeliis~; e poscia S. Paolo (^Ephes.~:-- non parmi
+per@o che in tale Epistola si rinvenga tal passo --): ^Turpia
+colloquia bonos mores corrumpunt.~  Nel ^Conv.~, IV, 25: <La qual
+grazia (^gentilezza~) s'acquista per soavi reggimenti, che sono
+dolce e cortesemente parlare, dolce e cortesemente servire e
+operare.  E per@o dice Salomone all'adolescente figlio: ^Rimuovi
+da te la mala bocca, e gli atti villani sieno lungi da te.~>  E
+l'Apostolo (^Coloss.~, IV, 6): ^Sermo vester semper in gratia
+sale sit conditus, ut sciatis quomodo oporteat vos unicuique
+respondere.~  E si confronti quanto Dante scrive (^Conv.~, IV, 
+25, post med., dove cita Tullio ^nel primo degli Ufficii~), con
+ci@o che scrive l'Apostolo, ^Ephes.~, V, 12.  E forse a ci@o si
+riferisce per gran parte, chi ben consideri, la parola
+dell'Autore dell'^Imitazione di Cristo~ (ora non mi sovviene il
+luogo preciso): ^quoties inter homines fui, minus homo redii.~
+
+	Nota le terzine 6; 8 alla 11; 17, 19; 21 alla 24; 26, 28, 
+29; 31 alla 43; 45 alla fine.
+
+	^Nota~ (ai vv. 58-61).
+
+	Intorno a ^Maestro Adamo~ credo debito mio riferire la
+seguente lettera, che m'indirizzava quell'illustre e dotto
+Prelato, ch'@e Mons. Farabulini, s@i a fondo versato in molte
+discipline, segnatamente nelle storiche, come ne fan fede le
+molteplici opere da lui pubblicate; scrivevami adunque cos@i:
+
+	<Stimo meglio c#orre oggi il tempo e proporle in iscritto, 
+senza pi@u altro aspettare, il dubbio che Le ho accennato nella
+precedente mia lettera; poich@e non so quando possa darmisi il
+destro di parlarle in persona.  E innanzi tratto L'avverto che
+non ho gi@a alle mani una delle grandi ed ardue quistioni, ch'Ella
+dovr@a risolvere nel suo nuovo Commento; ma, in iscambio, una
+semplice notizia storica, che riguarda, non il testo, bens@i una
+nota che trovo ripetuta, al modo stesso, dai chiosatori della
+^Divina Commedia.~  Essa @e intorno alla patria di quel ^Maestro
+Adamo~ che, a rechiesta dei Conti di Romena, fals@o i fiorini
+d'oro di Firenze; onde fu posto a morte, e dal Poeta
+ignominiosamente celebrato nel Canto trentesimo dell'Inferno.
+
+	Tutti gli annotatori da me veduti (e sono gran numero), 
+affermano che il famoso falsario ebbe i natali in Brescia: io ho
+qui, invece, un documento sincrono, dal quale si ritrae ch'egli
+neanche fu italiano.  E in prima da notare che nei pochi
+documenti del secolo XIII, che rimangono negli Archivi di quella
+citt@a, non @e alcun cenno di costui.  Cos@i mi accert@o il Conte
+Francesco Bettoni, presidente dell'Ateneo di Brescia, il quale
+sta ora compilando una nuova istoria della medesima.  Rimarrebbe
+a fare indagini in proposito negli Archivi di Firenze, posto che
+sieno sopravissuti gli Atti criminali, che avranno servito alla
+condanna del falsario, e data quindi cagione all'Allighieri di
+metterlo nel suo Inferno.  Ma io non ho avuto ancor tempo di
+ricercare col@a cotali Atti, n@e mi sono curato di darne ad altri
+la briga di rintracciarli.
+
+	Quello che a me pi@u importa, @e il mentovato documento:
+vo' dire, un Contratto rogato in Bologna il 28 di Ottobre 1277, a
+favore di Bonifacio Arcivescovo di Ravenna.  L'originale si
+conserva nell'Archivio Arcivescovile di quella citt@a (^Cafs.~, 
+IV, n. 6438); e fu ai d@i nostri pubblicato dal Tarlazzi nel vol.
+II dell'^Appendice ai Monumenti Ravennati~ del Conte Fantuzzi. 
+Era par noto assai prima; dacch@e venne allegato nelle Decisioni
+della Sacra Rota del 1778, tra le cause giudiziali.  Ora, in fine
+di questo pubblico Atto, il notaio, tra i testimoni ch'erano
+presenti in Bologna, registra eziandio ^Maestro Adamo~, e lo dice
+appunto ^familiare dei Conti di Romena~: ma nol fa Bresciano, n@e
+altrimenti Italiano, bens@i Inglese.  Ecco le testuali parole:
+^Actum Bononie in palatio Episcopatus bonon., praesentibus.~.. 
+Magistro Adam de Anglia ^familiare Comitum de Romena.~  Qui
+^Adam~ par chiaro che sia, non il nome proprio, ma il cognome del
+casato; e infatti qualche famiglia cos@i cognominata @e tuttora in
+Inghilterra e in Francia.
+
+	Io tengo che non possa qui dubitarsi dell'identit@a del
+personaggio.  La data dell'Istrumento, il nome del testimone, la
+sua qualifica, tutto s'accorda a far credere che costui @e il
+medesimo Adamo (cos@i italianizzato da Dante, e non latinizzato
+dal notaio), che falsific@o ^la lega suggellata del Battista~ ad
+istigazione dei Signori di Romena, mentovati dallo stesso Poeta. 
+Non saprei dire se fin dal 1277, quand'era in Bologna, egli
+avesse gi@a contraffarto il fiorino d'oro: certo @e che quella
+contraffazione si conobbe in Firenze, secondo le cronache, 
+quattro anni appresso, cio@e nel 1281; e per@o dopo quest'anno egli
+dov@e essere preso e processato ed arso dal governo.
+
+	Ma come si spiega che questo ^Magister Adami de Anglia~, 
+cos@i assolu tamente detto inglese da un notaio (che in ci@o non
+poteva errare), sotto la penna de' commentatori di Dante si
+scambiasse poi in Bresciano?  Io suppongo ch'egli fosse, non gi@a
+della Gran Brettagna, ma della ^Armorica~ o ^Britannia minor~, 
+come si appell@o la Brettagna delle Gallie, posta allora sotto lo
+scettro dei re d'Inghilterra; e precisamente fosse della
+provincia di Brest, o latinamente ^Brestia~; nome che di leggieri
+pot@e essere franteso, e quindi voltato in ^Brescia.~  Ancora pu@o
+darsi che alcuno a quel nome cangiasse la ^t~ in ^c~, e leggesse
+^Brescia~, come, per atto d'esempio, ^vicium~ per ^vitium~
+leggevano gli antichi.
+
+	E di ci@o basti; ch@e non voglio dimorare pi@u tritamente
+ricercando s@i minute cose e andandomene in congetture.  La S. V.
+giudichi se convenga dare altra patria a ^Maestro Adamo~, 
+chiamandolo Inglese o pi@u strettamente Brettone.  Riceva questa
+qual si sia proposta per un testimonio dell'alta stima che Le
+professo, e mi onori de' suoi comandi.
+
+	Di Roma, il 2 Maggio 1892.  Suo affez.<mo> David
+Farabulini.>

@@ -1,0 +1,19 @@
+..COMM:
+Berthier
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+P. Gioachino Berthier
+..PUBD:
+1892-97
+..PUBL:
+La Divina Commedia di Dante con commenti secondo la scolastica del
+P. Gioachino Berthier.  Friburgo, Libreria dell'Universit@a,
+1892[-97].
+..DENT:
+Computer Input Corp.
+..EDTR:
+Antonia Rossi
+..LODD:

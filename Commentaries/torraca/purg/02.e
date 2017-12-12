@@ -1,0 +1,574 @@
+	|1-3.~  Il monte del Purgatorio sorge nell'emisfero
+australe, agli antipodi di |Gerusalemme~ (^Inf.~, XXXIV, 133
+segg.); perci@o esso e Gerusalemme ^hanno un solo orizzonte~ (cfr.
+^Purg.~, IV, 70) e lo stesso |meridiano~, il quale, stando
+Gerusalemme nel mezzo dell'emisfero settentrionale e
+dell'orizzonte, la |coverchia~, la copre |col suo pi@u alto
+punto~, con lo zenith.  Insomma: il sole era giunto gi@a
+all'orizzonte del Purgatorio.
+
+	|4-5.~  Il ^pi@u alto punto~ {v.3} del mezzo meridiano,
+che passa per Gerusalemme, dista dal pi@u alto punto dell'altro
+mezzo, che passa per il Purgatorio, 180 gradi.  Il sole, girando
+intorno alla terra, secondo l'apparenza e secondo il sistema di
+Tolomeo (^Inf.~, IV, 142), percorre 15 gradi in un'ora; perci@o,
+tra l'ora di Gerusalemme e quella del Purgatorio, @e una
+differenza di 12 ore.  E perch@e al Purgatorio spunta ora il sole,
+a Gerusalemme finisce ora il giorno, @e mezzogiorno a 90 gradi ad
+occidente di Gerusalemme, ^alla foce stretta, Dov'Ercole segn@o li
+suoi riguardi~ (^Inf.~, XXVI, 107), mezzanotte a 90 gradi ad
+oriente di Gerusalemme, al |Gange.~  Siamo ai 10 di aprile, e il
+sole esce <congiunto> con l'Ariete (cfr. ^Par.~, I, 41; X, 32). 
+Nell'ora di mezzogiorno, quando il sole con l'Ariete @e allo
+zenith del meridiano delle colonne d'Ercole, la Libra,
+diametralmente opposta all'Ariete nel cerchio dello Zodiaco, @e
+allo zenith sul meridiano del Gange: perci@o, dicendo che quando
+il sole giunse all'orizzonte del Purgatorio, |la notte~ che
+|cerchia~, fa suo giro in direzione opposta a quella del sole,
+|uscia fuor di Gange con le bilance~, con la Libra, Dante vuol
+dire che al Gange era mezzanotte.  -- |Uscia di Gange fuor~: i
+geografi dell'antichit@a e del M. Evo ponevano alle foci del
+|Gange~ l'estremit@a orientale del nostro emisfero; misuravano la
+maggior lunghezza della terra scoperta (cfr. ^Inf.~, XXXIV, 113)
+dal Gange alle colonne d'Ercole.  Cfr. ^M. Capella~, ^Nozze della
+Filologia e di Mercurio~, VI, ^Alfragano~, ^Elem. d'Astronomia~,
+IX, ^Questione dell'acqua e della terra~, XIX.  -- |Le bilance~
+sono il segno della Libra.  <La Libra signific@o le bilance e la
+Libra, con tutti i pondi (pesi) con che si ponderegiano (pesano)
+le cose; @e fatta a modo di bilancia, quasi a pesare giustizia e
+ragione e la verit@a col suo contrario>.  ^Ristoro~, I, 4.
+
+	|6.~  Proseguendo il suo cammino annuo per lo Zodiaco, il
+sole, dal 21 aprile al 21 maggio, esce <congiunto> col Toro; dal
+21 maggio al 21 giugno con i Gemelli ecc. (cfr. ^Par.~, XXII,
+110); tra il 21 settembre e il 21 Ottobre con la Libra, la quale
+non si mostra pi@u, di notte, fino al 21 marzo.  Dal 21 settembre
+(equinozio d'autunno) la durata della notte cresce e quella del
+giorno diminuisce; perci@o Dante dice che, |quando~ la Notte
+|soverchia~, supera il giorno, @e pi@u lunga, ^le bilance~ {v.5}
+(la Libra) |le caggiono di mano.~  -- |Soverchia~: cfr. ^Conv.~,
+II, 9.  <L'intelletto umano non soperchia (il divino), ma da esso
+@e improporzionalmente soperchiato>.
+
+	|7-9.~  Al primo apparir della luce, il cielo si fa,
+all'oriente, vermiglio; poi si colora tutto di bianco (alba);
+infine si fa color di arancio, quando il sole sta per mostrarsi,
+perch@e, al levarsi del sole in un luogo, l'Aurora va ^pi@u oltre~
+(^Par.~, XXX, 8).  Perci@o Dante, il quale, come gli antichi, la
+personifica, dice che le |guance della bella Aurora, l@a,
+dov'~egli |era, divenivan rance per troppa etade.~  -- |Le
+guance~: altrove (^Purg.~, IX, 4) parler@a della fronte
+dell'Aurora.  -- |L@a dove io era~: d'ordinario, nella seconda
+cantica, il poeta indica insieme le ore del Purgatorio e le ore
+corrispondenti dell'emisfero nostro, meglio note ai lettori.
+
+	|10.~  Cfr. ^Purg.~, I, 130.
+
+	|11-12.~  Non sapendo da qual parte avviarsi (cfr. vv.
+57-63), e pur desiderando di andare, procedevano lentamente.
+Lenti i primi due versi; il terzo par che si slanci con |che va
+col core~ energico, rapido; ma @e subito trattenuto
+dall'inversione |e col corpo~, ritardato dal suono stesso di
+|dimora.~
+
+	|13-15.  Ed ecco~: annunzia, scuote.  A tre versi lenti,
+malinconici, seguono d'improvviso versi sonanti come fanfara,
+pieni di parole tronche, di ^p~, di ^s~, di ^r~, in cui par che
+un particolare non dia tempo all'altro, e lo prema e lo spinga
+innanzi.  |Marte rosseggia~ e spicca nel mezzo degli altri
+particolari.  Rosso per s@e |Marte~ (cfr. ^Par.~, XIV, 87),
+|rosseggia~ pi@u del solito |sul presso~ vicino al |mattino~, per
+i |vapori grossi~, che allora si levano; rosseggia pi@u che
+altrove |gi@u~, presso all'orizzonte, nel ponente, dove sta per
+tramontare, |sovra il suol marino~ (cfr. ^Inf.~, XXVI, 129) onde
+salgono pi@u |grossi~ i |vapori.~  <Trasmutasi (l'aria, il mezzo,
+per lo quale all'occhio viene la forma) di sottile in grosso, di
+secco in umido, per li vapori della terra, che continuamente
+salgono; il quale mezzo, cos@i trasmutato, trasmuta la imagine
+della stella, che viene per esso, per la grossezza, in oscurit@a,
+e, per l'umido e per lo secco, in colore>.  ^Conv.~, III, 9.
+
+	|16.  Cotal m'apparve~: che mai?  Si rinnova
+l'impressione di quell'apparizione; la brama e l'augurio di
+provarla di nuovo, provarla veramente, non nella sola memoria, ci
+ritarda la notizia, che aspettiamo.
+
+	|17-18.  Un lume~: squilla come lieto annunzio; ma la
+maraviglia supera la letizia; la maraviglia di ^veder~ quel lume,
+quando la luce del sole gi@a empie tutto; di vederlo |venire per
+mare~, al lido, onde mai non torn@o alcuno (^Purg.~, I, 132);
+|venire~ con rapidit@a superiore a quella di qualunque volo.  Alti
+suoni e larghi |per lo mar~, |venir~, |ratto~, |muover~, |volar~,
+rappresentano il fatto mirabile mentre accade, e ritraggono la
+maraviglia, che suscita via via; e il v. 17 ha ben tre
+interruzioni, e il v. 18 una sola, dopo |suo~, in modo che la
+voce batta con tutta la forza su |nessun~, imprima a |volar~
+grande velocit@a.
+
+	|19-21.~  Naturalissimo quel |domandar~ con lo sguardo. 
+@E un movimento brevissimo, di un attimo; eppure, in quell'attimo,
+cresce la luce, cresce la grandezza del lume, tanto @e ^ratto~
+{v.17} il suo ^venire~ {v.17}.  -- |Rividil~: segue squillo di
+voce a squillo.  -- E segue maraviglia a maraviglia: |pi@u lucente
+e maggior.~  La voce affrettata, concitata sino alla seconda
+sillaba di |maggior~, d'un tratto s'interrompe e s'indugia, con
+tono di profondo e quasi inesprimibile stupore, a |fatto.~
+
+	|22.~  Poi, facendosi ^il lume~ {v.17} sempre pi@u vicino,
+comincia il poeta a discernere qualche cosa nello splendore di
+esso.
+
+	|23-24.  Un non sapea che~... |bianco~: la pausa tra
+|che~ e |bianco~ ritrae l'incertezza.  |Appario~, apparve,
+|d'ogni lato~, da ambo i lati del lume, una cosa bianca; ma il
+poeta non poteva raffigurarla.  |E, di sotto a lui~, al lume,
+usc@i, |a poco a poco, un altro non so che~ bianco.
+
+	|25-26.~  Anche Virgilio non sapeva e non raffigurava;
+perci@o tacque sin che |i primi bianchi~, quelli ch'erano ^d'ogni
+lato~ {v.22} del lume |apparsero~ apparvero ai riguardanti |ali.~
+
+	|27.  Galeotto~: cfr. ^Inf.~, VIII, 17.
+
+	|28-30.~  L'arrivo dell'angelo coglie Virgilio
+impreparato.  Grida, ripete: |fa, fa~: premette il comando
+dell'ossequio: |fa che le ginocchia cali~, all'annunzio: |ecco
+l'angel di Dio~, e, subito dopo, un altro comando: |piega le
+mani~, a un'osservazione rivolta, in verit@a, non meno al
+discepolo che a s@e stesso: |omai vedrai~ ecc., come chi pur
+commosso e confuso, si affretta a preparare alla meglio degna
+accoglienza a un gran personaggio, che gli capita non annunziato,
+non aspettato.  Ora possiamo imaginare le <parole>, con cui
+Virgilio fece ^riverenti le gambe e il ciglio~ di Dante alla
+presenza di Catone; ^Purg.~, I, 50.  Qui aggiunge: |piega le
+mani~, ingiunge l'atto di adorazione (cfr. ^Purg.~, VI, 16)
+dovuto all'|angel di Dio.~  -- |Officiali~: <ministri>.  Cfr.
+^Purg.~, I, 99.  ^M. de' Libri~, ^Dicerie~, 4: <Perch@e la
+presenza dei signori non pu@o essere in ogni parte, e ancor perch@e
+i signori non possono n@e deno fare tutte tutte le vicende ecc. si
+fu provveduto in ci@o, che per officiali fosse fatto, menimando
+delli carichi del signore, e partendoli tra li officiali>.
+
+	|31-36.  Argomenti~: cfr. ^Inf.~, XXXI, 55.  -- |Velo~:
+vela, alla latina (^velum~).  -- |Dritte~: drizzate, alzate.  --
+|Come mortal pelo~: cfr. ^Purg.~, I, 42, ^oneste piume.~  --
+Dante non descrive l'angelo direttamente, ma noi lo vediamo e
+ammiriamo nelle parole di Virgilio, il quale guarda e, quel che
+vede e ammira, man mano, addita e commenta: |Vedi~!... |vedi~!... 
+Creatura celeste, ministro di Dio, l'angelo viene su le acque del
+mare, al |lito~ del Purgatorio, da un altro |lito~ lontanissimo,
+senza |remo~, senza |velo~; gli bastano le ali, |l'ali sue.~  Le
+|ali~ attirano tutta l'attenzione dello spettatore stupito.  Dopo
+il miracolo, che compiono, il modo come lo compiono: l'angelo |le
+ha dritte~, drizzate |verso il cielo~, esse sono le sue vele; |le
+penne eterne~, le penne, |che non si mutan come mortal pelo~, si
+degnano di |trattare l'aere~ terreno!  |Sdegna~, |non vuol~,
+|l'ali sue~, |s@i lontani~, |dritte~, |aere~, |non si mutan~,
+mentre descrivono il miracolo, manifestano lo stupore col suono,
+col tono.
+
+	|38-39.  L' uccel divino~: cfr. ^Inf.~, XXII, 96.  -- Il
+terzo |pi@u~ tiene nel v. 38 lo stesso posto del secondo nel v.
+37.  |Pi@u chiaro~: una pausa e, poi, due accenti, l'un su
+l'altro.  La collocazione di |da presso~ d@a rilievo a una
+circostanza importante.  |Nol sostenne~: cfr. ^Conv.~, II, 2: <A
+me parve s@i mirabile, e anche duro a sofferire, che i' nol potei
+sostenere>; canz. II, st. 4a: <soverchia... raggio di sole un
+fragil viso>.
+
+	|41-42.  Vasello~: cfr. ^Inf.~, XXVIII, 79.  |Snelletto~:
+aggiunge all'idea della snellezza quella della grazia.  --
+|Leggiero~: cfr. ^Inf.~, III, 93.  -- |L'acqua nulla ne
+inghiottiva~: non fendeva l'acqua, |il vasello~; con la chiglia,
+strisciava lievemente sopra di essa.  Cfr. ^Inf.~, IX, 81. 
+|Nulla~ spicca in mezzo al verso.
+
+	|43.~  @E un particolare di fatto, ma detto con enfasi, in
+un v. sonante e maestoso che prepara a udir cosa nuova e degna. 
+Si badi, fra tante ^a~, al tono pi@u spiccato della terza e della
+quinta; al forte suono chiuso di |poppa~: al forte suono aperto
+di |celestial.~  Cfr. ^Inf.~, III, 98.
+
+	|44.~  Tutto il v. precedente prepara, e la prima met@a di
+questo conduce a |beato~, alto, solenne.  L'angelo ^stava da
+poppa~ {v.43} |tal~, in tal modo, con tale atteggiamento da
+apparire veramente |beato.~  -- |Per iscripto~: come se in quello
+<stare> mostrasse d'aver inscritta, impressa la beatitudine. 
+Cfr. ^Purg.~, X, 43.  ^Ovidio~, ^Metam.~, VI, 72-74: <Dodici Dei,
+Giove nel mezzo, seggono (ritratti da Pallade nella gara con
+Aragne, ^Inf.~, XVII, 18) augusti e gravi, in alti seggi. 
+L'aspetto rivela il nome di ciascuno> (^inscribit~).  ^Scripto~ @e
+a forma solita nelle scritture del Duecento; qui, poi, |iscripto~
+(inscripto) deve rimare con ^Aegypto~ {v.46}.
+
+	|45.  Sediero~: imperfetto, sedevano.  Cfr.
+^Intelligenza~, 102: <Le fere alpestre in Roma il d@i veniero, Le
+fere v'apparian de' lochi strani>.
+
+	|46-48.~  Le anime, che vanno ^a farsi belle~ (v. 75),
+cantano il salmo CXIII, il canto della liberazione, dal principio
+alla fine.  Comincia: <Nell'uscita del popolo d'Israele, la
+Giudea @e fatta santa e libera> (trad. di ^Dante~, ^Conv.~, II,
+1); e finisce: <Non i morti daran lode a te, o Signore, n@e tutti
+quelli, che scendono nel sepolcro; ma noi, che viviamo,
+benediciamo il Signore da questo punto per fino a tutti i
+secoli>.  Cfr. ^Lett. a Cang.~, 7: <Se guardiamo solo la lettera
+(il senso letterale), ci significa l'uscita de' figliuoli di
+Israele dall'Egitto, al tempo di Mos@e; se l'allegoria, ci
+significa la nostra redenzione per opera di Cristo; se il senso
+morale, ci significa la conversione dell'anima dal lutto e dalla
+miseria del peccato allo stato di grazia; se l'anagogico,
+significa l'uscita dell'anima santa dalla servit@u di questa
+corruzione alla libert@a della gloria eterna>.  Cfr. ^Conv.~, II,
+1: <Spiritualmente s'intende... che nell'uscita dell'anima del
+peccato, essa si @e fatta santa e libera in sua podestate>;
+^Purg.~, XXVII, 140.
+
+	|49.~  Le benedisse.
+
+	|50.  Si gittar tutti~ insieme pronti, volenterosi, non
+ad uno ad uno, non ^per cenni~ come le anime dannate nella barca
+di Caronte; ^Inf.~, III, 116.
+
+	|51.  Veloce~ la partenza dell'angelo, veloce il verso,
+specialmente per i quattro monosillabi con cui comincia, e per
+l'accento su la settima.
+
+	|52.  Selvaggia del loco~: straniera; quindi ignorante,
+inesperta; cfr. v. 62.  ^Cino da Pistoia~, ^Lo gran des@io~:
+<selvaggia cio@e strana d'ogni piet@a>.  ^Barberino~, ^Regg.~, V,
+21: <Sta donna non dee mostrar d'esser troppo maestra, Anzi
+selvaggia e nova>.
+
+	|53-54.  Rimirando intorno come colui~ ecc.  Uno de'
+tanti piccoli fatti, che Dante osserv@o e ritrasse dal vero; cfr.
+^Inf.~, XV, 21.
+
+	|55.~  Dopo il mite splendore dell'aurora i raggi del
+sole paion forti e penetranti come ^saette~ {v.56}.  Cfr. ^Inf.~,
+XXIX, 43.  -- |Da tutte parti~: dappertutto.  <La luce del sole
+vae tosto... immantenente che 'l sole appare, e la luce sua, in
+uno punto, @e infino in Ispagna, e l@a altres@i^[[3~ tosto come qu@i>,
+^Fra Giordano~, LXV.
+
+	|56-57.~  Tra l'orizzonte e il meridiano, sono, da ogni
+lato, 90 gradi.  Al giunger del sole all'orizzonte del Purgatorio
+con l'Ariete (cfr. la n. ai vv. 4-5) i novanta gradi a oriente
+del meridiano erano occupati da' Pesci, dall'Aquario e dal
+Capricorno, e questo era |in mezzo al cielo~, allo zenith.  E
+perch@e il 10 aprile il sole @e a circa 20 gradi dell'Ariete,
+all'apparir di esso doveva il Capricorno aver oltrepassato il
+meridiano di altrettanto.  Dante dice che il sole |aveva cacciato
+Capricorno di mezzo il ciel con le~ sue |saette~, perch@e i raggi
+del sole impediscono di vedere le stelle; non vuol intendere che
+tutto il Capricorno fosse gi@a ad occidente del meridiano.  Questa
+essendo la posizione rispettiva dell'Ariete e del Capricorno,
+innanzi a questo, a occidente del meridiano, si trovano il
+Sagittario, lo Scorpione e una parte della Libra.  Cfr. ^Purg.~,
+IX, 1-9.  -- |Saette conte~: esperte, che sanno (cognite), perci@o
+infallibili.
+
+	|58-60.  Nuova~: giunta pur allora.  -- |Alz@o la fronte
+ver noi~: ci guard@o; prima aveva ^rimirato intorno~ {v.53} per
+conoscere il ^loco~ {v.62}.  -- |Ver noi~, |a noi~: la
+ripetizione @e richiesta dalla misura del verso; ma fa riflettere
+che sono pregati d'indicare la via proprio quelli, che non la
+sanno.  -- |Se voi sapete~: le anime chiedono con cortesia e con
+<libero piglio>.
+
+	|61-66.~  Cortese e pronto risponde Virgilio, e si scusa
+della sua ignoranza.  |Voi credete~: cfr. ^Inf.~, XXXIV, 106.  --
+|D'esto loco~: cfr. ^Inf.~, I, 93.  -- |Peregrin~: <secondo la
+larga significazione del vocabolo, in quanto @e peregrino chiunque
+@e fuori della sua patria>; ^V. N.~, XL.  -- |Innanzi a voi~:
+prima di voi.  |Aspra e forte~: cfr. ^Inf.~, I, 5.  -- |Ne parr@a
+gioco~: al confronto.  Naturale il pensiero e la fiducia; ma il
+fatto non sar@a in tutto conforme.
+
+	|67-68.~  Cfr. ^Inf.~, XXIII, 88; XXVIII, 131.  ^V. N.~,
+canz. ^Donna pietosa~, st. 1a: <E altre donne, che si furo
+accorte Di me, per quella, che meco piangia>.
+
+	|69.~  Il v. procede lento.  |Smorte~: cfr. ^Inf.~, IV,
+14, dove rima, come qui, con ^accorte~ {v.67}.
+
+	|70-72.~  <Perch@e tutti sul pesto cammino, Dalle case,
+dai campi accorrete?  Ognun chiede con ansia al vicino: Che
+gioconda novella rec@o?>  ^Manzoni~ coro del ^Carmagnola~; cfr.
+^Conv.~, IV, 28: <E siccome a colui, che viene di lungo cammino,
+anzi ch'entri nella porta della sua citt@a, gli si fanno incontro
+i cittadini di quella>.  -- |Messaggier, che porta olivo~: allude
+a una usanza del tempo di Dante, ed anche di tempi posteriori:
+l'olivo annunziava, prima della voce del |messaggiero~, liete
+notizie.  Cfr. ^Diario di Anon. fiorentino~: <Oggi a' d@i 10 di
+gennaio 1370 venne in Firenze un ulivo, come, presso a Bolsena,
+delle gente del Papa furono rotti e sconfitti.  Venne l'ulivo tra
+le 23, 24 ore di d@i...  Oggi, a' di 13 di marzo 1376, venne in
+Firenze un ulivo, come Astore capitano di Bolognesi hanno avuto
+un castello i' Romagna ecc.>.  -- |Di calcar~, di formar calca,
+di affollarsi, |nessun si mostra schivo~, perch@e tutti ansiosi di
+saper qual novella rechi il messaggiero.  -- |Schivo~: cfr.
+^Inf.~, XXVI, 74.
+
+	|73-75.  Affissandosi al viso~ di Dante |tutte quante
+quelle anime fortunate~, si accalcavano intorno a lui.  Cfr.
+^Inf.~, XXVIII, 54.  -- |A farsi belle~: purgandosi delle
+reliquie de' peccati.  S'affollano, guardano fisso fisso, e
+stanno immobili e non parlano: tutti segni di stupore.  Il quale
+@e cos@i grande, che, per esso, le ombre |quasi~ dimenticano
+quello, che non @e solo dover loro, ma anche vivissima brama.
+
+	|76.  Trarresi avante~: uscendo dalla calca.
+
+	|77-78.~  Dante non lo ravvisa; ma segue l'esempio e
+ricambia l'abbraccio.  @E ritratto dal vero.  |Trarresi~, |mosse~,
+ricevendo l'accento, dicono e rappresentano la prontezza de'
+movimenti.
+
+	|79.~  Prima l'esclamazione, |o ombre~! poi |vana~ e la
+pausa, che segue, infine |fuor che nell'aspetto~, ci fanno via
+via indovinare quel, che avvenne; l'impressione precede il fatto,
+che la cagion@o.  -- |Vane~: cfr. ^Inf.~, VI, 36; XIX, 34-36 n. 
+-- |Fuor che nell'aspetto~: hanno la sola apparenza di corpi
+umani.
+
+	|80-81.~  Cfr. ^Virgilio~, ^En.~, VI, 700-701: <Tre volte
+(Enea) tent@o di circondargli (ad Anchise) il collo con le
+braccia; tre volte l'imagine inutilmente presa gli sfugg@i di
+mano>.  -- |Avvinsi~: breve ed energico, cfr. ^Inf.~, XVII, 96. 
+-- |E tre~, col tono, diverso da quello del primo |tre~, le
+pause, la lentezza di tutta la frase |mi ritornai con esse al
+petto~, dipingono lo sbalordimento, effetto del vano tentativo.
+
+	|82.~  Credo che il mio volto espresse la maraviglia. 
+Cfr. ^Inf.~, XXIV, 132.
+
+	|83.  Per che~, per quella maraviglia, |l'ombra sorrise~
+con moto spontaneo d'affettuosa indulgenza.  @E la prima volta che
+vediamo sorridere un'ombra.  -- |E si ritrasse~: si trasse
+indietro.
+
+	|84.~  Naturale il ritrarsi dell'ombra, per far cessare
+gli abbracci inutili; naturale l'inoltrarsi di Dante,
+maravigliato, a seguirla.  |Mi pinsi~: cfr. ^Inf.~, VIII, 13; X,
+38 ecc.
+
+	|85.  Soavemente~: dolcemente; tono conveniente, come il
+sorriso, al ^grand'affetto~ {v.77} dell'ombra, che, inoltre, @e
+l'ombra di un buono, degna della beatitudine eterna.  -- |Io
+posasse~: posassi, mi fermassi.
+
+	|86.  Allor~, solo allora, alla voce, |conobbe chi era.~
+
+	|87.~  La preghiera, che sgorga spontanea e pronta, @e
+subito temperata e limitata dalla riflessione: |un poco.~
+
+	|89-90.~  Veramente ^grande~ {v.77} quest'affetto, che la
+morte non ha punto scemato.  |Sciolta~: parla un'ombra, un'anima;
+|sciolta~ dal |mortal corpo~, in lat. <a corpore soluta>.  --
+|Per@o m'arresto~: fermandosi non appena giunta al Purgatorio, per
+parlare a Dante, l'ombra gli d@a la pi@u bella prova di affetto. 
+|Ma tu~, che non sei morto, |perch@e vai~, per la stessa via delle
+ombre?  Anch'ella @e presa da maraviglia e non la nasconde.
+
+	|91-92.  Casella~: da alcuni creduto pistoiese, ma pi@u
+probabilmente fiorentino; forse quel Casella de Formicis, del
+popolo di S. Stefano a Ponte, che, il 25 aprile 1260, fu mandato
+con due altri a Colle, <a starvi per il comune di Firenze e
+ricevervi le vettovaglie>, che da Firenze vi si sarebbero
+inviate.  ^Lib. di Montaperti~, 71.  Nel ^codice vat.~, 3214, un
+breve componimento poetico (136) ha questa rubrica: <Lemmo da
+Pistoia.  Et Casella diede il suono>, cio@e Lemmo lo scrisse e
+Casella lo music@o.  Fu <finissimo cantatore>, dice ^I. della
+Lana~, <e gi@a inton@o delle parole dell'autore>.  -- |Casella
+mio~: dalle prime parole, nella risposta, si manifesta l'amicizia
+sincera e fervida di Dante per Casella; e tutto l'episodio ne @e
+documento immortale.  -- |Per tornare altra volta~: per meritarmi
+di |tornare~ qui, al Purgatorio, dopo la morte.
+
+	|93.~  Casella era morto gran tempo prima: perch@e,
+dunque, giungeva solo allora all'<isoletta>?  La risposta di
+Dante @e abbreviata, tagliata -- |ma, a te~ -- dalla domanda, che
+rivolge a Casella, premurosa, col tono della maraviglia e del
+rincrescimento: |tanta ora~!
+
+	|94-97.  Se quei~, l'angelo, |che leva~ nel ^vasello~
+{v.41} |quando e cui~, chi |gli piace, mi ha pi@u volte negato~
+questo |passaggio, nessun oltraggio~, nessun torto |m'@e fatto~,
+perch@e il |suo~ volere |si fa di~, @e originato da, |giusto
+volere.~  L'angelo esegue la volont@a di Dio.  Nell'^En.~, VI, 315
+segg.  Caronte <prende ora questi, ora quelli, ed altri>, che non
+ebbero sepoltura, <caccia lontano dalla riva>; cfr. ^Inf.~, III,
+93 e nota al v. 110.
+
+	|98-99.  Da tre mesi~: dalla promulgazione del Giubileo,
+cfr. ^Inf.~, XVIII, 29.  <Nel detto anno (1300), alle calende di
+gennaio (1 gennaio), fu dal papa Bonifazio (^Inf.~, XIX, 53), che
+allora reggeva la Chiesa, concessa indulgenza plenaria di tutt'i
+peccati a coloro, che avessero quindici volte visitato le chiese
+di S. Pietro e di S. Paolo ecc.>  ^T. da Lucca~, ^Annali~; cfr.
+^Villani~, VIII, 36.  Dante imagina che anche l'angelo usi
+indulgenza alle anime, togliendo senza opporsi, |con tutta pace~,
+nel ^vasello~ {v.41}, chiunque voglia entrarvi, per fare ^il
+passaggio~ {v.96}.
+
+	|100.  Ora~... |volto~: respinta pi@u volte dall'angelo,
+l'anima di Casella err@o, vag@o; dove?  E perch@e fu respinta? 
+Fuori del Purgatorio vero e proprio, le anime di quelli, che si
+pentirono tardi, alla fine della vita, aspettano pi@u o meno
+lungamente il momento di esservi ammesse (cfr. ^Purg.~, III, 139;
+IV, 130); sembra che altre anime aspettino nel nostro emisfero il
+momento d'esser portate all'<isoletta>, a ci@o costrette, pare,
+dalla piccolezza del ^vasello~ {v.41}.
+
+	|101-103.  Dove~: alla |foce~, come dir@a dopo.  --
+|S'insala~: diventa salsa entrando nel mare.  ^Nov. Ant.~,
+LXXXVIII: <Tre sono li mari del mondo...  Lo primo gira la terra
+et si @e insalato come voi vedete>.  -- L'angelo torna ora alla
+|foce~ del Tevere.  |Ha dritta l'ala~: cfr. v. 84.
+
+	|104-105.~  Le anime condannate all'Inferno |si calano
+verso Acheronte~ (cfr. ^Inf.~, III, 71 segg.); quelle destinate
+al Purgatorio si raccolgono alla foce del Tevere, a breve
+distanza dal <loco santo>, dove siede il capo della Chiesa; cfr.
+^Inf.~, II, 23.  Il ^Tevere~ {v.101} <fa foce di costa alla citt@a
+di Ostia, presso a Roma a venti miglia;> ^Villani~, I.
+
+	|106-107.  Nuova legge~: cfr. ^Purg.~, I, 89-90 e la n. 
+-- |Memoria o uso~: lo spirito @e gi@a avviato a purgarsi; bene
+avrebbe potuto egli ricordare, e, in questa sua nuova condizione,
+|nuova legge~ vietargli di cantare; soprattutto vietargli
+l'|amoroso~ canto, il cantar d'amore.  Cfr. ^V. N.~, XXV: <Rimano
+sopra altra materia che amorosa>.  E cosa dei sensi, della vita
+terrena, amore, e tutto ci@o, che ad amore si riferisce.
+
+	|108.~  Il poeta ci fornisce qui un'importante notizia
+della sua giovinezza e del suo carattere.  |Solea~ fa pensare a
+frequenza; |quetar tutte mie voglie~, alla impressione profonda,
+che il canto di Casella produceva in lui.  <Sommamente si dilett@o
+in suoni e in canti nella sua giovinezza, e a ciascuno, che a
+que' tempi era ottimo, cantatore o sonatore, fu amico e ebbe sua
+istanza; e assai cose, da questo diletto tirato, compose, le
+quali di piacevole e maestrevole nota a questi cotali facea
+rivestire>.  ^Boccaccio~, ^Vita di Dante~, VIII.  Efficace
+|quetar~, efficacissimo |tutte~; due accenti consecutivi e il
+secondo pi@u forte del primo.
+
+	|109-111.  Di ci@o~: di ^amoroso canto~ {v.107}. 
+L'accenno, che segue, al viaggio faticosissimo, e |consolare~, e
+|affannata tanto~ conferiscono molta e nuova energia alla formola
+usuale: |ti piaccia.~  -- |Con la mia persona~: affannata
+l'|anima~, affannato il corpo.  Cfr. ^Inf.~, V, 80; XXVII, 73. 
+^V. N.~, son. ^Gentil pensiero~: <Chi @e costui, Che ven'a
+consolar la nostra mente?>.
+
+	|112.~  Pregato di cantare da Dante, Casella, con
+pensiero squisitamente gentile, intona una canzone di Dante, la
+seconda del ^Conv.~
+
+	|113-114.~  Cfr. ^Par.~, XXXII, 52-63.  Dopo tanti
+incidenti tristi e spettacoli terribili, che s'erano stampati
+nella memoria del poeta, a cominciar dalla selva <aspra e forte>,
+ecco un ricordo lieto.  Ha ragione d'insistere: |dolcemente~,
+|dolcezza.~  -- Questa canzone compose Dante, qualche tempo dopo
+la morte di Beatrice (cfr. ^Inf.~, II, 70 n.), per l'amore
+ispiratogli da una <gentil donna>, la quale gli si mostrava
+<passionata di misericordia sopra la ^sua~ vedova vita>; ^V. N.~,
+XXXV segg. e ^Conv.~, III, 1.  L'amore crebbe, ardentissimo.  <E
+siccome lo moltiplicato incendio pur vuole di fuori mostrarsi,
+ch@e stare ascoso @e impossibile; volont@a mi giunse di parlare
+d'amore, il quale del tutto tenere non potea.  E... deliberai, e
+vidi che, d'amor parlando, pi@u bello n@e pi@u profittevole sermone
+non era, che quello, nel quale si commendava la persona, che si
+amava...  Impresi, dunque, a lodare questa donna, e, se non come
+si convenisse, almeno innanzi quanto io potessi; e cominciai a
+dire: |Amor, che, nella mente, mi ragiona~>.  ^Conv.~, II, 1;
+cfr. ^Par.~, VIII, 37.
+
+	|115-117.~  Non pu@o farci sentire ia ^dolcezza~ {v.114}
+del canto di Casella; ce ne mostra l'effetto immediato, profondo,
+su tutti gli ascoltatori, compreso Virgilio, lo stesso severo suo
+|maestro.~  Parve che il canto avesse scacciato ogni altro
+pensiero, sin quello della salute eterna, della beatitudine. 
+Cfr. ^Purg.~, IV, 1-12.  ^Conv.~, II, 44: <La musica trae a s@e
+gli spiriti umani, che sono quasi principalmente vapori del
+cuore, s@i che quasi cessano da ogni operazione>.
+
+	|118.  Tutti~: ripete riassumendo.  -- |Fissi ed
+attenti~: con una parola dipinge l'atteggiamento suo e delle
+ombre, con una l'espressione de' volti.
+
+	|119.  Ed ecco~: di siffatti improvvisi <cambiamenti di
+scena>, Dante @e maestro inarrivabile.  Casella canta, tutti gli
+sono intorno immobili, non pensando che a godersi le dolcissime
+|note, ed ecco il veglio onesto~, ed ecco Catone!  Cfr. ^Purg.~,
+I, 31, 42.
+
+	|120-123.  Gridando~: gi@a presentiamo fieri rimproveri. 
+Infatti, Catone @e sdegato e maravigliato: |che @e ci@o~?  E un
+rimprovero prorompe subito, con ritardata veemenza, a sillaba a
+sillaba, dalle sue labbra: |spiriti lenti~?...  E sempre pi@u
+s'inflamma, e |lenti~ gli par non biasimi abbastanza, e lo
+traduce in parole proprie due volte, senza interruzione, colpendo
+prima la causa: |qual negligenza~? poi l'effetto: |quale stare @e
+questo~?  Si sente la voce, sempre pi@u concitata, pronunziare |@e
+questo~ con la pi@u grande energia.  Dopo il rimprovero, il
+comando, simile a spinta gagliarda: |correte al monte.~  Infine,
+un pi@u alto e pi@u aspro rimprovero, una di quelle sferzate, che
+mettono le ali ai piedi.  Come! siete ancora avvolti nel peccato,
+che v'impedisce di veder Dio, e vi date bel tempo?  Cfr.
+^Virgilio~, ^En.~, II, 371: <Qual tarda infingardaggine vi
+trattiene?>  -- Lo |scoglio~: anche scoglia, cuoio duro,
+squamoso.  Cfr. ^Giamboni~, ^Orosio~, IV, 9: <Uno grandissimo
+serpente..... abbiendo uno scoglio durissimo... lo scoglio, che
+come sasso era duro, dalle coste si cominci@o a spiccare... 
+Vermine non ha scoglio: ecc.>  ^Lapo Gianni~, ^Novelle grazie~:
+<lo scoglio di doglienza Ave gittato come face il cervo>.
+
+	|124-131.  Come subitamente li colombi quando~ ecc.,
+|vid'io quella masnada fresca lasciar cos@i~ ecc.  La similitudine
+s'adatta mirabilmente alla scena, alla quale abbiamo assistito, e
+a quella, alla quale assisteremo.  Dapprima procede placida per
+molte pause, nell'abbondanza dei particolari -- uno stuolo di
+|colombi~ sopra un campo, tutti intenti a cibarsi di |biado o di
+loglio~ tranquillamente, |queti~, senza la solita alterezza: --
+poi, a poco a poco, l'andamento si fa pi@u vivo, pi@u rapido, in un
+verso misto di suoni quasi repressi, e di suoni dirci
+scoppiettanti: |se cosa appare ond'elli abbian paura~: -- da
+ultimo, un grande impeto, un frusciare e batter di ali, un
+frastuono: |subitamente lasciano star l'esca, Perch@e assaliti
+son~, dove il primo accento di |subitamente~ par congiungersi con
+l'accento di |lasciano~, e questo balzi a raggiungere |star~; una
+serie di ^s~ e di ^t~ mette capo a un gruppo di ^s~ e di ^t~:
+|assaliti son~; la velocit@a di |assaliti son~ s'interrompe d'un
+tratto, perch@e spicchi e sormonti |maggior cura.~  --
+|Cogliendo~: che colgono col becco, che beccano.  Non raro
+quest'uso del gerundio; cfr. ^Giamboni~, ^Orosio~, IV, 9:
+<Chiamano pi@u acerbo Iddio, lusingando e ammonendo e redimendo,
+che il diavolo, che perseguita, domina e uccide>.  -- |Biado~:
+cfr. ^Inf.~, XXIV, 109.  -- |Loglio~: cresce in mezzo al grano,
+cfr. ^Par.~, XII, 119.  -- |Adunati~ va con |queti.~  -- |Queti,
+sanza mostrar~ ecc.  Cfr. ^Conv.~, canz. ^Amor che nella mente~,
+st. 4a: <qual donna sente sua beltate Biasmar per non parer queta
+ed umile, Miri costei, ch'@e esempio d'umiltate>.  I colombi
+camminano impettiti, portando alto il capo, che spingono innanzi
+e ritirano con movimento ritmico; perci@o soglion parere
+orgogliosi.  -- |L'esca~: il cibo.  ^Esopo~, I: <Cavando lo gallo
+in alcuna parte per poter trovare alcuna esca>.  -- |Assaliti
+son~ ecc.  Cfr. ^Virgilio~, ^Georg.~, III, 358: <pi@u amara cura
+lo doma> (il lupo).  |Assaliti~: la |maggior cura~, quella di
+salvarsi, ritorna improvvisa, con rimorso e sgomento.  --
+|Masnada fresca~: la ^gente~ nuova del v. 58.  Per |masnada~,
+cfr. ^Inf.~, XV, 41.  -- |Inver la costa~ del monte.
+
+	|132.~  Fuggono sbandandosi come una brigatella di
+ragazzi rimproverati dal maestro.  Un'altra, breve, rampolla
+dalla similitudine de' colombi, ed @e la terza di quelle tolte
+dall'andare.  Cfr. ^Purg.~, I, 119-120; II, 11-12; ^V. N.~, XIII:
+<Mi facea stare quasi come colui, che non sa per qual via pigli
+suo cammino>; canz. ^Doglia mi reca~, st. 2a: <e non sa dove vada
+per dolorosa strada>; ^G. di Troia~, XXXII: <Diomede fu costretto
+d'andare per li altrui paesi, e col@a dove si vada non sae>.
+
+	|133.~  Ed anche i due poeti si allontanarono
+rapidamente.  |Tosto~: cfr. ^Inf.~, II, 42.

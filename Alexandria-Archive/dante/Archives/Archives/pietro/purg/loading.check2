@@ -1,0 +1,238 @@
+Checking file 01.f
+Warning: Single line indent at line 16
+>>>     ^Parnassusque jugo misit desertus utroque~,
+
+Warning: Single line indent at line 22
+>>>     ^Vos, o Calliope, precor, adspirate canenti.~
+
+Warning: Single line indent at line 29
+>>>     ^Pierus has genuit Pellaeis dives in arvis,~
+
+Error at line 103: Spaces/Tabs used in paragraph
+>>>     ^Non idem Eoi colora etheris, albaque nondum~
+>>>     ^Lux rubet, et flammas propioribus eripit astris.~
+>>>     ^Et jam Pleias habet, flexi jam plaustra Bootae...~
+>>>     ^Majoresque latent stellae, calidumque refugit~
+>>>     ^Lucifer ipse diem~ etc.
+Error at line 149: First indent not five spaces
+>>>        ^...tua pectora sacra~
+
+Checking file 02.f
+Error at line 49: First indent not five spaces
+>>>   ^Qua colitur Ganges, toto qui solus in orbe~
+
+Error at line 64: First indent not five spaces
+>>>        ^...subitusque invita notavit~
+
+Error at line 104: First indent not five spaces
+>>>   ^O genitor, teque amplexu ne subtrahe nostro.~
+
+Checking file 03.f
+Warning: Single line indent at line 7
+>>>     <Noi divenimmo quasi a pi@e del monte>
+
+Checking file 04.f
+Warning: Single line indent at line 7
+>>>     <Maggiore aperta molte volte impruna>
+
+Warning: Single line indent at line 12
+>>>     <E come egli ebbe sua parola detta>
+
+Checking file 05.f
+Warning: Single line indent at line 7
+>>>     ^Conscius ipse sibi de se putat omnia dici,~
+
+Checking file 06.f
+Warning: Single line indent at line 242
+>>>     ^Heu fuge crudeles terras, fuge littus avarum.~
+
+Checking file 07.f
+Warning: single line paragraph at line 129
+>>>	|131.~  Alius, est rex Henricus de Anglia;
+
+Checking file 08.f
+Warning: Single line indent at line 184
+>>>     Successore novo tollitur omnis amore.
+
+Checking file 09.f
+Warning: Single line indent at line 20
+>>>     ^Unde venit Titan, et nox ubi sidera condit.~
+
+Warning: Single line indent at line 31
+>>>     ^Tithonum talamis dignans Aurora superbis.~
+
+Error at line 35: First indent not five spaces
+>>>        ^...cum primum crastina coelo~
+
+Warning: Single line indent at line 74
+>>>     ^Nox ruit, Aenea, nos flendo ducimus horas.~
+
+Warning: Single line indent at line 134
+>>>     ^Invisumque genus, et rapti Ganimedis honores.~
+
+Checking file 10.f
+Warning: Single line indent at line 8
+>>>     <Io stancato, ed amendue incerti>.
+
+Warning: Single line indent at line 69
+>>>     ^Inquinat egregios adjuncta superbia mores~;
+
+Checking file 11.f
+Checking file 12.f
+Warning: Single line indent at line 7
+>>>     <Pi@u era gi@a per noi del monte volto>.
+
+Error at line 114: First indent not five spaces
+>>>        ^...Non illa loco neque origine gentis~
+
+Warning: Single line indent at line 124
+>>>     ^Stamen, et antiquas exercet aranea telas.~
+
+Checking file 13.f
+Warning: Single line indent at line 30
+>>>     ^Invidus alterius rebus macrescit opimis.~
+
+Warning: Single line indent at line 84
+>>>     ^Nec lapis albus erat, sua mens infecerat illam.~
+
+Warning: Single line indent at line 88
+>>>     ^Pallor in ore sedet~ etc.
+
+Checking file 14.f
+Warning: Single line indent at line 30
+>>>     ^Sed vos qui tandem? quibus venistis ab oris?~
+
+Warning: Single line indent at line 85
+>>>        ^... Alpes immittit apertas.~
+
+Error at line 222: First indent not five spaces
+>>>        ^...separat hoc nos~
+
+Checking file 15.f
+Warning: Single line indent at line 7
+>>>   <Com' io voleva dicer: tu m'appaghe>
+
+Error at line 117: First indent not five spaces
+>>>   ^Cecropia Pallas scopulum Mavortis in arce~
+
+Error at line 134: First indent not five spaces
+>>>   ^Phoenices primi,famae si creditur, ausi~
+
+Error at line 188: First indent not five spaces
+>>>   ^Debilitat, saevire facit, dissolvit amores~,
+
+Checking file 16.f
+Checking file 17.f
+Warning: Single line indent at line 7
+>>>     <Come si frange il sonno, ove di butto>.
+
+Warning: Single line indent at line 44
+>>>     ^Urbs capitur, vitam laqueo sibi finit Amata.~
+
+Warning: Single line indent at line 106
+>>>     ^Di faciant sine te ne moriar ego~ etc.
+
+Checking file 18.f
+Error at line 1: Missing indentation
+>>>|PURGATORIO CANTO 19~
+Error at line 3: Tab used in indenting
+>>>	|Proemio.~  <Nell'ora che non pu@o il calor diurno>.  In
+Error at line 4: Missing indentation
+>>>hoc Capitulo auctor incipit ingredi materiam quinti circuli, ubi
+Checking file 19.f
+Checking file 20.f
+Checking file 21.f
+Warning: Single line indent at line 47
+>>>        ^...nubes excussit Olympus.~
+
+Checking file 22.f
+Warning: single line paragraph at line 7
+>>>	<Ma tosto ruppe le dolci ragioni>.
+
+Error at line 50: First indent not five spaces
+>>>        ^...quid non mortalia pectora cogis,~
+
+Error at line 161: First indent not five spaces
+>>>        ^...Stridentem pectore plagam~
+
+Warning: single line paragraph at line 269
+>>>	|148-150.~  Item de prima aetate; unde Ovidius:
+
+Warning: Single line indent at line 276
+>>>        ^...satis est populis fluviusque Ceresque.~
+
+Checking file 23.f
+Checking file 24.f
+Error at line 61: First indent not five spaces
+>>>        ^...Tibi, Tantale, nullae~
+
+Warning: Single line indent at line 84
+>>>     ^Duxerat Hippodamen audaci Ixione natus.~
+
+Warning: Single line indent at line 88
+>>>     ^Ardet, et ebrietas geminata libidine regnat.~
+
+Checking file 25.f
+Warning: Single line indent at line 7
+>>>     <E gi@a venuto all'ultima tortura>.
+
+Error at line 48: Spaces used at head of paragraph
+>>>     Igitur ad propositum arguit Virgilius sic: si tu, auctor, et
+>>> alii dubitantes quomodo animae nostrae separatae a corporibus
+
+Warning: Single line indent at line 330
+>>>     ^Igneus ille furor nescit habere modum.~
+
+Warning: single line paragraph at line 336
+>>>	|121.~  Dicendo etiam illum hymnum:
+
+Warning: Single line indent at line 362
+>>>     ^Parrhasis obliquos Helice cum verteret axes~ etc.
+
+Checking file 26.f
+Warning: Single line indent at line 38
+>>>     ^Riphaeas sic solve nives, huc stagna lacusque~;
+
+Checking file 27.f
+Warning: Single line indent at line 7
+>>>     <Come la scala tutta sotto noi>.
+
+Warning: Single line indent at line 29
+>>>     ^Cardine quem porta vergens prospectat Ibera,~
+
+Warning: Single line indent at line 89
+>>>     ^Parce metu, Cytherea, manent immota tuorum~ etc.
+
+Warning: Single line indent at line 93
+>>>     ^Est Amathus, est celsa mihi Paphos, atque Cythera.~
+
+Checking file 28.f
+Warning: Single line indent at line 78
+>>>     ^Europamque Asiae, Sextonque amovit Abido,~
+
+Checking file 29.f
+Warning: Single line indent at line 32
+>>>     ^At Nymphae vicisse Deas Helicona colentes.~
+
+Warning: Single line indent at line 150
+>>>     ^Judico prudentem, prius, et nunc, postque videntem~;
+
+Checking file 30.f
+Checking file 31.f
+Warning: Single line indent at line 35
+>>>     ^Suspirans, imoque trahens de pectore vocem,~
+
+Warning: Single line indent at line 104
+>>>     ^Protinus ad regem cursus detorquet Jarbam.~
+
+Warning: Single line indent at line 111
+>>>     ^Quaedam cum prima resecantur crimina barba.~
+
+Error at line 139: First indent not five spaces
+>>>        ^...Lethaei ad fluminis undam~
+
+Checking file 32.f
+Checking file 33.f
+Warning: Single line indent at line 179
+>>>        	     EXPLICIT PURGATORIUM
+

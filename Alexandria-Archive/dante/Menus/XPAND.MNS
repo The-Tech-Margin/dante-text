@@ -1,0 +1,80 @@
+{XPAND}
+
+:COMPARE @EXPAND
+     TO "Search"
+	:RETURN
+
+     TO "Yes|Again"
+	:PRINT ~@HEADING_Expansion on @SELECTION ...\n\n~
+
+     TO "Yes"
+	:SET #QMASK ~~
+	:SET #ILIMIT ~#ZV~
+
+	:BRS INDEX ~@SEARCH~ EXPAND
+
+	:SET @SINDEX ~~
+	:SET @ICONTINUE ~No~
+	:COMPARE #RESULT
+	     TO "*"
+		:PRINT ~\o5 Sorry, expansion is unavailable \f5\n\n~
+		:PAUSE
+		:RETURN
+	:DONE
+
+     TO "Yes|Again"
+	:SET #QMASK ~Reference %Q --> %t35 %D` document(s)`~
+	:BRS INDICIES
+	:SET @EXPAND ~No~
+:DONE
+
+:PRINT ~\n~
+:GET @REFERENCE -
+     ~Enter Reference Number(s); \o2H\f2 for Help; \o2S\f2 to Search [S]:
+   --> ~
+
+:PARSE @REFERENCE UPPER
+
+:COMPARE @REFERENCE
+     TO "#1:H"
+	:SET @EXPAND ~Again~
+	:MENU ~XPAND_H~
+     TO "#1:S|"
+	:RETURN
+:DONE
+
+:PARSE @REFERENCE INDEX
+:COMPARE #RNUMS
+     TO ""
+	:PRINT ~\n#GETMSG~
+	:MENU
+:DONE
+
+:PRINT ~\n~
+
+:SET #QMASK ~#ZQ~
+:PARSE #RNUMS INSERTING ~ #O1 ~
+:PARSE #TERMS INSERTING ~ #O1 ~
+:BRS SEARCH ~#RNUMS~
+
+:PRINT ~\n~
+
+:GET @SELECTION -
+     PROMPT ~Enter \o2S\f2 to Search; \o2D\f2 to Display [#ZF]: ~ -
+     MATCH "S|s|D|d|"
+
+:PARSE @SELECTION UPPER
+:COMPARE @SELECTION
+     TO ""
+	:SET @SELECTION ~#ZF~
+     TO "S"
+	:RETURN
+     TO "D"
+	:SET @SELECTION ~D~
+	:SET @DOC ~1~
+	:SET @BR ~#MAXQUERY~
+	:SET @EXPAND ~Search~
+	:MENU ~GOPTS_~
+:DONE
+
+:RETURN

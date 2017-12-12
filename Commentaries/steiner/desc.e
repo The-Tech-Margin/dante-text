@@ -1,0 +1,20 @@
+..COMM:
+Steiner
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Carlo Steiner
+..PUBD:
+1921
+..PUBL:
+La Divina Commedia commentata da Carlo Steiner.  Torino, G. B.
+Paravia, 1921.
+..DENT:
+KDEM
+..EDTR:
+Antonia Rossi
+..LODD:
+..ATTR:
+copyright

@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.15.20;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@filter a dante nroff-macro formatted paragraph
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#!/bin/sh
+#	format: shell script to filter a dante nroff-macro formatted
+#		paragraph.  Written 4/25/89 by JMA primarily for use
+#		within "vi."
+LIB=$Dante/lib
+nroff $LIB/cleank.nr - | uniq 
+@

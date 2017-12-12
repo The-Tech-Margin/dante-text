@@ -1,0 +1,1618 @@
+	|1-3.~  L'Alfieri not@o la frase |ed io dopo le spalle.~ 
+-- |Ora~, vinti i diavoli ed entrati nella Citt@a: -- |segreto
+calle~ (altri, ^stretto calle~) rammenta il virgiliano (^Aen.~
+VI, 443) ^secreti celant calles~, cio@e sentiero distinto e
+separato dalle mura e dalle tombe.  Ma quelli che preferiscono
+^stretto calle~ ben possono appellarsi del pari a Virgilio, l@a
+dove dice (^Aen.~, IV, 405) ^convectant calle angusto~; e di
+questo |calle~ desumere la ^strettezza~ dal fatto che Virgilio e
+Dante eran costretti d'andare l'un dopo l'altro, non c'essendo
+spazio sufficiente per andare di pari (^Purg.~, XII, 1), come
+intende anche lo Scartazzini, che pur tiene che la lez. ^stretto
+calle~ sia <probabilmente correzione di copista, che non attese
+la propriet@a della voce |segreto.~>  Di questo andare, per
+angustia di sentiero, l'un dopo l'altro, cf. ^Inf.~, XIV, 140;
+XV, 97; XVI, 91; XXIII, 2.  -- |Martirj~; gli avelli fiammanti
+(IX, 118); cio@e tra i ^martirj e gli alti spaldi~ (IX, 133) e di
+tal guisa per simile strada procederanno sino alla fine del Canto
+(v. 134).  -- |Dopo le spalle~ (^Purg.~, XVIII, 89), dietro a
+lui.  In quanto agli Epicurei, posti in questo Cerchio da Dante, 
+scrive il Del Lungo: <Mi sembra nobilissimo e sottile concetto, e
+degno come di Dante cos@i d'essere meglio rilevato e chiarito che
+non siasi fatto fin qui, quello d'avere lungo le mura della
+triste citt@a, ad di dentro, collocati gli Epicurei, cotesti
+grandi eresiarchi del paganesimo, e gli eretici dell'evo
+cristiano.  Il loro spaventoso sepolcreto rovente incorona la
+citt@a del male, senza ch'egli appartengano n@e alla prima regione, 
+che @e finita appi@e delle mura di quella, n@e alla seconda, che si
+parte dall'abisso scavato nel centro della citt@a medesima; e
+cos@i, n@e alla categoria degli incontinenti, terminata, n@e a
+quella, non ancor cominciata, de' violenti.  Cosiffatto rimaner
+essi interamente fuori del sistema penale dantesco non pu@o non
+avere un perch@e: il quale @e questo, a mio avviso; che la natura
+del loro peccato si sottrae alla comunicazione diretta, non che
+con la Grazia, secondo @e di tutti i dannati, che pi@u non hanno
+^amico il re dell'universo~, ma con la Giustizia medesima di quel
+Dio ch'e' disconobbero e negarono, e perci@o li pone tra le
+^perdute genti~ quasi fuori di schiera.>  Savie parole, che i men
+provetti potrebbero per@o frantendere; n@e io so se arrivo a
+spiegarle secondo il genuino senso dell'Autore.  Il sesto
+Cerchio, che @e il primo dentro alla Citt@a di Dite, e che @e sullo
+stesso piano del Cerchio quinto, per espressa dichiarazione di
+Dante comprende gli ^eresiarche coi lor seguaci~: non c'@e dubbio
+che appena dentro alla ardente citt@a e lungo le mura di essa non
+ci sieno, come ben afferma il Del Lungo, gli Epicurei (X, 13-15), 
+che pi@u propriamente diremmo oggi ^materialisti~; ma lo spazio
+immenso, ^grande campagna~ (IX, 110), che da ogni punto delle
+mura si stendeva verso il centro di essa citt@a, dove vaneggia la
+caverna dei Cerchi sottostanti, @e pur ^piena di duolo e di
+tormento rio~ (IX, v. 111), cio@e di avelli del pari infocati (cf.
+vv. 28-30).  Ora, bisogna convenire che se torno torno agli ^alti
+spaldi~ vi erano le tombe degli Epicurei, nel tratto che dal
+|muro~ va sino al ^mezzo~ (v. 134) vi doveano essere ^eresiarche~
+d'altra qualit@a, come ne accerta la tomba di ^Papa Anastasio~
+(XI, 7-9) dietro alla quale si riparano i Poeti, cio@e, se ben
+capisco, gli ^eretici dell'evo cristiano~, come dice il Del
+Lungo.  Per@o non oserei dire che gli ^eresiarche~ e lor seguaci, 
+posti in tal luogo, rimangano per questo ^interamente fuori del
+sistema penale dantesco~; secondo me, v'entrano per bene, e ben
+determinatamente secondo la divisione stessa, che delle colpe e
+delle pene udiremo fare al nostro Autore; ma di ci@o dir@o nella
+Nota, che verr@a in fine di questo Canto.
+
+	|4-6.~  L'Alfieri nota la forma |mi volvi.~  -- |O virt@u
+somma~, o sommamente virtuoso, non gi@a ^o uomo virtuosissimo~, 
+come dice il Lombardi, dacch@e Virgilio ^uomo~ non era, ^Inf.~, I, 
+67.  Di persona, osserva il Tommaseo, anco in Virgilio (^Aen.~, 
+V):
+
+     Exigui numero, sed bello vivida virtus.
+
+-- |Empi giri~ (dove altri mal legge ^ampii~), perch@e contenenti
+i rei d'ogni empiet@a: ^impia Tartara~, dice Virgilio (^Aen.~, VI, 
+543); <^empii giri~, vocabolo che ben conviene a questi cerchi, 
+nei quali @e punita molto maggior empiet@a che ne' superiori>
+(Bargigi); anzi la vera ^empiet@a~ qui proprio comincia.  |Giri~, 
+pei ^cerchi~ infernali (cf. ^Inf.~, XVI, 2; XXVIII, 50), come per
+le cornici del Purgatorio (^Purg.~, XVII, 83; XIX, 70; XXII, 2;
+XXIII, 90), e per le orbite de' Cieli (^Purg.~, I, 15; XXX, 93;
+^Par.~, II, 127; III, 76; IV, 34; XXVIII, 139); e cos@i del Pari
+adopera a vicenda il Poeta la voce ^cerchio~ per tutti e tre i
+Regni (cf. ^Inf.~, VIII, 129).  -- |Mi volvi~, mi conduci; ma la
+bella propriet@a del ^volvere~ vien dall'osservare che i poeti
+scendevano d'uno in altro cerchio girandone attorno una parte
+(cf. ^Inf.~, XIV, 124-126), di sorte che, compiuto il viaggio, 
+avranno essi compiuto un cerchio perfetto.  -- |Come a te piace~, 
+a tuo beneplacito, secondo il tuo volere; perch@e Virgilio non
+doveva dar retta ai capricci dell'alunno, che sarebbero tornati
+in suo danno rompendo a mezzo per vilt@a d'animo la ben cominciata
+e avviata impresa (cf. ^Inf.~, VIII, 102), ma doveva seguire
+l'operazione del bene con mente serena; vinto il primo assalto
+della paura, Dante riconosce che Virgilio tutto operava in suo
+bene, e perci@o gli doveva ^esser caro tutto quello che a Virgilio
+piaceva~ (^Inf.~, XIX, 37), rimettendo ad altro tempo, cio@e dopo
+compiuta la sua purificazione, di ^prendere per duce il piacer
+proprio~, cio@e di far la propria volont@a (^Purg.~, XXVIII, 137). 
+-- |Parlami~, dimmi, ammaestrami.  -- |Soddisfammi a' miei
+desiri~; il pron. pers. ^mi~ accoppiato ^a me~ o all'aggett.
+poss., non @e n@e infrequente ne' classici nostri, n@e inelegante;
+cos@i a ^me mi pare~; qui ^soddisfammi a' miei desiri~, per
+^soddisfa a'~ ecc.; pi@u sotto (v. 126): ^gli soddisfeci al suo
+dimando.~  Egual frase ai vv. 16-18, e nel ^Par.~, IX, 79:
+
+     Perch@e non soddisface a' miei desii?
+
+Il Tommaseo: <Tante cose il Poeta ha a dire, e dell'anima, in
+questo Canto; tuttavia non s'affretta; tuttavia comincia da un
+accenno teologico, e dall'usato ritegno suo verso il dolce Poeta. 
+Poi trova spazio alla fine, d'ascendere al Cielo alla sua
+Beatrice.  Come gli affetti civili in lui rimanessero affetti, 
+anche quando si tingevano di passione, questo Canto dimostra.>
+
+	|7-9.~  Sempre vivo in Dante l'ardore di nuova scienza, 
+per la quale l'uomo @e nato (^Inf.~, XXVI, 120); onde sempre forte
+il desiderio di conoscere quanto gli veniva innanzi.  -- |Gi@a~;
+siccome le tombe eran sempre scoperchiate, |gi@a~, non @e
+altrimenti avverbio di tempo, sibbene particella riempitiva.  --
+|Levati~, alzati, sollevati (cf. ^Inf.~, XI, 6).  -- |E nessun~
+ecc.  I diavoli impauriti e svergognati dal Messo celeste s'eran
+ritirati, onde non v'avea pi@u nessuno che guardasse le tombe, e
+potesse mettere ostacolo al desiderio di Dante.
+
+	|10-12.  Tutti saran serrati~ ecc.  Siccome qui ^simile
+con simile @e sepolto~, e siccome eresie ce ne saranno sempre fino
+alla fine del mondo, cos@i questi avelli restano aperti per
+accogliervi anime ancora; e solo si chiuderanno il d@i del
+Giudizio, quando il mondo sar@a finito.  -- |Quando di Iosaff@a~
+ecc., quando riprese le loro spoglie (^Inf.~, V, 98 e XIII, 103), 
+e udita la ^gran sentenza~ (^Inf.~, VI, 104), qui ritorneranno
+per essere eternamente martoriati coi loro corpi.  |Iosaff@a~ @e
+una piccola valle all'oriente di Gerusalemme, dove avr@a luogo il
+Giudizio universale.  Joel, III, 2: ^Congregabo omnes gentes, et
+deducam eas in vallem Iosaphat.~  Cf. ^Summ. Th.~, Suppl., 
+quaest. 88, art. 4.  -- |Coi corpi che.~.. |hanno lasciati~:
+frase simile nell'^Inf.~, XV, I 14, per significare il
+disciogliersi dell'anima dal corpo (cf. ^Par.~, XI, 115-116).  --
+|Lass@u~, nel nostro mondo.
+
+	|13-15.~  L'Alfieri not@o i due ultimi.  -- |Suo cimitero~
+ecc.  Ne' nostri buoni scrittori |suo~ fu adoperato anche col
+soggetto di numero plurale (cf. ^Inf.~, XXII, 144, nel commento). 
+-- |Epicuro~: nel ^Convito~ (IV, 6): <Furono filosofi molto
+antichi, delli quali primo e principe fu Zenone, che videro e
+credettero questo fine della vita umana essere solamente la
+rigida onest@a; cio@e rigidamente, senza rispetto alcuno, la verit@a
+e la giustizia seguire, di nulla mostrare dolore, di nulla
+mostrare allegrezza, di nulla passione avere sentore...  Altri
+filosofi furono, che videro e credettero altro che costoro; e di
+questi fu primo e principe uno filosofo, che fu chiamato Epicuro, 
+che veggendo che ciascuno animale, tosto ch'@e nato e quasi da
+Natura dirizzato nel debito fine, fugge dolore e domanda
+allegrezza, disse questo nostro fine essere ^voluptate.~..  E
+per@o che tra il diletto e il dolore non parea mezzo alcuno, dicea
+che ^voluptate~ non era altro, che ^non dolore~; siccome pare
+Tullio recitare nel primo ^di fine de' Beni.~  E di questi, che
+da Epicuro sono Epicurei nominati, fu ecc.> (cf. ivi, 22). 
+Epicuro nacque nelle vicinanze d'Atene nell'anno 342 e mor@i nel
+270 a. Cr.; e fond@o la scuola che da lui ebbe il nome di
+epicurea.  Dante, scrive il Casini, che ne conosceva le dottrine
+da Cicerone (^De Offic.~ III, 33, 117; ^Tuscul.~, V, 30, 31; ^De
+Finib.~, II, 25); teneva ch'egli fosse stato il primo a
+considerare la volutt@a come sommo bene, e a proclamare che
+l'anima @e mortale; mentre primo autore di codeste dottrine era
+stato Aristippo di Cirene (nato nell'a. 404 a. Cr.).  -- |Che
+l'anima col corpo morta fanno~: |fanno~, per ^credono, reputano~, 
+@e anche del linguaggio comune; che affermano, credono che l'anima
+muoia insieme col corpo.  Nel ^Conv.~, II, 9: <Dico che di tutte
+le bestialit@a quella @e stoltissima, vilissima e dannosissima chi
+crede, dopo questa vita, altra vita non essere.>  Ond'@e che per
+infrenare cotali stoltezze e vilt@a e impedire codesti danni, non
+v'ha tra' nostri classici nessun altro scrittore che dell'origine
+dell'anima umana, delle sue facolt@a, della sua immortalit@a tanto
+siasi occupato quanto l'Allighieri, come puossi vedere nel mio
+^Diz. Dant.~, all'art. Anima, {Paragraph.} I.  -- |I suoi
+seguaci~: e questi seguaci ci dovettero essere anche al tempo di
+Dante, se egli ne pone qui parecchi, pur da lui per altre ragioni
+riveriti; lo sentimmo dal Malaspini (cf. ^Inf.~, IX al v. 129);
+n@e senza motivo si deve credere che l'Ottimo facesse questa
+chiosa: <Tennero (gli Epicurei) che, morendo il corpo, muore
+l'anima dell'uomo come quella dei bruti.  In questo errore cadono
+molti del presente tempo, commemorati sotto il generale vocabolo
+di ^Paterini.~>  Ond'@e affatto necessario distinguer bene tra
+Ghibellini politici e Ghibellini eretici; Farinata, Cavalcante, 
+Federico II, l'Ubaldini e pi@u di mille altri (cf. v. 118) non son
+qui per ghibellinismo politico, ma per eresia.  <I Ghibellini
+(scrive lo Schlegel) si distinguevano non solo per uno spirito di
+superbia lor proprio, e per la prevalenza che volevano dare al
+temporale sopra lo spirituale, ma per questa massimamente, che
+negavano la potenza dell'invisibile.>  L'opera ^Gli eretici in
+Italia~ di Cesare Cant@u pu@o dar larga materia a illustrare questo
+punto del sacro Poema.
+
+	|16-18.  Alla dimanda~, che Dante espresse ai vv. 7-8. 
+-- |Quinc'entro~, di qui dentro (cf. ^Inf.~, XXIX, 89; ^Purg.~, 
+XIII, 18.  -- |Tosto~; dinota intervallo di tempo pi@u o meno
+lungo: qui, un istante; altrove, qualche ora (^Purg.~, XV, 35), e
+parecchi anni(^Par.~, IX, 46), ed epoca del tutto indeterminata 
+(^Par.~, XXVII, 67: cf. ^Purg.~, XXXIII, 37 e segg.)  -- |Al
+disio.~.. |che mi taci~: e questo desiderio doveva esser quello
+di sapere se quivi c'erano de' suoi compatriotti; e avendo inteso
+da Ciacco che Farinata e gli altri l@a nominati eran di certo
+all'Inferno, e tra l'anime pi@u nere (dentro cio@e alla citt@a di
+Dite, dove ben maggiore, che non al di fuori, la reit@a), tutto
+induce a credere (dal susseguente si spiega l'antecedente) che
+proprio Farinata e Cavalcante desiderasse di vedere, perch@e li
+sapeva, come nota il Buti, ^vivuti in s@i fatta resia.~  Questo
+tacere in Dante vedrem tosto da che provenisse, ma la risposta di
+Virgilio, che mette in rilievo il tacito desiderio dell'alunno, 
+come non @e rimprovero per Dante, manifesta il vero prudente che
+previene i bisogni delle anime, troppo pi@u rilevanti che non
+quelli che risguardano il corpo.  Nel ^Conv.~, IV, 27: <Dalla
+prudenza vengono i buoni consigli, i quali conducono s@e ed altri
+a buon fine nelle umane cose e operazioni...  N@e questo cotale
+prudente non attende chi gli domandi consiglio; ma preveggendo
+per lui, senza richiesta, colui consiglia.>  Virgilio conosce i
+pensieri di Dante per intuizione: ^Inf.~, XVI, 122; ^Purg.~, XV, 
+127-129.
+
+	|19-21.  Non tegno nascosto.~.. |mio cor~, il mio disio
+(v. 18); ma il disio @e passione, onde vale anche affetto; nella
+^Vita N.~, XIII: <La donna, per cui amore ti stringe cos@i, non @e
+come le altre donne che leggermente si muova del suo cuore.>  E
+nel ^Convito~ (II, 7) spiegando il verso:
+
+     Udite il ragionar, ch'@e nel mio core, 
+
+Dante chiosa: <Il cuore si prende per il ^secreto dentro.~>  --
+|Se non per dicer poco~; al solo fine di esser breve per non
+darti noja, ma non gi@a all'intento di tenerti nascosta cosa
+veruna.  -- |Non pur mo'~, non solamente ora, cio@e, ancor prima
+d'ora; |mo'~ sincopato dell'avv. lat. ^modo~, ora, voce
+dell'antico dialetto toscano, ma in appresso diffusasi anche
+nelle altre province d'Italia (cf. ^Par.~, XXXI, 48).  -- |A ci@o
+disposto~, <tu me n'hai ammaestrato, chiosa il Buti, ancora altra
+volta.>  Nel ^Convito~ (IV, 25), ragionando come un corpo ^bene
+ordinato e disposto~ @e ^bello~, conchiude che |disposto~, 
+rispetto all'anima, altro non significa che ^acconciato a
+perfezione d'ordine~; onde ordine e non disordine risulta nella
+^disposizione~ di riserbo, che qui Dante confessa a Virgilio. 
+Con tale dichiarazione il Poeta si richiama qui all'avviso che
+gli parve indirettamente aver da Virgilio ricevuto sin dal
+principio del viaggio (^Inf.~, III, 79-81).  Anche in appresso lo
+consiglier@a di usar parole ^conte~, cio@e chiare, e perci@o non
+prolisse; onde il Poeta, forte di questi ammaestramenti, sapr@a e
+usare debito riserbo, come avvien qui, e calda franchezza, come
+al v. 44, e altrove, tale da indurre a lode e a maraviglia gli
+stessi dannati (^Inf.~, XVI, 79-81).  Ma l'avviso virgiliano di
+essere breve ed arguto (^Purg.~, XIII, 78) pu@o mettersi a
+riscontro con quello di Cacciaguida (^Par.~, XVII, 124 e segg.), 
+perch@e l'uno compie l'altro; e s'ha cos@i non solo ci@o che
+risguarda l'arte del dire, ma s@i quanto s'appartiene alla
+moralit@a della parola, supremo intento dello scrittore (cf.
+^Purg.~, XXXII, 102; ^Conv.~, I, 2; IV, 2).
+
+	|22-24.  O Tosco~, toscano (^toscano~ una sola volta nel
+Poema, per il paese di Toscana, ^Par.~, IX, 90): per abitante di
+l@a (^Inf.~, XXII, 99; XXIII, 91; XXVIII, 108; XXXII, 66; ^Purg.~, 
+XI, 58; XIV, 103), e per la lingua (^Inf.~, XXIII, 76; ^Purg.~, 
+XVI, 137), e per l'aere (^Par.~, XXII, 117) usa sempre |tosco~, 
+come pi@u affine al lat. ^Tuscia~ (^Vulg. El.~, I, 6, 10;
+^Epist.~, VII, 3); e ^Tuscus~ (^Epist.~, VI, 5; ^Vulg. El.~, I, 
+13).  -- |Citt@a del fuoco~, la citt@a ^roggia~ (^Inf.~, IX, 73), 
+ossia la ^citt@a che ha nome Dite~ (^Inf.~, VIII, 68), resa
+rovente dalle fiamme (^Inf.~, VIII, 70-74).  Dante, tra altri
+peccatori condanna, nota il Tommaseo, al fuoco gli eretici e i
+sodomiti e gli usurai, come l'Inquisizione.  -- |Vivo~, in carne
+ed ossa (^Inf.~, XXVII, 73).  -- |Parlando onesto~ (cf. ^Inf.~, 
+II, 113), parlando onestamente, cio@e colla riverenza e modestia
+dimostrate nel rispondere test@e a Virgilio.  Questa onest@a di
+parlare @e quanto la grazia, la ^soavit@a~, <la qual grazia
+s'acquista per soavi reggimenti, che sono dolce e cortesemente
+parlare, dolce e cortesemente servire e operare> (^Conv.~, IV, 
+25).  -- |Piacciati di ristare~ ecc.: |ristare~, fermarsi
+(^Inf.~, XII, 58; XVI, 19 e spesso): nella ^Vita N.~, XXII nel
+son.:
+
+     Piacciavi di ristar qui meco alquanto:
+
+e ^Inf.~, XXVII, 23:
+
+     Non t'incresca ristare a parlar meco.
+
+	|25-27.~  L'Alfieri not@o i due primi.  |La tua loquela~:
+^loquela tua manifestum te facit~ (^Matth.~, XXVII, 73); ma qui
+|manifesto~ @e per enallage in luogo dell'avverbio, ^ti appalesa
+chiaramente nativo di~ ecc.  Altrove si fa Dante riconoscere per
+Toscano dal linguaggio (^Inf.~, XXIII, 76 e 91); e qui e altrove, 
+dalla gorga, per Fiorentino (^Inf.~, XXXIII, 11); e per
+Fiorentino anco dal modo di vestire (^Inf.~, XVI, 8).  Qui
+|loquela~ pi@u che linguaggio, vuol dire appunto la gorga, il modo
+speciale di pronunzia, onde un Fiorentino si distingue dagli
+altri Toscani; perci@o non credo affatto, come vorrebbe qualche
+interprete, che i modi ^tegno~ {v.19}, ^dicer~ {v.20} ^pur mo~
+{v.21} fossero forme esclusivamente fiorentine, cos@i che da
+queste, pi@u che dall'accento, Farinata conoscesse che Dante era
+Fiorentino.  -- |Nobil patria~, Firenze, ^la gran villa~ (^Inf.~, 
+XXIII, 95), ^la bellissima e famosissima figlia di Roma, 
+Fiorenza~ (^Conv.~, I, 3), della quale, dice Dante, ^ad
+voluptatem nostram, sive nostrae sensualitatis quietem, in terris
+amoenior locus non existit~ (^Vul. El.~, I, 6).  Ma certo il
+Poeta intendeva qui di accennare a quella ^nobilt@a~ degli ^alti
+Fiorentini~, che caramente ricorda nel ^Par.~, XV, 112 e segg., e
+XVI, 85 e segg.  -- |Forse fui~ ecc.  |Molesto~, combattendo
+contro i Guelfi di Firenze e per due volte disperdendoli (v. 48). 
+-- |Forse~: @e potente di verit@a e di affetti; e' s'accusa e si
+scusa; non pu@o negare d'aver recato a Firenza dei danni, ma vuol
+mostrare che ci fu costretto dalla cattiveria degli avversari. 
+Il Landino: <Disse forse per non si privare al tutto di scusa;
+quasi dica: se io fui empio, i miei avversari me ne dieron
+cagione.>  Il De Sanctis: <Sono le sfumature e le delicatezze
+dell'anima, che balzan fuori in modo spontaneo e irriflesso, 
+evocate da fatti inaspettati e cos@i ingegnosamente inventati. 
+L'improvviso @e espresso fino in quel subito erompere delle parole
+prima ancora che noi sappiamo onde vengano e da chi.  Se Farinata
+dicesse: Io fui molesto alla mia patria, sarebbe un giudizio gi@a
+fatto e vagliato e determinato.  Ma questo concetto gli si
+presenta ora la prima volta innanzi, c#olto all'improvviso da una
+di quelle gagliarde impressioni che mettono l'anima a nudo, e
+sotto la pressione di dolci sentimenti gli esce dalla bocca una
+confessione in quella forma provvisoria di un giudizio nuovo e
+improvviso, che non si @e avuto il tempo di esaminare.>
+
+	|28-30.  Subitamente~, d'improvviso, all'impensata (cf.
+^Purg.~, I, 136; II, 128; XXVIII, 38): nella ^Vita N.~, III, (nel
+son.): m'apparve Amor subitamente.  -- |Questo suono~, queste
+parole.  -- |Una dell'arche~: <Dante non dice, avverte bene il
+Casini, che quella fosse proprio l'arca stessa dov'erano con
+^Epicuro tutti i suoi seguaci~; ma che non si tratti d'altra arca
+intendono tutti i commentatori, parlando di Farinata come di un
+epicureo.>  Sta bene: ma non so s'io mi sia troppo ardito a
+ritenere, che quantunque Farinata sia da tutti i chiosatori
+tenuto per epicureo, e come tale da Dante condannato, non @e
+mestieri supporlo proprio nell'arca di Epicuro; per qual motivo
+si vuol supporre tutti gli epicurei in una sola e medesima tomba? 
+Virgilio dapprima ha detto semplicemente:
+
+     Simile qui con simile @e sepolto
+     (IX, 130):
+
+e appresso (vv. 13-14):
+
+     Suo cimitero da questa parte hanno
+     Con Epicuro tutti i suoi segnaci;
+
+n@e pi@u, n@e meno.  Or dico: ^cimitero~, pi@u che tomba, significa
+luogo seminato di tombe: se per tutti gli epicurei ammettasi una
+sola tomba, di necessit@a una sola tomba bisogna ammettere per
+ogni altra singola eresia, e non pi@u; e allora si domanda: quante
+poi posson essere codeste eresie, da aver bisogno di s@i ^grande
+campagna~ (IX, 110), e cos@i fitta di tombe, da non lasciarvi che
+qualche angustissimo sentiero (v. 3)? dunque, per ^cimitero~ io
+intendo uno scompartimento di tombe, un tratto di terreno sparso
+d'avelli; onde divido la campagna in tante sezioni quante sono o
+possono essere le eresie; ogni eresia ha il suo scompartimento e
+molte tombe, quante possono essere le varie gradazioni di
+maggiore o minore reit@a nei professanti l'eresia stessa; per ogni
+gradazione, una tomba; e cos@i abbiamo limpido e ragionevole e
+teologico il senso del verso (IX, 131)
+
+     E i monimenti son pi@u e men caldi;
+
+perch@e non @e giusto il credere che Epicuro sia in avello del pari
+caldo come quello in che si trovi un povero zotico, pur pertinace
+e infetto di quella eresia, che del suo errore n@e fece proseliti, 
+n@e seppe in tutto ponderarne la reit@a.  Con questo pensiero non
+trovo strani n@e la ^grande campagna~, n@e l'immenso numero di
+tombe; e innoltre trovo il Poeta in accordo con s@e stesso, che
+altrimenti non sarebbe.  Mi spiego: nel Cerchio seguente (XII, 
+100 e segg.) nella riviera del sangue bollente stanno i tiranni
+
+     Che di#er nel sangue e nell'aver d#i piglio:
+
+il Poeta ne scorge alcuni immersi in quel sangue ^infino al
+ciglio~, chi sino alla gola, altri fin sotto al casso, e chi non
+ha in quel sangue che appena i piedi (loc. cit. 103-125): che
+significa ci@o? non v'ha dubbio che la maggiore o minore
+immersione, che @e pena, indica la maggiore o minore gravit@a
+personale di colpa pur nella stessa qualit@a di peccato.  Il
+simile avviene de' violenti nel terzo girone del settimo cerchio
+(^Inf.~, XIV, 25-27).  Cos@i nella bolgia de' simoniaci Dante vede
+un condannato, le cui piante ^pi@u rossa fiamma succia~ (^Inf.~, 
+XIX, 33): ma la fiamma @e il tormento; dunque in colui, pur fra
+tutti gli altri simoniaci, pi@u grave @e la reit@a.  Del pari nella
+bolgia dei seminatori di discordie religiose e civili e
+domestiche, differenti del tutto le grandezze delle squarciature
+nei dannati (^Inf.~, XXVIII, 22 e segg.); e il Poeta si fa
+premuroso di metterlo in chiaro.  Altrettanto avviene nel
+Purgatorio; i pazienti della prima Cornice si presentano al Poeta
+(^Purg.~, X, 136)
+
+                     pi@u e men contratti, 
+     Secondo ch'avean pi@u e meno addosso;
+
+perch@e il peso ch'avevano addosso @e proporzionato al grado della
+loro colpa; e altri luoghi si patrebbero recare: dunque @e chiaro
+che in uno stesso cerchio, ove un peccato si sconta, tra i
+pazienti colpevoli di offesa per qualit@a eguale, c'@e differenza
+manifesta nella quantit@a della pena; e non volete che altrettanto
+s'abbia a dire degli epicurei? dunque, una sezione della grande
+campagna serve di cimitero a costoro, divisi in pi@u gradazioni, e
+per ci@o in pi@u tombe, secondo il grado della loro reit@a, onde i
+monumenti erano ^pi@u e men caldi~ non solo raffrontata la gravit@a
+d'un eresia ad un'altra, ma anche messe tra loro a confronto le
+specie varie dei peccati d'epicureismo.  Forse io traveggo; ma la
+cosa parmi tanto chiara, anzi cos@i necessaria ad ammettersi, che
+mi fa specie che sinora non sia stata veduta da chi in questi
+studi ha l'occhio troppo pi@u acuto del mio.  -- |M'accostai, 
+temendo~ ecc.; mi strinsi, per sospetto, a Virgilio (^Inf.~, IX, 
+51).  Dante che nulla s'aspettava, osserva il Cesari, n@e avea
+veduto, rimase sbigottito da quella voce, e si raccost@o pi@u a
+Virgilio, senza voltarsi a veder che fosse.
+
+	|31-33.~  L'Alfieri not@o il 32.  |Volgiti~; si vede che
+il Poeta per paura s'era tutto converso e rivolto a Virgilio: --
+|che fai~? di che paventi? di che vuoi aver paura?  -- |Vedi l@a
+Farinata~ (lascia intendere il gesto; cf. IX, 45, e qui sotto v.
+62, e XV, 36, 117); e comincia il s@i ammirabile episodio, dove @e
+scolpito con perfezione inarrivabile un tipo di passione
+politica.  -- |Dalla cintola in su~ ecc. (dall'umbilico in su
+^Inf.~, XXXI, 33), quasi da mezzo il petto in su (^Inf.~, XXXIV, 
+22), per quello che son venuto sponendo nel Canto precedente vv.
+112-117.  Il De Sanctis: <L'inattesa comparsa di Farinata sulla
+scena @e apparecchiata in modo ch'egli @e gi@a grande nella nostra
+immaginazione, e non l'abbiamo ancora n@e veduto n@e udito. 
+Farinata @e gi@a grande per l'importanza che gli ha dato il Poeta, 
+e per l'alto posto che occupa nel suo pensiero.  E non lo vediamo
+ancora, e gi@a ce lo figuriamo calossale dalle parole di
+Virgilio.>  Certo, l'Allighieri doveva pensare a Farinata anche
+quando scrisse (^Conv.~, IV, 20): <Come uomini vi sono vilissimi
+e bestiali, uomini vi sono nobilissimi e divini.  Sicch@e non dica
+quegli degli Uberti di Firenze, n@e quegli de' Visconti di Milano:
+^perch'io sono di cotate schiatta, io sono nobile~: ch@e il divino
+seme (della nobilt@a) non cade in ischiatta, cio@e in istirpe, ma
+cade nelle singulari persone; e la stirpe non fa le singulari
+persone nobili, ma le singulari persone fanno nobile la stirpe.> 
+Di Farinata Filippo Villani (^Vite d'Uomini illustri
+Fiorentini~):> Farinata Uberti fu' uomo d'ordine militare nato
+della nobile stirpe degli Uberti discesi di Catilina.  Nella sua
+adolescenza fu nelle arti liberali esercitato, dove dette
+speranza di grande uomo, e pervenuto alla giovent@u, scorrendo
+spesso a, nemici infino presso alla terra, per le divisioni che
+in quei tempi regnavano, era quasi sempre capitano dell'esercito;
+e spesse volte con tanta prestezza vinse i superbi nemici, che
+impossibile parea pure a pensare; donde la sua fama divent@o
+celebre per tutta l'Italia.  Ma fidandosi egli troppo del riso
+della fortuna, e volendo quasi solo governare la repubblica, fu
+cacciato dalla parte contraria, onde a Siena, dove gran copia di
+sbanditi si trovava, n'and@o: e quivi essendo da ciascuno tenuto
+per capitano e principale consiglio, fu autore, che al re
+Manfredi, il quale allora vituperosamente reggeva nel reame di
+Puglia e Sicilia, si addimandasse aiuto, avendo con alcuni
+segreti mandatarii fatto dare speranza ai Fiorentini di pigliare
+Siena, perch@e loro avesser cagione d'entrare alla difesa, 
+sperando in questo modo o vittoria o gloriosa morte.  Tenne
+alquanto tempo Manfredi la loro addimandita sospesa, quasi non la
+curasse, alfine poi offerse loro cento cavalieri, la qual cosa
+gli altri ambasciadori sdegnando volevano rifiutare, ma per
+consiglio di Farinata l'accettarono; solo addimandando; che
+quelli potessero sotto la sua reale insegna militare, la qual
+cosa loro fu conceduta.  Fece allora Farinata avvisati i Sanesi, 
+che la piccola schiera del re ricevessero, in s@e tenendo occulto
+il suo pensiero; donde avvenne, che i cavalieri del re da
+quell'onore e da molte lode sollevati, spesso domandavano
+d'uscire alla battaglia.  Alla fine, quando gli parve, ordin@o
+loro un magno convito, nel quale a ciascun cavaliere pose allato
+una bella dama, colle quali aveva ordinato, che ciascuna facesse
+bere assai, e molto favellando riscaldare, e quando cos@i fossero
+caldi, gli addimandasse di grazia di portarsi bene per suo amore
+contro a' nemici; la qual cosa gli riusc@i appunto.  Ed essendo i
+cavalieri per amore delle dame volonterosi di combattere, gli
+mise in fretta contro a' nemici, dove, non gli seguitando lui, 
+furono tutti morti, e la loro insegna presa, e da' Fiorentini
+strascinata e molto vilipesa.  La qual cosa dagli usciti a
+Manfredi referita, dolendosi pi@u dell'offesa reale che di s@e;
+onde il re sollevato e adirato dette loro aiuto d'ottocento
+cavalieri, coi quali poi allato a Monteaperti furono i Fiorentini
+vinti e sconfitti.  Per la qual cosa fu tanto dagli avversari
+temuto, che cedendoli gli lasciarono la patria, la quale egli
+aveva tanto afflitta, e cos@i vi torn@o.  Fu Farinata di statura
+grande, faccia virile, membra forti, continenza grave, eleganza
+soldatesca, parlare civile, di consigli sagacissimo, audace, 
+pronto e industrioso in fatti d'arme.  Fior@i vacante l'imperio
+per la morte di Federigo secondo, e di nuovo cacciato e fatto
+rubello mor@i in esilio.>  Queste ultime parole del buon Villani
+non sono che il succo spremuto di quanto il Poeta espone del
+carattere dell'Uberti; e tanto, che se il Villani fosse stato
+anteriore a Dante, qualcuno sarebbe tentato di credere che da
+queste parole il Poeta si fosse stampato in mente il tipo di
+Farinata.
+
+	|34-36.~  Notati dall'Alfieri.  |Io avea gi@a il mio viso~
+(cf. ^Inf.~, IV, 11; IX, 55) |nel suo fitto~; da ^figgere~, 
+fissare, |fitto~ e ^fisso~; qui segue l'opinione di Platone (cf.
+^Inf.~, IX, 73-75).  Il nome di uomo s@i famoso l'aveva tutto
+tratto in quella sembianza; onde non ^rivolto~, ma |fitto~; come
+noi, per dimostrare un affetto potente verso o contro alcuno, 
+diciamo: ^gli pianta li occhi addosso.~  Il Poeta usa altrove la
+frase pur viva ^tutto attaccarsi in veder alcuno~ (^Inf.~, 
+XXVIII, 28).  ^Figgere gli occhi~ a una cosa (^Par.~, I, 54); ma
+pi@u @e ^figgerli in~ (^Par.~, XXI, 92); di qui ^fisso~ per attento
+(^Inf.~, XXX, 131; ^Par.~, VII, 96).  Virgilio (^Aen.~, XII), 
+^Egitque in virgine vultus.~  -- |Ed ei s'ergea~ ecc.; questa
+pittura quasi ci porta a quella, bench@e d'altro stile e colore, 
+di Capaneo (^Inf.~, XIV, 46-48); qui al tutto si vede l'atto di
+quel protendersi vigoroso e superbo, quasi per cacciarsi sotto
+tutti gli altri, e l'Inferno, e i suoi tormenti; e cos@i ci si
+presenta colossale, quale, ancor prima di vederlo, come not@o il
+De Sanctis, ce lo avevan fatto credere le parole di Virgilio. 
+<Quell'ergersi, dice il De Sanctis, ti d@a il concetto d'una
+grandezza tanto pi@u evidente, quanto meno misurabile; @e
+l'ergersi, l'innalzarsi dell'animo di Farinata sopra tutto
+l'inferno.  Cos@i con un colpo solo di scalpello Dante ha
+abbozzato la statua dell'eroe, e ti ha gittato nell'animo
+l'impressione d'una forza e d'una grandezza quasi infinita.>  --
+|Come avesse.~.. |in gran dispitto~, a ^disdegno~ (v. 63), in
+disdegno (^Inf.~, XIV, 69), in ^dispregio~ (^Inf.~, XXIII, 93). 
+Il baldo sprezzatore della vita futura pare, pur provandone s@i
+terribili effetti, che non abbia smesso punto dal suo orgoglioso
+disprezzo; ma come a Capaneo (^Inf.~, XIV, 64-66) forse questa
+permanente superbia @e castigo maggiore della stessa fiamma, che
+il succia.  Virgilio, di Mezenzio (^Aen.~, X, 770):
+
+                         manet imperterritus ille
+     Hostem magnanimum opperiens, et mole sua stat.
+
+Cf. v. 73.
+
+	|37-39.~  L'Alfieri trascrisse i due primi.  |Le animose
+man~ ecc.  <Le mani, per loro medesime, non sono n@e vili n@e
+animose, ma per l'atto ch'elle fanno, nel quale atto si considera
+l'anima e la volont@a di colui che le muove> (^Anon. Fior.~).  --
+|Le parole tue~ ecc.; ^a~) ai contemporanei, nell'Inferno, parla
+Dante; ^b~) agli antichi Virgilio: ^A~) cf. V, 80 e segg.; VI, 58
+e segg.; XV, 30 e segg.; XVI, 52 e segg.; XVIII, 48 e segg. e 120
+e segg.; XIX, 90 e segg.; XXIII, 97; XXVII, 36 e segg.; XXVIII, 
+91 e 109; XXIX, 103 e segg.; XXX, 34 e segg.; XXXII, 43 e segg., 
+e 91 e segg., e 133 e segg.; XXXIII, 115 e segg.: -- ^B~) cf.
+XII, 64 e 85; XIV, 61 e segg.; XXVI, 73 e segg.; XXXI, 115 e
+segg.  Per@o anco a' contemporanei di Dante qualche volta parla
+Virgilio, cf. XIII, 46 e segg.; XXII, 47 e segg. e 79; XXIII, 
+127; XXIV, 121.  -- |Conte~: chi intende |conte~ quasi per
+cognite, cio@e palesi e senza oscurit@a; e ci@o potrebbe trovare
+conferma nel v. 44: altri, come il Cesari, intende ^contate~, 
+cio@e numerate, <quasi dicesse: ^non le affastellare alla rinfusa, 
+ma ben pesate per singula~;> n@e questo @e consiglio grave; troppo
+sottile il Daniello: <sieno manifeste e chiare, e non ambigue, o
+dubbie, perci@o che a parlar con heretici bisogna esser molto
+accorto e riguardoso.>  Meglio il Buti: <parla apertamente e
+ordinatamente, > cio@e con quella franchezza e decoro, di cui Dante
+era debitore a s@e e ad avversario cos@i rispettabile; onde ^conto~
+io derivo da ^comptus, nobile, ornato.~  Dante nella ^Vulg. El.~, 
+I, 11, dice ^incomptum et ineptum~ il linguaggio di non poche
+province d'Italia; e l'^ineptum~ aiuta a meglio capire la parola
+|conte~, cio@e ^nobili ed efficaci~; e questa efficacia @e
+quell'^aprire~, onde @e cenno al v. 44.  E cos@i pu@o giovare
+l'avvertire come il nostro Autore suddivida i vocaboli in
+^puerilia, muliebria~ e ^virilia~; altri in ^silvestria et
+urbana~; e ancora in ^pexa~ (qui ritorna l'idea di ^comptus~), 
+^lubrica, irsuta et reburra; inter quae quidem pexa et irsuta
+sunt illa, quae vocamus grandiosa~ (^Vulg. El.~, II, 7).
+
+	|40-42.  Tosto che al pi@e~ ecc. (altri: ^com'io al pi@e~);
+se aveva |pi@e~, dunque s'innalzava, dunque non era tomba
+terragna.  Della scena, che ora ci si pone dinanzi, @e da
+attendere ad ogni sua parte pi@u minuta, ch@e tutto @e qui bellezza
+maravigliosa.  -- |Guardommi un poco~; @e l'atto di chi cerca di
+raccogliere le impressioni; cos@i Dante con Ciacco (^Inf.~, VI, 
+41-45), con Manfredi (^Purg.~, III, 106) e con Piccarda (^Par.~, 
+III, 47-48, 58-63).  -- |Quasi sdegnoso~, di non essere riuscito
+a riconoscermi.  -- |Maggior~; avi, antenati; di che schiatta
+sei? cf. ^Purg.~, XI, 62; ^Par.~, XVI, 43.  Non tanto a Farinata
+sta a cuore di conoscere chi sia propriamente questo suo
+compatriota, quanto di qual partito fossero i suoi avi.  Il De
+Sanctis: <Quando Farinata si vede presso quell'uomo, e lo ho
+squadrato, e non lo ha conosciuto, diviene quasi sdegnoso, 
+sospettando non forse appartenesse al partito contrario al suo. 
+Chi poco innanzi sentia rimorso di essere stato troppo molesto
+alla patria con le passioni, un momento appresso si lasci@o
+invadere da quelle passioni.  La natura ripiglia il suo posto; il
+partigiano si presenta nella sua nudit@a.  Non basta a Dante esser
+toscano: per trovar grazia presso a Farinata bisogna ch'egli sia
+ghibellino.  ^Chi fur gli maggior tui~?  In quei tempi di tanta
+energia il partito non era solo legame di opinione, ma eredit@a di
+famiglia.>
+
+	|43-45.  D'ubbidir desideroso~, d'ubbidire a Virgilio, 
+che gli aveva ingiunto: ^le Parole tue sien conte~ {v.39}; ma non
+gi@a, credo io, desideroso di far conoscere la nobile sua stirpe, 
+come spiegano alcuni, sibbene incalzato dal desiderio di parlare
+con tal personaggio, e di manifestare le sue idee politiche.  --
+|Non gliel celai~ ecc.; si notino le due forme, a bello studio
+usate, bench@e l'una dica l'altra; ci si sente palese la voglia
+d'uno sfogo di passione politica; come pure nella terzina
+seguente, per la sua abbondanza incalzante di parole, e financo
+pel suono: la risposta di Farinata chiarisce egregiamente che il
+dannato aveva compreso che qui si trattava d'un avversario; e si
+danno pane per focaccia.  -- @E da notarsi che Brunetto Allighieri
+fu tra' Guelfi alla battaglia di Montaperti.  -- |Gliel'apersi~;
+bello l'^aprire~ per ^dichiarare~, manifestare (cf. ^Inf.~, II, 
+81); dal senso fisico (cf. ^Inf.~, II, 128), con ascendenza al
+morale dell'aprirsi il cuore a speranza (cf. ^Purg.~, XV, 131), 
+all'intellettuale; di Dio creante:
+
+     S'aperse in nuovi amor l'eterno Amore
+
+(^Par.~, XXIX, 18); e Beatrice, ^Par.~, XIII, 49 (cf. ivi, VII, 
+34, e ^Purg.~, XVII, 89):
+
+     Or ^apri~ gli ochi a quel ch'io ti rispondo;
+
+e della mente udimmo il Poeta (^Inf.~, VI, 1-2):
+
+     Al tornar della mente, che si ^chiuse~
+     Dinanzi alla piet@a di due cognati ecc.;
+
+e notabile l'altro del ^Purg.~, XXXII, 93: quindi ^chiuso~ per
+^oscuro, non facile a capirsi~ (^Purg.~, XI, 139; ^Par.~, XI, 73, 
+anche di persona).  Onde ^aprire~, come qui Dante a Farinata, per
+^ispiegare~; e ^Inf.~, XI, 33 ^aperta ragione~; e ^aprire il
+senso delle parole~ diciam bene; cf. ^Purg.~, V, 52; onde nel
+^Purg.~, XVIII, 85 ^ragione aperta e piana~: e Farinata tosto si
+preger@a (v. 93) d'aver difeso Firenze, ^a viso aperto~, cio@e
+senza secondi fini, con lealt@a palese.  -- |Ond'ei lev@o le ciglia
+un poco~ ecc.; atto di chi cerca risovvenirsi di qualche cosa, 
+dicono i chiosatori; e a me pare invece che sia atto del tutto
+contrario, di chi cio@e avendo troppo ben capito, n@e avendo
+bisogno d'altre ricordanze, sente vivo cruccio di quanto ha
+inteso, e si prepara al ripicco.  Non @e atto naturale nell'uomo, 
+che pensa o vuol chiamare alla memoria le cose, alzar la fronte
+in su, sibbene di abbassarla; questo lo prova l'esperienza tutto
+d@i; di questo Dante ne porge non pochi esempi (cf. ^Inf.~, V, 
+110-111; VIII, 118; XII, 31;, ^Purg.~, XII, 7-9).  -- |Soso~ (e
+^zoso~ dicesi in molte parti del Veneto per ^giuso~), per ^suso~
+(cf. ^Inf.~, XVI, 131, dal ^susum~ per ^sursum~, come vuole il
+Diez).  I nostri antichi usavano indifferentemente le vocali ^u~
+e ^o~, come ^vui~ per ^voi~, ^foro~ per ^furo~, ^lome~ per
+^lume~, ^summo~ per ^sommo~ come i Latini ^voltus~ per ^vultus~, 
+^adulescens~ per ^adolescens.~
+
+	|46-48.  Fieramente~; senza modo di riconciliazione; --
+|a me~, personalmente, -- |a miei primi~; a' miei antenati; --
+|parte~; partito, fazione.  -- |S@i che~ ecc.; @e verso pieno e
+potente, e ci si sentono e cruccio vivo, e alterezza soddisfatta;
+quasi dicesse: que' sciocchi tuoi Guelfi vollero incontrarsi con
+me, ma trovaron pane pei loro denti!  -- |Due fiate~ (cf. v. 50), 
+ci@o fu nel Febbraio del 1248 cogli aiuti di Federico II; e nel
+1260 dopo la battaglia di Montaperti (cf. G. Villani, VI, 33, e
+78-81).  -- |Gli dispersi~, li cacciai in esilio in varie parti
+(v. 49).
+
+	|49-51.~  Passione per passione, botta e risposta; Dante
+punto in sul vivo, gli rimbecca il suo vanto a dieci per uno. 
+|Ei torn#ar d'ogni parte~; dunque i membri d'una stessa famiglia, 
+cacciata in esilio, si ^dispergevano~ (v. 49), certo per meglio
+tenerla svigorita.  Nel dialogo tra Dante e Farinata ognun vede
+che @e ben messo in atto il precetto del nostro Autore (^Conv.~, 
+IV, 8): <Perocch@e dinanzi all'avversario si ragiona, il rettorico
+dee molta cautela usare nel suo sermone, acciocch@e l'avversario
+quindi non prenda materia di turbare la verit@a.>  -- |E l'una e
+l'altra fiata~ (cf. v. 48; ^Inf.~, XXX, 3): i Guelfi sbanditi nel
+'48 ritornarono in Firenze nel Gennaio del '51, richiamativi dal
+popolo, che si lev@o contro il governo de' Ghibellini (cf. G.
+Vill., VI, 42); e la seconda volta ritornarono sullo scorcio del
+'66, dopo che il ghibellinismo ebbe la sua disfatta colla
+battaglia di Benevento, morto Manfredi (G. Vill., VII, 14).  --
+|I vostri~; qui non intenderei i Ghibellini, que' di vostra
+parte, sibbene quei di vostra casa (cf. v. 47 e 84), perch@e
+questo |vostri~ @e in intima relazione di risposta con ^maggior
+tui~ (cf. v. 82-84); soprach@e, or siamo nel 1300, e bisogna
+ricordarsi che nel 1268 alunni tra' Ghibellini furono richiamati
+per intromissione del Legato del Papa: e che nel 1280 tra Guelfi
+e Ghibellini fu fatta pace generale, escludendosi per@o dal
+richiamo in patria circa sessanta famiglie de' Ghibellini, in
+capo alle quali quella di Farinata, la quale era in esilio
+tuttavia mentre il Poeta parlava con lui (cf. G. Vill., VII, 56). 
+-- |Quell'arte~, di ritornare; non trovarono la via.  Dante
+(^Epist.~, IX, 4): ^Via redeundi ad patriam.~  Questa risposta
+cos@i ^conta~, s@i precisa e dignitosa, doveva cuocere al fiero
+Ghibellino, il quale, dopo l'episodio di Cavalcante, se ne vale
+come d'introduzione alla seconda parte del suo discorso.
+
+	|52-54.~  Da quel maestro, ch'egli @e, quasi a tramezzare
+il quadro, il Poeta fa nascere un bellissimo incidente, che
+mostra l'ubert@a della sua fantasia e il magistero della sua arte. 
+Da un carattere fieramente superbo, a un carattere dolce; da
+passione politica, ad effetti paterni; da tragedia ad idillio; e
+come nella pittura l'oscuro ravviva il chiaro, cos@i quella certa
+soavit@a, che traspira dalle parole di Cavalcante, mette pi@u in
+rilievo l'indomabile fierezza di Farinata.  -- |Allor~, dopo
+quelle parole.  -- |Vista scoperchiata~; apertura senza
+coperchio; |vista~ per apertura (^Purg.~, X, 67); dunque
+s'affacci@o all'apertura o alla bocca della tomba, dacch@e era
+senza ^coperchio~ (v. 8-9).  Male intendere |scoperchiata~
+riferito ad |ombra~, se ^scoperchiato~ non puossi riferire che a
+ci@o che ha ^coperchio.~  -- |Un'ombra~; @e quella di Cavalcante
+Cavalcanti, padre del celebre Guido, il ^primo amico~ di Dante
+(cf. v. 63).  Di Cavalcante il Boccaccio: <Leggiadro e ricco
+cavaliere, e segu@i l'opinione d'Epicuro, in non credere che
+l'anima dopo la morte del corpo vivesse, e che il nostro sommo
+bene fosse ne' diletti carnali.>  -- |Lungo questa~, d'accosto, 
+rasente a questa; dunque |lungo~ e ^lunghesso~ non solo si d@a a
+luoghi, ma anco a persone (cf. ^Inf.~, XXI, 98); nel ^Par.~, 
+XXXII, 121-131:
+
+     E quei che vide tutti i tempi gravi...
+     Siede lungh'esso; e lungo l'altro posa
+     Quel duca ecc.
+
+Nella ^Vit. N.~, XII: <Mi parve vedere lungo me sedere un giovane
+ecc.>  -- ^Credo che fosse inginocchion levata~, appunto perch@e
+la vide non dalla cintola in su, come Farinata, ma soltanto
+infino al |mento.~
+
+	|55-60.~  L'Alfieri not@o la prima terzina.  |D'intorno mi
+guard@o~; il primo atto di Cavalcante @e quello che meglio risponde
+al suo cuore di padre, di conoscere cio@e se in compagnia di Dante
+vi fosse il suo Guido.  -- |Talento~, desiderio, volont@a (cf.
+^Inf.~, II, 81); e anche mala inclinazione (^Inf.~, V, 39;
+^Purg.~, XXI, 64).  -- |Il suspicar~ (altri ^sospicar, sospiciar~
+e ^sospeciar~); @e il ^suspicari~ de' Latini, e vale sospettare, 
+dubitare (cf. ^Purg.~, XII, 129); e tal verbo dipinge a capello
+il dubbio e l'incertezza che si mescolavano al desiderio e alla
+speranza del dannato.  -- |Fu tutto spento~: ma poi che il
+|suspicare~, in quant'era desiderio e speranza, fu del tutto
+levato via (poi che il suo credere vide ^sommerso nel falso~, 
+^Par.~, II, 61).  -- |Piangendo~ (^con voce di pianto~, ^Inf.~, 
+XIX, 65): serve di sfondo mirabile alla fierezza di Farinata;
+Farinata ardito, Cavalcante lagrimoso; quegli sprezza l'inferno
+men potente della sua passione politica (v. 78), questi si lascia
+vincere al dolore di padre.  -- |Cieco carcere~, muto d'ogni luce
+(^Inf.~, V, 28); |cieco carcere~ anche nel ^Purg.~, XXII, 103;
+come nell'^Inf.~, IV, 13, e XXVII, 25, ^cieco mondo~, perch@e
+privo non solo della luce del Sole fisico, ma e s@i
+dell'intellettuale, che @e dell'intelletto il solo e vero bene
+(^Inf.~, III, 18).  -- |Per altezza d'ingegno~ ecc.; ecco il
+mezzo onde Dante pot@e intraprendere e fare il suo viaggio; e a
+Cavalcante piace di credere che il suo Guido non fosse da meno. 
+Questa sorpresa di vedere Dante senza Guido, ne fa certi che i
+due amici ben di rado stavano separati.  L'Ottimo: <L'autore e
+Guido Cavalcanti furono amicissimi; la quale amistade si cre@o in
+loro per similitudine d'abito scientifico, e per similitudine di
+costumi, e di passioni d'animo e di vita, e di parzialitate, e di
+cittadinanza: le quali similitudini tennero in amistade congiunti
+li animi dell'Autore e di Guido: quanto Guido visse, amendue
+studiarono in Firenze, amendue amarono per amore, amendue
+parlarono in rime, canzoni, ed altre specie di dire con misura di
+piedi, e di tempi sillabati, a mendue seguitavan un volere in
+governare la Repubblca di Firenze per la quale con gli altri
+furono chiamati Bianchi e per quello volere cacciati furono di
+Firenze con gli altri.>  Fra Guido e Dante per@o doveva correre
+non lieve differenza d'et@a, quando s'attenda che del 1267 (quando
+l'Allighieri non aveva che due anni), allorch@e a garanzia di pace
+tra Guelfi e Ghibellini si stabilirono dei parentadi, Guido fu
+fidanzato a Beatrice degli Uberti figliuola di Farinata, dalla
+quale ebbe poscia diversi figliuoli.  Come guelfo ebbe parte nel
+governo di Firenze, e nel 1280 fu tra i mallevadori dei patti
+giurati al cardinale Latino, Legato di papa Niccol@o III; e nel
+1284 lo troviamo con Brunetto Latini e con Dino Compagni tra i
+consiglieri della citt@a.  Il Compagni lo chiama ^cortese e
+ardito, ma sdegnoso e solitario, nimico di messer Corso; e messer
+Corso forte lo temea, perch@e lo conoscea di grand'animo, e cerc@o
+di assassinarlo andando Guido in pellegrinaggio a San Jacopo, e
+non gli venne fatto.~  Quando i Guelfi di Firenze si divisero in
+Bianchi e in Neri, Guido, ch'era de' Bianchi, ebbe non piccola
+parte nelle lotte faziose, specialmente contro gli Uberti; onde
+nel giugno del 1300, essendo Dante de' Priori, Guido fu mandato a
+confine a ^Sarezzana indignissimamente~, dice Filippo Villani, 
+dove contrasse quella malattia della quale, ritornato a Firenze, 
+mor@i.  Dell'amicizia tra Guido e Dante fu occasione quel sonetto, 
+che @e il primo nella ^Vita Nuova~, e indi Guido divenne il ^primo
+amico~ di Dante (^Vit. N.~, III, 3), anzi la ^Vita Nuova~ fu
+scritta e indirizzata a lui (^Vit. N.~, XXV, 3).  Guido fu
+cultore egregio della poesia lirica volgare (cf. ^Vit. N.~, XXV, 
+3), da Dante recato in esempio tra' poeti migliori (^Vulg. El.~, 
+II, 6, 12), e scrisse sonetti e ballate di tutta eleganza; ed @e
+tuttavia celebre quella Canzone che Filippo Villani chiama
+^elegantissima e mirabile~, sulla natura dell'amore, commentata
+nel trecento da Dino del Garbo, da Egidio Romano e da Ugo dal
+Corno.
+
+	|61-63.  Da me stesso non vegno~; di questa frase, a
+prima giunta s@i semplici e facile, e che in germe contiene la
+risposta a Cavalcante, s'@e fatto un nodo gordiano: parecchi
+intendono che Guido, tutto inteso agli studi filosofici
+(^Boccaccio, Anonimo Fior., Benvenuto, Landino~), disprezzava i
+poeti (^Lana, Ottimo, Buti~); ma come, se Guido era poeta anche
+lui? e, se innamorato degli studi filosofici, come poteva avere a
+|disdegno~ quel Virgilio, nel quale l'amico suo scorgeva il vero
+tipo della moral filosofia? chi intende, tra' moderni, che Guido, 
+guelfo, non poteva amare Virgilio, il cantore dell'idea
+imperiale.  Altri trovano nella ^Vit. N.~, XXX, 9, il motivo di
+questo |disdegno~ di Guido per Virgilio, cio@e ch'ei non amava le
+scritture latine.  E quantunque dal passo pi@u sopra allegato di
+Dino Compagni, suo coetaneo e commilitone nel governo di Firenze, 
+sia stabilita la religiosit@a di Guido dal fatto, che and@o in
+pelligrinaggio a Tolosa alla tomba di San Giacomo (cf.
+Mazzuchelli, Note alle ^Vite d'Uomini illustri~ di Fil. Villani, 
+pagg. 154-155, Firenze, 1826), tuttavia il D'Ovidio, seguendo il
+Boccaccio (nel ^Decam.~ g. VI, n. 9, scrisse di Guido: ^alquanto
+teneva dell'opinione degli epicurei; si diceva tra la gente
+volgare che queste sue speculazioni eran solo in cercare se
+trovar si potesse che Iddio non fosse~) e Benvenuto da Imola
+(^errorem, quem Pater habebat ex ignorantia, ipse conabatur
+defendere per scientiam~), ne volle indurre che il Poeta volle
+fare intendere a Cavalcante che tra Virgilio e Guido non ci
+poteva essere accordo, perch@e Virgilio era troppo credente nella
+Divinit@a.  Finalmente v'@e chi tiene (e questa @e pi@u grossa di
+tutte) che |Colui che attend@e l@a~, non si debba intendere
+riferirsi a Virgilio, bens@i a Dio, quasi dica; |mi mena per qui~, 
+mi trae per l'inferno la volonta di |Colui che attende l@a~, di
+Dio che aspetta me purificato nel Cielo; il quale Dio forse il
+vostro Guido non ador@o debitamente.  E come uscire di tal
+labirinto? |da me stesso non vegno~ significa ^colle mie forze~
+(cf. ^Purg.~, XI, 8), oppure per ^mia scelta, per mia
+deliberazione~ (^Purg.~, I, 52); il quale luogo vale pure ^colle
+mie forze~, ove si voglia attendere a quanto poscia risponde
+Catone (ivi, v. 91): perch@e poi tale aiuto da Virgilio non
+potesse aver anche Guido, mi pare che si debba ritenere che ci@o
+dovesse provenire o perch@e Guido non amava gli scritti latini (e
+siamo nel campo letterario col ducumento della ^Vita Nuova~), o
+perch@e i Guelfi non potevano acconciarsi all'idea imperiale (e
+siamo nel campo politico); ma @e si debole induzione che si pu@o
+subito rispondere: e nel 1300 non era poi guelfo anche Dante?
+diciamo dunque francamente che questo @e un punto assai grave, e
+per ora indecifrabile.  -- |Colui che attende l@a~ (lascia
+intendere un gesto della mano; cf. IX, 32; XV, 45; 36 e 117).  --
+|Per qui~ ecc.; fa ricordare la promessa di Virgilio (^Inf.~, I, 
+114): ^E trarrotti di qui per~ ecc.  -- |Ebbe a disdegno~ (cf. v.
+36).
+
+	|64-66.~  Notati dall'Alfieri.  |Le sue parole~, con che
+m'aveva chiesto del figliuolo: -- |il modo della pena~, 
+trovandolo tra gli epicurei, de' quali era a tutti noto che
+Cavalcante era stato seguace: -- |mi avevan letto il nome~, mi
+avean fatto palese, mi avean detto il nome; il Tommasso:
+<^Leggere~ in questo senso usa Arrighetto, e
+%lambda%$epsilon%gamma%omega\ vale ^dico~:> e questo |letto~ fa
+ricordare l'Angelo che ^parea beato per iscritto~ (^Purg.~, II, 
+44).  -- |Per@o~, per tale motivo: -- |piena~, completa in ogni
+sua parte sul non esser Guido con me.
+
+	|67-69.~  Trascritti dall'Alfieri.  La scena si ravviva, 
+il movimento diventa pi@u drammatico, e da un accidente
+l'innarrivabile arte dell'Autore sa trarne un altro, mettendo per
+fino a partito e lumeggiando un equivoco.  Dante rispose ^ebbe a
+disdegno~ {v.63}; quell'|ebbe~ @e tutto il fondo della nuova
+scena; Cavalcante sgomento balza in piedi, e a chiarirsi se
+dunque il figlio non fosse ancor vivo, assedia Dante di domande. 
+-- |Di subito~: (cf. ^Inf.~, XXIII, 37.)  -- |Drizzato~, balzato
+in piedi, da inginocchioni che prima era (v. 54).  -- |Non
+viv'egli ancora~? non @e ancora in ^prima vita~? (cf. ^Inf.~, VI, 
+88).  -- |Non fiere~, ferisce (cf. ^Inf.~, IX, 69, e XI, 37).  --
+|Lome~, lume (cf. v. 45).  Dante nel ^Convito~ (III, 13), 
+osservando come a filosofare sia necessario ^Amore~, scrisse:
+<per questo si esclude le Intelligenze che sono in esilio della
+superna patria, le quali filosofare non possono, perocch@e Amore @e
+in loro del tutto spento;> diffatti hanno perduto ^il Bene
+dell'intelletto~ (^Inf.~, III, 18).  E se ci@o avviene de'
+diavoli, avviene pure de' dannati, che son tutti corrivi e solo
+al mal volere (cf. ^Purg.~, V, 112).  Tuttavia ne' dannati Dante
+non niega un cotal amore umano, un amore dir@o sensibile tra padre
+e figlio; ma ci@o non @e un capriccio del Poeta, ma trova rincalzo
+nel santo Vangelo, dove il Salvatore narra la parabola del ricco
+epulone dannato all'inferno, cui tanto stava a cuore che i
+fratelli non cadessero in quei tormenti.  Degli affetti vari di
+paternit@a e figliolanza, che si veggon durare anche nell'altro
+mondo, ho notato nel mio Dizionario Dantesco (art. ^Figliuolo~)
+questi punti che mi paiono assai rilevanti:
+
+a) Amore d'un dannato verso il figlio ^Inf.~, X, 60.  Sprezzo
+d'un figlio dannato verso un padre vizioso ^Inf.~, XXII, 50-51.
+
+b) Amore di due padri nel Purgatorio alle loro figlie e fiducia
+nelle loro preghiere ^Purg.~, III, 115 e segg.; VIII, 11 e segg.
+
+c) Amore di Anime beate ai loro genitori, ai loro figliuoli, e
+desiderio di riunirsi a loro, ^Par.~, XIV, 64.
+
+d) Ricordo caro d'un beato a madre beata, ^Par.~, XVI, 35.
+
+e) Sentimento di padre beato in Cielo verso figlio penante nel
+Purgatorio, ^Par.~, XV, 91-96.
+
+	|70-72.~  Notati dall'Alfieri.  Dante, che aveva sentito
+da Ciacco predirsi il futuro, resta sorpreso che Cavalcante non
+sappia il presente; e questa sorpresa @e cagione ch'egli, pensando
+@a ci@o (cf. v. 113), faccia |alcuna dimora~ prima di rispondere:
+donde nuova scena pietosissima: Cavalcante tiene il silenzio di
+Dante per conferma della morte di Guido, e vinto al dolore cade
+rovescio nella tomba.  -- |Dimora~, indugio: -- |dinanzi alla
+risposta~, prima di rispondere: @e questo il caso avvertito
+altrove dal Poeta, che quando un pensiero ^rampolla sovra
+pensier, la foga l'un dell'altro insolla~ (^Purg.~, V, 16-18). 
+-- |Supin~, rovescio (cf. ^Inf.~, XIV, 22); @e la positura
+contraria a quella che tengono i pazienti della quinta cornice
+del Purgatorio, che avevano ^i diretri rivolti al cielo~ e
+^l'occhio merso a terra~, cio@e stavan bocconi (^Purg.~, XIX, 97 e
+120).
+
+	|73-75.  Magnanimo~: ho detto altrove (^Inf.~, II, 44), 
+che in tutto il Poema due sole volte occorre questa voce, e Dante
+la riferisce qui a Farinata, e l@a a Virgilio; fatto notabile. 
+Aristotele (^Eth.~, IV): ^il magnanimo ama in ogni cosa essere
+manifesto~; Virgilio d@a tale appellativo a persone di grande
+affare: ^magnanimum heroum~ (^Aen.~, VI, 307): e Dante (^Conv.~, 
+I, 11): <Sempre il magnanimo si magnifica in suo cuore...  E
+perch@e magnificare ha rispetto ad alcuna cosa, per comparazione
+alla quale si fa lo magnanimo, grande; avviene che il magnanimo
+fa sempre minori gli altri che non sono...  Al magnanimo le sue
+cose paiono sempre migliori che non sono, e le altrui meno buone. 
+<E ivi, IV, 17: <Magnanimit@a @e moderatrice e acquistatrice di
+grandi onori e fama.>  -- |A cui posta~, a cui richiesta (cf. v.
+24).  -- |Restato m'era~, m'ero fermato.  -- |Non mut@o aspetto~
+ecc.; non mostr@o nel sembiante dolore, n@e fece movimento n@e col
+capo n@e col corpo alla caduta del misero Cavalcante.  <Egli non
+vede, dice il De Sanctis, e non ode perch@e la sua anima e tutta
+in un pensiero unico, rimasole infisso come uno strale, ^l'arte
+male appresa~ {v.77}, e tutto quello che avviene fuori di s@e, @e
+come non avvenuto per lui.>  Onde unico pensiero, quasi sdegnoso
+dell'avvenuto interrompimento, @e per Farinata di riappiccare il
+discorso l@a dove venne interrotto.
+
+	|76-78.  Continuando al primo detto~ (nel ^Purg.~, XXIX, 
+2; Continu@o col fin di sue parole); nel ^Conv.~, III, 11:
+<Continuandosi al primo detto.>  (E ivi, 7: <L'uno all'altro
+continuo:> dove |al~ in cambio di ^il~ e suggerito dal Giuliani
+sull'autorit@a del Codice Vaticano).  -- |Primo detto~:
+ripigliando il discorso interrotto dall'apparire di Cavalcante
+(v. 51).  -- |Egli~; risponde al ^vostri~, usato nel rispondere
+da Dante (v. 51); -- |quell'arte~, di ritornare in patria.  --
+|Mi tormenta~, mi pesa (^Inf.~, XI, 59); -- |pi@u che questo
+letto~, che questa tomba infocata, nella qual giaccio.  E
+tremendo! verso il dolore del non aver potuto i suoi ritornare, 
+stimava una ciancia quel letto terribile (cf. ^Inf.~, XXIV, 
+153-135).  ^Letto di morte~ diciamo; e questi tali, che fecero
+l'anima morta col corpo, hanno qui il loro letto eterno, e di
+questa fatta riposo.
+
+	|79-81.~  L'Alfieri not@o l'ultimo.  Come altrove lo
+scellerato Fucci, si vendica col Poeta prenunciandogli la
+disfatta de' Bianchi (^Inf.~, XXIV, 150), e pieno d'amara
+esultanza, soggiunge:
+
+     E detto l'ho perch@e doler ten debbia;
+
+cos@i qui Farinata, non potendo altro, sfoga il suo cruccio, per@o
+alquanto velato, sopra il suo interlocutore, prenunziandogli che
+quell'arte sarebbe a lui pure tra qualche anno riuscita d'assai
+malagevole.  -- |Non cinquanta volte~ ecc.  La |donna che regge~
+all'Inferno @e Proserpina (cf. ^Inf.~, IX, 44), moglie di Plutone, 
+che nel cielo si chiama Luna, la cui faccia si ^raccende~, si
+illumina per intiero una volta il mese; e ^luna~ diciam per
+^mese~ (cf. ^Par.~, XXVII, 132), come ^sole~ per ^anno~ (cf.
+^Inf.~, VI, 68; XXIX, 105; ^Purg.~, I, 101); dunque vuol dire:
+non passeranno cinquanta mesi, che tu pure conoscerai quanto sia
+difficile agli esuli apprender l'arte di tornare in patria. 
+Dante cacciato in esilio nel Gennaio del' 302, co' suoi compagni
+d'esilio prese parte ai tentativi di rientrare in Firenze colla
+forza; ma falliti tentativi e esperanze, da loro, ^compagnia
+malvagia e scempia~ (^Par.~, XVII, 62), si distacc@o nel giugno
+del 1304, dopo riuscite vane le pratiche del Cardinale da Prato
+(cf. ^Epist.~, I), legato di Benedetto XI, di riconciliar tra
+loro Neri e Bianchi, e rimetter questi in Firenze.  -- Il Balbo
+(^Vit. Dant.~, II, 3): <Cinquanta mesi appunto corsero dal 7
+Aprile 1300, data supposta della discesa di Dante all'inferno e
+cos@i del colloquio (^con Farinata; ma che fosse propro il 7
+Aprile, tutti non consentano~), fino agli 8 giugno 1304, data
+della rottura dei negoziati dei Bianchi col Cardinal da Prato.> 
+-- |Regge~, governa, impera, @e regina (cf. ^Inf.~, IX, 44).  Pel
+fatto che i medioevali, come avverte il Balbo, per difetto
+d'erudizione, s'attennero all'identit@a degli Iddii coi demoni, 
+cos@i avviene che qui a Lucifero, ^imperator del doloroso regno~, 
+che pei pagan@i @e Plutone, @e attribuita in mogli Proserpina.
+
+	|82-84.  E se tu~ ecc.; cos@i tu possa ecc.  Questo |se~ @e
+deprecativo, ed @e frequente nel sacro Poema (cf. v. 94; ^Inf.~, 
+XIII, 85; XIV, 64 e 129; XX, 19; XXVII, 57, e spesso), e serve, 
+nota il Tommaseo, a conciliare favore al discorso; risponde al
+^sic te Deus adiuvet~ (se il ciel ti aiuti); onde Virgilio
+(^Ecl.~, IX, 29):
+
+     Sic tua Cyrneas fugiant examina taxos;
+     Sic cytiso pastae distendant ubera vaccae;
+     Incipe...
+
+|Mai~, nota il Tommaseo, <qui @e intensivo, come quando tiene
+dell'esclamazione.>  @E in tutto simile a quello del v. 94; ed in
+parte affine all'altro ^se mai~ di Pier da Medicina (^Inf.~, 
+XXVIII, 74).  -- |Nel dolce mondo~ (cf. ^Inf.~, VI, 88) |regge~:
+dal ^redire~ dei Latini noi abbiamo ^riedere~; e come da ^cadere~
+abbiamo il pres. congiuntivo ^cada~ e ^caggia~ (^Purg.~, XX, 127, 
+e ^Inf.~, VI, 67), e da ^sedere, sieda~ e ^seggia~ (^Inf.~, XV, 
+35), e da ^fiedere, fieda~ e ^feggia~ (^Inf.~, XV, 39; XVIII, 
+75), e da ^chiedere, chiegga~ e ^chiegga~ (^Purg.~, XVI, 83), e
+altri ancora; cos@i da ^riedere, rieda~ o ^reggia~; e in luogo di
+^reggia~, |regge.~  -- |Quel popolo~, il fiorentino.  -- |Empio~, 
+senza piet@a, spietato, crudele: -- |incontro a' miei in ciascuna
+sua legge~: dice G. Villani, che da tutti i perdoni concessi ai
+Ghibellini, gli Uberti erano sempre esclusi.  Il Boccaccio: <Mai
+della famiglia Uberti alcuna cosa si voleva udire, se non in
+disfacimento e distruzione di loro.>  E Benvenuto: <Quando fit
+aliqua reformatio Florentiae de exulibus rebanniendis, 
+excluduntur Uberti.>  Cf. v. 87.  Dunque esclusi nominatamente
+dal richiamo quand'altri si richiamavano, e gravati sempre di
+nuova candanna in ^disfacimento e distruzione loro~, ci@o che
+afferma il Buti, che esplica e compie il quadro: <Questo dice
+perch@e d'ogni legge che si faceva a grazia delli usciti, li
+Uberti n'erano eccetti; e, se si faceano a danno, v'erano
+nominati.>
+
+	|85-87.  Lo strazio~ ecc.  La battaglia di Montaperti
+(<in sul fiume d'Arbia, nel luogo detto Montaperti> G. Villani, 
+VI, 50) in su quel di Siena, fu combattuta tra i Senesi e gli
+esuli Ghibellini da una parte e i Fiorentini Guelfi dall'altra. 
+<E ci@o fu un marted@i, a' d@i quattro di Settembre, gli anni di
+Cristo 1260; e rimasevi il Carroccio e la campana detta
+Martinella, con innumerabile preda d'arnesi de' Fiorentini e di
+loro amistade> (G. Villani, VI, 80); e tale ne fu la strage
+(|strazio~ e |scempio~), che i Guelfi <senz'altro commiato o
+cacciamento, colle loro famiglie piangendo uscirono di Firenze e
+and#arsene a Lucca> (^ibid~).  Cf. Ricordano Malaspini, ^Stor.
+Fior.~, cap. 171.  Capo de' Senesi era Provenzan Salvani (cf.
+^Purg.~, XI, 121 e segg.), ma della sconfitta de' Fiorentini ebbe
+principalissima parte Farinata; di che i Guelfi, rimpatriati nel
+1266, non si dimenticarono mai.  Dante ricorda il tradimento a
+Montaperti compiuto da Bocca degli Abati (^Inf.~, XXXII, 79 e
+segg.).  -- |Arbia~, <fiumiciattolo a poca distanza da Siena
+sulla via che conduce a Roma> (Amp@ere, ^Viaggio dantesco~ ecc.). 
+-- |Colorata in rosso~ (cf. ^Inf.~, V, 90), tinta di sangue. 
+Orazio (II Carm., XII, 2-3):
+
+     Siculum mare
+     Poeno purpureum sanguine.
+
+-- |Tale orazion~ ecc.  Le leggi e li statuti, dice il Buti, si
+solevano fare coi consigli (^riunioni, radunanze~), che si
+facevano nelle chiese, per la moltitudine del popolo.  Ma altri
+per |tempio~ intende ^curia, senato~, <dove si fanno le
+riformagioni e gli ordini e le leggi: il quale chiama |tempio~, 
+siccome facevano i Romani, i quali chiamavano talvolta |tempio~
+il luogo dove le loro deliberazioni facevano> (^Boccaccio~).  Se
+poi fosse vero che il popolo nelle pubbliche preghiere in chiesa
+cantava ^a familia Uberta libera nos, Domine~ (cf. Foscolo, cit.
+dal Camerini), l'|orazion~ acquista ^senso~ pi@u spiccato.  Dunque
+tutto sta nell'intendere |orazione~ e |tempio~ nel senso proprio, 
+ovvero nel figurato.  L'Amp@ere (op. cit.): <Nella splendita
+cattedrale di Siena si pu@o vedere ancora intatto il crocifisso, 
+che serviva d'insegna ai Senesi, e l'albero che stava fitto sul
+Carroccio dei Fiorentini, al quale appendevasi lo stendardo... 
+Fu questo valorosamente difeso e conquistato.  Un Fiorentino, 
+certo Tornoquinci, lasci@o la vita insieme con sette figliuoli in
+difesa del Carroccio.>  E leggasi, ivi appresso, il bel fatto di
+Bonaguida, e la tradizione del ciuco d'Ussiglia. 
+All'^Esposizione Dantesca~ in Firenze (1865) faceva bella mostra
+il libro volgarmente detto di ^Montaperti~ (che si conserva nel
+R. Archivio Centrale in Firenze), caduto in quella sanguinosa
+battaglia nelle mani de' Senesi; in esso sono scritti i nomi de'
+capitani e soldati, che componevano l'oste dei Fiorentini. 
+Nell'Archivio di Stato in Siena (e faceva parte
+dell'^Esposizione~ suddetta) si conserva la Provvisione del
+^Comune di Siena~, che intorno al 1263 ordina l'edificazione di
+una chiesa in onore di S. Giorgio nel campo di Montaperti a
+ricordanza della celebre vittoria.
+
+	|88-90.~  Il primo fu trascritto dall'Alfieri.  |Poi
+ch'ebbe, sospirando, il capo scosso~: <sospira, dice il Cesari, 
+di quel che non pu@o negare; scuote la testa per isdegno, che gli
+sia fatta ingiuria.>  Ma forse questo ^scuotere il capo~ @e qui
+atto proprio di chi vuol cacciare un doloroso pensiero, che gli
+incombe sull'anima.  Il De Sanctis: <Quando Farinata ha detto:
+^Io per due fiate li dispersi~ {v.48}, quel motto ci par
+subblime, perch@e ci mostra un grand'uomo, che quasi con un solo
+sguardo mette in fuga gli avversari.  Ma quando Dante gli gitta
+sul viso il sangue cittadino, e gli mostra ^l'Arbia colorata in
+rosso~ {v.86}, il fiero uomo sospira, egli che aveva detto test@e
+^io~ {v.48}, e non soffre ora di regger sulle spalle egli solo il
+peso di quel rimprovero, e va cercando compagni; ma rileva tosto
+il capo, trovando nella sua vita la pi@u bella delle sue azioni, 
+di cui la gloria @e tutta sua, di lui solo: la scena si rischiara
+e si abbella; al cruento vincitore dell'Arbia succede il
+salvatore di Firenze, ultima immagine, che @e la purificazione e
+la trasfigurazione del partigiano.>  -- |A ci@o~, a far lo
+^strazio e il grande scempio~ {v.85}: -- |con gli altri~, coi
+Senesi, coi Pisani, coi conti Guidi, come scrive G. Villani; --
+|mi sarei mosso~, avrei intrapreso quell'azione bellica contro i
+Fiorentini.
+
+	|91-93.  Col@a~, ad Empoli dove, dopo la vittoria di
+Montaperti, si radunarono i Ghibellini toscani: per togliere la
+cagione de' loro timori si discusse di ^toglier via~, di
+distruggere Firenze; ma Farinata vi s'oppose vigorosamente, e
+senza paura, |a viso aperto.~  Il Villani (VI, 81): <Nel detto
+parlamento tutte le citt@a vicine, e' conti Guidi, e' conti Uberti
+e que' da Santafiore, e gli Ubaldini, e tutti i baroni d'intorno
+proposero e furono in concordia per lo migliore di parte
+Ghibellina di disfare al tutto la citt@a di Firenze, e di recarla
+a borgora, acciocch@e mai di suo stato non fosse rinomo, fama, n@e
+podere.>  Questo consiglio o parlamento d'Empoli, si tenne ^nel
+palazzo tuttora detto del Consiglio, quasi di fronte al Duomo~; e
+la storia di ci@o si offre dipinta nella facciata di esso (cf.
+Giuliani, ^Delizie del parlar toscano~, lett. X).  Dunque
+Firenze, per la virt@u d'un suo cittadino, rimase; e Farinata non
+aveva di che giustamente gloriarsene? del quale, scrive il
+Villani (^Cron.~, VI, 81), <buono e virtudioso @e da fare notabile
+memoria, che fece a guisa del buono antico Camillo di Roma.>  E
+Dante il loda; ma tant'@e; nel Maggio del 1311 Dante stesso da
+parte dell'Imperatore Enrico invocava su Firenze, se non la
+distruzione, impedita da Farinata, qualcosa di simile, tanto
+almeno per far meglio conoscere l'umana fralezza, che loda in
+altrui, ci@o che ella stessa non si sente in grado di fare;
+scriveva adunque (^Epist.~, VII, 7): ^An ignoras, excellentissime
+Principum, nec de specula summae celsitudinis deprehendis, ubi
+vulpecula foetoris istius, venantium secura decumbat?  Quippe nec
+Pado praecipiti, nec Tyberi tuo criminosa potatur, verum Sarni
+fluenta torrentis adhuc rictus eius inficiunt, et Florentia
+(forte nescis?) dira haec pernicies nuncupatur.  Haec est vipera
+versa in viscera genitricis: haec est languida pecus, gregem
+Domini sui sua contagione commaculans: haec Myrrha scelesta et
+impia, in Cinyrae patris amplexus exaestuans: haec Amata illa
+impatiens, quae, repulso fatali connubio, quem fata negabat
+generum sibi adscire non timuit, sed in bella furialiter
+provocavit, et demum, male ausa luendo, laqueo se suspendit~; e
+prosegue colle prove.
+
+	|94-96.  Se~ (cf. 82) |riposi mai vostra semenza~, per
+quanto auguro che i vostri discendenti (cf. ^Par.~, IX, 3)
+abbiano pace quando che sia, ritornino in patria e si riposino
+de' travagli dell'esilio.  -- |Solvetemi quel nodo~, ecc.; (cf.
+^Par.~, VII, 53), spianatemi quelle difficolt@a, chiaritemi quel
+dubbio ecc.  Il dubbio @e |nodo~, e ^groppo~; quindi s'usano que'
+verbi che a tali nomi soglionsi accoppiare; nella ^Vita N.~, XII, 
+9: <Questo dubbio io lo intendo ^solvere~ e dichiarare:> e ivi, 
+XIV: <Questo dubbio @e impossibile a ^solvere.~>  Pi@u sotto Dante
+dir@a a Farinata (v. 114): l'error, ^che m'avete soluto~; e a
+Virgilio (^Inf.~, XI, 96): il groppo ^svolvi.~  Nel ^Purg.~, 
+XXXIII, 50: <Li fatti ^solveranno~ questo enigma forte:> nel
+^Par.~, XXXII, 50, Beatrice al Poeta, avviluppato in forte
+dubbio:
+
+     Ma io ti ^solver@o~ il forte legame, 
+     In che ti stringon li pensier sottili
+
+(dacch@e il dubbio @e anche ^rete~, ove l'animo s'impiglia, ^Par.~, 
+I, 96).  Al profeta Daniele disse re Baldassarre (Daniel, V, 16):
+^Audivi de te quod possis obscura interpretari, et ligata
+dissolvere.~  E Dante (^Conv.~, III, 8): <Intendo... almeno
+alcuna cosa (^in parte~) di tanto nodo disnodare.>  Quindi
+^disgroppare il nodo~ (^Purg.~, IX, 126; cf. ivi, XXIV, 55): cf.
+^Par.~, XXVIII, 58.  -- |Ha inviluppata~, in relazione a |nodo~:
+-- |mia sentenza~, la mia opinione, il mio giudicio.
+
+	|97-99.  E'~ per ^egli~, pleonasmo non senza leggiadria, 
+come il pronome indeterminato ^il~ de' Francesi, e s@i il primo
+(cf. ^Inf.~, XXXI, 120) come il secondo precedono sempre ad un
+verbo (cf. ^Inf.~, XXIII, 31 e 64; ^Purg.~, II, 85; XXVIII, 37;
+^Par.~, II, 52; III, 91; XIII, 118.).  -- |Veggiate.~.. |dinanzi~
+ecc., prevediate le cose future; il moto @e misura del tempo, ma
+anco il tempo @e moto (cf. ^Inf.~, II, 60); ma perch@e dagli
+Scolastici l'origine del moto si attribuiva al primo Mobile, cos@i
+ad esso, pi@u che al moto apparente del Sole Dante attribuiva la
+misura del tempo, (^Par.~, XXVII, 118-120).  Il verbo della prima
+proposizione, |veggiate~, @e al congiuntivo, esprimendosi un
+giudicio incerto e dubbioso; ma perch@e appresso s'esprime un
+giudicio positivo, il verbo (^tenete~) @e all'indicativo.  -- |Il
+tempo seco adduce~, mena, conduce ad effetto.  -- |E nel
+presente~, rispetto alle cose presenti, -- |tenete altro modo~, 
+non avete conoscenza, non sapete quello che avviene nel mondo. 
+Dante da Ciacco aveva inteso predirsi il futuro; vide che
+Cavalcante ignorava il presente; intese che Farinata conosceva
+l'avvenire; non sa come spiegarsi tal cosa, e ne chiede lume.
+
+	|100-102.  Noi~, qui dannati, |veggiam come quei che ha
+mala luce~, vista imperfetta; come chi @e presbite, che vede le
+cose discoste, ma non le vede quando son vicine.  Delle cause e
+degli effetti della presbitia scrive Dante nel ^Convito~ (III, 
+9): <L'occhio per infermit@a e per fatica si trasmuta in alcuna
+debilit@a...  E per essere lo viso debilitato, incontra in esso
+alcuna disgregazione di spiriti, sicch@e le cose non pajono unite, 
+ma disgregate, quasi a guisa che fa la nostra lettera in sulla
+carta umida.  E questo @e quello per che molti, quando voglion
+leggere, si dilungano le scritture dagli occhi, perch@e la
+inmagine loro venga dentro pi@u lievemente e pi@u sottile; e in ci@o
+non rimane la lettera discreta nella vista.>  -- |Cotanto ancor~, 
+ancora di tanto, di s@i fatto favore ne grazia Iddio di vedere il
+futuro, ma ^volle noi privare della luce~ di vedere il presente
+(^Conv.~, III, 4).  Ma @e certo notabilissimo lo |splende~ qui
+usato da Dante, che non disse ^illumina, raggia~ o che altro. 
+Dio @e la vera luce (^Par.~, III, 32); beneficio di Dio la
+scienza, che pur @e luce, onde per Dante |luce~ Virgilio (^Purg.~, 
+VI, 29) e |luce~ Beatrice (^Purg.~, XXXIII, 115); Dio |Luce~ e
+|Duce~, ^che mena dritto per ogni calle~ (^Inf.~, I, 18).  Si
+attenda a questo schiaritivo luogo del ^Convito~ (III, I4): <@E da
+sapere che il primo Agente, cio@e Dio, pinge la sua virt@u in cose
+per modo di diritto raggio, e in cose per modo di splendore
+riverberato.  Onde nelle Intelligenze la divina Luce raggia senza
+mezzo, nelle altre si ripercuote da queste lntelligenze prima
+illuminate.  Ma perocch@e qui @e fatta menzione di |luce~ e di
+^splendore~, a perfetto intendimento mostrer@o differenza di
+questi vocaboli, secondo che Avicenna sente.  Dico che l'usanza
+de' Filosofi @e di chiamare il Cielo ^lume~, in quanto esso @e nel
+suo fontale principio; di chiamare ^raggio~, in quanto esso @e per
+lo mezzo dal principio al primo corpo dove si termina; di
+chiamare ^splendore~, in quanto esso @e in altra parte illuminata
+percosso.>  Dunque anche questa visione del futuro @e in questi
+dannati imperfetta, perch@e perfetto non @e lo ^splendore~, 
+derivando non dal principio della Luce, s@i bene ripercosso da
+altra parte illuminata; e cos@i suona il verso 100.
+
+	|103-105.  Quando s'appressano~, son vicine, |o son~, o
+son presenti, |@e vano~, cessa (^Purg.~, V, 97) nostro intelletto
+rispetto alle immagini delle cose nel futuro vedute; ^e, se altri
+nol ci apporta~ ^Par.~, XXV, 129; cf. ivi, 59), non ne riferisce
+(@e proprio l'^afferre~ de' Latini in egual senso), non cel fa
+sapere.  -- |Stato umano~, le condizioni degli uomini, del mondo
+(nel ^Conv.~, II, 11, ^essere in basso stato~).  Di qui si fa
+chiara la risposta di frate Alberigo (^Inf.~, XXXIII, 123).  A
+chiarezza di dottrina, utile per questa e per ogni altra parte
+del Poema, @e bene sapere che ne pensino i santi Dottori su questa
+materia.  I Beati conoscono il presente |stato umano~, perch@e
+guardano in Dio, ^Ov'ogni cosa dipinta si vede~ (^Par.~, XXIV, 
+42).  Altrimenti delle Anime del Purgatorio e dell'Inferno; S.
+Tommaso (^Summ. Th.~, I, 89, 8): Possunt etiam facta viventium
+non per seipsos cognoscere, sed vel per animas eorum, qui hinc ad
+eos accedunt, vel per Angelos, seu daemones, vel etiam spiritu
+Dei revelante.>  E cos@i la pensa S. Gregorio (^Moral.~, XII, 14);
+invece S. Agostino nega tale conoscenza anco ai Beati, onde
+l'Angelico s'ingegna di mettere tra loro d'accordo i due grandi i
+Dottori.  Il Tommaseo: <Dante avr@a forse pensato che la ignoranza
+del presente ai dannati era pena; ai purganti diminuzione di
+pena; e cos@i l'antiveggenza del futuro a quelli maggior tormento
+pe' mali che leggevano in esso cagionati da' propri peccati e
+dagli altrui; a questi cagione di pentimento, ed insieme
+anticipazione di quel soddisfacimento, che le anime rette provano
+nel vedere adempiuto comechesia l'ordine della Giustizia
+infallibile.>  Del non sapere le anime di l@a ci@o che si compie
+nel nostro mondo, parrebbero una prova di tale credenza anche
+presso i Gentili le parole di Pirro ai rimproveri di Priamo
+(^Aen.~, II, 547-550):
+
+     Referes ergo haec, et nuntius ibis
+     Pelidae genitori; illi mea tristia facta, 
+     Degeneremque Neoptolemum narrare memento:
+     Nunc morere.
+
+	|106-108.  Per@o~, per questa ragione.  -- |Morta~, spenta
+(^Conv.~, III, 13).  -- |Da quel punto~ ecc.; dal d@i del Giudizio
+finale, quando sar@a finito il tempo, e tutto sar@a eternit@a.  --
+|Che del futuro~ ecc.; nel ^Canz.~ (P. II, canz. VII, 51-55):
+
+     Mi vedr@a coricare...
+     Per non levarmi se non dopo il tempo, 
+
+cio@e alla fine del mondo, e perci@o alla fine del tempo.  -- Vi fu
+tempo (cf. Ferrazzi, ^Manuale Dantesco~, vol. V, pag. 518, e il
+mio ^Diz. Dantesco~ all'artic. Cavalcante Cavalcanti) che stetti
+in dubbio se questa privazione di conoscere il presente non
+fosse, anzich@e di tutti i dannati, una pena speciale dei negatori
+dell'immortalit@a dell'anima, per quello che ivi son venuto
+argomentando: ora per@o considerando la risposta di frate Alberigo
+(^Inf.~, XXXIII, 12), mi sentirei pi@u perplesso, bench@e
+nell'Inferno non manchino argomenti e conchiudere che certi
+dannati degli altri cerchi conoscono anche il presente; onde da
+questo lato la questione, allora proposta, per me rimane tuttavia
+intatta.
+
+	|109-111.  Di mia colpa compunto~, contrito, rincrescioso
+(cf. ^Inf.~, XXII, 124, e in senso un po' differente, ^Inf.~, 
+VII, 36) dell'aver indugiato a rispondere a Cavalcante, ed essere
+stato cos@i cagione dell'errore di lui e della conseguente sua
+ambascia.  -- |Quel caduto~; Cavalcante.  Il Tommaseo: <In
+Farinata l'amore di patria dall'altero disdegno traspare
+giustamente.  Nel Cavalcanti non men bello di ^non viv'egli
+ancora~ {v.68}? forse pi@u tenero e pi@u accorato @e |direte adunque
+a quel caduto.~  -- |Il suo noto~, suo figlio (^Inf.~, IV, 59). 
+-- |Coi vivi ancor congiunto~, vive ancora; ^animae separatae~
+dicevano le Scuole, per indicare i morti.  Guido mor@i sulla fine
+del 1300.
+
+	|112-114.  Dianzi~, poco fa, test@e;-- |alla risposta
+muto~, fui muto alla risposta, tacqui alla sua domanda: |fat'ei~
+(|ei~ per ^gli~, a lui, cf. ^Inf.~, II, 13 e ^Purg.~, XII, 83), 
+fategli sapere, ditegli che ci@o provenne perch@e l'animo mio in
+quel momento era tutto inteso a pensare come voi, conoscendo il
+futuro, non conoscete il presente (cf. ^Inf.~, VI, 6), cosa che
+voi mi avete oramai sciolto (cf. v. 95).  Ma per@o resta sempre
+che Ciacco e Brunetto sanno il presente, e gli epicurei lo
+ignorano come lo ignora il traditor Alberigo.
+
+	|115-117.  Mi richiamava~ a s@e al luogo donde m'avea
+pinto tra le sepolture (v. 38).  -- |Avaccio~ (onde ^avacciare~ e
+^avacciarsi~ ^Purg.~, IV, 116; VI, 27), presto, con fretta, tosto
+(cf. ^Inf.~, XXXIII, 106; ^Par.~, XVI, 70); la dicono voce
+antiquata, ma il Tommaseo afferma che s'usa tuttavia in certi
+paesi di Toscana.  Si vegga eguale domanda e consimile risposta
+nell'^Inf.~, XV, 111 e segg.
+
+	|118-120.  Con pi@u di mille~ (cf. ^Inf.~, VIII, 82); gi@a
+aveva detto Virgilio (^Inf.~, IX, 128):
+
+                                   e molto
+     Pi@u che non credi son le tombe carche.
+
+-- |Qua entro~; Benvenuto: <idest intra arcam istam in qua sum;
+et cui non sufficiebant tot regna in mundo, nunc iacet inclusus
+in isto carcere coeco.>  -- |Lo secondo Federico~, figlio di
+Enrico VI e di Costanza ultima della casa Normanna di Puglia e
+Sicilia, ^terzo~ Imperatore della casa degli Hoenstauffen, 
+contando dall'avolo Barbarossa, ed ^ultima possanza~ (^Par.~, 
+III, 120), cio@e ultimo Imperatore dei Romani, che tale dignit@a
+abbia esercitato efficacemente; e tale spiegazione di quel luogo
+del ^Paradiso~ @e di Dante che scrive (^Conv.~, IV, 3): <Federigo
+di Soave, ultimo Imperadore e Re dei Romani, (ultimo dico, per
+rispetto al tempo presente, nonostante che Ridolfo, e Adolfo, e
+Alberto poi eletti sieno appresso la sua morte e de' suoi
+discendenti).>  E ivi, 10: <Secondo la fama che di lui grida, 
+Federigo fu laico e cherico grande.>  Nella ^Vulg. El.~, I, 12:
+<Fama Trinacriae terrae, videtur tantum in opprobriurn italorum
+Principum remansisse, qui non heroico more, sed plebeo sequuntur
+superbiam.  Siquidem illustres heroes Federicus Caesar, et bene
+genitus ejus Manfredus, nobilitatem ac rectitudinem suae formae
+pandentes, donec fortuna permansit, humana secuti sunt, brutalia
+dedignantes.>  E in appresso lo sentiremo lodare come assai degno
+d'onore (^Inf.~, XIII, 75).  Ad ogni modo, qui non bada che
+all'epicureo, e per tale il condanna; ma @e notabile che
+coll'avolo di costui, Federigo Barbarossa (^Purg.~, XVIII, 119), 
+e con Manfredi suo figliuolo (^Purg.~, III, 106 e segg.) Dante si
+mostri assai pi@u mite.  Il Villani: <Federico menava vita
+epicurea, non facendo conto che mai altra vita fosse.>  Il
+Malaspini (^Stor. Fior.~, cap. 107): <Questo Federico fu erudito
+e franco e di gran valore, e di scrittura e di senno naturale fu
+savissimo e seppe la lingua nostra latina e il nostro volgare, e
+tedesco, e francesco, e greco, e saraceno, e di tutte virt@u
+copioso, largo e cortese; ma fu dissoluto in lussuria... e in
+tutti diletti corporali si diede, e quasi vita epicurea tenne, 
+non facendo che mai fosse altra vita.  E questa fu principale
+cagione perch@e divenne nemico de' cherici, e di santa Chiesa, e
+ancora volle occupare le ragioni di santa Chiesa per male
+ispenderle.>  Fa di Federio una bella sintesi Benvenuto desunta
+appieno dalla storia: <Fuit vere epicureus; quoniam intendens
+potentiae et imperio, per fas et nefas insurrexit ingrate contra
+matrem Ecclesiam, quae ipsum pupillum educaverat et exaltaverat
+ad imperium; et ipsam Ecclesiam variis bellis afflixit per
+spatium triginta annorum et ultra; pacem turpem fecit cum
+Soldano, cum posset totam Terram Sanctam recuperare, multos
+praelatos captos venientes ad Concilium per mare (^al Concilio di
+Lione~, ann. 1245) inhoneste tractavit et in carceribus
+maceravit: Saracenos induxit in Italiam, beneficia ecclesiarum
+contulit et bona earum usurpavit.>  Scrive il Cant@u (^Stor.
+Univ.~): <Federico solea dire, narrasi, che ^se Dio avesse vista
+Napoli mai pi@u avrebbe eletto per regno suo la Palestina.~> 
+Coronato dal Papa nel 1220, scomunicato e deposto dal Concilio di
+Lione, mor@i senza riconciliarsi con la Chiesa, soffocato, dicesi, 
+tra due guanciali dal figlio spurio Manfredi, che ambiva
+all'Impero.  Del suo segretario Pier della Vigna, cf. ^Inf.~, 
+XIII, 33 e segg.  -- |Il Cardinale~: Ottaviano degli Ubaldini, di
+cui si parla nel ^Purg.~, XIV, 105, e zio dell'Arcivescovo
+Ruggeri (^Inf.~, XXXIII, 14).  Gli Ubaldini ebbero signoria nel
+Mugello e nella Romagna toscana.  Ottaviano fu Arcivescovo di
+Bologna dal 1240 al 1244; fatto Cardinale nel 1245, mor@i nel
+1273.  Combatt@e pel Papa contro Federico II, ma di spirito lo
+fanno in tutto ghibellino.  Benvenuto: <|Il Cardinale~:
+anthonomastice loquitur de eo, quia fuit vir valentissimus
+tempore suo, sagax et audax quia Curiam Romanam versabat (-- ^il
+Cod Estense~ vexabat --) pro velle suo, et aliquando tenuit eam
+in montibus Florentiae in terris suorum per aliquot menses.> 
+L'Anonimo Fior.: <Guid@o la corte di Roma com'egli volle, e inalz@o
+molto i consorti suoi e i Ghibellini di Toscana, tanto ch'egli
+us@o di dire: ^se anima @e, per i Ghibellini io l'ho perduta~; e
+per@o che parve dubitare se anima fosse o spirito dopo il corpo
+morto, il pone l'autore tra gli eretici.>  Dell'Ubaldini il
+Nannucci riporta un sonetto sulla natura dell'amore.  -- |Degli
+altri mi taccio~, perch@e non essendo illustri, non era ^buono~ il
+parlarne (^Inf.~, XV, 103), perch@e Dante per suo ammaestramento
+avea bisogno ^d'anime di fama note~ (^Par.~, XVII, 138), e perch@e
+essendo quivi ^pi@u di mille~, 
+
+     Il tempo saria corto a tanto suono
+     (^Inf.~, XV, 105).
+
+E la scena di questo Canto si chiude appunto come quella del XV.
+
+	|121-123.  Indi~; detto questo.  -- |S'ascose~, si ripose
+a ^giacere~ nel suo letto (vv. 78 e 118), nella sua tomba.  -- |A
+quel parlar~, a quanto gli aveva, profetando, parlato Farinata
+(vv. 79-81): -- |nimico~, ostico, doloroso, perch@e gli annunziava
+guai e dolori.  Per@o aveva capito cos@i all'indigrosso, ma anche
+ci@o bastava a rischiarargli alquanto quello che avea inteso da
+Ciacco (^Inf.~, VI, 64-73); man mano che proceder@a avr@a altri e
+schiarimenti e conferme di ci@o che l'attendeva (cf. ^Inf.~, XV, 
+64 e segg.; ^Purg.~, VIII, 133 e segg.; XI, 140; ^Par.~, XVII, 
+112 e segg.; dove sapr@a tutto, e anco il modo onde dovr@a
+comportarsi).
+
+	|124-126.  Cos@i andando~, nell'atto dell'andare (cf.
+^Inf.~, XXIII, 75: cf. ^Purg.~, III, 104).  -- |S@i smarrito~, nel
+sembiante, sbigottito, ripensando alla infausta profezia di
+Farinata.  -- |Gli satisfeci~ ecc. (cf. v. 6), gli espressi
+quello che io pensavo, che era cagione del mio smarrimento.
+
+	|127-129.~  Notati dell'Alfieri.  |La mente tua conservi~
+ecc.; tieni a mente quanto de' tuoi mali futuri da Farinata t'@e
+stato detto; e Dante ^serber@a~ questa ed altra predizione, per
+averne spiegazione altrove (cf. ^Inf.~, XV, 88-89).  -- |Contra
+te~; di contrario, di nefasto a te.  -- |Ora attendi qui~; per
+ora, tieni bens@i a mente quanto ti fu profetizzato, ma per@o ^non
+si franga lo tuo pensier da qui innanzi~ su ci@o (^Inf.~, XXIX, 
+22, 23), cio@e per ^ora~ non ripensare a ci@o, ma ^age quod agis~, 
+attendi a questa pena, a questi dannati, la cui contemplazione @e
+il vero scopo del tuo viaggio (e il ^quando~ del v. 130 d@a valore
+e conferma a tale spiegazione): -- |e drizz@o il dito~ (questa
+frase non ha qui il senso speciale che altrove, ^Purg.~, VIII, 
+96, o ivi, V, 3, ove esprime curiosit@a); non perch@e Dante stesse
+attento alle parole, che seguono, ^quando sarai~ {v.130} ecc., ma
+accompagnando la parola all'atto, per additargli l'Inferno
+circostante, come oggetto pel quale era venuto, e al quale solo
+per ^ora~ doveva attendere.  Cf. ^Purg.~, V, 10-18.
+
+	|130-132.~  L'Alfieri not@o questa terzina.  |Quando
+sarai~ ecc.; quale sia per essere il |viaggio della tua vita~, 
+quali avvenimenti ti aspettino, ci@o saprai da Beatrice; dunque
+infino a che non sarai dinanzi a lei, pensa al viaggio presente, 
+e non ad altro.  -- |Dinanzi al dolce raggio di quella~ ecc.;
+quando sarai giunto dinanzi a Beatrice, la quale, ^vigilando
+nell'eterno die~, vede ^ogni passo che faccia il secol per sue
+vie~ (^Purg.~, XXX, 105-107), saprai quanto ti aspetta
+nell'avvenire, il ^viaggio~ o ^corso~, o ^cammnino~ della tua
+vita (cf. ^Inf.~, I, 1; XV, 88; ^Purg.~, XX, 31; ^Conv.~, III, 
+15), ella che @e ^lume tra il vero e l'intelletto~, (^Purg.~, VI, 
+45).  -- |Il cui bell'occhio~ ecc.; @e qui mantenuto il tipo
+dell'^Inf.~, II, 55.  In quel |bell'occhio, che tutto vede~ (in
+Dio), quale ampiezza d'orizzonte non si dischiude per Dante ad
+appagare, quando sar@a con lei, la sua sete di sapere!  ^Cf. Diz.
+Dant.~, vol. VIII, App., I.  Degli occhi di Beatrice cf. ^Par.~, 
+III, nella ^Nota~, in fine.  -- |Da lei saprai~: Il suono, il
+ritmo, il movimento di questo verso trasfondono come un senso di
+stanchezza, quasi il Poeta voglia significare la terribile serie
+di stenti che l'attendevano.  Veramente non @e proprio da Beatiice
+che Dante avr@a la spiegazione di quanto per l'Inferno e pel
+Purgatorio gli vien profetato sul suo avvenire, sibbene da
+Cacciaguida (^Par.~, XVII, 19-27); ma ci@o non contraddice alla
+presente affermazione di Virgilio, perch@e sar@a Beatrice che lo
+esorter@a e chiedere al suo antenato tale spiegazione (cf. ivi, 
+7-12, e 29-30).  Cf. ^Inf.~, XV, 89-90.
+
+	|133-136.~  L'Alfieri not@o i due ultimi.  -- |Appresso~, 
+dopo tali parole.  -- |A man~ ecc.; cf. ^Inf.~, VII, 32.  --
+|Lasciammo il muro~ (cf. v. 2); lasciano il punto, ch'era tra le
+mura della citt@a e le tombe infocate, e s'avviano verso il centro
+del sesto Cerchio, per una strada che sbocca, che riesce ad
+un'alta ripa (cf. ^Inf.~, XI, 11), per la quale si discende nel
+^profondo abisso~, di dove veniva su un puzzo intollerabile (cf.
+^Inf.~, XI, 4-6, e 12).  -- |Fiede~ (cf. v. 82 e ^Inf.~, XV, 39).
+
+	Nota le terzine 3, 4, 9; 11 alla 20; 22, alla 28; 30, 31, 
+37, 39, 40, 44, 45.
+
+	^NOTA.~
+
+	Prego innanzi tutto il lettore di richiamarsi alla mente
+quanto ho dichiarato ai vv. 28-30, tenendo io per fermo non solo
+non essere possibile, ma affatto sconvenire e alla mente di Dante
+e al disegno stesso di questo Canto ammettere gli Epicurei tutti
+in una sola tomba; possibile che il Poeta, che fa tante e cos@i
+giuste distinzioni in ogni cosa, e divisioni e suddivisioni, non
+abbia qui voluto distinguere e separare almeno gli epicurei del
+paganesimo da quelli dei secoli cristiani? su ci@o io non ammetto
+nessun dubbio, e al citato luogo credo aver detto abbastanza. 
+Per quant'@e all'opinione del Del Lungo da me riferita (cf. vv.
+1-3), non parmi per verun modo potersi dire che gli ^eresiarchi~
+rimangono <interamente fuori del sistema penale dantesco, > come
+afferma l'egregio scrittore, dacch@e in questo sistema io credo
+che v'entrino del tutto, e v'entrino palesemente.  E neppure si
+pu@o, credo, accettare l'opinione del Postill. Cass. propugnata
+dal Filalete, che la ^bestialit@a~, anzich@e nel sesto, sia punita
+nel settimo Cerchio (cf. ^Inf.~, XI, 79-84, nel commento). 
+Dante, seguendo la dottrina di Aristotele, con molta chiarezza
+distingue il suo Inferno in tre grandi sezioni, secondo le tre
+cose che nella vita son da fuggirsi, cio@e ^incontinenza, malizia~
+e ^la matta bestialit@a~ (^Inf.~, XIII, 83-84).  Ora
+^l'incontinenza~ @e punita fuori della Citt@a di Dite fino al
+quinto Cerchio inclusivamente; la ^malizia~, che si esplica in
+tutte le specie di violenza e di frode (cf. ^Inf.~, XI, 22-26), @e
+punita dentro alla Citt@a di Dite, dal settimo Cerchio
+inclusivamente sino all'ultima sezione del Cerchio nono ed
+ultimo, quanto a dire fin dove arriva l'Inferno.  Anche da ci@o
+solo scaturisce che la ^matta bestialit@a~ deve esser punita nel
+sesto Cerchio, o primo dentro alla Citt@a di Dite, ch'@e appunto
+compreso nel Canto test@e commentato; e se qui non si pone, la
+^bestialit@a~, con s@i chiara parola accennata da Dante nella
+triplice divisione delle colpe e del suo Inferno, in tutto
+l'Inferno non trova altro posto, perch@e sott'essa Dante in modo
+esplicito non pone peccato di sorta; quando non si voglia
+ammettere col Tommaseo, seguito da parecchi altri, che nel
+^sistema penale di Dante tutti quanti i peccati possono passare
+per detti tre gradi, d'incontinenza, malizia, bestialit@a; e per@o
+Dante a' bestiali non assegna posto distinto, ma questi insieme
+co' maliziosi rinchiude entro delle mura infuocate~; ma io non
+posso credere a tale conclusione.  Sia pure che tutti quanti i
+peccati possano passare per detti tre gradi; ma, appunto per ci@o, 
+se il Poeta ha dato luogo preciso ^all'incontinenza~ e alla
+^malizia~, perch@e non alla ^bestialit@a~?  So bene che in effetto
+un peccato d'un dato genere pu@o assumere speciale reit@a, secondo
+l'affetto, che muove l'operante, e secondo il modo, e perci@o vi
+pu@o essere un'incontinenza bestiale, e una bestiale malizia; ma
+qui si tratta di vedere se la bestialit@a, secondo la divisione
+generale delle tre grandi ^disposizioni, che il Ciel non vuole~, 
+abbia o non abbia luogo determinato nell'Inferno Dantesco.  La
+cosa per s@e @e semplice.
+
+	Che Dante tenesse ^bestialit@a~ negare l'immortalit@a
+dell'anima, lo disse senza ambagi, anzi la disse la massima di
+tutte le bestialit@a.  (^Conv.~, III, 9): ^intra tutte le
+bestialit@a quella @e stoltissima, vilissima e dannosissima chi
+crede, dopo questa vita, altra vita non essere.~  Dunque non ci
+pu@o essere ragionevole opposizione a non vedere punita nel sesto
+Cerchio la ^bestialit@a~ per quelli che ^l'anima col corpo morta
+fanno.~  Resterebbe per@o da spiegarsi per qual motivo il Poeta
+abbia voluto comprendere tra i rei di ^bestialit@a~ anco gli
+^eresiarchi~, infetti d'altre negazioni che non sia la negazione
+dell'immortalit@a dell'anima.  Ed @e questo ch'io m'ingegno di
+fare, raccogliendo i debiti argomenti.
+
+	Il Tommaseo ha detto una parola feconda: <^Eresiarchi~
+chiama Dante gli increduli tutti, come se dal negare una cosa al
+negare tutto non sia grande il passaggio, > (al C. IX, ^Inf.~, 
+terz. 43).  E altrove (C. XI, nel ^discorso~, in fine) cos@i
+ragiona: <Collocando gli eretici tutti a pena men dura de'
+frodolenti, poi gli scismatici a pena pi@u grave (^Inf.~, XXVIII), 
+mostra com'egli distingua la incredulit@a personale dalla
+incredulit@a seduttrice e sconvolgitrice de' popoli.>
+
+	Chi ben consideri il test@e allegato punto del ^Convito~, 
+con quanto precede e segue, non istenter@a ad accorgersi che tale
+^bestialit@a~ per l'Autore risulta appunto dal non vedere quanti
+argomenti e quante prove somministra la stessa ragione, per
+indurre l'uomo ad ammettere e professare una tale immortalit@a:
+dunque ^bestia~ chi non adopera questo lume della ragione e non
+ascolta i suoi insegnamenti.  Notabile al mio intento questo
+passo (^Conv.~, II, 8): <Quando si dice l'uomo ^vivere~, si dee
+intendere l'uomo ^usare la ragione.~..  E per@o chi dalla ragione
+si parte, e usa pur la parte sensitiva, non vive uomo, ma vive
+^bestia~; siccome dice quello eccellentissimo Boezio: ^asino~
+^vive.~  Dirittamente dico, perocch@e il pensiero @e proprio atto
+della ragione, perch@e le bestie non pensano, che non l'hanno; e
+non dico pur delle minori bestie, ma di quelle che hanno
+apparenza umana, e spirito di pecora o di altra bestia
+abbominevole.>  E questa conclusione ci porta naturalmente a
+quella esortazione, che il nostro Autore rivolge a certa gente, 
+che opera improvvidamente per falsa devozione (^Par.~, V, 80):
+
+     Uomini siate, e non ^pecore~ matte.
+
+Ancora (ivi, IV, 7): <Di chi non usa ragione, tanto @e da curare, 
+quanto di ^bruti animali~:> e appresso: <Vivere nell'uomo @e
+ragione usare.  Dunque se vivere @e l'essere dell'uomo, cos@i da
+quello uso partire @e partire da essere, e cos@i @e essere morto.  E
+non si parte dall'uso della ragione chi non ragiona il fine della
+sua vita?  E non si parte dall'uso della ragione chi non ragiona
+il cammino che far dee?>  Dunque ^bestiailit@a~ anche codesta:
+dunque dai passi allegati si fa chiaro che ^bestialit@a, pazzia, 
+stoltezza~ hanno identico valore; il che ancor meglio apparir@a
+qui appresso.  Altrove (ivi, II, 11): <Quanta ^matteria~ e quanti
+vizi si discernono per avere questo lume (^derivante dalla
+piet@a~).  Meglio sarebbe alli miseri ^grandi matti~, stolti e
+viziosi essere in basso stato, ch@e in mondo n@e dopo la vita
+sarebbon tanto infamati.>  Ora avendo dichiarato l'Autore che
+^chi non ragiona il fine della vita e il cammino che far dee~, si
+parte dall'uso della ragione, cio@e ^vive bestia~, @e ^matto, 
+stolto~; chiedo: qual @e per Dante questo fine?  Iddio, porto
+delle nostre anime (^Conv.~, IV, 28): e il ^cammino~ luminoso, 
+verace e diritto? ^la dottrina veracissima di Cristo, la quale~ @e
+Via, Verit@a ^e~ Vita (^Conv.~, II, 9).  E questa ^via~ o
+^cammino~ sicurissimo v'@e altrove tracciato cos@i (^Par.~, V, 
+76-80):
+
+     Avete il vecchio e il nuovo Testamento, 
+     E il Pastor della Chiesa, che vi guida;
+     Questo vi basti a vostro salvamento.
+     Se mala cupidigia altro vi grida, 
+     Uomini siate, e non pecore matte.
+
+Dunque il negare qualcuna delle verit@a rivelate, comprese
+nell'uno o nell'altro Testamento, o per superbia dar loro un
+senso contrario a quello che vi d@a il ^Pastor della Chiesa~
+(^Papa~ e ^Chiesa~ nel Nostro han senso teologico equipollente, 
+ben prima dunque della promulgazione dell'infallibilit@a del
+Papa), per Dante @e ^matteria, stoltezza, bestialit@a.~  E con ci@o
+si spiega in tutta la sua pienezza un altro genere ^di matti~
+(^Purg.~, III, 34-36):
+
+     Matto @e chi spera che nostra ragione
+     Possa trascorrer l'infinita via, 
+     Che tiene una Sustanza in tre Persone;
+
+e questo genere ^di matti~ non @e per Dante guari differente da
+quest'altro (^Par.~, XIII, 127):
+
+     Sabellio ed Ario, e quegli ^stolti~, 
+     Che furon come spade alle Scritture, 
+     In render torti li diritti volti.
+
+Dunque gli ^eretici~, per manifesta equipollenza di vocaboli
+(^matto, stolto, bestia~), sono da Dante tenuti in conto di rei
+di ^bestialit@a~, bestialit@a di credere stortamente assimilata in
+tutto alla ^bestialit@a~ degli epicurei, e perci@o con loro puniti
+della medesima pena e nel medesimo Cerchio.  E si noti che, 
+mentre in altre parti delle sue Opere, come vedemmo, Dante
+disgiunge ^matto~ e ^stolto~ da ^bestia~, e l'accoppiamento
+lascia soltanto intravedere; nel luogo dell'^Inferno~ (XI, 
+82-83), dove fa la triplice divisione delle colpe e delle pene, 
+^bestialit@a~ e ^matta~ sono indivisibilmente congiunte; gli
+scrittori, come lui, non parlano a caso; onde quel pensato
+connubio di parole io lo credo senz'altro un avviso, un lume, una
+guida sicura messa innanzi a' suoi chiosatori.  A raccogliere il
+tutto in breve, ogni forza d'argomento sta qui.  Dante pone
+chiaro le tre grandi classi di peccati; ^incontinenza, malizia~ e
+^bestialit@a~; l'incontinenza @e punita dal secondo al quinto
+Cerchio; la ^malizia~ dal settimo all'ultimo; dunque non altro
+che nel sesto Cerchio deve cercarsi la ^bestialit@a.~

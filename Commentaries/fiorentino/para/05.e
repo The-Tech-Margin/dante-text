@@ -1,0 +1,369 @@
+	|Proemio.~  Nel presente capitolo tratta l'Auttore sei
+cose; la prima continua questo capitolo col precedente, narrando
+Beatrice sua disposizione: la seconda tocca della propria
+disposizione: la terza tocca lo dubbio fatto nel precedente
+capitolo: la quarta solve lo dubbio, e presuppone alcune cose, e
+soggiugne come si pu@o dispensare in boto: la quinta adduce uno
+senso tropologico circa lo voto: la sesta e ultima entra nel ciel
+di Mercurio, e introduce Justiniano imperadore a parlare, la qual
+parlatura poi nel seguente capitolo discrive, s@i come apparir@a
+nella esposizione del testo.  Alla prima cosa s@i @e da sapere che,
+s@i come pi@u volte avemo detto, Beatrice per allegor$ia hae a
+significare la scienzia di teolog$ia, la quale teolog$ia com'ella
+si profferisce pi@u alto, pi@u si lucida: e la cagione si @e,
+ch'esso trattato @e pi@u vicino di quella fontana di luce e
+d'amore, da cui procede ogni chiarezza e bonitade, s@i come ne
+mostra S. Jacopo nella sua parabola: ^Omne datum optimum, et omne
+donum perfectum a patre descendit luminum~ etc.  S@i che
+conveniente cosa fue all'Auttore, che, faccendo montar Beatrice a
+lui, facesse essa parer pi@u lucida e radiosa.  Alla seconda cosa
+s@i @e da sapere che lo 'ntelletto umano, quanto pi@u chiaro e pi@u
+vero intende tanto diventa pi@u lucido e eccelso.  Or lo fine
+ultimo, a che intende pervenirne lo intelletto umano intendendo,
+s@i @e Dio glorioso, e participare di sua similitudine, s@i come
+mostra Tommaso nel III ^Contra gentiles~ XXV.  Adunque tanto
+quanto lo intelletto intende pi@u alto, tanto s'avvicina al suo
+fine, e participa di quella gloriosa luce, alla quale non @e mai
+imbrigamento di oscuritade.  Dunque dice bene l'Auttore in
+persona di Beatrice: ^Io veggio gi@a s@i come tu risplendi~, quasi
+a dire: tu cominci a partecipare di queste chiarezze, intendendo
+delle azioni di Dio; e quanto intenderai pi@u suso, pi@u
+dichiarerai; e quando intenderai esso fine, s@i sarai in quella
+luce ch'@e vita eterna.  E questo @e quel che dice S. Giovanni
+XVIJ: ^Haec est vita aeterna ut cognoscam te, domine~ etc.  Et @e
+da sapere, s@i come dice lo Filosofo nel III dell'^Anima~, che lo
+intelletto @e sempre dritto, ci@o @e sempre tende al sopra detto
+fine; ma puossi ingannare circa la raziocinazione, e dividendo e
+componendo, la quale, come procede pi@u innanzi, tanto cresce
+maggiore errore; e per ci@o, se alcuna cosa ne torce ad altro
+desiderio che al sopraddetto fine, @e colpa dello intelletto, che
+s'inganna circa lo ragionare; ma pure lo suo appetito naturale si
+@e di conoscere lo vero.  E puossi addurre uno cos@i fatto esemplo:
+l'obietto del gusto si @e lo savore, e la operazione del gusto s@i
+intende a conoscere lo savore; et ingannasi molte volte,
+estimando esser lo dolce amaro, s@i come avviene agli
+febricitanti; e tale indizio si @e ^per accidens~, e cos@i in
+proposito, s'alcuno amore ne dirizza lo nostro intelletto in
+altro fine che in Dio, s@i @e tale cognizione ^per accidens~, e non
+naturale per s@e.  Alla terza cosa s@i @e da sapere che 'l dubbio
+che ci pone, si @e, se l'uomo ha botato viaggio, s'ello lo pu@o
+cambiare in elemosina, ovvero in altro premio; e cos@i d'altri
+boti; e se se ne pu@o fare dispensazione; e chi ha tale
+giurisdizione.  Alla quarta cosa si @e da sapere che Beatrice
+presuppone essere nell'omo libero arbitrio, lo quale Iddio gli
+don@o per la sua largitade, quando lo cre@o, ^Eccl.~ XV: ^Deus ab
+initio constituit hominem, et reliquit cum in manum consilii
+sui~; et la glosa dice ^in libertate arbitrii.~  Adunque, poi che
+l'uomo @e ^sui juris~, ello si pu@o ben obbrigare; et obbrigandosi
+ello ad un boto, che sia virtudioso, e Dio abbia esso accettato,
+questo mercato dee pure andare innanzi, e non disfarsi, imper
+quello che, s@i come del mal tolletto non si pu@o fare elemosina
+che vaglia al facitore di quella, ch@e bisogna che sia di proprj
+beni; cos@i di quello ch'altri non ha votato non si pu@o fare
+vittima, vel sacrificio, che sia equipollente a quella che ello
+f@e.  Ov'@e da sapere che lo voto dee esser delle miglior cose, s@i
+com'@e detto di sopra, e non delle viziose e inutili, n@e che sia
+d'impendimento di maggior bene, imper quello che Dio non
+accetterebbe tal voto, s@i come colui ch'@e sommo bene.  Ma
+potrebbe avvenire che nel principio del voto, ello non sarebbe di
+questi casi accettati; poi in processo di tempo occorrerebbe che
+sarebbe negli casi vietati, s@i come chi votasse d'andare in
+viaggio, e al tempo ch'ello fae lo detto voto, fosse virtudioso e
+utile; poi in processo di tempo, innanzi ch'ello venisse, che la
+sua assenzia prejudicasse o a fatto di fede o ad altro maggior
+bene; et a quelli cos@i fatti si conviene o commutazione, ci@o @e
+esser cambiati in altro benefizio, o dispensare da solverlo: e
+per ci@o usa la ecclesia di commutare e di dispensare, secondo che
+gli pare esser lo migliore e ragionevole che altri che s@e
+medesimo abbia tale jurisdizione, imper quello che l'uomo pu@o
+errare negli judici proprj.  E questa jurisdizione s@i ha la
+Ecclesia; e lo pastore che possiede le due chiavi si @e esecutore
+di tale jurisdizione: e nota ^due chiavi~, l'una la scienzia,
+acci@o che con diliberata scienza commuti, ovver dispensi; l'altra
+la podestade, imper quello che scienza si pu@o trovare in uomo non
+cherico; e cos@i podestade, ci@o @e cheric$ia si pu@o trovare in uomo
+insciente; e per@o bisogna a commutare, ovvero a solvere, essere
+esecutore ch'abbia le due chiavi, delle quali facemmo menzione
+nel IX del ^Purgatorio.~  Vero @e che che alcune opinioni fue
+ch'egli @e certi boti che non si posson commutare n@e dispensare,
+imper quello che non si posson fare di miglior cosa: e questo @e
+di s@e; ma, se 'l pastore della Ecclesia commuta o dispensa
+secondo altri opinioni ^de plenitudine potestatis~, lo voto @e
+assolto ed @e commutato, ma non sanza peccato del pastore, s'ello
+lo fece sanza justa cagione.  E chi pi@u chiaramente volesse
+sentire del sacrificio del voto, legga in la ^Secunda secundae~
+questione LXXXVIIJ, ^Summa confessorum~ I libro, titulo VIII.  La
+quinta cosa chiara apparir@a nella esposizione del testo, l@a dove
+s'introdurr@a alcune storie distintamente, le quali faranno a
+proposito, che tocca l'autore brevemente nel testo, e similemente
+la sesta.  Vero @e ch'egli @e da sapere, che l'Auttore, perch@e
+intende trattare di alcuna di quelle anime beate, le quali al
+mondo feciono benefizio in scrittura, s@i fae menzione di loro nel
+pianeto di Mercurio, lo quale, secondo astrolog$ia, @e
+significatore di scrittura e di letteratura, come apparir@a nel
+seguente capitolo.
+
+	|1-3.  S'io ti fiammeggio~: Ci@o @e, s'io ti pajo cos@i
+lucida.  |Nel caldo d'amore~: Ci@o @e nella gloria dello Spirito
+Santo.  |Di l@a dal modo~: Ci@o @e altrimenti che non si fiammeggia
+quaggiuso nel mondo in terra; e per@o gli occhi de' mortali non
+possono sostenere tanta luce.
+
+	|4-6.  Non ti maravigliar~: Chiaro appare la cagione di
+tanto lume di Teolog$ia, che, come s'avvicina pi@u al valore di
+Dio, tanto @e ella pi@u chiara.
+
+	|7-9.  Io veggio ben~: Qui tocca la disposizion
+dell'Auttore.  |Che vista sola~: Qui tocca la cagione che al
+vedere di quello lume s@i si dispone l'uomo a maggior fatto.
+
+	|10-12.  E s'altra cosa~: Qui tocca come lo intelletto si
+pu@o ingannare raziocinando; ma mai non s'inganna lo suo appetito
+naturale, che sempre intende bene, com'@e detto.
+
+	|13-15.  Tu vuo' saper~: Qui tocca il dubbio, |se con
+altro servigio~, ci@o @e cambiare beneficio, e se con altra cosa si
+pu@o la justizia di Dio s@i appagare che l'anima del botatore non
+abbia letigio n@e peccato.
+
+	|16-18.  S@i cominci@o Beatrice~: Segue 'l poema.
+
+	|19-24.  Lo maggior dono~: Chiaro appare del libro
+arbitrio, s@i com'@e detto.  |Di che le creature intelligenti~:
+Nota che gli angioli anche hanno questo dono, s@i come nel ^Contra
+gentiles~ XLVII, capitolo II.  |E tutte sole~: Ci@o @e tutti gli
+angeli et uomini.
+
+	|25-27.  Or ti parr@a~: Chiaro appare.  |L'alto valor~:
+Ci@o @e che @e fatto da persona ch'@e sui juris.  |S'@e s@i fatto~: Ci@o
+@e virtudioso, il quale Iddio accetti quando si fae.
+
+	|28-30.  Vittima~: Ci@o @e sacrificio.  |Tesoro~: Ci@o @e lo
+voto.
+
+	|31-33.  Dunque che render~: Ci@o @e non si pu@o ^legitime~
+cambiare quando si pu@o rendere lo voto ch'@e promesso.  |Di mal
+tolletto~: Chiaro appare.
+
+	|34-36.  Tu se' omai~: Segue 'l poema, ^quasi dicat~ ello
+non si pu@o commutare, quanto @e possibile a poterlo rendere.  |Ma
+perch@e santa Chiesa~: Ci@o @e potrebbesi dubitare: ma come adunque
+dispensa e commuta gli pastori della ecclesia gli voti?
+
+	|37-39.  Convienti ancor~: Poetando dice che la
+convenenza mai non si pu@o dispensare, ci@o @e se possibile intendi
+sempre d'essere che gli pastori ^de plenitudine potestatis~
+possono; ma se 'l fanno, non @e senza loro peccato.
+
+	|43-45.  Due cose~: Ci@o @e quello di chi @e la
+possibilitade.
+
+	|46-48.  Questa ultima~: Ci@o @e, se possibile @e, com'@e
+detto.  |Ed intorno di lei~: Ci@o @e; io hoe parlato precisamente
+che non si pu@o dispensare n@e commutare, sempre respettando a
+questa possibilitate.
+
+	|49-57.  Per@o necessit@a fu agli~: Egl'@e da sapere che
+nella legge musaica, la qual fu data al popolo ebraico, ci@o @e
+agli Giudei, s@i era comandamento ch'egli offeresse, s@i come
+appare nel principio dello Levitico, ^De bobus et ovibus
+offerens~ etc.; e questo, acci@o ch'egli sapessono ch'erano
+sudditi, e aveano signore maggiore di loro.  Ora in diversi tempi
+fue diverse offerte.  Melchisedec offerse pane e vino; Abraam e
+Sara offerse pane e vino, poi volle per sacramento offerere e
+fare sacrificio del figlio; poi in processo di tempo s'offerea
+agnelli e vitelli etc., s@i che, secondo la diversit@a degli tempi,
+s'offer$ia e sacrificava diverse cose.  Onde vuol dire l'Auttore:
+l'offerere era pur fermo; cos@i lo voto era pur fermo; e da essi
+mutavasi allor la materia secondo la congruenza del tempo; e
+cos@i, secondo le condizioni, si pu@o commutare lo voto: e s@i come
+essi Ebrei lo facevano per comandamento, cos@i lo permutare dee
+essere per ordinazione di pastore ecclesiastico; e perci@o,
+soggiugne l'Auttore, sanza la volta e della chiave bianca e della
+gialla etc.  |Ma non tramuti~: Chiaro appare.
+
+	|58-60.  Et ogni permutanza~: Qui tocca gli pastori
+permutanti; imper quello che 'l voto, se si tramuta, sempre dee
+essere ^de melioribus~; per@o qual pastore scema al primo voto,
+quello che scema lo numero del quattro da quel del sei, s@i @e
+stolto, secondo l'Auttore.
+
+	|61-63.  Per@o qualunque~: Chiaro appare de simile o di
+maggiore.
+
+	|64-68.  Non prendan~: Qui per esempio tropologico
+notifica lo valor del voto, mostrando per esemplo che lo votare
+non si dee fare cos@i biecamente come fece Jepte.  Leggesi nel
+libro ^Judicum~ XJ, che Jepte fue figliuolo naturale di Galaad,
+lo quale Jepte fue fortissimo et uomo d'arme: avea fratelli
+legittimi, gli quali, morto lo padre, lo cacciarono via, dicendo
+fra loro: Non voglia Iddio che erede di nostro padre sia persona
+nata per linea tortuosa.  Questo Jepte and@o in una terra chiamata
+Tol, e l@i si mise ad esser retenitore e compagno di tutti li
+malandrini, assassini, giucatori, e di tutte quelle male
+condizioni che dir si possono.  Cos@i era suo principio, suo capo
+suo conducitore.  Tolse moglie, e avea una figliuola legittima
+molto bella, la quale e' molto amava: in processo di tempo
+avvenne che gli figliuoli da Amon s@i pugnavono contro lo popolo
+d'Israel, e tenevallo s@i stretto, e faceagli tanto danno, che
+quasi ogni Giudeo era a mala condizione.  Allora gli Giudei
+tornorono a Dio; e lascionno i peccati, per gli quali Iddio
+permettea essi essere in tanta suggezione et angustia; e allora
+gli fu detto: togli la maggior semenza di Galaad, che nelle sue
+mani @e posta la podest@a de' figliuoli di Amon e degli suoi
+seguaci.  Allora costoro, ci@o @e gli Giudei, feciono ambasciadori,
+e mandarogli al detto Jepte, ch'a lui piacesse d'esser lor duce. 
+Costui rispose: Voi m'avete cacciato via, ora, perch@e non vi
+potete pi@u difendere, s@i mandate per me.  Questi rispuosono: Cos@i
+era la volont@a di Dio.  Questo Jepte, udito tale dono, tolse la
+signor$ia, e convennesi in campo cogli suoi nemici; e innanzi che
+venisse alla battaglia s@i si vot@o che, se Dio gli desse a
+vincere, ch'ello della prima cosa che innanzi gli venisse nella
+tornata all'entrar della terra, ello ne farebbe sacrificio a Dio. 
+And@o costui alla battaglia, e vinse, e ristitu@i gli figliuoli
+d'Israel nelle sue signor$ie: tornando alla terra con grande
+compagn$ia et allegrezza di timpani e tamburi, questa sua
+figliuola gli venne incontro, e dinanzi da tutti, per fare festa
+al padre ch'avea liberato lo popolo d'Israel da tanto obbrobrio. 
+Costui, come la vidde, si squarci@o dinanzi gli panni, piangendo e
+lamentandosi: Oim@e, figlia, ch'io t'ho votata di fare sacrificio
+a Dio!  Costei benivola chiese grazia che volea avere spazio due
+mesi di piangere, la sua virginitade alla montagna, com'era
+usanza nello vecchio Testamento; e cos@i le fece grazia.  Compiuto
+lo termine, fue fatta d'esso sacrificio come lo padre avea
+botato: onde molto se ne pianse per pietade, et ordinossene
+allora ch'ogni anno in cotale die si raunassono le vergini tutte
+d'Israel, e piangessero quattro die la detta figlia di Jepte; e
+cos@i osservarono uno gran tempo.  Or vuol dire l'Auttore: Non
+correte voi uomini mondani a votare cos@i ciecamente, come fe
+Jepte di sua figlia; ch@e cos@i e meglio sar$ia stato, e avrebbe
+ricevuto Iddio altro sacrificio, come quello.  E poi soggiugne
+l'Auttore che meglio era a rompere tal voto e non farlo, che,
+facendolo, commettere peggio.
+
+	|69-72.  Il gran duca~: Qui tocca un altra storia, la
+quale fue in questo modo.  Al tempo che i Greci assediarono
+Troja, e durata la punga gran tempo, s@i fue loro detto: Voi non
+avrete mai la terra, imper quello che gli Dei di quella s@i sono
+adirati contra a voi.  Questi addomandarono come si potrebbe fare
+ch'egli si disadirassono: fu loro risposto, se voi faceste
+sacrificio d'una donzella, egli s'appacificherebbono con voi. 
+Allora lo principe e sommo duce degli Greci fe suo consiglio
+segreto sopra questo fatto; e fermaronsi che la prima giovane che
+la mattina si trovasse s@i se ne facesse sacrificio agli Dei di
+Troja.  Venuta la mattina la prima che si trov@o fue Efigenia,
+figliuola del detto duce, bellissima e adorna quanto potea aver
+di bellezza giovane, della quale fe' sacrificio agli Dei di
+Troja; e allora essi rivelarono che quando Achille fosse
+nell'oste, egli avrebbono la terra: del quale Achille @e trattato
+nel V dell'^Inferno.~  Or la detta Efigen$ia, innanzi che di lei
+si facesse sacrificio, s@i and@o XV d@i per l'oste piagnendo la sua
+morte, e per pietade gli savj come gli matti piangevano.  Onde
+vuol dire l'Auttore: ta' boti, ta' promissioni, tali proposte si
+posson pi@u giudicare inscie e stulte che buone, n@e sagge; e per@o
+non siate, mortali, correnti a votare; e per@o dice.  Ora acci@o
+che pi@u proceda nostro sermone chiaro et aperto, s@i @e da sapere
+che quegli poeti, che fingendo s@i scrissono de' fatti di Troja,
+parlavano figurative e per nuove allegor$ie: onde altro non vuole
+dire quello sacrificio che fue fatto agli Dei di Troja di quella
+donzella, se non molto tesoro che fue dato agli Trojani dagli
+Greci, per lo quale egli furono traditori, et ammaestrarono i
+Greci come doveano fare per aver la terra; e quello pianto che
+fece quella donzella, significa come tutto quello tesoro s@i
+ricolsono da tutto lo popolo in modo di c@olta; e quello andar
+cercando Achille altro non vuol dire, se non che tali erano
+giovinetti e non barbuti al tempo che la detta guerra si cominci@o
+che alla fine della guerra erano da arme e combattenti: quasi a
+dire lungo tempo dur@o tal pugna.
+
+	|73-78.  Non siate come penna~: Qui @e a dire; la
+Scrittura santa ne parla s@i chiaro, in ogni caso, e per precetti
+e per esempj, che voi dovete sapere quello che voi avete a fare;
+e poi per giunta avete le predicazioni che ne fanno i pastori
+della Ecclesia.
+
+	|79-81.  Se mala cupidigia~: Ci@o @e peccati o appetiti
+viziosi, siate costanti.  |Sicch@e l'Judeo~: Qui @e a dire: voi
+cristiani avete doppia ogni scrittura; se voi nollo sapete, gli
+Giudei che l'hanno scempia faranno beffe di voi.
+
+	|82-84.  Non siate come~: Molti sono che sanno la santa
+Scrittura e nolla adoperano; anzi attendono ad altra scienza,
+ovvero scrittura, gli quali sono simili a quegli agnelli che
+lasciono lo latte della propria madre, ch'@e conforme a sua
+complessione, e vanno cercando altro che non hanno, e se l'hanno
+nollo sanno, e cos@i s'infermano.
+
+	|85-87.  Cos@i Beatrice~: Segue suo poema come appare.
+
+	|88-90.  Lo suo tacere~: Chiaro appare.
+
+	|91-93.  E siccome saetta~: Poetando descrive la velocit@a
+ch'egli ebbono ad entrar nel ciel di Mercurio, per lo qual si
+segue come vacuo non @e tra lo cielo della Luna e quello di
+Mercurio; e accordasi collo Filosofo nel IV della ^Fisica~, che
+non @e vacuo; e con quello ch'@e scritto in ^De caelo et mundo~ I e
+II.  Essi cieli sono continui, sanza altro intervallo.  |Secondo
+Regno~: Ci@o @e quello di Mercurio, ch'@e secondo nell'ordine de
+Pianeti, cominciando a noverar dalla Luna.
+
+	|94-96.  Quivi la donna~: Per allegoria mostra come
+Beatrice si rischiara.  |Nel vivo~: Ci@o @e nel corpo della stella
+di Mercurio.
+
+	|97-99.  E se la stella~: Qui ^per locum a simili~ dice
+l'Auttore: e se la stella, ch'@e corpo celeste, ch'@e ingenerabile
+e incorruttibile, e intrasmutabile di sua natura, s@i come nel
+preallegato libro ^De caelo et mundo~ si prova, se n'allegr@o e
+divenne pi@u chiara, che dovea fare io, che sono di natura
+alterativa e adatto a ricevere ogni influenza?  Tacitamente si
+sottointende: io divenni chiarissimo e glorioso.
+
+	|100-105.  Come in peschiera~: Qui, per esemplificare
+che, s@i come nelle peschiere ch'@anno l'acqua chiara gli pesci
+vengono al sommo quando veggono alcuna cosa sopra acqua, stimando
+quella esser suo cibo, cos@i quelle anime beate di Paradiso e di
+quel cielo, venieno avverso Beatrice; e l'Auttore, per vedergli e
+per udirgli, estimando esse esser anime sortite in quello cielo:
+e per che, s@i com'@e detto, quante pi@u anime sono in paradiso
+tant'@e maggiore gloria, s@i dice l'Auttore che quelle anime
+diceano: |Ecco chi crescer@a gli nostri amori.~
+
+	|106-108.  E s@i come ciascun~: Chiaro appare.  |Ombra~:
+Ci@o @e anima.
+
+	|109-114.  Pensa, lettor~: Segue 'l poema, mostrando ^per
+locum a simili~ che quella affezione che si hae, cominciando una
+novella, di saperla tutta, quella affezione avea ello di sapere
+la condizione di quelle anime.
+
+	|115-120.  O bene nato, a cui~: Qui dice come quelle
+anime s'offersono tutte preste al suo desiderio circa la loro
+condizione.  |Gli troni~: Ci@o @e gli Cieli.  |Prima che la
+milizia~: Ci@o @e prima che morte ti faccia privo della prima vita. 
+|Noi semo~: Qui si profferano.
+
+	|121-123.  E credi come~: Ci@o @e essi ti diranno sempre il
+vero.
+
+	|124-126.  Io veggio~: Chiaro appare.  |Annidi~: Ci@o @e
+stai nel nido della luce.
+
+	|127-129.  Ma non so~: Qui dimanda l'Auttore: dimmi chi
+tu se', e per che t'@e sortita la spera di quel pianeto che molto
+stae sotto gli raggi del Sole, ci@o @e Mercurio, s@i come appare
+nella Teorica de' pianeti per la equipollenzia del moto di
+Mercurio con quello del Sole negli loro circoli differenti, e per
+la grandezza dello epiciclo di Mercurio.
+
+	|130-132.  Questo diss'io~: Chiaro appare.
+
+	|133-139.  S@i come 'l Sol~: Qui d@a esemplo che, s@i come
+il Sole si mostra molte fiate negli vapori, e l@i si vede sua
+grandezza; e poi, quando gli vapori si rarefanno, lo Sole
+s'asconde nella sua chiarezza, s@i che per occhio de' mortali non
+si pu@o vedere, cos@i quella anima gli si mostr@o in prima, e poi
+s'ascose nella sua chiarezza, tanta allegrezza gli superabbund@o
+per volere satisfare a Dante; e cominciogli a parlare s@i come si
+contiene nel seguente capitolo, e in questo termine compie lo
+presente.

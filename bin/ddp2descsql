@@ -1,0 +1,118 @@
+#!/usr/bin/perl
+#########################################################################
+#
+#				ddp2descsql
+#
+# Convert a DDP desc.e file into a data file suitable for sqlldr to load.
+#
+# Usage: ddp2descsql comm_id comm_name comm_lang
+#
+# The DDP desc.e file is assumed to be on stdin; the sqlldr file is
+# written to stdout.
+#
+# Strategy: read the entire desc.e file, accumulating the fields of 
+# interest and ignoring the other fields. Then write the interesting fields
+# and the information from the command line to a sqlldr data file. 
+#
+# NB: This program must agree with the sqlldr control file concerning the
+# order and format of the fields in the data file.
+#
+#########################################################################
+
+#########################################################################
+#
+# A function to append strings. If the new string is a blank line, 
+# we append "</p><p>". Otherwise we append the new string to the 
+# old, using a blank as separator if the old string is non-null.
+#
+# Usage: $oldstring = &append($oldstring,$newstring);
+#
+#########################################################################
+sub append {
+	my($old, $new) = @_;
+	my $pad;
+	$_ = $new;
+	if (/^ *$/) {
+		$pad = "</p>\n<p>";
+	} elsif (length($old)) {
+		$pad = " ";
+	} else {
+		$pad = "";
+	}
+	return $old . $pad . $new;
+}
+
+###############
+#
+# Main routine
+#
+###############
+
+$comm_id = $ARGV[0];
+$comm_name = $ARGV[1];
+$comm_lang = $ARGV[2];
+shift; shift; shift;
+
+#
+# This program uses a simple state machine to read the desc.e file.
+# The variable $state is an integer that defines the current state.
+#
+$ST_IGNORE = 0;
+$ST_AUTHOR = 1;
+$ST_PUBDATE = 2;
+$ST_PUBINFO = 3;
+$ST_DATAENTRY = 4;
+$ST_EDITOR = 5;
+$ST_ATTRIBUTE = 6;
+
+$state = $ST_IGNORE;
+
+$copyright = "N";	# Not copyrighted unless so marked.
+
+while (<>) {
+	if (/^\.\./) {
+		#
+		# A BRS tag line. Set our new state.
+		#
+		NEW_STATE: {
+			if (/..AUTH:/) { $state = $ST_AUTHOR; last NEW_STATE; }
+			if (/..PUBD:/) { $state = $ST_PUBDATE; last NEW_STATE; }
+			if (/..PUBL:/) { $state = $ST_PUBINFO; last NEW_STATE; }
+			if (/..DENT:/) { $state = $ST_DATAENTRY; last NEW_STATE; }
+			if (/..EDTR:/) { $state = $ST_EDITOR; last NEW_STATE; }
+			if (/..ATTR:/) { $state = $ST_ATTRIBUTE; last NEW_STATE; }
+			$state = $ST_IGNORE;
+		}
+	} else {
+		#
+		# A data line. Append it to the right variable.
+		#
+		APPEND: {
+			if ($state == $ST_AUTHOR) { $author = &append($author, $_) ; last APPEND; }
+			if ($state == $ST_PUBDATE) { $pubdate = &append($pubdate, $_) ; last APPEND; }
+			if ($state == $ST_PUBINFO) { $pubinfo = &append($pubinfo, $_) ; last APPEND; }
+			if ($state == $ST_DATAENTRY) { $dataentry = &append($dataentry, $_) ; last APPEND; }
+			if ($state == $ST_EDITOR) { $editor = &append($editor, $_) ; last APPEND; }
+			if ($state == $ST_ATTRIBUTE && /copyright/) { $copyright = "Y" ; last APPEND; }
+			# If the state is $ST_IGNORE, do nothing.
+		}
+	}
+}
+
+#
+# Now all fields are collected. Output the sqlldr data file.
+#
+
+$PLAIN_FMT = "\"%s\",\n";
+$PARA_FMT = "\"<p>%s</p>\",\n";
+
+printf $PLAIN_FMT, $comm_id;
+printf $PLAIN_FMT, $comm_name;
+chomp $author; printf $PLAIN_FMT, $author;
+printf $PLAIN_FMT, $comm_lang;
+chomp $pubdate; printf $PLAIN_FMT, $pubdate;
+chomp $pubinfo; printf $PARA_FMT, $pubinfo;
+chomp $editor; printf $PARA_FMT, $editor;
+printf $PLAIN_FMT, $copyright;
+chomp $dataentry; printf $PARA_FMT, $dataentry;
+printf "#\n";

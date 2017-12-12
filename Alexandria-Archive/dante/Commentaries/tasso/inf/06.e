@@ -1,0 +1,164 @@
+	|1.~ |(ed.  Rosini)~
+^Tornar, si chiuse~.  [richiamo marginale] [Giolito]
+
+Risponde col tornare al chiudere, potendo rispondere con aprire.  
+[Sessa]
+
+	|(ed.  Celani)~
+Al ^tornar~ de la mente, che si ^chiuse~
+	^tornar, si chiuse,~
+
+	|5.~ |(ed.  Rosini)~
+^Come che~, ovunque.  [Sessa]
+
+	|7.~ |(ed.  Rosini)~
+^Piova~, pioggia.  [Sessa]
+
+^Piova~, pioggia.  [Da Fino]
+
+	|8-9.~ |(ed.  Rosini)~
+Per esser eterna in un medesimo modo.  [Sessa]
+
+Per esser eterna in un medesimo modo.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+^Questo~, neutro.  [Sessa]
+
+	|13.~ |(ed.  Rosini)~
+^Cerbero, fiera diversa~.  [richiamo marginale] [Giolito]
+
+Diversa.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Cerbero, fiora crudele et ^diversa,~
+	^fiera diversa~
+
+	|14.~ |(ed.  Rosini)~
+Poteva, preponendo la voce ^caninamente~, far miglior numero.  [Sessa]
+
+^Latra~, abbaja.  [Da Fino]
+
+	|17.~ |(ed.  Rosini)~
+Unghiate [richiamo marginale].  Le mani a Cerbero: Petrarca: ^In man 
+de' cani~.  [Sessa]
+
+	|19.~ |(ed.  Rosini)~
+^Urlare~, ai cani, che @e proprio de' lupi.  [Sessa]
+
+	|28.~ |(ed.  Rosini)~
+^Agugna~, desidera.  [Da Fino]
+
+	|(ed.  Celani)~
+Qual'@e quel cane; ch'abbaiando ^agugna,~
+
+	|28-30.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+Introna [richiamo marginale] [Sessa]
+
+	|34.~ |(ed.  Rosini)~
+^Adona~, abbatte.  [Giolito]
+
+Adona: <^Nostra virt@u che volentier s'adona~>.  (Inf. c. XI v. 19).  
+La propriet@a di questa voce non @e intesa dal Landino.  [Sessa]
+
+	|(ed.  Celani)~
+Noi passavam su per l'ombre, ch'^adona~
+	^adona, abbatte~
+
+	|36.~ |(ed.  Rosini)~
+Perch@e hanno effigie d'uomini.  [Da Fino]
+
+	|(ed.  Celani)~
+Sopra lor vanit@a, che par ^persona.~
+
+	|42.~ |(ed.  Rosini)~
+Nascesti prima ch'io morissi.  [Da Fino]
+
+	|44.~ |(ed.  Rosini)~
+^Mente~, memoria.  [Da Fino]
+
+	|58.~ |(ed.  Celani)~
+Io gli risposi: Ciacco il tu' affanno
+
+	|58-59.~ |(ed.  Rosini)~
+Compassione sopra il goloso.  [Giolito]
+
+	|59.~ |(ed.  Celani)~
+Mi pesa s@i, ch'a lagrimar m'invita:
+	^compassion sovra il goloso.~
+
+	|61.~ |(ed.  Rosini)~
+Firenze, Bianchi e Neri.  [Da Fino]
+
+	|65.~ |(ed.  Celani)~
+^Verrann' al sangue~: et la parte selvaggia
+
+	|68.~ |(ed.  Rosini)~
+^Tre Soli~, tre anni.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+^Test@e piaggia~, fa il paciero.  [Da Fino]
+
+	|(ed.  Celani)~
+Con la forza di tal, che teste ^piaggia.~
+
+	|70.~ |(ed.  Rosini)~
+Regner@a gran tempo.  [Da Fino]
+
+	|72.~ |(ed.  Rosini)~
+Adonti [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Come che di ci@o pianga, et ^che n'~ adonti.
+
+	|73.~ |(ed.  Rosini)~
+^Giusti son duo~: Dante e Guido Cavalcanti.  [Da Fino]
+
+	|84.~ |(ed.  Celani)~
+Se 'l ciel gli addolcia, o l'onferno gli attosca.
+	^addolcia.~
+
+	|88.~ |(ed.  Celani)~
+Ma quando tu sarai ^nel dolce mondo,~
+
+	|88-90.~ |(ed.  Rosini)~
+Desiderio di fama.  [Giolito]
+
+I dannati hanno desiderio di fama, come si raccoglier@a in questo e nei 
+seguenti.  E questo, forse perch@e essendo privi del vero bene, ne 
+desiderano almeno l'ombra, la quale dagli eletti e da quei che sono nel 
+Purgatorio non @e desiderata.  [Sessa]
+
+	|89.~ |(ed.  Celani)~
+Pregoti, ch'a la mente altrui mi rechi.
+	^Desiderio di fama.~
+
+	|91-93.~ |(ed.  Rosini)~
+^Energia~.  [Sessa]
+
+	|94-96.~ |(ed.  Rosini)~
+Come Virgilio confessa il final giudizio?  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+^Di qua~, al tempo, non solo al luogo.  [Sessa]
+
+	|104.~ |(ed.  Rosini)~
+^Ei~, plurale.  [Sessa]
+
+	|106.~ |(ed.  Rosini)~
+^A tua sentenza~, Aristotelica.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+Tuttoch@e.  [richiamo marginale] [Sessa]
+
+	|111.~ |(ed.  Rosini)~
+D'essere tormentata dopo il giudizio.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+Digrada.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Venimmo al punto, dove si ^digrada:~
+

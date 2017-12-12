@@ -1,0 +1,47 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.58.28;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@compile a list of mv commands to sort out Norfolk Data output files
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+#	Makemoves: compile a list of mv commands to sort out Norfolk
+#		Data output files
+#
+#	Usage: Makemoves
+#
+#	Written by Jonathan Altman on 6/30/88
+
+OUT=moves
+if
+	test -s $OUT
+then
+	echo "file $OUT already exists.  Overwriting it."
+	rm -f $OUT
+fi
+
+AWKFILE=$Dante/lib/parse.move.awk
+echo #1 /bin/csh >> $OUT
+for FILE do
+	(echo -n $FILE ' '; head -1 $FILE) | awk -f $AWKFILE |
+	tr -d '\012' >> $OUT
+	echo >>$OUT
+done
+@

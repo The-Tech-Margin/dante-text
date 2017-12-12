@@ -1,0 +1,10 @@
+Tue Feb 7 21:15:45 EST 1989 changed duplicate entries: |51-86.~ to
+	|51.~ and  |86.~ as directed by bobh.   jvs
+Tue Feb 14 16:53:36 EST 1989 preloaded inf jvs
+Sat Apr 15 22:43:50 EDT 1989 jvs corrected .load files using checknew
+Sat Apr 15 22:43:56 EDT 1989 jvs preloaded corrected files
+Thu Apr 27 09:16:00 EDT 1989 jvs checked accuracy of load files using checknew
+Thu Apr 27 19:35:56 EDT 1989 jvs corrected load files using checknew and xfercheck
+Thu Apr 27 19:36:05 EDT 1989 jvs preloaded corrected files
+Mon Jul 31 10:34:13 EDT 1989 jvs renamed .load files to .e
+Mon Jul 31 10:35:17 EDT 1989 jvs deleted old in.e file, renamed in.f to in.e

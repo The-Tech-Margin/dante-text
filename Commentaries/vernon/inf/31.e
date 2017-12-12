@@ -1,0 +1,143 @@
+	|Proemio.~  Incomincia il trentunoesimo C.o dello inferno.
+
+	|1-45.~ 
+
+   ^Una medesma linghua pria mi morse~
+   ^s@i cche mi tinse l'una e l'altra ghancia~
+   ^e po' la medicina mi riporse.~
+
+Trattato l'altore di tutte le spezie di frodolenzia or tratta d'una 
+ispezie che ssi chiama fraude contra sue chose e contro a' suoi 
+signiori per tradimento e dividesi questo chapitolo in quatro parti 
+gienerali.  In questa prima parte seghuendo l'altore alla passata 
+materia diciendo chome Virgilio l'aveva ripreso mordaciemente alla fine 
+dell'altro chapitolo.  E in questo cominciamento di questo chapitolo 
+fingie chome Virgilio i[l] riconforti e questo dei intendere per la 
+linghua di Virgilio cio@e per la ragione dell'altore.  Ancora fa 
+l'altore nel cominciamento di questo chap.o ci@o ch'egli toccha di dire 
+novellette.  La prima chomincia
+
+   ^Cos@i od'io che solea la lancia~
+   ^d'Achille e del suo padre essere chagione~
+   ^prima di trista e poi di buona mancia.~
+
+La fizione di questa storia @e questa Achille figliuolo del re Pelleo 
+essendo co' Greci a oste intorno a Troia e i Greci richieggiendo di 
+vettovaglia il re Telefo chostui mandando neghandola vi mandarono 
+Achille che 'l dovesse costrigniere a dare loro l'aiuto.  Onde Achille 
+v'and@o colla sua giente e convennegli combattere co rre Telefo di che 
+Achille il vinse e tolsegli i[l] regnio di che il re venne alla 
+misericordia d'Achille Acchille si gli perdon@o e rendegli i[l] reame e 
+a questo modo ghuar@i il malore di questo Re.
+
+   ^Dopo la dolorosa rotta quando~
+   ^Charlo Magnio perd@e la santa giesta~
+   ^non son@o s@i terribilmente Orlando.~
+
+In questa seconda novella l'altore toccha quando Charlo Magno fu 
+isconfitto da re Marsilione in Ispagnia nella quale isconfitta furono 
+morti i dodici paladini.  Allora Orlando son@o il corno per avere 
+socchorso e sonollo per s@i gran forza che gli si ruppe tutte le vene 
+della ghola di sanghue.
+
+   ^Per@o che chome in sulla cierchia tonda~
+   ^Montereggione di torre si chorona~
+   ^cos@i la proda che 'l pozzo circonda.~
+
+Ancora d@a l'altore per questa similitudine per lo pozzo in che erano 
+dentro questi giughanti per questo Montereggione.  Ed @e questo monte 
+in sul contado di Siena e havvi un bello chastello tutto intorniato di 
+torri in sulle mura che @e una bella cosa a vedere da lungi e da presso.
+
+	|46-81.~ 
+
+   ^E io scorgieva gi@a d'alchuno la faccia~
+   ^le spalle e 'l petto e del ventre gran parte~
+   ^e perle coste gi@u anbo le braccia.~
+
+In questa seconda parte l'altore fingie ch'egli vedesse Nebrot il gran 
+giughante di costui si leggie nel Vecchio Testamento ch'egli fu al 
+tempo di No@e e ch'egli fu crudo e superbo tiranno.  E questo fu quello 
+che edifich@o e fond@o la gran torre di Babel e feciela per volere 
+essere pari a dDio e per temere diluvio che venisse chome venne al 
+tempo di No@e e fecie adorare il fuocho per iddio e ardere chi nollo 
+adorava.  Et quando l'ebbe lasciato andare tanto quanto gli piacque ed 
+egli fe' loro chambiare e variare i[l] linghuaggio s@i e in tal modo 
+che n@e maestri n@e lavoranti s'intendevano insieme e non davano l'uno 
+all'altro quello che domandavano s@i cche la torre si convenne 
+abandonare e pi@u non si alz@o.  E chostui @e quello di cui dicie 
+l'altore che per lo chui male coto pure u[n] linghuaggio nel mondo oggi 
+non s'usa.  ^Et tempore hus fuisse leghuntur gihantes in quibusdam 
+montaneis Babilonis et dixit gians et fuit~.
+
+	|82-111.~ 
+
+   ^Faciemo addunche pi@u lungho viaggio~
+   ^volti a sinistra e al trar d'un balestro~
+   ^trovamo l'altro assai pi@u fiero e maggio.~
+
+In questa terza parte l'altore fa menzione d'un altro giughante ch'ebbe 
+nome Offialtes.  Questi fu di quegli che cogli altri giughanti puosono 
+i monti l'uno sopra l'altro per volere agiugniere al cielo per volersi 
+vendichare dello dio Giove perch'egli aveva morta la loro madre cio@e 
+la Terra.  E fu questo quando Fetonte abandon@o i freni de' chavagli 
+che menavano il charro del Sole che arsono allora tutti i beni terreni 
+e secchoronsi i fiumi.  E per questa superbia ch'ebbono questi 
+giughanti iddio gli fulmin@o di saette e si gli uccise tutti quanti ^e 
+nota hoc in terzio Boezii in fine~ ec.
+
+	|112-145.~ 
+
+   ^Noi prociedemo pi@u avanti allotta~
+   ^e venimo ad Anteo che ben cinque alle~
+   ^sanza la testa uscia fuor della grotta.~
+
+In questa quarta parte l'altore tratta d'un altro crudelissimo tiranno 
+giughante il quale egli fingie che in questo luogho vedesse il quale 
+giughante fingie che sia il grande Anteo figliuolo della Terra del 
+signiore di Libia e ffu superbissimo e crudeliximo tiranno e ffu 
+d'Africha e abitava in una valle che ssi chiama Uticha e per questa 
+valle chorrea e chorre un fiume che ssi chiama Braghada.  In questo 
+luogho istava Anteo a rubare chiunche vi passava.  Anchora voglio che 
+sappia che in questa valle fu la gran battaglia e sconfitta che diede 
+Iscipione romano ad Aniballe.  Nella quale battaglia vi morirono dalla 
+parte d'Aniballe XX mila huomini dalla parte di Scipione X mila e pi@u. 
+ Ma pure avendo vinto Iscipione seghuendo i Chartaginesi per 
+consumargli affatto Aniballe astuto si pens@o acci@o riparare.  
+Vegniendo la fortuna loro incontro e consigli@o i Chartaginesi 
+mandassono ambasciadori a Scipione preghandolo ch'egli dovesse 
+ricievere a misericordia conciosiacosach@e no' ma' pi@u aspettavano 
+d'avere vettoria contro a' Romani e avea date loro inanzi pi@u e pi@u 
+isconfitte e rotte che stette loro addosso cholla giente de' 
+Cartaginesi XVI anni e pi@u.  Di che avendo dato loro Aniballe il 
+consiglio presollo e mandarono a Scipione solenne ambascieria che 
+dovesse loro perdonare e t#orgli a misericordia.  Rispuose ch'andassono 
+a' sanatori e quello che faciessino fosse fatto.  E cos@i detti 
+ambasciadori andarono a Roma e dispuosono loro l'ambasciata di che 
+rispuosono a Scipione fosse rimessa i[n] llui ch'egli avea auta la 
+vettoria.  E cos@i andarono i detti ambasciadori cartaginesi a 
+Scipione.  Di che Iscipione gli tolse e fecie giurare che non sarebbono 
+pi@u contro al popolo di Roma e fecie loro promettere il trebuto a' 
+Romani e inpuose loro assai leggie e tolse loro tutti i navili che 
+furono pi@u di cinque ciento navi grosse sanza altri legni e tolse loro 
+tutte le loro armadure e missele in que' navili e poi vi fe' mettere 
+entro fuocho.  E dicie che fu a' Chartaginesi pi@u danno e onta che di 
+sconfitte e rotte ch'avessino ricieute da llui.  Questo Scipione grande 
+Africhano fu figliuolo d'un altro grande Iscipione romano e furono 
+chiamati Iscipioni quasi cholonne e bachuli e sostenimenti di Roma.  
+Overo perch@e il grande Iscipione padre di questo ghuidava il suo padre 
+ch'era vecchio e ciecho s@i ch'egli era gruccia e bastone e baculo del 
+suo padre a ghuidarlo dovunque e' voleva andare e tanto vuol dire 
+Iscipione quanto bastone [quanto bastone] i[n] latino e inanzi erano 
+chiamati Chorneli.  Ora tornando al nostro proposito cio@e ad Anteo 
+giughante il quale era chos@i crudeliximo Erchole sent@i la crudelt@a 
+di chostui e lla tirannia e ssi misse andare in questo luogho e trov@o 
+Anteo e missesi a combattere con esso lui.  E ogni volta che Anteo si 
+vedea il peggiore della battaglia s@i ssi lasciava chadere in terra e 
+quanto pi@u tocchava la terra tanto pi@u la forza gli cresciea e di 
+ci@o aveggiendosi Erchole si llo prese alle braccia e rechosselo in sul 
+petto e tanto lo strinse che l'uccise crepando e tennevelo Erchole gran 
+pezzo poi che fu morto perch'egli non risucitasse e acresciesse le sue 
+forze tocchando la terra sua madre chome faciea imprima.  E in questo 
+modo fin@i Anteo sua vita.  Questa @e fizione poeticha e questo basti 
+di questo Cap.o.

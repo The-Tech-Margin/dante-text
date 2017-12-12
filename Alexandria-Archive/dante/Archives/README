@@ -1,0 +1,36 @@
+These directories hold archived text files associated with the Dartmouth
+Dante Project (DDP) database prior to its 1999 reload.
+
+Commentaries.1991
+  This directory contains the files that went into the October 1991
+  load of the database. Generally the *.e files are the edited
+  commentary text and the corresponding files in the staging
+  directories are the files actually fed to the brsload program to
+  load the database. The .e files get processed by the preload
+  script in order to generate the staging files.
+
+  A few corrections have been made to the .e files since the 1991
+  load. These corrections correct typos or make minor corrections to
+  the text.
+
+  Some commentaries in this directory are new ones that have not yet
+  been loaded into the database. These include andreoli, rossetti.
+
+  This directory is read-only.
+
+Commentaries.post1991
+  This directory contains new commentary text, new since the 1991
+  load. It may contain whole new commentaries or new sections of
+  commentaries loaded in 1991.
+
+  This directory is read-only.
+
+Archives
+  This directory contains the oldest versions of some commentary
+  text. The text should be the same as or older than the text in
+  Commentaries.
+
+  This directory is read-only.
+
+					Steve Campbell
+					November 2000

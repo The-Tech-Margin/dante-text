@@ -1,0 +1,641 @@
+	|1-39.~  La ^santa orazione~ {XXXII, 151} di S. Bernardo,
+abbondantemente nutrita di concetti tolti da scritti del santo
+stesso, si divide in due parti: una di lode, l'altra di supplica. 
+Il suo filo organico @e questo: esaltazione della Madonna come
+essere portentoso e sublime e come collaboratrice essenziale
+della redenzione; onde amore ardentissimo per lei in Cielo, e per
+gli uomini in Terra anche fonte inesauribile di speranze.  Tali
+speranze si appoggiano anche sulla sua infinita bont@a; e ardente
+di speranza, Dante, ed egli con lui, la supplicano perch@e ottenga
+da Dio che gli si riveli in visione perfetta, e perch@e dopo tale
+visione lo conservi virtuoso.  Quel che c'@e di meraviglioso in
+questa preghiera @e che la parte laudativa, salvo la riserva che
+dovr@o fare pei vv. 4-6, pur nella sua trascendenza, @e cos@i calda,
+cos@i semplice, cos@i sincera, cos@i profondamente commossa, che non
+fa la minima impressione di una ^captatio benevolentiae~ che
+prepari la supplica.  Starebbe benissimo a s@e anche se la
+supplica non la seguisse.
+
+	|2.  umile~ nella disposizione dell'anima, |alta~ di
+fronte a Dio per le sue virt@u.
+
+	|3.~  <termine d'un decreto divino stabilito ^ab
+aeterno~>, in quanto Dio aveva decretato che dovesse essere la
+madre del Redentore.
+
+	|4-6.~  Dico sinceramente che, unico neo di questa
+stupenda preghiera, questi versi mi sanno un po' d'artificio
+panegiristico.  Parrebbe che Dio si fosse indotto a farsi uomo
+perch@e Maria aveva nobilitato l'umanit@a; mentre il dramma della
+redenzione s'impernia tutto sul volere Dio divenir parte
+dell'umanit@a peccatrice, proprio perch@e peccatrice, facendosi
+partecipe del peccato per poterlo espiare in s@e.  Questo difetto
+non vi sarebbe se invece di |sua fattura~ (fattura dell'umanit@a,
+uomo) si leggesse ^tua fattura~ (tuo figlio), ch@e allora il |non
+disdegn@o~ riguarderebbe soltanto l'avere scelto proprio lei come
+madre, non il farsi uomo.  Ma la concatenazione del pensiero
+sarebbe meno stretta.
+
+	|7-9.~  In Cristo, con l'incarnazione avvenuta nel seno
+di Maria, si riaccese l'amore fra l'uomo e Dio, spento per il
+peccato originale, che producendo la salvazione delle anime,
+popola il Paradiso: metaforicamente, fa germogliare la Rosa dei
+beati.
+
+	|10-12.  meridiana face~: Sole meridiano di carit@a, che
+infiamma, cio@e, d'amore ardentissimo.  |Vivace~: abbondante,
+inesausta.
+
+	|14.  qual~: <colui che> nel senso generico di
+<chiunque>.
+
+	|15.~  Abbiamo qui una costruzione irregolare per cui il
+^colui~ contenuto nel |qual~ resta sintatticamente sospeso, senza
+un verbo riferito ad esso, ed @e poi sostituito dall'altro
+soggetto |sua disianza~; ma ci@o richiama meglio l'attenzione su
+questo nuovo soggetto e su tutta la proposizione conclusiva e
+riesce molto efficace.
+
+	|18.  liberamente~: spontaneamente.
+
+	|19-21.  misericordia~: compassione dei mali.  |Pietate~:
+disposizione amorosa.  |Magnificenza~: grandezza d'animo nel
+beneficare.  |Quantunque~: tutto ci@o che.
+
+	|22.  lacuna~: pot@e significare cos@i lago morto come
+scolatoio di cose immonde.  Se @e qui usato nel primo senso
+alluder@a allo stagno ghiacciato di Cocito.  Se nel secondo,
+potrebbe alludere a tutto l'Inferno; ma se poi |infima lacuna~
+significa latinamente la parte pi@u bassa della lacuna, saremmo
+anche in questo caso a Cocito.
+
+	|24.  le vite spiritali~ ecc.: le tre forme in cui vivono
+gli spiriti dell'al di l@a: l'Inferno, il Purgatorio, il Paradiso. 
+Che l'Inferno sia escluso perch@e le anime dell'Inferno sono
+spiritualmente morte, non mi pare buon argomento.  Sono ^morte~
+rispetto a uno specialissimo concetto di ^vita~, cio@e la grazia
+di Dio; ma nel senso pi@u comune della parola vivono anch'esse,
+perch@e la loro anima @e anch'essa immortale.  E poi, se si
+trattasse solo del Purgatorio e del Paradiso non sarebbe
+menzionato anche il fondo dell'Inferno: bastava menzionare come
+primo termine dell'itinerario dantesco la spiaggia del
+Purgatorio.  E poi, ancora, |ad una ad una~ per due sole vite non
+sarebbe espressione adatta.
+
+	|25-27.~  <supplica che tu con la tua grazia gli procuri
+tanta virt@u (potere) che egli possa sollevare lo sguardo verso il
+bene supremo> cio@e verso la piena visione di Dio.
+
+	|28-29.~  <io, che non ho mai desiderato ardentemente di
+veder Dio come ora desidero che lo vegga lui>.
+
+	|31-33.~  <affinch@e con le tue preghiere ottenga che si
+dissolva ogni nebbia del suo sguardo, dipendente dal suo esser
+mortale; in modo che gli appaia pienamente la somma bellezza>.
+
+	|36.  gli affetti suoi~: la parte dell'anima che sente,
+desidera e vuole, quella, cio@e, che pu@o peccare.
+
+	|37.  i movimenti umani~: gl'impulsi men buoni della
+debole natura umana.
+
+	|38-39.  ti chiudon le mani~: <giungono le mani in atto
+di preghiera verso di te>.  Dicendo |Beatrice con quanti beati~
+sembra accennare che Beatrice per prima abbia unito la sua muta
+preghiera a quella di S. Bernardo, e che gli altri l'abbiano poi
+seguita.  Riassumendo, per bocca di S. Bernardo, nella
+rettitudine dell'anima, ci@o che egli domanda a Dio per la vita
+che gli rester@a dopo la visione, senza curarsi di pregare per
+nessun altro suo bene terreno, egli che di tanto avrebbe pur
+avuto bisogno, Dante si eleva a un'altezza morale senza pari!
+
+	|40.~  In questo verso stupendo si riflette, mi pare, la
+condizione di Maria di essere a Dio madre e figlia: Dio ama in
+quanto padre, venera in quanto figlio, gli occhi di Lei.  In ogni
+altro senso, un Dio che venera sarebbe un assurdo teologico, ch@e
+la venerazione va verso l'alto, e Dio @e altezza suprema.
+
+	|41.  fissi ne l'orator~ ecc.: vuol dire che solo col
+guardare fisamente S. Bernardo la Vergine mostr@o il suo assenso,
+o che, fissi durante tutta la preghiera, i suoi occhi mostrarono
+in fine un'espressione di compiacimento?  Il primo sarebbe assai
+dignitoso, ma ci mostrerebbe una Vergine un po' rigida e
+bizantina: mi pare pi@u d'accordo con la poesia dantesca,
+interprete eccelsa di una concezione latina della Vergine,
+un'espressione, sia pure umana, di compiacenza.
+
+	|44-45.~  L'acuto dantista francese Andr$e P$ezard propone
+(^Le Convive de Dante~, pp. 103 e segg.) di leggere |inii~, dal
+latino ^inhiare~: guardare con stupore.  Ma il guardare con
+stupore e il guardare con somma chiarezza, si accordano fra loro? 
+|Per creatura~: da creatura.
+
+	|48.~  <portai all'estremo limite l'ardore del
+desiderio>.  ^Finire~ credo abbia qui lo stesso significato che
+ha nel 30+o~ verso della canzone <Donne che avete>: <^non perch'io
+creda sua laude finire~>, cio@e portare a compimento.  Che debba
+intendersi che cess@o in lui l'ardore del desiderio, @e assurdo in
+s@e, dal momento che il desiderio non @e ancora appagato, ed @e
+contrario a quanto infatti @e rappresentato anche in s$eguito.  Al
+pi@u il poeta pu@o aver voluto dire che il suo desiderio, certo
+d'essere appagato, perd@e quel che aveva di tormentoso; esprimendo
+tale tormento con la parola |ardore.~  Ma vedi il v. 99.
+
+	|49-51.  e sorridea~: @e una specie di parentesi, ch@e
+|m'accennava~ si riconnette strettamente al verso seguente. 
+|Perch'io guardassi suso~: Dunque Dante guarda Dio direttamente,
+alzando gli occhi a Lui; e cos@i @e verosimile allora che facciano
+tutti gli altri beati (cfr. nota a XXX, 100-105).  Ma Dante ha
+gi@a spontaneamente sollevato lo sguardo a Dio.
+
+	|52.  venendo sincera~: <divenendo limpida>.  Si sta
+sciogliendo dai suoi occhi la ^nebbia della sua mortalit@a~,
+secondo quanto ha domandato S. Bernardo (vv. 31-32).
+
+	|53-54.~  <penetrava sempre pi@u attraverso il fulgore
+della luce divina> la quale @e espressione sensibile della verit@a
+divina: e come tale, Dante dice che @e |da s@e vera~ cio@e vera in
+s@e stessa e non, come tutte le altre verit@a, vere relativamente a
+qualche cosa che @e fuori di esse.  La verit@a divina @e, insomma,
+la verit@a assoluta.
+
+	|55-57.~  <D'ora innanzi ci@o che io vidi supera le
+capacit@a della lingua umana, che @e vinta da tali visioni; e anche
+la memoria @e vinta da cosa che va tanto oltre le sue capacit@a>
+(|oltraggio~, da ^ultra~).  Ancora una volta Dante protesta di
+non ricordare tutto quello che vide (cfr. ^Par.~ I, 7-9).
+
+	|59-60.  La passione~: cio@e il sentimento, lo stato
+emotivo determinato dal sogno, resta, il contenuto del sogno non
+torna a mente.
+
+	|61.  cessa~ (latino ^cessat~): si allontana da me,
+svanisce.
+
+	|64.  si dissigilla~: immagine simile a quella per cui il
+gelo @e considerato come una chiusura (^Inf.~ XXXI, 123).
+
+	|65-66.~  Allusione a un passo dell'^Eneide~ (III 443-51)
+in cui @e detto che la Sibilla Cumana scriveva i suoi oracoli su
+foglie, che poi il vento disordinava disperdendo cos@i il testo.
+
+	|67-69.  ti levi dai concetti mortali~: <t'innalzi al
+disopra delle immagini percepite dalle menti umane>.  Pel senso
+di |concetti~ cfr. nota a ^Par.~ III, 60.  |Mente~: memoria. 
+|Parevi~: apparivi.
+
+	|71.  gloria~: grandezza, potenza (cfr. ^Par.~ I, 1).
+
+	|73-75.~  <giacch@e se io potr@o ricordare un poco ed
+esprimere un poco di questo poco (una ^favilla~ rispetto alla
+pienezza della luce divina), i miei lettori comprenderanno meglio
+quanto tu vinci tutte le altre cose>.  |Per tornare~ e |per
+sonare~ sono complementi causali, non finali.
+
+	|76-81.~  <a causa dell'acutezza della fulgentissima luce
+che fer@i i miei occhi credo che io sarei venuto meno se avessi
+per un momento allontanato gli occhi da quella.  E mi ricordo che
+per questo io osai sopportarla, finch@e riuscii a congiungere il
+mio sguardo con la virt@u infinita> (cio@e a vedere Dio).  C'@e qui
+il solito fenomeno di una luce che vince e sgomenta in principio,
+ma in seguito fortifica i sensi (cfr. XXIII, 47-48 e XXX, 46-60).
+
+	|82-84.  Oh abbondante grazia~ ecc.: esclamazione che
+sottintende una profonda gratitudine senza direttamente
+esprimerla (cfr. XXXI, 28-29).  Non credo che con |la veduta vi
+consunsi~ debba intendersi che Dante vi perd@e la vista.  Non la
+perdette punto quanto alla visione di Dio, ch@e vide, anzi, sempre
+meglio; n@e @e accennato affatto che la perdesse poi quanto alle
+altre cose, e non c'entrerebbe nulla dirlo qui con sentimento di
+gratitudine.  Io credo che questo |consunsi~ derivi qui da
+^consummare~, che spesso si confondeva con ^consumare~ (cfr. nota
+a ^Par.~ XXI, 100-102), e significhi <portai a compimento>
+(latino ^consummavi~).
+
+	|85-87.~  <Vidi che nella sua profondit@a @e contenuto
+amorosamente in perfetta unit@a, come |in un volume~ rilegato,
+tutto quello che per l'universo @e separato e disseminato, come i
+fogli d'un libro squadernato>.  Infatti Dio riflette in s@e
+perfettamente tutte le cose create (cfr. XXVI, 106-107).
+
+	|88-90.~  Determina meglio quanto @e sinteticamente detto
+nella terzina precedente: <quegli elementi uniti insieme in Dio
+sono le sostanze e gli accidenti di tutte le cose create, e il
+loro costume: quasi incorporati, ma in modo tale che quello che
+io dico non @e che un povero (|semplice~) lume per chiarirlo>.  La
+sostanza @e ci@o che forma l'essenza della cosa, l'accidente @e il
+suo modo accidentale di essere (colore, sapore, temperatura,
+ecc.).  Non ho spiegato la parola |costume~ che qui @e veramente
+di difficile spiegazione.  Che significhi il modo di comportarsi
+delle sostanze e degli accidenti non lo credo, essendo concetto
+compreso nella visione degli uni e delle altre.  Sospetto che
+Dante, non conoscendo la vera etimologia di |costume~ da un basso
+latino ^consuetumen~, l'abbia riportato alla medesima radice di
+^costura~, e l'abbia qui usato per analogia ai doppioni ^bassume~
+e ^bassura~, ^lordume~ e ^lordura~, e altri simili, nel creduto
+significato etimologico per dire <modo di unirsi> dell'accidente
+alla sostanza.  L'esser la parola in rima pu@o aiutare a spiegare
+l'uso eccezionale.
+
+	|91-93.~  Probabilmente qui |forma~ ha il senso
+scolastico di anima: <Credo che io vidi l'anima universale di
+questo complesso (ossia l'anima dell'universo) e per questa
+credenza dicendo quel che io dico sento di godere pi@u
+largamente>.  Altri spiega invertendo il rapporto: <credo che la
+vidi perch@e, ecc.>: ma la dipendenza del credere dal godere mi
+pare strana.  Certo per@o il passo @e oscuro.
+
+	|94-96.~  Spiega perch@e, pur credendo di aver visto
+l'anima dell'universo, non pu@o riferire quello che ha visto: <Un
+istante solo di tempo trascorso dopo quella visione ha prodotto
+in me maggiore oblio di quello che venticinque secoli ne abbiano
+apportato alla memoria dell'impresa degli Argonauti>: la quale @e
+tanto affievolita.  L'impresa degli Argonauti @e rappresentata
+assai poeticamente attraverso la meraviglia di Nettuno che per la
+prima volta vedeva l'ombra d'una nave (|Argo~) proiettarsi sul
+mare; prima il mare, a differenza dalla terra, non conosceva
+ombre.  Altre interpretazioni di questa terzina mi paiono
+evidentemente inverosimili.  C'@e chi spiega |letargo~ per
+<contemplazione estatica>: che Dante avrebbe provata in un solo
+momento tanta, quanta in venticinque secoli l'umanit@a non ne ha
+tributata all'impresa degli Argonauti.  Questo letargo
+dell'umanit@a assorbita per venticinque secoli nella
+contemplazione degli Argonauti mi pare ridicolo; e poi perch@e
+|m'@e~ e non ^m'era?~  Il Torraca spiega: <se io avessi
+allontanato lo sguardo da Dio per un solo istante, questo istante
+mi sarebbe parso pi@u lungo di venticinque secoli>.  Ma il |m'@e~
+indica un fatto reale, non un fatto ipotetico; e come |letargo~
+potrebbe indicare la lunghezza del tempo?
+
+	|97-99.  sospesa~: concentrata in quella sola visione. 
+|Fissa, immobile ed attenta~: pu@o parere ridondante; ma io credo
+che i tre aggettivi, pur riferendosi grammaticalmente alla parola
+|mente~, nella sostanza dipingano tutto Dante: fisso con gli
+occhi, immobile col corpo, attento con la mente.  |Accesa~:
+ardentemente desiderosa.
+
+	|101.  per altro aspetto~: per guardare altra cosa.
+
+	|104-105.  fuor di quella~ ecc.: in Dio sono gli
+esemplari perfetti di tutte le cose create, le quali ne sono
+riproduzioni imperfette.
+
+	|106-108.~  <Ormai la mia parola sar@a insufficiente pi@u
+che la lingua d'un lattante, non solo a rappresentar la mia
+visione, ma anche soltanto quel poco di essa che |ricordo~>.  Con
+immagine simile, se pure meno energica, Dante aveva protestato la
+sua incapacit@a a descrivere l'ultimo fondo dell'Inferno (XXXII,
+7-9).
+
+	|109-114.~  <Non perch@e il lume divino assumesse davvero
+diverse apparenze, ch@e Dio @e sempre uguale a s@e stesso, ma poich@e
+la mia vista col guardare diveniva sempre pi@u forte
+(|s'avvalorava~, da ^valor~ latino nel senso di <forza>),
+avveniva che, mutandomi io, una |parvenza~ unica mi si rimutava
+nella mia visione>.  ^Travagliarsi~ significa propriamente
+agitarsi; e quindi, detto d'una forma, mutarsi continuamente.
+
+	|115.  sussistenza~: essenza.
+
+	|116-120.~  <mi apparvero tre cerchi, di tre colori e
+d'una medesima dimensione.  E uno di essi pareva riflesso da uno
+degli altri due come un arcobaleno talora @e riflesso da altro
+arcobaleno (cfr. ^Par.~ XII, 10-13); e il terzo sembrava fuoco
+che spirasse reciprocamente dall'uno e dall'altro dei primi due>. 
+@E la rappresentazione della Trinit@a.  Il cerchio primo @e il
+Padre, quello che lo riflette @e il Figlio, da Lui generato, il
+terzo lo Spirito Santo, che, secondo il domma cattolico, procede
+dal Padre al Figlio e dal Figlio al Padre.  Quali fossero i tre
+colori Dante non lo dice, o lo dice, indirettamente, soltanto
+dello Spirito Santo, ch@e il foco sta spesso in Dante a
+significare il color rosso, ed @e il colore da cui altrove @e
+simboleggiata la Carit@a (^Purg.~ XXIX, 122-123), ossia l'amore,
+che @e appunto, nella Trinit@a, rappresentato dallo Spirito Santo. 
+Probabilmente Dante non volle dare colori determinati alla
+Potest@a e alla Sapienza (Padre e Figliuolo), perch@e non c'era un
+simbolismo comunemente accettato in questa materia.  (Si veda
+anche quanto dico dei tre colori delle facce di Lucifero nella
+nota finale n. 1 a ^Inf.~ XXXIV).  @E stato detto che Dante per
+esprimere il mistero della Trinit@a ha creato una visione
+irrazionale in s@e stessa, perch@e non @e possibile che tre cerchi
+uguali sovrapposti mostrino ciascuno un suo colore.  Ma Dante non
+dice punto che i tre cerchi siano sovrapposti: sono semplicemente
+della stessa |contenenza~, cio@e contengono un medesimo spazio,
+sono di superficie uguale.
+
+	|122.  al mio concetto~: <a quel che ora io vedo nella
+mia memoria>.  |A quel ch'io vidi~: <rispetto a quello che vidi
+con gli occhi>.  Dopo il mistero di Dio uno e trino, il mistero
+di Cristo Dio e uomo.  Dante lo rappresenta in un'apostrofe
+rivolta a Dio come Trinit@a.
+
+	|124-126.~  Dio @e luce eterna, che non @e, come le altre
+luci, emanazione di una luce che @e fuori di esse, ma sola risiede
+in se stessa e sola @e capace d'intendersi; e l'intendersi implica
+una persona intesa da un'altra (|intelletta da te~), e una
+intendente un'altra (|intendente te~): quella @e il Figliuolo,
+questa il Padre.  E sia l'|intendente~ sia l'|intelletta~, ama e
+arride (guarda con affetto) l'altra.
+
+	|127-132.~  <Quel cerchio che in te pareva aver aspetto
+di |lume riflesso~ (il Figliuolo), esplorato bene dai miei occhi
+mi sembr@o esser dipinto dentro il suo giro, col suo stesso
+colore, dell'immagine umana; laonde tutta la mia vista si
+concentr@o in essa>.
+
+	|133-138.~  Dante non riesce a vedere come un viso umano
+possa esser pari a un cerchio; e questo impossibile ragguaglio
+gli fa venire in mente il famoso insolubile problema geometrico
+di costruire un quadrato pari di superficie a un cerchio, per
+risolvere il quale si dovrebbe trovare l'esatto rapporto tra il
+raggio del cerchio e il lato del quadrato equivalente.  Questo @e
+il |principio~ di cui il geometra |indige~ (cio@e @e mancante, @e
+privo: dal latino ^indigeo~).  Tale @e dunque Dante innanzi a
+quella vista singolare d'un volto umano pari a un cerchio: vuol
+vedere come quello possa ^convenire~, cio@e corrispondere, a
+questo, e come possa in questo ^indovarsi~ cio@e collocarsi
+(^indovarsi~ @e verbo di conio dantesco formato sull'avverbio
+^dove~, come abbiamo gi@a trovato ^insemprarsi~, ^insusarsi~,
+ecc.).  Il simbolo @e chiaro: Dante vuole comprendere come Cristo
+possa essere a un tempo uomo e Dio.
+
+	|139-141.~  <Ma le mie forze non potevano sollevarsi a
+tanto; se non che la mia mente fu percossa da un lampo (suprema
+illuminazione della grazia) in cui venne alla mia mente ci@o che
+essa voleva>: la soluzione del mistero.
+
+	|142-145.~  Non si dia a |fantasia~ il senso di fantasia
+poetica, come @e nell'uso moderno.  Sarebbe anche questa (come
+l'^assonna~ inteso come ^sonno~ di XXXII, 139) una assurda
+confessione che quanto egli rappresenta @e mera invenzione. 
+|Fantasia~ @e qui una visione porta dai sensi, secondo quanto @e
+spiegato in ^Convivio~ III, iv, 9.  Dice dunque il poeta che
+quella altezza di visione a cui lo ha sollevato l'ultimo lampo
+della grazia divina, dura un istante e vien meno, priva di forze;
+ma @e bastato perch@e ormai il suo desiderio e la sua volont@a si
+movessero in tutto secondo la volont@a di Dio.  L'immagine della
+|rota~ qui da Dante usata, non @e, nel suo pi@u preciso
+significato, di certa interpretazione.  |Igualmente~ @e da alcuni
+riferito al moto della ruota in s@e: Dante seguirebbe qui una
+dottrina derivata da Aristotile attraverso la scolastica, secondo
+la quale il solo moto perfetto @e il moto circolare, che si compie
+rimanendo sempre ugualmente distante dal centro.  Con tale moto
+si moverebbero ora la volont@a e il desiderio di Dante attorno al
+centro di Dio.  Altri vede accennato nell'|igualmente~ un
+rapporto a un altro termine; che potrebbe essere il moto dei
+cieli.  Dante verrebbe a dire che l'amore di Dio che muove le
+ruote celesti, muove ora in modo uguale a questo, come un'altra
+ruota, l'animo suo.  O potrebbe l'altro termine essere
+direttamente Dio, e significare che ora Dio muove la volont@a di
+Dante in tutto conformemente alla volont@a Sua, sicch@e le due
+volont@a sono come due ruote che, imperniate sul medesimo asse,
+non possono non avere un moto perfettamente uniforme.  Preferisco
+questa interpretazione, che esprime nel modo pi@u efficace e pi@u
+diretto la totale conformit@a di Dante al volere di Dio.  @E
+notevole che questa immagine troviamo in una delle visioni della
+Beata Matilde di Hackeborn, che Dante doveva certamente conoscere
+(cfr. la nota finale n. 3 a ^Purg.~ XXXIII).  Potrebbe domandarsi
+se il totale uniformarsi di Dante alla volont@a di Dio fu
+istantaneo, come l'ultimo sforzo dell'|alta fantasia~ che gli
+permise di vedere Dio ne' suoi pi@u profondi misteri; o se Dante
+intenda che, pur essendo venuta meno quella, il suo animo sia
+ormai tutto di Dio, per sempre, scevro di quei ^movimenti umani~
+{v. 37} di cui S. Bernardo aveva pregato la Vergine di guardare
+Dante dopo la suprema visione.  Si rifletta che la questione non
+riguarda pi@u soltanto Dante personaggio del poema; giacch@e,
+terminando il racconto fantastico, i due Danti, immaginario e
+reale, confluiscono in uno solo, e se Dante dice che dopo la
+visione il suo animo @e totalmente uniformato a Dio, ci@o riguarda
+il Dante storico, reale.  Pu@o parere che attribuirgli un simile
+pensiero sia un po' troppo audace.  Ma non va d'accordo con la
+sua certezza di esser destinato al Paradiso?  Ma ritorniamo a
+Dante poeta.  In tutto il viaggio paradisiaco egli @e stato preso
+nella morsa di due condizioni contradittorie: da un lato il
+desiderio di rappresentare cose trascendentali, dall'altro il non
+poterle rappresentare, poich@e qualunque rappresentazione fatta da
+mente e con mezzi umani non @e, per ci@o stesso, trascendentale. 
+Il poeta cerca una via d'uscita dicendo che la memoria non pu@o,
+in quei casi, seguire la visione, e rappresentando
+indirettamente, suggerendo pi@u che dicendo, e soprattutto
+rappresentando il suo rapimento di quanto vide e sent@i e il suo
+rammarico di non saper ricordare e saper dire, sostituendo alla
+visione il suo stato lirico soggettivo, di allora e di ora. 
+Orbene, tutti questi motivi toccano in questo canto il massimo
+grado d'intensit@a.  Il tentativo di rappresentare, lo sgomento di
+non potere, il rapimento per quel che ricorda d'aver goduto, la
+gratitudine a Dio che tanto gli concesse, la pena del non
+ricordare, si alternano, s'intrecciano, si superano con un
+movimento intenso e continuo, dando a questo canto una tale
+potenza d'espressione che il lettore finisce coll'illudersi che
+Dante davvero abbia visto queste cose divine.  Dante non @e
+riuscito, e non poteva riuscire, a rappresentarle; ma @e riuscito
+portentosamente a rappresentare un uomo che le ha vedute!
+
+	NOTA FINALE N. 1: LA CRONOLOGIA DI COMPOSIZIONE DELLA
+^DIVINA COMMEDIA.~  Il ^Paradiso~ non fu conosciuto dal pubblico
+se non dopo la morte di Dante (1321): risulta da dichiarazioni di
+contemporanei, e ce ne d@a una tal quale conferma Dante stesso,
+che nella sua prima Ecloga latina, che @e del 1320, ci assicura
+che il ^Paradiso~ non @e ancora apparso al pubblico come
+l'^Inferno~ e il ^Purgatorio~, e in termini tali che non fanno
+sembrare tale pubblicazione cosa imminente.  La fine del poema e
+la fine della vita dovettero insomma pi@u o meno coincidere: fatto
+che induce nel nostro animo tanta meditazione e tanta commozione,
+e in s@e, e perch@e fu come il compimento d'una profetica speranza
+di Dante.  Il quale chiudendo circa trent'anni prima la sua ^Vita
+Nova~, nel manifestare il proposito di trattare di Beatrice pi@u
+degnamente, soggiungeva: <se piacere sar@a di colui a cui tutte le
+cose vivono, che la mia vita duri per alquanti anni, io spero di
+dicer di lei quello che mai non fue detto d'alcuna.  E poi
+piaccia a colui che @e sire de la cortesia, che la mia anima se ne
+possa gire a vedere la gloria de la sua donna, cio@e di quella
+benedetta Beatrice, la quale gloriosamente mira ne la faccia di
+colui ^qui est per omnia saecula benedictus~>.  E Dio lo esaud@i. 
+E quando cominci@o la composizione del poema?  Messa da parte la
+leggenda accolta dal Boccaccio, ma inverosimile per tante
+ragioni, che i primi sette canti del poema fossero scritti a
+Firenze, prima dell'esilio (cf. la nota a ^Inf.~ VIII, 1),
+possiamo affermare con la pi@u grande verosimiglianza che esso
+cominci@o invece nell'esilio.  Ma non dovette neanche esser
+s@ubito.  Passati i primi tempi di sgomento, di affanno, di
+tumulto, quando Dante pot@e mettersi a scrivere un'opera di gran
+mole che lo rialzasse nel concetto di coloro che lo conoscevano
+misero e profugo, e gli creasse un titolo, sappiamo per sua
+stessa dichiarazione che quest'opera fu il ^Convivio.~  Ora, che
+mentre dur@o la redazione del ^Convivio~, interrotto poi, com'@e
+noto, a meno d'una quarta parte del disegno primitivo, Dante
+potesse mettersi sul serio al lavoro del poema, @e inverosimile. 
+Potr@a averne avuto una vaga intenzione, potr@a averne volto nella
+mente il motivo fondamentale, potr@a magari averne scritto dei
+brani (e in questa forma potrebbe anche essere che davvero
+qualche cosa ne avesse scritta o abbozzata, ancora a Firenze); ma
+la ^Divina Commedia~ quale fu poi concepita ed eseguita, col suo
+piano perfettamente organico ed uno nel contenuto e nella
+costruzione formale; la ^Divina Commedia~ opera di poesia e
+teologia e filosofia e scienza, effusione di tutta la sua anima,
+opera della sua vita, non @e compatibile con la composizione del
+^Convivio~, che, salvo la poesia, aveva aspirato ad esser esso
+ci@o che fu poi la ^Commedia~, e che doveva fatalmente cadere una
+volta sorto nell'animo di Dante il successore tanto pi@u grande e
+felice.  La ^Divina Commedia~ raccolse l'eredit@a del ^Convivio~;
+e non si pu@o ereditare da un vivente.  Ora il ^Convivio~, secondo
+ogni probabilit@a, dov@e essere interrotto fra il 1306 e il 1307. 
+Sicch@e in questi anni @e assai verosimilmente da collocare
+l'inizio del poema nella sua forma pienamente maturata.  E io
+credo piuttosto nel 1306.  Anteriore al 1+o~ maggio 1308 io
+ritengo l'invettiva del canto VI del ^Purgatorio~, scritta, per
+me, mentre Alberto tedesco era ancor vivo (vedi la nota finale a
+quel canto).  Ma d'altra parte posteriore all'agosto 1307 @e il
+canto XXVIII dell'^Inferno~, perch@e vi si accenna alla cattura di
+fra Dolcino.  Per dare uno spazio sufficiente alla composizione
+di dodici canti, dobbiamo ritenere che l'accenno a fra Dolcino
+fosse scritto sotto l'impressione viva del fatto, nell'autunno
+1307; e allora, essendo men verosimile che i primi ventisette
+canti dell'^Inferno~ fossero scritti tutti in otto mesi del 1307,
+@e probabile che il poema fosse incominciato l'anno prima.  Una
+conferma a questa data potrebbe venire dal racconto boccaccesco
+secondo il quale Dante avrebbe ripreso dopo parecchi anni il
+poema interrotto dall'esilio, quando i canti gi@a scritti gli
+furono dati da Moroello Malaspina, cui un Dino di L. Frescobaldi,
+nelle cui mani erano pervenuti, li aveva mandati da Firenze.  Di
+Moroello, Dante fu ospite in Lunigiana nel 1306.  Al racconto
+boccaccesco oggi, e a ragione, non si presta troppa fede; ma come
+spesso avviene delle leggende, potrebbe pur contenere un nucleo
+di verit@a: che il lavoro continuato del poema (prima poteva forse
+averne pensato o abbozzato qualche cosa) cominci@o nella calma che
+la cortese ospitalit@a dei Malaspina procur@o a Dante.  E le
+entusiastiche lodi e la calda gratitudine da lui espresse verso
+quei Signori nel canto VIII del ^Purgatorio~ (vv. 133-139)
+potrebbero ben muovere anche da quel debito.  In un periodo di
+circa quindici anni si svolse dunque la composizione del poema. 
+Come in questi quindici anni procedesse il lavoro non @e facile
+stabilire.  Ma un punto di riferimento sicuro pare anche a me che
+ci sia offerto da quanto son per dire.  In tutto il poema, dal
+primo canto dell'^Inferno~ al XXVII del ^Paradiso~, torna ogni
+tanto un tema: la profezia d'una rigenerazione morale della
+Chiesa e del mondo, connessa con l'estirpazione dei vizi del
+papato corrotto; che per Dante si riconnette alla sua volta col
+ritorno dei papi alla sola potest@a spirituale.  Ora, queste
+profezie che, quand'anche accennano con certezza al fatto, sono
+per@o assai vaghe circa al modo e al tempo, a un certo momento si
+fanno baldanzose, e annunziano una sicura rigenerazione assai
+prossima, e per mano d'un erede dell'Aquila, cio@e d'un
+imperatore.  @E il vaticinio di Beatrice nei primi versi del canto
+XXXIII del ^Purgatorio.~  Orbene, si pu@o ritenere con certezza
+che quei versi fossero suggeriti a Dante dalle liete speranze che
+suscit@o in lui Arrigo VII di Lussemburgo, e fossero scritti
+quindi nel periodo di queste speranze: fra il maggio del 1310,
+quando Arrigo, eletto verso la fine del 1308, con un'ambasciata
+alle principali citt@a d'Italia manifest@o il fermo proposito di
+venire fra noi a restaurare il potere imperiale, e il 1312,
+quando l'astro di Arrigo incominci@o ad oscurarsi per le tenaci
+opposizioni del partito guelfo e papale.  Ma a questo periodo
+appartengono probabilmente anche alcuni canti precedenti, a
+cominciare dal XXIII.  Dissi che la profezia che Forese dei
+Donati fa in questo canto d'una terribile punizione alle donne
+fiorentine pei loro depravati costumi, @e con tutta probabilit@a
+allusione alla conquista di Firenze da parte di Arrigo VII, che
+il poeta sperava in quegli anni.  Con quel canto siamo gi@a dunque
+nel periodo arrighiano, 1310-12.  Viceversa poco prima, e
+propriamente nel canto XX, abbiamo indizio che le speranze di
+Dante in una rigenerazione fossero ancora assai vaghe.  Quivi,
+infatti, allo spettacolo del numero enorme di vittime fatte
+dall'avarizia, egli esce in una imprecazione contro la maledetta
+lupa, e rivolgendosi poi al Cielo, esclama: ^Quando verr@a per cui
+questa disceda?~ {^Purg.~ XX, 15}: esclamazione che mostra
+un'aspettativa non fondata su alcuna speranza positiva, suppergi@u
+come quella del Veltro nel I canto dell'^Inferno.~  Come dissi
+nella nota ai vv. 52-60 del canto IX del ^Paradiso~, questo canto
+@e tra i pi@u sicuramente databili: tra la fine del 1314 e il
+principio del 1315.  Dopo non abbiamo altri indizi, se non forse
+la probabile allusione alla scomunica di Cangrande, in fine del
+XVIII ^Paradiso~ (127-129), che lo direbbe scritto dopo il 1317. 
+Recapitolando, le date che possiamo fissare con una buona
+probabilit@a sono: Principio del poema 1306; XXVIII ^Inferno~,
+1307; VI ^Purgatorio~, 1308.  Dal XXIII alla fine del
+^Purgatorio~, 1310-12.  IX ^Paradiso~, 1314-15.  XVIII
+^Paradiso~, dopo il 1317.  Fine del poema, 1321.  Ne risulterebbe
+una assai pi@u lunga elaborazione del ^Paradiso~ rispetto alle due
+prime cantiche; ed @e cosa che facilmente si spiega, data la
+materia tanto pi@u ardua e la continua lotta dello stile poetico
+con essa materia.
+
+	NOTA FINALE N. 2: LE IMPRONTE DELL'ESILIO.  La ^Divina
+Commedia~ @e dunque tutta quanta un frutto dell'esilio, e anche in
+un senso ben pi@u profondo del mero rapporto cronologico.  Assai
+probabilmente, senza l'esilio la ^Divina Commedia~ non sarebbe
+nata.  Un Dante rimasto tranquillamente a Firenze, con la sua
+casa, con la sua famiglia, preso nella vita politica della citt@a
+come gi@a per alcuni anni prima d'esser bandito, difficilmente
+avrebbe avuto la spinta a intraprendere un'opera cos@i colossale. 
+Il ^Convivio~ che fu il predecessore della ^Divina Commedia~, per
+aperta confessione di Dante, egli si mise a scriverlo per
+mostrare quello che valeva a coloro che nell'esule infelice e
+povero difficilmente avrebbero potuto scorgere il grand'uomo. 
+Concepita un'opera tanto pi@u alta e complessa, il ^Convivio~ non
+ebbe pi@u ragione di essere, ma dal morto ^Convivio~ la ^Divina
+Commedia~ eredit@o non poco, e nell'asse ereditario vi fu
+certamente anche quel motivo generatore del ^Convivio.~  Accanto
+ad esso motivo, giganteggi@o nel poema il fine di svelare le colpe
+e le sventure del mondo contemporaneo e additarne i rimedi; ma il
+sentimento di quelle colpe e di quelle sventure fu certo tanto
+pi@u vivo e operoso nell'anima di Dante quando di esse egli non fu
+pi@u semplice spettatore ma vittima, quando, bollando a fuoco i
+responsabili, egli non eseguiva soltanto una punizione ma una
+vendetta.  Non gi@a che il sentimento personale offuscasse in lui,
+nelle grandi linee, il senso della giustizia; ma la giustizia non
+si serve mai con tanto zelo come quando i suoi interessi vanno
+d'accordo coi nostri.  Quel soffio di passione impetuosa e
+sublime contro il male che pervade tutto il poema, attinge
+certamente dalla sventura personale di Dante un grado e un tono
+che senza di ci@o non avrebbe raggiunto, anche se il poema fosse
+nato ugualmente.  Ma come nell'arte di Dante abbiamo potuto
+vedere i due elementi umano e trascendentale coesistere e
+alternarsi costantemente, cos@i nella sua anima, se da un lato
+l'esilio produsse una maggiore intensit@a di passione, dall'altro,
+come scuola di dolore e di rinunzia, lo sollev@o a un'altezza di
+contemplazione in cui le vicende umane perdono il loro
+significato, e considerate non nei limiti del mondo terreno ma
+nell'eterno, si risolvono in un abbandono fiducioso alla volont@a
+di Dio, in un sicuro rifugio nella sua giustizia del mondo di l@a. 
+Cos@i passione umana e fervente religiosit@a, che sono come le due
+anime pi@u vive del poema, furono e l'una e l'altra certamente
+nutrite dai dolori dell'esilio.  E tracce commoventi dell'esilio
+sono poi dei caratteri che potrebbero paragonarsi ai segni delle
+intemperie nei marmi di certi monumenti vetusti ed insigni.  Io
+non ho mai mancato di notare nel poema certe sviste, certe
+distrazioni, certe inesatte reminiscenze o citazioni di testi,
+certe inconseguenze, certe contradizioni.  Le ho notate prima di
+tutto per amor del vero, e poi perch@e credo sia una forma di
+moralit@a didattica non nascondere ai giovani i difetti dei
+grandi, e una forma di culto pei grandi il non coprire quei
+difetti come si farebbe per mediocri che hanno bisogno
+d'indulgenza e d'aiuto.  E poi quei difetti non solo sono ben
+piccola cosa in s@e, ma possono diventare fonte di commossa
+meditazione e aggiungere una nota alla multiforme vibrazione
+poetica che accompagna la lettura del poema, ove si pensi quanti
+di essi sono certamente dovuti alle dolorose condizioni
+dell'esule, almeno in certi periodi della sua vita: mancanza di
+calma nel suo spirito, di tempo libero da occupazioni impoetiche
+con cui chiss@a quante volte avr@a dovuto procurarsi il pane, di
+libri nel suo bagaglio di povero ramingo.  Se nelle edizioni del
+poema al posto dove, a pi@e di pagina, si mettono le note
+ermeneutiche, si potesse rappresentare un quadro continuo della
+vita di Dante in corrispondenza cronologica col testo, che
+commento potrebbe essere quel quadro ai versi da esso
+accompagnati!  e di quante cose ci darebbe la spiegazione, quante
+cose ci illuminerebbe pi@u vivamente, di quanti di quei difetti
+cui accennavo avremmo la giustificazione!  Impronte dell'esilio
+anch'essi, e come tali degni che si mostrino senza falsi
+riguardi.  Delle piaghe morali che sono nella vita di molti santi
+prima della loro conversione, cantava il Manzoni in alcuni versi
+dell'incompiuto inno a Tutti i santi:
+
+     Un timido ossequio non veli 
+     le piaghe che il fallo v'impresse:
+     un segno divino sovr'esse 
+     la man che le chiuse lasci@o.
+
+Quelle di Dante sono piaghe impresse dalla sventura; ma anche su
+di esse c'@e un segno che ha del divino: quello dell'immeritato
+dolore nobilmente sopportato, e alleviato dalla fiducia in Dio.

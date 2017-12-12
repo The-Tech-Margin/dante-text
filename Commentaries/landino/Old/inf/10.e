@@ -1,0 +1,701 @@
+	|1-9.~   Assai men di difficult@a contiene questo decimo canto che el 
+nono: perch$e pochi luoghi ci sono: che ricevino altra alleghoria che 
+la gi@a decta: et gran parte se ne consuma in historia.   Tracta 
+degl'heretici: et apparecchiasi a scendere nel septimo cerchio.  Truova 
+Farinata Uberti: Et Cavalcante Cavalcanti cavalieri fiorentini: et da 
+Farinata ode le chose future: et intende la cagione per la quale e' 
+posti nello 'nferno posson prevedere el futuro.  |Hora s'en va~: Havea 
+dimostro che Virgilio lo menava tra' martyri: Hora sequitando pone che 
+la via per la quale menava Danthe era tra 'l muro della terra |Et li 
+martiri~: cio@e le sepulture dove erano e' martyrii: A dinotare che 
+questi sepolchri erono apresso alle mura.  Il che significa la dureza 
+et obstinatione degl'heretici.  Possiamo anchora intendere: che chome 
+chi @e presso alle mura della citt@a @e quasi fuori di quella.  Chos@i 
+l'heretico bench$e sia christiano.  Nientedimeno per la depravata sua 
+religione @e quasi fuori del christiano nome.  Et similmente dinota: 
+che simili huomini fanno loro congreghe in luoghi seperati et rimoti.  
+|Calle~ Significa via non publica ma strecta: et facta dal calloso pi@e 
+delle bestie A dinotare che molta strecta via @e quella che sta 
+l'heresie guida bene: Et certo @e difficile tra tanti falsi trovare el 
+vero.  Ordina el texto chos@i El mio maestro se ne va hora per un 
+secreto calle: cio@e via: la quale intendi era tra 'l muro della terra 
+et e' martyri.  |Et io dopo le spalle~: perch$e la sensualit@a sempre 
+se non vuole errare/ conviene che sequiti el suo maestro Virgilio: 
+cio@e le forze dello 'ntellecto: et di poi sequita.  |O virt@u somma~.  
+O Virgilio el qual se' di somma virt@u.  |Che mi volvi~: el quale mi 
+rivolgi chome ti piace.  |Per gli empi giri~: Cio@e per cerchi impii 
+cio@e dove sono gl'impii: et dispietati peccatori.  Imper@o che non 
+pu@o essere maggiore impiet@a: che non haver buona opinione di dio.  
+Alchuni testi hanno |Ampi~: cio@e larghi a dinotare la copia de' 
+peccatori.  |Parlami et satisfami~: cio@e parlami in forma che 
+satisfaccia |A miei disiri~/ alla mia voglia.  Questo @e l'ordine del 
+texto: Ma ricordianci che chome @e decto altrevolte sempre gli epitheti 
+e' quali l'auctore d@a a Virgilio sono acomodati al luogho dove gli 
+pone.  Adunque qui lo chiama somma virt@u: perch$e Virgilio cio@e lo 
+'ntellecto ha cinque virt@u.  Intelligentia circa a' principii.  
+Scientia circa alle chose che sequitano da' principii.  Sapientia la 
+quale abbracciando le due gi@a decte: Nientedimeno non @e alchuna di 
+quelle: Ma una terza virt@u oltre alle due.  Prudentia la quale @e 
+recta guida nelle actione particulari et vita civile: Et arte la quale 
+@e chosa nota.  Di queste cinque la pi@u excellente @e la sapientia: 
+perch$e @e cognitione delle chose non solo humane: ma divine.  Adunque 
+non lo poteva menar salvo tra le heretiche falsit@a/ se non con la 
+sapientia: la quale ha vera cognitione della divinit@a quanto patisce 
+la capacit@a della mente humana.  Et non senza cagione dixe: Mi volvi 
+come a te piace.  Perch$e bench$e in tutte le cognitioni sia necessario 
+che la ragione inferiore et el senso si lasci volgere et guidare allo 
+'ntellecto.  Nientedimeno in questo maximamente bisogna: Et fa optimo 
+proemio a questa brieve oratione: perch$e prima capta benivolentia 
+chiamandolo somma virt@u: Et per le medesime parole dimostra quello di 
+che lo dimanda essergli facile essendo in lui somma virt@u: Pu@o 
+adunque farlo.  Di poi dimostra che debba farlo: perch$e richiede 
+l'equit@a che satisfacciamo alla voglia di chi al tutto si d@a nel 
+nostro arbitrio.  |La~ |Gente~ Ha insino a qui dimostro et che Virgilio 
+pu@o: et che debba rispondergli.  Pone hora la domanda a che vuole 
+risposta: la quale @e se pu@o vedere quegli: e' quali giaciono ne' 
+sepolchri.  Il che lui crede facilmente potersi: Et perch$e e' 
+sepolchri sono aperti: et perch$e nessuna guardia vi vede che vieti el 
+guatarle.  La cagione per la quale sieno aperti diremo pocho di sobto.  
+Non v'@e guardia: perch$e sancta chiesa non tiene celate: et non vieta 
+che non si possin leggere et intendere l'opinioni heretiche: Ma con 
+efficace ragioni le confuta: Et poi vuole che a ciaschun sia nota: et 
+la stultitia loro: et la sapientia de' sacri theologi: accioch$e inteso 
+essere falso ci@o che loro dicono: et chon vere ragioni riprovato/ 
+sieno piutosto derisi et scherniti: che imitati et apprezati.  Et certo 
+chome la fossa nella via debba non occultarsi ma manifestarsi: 
+accioch$e per imprudentia alchuno non vi caggia.  Chos@i le false 
+opinioni debbono venire in luce insieme chon le loro vere ripruove: 
+Accioch$e per ignorantia alchuno non caggia in simile errore.
+
+	|10-21.~  Optimo parlare di buon preceptore: el quale spesso non 
+solamente risponde a quanto domanda el discepolo: Ma anchora da s$e 
+medesimo arroge tutte l'altre chose: le quali giudica // c.75v essergli 
+utile a sapere.  Domand@o Danthe se si poteva vedere la gente de' 
+sepolchri essendo quegli aperti: Et Virgilio non solamente risponde che 
+si posson vedere: Ma ^etiam~ dice che si serreranno dopo l'universale 
+et ultimo iudicio: el quale sar@a nella consumatione del mondo: quando 
+tutta l'humana generatione ripresi e' propri corpi si raguner@a nella 
+valle decta Iosaphat vicina a Hierusalem dove Christo Iesu scender@a a 
+giudicare e' buoni all'eterna gloria: et e' rei a etherne pene.  
+Iosaphat significa epso giudica: Overo iudicio del Signore.  Allhora 
+adunque queste anime citate torneranno pe' proprii corpi: et dopo el 
+giudicio ritorneranno con quegli a' queste tombe: et allhora si 
+serreranno.  Stanno adunque aperti perch$e non vi sono e' corpi: et 
+questa @e la ragione quanto allo 'nferno essentiale: Ma quanto al senso 
+allegorico possiamo intendere che insino che dura l'humana generatione 
+stanno aperti per ricevere gl'heretici e' quali di tempo in tempo 
+surgano: Quasi dica che sempre sono et saranno degl'heretici.  Ma 
+finito el mondo cesseranno: perch$e mancher@a la generatione humana.  O 
+veramente intenderemo con pi@u sobtilit@a: che sobto el giudicio 
+universale dimostri el particulare: et voglia intendere che lo heretico 
+subito che @e in tale errore ha sepolta la ragione: Ma non @e serrata 
+la sepultura insino al giudicio suo particulare: perch$e pu@o tornare 
+alla vera fede.  Stanno adunque aperti: perch$e la divina gratia gli 
+pu@o innanzi al iudicio: cio@e la morte trarre delle tenebre: et 
+rinurgli alla luce.  Il perch$e non si debbono uccidere gl'heretici: Ma 
+incarcerargli admunirgli et ridurgli quanto si pu@o.  ^Ovis enim 
+errabunda occidi non debet Sed ad caulam reduci~.  Il che anchora si 
+dimostra il libro ^Regum~ Quando Absalone figluolo di David entr@o alle 
+concubine del padre.  Dove per le concubine intendono gl'heretici.  
+|Suo cimiterio~: Ordina chos@i tutti e' sequaci del philosopho Epicuro 
+insieme con lui hanno suo cymiterio da questa parte Et rectamente dixe 
+cimiterio essendovi sepolchri.  Imper@o che cimiterio @e dove e' 
+christiani sepelliscono e' corpi de' morti huomini: et @e vocabolo 
+greco: et significa giacitorio: perch$e quivi giaciono e' corpi morti 
+decto da cime cio@e giacio.  |Che l'anima col corpo morta fanno~.  
+Pessima opinione: et somma pernitie alla futura vita: Ma nessuno di 
+sana mente questo crede.  Ma loro chome dice el Psalmista: ^Posuerunt 
+mendacium spem suam: et mendacium operi speraverunt~: Et Salomone: 
+^Semitas proprie culture erraverunt Et colligunt in manibus 
+infructuosa~.  Epicuro philosopho dixe che l'anima muore insieme col 
+corpo: Varie sono l'opinioni dell'anima secondo diversi philosophi: 
+perch$e molti credectono quella esser corpo: molti esser chosa 
+corporea: Et prolipso sarebbe narrare di tutti.  Ma io nel primo de' 
+tre libri che in lingua latina scripsi dell'anima di ciaschuno posi 
+l'opinione: et di poi lo confutai dimostrando quella non esser corpo: 
+n$e chose corporea: Ma incorporea.  Posi di poi la diffinitione 
+d'Aristotele: Et perch$e quella @e comune et non propria dell'anima 
+humana presi della doctrina platonica: nella quale tanto philosopho 
+investiga prima perch$e sia l'anima.  Di poich$e chosa sia.  Se fu 
+innanzi al corpo o dopo el corpo.  Se si pu@o dividere in pi@u parti.  
+Se in uno medesimo huomo sono pi@u anime: cio@e che altra anima sia la 
+vegetativa.  Altra la motiva.  Altra la sensitiva.  Altra la rationale. 
+ O veramente sia una sola: la quale abbracci in s$e tutte queste 
+quattro potentie: et finalmente posi la diffinition sua: la quale @e 
+che anima sia substantia incorporea rationale: la quale muova s$e 
+medesima.  Dopo tale diffinitione provai perch$e @e substantia et non 
+accidente: et perch$e @e incorporea et non corporea: Et quello che 
+intende Platone quando dice che l'anima muove s$e medesima: et che 
+chosa sia moto activo et passivo: et chome atorto questa diffinitione 
+@e impugnata da' peripatetici.  Dixi anchora l'anime non essere state 
+create tutte insieme come scrive Platone: n@e venire ne' corpi o 
+perch$e sieno aggravate dalla cupidit@a delle chose terrene: chome 
+piace al medesimo Platone O che voglino rifuggire e' duri imperii degli 
+dii: et lassi due revolutioni che hanno a fare pel voltare de' cieli 
+chome scrive Heraclito O per sostenere pena et tormento ne' corpi de' 
+peccati e' quali hanno commesso in cielo: come crede Empedocle: et 
+anchora Origene: Et aggiunsi che l'anime sono create di tempo in tempo: 
+et in un medesimo puncto create et messe nel corpo: Et sono create da 
+dio non della sua substantia: chome affermorono gli stoici: et di poi 
+molti heretici spagnuoli: e' quali sequitorono Manicheo et Prisciliano. 
+ N$e anchora sono create del suo alito: chome vuole Vincentio victore.  
+Ma sono create di niente rationali: et immortali: et con libero 
+arbitrio: pel quale consequita: che in mano nostra @e la vita: et la 
+morte: cio@e el poterci salvare et dannare.  Di poi nel secondo libro 
+tractai della potentia vegetativa: Et chome nutrisce el corpo: et come 
+lo crescie: et con che seme ne genera pi@u.  Tractai della motiva.  
+Tractai de' sensi exteriori et interiori.  Tractai dell'appetito: et 
+delle perturbationi che da quello nascano.  Tractai di tutte le virt@u 
+intellective et morali.  Ne solamente discripsi tutte queste parti et 
+potentie: Ma anchora dimostrai tutti gli 'strumenti del corpo e' quali 
+l'anima usa in epse.  Nel terzo aggiunsi la rationale: et 
+distinctamente narrai dello 'ntellecto possibile et agente: et che 
+chosa sia ragione inferiore et ragione // c.76r superiore: et che 
+intellecto et intelligentia.  Et confutai l'opinione d'Averois: et 
+molti altri dimostrando che tante sono l'anime quanti sono gl'huomini: 
+Et esser falso che sia uno solo et universale intellecto.  Et 
+nell'ultimo posi molte argomentationi per provare la immortalit@a 
+dell'anima.  Adunque per tutte queste chose intendiamo l'anima non 
+essere stata mai innanzi al corpo.  Intendiamo l'essentia sua: et le 
+sue parti et potentie.  Intendiamo quello che opera nel corpo: et con 
+che instrumenti: et come rimane poich$e @e uscita del corpo.  Ne 
+allegai miei libri: perch$e sia s@i arrogante che mi pre[p]ongha agli 
+altri: Ma perch$e in quegli sono raccolte molte chose: le quali non si 
+truovano altrove insieme: perch$e congiunsi la platonica con 
+l'aristotelica: et stoica disciplina: et quelle ho sobtomesse alla 
+christiana verit@a: et narrando l'ho tracte delle spinose 
+argomentationi di dialectica et factole perspicue et aperte chon 
+oratorio stile In forma che non solamente gl'huomini exercitati in 
+philosophia: Ma anchora e' civili/ pure che habbino alchuna cognitione 
+di lectere facilmente l'entendono: Et questo basti dell'anima.  Torno 
+allo Epicuro.  Chostui fu atheniese figluolo di Neocle dixe che l'anima 
+nostra @e corpo composto di s@i sobtili parti che penetra per tutto el 
+corpo: Et la materia che fa questa anima sono atomi cio@e corpi s@i 
+minuti che sono indivisibili: Et tali atomi vuole che sieno molto 
+tondi: Et perch$e ogni corpo @e composto: et ogni composto si dissolve: 
+et per consequente perisce/ Sequita che essendo l'anima corpo convien 
+che perisca.  Adunque vuole che l'anima sia mortale.  Questo medesimo 
+philosopho pose la nostra felicit@a nella volupt@a et piacere del 
+corpo: et la infelicit@a nel dolore del corpo: la qual sententia 
+bench$e sia piutosto di bestia che d'huomo: perch$e non siamo nati o a 
+empiere el ventre o a satiare la libidine: Ma a contemplare le divine 
+chose.  Nientedimeno fece meglio che non dixe Imper@o che vixe chon 
+somma temperantia: et ne' cibi et nelle chose veneree.  Sopport@o con 
+grande animo e' dolori.  Fu observantissimo della fede.  Fu fedelissimo 
+nelle amicitie.  Il perch$e hebbe molti amici.  Fu molto liberale et 
+clemente.  Il perch$e @e molto et in molti luoghi lodato da Seneca 
+philosopho gravissimo.  Ma tornando al texto vedendo el poeta nostro le 
+heresie esser tante: che di tutte non potrebbe tractare pose questa: la 
+quale @e pi@u pernitiosa all'humana generatione che alchuna altra.  
+Imper@o che chi pone l'anima mortale togle ogni fondamento al giusto 
+vivere civile: et alla vera religione.  |Che l'anima col corpo morta 
+fanno~.  Non fanno perch$e non @e in suo arbitrio farla morta o viva: 
+Ma fanno cio@e giudicano.  |Per@o alla domanda che mi faci~ se si 
+posson vedere.  |Quin centro~/ in questo non lontano spatio.  
+|Satisfacto sarai tosto~: perch$e vedrai l'anime farsi fuora del 
+sepolchro.  |Et al disio ancora che tu mi taci~.  Havea domandato se si 
+potean vedere l'anime Ma la intentione sua era in particularit@a di 
+vedere Farinata et Cavalcante: e' quali credeva vi fussino sapendo che 
+epsi erono maculati di tal vitio.  |O buon duca non tengho nascoso a te 
+el cuor mio~: cio@e non tacetti questo per nasconderti el cuor mio: 
+cio@e la mia voglia.  |Ma per dir brieve~.  Imper@o che chi domanda in 
+genere dice pi@u brieve che chi ricerca particularmente.  Et aggiugne 
+che vuole esser brieve: perch$e Virgilio non pure al presente: ma pi@u 
+volte l'ha amonito a questo.  Et sobtilmente dimostra Danthe la 
+differentia che @e tra lo 'ntellecto superiore et lo 'nferiore.  
+Imper@o che el superiore si rivolge agl'universali: et non a' 
+particulari: chome verbi gratia non ricerca se l'homicidio commesso in 
+particulare da Milone in Clodio: o la rapina commessa da Verre in 
+Sicilia @e male.  Ma ricerca universalmente se l'homicidio et la rapina 
+sono male.  Ma lo 'nferiore considera el particulare: chome veggiamo 
+nella vita civile.  Ma Danthe volendo venire alla vera scientia delle 
+chose: la quale @e negl'universali lascia el modo proprio et piglia 
+quello di Virgilio sequitando gl'universali: perch$e Virgilio 
+volendoselo unire alla cognitione sempre l'admonisce ad questo:Et non 
+per@o gli cela el suo cuore.  Imper@o che lo 'ntellecto superiore 
+cognosce questo universale: che lo 'ntellecto inferiore cerca e' 
+particulari.
+
+	|22-30.~  Pone le parole dello spirito che era Farinata Uberti: le 
+quali sono convenienti a huomo magnanimo et prudente et di composti 
+costumi chome fu lui.  |O tosco~ o toscano Quasi dica o fiorentino: la 
+quale citt@a @e capo di Toscana.  |Per la citt@a del foco~: per la 
+citt@a di Dite piena di fuoco.  |Vivo t'en vai~: et non morto ne' vitii 
+chome noi.  |Parlando honesto~: perch$e havea sentito quando rispose a 
+Virgilio.  |Restare~/ fermarti.  |La tua loquela~: Dimostra che l'havea 
+conosciuto al parlare.  |Di quella nobil patria~: tua et mia: et 
+profer@i queste parole non sanza merore.  Imper@o che ogni fallo 
+commesso lascia dopo s$e pentimento: el quale del continuo stimola la 
+conscientia.  Adunque dicendo di quella nobil patria dimonstra dolersi 
+d'haverla offesa: perch$e dicendo nobile @e chome a dire indegna 
+d'essere molestata: Et per@o subgiugne.  |Alla qual forse fui troppo 
+molesto~.  Ma dixe forse per non si privare al tutto discusa: quasi 
+dica se io fui impio inverso di lei e' miei adversarii me ne decton 
+cagione.  |Subita-~ // c.76v |mente questo suono usci@o~: parla el 
+poeta et dice donde uscirono queste parole: le quali dandogli alchuno 
+spavento chome chosa subitata et impremeditata/ feciono che lui 
+s'accost@o a Virgilio.  Et per questo dinota che ogni volta che la 
+sensualit@a: o la ragione inferiore piglia alchuna perturbatione si 
+debba congiugnere con la ragione superiore: perch$e in quella @e 
+perfecto giudicio: et cognosce se quello che da pavento @e da fuggire o 
+no: et se non @e da temere conforta l'appetito all'andare incontro Et 
+per@o sequi[t]a.
+
+	|31-39.~  Non fu maraviglia che le parole di Farinata perturbassino la 
+sensualit@a.  Imper@o che all'heresia non pu@o rispondere se non chi @e 
+aiutato dallo 'ntellecto: Ma a chi s'accosta allui epso da animo al 
+rispondere.  |Volgiti che fai~.  Quasi dica perch$e t'indugi: Et dinota 
+che all'heresia si vuole insurgere presto: et chon audacia innanzi che 
+alchuna falsa oppinione invecchi nella mente.  |Sieno le parole conte~: 
+cio@e prompte et appensate: accioch$e l'adversario non v'habbia alchuno 
+appiccho.  |Vedi la Farinata~/ Cavaliere fiorentino et della nobile 
+famiglia degli Uberti.  Fu in Firenze principe de' Ghibellini: pel cui 
+consiglio e' Ghibellini nello infelicissimo conflicto di Montaperti in 
+Val d'Arbia furono superiori: onde segu@i la fugha de' Guelfi: E' quali 
+abbandonando Firenze circuirono chon florentissimo exercito buona parte 
+d'Italia: et in Bologna.  Parma: Modona rimessono e' Guelfi: Et 
+finalmente armati in aiuto del pontefice contro a Manfredi/ furono 
+potissima cagione della ropta di Manfredi.  Huomo sanza fallo di grande 
+animo: et non di minore consiglio: Ma hebbe prava et falsa opinione 
+dell'anima humana stimando quella perire insieme col corpo.  Et per@o 
+giudicava esser bene in questa brieve vita pigliare ogni volupt@a di 
+corpo: In forma che nel victo et ne' cibi passava la modestia.  Il che 
+not@o Danthe nel sexto canto quando domanda Ciacco se era con lui.  |Io 
+havea gi@a el mio viso~: el mio vedere cio@e gli occhi.  |Ficto nel 
+suo~: perch$e fisamente lo miravo per riconoscerlo.  |Et e[l] surgea 
+chol pecto et chon la fronte~.  In tre luoghi pu@o consistere la 
+heresia.  Sentirla in s$e parlarla con altri: et farne apertamente 
+professione.  Adunque volendo Danthe dimostrarlo heretico in ogni 
+parte.  Prima gli decte el parlare: hora dimostra che surge chol pecto 
+dove sta la cogitatione: et chon la fronte: la quale significa aperta 
+et manifesta professione.  Il perch$e a laudabile institutione de' 
+christiani: la religione de' quali consiste maxime nello ^Evangelio~: 
+che quando quello odono segnono la fronte.  la bocca: et el pecto.  A 
+dimostrare che lo credono col cuore: et diconlo con la lingua: et con 
+aperta fronte ne fanno professione.  ^Preterea~ vuole mostrare costume 
+d'altiero chome era lui: per@o che tali huomini per elatione vanno 
+quasi supini mostrando el pecto et la fronte.  Onde Iuvenale: ^Multum 
+referens de Mecenate supino~.  |Chome havessi lo `[n]ferno in gran 
+dispicto~.  @E natura del pusillanimo ne' tormenti affliggersi et 
+consternarsi: Ma chi @e di grande animo ritiene un certo fasto et 
+superbia: et pare che piutosto disprezi el tormento che se ne dolga.  
+Et dixe |Dispicto~ in luogho di dispecto mutando ^e~ in ^i~ per fare la 
+rima.  |Et l'animose mani del duca prompte~.  Era necessario che la 
+ragione inferiore fussi corroborata dalla excellentia et francheza 
+della superiore.  Et per@o finge che le mani animose del duca lo 
+pinsono: n$e solamente erano animose: Ma anchora prompte ci@o caute et 
+veloci: et comand@o che le parole sue fussin conte: cio@e chiare et 
+aperte: perch$e chi vuole essere fuor d'heresia debba scrivere: et 
+parlare sanza alchuna ambiguit@a: et non vada se non mandato dallo 
+'ntellecto: perch$e @e stultitia chi non ha l'intellecto illustrato di 
+vera et christiana doctrina disputare maxime in publico con heretici et 
+con infedeli: perch$e essendo vincto dall'acume di chi afferma el falso 
+fa vacillare quegli che odono.  Onde @e prohibito che chi non @e 
+pronuntiato maestro in sacra theologia non disputi in publico.
+
+	|40-51.~  Discrive nel primo ternario e' gesti et le parole di 
+Farinata pe' quali si dimostra l'altiera sua natura: perch$e chon certo 
+fasto domand@o chi erono stati e' suoi maggiori cio@e e' suoi antichi.  
+|Io ch'ero d'ubbidir disideroso~: intendi a Virgilio el quale gl'haveva 
+decto Le parole tue sien conte.  |Onde lev@o le ciglia un poco in 
+suso~.  Il che @e apto d'huomo che oda quello che non vorrebbe.  Et poi 
+dixe questi tuoi antichi furono fieramente diversi et adversarii ad me: 
+et a' miei antichi: et a mia parte: perch$e loro erono Guel- // c.77r 
+fi et e' miei Ghibellini.  |Si che per due fiate gli dispersi~.  
+Perch$e due volte furono cacciati e' Guelfi.  |Ma vostri non appreson 
+ben quell'arte~ del ritornare: peroch$e cacciati una volta: n$e mai di 
+poi tornorono: n$e speranza alchuna resta loro di ritornare: Et puossi 
+dire che sobto questi nomi Guelfi et Ghibellini allegoricamente 
+s'intenda cattolico et heretico.  Perch$e in vero e' Guelfi furono 
+sempre propugnatori et difensori dell'Apostolica Sedia: et per questo 
+gli pone per catholici: Et e' Ghibellini per heretici conciosiach$e 
+loro si ribellasino dalla chiesa.  Et @e vero che se furono cacciati 
+sempre tornorono.  Imper@o che non obstante che la vera religione sia 
+stata spesse volte in molti luoghi scacciata dalla heretica pravit@a 
+Finalmente sempre @e ritornata in suo stato.  Ma per l'opposito non @e 
+stato spento mai alchuna secta d'heretici: che di poi sia risuscitata.
+
+	|52-72.~  Dopo Farinata pone Cavalcante cavalieri fiorentino nato 
+dell'antica et splendidissima famiglia de' Cavalcanti: el quale ne' 
+suoi tempi fu per sua virt@u et prudentia enumerato tra' principi 
+guelfi della nostra republica.  Ma solamente incorse infamia per tenere 
+epicuria opinione: Ma perch$e ne parlava con pi@u modestia et pi@u 
+copertamente che Farinata: per@o el poeta non lo fa surgere tanto fuori 
+dell'arca quanto lui.  La famigla de' Cavalcanti @e molto antica nella 
+nostra citt@a: Et nobilitata per non pochi excellenti huomini da quella 
+prodocti chome facilmente si pu@o vedere nelle chronache fiorentine.  
+Ma per tornare onde ci partimmo di Cavalcante nacque Guido non solo 
+nella vita civile excellente: Ma anchora in ogni spetie di speculatione 
+exercitato: Ma precipue acutissimo dialetico: et philosopho egregio: et 
+non poco exercitato ne' versi toscani: e' quali anchora hoggi vivono 
+pieni di gravit@a: et di doctrina: Ma perch$e datosi tutto alla 
+philosophia non cur@o molto leggere e' poeti latini: n$e investigare 
+loro arte et ornamenti/ manch@o di quello stile et leggiadria la quale 
+@e propria del poeta.  Nientedimeno excepto Danthe vinxe di gran lungha 
+tutti gli altri: e' quali insino alla sua et@a scripsono in rhima.  Io 
+ho veduto di Guido una morale El cui principio @e Donna mi priegha per 
+ch'io voglio dire D'un accidente che @e sovente fero: Et @e s@i altero 
+che @e chiamato amore.  In questa morale la quale @e cinque stanze 
+tracta dell'amore non secondo e' divini chome Salomone.  N$e secondo e' 
+poeti gentili chome Ovidio.  Ma secondo e' philosophi: Dimostra amore 
+essere accidente et non substantia: chome @e l'appetito nell'anima: et 
+come sono tutte le passioni.  Dimostra che @e accidente feroce et 
+grande et che ha l'essere suo nella memoria: perch$e la impressione 
+della imagine della chosa amata @e nella memoria: chome lume procedente 
+da corpo luminoso si ritiene nel corpo diaphano.  Dimostra anchora 
+chome si crea l'amore: et molte altre chose chon tanta doctrina: che 
+Egidio romano nobilissimo physico et metaphysico: Et Dino del Gharbo 
+fiorentino medico excellentissimo la comentorono.  Vuole adunque tutte 
+queste chose significhare: Et per@o dice.  |Allhor surse alla vista 
+scoperchiata~.  Alla bocca aperta del sepolchro.  |Un'ombra~: et 
+cetera.  |Credo che s'era inginochion levata~: perch$e se si fussi 
+levata in pi@e harebbe mostro non solo el mento ma el pecto chome 
+Farinata.  |Talento~: volont@a.  Onde a talentare significa a 
+consentire: che @e fare della sua voglia la voglia d'altri.  |Che 'l 
+suspicar fu tutto spento~.  Diciamo sapere credere et suspicare.  Chi 
+sa ha vera scientia della chosa.  Credere @e quando non siamo certi: Ma 
+habbiamo si ferma fede che chos@i sia che non ne dubitiamo.  Suspicare 
+@e credere ma con dubitatione.  Dixe se tu vai per questo inferno per 
+altezza di 'ngegno: perch$e non @e teco el mio fig[l]uolo: quasi dica: 
+el quale come tu @e d'alto ingegno et di gran doctrina.  Et nota che 
+queste parole |Se per questo cieco carcer vai per altezza di 'ngegno~ 
+servono insieme alla fictioni et alla allegoria.  Imper@o che secondo 
+el senso licterale diremo |se per altezza di 'ngegno~: quasi se per 
+alchuna mira- // c.77v bile arte puoi vivo et sanza pena andare per lo 
+'nferno: Ma secondo l'allegoria intendi |Se per alteza di 'ngegno~ et 
+gran doctrina vai per la speculatione de' vitii el mio figluolo @e tale 
+che debba potere questo medesimo.  |Et io allui da me stesso non 
+vegno~: Quasi dica el mio ingegno non m'harebbe da tale inventione.  
+|Ma menami colui che attende~: cio@e aspecta l@a.  Imper@o che la 
+doctrina et el figmento di Virgilio el quale ho imitato |Mi mena~: Mi 
+guida a fare tale fictione: perch$e non @e molto dissimile dalla sua.  
+|Forse cui Guido vostro hebbe a disdegno~.  Quasi dica perch$e Guido 
+vostro datosi tutto alla philosophia non degn@o e' poeti: la sua 
+philosophia non gli @e bastata a far simile poema: el quale poteva fare 
+se havessi degnato di leggere Virgilio et imitarlo.  |Le sue parole~: 
+Dimostra che per le parole sue: Le quali dinotavano piutosto Guido che 
+alchuno altro: et perch$e era molto docto et perch$e allui era 
+amicissimo: et la pena la quale era degli heretici si doveva a messere 
+Cavalcante.  |Di subito drizato~.  Dimostra che perch$e Danthe dixe 
+hebbe chome si suol dire de' passati: et non dixe ha.  Il che si dice 
+de' vivi/ decte pavento et timore a Cavalcante che Guido non fussi 
+morto.  |Non fier~/ Non ferisce el dolce lume ne' suoi occhi.  Il che 
+interviene a' vivi: perch$e e' razi del sole sono quegli che illuminano 
+l'aria corpo diaphano sanza le quali due chose o simili a queste due 
+non pu@o el viso usare la sua potentia.  |Quando s'accorse d'alchuna 
+dimora~.  La prima congiectura che lui prese di quella parola hebbe/ lo 
+fece dubitare.  Hora la seconda lo induxe in ferma oppinione che fussi 
+morto.  Et certo quando domandiamo uno amico della vita o della 
+valitudine d'alchuno de' nostri: Et lui non risponde presto subito ci 
+nasce timore che non stia chome disideriamo: Et dimonstra nelle parole 
+di Cavalcante quanto sia l'amore del padre inverso del figluolo: 
+poich$e anchora nello 'nferno tanto l'ama.  Cercasi secondo e' 
+philosophi se l'amore de' suoi rimane nell'anima seperata dal corpo.  
+|Supin ricadde~: D@a all'animo l'accidente che suole adivenire 
+all'huomo quando per grande passione d'animo cade in syncope et viensi 
+meno.
+
+	|73-84.~  E' primi due ternarii hanno pocha difficult@a Et solamente 
+vi dimostra qual sia la natura d'huomo di grande et invicto animo: el 
+quale non fa gesto n$e acto alchuno che non significhi essere invicto.  
+Di poi pone le parole conforme a' gesti Imper@o che chi @e di tale 
+animo non gl'@e molesto tormento o morte quanto @e havere a cedere al 
+nimico: Et similmente si pu@o notare la obstinatione de' dannati: e' 
+quali ^etiam~ doppo la morte non dipongono gli affecti et le 
+perturbationi che havevono nella vita.  |Ma non cinquanta volte fia 
+raccesa La faccia della donna che qui regge~.  Proserpina la quale @e 
+quella medesima: che la luna secondo e' poeti fu figliuola di Ceres in 
+Sicilia et un giorno coglendo fiori fu veduta da Plutone dio dello 
+'nferno: el quale preso dalla belleza della fanciulla la rap@i et 
+fecesela mogle.  Molto dolse tanta ingiuria a Ceres: n$e in nessun modo 
+restava patiente: che la figluola rimanessi appresso del raptore insino 
+che Iove compose tanta lite.  Chostui era fratello a Plutone: et padre 
+a Proserpina: et electo arbitrio dalle parti/ giudic@o che dovessi 
+stare mesi sei con Plutone nello 'nferno: et sei con la madre.  Questa 
+ha virt@u in cielo ove @e chiamata luna.  Halla in terra et @e decta 
+Diana.  Halla in inferno: et chiamonla Proserpina.  Et per questa 
+triplicata potentia dixe Virgilio: ^Tergeminam hecaten tria virginis 
+ora Diane~.  Et perch$e sei mesi dell'anno cresce: et sei scema/ 
+Fin[g]ono e' poeti che sei mesi stessi nello 'nferno et sei di sopra.  
+Fingono la luna essere dia dello 'nferno: perch$e maximamente adopera 
+ne' corpi inferiori: Et somma virt@u @e la sua circa la formatione et 
+augumento de' corpi terrestri.  Molte altre chose fingono e' poeti di 
+Proserpina: per le quali voglono exprimere la natura della luna.  Ma 
+non sono al presente proposito.  Il perch$e torn@o al poeta el quale 
+dicendo che la faccia della donna che regge in inferno: cio@e della 
+luna: la quale @e Proserpina non sia accesa cinquanta volte: cio@e non 
+passeranno cinquanta mesi.  Imper@o che la luna @e corpo per s$e 
+medesimo obscuro: Ma riceve el lume dal sole: et per@o si dice che 
+dallui @e accesa.  Adunque intende che non passeranno cinquanta mesi 
+che lui sar@a cacciato.  Il che secondo Giovanni Boccaccio adivenne 
+innanzi che passassino due anni o pocho pi@u.  |Et se tu mai nel dolce 
+mondo~: @E dolce a rispecto di quegli che sono nello 'nferno.  Onde 
+Virgilio: ^Quos dulcis vite exortes et ab ubere raptos Abstulit atra 
+dies~.  |Riedi~: cio@e ritorni.  Et non @e qui conditionale: che la 
+sententia sia dimmelo se mai tu torni.  Ma @e deprecativo: come quando 
+diciamo Dimmi el vero se Dio t'aiuti.  Quasi dica io priegho Dio che 
+t'aiuti se tu mi d@i el vero.  |In ciascuna sua legge~.  Perch$e in 
+vero non usorono tanta crudelt@a in alchuna famiglia ghibellina quanto 
+negl'Uberti.  In forma che mai si rimesse pena alchuna o concessesi 
+beneficio a' Ghibellini: che gl'Uberti: et Lamberti non ne fussino 
+exceptuati per la crudelt@a della ropta // c.78r da Montaperti.  Questa 
+fu nel mille dugencinquantotto.  In questo anno volendo la superbia 
+degli Uberti sobtomettere el popolo si lev@o a romore la terra: et nel 
+tumulto fu morto.  Stiattuccio Uberti et a Ubertuccio fu tagliato la 
+testa.  Messer Farinata con molti nobili ghibellini fugg@i a Siena.
+
+	|85-93.~  Havea domandato Farinata per qual cagione el popolo 
+fiorentino era s@i crudele inverso di lui et tutti gl'Uberti.  Risponde 
+Danthe che lo stratio et la crudele occisione la quale per sua 
+callidit@a: et tractato fu facta de' Guelfi nella ropta di Montaperti: 
+dove l'Arbia fiume arross@i del sangue.  |Fa fare tal oratione~ Fa che 
+'l popolo disidera et priegha e' magistrati: che tali leggi faccino.  
+|Nel nostro tempio~ Sta nella translatione.  Imper@o che havendo decto 
+orationi dixe tempio per la curia et luogho publico: dove si tractono 
+le cose delle repubbliche.  Et questo @e che essendo chome di sopra 
+dixi messer Farinata in exilio: Et come huomo di grande animo N$e di 
+minor prudentia Disiderando non solamente di ritornare ma ridurre 
+quegli della sua factione si conduxe a Siena riceptacolo in quegli 
+tempi di parte ghibellina: et molto inimica a' Guelfi fiorentini.  Et 
+quivi per secreti internunctii si compose cho' Ghibellini rimasi in 
+Firenze in quello che poi segu@i.  Di poi mand@o certi frati minori per 
+parte di chi reggeva in Siena agl'antiani di Firenze: che se 
+s'appressassino con l'exercito a Siena darebbono loro una porta.  Il 
+perch$e ditermin@o el popolo fiorentino bench$e alchuno savio cittadino 
+lo vietassi/ fare tale impresa: et sobto nome di volere fornire 
+Mont'Alcino nostro confederato vennono insino a Montaperti in Val 
+d'Arbia: Dove contro a ogni loro opinione uscirono loro incontro e' 
+sanesi con gente d'arme tedesca: la quale per industria di Farinata 
+Manfredi havea mandata.  Et in sul principio della battaglia molti 
+dell'exercito fiorentino favorevoli a' Ghibellini si fuggirono alla 
+parte de' nimici.  Fu grande animo de' nostri in resistere a tanta 
+forza et a tante fraudi: et lungamente sobtennono la battaglia.  Et 
+finalmente messere Bocca Abati con somma perfidia s'accost@o a messer 
+Iacopo del Vacca della antica famiglia de' Pazi: el quale portava lo 
+stendardo: et tagliogli la mano: onde lo stendardo and@o per terra.  
+Furono morti quattro mila fiorentini in questa ropta: la quale fu in 
+sabbato a d@i quattro di septembre: Et dell'anno della nostra salute 
+.M.cc.lx.  |Poich$e hebbe sospirando el capo mosso~.  Questo gesto 
+dipigne le perturbationi varie nell'animo suo: parte sdegno della 
+'ngiuria ricevuta: parte rimordimento haver facto contro alla patria: 
+Et per@o scusandosi dice |Ad ci@o non fu io solo~: Perch$e molti altri 
+ribelli furono meco.  |N$e certo sanza cagion con gli'altri sarei 
+mosso~.  In somma dimostra che venire contro alla patria gli fu comune 
+con molti: Ma a difenderla fu solo.  Onde sequita.  |Ma fu' io solo 
+cholui dove soferto~ |Fu per ciaschuno di tor via Firenze Cholui che la 
+difesi a viso aperto~.  Et questo fu che dopo la tornata de' Ghibellini 
+in Firenze/ si ragunorono gli 'mbasciadori et principali huomini di 
+tutte le terre ghibelline di Toscana per provedere alla conservatione 
+del comune stato di quella parte: Et tra molte altre chose fu 
+consiglato che l'ultimo exterminio de' Guelfi era disfare Firenze primo 
+capo di quella parte: et ridurre la citt@a a borghi: accioch$e e' 
+Guelfi gi@a mandati in exilio perdessino ogni speranza di ritornarvi.  
+Al qual consiglio perch$e in vero era unica salute a quella parte/ non 
+che gli altri: Ma anchora e' fiorentini ghibellini acconsentivano: Et 
+partoriva quel giorno horrendo excidio alla nostra patria se non fussi 
+stato messer Farinata: el quale solo s'oppose: chome si dimostra nella 
+historia di Lionardo Aretino in una contione la quale fece Farinata 
+nella empolense congregatione: dove non solamente contradixe chon le 
+parole: Ma chome un novello Scipione a Canne chon la nuda spada 
+minacci@o chi perseverassi in tale sententia.  Onde io nelle elegie 
+intitolate ^Xandra~ scripte in mia adolescentia/ scipsi di lui tale 
+epigramma: ^Guelfa meo fateor superavimus agmina ductu: Sanguine cum 
+rubris Arbia fluxit aquis.  Sed tamen ut priscas teneas florentia sedes 
+Sola Farinate mens tibi magna dedit~.  Opposesi adunque a tutti 
+Farinata Dimostrando che se era '[ni]mico a' Guelfi: non era inimico 
+alla sua patria: perch$e poteva pi@u in lui l'amore della patria: che 
+le inimicitie degli adversarii.  Il perch$e per luistui solo fu difesa 
+Firenze che non perissi.
+
+	|94-108.~  Haveva dimostro Farinata che non solamente non dovea essere 
+in peggiore grado che gli altri exuli: ma in migliore.  Imper@o che ad 
+Arbia non havea facto peggio che gli altri: et a Empoli haveva facto 
+meglio.  Et forse harebbe soggiu[n]te altre chose: se non che Danthe 
+avido di sen- // c.78v tire perch$e cagione e' dannati prevedessino el 
+futuro: et non el presente: mozz@o le parole et soggiunse.  |De' se 
+riposi vostra semenza pregai io lui~: Et ordina chos@i Io pregai lui 
+dicendo Deh solvetemi quel nodo: el quale ha inviluppato qui mia 
+sententia se mai si riposi vostra semenza: cio@e e' vostri descendenti: 
+e' quali al presente vivono: et quegli che verranno: Et @e questa 
+dictione se deprecativa: chome dicemmo di sopra: et non conditionale.  
+El nodo piglia pel dubio.  peroch$e havendo udito Ciacco prima: et hora 
+Farinata predire le chose future: Et da altra parte/ vedendo che 
+Cavalcante non sapea le chose presenti/ gli parea incredibile che non 
+sapendo le presenti sapessino le future.  |Noi veggiamo chome quei c' 
+ha mala luce~.  Due spetie sono di vista imperfecta.  Imper@o che 
+alchuni hanno la vista chiara: ma non molta: et questi veggono meglo da 
+presso.  Alchuni hanno molta vista: ma obscura: onde veggono meglo di 
+lontano: perch$e uscendo e' razi visivi nel processo si rafferenano et 
+fannosi lucidi et apti al vedere.  Ma e' primi perch$e hanno gli 
+spiriti visivi troppo chiari se procedono troppo pel diaphono 
+illuminato excedano nella luce: et per@o non veggono.  Adunque dice 
+Farinata Noi siamo simili a quegli: e' quali hanno mala luce: cio@e 
+hanno gli spiriti visivi obscuri: e' quali non veggono se non procedono 
+a lungo spatio per l'aria luminosa: la quale gli rischiara et fagli 
+apti al vedere.  Ma certo pare incredibile che vedendo queste anime le 
+chose future non veghino anchora le presenti.  Onde alchuni intendono 
+che l'anima per memoria delle cose passate fa congiectura delle future: 
+chome verbi gratia Farinata ricordandosi della natura et costumi de' 
+suoi ciptadini: et delle civili discordie/ prevede quello che ne debba 
+sequire: et vedelo di lontano.  Ma perch$e non sa apuncto quando sar@a 
+pu@o essere gi@a presente: et lui non lo sa.  Et in tal modo salvano la 
+sententia di Danthe: che l'anima dannata vegga el futuro et non el 
+presente.  Ma Thomaso de Aquino dice che l'anima spoglata del corpo non 
+ha pi@u la cognitione de' sensi: la quale @e circa e' particulari: 
+Adunque non conosce pi@u questo che quello/ se non lo 'ntende da un' 
+altra anima che di nuovo vengha o da alchuno spirto.  Ma conosce 
+secondo la natura dello 'ntellecto: che @e circa gl'universali: et in 
+questo modo sa le cose future chome universali: et non per volgersi 
+alla fantasia: chome quando @e nel corpo.  Ma l'anima salvata intende 
+le chose preterite presenti et future secondo Thomaso: et Gregorio: 
+perch$e le vede in Dio nel quale niente @e occulto.  |Quando 
+s'appressino o son~/ quando s'avici[n]ano o son presenti.  |Tutto @e 
+vano nostro intellecto~: cio@e niente intendiamo et nulla sappiamo di 
+vostro stato humano N$e di chosa che si faccia tra gl'huomini.  Onde 
+Augustino: ^Fatendum est nescire mortuos quid agitur dum agitur: sed 
+postea vero audire ab iis qui hinc ad eos moriendo pergunt: Possunt 
+etiam ab angelis audire aliquid~.  |S'altri non ci apporta~: se altra 
+anima o spirito maligno non ci riferisce.  |Per@o comprender puoi che 
+la nostra conoscentia sar@a tutta morta~: Cio@e niente conosceremo da 
+quel punto che sar@a chiusa la porta del futuro.  Questo sar@a dopo el 
+d@i del giudicio: perch$e l'arche saranno serrate: et molto pi@u: 
+perch$e non havendo a essere pi@u huomini/ non saranno pi@u chose.
+
+	|109-120.~  Inteso che hebbe el poeta la cagione: per la quale e' 
+dannati vedevono el futuro: et non el presente/ gli dolse non haver 
+risposto a Cavalcante.  Imper@o che spesso interviene: che l'animo 
+occupato in maggior cura/ lascia indrieto un'altra chosa: la quale 
+passata tale occupatione fa volentieri.  Adunque al presente dolendosi 
+della colpa commessa di non havere risposto a chi gl'era stato amico/ 
+risponde al presente: et priegha Farinata che dica a quel caduto: cio@e 
+a Cavalcante: |Che el suo nato~/ El suo figluolo @e ancora congiunto 
+cho' vivi @e anchora in vita.  |Et se io fui poco avanti muto alla 
+risposta~/ Non fu perch'io non volessi rispondergli.  Ma perch$e 
+l'animo era occupato in pensare nel dubbio: el quale voi m'havete 
+absoluto.  |Et gi@a el maestro mio mi richiamava~.  Era stato Danthe 
+con Farinata et con Cavalcante ^id est~ era disceso nelle chose 
+parriculari.  Hora Virgilio cio@e la mente superiore lo richiama da' 
+questi particulari per ridurlo agli universali // c.79r de' quali @e 
+vera scientia.  Ma innanzi che si parta intende che quivi @e el secondo 
+Federigho el quale fu fig[l]uo[l]o d'Arrigho sexto emperadore: et 
+nipote di Federigho Barbarossa.  Arrigho tolse per moglie Costanza 
+figluola del buon re Guglelmo di Sicilia gi@a monacha: Ma dispensolla 
+el papa: et hebbe in dota el reame di Sicilia: el quale era occupato da 
+Tancredi nato della chasa del re Ruggieri: et lui lo lasci@o a Guglelmo 
+suo figluolo.  Chostui adunque fu vinto da Arrigo.  Onde tutto el reame 
+rimase poi a Federigho suo figluolo: et di Costantia: del quale al 
+presente tractiamo.  Costui perch$e fanciullo rimase pupillo: et in 
+tutela del sommo pontefice/ fu nutrito con diligentia: et pervenuto 
+alla virile et@a hebbe la possessione del regno: et non dopo molto 
+tempo fu coronato re de' romani per Honorio papa nell'anno della nostra 
+salute .M.cc.xx.  Dopo la quale coronatione vixe .xxxiii.  anni: et 
+venne in discordia con la chiesa: perch$e volendo lui rivedere el conto 
+dell'administration del regno: non vollono e' prelati mostrarlo.  Di 
+poi ridocto in concordia/ par@o exercito contro al soldano: che chos@i 
+era nelle condictioni della pace: Et questo fu nel .M.cc.xxxvi.  Et 
+essendo gi@a oltramare con l'exercito El papa per lectere avis@o el 
+soldano che modi havessi a tenere a vincerlo et a ucciderlo: Et in quel 
+mezo gli fece ribellare la Sicilia et la Puglia.  El soldano per metter 
+discordia tra' christiani/ mand@o le lectere a Federigho.  Onde ne 
+nacque pace fr[a] loro: bench$e lui havessi potuto ricuperare tutta la 
+Terra Sancta.  Torn@o adunque in Italia Et racquist@o el regno: et in 
+contumelia del papa mand@o in Tunizi per molti saraceni: et concesse 
+loro ad habitare Lucera hoggi decta Nocera: la quale @e in Puglia 
+piana: et mosse guerra al papa: et molta crudelt@a us@o contro a' 
+prelati: Et finalmente molto afflixe la corte romana: et molto indeboli 
+e' Guelfi di Toscana fauctori della chiesa.  Et mand@o contro a' 
+fiorentini con mille cinquecento cavagli un suo figluolo nato d'una 
+principessa d'Antiochia: et per questo lo chiam@o Federigho 
+d'Antiochia.  Non si volea la principessa d'Antiochia congiugnere con 
+Federigho sentendo che lui haveva moglie.  Onde lui fece venire due 
+navili con le vele nere: et in quegli furono ambasciadori: e' quali 
+falsamente dixono che la moglie era morta: et con questa fraude 
+ingann@o la principessa.  Finalmente mor@i in Puglia.  Imper@o che 
+havendo dagli astrologi che Firenze gl'era fatale: et quivi havea a 
+morire non volle mai passare ne' nostri terreni: Et finalmente amal@o 
+in Puglia: et fu condocto in una terra di Puglia decta Firenzuola.  Il 
+perch$e inteso di poi el nome si giudic@o morto: et chos@i mor@i 
+scomunicato: Et @e chi dice che Manfredi suo figliuolo naturale: et 
+principe di Taranto l'affogh@o con un guanciale per occupare e' suoi 
+thesori.  Fu huomo per arte militare et grande animo molto temuto: et 
+da' christiani: et da' saraceni.  Et el quale se non fussi stato 
+irritato dalla fraude del pontefice forse non sarebbe stato s@i crudele 
+inverso la chiesa: la quale lui tract@o in forma che meritamente si 
+pu@o porre tra gl'heretici.  |El Cardinale~: Accordansi tutti gli 
+scriptori: et maxime e' vicini a' tempi di Danthe: che lui intenda del 
+cardinale Octaviano degl'Ubaldini: el quale certo fu huomo di gran 
+governo et d'animo invicto: Ma di vita et di costumi piutosto tirannici 
+che sacerdotali: et tanto favorevole a' Ghibellini: che non cur@o fare 
+contro all'auctorit@a pontificale in aiuto di quegli.  Da quali poi non 
+sobvenuto in certi suoi bisogni dixe: che se anima @e lui l'havea 
+perduta pe' Ghibellini: le quali parole lo dimostrorono epicureo.  Fu 
+tanta la prudentia et auctorit@a sua che disponeva della corte romana a 
+suo modo: Et gi@a la tenne ne' monti del Mugello nelle terre degli 
+Ubaldini: et contro alla volont@a del pontefice sempre favor@i e' 
+Ghibellini.  El suo favore cre@o el primo arcivescovo de de' Visconti 
+di Melano: Et produxegli al dominio di quella citt@a.  N$e era chiamato 
+altrimenti che Cardinale: Et ogni volta che si dicea el cardinale dice 
+o fa s'intendeva di lui.
+
+	|121-136.~  Fin@i Farinata le sue parole: et tornossi sobto Et Danthe 
+si torn@o a Virgilio ripensando a quel parlare che Farinata havea facto 
+del suo exilio: el quale gli parea nimico et aspro.  Et Virgilio lo 
+domand@o perch$e fussi chos@i smarrito ne' pensieri: et inteso che era 
+per l'adversa fortuna: la quale el Farinata gl'havea predecta gli d@a 
+optimo precepto: El quale @e che lui conservi nella memoria quello che 
+ha udito: Et poi vogla intendere da Beatrice tutto el processo della 
+vita sua.  Questo dinota che quando ci @e annuntiato male non dobbiamo 
+volere affliggerci con superchio timore n$e fare giudicio chon la 
+sensualit@a quanto quella chosa sia infelice et misera.  Imper@o che @e 
+cattivo giudicio quel del senso: perch$e vuole che tutte l'adversit@a 
+che vengono ne' beni del corpo: o della fortuna sieno grandi et 
+intollerabili: et che per quelle gl'huomini diventino miseri.  Il che 
+@e falsissimo.  Adunque riserba questo giudicio a Beatrice et lei ti 
+mostrerr@a che solamente colui // c.79v @e in miseria: el quale @e 
+diviso et seperato da Dio pel vitio dallui commesso bench$e fussi in 
+ogni copia et abundantia di riccheze et di stato: Et per l'opposito @e 
+felicissimo quello el quale per virt@u @e congiunto con dio.  Questa 
+sententia @e non solamente stoica: ma christiana: che nessuna chosa sia 
+male se non el vitio: el quale solo ci toglie la vita beata.  Et 
+perch$e el vitio non ci pu@o esser dato se non da noi medesimi.  Per@o 
+Ioanni Chrysostomo scripse la paradoxa: per la quale pruova che nessuno 
+pu@o essere offeso: se non da s$e medesimo.  Perch$e solamente el vitio 
+et peccato pu@o nuocere: et el vitio et peccato non viene se non dalla 
+nostra volont@a et electione: N$e ci pu@o potentia alchuno a questo 
+sforzare se non vogliamo.  |Et hora attendi et qui diriz@o el dito~.  
+Diriz@o el dito per farlo attento: et dimostrare con quel gesto che 
+quello che haveva a dire era chosa notabile.  Imper@o che diriziamo el 
+dito quando parlando di chosa alchuna vogliamo testificare quella esser 
+vera: et di qualche importanza.  O veramente volle dimostrare: che non 
+bastava che attendessi e' precepti di Beatrice: Ma bisognava che quegli 
+mettessi in opera: et pel dito: et per le mani si significa 
+l'operatione.  Onde el Psalmista  dixe: ^Et levavi manus meas ad 
+mandata tua que dilexi~: Che non significa altro alzare la mano a' 
+comandamenti di dio/ se non mettergli in opera.  |Quando sarai dinanzi 
+al dolce raggio~.  Imper@o che la sacra theologia contiene in s$e la 
+verit@a: con la qu[a]le illumina la mente di tutti: Et l'occhio suo 
+vede ogni chosa: perch$e vede la verit@a.  Adunque nello 'nferno si 
+conosce la perdita che si fa delle chose temporali.  Ma el rimedio 
+contro al dolore che quelle arrechono seco non ci @e mostro/ se non da 
+Beatrice: et lei c'insegna el viaggio di nostra vita: et quale @e el 
+sommo bene: et quali sono e' beni vani.  |A man sinistra~ Per partirsi 
+dal muro et entrare pel mezo.  Il che dichiara dicendo |Lasciamo el 
+muro et gimmo inverso el mezo Per un sentiere~/ per una via: et @e 
+vocabolo sfranzese: la quale |Fiede~/ ferisce: cio@e s'addiriza a una 
+valle dove si scende nel septimo cerchio.  |Che insin lassu~: La quale 
+valle putiva s@i forte: che insino alla fine di quel sentiero |Facea 
+spicciare~: quasi riverberare |Suo lezo~: cio@e suo puzo.  Proprio lezo 
+@e odore vehemente che dispiace: el qual non nasce dal corpo corropto 
+chome el fetore et puzo che getta una chosa marcia et fracida: Ma @e 
+naturale di tal chosa: et procede da sudore: et evaporatione che getta 
+un corpo: bench$e non sia corropto.  Onde non pute el becco et la capra 
+viva: Ma lezisce.  Ma pute quando morto gi@a si corrompe.  N$e 
+solamente @e el lezo nell'odorato.  Ma anchora nel gusto.  Onde diciamo 
+la carne bufolina lezire: et alchune herbe gustandole diciamo sapere di 
+lezo.  Et @e proprio o in gusto o in odore quello che Plinio nella 
+^Naturale Historia~: et gl'altri latini scriptori chiamano ^virus~.  
+Bench$e questo medesimo vocabolo alchuna volta significh$i veleno.  Et 
+propriamente dixe lezo: perch$e tale fetore @e connaturale a questo 
+luogho: chome pi@u apertamente dimostrerremo poco pi@u avanti.
+
+

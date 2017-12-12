@@ -1,0 +1,627 @@
+	|1.~  The Heaven of Saturn continued; and the ascent to
+the Heaven of the Fixed Stars.
+
+	|31.~  It is the spirit of St. Benedict that speaks.
+
+	|37.~  Not far from Aquinum in the Terra di Lavoro, the
+birthplace of Juvenal and of Thomas Aquinas, rises Monte Cassino,
+celebrated for its Benedictine monastery.  The following
+description of the spot is from a letter in the ^London Daily
+News~, February 26, 1866, in which the writer pleads earnestly
+that this monastery may escape the doom of all the Religious
+Orders in Italy, lately pronounced by the Italian Parliament.
+
+	"The monastery of Monte Cassino stands exactly half-way
+between Rome and Naples.  From the top of the Monte Cairo, which
+rises immediately above it, can be seen to the north the summit
+of Monte Cavo, so conspicuous from Rome; and to the south, the
+hill of the Neapolitan Camaldoli.  From the terrace of the
+monestary the eye ranges over the richest and most beautiful
+valley of Italy, the
+
+     'Rura quae Liris quiet#a
+     Mordet aqu#a taciturnus amnis`.
+
+The river can be traced through the lands of Aquinum and
+Pontecorvo, till it is lost in the haze which covers the plain of
+Sinuessa and Minturnae; a small strip of sea is visible just
+beyond the mole of Gaeta.
+
+	"In this interesting but little known and uncivilized
+country, the monastery has been the only centre of religion and
+intelligence for nearly 1350 years.  It was founded by St.
+Benedict in 529, and is the parent of all the greatest
+Benedictine monasteries in the world.  In 589 the monks, driven
+out by the Lombards, took refuge in Rome, and remained there for
+130 years.  In 884 the monastery was burned by the Saracens, but
+it was soon after restored.  With these exceptions it has existed
+without a break from its foundation till the present day.
+
+	"There is scarcely a Pope or Emperor of importance who
+has not been personally connected with its history.  From its
+mountain crag it has seen Goths, Lombards, Saracens, Normans,
+Frenchmen, Spaniards, Germans, scour and devastate the land
+which, through all modern history, as attracted every invader.
+
+	"It is hard that, after it has escaped the storms of war
+and rapine, it should be destroyed by peaceful and enlightened
+legislation.
+
+	"I do not, however, wish to plead its cause on
+sentimental grounds.  The monastery contains a library which, in
+spite of the pilfering of the Popes, and the wanton burnings of
+Championnet, is still one of the richest in Italy; while its
+archives are, I believe, unequalled in the world.  Letters of the
+Lombard kings who reigned at Pavia, of Hildebrand and the
+Countess Matilda, of Gregory and Charlemange, are here no
+rarities.  Since the days of Paulus Diaconus in the eighth
+century, it has contained a succession of monks devoted to
+literature.  His mantle has descended in these later days to
+Abate Tosti, one of the most accomplished of contemporary Italian
+writers.  In the Easter of last year, I found twenty monks in the
+monastery: they worked harder than any body of Oxford or
+Cambridge fellows I am acquainted with; they educated two
+hundered boys, and fifty novices; they kept all the services of
+their cathederal; the care of the archives included a laborious
+correspondence with literary men of all nations; they entertained
+hospitably any visitors who came to them; besides this, they had
+just completed a fac-simile of their splendid manuscript of
+Dante, in a large folio volume, which was edited and printed by
+their own unassisted labor.  This was intended as an offering to
+the kingdom of Italy in its new capital, and rumor says that they
+have incurred the displeasure of the Pope by their liberal
+opinions.  On every ground of respect for prescription and
+civilization, it would be a gross injustice to destroy this
+monastery.
+
+	"'If we are saved`, one of the monks said to me, 'it will
+be by the public opinion of Europe`.  It is the most enlightened
+part of that opinion which I am anxious to rouse in their
+behalf."
+
+	In the palmy days of the monastery the Abbot of Monte
+Cassino was the First Baron of the realm, and is said to have
+held all rights and privileges of other barons, and even criminal
+jurisdiction in the land.  This the inhabitants of the town of
+Cassino found so intolerable, that they tried to buy the right
+with all the jewels of the women and all the silver of their
+households.  When the law for the suppression of the convents
+passed, they are said to have celebrated the event with great
+enthusiasm; but the monks, as well they might, sang an ^Oremus~
+in their chapel, instead of a ^Te Deum.~
+
+	For a description of the library of Monte Cassino in
+Boccaccio's time, see Note 75 of this canto.
+
+	|40.~  St. Benedict was born at Norcia, in the Duchy of
+Spoleto, in 480, and died at Monte Cassino in 543.  In his early
+youth he was sent to school in Rome; but being shocked at the
+wild life of Roman school-boys, he fled from the city at the age
+of fourteen, and hid himself among the mountains of Subiaco, some
+forty miles away.  A monk from a neighbouring convent gave him a
+monastic dress, and pointed out to him a cave, in which he lived
+for three years, the monk supplying him with food, which he let
+down to him from above by a cord.
+
+	In this retreat he was finally discovered by some
+shepherds, and the fame of his sanctity was spread through the
+land.  The monks of Vicovara chose him for their Abbot, and then
+tried to poison him in his wine.  He left them and returned to
+Subiaco; and there built twelve monasteries, placing twelve monks
+with a superior in each.
+
+	Of the scenery of Subiaco, Lowell, ^Fireside Travels~, p.
+271, gives the following sketch: "Nothing can be more lovely than
+the scenery about Subiaco.  The town itself is built on a kind of
+cone rising from the midst of a valley abounding in olives and
+vines, with a superb mountain horizon around it, and the green
+Anio cascading at its feet.  As you walk to the high-perched
+convent of San Benedetto, you look across the river on your right
+just after leaving the town, to a cliff over which the ivy pours
+in torrents, and in which dwellings have been hollowed out.  In
+the black doorway of every one sits a woman in scarlet bodice and
+white head-gear, with a distaff, spinning, while overhead
+countless nightingales sing at once from the fringe of shrubbery. 
+The glorious great white clouds look over the mountain-tops into
+our enchanted valley, and sometimes a lock of their vapory wool
+would be torn off, to lie for a while in some inaccessible ravine
+like a snow-drift; but it seemed as if no shadow could fly over
+our privacy of sunshine to-day.  The approach to the monastery is
+delicious.  You pass out of the hot sun into the green shadows of
+ancient ilexes, leaning and twisting every way that is graceful,
+their branches velvety with brilliant moss, in which grow
+feathery ferns, fringing them with a halo of verdure.  Then comes
+the convent, with its pleasant old monks, who show their sacred
+vessels (one by Cellini) and their relics, among which is a
+finger-bone of one of the Innocents.  Lower down is a convent of
+Santa Scolastica, where the first book was printed in Italy."
+
+	In the gardens of the convent of San Benedetto still
+bloom, in their season, the roses, which the legend says have
+been propagated from the briers in which the saint rolled himself
+as a penance.  But he had outward foes, as well as inward, to
+contend with, and they finally drove him from Subiaco to Monte
+Cassino.
+
+	Montalembert, ^Monks of the West~, Authorized Tr., II,
+16, says: --
+
+	"However, Benedict had the ordinary fate of great men and
+saints.  The great number of conversions worked by the example
+and fame of his austerity awakened a homicidal envy against him. 
+A wicked priest of the neighborhood attempted first to decry and
+then to poison him.  Being unsuccessful in both, he endeavored,
+at least, to injure him in the object of his most tender
+solicitude, -- in the souls of his young diciples.  For that
+purpose he sent, even into the garden of the monastery where
+Benedict dwelt and where the monks labored, seven wretched women,
+whose gestures, sport, and shameful nudity were designed to tempt
+the young monks to certain fall.  Who does not recognize in this
+incident the mixture of barbarian rudeness and frightful
+corruption which characterize ages of decay and transition?  When
+Benedict, from the threshold of his cell, perceived these
+shameless creatures, he despaired of his work; he acknowledged
+that the interest of his beloved children constrained him to
+disarm so cruel an enmity by retreat.  He appointed superiors to
+the twelve monasteries which he had founded, and, taking with him
+a small number of disciples, he left forever the wild gorges of
+Subiaco, where he had lived for thirty-five years.
+
+	"Without withdrawing from the mountainous region which
+extends along the western side of the Apennines, Benedict
+directed his steps towards the south, along the Abruzzi, and
+penetrated into that Land of Labor, the name of which seems
+naturally suited to a soil destined to be the cradle of the most
+laborious men whom the world has known. He ended his journey in a
+scene very different from that of Subiaco, but of incomparable
+grandeur and majesty.  There, upon the boundaries of Samnium and
+Campania, in the centre of a large basin, half surrounded by
+abrupt and picturesque heights, rises a scarped and isolated
+hill, the vast and rounded summit of which overlooks the course
+of the Liris near its fountainhead, and the undulating plain
+which extends south towards the shores of the Mediterranean, and
+the narrow valleys which, towards the north, the east, and the
+west, lost themselves in the lines of the mountainous horizon. 
+This is Monte Cassino.  At the foot of this rock, Benedict found
+an amphitheatre of the time of the Caesars, amidst the ruins of
+the town of Casinum, which the most learned and pious of Romans,
+Varro, that pagan Benedictine, whose memory and knowledge the
+sons of Benedict took pleasure in honoring, had rendered
+illustrious.  From the summit the prospect extended on one side
+towards Arpinum, where the prince of Roman orators was born, and
+on the other towards Aquinum, already celebrated as the
+birthplace of Juvenal, before it was known as the country of the
+Doctor Angelicus, which latter distinction should make the name
+of this little town known among all Christians.
+
+	"It was amidst these noble recollections, this solemn
+nature, and upon that predestinated height, that the patriarch of
+the monks of the West founded the capital of the monastic order. 
+He found paganism still surviving there.  Two hundred years after
+Constantine, in the heart of Christendom, and so near Rome, there
+still existed a very ancient temple of Apollo and a sacred wood,
+where a multitude of peasants sacrificed to the gods and demons. 
+Benedict preached the faith of Christ to these forgotten people;
+he persuaded them to cut down the wood, to overthrow the temple
+and the idol."
+
+	On the ruins of this temple he built two chapels, and
+higher up the mountain, in 529, laid the foundation of his famous
+monastery.  Fourteen years afterward he died in the church of
+this monastery, standing with his arms stretched out in prayer.
+
+	"St. Bennet", says Butler, ^Lives of the Saints~, III,
+235, "calls his Order a school in which men learn how to serve
+God; and his life was to his disciples a perfect model for their
+imitation, and a transcript of his rule.  Being chosen by God,
+like another Moses, to conduct faithful souls into the true
+promised land, the kingdom of heaven, he was enriched with
+eminent supernatural gifts, even those of miracles and prophecy. 
+He seemed like another Eliseus, endued by God with an
+extraordinary power, commanding all nature, and, like the ancient
+prophets, foreseeing future events.  He often raised the sinking
+courage of his monks, and baffled the various artifices of the
+Devil with the sign of the cross, rendered the heaviest stone
+light in building his monastery by a short prayer, and, in
+presence of a multitude of people, raised to life a novice who
+had been crushed by the fall of a wall at Mount Cassino."
+
+	A story of St. Benedict and his sister Scholastica is
+thus told by Mrs. Jameson, ^Legends of Monastic Orders~, p. 12:
+"Towards the close of his long life Benedict was consoled for
+many troubles by the arrival of this sister Scholastica, who had
+already devoted herself to a religious life, and now took up her
+residence in a retired cell about a league and a half from his
+convent.  Very little is known of Scholastica, except that she
+emulated her brother's piety and self-denial; and although it is
+not said that she took any vows, she is generally considered as
+the first Benedictine nun. When she followed her brother to Monte
+Cassino, she drew around her there a small community of pious
+women; but nothing more is recorded of her, except that he used
+to visit her once a year.  On one occasion, when they had been
+conversing together on spiritual matters till rather late in the
+evening, Benedict rose to depart; his sister entreated him to
+remain a little longer, but he refused.  Scholastica then,
+bending her head over her clapsed hands, prayed that Heaven would
+interfere and render it impossible for her brother to leave her. 
+Immediately there came on such a furious tempest of rain,
+thunder, and lightning, that Benedict was obliged to delay his
+departure for some hours.  As soon as the storm had subsided, he
+took leave of his sister, and returned to the monastery: it was a
+last meeting; St. Scholastica died two days afterwards, and St.
+Benedict, as he was praying in his cell, beheld the soul of his
+sister ascending to heaven in the form of a dove.  This incident
+is often found in the pictures painted for the Benedictine nuns."
+
+	For the history of the monastery of Monte Cassino see the
+^Chron. Monast. Casiniensis~, in Muratori, ^Script. Rer. Ital.~,
+IV, and Dantier, ^Monast@eres B$en$edictins d'Italie.~
+
+	|49.~  St. Macarius, who established the monastic rule of
+the East, as St. Benedict did that of the West, was a
+confectioner of Alexandria, who, carried away by religious
+enthusiasm, became an anchorite in the Thebaid of Upper Egypt,
+about 335.  In 373 he came to Lower Egypt, and lived in the
+Desert of the Cells, so called from the great multitude of its
+hermit-cells.  He had also hermitages in the deserts of Scet@e and
+Nitria; and in these several places he passed upwards of sixty
+years in holy contemplation, saying to his soul, "Having taken up
+thine abode in heaven, where thou hast God and his holy angels to
+converse with, see that thou descend not thence; regard not
+earthly things."
+
+	Among other anecdotes of St. Macarius, Butler, ^Lives of
+the Saints~, I, 50, relates the following: "Our saint happened
+one day inadvertently to kill a gnat that was biting him in his
+cell; reflecting that he had lost the opportunity of suffering
+that mortification, he hastened from his cell for the marshes of
+Scet@e, which abound with great flies, whose stings pierce even
+wild boars.  There he continued six months exposed to those
+ravaging insects; and to such a degree was his whole disfigured
+by them with sores and swellings, that when he returned he was
+only to be known by his voice."
+
+	St. Romualdus, founder of the Order of Camaldoli, or
+Reformed Benedictines, was born of the noble family of the
+Onesti, in Ravenna, about 956.  Brought up in luxury and ease, he
+still had glimpses of better things, and, while hunting the wild
+boar in the pine woods of Ravenna, would sometimes stop to muse,
+and, uttering a prayer, exclaim: "How happy were the ancient
+hermits who had such habitations."
+
+	At the age of twenty he saw his father kill his adversary
+in a duel; and, smitten with remorse, imagined that he must
+expiate the crime by doing penance in his own person. He
+accordingly retired to a Benedictine convent in the neighborhood
+of Ravenna, and became a monk.  At the end of seven years,
+scandalized with the irregular lives of the brotherhood, and
+their disregard of the rules of the Order, he undertook the
+difficult task of bringing them back to the austere life of their
+founder.  After a conflict of many years, during which he
+encountered and overcame the usual perils that beset the path of
+a reformer, he succeeded in winning over some hundreds of his
+brethren, and established his new Order of Reformed Benedictines.
+
+	St. Romualdus built many monasteries; but chief among
+them is that of Camaldoli, thirty miles east of Florence, which
+was founded in 1009.  It takes its name from the former owner of
+the land, a certain Maldoli, who gave it to St. Romualdus.  Campo
+Maldoli, say the authorities, became Camaldoli.  It is more
+likely to be the Tuscan Ca' Maldoli, for Casa Maldoli.
+
+	"In this place", says Butler, ^Lives of the Saints~, II,
+86, "St. Romuald built a monastery, and, by the several
+observances he added to St. Benedict's rule, gave birth to that
+new Order called Camaldoli, in which he united the cenobitic and
+eremitical life.  After seeing in a vision his monks mounting up
+a ladder to heaven all in white, he changed their habit from
+black to white.  The hermitage is two short miles distant from
+the monastery.  It is a mountain quite overshaded by a dark wood
+of fir-trees.  In it are seven clear springs of water.  The very
+sight of this solitude in the midst of the forest helps to fill
+the mind with compunction, and a love of heavenly contemplation. 
+On entering it, we meet with a chapel of St. Antony for
+travellers to pray in before they advance any farther.  Next are
+the cells and lodgings for the porters.  Somewhat farther is the
+church, which is large, well built, and richly adorned.  Over the
+door is a clock, which strikes so loud that it may be heard all
+over the desert.  On the left side of the church is the cell in
+which St. Romuald lived, when he first established these hermits. 
+Their cells, built of stone, have each a little garden walled
+round.  A constant fire is allowed to be kept in every cell on
+account of the coldness of the air throughout the year; each cell
+has also a chapel in which they may say mass."
+
+	See also ^Purg.~, V, Note 96.  The legend of St.
+Romualdus says that he lived to the age of one hundred and
+twenty.  It says, also, that in 1466, nearly four hundred years
+after his death, his body was found still uncorrupted; but that
+four years later, when it was stolen from its tomb, it crumbled
+into dust.
+
+	|65.~  In that sphere alone; that is, in the Empyrean,
+which is eternal and immutable.
+
+	Lucretius, ^Nature of Things~, III, 530, Good's Tr.: --
+
+     "But things immortal ne'er can be transposed,
+     Ne'er take tradition, nor encounter loss;
+     For what once changes, by the change alone
+     Subverts immediate its anterior life."
+
+	|70.~  ^Genesis~, xxviii, 12: "And he dreamed, and,
+behold, a ladder set up on the earth, and the top of it reached
+to heaven: and, behold, the angels of God ascending and
+descending on it."
+
+	|74.~  So neglected, that it is mere waste of paper to
+transcribe it.  In commenting upon this line, Benvenuto gives an
+interesting description of Boccaccio's visit to the library of
+Monte Cassino, which he had from his own lips.  "To the clearer
+understanding of this passage", he says, "I will repeat what my
+venerable preceptor Boccaccio of Certaldo pleasantly narrated to
+me.  He said, that when he was in Apulia, being attracted by the
+fame of the place, he went to the noble monastery of Monte
+Cassino, of which we are speaking.  And being eager to see the
+library, which he had heard was very noble, he humbly -- gentle
+creature that he was! -- besought a monk to do him the favour to
+open it.  Pointing to a lofty staircase, he answered stiffly, 'Go
+up; it is open`.  Joyfully ascending, he found the place of so
+great a treasure without door or fastening; and having entered,
+he saw the grass growing upon the windows, and all the books and
+shelves covered with dust.  And, wondering, he began to open and
+turn over, now this book and now that, and found there many and
+various volumes of ancient and rare works.  From some of them
+whole sheets had been torn out, in others the margins of the
+leaves were clipped, and thus they were greatly defaced.  At
+length, full of pity that the labors and studies of so many
+illustrious minds should have fallen into the hands of such
+profligate men, grieving and weeping he withdrew.  And coming
+into the cloister, he asked a monk whom he met, why those most
+precious books were so vilely mutilated.  He replied, that some
+of the monks, wishing to gain a few ducats, cut out a handful of
+leaves, and made psalters which they sold to boys; and likewise
+of the margins they made breviaries which they sold to women. Now
+therefore, O scholar, rack thy brains in the making of books!"
+
+	|77.~  To dens of thieves.  "And the monks' hoods and
+habits are full", says Buti, "of wicked and sinful souls, of evil
+thoughts and ill-will.  And as from bad flour bad bread is made,
+so from ill-will, which is in the monks, come evil deeds."
+
+	|79.~  The usurer is not so offensive to God as the monk
+who squanders the revenues of the Church in his own pleasures and
+vices.
+
+	|94.~  ^Psalm~, cxiv, 5: "What ailed thee, O thou sea,
+that thou fleddest? thou Jordan, that thou was driven back"?
+
+	The power that wrought these miracles can also bring help
+to the corruptions of the Church, great as the impossibility may
+seem.
+
+	|107.~  Paradise.  "Truly", says Buti, "the glory of
+Paradise may be called a triumph, for the blessed triumph in
+their victory over the world, the flesh, and the Devil."
+
+	|111.~  The sign that follows Taurus is the sign of
+Gemini, under which Dante was born.
+
+	|112.~  Of the influences of Gemini, Buti, quoting
+Albumasar, says: "The sign of the Gemini signifies great devotion
+and genius, such as became our author speaking of such lofty
+theme.  It signifies, also, sterility, and moderation in manners
+and in religion, beauty, and deportment, and cleanliness, when
+this sign is in the ascendant, or the lord of the descendant is
+present, or the Moon; and largeness of mind, and goodness, and
+liberality in spending."
+
+	|115.~  Dante was born May 14th, 1265, when the Sun rose
+and set in Gemini; or as Barlow, ^Study of Div. Com.~, p. 505,
+says, "the day on which in that year the Sun entered the
+constellation Gemini."  He continues: "Giovanni Villani (Lib. VI,
+Ch. 92) gives an account of a remarkable comet which preceded the
+birth of Dante by nine months, and lasted three, from July to
+October...  This marvellous meteor, much more worthy of notice
+than Donna Bella's dream related by Boccaccio, has not hitherto
+found its way into the biography of the poet."
+
+	|119.~  The Heaven of the Fixed Stars.  Of the symbolism
+of this heaven, Dante, ^Convito~, II, 15, says: "The Starry
+Heaven may be compared to Physics on account of three properties,
+and to Metaphysics on account of three others; for it shows us
+two visible things, such as its many stars, and the Galaxy; that
+is, the white circle which the vulgar call the Road of St. James;
+and it shows us one of its poles, and the other it conceals from
+us; and it shows us only one motion from east to west, and
+another which it has from west to east, it keeps almost hidden
+from us.  Therefore we must note in order, first its comparison
+with Physics, and then with Metaphysics.  The Starry Heaven, I
+say, shows us many stars; for, according as the wise men of Egypt
+have computed, down to the last star that appears in their
+meridian, there are one thousand and twenty-two clusters of the
+stars I speak of.  And in this it bears a great resemblance to
+Physics, if these three members, namely, two and twenty and a
+thousand, are carefully considered; for by the two is understood
+the local movement, which of necessity is from one point to
+another; and by the twenty is signified the movement of
+modification; for, inasmuch as from the ten upwards we proceed
+only by modifying this ten with the other nine, and with itself,
+and the most beautiful modification which it receives is that
+with itself, and the first which it receives is twenty,
+consequently the movement aforesaid is signified by this number. 
+And by the thousand is signified the movement of increase; for in
+name this thousand is the greatest number, and cannot increase
+except by multiplying itself.  And Physics show these three
+movements only, as is proved in the fifth chapter of its first
+book.  And on account of the Galaxy this heaven has great
+resemblance to Metaphysics.  For it must be known that of this
+Galaxy the philosophers have held diverse opinions.  For the
+Pythagoreans said that the Sun once wandered out of his path;
+and, passing through other parts not adapted to his heat, he
+burned the place through which he passed, and the appearance of
+the burning remained there.  I think they were influenced by the
+fable of Phaeton which Ovid narrates at the beginning of the
+second book of his Metamorphoses.  Others, as Anaxagoras and
+Democritus, said that it was the light of the Sun reflected in
+that part.  And these opinions they proved by demonstrative
+reasons.  What Aristotle said upon this subject cannot be exactly
+known, because his opinion is not the same in one translation as
+in the other.  And I think this was an error of the translators;
+for in the new he seems to say that it is a collection of vapours
+beneath the stars in that part, which always attract them; and
+this does not seem to be very reasonable.  In the old he says,
+that the Galaxy is nothing but a multitude of fixed stars in that
+part, so small that we cannot distinguis them here below, but
+from them proceeds that brightness which we call the Galaxy.  And
+it may be that the heaven in that part is more dense, and
+therefore retains and reflects that light; and this seems to be
+the opinion of Aristotle, Avicenna, and Ptolemy.  Hence, inasmuch
+as the Galaxy is an effect of those stars which we cannot see,
+but comprehend by their effects, and Metaphysics treats of first
+substances, which likewise we cannot comprehend except by their
+effects, it is manifest that the starry heaven has great
+resemblance to Metaphysics.  Still further, by the pole which we
+see it signifies things obvious to sense, of which, taking them
+as a whole, Physics treats; and by the pole which we do not see
+it signifies the things which ar immaterial, which are not
+obvious to sense, of which Metaphysics treats; and therefore the
+aforesaid heaven bears a great resemblance to both these
+sciences.  Still further, by its two movements it signifies these
+two sciences; for, by the movement in which it revolves daily and
+makes a new circuit from point to point, it signifies the
+corruptible things in nature, which daily complete their course,
+and their matter is changed from form to form; and of this
+Physics treats; and by the almost insensible movement which it
+makes from west to east of one degree in a hundred years, it
+signifies the things incorruptible, which had from God the
+beginning of existence, and shall never have an end; and of these
+Metaphysics treats."
+
+	|135.~  Cicero, ^Vision of Scipio~, Edmond's Tr., p. 294:
+     
+	"Now the place of my father spoke of was a radiant circle
+of dazzling brightness amid the flaming bodies, which you, as you
+have learned from the Greeks, term the Milky Way; from which
+position all other objects seemed to me, as I surveyed them,
+marvellous and glorious.  There were stars which we never saw
+from this place, and their magnitudes were such as we never
+imagined; the smallest of which was that which, placed upon the
+extremity of the heavens, but nearest to the earth, shone with
+borrowed light.  But the globular bodies of the stars greatly
+exceeded the magnitude of the earth, which now to me appeared so
+small, that I was grieved to see our empire contracted, as it
+were, into a very point...
+
+	"Which as I was gazing at in amazement, I said, as I
+recovered myself, from whence proceed these sounds so strong, and
+yet so sweet, that fill my ears?  'The melody`, replies he, which
+you hear, and which, though composed in unequal time, is
+nevertheless divided into regular harmony, is effected by the
+impulse and motion of the spheres themselves, which, by a happy
+temper of sharp and grave notes, regularly produces various
+harmonic effects.  Now it is impossible that such prodigious
+movements should pass in silence; and nature teaches that the
+sounds which the spheeres at one extremity utter must be sharp,
+and those on the other extremity must be grave; on which account
+that highest revolution of the star-studded heaven, whose motion
+is more rapid, is carried on with a sharp and quick sound;
+whereas this of the moon, which is situated the lowest, and at
+the other extremity, moves with the gravest sound.  For the
+earth, the ninth sphere, remaining motionless, abides invariably
+in the innermost position, occupying the central spot in the
+universe.
+
+	"'Now these eight directions two of which have the same
+powers, effect seven sounds, differing in their modulations,
+which number is the connecting principle of almost all things. 
+Some learned men, by imitating this harmony with strings and
+vocal melodies, have opened a way for their return to this place;
+as all others have done, who, endued with pre-eminent qualities,
+have cultivated in their mortal life the pursuits of heaven.
+
+	"The ears of mankind, filled with these sounds, have
+become deaf, for of all your senses it is the most blunted.  Thus
+the people who live near the place where the Nile rushes down
+from very high mountains to the parts which are called Catadupa,
+are destitude of the sense of hearing, by reason fo the greatness
+of the noise.  Now this sound, which is effected by the rapid
+rotation of the whole system of nature, is so powerful, that
+human hearing cannot comprehend it, just as you cannot look
+directly upon the sun, because your sight and sense are overcome
+by his beams`."
+
+	Also Milton, ^Par. Lost~, II, 1051: --
+
+     "And fast by, hanging in a golden chain,
+     This pendent world, in bigness as a star
+     Of smallest magnitude close by the moon."
+
+	|139.~  The Moon, called in heaven Diana, on earth Luna,
+and in the infernal regions Proserpina; as in the curious Latin
+distich: --
+
+     "Terret, lustrat, agit, Proserpina, Luna, Diana,
+     Ima, suprema, feras, sceptro, fulgore, sagitt#a."
+
+	|141.~  See Canto II, 59: --
+
+     "And I: 'What seems to us up here diverse,
+     Is caused, I think, by bodies rare and dense`."
+
+	|142.~  The Sun.
+
+	|144.~  Mercury, son of Maia, and Venus, daughter of
+Dione.
+
+	|145.~  The temperate planet Jupiter, between Mars and
+Saturn. In Canto XVIII, 68, Dante calls it "the temperate star";
+and in the ^Convito~, II, 14, quoting the opinion of Ptolemy:
+"Jupiter is a star of a temperate complexion, midway between the
+coldness of Saturn and the heat of Mars."
+
+	|149.~  Bryant, ^Song of the Stars~: --
+
+     "Look, look, through our glittering ranks afar,
+     In the infinite azure, star after star,
+     How they brighten and bloom as they swiftly
+     pass!
+     How the verdure runs o'er each rolling mass!
+     And the path of the gentle winds is seen,
+     Where the small waves dance, and the young
+     woods lean.
+     
+     "And see, where the brighter day-beams pour,
+     How the rainbows hang in the sunny shower;
+     And the morn and eve, with their pomp of
+     hues,
+     Shift o'er the bright planets and shed their
+     dews;
+     And 'twixt them both, o'er the teeming
+     ground,
+     With her shadowy cone the night goes round!"
+
+	|151.~  The threshing-floor, or little area of our earth. 
+The word |ajuola~ would also bear the rendering of garden-plot;
+but to Dante this world was rather a threshing-floor than a
+flowerbed.  The word occurs again in Canto XXVII, 86, and in its
+latin form in the ^Monarchia~, III: ^Ut scilicet in areola
+mortalium libere cum pace vivatur.~  Perhaps Dante uses it to
+signify in general any small enclosure.
+
+	Boethius, ^Cons. Phil.~, II, Prosa 7, Ridpath's Tr.: "You
+have learned from astronomy that this globe of earth is but as a
+point in respect to the vast extent of the heavens; that is, the
+immensity of the celestial sphere is such that ours, when
+compared with it, is as nothing, and vanishes.  You know
+likewise, from the proofs that Ptolemy adduces, there is only one
+fourth part of this earth, which is of itself so small a portion
+of the universe, inhabited by creatures known to us.  If from
+this fourth you deduct the space occupied by the seas and lakes,
+and the vast sandy regions which extreme heat and want of water
+render uninhabitable, there remains but a very small proportion
+of the terrestrial sphere for the habitation of men. Enclosed
+then and locked up as you are, in an unpercievable point of a
+point, do you think of nothing but of blazing far and wide your
+name and reputation?  What can there be great or pompous in a
+glory circumscribed in so narrow a circuit?"

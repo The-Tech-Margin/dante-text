@@ -1,0 +1,386 @@
+	|1.~  The Heaven of Mars continued; and the ascent to the
+Heaven of Jupiter, where are seen the spirits of righteous kings
+and rulers.
+
+	|2.~  Enjoying his own thought in silence.
+
+	Shakespeare, ^Sonnet~, XXX: --
+
+     "When to the sessions of sweet silent thought
+     I summon up remembrance of things past."
+
+	|9.~  Relinquish the hope and attempt of expressing.
+
+	|11.~  Wordsworth, ^Excursion~, Book IV: --
+
+     "'Tis by comparison an easy task
+     Earth to despise; but to converse with heaven, --
+     This is not easy:-- to relinquish all
+     We have, or hope, of happiness and joy,
+     And stand in freedom loosened from this world,
+     I deem not arduous; but must needs confess
+     That 't is a thing impossible to frame
+     Conceptions equal to the soul's desires;
+     And the most difficult of tasks to ^keep~
+     Heights which the soul is competent to gain.
+     -- Man is of dust: ethereal hopes are his,
+     Which, when they should sustain themselves
+     aloft,
+     Want due consistence; like a pillar of smoke,
+     That with majestic energy from earth
+     Rises; but, having reached the thinner air,
+     Melts, and dissolves, and is no longer seen."
+
+And again in ^Tintern Abbey~: --
+
+                     "That blessed mood,
+     In which the burden of the mystery,
+     In which the heavy and the weary weight
+     Of all this unintelligible world
+     Is lightened."
+
+	|29.~  Paradise, or the system of the heavens, which
+lives by the divine influences form above, and whose fruit and
+foliage are eternal.  The fifth resting-place or division of this
+tree is the planet Mars.
+
+	|38.~  Joshua, the leader of the Israelites after the
+death of Moses, to whom God said, ^Joshua~, i, 5: "As I was with
+Moses, so will I be with thee: I will not fail thee, nor forsake
+thee."
+
+	|40.~  The great Maccabee was Judas Maccabaeus, who, as
+is stated in Biblical history, I ^Maccabees~, iii, 3, "gat his
+people great honor, and put on a breast-plate as a giant, and
+girt his warlike harness about him, and he made battles,
+protecting the host with his sword.  In his acts he was like a
+lion, and like a lion's whelp roaring for his prey."
+
+	|42.~  ^Aeneid~, VII, Davidson's Tr.: "As at times a
+whip-top whirling under the twisted lash, which boys intent on
+their sport drive in a large circuit round some empty court, the
+engine driven about by the scourge is hurried round and round in
+circling courses; the unpractised throng and beardless band are
+lost in admiration of the voluble box-wood: they lend their souls
+to the stroke."
+
+	|43.~  The form in which Charlemagne presented himself to
+the imagination of the Middle Ages my be seen by the following
+extract from Turpin's ^Chronicle~, Ch. XX: "The Emperor was of a
+ruddy complexion, with brown hair; of a well made, handsome form,
+but a stern visage.  His height was about eight of his own feet,
+which were very long.  He was of a strong, robust make; his legs
+and thighs very stout, and his sinews firm.  His face was
+thirteen inches long; his beard a palm; his nose half a palm; his
+forehead a foot over.  His lion-like eyes flashed fire like
+carbuncles; his eyebrows were half a palm over.  When he was
+angry, it was a terror to look upon him.  He required eight spans
+for his girdle, besides what hung loose.  He ate sparingly of
+bread; but a whole quarter of lamb, two fowls, a goose, or a
+large portion of pork; a peacock, a crane, or a whole hare.  He
+drank moderately of wine and water.  He was so strong, that he
+could at a single blow cleave asunder an armed soldier on
+horseback, from the head to the waist, and the horse likewise. 
+He easily vaulted over four horses harnessed together, and could
+raise an armed man from the ground to his head, as he stood erect
+upon his hand."
+
+	Orlando, the famous paladin, who died at Roncesvalles;
+the hero of Pulci's ^Morgante Maggiore~, Bojardo's ^Orlando
+Innamorato~, and Ariosto's ^Orlando Furioso.~  His sword Durandel
+is renowned in fiction, and his ivory horn Olivant could be heard
+eight miles.
+
+	|46.~  "This William", says Buti, being obliged to say
+something, "was a great prince, who fought and died for the faith
+of Christ; I have no been able to find out distinctly who he
+was."  The ^Ottimo~ says it is William, Count of Orange in
+Provence; who, after fighting for the faith against the Saracens,
+"took the cowl, and finished his life holily in the service of
+God; and he is called Saint William of the Desert."
+
+	He is the same hero, then, that figures in the old
+romances of the Twelve Peers of France, as Guillaume au Court
+Nez, or William of the Short Nose, so called from having had his
+nose cut off by a Saracen in battle.  In the monorhythmic romance
+which bears his name, he is thus represented: --
+
+     "Great was the court in the hall of Lo,on,
+     The tables were full of fowl and venison,
+     On flesh and fish they feasted every one;
+     But Guillaume of these viands tasted none,
+     Brown crusts ate he, and water drunk alone.
+     When had feasted every noble baron,
+     The cloths were removed by squire and scullion.
+     Count Guillaume then with the king did thus
+     reason:
+     'What thinketh now`, quoth he, 'the gallant
+     Charon?
+     Will he aid me against the prowess of Mahon?
+     Quoth Lo$eis, 'We will take counsel thereon,
+     To-morrow in the morning shalt thou conne,
+     If aught by us in this matter can be done`.
+     Guillaume heard this, -- black was he as carbon,
+     He louted low, and seized a baton,
+     And said to the king, 'Of your fief will I none,
+     I will not keep so much as a spur's iron;
+     Your friend and vassal I cease to be anon;
+     But come you shall, whether you will or non`."
+
+	He is said to have been taken prisoner and carried to
+Africa by the Moorish King Tobaldo, whose wife Arabella he first
+converted to Christianity, and then eloped with.
+
+	And who was Renouard?  He was a young Moor, who was taken
+prisoner and brought up at the court of Saint Louis with the
+king's daughter Alice, whom, after achieving unheard of wonders
+in battle and siege, he, being duly baptized, married.  Later in
+life he also became a monk, and frightened the brotherhood by his
+greediness, and by going to sleep when he should have gone to
+mass.  So say the old romances.
+
+	|47.~  Godfrey of Bouillon, Duke of Lorraine, and leader
+of the First Crusade.  He was born in 1061, and died, king of
+Jerusalem, in 1109.  Gibbon thus sketches his character, ^Decline
+and Fall~, Ch. LVIII: "The first rank both in war and council is
+justly due to Godfrey of Bouillon; and happy would it have been
+for the Crusaders, if they had trusted themselves to the sole
+conduct of that accomplished hero, a worthy representative of
+Charlemagne, form whom he was descended in the female line.  His
+father was of the noble race of the Counts of Boulogne; Brabant,
+the lower province of Lorraine, was the inheritance of his
+mother; and by the Emperor's bounty he was himself invested with
+that ducal title which has been improperly transferred to his
+lordship of Bouillon in the Ardennes.  In the service of Henry IV
+he bore the great standard of the Empire, and pierced with his
+lance the breast of Rodolph, the rebel king; Godfrey was the
+first who ascended the walls of Rome; and his sickness, his vow,
+perhaps his remorse for bearing arms against the Pope, confirmed
+an early resolution of visiting the holy sepulchre, not as a
+pilgrim, but a deliverer.  His valor was matured by prudence and
+moderation; his piety, though blind, was sincere; and, in the
+tumult of a camp, he practised the real and fictitious virtues of
+a convent.  Superior to the private factions of the chiefs, he
+reserved his enmity for the enemies of Christ; and though he
+gained a kingdom by the attempt, his pure and disinterested zeal
+was accknowledged by his rivals.  Godfrey of Bouillon was
+accompanied by his two brothers, -- by Eustace, the elder, who
+had succeeded to the county of Boulogne, and by the younger,
+Baldwin, a character of more ambiguous virtue.  The Duke of
+Lorraine was alike celebrated on either side of the Rhine; from
+his birth and education he was equally conversant with the French
+and Teutonic languages; the barons of France, Germany, and
+Lorraine assembled their vassals; and the confederate force that
+marched under his banner was composed of fourscore thousand foot
+and about ten thousand horse."
+
+	|48.~  Robert Guiscard, founder of the kingdom of Naples,
+was the sixth of the twelve sons of the Baron Tancred de
+Hauteville of the diocese of Coutance in Lower Normandy, where he
+was born in the year 1015.  In his youth he left his father's
+castle as a military adventurer, and crossed the Alps to join the
+Norman army in Apulia, whither three of his brothers had gone
+before him, and whither at different times six others followed
+him.  Here he gradually won his way by his sword; and having
+rendered some signal service to Pope Nicholas II, he was made
+Duke of Apulia and Calabria, and of the lands in Italy and Sicily
+which he wrested from the Greeks and Saracens.  Thus from a needy
+adventurer he rose to be the founder of a kingdom.  "The Italian
+conquests of Robert", says Gibbon, "correspond with the limits of
+the present kingdom of Naples; and the countries united by his
+arms have not been dissevered by the revolutions of seven hundred
+years."
+
+	The same historian, ^Rise and Fall~, Ch. LVI, gives the
+following character of Guiscard.  "Robert was the eldest of the
+seven sons of the second marriage; and even the reluctant praise
+of his foes has endowed him with the heroic qualities of a
+soldier and a statesman.  His lofty stature surpassed the tallest
+of his army; his limbs were cast in the true proportion of
+strength and gracefulness; and to the decline of life, he
+maintained the patient vigor of health and the commanding dignity
+of his form.  His complexion was ruddy, his shoulders were broad,
+his hair and beard were long and of a flaxen color, his eyes
+sparkled with fire, and his voice, like that of Achilles, could
+impress obedience and terror amidst the tumult of battle.  In the
+ruder ages of chivalry, such qualifications are not below the
+notice of the poet or historian; they may observe that Robert, at
+once, and with equal dexterity, could wield in the right hand his
+sword, his lance in the left; that in the battle of Civitella he
+was thrice unhorsed; and that in the close of the memorable day
+he was adjudged to have borne away the prize of valor from the
+warriors of the two armies.  His boundless ambition was founded
+on the consciousness of superior worth; in the pursuit of
+greatness he was never arrested by the scruples of justice, and
+seldom moved by the feelings of humanity; though not insensible
+of fame, the choice of open or clandestine means was determined
+only by his present advantage.  The surname of ^Guiscard~ was
+applied to this master of political wisdom, which is too often
+confounded with the practice of dissimulation and deceit; and
+Robert is praised by the Apulian poet for excelling the cunning
+of Ulysses and the eloquence of Cicero.  Yet these arts were
+disguised by an appearance of military frankness; in his highest
+fortune he was accessible and courteous to his fellow-soldiers;
+and while he indulged the prejudices of his new subjects, he
+affected in his dress and manners to maintain the ancient fashion
+of his country.  He grasped with a rapacious, that he might
+distribute with a liberal hand; his primitive indigence had
+taught the habits of frugality; the gain of merchant was not
+below his attention; and his prisoners were tortured with slow
+and unfeeling cruelty to force a discovery of their secret
+treasure.  According to the Greeks, he departed from Normandy
+with only five followers on horseback and thirty on foot; yet
+even this allowance appears too bountiful; the sixth son of
+Tancred of Hauteville passed the Alps as a pilgrim; and his first
+military band was levied among the adventurers of Italy.  His
+brothers and countrymen had divided the fertile lands of Apulia;
+but they guarded their shares with the jealousy of avarice; the
+aspiring youth was driven forwards to the mountains of Calabria,
+and in his first exploits against the Greeks and the natives it
+is not easy to discriminate the hero from the robber.  To
+surprise a castle or a convent, to ensnare a wealthy citizen, to
+plunder the adjacent villages for necessary food, were the
+obscure labors which formed and exercised the powers of his mind
+and body.  The volunteers of Normandy adhered to his standard;
+and, under his command, the peasants of Calabria assumed the name
+and character of Normans."
+
+	Robert died in 1085, on an expedition against
+Constantinople, undertaken at the venerable age of seventy-five. 
+Such was the career of Robert the Cunning, this being the meaning
+of the old Norman word ^guiscard~, or ^guischard.~  For an
+instance of his cunning see ^Inf.~, XXCIII, Note 14.
+
+	|63.~  The miracle is Beatrice, of whom Dante says, in
+the ^Vita Nuova~: "Many, when she had passed, said, 'This is not
+a woman, rather is she one of the most beautiful angels of
+heaven`.  Others said, 'She is a miracle.  Blessed by the Lord,
+who can perform such a marvel`!"
+
+	|67.~  The change from the red light of Mars to the white
+light of Jupiter.  "This planet", says Brunetto Latini, ^Tresor~,
+I, Ch. CXI, "is gentle and piteous, and full of all good things." 
+Of its symbolism Dante, ^Convito~, II, 14, says: "The heaven of
+Jupiter may be compared to Geometry on account of two properties. 
+The first is, that it moves between two heavens repugnant to its
+good temperateness, as are that of Mars and that of Saturn;
+whence Ptolemy says, in the book cited, that Jupiter is a star of
+a temperate complexion, midway between the coldness of Saturn and
+the heat of Mars.  The second is, that among all the stars it
+shows itself white, almost silvery.  And these two things are in
+Geometry.  Geometry moves between two opposites; as between the
+point and the circle (and I call in general everything round,
+whether a solid or a surface, a circle); for, as Euclid says, the
+point is the beginning of Geometry, and, as he says, the circle
+in its most perfect figure, and may therefore be considered its
+end; so that between the point and the circle, as between
+beginning and end, Geometry moves.  And these two are opposed to
+its exactness; for the point, on account of its indivisibility,
+is immeasurable; and the circle, on account of its arc, it is
+impossible to square, and therefore it is impossible to measure
+it exactly.  And moreover Geometry is very white, inasmuch as it
+is without spot of error, and very exact in itself and its
+handmaiden, which is called Perspective."
+
+	Of the influences of Jupiter, Buti, quoting as usual
+Albumasar, speaks thus: "The planet Jupiter is of a cold, humid,
+airy, temperate nature, and signifies the natural soul, and life,
+and animate bodies, children and grandchildren, and beauty, and
+wise men and doctors of laws, and just judges, and firmness, and
+knowledge, and intellect, and interpretation of dreams, truth and
+divine worship, doctrine of law and faith, religion, veneration
+and fear of God, unity of faith and providence thereof, and
+regulation of manners and behavior, and will be laudable, and
+signifies patient observation, and perhaps also to it belong
+swiftness of mind, improvidence and boldness in dangers, and
+patience and delay, and it signifies beatitude, and acquisition,
+and victory,... and veneration, and kingdom, and kings, and rich
+men, nobles and magnates, hope and joy, and cupidity in
+commodities, also of fortune, in new kinds of grain, and
+harvests, and wealth, and security in all things, and good habits
+of mind, and liberality, commands and goodness, boasting and
+bravery of mind, and boldness, true love and delight of supremacy
+over the citizens of a city, delight of potentates and magnates,
+... and beauty an ornament of dress, and joy and laughter, and
+affluence of speech, and glibness of tongue,
+... and hate of evil, and attachments among men, and command of
+the known, and avoidance of the unknown.  These are the
+significations of the planet Jupiter, and such the influences its
+exerts."
+
+	|75.~  Milton, ^Par. Lost~, VII, 425: --
+
+     "Part loosely wing the region, part more wise
+     In common, ranged in figure, wedge their way,
+     Intelligent of seasons, and set forth
+     Their aery caravan, high over seas
+     Flying, and over lands, with mutual wing
+     Easing their flight; -- so steers the purdent
+     crane
+     Her annual voyage, borne on winds; -- the air
+     Floats as they pass."
+
+	|78.~  The first letters of the word ^Diligite~ {v.91},
+completed afterward.
+
+	|82.~  Dante gives this title to the Muse, because from
+the hoof-beat of Pegasus sprang the fountain of the Muses,
+Hippocrene.  The invocation is here to Calliope, the Muse of epic
+verse.
+
+	|91-93.~  ^Wisdom of Solomon~, i, 1: "Love righteousness,
+ye that be judges of the earth."
+
+	|100.~  Tenyson, ^Morte d'Arthur~: --
+
+     "And drove his heel into the smouldered log,
+     That sent a blast of sparkles up the flue."
+
+	|103.~  Divination by fire, and other childish fancies
+about sparks, such as wishes for golden sequins, and nuns going
+into a chapel.
+
+	Cowper, ^Names of Little Note in the Biogr. Brit.~: --
+
+     "So when a child, as playful children use,
+     Has burnt to tinder a stale last year's news,
+     The flame extinct, he views the roving fire,--
+     There goes my lady, and there goes the squire,
+     There goes the parson, O illustrious spark!
+     And there, scarce less illustrious, goes the
+     clerk!"
+
+	|107.~  In this eagle, the symbol of Imperialism, Dante
+displays his political faith.  Among just rulers, this is the
+shape in which the true government of the world appears to him. 
+In the invective against Pope Boniface VIII, with which the canto
+closes, he gives still further expression of his intense
+Imperialism.
+
+	|111.~  The simplest interpertation of this line seems to
+me preferable to the mystic meaning which some commentators lend
+it.  The Architect who built the heavens teaches the bird how to
+build its nest after the same model; --
+
+     "The Power which built the starry dome on
+     high,
+     And poised the vaulted rafters of the sky,
+     Teaches the linnet with unconscious breast
+     To round the inverted heaven of her nest."
+
+	|112.~  The other group of beatified spirits.
+
+	|123.~  As Tertullian says: "The blood of the martyrs is
+the seed of the Church."
+
+	|126.~  The bad example of the head of the Church.
+
+	|128.~  By excommunication, which shut out its victims
+from the table of the Lord.
+
+	|130.~  Pope Boniface VIII, who is here accused of
+dealing out ecclesiastical censures only to be paid for revoking
+them.
+
+	|135.~  John the Baptist.  But here is meant his image on
+the golden florin of Florence.

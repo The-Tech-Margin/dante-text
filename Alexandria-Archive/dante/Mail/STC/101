@@ -1,0 +1,39 @@
+Return-Path: Malcolm.B.Brown@Dartmouth.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id KAA08737
+	for <steve@avalon.dartmouth.edu>; Tue, 30 Dec 1997 10:37:37 -0500
+Received: from dancer.Dartmouth.EDU (dancer.dartmouth.edu [129.170.208.7])
+	by mailhub.dartmouth.edu (8.8.7+DND/8.8.7) with SMTP id KAA28719;
+	Tue, 30 Dec 1997 10:37:36 -0500 (EST)
+Message-id: <51214263@dancer.Dartmouth.EDU>
+Date: 30 Dec 97 10:37:36 EST
+From: Malcolm.B.Brown@Dartmouth.EDU (Malcolm B. Brown)
+Subject: Re: DDP: data correction
+To: bobh@phoenix.Princeton.EDU (Robert B. Hollander),
+        steve@avalon.dartmouth.edu (Stephen Campbell)
+Cc: tobypaff@pucc.Princeton.EDU
+
+Hi, Bob,
+Steve and I discussed this.  To begin, Steve will pull the text of all the
+commentaries out of storage and place them on the disk attached to a local UNIX
+host here.  Given modern disk storage capacities, we think it will not be a
+problem to place all the commentary files on spinning disk.
+
+Once that is done, we will need to define a procedure for the corrections.  We
+will need to define a naming protocol that distinguishes the original files
+from the corrected files.
+
+Steve has volunteered to write a small shell script using the UNIX diff command
+that will give you a summary of the changes you've made.  This will enable you
+to confirm you've made exactly the right changes.
+
+We will need a separate procedure, obviously, for doing the reloads.  But I
+think we can wait on that until we've worked out a method for doing the edits.
+
+Steve will let me know once the files are on-line and ready for editing.  Once
+I've seen the organization of the files and their current naming convention,
+I'll work with you to define the editing procedure and the naming conventions. 
+Then we'll rollup our sleeves and get going.
+
+my best,
+malcolm

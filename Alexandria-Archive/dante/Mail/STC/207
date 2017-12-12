@@ -1,0 +1,47 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id WAA19742
+	for <steve@avalon.dartmouth.edu>; Wed, 8 Sep 1999 22:14:48 -0400 (EDT)
+Received: from Princeton.EDU (outbound2.Princeton.EDU [128.112.129.120])
+	by mailhub.dartmouth.edu (8.9.3+DND/8.9.3) with ESMTP id WAA04826
+	for <Steve.Campbell@dartmouth.edu>; Wed, 8 Sep 1999 22:14:48 -0400 (EDT)
+Received: from mailserver.Princeton.EDU (mailserver.Princeton.EDU [128.112.129.65])
+	by Princeton.EDU (8.9.3/8.9.3) with ESMTP id WAA27578
+	for <Steve.Campbell@dartmouth.edu>; Wed, 8 Sep 1999 22:14:47 -0400 (EDT)
+Received: from princeton.edu (comserv8-dialup53.Princeton.EDU [128.112.70.53])
+	by mailserver.Princeton.EDU (8.9.3/8.9.3) with ESMTP id WAA23945;
+	Wed, 8 Sep 1999 22:14:45 -0400 (EDT)
+Message-ID: <37D718B3.A3476A15@princeton.edu>
+Date: Wed, 08 Sep 1999 22:17:23 -0400
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.5 [en] (Win95; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>, kirk <kirk@Princeton.EDU>
+Subject: DDP inquiry
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I happened to note a little problem with Pietro3 (the one
+we added last winter), Pietro di Dante, 3rd redaction. 
+I'm pretty sure it's the beginning of Inf. XVI. He says
+"carit@a," and our text reads "carit&grave" or smtg. like
+that.  It in other words kept the code instead of
+resolving into an accent.  Since I can't check for
+endings when I use DDP, I cannot check to see if this
+happened elsewhere.  Reminder: Piero3 is in Latin, and
+does not have much Italian except when quoting the poem. 
+But this may (or may not) be a generic problem.  Can you
+look and see?
+
+Another thing I noted when using the PDP to access line
+searches from DDP: the new texts we put up in DDP last
+winter (Graziolo & Pietro3) do n ot come up with good
+line formattings.  I have told Kirk about this, asking
+him if this could be a formatting problem at this end,
+but wanted to mention it to you, too.
+
+Hope all is well up there.  Frantic here.  All the best,
+Bob

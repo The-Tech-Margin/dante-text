@@ -1,0 +1,1 @@
+batchk -f format.sed -c PURGATORIO *.k > batch.log

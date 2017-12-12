@@ -1,0 +1,94 @@
+		Explanation of Commentary Description Records
+
+		    Last Update: March 11, 1987 by STC.
+
+This note describes the format and style of the commentary description
+records.  One of these records will appear in the database for each
+commentary loaded.  The records are searchable in the same way that
+commentary text is.  The purpose of the description record is to provide
+identification information about each commentary.
+
+The description records can be created with a standard text editor, using
+a prototype record as a guide.  The completed descriptions should be loaded
+into the database at the same time as the commentary text records.
+
+Below is a sample description, just as it would appear ready for database
+loading.  It is followed by an item-by-item explanation.
+
+------start of record-----
+..COMM:
+Ruskin
+..DTYP:
+D
+..LANG:
+English
+..AUTH:
+John Ruskin
+..PUBD:
+1903
+..PUBL:
+Comments of John Ruskin on the Divina Commedia, Compiled by George
+P. Huntington with an Introduction by Charles Eliot Norton.  Boston
+& New York, Houghton, Mifflin; Cambridge, The Riverside Press, 1903,
+pp. 45-201.
+..LODD: 
+..EDTR:
+J. Stephens
+..DENT:
+KDEM
+..ATTR:
+LINE
+------end of record-----
+
+
+..COMM: Ruskin
+	This is our "official" name for the commentary.  It is usually
+	the name of the author, but it can be any word.  The only
+	requirement is that each commentary have a unique name.  This name
+	will appear in text records, too, as well as in screen headings,
+	so it should be capitalized in a consistent way.
+
+..DTYP: Description
+	This field identifies the record as a description record, as
+	opposed to a commentary text record.  This field should appear
+	exactly as shown here.
+
+..LANG: English
+	This specifies the language in which the commentary (not the
+	description) is written.  Values should be "English," "Latin,"
+	"Italian," etc.
+
+..AUTH: John Ruskinn
+	This is the name of the author of the commentary.  We should
+	adopt a uniform style - "first last" or "last, first" or whatever.
+
+..PUBD: 1903
+	This is the year of original publication of the commentary.  It
+	will determine the order in which search results will be presented.
+
+..PUBL:
+Comments of John Ruskin on the Divina Commedia, Compiled by George
+P. Huntington with an Introduction by Charles Eliot Norton.  Boston
+& New York, Houghton, Mifflin; Cambridge, The Riverside Press, 1903,
+pp. 45-201.
+	This is a prose description of the commentary's publication.
+	We should adopt a uniform style for this entry.
+
+..LODD: 
+	This is the date on which the bulk of the commentary was loaded
+	into the database.  The value will be supplied automatically by
+	the database manager program; we need only provide this label.
+
+..EDTR: J. Stephens
+	This is the name of the commentary's Dante Project editor.
+
+..DENT: KDEM
+	This item identifies the Data ENTry method used for this
+	commentary.  The value should be chosen from a fixed set of words
+	such as KDEM, TYPED, etc.
+
+..ATTR: LINE
+	This field contains any number of keywords like LINE that
+	describe technical attributes of the commentary.  For example
+	LINE means that the commentary is searchable by poem line numbers.
+	Other attribute keywords may be created as the need arises.

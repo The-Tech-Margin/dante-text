@@ -1,0 +1,5 @@
+#! /bin/csh
+
+foreach FILE (*.f)
+	sed -f ffix.sed $FILE | tee $FILE:r.e | sed -f load.sed | uniq > $FILE:r.load
+end

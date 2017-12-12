@@ -1,0 +1,735 @@
+	|1-3.  Gi@a era il Sole~ ec.  Per intendere questo passo
+conviene si avverta esser supposizione del Poeta che, come ogni
+luogo su dell'emisferio nostro ha il suo proprio orizzonte, cos@i
+abbia il suo proprio meridiano, e che sia questo un arco, il
+quale passando pe 'l zenit del luogo, e pe 'l punto del cielo
+dove il Sole ad esso luogo fa il mezzo d@i, vada a terminare
+d'ambe le parti all'orizzonte del medesimo luogo.  Per tale
+supposizione non avendo ciascun orizzonte per suo meridiano
+altr'arco, che quello solo, il quale |col suo punto pi@u alto~,
+cio@e pi@u dall'orizzonte stesso elevato, |coverchia~, cuopre, il
+rispettivo luogo, addiviene necessariamente una cosa il dire
+l'^orizzonte di Gerusalemme~, e il dire l'^orizzonte, il cui
+meridian cerchio col suo pi@u alto punto coverchia Gerusalem.~ 
+Siccome poi suppone in oltre il medesimo poeta nostro che sia il
+monte del Purgatorio antipodo a Gerusalemme, talmente che sia lo
+stesso orizzonte comune ad essi due luoghi [vedi Purg. IV, 70],
+perci@o dal giungere il Sole [gi@a Inf. XXXIV, 68 accennato
+cadente] all'orizzonte di Gerusalemme deduce il vicino spuntar
+del Sole al Purgatorio.
+
+	Il Vellutello, il Venturi, ed alcuni altri dicono
+scoprirsi per questi versi che intendesse Dante situata
+Gerusalemme nel mezzo della terra abitata.  Non veggo ond'essi
+ci@o si raccolgano; e temo che malamente suppongano, che |pi@u alto
+punto~ vaglia quanto ^pi@u discosto dai limiti della terra
+abitata.~  Riserbasi per me tale scoprimento al principio del
+XXVII di questa medesima cantica.
+
+	|4.  Ch'opposita a lui cerchia~, che gira diametralmente
+opposta al Sole.  Per intendere la verit@a di questa sentenza
+basta riflettere, che non @e la notte se non un riparo ai raggi
+solari che fa la terra.
+
+	|5.  Usc@ia di Gange fuor.~  Suppone, secondo la geografia
+de' tempi suoi [La supposizione medesima d@a chiaro a scorgere
+anche nel principio del canto XXVII della presente cantica.  Che
+poi la geografia di que' tempi cos@i ammettesse pu@o vedersi in
+Rugero Bacone, uno de' pi@u illustri matematici al tempi di Dante,
+^Opus maius~ dist. 4.  Possono anche vedersi Tolommeo e Solino;
+l'ultimo de' quali parlando dell'India discosta dalla Palestina
+ugualmente che la Francia, scrive ^hanc Possidonius adversam
+Galliae statuit.~  Polyhistor. c. 55], che l'orizzonte orientale
+di Gerusalemme fosse un meridiano dell'Indie orientali, intese pe
+'l |Gange~ fiume di esse.  -- |con le bilance~, col segno della
+Libra.  S'aggiunge questo ai molti altri indizi, che il Sole,
+alla notte opposto, fosse nel segno di Ariete.
+
+	|6.  Che le caggion di man~ ec.  Sebbene sorga la notte
+in compagnia delle ^bilance~ {v.5}, o sia della Libra, sol quando
+@e il Sole in Ariete, cio@e nell'equinozio di primavera, per@o si
+tiene la notte sempre nel tenebroso suo emisfero la Libra fin che
+va accorciandosi, cio@e dal solstizio iemale fino all'estivo; e
+perde essa Libra dall'emisferio suo sol quando |soverchia~,
+quando cresce, cio@e dal solstizio estivo fino al iemale;
+imperocch@e mentre scorre il Sole dal Cancro al Capricorno non @e
+mai discosto dalla Libra pi@u di gradi 90, com'@e necessario
+acciocch@e rimangasi la Libra fuor dell'emisferio diurno.  La
+comune degli espositori intende che ^quando la notte soverchia~
+vaglia ^quando la notte si fa pi@u lunga del giorno~; lo che
+succede dopo l'equinozio autunnale.  Malamente per@o;
+imperciocch@e, come ho detto, incominciano a cadere di mano alla
+notte le bilance fin dal solstizio estivo, tre mesi prima
+dell'autunnale equinozio.
+
+	|7-8.  Le bianche e le vermiglie guance~ ec., quelli due
+colori i quali appariscon nell'aria innanzi che il Sole sia al
+tutto scoperto.  Landino.
+
+	|9.  Etade~ la Nidob., ^etate~ l'altre ediz.  -- |rance.~ 
+Rancio, giallo carico che piega in rosso, qual'@e il colore degli
+aranci maturi, e qual'@e altres@i l'aurora nella sua maggiore et@a. 
+Il Boccaccio ricopi@o questa descrizione, giorn. 3, dove disse:
+^l'aurora gi@a di vermiglia cominciava, appressandosi il Sole, a
+divenir rancia.~  Rancio dunque qu@i non vuol dire ^rancido~ o
+^vieto~, come dicono il Landino e il Vellutello, ma di colore
+dor@e come sogliam chiamarlo.  Cos@i il Venturi unitamente al
+Daniello.  Vedi inoltre ci@o che riguardo al medesimo colore @e
+notato Inf. XXIII, 100.
+
+	|10.  Lunghesso~ [chiosa il Vocabol. della Crusa]
+^avverbio, lo stesso che lungo, in vece di rasente, e accosto; e
+la voce esso @e aggiunta per ripieno, ed @e antica e usitata
+propriet@a di linguaggio.~  Erano cio@e ancora su 'l ^lito diserto~
+menzionato nel preced. canto v. 130.
+
+	|11.  Pensa a suo cammino~ la Nidob., ^pensa suo~ ec.
+l'altre ediz.
+
+	|12.  Col cuore~, colla mente.
+
+	|13-15.  Su 'l presso del mattino~, leggono bene l'Aldina
+ed altre edizioni, ed eziandio alcuni mss. veduti dagli
+Accademici della Crusca [Vedi la Tavola delle autorit@a de' testi
+posta in fine dell'edizione fatta dagli Accademici della Crusca,
+ed in quella simile fatta dal Volpi]; imperocch@e, inteso che di
+|presso~ avverbio fatto siasi un nome [come esempigrazia fassi di
+^mentre~, dicendosi ^nel mentre~] vale |su 'l presso del mattino~
+il medesimo che ^su l'appressare, nello avvicinarsi del mattino~;
+ch'@e ci@o appunto che la retta sintassi richiede: e seguendo i
+prefati Accademici il maggior numero de' mss., ed inserendo in
+vece ^suol presso del mattino~, hanno essi mancato di far qu@i uso
+di quella massima altrove spesso da loro praticata, di non
+deferire tanto al numero de' testi, quanto alla ragionevolezza:
+imperocch@e come avverte il Tassoni [Annotazioni sopra il Vocab.
+della Cr. art. ^ecco~], e ben pu@o ciascuno avvertire, ^suol
+presso~ esigerebbe nel seguente verso ^rosseggiare~ in luogo
+dello scritto |rosseggia.~
+
+	^Sorpreso dal mattino~ hanno anche trovato in tre mss. i
+medesimi Accademici: lezione, che [testimonio il Venturi] ^pi@u
+piace al Castelvetro d'ogn'altra~: ^e soppresso da mattino~ legge
+la Nidobeatina.  Ma sorpreso Marte dal mattino dee rimanere in
+guisa soppresso, che non appaia pi@u n@e rosso n@e bianco:
+imperocch@e Dante fa incominciare il mattino dal nascer del Sole:
+e perci@o nel canto I dell'Inferno, dopo di aver detto ch'erano le
+spalle di quel colle
+
+     ^Vestite gi@a de' raggi del pianeta~
+     ^Che mena dritto altrui per ogni calle~ 
+      [Verso 17, 18],
+
+in progresso del medesimo canto aggiunge
+
+     ^Temp'era dal principio del mattino~:
+        ^E 'l Sol montava in su, con quelle stelle~ ec. 
+         [Verso 37, 38].
+
+	Che 'l pianeta Marte rosseggi pi@u o meno ^secondo la
+spessezza e rarit@a dei vapori, che 'l seguono~, lo dice Dante
+anche nel suo Convito [Tratt. 2 cap. 14].  Qu@i per@o al maggiore
+di lui rosseggiare unisce tre circostanze.  La prima @e
+l'appressarsi del mattino, in tempo cio@e che la spirante frescura
+rende i vapori pi@u densi.  La seconda @e il trovarsi Marte |gi@u,
+sopra il suol marino~, ov'@e certamente maggior abbondanza di
+vapori.  La terza finalmente @e l'essere a ponente: imperocch@e se
+in oriente fosse su 'l presso del mattino, il chiarore dell'alba
+o nasconderebbelo totalmente all'occhio de' risguardanti, o
+appena il lascierebbe discernere.
+
+	|16-17.  S@i ancor lo veggia.~  Interiezione che vale
+quanto: ^cos@i un'altra fiata~, cio@e dopo morte, ^abbia la sorte
+di vederlo.~  Ma non mira l'augurio tanto a riveder quel lume,
+quanto alla concomitanza di andar salvo -- |s@i ratto~, cos@i
+presto.
+
+	|22.  D'ogni lato~ la Nidob., meglio che leggon l'altre
+edizioni ^d'ogni parte~; imperocch@e ^d'ogni parte~ significa lo
+stesso che ^d'ogn'intorno~; e |d'ogni lato~ significa
+propriamente ^a destra, ed a sinistra~, come dovevan essere i
+bianchi delle mosse ali di quell'angelo.  Che fosser quelli i
+bianchi dell'ali apparisce dal v. 26.
+
+	|23-24.  Un non sapea che~ ec.  Al bianco dell'ali,
+perocch@e dirizzate tenendole al cielo [Verso 34], appariva sotto
+il bianco delle vestimenta.
+
+	|26.  Mentre che~, infin che -- |aperser~, misero in
+vista.
+
+	|27.  Conobbe il galeotto.~  L'Angelo stesso, che qu@i
+appella |galeotto~, appella ^nocchiero~ nel v. 43, come appunto
+fece di Flegias nell'Inf. VIII, 17 e 80.  ^Convien dire~ [nota il
+Venturi] ^che la voce galeotto abbia peggiorato di condizione, e
+perduta la nobilit@a; perch@e adesso non si userebbe in
+significazione di persona onorata.~  Cos@i certamente dee essere:
+anzi non dovrebbe cotal peggioramento essere avvenuto se non
+tardi; imperocch@e anche il Varchi nella traduzione Italiana dei
+Benefizi di Seneca, ove dice Seneca doversi talvolta la vita
+^medico et nautae~ [Lib. 3 cap. 35], traduce esso ^al medico, ed
+al galeotto.~
+
+	|29.  Piega le mani~, facendogli riverenza.  Daniello.
+
+	|30.  Oma'~, apocope in vece di ^omai~, per togliere la
+mal sonante vicinanza che sarebbe di due voci terminanti in ^ai~
+-- |s@i fatti uficiali~, cio@e angeli, ministri di Dio.
+
+	|31.  Argomenti~ vale qu@i lo stesso che ^istrumenti~,
+come al medesimo significato hanno altri buoni scrittori essa
+voce adoprato.  Vedi 'l Vocabolario della Crusca.
+
+	|32.  Velo~ per ^vela~, alla maniera dei Latini che la
+vela appellarono ^velum.~  E se glie lo fa dire la rima, non per@o
+^su la corda~, non tanto cio@e mal volontieri, come il Venturi
+crede.
+
+	|33.  Ali~ la Nidob., ^ale~ l'altre edizioni, --
+|lontani~ dal mondo abitato da' vivi.
+
+	|34.  Dritte~, alzate.
+
+	|35-36.  Trattando~ per ^agitando~, ^movendo~ --
+|eterne~, immutabili, sempre durevoli: tanto ne accenna con
+aggiungere, |Che non si mutan come mortal pelo.~
+
+	|38.  Uccel divino~ appella Dante l'angelo, perocch@e
+alato; come ^malvagio uccello~, per la ragione stessa fece
+nell'Inferno [Canto XXII, 96] appellarsi da Barbariccia
+Farfarello; e come, tra i molti simili esempi, anche Mercurio fu
+da Stazio appellato ^volucer Tegeaticus~ [Silv. lib. I carm. 2 v.
+16] ^impiger ales~ [Theb. lib. I v. 292] ec.  Dicendo il Daniello
+^mirabile~ questo variar del Poeta in nomar l'Angelo ^ora
+galeotto, ora divino uccello, ora nocchiero celestiale~, n'esce
+il Venturi a dar la berta al comentatore insieme ed al Poeta: ^Il
+pi@u mirabile~, dice, ^a mio parere consiste in questo, che il
+glossatore parla da senno lodando, non da giuoco schernendo.~
+
+	Due cose per@o sembra che possano dal criticone nostro
+desiderarsi.  Un concetto primieramente pi@u rispettoso verso di
+quel comentatore, delle di cui dotte osservazioni si fa egli
+spesso onore, senza neppure dichiararsegli obbligato: e non
+maravigliarsi, che sinceramente favelli chi non doveva
+altrimenti; e che, volendo comentare a modo del Venturi,
+avrebbesi preso, non Dante, ma l'^Astuzie di Bertoldo.~  Poi, che
+si degnasse egli almeno di specificarne quale di queste varie
+appellazioni, che attribuisce Dante all'angelo, sia quella che si
+meriti scherno.  Della voce ^galeotto~ @e gi@a detto al v. 27, ed
+il Venturi stesso l'argomenta peggiorata a' giorni nostri di
+condizione.  Del |divino uccello~ crederei che il qu@i detto possa
+bastare.  Spiacerebbe lui forse il ^celestial nocchiero~? chi sa?
+
+	|39.  Perch@e~ vale ^per la qual cosa, in conseguenza di
+che~, in conseguenza cio@e dell'apparir l'Angelo pi@u chiaro di
+mano in mano che si appressava, crebbe tanto lo splendore, che
+l'occhio no 'l pot@e pi@u sostenere.
+
+	|40.  China 'l~, troncamento di ^chinail~, lo stesso che
+^il chinai.~
+
+	|41.  Vasello~ per ^vascello~, qu@i pure come @e detto Inf.
+XXVIII, 79.  Vedi quella nota.
+
+	|44.  Tal~ vale ^talmente~, in aria talmente vaga e
+maetosa -- |parea beato per iscritto.~  ^Leggere in viso ad
+alcuno la beatitudine, la maledizione~ ec. la @e frase comune.  Or
+come il ^leggere~ suppone lo scritto, per@o Dante usa l'uno per
+l'altro; ed in vece di dire ^tal che si leggeva in lui la
+beatitudine~, dice, |tal che parea beato per iscritto.~
+
+	|45.  Sediero~ hanno malamente creduto alcuni che sia in
+vece di ^sederono.~  No: sta per ^sedieno~ mutata la ^n~ in ^r~
+per accomodare la rima.  Cos@i nel ^Prospetto di verbi Toscani~
+sotto il verbo ^sedere~ n. 14.
+
+	|46.  In exitu Isr@ael de AEgytto~: cos@i io scrivo questo
+incominciamento del salmo 113, segno cio@e l'accento sopra l'^a~
+della voce |Israel~: imperocch@e acci@o sia qu@i suono di verso, dee
+la voce |Israel~ pronunciarsi, come l'hanno pronunciata pure
+alcuni poeti Latini [Vedine gli esempi nella ^Reg. Parn.~ art.
+^Israel~], coll'^a~ longa: ed ove le moderne edizioni scrivono
+^Egitto~, e con carattere diverso dalle antecedenti parole, ad
+indicar cotale voce Italiana, io scrivo |AEgytto~, e col medesimo
+carattere dell'|In exitu Isr@ael~, ad indicarla voce Latina, cos@i
+per antitesi dal Poeta aggiustata in grazia della rima: tanto pi@u
+che trovo tutti i mss. della biblioteca Corsini leggere chi
+^Egypto~ e chi ^Egipto.~
+
+	|49.  Poi~ la Nidob., ^po~ l'altre edizioni -- |fece il
+segno~ ec. di@e loro la benedizione.
+
+	|51.  G@i~ la Nidob., ^G@io~ l'altre edizioni.
+
+	|52-53.  Selvaggia del loco.~  Pone ^selvaggio~ per
+inesperto; propriet@a essendo del ^selvaggio~ di non esser pratico
+d'altro luogo che della sua selva.
+
+	|55-57.  Da tutte parti saettava il giorno~ ec. 
+Allusivamente al favoleggiar de' poeti, che il Sole sia Apolline,
+e che armato sia Apolline d'arco e di saette, dice che il Sole
+|saettava il giorno~, in vece di dire, che irradiavalo, rendevalo
+illuminato.  Ed aggiunge |da tutte parti~: non cio@e solamente
+dalla parte d'oriente, come quando sta il Sole per alzarsi; ma
+per ogni dove, come quello che gi@a cacciato aveva |di mezzo 'l
+ciel il Capricorno~, segno del zodiaco discosto da Ariete [in cui
+trovavasi allora il Sole [Vedi al v. 5]] una quarta parte di
+circolo: il quale perci@o non pu@o esser cacciato |di mezzo 'l
+cielo~, se non sia Ariete totalmente dall'orizzonte uscito --
+|saette conte~ colla medesima allusione gi@a detta appella i
+solari raggi: e l'aggettivo ^conto~, che altrove fa valere per
+^chiaro all'intelletto~ [Vedi a cagione d'esempio Inf. III, 76],
+non pu@o qu@i significare che ^chiaro~, ^rilucente all'occhio.~ 
+^Lucida tela diei~ nota il Volpi appellati i medesimi solari
+raggi da Lucrezio pure.
+
+	|62.  Sperti~ per ^esperti~ aferesi molto praticata. 
+Vedi 'l Vocab. della Cr.
+
+	|64.  Dianzi~ ec., poco fa, un po pi@u prima di voi
+venimmo.
+
+	|65.  Per altra via~, intende l'attraversamento
+dell'Inferno.
+
+	|67-68.  Per lo spirare, ch'io era ancor vivo~ la Nidob.,
+^Per lo spirar, ch'i' era ancor vivo~ l'altre ediz.  ^Vedi~
+[critica qu@i 'l Castelvetro] ^se @e cosa verisimile, che essendo
+l'aer temperato, e non freddo, e levato il Sole, che altri vegga
+il fiato di persona, il qual non si suole vedere, se non
+d'inverno~ [^Opere varie critiche~ pag. 161].  Ma anche di bella
+mezza state ci possiam accorgere ch'altri fiata; o per qualche
+difficolt@a ed interrompimento di voce, se parla; nel qual modo
+Sapi@a ad occhi cuciti si accorse dello spirare di Dante, Purg.
+XIII, 132, o pe 'l solo movimento della gola, o del ventre, se
+non parla; come parimenti il conobber vivo Catalano e Loderingo
+Inf. XXIII, 88.
+
+	|70-71.  E come~ ec.  Accenna il Poeta durante fino a'
+suoi tempi l'antica costumanza, che chi desiderava la pace
+mandava ambasciatori a richiederla con rami d'ulivo in mano; ai
+quali perci@o ^traeva~, camminava, accorreva, la gente curiosa di
+|udir novelle~, di ascoltare a quali condizioni la pace
+richiedevasi.  Avvisa il Daniello a questo proposito i versi di
+Virgilio.
+
+     ^Iamque oratores aderant ex urbe Latina~,
+     ^Velati ramis oleae, veniamque rogantes~ 
+      [^Aeneid.~ XI, 100];
+
+e que' due altri
+
+     ^Tum pater Aeneas puppi sic fatur ab alta~:
+     ^Paciferaeque manu ramum praetendit olivae~
+      [^Aeneid.~ VIII, 115].
+
+	|75.  Quasi obbliando~ ec.: quasi di vista perdendo il
+fine per cui erano state l@i condotte; perch@e cio@e entrassero in
+Purgatorio a scancellar quelle reliquie di peccato, ch'erano in
+esse.
+
+	|76.  Io vidi una di loro trarsi avante~ la Nidob., ^I'
+vidi una di lor trarresi avante~ l'altre edizioni.
+
+	|79.  Oi ombre~ la Nidob., ^O ombre~ l'altre edizioni.
+
+	|81.  E tante~ ec., mi tornai cio@e senza stringer nulla. 
+@E imitazione Virgiliana, dice il Landino,
+
+     ^Ter conatus ibi collo dare brachia circum~,
+     ^Ter frustra comprensa manus effugit imago~ 
+      [^Aeneid.~ VI, 695].
+
+	|82.  Di maraviglia mi dipinsi~ per ^mi feci scorgere
+maravigliato.~
+
+	^Non veggo~, dice qu@i 'l Castelvetro, ^perch@e Dante si
+dovesse dipingere di maraviglia perch@e non potesse abbracciar
+l'anima d'un morto.  Rispondi; in Inferno aveva veduto e provato
+il contrario, prendendo i capelli di Bocca Abati, ed essendo
+stato posto nel pozzo da Anteo, e portato in groppa da Gerione, e
+da Nesso Centauro; in guisa che si doveva poter maravigliare di
+ci@o, come di cosa nuova.  Ma @e contrario questo a quello ch'ei
+dice~ [Inf. canto VI v. 35 e seg.] e ponevam le piante sopra lor
+vanit@a, che par persona.  ^E nel Purgatorio stesso~ [canto VI, v.
+75] ^parlando di Sordello e di Virgilio dir@a~: e l'un l'altro
+abbracciava.  ^E perch@e altri potrebbe dire, che questo pu@o aver
+luogo tra anime di abbracciarsi, vedi che parimente non ha luogo
+tra anime Purg. canto XXI v. 130 e segg. cio@e tra Virgilio e
+Stazio~ [^Opere varie critiche~ pag. 161].
+
+	^Non @e da dire~, risponde il Mazzoni, ^ch'egli~ [Dante]
+^si sia contrario: perciocch@e quando ha tribuite le qualit@a
+corporee agli apiriti, ha parlato figuratamente, secondo
+l'equivoco dell'usanza degli uomini: e quando le ha in tutto
+levate via dagli spiriti medesimi, ha propriamente favellato.  E
+cos@i devonsi ancora solvere alcune contradizioni simili, che si
+trovano in Omero, in Virgilio, e negli altri buoni poeti~
+[^Difesa di Dante~ lib. I cap. 27].
+
+	Osservando io per@o, che non rende mai Dante impalpabile
+veruno dannato; ma che i soli salvi fa essere ora palpabili, ora
+no; entrami dubbio, ch'egli, non per errore, o per imitazione
+d'altrui, ma per proprio sistema, allusivo alle massime della
+Cristiana nostra religione, ponga tale divario.
+
+	Noi sappiam dal Vangelo che 'l sacratissimo Corpo del
+nostro Signor Ges@u Cristo dopo la gloriosa risurrezione [modello
+de' corpi, che si riuniranno agli eletti] ora si rendeva
+impalpabile, e penetrante le pareti del cenacolo [^Ioan.~ 20], ed
+ora palpabile a' discepoli [^Luc.~ 24].
+
+	Chi sa, che 'l misteriosissimo nostro autore non voglia
+nell'ombratile corpo, che attribuisce agli spiriti, anticipata
+negli eletti quella libert@a, ch'avranno, di rendere i suoi corpi,
+come loro sar@a a grado palpabili, ed impalpabili, e ne' dannati
+al contrario la necessaria palpabilit@a, che soffriranno?
+
+	Comunque per@o siasi la cosa, malamente apprende il
+Castelvetro, che quanto dice Dante nell'indicato luogo, ^e
+ponevam le piante sopra lor vanit@a che par persona~, sia
+contrario ai fatti che narra essergli occorsi con Bocca Abati, e
+con quegli altri dannati.  Imperocch@e appunto, acci@o la vanit@a di
+quegli spiriti paresse ^persona~, cio@e corpo, doveva non solo
+sostenere le piante di chi sopra vi camminava, ma in oltre fare e
+patire tutto ci@o, che fa e patisce un vero corpo.
+
+	Ma neppure al fatto, d'essersi Virgilio e Sordello
+abbracciati, pu@o certamente pronunziarsi contraddittorio il
+parlar di Virgilio a Stazio, ^Frate non far, che tu se' ombra, e
+ombra vedi~; e quel rispondere di Stazio, ^Or puoi la quantitate
+comprender dell'amor che a te mi scalda, quando dismento nostra
+vanitate, trattando l'ombre come terra salda.~  Imperocch@e da
+questo parlare e rispondere non si pu@o discernere se giudicassero
+impossibile l'abbracciarsi tra di loro, o se riputassero
+inconveniente al loro alto sapere [essendo ambidue uomini dotti,
+qual non era Sordello] l'essere mossi da ombratili apparenze.
+
+	|85.  Posasse~, antitesi, per ^posassi~, fermassimi cio@e
+dallo sforzo di abbracciarla.
+
+	|86.  Conobbi chi era~, cio@e, come in appresso dir@a,
+certo eccellente musico nomato ^Casella~, del cui canto erasi
+Dante compiaciuto assai.
+
+	|91-92.  Casella mio per~ ec.  Faccio questo viaggio, non
+per restare, ma per tornarmene erudito dalle vedute di qu@a pene e
+premi a viver altra volta meglio |l@a dove io sono~, dove tengo
+stanza, nel tristo mondo.
+
+	Il Castelvetro, ed il Venturi in maniera troppo forzata
+chiosano ^l@a, cio@e in Paradiso, dove i' son tutto coll'animo, e
+col pensiero.~  E peggio gli altri espositori intendono per |l@a~
+indicato il luogo stesso ov'era Dante mentre cos@i favellava,
+facendo equivalere |l@a~ a ^qu@a.~
+
+	|93-102.  Ma a te com'era tanta terra tolta~?  Cos@i la
+Nidobeatina, e l'Aldina, e pi@u di novanta mss. veduti dagli
+Accademici della Crusca; e istessamente i mss. della Corsini n.
+608, 609, 610, 1217, 1265.
+
+	Ai medesimi Accademici nondimeno per l'autorit@a di soli
+quattro altri mss. @e piaciuto di mutare e leggere in vece:
+^Diss'io, ma a te come tant'ora @e tolta~? e ne allegarono con
+postilla in margine la seguente ragione: ^Dicendosi~ tanta terra
+^non ci pare che possa cavarsene senso buono: perch@e 'l Poeta
+cerca saper la cagione perch@e il tempo, non il luogo, gli sia
+tolto di purgare i peccati.~  Essi cio@e suppongono, siccome la
+comune degli espositori tiene, che fosse Casella morto assai
+prima del tempo in cui finse Dante questo suo viaggio, e che
+faccialo, quel mar tragittando, venire da cert'altro luogo fuori
+del mondo nostro, ove dal punto di sua morte fino allora restato
+fosse ad aspettar quel tragitto, in pena di essere in vita stato
+negligente ad abbracciare la penitenza.
+
+	Agli stessi Accademici a cagione di detta supposizione
+riusc@i a grado d'incontrare in altri due mss., omessa nel v. 100
+la particella |ora~, e scritto ^Ond'io, che era alla marina
+volto~, in vece di |Ond'io, ch'er'ora alla marina volto~, come
+tutti gli altri mss. leggevano, e coll'Aldina legge anche la
+Nidobeatina.  Imperocch@e, se pe 'l rivolgersi di Casella |alla
+marina, dove~ ec. dee intendersi un'azione di Casella ancor
+vivente [come tale la intendono tutti gl'interpreti, quantunque
+tra di loro discordi nello specificatamente determinarla] sempre
+la particella |ora~ verrebbe ad importare la morte di Casella di
+fresco segu@ita: e non, com'essi Accademici vogliono suppore,
+molto tempo innanzi al tragitto di quel mare.
+
+	Per molte per@o e valide ragioni mi sembra che si debba
+tale quantunque comune supposizione rigettare, e che non si abbia
+ad ammettere Casella morto se non appunto nel tempo stesso del
+poetico viaggio.
+
+	Primieramente pe 'l salmo ^In exitu Israel de Aegupto~
+{v.46}, che cantasi da Casella e dagli altri spiriti in quella
+nave: salmo il quale e pe 'l costume, che fu in addietro, di
+cantarsi il primo sopra i cadaveri, che dalle case si levavano
+per trasferirsi alle chiese [Vedi 'l Rituale d'Antonio Santorio
+Cardinale di s. Severina nel capo delle esequie de' morti], e per
+coerenza al parlare di Beatrice nel canto XXV del Paradiso v. 55
+[Dice ivi Beatrice venuto Dante ^d'Egitto~ in vece di dirlo
+venuto dal mondo], e finalmente per espressa chiosa del Poeta
+medesimo nella sua lettera a Can Grande [Spiegando in quella
+lettera i vari sensi delle riferite parole del salmo, dice che
+giusta l'analogia ^significatur exitus animae sanctae ab huius
+corruptionis servitute ad aeternam gloriae libertatem~], denota,
+che allora allora scampassero quelle anime dalla schiavit@u di
+questo mondo, ed assicurassero ivi la loro sorte.
+
+	In secondo luogo, per la risposta, che si fa Dante
+rendere da Casella
+
+     . . . . . . ^nessun m'@e fatto oltraggio~
+        ^Se quei, che leva e quando, e cui li piace~,
+        ^Pi@u volte m'ha negato esto passaggio~;
+
+nella qual risposta attribuisce Casella la tardanza del suo
+passare col@a ad occulta disposizione di Dio eseguita pe 'l suo
+angelo.  Dove, intesa per tal passaggio la liberazione dal mondo
+per mezzo della morte, vi sta ben detto, ed @e conforme appunto
+alla sentenza dell'Ecclesiastico ^vita & mors a Deo sunt~ [Cap.
+II v. 14].  Al contrario, ammettendosi che venisse Casella
+d'alcun luogo dell'altro mondo, ci scosteremmo e dal dettame
+evangelico, che rendaci Iddio di l@a ragione de' premi e de'
+gastighi, ^venite benedicti~ ec., ^esurivi enim et dedistis mihi
+manducare~ ec., ^discedite a me maledicti~ ec., ^esurivi enim, et
+non~ ec. [^Matth.~ XXV], e dal costume altres@i del poeta nostro
+medesimo, che da per tutto usa di fare alle anime tal ragione
+manifesta.  Cos@i, per esempio, nel fine del canto IV della
+presente cantica fassi da Bellacqua rispondere
+
+     ^Prima convien, che tanto 'l ciel m'aggiri~
+        ^Di fuor da essa, quant'io feci in vita~;
+        ^Perch@e indugiai alfin li buon sospiri~ 
+           [V. 130 e segg.].
+
+	In terzo luogo, perch@e in questo medesimo incontro fa
+Dante essere Casella negligente a portarsi al Purgatorio; e ne lo
+fa perci@o sgridare da Catone ^Qual negligenzia~ ec. [Verso 121]. 
+A che dunque per purgarlo di tal difetto avrebbelo fatto altrove
+arrestare?
+
+	In quarto luogo.  Partendosi Dante dalla spiaggia dove
+Casella approd@o, e salendo il monte, trova alle falde di quello
+in vari luoghi brigate di spiriti, ai quali, in pena della
+negligenza loro ad abbracciare la penitenza, viene vietato di
+salire al luogo de' ^mart@iri.~  Il perch@e, se avesse Dante
+supposto morto Casella molto innanzi a quel tempo, e volutolo per
+simile negligenza punito, dovrebbe lui pure avere per quella via
+trovato, e non farlo d'altronde sopraggiungere.
+
+	In quinto luogo finalmente, perch@e questa oltre quel
+mare, dove Casella dopo morte aspettato avrebbe il tragitto,
+sarebbe l'unica stanza d'anime, alla quale non sarebbe Dante nel
+misterioso suo viaggio pervenuto: e malamente perci@o nel XXIII
+della presente cantica direbbe a Forese
+
+     ^Come se' tu quass@u venuto? ancora~
+        ^Io ti credea trovar laggi@u di sotto~,
+        ^Dove tempo per tempo si ristora~ 
+         [Verso 83 e segg.].
+
+Imperocch@e se fossesi trovato Forese ancora nel luogo, dove
+vuolsi che restasse Casella prima di venire a quella spiaggia,
+non avrebbelo Dante trovato in nessun luogo.
+
+	Per queste ragioni, e per non vi essere storia in
+contrario, mi par meglio che, tra la molta gente, che riferisce
+il Manni nella ^Storia degli anni santi~ [anno I] d'essere perita
+nel pellegrinaggio a Roma pe 'l giubbileo dell'anno 1300 [anno di
+questo poetico viaggio] intendasi morto anche Casella, e nel
+tempo appunto in cui pervenne Dante al Purgatorio [che, secondo
+lo altrove stabilito [Tal giorno ed ora appunto riescono
+ponendosi per base ci@o ch'@e detto nel canto XX dell'Inf. v. 128,
+che il primo avvenimento che Dante narra, cio@e lo smarrimento
+nella ^selva oscura~, succedesse nella notte tra 'l quarto e
+quinto giorno di aprile.  Eccome il conto in ristretto.  La detta
+notte passala errando perso nella selva [Inf. I, 17].  Il giorno
+seguente, il 5 aprile, impiegalo in contrastare colle incontrate
+fiere, e nell'imbrunire dell'aria entra nell'Inferno [Inf. II,
+1].  Tutta quella notte ed il giorno appresso, cio@e il giorno 6
+aprile, spende in visitar l'Inferno da cima a fondo [Inf. XX,
+124, e XXXIV, 68].  Nel far della notte passa il centro della
+terra, e sale pe 'l ^cammino oscuro~ all'altro emisfero, e
+v'impiega tutta quella notte e 'l giorno appresso, cio@e il giorno
+7 aprile [computa Dante veramente prima il giorno e poi la notte;
+ma avvertasi che ^qu@i @e da man, quando di l@a @e sera~], e
+nell'incominciar della notte, o sia nell'incominciar del giorno
+di l@a sotto, vede venir la nave che porta Casella], verrebbe ad
+essere la sera del d@i 7 aprile]; e che perci@o faccialo Dante esso
+veggente giungere col@a.
+
+	Ecco come a questo modo, senza bisogno alcuno di quella
+mutazione che hanno fatta nel testo gli Accademici, sembra che
+tutto possa a buon senso condursi.
+
+	Supponendo Dante che ardesse in Casella, mentr'era vivo,
+quel pio desiderio, ch'espressamente dice essere arso in que' tre
+altri coetanei suoi, Currado da Palazzo, Gherardo da Camino, e
+Guido da Castello
+
+     . . . . . . ^che par lor tardo~
+     ^Che Dio a miglior vita li ripogna~ 
+     [Purg. XVI, 122],
+
+dopo di avere ne' due versi precedenti accennato se essere
+indegno di rimanere in quella fortunata regione, n@e esservi
+pervenuto che per imparare la riforma de' propri rei costumi,
+prosiegue
+
+        |Ma a te com'era tanta terra tolta~?
+
+ma a te, o Casella, che pur eri d'ottimi costumi [di facile
+natura, e di lieti costumi dicelo a buon conto il Landino]
+|com'era tolta tanta terra~, com'era negata tanto desiderabile
+regione?  ^Tanta compagnia, tanta gemma~ ec. diciam noi
+comunemente in vece di ^compagnia tanto desiderabile~, di ^gemma
+tanto pregiabile.~
+
+     |Ed egli a me: nessun m'@e fatto oltraggio~
+        |Se quei, che leva e quando e cui gli piace~,
+        |Pi@u volte m'ha negato esto passaggio~;
+     |Che di giusto voler lo suo si face.~
+
+Pi@u fiate, egli @e vero, la mia ardente brama ebbe ripulsa; ma non
+per@o ingiustamente: imperocch@e il voler di colui che leva dal
+mondo l'anime, @e diretto dal giustissimo voler d'Iddio.
+
+     |Veramente da tre mesi egli ha tolto~
+        |Chi ha voluto entrar con tutta pace.~
+
+Il fatto per@o fu, che da tre mesi a questa parte [il tempo
+intendi che durava in Roma il giubbileo [L'autore della ^Storia
+letteraria d'Italia~ nel volume 2 lib. I cap. 4 {paragraph.} 6
+avendo col sig. Domenico Maria Manni nella suddetta ^Storia degli
+anni santi~, osservato che la bolla ^Antiquorum~ di Bonifazio
+VIII pe 'l mentovato giubbileo, fu data li 22 febbraro 1300 vuole
+che si dicano ^tre mesi~ per solo aggiungersi all'intiero marzo
+porzione di febbraro, e porzione d'aprile [il residuo cio@e di
+febbraro dopo il giorno 22 in cui fu data la bolla, e i pochi
+giorni di aprile, ch'erano scorsi quando giunse Dante al
+Purgatorio], e censura Monsignor Fontanini perch@e nella sua
+^Eloquenza Italiana~ lib. 2 cap. 19 suppone che incominciasse
+quel giubbileo dalle feste natalizie del 1299 e durasse perci@o
+tre veri ed intieri mesi gennaro, febbraro, e marzo.  Poteva per@o
+facilmente e doveva l'autore della ^Storia letteraria~ avvertire,
+che la bolla stessa di Bonifazio dichiara durato gi@a quel
+giubbileo anche anteriormente, ^a festo nativitatis Domini nostri
+Iesu Christi praeterito~; a tenore cio@e della tradizione, che gi@a
+nella chiesa vigeva, che in ogni anno centesimo fosse in Roma il
+giubbileo: e che non volle il Papa con quella bolla altro che
+certificare vie pi@u e perpetuare la medesima tradizione]], ha
+egli |con tutta pace~, di tutto buon grado, |tolto chi ha voluto
+entrare~, ricevuto in sua navicella chi ha voluto entrarvi.
+
+	Dee il Poeta, quant'io intendo, piamente supporre che la
+molta gente, per testimonianza del sopraccitato Manni, perita nel
+pellegrinaggio per quel giubbileo, fossero anime desiderose di
+passare agli eterni beati riposi; e che dopo l'acquisto del
+giubbileo fossero da Dio esaudite, e tra esse anche Casella:
+facendo nel tempo stesso che il medesimo Casella accenni che no
+'l pigliasse l'angelo prima, per pigliarnelo dopo l'acquisto del
+giubbileo:
+
+     |Ond'io, ch'or'ora alla marina volto~
+        |Dove l'acqua del Tevere s'insala~,
+        |Benignamente fu' da lui ricolto.~
+
+	Ritornandomene io adunque poco fa da Roma, ov'era stato
+pe 'l giubbileo, e rivolgendomi verso il mare in cui mette il
+Tevere, cio@e verso il cos@i detto ^mar di Toscana~ [in nave forse
+per Tevere stesso discendendo, affine di restituirsi in Toscana
+per la via di mare], benignamente furono i voti miei dall'angelo
+esauditi, e dall'Egitto del tristo mondo fui a questa terra di
+salvazine condotto.
+
+	|103.  A quella foce~ [del Tevere] |ha egli or dritta
+l'ala.~  Cos@i leggono quattro mss. veduti dagli Accademici della
+Cr., e tre anche da me veduti, uno della Vaticana [Num. 2866], e
+due della Corsini [Uno col n. 609 l'altro non per anche
+numerato], ed uno pure veduto dal Daniello.  E la ragione di
+doversi leggere cos@i ne la rende il Daniello stesso chiarissima;
+imperocch@e a questo modo non si ferma il Poeta a indicar
+novamente la foce gi@a indicata bastantemente due versi sopra
+[come cio@e fermerebbesi leggendo colla comune ^A quella foce
+ov'egli ha dritta l'ala~], ma passa a render ragione perch@e a
+quella facesse l'Angelo ritorno, -- |ha dritta l'ala~ vale
+^indirizza il corso.~
+
+	|104-105.  Quivi~ significa il medesimo che ^l@a, in quel
+luogo~ -- |Acheronte~ fiume dell'Inferno per l'Inferno medesimo
+-- ^si ricoglie Qual verso d'Acheronte~ leggono l'edizioni dalla
+Nidob. diverse.  Pe 'l Romano lido, ove il Tevere ha foce,
+intende Dante la cattolica Romana chiesa: e pe 'l non riceversi
+dall'angelo anime se non al detto luogo, vuole intesa la massima,
+che fuor della cattolica Romana chiesa non pu@o alcuno sperare
+l'eterna salvezza.  ^Ego~ [protesta s. Girolamo a s. Damaso Papa
+scrivendo] ^nullum primum nisi Christum sequens, Beatitudini
+tuae, idest cathedrae Petri, communione consocior.  Super illam
+petram aedificatam ecclesiam scio.  Quicumque extra hanc domum
+agnum comederit profanus est.~  Ep. 57.
+
+	|106-107.  Non ti toglie memoria, o uso~, non ti ha reso
+dimentico di tua arte musica, o non ti permette di qu@i
+esercitarla.
+
+	|108.  Voglie~, per passioni d'animo.
+
+	|110.  Con la sua persona~, col suo corpo; come ^par
+persona~ in vece di ^pare corpo~ dice pur nell'Inf. VI, 36.
+
+	|111.  E' affannata~, intende per l'orribili pene vedute
+nell'Inferno.
+
+	|112.  Amor~ ec.  Introduce il Poeta Casella a cantar una
+delle sue canzoni, e forse la pi@u bella e pi@u grave ch'egli
+componesse ed interpretasse, come si vede nel suo Convito, nel
+quale essa tiene in ordine il secondo luogo tra le altre. 
+Daniello.
+
+	|119.  Ecco il veglio~, Catone soprammentovato.
+
+	|122-123.  Al monte~, nella falda del quale stava il
+Purgatorio -- |a spogliarvi lo scoglio, che~ ec.  Il verbo
+^spogliare~ non permette che per |scoglio~ intendasi qu@i ci@o che
+comunemente a d@i nostri intedesi, un masso cio@e in mezzo al mare,
+o in riva ad esso; ma esigge quell'altro significato, a cui si
+rinviene anticamente essere stato da buoni Italiani scrittori
+esteso, d'^integumento~ e di ^scorza.~  |Scoglio~ [tra i molti
+altri esempi che nel Vocab. della Cr. si possono vedere] appella
+Pier Crescenzi quella buccia verde, che veste l'avellana, e
+tienla attaccata all'albero: ^le avellane~, dice, ^manifestano la
+loro maturitade, quando da' loro scogli si partono~ [^Agric.~
+lib. 5 cap. 3].  Anzi s'@e vero quanto scrive s. Isidoro
+nell'^Etimologie~ [Lib. 16 cap. 3], che possa il Latino
+^scopulus~ derivare dal Greco %sigma%chi%varepsilon%pi%eta\;
+significando %sigma%chi%varepsilon%pi%eta\ lo stesso che
+^integumento~, ^scorza~ [Vedi ^Schrevelii lexic.~ art.
+%Sigma%chi%varepsilon%pi%omega\], avrebbe una volta dovuto essere
+suscettibile del significato medesimo anche il Latino ^scopulus.~ 
+Ignorando il Castelvetro cotal altro significato della voce
+Italiana |scoglio~, s'@e mosso a censurare il presente passo
+dicendo, che ^lo scoglio si rimove, si spezza, si rompe, si fora
+ec., ma non si spoglia~ [^Opere crit. varie~ pag. 162]. 
+Spogliarsi adunque l'anime dello scoglio, che non lascia loro
+veder Dio, sar@a togliere il sozzo velame della colpe, che che le
+ricopre: e sar@a frase buona, anzi somigliante a quella di s.
+Paolo ^expoliantes veterem hominem cum actibus suis~ [^Ad
+Coloss.~ 3 v. 9].
+
+	|124-126.  Come quando~ ec.  Tace per ellissi il verbo
+^stanno~, e dee farsi la costruzione cos@i: |Come quando gli
+colombi adunati alla pastura queti, senza mostrar l'usato
+orgoglio~, ^stanno~ |cogliendo biada, o loglio.~  |Biada o
+loglio~ per ^semi buoni o rei~: e per |l'usato orgoglio~ quel
+roteamento intendi a mormorio, che fanno i colombi di continuo.
+
+	|127.  Ond'elli~ la Nidob., ^ond'egli~ altre edizioni.
+
+	|130.  Masnada~ per ^compagnia~ semplicemente, come Inf.
+XV, 41.  -- |fresca~, di fresco giunta a quel luogo.
+
+	|131.  Gire inver~ la Nidobeatina, ^gire 'nver~ l'altre
+edizioni.  -- |costa~ per ^monte.~
+
+	|132.  Com'uom~ ec., mostrando cio@e, col girar
+dell'attonito sguardo qu@a e l@a, di non saper dove s'andassero.

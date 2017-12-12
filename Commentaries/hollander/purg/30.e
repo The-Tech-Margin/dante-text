@@ -1,0 +1,951 @@
+	|1-7.~  This first simile in a canto that is heavily similetic seems
+deliberately difficult.  Puzzled out, it compares the sevenfold spirit
+of the Church Triumphant, toward which all in the procession now turn
+for guidance as they do above in the Empyrean, to the Little Dipper,
+which locates the North Star for earthly navigators.  The first heaven
+is either that of the moon (starting upward from earth) or the Empyrean
+(starting from the other end of Dante's universe).  Since there are no
+groups of stars in either of these spheres, we realize immediately that
+we are here dealing with metaphoric language.  (Sam Glucksberg's book
+[^Understanding Figurative Language: From Metaphors to Idioms~ (Oxford:
+Oxford University Press, 2001)] on figurative language begins [p. 3]
+with the story of a colleague of his who, a linguist, was on his way to
+a conference in Israel.  Interrogated by security personnel at the
+airport, he said he was going to a conference on metaphor.  His
+interrogator wanted to know what metaphor is.  When the linguist
+hesitated, as one might well do, he was dragged away for an hour's
+worth of detention and questioning before a local professor could vouch
+for his credentials and help set him on his way.)  The sevenfold Spirit
+of God [see the note to ^Purg~. XXIX.64-66]) seems clearly to be
+identified with the Holy Spirit, one aspect of the triune God in the
+Empyrean.  Porena (comm. to vv. 1-9) points out that the stars of the
+constellation Ursa (whether Major or Minor) were construed as seven
+ploughing oxen, ^septem triones~, as is reflected in Dante's word
+'settentr,ion' (which may reflect Virgil's 'septem... trioni' at
+^Georgics~ III.381).  Sapegno (comm. to verse 1) noted that Dante had
+already (^Rime~ C.29) referred to 'le sette stelle gelide unquemai'
+(referring to Europe, located in the hemisphere that 'never [loses] the
+seven freezing stars'), translating Boethius's 'septem gelidi triones'
+(seven frigid oxen -- ^Cons~. II.6m.10), also cited (later) in
+^Monarchia~ II.viii.13.  This higher sevenfold spirit, unlike Ursa
+Minor, never rises or sets but is constantly glowing with charity; it
+is also never hidden by a clouded sky, even though it is not visible to
+us because we exist in a 'cloud' of our own sinfulness.
+
+	|8-9.~  The twenty-four elders, representing the Old Testament, turn
+toward the chariot as to the awaited messiah who, in His first coming,
+crowned their time of militance with peace and who now will come in
+Judgment.  See Ephesians 2:14, 'Ipse enim est pax nostra' (For He is
+our peace), a text cited by Singleton (comm. to verse 9).  Since the
+procession in the garden represents the Church Triumphant, the mystical
+body of Christ ^after~ its progress through history, it seems advisable
+to realize that we deal here with a scene that is meant to reflect the
+final advent of Christ for the Day of Judgment.  See Singleton
+(^Journey to Beatrice~ [Cambridge: Harvard University Press, 1967
+(1958)]), pp. 72-85, citing St. Bernard on the three advents of Christ
+(^Patrologia Latina~ 183, col. 35ff.).  See also Thomas Merton ("Le
+Sacrement de l'Avent dans la spiritualit$e de saint Bernard," ^Dieu
+Vivant~ 23 [1953], pp. 23-43), Mark Musa (^Advent at the Gates~
+[Bloomington, IN: Indiana University Press, 1974]), and the note to
+^Purgatorio~ VIII.103-108.
+
+	|10-12.~  The elder who sings alone is clearly the Song of Songs,
+whether the book itself or its 'author,' Solomon, his words repeating
+the phrasing 'Veni..., veni..., veni' of the Canticle of Canticles 4:8
+('Come from Lebanon, my bride, come from Lebanon, come').  We would be
+forgiven if we believed we were about to witness a wedding ceremony of
+some kind, featuring Beatrice in the role of bride.  A strange
+'wedding' it will turn out to be, characterized by tears more than by
+smiles.  In fact, no canto in the poem displays more words for weeping
+than this one (^Inferno~ XXXIII has exactly as many): ^lagrime~ (vv.
+91, 145), ^lagrimando~ (54), ^piangere~ (56, 57, 107, 141).
+
+	Eugenio Chiarini ("^Purgatorio~ Canto XXX," in ^Lectura Dantis
+Scaligera~ [Florence: Le Monnier, 1967]), p. 1112, points out that
+these verses constitute the longest sentence (12 lines) in the poem.
+
+	|13-15.~  The reference is to the trumpet blast that will summon the
+souls of the dead to judgment (I Corinthians 15:52).
+
+	The word 'hallelujah' seems so familiar that it may be surprising to
+discover that it occurs (and occurs four times) only in a single
+biblical text, the nineteenth chapter of John's Book of Revelation,
+where the saints (Apoc. 19:1, 19:3), the elders and the four gospel
+beasts (Apoc. 19:4), and a great multitude (Apoc. 19:6, reasonably
+understood as the souls of the blessed, to whom, in fact, Dante refers
+here) all cry out this word in welcome of the coming reign of the true
+God and of his Judgment.
+
+	There have been and remain disputes about the words ^voce~ (voice) and
+^alleluiare~ as well as the grammatical construction in verse 15.  We
+have followed Petrocchi (^La Commedia secondo l'antica vulgata~
+[Florence: Le Lettere, 1994 (1966)], vol. I, Introduzione), pp. 218-20,
+in agreement with the decisions he has made, which seem all the
+stronger for being in complete accord with the gloss found in Benvenuto
+da Imola (comm. to vv. 13-18): the saved souls will sing songs of
+praise with the restored bodily instruments they possessed in their
+first lives.  The manuscript tradition produced two major variants
+here, ^alleviare~ (to lighten) rather than ^alleluiare~ (to sing
+hallelujah), ^carne~ (flesh) rather than ^voce~.  Some also question
+(e.g., Chiavacci Leonardi [^Purgatorio, con il commento di A. M. C. L.~
+(Milan: Mondadori, 1994)], p. 903) the notion that Dante is here using
+a rare (for him) ablative absolute, as most believe he in fact is.  In
+order to support that reading, such as Chiavacci Leonardi must
+interpret the verb ^alleluiare~ to mean 'to make beautiful with a
+hallelujah,' which, given the context of Revelation 19, seems
+palliative, a rather latter-day pre-Raphaelite reading of the verse.
+
+	|16-18.~  As will arise all those who will be saved at the Last
+Judgment, a hundred angels ('ministers and messengers of life eternal')
+rise up upon the chariot itself to welcome Beatrice, who, in a moment,
+will come to it.  Where do these angels come from?  We are not told
+whether they suddenly manifest themselves upon the chariot now just as
+Beatrice comes, or descended from the Empyrean with her, or with the
+chariot when it came to show itself to Dante in Eden.  See the notes to
+^Purgatorio~ XXXI.77-78 and XXXII.89-90.
+
+	These Beatricean angels have a pre-history.  In ^Vita nuova~ XXIII.7
+Dante imagines Beatrice's death and sees a band of angels who return
+with her to heaven, mounting after a little white cloud, and singing
+'Osanna in altissimis.'  Charles Singleton (^Commedia, Elements of
+Structure~ [Cambridge: Harvard University Press, 1965 (1954)]), p. 57,
+was perhaps the first to make the necessary connections between that
+scene and this one.  This procession began with voices singing
+'Hosanna' (^Purg~. XXIX.51); Beatrice returns with her host of angels
+and again she is obscured by a cloud.  The affinities between the two
+scenes and the Bible are even more suggestive than Singleton noticed.
+In the prose of ^Vita nuova~ XXIII Dante says that he seemed to hear
+the words 'Osanna in excelsis.'  The precise phrase occurs -- strange
+as it may seem, given its familiarity -- only once in the Latin New
+Testament, in Mark 11:10.
+
+	These verses draw Dante's imagining of Beatrice's departure from this
+life in ^Vita nuova~ into obvious relation to his presentation of her
+return to earth here in the garden of Eden.  In both cases the word
+'Hosanna' associates her with Christ's triumphal entry into Jerusalem:
+in the ^Vita nuova~, the New Jerusalem that is life eternal in the
+Empyrean; here, a triumphant descent to earth modeled on Christ's
+return in judgment.  It is thus that one can answer Peter Armour's
+question (^Dante's Griffin and the History of the World: A Study of the
+Earthly Paradise ["Purgatorio" XXIX-XXXIII]~ [Oxford: Clarendon, 1989],
+pp. 56-58): if Beatrice represents Christ (and Armour believes that she
+does), then how can the griffin also do so?  The griffin stands for
+Christ as the equivalent of his Church, His mystical body, represented
+by the chariot.  The reader might imagine a film version of this scene,
+with all the 'characters' in the procession (but not Dante and Matelda
+-- or Statius and Virgil) as cartoon figures, and Beatrice played by a
+living actress.  The Church Triumphant, appearing on this unique
+occasion in the earthly paradise for the instruction of Dante, is
+otherwise always located in the Empyrean (whence it will descend for
+his instruction in actuality, not only symbolically, in ^Paradiso~
+XXIII), awaiting a future and final series of events.  Beatrice comes
+as Christ will come in that future, in the Second Coming (his third
+advent -- see the note to vv. 8-9).  This temporal distinction helps us
+to understand that there is indeed a difference between the symbolic
+griffin and Beatrice as figure of Christ to come in judgment, that
+there is not a question of 'two Christs,' but of two differing kinds of
+representation of the same Christ.  In ^Purgatorio~ XXXII.89-90 we
+learn that the griffin has returned to the Empyrean, leaving Beatrice
+and the chariot behind in the garden, now representing the Church
+Militant's career from its founding into the fourteenth century.
+
+	|16.~  The rare word ^basterna~ has caused difficulty.  Benvenuto
+(comm. to vv. 13-18) says that it is a vehicle made of soft skins, used
+to transport noble women; he suggests that it fits the context here
+because it is drawn by two animals (this chariot, he notes, is pulled
+by a two-natured beast) and because Beatrice is the most noble of
+women.  According to Servius's gloss of ^Aeneid~ VIII.666 (cited first
+by Lombardi [comm. to this verse] and then by Trucchi [comm. to vv.
+13-21]), the ^basterna~ was a cart, festooned with veils, found in
+Gaul, where it was used to transport chaste matrons to sacred festivals.
+
+	|17.~  The Latin phrase ^ad vocem tanti senis~ (at the words of so
+great an elder) is Dante's own, opening a series of three rhyming Latin
+endings of lines, the next two from Mark and Virgil respectively.  The
+effect is to make three Latin 'authors,' Dante, Mark, and Virgil, each
+contribute part of a Latin verse for the advent of Beatrice.
+
+	|19.~  Beatrice's hundred angels cite the first of the two master
+texts for this poem found in this tercet, the Bible and the ^Aeneid~.
+The clause 'Bless@ed are you who come' (with the adjective given a
+startling masculine ending, not the feminine that would seem a more
+fitting accompaniment to Beatrice) is derived from the account of
+Christ's entry into Jerusalem found in Mark 11:9-10: 'And they that
+went before, and they that followed, cried, saying, "Hosanna;
+Bless@ed is he that comes (^Benedictus qui venit~) in the name of
+the Lord.  Bless@ed be the kingdom of our father David, that comes
+in the name of the Lord: Hosanna in the highest" (^Hosanna in
+excelsis~).'  While Matthew (21:9) and John (12:13) also report the
+'Hosanna' and the blessedness of him who comes in fulfillment of the
+prophecy in Zechariah 9:9, only Mark has the words almost exactly as
+Dante has them in this passage and in ^Vita nuova~ XXIII.7 (see the
+note to vv. 16-18 and Hollander ["Dante's Use of the Fiftieth Psalm,"
+^Dante Studies~ 91 (1973)], p. 146).
+
+	Dante could just as easily have said 'benedicta' as 'benedictus';
+neither rhyme nor meter forced his hand.  We must therefore understand
+that the scandalous regendering of Beatrice caused by the correct citation
+of Mark's gospel is deliberate.  It seems clear that the poet wants his
+reader to realize that her meaning, her eventual identity, is totally
+involved in Christ.  And thus she comes as Christ, not as herself. See
+the similar remark of Chiavacci Leonardi (comm. ^Par.~ XVIII.63), for
+whom Beatrice is the 'clear manifestation of divine reality.'
+
+	|20.~  The angelic strewing has reminded commentators, at least since
+the time of Daniello (comm. to vv. 19-21), of the strewing of palm
+fronds in the path of Jesus on what became known as Palm Sunday.
+
+	|21.~  The Latin is Virgilian (^Aen~. VI.883): 'Give lilies with full
+hands.'  This is the climax of Anchises' tearful and prophetic speech
+about the future of Rome and the dreadful loss of Marcellus, the
+adoptive son of Augustus who was to rule Rome after the emperor's
+death, but who beat his 'father' to the grave.  In Virgil's text the
+lilies are flowers of mourning; in Dante's they seem rather to be
+associated with (according to Pietro di Dante [comm. to verse 20]) the
+Song of Songs (2:1), when the bride describes herself as the ^lilium
+convallium~, 'lily of the valley,' a wildflower, not a cultivated
+plant.  Dante will later associate lilies with the apostles (^Par~.
+XXIII.74).  Traditionally, a flowering bough in the form of a lily was
+borne by the angel Gabriel in depictions of the Annunciation, denoting
+the chastity of Mary (see Fallani's comment to ^Par~. XXIII.112).  It
+seems clear that here the lilies are relocated symbolically, losing
+their tragic tone for a 'comic' and celebratory one; they have a
+positive and redemptive valence, not the funerary significance that
+they have in Virgil's line.  At the same time, for those of us who are
+thinking of Virgil as well as of Beatrice, they do underline our (and
+soon Dante's) sadness at this 'death' of Virgil in the poem.  In that
+respect the verse functions in both a 'Beatricean' and a 'Virgilian'
+mode.  For a remarkably 'Dantean' and Christian reading of Virgil's
+verse by St. Ambrose, see Lino Pertile (^La puttana e il gigante: Dal
+Cantico dei Cantici al Paradiso Terrestre di Dante~ [Ravenna: Longo,
+1998]), p. 64.
+
+	This is the closest Dante comes to giving a piece of Virgil's Latin
+text an uninterrupted verbatim presence in his poem.  His Italian 'oh,'
+however, does interrupt the flow of the Virgilian line.  It seems more
+than possible that the exclamation is spoken, since it is uttered by
+her angels, to mark the moment of Beatrice's appearance on the chariot.
+ This may also be the moment at which Virgil disappears -- although
+that hypothesis is perhaps less sustainable.  That the Italian
+interjection 'oh!' is meant to reflect Isidore of Seville's description
+(^Etym~. I.xiv) of interjections (literally, according to Isidore,
+words placed between other words) as being difficult to translate into
+any other language, see Hollander (^Il Virgilio dantesco: tragedia
+nella "Commedia"~ [Florence: Olschki, 1983]), p. 143, n. 46.  The fact
+that Virgil's sad and beautiful Latin line is interrupted by an Italian
+interjection was probably dictated by more than the metrical
+requirements of Dante's hendecasyllabic line.
+
+	|22-33.~  This third simile in the canto, when compared with the
+convoluted first one, is simplicity itself, as though Beatrice's
+presence itself called for a less self-conscious artistry on the part
+of the poet.  Nonetheless, once again Dante's beloved is associated, at
+least intrinsically, by the iconography of the rising sun, with Christ.
+ For a discussion of this and many other of the poet's similarly
+ineffable experiences in the earthly paradise see Giusppe Ledda (^La
+guerra della lingua~ [Ravenna: Longo, 2002]), pp. 223-42.
+
+	|31-33.~  Beatrice, described first by her apparel, is crowned with
+the olive branch, traditionally symbolic of peace but also associated
+with wisdom, since the olive was sacred to the goddess of wisdom,
+Minerva.  The three colors that she wears associate her with faith
+(white), hope (green), and charity (red), the three theological virtues
+we have already seen in the procession (^Purg~. XXIX.121-126).
+
+	|34-36.~  Beatrice died in June of 1290; it is now either the end of
+March or early April of 1300 (see the note to ^Inf~. I.1) and thus
+about two months fewer than ten years since she died.  If the action of
+the poem indeed did begin, in Dante's mind, on Friday 25 March 1300
+(see the note to ^Purg.~ II.94-105), this day is Wednesday 30 March
+1300 or 3/30/1300, literally a perfect day, a ten composed of three
+threes (Beatrice's number in ^VN~ XXIX.3 is nine, or three squared).
+For a recent study of the numerological aspects of Beatrice see Carlo
+Vecce ("Beatrice e il numero amico," in ^Beatrice nell'opera di Dante e
+nella memoria europea 1290-1990~, ed. Maria Picchio Simonelli
+[Florence: Cadmo, 1994], pp. 101-35).
+
+	Virgil had been overcome by ^stupore~ (amazement) a short while ago
+(see the note to ^Purg~. XXIX.55-57); now it is Dante's turn.  Not even
+the man who wrote of Beatrice can encompass the fact of her miraculous
+nature now that he finally experiences it directly and completely.  It
+will take him another ^cantica~ adequately to understand what she means.
+
+	|39.~  The line is clearly reminiscent (if the reminiscence was
+apparently only first noted by Torraca in 1905 [comm. to vv. 34-39]) of
+the opening of Dante's lyric (^Rime~ XCI), 'Io sento s@i d'Amor la
+gran possanza' (So much do I feel Love's mighty power).   Just as was
+the case with Matelda (see the note to ^Purg~. XXVIII.43-48), Dante's
+concupiscent memories and thoughts are at odds with the nature of
+Beatrice.  Yes, she looks exactly like the woman with whom he fell in
+love in Florence; but now it is clear (as it should have been then)
+that she loves him only in Christ.  This distinction will be insisted
+on at ^Purgatorio~ XXXII.7-9.
+
+	The difference in the loves represented by the earlier poem (composed
+in the middle years of the 1290s?) and by this one is emblematized by
+the capital letter of ^Amor~ (Love, as in 'the god of Love,' Cupid) in
+the first, and its absence here.  It is, of course, impossible to know
+whether either or both of these words for ^amor~ was in fact
+capitalized by Dante, especially since questions of punctuation and of
+capitalization in medieval manuscripts are simply not resolvable
+(except, perhaps, when we have an autograph to guide us).  All one can
+say is that modern editors have done well in this instance, that it
+would make sense for Dante to have done as they have.
+
+	|40-42.~  For Dante's earlier references to his first being smitten by
+Beatrice while he was still in his childhood, in fact in his ninth year
+(i.e., while he was still eight), see ^Vita nuova~ II.2 (Andreoli
+[comm. to verse 42]); ^Vita nuova~ XII.7 (Poletto [comm. to vv.
+41-48]); and ^Rime~ CXI.1-2 (Singleton [comm. to verse 42]).
+
+	|43-48.~  The logistics of the movement of the little band of poets
+(Dante, Virgil, Statius) requires that, since Dante has turned 90+o~ to
+face the pageant across the narrow stream, and since they had been
+proceeding due east, Virgil is behind him, and thus to his left.  Had
+the directions necessitated Virgil's being to his right, it seems
+likely that Dante might have chosen not to indicate that.  His turning
+to the left -- the morally less acceptable side -- in Virgil's
+direction gives further grounds for Beatrice's reproof.
+
+	Again Virgil is thought of as a ^mamma~, that strikingly 'vernacular'
+word we have heard applied to him before (in company with the same
+rhyme words) in the salutation addressed to him by Statius (see ^Purg~.
+XXI.95-99 and the note to ^Purg~. XXI.97-99).  See also ^Inferno~
+XXXII.9 and the note to XXXII.1-9.
+
+	Virgil, it may seem, is strangely feminized in Dante's gesture toward
+him.  However, if we consider his nurturing role in the eyes of the
+protagonist, the term is less disturbing.  And once we observe Dante's
+attempt to deal with Beatrice's asperity and her 'masculine' demeanor,
+we can see that the dynamic of this scene is built upon the reversal of
+gender roles, Virgil now seeming gentle and mothering, while Beatrice,
+coming as Christ in judgment (see the note to vv. 16-18), like an
+admiral (see verse 58 and note), seems more like an unforgiving father.
+ Whatever contemporary theoreticians of gender and of 'gendered
+writing' may choose to make of this, it must first be observed that the
+reversals of a usual set of expectations make sense in the economy of
+the scene.  For a concise guide to Dante's adventures at the hands of
+practitioners of the 'new new criticism' of the second half of the
+twentieth century, see Gary Cestaro, "Theory and Criticism
+(Contemporary)," in ^The Dante Encyclopedia~ (ed. Richard Lansing [New
+York: Garland, 2000), pp. 815-818.  His list includes 'American New
+Criticism, structuralism, reader response theory, semiotics,
+post-structuralism and deconstruction, Marxist critique,
+psychoanalysis, feminism, race and gender studies, queer theory.'  His
+examples and bibliography furnish an excellent starting point for
+anyone interested in pursuing such lines of inquiry.
+
+	|43.~  Lombardi (comm. to this verse), against the grain of the more
+usual understanding of this ^hapax~, which holds that the word means
+'uncertainty,' or 'hopeful expectation,' says that it here is a noun
+formed from the verb ^respirare~ (to breathe), here in the sense that
+indicates the panting breath of a terrified child.  Campi (comm. to vv.
+43-45) suggests that this is, if ingenious, a forced reading, and
+prefers that of Bianchi (comm. to this verse) who locates the source of
+Dante's rhyme word in Proven$cal ^respieit~, or 'trust.'  Scartazzini
+(comm. to this verse) accepts this reading but criticizes Bianchi for
+not having credited Vincenzo Nannucci (^Voci e locuzioni italiane
+derivate dalla lingua provenzale~, Firenze, 1840, pp. 121-123).  We
+have followed Nannucci's and Bianchi's interpretation in our
+translation.
+
+	|47.~  For a possible citation here of the sestina of Arnaut Daniel,
+'Lo ferm voler,' in particular verses 4-6 of its second stanza, 'Non ai
+membre no.m fremisca, neis l'ongla, / Aissi cum fai l'enfas denant la
+verga, / Tal paor ai que.ill sia trop de m'arma,' see Marianne Shapiro
+("^Purgatorio~ XXX: Arnaut at the Summit," ^Dante Studies~ 100 [1982],
+pp. 71-76).  She translates the verses as follows: 'I have no member
+that does not tremble, not even my fingernail, like a child before the
+rod.  So much do I fear that I am hers too much in soul.'  In support
+of Shapiro's hypothesis that Dante indeed did know and use Arnaut's
+sestina, about which, perhaps from some 'anxiety of influence,' he is
+officially silent, one can point, in addition to the fact that he
+himself chose to write a sestina ('Al poco giorno'), to ^Vita nuova~
+XII.2, 'm'addormentai come un pargoletto battuto lagrimando' (I went to
+sleep, weeping like a little boy who has been beaten [Dante had just
+been denied the ^salute~ of Beatrice]), and to what seems an even
+clearer citation in ^Inferno~ VI.24, where Cerberus 'non avea membro
+che tenesse fermo' (There was no part of him he held in check), as was
+first noted by Mazzoni (^Il canto VI dell'"Inferno"~ in ^Nuove letture
+dantesche~ [Florence: Le Monnier, 1967]), p. 53.
+
+	|48.~  This verse is a translation of Dido's climactic utterance
+admitting that she has fallen in love with Aeneas, thus breaking her
+vows of chastity to her dead husband, Sichaeus (^Aen~. IV.23): 'Agnosco
+veteris vestigia flammae' (I recognize the traces of the ancient
+flame).  For a lengthy consideration of this celebrated verse see
+Roberto Mercuri ("'Conosco i segni dell'antica fiamma,'" ^Cultura
+neolatina~ 31 [1971], pp. 237-93).
+
+	|49-51.~  Near the conclusion of Virgil's tragic fourth ^Georgic~ (vv.
+525-527), Orpheus's severed head cries out to his lost Eurydice.  It is
+a moment that could define the tragic spirit, a decapitated voice
+giving vent to Orpheus's misery at the loss of his wife:
+
+   ...Eurydicen vox ipsa et frigida lingua,
+   a miseram Eurydicen! anima fugiente vocabat,
+   Eurydicen toto referebant flumine ripae.
+
+   ...'Eurydice' that very voice and frozen tongue,
+   'Oh wretched Eurydice!' it called as the soul escaped,
+   'Eurydice' the banks gave back along the stream.
+
+It seems more than clear that Dante's three-verse farewell to Virgil is
+modeled on Orpheus's three-verse farewell to Eurydice.  While
+surprisingly few twentieth-century commentators have heard that echo in
+these lines, even they seem unaware that it had been heard a few
+centuries ago (ca.1568) by Bernardino Daniello (comm. to these verses),
+as was pointed out by Hollander (^Il Virgilio dantesco: tragedia nella
+"Commedia"~ [Florence: Olschki, 1983]), pp.132-34.  Now that we have a
+published text of the commentary of Trifon Gabriele (ca. 1525, comm. to
+verse 49), we can see that he was the first to notice this clear
+citation.  He was echoed by his student, Daniello, who, however, as was
+fairly often the case, failed to acknowledge his teacher's teaching.
+It was only cited again, once more without citation of earlier notice,
+in 1900 by Scartazzini (comm. to vv. 50-51).  Edward Moore (^Studies in
+Dante~, First Series: ^Scripture and Classical Authors in Dante~
+[Oxford: Clarendon, 1969 (1896)]), pp. 20-21, 177-178, also discusses
+this 'beautiful and touching' citation, and those few who do refer to
+an earlier source in recent years (e.g., Singleton [comm. to these
+verse]; Mazzotta [^Dante, Poet of the Desert~ (Princeton: Princeton
+University Press, 1979)], p. 186; Chiavacci Leonardi [^Purgatorio, con
+il commento di A. M. C. L.~ (Milan: Mondadori, 1994)], pp. 888-89)
+refer only to Moore.  Still others cite the passage with little or no
+reference to those who had in fact discovered the quotation, e.g., John
+Freccero (^Dante: The Poetics of Conversion~, ed. Rachel Jacoff
+[Cambridge: Harvard University Press, 1986]), in "Manfred's Wounds"
+(1983), p. 208; Guglielmo Gorni ("Beatrice agli Inferi," in ^Omaggio a
+Beatrice (1290-1990)~, ed. R. Abardo [Florence: Le Lettere, 1997]), p.
+156 (citing Vandelli's resuscitation of Scartazzini's commentary, but
+apparently unaware of the ancient lineage of the citation).
+
+	Freccero, pp. 207-8, has noted a program of 'effacement' in Dante's
+three citations of Virgil here.  In verse 21 a Latin quotation; in
+verse 48 a literal Italian translation; in these lines, what he
+characterizes as 'the merest allusion.'  This last may seem a bit too
+'effacing.'  See Hollander ("Le opere di Virgilio nella ^Commedia~ di
+Dante," in ^Dante e la "bella scola" della poesia: Autorit@a e
+sfida poetica~, ed. A. A. Iannucci [Ravenna: Longo, 1993]), pp. 249,
+317-18, who believes it is a full-fledged citation.  See also Antonio
+St,auble ("Beatrice ritrovata.  Il sistema delle citazioni in
+^Purgatorio~ XXX, 1-47," in ^Carmina semper e citharae cordi.  $Etudes
+de philologie et de m$etrique offertes @a Aldo Menichetti~, ed. M.
+C. G$erard-Zai, P. Gresti, S. Perrin, P. Vernay, M. Zenari [Geneva:
+Editions Slatkine, 2000], pp. 315-22) for a discussion of some of these
+citations.
+
+	For the provisional hypothesis that Dante does not develop his persona
+as Orpheus in the ^Commedia~ because he has in ^Convivio~ (II.1.1)
+presented Orpheus as non-historical, as the very example of poetic
+allegory's fictive practice, see Hollander (^Allegory in Dante's
+"Commedia"~ [Princeton: Princeton University Press, 1969], p. 47n.;
+"Dante ^Theologus-Poeta~," ^Dante Studies~ 94 [1976], pp. 119-20).
+This is to counter the opinion of Zygmunt Baranski ("Notes on Dante and
+the Myth of Orpheus," in ^Dante: mito e poesia. Atti del secondo
+Seminario dantesco internazionale,~ ed. M. Picone and T. Crivelli
+[Florence: Cesati, 1999]), p. 140n., that 'Dantists have failed to
+acknowledge the peculiarity of the poet's choice of Orpheus as an
+illustrative example of "poetic allegory."'  See also Guglielmo Gorni
+("Beatrice agli Inferi," in ^Omaggio a Beatrice (1290-1990)~, ed. R.
+Abardo [Florence: Le Lettere, 1997]), pp. 153-58, for the notion that
+Dante indeed means us to read him as the 'new' Orpheus.  For a possible
+earlier instance of Dante's identifying himself with Orpheus, see Paola
+Rigo ("La discesa agli Inferi nella ^Vita Nuova~," in her ^Memoria
+classica e memoria biblica in Dante~ [Florence: Olschki, 1994]), p. 31,
+arguing that Dante's self-starting tongue in ^Vita nuova~ XIX.1
+reflects Virgil's phrase 'vox ipsa et frigida lingua' (^Georgics~
+IV.525) describing Orpheus as he begins his lament.
+
+	|50.~  For the suggestion that Dante's loss of Virgil resembles
+Aeneas's loss of Anchises, see the remark of Earl Jeffrey Richards
+cited in Hollander (^Il Virgilio dantesco: tragedia nella "Commedia"~
+[Florence: Olschki, 1983]), p. 143, n. 47, and Hollander ("Le opere di
+Virgilio nella ^Commedia~ di Dante," in ^Dante e la "bella scola" della
+poesia: Autorit@a e sfida poetica~, ed. A. A. Iannucci [Ravenna:
+Longo, 1993]), p. 317, n. 298, pointing to the appositeness of ^Aeneid~
+III.710-711: 'I lose my father, Anchises,... best of fathers, you leave
+me to my weariness.'
+
+	|52.~  The sense of this verse is that all that Eve lost and Dante has
+now regained could not ease his pain at the loss of Virgil.  Kevin
+Brownlee ("Dante, Beatrice, and the Two Departures from Dido," ^Modern
+Language Notes~ 108 [1993], pp. 1-14), in an essay dedicated to his
+student Lauren Scancarelli Seem, who is credited with having developed
+the hypothesis Brownlee puts forward, argues that the departures of
+Virgil and eventually Beatrice as his guides are both modeled on the
+scenes involving Aeneas's two departures from Dido in the ^Aeneid~
+(IV.441-449; VI.467-473).
+
+	|54.~  Dante's tears have reminded a number of readers, beginning with
+Tommaseo (comm. to vv. 55-57), of the tears of Boethius that were wiped
+away by Lady Philosophy in the ^Consolation of Philosophy~ I.ii(pr).
+See also Edward Moore (^Studies in Dante~, First Series: ^Scripture and
+Classical Authors in Dante~ [Oxford: Clarendon, 1969 (1896)]), p. 286,
+who speaks of the overall applicability of this passage to the
+situation in Dante's text; Scartazzini (comm. to verse 73); Poletto
+(comm. to vv. 67-75); Carroll (comm. to vv. 109-145); and Casini/Barbi
+(comm. to verse 73).
+
+	|55.~  This verse is perhaps the climax of the poem.  Everything
+before it leads here.  And once Dante is named, his new mission begins
+to take form, first as Beatrice has him cleanse himself of his past
+crimes and misdemeanors.  (His 'vacation' in the garden of Eden is
+over.)  For the uniqueness of this self-nomination, see the note to v.
+63, below.
+
+	For an attempt to deal with the postponement of the naming of the
+protagonist until this sixty-fourth canto of the poem (both Virgil
+[^Inf.~ I.79] and Beatrice [^Inf.~ II.70] are identified as soon as
+they appear), see Dino Cervigni (^Dante's Poetry of Dreams~ [Florence:
+Olschki, 1986]).
+
+	It is in response to this verse that Dante's son Pietro offered his
+celebrated 'etymology' of his father's Christian name (comm. to verse
+55): '...nominatus erat auctor Dantes, ita dabat, sive dedit se ad
+diversa; scilicet primo ad theologiam, secundo ad poetica' (the author
+was named Dante, as in 'he was giving' or 'he gave' himself to diverse
+things, first of all to theology and then to poetry).  Hollander uses
+this passage as epigraph to his study "Dante ^Theologus-Poeta~" (^Dante
+Studies~ 94 [1976], pp. 91-136) as part of an insistence that the
+conventional term for more 'usual' poets who deal with lofty subjects,
+'poeta-theologus,' needed to have its terms reversed
+('theologus-poeta') for Dante in order to respect his unique
+self-presentation as one whose poetry meets the criteria of theological
+truth unswervingly and directly -- or so he encourages us to believe.
+
+	|56-57.~  The thrice-repeated verb ^piangere~ (weep) offered by
+Beatrice in reproof to Dante echoes and rebukes the thrice-repeated
+plangent calling of Virgil's name by Dante in vv. 49-51.  For a
+wide-ranging meditation on the possible references of Beatrice's
+'sword,' see Wayne Storey, "The Other Sword of ^Purgatorio~ XXX,"
+^Dante Studies~ 107 (1989), pp. 85-99.	However, no ^dantista~ has
+apparently ever cited the most likely source: 'nolite arbitrari quia
+venerim mittere pacem in terram; non veni pacem mittere sed gladium'
+(Do not think that I came to send peace upon earth: I came not to send
+peace, but a sword -- Matth. 10:34). Fewer than fifty verses earlier,
+at the beginning of this canto (v. 9), ^la gente verace~, the Hebrew
+elect represented by the books of the Old Testament, 'al carro volse
+s$e come a sua ^pace~.' Like Jesus, Beatrice, appearing now as Christ
+in Judgment, will not bring Dante the ^pacem~ that he, too, like the
+disciples, hopes for and expects, but a ^gladium~.
+
+	|58.~  This striking and unsettling similetic presentation of Beatrice
+as admiral has drawn a mixed press.  It is all very well to argue, as
+Hollander has done (^Allegory in Dante's "Commedia"~ [Princeton:
+Princeton University Press, 1969]), pp. 122-23, 159, 190, that Dante
+has prepared for this moment by staging a significant series of voyages
+within the poem in which he calls attention to a commanding officer
+standing on a poopdeck.  (The word ^poppa~ appears at some highly
+charged moments: ^Inf~. XXVI.124, when Ulysses turns his poopdeck away
+from the east and XXVI.140, when the poop of his sinking vessel rises
+from the swallowing sea before its final plunge; ^Purg~. II.43, the
+afterdeck upon which the 'heavenly pilot' stands as the saved souls
+come to shore; and now, in its penultimate appearance in the poem, the
+place where Beatrice seems to stand as she joins the pageant.  The word
+will appear only once more, at ^Par~. XXVII.146, in the last
+world-prophecy in the poem, when an eventually benevolent storm at sea
+will set our erring 'fleet' right, turning our poops to where our prows
+had been in our misdirected quests.)  'Admiral Beatrice' seems,
+nonetheless, a bit overdone to most of Dante's readers, including John
+Scott ("Dante's Admiral," ^Italian Studies~ 27 [1972], pp. 28-40), who,
+like Hollander, sees the necessary theological trappings of her role,
+but is not altogether happy with the resultant poetic image.  Joy
+Potter ("^Beatrice Ammiraglio~: ^Purgatorio~ XXX.58-66," in ^Italiana:
+Selected Papers from the Proceedings of the Third Annual Conference of
+the American Association of Teachers of Italian, December 27-28, 1986~,
+ed. Albert N. Mancini, Paolo Giordano, and Pier Raimondo Baldini [River
+Forest, Illinois: Rosary College, 1988], pp. 97-108) tries to reassure
+us that, given the allegorical nature and meaning of Beatrice, her
+appearance is only disconcerting to post-Romantic readers, while, in
+the same year but in a very different critical ambience, Jeffrey
+Schnapp ("Dante's Sexual Solecisms: Gender and Genre in the
+^Commedia~," ^Romanic Review~ 79 [1988], pp. 143-63) considers the
+gender reversal present here part of a meditation upon such issues as
+the relationship between the 'feminine' world of vernacular lyric and
+the 'masculine' one of Latin epic.  It still would seem reasonable to
+conclude that the poet expected his readers to be jolted by this
+simile's defeminization of Beatrice.
+
+	No other segment of the ^Commedia~ is as filled with similes as the
+first ninety-nine verses of this canto; there are seven in all.  And
+they take up more than half of the text, fully fifty-five lines of it.
+This one (and we will not be confronted by another in this canto) is
+clearly meant to be read as climactic.  If we are troubled by Dante's
+'Admiral Beatrice,' we must also realize that the poet has chosen to
+disturb us in this way.  Everything conspires to make us understand one
+absolutely essential thing: our author has gone out of his way to make
+us comprehend that, whatever appreciation Dante had of Beatrice in
+life, and however he remembered her after her death, despite what
+perhaps should have been something like a full and final revelation in
+the last chapter of the ^Vita nuova~, he fell short of understanding
+her true nature -- and thus the way he then should have and now must
+love her.  As we shall see, even at ^Purgatorio~ XXXII.9 he still loves
+her as he used to, and is rebuked by the ladies representing the
+theological virtues for doing so.
+
+	|63.~  Dante's insistence that he names himself only from necessity
+echoes a passage in ^Convivio~ (I.ii.12-14), in which Dante says that
+there are two reasons that excuse an author's speaking of himself:
+first, and as in the case of Boethius's ^Consolatio~, in order to
+defend oneself from harm or against infamy; second, as in the case of
+Augustine's ^Confessions~, in order to bring greatly useful instruction
+to others.  Freccero (^Dante: The Poetics of Conversion~, ed. Rachel
+Jacoff [Cambridge: Harvard University Press, 1986]), in his article
+"Dante's Prologue Scene" (1966), deals with the Augustinian
+confessional mode as modeling and justifying Dante's own (pp. 1-3).
+
+	There was a tradition honored by many classical and medieval writers
+that one should only name oneself at the ^incipit~ and/or ^explicit~ of
+one's work (i.e., 'Here begins [or concludes] the such-and-such of
+so-and-so').  Years ago the present writer (^Il Virgilio dantesco:
+tragedia nella "Commedia"~ [Florence: Olschki, 1983], p. 133, n. 24)
+thought that he had discovered a notable fact.  It is widely
+appreciated that Dante only named himself once in the body of any of
+his extended works, here in verse 55.  What had not been noted was that
+his self-nomination echoed the only self-nomination found in the
+extended works of Virgil, indeed in the very ^Georgic~ (IV.563,
+'Vergilium') that Dante had cited a few lines earlier (vv. 525-527 at
+^Purg~. XXX.49-51).  With the publication of Trifon Gabriele's
+commentary (^Annotationi nel Dante fatte con M. Trifon Gabriele in
+Bassano~, ed. Lino Pertile [Bologna: Commissione per i testi di lingua,
+1993 (1525-27) -- now included in the Dartmouth Dante Project]), it
+became apparent that at least one earlier commentator had made the same
+discovery in his comment to this verse, where he says that (comm. to
+verse 63), in naming himself, Dante wished to imitate Virgil's
+self-nomination ('volendo imitar Virgilio... ^illo Vergilium me
+tempore~').  See also Boccaccio's ^Amorosa visione~, where Boccaccio
+signs himself 'Giovanni di Boccaccio da Certaldo' in one of the
+acrostic sonnets that begin that work -- the only occurrence of
+Boccaccio's name in his ten Italian extended fictions.
+
+	For the resonance here of an earlier claim, that his book is a true
+record of events, recording only what had actually occurred, see the
+note to ^Inferno~ XXIX.54-57.
+
+	|66.~  The presence of the veil (^velo~) worn by Beatrice is insisted
+on fully three times (at vv. 31 and 67 as well), and the canto has also
+begun with this word (verse 3).  (No other canto contains so many
+occurrences of the word.)  The climax of this scene with Beatrice will
+occur when she, bride-like, unveils herself at the end of the next
+canto (^Purg~. XXXI.136-145).
+
+	|68.~  The second (and now overt) reference to Minerva in association
+with Beatrice (see the note to vv. 31-33) probably, in conjunction with
+other references that are still more direct, associates her with
+Christ, or Sapience, the Word made flesh, the second person of the
+Trinity.
+
+	|73-75.~  Verse 73 is problematic, as Singleton (comm. to verse 73)
+explains clearly: '^Guardaci~: Commentators differ in their
+interpretation of ^ci~ here.  It could be the pronoun, in which case
+Beatrice, in her regal manner, would be using the plural of majesty,
+speaking as a monarch would, in the first person plural.  This reading
+is often accompanied by 'ben sem, ben sem' in the rest of the verse,
+continuing such a plural (^sem~ = ^siamo~).  Or ^ci~ might be construed
+as the adverb ^qui~, in which case the rest of the verse is usually
+given in the reading here adopted.'
+
+	That Beatrice speaks the word ^ben~ (here meaning 'really,' but also
+carrying its root sense, 'good' or 'well') three times in order to echo
+the triple iteration of 'Virgil' (vv. 49-51) and of 'weep' (vv. 56-57)
+was first noted by Tommaseo (comm. to these verses).  He does not go on
+to suggest that the first two sets of repeated words are tinged with
+loss, while this one is charged with triumph, but he might have.  For
+the contrastive self-namings of the Siren (^Purg~. XIX.19), 'Io son, io
+son dolce serena,' and of Beatrice, 'Ben son, ben son Beatrice' and of
+the way both may mirror or mimic the ^tetragrammaton~, the ninth of
+Isidore of Seville's ten Hebrew names for God, transliterated by him as
+^ia, ia~ (^Etym~. VII.i.16), see Hollander (^Allegory in Dante's
+"Commedia"~ [Princeton: Princeton University Press, 1969]), p. 144n.
+
+	Beatrice's anger at wayward Dante, saved by mercies in Heaven that
+seem hardly to have been predictable, given his behavior, is not
+difficult to fathom.  But he has survived.  Now, face to face with the
+beatified woman who has interceded for him, he weeps for Virgil,
+compounding his failing past behavior by now missing his pagan guide
+instead of rejoicing in the presence of Beatrice.
+
+	|76-78.~  This fairly obvious reference to Ovid's Narcissus (^Metam~.
+III.339-510) was perhaps first discussed by Kevin Brownlee ("Dante and
+Narcissus [^Purg~. XXX, 76-99]," ^Dante Studies~ 96 [1978], pp. 201-6).
+ See the note to ^Inferno~ XXX.126-129 and that to vv. 85-99, below.
+
+	|82-84.~  For the commentators' failure to recognize the problematic
+nature of this tercet, see Hollander ("Dante's Use of the Fiftieth
+Psalm," ^Dante Studies~ 91 [1973]), p. 149, n. 2.  As for the pointed
+reference to ^pedes meos~ (my feet), among the few who have believed
+that there is a 'solution' to Dante's riddle, there are two schools.
+What does it mean to say the angels 'did not sing past '^pedes meos~''?
+ Freccero ("Adam's Stand," ^Romance Notes~ 2 [1961], pp. 115-18) and
+P$ezard (ed., Dante Alighieri, ^Oeuvres compl@etes~ [Paris:
+Gallimard, 1965]), p. 1335, both believe that the reference is limited
+to the end of the ninth verse ('You [God] have not given me over to my
+enemies, but have ^set my feet in a spacious place~') of Psalm 30
+(31:8), the words ^pedes meos~ understood as reflecting Dante's newly
+gained freedom of the will to move about the garden as he chooses.
+Mineo (^Profetismo e Apocalittica in Dante~ [Catania: Universit@a
+di Catania, Facolt@a di Lettere e Filosofia, 1968]) and Hollander,
+partly because Dante's very way of expressing himself asks us to (if
+someone tells us he has not gone farther than nine we realize he is
+telling us that he did not reach ten), argue for the relevance of the
+next verse in Psalm 30, which is a citation of the opening verse of
+Psalm 50, 'Have mercy on me, O Lord,' the ^Miserere~ of David's
+penitential song that serves as source for Dante's first spoken words
+in the ^Commedia~ (^Inf~. I.65).  In this understanding, the angels,
+intervening on Dante's behalf with stern Beatrice, deliberately stop
+short of the ^Miserere~ out of sympathy for poor Dante, so heavily
+chastised by Beatrice.  (See the note to vv. 103-108, below.)
+
+	|85-99.~  For a history of the exegesis examining Dante's tears,
+mainly given over to attack and counterattack over the issue of the
+contorted and artificial nature of the simile, see Francesco Mazzoni
+("Un incontro di Dante con l'esegesi biblica [A proposito di ^Purg~.
+XXX, 85-99]," in ^Dante e la Bibbia~, ed. G. Barblan [Florence:
+Olschki, 1988]), pp. 180-89.  Mazzoni goes on (pp. 189-90) to bring
+three sources to bear: first two similes in Ovid: the melting of Ovid's
+Narcissus in his self-love (^Metam~. III.486-490, a passage discussed
+in this context in the nineteenth century by Luigi Venturi and Cesari,
+according to Trucchi [comm. to vv. 88-90]; and see Kevin Brownlee
+["Dante and Narcissus (^Purg~. XXX, 76-99)," ^Dante Studies~ 96 (1978),
+pp. 201-6] and R.A. Shoaf ["'Lo gel che m'era intorno al cor' (^Purg~.
+30.97) and 'Frigidus circum praecordia sanguis' (^Geo~. 2.484): Dante's
+Transcendence of Virgil," ^Lectura Dantis (virginiana)~ 5 (1989), pp.
+30-45], for discussion of the liquefaction of Biblis when her brother,
+Caunus, rejects her incestuous love [^Metam~. IX.659-665, also
+previously noted by Trucchi (comm. to vv. 91-93)]).  Mazzoni's major
+interpretive novelty (pp. 207-212) lies in his seeing Dante's tears as
+reflecting the liquefaction in Psalm 147:16-18 as commented on by St.
+Augustine (^In Ps. CXLVII Enarratio~ [Patrologia Latina, XXXVIII, col.
+1931]): 'He gives snow like wool; he scatters the hoarfrost like ashes.
+/ He casts forth his ice like morsels; who can stand before his cold? /
+He sends out his word, and melts [^liquefacit~] them; he causes his
+wind to blow, and the waters flow.'  Augustine's gloss has it that a
+sinner, 'frozen' in his sinfulness, may yet 'liquefy' and be saved.
+
+	|85.~  The phrase 'living beams' is Dante's way of referring to trees
+as the eventual source of wooden beams that may be hewn from them.
+
+	|97.~  Shoaf ("'Lo gel che m'era intorno al cor' [^Purg~. 30.97] and
+'Frigidus circum praecordia sanguis' [^Geo~. 2.484]: Dante's
+Transcendence of Virgil," ^Lectura Dantis [virginiana]~ 5 [1989], pp.
+30-45) examines Dante's Christianizing reinterpretation of the second
+^Georgic~ as part of his revision of Virgilian values for the
+^Commedia~, taking off from the line (^Georg~. II.484) 'frigidus
+obstiterit circum praecordia sanguis' ([But if] the chill blood about
+my heart bar [me from reaching those realms of nature]) that he sees
+reflected in this verse of Dante's.
+
+	|103-108.~  The point of Beatrice's gentle rebuke of the angels is
+that they, aware of Dante's past sins and of his eventual salvation,
+are now seeing him primarily as a saved soul rather than as a formerly
+sinful one, as Beatrice now (and vehemently) does.  In her view, they
+are celebrating his salvation prematurely because they are seeing it
+^sub specie eternitatis~, beyond the time that still holds him bound.
+
+	A paraphrase of the passage might run as follows: 'The words with
+which I shall respond to your pity for Dante are not addressed to you,
+who know all mortal contingency, past present and future, as a single
+present series of facts ^sub specie aeternitatis~, but to him, so that
+his contrition may be commensurate with his fault.'
+
+	|103-105.~  For the resonance of Ovid's tale of Argus (^Metam~.
+I.625-721), with his vision that seems limited, for all its seeing,
+when compared with the total sight of these angels, see Jessica
+Levenstein ("The Pilgrim, the Poet, and the Cowgirl: Dante's Alter-^Io~
+in ^Purgatorio~ XXX-XXXI," ^Dante Studies~ 114 [1996]), pp. 194-95.
+
+	|109-114.~  Pietrobono (comm. to vv. 109-111) points out that in
+^Convivio~ (IV.xxi.7-8) Dante had already revealed his theory of the
+relationship among the elements of the individual human soul, the
+fathering sower, the embryo, and the astral influences of the
+constellations of the zodiac that shape its human talents.  In this
+passage we hear about God, who breathes in last the vital element, the
+intellectual, or rational, soul.  The passage at ^Purgatorio~ XXV.68-75
+explains that the generation of the rational soul is performed directly
+by God; here we learn that not even the saved in the Empyrean nor the
+angels can understand the love that moves God in the creation of that
+soul in each of his human creatures.
+
+	|115-117.~  It seems obvious to most readers today that the phrase
+^vita nova~ refers, if in its Latin form, to Dante's first prosimetrum,
+the thirty-one poems collected with prose commentary known as ^The New
+Life~.  And it seemed so to at least one very early commentator, the
+Ottimo (in 1333, in his general note to the canto).  However, here is
+the commentary of Benvenuto da Imola to this passage (comm. to vv.
+109-117): 'This man, i.e., Dante, was such in his new life, i.e., in
+his boyhood; others, however, refer to his treatise ^De vita nova~,
+which he composed in his youth.  But it is surely ridiculous to do so,
+seeing that the author was ashamed of it in his maturity.'  Benvenuto's
+enthusiastic pre-humanist reading of the ^Comedy~ will only accept an
+allegorical, theologized Beatrice who bears no resemblance to the
+mortal girl of the early work.  Thus does he fail to grasp the central
+pretext of the entire poem, and surely of this extended scene in the
+garden of Eden.  What seems most notable, perhaps, is the power of
+Benvenuto's opinion.  None of the other early commentators who follow
+him mentions the book as being referred to here.  It is only with
+Venturi (1732, comm. to verse 115) that we hear that it ^may~ also be
+referred to; this over-cautious estimate will be found in several
+others, such as Portirelli (comm. to vv. 109-117), Mestica (comm. to
+verse 115), and Del Lungo (comm. to vv. 115-116).  It was, however,
+only Scartazzini -- as is so often the case -- who really tried to
+examine the issue frontally.  His solution (comm. to verse 115) was to
+argue that the literal sense of 'new life' was 'youth,' but that the
+phrase referred to the regeneration of Dante's virtue by agency of
+Beatrice.  One may feel it necessary to quibble with this estimate,
+since Dante first felt the power of Beatrice's goodness when he was
+just days from turning nine years old, and thus the traditional reading
+'boyhood' (more disturbing to such as Scartazzini than 'youth') is
+correct.  Scartazzini, however, is uncompromising and probably
+convincing in sensing that the reference is to the ^libello~ as well.
+How could it be otherwise?  One can see in this dispute, which
+continues in muffled form even today, an outline of the way
+commentators influence the readings of other commentators, and thus
+eventually teachers, and finally students.  Benvenuto's opinions are
+respected (and surely they should be, as he is clearly one of the most
+acute students of the poem), but sometimes slavishly.  Similarly,
+Scartazzini's insistent judgments, frequently overstated and often too
+assured, are avoided by later commentators, for perhaps a series of
+reasons.  Scartazzini was not only a German Swiss and a Protestant, but
+a Protestant clergyman.  And perhaps most annoying of all to an Italian
+reader, he loved to belittle his adversaries and thought little or
+nothing of most of his Italian colleagues.  One result of this, as a
+certain amount of consultation of the Dartmouth Dante Project will
+affirm, is that Scartazzini's tendentious and flawed but nonetheless
+great commentary (1900), reflecting the entries that were composed for
+his one-man ^Enciclopedia dantesca~ (published in Milano in 1896 and
+1899, and then reissued in 1905, edited by Fiammazzo), is both pillaged
+and avoided in silence by many of those who came after him.  For all
+his acerbity -- even nastiness -- his work deserves much more attention
+than it generally receives.
+
+	One finds, even among recent commentators, a certain desire to avoid
+committing oneself to what seems completely obvious: the phrase ^vita
+nova~ cannot help but call to mind, in this context, the work that
+records Beatrice's lasting impact on Dante, first in his 'new life'
+(when they were both children, a time to which Dante refers in verse
+42: 'before I had outgrown my childhood') and then later on, as
+recorded in the book called 'The New Life.'
+
+	|118-138.~  Edward Moore's essay, "The Reproaches of Beatrice"
+(^Studies in Dante~, Third Series: ^Miscellaneous Essays~ [Oxford:
+Clarendon, 1968 (1903)]), pp. 221-52, remains one of the most valuable
+attempts to deal with this convoluted expression of the single most
+important explanation Dante offers with regard to what he now conceives
+to have been his chief errors before he wrote the ^Commedia~.  For a
+similar view, one of ancient lineage, see Saverio Bellomo's edition
+(^Expositio seu comentum super "Comedia" Dantis Allegherii~ [Florence:
+Le Lettere, 1989]) of Filippo Villani's commentary to the first canto
+of ^Inferno~ (ca. 1400 [now included in the Dartmouth Dante Project).
+Filippo refers (p. 50) to a commentary of his to ^Purgatorio~ XXX
+(unfortunately lost); he also refers to that canto, in other places, in
+such a way as to indicate he thought it was the key to an understanding
+of what we might call the 'autobiographical' aspect of the poem as it
+is essential to the eventual allegorical meaning Bellomo sees Villani
+as seeking (p. 9).  The fact that Villani's first published work on
+Dante was devoted to Canto XXX gives us some idea of how important he
+thought this canto was, as does the mere fact that a commentary to the
+first canto of ^Inferno~ is peppered with references to the thirtieth
+of ^Purgatorio~.
+
+	Ruggero Stefanini ("Canto XXX," in ^Dante's "Divine Comedy":
+Introductory Readings II: "Purgatorio"~, ed. Tibor Wlassics
+[Charlottesville: Lectura Dantis, University of Virginia, 1993]), p.
+456, gives a crisp account of Dante's possible sexual wanderings that
+may be referred to in these verses: 'The conclusion is inescapable: the
+poet confesses that down there in Florence, during the gay nineties, he
+was seduced by the counterfeited beauty of the 'femmina balba' [the
+stammering woman in the dream of the Siren in ^Purg~. XIX.7].  The
+stressed lexical references leave no room for doubt: false images of
+good, which pay no promise in full; pits and chains that block the path
+to the Highest Good; attractions or immediate advantages that attract
+and distract; the song of the Sirens ('I am -- she sang -- I am a sweet
+siren' -- XIX.19); longing for mortal and deceitful things that weigh
+down the wings of those who, instead, were created to fly upward
+(XII.95f.); the false pleasure of the present things, among which are
+to be included the ^pargolette~ [young girls] and the frivolous loves
+they inspire.'  Like many modern students of the problem (e.g., Carroll
+[comm. to vv. 49-75], Joseph Mazzeo [^Medieval Cultural Tradition in
+Dante's "Comedy"~ (Ithaca: Cornell University Press, 1960)], pp.
+205-12; Hollander [^Allegory in Dante's "Commedia"~ (Princeton:
+Princeton University Press, 1969)], pp. 160-68; Bosco/Reggio [comms.
+(as numbered in the DDP version of their notes) to ^Purg.~ XXX.115-132;
+XXXI.31-36; XXXI.55-60; XXXIII.73-102; Picone ["La poesia romanza della
+^Salus~: Bertran de Born nella ^Vita Nuova~," ^Forum Italicum~ 15
+(1981)], pp. 42-43), Stefanini avoids the simplistic answer that would
+make Dante guilty either of sexual or of intellectual deviance from his
+Beatrice and sees that both forms of misbehavior are involved.  The
+precise nature of both sets of sins remains, one must admit, difficult
+to assess.
+
+	|118-123.~  Beatrice offers an epitome of the main narrative of the
+^Vita nuova~, according to which for some sixteen years (1274-1290) she
+attempted to lead Dante to God, despite his natural sinful disposition.
+ Unfortunately, even while she lived, the 'rich soil' of his soul grew
+weeds.
+
+	|124-126.~  Upon Beatrice's death, and according to Dante's own report
+in the ^Vita nuova~ (chapters XXXV-XXXIX), he did indeed give himself
+to at least one other (^altrui~ can be either singular or plural in
+Dante).  His probably most egregious dalliance was with the ^donna
+gentile~ (noble lady) who sympathized with his distress.  The lady is
+later allegorized, in Dante's ^Convivio~, as the Lady Philosophy.  (For
+discussion, see the note to ^Purg~. XXXIII.85-90.)
+
+	For the 'today fully discredited' notion that Dante revised the ending
+of the ^Vita nuova~ in light of his new understanding of the ^donna
+gentile~ that he developed in the ^Convivio~ see the discussion, with
+bibliography, in Ruggero Stefanini ("Canto XXX," in ^Dante's "Divine
+Comedy": Introductory Readings II: "Purgatorio"~, ed. Tibor Wlassics
+[Charlottesville: Lectura Dantis, University of Virginia, 1993]), p.
+462 (n. 15), taking issue with Pietrobono, Nardi, and Branca and
+agreeing with Barbi and Marti.  See, for a similar view, Selene
+Sarteschi, "Osservazioni intorno alla presunta doppia redazione della
+^Via Nuova~," in her ^Per la "Commedia" e non per essa soltanto~ (Rome:
+Bulzoni, 2002 [1996]), pp. 13-58.
+
+	|134.~  The sort of dream Beatrice prayed God to send Dante is
+probably well represented by the dream of the Siren in ^Purgatorio~
+XIX.7-32.  That accounts for the first part of Beatrice's formulation,
+i.e., Dante was given negative dreams about his disastrous love for the
+wrong lady.  What about the second?  What God-sent 'inspirations' was
+she granted in order to call him back to loving her even after her
+death?  Scartazzini (comm. to vv. 133-134) offers a simple and
+compelling hypothesis (apparently silently acceded to by any number of
+later commentators, who make the same point without even a mention of
+his name).  In ^Vita nuova~ XXXIX.1 Dante receives the image of the
+girlish Beatrice in his phantasy, the image-receiving part of his mind
+(one may compare the ecstatic visions vouchsafed him for the exemplary
+figures on the terrace of Wrath [and see the note to ^Purg~.
+XV.85-114]).  As he recounts (^VN~ XXXIX.2-6), this vision of Beatrice
+had the necessary effect, and he resolved to love her yet again,
+turning away his affection from the ^donna gentile~.  And then,
+Scartazzini continues, he was allowed the final vision of Beatrice
+seated in the Empyrean (^VN~ XLII.1).  Thus, as seems clear, while
+Dante slept, God sent him dreams of what was unworthy in his love for
+the ^donna gentile~; while he was awake, positive images of Beatrice.
+If this program is correctly perceived, it matches precisely the mode
+employed to teach penitents on the mountain, positive and negative
+examples teaching what to follow and what to flee.  Unfortunately, even
+after such encouragement, Dante would fall again.  See the note to
+^Purgatorio~ XXXIII.85-90.
+
+	|139-141.~  Poor Virgil!  He has done the Christians sixty-four
+cantos' worth of service, guiding their great poet to his redemption
+and vision, and now the very lady who sought his help does not even
+mention his name; he is but 'colui' (the one who).  Where is Virgil
+now?  On his way back to Limbo, we must assume.  And thus, we may also
+assume, to another sad welcome from his fellow poets once he is again
+(less than a week after he had already returned once [see the note to
+^Inf~. IV.80-81]) among them in his ^etterno essilio~ (eternal exile --
+^Purg~. XXI.18).  We shall only hear his name twice more (^Par.~
+XVII.19 and XXVI.118) and never again from Beatrice, who only uses it
+once, in her first words, coupling it with Dante's (verse 55), and then
+to shame Dante for his affection for Virgil when there are more
+important feelings to be had.
+
+	|142-145.~  As Beatrice wept in Virgil's presence in hell for Dante's
+sake (verse 141), so now it is Dante's turn to weep for the sins that
+made her intervention necessary.  The angels may want to celebrate the
+eventual triumph of this saved Christian; Beatrice is here to make sure
+that he observes the ritual of the completion of purgation correctly,
+even on this trial run.

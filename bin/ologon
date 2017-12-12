@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Start up SQL*Plus
+
+cd /home/dante/SQL
+
+exec sqlplus dante@tin @ologon.sql

@@ -1,0 +1,99 @@
+Return-Path: steve@avalon.dartmouth.edu
+Received: from avalon.Dartmouth.EDU (localhost [127.0.0.1])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id QAA15004;
+	Wed, 2 Sep 1998 16:52:34 -0400 (EDT)
+Message-Id: <199809022052.QAA15004@avalon.Dartmouth.EDU>
+X-Mailer: exmh version 2.0.2 2/24/98
+To: bobh@princeton.edu
+Cc: steve
+Subject: Re: your list of comms. 
+In-reply-to: Your message of "Wed, 02 Sep 1998 11:15:28 EDT."
+             <35ED6110.C8D6BF7E@princeton.edu> 
+Reply-To: Stephen.Campbell@Dartmouth.EDU
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Date: Wed, 02 Sep 1998 16:52:34 -0400
+From: Steve Campbell <steve@avalon.dartmouth.edu>
+
+
+> It is absolutely correct.  Here are a few footnotes, reminders for BOTH
+> of us (and so some may not seem of interest to you):
+> 
+> Andreoli: I edited him BEFORE we ever loaded him.  He should be ready to
+> go now.
+
+
+Roger.
+
+
+> Barbi (= Casini/Barbi): we refer to them as "Casini" (NOT "Barbi")
+
+
+It seems we have always used "barbi" as the directory name for this comm. But 
+it is trivial to rename the directory to "casini" if that would reduce 
+confusion. I will do so.
+
+> Buti: we now have all INFERNO from Italy, edited, copy-edited, and ready
+> to be mounted.  This requires a change in our notice in opening list of
+> comms. from *Buti to Buti (Inferno only)
+
+Roger on having the files. They are in there in C.ng/buti/inf. Will note the 
+future change to the opening list.
+
+
+> Campi: he's the one I want to finish sending.  He is ready to load
+> (i.e., my student has copyedited and I've checked over some of it: it
+> looks clean enough to load)
+
+See earlier notes today. I will expect your shipment.
+
+
+> Castel = "Castelvetro"
+
+Again, "castel" was the historic name. Will change the directory name to 
+"castelvetro."
+
+
+> Pietro: a small problem.  I have been telling our people to refer to the
+> 1st ed. of his comm. as "Pietro", the 2nd as "Pietro2".  Does that make
+> a problem for you?  If so, we can revise our texts down here with
+> globals.  But it would be good to decide soon.  One other thing: someday
+> soon we will also have "Pietro3" edited and ready to load with no
+> copy-editing.
+
+You are correct that the historic names were pietro and pietro2. I decided 
+that 1 and 2 made more sense than "" and 2. Would you prefer it as it was? So 
+be it.
+
+
+> Some other matters, from some notes I find here:
+> 
+> STOP WORDS: it would be good AT LEAST to remove some of these (I have a
+> list).  Dies the database work quickly enough to get rid of ALL of them?
+> If not, at least SOME (my list).  Or do we need to keep all intact?
+
+We can have any list we want - or no list. And we can have different lists for 
+each language, which is what we did the last time. If you have a list of 
+stopwords you want to use (for each language), send them to me.
+
+
+> SPACING PROBLEMS: this is an old bugaboo.   We want all end-stopped
+> sentences to be followed by TWO spaces.  In fact, some are followed by
+> only one.  Editing would be a HUGE task and is counter-indicated, I
+> would guess.  The obverse is that we want abbreviations to be followed
+> by ONE space.  Sometimes that does not happen.  I believe the abbrev.
+> for the Roman poet Statius (Stat.) is often followed by TWO spaces.  We
+> have an abbrevs. list which supposedly obviates this problem.  Anything
+> to be done about all this that is quick and easy (heh heh)?
+
+This is prbably in the hands of whatever display mechanism we or the user use. 
+In short, we probably do not have absolute control over it. Using two spaces 
+is generally deprecated in these days of proportional fonts. My advice: forget 
+about it.
+
+Enough for today. And it's not even a weekend.
+
+								Steve
+
+
+

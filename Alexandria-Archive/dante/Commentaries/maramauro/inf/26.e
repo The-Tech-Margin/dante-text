@@ -1,0 +1,457 @@
+Prave consilium
+
+	|1-6.~ 
+	^Godi, Fiorenza, poi che se' s@i grande~
+^che per mare e per terra bati l'ali,~
+^e per lo 'nferno tuo nome si spande!~
+^	Tra li ladroni trovai cinque cotali~
+^tuoi citadini onde mi vien vergogna,~
+^e tu in grande onoranza no ne sali.~
+
+	D. in questo capitulo fa 3 cosse.  A la prima, continuandosse col 
+precedente, fa una figura chiamata <ironia>, contra Fiorenza.  La qual 
+figura @e quando uno dice ad un altro: <Malvaso omo, alegrate per@o che 
+tu se' ben tristo e che la tua fama @e grande de miseria>.  A la 2a 
+mete el modo de la pena de collor che con fraude arobbaron, e foron 
+cagione de mali grandi, e dedero consigli cativi donde nacque ira e 
+odio, e che arobaron cosse de chiessia e fecero malle assai sempre 
+copertamente.  E questo capitulo, cum l'altro sequente, a la 3a nomina 
+alcuni contaminati in questo vitio de furto de cosse sacre.
+	^GODI FIORENZA ETC.~  D. dice: <O Fiorenza, godi ^POI CHE SE' S@I 
+GRANDE CHE PER MARE~, ^idest~ i tuoi mercadanti navigano, ^E PER 
+TERRA~, ^idest~ vano per Franza, Alamagna e Inglitera, ^BATI LE ALI~, 
+^idest~ vano volando -- e qui mete ^continens pro contento~--, ^E PER 
+LO 'NFERNO TUO NOME SI SPANDE.  ONDE~, ^idest~ per la qual cossa, ^ME 
+NE VEN VERGOGNA~, ^idest~ a mi D., e tu, ^idest~ Fiorenza, non ne sali 
+^IN GRANDE ONORANZA~, per@o che trovai tra li latroni cinque toi 
+citadini>.  E dice ^COTALLI~, ^idest~ da assai e non da poco, omini 
+famosi e de bone parentelle.
+
+	|7-9.~ 
+	^Ma se presso al matin del ver si sogna,~
+^tu sentirai, di qua da pizol tempo,~
+^di quel che Prato, non ch'altri, t'agogna.~
+
+	D. fa como fano alcuni che, dolendossi del malvasio so vivere, diceno: 
+<Io me ho sognato che tu finirai male>.  E coss@i dice de Fiorenza che 
+se sopnia el vero presso al matino, per@o che la digestione @e 
+perfecta, lo corpo non @e agravato, li spiriti son quieti, li somni 
+pareno ragionevelli e tal volta son veri.  Ed @e da intendere che 
+questo se prova che, se sogna el vero, ^TU SENTIRAI~, ^idest~ tu 
+Fiorenza, de qua a picol tempo de quel che ^TE AGOGNA~, ^idest~ octa, 
+Prato, la qual @e vicina de Fiorenza de oto milia, e non quello che te 
+agogna altri, per@o che Prato sempremai ha octato mal a Fiorenza como 
+sua emulla.
+
+	|10-12.~ 
+	^E se gi@a fosse, non saria per tempo.~
+^Coss@i foss'ei, da che pur esser dee!~
+^ch@e pi@u mi graver@a, com' pi@u m'atempo.~
+
+	Qui dice D. che, ^SE GI@A FOSSE~, quello che Prato te octa, ^NON SARIA 
+PER TEMPO~; e se pur doveria, che tosto fosse, ch@e gi@a doveria esser 
+stato: <e per@o pi@u me agrava>, dice D., <quanto pi@u ^M'ATEMPO~>, 
+^idest~ aspeto tempo.
+
+	|13-18.~ 
+	^Noi ci partimo, e su per le scalee~
+^che n'avean fatti i borni a scender pria,~
+^rimont@o lo mio maestro e trasse mee;~
+^	e proseguendo la solinga via,~
+^tra le scheggie e tra ' rocchi de lo scoglio~
+^lo p@e senza la man non si spedia.~
+
+	D. dice che se partiron e che V. trasse lui per ^LE SCALEE~, ^idest~ 
+gradi, ^CHE N'AVEAN FATI I BORNI ETC.~  Bornia si @e una concilia 
+marina e ha figura de quella noi dicimo <sallita>; ed @e montata de 
+gradi, facta a sconcilia.  ^RIMONT@O~ V. etc., coss@i como se fa in 
+alcuna torre alta de castelli.  ^E PROSEGUENDO ETC.~, ^idest~ che se 
+teniva cum mane anci che movesse lo pede.
+
+	|19-24.~ 
+	^Allor mi dolsi, e ora mi ridoglio~
+^quando drizo la mente a ci@o ch'io vidi,~
+^e pi@u lo 'ngegno rifreno che non soglio,~
+^	perch@e non corra che virt@u nol guidi;~
+^s@i che, se stella bona o miglior cossa~
+^m'ha dato 'l bene, ch'e' stesso nol m'invidi.~
+
+	D. dice che se dole e ancora ridolle quando esso se ricorda de quello 
+che ha visto, ^idest~ de li latroni, e rifrena pi@u l'ingegno che non 
+sole, perch@e non corra a dire tanto che paia vicio, per@o che l'omo 
+non deve dire tanto quanto vede n@e ode.  ^S@I CHE, SE STELLA BONA 
+ETC.~, ^idest~ coniunctione de corpi sopracelesti, ^O MIGLIOR COSSA~, 
+^idest~ Dio, per sua \<merc@e\> <me ha dato lo bene, che io stesso non 
+me lo invidie>.  Altri voglion dire che D. rifrena lo ingegno pi@u che 
+non s@ole, aci@o che corra orando e consigliando virtuosamente e non 
+cum passione d'animo; refferendossi a quel che dice Salustio: <Homines 
+omnes qui de rebus dubiis consultant, vacuos animo esse decet ab odio, 
+ira, amicitia atque misericordia>.  E pare che D. se referra a se 
+stesso per la virt@u de la eloquentia.
+
+	|25-30.~ 
+	^Quante el vilan ch'al poggio si ripossa,~
+^nel tempo che colui che 'l mondo schiara~
+^la faza sua a noi ten men ascossa,~
+^	come la mosca cede a la zanzara,~
+^vede luciole gi@u per la vallea,~
+^forse col@a dov'e' vendemia e ara.~
+
+	D. fa questa comparatione del vilano, il qual se puosa ^AL POGGIO~, 
+^idest~ in alto, ^NEL TEMPO CHE COLUI CHE 'L MONDO SCHIARA~, ^idest~ lo 
+sole, ten la sua faza ^MEN ASCOSA~ a noi, ^idest~ de zugno, ^COME~, 
+^idest~ quando, ^LA MOSCA CEDE~, ^idest~ d@a loco, ^A LA ZANZARA~, 
+^idest~ ad una mosca coss@i chiamata, el villano vede ^LUCIOLE~, 
+^idest~ cornuzole, forse l@a ^DOV'E' VENDEMIA E ARA~, ^idest~ al piano.
+
+	|31-33.~ 
+	^Di tante fiamme tuta risplendea~
+^l'otava boglia, s@i com'io m'acorsi~
+^tosto che fui l@a ove 'l fondo parea.~
+
+	D. tracta qui de l'otava boglia.  Ed \<@e\> la 2a parte del capitulo, 
+ove tracta la pena de quisti fraudolenti consiglieri.
+
+	|34-39.~ 
+	^E quale colui chi si vengi@o co li orsi~
+^vidde 'l carro de Elia al dipartire,~
+^quando i cavalli al cielo erti levorsi,~
+^	che nol potea s@i con li ochi seguire,~
+^ch'el vedesse altro che la fiamma solla,~
+^s@i come nuvoleta, in s@u sallire.~
+
+	D. fa una comparatione de Eliseo profeta, la qual se scrive IIII 
+^Regum~, quando Elia fu levato da quello carro de foco, como ^etiam~ li 
+cavalli, al ciello ed Eliseo sempre fin ch'el pot@e lo guardava, ma per 
+la distantia non discern@e altro che una fiama a modo de una nuvola 
+infiamata.  E tornando Eliseo, essendo presso a la citate \<di 
+Betelem\>, li giovani gli gitavan terra e diceali: <Ascende calve, 
+ascende calve>.  De che Eliseo orando f@e venire orsi grandissimi, li 
+quali devoraron quelli giovani.
+
+	|40-42.~ 
+	^Tal si movea ciascuna per la golla~
+^del fosso, ch@e nessuna mostra 'l furto,~
+^e ogni fiamma un pecator invuolla.~
+
+	D. dice che ciascuna se movea ^PER LA GOLLA~, ^idest~ per la boca, 
+^DEL FOSSO, CH@E NESSUNA MOSTRA LO FURTO, E OGNI FIAMMA~ tene ascosso 
+dentro uno pecatore.
+
+	|43-45.~ 
+	^Io stava sopra 'l ponte a veder surto,~
+^s@i che s'io non avesse un rochion preso,~
+^caduto sarei gi@u senza esser urto.~
+
+	^SURTO~, ^idest~ ficto.  ^URTO~, ^idest~ burlato da alcuno.  L'altro 
+@e chiaro.
+
+	|46-48.~ 
+	^E 'l duca, che mi vide tanto ateso,~
+^disse: <Dentro dai fochi son li spirti;~
+^ciascun si fascia di quel ch'elli @e inceso>.~
+
+	V. mostra a D. queste fiamme, dicendo como dentro da quelli fochi sono 
+spiriti e ciascuno spirito se fascia de quello foco del quale esso ^@E 
+INCESO~, ^idest~ arso.
+
+	|49-54.~ 
+	^<Maestro mio>, rispos'io, <per udirti~
+^son io pi@u certo, ma gi@a m'era aviso~
+^che coss@i fossi, e gi@a volea dirti:~
+^	chi @e in quel foco che vien s@i diviso~
+^di sopra, che par surger de la pira~
+^dove Ete@ocle col fratel fu miso?>.~
+
+	E 'n questa parte D. toca la 3a parte del capitulo.  E mostra D. 
+vedere una fiama, la qual era quasi una e avea doi capi.  E dice a V.: 
+<Che @e quella fiamma?>.  E fa una comparatione de Etiocle e Polinice 
+fratelli che, essendo venzuta la cit@a de Tebe, Etiocle, essendo ferito 
+a morte, s@i preg@o lo fratello, lo quale lo avea posto a quel punto, 
+digando como esso sapea bene che non potea campare, che, inanti ch'el 
+morisse, gli dovesse perdonare e darli la pace.  Polinice odendo 
+questo, pietosamente per quelle parole mosso, se li acost@o e 
+abraciolo.  In questo abraciare, como giacea supino in terra, esso li 
+caci@o un coltello in uno fianco e occisello.  Volendo poi la gente 
+construere la pira a questi doi corpi per arderli como erano costumati, 
+aceso el foco, se divise la fiama l'una da l'un canto e l'altra da 
+l'altro, a denotare che, como foron divisi in la lor vita, coss@i poi 
+la morte: e questo fu miraculo.  Or dice D. che coss@i era divisa 
+quella fiamma como questa de questi doi fratelli.
+
+	|55-57.~ 
+	^Rispuose a me: <L@a dentro se martira~
+^Ulixe e Diomede, e coss@i insieme~
+^a la vendetta vanno com'a l'ira>.~
+
+	D. dice mo che V. li responde: ^L@A ENTRO~, ^idest~ ne la infima parte 
+de questa boglia, ^SE MARTIRA ULIXE E DIOMEDE~.  Questi foron doi omini 
+famosissimi, li quali forono ne la destructione de Troia.  E per li 
+consili iniqui e fraudolenti de costoro li Greci destruxero Troia, s@i 
+como dice Dares Frigius e Homerus; e V. II ^Eneidos~: <Paladis ausiliis 
+semper stetit.  Impius ex quo / Tidides enim scelerumque victor Ulixes>.
+	^E COSS@I INSEME ETC.~, ^idest~ lo dicto Ulixe e Diomede, vanno 
+^COSS@I A LA VENDETA~ como ^A L'IRA~ de la destrutione de Troia cum 
+inganni e cum nequitie oculte.  Ancora se pote intendere che Ulixe e 
+Diomede foron compagni e usaron le loro astulte arte contra ' Troiani: 
+coss@i como insieme usaron le loro oculte arte, coss@i vanno insieme a 
+la vendetta como fanno li bovi quando arano, che fanno el solco lo qual 
+se chiama <lira>, e per@o se dice: <Police tango liram, sed vomere 
+agito liram>, s@i che vano, dice D. a la vendeta de l'inferno como li 
+bovi a la lira.
+
+	|58-60.~ 
+	^E dentro da la lor fiamma si geme~
+^l'aguatto del caval che f@e la porta~
+^onde usc@i de' Romani el gentil seme.~
+
+	Fa qui mentione D. de quel cavallo che te dissi capitulo XVII, de la 
+fraude che rompe li muri, ^idest~ quelli de Troia.  E intendi che 
+questo cavallo fece ^LA PORTA~ per la quale usc@i ^LO GENTIL SEME~ de' 
+Romani, ^idest~ Enea il qual non seria uscito de Troia se 'l cavallo 
+non fosse intrato e rote le mure.  E questa fu la porta per che li 
+descendenti de Enea fecero la cit@a de Roma, ^idest~ Romul e Remul.
+
+	|61-63.~ 
+	^Piangevisi entro l'arte per che, morta,~
+^Deidamia ancor si duol d'Achille,~
+^e del Paladio pena vi si porta.~
+
+	Questo passo intendi coss@i: che Ulixe e Diomede astutamente trovaron 
+Achille, vestito cum abito femineo, cum Deidamia e cum altre vergine 
+sorelle in casa del re Licomede, patre de le dicte sore.  De le qual lo 
+dicto Achille una ingravid@o, ^idest~ la magior nata, ^idest~ Deidamia. 
+ E per@o dice V. che vi se piange ^L'ARTE~, ^idest~ l'astutia, per la 
+qual astutia Deidamia, ^MORTA, SE DUOL DE ACHILLE~, per@o che essa 
+luxuriosamente se pose cum Achille, e per@o pate pena ne l'inferno del 
+pecato, e per@o, morta, se ne dole per lo pecato de luxuria, como @e 
+dicto.
+	^E DEL PALADIO ETC.~  Qui toca un'altra astutia la qual comisero 
+quisti: che in Troia era una statua chiamata Palladia, facta in onore 
+de Pallade, dea de sapientia, in uno nobillissimo templo presso a la 
+cit@a, ed era collocata con questa conditione che, infin che la dicta 
+statua non era mossa da questo so loco, mai Troia non si poteva 
+perdere.  E Ulixe e Diomede, como omini astuti pieni di fraude, 
+investigaron questo e andaron al dicto templo e furarolla dal dicto 
+templo.  Unde sucesse di presente la destructione de la cit@a de Troia.
+
+	|64-69.~ 
+	^<S'ei posson dentro da quelle faville~
+^parlar>, dis'io, <maestro, assai ten prego~
+^e riprego, che 'l prego vaglia mille,~
+^	che non mi faci de l'attender nego~
+^fin che la fiamma cornuta qua vegna;~
+^vedi che del disio ver' lei mi piego! >.~
+
+	Prega qui D. V. se pu@o parlare cum queste ^FAVILLE~.  E il testo @e 
+chiaro.
+
+	|70-75.~ 
+	^Ed elli a me: <La tua preghiera @e degna~
+^di molta loda, e io per@o l'acetto;~
+^ma fa che la tua lingua si sostegna.~
+^	Lassa parlar a me, che ho concetto~
+^ci@o che tu vuoi; ch'e' sarebbero schivi,~
+^perch'e' fuor greci, forse del to detto>.~
+
+	Li responde V. a D. lodando la sua domanda, dicendo: ^LASSA PARLARE A 
+ME ETC. E DICE GRECI~, mostrando como V. seppe greco.  E p@otesse 
+intendere che V. tract@o de quisti doi in lo libro de la ^Eneida~.
+
+	|76-84.~ 
+	^Poi che la fiamma fu venuta quivi~
+^dove parve al mio duca tempo e loco,~
+^in questa forma lui parlar audivi:~
+^	<O voi che sete due dentro ad un foco,~
+^s'io meritai di voi mentre ch'io vissi,~
+^se meritai di voi assai o poco~
+^	quando nel mondo li alti versi scrissi,~
+^non vi movete; ma l'un di voi dica~
+^dove, per lui, perduto a morir gissi>.~
+
+	Qui V. aspect@o ^TEMPO E LOCO~, e poi lo domand@o per la forma che 
+appare nel testo.  E per@o la ragione umana dicta quel che dice Seneca, 
+^quod~ <maxima pars petitionis consistit in tempore>.  ^MA L'UN DI VOI 
+ETC.~, ^idest~ Ulixe qual fo el so fine.  Per@o che non se trova, n@e 
+per cronica, n@e per Omero, n@e per alcuno altro poeta como fusse la 
+morte del dicto Ulixe, D. la mete qui, fingendo lo dicto Ulixe dicerla 
+a V. per prego.  E per@o dice V.: ^SE MERITAI DI VOI ETC.~
+
+	|85-99.~ 
+	^Lo magior corno de la fiamma antica~
+^cominci@o a crolarsi murmurando,~
+^pur come quella cui vento affatica;~
+^	indi la cima qua e l@a menando,~
+^como fosse la lingua che parlasse,~
+^git@o voce di fuori e disse: <Quando~
+^	mi diparti' da Circe, che sotrasse~
+^me pi@u d'un anno l@a presso a Gaetta,~
+^prima che s@i Enea la nomasse,~
+^	n@e dolceza de figlio, n@e la pietta~
+^del vechio padre, n@e 'l debito amore~
+^lo qual dovea Penelop@e far lietta,~
+^	vincer potero dentro a me l'ardore~
+^ch'i' ebbi a divenir nel mondo 'sperto~
+^e de li vicii umani e del valore>.~
+
+	Qui dice D. che ^LO MAGIOR CORNO~, ^idest~ Ulixe, responde e dice: 
+^QUANDO MI PARTI' DA CIRCE ETC.~  Sappi che questa Circe si fo una 
+donna multo bella la qual stava sopra la marina ove se chiama monte 
+Cercielli, il qual @e loco da ripararsi legni da naviganti.  La qual 
+Circe era grandissima inganatrice e magica, per modo che inganava tuti 
+li naviganti che arivaveno in quel so lito e transformavali in diverse 
+spetie de animali.  Vero @e che, arivando Ulixe in quel suo porto, fece 
+per tal modo che costei nol pot@e mutarlo de sua forma umana cum tute 
+soe arte.  Vero @e che tuti li compagni mut@o, e dur@o per uno anno.
+	E dice ^APRESSO A GAETA PRIMA CHE S@I ETC.~  Questo vol dir che la 
+cit@a de Gaetta, 'nanti la venuta de Enea in Itallia, se chiamava 
+Formie e, per la nutrice de Enea chiamata Gaetta che ivi mor@i, esso li 
+puose nome Gaetta in memoria de questa soa nutrice.  Queste 
+transformatione trovera' ne l'Ovidio, libro XIIII ^Metamorphoseos~: 
+<Que simul atingimus primoque in limine tecti, / mille lupi mixtique 
+lupis ursique leones>.
+	^N@E DOLCEZA DE FIGLIO ETC.~, ^idest~ che n@e la dolceza del figliolo, 
+n@e la piet@a del suo patre, lo qual era vechio, ^N@E IL DEBITO AMORE~ 
+lo qual dovea portare a Penelope, potero mai vincere ^LO ARDORE~ che 
+esso ebbe de \<de\>venir 'sperto del valore e de li vicii umani, 
+^idest~ de sapere la experienza.  Ch@e non se content@o de star via X 
+anni, li quali avea aspetato Penelope contra la volunt@a del patre -- 
+s@i como scrive Ovidio ne la prima ^Epistula~: <Hanc tua Penelope lento 
+tibi mittit, Ulixes; / nil mihi rescribas attamen; ipse veni> --, li 
+quali X anni stete in Troia; ch@e volse vedere l'altre parte del mondo. 
+ O quanto exemplo dee esser a la gente del mondo che stanno ociosa la 
+sollicita voluntate de Ulixe per lassar a li posteri perpetua fama di 
+s@e!
+
+	|100-102.~ 
+	^Ma missime per l'alto mare aperto~
+^sol con un legno e con quella compagna~
+^piciola a la qual mai non fui diserto.~
+
+	Qui dice D., non bastato l'amor del figlio, n@e del patre, n@e de la 
+mogliere, che esso se misse ^PER L'ALTO MARE APERTO~ con quella pizola 
+^COMPAGNA~, ^idest~ poca gente de la quale non fu mai abandonato -- e 
+dice <aperto mare>: questo intendi per lo mare Occeano, che non ha 
+falze onde se chiuda como questo nostro mare Mediterano --, sollo con 
+una nave.
+
+	|103-105.~ 
+	^L'un litto e l'altro vidi infin la Spagna,~
+^fin nel Morrocco, e l'isolla d'i Sardi,~
+^e l'altre che quel mar intorno bagna.~
+
+	Ancora dice Ulixe como esso cerc@o questi doi liti, ^idest~ lo mare 
+Aspontico in Grecia e il mare Tireno in Itallia, e vide Spagna, e 
+Morroco, e Sardigna e l'altre isole che sono intorno, ^idest~ Corsica, 
+Maiolica e le altre.
+
+	|106-111.~ 
+	^Io e i compagni eravam vechi e tardi~
+^quando venimmo a quella foce stretta~
+^dove Ercule sign@o li soi riguardi~
+^	aci@o che l'uom pi@u oltre non si metta;~
+^da la man destra mi lasciai Sibillia,~
+^da l'altra gi@a m'avea lasciata Setta.~
+
+	D. dice che Ulixe disse a V. como lui e i compagni eravano ^VECHI~, 
+per etate e per lunghe fatiche, ^E TARDI~, ^idest~ gravi, quando 
+venneno etc.  Qui dice como esso pass@o le colonne de Ercule le quale 
+sono sor lo streto de li monti Ghibaldari, a fine che niuno navige da 
+la man sinistra, per@o che @e loco senza abitatione.  E descrive questo 
+streto de Ghibaldare che sta situato tra ^SETTA~, che @e cit@a de' 
+Saracini e chi@amasse Setta per sete forteze che ha dentro da essa, e 
+da l'altra mano @e ^SIBILIA~, la qual @e de' re de Castella.
+
+	|112-117.~ 
+	^<O frati>, dissi, <che per cento millia~
+^perigli sete gionti a l'occidente,~
+^a questa tanto piciola vigillia~
+^	de' nostri sensi che @e de rimanente~
+^non vogliati negare la experienxa~
+^di retro al sol del mondo senza gente>.~
+
+	El dicto Ulixe conta qui como esso f@e questo parlamento a li soi 
+compagni per animarli ad andar pi@u oltre, dicendo: <O fratelli che 
+seti venuti meco, per centomillia periculi, ^A QUESTA TANTO PIZOLA 
+VIGILIA DE' NOSTRI SENSI~, ^idest~ che li sensi nostri averano poco 
+tempo da vigilare: per@o che nui siamo vechi e tardi, poco poremo 
+vivere al mondo; ^NON VOGLIATI NEGARE ETC.~>, ^idest~ che Ulixe li 
+animava de andar a vedere la experientia del ^SOL~, ^idest~ de la 
+terra, che si chiama ^solum, soli~, ^idest~ la terra, ^DEL MONDO SENZA 
+GENTE~, ^idest~ non abitato, el qual sona a dire `terra inabitabile'.
+
+	|118-120.~ 
+	^Considerate la vostra semenza:~
+^facti non fosti a viver come brutti,~
+^ma per seguir vertude e cognoscenza.~
+
+	Ancora Ulixe pur amaistra questi soi compagni, e il testo @e chiaro, 
+^iuxta illud~: <Homo natus est ut virtuose agat et ad laborem, et avis 
+ad volandum>.
+
+	|121-123.~ 
+	^Li mei compagni fec'io s@i arguti,~
+^con questa oracion piciola, al camino,~
+^ch'a pena poscia li avrei tenutti.~
+
+	Questo @e chiaro.
+
+	|124-129.~ 
+	^E volta nostra poppa nel matino,~
+^d'i remi fecemmo ali a folle vollo,~
+^sempre aquistando dal lato mancino.~
+^	Tutte le stelle gi@a de l'altro pollo~
+^vedea la note, e 'l nostro tanto basso,~
+^che non surgea fuor del marin sollo.~
+
+	Ulixe dice ancora che volt@ano la poppa ^NEL MATINO~, ^idest~ verso 
+oriente, facendo ale de' remi ^A FOLLE VOLLO~ -- e bene fu folle -- 
+sempre da man manca venendo e prendendo la via da quella mano la 
+qualle, segondo la descriptione, \<@e\> quella parte \<ove\> mai non se 
+naviga.
+	^TUTE LE STELLE ETC.~, ^idest~ del polo meridionale, ^VEDEA LA NOTE; 
+IL NOSTRO~, ^idest~ polo septentrionale, vedea ^TANTO BASSO~ che parea 
+acostato col mare: e per@o dice che ^NON SURGEA ETC.~  Or p@oi bene 
+comprendere quanto era andato Ulixe verso el polo antartico, ch@e li 
+parea alto e questo nostro parea tanto basso quanto pi@u esser potea.
+
+	|130-135.~ 
+	^Cinque volte raceso e tante casso~
+^lo lume era di sotto da la luna,~
+^poi che 'ntrati eravam ne l'alto passo,~
+^	quando n'aparve una montagna, bruna~
+^per la distantia, e parvemi alta tanto~
+^quanto veduta non avea alcuna.~
+
+	Qui dice ancora che, quando li aparve ^UNA MONTAGNA, BRUNA PER LA 
+DISTANTIA~, tanto alta che avesse mai viduta alcuna altra, che lo lume 
+era ^CINQUE VOLTE ETC.~  E qui mostra Ulixe lo tempo ch'ello stete in 
+questo Occeano, dicendo che 'l lume de la luna era stato cinque volte 
+^RACESO~ e cinque volte ^CASSO~, ^idest~ che son cinque mesi secondo el 
+mezo moto de la luna, s@i como ne scrive el Maestro nel so ^Computo~.
+
+	|136-142.~ 
+	^Noi ci allegrammo, e tosto torn@o in pianto;~
+^ch@e de la nova terra un turbo nacque~
+^e percosse del legno el primo canto.~
+^	Tre volte el f@e girar con tute l'acque;~
+^a la quarta levar la poppa in suso~
+^e la prora ire in giuso, com'altrui piacque,~
+^	infin che 'l mar fo sopra noi richiuso.~
+
+	Dice Ulixe che se allegraron de questa terra, la qual era ^NOVA~ a 
+loro, non mai viduta; ma la alegreza dura poco, per@o che 'negaron, 
+como dice el testo.  ^TURBO~ @e quel vento che non vene tropo alto, ma 
+rompe ci@o che incontra.
+	Ora, s@i com'io te dissi sopra, non si trov@o mai la morte de questo 
+Ulixe.  Vero @e che Claudiano ne toca qualche cossa dicendo: <Locum per 
+quem prodiit Meg\<e\>ra ad Inferos, videlicet in litore Occani versus 
+Yspaniam, ubi Ulixes, sacrificato Elpenore, ad Inferos discendit>.  E 
+perch@e non mi domentiche queste fiamme che significano, dico che 
+veramente sono bene fiame de parole, le quale accendeno le gente de far 
+malle: e per@o D. le figura a modo de lengue de foco.  E bene meritano 
+de essere figurate a modo de fiamme, per@o che esse fuoron cagione de 
+lo incendio de Troia a la lor guerra e incendio, como per sotil modi e 
+fraudolenti conduceno le grande destructione nel mondo.  E coss@i foron 
+Ulixe e Diomede.
+

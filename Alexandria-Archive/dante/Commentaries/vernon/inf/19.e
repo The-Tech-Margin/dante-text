@@ -1,0 +1,192 @@
+	|Proemio.~  Incomincia il dicianovesimo C.o dello inferno.
+
+	|1-15.~ 
+	^O Simon magho o spiriti seghuaci~
+^che lle cose di Dio che di bontate~
+^deon essere spose voi rapaci.~
+
+Trattato l'altore della seconda bolgia or tratta della terza cio@e 
+della simonia e dividesi questo chapitolo in tre parti gienerali.  
+Nella prima continuando discrive la pena di questi simoniaci.  Nella 
+seconda introducie a pparlare seco uno spirito e pastore di santa 
+chiesa.  Nella terza discrive chom'egli risponde a questo spirito.  In 
+questa prima parte continuando chome comincia questo chapitolo gridando 
+contro a quegli tali pecchatori di questo vizio chome di quegli fu 
+questo Simone magho.  La chagione si @e questa perch'egli fu il primo 
+huomo che per pechunia volle corrompere la novella perfetta fede di 
+Christo overo leggie di Christo cio@e corrompere sam Piero primo 
+pastore di santa chiesa che lli dovesse vendere il dono dello spirito 
+santo.  Questo Simone fu ebreo valentissimo in iscienzia e ffu grande 
+astrolagho e negromante e per@o era appellato magho.  Costui fu al 
+tempo di san Piero e di san Paolo e vedendo che san Piero chacciava i 
+demoni e risucitava i morti e molte cose in virt@u di Dio facieva ed 
+egli non potendo fare questi miracoli essendo disideroso degli onori 
+del mondo e non della grazia di Dio and@o a san Piero e si gli 
+present@o gran quantit@a d'oro preghandolo che dovesse vendere questo 
+dono dello spirito santo di potere suscitare i morti per fare degli 
+altri miracholi.  Laonde ci@o udendo e vedendo san Piero gli rispuose e 
+disse togli i tuoi danari i quali sieno in tua perdizione per@o che tu 
+hai pensato la parola di Dio si possa vendere per danari e di ci@o fa 
+che ti penti acci@o che Iddio ti perdoni e vanne.  Laonde Simone magho 
+pregh@o san Piero dovesse preghare Iddio per lui che per questo la sua 
+perdizione non dovesse essere.  Non per@o il disse per levarsi dalla 
+sua falsa oppenione.  E per@o incominciando il chapitolo dicie cos@i ^O 
+Simon magho o miseri seghuaci~.
+
+	|16-18.~ 
+	^No mmi parian men ampi n@e maggiori~
+^che quei che son nel mio bel san Giovanni~
+^fatti pe' luoghi de' battezzatori.~
+
+L'altore d@a alle dette parole una bella similitudine e dicie queste 
+anime son punite in questo modo che nel fondo di questa lor bolgia @e 
+tutto pieno di buchi cio@e tutto forato e ll'anime vi stanno fitte chol 
+chapo di sotto insino alle ginocchia e tutto l'altro resto fuori cio@e 
+le ghambe e ' piedi e di continuo ardono.  E pone i piedi per 
+l'afflizione overo affezione.  E quando viene a questo luogho veruna 
+anima di nuovo fingie l'altore che nel foro dov'ella de' entrare che 
+quella che v'@e dentro chaschi gi@u al fondo e quella che viene entri 
+piantata in quel bucho onde l'altra @e caschata.  E fatti l'altore in 
+questa similitudine due chose.  La prima che ti d@a esempro chome 
+questi buchi paiono fatti.  La seconda ch'elli d@a di s@e memoria 
+perpetua cio@e tanto tempo quanto durer@a questa sua comedia diciendo 
+l'altore di s@e stesso chos@i ^l'un delli quali ancor non @e molt'anni~ 
+ec.
+
+	|31-87.~ 
+	^Chi @e cholui maestro che ssi cruccia~
+^guizzando pi@u che gli altri suo consorti~
+^diss'io e chui pi@u rossa fiamma succia.~
+
+In questa seconda parte l'altore tratta d'uno spirito che vide a ppi@e 
+d'un altro spirito ghuizzare e isbattersi pi@u forte che tutti gli 
+altri per pi@u pena che per quello che seguiva per dimostrare il che 
+l'altore fingie di dire a Virgilio che volentieri andrebbe laggi@u a 
+sapere chi colui fosse e ffa che Virgilio gliele consentise e 
+prendesselo e portasselo in questo fondo a quello spirito chos@i 
+diciendo
+
+	^O qual che se' che 'l di su tien di sotto~
+^Anima trista come pal commessa~
+^Comincia' io a dir se puoi fa motto.~
+
+L'altore fingie che gli domandi questa anima ch'ella debba dire chi 
+ella @e ed ella risponde ed egli stava atento e chinato per udire la 
+risposta.  In questo chominci@o a gridare credendo fosse uno spirito 
+ch'entrasse in suo luogho e bucho dov'era egli diciendo cos@i l'altore 
+^se' ttu qui gi@a Bonifazio~ ec. tu sse' venuto di parecchi anni 
+piutosto ch'io non credeva e secondo la scrittura.  E Dante gli disse 
+ch'egli non era desso ma ch'egli era huomo vivo e aveva voglia di 
+sapere chi egli era.  Laonde lo spirito gli disse ch'egli era papa 
+Nichola degli Orsini chostui fu reo huomo era uno assai avere e diello 
+a' suoi consorti rubando i benefici sol per simonia e diciendo il detto 
+papa Bonifazio per@o che i[n] mezzo di costor due furono altri papi 
+giusti e buoni ma dietro a llui in questa simonia in questo santo 
+luogho.  Ancor disse che dietro a papa Bonifazio dovea venire un altro 
+piggiore di lui e del papa Bonifazio @e s@i fatto ch'egli amorter@a la 
+'nfamia di me e di Bonifazio in questo vizio.  Ma i[n] mezo di lor due 
+fu un altro papa per@o che noi abian saputo chi fu papa Nichola.  Or 
+veggiamo di questi altri due e prima di papa Bonifazio che ffu di 
+campagnia e ffu monacho huomo astutissimo e reo e ingiegnioso grande 
+amicho in quel tempo de' Colonnesi di Roma e che alfine gli furono 
+nimici per gli suoi inghanni.  Essendo monacho e amicho di chostoro 
+prochacciarono tanto per lui ch'egli fu abate e in brieve fu 
+chardinale.  E mor@i il papa e funne fatto un altro cio@e papa 
+Cilestrino dove si toccha di lui nel terzo chapitolo passato.  Era 
+questo papa civile condizione e stato romito e buono huomo e veggiendo 
+Bonifazio che allora avea nome Benedetto l'essere condizione e modi di 
+papa Cilestrino inamicossi chon esso lui e fegli rifiutare il papato e 
+torn@o a romitoro.  E veggiendo Bonifazio ci@o anco a' Colonnesi 
+ch'erano di loro due chardinali e promisse loro se gli davano le loro 
+boci che chiamerebbe l'uno di loro papa e cos@i fecie agli Orsini e 
+i[n] Napoli si fecie conciestoro e quivi papa Cilestrino rifiut@o il 
+papato.  E feciesi allora un dicreto che ogni papa il potesse 
+rifiutare.  Bonifazio ch'aveva tanto saputo fare che avea le boci da 
+tutti credendo ciaschuno essere egli si puose a ss@e l'amanto di san 
+Piero diciendo papa sono e papa vo' morire.  E veggiendosi costoro 
+inghannati e spezialmente i Colonnesi che ll'aveano fatto grande e alto 
+e chardinale sempre pensarono la sua morte.  E cos@i venne fatto che 
+Sciarra de' Colonnesi abbiendolo stretto a mal partito e non veggiendo 
+socchorso tanto diede del chapo nel muro ch'egli stesso s'uccise e 
+chos@i fin@i sua vita.  E basti di costui.  E diciamo di papa Chimento 
+quinto ch'era arciveschovo di Bordella e de' paesi e degli amici del re 
+Filippo di Francia peximo tiranno bench@e mala fine fecie che chapit@o 
+a mani di bestia cio@e d'un porcho cinghiale.  Questo re Filippo disse 
+a questo arciveschovo ch'egli farebbe s@i ch'egli 'l farebbe papa se 
+gli voleva promettere cierte chose cio@e tre cose la prima di menare la 
+corte ' Avignione.  La seconda di consumare l'Ordine del Tempio ch'era 
+il pi@u bello ordine di christianit@a.  La terza ch'egli ardesse l'ossa 
+di papa Bonifazio.  E tutte queste chose gli promisse di fare se 'l 
+faciesse fare papa e chos@i il fe' far papa e fu papa Chimenti quinto.  
+E lla corte condusse ' Avignone nel MCCCXIII.  Anche il d@i di san 
+Giovanni fecie disfare i frati del tempio e questo fecie i[l] re 
+Filippo perch'egli erano istati contro insieme chol papa Bonifazio.  E 
+fu arso il maestro di questi frati in Parigi a pposta del re e fello 
+fare questo papa Chimento.  La terza promessa nogli volle a tenere per 
+due chagioni.  L'una perch@e non si potesse apporre che se papa 
+Bonifazio non fosse stato papa diritto seghuiva che chostui non poteva 
+essere papa.  L'altra fu perch@e troppa grande resia sarebbe cresciuta 
+tra i christiani udendo e veggiendo fare tale opera.  E per@o disse 
+bene papa Nichola inverso papa Chimento che dopo lui verr@a di pi@u 
+lordura.
+
+	|88-133.~ 
+	^I' non so s'i' mi fu qui troppo folle~
+^ch'io pur rispuosi lui a questo metro~
+^deh or mi di' quanto tesoro volle.~
+
+In questa terza parte fa ll'altore chom'egli rispondesse allo spirito 
+di questo papa Nichola in questa forma iscritta qui nel testo e che 
+pi@u gli direbbe di verghognia se non fosse per reverenzia delle chiavi 
+che llasci@o loro san Piero.  Cos@i villaneggiandolo gli rinprover@o 
+chome n@e san Piero n@e gli altri appostoli non volle n@e oro n@e 
+argiento da sa[n] Mattia quando fu messo nel luogho di Giuda.  Ma voi 
+altri rei e malvagi pastori siete istati del volere di Simon magho.  
+Ancor si conta una novella.  Al tempo di papa Bonifazio regniava Charlo 
+Vecchio il quale era stato fatto per un altro papa inanzi a Bonifazio 
+senatore di Roma e chancielliere di Toschana e re di Puglia.  Laonde 
+papa Bonifazio il fe' richiedere in parentado perch@e noll'aveva Charlo 
+moglie.  Charlo non volendo fare parentado co llui papa Bonifazio 
+isdegniato s@i ssi pens@o e si llo fecie diffidare e perdere il 
+vichariato di Toschana e il sanato di Roma.
+
+	^Di voi pastor s'acchorse il Vangielista~
+^quando colei che siede sopra l'acque~
+^puttanneggiar co' rregi a llui fu vista.~
+
+Anchora l'altore ritoccha chostui diciendo che san Giovanni Vangelista 
+s'achorse e profetizz@o di loro essendo lui istato mandato a' confini e 
+facciendo i libri dell'Appochalissi dicie che ll'agnolo di Dio gli 
+apparve e si gli mostr@o una gran puttana sedere sopra uno grande 
+serpente il quale aveva sette teste e dieci chorna e stava sopra 
+l'acqua.  Della quale istoria l'altore ne chav@o questa fizione che 
+questa gran puttana si @e la chiesa militante e 'l serpente delle sette 
+teste si sono i doni dello Spirito Santo.  E per le dieci chorna siene 
+i dieci mandamenti della leggie e che questa gran puttana cio@e pastori 
+di quella ruffianeggia cholli regi e signiori temporali.  Cio@e che ' 
+pastori s'acostano a' signiori e agli imperadori a re e a baroni dando 
+loro aiuto e ffavore in detti e in fatti e i[n] malfare e strigniendo e 
+consumando loro e il tesoro di santa chiesa tra questi tiranni.  Il 
+qual tesoro deon dispensare e dare a' poveri bisogniosi e in fare i 
+passaggi sopra e contro gli 'nfedeli.  E per@o dicie il nostro altore 
+Dante poeta fiorentino cos@i
+
+	^Ah Ghostantino di quanto mal fu madre~
+^non la tuo conversion ma quella dote~
+^che da tte prese il primo riccho padre.~
+
+Qui fa l'altore una exclamazione riprendendo Ghostantino imperador di 
+Roma quando egli dot@o la chiesa di Roma e ffu questo Ghostantino al 
+tempo di san Salvestro papa ed erano stati XXXVI imperadori di Roma da 
+Ottaviano di Roma secondo imperadore a questo Ghostantino imperadore di 
+Roma e tra tutti non era istato veruno christiano altro che uno.  E 
+Ghostantino non era christiano.  Ed essendo lui imperadore di Roma era 
+lebroso laonde san Salvestro il ghuar@i e predicollo e convertillo al 
+battesimo e si llo battezz@o.  Laonde Ghostantino don@o al papa e alla 
+chiesa santa quello che ora tiene insino al d@i d'oggi.  Ghostantino 
+allora si part@i di Roma e andossene in Ghostantinopoli che prima era 
+chiamata Bisanzio ed ivi acrebbe e difich@o quella citt@a chiamata per 
+suo nome Ghostantinopoli.  E and@o in s@i fatto punto e ora che dalla 
+sua partita in qua mai lo 'mperio di Roma non torn@o di qua e questo 
+basti di questo C.o
+

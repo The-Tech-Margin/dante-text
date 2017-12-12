@@ -1,0 +1,32 @@
+-------------------------------------------------
+Entered on 12 Jan 1998 by dante:
+Copied pasquini from Commentaries. Brought in inf/27.e from Commentaries.new.
+                                                         stc
+-------------------------------------------------
+Entered on 18 Jan 1998 by dante:
+Hollander fixed the typos listed in "Typos.fixed".   -stc
+-------------------------------------------------
+Entered on 09 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 16 Dec 2004 by dante:
+DDP moved from alexandria to webapp
+-------------------------------------------------
+Entered on 29 Oct 2006 by dante:
+Errors found in Inf 28 thru 31. See inf/HISTORY.   -stc
+-------------------------------------------------
+Entered on 06 Jul 2007 by dante:
+Sent a zip file of the entire commentary to Paola at Società Dantesca Italiana
+at sdi@leonet.it. Created the zip file in this directory using
+"zip ddp-pasquini */*.tdat. Also sent them the SQL comments describing the
+fields in the files.  -stc
+-------------------------------------------------
+Entered on 27 Mar 2015 by dante:
+After being notified of errors by Marcello Castangia, Bob found a number of
+accents to correct - grave to acute - in "piu" and "cosi."    -stc

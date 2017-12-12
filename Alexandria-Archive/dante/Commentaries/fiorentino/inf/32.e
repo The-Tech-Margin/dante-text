@@ -1,0 +1,439 @@
+	|Proemio.~  @E sceso in questo centro d'inferno l'Auttore,
+dove sono quattro maniere di tradimenti, puniti nelle persone di
+quattro spezie di traditori, come fu detto nel precedente
+capitolo, in quattro camerette l'una appresso all'altra, et
+continuo si scende dell'una nell'altra, com'@e detto.  Et dice
+l'Auttore che si trov@o assai pi@u basso che i piedi de' giganti,
+da' quali, o dal quale, fu sceso dalla ripa nella decima pozza,
+ovvero bolgia.  In questo pozzo d'inferno nomina queste camerette
+per quattro principali traditori, come susseguentemente apparir@a
+nel testo, Caino, Antenore, Tolomeo, et Giuda.  Queste camerette,
+come che pi@u l'una che l'altra, per@o che quanto pi@u va gi@u, pi@u @e
+forte et pugniente et freddo il ghiaccio, perch@e @e pi@u rimosso da
+quel sole eterno che illumina et scalda i petti de' fedeli
+Cristiani; et per@o che i traditori, commettendo et ordinando il
+loro tradimento, sono freddi et rimossi dall'amore et dalla
+carit@a di Dio et del prossimo, per@o che niuna piet@a gli strigne
+del male che segue del tradimento; ch@e, veggendo ardere et
+disfare una terra, uccidere uomini et fanciulli, non si scalda il
+petto loro freddo di quello ineffabile amore di Dio; pertanto con
+debita et con rispondente pena alla colpa, gli fa essere puniti
+l'Auttore in questo ghiaccio freddissimo, il quale ghiaccio @e
+continuamente raffreddato et condenso da uno vento, il quale si
+muove dal battimento dell'ali di Lucifero; ci@o @e, moralizzando,
+da' pensieri, i quali sono nati negli animi degli uomini dalle
+spirazioni et diaboliche tentazioni, per@o che Lucifero, per
+invidia di quello glorioso regno, il quale perd@e per la sua
+superbia, per paura che da altrui non sia posseduto, sempre si
+sforza di trarlo dalle mani di qualunque si torcesse per
+acquistarlo.  Et cos@i, continuando l'Auttore la sua materia, fa
+tre parti del presente capitolo.  Nella prima fa una debita
+escusazione, et dice s@e essere insufficiente ad avere le parole
+aspre et mordenti come si converrebbono a trattare delle pene et
+de' peccatori che le sostengono; ch@e, come scrive Boezio nel
+libro della ^Consolazione~, i sermoni vorrebbono essere raccolti
+colle cose delle quali parlano; et perch@e l'Auttore non si sente
+a ci@o sufficiente, invoca, al modo poetico, le nove muse, et il
+loro ajuto.  Nella seconda parte nomina certi spiriti, et antichi
+et moderni, che furono da' loro mali pensieri et perverse
+operazioni sospinti in questi peccati; nominando il luogo, dove
+sono puniti, da quello fratricida et traditore Caino.  Nella
+terza parte, doppo alcuna offesa fatta ad alcuno della ghiaccia,
+entra nella seconda camera et nella terza parte del capitolo,
+riprendendo il detto peccatore con parole aspre et salvatiche,
+bene convenienti al fallo suo, nominando la detta seconda camera
+da quello traditore che trad@i il suo signore et la propria
+patria.  La seconda parte comincia quivi: ^D'un corpo uscito @e~
+{v. 58}; la terza quivi: ^Or tu qual se'~ {87}.  Veduto questo, @e
+da venire a sporre il testo, acci@o che se n'abbia piena
+cognizione.
+
+	|1-3.  S'io avessi le rime~: Qui si scusa l'Auttore
+ch'egli non ha le parole n@e le rime aspre et mordenti, come si
+converrebbe a questo tratto.
+
+	|4-5.  Io premerei~: Ci@o @e io pesterei l'erba del mio
+concetto, s@i ch'io ne trarrei ogni sostanzia.
+
+	|10-12.  Ma quelle donne~: Qui, al modo poetico, invoca
+l'ajuto delle nove muse.  Truovasi che due furono, secondo i
+poeti, famosi a muovere le pietre et le selve: dicesi che
+Amfione, volendo fare la citt@a di Tebe, sapea s@i bene sonare,
+che, sonando la citera, le pietre per se medesime si moveano, et
+la calcina, et poneansi in sulla mura; et i maestri che vi
+muravono, era s@i dolce et s@i dilettevole il suono della sua
+citera, che niuna fatica vi duravono; et cos@i, con quello suono
+et collo ajuto di certe donne che gli atavono sonare, si fece la
+citt@a di Tebe.  Et altre terre sono ancora state fatte col suono
+della citera, et altre grandi maraviglie; onde scrive Boezio nel
+terzo libro ^de Consolatione~: Quello poeta di Tracia, piagnendo
+la morte della moglie, poi che con lamentevoli modi fece correre
+le mobili selve, et costrinse i fiumi che stessono fermi; et per
+lo suo piacevole canto la cerva giunse il suo lato non pauroso
+appresso a' rigidi leoni, et la piacevole lepre non temette il
+veduto cane.  La verit@a di questo, come d'Amfione, i poeti non
+vogliono altro sentire, se non che gli uomini, parlando bene et
+pulitamente, egli fanno muovere gli animi degli uomini a fare
+quello ch'elli vogliono; ch@e ci ha d'uomini che hanno pi@u duro
+l'animo, et @e pi@u malagevole a muoverlo che le selve, o che non
+sarebbe volgere i fiumi, et pi@u malagevole a fare fare pace tra
+certi uomini che tra 'l cane et la lepre.  Tutto a simile Amfione
+tebano, volendo fare et fare fare di nuovo la citt@a di Tebe,
+indusse colla sua cetera, ci@o @e colle sue parole che sonavono pi@u
+dolcemente che la cetera, gli uomini de' paesi d'attorno a
+murare, a recare pietre et calcina, et ultimamente ad abitare la
+terra, ajutato dalle donne, ci@o @e dalle muse et dalle scienze,
+senza le quali rade volte si parla ordinato o bene.
+
+	|13-15.  Me' fossi state qui~: L'Auttore dice che quelle
+anime d'inferno (et le chiama |plebe~: ^plebs plebis~ @e il
+popolo) quello popolo era meglio ch'egli fossono state pecore o
+zebe, ci@o @e capre, che avere le pene ch'egli hanno.  I teolaghi
+tengono che l'anima de' dannati, con tutte le pene ch'egli hanno,
+non vorrebbono per@o non essere; et dicono che l'essere si dee
+intendere in due modi, ^bene esse~ et ^esse~, bene essere et
+essere.  Questi dannati hanno perduto il bene essere, ma non
+hanno perduto l'essere, n@e vorrebborlo perdere; ma, come il detto
+dell'Auttore si salvi fu detto nel VI, 32-33, dove si disse: ^Il
+maladetto Cerbero che intruona L'anime, s@i ch'essere vorrebbor
+sorde.~
+
+	|16-17.  Come noi fummo gi@u~: Com'@e stato detto, continuo
+l'Auttore scende infino a Lucifero: dice ora essere pi@u basso che
+i pi@e de' giganti.
+
+	|19-21.  Dicere udimmi~: Chi dicesse queste parole non
+pone l'Auttore: comprendesi l'uno de' due fratelli.  Questi due
+fratelli furono il conte Napoleone, et il conte Alessandro de'
+conti Alberti, i quali furono di s@i perverso animo che, per t@orre
+l'uno all'altro le fortezze che avevono in val di Bisenzio,
+vennono a tanta ira et a tanta malvagit@a d'animo che l'uno uccise
+l'altro, et cos@i insieme morirono.
+
+	|25-27.  Non fece al corso suo~: Truova il ghiaccio qui
+l'Auttore, del quale nel principio di questo capitolo fu
+ragionato, et rende una similitudine, et dice che il fiume del
+Danubio, ch'@e uno fiume grossissimo, et partesi delle montagne
+della Magna, et va verso Ungher$ia, presso al principio quando @e
+in Sterlich, che @e uno paese verso Settentrione, l'anno di verno,
+per lo freddo grande et del tempo et del luogo, fa uno ghiaccio
+s@i serrato et s@i grosso che per tutto il fiume si valica con
+carri, et con carrette, o con cavalli, come s'andasse su per uno
+monte: et similmente avviene del fiume Tanai, ch'@e uno fiume che
+divide et parte Asia da Europa, verso quelle parti fredde di
+tramontana; fa di s@e, il simile che fa il Danubio, ghiaccio
+grossissimo, et cos@i vi si va su come in sul Danubio.
+
+	|28-30.  Ch@e, se Tabernich~: Tabernich @e una montagna in
+Schiavonia, et @e altissima e tutta petrosa, quasi senza terra,
+che pare tutto uno masso a vederla.  |Pietrapana~: @E una montagna
+in Carfagnana, nel contado di Lucca, ch'@e altissima, et pare
+tutta una pietra, et @e in alcuna parte forata.  Ora dice
+l'Auttore che, se queste due montagne cadessono in su quello
+ghiaccio, non farebbono |cricch~, ci@o @e nol moverebbono niente.
+
+	|31-36.  E come a gracidar si sta~: Dice che in quel
+tempo che la rana sta a gracidare, che non mette altro che il
+muso fuori dell'acqua, cos@i i peccatori stavono nel ghiaccio. 
+|Di spigolar sovente~: Spesse volte i sogni di coloro che dormono
+sono simiglianti all'opere loro quando sono desti: la villana
+sogna di ricogliere le spighe l'anno quando si miete et @e di
+ricolta.  |Io vidi in sin l@a~: La vergogna, la volont@a, et ogni
+affezione dell'animo, appariscon piuttosto nel viso che altrove,
+per@o che ^in facie hominis legitur secreta voluntas~; nella
+faccia dell'uomo si legge la sua segreta volont@a.  |Mettendo i
+denti in~: La cicogna non ha lingua, et pertanto non canta a modo
+degli altri uccelli, ma, quando canta, batte l'uno dente con
+l'altro: tutto a simile per lo freddo faceono i peccatori.
+
+	|37-39.  Da bocca il freddo~: Dice l'Auttore che si potea
+guardare la bocca, ch@e al menare de' denti era segno che facea
+loro freddo, et agli occhi, che teneano bassi et chinati, era
+segno che 'l cuore era tristo et dolente.
+
+	|56-57.  La valle onde Bisenzo~: Questi due fratelli
+ebbono le loro castella in val di Bisenzio.  Bisenzio @e uno
+fiumicello che si muove da' monti Appennini et viene verso Prato,
+et mette in Arno.  Et in Val di Bisenzio hanno affare i conti
+Alberti.
+
+	|58-60.  D'un corpo usciro~: Furono fratelli.  Leggesi
+nel principio del Genesis che Adamo, nostro primo padre, appresso
+a 30 anni che fu fuori del Paradiso terrestre, ebbe uno figliuolo
+nome Caino; d'ivi a altri 30 anni ebbe l'altro figliuolo Abel. 
+Caino si di@e a lavorare terre: Abel al bestiame, et fu pastore. 
+Iddio avea loro comandato ch'egliono delle migliori cose gli
+facessono sacrificio.  Caino toglieva sempre la pi@u trista cosa
+ch'egli avea, et di quella facea sacrificio: Abel il pi@u bello
+caveretto ch'egli avea prendea, et faceane sacrificio: il fummo
+d'Abel andava ritto verso il cielo, quello di Caino si ravvolgea
+verso la terra.  Le terre che lavorava Caino rispondevono male;
+quelle d'Abel rispondeano bene: per questo crebbe la invidia. 
+Onde Caino men@o Abel di fuori alle montagne, ci@o @e alle campagne,
+mostrando di volere andare a vedere loro lavor$ii.  Caino con uno
+bastone che avea in mano percosse Abel et ucciselo, et poi il
+coperse di foglie et d'erba; onde il sangue innocente grid@o
+vendetta a Dio etc.  Ora, perch@e Caino fu il primo fratricida,
+chiama l'Auttore questa prima prigione |Caina.~
+
+	|61-62.  Non quelli a cui fu~: Leggesi ne' romanzi de'
+cavalieri erranti della Tavola ritonda che il re Art@u di
+Brettagna, perch@e Lancillotto de Lac gli avea tolta sua donna
+Ginevera reina, si mosse di Cammellotto per andare assediare
+Lancillotto, ch'era l@a nella Francia, che a quello tempo era
+chiamata Gaules; et doppo molte battaglie avute insiemi, manc@o
+della gente del Re molta.  Mordaret rimase vicario del Re in
+Camellot, ch'era nipote del re Art@u, figliuolo della sirocchia
+ch'era reina d'Orgama.  Fece Mordaret contraffare lettere del re
+Art@u, et contraffare il suggello del Re; et mostr@o che messer
+Calvano scrivesse da sua parte come il re Art@u era stato
+sconfitto et morto, et quasi tutta sua gente, et che il Re non si
+trovava, et pertanto non facessono ragione di lui.  Mordaret,
+fatta leggere la lettera a' baroni del reame, avendo fatti doni
+et promissioni, col loro consentimento si fece coronare re. 
+Quando questo venne agli orecchi del re Art@u, venne verso
+Camellotto colla sua forza.  Mordaret gli fu allo 'ncontro colla
+sua gente: quivi fu grande battaglia fra loro; infine Mordaret si
+scontr@o nella battaglia col re Art@u suo zio.  Il Re il pass@o per
+lo petto d'una lancia dall'uno lato all'altro, et al trarre della
+lancia, il sole pass@o per la fedita, s@i che ivi si ruppe l'ombra
+del corpo di Mordaret: Mordaret fer@i il Re in sul capo d'una
+spada, et cos@i uccise l'uno l'altro.
+
+	|63-66.  Non Focaccia~: Focaccia fu de' Cancellieri da
+Pistoja, il quale avea uno suo zio ch'era gran ricco uomo; e 'l
+Focaccia, perch'era suo nipote, et quelli non avea niuno
+figliuolo, aspettava il retaggio che a lui appartenea di ragione. 
+Era vivuto questo suo zio grande tempo: al Focaccia gli parve
+ch'egli indugiasse troppo a morire: affrett@o la sua morte; et
+finalmente un d@i in luogo segreto l'uccise: poi in fine pure si
+seppe che 'l Focaccia l'avea morto.  |Et fu' nomato Sassol~:
+Sassolo Mascheroni fu de' Toschi da Firenze; et avendo uno suo
+zio vecchio, ricco uomo che non avea altro che uno fanciullo,
+pens@o, se io uccido questo fanciullo, io rimarr@o reda di questo
+mio zio.  Stette pi@u tempo di fuori: poi un d@i celatamente si
+mosse con alcuno compagno; et fatto lusingare il fanciullo, il
+men@o fuori della terra, et ivi l'uccise; et sconosciuto si part@i:
+non si sapea chi morto l'avesse.  Torn@o Sassolo d'ivi a uno tempo
+a Firenze: giugne a casa, fa lo scarpore grande di questo suo
+cugino; et prese il reditaggio del zio ch'era gi@a morto.  Infine
+il fatto si scoperse: fu preso costui, et confessato il
+malefizio, fu messo in una botte d'aguti, et fu strascinato
+rotolando la botte per la terra, et poi gli fu mozzo il capo.  Fu
+questa novella s@i palese, che per tutta Toscana se ne parl@o: et
+per@o dice l'Auttore: Se tu se' di Toscana, tu il dei sapere.
+
+	|68-69.  Sappi ch'io fui il Camiscion~: Questo Camiscione
+fu de' Pazzi di Valdarno; et andando un d@i a diletto messer
+Ubertino de' Pazzi suo cugino et egli, perocch@e avevono certe
+fortezze comuni come consorti, Camiscione pensa di pigliarle per
+s@e, morto messer Ubertino: cos@i cavalcando gli corse addosso con
+uno coltello, et diegli pi@u colpi, et finalmente l'uccise.  |Et
+aspetto Carlin che~: Dice Camiscione: Io aspetto Carlino mio
+consorto, che far@a maggiore male di me; s@i ch'elli mi scagioner@a:
+parlerassi di lui, et i fatti miei si taceranno.  Nel MCCCIJ,
+essendo l'oste del comune di Firenze intorno a Pistoja, si
+rubell@o a' Fiorentini il Castello di Piano di Travigne in Val
+d'Arno, per Carlino de' Pazzi di Val d'Arno; et in quello col
+detto Carlino de' migliori uomini di Firenze usciti, Ghibellini
+et Bianchi, grandi et popolani, si rinchiusono, et faceono grande
+guerra et danno nel Valdarno di sopra; per la qual cosa i
+Fiorentini levorono l'oste da Pistoja, lasciando il terzo d@i loro
+gente intorno a Seravalle in servigio de' Lucchesi, et tutta
+l'altra oste tornata in Firenze, senza soggiorno n'andorono nel
+mese di giugno in Valdarno al detto Castello di Piano, et a
+quello stettono ad assedio per XXVIIJ d@i: alfine, per tradimento
+di Carlino medesimo et predetto, per moneta ch'elli n'ebbe, i
+Fiorentini ebbono il castello.  Essendo Carlino di fuori, fece a'
+suoi fedeli dare l'entrata del castello; onde molti vi furono
+morti et presi, pure dei migliori usciti di Firenze; et ci@o
+fatto, tornati a Firenze con questa vittoria, senza soggiorno
+andorono sopra gli Ubaldini.
+
+	|73-74.  Al quale ogni gravezza si rauna~: Ogni cosa
+grave tira verso il centro della terra, per@o che, quanto la cosa
+@e pi@u grave, pi@u va verso il fondo; onde si vede che il fuoco @e
+pi@u lieve che l'aria, et per@o @e di sopra; et l'aria @e pi@u lieve
+che l'acqua, et per@o segue il fuoco; et la gravezza della terra @e
+di sotto all'acqua: tutto a simile nella terra medesima,
+qualunque terra @e di materia pi@u grave, se gi@a la forza nolla
+tiene, per sua natura va pi@u verso 'l centro.
+
+	|80-81.  Se tu non vieni a crescer~: Per@o che l'Auttore
+et i suoi passati furono d'origine Guelfi, et furono cogl'altri a
+cacciare messer Bocca Abati et i suoi consorti di Firenze, per lo
+tradimento fatto per messer Bocca a Monteaperti, pertanto dice
+messer Bocca: Vuo' tu fare maggiore vendetta, et crescere quella
+che una volta fu fatta tanto che dee bastare?  Et per che di
+Monteaperti @e stata fatta addirietro menzione, qui non si
+distende la storia; ma rammentasi che quando i Sanesi et i
+Fiorentini ghibellini, usciti di Firenze, uscirono di Siena
+contro all'oste de' Fiorentini ch'era a Monteaperti; pi@u
+Ghibellini, ch'erono nel campo de' Fiorentini et a cavallo et a
+pi@e, veggendo appressare le schiere de' nimici, com'era ordinato
+il tradimento, si fuggirono dall'altra parte, et ci@o furono di
+quelli Della Pressa, et degli Abati, et pi@u altri; et come la
+schiera de' Tedeschi percossono ruinosamente la schiera de'
+Fiorentini, ov'era la 'nsegna della cavalleria, la qual portava
+messer Jacopo de' Pazzi, uomo di gran valore, il traditore di
+messer Bocca degli Abati, ch'era in sua schiera et presso di lui,
+colla spada fed@i messer Jacopo, et tagli@oli la mano colla quale
+tenea la 'nsegna del Comune di Firenze; onde i Fiorentini furono
+sconfitti.
+
+	|88.  Che vai per l'Anten@ora~: Fa menzione l'Auttore in
+questa seconda prigione di coloro che tradirono la propria
+patria, o loro signore, o loro parte, et chiamala Antenora.  Chi
+fosse Antenore, per cui questo luogo @e denominato, @e stato tocco
+addirietro in uno capitolo di questo libro, come elli, Eneas,
+Pollidamas, Ucalion, tennono uno trattato co' Greci, per mezzo di
+Sinone greco, et come si fece la congiura a pi@e del cavallo
+intagliato, ch'era al lato alla porta; et come Antenore, venuti
+che furono i Greci, aperse loro la porta, et missongli in Troja,
+et egliono et loro gente furono assicurati, onde Priamo fu morto,
+et Troja messa a fuoco et ridotta in cenere.  Et da questo
+Antenore @e denominata la seconda prigione.
+
+	|115-117.  L'argento de' Franceschi~: Negli anni di
+Cristo MCCLXV, il conte Guido di Monforte, colla cavalleria che
+il conte Carlo gli lasci@o a guidare, et con la Contessa donna del
+conte Carlo et co' suoi cavalieri, si part@i di Francia del mese
+di giugno; et col conte di Monforte fu messer Broccardo conte di
+Vandomo, messer Giovanni suo fratello, messer Guido di Belvagio,
+il vescovo d'Alzuno, et messer Filippo di Monforte, messer
+Guglielmo et messer Piero di Belmonte, et messer Ruberto di
+Bettona, primogenito del conte di Fiandra, et messer Gilio il
+Bruno, il quale era conestabile di Francia, il maliscalco di
+Mirapesce, messer Guglielmo Lo Stendardo, messer Giovanni di
+Bresilia, maliscalco del conte Carlo, et feciono la via di
+Borgogna et di Soavia, et passorono le montagne dette Monsanese;
+et arrivati nella contrada di Torino et d'Asti, dal marchese di
+Monferrato furono ricevuti onorevolmente, perch@e il Marchese
+tenea colla Chiesa et era contro al re Manfredi, et per lo suo
+condotto, et ajuto de' Melanesi, si missono a passare per
+Lombardia, cavalcando schierati da Piamonte infino a Parma, per@o
+che 'l marchese Palavigino, parente del re Manfredi, colla forza
+de' Cremonesi et dell'altre citt@a ghibelline di Lombardia, ch'era
+in lega col re Manfredi, era a guardare i passi con pi@u di
+tremilia cavalieri tedeschi et lombardi.  Alfine, come piacque a
+Dio, veggendosi assai di presso le dette due osti al luogo
+detto..., i Franceschi valicorono senza contasto di battaglia; et
+a Parma arrivorono.  Bene si disse che messer Buoso della casa da
+Duera di Cremona, per danari ch'ebbe da' Franceschi, misse
+consiglio per modo che l'oste di Manfredi non fosse al contasto
+al passo, come erono ordinati, onde poi il popolo di Cremona a
+furore cacciorono il legnaggio da Duera et disfeciono i loro
+beni.
+
+	|119-120.  Tu hai dal lato quel di Beccher$ia~: Negli anni
+di Cristo MCCLVIIJ del mese di settembre, il popolo di Firenze
+fece pigliare l'abate di Valembrosa, il quale era gentile uomo
+de' signori di Beccheria di Pav$ia, essendogli apposto che, a
+petizione de' Ghibellini usciti di Firenze, trattava tradimento;
+et quello per martorio gli feciono confessare, et scelleratamente
+in sulla piazza di santo Pulinari gli feciono a grido di popolo
+tagliare la testa, non guardando a suo ordine sacro: per la qual
+cosa il Comune di Firenze et i Fiorentini dal Papa furono
+scomunicati, et dal Comune di Pavia, et da quelli di Beccheria
+suoi consorti, i Fiorentini che passavono per Lombard$ia
+ricevevono molto danno.  Et di vero si disse che il religioso
+uomo non avea niuna colpa, con tutto che di sua nazione fosse
+grande ghibellino; per lo qual peccato si credette i Fiorentini
+essere sconfitti poi a Monteaperti.  Et questo ch'@e detto @e
+scritto nella Cronica; ma l'Auttore, per lo luogo dove fa punire
+et essere punito il detto Abate, tenne lui essere colpevole del
+detto trattato; ma, come che il fatto si fosse, quelli di
+Beccheria, consorti dell'Abate et signori di Pavia, si dolsono
+della ingiuria fatta al consorto loro con lettere minacciatorie
+(et perch@e in alcuna parte fu loro risposto per savio
+cancellieri, @e da ricordarla), dove diceano ch'elli si riputavono
+a gran vergogna che uno della famiglia di Beccheria gli fosse per
+tradimento tagliato il capo, et che questa vergogna redundava in
+tutti quelli della famiglia: fu risposto che ^Non est ideo
+apostolorum sanctitas diminuta ex eo quod Judas, qui suum
+tradiderat salvatorem, laqueo se suspendit~; Non fu la santit@a
+degli altri apostoli in alcuno modo scemata n@e maculata, perch@e
+Giuda s'impiccasse per la gola etc.
+
+	|121.  Gianni de' Soldanier~: Chi fosse messer Gianni de'
+Soldanieri, addirietro, dove si fece memoria de' Ghibellini,
+quando la seconda volta furono cacciati di Firenze, non @e bisogno
+stendere la storia; ma perch@e l'Auttore fa memoria di lui, @e da
+ricordare la sua operazione.  Essendo levata la terra, et i
+cittadini di Firenze tutti sotto l'arme, per lo romore levato per
+Lamberti in Calimala alla bottega de' Consoli com'@e stato detto,
+i XXXVI si partirono dal consiglio, et il popolo si ridusse tutto
+nella via larga di Santa Trinita, et messer Gianni de' Soldanieri
+si fece capo del popolo per montare in stato, non guardando al
+fine che dovea riuscire a scontro di parte Ghibellina et a suo
+dannaggio; che sempre pare che sia avvenuto in Firenze a chi s'@e
+fatto capo di popolo; et cos@i armati a pi@e di casa i Soldanieri
+s'ammassorono i popolani in grandissimo numero, onde poi segu@i
+che furono cacciati i Ghibellini; et perch@e messer Gianni
+Soldanieri si fece capo del popolo, tradendo i consorti suoi
+ch'erono ghibellini et sua parte, il mette in questo luogo
+l'Auttore.
+
+	|122-123.  Pi@u l@a con Ganellone~: Come si truova nella
+cronica martiniana, Carlo re di Francia, figliuolo di Pipino,
+vinse i Sassoni; et passando il fiume del Reno, gli Alamanni et
+quelli di Soavia, e' Barberi, ricercando in fino al Danubio
+occup@o tutto: sottopose ancora i Frisoni, Borgondia et Loteringo;
+e' Saracini, venendo nelle province con innumerabili moltitudine,
+con loro combattendo, vinse, et ogni luogo soggiog@o; nell'ultimo,
+essendo molte volte tradito da Gano di Maganza, del quale
+l'Auttore fa menzione, a Roncisvalle Orlando et gli altri suoi
+Paladini e 'l fiore di sua gente, per tradimento di Ganellone
+predetto furono disfatti, et morta l'ultima potenzia di Carlo
+Magno da' Saracini, che in quello luogo combattero, in quello
+luogo dove ancora assai segni si truovono della battaglia.  |Et
+Tribaldello~: Com'@e stato detto innanzi, al tempo di Papa Martino
+dal Torso, essendo venuto in Romagna, a petizione del Papa et
+della Chiesa, messer Giovanni d'Epa con gente d'arme, et avendo
+acquistate terre in Romagna per la Chiesa, ch'erano pe' tiranni
+di Romagna suggiogate, finalmente tenne trattato con Tribaldello
+de' Manfredi, promettendogli assai, et egli gli facesse venire
+alle mani Faenza; et avendo Tribaldello una notte in guardia una
+delle porti di Faenza, essendo i Faentini addormentati, et quelle
+guardie di cui egli sospettava, aperse la porta et missevi dentro
+la gente della Chiesa: poi, quando messer Giovanni predetto fu
+intorno a Fano, com'@e stato detto, il conte Guido da Monte
+Feltro, che n'era signore, poi ch'elli ebbe morti quelli ch'erano
+intrati in Fano, usc@i fuori, et sconfisse il rimanente.  In
+quella battaglia fu morto questo Tribaldello de' Manfredi.
+
+	|125-126.  Ch'io vidi due~: Questi furono, l'uno il conte
+Ugolino de' Gherardeschi, et l'altro l'arcivescovo Ruggeri degli
+Ubaldini, de' quali distesamente si parler@a nel seguente
+capitolo.
+
+	|130-132.  Non altrimenti Tideo~: Scrive Stazio nell'VIII
+libro della sua ^Tebaida~ che Tideo, figliuolo del re Oreus di
+Calidonia, combattendo co' Tebani (la cagione della guerra in
+questo libro pi@u volte @e stata detta), et faccendo molta
+uccisione di Tebani, come quelli ch'era valentissimo cavaliere et
+era venuto quivi col re Adastrus, Menalippo tebano, veggendo
+Tideo fare tali maraviglie, gli lanci@o d'una lancia et fedillo
+nel fianco a morte.  Tideo cadde, et poi si rilieva per
+combattere: et per che la fedita ch'egli avea avuta era mortale,
+veniasi meno che pi@u non potea; onde i suoi a forza il trassono
+fuori del campo in su uno palvese, et ivi posto, comincia a
+volgere gli occhi, et bene s'avvide della morte sua.  Uno suo
+caro compagno nome Melampo dimand@o Tideo s'egli gli voleva
+imporre nulla: Tideo il preg@o ch'egli il vendicasse di chi l'avea
+morto, et che grandissima voglia avea di vederlo morto prima
+ch'egli morisse; Melampo and@o nel campo, et trovato Menalippo, il
+fed@i a morte, et trascinandolo cos@i mezzo morto, il men@o a Tideo. 
+Tideo gli disse ch'egli gli tagliasse il capo, et dessilo a lui
+cos@i partito dallo imbusto.  Dato che gli ebbe il capo di
+Menalippo, Tideo quasi morto si reca questo capo in mano et
+comincialo a mordere et a ficcare i denti nelle tempie; et cos@i
+rodendo il cervello di Menalippo, a Tideo vennono meno gli
+spiriti, et fin@i sua vita.
+
+	|135-139.  Ch@e, se tu a ragion~: Al conte Ugolino dice
+l'Auttore: Dimmi se tu hai ragione di mordere costui et chi egli
+@e, se vuogli che io te ne cangi, ci@o @e, se vuogli ch'io ti dica
+nel mondo su la novella, et che io gli dia infamia; et io ti
+prometto di farlo, se la lingua con ch'io parlo non mi viene
+meno.

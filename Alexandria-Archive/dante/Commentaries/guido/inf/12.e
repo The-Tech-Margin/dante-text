@@ -1,0 +1,1027 @@
+	|Proemio.~  ^Incipit XII' cantus prime cantice Comedie.~ 
+In isto XII+o~ cantu autor descendit in septimum circulum, qui
+incipit in isto cantu, ibi: <Cos@i prendemo via gi@u per lo
+scarco>, etc.; et finit in XVII, ibi: <torna' mi indietro da
+l'anime lasse> {*v. 78*}.  In cuius introitu ponit Minotaurum,
+qui tenet typum triplicis violentie, scilicet in proximum, se
+ipsum, et Deum.  Dividit autem istum circulum in tres girones. 
+Primus incipit ibi:
+
+     Ma ficca li occhi a valle, ch$e s'approccia
+     la riviera del sangue, etc.
+
+                        (^Inf.~ XII. 46-47)
+
+Et finit ibi: <Poi si rivolse et ripassossi 'l guazzo> {*v.
+139*}.  Et ponit in isto primo girone violentiam que exercetur in
+proximum.
+
+	In isto XII+o~ cantu continentur due comparationes {*vv.
+4-6; 21-24*} et tria notabilia {*vv. 49-51; 66; 87*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Descendens autor in septimum circulum, duo principaliter
+facit: Nam primo designat descensum, qualiter scilicet factus
+est, dicens quod ille descensus est ita factus sicut est illa
+ruina que in partibus Lombardie, inter Trivisium scilicet et
+Tridentum, fluvium Attacis {^Br.~ Atticis} percussit.  Et in isto 
+tali ruinoso descensu Minotaurum invenit, qui positus est ibi ut 
+custodiat illam viam.  Qui Minotaurus, statim quod vidit autorem, 
+iracundia totus accensus, se ipsum pre nimia ira momordit. 
+Contra quem Virgilius clamans ait: <Tu forsitan credis quod iste
+qui mecum est sit dux Atheniensis, qui tibi mortem superius in
+mundo porrexit?  Recede hinc, bestia, quia iste non venit doctus
+a tua sorore, sed vadit vestra videndo tormenta>.  Tunc
+Minotaurus, ad similitudinem tauri cum fuerit letaliter
+vulneratus, qui ire vel currere nescit, sed huc et illuc saltando
+discurrit, de illa quam custodiebat ruina recessit.  Et tunc
+Virgilius mandavit autori ut, interim quod ille erat in furia,
+viam arriperet versus yma.  Dum autem sic ambo descenderent, et
+Dantes de illa ruina in sua mente aliquantulum cogitaret, ait ad
+eum ipse Virgilius: <Tu forsitan cogitas de ista ruina, que
+custodita est ab illa ira bestiali quam modo ego extinxi.  Volo
+enim quod scias quod alia vice quando ad yma descendi, quod ista
+roccia, idest ista petrosa ruina, adhuc ruinata non erat.  Sed
+certe, si bene discerno vel recolo, modicum antequam venisset
+ille qui magnam predam abstulit Diti de circulo primo, ex omni
+parte ista fetida vallis ita tremuit, quod ego cogitavi in corde
+meo quod universum sentiret amorem, per quem est qui credat quod
+mundus in chaos pluribus vicibus sit conversus.  Et in illo
+puncto petre in Inferno hic et alibi scisse sunt>.  Secundo,
+postquam autor descensum descripsit, ad designandum septimum
+circulum manum extendit, dicens quod vidit unam amplam foveam in
+cuius circuitu centauri armati currebant, qui centauri videntes
+istos descendere, se firmaverunt, et tres ex ipsis de acie
+exiverunt.  Et unus istorum trium clamavit ad eos a longe dicens:
+<Ad quod martirium venitis vos qui de coste descenditis?  Dicatis
+istinc, alioquin arcum extendo>.  Ad quem Virgilius ait:
+<Responsionem faciemus istic de prope nos Chyroni.  Semper enim
+fuit ad tuum damnum tuum desiderium ita velox>.  Postea tetigit
+Dantem dicens: <Ille enim est Nessus, qui mortuus est pro
+Deianira et fecit ipsemet de se ipso vindictam.  Et ille qui est
+in medio, qui respicit sibi pectus, est magnus Chyron, qui
+nutrivit Achillem.  Ille vero alius Folus est, qui fuit iracundia
+ita plenus.  In circuitu nanque istius fovee vadunt ad mille ad
+mille sagittando qualemcunque animam que plus de sanguine se
+evellit quam culpa sua minime sortiatur>.  Et hec dicens
+appropinquavit ad illos.  Chiron autem, videns Dantem pedibus
+lapides conmoventem, ait ad socios: <Perpenditis vos quod ille
+qui venit retro movet omne quod tangit?  Non sunt ita soliti
+pedes facere mortuorum>.  Cui Virgilius: <Vere vivus est et non
+mortuus, cui me oportet ostendere vallem nigram, virtute et
+autoritate illius que veniens de illo loco ubi alleluia cantatur,
+conmisit istud officium michi novum.  Sed per illam virtutem per
+quam moveo pedes meos per tam silvestrem stratam, te adiuro ut de
+tuis des nobis unum in ducem, qui et viam nobis demonstret, et
+hunc, quia non est spiritus qui vadat per aerem, portet>.  Tunc
+Chiron mandavit Nesso ut eos incolumes secum ducat.  Qui cum
+Chironi per omnia paruisset, et eos portavit, et istum primum
+gironem curialiter confabulando monstravit, et eos usque ad ripam
+aliam transvadavit.  Dum autem sic iuxta fluvium sanguinis
+peregrarent, Centaurus monstravit autori quasdam animas que erant
+usque ad cilium in illo sanguine bullienti submerse, quas dixit
+esse animas tyrannorum qui in hoc mundo contra bona subditorum ac
+etiam sanguinem tyrannide usi sunt.  Et inter alios demonstravit
+ei quatuor summos tyrannos, videlicet Alexandrum imperatorem
+Grecorum, Dyonisium regem Syracusarum, Azolinum de Romano, et
+Opizum Marchionem Extensem; quorum primus tyrannizavit in toto
+orbe terrarum; secundus in regno Sicilie; tertius in Marchia
+Trivisana ac etiam in pluribus partibus Lombardie; quartus vero
+in civitate Ferrariensi et alibi.  His autem visis, autor una cum
+Virgilio super Centaurum ascendit et fluvium transvadavit.  Cum
+vero sic fluvium transvadarent, dicit autor se vidisse quasdam
+animas usque ad gulam ibi submersas.  Quas cum attente
+respiceret, demonstravit sibi Centaurus unam animam solam,
+dicens: <Iste scidit in gremio Dei illud cor quod adhuc super
+Tamigium deploratur>.  Postea vidit quandam gentem que caput et
+totum corpus tenebant, exceptis tibiis et cruribus, extra rivum. 
+Et sic quanto plus ibant, tanto plus ille sanguis in illo fluvio
+bassus erat, ubi animas solummodo in pedibus cruciabat, et ibi ad
+ripam aliam transvadarunt.  Et antequam Centaurus eos deponeret,
+ait ad Dantem: <Sicut ex ista parte tu vides fluvium valde
+bassum, ita volo quod pro certo tu credas quod ab ista alia parte
+fluvius profundatur, ubi peccatum tyrannidis condemnatur.  In quo
+loco quinque alios summos violentos tyrannos atque predones
+similiter nominavit.  Quorum primus fuit Totila, flagellum Dei;
+secundus Pirrus, rex Epyrotarum; tertius, Sextus, filius Magni
+Pompei; quartus, Raynerius de Corneto; quintus vero et ultimus,
+Raynerius Pazzo; qui duo ultimi fuerunt stratarum publici
+predatores>.  Postquam vero Centaurus autori omnia que sunt in
+isto primo girone monstravit, i{*ps*}um ad terram deposuit, et
+per viam quam transvadaverat transvadavit.  Unde ait in textu:
+<Poi si rivolse et ripassossi 'l guazzo>.
+
+	|1-3.~  Licteram sic construe: Ille locus ubi ripam
+descendere venimus erat alpestris, idest valde durus et arduus,
+sicut sunt loca in Alpibus, ubi nulla via vel semita reperitur. 
+Quasi dicat: Non solum propter asperitatem ille locus per quem
+descendimus erat horridus pedibus ad ambulandum, sed erat omni
+visui terribilis et abominabilis etiam ad videndum; et hoc
+propter illud quod erat ibi, scilicet precipitium quod erat adeo
+magnum, quod fundus ibi nullatenus videbatur.
+
+	|4-6.~  Exemplificat hic autor et dicit quod illa ruina,
+per quam descendit, est similis ille ruine que est in montibus
+citra Tridentum, que quidem ruina Attacis fluvium percussit, aut
+propter terremotum, aut propter debilem fundamentum.  Istoria
+talis est: Inter Tridentum enim et Trivisium est quidam mons qui
+vocatur Marchus, et iuxta istum montem, ex latere Trivisii,
+transit quidam fluvius qui appellatur Attax; iste itaque mons in
+quadam sui parte, aut propter terremotum aut propter debile
+fundamentum, cum magna valde ruina descendit in planum; et sic ad
+yma ruendo, ab una ripa fluvium Attacis percussit.  Fluvius vero
+taliter a monte percussus, fere per miliare recessit; tanta enim
+fuit materia quam secum illa ruina contraxit, quando sic de monte
+ruendo descendit in planum.  Et in capite istius ruine invenit
+Minotaurum, qui tenet typum atque figuram malitie et
+bestialitatis.  Et sub nomine malitie et bestialitatis ponit
+autor violentiam atque fraudem.  Violentiam dividit in tres
+partes, secundum quod homo potest ea tripliciter uti: videlicet
+contra proximum, contra se ipsum, et contra Deum.  Prima punitur
+in primo girone, in quodam scilicet fluvio sanguinis bullientis. 
+Secunda ponitur in secundo girone, in quodam scilicet nemore
+prunis silvestribus et canibus nigris pleno.  Tertia vero punitur
+in tertio girone, in quodam loco scilicet arenoso, ubi continue
+pluvit ignis.  Fraus autem dividitur in duas partes, scilicet in
+deceptionem et proditionem.  Sed quia decem modis committitur
+fraus, ideo decem locis punitur; que loca malebulgie nuncupantur. 
+Proditio vero, quia quadripartita est, idcirco in quatuor
+partibus collocatur sive includitur.
+
+	^PRIMA COMPARATIO.~  Lictera plana est et aperta, et
+nichilominus superius exarata.
+
+	|11-12.~  Ista Cretensis infamia fuit quidam vir
+inhumanus, filius regis Minoys, qui dictus est Minotaurus.  Cuius
+ystoria hec est: Dum Pasiphe, uxor Minois regis Cretensis,
+pulcritudine unius tauri, ut poete dicunt, plurimum capta esset,
+rogavit Dedalum, qui erat valde ingeniosus, ut viam inveniret et
+modum quomodo ipsa cum illo tauro, quem tantum amabat, concumbere
+posset.  Dedalus autem, vir summi ingenii, vaccam ligneam vacuam
+intus fecit, quam corio unius pulcerrime vacce, quam ille taurus
+ardenter amabat, cooperuit, et ibi intus reginam Pasiphem
+abscondit.  Taurus vero, visa vacca, ad eam cucurrit, et ypsam
+ymaginans esse vaccam, cum regina concubuit.  Unde Virgilius in
+^Bucholicis~:
+
+     Pasiphen nivei solatur amore iuvenci.
+     Ha, virgo infelix, que te dementia cepit?
+
+                        {^Eclogue~ IV. 46-47}
+
+	Virginem vocat eam Virgilius, non quod virgo esset, quia
+iam mater fuerat Fedre, Adriagnes, et Androgei, sed a viridi et
+pulcra etate virginem eam vocat.  Ex quo concubitu fuit genitus
+Minotaurus, homo quidam, scilicet inhumanus, ut dicit magister in
+ystoriis scolasticis.  Videns autem Minos talem filium sibi
+natum, ipsum in laberinto reclusit.  Unde Ovidius, 8 libro
+^Methamorphoseos~, in VII versibus quatuor breviter comprehendit,
+scilicet adulterium regine, partum ipsius adulterii monstruosum,
+laberintum a Dedalo fabricatum, et in ipso Minotaurum inclusum,
+dicens:
+
+     Creverat opprobrium generis, fedumque patebat
+     Matris adulterium monstri novitate biformis;
+     Destinat hunc Minos thalami removere pudorem
+     Multiplicique domo cecisque includere tectis.
+     Dedalus ingenio fabre celeberrimus artis
+     Ponit opus, turbaque notans, et lumina flexu
+     Ducit in errorem variarum ambage viarum.
+
+                        {^Met.~ VIII. 155-161}
+
+	Et cum ipse Minos Athenienses tam atroci prelio
+subiugasset, quod tenebantur annuatim ipsi Athenienses suos
+pueros mittere devorandos, post nonum annum tributi cecidit sors
+super Egei, regis filium, qui vocabatur Theseus, clamanti
+universo populo Athenarum quod per illos novem transactos annos
+filii eorum Minotauro devorandi fuerant destinati.  Theseus
+autem, veniens in Cretam, ab Adriagne, filia regis Cretensis,
+diligitur, et ob hoc ab ipsa sagaciter edocetur quomodo ab ipso
+Minotauro non solum evadat, sed insuper, quomodo ipsum occidat et
+de ipso postea exeat laberinto.  Dedit enim sibi unum globum fili
+cum quo, sicut intraret, exitum invenire valeret; ac etiam
+quasdam pallas, pice, lana et farina confectas, mandans ei ut cum
+Minotaurus os pre fame et bestiali iracundia aperiret, quod illas
+pallas proiceret in os eius.  
+
+	|19-20.~  Quod cum Theseus omnia que Adriagnes eum
+docuerat perfecisset, Minotaurum ipsum occidit et de laberinto
+liber et salvus exivit.  Sed cum Minos comperisset quod Dedalus
+vaccam ligneam facerat et ibi reginam incluserat, ipsum et filium
+eius Ycarum in laberintum reclusit.  Sed illi, alis sibi
+impositis, de laberinto exiverunt, sicut infra in octavo circulo,
+cantu XVII, clarius apparebit.  Sed circa istam ystoriam sive
+fabulam duo principaliter sunt videnda: Primum est veritas
+hystorie; secundum vero, allegoria fabule.  Veritas ystorie est
+ista: In regno namque Cretensi fuit quidam notarius regis Minois,
+nomine Taurus, quem regina Pasiphe dilexit et cum eo in domo
+Dedali occulte concubuit.  Sed quia geminam figuram secundum
+poetas genuit, quia medius homo et medius taurus, ideo dicitur
+quod humana fuit genita a Minoe, inhumana vero a tauro.  Unde
+puer natus dictus est Minotaurus, quasi Minois et Tauri filius. 
+Sed re vera homo inhumanus fuit.  Dedalum autem in laberinto
+inclusum regina corruptis custodibus relaxavit.  Et inde fabulose
+dictum est ipsum, alis assumptis, una cum filio advolasse. 
+Allegorice autem istam fabulam sic accipimus: Iste enim
+laberintus mundum significat, quia plenus est omni fallacia et
+errore.  Nam mundum intrantes nesciunt exire de illo, sicut nec
+de laberinto tributarii pueri Athenarum.  Dicitur autem
+laberintus a ^labor,~ -^ris,~ et ^intus~; quia homo intrando
+illum <labitur intus>, ut dicetur infra, sic mundum intrantes per
+diversa peccata labuntur.  Per Minotaurum vero, qui intrantes
+pueros devorabat, dyabolum intellige, qui animas devorat et sibi
+incorporat.  Per Theseum autem ducem scilicet Athenarum, accipe
+Christum, et per nominis interpretationem et officii dignitatem. 
+Interpretatur enim Theseus <bona positio>, ab ^eu~ quod est
+<bonum>, et ^thesis~ quod est <positio>; inde ^theseus,~ <bona
+positio>.  Et Christus et bona fecit, iuxta illud <bene omnia
+fecit, et in bonum signum positus est>, iuxta illud quod dixit
+Symeon ad Mariam matrem eius: Ecce hic positus est in ruinam et
+in resurrectionem multorum in Israel {^Lucas~ 2.34}; sicut
+Theseus fuit ruina Minotauri, quem interfecit, et resurrectio,
+idest liberatio, Athenarum, que a tributo per ipsum liberate
+sunt.  Dux autem Theseus dicitur Athenarum et bene Christum ducem
+eternitatis significat.  Interpretantur enim Athene eterne sive
+immortales, ab ^athanatos,~ quod est <immortalitas>^[[1~, vel
+<eternitas>.  Iste igitur dux, idest Christus, Minotaurum, idest
+diabolum, occidit, proiciendo in os eius picem et pilos, idest
+carnem et sanguinem in sua potestate ponendo, et sic genus
+humanum ab eius dominio liberavit, sicut liberavit Theseus
+populum Athenarum.  Sed nota quod Theseus consilio et auxilio
+Adriagnes hoc fecit, et Christus consilio et auxilio Spiritus
+Sancti dyabolum occidit et populum liberavit.  Nam Adriagnes 
+dicitur ab ^andor,~ quod est <virtus>; et Christus quicquid
+faciebat, in virtute Spiritus Sancti faciebat.  Unde ipse ait in
+Evangelio: Porro si in spiritu Dei eicio demonia, etc.  Filo
+autem de laberinto exivit Theseus, et Christus subtilitate sue
+prudentie, dum a morte capitur, cepit mortem.  Unde canit
+Ecclesia: Qui mortem nostram moriendo destruxit.  Vel per
+laberintum possumus accipere Limbum, in quem Christus die sue
+passionis descendit, diabolum ligavit, ianuas Inferni confregit,
+patres sanctos inde eduxit, et sic inde victor gloriosus
+ascendit.
+
+	Sed quia mentio facta est de laberinto, videamus quid sit 
+et quot fuerint laberinti.  Laberintus enim, ubi fuit Minotaurus
+inclusus, fuit quidam carcer horridus et obscurus, sicut ait
+beatus Ysidorus, XV+o~ libro ^Ethymologiarum,~ {^Etym.~ XV. ii.
+36 (^adapted~) in hec verba: Laberintus est perplexis parietibus
+edificium, qualis est apud Cretam a Dedalo factus, ubi fuit
+Minotaurus inclusus; in quo si quis introierit sine glomere lini,
+exitum invenire non potest.  Cuius edificii talis est situs, ut
+aperientibus fores tonitruum intus terribile audiatur;
+descenditur autem centenis ultra gradibus; intus simulacra et
+monstrifice effigies, in partes diversas transitus innumeri per
+tenebras et cetera ad errorem ingredientium facta, ita ut de
+tenebris eius ad lucem venire impossibile videatur.  Quatuor autem
+sunt laberinti: primus in Egypto, secundus in Creta, tertius in
+Lemno, quartus in Ytalya; omnes ita constructi ut dissolvere eos
+nec secula quidem possint.  Hucusque beatus Ysidorus.
+
+	|21-24.~  ^SECUNDA COMPARATIO.~  Lictera plana est, et
+explanata nichilominus est superius.
+
+	|40-43.~  Construe sic licteram: Quando Christus mortuus
+est, ex omni parte ista vallis tremuit infernalis, et intantum
+tremuit quod ego Virgilius credidi quod universum, idest celum et
+terra et omnia que in eis sunt, sentirent amorem; per quem amorem
+est qui credat, Empedocles scilicet philosophus, quod mundus sit
+pluribus vicibus versus in chaos, idest in confusionem et sui
+destructionem.  Ad cuius sententie evidentiam clariorem est
+sciendum quod quidam philosophus, qui vocatus est Empedocles, de
+quo fit mentio supra in primo circulo, cantu quinto {*i.e.,
+^Inf.~ IV. 138*}, posuit quod omnia facta sunt ex duobus
+principiis, scilicet amore et odio.  Et posuit quod quando odium
+est inter ipsa creata, tunc bene reguntur et gubernantur omnia,
+quia unum elementum alterius invidia optime operatur.  Sed quando
+inter ipsa creata esset amor, posuit quod tunc mundus
+dissolveretur, quia propter concordiam elementa ab invicem
+dissentirent.  Et sic per istum modum posuit quod pluribus
+vicibus mundus erat destructus et iterum erat factus. 
+Convenientia enim sive concordia, ut ipse ponit, est dissolutio
+universi, sicut e contra, discordia est coadunatio et conservatio
+omnium creaturarum.  Unde ait in textu: <Io pensava che
+l'universo / sentisse amore per lo quale @e chi creda / che il
+mondo pi@u volte sia converso in chaos>, idest in confusionem,
+sive in illam primam et primordialem materiam ex qua creatus est
+mundus.  De qua primordiali materia ait Ovidius, primo libro
+^Methamorphoseos~:
+
+     Ante mare et terras et quod tegit omnia celum
+     Unus erat toto nature vultus in orbe.
+     Quem dixere chaos: rudis indigestaque moles.
+
+                        {^Met.~ I. 5-7}
+
+	Et nota quod chaos accipitur duobus modis: Primo enim
+accipitur pro distantia locorum, ut in Evangelio beati Luce
+dicitur: Inter nos et vos chaos magnum firmatum est {^Lucas~
+16.26}.  Secundo modo accipitur pro primaria rerum confusione, ut
+hic.  Vult itaque dicere hic Virgilius quod quando in passione
+Christi terra tremuit, quod ipse credidit, secundum opinionem
+Empedoclis, quod mundus sentiret dominium amoris, ex quo dominio
+deperiret.
+
+	|46-47.~  Hic incipit primus giro, in quo tractat autor
+de violentia que exercetur in proximum.  Cuius pena est quod
+punitur in quadam fovea plena sanguine bullienti; in circuitu
+cuius fovee ponit Centauros, arcubus et sagittis armatos, qui
+quidem tenent typum et figuram violentie, quia ipsi primo humanam
+libertatem cum equis per violentiam conturbarunt.
+
+	|49-51.  O cieca cupidigia et ira folle.~  Hic exclamat
+autor contra cecam cupiditatem et iram bestialem tyrannorum et
+avarorum.  Et ex hoc videtur quod violentia que infertur in
+proximum oriatur aut ex cupiditate aut ex ira.  Ista enim duo
+peccata, cupiditas scilicet et ira, movent hominem ad proximum
+offendendum, aliquando in rebus, aliquando in persona.  Et de
+istis duobus peccatis, avaritia scilicet et ira, habes superius
+cantu VIII {*ad v. 19*}, circulo V.
+
+	^PRIMUM NOTABILE.~  In isto notabili duo notabilia
+continentur: Primum est quod ista duo peccata, cupiditas atque
+ira, habent hominem excecare.  De prima ait Divina Pagina: Munera
+excecant oculos sapientum.  Et Lucanus in primo:
+
+     O male concordes nimiaque cupidine ceci.
+
+                        {^Phars.~ I.87}
+
+De secundo ait Psalmista: Supercecidit ignis et non viderunt
+solem {^Ps.~ 57.9}.  Dicitur autem ira ignis, quia secundum 
+Damascenum, ira est accensio sanguinis circa cor.  Et poeta: Ira
+impedit animum ne possit cernere verum.  Secundum est quod ista
+eadem peccata ex quibus oritur tyrannia, ut superius est 
+expressum, nos in hac brevi vita calcaribus urgent ut curramus 
+velocius viam malam; et postea in alia eternaliter nos cruciant 
+et tormentant.  Et hoc est quod ait beatus Gregorius: Momentaneum 
+est quod delectat, eternum vero quod cruciat.
+
+	|55-56.~  Centauri fuerunt primi homines qui equos
+primitus domuerunt: et quia centum homines fuerunt, ideo
+Centauri, idest centum armati, dicti sunt, vel quia ut aura
+velociter discurrebant.  Fuerunt autem de provincia Thesalie, ubi
+mons Parnasus est olim Apolini consecratus.  Ista Thesalia fuit
+origo Achillis et Laphytarum, idest centaurorum, ut ait beatus
+Ysidorus, XIIII ^Ethymologiarum~ {^Etym.~ XIV. iv. 12}.  Ponuntur
+autem hic ab autore in circuitu sanguinis tanquam ministri et
+executores tyrannidis et violentie; nam hii primitus humanam
+libertatem cum equis per violentiam conturbarunt, ut dictum est. 
+Et ideo merito hic ponuntur.
+
+	|65.  La risposta farem noi a Chyron.~  Iste Chyron fuit
+quidam antiquus medicus et citharista Grecorum, qui quidem, ut
+ait beatus Ysidorus, III libro ^Ethymologiarum~ {actually ^Etym.~
+IV. ix. 12}, medicinam iumentorum primus invenit.  Ideo
+pingebatur ab antiquis media parte homo et media parte equus. 
+Hic Chyron, ut dicunt poete, nutrivit Achillem, sicut habetur
+infra cantu XXVI {*cf. comm. ad ^Inf.~ XXVI. 61-62*}.  Ideo ait
+autor in textu: <Et quel di mezzo, c'al petto si mira, / @e il
+gran Chirone, il quale nudr$i Achille> {*vv. 70-71*}.  De cuius
+morte diverse extant sententie.  Nam quidam dicunt quod in bello
+Laphytarum ab Hercule sit occisus.  Alii vero dicunt, et melius,
+quod Chyron recepit Herculem hospitio et cum sagittas Herculis,
+que erant venenose, tractaret, una sibi cecidit super pedem, et
+sic venenato vulnere expiravit.  Hoc enim innuit Ovidius in V+o~
+libro ^Fastorum,~ {cf. ^Fast.~ V. 397-398; 401-403 (^adapted~)}
+dicens:
+
+     Dumque senex tractat squalentia tela venenis
+     Excidit et levo est fixa sagitta pede;
+     Ipse tamen lectas pegaseis montibus herbas,
+     Temperat et varia vulnera mulcet opere
+     Virus edax superabat opem.
+
+	|66.  Mal fu la vollia tua sempre s@i tosta.~  ^SECUNDUM
+NOTABILE.~  In hoc notabili reprehenditur presumptuosa et velox
+inceptio cuiuslibet operantis.  Nam cum, secundum sententiam
+Salomonis {^Prov.~ 13.10}, omnia que agimus cum consilio agere
+debeamus; et poeta dicat:  Utere consilio licet omnia noveris
+unus; et iterum: Quicquid agis prudenter agas et respice finem;
+reprehendenda est ac etiam reprobanda temeraria presumptio in
+agendis.  Et ideo Socrates dicit quod duo sunt maxime contraria
+consilio; festinantia atque ira.
+
+	|67-69.~  Dum Hercules gygas cum Deianira coniuge sua,
+postquam domuit fluvium Acheloum, pervenisset ad alterum fluvium
+quod dicitur Ebenus, de quo Ovidius, VIIII ^Methamorphoseos~:
+
+     Venerat ebeni [^sic~] rapidas Iove natus ad undas.
+
+                        {^Met.~ IX. 104}
+
+	Et propter aquarum abundantiam transire nequiret, Nessus
+existens in ripa fluminis ait ad Herculem: Ego scio vada istius
+aque, et ideo tuam coniugem potuero transvadare.  Tu autem tuis
+viribus utere in natando.  Unde Ovidius in nono:
+
+     Nessus adit, membrisque valens scitusque vadorum,
+     <Officio> que <meo ripa sistetur in illa
+     Hec> ait <Alchide, tu viribus utere nando>.
+
+                        {^Met.~ IX. 108-110}
+
+Tunc Hercules Nesso tradidit Deyaniram, et ipse spolio leonis et
+faretra oneratus fluvium transvadavit.  Nessus vero, postquam cum
+Deyanira fluvium transmeasset, ipsius pulcritudine captus et in
+pedum velocitate confisus, cum Herculis deposito fugiebat.  Quem
+Hercules sagitta insequens tossicata ait ad eum, ut refert
+Ovidius, libro ut supra:
+
+     <Si te nulla mei reverentia movit, at orbes
+     Concubitus vetitos poterant inhibere paterni.
+     Haud tamen effugies, quamvis ope fidis equina;
+     Vulnere, non pedibus te consequar>.  Ultima dicta
+     Reprobat [^sic~], et missa fugientia terga sagitta
+     Trahicit.
+
+                        {^Met.~ IX. 123-128}
+
+Nessus autem, sentiens venenum per venas discurrere, secum ait:
+<Neque enim moriemur inulti>, et suam camisiam calido cruore
+respersam dedit pro magno munere Deianire dicens: <Accipe hoc
+irritamen amoris>; quasi dicat: Ista camisia, in meo sanguine
+madefacta, amorem inter te et Herculem irritabit.  Et his dictis,
+mortuus est ipse Nessus.  Post multum vero temporis ipsi Deianire
+fama loquax processit ad aures, que de sui natura veris addere
+falsa gaudet, et e minimo per mendacia crescit, quod Hercules
+scilicet Iolem, filiam cuiusdam regis, summo amore amabat.
+
+     Credit amans, venerisque nove preterita fame
+     Indulsit primo lacrimis, flendoque dolorem
+     Diffudit miseranda suum.  Mox deinde, <Quid autem
+     Flemus>, ait, <pellex lacrimis letabimur istis>.
+
+                        {^Met.~ IX. 141-144}
+
+	Et secum colloquens ait: Sicut Meleager frater meus,
+propter amorem Athalanthe, occidit duos avunculos, sic ego
+Deyanira occidam Yolem pellicem viri mei.  Et advocans unum ex
+famulis suis qui vocabatur Lincas prebuit ei imbutam Nesseo
+sanguine vestem, nesciens ipsa quod illa vestis Herculem haberet
+occidere.  Quam vestem cum Hercules induisset, tanta fuit vis
+illa veneni quod <Herculeos abiit late diffusa per artus> {^Met.~
+IX. 162}.
+
+     Nec mora, letiferam conatur scindere vestem:
+     Qua trahitur, trahit illa cutem, fedumque relatu,
+     Aut heret membris frustra tentata revelli
+     Aut laceros artus et grandia detegit ossa.
+
+                        {^Met.~ IX. 166-169}
+
+	Alii autem dicunt, quod quidem verius est, quod Hercules
+propter illam camisiam venenatam in morbum incidit pestilentem,
+et ideo, ut deus videretur, se ipsum in flammas iecit.  Unde
+Seneca, VII libro ^Tragediarum,~ de morte Herculis loquens ait:
+
+     Alcydes post terre pelagique pacem,
+     Post feri Ditis patefacta regna,
+     Vivus ardenti recubat in Ethna,
+     Prebuit sevis sua membra flammis,
+     Tabe consumptus gemini cruoris
+     Munera nupte.
+
+                        {^Medea~ 637-642 (^adapted~)}
+
+	|72.  Quell'altro @e Folo, che fu s@i pien d'ira.~  Folus
+fuit quidam homo bellicosus et valde potens in armis, sed tamen
+totus iracundia plenus.  De quo narrat Statius, tertio libro
+^Thebaidos,~ quod tempore belli Thebani, dum VII reges contra
+Thebas convenissent in unum et Amphyoraus sacerdos et vates
+Apolinis deos consuleret, et ipsi dii respondissent quod non erat
+tutum ad bellum procedere contra Thebas, iste Folus, iracundia
+inflammatus, ait ad Amphioraum: <Non enim debemus timere dicta
+deorum, sed potius ire viriliter contra hostes.  Nam michi est
+virtus et ensis> {Capaneus, not Folus, says this in ^Theb.~ III.
+165}.
+
+	|84.~  Centaurus ex duabus naturis componitur, equina
+scilicet et humana.  Nam ab umbilico supra habet naturam hominis,
+ab umbilico vero deorsum in quatuor pedibus extat equus.  Et ideo
+quilibet centaurus habet duo pectora, scilicet pectus humanum et
+pectus equinum.  Ideo ponit autor quod quando Virgilius applicuit
+ad centauros, cum capite pertingebat ad pectus equinum, ubi due
+nature coniunguntur in unum.  Ideo ait in textu: <dove le due
+nature son consorti>.
+
+	|85-96.~  Verba sunt Virgilii ad Chironem.  Et nota VII
+que facit Virgilius in verbis istis: Nam primo respondet verbis
+que dixerat ipse Chiron ad socios suos cum dixit: <Perpendistis
+vos quod ille qui venit retro movet omne quod tangitur?  Sic non
+solent pedes facere mortuorum>.  Et tunc ait Virgilius ad eum:
+<Bene est vivus; quasi dicat, non mireris si movet pedibus
+universa que tangit, quia homo est et non spiritus.  Nam ista est
+differentia inter corpus et spiritum in tangendo, quia spiritus
+ea que tangit movet; quia, secundum philosophos, omne quod
+movetur aut est animal aut movetur ab animali.  Secundo, assignat
+sibi causam quare iste sic vivus graditur per Infernum, dicens
+necessitatem esse causam istius itineris.  Nam, ut habetur infra
+in secunda cantica, cantu XXX, iste tantum deviaverat a bono quod
+ad illud redire non poterat nisi prius videret Infernum.  Unde
+ait ibi Beatrix:
+
+     Tanto gi@u cadde che tutti argomenti
+     a la salute sua eran gi@a corti
+     fuor che mostrarli le perdute genti.
+
+                        (^Purg.~ XXX. 136-138)
+
+Ideo ait hic: <s@i soletto / mostrar li mi conviene la valle buia;
+/ necessit@a il ci 'nduce>, etc.  Quasi dicat: Sibi est concessum
+Inferni secreta videre et michi preceptum ipsi eadem demonstrare. 
+Tertio respondet uni tacite questioni: Poterat enim dicere
+Chiron: A quo est tibi concessum ut isti vivo demonstres opera
+mortuorum?  Et ideo respondet Virgilius quod sibi fuit concessum
+a quadam supernaturali virtute, dicens <Tal si part@i da cantare>,
+etc.  Quasi dicat: Ne timeas de nostro descensu, quia non
+descendimus ut latrones, sed ut persone quibus uni est videre
+concessum, et alteri ostendere est preceptum.  Quarto, Virgilius
+ipsum Chironem per divinam virtutem adiurat ut eis prestet unum
+ex suis, qui faciat eis tria: Primum est ut eos associet.  Ideo
+ait: <danne un de' tuoi a cui noi siamo a provo>.  Secundum est
+ut eis demonstret in qua parte sanguinis extat vadum.  Ideo ait:
+<et che nne mostri l@a dove si guada>.  Tertium est ut Dantem
+baiulet supra se, quia non est spiritus qui per aerem vadat. 
+Ideo ait:
+
+     et che porti costui in su la groppa,
+     ch$e non @e spirto che per l'aer vada.
+
+	|88.  Necessit@a 'l ci 'nduce, et non dilecto.~  ^TERTIUM
+NOTABILE.~  In hoc notabili demonstrat Virgilius quod homo
+sapiens, dum considerat sive tractat de factis hominum
+perversorum, delectationem non habet.  Sed ad considerationem
+ipsorum aliqua necessitas eum trahit.  Et ideo habetur infra,
+cantu XXX: <ch$e voler ci@o udire @e bassa vollia> {^Inf.~ XXX.
+148}.
+
+	|97.  Chiron si volse in su la dextra poppa.~  Assignatis
+rationibus a Virgilio quare in Infernum descenderunt, et facta
+adiuratione ut eis securum prestet ducatum, statim mandavit Nesso
+ut eos ducat et a venientibus cuneis centaurorum eripiat et
+defendat.
+
+	|107-108.  Quivi @e Alexandro.~  Volens autor de tyrannide
+et tyrannis exemplariter pertractare, incipit ab Alexandro, qui
+suas victorias et virtutes maximas multis vitiis et maxime
+tyrannide maculavit.  De cuius tyrannide, ut fastidium tollam
+legentibus, ponam solummodo quatuor exempla: Primum ponit Sacra
+Sc{*r*}iptura, primo libro Machabeorum {I ^Machab.~ 1.1-5}, in 
+hec verba: Alexander Phylippi, Macedo, egressus de terra Septhin 
+percussit Darium regem Persarum et Medorum, et constituit prelia 
+multa, et omnium obtinuit munitiones, et interfecit reges terre, 
+et pertransiit usque ad fines terre, et accepit spolia 
+multitudinis gentium, et siluit terra in conspectu eius.  Et 
+congregavit virtutem et exercitum fortem nimis, et exaltatum  et
+elevatum est cor eius; et obtinuit regiones gentium et 
+tyra[n]nos, et facti sunt illi in tributum.  Secundum ponit
+Seneca, {^De ira~ III. xvii} dicens quod Alexander quendam suum
+pedagogum qui vocabatur Lisimacus leonibus tradidit devorandum. 
+Istud idem narrat Valerius libro VIIII+o~, capitulo de ira aut
+odio {^De fact. et dict.~ Lib. IX. iii, Ext. 1.}.  Tertium ponit
+idem Valerius eodem libro, capitulo de superbia {^De fact. et
+dict.~ Lib. IX. v, Ext. 1}, dicens quod filium Phylippi regis se
+esse negabat, se ex Iove genitum affirmabat.  Mores et vestes sui
+Macedonici regni spernebat et Persarum mores, vestesque sumebat. 
+Et ut deus et non homo videretur, cultu divino suum caput
+ornabat.  Sed ut non careas tu, Lucane, dulci latino ipsius
+Valerii, accipe textum eius {^loc. cit.~}: Alexandri, inquit, 
+regis virtus ac felicitas tribus insolentie evidentissimis
+gradibus exultavit; fastidio enim Phylippi Iovem Amonem patrem
+ascivit, tedio morum et cultus Macedonici vestem et instituta
+Persica assumpsit, spreto mortali habitu divino caput velatus
+est.  Nec fuit ei pudori filium civem hominem dissimulare. 
+Quartum ponit etiam ipse Valerius libro VIII {actually VIII.
+xiii, Ext. 2}, capitulo de cupiditate glorie, in hec verba: Nam
+Alexandri pectus insatiabile laudis, qui Anaxarco comiti suo ex
+autoritate Democriti preceptoris innumerabiles mundos esse
+referenti: <Heu me, inquit, miserum, quod ne uno quidem adhuc sum 
+potitus>.  Et subdit Valerius: <Angusta homini possessio fuit,
+que deorum omnium domicilio suffecit>.
+
+	|Et Dyonisio fero, / che f$e Cicilia aver dolorosi anni.~ 
+Iste Dyonisius fuit rex Syracusarum.  Ubi nota quod quicunque
+illo tempore erat rex Siracusarum, erat et rex totius Sicilie ac
+totius Ytalie.  Fuit autem iste Dyonisius tyrannus super omnes
+tyrannos, a quo omnes mali reges et principes tyranni dicuntur. 
+Nam ante ipsum omnes reges tyranni dicebantur; post ipsum vero,
+solum mali reges tyranni vocantur.  Et ut breviter eius
+tyrannidem videamus, tria de ipso spetialiter ponam, scilicet
+suum principium, suum medium, et suum finem.  Suum principium
+fuit istud, quod antequam nasceretur fuit per oracula revelatum
+qualis tyrannus futurus erat in mundo.  Narrat enim Valerius,
+libro 1, capitulo de somniis {^De fact. et dict.~ I. vii, Ext. 6
+(^adapted~)}, quod quedam nobilis domina de Sicilia rapta per
+somnium fuit in celum, ibique deorum omnium sedibus perlustratis
+vidit prevalentem virum flavi coloris, lentiginosi vultus,
+ferreis catenis vinctum Iovis solio pedibusque subiectum.  Que
+mulier cum iuvenem que ipsam ducebat interrogavit quisnam esset,
+audivit illum esse totius Sicilie atque Ytalie dirum fatum,
+solutumque a vinculis multis urbibus exitio futurum.  Quod
+somnium postero die sermone vulgavit.  Postquam vero Dyonisius
+tyrannicum dominium accepisset, illa ad spectaculum cucurrit, et
+quem nunquam viderat recognovit, et turbis vociferando, hunc esse
+quem in visione viderat acclamavit.  Quod ut tyrannus audivit,
+ipsam protinus occidi mandavit.  Mater etiam sua dum ipsum
+Dyonisium gestaret in utero somniavit parere satiriscum.  Est
+autem satyriscus serpens monstruosus et valde venenosus.  Medium
+autem suum, sive vita sua, fuit totaliter viciosa.  Nam
+quadraginta duobus annis quibus regnavit inaudita pericula
+perpetravit.  Multas urbes subvertit, multas gentes delevit, et
+non solum rebelles, sed etiam fideles, terra marique tyrannica
+dominatione subegit.  Et ut breviter suam tyrannidem uno verbo
+concludam, intellige quod, cum de aliis tyrannis multa bona
+legantur cum malis, ut patet de Alexandro et aliis, de isto inter
+tot mala que fecit nullum bonum legitur nisi duo: que quidem duo
+bona, expletis nequitiis suis, ponam.
+
+	Redeo ad vitam suam, que adeo mala fuit quod nec in
+amicis et consanguineis confidebat, nec divinam iustitiam
+perhorrebat.  De primo scribit Valerius, libro VIIII+o~, capitulo
+quod sic incipit: Quam exquisita custodia usi sunt quibus
+suspecti domestici fuerunt {^De fact. et dict.~ Lib. IX. xiii,
+Ext. 4.).  Quod summotis amicis in eorum locum ferocissimarum
+gentium homines posuit, electisque prevalidis servis latera sua
+custodienda commisit, tonsorum quoque metu tondere filias suas
+docuit.  Uxores vero suas excussas nunquam amplexatus est. 
+Cubicularem etiam lectum quasi castra lata fossa cingebat, in
+quem se ligneo ponte recipiebat.  De secundo ponit beatus
+Ambrosius in libro de virginibus, et Valerius libro I+o~,
+capitulo de neglecta religione {^De fact. et dict.~ Lib. I. i.
+20, Ext. 3 (^adapted~)}, sic dicens: Siracusis genitus Dyonisius 
+tot sacrilegia sua, quot iam recognoscimus, iocosis dictis
+prosequi voluptatis loco duxit: fano enim Proserpine spoliato,
+cum per altum mare secundo vento classe veheretur, ridens amicis
+ait: <Videtisne quam bona navigatio ab ipsis diis immortalibus
+sacrilegis tribuatur?>  Detracto etiam Iovi Olimpio magni
+ponderis aureo anuculo, iniectoque ei laneo pallio, dixit estate
+gravem esse aureum anulum, hyeme frigidum, laneum autem ad
+utrunque tempus anni aptius.  Idem D{*y*}onisius Esculapio
+barbam auream demi iussit, dicens non conveniri patrem Apollinem
+imberbem, ipsum vero barbatum conspici.  Idem Dyonisius mensas
+argenteas atque aureas e phanis substulit, quodque in his 
+mensis, more Grecie, scriptum erat bonorum deorum eas esse uti se
+bonitate eorum predicavit.  Idem Dyonisius victorias aureas, et
+pateras, et coronas, que simulacrorum porrectis manibus
+sustinebantur, tollebat, et eas se accipere et non auferre
+dicebat; per quam stultum esse argumentando, a quibus bona
+precamur, ab his porrigentibus nolle summere.  Et quamvis, ut ait
+autor, statim secundum merita punitus non fuerit, tamen quanto
+Deus magis ipsum punire distulit, tanto magis eum percussit.
+Lento enim gradu, ut ait ipse Valerius, ad vindictam sui divina
+procedit ira, tarditatemque supplicii gravitate pensat {^Br.~
+compensat}.  Finis autem Dyonisii talis fuit quod postquam
+quadraginta duos annos in tyrannide consumpsisset, de regno fuit
+expulsus; qui in Greciam fugiens ad tantam devenit inopiam et
+miseriam, quod puerorum factus est pedagogus.  Unde Valerius,
+libro VI, capitulo de mutatione morum aut fortune: {^De fact. et
+dict.~ VI.ix.15, Ext. 6.} Dyonisius, inquit, cum a patre
+Syracusanorum tyrannidem, idest dominium, accepisset maximarum
+opum dominus, exercituum dux, rector classium, equitatuum
+potens, propter inopiam puerulos licteras Corinthi docuit. 
+
+	Inter tot vero mala que fecit, duo solum memorabilia bona
+a  scriptoribus enarrantur.  Scribit enim Valerius libro VI,
+capitulo de libere dictis aut factis {^De fact. et dict.~ VI. ii.
+12, Ext. 2.}, quod senectutis ultime quedam mulier Syracusana
+omnibus Dyonisii tyranni exitium propter nimiam morum acerbitatem
+et intolerabilia onera votis expetentibus, sola quotidie matutino
+tempore, deos ut incolumis ac superstes esset orabat.  Quod ubi
+D{*y*}onisius cognovit, non debitam sibi admiratus benivolentiam,
+accersivit eam, et quid ita hoc aut quo merito suo faceret
+interrogavit.  Tum illa: <Certa est>, inquit, <ratio propositi
+mei; puella enim, cum gravem tyrannum haberemus, carere eo
+cupiebam; quo interfecto, aliquanto tetrior arcem occupavit; eius
+quoque finiri dominationem magni extimabam.  Tertium te
+superioribus inportuniorem habere cepimus rectorem.  Itaque ne,
+si tu fueris assumptus, deterior in locum tuum succedat, caput
+meum pro tua salute devoveo>.  Tam facetam audaciam Dyonisius
+punire erubuit.
+
+	Aliud narrat idem Valerius, libro IIII, capitulo de
+amicitia {^De fact. et dict.~ IV. vii. Ext. 1 (^adapted~)},
+videlicet quod duo philosophi quorum unus vocabatur Damon et
+alter Pythias, Pictagorice prudentie sectatores, tanta erant
+inter se amicitia copulati, ut cum unum ex his Dyonisius
+Syracusanus tyrannice velle occidere, a tyranno ut iret in
+patriam suam, quatinus antequam moreretur domum posset et
+familiam ordinare, licentiam postulavit.  Cui tyrannus hac
+conditione licentiam condonavit, ut vadem, idest fide iussorem,
+pro ipsius reditu inveniret.  Quod socius audiens, se vadem
+tyranno dare non dubitavit.  Ista itaque conditione solutus erat
+periculo mortis qui modo gladio cervices subiectas habuerat;
+eodem periculo caput suum subiecerat, cui secure vivere licebat. 
+Igitur omnes, et spetialiter Dyonisius, nove ac periculose
+promissionis exitum expectabant.  Appropinquante autem finita
+die, nec illo redeunte, unusquisque sponsorem fuisse fatuum
+asserebat.  Sed ille nichil se de amici constantia metuere
+predicabat.  Eodem autem momento et hora a Dyonisio constituta,
+qui domum iverat est reversus.  Tyrannus autem, amborum animum
+admiratus, supplicium tante fidei remisit.  Insuper rogavit ut in
+societatem tante benivolentie se tertium acceptarent.
+
+	|109-110.~  Iste fuit Enzolinus de Romano, gener
+Frederici imperatoris, qui tyrannidem exercuit in Marcia
+Trivisana et in provincia Lombardie.  Nam inaudita supplicia et
+importabilia onera irrogavit, non solum laycis, sed etiam
+clericis et prelatis.
+
+	|111-112.~  Iste Opizzo fuit Marchio Estensis, quem Azzo
+filius suus, ut dicitur, gladio interfecit; qua de causa dicitur
+hic privignus.  Ideo ait in textu: <il qual per vero / fu spento
+dal filliastro s@u nel mondo>.  Sed re vera ipse Azzo fuit filius
+sue uxoris.
+
+	|118.  Mostromm'un'ombra de l'un canto sola.~  Iste est
+ille maledictus comes Montis Fortis, qui in ecclesia Sancti
+Silvestri de Viterbio, dum elevaretur corpus Domini nostri Iesu
+Christi, Henricum de domo regis Anglorum dente tyrannico
+trucidavit.  Ad cuius pleniorem notitiam est sciendum quod,
+mortuo Corradino, electores Alamanie convenerunt in unum, et
+regem Yspanie et imperatorem unanimiter elegerunt.  Qui electus,
+Henricum de domo regis Anglie, qui erat nepos suus, pro
+approbanda sua electione ac etiam confirmanda ad Romanam
+Ecclesiam destinavit.  Sed dum iste Henricus in romana curia, que
+tunc erat Viterbii, moraretur, quodam mane dum per Viterbium
+equitaret et per plateam Sancti Silvestri transitum faceret,
+audivit pulsari ad Corpus Christi; qui statim de equo descendit,
+ecclesiam intravit, et humiliter genu flexu iuxta altare manus
+oraturus extendit.  At comes Montis Fortis, qui ex mandato regis
+Karoli olim comitis Andegavensis vite istius insidiabatur,
+occulte post ipsum in ecclesiam est ingressus; et cum Corpus
+immolabatur Dominicum, ipsum Henricum Deum adorantem nephario
+gladio immolavit.  Qua propter clamant contra sacrilegum
+homicidam ianue ecclesie memorate, que nunquam aperiuntur nisi ad
+sportellum viduitatem de tam crudeli homicidio ostendentes.
+
+	|120.  Che 'n su Tamigi ancor si cola.~  Tamigius est
+quidam fluvius Anglie qui transit iuxta quandam civitatem que
+gramatice dicitur Lundonium, vulgo autem dicitur Londris.  In hac
+vero civitate est quoddam monasterium monacorum quod appellatur
+Gualmustier; in quo quidem monasterio omnes reges Anglie
+tumulantur.  Et in circuitu cuiusdam capelle in qua sepulcra sunt
+omnium regum, sunt collocate ymagines omnium sepultorum.  Mortuo
+vero Henrico, corpus eius rex et barones Anglie in Angliam
+transportari fecerunt, et in dicta capella honorifice sepeliri. 
+Supra cuius sepulcrum est quedam statua marmorea inaurata, que in
+manu dextra tenet cuppam auream, in qua est sculptum cor dicti
+Henrici, et unus gladius infixus in eo; qui gladius sue mortis
+perpetuus noscitur esse testis.  In manu vero sinistra est quedam
+cedula in qua ista lamentatio versifica continetur: <Cor gladiis
+fossum do cui consanguineus sum>.  Hoc est: Ego, Henricus, do cor
+meum gladio perforatum domi Anglorum, cuius sum consanguineus,
+idest caro et sanguis.
+
+	|132.  Dove la tirannia convien che gema.~  In isto
+fossato sanguinis bullientis, ut ex precedentibus patet, punitur
+violentia que in proximum exercetur; que quidem violentia, licet
+in diversas speties extendatur, tamen omnes ad duas breviter
+reducuntur; videlicet ad omicidium et rapinam.  Et hoc quia omnis
+violentia que in proximum irrogatur, aut irrogatur in rebus, et
+sic est rapina, aut in persona, et sic est homicidium.  Ideo de
+hiis duabus violentie spetiebus aliqua breviter videamus.  Et
+primo de rapina.  Est autem rapina, ut habetur Ysaie 9 {^Isaias~
+9.5.}, violenta predatio cum tumultu; qua quidem rapina utuntur
+principes seculi, predones, pirrate, et dolosi etiam mercatores. 
+Unde rapina est qua quis non solum rem alienam rapit, sed qua
+quis etiam rem alienam occupat violenter.  Violentia vero est que
+facit aliquid retineri intra terminos alienos.  Sic rapina
+possessiones et predia pauperum pecuniam vel peculium facit
+firmiter retineri in manibus divitum vel potentum.  Cum dicat
+Dominus per Ezechielem 46: Non accipient principes de hereditate
+populi per violentiam {^Ezechiel~ 46.18 (^adapted~)}.  Et 
+Proverbiorum 22: Non facias violentiam pauperi, quia pauper est
+{^Prov.~ 22.22}.  Dominus indicabit causam eius, neque conteras
+egenum in porta, quia Dominus confringet eos qui confregerunt
+animam eius.  Quantum rapina sit odibilis apud Deum patet quia,
+cum in omicidio lex divina solummodo prohibeat actum, iuxta
+illud: ^non occides,~ in rapina prohibet non solum actum, sed
+etiam voluntatem: Beni, inquit, proximi tui non concupisces. 
+Ideo Ysaae 61 {cf. ^Isaias~ 61.8}: Ego Dominus odio habens
+rapinam, raptor enim est omicida; comedit enim et bibit pauperem
+dum bona ipsius devorat, sine quibus vivere non poterat.  Michee
+3 {^Michaeae~ 3.3}: Comedunt carnes populi mei, et pellem eorum
+excoriaverunt.  Ecclesiastici XXXIIII {^Ecclesiasticus~ 34.26}:
+Qui aufert in sudore panem, quasi qui occidit proximum suum.  Et
+nota quod raptor est peior dyabolo in tribus: Primo quia dyabolus
+torquet eos qui male agunt; raptor vero torquet eos qui a malo
+recedunt; Ysaie 59 {^Isaias~ 59.15}: Qui a malo recessit prede
+patuit.  Poterit enim diabolus in iudicio se excusare, quod solum
+illos afflixerit in Inferno qui Deum offendunt.  Raptores vero
+affligunt eos et depredantur, qui multotiens sancti sunt.  Quibus
+ait Apostolus: Rapinam bonorum nostrorum cum gaudio suscepistis. 
+Secundo, raptor est peior diabolo, quia dyabolus defert angelo ad
+custodiam hominis deputato; raptor vero neque Deum timet, neque
+hominem reveretur, sed Dominus faciet vindictam servorum suorum
+iniuste afflictorum, ut habetur Luce XVIII+o~ {^Lucas~ 18.7}. 
+Tertio raptor est peior diabolo, quia diabolus punit malos
+solummodo in Inferno, ubi locus est tormentorum; sed raptor punit
+homines in mundo, ubi habere debet homo libertatem de se et de
+suis bonis.  Et ideo iudicium sine misericordia fiet illi qui non
+fecerit misericordiam, ut dicit beatus Iacobus in epistula sua. 
+Item raptor est leo inter pauperes.  Ecclesiastici XIII {^Br.~
+Ecclesiastes}: Venatio leonis est honager in heremo; sic pascua
+divitum sunt pauperes.  {^Ecclesiasticus~ 13.23 (^adapted~)}. 
+Item ad rugitum leonis formidant animalia; sic ad minas alicuius
+potentis raptoris qui est robustus et potens venator in terra,
+formidant timidi pauperes.  Osee XI {^Osee~ 11.10}: Leo rugiet et
+formidabunt filii maris, idest pauperes, qui sunt in amaritudine
+et tempestate seculi positi.  Item cum leo rugit, cetera animalia
+figunt gressum.  Et ad imperium potentis tyranni sunt pauperes
+quasi immobiles, ut sine ipsius imperio nec manum moveant nec
+pedem.  Hec fuit potestas Ioseph a Pharaone concessa.  Item leo
+facit circulum cum cauda, de quo animalia exire non audent; sic
+tyrannus cum cauda satellitum totam patriam circuit, ut totum
+devoret quod includit.  Apocalipsis 9 {^Apocalypsis~ 9.19}:
+Potestas equorum in ore ipsorum et in caudis eorum.  Bestie quasi
+<vastie> dicuntur, secundum Ysidorum, et signant divites et
+potentes qui terram devastant.  Potestas ipsorum est in ore
+eorum, idest tyrannicum imperium et crudele; et in caudis eorum,
+idest in multis famulis et ribaldis qui sequuntur eos ad spolia
+egenorum.  Sed nunquid talis potentia potentia est censenda. 
+Audi Boetium, tertio ^De Consolatione~ {^De Cons. Phil.~ III. v.
+pr.}: <Potentem censes qui satellite latus ambit? qui quos terret
+ipse plus metuit? qui ut potens esse videatur, in servientium
+manu situs est?  Que est igitur ista potentia quam pertimescunt
+habentes?  Quam nec cum habere velis tutus sis, et cum deponere
+cupias vitare non possis?  An presidio sunt amici quos non virtus
+sed fortuna conciliat?>  Et paulo post metrice  sic decantat:
+
+     Qui se volet esse potentem
+     Animos domet ille feroces,
+     Nec victa libidine colla
+     Fedis submittat habenis.
+     Etenim licet Indica longe
+     Tellus tua iura tremiscat
+     Et serviat ultima Tyle,
+     Tamen atras pellere curas
+     Miserasque fugare querelas
+     Non posse, potentia non est.
+
+	Item leo dormit oculis apertis; sic raptor vigilat de
+nocte circa predam quam die rapiat.  Iob. XXIIII {^Iob~ 24.5}:
+Vigilantes ad predam panem preparant filiis.  Item nota quod est 
+quoddam animal parvum quod dicitur formicaleon; inde formicarum 
+leo, nam inter formicas exhibet se leonem; qui quando ventrem 
+formicis habet repletum, se ponit ad solem, et ecce milvus
+veniens rapit eum.  Sic raptores, quando bonis pauperum sunt
+repleti, a dyabolo rapiuntur.  Ysaie XXXIII {^Isaias~ 33.1}: Ve
+qui predaris, nonne predaberis?  Et Ieremie XXX {^Ieremias~
+30.16}: Qui devorant, devorabuntur.  Item nota quod Deus nec
+oblationem, nec sacrificium, nec ecclesiam recipit de rapina. 
+Augustinus in libro ^De Doctrina Christiana~: Illam ecclesiam
+abominatur et reprobat Deus que fabricatur de lacrimis alienis. 
+Item orationes raptorum non exhaudiuntur a Deo.  Ysaie primo
+{^Isaias~ 1.15}: Cum multiplicaveritis orationes non exaudiam; et
+subdit causam, quia manus vestre sanguine plene sunt.  Ideo
+rationabiliter autor iste raptores, quia in isto mundo sunt
+pauperum sanguine cruentati, in sanguineo flumine ponit in
+Inferno esse punitos.  Item nota quod raptores, expoliando
+pauperes et ipsorum bona vorando, Deum expoliant et cibum de ore
+ipsius extrahunt, dum canes et aves pascunt et vestiunt
+histriones, qui secundum quod ait Augustinus: Non de bene
+vivente, sed de bene pascente laudabilem sententiam reddunt.
+
+	Viso de rapina, ad homicidium procedamus.  Est autem
+homicidium <hominis casus>, idest mors hominis violenter
+inflicta; et dicitur <homicidium> ab ^homine~ et ^cedo.~ 
+Committitur autem homicidium tribus modis, scilicet corde, ore,
+et opere.  Corde autem sive voluntate committitur tribus modis:
+Primo ad mortem odiendo, sicut fratres Ioseph; Genesis XXXVII
+{^Gen.~ 37.4}: Oderant eum, nec poterant ei quicquam pacifice 
+loqui.  Unde prima Iohannis III {^Ep. Ioannis prima~ 3.15}: Qui 
+odit fratrem suum homicida est.  Secundo occidere proponendo, 
+sicut Esau qui ait {^Gen.~ 27.41}: Venient dies luctus patris 
+mei ut occidam Iacob fratrem meum.  Tertio in mortem proximi 
+consentiendo, sicut Achab qui consentit in morte Naboth.  Unde 
+dixit ei Elias, tertio Regis XXI {^III Regum~ 21.19}: Occidisti 
+et possedisti in loco in quem linxerunt canes sanguinem Naboth; 
+lambent quoque sanguinem tuum.  Dominus quoque mortem Iohannis 
+Baptiste imputat Phariseis, eo quod in hoc consenserunt, ut 
+habetur Mathei XVII.  Verbo committitur quatuor modis: Primo 
+precipiendo, sicut Herodes, de quo Mathei II {^Matth.~ 2.16} 
+dicitur quod mittens occidit omnes pueros qui erant in Bethleem 
+et in omnibus finibus eius.  Secundo consulendo, sicut Cayphas,
+qui ait, Iohannis XI {^Ioannes~ 11.50}: Expedit vobis ut unus
+homo moriatur pro populo.  Tertio, innocentem morti adiudicando,
+verum iuris ordinem non servando, sicut Pilatus, de quo Luce
+XXIII {^Lucas~ 23.24} dicitur quod adiudicavit fieri petitionem
+eorum, scilicet Iudeorum.  Deus enim cum deliberatione magna
+fecit hominem ad ymaginem et similitudinem suam, innuens quod non
+leviter absque ordinato iudicio nobilis creatura delenda est. 
+Quarto, peccatum alicui suggerendo, unde dyabolus quia peccatum
+hominis suggerit, dicitur homicida; Iohannis VIII {^Ioannes~
+8.44}: Ille erat homicida ab initio, idest ex quo factus est
+homo.  Dyabolus enim, videns se suo peccato proiectum de celo, et
+videns hominem et ceteras creaturas in sua consistentia
+permanere, concepit odium contra Deum, invidiam contra hominem,
+et indignationem contra ceteras creaturas.  Ex odio nanque quod 
+concepit contra Deum persecutus est hominem inquantum est ymago
+Dei.  Ex invidia vero quam concepit contra hominem persecutus est 
+creaturas inquantum homini sunt subiecte.
+
+	Opere vero committitur 10 modis: Primo conceptionem
+impediendo, ut Onam, Genesis XXXIIII {actually ^Gen.~ 38.9}, qui 
+cum accedebat ad uxorem fundebat semen in terram, idest uxorem 
+inutiliter cognoscebat.  Secundo, venena sterilitatis procurando, 
+cum etiam sterilitas naturalis sit magnum opprobrium, et 
+reputabatur maledictum secundum legem.  Tertio, puer per vim 
+destruendo, quod est magna crudelitas.  Amos primo {^Amos~ 1.13},
+dissecuerunt pregnantes Galaad.  Quarto, corrupta pocula vel 
+venenata cibaria vendendo, sicut faciunt aliquando macellarii, 
+tabernarii, et apotecarii.  Quinto, fuste, saxo, vel ferro 
+percutiendo; de quo Exodi XXI {actually ^Leviticus~ 24.17}: Qui 
+percusserit hominem volens occidere, morte morietur.  Sexto,
+fraude vel dolo prodendo, sicut Iudas, de quo Mathei XXVI:
+Querebat oportunitatem ut eum traderet sine turbis {^Matth.~
+26.16}.  Septimo, non liberando moriturum cum possit, vel
+impediendo eum qui nolebat vel poterat liberare; Proverbiorum
+XXVIII {actually ^Prov.~ 24.11}: Erue eos qui ducuntur ad mortem,
+et qui trahuntur ad interitum liberare non cesses.  Octavo,
+pauperibus rapiendo, unde Ysaie tertio {^Isaias~ 3.14}: Vos
+depasti estis vineam meam, rapina pauperis in domo nostra est;
+quare attritis populum meum, et faciem pauperum conmolitis, idest
+fame attenuatis?  Genus quoque rapine est calumnia quam faciunt
+potentes qui falsas occasiones minoribus imponunt, sicut lupus
+imposuit agno quod turbaret ei aquam, iuxta fabulam Esopi.  Unde
+Prover. 28 {^Prov.~ 28.15}: Leo rugiens et ursus esuriens
+princeps ipsius super populum pauperem.  Nono, mercimonia
+defraudando, sicut falsi mercatores, vel sicut illi qui suis
+mercennariis detinent vel diminuunt de mercede; Prover. 26
+{^Prov.~ 26.18}: Sicut noxius est qui mittit lanceas vel sagittas
+in mortem, sic vir qui fraudulenter nocet amico suo;
+Ecclesiastici {^Br.~ Ecclesiastes} XXIIII: Panis egentium vita
+pauperis est; qui defraudat illum, homo sanguinis est {actually
+^Ecclesiaticus~ 34.25}.  Item qui aufert in sudore panem, quasi
+interfecit amicum suum, et qui effundit sanguinem et qui fraudem
+facit, mercennario fratres sunt.  Ideo precipit Dominus in
+Levitico XIX {^Lev.~ 19.12}: Non morabitur opus mercenarii tui
+aput te usque mane.  Decimo, necessaria subtrahendo, sicut illi
+qui habent frumentum in orrcis et expectant ut carius vendant
+tempore famis; Prover. VIIII+o~ {actually ^Prov.~ 11.26}: Qui
+abscondit frumenta maledicetur in populis, benedictio autem super
+caput vendentium.  Ambrosius: Pasce fame morientem, quem si non
+paveris occidisti.  Et sic patet de homicidio.  Propter ista
+igitur duo peccata, homicidium scilicet et rapinam, isti tyranni
+in isto sanguine sunt puniti.  Ideo sequitur {vv. 133-134}:
+
+     La divina iustitia di qua pungue
+     quel Totila che fu flagello in terra, etc.
+
+	|133-134.~  Iste Totila fuit quidam rex Gothorum qui
+totam fere Ytaliam devastavit, Romam obsedit et cepit, et
+Siciliam transfretavit et ibi vitam et regnum amisit.  Et propter
+multa mala que fecit, ideo Dei flagellum cognominatus est.
+
+	|135.  Et Pirro.~  Iste fuit Pirrus, filius Achillis,
+quem in primeva etate ex Diademia filia regis Lycomedis in habitu
+genuit mulieris, sicut infra, cantu XXVI, lucidius apparebit. 
+Hic itaque Pirrus ideo in ista fovea ponitur ab autore quia
+crudelem tyrannidem operatus fuit contra pulcherrimam et innocuam
+virginem, filiam scilicet regis Troye, que Polyxena dicebatur. 
+Hanc enim Polixenam, capta Troia, cum Greci pacati redirent et ex
+omni parte bella finita forent, de sinu matris rapiens supra sui
+patris tumulum crudeli gladio, sed crudeliori animo, ymmolavit. 
+Unde Ovidius, XIII ^Methamorphoseos~:
+
+     Rapta sinu matris, quam iam sola prope fovebat,
+     Fortis et infelix et plus quam femina virgo,
+     Ducitur ad tumulum diroque fit hostia busto.
+
+                        {^Met.~ XIII. 450-452}
+
+	Ista enim Polixena, inter alias virtutes quibus ipsam
+Deus et natura dotavit, pudicitia tanta clarebat quod in hora
+mortis, in qua solet homo omnium oblivisci, ipsa pudicitia
+oblivisci non potuit.  Nam dum in pectore virgineo perforata
+fuisset et sic caderet ymmolata, cura fuit sibi sui corporis
+tegere partes ymas.  Unde Ovidius, ut supra:
+
+     Tunc cura quoque fuit partes velare tegendas,
+     Cum caderet, castique decus servare pudoris.
+
+                        {^Met.~ XIII. 479-480}
+
+	|Et Sexto.~  Sextus fuit filius Pompei, maris maximus
+conturbator, de cuius pirratico latrocinio ait Lucanus, libro VI:
+
+     Sextus erat, Magno proles indigna parente,
+     Qui {text has ^cui~} mox silleis exul crassatus in undis
+     Polluit equoreos Suculus pirrata triumphos -- subaudi paternos.
+
+                        {^Phars.~ VI. 420-422}
+
+Pompeius enim habuerat triumphum de mari quando hostes romanos in
+mari Sicilie bello navali devicit.  Filius autem suus, scilicet
+iste Sextus, vestigia patris non sequens, sed potius ab ipso
+degenerans, illas easdem undas quas pater glorioso certamine
+decoravit, pirratico latrocinio deturpavit.
+
+	|137-138.  A Rinier da Corneto, et Rinier Pazzo.~  Isti
+duo fuerunt maximi predones et stratarum publici predatores. 
+Ideo ait Nessus autori: <che fecer a le strade tanta guerra>.  Et
+hic finitur primus giro qui in septimo circulo continetur.
+

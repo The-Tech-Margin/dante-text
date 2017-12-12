@@ -1,0 +1,604 @@
+	|Proemio.~  ^Vergine Madre~ ec.  Questo @e lo XXXIII canto de la terza 
+cantica del nostro autore, nel quale fa due cose principalmente: 
+imper@o che prima lo nostro autore finge che santo Bernardo, pregando 
+per Dante, componesse questa devotissima orazione, la quale veramente 
+compuose elli; e, come fatta l'orazione, a lui venne la grazia e 
+drizz@o la sua vista verso Dio; nella seconda parte lo nostro autore 
+pone bene acconciamente quello, che per lui si pot@e comprendere de la 
+Divinit@a, et incominciasi quine: ^Da quinci innanzi~ ec.  La prima, 
+che sar@a la prima lezione, si divide tutta in tre parti: imper@o che 
+prima finge come santo Bernardo cominci@o la devota orazione in verso 
+la Vergine Maria, cantando e lodando le sue virt@u; nella seconda parte 
+porge a lei lo prego di Dante e lo suo per lui, et incominciasi quine: 
+^Or questi, che dall'infima~ ec.; nella terza parte finge come la 
+Vergine Maria lev@o li occhi suso a Dio, e com'elli sentitte la grazia 
+in s@e venuta, e dirizz@o li suoi occhi in suso, et incominciasi quine: 
+^Li occhi da Dio~ ec.  Divisa la lezione, ora @e da vedere lo testo co 
+la esposizione letterale, allegorica e morale.
+
+	|1-21.~  In questi sette ternari lo nostro autore finge come santo 
+Bernardo dicesse e componesse questa orazione, ne la quale raccoglie 
+tutte le lode de la Vergine Madre; et a presso adiunge la sua dimanda, 
+e questa parte sar@a ne la sequente parte.  Ma in questa prima, volendo 
+da lei addimandare, dimostra ch'ella possa, sappi e voglia e debbia 
+fare quello ch'elli intende di dimandare; ma prima intende a raccontare 
+le sue laude, contando le sue virt@u, dicendo cos@i: ^Vergine~; questo 
+nome propriamente si conviene a la Nostra Donna: imper@o che vergine fu 
+innanti al parto e nel parto e dopo 'l parto.  ^Madre~: imper@o ch'ella 
+fu madre naturalmente del Figliuolo d'Iddio: imper@o che di lei prese 
+carne umana, et @e madre per affezione di tutta l'umana spezie.  
+^Fillia del tuo Fillio~: imper@o ch'ella fu figliuola d'Iddio per 
+creazione: imper@o che Iddio cre@o l'anima sua di niente, come crea 
+tutte l'anime umane, et Iddio fu figliuolo di lei quanto a l'umanit@a: 
+imper@o che lo Verbo prese carne umana di lei, e fu suo figliuolo, 
+quanto a l'umanit@a, ^Umile~; quanto a l'animo, ^et alta~; quanto a 
+l'essere madre d'Iddio, ^pi@u che creatura~: non fu mai creatura tanto 
+umile in tutti li atti suoi, quanto fu la Vergine Maria, per@o dice lo 
+Ps.o: ^Quia respexit humilitatem ancillae suae~, n@e fu mai creatura 
+s@i alta: imper@o che nulla creatura venne mai a quello stato, che 
+fusse madre del Figliuolo d'Iddio, quanto alla carne.  ^Termine fisso~; 
+cio@e termine fermo, ^d'eterno consillio~; cio@e di consillio, che non 
+@a principio, n@e fine; cio@e che la Vergine Maria fu et @e quello 
+termine fermo, in che si diliber@o e consilli@o la somma Sapienzia ab 
+eterno di fare la redenzione umana e pilliare carne umana di lei.  ^Tu 
+se' colei~; cio@e tu, Vergine Maria, se' quella, ^che l'umana Natura 
+Nobilitasti~; cio@e la quale facesti nobile l'umana natura, in quanto 
+lo Figliuolo d'Iddio prese carne umana di te, ^s@i~; cio@e per s@i 
+fatto modo co la virt@u tua, ^che 'l suo Fattore~; cio@e Iddio, che fu 
+fattore dell'umana natura, ^Non si sdegn@o~; cio@e non riput@o non 
+degno, ^di farsi~; cio@e di fare s@e, ^sua fattura~; cio@e fattura 
+dell'umana natura: imper@o che l'umana natura, che era in te, Vergine 
+Maria, fece omo Cristo, in quanto fu tuo figliuolo quanto a l'umanit@a. 
+ ^Nel ventre tuo~; cio@e di te Vergine Maria, ^si raccese l'amore~; 
+cio@e tra Dio e l'omo, lo quale era spento per lo peccato d'Adam.  
+Iddio quando cre@o l'omo, am@o l'omo tanto, quanto stette ne la sua 
+obedienzia, et allora arse quello amore; quando Adam pecc@o, si spense 
+quello amore e stette spento infine che a Dio piacque di fare prendere 
+carne umana al suo Figliuolo, s@i che, incarnato lo Verbo divino nel 
+ventre de la Vergine Maria, incontenente Iddio am@o l'omo: imper@o che 
+am@o lo suo Figliuolo, che era fatto omo.  ^Per lo cui caldo~; cio@e 
+per lo caldo del quale amore, ^ne l'eterna pace~; cio@e ne la 
+beatitudine celeste, dove @e pace eterna, ^Cos@i~; cio@e come tu, 
+Dante, @ai veduto, ^@e germinato~; cio@e @ae cresciuto e messo follie, 
+^questo fiore~; cio@e questa rosa, de la quale @e stato detto; la quale 
+rosa prima era vota, avale @e quasi piena in tutte le sue sedie.  
+^Qui~; cio@e in questa beatitudine, ^se' a noi~; cio@e tu, Vergine 
+Maria, se' a noi beati, ^meridiana face~; cio@e eccellentissima 
+fiaccula, come nel mezzod@i la luce del Sole @e pi@u eccellente, che si 
+dice che la Vergine Maria in vita beata @e ai beati fiaccola 
+eccellentissima, ^Di carit@a~; cio@e d'amore: imper@o che la carit@a 
+della Vergine Maria tutti li beati accende a carit@a, ^e giuso~; cio@e 
+giuso nel mondo, ^tra' mortali~; cio@e tra li omini, ^Se' di speranza 
+fontana vivace~; cio@e fonte indeficiente di speranza: imper@o ch'ella 
+ci d@a speranza d'avere ogni grazia da Dio, ch'ella @e nostra avvocata. 
+ Unde dice santo Bernardo: ^Securum habes accessum ad Deum, o homo, ubi 
+mater ante filium, et filius ante patrem.  Mater ostendit filio pectus 
+et ubera; filius ostendit patri latus et vulnera.  Nulla ergo poterit 
+esse repulsa tibi, ubi tot occurrant caritatis insignia~.  E cos@i 
+dimostra santo Bernardo ch'ella debbia essere avvocata di Dante, a 
+dimandare grazia per lui.  ^Donna, se' tanto grande~; cio@e tu, Vergine 
+Maria, se' s@i grande donna che tutte l'altre avanzi, e li cori delli 
+Agnoli, ^e tanto vali~: imper@o che se' madre del Figliuolo d'Iddio, 
+^Che qual vuol grazia~; cio@e delli omini qualunqua vuole grazia da 
+Dio, ^et a te non ricorre~; cio@e per la grazia, mettendo te per sua 
+avvocata, ^vuol Sua disianza~; cio@e vuole lo suo desiderio, se non 
+ricorre a te, ^volar senza ali~; cio@e vuole in vano inalzare lo suo 
+desiderio: imper@o che, come serebbe impossibile a volare senza l'ale; 
+cos@i @e impossibile avere grazia da Dio, senza lo ricorso a la Vergine 
+Maria.  E cos@i @ae dimostrato santo Bernardo ch'ella possa e sappia 
+acquistare grazia a chi la dimanda.  ^La tua benignit@a~; cio@e di te 
+Vergine Maria, ^non pur~; cio@e non solamente, ^soccorre A chi 
+dimanda~; cio@e a colui, che dimanda lo tuo soccorso, ^ma molte fiate~; 
+cio@e spesse volte, ^Precorre~; cio@e viene innanti, ^il dimandar~; 
+cio@e, che l'omo dimandi, ^Liberamente~; cio@e per tua liberalit@a: et 
+@e benignit@a disposizione d'animo a ben fare al prossimo, et invitante 
+li altri co la sua dolcezza, et @e spezie di carit@a; e liberalit@a @e 
+larghezza di donare da s@e medesimo mossa.  ^In te~; cio@e Vergine 
+Maria, ^@e misericordia~; misericordia @e compassione de la miseria del 
+prossimo; ^in te pietate~; cio@e in te Vergine Maria @e piet@a; et @e 
+piet@a movimento a sovvenire li deficienti, et @e differenzia tra 
+misericordia e piet@a: imper@o che misericordia @e sovvenire quando si 
+dimanda; e piet@a @e ancora, bench@e non si dimandi: e queste sono 
+spezie di carit@a.  ^In te~; cio@e Vergine Maria, ^@e magnificenzia~; e 
+magnificenzia @e donamento di perfezione a le cose molto grandi e molto 
+chiare.  Tutte queste virt@u e molte altre anco innumerabili virt@u 
+sono ne la Vergine Maria; ma l'autore prese quelle che faceano ora a la 
+materia: imper@o che, perch@e aveva detto che era benigna a soccorrere 
+a chi dimandava, si dimostrava che in lei era misericordia; e perch@e 
+avea detto che spesse volte soccorrea inanti che si dimandasse, si 
+dimostrava la piet@a; e perch@e ella arreca a perfezione tutte le 
+grandi cose, si dimostrava la magnificenzia.  ^in te s'aduna~; cio@e in 
+te sola Vergine Maria si trova raccolto, ^Quantunque in creatura @e di 
+bontate~; cio@e tutta la bont@a de la creatura; cio@e delli Agnoli, 
+delli omini e di tutte l'altre cose create da Dio; e cos@i dimostra 
+ch'ella vogli fare grazia a chi la dimanda.  E per@o bene @ae osservato 
+l'autore quello che si osserva da' Poeti ne le loro petizioni, 
+dimostrando che colui da cui si dimanda, possa, debbia e voglia e 
+sappia fare quello che si debbe dimandare: imper@o che, mancando una di 
+queste quattro cose in colui a cui @e dimandato, in vano si 
+dimanderebbe; e cos@i sarebbe stolta dimanda.
+
+	|22-39.~  In questi sei ternari lo nostro autore finge che santo 
+Bernardo finisse la sua orazione devota la quale fece per lui, 
+adiungendo la sua dimanda a la parte detta di sopra, che fu 
+preparativa, dicendo cos@i: ^Or~; cio@e ora, ^questi~; cio@e Dante, 
+^che~; cio@e lo quale, ^Dall'infima lacuna dell'universo~; cio@e dal 
+luogo bassissimo di tutti li altri del mondo: lacuna @e proprio luogo 
+d'acqua; ma qui si pillia per lo luogo basso de lo inferno; universo si 
+dice lo mondo: imper@o che ogni cosa @e congregata a fare uno; cio@e lo 
+mondo, e per@o universo @e ogni cosa volta ad uno; cio@e a fare uno, 
+^fin qui~; cio@e infine al paradiso dove finge l'autore ch'elli fusse, 
+quando santo Bernardo fece questa orazione, ^@a vedute Le vite 
+spiritali~; cio@e @ae veduto, secondo la lettera, colli occhi 
+corporali; ma, secondo l'allegoria e la verit@a, colli occhi mentali le 
+vite de li spiriti che sono senza li corpi, ^ad una ad una~: imper@o 
+che @ae veduto lo inferno, e per questo s'intende tutt'i modi di vivere 
+delli omini viziosi; lo purgatorio, e per questo s'intende tutti li 
+modi di vivere, secondo le virt@u purgatorie; e lo paradiso, cio@e 
+tutt'i modi di vivere, secondo le virt@u dell'animo purgato e 
+contemplativo: et @ae considerato in questi stati et in questi modi di 
+vivere singularmente li omini famosi, facendo di loro ad uno ad uno 
+speciale menzione.  ^Supplica te~; cio@e umilmente prega te: supplicare 
+@e sotto altrui s@e piegare, s@i che supplicare @e con umilt@a pregare, 
+^per grazia~; cio@e che tu per grazia, non per suo merito li concedi, 
+^Tanto di virtute~; cio@e tanta quantit@a di virt@u, ^ch'ei~; cio@e 
+ch'elli, ^possa colli occhi levarsi~; cio@e colli occhi della mente; 
+cio@e colla ragione e co lo intelletto levare s@e; cio@e la mente sua e 
+la contemplazione sua, ^Pi@u alto~; che non s'@e levato in sin qui, 
+^verso l'ultima salute~; cio@e verso Iddio, che @e l'ultima nostra 
+salute; ^Et io~; cio@e Bernardo, ^che mai~; cio@e lo quale mai, ^non 
+arsi~; cio@e non ardentemente desiderai, ^per mio veder~; cio@e acci@o 
+che io vedesse, ^Pi@u ch'io or fo~; cio@e pi@u, che io Bernardo 
+ardentemente ora desideri, ^per suo~; cio@e per lo suo vedere; cio@e 
+acci@o ch'elli vegga, ^tutti miei preghi~; cio@e di me Bernardo, ^Ti 
+porgo~; cio@e porgo a te Vergine Maria, ^e priego~; cio@e te Vergine 
+Maria, ^che non siano scarsi~; cio@e li miei prieghi, ^Perch@e tu~; 
+cio@e acci@o che tu, ^ogni nube~; cio@e ogni ignoranzia, ^li disleghi~; 
+cio@e sciolghi, ^Di sua mortalit@a~; cio@e de la quale ignoranzia @e 
+cagione la sua mortalit@a, ^coi prieghi tuoi~; cio@e pregando tu Iddio 
+che li facci questa grazia, ^S@i~; cio@e per s@i fatto modo, ^che 'l 
+sommo piacer~; che @e Iddio, ^si li dispieghi~; cio@e si manifesti a 
+lui.  ^Ancor~; cio@e anco ora, ^ti prego, Regina~; cio@e te Reina del 
+cielo, ^che puoi~; cio@e la quale puoi, ^Ci@o che tu vuoli~: imper@o 
+che Iddio ogni cosa, che tu vuoi, ti concede, ^che conservi sani, Dopo 
+tanto veder, li affetti suoi~; cio@e, poich@e ar@a veduto Iddio, che tu 
+conservi sani li suoi desid@eri.  ^Vinca tua guardia~; cio@e la guardia 
+di te Vergine Maria, ^i movimenti umani~; cio@e le passioni che 
+l'umanit@a d@a, le quali muoveno la volunt@a.  ^Vedi~; tu, Vergine 
+Maria, ^Beatrice~; che s'interpreta ora grazia perficiente e 
+cooperante, la quale @ae figurato che segga nel terzo scanno, ^con 
+quanti Beati~: imper@o che finge che tutti li beati pregasseno la 
+Vergine Maria per Dante, perch@e santo Bernardo ne li avea pregati; e 
+per@o dice: ^ti chiudon le mani~; cio@e chiudeno et accoppiano le mani, 
+inchinandosi a te per lui, ^Per li miei prieghi~; cio@e imperocch@e io 
+ne gli @o pregati che ci@o faccino.  E qui finisce l'orazione di santo 
+Bernardo, e pi@u non parler@a.  Seguita.
+
+	|40-54.~  In questi cinque ternari lo nostro autore finge che la 
+Vergine Maria facesse cenno a santo Bernardo che la sua orazione era 
+esaudita; e com'elli si sent@i venuto al suo desiderio, dicendo cos@i: 
+^Li occhi~; cio@e della Vergine Maria, ^diletti e venerati da Dio~: 
+imper@o che Iddio am@o et onor@o li occhi suoi, ^Fissi~, cio@e fermati, 
+^nell'orator~; cio@e in santo Bernardo, che avea fatta l'orazione e 
+detta, ^mi dimostraro~, cio@e dimostraro a me Dante, ^Quanto i devoti 
+preghi~; cio@e fatti con devozione, ^li son grati~; cio@e sono a grado 
+a la Vergine Maria.  ^Indi~; cio@e di quindi e di poi, ^a l'eterno 
+lume~; cio@e a Dio, che @e lume eterno, indeficiente, senza principio e 
+senza fine, ^s@e drizzaro~; cio@e dirizzorno s@e, ^Nel qual~; cio@e 
+lume, ^non si pu@o creder~; da alcuno, ^che Per creatura~; cio@e n@e 
+per Agnolo, n@e per omo, ^s'inii~; cio@e si metta dentro: ^iniare~; 
+cio@e mettere dentro, ^l'occhio tanto chiaro~; quanto si mette quello 
+della Vergine Moria.  ^Et io~; cio@e Dante, ^ch'al fine di tutti 
+disii~; cio@e lo quale al fine di tutti li desid@eri, 
+^M'appropinquava~; cio@e m'approssimava, ^finii~; cio@e finitti, 
+^L'ardor del desiderio~; lo quale io avea, ^in me~; cio@e in me Dante, 
+^s@i~; cio@e per s@i fatto modo, ^com'io~; cio@e come io Dante, 
+^dovea~; cio@e finire.  ^Bernardo m'accennava~; cio@e santo Bernardo 
+accennava me Dante, acci@o che io ragguardasse ne la divina luce, ^e 
+sorridea~; cio@e rideva pianamente e modestamente, ^Perch'io~; cio@e 
+acci@o che io Dante, ^guardasse insuso~; cio@e inverso Iddio, ^ma io 
+era Gi@a per me stesso~; cio@e per me medesimo, senza il cenno di santo 
+Bernardo, ^tal, qual io volea~; cio@e essere desiderava.  ^Ch@e la mia 
+vista~; cio@e imper@o che la mia veduta di me Dante, ^venendo sincera~; 
+cio@e pura e chiara, ^E pi@u e pi@u entrava per lo raggio~; cio@e de la 
+Divinit@a di poi pi@u, che da prima, ^Dell'alta luce~; che @e Iddio, 
+unde santo Ioanni: ^Erat lux vera, quae illuminat omnem hominem 
+venientem in hunc mundum~ --, ^che~; cio@e la quale luce, ^da s@e @e 
+vera~: Iddio @e vera luce da s@e, perch@e da altro non depende.  E qui 
+finisce la prima lezione del canto XXXIII della terza cantica, e 
+seguita la seconda.
+	^Da quinci innanzi~ ec.  Questa @e la seconda lezione dell'ultimo 
+canto della terza cantica del nostro autore Dante, nel quale finge 
+ch'elli vedesse la Divinit@a, e cos@i conchiude suo poema.  E dividesi 
+tutta in sei parti: imper@o che prima finge ch'elli pi@u vedesse che 
+non @e possibile a dire, e cos@i si scusa ch'elli non pu@o di quel, che 
+vidde, parlare a pieno; nella seconda parte finge com'elli fece 
+orazione a Dio che li prestasse grazia di potere ridire di lui alquanto 
+di quel ch'elli vidde, e ritorna a dire com'elli pass@o per lo raggio 
+de la divina luce a vedere Iddio colli occhi suoi, et incominciasi 
+quine: ^O somma luce~ ec.; nella terza descrive quello ch'elli comprese 
+della Divinit@a, e finge che uno punto li @e dimenticato, et 
+incominciasi quine: ^O abundante grazia~ ec.; nella quarta parte si 
+scusa che 'l suo parlare conviene oggimai essere corto: imper@o che non 
+si pu@o dire da lui quello che vidde, et incominciasi quine: ^A quella 
+luce cotal~ ec.; nella quinta parte finge com'elli vedesse ne la 
+Divinit@a la Trinit@a delle persone e l'umanit@a di Cristo, et 
+incominciasi quine: ^Ne la profonda e chiara~ ec.; nella sesta et 
+ultima parte finge com'elli volea vedere come l'umanit@a si congiungea 
+co la Divinit@a; ma non fu di tanta potenzia, e pone fine al suo poema, 
+et incominciasi quine: ^Qual @e 'l geometra~ ec.  Divisa la lezione, 
+ora @e da vedere lo testo co la esposizione letterale, allegorica e 
+morale.
+
+	|55-66.~  In questi quattro ternari l'autore si scusa al lettore 
+ch'elli non potr@a tanto dire quanto elli vidde, e fa due similitudini, 
+dicendo cos@i: ^Da quinci innanzi~; cio@e da questo punto, ch'i' @o 
+detto in l@a, ^il mio veder~; cio@e lo vedere di me Dante, ^fu maggio~; 
+cio@e fu maggiore, ^Che 'l parlar mostri~: cio@e che 'l parlare mio 
+possa mostrare, ^ch'a tal vista cede~; cio@e lo quale parlare d@a luogo 
+a tal vedere, ^E cede la memoria~; cio@e e d@a luogo la memoria mia: 
+imper@o che non si ricorda, ^a tanto oltraggio~; cio@e a tanto 
+soperchio.  Et adduce una similitudine, dicendo: ^Qual @e colui~; cio@e 
+alcuno omo, ^che~; cio@e lo quale, ^sognando vede~; cio@e alcuna cosa, 
+^Che~; cio@e per s@i fatto modo, ^dopo 'l sogno~; cio@e ch'elli @ae 
+fatto, ^la passione impressa~; cio@e la paura, o l'allegrezza, o lo 
+dolore messo nella sua fantasia, ^Rimane~; cio@e impressa nella 
+fantasia, ^et altro non riede alla mente~; se non quella passione, 
+nulla altra cosa torna a la memoria, ^Cotal son io~; cio@e io Dante 
+sono s@i fatto, come colui che sogna.  ^ch@e~; cio@e imper@o che, 
+^quasi tutta cessa Mia visione~, imper@o che di quella a pena mi 
+ricorda, se non d'alcuna piccola particella, ^et ancor mi distilla Nel 
+cuor~; cio@e mi viene nel cuore, ^il dolce~; cio@e la dolcezza e lo 
+diletto, ^che nacque da essa~; cio@e dalla detta visione: che 
+differenzia sia tra le cinque spezie de' sogni altro' @e stato detto, e 
+quine apparrebbe perch@e l'autore chiama questa visione.  ^Cos@i la 
+nieve~; ecco che arreca un'altra similitudine, dicendo che ^Cos@i la 
+nieve al Sol~; cio@e a lo caldo del Sole, ^si dissigilla~; cio@e si 
+disf@a, come si disfece la mia visione, ^Cos@i al vento~; ecco che 
+arreca un'altra similitudine, che pone Virgilio nel V de la sua Eneida, 
+fingendo che 'l re Eleno troiano dicesse ad Enea ch'elli troverebbe in 
+Italia una donna nel tempio d'Apolline, che si chiamava Sibilla, che 
+dava risposta delle future cose, e chiamavasi Sibilla cumana, perch@e 
+era presso a la citt@a chiamata Cume e stava nell'antro, dove era lo 
+spirito che li dava a sapere le future cose; e quando era dimandata, 
+dava le risposte in versi e scriveva li versi in su le follie de la 
+palma, in ciascuna uno verso, e poneale in su l'uscio de l'antro, 
+ordinatamente l'una dopo l'altra; e come a li usci sempre venteggia, 
+venia lo vento e dava ne le follie e spargevale qua e l@a, e cos@i si 
+perdea la sentenzia di quelli versi, perch@e non era nessuno che li 
+sapesse recare ne l'ordine ch'ella li avea posti, e cos@i si partiano 
+senza risposta.  E per@o Eleno consigli@o Enea che la pregasse ch'ella 
+li desse risposto con voce e non con versi, e cos@i fece; e per@o 
+facendo similitudine l'autore, dice: ^Cos@i al vento~; ci@o che facea 
+l'antro di Sibilla, ^ne le follie levi~; cio@e de la palma, che erano 
+poste in su l'uscio et eranovi scritti li versi, e perch@e erano 
+leggeri lo vento le facea volare, e turbavasi l'ordine de' versi, 
+sicch@e non si potevano intendere poi, e per@o dice: ^Si perdea la 
+sentenzia di Sibilla~: come si perdeva in me la mia visione.  Di queste 
+Sibille @e stato detto di sopra in altro luogo, e per@o qui non 
+replico; e per@o chi ne vuole sapere, cerchi a drieto quine, dove si 
+tratta ci@o, nel canto de la prima cantica.  Seguita.
+
+	|67-81.~  In questi cinque ternari lo nostro autore finge com'elli 
+fece orazione a Dio, e pregollo che alquanto li prestasse di poter dire 
+di lui; e come ebbe grazia di potere ragguardare nel raggio divino, 
+dicendo cos@i: ^O somma luce~; cio@e o Iddio, che se' somma luce sopra 
+tutte le luci, ^che tanto ti levi~; cio@e la quale luce tanto levi te 
+in alto, ^Da' concetti mortali~; cio@e da' pensieri delli omini che 
+sono mortali, che nessuno pu@o adiungere col suo pensieri a te, ^a la 
+mia mente~; cio@e a la mia memoria, ^Ripresta~; cio@e un'altra volta 
+presta e concede, cio@e avale, che l'@one a scrivere come mel 
+prestasti, quando addimandai, ^un poco~; cio@e alcuna particella, non 
+tutto, ^di quel che parevi~; cio@e di quello che parevi a me, quando ti 
+viddi, ^E fa la lingua mia~; cio@e tu, Iddio, fa la mia lingua di me 
+Dante, ^tanto possente~; cio@e ch'ella possa tanto, ^Ch'una favilla~; 
+cio@e alcuna particella: come la favilla @e piccola parte del fuoco; 
+cos@i una piccola notizia de la tua grandissima e smisurata luce, 
+^sol~; cio@e solamente, ^de la tua gloria~; cio@e della tua 
+beatitutudine, ^Possa lassare~; cio@e io Dante, ^a la futura gente~; 
+cio@e a la gente che debbe venire, che legger@a questa mia comedia.  
+^Ch@e~; cio@e: imper@o che, ^per tornar alquanto a mia memoria~; cio@e 
+se io torner@o un poco a la memoria di quello, che io viddi della tua 
+gloria, ^E per sonar un poco~; cio@e per cantare colle mie parole, ^in 
+questi versi~; cio@e in questi miei versetti, che sono in questi 
+ternari, ^Pi@u si conceper@a di tua vittoria~; cio@e pi@u s'intender@a 
+da' lettori e da l'intelletti umani, ^di tua vittoria~; cio@e della 
+vittoria, che ebbe lo Verbo Incarnato contra lo dimonio, che lo 
+sconfisse in sul legno de la croce, e tolseli la preda de' santi Padri, 
+che avea imprigionati nel limbo.  E fatto l'orazione, ritorna a parlare 
+della materia sua, dicendo: ^Io~; cio@e Dante, ^credo, per l'acume~; 
+cio@e per la sottigliezza et eccellenzia, ^ch'io soffersi Del vivo 
+raggio~; cio@e che usciva de la Divinit@a, ^ch'io~; cio@e lo quale io 
+Dante, ^saria smarrito~; cio@e sarei uscito di me, ^Se li occhi miei~; 
+secondo la lettera, corporali; secondo l'allegoria, la ragione e lo 
+intelletto di me Dante, ^da lui~; cio@e al detto raggio, ^fusser 
+aversi~; cio@e si fusseno partiti e cessati da esso.  Lo contrario 
+opera la luce divina a quello che opera la luce del mondo: la luce del 
+mondo, quando avanza la potenzia sensitiva, corrompe lo senso; ma la 
+luce divina, quanto pi@u cresce nell'anima umana, tanto pi@u cresce lo 
+cognoscimento e lo diletto: e diventa l'anima umana pi@u utile a 
+contemplare Iddio, quanto pi@u vi sta e quanto pi@u v'entra.  ^Ei mi 
+ricorda~; cio@e e' ricorda a me Dante, ^ch'io~; cio@e che io Dante, 
+^fui pi@u ardito Per questo~; cio@e, perch'io avea sofferto l'acume 
+della divina luce, io fui pi@u ardito, ^a sostener~; cio@e essa luce 
+divina, ch'io non sarei stato, ^tanto ch'io iunsi L'aspetto mio~; cio@e 
+lo vedere di me Dante, ^col valore infinito~; cio@e co la Divinit@a, 
+che @e valore senza fine.  Ciascuna santa anima, che contempla Iddio, 
+adiunge a Dio, secondo la sua facult@a del comprendere: imper@o che 
+ogni cosa, che cognosce, cognosce secondo la sua facult@a, e non 
+secondo la facult@a de la cosa cogniusciuta; e per@o Iddio, secondo 
+s@e, @e incomprensibile; ma ciascuna mente ne cognosce tanto quanto 
+pu@o, sicch'ella rimane contenta.  E questo volse dire l'autore ne le 
+precedenti parole.
+
+	|82-99.~  In questi sei ternari lo nostro autore finge come elli, 
+vedendosi tanto inalzato, esclam@o a Dio; e com'elli dopo questo vidde 
+in Dio ci@o che @e nel mondo, dicendo ancora quello che non pot@e 
+vedere.  Dice cos@i: ^O abundante grazia~; quasi dica: O quanto @e 
+abondante la grazia d'Iddio a chi la dimanda, ^ond'io~; cio@e per la 
+quale io Dante, ^presunsi~; cio@e presi ardire, ^Ficcar lo viso~; cio@e 
+mio di me Dante, cio@e lo intelletto mio, ^Per la luce eterna~; cio@e 
+per la Divinit@a, ^Tanto, che la veduta~; cio@e la vista mia 
+intellettuale, s'intende secondo l'allegoria, ^vi consunsi~; cio@e vi 
+consummai in essa: imper@o che tanto n'appresi, quanto era licito a me, 
+e quanto era la facult@a del mio cognoscimento!  ^Nel suo profondo~; 
+ecco che dice com'elli vidde ne la profundit@a de la Divinit@a, cio@e 
+nell'altezza d'Iddio, ^viddi~; cio@e io Dante, ^che s'interna~; cio@e 
+lo quale profondo @e Trinit@a, cio@e tre persone in una sustanzia, 
+Padre, Figliuolo e Spirito Santo, viddi io Dante, ^Legato con amore in 
+un volume~; cio@e coniunto con amore in uno libro, cio@e in Dio, cio@e 
+nella sapienzia sua, che @e lo Figliuolo, ^Ci@o, che per l'universo~; 
+cio@e, che per tutto il mondo, ^si squaterna~; cio@e divisamente si fa: 
+imper@o che in Dio sono tutte le cose che si fanno, siccome nella prima 
+cagione che provede ogni cosa.  ^Sustanzie et accidenti~; ci@o, che @e 
+nel mondo, @e sustanzia o accidente, ^e lor costume~; cio@e e le loro 
+operazioni naturali, ^Tutti conflati insieme~; cio@e tutti coniunti 
+insieme, ^per tal modo~; cio@e per s@i fatto modo li viddi coniunti 
+insieme in Dio, ^Che ci@o, ch'io~; cio@e Dante, ^dico~; di questo, ^@e 
+un semplici lume~; cio@e erano per s@i fatto modo in Dio, che erano una 
+cosa semplici e non compiuta: imper@o che in Dio non pu@o essere alcuna 
+cosa composta e per questo vuole dire ch'elli vidde in Dio l'idea di 
+tutte le cose; et @e idea l'esemplare imagine di tutte le cose, bench@e 
+Aristotile disse essere idea la intesa similitudine di tutte le cose, 
+tra s@e differenti.  ^La forma universal di questo nodo~; cio@e la 
+forma d'ogni cosa, che @e nodo fermo che tiene ogni cosa nel suo 
+essere, e questo @e Iddio, ^Credo ch'io viddi~; cio@e io Dante, dice 
+l'autore; et assegna la cagione de la sua credenzia, ^perch@e~; cio@e 
+imper@o che, ^Dicendo questo~; cio@e ch'io la viddi, ^mi sento ch'io 
+godo pi@u di largo~; ch'io non faceva prima.  Non pu@o l'anima pensare 
+d'Iddio, ch'elli non goda largamente, e cos@i parlandone; e questa mia 
+visione, che io ebbi d'Iddio, sempre fe me allegro e di quello sapere 
+mi vorrei arricordare; e per@o dice: ^Un punto solo~; cio@e di quella 
+beatifica visione che io ebbi di Dio, et @e punto la sessagesima parte 
+d'una ora, ^m'@e maggior letargo~; cio@e maggiore dimenticagione @e a 
+me Dante e pi@u noiosa, e pi@u me ne duole, ^Che venticinque seculi~; 
+cio@e che con sarebbono stati 25 seculi: seculo @e tempo d'anni cento, 
+dunqua 25 seculi, sarebbono 2500 anni, sicch@e vuole dire che solo un 
+punto, che sia dimenticato da lui la detta visione, li @e maggiore 
+oblivione che non sarebbono stati 2500 anni, ^a l'impresa~; cio@e a la 
+disposizione, ^Che fe Nettunno a mirar l'ombra d'Argo~; cio@e lo iddio 
+del mare cos@i chiamato, che si dispuose e fece impresa di mirare 
+l'ombra de la prima nave che entr@o in Grecia, che fu chiamata Argo, e 
+perdettevi molto tempo.  Fingeno li Poeti che Nettunno, iddio del mare, 
+vedendo la terra abitata dalli omini, ebbe desiderio di vedere abitato 
+lo mare, che era lo suo regno, dalli omini, com'elli vedea abitata la 
+terra; e per@o fu fatta in Grecia la prima nave, che si chiam@a Argo; 
+e, varata in mare, iddio Nettunno n'ebbe grande allegrezza, et and@o 
+per vederla.  Quando elli la vidde da lunga, pur dall'uno lato, unde la 
+detta nave facea ombra, o vedendo sotto l'acqua la sua ombra, parveli 
+s@i grande cosa, e piacqueli tanto questa nave, ch'elli stette molto 
+tempo a ragguardalla, e quanto pi@u vi stava, pi@u liene crescea la 
+voglia di starvi: imper@o che stava in allegrezza, vedendo che vi 
+fusse; unde immobile et attento stava per vederla, et in questo 
+perdette molto tempo: imper@o che quanto pi@u la vedeva, pi@u li 
+cresceva la vollia di vederla, come se mai non l'avesse veduta.  E 
+per@o bene dice l'autore che a lui @e maggior noia e pi@u increscevile 
+la dimenticagione d'avere veduto Dio, che tanto lo rallegrava, durasse 
+pure un punto ch'elli non si ricordasse de la visione beatifica, che 
+non sarebbono stati 2500 anni che Nettunno fusse stato senza vedere 
+l'ombra di quella nave, che fu chiamata Argo, e ricordarsi della sua 
+ombra, a la quale stette molto tempo, non avvedendosi del tempo ch'elli 
+stava per allegrezza, ch'elli n'avea, se tanto vi fusse stato.  Fingeno 
+li Poeti che, quando la detta nave si var@o in mare, la terra n'ebbe 
+dolore, vedendo che era cagione che la terra s'abbandonasse dalli 
+omini, et abitassesi lo mare, e per@o mand@o li scolli simplegadi che 
+la tenessono; ma giungendo pure la poppa di rieto liel tolseno, la 
+quale li Dii, per prego di Nettunno, portorno in cielo e fecerne segno 
+celeste, che si chiama Puppis, e che Nettunno stesse molto tempo a 
+vederla per allegrezza che n'avea.  ^Cos@i~.  Ora adatta la 
+similitudine in altra parte; prima @ae posto la comparazione del tempo 
+d'uno punto ad anni 2500, ne la fizione poetica detta di sopra, et ora 
+fa similitudine del suo ragguardare la Divinit@a al ragguardare 
+Nettunno l'ombra de la nave, dicendo: ^Cos@i la mente mia~; cio@e per 
+s@i fatto modo la mente di me Dante, ^tutta sospesa~; cio@e levata dal 
+desiderio di vedere la Divinit@a, come la mente di Nettunno a vedere 
+Argo, ^Mirava fissa~; cio@e fermata senza divertere lo intelletto ad 
+altre cose, ^immobile~; cio@e non mutevile da quello, cio@e senza 
+mutarsi dal luogo, ^et attenta~; cio@e sollicita di bene ragguardare: 
+chi vuole bene vedere alcuna cosa, debbe avere queste 3 condizioni; 
+cio@e che stia attento, immobile e fisso: imper@o che, se lo intelletto 
+dentro non stesse attento a quello che l'occhio vede, invano vedrebbe; 
+e se lo intelletto stesse attento, et ora si mutasse ad una cosa, ora 
+ad un'altra, non comprenderebbe pienamente; e se in quello, che vuole 
+apprendere, non vi sta fermo per spazio, non pu@o anco avere sua 
+perfezione; e per@o l'autore puose quelli tre adiettivi, per mostrare 
+che la mente sua facea bene, come colui che vuole perfettamente 
+comprendere.  ^E sempre di mirar~; cio@e la Divinit@a, ^faceasi 
+accesa~; cio@e la mia mente sempre diventava pi@u ardente di 
+considerare e cognoscere Iddio: quanto pi@u l'uomo contempla Iddio, 
+tanto pi@u cresce l'ardore di contemplarlo.
+
+	|100-114.~  In questi cinque ternari lo nostro autore finge come, 
+continuando la sua materia, elli conferma quello che avea detto, e 
+scusasi di poter parlare a pieno de la Divinit@a, dicendo cos@i: ^A 
+quella luce~; cio@e divina, de la quale @oe detto, ^cotal si diventa~; 
+quale io dissi di sopra, cio@e che la mente mia era tutta inalzata e 
+^Mirava fissa~ et ^immobile et attenta~ la Divinit@a, e sempre in lei 
+cresceva l'ardore di mirare a quella.  ^Ch@e~; cio@e imper@o che, 
+^volgersi da lei~; cio@e da essa luce divina, ^per altro aspetto~; 
+cio@e per altro ragguardamento, cio@e per ragguardare altra cosa, ^@E 
+impossibil che mai si consenta~: non pu@o la volunt@a umana non volere 
+lo sommo bene, quando li @e mostrato; e per@o non si pu@o volgere da 
+esso per altro bene.  E l'autore nostro assegna la cagione, dicendo: 
+^Per@o~; cio@e imper@o, ^che 'l ben~; cio@e sommo, che @e Iddio, ^che~; 
+cio@e lo quale bene sommo, ^@e obietto del voler~: la volunt@a umana 
+@ae per suo obietto lo sommo bene: imper@o che non pu@o volere se non 
+quello, se non quando ella @e ingannata, parendoli sommo bene quello 
+che non @e, ^Tutto s'accollie in lei~; cio@e ne la luce divina, ^e fuor 
+di quella~; cio@e di quella luce divina, ^@E defettivo ci@o che @e l@i 
+perfetto~; cio@e @e bene imperfetto ogni bene, che in Dio @e perfetto; 
+e per@o dice: ^@E defettivo ci@o~; cio@e ogni bene, ^che~; cio@e lo 
+quale, ^@e l@i~; in essa luce divina, ^perfetto.  Omai~; cio@e oggimai, 
+^ser@a pi@u corta mia favella~; cio@e lo parlare di me Dante sar@a pi@u 
+corto et indeficiente, ^Pur a quel, ch'io ricordo~; cio@e non dico per 
+rispetto di quel, ch'io mi ricordo; ma eziandio di quello, ch'io non mi 
+ricordo della Divinit@a, ^che d'un fante~; cio@e d'un fanciullo, 
+^Ch'ancor~; cio@e lo quale ancora, ^bagni la lingua~; cio@e sua, ^a la 
+mammella~; cio@e a la puppa della sua nutrice, cio@e che bea ancora la 
+puppa.  ^Non perch@e pi@u ch'un simplici sembiante Fusse nel vivo 
+lume~; cio@e non sar@a corta la mia favella, perch@e in Dio fusseno 
+molte apparenzie; ma era lo contrario, che in lui @e unit@a e 
+simplicit@a; e per@o dice: Non sar@a corta la mia favella, perch@e pi@u 
+apparenzie e similitudini fusseno in lui, che in lui non era, se none 
+una semplici apparenzia, ^ch'io~; cio@e lo quale vivo lume io Dante, 
+^mirava~; cio@e che io ragguardava, ^Che~; cio@e lo quale lume, ^tale 
+@e sempre~: imper@o che mai non si muta, ^qual s'era davante~; cio@e 
+quale elli era innanzi, cio@e inanzi a tutte le cose: imper@o che Iddio 
+sempro fu, @e e sar@a uno medesimo semplice, ^Ma per la vista~; cio@e 
+ma per la veduta mia, ^che s'avvalorava~; cio@e la quale prendeva 
+valore e crescea, ^In me~; cio@e in me Dante, ^guardando~; cio@e 
+avvisando in essa luce divina, ^una sola parvenza~; cio@e una sola 
+apparenzia de la detta luce divina, che una, semplice e sola mi si 
+mostrava, ^Mutando me~; cio@e mutando me Dante, donandomi sempre pi@u 
+grazia l'una volta che l'altra, ^a me si travalliava~; cio@e si mutava, 
+quanto al cospetto mio; ma non quanto a l'essere suo, che @e sempre 
+immutabile.  Seguita.
+
+	|115-132.~  In questi sei ternari l'autore nostro dichiara quello, 
+ch'elli finge avere veduto de la Divinit@a ne la sua visione, dicendo: 
+^Ne la profonda e chiara sussistenza~; cio@e nell'alta e chiara 
+sustanzia, ^Dell'alta luce~; cio@e divina, che @e alta sopra tutte le 
+luci, ^parvermi~; cio@e parveno a me Dante, ^tre giri~; cio@e tre 
+persone: in giri li figura, a dimostrare la loro eternit@a: imper@o 
+che, come nel giro non @e principio, n@e fine; cos@i ne le tre persone 
+de la Divinit@a, ^Di tre colori~; cio@e di tre apparenzie ne la 
+nominazione, cio@e Padre, Figliuolo e Spirito Santo, ^e d'una 
+continenza~: imper@o che eterno @e lo Padre, eterno @e lo Figliuolo et 
+eterno @e lo Spirito Santo, e cos@i immenso, e cos@i dell'altre 
+adiettivazioni: ben sono adiettivazioni, che si convegnano pure ad una 
+persona e non all'altre, come la nominazione lo Padre, si dice pure 
+generatore e lo Figliuolo generato, e non lo Spirito Santo; e cos@i lo 
+Figliuolo incarnato, e non lo Padre, n@e lo Spirito Santo, bench@e 
+tutti e tre sono una sustanzia, una Deit@a.  ^E l'un~; cio@e lo 
+Figliuolo, ^Parea reflesso dall'altro~; cio@e come per reflessione 
+generato dall'altro, cio@e lo Figliuolo dal Padre: imper@o che solo lo 
+Padre @e generatore, e lo Figliuolo generato, ^come Iri da Iri~; arreca 
+la similitudine, cio@e che, come l'uno arco, che appare ne le nube, @e 
+cagione che per reflessione dei suoi colori ne le nube avverse, si 
+generi l'altro; cos@i lo Padre @e cagione de la generazione del 
+Figliuolo, sicch@e lo Figliuolo si dice generato, e lo Padre generante, 
+^e 'l terzo~; cio@e lo Spirito Santo, ^parea foco~: imper@o ch'elli @e 
+l'amore, che l'uno e l'altro eternalmente spira, cio@e lo Padre e lo 
+Figliuolo ab eterno spira lo Spirito Santo, lo quale procede dal Padre 
+e dal Figliuolo, ^Che~; cio@e lo quale, ^quinci~; cio@e dal Padre, ^e 
+quindi~; cio@e dal Figliuolo, ^equalmente spiri~; cio@e equalmente 
+proceda.  ^Oh come @e corto 'l dire~; ora esclama l'autore, dimostrando 
+che non si possa dire a pieno, n@e a sufficienzia de la Trinit@a, 
+dicendo: ^Oh~; questo ^Oh~ @e interiezione esclamativa o vero 
+ammirativa, come @e corto lo dire di questa Trinit@a, anco cortissimo 
+che non si pu@o tanto, quanto ella @e, ^e come @e fioco~; cio@e e come 
+@e non intelligibile, ^Al mio concetto~; cio@e appresso quello, che io 
+@one nel mio concetto!  Imper@o che, come dice santo Augustino: ^Deus 
+verius cogitatur, quam dicatur; et verius est quam cogitetur.  Ideo non 
+est pars parvae notitiae, si unquam possimus scire quod sit Deus, 
+possimus scire quid non sit~.  --, ^e questo~; cio@e lo dire mio 
+d'Iddio, secondo lo mio concetto.  O volliamo dire: ^e questo~; cio@e 
+lo mio concetto, che io @one d'Iddio, ^@E tanto~; cio@e @e s@i grande, 
+^a quel, ch'io vidi~; cio@e per rispetto di quello, che io viddi: 
+imper@o che lo concetto fu maggiore che la vista, e la vista anco fu 
+maggiore che possa essere lo mio dire, ^che non basta a dicer poco~: 
+imper@o che se ne vorrebbe dire assai e non si pu@o.  E per@o esclama 
+l'autore a Dio, dicendo: ^O somma luce~: imper@o ch'elli @e luce sopra 
+ogni luce, ^che sola in te sidi~; cio@e la quale sola stai in te 
+medesimo, ^Sola te 'ntendi~; cio@e tu sola luce intendi te medesimo 
+tutto, ^e da te~; cio@e da te medesima luce, ^intelletta~; cio@e intesa 
+tutta, ^Et intendente te~; cio@e te medesima tutta, ^a me arridi~; 
+cio@e a me Dante fai festa e grazia, dandomi ad intendere alcuna 
+particella di te, ^Questa circulazion~; de' detti tre giri, ^che s@i 
+concetta~; cio@e per s@i fatto modo conceputa, ^Pareva in te~; cio@e in 
+te luce, ^alquanto circuspetta~; cio@e un pocolino veduta intorno, 
+^Dalli occhi miei~; cio@e da la ragione e da lo intelletto di me Dante, 
+^come lume reflesso~; cio@e come lume ripiegato in tre giri, come detto 
+@e, ^Dentro da s@e~; cio@e dentro da la sua essenzia, ^del suo fulgore 
+stesso~; cio@e del suo medesimo splendore, ^Parea pinta~; cio@e 
+figurata, ^de la nostra effige~; cio@e della nostra figura, ^Per che 'l 
+mio viso~; cio@e per la qual cosa, cio@e per la qual dipintura e 
+figurazione de la nostra umanit@a lo mio vedere, ^in lei~; cio@e ne la 
+detta nostra figurazione, ^tutt'era messo~; cio@e tutto lo mio sguardo 
+era messo a guardaro l'umanit@a di Cristo.  Cos@i fa la mente devota, 
+quando contemplando la Divinit@a, non vi pu@o intrare, ella si mette a 
+contemplare l'umanit@a del nostro Salvatore che @e in essa.  Seguita.
+
+	|133-145.~  In questi quattro ternari et uno versetto lo nostro autore 
+finge com'elli volse vedere come l'umanit@a si coniunse co la 
+Divinit@a; ma lo suo intendimento non fu di tanto; ma ben dice che li 
+sopravenne grazia, co la quale ebbe suo desiderio; ma elli si scusa che 
+la fantasia sua nol pot@e ritenere, sicch@e 'l potesse dire, o 
+scrivere, e cos@i conchiude che finisce lo suo poema, dicendo cos@i: 
+^Qual @e 'l geometra~; ecco che fa una similitudine per relazione, 
+dicendo che tale era elli, quale @e lo geometra: geometra @e l'artefice 
+ammaestrato de la Geometria, che @e scienzia di misurare la terra, e 
+l'altre cose mensurabili, ^che~; cio@e lo quale geometra, ^tutto 
+s'affige Per misurar lo cerchio~; lo quale elli @e disposto a misurare, 
+^e non ritrova, Pensando~; cio@e col suo pensieri, ^quel principio~; 
+che egli pigli a la sua misura, ^ond'elli~; cio@e della quale elli, 
+^indige~; cio@e @a bisogno, per volere misurare, ^Tal era io~; cio@e io 
+Dante era tale, quale @e el geometra, del quale @e stato detto, ^a 
+quella vista nova~; cio@e a quella nuova imagine, che io aveva veduta 
+ne' giri de la luce de la Divinit@a.  ^Saper voleva~; cio@e io Dante, 
+^come si convenne L'imago~; cio@e l'imagine dell'umanit@a di Cristo, 
+che io viddi, ^al cerchio~; come si convenne al cerchio secondo de la 
+Divinit@a, che @e lo Figliuolo; come fu fatta tale coniunzione de 
+l'umanit@a co la Divinit@a del Verbo, ^e come vi s'indova~; cio@e e 
+come vi s'acconcia la detta umanit@a ne la Divinit@a; com'ella v'@e 
+locata: ^indovare~ @e verbo formato da questo vocabulo ^dove~, che @e 
+uno de' 10 predicamenti in Dialettica.  Grandissima cosa @e tale 
+coniunzione di due cose cos@i differenti, cio@e Creatore con creatura, 
+Iddio et omo eterno col temporale e mortale, e cos@i dell'altre 
+differenzie che si possano dire.  E per@o dice: ^Ma non eran da ci@o~; 
+cio@e di poter sapere quello, che detto @e, ^le proprie penne~; ci@o la 
+mia virt@u dello intendere; ma dice in plurali, e perci@o si pu@o dire 
+le mie scienzie acquistate per dottrina.  ^Se non~; ecco che pone 
+l'eccezione dopo la parola precedente, cio@e che la sua scienzia e 
+potenzia intellettiva non era da tanto, ch'elli potesse vedere tale 
+coniunzione in che modo fusse fatta, se non che per grazia divina, che 
+venne in lui, li fu mostrato; e per@o dice: ^Se non che la mia mente~; 
+cio@e di me Dante, ^fu percossa Da un fulgore~; cio@e da uno splendore, 
+e questo fu avvenimemto di nuova grazia, che lo illumin@o di quello che 
+volea sapere, ^in che~; cio@e nel qual fulgore, ^venne sua vollia~; 
+venne adimpiuta la volont@a sua, cio@e de la mia mente, et avea pensato 
+di dirlo e scriverlo.  ^Ma all'alta fantasia~; la quale sopra ci@o io 
+avea, ^qui~; cio@e in questa parte, ^manc@o possa~; cio@e di poterlo 
+s@i apprendere, che io lo potesse dire e scrivere.  ^Ma gi@a volgeva 'l 
+mio disio~; cio@e ma gi@a volgea lo mio desiderio, che io avea di 
+scrivere e dirlo, ^e 'l velle~; cio@e e la mia volunt@a, ^Siccome rota, 
+che equalmente @e mossa~; cio@e come si volge la rota, che @e mossa 
+parimente, non pi@u ratto l'una volta che l'altra: la mente umana mossa 
+da l'amore d'Iddio si muove equalmente a tutte le cose, accordando la 
+sua volunt@a co la volunt@a d'Iddio; e per@o dice: ^L'Amor~; cio@e 
+l'amore divino volgea lo mio desiderio e la mia volunt@a, dice 
+l'autore; e fa differenzia qui l'autore tra volunt@a e desiderio, 
+ponendo desiderio per lo confortamento de la volunt@a, che seguita dopo 
+lo primo atto de la volunt@a; o volliamo dire che quella copula si 
+pogna espositiva, cio@e lo mio desiderio e lo mio ^velle~; cio@e lo mio 
+volere, ^che~; cio@e lo quale amore, ^muove 'l Sole e l'altre stelle~.  
+Lo Spirito Santo @e quello, che muove ogni cosa al suo volere e dovere: 
+imper@o che, come Creatore conserva le cose create nel suo essere, et 
+in esse spira una inclinazione naturale, per la quale s'inclinano a 
+seguitare l'opera sua naturale; e per@o lo Sole e le stelle sempre si 
+muoveno secondo la inclinazione, che lo Spirito Santo @ae spirato in 
+loro naturalmente; e per@o disse lo Filosofo che Iddio muove, siccome 
+amato, e cos@i si debbe intendere de le intelligenzie poste a muoverli. 
+ E perch@e dice ^l'altre stelle?~  Perch'@e differenzia tra lo Sole e 
+le stelle: debbesi intendere che muove lo Sole che @e corpo celeste, e 
+li altri corpi celesti che sono stelle.  ^Amen, Deo gratias~.

@@ -1,0 +1,1283 @@
+	|Nota~ Partitosi Vanni Fucci, stando i Poeti nel medesimo luogo
+di prima, veggono altri ladri in quella bolgia, e sono spettatori
+delle loro terribili trasmutazioni d'uomini in serpenti, e di
+serpenti in uomini; alla fine riconoscono cinque ladri
+Fiorentini.
+
+	|1-3.~  L'Alfieri nota i due ultimi.  |Al fine~ ecc.;
+dette le ultime parole, con che si conchiude il Canto precedente, 
+a dare maggiore sfogo e risalto alla rabbia diabolica, che il
+divorava, dall'odio all'uomo (cf. ^Inf.~, XXIV, 133-151) il Fucci
+passa all'odio contro Dio, che s@i terribilmente il puniva.  La
+forma, con che il Canto s'inizia, arieggia a quella del ^Purg.~, 
+XXIX, 1-2 (cf. ^Inf.~, VIII, 1).  -- |Le mani alz@o~, lev@o le mani
+contro il cielo (cf. ^Purg.~, XXIV, 106; altrove ^alzar le ciglia
+contro Dio~, ^Inf.~, XXXIV, 35; -- cf. ^Inf.~, XXVIII, 104;
+^Purg.~, VIII, 10).  -- |Ambedue le fiche~; atto inverecondo e di
+spregio, che si fa mettendo il dito pollice tra l'indice e il
+medio piegati, rivolgendosi verso alcuno.  Il Nannucci indag@o
+l'origine di quest'atto osceno e oltraggioso; e conviene con
+quanto ce ne narra il Gelli.  V'ha per@o chi crede che tal modo
+d'ingiuriare fosse proprio de' Pistoiesi, a differenza delle
+altre genti di Toscana; difficile il poterlo provare con
+certezza.  E bens@i vero (cf. Villani, ^Cron.~, VI, 5) che nella
+loro rocca di Carmignano, presa e disfatta dai Fiorentini nel
+1288, sovra un'alta torre i Pistoiesi in una lastra di marmo
+aveano fatto scolpire due braccia che ^faceano con le mani le
+fiche a Firenze.~  Nota il Tommaseo, che nello Statuto di Prato
+chiunque ^ficas fecerit vel monstraverit nates versus Coelum, vel
+versus figuram Dei~ o della Vergine, paga dieci lire ogni volta;
+se no, frustato.  -- |Gridando~; dice qui la rabbia violenta.  --
+|Togli~ e pi@u che ^prendi~; ne' nostri vecchi scrittori |togli~
+si usa quasi come esclamazione, quando chi parla vuol esprimere
+sdegno, disprezzo, noia, o altra consimile passione: chi badi
+all'uso e alla forza del nostro ^to'~ anche in molti dialetti, 
+capir@a benissimo il |togli~ del Fucci.  -- |Squadro~; ^squadrare~
+vale quanto ^aggiustare colla squadra, drizzare~; dunque il senso
+@e: le aggiusto a te per l'appunto, le indirizzo a te.
+
+	|4-9.~  Notati dall'Alfieri.  |Da indi in qua~, da quel
+punto in poi.  -- |Mi f#ur~ ecc.; divenni amico, volli bene alle
+serpi, perch@e fecero la mia vendetta contro quell'empio.  Il
+Cesari: <Noi amiamo anche i nemici, quando pigliano la vendetta
+dell'onore degli amici nostri; quindi @e quel modo, che parmi aver
+veduto in Terenzio, ed in uno dei comici Fiorentini: ^benedette
+gli sian le mani~, detto ad uno che di santa ragione batteva un
+servo birbone.>  Il fido alunno di quel Maestro, che s@i
+degnamente rimprover@o il blasfemo Capaneo (cf. ^Inf.~, XIV, 61 e
+segg.), non poteva qui non isfogare il suo profondo orrore per
+l'atto empio del Fucci.  Il Tommaseo (forse troppo sottilmente):
+<Quanto ha di pi@u fiero il secolo piuttosto che il cuore di
+Dante, distilla dal verso: |Mi f#ur le serpi amiche.~  E queste
+parole son fiero commento a' suoi atti, del collegarsi alcun
+tempo a ^malvagi~ e a ^scempi.~>  -- |Una~ ecc., una gli si
+attorcigli@o intorno al collo, serrandolo, stringendolo, come a
+togliergli il fiato a non pi@u bestemmiare.  -- |Diche~, per dica, 
+comune a' nostri antichi (cf. ^Purg.~, III, 117; ^Par.~, XXV, 
+86).  -- |E un'altra~ gli avvinse le braccia per impedirgli di
+non pi@u alzarle contro Dio con quell'atto di scherno sagrilego. 
+-- |Rilegollo~; chi intende ^legollo~, e chi ^legollo di nuovo~;
+ma siccome il Poeta di tutti i ladri avea detto (^Inf.~, XXIV, 
+94)
+
+     Con serpi le man dietro avean legate, 
+
+cos@i sembra esser nel vero chi tiene che il Fucci fosse stato per
+un momento lasciato libero dalle serpi, che ora lo rilegano.  --
+|Ribadendo~; ^ribadire~ dicesi propriamente del ritorcere la
+punta d'un chiodo, che trapassi da parte a parte un asse; qui il
+Poeta, spiegando s@e stesso, ricorda il forare e attraversar le
+reni, aggroppando coda e capo dalla parte dinanzi (cf. ^Inf.~, 
+XXIV, 95-96).  -- |Con esse~; colle braccia.  -- |Dare un
+crollo~, fare qualsiasi atto di movimento (cf. ^Inf.~, XXVI, 86;
+^Purg.~, V, 14).  D'altro insultatore di Dio, che il Poeta vedr@a
+incatenato le braccia, sentiremo dirci (^Inf.~, XXI, 96):
+
+     Le braccia, ch'ei men@o, giammai non muove.
+
+Su quest'ultima terzina il Cesari: <Pittura feroce! parmi vedere
+Laocoonte, e i figliuoli annodati e legati da' due dragoni.  Io
+ne vidi a Roma la statua bellissima, che mette orrore e piet@a.>
+
+	|10-12.~  L'Alfieri not@o i due primi.  |Ahi Pistoia~
+ecc.; fa rammentar l'altro: ^Ahi Pisa~ ecc. (cf. ^Inf.~, XXXIII, 
+79); e non men che qui violenta, anzi feroce, l'invettiva.  --
+|Ch@e~, perch@e; -- |non stanzi~, non decidi, non risolvi. 
+^Stanziare~ propr. @e collocare, fermare, stabilire, 
+materialmente; cos@i lo ^statuere~ de' Latini, dal materiale al
+morale poi (cf. ^Purg.~, VI, 54, dove vale reputare, credere, 
+supporre).  -- |D'incenerarti~ ecc.; d'appiccar fuoco alle tue
+case, e ridurle in cenere.  Alcuni Codd., in luogo
+|d'incenerarti~, leggono ^d'ingenerare~; e, come avverte lo
+Scartazzini, cos@i lesse l'Anon. Fiorentino, che poi chios@o:
+<Perch@e non ordini che tanto tuo mal seme si spenga et non
+rifigli in te?>  -- |Poich@e in mal far~ ecc.; dacch@e per
+malvagit@a superi i tuoi malvagi fondatori.  Fa rammentare la
+sentenza d'Orazio (^Carmen.~, III, VI, 46-48):
+
+     Aetas parentum, peior avis, tulit
+     Nos nequiores, mox daturos
+     Progeniem vitiosiorem.
+
+Credevasi che Pistoia fosse stata fondata dai superstiti della
+disfatta di Catilina, riunitisi dov'ora sorge quella citt@a.  <E
+per@o, scrive il Villani (^Cron.~ I, 32), non @e da maravigliare se
+i Pistoiesi sono stati e sono gente di guerra, fieri e crudeli
+intra loro e con altrui, essendo stratti del sangue di Catilina e
+del rimaso di sua cos@i fatta gente.>  -- |Avanzi~ (cf. ^Purg.~, 
+XXVI, 120; ^Par.~, XVIII, 60).
+
+	|13-15.~  Notati dall'Alfieri.  |In Dio~, contro Dio, 
+come spesso la |in~ de' Lat. (cf. ^Inf.~, VIII, 63; XI, 32 e 53;
+XII, 48, e spesso).  @E notabile questo punto; nella ^Vulg. El.~, 
+I, 12, il nostro Autore de' Principi Italiani del suo tempo
+dichiara, che ^non heroico more, sed plebeo, sequuntur
+superbiam.~  Qui, se non m'inganno, ben si mostra l'anima del
+Poeta, che sapeva ammirare la ^fierezza~ magnanima di Farinata e
+l'altero e sdegnoso Sordello, ma si scaglia contro il vile
+orgoglio dell'Argenti e la blasfema superbia del bestia Fucci;
+l'uno e l'altro in vario modo plebei.  -- |Non quel~ ecc.;
+neppure (cf. ^Inf.~, XXXII, 61), e risponde al ^ne ille quidem~
+de' Latini (cf. altro |non~, ^Par.~, IV, 30), Capaneo, cui la
+pioggia di fuoco non maturava (cf. ^Inf.~, XIV, 46 e segg).  Il
+Gelli: <A chi domandasse, per qual cagione il Poeta chiami questo
+Gianni Fucci pi@u superbo e pi@u empio di Campaneo... si risponde
+che il peccato di questo Gianni Fucci fu molto pi@u grave, che
+quel di Campaneo; perch@e Campaneo non ebbe il lume della legge e
+della vera religione, come ebbe Gianni.>
+
+	|16-18.~  L'Alfieri not@o il primo.  Riprende l'azione. 
+|Fugg@i~, perch@e impaurito del venir di Caco.  -- |Non disse~
+ecc.; perch@e il serpente gli legava la strozza (cf. ^Inf.~, VI, 
+57; XXIII, 86).  -- |Un Centauro~; @e Caco (cf. v. 25), o forse un
+demonio sotto tali spoglie.  -- |Pien di rabbia~; ecc.; un
+rabbioso per punire altro rabbioso.  -- |L'acerbo~, l'indomabile, 
+il superbo non maturato dai colpi che la divina Giustizia
+crosciava su lui (cf. ^Inf.~, XXIV, 119-120).  Caco, ladro, @e da
+Dio ordinato punitore delle bestemmie del ladro Fucci; e spesso, 
+a punizione di scelleraggini, Dio si vale di altri scellerati, 
+inconsci strumenti della giustizia sua (cf. ^Inf.~, XXX, 30).
+
+	|19-21.~  L'Alfieri not@o i due primi.  |Maremma~; quel
+tratto della Toscana, che rasenta il mare; a cagione dei boschi e
+delle paludi le serpi abbondavano.  -- |Su per la groppa~; il
+Centauro essendo di sua natura mezzo cavallo, ben dice |groppa~
+la sua schiena (^Inf.~, XII, 83-84).  -- |In fin dove~ ecc.; fino
+al punto dove cessando la forma cavallina, cominciava la figura
+umana; qui @e indicato del Centauro quel punto
+
+     Dove le due nature son consorti, 
+
+e non gi@a propriamente la ^faccia~, come vorrebbero altri (cf.
+^Inf.~, VII, 7; ^Purg.~, XXIII, 47); il che parmi ben chiarito
+del verso seguente.
+
+	|22-24.  Dietro dalla~ ecc.; frequentissimo colla partic.
+^a~; questa sol volta col ^da~; nel ^Purg.~, X, 50; XXIX, 143, 
+abbiamo la stessa costruzione col ^diretro.~  -- |Coppa~, @e la
+parte di dietro del capo, che dicesi anche ^nuca~ (cf. ^Inf.~, 
+XXXII, 129).  -- |Con l'ale aperte~; come in atto di sollecitare
+la corsa del Centauro.  -- |Draco~, drago (come ^loco, preco, 
+laco, braco~).  -- |Quello~, il drago.  -- |Affoca~, accende, 
+brucia.  Virgilio ne rappresenta Caco (^Aen.~, VIII, 198) ^atros
+ore vomens ignes~ (cf. ibid., 252 e 303-304); il Nostro, con
+bella immaginazione, pi@u accettabile al suo tempo, fa che il fumo
+e la fiamma escano dalla bocca del dragone.  -- |Qualunque
+s'intoppa~ qualunque dannato s'abbatte in lui (cf. ^Inf.~, XII, 
+99).  Lucano (^Phars.~, X):
+
+     Sibilaque effundens cunctas terrentia pestes, 
+     Ante venena nocens, late sibi submovet omne
+     Vulgus, et in vacua regnat Basiliscus arena.
+
+Di Caco scrive Servio: ^Cacus, secunaum fabulam, Vulcani filius
+fuit, ore ignem ac fumum vomens, qui vicina omnia populabatur.~
+
+	|25-27.  Caco~; i poeti lo dissero figlio di Vulcano
+(^Aen.~, VIII, 198: ^Huic monstro Vulcanus erat pater~).  E forse
+perch@e Virgilio lo dice ^semihomo~ e ^semiferus~, Dante ne fece
+un Centauro.  Abitava in una spelonca del monte Aventino, uno de'
+sette colli di Roma, ^ubi est hodie Ecclesia Sanctae Sabinae~, 
+dice Pietro.  Nell'^Aen.~, VIII, 193-197:
+
+     Hic spelunca tuit, vasto submota recessu, 
+     Semihominis Caci, facies quam dira tegebat, 
+     Solis inaccessam radiis; semperque recenti
+     Caede tepebat humus, foribusque affixa superbis
+     Ora vir#um tristi pendebant pallida tabo.
+
+-- |Sotto il sasso~, dentro alla roccia, che Ercole schiant@o e
+gitt@o nel sottoposto Tevere.  |Sasso~ altrove per ^monte~ (cf.
+^Par.~, XI, 106).  -- |Di sangue fece.~.. |laco~; sparse tanto
+sangue da farne un lago.  Altrove (^Purg.~, V, 83) dice di s@e
+Jacopo del Cassero:
+
+                              l@i vid'io
+     Delle mie vene farsi in terra laco.
+
+	|28-30.  Non va~ ecc.  Non si trova nella compagnia degli
+altri Centauri, a guardia del girone de' violenti contro il
+prossimo (cf. ^Inf.~, XII, 56 e segg.) che @e il primo girone del
+settimo Cerchio (^bolgia~, invece di ^girone~, dice per isvista
+lo Scartazzini), poich@e essi nelle male loro azioni usarono solo
+la forza, ma Caco us@o anco la frode, come si dimostra dal rubare
+dell'armento, condotto da Ercole a pascolare nei pressi del Monte
+Aventino, abitazione di Caco, e dal modo astuto di trarlo nella
+sua caverna.  Perci@o Caco, nel concetto del Poeta, diventa
+simbolo della forza congiunta colla frode. Tutto ci@o risulta
+chiaro dalla narrazione virgiliana (^Aen.~, VIII, 201-212):
+
+	                        maximus ultor, 
+     Tergemini nece Geryonae spoliisque superbus, 
+     Alcides aderat, taurosque hac victor agebat
+     Ingentes, vallemque boves amnemque tenebant.
+     At furiis Caci mens effera, ne quid inausum, 
+     Aut intractatum scelerisve dolive fuisset, 
+     Quatuor a stabulis praestanti corpore tauros
+     Avertit, totidem forma superante juvencas.
+     Atque hos, ne qua forent pedibus vestigia rectis, 
+     Cauda in speluncam tractos, versisque viarium
+     Indiciis raptos, saxo occultabat opaco.
+     Quaerenti nulla ad speluncam signa ferebant.
+
+-- |Del grande armento~, che Ercole, ucciso Gerione (cf. ^Inf.~, 
+XVII, 1 e segg.), fece suo e seco condusse dalla Spagna.  -- |A
+vicino~, in vicinanza.
+
+	|31-33.~  L'Alfieri trascrisse l'ultimo.  |Onde~, per il
+furto frodolento, che fu come l'occasione che Ercole scoprisse
+Caco e lo uccidesse.  --  |Opere biece~: ^bieco~ propriamente
+varrebbe ^fosco~, o ^che guarda torvamente~ (cf. ^Inf.~, VI, 91;
+XXIII, 85): qui vale ^torte, perverse, malvage.~  Altrove
+(^Par.~, V, 65), riferito a persona, vale che non opera con retta
+intenzione, che va per via storta.  E anche ^parole biece~, cio@e
+parole maligne e invidiose, perch@e l'invidia offusca l'intelletto
+e non lascia giudicare drittamente (^Par.~, VI, 136; cf. ivi, nel
+commento).  Nella Canzone <^O patria, degna~ ecc. (^Canzon.~, 
+Parte III, canz. II, st. I), da alcuni attribuita a Dante, si
+dice di Firenze:
+
+     Ahi quanto in te la iniqua gente @e pronta
+     A sempre congregarsi alla tua morte, 
+     Con luci bieche e torte, 
+     Falso per vero al popol tuo mostrando.
+
+|Biece~; avverte l'Andreoli: <I plurali in ^che, ghe, chi, ghi~, 
+erano dagli antichi terminati anche in ^ce, ci, ge, gi~ anzi @e da
+credere che questa terminazione, tanto pi@u prossima all'uso
+latino, fosse dapprima la sola, e che l'altra poi non prevalesse
+se non a misura che la lingua si dilung@o dalle origini.>  --
+|Sotto la mazza d'Ercole~; Dante in un'et@a che tutti menavan le
+mani (cf. ^Purg.~, VI, 125-126), qui si scosta dal suo Maestro, 
+che invece ne descrive Caco strozzato da Ercole (^Aen.~, VIII, 
+260-262):
+
+     Hic Cacum in tenebris, incendia vana vomentem
+     Corripit in nodum complexus, et angit inhaerens
+     Elisos oculos, et siccum sanguine guttur.
+
+-- |Gliene~ (cf. ^Inf.~, XXI, 102, nel commento).  -- |Di@e cento~
+ecc.; era gi@a morto ai primi colpi, eppure continu@o a
+maciullarlo: mentre bastavan poche, a liberarsi da quel ladro, ci
+fa senz'altro capire l'immensa ira d'Ercole e le avute difficolt@a
+per agguantare il reo; Virgilio dice di Ercole in quell'incontro:
+^furiis exarserat atro Felle dolor;-- furens animis; -- dentibus
+infrendens; -- fervidus ira~ (ivi, 219-230).  Cf. ^Purg.~, XXXI, 
+61, nel commento.
+
+	|34-37.  Mentre~, in quel medesimo |che s@i~ Virgilio
+|parlava~, narrandomi l'istoria, |ed ei~, nell'atto istesso Caco
+corse oltre, pass@o via, inseguendo per la bolgia Vanni Fucci.  Le
+due particelle ^e~ del primo e secondo verso qui valgono quello
+che il latino ^simul~, cio@e ^nell'atto istesso, nel medesimo
+istante~, che assai di spesso il Poeta ne rende coll'altra forma
+^ed ecco~ (cf. v. 50).  Dunque tre cose e azioni affatto distinte
+abbiamo in due soli versi; il che mostra la rapidit@a del fatto. 
+-- |Tre spiriti~; Puccio Sciancato de' Galigai, Agnolo
+Brunelleschi e Buoso degli Abati (cf. vv. 40-48; 68; 140;
+148-150), de' quali (come di Cianfa de' Donati e di Francesco
+Guercio de' Cavalcanti, che vedremo appresso) dice Pietro che
+furono ^omnes de Florentia, magni fures suo tempore~ (cf. ^Inf.~, 
+XXVI, 4-5).  E questa (cf. ^Inf.~, XXIV, 97-99) la seconda specie
+di ladri qui puniti; ma di ci@o veggasi pi@u sotto (v. 151).  --
+|Venner~, per la bolgia.  -- |Sotto noi~, sotto al punto sul
+quale i Poeti stavan fermi o osservare.  -- |De' quai~ ecc.; de'
+quali n@e Virgilio ned io ci accorgemmo (perch@e tutto intesi a
+osservar Caco) se non ecc.  Altrove (^Purg.~, XXI, 10-12):
+
+                 Ci apparve un'ombra...
+     N@e ci addemmo di lei, s@i parl@o pria.
+
+-- |Nostra novella~, il discorso che Virgilio mi faceva su Caco
+ed Ercole.  ^Novellare~ per ^discorrere, favellare~, usarono gli
+antichi; e ^gi@a favellare~ non altronde deriva che ^da fabula.~ 
+E |novella~ per ^racconto, discorso~, cf. ^Inf.~, XVIII, 57.  E
+nel ^Conv.~, IV, 27: <Pi@u belle e buone ^novelle~ pare dovere
+sapere (l'^uomo vecchio~) per la lunga esperienza della vita>
+(dove @e chiaro ^novelle~, che @e dal lat. ^noscere~, non altro
+significare che ^notizie, narrazioni~).
+
+	|38-39.  Si ristette~, si ferm@o, si sospese (^rompere~, 
+dice altrove del discorso, ^Purg.~, XXII, 130: e si consideri, in
+egual senso ^stare~, ^Purg.~, XVII, 84, e ^restare~, ^Inf.~ IV, 
+82; ^Par.~, XXVIII, 88).  -- |Intendemmo~, attendemmo, volgemmo
+l'attenzione; ma l'^intendere~ dice pi@u (cf. ^Inf.~, VI, 30; XX, 
+119; ^Par.~, IX, 136); altrove ^contendere~ (^Purg.~, XXIII, 49), 
+bench@e su ci@o non s'accordino i chiosatori.  -- |Pure~, soltanto, 
+non badando n@e pensando alle cose di prima.  -- |Poi~, dopo che
+ci accorgemmo di loro.  Il Cesari: <Dunque a quella novit@a, 
+fermato il ragionar fra loro, attesero pure a badare a che
+riuscirebbe la cosa; pretta natura: Or questo particolareggiar di
+accidenti cotanto minuti qui, e pi@u sotto, inganna il lettore, 
+facendogli credere, come dicemmo altrove, che Dante abbia queste
+cose vedute proprio, non trovatele egli: da che generalmente gli
+uomini non hanno tanta forza d'ingegno da inventar cos@i
+specificati particolari; e per questo modo le pitture di Dante
+diventano per poco cose vere e reali: anzi fui quasi per dire, 
+che a chi legge, gli par essere sulla faccia del luogo.  Grandi
+virt@u della costui poesia.>
+
+	|40-45.~  L'Alfieri trascrisse i due ultimi.  Qui fan
+capo le terribili trasformazioni.  |Io non gli conoscea~; e cos@i
+il Poeta prepara bellamente il modo per conoscerli e fargli
+conoscere in appresso, tenendo desta nel lettore la curiosit@a, e
+creando circostanze drammatiche dove non sarebbe stata che
+semplice narrazione.  Cos@i, press'a poco, di Paolo e Francesca
+(^Inf.~, V, 80 e segg.), di ^Ciacco~ (^Inf.~, VI, 41-51), de' tre
+Fiorentini veduti altrove (cf. ^Inf.~, XVI, 28 e segg.); cos@i di
+Manfred@i (^Purg.~, III, 103 e segg.), e d'altri ancora: ma il
+presente luogo pi@u che altro trova bello riscontro nell'^Inf.~, 
+XXXII, 76 e segg.  -- |Ma ei seguette~, ma egli accadde, avvenne, 
+come suole avvenire casualmente, che all'uno dei tre convenisse
+dire il nome d'un suo compagno.  |Seguette~ (^Par.~, IX, 24, e
+141; XXV, 83) e |convenette~ non sono gi@a in grazia della rima, 
+ma erano forme regolari presso i nostri antichi, che foggiavano
+il perfetto della quarta coniugazione a guisa di quello della
+seconda e della terza (p. e. ^temette, ricevette~ ecc.); e
+^venette~ e |convenette~, asserva l'Andreoli, si dice anche oggi
+a Napoli.  -- |Cianfa dove fia rimaso~? dove s'@e fermato, che non
+@e pi@u con noi? lo avevan perduto di vista senza accorgersene, e
+intanto s'era trasformato in quel serpente con sei pi@e, che tosto
+vedremo al v. 46.  Di Cianfa, da questo in fuori ch'ei fu della
+famiglia de' Donati, nulla san dirci i commentatori; e se il Lana
+lo dice ^mirabile ladro~, non dice n@e di che, n@e come; onde
+cadono a proposito le parole del Gelli: <Questo Cianfa dicono gli
+espositori che fu un cavaliere nostro fiorentino della famiglia
+de' Donati, il quale ebbe nome di ladro; ma che furti ei
+commettesse, non ho io gi@a trovato alcuno che dica
+particolarmente; e per@o me la passer@o similmente di leggieri
+ancora io.>  -- |Perch'io~ ecc.  Avendo sentito da uno dei tre
+pronunciare un nome a lui conosciuto, e volendo vedere se
+nominava altri o se gli era risposto, e cos@i saperne di pi@u, 
+Dante prega Virgilio di far silenzio, con quel cenno
+naturalissimo che uno, tacendo, fa al compagno di tacere, ponendo
+l'indice alle labbra colla punta rivolta al naso.  <Questi sono
+di que' nuovi partiti di Dante, afferma il Cesari, che in nessun
+greco o latino poeta noi non troviamo.>  Ma il Tommaseo qui
+allega quel d'Ovidio (^Metam.~, IX): ^digitoque silentia suadet~;
+e l'altro di ^Juv.~, I: ^digito compesce labellum.~  Su di che il
+Gelli: <Questo cenno (di |porre il dito su dal mento al naso~) si
+truova nelle memorie degli antichi ch'ebbe origine da una statua
+di Arpocrate, la quale era nei sacrifizi d'Iside e di Serapido;
+la quale, per significare che tali sacrifizi non erano leciti
+comunicare a ognuno, si teneva ancora ella il dito sopra la
+bocca; donde cavarono poi i posteri quel detto: ^digito compesce, 
+labellum.~  E quelli che militano sotto la regola di San
+Benedetto, perch'ei comanda in quella molto silenzio, il
+dipingono ancora eglino con il dito sopra la bocca.>  E questo
+luogo fa, in parte, rammentar l'altro dell'Anima nella valletta
+de' Principi (^Purg.~, VIII, 9), ^che l'ascoltar chiedea con
+mano.~
+
+	|46-48.~  Notati dall'Alfieri.  La cosa nuova e
+incredibile, ch'egli sta per narrare, muove il Poeta a scusare il
+lettore se all'udirne la narrazione non gli prester@a fede; ma per
+tal modo se ne guadagna l'attenzione, e lo dispone a credere.
+Nell'^Epistola a Cangrande~ ({Paragraph.} XIX): ^in
+admirabilitate dicendorun, attentio paratur; in possibilitate, 
+docilitas.~  -- |A creder lento~, non corrivo, non facile, 
+ritroso a credere.  -- |Appena il mi consento~, a mala pena mi
+acqueto io medesimo a crederlo vero, a stento lo credo io, che
+pur lo vidi.  Nella ^Canzone~ del ^Conv.~, III, vv. 51-52:
+
+     E puossi dir che il suo aspetto giova
+     A consentir ci@o che par maraviglia, 
+
+parlando di Beatrice; sulla quale espressione il Tommaseo: <@E
+bello riporre la fede in un sentimento, in un consenso dell'anima
+col vero.>
+
+	|49-51.  Com io~, mentr'io (cf. v. 34) stavami tutto
+attento sopra quei tre, ed ecco ecc.  A questo luogo avverte il
+Gelli che il poeta, a manifestare i suoi concetti, usa la favola
+e l'esempio, come il filosofo usa il sillogismo dimostrativo, il
+retorico l'entimema, e l'oratore la persuasione.  Da ci@o si
+conferma, che se il nostro Autore dichiara (^Conv.~, IV, 14), che
+se, ^disputando filosoficamente, curare non si dee delle favole~;
+pure egli ne insegna che interpretando gli scrittori, e
+sovrattutto i poeti, bisogna ^intentamente andare appostando il
+senso allegorico~, che @e quello che ^si nasconde sotto il manto
+di queste favole, ed @e una verit@a ascosa sotto bella menzogna~
+(^Conv.~, II, 1): e in pi@u luoghi delle sue opere ne d@a egli
+stesso l'esempio.  -- |Tenea levate~ ecc.; @e il guardare con
+maraviglia.  -- |Ed~ ecc.; qui il |come~ e l'|ed~ rispondono al
+costrutto poco fa notato (vv. 34-35), cio@e ^in quella che io.~.., 
+^nel medesimo tempo un~ ecc...  -- |Un serpente~, @e il
+trasformato Cianfa -- |Si lancia~; qui si vede la celerit@a
+impetuosa quasi volo -- |Dinanzi all'uno~ de' tre spiriti, che
+gi@a vedemmo (v. 35), e che sentiremo (v. 68) essere Agnolo
+Brunelleschi.  -- |E tutto a lui s'appiglia~; gli si attacc@o
+addosso |tutto~; e |tutto~ qui dice l'intensit@a d'azione o di
+passione (cf. ^Inf.~, V, 136; VI, 3; IX, 35; XXVIII, 28; ^Par.~, 
+VI, 24, e spessissimo).  -- Giustamente si osservi, a buon
+proposito nota il Casini, la finissima arte di questa
+descrizione, notando come Dante distingua i tre momenti
+principali del fatto: il ravvicinamento delle due figure, che si
+stringono come l'edera all'albero (vv. 50-60); la compenetrazione
+dell'una nell'altra, che si compie lentamente, come il graduale
+avanzare del nero sul bianco nel papiro acceso (vv. 61-70); e
+finalmente il nuovo aspetto risultante dalla fusione delle figure
+primitive, per il quale il poeta non pu@o trovare una immagine
+adeguata nel mondo della realt@a, poich@e era di membra non mai
+viste (vv. 71-78).
+
+	|52-54.~  Qui il trasmutato Cianfa, che nella avvenuta
+trasmutazione @e martirio a s@e stesso, diventa strumento di
+martirio ad altro ladro, e imiterebbe in quest'atto ci@o che gli
+sgherri fanno in questo mondo mentre agguantano d'improvviso i
+ladri.  -- |Co' pi@e di mezzo~, n'aveva sei.  -- |Cogli anterior~, 
+che rispondono al punto del corpo umano dove son le spalle.  Il
+Cesari vede qui affinit@a col ^priores calces~ del secondo libro
+dei Maccabei, dove narrasi dell'impennarsi del cavallo
+dell'Angelo, che sprang@o i calci contro Eliodoro, venuto in nome
+del suo re a rubare pel fisco il tesoro del Tempio (cf. ^Purg.~, 
+XX, 113).  -- |Poi gli addent@o~ ecc.; gli infisse i denti, gli
+prese co' denti ecc. (cf. ^Inf.~, XXI, 52; XXXII, 128; XXXIII, 
+77).  Se aveva s@i gran bocca da prendere al dannato entrambe le
+gote col morso, non era un serpentello, come quello che vedremo
+pi@u innanzi (v. 83), ma un orribile mostro, ^orribil fiera~ (v.
+59).
+
+	|55-57.  Gli diretani~, i due piedi di dietro (v. 115). 
+-- |Tr'ambedue~ le cosce, dove comincia la forcata (^Inf.~, XIV, 
+108).  -- |E dietro~ ecc., e distesegli la coda su per le reni. 
+Ma questo singolare abbracciamento volendo il Poeta renderlo, 
+direi quasi, ancor pi@u sensibile, e metterlo dinanzi con pi@u
+rilevata pittura, ricorre all'ellera che si ^avviticchia~ e
+^distende~ su per gli alberi.
+
+	|58-60.~  Notati dall'Alfieri.  |Ellera~ ecc.; non vi fu
+mai ellera che con tanta tenacit@a s'abbarbicasse ad albero, con
+quanta quel serpente attacc@o le sue membra a quelle del dannato. 
+<Le parole |abbarbicata~ e |avviticchi@o~, dice il Biagioli, sono
+d'espressione ad ogni altra dispari.>  La similitudine, notano i
+chiosatori, fu presa da Orazio (^Epod.~, XV, 5):
+
+     Arctius, atque hedera procera adstringitur ilex, 
+     Lentis adhaerens brachiis.
+
+Ma ben si vede come Dante, pur imitando, si faccia autore. 
+L'Ariosto (^Orl. Fur.~, VII, 29):
+
+     Non cos@i strettamente edera preme
+     Pianta, ove intorno abbarbicata s'abbia...
+
+	|61-63.  Poi~ ecc.; poscia s'attaccarono l'uno all'altro, 
+s'incorporarono come se serpente e dannato fossero stati di cera
+fusa; avviene dunque l'immedesimarsi de' due corpi.  Il Lamennais
+traduce: ^Puis ils coll@erent comme s'ils eussent $et$e de cire
+fondue.~  -- |Mischi#ar~ ecc.; nell'atto che le due forme si
+confondevano insieme, il naturale colore dell'una e dell'altra
+doveva confondersi pur esso.  Nel ^Conv.~, IV, 1: <Le cose
+congiunte comunicano naturalmente intra s@e le loro qualit@a, 
+intantoch@e talvolta @e che l'una torna del tutto nella natura
+dell'altra.>  -- |N@e l'un~ ecc.; n@e l'uno n@e l'altro colore (del
+dannato e del serpente) appariva pi@u quel ch'era prima; dal
+colore di que' due ne risultava uno, che non era n@e quello
+dell'uno, n@e quello dell'altro; idea che poscia ripete (v. 77), 
+rispetto al confondersi delle due forme.  Qui del colore; della
+confusione delle persone dir@a pi@u avanti (cf. vv. 70 e segg.) Il
+Cesari: <Lo stemperamento @e dipinto in tre cose; nella
+somiglianza di cera calda, in cera calda compenetrata; nel colore
+mischiato; nell'avere ciascuno perduta la prima forma.  Di questo
+mescolare di due colori in uno, che senta di tutti e due, 
+bisognerebbe qui una similitudine.  E Dante non fallir@a. 
+Eccola.>
+
+	|64-66.~  L'Alfieri trascrisse i due ultimi.  |Come
+procede~ ecc. (cf. ^Inf.~, XIX, 28-29); come quel color bruno, 
+che appiccandovi fuoco, piglia il papiro lungo il lembo della
+fiamma, mano mano che essa fiamma s'avanza, che non @e del tutto
+nero, ma nemmeno puossi dir bianco ecc.  Della cosa pu@o ognuno
+avere esperienza, tanto solo che accenda un pezzo di tela o di
+carta bianca; vedr@a che un color bruno prende via via la fiamma;
+colore, che non @e n@e il primitivo dell'oggetto che s'abbrucia, e
+neppur quello che sar@a dopo finito l'abbruciamento; ma sar@a come
+un terzo colore, che qui rappresenta quel colore indistinto tra
+l'umano e il serpentino dei due corpi misti insieme.  Ma la
+quistione sta che debba intendersi per |papiro~, se ^carta
+bambagina~, gi@a in uso ai tempi di Dante, ovvero ^lucignolo~ dei
+lumi; son per la prima il Lana, l'Anon. Fior., il Gelli, il
+Venturi, il Cesari, il Bianchi, il Blanc, l'Andreoli, ed altri;
+tengono la seconda l'Ottimo, il Buti, il Landino, il Vellutello, 
+il Lombardi, il Tommaseo, lo Scartazzini, il Casini.  Benvenuto
+dichiara che si pu@o accettare s@i l'una, che l'altra opinione. Il
+Blanc e l'Andreoli osservarono che l'avverbio |suso~ decida la
+quistione in favor della carta, perch@e se in un foglio di carta @e
+naturale che la fiamma procede in su, ne' lucignoli de' lumi la
+fiamma non pu@o mai procedere altramente che in gi@u.  Per@o questo
+argomento non pare valido allo Scartazzini e al Casini per
+escludere la seconda interpretazione; infatti, aggiungo io, c'@e
+un'altro ^su~ nel Poema (cf. ^Inf.~, XIX, 29), e in consimile
+costrutto, che fa esser cauti a sentenziare se la frase debbasi
+esclusivamente intendere nel preciso senso, come suona. 
+L'obbiezione dello Scartazzini che non si trovano esempi che
+scrittore italiano abbia mai appellato |papiro~ la carta, non ha, 
+in sostanza, grande valore, quando si pensi che tal voce @e presso
+i Latini usitatissima, e che Dante indi pot@e, come di tant'altre, 
+dedurla; e infatti cos@i la intese il Lana, e cos@i ci lascia
+arbitrio d'intenderla Benvenuto.  Piuttosto pare notabile, come
+avverte lo Scartazzini, che ^pap@er, pav@er~ e ^pav@ero~, per
+lucignolo, e tuttavia voce viva in molti dialetti d'Italia.  Per
+tutto ci@o parmi giusto stare per la seconda spiegazione.  Il
+Tommaseo, oltre ch@e citare il Crescenzio ^Agric.~, VI, 93 (^erba
+bianca che si metteva per lucignolo in lampane e in lucerne, e
+era una specie di giunco spugnosa e porosa~), allega S. Paolino
+(^de nat. Fel.~, III):
+
+     Lumina ceratis adolentur odora papyris.
+
+-- |Il bianco muore~, si perde, svanisce.  Altrove d'un pendio, 
+che s'allenta, e quasi si appiana e scomparisce, usa pura
+^morire~ (cf. ^Purg.~, VII, 72).
+
+	|67-69.~  L'Alfieri not@o l'ultimo.  |Gli altri due
+riguardavano~; ci si sente l'orrore e lo sbalordimento, ond'erano
+invasi.  -- |Om@e~ (cf. ^Inf.~, XXVIII, 125), quasi ^o me dolente~
+(^Inf.~, XXVII, 121); ohim@e, esclamazione che mostra la passione, 
+che li combatteva al vedere siffatta trasmutazione.  -- |Agn@el~, 
+Agnello (sincopato di ^Agnolello~, e questo da ^Agnolo~).  Anche
+qui il Poeta, come vedemmo pi@u sopra (vv. 40-43), viene a
+conoscere il dannato dal nominarlo che fanno i suoi compagni.  Lo
+dicono de' Brunelleschi, famiglia illustre fiorentina.  Le
+^Chiose~, pubblicate dal Selmi: <Questo Agnello fu de'
+Brunelleschi di Firenze; e infino picciolo votava la borsa al
+padre e a la madre, poi votava la cassetta e la bottega e
+imbolava; poi da grande entrava per le case altrui e vestiasi a
+modo di povero e faciasi la barba di vecchio, e per@o il fa Dante
+cos@i trasformare per li morsi di quello serpente come fece per
+furare.>  Bench@e gli antichi chiosatori, dal nome in fuori e dal
+casato, nulla ci dicano di quest'Agnolo, e solo le ^Chiose~ ci
+dicano di lui queste particolarit@a, esse son tali, che, ben
+conchiude lo Scartazzini, non sembrano invenzione del chiosatore. 
+-- |Vedi~ ecc.; come condolendosi seco di tale trasformazione, i
+due seguitano dicendo: ^vedi che gi@a non sei n@e due n@e uno~; un
+informe miscuglio, che nol lasciava essere, dice il Cesari, n@e
+esso proprio, n@e i due che erano; non |due~, perch@e un sol corpo;
+non |uno~, perch@e in tale trasformazione perdendosi le forme
+specifiche, non si poteva dire che vi avesse figura umana sola, 
+n@e sola serpentina.  Nella ^Vit. N.~, XXII, dicon le donne al
+trasfigurato Poeta:
+
+     Se' tu colui. . . . . . . . . ?
+     Tu rassomigli alla voce ben lui;
+     Ma la figura ne par d'altra gente.
+
+E il Poeta procede subito a mostrare come Cianfa e Agnolo eran
+diventati un mostro non pi@u veduto.
+
+	|70-72.~  Notati dall'Alfieri.  |Li due capi~, del
+dannato e del serpente.  -- |Un~, divenuti un capo solo; quanto a
+dire, n'era risultata una sola faccia, che era un misto delle
+fattezze dell'uno e dell'altro, ma fattezze non ben delineate, 
+non specifiche, ma confuse, smarrite o ^perdute.~  -- |Due
+perduti~; si riferisce a |capi~; nella qual faccia non si poteva
+pi@u discernere n@e il serpente, n@e l'uomo.  N@e qui @e il caso
+d'intendere, come fanno ^alcuni~, |perduti~ per dannati, il che
+non direbbe affatto nulla al proposito.
+
+	|73-75.  F#ersi~ (si fecero) |le braccia~ ecc.; le braccia
+del nuovo mostro, che s'andava formando, di quattro liste ch'eran
+prima, cio@e quattro membri, si fecero (diventarono) |due
+braccia.~  -- |Quattro liste~; delle due braccia di Agnolo e de'
+due piedi anteriori del serpente (v. 53).  -- |Il casso~ (dal
+lat. ^capsus~) il petto (cf. ^Inf.~, XII, 122; XX, 12; ^Purg.~, 
+XXIV, 72).
+
+	|76-78.  Primaio~, primiero; il primiero aspetto s@i di
+Agnolo come del serpente.  -- |Casso~ (^perduto~, v. 72), 
+cassato, cancellato, (cf. ^Inf.~, XXVI, 130), tolto via
+(^cassare~ per distruggere, annullare, moralm., ^Par.~, II, 83; e
+cos@i |casso~, nell'istesso senso, ^Par.~, IV, 89); quindi per
+annichilito, distrutto (^Inf.~, XXX, 15).  -- |Due e nessun~
+ecc.; l'immagine trasmutata, confusa, stravolta, pareva due
+esseri diversi uniti insieme, uomo e serpente, e in pari tempo
+non pareva n@e l'uno n@e l'altro.  -- |Perversa~ (cf. v. 63).  --
+|E tal~, e cos@i fatta, e trasformata cos@i.  -- |Con lento passo~
+(cf. ^Inf.~, XXIII, 71, nel commento), con passo tardo, stentato, 
+forse perch@e, nota il Cesari, il contemperamento delle serpentine
+gambe evea tolto alle sue proprie l'atto libero dei muscoli, che
+le solevano muovere.
+
+	|79-84.~  L'Alfieri not@o i primi tre e l'ultimo.  <Qui
+viene quel luogo singolare ed unico al mondo, nel qual Dante non
+pur gli altri, ma super@o s@e medesimo> (Cesari).  Narra il Poeta
+un'altra orribile trasmutazione novissima, non mai venuta in
+mente od altro poeta.  Francesco Cavalcanti (i pi@u lo dicono
+^Francesco Guercio de' Cavalcanti~) da serpente si trasmuta in
+uomo: e Buoso degli Abati da uomo in serpente.  E questo mirabile
+tratto si svolge e si compie con tant'arte, che non v'ha maestro, 
+che la possa insegnare, ma che ben si sceme e si sente da ognuno
+che non abbia il sentimento e l'intelletto sordi a tali
+grandezze.  Il gran quadro @e diviso in tre scene differenti:
+l'incontro del serpente col dannato, il morso di quello a questo, 
+e suoi primi effetti (vv. 79-93); il graduale tramutarsi dell'uno
+nella forma dell'altro (vv. 103-135); gli atti de' due tramutati, 
+atti rispondenti alla nuova natura (vv. 136-141).  Il Cesari: <Il
+dir cose tanto strane e avviluppate e di un lavoro cos@i composto, 
+e dirle con tal propriet@a, ed oltre a ci@o in rima, senza un'ombra
+di stento, fu cosa da non farla altro che Dante nessuno.>  --
+Prima di tutto la celerit@a fulminea, che vuol manifestare la
+prima terzina.  |Ramarro~; il Gelli: <Animale notissimo, simile a
+la lucertola, ma alquanto maggiore e di colore alquanto pi@u
+verde, ma molto pi@u bello, e con la pelle punteggiata di certe
+punte che rilucono che paiono stelloline; per la qual cagione i
+Latini lo chiamano ^stellione~; ed @e molto veloce ne l'andare e
+nel correre, e massimamente ne' tempi caldi; perci@o che quanto @e
+pi@u calda la stagione, pi@u gli cresce la forza, e
+conseguentemente corre pi@u velocemente.>  -- |Sotto la gran
+fersa~; mentre pi@u ferve il caldo nei giorni d'estate.  |Fersa~;
+il Lana e Benvenuto spiegano ^calma~; e ^fervore del caldo~ il
+Bargigi, dal ^fervere~ de' Latini; il Buti invece |fersa~ intende
+per ^ferza~ (^Inf.~, XVIII, 35 e 81), con senso traslato, 
+riferendosi alla violenza de' raggi solari.  Il Boccaccio (^Ninf.
+Fies.~, 184):
+
+                    Del Sol la ferza
+     Era s@i calda gi@a, che sofferire
+     Non si potea.
+
+Tuttora in Toscana, nota il Tommaseo, si dice ^la sferza del
+sole.~  -- |D@i canicular~; i giorni dal 21 Luglio al 20 Agosto, 
+che sono i pi@u caldi; <e sono detti cos@i da una stella che surge
+circa a detto d@i (21 Luglio) sopra lo emisferio nostro..., detta
+dagli antichi ^Sirio~ (e cos@i la chiama Virgilio nel terzo della
+^Eneide~, dicendo: ^gli steril campi ardeva Sirio allora~), e dai
+moderni ^Cane maggiore~, perch@e @e una stella, la quale @e nella
+lingua del Cane, la quale @e una delle figure che pongono gli
+astronomi in cielo> (^Gelli~).  -- |Cangiando siepe~ ecc.; se per
+cambiar siepe attraversi la via, @e di rattezza pari alla folgore. 
+Orazio (^Carm.~, III, 27, 5-7):
+
+     Rumpat et serpens iter institutum
+     Si per obliquum similis sagittae
+     Terruit mannos.
+
+E bella l'imitazione dell'Ariosto (^Orl. Fur.~, cit. dal
+Biagioli):
+
+     Va con pi@u fretta che non va il ramarro, 
+     Quando il ciel arde, a traversar la via.
+
+-- |Folgore par~ ecc.; <il numero del verso tutto in iscattare
+correndo, lo fa eziandio sentire a chi non lo vide> (questo
+passar di ramarro), Cesari.  -- |Cos@i parea~, ratto come folgore. 
+-- |Epe~, pance (cf. ^Inf.~, XXX, 102); il Gelli: <Questa voce
+^epa~, si usa qualche volta nella nostra lingua, ma fra le
+persone basse, per la pancia e per il corpo; e credo che tal cosa
+sia derivata, perch'ella ricuopre ed @e sopra il fegato, il quale
+i Latini chiamano ^epar.~>  Ma Dante usa ^epa~ come us@o ^pancia~
+(v. 52, e ^Purg.~, XX, 75).  -- |Altri due~; due dei tre
+accennati al v. 35, ne' quali due non s'era peranco operata
+alcuna trasformazione.  -- |Un serpentello~; @e Francesco Guercio
+Cavalcanti (v. 151).  -- |Acceso~; ardente d'ira, furibondo;
+acceso di caldo e di veleno, dice il Buti.  -- |Livido e nero~, 
+pel gran veleno.
+
+	|85-87.  E~ ecc.; e trafisse, cio@e trapass@o e for@o co'
+denti, all'un de' due quella parte del ventre, dalla quale o per
+la quale (|donde~) l'uomo, ancor non nato, prende l'alimento;
+cio@e il bellico.  L'Ariosto (^Orl. Fur.~):
+
+                       L@a dove l'alimento prima
+     Piglia il bambin, nel ventre ancor serrato.
+
+E il Tasso (^Ger. lib.~):
+
+     Poi fere Albin l@a 've primier s'apprende
+     Nostro alimento.
+
+-- |All'un~; @e Buoso degli Abati (cf. v. 140).  -- |Poi~ ecc.; e
+dopo che l'ebbe cos@i trafitto, il serpentello cadde gi@u disteso
+appiedi del ferito.
+
+	|88-90.~  Il silenzio e lo sbadigliare di Buoso, come il
+cader gi@u del rettile, e quel guardarsi fisso, come istupiditi e
+mancanti d'ogni forza, @e indicio che stanno ambedue per
+trasformarsi in altra natura.  -- |Co' pi@e fermati~, fermo su'
+piedi, immobile.  -- |Sbadigliava, pur~, appunto, come lo
+sopraffacesse febbre o sonno; questo legamento delle membra e lo
+sbadigliare son qui effetto del morso velenoso.  In Lucano
+(^Phars.~, IX), osserva il Tommaseo, @e un avvelenamento sonnifero
+di serpente.  Il morso degli aspidi e di certi altri rettili
+produce diffatti il sonno, e col sonno la morte.  Nelle mie
+native montagne, quand'uno @e morso da una vipera, prima cura si @e
+di costringerlo a camminare, magari trascinandolo per forza, 
+perch@e non s'addormenti, creduto il sonno indicio di morte
+sicura.  -- |Pur come sonno~ ecc.; altra fatta d'assopimento, con
+consimile struttura di verso, cf. ^Purg.~, XV, 123.
+
+	|91-93.~  Notati dall'Alfieri.  |Egli~, il trafitto, 
+guardava il serpente; |e quei~, il serpente, riguardava il
+trafitto.  -- |L'un~, il primo, cio@e Buoso.  -- |Per la piaga~, 
+fatta dal morso del serpente.  -- |L'altro~, il serpente.  --
+|Fumavan~ ecc.; questi due fumi son come la via di trasmissione
+della virt@u trasformativa, onde la natura dell'uno trapassa in
+quella dell'altro; anzi, come pensa il Cesari e altri con lui, 
+questo fumo sarebbe l'essenza risoluta e quasi recata all'ultimo
+atto in ambedue queste nature; e lo si rileva da ci@o, che non
+appena la trasformazione s'@e del tutto compiuta, ^il fumo resta~
+(v. 135).  Da alcuni de' nostri vecchi chiosatori, fino a
+qualcuno de' pi@u recenti @e una disperazione il vedere come in
+ognuna delle circostanze anco pi@u minute qui toccate dal Poeta, 
+si lambicchino il cervello a scoprirci allegorie e sensi
+reconditi; l'allegoria @e bella cosa, ma il volercela trovare e
+tirare in tutto a forza di tanaglie, fa disamorare il lettore, 
+che alla fin fine si persuade che non @e che uno stentato lavorio
+di sottigliezze e di soggettivismi.
+
+	|94-102.  Taccia~ ecc.; questi due |taccia~, quasi
+imperativi, con che fan capo le due prime terzine, hanno
+manifesta ragione rettorica, per preparare l'animo del lettore e
+trarlo in curiosit@a; e sono anche documento della coscienza che
+l'Autore aveva della sua alta fantasia, dell'alto ingegno e
+dell'arte, e perci@o della sua grandezza, vincendo quanti in ci@o
+poetando il precessero.  Pel primo punto basta leggere quanto
+l'Autore scrive nell'^Epistola~ a Cangrande ({Paragraph.} XIX);
+pel secondo basta leggere questi nove versi chiarissimi, dove
+splende viva la certezza del Poeta d'aver vinto in questo arringo
+nonch@e Lucano ma anche Ovidio; ov'@e il germe ch'egli, fatto
+^sesto~ fra i grandi Poeti (^Inf.~, IV, 102), sentiva la forza
+non gi@a solo di pareggiarli e di vincerli in speciali fantasie e
+descrizioni, ma di tutti superarli con un'impresa non mai da
+altri tentata (^Par.~, II, 7 e segg.), quella cio@e di ^descriver
+fondo a tutto l'universo~, componendo il ^Poema sacro~, alla cui
+formazione portarono il loro contributo ogni scienza divina ed
+ogni scienza umana mirabilmente congiunte (^Par.~, XXV, 1-2).  --
+|Taccia Lucano omai~; in questo |omai~ @e la coscienza dei nuovi
+tempi, della poesia nuova pi@u possente dell'antica, per opera di
+lui; @e press'a poco la stessa coscienza che si esplica fieramente
+sicura nell'affermazione d'un fatto (cf. ^Inf.~, I, 87; II, 105;
+^Purg.~, XXIV, 57), e sentitamente fatidica della singolare
+potenza e grandezza, cui sarebbe giunta, certo per ispecialissima
+opera sua, la nostra lingua (cf. ^Purg.~, XI, 98-99; ^Conv.~, I, 
+13 sul fine).  -- |Lucano~ cf. ^Dizionario Dantesco~, artic.
+Lucano); era autore caro a Dante, che spesso ricorre alla
+^Farsaglia~, e non solo per quanto in essa @e narrato, ma per
+quanto sotto a quelle narrazioni o favole vi pu@o e deve scorgere
+il filosofo (cf. ^Conv.~, III, 3, 5; IV, 11, 13, 28; ^Vulg. El.~, 
+I, 10; II, 6; ^Mon.~, II, 4, 8, 9, 10; ^Epist.~, VII, 4; X, 32). 
+-- |L@a dove~ ecc.; |l@a~, nella sua Farsaglia, |dove~, nel libro
+IX (vv. 734 e segg.); |tocca~, parla, fa menzione; ma ^toccare~
+una cosa o d'una cosa, @e parlarne brevemente (^Inf.~, VI, 102;
+VII, 68; ^Purg.~, XXII, 79; ^Par.~, I, 108; XXIV, 143); narra
+dunque Lucano che parecchi soldati dell'esercito di Catone (cf.
+^Inf.~, XIV, 5) furono nei deserti della Libia morsicati dai
+serpenti, morsi seguiti da morti stranissime; ma tra queste fu
+singolare quella di Sabello e di Nassidio.  Il primo, essendo
+stato morsicato da un serpente piccolissimo detto ^seps~, la
+carne gli cominci@o ad andar via, lasciando scoperti i nervi, e
+quindi le ossa gli si ridussero in cenere in meno, dice Lucano, 
+che non fa la neve ai venti caldissimi meridionali (vv. 761-788). 
+Nassidio fu morsicato da un serpente chiamato ^prester~, e pel
+veleno ricevuto, subitamente si gonfi@o il suo corpo cos@i, che gli
+scoppi@o la corazza, e tanto s'ingross@o, da perdere ogni sembianza
+d'uomo, divenendo come un otre gonfiato (vv. 789-804).  --
+|Attenda~, stia attento a sentire la strana trasmutazione, che
+sto per dire.  -- |Si scocca~, si racconta, si narra.  Nel
+^Purg.~, XXV, 17, Virgilio dice a Dante, grandemente desideroso
+di chiarirsi d'un dubbio, ^scocca l'arco del dir.~  Ma il
+Tommaseo ben avvisa che nel presente luogo dell'Inferno
+^scoccare~ dinota la novit@a della cosa, che deve pungere cogli
+strali dell'ammirazione (^Par.~, II, 55).  L'Ariosto (^Orl.
+Fur.~, XXX, 69):
+
+          Gradasso il pensiero ha differente
+     Tutto da quel che fuor la lingua scocca.
+
+-- |Taccia di Cadmo~ ecc.; di Cadmo nel quarto delle
+^Metamorfosi~ (vv. 563-604), e di Aretusa nel quinto (vv.
+572-671) racconta Ovidio come il primo fuggito di Tebe nella
+Libia, fosse mutato in serpente; della seconda, una delle ninfe
+Nereidi compagne di Diana, amata e inseguita dal dio Alfeo sotto
+forma di fiume, come venisse mutata in fontana.  -- |Ovidio~; @e
+da Dante ricordato e citato spesse volte (cf. ^Conv.~, II, 1, 6, 
+15; III, 3; IV, 15, 23, 27: ^Vulg. El.~, I, 2; II, 6; ^Mon.~, II, 
+8, 9; ^Epist.~, IV, 4).  -- |Converte~, cambia, trasmuta; --
+|poetando~, sotto veste di favola, poeticamente.  -- |Io non
+l'invidio~, non ho di che invidiarlo, perch@e son certo che la mia
+fantasia vola pi@u alta, ch@e la metamorfosi, ch'ora descrivo, @e
+troppo pi@u di quelle sue, dacch@e egli non fa che trasformare una
+cosa in un'altra, mentr'io faccio che due nature complete, poste
+l'una di fronte all'altra, si barattino contemporaneamente
+insieme, che cio@e le forme di ambedue scambino la loro materia, 
+s@i che l'uno individuo diventi l'altro.  -- |A fronte a fronte~, 
+l'una di fronte o dirimpetto all'altra.  -- |Non trasmut@o~, 
+poetando (v. 99).  Tutte le metamorfosi, che Ovidio descrive, 
+sono d'una sola cosa in altra, quant'a dire d'una materia
+individua in forma novella.  Dante invece pone l'una di fronte
+all'altra due |forme~ o individui (uomo e serpente), cio@e due
+sostanze informanti materie diverse, e fa che mutino il corpo
+loro proprio, |lor materie.~  Dunque |forme~ (^forma~ nel
+linguaggio delle scuole non significa l'esteriore contorno e
+apparenza de' corpi, ma l'intima sostanza, l'essenza, com'@e
+l'anima rispetto al corpo, cf. ^Conv.~, II, 1, post med.) son
+primo caso, e caso quarto |materie~, e non viceversa, come
+qualcuno intese; cio@e le forme mutarono la materia, il corpo lor
+proprio, cosicch@e l'uomo divent@o serpente, e il serpente divent@o
+uomo.  Il Tommaseo: <Intende dunque il Poeta: nelle
+trasformazioni cantate da altri, l'una forma, per esempio l'anima
+vivente dell'uomo, prende la materia d'animale o di pianta; ma
+qui la forma del serpente piglia il corpo delll'uomo, e a vicenda
+la forma dell'uomo piglia il corpo della serpe.  Cotesto baratto
+subitano, cotesta confusione dalla quale riesce un distacco s@i
+nuovo, @e la terribilit@a del mirabile che qui vuolsi notare.>
+
+	|103-105.  Si risposero~, si corrisposero; il trasmutarsi
+dell'uno corrispose, fu contemporaneo alla trasmutazione
+dell'altro coll'ordine seguente: il serpente divise in due liste
+o porti la coda, che doveano diventare le cosce, le gambe e i
+piedi d'uomo (|fesse~, da ^fendere~, cf. ^Inf.~, XII, 119); e il
+^ferito~ (cf. vv. 86-88) riun@i i suoi piedi, che cos@i raggiunti
+doveano diventare la coda di serpente.  -- |Feruto~, cf. ^Inf.~, 
+XXI, 87.  -- |Orme~, come per ^piedi~ dicean ^vestigia~ i Latini. 
+Abbiam pi@u sopra veduto (cf. vv. 70 e segg.) che la trasmutazione
+di Cianfa e di Agnolo cominci@o dal capo; qui invece comincia
+dalla coda e dalle gambe.
+
+	|106-108.  Seco stesse~, tra s@e, l'una con l'altra. --
+|In poco~, in pochi istanti.  -- |La giuntura~, la linea di
+congiunzione.  -- |Non facea segno~ ecc., non lasciava alcuna
+traccia, da potersi discernere (cf. ^Purg.~, XIII, 7).
+
+	|109-111.~  A misura che le gambe dello spirito perdevano
+la loro forma per diventar coda, la coda del serpente, gi@a fessa
+in due liste (v. 104), andava prendendo la forma di gambe.  --
+|Si perdeva~, andava scomparendo; Lucano, cit. dal Tommaseo:
+^pereunte figura.~  E Ovidio (^Met.~, XIII): ^perdidit.~..
+^hominis.~.. ^formam.~  -- |L@a~, nel dannato, ch'era di fronte al
+serpente.  -- |La pelle~, del serpente.  -- |Molle~; molle e
+liscia come l'umana.  -- |Quella di l@a~, quella dell'altro.  --
+|Dura~, squamosa, scagliosa come la serpentina.  Ovidio (^Met.~, 
+IV, 577): ^Duratoeque cuti squamas increscere sentit.~
+
+	|112-114.~  Le braccia dell'uomo si tirarono in dentro
+per le ascelle, s'accorciarono; mentre i due piedi anteriori del
+serpente tanto uscirono dalle ascelle, di tanto si prolungarono, 
+di quanto si accorciarono le braccia dell'altro, cio@e sino ad
+avere la lunghezza di braccia umane.  Ovidio (^Metam.~, X, 494)
+d'una trasformazione d'uomo in albero:
+
+	             in magnos brachia ramos;
+     In parvos digiti; duratur cortice pellis.
+
+	|115-117.  Poscia~, continuando la reciproca
+trasmutazione, secondo le opposte norme accennate di sopra (v.
+105).  I piedi posteriori del serpente insieme attorcigliati
+formarono il membro virile; e in pari tempo il membro virile
+dell'altro si squarci@o in due liste per formare i due piedi
+posteriori di serpente.  -- |Duo~, due piedi.  -- |Porti~, 
+sporgenti, distesi, allungati; aveva i due piedi di serpente
+formati dalle due liste in che s'era fesso il membro virile.
+
+	|118-120.  Il fumo~: la trasmutazione degli arti
+inferiori e superiori era in ambedue i dannati compiuta; ora il
+fumo, che @e emanazione delle due diverse nature, a quello che
+prima era serpente imprime (|vela di~) il colore bianco della
+pelle umana, il bruno e livido della serpentina a colui che prima
+era uomo; e al nuovo uomo (|per l'una parte~) fa nascere nei
+debiti luoghi su pel corpo il pelo, che fa perdere all'altro
+(|dall'altra il depela~).  La scena @e piena di spavento.
+
+	|121-123.~  E l'orribile cresce.  Quegli che prima era
+serpente, ora trasmutato in parte in uomo, secondo la nuova
+natura acquistata, balza in piedi; e l'uomo mutato parte in
+serpente, le sue cosce e gambe e piedi mutati in coda, cade
+disteso a terra; ma nel levarsi dell'uno e nel cader dell'altro
+non cessano un istante dal tenersi a vicenda gli occhi addosso
+empii, pieni di furore.  -- |Non torcendo~ ecc.; cf. ^Inf.~, XXI, 
+98.  -- |Lucerne empie~; ben mostra il fiammeggiare dell'ira. 
+Nota il Tommaseo che |lucerne~ per ^occhi~ e nel Burchiello e
+nell'uso toscano.  ^S. Matt.~, VI, 22: ^Lucerna del tuo corpo @e
+l'occhio tuo.~  Ma non credo esser vero quanto il Tommaseo
+soggiunge, che cio@e ^gli occhi rimanevan ferini nel novello uomo, 
+umani nel serpe~; non capirei perch@e.  -- |Sotto le quai~, sotto
+l'influenza trasformativa de' quali sguardi ecc., sotto lo
+sguardo ^affascinante~, avrebber detto gli antichi; i moderni, 
+^magnetico~, osserva l'Andieoli.  Altri intende |sotto~, nel
+senso puramente materiale.  -- |Empie~; il Gelli: <|empie~, cio@e
+crude, perch@e davano indizio della scelleratezza e della empiet@a
+de' loro animi; non essendo parte alcuna nell'uomo, donde si cavi
+pi@u indizi e pi@u certi della qualit@a dell'animo, che dagli
+occhi.>  Infatti Dante chiama gli occhi ^i balconi~ dell'anima, 
+pe' quali le sue passioni si rivelano (^Conv.~, III, 8; ^Vit.
+N.~, XII); e altrove ^porte~, per le quali entrano le immagini
+amorose (^Purg.~, XXVI, 14).  E non cessano di guardarsi, dacch@e
+la trasformazione non era peranco del tutto compiuta (cf.
+^Dizionario Dantesco~, artic. Lucerna, {Paragraph.} II).  --
+|Muso~ (v. 131), faccia, aspetto, presenza, ma propriamente delle
+bestie (cf. ^Inf.~, XXII, 26; XXXII, 32; ^Purg.~, III, 81); o
+degli uomini, in senso dispregiativo (cf. ^Inf.~, XVIII, 104); e
+dei diavoli (^Inf.~, XXII, 106); e anco d'un fiume personificato
+(^Purg.~, XIV, 48).  L'Anon. Fior.: <La faccia dell'uomo divenia
+muso di serpente, e 'l muso del serpente divenia faccia d'uomo.>
+
+	|124-126.~  Il serpente che stava per diventar uomo, e
+che prima s'era levato in piedi (v. 121), il |trasse~, ritir@o il
+muso serpentino verso le tempie per accorciarlo e darvi rotondit@a
+e forma di faccia umana.  -- |E di troppa materia~; del soverchio
+della materia che si ritir@o indietro per formare la faccia umana, 
+si formarono gli orecchi sulle gote, che prima n'erano prive, che
+prima nel muso serpentino erano lisce e piane.  -- |Scempie~; @e
+da riferirsi a |gote~ prima |scempie~, senza orecchi (<che prima
+non aveano orecchie alcune> ^Bargigi~).  Il Lombardi (che colla
+Nidob. legge ^orecchie~), il Costa ed altri, riferiscono
+|scempie~ ad ^orecchie~, intendendo le ^orecchie separate, 
+sporgenti dalle gote~, come sono quelle degli uomini, a
+differenza di quelle dei serpenti.  Il Biagioli: <Chiama il Poeta
+le gote del serpente |scempie~, voce che scende dal lat.
+^simplex~ (semplice, non composto) per non aver naturalmente
+quelle escrescenze delle orecchie, e per esser per@o le gote sue
+lisce o quasi sceme di quelle.>
+
+	|127-129.~  L'Alfieri not@o i due primi.  La costruzione
+@e: |ci@o che di quel soverchio~ ecc.; la materia del muso del
+dannato, che prima era serpente, la quale non si raccolse
+indietro a formare le orecchie, form@o il naso e ingross@o le
+labbra in quella nascente faccia umana.  -- |Corse~; riferito
+alla materia: un ^ricorse~ notabile e nell'^Inf.~, XXXIV, 126.
+Questi, dice il Cesari, son versi felici pi@u della prosa.  --
+|Quanto convenne~, in giusta misura, serbate le giuste
+proporzioni da labbra serpentine, che erano, a labbra umane, 
+quali stavano divenendo.
+
+	|130-132.  Quel che giaceva~; quegli che da forma umana
+era in parte divenuto serpente ed era caduto ^giuso~, ma avea il
+volto tuttavia d'uomo (cf. v. 121).  Ora viene il compimento
+della trasformazione anche di costui.  -- |Il muso~ ecc.; allung@o
+il muso, cacci@o innanzi la materia perch@e prendesse forma di muso
+serpentino, all'opposto del compagno che il |muso~ avea tratto
+verso le tempie (v. 124); e ritrasse gli orecchi dentro al capo. 
+-- |Come face~ ecc.; come la lumaca ritira in dentro le corna, 
+cos@i ecc.  |Lumaccia~ us@o anche il Villani in prosa.  La
+similitudine non poteva essere pi@u semplice e naturale, e sta in
+ci@o appunto la sua efficacia.  Il Cesari: <Quel cacciar innanzi
+del muso allungandolo, e quel ritirar delle orecchie per la
+testa, si fa vedere; e ci@o via meglio nella similitudine, che non
+avea al mondo altra pari.>
+
+	|133-135.~  Alla completa trasformazione non rimane
+oramai altro che la lingua dell'uno e dell'altro.  Quella di
+colui, che prima era in forma umana, si fende divenendo
+biforcuta; e la biforcuta dell'altro, or uomo divenuto, si
+unisce, e diventa di forma umana.  Biforcuta credevano gli
+antichi la lingua dei serpenti.  Ovidio (^Metam.~, IV, 586-589):
+
+     Ille quidem vult plura loqui, sed lingua repente
+     In partes est fissa duas, nec verba volenti
+     Sufficiunt; quotiesque aliquos parat edere questus, 
+     Sibilat; hanc illi vocem natura reliquit:
+
+e qui pure il nuovo serpente or ora sufoler@a.  Finita la
+trasformazione cessa il fumo, che l'aveva prodotta; altro non
+resta se non che ciascuno de' due con qualche atto specifico
+faccia prova della nuova natura da lui assunta.
+
+	|136-138.  L'anima~ ecc.  Buoso, che di uomo era divenuto
+serpente.  -- |Sufolando~; il sufolare @e proprio dei serpenti;
+nella ^Vulg. El.~ I, 2: ^non aliud est serpentis quam sibilare.~ 
+-- |Per la valle~ per la bolgia.  -- |L'altro~, Francesco
+Cavalcanti, da serpente divenuto uomo.  -- |Parlando sputa~;
+parlare e sputare sono atti proprii e specifici dell'uomo. 
+^Vulg. El.~, I, 2: ^soli homini datum est loqui, cum solum sibi
+necessarium fuit~ (si legga tutto il ^capo~ e il seguente, 
+raffrontandoli al ^Convito~, III, 7, ad med.).  Il Cesari qui
+s'oppone al Biagioli, e il Monti e lo Scartazzini ad altri, che
+nello ^sputare~ intendono mandar bava dalla bocca, parlar con ira
+e con bava alla bocca, come vorrebbe il Lombardi, o sputar la
+velenosa bava di serpente ch'ei fu, come scrive l'Andreoli.  Il
+Monti, allegato dallo Scartazzini, scrisse gi@a nella sua
+Proposta: <Su questi versi un qualche schifiltoso, il cui naso
+sia stato educato a certe poetiche quintessenze de' nostri d@i, 
+potrebbe per avventura torcere il grifo; ma chiunque alla poesia
+delle frasi metter@a innanzi quella delle cose, dir@a che Dante col
+contenersi alla propriet@a del serpente che |sufolando fugge~, e a
+quella dell'uomo che |parlando sputa~, caratterizza e dipinge con
+due semplicissimi tocchi la natura dell'uno e dell'altro troppo
+meglio che altri meno filosofo non farebbe con voto strepito di
+parole.>  Da tutto ci@o volle dunque il Poeta farci intendere che
+le trasformazioni qui avvenute d'uomo in serpente e di serpente
+in uomo, non furono apparenti e accidentali, sibbene sostanziali
+e naturali.  Il Biagioli nella frase |e l'altro dietro a lui
+parlando sputa~, intenderebbe che il serpente, divenuto uomo, 
+perseguiti l'altro correndogli dietro; gli altri chiosatori o
+tacciono, o non intendono del ^correre~, e spiegano quel |dietro~
+nel senso di ^verso lui.~  E che questo sia il senso vero, per me
+risulta chiarissimo da questo argomento, che Francesco Cavalcanti
+(ch'@e il serpente divenuto uomo), si volge tosto all'|altro~ de'
+tre spiriti, Puccio Sciancato (cf. v. 140), ch'eran prima venuti
+(cf. v. 35), e che era stato l@i attento spettatore dell'orribile
+trasformazione, e il solo che non siasi trasmutato (cf. vv.
+148-151).  Ora, se il Cavalcanti fosse corso dietro a Buoso, di
+necessit@a bisognerebbe supporre che anche l'|altro~ gli fosse
+corso dietro insieme, perch@e il Cavalcanti, lasciando ^poscia~
+{v.139} Buoso andarsene, avesse l'|altro~ dappresso, al quale, 
+come fa, volgere il discorso.  Dunque s'intenda: il Cavalcanti, 
+stando fisso al suo posto, dove s'era fatta la trasmutazione, 
+mentre Buoso fatto serpente correva per la bolgia, sputa verso di
+lui.
+
+	|139-141.  Poscia~, dopo che il vide correre fatto
+serpente.  -- |Novelle spalle~, di recente formate (cf. ^Purg.~, 
+XXV, 99; XXXIII, 144), che poco prima erano di serpente.  --
+|Disse all'altro~, a Puccio Sciancato (v. 148).  -- |Buoso.~ 
+Anche qui s'avvera che Dante non conoscendo costoro, viene a
+sapere il nome perci@o ^che l'un nomare all'altro convenne~ (v.
+42).  Pier di Dante, il Lana, il Giambullari e il Gelli lo dicono
+degli Abati; ma l'Ottimo, Benvenuto, ed altri, lo fanno de'
+Donati: dei moderni alcuni tacciono, altri dicono l'uno, altri
+dicono l'altro cognome.  @E da ritenersi essere questi quel Buoso
+degli Abati, e non de' Donati, del quale si fa cenno in altra
+parte di questa Cantica (XXX, 32), dove si ricorda come di lui
+finse il corpo e la voce Gianni Schicchi de' Cavalcanti per
+falsarne il testamento.  E ben osserva il Casini (il solo che
+siasi ingegnato di snodare questo punto), che era facile la
+confusione tra due Buosi, l'Abati che si trasmuta col Cavalcanti
+nella bolgia dei ladri e il Donati che da un altro Cavalcanti fu
+falsato.  Il Gelli: <Il Giambullari, e per queste parole, e per
+alcuni altri indizi ch'ei cava da quel Commentatore contemporaneo
+del Poeta (-- di questo ^Commentatore~ mi afferma il bravo
+Negroni, editore benemerito delle ^Letture~ del Gelli, che in
+nessun luogo dell'opera si trova il nome; egli per@o crede di non
+errare ritenendo che sia quello pubblicato dal Vernon nel 1848
+col titolo di ^Commento alla Cantica dell'Inferno di autore
+anonimo~, il quale ora si sa essere traduzione del commento
+scritto originalmente in latino da Graziolo Bambagiuoli nel 1324, 
+come test@e prov@o il Rocca --) dice che questa trasmutazione non @e
+finta dal Poeta a caso, ma ch'ella @e istoria vera, colorata
+poeticamente da lui; con ci@o sia cosa che le persuasioni e lo
+esempio di messer Francesco Guercio Cavalcanti fussero quelle che
+indussero messer Buoso a diventar ladro.  E perch@e esso messer
+Francesco, nel considerare di poi a lungo andare la bruttezza di
+tal peccato, si spicc@o totalmente da quello, e messer Buoso
+seguit@o, ei finge che messer Buoso, morso da lui si convertisse
+in serpente e andassene |zufolando~, cio@e vivendo come fiera, per
+quella valle di Malebolge, che per essere di figura circulare non
+si truova in lei fine; ed egli ritornasse uomo, e si rizzasse in
+piede a rivedere il cielo, come @e proprio dell'uomo.>  -- |Corra
+carpon~ ecc., strisciando per terra, come serpente, non pi@u in
+due piedi come uomo (cf. ^Inf.~, XXIX, 68-69).  Nel ^Genesi~
+(III, 14), disse il Signore al serpente: ^super pectus tuum
+gradieris.~  ^E striscia~ chiama il Poeta un serpente (^Purg.~, 
+VIII, 100).  -- |Calle~, il fondo della bolgia.  -- |Come ho
+fatt'io~, mentre sono stato in forma di serpente.
+
+	|142-144.  Settima zavorra~; la settima bolgia, spiegano
+i pi@u; ^vocando zavorram hanc septimam bulgiam~ scrive Pietro, 
+^comparative loquendo: quia sicut alveus defundo galeae et navis
+habet glaream, quae dicitur~ zavorra, ^ita et lectus ille erat et
+habebat.~  Ma chi badi che |zavorra~ suppone la ^nave~, come il
+contenuto suppone il contenente, s'accorger@a di tosto che la
+|zavorra~ qui non possono essere che i dannati.  Se il Poeta
+avesse inteso la ^bolgia~, come si spiegherebbe quel ^mutare~ e
+^trasmutare~? si trasmutano le bolge?  Inoltre, come osserva il
+Lombardi, se questa sola bolgia era arenosa, come risponderebbe
+all'appellazione di |zavorra~ l'aggiunto di |settima~? sarebbe
+egli forse da tollerarsi se, come ^bulicame~ appell@o Dante la
+prima delle tre fosse de' violenti (^Inf.~, XII, 128), per esser
+piena di bollente sangue, avessela appellata ^primo bulicame~, 
+quantunque nelle altre due fosse non ponesse sangue, n@e altro
+bollente fluido?  Dunque |zavorra~ @e qui tolta a significare la
+spregevole gente o feccia d'uomini in quella settima bolgia
+dannati, considerando essi dannati pel contenuto nel fondo delle
+bolgie come zavorra nel fondo delle navi, <perch@e la zavorra di
+che si riempiono le navi, @e sempre qualche mercanzia, della quale
+non @e fatto mai molto stima, e i ladri sono sempre in obbrobrio a
+ciascuno> (Gelli).  -- |Zavorra~; il Postill. Cass.: <|Zavorra~
+est fundus navis inglaratae ut firmius vadat, quam accipit hic
+auctor pro fundo huius bulgiae.>  -- |Mutare e trasmutare~
+(soppressa, come di frequente, la partic. ^si~); |mutare~ chi di
+uomo in serpe, e qual di serpe in uomo; ma il |trasmutare~? io
+credo che accenni al fatto del Fucci che d'uomo si ^mut@o~ in
+cenere, e poi di cenere si mut@o di nuovo (^trasmut@o~) in uomo; o
+come avvenne di Agnolo Brunelleschi, che non solo si ^mut@o~, ma
+si ^trasmuto, ~, d'uomo ch'era, in un essere n@e ben uomo n@e ben
+serpente.  E anche si potrebbe intendere, parmi, del fatto di
+Buoso e del Cavalcanti, che non solo si mutarono di forme, mi
+trasmutarono, trasmettendosi a vicenda, le forme l'uno
+dell'altro.  N@e so se potrebbesi accettare l'opinione del
+Vellutello, il quale nelle parole del Cavalcanti: |io vo' che
+Buoso corra, come ho fatt'io~, dice che con ci@o quel dannato
+^intese essere stato un'altra volta mutato di spirito in
+serpente~: ma questo, ad ogni modo, @e prender le cose troppo di
+lontano, mentre, a parer mio, bisogna qui tener ben ferma la
+parola di Dante |Cos@i vid'io~; il che vuol dire che il
+|trasmutare~ il Poeta lo intende riferito ai fatti espressamente
+narrati, e non ad altri supposti o possibili.  -- |E qui mi
+scusi~ ecc.; la novit@a della materia, le strane scene non mai da
+altro poeta descritte (cf. vv. 94 e segg.).  Anche nella
+^Monarchia~ (I, 1) si pregiava di trattar cose ^nuove~, da altri
+^intentate~; e del pari nella ^Volgare Eloquenza~ (I, 1).  E
+nella canz.: ^Voi che intendendo~ ecc. (^Canzon.~, Parte II, 
+canzon., I, st. I):
+
+     Udite il ragionar ch'@e nel mio core, 
+     Ch'io nol so dire altrui, s@i mi par novo.
+
+-- |Se fior la penna~ (altri ^lingua~) |aborra~; qui v'@e
+contrasto tra' chiosatori; Benvenuto spiega: ^si stilus oberrat
+in aliquo modico~; il Lana |aborra~, spiega per ^acciabatta~; e
+il Buti: ^se alquanto lo scriver mio e il modo del dire
+acciabatta e non dice cos@i ordinato come altrove n@e cos@i a
+punto~: l'Anon. Fior.: ^se io non ho detto il fatto pienamente et
+non ho l'effetto vestito bene colle parole~; il Bargigi: ^se la
+mia penna, il mio stilo nello scrivere @e stato alieno da ornato e
+chiaro modo di parlare~; il Gelli: ^se la mia lingua pare che
+nell'aver trattato tal cosa aborra e fugga fiori, cio@e le parole
+leggiadre e i modi vaghi di dire.~  E a questa spiegazione
+s'accosta il Cesari (intendendo |aborra~ per ^aberra~), che @e
+d'avviso, in luogo di |fior~, doversi leggere ^i fior~; ma poi
+soggiunge: <Ma chi sa che Dante non usasse quel fior per ^un
+nonnulla~ come altri l'intese, in questo senso: |mi scusi la
+novit@a~, se io non ispiegai le cose s@i nuove e strane pi@u
+propriamente, per difetto della mia lingua! nel qual caso Dante
+disse la maggior bugia, che per umilt@a dicesse mai uomo del
+mondo.>  E credo sia proprio cos@i; e che il Poeta intenda
+|aborra~ nel senso di ^errare~ (cf. ^Inf.~, XXXI, 24), cio@e che
+la ^lingua~ o la ^penna~ non @e capace di esprimere
+convenevolmente ci@o che l'intelletto comprende; in un ^sonetto~
+(^Canz.~, Parte II, son. I):
+
+     Si vedon cose, ch'uom non pu@o ritrarre
+     Per loro altezza e per loro esser nuove, 
+
+(cf. ^Diz. Dant.~, artic. Intelletto, {Paragraph.} III, e
+Parlare, {Paragraph.} I).  E pi@u volte Dante per modestia fa di
+siffatte dichiarazioni e scuse (cf. ^Inf.~, XXVIII, 4-6; XXXII, 
+1-9; ^Purg.~, XXIX, 37-42; XXXI, 139-145; ^Par.~, I, 5-6
+coll'^Epist.~, X, {Paragraph.} 29; X, 70-72; XXII, 67; XXIII, 
+55-60; XXIV, 25; XXX, 22-33, e altrove ancora).  Invece i pi@u dei
+moderni spiegano ^aborrare~ nel significato di ^traviare~, o di
+^metter borra~, cio@e parole superflue, intendendo della lunghezza
+della narrazione.  Valgano questi luoghi dei ^Convito~, III, 4:
+<La lingua mia non @e di tanta facondia, che dir potesse ci@o che
+nel pensiero mio se ne ragiona...  Escusomi da una colpa, della
+quale non deggio essere colpato, veggendo altri le mie parole
+essere minori della dignit@a di Questa...  Di ci@o @e da biasimare
+la cortezza del nostro parlare...  Pi@u ampii sono li termini
+dell'ingegno a pensare che a parlare.>  E per la |novit@a~ da
+Dante accennata, la ragione, in parte, sta in ci@o: ^Conv.~, II, 
+7: <In ciascuna maniera di sermone lo dicitore massimamente dee
+intendere all'abbellire dell'udienza, siccome quella che @e
+principio di tutte l'altre persuasioni; e potentissima
+persuasione @e, a rendere l'uditorio attento, promettere di dire
+nuove e grandiose cose.>  -- |Fior~, avv., un poco, punto punto
+(cf. ^Inf.~, XXXIV, 26; ^Purg.~, III, 135).
+
+	|145-151.  Confusi~; confusione derivante dall'essere
+l'animo |smagato~, svagato, smarrito, smarrimento proveniente a
+sua volta dallo stupore dell'aver veduto cose tanto strane ed
+orribili (cf. ^Vit. N.~, 23, nella canz., st. 3). Altrove @e la
+^troppa voglia~ che ^smaga~, cio@e confonde, fa smarrir l'animo
+(cf. ^Purg.~, III, 11; X, 106; XIX, 20), ^Par.~, III, 36; che @e
+spiegato dalle parole del ^Conv.~, III, 10, a quel punto allegate
+nel commento.  Il Tommaseo avverte che ^smagare~ per ^disperdere~
+vive in Toscana.  E ^Vit. N.~, XXIII, canz. st. 3.
+
+     Ed eran s@i smagati
+     Gli spirti miei, che ciascun giva errando.
+
+-- |Quei~, que' dannati ch'erano fino allora l@i rimasti.  --
+|Chiusi~, nascosti, celati (cf. ^Inf.~, XVI, 135; ^Purg.~, XV, 
+128; XXII, 90; ^Par.~, V, 138).  -- |Puccio Sciancato~; Puccio
+de' Galigai, ^de Galigariis de Florentia~, dice il Postill. Cass.
+(^de Lazaris~ invece il Postill. del Cod. Ang.), illustre
+famiglia di Firenze di parte ghibellina; non manca qualche
+chiosatore che opina che si chiamasse |sciancato~ per difetto
+fisico, cio@e, scrive il Gelli, <disovolato, chiamandosi cos@i
+nella lingua nostra quelli che zoppicano per difetto delle anche, 
+e non delle gambe.>  Dicono che costui essendo negli uffici della
+republica seppe molto arricchirsi; ^fu ladro e di mala
+condizione~, dicono le ^Chiose~; per@o, siccome differenza di pena
+presuppone differenza di colpa, adunque che se Puccio non
+sofferse trasformazione alcuna, parrebbe che il Poeta non lo
+credesse ladro di tanta reit@a come gli altri.  Di ci@o veggasi qui
+appresso, in fine del Canto.  -- |Che venner prima~; cf. v. 35. 
+-- |L'altro~; colui che di serpente, dopo morso Buoso, si
+trasmut@o in uomo, era Francesco de' Cavalcanti.  -- |Gaville~;
+villa nel Val d'Arno superiore nel contado di Firenze.  --
+|Piagni~; scrive l'Anon. Fior. <Messer Francesco de' Cavalcanti
+fu morto da certi uomini di Gaville, per la qual morte i consorti
+di messer Francesco molti di quelli da Gaville uccisono et
+disfeciono.>  E il Gelli soggiunge: <Apostrofando a detta villa, 
+il Poeta le dice: egli era quello, per il quale tu, o Gaville, 
+^piangi~; non per bene che tu gli volessi, ma per cagione di
+tanti de' tuoi uomini, che furono morti per vendetta sua.>  E
+cos@i abbiam veduto in questa bolgia cinque ladroni Fiorentini
+(cf. ^Inf.~, XXVI, 4), cio@e Agnolo Brunelleschi, Buoso degli
+Abati e Puccio Sciancato, che vennero per primi (cf. v. 35);
+sorgiunse poscia Cianfa, in figura di serpente (v. 50), e per
+ultimo Francesco de' Cavalcanti, sotto forma di serpentello (vv.
+82 e segg.).  @E notabile che i Galigai erano Ghibelli, Guelfi
+Bianchi i Cavalcanti e gli Abati, Guelfi Neri i Donati e i
+Brunelleschi; il Poeta adunque, giudice indipendente, ^sine odio
+et studio~ rappresenta qui tutti i partiti, non escluso il suo
+proprio.
+
+	^Nota~
+
+	Abbiamo notato le varie trasformazioni de' dannati di
+questa bolgia; gli antichi chiosatori, specialmente Pietro e
+l'Ottimo, fanno una triplice distinzione forse troppo sottile, ma
+che il Tommaseo reputa che non pu@o essere tutta di loro fantasia;
+ladri che rubano d'elezione alcuna cosa, ma le altre non toccano;
+ladri che sempre vagheggiano il furto, ma non sempre lo tentano;
+e ladri che rubano secondo l'opportunit@a delle circostanze; e
+altri de' chiosatori dicono altro; e non sar@a disutile leggere
+almeno quanto scrivono in proposito specialmente il Bargigi ed il
+Gelli.  Per@o la cosa parrebbe potersi ridurre a spiegazione pi@u
+semplice.  Intanto pena comune de' dannati di questa bolgia @e di
+essere e di correre ignudi e spaventati tra cruda e tristissima
+copia di serpenti (^Inf.~, XXIV, 91).  <Quantunque e la rapina e
+l'omicidio sieno in s@e pi@u gravi del furto Dante colloca i ladri
+pi@u sotto de' violenti e degli omicidi, perch@e quello @e vizio
+vile, e la frode @e a lui pi@u rea della forza> (Tommaseo).  <Ma
+perocch@e diverse, dice il Bargigi, comprendeva l'Autor nostro
+essere le specie di questi peccatori, a denotare ciascuno di loro
+in particularit@a finge, oltre la comune pena (^cio@e di essere in
+mezzo ai serpenti~), essere ancora altre pene simili
+rappresentative di quelle diverse specie di ladri.>  Sono di
+molto illustrativi questi passi dell'Aquinate (^Summ. Theol.~, I, 
+II, 73, 2): ^Opinio Stoicorum fuit, quam Tullius prosequitur in
+Paradoxis~, 3, ^quod omnia peccata sint paria.  Et ex hoc etiam
+derivatus est quorumdam haereticorum error, qui ponentes omnia
+peccata esse paria, dicunt etiam omnes poenas inferni esse
+pares.~  E ivi, 6, ad 2: ^Peccatum per se est gravius propter
+inordinationem.~..  ^Multo maior inordinatio invenitur in
+peccatis quae sunt contra Deum.~..  ^Sicut violando sacra, quae
+sunt peccata gravissima.~  E II, II, 66, 6: ^Per furtum homo
+infert nocumentum proximo in suis rebus, et si passim homines
+sibi invicem furarentur, periret humana societas.~..  ^Secundum
+judicium praesentis vitae, non pro quolibet peccato mortali
+infligitur poena mortis, sed solum pro illis, quae inferunt
+irreparabile nocumentum, vel etiam pro illis, quae habent aliquam
+horribilem deformitatem; et ideo pro furto, quod irreparabile
+damnum non infert, non infligitur secundum praesens judicium
+poena mortis, nisi ut furtum aggravatur per aliquam gravem
+circumstantiam; sicut patet de sacrilegio, quod est furtum rei
+sacrae, et de peculatu, quod est furtum rei communis.~  Ora
+vedemmo in questa bolgia, oltre alla pena comune, d'essere in
+mezzo ai serpenti e da serpenti legati le mani, tre pene
+speciali; il Fucci che, ladro di cose sacre, morso da un
+serpente, va in cenere, e dalla cenere risorge uomo; e sul Fucci
+non cade dubbio.  Cianfa s'abbarbica ad Agnolo, e s'uniscono cos@i
+da diventare come una sola persona; ma in quell'unione sta prima
+la ragione del loro peccato, poi quella del loro tormento:
+sarebbero impiegati infedeli, che s'uniscono con segreti consigli
+e gherminelle per frodare le sostanze del Comune.  Francesco de'
+Cavalcanti e Buoso degli Abati non sarebbero altro, secondo me, 
+che consocii di ruberie de' beni privati, gente che s'unisce, 
+come si dice, in societ@a d'interessi e d'affari, e che pur
+serbando pi@u o meno certi modi d'uomini dabbene e certe apparenze
+di legalit@a, sa pelare il prossimo; sarebbero compresi in queste
+parole del ^Convito~ (IV, 27): <Ahi malestrui e malnati, che
+disertate vedove e pupilli, che rapite alli meno possenti, che
+furate ed occupate l'altrui; e di quello corredate conviti, 
+donate cavalli e arme, robe e danari; portate le mirabili
+vestimenta; edificate li mirabili edifici e credetevi larghezza
+usare?>  Nello Sciancato altro io non so vedere se non un ladro, 
+sia de' beni pubblici o de' privati, ma non legato con
+chichessia; ladro che fa da s@e.
+
+	Nota le terzine 2, 3, 7, 8, 11, 12, 15, 17 alla 31; 34
+alla 47; 49, 50.

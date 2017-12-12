@@ -1,0 +1,1291 @@
+
+  1
+
+
+
+ The Dartmouth Dante Project
+
+
+ Stephen Campbell
+
+ Dartmouth College
+
+
+ and
+
+
+ Robert Hollander
+
+ Princeton University
+
+
+
+Dartmouth Dante Project
+
+
+  2
+
+
+
+ ABSTRACT
+
+
+
+ The Dartmouth Dante Project is collecting a substantial number of com-
+
+ mentaries on Dante's Divina Commedia and entering them into a computer-
+
+ ized text retrieval database system. The design of the database, its use, and
+
+ the processing of the commentary texts, are the subject of this paper. The
+
+ paper assumes little or no knowledge of the Divina Commedia and only a
+
+ basic familiarity with computerized text manipulation.
+
+
+
+Dartmouth Dante Project
+
+
+  3
+
+
+ 1. Project Overview  
+
+
+ The Dartmouth Dante Project is collecting a substantial number of
+
+ commentaries on Dante's Divina Commedia and entering them into a com-
+
+ puterized text retrieval database system. The design of the database, its
+
+ use, and the processing of the commentary texts are the subject of this
+
+ paper. The paper assumes little or no knowledge of the Divina Commedia
+
+ and only a basic familiarity with computerized text manipulation.
+
+
+ 1.1. Project Goals  
+
+
+ The Dartmouth Dante Project (DDP) has two primary goals: making
+
+ the commentaries on the Divina Commedia easily available to a much wider
+
+ community of scholars than is currently possible, and applying the speed
+
+ and power of computerized text searching to make research less tedious and
+
+ more productive.
+
+
+ In the past a student or scholar could study a significant number of
+
+ these commentaries only by traveling to several of the research libraries
+
+ with major collections. The DDP will now make it possible for a researcher
+
+ with equipment as simple as a computer terminal and a telephone to have
+
+ these commentaries immediately available, no matter where he or she is
+
+ working.
+
+
+ Even if the scholar visited the libraries with large Dante collections
+
+ and had a number of commentary texts before him, the sheer volume of
+
+ material makes it laborious if not impossible to trace a phrase, idea, or con-
+
+ cept through the centuries of scholarship contained in the commentaries.
+
+ However, with the speed of the DDP database system enabling it to per-
+
+ form sophisticated searches through millions of words of text in a matter
+
+ of a few seconds, not only is much of the drudgery of research eliminated,
+
+ but the student or scholar is likely to discover unexpected results --
+
+Dartmouth Dante Project
+
+
+  4
+
+
+ information that would have been missed in a manual search of the texts.
+
+
+ 1.2. History of the Project  
+
+
+ The Dartmouth Dante Project had its beginnings in the summer of
+
+ 1982 at Dartmouth College in Hanover, New Hampshire. Professor Robert
+
+ Hollander of Princeton University and three of his colleagues from Dart-
+
+ mouth, Kevin Brownlee, Stephen Nichols, and Nancy Vickers, noted that
+
+ although Dartmouth College was a leading institution in areas such as
+
+ incorporating computer technology into the undergraduate curriculum, its
+
+ holdings of commentaries on the Divina Commedia were weak. These dan-
+
+ tisti decided to apply the strength to the weakness, and they approached
+
+ the college's then Director of Academic Computing, Raymond Neff, with
+
+ the idea of a computerized collection of commentaries. With initial funding
+
+ from the college and from the Dante Society of America, and with a major
+
+ grant from the National Endowment for the Humanities, the Dartmouth
+
+ Dante Project was launched. It has since also been supported by Princeton
+
+ University, the David and Lucile Packard Foundation, and by gifts in kind
+
+ from Digital Equipment Corporation.
+
+
+ In the last few years the project has added to its staff additional scho-
+
+ lars, Margherita Frankel and Antonia Rossi, to act as editors; as well as a
+
+ computer programmer, the author; a group of student assistants to do data
+
+ entry; and a fulltime project administrator, Janet Stephens and then
+
+ Jonathan Altman.
+
+
+ An offshoot of the project is the forthcoming publication by the
+
+ University Press of New England of the project's newly edited text of the
+
+ commentary by Bernardino Daniello. The project's editors added documen-
+
+ tation to Daniello's biblical and secular citations and produced a
+
+ computer-generated index of citations.
+
+Dartmouth Dante Project
+
+
+  5
+
+
+ 2. Database Design  
+
+
+ The Dartmouth Dante Project will load the entire text of 60 commen-
+
+ taries, a quantity of text equal to about 150,000 printed pages. The organi-
+
+ zation and structure of the commentaries, given the goal of creating a com-
+
+ puterized text retrieval database, is critical if scholars are to be able to
+
+ search and display this volume of text effectively.
+
+
+ 2.1. Database Terminology  
+
+
+ Text retrieval databases use common words like ``document'' and
+
+ ``paragraph'' in specific ways that are sometimes different from their usage
+
+ in normal conversation. Here are some of these terms as we use them in
+
+ the project.
+
+
+ document
+
+ A document is the smallest piece of text that can be loaded into the
+
+ database or retrieved from it. It can be as small as a single word or as
+
+ large as an entire book or article. The documents in a database are
+
+ numbered sequentially, but the document number is used only for
+
+ maintenance purposes and is not seen in most user sessions.
+
+
+ paragraph
+
+ Each document in the database is divided into one or more paragraphs.
+
+ A paragraph can be any amount of text that has meaning in terms of
+
+ the nature of the documents. It could be a single item such as a date,
+
+ or it could be a lengthy section of text such as a chapter. The para-
+
+ graphs in a document have names such as COMMENTATOR or TEXT.
+
+
+ subparagraphs
+
+ Paragraphs that contain longer sections of text can be divided into
+
+ subparagraphs. A database subparagraph corresponds to a standard
+
+
+Dartmouth Dante Project
+
+
+  6
+
+
+ paragraph of text in printed documents.
+
+
+ The terms sentence and word are used in their conventional sense.
+
+
+ All of these terms are significant when the database is searched. A
+
+ computer program called the database manager searches for occurrences of
+
+ words. Complex searches can be performed by looking for combinations of
+
+ words within a certain proximity. Proximity is measured in terms of docu-
+
+ ments, paragraphs, sentences, and words. Thus a simple single-word search
+
+ will retrieve all documents in which the word occurs at least once. Other
+
+ searches can be more complex. For example, a search might retrieve all
+
+ documents in which a given word occurs in a specific paragraph, or in
+
+ which two words occur in the same sentence, or in which two words occur
+
+ adjacent to each other and in a particular order.
+
+
+ 2.2. Organization of Commentary Text  
+
+
+ The Divina Commedia, which we often call simply ``the poem,''
+
+ comprises three major sections called cantiche. The three cantiche are
+
+ named Inferno, Purgatorio, and Paradiso. Each cantica is divided into num-
+
+ bered sections called canti. There are 34 canti in Inferno and 33 each in
+
+ Purgatorio and Paradiso. Each canto contains between 115 and 163 lines of
+
+ text, arranged in tercets. In the entire poem there are 14,233 lines of text.
+
+ Since most commentary text refers to specific lines or groups of lines in the
+
+ poem, it is easily keyed to the corresponding text of the poem. A few com-
+
+ mentators also wrote overviews of entire canti or cantiche; these are called
+
+ proemi or conclusioni.
+
+
+ For the purpose of loading the commentaries into our database, we
+
+ divide the texts into sections that refer to a single part of the poem. The
+
+ part referred to may be a single line, a range of lines, or an entire canto or
+
+ cantica in the case of a proemio or conclusione. This division of
+
+Dartmouth Dante Project
+
+
+  7
+
+
+ commentary texts produces database documents that range in size from a
+
+ few words up to several hundred lines. The average size, however, is less
+
+ than 20 lines. Each piece of commentary text becomes the core of a single
+
+ database document. The text is placed into a database paragraph named,
+
+ appropriately, TEXT. If that paragraph is long, it may be divided into sub-
+
+ paragraphs.
+
+
+ Each document has other paragraphs in addition to TEXT. These
+
+ paragraphs are generally quite short and contain identification and book-
+
+ keeping information. The name of the commentator, the language in which
+
+ the commentary is written, and the cantica, canto, and verses referred to,
+
+ all have their own paragraph in each document. These paragraphs are
+
+ searchable by the database manager in exactly the same way as the text
+
+ paragraph, and it is through such searches that a user of the database can,
+
+ for example, retrieve all comments about a particular line of the poem.
+
+
+ In addition to searching for words, the database manager can sort
+
+ retrieved documents using the value of any paragraph as the sort key. Each
+
+ document has a paragraph containing the year in which the commentary
+
+ was first published. In this way a user can have his search results
+
+ presented in chronological -- or reverse chronological -- order.
+
+
+ Finally, each document contains bookkeeping paragraphs that are of
+
+ interest primarily to the project staff. Examples of these are the name of
+
+ the project editor who worked on the commentary, the data entry tech-
+
+ nique used for this commentary, and the date on which the commentary
+
+ was loaded into the database. There is also a paragraph that identifies what
+
+ type of document each is: proemio, conclusione, or regular commentary text.
+
+ This paragraph, which consists of a single letter, tells the database manager
+
+ how to format the document for display on the user's terminal.
+
+
+Dartmouth Dante Project
+
+
+  8
+
+
+ 2.3. Stopwords and Abbreviations  
+
+
+ Not all words of text are useful in searching the database. Common
+
+ words such as articles and prepositions occur so frequently that a search
+
+ for them is useless. Furthermore, every occurrence of every word requires
+
+ a certain amount of storage space in the database indices and increases
+
+ search time. For these reasons the database is designed to ignore certain
+
+ words when it builds its indices. These words are called stopwords since
+
+ they are stopped from being indexed. For the DDP we created lists of stop-
+
+ words for each language we were dealing with: Italian, Latin, and English.
+
+
+ We have also drawn up a list of abbreviations that occur frequently
+
+ in the commentaries. The database manager uses this list when text is
+
+ loaded into the database. It prevents an abbreviation from being misinter-
+
+ preted as the end of a sentence. This is important for proper formatting of
+
+ the text, but it also means that a user can accurately search for words that
+
+ occur in the same sentence.
+
+
+ 2.4. Character Sets and Terminals  
+
+
+ Most of the commentary text is in Italian or Latin, and there are occa-
+
+ sional citations in Greek. These languages contain accents and characters
+
+ that are not part of the English-oriented ASCII standard character set
+
+ found on most computer terminals. Many terminals can display only the
+
+ standard set, yet the DDP must allow a user to enter search words and
+
+ must display results. On the other hand, many newer terminals have
+
+ extended character sets that include the non-English characters. Some even
+
+ allow customized character sets to be loaded into the terminal from the
+
+ computer. We also want to take full advantage of these newer terminals.
+
+
+ Our solution has been to use special 1- or 2-character sequences
+
+ (called escape sequences) to represent the non-standard, non-ASCII
+
+Dartmouth Dante Project
+
+
+  9
+
+
+ characters. For example we use the two characters ``@a'' to represent ``a \(ga ''
+
+ (an ``a'' with a grave accent), and the character ``<'' to represent a left
+
+ European quotation mark. Non-standard characters in the original com-
+
+ mentary text are replaced with their escape sequence before the text is
+
+ loaded into the database, so that it is the escape sequence that is actually
+
+ saved. When the text is retrieved from the database, the escape sequence is
+
+ translated into whatever character the present terminal can generate that
+
+ best represents the original text character. To make sure that the escape
+
+ characters do not interfere with searching -- the escape characters often
+
+ occur in the middle of a word -- the database manager is instructed to
+
+ ignore the escape characters when indexing a word. Thus the word ``feli-
+
+ cita \(ga '' would be loaded as ``felicit@a'' in the database text file, but the word
+
+ ``felicita'' would be placed into the index. When displayed on a terminal
+
+ that can generate the accented ``a,'' the word would appear as ``felicita \(ga ,''
+
+ while on a standard terminal it would be simply ``felicita.''
+
+
+ 3. Document Processing  
+
+
+ This section describes the processing of commentary text from the ori-
+
+ ginal manuscripts to the DDP database. The processing consists of data
+
+ entry, pre-edit text processing, editing, pre-load text processing, and data-
+
+ base loading.
+
+
+ 3.1. Data Entry  
+
+
+ The printed commentaries on the Divina Commedia range in age from
+
+ a few years to hundreds of years, and several older ones are not available
+
+ in modern editions. The texts have been collected from a variety of
+
+ sources, mainly research libraries, where they were photocopied for entry
+
+ at Dartmouth. Most have been entered by being read by an optical charac-
+
+
+Dartmouth Dante Project
+
+
+  10
+
+
+ ter scanner. Some -- mostly older printings -- could not be scanned and
+
+ were typed in at a computer terminal.
+
+
+ The DDP uses an optical character scanner called a Kurzweil Data
+
+ Entry Machine, or KDEM. The KDEM resembles a photocopier; there is a
+
+ glass surface on which the manuscript pages are placed. Instead of produc-
+
+ ing a printed reproduction of the page, the KDEM scans the text line by line
+
+ and converts it into a computer file of standard ASCII characters. The
+
+ KDEM is programmed with pattern-recognition algorithms that can recog-
+
+ nize characters in different, often poor-quality print faces.
+
+
+ During a phase of the data entry process called ``training,'' the opera-
+
+ tor places samples of the text to be scanned on the machine and then
+
+ corrects the machine's initial guesses about what characters its scanner sees.
+
+ A skilled operator can train the machine to recognize correctly almost 100%
+
+ of the characters scanned; the exact percentage depends on the quality of
+
+ the original print.
+
+
+ After training the machine, which typically takes from several
+
+ minutes to several hours, scanning of the manuscript begins. After a page
+
+ is scanned, the machine displays the text it has read on its console, and the
+
+ operator compares this to the original, making any needed corrections
+
+ before the text file is stored.
+
+
+ When a sufficiently large volume of text has been scanned, checked,
+
+ and stored on the KDEM, it is transferred to our Unix[1] minicomputer.
+
+ This can be done by writing a 9-track tape on the KDEM or by a direct
+
+ communications channel between the two machines.
+
+
+ About one third of the commentary manuscripts could not be scanned
+
+ with a high enough accuracy to justify the time required. These
+
+ manuscripts have been typed directly into computer files using conven-
+
+
+Dartmouth Dante Project
+
+
+  11
+
+
+ tional text editors. All typists follow stylistic norms that produce text in
+
+ a format close enough to that produced by the KDEM that it can be pro-
+
+ cessed just as if it had been scanned.
+
+
+ 3.2. Pre-Edit Processing  
+
+
+ Raw commentary text is processed before being sent to the Dante
+
+ scholars who will edit it. This processing is done on the same minicom-
+
+ puter on which the final database resides. The computer is a Digital Equip-
+
+ ment Corporation VAX 11/785. It runs the 4.3 Berkeley Software Distri-
+
+ bution (BSD) of the Unix operating system. The computer is used at Dart-
+
+ mouth for general academic computing as well as for the DDP. We have
+
+ found the Unix operating system to be particularly well suited to the pro-
+
+ ject. Aside from the fact that our database manager program is Unix-
+
+ based, the system is rich in utilities for text processing. Very little pro-
+
+ gramming has been necessary in the project; most functions have been per-
+
+ formed by combining Unix utilities through the mechanism of shell scripts.
+
+
+ Pre-edit processing eliminates some of the peculiarities of scanned text
+
+ and produces a good ``rough draft'' format that the editors can handle
+
+ easily. Scanned text often has hyphenated words at the ends of lines; pre-
+
+ edit processing eliminates these and adjusts line length for convenient
+
+ screen editing. The scanner sometimes inserts blanks in places where they
+
+ should not be, such as immediately before a comma. This condition is
+
+ corrected. Similarly, multiple blank lines are collapsed to a single line.
+
+ Finally, the pre-editing script allows an operator to check the rough text
+
+ with a screen editor to catch any problems that the automatic procedures
+
+ miss.
+
+
+ The pre-edit processing produces files of commentary text that are
+
+ ready for scholarly editing. The files usually contain all of a commentary's
+
+Dartmouth Dante Project
+
+
+  12
+
+
+ text on a particular canto of the poem. They typically contain anywhere
+
+ from 50 to 500 lines of text, with an average of about 200.
+
+
+ 3.3. Editing  
+
+
+ DDP editors are fluent in the language in which the commentary is
+
+ written, and are also recognized Dante scholars. Their function is to
+
+ recheck the accuracy of the commentary text, to ensure uniform citation
+
+ formats, and to make minor corrections in the text. This process is time-
+
+ consuming, and the editors are widely disbursed geographically. For these
+
+ reasons, the editors use personal microcomputers in their homes or offices.
+
+ The computers are Digital Equipment Corporation Rainbows[2]. They run
+
+ the MS-DOS[3] operating system, and the DDP editors use the Final-
+
+ Word[4] word processing program. This word processor was chosen in part
+
+ because it can process the European characters that the Rainbow can
+
+ display.
+
+
+ Commentary text files are transferred from the Unix computer to the
+
+ editors' Rainbows either by mailing floppy disks or by a direct communica-
+
+ tions link between the Unix machine and the Rainbow. This direct link
+
+ uses a communications program called MLINK[5] that provides error-free
+
+ transmission of text files between computers. When the editors have com-
+
+ pleted a group of files, the edited text is transferred back to the Unix
+
+ machine using the same techniques. Both the downloading from Unix to
+
+ Rainbow and the uploading from Rainbow to Unix are done with semi-
+
+ automatic procedures that handle details such as file name changes, charac-
+
+ ter translation, and logging.
+
+
+
+
+Dartmouth Dante Project
+
+
+  13
+
+
+ 3.4. Database Loading  
+
+
+ Commentary text files returned by the editors are essentially in their
+
+ final form, and are ready to be loaded into the database. Our database
+
+ manager is a commercial product called BRS/Search[6]. It is a large set of
+
+ programs that provide sophisticated indexing, storage, and retrieval of text.
+
+
+ Edited commentary text is prepared for loading into the database by
+
+ adding the database paragraph labels and identification information such as
+
+ publication date, canto number, and poem line number. Pre-load processing
+
+ on the Unix computer provides this information and runs the results
+
+ through a verification program that is part of the BRS system. The
+
+ verification program is a final check that all necessary data is supplied and
+
+ in the proper format.
+
+
+ The final stage is running the database loader program. It is this BRS
+
+ program which builds the database index and text files. The loader allow
+
+ incremental loading: the database can be built up in small pieces by adding
+
+ to the existing files. It is our practise, however, to load an entire commen-
+
+ tary as a unit. This makes it easier to keep track of what has been loaded
+
+ and also guarantees that the text of a given commentary will be displayed
+
+ in the proper order.
+
+
+ After each commentary is added to the database, we make archive
+
+ copies of all the database files. This makes it relatively easy to ``back out''
+
+ a commentary if it becomes necessary to reload it for any reason.
+
+
+ 4. Examples from a User Session  
+
+
+ This section presents some excerpt from an actual user session with
+
+ the Dartmouth Dante Project database. The excerpts illustrate some of the
+
+ capabilities of the database manager program and show how search results
+
+
+Dartmouth Dante Project
+
+
+  14
+
+
+ are formatted. The exact appearance of the session would vary depending
+
+ on the type of computer terminal.
+
+
+ These examples employ a user interface -- a set of menus and a query
+
+ language -- that are based on a general-purpose interface provided by the
+
+ vendor of the database manager. This is our developmental interface; it has
+
+ not yet been optimized for searching the Dante database.
+
+
+ 4.1. Starting the Session  
+
+
+ Users of the DDP connect to the computer using standard procedures
+
+ for their terminals and the type of communications they use. They start
+
+ the DDP session by issuing the ``ddp'' command, and the interface first
+
+ displays a list of the material currently loaded into the database. This list
+
+ changes whenever a new commentary is loaded.
+
+
+   The database currently contains:
+
+   The Divine Comedy
+   &
+   Full commentaries by the following authors:
+
+   Daniello Pietro di Dante Bosco/Reggio
+   Casini/Barbi
+
+ The next screen is the main screen of the interface.
+
+
+ Current queries:
+  None outstanding.
+
+ Enter a search request or option letter (eg Quit, Help, List of options):
+  1: 
+
+ The user always returns to this screen between searches and before ending
+
+ the session. The ``Current queries'' list shows the most recent query
+
+ requests during the session. At the numbered prompt the user can enter a
+
+ single letter special request such as ``H'' for HELP screens and ``Q'' to QUIT
+
+ the session, or the user can enter a search request.
+
+
+
+
+Dartmouth Dante Project
+
+
+  15
+
+
+ A search request or query is a single word or several words that are
+
+ combined with positional and Boolean operators. The positional operators
+
+ are words such as ADJACENT, NEAR, WITH, and SAME. They specify
+
+ the positional requirement of the text words that are their operands. For
+
+ example, the query ``POSITIONAL WITH WORDS'' would search for all
+
+ documents in which the words ``positional'' and ``words'' occur in the same
+
+ sentence. Searches are case insensitive. The Boolean operators are the usual
+
+ AND, OR, NOT, and so forth. The query can be an arbitrarily complex
+
+ combination of these operators.
+
+
+ Here is a search query consisting of a single word, ``Virgilio.''
+
+
+ Enter a search request or option letter (eg Quit, Help, List of options):
+  1: Virgilio
+
+ Results are:
+  1: VIRGILIO 1640 document(s)
+
+ Enter S to Search; D to Display [D]:
+
+ The display shows that 1640 documents were found that contained the
+
+ word ``Virgilio''. The user has the choice of displaying any or all of those
+
+ documents or ``hits'' or of returning to the main search menu to perform
+
+ another search. For our example we will perform another search.
+
+
+ Enter S to Search; D to Display [D]: s
+
+ Current queries:
+  1: VIRGILIO 1640 document(s)
+
+ Enter a search request or option letter (eg Quit, Help, List of options):
+  2: pliny
+
+ Results are:
+  PLINY Not in Dictionary 
+  2: PLINY 0 document(s)
+
+ Enter S to Search; E to Expand [E]: 
+
+ The display reminds us that the Virgilio search is still remembered. We
+
+ search for ``Pliny,'' but find it does not occur in any document. The choices
+
+
+Dartmouth Dante Project
+
+
+  16
+
+
+ now include expanding on the unsuccessful search word. An expansion is a
+
+ list of several words that would be lexicographically adjacent to the word
+
+ that did not occur. An expansion often shows alternate spellings that do
+
+ occur in the database.
+
+
+  Expansion on PLINY ...
+
+  Reference 1 --> PLIN    4 document(s)
+  Reference 2 --> PLINIO   17 document(s)
+  Reference 3 --> PLINIUM    2 document(s)
+  Reference 4 --> PLINIUS    2 document(s)
+  Reference 5 --> PLOIA    8 document(s)
+  Reference 6 --> PLOJA    1 document(s)
+  Reference 7 --> PLOR    2 document(s)
+  Reference 8 --> PLORA    2 document(s)
+  Reference 9 --> PLORABITIS   1 document(s)
+
+  Enter Reference Number(s); H for Help; S to Search [S]:
+
+ The expansion shows four other spellings for Pliny.
+
+
+ In the next example we will combine the two previous searches. The
+
+ query is for all documents that contain, in the same paragraph, ``Virgilio''
+
+ and any of the 4 different spellings of Pliny. The search query uses a dol-
+
+ lar sign to indicate ``any of the Pliny spellings.''
+
+
+ Current queries:
+  1: VIRGILIO 1640 document(s)
+
+ Enter a search request or option letter (eg Quit, Help, List of options):
+  2: Plin$ same Virgilio
+
+ Results are:
+  PLIN     4 document(s)
+  PLINIO     17 document(s)
+  PLINIUM     2 document(s)
+  PLINIUS     2 document(s)
+  VIRGILIO    1640 document(s)
+  2: PLIN$ SAME VIRGILIO   2 document(s)
+
+ Enter S to Search; D to Display [D]: 
+
+ The display includes intermediate search results. There were 25 documents
+
+ with at least one of the spellings of Pliny and (from the previous search)
+
+ 1640 documents with Virgilio. Requiring that the two words appear in the
+
+
+Dartmouth Dante Project
+
+
+  17
+
+
+ same paragraph reduces this set to just two documents:
+
+
+ Enter S to Search; D to Display [D]: d
+
+
+ Bosco/Reggio (1979), Pur. 26.34 Doc 1, Screen 1
+
+ [Copyrighted Material] schiera bruna: cfr. nigrum... agmen, di Virgilio,
+ Aen. IV 404; ma in genere per tutta la similitudine si suole rimandare a
+ Ovidio, Met. VII 624-626 e addirittura a Plinio, N. H. XI 39. La
+ comparazione dantesca ha pero \(ga un tono diverso, ``poggia... sull'elemento
+ affettivo'' (Roncaglia), e indulge meno a effetti descrittivi.
+
+
+ Enter document number, Help, Search [Next document]: 
+
+ Casini/Barbi (1921), Inf. 24.106 Doc 2, Screen 1
+
+ Cosi \(aa  per li gran savi ecc.: Dante accenna a quello che favoleggiarono della
+ fenice i poeti e i dotti dell'antichita \(ga  e del medioevo (p. es. Plinio, H.
+ N. X 2, Claudiano, Idil. XLII; rimatori italiani in D'Anc., I 115, 510,
+ 516 e Val., I 137, 290, 297, II 24, 210, 510; B. Latini, Tesoro VI 26
+ ecc.), ma nella sua descrizione egli segue massimamente Ovidio, Met. XV 392:
+ ``Una est, quae reparet seque ipsa reseminet, ales: Assyrii phoenica vocant.
+ Non fruge neque herbis, Sed turis lacrimis et succo vivit amomi. Haec ubi
+ quinque suae complevit saecula vitae, Ilicet in ramis tremulaeque cacumino
+ palmae Unguibus et puro nidum sibi construit ore, Quo simul ac casias et
+ nardi lenis aristas Quassaque cum fulva substravit cinnama myrrha, Se super
+ imponit, finitque in odoribus aevum''. savi: ha detti gia \(ga  Omero e
+ Virgilio, Orazio, Ovidio e Lucano (Inf. IV 110). Si confessa: si
+ dichiara, si attesta.
+
+
+ These displays show the formatting of commentary text and also illustrate
+
+ the DDP style of citations. The first document is from the Bosco/Reggio
+
+ commentary, published in 1979, commenting on Purgatorio canto 26, line
+
+ 34; the second is from the Casini/Barbi commentary, published in 1921,
+
+ commenting on Inferno canto 24, line 106. The occurrences of the
+
+ searched-for words are highlighted.
+
+
+ The session ends by returning to the main menu and choosing the
+
+ QUIT option:
+
+
+
+
+Dartmouth Dante Project
+
+
+  18
+
+
+ Enter a search request or option letter (eg Quit, Help, List of options):
+  5: q
+
+ Enter No to cancel signoff [Signoff]: 
+ % 
+
+
+ 5. Future Effort  
+
+
+ The Dartmouth Dante Project is a work in progress. Our efforts are
+
+ directed toward meeting the original goals of the original project and at
+
+ pursuing some promising new technology.
+
+
+ Most important is completing the loading of the commentaries. The
+
+ project plan includes 60 commentaries, which are listed in the Appendix.
+
+ They are presently at various stages of processing:
+
+
+  13 Edited
+  11 Being edited
+   7 Ready to edit
+  11 Entered
+  14 Ready to enter
+   4 Being prepared for entry
+
+ The most difficult and expensive part of this process is editing the commen-
+
+ tary texts.
+
+
+ The major computer programming task remaining for the project is
+
+ the design and implementation of a specialized user interface for the data-
+
+ base. The current interface is derived from a general-purpose interface; the
+
+ custom interface will take full advantage of the underlying structure of the
+
+ DDP database. It will support a query language that makes it as easy as
+
+ possible for a researcher to search this particular database, and it will
+
+ present results in the most concise and useful format.
+
+
+ The database will be available for general use in October, 1988, with
+
+ 24 commentaries loaded. When the database opens, we will provide com-
+
+ plete user documentation and administrative support for researchers and
+
+ students. We will also collect all comments both about the database's user
+
+Dartmouth Dante Project
+
+
+  19
+
+
+ interface and about the commentary texts. We expect to have completed
+
+ loading of all 64 commentaries by 1991.
+
+
+ The user interface will be an evolving program, but the commentary
+
+ texts will not be altered during the initial usage phase of the database.
+
+ After the database has been generally available for some time, we will
+
+ review all the editorial and scholarly comments about the commentaries
+
+ and then apply any needed changes to the texts.
+
+
+ One of the most exciting advances in computer technology today is the
+
+ development of laser disk storage devices. These devices make it technolog-
+
+ ically possible for an institution or even an individual to purchase a desk-
+
+ top computer that contains the complete DDP database and user interface
+
+ program. The BRS text retrieval database used by the DDP is available
+
+ today for desktop microcomputers, and the cost of producing laser disks is
+
+ dropping every year. Exactly how many commentaries would be available
+
+ in this manner depends on copyright arrangements, but at least the earlier,
+
+ uncopyrighted commentaries, which comprise at least 2/3 of the database,
+
+ would be included.
+
+
+ 5.1. Summary  
+
+
+ The Dartmouth Dante Project, a work in progress, is collecting, edit-
+
+ ing, and making available to students and scholars a substantial number of
+
+ the commentaries written through the centuries about Dante's monumental
+
+ Divina Commedia. Through the use of sophisticated text storage and
+
+ retrieval software and emerging laser disk storage technology, the project
+
+ will make this collection of historic documents available to scholars every-
+
+ where.
+
+
+
+Dartmouth Dante Project
+
+
+  20
+
+
+
+ NOTES
+
+
+
+
+ [1] Unix is a trademark of AT&T Bell Laboratories.
+
+
+ [2] Rainbow is a trademark of Digital Equipment Corporation.
+
+
+ [3] MS-DOS is a trademark of Microsoft, Inc.
+
+
+ [4] FinalWord is a trademark of Mark of the Unicorn, Inc.
+
+
+ [5] MLINK is a trademark of Corporate Microsystems, Inc.
+
+
+ [6] BRS/Search is a trademark of BRS Information Technologies.
+
+
+
+Dartmouth Dante Project
+
+
+  21
+
+
+
+ APPENDIX
+
+
+ THE COMMENTARIES
+
+
+
+ This chart lists the 60 commentaries of the DDP. The first ``tier''
+
+ includes Italian commentaries written before 1900; the second, Latin com-
+
+ mentaries; the third, English; the fourth, Italian commentaries of this cen-
+
+ tury. (N.B. Some dates of publication are approximate.) *An asterisk which
+
+ precedes an item indicates that this text is fully prepared for use as of
+
+ March 1, 1988.
+
+
+ FIRST TIER (Earlier Italian commentaries)
+
+
+
+ *JACOPO ALIGHIERI (1322) (Inferno only)
+ *JACOPO DELLA LANA (1324-28)
+ OTTIMO (1333)
+ *ANONIMO SELMIANO (1337) (Inferno only)
+ *GIOVANNI BOCCACCIO (1373) (Inferno: partial)
+ FRANCESCO DA BUTI (1385)
+ ANONIMO FIORENTINO (1400)
+ GUINIFORTO DELLI BARGIGI (1440) (Inferno only)
+ CRISTOFORO LANDINO (1481)
+ ALESSANDRO VELLUTELLO (1544)
+ BERNARDINO DANIELLO (1568)
+ LODOVICO CASTELVETRO (1570) (Inferno: partial)
+ POMPEO VENTURI (1732)
+ BALDASSARE LOMBARDI (1791)
+ LUIGI PORTIRELLI (1804)
+ *PAOLO COSTA (1819)
+ ROSSETTI (1826) (Inferno & Purgatorio)
+ NICCOLO \(ga  TOMMASEO (1837)
+ RAFFAELLO ANDREOLI (1856)
+ LUIGI BENNASSUTI (1864)
+ GREGORIO DI SIENA (1867) (Inferno only)
+
+Dartmouth Dante Project
+
+
+  22
+
+
+ BRUNONE BIANCHI (1868)
+ G. A. SCARTAZZINI (1900)
+ GIUSEPPE CAMPI (1888)
+ GIOACHINO BERTHIER (1892)
+ GIACOMO POLETTO (1894)
+
+
+ SECOND TIER (Latin Commentators)
+
+
+
+ GRAZIOLO DE' BAMBAGLIOLI (1324) (Inferno only)
+ ANONIMO LOMBARDO (1324?) (Purgatorio only)
+ GUIDO DA PISA (1327) (Inferno only)
+ *PIETRO DI DANTE (1340)
+ CODICE CASSINESE (1350?)
+ BENVENUTO DA IMOLA (1373)
+ JOHANNIS DE SERRAVALLE (1416)
+
+
+ THIRD TIER (English Commentators)
+
+
+
+ H. OELSNER (1899)
+ H. F. TOZER (1901)
+ *JOHN RUSKIN (1903)
+ J. S. CARROL (1904)
+ C. H. GRANDGENT (1909)
+ CHARLES S. SINGLETON (1970)
+
+
+ FOURTH TIER (Modern Italian Commentators)
+
+
+
+ FRANCESCO TORRACA (1905)
+ CARLO STEINER (1921)
+ ENRICO MESTICA (1921)
+ *CASINI/BARBI (1921)
+ ISIDORO DEL LUNGO (1926)
+
+Dartmouth Dante Project
+
+
+  23
+
+
+ SCARTAZZINI/VANDELLI (1929)
+ CARLO GRABHER (1934)
+ ERNESTO TRUCCHI (1936)
+ DINO PROVENZAL (1938)
+ LUIGI PIETROBONO (1946)
+ *ATTILIO MOMIGLIANO (1946)
+ MANFREDI PORENA (1946)
+ *NATALINO SAPEGNO (1955)
+ DANIELE MATTALLIA (1960)
+ SIRO A. CHIMENZ (1962)
+ GIOVANNI FALLANI (1965)
+ *GIORGIO PADOAN (1967) (Inferno I-VIII)
+ GIUSEPPE GIACALONE (1968)
+ *BOSCO/REGGIO (1979)
+
+
+
+Dartmouth Dante Project
+
+

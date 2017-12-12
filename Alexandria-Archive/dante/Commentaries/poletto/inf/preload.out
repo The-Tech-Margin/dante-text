@@ -1,0 +1,76 @@
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Poletto
+	Language   = Italian
+	Pub. Year  = 1894
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/06
+
+Filtering 06.e...
+Verifying ../staging/inf/06...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      72523 Jul 19 12:08 ../staging/inf/06
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Poletto
+	Language   = Italian
+	Pub. Year  = 1894
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/12
+
+Filtering 12.e...
+Verifying ../staging/inf/12...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      71901 Jul 19 12:08 ../staging/inf/12
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Poletto
+	Language   = Italian
+	Pub. Year  = 1894
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/18
+
+Filtering 18.e...
+Verifying ../staging/inf/18...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      81115 Jul 19 12:08 ../staging/inf/18
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Poletto
+	Language   = Italian
+	Pub. Year  = 1894
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/21
+
+Filtering 21.e...
+Verifying ../staging/inf/21...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      83769 Jul 19 12:09 ../staging/inf/21

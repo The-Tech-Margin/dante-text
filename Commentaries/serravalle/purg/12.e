@@ -1,0 +1,516 @@
+	|SUMMARIUM.~  In isto duodecimo capitulo, quod incipit:
+^De pari, sive pariter, sicut boves~, auctor prosequitur adhuc
+de peccato superbie, ponens multas hystorias, hic ymaginatas, in
+marmore super pavimento, per quod habebant transire; que hystorie
+sunt ad magnum exemplum et ad magnum documentum, ut se humilient
+homines et deponant omnem superbiam.  Nam iste hystorie clare
+ostendunt, quis effectus sequatur ex superbia, et quomodo
+deprimuntur superbi et humiliantur a divina iustitia atque
+iustifica equitate.  Nota quod hystorie humilium erant ymaginate
+in latere vie, per quam ibant; sed hystorie superborum sunt
+ymaginate in pavimento, super quod pedes ponuntur, et stant sepe
+sicut stant sepulchra aliquorum in terra, super que sepulchra
+sunt designata arma sepultorum et sua gesta mira.  Ethoc est ad
+designandum, quod non humiles sed superbi a divina iustitia
+suppeditantur et sub pedibus collocantur.  Hystorie videantur in
+Commento.  Nam prima hystoria est de Lucifero, de celo expulso et
+in baratrum fulminato, etc.  Demum, in eodemcapitulo, auctor
+ponit quomodo unus angelus, ventilando alas in fronte eius,
+purgavit eum a peccato superbie.  Et tunc fuit cantatum: Beati
+pauperes spiritu.  Hoc scribitur Matthei quinto capitulo.  Idest:
+Beati qui sunt humiles, nec habent spiritum arrogantie,
+vanaglorie, aut superbie.  Et sic angelus conduxit Virgilium et
+auctorem de isto primo circulo inferiori, in quo punitur peccatum
+superbie, ad supra, scilicet in circulum secundum superiorem, in
+quo punitur peccatum invidie.  Et tunc auctor, sentiens se
+leviorem solito, dixit Virgilio: De qua re sum ego alleviatus?
+quia sentio me leviorem.  Cui dixit Virgilius: Fac quod radantur
+P sex, que remanserunt in fronte tua, sicut iam unum abrasum est,
+et tunc eris levissimus, etc.; idest liber ab omnibus peccatis.
+
+	|Proemio.  De pari, sicut boves.  De pari, come buoi~:
+istud est capitulum duodecimum istius Purgatorii, in quo auctor
+dat certam optimam doctrinam ad refrenandum vitium superbie et
+vanaglorie eius filie.  Et dividitur in quatuor partes.  In
+quarum prima auctor ponit suam dispositionem ad illam materiam. 
+
+In secunda, que incipit: 
+
+     Vidi illum qui fuit nobilis creatus; 
+     Vidi colui che fu nobile creato, 
+
+inducit sub brevitate multa exempla, ostendendo mirabiles
+effectus secutos ex superbia et vanagloria, et ille est optimus
+modus refrenandi huius vitium. 
+
+In tertia, que incipit ibi: 
+
+     Plus erat iam de monte; 
+     Pi era gi del monte, 
+
+auctor ostendit quomodo fuit purgatus a vitio superbie. 
+
+In quarta parte, que incipit ibi: 
+
+     Sicut ad manum dexteram; 
+      Come a man destra, 
+
+auctor describit ascendum suum insecundum circulum, in quo 
+purgatur vitium invidie. 
+
+	|1-3.~  Quantum ad primam partem auctor continuat dicta
+dicendis.  Nam superius, loquens cum Oderisio, miniatore,
+oportebat eum ire inclinatum propter posse loqui cum ipso
+Oderisio, qui propter pondus valde grave ibat valde versus terram
+inclinatus, et tantum inclinatus ibat Dantes, ita quod duo ibant
+pariter inclinati sicut boves sub iugo.  De pari, idest pares,
+sicut boves, qui vadunt ad iugum, ibam ego cum illa anima
+onerata, quousque sustulit, idest permisit, dulcis pedagogus,
+idest magister meus Virgilius.  Pedagogus proprie est magister
+pueri, docens ipsum tam scientiam quam mores; sed quia pedagogus
+solet infestus esse et amarus puero, quia ipsum sepe verberat
+corrigendo, et Virgilius non verberabat Dantem, ideo vocat eum
+dulcem pedagogum. 
+
+	|4-9.~  Sed quando dixit: Dimicte eum, scilicet
+Oderisium, idest non plus vadas ita inclinatus, loquens cum eo,
+et transiuns, quia hic est bonum cum velo et cum remis,
+quantumcumque potest, quilibet impellat suam barchem (loquitur
+auctor methaphorice: sicut nauclerus, sive gubernator, barche,
+quando est in aliquo periculo, cum omnibus instrumentis, cum
+velo, cum remis, se iuvat; sic volebat Virgilius omni modo
+velociter.  Bonam similitudinem posuit auctor dicendo, quod ibant
+Oderisius et auctor pares sicut boves: nam thauri sunt
+naturaliter alteri, vagi et superbi, sed premuntur a iugo; sic
+hic superbi a pondere.  Et nota quod auctor loquitur hic more
+Aristotelis, qui dicit, quod ratio est pedagogus paxionis, ita
+quod ratio est talis in refrenando paxiones et sensus, qualis est
+pedagogus refrenans puerum.  Hic dicit auctor, quod est bonum et
+utile cum omni speculatione promovere ingenium, quod assimilatur
+navi, sicut fuit dictum in uno preambulorum super Purgatorium;
+quoniam hic oportet speculari, agere cum ingenio, sicut faciunt
+naute tempore maris fortune et dum sunt in periculo: nam magna
+est difficultas deponere onus superbie); rectum, sicut iri vult,
+refeci me, idest erexi me, cum persona, quamquam cogitationes
+michi remanerent et inclinata et diminuta, scilicet cogitamina. 
+|Rectum me feci~: sic enim decet hominem recte incedere, dicente
+Ovidio, primo Methamorphoseos: Pronaque cum spectent animalia
+cetera terram, Os homini sublime dedit, celumque videre Iussit
+[et rectos] ad sidera tollere vultus.  Similem sententiam dicit
+Boetius.  Similiter Iuvenalis.  Galienus dicit, quod rectitudo
+arguit nobilitatem.  |Refeci me~, scilicet erexi me, quamquam
+mens remanserit inclinata, scilicet propter verba que dixerat
+Oderisius, scilicet quod in brevi experiretur quid esset rogare.
+
+	|10-15.~  Iam me moveram, et sequebar libenter mei
+magistri passus, et ambo iam monstrabamus sicut, idest quomodo,
+eramus leves, quando michi dixit: Volve oculos infra: bonum tibi
+erit, idest proficiet, pro tranquillanda via, idest ut iter
+levius tibi videatur, videre lectum planctarum tuarum. 
+
+	|16-24.~  Sicut, ad hoc ut de ipsis memoria sit, super
+sepultis tumbe terranee (tumbe, idest sepulture) portant signatum
+id quod erant prius (vult dicere auctor, quod sicut in
+sepulchris fiunt littere et sculpture, indicantes memoriam
+sepultorum et indicantes id quod erant et fuerunt; non enim modo
+sunt homines, sed fuerunt, nisi secundum quid, scilicet ad
+quamdam memoriam); unde ibi multoties complangitur, idest
+inspiciendo talia, propter compaxionem, dicendo: Hic fuit talis,
+etc., cuius persone forte habita fuit notitia vel per famam,
+propter puncturam recordationis, quod solum piis dat in
+calcaneis, idest de que re solum pii ad compaxionem moventur
+(vult dicere Virgilius, quod bonum erat Danti respicere infra
+illas ymagines, representantes effectus superbie, ad addiscendum
+humilitatem, quia via illa, sive scala, plena erat talibus
+sculpturis, propter quas poterat fieri comparatio de sculptura ad
+sculpturam et de mortuo ad mortuum); sic vidi ego ibi, sed de
+meliori similitudine, secundum artificium figuratum, quantum per
+viam foris montes super est, idest extat, vel remanet.  Nota
+quod, sicut equus punguntur cum calcaribus, ita pii pungitur
+compaxione.  |Sembiancia~: idest similitudine.  Nam Deus fecit
+illas ymagines; ideo era[n]t melioris similitudinis, quam sint
+ille, que fiunt super sepulchra mortuorum.  Per tortam viam, per
+quam ascendebant de circulo, ubi purgatur superbia, ad circulum,
+ubi purgatur invidia, erant tales ymagines: nam ymagines
+humilitatis erant in planitie in marmore albo.  Ideo ponit auctor
+istas ymagines superbie sub pedibus, ad denotandum quod humilitas
+tendit in altum, superbia ad ymum, iuxta illud evangelicum: Qui
+se humiliat exaltabitur, et qui se exaltat humiliabitur.  Super
+ymagines superborum itur cum pedibus; super ymagines humilium
+non. 
+
+	|25-27.  Videbam illum, qui fuit nobilis creatus~, alias
+nobilitatus, |plusquam alia creatura, sursum de celo ad inf[e]ra
+fulgarando descendere ab uno latere~: hec est secunda pars huius
+capituli, in qua ponuntur exempla superborum, ut alii inducantur
+ad humilitatem imitandum.  Quarum prima est de Lucifero, qui, mox
+creatus, superbivit contra factorem suum et voluit esse similis
+Altissimo, quando dixit: In celum conscendam, et super astra celi
+exaltabo solium meum, et eo similis Altissimo (Ysaye quartodecimo
+capitulo); qui fuit, fulgurando, de celo expulsus et reclusus in
+profundo baratri.  Cecedit igitur de celo ab uno latere, ab alio
+emispirio, idest inferiori. 
+
+	|28-33.~  Modo accipit auctor exemplum a poetis, qui
+fingunt quod antiquo tempore Gygantes, filii Terre, volentes
+recipere celum et expugnare, recipiebant montes, ponendo unum
+super alium; et sic credebant talem cumulum montium et in tantum
+facere, quod attingeret usque ad celum, et tunc celum expugnare. 
+Sed tunc Deus Iuppiter congregavit omnes Deos et Deas; et facto
+consilio, Iuppiter, munitus auxilio Deorum, fulminavit Gygantes
+et frustratim divisit eos.  Moraliter loquendo, Gygantes tales
+sunt tyrampni et domini superbi, qui cumulant et civitatem
+civitati, et civitates civitatibus, et presumunt contra Ecclesiam
+Sanctam Dei et contra sacra, commictentes sacrilegia, etc.  Unde
+Deus habet secum multitudinem Deorum, scilicet virtutum suarum,
+scilicet Ty[m]breum Appollinem, Deum sapientie, scilicet
+sapientiam suam, et Palladem, Deam potentie, idest potentiam suam
+infinitam, et Martem, idest potentiam expugnandi inimicos, et sic
+devi[n]cit Gygantes. 
+
+	Notandum etiam, licet aliqui philosophi et poete
+posuerunt multitudinem Deorum, non tamen propter hoc crediderunt
+realiter esse plures Deos; sed ponebant unum esse Deum
+potentissimum, qui sit prima causa et primus motor.  Ubi autem
+dicunt plures Deos et Deas, pro talibus dominis ipsi
+intelligebant varias virtutes et potentias, et efficacias et
+providentias, unius Dei: quia Deus cum sua prudentia, sapientia
+et potentia prosternit superbos. 
+
+	Videbam Bryareum, scilicet contmgeminum gygantem, fixum a
+telo celestiali, stare ab alia parte, idestin emispirio arthico,
+ibi in pavimento ymaginato, gravem terre propter mortale gelu. 
+
+	Videbam Tymbreum, videbam Palladem et Martem, armatos
+adhuc coram patre ipsorum, scilicet Jove, mirari idest, mirando,
+respicere membra Gygantium sparsa. 
+
+	|34-36.~  Videbam Nembroth ad pedes magni edificii, idest
+turris Babel, vel Babilonis, quasi territum, idest stupefactum,
+et respicere gentes, que in Sennaar, scilicet campo, cum eo
+superbe fuerunt.  De isto Nembroth dictum est in Inferno in
+capitulo tricesimoprimo.  Iste fuit primus tyrampnus mundi, fuit
+Gygas, qui fecit turrim Babilonis, ubi fuerunt confuse lingue,
+etc.  Credidit facere turrim, que transcenderet nubes, ut, si
+iterum veniret diluvium, salvaretur in turri illa.  Illa turris
+fuit et est adhuc maximum edificium.  Mirabile est audire illud
+quod dicit et scribit Quintus Curtius de hoc, et Sacra Scriptura
+magna narrat de tali edificio. 
+
+	|37-39.~  O Niobe, cum quibus oculis dolentibus videbam
+ego te, signatam super strata, inter septem, scilicet masculos,
+et septem, scilicet feminas, tuos filios extinctos, idest
+interfectos! 
+
+	Nota quod istud est aliud exemplum poeticum de superbia. 
+Niobe fuit regina Thebarum, et fuit adeo superba, quod
+prohibebat adorari Apollinem et Dianam, reputans se feliciorum
+ipsis; et tamen Diana erat Dea castitatis: unde Appollo
+sagiptavit et percussit et interfecit suos septem filios
+masculos, et Diana similiter percussit et interfecit suas septem
+filias, [idest] Niobe.  Vult poesis quod illi septem filii facti
+sunt et dementes protervi et insani; femine facte sunt omnes
+meretrices et vane.  Modo hic in pavimento erat ymaginata Niobe,
+mortua inter septem filios et septem filias, ut dictum est. 
+
+	|40-42.~  O Saul, quomodo super proprio ense ibi
+apparebas mortuus in Gelboe, scilicet monte sic dicto, qui non
+sensit pluviam postea nec rorem.  Iste Saul fuit filius Cis,
+hominis sic dicti, de tribu Beniamin, una tribu Israel; qui Saul
+custodiebat asinas patris sui, quando Samuel unxit eum regem
+Israel de precepto Dei.  Qui factus rex, statim superbivit in
+tantum quod ipse presumpsit impedire se de sacerdotio: propter
+hoc et propter superbiam suam recessit de eo spiritus Domini, et
+invasit eum spiritus nequam, et agitabat eum.  Hic subiugavit
+sibi multos reges gentium, et vitiosus effectus est; et breviter,
+vadens contra Phylisteos in montes Gelboe, qui sunt prope montem
+Libani, fuit conflictus ipse et etiam filius suus Ionatas, et
+ipse fuit letaliter vulneratus, et ipsemet semetipsum interfecit
+propter conflictum huiusmodi.  Et quia ipse Saul et filii eius et
+incliti Israel fuerunt interfecti in monte Gelboe, David
+maledixit illos montes, imprecans ut nec pluvia nec ros unquam
+descenderet super illos montes; et sic factum est a Domino Deo,
+et sic illi montes sunt sterilissimi. 
+
+	|43-45.  O fol.~  Ista est una hystoria poetica.  Una
+mulier, vocata Aragnes, sive Aranea, fuit nata in Athenis. 
+Solempnis textrix, optime texebat, et fuit tempore Minerve, que
+fuit regina Athenarum, que fuit ingeniosissima mulierum mundi, et
+regebat Athenis.  Ista Aragnes gloriabatur se esse ingeniosiorem
+quam esset Minerva.  Tandem propter suam superbiam ipsa fuit
+conversa in araneam, animal nominis sui.  Dum ipsa Aranea ordiret
+unam telam, fuit sic conversa; ideo dicit textus: O follis, idest
+fatua Aragnes, sic, idest adhuc, vel etiam, videbam ego te iam
+semiaraneam tristem, super stratia, idest super lacerationes,
+opere que male per te fuit facta: quia in illa opera fuit
+conversa de muliere in araneam.  Moraliter, ista aranea erat
+mulier plebeia, que representat personas pauci valoris, et pauci
+ingenii et pauce scientie, et tamen gloriantur: in tantum in se
+confidunt, quod despiciunt personas illustres.  Tales, sic,
+persone superbe convertuntur in araneas, que cum labore faciunt
+telas et eviscerant seipsas.  Talis tela capit muscas, idest
+homines ignorantes et simplices, credulos; sed si passer caderet
+in telam aranearum, disrumperet telam: sic si veniret aliquis
+bene sciens et intelligens, rumperet subito telam.  Hystoria
+poetica patet in Metamorphoseos Ovidii.
+
+	|46-48.~  O Roboam, iam non apparet quod mineris: ibi est
+tuum signum; sed plenum |di spavento~, idest pavefactione, vel
+pavore, illud portat unus currus, sine quod alius illum impellat. 
+Iste Roboam fuit filius Salomonis regis, filii David; qui Roboam,
+mortuo patre, fuit rogatus a senioribus filiorum Israel, quod
+ipse deberet alleviare populum, quia pater suus nimis
+aggravaverat populum collectis, etc.  Et habito consilio inter
+seniores, sic consuluerunt sibi ut faceret.  Tandem voluit habere
+consilium cum pueris sibi coetaneis, nutritis cum ipso: qui sibi
+dixerunt, quod hoc nullo modo faceret, sed adhuc magis
+aggravaret.  Unde respondens populo supplicanti pro alleviatione,
+dixit: Pater meus cecidit vos virgis; ego autem cedam vos
+scorpionibus.  Scorpio est genus flagelli ferrei.  Tunc decem
+tribus Israel diviserunt se a tribu ista Beniamin, et dimiserunt
+Roboam, et constituerunt sibi regem Ieroboam, filium Nabar, de
+tribu Efraim; et sic facta fuit divisio, et factum fuit schisma
+in Israel.  Quod videns Roboam, qui erat super currum suum, fugit
+de campo et venit in Hierusalem, et paxus fuit multas
+tribulationes.  Ipse voluit postea mitigare populum, et non fuit
+exauditus.  Et sic apparet quod consilium puerorum sepissime non
+est sanum. 
+
+	|49-51.~  Monstrabat adhuc durum pavimentum quomodo
+Almeon sue matri fecit carum apparere infortunatum, idest
+infelix, ornamentum. 
+
+	Nota quod Amphyrao fuit nobilis augur, et potens, et
+strenuus in armis; et ipse per auguria sensit et novit, quod
+ipse, si iret contra Thebas, ibi moreretur: ideo latebat sub
+terra ne vocaretur; et cum non posset reperiri, fuit datum unum
+ornamentum uxori sue, sub hoc federe quod ipsa propalaret
+maritum.  Et ipsa hoc fecit.  Videns se Amphyrao sic per uxorem
+propalatum, et duci contra Thebas, ubi putabat pro certo se
+moriturum, sicut postmodum evenit, precepit filio suo Almeoni,
+sic vocato, quod ipse faceret vindictam.  Almeon autem, audiens
+mortem patris, interfecit matrem postmodum suam, quia
+propalaverat eum, dum latebat.  Ideo Almeon fecit apparere matri
+sue ornamentum illud infelix, durum, quia eam interfecit. 
+
+	|52-54.~  Monstrabat adhuc, scilicet pavimentum, quomodo
+filii sagiptabant super Senacharib, scilicet patrem eorum, intra
+templum illud et sicut mortuum ipsum dimiserunt ibi. 
+
+	Nota quod, Sedechia existente rege Iudee, rex Assyriorum,
+scilicet Senacharib, misit sibi epistolam, narrando sibi multa,
+et petebat ab eo quasi impossibilia.  Hec hystoria scribitur in
+quarto libro Regum.  Sedechias sentiens se impotentem ad petita
+pro Senacharib, volvit se ad Deum, humiliter supplicans ut
+misereretur ei; et breviter divino iudicio hoc factum est, quod,
+dum rex Senacharib veniret contra Iudeam, divino iudicio de suo
+exercitu interfecti fuerunt centum quinquaginta millia hominum;
+unde ipse fugiens, rediit in Assyriam, in civitatem Ninive,
+fractus animo: et cum semel staret in templo adorans ydola sua,
+filii sui sagiptaverunt et interfecerunt eum ibi, et sic mortuum
+eum dimiserunt, qui sic superbe minabatur regi Iudee, scilicet
+Sedechie. 
+
+	|55-57.~  Monstrabat adhuc, scilicet pavimentum, ruinam
+et grandem scempionem, idest scissionem, vel divisionem, vel
+magnum exemplum, quam fecit Thamir, quando dixit Cyro: Sanguinem
+sitisti, et ego de sanguine te impleo. 
+
+	Nota quod Cyrus rex Persarum, intravit manu armata
+Sithiam, idest Thartariam, cui obviavit quidam iuvenculus, filius
+Thamir, regine vidue, quem ipse Cyrus interfecit.  Ipsa regina
+Thamir, cruciata dolore, congregavit magnum exercitum et venit
+contra Cyrum: et quadam die simulata fuga, transivit exercitus
+Cyri per loca montuosa, in quibus nescivit se bene regere.  Tunc
+regina, que primo simulaverat fugam, revolvit se contra Cyrum, et
+dedit sibi conflictum, et cepit eum et fecit decapitari, et
+ponens caput eius in uno utre, sanguine pleno, dixit: Sanguinem
+sitisti, et ego sanguine impleo. 
+
+	|58-60.~  Monstrabat sicut, idest quomodo, in ruptam,
+idest in fugam, aufugerunt Assyrii, postquam fuit mortuus
+Olofernes, et adhuc reliquias martyrii. 
+
+	Ista hystoria ponitur in libro Iudith.  Olofernes erat
+princeps militie regis Assyriorum, qui de mandato sui regis venit
+cum magno exercitu contra Iudeam, et posuit se circa Bethuliam,
+oppidum Israel, situatam in monte.  Abstulit eis aquas, unde
+pexime illi de Bethulia stabant.  Una vidua, nomine Iudith, amica
+Dei, ymaginata est liberare populum suum; et ivit ad
+principaliores oppidi, dicens, se velle ire foras; et ornavit se
+optime.  Que subito, cum fuit extra oppidum, capta fuit ab
+adversariis et presentata Oloferni, qui subito captus fuit amore
+eius, cum esset pulcherrima.  Et uno sero, quando bene cenaverat
+Olofernes et inebriatus esset vino, ista similavit quasdam suas
+cerimonias, pro quibus faciendis data fuit sibi licentia
+liberrime.  Circa quartam horam noctis, videns istum dormire,
+fortissime arrepto ense, qui erat ad caput lecti, amputavit sibi
+caput, et posuit ipsum in quodam suo sacculo et portavit intra
+oppidum Bethulie.  Tunc Bethuliani de mane exiverunt extra,
+acclamantes contra suos hostes.  Dixerunt Assyrii: En mures
+exiverunt de suis foraminibus!  Tandem iverunt ad lectum
+Olofernis, et invenerunt truncum, sine capite: quo viso,
+posuerunt se in fugam et multi trucidati fuerunt: et qui venit
+cum magna superbia, recepit tantam confusionem.  Reliquie
+martyrii sunt truncus et caput.  
+
+	|61-63.~  Videbam Troyam in cinerem et in cavernas; o
+Ylion, quomodo te bassum, idest infimum et vile, monstrabat
+signum quod ibi descernitur.  Et tamen Troya fuit superbissima
+civitas, domina Assie, etc.  Hystoria destructionis Troye patet
+in Troyano et in secundo Eneydos Virgilii. 
+
+	|64-66.~  Qualis fuit pennellus magistri, vel stilus, qui
+retraheret umbras et tractus, qui erant ibi? idest qualis
+magister, scilicet fuit, qui cum pennello, vel stilo, unquam
+retraxerat!  Mirari facerent omne ingenium subtile.  Idest
+nunquam fuit pictor, qui faceret ita pulchras ymagines. 
+
+	|67-69.~  Probat hoc.  Mortui, scilicet, apparebant
+mortui, et vivi apparebant vivi: non vidit melius me, supple
+aliquis, qui vidit verum, quantum ego calcavi, quando inclinatus
+ivi. 
+
+	|70-72.~  Nunc auctor exclamat contra superbos, dicens:
+Superbite igitur, et ultra cum viso altero, idest cum fronte
+alta, vadatis, filii Eve, et non inclinetis visum (yronice
+loquitur, quasi dicens: Non debetis superbire, attentis istis que
+vidi, que propter superbiam sustinentur), ita quod videatis
+vestram viam, malam semitam.  Quasi dicens: Vos debetis humiles
+esse, visa tanta ruina, in quam incidunt superbi. 
+
+	|73-78.  Plus erat iam de monte.  Pi era gi del monte~:
+hec est tertia pars huius capituli, in qua auctor ostendit
+quomodo fuit purgatus de peccato superbie.  Et primo premictit
+dispositionem suam et etiam tempus quod erat, dicens: Plus erat
+iam de monte circuitum, idest plus ambulaveramus per montem
+circulariter, et de itinere solis satis plus expensum, idest
+satis plus sol ascenderat, quam existimaret animus non solutus
+(nam animus Dantis hic erat non solutus, ymo erat ligatus et
+occupatus circa contemplationem illarum ymaginum), quando ille,
+qui semper ante attentus, idest Virgilius, ibat, incepit,
+scilicet dicere: Erige caput; non est plus tempus ire, idest
+eundi, sic suspensus.  Quasi dicat: Iam ad aliud est attendendum
+et speculandum.  Et assignat rationem. 
+
+	|79-81.~  Vide illuc unum angelum, qui se apprestat,
+idest preparat festinanter, pro veniendo versus nos (idest
+oportet te ire ad purgationem, quam faciet angelus: nam angeli
+pravi in Inferno ministrant penas, boni angeli in Purgatorio
+administrant gratiam hiis, qui se disponunt ad recuperandum eam);
+vide quod revertitur, scilicet hora, a servitio d[i]ei ancilla
+sexta, scilicet sexta hora diei, que servit et facit diem.  Quasi
+dicens: Ista hora servivit tempore suo; iam venit alia ad
+serviendum. 
+
+	|82-84.~  De reverentia visum et actum orna, ita quod
+eum, scilicet delectet, inviare nos sursum, idest conducere per
+viam: cogita quod iste dies nunquam regiornat, vel rediescit,
+idest revertetur. 
+
+	|85-87.~  Ego eram bene de sua admonitione usus, idest
+consuetus, solum de non perdere tempus, ita quod [in] illa
+materia non poterat michi loqui clausum, idest obscure. 
+
+	|88-90.~  Ad nos veniebat pulchra creatura, albo induta
+(albedo denotat puritatem angelicam), et in facie qualis apparet,
+tremulando, idest scintillando, matutina stella, idest Venus, que
+est Lucifer precedens in matino solem per duas horas. 
+
+	|91-93.~  Brachia aperuit, idest angelus, et inde aperuit
+alas.  Dixit: Venite huc: sunt prope gradus, et agiliter ammodo
+ascenditur, idest de isto circulo in quo estis, ad alium, ubi
+purgatur aliud peccatum, scilicet invidia, ex quo purgatum est
+peccatum superbie, fundamentum omnium vitiorum. 
+
+	|94-96.~  Ad hanc annunciationem, idest invitationem,
+veniunt multum rari, idest pauci.  O gens humana, pro volando
+sursum nata, quare ad paucum ita cadis, idest a pauco vanto
+detineris in ascensu, idest a pompa mundana, sive a vanagloria! 
+
+	|97-99.~  Duxit nos, scilicet ubi rupes erat scissa, quia
+erat introytus ad alium circulum: ibi michi percussit cum alis
+frontem; postmodum michi permisit securum iter, vel introytum.
+Nam ibi erat, propter scissuram rupis, difficile iter. 
+
+	|100-108.~  Sicut ad manum dextram, pro ascendendo ad
+montem, ubi sedet, scilicet Sancti Miniatis, ecclesia, que
+subiugat, idest superextat, vel supereminet, bene conductam,
+scilicet Florentiam, rectam et gubernatam, supra Rubacontem,
+idest pontem super Arnum in Florentia (pro isto ternario
+intelligendo, nota quod est unus pons super Arnum in civitate
+Florentie, qui pons vocatur Rubaconte, et per illum pontem
+transitur.  Ultra illum pontem est una porta, per quam exitur et
+intratur et itur super quemdam montem, qui contiguus muro
+civitatis est.  In summitate illius montis est una pulchra
+ecclesia, intitulata Sancti Miniatis; et a porta civitatis usque
+ad ecclesiam illam sunt gradus lapidei sicut una scala, et est
+satis difficilis ascensus, ita quod illa ecclesia superest
+civitati Florentie, et scale ille, exeuntibus de civitate et
+euntibus ad ecclesiam illam, sunt ad manum dextram: loquitur hic
+auctor yronice, dum dixit bene conductam, scilicet civitatem
+Florentie, quia per antifrasim: que scale fuerunt facte tempore
+bono, quo Florentia bene regebatur sine fraudibus), rumpitur
+propter ascensum audax fuga, idest rectitudo itineris, per
+scalas, que facte fuerunt ad etatem, idest tempore etatis, qua
+erat securus quaternus et doga.  De securo quaterno dicit, qui
+tunc temporis, quando erant facte iste scale, erant mercatores
+boni et fideles, et non extrahebant aliquas cartas de quaternis
+eorum, in quibus scribuntur rationes eorum.  Sed quidam mercator
+florentinus habebat quaternos, et ad decipiendum alios extraxit
+aliquas cartas de quaterno, et hoc fuit tempore Dantis, quo multa
+mala commissa sunt in Florentia.  De doga, nota quod fit de ligno
+una mensura que vocatur sextarius, quo mensuratur frumentum et
+ligumina.  Unus officialis de Florentia, qui erat de
+Chiaramontibus, extraxit unam dogam de sextario ad vendendum cum
+minori mensura frumentum: tamen, quando hoc factum fuit, cito
+fuit scitum, et ille officialis fuit decapitatus.  Vult dicere
+auctor, quod erant meliores homines in Florentia, et melius
+regebatur ipsa civitas, quando fuerunt facte iste scale, quam
+tempore suo, idest auctoris. 
+
+	Or, modo, vult dicere auctor, quod ille scale sunt
+similes isti passui, vel ripe: Sic allentatur, idest alleviatur
+ripa, que cadit, idest per quam ascenditur, vel discenditur, ibi
+bene ratta, idest festina, sive brevis, in alium gyronem: sed
+hinc inde alta petra radit, idest sunt lapides acuti et
+inclinati. 
+
+	|109-111.~  Nos volvimus ibi nostras personas; et Beati
+pauperes spiritu, voces cantarunt ita, quod id non deceret sermo,
+idest non posset sermone explicari. 
+
+	|112-114.~  Ay, quantum sunt diverse ille voces ab
+infernalibus! quas ibi per cantus sentiebam, et ibi infra,
+scilicet Inferno, per lamenta ferocia!  Isti cantaverunt,
+applaudentes Danti purgato de vitio superbie. 
+
+	|115-117.~  Iam ascendebamus super scalas sanctas, vel
+super sanctos gradus, et esse michi apparebat, idest videbatur,
+magis levis, quam [per] planum michi apparebat, videbat[ur],
+ante. 
+
+	|118-120.~  Unde ego: Magister, scilicet dixi, dicas
+qualis res gravis elevata, idest dempta, est a me, quod nihil
+quasi per me laboris, eundo, recipitur? 
+
+	|121-126.~  Respondit: Quando alia P, que remanserunt
+adhuc in vultu tuo prope extincta, erunt, sicut iam unum in
+totum, scilicet rasum est, rasa, scilicet erunt, erunt tui pedes
+a bono velle ita vincti, quod non solum laborem non senties, sed
+erit delectatio eis sursum pingi.  Vult auctor dicere: Cum
+fuerint purgata omnia peccata mortalia, figurata per ista septem
+P, tunc delectabiliter ascendent pedes tui. 
+
+	|127-136.~  Tunc feci ego sicut illi qui vadunt cum re,
+scilicet aliqua, in capite, ab eis ignota, nisi quod signa
+aliorum suspicari faciunt, quia aliqui dicunt, vel aliquo modo
+indicant, aliquam rem esse in capite suo, et non scitur ab eis;
+propter quod manus ad accertandum se adiuvant, et querunt et
+inveniunt, et illud officium adimplent, quod non potest fulciri,
+idest adimpleri, cum visione, idest cum oculis; et cum digitis
+dextre simplicibus reperi solum sex litteras, quas incisit, idest
+inscripsit, ille de clavibus, scilicet angelus, michi super
+tympora, idest super genas; ad quod, respiciendo, meus dux
+subrisit.  In isto capitulo posita sunt exempla superborum, ut
+alii, casibus eorum, addiscant, non superbire, sed humiliari. 

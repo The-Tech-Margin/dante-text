@@ -1,0 +1,80 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.31.57;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@upload files
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh
+
+# Upload files from the Rainbow
+
+set HARDDISK=E
+set MLEXEC=mlink.exec
+set RUNMLINK="mlink -h host e $MLEXEC"
+set MLCMD=R
+set SUFFIX=e
+
+# CHARRATE is the average number of characters per minute transferred.
+@@ CHARRATE = 180 * 60
+
+echo -n 'Upload from which drive [e,a,b] - '
+set drive=$<
+if ($drive == E || $drive == e) then
+	set drive
+else
+	set drive="${drive}:"
+endif
+
+echo -n 'Cantica abbreviation in Rainbow filenames [inf,purg,para] - '
+set cantica=$<
+
+echo -n 'Commentary abbreviation in Rainbow file extensions [dan,bos,etc.] - '
+set commentary=$<
+
+if ("$1" != "") then
+	set sources=($*)
+else
+	echo -n 'Enter Rainbow file canto numbers - '
+	set sources=($<)
+endif
+
+rm -f $MLEXEC
+
+echo ""
+echo 'The following files will be uploaded...'
+foreach n ($sources)
+	set s="${drive}${cantica}$n.${commentary}"
+	echo $s "	-> " $n.$SUFFIX
+	echo "${MLCMD} $n.upload $s" >> ${MLEXEC}
+end
+
+echo ""
+echo -n 'Type y to continue - '
+if ("$<" != "y") exit
+
+$RUNMLINK
+
+foreach s (*.upload)
+	derainbow $s `basename $s .upload`.$SUFFIX
+	rm $s
+end
+
+rm -f $MLEXEC
+@

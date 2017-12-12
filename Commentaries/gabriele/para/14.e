@@ -1,0 +1,245 @@
+	|1-9.~  DAL CENTRO AL CERCHIO: fa il Poeta comparatione de l'acqua 
+che, percossa nel centro, ondeggia al cerchio, cio@e alla 
+circumferentia, cos@i come, percossa da la parte della circumferentia, 
+ondeggia al centro, a la voce di Beatrice e quella di san Tomaso; e la 
+comparatione non @e fatta senz'arte, perch@e, come vedemmo di sopra, il 
+Poeta dice che era con Beatrice quasi ponto e centro a quella danza, e 
+perci@o, fin che san Tomaso ha parlato, le parole sono andate ^dal 
+cerchio al centro~, che @e Beatrice e Dante, e ora che parler@a 
+Beatrice anderanno ^dal centro al cerchio~.  FUORI, che mand'al centro; 
+DENTRO, che manda alla circumferentia.  LA GLORIOSA VITA DI TOMASO, che 
+fu il mover di fuora;  E DI QUEL DI BEATRICE, che @e quel di dentro; 
+S@I, idest, cos@i.
+
+	|13.~  DITELI: scrivesi con un ^l~ solo perch@e ^dite~ non ha 
+l'accento ne l'ultima; ONDE: dalla quale.
+
+	|17.~  VISIBILI, idest, co' corpi nostri.
+
+	|18.~  N@OI, idest, nogli questa luce.
+
+	|20.~  CHE VANNO A ROTA, idest, che ballano a tondo.
+
+	|24.~  NEL TORNEARE, che @e in quanto agli atti che ha detto di sopra, 
+E NE LA MIRA NOTA, che risponde alla ^voce~.
+
+	|27.~  PLOIA, idest, pioggia.
+
+	|28.~  QUEL UNO, idest, la Trinit@a.
+
+	|30.~  NON CIRCUMSCRITTO, perch@e Iddio non @e contenuto in alcun 
+loco, perch@e ubique est, E TUTTO CIRCUMSCRIVE, perch@e non @e cosa 
+alcuna che non sia contenuta da Dio.
+
+	|34.~  PI@U DIA: pi@u divina.
+
+	|37.~  QUANTO FIA: risponde a quella parte della dimanda ^diteli se la 
+luce onde s'infiora vostra sustanza~ etc.
+
+	|40-42.~  LA SUA CHIAREZZA, che @e quel raggio, SEGUITA L'ARDORE, che 
+@e la carit@a che ha detto di sopra seguita l'amore; l'ardore poi 
+seguita la visione, che @e quella festa di Paradiso.  Ha detto fin qui 
+che quanto durer@a il Paradiso, tanto durer@a la sua luce, la quale 
+luce nasce da la carit@a e la carit@a nasce dal contemplar Dio, il qual 
+contemplar Dio @e tanto quanto Dio per sua gratia ne presta oltra il 
+^valor~, idest, il poter nostro.
+
+	|43.~  COME LA CARNE: ora risponde a la seconda parte della richiesta: 
+^dite come, poi che sarete visibili rifatti~ etc.
+
+	|45.~  PER ESSER TUTTA QUANTA, secondo l'oppinione d'Aristotele che 
+non vuole che l'anima sola sia integra persona.
+
+	|46.~  CI@O, che @e lo lume detto.
+
+	|47.~  DI GRATUITO LUME, che @e quel che disse ^quant'ha di gratia 
+sovra suo valore~.
+
+	|48-49.~  LUME: bellissima ripigliatione; NE CONDITIONA: ne fa 
+ch'abbia conditione e modo, ONDE LA VISION CRESCER, che @e quel che 
+disse ^la vision~ di sopra;
+
+	|50.~  CRESCER L'ARDORE, che @e quello ^seguita l'ardore~, CHE DI 
+QUELLA, visione;
+
+	|51.~  CRESCER LO RAGGIO, che @e quello ^s@i ragger@a d'intorno cotal 
+vesta~, CHE DA ESSO, ^cio@e ardore~; e nota che non solo ha ripigliato 
+quelle tre cose, ma ha ripigliato con uno istesso modo, ripigliando tre 
+volte questa voce ^crescer~.
+
+	|53.~  VIVO CANDOR, chiama quel color rosso che ha il carbon quando @e 
+acceso.
+
+	|54.~  PARVENZA, idest, apparenza.
+
+	|56.~  FIA VINTO: non che il corpo abbia ad aver maggior luce, ma per 
+lo color si veder@a per lo lume chiaro.
+
+	|57.~  CHE, la qual carne, TUTTO DE LA TERRA, et esprime pi@u che 
+s'avesse detto <tutta la terra>, RICOPERCHIA, et @e vero: tanti sono i 
+corpi morti, i quali non si mettano nel centro de la terra ma di sopra 
+nella superficie, che chi bene imagina, coverchia tutta la terra; e ha 
+risposto finora come saranno visibili tra quella luce, che ora non sono.
+
+	|58.~  N@E POTR@A TANTA LUCE: ora vien a rispondere a quello che era 
+stato dimandato ^esser potr@a ch'al veder non vi n@oi~; AFFATICARNE, 
+idest, darne fatica e noia.
+
+	|59.~  GLI ORGANI DEL CORPO, che sono onde i sentimenti vengano: occhi 
+etc.
+
+	|62.~  A DICER AMME, che vuol dir <cos@i sia>, cio@e che tosto 
+ripigliam i nostri corpi.
+
+	|64.~  FORSE: risponde ad una tacita obiettion.
+
+	|66.~  ANZI, idest, prius, idest, che gli furon ^padri~ etc., mentre 
+che furono in vita.
+
+	|69.~  CHE RISCHIARI, per lo venir del d@i.
+
+	|70.~  E S@I COME AL SALIR, perch@e pare che la notte salisca da terra 
+al cielo e tutto lo inscurisce; simile locutione, ma per lo contrario, 
+cio@e del venir del d@i, fece il nostro Petrarca: <Quando vede dal ciel 
+scender l'aurora>, che par che venga dal ciel a illuminar la terra, che 
+col suo ascendere al cielo avea oscurato la sera.
+	|71.~  NOVE PARVENZE, idest, stelle, che non si veggono il d@i.
+
+	|72.~  S@I CHE LA COSA PARE E NON PAR VERA, perch@e per lo vicino lume 
+del sole, che di poco @e tramontato, vien offuscato il lume delle 
+stelle, ma quanto pi@u che il sole va verso l'altro emispero e la notte 
+va montando, le stelle pi@u ripigliano de l'usata e propria sua luce e 
+si vedono meglio.
+
+	|76.~  DAL SANTO SPIRO, idest, dal Spirito Santo.
+
+	|80.~  CHE TRA L'ALTRE VEDUTE, idest, tra l'altre cose ch'io vidi.
+
+	|81.~  CHE, le quali, NON SEGUIR LA MENTE, idest, fur tanto grandi che 
+la mente non fu sufficiente a raccordarsene: vuol dir che la vide tanto 
+bella e ridente, che non ha memoria da poter dir quanto era.
+
+	|82.~  QUINDI, da quest'occhi.
+
+	|83.~  TRANSLATO, @e verbo tutto latino, ma usollo il Bembo nostro in 
+un suo sonetto ancora.
+
+	|86.~  AFFOCATO, che @e proprio color di Marte.
+
+	|87.~  PI@U ROGGIO, idest, pi@u rosso.
+
+	|88-89.~  CON TUTTO IL CORE: in tutti i cieli ha descritto che 
+ringrati@o Dio, ma diversamente l'un da l'altro; E CON QUELLA FAVELLA 
+CH'@E UNA IN TUTTI: per circumlocutione descrive la mente.  Il pane 
+nella mente @e quello stesso al tedesco che al franzese e a l'italiano, 
+e perci@o dice ^con quella favella ch'@e una in tutti~; ma quando 
+venimo alla espressione, ad altro modo il chiamer@a l'italiano e ad 
+altro il franzese e cos@i il tedesco e gli altri.  OLOCAUSTO, vuol dir 
+`ardor di sacrificio' e, avendo il Poeta nostro detto una voce cos@i 
+pellegrina, la volse subito dechiarare, dicendo ^non era ancora del mio 
+petto exausto l'ardor del sacrificio~, la qual cosa @e artificiosa e 
+fatta con somma prudentia; e cos@i fa in quest'altra voce ^litare~, che 
+vuol dir `far sacrificio grato', e perci@o ha detto ^sacrificio~ e dice 
+^accetto~ e ^fausto~.
+
+	|94.~  UCORE, idest, chiarore; TANTO ROBBI, idest, rossi.
+
+	|96.~  ELIOS, in ebreo vol dir `Deus'; ADDOBBI, idest, orni.
+
+	|97.~  COME DISTINTA: descrive la Via Lattea, che dai greci fu 
+chiamata Galaxia, e la cagione d'essa secondo Aristotele.
+
+	|99.~  CHE FA DUBBIAR BEN SAGGI, et adhuc sub iudice hic est, di 
+conoscer che cosa sia.
+
+	|101-102.~  IL VENERABIL SEGNO, che @e la croce, CHE, idest, il qual 
+segno; GIUNTURE DI QUADRANTI IN TONDO, perch@e, se tu vuoi dividere un 
+tondo in un quadrante, bisogna che tu tiri una croce dentro da quel 
+tondo.
+
+	|104.~  CHE 'N QUELLA CROCE.  Si vuol dichiarar il Poeta quello che 
+'ntende per quello ^venerabil segno~, n@e @e inconveniente che ponga in 
+questo cielo di Marte aver veduto la croce, perch@e qui saranno quelli 
+c'hanno militato per la fede di Cristo, e tutti li militi si coprivano, 
+come oggid@i s'usa, di croce e perci@o i cavaglieri portano la croce.
+
+	|106.~  MA CHI PRENDE SUA CROCE E SEGUE CRISTO, idest, ma colui che 
+col martirio si fa simile a Cristo e viene in questo cielo, quando 
+vedr@a quel ch'io non posso essemplificar, mi escusar@a s'io non lo 
+esprimo.
+
+	|108.~  CRISTO: nota c'ha posto tre volte in una stessa rima ^Cristo~, 
+il che fece ancor nel canto XII di questa cantica con sommo artificio, 
+perch@e, s@i come si mette generalmente una parola una volta in una 
+stessa rima, il ponerla due sarebbe vitioso, il ponerla tre, perch@e @e 
+molto difficile, @e bello e lodevole, e di ci@o altrove ne l'^Inferno~ 
+ne ragionammo.  Il Petrarca nel sonetto ^Quand'io son tutto volto in 
+quella parte~ pigli@o anch'egli cinque rime d'una stessa voce ma in 
+diversa significatione, e us@o nella rima delli quadernarii <parte> e 
+<luce> continuamente per tutti gli otto versi ma in diversa 
+significatione l'una da l'altra, e cos@i ne' terzetti <morte>, <desio> 
+e <sole>, il che, per esser molto difficile a fare, tanto pi@u di 
+vaghezza @e l'usarlo alcuna volta, ma di rado, quanto l'opera @e pi@u 
+grande.
+
+	|109.~  DI CORNO IN CORNO: chiama <corni> quelle due ponte della linea 
+della croce, che va per traverso; TRA LA CIMA E 'L BASSO, che fa le due 
+punte de la linea, che va per longo, della croce.
+
+	|112~.  DIRITTE E TORTE, che risponde a quello che ha detto ^di corno 
+in corno e tra la cima e 'l basso~.
+
+	|113.~  VELOCI E TARDE, che risponde a quella parte ^nel congiungersi 
+insieme e nel trapasso~.
+
+	|114.~  LE MINUTIE DE' CORPI: @e pi@u che s'avesse detto <i 
+minutissimi corpi>, et @e discrittion degli attomi; LUNGHE E CORTE, 
+perch@e cos@i @e: chi guarda ne la spera del sole, che viene entro per 
+alcuna fenestra, vedr@a che sono alcuni longhi e alcuni corti.
+
+	|115.~  ONDE SI LISTA, perch@e l'ombra che rende l'altra parte dal 
+loco ove percote il raggio del sole, fa di quella percossa, secondo che 
+viene entro il raggio, quasi una lista.
+
+	|116.~  L'OMBRA, idest, la casa che fa l'ombra, e descrive la casa per 
+circumlocutione in questi pochi versi.
+
+	|118.~  GIGA E ARPA, son instrumenti musici.
+
+	|120.~  A TAL DA CUI, idest, che sente ben la dolceza del suono, ma 
+non intende l'artificio di quello.
+
+	|122-123.~  MELODE, idest, melodia, CHE MI RAPIVA SENZA INTENDER 
+L'INNO, che @e quello che avea detto ^a tal da cui~ etc.
+
+	|125.~  RISURGI E VINCI: sono parole che si cantano a Cristo.
+
+	|126.~  CHE NON INTENDE, idest, il senso, MA ODE, la voce.
+
+	|129.~  VINCI, idest, vinculi.
+
+	|130.~  TROPP'OSA, dicendo ^ch'infin a l@i non fu cosa nessuna~.
+
+	|131.~  DEGLI OCCHI BELLI, cio@e di Beatrice.
+
+	|132.~  HA POSA, idest, ha riposo.
+
+	|133-135.~  VIVI SUGGELLI, chiama gli occhi di Beatrice, D'OGNI 
+BELLEZZA etc.: vuol dire il nostro Poeta in questo terzetto che chi 
+s'aveder@a che, quanto andava pi@u Beatrice in su, per approssimarsi 
+pi@u a Dio, si faceva negli occhi pi@u lucente; e chi s'aveder@a che 
+dapoi ch'io cominciai a veder il cielo di Marte, non avea ancor veduti 
+gli occhi di Beatrice, conoscer@a ch'io dico che @e vero che non avea 
+ancor veduta cosa che pi@u mi piacesse, perch@e era maggior piacer il 
+veder e il sentir il canto e la luce del cielo di Marte, per esser pi@u 
+vicin a Dio, che non era quell[o] di Beatrice nel cielo di Giove, per 
+esser pi@u lontan da Dio.  Che 'l Poeta non avesse veduti gli occhi di 
+Beatrice ancor, dapoi che era nel ciel di Marte, n'el d@a a veder ove 
+dice di sopra che s'accorse d'esser asceso per lo lume della stella, e 
+nel seguente canto dirr@a che, quando gli vidde, gli parve di esser 
+giunto dove potea mai andare.
+
+	|136-137.~  EXCUSAR... ACCUSO... ISCUSARMI: @e bella figura il poner 
+cos@i una parola tre volte, ma che operi.
+
+	|138.~  PIACER SANTO, che @e degli occhi di Beatrice.

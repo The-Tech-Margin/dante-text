@@ -1,0 +1,54 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.19.58;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@KDEM file processing
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh 
+
+# accept a file from Dartmouth's KDEM via the Kiewit network
+#
+#	Usage: kdemload file ...
+#
+#	The script accepts an infinite number of filenames as argument,
+#	and catenates input into each file sequentially
+#
+
+if test $# -eq 0
+then
+	echo "Usage: kdemload file ..."
+	exit 1
+fi
+
+umask 022
+stty tandem -echo decctlq
+for INPUT
+do
+	FILE=$INPUT
+	if test -f $FILE
+	then
+		echo $FILE being overwritten >> kdem.log
+	fi
+	cat - | tr '\134' '\176' > $FILE
+	ls -l $FILE >> kdem.log
+done
+stty -tandem echo
+echo upload complete `date` >> kdem.log
+@

@@ -1,0 +1,22 @@
+--
+-- The SQL*Loader control file for loading a commentary desc[ription] file into
+-- the database.
+--
+OPTIONS (SILENT=FEEDBACK)
+LOAD DATA
+  CHARACTERSET 'WE8ISO8859P1'
+  APPEND
+  CONTINUEIF LAST <> '#'
+  INTO TABLE ddp_comm_tab
+  FIELDS TERMINATED BY ',' ENCLOSED BY '"'
+  (
+  comm_id		CHAR,
+  comm_name		CHAR,
+  comm_author		CHAR,
+  comm_lang		CHAR,
+  comm_pub_year		CHAR,
+  comm_biblio		CHAR (4000),
+  comm_editor		CHAR,
+  comm_copyright	CHAR,
+  comm_data_entry	CHAR (4000)
+  )

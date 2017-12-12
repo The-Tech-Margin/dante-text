@@ -1,0 +1,329 @@
+{GSRCH_H}
+
+:SET #HEADING ~\cDDP\t\t\t\t\o2Search Help\f2\n~
+:SET #PPROMPT ~Enter \o2Q\f2 to Quit help [Continue]: ~
+
+:PRINT ~#HEADING
+     The  preceding  main  search  selection screen presents a number of
+     possible options:
+
+     * enter a search statement to retrieve every document that contains
+       the specified term(s);
+
+     * enter L to perform a line search for a particular cantica, canto,
+       and line reference;
+
+     * enter  a number between one (1) and the maximum outstanding query
+       to  automatically  select  that  result set for display (a number
+       greater   that  the  maximum  outstanding  query  is  an  invalid
+       selection);
+
+     * enter  a  valid  single-letter option to select the corresponding
+       function (e.g.: "X" to see the Special Functions Menu);
+
+     * strike the RETURN key to display the menu of available options.\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     A valid search statement can range in complexity from a single word
+     (or  "term")  to  a  series  of  words  connected  by  "operators."
+     Operators are either Boolean (AND, OR, NOT, XOR), Positional (SAME,
+     WITH,  NEAR,  ADJ),  or Relational (<, >, =, !=).  Special features
+     (pattern matching, paragraph qualification, and numeric operations)
+     can also be employed within search statements.
+
+     To  search  for every document containing a particular word, simply
+     enter  that  word  at  the search prompt.  For example, to find all
+     documents containing the word "SINGLE":\n
+	  1_: single
+
+	Results are:
+	  1_: SINGLE                                     37 document(s)
+
+     Result  set  number  1  is created.  The result statement indicates
+     that  there  are  37  documents,  or  records,  containing the word
+     "single."\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     A  line  search lets  you search  for all  references  to a specified
+     cantica (Inferno,  Purgatorio,  or Paradiso),  canto, and line number.
+     You can also limit the search to commentaries of a specified language.
+
+     For each  of these items  you can specify a value  or you can specify
+     that  any value  is acceptable.  Language  and  cantica names  can be
+     abbreviated.  Here is an example  of a line search for all references
+     in Italian commentaries to any line of Inferno 5:
+
+Commentary language: Italian, Latin, English, Any or S to Search [Any]: Ital
+Cantica: Inferno, Purgatorio, Paradiso, Any or S to Search [Any]: Inferno
+Canto number (1-34), Any or S to Search [Any]: 5
+Line number (1-160), Any or S to Search [Any]: 
+
+Results are:
+  1_: ((ITALIAN[LANG]) & (INFERNO[CTCA])) & ("5"[CNTO])      1026 document(s)\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     After  several  lines,  or  words,  have been searched and assigned
+     result  set numbers, these numbers may be combined using Boolean or
+     Positional  operators  to  improve the accuracy of the search.  For
+     example, given the following result sets:\n
+	  1_: SINGLE                                     37 document(s)
+	  2_: ROOMS                                     173 document(s)
+
+     then entering the search statement:\n
+	  3_: 1 and 2
+
+	Results are:
+	  3_: 1 AND 2                                    20 document(s)
+
+     creates  a  result set representing all the documents which contain
+     both the words SINGLE and ROOMS.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     The  operator  AND  used in the previous search statement instructs
+     the  system  to  perform a Boolean AND between result sets 1 and 2.
+     Any of the Boolean operators can be used to combine previous search
+     results  and  thereby  refine  the  search.  For example, using the
+     exist- ing result sets 1 and 2:
+
+     1 AND 2
+        Retrieves all documents in which both SINGLE and ROOMS occur.\n
+     1 OR 2
+        Retrieves all documents in which either SINGLE or ROOMS occur.\n
+     1 NOT 2
+        Retrieves  all  documents  in  which the term SINGLE occurs, but
+        ROOM does not occur.\n
+     1 XOR 2
+        Retrieves  all documents in which either SINGLE or ROOM (but not
+        both terms) occur.\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     Positional  operators  create  result  sets  based  on the relative
+     position  of  search  terms.   This  enables you to achieve greater
+     retrieval  precision than is possible with Boolean operators alone.
+     For example, take the two terms CIVIL and WAR:
+
+     CIVIL ADJ WAR
+        Retrieves  all  documents  in  which  the  word  WAR immediately
+        follows the word CIVIL.\n
+     CIVIL NEAR WAR
+        Retrieves  all  documents in which the words CIVIL and WAR occur
+        next to each other, but in either order.\n
+     CIVIL WITH WAR
+        Retrieves  all  documents in which the words CIVIL and WAR occur
+        within the same sentence.\n
+     CIVIL SAME WAR
+        Retrieves  all  documents in which the words CIVIL and WAR occur
+        in the same paragraph (or subparagraph).\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     Note  that  query set numbers can be used to represent the contents
+     of that result set. In the following example, set 3 includes all of
+     the documents pertaining to the "civil war":\n
+	  3_: CIVIL ADJ WAR                              17 document(s)
+
+     Result  set 3 can now be used to designate the term CIVIL WAR.  The
+     following search statements are identical:\n
+	  4_: HISTORY AND 3
+	  4_: HISTORY AND CIVIL ADJ WAR
+
+     However, the following search is invalid:\n
+	  7_: HISTORY AND WAR
+	  8_: CIVIL ADJ 7
+
+     Having first required that the words HISTORY and WAR occur anywhere
+     within  the  same  record,  it  is  illogical  to then specify that
+     another term be "adjacent" to result set 7.\n~
+     
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     However, the preceding search statement could be entered as:
+
+	 1_: CIVIL ADJ (HISTORY AND WAR)
+
+     (The  parentheses  directs  the system to perform the AND operation
+     before  the ADJ operation.)  The actual processing executed in this
+     case is:
+
+	 1_: CIVIL ADJ HISTORY AND CIVIL ADJ WAR
+
+     because  the  system  has  reorganized  the search statement into a
+     logical  sequence.   If  the  system  cannot  interpret  a  logical
+     processing  order,  an  error  message  will  point out the invalid
+     operation; you can then re-enter a new search statement.
+
+     More  information  regarding  parentheses  and  order of processing
+     operators will be presented later.
+
+     The  following  combinations  are invalid and will produce an error
+     result:\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+        ADJ  applied  to  a result set containing a WITH, SAME, AND, NOT,
+        XOR, or OR operator.
+
+        NEAR  applied  to a result set containing a WITH, SAME, AND, NOT,
+        XOR, or OR operator.
+
+        WITH applied to a result set containing a SAME, AND, NOT, XOR, or
+        OR operator.
+
+        SAME  applied  to a result set containing an AND, NOT, XOR, or OR
+        operator.
+
+     For example, the statements:\n
+	  1_: HISTORY AND WAR
+	  2_: CIVIL ADJ 1
+     
+     produces the error "INVALID MIXING OF OPERATOR LEVELS"\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     There  are  a  number of special features that enable you to refine
+     search  strategies  even  further.   The first of these is known as
+     "paragraph  qualification."  This allows you to restrict any search
+     to  a  specific  paragraph  or group of paragraphs.  Suppose that a
+     database  of  memorandums  contains documents that are divided into
+     the following paragraphs:
+
+		TO, FROM, DATE, RE, TEXT, CC
+
+     To  find  any  document  mentioning  the  person named SAMUELS, the
+     following search would suffice:\n
+	  1_: SAMUELS                                    48 document(s)
+
+     The  48  document  result  set contains all the documents where the
+     word SAMUELS appears.\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     SAMUELS  may appear any place in those documents.  However, you may
+     wish  to  qualify  the  search  to retrieve only the memos that are
+     actually  addressed  to  Mr/Ms  Samuels.   This  is accomplished by
+     restricting the search to the TO paragraph:
+
+	  1_: SAMUELS[TO]                                26 document(s)
+
+     This  means, "SAMUELS only in the TO paragraph."  You may also wish
+     to find memos that were carbon copied to Mr/Ms Samuels:
+
+	  2_: SAMUELS[CC]                                11 document(s)
+	  3_: 1 OR 2                                     37 document(s)\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     or, much more efficiently:
+
+	  1_: SAMUELS[TO,CC]                             37 document(s)
+
+     You  may specify any number of valid paragraph labels (field names)
+     within  the square brackets.  The minus sign (hyphen) preceding the
+     paragraph  name  can also be used for "negative" paragraph qualifi-
+     cation:
+
+	  1_: SAMUELS[-FROM,TEXT,DATE]
+
+     which  means "SAMUELS everywhere except in the FROM, TEXT, and DATE
+     paragraphs."\n~
+
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     The  second special feature, called "pattern matching", permits you
+     to  retrieve keywords (search terms) with common character strings.
+     This  simplifies  the retrieval of plural and alternate word forms,
+     and eliminates the need for repeated entry of similar words.
+
+     The special pattern match operators are:
+
+		     	$		     ?
+
+     where  a dollar-sign ($) represents any number of characters, and a
+     question-mark (?) represents a single character.
+
+     For  example,  the  term  REPORT$  would  match  the  words REPORT,
+     REPORTS, REPORTING, REPORTED, etc.
+
+     The term WOM?N would match the words WOMAN or WOMEN.\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     You may  place  a  character  restriction  on  pattern  matching by
+     appending  ing  a number to the dollar sign.  For example, the term
+     REPORT$2  would  match  the  words  REPORT,  REPORTS, and REPORTED,
+     whereas  REPORT?   would match only REPORTS  (the word REPORT would
+     not  be  matched  since  the  question mark requires one additional
+     character).
+
+     Pattern  matching is also valid at the beginning of any word (e.g.:
+     $THERAPY),  but  this  may  take  a  long time to execute on larger
+     databases.
+
+     Note  that  if  more  that  100  words are matched, an overflow may
+     occur.  The  remaining  words  (or  the  next  set  of  100) may be
+     retrieved by entering a plus sign (+) at the next prompt.\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     Any  number of keywords (search terms) and linking operators can be
+     combined in a single search statement.  For example, in the search:\n
+	  2_: HISTORY AND CIVIL ADJ WAR
+
+     the  ADJ  operation  is  performed  before  the AND operation.   In
+     general,  the  most  specific  operators are executed first, in the
+     following hierarchy:
+
+                           ADJ, NEAR
+                           WITH
+                           SAME
+                           AND, NOT
+                           XOR
+                           OR
+
+     Parentheses may be used to override this hierarchy.  For example:\n
+	  5_: (INFORMATION OR DATA) SAME RETRIEVAL\n~
+	  
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     Whenever  several  operators  are  used,  the  system automatically
+     re-orders the search terms for optimal processing efficiency.   The
+     system then ECHOS the actual search logic.  For example, entering:
+
+	  3_: banks and investment adj services
+
+     may be shown as:
+
+	Results are:
+	  3_: (INVESTMENT ADJ SERVICES) AND BANKS     49 document(s)\n~
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING\n\n\n\n\n\n\n
+      More  information  regarding  searching syntax and capabilities is
+      available  in  the  BRS/SEARCH  Micro/Mini  Version  User's Guide,
+      Chapters 2 through 5.
+\n\n\n\n\n\n\n\n\n\n~
+
+:GET @TMP ~\n#PAUSEMSG~
+:SET #PPROMPT ~~
+
+:RETURN

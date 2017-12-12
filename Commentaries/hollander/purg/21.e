@@ -1,0 +1,611 @@
+	|1.~  From at least the time of Tommaseo (comm. to vv. 1-3), 
+commentators dealing with this opening verse have cited the opening 
+(and other passages) of Dante's ^Convivio~ (I.i.1): 'As the Philosopher 
+[Aristotle] says in the beginning of the First Philosophy 
+[^Metaphysics~ I.i], all of humankind naturally desires to know.'  
+Bosco/Reggio (comm. to vv. 1-6), however, make an important 
+distinction.  Since here the protagonist is presented with a miracle, 
+the moment in which a soul is finally prepared to rise to God, the 
+following reference (vv. 2-3) to the waters of eternal life in the 
+episode in John's gospel 'confirms the notion that the natural desire 
+for knowledge cannot be satisfied except by Revelation, thus going 
+beyond the affirmations found in ^Convivio~ (I.i.1; I.i.9; III.xv.4) 
+normally cited by the commentators, which are limited to philosophical 
+knowledge.'  It is interesting to note that Pietro di Dante (Pietro1, 
+comm. to vv. 1-3) cites the beginning of Aristotle's ^Metaphysics~ to 
+make a highly similar point, separating Aristotelian ^scientia mundana~ 
+(knowledge of this world) from experience of ^divina gratia~ (divine 
+grace).  On the distance between the formulations found in ^Convivio~ 
+and those presented here, see also Hollander (^Allegory in Dante's 
+"Commedia"~ [Princeton: Princeton University Press, 1969]), pp. 68-69.
+
+	|2-3.~  The obvious reference to the passage in John's gospel (4:5-15) 
+has not escaped many readers.  The Samaritan woman who finds Jesus, 
+unprepared for the task of drawing water, at her well, ends up being 
+eager to taste the 'water' that he offers as replacement for that which 
+seems so necessary at noon of a warm day in the desert, for it 'fiet in 
+eo fons aquae ^salientis~ in vitam aeternam' ([italics added] shall 
+become in him a fountain of water springing up into life everlasting).  
+In the Vulgate the present participle ^salientis~ may refer to the 
+water or indeed to the drinker, rising up into eternal life.  It is 
+worth keeping this potential grammatical ambiguity in mind, for that 
+second reading applies precisely to the condition of Statius, who has 
+just now come to that moment in his posthumous existence: he is ready 
+to take on the life of a soul in paradise; he himself is ready to 
+^salire~ (rise up).
+
+	Strangely enough, there is dispute among the commentators as to the 
+metaphoric nature of the water offered by Jesus.  For the first quarter 
+millennium all who dealt with this question offered the obvious 
+interpretation: divine grace.  Then in the nineteenth century, 
+beginning with Portirelli (comm. to vv. 1-6), some interpreters were of 
+the opinion that the water referred either to human knowledge of God or 
+to that knowledge possessed alone by God.  Another group, the first of 
+them Tommaseo (comm. to vv. 1-3), thought that it signified 'truth,' 
+although exactly which kind varied, from Porena's (comm. to vv. 1-6) 
+sense that for Dante it meant truth in general to Giacalone's (comm. to 
+vv. 1-6) view that it means the truth found in Revelation alone.  
+Surely the early commentators were correct.  The water that the 
+Samaritan woman asks for is that of eternal life, which comes alone 
+from the grace of God.
+
+	As some commentators have pointed out, John's word for the Samaritan 
+is ^mulier~ (woman), while Dante has used a diminutive (^femminetta~).  
+Giacalone (comm. to vv. 1-6) thinks of the form more as a 
+'commiserative' than as a 'diminutive,' i.e., we are to think of this 
+woman's absolute ordinariness as an encouragement to our own need for 
+exactly such satisfaction of our 'thirst.'
+
+	|4-6.~  Dante has rarely portrayed his protagonist as being beset by 
+so many distractions.  He desperately wants to understand the meaning 
+both of the earthquake and of the song accompanying it; he and Virgil 
+are trying to move ahead as quickly as possible, picking their way 
+among the clutter of the penitents; he continues to feel a sense of 
+grief at their punishment, despite its obvious rightness.
+
+	|7-9.~  Announced with its solemn biblical stylistic flourish (^Ed 
+ecco~ [And lo]), the reminiscence of Luke 24:13-16 (a passage that 
+begins 'Et ecce') reminds the reader of two of Christ's disciples 
+(Dante's first commentators at times incorrectly identify them as James 
+and John; it is clear that one of the two is named Cleopas [24:18], 
+while the other is perhaps his wife [24:29], in which case she may well 
+have been known as Mary [John 19:25]), walking on the road to Emmaus 
+when Christ joined them and walked with them, unrecognized.
+
+	|10-14.~  Statius's unmistakable resemblance to Christ risen, his 
+figural relation to Jesus, makes him, technically, not a 'figure' of 
+Christ but a 'fulfillment' of Him, which is theologically awkward.  
+Hollander (^Allegory in Dante's "Commedia"~ [Princeton: Princeton 
+University Press, 1969]), pp. 67-70, argues for the technical reference 
+of the word ^ombra~ (shade) here, grounded in the language of the 
+Christian interpretation of Scripture, discovered, indeed, in this very 
+chapter of Luke's gospel (24:27), when Jesus teaches his disciples the 
+figural method of understanding the Old Testament.  (See Heilbronn 
+["The Prophetic Role of Statius in Dante's ^Purgatory~," ^Dante 
+Studies~ 95 [1977], p. 58, for a similar view.)
+
+	How, some commentators have asked, perhaps beginning with Manfredi 
+Porena (comm. to vv. 7-13), could Dante and Virgil ^see~ that Statius 
+was behind them?  They could not.  Now, narrating the scene, the poet, 
+knowing that Statius came up from behind, says that he did so.  They 
+first became aware of him when he spoke -- at which point, as the text 
+says, they turned around.  As the risen Christ walked along beside 
+Cleopas and his wife, who did not recognize him, so does the 
+'resurrected' Statius walk up behind Dante and Virgil, who do not at 
+first know that he is there.  In both scenes it is also true that 'the 
+two who were on the way' do not know with whom they converse until much 
+later (see Luke 24:35, when they break bread with their 'new' 
+acquaintance in their home; ^Purg~. XXI.91, when this soul's identity 
+is finally made plain).
+
+	Another problem here is caused by the grammatical ambiguity of the 
+phrase 'guardando la turba che giace': who is doing the looking, 
+Statius or Dante and Virgil?  Grammatically both are possible.  Both 
+proximity and common sense move a reader to the latter possibility: 
+Dante and Virgil, the 'noi' that is closer to the gerund than Statius's 
+'ombra,' are looking down at the shades, as we know (from ^Purg~. 
+XX.143, where they are also 'guardando'; XXI.6).  Statius, having just 
+come from lying prostrate, is more likely to be looking ahead and 
+above, where he is finally allowed to direct himself.
+
+	For the present tense of the verb ^giace~, problematic in whatever 
+solution one proposes for the last question, see the note to vv. 22-24.
+
+	Statius's first words join him to the tradition of fraternal 
+purgatorial greeting on the part of the penitents we have so far heard 
+addressing Dante: Belacqua (^Purg~. IV.127); Oderisi (^Purg~. XI.82); 
+Sapia (^Purg~. XIII.94); Marco (^Purg~. XVI.65); Adrian (^Purg~. 
+XIX.133).  See notes to ^Purg~. IV.127 and ^Purg~. XIX.133.  For a 
+complete listing of all uses of 'frate' as form of address in the last 
+two ^cantiche~, see the note to ^Purg~. IV.127.
+
+	Singleton's dependence on Sinclair's translation of this passage is 
+betrayed by his comment (comm. to vv. 10-13), which has Statius looking 
+at the crowd of penitents at ^his~ feet, while the translation has 
+Dante and Virgil doing the looking.
+
+	For the source of Statius's greeting, see the words of Christ to his 
+apostles, the second scene of his resurrected life on earth in Luke's 
+gospel (Luke 24:36): 'Pax vobis: ego sum, nolite timere' (Peace unto 
+you: I am, have no fear).  In the next verse of Luke the apostles 
+indeed do show fear; and we may remember how fearful Dante was when the 
+earth shook beneath him at the end of the last canto (vv. 128-129; 
+135).  William Stephany ("Biblical Allusions to Conversion in 
+^Purgatorio~ XXI," ^Stanford Italian Review~ 3 [1983]), pp. 161-62, 
+sees a connection with biblical moments (in the narratives involving 
+Cleopas and the Samaritan woman) in which 'characters are frightened 
+either by Jesus' birth or rebirth.'
+
+	|14-15.~  The nature of the ^cenno~ (sign) made in response by Virgil 
+has long puzzled the commentators.  We can say one thing with something 
+like certainty: Virgil's gesture is not a spoken one, since he makes 
+some sort of gesture and ^then~ begins to speak (verse 16).  Many early 
+and some later commentators have liked the idea that in response Virgil 
+said 'et cum spiritu tuo' (and with your spirit as well), a liturgical 
+reply.  Yet it surely seems impossible that Dante would have first 
+presented Virgil as speaking and then immediately afterwards as 
+^beginning to speak~.  And so it is clearly preferable to understand 
+that Virgil made some sort of physical gesture.  Perhaps the most 
+sensible gloss remains that of Benvenuto (comm. to vv. 14-18): 'with 
+similar reverence [Virgil] lowered his head to him.'  Previously Dante 
+has clearly distinguished among ^parole~, ^mani~, and ^cenni~ (words, 
+[actions of] hands, and signs) at ^Purgatorio~ I.50; and he will 
+distinguish between ^dir~ and ^cenno~ (speech and sign) at ^Purgatorio~ 
+XXVII.139.  In fact, in the fifteen uses of the word ^cenno~ in the 
+poem, this would be the only one in which it referred to speech, as 
+Steiner (comm. to verse 15) points out, adding that Virgil, as a pagan 
+inhabitant of Limbo, is never permitted either to pronounce sacred 
+phrases or to perform actions pertaining to Christian ritual (e.g., 
+genuflexion).  The word ^cenno~ appears frequently in the poem (^Inf.~ 
+III.117, ^Inf.~ IV.98, ^Inf.~ VIII.5, ^Inf.~ XVI.116, ^Inf.~ XXI.138, 
+^Inf.~ XXII.8, ^Purg.~ I.50, ^Purg.~ VI.141, ^Purg.~ XII.129, ^Purg.~ 
+XIX.86, here, ^Purg.~ XXII.27, ^Purg.~ XXVII.139; ^Par.~ XV.71, ^Par.~ 
+XXII.101).
+
+	For the ingenious but perhaps not eventually acceptable notion that 
+Virgil's ^cenno~ 'may very well be an embrace, a gesture analogous to 
+the liturgical Kiss of Peace' see Heilbronn ("The Prophetic Role of 
+Statius in Dante's ^Purgatory~," ^Dante Studies~ 95 [1977]), pp. 58-65. 
+ Had Virgil been a Christian, Dante might very well have chosen to make 
+Heilbronn right.  However, see James Albrecht ("'Il cenno ch'a ci@o 
+si conface' [^Purgatorio~ 21.15]," ^Electronic Bulletin of the Dante 
+Society of America~ [February 2002]), who argues that Virgil's gesture 
+is the sign of the cross, offered without the accompanying response to 
+the hopeful wish 'Dominus det nobis suam pacem' (May God grant us His 
+peace) found in breviaries and in the liturgy of the hours: 'Et vitam 
+eternam' (And eternal life); in Albrecht's view it is what Virgil ^did 
+not say~ that is focal to the scene.  (For clear examples of facial 
+gestures as ^cenni~ in this very canto, see verse 104, Virgil's look 
+that calls for silence and verse 109, Dante's smile that is a hint.)
+
+	|16-18.~  Virgil's wish for Statius is touching, in part because it 
+has been accomplished, since Statius is already substantially one of 
+the blessed, only awaiting a change in his accidental state, which will 
+be accomplished in less than a day.  While the poem does not show him 
+there, its givens make it plain that, had Dante chosen to do so, 
+Statius could have been observed seated in the rose in ^Paradiso~ 
+XXXII; he is there by the time Dante ascends into the heavens at the 
+beginning of the next ^cantica~, or so we may assume.
+
+	Virgil's insistence on his own eternal home is a moving reminder of 
+his tragic situation in this comic poem.  Statius's salvation comes 
+closer than anyone else's in showing how near Virgil himself came to 
+eternal blessedness, as the next canto will make clear.  And, once we 
+learn (^Purg~. XXII.67-73) that it was Virgil who was responsible, by 
+means of his fourth ^Eclogue~, for the conversion of Statius, we 
+consider these lines with a still more troubled heart.  For remarks in 
+a similar vein see Stephany ("Biblical Allusions to Conversion in 
+^Purgatorio~ XXI," ^Stanford Italian Review~ 3 [1983]), p. 158n.
+
+	|19-21.~  For Statius's miscomprehension of Dante's condition, see the 
+note to the next tercet.  The physical reason for it is that, because 
+the travelers are out of the sun's rays on the far side of the 
+mountain, Dante's body casts no revealing shadow, and Statius takes 
+Virgil's confession of his own plight to apply to both of these 
+'shades.'
+
+	|19.~  For ^parte~ used here and in ^Inferno~ XXIX.16 as an adverb, a 
+Florentine provincialism, meaning 'meanwhile,' see Moore 
+(^Contributions to the Textual Criticism of the "Divina Commedia"~ 
+[Cambridge: Cambridge University Press, 1889]), pp. 398-99, citing 
+Benvenuto as previously making the same point in both instances.
+
+	|22-24.~  Virgil's remarks suggest to Statius that the (remaining 
+three) P's on Dante's forehead indicate a special status, namely that 
+he is bound for Glory -- just as is Statius.  But did Statius have 
+these marks incised on ^his~ forehead?  Had he, they would now all be 
+erased but for this last, which would probably disappear, along with 
+Dante's, before the beginning of the next canto (see ^Purg~. XXII.3, 
+where we learn the angel has wiped Dante's fifth P from his brow).  He 
+would have spent, we will be able to compute from information gleaned 
+from verse 68 and from ^Purgatorio~ XXII.92-93, as many as 300 years in 
+ante-purgatory and/or on some or all of the first three terraces, since 
+it is 1204 years since his death in the year 96 and he has had to 
+remain over 400 years on the fourth terrace and over 500 on this one.  
+Thus, had he borne signs on his forehead, these would originally have 
+been as many as five and as few as two.  However, there is no reason to 
+believe that he, or any other penitent not here in the flesh, has had 
+his brow incised with P's.  (See the note to ^Purg~. IX.112.)  For 
+other reasons to believe that only Dante is incised, see Hollander 
+("The Letters on Dante's Brow [^Purg~. 9.112 and 21.22-24]," 
+^Electronic Bulletin of the Dante Society of America~ [January 2002]); 
+for an opposing view see Nicola Fosca ("Beatitudini e processo di 
+purgazione," ^Electronic Bulletin of the Dante Society of America~ 
+[February 2002]).  And for an attempt to deal with the problem raised 
+by the present tense of the verb ^profila~ as indicating that the 
+warder habitually inscribes the P's on sinners, see, again, Hollander's 
+note in the ^EBDSA~, where he argues, following a suggestion offered by 
+Chimenz (comm. to vv. 22-24), that this present has the significance of 
+a past and that we should understand that only Dante is to be 
+understood as having had his forehead incised.
+
+	|25-30.~  The circumlocution describes Lachesis, the second of the 
+three Fates of classical mythology.  'At the birth of every mortal, 
+Clotho, the spinning fate, was supposed to wind upon the distaff of 
+Lachesis, the alotting fate, a certain amount of yarn; the duration of 
+the life of the individual being the length of time occupied in 
+spinning the thread, which, when complete, was severed by Atropos, the 
+inevitable fate' (Toynbee, "Laches@is" [^Concise Dante 
+Dictionary~]).  For Atropos, see ^Inferno~ XXXIII.126.  This is 
+Virgil's long-winded way of saying that Dante was still in the body 
+when he was summoned to guide him through the afterworld.  For Dante's 
+likely dependence upon Statius for the names of the three Fates, see 
+Ettore Paratore, "Stazio" (ED.1976.5), pp. 422b-423a.
+
+	|33.~  What exactly Virgil means by his ^scola~ (teaching of Dante) 
+has been a matter of some debate, featuring predictable 
+allegorizations, e.g., Virgil as reason, Statius as moral philosophy, 
+Beatrice as theology.  None of these has the merit of being immediately 
+(or eventually?) convincing.  The last time we have heard the word was 
+at ^Inferno~ IV.94, where the poet referred to the group of poets (^la 
+bella scola~) headed by Homer, and perhaps, 'reading Dante by Dante,' 
+we should keep this simplest explanation in clear view.  Virgil, 
+informed by all that a pagan poet can know, will guide Dante as best he 
+can.  Once we reach the question of the nature of the human soul, in 
+Canto XXV, he will give way to Statius, who, as a Christian, 
+understands things about the nature of the human soul's relationship to 
+divinity of which Virgil is simply ignorant.  There is no reason to 
+believe, one might add, that Beatrice could not have instructed Dante 
+about this question, or that Statius could not have told him anything 
+that Beatrice will reveal in ^Paradiso~.  All saved Christians, in this 
+poem, are capable of knowing all things in God.  The rewards of Heaven 
+are not only affective, but intellectual.
+
+	We should also be aware of Beatrice's use of the same word, ^scola~, 
+in ^Purgatorio~ XXXIII.85 to denigrate Dante's own nearly disastrous 
+adventures in what she seems to consider his overbold philosophizing.
+
+	|34-39.~  At last Virgil asks Statius the two questions that have so 
+vexed Dante; for a third time the importance of the salvation of 
+Statius is underlined.  See notes to ^Purgatorio~ XX.145-151 and to vv. 
+4-6 of this canto.
+
+	|40-60.~  Statius first establishes the meteorology of the mountain.  
+There is no 'weather' encountered above the upper limit of 
+ante-purgatory, but below that limit there is.  Up here the only 
+celestial force having any effect is the direct influence of the 
+heavens.
+
+	Thaumas's daughter is Iris, for classical poets the personification of 
+the rainbow, appearing variously above the earth and not in one fixed 
+place.
+
+	The wind hidden inside the earth (verse 56, first referred to as 'dry 
+vapor' in verse 52) refers to what Dante, in keeping with one medieval 
+view (see ^Inf~. III.130-136), believed to be the cause of earthquakes. 
+ Statius's point is that there are no natural earthquakes on the upper 
+reaches of the mountain, but that there are 'supernatural' ones.  This 
+one, accompanying the completion of Statius's penance and marking his 
+liberation from sin, may remind us of the earthquake that greeted 
+Dante's 'supernatural' descent into the underworld at the conclusion of 
+^Inferno~ III, itself perhaps also meant to remind the reader of the 
+earthquake at the Crucifixion (referred to at some length by Virgil in 
+^Inf~. XII.31-45).  These three earthquakes, all caused by 
+Christ-centered spiritual events, would clearly seem to be related.
+
+	|61-66.~  The self-judging quality of the penitents is here made 
+plain.  We saw the same phenomenon among the damned in the confessions 
+that they offered to Minos (see the note to ^Inf~. V.8).  Words for 
+'will' and 'willing' occur five times in nine lines (61-69), the 
+densest block of ^volere~ and ^volont@a~ found in the poem.  In 
+^Paradiso~ III the examples of Piccarda and Costanza will afford the 
+opportunity to study the divergence between the absolute will, always 
+striving toward the good, and the conditional (i.e., 'conditioned') 
+will, which, when guided by desires for lesser goods, chooses unwisely. 
+ Here Dante plays the changes on that basic understanding of the will's 
+role.  In purgatory the conditional will does not elect the lesser 
+good, but instead desires to repent its former movement in that 
+direction.  This is a 'rule' of purgatory that has no precedent in 
+Christian lore, since Dante's purgatory is so much his own invention; 
+nonetheless, it makes intuitive sense.  It is thus that the poet 
+suggests that his reader understand why a penitent, while naturally 
+desiring to cease the act of penance, simultaneously feels a still 
+stronger and countering desire to complete it, as is made clear here.  
+
+	For a soul to 'change its convent,' in this context, means for it to 
+move from purgatory to paradise.
+
+	A sharp distinction between (^talento~) desire and will (^voglia~) in 
+verse 61 is drawn by Moore (^Contributions to the Textual Criticism of 
+the "Divina Commedia"~ [Cambridge: Cambridge University Press, 1889]), 
+pp. 401-4, demonstrating that the early commentators saw clearly that 
+desire represents the conditional will (as it did in ^Inf~. V.39, where 
+the desire of the lustful is described as running counter to reason), 
+while the will referred to here is the absolute will, which always 
+seeks the good alone.
+
+	|67-72.~  His use of the first person here is the first instance of an 
+autobiographical bent on the speaker's part, but his 
+self-identification still awaits.  He only now formally concludes his 
+response to Dante's insistent and paired questions, first alluded to in 
+the last canto (XX.145-151); in a gesture typical of purgatorial 
+brotherhood, his next thought is for his fellow penitents (cf. Virgil's 
+similar wish at vv. 16-18).  (For Statius's various sins and the time 
+spent purging them on the mountain, see notes to vv. 22-24 and to 
+^Purg~. XXII.92-93.)
+
+	|73-75.~  After telling us three times how eagerly he wanted to know 
+more about these strange signs on the mountain (see the note to vv. 
+34-39), the poet now once again underlines their importance.  The 
+singular importance of the salvation of Statius is insisted on in such 
+a way as to let us understand that what matters is not only the 
+importance of the finishing of purgation for any soul, but Statius's 
+astounding role in Dante's poem, which will gradually become more clear 
+as the two cantos devoted to him continue to unfold their mysteries.
+
+	Those who know it may remember an old joke with a similar rhythm.  An 
+elderly man traveling on a train in a sleeping car awakens in the 
+middle of the night and then awakens some of his fellow unseen sleepers 
+as he cries out, 'Oh, am I thirsty; oh, am I thirsty!'  Finally, a 
+disgruntled fellow traveler arises, gets a cup of water from the 
+drinking fountain at the end of the car, and passes it in to the man in 
+his curtained berth.  Shortly after the good Samaritan has returned to 
+his own berth and is nodding back off to sleep, he is brought back to 
+waking when the old man begins to cry out, 'Oh, was I thirsty; oh, was 
+I thirsty!'
+
+	|78.~  Tommaseo (comm. to these verses) rightly suggests that 
+^congaudere~ (rejoice) is a biblical word; further precision was 
+offered by Campi, citing I Corinthians 12:26: 'sive gloriatur unum 
+membrum, congaudent omnia membra' (if a single member glories, then all 
+members rejoice along with it).  St. Paul is developing the analogy 
+between parts of the human body and the individual members of the 
+mystical body of Christ, the Church.
+
+	|81.~  Virgil's specific question at last elicits a sort of ^vita 
+poetae~ from his interlocutor.  See the note to ^Inferno~ I.67-87 for 
+the similar ^vita Virgilii~ found there. 
+
+	|82-93.~  Publius Papinius Statius (45-96) was born in Naples and not 
+in Toulouse, birthplace of a different Statius, a rhetorician; Dante's 
+error was a common one (perhaps deriving from the glosses by Lactantius 
+[ca. 300] to the poems of Statius) and he helped propagate it, since he 
+is probably responsible for the mistaken birthplace found both in 
+Boccaccio and in Chaucer; for the former, see ^Amorosa visione~ V.34 
+and, for the latter, ^Hous of Fame~ III.1460.  For the suggestion 
+(which the commentator himself eventually questions) that Statius was 
+actually from Telesa (or Telesia), a city (later destroyed) in the 
+vicinity of Naples, and thus would have been correctly described as 
+being 'telesano,' a form easily corrupted into 'tolosano,' see Lombardi 
+(comm. to verse 89).  Statius's ^Thebaid~, an epic in twelve books, 
+composed in the years between between 80 and 92, was the source of a 
+good deal of Dante's sense of what for us is the 'Oedipus story,' in 
+Statius treated as the civil war between the forces loyal to one or the 
+other of Oedipus's royal sons.  
+
+	Dante's reference to Statius's laureation is problematic.  Since it 
+seems clear, despite an occasional argument to the contrary, that Dante 
+did not know Statius's collection of his 'fugitive' poems, the ^Silvae~ 
+(see the note to verse 90), he could not have read (in ^Silvae~ 
+III.v.28-31) that, while the emperor (Domitian) had crowned Statius 
+with gold at an 'arts festival' at Alba, he had not done so at Rome, 
+i.e., Statius did not get the laurel for his epic.  And thus it remains 
+possible but seems unlikely that he ever received the laurel; however, 
+his dedication of the ^Thebaid~ to Domitian, coupled with the opening 
+lines of the ^Achilleid~ (I.9-11), where he asks Apollo for laureation 
+and intimates that he had been previously coronated, might have made 
+Dante think he had been.  This second epic, which he did not finish, 
+getting only as far as into the second book, was the source of most of 
+what Dante, Homerless, knew about Achilles.
+
+	|82-84.~  Born ca. A.D. 45, Statius was thus about twenty-five when 
+Titus, son of the emperor Vespasian, destroyed in A.D. 70 the second 
+temple in Jerusalem as part of his attack upon the Jews, an event to 
+which Dante will advert in ^Paradiso~ VI.92 (for Dante's sense of the 
+'just retribution' involved in this event, see the note to that 
+passage).  Titus succeeded Vespasian as emperor (79-81).
+
+	|85-87.~  The 'name' to which the speaker refers is that of poet.  The 
+surprising, even shocking, culmination of his statement of his debt to 
+Virgil in the next canto (verse 73: 'through you I was a poet, through 
+you a Christian') is adumbrated here, where Statius owns himself (at 
+the age at which Dante suffered the loss of Beatrice, twenty-five) to 
+have achieved fame as a poet but not yet faith in Christ.
+
+	|88.~  Dante had already referred to Statius as 'lo dolce poeta' (the 
+sweet poet) at ^Convivio~ IV.xxv.6, as Tommaseo (comm. to vv. 88-90) 
+pointed out.  Pietro di Dante (Pietrro1, comm. to vv. 82-90) was the 
+first to suggest that the source for the phrase lay in Juvenal's 
+^Satires~ (VII.82-87).  For strong support of this notion, see 
+Alessandro Ronconi ("L'incontro di Stazio e Virgilio," ^Cultura e 
+scuola~ 13-14 [1965]), pp. 568-69; see also Vincenzo Tandoi ("Il 
+ricordo di Stazio 'dolce poeta' nella ^Sat~. VII di Giovenale," ^Maia~ 
+21 [1969], pp. 103-22).  Ettore Paratore, "Giovenale" (ED.1971.3), pp. 
+197-202, offers probably the most balanced and useful introduction to 
+the problem of Dante's knowledge of Juvenal.
+
+	|90.~  There has been much confusion over the meaning of Statius's 
+reference to being crowned with myrtle leaves.  The myrtle tree was 
+sacred to Venus (see, e.g., ^Aen~. V.72).  And, indeed, Statius 
+himself, in his ^Silvae~ (IV.vii.10-11), asks to be crowned as a lyric 
+poet (and not as a writer of epic) with myrtle leaves.  However, as 
+nearly all admit, or even insist, Dante could not have been acquainted 
+with the ^Silvae~, a manuscript of which was only discovered in the 
+fifteenth century by Poggio Bracciolini in France, copied and brought 
+back into Italy, where Poliziano would take much pleasure and 
+instruction from it.  Then what does Dante mean us to understand by 
+Statius's insistence that he was crowned with myrtle?  As Daniello 
+(comm. to vv. 88-90) notes, Virgil speaks of both laurel and myrtle 
+(^Egl~. II.54): 'You, too, o laurels (^lauri~), I will pluck, and you, 
+neighboring myrtle (^myrte~)'; Daniello believes that Statius is 
+associated with myrtle because he was a poet of love.  Disagreeing with 
+him, Tommaseo (comm. to vv. 88-90) thinks that the phrase, for Dante, 
+meant that the myrtle wreath was secondary to the laurel, an opinion 
+followed by Porena and developed by Mattalia (both commenting upon this 
+verse); Mattalia argues that, while Dante himself makes Statius one of 
+the ^poete regolati~ (i.e., the classical Latin poets worthy of 
+emulation [^Dve~ II.vi.7]), it is Statius who speaks now, and he wants 
+to show his awareness of his dependence upon Virgil, of his role as 
+secondary poet following in the wake of a master.  See verses two lines 
+from the ending of the ^Thebaid~ (XII.816-817), which explicitly make a 
+highly similar claim: 'do not attempt to rival the divine ^Aeneid~, but 
+follow at a distance, always worshiping its footsteps.'  Moore 
+(^Studies in Dante~, First Series: ^Scripture and Classical Authors in 
+Dante~ [Oxford: Clarendon, 1969 (1896)]), p. 243, was perhaps the first 
+to suggest that this passage was being cited here in vv. 94-97.  For 
+its possible earlier relevance, see the note to ^Inferno~ XXIII.145-148.
+
+	|93.~  Statius's 'second burden' was his unfinished ^Achilleid~.
+
+	|94-96.~  For the relationship of Statius's text to these lines, see 
+the concluding remarks in the note to verse 90.  The image of the 
+^Aeneid~ as being the divine torch that has set aflame many another 
+poem, including this one, similarly 'divine,' if surely in different 
+ways, will be explored as this scene unfolds.
+
+	|97-99.~   The appearance of the word ^mamma~ here is stunning, for we 
+find it, a spectacular instantiation of the low vernacular (see the 
+last item in the note to ^Inf~. XXXII.1-9, the passage in which it has 
+had its only previous appearance), used in the same verse with the word 
+that may have represented for Dante the height of classical eloquence, 
+^Ene,ida~, the title of the greatest classical poem, here in its 
+only use in the ^Comedy~.
+
+	The passage applies to Statius, but increasingly students of this 
+passage have been convinced that Statius's fictive biography serves as 
+a sort of stand-in for Dante's genuine one, that is, in Statius's words 
+here about his dependence on Virgil we are also reading Dante's 
+confession of his own debt to the Roman poet.  For this view see, among 
+others, Ettore Paratore (^Tradizione e struttura in Dante~ [Florence: 
+Sansoni, 1968]), pp. 72-73; Padoan ("Il Canto XXI del ^Purgatorio~," in 
+^Nuove letture dantesche~, vol. IV [Florence: Le Monnier, 1970]), p. 
+354; Hollander ("Babytalk in Dante's ^Commedia~," in his ^Studies in 
+Dante~ [Ravenna: Longo, 1980]), pp. 123-24, 205n.; Stephany ("Biblical 
+Allusions to Conversion in ^Purgatorio~ XXI," ^Stanford Italian Review~ 
+3 [1983]), p. 151; Picone ("^Purgatorio~ XXII," in ^Dante's "Divine 
+Comedy," Introductory Readings II: "Purgatorio,"~ ed. Tibor Wlassics 
+[^Lectura Dantis (virginiana)~, 12, supplement, Charlottesville: 
+University of Virginia, 1993]), p. 330.  In the next canto the extent 
+of that debt will assume staggering proportions.
+
+	In a reversal of our usual expectation, the high style of classical 
+tragic writing is portrayed as serving as mother and nurse, giving suck 
+to the infant vernacular, triumphantly low.  This is a far cry from the 
+program of Dante's ^De vulgari eloquentia~, which sought to champion 
+the lofty, tragic vernacular poetry of Italy, with Dante's own 
+^canzoni~ (odes) as the crowning example.  In the earlier work the 
+Italian initiate was urged to learn how to write in the high style by 
+imitating the classical poets; now we find that the lofty bards of 
+antiquity become 'mothers' of a quite different sort of poetry, the 
+low, or comic, style of this theological epic.  For a discussion of the 
+word ^mamma~ in Dante see Hollander ("Babytalk in Dante's ^Commedia~," 
+in ^Studies in Dante~ [Ravenna: Longo, 1980]), pp. 120-29.  And for a 
+quite different treatment of the image of being suckled at the breast 
+see Gary Cestaro ("The Primal Scene of Suckling in Dante's ^De vulgari 
+eloquentia~," ^Dante Studies~ 109 [1991], pp. 119-47).
+
+	A dram is the equivalent of one-eighth of an ounce.
+
+	|100-102.~  While some have understood that Statius's gesture offers a 
+single day of lingering (first, the Anonimus Lombardus [comm. to these 
+verses]) and others a solar cycle of twenty-eight years (first, Jacopo 
+della Lana [comm. to verse 101]), most, after the Ottimo (comm. to vv. 
+94-102), believe that he means one more year.  We might be tempted to 
+reflect that, if he had met Virgil after he had converted, ^he~ might 
+have returned a favor and converted Virgil to Christianity (one can 
+imagine their conversation about the real meaning of the fourth 
+^Eclogue~).  The context here, involving only his poetic debt to 
+Virgil, probably should put that thought from us.
+
+	|103-114.~  The first of these two adjacent and charming passages to 
+return to earlier moments in the canto adverts to the discussion of the 
+absolute and conditional wills in vv. 61-69.  Here we see that Dante's 
+absolute will is conquered by his emotions.  In the second, Dante's 
+smile is probably to be understood as exactly such a sign as Virgil 
+gave to arriving Statius at vv. 14-15.
+
+	One does not want to read in too moralizing a light this extraordinary 
+little scene.  There is no serious consequence if Dante gives away 
+Virgil's little secret, or if Statius becomes over-enthusiastic once it 
+is known.  The three poets share a moment of common freedom from the 
+constraints of their missions.  It is typical of this great and 
+securely serious theological poet that he can indulge himself and his 
+readers in moments of such moving happiness.  This is perhaps as close 
+to experiencing Christian fellowship as Virgil ever comes.
+
+	|125-126.~  The protagonist's understanding of Statius's debt to 
+Virgil is obviously not yet fully developed.  In his formulation it was 
+from the greater poet that Statius learned 'to sing of men and of the 
+gods,' an adequate description of the work of a pagan writer of epic.  
+We will learn in the next canto that, behind the fa$cade of pagan 
+trappings, Statius was in fact a secret Christian.  See the note to 
+^Purgatorio~ XXII.67-73.
+
+	|130-136.~  For the view that Statius is behaving passionally when it 
+were better not to, see Denise Heilbronn ("'Io pur sorrisi': Dante's 
+Lesson on the Passions [^Purg~. XXI, 94-136]," ^Dante Studies~ 96 
+[1978], pp. 67-74).  Stephany's rejoinder ("Biblical Allusions to 
+Conversion in ^Purgatorio~ XXI," ^Stanford Italian Review~ 3 [1983]), 
+pp. 142-43, is less than convincing.  He finds it odd that Statius, 
+having finished his purgation, should return to so much lower a level 
+of response.  In his view, Virgil is imitating Christ when he asks Mary 
+Magdalen not to touch Him ('noli me tangere' -- John 20:17).  
+Stephany's discussion of that passage and its relationship to the two 
+other major biblical resonances in this canto, those of the Samaritan 
+woman and of the disciples on the road to Emmaus encountering the 
+resurrected Jesus, as all being narratives that concern conversion, is 
+close to Dante's text and telling.  However, the tone of the episode 
+clearly responds far more to Heilbronn's sense, if perhaps less sternly 
+than she might have us believe.  The scene is amusing and utterly 
+human; Statius has for a moment re-entered his previous life, as even 
+other saints might do, in the presence of Virgil.  And even the 
+protagonist, caught between the differing desires of the two classical 
+poets, is apparently momentarily exempt from moral pressures.  How 
+might the saved Stephany respond, completing his purgation, finding 
+himself in the presence of Dante?  The poet's view of the completion of 
+purgation, reflected in the protagonist's own 'free time' as he enters 
+Eden, is not completely dissimilar to what we found in ante-purgatory, 
+where the pressure on the souls is also less acute.
+
+	With regard to the supposed 'failed embrace' between Statius and 
+Virgil, Hollander has argued ("^Purgatorio~ II: Cato's Rebuke and 
+Dante's ^scoglio~," ^Italica~ 52 [1975]), p.359, that Dante's failed 
+attempt to embrace Casella (^Purg~. II.76-81), pointing to a physical 
+impossibility, is countered in the successful exchange of embraces 
+between Sordello and Virgil, both shades (^Purg~. VII.2, 15).  In both 
+of those scenes there is a desire to embrace that is either frustrated 
+or accomplished.  Here Statius desires to embrace Virgil but, once 
+advised against doing so by the author of the ^Aeneid~, wills not to.  
+Since we know from Sordello's and Virgil's shared embraces that in fact 
+shades are capable of embracing, we may not properly say, as most who 
+deal with the scene do, that Virgil and Statius, 'being shades, cannot 
+embrace,' or that they 'are not capable of embracing' (Giovanni 
+Cecchetti ["The Statius Episode: Observations on Dante's Conception of 
+Poetry," ^Lectura Dantis (virginiana)~ 7 (1990)], p. 107).  They are 
+perfectly capable of embracing; Virgil convinces Statius that it is not 
+a fitting gesture in this higher realm.  For another view of the 
+supposedly problematic program of embraces see Nicolae Iliescu ("Gli 
+episodi degli abbracci nelle strutture del ^Purgatorio~," ^Yearbook of 
+Italian Studies~ 1 [1971], pp. 53-63).  And see the note to 
+^Purgatorio~ XIX.134-135 for the probable biblical source of a similar 
+scene: Pope Adrian's refusal to accept Dante's obeisance.  In the end 
+Statius won't embrace Virgil because up here souls don't behave 'that 
+way,' just as Virgil did not want to have his identity revealed for a 
+similar reason.
+In support of this reading, see Wei Wei Yeo ("Embodiment in the ^Commedia~:
+Dante's Exilic and Poetic Self-Consciousness," ^Dante Studies~ 121 [2003 {2006}]),
+p. 78, also suggesting that "rather than arguing physical impossibility,
+the text implies the acknowledgment of inappropriateness as the reason..."
+Her citation is of George Economou ("Saying Spirit in Terms of Matter:
+The Epic Embrace in Medieval Poetic Imagination," ^Lectura Dantis [virginiana]~
+11 [Fall 1992]), p. 76.

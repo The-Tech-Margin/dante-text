@@ -1,0 +1,62 @@
+{INDEX_HS}
+;
+;	SCCS ID "@(#) BRS Mate: Menu INDEXHS.MNS v43.2 (3/15/89) { Release 5.0 }"
+;
+
+:SET #HEADING ~\cDDP\l33\o2 Index Help \f2\l62#DATE\n~
+
+:PRINT ~#HEADING
+     An INDEX operation displays and alphabetical list of all entries in
+     the Dictionary File that matches a  particular word  pattern.  This
+     is  very  useful  for  revealing plurals, alternate word forms, and
+     other relevant keywords that you may have initially overlooked.
+
+     Unlike  a  pattern match search, an INDEX  will not generate result
+     sets for keywords, but rather lists alphabetically related keywords
+     along  with  the  corresponding  number  of documents which contain
+     those  keywords.   Each  term  is also assigned a reference number.
+     Any  of  these  numbers can then be user to create a result set and
+     incorporate selected terms into your search strategy.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     At the prompt: "Enter Index Term", you may enter: 
+
+     S) to cancel the INDEX and continue the search session
+
+     H) for help
+ 
+     L) to list the current INDEX (if one is outstanding).
+
+     You  can  also  enter  the  word  pattern  on  which  the  INDEX is
+     performed.   Note that you should \o2not\f2 append a truncation character
+     ($ or ?)  to the  pattern  match.   The  system  will automatically
+     interpret  your entry as a word stem  (or root),  and will retrieve
+     all  words  matching  the word stem.   Only one  pattern match at a
+     time can be performed.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     For example:
+
+     Enter Index term [s]: robot
+
+       Index of ROBOT
+
+       Reference  1 --> ROBOT			7 document(s)
+       Reference  2 --> ROBOTIC 		1 document(s)
+       Reference  3 --> ROBOTICS	       10 document(s)
+       Reference  4 --> ROBOTS		       13 document(s)
+
+     Enter Reference Number(s); S to Search; H for Help [s]:\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+
+     If  the  number  of  matched  terms exceeds the number of allowable
+     INDEXED terms on one screen, you are given a "continuation" option.
+     Enter  "H" at the Reference Number prompt for more detailed help on
+     INDEX selections.\n~
+
+:PAUSE BOTTOM
+:RETURN

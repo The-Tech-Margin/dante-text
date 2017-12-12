@@ -1,0 +1,61 @@
+head     1.2;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.2
+date     88.09.28.10.01.15;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     88.08.30.09.49.40;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.2
+log
+@Revised character mapping code and recognition of terminal types.
+@
+text
+@DEST=/usr/local/bin
+CFLAGS=-O
+
+ddp:	ddp.o map.o
+	cc -o ddp ddp.o map.o -ll
+
+install:	ddp
+	install -c -m 755 -o dante ddp $(DEST)
+
+clean:
+	rm -f core errs *.o ddp
+
+ddp.o:	map.h
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 2
+a5 2
+ddp:	ddp.o ../todec/todec.o
+	cc -o ddp ddp.o ../todec/todec.o -ll
+a6 3
+../todec/todec.o:
+	cd ../todec; make todec.o
+
+d8 1
+a8 1
+	install -c ddp $(DEST)
+d12 2
+@

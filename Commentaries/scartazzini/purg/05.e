@@ -1,0 +1,774 @@
+	|1.  Ombre~: di Belacqua e de' suoi compagni con cui si
+era trattenuto; cfr. ^Purg.~ IV, 136 e seg.
+
+	|3.  Drizzando~: verso di me, additandomi alle altre
+ombre che erano secolei.
+
+	|4.  Luca~: risplenda -- Vedi che il corpo suo getta
+ombra.
+
+	|5.  Raggio~: del sole.  -- |Da sinistra~: avevano il
+sole alla destra.  -- |Di sotto~: salivano, Virgilio avanti e pi@u
+alto, Dante dietro e pi@u basso.
+
+	|6.  Si conduca~: par che si muova in modo come se vivo
+fosse; dando a cagion d'esempio, segno di gravezza col rumore che
+nel camminare facevano i piedi percotendo il suolo, diversamente
+da quello facessero le ombre.  ^Lamb.~
+
+	|8.  Vidile~: quelle ombre.
+
+	|9.  Pur me~: solamente me.  -- |Rotto~: dall'ombra del
+corpo mio.
+
+	|10.  S'impiglia~: s'impaccia, si da briga di ci@o che
+altri dicono di te.
+
+	|12.  Che ti fa~: cosa t'importa il sussurrare di
+costoro?
+
+	|14.  Ferma~: Al. ^fermo.~  Cfr. ^Virg.~ ^Aen.~ X, 692 e
+seg.:
+
+     ^Ille, velut rupes, vastum quae prodit in aequor~,
+     ^Obvia ventorum furiis, expostaque ponto~,
+     ^Vim cunctam, atque minas perfert coelique marisque~:
+     ^Ipsa immota manet.~
+
+	|16.  Rampolla~: sorge, germoglia.
+
+	|17.  Dilunga~: si allontana dal fine propostosi.
+
+	|18.  Perch@e~: l'un pensiero sopravveniente indebolisce
+l'attivit@a dell'altro.  -- |Foga~: propriamente ^impeto~,
+^furia~; qu@i ^forza~, ^attivit@a.~  -- |Insolla~: fa ^sollo~, cio@e
+^morbido~, infievolisce.  L'^An. Fior.~ <|insolla~ ci@o @e
+indebolisce>.  Vedi su questa voce ^Borghini~, ^Stud#i sulla D.
+C.~ ed ^Gigli~; Fir. 1855, pag. 241 e seg.  <Il concetto @e:
+sempre l'unomo, che si abbandona a molti pensieri, arriva tardi
+al segno principale a cui tende, perch@e si urtano essi in guisa
+che l'uno rallenta il corso dell'altro.>  ^Greg.~
+
+	|20.  Color~: rossore.
+
+	|21.  Talvolta~: ^qui color et rubor verecundus interdum
+nos excusat, non tamen, ut dicit, semper; nam Aristoteles in
+quarto Ethicae dicit, quod verecundia non est laudabilis in
+veteribus nec in studiosis, cum pertineat ad eos praecavere ab his
+quae verecundiam inducunt, sed in juvenibus et mulieribus, a
+quibus talia non ita exiguntur, dicitur laudabilis.~  Petr. Dant. 
+-- <Secondoch@e vuole il Filosofo nel quarto dell'^Etica~,
+vergogna non @e laudabile, n@e sta bene ne' vecchi n@e negli uomini
+studiosi; perocch@e a loro si conviene di guardare da quelle cose
+che a vergogna gli inducono.  Alli giovani e alle mogli non @e
+tanto richiesto (dico tale riguardo); e per@o in loro @e laudabile
+la paura del disonore ricevere per la colpa;.... onde buono e
+ottimo segno di nobilt@a @e nelli pargoli e imperfetti d'etade,
+quando, dopo il fallo, nel viso loro vergogna si dipinge, ch'@e
+allora frutto di vera nobilt@a.>  ^Conv.~ tr. IV, c. 19.
+
+	|22.  Da traverso~: Al. ^di traverso.~
+
+	|23.  Genti~: neghittosi, morti di morte violenta.  Dante
+non dice quanto tempo costoro devono aspettare prima di poter
+entrare nel Purgatorio.  Sembra pertanto che anch'essi come i
+negligenti del canto antecedente debbano aspettare tanto tempo
+quanto ei vissero.
+
+	|24.  Miserere~: il Salmo L. (LI).  -- |A verso~: a
+vicenda; <come cantano li chierici in coro.>  ^Buti.~  I canti
+de' purganti sono frequenti e dispongono le anime alle celesti
+armonie.  ^Tom.~
+
+	|25.  Non dava~: faceva ombra.
+
+	|27.  Oh~: interjezione di maraviglia prodotta dal vedere
+un corpo che getta ombra.  -- |Roco~: la sorpresa, ed ogni
+affetto subito, suole alterare la voce.
+
+	|30.  Saggi~: sapevoli, instrutti -- fateci sapere chi
+siete.
+
+	|31.  Andarne~: andarvene.
+
+	|32.  Ritrarre~: riferire.  Le parole sono il ritratto
+de' concetti dell'animo.
+
+	|34.  Per veder~: per aver veduto come egli fa ombra.  --
+|Restaro~: si fermarono.
+
+	|35.  Avviso~: m'immagino.  -- |Assai~: basta loro sapere
+che costui non @e ancor morto.
+
+	|36.  Caro~: potendo recar notizie di loro nel mondo,
+pregare per loro e procacciar loro suffragi de' viventi; cfr.
+^Purg.~ III, 140 e seg.; IV, 133.
+
+	|37.  Vapori~: le cos@i dette ^stelle cadenti.~  Ai tempi
+di Dante e prima e dopo si credeva che tanto il fenomeno delle
+^stelle cadenti~, quanto il frequente e silenzioso lampeggiare in
+seno alle nuvole nel pomeriggio di caldissima giornata d'estate,
+provenisse da accensione di vapori.  Cfr. ^Virg.~ ^Georg.~ I, 365
+e seg.:
+
+     ^Saepe etiam stellas, vento inpendente, videbis~
+     ^Praecipites coelo labi, noctisque per umbram~
+     ^Flammarum longos a tergo albescere tractus.~
+
+Vedi pure ^Brun. Lat.~ ^Tr$es.~ l. II, c. 37.  Con questi versi il
+Poeta vuol significare la velocit@a con cui quei due spiriti sen
+andarono a riferire ai loro compagni la novit@a udita, ed @e come
+se dicesse: ^corser s@i veloci che parvero baleni.~
+
+	|38.  Di prima~: sul principio della notte.  -- |Sereno~:
+il ciel sereno.
+
+	|39.  N@e, sol calando~: n@e mai vidi vapori accesi, ossia
+lampi, fendere cos@i prestamente le nuvole al declinar del sole
+nel mese di agosto.
+
+	|40.  Color~: i due spiriti, v. 28 e seg.  -- |Suso~: ai
+loro compagni che erano alquanto pi@u su, v. 23.  -- |In meno~: in
+pi@u breve tempo.
+
+	|41.  Di#er volta~: tornarono indietro alla nostra volta
+assieme co' loro compagni.  Tanto queste anime sono desiose di
+invocare le preghiere e i suffragi dei viventi.
+
+	|42.  Corre~: Al. ^scorre.~  -- |Senza freno~: quanto mai
+pu@o correre.
+
+	|43.  Preme~: fa pressa, s'incalza per venire a noi.
+
+	|45.  Pur va~: nulladimeno non soffermarti, ch@e
+perderesti troppo tempo, ma prosegui il cammino ed ascoltali
+cammin facendo.
+
+	|46.  Per esser lieta~: per purificarti ed andar poi dove
+l'uomo @e felice; ^Purg.~ XXX, 75.
+
+	|47.  Membra~: del corpo -- in carne ed ossa.
+
+	|48.  Queta~: fermati un po'.
+
+	|49.  Unque~: mai.  Pon mente se mai vedesti alcuno di
+noi, mentre che fummo in vita.  ^Buti.~
+
+	|50.  Di l@a~: nel mondo.
+
+	|52.  Morti~: uccisi.
+
+	|54.  Quivi~: all'ultima ora della nostra vita.  --
+|Lume~: la grazia illuminante.  -- |Fece accorti~: ci trasse a
+penitenza.
+
+	|55.  Pentendo~: pentendoci dei nostri peccati e
+perdonando ai nostri offensori.  ^Si enim dimiseritis hominibus
+peccata eorum: dimittit et vobis Pater vester coelestis delicta
+vestra.~  Matt. VII, 14.
+
+	|56.  Pacificati~: nella sua grazia.
+
+	|57.  S@e~: lui.  -- |Vedere~: la visione di Dio essendo
+la somma perfezione ed il sommo diletto; cfr. ^Thom. Aq.~ ^Comp.
+theol.~ P. I, c. 165.  ^Sitivit anima mea ad Deum fortem vivum:
+quando veniam et apparebo ante faciem Dei~?  Psl. XLI, 3. 
+^Satiabor cum apparuerit gloria tua~; Psl. XVI, 15.
+
+	|58.  Perch@e~: per quanto.  -- |Guati~: guardi con
+attenzione.
+
+	|60.  Ben nati~: perch@e in luogo di salvazione.
+
+	|61.  Dite~; chiedetemelo.  -- |Far@o~: quanto voi
+dimandate.  -- |Per~: ve lo giuro per quella pace che io vo
+cercando di mondo in mondo sotto la scorta di Virgilio.
+
+	|62.  Guida~: Virgilio.
+
+	|63.  Face~: fa ch'io la cerchi.  |Face~ da ^facere~;
+cfr. ^Nannuc.~ ^Anal. crit.~ pag. 605 e seg.
+
+	|64.  Uno~: Jacopo del Cassero da Fano (^Lan.~, ^Ott.~,
+^Postill. Cass.~, ^Petr. Dant.~, ^Falso Bocc.~, ^Benv. Ramb.~,
+^Buti~, ^Land.~, ^Vellut.~, ^Dan.~ ecc.  L'^An. Fior.~ lo chiama
+^messer Jacopo da Fano~).  La famiglia del Cassero o Cassaro,
+cos@i detta da una torre o rocca attigua alla sua casa presso
+l'arco di Augusto, fu una delle pi@u antiche e potenti della citt@a
+di Fano.  Guid@o la fazione guelfa.  Fior@i per molti personaggi
+insigni nelle arti della guerra e della pace, fra i quali @e
+ricordarsi Ugone che nel 1104 and@o co' suoi tre figliuoli al
+conquisto di Terra santa.  La storia fanese ne fa ascendere
+l'albero genealogico fino al 980.  Cfr. ^Amiani~, ^Memor. Istor.
+di Fano~, P. I, pag. 232.  Fu questo Jacopo figlio di Uguccione
+del Cassero potest@a di Macerata nel 1268, e nepote di quel
+Martino del Cassero, professore di leggi e reggitore delle scuole
+di Arezzo nel 1255, il quale ci vien descritto come il primo e
+pi@u famoso giurisconsulto d'Italia in quei tempi: cfr.
+^Tiraboschi~, ^Stor. della lett. ital.~ Vol. III, pag. 279. 
+Chiamato Jacopo a podest@a di Milano da Maffeo Visconti, mosse da
+Fano per quella citt@a, navigando fino a Venezia, e da indi
+tenendo la via di Padova, nelle cui vicinanze, cio@e in Oriago, fu
+assalito, accoltellato e morto dagli sgherri di Azzo VIII, figlio
+di Obizzo II da Este, al cui lungamente meditato tradimento
+tennero spalla due altri prepotenti ribaldi, Riccardo da Cammino,
+e Geraldo signore di Trevigi.  Cfr. ^Trist.~ ^Calchi Mediol.
+Hist. patriae l. XX~, lib. XVIII, pag. 401 B: ^Per id tempus~
+(1298) ^Mediolanum, capessendae praeturae gratia peregrinus homo
+veniebat, Jacobus Dalcassarius Fano Piceni urbe oriundus.  Sed is
+ex itinere juxta Oriagum patavinorum oppidum interceptus,
+occisusque fuit, fraude Marchionis Extensis, Rizardi Caminatis,
+ac Geraldi Tarvisinorum domini, qui tunc in armis habebant
+exercitum circiter trium millium hominum.~  La di lui morte fu
+creduta opera di Malatesta da Rimini, che per agevolarsi il
+dominio di Fano avesse procurata a Jacopo la pretura di Milano
+per mezzo di Maffeo, perch@e poi nel viaggio fosse gittato sotto
+le spade del marchese d'Este, e tolto cos@i a lui d'innanzi il
+maggiore ostacolo alle sue mire; cfr. ^Amiani~, l. c. P. I, pag.
+233.  Fu Jacopo capitano e prode guerriero, avendo tenuta parte
+nella famosa oste che i fiorentini guelfi mossero contro Arezzo
+nel 1288, e combattuto con essi in quella guerra (^G. Vill.~ l.
+VII, c. 22).  Nel 1296 essendosi infiammata pi@u che mai la guerra
+fra Azzo e i Bolognesi per cagione dei confini, questi mandarono
+ambasciatori ai Fanesi loro antichi alleati per soccorso di genti
+e di armi; e a stringerneli viemaggiormente offerirono a Jacopo
+Del Cassaro la pretura della citt@a.  Pertanto fu accolta la
+domanda, e Jacopo and@o in Bologna e come magistrato e come
+capitano insieme di quella sussidiaria milizia, la quale era
+composta di circa mille uomini; cfr. ^Amiani~, c. P. I, p. 233. 
+Al suo ritorno dalla pretura che tenne per un anno, cio@e nel
+secondo semestre del 1296 e nel primo del susseguente 1297 (cfr.
+^Ghirardacci~, P. I, pag. 133), ricondotti seco i suoi soldati,
+potente per ricchezza e per fama, ebbe tale autorit@a sull'animo
+dei medesimi e dei suoi cittadini, che ingenerato sospetto di
+ambizione e di signoria, suscit@o la fazione contraria di Teresino
+e Guido da Carignano; la quale stava oramai per irrompere e
+appiccare la guerra civile, se opportunamente non si fosse spenta
+quella scintilla, chiamato Jacopo alla pretura di Milano, che
+per@o gli cost@o la vita.  La di lui spoglia fu riportata in Fano,
+e sepolta nella chiesa di s. Domenico.  Sul suo sepolcro si legge
+l'iscrizione seguente:
+
+        ^Italie. sidus. Martinus. copia. legum~:
+     ^Aggreditur. fidus. doctorum conscia regum~:
+     ^Inclita cui proles. de qua processit amenus~
+     ^Flos. decus et soles patriae. ros atque serenus.~
+     ^Sol tenebras patitur.  Proserpina luce dehiscit.~
+     ^Dum Jacobus moritur de Cassaro. tristia fixit~
+     ^Atropos infausta. deplorant menia Fani~
+     ^Probitas exhausta testatur debita cani.~
+
+        ^Eolus o utinam. perflasset carbasa retro~
+     ^Vectus. Pataviam. caderet non. limite tetro.~
+     ^Pugnet Bononia. consurgat Mediolanum.~
+     ^Perditur ha gloria. nisi perdant crimina canum.~
+     ^Annis sub mille duo de trecentis evenit.~
+     ^Milii dux ille strenus quod misere venit.~
+     ^Hic jacet. infoditur. ubi corde semper adhesit.~
+     ^Theotocos igitur. ut regnet minime desit.~
+
+Cfr. ^Amiani~, ^Mem. Istor. di Fano~, P. I, pag. 235; ^Barozzi~,
+^Accenni a cose Venete nel Poema di Dante~, nel Vol. ^Dante e il
+suo secolo~, pag. 794 e seg.  ^Masetti~, ^Illustrazione
+storico-filolog. della epigrafe sepolcrale di Mart. e Jac. del
+Cassero~, nel Vol. ^Omaggio a Dante~, Roma 1865, pag. 571-589;
+^Mazzoni Toselli~, ^Voci e passi di Dante.~ Bologna 1871, pag.
+101-104; ^Negusanti~, ^Sylva responsionum~ etc. Venet. 1619. 
+Quest. 281, n. 46, e Quest. 399, n. 22.  -- |Si fida~: si tien
+sicuro.
+
+	|65.  Beneficio~: di preghiere e suffragi che ci
+procaccerai quando sarai ritornato nel mondo.  -- |Senza
+giurarlo~: senza bisogno che tu vi aggiunga il giuramento, perch@e
+la sola promessa del saggio pi@u vale di quello che il giuramento
+del volgo.  ^Benv. Ramb.~
+
+	|66.  Pur~: se soltanto il tuo buon volere non vien reso
+vano dall'impotenza.  -- |Nonpossa~: difetto di potere, cos@i
+^noncuranza~, e anticamente ^nonguistizia.~  -- |Non ricida~: non
+tronchi, non renda inutile la buona volant@a.  ^Velle adjacet
+mihi: perficere autem bonum non invenio.~  Ad Rom. VII, 18.
+
+	|68-69.  Paese~: la Marca d'Ancona, posta tra la Romagna
+ed il regno di Napoli, governato allora da Carlo II di Angi@o.
+
+	|70.  Sie~: sia.  Per due regioni si scrisse anticamente
+|sie.~  La prima, perch@e si chiusero in ^E~ le voci singolari del
+Congiuntivo nei verbi di ogni maniera.  La seconda, per essersi
+tenuto dietro ai Latini, che dissero ^siem, sies, siet, sient.~ 
+Cfr. ^Nannuc.~ ^Anal. crit.~ pag. 468.  Anche nel provenz. |sie~
+invece di ^sia~; Vie de St. Trophime, 21: ^Con ayso sie, demandas
+o als viels~; e nel franc. antico |sie~ per ^soit~; Alex. d'Alb.
+de Besan$con, Fragm. ^Solaz noz faz' antiquitas, Que tot non sie
+vanitas.~  -- |Cortese~: preghi per me ed esorti altri a farlo.
+
+	|71.  S'adori~: si preghi per me.  ^Gentiles adorabant ad
+Orientem.~  Thom. Aq. Sum. Prim. Sec. qu. 102, art. 4.
+
+	|72.  Purgar~: venendo ammesso nel Purgatorio.  --
+|Offese~: a Dio -- peccati.
+
+	|73.  Quindi~: da Fano.  -- |Fori~: ferite.
+
+	|74.  Io~: @e l'anima che parla.  -- |Sedea~: ^Anima enim
+omnis carnis in sanguine est.~  ^Levit.~ XVII, 14.  Il sangue
+sede dell'anima anche secondo l'opinione di Empedocle e di altri.
+
+	|75.  In grembo~: nel territorio di Padova, fondata
+secondo la tradizione da Antenore troiano; cfr; ^Pomp. Mela~, II,
+4; ^Tit. Liv.~ I, 1; ^Tacit.~ ^Annal.~ XVI, 21.  <Sembra quasi
+che Dante accusi i Padovani d'essersi intesi proditoriamente con
+Azzo, e pertanto li chiam@o |Antenori~ dal traditore Antenore.> 
+^Filal.~
+
+	|76.  Pi@u sicuro~: per la potenza de' Padovani.  ^Buti.~ 
+Pensando che quel paese fosse libero da simili assassinamenti. 
+^Vellut.~
+
+	|77.  Quel~: Azzo VIII marchese d'Este, signore di
+Ferrara, Modena e Reggio, morto nel 1308.  -- |Esti~: Este;
+|Esti~ per ^Este~ anche ^G. Vill~, IX, 85, 212, 275, 325; X, 19,
+ecc.  -- |Il fe' far~: fece assassinarmi.
+
+	|78.  Pi@u l@a~: oltre i confini del giusto.  Rimproverando
+Azzone di averlo odiato oltre il dovere, ci fa sentire che
+quell'odio era in parte meritato.  In fatti tutti gli storici e
+commentatori ci dicono che Jacopo fu un caldo provocatore di
+quell'odio potente, e una vittima quasi volontariamente caduta
+coll'avere sparlato con ismoderata licenza di Azzo, spacciandolo
+qual uomo scellerato, codardo traditore, e forse ancor parricida,
+non solo in privato ma anche in pubblico.  Conciossiach@e vedendo
+come il Marchese si studiava di far proseliti in Bologna per
+opprimerla, insidiandola con molte arti, e stringendola eziandio
+da vicino colle armi, egli Podest@a si fece a parlare liberamente
+di lui, mettendo in aperto non solo le vere, ma forse anche le
+false imputazioni che correvano contro il ^Tirannello Atestino~,
+onde abbatterlo nella opinione dei Bolognesi, e persuaderli di
+qual tempera egli fosse, e di quale sciagura sarebbe stata
+colpita la loro citt@a, se caduta fosse nel costui potere.  E
+scoperto nullameno il tradimento di molti che volevangli cedere
+la Signoria, punilli inesorabilmente col bando, e tutti estermin@o
+da Bologna i fautori di lui.  Cfr. ^Masetti~, l. c. p. 579.
+
+	|79.  Mira~: borgo del Veneto sopra le rive d'un canale
+che esce dal fiume Brenta.  Al tempo di Dante apparteneva ai
+Padovani, i quali fino d'allora avevano molte villeggiature e
+castelli nelle sue vicinanze.  Cfr. ^Loria~, ^L'Italia nella D.
+C.~ Vol. I, pag. 191.
+
+	|80.  Quand'io~: Al. ^quando fui.~  -- |Oriaco~: anche
+^Oriago~, villaggio del Veneto tra Padova e Venezia dalla parte
+delle lagune.  Fino a questi ultimi anni la strada principale che
+conduceva a Venezia passava per la Mira vicino ad Oriago, posto
+fra settentrione ed occidente della laguna.  Jacopo fuggendo
+dagli assalitori non tenne la via che doveva, e impigliatosi
+nelle canne e nel limo fu sopraggiunto ed ucciso.  Cfr. ^Barozzi~
+in ^Dante e il suo secolo~, pag. 795; ^Loria~, l. c.  -- <Et dice
+che, s'ivi fosse fuggito, come egli fugg@i verso il padule,
+ch'egli sarebbe campato, per@o ch'egli era bene accompagnato, et
+arebbe sostenuto tanto che sarebbe stato atato da quei della
+villa.>  ^An. Fior.~
+
+	|81.  Di l@a~: nel mondo -- non sarei ancor morto.
+
+	|82.  Corsi~: invece di fuggir verso la Mira.  -- |Braco~:
+brago, fango, pantano.
+
+	|83.  M'impigliar~: m'invilupparono tanto.  -- |L@i~: in
+quel palude.
+
+	|84.  Laco~: lago.  -- <Ed allora fui assalito, e per le
+molte ferite che ricevei, versai un lago di sangue, disteso morto
+nella palude.>  ^Benv. Ramb.~
+
+	|85.  Se~: particella pregativa, desiderativa -- ^cos@i si
+compia.~  -- |Disio~: di pace, v. 61 e seg.  -- <Il Poeta cammina
+tra loro: quei che gli parla lo segue un poco, poi lo lascia ire:
+e un altro sottentra.  Rammentiamo che la schiera purgante viene
+di contro ai due pellegrini.>  ^Tom.~
+
+	|87.  Buona pietate~: opera di piet@a cristiana.  -- |Il
+mio~: il desiderio di andare a purificarmi per passar poi al
+Paradiso.
+
+	|88.  Buonconte~: figlio del conte Guido da Montefeltro,
+sul quale vedi ^Inf.~ XXVII, 67 nt.  -- <Fu valorosa persona,
+and@o alla battaglia di Campaldino, e l@i fu ferito; non si seppe
+mai che fosse di lui.>  ^Lan.~, ^Ott.~  -- <Giovane
+coraggiosissimo, il quale nella battaglia degli Aretini presso
+Bibiena, mandato da Guglielmo vescovo di Arezzo ad osservare le
+posizioni nemiche, rifer@i essere imprudenza attaccar la
+battaglia.  Il vescovo rispose audacemente: ^Tu non fosti giammai
+di quel casato~; cui Bonconte: ^Se verrai dove io sono capace di
+andare, pi@u non tornerai.~  E cos@i fu di fatto, perch@e l'uno e
+l'altro valorosamente combattendo rimaser morti sul campo.  Di
+Bonconte non rest@o alcun figlio.>  ^Benv. Ramb.~  -- Lo troviamo
+figurare nelle istorie quando nel mese di giugno del 1287 merc@e
+il suo aiuto i Ghibellini cacciarono i Guelfi d'Arezzo per cui si
+cominci@o la guerra tra i Fiorentini e gli Aretini; ^G. Vill.~ l.
+VII, c. 115; quindi nel 1288 fra i capitani cheposero l'aguato ai
+Sanesi nel valico della Pieve del Toppo dove questi furono
+sconfitti, ^G. Vill.~ l. VII, c. 120.  Nell'anno 1289 fu creato
+capitano di guerra della citt@a di Arezzo e comand@o gli Aretini
+nella battaglia di Campaldino, ^G. Vill.~ l. VII, c. 131.  Il
+^Tom.~ osserva molto a proposito: |Fui di Montefeltro~, come
+vivo; |son Buonconte~ perch@e la persona rimane.  ^Inf.~ XXXIII,
+13: ^Io fui Conte Ugolino~, perch@e nell'altro mondo nessuno @e
+Conte.  ^Parad.~ VI, 10: ^Cesare fui, e son Giustiniano.~
+
+	|89.  Giovanna~: moglie di Buonconte.  <La contessa
+Giovanna doppo la morte sua mai non monstr@o curarsi di lui, n@e
+non fece mai volgere prete ad altare.>  ^An Fior.~  -- |Altri~:
+de' miei parenti.  Il conte Galassio di Montefeltro fu podest@a di
+Arezzo nel 1290, e Federico di Montefeltro vi era podest@a appunto
+nel 1300.  Cfr. ^Anal. Aretin.~ ap. ^Murat.~ ^Rer. It. Script.~
+Vol. XXIV, pag. 862.  -- |Non ha~: non prega n@e fa pregare Dio
+per me.
+
+	|90.  Bassa fronte~: vergognandosi che altri non si curi
+di lui n@e della sua salute.  Forse anche per rammarico di esser
+dimenticato da' suoi congiunti ed amici in terra.
+
+	|91.  Forza~: dei nimici che l'avesseno cacciato.  --
+|Ventura~: d'essere uscito loro delle mani.  ^Buti.~
+
+	|92.  Campaldino~: piccola pianura nel Casentino in
+Valdarno di sopra, dove i Ghibellini d'Arezzo furono vinti nel
+1289 agli 11 di giugno dai Guelfi di Firenze.  Dante intervenne
+in questa battaglia; cfr. ^Inf.~ XXII, 5, nt. ^G. Vill.~ l. VII,
+c. 131; ^Dino Comp.~ l. I; ^Ammirato~, ^Ist. Fior.~ l. III;
+^Troya~, ^Veltro alleg.~ pag. 30 e seg.
+
+	|93.  Sepoltura~: mai non si seppe dove fosse arrivato,
+per@o che mai non si trov@o il corpo suo.  ^An. Fior.~  -- ^Nunquam
+relatum fuit ubi moriretur et quomodo.~  Postill. Cassin.
+
+	|94.  Casentino~: provincia del Valdarno di sopra,
+nell'Apennino; cfr. ^Inf.~ XXX, 65 nt.
+
+	|95.  Archiano~: torrente che ha le sue fonti negli
+Apennini sopra l'Ermo di Camaldoli, passa per il villaggio di
+Serravalle e mette foce nell'Arno.  L'Archiano, oggi Archiana,
+forma il confine tra Casentino e Bibbiena.
+
+	|96.  Ermo~: eremo, solitudine.  Inteso @e l'eremo o
+convento di Camaldoli, fondato da Romualdo da Ravenna nel 1012;
+cfr. ^Heliot~, ^des ordres monastiques~, Paris 1718.  Tom. V, pag.
+236 e seg.  @E posto nei pi@u alpestri Apennini presso la Giogana. 
+Vedi sopra ^Parad.~ XXII, 49.
+
+	|97.  Dove~: Al. ^L@a ove.~  -- |Diventa vano~: cessa il
+suo nome di Archiano, entrando a far parte dell'Arno.  Da
+Campaldino v'@e due miglia e mezzo circa.
+
+	|98.  Arrivai~: a la foce che entra in Arno.  ^Buti.~  --
+|Forato~: ferito mortalmente.
+
+	|99.  Sanguinando~: insanguinando.
+
+	|100-101.  Quivi~: ove l'Archiano mette in Arno.  --
+|Finii~: il mio parlare invocando Maria; cos@i ^Buti~, ^Vellut.~,
+^Lomb.~, ^Portir.~, ecc.  Altri:
+
+     |Quivi perdei la vista e la parola~:
+     |Nel nome di Maria finii~ --
+
+Cos@i ^Benv. Ramb.~, ^Land.~, ^Dan.~, ^Vent.~, ^Biag.~, ^Tom.~,
+ecc.  Migliore ci sembra la prima interpretazione, secondo la
+quale Buonconte dice il nome di Maria esser stato l'ultima parola
+pronunziata dalle sue labbra.  Quel ^Finire~ (-- morire) |nel
+nome di Maria~ poi non ci sembra locuzione dantesca.  Cfr.
+^Blanc~, ^Versuch~ etc. II, pag. 14, 15.
+
+	|102.  Sola~: abbandonata dall'anima.
+
+	|104.  Quel~: l'angelo d'inferno, il demonio.  -- Per
+l'anima del padre combatterono Francesco e il Diavolo (cfr.
+^Inf.~ XXVII, 112 e seg., e il primo perd@e la lite per una sola
+parola peccaminosa che annull@o i frutti della penitenza.  Una
+simile tenzone segue tra l'Angelo e il Diavolo per l'anima del
+figlio, ma qu@i un solo sospiro alla Madre delle Grazie decide a
+favore dello spirito celeste, e il Diavolo deve star contento al
+cadavere.  ^Filal.~  Una consimile tenzone ebbe luogo secondo la
+mitologia biblica tra l'Arcangelo Michele ed il Diavolo per il
+corpo di Mois@e: ^Cum Michael Archangelus cum diabolo disputans
+altercaretur de Moysi corpore~; Ep. Judae v. 9.
+
+	|105.  Dal ciel~: Al. ^del ciel.~  -- |Mi privi~: della
+costui anima.
+
+	|106.  L'eterno~: l'anima, la quale per essere immortale
+@e la parte eterna dell'uomo.
+
+	|107.  Per una lagrimetta~: per una piccola contrizione
+che hae avuto a la fine de la sua vita.  ^Buti.~
+
+	|108.  Dell'altro~: del corpo.  -- |Altro governo~:
+tratter@o il corpo diversamente da quello che tu tratti l'anima.
+
+	|109.  Ben sai~: descrive il modo onde si forma la
+pioggia.  -- In questa e nelle tre seguenti terzine @e da ammirare
+la retta cognizione del Poeta circa alle cause della pioggia,
+richiamando specialmente il vapore acqueo, l'abbassamento di
+temperatura, il vento e la prossimit@a d grandi montagne.  Ed @e
+pure dottrinalmente insieme e poeticamente descritto quel che
+concerne le piene fluviali, nelle terzine seguenti.  ^Anton.~
+^ap. Tom.~  -- |Raccoglie~: si condensa in nuvole; cfr. ^Virg.~
+^Georg.~ I, v. 322 e seg.:
+
+     ^Saepe etiam immensum coelo venit agmen aquarum~,
+     ^Et foedam glomerant tempestatem imbribus atris~
+     ^Conlectoe ex alto nubes.~
+
+	|110.  Riede~: si converte in acqua e ricade condensato
+in pioggia.
+
+	|111.  Dove~: nella regione superiore dell'aria.  <Il
+freddo @e generativo dell'acqua.>  ^Conv.~ IV, 18.  -- Subito che
+i vapori umidi tirati dal sole, salgono alla seconda delle tre
+regioni dell'aere, la quale @e freddissima, da esso freddo
+condensati si convertono in nuvole, e le nuvole in acqua, onde
+scende poi la pioggia in terra.  ^Dan.~
+
+	|112.  Giunse~: l'Angelo d'Inferno accoppi@o quella
+cattiva volont@a, che non desidera n@e cerca che il male,
+coll'intelletto.  Altri spiegano: |Giunse~ -- arriv@o, |mal voler~
+-- il demonio, e intendono che il demonio si levasse in aria sino
+alla regione superiore di essa.  Cos@i quasi tutti gli antichi e
+molti moderni.  Invece di |giunse~ alcuni leggono ^giunto.~  Il
+^Bennass.~ poi propone di leggere; ^Giunse quel Ma' 'l voler~,
+cio@e ^quel Malo~ (-- il demonio) un@i il volere etc.
+
+	|113.  Il fummo~: le umide vaporazioni.
+
+	|114.  Virt@u~: potenza.  -- |Natura~: angelica.  ^Duplex
+est cognitio veritatis: una quae habetur per naturam, alia quae
+habetur per gratiam.  Et ista quae habetur per gratiam, est
+duplex: una quae est speculativa tantum, sicut cum alicui aliqua
+divinorum revelantur; alia vero, quae est affectiva, producens
+amorem Dei, et haec proprie pertinet ad donum sapientiae.  Harum
+autem trium cognitionum prima in doemonibus nec est ablata nec
+diminuta; consequitur enim ipsam naturam Angeli, qui secundum
+suam naturam est quidam intellectus vel mens.  Propter
+simplicitatem autem suae substantiae a natura ejus aliquid subtrahi
+non potest, ut sic per subtractionem naturalium puniatur~..... 
+^Secunda autem cognitio quae est per gratiam, in speculatione
+consistens, non est eis totaliter ablata, sed diminuta~.... 
+^Tertia vera cognitione sunt totaliter privati.~  Tom. Aq. Sum.
+P. I, qu. LXIV, art. 1.
+
+	^Et Angeli boni et mali possunt aliquid in istis
+corporibus operari praeter actionem coelestium corporum,
+condensando nubes in pluvias, et aliqua hujusmodi faciendo.~ 
+Ibid. P. I, qu. CXII, art. 2.  La Scrittnra sacra chiama il
+demonio ^il principe della podest@a dell'aria~, %o\
+%alpha%rho%chi%varsigma\ %tau%eta%varsigma\
+%varepsilon%varsigma%o%upsilon%sigma%iota%alpha%varsigma\
+%tau%o%upsilon\ %alpha%varepsilon%rho%o%varsigma\; ^Efes.~ II, 2.
+
+	|115.  Indi~: costruzione: |Indi~, ^come il d@i fu spento~,
+il demonio ^coperse di nebbia la valle da Pratomagno~
+{vv.116-117} sino ^al gran giogo~ {v.116}.  -- |Fu spento~: come
+si fu fatto sera.
+
+	|116.  Pratomagno~: ora ^Pratovecchio~, borgo nel
+territorio d'Arezzo che giace alla sinistra dell'Arno in angusta
+valle; nel medio evo era un forte castello, le cui mura tuttavia
+sussistono.  -- |Gran giogo~: l'Apennino.
+
+	|117.  Il ciel~: cos@i i pi@u; alcuni, fra cui il ^Buti~ ed
+il ^Witte~, leggono ^e il giel~, ed il primo spiega: <Caccionne
+lo dimonio lo gielo che era sopra li vapori, a ci@o che pi@u
+fortemente ripellesse li vapori umidi e risolvesseli in acqua.> 
+Ma la chiosa @e cos@i oscura che bisogna proprio dubitare se il
+^Buti~ medesimo abbia saputo ci@o che e' si volesse dire.  Se
+Dante avesse scritto ^giel~ egli avrebbe di necessit@a duvuto
+dirci che fosse ^nevicato~, non ^piovuto~; cfr. ^Blanc~,
+^Versuch~ etc. II, 16.  -- |Intento~: coperto, denso di vapori. 
+Cfr. ^Horat.~ ^Epod.~ XIII, 1 e seg.:
+
+     ^Horrida tempestas coelum contraxit, et imbres~
+        ^Nivesque deducunt Jovem.~
+
+E ^Virg.~ ^Georg.~ I, 248: ^obtenta densentur nocte tenebrae.~ 
+Quell'|intento~ nel nostro verso @e appunto il ^coelum contraxit~
+di Orazio, e l'^obtenta nocte~ di Virgilio.
+
+	|118.  Pregno~: di vapori.  Racconta ^Dino Compagni~
+(lib. I) che il giorno della battaglia di Campaldino ^l'aria era
+coperta di nugoli, la polvere era grandissima~, il che renderebbe
+verisimile che la sera piovesse dirottamente.  Ma delle
+testimonianze di Dino vuolsi far uso con molta precauzione,
+essendo pi@u che probabile che la sua ^Cronica~ @e una
+falsificazione.  Di maggior peso assai @e la testimonianza di
+Dante in questo luogo, massimamente se ci ricordiamo che il Poeta
+parla come testimone oculare.
+
+	|119.  Ai fossati~: ai piccoli torrenti dell'anzidetta
+valle.
+
+	|120.  Di lei~: della pioggia.  -- |Non sofferse~: non
+sostenne, non assorb@i.
+
+	|121.  E come~: e quando quell'acqua, che la terra non
+assorb@i si fu congiunta ai grandi torrenti.  -- |Si convenne~: si
+riun@i.
+
+	|122.  Fiume real~: i pi@u antichi commentatori (^Lan.~,
+^Ott.~, ^Anon. Fior.~, ^Postill. Cass.~, ^Petr. Dant.~, ecc.) ed
+alcuni moderni non si curarono di dire di qual fiume il Poeta
+intendesse parlare.  Il primo a spiegarlo fu ^Benv. Ramb.~, il
+quale scrive: <v#er lo fiume reale~, verso Archiano>.  Ma nessuno
+dei commentatori posteriori accett@o questa spiegazione.  Tutti
+all'incontro pretendono che il |fiume reale~ l'Arno (^Buti~,
+^Dolce~, ^Dan.~, ^Volpi~, ^Vent.~, ^Lomb.~, ^Portir.~, ^Pogg.~,
+^Biag.~, ^Costa~, ^Ces.~, ^Borg.~, ^Wag.~, ^Tom.~, ^Br. B.~,
+^Fratic.~, ^Greg.~, ^Andr.~, ^Bennass.~, ^Cam.~, ^Frances.~,
+^Kanneg.~, ^Streckf.~, ^Kop.~, ^Bl.~, ^Wit.~, ^Krig.~, ^Nott.~,
+ecc.), ripetendo su per gi@u l'osservazione del ^Buti~: <chiamano
+li Poeti fiumi reali quelli che fanno capo in mare, come fa
+l'Arno, l'altri no.>  Bisogna infatti concedere che il titolo di
+|fiume reale~ mal si conviene ad un torrente che mette foce in un
+fiume di gran lunga pi@u grande.  Tuttavia le seguenti ragioni
+sembrano parlare in favore dell'Imolese: 1+o~- il dis$corso cammina
+pi@u logicamete se si intende: La pioggia venne ai fossati, poi si
+riun@i ai torrenti maggiori; questi si precipitano impetuosamente
+verso l'Archiano, il quale, gonfio per tante acque sospinge il
+corpo di Buonconte nell'Arno.  2+o~- Buonconte non vuol raccontare
+i particolari di quel temporale, bens@i spiegare come avvenne che
+il corpo suo fu sepolto nell'Arno: dunque non vorr@a raccontare
+come i ^rivi grandi~ {v.121} si rovinarono verso l'Arno, s@i come
+essi ingrossarono l'Archiano dimodoch@e esso pot@e portar via il
+suo corpo.  3+o~- Non si tratta di fiumi in generale, ma
+semplicemente dei ^rivi~ {v.121} di quella ^valle~, di cui parla
+al v. 115.  Or quei ^rivi~ {v.121} non si ruinarono verso l'Arno,
+s@i verso l'Archiano e questo poi verso l'Arno.  4+o~- Paragonato a
+quei ^rivi~ {v.121} l'Archiano si poteva benissimo dire |fiume
+reale.~  5+o~- Il soggetto dei versi seguenti (124-129) @e sempre
+l'Archiano, dunque a lui meglio che all'Arno si conviene qu@i il
+nome di |fiume reale~, stantech@e Buonconte parla dell'Archiano e
+non dell'Arno.
+
+	|125.  Rubesto~: impetuoso, gonfio per la pioggia; cfr.
+Inf. XXXI, 106 nt.
+
+	|126.  Sciolse~: quando si sent@i che 'l mor@ia elli
+s'incroci@o le braccia, poi quando fu rivoltato dall'acqua, la
+croce delle braccia si disfece.  ^Lan.~, ^Ott.~  Arno lo volt@o
+per alquanto spazio, ma nel voltarlo gli spezz@o le braccia. 
+^Land.~  Non era necessario di spezzargli le braccia onde
+sciogliergli la croce sul petto.
+
+	|127.  Il dolor~: de la ferita che era a morte; ^Buti~;
+cos@i ^Benv. Ramb.~ ecc.  Meglio ^Dan.~: il compungimento de' miei
+commessi errori.  Cos@i ^Lomb.~, ^Biag.~, ^Br. B.~, ^Frag.~,
+^Greg.~, ^Andr.~, ^Camer.~ ecc.
+
+	|128.  Voltommi~: chi? il ^Buti~ dice l'Arno; Buonconte
+per@o racconta: L'Archiano trov@o il mio corpo, lo sospinse
+nell'Arno, sciolse la croce al mio petto, mi volt@o per le ripe e
+per lo fondo dell'Arno, ecc.  -- |Le ripe~: Al. ^le coste.~
+
+	|129.  Preda~: sassi, rena o ghiara, che scorrendo per la
+terra et innondando quella, come i soldati la preda, se ne portan
+con loro i fiumi.  ^Dan.~  -- |Coperse e cinse~: mi copr@i sopra e
+d'intorno.
+
+	|132.  Il terzo~: Jacopo del Cassero primo, Buonconte
+secondo, Pia il terzo spirito.
+
+	|133.  Ricorditi~: Al. ^Ricordati.~  Buonconte ricorda la
+sua Giovanna e gli altri che si sono dimenticati di lui, Manfredi
+vuol esser ricordato a Costanza, e Jacopo a' suoi Fanesi, che
+pregassero per lui; la sola Pia non ha alcun nome nel suo
+santuario domestico, e non ha che Dante che possa ricordarsi di
+lei.  ^De Sanctis~, ^Storia della lett. ital.~ I, pag. 218.  --
+|Pia~: gentildonna sanese figlia di M. Buonincontri Guastelloni,
+sposata a M. Baldo di Ildobrandino de' Tolomei.  Rimase vedova
+nel 1290 con due figli, Andrea e Balduccio, dei quali per l'atto
+del 20 settembre del detto anno la Pia assunse la tutela e
+l'amministrazione.  Nell'Archivio Tolomei si conservano ancora
+due Rendiconti dati dalla Pia qual tutrice de' suoi figliuoli. 
+Contrasse di nuovo matrimonio con Nello o Paganello, figlio
+d'Inghiramo della nobile famiglia de' Pannocchieschi, signore del
+castello della Pietra a nove miglia a levante da Massa Marittima,
+e di molti altri castelli di minor conto.  Alcuni credono che
+questo matrimonio della vedova Tolomei e di Nello fosse stato
+segreto.  Nello, o che sospettasse la Pia d'infedelt@a, o forse
+per torla di mezzo e sposare la bella Margherita de' conti
+Aldobrandeschi vedova di Guido di Monforte, condusse la Pia nel
+suo castello di Pietra in Maremma e la fece quivi morire. 
+Intorno al modo tenuto da Nello nel farla morire i commentatori e
+gli storici non vanno d'accordo.  Il ^Lan.~: <Et sepelo fare s@i
+segretamente che non si sa come morisse.>  Cos@i naturalmente
+anche l'^Ott.~  Pi@u positivamente ancora il ^Postill. Cass.~, il
+quale scrive: ^eam occidit ita secrete quod numquam aliquis
+scivit et ideo dicit quod ille scit qui eam desponsavit et non
+alius.~  E il ^Buti~: <l'uccise s@i secretamente che non si seppe
+allora.>  Letteralmente le medesime parole ripete il ^Land.~ 
+Anche il ^Vellut.~ scrive: <secretamente l'occise, o la fece
+occidere, ma come, non si seppe mai.>  E il ^Dan.~: <l'uccise s@i
+secretamente, che il fatto non si seppe mai.>  Non si vorr@a
+negare che le parole ^Salsi colui~ {v.135} parlano in favore di
+questi espostori.  Sembra tuttavia che altri ne sapessero di pi@u. 
+L'^An. Fior.~: <Pens@o l'Auttore (^sic~! qual Autore?) ch'ella
+morisse in questo modo, che, essendo ella alle finestre d'uno suo
+palagio sopra a una valle in Maremma, messer Nello mand@o uno suo
+fante che la prese pe' piedi dirietro, et cacciolla a terra delle
+finestre in quella valle profondissima, che mai di lei non si
+seppe novelle.>  Lo stesso racconta anche ^Benv. Ramb.~: <Stava
+questa signora alla fenestra del proprio palazzo, quando un
+paggio per ordine di Nello le prese pei piedi e la precipit@o
+nella strada, perloch@e tosto mor@i.>  Dicono che la tradizione
+indichi tuttavia una parte del dirupo nel quale sorge il
+castello, col nome di ^Salto della Contessa~; cfr. ^Loria~,
+^l'Ital. nella D. C.~ II, pag, 413.  Se ci@o @e vero ne risulta che
+alcuni sapevano di quella tragedia assai pi@u di ci@o che Dante non
+volle sapere.  Il caso avvenne nel luglio del 1295. Cfr. ^Gigli~,
+^Diario Sanese~, Lucca 1723, Vol. I, pag. 333 e seg.  ^Croix~,
+^La Pia, Legende Siennoise~, nella ^Revue de Paris~, 1844, Vol.
+I, pag. 510 e seg.  ^Aquarone~, ^Dante in Siena.~ Siena 1865,
+pag. 79 e seg.  ^Carpellini~, ^Rapporto della Commissione
+istituita dalla Societ@a sanese di storia patria per la ricerca di
+tutto ci@o che in Siena si riferisce a Dante~, nel ^Bollettino
+della Societ@a sanese di Storia patria~, A+o~ I, Vol. I, Siena,
+1865, pag. 55 e seg.  ^Ferrazzi~, ^Manuale Dantesco~, Vol. IV,
+pag. 405.  ^Amp@ere~, ^La Gr@ece, Rome et Dante~, 3+a~ ediz. Paris
+1859, pag. 282 e seg.  ^Mazzoni Toselli~, ^Voci e passi di
+Dante~, Bologna 1871, pag. 110-112.
+
+	|134.  Mi fe'~: nacqui in Siena, morii in Maremma.  --
+|Maremma~: tratto di paese tra Pisa e Siena, lungo la marina;
+cfr. ^Loria~, ^l'Ital. nella D.C.~ II, pag. 435 e seg. ^Inf.~
+XIII, 9 nt. XXV, 19; XXIX, 48 nt.
+
+	|135.  Salsi~: se lo sa.  -- |Colui~: Nello mio marito.  --
+|Innanellata~: avevo gi@a ricevuto l'anello nuziale da un altro,
+prima di ricevere il secondo da Nello; ero vedova.
+
+	|136.  Disposata~: m'avea sposata, dandomi |la sua
+gemma~, cio@e l'anello nuziale.  Vuol dire in somma: Sel sa colui
+che mi avea sposata in seconde nozze.  Moltissimi codici e la
+gran maggioranza delle edizioni leggono: ^Disposando.~  Pare
+proprio impossibile che tal lezione abbia potuto trovare tanti
+difensori!  Essi spiegano: <Se lo sa colui che ^disposando~,
+nell'atto di sposarmi, ^m'avea innanellata con la sua gemma~,
+m'avea posto in dito il suo gemmato anello.>  Ve' arguzia di
+commentatori!  Ignorano quel ^Pria~ {v.135} decisivo e spiegano
+come se Dante non lo avesse scritto!  Ma tenendo conto di quel
+^pria~ {v.135} e leggendo ^Disposando~ bisognava spiegare: <Prima
+mi aveva innanellata disposandomi colla sua gemma,> ci@o che
+verrebbe a dire: ^Avanti di farmi morire mi avea sposata~,
+concetto puerile e poco men che ridicolo.  O vuol Pia forse dire:
+^Prima di sposarmi m'avea dato l'anello nuziale~?  Cappera! e noi
+gonzi credevamo che il ^dare l'anello~ fosse appunto il
+principale dello sposalizio!  Sarebbe uno scialacquo di tempo il
+voler disputare ulteriormente su questa lezione e ci
+accontentiamo pertanto di citare le assennatissime parole del
+^Fanfani~: <La lezione |disposata~, invece che la comune
+^disposando~, @e senza dubbio la vera, come quella che @e
+confortata dal fatto, essendo omai fuor di dubbio che la Pia,
+innanzi di sposar Nello, era vedova.>  Vedi pure ^Gregoretti~,
+^Sulla nuova ediz. della D.C.~, Venez. 1862, pag. 23, ^Barlow~,
+^Contributions to the study of the D. C.~ Lond. 1864, pag. 200 e
+seg.

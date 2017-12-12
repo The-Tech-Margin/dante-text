@@ -1,0 +1,7 @@
+Subject: cassinese dates
+next load, change date on author.list.1 to 1375[?]
+and REPRELOAD with 1375 date.
+	Fixed desc file on 22 Nov 98. -stc
+	Asking RH if this means a change to the load order.
+	It does. Changed LoadOrder. Need to change author list after
+load.

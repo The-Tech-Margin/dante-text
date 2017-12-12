@@ -1,0 +1,437 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id SAA21426
+	for <steve@avalon.dartmouth.edu>; Mon, 15 Feb 1999 18:16:13 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id SAA14098
+	for <Steve.Campbell@Dartmouth.EDU>; Mon, 15 Feb 1999 18:16:13 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 45336 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67542-640>; Mon, 15 Feb 1999 18:15:35 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA04265;
+	Mon, 15 Feb 1999 18:15:32 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id SAA10871;
+	Mon, 15 Feb 1999 18:15:32 -0500 (EST)
+Message-ID: <36C8A734.2A2FC36D@phoenix.princeton.edu>
+Date: 	Mon, 15 Feb 1999 18:01:08 -0500
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: Robert Hollander - DDP PI <bobh@alexandria.dartmouth.edu>,
+        "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: Re: this tangle resolved
+References: <199902151536.KAA32724@alexandria.dartmouth.edu>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Robert Hollander - DDP PI wrote:
+> 
+> *** 28.e.1      Mon Feb 15 09:57:23 1999
+> --- 28.e.2      Mon Feb 15 09:57:35 1999
+> ***************
+>
+Steve, I can figure out that one (the first
+one) is a later version, edited, of the other
+(2).  BUT, sometimes this is not true, and
+the roles are reversed (!?).  I have tried to
+indicate carefully each good text (Y) and bad
+(N).  Love & kisses, Bob
+
+ *** 8,16 ****
+>   Ma non @e ben sicuro, @e una sua ipotesi, poich$e si meraviglia
+>   di un fatto strano, mai avvenuto sinora.
+> 
+> !       |46.  N$e morte...~: Virgilio reagisce con prontezza,	Y
+> ! spiegando che per Dante non @e giunto il fine della vita (|N$e Y
+> ! morte~), e non @e condotto l@a dal loro turpe peccato (|colpa~). Y
+> 
+>         |48.  esperienza piena~: l'uomo ha esperienza di una sola
+>   parte della sua vita, quella temporale; di quella eterna ha una
+> --- 8,16 ----
+>   Ma non @e ben sicuro, @e una sua ipotesi, poich$e si meraviglia
+>   di un fatto strano, mai avvenuto sinora.
+> 
+> !       |46.N$e morte...~: Virgilio reagisce con prontezza, N
+> ! spiegando che per Dante non @e giunto il fine della vita (^N$e N
+> ! morte~), e non @e condotto l@a dal loro turpe peccato (^colpa~). N
+> 
+>         |48.  esperienza piena~: l'uomo ha esperienza di una sola
+>   parte della sua vita, quella temporale; di quella eterna ha una
+> ***************
+> *** 20,31 ****
+> 
+>         |51.  e quest'@e ver...~: il dannato non pu@o dubitare
+>   della parola che sta ascoltando, @e una percezione fisica che
+> ! controlla egli stesso: cos$i nella formula perentoria del poeta Y
+> ! mantovano non deve assolutamente mettere in dubbio la verit@a  Y
+>   che gli @e stata comunicata.
+> 
+>         |52.  Pi$u fuor di cento...~: un gran numero di dannati
+> ! (cfr. ^Purg.~, II, 67-75).  Y
+> 
+>         |54.  obliando~: perdura il tormento, ma la mente @e
+>   rivolta altrove, e questa @e una forma di oblio, l'unica
+> --- 20,31 ----
+> 
+>         |51.  e quest'@e ver...~: il dannato non pu@o dubitare
+>   della parola che sta ascoltando, @e una percezione fisica che
+> ! controlla egli stesso: cosi nella formula perentoria del poeta  N
+> ! mantoivano non deve assolutamente mettere in dubbio la verrit@a  N
+>   che gli @e stata comunicata.
+> 
+>         |52.  Pi$u fuor di cento...~: un gran numero di dannati
+> ! (cfr. ^Purg.~, II. 67-75).		N
+> 
+>         |54.  obliando~: perdura il tormento, ma la mente @e
+>   rivolta altrove, e questa @e una forma di oblio, l'unica
+> ***************
+> *** 39,45 ****
+>   Chiesa spirituale, si diffuse nelle valli del Trentino e nella
+>   Valsesia.  Fortificatosi sui monti del Biellese con un gruppo di
+>   seguaci, resistette ai vescovi di Vercelli e di Novara
+> ! (|Noarese~) e al marchese di Monferrato.  Clemente V band$i una Y
+>   crociata contro di lui, ed eman@o tre bolle di condanna.  Si
+>   arrese insieme alla compagna Margherita il 23 marzo 1307, e poi
+>   nel giugno fu mandato al rogo.  Maometto ha sentito che quella
+> --- 39,45 ----
+>   Chiesa spirituale, si diffuse nelle valli del Trentino e nella
+>   Valsesia.  Fortificatosi sui monti del Biellese con un gruppo di
+>   seguaci, resistette ai vescovi di Vercelli e di Novara
+> ! (^Noarese~) e al marchese di Monferrato.  Clemente V band$i una  N
+>   crociata contro di lui, ed eman@o tre bolle di condanna.  Si
+>   arrese insieme alla compagna Margherita il 23 marzo 1307, e poi
+>   nel giugno fu mandato al rogo.  Maometto ha sentito che quella
+> ***************
+> *** 77,83 ****
+>         |71.  in su terra latina~: in terra italiana.
+> 
+>         |73.  Pier da Medicina~: <Fu del contado di Bologna, e
+> ! commise la guerra da Fiorenza a Bologna, e da Bologna agli  Y
+>   Ubaldini; poi per sue male opere fu cacciato e stette in Fano, e
+>   commise la guerra tra que' di Fano e i Malatesti> (Chiose Anon.).
+>   La famiglia va ricercata tra i Cattani di Medicina, tra i signori
+> --- 77,83 ----
+>         |71.  in su terra latina~: in terra italiana.
+> 
+>         |73.  Pier da Medicina~: <Fu del contado di Bologna, e
+> ! commise la guerra da Fiorenza i Bologna, e da Bologna agli   N
+>   Ubaldini; poi per sue male opere fu cacciato e stette in Fano, e
+>   commise la guerra tra que' di Fano e i Malatesti> (Chiose Anon.).
+>   La famiglia va ricercata tra i Cattani di Medicina, tra i signori
+> ***************
+> *** 90,96 ****
+>   Ravenna, per il castello di Marcab@o.  <Pier da Medicina deve
+>   aggirarsi in un cerchio di fatti che fecero sanguinare il cuore
+>   del Poeta, offendendo vincoli e affetti della sua stessa
+> ! famiglia, sebbene non in modo cos@i vicino, come fece il suo  Y
+>   congiunto Geri del Bello> (cfr. F. Filippini, ^Dante scolaro e
+>   maestro~, Ginevra 1929, pp. 54-60).
+> 
+> --- 90,96 ----
+>   Ravenna, per il castello di Marcab@o.  <Pier da Medicina deve
+>   aggirarsi in un cerchio di fatti che fecero sanguinare il cuore
+>   del Poeta, offendendo vincoli e affetti della sua stessa
+> ! famiglia, sebbene non in modo cosa vicino, come fece il suo  N
+>   congiunto Geri del Bello> (cfr. F. Filippini, ^Dante scolaro e
+>   maestro~, Ginevra 1929, pp. 54-60).
+> 
+> ***************
+> *** 103,110 ****
+>   la difesa della libert@a del comune contro le pretese dei
+>   Malatesta da Verrucchio, che finirono per impadronirsi della
+>   citt@a, dopo l'uccisione di Jacopo del Cassero, spento dai sicari
+> ! di Azzo VIII d'Este (cfr. ^Purg.~, V, 67-84), e dei <|due  Y
+> ! migliori~> fanesi fatti massacrare nel 1304 presso Cattolica  Y
+>   sull'Adriatico, facendoli chiudere in un sacco con una grossa
+>   pietra e gettare in mare (mazzerare).
+> 
+> --- 103,110 ----
+>   la difesa della libert@a del comune contro le pretese dei
+>   Malatesta da Verrucchio, che finirono per impadronirsi della
+>   citt@a, dopo l'uccisione di Jacopo del Cassero, spento dai sicari
+> ! di Azzo VIII d'Este (cfr. ^Purg.~, V, 64-84), e dei <due  N
+> ! ^migliori ~> fanesi fatti massacrare nel 1304 presso Cattolica  N
+>   sull'Adriatico, facendoli chiudere in un sacco con una grossa
+>   pietra e gettare in mare (mazzerare).
+> 
+> ***************
+> *** 112,124 ****
+> 
+>         |81.  fello~: malvagio.
+> 
+> !       |82-84.  Tra l'isola di Cipri...~: il Dio Nettuno non vide Y
+>   mai, tra Cipro e Maiorca, nelle acque del Mediterraneo un pi$u
+>   nefando delitto, non paragonabile a quello dei pirati, n$e dei
+> ! Greci (|gente argolica~).  L'accenno erudito non @e fuori	      Y
+>   argomento, anzi introduce, tra la storia spietata dei delitti, la
+>   profezia del fatto che sta per accadere, e che Dante riferisce
+> ! con particolari cosi precisi, da suscitare l'impressione di	  N (!)
+>   averli forse uditi in Fano nelle Marche dalla cronaca cittadina,
+>   ancor viva per la memoria dell'avvenimento, che aveva spazzato
+>   via due delle famiglie pi$u potenti della citt@a adriatica,
+> --- 112,124 ----
+> 
+>         |81.  fello~: malvagio.
+> 
+> !       |82.  Tra l'isola di Cipri...~: il Dio Nettuno non vide   N
+>   mai, tra Cipro e Maiorca, nelle acque del Mediterraneo un pi$u
+>   nefando delitto, non paragonabile a quello dei pirati, n$e dei
+> ! Greci (^gente argolica~).  L'accenno erudito non @e fuori 	    N
+>   argomento, anzi introduce, tra la storia spietata dei delitti, la
+>   profezia del fatto che sta per accadere, e che Dante riferisce
+> ! con particolari cos$i precisi, da suscitare l'impressione di   Y (!)
+
+BUT HOLD ON, STEVE: i THINK i SEE WHAT
+HAPPENED HERE: HE/SHE CORRECTED AN AIGUE
+ACCENT OVER THE "i" IN "COS$I" TO THE MORE
+USUAL GRAVE.  sO YOU CAN USE VERSION ONE
+HERE, TOO, EDITING THE "COSI" TO BECOME
+"cos@i". ok?
+>   averli forse uditi in Fano nelle Marche dalla cronaca cittadina,
+>   ancor viva per la memoria dell'avvenimento, che aveva spazzato
+>   via due delle famiglie pi$u potenti della citt@a adriatica,
+> ***************
+> *** 130,140 ****
+> 
+>         |85.  che vede pur con l'uno~: Malatestino Malatesta,
+>   fratellastro di Gianciotto e di Paolo.  <Era manco di un occhio>
+> ! (cfr. Muratori, ^Cron. riminese~, R. I .S., XV, 890).	Y
+> 
+>         |86.  tien la terra~: Rimini.
+> 
+> !       |87.  vorrebbe...~: vorrebbe non averla vista mai (|esser  Y
+>   digiuno~).
+> 
+>         |88.  a parlamento~: li inivit@o a desinare per trattare
+> --- 130,140 ----
+> 
+>         |85.  che vede pur con l'uno~: Malatestino Malatesta,
+>   fratellastro di Gianciotto e di Paolo.  <Era manco di un occhio>
+> ! (cfr. Muratori, ^Cron.  riminese~, R. I. S., XV, 890).	N
+> 
+>         |86.  tien la terra~: Rimini.
+> 
+> !       |87.  vorrebbe...~: vorrebbe non averla vista mai (^esser
+>   digiuno~).		N
+> 
+>         |88.  a parlamento~: li inivit@o a desinare per trattare
+> ***************
+> *** 154,160 ****
+> 
+>         |97-99.  Questi...~: Caio Curione, tribuno romano
+>   nell'anno 50 a.C., lodato da Cesare per la sua oratoria
+> ! all'esercito.  Era stato repubblicano, poi Si avvicin@o e   N(!)
+>   sostenne il partito di Cesare, per denari ricevuti, come
+>   riferiscono Plutarco e Svetonio.  Nel '49 inform@o Cesare a
+>   Ravenna dell'andamento delle cose romane, torn@o a Roma con
+> --- 154,160 ----
+> 
+>         |97-99.  Questi...~: Caio Curione, tribuno romano
+>   nell'anno 50 a.C., lodato da Cesare per la sua oratoria
+> ! all'esercito.  Era stato repubblicano, poi si avvicin@o e   Y(!)
+>   sostenne il partito di Cesare, per denari ricevuti, come
+>   riferiscono Plutarco e Svetonio.  Nel '49 inform@o Cesare a
+>   Ravenna dell'andamento delle cose romane, torn@o a Roma con
+> ***************
+> *** 166,173 ****
+>   cio@e a procrastinare la guerra civile.  Il Tommaseo not@o la
+>   contraddizione del poeta che qui condanna quel consiglio espresso
+>   nel verso di Lucano, mentre lo ripete poi -- tanto gli faceva
+> ! velo la passione -- nell'^Epist.~ (VlI, 16) ad Arrigo VII,   N
+> ! perch$e l'imperatore affretti la sua venuta in Toscana.  -- |'1  N
+>   fornito~: chi @e pronto.  -- |l'attender sofferse~: danneggi@o se
+>   stesso nell'attendere.
+> 
+> --- 166,173 ----
+>   cio@e a procrastinare la guerra civile.  Il Tommaseo not@o la
+>   contraddizione del poeta che qui condanna quel consiglio espresso
+>   nel verso di Lucano, mentre lo ripete poi -- tanto gli faceva
+> ! velo la passione -- nell'^Epist.~ (VII, 16) ad Arrigo VII,  Y
+> ! perch$e l'imperatore affretti la sua venuta in Toscana.  -- |'l  Y
+>   fornito~: chi @e pronto.  -- |l'attender sofferse~: danneggi@o se
+>   stesso nell'attendere.
+> 
+> ***************
+> *** 201,208 ****
+>   rimprovero in queste parole.
+> 
+>         |110.  accumulando...~: il Mosca era addolorato dei mali
+> ! causati alla sua citt@a sioni, sente il cumulo delle sue   N
+> ! responsabilit@a, anche per la rovina della sua stirpe.     N
+> 
+>         |112.  lo stuolo~: i seminatori di discordie.
+> 
+> --- 201,209 ----
+>   rimprovero in queste parole.
+> 
+>         |110.  accumulando...~: il Mosca era addolorato dei mali
+> ! causati alla sua citt@a (^lasso!~); ora, avendone inteso le    Y
+> ! conclusioni, sente il cumulo delle sue responsabilit@a, anche per Y
+> ! la rovina della sua stirpe.    Y
+> 
+>         |112.  lo stuolo~: i seminatori di discordie.
+> 
+> ***************
+> *** 211,235 ****
+> 
+>         |115-117.  coscienza...~: la sentenza morale conferma
+>   l'atteggiamento del poeta, che dice la verit@a, forte della
+> ! |buona compagnia~ della sua coscienza senza colpa (|pura~).  Y
+>   L'uomo diviene ardito, quando @e consapevole del vero; per una
+>   coscienza il sentirsi pura @e come sentirsi difesa da una corazza
+> ! (|sotto l'asbergo~).  -- |l'om francheggia~: rende l'uomo franco  Y
+>   (cfr. Orazio, ^Epist.~, I, I, 60-61).
+> 
+>         |119-120.  un busto sanza capo...~: l'idea potrebbe esser
+>   nata da episodi consimili, narrati negli atti dei m@artiri, come
+>   quello di S. Valeria decollata, che porta la testa a S. Marziale,
+>   primo vescovo di Limoges, mentre celebra la Messa, ma
+> ! specialmente dai leggendari di S.  Miniato e di S. Dionigi.   N
+> 
+>         |122.  p$esol con mano~: pendente in alto con la mano.
+> 
+>         |123.  e quel...~: <Questo capo mirava noi, mostrando col
+>   mirare che il busto desiderava di parlarci, o pure ci mirava per
+>   meraviglia che io fossi vivo e senza pena, e Virgilio senza pena.
+> ! Or questo ci@o che ufficio di lanterna @e scacciare le tenebre,   N
+> ! si che altri possa vedere e mirare> (Castelvetro).   N
+> 
+>         |124.  Di s$e facea...~: con gli occhi di quel capo
+>   faceva lume a se stesso per il cammino.
+> --- 212,237 ----
+> 
+>         |115-117.  coscienza...~: la sentenza morale conferma
+>   l'atteggiamento del poeta, che dice la verit@a, forte della
+> ! ^buona compagnia~ della sua coscienza senza colpa (^pura~).   N
+>   L'uomo diviene ardito, quando @e consapevole del vero; per una
+>   coscienza il sentirsi pura @e come sentirsi difesa da una corazza
+> ! (^sotto l'asbergo~).  -- |l'om francheggia~: rende l'uomo franco  N
+>   (cfr. Orazio, ^Epist.~, I, I, 60-61).
+> 
+>         |119-120.  un busto sanza capo...~: l'idea potrebbe esser
+>   nata da episodi consimili, narrati negli atti dei m@artiri, come
+>   quello di S. Valeria decollata, che porta la testa a S. Marziale,
+>   primo vescovo di Limoges, mentre celebra la Messa, ma
+> ! specialmente dai leggendari di S. Miniato e di S. Dionigi.   Y
+> 
+>         |122.  p$esol con mano~: pendente in alto con la mano.
+> 
+>         |123.  e quel...~: <Questo capo mirava noi, mostrando col
+>   mirare che il busto desiderava di parlarci, o pure ci mirava per
+>   meraviglia che io fossi vivo e senza pena, e Virgilio senza pena.
+> ! Or questo "mirare" non @e ufficio di lanterna perci@o che ufficio Y
+> ! di lanterna @e scacciare le tenebre, s$i che altri possa vedere e  Y
+> ! mirare> (Castelvetro).   Y
+> 
+>         |124.  Di s$e facea...~: con gli occhi di quel capo
+>   faceva lume a se stesso per il cammino.
+> ***************
+> *** 256,267 ****
+>   confessione il motivo del suo supplizio.
+> 
+>         |134-136.  Bertram dal Bornio...~: visconte di Hautfort,
+> ! castello della Guascogna.  Avrebbe istigato contro Enr$ico II, re  N
+> ! d'Inghilterra, il figlio primogenito: Enrico (il |Re giovane~),  Y
+>   che il padre aveva associato al regno.  Poeta provenzale, tra i
+>   pi$u significativi, lodato da Dante per i suoi versi d'argomento
+> ! guerresco (^De Vulg. Eloq.~, II, 2) e la sua liberalit@a   N
+> ! (^Conv.~, IV, 11).  Non sembra del tutto estraneo alla     N
+>   rappresentazione dantesca il compiacimento di lui per le scene
+>   cruente (cfr. la canzone: ^Bem platz lo gais temps de pascor~).
+>   Mor$i verso il 1207, sembra nel monastero cistercense di Dalon,
+> --- 258,269 ----
+>   confessione il motivo del suo supplizio.
+> 
+>         |134-136.  Bertram dal Bornio...~: visconte di Hautfort,
+> ! castello della Guascogna.  Avrebbe istigato contro Enrico II, re  Y
+> ! d'Inghilterra, il figlio primogenito: Enrico (il ^Re giovane~),   N
+>   che il padre aveva associato al regno.  Poeta provenzale, tra i
+>   pi$u significativi, lodato da Dante per i suoi versi d'argomento
+> ! guerresco (^De Vulg. Eloq.~, II, {II, 9}) e la sua liberalit@a    Y
+> ! (^Conv.~, IV, {XI, 14}).  Non sembra del tutto estraneo alla      Y
+>   rappresentazione dantesca il compiacimento di lui per le scene
+>   cruente (cfr. la canzone: ^Bem platz lo gais temps de pascor~).
+>   Mor$i verso il 1207, sembra nel monastero cistercense di Dalon,
+> ***************
+> *** 274,311 ****
+>   Achitofel, vistosi perduto nella sua ribellione, s'impicc@o a
+>   Gilo.  Si ritiene da alcuni biblisti che il lamento davidico per
+>   il tradimento del suo consigliere o forse di Absalom sia
+> ! contenuto nel ^Ps.~ LIV.  -- |punzelll~: insinuazioni.   N
+> 
+>         |139.  cos$i giunte~: cos$i strette per i vincoli di
+>   natura e di sangue.
+> 
+> !YES, THIS ONE |140.  partito...~: porto il mio capo separato dal cuore,
+> ! ch'@e racchiuso in questo tronco. @E un passaggio dall'attivo al
+> ! passivo.  <Perch'io partii... partito porto>.  L'essere
+> ! <|partito~> @e il <partire> stesso, il peccato dentro di lui.
+> ! <Quod quisque fecit patitur> (cfr. S. Vazzana, ^Il contrapasso
+> ! nella Div. Com.~, Roma 1959).
+> 
+> YES        |142.  lo contrapasso~: da <contra pati>, patire secondo
+>   quello che s'@e fatto.  Secondo la legge mosaica del taglione, il
+>   colpevole veniva punito con la stessa pena che aveva inferto al
+>   prossimo (^Esodo.~ XXI. 24; ^Levit.~, XXIV, 20; ^Deuter.~, XIX,
+>   21) <Haec est forma divini iudicii, ut secundum quod aliquis
+> ! patiatur, secundum illud Matthei VII, 2 "In quo iudicio
+>   iudicaveritis iudicabimini, et in qua mensura mensi fueritis
+> ! remetietur vobis" Ergo id est simpliciter quod contrapassum> (S.
+> ! Tommaso, S. ^theol.~, II, II, 61, 4).  Questa legge ha una
+> ! logica: non dipende da allegoria, da contrasto o da qualcosa che
+> ! proviene dal di fuori, ma @e intrinseca allo stesso fatto morale
+> ! e al concetto di peccato.  Ci@o che Dante apprese dalla teologia
+> ! morale, circa la natura e la forma del peccato, viene risolto
+> ! intuitivamente nella visione poetica, nelle immagini convenienti
+> ! ai concetti astratti: e questo riconferma il valore positivo e
+> ! unitario della ^Commedia~, in cui l'esigenza etica, conforme alla
+> ! valutazione del male secondo la legge biblica, trova nella
+> ! fantasia e nella rappresentazione l'adeguato linguaggio.
+> ! Maometto, Pier da Medicina, Curione, Mosca de' Lamberti, Bertram
+> ! dal Bornio raffigurano, nel loro dolore, quello dei popoli, delle
+> ! citt@a, delle fazioni, delle famiglie, in un quadro di luttuose
+> ! conseguenze, in cui ogni separazions dalla ragione e dall'ordine
+> ! divino diventa la lacerazione dell'uomo e delle leggi di vita.
+> --- 276,315 ----
+>   Achitofel, vistosi perduto nella sua ribellione, s'impicc@o a
+>   Gilo.  Si ritiene da alcuni biblisti che il lamento davidico per
+>   il tradimento del suo consigliere o forse di Absalom sia
+> ! contenuto nel ^Ps.~ LIV.  -- |punzelli~: insinuazioni.
+> 
+>         |139.  cos$i giunte~: cos$i strette per i vincoli di
+>   natura e di sangue.
+> 
+> !NO       |140.  partito...~: porto il mio capo
+> ! separato dal cuore, ch'@e racchiuso in questo tronco.  @E un
+> ! passaggio dall'attivo al passivo.  <Perch'io partii... partito
+> ! porto>.  L'essere <^partito~> @e il <partire> stesso, il peccato
+> ! dentro di lui.  <Quod quisque fecit patitur> (cfr. S. Vazzana,
+> ! ^Il contrapasso nella Div. Com.~, Roma 1959).
+> 
+> NO        |142.  lo contrapasso~: da <contra pati>, patire secondo
+>   quello che s'@e fatto.  Secondo la legge mosaica del taglione, il
+>   colpevole veniva punito con la stessa pena che aveva inferto al
+>   prossimo (^Esodo.~ XXI. 24; ^Levit.~, XXIV, 20; ^Deuter.~, XIX,
+>   21) <Haec est forma divini iudicii, ut secundum quod aliquis
+> ! patiatur, secundum illud Matthei VII, 2 " In quo iudicio
+>   iudicaveritis iudicabimini, et in qua mensura mensi fueritis
+> ! remetietur vobis " Ergo id est simpliciter quod contrapassum> (S.
+> ! Tommaso, S. ^theol.~, II, II, 61, 4).
+> !
+> !       Questa legge ha una logica: non dipende da allegoria,
+> ! da contrasto o da qualcosa che proviene dal di fuori, ma @e
+> ! intrinseca allo stesso fatto morale e al concetto di peccato.
+> ! Ci@o che Dante apprese dalla teologia morale, circa la natura e
+> ! la forma del peccato, viene risolto intuitivamente nella visione
+> ! poetica, nelle immagini convenienti ai concetti astratti: e questo
+> ! riconferma il valore positivo e unitario della ^Commedia~, in cui
+> ! l'esigenza etica, conforme alla valutazione del male secondo la
+> ! legge biblica, trova nella fantasia e nella rappresentazione
+> ! l'adeguato linguaggio.  Maometto, Pier da Medicina, Curione, Mosca
+> ! de' Lamberti, Bertram dal Bornio raffigurano, nel loro dolore,
+> ! quello dei popoli, delle citt@a, delle fazioni, delle famiglie,
+> ! in un quadro di luttuose conseguenze, in cui ogni separazione
+> ! dalla ragione e dall'ordine divino diventa la lacerazione dell'uomo
+> ! e delle leggi di vita.

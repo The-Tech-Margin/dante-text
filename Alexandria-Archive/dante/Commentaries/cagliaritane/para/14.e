@@ -1,0 +1,51 @@
+	|1.~  Dal cierchio.  uno vaso tondo che sia pieno d'acqua percoteldolo 
+de fore o dentro l'aqua se move da le prode prima et quando ella @e al 
+mezo tucto insiemi se move.  per similitudine se movero li santi 
+cierchi de quelli lumi santissimi [^ma veram.~ santissimo] s@i tosto 
+che sancto tommaso restecte di parlare.
+
+	|13.~  ^Diteli~.  qui dimanda beatricie a quelli spiriti beati et 
+dice.  diteli se la lucie unde s'emfiora quando sare' resusitati col li 
+vostri corpi porr@a exere che non vi n@oi.  quasi voglia dire.  
+l'occhio corporale non po' soffrire de mirare nella rota del sole.  et 
+voi sete qui pi@u resplendienti che 'l so[le].  come saranno li occhi 
+dei vostri corpi a cotanta vostra luce.
+
+	|55.~  Cos@i questo fulgore.  responde qui lo spirito et credo che 
+fosse sancto tommaso.  alchuno altro crede salamone (^om.~).
+
+	|70.~  ^Cos@i come al salire~.  cos@i vidd'io sciendere faville dei 
+quei luci (^sic~) et fiamegiando venero a questi doi cerchi et 
+d'entor[n]o corendo col li altri di fore ad es[s]i.  E beatrice s@i 
+bella et ridente me si mostr@o ch'io nol posso [dire] ma tra quelle 
+vedute la mente la lassa che la mente nol la pu@o seguire.
+
+	|85.~  ben m'acors'io.  tieni a mente lectore che biatrice qui entra 
+el lo cielo de marte.  et quanto pi@u entra de cielo in cielo tanto 
+pi@u s'@e facta pi@u bella com magiure alegreza et dante pi@u 
+entendente spechulactivo contento.
+
+	|88.~  ^Con tucto el core~.  tucte le lingue umane sono una en dio s@i 
+che quando li ommeni adorano dio tucte le loro lingue dio le 'ntende 
+(^om.~).
+
+	|97.~  ^Chome distinta~.  tra i poli del mondo cio@e tra oriente et 
+ocidente se vede una strada bianchegiare la nocte alchuna volta per 
+molte stelle che l@i resplendono ed @e come una strada lunghissima la 
+quale molti la chiamano la strada de santo jacomo.  ma dante la chiama 
+galassia.
+
+	|112.~  ^Chos@i se veggiono~ qui.  le minutie dei corpi movarse per lo 
+ragio unde se lista talvolta l'ombra [che] l'omo fa per sua difesa.  la 
+casa che 'l difende dai venti da le piove et dal sereno de la nocte.  
+alchuna volta entra per una finestra uno raggio de sole ch'entra per 
+l'ombra de la casa en mo' d'una lista a schincio.  dentro da quella 
+lista de sole @e tucta piena de granella de polvare li quali se 
+chiamano actomi.  et sempre vanno volando per essa [s]pera v@oi raggio 
+de so[le] et vanno balenando per essa renovando vista secondo che 
+volgono.  et cos@i facieno quelli lumi beati or su or gi@u ora di l@a 
+ora di qua d'intorno a la luce del benedecto revenerato segnio da 
+croce.  et cantavano tanto dolcissimamente che bene ch'ei non 
+inte[nde]sse l'inno sola la mellod@ia del suono el travi@o di s@e 
+medesmo.
+

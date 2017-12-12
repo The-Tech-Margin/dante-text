@@ -1,0 +1,2 @@
+	:SET #PPROMPT ~Strike \o2RETURN\f2 to continue; \o2S\f2 to Search: ~
+	:BRS PRINT

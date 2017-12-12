@@ -1,0 +1,540 @@
+	|Canto XX dell'Inferno, dove si tratta della pena
+degl'indovini e maliosi, puniti nella quarta bolgia del cerchio
+ottavo.~
+
+	|Proemio.~  Degl'indovinatori e maliosi nella quarta
+bolgia puniti Dante tratta nel presente XX Canto, che in quattro
+parti principali dobbiamo dividere.  Nella prima descrive la pena
+degli indovinatori e maliosi in generale.  Nella seconda
+introduce Virgilio a nominare in ispecialit@a alcuni, ivi: ^Drizza
+la testa.~  Qui nomina Virgilio in ispecialit@a alcuni famosi
+indovini: Amfiarao, il quale vedendo, che Adrasto, re degli
+Argivi in Grecia, si disponeva a muover guerra contro i Tebani,
+della cui guerra ne dissi quanto basta nel Canto XIV, and@o egli
+sopra un monte, ove con suoi auguri conobbe, che se andava a
+quella guerra, mai non ritornerebbe.  Per la qual cosa schivare,
+si ascose in luogo saputo dalla sola moglie sua Erifile.  Essendo
+poi tutti gli altri re di sua lega preparati al partire, e con
+gran diligenza cercando Amfiarao, accadde caso che Erifile vide
+ad Argia, figlia d'Adrasto e moglie di Polinice, una maravigliosa
+cintura, che fabbricato aveva il Dio Vulcano, e donata ad
+Ermione, moglie di Cadmo, nei tempi passati re di Tebe.  Piacque
+ad Erifile quella cintura, in modo che per averla, facendosene
+pi@u cura, che della salute del marito, disse ad Arg@ia in qual
+luogo ei stava nascosto.  Onde, richiesto dagli altri re, non si
+seppe escusare, che anch'egli non andasse in guerra contra i
+Tebani.  Ivi un giorno, sopra la sua carretta secondo usanza di
+quei tempi armeggiando, si aperse la terra, e divorollo armato. 
+Di questo Amfiarao parla Stazio nella sua ^Tebaide.~  Nomina
+secondariamente Virgilio un altro indovino, chiamato Tiresia, del
+quale dicono i poeti, che passando per un bosco e vedendo due
+serpi che insieme si mescolavano in atto di generazione ei con
+una verga percosse tra mezzo loro, e separolli, al qual atto di
+subito Tiresia di maschio divent@o femmina, e cos@i rimase per lo
+spazio di anni sette.  Finito il qual tempo, ancora passando per
+quel medesimo bosco, vide quei serpenti in simile atto congiunti
+e percuotendoli ancora e separandoli l'uno dall'altro con la sua
+verga, ritorn@o al primo stato, diventando maschio.  Accadde poi,
+che essendo contenzione intra Giove e Giunone, qual di loro
+sentisse pi@u piacere nell'atto venereo, dicendo Giove, che
+maggior piacere sentiva la femmina, e per lo contrario dicendo
+Giunone, che maggiore era il piacere del maschio, piacque a loro
+di eleggere per giudice Tiresia, il quale avea provato l'un atto
+e l'altro.  Diede Tiresia sentenza, che molto maggior piacere era
+quello della femmina; onde irata Giunone lo fece diventar cieco. 
+Giove dolente di ci@o che fatto aveva sua moglie gli moltiplic@o la
+possanza del veder mentale, intanto che non solamente sapeva le
+cose presenti e passate, ma eziandio divinava quelle ch'erano per
+avvenire.  Nomina ancora Virgilio un altro gran divinatore, il
+quale, secondo che mostra Lucano, fu al tempo della guerra civile
+tra Cesare e Pompeo, ed abit@o nei monti della Lunigiana in
+Toscana.  Susseguentemente nomina Manto, figlia del sopraddetto
+Tiresia, dalla quale fu edificata la Citt@a di Mantova, secondo
+che si dir@a nella seguente parte principale del Canto.  Nella
+terza {parte} introduce {Virgilio} a fare una digressione
+narrativa della origine di Mantova, patria sua ivi: ^Poscia che
+il padre.~  Nella quarta ritorna a nominare altri indovini in
+ispecialit@a, e finalmente si drizza a proseguire pi@u oltra il suo
+cammino, ivi: ^Ma dimmi.~  In tre particelle possiamo dividere
+questa quarta, ed ultima parte principale del Canto: nella prima
+cortesemente risponde Dante alle ultime parole di Virgilio, e lo
+revoca alla materia principale.  Nella seconda a petizion sua
+Virgilio gli mostra e nomina in ispecialit@a alcuni altri spiriti,
+ivi: ^Allor mi disse.~  Nella terza @e ammonito Dante a non far
+pi@u dimora, ma a proseguir suo cammino, ivi: ^Ma vieni ormai.~
+
+	|1-9.  Di nova pena mi convien far versi~: Nella prima
+parte dice l'autore, che vide anime nella quarta bolgia, le quali
+avevano il capo riverso sovra le spalle, sicch@e la faccia
+guardava dietro, ed il collo era sopra il petto, ed indietro
+andavano tacendo e lagrimando.  Prima che a narrazione di questa
+pena ei venga, per farne ben attenti, dice: Di nova pena, quale
+non abbiamo ancora veduta, mi convien far versi e dar materia al
+XX Canto presente della prima Canzon, ovvero Cantica, che @e dei
+sommersi dannati e sepolti nell'Inferno.  Per lo modo del
+parlare, che usa l'autore, quando dice della prima canzone,
+apertamente vediamo, che le tre principali parti di tutta la
+^Commedia~, ^Inferno~, ^Purgatorio~ e ^Paradiso~ son chiamate
+Canzoni ovvero Cantiche; quando poi dice al XX Canto, vediamo, i
+capitoli essere chiamati Canti composti di molti versi, e per
+questo suo parlare in effetto vuol dire, che in questo XX Canto
+descriver@a nova pena quale non avea veduta, n@e udito mai dire. 
+Viene poi alla narrazion sua dicendo: Io era gi@a tutto quanto
+disposto a riguardar nello scoperto fondo della quarta bolgia,
+scoperto, dico, perocch@e in esso non eran forati nei quali stesse
+alcun ascoso, com'erano nella terza bolgia, e non vi era sterco,
+dove fosse alcun sommerso, come trovai nella quarta, e veder si
+poteva ci@o che dentro era.  Dico, ch'io era gi@a tutto disposto ed
+intento a riguardare in quel fondo scoperto, che si bagnava di
+pianto angoscioso di quelli, che ivi erano puniti.  E, cos@i
+riguardando io vidi per lo vallon tondo, per lo fosso di quella
+bolgia che cinge intorno le altre bolge inferiori, dico, ch'io
+vidi gente venir tacendo e lagrimando al passo, come fan le
+letanie in questo mondo, la vidi venire a simil passo lento e
+tardo, come su nel mondo si va alle processioni.
+
+	|10-18.~  Prosegue Dante, e mostra qual era la figura di
+questa gente, onde dice: |come il viso mi scese in loro pi@u
+basso~, come abbassai gli occhi a guardare di sotto dalla faccia
+loro, mirabilmente apparve, essere ciascun travolto tra il mento
+e il principio del casso, travolto nel collo, sicch@e dalle reni
+era tornato il volto, e convenia loro, a quella gente, venir
+indietro con tutto il busto, perch@e il veder dinanzi era lor
+tolto, avendo il volto travolto a dietro.  Che mirabile fosse
+questo travolgimento lo denota l'autore dicendo: Per forza di
+parlasia, di malattia cos@i chiamata, che gitta le membra di suo
+sito, per forza di tal malattia forse gi@a si travolse alcuno cos@i
+del tutto; ma io non lo vidi, n@e credo che sia, n@e credo che cos@i
+del tutto mai abbia travolto alcuno.  Questi cos@i travolti
+conosceremo nella seguente parte principale essere divinatori,
+superstiziosi ed incantatori, ai quali, moralit@a rappresentando
+il nostro autore, attribuisce pena decevole.  Onde li finge aver
+travolta la faccia a dietro, a denotare, che essi hanno in vita
+riversato il loro intelletto, lasciando la considerazione delle
+cose passate e presenti, e tutta loro speculazione mettendo in
+vedere le cose da rietro, le cose future che siano per avvenire. 
+A prescienza delle quali ed ancora delle facende umane, molto pi@u
+incerte, questi divinatori procedono non solo per via
+d'astrologia, ma in arte di necromanzia costituiscono ogni loro
+prudenza.  Vanno dunque indietro tutti costoro, ed a passo tardo
+e lento in nulla cosa pronti, impediti sempre da timori
+superstiziosi e da loro vani signali.
+
+	|19-24.  Se Dio ti lasci, Lettor, prender frutto~: Disse
+di sopra l'autore: non vidi mai, n@e credo che alcun per forza di
+parlas@ia cos@i fosse travolto del tutto, com'era ciascun di quei
+del quarto vallone.  Or pensa tu adunque, o Lettore, se Dio ti
+lasci prender frutto di tua lezione, che fai in questa
+^Commedia~; pensa per te stesso, com'io potea tener lo viso
+asciutto, ch'io non lagrimassi, quando d'appresso vidi la nostra
+imagine, la imagine umana, in coloro esser s@i torta, che il
+pianto degli occhi loro non bagnava il petto, ma bagnava le
+natiche per lo fesso, scorreva gi@u alle natiche per lo mezzo.
+
+	|25-30.  Certo io piangea~: stando appoggiato all'un dei
+rocchi del duro scoglio, ad una delle sponde del ponte, piangeva,
+dico, s@i che la mia scorta Virgilio mi disse: sei tu ancora, o
+Dante, degli altri sciocchi che hanno compassione ai dannati? 
+Soggiunge una bella sentenza, dicendo: qui nell'Inferno vive la
+piet@a, quando essa @e ben morta.  Dimmi chi @e pi@u scellerato che
+colui, che porta compassione al giudicio di Dio?  Non ti @e dunque
+lecito piangere, n@e aver compassione a quelli che per giusto
+giudicio di Dio sono dannati.
+
+	|31-39.  Drizza la testa, drizza e vedi~: Continuando
+adunque Virgilio sua voce di riprensione, dice a Dante: Non star
+poggiato pi@u alla sponda del ponte: |drizza la testa~, e vedi
+colui, a cui si aperse la terra agli occhi dei Tebani, nel
+cospetto loro; perch@e essi tutti beffeggiandolo gridavan, |dove
+rui~: dove vai tu con ruina, o Amfiarao?  Perch@e lasci la guerra? 
+Io Virgilio ti dico, o Dante, che tu vegga Amfiarao, a cui si
+aperse la terra, e che non rest@o di ruinare a valle fino a Minos
+Giudice, quello che tu vedesti nella entrata del secondo cerchio
+dell'Inferno, che, cio@e il qual Minos afferra ciascheduno,
+esamina, giudica e manda al luogo di sua pena, secondo che fu
+detto nel quinto Canto.  Mira, o Dante, quell'Amfiarao, che ha
+fatto delle spalle petto, avendo il volto sopra le spalle,
+secondo che aver lo dovrebbe sopra il petto; ei guarda dirietro,
+e fa ritroso calle, va indietro con la persona, perch@e volle
+veder troppo davante, presagendo l'avvenire come io dichiarai di
+sopra nella prima parte principale del Canto.
+
+	|40-45.~  Nomina Tiresia, dicendo: vedi Tiresia, che mut@o
+sembiante, mut@o figura, quando nella selva percossi avendo con
+sua verga, e l'un dall'altro separati i due serpenti, insieme ad
+atto di generazione congiunti, divenne di maschio femmina,
+cangiandosi e transmutandosi tutte quante le di lui membra.  E
+poi li convenne ribatter, di nuovo battere con la verga quelli
+stessi serpenti avvolti un altra volta insieme nel modo ch'erano
+stati la prima; dico, che poi convenne ribatterli, prima ch'ei
+riavesse le |maschili penne~, quali sono la barba, la pelle ed i
+membri di maschio.
+
+	|46-51.~  Nominasi per terzo Aronta del quale dice
+Virgilio: Aronta @e quel che se li atterga al ventre, di Tiresia,
+il suo tergo mette al ventre di Tiresia seguitandolo in quella
+processione.  Usa Virgilio di tal parlare, conciosiach@e avendo
+coloro rivolto il capo ed andando a ritroso colle reni dinanzi, e
+col ventre dietro, accade che colui il quale seguita l'altro
+tiene le reni sue poggiate al ventre di quello, che va dinanzi, e
+le spalle al petto.  Per questo rispetto dice Virgilio: Aronta @e
+quel che se li atterga.  Continua il parlare: colui, dico, @e
+Aronta che nei monti di Luni ebbe la spelonca per sua dimora tra
+i bianchi marmi, che si cavano ivi, dove ronca, dove disbosca e
+coltiva i terreni lo Carrarese che alberga di sotto.  Vuol dire,
+che Aronta ebbe la sua spelonca nella Lunigiana, in quei monti
+dove si cava il marmo bianchissimo, di sopra da una terra
+chiamata Carrara.  Continuiamo le parole di Virgilio.  Colui @e
+Aronta, il qual ebbe nel detto luogo sua spelonca, onde, cio@e dal
+qual luogo non gli era per alcun ostacolo tronca ed occupata la
+veduta a guardar le stelle del Cielo ed a guardare il mare;
+sicch@e ben poteva vedere ci@o che mestier gli faceva per l'arte
+sua di divinare.
+
+	|52-57.~  Nomina poi Virgilio Manto, dicendo: e quella
+femmina che ricopre le mammelle con le trecce sciolte spandendosi
+le trecce gi@u per lo petto e per le mammelle, non per le spalle,
+sopra le quali guardava il viso, dico, che quella femmina, che tu
+non vedi; perocch@e tu la vedi per lo volto e per le reni, non per
+lo petto, e che ha di l@a ogni pilosa pelle, sicch@e n@e alle
+mammelle, n@e alle trecce, n@e da altro segnale puoi conoscere se
+sia maschio o femmina, ella fu Manto, figlia di Tiresia, che
+cerc@o per molte terre, poscia si pose ad esercitar sua arte, e
+fin@i sua vita l@a dove io nacqui, dove ora @e Mantova, citt@a di
+Lombardia.  Onde, acciocch@e tu sia ben informato di questo, mi
+piace, che un poco mi ascolte.  Viene Virgilio a narrazione della
+origine di Mantova nella terza parte che seguita.
+
+	|Proemio: Mantova.~  Per intelligenza di questa parte, e
+del fine della precedente, dico, che levatosi il campo da Tebe e
+finita la guerra per la morte di Polinice ed Eteocle, che si
+uccisero l'un l'altro in battaglia, occup@o la tirannia di quella
+citt@a un crudele cittadino, chiamato Creonte, contra il quale
+avendo poi mossa guerra Teseo, re di Atene, lo vinse, lo uccise e
+fecesi tributaria Tebe.  Or di questa servit@u impazienti essendo,
+molti nobili Tebani abbandonarono la patria, e simil fortuna
+volle pur tentare la magnanima femmina Manto, figlia di Tiresia. 
+Onde con sua gente cercando molti e diversi paesi, finalmente
+giunse in Lombardia nel luogo, dove ora @e Mantova; e parendole
+quel sito esser forte e sicuro da impeto di violenti nemici,
+piacendole ancora i confini, ella vi ferm@o sua stanza, e diede
+esempio ai suoi vicini di abitare in quel luogo.  Indi Mantova fu
+appellata dal suo nome la citt@a che ivi edificarono.  Dobbiamo
+ancora sapere, che in Lombardia ne' confini delle diocesi
+Bresciana, Trentina e Veronese @e un bellissimo lago, volgarmente
+chiamato di Garda, in latino chiamato ^Benaco.~  Preziosa @e
+l'acqua sua, e tra molti pesci preziosi, ne produce uno
+preziosissimo, chiamato carpione.  Dalla parte verso tramontana
+fanno spalle al lago le Alpi, le montagne che separano Lombardia
+dall'Allemagna, delle quali io dissi nella fine del IX Canto. 
+Dalle altre parti lo cingono in parte alcune coste di quelle
+alpi, in parte alcuni collicelli, che sono tra il piano del
+Bresciano e quello del Veronese, e si estendono fino alla
+frontiera della pianura del Mantovano.  Tra le Alpi adunque, e
+questi collicelli, concorrendo fonti e fiumicelli quasi
+innumerabili, nella vallata, che intra loro si trovava, si
+congreg@o ivi quel nobilissimo lago, non avendo uscita, e crebbe
+fintantoch@e tra quei collicelli trov@o luogo, donde uscir potesse
+e far suo corso a siti pi@u bassi.  Ivi quell'acqua fatta fiume
+lascia il nome di |Benaco~ e di Garda, e chiamasi Mincio, ove @e
+situato un forte castello con una bella terra popolata, che si
+chiama Peschiera.  Passa questo Mincio tra que' collicelli fino
+alla terra di Valeggio, ove dismontando gi@u nella pianura
+Mantovana non iscorre molte migliara, che vi fa una lama, ovvero
+una palude, tra la quale essendo anticamente rimasto alquanto di
+terra scoperta, piacque a Manto, figlia di Tiresia, gi@a trascorsi
+avendo molti paesi, abitare in quel polesine, ovvero Isoletta, in
+cui reducendosi poi altri abitatori, fondarono la citt@a, da Manto
+prima abitatrice di quel luogo, nominata Mantova.  In successo di
+tempo, per pi@u reconciliazione di quell'aere, e per maggior
+comodit@a della citt@a, gli abitatori purgarono la palude, ove
+meglio loro apparve, s@i che non vi @e rimasto che un laghetto
+causato dal Mincio.  Pi@u oltra ristringendosi poi a forma di
+fiume, entra nella gran fiumara di Po, e con essa discende gi@u al
+mare, e fondato @e un forte castello, chiamato Governolo, nel
+luogo dove fa sua entrata in Po.  Terzo dobbiamo sapere, secondo
+che io trovo dir altri, che nella citt@a di Mantova ne' tempi
+passati, reggendo i Gentiluomini lo stato, fu un Conte, nominato
+Alberto, della nobile parentela de' Casalodi, il quale, essendo
+in reggimento, si lasci@o ingannare da un sagacissimo cittadino,
+chiamato Pinamonte de' Buonacossi, e tal fu l'inganno: Avendo i
+popolani molto in odio la Nobilt@a, e stando il popolo in
+commozione contro i Gentiluomini, Pinamonte astutisissimo, e
+molto amato dal popolo, confort@o il Conte Alberto, sotto specie
+di buon consiglio, che trovando escusazioni e cagioni oneste,
+mandasse per alquanti giorni fuora della citt@a, alcuni in un
+luogo, altri in un altro, i pi@u nobili della terra, fintantoch@e
+fosse pacificato alquanto il popolo, ed egli stesso, perch@e
+fossero mandati fuora, nomin@o quelli per consiglio ed aiuto de'
+quali era per aver pi@u fermezza lo stato, se nella citt@a fossero
+rimasti.  Diceva costui, che non dubitava, se pure il popolo
+vedesse quegli altri di fuori, che ei col credito che aveva,
+facilmente lo quieterebbe, in modo che gli altri pacificamente
+potrebbero ritornare.  A tal consiglio dando fede il Conte, e
+mettendolo in esecuzione, quando apparve il tempo a Pinamonte,
+commosse il popolo ad arme, in modo che, non essendo nella citt@a
+quelli che solevano essere per defension dello stato signorile,
+fu privato di sua signoria il detto Conte, ed esterminata la
+parentela de' Casalodi con molte altre nobili parentele di quelli
+citt@a; onde rimase assai spopolata.  Proposti questi evidenziali,
+vengo alla esposizione del testo.
+
+	|58-66.  Poscia che il padre suo di vita usc@io~: Di Manto
+proseguendo in parlare Virgilio, pare che in questa terza parte
+faccia dal proposito principale una digressione, nella quale
+descrive la prima origine di Mantova patria sua.  Virgilio ha
+mostrato a Dante Manto divinatrice famosa della quale gli piace
+un poco esser ascoltato.  Comincia adunque a ragionare, e dice: 
+Poscia che il padre suo, Tiresia, uscito di vita, e poich@e venne
+serva, poich@e fu fatta tributaria di Teseo, re ateniese, la citt@a
+di Bacco, la gente Tebana, nella qual citt@a, specialmente si
+adorava il Dio Bacco, poscia che questo occorse, questa, Manto,
+|gio~, and@o gran tempo per lo mondo, e finalmente venne al luogo
+che ora ti descriver@o.  |Suso in Italia bella~, nella Lombardia,
+giace un lago |api@e dell'Alpe~, appi@e delle mantagne, che serrano
+Lamagna sovra Tiralli, separano Allemagna da Italia di sopra
+dalla terra chiamata Tiralli: dico, che ivi giace un lago che ha
+nome |Benaco~, e di presente si chiama lago di Garda.  Onde si
+produca ivi quel lago dichiara Virgilio in modo, che comprender
+si pu@o la grandezza sua, dicendo: Per mille fonti e pi@u, credo,
+per tante fonti ch'io non saprei dire, si bagna: improprio @e il
+parlare, che il lago si bagni, ma esponiamo, si causa e produce,
+si congrega quell'acqua tra Garda, Valcamonica ed Apennino. 
+Garda si chiama un castello sulla riva del lago dalla riviera
+Veronese: Valcamonica @e una valle molto famosa, che quantunque
+non sia vicina al lago, ma nei confini tra Bergamaschi e
+Bresciani, Virgilio nientedimeno per sua fama la nomina per
+denotare la riviera del Bresciano.  Apennino propriamente si
+dovria chiamare quella montagna che si estende per lo lungo
+d'Italia, secondo che dichiarai nel Canto IX alla fine, pure
+l'Autore, perocch@e ambedue queste montagne hanno loro principio
+molto vicino, intra Monaco della riviera Genovese, e Nizza di
+Provenza, nomina l'una per l'altra, secondo che meglio serve al
+di lui verso.  In alcuni luoghi gi@a veduto abbiamo, che Dante
+nomina Alpi le parti di Apennino, quando ora vediamo nominato
+Apennino ci@o che si dovrebbe nominar Alpi.  Esponiamo adunque il
+testo nostro.  Tra Garda, Valcamonica ed Apennino, tra il
+Veronese, Bresciano e la montagna del Trentino si produce e
+congrega quel lago, dell'acqua che per mille fonti e pi@u, credo,
+|stagna~, sta nel detto luogo, non potendo aver di subito libero
+discorso per l'ostacolo de' monticelli descritti nel secondo
+evidenziale.  Non si dee per@o intendere, che stagni in tutto, e
+morta stia quell'acqua, conciosiach@e facilmente esce, come
+apparve in esso evidenziale, e poco di sotto si dir@a nel testo.
+
+	|67-75.~  Pi@u apertamente dichiara Virgilio i confini di
+quel lago, e dice: Il detto lago @e luogo nel mezzo di tre
+Episcopati situato l@a dove |segnar poria~, cio@e dar Pontificale
+Benedizione il Pastore Trentino, e quel di Brescia e il Veronese,
+|se fesse~, se facesse quel cammino; dei quali pastori a nessuno
+essendo lecito dar tale benedizione fuori della loro Diocesi,
+appare che quel luogo @e situato nel mezzo delle giurisdizioni de'
+tre antedetti Vescovi.  Descritto ha Virgilio il luogo, e come si
+produce ivi quel lago: descrive susseguentemente, come dal detto
+lago, ed in qual parte esce quel fiume per lo quale descriver@a
+poi la situazione di Mantova.  Onde dice: Dove la riva intorno al
+lago discese pi@u, dove pi@u bassa @e la riva d'intorno, sicch@e
+sboccar pu@o fuori l'acqua, ivi |siede Peschiera~, quella terra
+cos@i chiamata, che @e |bello e forte arnese~, forte propugnacolo e
+difensione della citt@a di Verona, |da fronteggiar Bresciani e
+Bergamaschi~, da far fronte e difendere il passo contro Bresciani
+e Bergamaschi, sicch@e non possano far impeto sopra la citt@a di
+Verona.  Maggiore mostra Dante essere stata la possanza de'
+Bergamaschi, che non @e di presente, conciosiach@e per fronteggiare
+a loro fu edificata Peschiera in difensione di cos@i magna citt@a,
+come era in que' tempi Verona.  Gran merc@e sarebbe raddrizzar
+l'una e l'altra, e vivificare il nome di gentilezza, il quale di
+giorno in giorno pi@u si vede in loro mancare, suffocate essendo
+in servit@u acerba.  Ora continuiamo il parlar di Virgilio.  Siede
+Peschiera, dove la riva d'intorno @e pi@u bassa: ivi convien che
+caschi tutto quanto ci@o che non pu@o star in grembo a Benaco;
+conviene che ivi derivi e faccia fiume tutta quell'acqua, che
+esce dal detto lago, e fassi fiume, scorrendo gi@u per verdi
+paschi.
+
+	|76-81.~  Prosegue in dichiarare, come escendo fuora del
+lago muta nome quell'acqua, e chiamasi Mincio; onde dice:
+Tostoch@e l'acqua mette c@o, mette capo, e comincia a correre, la
+qual cosa fa a Peschiera, non pi@u si chiama Benaco, ma Mincio
+fino a Governol, fino alla terra cos@i chiamata, dove cade in Po,
+e perde suo nome, confondendosi nella maggior fiumara, e
+scorrendo poi fino al mare sotto nome di quella.  Quantunque
+Virgilio abbia fatto menzione della caduta del Mincio in Po,
+nientedimeno ritorna a descrivere la sua discesa gi@u per gli
+antedetti pascoli; onde dice: |Non molto ha corso~ quell'acqua
+fuora del lago, che trova una lama, nella quale si distende in la
+paluda, si spande e fa palude, e talora, cio@e alcuna fiata di
+state suol |esser grama~, nebulosa e malsana.
+
+	|82-87.~  Fatta questa descrizione ritorna Virgilio a
+parlar di Manto, e dichiara ci@o che fu detto nel fine della
+precedente parte, cio@e, come poich'ebbe cercato molte terre, ella
+si pose l@a dove egli nacque.  Continuandosi a ci@o che frescamente
+ha detto, soggiunge: Quindi per lo luogo, dove il Mincio si
+distende in palude, |passando la Vergine cruda~, che allora era
+Vergine ed era cruda, cio@e silvaggia, e fuggiva consorzio umano,
+e cercava luoghi solitari per far suoi divinamenti, ella nel
+mezzo del pantano di quella palude vide terra senza coltura e
+nuda d'abitanti, da nessuno abitata.  Per fuggir ogni consorzio
+umano l@i ristette co' suoi servi a far sue arti magiche, e
+vissevi, vi men@o sua vita, e |lasci@o suo corpo vano~; vi mor@i
+lasciandovi il corpo privato d'anima.
+
+	|88-93.~  Soggiunge Virgilio, come dietro la morte sua,
+gli uomini vicini per esemplo di lei cominciarono ad abitarvi,
+onde dice: Gli uomini, che intorno a quella palude erano sparti e
+separatamente abitanti, chi qua chi l@a, secondo che pi@u
+comodamente lor accadeva per coltura de' loro terreni, quegli
+uomini, poich@e fu morta Manto, si accolsero a quel loco da lei
+abitato, |ch'era forte per lo pantano che avea da tutte parti.~ 
+Fecero essi, ed edificarono la citt@a sopra quelle ossa morte,
+sopra il luogo nel quale erano seppellite le ossa di Manto, e
+senza gittar altra sorte, per sapere come si dovesse chiamar
+quella citt@a, secondo che soleva essere usanza degli antichi per
+sorte e per auguri, od altre simili arti investigare qual nome
+dovessero mettere alle terre che fondavano, dico, che costoro
+senza gittare altra sorte chiamarono quella citt@a Mantova per
+colei che prima elesse il luogo ad abitazione, il cui nome era
+Manto.
+
+	|94-99.~  Quanto crescesse quel popolo, e perch@e poi si @e
+sminuito, seguita nel testo, dicendo: Gi@a fur le genti sue pi@u
+spesse dentro in quella citt@a, |prima che la matt@ia di Casalodi~,
+prima che la mattezza del Conte Alberto de' Casalodi ricevesse
+inganno da Pinamonte de' Buonacossi, secondo ch'io dissi nel
+terzo evidenziale.  Conclude finalmente Virgilio questo parlare e
+dice: |Per@o t'assenno~, ti faccio avvisato e cauto, che se tu odi
+mai originar la mia terra, se tu odi la origine di Mantova nella
+quale io nacqui, recitar altramenti, nulla menzogna frodi la
+verit@a.  Vuol dire: io ti ho detto, o Dante, ci@o che hai udito
+della origine di Mantova, acciocch@e se altrimenti udissi mai dir
+da altri tu sappia la verit@a, e non dii fede a menzogne.  A
+quest'uttimo cortesemente risponde Dante, e lo revoca alla
+materia principale nel testo che seguita.
+
+	|100-105.~  Quanto alla prima ed alla seconda particella
+{di questa quarta parte}, continuando il testo alla precedente
+parte, dice l'autore: nel modo gi@a descritto volle Virgilio
+recitar la origine di Mantova, acciocch@e io sapessi la verit@a, se
+forse altri altramente dicessero.  Ed io Dante risposi a lui: o
+|Maestro, i tuoi ragionamenti mi son s@i certi~, e s@i prendono mia
+fede, tanta fede lor ho, che gli altri ragionamenti di chi si
+voglia mi sarian carboni spenti, foschi e negri, sicch@e in loro
+non reputerei che fosse lume alcuno di verit@a.  Ornata @e questa
+eloquenza, cortese, reverente e degna d'imitazione.  Passa poi
+Dante in altro parlare, che pertiene alla materia degl'indovini. 
+Dice adunque: ma dimmi, o Virgilio, della gente qui dannata che
+procede, che va in modo di processione, dimmi, se tu ne vedi
+alcuno degno di nota, degno di esser nominato specialmente. 
+Dimmelo, dico, perocch@e la mia mente solo a ci@o risiede, quasi
+voglia dir Dante: non faccio cura di sapere di presente la
+origine di Mantova, ma solo @e intenta la mia mente in considerare
+questi divinatori.
+
+	|106-114.~  Soggiunge poi nella seguente particella la
+risposta di Virgilio, per esposizione del principio della quale
+dobbiamo sapere, che volendo i Greci muover guerra contro i
+Troiani per far vendetta della ingiuria di Paride, mandarono
+Achille all'oracolo di Apollo per sapere, se prospero loro doveva
+essere il fine di quella guerra.  Per lo simile Priamo, re di
+Troja, mand@o a quell'oracolo un suo augure, chiamato Calcanta. 
+Achille ritorn@o a' suoi Greci; ma Calcanta avendo conosciuto che
+Troja rimarrebbe disfatta, non volle tornare a casa; onde
+perfidiosamente pass@o ai Greci, ai quali, per acquistar la loro
+benevolenza, annunzi@o che sarebbero vittoriosi.  Avevano i Greci
+un altro augure, chiamato Euripilo, a cui diedero Calcanta per
+compagno a sacrificare e divinare ci@o che doveva succedere,
+secondo le cose occorrenti, e comandare ci@o che conoscevano
+essere volont@a de' loro Dei.  Furono dunque Euripilo e Calcanta
+quelli che placarono gli Dei, e nel punto che loro parve pi@u
+prospero fecero levare proietti ed @ancore delle navi dal Greco
+porto di Aulide, e mettere in viaggio l'armata di Grecia, che ivi
+era congregata.  Euripilo, recita Dante, essergli nominato da
+Virgilio, onde dice: allora mi disse Virgilio: quel che porge la
+barba dalla gota, non punto sul petto, ma in su le spalle brune,
+avendo riverso il capo sopra il busto, dico, ch'ei fu augure, fu
+divinatore, quando, per andare alla guerra di Troja, Grecia fu s@i
+vota di maschi, che appena rimasero i fanciulli per le cune,
+dico, ch'ei fu augure in quel tempo ed insieme con Calcanta, con
+quell'altro augure cos@i nominato, diede a' Greci in Aulide il
+punto a tagliar la prima corda colla quale stava legata a riva,
+ovvero posta in @ancora quella nave che prima si doveva muovere a
+navigare: vuol dire in effetto, che loro diede il punto di
+navigare.  |Euripilo ebbe nome~, e cos@i canta, cos@i lo nomina
+|l'alta mia Tragedia~ del libro dell'^Eneide~ in alcun loco; tu,
+o Dante, che la sai tutta quanta la mia Tragedia, ben lo sai quel
+luogo, dove io nomino Euripilo, conciosiach@e io il faccio nel
+secondo libro, ove recita il magnanimo Enea le mortali menzogne
+di Sinone.  Tragedia alta chiama Virgilio lo preallegato suo
+libro della ^Eneide~, trattandosi in alto stile dei fatti di
+grandi uomini, di molte avversit@a e guerre.
+
+	|115-123.~  Prosegue poi in mostrare ancora altri
+divinatori, nominandone alcuni assai moderni; onde dice:
+quell'altro che @e cos@i poco nei fianchi, fu Michele Scotto di
+Scozia, che veramente seppe il gioco delle magiche frode. 
+Degnamente Virgilio appella gioco di frode lo esercizio di arti
+magiche, perocch@e in esso massimamente adoperansi fraudolenti
+illusioni, e fu questo Michele grande incantatore nella Corte
+dell'Imperatore Federico II.  Un altro Forlivese, che stette col
+Conte Guido da Montefeltro nomina Virgilio, dicendo: vedi Guido
+Bonatto.  Dietro a questo nomina un calzolaio Parmigiano, onde
+dice: vedi Asdente, che vorrebbe ora aver inteso al cuoio, al
+cuoiame, del quale si fanno le scarpe, ed allo spago, al filo col
+quale si cuciono: ci@o vorrebbe egli ora, ma tardi si pente di
+avere atteso a peggior arte.  Ultimamente nomina in generalit@a le
+maleficiose femmine, indiavolate incantatrici, e dice: |vedi le
+triste, che lasciaron l'ago~, con che si cuce, lasciaron la
+spola, con che si tesse, e lasciaron il fuso, con che si fila, e
+fecersi indovine; fecer malie, dannevoli incantamenti |con erbe e
+con imago~, con imagini, che sapevano formare di cera o di altra
+materia con le quali nuocevano alla persona d'altri, seminavano
+discordie, ove prima era stato amore, infiammavano il cuore a non
+leciti desideri, facevano impazzire quelli che volevano, e di
+innumerabili mali erano cagione.  Tali femmine, quali sono
+queste, delle quali Virgilio parla, trovai che erano arse
+nuovamente in gran copia in diversi luoghi tra le montagne del
+Delfinato, quand'io passai per indi, ove ancora pareva il carbone
+e quasi la cenere fresca.  Or faccio fine a questa materia, e
+vengo alla seguente particella del testo.
+
+	|124-130.  Ma vieni ormai~: Virgilio in questa particella
+conforta Dante a non far pi@u dimora, perocch@e gi@a si levava il
+sole.  Per intelligenza del testo dobbiamo considerare, che
+quando la Luna @e quintadecima, ovvero tutta piena, tramonta
+quando il Sole si leva: dobbiamo ancora sapere, che nelle parti
+occidentali in Ispagna, fuora dello stretto di Gibilterra, per
+onde il mare Oceano entra nel nostro mare Mediterraneo, @e una
+famosa citt@a, per volgare chiamata Sibilia; dobbiamo terzo
+considerare due parti del Cielo, il quale @e tutto sferico e
+rotondo; una appare di sopra del mondo, e ci sembra di vederla
+tutta, quando siamo nel mezzo del mare al largo, dove non si
+veda, se non cielo ed acqua, o pure ancora, se noi siamo in larga
+pianura molto spaziosa.  L'altra met@a comprendiamo con la
+imaginazione essere di sotto dal nostro globo, ascosa dagli occhi
+nostri, e ciascuna @e detto emisperio, secondo che pi@u chiaramente
+dir@o, piacendo a Dio, nel I Canto del ^Purgatorio.~  Per queste
+evidenziali credo che assai chiaro apparir@a il testo.  Mostrato
+ha Virgilio diversi spiriti d'indovini a Dante: ora facendo fine
+a ci@o, e continuando il parlare, dice: ma vieni ormai, o Dante,
+perocch@e Cain e le spine, la Luna, nella quale dicono alcuni
+volgari uomini giacer Caino sopra un fascicello di spine, Cain,
+dico, e le spine gi@a tien le confine di ambedue gli emisperi,
+dell'emisperio nostro di sopra e di quello di sotto, e tocca
+l'onda, pare toccar l'onda del mare Oceano sotto Sibilia, di l@a
+dalla citt@a di Siviglia, la quale @e situata nelle parti
+occidentali della Spagna.  In effetto vuol dire: vieni, o Dante,
+perocch@e la Luna tramonta, e dalla vista nostra si asconde. 
+Seguita nel testo, |e gi@a ier notte fu la Luna tonda~; onde puoi
+sapere, che se la Luna piena tramonta, il Sole si leva.  Che ier
+fosse tonda ten' dee ben ricordare, perocch@e non ti nocque, non
+ti fece nocumento, ma comodit@a, facendoti lume alcuna volta per
+la selva fonda, bassa e oscura, nella quale ti trovasti smarrito
+ier notte.  Che di notte fosse smarrito nella selva comprender
+pu@o chi attende, che tempo era dal principio del mattino, quando
+si trov@o Dante al pi@e del colle uscito dalla selva, secondo che
+fu detto nel I Canto.  Al presente fa fine l'autore, dicendo: s@i
+mi parlava Virgilio, |e andavamo introcque~, non stavamo quieti,
+perch@e parlasse Virgilio, ma intrattanto andavamo e facevamo
+nostro cammino verso il ponte della quinta bolgia, della quale si
+tratta nel Canto che seguita.

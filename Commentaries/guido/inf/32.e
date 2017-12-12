@@ -1,0 +1,932 @@
+	|Proemio.~  ^Incipit XXXII' cantus prime cantice Comedie.~
+
+	In isto XXXII+o~ cantu et in sequentibus autor tractat de
+nono et ultimo circulo inferni, qui grece vocatur ^Kochiton~,
+latine vero ^Cocitus~; quem quidem circulum in quatuor partes
+dividit et distinguit: prima pars dicitur Cayna; secunda
+Anthenora; tertia Tholomea; quarta vero Iudeca.  Prima
+denominatur a Caym, filio Ade, et in ista ponit proditores sui
+sanguinis sive domus.  Secunda denominatur ab Anthenore troyano,
+et in ista ponit proditores sue patrie sive partis.  Tertia
+denominatur a Tholomeo, rege Egypti, vel a Tholomeo, duce Ierico;
+et in ista ponit proditores carorum amicorum et consanguineorum. 
+Quarta vero denominatur a Iuda Scarioth; et in ista ponit
+proditores beneficorum dominorum.  In isto vero cantu tractat de
+prima parte et aliquantulum de secunda.  Et incipit prima pars
+Cociti, que dicitur Cayna, ibi: <Come noi fumo gi@u nel pozzo
+scuro> {*v. 16*}, et finit ibi: <Poscia vid'i' pi@u di mille visi
+cagnazzi> {*v. 70*}.  Secunda vero pars, que dicitur Anthenora,
+incipit ibi: <Et mentre c'andavamo inver lo mezzo> {*v. 73*}], et
+finit in sequenti cantu, ibi: <et li altri due che suso 'l canto
+appella> {*^Inf.~ XXXIII. 90*}.
+
+	In isto XXXII cantu continentur sex comparationes {*vv.
+25-27; 31-33; 49-51 [2]; 127-129; 130-132*} et unum notabile {*v.
+133*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Deveniens Dantes ad nonum et ultimum circulum infernalem,
+qui est positus in profundo, volensque nobis situm et modum dicti
+circuli designare, facit in principio istius cantus trigesimi
+secundi quoddam prohemium in hunc modum: si ego haberem rimas
+asperas, duras, et fractas, sicut tristi foramini, idest puteo,
+conveniret, super quem puteum vel foramen circuli alii omnes
+premunt, ego exprimerem de meo conceptu plenius suum sucum.  Sed
+quia non habeo illas rimas, non absque timore ad narrandum ea que
+debeo me conduco.  Quia non est hoc opus quod fieri debeat sine
+multa providentia et cautela, describere scilicet vel designare
+fundum toti universo, nec etiam est hoc opus summendum vel
+narrandum a lingua que matrem nominet seu patrem.  Sed ille
+domine adiuvent meum versum que adiuverunt Amphionem ad
+claudendum Thebas, ita quod a facto mea narratio non sit diversa. 
+O super omnes male creata plebs, que stas in loco de quo loqui
+est durum, melius fuisset vobis quod hic fuissetis pecudes sive
+capre.  Facto vero prohemio, ad narrandum accedit dicens: Quomodo
+sive quando nos fuimus inferius in puteo obscuro sub pedibus,
+scilicet gyganteis, plus satis in ymo, et ego respiciebam adhuc
+ad altum murum -- subaudi putei -- michi audivi dici: <Respice
+quomodo transis; vade sic quod tu non calces cum plantis capita
+fratrum miserorum atque lassorum>.  Ad quas voces ego me revolvi,
+et vidi ante me et subtus pedes meos unum lacum qui, propter
+gelu, habebat vitri similitudinem et non aque.  Et inducit hic
+autor quandam comparationem, ut congelationem illius lacus melius
+intelligere valeamus, dicens: Nunquam fecit suo cursui tam
+grossum velum in hieme Danubium in Austria, nec Thanais sub
+frigido celo, sicut erat ibi.  Quia si Tambernich seu Petrapana
+super illum congelatum lacum cecidisset, solummodo in ora eius
+alicuius crepitationis sonitum non fecisset.  Et sicut ad
+cloassandum stat rana, cum ore extra aquam, quando femina
+rusticana somniat spicas colligere in estate, ita vidi ibi umbras
+dolentes confictas in illa glacie usque ad partem verendam,
+mittendo dentes in notam ciconie, sive cantum.  Quelibet autem
+ipsarum umbrarum tenebat inferius faciem revolutam, ab ore quarum
+frigus et ab oculis cor triste -- subaudi videtur -- et inter
+ipsas testimonium procuratur.
+
+	Postquam vero autor generalem conditionem istarum
+animarum narravit, ad singularia et specialia sic procedit
+dicens: Quando in circuitu aliquantulum ego vidi, revolvi me ad
+pedes et vidi duos ita strictos quod habebant pilos capitis simul
+mixtos.  Ad quos ego inquiens: <Dicatis michi, o vos qui sic
+pectora constringitis, qui vos estis>.  Tunc illi ad autorem
+capita erexerunt, quorum oculi, qui primo interius molles erant,
+usque ad ora lacrimas profuderunt.  Sed propter gelu ita lacrime
+in oculis congelarunt quod glacies oculos eis clausit.  Modum
+autem quo istorum oculi clausi sunt, comparando declarat, dicens
+quod nunquam due ligna, sive due tabule, ita una linea sunt unite
+sicut illorum palpebre cum illa glacie clause sunt.  Tunc illi
+habentes oculos ita clausos, quia autorem respicere nequiverunt,
+iracundia victi, more duorum hyrcorum se ad invicem cum frontibus
+percusserunt.  Et unus, qui propter frigus perdiderat ambas
+aures, non elevando faciem, sed potius ipsam tenendo depressam,
+ait ad Dantem: <Quare tantum specularis in nos?  Si vis scire qui
+sunt isti duo, scias quod vallis unde fluvius Bisentii ad yma
+descendit patris eorum Alberti et ipsorum fuit.  De uno enim
+corpore exiverunt, totamque Caynam poteris perscrutari, et non
+invenies umbram que magis sit digna in glacie ista figi.  Certe
+non illa cui fuit fractum pectus et umbra cum uno ictu per manum
+regis Arthu; non Focacia; non iste qui me suo capite ita premit
+quod ultra videre non possum; et fuit nomatus Sassolus
+Mascheroni: si tuscus es, bene scis admodo quis fuit -- subaudi
+in vita.  Et ad hoc ut me non plus teneas in sermone, scias quod
+ego fui Camiscione de Pazzis, et expecto Karlinum qui me --
+subaudi cum tempus venerit -- excusabit>.  Post hec, dicit autor,
+vidi mille visus propter frigora factos nigros, unde irruit in me
+rigor, et irruet semper -- cum recordatus, subaudi, fuero -- de
+gelidis illis aquis.  Et hic finit prima pars Cociti.
+
+	Interim vero quod Dantes ibat versus medium ad quod omnis
+gravedo undique adunatur, et ipse propter frigus eternum
+tremabat; si voluntas, inquit -- supple divina -- fuit, seu
+predestinatio, vel fortuna, nescio; sed transeundo inter capita
+proditorum fortiter pede impegi in faciem unius.  Ille autem
+plorando clamavit, dicens: <Quare me calcas?  Si tu non venis ad
+crescendum vindictam Montis Aperti, quare me molestas?>  Et tunc
+ego dixi magistro: <Magister mi, hic modicum me expecta, ita quod
+ego de uno dubio exeam nunc per istum; postea facies
+quantumcunque volueris michi festinantiam in eundo>.  Tunc dux
+stetit, et ego dixi illi qui adhuc duris imprecationibus
+blasphemabat: <Quis es tu, qui taliter alii imprecaris?>  Et
+ille: <Sed tu quis es, qui vadis per Anthenoram percutiendo
+facies alienas, ita quod si vivus esses, nimium adhuc esset?> 
+<Vivus sum ego, et carum tibi esse potest>, fuit mea responsio,
+<si famam queris ut nomen tuum ponam inter alias notas>.  Et ille
+michi: <Totum>, inquit, <contrarium concupisco.  Idcirco recede
+hinc et noli me amplius molestare, quia male scis per istam
+gelidam foveam adulari>.  Tunc per capillos capitis cepi eum et
+dixi: <Necesse erit omnino ut aut te nomines, aut capillus hic
+non remaneat tibi ullus>.  Unde ille michi: <Quantumcunque tu mea
+coma me prives, non dicam tibi quis ego sim, nec etiam
+demonstrabo, si super caput meum millesies tu tomabis>.  Ego
+autem iam habebam suos capillos in manibus advolutos, et iam sibi
+extraxeram plus quam unum crinem, ipso latrante, cum oculis
+inferius revolutis, quando unus alius exclamavit: <Quid habes
+tu>, inquit, <Bocca?  Non sufficit tibi cum mandibulis personare,
+nisi tu latres?  Qualis autem te diabolus tangit modo?>  Tunc
+ego: <Admodo nolo quod tu loquaris, nequam proditor, quia, malis
+gratibus tuis de te vera nova portabo>.  Et ille: <Vade hinc, et
+quicquid vis ad libitum tuum narra; sed noli tacere, si tibi
+liceat hinc exire, de illo qui ita nunc habuit linguam promptam. 
+Ipse enim plangit hic argentum Francorum.  Poteris ergo dicere:
+<Ego vidi illum de Duera, in illo certe loco ubi stant madidi
+peccatores>.  Et si interrogatus fueris <Nunquit alius erat ibi?> 
+Tu habes iuxta te illum de Beccheria, cuius caput Florentia
+amputavit.  Iohannes de Soldaneriis credo quod sit magis ultra
+cum Ganellone et etiam Tribaldellus, qui aperuit Faventiam
+tempore quo alii dormiebant>.  Hiis autem sic per ordinem
+contemplatis, dicit autor quod dum inde recessissent, quod vidit
+duos in quodam foramine congelatos, et ita stricte sibi invicem
+adherentes, quod caput unius erat galerium socio cum quo erat. 
+Et, quemadmodum panis causa famis famelice manducatur, ita dentes
+super illum posuit, in illa scilicet parte in qua cerebrum cum
+nuca coniungitur.  Et inducit hic autor, comparative loquendo,
+ystoriam Tydei et Menalippi, dicens: Non enim aliter Tydeus
+Menalippi per indignationem tympora corrosit, quam ille
+corrodebat caput illius et collum.  Ad quem ego: <O tu qui
+ostendis per tam bestiale signum odium super illum quem tu rodis,
+dic michi quare, per talem conventionem; quod si tu
+rationabiliter erga illum te habes, sciendo ego qui vos estis et
+suam offensam, ego vicem in mundo superius tibi reddam, si illa
+cum qua loquor non siccetur>.  Unde ait in textu:
+
+     se quella con ch'i' parlo non si secca.
+
+                        (^Inf.~ XXXII. 139)
+
+	|1-16.~  In hiis XVI rithimis quinque per ordinem facit
+autor: Nam primo quandam excusationem facit.  Secundo, causam
+istius excusationis reddit: |ma per ch'i' non l'abbo~, etc. 
+Tertio, supernas virtutes invocat: |Ma quelle donne aiutino 'l
+mi' verso~, etc.  Quarto, contra inventos in isto puteo invehit:
+|O sopra tutte mal creata plebe~, etc.  Et sic quinto, ad
+narrandum ea que vidit accedit: |Che come noi fumo gi@u nel pozzo
+scuro~, etc., usque ad finem cantus.  Circa primum taliter se
+excusat: Si ego haberem rimas asperas atque fractas, sicut tristi
+foramini conveniret, super quod omnia alia onera premunt, ego de
+meo conceptu sucum exprimerem: quasi dicat: de meis
+conceptionibus convenientia verba formarem, quia alia verba
+conveniunt uni rei et alia alii.  Secundum enim materiam
+exquirendi sunt sermones, ut ait Philosophus.  Sed quia autor in
+hoc loco vel passu tractare intendit de profundo inferni, ubi est
+centrum totius universi, et ille locus sit asper et horridus
+super omnia alia loca totius inferni, desiderabat tali loco verba
+convenientia invenire, ut verba secundum materiam consonarent. 
+Facta excusatione, reddit causam huius excusationis dicens: Sed
+quia ego non habeo -- subaudi verba convenientia tali loco --
+idcirco non sine timore ad narrandum -- subaudi profundum inferni
+-- me ipsum conduco.  Quia non est hoc opus improvide assumendum,
+describere scilicet fundum toti universo, nec a lingua enarrandum
+que |matrem~ vocitet seu |patrem~; quasi dicat: propter duo enim
+est valde arduum et difficile quod intendo: Et primo, ratione
+loci distantis, qui est ita remotus ab orbe; secundo, ratione
+persone narrantis, quia homo male corporis [sarcina] oneratus. 
+Nam ista veridice enarrare non bene conveniunt hominibus carnis
+sarcina pregravatis, sed substantiis separatis vel sanctis viris,
+a terrenis ad Deum totaliter elevatis.  Reddita causa sue
+insufficientie, supernas virtutes more poetico in suum adiutorium
+invocat, dicens: Sed ille domine adiuvent meum versum que ad
+claudendum, idest ad murandum, Thebas Amphyonem iuverunt, ita
+quod mea narratio a facto, idest ad opere ipsis dominabus
+iuvantibus, non discrepet vel recedat.
+
+	Ystoria enim Amphionis est ista: Fuit enim Amphyon rex
+Thebarum; non conditor quidem urbis, quia Cadmus ipsam condidit,
+sed ipsam muro circumdedit et munivit.  Cuius murationis istoria
+sic fabulose componitur a poetis.  Dicunt enim quod auxilio
+Musarum et sono cythare dictus Amphyon lapides de montibus
+advocabat; qui lapides ad suum sonitum veniebant, et se ipsos in
+muro ad invicem componebant.  Sed veritas ista est: Amphyon, qui
+fuit vir Niobe, de qua habetur in secunda cantica, cantu [XXII],
+fuit optimus cytarista et optimus prolocutor, qui sua
+affabilitate et dulci loquela homines lapideos et petrosos ad
+civiles mores et leges induxit; quibus hominibus civitatem
+Thebanam replevit; et ista est vera et stabilis muratio
+civitatis.  Nam, ut ait Seneca: <Non est opus regi altam sedem
+construere nec muris et turribus se sepire> {I have not succeeded
+in tracing this passage}.  Inexpugnabile enim munimentum est amor
+civium.  Muravit etiam materiali et lapideo muro Thebas, et ut
+solaretur labores murantium, ipsos dulci colloquio et sono
+cythare demulcebat.  Ideo fingitur lapides advocasse.  Et de hac
+materia ait Seneca, primo libro ^Tragediarum~:
+
+     Thebanos muros natus Amphyon Iove
+     Struxit canoro saxa modulatu trahens.
+
+                        {^Hercules Furens~, 262-263}
+
+Et in quinto eodem libro:
+
+     Saxa dulci traxit Amphyon sono.
+
+                        {^Oedipus~, 612}
+
+Horatius etiam in sua poetria hoc idem asserit, ita dicens:
+
+     Dictus est Amphyon thebane conditor urbis
+     Saxa movere sono testudinis et prece blanda.
+
+                        {^Ars Poetica~, 394-395}
+
+Et Statius, primo ^Thebaydos~, ubi promittit dicere facta
+Thebarum, ait:
+
+     Expediam penitusque sequar quo carmine muneris
+     Iusserit Amphyon tyrios accedere montes.
+
+                        {^Theb.~ I. 9-10}
+
+	Facta invocatione, tanquam si exauditus esset, autor in
+animas proditorum secundo invehit, ipse dicens: <O plebs, que
+super omnes alias plebes, idest congregationes vel gentes, male
+creata es; non quod a Deo male creata sit, quia Dei perfecta sunt
+opera -- et vidit Deus cuncta que fecerat, et erant valde bona --
+sed quia suis malis operibus sit damnata, que stas in loco de quo
+loqui est valde durum, melius fuisset vobis quod in hoc mundo
+fuissetis pecudes sive capre>.  Unde in textu: |mei foste state
+qui pecore o zebe!~
+
+	|Zebe~ enim [in] lingua florentina <capram> sonat. 
+Postquam vero autor quarto loco in istos proditores invexit, nunc
+in isto et ultimo ad narrandum ipsorum penas, que in sequentibus
+continentur, accedit.  Et circa hoc breviter tria facit: Nam
+primo describit qualitatem et situm noni et ultimi circuli
+infernalis; secundo, quia iste circulus in quatuor partes
+dividitur, tractat de prima parte ipsius, que appellatur Cayna;
+tertio, postquam tractavit de prima parte, tangit aliquantulum de
+secunda, que dicitur Anthenora. 
+
+	|19-21.~  Quantum ad primum, describendo nonum circulum,
+sic procedit: Dicit enim quod, postquam Antheus ipsum in fundo
+deposuit, quod ipse audivit unam vocem dicentem sibi: <Respice
+quomodo transis: vade ita quod cum pedibus non conculces capita
+fratrum miserorum atque lassorum>. 
+
+	|22-24.~  Tunc Dantes oculos ad yma deiecit, et vidit sub
+pedibus suis unum lacum adeo congelatum, quod potius vitreus quam
+aqueus videbatur. 
+
+	|25-30.~  Et ad duritiem istius lacus taliter congelati
+clarius declarandam, inducit duas partes mundi in quibus, propter
+maximum frigus, cristallus congelatur ab aqua, dicens:
+
+     Non fece mai al corso su' s@i grosso velo,
+     di verno la Danoia in Isterlicchi,
+     n$e Tana@i l@a sotto 'l freddo celo,
+
+	Danubium est quidam maximus fluvius in partibus
+septentrionalibus, qui dividit Ungariam a Theotonia.  Hic itaque
+fluvius, tempore hyemali, aliquando taliter congelatur quod
+homines transeunt super illum cum equis et curribus oneratis.  In
+superiori vero parte istius fluvii, hoc est in ducatu Austrie,
+propter magna et intensa frigora fit cristallus.  Tanais vero est
+unum aliud magnum flumen Cilicie, quod descendit de montibus
+frigidissimis qui sub artico polo sunt.  De quo flumine ait
+Virgilius in ^Georgicis~: <Tanaymque nivalem>.  Et hoc dicit quia
+nunquam nivibus viduatur.  Unde subiungit:
+
+     Arvaque Ripheis nunquam viduata pruinis.
+
+                        {^Georg.~ IV. 518}
+
+	Et, descendens in mare Mediterraneum, dividit Asiam ab
+Europa.  Ex opposito autem est Nilus, qui similiter in
+Mediterraneum mare descendens, dividit Asyam a Libia.  In
+superiori vero parte ipsius Tanays sunt perpetue nives et
+perpetue glacies.  Vult itaque dicere autor, quod nunquam tam
+grossam glaciem atque duram fecit Danubium vel Tanays, tempore
+scilicet hyemis, qualis erat illa que ad puniendum proditores in
+nono circulo congelatur.  Et, ad ostendendum suam duritiam, dicit
+quod si super illam glaciem infernalem caderent duo montes,
+Tambernich scilicet et Pietra Pana, quod nullum ibi etiam a
+lateribus facerent crepitationis sonitum vel scissuram. 
+Tambernic est quidam maximus mons et valde {^Br.~ bene} acutus,
+in partibus Ungarie.  Petrapana [^sic~] vero est unus alius mons
+magnus et valde acutus, in partibus scilicet Tuscie. 
+
+	^PRIMA COMPARATIO.~  Ista comparatio dicit quod nunquam
+Danubium, quod est quoddam maximum flumen in Germania, dividens
+Theotoniam ab Ungaria, fecit suo cursui, idest sue aque, que
+semper currit, ita grossum velum, idest glaciem, in Austria per
+quam transit, nec Tanays, qui {Mss. have ^que~) est unus alius
+magnus fluvius sub polo artico, dividens Asyam ab Europa, fecit
+etiam tam grossum velum, idest glaciem, sicut est illa que est in
+ultimo circulo infernali, in qua proditores velut festuca in
+glacie stant infixi.
+
+	|31-36.~  Designata conditione istius lacus, designat
+autor modum per quem in eo anime stant infixe, dicens:
+
+     Et com'a gracidar si sta la rana
+     col muso fuor de l'acqua, quando sogna
+     di spigolar sovente la villana;
+     livid'insin l@a dov'appar vergogna
+     l'ombre dolenti fitte ne la ghiaccia,
+     mettendo denti in nota di cicogna.
+
+	Volens autor de proditoribus et proditionibus
+pertractare, in hac particula duo facit: Nam primo ponit modum et
+formam quomodo ipsi proditores in ista eterna glacie stant
+infixi, dicens quod, quemadmodum rana stat ad cloassandum cum
+capite extra aquam, illo scilicet tempore quando mulier rusticana
+somniat spicas colligere, ita proditores in illa glacie
+corporibus stant infixi, capitibus vero extra ululando deplorant. 
+Et circa istam primam partem, nota pulcerrimam comparationem quam
+inducit de femina rusticana.  Femina enim ruris, tempore scilicet
+messis, tota die laborat spicas recolligere post metentes.  In
+sero vero, vadens lassa dormitum, tota nocte somniat spicas
+colligere, sicut vigilando collegit.  Ubi nota quod homo illud
+quod vigilando solicite facit vel cogitat, in somno [^sic~] se
+somniat operari.  Sicut ille qui tota die equitat vel navigat, in
+somnio videtur sibi equitare vel navigare; et sicut ille qui cum
+magno terrore suorum inimicorum vadit dormitum, tota nocte
+somniat gladios vel rumores.  Idcirco beatus Bernardus monet, in
+quodam libello, quendam monacum ut cum sanctis cogitationibus et
+actibus vadat ipse dormitum, dicens: <Ruminantem psalmos somnus
+te occupet, ut in somno somnies dicere psalmos>.  Inducit igitur
+autor istam comparationem, dicens quod sicut rana cloassat,
+capite extra aquam, illo scilicet tempore quo femina ruris
+somniat colligere spicas, quia illo maxime tempore cloassant rane
+propter magnam scilicet siccitatem, pluviam suo more petentes,
+quia fastidiunt aquam siccitate corruptam, ita ille anime in
+glacie stant infixe, capitibus vero extra deplorant clamoribus
+dolorosis.  
+
+	Secundo vero ponit formam et modum istius dolorosi
+clamoris, dicens quod iste anime in glacie sic defixe, propter
+frigus intolerabile quo laborant, dentibus ita strident quod
+videntur notas, idest cantus, ciconie imitari.  Et hoc est quod
+ait Dominus in Evangelio: Ibi erit fletus et stridor dentium
+{^Matth.~ 8.12}.  Nam dentium stridor causatur ex frigore, sicut
+videmus in febricitantibus, qui in accessu frigoris dentibus
+strident.  Ideo bene ait autor in textu: |mettendo i denti in
+nota di cicogna.~  Ciconia enim, que <ibis> alio nomine
+nominatur, est avis fluvialis que se ipsam purgat rostro suo;
+quia quando ex ciborum multitudine sentit se gravatam, aquam
+marinam intra rostrum recolligit, quam per anum ad interiora
+infundit; que aqua remolliendo cibi compacti duritiem et
+mordicando intestina superflua eicit et expellit.  Et isto modo
+medici clisteria invenerunt.  Hec avis serpentum vescitur ovis,
+et ex eis escam gratissimam deferens, pullos nutrit.  Dicitur
+autem ciconia quasi <canna canens> quia concutiente rostro quasi
+cum canna per longum fracta sive divisa, sonum facit, ut dicit
+Ysidorus {^Etym.~ XII. vii. 16}.  Veris est nuntia, et in suo
+adventu predicit novitatem.  Serpentibus autem est inimica;
+rostro enim eos percutit et interficit, et quandoque devorat et
+deglutit.  Humanam societatem ac frequentiam diligit: et ideo
+super domos ab hominibus inhabitatas nidificare consuevit.  Et
+nidum suum primum, nisi fuerit coacta, de facili non dimittit,
+sed in suo recessu contra hiemem replet nidum suum terra, et cum
+luto virgulas nidi et spinas compaginat, ne ventus tempestuosus
+ipsum in hieme deiciat vel dissolvat.  In reditu autem suo eundem
+occupat et renovat, et ab aliis avibus ipsum nidum occupare
+volentes protegit et defensat.  Vivente femina, masculus causa
+coitus cum alia se non sociat nec miscet; sed quo modo ad
+generationis officium femine fidem servat.  Sed si aliquo casu
+adulterinum concubitum presenserit, ultra secum non habitat, sed
+rostro si potest eam transverberat atque necat.  Alias quam in
+nido masculus feminam nunquam calcat, et incubando super ova,
+masculus cum femina vices mutat.  Pullos suos miro affectu
+diligit ac custodit, et ex assiduo cubitu super eos plumas
+perdit.  Quando vero pater est in pascuis, mater in nido residet;
+et e converso quando masculus revertitur, femina evolat, et
+masculus, ut dicit Ambrosius, nidum fovet.  Ciconie maria
+transvolant, et collecto agmine ad regiones calidas simul volant. 
+In suo autem discessu {^Br.~ recessu} habent cornices que ipsas
+precedunt et, quasi ciconiis ducatum prebentes, contra aves eis
+infestas pro viribus se opponunt, ut dicit Ambrosius in
+^Exameron~ {^Hexameron~ Lib. V. cap. xv. 101}.  Quamvis autem
+venenosa comedant, ut ranas et serpentes et huius venenum, tamen
+ipsarum naturam non superat nec immutat, immo eis est refectio et
+nutrimentum quod hominibus et multis animalibus est venenum.  Vi
+enim caloris in earum interioribus dominantis virus veneni
+extinguitur ac etiam superatur.  A pullis suis in senectute
+pascuntur, nam eximiam habent erga filios pietatem; et ideo
+quantum tempus impendunt in suis fetibus educandis, tantum ipse a
+suis pullis vice reciproca nutriuntur, ut dicit Ambrosius in
+^Exameron~, et Maximus Valerius, libro V+o~, capitulo de pietate.
+
+	^SECUNDA COMPARATIO.~  Ista comparatio plana est et
+nichilominus superius exarata.
+
+	|37-39.~  Ista clausula sic exponi debet: Omnis enim
+anima que in ista prima parte Cociti punitur tenebat faciem
+versus yma, a quarum animarum ore procedebat frigus, et hoc
+apparebat in concussione dentium; et ab oculis cor triste, hoc
+est tristitia cordis, per oculorum gemitum videbatur.  Quod autem
+sequitur: |tra lor testimonianza si procaccia~, hic est sensus:
+Os quod dentes concutit, et oculus qui lacrimas expandit,
+testimonium perhibent de pena quam habent in ista glacie
+congelata.
+
+	|40-42.~  Hic incipit autor de proditoribus exemplariter
+pertractare, et incipit a duobus germanis comitibus, scilicet
+Albertis de Tuscia, quorum unus vocatus fuit Alexander et alter
+Neapoleo; qui semper unus prodidit alium quoad vixit.  Sed ante
+quam ulterius procedamus, distinguenda sunt genera et species
+proditorum.  Est enim sciendum quod autor distinguit in ista
+glacie, que Cocitus vocatur, proditorum quatuor species sive
+genera.  Nam primum genus est prodere suam consanguinitatem;
+secundum, prodere suam civitatem, patriam, sive partem; tertium,
+prodere amicos; quartum, vero prodere dominos.  Primum genus est
+malum; secundum peius; tertium pessimum; quartum vero, ultra quam
+pessimum.  Que quidem genera sive species taliter possunt accipi
+vel videri.  Sicut enim superius dictum est, fraus dupliciter
+operatur: vel contra naturam, vel contra fidem; hoc est vel
+contra amorem generalem et naturalem, vel contra amorem naturalem
+et spiritualem.  Sunt enim, vel esse possunt, duo amores in
+homine: primus qui dicitur et est naturaliter generalis; secundus
+autem dicitur et est vel naturaliter vel voluntarie spiritualis. 
+Primus nanque amor, qui dicitur et est naturaliter generalis, est
+ille amor qui in tota humana natura est naturaliter seminatus;
+spiritualem fidem vel confidentiam non requirit.  Et iste amor
+dictat quod illud quod tibi non vis fieri, alteri non facias, et
+e contra.  Nullus enim vult decipi, et sic neminem debet
+decipere.  Et quilibet vult ut omnis suus proximus sit sibi
+legalis, et sic circa omnein suum proximum debet legalis
+existere.  Qui igitur contra istum amorem facit, dicitur dolosus
+et fraudulentus.  Et iste talis dolus et talis fraus, quia X
+modis committitur, idcirco in X bulgiis superius collocatur. 
+Secundus autem amor, qui dicitur et est vel naturalis vel
+voluntarie spiritualis, est ille amor in quo includitur et a quo
+requiritur quedam fides et confidentia spiritualis, que a natura
+vel ab aliquo accidenti elective procedit.  Et qui contra talem
+amorem dolum vel fraudem operatur dicitur proditor.  Iste autem
+amor, qui dicitur spiritualis, qui fidem et confidentiam in se
+habet, a duplici fonte oriri videtur.  Primus fons est ipsa
+natura; secundus vero, quedam singularis hominis electio.  A
+primo fonte procedunt duo rivuli naturales: primus est
+consanguinitas; secundus vero civitas, patria, sive pars.  Primus
+rivulus homines naturaliter amoris vinculo conglutinat atque
+ligat.  Et ideo unus in alium, natura docente, confidit, et hoc
+quia sunt unus sanguis et una caro; inde consanguinitas dicitur
+<communis sanguinis unitas>.  Qui igitur contra carnem et
+sanguinem suum dolose aliquid machinatur, proditor appellatur. 
+Secundus rivulus, qui dicitur civitas, patria, sive pars, etiam
+homines multum ligat.  Inde civitas dicitur <civium unitas>, quia
+civium est unum velle et unum nolle.  Patria vero dicitur a
+<patre>, quia, qualis amor et fides est inter patrem et filium,
+talis debet esse inter patriotas et patriam, secundum sententiam
+Tullianam.  Pars autem idem est quod sors.  Itaque, sicut illam
+sortem que cadit super sortilegum tenet sortilegus, ita illam
+partem debet partialis tenere in qua nascitur, vel quam postea
+profitetur.  Homines igitur qui sunt unius civitatis, unius
+patrie, vel unius professionis, naturaliter ad unum tenent.  Et
+ideo, qui contra talem amorem facit, proditor iudicatur.  Et sic
+patent duo rivuli qui a fonte procedunt naturalis amoris.
+
+	Secundus vero fons est quedam singularis hominis electio,
+cum scilicet quis eligit aliquod placibile cum quo conglutinatur
+vinculo caritatis.  Et ab isto tali fonte procedunt etiam duo
+rivi: Primus est amor quo quis eligit quid amandum; inde dicitur
+dilectio, quasi <ex multis electio>, cum scilicet quis in una
+magna multitudine eligit unum vel duos cum quibus suus animus
+delectatur, et tunc diligit id quod eligit quasi se ipsum; et
+sicut confidit in se ipso, ita confidit similiter in amico, et
+hoc quia amicus est alter ipse, ut ait Philosophus.  Sed nota
+quod non omnis qui diligitur diligit vice reciproca diligentem,
+quia multi sunt amici mense qui non stant cum amico in die
+necessitatis, ut ait Salomon; immo, quem fortuna fecit amicum,
+infortunium facit aliquando inimicum, ut ait Boetius in libro ^De
+Consolatione~ {^De Cons. Phil.~ III. v. pr.}.  Et quod peius est,
+multi se dolose ostendunt amicorum amicos, et celant viscera
+pravitatis usque ad tempus, idest quousque possint secure suam
+ostendere pravitatem.  Et ad hoc ut possint melius suam nequitiam
+occultare, cum amicis faciunt parentelas, ut illi magis confidant
+in ipsis, sicut patebit exemplariter infra de fratre Alberigo,
+Branca de Auria, et Tholomeo, duce Iericho.  Sed quicunque contra
+amicum suum in se confidentem fuerit dolose aliquid operatus,
+proditor est censendus.
+
+	Sed quia superius dictum est quod prodere amicos est
+gravius peccatum quam prodere civitatem, patriam, seu partem,
+ideo ante quam ulterius vadamus, est videndum si hoc est verum,
+vel verum esse potest.  Secundum enim omnes philosophos, tam
+paganos quam Christianos, quanto bonum est maius, tanto malum
+quod fit vel opponitur illi bono est gravius iudicandum;
+contrarium vero hic ponitur ab autore.  Nam proditores amicorum
+ponit magis in profundo quam proditores patrie; et quanto magis
+ponuntur in ymo, tanto eorum nequitia gravior iudicatur. 
+Respondeo: Autor iste in ista parte habet respectum ad duo:
+videlicet ad amorem contra quem facit talis proditio.  Amor enim
+qui amatum coniungit amato est amor singulariter electivus, qui
+tantam fortitudinem in se habet, quod facit aliquando hominem
+oblivisci duorum superiorum amorum; sicut exemplum habemus in
+primo libro ^Regum~ {I ^Regum~ 18.1} ubi Divina Pagina dicit quod
+Ionathas, filius regis Saulis, tantum dilexit David quod anima
+eius conglutinata est cum anima David, et dilexit eum sicut
+animam suam.  Orta vero guerra inter Saulem et David, semper eum
+fovit Ionathas, coram patre semper eum excusavit, secreta et
+consilia patris semper sibi revelavit.  Et licet post patrem ipse
+Ionathas regnare deberet, tantum ipsum diligebat quod dicebat:
+<Tu regnabis post patrem meum et ego post te> {III ^Regum~ 1.13}. 
+Quasi diceret: Mortuo rege patre meo, tu eris rex, ego autem
+primus in regno.  Cicero etiam, in libro ^De Amicitia~ ponit quod
+Graccus, tempore sue seditionis, habuit quendam amicum qui
+vocabatur Bissius Cumanus, qui tanto amore ligatus erat cum
+Gracco, quod cum ipso contra patriam coniuravit.  Cum autem
+redargueretur a quodam romano principe quod in omnibus malis
+Graccum secutus fuisset, ait: <Tanto enim amore eram Gracco
+coniunctus, quod quicquid ille vellet, protinus adimplessem>.  Ad
+quem ille: <Si Graccus tibi mandasset ut ignem in Capitolium
+immitteres, nunquid id fecisses?>  Cui Byssius Cumanus:
+<Nunquam>, inquit, <voluisset.  Sed si voluisset, paruissem>. 
+Hic exclamat Cicero: <Videtis quam nefaria vox; et certe ita
+fecit et plus etiam quam dixit.  Non enim ille paruit Tyberii
+Gracchi temeritati, sed prefuit; nec se comitem sui furoris, sed
+ducem prebuit> {^De Amicitia~ XI. 37}.  Et in hac parte damnat
+Tullius amicitias illorum qui, causa amicorum, contra patriam
+faciunt, dicens: <Nulla est excusatio peccati si amici causa
+peccaveris; nam cum conciliatrix amicitie virtus sit, difficile
+est amicitiam manere si a virtute defeceris> {^De Amicitia~ XI.
+37 (Guido changes wording)}.  Ista igitur de causa, quia amor
+amicorum facit oblivisci sue consanguinitatis et patrie, ponit
+autor offensam in istum amorem maiorem esse quam sit illa que fit
+in amore patrie seu partis.  Narrat Iustinus, libro primo, unam
+mirabilem et inauditam dilectionem quam habuit quidam princeps
+Persarum ad Darium regem.  Darius enim Babiloniam obsidebat.  Sed
+cum sibi videretur difficilis expugnatio civitatis, et ob hoc
+eius animus extuaret, quidam princeps, nomine Cophyrus, secreto
+quosdam de sua familia advocavit; a quibus se fecit multis
+verberibus toto corpore lacerari, ambasque aures ac etiam nasum
+cum toto labio amputari, et sic se laceratum et detruncatum regi,
+ex inopinato, se obtulit.  Cumque rex esset totus factus
+attonitus, et quereret quisnam eum tam crudeliter lacerasset, ait
+ad regem: <Vidi tuum animum extuare quia difficilis est captio
+civitatis.  Ideoque viam et modum inveni per quem tibi potero
+Babilloniam subiugare.  Fugiam nanque in Babiloniam, civibusque
+dicam quod a te sim tam crudeliter laceratus.  Cumque illi
+vulneribus fidem dabunt, meis consiliis adherebunt michique
+fideliter tradent custodiam civitatis.  Quam cum adeptus {^Br.~
+adepto} fuero, ipsius civitatis dominio potieris> {Iustinus,
+^Historiae Philippicae~, Lib. I, Cap. X}.  Quod ita factum est.
+
+	Patet ergo quantam vim habet dilectio amicorum.  Et ista
+est una ex causis, sive unus respectus, qui movit autorem. 
+Secundus vero respectus quem habuit fuit iste, quod multotiens
+unus homo valet plus quam una civitas.  Et ideo, secundum istum
+respectum, prodere talem amicum est maius malum quam unam prodere
+civitatem.  Sed considera quod, quamvis amor amicitie magnus sit,
+non tamen debet aliquis ad petitionem amici aliquod enorme
+committere, quia tunc talis amicitia tale nomen indebite
+possideret: amicitia enim vera sine virtute stare non potest. 
+Idcirco dicit Tullius, in libro ut supra: <Hec lex in amicitia
+sanciatur, ut neque rogemus res turpes, nec faciamus rogati> {^De
+Amicitia~ XII. 40}.  Secundus vero rivus qui a fonte electionis
+procedit est caritas, per quam non solum maior diligit minorem,
+sed etiam quilibet bene dispositus diligit inimicum.  Prima enim
+dilectio, que dicitur amicorum, est inter pares vel equales; unde
+beatus Ieronimus dicit quod amicitia aut pares recipit aut facit. 
+Non enim potest esse amicitia inter multum distantes.  Ideo ait
+Ovidius: <Non bene conveniunt nec in una sede morantur maiestas
+et amor> {^Met.~ 2.847}.  Nec etiam talis amicitia extenditur ad
+inimicos.  Caritas vero et maiorem ad minorem inclinat, et usque
+ad inimicos brachia sua tendit; sicut exemplum habemus in fine
+istius cantice ab autore, ubi loquitur de illis summis
+proditoribus qui in oris Luciferi lacerantur, scilicet Iude,
+Cassii atque Bruti.  Iulius enim Cesar, dum esset summus monarcha
+mundi, Brutum et Cassium, licet essent sui inferiores et iam
+contra eum fuissent, tanta ad se dilectione attraxit quod ipsos
+summos principes in imperio suo fecit; sua secreta eis revelabat,
+et ad ipsorum consilium atque nutum imperium gubernabat.  Talis
+nanque dilectio maioris ad minorem caritas quodammodo est
+censenda, licet non sit propter Deum.  Christus autem, filius Dei
+vivi, Iudam discipulum suum fecit, quem fratrem et amicum
+vocabat, cum ipso in una scutella manducabat, sibi pacis osculum
+prebebat; et nichilominus ipsum sciebat suum inimicum et pessimum
+proditorem.  Et ista talis dilectio est proprie a sanctis caritas
+appellata.  Qui igitur suos beneficos dominos prodit, proditor
+est pessimus iudicandus.  Et sic patet de duobus rivis qui a
+fonte electionis procedunt.
+
+	Itaque primi proditores puniuntur in prima parte Cociti,
+que dicitur Cayna; secundi in secunda, que dicitur Anthenora;
+tertii in tertia, que dicitur Ptolomea; quarti vero in quarta,
+que appellatur Iudeca; de quibus suis locis dicetur.  In ista
+itaque parte prima, que dicitur Cayna, facit autor exemplariter
+mentionem de VII summis proditoribus; et primo de duobus
+comitibus, quorum comitatus est in montibus Tuscie, inter ipsam
+scilicet Tusciam et Lombardiam.
+
+	|49-51.~  TERTIA COMPARATIO SIMUL ET QUARTA.~  Iste duae
+comparationes plane sunt et nichilominus superius exarate {*?*}.
+
+	|55-60.~  Bisentium enim est quidam fluvius qui de
+Alpibus que sunt inter Tusciam et Lombardiam in Arnum descendit;
+et facit quandam vallem que dicitur vallis Bisentii; que quidem
+vallis est illorum comitum qui Comites dicuntur.  Fuit autem
+inter ipsos comites quidam nomine Albertus, qui habuit duos
+filios, unus vocatus est Alexander et alter Neapoleo; qui duo
+germani toto tempore quo vixerunt se ad invicem prodiderunt. 
+Unde dicitur in textu:
+
+     D'un corpo usciro; et tutta la Cayna
+     potrai cercare; et non troverai ombra
+     degna pi@u d'esser fitta in gelatina:
+
+	|61-66.~  Secundo facit mentionem de quodam milite qui
+fuit nepos regis Arthu, nomine Mordreth, quem Mordreth uno ictu
+manu propria interfecit; quia ipsum invenit in crimen sue lese
+maiestatis proditorie incidisse.  Ideo dicitur in textu:
+
+     non quella a cui fu rotto 'l petto et l'ombra
+     con ess'un colpo per la man d'Art@u;
+     non Focaccia; non questi che m'ingombra
+
+-- Supple: <Est digna in glacie magis figi>.  -- Tertio facit
+mentionem de quodam cive pistoriensi, qui vocabatur Focaccia. 
+Iste nanque quendam suum patruum, qui sibi pro patre remanserat,
+proditorie interfecit.  Ideo dicitur in textu: |non Focaccia~ --
+subaudi: dignior est in glacie ista figi. -- Quarto, facit
+mentionem de quodam Florentino nomine Sassolus Mascheroni.  Iste
+remanserat tutor filii fratris sui, qui, avaritia ductus, dictum
+puerum, qui erat suus nepos carnalis, ut sua bona possideret
+nequiter interfecit.  Ideo dicitur in textu:
+
+                       non questi che m'ingombra
+     col capo s@i, ch'i' non veggio oltre pi@u,
+     et fu nomato Sassol Mascheroni:
+     se tosco se', ben sai omai chi fu.
+
+	|67-68.~  Quinto facit mentionem de quodam nobili viro
+qui propter frigus perdiderat ambas aures; et iste est ille qui
+in ista parte Cociti loquitur cum autore, et sibi proditores qui
+stant in Cayna nominat ac etiam manifestat.  Iste nanque fuit
+dominus Ubertus Camiscione de' Pazzis, vallis Arni de Tuscia, qui
+quendam suum consortem proditorie interfecit.  Ideo dicit in
+textu autori:
+
+     Et perch@e non mi metti in pi@u sermoni,
+     sappi ch'i' fu' il Camiscion de Pazzi.
+
+	|69.~  Sexto facit mentionem de quodam consorte istius
+Camiscionis qui adhuc vivit, nomine Karlinus, qui quoddam castrum
+quod vocatur Planum, ad cuius castri custodiam per consortes suos
+fuerat deputatus, prodidit per pecuniam Florentinis.  Ideo
+consors suus, qui loquebatur autori, yronice inquit: |et aspetto
+Karlin che mi scagioni.~
+
+	|70-72.~  Postquam vero autor mentionem fecit de istis
+septem summis proditoribus qui omnes suam carnem et sanguinem
+prodiderunt, dicit quod vidit in eadem Cayna mille facies nigras
+propter frigus, et ponit hic numerum determinatum pro
+indeterminato, sicut mos est etiam Sacre Scripture.  Unde ait in
+textu:
+
+     Poscia vid'i' mille visi cagnazzi
+     facti per freddo; onde mi vien riprezzo,
+     et verr@a sempre, de' gelati guazzi.
+
+Et hic finit prima pars Cociti, que dicitur Cayna.
+
+	Ista prima pars Cociti, que appellatur Cayna, denominatur
+ab illo primo proditore Caym, qui primo contra sanguinem suum
+fecit.  Cuius istoriam scribit Moyses in libro ^Genesis~
+{^Genesis~ 4.2 ff. (^adapted~)}: Adam enim habuit duos filios
+inter alios: primus fuit Caym; secundus vero Abel.  Fuit autem
+Abel pastor ovium et Caym agricola.  Nam quia malignissimus erat,
+ut avaritie sue consuleret terram primus incoluit, sicut ait
+Magister ystoriarum.  Factum est autem quod ambo Deo munera
+obtulerunt, Caym de frugibus et Abel de ovibus.  Creditur Adam in
+spiritu docuisse filios ut offerrent Deo decimas et primitias. 
+Unde Abel offerebat Deo lac ovium et primogenita eorum, ut ait
+Iosephus.  Moyses vero dicit quod offerebat de adipibus eorum,
+idest de pinguioribus gregis.  Caym autem spicas attritas secus
+viam vel corrosas ab avibus et bestiis offerebat.  Deus autem
+respexit ad Abel et ad munera eius; ad Caym vero et ad munera
+eius non respexit.  Qualiter autem respexerit ad Abel et ad
+munera eius, sic est intelligendum: Respexit Deus ad Abel et
+placuit Deo Abel.  Ad munera autem eius respexit, idest super ea
+inflammavit.  Ignis enim de celo descendens, oblationem eius
+incendebat.  Munera vero Caym, ex avaritia nata, minime
+placuerunt Deo; unde iratus Caym concidit vultus eius pre
+verecundia, minorem sibi prelatum videns.  Dominus vero ipsum
+increpans ait ei: <Quare iratus es, et quare concidit vultus
+tuus?  Nonne si bene egeris recipies -- supple a me -- premium?> 
+Caym vero de correctione Domini factus peior, avaritia maculatus,
+ira inflammatus, et invidia excecatus, ait dolose fratri suo:
+<Egrediamur in agrum>.  Cumque ambo ivissent in agrum, surrexit
+Caym adversus Abel et interfecit eum.  Cui Dominus ait: <Ubi est
+Abel frater tuus?>  Nec fuit istud verbum ignorantis, sed
+increpantis et improperantis fratricidium.  Qui cum vellet
+occultare factum ait: <Nescio.  Nunquid custos fratris mei sum
+ego?>  Ad quem Deus: <Vox sanguinis fratris tui clamat ad me de
+terra>; clamat, idest vindictam petit.  Et vindicans tale
+fratricidium rapresenti ipsum fratricidam multo tempore in hac
+vita in multa miseria detinuit maledictum; et tandem ipsum pena
+eterna punivit.  Unde creditur quod nullus unquam proditor
+habuerit paradisum.  Maledicens vero Deus Caym, ait ad eum: <Nunc
+ergo maledictus eris, vagus et profugus>.  Timens ergo Caym ne
+vel bestie eum devorarent si egrederetur ab hominibus, vel si
+maneret cum eis, pro peccato suo, occiderent eum, damnans se et
+desperans ait: <Maior est iniquitas mea quam ut veniam merear. 
+Omnis qui invenerit me occidet me>.  Ex timore enim hoc dixit,
+vel optando dixit quasi dicat: <Utinam omnis qui me invenerit me
+occidat>.  Dixitque ei Deus: <Nequaquam ita fiet; non cito,
+scilicet morieris.  Sed omnis qui occiderit Caym -- supplendum
+est -- liberabit eum a labore et miseria>.  Et tunc additur
+impersonaliter: <Septuplum punietur, idest punitio fiet de eo dum
+vivet in pena usque ad septimum Lamech qui occidit eum>.  Tradunt
+quidam penam ipsius Caym durasse usque ad VII+am~ eius
+generationem, quia VII peccata commisit.  Non enim recte divisit
+quia vilia deo, se vero qui erat melior oblatione obtulit
+dyabolo: Fratri invidit; dolose egit; vocans in agrum occidit;
+procaciter negavit; desperavit; penitentiam damnatus non egit. 
+Et posuit Deus signum in Cayn tremorem scilicet capitis, ut omnes
+scirent ipsum a Domino maledictum, punitum, et excomunicatum, et
+indignum Dei misericordia.  Postquam vero suum peccatum per VII
+generationes in miseria deploravit, occisus fuit a Lameth.  Et
+sic in suo peccato, de Dei misericordia diffidens, ad inferos
+properavit.
+
+	|73-78.~  Postquam vero in superiori de Cayna tractatum
+est, ad secundam partem Cociti, que dicitur Anthenora, dirigit
+autor gressum.  In ista parte autor tractat de secunda parte
+Cociti, que dicitur Anthenora, in qua ponit proditores sue patrie
+seu partis; et denominatur ab illo proditore troyano qui,
+secundum ystorias, suam Grecis prodidit civitatem.  Hic enim fuit
+Anthenor, qui operante dolosa et versipelli astutia Dyomedis et
+Ulixis et multo auro recepto a Grecis, Palladium, quod erat
+presidium Troyanorum, extra Troyam transduxit ad Grecos.  Quo
+presidio civitas spoliata, ipso proditore agente, in manus
+devenit obsidentium Argivorum.  Ipse vero capta et incensa sua
+urbe, cum multitudine Troyanorum ad partem illam applicuit que
+tunc dicebatur Gallia Cisalpina; ibique civitates duas fecit,
+Paduam scilicet et Venetias.  Unde in suo sepulcro tale
+epytaphium, ut dicitur, extat scriptum:
+
+     Hic iacet Anthenor, paduane conditor urbis;
+     Proditor ille fuit, quique sequuntur illum.
+
+	|79-111.~  In ista itaque Anthenora autor ponit octo
+eorum patrie, vel eorum partis, sceleratissimos proditores.  Et
+primo ponit dominum Boccam de Abbatis de Florentia, qui apud
+Montem Apertum, in quodam exercitu, prodidit Florentinos. 
+
+	|112-117.~  Secundo ponit quendam lombardum qui vocatus
+fuit dominus Buosus de Duera, qui, pecunia recepta a Francis,
+prodidit partem suam.  Nam prebuit iter militibus regis Karoli
+per terram suam, quia aliter contra imperium et partem imperii in
+Ytaliam intrare non poterant.  Unde rex Manfredus primo, et
+postea Corradinus, fuerunt ab ipso Karolo debellati.  Unde
+dominus Bocca de isto proditore ait autori:
+
+     <Va via, et ci@o che tu vuoi, conta;
+     ma non tacer, se tu di qua entro eschi,
+     di quei ch'ebe or cos@i la lingua pronta.
+     E' piange qui l'argento de' Franceschi:
+     "I' vidi" potrai dir "quel da Duera
+     l@a dove i peccatori stanno freschi">.
+
+	|118-120.~  Tertio ponit quendam abbatem Vallis Umbrose,
+qui fuit de illa nobili domo de Papia que dicitur Beccheria. 
+Iste itaque abbas inventus est proditor illius patrie in qua sua
+monasteria possidebat.  Unde a Florentinis fuit capite
+detruncatus.  Ideo dominus Bocca ait autori de ipso:
+
+     Se fossi dimandato altri chi v'era,
+     tu @ai da lato quel di Beccaria,
+     di cui seg@o Fiorenza la gorgiera.
+
+	|121-123.~  Quarto ponit quendam nobilem militem
+florentinum, scilicet dominum Iohannem de Soldaneriis, qui cum
+esset factus dominus in Florentia per nobiles dicte terre,
+tanquam proditor pessimus nobiles ad yma deiecit et populum
+elevavit.  Unde semper postea habuerunt nobiles in Florentia
+malum statum.  Ideo associatus est in inferno cum Ganellone, qui
+proditionem commisit contra nobilem gestam antiquorum
+palatinorum, de quorum consortio ipse erat.  Ideo ait dominus
+Bocca autori:
+
+     Gianni de' Soldanieri credo che sia
+     pi@u l@a con Ganellone
+
+Et sic quinto ponit ipsum Ganellonem.  Sexto ponit quendam
+romandiolum de Faventia, nomine Tribaldellum, qui per pecuniam
+quam accepit a Bononiensibus media nocte aperuit Faventiam et
+ipsos Bononienses dormientibus civibus interius introduxit.  Ideo
+de ipso ait dominus Bocca:
+
+                           et Tribaldello,
+     c'apr@i Faenza quando si dormia.
+
+	|124-132.~  Septimo ponit, in fine istius cantus, duos
+maximos principes, unum ecclesiasticum alterum vero civilem:
+videlicet archiepiscopum pisanum et comitem Ugolinum, qui ambo
+fuerunt maximi proditores, quorum pena ponitur in isto cantu, sed
+eorum culpa ponitur in secundo.  Pena enim ipsorum taliter
+fingitur ab autore: Dicit enim quod postquam dominus Bocca finem
+posuit suis verbis, quod ipse recessit ab eo, et invenit in
+quadam cavea, sive cripta, duos ita insimul glaciatos, quod caput
+unius capiti alterius galerium videbatur.  Et sicut panis per
+famem manducatur, ita ille qui erat desuper dentes super alium
+posuit, in illa scilicet parte in qua cum nuca cerebrum counitur. 
+Et inducit hic autor comparationem de Tydeo et Menalippo, quorum
+istoriam scribit Statius in libro ^Thebaydos~ {^Theb.~ VIII. 749
+ff.), que breviter ista est: In bello nempe thebano Tydeus, qui
+fuit unus ex VII regibus qui obsederunt Thebas, cum uno ex
+intrinsecis Thebanorum qui vocabatur Menalippus fuit in campo
+duris et diris ictibus ac etiam vulneribus preliatus.  Cum autem
+a dicto Menalippo fuisset idem Tydeus gravi et alto vulnere
+lancee perforatus, et liber dictus Menalippus reverteretur ad
+suos, indignatus Tydeus quod ille evaderet, invocavit magna voce
+auxilium Capanei; cuius auxilio captus est Menalippus, quem
+Tydeus arripiens, ne moreretur inultus, ei caput et tympora
+dentibus laceravit.  Ideo autor, tam de pena illorum duorum quam
+de comparatione, ait in textu:
+
+     Noi eravam partiti gi@a da ello,
+     ch'i' vidi due ghiacciati in una buca,
+     s@i che l'un capo a l'altro era cappello;
+     et come 'l pan per fame si manduca,
+     cos@i l'un sovra l'altro i denti pose
+     l@a 've 'l cervel si giunge con la nuca;
+     non altrimenti Tydeo si rose
+     le tempie a Menalippo per disdegno,
+     che quei faceva 'l teschio et l'altre cose.
+
+	Isti enim duo fuerunt unus archiepiscopus pisanus et
+alter comes Ugolinus, de quibus tractatur in cantu sequenti.  Sed
+quia de nuca facit autor mentionem, sciendum quod nuca est
+medulla spine dorsi, que descendens a cerebro per spinam dorsi
+dat sensum et motum nervis, operante spiritu animali, qui a
+cerebro per nucam diffunditur ad ceteros nervos.  Nam spiritus
+animalis a posteriori parte cerebri, que puppis capitis
+appellatur, procedit et per nucam penetrat ad omnes nervos,
+quibus tribuit motum et sensum.  Inde pars posterior colli
+dicitur cervix, eo quod per illam partem cerebrum ad medullam
+spine dirigitur, que dicitur nuca; unde cervix quasi via cerebri
+dicitur, quia de sui natura est.  Videns vero Dantes quod unus
+alium comedebat, ait ad illum qui bestialem violentiam alteri
+inferebat: <O tu, qui demonstras per tam bestiale signum odium
+super illum quem tu comedis, dicas michi quare hoc facis.  Et ego
+promitto tibi quod, si tu rationabiliter erga illum te habes, et
+ego scivero qui vos estis et offensam illius, quod ego vicem
+superius tibi reddam>; quasi dicat: De vobis nova superius
+reportabo, si illa cum qua loquor penitus non siccetur.
+
+	^QUINTA COMPARATIO.~  Ista comparatio {*vv. 127-129*},
+licet per se sit aperta et superius etiam explanata, tamen circa
+ipsam oritur una questio: quare potius comes Ugolinus corrodit
+archiepiscopum pisanum in illa parte cervicis, idest colli, in
+qua cerebrum cum nuca coniungitur, quam in alia parte. 
+Respondeo: Nuca enim, sicut dictum est, est quedam medulla spine
+dorsi per quam cerebrum, idest spiritus animalis qui ab eo
+procedit, ad ceteros nervos vadit.  Et ideo nuca est quasi via
+vite, sive causa omnium nervorum.  Simili modo archiepiscopus
+pisanus fuit via, causa, atque canale, per quam et quod rabies
+Pisanorum exarsit atque fluxit contra comitem memoratum.  Nam
+rabies et crudelitas Pisanorum fuit quasi cerebrum sive caput,
+archiepiscopus autem fuit nuca, idest via ipsius rabiei ad
+nervos, idest ad comitem et filios atque nepotes videlicet
+destruendos.  Et bene per nervos dicti comites figurantur, quia
+sicut nervi sunt ligamenta corporis, et sicut ipsis dissolutis
+omnis iunctura dissolvitur, ita nobiles homines sunt ligamenta
+corporis civitatis, quibus dissolutis atque destructis tota
+compago civilis dissolvitur unitatis.  Merito ergo, comes in illa
+parte suum inimicum corrodit, que suum opus prefigurat atque
+designat.  Sed circa istam solutionem oritur quoddam dubium, quod
+est tale: Cum enim nuca se extendat per totam spinam a cerebro
+usque ad nates, quare comes Ugolinus magis apprehendit emulum
+suum in principio ipsius nuce quam in aliqua alia parte sui[?] 
+Et dicendum quod duplex potest esse ratio: Prima est quia
+cerebrum, statim quod cum nuca coniungitur, erga nervos suas
+operationes incipit operari.  Et idcirco in illa parte comes
+emulum suum cepit.  Secunda ratio est ad insinuandum deliberatam
+pravitatem et nequitiam ispius archiepiscopi.  Nam dictus
+archiepiscopus se amicum comitis ostendebat, et vulpinum animum
+infra tegens prodere comitem in prima cerebri cellula, que
+dicitur fantastica sive ymaginaria, ymaginatus fuit.  Deinde
+dictam proditionem in secunda cellula, que dicitur rationalis seu
+discretiva, deliberavit facere ac etiam iudicavit.  Ultimo ipsam
+proditionem deliberatam, stabilitam, ac firmatam in tertia
+cellula, que memorialis dicitur, firmiter connidavit.  Et sic,
+dum tempus et locus sibi congrui occurrerunt, suam pravam
+nequitiam executioni mandavit.  Igitur, ad demonstrandum quod
+archiepiscopus per longum ante tempus comitem prodere cogitavit,
+et quod cogitavit deliberavit, et quod deliberavit in memoria diu
+tenuit, ideo comes eum in illa parte corrodit in qua nuca cum
+cerebro tertie cellule, ubi est memoria, coniungitur vel unitur.
+
+	^SEXTA COMPARATIO.~  Lictera {*vv. 130-132*} plana est.
+
+	|133.  O tu che mostri per s@i bestial segno>, etc.~ 
+^NOTABILE.~  In isto notabili demonstratur quod omnis actus in
+quo bestias imitamur est bestialis protinus iudicandus: nam
+rodere hominem dentibus, vel unguibus lacerare, non est actus
+humanus, immo protinus bestialis.  Ulterius nota quod iste actus
+bestialis quem comes Ugolinus contra archiepiscopum facit, tenet
+figuram sue bestialitatis qua usus fuit in suo dominio et quam
+operatus fuit contra Pisanos.  Nam dum esset dominus civitatis
+pisane frumentum occultabat ut fame populi morirentur.  Et in hoc
+imitatus est bestias, que filios vel non nutriunt, sicut corvi,
+vel ipsos occidunt, sicut multotiens facit musipula sive canis. 
+De vipera etiam legitur quod femina, dum concipit, marem occidit;
+filii autem concepti, ventrem matris rodunt et sic inde exeunt. 
+De multis etiam animalibus legitur quod erga suos filios sunt
+impii et crudeles.  Fuit etiam crudelis et impius erga partem
+{^patriam~ corrected to ^partem~} suam et contra nepotem suum ex
+filia, contra quos coniuravit ad mortem.  Sed mentita est
+iniquitas sibi, nam in foveam cecidit quam alii preparavit, ut in
+sequenti cantu de his omnibus clarius apparebit.  
+

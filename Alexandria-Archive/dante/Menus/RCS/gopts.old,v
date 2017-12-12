@@ -1,0 +1,197 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.1
+date     89.01.19.13.53.00;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@BRS Main options menu for DDP database
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@{GOPTS}
+
+:SET #QMASK ~#ZQ~
+:SET @@P2 ~~
+
+:COMPARE @@SELECTION
+
+     TO "S"
+	:SET #QUERY ~#MAXQUERY~
+	:RETURN
+
+     TO "#1"
+
+	:SET @@M1 ~D|X|I|S|Q|L~
+
+	:COMPARE #MAXQUERY
+	     TO "0"
+		:COMPARE #EPVLG
+		    TO "1"
+			:SET @@M1 ~@@M1|A~
+		:DONE
+
+	     TO "1-999"
+		:SET @@M1 ~@@M1|C|R|Y|P~
+		:COMPARE #EPVLG
+		    TO "1"
+			:SET @@M1 ~@@M1|A|M~
+		:DONE
+	:DONE
+
+	:COMPARE #PS
+	     TO "*"
+		:SET @@M1 ~@@M1|V~
+	:DONE
+
+	:SET @@TMP ~@@SELECTION~
+	:COMPARE @@TMP
+	     TO "@@M1"
+		:SET @@TMP ~~
+	     TO "*"
+		:SET @@P2 ~\o5 Invalid option selected \f5\n\n~
+		:SET @@SELECTION ~~
+	:DONE
+
+     TO "L|"
+	:PRINT ~@@HEADING@@P2_Options available are:\n~
+
+	:COMPARE #EPVLG
+	     TO "0"
+		:SET @@P1 ~~
+		:SET @@M1 ~~
+		:SET @@P2 ~~
+		:SET @@M2 ~~
+	     TO "1"
+	  	:SET @@P1 ~\n
+	\o2A\f2 to Add documents             \o2M\f2 to Modify documents~
+		:SET @@M1 ~A|a|M|m|~
+		:SET @@P2 ~\n
+	\o2A\f2 to Add documents~
+		:SET @@M2 ~A|a|~
+	:DONE
+
+	:COMPARE #MAXQUERY
+	     TO "1-999"
+		:SET @@TMP ~        ~
+		:SET @@M1 ~H|h|C|c|R|r|X|x|I|i|Q|q|S|s|D|d|P|p|Y|y|@@M1~
+		:PRINT ~
+\t\o2D\f2 to Display documents         \o2P\f2 to Print documents@@P1\n
+\t\o2R\f2 to Redirect documents        \o2X\f2 to access Special functions\n
+\t\o2I\f2 to Index a term              \o2Y\f2 to access Query functions\n
+\t\o2C\f2 to Continue session later    ~
+	     TO "0"
+		:SET @@TMP ~\n\n\t~
+		:SET @@M1 ~H|h|R|r|X|x|Q|q|S|s|I|i|@@M2~
+		:PRINT ~
+	\o2I\f2 to Index a term@@P2\n
+	\o2X\f2 to access Special functions\n\n\t~
+
+	:DONE
+
+	:COMPARE #PS
+	     TO "*"
+		:PRINT ~\o2V\f2 to access SaveSearch functions\n\n\t~
+		:SET @@M1 ~@@M1|V|v~
+	     TO ""
+		:COMPARE @@TMP
+		     TO "*  *"
+			:SET @@TMP ~\n\n\t~
+		:DONE
+	:DONE
+
+	:PRINT ~\o2S\f2 to continue Searching@@TMP\o2Q\f2 to sign off\n\n~
+
+	:GET @@SELECTION ~Enter selection; \o2H\f2 for Help [S]: ~ "@@M1"
+	:PARSE @@SELECTION UPPER
+
+     TO ""
+	:SET @@SELECTION ~S~
+
+     TO "S"
+	:RETURN
+
+     TO "V"
+	:MENU ~SSRCH_~
+
+     TO "I"
+	:SET @@PTEXT ~No~
+	:MENU ~INDEX_~
+
+     TO "X"
+	:SET @@PTEXT ~S~
+	:MENU ~SPECL_~
+
+     TO "Y"
+	:MENU ~QUERY_~
+
+     TO "A"
+	:SET @@SELECTION ~a~
+	:MENU ~ADDOC_~
+
+     TO "D|P|R|M"
+	:MENU ~GETBR_~
+
+     TO "H"
+	:PRINT ~\n~
+
+	:GET @@TMP ~Enter Option Letter for desired help [General]: ~ "@@M1"
+	:PARSE @@TMP UPPER
+
+	:COMPARE @@TMP
+	     TO "#1:*|"
+		:SET @@SELECTION ~~
+		:MENU ~GOPTS_H@@TMP~
+	:DONE
+
+	:MENU
+:DONE
+
+:PRINT ~\n~
+:GET @@TMP ~Enter \o2No\f2 to cancel signoff [Signoff]: ~
+
+:PARSE @@TMP UPPER
+:COMPARE @@TMP
+     TO "N*"
+	:SET @@SELECTION ~~
+	:RETURN
+:DONE
+
+:COMPARE @@SELECTION
+     TO "C"
+	:SEND ~O~
+	:SHOW BEFORE "6*"
+
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+
+	:PRINT ~\o2RESTART\f2 will be available at your next signon\n~
+	:PAUSE
+
+	:PRINT ~@@GB~
+	:EXIT ~0~
+
+     TO "Q"
+	:BRS CHANGE
+	:SEND ~Q~
+	:SHOW BEFORE "*"
+	:PRINT ~@@GB~
+	:EXIT ~0~
+
+:DONE
+
+:RETURN
+@

@@ -1,0 +1,314 @@
+%{
+/*
+ *	ddp2html - a filter to convert DDP markup to HTML markup
+ *
+ *	Old DDP markups for accents, umlauts, and circumflexes are converted into
+ *	their ISO 8859-1 characters. Other graphics, font changes, and Greek characters
+ *	are converted into their HTML entities.
+ *
+ *	Compile with 'make LDLIBS=-ll ddp2html' and move the executable to ~/bin.
+ */
+#define	MAXFONT	3
+char	*font[MAXFONT];		/* remembers what type of font we are in */
+int	fontp = 0;		/* current font; 0 implies plain font */
+/*
+ * The next variables keep track of left and right double quotes.
+ */
+char	*dquot[] = {"&ldquo;", "&rdquo;"};
+int	dquot_toggle = 0;
+/*
+ * The next variables keep track of Greek letters and their accents.
+ */
+char	*accent, *textptr;
+/*
+ *	Definitions of ISO 8859-1 (Latin-1) Characters. See, for example,
+ *	http://www.utoronto.ca/webdocs/HTMLdocs/NewHTML/iso_table.html
+ */
+#define	LAGRAVE	224
+#define	UAGRAVE	192
+#define	LEGRAVE	232
+#define	UEGRAVE	200
+#define	LIGRAVE	236
+#define	UIGRAVE	204
+#define	LOGRAVE	242
+#define	UOGRAVE	210
+#define	LUGRAVE	249
+#define	UUGRAVE	217
+
+#define	LAACUTE	225
+#define	UAACUTE	193
+#define	LEACUTE	233
+#define	UEACUTE	201
+#define	LIACUTE	237
+#define	UIACUTE	205
+#define	LOACUTE	243
+#define	UOACUTE	211
+#define	LUACUTE	250
+#define	UUACUTE	218
+
+#define	LAUML	228
+#define	UAUML	196
+#define	LEUML	235
+#define	UEUML	203
+#define	LIUML	239
+#define	UIUML	207
+#define	LOUML	246
+#define	UOUML	214
+#define	LUUML	252
+#define	UUUML	220
+
+#define	LACIRC	226
+#define	UACIRC	194
+#define	LECIRC	234
+#define	UECIRC	202
+#define	LICIRC	238
+#define	UICIRC	206
+#define	LOCIRC	244
+#define	UOCIRC	212
+#define	LUCIRC	251
+#define	UUCIRC	219
+
+#define LCEDILLA 231
+#define UCEDILLA 199
+%}
+%%
+\\. {
+	/*
+	 * Any escaped character, ie preceded by a backslash, is itself.
+	 */
+	printf("%c", yytext[1]);
+}
+\\$ {
+	/*
+	 * An escaped end-of-line gets ignored.
+	 */
+}
+\%[A-Za-z]+ {
+	/*
+	 * Greek
+	 *
+	 * Plain Greek letters are represented by their HTML entities, e.g. "&alpha;".
+	 * The DDP files have these as a percent followed (mostly) by the name of the
+	 * character. Since the HTML entity names are also the names of the characters,
+	 * we can translate from DDP to HTML with a generalized rule and not examine
+	 * individual character names.
+	 *
+	 * Greek letters may also be accented in the DDP files by inserting a $, @ or #
+	 * between the % and the letter name. A $ implies an oxia, a @ implies
+	 * a dasia, and a # implies a vrachy (we think). There are no named HTML entities
+	 * for these accented characters, so we use their numeric values, e.g. "&#x1F00;".
+	 * We have to handles these individually, i.e. by enumeration. But there are not
+	 * many in the DDP text, so it's not a big deal.
+	 *
+	 * See: http://tlt.its.psu.edu/suggestions/international/bylanguage/greek.html
+	 * for lots of useful info about Greek characters and browsers.
+	 *
+	 * Match Greek before Latin characters so (for example) %$alpha isn't matched
+	 * as a % followed by an accented Latin "a".
+	 *
+	 */
+
+	/*
+	 * Unaccented Greek
+	 */
+	if (!strcmp(yytext,"%o")) {
+		printf("&omicron;");
+	} else if (!strcmp(yytext,"%O")) {
+		printf("&Omicron;");
+	} else if (!strncmp(yytext,"%var",4)) {
+		printf("&%s;", yytext+4);
+	} else {
+		printf("&%s;", yytext+1);
+	}
+}
+\%[\$@#]+[A-Za-z]+ {
+	/*
+	 * Accented Greek
+	 */
+	if (!strcmp(yytext,"%$epsilon") | !strcmp(yytext,"%$varepsilon")) {
+		printf("&#x1F73;");
+	} else if (!strcmp(yytext,"%@epsilon") | !strcmp(yytext,"%@varepsilon")) {
+		printf("&#x1F11;");
+	} else if (!strcmp(yytext,"%@alpha")) {
+		printf("&#x1F01;");
+	} else if (!strcmp(yytext,"%$alpha")) {
+		printf("&#x1F71;");
+	} else if (!strcmp(yytext,"%#alpha")) {
+		printf("&#x1FB0;");
+	} else if (!strcmp(yytext,"%@$varepsilon")) {
+		printf("&#x1F15;");
+	} else if (!strcmp(yytext,"%@omicron") | !strcmp(yytext,"%@o")) {
+		printf("&#x1F41;");
+	} else if (!strcmp(yytext,"%$omicron") | !strcmp(yytext,"%$o")) {
+		printf("&#x1F79;");
+	} else if (!strcmp(yytext,"%$eta")) {
+		printf("&#x1F75;");
+	} else if (!strcmp(yytext,"%@eta")) {
+		printf("&#x1F21;");
+	} else if (!strcmp(yytext,"%@E")) {
+		printf("&#x1F29;");
+	} else if (!strcmp(yytext,"%$E")) {
+		printf("&#x1FCB;");
+	} else if (!strcmp(yytext,"%$iota")) {
+		printf("&#x1F77;");
+	} else if (!strcmp(yytext,"%@iota")) {
+		printf("&#x1F31;");
+	} else if (!strcmp(yytext,"%#iota")) {
+		printf("&#x1FD0;");
+	} else if (!strcmp(yytext,"%@upsilon")) {
+		printf("&#x1F51;");
+	} else if (!strcmp(yytext,"%$upsilon")) {
+		printf("&#x1F7B;");
+	} else if (!strcmp(yytext,"%#upsilon")) {
+		printf("&#x1FE0;");
+	} else if (!strcmp(yytext,"%$omega")) {
+		printf("&#x1F7D;");
+	}
+}
+@[A-Za-z] {
+	/*
+	 * Grave accents
+	 */
+	switch (yytext[1]) {
+	case 'a': printf("%c", LAGRAVE); break;
+	case 'A': printf("%c", UAGRAVE); break;
+	case 'e': printf("%c", LEGRAVE); break;
+	case 'E': printf("%c", UEGRAVE); break;
+	case 'i': printf("%c", LIGRAVE); break;
+	case 'I': printf("%c", UIGRAVE); break;
+	case 'o': printf("%c", LOGRAVE); break;
+	case 'O': printf("%c", UOGRAVE); break;
+	case 'u': printf("%c", LUGRAVE); break;
+	case 'U': printf("%c", UUGRAVE); break;
+	default: printf("%s",yytext);
+	}
+}
+\$[A-Za-z] {
+	/*
+	 * Acute accents and cedillas
+	 */
+	switch (yytext[1]) {
+	case 'a': printf("%c", LAACUTE); break;
+	case 'A': printf("%c", UAACUTE); break;
+	case 'e': printf("%c", LEACUTE); break;
+	case 'E': printf("%c", UEACUTE); break;
+	case 'i': printf("%c", LIACUTE); break;
+	case 'I': printf("%c", UIACUTE); break;
+	case 'o': printf("%c", LOACUTE); break;
+	case 'O': printf("%c", UOACUTE); break;
+	case 'u': printf("%c", LUACUTE); break;
+	case 'U': printf("%c", UUACUTE); break;
+	case 'c': printf("%c", LCEDILLA); break;
+	case 'C': printf("%c", UCEDILLA); break;
+	/*
+	 * Strange though it seems, accented "q" appears in Daniello. See email from RH
+	 * on 11 July 2005. There is no HTML entity for this character, so we agreed
+	 * that we would just elide the "$", thus leaving the "q" unaccented.
+	 */
+	case 'q': printf("%s", "q"); break;
+	default: printf("%s",yytext);
+	}
+}
+,[A-Za-z] {
+	/*
+	 * Umlauts
+	 */
+	switch (yytext[1]) {
+	case 'a': printf("%c", LAUML); break;
+	case 'A': printf("%c", UAUML); break;
+	case 'e': printf("%c", LEUML); break;
+	case 'E': printf("%c", UEUML); break;
+	case 'i': printf("%c", LIUML); break;
+	case 'I': printf("%c", UIUML); break;
+	case 'o': printf("%c", LOUML); break;
+	case 'O': printf("%c", UOUML); break;
+	case 'u': printf("%c", LUUML); break;
+	case 'U': printf("%c", UUUML); break;
+	default: printf("%s",yytext);
+	}
+}
+#[A-Za-z] {
+	/*
+	 * Circumflex
+	 */
+	switch (yytext[1]) {
+	case 'a': printf("%c", LACIRC); break;
+	case 'A': printf("%c", UACIRC); break;
+	case 'e': printf("%c", LECIRC); break;
+	case 'E': printf("%c", UECIRC); break;
+	case 'i': printf("%c", LICIRC); break;
+	case 'I': printf("%c", UICIRC); break;
+	case 'o': printf("%c", LOCIRC); break;
+	case 'O': printf("%c", UOCIRC); break;
+	case 'u': printf("%c", LUCIRC); break;
+	case 'U': printf("%c", UUCIRC); break;
+	default: printf("%s",yytext);
+	}
+}
+& {
+	/*
+	 * Ampersand
+	 */
+	printf("&amp;");
+}
+\` {
+	/*
+	 * Single left quotation mark
+	 * This is just a clean-up conversion.
+	 */
+	printf("'");
+}
+\" {
+	/*
+	 * Left and right double quotation marks
+	 */
+	printf("%s",dquot[dquot_toggle]);
+	dquot_toggle = (dquot_toggle+1) % 2;
+}
+\< {
+	/*
+	 * Left angle quote
+	 */
+	printf("&laquo;");
+}
+\> {
+	/*
+	 * Right angle quote
+	 */
+	printf("&raquo;");
+}
+\| {
+	/*
+	 * Begin bold font
+	 */
+	if (fontp < MAXFONT) {
+		printf("<b>");
+		font[++fontp] = "b";
+	}
+}
+\^ {
+	/*
+	 * Begin italics font
+	 */
+	if (fontp < MAXFONT) {
+		printf("<i>");
+		font[++fontp] = "i";
+	}
+}
+\+ {
+	/*
+	 * Begin superscript
+	 */
+	if (fontp < MAXFONT) {
+		printf("<sup>");
+		font[++fontp] = "sup";
+	}
+}
+~ {
+	/*
+	 * End special font
+	 */
+	for (; fontp > 0; fontp--) {
+		printf("</%s>", font[fontp]);
+	}
+}

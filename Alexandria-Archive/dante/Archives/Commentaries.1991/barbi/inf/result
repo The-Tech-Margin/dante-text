@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Casini/Barbi
+	Language   = Italian
+	Pub. Year  = 1921
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36364 Feb 14 17:15 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35144 Feb 14 17:16 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34065 Feb 14 17:17 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47123 Feb 14 17:18 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47623 Feb 14 17:20 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35288 Feb 14 17:21 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39563 Feb 14 17:22 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36995 Feb 14 17:24 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38772 Feb 14 17:25 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       52378 Feb 14 17:26 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30458 Feb 14 17:27 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37172 Feb 14 17:28 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48802 Feb 14 17:29 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38132 Feb 14 17:29 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49032 Feb 14 17:30 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42424 Feb 14 17:31 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38030 Feb 14 17:32 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41596 Feb 14 17:33 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41860 Feb 14 17:34 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42007 Feb 14 17:35 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41633 Feb 14 17:36 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41590 Feb 14 17:37 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41914 Feb 14 17:39 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41866 Feb 14 17:40 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45967 Feb 14 17:41 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.f into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47293 Feb 14 17:43 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46158 Feb 14 17:44 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50535 Feb 14 17:45 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46498 Feb 14 17:47 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41227 Feb 14 17:48 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43797 Feb 14 17:49 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       51575 Feb 14 17:51 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58632 Feb 14 17:53 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.f into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Casini/Barbi...
+Verifying Casini/Barbi...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42127 Feb 14 17:54 ../staging/inf/34

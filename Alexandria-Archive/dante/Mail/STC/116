@@ -1,0 +1,82 @@
+Return-Path: bobh@outbound.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id TAA07535
+	for <steve@avalon.dartmouth.edu>; Sat, 5 Sep 1998 19:24:29 -0400 (EDT)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id TAA14526
+	for <Steve.Campbell@dartmouth.edu>; Sat, 5 Sep 1998 19:24:29 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 37017 [128.112.128.88]) by outbound.Princeton.EDU with ESMTP id <541184-13580>; Sat, 5 Sep 1998 19:24:23 -0400
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA08298
+	for <Steve.Campbell@dartmouth.edu>; Sat, 5 Sep 1998 19:24:21 -0400 (EDT)
+Received: from pdp.remote.princeton.edu (comserv7-dialup65.Princeton.EDU [128.112.71.65])
+	by mail.Princeton.EDU (8.8.8/8.8.8) with ESMTP id TAA10170;
+	Sat, 5 Sep 1998 19:24:18 -0400 (EDT)
+Message-ID: <35F1C834.4FA7A33@princeton.edu>
+Date: 	Sat, 05 Sep 1998 19:24:36 -0400
+From: Robert Hollander <bobh@princeton.edu>
+Reply-To: bobh@princeton.edu
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>,
+        Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: Scartazzini problem texts
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+It was easier than I thought to specify these exactly.  If you want to
+teach me how to cut and paste in vi, I can do it.  If not, here they are
+(in all cases the entry is the LAST one in the file [in the first case,
+Inf. 5, there are TWO such, but only there]):
+ 
+CANTO 5:
+
+74-75.
+
+PUT before 74. (which is followed by 75., 78., etc.)
+
+127-128.
+
+put before 127.
+
+CANTO 10:
+
+32-33.
+
+put between 31. and 32. (which is followed by 33.)
+
+{by the way, this is our usual method; if we have a passage that
+includes several finer-grained hits, it goes FIRST.  E.g., 10-21. would
+precede 10., 13., 19-24.}
+
+CANTO 16:
+
+106-108.
+
+put between 105. and 106.
+
+CANTO 31:
+
+67.
+
+{This one is a bit different}
+
+Put this as a new paragraph IN 67. and get rid of the number (|67.~) at
+its head so it ALL comes up as a hit for verse 67.
+
+CANTO 32:
+
+127-129.
+
+put between 126. and 127.
+
+CANTO 33:
+
+13.
+
+put between 11. and 14.
+
+That's the sum of the problem.  Let me know how you would like to
+proceed.  Best, Bob

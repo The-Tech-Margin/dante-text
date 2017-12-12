@@ -1,0 +1,76 @@
+{GETPD_HE}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Paragraph Select Help\f2\n~
+
+:COMPARE @SELECTION
+     TO "D"
+	:PRINT ~#HEADING
+     This  menu  permits  you to specify each paragraph that you wish to
+     DISPLAY.  Simply  enter  each paragraph label, separated by commas.
+     For  example,  to  display  the  DATE  paragraph and all paragraphs
+     included in the NAME equivalency label, enter:
+
+     --> date,name
+
+     To  override  a pre-defined format, and display the entire document
+     with standard paragraph labels, enter:
+
+     --> -all
+
+     The  default  paragraph  specifications  are  indicated  in  square
+     brackets at the prompt.\n~
+
+     TO "P"
+	:PRINT ~#HEADING
+     This  menu  permits  you to specify each paragraph that you wish to
+     PRINT. Simply enter each paragraph label, separated by commas.  For
+     example, to print the DATE paragraph and all paragraphs included in
+     the NAME equivalency label, enter:
+
+     --> date,name
+
+     To  override  a  pre-defined  format, and print the entire document
+     with standard paragraph labels, enter:
+
+     --> -all
+
+     The  default  paragraph  specifications  are  indicated  in  square
+     brackets at the prompt.\n~
+
+     TO "R"
+	:PRINT ~#HEADING
+     This  menu  permits  you to specify each paragraph that you wish to
+     REDIRECT.  Simply  enter each paragraph label, separated by commas.
+     For  example,  to  redirect  the  DATE paragraph and all paragraphs
+     included in the NAME equivalency label, enter:
+
+     --> date,name
+
+     To  override a pre-defined format, and redirect the entire document
+     with standard paragraph labels, enter:
+
+     --> -all
+
+     The  default  paragraph  specifications  are  indicated  in  square
+     brackets at the prompt.\n~
+
+:DONE
+
+:PAUSE BOTTOM
+
+:PRINT ~#HEADING
+     The additional menu selections are:
+
+     L) to  List  available  paragraphs.  This produces a display of all
+        short  and  long  paragraph  labels  for  the  current database.
+        Equivalency  labels,  and  the  paragraph  labels encompassed by
+        them, are also indicated.
+
+     Q) to Quit this menu and return to the previous Paragraph Selection
+        Menu.
+
+     S) to  Search.   This cancels the entire request and returns to the
+        main search screen.\n~
+
+:PAUSE BOTTOM
+:RETURN

@@ -1,0 +1,494 @@
+	|Proemio.~  In questo capitolo intende l'Auttore
+trattare, procedendo in suo poema, et toccare dieci cose; la
+prima apostrofa alli vivi, gli quali hanno desiderio di studiare
+la presente ^Commedia~; la seconda cosa palesa la cagione
+efficiente di suo movimento et ascensione allo luogo al quale
+ascese ^universaliter~; la terza cosa discrive come entr@o nel
+corpo della luna ^singulariter~; la quarta cosa tocca come, per
+induzione di Beatrice, ringrazi@o Iddio di tanta grazia quanta era
+in esso; la quinta cosa tocca un dubbio circa l'ombra ch'appare
+nel corpo della luna; la sesta tocca una oppinione circa la
+predetta ombra, fingendo quella esser sua; la settima forma in
+persona di Beatrice ragioni contra la detta oppinione et
+argomenti; la ottava fae una istanzia contro agli argomenti di
+sopra fatti contra l'opinione; la nona rimuove la detta istanzia
+per esperienza con tre specchi e uno lume; la decima et ultima
+tocca la veritade del detto dubbio, discrivendo tutti gli ordini
+de' corpi celesti circa gli effetti inferiori; et cos@i compie suo
+capitolo.  Alla prima cosa si @e da sapere che, a volere
+perfettamente intendere la presente ^Commedia~, ha bisogno allo
+'ntenditore essere instrutto in molte scienze, imper quello che
+l'Auttore usa molte conclusioni, molti argomenti, molti esempli,
+prendendo per principi tali cose e s@i diverse, che sanza scienzia
+acquistata non se ne potrebbe avere perfetta cognizione.  E per
+che poetria non @e scienzia a chi spetti sillogizzare s@i
+dimostrativamente com'@e necessario, non @e per@o la presente
+^Commedia~ imperfetta, s'ella non prova ogni principio; ma puossi
+di licenza poetica metaforizzare, esemplificare et fingere una
+per un'altra, s@i come @e dimostrato et aperto nella esposizione
+del precedente capitolo: et per@o si conchiude, s@i come @e detto,
+che allo intenditore @e bisogno d'essere instrutto in molte
+scienzie.  Detto questo, chiaro appare come l'Auttore acommiata
+gl'inscj dallo studio della sua ^Commedia~; e gli scienti per
+rendergli benivoli a tale studio, gli invita, proferendo loro due
+cose, l'una si @e veritate, l'altra si @e maravigliose cose:
+veritade, in quanto dice che @e condotto da Apollo, iddio di
+scienzia, e dalle nove Muse, ci@o @e dalle nove scienzie, com'@e
+detto, gli quali non possono ammaestrare altro che vero;
+maravigliose cose in quanto dice et discrive lo Paradiso, e gli
+gloriosi cittadini di quella cittade santa.  Et questa si @e
+brievemente la 'ntenzione della prima cosa toccata.  Alla seconda
+cosa che tocca l'Auttore s@i @e da sapere che la cagione
+efficiente, la quale fa ascendere l'uomo al supremo luogo e alla
+sua beatitudine, si @e quella forma mondana, la quale, s@i com'@e
+detto sopra, @e lo suo ordine, per lo quale ordine l'uomo @e
+diritto in perfetto segno; et imper quello che lo voluntario
+virtudioso e puro dell'uomo sempre ha sete infino che non ottiene
+tal felicitade, s@i @e cagione tal desiderio d'ascendere per lo
+detto ordine.  S@i che la cagione efficiente di tale ascensione @e
+l'ordine del mondo, e 'l voluntario umano conforme ad esso, non
+viziato n@e corrotto, non errante: la quale disposizione essere in
+s@e palesa quando mostra essere in contemplazione di Beatrice, e
+essa tutta alle primiere cause create.  Poi, dopo questa cagione
+descritta, poeticamente tocca come ascese infin nel cielo della
+luna, per lo qual corpo fece alcuna ammirazione, s@i come nel
+testo apparir@a.  Alla terza cosa toccata s@i @e da sapere che 'l
+corpo della luna, nel quale ello finge ch'egli entr@o
+^corporaliter~, s@i @e dimensivo et @e sperico, ci@o @e ritondo: et ad
+entrare corpo in corpo sanza frazione alcuna o dell'uno o
+dell'altro sarebbe contro al Filosofo, nel IV della ^Fisica~, la
+quale dimostra chiaro come @e impossibile due corpi essere insieme
+in uno luogo; la quale contrarietade l'Auttore espone come si dee
+intendere, dicendo: Qui non si concepe ch'io corpo nel corpo
+della luna entrassi, s@i come due corpi in uno luogo; ma concepesi
+mio intelletto entrare nella luna, tutto a simile a raggio del
+sole, il quale entra nell'acqua, essa rimanendo unita et
+infratta.  Alla quarta cosa si @e da sapere che l'Auttore, volendo
+disporre le menti degli mortali ad alcuna bella moralit@a,
+introdusse in questo capitolo tale tropologica azione; ch@e
+ringrazia e rendesi divoto alla benignitade del Creatore, la
+quale per propria bontade hae tanto largito e donato alla spezie
+umana universalmente, ch'ella ha podere d'ascendere alla
+felicitade et quietazione perfetta, et in singularitade a lui,
+che, s@i come @e detto, monta a tale effetto produrre in essere. 
+Alla quinta cosa s@i @e da sapere che, s@i come a senso appare,
+nella luna si @e alcuna oscuritade, alcuni segni nubilosi, gli
+quali al viso fanno alcuna diversitade di colore; degli quali
+segni sono state pi@u oppinioni, s@i ne' poeti come eziand$io ne'
+filosofi.  Et per ampliare sua materia, l'Auttore nel presente
+capitolo vuole circa le predette opinioni alquanto disputare: poi
+in fine fae che Beatrice dice la verit@a, s@i come apparir@a, la
+quale veritade si de' intendere essere l'opinione del predetto
+Auttore.  Et acci@o che pi@u chiara s'apprenda tal veritade, s@i
+dichiareremo tali opinioni.  In primo furono alquanti poeti, che
+dissero che quello bruno ch'@e nella luna s@i @e Caino figliuolo
+d'Adam, lo quale sempre al sacrificio portava lo fascio delle
+legne in sulla spalla; e Abel suo fratello portava l'agnello: ora
+avvenne, s@i come sta nel Genesi, che 'l detto Cain uccise Abel,
+et allor poneano gli poeti che Abel fosse fatta una costellazione
+di quelle dell'ottava spera molto alta, et Cain fosse assunto nel
+corpo della luna, s@i come la pi@u bassa stella che sia in cielo: e
+acci@o che meglio fosse conosciuto, s@i vi fu messo con tutto lo
+fascio delle spine in collo.  Altri poeti furono che dissono che
+gli detti segni furono due compari, gli quali s'accompagnarono
+insieme in mercatanz$ia, e deliberarono d'andare l'uno in levante
+l'altro in ponente; poscia, in capo di certo tempo, tornare a sua
+cittade, e l@i vedere sua ragione, et partire suo guadagno o danno
+che fosse in loro avere.  Cos@i come ordinaro cos@i fecero, salvo
+che ciascuno avea guadagnato, et mostrava al compagno ch'avea
+perduto; per la quale falsitade gli Dei gli trassunsono nel corpo
+lunare, e l@i stanno amendue.  Altri poeti furono, che puosono che
+la luna fosse Proserpina, della quale @e detto nel ^Purgatorio~
+XXVIII, imper@o che ella consent@i a Plutone.  Le quali posizioni
+chiaro appare come non solvono lo predetto dubbio, imper quello
+che sono allegor$ie et fingimenti poetici; delli quali si tragge
+senso tropologico in questo modo.  Gli primi che puosono Cain
+essere nella luna, altro non ha a significare se non che Abel fue
+assunto a stato della perfezione, ovvero in via a quello, cio@e
+nello Limbo; et Cain fue depremuto allo 'nferno, ci@o @e al pi@u
+basso luogo, per l'omicidio da lui commesso in suo fratello.  La
+posizione degli secondi hae a significare, come la fraudolenza
+commessa nel prossimo @e punita in pena eterna; et per@o egli si
+trasformarono in costellazione, ci@o @e in stella eterna et nella
+pi@u bassa, a mostrare com'@e gravoso peccato, e che molto dispiace
+a Dio; e per@o @e quello luogo tanto distante da quello ch'@e
+penetrato di gloria del Creatore, siccom'@e detto.  La posizione
+degli terzi altro non vuol dire, se non che la chiarezza della
+verginitade si offusca et scura per lo peccato venereo; e s@i come
+la pura virginitade @e la pi@u lucida cosa et chiara tra l'altre
+disposizioni umane, cos@i egli a simile la puosono in quella
+stella ch'@e adatta ad aver lume, et adatta a potersi oscurare s@i
+come disse lo Filosofo in II ^Coeli et mundi~, che la luna @e
+corpo disposto a ricever lume; et quello ch'ella riceve s@i l'hae
+dal sole: e per@o quella parte d'essa ch'@e in presenza del Sole
+luce, lo soperchio rimane oscuro.  Cos@i l'umana spezie @e adatta a
+ricever grazia da Dio, et creata in grazia, s@i come la luna fue
+creata piena: se poi ella discede dal Creatore per lo peccato,
+ella si oscura, s@i come, se la luna discede dalla presenzia del
+sole, diventa oscura.  Dette le poetiche disposizioni, or'@e da
+dire le filosofiche.  Furono alcuni filosofi, che tennono che
+quegli segni che sono nella luna fosse alcune nuvole, le quali
+seguissono il corpo della luna, e interponessonsi tra noi e essa,
+per la quale interposizione tanto del corpo lunare ne paresse
+oscuro.  Altri tennono che la luna fosse simile d'uno specchio,
+nel quale specchio la faccia del globo della terra si
+specchiasse; et s@i come suso la superfice della terra @e mare et
+distinzioni di montagne, cos@i nello idolo che si figura nel
+predetto specchio, ci@o @e nel corpo della luna, @e disjunzioni e
+differenze, et secondo diverso colore appajono.  Altri furono che
+tennero che tale diversitade @e la raritade et densitade in questo
+modo, che quella parte ch'@e del corpo della luna denso, s@i riceve
+lo raggio del Sole et suso essa superficie moltiplica, et ^per
+consequens~ @e lucido e chiaro; et quella parte del corpo della
+luna ch'@e raro, perch@e non pu@o multiplicare gli radj solari in
+essa superfice, non @e lucido n@e chiaro, et ^per consequens~ @e
+oscuro et ombroso: la quale opinione mostra l'Auttore che fosse
+sua, infino alla diffinizione di Beatrice; et questa disputa con
+essa, s@i come apparir@a nella esposizione del testo.  Le quali
+opinioni de' filosofi s@i si solvono in questo modo.  Gli primi
+che missono esser tale diversitade per interposizione di nuvole,
+chiaro appare come non @e vero, imper quello che impossibile
+sarebbe che tale impressione fosse continua in aire: dato ch'ella
+gli fosse, impossibile sarebbe che quegli d'India la vedessono ad
+un modo con quegli d'Inghilterra, siccome chiaro appare nello
+ecclissi del Sole particolare, che secondo la diversitade del
+sito appare pi@u oscuro del corpo solare, per la interposizione
+della luna, in uno luogo che in uno altro: e ch'el sia vero che
+tale ombra appaja nella luna s@i agli orientali come agli
+occidentali, chiaro appare che gli filosofi dell'una parte et
+dell'altra, ch'anno di ci@o trattato, l'hanno posta ad un modo e
+descritta.  Gli secondi, che posono che tale ombra fosse lo idolo
+della superfice della terra, chiaro appar falso, imper quello che
+noi vedemo quegli medesimi segni quando la luna @e in oriente che
+quando ella @e in occidente o in mezzo die; la quale opposizione @e
+a senso falsa, imper quello che, se noi ponemo uno specchio dal
+destro della cosa specchiata, l'idolo appare in altro modo che
+chi lo ponesse dal sinistro, e spezialmente di quelle cose che
+@anno diversitade in s@e; ch@e altre montagne e altri mari sono in
+oriente che in occidente: et ^per consequens~ altra figurazione
+seguiterebbe.  La terza opinione filosofica s@i disputa l'Auttore
+nel presente capitolo, mettendo, esso argumentare e Beatrice
+solvere: et in prima si argumenta contra, ch'ello non @e raritade
+tale oscurit@a, imper quello che, quando la luna n'ecclissa lo
+sole, gli radj solari penetrarebbono per quello raro, s@i che non
+si potr$ia oscurare lo sole a senso; et veggendo oscurare tutto lo
+corpo del sole sanza alcuno penetrare di radj pi@u fiate, s@i che
+si segue non essere raritade in lo corpo lunare.  Or si pu@o fare
+una istanzia a quello argumento, lo qual l'Auttore fae, in questo
+modo: quelle oscuritadi sono pure raritadi; ma, non che trapassi
+oltre per tutto lo corpo lunare, s@i che gli radj del sole, che
+illuminano la luna suso la superfice, la illuminano quanto elli
+trapassono per lo raro; poi si moltiplicano suso quello termine
+nel corpo della luna, dove non @e pi@u la estensione dello raro, s@i
+che, per la diversit@a dello luogo della multiplicazione degli
+radj, illuminano e pi@u e meno, et ^per consequens~ @e chiaro et
+ombroso: e, dato che tale raritade non trapassa, nello ecclissi
+predetto non dee penetrare gli radj solari, et ^per consequens~
+non appar luce alcuna.  Alla quale istanzia risponde Beatrice et
+assolvela per ragione, che per esperienza si pu@o certificare in
+questo modo, che lo intento di tale assolvigione si @e a
+dimostrare che distanza di luogo, avveggia che in quantitade
+faccia divensa apparenza, come maggiore e minore non fa diversit@a
+in qualitade, ci@o @e che per distanzia di luogo la luce non pu@o
+apparere ombra: et cos@i si seguir@a che lo raggio del sole,
+refratto sulla superfice del corpo lunare, non sar@a diverso in
+chiarezza da quello raggio che sar@a refratto nel corpo della luna
+vicino al centro del predetto corpo, s@i come nella presente
+dimostrazione si contiene.  Immaginasi lo cerchio a. b. lo corpo
+lunare, et queste due littere esser in la superfice; et
+immaginisi a. c. nel centro del detto corpo, e le due linee, ci@o
+@e a. c. a. b. contignere quella raritade ch'@e nella luna.  Ora
+pone l'istanzia che gli raggi rifratti del sole ne' luoghi a. b.,
+saranno eguali in chiarezza di quello che sono rifratti nello
+luogo del c., s@i che la distanzia ch'@e dalla superfice al centro
+non far@a differenza in qualit@a, s@i com'@e detto; et pruovalo per
+tale esperienza.  Se uno uomo avr@a dinanzi da sua persona tre
+specchi, gli due di lungi d'una elongazione, e lo terzo di pi@u
+longazione: di drieto dalla sua persona sia un doppiero, appresso
+dice che in ciascheduno specchio apparir@a lo lume del doppiero
+equale in luce, ma non in quantit@a; negli due egualidistanti
+apparir@a d'una grandezza, nello terzo pi@u rimosso, in quantit@a
+apparir@a minore, ma com'@e detto, in qualit@a, ci@o @e in splendore,
+appariranno eguali: et cos@i si conchiude che gli raggi luninosi,
+per distanzia di luogo in qualitade non fanno diversitade: s@i che
+tale differenza non avviene da raro e denso.  E acci@o che meglio
+s'intenda, s@i @e da discrivere la figura e dimostrazione de' detti
+specchj.  Sia a. lo lume ch'@e dopo le spalle al consideratore: b.
+sia l'occhio del consideratore: c. e. siano gli due specchj
+equidistanti: d. sia lo specchio pi@u rimosso dal consideratore:
+dice l'Auttore che lo lume di a. sar@a in luce eguale nelli tre
+specchi, ci@o @e in c. d. e., avvegnach@e in d. ello apparir@a minore
+in quantitade: s@i che per quella remozione che @e da e. alla luce
+in qualitade non apparir@a oscura: e cos@i si segue, com'@e detto
+che gli radj refratti nel centro del corpo lunare non appariranno
+meno chiari che quegli che sono refratti in superfice.  E questo
+@e quello ch'@e inteso a provar l'Auttore, per che si segue tal
+diversitade esser da raro e denso.  Dette et assolte le opinioni
+fisiche circa gli segni apparenti nel corpo lunare, si @e da
+scrivere la veritade, la quale si @e che tale diversitade viene
+dalla disposizione della sustanzia del corpo lunare, la quale @e
+principio formale di quello corpo; et per@o continuo appare d'un
+modo esser diversa.  Et assegna l'Auttore una cos@i fatta ragione:
+le forme de' suoi effetti s@i sono per alcuno modo nelle sue
+cagioni; e per@o, quanto nella cagione @e pi@u forme di effetti,
+tanto dee essere in essa pi@u diversitade in apparenza.  Certa
+cosa @e che la luna influe molto in questi inferiori, s@i in
+generazione come in corruzione; e per@o quasi esemplarmente nel
+corpo della luna appare le forme generabili e corruttibili, in
+quanto appare s@i diversa.  Et avvegna che gli corpi celesti siano
+d'altra natura che i quattro elementi, le virtudi di fare
+generare e corrompere questi inferiori elementali sono in essi,
+non per quello modo ch'elle sono in li elementi, s@i come prova lo
+Filosofo in II ^De caelo et mundo.~  Et dice l'Auttore, vogliendo
+mostrare che la diversit@a dell'apparenza del corpo lunare hae a
+fare quaggiuso quel diverso effetto, ch'@e simile all'umana
+composizione, che noi vedemo che l'anima umana fae diverse
+operazioni, et adopera diverse virtudi, secondo la diversit@a
+dell'organo; ch$e nell'occhio adopera la virt@u visiva; negli nervi
+lo tatto; negli orecchi l'audito etc. cos@i Iddio adopera nel
+mondo secondo l'ordine naturale diverse virtudi per diversi
+organi: per Saturno una cosa, per Jupiter un'altra, per Marte una
+terza; cos@i per lo torbido della luna adopera un'altra cosa, per
+lo chiaro un'altra; et in questo modo gli pianeti e stelle
+ricevono dal Creatore virtude, et adoperano quaggi@u di sotto loro
+influenze; et cos@i com'@e detto, aviene tal diversitade della
+disposizione della sustanzia del corpo lunare.  E cos@i sono
+esposte tutte le parti, le quali per l'Auttore sono toccate nel
+presente capitolo, le quali comprendono la 'ntenzione di quelle. 
+Et acci@o che proceda nostro lavoro uniforme, s@i esporremo al modo
+usato lo testo in questo modo.
+
+	|1-3.  O voi che siete~: Ci@o @e voi ch'avete picciolo
+'ntelletto, et siete inscii.  |Al mio legno~: Ci@o @e a mio ordine
+di questa poetria.
+
+	|4-6.  Tornate a rivedere~: Ci@o @e a contemplare con
+quelle grosse cose che sono conformi a vostra scienza.  |In
+pelago~: Ci@o @e nelle sottili et alte immaginazioni.  |Perdendo
+me~: Ci@o @e vostro intelletto non potrebbe seguire al mio corso.
+
+	|7-8.  L'acqua ch'io~: Qui rende l'Auttore la cagione di
+tal consiglio, e dice che la scienza, al modo che la descrive,
+giammai non fue per altri scritto.  |Minerva spira~: Ci@o @e la Dea
+delle scienze @e quella che parla nella presente ^Commedia.~ 
+|Conducemi Apollo~: Ci@o @e lo Deo delle scienzie si @e mio duce. 
+
+	|9.  E nove Muse~: Ci@o @e quelle nove muse che discriveano
+gli poeti li dimostrano lo cielo.  |Orse~ sono due costellazioni
+vicine al polo antrionale, s@i come chiaro appare per Tolomeo
+nell'^Almagesto.~  Or tolle l'Auttore ^pars pro toto~, ci@o @e che
+le muse predette li dimostrono l'Orse, ci@o @e tutte le
+costellazioni.  Le quali muse fittivamente dagli poeti erano
+intesi quelli strumenti, gli quali formano la voce umana, ci@o @e
+due labri, quattro denti principali, la lingua, la concavitade
+del gorgozule, l'anelito del polmone.  Et diceano gli detti poeti
+che le dette muse abitavano suso uno monte appellato Elicone; la
+prima era appellata Clio, ci@o @e gloria di nominanza; la seconda
+ha nome Euterpe, ci@o @e delettazione; la terza ha nome Melpomene,
+ci@o @e continuanza; la quarta ha nome Talia, ci@o @e capacitade; la
+quinta ha nome Polimnia ci@o @e memoria, la sesta ha nome Erato,
+ci@o @e trovatore di sillabe; la settima Tersicore, ci@o @e maest@a;
+l'ottava ha nome Urania, ci@o @e celeste; la nona ha nome Calliope,
+ci@o @e bella e buona voce.  La quale ordinazione di muse disse
+l'Auttore che gli dimostrano nella presente ^Commedia~ le celesti
+costellazioni, ci@o @e gli cori de' beati che adornano lo paradiso.
+
+	|10-12.  Voi altri pochi che~: Ci@o @e voi scenziati.  |Al
+pan~: Ci@o @e alla contemplazione della virtude.  |Vivesi qui~:
+lmper quello che scienza @e qui vita, imperci@o che chi ha scienza,
+avvegnach@e muoja corporalmente, ello vive in fama.  |Mai non si
+vien satollo~: Ci@o @e che 'l nostro desiderio non si contenta, se
+non nell'ultima felicitade, la quale non @e in questo mortal
+mondo, s@i com'@e detto.
+
+	|13-15.  Metter potete~: Chiaro appare.  |Alto sale~: Ci@o
+@e alto mare.  |Solco~: Ci@o @e via.
+
+	|16-18.  Que' gloriosi~: Qui adduce per esempio, quegli
+che studiano nella presente ^Commedia~ si maraviglieranno s@i come
+gli compagni di Jason, quando lo vidono arare la terra all'isola
+del Colco, non sapiendo lo 'nperch@e, s@i com'@e detto nel XVIIJ
+dell'^Inferno~; e siccome la detta gente aveano suo intento del
+montone dell'oro, cos@i gli studenti intelligenti avranno suo
+intendimento della scienzia.
+
+	|19-21.  La concreata et perpetua~: Ci@o @e l'ordine
+mondano e 'l diritto appetito.  |Veloce quasi~: Nota qui grande
+velocit@a, ch@e, come dice lo Filosofo nel II ^de Coelo et mundo~,
+lo cielo si volge con velocissimo moto, imper quello che in
+XXIIIJ ore d@a una volta, et @e cos@i grande circonferenza.
+
+	|22-24.  Beatrice in suso~: Chiaro appare.
+
+	|25-27.  Giunto mi vidi~: Chiaro appare.
+
+	|28-30.  Volta ver me~: Ci@o @e Beatrice.  |Colla prima
+stella~: Ci@o @e la luna, la quale @e lo primo corpo celeste
+cominciando di sotto.
+
+	|31-33.  Pareva a me~: Segue suo poema, come appare. 
+|Lucida e spessa~: S@i come in II ^Coeli et mundi~ per lo Filosofo
+apparir@a.
+
+	|34-36.  Per entro s@e~: Nota com'@e detto lo modo ch'elli gli
+entr@o entro.
+
+	|37-39.  S'i' era corpo~:  Quasi dire: per questa
+concezione io vi entrai ^intellectualiter.~  |Ch'esser convene~:
+S@i come in IV ^Phisicorum~ per lo Filosofo si dimostra.
+
+	|40-42.  Accender ne dovr$ia~: E soggiugne Beatrice che 'l
+suo dis$io si dovrebbe pi@u accendere a veder Cristo che altre
+creature.
+
+	|43-45.  L@i si vedr@a~: Ci@o @e come la divinitade @e
+congiunta colla umanitade.  |Non dimostrato~: Nota, s@i come sta
+nel libro ^Posteriorum~, elle sono alcune proposizioni che sono
+notevoli per s@e stesse senza altra dimostrazione, come ^de
+quodlibet esse vel non esse~; ^omnis pars minor est suo toto~:
+altre proposizioni sono, che si demostrano, come lo triangolo hae
+tre angoli, i quali due retti: ^tempus est mensura motus~ etc. 
+Or dice l'Auttore in persona di Beatrice: la vera fede si vedr@a
+l@ie, non per lo modo delle dimostrate proposizioni, ma per lo
+modo di quelle che sono per s@e note.
+
+	|46-48.  Io risposi~: Qui mostra che tutto divoto
+s'offerse a render grazia a Dio, che lui avea esaltato alle
+supreme considerazioni, et rimossolo dalle materiali e basse.
+
+	|49-51.  Ma ditemi che sono~: Qui palesa Dante lo dubbio
+predetto.  |Di questo corpo~: Ci@o @e della luna.  |Fan di Cain~:
+Ci@o @e secondo le fabule predette poetiche.
+
+	|52-54.  Ella sorrise~: Parole poetiche sono introdutte
+per bellezza del poema.  |Dove chiave~: Ci@o @e dove senso non
+adopera, n@e dichiara.
+
+	|55-57.  Gli strali~: Ci@o @e gli dubbi.
+
+	|58-60.  Ma dimmi quel~: Nota lo modo dell'Auttore, per
+che vuole disputare quella posizione, se raro e denso fanno tale
+diversit@a.
+
+	|64-69.  La spera ottava~: Ci@o @e che in essa sono
+immagini diverse; et cos@i hanno diverso aspetto: alcune sono
+lucide, alcune sono nubilose, et alcune tenebrose, s@i come appare
+nella Astrolog$ia introduttoria, s@i in Albumazar come eziandio in
+Alcabizio, come eziandio nello ^Quadripartito~ di Tolomeo: e s@i
+come fanno diversitade in qualitade, cos@i in quantitade.  Or @e
+l'argomento cos@i fatto, che, se raro e denso fosson cagione di
+tale apparenzia, ello si seguirebbe tutte le lucide esser d'una
+natura, tutte le nubilose d'un altra, tutte le tenebrose d'una
+terza; la qual conseguenza @e assurda: adunque la posizione non @e
+vera.
+
+	|70-72.  Virt@u diverse esser~: Ancora noi vedemo che
+diversa cagione fa diverso effetto, et vedemo essere nel mondo
+diversi effetti: adunque sono diverse le cagioni degli principj
+formali: se sono diverse, in tanta diversitade non si por$ia
+seguire da raro e denso tale essere.  |Fuor ch'uno~: Questo
+s'intende Iddio, il quale @e solo principale cagione, e in esso
+non @e alcuno esser creato, s@i che in esso non @e da cercare,
+s'ello fae diverso effetto, che in esso, ch'@e principale causa,
+sia alcuna diversitade.
+
+	|73-75.  Ancor se~: Qui disputando l'Auttore vuole
+mostrare che quella raritade non @e nello corpo lunare, provando
+per lo consequente nello ecclissi, inconveniente che si
+seguirebbe com'@e detto di sopra.
+
+	|76-78.  Esto pianeta~: Ci@o @e la luna.  |Nel suo volume~:
+Ci@o @e nel suo volversi.
+
+	|79-81.  Ecclissi~: Ci@o @e difetto di lume per
+interposizione di corpo opaco tenebroso.
+
+	|82-84.  Falsificato~: Ci@o @e la posizione di raro e
+denso.
+
+	|85-87.  Esser conviene~: S@i come nello specchio, ch'@e
+lucido vetro terminato da piombo, et in quella terminazione la
+spera specchiata si forma, s@i come appare negli trattati dei
+^Speculi~ d'Euclide: et per@o dice.
+
+	|88-90.  E indi l'altrui raggio~: Ci@o @e quello del sole,
+che lo corpo della luna illumina, com'@e detto.  |Cos@i come~: Ci@o
+@e specchio.
+
+	|91-93.  Or dira' tu ch'el si~: Questa si @e l'istanzia
+sopradetta, la quale si solve per esperienza di tre specchi e
+dello lume, com'@e detto di sopra.  |Tetro~: Oscuro.
+
+	|94-96.  Ch'esser suole~: Nota che la scienzia umana hae
+origine negli sensi, s@i come nel proemio della ^Fisica~ lo
+Filosofo palesa: ^Cognitio nostra a sensibilibus habet exordium.~
+
+	|97-102.  Tre specchi~: Chiaro @e detto e demostrato in
+figura di sopra.
+
+	|103-105.  Bench@e nel quanto~: Nota diversit@a in
+quantit@a, ma non in lume.
+
+	|106-111.  Or come a' colpi~: Or qui vuol mostrare
+l'Auttore che, s@i come la neve per gli caldi radj del sole s@i se
+resolve in acqua, e quella bianchezza che in prima gli era @e in
+privazione, cos@i l'animo suo che opinava prima esser tale
+diversitade di raro e denso, rimase nudo e privo di scienzia di
+quegli segni; et per@o soggiugne: rimaso te cos@i inscio, io ti
+voglio informare del vero.  E questo disse in persona di
+Beatrice.
+
+	|112-114.  Dentro dal ciel~: Ci@o @e la nona spera, ch'@e lo
+primo mobile, nella quale virtualmente @e la cagione di tutti gli
+effetti naturali, gli quali sono in fra essa, s@i come tocca
+Alberto in libro ^De mineralibus~, libro II, tractatum III,
+capitulum III, e disse: ^Circulus signorum non stellatus primus
+est, habens motum figurae et vitae.~
+
+	|115-117.  Lo ciel seguente~: Ci@o @e l'ottava spera, dove
+sono l'immagini e le costellazioni essenzialmente, per gli quai
+membri la virtute della nona discende; et cos@i come sono diversi,
+cos@i influeno diversamente quaggiuso.
+
+	|118-120.  Gli altri gironi~: Ci@o @e i circuli e' cieli
+de' pianeti; et essi corporalmente, secondo che si hanno ad
+inseme per cognizione o per aspetti dentro da loro, ovvero per
+aspetti del sito di sotto, s@i adoperano, distribuendo la virtude
+data a loro per lo primo cielo a diversi fini, s@i come appare
+negli libri d'Astrolog$ia giudicativa.  |E lor semenze~: Ci@o @e che
+dispongono alcuna fiata alcune secondarie cagioni, le quali sono
+et adoperano a quegli fini a che sono ordinati questi ordini.
+
+	|121-123.  Questi organi del~: Chiaro appare come
+ricevono virtute della nona spera, et influeno in questi elementi
+elementati.
+
+	|124-126.  Riguarda~: Segue 'l poema.
+
+	|130-132.  E 'l ciel~: Ci@o @e le stelle perdono tale
+virtude.
+
+	|133-138.  Et come l'alma~: qui vuol mostrare quello ch'@e
+detto per esemplo; ch@e, s@i come l'anima ragionevole, fino ch'@e
+congiunta collo corpo, per diversi organi adopera sua virt@u, cos@i
+quelle intelligenze per diversi organi adoperano tal virtude: gli
+quali organi, com'@e detto, sono le spere e le stelle.
+
+	|139-144.  Virt@u diversa~: Ci@o @e cagione diversa, e
+spiegata in diversa costellazione, fa diverso effetto, s@i come
+appare dello sole e degli altri pianeti quando mutano segno. 
+|Col prez,ioso segno~: Ci@o @e congiunta la virt@u colla
+costellazione, s@i si lega in essa come face vita negli animali;
+et cos@i appare in essa come spezie visiva in la pupilla; onde si
+segue che la diversitade della luna in apparenzia non @e d'altro
+che da sua sustanzia: e perch@e hae a fare quaggiuso diversi
+effetti, conviene che, s@i come organo, ricevesse diversitade.
+
+	|145-148.  Da essa vien~: Chiaro appare per quello ch'@e
+detto.  E cos@i compie suo capitolo.  E se alcuno dubitasse,
+perch@e ha solo quest'ultimo pianeto questa diversitade?  puossi
+chiarificare con questa ragione ch'ello fue necesse alla natura
+avere cagione in cielo delle generazione e delle corruzioni che
+si fanno in breve tempo: e per@o che l'ultimo pianeto compie lo
+suo corso in minore spazio di tempo degli altri, s@i conviene ad
+esso essere attribuiti tali effetti.

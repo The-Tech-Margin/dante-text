@@ -1,0 +1,819 @@
+Checking file 01.e
+Error at line 6: Spaces used at head of paragraph
+>>>        |Proemio.~  His pr@@aeambulis pro evidentia pr@@aecursis, nunc
+>>> ad libri divisionem veniendum est.  Autor noster considerans
+
+Error at line 47: Spaces used at head of paragraph
+>>>        |1-3.~  Nunc ergo ad expositionem liter@@ae dicit autor: 
+>>> |Nel mezzo del cammin di nostra vita~ ec.  Sed quod est medium
+
+Error at line 179: Multiple blank lines
+>>>
+Error at line 180: Spaces/Tabs used in paragraph
+>>>	|10-12.~  |Io non so ben ridir.~  Hic autor facit
+Error at line 222: Spaces used at head of paragraph
+>>>        |13-18.~  |Ma poi ch'io fui.~  Ista est secunda pars
+>>> generalis, in qua autor ostendit qualiter ipse, diu errans per
+
+Error at line 262: Multiple blank lines
+>>>
+Error at line 263: Spaces/Tabs used in paragraph
+>>>	|19-21.~  |Allor fu la paura.~  Hic autor ponit effectum
+Warning: Single line indent at line 367
+>>>     ^Subcinctam pharetra, et maculoso tegmine lyncis.~
+
+Error at line 444: Spaces used at head of paragraph
+>>>        |37-40.~  |Tempo era.~  Hic autor, gratia pr@@aedictorum,
+>>> describit tempus su@@ae visionis, ut ostendat quomodo ex bona
+
+Warning: Single line indent at line 544
+>>>     ^Crescit amor nummi quantum ipsa pecunia crescit.~
+
+Error at line 546: Multiple blank lines
+>>>
+Error at line 547: Spaces/Tabs used in paragraph
+>>>	|51.~  Et dicit: |e molte genti fe gi@a viver grame~, immo
+Error at line 597: Spaces used at head of paragraph
+>>>        |61-63.~  |Mentre ch'io ruinava.~  Ista est quarta pars,
+>>> in qua autor ostendit qualiter, dum ipse sic infestaretur a
+
+Warning: Single line indent at line 708
+>>>     ^Pastores hedera nascentem ornate poetam.~
+
+Warning: Single line indent at line 715
+>>>     ^Julius a magno dimissum nomen Julo.~
+
+Error at line 952: Multiple blank lines
+>>>
+Error at line 953: Spaces/Tabs used in paragraph
+>>>	|94-96.~  Et subdit Virgilius rationem sui dicti dicens: 
+Warning: Single line indent at line 972
+>>>     ^Non satiare potest manus omnipotentis avarum.~
+
+Error at line 1002: Spaces used at head of paragraph
+>>>        H@@aec litera Virgilii est ambigua; unde multi dixerunt quod
+>>> Virgilius locutus est de Christo, sicut Augustinus, qui decimo de
+
+Error at line 1134: First indent not five spaces
+>>>      ^...humilemque videmus~	
+
+Warning: Single line indent at line 1208
+>>>     ^Me, me, adsum qui feci: in me convertite ferrum:~
+
+Warning: Single line indent at line 1212
+>>>     ^Tantum infelicem nimium dilexit amicum~!
+
+Warning: Single line indent at line 1307
+>>>     ^Vitaque cum gemitu fugit indignata sub umbras.~
+
+Error at line 1398: Multiple blank lines
+>>>
+Error at line 1399: Spaces/Tabs used in paragraph
+>>>	|118-120.~  Deinde Virgilius promittit se ducturum ipsum
+Error at line 1468: Multiple blank lines
+>>>
+Error at line 1469: Spaces/Tabs used in paragraph
+>>>	|136.~  Et subdit effectum petitionis dicens: |allor si
+Error at line 1473: Multiple blank lines
+>>>
+Checking file 02.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Lo Giorno se n'andava e l'aer bruno.~ 
+>>> Postquam in pr@@aecedenti primo capitulo prohemiali autor noster
+
+Error at line 23: Spaces used at head of paragraph
+>>>        |1-6.~  Ad primum dico quod autor tendens ad processum
+>>> promissi itineris describit horam temporis dicens: |Lo giorno.~ 
+
+Error at line 46: Spaces used at head of paragraph
+>>>        Sed hic statim oritur aliud dubium.  Cum autor fecerit
+>>> suam visionem adveniente die, cur nunc intrat viam adveniente
+
+Error at line 83: Spaces used at head of paragraph
+>>>        |7-9.~  |O musa.~  Hic autor, pr@@aemissa descriptione
+>>> temporis, facit suam invocationem.  Sed ad clariorem
+
+Error at line 145: Spaces used at head of paragraph
+>>>        |10-12.~  |Io cominciai.~  Ista est secunda pars
+>>> generalis, in qua autor movet dubium Virgilio de insufficientia
+
+Error at line 195: Spaces used at head of paragraph
+>>>        |13-15.~  |Tu dici.~  Hic autor excludit responsionem,
+>>> quam posset facere Virgilius ad exhortationem ejus, quia enim
+
+Error at line 288: Spaces used at head of paragraph
+>>>        |25-27.~  |Per questa.~  Hic autor tangit specialiter
+>>> causas, quibus concessum fuit Ene@@ae; ire ad Infernum; et primo
+
+Error at line 399: Spaces used at head of paragraph
+>>>        |43-48.~  |S'io ho ben la tua parola intesa.~  Ista est
+>>> tertia pars generalis, in qua Virgilius removet dubium autoris. 
+
+Error at line 452: Multiple blank lines
+>>>
+Error at line 453: Spaces/Tabs used in paragraph
+>>>	|52-54.~  |Io era.~  Hic Virgilius volens probare quod
+Error at line 642: Multiple blank lines
+>>>
+Error at line 643: Spaces/Tabs used in paragraph
+>>>	|88-93.~  |Temer.~  Hic Beatrix facit suam responsionem,
+Error at line 766: Multiple blank lines
+>>>
+Error at line 767: Spaces/Tabs used in paragraph
+>>>	|103-105.~  |E disse~: Hic Beatrix narrat Virgilio
+Error at line 883: Spaces used at head of paragraph
+>>>        |127-130.~  |Quali i fioretti.~  Quarta et ultima pars
+>>> generalis, in qua autor ponit effectum long@@ae persuasionis fact@@ae a
+
+Error at line 937: Multiple blank lines
+>>>
+Checking file 03.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Per me si va nella citt@a dolente.~ 
+>>> Expeditis duobus primis capitulis prohemialibus, in quorum primo
+
+Error at line 65: Multiple blank lines
+>>>
+Error at line 66: Spaces/Tabs used in paragraph
+>>>	|7-8.~  |Dinanzi.~  Hic autor tangit quando fuerit factus
+Error at line 102: Multiple blank lines
+>>>
+Error at line 103: Spaces/Tabs used in paragraph
+>>>	|10-11.~  |Queste.~  Hic autor ostendit ubi viderit ista
+Error at line 112: Multiple blank lines
+>>>
+Error at line 113: Spaces/Tabs used in paragraph
+>>>	|12.~  Unde subdit quod turbatus est dicens: |perch'io~,
+Error at line 164: Spaces used at head of paragraph
+>>>        |22-24.~  |Quivi sospiri e pianti.~  Ista est secunda
+>>> pars generalis, in qua autor describit generalem penam vilium et
+
+Error at line 367: Spaces used at head of paragraph
+>>>        |58-60.~  |Poscia ch'io n'ebbi.~  Ista est tertia pars
+>>> generalis, in qua autor facit specialem mentionem de uno istorum,
+
+Error at line 519: Spaces used at head of paragraph
+>>>        |70-71.~  |Et io ch'a riguardar.~  Ista est quarta pars
+>>> generalis, in qua autor tractat de generali passu Inferni, et
+
+Error at line 552: Multiple blank lines
+>>>
+Error at line 553: Spaces/Tabs used in paragraph
+>>>	|79-81.~  Et subdit effectum illius responsionis, et
+Error at line 646: Multiple blank lines
+>>>
+Error at line 647: Spaces/Tabs used in paragraph
+>>>	|88-89.~  |E tu.~  Hic Charon, facta exclamatione
+Error at line 657: Multiple blank lines
+>>>
+Error at line 658: Spaces/Tabs used in paragraph
+>>>	|90-93.~  Et subdit quod Charon, videns ipsum non
+Error at line 779: Spaces used at head of paragraph
+>>>        |121-123.~  |Figliol mio.~  Ista est quinta pars
+>>> generalis, in qua autor ponit duplicem responsionem Virgilii ad
+
+Error at line 805: Multiple blank lines
+>>>
+Error at line 806: Spaces/Tabs used in paragraph
+>>>	|127-129.~  |Quinci.~  Hic Virgilius postquam respondit
+Error at line 853: Multiple blank lines
+>>>
+Error at line 854: Spaces/Tabs used in paragraph
+>>>	|133-135.~  Et subdit: |la terra lagrimosa~, scilicet
+Error at line 864: Multiple blank lines
+>>>
+Error at line 865: Spaces/Tabs used in paragraph
+>>>	|136.~  Et facit finem huic materi@@ae et capitulo dicens:
+Error at line 874: Multiple blank lines
+>>>
+Checking file 04.e
+Error at line 10: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Ruppemi l'alto sonno nella testa.~  Postquam
+>>> in superiori capitulo tertio proxime pr@@aecedenti autor noster
+
+Error at line 147: Spaces used at head of paragraph
+>>>        |25-27.~  |Quivi secondo.~  Ista est secunda pars
+>>> generalis, in qua autor tractat de pena damnatorum in hoc primo
+
+Error at line 249: Spaces used at head of paragraph
+>>>        |46-50.~  |Dimmi, maestro mio.~  Ista est tertia pars
+>>> generalis, in qua autor movet unam qu@@aestionem incidentem circa
+
+Error at line 371: Spaces used at head of paragraph
+>>>        |64-65.~  |Non lasciavam.~  Ista est quarta pars
+>>> generalis, in qua autor describit locum illustrium virorum.  Et
+
+Error at line 545: Multiple blank lines
+>>>
+Error at line 546: Spaces/Tabs used in paragraph
+>>>	|90.~  Deinde nominat tertium poetam, scilicet Ovidium,
+Error at line 724: Multiple blank lines
+>>>
+Error at line 725: Spaces/Tabs used in paragraph
+>>>	|107.~  Et ecce munimina istius castelli, quia, |sette
+Error at line 770: Spaces used at head of paragraph
+>>>        |112-114.~  |Genti v'eran.~  Ista est V pars generalis,
+>>> in qua autor describit existentes in prato, et primo viros
+
+Error at line 798: Multiple blank lines
+>>>
+Error at line 799: Spaces/Tabs used in paragraph
+>>>	|118-120.~  Et subdit quod in prato virenti ostensi
+Error at line 1029: Spaces used at head of paragraph
+>>>        |130-133.~  |Poi che 'nalzai.~  Ista est VI et ultima
+>>> particula, in qua autor nominat viros claros sapienti@@ae, scilicet
+
+Error at line 1361: Spaces/Tabs used in paragraph
+>>>	
+>>>	|144.~  |Averrois.~  Hic ultimo autor, post philosophos
+Error at line 1418: Multiple blank lines
+>>>
+Checking file 05.e
+Error at line 8: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Cos@i discesi del cerchio primaio.~  Postquam
+>>> in superiori capitulo autor noster tractavit de primo circulo
+
+Error at line 24: Spaces used at head of paragraph
+>>>        |1-2.~  Ad primam ergo dico quod autor describit
+>>> introitum ad secundum circulum, et continuans se ad pr@@aecedentia
+
+Error at line 169: Spaces used at head of paragraph
+>>>        |25-27.~  |Or incomincian.~  Ista est secunda pars
+>>> generalis, in qua autor agit de pena generali luxuriosorum, et
+
+Error at line 304: Spaces used at head of paragraph
+>>>        |46-49.~  |E come i grui.~  Ista est tertia pars
+>>> generalis, in qua autor tractat in speciali de spiritibus
+
+Error at line 322: Multiple blank lines
+>>>
+Error at line 323: Spaces/Tabs used in paragraph
+>>>	|50-51.~  Ex dictis autem autor factus avidus petit qu@@ae
+Error at line 589: Spaces used at head of paragraph
+>>>        |70-72.~  |Poscia ch'io ebbi il mio doctor udito.~  Ista
+>>> est quarta pars generalis, in qua autor tractat de duobus
+
+Error at line 839: Spaces used at head of paragraph
+>>>        |115-120.~  |Poi mi rivolsi a lor.~  Ista est quinta pars
+>>> generalis in qua autor petit declarari de uno dubio a predicto
+
+Error at line 953: Multiple blank lines
+>>>
+Checking file 06.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Al tornar de la mente.~  Postquam in
+>>> pr@@aecedenti capitulo autor noster tractavit et determinavit de
+
+Error at line 101: Multiple blank lines
+>>>
+Error at line 102: Spaces/Tabs used in paragraph
+>>>	|13-15.~  |Cerbero.~  Nunc autor describit custodem
+Error at line 233: Spaces used at head of paragraph
+>>>        |34-36.~  |Poi passavam.~  Ista est secunda pars
+>>> generalis in qua autor tractat in speciali de uno spiritu
+
+Error at line 362: Spaces used at head of paragraph
+>>>        |58-59.~  |Io li risposi.~  Ista est tertia pars
+>>> generalis in qua autor facit petitionem dicto spiritui circa
+
+Error at line 563: Multiple blank lines
+>>>
+Error at line 564: Spaces/Tabs used in paragraph
+>>>	|77-79.~  |Et io.~  Nunc autor dicto de statu Florenti@@ae
+Error at line 638: Spaces used at head of paragraph
+>>>        |94-96.~  |E 'l duca.~  Ista est quarta et ultima pars
+>>> generalis in qua autor tractat de resurrectione malorum, ut
+
+Error at line 724: Multiple blank lines
+>>>
+Checking file 07.e
+Error at line 8: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Pape sathan.~  Postquam in superiori
+>>> capitulo proxime pr@@aecedenti autor noster tractavit de p@@oena
+
+Error at line 308: Spaces used at head of paragraph
+>>>        |36-39.~  |Et io ch'avea il cor.~  Ista est tertia pars
+>>> generalis, in qua autor tractat in generali de pr@@aedictis et in
+
+Error at line 438: Spaces used at head of paragraph
+>>>        |67-69.~  |Maestro mio.~  Ista est quarta pars generalis
+>>> in qua autor digressorie tractat de fortuna: quia enim Virgilius
+
+Error at line 658: Spaces used at head of paragraph
+>>>        |97.~  |Or discendiamo.~  Ista est quinta et ultima pars
+>>> generalis, in qua autor agit et tractat breviter et succincte de
+
+Error at line 836: Multiple blank lines
+>>>
+Checking file 08.e
+Error at line 10: Spaces used at head of paragraph
+>>>        |Proemio.~  ^IO DICO seguitando.~  Postquam in pr@@aecedenti
+>>> capitulo circa finem autor noster tractavit de p@@oena iracundorum
+
+Error at line 109: Spaces/Tabs used in paragraph
+>>>	
+>>>	|7-9.~  |Et io~, hic autor petit a Virgilio quid
+Error at line 230: Spaces used at head of paragraph
+>>>        |31-32.~  |Mentre noi.~  Ista est secunda pars generalis
+>>> in qua autor tractat de uno spiritu moderno arrogantissimo, in
+
+Error at line 492: Spaces used at head of paragraph
+>>>        |64-66.~  |Quivi el lassamo.~  Ista est tertia pars in
+>>> qua autor, terminata materia superbi@@ae, nunc tendit versus
+
+Error at line 609: Spaces used at head of paragraph
+>>>        |82-85.~  |Io vidi pi@u di mille.~  Ista est quarta et
+>>> ultima pars generalis, in qua autor ostendit maximam resistentiam
+
+Error at line 816: Multiple blank lines
+>>>
+Checking file 09.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |Proemio.~  ^Quel color che vilt@a di for mi pinse.~ 
+>>> Postquam in superiori capitulo proxime pr@@aecedenti poeta Dantes
+
+Error at line 223: Spaces used at head of paragraph
+>>>        |34-39.~  |Et altro disse.~  Ista est secunda pars
+>>> generalis in qua autor describit monstra infernalia, qu@@ae
+
+Error at line 281: Multiple blank lines
+>>>
+Error at line 282: Spaces/Tabs used in paragraph
+>>>	|43-45.~  et ostendit quomodo Virgilius manifestaverit
+Error at line 430: Spaces used at head of paragraph
+>>>        |64-66.~  |E gi@a venia.~  Ista est tertia pars generalis,
+>>> in qua autor describit adventum Mercurii cuius ope et opera
+
+Error at line 555: Spaces/Tabs used in paragraph
+>>>	
+>>>	|85.~  |Ben m'accorsi.~  Nunc autor ostendit quomodo
+Error at line 670: Spaces used at head of paragraph
+>>>        |106-111.~  |Dentro v'intramo.~  Ista est quarta pars
+>>> generalis in qua autor breviter describit primam p@@oenam qu@@ae
+
+Error at line 817: Multiple blank lines
+>>>
+Checking file 10.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |Proemio.~  ^Ora sen va per un secreto calle.~  Postquam
+>>> in superiori capitulo proxime pr@@aecedenti in parte finali autor
+
+Error at line 124: Spaces/Tabs used in paragraph
+>>>	
+>>>	|16-21.~  |Per@o.~  Hic Virgilius ex dictis concludit
+Error at line 305: Spaces used at head of paragraph
+>>>        |52-54.~  |Alor surse a la vista scoperchiata.~  Ista est
+>>> secunda pars generalis, in qua autor introducit alium spiritum
+
+Error at line 431: Spaces used at head of paragraph
+>>>        |73-75. Ma quel altro.~  Ista est tertia pars generalis
+>>> in qua autor revertitur ad finiendam materiam quam inc@@oeperat cum
+
+Error at line 710: Spaces used at head of paragraph
+>>>        |115-117.~  |E gi@a il maestro.~  Ista est quarta et
+>>> ultima pars capituli, in qua autor nominat alios spiritus
+
+Error at line 734: Multiple blank lines
+>>>
+Error at line 735: Spaces/Tabs used in paragraph
+>>>	|119.~  Dicit ergo primo de secundo Federico: ad cuius
+Error at line 853: Multiple blank lines
+>>>
+Checking file 11.e
+Error at line 10: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^In su l'estremit@a d'un'alta ripa.~  Postquam
+>>> in superiori capitulo proxime pr@@aecedenti autor noster tractavit
+
+Error at line 143: Spaces used at head of paragraph
+>>>        |16-18.~  |Figliuolo mio.~  Ista est secunda pars
+>>> generalis, in qua autor describit distinctionem quam fecit
+
+Error at line 351: Spaces used at head of paragraph
+>>>        |67-69.~  |Et io: Maestro.~  Ista est tertia pars
+>>> generalis in qua autor movet duo dubia qu@@ae oriuntur ex dictis
+
+Error at line 605: Multiple blank lines
+>>>
+Checking file 12.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Era lo loco ove a scender la riva venimmo.~ 
+>>> Postquam in superiori capitulo proxime pr@@aecedenti autor noster
+
+Error at line 241: Spaces used at head of paragraph
+>>>        |31-33.~  |Io g$ia pensando.~  Ista est secunda pars
+>>> generalis, in qua autor ostendit quomodo Virgilius removerit sibi
+
+Error at line 417: Spaces used at head of paragraph
+>>>        |58.~  |Veggendoci.~  Ista est tertia pars generalis, in
+>>> qua autor ostendit quomodo fuerint receptati ab istis ministris
+
+Error at line 660: Spaces used at head of paragraph
+>>>        |100-102.~  |Or ci movemmo.~  Quarta et ultima pars
+>>> generalis, in qua autor tractat in speciali de quibusdam
+
+Error at line 1155: Multiple blank lines
+>>>
+Checking file 13.e
+Error at line 10: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Non era ancor di l@a Nesso arrivato.~  Postquam
+>>> in superiori capitulo proxime pr@@aecedenti autor noster tractavit
+
+Error at line 219: Spaces used at head of paragraph
+>>>        |16-19.~  |E 'l buon maestro.~  Ista est secunda pars
+>>> generalis in qua tractat in speciali de uno spiritu moderno qui
+
+Error at line 401: Spaces used at head of paragraph
+>>>        |58-61.~  |Io son.~  Hic Petrus de Vineis incipit suam
+>>> narrationem, per quam primo describit suam felicitatem, deinde
+
+Error at line 608: Spaces used at head of paragraph
+>>>        |79-81.~  |Un poco attese.~  Ista est tertia pars
+>>> generalis, in qua autor breviter movet duas qu@@aestiones pr@@aedicto
+
+Error at line 780: Spaces used at head of paragraph
+>>>        |109-111.~  |Noi eravamo.~  Ista est quarta et ultima
+>>> pars generalis, in qua autor tractat de violentia, quam homo
+
+Error at line 1186: Multiple blank lines
+>>>
+Checking file 14.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Poi che la carit@a del natio loco.~  Postquam
+>>> in superiori capitulo proxime pr@@aecedenti autor noster tractavit
+
+Error at line 325: Spaces used at head of paragraph
+>>>        |43-48.~  |Io cominciai.~  Ista est secunda pars
+>>> generalis in qua autor tractat in speciali de uno spiritu
+
+Error at line 523: Spaces used at head of paragraph
+>>>        |73-75.~  |Or mi vien dietro.~  Ista est tertia pars
+>>> generalis, in qua autor describit originem omnium fluviorum
+
+Error at line 811: Spaces used at head of paragraph
+>>>        |121-123.~  |Et io a lui.~  Quarta pars generalis, in qua
+>>> autor ad complementum sui tractatus, movet duo dubia circa
+
+Error at line 910: Multiple blank lines
+>>>
+Checking file 15.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Ora cen porta l'un de' duri margini.~ 
+>>> Postquam in superiori capitulo proxime pr@@aecedenti autor noster
+
+Error at line 28: Multiple blank lines
+>>>
+Error at line 29: Spaces/Tabs used in paragraph
+>>>	|1-3.~  Ad primum dico quod autor primo describit viam
+Error at line 280: Spaces used at head of paragraph
+>>>        |46-48.~  |Ei cominci@o.~  Ista est secunda pars generalis
+>>> in qua autor ostendit quomodo ser Brunettus confert secum aliqua
+
+Error at line 567: Spaces used at head of paragraph
+>>>        |79-87.~  |Se fosse tutto pieno.~  Ista est tertia pars
+>>> generalis in qua autor respondet ad qu@@aedam dicta per ser
+
+Error at line 681: Spaces used at head of paragraph
+>>>        |100-102.~  |N@e per tanto di men.~  Ista est quarta pars
+>>> generalis et ultima, in qua autor nominat quosdam pollutos isto
+
+Error at line 901: Multiple blank lines
+>>>
+Checking file 16.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Gi@a era in loco ove s'udia il rimbombo.~ 
+>>> Postquam in superiori capitulo autor noster tractavit de p@@oena
+
+Error at line 27: Multiple blank lines
+>>>
+Error at line 28: Spaces/Tabs used in paragraph
+>>>	|1-6.~  Ad primum dico quod autor primo describit tres
+Error at line 217: Spaces used at head of paragraph
+>>>        |28-33.  Deh! se miseria.~  Ista est secunda pars
+>>> generalis in qua autor, facta dispositione istorum ad loquendum
+
+Error at line 384: Spaces used at head of paragraph
+>>>        |46-51.  S'io fossi stato.~  Ista est tertia pars
+>>> generalis in qua autor respondet ad dicta, et narrat mutationem
+
+Error at line 621: Spaces used at head of paragraph
+>>>        |91-93.  Io lo seguia.~  Ista est quarta et ultima pars
+>>> generalis, in qua autor incipit tendere versus materiam fraudium;
+
+Error at line 826: Multiple blank lines
+>>>
+Checking file 17.e
+Error at line 9: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Ecco la fiera con la coda aguzza.~  Postquam
+>>> in superiori capitulo proxime pr@@aecedenti autor noster ostendit
+
+Error at line 284: Spaces used at head of paragraph
+>>>        |34-36.  Quando.~  Ista est secunda pars generalis in qua
+>>> autor ostendit qualiter, post generalem investigationem fraudis
+
+Error at line 504: Spaces used at head of paragraph
+>>>        |76-78.  Et io temendo.~  Ista est tertia pars capituli
+>>> in qua autor, expedita totali materia violenti@@ae, nunc intendit
+
+Error at line 858: Multiple blank lines
+>>>
+Checking file 18.e
+Error at line 10: Spaces used at head of paragraph
+>>>       |PROEMIO~  ^Loco @ee in Inferno detto Malebolgie.~ 
+>>> Postquam in superiori capitulo proxime praecedenti autor noster
+
+Error at line 245: Spaces used at head of paragraph
+>>>        |40-42.  Mentr'io.~  Ista est secunda pars generalis, in
+>>> qua autor describit virum modernum infamatum singulari lenocinio
+
+Error at line 302: Spaces used at head of paragraph
+>>>        Praemissa commendatione communi tam poetriae quam nostri
+>>> poetae, nunc consequenter est ad libri literam descendendum.  Ad
+
+Error at line 446: Spaces used at head of paragraph
+>>>        |67-72.  Io me raggiunsi.~  Ista est tertia pars
+>>> generalis, in qua autor nunc tractat de decipientibus mulieres
+
+Error at line 632: Spaces used at head of paragraph
+>>>        |100-102.  Gi@a eravam.~  Ista est quarta et ultima pars
+>>> generalis huius capituli, in qua autor agit et tractat de secunda
+
+Error at line 871: Multiple blank lines
+>>>
+Checking file 19.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^O Simon mago, o miseri seguaci.~  Postquam in
+>>> superiori capitulo proxime praecedenti autor noster tractavit et
+
+Error at line 189: Spaces used at head of paragraph
+>>>        |31-33.  Chi @ee colui, Maestro.~  Ista est secunda pars
+>>> in qua autor introducit unum summum pontificem, qui fuit summe
+
+Error at line 439: Spaces used at head of paragraph
+>>>        |67-69.  Se di saper.~  Ista est tertia pars generalis,
+>>> in qua dictus spiritus describit se et alios simoniacos
+
+Error at line 709: Spaces used at head of paragraph
+>>>        |88-93.  Io non so.~  Ista est quarta pars generalis in
+>>> qua autor noster increpat praedictum papam Nicolaum qui fecerat
+
+Error at line 931: Multiple blank lines
+>>>
+Checking file 20.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Di Nova pena mi conven far versi.~  Postquam
+>>> in superiori capitulo proxime praecedenti autor noster tractavit
+
+Error at line 220: Spaces used at head of paragraph
+>>>       |31-34.  Driccia la testa.~  Ista est secunda pars
+>>> generalis, in qua autor describit quosdam antiquos famosos
+
+Error at line 443: Spaces used at head of paragraph
+>>>        |58-60.  Poscia.~  Ista est tertia pars generalis, in qua
+>>> Virgilius facit digressionem, per quam facit descriptionem
+
+Error at line 683: Spaces used at head of paragraph
+>>>        |103-105.  Ma dimme.~  Ista est quarta pars generalis, in
+>>> qua nunc autor regreditur ad materiam primam divinatorum; et
+
+Error at line 908: Multiple blank lines
+>>>
+Checking file 21.e
+Error at line 8: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Cos@i di ponte in ponte altro parlando.~ 
+>>> Postquam in praecedenti capitulo autor noster tractavit et
+
+Error at line 165: Spaces used at head of paragraph
+>>>        |22-24.  Mentr'io.~  Ista est secunda pars generalis, in
+>>> qua autor describit in speciali unum diabolum portantem unum
+
+Error at line 421: Spaces used at head of paragraph
+>>>        |58-62.  Lo bon maestro.~  Ista est tertia pars
+>>> generalis, in qua autor ostendit quomodo Virgilius et ipse
+
+Error at line 675: Spaces used at head of paragraph
+>>>        |106-111.  Poi disse.~  Ista est quarta pars generalis
+>>> huius capituli, in qua autor ostendit quomodo dominus istorum
+
+Error at line 915: Multiple blank lines
+>>>
+Checking file 22.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Io vidi gi@a cavalier mover campo.~  Postquam
+>>> in superiori capitulo proxime praecedenti autor noster tractavit
+
+Error at line 211: Spaces used at head of paragraph
+>>>        |31-36.  Io vidi.~  Ista est secunda pars generalis, in
+>>> qua autor describit singulariter unum summum magistrum baratariae
+
+Error at line 406: Spaces used at head of paragraph
+>>>        |64-67.  Lo duca: donque.~  Ista est tertia pars
+>>> generalis, in qua autor ostendit quomodo iste excellens
+
+Error at line 563: Spaces used at head of paragraph
+>>>        |91-93.  Om@e! vedete.~  Ista est quarta et ultima pars,
+>>> in qua autor mirabili arte fingit, quod iste Ciampolus summa
+
+Error at line 861: Multiple blank lines
+>>>
+Checking file 23.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Taciti, soli, senza compagnia.~  Postquam in
+>>> capitulo proxime praecedenti autor terminavit materiam baratariae
+
+Error at line 314: Spaces used at head of paragraph
+>>>        |58-60.  L@a gi@u trovammo.~  Ista est secunda pars
+>>> generalis, in qua autor describit poenam hypocritarum in
+
+Error at line 449: Spaces used at head of paragraph
+>>>        |73-75.  Perch'io.~  Ista est tertia pars generalis, in
+>>> qua autor describit duos magnos hypocritas modernos.  Et primo
+
+Error at line 741: Spaces used at head of paragraph
+>>>        |109-111.  Io cominciai.~  Ista est quarta et ultima pars
+>>> generalis, in qua autor describit quosdam antiquos hypocritas; et
+
+Error at line 987: Multiple blank lines
+>>>
+Checking file 24.e
+Error at line 10: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^IN quella parte del giovenetto anno.~ 
+>>> Postquam in superiori capitulo proxime praecedenti autor noster
+
+Error at line 370: Spaces used at head of paragraph
+>>>        |61-63.  Su per lo scoglio.~  Ista est secunda pars
+>>> capituli, in qua autor describit suam dispositionem in introitu
+
+Error at line 642: Spaces used at head of paragraph
+>>>        |97-99.  Et ecco.~  Ista est tertia pars generalis huius
+>>> capituli, in qua autor tractat de prima specie furum, et speciali
+
+Error at line 783: Spaces used at head of paragraph
+>>>        |121-123.  Lo duca il dimand@o.~  Ista est quarta, et
+>>> ultima pars generalis, in qua autor nunc manifestat nomen istius
+
+Error at line 1045: Multiple blank lines
+>>>
+Checking file 25.e
+Error at line 8: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^AL fine de le sue parole il ladro.~  Postquam
+>>> in superiori capitulo proxime praecedenti autor noster tractavit
+
+Error at line 268: Spaces used at head of paragraph
+>>>        |34-37.  Mentre che s@i parlava.~  Ista est secunda pars
+>>> in qua autor agit et tractat de secunda specie furum contraria
+
+Error at line 484: Spaces used at head of paragraph
+>>>        |79-84.  Come 'l ramarro.~  Ista est tertia pars
+>>> generalis, in qua autor agit et tractat de tertia specie furum;
+
+Error at line 996: Multiple blank lines
+>>>
+Checking file 26.e
+Error at line 205: Spaces used at head of paragraph
+>>>        |19-22.  Allor mi dolsi.~  Ista est secunda pars
+>>> generalis in qua autor describit poenam istorum astutorum in
+
+Error at line 454: Spaces used at head of paragraph
+>>>        |43-45.  Io stava.~  Ista est tertia pars generalis in
+>>> qua autor describit duos antiquos famosissimos spiritus, quorum
+
+Error at line 738: Spaces used at head of paragraph
+>>>        |85-87.  Lo maggior corno.~  Ista est quarta et ultima
+>>> pars generalis, in qua autor plene describit qualiter Ulyxes ad
+
+Error at line 1020: Multiple blank lines
+>>>
+Checking file 27.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^GI@A era dritta in su la fiamma e cheta.~ 
+>>> Postquam in superiori capitulo proxime praecedenti autor noster
+
+Error at line 564: Spaces used at head of paragraph
+>>>        |58-60.  Poscia che 'l fuoco.~  Ista est tertia pars
+>>> generalis praesentis capituli, in qua comes Guido volens
+
+Error at line 1013: Multiple blank lines
+>>>
+Checking file 28.e
+Error at line 10: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Chi poria mai pur con parole sciolte.~ 
+>>> Postquam in duobus capitulis proxime praecedentibus autor noster
+
+Error at line 541: Spaces used at head of paragraph
+>>>        |22-24.  Gi@a veggia.~  Ista est secunda pars generalis,
+>>> in qua autor describit in speciali unum antiquum scismaticum
+
+Error at line 868: Spaces used at head of paragraph
+>>>        |64-69.  Un altro.~  Ista est tertia pars generalis huius
+>>> capituli, in qua autor introducit unum spiritum modernum, qui
+
+Error at line 1132: Spaces used at head of paragraph
+>>>        |103-108.  Et un.~  Ista est quarta pars generalis
+>>> capituli in qua autor describit duos spiritus modernos, quorum
+
+Error at line 1469: Multiple blank lines
+>>>
+Checking file 29.e
+Error at line 8: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^La molta gente e le diverse piaghe.~ 
+>>> Postquam in superiori capitulo proxime praecedenti autor noster
+
+Error at line 217: Spaces used at head of paragraph
+>>>        |40-45.  Quando noi fummo.~  Ista est secunda pars
+>>> generalis, in qua autor tractat de generali poena falsatorum,
+
+Error at line 442: Spaces used at head of paragraph
+>>>        |70-72.  Passo passo.~  Ista est tertia pars generalis,
+>>> in qua autor agit et tractat de prima specie falsitatis quae
+
+Error at line 690: Spaces used at head of paragraph
+>>>        |121-123.  Et io dissi al poeta.~  Ista est quarta et
+>>> ultima pars generalis, in qua autor gratia praemissae vanitatis
+
+Error at line 865: Multiple blank lines
+>>>
+Checking file 30.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Nel tempo che Junone era crucciata.~ 
+>>> Postquam in superiori capitulo autor noster tractavit et
+
+Error at line 391: Spaces used at head of paragraph
+>>>        |46-48.  E poi che i duo.~  Ista est secunda pars
+>>> generalis, in qua autor tractat de tertia specie falsatorum
+
+Error at line 632: Spaces used at head of paragraph
+>>>        |91-93.  Et io a lui.~  Ista est tertia pars generalis in
+>>> qua autor agit et tractat de quarta specie falsatorum, qui
+
+Error at line 1079: Multiple blank lines
+>>>
+Checking file 31.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Una medesma lingua pria mi morse.~  Postquam
+>>> in superioribus autor noster tractavit et determinavit de secundo
+
+Error at line 265: Spaces used at head of paragraph
+>>>        |46-48.  Et io scorgea.~  Ista est secunda pars
+>>> generalis, in qua autor tractat de uno gigante famoso antiquo
+
+Error at line 449: Spaces used at head of paragraph
+>>>        |82-84.  Facemmo dunque.~  Ista est tertia pars generalis
+>>> in qua autor tractat de alio gigante antiquo famoso apud poetas;
+
+Error at line 632: Spaces used at head of paragraph
+>>>        |112-114.  Noi procedemmo.~  Ista est quarta et ultima
+>>> pars generalis, in qua autor agit et tractat de alio gigante
+
+Error at line 1021: Multiple blank lines
+>>>
+Checking file 32.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^S'io avessi le rime e aspre e chiocce.~ 
+>>> Postquam in superiori capitulo proxime praecedenti autor noster
+
+Error at line 213: Spaces used at head of paragraph
+>>>        |40-42.  Quand'io.~  Ista est secunda pars generalis, in
+>>> qua autor manifestat in speciali aliquot proditores
+
+Error at line 519: Spaces used at head of paragraph
+>>>        |70-72.  Poscia vid'io.~  Ista est tertia pars generalis,
+>>> in qua autor agit de secunda specie proditorum, et poena eorum
+
+Error at line 836: Spaces used at head of paragraph
+>>>        |124-126.  Noi eravam partiti.~  Ista est quarta et
+>>> ultima pars generalis huius capituli, in qua autor agit et
+
+Error at line 1001: Multiple blank lines
+>>>
+Checking file 33.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^La bocca sollev@o dal fiero pasto.~  Postquam
+>>> in praecedenti capitulo autor noster circa finem persuasit comiti
+
+Error at line 330: Spaces used at head of paragraph
+>>>        |79-84.  Ahi Pisa~!  Ista est secunda pars generalis in
+>>> qua autor iratus de tanta impietate fecit mordacem invectivam
+
+Error at line 419: Spaces used at head of paragraph
+>>>        |91-93.  Noi passammo oltre.~  Ista est tertia pars
+>>> generalis, in qua autor tractat de tertia specie proditorum et
+
+Error at line 778: Multiple blank lines
+>>>
+Checking file 34.e
+Error at line 9: Spaces used at head of paragraph
+>>>        |PROEMIO~  ^Vexilla regis prodeunt Inferni.~  Postquam in
+>>> superiori capitulo proxime praecedenti autor noster tractavit et
+
+Error at line 166: Spaces used at head of paragraph
+>>>        |37-45.  O quanto.~  Ista est secunda pars generalis in
+>>> qua autor describit triplex caput Luciferi et tres spiritus, qui
+
+Error at line 439: Spaces used at head of paragraph
+>>>        |68-69.  Ma la notte.~  Ista est tertia et ultima pars
+>>> generalis, in qua autor describit suum recessum ab inferno, et
+
+Error at line 706: Tab used in indenting
+>>>	^Jamque domos Stygias et tristia regna silentum~,
+Error at line 719: Multiple blank lines
+>>>

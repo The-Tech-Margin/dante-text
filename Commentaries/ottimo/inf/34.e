@@ -1,0 +1,460 @@
+	|Proemio.~  In questo ultimo capitolo del primo libro,
+ultimando, la IIIJ qualit@a pone, nella quale il suddito trade il
+suo naturale signore, e il beneficiato trade il suo benefattore.
+La quale per pi@u grave di tutte l'altre si conchiude: che s@i come
+ella @e pi@u contraria al dovere della natura, cio@e di Dio; cos@i
+nel pi@u contrario e lontano sito del cielo la pone, la [q]uale
+l'intimo mezzo della spera della terra e di tutto l'universo
+s'intende, al quale naturalmente, s@i come centro dell'universale
+circulo, d'ogni parte ogni gravezza si pigne.  E dice: ivi paiono
+li peccatori nella ghiaccia, come nel vetro festuca; poi ne
+punisce tre in tre bocche di Lucifero: Juda Scariot che trad@i
+Cristo, del quale elli avea tanta grazia, ch'elli era de' XIJ
+Apostoli, e avea singulare offizio in quello collegio, ch'egli
+avea la borsa, e era spensatore: gli altri due erano Bruto e
+Cassio, li quali da Cesere ricevettero molte grazie, e
+giurisdizioni, e onori; li quali finalmente ingrati di tanto
+benefizio, congiurati con altri, a tradimento l'uccisero in
+senato.  Vero @e che l'Autore fa differenza, che Juda sta in una
+bocca col capo dentro, e li piedi di fuori; questi altri due
+ciascuno ist@a in una bocca, e hanno li piedi infino a mezza la
+persona dentro della colui bocca, il rimanente sta di fuora: a
+dimostrare, che 'l tradimento perpetrato per Juda fu pi@u grave
+per rispetto alla persona tradita, che fu Cristo.  Discrive per
+allegoria la grandezza e forma di Lucifero, s@i come apparir@a
+nella esposizione del testo: e per allegoria colora le sue
+faccie; quella dinanzi vermiglia, a denotare che quello
+tradimento procedette da ira, la quale si figura di colore di
+sangue e vermiglia; l'altra faccia colora nera, la quale
+significa la oscurit@a della ignoranza, per la quale l'uno di loro
+si lasci@o conducere a fare tale tradimento; la terza colora
+biancagna-gialla, cio@e gialla con poco colore, lo quale ha a
+significare la impotenzia di lasciarsi vincere al peccato, per la
+quale impotenza l'altro si condusse a tradire Cesere.  E cos@i
+appare, che ignoranza, ira, e impotenzia conducono l'uomo ad
+essere vicino di Lucifero; e per opposito la prudenzia, amore, e
+potenzia dirizzano a contemplare il sommo Creatore del cielo e
+della terra: o vero, che esse tre teste colorate significano
+opposito alla Trinitade; per la impotenzia @e contradio al Padre,
+che s@i n'@e potente; per ignoranza @e opposito al Figliuolo, ch'@e
+sapienza del Padre; per l'ira, che s'@e opposito allo amore, ch'@e
+contrario allo Spirito Santo.  Poi seguendo discrive Lucifero,
+com'elli @e fitto nel centro del mondo, del quale e degli altri
+demoni brievemente qui si discorre; poi nella fine del capitolo
+dice, come usc@i dello Inferno, e come si trov@o nello opposito
+emisperio della terra discoperta dal mare Occeano, al quale elli
+mette essere l'opposito a quello di Jerusalem.  La natura
+angelica @e semplice; l'umana @e composita di sustanzia
+intellettuale e di sustanzia corporale; quella delli angeli @e
+semplice intellettuale; e li demoni sono di simile natura che li
+angeli: onde conviene che la loro pena sia intellettuale, e
+questo da parte di loro medesimi; da parte del Creatore hanno
+pena, s@i come per luogo, il quale quando non si conforma con la
+[lo]ro natura, s@i fa loro pena e violenza; [e] s@i come appare
+nelli animali, che se sono di condizione da stare in acqua, hanno
+pena quando sono tratti d'essa.  Onde @e da toccare la pena, che
+li demoni hanno secondo lo intelletto, e secondo il luogo:
+secondo intelletto, hanno pena in ci@o, ch'elli hanno cognizione
+in due modi; l'uno da natura, che sono creati intellettuali, e
+per@o sono disposti ad intendere e a sapere, della quale
+disposizione non sono privati, s@i come dice Dionisio; l'altro
+modo si @e cognoscere per [grazia] s@i come per revelazione fatta
+da Dio: lo quale modo ha due parti; l'una @e speculativa
+cognizione, in ci@o che alcuna volta @e loro revelato, quando Dio
+vuole delle cose, ch'egli vuole che da loro si sappiano; e di
+questa parte sono per lo pi@u privati, ch@e molte cose sono
+rivelate alli buoni angeli, ch'elli non ne veggiono alcuna cosa,
+s@i come dice Agostino, in VIIIJ ^de Civitate Dei~; l'altra parte
+si @e cognizione affettiva, la quale procede dallo amore di Dio;
+della qual parte, s@i come procede di caritade, elli sono del
+tutto privati, perch@e sempre sono ostinati in male; la quale
+ostinazione venne loro del peccato, ov'elli caddero per lo suo
+libero arbitrio.  Ed @e da sapere, che poi che l'angiolo apprende
+alcuna cosa, per@o ch'elli l'aprende intellettivamente, s@i @e
+immobile e fissa, che non pu@o pi@u tornare a drieto, per@o che lo
+loro intellettuale cognoscimento si @e simplice sanza composizione
+d'altro.  E per@o li buoni angeli, che per loro libero arbitrio
+appresero bene, s@i furono conformati; e li demoni, che appresero
+male per suo libero arbitrio, furono conformati in male e in
+peccato; ^e contrario~ furono ostinati in male, e hanno pena per
+la 'nvidia che portano, perch@e veggono salvare l'anime, e che
+vorrebono che si perdessono; la quale invidia li fa dolorosi,
+secondo che significa atto di volontade, e hanno [pena] per@o che
+sono privi di beatitudine, che naturalmente debbono avere. 
+Ancora @e loro pena, per@o che non possono speculare; per@o che sono
+opposti a Dio, che dovrebe essere loro speculazione.  Ancora @e
+loro pena, che sempre stanno in timore s@i del presente male, come
+del futuro giudicio.  Hanno eziendio pena della parte del luogo,
+dov'elli stanno: ch@e quanto a loro natura dovrebono stare nelli
+Cieli, l@a dove @e caritade e puritade; e elli stanno in Inferno,
+l@a dove @e tenebre e fetore; s@i che stanno quivi violentemente,
+come delle predette cose dice Santo Tomaso nella prima parte,
+questione LXXIIIJ.
+
+	|1-3.  Vexilla regis~ ec.  Questo principio, se non
+discordasse il fine, @e simile a uno Inno che la Chiesa canta, che
+dice: Li gonfaloni, e insegne del re del Cielo si manifestano.  E
+immagina l'Autore, s@i come Lucifero ha tre facce, cos@i sotto loro
+abia tre paia d'ali, le quali alie asomiglia a grandi vele di
+nave: le quali alie menando elli fa tanto vento, e s@i freddo,
+ch'egli @e cagione di quella ghiaccia; le quali elli appella
+gonfaloni.  S@i che Virgilio vedendosi in quello luogo disse a
+Dante: gli gonfaloni del re d'I[nferno] si manifestano verso noi,
+e per@o guarda se tu il vedi.
+
+	|4-6.  Come quando~ ec.  Qui essemplifica il detto
+Lucifero: e dice, che s@i come [se] si leva una grande nebbia, o
+vero quando il sole va ad occaso, sicch@e la notte sanza alcuna
+luce viene, l'uomo vede una cosa di lungi, che li pare mulino da
+vento; cotale cosa li parve vedere allora.
+
+	|10.  Gi@a era~ ec.  Venuto qui al trattato dell'ultima
+qualitade, la quale punisce l'Inferno, discrive la forma delle
+pene di quelle anime dolenti: dove dimostra che intorno al
+presente indivisabile punto, diversamente il sotto e 'l sopra ad
+una vista si porga; nel quale punto il sommo superbo nel suo
+mezzo per pi@u basso si pone: e dice, ch'era s@i spaventevole, che
+con paura il mette in rima.
+
+	|16.  Quando noi fummo~ ec.  Qui Virgilio per lo non
+potere pi@u discendere, s@i dimostra lo imaginato trasvolgersi
+sotto sopra del centro, per procedere a salire nella opposita
+parte della infernale; la quale parte in opposito @e l'emisperio,
+nella cui sommitade @e il monte, per lo quale come per grado si va
+alla somma felicitade; il quale monte @e detto ^Purgatorio.~  E
+dice:
+
+	|18.  La creatura~ ec.  Questi fu quello bellissimo
+angelo Lucifero, lo quale era lucente sopra tutte l'angeliche
+creature; lo quale poi per la sua superbia caduto in Inferno,
+fatto @e diavolo: e dice, |bel sembiante~, per@o che fu bello in
+apparenza, e fello in fatto.
+
+	|19-20.  Dinanzi mi si tolse~... |Ecco Dite~ ec.  Queste
+parole sono chiare, dove d@a ad intendere che qui @e il pi@u lungi
+luogo, che sia dal cielo che tutto gira, e per conseguente il pi@u
+spaventevole e 'l pi@u pauroso: per@o che come in cielo @e somma
+sicurt@a de pace; cos@i l'opposito quivi @e somma paura e pena.
+
+	|22-24.  Com'io divenni~ ec.  Segue il poema, mostrando
+come ebbe smisurata paura, e per@o perd@ee il calore naturale, e
+l'organo del[la] [voce].  L'Autore parla a modo delli accidenti
+che vengono qui, quando uomo vede una terribile cosa che molto lo
+spaventi, che triema e perde il parlare.
+
+	|28-29.  Lo Imperador~ ec.  L'Autore in questa parte
+discrive, come quello Lucifero, padre e principale degli altri
+spiriti immundi, dimorava in quello profondo; e dice ch'elli era
+f[i]tto nella ghiaccia di quello Cocito fiume infernale: la
+statu[r]a del quale dal mezzo petto infino alla testa era fuori
+della ghiaccia verso l'emisperio nostro; l'altra parte infino
+all'anca nel centro della terra era somersa; il rimanente, cio@e
+da l'anca infino a' piedi, verso l'altro emisperio stava sospesa,
+s@i come apparir@a per quello che seguita.
+
+	|30.  E pi@u con un gigante~ ec.  Qui vuole questa
+similitudine dare ad intendere la grandezza di Lucifero
+allegoricamente.
+
+	|32.  Vedi oggimai~ ec.  Questo @e chiaro.  Pensa fra te
+medesimo a proporzione la sua grandezza smisurata.
+
+	|34-36.  S'el fu s@i bello~ ec.  Quasi a dire: la sua
+disformitade e turpitade mostra bene, che ogni male dee procedere
+da lui; considerando la superbia, nella quale elli s'invilupp@o
+contra il suo Creatore, che l'avea creato in tanta bellezza,
+quant'@e contraria la sua bruttezza.
+
+	|37-45.  Oh quanto parve a me~ ec.  Qui l'Autore
+discrive, e disegna il principe de' mali, e imperadore de' rei,
+dicendo ch'elli ha tre facce di tre diversi colori, per li quali
+si figurano tre principj donde li peccati vengono, cio@e
+ignoranza, odio, e impotenzia; s@i come nel suo opposito sono il
+contrario di questi, cio@e il sommo bene, ch'@e somma sapienzia,
+sommo amore, e somma potenza.  Delle quali colorate facce quella
+di mezzo, cio@e la rossa, si figura alla odiosa ira; la gialla e
+bianca mista, alla impotenzia; la nera, alla ignoranza.  Dalle
+cui bocche sono morsi tre traditori, che le due maggiori potenzie
+tradirono.  Giuda trad@i Cristo spirituale; Bruto e Cassio
+tradirono Cesere, il primo romano temporale imperadore: del quale
+Juda l'utima qualitade de' traditori @e chiamata Judecca.  Etiopia,
+donde vengono li neri Saracini, @e quella parte onde il Nilo
+discende verso il mare che circumda la terra; lo quale paese @e
+pi@u presso a essere sotto la torri[da] zona, e per@o per lo grande
+calore del sole sono cos@i neri.
+
+	|46.  Sotto ciascuna~ ec.  Detto del colore delle tre
+teste, qui dice della forma, e del che erano le sei alie; e come
+da esse ven@ia quel vento, del quale fece menzione e domanda nel
+precedente capitolo, quando Virgilio li disse che l'occhio li
+solverebbe la quistione, che esso movea di quello vento.
+
+	|52-54.  Quindi Cocito~ ec.  Qui si manifesta la cagione
+donde pria sentia l'Autore il vento; donde dice, che per la
+frigidit@a delli venti procedenti per lo muovere delle ali di
+quello agniolo tenebroso si congelava quello Cocito, nel quale
+era fitto Lucifero.  E dice, ch'elli piangea con sei occhi, e da
+tre bocche li gocciolava il sangue di tre peccatori, ch'elli
+divorava, misto con la bava del suo doloroso pianto.
+
+	|55-56.  Da ogni bocca~ ec.  Dice che Lucifero divorava,
+e consumava da ogni bocca un peccatore, a guisa ch'uno strumento,
+detto maciulla, dirompe il lino.
+
+	|58.  A quel dinanzi~ ec.  Questo @e chiaro: parla come se
+quelle anime avessero corpo, per darne pi@u chiaro ad intendere la
+loro inarrabile pena.
+
+	|61-62.  Quell'anima~ ec.  Per questo dimostra l'Autore,
+che Juda Scariot traditore del justo sangue del nostro Signore
+Jes@u Cristo, sia tormentato intra l'altre anime di pi@u grave
+pena; perch@e non @e tormentato per demonio di debole potenzia, ma
+per lo principe delli demoni.
+
+	|65-67.  Quel che pende~ ec. |@e Bruto~... |E l'altro @e
+Cassio~ ec.  Questi due, Bruto e Cassio, la cui forma e pena
+discrive l'Autore, dicendo che Bruto fu pi@u magnanimo, e Cassio
+pi@u grosso di membra, furono di nobile e grande sangue di Roma:
+qui discrive le loro forme.  Paulo Orosio, nel VJ libro, dice:
+Cesere tornato vincitore a Roma, e ordinato lo stato della
+Replubica, allora faccendo jura insieme certi de' Sanatori contro
+l'essemplo de' loro anticessori, faccendosene capo Bruto e Cassio
+con saputa della maggiore parte del Sanato, essendo a consiglio
+nel Campidoglio, per loro falsamente fatto lui venire, e' per
+loro fedite di XXIJ piaghe mor@i; nella quale jura si dice che
+v'ebbe due Bruti e Gaio Cassio.  Assai fu essaminato, se il
+Campidoglio fosse da ardere con coloro, che Cesere aveano morto;
+il corpo suo fu rapito, [e dal] popolo di dolore stimolato con
+pezzi delle sedie de' Tribuni e delle panche fue arso; e Roma
+sent@i l'ampiezza del suo regno con le sue pestilenzie; de' quali
+Senatori Cesere avea fatti la maggiore parte: fue morto davanti
+li suoi propri servi, e nullo fu ardito di levarlo di terra;
+alcuni dicono, ch'elli fu morto nel teatro di Pompeo, dinanzi
+alla statua di Pompeo.  Fue Cesere uomo chiarissimo, e di forte
+ingegno; IIIJ pistole dittava a una volta; mille passi con una
+mano not@o; nullo fue migliore astrologo di lui; trov@o il bisesto;
+non fue in tanta paura o sollicitudine, che non leggessi o
+scrivessi; fece L battaglie in campo, e di tutte fu vincitore, ma
+fu vinto da' Tedeschi allato al Reno; VIIIJ'M d'uomini uccise
+nelle battaglie: nella morte sua apparvono molte maraviglie per
+tutto il mondo; in Germania, e in Affrica sonarono armi; a Roma
+tre Soli apparirono; lo bue favell@oe all'altro.
+
+	|68-69.  Ma la notte risurge~ ec.  Questo testo @e chiaro,
+dove Virgilio dice che la notte risurge, e che @e da partire, per@o
+che questa prima parte @e tutta veduta.  Ed @e da considerare il
+sito di questo luogo verso l'emisperio nostro, come sia centro, e
+come Lucifero seggia in esso, e come l'Autore con Virgilio
+discenda al profondo dello Inferno, o vero centro; e che posto @e
+intra due emisperii, cio@e l'emisperio nostro, lo quale abitiamo,
+o vero abitabile terra, e [l'] altro emisperio posto dalla parte
+che pare a noi di sotto; e come l'Autore col Maestro se ne venne
+all'altro emisperio verso il cielo.  Per quello che seguita, per
+s@e appare, s@i come dice il grande filosafo Tolomeo nel principio
+del suo Almaesto: la forma sperica del cielo insieme con la terra
+ha uno medesimo centro; di che si pruova, che 'l centro non @e
+altro che un luogo della terra igualmenti di lungi del cielo e
+della terra, secondo proporzionata distanzia del cielo e della
+terra; e per@o che cos@i tengono li astrolaghi e li geometri, e
+cos@i si truova per ragionevole speculazione di natura.  S'elli
+fosse possibile di trovare, o di fare uno foro in questa terra
+del nostro emisperio che noi abitiamo, e fosse di tanta
+profondit@a, che toccasse l'altra ultima parte della terra, s@i che
+l'altro emisperio e l'altra parte del cielo si vedesse dall'altra
+parte; e per questo foro dall'altra parte del nostro emisperio si
+gittasse un sasso di sotto verso l'altro emisperio;
+conciosiacosach@e 'l sasso sia corpo grave, e proprio @e della
+natura del corpo grave di discendere; imper@o questa pietra
+discenderebbe infino a questo punto, che noi chiamiamo centro,
+rimotissimo sopra tutti gli altri, e igualmente distante dal
+cielo: e quando questa pietra fosse in questo punto, s@i
+dimorrebbe in quello sanza muoversi per necessaria ragione di
+natura; n@e si moverebbe verso il nostro emisperio, n@e verso
+l'altro.  La ragione @e questa: che, conciosiacosach@e per la
+influenzia e continuo moto de' corpi di sopra e celesti, questi
+elementi e corpi di sotto si regolino e vivano, s@i come pruova il
+Filosafo nel primo della Metafisica, quando dice: questo mondo di
+sotto @e contiguo a quello di sopra, s@i che ogni sua virt@u e
+potenzia si governa; quindi adunque, conciosiacosach@e 'l cielo
+continuo si muova, e facci[a] influenzia sopra il nostro
+emisperio, e sopra l'altro, per la virt@u del cui cielo @e proprio
+del corpo lieve montare, e del grave discendere; imper@o non @e da
+dare a concedere sopra, o sottano intra le parti aquatiche,
+aere[e], e [te]rrestre de l'altro emisperio opposito a noi; n@e
+eziendio intra le parti aeree, aquatiche o terrestre del nostro
+emisperio: imper@o ch'elle sono menate dalla virt@u d'uno medesimo
+cielo; e uno medesimo cielo si volge igalmente sopra esse, o se
+monta, o discende in esse, o per esse parti.  Se monta, il
+montamento @e verso il cielo; e se discende, il discendimento @e
+verso il cielo; per@o che falso @e che li si ha concedere nel corpo
+celestiale sopra quello medesimo punto igualmente, e continuo s@e
+movente, che in quello punto sia di sotto, o di sopra; per@o che
+quello punto @e come mezzo a ciascune parti d'uno medesimo corpo
+s@e movente intorno a quello mezzo.  E cos@i, conciosiecosach@e la
+terra s@e abbia per modo di centro, o vero punto al cielo, falso @e
+dare lo emisperio nostro di sopra infino al punto mezzo, e falso
+@e dare di sotto l'altro emisperio; conciosiacosach@e, s@i come @e
+detto, lo moto del cielo si volge igualmente sopra amendue li
+emisperii.  Ancora, conciosiacosach@e le parti di ciascuno
+emisperio, aeree, terrestre, e elementi, altro abbiano attive e
+passive qualitadi, per le quali patiscono e fanno, e cos@i per le
+virt@u di quelle parti adoperano, e attraggono, e operisi in
+questi corpi di sotto; conviensi dunque per necessaria ragione di
+natura, che conciosiacosach@e 'l corpo grave, il cui proprio @e
+discendere giuso, alquanto sar@a venuto a quello punto ch'@e
+mezzano, e divide li emisperii, il quale punto @e il centro, stea
+in quello centro di necessitade.  La ragione @e questa: per@o che
+quello grave corpo pervenne a quello punto, al quale per la
+influenzia del cielo, e per le operazione e attive virtudi delli
+elementi dell'uno emisperio e d[e]ll'altro s'atrae, e aduce: che
+se quello grave corpo trapassase quello centro verso l'emisperio
+opposito a noi, seguirebbe questo inconveniente, e da non dire;
+che nel cielo, nel quale @e perfettissimo ordine e ordinata
+aguaglianza, fosse disordinata aguaglianza.  Imper@o che la virt@u
+celesta, e influenza da parte dello emisperio da noi opposito pi@u
+attrarebbono, e pi@u opere[re]bbono, e moverebono quello grave
+corpo, che non sarebbe questa mezza parte del cielo che noi nel
+nostro emisperio veggiamo: e parrebbe quasi errare la natura
+delli elementi per la attrazione di questo grave corpo oltre il
+centro; per@o che quelli elementi dello emisperio di sotto
+sarebbono di maggiore potenzia, e di maggiore virt@u, atraendo
+quello corpo grave, che li elementi del nostro emisperio hae
+ordinato aguaglianza d'influenzia e di vert@u; di che
+manifestamente seguisce che 'l punto, o vero centro sia quello
+mezzo, al quale vanno le cose gravi qualunque elle sieno; e messo
+il sasso gittato, e ciascuno grave si quieta.  E cos@i si
+conchiude, che questo centro @e intra l'altre parti dello Inferno
+la pi@u orribile e pi@u profonda, perci@o ch'@e pi@u remota dal cielo,
+e da Dio, primo principio.  E per@o in questo profondo, s@i come in
+convenente seggia, e co[n] s@i acerbo giudicio di Dio @e
+tormentato, e dimora l'angelo tenebroso Lucifer; per@o che levato
+contra il suo Fattore per mattezza di superbia, volle apparere
+simile a lui; del quale scrive Isaia dicendo: come cadesti del
+cielo, o Lucifero, che la 'ndomane risplendevi, e ti levavi?
+
+	|70-81.  Come a lui piacque~... |Appigli@o s@e~ ec.  Dice
+il testo, che Virgilio con Dante, conciofossecosach@e Lucifero
+fosse congelato nella ghiaccia e piloso, prese Lucifero per li
+peli; li quali prendendo e tenendo discese infino all'anca, e l@i
+disceso trov@o il centro: conciosiacosach@e Lucifero sia mezzo
+verso l'emisperio dal capo infino all'anca, e mezzo verso l'altro
+emisperio da l'anca infino a' piedi; e cos@i mezzo rimase di qua
+dal centro, e mezzo pass@o dal centro; e per@o trovaro la testa
+primamente, s@i come pone l'Autore, da l'altra parte del cielo.  Ma
+s@i come Virgilio pervenne, e discese al centro, e pi@u oltre
+discendere non potea, volendo pervenire ad altro emisperio, il
+viso verso l'anche e verso le gambe di Lucifero [rivolse]; e
+prendendo li peli d'esso, per essi mont@o verso l'altro emisperio,
+e poi pervennero a quello emisperio, e uscirono per lo foro d'uno
+monte; e ivi Dante si puose a sedere per contrario, ch@e le gambe
+di Lucifero stavano diritte.  E vedendo Dante il die e 'l sole in
+questo emisperio, e nell'altro era l'ora verso la sera, molto si
+maravigliava che in s@i poco corso di tempo, cio@e di questo
+discendimento e montamento d'esso, la notte cos@i tosto era
+passata, che vedea il sole in quello emisperio nel quale era.  E
+per@o a torre l'amirazione d'essa, Virgilio disse a Dante: due
+sono li emisperii, l'uno @e il nostro, l'altro @e quello ch'@e
+opposito a noi dall'altra parte del cielo; e quante volte a noi @e
+d@i, cotante volte @e nell'altro notte ^e converso.~  E per@o che
+notte si facea nell'altro emisperio ora, anzi che tu pa[ssa]ssi
+il centro e l'anca di Lucifero; per@o trovamo il sole levare, il
+die fare in questo emisperio al quale montasti, quando tu venisti
+a queste parti per l'anche e per le gambe di Lucifero: e questo @e
+quello che dice il testo.  E a dare pi@u chiaramente ad intendere
+questo centro e punto de l'universo, formeremo una cos@i fatta
+figura: il circulo A sia il cielo, il circulo B sia il luogo
+naturale del fuoco, il circulo C sia l'aure, il circulo D sia
+l'acqua, il circulo E sia il globo della terra, il punto F sia
+centro del mondo.  Manifesta cosa @e che il luogo dell'acqua @e pi@u
+alto che la terra, e il luogo dell'aere pi@u alto che l'acqua, e
+il luogo del fuoco pi@u alto che l'aere, e 'l cielo pi@u alto che
+neuno, e il centro pi@u basso che neuno.  Dunque ci@o che accede al
+punto E, discende; ci@o che si parte da esso, monta al punto F,
+quello dov'@e Lucifer.
+
+	|94-96.  Levati su, disse 'l Maestro~ ec.  Per dimostrare
+la quantit@a del tempo, col quale per lo Inferno s'@e ito, e
+simigliantemente di quello, con lo quale partendosi di sopra si
+torna per la diversit@a de' due emisperii; cos@i si tratta del
+sole.  Per lo quale essendosi disceso due notti di XLVIIJ ore,
+come per lo libro in pi@u luoghi si conta, e finalmente che 'n
+sull'oriente prodotto nell'altro emisperio rivolti, in contrario
+si segue; cio@e che la notte risurga, come nell'altro la luce, la
+quale a mezza terza, cio@e al luogo del cielo, onde mezza terza si
+toglie, nel detto emisperio si tornava.  Onde per lo detto
+Inferno una notte di XXIIIJ ore, e un'altra d'altrettante sanza
+mediato giorno per uscirsene infino al cominciamento del
+Purgatorio, per sapienza di tempo si piglia: sicch'@e infino a qui
+stato XLVIIJ ore o pi@u infino a mezza terza, perch@e intende che
+'l segno de' Gemini sia ascendente, il quale fu suo ascendente
+quando nacque.  Onde vuole introducere il Poeta simile
+costellazione a quella quando egli venne al mondo e nacque,
+quella ch'elli si part@i delle tenebre dello Inferno, e del centro
+della terra, e sal@ie a luce e a virtude.
+
+	|106-113.  Ed elli a me~... |Di l@a fosti~ ec. |E se' or
+sotto~ ec.  Per queste parole s@i dichiar@o le premesse cose.  Dice
+Virgilio all'Autore: tu se' nell'altro emisperio, ch'@e opposito
+al nostro, lo quale nostro vela e cuopre la grande secca, cio@e la
+grande terra nostra abitabile, la quale per eccellenza dire si
+puote quella terra, |la grande secca~; per@o che sotto quello
+nostro grande emisperio nacque e visse quello grande Idio, e vero
+uomo in carne, nostro Signore Jes@u Cristo, sanza peccato,
+incarnato della umanitade della Virgine Maria nella santa citt@a
+di Gerusalem.
+
+	|116.  Tu hai li piedi~ ec.  Era Dante in sul pi@u basso
+di questo emisperio, del quale sopra prossimamente @e detto; e
+appella quello luogo |piccola spera~, rispetto della terra del
+nostro emisperio, lo quale @e maggiore: lo quale luogo, secondo
+che dice il testo, @e dirittamente opposito alla provincia di
+Gerusalem, ch'@e in Iudea.  E per@o dice il testo:
+
+	|117.  Che l'altra faccia~ ec.  Cio@e, la faccia della
+provincia opposita a questa, o vero luogo, @e la terra di Iudea.
+
+	|121-125.  Da questa parte~ ec.  S@i come @e detto di
+sopra, questo angelo tenebroso strabocc@o di cielo con capo di
+sotto dalla parte dello emisperio da noi opposito; e per@o lo
+trov@o Virgilio e l'Autore col capo di sotto nello emisperio
+nostro primamente; e poi, quando furon montati all'altro
+emisperio, videro lui con le gambe verso il cielo.  E dice
+l'Autore, che la terra dell'altro emisperio, per la paura di
+quello immondo spirito, sal@ie allo emisperio nostro, nel quale
+noi dimoriamo, e fue circondata dal mare con l'acque sue; e
+questo pare che assai verifichi quella parola d'Isaia: ^l'Inferno
+@e conturbato sotto a te.~  Ancora dice l'Autore, che forse [per]
+la paura di Lucifero la terra di questo monte, posta nell'altro
+emisperio discendendo, volendo fuggire la faccia di Lucifero per
+la presenza, s@e trasport@o nel pi@u alto luogo, e in tale guisa s@i
+per lo elevamento della terra nostra dello emisperio nostro, s@i
+per la fugga e assalimento di questo monte fuggente verso l'altro
+emisperio, fu lasciato l@i luogo v@oto.  Delle quali cose tutte
+manifestamente si conchiude, che Inferno, s@i come degna sedia
+delli spiriti rei, sia nel centro della terra; per@o che,
+conciosiacosach'esso centro sia luogo dal cielo rimotissimo,
+degno e giusto @e che in altra parte, o in altro luogo non sia
+pena, o istallo infernale, ove il principe de' demonii con li
+suoi partecipi, e fautori, e seguaci, e con li miseri peccatori
+mortali sieno puniti, e abitino; per@o che se in altro luogo
+stessero essi nimici di pace, sarieno pi@u presso al nostro
+Signore Idio.  Falsissima cosa @e, ch'elli debbano essere pi@u
+presso al sommo bene, conciosiacosach@e la misericordia,
+essenzia di Dio in infinito, sia di lungi e remota da essi; li
+quali contra a lui con infinite malizie e iniquitadi peccarono.  E
+dice:
+
+	|127-130.  Luogo @e laggi@u~ ec.  Cio@e, che intorno a
+Belzab@u @e v@oto, quanto la sua tomba (cio@e il luogo dov'elli @e
+sepulto) comprende; com'@e il fondo del pozzo predetto, il quale
+per la oscuritade della aere, che v'@e, ello non si pu@o vedere; ma
+solo se n'ha notizia per lo suono, cio@e per lo movimento
+dell'acqua del ruscello, del quale di sopra @e fatta menzione.
+
+	|133-134.  Lo Duca ed io~ ec.  Qui mostra come uscirono a
+rivedere la chiaritade del mondo, e li movimenti celesti: la
+quale allegoria hae a denotare, come aveva veduto tutto il
+pestilenzioso fine, al quale il peccato conduce l'uomo; e come
+era sottratto e dispartito da esso, s@i ch'era tutto in
+disposizione virtuosa e celestiale ec.
+

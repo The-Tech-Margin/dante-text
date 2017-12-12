@@ -1,0 +1,49 @@
+Return-Path: LBIANCHI@Sol.YorkU.CA 
+Received: from sol.yorku.ca by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15774; Sun, 7 Feb 1993 13:21:19 -0500
+Received: from Sol.YorkU.CA by Sol.YorkU.CA (PMDF #12410) id
+ <01GUFWSG32ZK8YABS6@Sol.YorkU.CA>; Sun, 7 Feb 1993 13:21 EDT
+Date: Sun, 7 Feb 1993 13:21 EDT
+From: Luigi M Bianchi <LBIANCHI@Sol.YorkU.CA>
+Subject: Re: sample wordlist
+To: steve@avalon.dartmouth.edu
+Message-Id: <01GUFWSG32ZK8YABS6@Sol.YorkU.CA>
+X-Envelope-To: steve@avalon.dartmouth.edu
+X-Vms-To: IN%"steve@avalon.dartmouth.edu"
+Status: OR
+
+Thank you, Steve!
+The sample is exactly what I'm looking for.  I forgot to check whether each
+line was terminated a` la UNIX or with CR+LF.  It actually does not matter,
+because I can easily convert from one format to the other.  If it is easy
+for you, please use the CRLF format.
+
+Roman numerals are fine.  The latin words are probably unavoidable, given
+the nature of the texts.  What worries me is the old spelling style of people
+like Tommaseo, who uses the letter 'j' instead of 'i' before many vocalic
+groups.  This is harder to filter out (in the sense that some modern words
+*are* spelled that way).   Therefore, if you don't mind, let's *exclude*
+Tommaseo from the list I gave (which, if I remember correctly, would now
+have Steiner's book as the earliest one--if there is some other entry earlier
+than Steiner, please drop that too).
+
+Otherwise, please go ahead (thank you very much for doing all the work
+yourself!).
+
+I do not know how long the resulting list will be.  It may not be practical
+nor safe (line noise, etc.) to send it as normal text via e-mail.  You can
+tar & compress it or pkzip it (the latter is preferred, the former is quite
+acceptable) and the uuencode it.  You can send it via e-mail to this address
+or leave it for me to pick up via ftp if you have an anonymous ftp area on
+some of your machines (just let me know the ftp address).
+
+Finally, let me know what formula you would like me to use to acknowledge
+your and Dante Project's help in the documentation that will accompany my
+'final' list.  I don't want to cause you undue trouble by saying either too
+much or too little (what with copyrights etc.).
+
+Thank you again for everything.  I hope temperatures go up there and here,
+soon...
+
+--Luigi
+

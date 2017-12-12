@@ -1,0 +1,647 @@
+	|Proemio.~  Nel precedente capitolo l'Autore tratt@oe
+della purgazione de' superbi in genero; in questo capitolo
+perseguita il detto trattato in ispezie, e fa VJ cose.  In prima
+pone l'ora[z]ione, la quale il nostro Signore Geso Cristo insegn@o
+fare alli Apostoli riceuti per la congregazione de' Cristiani;
+Matteo, capitolo VJ.  La quale orazione questi purgantisi usano
+in parte per s@e, ed in parte per quelli che sono in prima vita. 
+Nella IJ l'Autore vole mostrare, che noi mortali siamo molti
+tenuti a quelli di Purgatorio per li loro beneficj, in ci@o
+ch'elli adorano per noi sempre.  Nella IIJ parte inchiere del
+cammino per salire agli altri gradi.  Nella IIIJ insegna il
+camino, ed introduce il conte Uberto di Maremma, il quale s@e e'
+suoi difetti palesa; per arroganza d'antico sangue, ed opere
+militari fu superbo.  Nella V Odorigi d'Agobbio, il quale per
+magisterio arse l'animo oltre al dovere, il quale sgrida contra
+la vana gloria de' mortali, e tocca alquanti del presente tempo,
+e l'Autore medesimo, ed uno messer Provenzano Salvani da Siena. 
+Nella VJ ed ultima parte l'opere e 'l fine del detto messer
+Provenzano e' manifesta.  La prima, e IJ, e IIJ apparir@a nella
+sposizione della lettera.  Alla IIIJ @e da notare, s@i come @e
+scritto nel principio del precedente capitolo, che alcuni uomini
+insuperbiscono de' beni della natura; li quali sono distinti ne'
+beni de l'anima, e ne' beni del corpo.  Li beni del corpo sono
+sanitade, bellezza, leggerezza, forza, nobilitade, buona memoria,
+sofferenza di fatica, naturale disposizione a virt@u, o vero virt@u
+naturale.  Ora intende l'Autore trattare di quella superbia, che
+nasce di quelli beni della natura, che si chiama nobilitade di
+sangue; e di quella superbia che nasce de' detti beni per
+sentirsi forte del corpo, per la quale fortezza fa opere
+leggiadre appo li uomini, cose alle quali li altri sono
+insufficienti; e di quella superbia che nasce de' beni della
+fortuna, cio@e da ricchezza, e potenzia d'amici, per la quale
+similemente si fanno di leggiadre opere, s@i come nimici per li
+amici s@i in guerra, s@i in pace; la quale superbia @e detta
+aroganzia.  Ed introduce qui il conte Uberto predetto, il quale
+in questo vizio fu famoso.  E perch@e intende ancora trattare di
+quella superbia, ch'@e circa all'apetito della eccellenzia del
+magisterio, detta vanaglolia, s@i introduce in figura di quella
+spezie il detto Odorigi.  E perch@e intende ancora trattare di
+quella spezie di superbia, ch'@e detta presunzione, la quale @e
+quando alcuno nella sua [mente] s@e antimette alli altri, ed
+imprende cose oltre a suo dovere e potere, e' s@i introduce il
+detto messer Provenzano.  Di queste tre spezie qui alquanto
+toccheremo; e prima d'aroganza, appresso di vanaglolia, ultimo di
+presunzione.  Arroganza @e quello membro del corpo della superbia,
+per lo quale la mente umana se erge, gonfiando la moltitudine
+delli uomini viziata del mortale appressamento di questa
+infermitade, infino che sopra s@e oltre modo si lieva, infra s@e, e
+sotto s@e con rovina discende, ditraendo a s@e quando si inalza, e
+deprimendo s@e quando s@e erge, togliendo a s@e quanto s@e porta
+fuori di s@e.  Questi o vogliono solenne pompa in parlare, o
+tacendo vogliono mostrare grandi sospezioni.  Alcuni, li quali
+sono servi, si vantano di imperiale libertade; altri, vilissimi
+per nazione, si glorificano per nobiltade di sangue; altri di
+vile mestiere o arte, dicono s@e essere conventati alla somma
+altezza del magisterio; altri, di paura leporina, con la parola
+grosseggiando mostrano uno ardire di leone.  Sono altri, li quali
+quelle cose, le quali il cielo del disdegno chiude dentro con
+tacere, sparlano manifestamente di fuori, perch@e sdegnano di
+parlare con coloro che sono in minore grado, o in pari, o
+eziend[i]o in maggiore di bontade, o di degnitade.  Altri,
+allegrandosi di specificare le sue opere singulari nella
+moltitudine, e le speziali nella generalitade, si [sp]acciano
+d'essere singulari nella universitade, e tralle singulari persone
+di sforzano essere esuti d'ogni maniera gente; con li rubaldi,
+rubaldi; con li principi, principi; e cos@i de' simili: s@i che per
+diversi calli enfia la mente in questi arroganti, e tutte queste
+vie tragono al termine di volere s@e mostrare oltre loro
+facultade, sia tacendo, o parlando, o vero operando.  Circa il
+peccato della vanagloria, del quale qui si tratta, diremo che @e
+vanagloria; la divisione di vanagloria; li rimedi contra essa; ed
+alcune cose, che fanno ad infamia d'essa.  Vanagloria, secondo
+Agostino, @e uno giudicio falso d'uomini, che stimano s@e essere
+ottimi, e vogliono parere ottimi; e secondo Tulio, gloria @e
+spesseggiante forma di detto, o di fatto con laude.  La gloria si
+divide in vera, ed in vana; la vera si divide in vera
+simplicemente, ed in pi@u vera, ed in verissima.  La vera gloria
+simplice @e il buono testimonio della conscienzia, cio@e quando
+nella sua conscienzia non hae alcuno peccato; onde dice
+l'Apostolo: <La gloria @e testimonio della vostra conscienzia>. 
+La pi@u vera gloria @e quando la dolcezza dello Spirito Santo
+manifestamente si sente, cio@e quando lo Spirito Santo d@a
+testimon[i]anza allo spirito nostro, che noi siamo figliuoli di
+Dio.  La verissima @e gloria di vita etterna.  La vanagloria si
+divide in diabolica, ed umana; la diabolica @e quando alcuno si
+loda, o vero si loda del suo mal fare; ond'@e il peccato (dice:
+nulla gloria @e da cercare del suo peccato): l'umana si divide in
+carnale, e spirituale; la carnale @e gloria delle cose mondane, la
+quale @e in bellezze di vestimenta, e simili cose; la spirituale @e
+quella delli ipogriti.  Li rimedi della vanagloria sono VIJ.  Lo
+primo @e nascondersi dalla faccia delli uomini; onde Isaia,
+capitolo XXXJ, dice sopra l'uomo: <Com'@e colui, che si nasconde
+dal vento, e cela dalla tempesta>.  Lo IJ si @e discendere, cio@e
+che l'uomo discenda alla propria sua fragelitade; s@i come
+sogliono fare coloro, che cavalcano, quando trae troppo forte il
+vento, ed ellino passino per alcuno ponte, che discendono, perch@e
+il vento non noccia loro; cos@i quelli, ch'@e lodato, dee ricorrere
+alla sua fragilitade, dove elli vedr@ae s@e falsamente essere
+lodato; e cos@i maggiormente si vergogni, che si glorii.  Il IIJ
+rimedio @e la considerazione del fuoco etternale.  Il IIIJ, la
+considerazione della etterna gloria: secondo Gregorio, le cose
+temporali aviliscono, quando si considerano l'etterne.  La V,
+considerazione della viltade della vanagloria, che appare: dice,
+ch'ella @e vendereccia; la qual cosa dimostra il Signore nello
+Evangelio di santo Matteo, capitolo XXV, dove si legge: <N@e forsi
+non basti a voi, ed a noi, andate anzi a coloro che 'l vendono>
+ec.  La VJ, con[si]de[ra]zione della grande infilicitade, la
+quale @e in questo peccato.  Molto @e fuori della fede colui, che
+toglie a Dio la parte sua, la quale elli si ritenne nelli beni
+nostri; ben dee a l'uomo bastare quella parte, la quale il
+Signore li concedette, conciosiecosach@e tutte le cose sieno di
+Dio.  La VIJ @e, che quando all'uomo @e tolta la gloria, egli lo
+referisca al Re della gloria, dicendo: <Non a noi Signore, ma al
+nome tuo d@a gloria>.  Questo peccato @e ingiurioso a Dio, ed @e
+nocivo all'uomo; dispiace a Dio, per@o che per esso si dispregia
+Idio, e deifica la creatura; nuoce all'uomo, per@o ch'elli tolle
+li beni temporali, e spirituali.  Presunzione @e specie di superbo
+effetto, le cui spezie sono IIIJ: la prima @e, quando alcuno
+presuma quegli che gli altri non presummono, preferendo s@e alli
+antecessori suoi, e [a] coloro, che dinanzi da' loro iguali, o
+migliori, quello che coloro non presumiscono: la IJ spezie si @e,
+quando alcuno presumisce quello che non @e da presumere: la IIJ
+spezie si @e quando alcuno presumisce alcuna cosa anzi il tempo:
+la IIIJ spezie @e, quando alcuno presumisce oltre le forze sue.
+
+	|1.  O Padre nostro,~ ec.  Nella fine del precedente
+capitolo l'Autore descrive la forma della penitenzia di questi
+superbi peccatori; cio@e che andav[an]o sotto pesi s@i carchi, che
+quasi avevano giunte le ginocchia al petto; col quale incarico
+domano la superba persona.  Ora discrive nel principio di questo
+canto, s@e continuando, l'orazione e' prieghi ch'elli faceano,
+cio@e quella, che Cristo insegn@oe alli Apostoli; s@i come scrive
+Santo Matteo, capitolo VJ, il quale dice, che Jhes@u insegnando
+alli Appostoli le opere che si convengono fare, [e] quello che si
+conviene orare, disse circa l'orare: vostro Padre sa bene ci@o che
+v'@e mestiere; anzi che voi incheggiate, voi pregherete in questo
+modo -- |O Padre nostro, che nel Cielo stai~ ec.  La quale
+orazione introduce farsi per questi peccatori, o vero anime
+purgantesi.  Ottimamente si conface alla presente materia; per@o
+che come il peccato della superbia, il quale qui si purga, @e
+radice di tutti li mali; cos@i il nostro Padre, il quale qui in
+aiutorio chiamiamo, @e principio, e fonte viva d'umiltade, e di
+tutti i beni.  E come questo vizio d@a pi@u mortale fedita
+all'anima; cos@i @e necessario di ricorere per la medicina, che
+purghi e saldi questa mortale fedita, al sopranissimo medico
+Idio.  E qui, anzi che passiamo inanzi alla sposizione di questa
+orazione, solveremo una quistioncella, che potrebbe nascere. 
+Potrebbe alcuno dire: se Dio sa ci@o che n'@e mestiere, anzi che
+noi il chieggiamo, ed @e nostro padre, e noi lo disideriamo;
+perch@e vuole, ed amaestra che noi il domandiamo?  A questa
+inquisizione si risponde cos@i: che, secondoch@e Cristo disse,
+secondo Santo Luca, capitolo XVIIJ, sempre ha bisogno d'adorare,
+e non restare; e di ci@o si possono assegnare tre ragioni.  La
+prima ragione @e la cagione che ne induce; la IJ, la forma
+circustante l'orazione; la IIJ, la materia di che @e fabricata
+l'orazione del ^Pater nostro.~  Quanto alla prima ragione nota,
+che IIIJ cose ne inducono ad orare; la prima @e il divino
+coltivamento: per la orazione noi coltiviamo, e riconosciamo
+Idio; Isaia, VIIJ capitolo.  <Or non richiede il popolo da Dio
+suo per li vivi e per li morti>? quasi dica: s@i, elli medesimo
+volle adorare.  Per tre cose da lui ogni dono si conosca; elli
+solo d@a li beni della natura, li beni della fortuna, li beni
+della grazia, li beni della gloria.  Appresso,
+conciosiecosach'elli abbia dato il dono, pi@u graziosamente sia
+tenuto e guardato; poi perch@e pi@u spessamente a lui donatore si
+ricorra.  La IJ cosa, che ne dee inducere, si @e lo stato, e il
+difetto nostro; conciosiecosach@e noi siamo in molte miserie,
+secondo quella parola di Iob, XIIIJ capitolo: ^repletur multis
+miseriis~; e siamo in molti pericoli, ed in molti dubbj; in tutte
+queste cose bisogna di ricorrere a Dio.  Parabole, capitolo XX:
+<Conciosiecosach@e noi non sappiamo quello, che noi dovemo fare,
+questo solo avemo te, cio@e Idio>.  Iacopo, primo capitolo: ^si
+quis indiget, postulet a Deo~ ec.  Infino che noi adoriamo,
+cresce il disiderio, cresce il merito, cresce il benefizio.  La
+terza parte, che ne dee inducere ad orare, si @e il testo
+evangelico: Cristo medesimo, come @e scritto ne l'Evangelio, molte
+volte or@oe.  Johanni, capitolo XIIJ: ^exemplum enim dedi vobis~
+etc.  Luca, capitolo IJ: ^vigilate itaque omni tempore orantes.~ 
+Matteo, capitolo VJ, dove insegna la forma dello orare, e della
+presente orazione.  La IIIJ cosa, che ne dee inducere ad orare,
+si @e il molto frutto, che proviene dello orare: l[o] qual[e] per
+brevit@a lasceremo di dire.  Quanto alla seconda ragione, nota che
+IIIJ cose debbano essere circa la forma della orazione, acci@o
+ch'ella sia efficace: profonda umilitate; debito congiugnimento a
+l'orazione, desi giugnere ad essa elemosina, astinenzia, e
+lacrima; continuo domandare; degna e giusta domanda.  Quanto alla
+terza ragione, nota che l'Apostolo ^ad Romanos~, VIIJ capitolo,
+dice: <Perch@e adoriamo noi, s@i come noi non sappiamo>.  Onde
+Cristo, vero Maestro, insegn@oe l'orazione, acci@o che noi sappiamo
+quello, di che noi dovemo pregare.  Matteo, capitolo VJ: ^sic
+ergo vos orabitis: Pater noster~ etc.  La quale orazione ha tre
+parti principali; la prima @e invocazioni con debita reverenzia,
+la seconda @e adomandare, la terza @e disiderare, che la orazione
+abbia effetto.  La IJ comincia quivi -- ^Laudato sia~ {v.4} ec. 
+La IIJ @e una dizione ^amene~, che non @e qui nel testo.  In questa
+prima parte, |o Padre nostro~, dove aquista la benivolenza dallo
+invocato Idio, tre cose pone.  La prima @e l'originale principio
+della creatura, per@o che @e Padre.  Paolo ^ad Ephesios~, IIIJ
+capitolo: <Idio, dal qual @e ogni paternitade in Cielo ed in
+terra>.  La IJ @e lo speziale privilegio dell'uomo razionale, dove
+dice |nostro.~  Malachia, IJ capitolo: <Or non @e elli un padre di
+tutti noi>?  La IIJ @e lo incomprensibile misterio della natura
+celestiale, dove dice, |che ne' Cieli stai~, ^non circonscritto~
+{v.2} ec.  ^Tertio Regum~, VIIIJ capitolo: <Il Cielo, e li Cieli
+de' Cieli non ti possono comprendere>.  In questa prima parte
+laudiamo la paterna clemenzia, dicendo, |o Padre~; [la] paterna
+providenzia, dicendo |nostro~, e non pure di me orante, ma di
+tutti li fedeli; e la santa magnificenzia, dove dice |che nei
+Cieli stai.~  In quanto noi diciamo |Padre~, dee considerare la
+reverenzia che noi li dovemo.  Malachia dice in primo capitolo:
+<Se io sono padre, dov'@e l'onore mio>?  Essodo dice, XX capitolo:
+<Onora il padre> ec.  E d$e considerare la confidenza che di lui
+dovemo avere.  Santo Bernardo dice: <L'orazione, che con paterno
+nome indolcisce, mi d@a fidanza d'impetrare tutte le mie domande>. 
+In questo che noi diciamo |nostro~, si dimostra essere pi@u che
+uno solo li invocanti; e noi siamo amoniti di vicendevole
+caritade, per@o che fratelli siamo; e siamo amoniti d'umilitade,
+per@o che siamo figliuoli; e siamo amoniti di propria degnitade,
+ch@e siamo figliuoli e rede del Padre celestiali, e fratelli di
+Cristo; il quale ne volle chiamare fratelli, in ci@o che
+insegnando questa orazione, secondo carne si connumer@oe tra noi,
+dicendo |nostro.~  Seguita |che ne' Cieli stai~, nella quale
+parola tre cose puoi considerare: il misterio della divinitade;
+il disiderio, che si dirizza della nostra mente; ed il
+reprimimento della audacia: il misterio della divinitade
+dimorante ne' Cieli.
+
+	|2-3.  Per pi@u amore~ ec.  Per@o che li amati che lass@u
+stanno, pi@u in ogni cosa corrispondono alla divina essenzia, che
+quelli che sono di sotto da' Cieli, e per@o participano pi@u della
+divina bontade.  E dice: |non circonscritto~; per@o che Dio
+contiene tutto, e da nulla @e contenuto.  E dice: |ai primi
+effetti~, cio@e li Angeli, li quali perch@e pi@u cognoscono, pi@u
+amano.  Chi avesse effetti, direbbe le prime creature, cio@e
+angeliche.
+
+	|4-6.  Laudato sia il tuo nome~ ec.  Poi che l'adorante
+fece la paterna invocazione, immantanente propone la sua
+petizione ad impetrare grazia, dicendo |laudato sia~ ec.  La
+quale grazia sta in tre cose: in aquistamento di tutti li beni
+spirituali; in provisione di tutte le cose necessarie temporali;
+in rimovimento di tutti li mali spirituali, e temporali: e per@o
+questa seconda parte si divide principalmente in tre parti.  La
+IJ parte comincia quivi -- ^D@a oggi a noi~ {v.13} ec., che
+contiene tre petizioni.  La terza quivi -- ^E come noi~ {v.16}
+ec.  Li beni spirituali sono di tre maniere; li primi sono in
+santificazione di vera deitade, e per@o dice |laudato~, cio@e
+santificato sia il tuo nome ec.; li sicondi sono in aprosimazione
+d'etterna felicitade, e per@o dice ^vegna ver noi~ {v.7} ec.; li
+terzi sono in adempimento della divina volontade, e per@o dice
+^come dal suo voler~ {v.10} ec.  La prima petizione si porge al
+Padre; il cui nome noi domandiamo, che sia santificato: nella
+quale tre cose domandiamo, secondo tre sposizioni d'essa; prima,
+la grazia d'onorare Idio, onde laudato, cio@e santificato sia,
+cio@e gloriato da noi per la [s]ua grazia.  Onorasi il nome di Dio
+nel cuore per devozione -- ^Magnificat anima mea Dominum~ etc.;
+Luca, primo capitolo: nella bocca per confessione; il Psalmista:
+<Sempre la laude sua nella bocca mia>: nell'operazione per
+edificazione de' prossimi; Matteo, quinto capitolo: ^ut videant
+opera vestra bona~ ec.  Secondamente si chiede la grazia di
+laudare il nome di Dio in noi, la qual cosa si fa per mundizia;
+onde l'Apostolo, quarto capitolo a' Tesalonicensi, scrive:
+<Sappia ciascuno di voi possedere il vaso suo in santificazione>
+ec.; e per perseveranza, e per convenienza, che 'l nome della
+cristianitade si conveg[n]a con Cristo; Levitico, capitolo XJ:
+<Siate santi, per@o che io sono santo>.  In terzo modo domandiamo
+di conoscere per grazia il nome suo, cio@e di pervenire in chiaro
+conoscimento del nome suo, che si fa in tre guise: per dono di
+sapienzia nella legge e nello Evangelio; per dono di grazia in
+fede e merito; per dono di gloria in isperanza e guidardone, o
+vero premio.  Ezechiel, XX capitolo, dice: <Io sar@oe santificato
+in voi, quando v'avr@o menati nella terra d'Isdrael, cio@e nella
+visione di Dio>.
+
+	|7-9.  Vegna ver noi~ ec.  In questa domanda consistono
+li secondi beni spirituali, cio@e in aprossimazione d'etterna
+felicitade.  Qui si chiede la possessione della etterna gloria,
+s@i come quella, ch'@e ereditade de' figliuoli di Dio.  Noi siamo
+eredi di Dio, ed eredi di Cristo, e per@o domandiamo affrettamento
+del regno ereditario; Matteo, XXV capitolo: ^venite benedicti
+Patris mei~ etc.  Neentemeno si puote intendere ad edificazione
+di tre guise regni: regno di grazia, cio@e che Dio regni in noi
+per grazia.  In alcuni regna il diavolo per superbia; Job, XLI
+capitolo: <Elli @e re sopra tutti li figliuoli di superbia>: in
+alcuni regna il diavolo per concupiscenzia: in alcuni per
+avarizia.  Il secondo modo @e regno di giustizia, cio@e appaia la
+giustizia del regno tuo.  Il terzo modo @e il regno della gloria,
+e dice il testo: |vegna ver noi~; cio@e afrettisi di venire verso
+noi, che noi siamo s@i gravi e carichi del peccato, che da noi non
+possiamo venire a lui.
+
+	|10-12.  Come del suo voler~ ec.  Qui si domandano li
+terzi beni spirituali, cio@e che la nostra volont@a si conformi
+alla divina, s@i come fa l'angelica.  E questa parte si puote
+sporre in tre modi.  Il primo modo, ch'ella sia la condizione di
+tutte le nostre petizioni, conciosiecosach@e la nostra volontade
+spessamente sia certa, che nata @e rea; domandiamo, che nelle
+nostre domande non si faccia la volontade nostra, ma faccisi
+quella di Dio, secondo che Cristo medesimo nella sua orazione
+amaestr@o; Matteo, XXVI capitolo: ^Pater, non mea voluntas fiat,
+sed tua.~  Per altro modo si pone questa petizione, cos@i: che sia
+riconoscimento di tutti li difetti nostri, per rispetto della
+divina volontade, cio@e: Padre, fammi adempiere la volont@a tua, s@i
+come la adempiono li Angioli, che io per me non posso. Johanni,
+XV capitolo: <Sanza me nulla cosa potete fare>.  In altro modo si
+puote sporre cos@i: Empiasi la volontade tua in noi, e di noi
+perfettamente, s@i come delli Angeli, e per li Angioli.
+
+	|13.  D@a oggi a noi~ ec.  In questa petizione si domanda,
+che Dio ne p[ro]veg[g]a di tutte le cose necessarie temporali,
+avvegnach@e questi oranti non cheggiano pane mondano, ma
+celestiale.  In questa cotidiana manna, quanto alli uomini
+mortali, s'intende cibo, bere, vestimento, casa, spese, e
+sanitade; Ecclesiastico, capitolo XXVIIIJ: <In principio della
+necessaria vita dell'uomo si @e il pane>.  Ma queste anime non
+hanno bisogno di pane corporale, ma di celestiale, cio@e della
+misericordia di Dio.  E dice: |D@a oggi a noi~; per lo quale |noi~
+si chi[e]de la propietade, per@o ch'@e comunemente questo bene: |la
+cotidiana manna~ ec. denota la necessitade; ma non schiude il
+soperchio.  Tanta manna prendeva ciascuno del popolo d'Isdrael,
+quanta era necessaria per uno d@i; il pi@u si guastava.  In ci@o che
+dice |d@a~, mostra liberalitade e benignitade di Dio, che non
+vende, non rimpruovera.  In ci@o che dice |oggi~, scrive la
+cupiditade, la quale ripone per pi@u anni, secondo spirituale
+intelletto.  Questa domanda @e del pane sacramentale;
+^Sapientiae~, XVJ: ^paratum panem de coelo praestitisti eis.~  @E
+pane spirituale, ch'@e nella parola di Dio; Matteo, IIIJ capitolo:
+<Non in solo pane> ec.  @E pane etternale, il cui gusto si d@a in
+via, e 'l frutto nella patria; Luca, XIIIJ: <Beato chi manuca il
+pane del grano di Dio>.
+
+	|16-24.  E come noi~ ec.  Qui incomincia la petizione del
+rimovimento di tutti li mali spirituali, e temporali; e contiene
+tre parti.  Nella prima si domanda lo rimovimento del male della
+colpa, dove dice: |e tu perdona.~  Nella IJ si domanda lo
+rimovimento del male della pugna, quivi -- |Nostra virt@u~ ec.
+Nella IIJ si domanda il rimovimento del male della pena, quivi --
+|Ma libera da lui~ ec.  La quale ultima dicono queste anime fare
+per loro bisogna; ch@e non possono essere visitate dal diavolo; ma
+fanola in frutto de' mortali, li quali sono tutto d@i assaliti dal
+demonio.  Alla prima parte si manifesta la colpa: E tu perdona li
+nostri falli, li quali sono de' mali commessi; delle promessioni
+per noi fatte, non servate; e delli beni [o]messi.  Alla IJ parte
+noi domandiamo di non essere trattati dal diavolo, ch'@e il male
+della pugna; quasi dica: noi siamo menati nel mezzo de' lacciuoli
+de' nimici nostri.  Alla IIJ parte, dove si richiede rimuovere il
+male della pena; conciosiacosach@e questo male sia di tre maniere,
+cio@e di pena d'Inferno, di Purgatorio, e di mondo; qui si chiede
+solamente quella del Purgatorio, dove sono [coloro], l'anime
+delli quali sono in questo canto discritte, per@o che non temono
+d'andare a pi@u grave; s@i come l'Autore dice nel precedente
+capitolo, quivi -- ^Non attender la forma del martire~ {v.109}
+ec.  -- ^Pensa ch'a peggio~ {v.110} ec.: il quale male @e pena di
+Purgatorio, e gravissima; per@o che non @e proporzionata alle
+nostre forze.  Nullo male @e in questo mondo, lo quale si possa
+asomigliare a quell[o], in acerbitade massimamente;
+conciosiecosach@e quello to' inanzi immediatamente la sustanzia
+dell'anima, la quale per@o che @e sempre tutta, patisce secondo s@e
+tutta, per la veritade della divina giustizia giudicante.  Onde
+il Psalmista dice: <Noi passamo per lo fuoco ed acqua, (cio@e di
+Purgatorio) e menasti noi> ec.  Alcuni dividono la seconda parte
+in VJ parti, dicendo che contiene VJ petizioni.  La prima
+petizione fanno quivi -- ^Vegna ver noi~ {v.7} ec.  La IJ quivi
+-- ^Come del suo voler~ {v.10}.  La IIJ quivi -- ^D@a oggi a noi~
+{v.13} ec.  La IIIJ quivi -- |E come noi~ ec.  La V quivi -- |Ma
+libera~ ec.  Alcuni dicono, che si divide in VIJ parti questa
+orazione.  La prima contiene il primo paragrafo: ^O Padre nostro~
+{v.1}.  La IJ, il secondo: ^Laudato~ {v.4} ec.  La IIJ, il IIJ:
+^Vegna~ {v.7} ec.  La IIIJ, il IIIJ: ^Come del suo~ {v.10} ec. 
+La V, il V: ^D@a oggi a noi~ {v.13} ec.  La VJ, il VJ: |E come
+noi~ ec.  La VIJ, il VIJ: |Nostra virt@u~ ec.  E dicono, che in
+questa petizione, ^laudato~ {v.4} ec. si chiede il primo, e
+principale dono dello Spirito Santo, cio@e il dono della
+sapienzia.  Nella seconda, il dono dello intelletto, il quale
+pacifica la mente, chiarifica la coscienzia, allegra l'animo. 
+Nella IIJ, il dono del consiglio.  Nella IIIJ, il dono della
+fortitudine.  Nella V, il dono della scienzia.  Nella VJ, il dono
+della piatade.  Nella VIJ, il dono dello amore.  --
+|Quest'ultima~ ec.  Nella fine della orazione dominica dicono
+queste anime questa ultima preghiera, cio@e -- |Ma libera da lui
+che s@i la sprona.~  <Signore Idio, noi non facciamo per noi, per@o
+che non siamo in corpo carnale, che il demonio ne possa tentare;
+ma facciamolo per li mortali, li quali al mondo lasciamo dietro a
+noi>.
+
+	|25-30.  Cos@i a s@e e noi~ ec.  Ora l'Autore converte il
+suo sermone alli mortali, inducendoli a pregare, e limosinare, e
+digiunare per quelli che sono in Purgatorio.  E dice, che cos@i
+orando quelle anime per s@e e per noi, sotto il peso andavano
+simile a quello, che alcuna volta li uomini per corrotti omori
+sognano avere sopra s@e.  E soggiugne, che andavano disparimente
+angosciate, cio@e secondo che pi@u o meno erano essute superb[e] in
+vita.  E dice, |su per la prima cornice~, per@o che @e nel primo
+de' sette gironi pi@u faticoso, per@o che pi@u lontano dal Paradiso
+di neuno degli altri remanenti.  E dice, |purgando le caligini~,
+cio@e le nere macchie de' peccati.
+
+	|31.  Se di l@a sempre ben~ ec.  Quello che qui si dice
+per l'Autore @e aperto, per quello che prossimamente @e detto nella
+precedente chiosa.
+
+	|37-50.  Deh se giustizia~ ec.  ^Iustum est judicium Dei~
+etc.; ^et misericordia ejus plena est terra.~  Qui l'Autore
+introduce Virgilio a domandare, ed inchiedere quelle anime del
+camino pi@u brieve.  E prima aquista loro benivolenza, dicendo:
+Deh, se giustizia divina, e la misericordia del pietoso Padre vi
+levi questi pesi, s@i che secondo il disiderio vostro possiate
+salire nella patria, mostratene il camino.  Ed a tore loro ogni
+dubitazione dice: noi possiamo salire per grazia, e vogliamo; ma
+questi @e i[m]pedito, perch@e @e col corpo in prima vita, per lo
+quale egli @e scarso a salire contro al suo volere.  E per questo
+aquista il dicitore maggiore benivolenzia nelli presenti uditori,
+come seguita del loro parlare ec.  Questo testo @e assai chiaro,
+nel quale l'Autore dice, che una di quelle anime, ma non sa
+quale, disse: tenete a mano diritta insieme con noi.
+
+	|52-56.  E s'i' non fussi~ ec.  E se non fosse il grave
+peso, che li carica la testa, elli guaterebbe volentieri
+l'Autore.  E poi soggiugne:
+
+	|58-59.  Io fui Latino~ ec.  Dice, che fu figliuolo di
+messer Guiglielmo Aldobrandeschi de' conti da Santa Fiore di
+Maremma.  Fue persona superbissima; e dice di s@e, e de' suoi
+anticessori.
+
+	|61-66.  L'antico sangue~ ec.  Cio@e quello de' conti da
+Santa Fiore, de' quali @e toccato di sopra, capitolo VI, e le
+opere leggiadre delli Conti di quella casa il fecero s@i superbo,
+che non pensando, ch'e[ll]i era di terra (ed in terra deve
+tornare), ognuno dispettava tanto, che fu morto a un castello,
+detto Campagna[tic]o, in Maremma per opera de' Sanesi.  Li conti
+da Santa Fiore ebbono, ed hanno, ed aranno quasi sempre guerra
+con li Sanesi; e la cagione @e, perch@e li Conti vogliono mantenere
+loro giurisdizione, e li Sanesi la vogliono sciampiare: come in
+generale delle comunanze italiche @e tocco sopra questo, capitolo
+VJ ^Purgatorii.~
+
+	|67-69.  Io sono Omberto~ ec.  Qui se medesimo nomina per
+proprio nome; e soggiugne, che tutti li suoi parenti sono per
+superbia mali capitati.  Vuole l'Autore, che chi non pu@o tenere
+alzata la testa, ch'egli la chini a guisa di giunco; onde li
+conti da Santa Fiore hanno pi@u guerre fatte con li Sanesi, e per
+impotenzia sono stati vinti con onta e con danno.  E questo @e
+quello che dice il testo.
+
+	|70-72.  E qui convien~ ec.  Cio@e conviene, che io porti
+tanto questo peso per la superbia che fu in me, che qui tra'
+morti soddi[s]faccia a Dio, poich@e tra' vivi fui negligente a
+farlo.
+
+	|73-84.  Ascoltando io chinai~ ec.  Qui essemplificando,
+mostra la detta superbia non solamente procedere nelli mortali
+per radice d'antichit@a di sangue, e d'opera d'arme, e di costumi
+leggiadri; ma eziendio per eccellenzia d'arte manuale.  E questo
+pruova per Oderisi d'Agobbio, miniatore ottimo del tempo
+dell'Autore, il quale vedendosi cos@i eccellente nella sua arte,
+mont@oe in grande superbia, ed aveva oppinione, che migliore
+miniatore di lui non fosse al mondo.  Ora a mostrare, ch'elli hae
+diposta la superbia, e vestita umilitade, loda per migliore
+maestro essere stato Franco Bolognese di lui, che fu di simile
+mestiere.  E nota, che l'Autore dice, |l'onore d'Agobbio~; quasi
+a dire, di quello luogo non usc@i mai persona nomata, fuori che
+tu.  E dice, l'onore @e ora tutto di Franco, e mio in parte; del
+tutto picciola s'intende.  Se dicesse semplicemente parte,
+s'intenderebbe mezzo; quasi dica, la mia f[a]ma [appena] se 'n
+c[ons]erva, e la sua @e ora in capo.  E non ti maravigliare,
+lettore, se l'Autore pone questi artefici meccanichi in onore ed
+in fama, che Valerio Massimo il fece elli apertamente.  E nota,
+che le principali arti meccaniche, sotto le quali si comprendono
+tutte l'altre, sono VIJ, ci@o sono: medicina, agrigultura,
+lanificio, armadura, magisterio, cacciagione, e navicazione. 
+Sotto l'armadura si contengono molte arti, e cos@i sotto il
+lanificio, e ciascuna dell'altre.
+
+	|88-90.  Di tal superbia~ ec.  Qui tocca, come nella
+prima vita torn@oe a penitenzia, ed a tale tempo, ch'elli non fue
+per la giustizia di Dio messo fuori del Purgatorio tra li
+negligenti.
+
+	|91-93.  O vana gloria~ ec.  Qui sgrida contro la
+vanagloria, dicendo quella poco stare verde, e tosto seccarsi, e
+cadere, salvo s'ella non @e giunta dall'etati grosse, cio@e agiunta
+col senno maturo e de' vecchi: allora non sia vanagloria, ma sia
+gloria, cio@e fama; avegnach@e ogni fama mondana si possa dire
+vana, in ci@o che in poco tempo vanisce, e va via, e poco si
+dilata, e stende, sed ella non @e di mirabile opere e virtuose, in
+fatti, o in detti.
+
+	|94-96.  Credette Cimabue~ ec.  Qui narra per essemplo, e
+dice, che come Oderisi nel miniare, cos@i Cimabue nel dipignere
+credette essere nominato per lo migliore pintore del mondo; e 'l
+suo credere venne tosto meno, per@o che sopravenne Giotto, tale
+che a colui ha tolta la fama; e dicesi ora pure di lui.  Fu
+Cimabue nella citt@a di Firenze pintore, nel tempo dello Autore,
+molto nobile, de' pi@u che uomo sapesse; e con questo fue s@i
+arrogante, e s@i sdegnoso, che se per alcuno gli fosse a sua opera
+posto alcuno difetto, o elli da s@e l'avesse veduto (ch@e, come
+accade alcuna volta, l'artefice pecca per difetto della materia
+in che adopera, o per mancamento che @e nello strumento, con che
+lavora), immantanente quella cosa disertava, fosse cara quanto si
+volesse.  Fu, ed @e Giotto intra li pintori, che li uomini
+conoscono, il pi@u sommo, ed @e della medesima citt@a di Firenze, e
+le sue opere il testimoniano a Roma, a Napoli, a Vinegia, a
+Padova, e in pi@u parte del mondo.
+
+	|97-99.  Cos@i ha tolto l'uno~ ec.  [s]posto di sopra
+prima della superbia nata dalla arroganzia dell'antico sangue, e
+d'opere leggiadre; ed appresso della superbia nata per
+eccellenzia d'arte meccanica, come di pintori, e miniatori; qui
+tratta di loro, che per pulita parladura ingrossarono la mente di
+superbia; ed essemplificando due Guidi, cio@e messer Guido
+Guinizzelli da Bologna, e Guido Cavalcanti di Firenze, e' dice
+similemente, com'io dissi, che Giotto aveva tolta la fama della
+eccellenzia del dipignere a Cimabue; dico, che cos@i ha tolto
+Guido Cavalcanti a Guido Guinizzelli.  E soggiugne: e forse @e
+nato chi la torr@ae all'uno ed all'altro; ed alcuno, ch'elli vuole
+intendere di s@e.  Ed intenda elli di s@e, o d'altrui; pure cos@i @e:
+il quale di vero fece oscurare tutte le fame degli altri
+dicitori, ed a lui solo @e rimaso il campo.  Fue messer Guido
+Guinizzelli il primo, che innov@oe lo stile del dire in rima; del
+quale messer Guido l'Autore favella nel XXVJ capitolo di
+Purgatorio, quivi -- ^O tu, che vai non per esser pi@u tardo~; [e]
+qui -- ^Beato te, che delle nostre marche~ ec.  E Guido
+Cavalcanti si pu@o dire, che fossi il primo, che [le] sue canzoni
+fortificasse con filosofi[ch]e pruove, come si mostra in quella
+sua canzona, che comincia: ^Donna mi prega, perch'io deggia
+dire.~
+
+	|100-102.  Non @e il mondan romore~ ec.  Qui fa l'Autore
+comparazione propria dalla fama al vento, che secondo li luoghi
+dove trae, cos@i @e nominato: ora trae con empito, e immantanente
+va via.  Di questa parla Boezio, in libro ^de Consolatione~,
+dicendo: ^Gloria vero quam fallax saepe, quam turpis est]~ etc.
+
+	|103-105.  Che voce avrai~ ec.  Qui arguisce,
+conchiudendo, che fama avr@a pi@u [l'] uomo, dal quale la vecchia
+carne si parte dall'anima, che se muore in tal pueri[z]ia ch[e]
+chiama il pane |pappo~, e 'l danaio |dindo.~
+
+	|106-108.  Pria che passi mille anni~ ec.  Cio@e, pria che
+passi mille anni, ch'@e pi@u piccolo spazio per comperazione del
+tempo etterno, che non @e uno battere d'occhio a comperazione del
+moto del Zodiaco, il quale @e il torto circulo, che pi@u tardi in
+Cielo si gira.  Dicesi che fa suo moto in XXXVJ'M d'anni; il
+quale fa la Luna in XXVIIIJ giorni, o circa, quasi dica nulla.
+
+	|109-114.  Colui, che del cammin~ ec.  Posto di tre
+qualitadi di superbi, qui aggiugne la quarta di quelli, che per
+potenzia insuperbiscono; e parla essemplificando in persona di
+messer Provenzano Salvani da Siena.  E dice: colui che va s@i
+piano, fece della sua fama rimbombare tutta Toscana; ora in Siena
+(dov'elli mostra sua eccellenzia, superbia) appena se ne
+pispiglia. Questo @e uno parlare, che non esce della bocca, ed hae
+pochissimo vigore.  E dice, ch'egli era signore di Siena, allora
+quando i Fiorentini erano superbi, s@i come ora avari.  Per la
+quale furiosa superbia furono sconfitti, secondo che vuole dire
+l'Autore, a Monte-Aperti nel contado di Siena; della quale
+sconfitta @e tocco di sopra, capitolo X ^Inferni~: fue nel MCCLX,
+d@i IIIJ di Settembre.  Il quale Provenzano Salvani, s@i come poco
+appresso dice, che fu morto nel MCCLXX a Colle, o vero nel
+MCCLXVIIIJ, il d@i di Santo Bartolomeo, di Giugno.
+
+	|115-117.  La vostra nominanza~ ec.  Ancora fa un'altra
+comparazione l'Autore della fama de' mortali, ed agguagliala
+all'erba, la quale per virt@u del Sole nel tempo della primavera
+esce acerba della terra, che trae delle sue radici; poi nel
+processo del tempo crescendo la caldezza del Sole, si discolora e
+secca, come appare nella biada.  Cos@i la vostra fama, che nasce
+di cose mortali, procedendo in tempo, a poco a poco s'apassa,
+scolora, secca, viene meno, per@o che non ha radice stabile.
+
+	|118-120.  Ed io a lui~ ec.  In queste parole l'Autore
+non vuole dire altro, se non che considerate le cose dette per
+Oderigo, [@elli] entrato nel cuore una umiltate, ed @elli tolto e
+appianato gi@u la grossezza della superbia: ^Ma dimmi, chi @e
+colui, di cui tu s@i altamente parli~?
+
+	|121.  Quelli @e~ ec.  Qui Oderigi palesa il nome di
+colui, e 'l vizio in che elli pecc@oe, e la pena che elli ne
+porta, e la compensagione, o vero satisfazione a tal peccato; e
+dechiara il testo.
+
+	|127-132.  Ed io: Se quello spirito~ ec.  Qui muove
+l'Autore una quistione a Oderigi, della quale @e materia il detto
+messer Provenzano.  Dante dice: come @e, che questi non @e di fuori
+di questo circolo intra coloro, che prima purgano la negligenzia,
+che @e il proprio peccato? conciosiacosach@e anzi ch'egli si
+togliesse di quello peccato della superbia, morte accidentale gli
+sopravenisse; salvo sempre, che buona orazione di grazia non li
+avesse scortato quello tempo.
+
+	|139-141.  Pi@u non dir@o~ ec.  Conchiude Oderigi, e dice
+all'Autore: sappi che poco tempo passer@ae, che' tuoi vicini
+faranno s@i, che tu potrai fare chiosa a questo testo; quasi dica:
+tu sarai cacciato di Firenze, abisognerai di richiedere li amici,
+e sentirai l'efetto di cotale vergogna, s@i che s'atriter@ae la tua
+superbia.  E questo secondo una chiosa; ma questo si spone infra,
+capitolo XVII ^Paradisi.~
+
+	|142.  Questa opera gli tolse~ ec.  Cio@e, quello ch'elli
+fece, quando pi@u gloriosamente vivea, li tolse di stare a'
+confini di fuori di questo luogo, dov'elli era.  E qui si compie
+la storia del presente capitolo, per la quale si puote tra
+l'altre cose notare questo senso tropologico: di non mettere
+nostro intendimento nelle temporali cose, ma dirizza[rl]o alle
+spirituali, le quali sono etterne, ed in esse permane ogni
+beatitudine e fermezza, s@i come @e scritto: ^in te, Domine,
+speravi, non confundar in aeternum.~  Restaci ancora di dire
+sopra quella parte del testo di questo presente capitolo, quivi
+-- ^Quando vivea~ {v.133} ec., dove racconta, che 'l detto messer
+Provenzano cos@i libera[l]mente serv@i uno suo amico per liberarlo,
+e trarlo di prigione.  E dice cos@i Oderigi a Dante: elli non @e
+cos@i, come tu pensi, che anzi la detta morte nel suo pi@u fiorito
+stato, ogni vergogna diposta, s'affisse, quando per trare l'amico
+suo di pena ec., come il testo.  Dice alcuno chiosatore, che
+avendo il re Carlo in prigione uno suo amico caro, puosegli di
+taglia fiorini X'M d'oro (ch@e era stato contra lui con Curradino
+nella sconfitta a Tagliacozzo), ed assegnogli brieve termine a
+pagare, o a morire.  Quelli ne scrisse a messer Provenzano. 
+Dicesi, che messer Provenzano fece porre uno desco, susovi uno
+tappeto, nel campo di Siena, e puosevisi suso a sedere in quello
+abito, che richiedea la bisogna; domandava alli Sanesi
+vergognosamente, che lo dovessono aiutare a quella sua bisogna di
+moneta, non sforzando alcuno, ma umilmente domandando aiuto;
+d'onde li Sanesi vedendo costui, che solea essere loro signore e
+tanto superbo, domandare cos@i pietosamente, furono commossi a
+piatade, e ciascuno, secondo sua facultade, diede aiuto; s@i che,
+anzi che 'l termine spirasse, fue ricomperato l'amico.  Volendo
+quello chiosatore, che qui incominciasse a dipore la superbia, e'
+dice, che il tremare intende, che inducesse la detta vergogna. 
+Un altro dice, che il tremare si puote in lui allora dire, che
+stette in abito di potere essere morto lievemente allora da'
+nemici suoi, de' quali in Siena avea allora copiosamente.  Un
+altro dice, che per trare il detto amico di pena, elli misse s@e,
+e 'l Comune di Siena a molti pericoli, cio@e che guatava d'avere
+prigione il maliscalco del detto re, o altro barone per camparlo,
+cio@e per scambiarlo; per la quale cosa elli si misse a questa
+condizione, d'onde elli mor@ie; ch'elli mosse i Sanesi, e 'l conte
+Guido Novello, e li Ghibellini di Toscana, e la masnada Tedesca
+[e] Ispagnuola a venire ad oste a Colle con MCCCC cavalli, e
+pedoni da VIIJ'M, dicendo: Noi commoveremo messer Gian Beroaldi,
+maliscalco del re, e li Franceschi a subita battaglia, ed aremoli
+tutti presi; ed in contrario venne, ch'elli vi fue sconfitto, e
+la sua testa portata in su una asta di lancia, anni MCCLXVIIIJ. 
+Dicesi, che anzi venisse a questa sconfitta, elli si tolse da
+ogni superbia.
+

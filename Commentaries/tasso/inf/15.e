@@ -1,0 +1,186 @@
+	|2.~ |(ed.  Celani)~
+E 'l fummo del ruscel di sopra ^adhuggia~
+
+	|4.~ |(ed.  Celani)~
+Quale i Fiaminghi tra Guizzante et ^Bruggia~
+
+	|5.~ |(ed.  Rosini)~
+Fiotto.  [richiamo marginale] [Sessa]
+
+Fiotto, ^fluctus~, ondeggiare.  [Da Fino]
+
+	|(ed.  Celani)~
+Temendo 'l ^fiotto~, che 'nver lor s'aventa,
+
+	|6.~ |(ed.  Rosini)~
+Fuggia.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Fanno lo schermo, perch@e 'l mar si ^fuggia;~
+
+	|9.~ |(ed.  Rosini)~
+Che fa liquefar la neve.  [Da Fino]
+
+	|19-21.~ |(ed.  Rosini)~
+Similitudine.  [Da Fino]
+
+	|21.~ |(ed.  Rosini)~
+Cruna.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Come l' vecchio sartor fa ne la ^cruna.~
+
+	|22.~ |(ed.  Celani)~
+Cos@i ^adocchiato~ da cotal famiglia,
+
+	|24.~ |(ed.  Celani)~
+Per ^lo lembo,~ e grid@o: ^qual~ maraviglia?
+
+	|26.~ |(ed.  Rosini)~
+^Cotto~, arso.  [Da Fino]
+
+	|27-28.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|35.~ |(ed.  Rosini)~
+Asseggia.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Et se volete, che con voi ^m'asseggia,~
+
+	|39.~ |(ed.  Rosini)~
+^feggia~, ferisca.  [Da Fino]
+
+	|(ed.  Celani)~
+Sanz'^arrostarsi~, quando 'l foco il ^feggia.~
+
+	|44.~ |(ed.  Rosini)~
+Par di lui.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Per ^andar par di~ lui; ma 'l capo chino
+
+	|45.~ |(ed.  Rosini)~
+Comparazione non del simile, ma dell'istesso.  [Giolito]
+
+	|(ed.  Celani)~
+Tenea, ^com'huom che reverente~ vada.
+	^comp. non del simile ma dell'istesso~
+
+	|49.~ |(ed.  Rosini)~
+In la.  [richiamo marginale] [Sessa]
+
+	|51.~ |(ed.  Rosini)~
+Avanti.  [richiamo marginale] [Sessa]
+
+	|54.~ |(ed.  Rosini)~
+A ca'.  [richiamo marginale] [Sessa]
+
+	|55.~ |(ed.  Rosini)~
+Ponendo il suo maestro nell'Inferno, pare ingratitudine.  [Da Fino]
+
+	|56.~ |(ed.  Celani)~
+Non puoi fallire a glorioso porto;
+	^elo.~
+
+	|61.~ |(ed.  Rosini)~
+Firenze.  [Da Fino]
+
+	|62.~ |(ed.  Rosini)~
+Ab antico.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Che discese di Fiesole ^ab antico,~
+
+	|63.~ |(ed.  Rosini)~
+^Macigno~, pietra.  [Da Fino]
+
+	|65.~ |(ed.  Rosini)~
+^Lazzi~, aspri.  [Da Fino]
+
+	|(ed.  Celani)~
+Et @e ragion; che tra gli ^lazzi sorbi~
+
+	|66.~ |(ed.  Celani)~
+Si disconvien ^fruttare~ al dolce fico.
+
+	|67.~ |(ed.  Rosini)~
+Fiorentini ciechi.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+^Forbi~, non forba, secondo la regola.  [Sessa]
+
+^Forbi~, netti.  [Da Fino]
+
+	|71.~ |(ed.  Rosini)~
+^Fame~, desiderio.  [Da Fino]
+
+	|72.~ |(ed.  Rosini)~
+^Lungi fia dal becco l'erba~, traslazione.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+Strame.  [richiamo marginale] [Sessa]
+
+^Strame~, spregio.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+Riviva.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+In cui ^riviva~ la sementa santa
+
+	|78.~ |(ed.  Rosini)~
+Firenze.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+Se fosse stato il suo desiderio satisfatto.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+^De l'humana natura posto in bando:~
+
+	|82.~ |(ed.  Rosini)~
+In la.  [richiamo marginale] [Sessa]
+
+	|89.~ |(ed.  Rosini)~
+Di quello che li disse Farinata.  [Da Fino]
+
+	|92.~ |(ed.  Rosini)~
+Garra.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Pur che mia conscienza non mi ^garra~
+
+	|100.~ |(ed.  Rosini)~
+N@e per tanto di men.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Ne ^per tanto di men~ parlando vommi
+
+	|108.~ |(ed.  Rosini)~
+Sodomiti.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+^Tigna~, male.  [Da Fino]
+
+	|112.~ |(ed.  Celani)~
+Colui ^potei,~ che dal servo de' servi
+	^desiderio di fama~
+
+	|113.~ |(ed.  Rosini)~
+M. Andrea de' Mozzi di vescovo di Firenze fu fatto vescovo di Vicenza.  
+[Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+Desiderio di fama.  [Giolito]
+
+	|120.~ |(ed.  Rosini)~
+^Nel qual io vivo ancora~.  Vive nel suo Tesoro, perch@e i dannati non 
+vivono se non nella fama, e per questo @e tanto desiderata da loro.  
+[Sessa]
+
+	|121-124.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+

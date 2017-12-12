@@ -1,0 +1,73 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id TAA10256
+	for <steve@avalon.dartmouth.edu>; Sun, 21 Feb 1999 19:21:55 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id TAA09721
+	for <Steve.Campbell@Dartmouth.edu>; Sun, 21 Feb 1999 19:21:55 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 35699 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67448-2925>; Sun, 21 Feb 1999 19:21:02 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA02049
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Feb 1999 19:20:49 -0500 (EST)
+Received: from flagstaff.Princeton.EDU (flagstaff.Princeton.EDU [128.112.131.154])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id TAA17099
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Feb 1999 19:20:48 -0500 (EST)
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.9.1/8.9.1) id TAA21874
+	for Steve.Campbell@dartmouth.edu; Sun, 21 Feb 1999 19:20:48 -0500 (EST)
+Message-Id: <199902220020.TAA21874@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sun, 21 Feb 1999 19:20:48 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+
+Read through ALL (and I do mean every single one) the entries of
+|M-list-instances.fixed" and find only the following problems:
+
+COMM.		CANTO		IS		SHOULD BE
+
+Bosco		Inf. 1		2a~ 		2a
+"		Inf. 2		3a~		3a
+"		Inf. 4		3a~		4a
+"		Inf. 6		I-IIae~		I-IIae
+"		Inf. 9		3a~		3a
+"		Inf. 10		2a~		2a
+"		Inf. 11		6a~		6a
+
+OK, I'll stop here.  ALL #a~ and #ae~ should lose their tilde in
+ALL of Bosco.
+
+Two peculiarities that need to be fixed "by hand":
+
+Bosco		Inf. 28		1961+o~2~)	1961, 2a ed.),
+"		Purg. 9		1968+o~2~)	1968, 2a ed.)
+
+NOW NO ERRORS UNTIL:
+
+Mattalia	Purg. 25	2+o)		2+o~)
+"		Purg. 25	1+o)		1+o~)
+"		Purg. 25	2+o)		2+o~)
+"		Purg. 25	3+o)		3+o~)
+
+THEN NOT UNTIL (this one MY fault):
+
+Poletto		Para. 17	m#ente		mente
+
+THEN NOT UNTIL:
+
+Rossetti	Inf. 7		Ia.~		Ia.
+"		Inf. 7		IIa.~		IIa.
+"		Inf. 9		Ia.~		Ia.
+and this continues for the rest of Rossetti, and needs to be
+fixed (so far only Bosco and Rossetti have unindicated problems;
+everything else is noted specifically or is OK): all "#a.~" in
+Rossetti need to become "#a."
+
+LAST:
+
+Vandelli	Para. 23	I+o~2~, 268	I, 268
+"		Para. 23	10+o~ cielo~]	10+o~ cielo]
+"		Para. 28	2+o~64		2(64)
+
+And that's all she wrote.  Not too much to clean up, and a LOT of
+Bob's time saved.  He loves it.

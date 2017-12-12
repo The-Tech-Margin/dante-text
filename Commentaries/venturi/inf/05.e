@@ -1,0 +1,317 @@
+	|1.~  Dal primo.
+
+	|2.~  Che cinge, fascia, e racchiude meno luogo dentro di
+s@e, siccome anch'esso dal primo cerchio contenuto: e andandosi
+dalla superficie al centro, i cerchi sempre devon restringersi e
+farsi minori: ma quanto pi@u essi si ristringevano, tanto maggiori
+erano i tormenti, che vi pativano.
+
+	|3.~  Conteneva pi@u dolore, perch@e oltre l'afflizione
+dell'animo vi era il dolore del corpo e la pena del senso, che
+punge e tormenta fino a farli guaire, cio@e fino a farli mandare
+altissimi lamenti e strida, e non soli sospiri, come nel Limbo. 
+|Guajo~ @e propriamente la voce lamentevole, che manda fuori il
+cane percosso lagnandosi, e allora si dice il cane guaire.
+
+	|4.~  Digrigna i denti, come fanno i cani, quando per
+rabbia li arruotano insieme, minacciando di voler mordere.
+
+	|6.~  E manda pi@u o meno gi@u nell'Inferno, secondo che
+pi@u o meno volte intorno con la coda il corpo si lega e cinge.
+
+	|7.~  Sciaurata, e che per@o meglio sarebbe stato per lei
+il non nascere.
+
+	|8.~  Confessa sinceramente, forzata a cos@i fare, tutti i
+suoi peccati.
+
+	|9.~  Definitore e Giudice della lor gravezza.
+
+	|10.~  @E dovuto ad essa per gastigo delle sue
+scelleraggini.
+
+	|12.  Quantunque~ ^volte~ disse il Boccaccio ancora,
+ponendosi, come osserva il Bembo, il |quantunque~ in luogo di
+^quanto~, quando @e nome e non avverbio, ed @e allora
+indeclinabile, o per natura della voce, o per forza dell'uso.
+
+	|14.~  Qui |a vicenda~ non significa ^scambievolmente~,
+ma una dopo l'altra si presenta al tribunale, ove confessano le
+colpe, e odono la sentenza.
+
+	|15.~  Son precipitate e strascinate al luogo del
+supplicio loro assegnato.
+
+	|20.~  Allude al ^facilis descensus Averni, Sed revocare
+gradus, superasque evadere ad auras, Hoc opus, hic labor est.~ 
+AEn. 6.
+
+	|21.~  E la mia guida, offesa per quelle parole: ^Guarda,
+di cui tu ti fide~ {v.19}, rispose con dispetto: ancor tu strilli
+allo sproposito come Caronte?  Di questi sentimenti rotti e
+dimezzati vedi la osservazione terza del Padre d'Aquino al C. 4
+dell'Inferno.  Questi due versi: ^Vuolsi cos@i~ ec. son quei
+medesimi detti gi@a da Virgilio a Caronte nel Cant. 3.
+
+	|27.  Pianto~ dal ^plangere~ latino in significato di
+lamento con alte grida innalzato alle stelle.  Cos@i il Petrarca
+con nobil traslato: ^Dove rotte dal vento piangon l'onde~: ed il
+Casa: ^Di cui piangendo ancora sono roco.~
+
+	|28.~  Per figura, privo di luce.
+
+	|31.~  Aria furiosamente agitata a modo di turbine.  Il
+Volpi vuole in oltre, che venga insieme turbinando pioggia, o
+neve, acciocch@e si nomini propriamente bufera, amando di
+attenersi stretto alla Crusca.  Ma il Boccaccio, a cui forza @e,
+che la Crusca si sottometta, non vi richiede n@e pioggia n@e neve,
+contentandosi di una furia impetuosa di vento, che svella,
+schianti, abbatta, rompa quanto gli si para dinanzi.  Non resta
+mai, non perch@e non rifin@i mai di soffiare, perch@e tosto dir@a:
+^Mentre che 'l vento, come fa, si tace~ {v.96}; ma perch@e sebbene
+ha di tanto intanto qualche pausa, con tutto ci@o deve essere
+eterno in quel tenore: e cos@i inteso giustamente il senso, non vi
+sar@a bisogno del ^vix unquam~ del P. d'Aquino per addolcire, come
+dic'egli, la contraddizione di quei due versi, ch'@e solamente
+verbale, ed apparente.
+
+	|32.~  Col trasportarli via a forza.
+
+	|34.~  Spiega il Vellutello: ^Avanti a quella rovinosa
+bufera.~  Ma se questa rabbiosa bufera @e quella appunto, che li
+trasporta, come pu@o intendersi in questo modo?  Meglio il P.
+d'Aquino, seguendo il Daniello, l'intende per quella apertura, e
+rottura, che il Poeta finge essersi fatta fin al centro della
+terra, quando gli Angeli ribelli gi@u dal cielo precipitarono, ed
+ha le sponde di sassi acuti e rotti: e per@o i lussuriosi, quando
+dalla bufera portati arrivano dinanzi a quel precipizio, gridano,
+e bestemmiano la Divina Giustizia, e Onnipotenza, per tema di
+esservi da quella furia di vento sbattuti e gittati.
+
+	|39.~  Sottopongono all'appetito sensuale.
+
+	|40.~  E come le ali proprie trasportano un gran branco
+di storni.  Questa voce ^storneo~ nel gran Vocabolario non ce la
+trovo ancor registrata.
+
+	|46.~  Cantando i lor lamenti, e disponendosi per aria in
+lunga fila.  |Lai~ son propriamente quelle voci, che mandan fuori
+in volando gli uccelli, e ritengono un tuono di pietoso e
+lamentevole; onde acconciamente dice il Boccaccio: ^Lai vengon
+chiamati da Dante i lor versi dolorosi e tristi.~
+
+	|48.~  Mandando fuori grandi stridi ad alta, e pietosa
+voce anime trasportate con violenza dalla dolorosa briga di
+quell'aria turbinosa.
+
+	|53.~  Allora.
+
+	|54.~  Cio@e signoreggi@o molte varie nazioni, le quali
+parlavano diverse lingue: o pure fu Regina di Babilonia, dove
+prima furono confusi i linguaggi.
+
+	|55.~  Cos@i sfrenatamente dedita.
+
+	|56.~  Che per legge stabil@i, e promulg@o che a ciascuno
+quello, che pi@u gli piacesse in questo genere di cose gli fosse
+lecito: e ci@o fece per torre de s@e, o sminuire il vituperio, in
+ch'era incorsa nell'amore incestuoso del proprio figliuolo. 
+Questa @e Semiramide, di cui dicono l'istorie che nell'Imperio
+successe a Nino Re degli Assirj suo sposo, dopo averlo fatto
+morire.
+
+	|60.~  Che ora (parla del suo tempo) governa il Soldano,
+ed ivi suol far residenza: essendo a' tempi nostri de' Turchi, da
+poi che se ne insignor@i Selim padre di Solimano.  Ma qui il Poeta
+piglia uno sbaglio, ed equivoca; perch@e la Babilonia edificata da
+Semiramide @e quella della Caldea, e la Babilonia, che fu Reggia
+del Soldano, @e quella di Egitto, detta altramente il Cairo. 
+Soldano in lingua Caldea vuol dire ci@o, che nel nostro idioma
+Sovrano, supremo Principe, che dispoticamente senza alcuna
+dipendenza comanda.
+
+	|61.~  Si uccise per la smania amorosa, vedendosi
+tradita, ed abbondonata da Enea, per cui si era di Sicheo una
+volta s@i caro dimenticata, ed a cui aveva promesso castit@a
+vedovile.  Il Petrarca nel Trionfo della Castit@a rispettosamente
+senza nominarlo riprende Dante, e restituisce a Didone la fama
+toltale e dal latino Poeta maestro, e dal Poeta toscano
+discepolo, l@a dove canta: ^Taccia il volgo ignorante: io dico
+Dido, Che studio di onestade a morte spinse, Non quel d'Enea,
+com'@e 'l pubblico grido.~
+
+	|63.~  La famosa real cortigiana di Egitto per cui
+Antonio ripudi@o Ottavia.
+
+	|64.~  Elena da Paride rapita a Menelao Re di Sparta suo
+sposo, a conto della quale furono al mondo tante tempeste.
+
+	|66.~  O allude all'amore a Briseide portato, per cui si
+ritir@o da combattere, o all'amore portato a Polissena sorella di
+Paride, da cui fu nell'atto di sposarla a tradimento ucciso: e
+non all'amore di Deida mia, come vuole il Vellutello, che
+c'infrasca ancor questo, che ci@o fu la prima prodezza di questo
+Eroe, quando era in abito femminile: o pure, che combatt@e alla
+fine con amore opprimendo i Troiani, per vendicare l'amato
+Patroclo ucciso da Ettore.
+
+	|67.~  Quello che rap@i Elena.  Tristano nipote di Marco
+Re di Cornovaglia nella gran Brettagna, il primo de' Cavalieri
+erranti, e che per amore della Reina Isotta fece mirabili prove
+di valore; ma alla fine colto in fallo con essa, fu dal Re Marco
+con quella sua tanto gloriosa lancia medesima a parte a parte
+trafitto.
+
+	|72.~  Ne rimasi per isbigottimento confuso.
+
+	|74.~  Riscosso da quel principio di smarrimento, e
+perfettamente rientrato in me.
+
+	|75.~  Cos@i poco contrastare con l'impeto del vento, ed
+essere pi@u facilmente, e velocemente degli altri trasportati.
+
+	|78.~  Per quell'amore, che li moveva e menava unitamente
+congiunti insieme.  |Ei~ vien posto per ^essi~; e quantunque |ei~
+sia propriamente del singolare, pure non dicendosi nel plurale
+^eino~ da |ei~, come da ^egli~ diciamo ^eglino~, si @e piuttosto
+il Poeta voluto valere di |ei~ ancor nel plurale.
+
+	|79.~  Li volta e avvicina verso noi.
+
+	|84.~  Volonterose, richiamate a quello dall'avida brama
+di riveder la lor prole.
+
+	|87.~  Fu s@i efficace quell'affettuoso scongiuro, ^per
+quell'amor che vi mena~ {v.78}; essendo credibile che in cosa, la
+quale tanto premevale, obbedisse al maestro come vien qui
+accennato, quantunque non sia sopra espresso; e forse lo passa il
+Poeta sotto silenzio per non annojar con quella rincrescevole
+ripetizione.  Con pi@u disinvolto artificio il Traduttor latino
+non lo fa dire a Virgilio, ma lo presuppone da esso gi@a detto:
+ecco i versi, che son ben degni d'esser riferiti: ^Aggredior:
+pars admonuit, quo carmine Vates: Oh agite unanimes animae, quas
+ipsa volutat Poena pares, fandi est si copia, sistite cursum.~
+
+	|88.~  Cio@e non anima sola, ma corpo animato pieno di
+grazia e benignit@a.
+
+	|89.~  Color misto di rosso e nero, ma che d@a pi@u nel
+nero, come l'azzurro scuro dell'aria poco illuminata, e
+dell'acqua che ha molto fondo.
+
+	|90.~  Fummo svenati e bagnammo la terra del nostro
+sangue.
+
+	|91.~  Amico a noi, e non con noi sdegnato.
+
+	|97.~  Ravenna situata presso al Mare, dove il Po scarica
+le sue acque, per cessare del corso insieme coi fiumi, ch'entrano
+in lui, o per aver con quei fiumi pace, giunto al mare; giacch@e
+fino che non vi arrivi, lo inquietano continuamente spingendolo:
+o perch@e giunto al mare, ove esso insieme coi fiumi che sboccano
+nel suo letto, correndo tende, come a suo termine, finalmente
+riposi, dicendosi volgarmente i fiumi aver pace nel mare.
+
+	|100.~  Il Boccaccio vieta il pigliar quel |gentile~ in
+significato di nobil lignaggio, o di animo adorno di gran virt@u,
+ma vuole che significhi solamente cuor dolce e naturalmente
+disposto ad amare, potendo valere questa facilit@a ad intenerirsi
+per qualche discolpa del grave fallo.
+
+	|101.~  Fe' innamorar costui del mio bel sembiante e
+della mia leggiadra persona, che dal mio marito mi fu tolta,
+quando egli mi uccise; e la maniera barbara e sconcia, con cui
+fui uccisa, mi accuora ancora adesso ricordandomene, perch@e di un
+colpo solo col drudo unita: o pure non mi dispiace, n@e mi @e
+cagione di pena l'avermi egli amato, ma il modo sregolato di
+quell'amore.  Questa fu Francesca figliuola di Guido da Polenta
+Signore di Ravenna, dal Padre maritata a Lancillotto figliuolo di
+Malatesta Signor di Rimini, valoroso, ma deforme della persona:
+che per@o innamorata di Paolo suo cognato, Cavaliere di bel tratto
+ed avvenente, fu insieme con lui dal marito uccisa nell'atto
+stesso dell'adulterio incestuoso.
+
+	|103.~  Cio@e, che vuole che ogni amato riami, n@e consente
+il non riamare a chi che sia.
+
+	|106.~  Ad una morte medesima estinti da un istesso
+colpo.
+
+	|107.~  Ma |Caina~, luogo deputato nell'Inferno per
+quelli che uccidono a tradimento i suoi congiunti detto cos@i dal
+fratricida Caino, aspetta, e sta preparato per l'empio fratello,
+e crudel marito, che ci trucid@o.
+
+	|109.~  Latinismo poetico per ^offese~, e piuttosto
+offese, che punite e gastigate le dice vinto dalla compassione
+dell'appassionato loro amore infelice.
+
+	|111-112.~  Risponde a Virgilio, che gli aveva detto:
+|Che pense~? con questa esclamazione di compassionevol dolore. 
+|Lasso~ @e sincope di ^lassato~, e significa stracco, stanco,
+fiacco; e se ci@o per afflizione di animo avvenga, vale infelice,
+misero, meschino.
+
+	|117.~  Infelice, facendomi provare per compassione i
+vostri mali, e pietoso.
+
+	|120.~  Come vi palesaste quell'amore segreto in modo che
+scambievolmente venisse riconosciuto, quando prima sol
+dubbiosamente scoprivasi a qualche men sicuro e non certo segno,
+procedendo cautamente e guardinghi?
+
+	|123.~  Pi@u tosto che di Virgilio, l'intendo di Boezio,
+il di cui libro ^de Consol. Philos.~ era familiare a Dante nelle
+sue disgrazie: che per@o allude forse a quel detto della pros. 4,
+l. 2, ^In omni adversitate fortunae infelicissimum genus
+infortunii est fuisse felicem.~  I passi di Virgilio, che dal
+Landino vengono qui riportati e dal Vellutello, han s@i poco che
+fare con tal proposito che non porta la spesa, n@e @e pregio
+dell'opera il riferirli.
+
+	|127.~  Essendo oziosi, e senz'altro divertimento,
+leggevamo di Lancillotto Cavaliere celebrato ne' Romanzi (ma
+principalmente in quello intitolato ^Tavola ritonda~, ch'era in
+prezzo ai tempi di Dante) come egli invaghito di Ginevra giunse
+al suo intento.
+
+	|129.~  O l'uno dell'altro, o che altri sopraggiungesse.
+
+	|131.~  Quella lezione ci spinse a riguardarci
+amorosamente, e ad impallidirci e mutarci di colore.
+
+	|133.~  La bocca ridente di Ginevra.
+
+	|135.~  Paolo: n@e dice, non fia diviso, come se di ci@o
+lamentandosi si querelasse per desiderio che abbia di questa
+separazione: lo dice per compiacenza godendo, che non sia mai ci@o
+per avvenire; quantunque, non perch@e ne traesse piacere, data
+l'era tal compagnia, ma perch@e avesse sempre davanti agli occhi
+la cagione funesta della sua pena eterna.
+
+	|136.~  Per non esser certo del mio animo, e per esser
+effetto connaturale di quella passione il commuover cos@i in simil
+circostanza.
+
+	|137.~  Galeotto nome proprio di uomo che fu l'infame
+sensale tra Ginevra e Lancillotto.  Ma qui in senso di nome
+appellativo vuol dire, che quell'impura leggenda e il suo autore
+indusse Paolo e Francesca a quella enormit@a, come Galeotto quei
+due antichi amanti a corrispondersi illecitamente.  Benvenuto da
+Imola ci d@a contezza con tal nome essersi in quel tempo appellato
+chiunque facevasi mezzano d'intrighi d'amore: e quindi @e, che
+insegnandosi amorose malizie nelle cento novelle del Boccaccio,
+fu loro posto in fronte il cognome di Principe Galeotto, che
+ritengono nel titolo i testi antichi.
+
+	|138.~  Accenna ci@o che avvenisse, con modestia, e
+miglior garbo di Virgilio, quando tocca gentilmente il fortuito
+incontro di Didone con Enea nella spelonca.  Felicemente il P.
+d'Aquino trasporta: ^Distulimus post haec sontes evolvere chartas. 
+Sontes? heu miseram! gravius nocuere remotae~: sicch@e a chi
+interrogasse: ^quid tum~? si potrebbe rispondere il ^quid, quid
+tum, fatue~? di Terenzio.
+
+	|139.~  Mentre disse Francesca, piangeva Paolo.
+
+	|142.~  Verso espressivo di quel ^cadere.~

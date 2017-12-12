@@ -1,0 +1,1341 @@
+	|1.  Si parte~: si finisce -- Quando, terminato il
+giuoco, i giuocatori della zara partono dal tavoliere, si
+separano.  -- |Zara~: (anche ^zaro~, cfr. ^Poeti del primo
+secolo~, II, 255) giuoco di azzardo con tre dadi; prov. ^azar~,
+spagn. e port. ^azar~, catal. ^atsar~, nel basso lat. ^ludus
+azardi~, e ^ludere ad azarum~; forse dall'ebraico ^zarah~, arab.
+volg. ^zeh#ar~ e per contraz. ^z#ar~ -- dado; cfr. ^Diez~, ^Etym.
+W,orterb.~ 3+a~ ediz. I, pag. 41, 42.  Agli antichi il giuoco della
+zara era s@i noto che credettero superfluo il descriverlo, anzi
+l'^An. Fior.~ dice espressamente: <Che cosa sia il giuoco della
+Zara, il modo che tiene colui che vince quando si parte, ed il
+modo di colui che rimane ch'@a perduto, @e s@i noto e manifesto, che
+non ha bisogno d'altra declarazione.>  Gi@a da secoli il giuoco
+non si usa pi@u.  La miglior descrizione @e del ^Buti~, sebbene
+anch'essa non troppo evidente: <Nota che questo giuoco si chiama
+zara per li punti divietati che sono in tre dadi da sette in gi@u
+e da quattordici in su; e per@o quando vegnano quelli punti,
+dicono li giocatori: |Zara~, quas dica ^Nulla~, come zero
+nell'Abbaco; e questi sono vietati, perch@e non hanno tre parit@a
+come ha sette e qattordici e li punti che sono in quel mezzo;
+ecco sette hae tre parti@a: cio@e terno ed asso, cinque ed ambassi
+di uno e tre; e cos@i quattordici, seino e dua; quaderno e sei;
+cinquo e quattro; e cos@i l'altre volte che sono in quel mezzo: e
+questo non si trova in tre, in quattro, n@e in cinque, n@e in sei,
+n@e in quindici, n@e sedici, n@e dicesette, n@e diciotto, li quali
+vanno una o due al pi@u come pu@o vedere chi li ragguarda; et in
+due dadi esclusive da quattro in gi@u, e da diece in su, perch@e
+non possano venire se non in uno modo, come due ambassi; e tre,
+due et asso; undici, sei e cinque; dodici se non in uno modo,
+seino: e quelli che possano venire in due modi o in pi@u sono
+accettati come quattro, tre, assa e duino, e cos@i delli altri in
+fine a 10 che pu@o venire sei, quattro, e cinquo.>  Vedi anche
+^Blanc~, ^Versuch~ etc. II, pag. 16, 17.
+
+	|2.  Riman~: sul luogo del giuoco.
+
+	|3.  Le volte~: le voltate dei dadi, i punti --
+Riprovandosi a gettar i dadi, a far nuovi tiri.  -- |Impara~: a
+far punto migliore.  Al. A non fidar nella sorte.  Altri ancora:
+Che cosa sia giuoco.
+
+	|4.  L'altro~: col vincitore.  -- |Va~: per avere da lui
+qualche dono.
+
+	|6.  Reca a mente~: lo prega a ricordarsi di lui.
+
+	|7.  Ei~: il vincitore non si ferma ma continua il suo
+cammino, da audienza a tutti, promette e procura di liberarsi
+dalla calca.
+
+	|8.  A cui~: quegli a cui il vincitore porge la mano
+dandogli la mancia si toglie dal fargli calca intorno e se ne va
+pei fatti suoi.  -- |Pressa~: da ^premere~, calca, folla;
+anticamente anche ^prescia~: <Et appresso si mise per la prescia
+de' cavalieri, et tutti gli veniva abbattendo.>  ^Tav. Rit.~ ed
+^Polidori~, Vol. I, pag. 7.  Provenz. ^pressa~, ^preissa~; franc.
+^prese~; catal. ^pressa~, ecc.
+
+	|10.  Tal~: come il vincitore al giuoco della zara.  --
+|Turba~: di anime, che tutte mi pregavano di ricordarle nel mondo
+e di fare che altri preghi per loro.
+
+	|12.  Promettendo~: di procurar loro suffragi di
+preghiere divote.
+
+	|13.  L'Aretin~: messer Benincasa da Laterina, giudice
+d'Arezzo (^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Postil. Cass.~, ^Petr.
+Dant.~, ^Falso Bocc.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~,
+^Dan.~, ecc.), uomo dottissimo in iure civili (^Land.~);
+valentissimo in ragione, compagno di messer Accorso da Firenze
+che chios@o le leggi (^Anon. Fior.~); acuto in sapienza civile, ma
+eccessivamente presuntuso.  Interrogato dagli scolari di Bologna
+sopra una difficile questione di diritto rispose: <Andate da
+Accursio, da quello che lord@o tutto il corpo del Gius.>  (^Benv.
+Ramb.~).  Essendo assessore del podest@a (del senatore, ^Anon.
+Fior.~), ovvero vicario d'Arezzo (^Lan.~) Benincasa condann@o a
+morte uno (^Ott.~, ^An. Fior.~, ^Postill. Cass.~, ^Petr. Dant.~,
+^Falso Bocc.~, ^Benv. Ramb.~), secondo altri due (^Lan.~, ^Buti~,
+^Land.~, ^Vell.~, ^Dan.~) stretti parenti di Ghino di Tacco;
+alcuni dicono fosse un fratello, ignorandone il nome (^Postill.
+Cass.~, ^Benv. Ramb.~), altri chiamano questo fratello Cervo
+(^Lan.~), altri Tacco (^Ott.~, ^Dan.~) ed altri Turino (^An.
+Fior.~, ^Petr. Dant.~, ^Buti~, ^Land.~, ^Vell.~).  L'altro
+parente di Ghino cui Benincasa fece tagliare la testa si vuole
+fosse Tacco, padre (^Aquarone~), ovvero zio (^Lan.~, ^Buti~,
+^Land.~, ^Vell.~), oppure fratello (^Ott.~ ^Dan.~) di Ghino. 
+Secondo il ^Dan.~  Benincasa fece morire Tacco fratello di Ghino
+<e con lui un suo nipote Turno da Turrita.>  Il motivo che
+indusse Benincasa a condannare a morte questi parenti di Ghino si
+fu, che essi erano <rubatori et omini violenti, aveano tolto al
+comune di Siena uno castello che era in Maremma, e quive stavano
+e rubavano chiunque passava per la strada> (^Buti~).  Ghino non
+era per@o uomo da non vendicarsi.  Andato Benincasa a Roma come
+ufficiale (^An. Fior.~), o vicario di papa Bonifacio (^Lan.~),
+oppure giudice del tribuno di Roma (^Buti~), Ghino vi si rec@o e
+lo uccise <sulla sala dove si tiene la ragione> (^Lan.~), e se ne
+venne a salvamento con la testa, la quale gli aveva tagliata
+(^Buti~, ^Land.~, ^Vell.~, ^Dan.~).  Si confronti ^Gigli~,
+^Diario Sanese~, Lucca, 1723, Vol. II, pag. 312 e seg.
+
+	|14.  Ghin~: Ghino di Tacco Monaceschi de' Pecorai da
+Turita, de' Grandi di Siena (cos@i ^Aquarone~, ^Dante in Siena~,
+pag. 93 e seg.  L'^An. Fior.~, ^Post. Cass.~, ^Petr. Dant.~ lo
+chiamano <Ghino di Tacco d'Asinalunga); e ^Benv. Ramb.~ lo dice
+^De nobilibus de la Fratta Comitatus Senarum~; cos@i anche il
+^Carpellini~).  I pi@u antichi commentatori dicono fosse <grande
+rubatore> (^Lan.~, ^Ott.~, ^An. Fior.~, ^Postill. Cass.~), e il
+Boccaccio (^Decam.~ G. X, nov. 2) lo chiama <per la sua fierezza
+e per le sue ruberie uomo assai famoso.>  Ma ^Benv. Ramb.~
+osserva: ^Ideo, lector, volo quod scias, quod iste Ghinus non
+fuit ita infamis ut aliqui scribunt, quod fuerit magnus sicarius
+et spoliator stratarum.  Iste namque Ghinus Tacchi fuit vir
+mirabilis, magnus, membratus, niger pilo et crine, fortissimus,
+et Scoeva loevissimus, ut Papirus Cursus prudens et largus.~  Del
+suo modo di rubare racconta lo stesso Imolese: <Scacciato dai
+confini di Santa Flora, prese il castello di Radicofani al Papa. 
+Co' suoi servi e sgherri faceva molte e ricche prede tanto
+spesso, che niuno pi@u ardiva passare per quella strada.  Il
+passeggiero per altro che cadeva nelle di lui mani, partiva
+sempre contento.  S'era aggredito un mercante, Ghino bellamente
+lo interrogava quanto guadagno sperava dal suo mercato, e se
+l'aggredito diceva 500, Ghino ne riteneva 300 e gli restituiva
+gli altri 200 dicendogli: Voglio che tu possa seguitare a far
+negozi, e guadagni.  Al prete ricco e pinque toglieva la bella
+mula, ma gli sostituiva un asino da cavalcare.  S'era un povero
+scuolaro, invece di torgli il poco che aveva, gli regalava uno
+scudo o due, esortandolo a studiare ed a bene sperare.>  Il
+Boccaccio (^Decam.~ G. X, N. 2) e ^Benv. Ramb.~ che lo cita,
+raccontano che Ghino, dopo essere stato lungamente il terrore
+delle Maremme Sanesi e della stessa Corte romana, si
+riconciliasse con Papa Bonifazio VIII, e che questi lo creasse
+cavaliere di s. Giovanni e gli donasse una gran priora di quelle
+dello spedale.  Mentre per altro, soggiunge l'Imolese,
+passeggiava inerme in luogo detto Asina Lunga nel contado di
+Siena, fu assalito da molti armati, ed invano difendendosi cadde
+trafitto da mille colpi.  Cfr. ^Gigli~, l. c. ^Aquarone~, l. c.
+pag. 93-99, ecc.
+
+	|15.  L'altro~: Aretino.  Fu costui Guccio (^Lan.~,
+^Ott.~, ^An. Fior.~, ^Postill. Cass.~, ^Petr. Dant.~), o Lucio
+(^Benv. Ramb.~), ovvero Ciaccio (^Buti~) o Ciacco (^Land.~,
+^Vell.~, ^Dan.~), della nobile e potente famiglia dei Tarlati da
+Pietra Mala.  Di lui il ^Buti~: <Alla sconfitta di Monte Aperto,
+e di Campaldino, fu perseguitato da quelli di Rondina: unde
+fuggendo, e coloro cacciando, pervenne al fiume dell'Arno, e
+volendolo passare per paura de' nimici che 'l perseguitavano,
+anneg@o nel detto fiume.>  Col ^Buti~ vanno essenzialmente
+d'accordo ^Lan.~, ^Ott.~, ecc.  Il ^Dan.~ riferisce semplicemente
+che Ciacco <da gli inimici suoi cacciato, correndo, fu dal
+cavallo trasportato in Arno, et quivi annegossi>; ma non dice n@e
+chi fossero questi nemici, n@e quando ed in quale occasione ci@o
+avvenisse.  Che Ciacco trovasse la morte fuggendo affermano anche
+il ^Postill. Cass.~, ^Falso Bocc.~, e ^Petr. Dant.~ il quale
+racconta: ^Dum~ (^Guccius~) ^ordinasset quandam cavalcatam ad
+dictam terram Laterinae contra certos de Bostolis ibi manentes,
+inimicantes ei, tunc dicti Bostoli cum gente Florentinorum ibi
+occultata aggressi sunt eum, et fugando in flumen Arni suffocatus
+est.~  Invece ^Benv. Ramb.~ ci dice che <allorch@e i Tarlati
+facevano guerra coi Bartoli nobili aretini, esuli, nascosti nel
+castello della Rondine in val d'Arno, Lucio (Ciacco) mont@o a
+cavallo, e perseguitando i Bartoli, il cavallo troppo focoso lo
+trasport@o in Arno, e rest@o in un pelago affogato.  Cavata dalla
+melma la di lui salma, si dice, che dai Bartoli fosse per
+ludibrio saettato.>  Stanno coll'Imolese l'^An. Fior~, ed il
+^Land.~  Il ^Vellut.~ resta indeciso: <Costui, secondo che
+s'accordano tutti gli espositori, fu Ciacco de' Tarlati, e dicono
+che s'anneg@o in Arno; ma del modo si discordano, perch@e alcuni
+dicono, cacciato da nimici dopo quella di Monteaperti, et altri
+trasportato del cavallo nel perseguitar i Bostoli suoi nemici,
+famiglia molto nobile in Arezzo.>  Avendo scritto ^correndo in
+caccia~, ci sembra che anche Dante supponesse Ciacco aver trovato
+la morte ^perseguitando~ i suoi nemici, e non essendo
+perseguitato da essi.  Che ci@o avvenisse dopo la famosa battaglia
+di Monteaperti sembra assai improbabile.  Inquanto alla
+supposizione del ^Buti~, esser ci@o avvenuto dopo la battaglia di
+Campaldino, giove asservare che il ^Villani~ non menziona verun
+^Tarlati~ fra i caduti in quella battaglia.  Il tutto esaminato
+il racconto dell'Imolese ha la maggior verosimiglianza.  Si vede
+per@o da queste dissensioni che gli antichi stessi non ne sapevano
+molto.
+
+	|16.  Pregava~: Dante che ritornato al mondo pregasse per
+lui e lo ricordasse e raccomandasse ai suoi.  -- |Sporte~:
+stendendo le mani; atto di chi prega con grande affetto.
+
+	|17.  Federico~: figlio del conte Guido Novello dei conti
+Guidi del Casentino (^Lan.~, ^Ott.~, ^An. Fior.~, ^Falso Bocc.~,
+^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ecc.).  Fu ucciso da uno
+de' Bostoli d'Arezzo, Fornaiolo (^Lan.~, ^Falso Bocc.~) o
+Fumaruolo (^Ott.~) oppure <Fumaiuolo o Formaiolo di ser Alberto
+de' Bartoli> (^Benv. Ramb.~, ^Buti~).  Alcuni lo dicono morto
+nell'anno 1291, senza raccontare il modo con cui fosse ucciso
+(^Ammirati~, ^Storia de' Conti Guidi.~).  Il ^Lan.~, ^Ott.~,
+^Falso Bocc.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~
+non dicono in qual anno fosse ucciso.  L'^An. Fior.~ racconta:
+<Era in questa guerra detta di sopra (presso Bibbiena, avvenuta
+nel 1289; cfr. ^G. Vill.~ l. VII, c. 132) in ajuto a quei da
+Pietramala, et un d@i presso Bibbiena, essendo assalito da'
+Bostoli egli et sua brigata, uno dell'altra parte gli di@e d'una
+lancia, et cos@i mor@i in quella zuffa.>  Il ^Postill. Cass.~ dice
+che ^fuit occisus in bello Campaldini.~  Si vede dunque che i
+particolari non erano troppo noti nemmeno agli antichi.  ^Benv.
+Ramb.~ aggiunge: <Fu un buon giovane, e perci@o Dante ne fa
+ricordo.>  -- |Quel da Pisa~: questi fu un Federigo Pisano, morto
+da Marzucco padre di messer Vanni Scornigiani, lo quale l'ancise
+con grande affetto (contra effetto, ^Ott.~); cos@i falsamente
+^Lan., Ott.~  Gli altri antichi dicono questi essere Farinata
+figlio di Marzucco degli Scrovigiani o Scornigiani da Pisa: ^An
+Fior.~, ^Postill. Cass.~, ^Petr. Dant.~, ^Falso Bocc.~, ^Buti~,
+^Land.~, ^Vell.~, ^Dan.~, ecc.  Il ^Buti~ racconta: <Questi fu
+Farinata filliuolo di messer Marzucco de gli Scornigiani da Pisa:
+lo quale messer Marzucco fu cavalliere e dottore di legge, et
+essendo ito in Maremma cavalcando da Suvereto a Scherlino, ne la
+via si ferm@o lo cavallo per uno ismisurato serpente, che correndo
+attravers@o la strada, del quale lo detto messer Marzucco ebbe
+grandissima paura: et avvotossi di farsi frate minore, e cos@i
+fece poi che fu campato del periculo, non restato mai di correre
+lo cavallo infine a le porte di Scherlino....  Fatto frate lo
+detto messer Marzucco, avvenne caso che Farinata sopra detto suo
+filliuolo fu morto da uno cittadino di Pisa (da messer Boccio o
+Beccio da Caprona, ^An. Fior.~, ^Petr. Dant.~); unde lo detto
+messer Marzucco colli altri Frati di Santo Francesco, andati per
+lo corpo del detto suo filliuolo, come usanza @e, fece la predica
+nel capitolo a tutti consorti, mostrando con bellissime
+autoritadi e verissime ragioni che nel caso avvenuto non era
+nessuno milliore remedio che pacificarsi col nimico loro; e cos@i
+ordin@o poi che si fece la pace, et elli volse baciare quella mano
+che avea morto lo suo filliolo.>  Tutto diversamente racconta la
+cosa ^Benv. Ramb.~: <Udii dal carissimo Boccaccio da Certaldo, a
+cui pi@u credo d'ogni altro, che Marzucco (padre di ser Giovanni
+Scornigiani da Pisa, ucciso dal conte Ugolino tiranno, che di pi@u
+gli aveva troncato il capo, e voleva che il corpo restasse
+insepolto) si accostasse al conte Ugolino fingendosi uomo
+spensierato, e che nulla avesse che fare con lui, ed a ciglio
+asciutto, e senza commozione o dolore nel volto gli dicesse:
+^Sarebbe, o sire, dell'onor vostro che quel povero ucciso fosse
+sepolto, per non lasciarlo pasto ai cani~; cui il conte,
+riconoscendolo, rispose: ^Va che la tua pazienza vince la mia
+durezza~; e tosto Marzucco fece seppellire il figlio.>  Singolare
+che gi@a l'^An. Fior.~ conosce questi due s@i diversi racconti, e
+sembra non sapersi decidere.  Cfr. ^Sforza~, ^Dante e i Pisani~,
+p. 129 e seg.
+
+	|18.  Parer~: apparire: -- <nel sopportare la morte del
+figlio decapitato, e nell'ottenergli la vietata sepoltura.> 
+^Benv. Ramb.~  -- |Marzucco~: ebbe casa in Chinzia, nella
+parocchia di S. Cristoforo, e vi abitava, come rilevasi da uno
+instrumento del 16 di Maggio 1273.  A lui Guittone d'Arezzo
+rivolgea quella Canzone che incomincia: ^Messer Marzucco
+Scornigian, sovente Approvo magnamente Vostro magno saver nel
+secot stando.~  Sembra vestisse l'abito de' frati minori di S.
+Francesco nel torno del 1286, come del documento 18 aprile 1286
+da cui @e manifesto ch'egli fosse novizio.  Cfr. ^Sforza~, l. c.
+p. 130, 131, e ^Ferrazzi~, ^Man. Dant.~ Vol. IV, pag. 405.
+
+	|19.  Cont'Orso~: il ^Lan.~ e l'^Ott.~ non ci dicono chi
+costui fosse n@e come morisse.  Il ^Falso Bocc.~ lo dice <degli
+Abati>.  Secondo i pi@u fu costui degli Alberti di Firenze (^An.
+Fior.~, ^Post. Cass.~, ^Petr. Dant.~, ^Buti~, ecc.), e fu ucciso
+da' congiunti e da consorti suoi (^An. Fior.~, ^Petr. Dant.~,
+^Falso Bocc.~, ^Buti~, mentre il ^Postill. Cass.~ dice: ^fuit
+mortuus ab illis de Ubaldinis sibi vicinis~).  L'^Anon. Fior.~
+aggiunge che i suoi parenti lo uccisero <a tradimento, a fine di
+torgli il suo, e le fortezze che aveva in val di Bisenzio>. 
+Altri poi vogliono che il conte Orso fosse figlio del conte
+Napoleone di Acerbaja (^Benv. Ramb.~), oppure da Cerbaia
+(^Land.~, ^Vell.~, ^Dan.~), e che fosse stato ucciso per opera
+del conte Alberto da Mangona (cfr. ^Inf.~ XXXII, 57 nt.) suo
+cognato (^Benv. Ramb.~), o suo zio (^Land.~, ^Vell.~, ^Dan.~). 
+Il ^Land.~ riferisce del resto ambedue le opinioni e resta
+indeciso anzi che n@o, quantunque penda ad accettar l'ultima. 
+Cfr. anche ^Mazzoni Toselli~, ^Voci e passi di Dante~, Bologna
+1871, pag. 78-83.
+
+	|20.  Inveggia~: invidia; prov. ^enveja~, ^eveja~; franc.
+ant. ^enveia~; nel ^Parad.~ XII, 142, ^inveggiare~ per
+^invidiare.~  Cfr. ^Nannuc.~ ^Anal. crit.~ pag. 37, nt. 3.
+
+	|21.  Dicea~: l'anima stessa.  -- |Commisa~: commessa;
+cfr. ^Nannuc.~ ^Anal. crit.~ pag. 391, nt. 7, e pag. 400 e seg.
+
+	|22.  Pier dalla Broccia~: Pierre de la Brosse, di bassi
+natali, chirurgo di professione; seppe guadagnarsi il favore di
+Filippo l'Ardito re di Francia in modo da esserne fatto gran
+ciamberlano.  Allorch@e nel 1276 Luigi, figlio maggiore di
+Filippo, fu colto da morte improvvisa si sospett@o di veleno. 
+Pietro accus@o per quanto sembra Maria, figlia di Enrico VI duca
+di Brabante e moglie in seconde nozze di Filippo, d'aver fatto
+avvelenare il figliastro onde assicurare al proprio figlio la
+successione sul trono di Francia.  (Fra i commenatori antichi il
+solo ^Anon. Fior.~ accenna a questo fatto).  Purgata pi@u o meno
+giustamente la regina della colpa, Pietro incominci@o a cadere in
+disgrazia appo il re.  Quando poi Filippo guerreggiava con
+Alfonso X re di Castiglia, i nemici di Pietro lo accusarono di
+tradimento e fecero consegnare a Filippo lettere segrete ad
+Alfonso, che si pretendevano scritte da Pietro.  Per tali motivi
+Filippo lo fece impiccare.  (Cfr. ^Daniel~, ^Hist. de France~,
+Tom, IV, citato dal ^Fil.~ e l'erudita nota di quest'ultimo a
+questo luogo.)  Gli antichi, ignorando questa circostanza, dicono
+che Pietro fu ucciso ad istanze della regina (^Postill. Cass.~,
+^Petr. Dant.~, ^Falso Bocc.~), aggiungendo che ella lo accusasse
+appo il re d'aver cercato di violare la sua castit@a (^Lan.~,
+^Ott.~, ^An. Fior.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~,
+^Dan.~).  Dante sembra credesse Pietro innocente.  ^Petr. Dant.~
+dice espressamente che il gran ciamberlano fu condannato
+^individia potius quam delicto.~  E ^Benv. Ramb.~ osserva: <Pure
+l'opinione del volgo era contraria a Piero, e Dante, nell'esiglio
+suo, trovatosi a Parigi, cerc@o di avverare tal fatto, e pei suoi
+rilievi ebbe a coscienza di porlo salvo in Purgatorio, e di
+restituirgli un nome, come aveva fatto a Pier delle Vigne.> 
+Alcuni dicono spensieratamente che Pier dalla Broccia fosse
+segretario e consigliere di Filippo il Bello, figlio di Filippo
+l'Ardito e figliastro di Maria di Brabante.  Cos@i ^Benv. Ramb.~,
+^Land.~, ^Vell.~, ^Dan.~, ^Volpi~, ^Vent.~, ^Portir.~, ^Pogg.~,
+^Biag.~, ^Costa~, ^Borghi~, ^Wagn.~, e persino i francesi
+^Ozan.~, ^Pier. Ang. Fior.~, ^Brizeux~, ^Ratisb.~, ecc.  Da qu@i
+si rileva quanto spesso i commentatori trascrissero semplicemente
+l'un l'altro senza curarsi di avverare i fatti.  -- |Provveggia~:
+voce dell'uso per ^proveda~; -- abbia cura di s@e stessa, facendo
+penitenza dell'aver cooperato a far morire quell'innocente.
+
+	|23.  Di qu@a~: in questo mondo, detto relativamente al
+luogo in cui era il Poeta scrivendo.  Maria, la |donna di
+Brabante~, mor@i nel 1321, nello stesso anno in cui mor@i Dante. 
+Ella pot@e dunque leggere questi versi, e forse lo fece.
+
+	|24.  Per@o~: per questo suo peccato di aver procacciato
+la morte di un innocente.  -- |Non sia~: nell'altro mondo.  --
+|Peggior~: che non @e quella dei negligenti nell'antipurgatorio,
+cio@e della greggia dei dannati.
+
+	|25.  Libero~: i Poeti procedono innanzi, le ombre
+restano indietro.
+
+	|26.  Pur~: che, esse pure, come le altre, imploravano il
+beneficio di suffragi.  -- |Altri~: congiunti, parenti ed amici
+non ancor morti.
+
+	|27.  S'avacci~: si affretti.  -- |Divenir sante~: il
+purgarsi da ogni reliquia di peccato venendo ammesse nei cerchi
+^dove l'umano spirito si purga e di salire al ciel diventa
+degno.~
+
+	|28.  E' par~: egli mi sembra.
+
+	|29.  O luce~: cos@i chiama Virgilio perch@e rischiaravalo
+in ogni dubbio.  -- |Espresso~: espressamente.  -- |In alcun
+testo~: in un luogo del tuo Poema.  Pregando Palinuro Enea che il
+passasse Acheronte, la Sibilla risponde (Virg. Aen. l. VI, v.
+372-375):
+
+     ^Unde haec, o Palinure, tibi tam dira cupido~?
+     ^Tu Stygias inhumatus aquas, amnemque severum~
+     ^Eumenidum adspicies, ripamve injussus adibis~?
+     ^Desine fata de#um flecti sperare precando.~
+
+	|30.  Pieghi~: che preghiera abbia forza di far mutare
+ci@o che in cielo @e ordinato.
+
+	|31.  Questa gente~: Al. ^queste genti pregan.~  --
+|Pur~: pregan soltanto di ci@o che secondo la tua sentenza non
+gioverebbe loro nulla, cio@e che si cerchi di piegare i decreti di
+Dio mediante preghiera.
+
+	|32.  Speme~: che il lor divenir sante s'avacci se altri
+prega per esse.
+
+	|33.  Non m'@e~: o forse non ho io ben inteso la tua
+sentenza?
+
+	|34.  Piana~: chiara; dunque tu l'hai ben intesa.
+
+	|35.  Speranza~: che i suffragi dei viventi giovino loro. 
+-- |Non falla~: non @e fallace.
+
+	|37.  Guidicio~: divino.  -- |Non s'avvalla~: non
+s'abbassa, non rimette del suo rigore.  <La giustizia non perde
+se in poco tempo l'anima espia.>  ^Tom.~  |Cima di giudizio~ @e
+l'^apex juris~ dei giuresconsulti.
+
+	|38.  Perch@e~: perquantoch@e l'ardore di carit@a dei vivi
+compia in un punto ci@o che le anime devono soddisfare in molto
+tempo.
+
+	|39.  S'astalla~: ha stallo o stanza.  Al. ^si stalla.~ 
+-- <Dice Virgilio che, poi che la sentenzia @e data, mai non si
+rivoca, mai non torna addirietro, se la pena non si paga, s@i che
+il libro suo dice vero; ma che e' puossi pagare questa pena et
+scorciare questo tempo per meriti di coloro che vivono, ch@e
+andando a' perdoni, o veramente, come dice santo Gregorio, che
+l'anime di quelli che sono in Purgatorio in quattro modi
+s'assolvono, o per offerte di sacerdoti, o per prieghi di santi
+uomini, o per limosine de' figiuoli, per digiuni di parenti.  Ma,
+per tornare alla singularit@a che tocca l'Auttore, la voce del
+pregatore pu@o essere di tanto merito et tanta accetta a Dio, che
+paga la pena et il tempo che colui ha a stare in Purgatorio per
+cui egli priega: tutto a simile come uno che fosse in prigione
+per cento lire, un altro che le pagasse uscirebbe il buon uomo di
+prigione, et la sentenzia del giudice non si romperebbe, avvegna
+Iddio che 'l condennato non pagasse, e gli fosse pure un altro
+che pagassi per lui.  Cos@i il giudicio di Dio non si china, la
+sentenzia di Dio non si piega, se 'l prego del giusto uomo @e di
+tanto peso, che aggravi pi@u la bilancia che la colpa commessa dal
+pccatore.>  ^An. Fior.~
+
+	|40.  L@a~: nell'Inferno, dove la Sibilla parla a
+Palinuro, cfr. v. 29 nt.  -- |Fermai~: stabilii che l'ordine
+fatale della provvidenza non si piega per preghiere.
+
+	|41.  Difetto~: colpa.
+
+	|42.  Disgiunto~: chi pregava non era nella grazia di
+Dio, la sua preghiera perci@o non era in ciel udita: cfr. ^Purg.~
+IV, 133-135.  ^Et hoc est quod hic tangit auctor juxta illud~:
+distingue tempora, et concordabunt scripturae.  ^Nam cum tunc
+gratia esset disjuncta, idest separata a Deo in nos ratione etc. 
+Verum hodie cum in tempore gratiae simus, tantus fervor potest
+esse in momento, quod supplet et adimplet quod cursus plurium
+annorum debebat purgare.~  Petr. Dant.
+
+	|43.  Veramente~: ma.  -- |Alto sospetto~: profondo e
+sottil dubbio.  ^Vell.~
+
+	|45.  Lume fia~: che far@a s@i che l'intelletto tuo arrivi
+a conoscere il vero, come il lume fa che l'occhio vegga l'oggetto
+com'@e.  ^Lomb.~  Virgilio, il simbolo dell'autorit@a imperiale
+(cfr. ^Inf.~ II, 70, nt.), non scioglie quesiti teologici, ma
+rimanda Dante a Beatrice, simbolo dell'autorit@a ecclesiastica. 
+Quegli deve dirigere l'uomo ^secundum philosophica documenta ad
+temporalem felicitatem~; questa deve condurre l'umano genere
+^secundum revelata ad vitam aeternam~ (^De Mon.~ l. III, c. 16). 
+Quest'ultima @e dunque la mediatrice fra il cielo e l'umanit@a.
+
+	|47.  Di sopra~: nel Paradiso terrestre, cfr. ^Purg.~
+XXX, 32 e seg.
+
+	|48.  Ridere~: Al. ^rldente e felice~, -- allegra e
+beata.
+
+	|49.  Signore~: Al. ^Buon duca.~  -- |Andiamo~: non
+appena il nome di Beatrice @e pronunciato Dante acquista nuove
+forze e nuovo coraggio.  <Al nome di Beatrice il Poeta si sente
+rinvigorito dal desiderio e gi@a ascende coll'anima le altezze del
+monte; perch@e il desiderio di vedere lei si confonde col bisogno
+di conoscere la verit@a.>  ^Tom.~  -- |A maggior fretta~: pi@u
+tosto.
+
+	|50.  Non m'affatico~: e per la natura del monte
+sopradetta, tale che ^quanto uom pi@u va su, e men fa male~, Purg.
+IV, 88 e seg., e molto pi@u per aver inteso che in cima ad esso
+monte riveder doveva l'amata Beatrice.  ^Lomb.~
+
+	|51.  Getta~: al principio del Canto V era gi@a passato il
+mezzod@i; e ne' colloqui sin qu@i tenuti, era scorso tanto tempo,
+che il sole era ormai occultato dalla costa a destra de' Poeti, i
+quali salivano nella direzione di prima; s@i che rimanevano essi
+nell'ombra, e Dante non faceva quindi rompere col suo corpo i
+raggi del grand'astro diurno; come ne' versi 56 e 57 @e detto pi@u
+espressamente.  Erano le tre pomeridiane passate.  Cfr.
+^Antonelli~ ap. ^Tom.~
+
+	|52.  Anderem~: continueremo il nostro cammino su pel
+monte pi@u che col sole potremo.
+
+	|54.  @E d'altra forma~: la salita @e pi@u lunga e pi@u
+difficile di quello che tu non pensi.  -- |Stanzi~: pensi,
+supponi; da ^stanziare~ che corrisponde al lat. ^statuere.~
+
+	|55.  Lass@u~: sulla vetta di questo monte.
+
+	|56.  Colui~: il sole.  Quando incominciarono a salire
+era la mattina del luned@i dopo Pasqua; sulla vetta del monte non
+giungono che la mattina del gioved@i seguente.
+
+	|57.  Non fai~: coll'ombra, come facevi prima, quando il
+sole era a levante, ^Purg.~ V, 25.
+
+	|58.  Posta~: a sedere; Al. ^a posta~ -- fissamente; cfr.
+^Inf.~ XXIX, 19.
+
+	|59.  Sola~: come Saladino nel limbo, ^Inf.~ IV, 129.
+
+	|60.  Tosta~: corta.
+
+	|61.  O anima~: esclamazione del Poeta che scrivendo si
+risovviene del grave aspetto e del dignitoso contegno di quello
+spirito.  -- |Lombarda~: era Mantovano, ^Purg.~ VII, 86, dunque
+nato in Lombardia.  Alcuni pensano che le parole |O anima~ ecc.
+le siano parole di Virgilio, dirette a Sordello, ci insegnano che
+Virgilio all'abito (?) ed alle fattezze del volto conoscesse che
+quell'anima fosse lombarda, e leggono poi nel verso seguente:
+^Come tu stai altiera~, ecc.  Cos@i il ^Buti.~  Ci pare superfluo
+di combattere tale opinione.  Nei versi di Dante non @avvi indizio
+veruno che n@e egli n@e Virgilio volgessero la parola al Mantovano.
+
+	|62.  Come ti stavi~: Al. ^come te stai~, ^come tu stai~,
+ecc.  -- |Altera~: in nostra lingua diciamo altiero e disdegnoso
+colui, che per eccellentia d'animo non risguarda n@e pon pensiero
+a cose vili, n@e quelle degna.  S@i che dimostra una certa
+schifezza generosa e senza vizio.  Perciocch@e quando uno sprezza
+non per grandezza d'animo, ma per troppa alterigia, non altiero,
+ma superbo si chiamer@a.  E cos@i chi per la medesima alterigia non
+si acqueta ad alcuna cosa, @e detto ritroso.  Onde il Petrarca us@o
+tali vocaboli in propria significazione quando disse: Altiera et
+disdegnosa; Non superba o ritrosa.  ^Land.~  ^Altero e
+disdegnoso~ @e chi per nobilt@a di animo disprezza ogni cosa
+ignobile.
+
+	|63.  Tarda~: cfr. ^Inf.~ IV, 112.  -- <Specchio della
+mente @e la faccia; e gli occhi, anche che tacciano, confessano li
+segreti del cuore.>  ^Bart. da S. Conc.~ ^Amm. degli Ant.~ Dist.
+VII, c. I, n. 6.
+
+	|64.  Non ci diceva~: ^homo sapiens tacebit usque ad
+tempus.~  Eccl. Sir. XX, 7.  Il ^Gioberti~ osserva: <Che
+differenza tra la curiosit@a e il cicaleccio degli altri spiriti,
+e questo maestoso silenzio di Sordello!  Cos@i Dante sa preparare
+i suoi quadri, e far servir gli uni a dar risalto agli altri.>
+
+	|65.  Sguardando~: Al. ^guardando~: quest'ultima lezione
+non disegna e non lascia cos@i ben vedere lo sguardo che
+lentamente segue i varii movimenti delle persone circostanti.
+
+	|66.  Si posa~: giace.  ^Requiescens accubuisti ut leo,
+et quasi leoena, quis suscitabit eum.~  Gen. XLIX, 9.
+
+	|67.  Pur~: nonostante l'alterigia, il disdegno ed il
+grave contegno di quell'anima.  -- |Si trasse~: le si avvicin@o
+per pregarla.
+
+	|68.  Salita~: al monte.
+
+	|69.  Non rispose~: volendo prima sapere con chi parla. 
+Secondo il ^Land.~ questo silenzio di Sordello dinota non esser
+egli stato studioso di scienze filosofiche e teologiche, ma
+soltanto storiche e geografiche, e non aver egli pertanto potuto
+ragionar d'altro.  Ma nel canto seguente Sordello parler@a ben
+d'altro che di storia e geografia.
+
+	|70.  Vita~: della nostra condizione.  -- <Sordello avea
+contemplati Dante e Virgilio in silenzio, non affettato da
+volgare curiosit@a; e forse anco scorto, affissando i loro volti,
+qualche cosa di italiano, che avea risposto al suo intelligente
+amore di patria: o almeno l'aver conosciuto Dante essere uom
+vivo, il rendea vago di conoscere chi ei si fosse.  Comunque sia,
+la sua curiosit@a @e degna di savio; non irreflessiva, subita, ma
+posata e piena di saggezza.>  ^Gioberti.~  Da ^Purg.~ VIII, 58-68
+risulta che Sordello |non~ avea conosciuto Dante essere uom vivo.
+
+	|71.  C'inchiese~: ci domand@o; Al. ^ci chiese.~  --
+|Dolce~: affabile, manieroso.
+
+	|72-73.  Mantova~: Virgilio voleva continuare ^fu mia
+patria~, oppure ^mi gener@o~, o simili; ma fu interrotto
+dall'ombra.  -- |Romita~: tutta in s@e raccolta, concentrata.  --
+|Surse~: si alz@o da sedere e corse incontro a Virgilio per
+abbracciarlo.  -- <All'udire il nome di |Mantova~ ecco l'ombra
+sorge dal suo loco, e grida: ^Anch'io di Mantova~; ed abbraccia
+Virgilio prima di sapere chi egli sia, ma per lo solo intendere
+ch'egli @e ^Mantovano.~  Imagine efficace, vera, mirabile; che
+tutta ritrae la forza che sugli animi grandi ha il suono della
+patria, n@e possibile e cadere in una mente che intera non senta
+la gentilissima dolcezza di questo nome.  Per lo quale Dante,
+come compreso da un subito impeto, spezza il racconto; si
+dimentica di Virgilio e dell'ombra; entra in iscena solo, quasi
+confessando che nella imagine di quel Sordello egli ha dipinto s@e
+stesso.  E cos@i, squarciato ogni velame poetico, comincia dal far
+vergognare i vivi, loro additando i morti che per la patria
+s'abbracciano sulle porte del Purgatorio.>  ^Perticari~, ^Amor
+patrio di Dante~, {paragraph.} VIII; Opere, Mil. 1823, Vol. I,
+pag. 242 e seg.
+
+	|74.  Sordelllo~: de' Visconti da Mantova, celebre
+trovatore italiano del secolo XIII, che scrisse in lingua
+provenzale.  ^Sordellus de Mantua~ -- -- ^tantus eloquentioe vir
+existens non solum in po,etando, sed quomodolibet loquendo,
+patrium vulgare deseruit~; cos@i Dante medesimo ^De Vulg. elog.~
+l. I, c. 15.  Di Sordello vedi la disgressione in fine del
+presente canto.
+
+	|76.  Serva~: perch@e non governata dal monarca da lui
+ideato, e perch@e signoreggiata da una quantit@a di principi,
+dinasti, dal volgo, dalle cos@i dette libert@a popolari, da
+demagoghi e tirannelli di ogni sorta.  ^Humanum genus existens
+sub Monarcha est potissime liberum~; De Mon. l. I, c. 12. 
+L'Ariosto, ^Orl.~ XVII, 76:
+
+     O d'ogni vizio fetida sentina,
+     Dormi, Italia imbriaca, e non ti pesa
+     Ch'ora di questa gente, ora di quella,
+     Che gi@a serva ti fu, sei fatta ancella?
+
+-- |Ostello~: abitazione, albergo.  Della corte romana il
+Petrarca: ^Fontana di dolore, albergo d'ira.~  -- <Chiama Italia
+serva, per@o che non @e, secondo il suo giudicio, sotto il suo
+signore; ch@e vuole dire l'Auttore che lo 'mperatore debbe nel
+temporale essere signore, et il Papa nello spirituale; -- -- ma
+dice essere Italia sotto mille tiranni, et pertanto la chiama
+serva.>  ^An. Fior.~
+
+	|77.  Senza nocchiero~: senza governatore, senza
+imperatore.  ^O genus humanum! quantis procellis atque iacturis,
+quantisque naufragiis agitari te necesse est, dum bellua multorum
+capita factum, in diversa conaris.~  De Mon. lib. I, c. 16.  Cfr.
+^Conv.~ tr. IV, c. 4.
+
+	|78.  Donna~: signora.  ^Facta est quasi vidua domina
+gentium; princeps provinciarum facta est sub tributo.~  Thren.
+Jerem. c. I, 1.  -- |Bordello~: lupanare; perch@e, dice ^Benv.
+Ramb.~ come nei lupanari si vende a prezzo senza rossore la carne
+umana, cos@i la gran meretrice, cio@e la Curia Romana e la Curia
+Imperiale, vendono la libert@a dell'Italia.  Secondo altri Dante
+usa qu@i |bordello~ nel senso di ^meretrice.~  Cosi ^Biag.~, ^Br.
+B.~, ^Greg.~, ^Filal.~ ecc.
+
+	|79.  Anima~: Sordello.
+
+	|80.  Dolce suon~: nome che si ode con piacere.
+
+	|81.  Cittadin~: concittadino.  -- |Quivi~: nel
+Purgatorio, dove tutte le anime appartengono ad una sola citt@a,
+cfr. ^Purg.~ XIII, 94, 95, dove conseguentemente non si potrebbe
+pretendere altro amore fra compatriotti.
+
+	|82.  Ed ora~: Vuol dire che, se la medesimanza della
+patria, quantunque in diversi tempi ottenuta, rendeva Sordello
+cos@i a Virgilio affezionato, molto pi@u amare si dovevano i
+contemporaneamente viventi dentro delle medesim mura.  ^Lomb.~
+
+	|84.  Fossa~: fosso, che per maggior difesa gira intorno
+alle citt@a.  Cos@i ^Lan.~, ^Ott.~, ^An. Fior.~, ^Postill. Cass.~,
+^Buti~, ^Vell.~, ^Dan.~, ^Dan.~, ^Vent.~, ^Lomb.~ ecc.  ^Benv.
+Ramb.~ intende ^arca~ sepoltura: ^Quia multi in morte sepeliuntur
+simul, qui non possunt stare simul in vita.~  Ma cosa ha che fare
+il venir seppelliti insieme col non stare senza guerra?  Vuol
+forse Dante dire che persino i morti fanno guerra nel sepolcro?!
+
+	|85.  Intorno dalle prode~: gli Stati tuoi lungo i due
+mari, tirreno ed adriatico.
+
+	|86.  Marine~: citt@a marittime.  -- |In seno~: i tuoi
+Stati infra terra.
+
+	|88.  Il freno~: l'Italia ostello, nave e bordello,
+diventa cavalla; l'imperatore il cavaliere.  Cfr. ^Parad.~ VI,
+12: ^D'entro alle leggi trassi il troppo e il vano.~  Pel freno
+si intendono le leggi.  -- <Che giova perch@e Justiniano
+imperadore compilasse le leggi e correggessele: le quali leggi
+sono lo freno con che si governano le republiche, come lo cavallo
+col freno.>  ^Buti.~
+
+	|89.  Giustiniano~: cfr. ^Parad.~ VI, 10 e seg.  --
+|V#ota~: cfr. ^Purg.~ XVI, 97: ^Le leggi son, ma chi pon mano ad
+esse~?  -- <Quasi dire si pu@o dello Imperadore, volendo il suo
+ufficio figurare con una immagine, che elli sia il cavalcatore
+della umana volont@a, lo qual cavallo come vada sanza il
+cavalcatore per lo campo assai @e manifesto, e spezialmente nella
+misera Italia che sanza mezzo alcuno alla sua governazione @e
+rimasa.>  ^Conv.~ tr. IV, c. 9.
+
+	|90.  Esso~: Giustinano.  Cfr. ^Fanfani~, ^Studj ed
+Osservazioni~, Fir. 1873, pag. 83.  La vergogna sarebbe minore se
+Giustiniano non avesse riordinato le leggi.  -- |Fora~: sarebbe. 
+I Latini invece di ^essem, esses, esset, essent~ dissero ^forem,
+fores, foret, forent.~  Quindi gl'Italiani ^io fore, tu fore~
+ecc. per ^io sarei, to saresti~ ecc.  Poscia si terminarono in
+^a~, ^io fora, tu fora, egli fora, eglino forano~, per uniformit@a
+di cadenza con ^saria, sariano.~  Cfr. ^Nannuc.~ ^Anal. crit.~
+pag. 475.  -- |Vergogna~: d'esser rimasta l'Italia senza capo, e
+divisa e straziata dalle fazioni.
+
+	|91.  Gente~: preti; cos@i ^An. Fior.~, ^Falso Bocc.~,
+^Benv. Ramb.~, ^Dan.~, ^Lomb.~, ^Biag.~, ^Ces.~, ^Rosset.~,
+^Wag.~, ^Br. B.~, ^Greg.~, ^Andr.~, ^Camer.~, ^Berlan~, ecc.  --
+Sudditi: ^Lan.~, ^Ott.~, ^Petr. Dant.~  -- Gente italica; ^Buti~,
+^Land.~, ^Vell.~  -- Guelfi; ^Vent.~, ^Portir.~, ^Pogg.~,
+^Costa~, ^Borghi~, ^Gioberti~, ^Tom.~, ^Fratic.~, ^Bennass.~,
+^Frances.~, ecc.  Nel ^Parad.~ XVI, 58, il Poeta chiama i papi,
+vescovi, preti e simile lordura ^La gente che al mondo pi@u
+traligna.~  Bene Benv. Ramb.: ^Gens sacerdotalis.  Et non dicas
+gens Italica, sicut quidan exponunt et non bene.~  -- |Esser
+devota~: attendere alle cose di religione.
+
+	|92.  Seder~: lasciare all'imperatore il governo delle
+cose temporali.  Cfr. ^Virg.~ ^Aen.~ lib. I, v. 62, 63:
+
+          -- ^Regemque dedit, qui foedere certo~
+     ^Et premere, et laxas sciret dare jussus habenas.~
+
+-- |Nella sella~: Al. ^in la sella~, lezione che a prima vista
+sembra preferibile, come quella che toglie i due suoni uguali --
+^ella~, ^ella~ --.  Ma gli antichi scrissero e pronunziarono
+separato ^ne la.~
+
+	|93.  Ti nota~: nel Vangelo.  Se dai il vero senso a
+quanto sta scritto nei libri sacri.  ^Reddite quae sunt Caesaris,
+Caesari, et quae sunt Dei, Deo.~  Matth. XXII, 21.  ^Reges gentium
+dominantur eorum; et qui potestatem habent super eos, benefici
+vocantur.  Vos autem non sic: sed qui major est in vobis, fiat
+sicut minor: et qui praecessor est, sicut ministrator.~  Luc.
+XXII, 25, 26; Matth. XX, 25; Marc. X, 42.  ^Regnum meum non est
+de hoc mundo~; Joan. XVIII, 36.  ^Omnis anima potestatis
+sublimioribus subdita sit~ -- --  ^Qui resistit potestati, Dei
+ordinationi resistit.~  Ad Rom. XIII, 1, 2.  ^Subiecti igitur
+estote omni humanae creaturae propter Deum, sive regi, quasi
+prooecellenti; sive ducibus, tamquam ab eo missis ad vindictam
+malefactorum, laudem vero bonorum.  Quia sic est voluntas Dei.~  I
+Ep. Petr. II, 13-15; e cento altri passi consimili.
+
+	|94.  Guarda~: tu, o gente, che dovresti esser devota. 
+Altri men bene: <Tutte queste parole volge ad Alberto
+imperadore.>  ^An. Fior.~, e cos@i pure ^Lan.~, ^Ott.~, ^Benv.
+Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ^Vent.~, ecc.  Fra i
+moderni nessuno accett@o tale opinione, eccettuatone forse
+l'^Eitner~, che per@o non si esprime con troppa chiarezza.  Tutti
+gli altri intendono che il Poeta rinfaccia al clero d'aver voluto
+pigliare le redini del governo.  Cos@i ^Lomb.~, ^Portir.~,
+^Pogg.~, ^Biag.~, ^Costa~, ^Ces.~, ^Ross.~, ^Borghi~, ^Tom.~,
+^Ambr.~, ^Br. B.~, ^Frat.~, ^Greg.~, ^Andr.~, ^Bennass.~,
+^Camer.~, ^Berlan~, ^D'Aquino~, ^Piazza~, ^Kanneg.~, ^Streckf.~,
+^Filal.~, ^Guseek~, ^Kop.~, ^Blanc~, ^Witte~, ^v. Hoffin.~,
+^Krig.~, ^Nott.~, ^Ozanam~, ^Aroux~, ~P. A. Fior.~, ^Brizeaux~,
+^Ratisb.~, ^Longf.~, ^Hacke v. M.~ ecc.  Badisi infatti che chi
+ha posto mano alla ^predella~ {v.96} @e precisamente la ^gente~
+{v.91} che dovrebbe essere devota, e che nella terzina seguente
+il Poeta accusa Alberto appunto del contrario, cio@e di
+abbandonare l'Italia.  -- |Esta~: questa.  -- |Fiera~: l'Italia. 
+-- |Fella~: stizzosa, biliosa; @e ^indomita~, v. 98, dunque
+rivoltosa.
+
+	|95.  Per~: per la ragione che essa non @e |corretta~,
+cio@e bene guidata, bene diretta dagli sproni di capace
+cavalcatore, di un savio imperatore.
+
+	|96.  Ponesti~: poich@e tu, gente, presumesti di menar
+questo cavallo, cio@e reggere Italia, a tuo senno.  Gli antichi
+citati nella nt. al v. 94, i quali vogliono che le parole
+^Guarda~ {v.94} ecc. siano rivolte ad Alberto, spiegano: Guarda
+come poich@e tu fosti eletto imperatore l'Italia @e divenuta
+rest$ia.  -- |Predella~: descende da questo nome ^praedium,
+praedii~, che @e la possessione, overo villa, overo campo.  ^Lan.~ 
+Cos@i pure ^Ott.~, ^Vent.~, ^Ces.~, ^Borghi~, ecc.  -- Quello
+ferro del freno per montare in cavallo; ^An Fior.~  -- Quella
+parte della briglia che si tiene in mano quando si cavalca;
+^Buti~, ^Land.~, ^Vell.~, ^Volpi~, ^Pogg.~, ^Biag.~, ^Ambr.~,
+^Andr.~, ^Bennass.~, ^Camer.~  -- Sinonimo di briglia, dal lat.
+barb. ^brida~; ^Dan.~, ^Costa~, ^Fratic.~, ^Greg.~  -- Seggio,
+sgabello; ^Lomb.~, ^Portir.~, ^Diez~ (^Etym. W,orterb.~ Vol. II,
+p. 55).  -- Quella parte della briglia che va alla guancia del
+cavallo sopra il morso; da ^brida, bridella, bredella~, col.
+%beta%rho%upsilon%tau%eta%rho\ invece di
+%rho%upsilon%tau%eta%rho\, affine a ^briglia~, e
+%varphi%rho%alpha%tau%tau%omega\, fr. ^bride~, ted. antico nel
+Tristano 7045 ^Britel~; ^Wagn.~, ^Tom.~, ^Frances.~, ^Br. B.~,
+^Blanc~, ^Berlan.~  Qualunque siasi il significato della voce
+|predella~, il concetto del Poeta @e senza dubbio di rimproverare
+ai Papi l'aver eglino posto mano al dominio temporale.  Si
+confrontino le pazze pretensioni di Bonifazio VIII nella famosa
+bolla ^Unam sanctam~, che si chiude colle parole: ^Purro subesse
+Romano Pontifici, omni humanae creaturae declaramus, dicimus et
+definimus omnino esse de necessitate salute.~
+
+	|97.  Alberto~: d'Austria, figliuolo dell'imperatore
+Rodolfo di Absburgo, nato nel 1248, eletto all'impero nel 1298,
+ucciso da sua cugino Giovanni di Svevia presso Renof#elda il 1
+maggio 1308.  Le cose di Germania non permisero a questo
+imperatore di passare in Italia.  Vedi la Storia Germanica.
+
+	|98.  Costei~: l'Italia, della quale parlando usa sempre
+la figura del cavallo.  -- |Indomita~: non ubbidisce n@e
+all'imperatore n@e al papa, non ha freno n@e dall'una n@e dall'altra
+parte.  --
+
+	|99.  Inforcar~: montare.  -- |Arcioni~: per tutta la
+sella da cavalcare.
+
+	|100.  Giudizio~: castigo.  -- |Dalle stelle~: non avendo
+l'imperatore secondo il sistema politico di Dante altro superiore
+che Dio, non pu@o venir punito che da Dio solo.  Allude qu@i il
+Poeta al fine tragico di Alberto d'Austria, ma esprime tale
+allusione in forma di imprecazione od augurio, perch@e l'anno
+della sua visione @e il 1300.
+
+	|101.  Nuovo~: insolito, maraviglioso, non pi@u veduto. 
+Cos@i usarono anche i Latini ^novus~ per ^mirandus~, ^inauditus~
+ecc.  -- |Aperto~: patente e manifesto a tutti.  Per Dante
+l'uccisione di Alberto @e un evidente giudizio del cielo, che
+volle con ci@o punirlo di non aver dato retta n@e ascolto ai
+ghibellini italiani, i quali gli facevano istanze perch@e calasse
+in Italia.
+
+	|102.  Successor~: Arrigo VII di Lussemburgo, quegli cui
+Dante scrisse una lettera e dal quale sperava la liberazione
+d'Italia.  -- |Temenza~: timore; prov. ^temenza~ e ^timen$ca.~  --
+|Aggia~: abbia; |aggia~ da ^ajere~, pel solito scambio del ^j~ in
+due ^g~; cfr. ^Nannuc.~ ^Anal. crit.~ pag. 508; ^Blanc~, ^Ital.
+Gramm.~ pag. 389, 395.
+
+	|103.  Ch@e~: perciocch@e.  -- |Tuo padre~: Rodolfo di
+Asburgo, che neanche lui non iscese mai in Italia; cfr. ^Purg.~
+VII, 94. ^Parad.~ VIII, 72.  Nel ^Conv.~ tr. IV, c. 3: <Federico
+di Soave, ultimo imperadore de' Romani, -- e dico ultimo per
+rispetto al tempo presente; non ostante che Ridolfo e Adolfo e
+Alberto poi eletti sieno appresso la sua morte e de' suoi
+discendenti.>  Erano gi@a sessant'anni che gli imperatori
+germanici non erano calati in Italia, quando Arrigo VII vi
+discese.
+
+	|104.  Per cupidiga~: Nel detto anno 1291 mor@io il re
+Ridolfo d'Alamagna, ma non pervenne alla bededizione imperiale,
+perch@e sempre intese a crescere suo stato e signoria in Alamagna,
+lasciando le imprese d'Italia per accrescere terra e podere a'
+figliuoli, che per suo procaccio e valore di piccolo conte
+divenne imperadore, e acquist@o in proprio il ducato d'Osterich, e
+gran parte di quello di Soavia.  ^G. Vill.~ lib. VII, pag. 146. 
+-- |Di cost@a~: per avidit@a di acquistar terre e ricchezze in
+Germania.  -- |Distretti~: ritenuti nei vostri Stati
+d'oltremonti.  Cfr. ^H. Leo~, ^Gesch. der ital. Staaten~, Vol.
+IV, pag. 34 e seg. 48 e seg.
+
+	|105.  Giardin~: l'Italia, la pi@u bella porzione
+dell'imperio.  -- |Diserto~: disertato, guasto.
+
+	|106.  Montecchi e Cappelletti~: furono due famiglie di
+Verona (^Lan.~ ed ^Ott.~ dicono erroneamente di Cremona), che
+lungamente ebbono briga co' marchesi da Esti, et prima cacciarono
+i marchesi da Esti, et poi i marchesi cacciorono loro di Verona
+et disfeciongli.  ^An. Fior.~  Che le due famiglie qu@i nominate
+fossero di Verona @e pure opinione di ^Benv. Ramb.~, ^Land.~,
+^Vell.~, ^Dan.~, ^Volpi~, ^Vent.~, ^Lomb.~, ^Pogg.~, ^Biag.~,
+^Costa~, ^Ces.~, ^Fosc.~, ^Borghi~, ^Wagn.~, ^Tom.~, ^Br. B.~,
+^Fratic.~, ^Greg.~, ^Andr.~, ^Bennass.~, ^Camer.~, ^Frances.~,
+^Berlan~, ecc.  Il ^Buti~ col ^Lan.~ ed ^Ott.~ li dice di
+Cremona.  Il ^Postill. Cass.~ e con lui ^Petr. Dant.~ vogliono
+che i Montecchi fossero veronesi, i Cappelletti cremonesi; cos@i
+pure il ^Portir.~ e ^G. Todeschini~ nella sua ^Lettera critica a
+Jac. Milan~, Padova 1849, e pi@u tardi nella ^Lett. al dott.
+Bressan~, Ibid. 1857.  Ma che ambedue le famiglie fossero di
+Verona ne pare lo abbia comprovato il veronese ^Al. Torri~
+(^Giulietta e Romeo Novella storica~, pag. 56 e seg.) il quale ci
+da e l'albero genealogico e lo stemma della famiglia de'
+Cappelletti.  Il ^Witte~ dice che alcuni pretendono i Cappelletti
+essere d'Ancona, ma non abbiamo saputo trovare chi siano questi
+<alcuni>.  Ambedue queste famiglie erano ghibelline, sebbene poi
+la tradizione, immortalata da Shakespeare, le facesse
+inimicissime tra s@e.  Cfr. ^Scolari~, ^Su la pietosa morte di
+Giulia Cappelletti e Romeo Montecchi~, Livorno 1831; ^Loria~,
+^L'Italia nella D. C.~ 2+a~ ediz. Fir. 1872, Vol. I, pag. 143 e
+seg.  ^Arrivabene~, ^Sec. di Dante~, Udine 1827, pag. 448 e seg.
+
+	|107.  Monaldi e Filippeschi~: furono due antichissime
+famiglie da Orvieto, i quali similmente per l'oppressione de'
+popoli erono in grande declinazione al tempo dell'Auttore.  ^An.
+Fior.~  Che queste due famiglie fossero da Orvieto dicono pure il
+^Postill. Cass.~, ^Petr. Dant.~, ^Land.~, ^Vellut.~, ^Dan.~,
+^Volpi~, ^Vent.~, ^Lomb.~, ^Portir.~, ^Pogg.~, ^Biag.~, ^Costa~,
+^Ces.~, ^Fosc.~, ^Borghi~, ^Wagn.~, ^Tom.~, ^Br. B.~, ^Frat.~,
+^Greg.~, ^Andr.~, ^Bennas.~, ^Camer.~, ^Franc.~, ^Bl.~, ^Witte~,
+ecc.  Ma ^Benv. Ramb.~ scrive che esse fossero <nobili famiglie
+di Civitavecchia>.  Il ^Buti~: <Queste funno due parti cos@i
+nominate in de la Marca, cio@e in Ancona, le quali al tempo de
+l'autore vivevono in grande sospetto.>  E il ^Berlan~
+(probabilmente per distrazione): <nobili famiglie ghibelline di
+Verona.>  Secondo ^G. Todeschini~ (^Lettera~ ecc. vedi la nt.
+antec.) i Monaldi erano di Perugia e i Filippeschi d'Orvieto. 
+Che i Monaldi fossero d'Orvieto sembra possa dedursi della
+^Cronica d'Orvieto~ (in ^Murat.~ ^Rev. It. Script.~ Vol. XV, pag.
+643 e seg.), in cui ripetute volte si nomina una famiglia de'
+Monaldeschi, e il Muratori nella prefazione ad essa cronica
+(^Ibid.~ p. 641) dice che in Orvieto ^plura habebantur de Nobili
+Monaldescorum, Urbeveti due dominata.~  Dei Filippeschi poi la
+detta cronica non fa menzione.  Un conte ^Filippone~ era capo dei
+Guelfi di Pavia al tempo di Arrigo VII (cfr. ^Relatio Itin. Henr.
+VII~ in ^Murat.~ l. c. Vol. IX, pag. 889).  Ma non ci sembra
+lecito suppore esser costui anche il capo de' Filippeschi di cui
+parla Dante.  Ci sembra che il ^Villani~ decida la lite in favore
+del maggior numero dei commentatori.  Egli scrive (lib. IX, c.
+40): <Lo 'mperadore Arrigo (VII) passando per lo contado
+d'Orbivieto, i Filipeschi d'Orbivieto col loro seguito di
+ghibellini cominciarono battaglia nella citt@a contro a'
+Monaldeschi e gli altri guelfi d'Orbivieto, per dare la terra
+allo 'mperadore.>  Nel 1337 i Monaldeschi furono cacciati
+d'Orvieto (^Vill.~ l. XI, c. 75), di cui Manno di Currado de'
+Monaldeschi erasi fatto signore tre anni prima (^Vill.~ l. c.
+cap. 10).  Ormanno de' Monaldeschi fu podest@a di Firenze nel 1266
+(^Vill.~ lib. VII, cap. 15).  Per noi @e fuor di dubbio che questi
+Monaldeschi d'Orvieto e i Monaldi di cui parla Dante sono la
+stessa cosa.  -- |Senza cura~: spensierato, indolente.
+
+	|108.  Color~: i Montecchi e Cappelletti dolenti dei
+danni gi@a ricevuti.  -- |Costor~: i Monaldi e i Filippeschi
+sospettosi di ricever danni.  <Monaldi et Filippeschi erano gi@a
+disfatti et cacciati e tristi; et queste altre due famiglie in
+sospetto d'essere cacciati;> cos@i l'^An. Fior.~ che legge:
+^Questi gi@a tristi et questi con sospetti.~
+
+	|109.  La pressura~: l'oppressione.  Al. ^l'oppressura.~ 
+Ma |pressura~ @e lezione dei migliori codd. ed @e pure termine
+scritturale: ^Et in terris pressura gentium~; S. Luc. XXI, 25.  E
+|pressura~ per ^tribolazione~, ^angustia~, ^calamit@a~, ^miseria~,
+ecc. dissero i Provenzali; ^Trad. de l'Evang. de S. Jean~ (ap.
+^Bartsch~, ^Chrest. Prov.~ 1868, pag. 15); ^El m$un aur$ez
+pressura~; cfr. S. Joan. XVI, 33: ^In mundo pressuram habebitis.~
+
+	|110.  Gentili~: nobili; <cio@e de' conti, marchesi et
+altri gentili omini e signori d'Italia, che gravano li loro
+sudditi oltra modo.>  ^Buti.~  -- |Cura~: correggi i loro
+mancamenti e vizi; cos@i ^Buti~, ^Land.~, ^Vent.~, ecc.  Altri
+prendono |magagne~ nel senso di ^danni~ che uno soffre, od
+^ingiurie~ che uno riceve, e spiegano: Vendica le loro ingiurie
+(^Vell.~, ^Lomb.~, ^Costa~, ^Bennass.~, ecc.), oppure Rif@a i danni che
+essi hanno ricevuto (^Dan.~, ^Biag.~, ^Br. B.~, ecc).  Ma le
+ingiurie non si curano, si vendicano; ci@o che si cura sono i
+difetti, i vizi, le malattie dell'anima.
+
+	|111.  Santafior~: Santafiora era una contea nella
+Maremma Sanese che nel 1300 apparteneva ad un ramo dei conti
+Aldobrandeschi, conosciuti sotto il titolo di conti di Santafiora
+(cfr. ^Aquarone~, ^Dante in Siena~, pag. 103 e seg.).  Parla
+Dante in questo luogo del paese, o parla egli dei conti?  I pi@u
+antichi commentatori non si curano di questa dimanda.  Il ^Buti~:
+A santafiora <sono conti li quali infine al tempo dell'autore
+male trattavano li loro sudditi e vicini: e puossi intendere in
+du' modi; cio@e, |come @e sicura~, quasi dica: Non @e sicura, che vi
+sono li omini rubati; e poi intendere ^come si cura~, cio@e si
+governa lo detto castello dai ditti conti.>  In ambedue i casi
+egli intese della contea, non dei conti.  Cos@i pure ^Land.~,
+^Vell.~, ^Vent.~, ^Lomb.~, ^Portir.~, ^Pogg.~, ^Biag.~, ^Costa~,
+^Ces.~, ^Bor.~, ^Wagn.~, ^Tom.~, ^Br. B.~, ^Frat.~, ^Greg.~,
+^Andr.~, ^Bennas.~, ^Camer.~, ^Franc.~, ecc.  Alcuni di costoro
+osservano che quel paese era allora da rubatori e predoni
+infestato e guasto.  Secondo altri il Poeta intende parlare dei
+conti di Santafiora (^Benv. Ramb.~, ^Dolce~, ^Dan.~, ^Filal.~,
+^Witte~, ecc.), i quali, gi@a potentissimi in Toscana, appunto
+verso il 1300 soffersero gravi disagi.  <Nell'anno 1299 andoro i
+Senesi sopra i Conti di Santa Fiore, e tolser loro Radicondoli, e
+Monte Guidi, e Belforte, e Tatti, e Montepeschali, e Rocca
+Strada, e Monteano, e Monte Curliano.  -- Nel 1300 and@o l'oste de
+Senesi sopra a' Conti di Santa Fiore, e presesi Monteano, e 'l
+Colecchio.  -- Nel 1300 si fe' l'accordo con li Conti di Santa
+Fiore.  E fu loro renduto il Colecchio, e Scanzano; e Conti
+fecero carta al Comune di Siena di Castiglione di Valdorcia per
+prezzo di ventimila lire; e non l'ebbero.>  ^And. Dei~, ^Cron.
+Sanese~, ap. ^Murat.~ ^Script. Rev. It.~ Vol. XV, pag. 43 e seg. 
+Probabilmente Dante allude a questi avvenimenti.  -- |Com'@e
+sicura~: parlare ironico; Al. ^com'@e oscura.~
+
+	|112.  Tua~: Roma @e dei Cesari.  -- |Piagne~: ^Plorans
+ploravit in nocte, et lacrymae ejus in maxillis ejus; non est qui
+consoletur eam ex omnibus charis ejus.~  Thren. Jerem. I, 2.
+
+	|113.  Vedova~: abbandonata da te, imperatore, che sei
+per la direzione civile il suo marito.  ^Facta est quasi vidua
+domina gentium.~  Thren. Jer. I, 1.  -- ^Nemo gaudeat super me
+viduam et desolatam: a multis derelicta sum propter peccata
+filiorum meorum.~  Baruch IV, 12.  -- |Sola~: deserta d'ogni
+aiuto.  ^Quomodo sedet sola civitas plena populo~!  Thren. Jer.
+I, 1.  Quando Dante scriveva Roma era abbandonata anche dai papi,
+che avevano la loro corte in Avignone.  -- |Chiama~: grida, dal
+lat. ^clamat.~  -- ^Deus autem non faciet vindictam electorum
+suorum clamantium ad se die ac nocte, et patientiam habebit in
+illis~?  Luc. XVIII, 7.
+
+	|114.  Mio~: pi@u mio che di quella Germania presso la
+quale tu te ne stai senza curarti di me.  -- |Accompagne~:
+accompagni; cfr. ^Inf.~ XXIX, 85 nt.; XXXII, 79 nt.  ^Nannuc.~
+^Anal. crit.~ pag. 58-72.
+
+	|115.  Quanto s'ama~: amara ironia, gl'Italiani odiandosi
+mortalmente tra loro; cfr. v. 82-87.
+
+	|116.  Nulla~: agg.  -- nessuna.  ^G. Vill.~ l. VII, c.
+134: Del quale non rimase ^nullo~ (-- nessun) figiuolo maschio. 
+Cfr. ^Blanc~, ^Ital. Gram.~ pag. 319.
+
+	|117.  A vergognar~: ^Quia reputaris pius et non es: quia
+pressura servi cecidit in dedecus domino.~  Cos@i ^Benv. Ramb.~ 
+Vieni almeno, per mostrare che tu ti vergogni d'avere s@i fatta
+fama; cio@e che per avarizia tu stii ne le parti de la Magna e
+lassi disfare Italia; ^Buti.~  Ma in tal caso Dante avrebbe
+dovuto scrivere: ^Per non ti vergognar.~  Meglio: Vieni a
+vergognarti del discredito, per cui qu@a sei da tutti tenuto a
+vile, dispregiato (^Vent.~); oppure: Vieni e udirai le vergognose
+cose che generalmente si dicono di te (^Berlan~).
+
+	|118-119.  Licito~: per ^lecito~ dissero spesso gli
+antichi.  -- |M'@e~: di scrutare i tuoi segreti.  -- |Sommo Giove~:
+cfr. ^Virg.~ ^Aen.~ l. I, v. 380: ^Italiam quaero patriam, genus
+ab Jove summo.~  Il ^Petrarca~ nel Sonet. ^S'io fossi stato fermo
+a la spelunca~:
+
+     Cos@i sventura ovver colpa mi priva
+     D'ogni buon frutto; se l'eterno Giove
+     Della sua grazia sopra me non piove.
+
+Et nel Sonet. ^Laura, che il verde lauro e l'aureo crine~:
+
+        -- -- -- -- -- O vivo Giove,
+     Manda, prego, il mio in prima che il suo fine.
+
+L'uso che Dante fa della mitologia pagana rende superfluo il
+volerlo giustificare per aver chiamato Giove il Dio incarnato
+della mitologia cristiana.  L'^An. Fior.~: <@E qu@i da scusare
+l'Auttore ch'egli non intende di quello Jove lascivo che
+adoravono i Pagani, ma chiama Giove, che tanto vuole dire quanto
+^Juvans pater~, padre che giova.>  E il ^Gioberti~: Dante non era
+certo digiuno di ebraico: onde pot@e col vocabolo Giove alludere a
+quello di ^Jehov@ah~, da cui quello deriva.>  Ma se il Gioberti
+era digiuno di ebraico, quanto pi@u lo sar@a stato Dante!  Il nome
+|Giove~ non ha che fare coll'ebraico {parole ebraiche}, ma
+^Iovis~, come lo provano gi@a i nomi %Lambda%iota%o%varsigma\,
+^Diespiter~, sta invece di ^Diovis.~  Cfr. ^Varro~, ^De l.~ lib.
+10; ^Geil.~ V, 12.  Si osservi per@o che gli antichi credevano che
+gli Ebrei chiamassero il loro Dio IA%Omega\ oppure IABE; cfr
+^Diod.~ ^Sic.~ I, 94.  ^Macrob.~ ^Saturn.~ I, 18.  ^Iren.~ ^adv.
+haeres.~ I, 34 in fine.  ^Theodoret.~ ^quaest. Xv ad Exod.~:
+%kappa%alpha%lambda%o%upsilon%sigma%iota\ %delta%epsilon\
+%alpha%upsilon%tau%o\
+%Sigma%alpha%mu%alpha%varepsilon%iota%tau%alpha%iota\ IABE,
+I%o%upsilon%o%alpha%iota%o%iota\ %o%varepsilon\ IA%Omega\.  Forse
+Dante suppose che ^Jovis~, |Giove~ derivasse da IA%Omega\, o
+I%alpha%o%upsilon\ (^Clem.  Al. Strom.~ V. 6), oppure
+I%varepsilon%upsilon%omega\ (^Euseb.~ ^Praep. evang.~ I, 9).  Il
+termine ^Jehov@ah~ non era ancora noto ai tempi di Dante; il primo
+ad usarlo fu il confessore il Leone X, Galatino (nella sua opera
+^De arcanis cath. veritatis~, Bas. 1550, II, cap. 10, pag. 74 e
+seg. cfr. pag. 718).  Non poteva dunque Dante supporere che
+|Giove~ derivasse da ^Jehov@ah.~
+
+	|120.  Altrove~: a motivo dei nostri peccati.  ^Avertam
+oculos meos a vobis.~  Isai. I, 15.  ^Aperi Domine oculos tuos~! 
+Isai. XXXVII, 17, cfr. ^Deut.~ XXXI, 17, 18; XXXII, 20.
+
+	|121.  Preparazion~: le lotte, i tumulti, i scompigli di
+que' tempi portavano in s@e germi fecondi; erano la campana di
+morte dello stato di cose del medio evo, i dolori del parto della
+nuova condizione di coltura europea.  Senza di essi non avrebbe
+l'Italia avuta quell'importanza che a lei incontrastabilmente
+compete all'uscir del medio evo.  Dante sembra avere avuto di ci@o
+un presentimento quando innalzava al Cielo la dubitosa domanda
+contenuta in questi versi.  Ma altro @e vedere da lungi il passato
+sviluppamento delle cose, ed altro essere partecipe e spettatore
+de' mali che ne contengono il germe.  Cfr. ^Scartazzini~, ^Dante
+Aligh.~ ecc.  Biel 1869, pag. 28.  -- |Nell'abisso~: nel profondo
+dello eterno proveder di Dio.  ^Lan.~  -- ^Judicia tua abyssus
+multa~; Psal. XXXV, 7.  -- Senso: Ci prepari tu forse
+nell'imperscrutabile tuo consiglio alcun bene coi mali che ci fai
+soffrire?
+
+	|123.  Scisso~: separato, -- affatto lontano dal nostro
+intendimento.  Dopo |scisso~ quasi tutti pongono l'interrogativo;
+a noi pare (col ^Fanfani~) doverlo porre in fine della terzina
+seguente, perch@e ci pare che il concetto dantesco sia tale: O
+questo esser le terre italiane piene di tiranni, e il diventar un
+Marcello ogni villano che parteggia, @e preparazione del tuo
+consiglio, per alcun buono effetto da noi non appreso?
+
+	|124.  Le citt@a~: Al. ^le terre.~
+
+	|125.  Un Marcel~: un fierissimo oppugnatore
+dell'autorit@a imperiale.  Vuol dire che ogni villano si reputa
+forte per contrastare all'Impero.  Di quale Marcello ha Dante
+inteso parlare?  Del famoso capitano romano distruttore di
+Siracusa, o del consolo C. Marcello, partegiano di Pompeo e
+fierissimo nimico di Giulio Cesare?  Del primo intendono
+^Postill. Cass.~, ^Pet. Dant.~, ^Land.~, ^Vell.~, ^Volpi~ (?),
+^Vent.~, ^Lomb.~ (?), ^Pogg.~, ^Costa~ (?), ^Tom.~, ^Br. B.~,
+^Frat.~, ^Andr.~, ^Bennas.~, ^Franc.~, ^Berl.~, ecc.; del nimico
+di G. Cesare ^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Benv. Ramb.~,
+^Buti~, ^Portir.~, ^Biag.~, ^Ces.~, ^Ross.~, ^Borg.~, ^Wag.~,
+^Ambr.~, ^Greg.~, ^Cam.~, ^Kanneg.~, ^Streckf.~, ^Filal.~,
+^Kop.~, ^Blanc~, ^Witte~, ^Eitn.~, ^v. Hoff.~, ^Krieg.~, ^Nott.~,
+^Aroux~, ^H. v. Mijnd.~ (?), ^Longf.~ ec.  Alcuni invece di
+Marcello leggono ^Metello~, lezione seguita dal ^Fals. Bocc.,
+Dolc., Dan.~, ecc.  Il contesto sembra non ammettere dubbio che
+Dante abbia inteso parlare del nemico di Cesare.
+
+	|126.  Villan~: cfr. ^Inf.~ XV, 61 e seg. 73 e seg. 
+^Parad.~ XVI, 49 e seg.  Ogni uomo da nulla che prende parte
+nelle civili discordie.
+
+	|127.  Mia~: Oh misera, misera patria mia! quanta piet@a
+mi stringe per te, qual volta leggo, qual volta scrivo cosa che a
+reggimento civile abbia rispetto!  ^Conv.~ tr. IV, cap. 27.  --
+L'iron@ia di questi versi @e evidente.
+
+	|128.  Non ti tocca~: in ci@o che Dante rimprovera
+all'Italia in generale, Firenze era pi@u colpevole di qualsiasi
+altra citt@a.  ^An ignoras, excellentissime principum, nec de
+specula summae celsitudinis deprehendis, ubi vulpecula foetoris
+istius, venantium secura, decumbat?  Quippe nec Pado praecipiti,
+nec Tyberi tuo criminosa potatur, verum Sarni fluenta torrentis
+adhuc rictus ejus inficiunt, et~ Florentia -- ^forte nescis~? --
+^dira haec pernicies nuncupatur.  Haec est vipera versa in viscera
+genitricis; haec est languida pecus, gregem domini sua contagione
+commaculans.~  Dant. Ep. Henr. VII, {paragraph.} 7.
+
+	|129.  Merc@e~: in grazia.  -- |S@i argomenta~: ragiona e
+pensa appunto cos@i come la penso e ragiono io.  |S@i argomenta~,
+col |s@i~ accentato leggono ^Crusc.~, ^Dan.~, ^Volp.~, ^Vent.~,
+^Port.~, ^Pogg.~, ^Biag.~, ^Fosc.~, ^Viv.~, ^Torri~, ^Borg.~,
+^Tom.~, ^Giob.~, ^Br. B.~, ^Em. Giud.~, ^Brunet.~, ^Greg.~,
+^Fanf.~, ^Franc.~, ^Berl.~, ecc.  Il ^Dan.~ spiega: <Si fa cos@i
+andare che vuol reggere e governare il tutto;> ^Vent.~:
+<S'ingegna s@i bene di mantenersi in splendore, delibera s@i bene
+ne' pubblici consigli.>  ^Biag.~: <Adopera s@i che questa
+digressione non ti pu@o toccare.>  ^Tom.~: <Argomenta s@i bene.> 
+Altri leggono: ^che s'argomenta.~  Cos@i ^Cod. Cass.~, ^Buti.~,
+^Land.~, ^Vell.~, ^Rovill.~, ^Lomb.~, ^Dionis.~, ^Torel.~,
+^Ces.~, ^Costa~, ^Sicca~, ^Wagn.~, ^M. Ferran.~, ^Frat.~,
+^Andr.~, ^Blanc~, ^Witte~, ^Bennass.~, ^Camer.~ ecc.  Il ^Land.~
+spiega: <Non s'argomenta a insurgere contro alle tirannidi de'
+potenti.>  -- ^Vellut.~: <Si sollecita e sprona.>  -- ^Lomb.~:
+<che s'ingegna, che si studia (elissi), intendi, ^di farti essere
+di condizione diversa dalla descritta comune ad Italia tutta.~> 
+Cos@i pure ^Costa, Frat.~, ecc.  -- ^Andr.~: <sa ben provedere a'
+casi suoi.>  Ed il ^Bl.~ osserva: <Pare che ^argomentarsi~ abbia
+il significato d'^ingegnarsi, studiarsi.~  La Crusca legge: |s@i
+argomenta~, d'onde sarebbe difficile cavar senso possibile.>  Noi 
+invece siamo d'avviso non potersi cavar senso accettabile che
+appunto dalla lezione |s@i argomenta~, -- ragiona, conchiude in
+questo modo.  ^Argomentare~ per ^ragionare~ Purg. XVI, 130;
+XXXIII, 97; Parad. IV, 19, 49; V, 25, ecc.  Il Poeta vuol dunque
+dire: Tu, Firenze mia, qu@i non ci entri, grazie al popol tuo, che
+deplora cos@i, come fo io, gli altri popoli d'Italia
+tiranneggiati, essendo egli tanto libero, e se la piglia
+coll'arroganza dei villani rifatti.  Che i Fiorentini
+argomentassero come Dante contro i villani sembrano comprovarlo i
+loro molti proverbi contro i rustici.
+
+	|130-131.  Scocca~: si manifesta in parole.  Gli abitanti
+di molte altre citt@a intendono e vogliono il giusto, ma sono
+tardi ad esprimere i loro sentimenti e non parlano che dopo lunga
+ponderazione, per non iscagliare sconsideratamente uno strale che
+non possa pi@u ritirarsi.
+
+	|132.  In sommo~: sulle labbra, in millanteria di parole,
+non punto nel cuore.  ^Vidisti hominem velocem ad loquendum? 
+Stultitia magis sperandum est, quam illius correptio.~  Prov.
+XXIX, 20.  ^Noli citatus esse in lingua tua: et inutilis, et
+remissus in operibus tuis.~  Eccles. IV, 34.
+
+	|133.  Incarco~: qu@i significa le magistrature; cfr.
+^Ovid. Fast.~ I, 616; II, 197: ^Suscipere onus urbis~ --
+addossarsi il peso del governo della citt@a.  Ma |incarco~ pu@o
+anche valere ^gravezza~, ^imposte~, ecc. e da questo doppio senso
+@e accresciuta l'amarezza dell'ultimo verso della terzina, il
+quale meglio determina @il significato del primo.
+
+	|134.  Sollecito~: stimolato dal timore che la cosa
+pubblica cada in cattive mani.  -- |Risponde~: ad un invito ch'@e
+fatto ad altri.
+
+	|135.  Senza chiamare~: senza essere chiamato; senza che
+altri lo chiami.  -- |Sobbarco~: mi sottopongo al carico.  <Ecce
+ego; mitte me!~ Isai. VI, 8.  |Mi sobbarco~ spiega il ^Buti~:
+<cio@e io faccio di me barca, o io mi piego a sopportarlo e
+sofferirlo.>  La ^Crusc.~, ^Lomb.~, ^Ces.~, ^Andr.~, ecc.
+vogliono che questa voce derivi da ^sub~ ed ^arcuo~, quasi
+piegarsi in arco sotto alcun peso, spiegazione questa che @e
+manifestamente falsa.  Nella nostra lingua il verbo ^sobbarcarsi~
+@e antiquato; nella ^spagn.~ e ^portog.~ si ha ^barcar~ in
+^abarcar~ -- abbracciare, ^sobarcar~ -- portare sotto il braccio. 
+Cfr. ^Diez~, ^Etym. W,ort.~ Vol. II, p. 105.
+
+	|136.  Onde~: hai ben motivo di rallegrarti essendo s@i
+ricca, godendo di pace ed avendo tanta sapienza nel tuo seno, le
+quali tre: ricchezza, pace e sapienza sono i fondamenti della
+felicit@a d'uno stato.
+
+	|137.  Ricca~: @e chiaro che l'ironia continua.  Tuttavia
+ci sembra che non sia lecito di spiegare come fanno il ^Buti~ e
+tanti altri: <Deesi intendere per lo contrario, cio@e tu se'
+povera, eccetto pochi cittadini fiorentini, che sono senza misura
+ricchi.>  Verso il 1300 i Fiorentini avevano accumulate tante
+ricchezze che Bonifazio VIII pot@e dire a Carlo di Valois: ^Io ti
+ho mandato alla fonte dell'oro.~  Dunque Firenze non era povera. 
+Cfr. ^Arrivabene~, ^Sec. di Dante~, Udine 1827, pag. 634 e seg. 
+Pare che ^Benv. Ramb.~ intendesse meglio l'iron@ia di questo
+termine; egli scrive: <|tu ricca~ di malvagie ricchezze.>  --
+|Con pace~: i Fiorentini sempre in guerra, o co' vicini o fra
+loro.
+
+	|138.  Dico ver~: Al. ^dico 'l ver.~  Quanto meritate
+siano le lodi che io ti do si pu@o agevolmente comprendere dagli
+effetti che tu operi.  ^A fructibus eorum cognoscetis eos.~ 
+Matth. VII, 16.
+
+	|139.  Lacedemona~: Sparta, Al. ^Lacedemone.~  -- |Fenno~:
+fecero; cfr. ^Nannuc.~ ^Anal. crit.~ pag. 197 e seg. 621 e seg.
+
+	|140.  S#i civili~: ebbero ordini di governo s@i
+eccellenti.  A Atene Solone, a Sparta Licurgo.
+
+	|141.  Cenno~: non avevano ancora di gran lunga raggiunto
+il modello, l'apice di civilt@a che offri tu; non ne avevano dato
+che un piccol saggio, essendosi appena appena messe in cammino
+per a quella volta.
+
+	|142.  Verso~: in paragone.  -- |Sottili~: parlare
+equivoco, che pu@o significare ^tanto argutamente pensati~ e
+^tanto fievoli.~  ^Lomb.~  -- ^Sottile @e acuto, ingegnoso~; ed
+anche ^debole e fiacco.~  Or Dante mettendolo da prima l@a cos@i
+solo, par che voglia darcelo per acuti e fini provvedimenti.  Ma
+come egli veramente l'intenda, spiegalo al fine nel verbo ^fili~;
+che per@o vale ^filo sottile~, che non tiene: e sono
+provvedimenti, che a mala pena durano un mese.  ^Ces.~
+
+	|144.  Non giunge~: li statuti e li ordini e le leggi,
+che tu fai d'ottobre, si rompeno inanzi che sia mezzo novembre. 
+^Buti.~  Il ^Villani~ (lib. XII, cap. 19): <E nota che in cos@i
+piccolo tempo la citt@a nostra ebbe tante novit@a e varie
+rivoluzioni ecc.> e poi cita i versi 139-144 del presente canto. 
+^Berlan~ scrive: <Il Vellutello spiega: Quel che ordini di
+ottobre non si conserva che a mezzo novembre, non essendo subito
+accettate le leggi; ma il contesto non ammette questo senso.> 
+Dove @e che il ^Vell.~ spiega cos@i?  Il ^Vell.~ scrive: <Quello
+che ella (Firenze) ordina del mese d'ottobre, |non giunge~, non
+osserva fin a mezzo novembre.  A dinotare la sua instabilit@a e
+leggierezza nel governo,> -- parole queste un po' diverse da
+quelle che il ^Berlan~ vuol far dire al Vellutello.
+
+	|145.  Che rimembre~: nel tempo di cui servi memoria, di
+cui puoi ricordarti; in questi ultimi anni.  Versi anche questi
+citati del ^Villani~, lib. XII, cap. 97.  |Rimembre~ per
+^rimembri~, non <in grazia della rima>, ma per essere tale
+desinenza usitatissima agli antichi; cfr. ^Inf.~ XXXII, 79 nt.
+^Nannuc.~ ^Anal. crit.~ p. 46 e seg. 49 e seg. 58 e seg. 62-68.
+
+	|146.  Officio~: la signoria, il priorato, -- Ecco uno
+specchio cronologico delle mutazioni avvenute in Firenze dal 1248
+al 1307:
+
+	1248 -- La parte guelfa di Firenze cacciata per li
+ghibellini e la forza di Federico II.  ^G. VIll.~ l. VI, c. 23.
+
+	1250 -- Ritornati i guelfi in Firenze si fece il primo
+popolo <con ordine e gonfalone per riparare le forze e le
+ingiurie che faci@eno i ghibellini.>  ^Vill.~ l. VI, c. 39.
+
+	1251 -- I caporali de' ghibellini cacciati di Firenze; i
+guelfi <che dimoraro alla signoria di Firenze si mutaro l'arme
+del comune di Firenze.>  ^Vill.~ l. VI, c. 43.
+
+	1252 -- Nuova moneta: si battono i fiorini d'oro. 
+^Vill.~ l. VI, c. 53.
+
+	1258 -- I ghibellini cacciati di Firenze.  ^Vill.~ l. VI,
+c. 65.
+
+	1260 -- In seguito alla battaglia di Monteaperti i
+ghibellini ritornano a Firenze, ed i guelfi <senz'altro commiato
+o cacciamento colle loro famiglie piangendo uscirono di Firenze,
+e andarsene a Lucca.>  ^Vill.~ l. VI, c. 78-81.
+
+	1266 -- Si fanno ^i trentasei~, si danno ordine e
+gonfaloni alle arti, si chiamano due podest@a, ecc.  ^Vill.~ l.
+VII, c. 13, 14.
+
+	1267 -- Ritorno dei guelfi, scacciamento dei ghibellini,
+riforna del governo.  ^Vill.~ l. VII, c. 15-17.
+
+	1280 -- Ritorno dei ghibellini; pace fra loro ed i
+guelfi; nuovo governo: quattordici Buonuomini, otto di parte
+guelfa ed otto di parte ghibellina.  ^Dino Comp.~ l. I; ^Vill.~
+l. VII, c. 56.
+
+	1282 -- <Parendo a' cittadini di Firenze il detto uficio
+de' quattordici uno grande volume e confusione..... per iscampo e
+salute della citt@a di Firenze s@i annullarono il detto uficio, e
+si cre@o e fece nuovo uficio e signoria al governo della detta
+citt@a di Firenze, il quale si chiamarono priori dell'arti.>  I
+primi due mesi tre, poi sei, poi otto priori.  ^Vill.~ l. VII, c.
+79; ^Dino Comp.~ l. I; ^Ammirato~, l. III.
+
+	1291 -- Giano della Bella; il ^secondo popolo~;
+Ordinamenti della Giustizia; Gonfaloniere.  ^Vill.~ l. VIII, c.
+1.
+
+	1293 -- Il grande popolare Giano della Bella cacciato di
+Firenze.  ^Vill.~ l. VIII, c. 8.
+
+	1295 -- I grandi di Firenze mettono la citt@a a romore per
+rompere ed abbattere lo stato del nuovo popolo.  ^Vill.~ l. VIII,
+c. 12.
+
+	1300 -- Bianchi e Neri.  ^Vill.~ l. VIII, c. 28, 29.
+
+	1301 -- I capi de' Neri cacciati di Firenze.  ^Vill.~ l.
+VIII, c. 42.
+
+	1302 -- Carlo di Valois; ritorno dei Neri; i Bianchi
+cacciati.  ^Vill.~ l. VIII, c. 49.
+
+	1303 -- Grande novit@a e battaglia cittadina, per volere
+rivedere le ragioni del comune.  ^Vill.~ l. VIII, c. 68.
+
+	1304 -- Le dodici podestadi, <due per sesto, uno grande e
+uno popolare.>  ^Vill.~ l. VIII, c. 74.
+
+	1306 -- <Parendo a' popolani di Firenze che i loro grandi
+e possenti avessero presa forza e baldanza....... s@i vollono
+riformare il popolo di Firenze e chiamarono diciannove
+gonfalonieri delle compagnie....  E per fortificamento del popolo
+feciono venire in Firenze l'esecutore degli ordinamenti della
+giustizia, il quale dovesse inchiedere e procedere contro a'
+grandi che offendessono i popolani.>  ^Vill.~ l. VIII, c. 87.
+
+	1307 -- Fuggito il podest@a col suggello del comune,
+<d'allora innanzi si ordin@o, che n@e podest@a n@e priori tenessono
+suggello di comune, ma fecionne guardiani e cancellieri i frati
+conversi di Settimo.>  ^Vill.~ l. VIII, c. 95.  -- Corso Donati
+scacciato da Firenze.  ^Ibid.~ c. 96.
+
+	Non sono queste che le mutazioni principali e di maggior
+conseguenza; il numero delle mutazioni di pi@u lieve importanza
+durante questo periodo @e legione.
+
+	|147.  Membre~: cittadini, cacciandone e richiamandone
+secondo il prevalere dell'una o dell'altra fazione.  |Membre~ per
+^membra~ usarono gli antichi non solamente fuor di rima ma
+eziandio in prosa.  ^Vit. glor. Verg. Mar.~ c. IV: <Tutte le
+|membre~ formate per modo che bene corrispondeano alla statura.> 
+-- ^Chiabr. Amed.~ c. 15: <Tue membre lasse il piede egro
+sostenta.>  -- Altri esempi vedine in ^Nannuc.~ ^Teor. dei Nomi~,
+pag. 342 e 762; cfr. ^Inf.~ XXIX, 51, nt.
+
+	|148.  Se ben~: se non sei cos@i rimbambita da aver ancora
+le facolt@a della mente e da non aver perduto l'uso dei sensi.  --
+|Vedi~: e se non sei cieca del tutto, se hai ancora un po' di
+accorgimento.
+
+	|150.  Trovar posa~: ^nec invenit requiem~; Thren. Jer.
+I, 3.  ^Nec habent requiem die ac nocte.~  Apoc. XIV, 11.
+
+	|151.  Dar volta~: volgendosi qu@a e l@a in su la coltrici. 
+^Buti.~  Voltandosi or da una parte or dall'altra.  -- |Scherma~:
+da ^schermare~, cfr. ^Purg.~ XV, 26; fa schermo, cerca qualche
+sollievo, riposo al dolore.  Come i Latini ^defendere~ in senso
+di ^tener lontano~, ^schermirsi~, ecc.  ^Defendere frigus~;
+Horat. Sat. I, 3, 14.  ^Defendere sitim~; Sil. VII, 170.

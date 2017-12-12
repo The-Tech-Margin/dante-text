@@ -1,0 +1,886 @@
+	Cerchio IX o Cocito -- Traditori
+
+	Testo e Commento.  -- Ultimo e pi@u ristretto di tutti gli
+altri, il Cerchio IX @e detto Cocito con nome classico:
+<Cocytusque sinu labens circumfluit atro> (^Eneide~, VI, 132). 
+Bench@e diviso in quattro sferette o giri concentrici, che
+albergan traditori di diversa specie, Cocito ha un aspetto
+uniforme.  @E tutto un lago di ghiaccio, e il passaggio da un giro
+all'altro non @e segnato che dal cambio di nome e dalla
+progressiva intensit@a della pena, che @e semplicissima e di chiaro
+significato: i traditori stanno confitti nel ghiaccio che
+raffigura la freddezza dei loro cuori, l'assenza della pi@u alta
+virt@u cristiana, cio@e della carit@a.  <Et quia peccatus
+proditionis, magis quam aliud, in homine extinguit calorem
+quemlibet charitatis, ideo fingit in Cocyto, idest in luctu et
+infernali frigore, tales esse, et remotiores a coelo, ut et magis
+peccantes, in puteo, idest infimo statu miseriae> (Pietro di
+Dante).
+
+	Nel nostro Canto si descrivono le due prime sferette; ma
+prima un cenno alla difficolt@a del tema, un'invocazione alle Muse
+e una dolorosa esclamazione ci preannunziano lo straordinario
+orrore di tutto il Cerchio, detto ^fondo~ {v.8} di tutto
+l'universo, in senso morale e rispetto alla dottrina tolomaica
+seguita dal Poeta.  Infatti Tolomeo considerava il centro della
+Terra come centro immobile di tutto l'universo, intorno a cui si
+girano i pianeti, compreso il Sole, ciascuno nel proprio cielo;
+pi@u lontano di tutti il cielo stellifero o cielo ottavo, e il
+Primo Mobile o Cielo cristallino, semplicissimo e senza astri, 
+cielo puramente intelligibile, intuito, esso pure, secondo Dante
+(^Conv.~, II, III, 5) da Tolomeo; infine l'altro polo immobile
+dell'universo, l'Empireo sede di Dio.
+
+	|1-6.~  Questo modo di annunciare visioni spaventose non
+ci @e nuovo: l'abbiamo gi@a visto, ad esempio, al principio del
+Canto XXVIII.  Un passo del ^Convivio~ (IV, II, 12-13) c'insegna
+da un lato che |rime~ sono tanto le concordanze delle sillabe
+finali dei versi, quanto i versi stessi; dall'altro lato che le
+|rime aspre~ s'addicono <al suono del dettato, che a tanta
+materia non convene esser lene>; mentre il vocabolo |chiocce~ ci
+@e illustrato da quel passo dell'Inferno, dove lo stesso epiteto @e
+dato alla voce di Pluto, fatta stridula dall'ira.
+
+	Non @e il concetto quello che spaventa il Poeta: esso @e
+gi@a chiaro nella sua mente; sibbene il |premerne il suco~ per
+porgerlo altrui, il |dicer.~  Ma le rime della prima terzina del
+Canto rassicurano gi@a il lettore che ogni difficolt@a sar@a
+superata; che il Poeta trover@a le rime convenienti, aspre come
+^Osterlicchi~ {v.26} o ^cuticagna~ {v.97}, o chiocce come |abbo~
+per ^ho~, e via dicendo, per descrivere il |tristo buco~, ossia
+il Cerchio nono, cos@i chiamato per la sua forma di pozzo, e
+perch@e ivi sta Lucifero, che fora veramente il centro della
+terra; triste buco |sovra il qual pontan tutte l'altre rocce~, 
+non soltanto quelle dell'Inferno, ma tutte quelle del globo
+terracqueo, aggiunge il Poeta, perch@e essendo nel Cerchio nono il
+centro della terra, esso forma come il perno dei due emisferi.
+
+	|7-9.  Non @e impresa da pigliare a gabbo~, cio@e non @e
+impresa da burla, dice Dante, usando una frase di stile poco
+elevato, in armonia con l'altra che seguir@a, |n@e da lingua che
+chiami mamma o babbo~; ma tra i due versi risuona un verso
+solenne, |descriver fondo a tutto l'universo~, e questo ribabisce
+il concetto della tragicit@a della materia e della umilt@a dello
+stile.  |Descriver fondo a tutto l'universo~, descrivere cio@e il
+fondo dell'universo, come Dante intendeva, associando <a
+quell'oscuro fondo tutti i fantasmi degni della sua situazione
+cosmica e della sua qualit@a di sede dei pi@u tristi dannati e di
+Lucifero> (D'Ovidio), non @e impresa da lingua infantile che
+appena appena balbetti le prime parole apprese!
+
+	|10-12.~  Questa nuova invocazione alle Muse, come sta
+ancora ad attestare la maggior difficolt@a del tema, cos@i riceve
+solennit@a dal ricordo della favola d Anfione, non solo per
+l'aggiustatezza della sottintesa comparazione, ma anche per il
+significato morale.
+
+	Per l'aggiustatezza della comparazione perch@e come
+Anfione con la cetra d'oro, dono d'Apolline, mosse i macigni del
+Citerone a comporre le mura di Tebe, <Anphionis acres> (^Metam.~, 
+XV, 427, Orazio, ^De arte poetica~ 394), cos@i <l'ispirazione di
+Dante vuole scuotere le alte rocce che qui tutte gravitano, e
+ricomporle nell'ideale parvenza del suo dire, come ivi sono nel
+fatto; sicch@e la figurazione poetica del tristo pozzo renda, 
+quanto @e possibile, l'orrore del luogo e della cosa>
+(Chiappelli).
+
+	Per il significato morale, perch@e, come dice il Poeta
+medesimo della consimile favola d'Orfeo (^Conv.~, II, I, 3), la
+favola <vuol dire che lo savio uomo con lo strumento de la sua
+voce faria mansuescere e umiliare li crudeli cuori, e faria
+muovere a sua volontade coloro che non hanno vita di scienza e
+d'arte: e coloro che non hanno vita ragionevole alcuna, sono
+quasi come pietre>.
+
+	|13-15.~  Cos@i San Matteo di Giuda: <bonum erat ei si
+natus non fuisset> (XXVI, 24): meglio, dice Dante, se foste stati
+pecore o capre: <zebe sono li capretti saltanti, e sono detti
+zebe perch@e vanno zebellando, cio@e saltando> (Lana): meglio che
+foste nati bestie ed aveste finito con la vita l'esistenza.
+
+	Girone I o Caina -- Traditori dei Congiunti.
+
+	|16-21.~  L|assai pi@u bassi~ basta per dirci che Cocito
+pende fortemente verso il centro e che i due Poeti hanno gi@a
+percorso un buon tratto di cammino dal punto ov'erano stati
+deposti da Anteo.  Dante, pur camminando, stava ancora volto
+indietro, pieno d'ammirazione per i Giganti che ora vedeva dalla
+parte del dorso e dalla testa ai piedi.  Non si era pertanto
+accorto di camminar sul ghiaccio e di star gi@a in mezzo a nuovi
+dannati; perch@e questi son confitti fino al collo nel gelato
+pavimento ed egli volgeva loro la testa.  Siamo gi@a nella pi@u
+ampia fra le circuizioni di Cocito, che, punisce i traditori dei
+parenti e prende nome da Caino.  Dinnanzi a Dante stanno due
+confitti, fratelli di sangue, come Abele e Caino, e vedono
+avanzarsi i due viaggiatori.  Di Virgilio che @e ombra e che si
+guarda innanzi non temono; ma temono di Dante che cammina sbadato
+e il cui piede risuonante sul ghiaccio ben mostra d'esser d'un
+vivo; e a lui si volgono ad una voce per avvertirlo di guardare
+ai suoi passi, ch@e dinanzi a lui son esseri umani.  Il nome di
+|fratei~ e gli epiteti |miseri lassi~ farebbero prevedere una
+scena pietosa d'amor fraterno; ma siamo nel Cerchio del
+tradimento e dell'inganno.  Intanto l'episodio, appena
+cominciato, s'interrompe per descriverci l'eterna ghiacciaia.
+
+	|22-24.~  Dante si volge al suono di quelle parole, e
+innanzi tutto attira la sua attenzione il bagliore di
+quell'enorme distesa bianca e vitrea che ha davanti, non ben
+distinta nella sua causa per l'oscurit@a del luogo; poi si guarda
+ai piedi e s'avvede di camminare sopra uno specchio di ghiaccio;
+ne giudica lo spessore, ne tenta la consistenza, cerca i termini
+di paragone in esotiche regioni, le rime aspre in altri
+linguaggi.  Ne nasce una delle pi@u strane similitudini del Poema:
+grandiosa nel concetto, alquanto comica nell'espressione, perch@e
+all'ammirazione dell'arte divina che s@i comparte le pene, si
+associa lo scherno per i peccatori tormentati dal continuo
+assideramento: motivo sardonico che poi torna ad affiorare tutte
+le volte che si ricordi il tormento di ghiaccio in rapporto coi
+rei indegni di compassione; ^battendo i denti in nota di cicogna~
+{v.36}; ^fitti in gelatina~ {v.60} e via dicendo; salvo il Conte
+Ugolino che, tutto inteso al fierissimo pasto ed all'odio, non
+pare accorgersi del ghiaccio che lo serra: il lettore sorride o
+sbigottisce; ma ricorda!
+
+	|25-30.~  Le immagini di grandi fiumi come la |Danoia~ o
+Danubio, e il |Tanai~ o Don, ^Tanais~ in latino, interamente
+gelati, e di monti sradicati per farli cader su quel ghiaccio che
+resisterebbe all'urto anche sull'orlo, dove lo spessore @e minore, 
+sono degne dell'Inferno dantesco, e il verso |n@e Tana@i l@a sotto
+il freddo cielo~ @e un verso che d@a un brivido.  Ma noi siamo
+soprattutto colpiti da quei nomi stravaganti di Osterlicchi e
+Tambernicchi, e per quello anche troppo comune e popolare, quasi
+infantile, l'onomatopeico |cricchi.~
+
+	|Osterlicchi~ o Ostericche @e pi@u vicino al tedesco
+Oesterreich del nostro Austria, e fu usato dall'Ariosto anche
+fuori di rima (XLIV, str. 78); ma Tambernicchi non si sa bene se
+sia la Fruska Gora della Schiavonia, presso Tovernich, come dicono
+gli antichi commenti, o il monte Janorvjch nella Carniola, presso
+Adelsberg, oggi Postumia, come pensa il Bassermann; il Buti lo
+disse <uno monte altissimo dell'Armenia>.
+
+	Accortamente per@o vicino a questo nome oscuro @e posto
+quello di Pietrapiana, chiaro per l'intelligenza del lettore
+italiano e non ostico ai nostri orecchi.  Pietrapiana, 
+contrazione di Pietra apuana, appartiene alle Panie o Monti
+Apuani che dividono la Garfagnana dall'Appennino Modenese; alta
+1859 metri sul mare, visibile da Firenze, di cui cinge
+l'orizzonte a ponente, e nella sua costa settentrionale dalla
+Lunigiana, in forma di pan di zucchero e rocciosa, essa si
+prestava alla similitudine dantesca per il suo aspetto massiccio
+e pesante.
+
+	|31-36.~  Ed ecco subito, a rifare attento il lettore, 
+un'altra similitudine veramente dantesca, per il contrasto fra
+gli innocenti sogni della villanella che, durante l'estate, anche
+nel riposo, ha ancora tutta la mente occupata dai suoi umili
+lavori diurni, e i tetri pensieri di quei miseri irrigiditi in
+Cocito.  Anche qui perdura la satira schernevole per quel
+paragone dei dannati con la rana e con la cicogna; ma cos@i ben
+fusa nel quadretto georgico che apparisce nell'ombra.
+
+	La rana, anfibio, respira con la bocca ed ha veri
+polmoni, cos@i che non pu@o gracidare sott'acqua.  Il paragone @e
+forse suggerito da Ovidio (VI, 370); <Iuvat... nunc proferre
+caput, summo modo gurgite nares: Saepe nuper ripam stagni
+considere...  Vox quoque iam rauca est, inflataque colla
+tumescunt>; e ci fa ricordare i Barattieri, anch'essi sommersi e
+desiderosi d'uscire un momento alla ripa, ma dalla pece bollente, 
+e paragonati essi pure alle rane.
+
+	Anche la cicogna fu cantata da Ovidio (VI, 97): <Ipsa
+sibi plaudat crepitante ciconia rostro>; e Brunetto Latini
+scriveva: <Cicogna @e un grande uccello e sono senza lingua e
+perci@o fanno grande rumore col becco, battendolo molto insieme>
+(^Tesoro~, V, XXIII).
+
+	Siamo cos@i passati dalla descrizione del Cerchio a quella
+dei dannati, lividi per freddo, battendo i denti come le cicogne
+il becco, immersi nel ghiaccio |insin l@a dove appar vergogna~, 
+cio@e sino alla faccia, dove si mostra la vergogna, come ogni
+altro interno sentimento: <con ci@o sia cosa che sei passioni
+siano proprie de l'anima umana... cio@e grazia, zelo, 
+misericordia, invidia, amore e vergogna, di nulla di queste puote
+l'anima essere passionata che a la finestra de li occhi non vegna
+la sembianza> (^Conv.~, III, VIII, 10).  I traditori della Caina
+sono adunque sommersi sino al collo, e non resta loro libera che
+la livida faccia, ossia la bocca per dolersi e gli occhi per
+piangere.
+
+	|37-39.~  Quanto al tener in gi@u volta la faccia, vedremo
+che non @e par vergogna; ma perch@e le lagrime caschino dai loro
+occhi senza congelarsi, il che accrescerebbe il lor tormento, 
+trattenendo le altre lagrime che dal |cor tristo~ gonfiano le
+orbite.
+
+	|40-42.~  Con comodo suo, il Poeta si ricorda
+dell'apostrofe che gli era stata rivolta; si guarda ai piedi e
+vede due cos@i vicini l'uno all'altro, che i loro capelli si
+confondevano.  Frequentemente si ritrova nell'Inferno questo
+avvicinamento di dannati a coppie, ora per denotare la causa o la
+qualit@a della pena, sia essa l'amore, come in Paolo e Francesca, 
+o la comunanza d'interessi, come nei due Frati Gaudenti ipocriti;
+ora l'uguaglianza del peccato, come in tutti i peccatori
+dell'VIII Bolgia, Griffolino e Capocchio, Gianni Schicchi e
+Mirra, Mastro Adamo e i Conti di Romena, Sinone e la moglie di
+Putifarre; ora l'odio come nel Conte Ugolino e Ruggeri; ora, come
+qui, la parentela tradita.
+
+	Tragica casa quella dei Conti Alberti di Mangona, a cui
+appartennero i due ^fratei miseri lassi~ {v.21}!  Antichi
+feudatari, eran divenuti potentissimi nel secolo XI e Federico II
+nel 1184 aveva confermato loro i possessi di Mangona, di Vernio, 
+di Prato, della Val di Bisenzo ed altri della Val di Sieve, Val
+d'Elsa e Maremma.  Da loro eran discesi Cunizza ed Ezzelino, e
+per la loro potenza costituivano un vero pericolo per la stessa
+Firenze; donde guerre continue con alternarsi di sconfitte, 
+sottomissioni, trattati, alleanze e ribellioni.
+
+	Sul principio del secolo XIII gli Alberti avevano dovuto
+cedere al Comune fiorentino Siniforte in Val d'Elsa.  Nel 1250
+era capo della famiglia un Conte Alberto che in quell'anno test@o
+a favore dei suoi tre figli, Guglielmo, Alessandro e Napoleone, 
+privilegiando i due primi a danno del terzo, suo primogenito, a
+cui lasciava soltanto la decima parte dell'eredit@a.
+
+	L'ingiustizia del testamento, che ancora si conserva
+nell'Archivio pubblico di Siena, accese l'odio fraterno: si
+aggiunse la divisione politica, perch@e Napoleone era ghibellino, 
+Alessandro guelfo.  A quest'ultimo eran toccati i due castelli di
+Vernio e di Mangona: Napoleone glie li tolse con la violenza; ma
+la guelfa Firenze mosse contro di lui e lo costrinse a
+restituirli al fratello.  Son questi due gli eroi dell'episodio
+dantesco.  Un'effimera pace fra essi fu giurata nel 1282 per
+l'intervento del Cardinal Latino; ma poco dopo, ricercandosi l'un
+l'altro, a tradimento, scambievolmente s'uccisero.  Alessandro
+aveva lasciato per testamento che se i suoi figli fossero morti
+senza eredi, i suoi beni passassero al Comune di Firenze, e cos@i
+avvenne.  Napoleone aveva lasciato un figlio, il Conte Orso
+(^Purg.~, VI, 19), ed Alessandro pure un figlio, chiamato
+Alberto: questi nel 1286 uccise il cugino Orso, e nel 1325 fu
+ucciso a sua volta dal bastardo Spinello; sicch@e il ramo di
+Margona e di Vernio si spense e i due castelli divennero
+propriet@a del Comune fiorentino.
+
+	Dante che colloca il Conte Orso in Purgatorio, @e senza
+piet@a contro i fratricidi.  Narra una leggenda che il Poeta
+giungesse una notte, infuriando una tempesta di neve al Castello
+di Corbaia sul Bisenzo, e chiedesse ospitalit@a, che gli fu
+negata.  Del freddo allora sofferto, si sarebbe vendicato
+condannando i Conti a battere i denti in eterno nel ghiaccio di
+Cocito; ma basta l'orrore del fratricidio in una casa s@i nota per
+spiegare l'episodio che stiamo leggendo.
+
+	|43-51.~  Costretti petto contro petto, faccia contro
+faccia in quell'infrangibile prigione di ghiaccio che non
+scalfirebbero i monti cadendo, i due fratelli conservano l'odio
+che in vita li spense.  Alla domanda del Poeta, |chi siete~? sia
+che per averlo riconosciuto vivente, non voglian nominarsi, sia
+che l'ira tolga loro la parola, non rispondono; piegano i colli
+all'indietro per affisare Dante; ma, alzando il capo, le lagrime
+che rammollivano gli occhi pur dentro le orbite, gocciano su per
+le palpebre, |labbra~ degli occhi, vi si fermano, si raggelano e
+li accecano; e quelli, risalendo dal rinnovato dolore al loro
+pensiero continuo di esser sempre dannati a soffrire l'uno per
+colpa dell'altro, si battono come possono, riabbassado i capi e
+cozzando a testa bassa, come fanno i becchi infuriati: <inter se
+adversis luctantur cornibus haedi> (^Georgiche~, II, 356).
+
+	|52-54.~  L'episodio dei Conti Alberti non @e ancora
+terminato, ma solanto interrotto ancora una volta, come per
+fissare pi@u fortemente nella nostra memoria, a colpi staccati, il
+ricordo e l'esempio di s@i atroce delitto.
+
+	I peccatori di Cocito, affatto privi di carit@a, si odiano
+quanto @e possibile tra di loro, e non lasciano sfuggire
+opportunit@a di recarsi onta o danno l'un l'altro.  I due fratelli
+han taciuto il loro nome, ed ecco tosto un vicino che li
+smaschera, entrando in discorso con Dante irosamente, ingiuriando
+anche lui, come un ozioso importuno, o, peggio, come un reo che
+si compiace di ^specchiarsi~ in altri rei suoi pari.  Il Betti
+invece nella parola |specchi~ vede questa bellezza e propriet@a, 
+di dipingerci il dannato quasi cristallizzato.
+
+	Costui che parla, senza orecchi, orribile mostruosit@a che
+trasforma la faccia umana in quella d'un rettile, non ode, ma
+comprende ugualmente nel suo istinto perverso ci@o che Dante
+desidera, e coglie il destro per dar sfogo alla sua mala natura, 
+passando dai Conti Alberti ad altri compagni di pena, non
+risparmiando neppure s@e stesso, e terminando anche lui col
+mordere un suo congiunto ed infamare tutta la propria casata.
+
+	|55-57.~  Bella valle quella che fu dei Conti Alberti e
+|onde il Bisenzo si dichina~!  Dante pur nella trucit@a del
+racconto, non pu@o ricordarla senza dare al verso un suono
+nostalgico, quasi eco delle parole che udimmo da Mastro Adamo e
+da Pier da Medicina.  <@E formata da' contrafforti che nella
+direzione da settentrione ad ostro scendono dall'Appennino di
+Monte Piano e di Vernio, le quali branche prolungandosi a destra
+per Monte Giavello fino a Monte Murlo, a sinistra per Monte
+Cuccoli e la Galvana, prendono in mezzo la pianura e la citt@a di
+Prato; e per questo tratto appunto corre il Bisenzo> (Br.
+Bianchi), che si scarica nell'Arno sotto Firenze, dirimpetto alla
+Lastra.  <Nella valle ove scorre il Bisenzo @e un colle il cui
+piede @e verticalmente irto sulla riva sinistra del fiume, e tal
+colle reca sul dorso gli avanzi d'un castello medievale, il
+castello di Corbaja: ivi mor@i Cunizza da Romano, sorella di
+Ezzelino, con cui gli Alberti eran parenti> (Agostino Bartolini).
+
+	Il loquace cicerone della Caina insieme coi due fratelli
+nomina anche il padre loro; non senza ragione, perch@e
+l'ingiustizia del testamento fu la prima radice degli odi
+fraterni e della distruzione della famiglia.
+
+	|58-60.~  Il maldicente invelenisce sempre pi@u; ma qui
+non sapremmo dargli torto.  Quei due non eran fratellastri, ma
+|d'un corpo usciro~, figli della stessa madre, come dello stesso
+padre! e opportunissimo cade qui il nome della prima divisione di
+Cocito, |Caina~: chi pi@u Caino di loro?  N@e meno aggraziata si
+aggiunge l'immagine d'una ironia plebea, che alcuni autori
+malamente negano, affermando che |gelatina~ va considerata come
+^caldina~, parola usata da Iacopo di Dante (^Dottrinale~, XXV, 
+55), col semplice significato di luogo caldo.  Ma il sarcasmo non
+sfugg@i al Buti, che spiega: potrai cercare |e non troverai ombra
+degna pi@u d'esser fitta in gelatina~, <cio@e nella ghiaccia di
+Cocito, ove stanno l'anime fitte nella ghiaccia, come li polli
+nella gelatina>.  Il linguacciuto cos@i parlando ha pronunciato un
+termine di paragone, e ora lo compie volgendo in giro lo sguardo
+agli altri fitti in gelatina, come lui stesso.  Nessuno per@o pi@u
+reo degli Alberti:...
+
+	|61-69.~  Di tutti i nominati la figura che si descrive
+maggiormente @e quella dell'oratore, il Camicion de' Pazzi:
+insofferente di compagnia, si vede molestato da tutti;
+specialmente da quel povero Sassol Mascheroni che par stia l@i
+proprio per far dispetto a lui, e da Dante medesimo che accusa a
+torto di metterlo in sermoni, mentre ci si @e messo da s@e: con
+tutti maligno, odiatore dei suoi parenti e svergognato.  Ha
+compreso che Dante @e |tosco~ dalla curiosit@a con cui questi
+riguardava i Conti Alberti, e su toschi s'intrattiene, toltone il
+primo menzionato, che ci riporta per un momento ai romanzi
+cavallereschi: Mordr@ec, avendo tentato di togliere il regno a la
+vita al re Art@u, Arturo di Brettagna (520?), di cui era, secondo
+alcuni nepote, secondo altri figliuolo, fu dal re ucciso con un
+colpo di lancia s@i potente, che lo pass@o da parte a parte; per
+modo che <essendogli poi tratto il ferro dal petto, rimase tanto
+larga la piaga che il Sole mand@o i raggi per entro fino in terra, 
+nel mezzo dell'ombra che faceva il suo corpo> (Bargigi).  Ci@o
+spiega facilmente la frase dantesca: |ombra~ va preso nel suo
+significato pi@u semplice, e non di anima (Venturi), o di schiena
+<che @e l'ombra del petto> (Benassuti), come intesero alcuni
+commentatori, ignorando questo particolare della leggenda; mentre
+giustamente il Lombardi ammirava questo verso, come <una delle
+pi@u concise e forti espressioni dantesche>.
+
+	Vanni dei Cancellieri di Pistoia, soprannominato il
+Focaccia, dalle ^Istorie Pistoiesi~ e dipinto come <prode e
+gagliardo di persona>, ma s@i malvagio che <non attendea ad altro
+che ad uccisioni e ferite>.  Tra gli altri suoi misfatti le
+^Istorie~, tra il 1286 e il 1295, ricordano l'uccisione a
+tradimento, in una bottega di Pistoia, di Detto dei Cancellieri, 
+e quella di Dottorino de' Rossi, pur pistoiese e di parte Nera, 
+nel castello di Montemurlo.  Pare che fosse l'esecutore delle
+sentenze di parte Bianca, come Vanni Fucci lo era di quelle di
+parte Nera nella sciagurata citt@a.  Ma noi non sappiamo con
+precisione quale delitto contro i congiunti gli abbia meritato di
+esser posto dal Poeta nella Caina.  Pietro di Dante l'accusa di
+parrricidio; per@o @e dimostrato che il padre suo, Bertacca, frate
+godente, fu ucciso da Fredi Cancellieri.  Benvenuto racconta che
+per una futile questione, suscitata da una pallottola di neve, 
+tagliasse la mano al cugino Dore, e poi, recatosi a casa del
+padre del morto, uccidesse anche lui; per@o questo delitto, che fu
+origine della divisione dei Cancellieri e quindi dell'intera
+citt@a e poi di Toscana tutta in Bianchi e Neri, sembra che sia
+esso pure da attribuirsi ad un parente di Focaccia.  Il Lana, 
+l'Ottimo, L'Anonimo Fiorentino accusan Focaccia d'aver ucciso suo
+zio.  La moglie sua, figlia di Lippo Vergiolesi, pare che fosse
+la donna cantata da Cino da Pistoia sotto il nome di Selvaggia.
+
+	Sassol Mascheroni, dei Toschi di Firenze, <essendo tutore
+d'un suo nipote>, secondo l'Ottimo, di pi@u d'uno, secondo
+l'Anonimo del Selmi, o, come narra circonstanziatamente l'Anonimo
+Fiorentino, <avendo un suo zio vecchio, che non aveva altro che
+un fanciullo>, uccise il cuginetto per rimanere erede, e si
+godette per un pezzo la mal acquistata fortuna; finch@e, scoperto
+il delitto, fu preso, e con un supplizio che ricorda quello di
+Attilio Regolo, <fu messo in una botte di aguti e fu trascinato
+rotolando la botte per terra, e poi gli fu mozzo il capo>. 
+L'Anonimo conchiude, a illustrazione del verso di Dante, che <fu
+questa novella s@i palese che per tutta Toscana se ne parl@o>.
+
+	Meno di tutti gli altri ci @e noto il |Camicion de'
+Pazzi~, Alberto Camicione dei Pazzi di Valdarno, che uccise
+proditoriamente o un Ubertino de' Pazzi, o un Ubertino degli
+Ubertini (Del Lungo), chi dice semplicemente suo consanguineo
+(Benvenuto), chi cugino (Anonimo Fiorentino) e chi zio (Buti).
+
+	Ma importanza maggiore per noi riveste l'ultimo dei
+personaggi nominati, Carlino de' Pazzi, perch@e il suo tradimento
+riguarda una pagina delle pi@u illustrative nella storia di
+Firenze e di Dante: tradimento che scagioner@a me stesso, facendo
+apparire men grave, al confronto, il mio delitto, dice il
+Camicion, con frase che al Cesari ricord@o il biblico
+<Iustificasti sorores tuas> detto di Gerusalemme in confronto di
+Sodoma e Gomorra.  Carlino dei Pazzi, che erano un ramo degli
+Ubertini, non sar@a un abitatore della Caina, ma della peggiore
+sferetta che segue, l'Antenora, punitrice del tradimento contro
+la patria o la parte politica.
+
+	Nel 1302, anno della prima guerra mugellana, dopo
+l'adunanza di San Godenzo (8 Giugno), in cui gli esuli Bianchi, 
+Dante presente, avevan deciso di rientrare in patria a mano
+armata, affidandosi agli Ubertini, l'esercito Bianco si mosse
+diviso in due parti: l'una scendeva nel Valdarno di sopra
+prendendo il castello di Ganghereto e di Piantravigne; l'altra
+seguiva la Val di Sieve.  Ma Carlino de' Pazzi poneva tostamente
+fine all'impresa, perch@e <per denaro che elli ebbe>, testimonia
+il Villani (VIII, 53), apr@i ai Neri le porte del castello di
+Piantravigne, nel quale i Bianchi s'erano chiusi.  Molti vi
+furono presi e morti, ed erano i migliori fuorusciti Bianchi e
+Ghibellini.  Tra i morti, si legge nel Bambaglioli, furono pure
+un fratello del padre ed altro consanguineo di Carlino; sicch@e il
+traditore dei Bianchi pu@o esser considerato anche come traditore
+dei congiunti, e sta bene a cavallo tra i due Gironi di Cocito. 
+Il Davidsohn riporta un atto del 3 Gennaio 1303, col quale
+dinanzi al notaio Uguccione Bondoni, si rimuneravano i servigi
+resi ai Neri da Carlino con molti premi, oltre la revoca
+dell'esilio.  Il suo nome si trova prima fra quelli dei
+Ghibellini condannati il 2 Luglio 1302, e poi perdonati il 3
+Agosto.
+
+	Girone II o Antenora -- Traditori della Patria e della
+Fazione.
+
+	Antenore da cui prende nome il secondo girone di Cocito, 
+nei poemi omerici fu un nobile principe troiano che avrebbe, non
+tradito, ma cercato di salvare la patria, consigliando che si
+restituisse Elena ai Greci e si facesse con essi la pace.  Ma
+dopo che Virgilio ebbe fatto d'Antenore l'unico troiano sfuggito
+alla schiavit@u dei nemici, navigatore dei mari e infine fondatore
+di Padova (^Eneide~, I, 242), Pausania (X, 27) e Strabonio (XIII, 
+I, 53) avevano sospettato che avesse ottenuto la libert@a in
+premio d'aver dato il segnale ai greci e aperto il famoso cavallo
+nell'ultima notte di Troia; e l'accusa di tradimento, accolta da
+Servio nel commento al citato passo dell'Eneide, aveva ottenuto
+stabil credenza nel Medio Evo; tanto che il Buti, riportando
+l'epitaffio che, <secondo che si dice e che si vede>, fu inciso
+sulla sua sepoltura, <Hic iacet Antenor paduanae conditor urbis:
+Proditor ille fuit, et qui sequuntur eum>, l'interpretava nel
+senso che i patavini tutti fossero traditori.  Non molto diversa
+dovette essere l'opinione di Dante quando chiam@o ^Antenori~, in
+altro passo del Poema (^Purg.~, V, 75), i patavini.
+
+	|70-72.~  In questa terzina si compendia tutta la
+descrizione del passaggio dal primo al secondo girone di Cocito e
+tutta la descrizione dell'Antenora.  La pena non muta; soltanto
+ai visi ^lividi~ succedono visi |cagnazzi~, che sembrano indicare
+un freddo peggiore; tanto da rendere i volti maculati e
+aggrinzati come la pelle del muso dei cani, sicch@e |cagnazzi~
+dice, insieme col colore, lo sguardo bieco, da traditore.
+
+	Ma se picciola differenza di pena distingue gli Antenori
+dai Caini, il divario tra i due gironi @e patente nel mutato
+atteggiamento del Poeta.  Egli @e passato quasi indifferente, 
+senza dir parola, per la Caina; senza neppur manifestare il
+|riprezzo~ che ora manifesta e che sentir@a |sempre~, per quel
+luogo d'Inferno e quel delitto.  Egli @e passato muto attraverso i
+traditori dei congiunti, forse per non dar esca alle gi@a troppo
+severe a deprecate leggi della consorteria, e attizzare gli animi
+alla vendetta.  Nessun ritegno invece lo trattiene dal mostrar
+l'ira sua davanti ai traditori della patria o politici, ed egli
+stesso divien qui appassionato e terribile; non solo spettatore
+compiacente della giustizia divina, ma anche suo esecutore.  Nel
+girone precedente i Conti Alberti c'ispiraron orrore per il loro
+delitto, il Camicion de' Pazzi per la sua malvagia e sfrontata
+loquacit@a, e altri per altro; nel nuovo girone, orrore del
+delitto, sprezzo per la maldicenza, tutta la nostra giusta
+avversione si concentra su di un solo dannato, e l'episodio di
+Bocca degli Abati @e fra quelli che pi@u si ricordano per la
+drammaticit@a della scena e per la nobile ira a cui qui il Poeta
+s'abbandona: quell'ira buona che gi@a notammo nell'episodio di
+Filippo Argenti.
+
+	|73-78.  Lo mezzo al quale ogni gravezza si rauna~, come
+il verso 111 del Canto XXXIV dell'Inferno, fu da alcuni, fra cui
+l'Antonelli, ammirato come una divinazione dantesca della legge
+di gravit@a, scoperta da Galileo.  Per@o, lasciando a parte la
+nostra meraviglia per un verso cos@i felice che rimane esatto
+scientificamente, anche dopo che la scienza ha proceduto verso
+pi@u vere dottrine, il pensiero di Dante era molto lontano da
+quello di Galileo.  Il nostro verso non @e che la traduzione
+poetica di un concetto di San Tommaso: <grave definitur quod
+natum est moveri ad medium>, cio@e verso il centro della sua
+circonferenza; espressione della teoria aristotelica che ogni
+elemento tende alla sua sfera, per cui la terra, essendo pi@u
+grave degli altri elementi, acqua, aere e fuoco, |si rauna~ al di
+sotto del mare e di tutti gli altri elementi, e ne diviene il
+^soggetto~ (^Par.~, XXIX, 51) o il sostegno.
+
+	Mentre adunque il Poeta procede verso il centro dove si
+raduna il pi@u basso e vile degli elementi della materia, e dove @e
+confitto Lucifero, se fu |voler~ divino che il traditore fosse
+calpestato da una delle sue vittime, o |destino~ di Bocca che il
+suo fallo avesse sicura testimonianza, o |fortuna~ di Dante che
+gli offrisse occasione di vendetta, Dante stesso non lo sa; ma sa
+e ricorda con volutt@a di aver dato del piede nel viso a Bocca
+degli Abati.
+
+	E forse fu invenzione dei Guelfi vinti, per diminuire
+l'onta della sconfitta, forse fu vero; certo era tradizione
+corrente che Bocca degli Abati avesse tradito i Guelfi a
+Montaperti, e la raccolse anche il Villani (VI, 78); <Come la
+schiera de' Tedeschi rovinosamente percosse la schiera de'
+cavalieri de' Fiorentini, ov'era la insegna della cavalleria del
+Comune, la quale portava messer Iacopo del Nacca della casa de'
+Pazzi di Firenze, uomo di grande valore, il traditore di messer
+Bocca degli Abati, ch'era in una schiera e presso di lui, colla
+spada fer@i il detto messer Iacopo e tagliogli la mano colla quale
+tenea la detta insegna: e ivi fu morto di presente.  E ci@o fatto, 
+la cavalleria e popolo, veggendo abbattuta l'insegna e cos@i
+traditi da' loro e da' Tedeschi s@i forte assaliti, in poco d'ora
+si misono in isconfitta>.
+
+	Se noi ricondiamo dal Canto X quale immenso lutto
+cagionasse a Firenze e a tutta Toscana la sconfitta di
+Montaperti, noi comprenderemo facilmente come in Bocca degli
+Abati il Poeta raffigurasse pi@u che il traditor del partito, il
+traditor della patria, che dal partito guelfo era allor
+governata.  E se noi ricordiamo che fra i guelfi colpiti di bando
+in seguito a quella sconfitta fu il padre di Dante, noi
+comprenderemo come all'ira di cittadino unisca ora il Poeta l'ira
+dell'offeso contro l'offensore; perci@o l'episodio rimase intatto
+anche dopo che Dante aveva cessato d'appartenere al partito
+guelfo.
+
+	Nell'ultimo verso, |forte percossi il pi@e nel viso ad
+una~, le parole sonore, la loro collocazione, la cupa rima, tutto
+ci fa sentire la forza della percossa e il piacere che ancor
+Dante ne prova.  Egli perdon@o a Farinata, che pi@u tardi a ^viso
+aperto~ difese e salv@o Firenze; ma al traditore non perdona;
+batte forte nel viso di lui il piede che aveva risparmiato le
+teste dei Conti di Mangona; contro di lui sfoga l'ira che aveva
+represso all'udire il nome abborrito di Carlino de' Pazzi.  Ecco
+Bocca che piange e che sgrida.
+
+	|79-81.  Perch@e mi peste? perch@e mi moleste~?  Riecheggia
+nella duplice interrogazione il lamento di Pier della Vigna, che
+pur lui era stato offeso dal vivo; ma il lamento che l@a mosse a
+piet@a, qui muove a sospetto.
+
+	|82-84.  Un dubbio~: Bocca s'era lasciato sfuggire una
+mezza confessione, naturalissima in chi @e sotto l'impero d'un
+ricordo per sempre funesto.  Ora Dante dubita, cio@e, dicono quasi
+tutti i commentatori, vuol sapere se veramente tradimento a
+Montaperti ci fu, come correva la voce.  Ma forse il dubbio di
+Dante non @e altro che questo: se veramente costui sia quel
+traditore che le sue parole lasciavano sospettare: |per costui~
+non significherebbe ^per mezzo di costui~, bens@i ^intorno a
+costui.~  Ad ogni modo, il desiderio di sapere @e tale in Dante, 
+che per un momento di attesa non teme di dover poi affrettare il
+passo |quantunque~, cio@e quando piacer@a al Maestro, sempre
+attento a non perder tempo.
+
+	|85-87.  Lo duca stette.~  La subita condiscendenza del
+severo Duca ha un alto significato.  Egli sa chi @e colui e
+conosce l'animo del discepolo: prevede ci@o che sta per accadere
+tra i due nemici che gi@a prima di conoscersi un odio intuitivo
+accende fortemente; prevede che verranno agli oltraggi e alle
+mani, come Mastro Adamo e Sinone; ma non impedisce che ci@o
+avvenga; tacendo e fermandosi, egli approva, come aveva fatto
+dinanzi a Filippo Argenti, l'ira di Dante, e lascia che la
+vendetta si compia.  Bocca bestemmia ancora per il dolore della
+percossa che nelle parti congelate del corpo dura pi@u a lungo, e
+Dante gli chiede chi sia aspramente, come se egli avesse pi@u
+ragione di sentirsi offeso dalle parole di rampogna che l'altro
+da una pedata, finora, non giustificata.
+
+	|88-90.~  Chi son io che rampogno? dimmi piuttosto |chi
+sei~ tu |che vai per l'Antenora~, un traditore adunque, 
+dispensando calci sulle gote altrui, tanto che se io fossi vivo
+ti risponderei a dovere; o, forse meglio, secondo la pi@u comune
+interpretazione e la risposta di Dante, se tu fossi vivo non si
+sentirebbe di pi@u il peso e la forza del tuo piede.
+
+	|91-96.~  Io vado per l'Antenora, ma non sono un
+traditore, perch@e son vivo, risponde Dante; e se ho commesso un
+fallo e tu non meritavi il mio calcio, ne far@o ammenda, 
+rinnovando nel mondo la tua fama, ^se tu la domandi~: l'ultima
+frase @e un invito, ironico e subdolo, a nominarsi, che non sfugge
+al traditore.  Botta e risposta: un uguale volont@a di non darsi a
+conoscere per nome @e in entrambi, ma specialmente nel dannato, a
+cui quella notizia che Dante @e vivo e che torner@a al mondo, 
+produce l'effetto contrario a quel che tante volte vedemmo, e
+specialmente in Pier de la Vigna.  Infatti i puniti di questa
+|lama~, di questa bassura stagnante e gelata che @e Cocito, 
+differiscono da tutti gli altri men rei abitatori dell'Inferno
+dantesco in ci@o, che vorrebbero esser dimenticati dal mondo; e se
+qualcuno si nomina, come il Camicion de' Pazzi, lo fa per sfoggio
+di spudoratezza; e se altri offre al Poeta nomi e materia per le
+|sue note~, lo fa per mal animo contro i propri compagni di pena, 
+come vedemmo test@e, come vedremo tosto in Bocca medesimo, e poi
+nel Conte Ugolino che racconter@a la sua storia per accrescere
+infamia all'Arcivescovo Ruggeri.  Bocca adunque non vuol
+nominarsi; il suo silenzio @e la confessione che Dante chiedeva, e
+il Poeta arde di sdegno.
+
+	|97-99.~  Va via e non m'infastidire pi@u, aveva risposto
+sprezzantemente il traditore a chi vantava la sua specialissima
+missione.  Ogni infingimento @e ormai inutile; Dante costringer@a
+il reo a dire il suo nome, o lo lascer@a pelato in quel freddo.  E
+l'afferra di fatto pei capelli della collotola e comincia a
+tirare.  Quella parola |cuticagna~ basterebbe da sola a dir
+tutto: risolutezza, odio e dispetto da parte di Dante, impotenza, 
+dolore e caparbiet@a in Bocca degli Abati.
+
+	|100-102.~  Dante pu@o abusare quanto vuole della sua
+superiorit@a fisica: bella forza! egli @e vivo, con tutto l'uso
+delle sue membra e sciolto! ma lo dischiomi pure o torni a
+pestarlo, ^tomandogli~, cascandogli a pi@e levati sul capo, non la
+spunter@a, non gli far@a dire chi sia, non avr@a da Bocca indizi per
+comprenderlo.
+
+	|103-108.~  Il traditore doveva avere una bella
+capigliatura, se Dante pu@o avvolgersi i suoi capelli tra le mani, 
+e strapparli a ciocca a ciocca!  Quello intanto latra di dolore;
+ma non alza il capo, non mostra il viso per non esser
+riconosciuto, quando, inaspettatamente, si ripete ci@o che avvenne
+nella Caina: anche nell'Antenora c'@e il compagno che ha in odio
+Bocca e gode di vituperarlo, prendendo per iscusa che i suoi
+latrati l'incomodano: cos@i risuona per l'inferno il detestato
+nome.
+
+	|109-111.~  Dante si rialza vittorioso, ed al vinto non
+resta che fingere indifferenza per la patita sconfitta, 
+noncuranza dell'infamia che l'aspetta e vendicarsi del
+linguacciuto delatore; anzi estende la vendetta a tutti quelli
+che l'attorniano.  La sua parola diventa cinica e mordace;
+continua a trattar Dante come prima: ^va via~ {v.112}! quasi ora
+desidera che torni veramente nel mondo perch@e infami seco anche i
+compagni; scherza sulla pena che colpisce tutti questi, come lui
+stesso; immagina la scena che avverr@a a Firenze alle rivelazioni
+di Dante, le domande che gli saranno rivolte, suggerisce le
+risposte.  Una pi@u bella pittura del cinismo, dell'ostinazione, 
+della bestialit@a di Cocito non poteva trovarsi.
+
+	|115-117.~  Buoso da Doera o Dovera, era uomo pratico di
+tradimenti: manc@o di fede ad Ezzelino che gli era amico; trad@i il
+Pallavicino, suo compagno nel dominio di Cremona, donde Buoso fu
+cacciato nel 1267, n@e pot@e pi@u averla, bench@e per ci@o brigasse
+fino al 1282.  Ma il delitto che lo danna a Cocito @e soprattutto
+quello d'aver tolto denaro, l'argento, come dice ironicamente
+Bocca alla francese, l'|argent~, di Carlo d'Angi@o per tradire
+Manfredi.  Anche questa @e voce che corse allora l'Italia e che
+Dante cred@e vera; noi la ritroviamo nella Cronaca di Pipino: nel
+1265 Manfredi aveva dato molti denari a Buoso da Dovera perch@e
+assoldasse milizie da opporre ai francesi presso Parma; ma Buoso
+prefer@i tenere i denari per s@e, prenderne altri da Carlo d'Angi@o
+e lasciare che l'esercito invasore passasse liberamente.
+
+	|118-120.  Se fossi domandato altri chi v'era~, e i
+fiorentini l'avrebbero domandato certamente a proposito di color
+che ^stanno freschi~ {v.117}, @e espressione d'intraducibil
+sarcasmo, che la storia illustra.  Tesauro di Beccheria, nel
+pavese, gentiluomo di nascita, abate di Vallombrosa, fu legato
+del Pontefice Alessandro IV in Toscana.  La carica insigne @e ben
+messa in ridicolo da Bocca con la parola |gorgiera~, che ci
+richiama alla mente il collare magnifico, insegna di dignit@a, 
+che, pi@u ancora d'una vera gorgiera dell'armatura soldatesca, 
+avrebbe dovuto proteggere da ogni offesa il collo dell'Abate
+nella guelfa Firenze.  Ma n@e <sua dignit@a n@e ordine sacro>, come
+dice il Villani (VI, 65), salvarono dalla scure fiorentina il
+collo del Legato pontificio nel 1258, quando si scopersero le sue
+segrete mene coi fuorusciti ghibellini, Farinata, Guido Novello e
+compagni, per farli rientrare in citt@a.  <Il popolo di Firenze
+fece pigliare l'Abate di Vallombrosa>, e dopo averlo fatto
+confessare, <per martiro>, il suo fallo, <scelleratamente nella
+Piazza di Santo Apollinare gli feciono a grido di popolo tagliare
+il capo>.
+
+	Certa l'accusa d'intesa coi Ghibellini sbanditi, resta
+dubbia la colpa di tradimento; poich@e, come accortamente osserva
+il Villani, il Vallombrosa era <di suo linguaggio ghibellino
+grande>, e non fiorentino, ma pavese.  E ben diversamente dai
+Fiorentini giudicaron l'Abate il Pontefice, che per quella
+sentenza scomunic@o Firenze, e il comune pavese che per molti
+anni, per vendicare l'ucciso, fece rappresaglie contro quanti
+toscani passassero in Lombardia; anche il Malaspini, pi@u
+recisamente ancora del Villani, giudica l'Abate innocente.
+
+	Dante non volge gli occhi verso il nominato, non parla
+con lui, bench@e l'abbia a ^lato~; le novelle che ne porta a
+Firenze escono dalla bocca di un traditore.  Per@o l'aver qui
+nominato Tesauro di Beccheria, dopo quanto abbiam detto, mostra
+la grande severit@a del Poeta verso i reggitori della cosa
+pubblica e gli alti ministri dell'autorit@a pontificia: non @e
+lecito a costoro dar l'esempio d'un inganno; andare per nascoste
+vie.  Se anche Tesauro era pavese e ghibellino, osserva Pietro di
+Dante, <Florentia erat eius patria ratione praedictae abbatiae>, 
+ed egli pu@o quindi esser collocato fra i traditori della patria.
+
+	|121-123.~  Dai vicini Bocca volge lo sguardo velenoso
+|pi@u l@a~, e continuerebbe a passare in rassegna tutta l'Antenora
+se i due Poeti a un bel momento non la piantassero in asso senza
+pi@u dirgli parola.
+
+	Ecco intanto tre altri buoni tomi messi in mazzo da lui
+con far da sornione: |credo che sia.~
+
+	Ganellone o Gano di Magonza @e il tipo del traditore
+leggendario dei romanzi cavallereschi del ciclo carolingio:
+vendutosi ai Saraceni, prepar@o la strage di Roncisvalle traendo
+in un agguato, lontano dal grosso dell'esercito, Orlando con la
+^santa gesta.~  Nome e creazione fantastica, in cui forse si
+personific@o un personaggio storico, Wenilo, Arcivescovo di Sens, 
+che trad@i Carlo il Calvo e si diede a Lodovico il Germanico, per
+cui fu poi condannato dal Concilio di Savonni@eres l'anno 859, 
+come si legge negli ^Annales de Saint Martin~ (Berthier).
+
+	Storici e dei tempi di Dante sono invece gli altri due
+nominati.
+
+	Gianni de' Soldanier, che qui il Poeta condanna
+all'Inferno, e che il Villani (XII, 44; VII, 14) celebra invece
+con Giano Della Bella, Vieri dei Cerchi e... Dante Alighieri, 
+come <capo della difensione del popolo contra al Conte Guido
+Novello e agli altri Ghibellini>, viveva ancora nel 1285, nel
+qual anno fu in lite col Comune di Prato.  L'Anonimo Fiorentino
+dice che fu anche Podest@a di Faenza.  Dante lo condanna per
+tradimento alla parte ghibellina, a cui egli, nobile, 
+apparteneva; e ci@o fu al tempo dei Frati Gaudenti.  Firenze, come
+tutta l'Italia aveva subito il contraccolpo della vittoria di
+Carlo d'Angi@o a Benevento contro Manfredi, ed aveva cercato di
+scongiurar la mala ventura nominando due poest@a anzich@e uno, i
+due Frati Gaudenti che gi@a conosciamo.  Questi crearono un
+consiglio di 36 ^buoni uomini~, detti Anziani, che si mostrarono
+tutti intesi al bene del Comune, con provvedimenti che
+restituivano la prevalenza alla borghesia vinta a Montaperti. 
+Insospettitisi perci@o i grandi ghibellini, chiesero aiuto ai
+Comuni della Taglia toscana e n'ebbero 900 cavalieri tedeschi che
+si unirono ai 600 di Guido Novello.  Cos@i s'aggravavano per@o le
+spese del Comune, e contro i nuovi gravami si opponevan gli
+Anziani: i nobili usciron sulle piazze contro di essi, e fu
+allora che Gianni de' Soldanieri, bench@e nobile, si fece capo dei
+popolani e tenne fronte ai Ghibellini, respingendo Guido Novello
+coi suoi fuori della citt@a.  I vinti tornarono alla riscosa il
+giorno dopo; ma trovaron le porte chiuse e ben difese, per cui si
+ritrassero nel Casentino e nelle loro rocche.  Da ci@o si
+comprende il diverso giudizio di Dante, qui, e del guelfo
+Villani; il quale per@o riconosce onestamente che Gianni dei
+Soldanier non fu spinto a mutar parte, tanto da amore di patria, 
+quanto dalla speranza di <montare in istate>, e di fatto in
+quell'occasione entr@o a far parte del governo della citt@a (1292).
+
+	Tebaldello ci riporta alla storia della Romagna, alcuni
+anni prima dei tempi che conosciamo dal Canto XXVII.  Nel 1279
+era avvenuto un primo tentativo di rappacificare quelle
+turbolente citt@a, per intromissione, del Cardinal Latino; ma la
+pace fu di breve durata, e a Bologna, i Geremei, guelfi, 
+cacciarono i ghibellini Lambertazzi, che furono accolti in
+Faenza, donde erano stati cacciati i Manfredi.  Ma i Lambertazzi
+governarono con violenza ed orgoglio da tiranni, e la storia di
+Tebaldello lo prova.  Costui, della famiglia dei Zambasi di
+Faenza, bench@e ghibellino, fu vittima d'una burla triviale dei
+Lambertazzi, che, rubatogli un porco, ne fecero grosso banchetto
+a suo scherno e dispetto.  Le Novelle del tempo ci dicono quanto
+questo genere di scherzi fosse allora comune e quanto
+oltraggioso.  Ma questa volta i beffatori furono atrocemente
+puniti; perch@e Tebaldello si un@i coi Geremei di Bologna, 
+promettendo di dar loro in mano Faenza, purch@e la sua famiglia
+fosse da essi accolta nel numero dei cittadini bolognesi e quindi
+protetta.  E, fatti gli accordi, la notte fra il 12 e il 13
+novembre 1280, i Bolognesi col favor delle tenebre, si
+accostarono a Faenza, e verso l'alba Tebaldello che custodiva la
+porta Imolese, infranta la serratura, li introduceva in citt@a.
+Quivi, dopo lotta sanguinosa, i Geremei trionfavano, e Faenza fu
+messa a sacco, senza rispetto neppure pei sacri arredi delle
+chiese.  Il fatto divenne argomento per un serventese che corse
+tutta l'Italia.  Tebaldello trov@o poi la morte nel giorno che i
+forlivesi, comandati da Guido da Montefeltro, fecero il
+^sanguinoso mucchio~ dei francesi e loro alleati.  Una figlia di
+Tebaldello, Zambrasina, fu moglie di Gianciotto Malatesta, dopo
+la tragedia di Rimini.
+
+	Se noi ora, ripetendo i nomi di questa sfilata di
+traditori, osserviamo l'equit@a di Dante nel condannare
+promiscuamente guelfi e ghibellini, la giusta proporzione
+dell'ira sua che si scatena specialmente su Bocca degli Abati, e
+la sua severit@a che non concede scusa di sorta non solo a
+Tebaldello, ma nemmeno a Gianni de' Soldanier e Tesauro di
+Beccheria, riconosceremo quanto il Poeta giudicasse superiori
+agli interessi del partito quelli dello Stato, e quale concetto
+altissimo egli avesse tanto dell'autorit@a legalmente costituita, 
+quanto dei doveri di chi @e chiamato ad esercitarla.  E degno
+coronamento del pensiero dantesco, comincia ora la tragedia del
+Conte Ugolino e dell'Arcivescovo Ruggeri, che si svolger@a nel
+Canto seguente, solenne anche per due apostrofi, l'una contro la
+ghibellina Pisa, l'altra contro Genova guelfa, per le loro
+contese, cagioni di turbamento per tutta la penisola nostra.
+
+	|124-126.  Due~, come Paolo e Francesca, e, come questi, 
+puniti per una identica colpa; ma mentre i due cognati anche
+nell'Inferno erano stretti in un laccio d'amore immenso, qui un
+odio immenso avvince i due reggitori di Pisa.
+
+	Per l'episodio sovranamente drammatico che comincia, il
+Poeta, con grande accorgimento, volle dividere in due Canti ci@o
+che riguarda l'Inferno e ci@o che ricorda la terra: nel Canto
+seguente si svolge tutta la storia terrena, nel Canto nostro si
+descrive la collocazione e la pena dei due traditori, e, per
+mezzo d'una similitudine classica, la ragione politica del loro
+odio: quell'odio che serve a riunire le due parti separate
+dell'episodio.
+
+	Si @e molto discusso, e la controversia cominci@o col
+Rossetti, se il Conte Ugolino e l'Arcivescovo Ruggeri siano
+entrambi puniti nell'Antenora, o l'uno, il Conte, nell'Antenora, 
+l'altro, l'Arcivescovo nella Tolomea: la prima opinione sembra
+pi@u accettabile: per ci@o che riguarda l'Inferno, entrambi non
+sono che dei rei di tradimento verso la patria: se poi
+l'Arcivescovo deviene anche il traditore, nel dramma intimo, 
+verso il Conte che sarebbe il tradito, questo non ha attinenza
+con la distribuzione di questi dannati in Cocito.
+
+	|127-129.~  Il Conte Ugolino @e sempre collocato in modo
+da esser sovrano, cio@e pi@u alto dell'altro, o @e riuscito a
+sorpassarlo in questo solo momento, all'arrivo di Dante, e ora
+soltanto addenta l'odiato nemico tra il cervello e la nuca?  La
+parola |pose~ invece di ^aveva posto~ fece nascer questo dubbio
+al D'Ovidio; ma noi possiamo supporre che in quel momento il
+Conte, avendo terminato di rodere una parte del teschio, levasse
+i denti di l@a e li trasportasse sulla nuca.  L'orribile pasto
+cannibalesco suggerisce al Poeta un ricordo da Stazio, che forse
+ebbe la sua parte nell'invenzione di questo espisodio.
+
+	|130-132.~  Narra Stazio (VIII, 755) che quando Tideo
+seppe che Menalippo, suo irreconciliabil nemico, era stato ucciso
+da Capaneo, se ne fece recare il teschio e lo rose.  Dante dice
+il |teschio e l'altre cose~, cio@e le parti dure del capo e le
+molli, rendendo forse meglio del verso latino l'orrenda immagine
+del capo guasto e della bocca feroce del morditore, insozzata di
+sangue e brandelli di cervello.  Stazio aveva detto <caput...
+effracti perfusum tabe cerebri aspicit, et vivo scelerantem
+sanguine fauces>.
+
+	|133-139.~  Il Poeta si rivolge a colui il cui atto
+sembra pi@u bestiale, perch@e ha compreso che quell'atto @e voluto
+dalla giustizia divina, come punizione d'una particolar |pecca~
+dell'altro; e gli chiede la ragione di quell'atto indice d'odio, 
+promettendogli in ricompensa di riportarla al mondo, se la lingua
+con cui parla non si seccher@a, non si prosciugher@a.  Un patto
+per@o pone Dante: che la cagione dell'odio sia giusta, che egli
+abbia ragione di ^piangersi~, o lamentarsi, dal francese ^se
+plaigner~, di colui che rode.
+
+	Noi sappiamo gi@a che i dannati dell'Antenora non si
+lascian lusingare dalla promessa di esser ricordati tra i vivi, 
+perch@e amano meglio esserne dimenticati.  Risponder@a
+l'interrogato?  Si, risponder@a; non per esser rinfamato nel mondo
+egli stesso, ma per accrescere infamia al suo nemico.  In ci@o il
+Conte Ugolino non @e dissimile dagli altri peccatori
+dell'Antenora; con questa differenza per@o, che mentre il Camicion
+dei Pazzi e Bocca degli Abati estendevano il loro odio a tutti i
+compagni di pena, senza altra apprezzabil ragione che la loro
+perversa natura, l'odio del Conte si concentra tutto e pesa su di
+un solo, ed @e vendetta d'un'offesa inaudita: s@i dolce vendetta
+che Ugolino non mostrer@a neppur di ricordarsi del ghiaccio che lo
+fascia.

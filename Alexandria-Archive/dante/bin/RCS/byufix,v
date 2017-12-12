@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.57.07;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@process a tape made at Brigham Young University
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh -f
+#	fixname-changes BYU filenames to DDP standard names
+#	Jonathan Altman on 5/10/88
+
+foreach FILE ($argv)
+	set NEWFILE=`echo $FILE | sed -e 's/DD[1-3][A-Z][A-Z]*//'`
+	if (`echo $NEWFILE | wc -c` < 5) set NEWFILE=0$NEWFILE
+	mv $FILE $NEWFILE:r.k
+end
+@

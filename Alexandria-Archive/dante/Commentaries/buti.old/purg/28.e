@@ -1,0 +1,993 @@
+|PURGATORIO CANTO 28~
+
+        |Proemio.~  ^Vago gi@a di cercar d'entro e d'intorno~ ec.  
+Questo @e lo canto XXVIII\, nel quale lo nostro autore finge come\, 
+montato al paradiso terresto\, trov@o in esso la felicit@a e lo diletto 
+lo quale si legge ditto da' dottori de la Chiesa\, li quali lo chiamano 
+paradiso di diletto; e ne' seguenti canti figura essere mostratoli in 
+modo d'una processione tutto lo cominciamento de la nuova Chiesa 
+incominciata e fondata in su la legge evangelica da Cristo\, figurata ne 
+la antica legge di Mois@e e ne la sinagoga di Iudei\, per mostrare come 
+l'omo\, compiuta la sua penitenzia\, si d@e esercitare ne la pratica de 
+la Chiesa e ne le virt@u pratiche acci@o che\, informato di quelle\, 
+possi poi a contemplare la celeste Ierusalem montare; la qual cosa ser@a 
+la materia de la tersa cantica\, ne la quale tratter@a de la 
+contemplazione de le virt@u e de l'eterna beatitudine; e questo primo 
+tutto rappresenta nel processo di questa cantica sotto bella fizione.  E 
+dividesi questo canto principalmente in due parti: imper@o che prima 
+finge come\, montato su et andato inverso lo mezzo de la pianura del 
+monte v'era lo paradiso\, pervenne ad uno fiumicello che correa giuso 
+inverso mano sinistra; e come di l@a dal fiume vidde andare colliendo 
+fiori la donna ch'elli avea seguitato di sopra nel canto precedente; e 
+come venne a parlamento con lei.  Ne la seconda parte\, che ser@a la 
+seconda lezione\, l'autore nostro finge come la ditta donna li dichiara 
+alcuni dubbi che Dante li mosse\, et anco di quelli che mosse ella da 
+s@e\, et incominciasi la seconda quive: ^Voi siete nuovi~ ec.  La 
+prima\, che ser@a la prima lezione\, si divide in 5 parti: imper@o che 
+prima descrive com'era fatto lo paradiso terresto; ne la seconda finge 
+come\, attraversando per la foresta\, fu impacciato da uno fiumicello 
+che si trov@o inansi\, che venia di verso levante e correa verso 
+ponente\, et incominciasi quive: ^Gi@a m'avean trasportato~ ec.; ne la 
+tersa finge come\, fermatosi quive ragguardando di l@a\, vidde una donna 
+andare colliendo fiori\
+, quive: ^Coi pi@e ristetti~ ec.; ne la quarta finge com'elli 
+incominci@o a parlare a la ditta donna e pregolla ch'ella s'accostasse 
+et ella lo fe\, et incominciasi quive: ^Deh bella donna~ ec.; ne la 
+quinta finge come venne infine all'acqua e ragguard@o lui\, e com'ella 
+trafficava co le suoe mani molti fiori\, perch@e grande desiderio venne 
+a lui di passare di l@a\, et incominciasi quive: ^Tosto che fu l@a dove~ 
+ec.  Divisa ora la lezione\, @e da vedere lo testo co la esposizione 
+letterale\, allegorica e morale.
+
+        |1-21.~  In questi sette ternari lo nostro autore finge come da 
+s@e si misse ad andare sensa guidamento per lo paradiso\, e descrive 
+come era fatto\, dicendo cos@i: ^Vago gi@a di cercar~; cio@e io Dante\, 
+^d'entro~; cio@e per lo mezzo\, ^e d'intorno~; cio@e in giro\, ^La 
+divina foresta~; cio@e la selva fatta da Dio per abitazione dell'umana 
+specie con ogni bellezza e dilettansa\, contraria a quel del mondo che 
+sono piene di spine e d'arbori salvatichi e di molti impedimenti; e 
+per@o ad esse @e assimilliata la vita viziosa\, et a questa @e 
+assimilliata la vita virtuosa che @e piena di bellezza e di diletto.  E 
+debbiamo notare che ^foresta~ @e luogo di fuora separato da la 
+congregazione e conabitazione\, delli omini; et intende per questa lo 
+stato de la innocenzia nel quale poghi si trovano\, e per@o adiunge 
+^divina~: per@o che questa cos@i fatta vita @e divina; a la quale vita 
+venuto l'autore\, dice che era diventato desideroso di cercarla\, 
+^d'entro e d'intorno~; cio@e nel suo essere sustanziale\, e ne le suoe 
+circustanzie; et adiunge\, ^spessa~; cio@e d'arbori fruttiferi che 
+significano le parole virtuose\, d'erbe odorifere che significano li 
+atti e li costumi virtuosi\, e di fiori che significano li esempli 
+virtuosi: e come li fiori produceno lo frutto\, e li arbori e l'erbe\, 
+li fiori; cos@i le parole virtuose e li esempli virtuosi e santi 
+produceno e fanno opere virtuose nascere in colui che li vede e che li 
+considera; ^e viva~\, dice: imper@o che in tale vita niente v'@e morto; 
+e questo finge l'autore\, per insegnare come si monta de le virt@u 
+purgatorie a quelle che sono dell'animo purgato\, secondo li Filosofi; 
+primo quanto a la pratica infine al fine di questa seconda cantica.  
+^spessa e viva~; cio@e piena et abondevile d'arbori fruttiferi et erbe e 
+fiori\, et ogni cosa v'era viva: imper@o che figura la vita attiva 
+virtuosa u' @e ogni atto vivo\, e niente vi @e vacuo\, ^Che~; cio@e la 
+qual foresta\, ^a li occhi~; cio@e miei\, ^temperava il novo giorno~; 
+cio@e rendeva temperato lo splendore del nu
+ovo d@i che era venuto: imper@o ch'era levato lo Sole; e cos@i dimostra 
+che questo era lo quarto d@i\, e la versura de la selva contemperava lo 
+splendore del Sole\, sicch@e li occhi di Dante lo poteano sofferire; e 
+questo @e secondo la lettera.  Secondo l'allegoria intende che le 
+virt@u\, che sono ne la vita attiva virtuosa; cio@e li atti virtuosi\, 
+li esempli\, le parole e l'opere fanno la ragione superiore e lo 
+intelletto capace de la Divina Grazia tanto\, quanto n'@e bisogno a 
+ciascheduna anima: imper@o che la grazia di Dio @e infinita\, e nessuna 
+anima la pu@o comprendere tutta; ma questo luogo\, che figura la vita 
+attiva in stato d'innocenzia\, contempera la grazia a la capacit@a di 
+ciascuna anima che in tale stato @e.  Io Dante vago di cercare s@i fatto 
+luogo\, ^Senza pi@u aspettar~; cio@e niuno che mi guidasse; ecco che 
+gi@a incomincia\, secondo che Virgilio li avea ditto\, per s@e medesimo 
+ad andare sensa guida\, ^lassai la riva~; cio@e parti'mi dal giro 
+d'intorno; e questo d@a ad intendere che lassasse l'estremit@a: imper@o 
+che ogni estremo @e vizioso\, ^Prendendo la campagna lento lento~; cio@e 
+andando passo passo per la sua largura e pianura\, ^Su per lo sol~; 
+cio@e su per lo spasso\, ^che d'ogni parte uliva~; cio@e lo quale da 
+ogni parte gittava ulimento\, per l'erbe e fiori odoriferi che v'erano\, 
+come sposto @e di sopra; e dice che andava piano: imper@o che chi 
+attende dottrina d@e a passo a passo procedere s@i\, ch'elli apprenda e 
+tegna a mente.  ^Un'aura dolce~; cio@e uno venticello dilettevile\, 
+^senza mutamento Aver in s@e~; questo significa la volont@a ferma nel 
+bene che arebbe avuto l'omo\, se fusse stato ne lo stato de la 
+innocenzia\, e che @ae chi in tale stato si conserva\, ^mi feria per la 
+fronte~; cio@e a me Dante\, e cos@i mi rifrigerava; e per questo d@a ad 
+intendere che tale volont@a confortava e dilettava la sua apprensione: 
+imper@o che ne la fronte @e l'apprensiva\, ^Non di pi@u colpo~; cio@e 
+non di maggior percossa\, ^che soave vento~; cio@e che percuota lo 
+vento\, quando @e soave;
+ e per questo d@a ad intendere che soave e dilettevile cosa @e la 
+volont@a fermata nel bene.  ^Per cui~; cio@e per la quale aura\, ^le 
+frondi~; cio@e dell'erbe\, e delli arbori\, ^pronte tremulando~; cio@e 
+apparecchiate per la loro teneressa e fleribilit@a a piegarsi et a 
+tremare\, ^Tutte quante piegavano a la parte~; cio@e si chinavano 
+tremulando inverso l'occidente\, come dimostra quando dice: ^U'~; cio@e 
+a la quale parte\, ^il santo monte~; cio@e del paradiso terresto ne la 
+sua sommit@a e di sotto del purgatorio\, ^gitta la prima ombra~; cio@e 
+l'ombra de la mattina\, quando lo Sole si leva.  E questo finge 
+l'autore\, per mostrare che quil delicato vento venia dall'oriente\, e 
+per@o facea piegare le follie inverso l'occidente\, come fa lo Sole la 
+mattina quando si leva: imper@o che poi gira l'ombra\, come gira lo 
+Sole; e per questo d@a ad intendere secondo l'allegoria che la volont@a 
+diritta nel bene viene da Dio: imper@o che\, bench@e Dio non sia 
+circuscritto da luogo\, pur per convenienzia di bellezza e di chiarezza 
+si li d@a la parte orientale: imper@o che quive pi@u pare che si mostri 
+la sua virt@u alli omini de la terra.  Ma finge\, come apparr@a di 
+sotto\, che bench@e questa aura piegasse le fronde all'occidente\, che 
+significa lo mondo: imper@o che li atti de la misericordia tutti 
+s'inchinano verso li omini che sono nel mondo; niente di meno non si 
+parteno tanto da la loro dirittura et iustizia\, che sempre non 
+intendano tali omini che sono in stato d'innocenzia in ogni loro atto a 
+lodare Iddio\, et a questo accordano li loro atti e le loro opere\, li 
+quali sempre reduceno a Dio.  ^Non per@o~; bench@e le frondi pieghino 
+dove l'aura le pinge\, non si parteno per@o dal loro diritto essere; e 
+per@o dice: ^Tanto sparte~; cio@e partite e divise si sono\, s'intende\, 
+^dal loro dritto esser~; cio@e non piegano tanto da loro dirittura\, 
+^che li augelletti~; cio@e stanti\, ^per le cime~; cio@e delli arbori\, 
+^Lassasser d'operar ogni lor arte~; cio@e del cantare.  ^Ma con piena 
+letizia\, risedeano~; cio@e si ripo
+savano\, ^tra le follie~; cio@e in su li ditti arbori\, ^Cantando l'ore 
+prime~: imper@o che era da mattina\, per@o finge che cantassero le prime 
+ore\, ^Che~; cio@e le quali follie\, ^tenean bordone~; cio@e lo canto 
+fermo\, ^alle suo rime~; cio@e ai canti che faceano li uccelli; e 
+dimostra per similitudine com'era fatto quello tenore\, dicendo: ^Tal~; 
+cio@e s@i fatto\, ^qual si raccollie di ramo in ramo Per la pineta~; 
+cio@e per uno luogo pieno di pini\, ^in su lito di Chiassi~; questo @e 
+uno luogo cos@i chiamato a Ravenna dove sono molti pini\, e quando lo 
+vento scilocco vi percuote fanno uno dolce suono; e per@o dice: ^Quando 
+Eolo~; cio@e lo dio dei venti ch'@e chiamato Eolo da' Poeti\, com'@e 
+stato ditto di sopra\, ^Scilocco~; @e uno vento che viene da mezo d@i; 
+cio@e tra l'orco e lo mezzod@i che 'l chiama la Grammatica\, et @e molto 
+sonevile vento e fa molto sonare la ditta pineta et eziandio altro 
+quive\, dove percuote\, ^fuor~; cio@e de la pregione\, secondo che 
+fingeno li Poeti che Eolo tenga imprigionati li venti e li mandi fuora\, 
+quando vuole e quelli che vuole; e per@o dice: ^disciollie~; cio@e 
+dislega: imper@o che dice Virgilio: ^vinclis et carcere frenat~\, 
+sicch@e non solamente li tiene in prigione; ma anco incatenati.  Questo 
+re Eolo fu re di Eolia\, che @e isola vicina a Mungibello\, e per lo 
+fumo che gitta fuora Mungibello s'accorgea del vento che si dovea 
+levare; e per@o credetteno li omini ch'elli avesse in sua podest@a li 
+venti.  Sopra la preditta fizione; cio@e che\, bench@e le follie si 
+chinino\, non si parteno dal loro diritto essere\, intanto che li 
+uccelletti che cantano in su li rami non si rimagnano di cantare\, @e da 
+considerare l'allegorico intelletto che ebbe lo nostro autore; cio@e 
+che\, bench@e la volont@a ferma nel bene che @anno da la grazia di Dio 
+le persone che sono da lo stato della penitenzia sallite a lo stato de 
+la innocenzia\, inverso li omini misericordiosi pieghi li atti loro 
+virtuosi; niente di meno non si parteno dal loro diritto essere: anco li 
+loro pensieri\, che son
+o mutevili come li uccelli\, non si cessano da la loda di Dio; anco 
+s'accordano insieme e li atti e li pensieri a lodare e ringraziare 
+Iddio\, e fanno dolce melodia insieme: imper@o che ogni atto @e la 
+volont@a pur disposta di fare cosa che piaccia a Dio\, et ogni loro 
+opera arrecano a Dio: imper@o che li atti e costumi tegnano lo fermo a 
+li pensieri santi che meditano e pensano la loda di Dio\, stando sempre 
+col volto allegro e co la bocca ridente\, col pensieri sempre cantando 
+salmi e loda di Dio.  Et @e da notare che\, poich@e l'autore @ae 
+dimostrato come da la considerazione de la vilt@a del peccato e de la 
+sua pena\, la qual cosa fu la materia de la prima cantica\, si viene a 
+lo stato de la penitenzia\, et @ae dimostrato poetando e fingendo\, come 
+fanno li Poeti\, come si d@e ordinatamente procedere per li atti tutti 
+de la penitenzia\, che @e stato la materia de la seconda cantica; cos@i 
+ora dimostra al preditto modo sotto figurazioni come le persone sante da 
+lo stato de la penitenzia sallieno a lo stato de la innocenzia in questa 
+vita\, e come si debeno esercitare in essa\, prima leggendo et imparando 
+le cose fatte da Dio nel mondo; cio@e in terra\, u' stette come omo 
+insegnatore et institutore de la legge e dottrina evangelica e 
+costruzione de la s. Chiesa e ricomperazione all'ultimo dell'umana 
+generazione\, liber@o li santi Padri de la pregione del nimico e men@oli 
+in vita eterna\, aprendo le porte del cielo ch'erano state tanto tempo 
+serrate; la qual cosa si dimostra da questo canto inanti in questa 
+seconda cantica; appresso contemplando e considerando le cose 
+celestiali; cio@e li effetti che procedeno da le seconde cagioni; cio@e 
+da' cieli\, li quali @anno ad influere l'uno ine l'altro\, e cagionare 
+cio@e quil di sopra in quil di sotto\, e poi ne le cose terrene; et 
+all'ultimo come Iddio\, prima cagione\, sta di sopra tutta questa sua 
+componizione\, et influe e muove elli\, stante immobile\, in queste 
+seconde cagioni\, e beatifica l'angelica natura e l'umana che per la 
+grazia sua n'@e fatta degna; e co
+s@i si sallie de l'attivit@a a la contemplazione; la qual cosa @e la 
+materia de la tersa cantica; e questa @e la via d'andare co la mente e 
+levarsi da queste cose terrene a Dio in questa vita per grazia; e poi di 
+po' questa vita la mente cos@i esercitata fi' levata e menata su per 
+gloria.  E per questo modo @ae insegnato lo nostro autore ai suoi 
+lettori con molte figurazione e sottili allegorie e moralit@a a 
+guadagnare in questa vita l'eterna beatitudine\, la cui opera @e da 
+essere appregiata e lodata pi@u che nessuna opera che facesse mai alcuno 
+altro poeta.  E pu@osi chiamare questa sua opera poema de la santa 
+Scrittura\, et ordinato repositorio di tutte le notabili cose che si 
+trovano apo li autori s@i\, come pu@o vedere chiaramente lo studioso di 
+questo poema; per la qual cosa io credo che Iddio abbia fatto singulare 
+grazia al prefato autore esercitato tutto lo tempo suo in s@i fatto 
+esercizio\, e che l'abbia ricevuto ne la sua beatitudine\, essendo 
+impossibile che s@i altamente parli omo di Dio\, che non senta d'entro 
+come produce di fuora\, e che l'omo cus@i senta non pu@o essere sensa 
+singulare grazia di Dio.  La qual grazia devotamente prego Iddio che 
+faccia anco a me\, lo quale con grandissimo diletto m'affatico ne la 
+sposizione di s@i fatto poema\, a la quale veramente serei stato 
+insufficente se la grazia di Dio continuamente in me\, bench@e indegno\, 
+non avesse spirato.
+
+        |22-33.~  In questi quattro ternari lo nostro autore finge 
+come\, attraversando per lo paradiso\, fu impedito lo suo andare da uno 
+fiumicello lo quale trov@o correre in verso l'occidente in questa 
+foresta\, per la quale elli andava.  Et @e qui da notare\, s@i come abbo 
+detto pi@u volte di sopra\, bench@e l'autore\, secondo la lettera\, 
+finga che elli Dante sallisse del purgatorio al paradiso terresto\, 
+allegoricamente intende d'insegnare come nel mondo si sallie da lo stato 
+de la penitenzia a lo stato de la innocenzia\, lo quale elli figura per 
+lo paradiso terresto\, nel quale stette l'omo mentre che stette 
+innocente\, e cos@i vi sarebbe stato quanto a Dio fusse piaciuto se si 
+fusse conservato in stato d'innocenzia.  E quello ch'elli finge di s@e 
+intende d'ogni uno\, che di po' la penitenzia s'arreca a leggere et 
+imparare le cose de la santa Scrittura\, prima quelle che sono state 
+attive ne la primitiva Chiesa de la vita di Cristo in qua\, e questo 
+toccando generalmente\, infine a la traslazione de la corte a Vignone.  
+Aggiunge poi come Beatrice li dichiara alquante cose; e come Matelda lo 
+immerse nel fiume Eunoe\, et allora fu pervenuto da lui allo stato de la 
+vita contemplativa; e qui finisce questa seconda cantica.  Et appresso 
+finge come de la lezione e dottrina di queste cose attive de la 
+primitiva Chiesa elli sallitte a contemplare li meriti dei Santi e le 
+virt@u in che si sono esercitati in questa vita\, fingendo che ciascuno 
+si rappresenti coll'ombra sua in quil cielo\, del quale descende la 
+influenzia de la virt@u ne la quale @e valsuto pi@u che ne l'altre; e 
+poi la beatitudine che @anno queste anime beate\, essendo essenzialmente 
+nel cospetto di Dio\, nel cielo empireo; e questa @e la materia de la 
+tersa cantica.  Dice adunqua cos@i: ^Gi@a m'avean trasportato i lenti 
+passi~; cio@e gi@a era ito io Dante\, passeggiando lentamente per mellio 
+vedere: lentamente d@e leggere et apprendere la dottrina chi la vuole 
+tenere a mente: imper@o che se si pillia con fretta e non vi si stia 
+su\, non fa abito e
+ dimenticasi\, ^Dentro a la selva antica~; cio@e dentro al paradiso 
+terresto\, lo quale bene @e selva antica: imper@o che Dio lo fe al 
+principio del mondo per abitazione a l'umana specie\, ^tanto\, ch'io~; 
+cio@e Dante\, ^Non potea riveder ond'io m'intrassi~; cio@e in questa 
+selva.  E questo andare che l'autore finge\, secondo la lettera\, 
+debbiamo intendere allegoricamente che fu secondo l'apprensione sua; et 
+addiviene che l'omo si dilunga tanto d'apprensione in apprensione 
+andando lentamente\, ch'elli @e malagevile a ritornare a la prima 
+apprensione da la quale @e passato nell'altre.  E questo finge l'autore 
+in s@e\, perch@e non era anco spenta in lui la memoria dei peccati 
+suoi\, la quale lo impacciava ancora ne le suoe apprensioni\, ne le 
+quali s@e esercitava.  ^Et ecco pi@u andar mi tolse~; cio@e a me Dante\, 
+^un rio~; cio@e uno fiumicello mi lev@o lo poter andar pi@u in l@a\, 
+^Ch'a man sinistra~; cio@e lo quale fiumicello inverso mano sinistra 
+correva; e per@o dice: ^con suo picciole onde~: per@o che 'l fiume era 
+picculo\, piccolo ondeggiar dovea fare\, ^Piegava l'erba\, che 'n sua 
+ripa usc@io~; ecco che finge l'autore la cosa naturale che noi veggiamo 
+per esperienzia\, e niente di meno non @e sensa misterio: imper@o che 
+questo fiume\, che l'autore finge avere trovato\, si @e Lete\, lo 
+quale\, secondo la sua fizione\, esce dall'oriente d'una fonte con uno 
+altro fiume che lo chiama Eunoe; e l'uno finge che corra dall'uno lato 
+del paradiso terresto\, e l'altro dall'altro\, come dice la santa 
+Scrittura che del paradiso terresto esce Tigris et Eufrates da uno 
+fonte.  E sotto questa similitudine\, intendendo l'autore 
+allegoricamente da lo ascendimento che d@e fare l'omo a lo stato de la 
+innocenzia\, dice che ci sono du' acque; l'una Lete\, che secondo li 
+Poeti @e fiume di dimenticagione\, che significa che l'anima che vuole 
+venire a stato d'innocenzia conviene dimenticare tutti mali ch'@a fatto 
+e che @a cognosciuto\, per venire a purit@a e simplicit@a di mente\, e 
+tolliere ogni fomite et incentivo di peccato; l'
+altra acqua la chiama Eunoe; cio@e bona mente\, cio@e memoria di tutto 
+'l bene che @a fatto e cognosciuto: imper@o che tutto ricorre a la 
+memoria di chi sallito @e in stato d'innocenzia\, et accende lo 
+desiderio del bene sommo\, unde si viene a la contemplazione\, acci@o 
+che sopr'esso possa meditare e meditando godere.  Ma prima finge che si 
+passi per lui Lete\, fiume di dimenticagione; acci@o che sopra' mali non 
+abbia pi@u a pensare s@i che li dimentichi\, et ogni loro fomite e 
+radice sicch@e per purit@a si trovi ne lo stato de la innocenzia; et 
+appresso poi convieneli passare Eunoe\, acci@o che si riduca a mente 
+tutti beni che @ae fatto e cognosciuto\, e l'amore de le virt@u in lui 
+s'accenda e del sommo bene\, sicch@e vegna a lo stato de la 
+contemplazione: imper@o che di quelli @ae lo nostro autore\, procedendo 
+ne la sua opera\, a fare menzione.  E per@o finge ch'elli sia pervenuto 
+al fiume Lete\, che @e interpretato dimenticagione; e finge che corra in 
+verso mano sinistra\, perch@e porta via la memoria del male\, al quale 
+@e sempre data la via sinistra\, e faccia piegare l'erbe che tocca da le 
+sponde\, che significa che tale pensieri de' mali da esser diminticati e 
+del loro fomite da essere spegnato piega l'attivit@a virtuosa alquanto 
+et impediscela.  Descrive poi caente era lo ditto fiume\, dicendo: 
+^Tutte l'acque\, che son di qua~; cio@e in questo nostro mondo\, ^pi@u 
+monde~; cio@e pi@u chiare e pi@u belle\, ^Parreno avere in s@e mistura 
+alcuna~; cio@e le nostre acque di questo mondo parrebbeno alquanto 
+meschiate\, ^Verso di quella~; cio@e per rispetto di quella di Lete\, 
+^che~; cio@e la quale\, ^nulla nasconde~; cio@e niuna cosa\, che sia in 
+lei\, appiatta; e bene si conviene che sia s@i fatta: con ci@o sia cosa 
+ch'ella lavi s@i l'anima\, che non vi rimane macchia\, n@e segno di 
+peccato\, ^Avvegna che si mova bruna bruna~; e quanto all'apparenzia\, 
+^Sotto l'ombra perpetua~; cio@e sempre durabile per li arbuscelli che vi 
+sono di sopra\, che mai non perdeno frondi; e per@o dice: ^che mai~; 
+cio@e la quale mai
+\, ^Raggiar non lassa Sole ivi\, n@e Luna~; e questa @e la cagione\, per 
+che l'acqua pare bruna.  E bench@e questo sia conveniente a la lettera\, 
+secondo li autori che diceno che nel paradiso terresto era eterna 
+primavera; cio@e perpetua\, secondo l'allegoria si d@e intendere che 
+questa acqua di Lete chiarissima in s@e\, parente bruna sotto l'ombra 
+perpetua delli arbori\, significa li pensieri virtuosi che correno per 
+l'anima purgata\, li quali li tollieno la memoria dei vizi e dei diletti 
+mondani passati; e bench@e questi pensieri siano in s@e chiari e belli\, 
+non appaiano perch@e li sermoni santi\, significati per li arbori\, non 
+lassano raggiare\, cio@e nei ditti pensieri rilucere\, n@e ritornare lo 
+Sole; cio@e la loda del mondo significata ora per lo Sole; n@e la Luna\, 
+cio@e la mutabilit@a de la vita\, che @e significata per la Luna: 
+imper@o che tali animi purgati stanno nei pensieri virtuosi\, interi; e 
+scorrendo quelli per tali animi\, stanno li animi modesti sensa 
+manifestare lo suo intrinseco\, unde potesseno ricevere loda\, n@e 
+mutabilit@a da quello proposito; de le quali cose la memoria @anno tolto 
+li pensieri santi\, venuti da la fonte di Dio\, scorrendo sempre per s@i 
+fatti animi che sono purgati.
+
+        |34-42.~  In questi tre ternari lo nostro autore finge come\, 
+iunto al ditto fiume\, guardando ebbe veduto di l@a dal fiume una bella 
+donna che andava cantando e sciolgendo fiori tra li altri fiori\, dei 
+quali era piena tutta la via per la quale ella andava; e questa @e 
+quella donna che 'l sogno li figur@o in persona di Lia\, mollie che fu 
+di Iacob\, secondo che finse nel precedente canto\, quando s'addormento 
+in su la scala da montare al paradiso terresto\, sicch@e ora @e 
+l'avvenimento di quello che figur@o lo sogno\, dicendo cos@i: ^Coi pi@e 
+ristetti~; quando io fui iunto al fiume preditto\, ^e colli occhi 
+passai~; io Dante\, ^Di l@a dal fiumicel~; ditto di sopra\, che si 
+chiama Lete\, ^per ammirare~; cio@e per ragguardare con meravillia\, ^La 
+gran variazion dei freschi mai~; cio@e dei freschi arbori che vedea di 
+l@a dal fiumicello\, li quali chiama mai\, come si chiamano li rami 
+delli arbori che arrecano molte persone a casa la mattina di calende 
+maggio per ponere a la finestra o inanti all'uscio\, li quali alcuno 
+chiamano ^Kalen~ di maggio et alcuni chiamano ^mai.  E l@a~; cio@e di 
+l@a dal fiumicello\, ^mi apparve~\, e d@esi pilliare quive; cio@e\, ^Una 
+donna soletta~; ecco la cosa che m'apparve\, ^che si g@ia~; cio@e la 
+ditta donna sola\, sensa compagnia\, ^Cantando~; cio@e la ditta donna\, 
+^et isciolgendo fior da fiore~; cio@e sciolgendo fiore alcuno tra li 
+altri fiori; ^Onde~; cio@e dei quali fiori\, ^era pinta tutta la sua 
+via~; cio@e per la quale ella andava; e d@esi ora ritornare a la 
+similitudine lassata; cio@e\, ^s@i come ella appare Subitamente cosa~; a 
+la fantasia nostra\, ^che disvia~; cio@e la quale leva via e tollie\, 
+^Per meravillia~; che appare per la subitessa\, ^tutto altro pensare~; 
+che l'omo prima avea ne la mente\, e cos@i fece a me\, dice l'autore\, 
+la ditta donna che apparve a la mia vista.  Questa donna\, che 'l nostro 
+autore figura apparita in questo luogo\, si fu la contessa Matelda la 
+quale fu filliuola de la contessa Beatrice filliuola de l'imperadore che 
+stava in Costantin
+opuli; la quale Beatrice prese per suo sposo uno conte italiano che era 
+ne la corte de l'imperadore\, e con lui se ne venne in de le parti 
+d'Italia; e saputo questo da lo imperadore\, fu dotata di molte terre in 
+Italia; cio@e di Lombardia e di Toscana et in quelle di Roma.  Et 
+avvenne caso che\, essendo a Pisa\, pass@o de la presente vita e fu 
+seppellita in una tomba che @e di fuora de la chiesa maggiore\, posta in 
+alto del muro da la parte che @e inverso lo campanile\, secondo che io 
+m'abbo fatto mio pensieri; non affermo per@o che fusse intenzione de 
+l'autore\, n@e che si possa provare per lo testo\, come @e stato ditto 
+di sopra\, se non che la chiama Matelda; unde la detta contessa 
+Matelda\, per l'anima de la detta contessa Beatrice sua madre\, don@o a 
+la chiesa di s. Piero da Roma le terre del patrimonio suo\, et a la 
+chiesa maggiore di Pisa diede ricca dote per 17 canonici\, e 2 
+cappellani al battisterio e per lo magisculo\, e molte altre e grande e 
+belle elemosine fece ne la chiesa di Dio in diversi luoghi per la 
+Lombardia e per la Toscana e per la Italia.  E secondo ch'io trovo\, 
+visse casta: imper@o che\, bench@e si maritasse ad uno barone de la 
+Magna nominato Gulfo\, o vero Guelfo\, non iacette con lui\, perch'elli 
+per invidia fu ammaliato da uno suo consorto\, e chi dice fratello\, 
+nominato Gebel\, sicch@e non potette mai usare con femina; e finalmente 
+refiutato da la ditta contessa\, ritornatosi ne la Magna\, fu fatto 
+avvenenare dal ditto suo consorto Gebel.  Per la qual cosa si scoperse 
+lo primo fallo\, e l'uno e l'altro accese s@i li baroni de la Magna e la 
+detta contessa Matelda\, che a vendicare questa enorme cosa concorseno 
+li baroni de la Magna e de l'Italia\, chi a vendicare e chi a difendere; 
+e cos@i allora si seminonno queste maladitte due parti ne l'Italia e ne 
+la Magna; cio@e Guelfi e Ghibellini\, secondo che scrisse messere Ioanni 
+Boccaccio sopra lo canto de la prima cantica; e per@o la ditta contessa 
+si rimase sensa marito et intese a servire a Dio\, e moritte ancora in 
+Pisa e fu sepulta 
+ne la ditta tomba de la madre nel 1116 ^nono kalendas augusti~\, come 
+appare ne la suscrizione che @e a la ditta tomba.  E perch@e questa 
+donna nobilissima fu esemplare ne la vita attiva\, osservando li 
+comandamenti di Dio e seguitando et adimpiendo l'opere de la 
+misericordia\, per@o finge l'autore ch'ella sia posta nel paradiso 
+terresto\, come guardiana d'esso\, oltra quelli del vecchio testamento; 
+Enoch et Elia: imper@o che conveniente fizione @e che ve ne sia alcuno 
+del nuovo testamento\, s@i come finse Catone a la entrata del 
+purgatorio\, e finge che questa figuri la vita attiva\, perch'ella fu 
+attiva ne la vita penitente; e figuri Lia mollie di Iacob\, la quale 
+finse di sopra che li apparisse in sogno.  E questa finge l'autore che 
+abbia l'officio d'immergere le anime purgate nel fiume Lete\, per fare 
+dimenticare le cose mondane; e poi nel fiume Eunoe\, per fare tornare a 
+memoria lo sommo bene e tutta la notizia del bene operato e che @e stato 
+dall'origine del mondo\, perch@e questa fu eccellentissima donna ne le 
+virt@u attive.  E le virt@u attive @anno a fare ai purgati dimenticare 
+lo male e ricordarsi del bene\, e spegnere lo fomite del male et 
+accendere l'amore del bene.  E figura questa donna ancora tutta la 
+pratica de la santa Chiesa; cio@e cantare l'officio\, consecrare\, 
+batteggiare\, confessare\, predicare e tutte l'altre cose et esercizi 
+che occorreno ne la santa Chiesa; e veramente questa @e filliuola di 
+Beatrice: imper@o che la pratica de la santa Chiesa nasce de la Santa 
+Scrittura\, e quinde @e venuta.  E finge che fusse questa donna 
+soletta\, e cantando colliesse fiori sciolgendo li pi@u belli: imper@o 
+che mellio la persona sola intende all'opere virtuose che accompagnata\, 
+e che chi segue la vita attiva canta sempre le lode di Dio e sciolge le 
+virt@u pi@u eccellente\, e quelle traffica co le suoe operazioni; e 
+questo @e sciolgere li fiori e trafficare co le mani.  E veramente a 
+tale vita e tale attivit@a convenientemente l'autore finse nome di 
+donna\, e Matelda\, che tanto viene a dire\, quanto
+ dante loda a la scienza di Dio.
+
+        |43-60.~  In questi sei ternari lo nostro autore finge com'elli 
+parl@o a la ditta donna\, e com'ella s'accost@o a la sponda.  Dice 
+cos@i: ^Deh~; questa @e interiezione deprecativa\, o esortativa\, che si 
+dice quando l'omo vuole confortare\, o pregare alcuno\, d'alcuno atto\, 
+^bella donna~; ben si conviene a s@i fatta donna s@i fatto adiettivo\, 
+considerando che significa la vita attiva la quale @e tutta bella\, 
+^ch'ai raggi d'amore Ti scaldi~; cio@e de lo Spirito Santo\, ^s'i' vo' 
+credere ai sembianti~; cio@e s'io debbo credere alli atti\, ^Che~; cio@e 
+li quali\, ^sollion esser testimon del core~: li atti di fuora sono 
+manifestamento del cuor d'entro\, ^Vegniati vollia di traerti avanti~; 
+cio@e in verso la sponda del fiume\, ^Dissi io~; cio@e Dante\, ^a lei~; 
+cio@e a la donna ditta di sopra\, cio@e contessa Matelda\, ^verso questa 
+rivera~; cio@e inverso questa ripa del fiume\, ^Tanto ch'io possa 
+intender~; cio@e io Dante\, ^che tu canti~; cio@e quello che tu canti.  
+^Tu mi fai rimembrar~; cio@e tu mi fai arricordare\, ^dove e qual'era 
+Proserpina~; cio@e la mollie di Plutone\, ^nel tempo\, che La madre~; 
+cio@e Cerere\, ^perdette lei; ed ella~; cio@e Proserpina\, ^primavera~; 
+perdette\, s'intende\, cio@e lo prato e la verdura ne la quale ella era 
+a colliere fiori\, quando Plutone la rapitte.  Finge Ovidio\, 
+Metamorfosi nel libro X\, che Proserpina filliuola di Cerere\, che era 
+nominata iddia de la biada da' Gentili\, essendo giovanetta con altre 
+suo compagne andando per uno prato in Sicilia colliendo fiori\, Plutone 
+che era scito de lo inferno\, per vedere come stava la Sicilia che 
+l'avea sentita tremare\, avendo paura che non s'aprisse la terra e la 
+luce andasse a l'infernali\, vidde Proserpina; e\, vedutola et 
+innamoratosi di lei e toltala via\, fu tutto insieme.  Unde la madre 
+Cerere l'and@o poi cercando\, e non la potette ritrovare\, se non che 
+Alfeo fiume\, che va sotterra di Grecia in Delo e da Delo in Sicilia\, 
+li disse che l'avea veduta ne lo inferno mollie di Plutone.  ^Come si 
+volge co le piante 
+strette A terra\, et intra s@e\, donna che balli~; ecco che fa una 
+similitudine\, dicendo che la ditta donna prestamente e leggiadramente 
+si volse in verso lui di po' lo suo prego\, a similitudine d'una donna 
+che balli\, che si volge a pena levando li pi@e di terra\, et a pena 
+movendosi del luogo\, ^E piede inanti piede a pena mette~; cio@e la 
+donna\, quando leggiadramente balla\, ^Volsesi 'n su' vermilli et in su' 
+gialli Fioretti verso me~; cio@e la ditta Matelda verso me Dante; e dice 
+l'autore che li fiori erano\, ^vermilli~ e ^gialli~\, per dare ad 
+intendere che li esempli virtuosi\, in su quali tegnano le loro 
+affezioni le persone virtuose che sono date a le virt@u attive\, sono 
+esempli che procedeno da carit@a\, infiammanti d'amore di Dio e del 
+prossimo; e per@o finge che siano ^vermilli~: e sono tutti puri e 
+splendienti come @e l'oro; e per@o finge che siano ^gialli\, non 
+altrimenti Che virgine che li occhi onesti avvalli~; cio@e cali giuso: 
+imper@o che onest@a @e d'una donna di calare li occhi a terra e non 
+guardare li omini nel volto\, ^E fece i preghi miei~; cio@e di me 
+Dante\, ^esser contenti~: imper@o che fe quello\, di che io l'avea 
+pregata\, ^S@e appressando~; cio@e appressando s@e a la riva del fiume\, 
+^s@i\, che 'l dolce sono~; cio@e del canto suo\, ^Venia a me coi suoi 
+intendimenti~; cio@e s@i ch'io Dante intendea lo canto suo; e per questo 
+d@a ad intendere che a lui avvenne grazia da Dio d'intendere quello\, 
+che si d@e cantare a la loda di Dio e come si d@e cantare.
+
+        |61-75.~  In questi cinque ternari lo nostro autore finge come 
+la ditta contessa Matelda\, approssimata a la ripa del fiume per la 
+preghiera sua\, li parve splendientissima\, dicendo: ^Tosto che fu~; la 
+ditta donna\, ^l@a dove l'erbe~; che sono a la ripa del fiume\, ^sono 
+Bagnate gi@a dall'onde del bel fiume~; lo quale si chiama Lete; e dice 
+che @e bello per la descrizione che n'@a fatto di sopra\, e per 
+allegoria s'intende che l'opere attive sono un poco intermesse e 
+lassate\, per la considerazione di diminticare li mali passati\, come 
+ditto fu di sopra: l'onde sono pensieri che viene di diminticare l'altro 
+male passato\, come l'una onda sopraviene all'altra: questa donna figura 
+la dottrina dei predicatori che insegnano la vita attiva\, come ditto 
+@e: e venire a la riva del fiume non @e altro\, che insegnare et 
+ammaestrare Dante ch'elli vegna a considerazione di diminticare li mali 
+passati\, ^Di levar li occhi suoi mi fece dono~; cio@e als@o li occhi e 
+ragguardommi\, s@i ch'io potetti vedere bene li suoi occhi.  Questi 
+occhi sono la ragione e lo intelletto dei santi dottori\, che @anno dato 
+dottrina de la vita attiva; li quali occhi si mostraro a l'autore\, 
+quando elli consider@o l'acuto loro ingegno e chiaro\, leggendo o udendo 
+la loro dottrina; e per@o adiunge questa similitudine\, dicendo: ^Non 
+credo che splendesse tanto lume a Venere~; cio@e alla dia della 
+lussuria\, ^Sotto le cillia~; cio@e nelli occhi\, ^trafitta~; cio@e 
+ferita\, ^Dal fillio~; cio@e da Cupidine che @e lo dio de l'amore\, 
+filliuolo di Venere\, ^fuor di tutto suo costume~; cio@e fuora del modo 
+usato di Cupidine.  Venere\, iddia di lussuria e madre di Cupidine\, 
+iddio dell'amore\, teneva lo suo filliuolo in braccio; e\, mentre che 
+cus@i lo teneva\, una saetta di quelle dell'oro scitte del turcasso di 
+Cupidine\, e cadendo punse Venere; unde ella s'inamor@o d'Adone\, che 
+allora passava dinanti da lei.  E perch@e nessuno suole innamorare\, se 
+non @e arcato co la saetta dell'oro da Cupidine\, e qui Cupido non 
+s'adoper@o; ma pur la saetta
+ per s@e la feritte\, per@o disse l'autore: ^fuor di tutto suo costume~; 
+cio@e del filliuolo\, ^trafitta~; cio@e ferita Venere.  Et essendo cos@i 
+innamorata\, dice che non crede che s@i splendiente avesse li occhi\, 
+come avea la ditta donna; e questa similitudine @ae indutto\, per 
+dimostrare che questa donna\, che tiene figura de la dottrina de la vita 
+attiva\, non @e altro se non li santi dottori che @anno scritto d'essa\, 
+li quali @anno li occhi splendienti del Divino Amore; cio@e la ragione e 
+lo intelletto\, pi@u che non ebbe Venere\, che significa la dilettansa e 
+la complacenzia de le cose mondane\, che non @e altro che li poeti o 
+autori che @anno scritto di quella\, li quali non @anno avuto tanto 
+splendore ne la ragione loro e ne lo intelletto\, bench@e siano stati 
+inaverati da l'amore mondano fuor di tutto 'l modo usato delli altri 
+omini\, non saettati da lunga; ma da presso inaverati\, tenendo in 
+grembo lo ditto amore.  ^Ella~; cio@e la ditta donna\, ^ridea dall'altra 
+ripa dritta~; cio@e stando ritta in pi@e per mostrarmisi\, e non 
+collieva allora fiori; ma ben li trafficava\, e per@o dice: ^Trattando~; 
+cio@e trafficando\, ^pi@u color co le suo mani~; cio@e molti colori di 
+fiori co le mani suoe: imper@o che li avea colti et aveali in mano\, che 
+allegoricamente significa ch'ella si mostrava all'autore diritta\, e 
+coll'opere dimostrando li esempli escellentissimi di virtudi pratiche\, 
+molto apparea allegra e ridente dall'altra ripa dove sono coloro che 
+@anno diminticato ogni male\, sicch@e non possano essere se non 
+allegri\, ^Che~; cio@e li quali colori e fiori: imper@o che per li 
+colori s'intendeno li fiori\, ^l'alta terra~; cio@e quella del paradiso 
+terresto\, ^gitta~: cio@e produce\, ^senza seme~: imper@o che li produce 
+da s@e medesimo per virt@u del cielo\, al quale @e pi@u prossimana.  E 
+per questo d@a ad intendere che chi @e ne lo stato mondano non fa opera 
+di virtudi esemplari\, se non @e seminato la dottrina nel suo cuore; ma 
+chi @e in stato d'innocenzia\, sensa ricevere dottrina\, solamente per 
+la 
+grazia di Dio mette fuora molte virtuose\, esemplari operazioni.  
+Debbiamo attendere che l'autore finge che Matelda ridesse e stesse 
+ritta\, e trafficasse li fiori di diversi colori co le suoe mani: 
+imper@o ch'elli la induce in atto di predicare\, e per@o li d@a li atti 
+del predicatore che sta allegro e ridente\, quando annunzia al popolo la 
+parola di Dio: sta in pi@e ritto\, a figurare che la mente sua sia 
+levata su a Dio\, come lo corpo; e cos@i sta ancora lo prete quando ora 
+all'autare: e tratta co le suoi mani; cio@e coll'opera sua\, che @e 
+allora lo predicare molti esemplari virtuosi\, fatti dai santi omini 
+sensa averne altro principio che la infusione de lo Spirito Santo.  ^Tre 
+passi ci facea 'l fiume lontani~; cio@e tre passi era largo lo fiume che 
+dividea me da le'\, s@i ch'io non mi potea accostare a lei.  In questa 
+parte lo nostro autore sotto queste brevi parole @ae figurato una bella 
+allegoria: imper@o che\, come ditto @e\, elli figura qui\, parlando 
+dell'altra vita\, quelli che sono in questa che sallieno da lo stato de 
+la penitenzia a la vita et a lo stato de la innocenzia\, al quale non 
+possano venire se prima non passano Lete; cio@e che dimentichino tutti 
+li vizi e peccati\, come avea diminticato elli\, purgato di quelli.  Et 
+oltra a ci@o\, perch@e rimane a purgare lo fomite del peccato contratto 
+in noi per lo peccato del primo uomo\, per lo quale l'omo @e abile a 
+peccare\, conviene che si purghino di quello inanti che vegnano a la 
+innocenzia\, e questo @e passare Lete.  Et a purgare questo si 
+richiedeno tre cose; cio@e prima\, lo pensamento e ricognoscimento di 
+tale inclinazione; la seconda\, la confessione di tale inclinazione; la 
+tersa\, lo pianto e la contrizione di tale inclinazione.  E queste tre 
+cose sono tre passi che erano in mezzo tra lui e Matelda\, che significa 
+la dottrina de lo montamento de lo stato de la innocenzia ne la vita 
+attiva\, li quali si convegnano avere prima che si vegna a lo stato de 
+la innocenzia\, e cos@i si passa Lete; et\, avuti questi\, fi' passato 
+Lete\, come app
+arr@a nel processo; e questo che l'autore finge di s@e intende d'ogni 
+uno.  ^Ma Ellesponto~; cio@e lo stretto del mare ch'@e tra l'Europa e 
+l'Asia\, che si chiama lo braccio di s. Giorgio\, che @e largo tre\, o 
+vero quattro millia\, e chiamasi Ellesponto perch@e quive\, passando 
+Frisso et Elles\, Elles v'anneg@o; e per@o fu chiamato Ellesponto\, 
+cio@e lo mare de Elles\, come @e stato ditto di sopra.  Et in su la 
+piaggia d'Europa @e una terra che si chiama Sesto\, de la quale fu 
+quella iovana che si chiam@o Ero; et in su la ripa d'Asia era una terra 
+che si chiam@o Abido\, de la quale fu nato uno iovano che si chiam@o 
+Leandro; et\, innamorato de la detta Ero\, notava la notte lo ditto 
+braccio del mare e venia di qua ad Ero; et ella ponea in su la torre sua 
+uno lume\, al segno del quale Leandro venia.  Ma essendo una volta 
+fortuna in mare\, non potendo notare\, lamentavasi del tempo et avea 
+odio al mare; ma pure a la fine\, impaziente de l'amore\, si misse a 
+notare non ostante lo turbamento del mare\, et affog@ovi.  Questo 
+braccio di mare coperse Serse filliuolo di Dario re de' Persi di 
+navili\, e sopr'essi di taule fece uno ponte\, per passare in Grecia\, 
+per acquistare la Grecia\, come avea acquistato l'oriente.  Ma Iddio\, 
+per mancare la sua superbia\, passato di qua con tanta gente che non si 
+potea numerare (se non che li fece tutti arcare e ricolliendo le saette 
+et innomerate\, fu innomerata la gente; cio@e mille milliaia\, cio@e 
+sette cento milliaia d'aiuto\, e trecento milliaia da s@e); fecele 
+sconfiggere da Leandro re de li Spartani con forsi 4000 cavalieri; unde 
+elli\, costretto a fuggire co l'esercito\, se n'and@o per mare in Asia.  
+Ma l'esercito suo\, montato con grande fretta in su 'l ponte\, non 
+potendo sostenere lo ponte lo carico\, affog@one grandissima parte; e lo 
+re Serse appena camp@o in mare per la fortuna\, che non anneg@o passando 
+con navilio: e per@o dice: ^dove pass@o Serse~; cio@e su per lo quale 
+Ellesponto pass@o lo re Serse\, re di Persia\, ^Che ancora~; cio@e lo 
+quale Serse anco ora\, ^af
+frena tutti orgolli umani~: imper@o che li signori del mondo superbi si 
+raffrenano\, pensando come colse a Serse del suo orgollio\, ^Pi@u odio 
+da Leandro~; d'Abido che volea notare a Sesto\, per andare ad Ero sua 
+amante\, ^non sofferse~; cio@e lo ditto mare non fu pi@u odiato da 
+Leandro\, ^Per mareggiar tra Seston et Abido~; cio@e per ondeggiare che 
+facea lo ditto mare tra le ditte terre\, sicch@e impedia Leandro che non 
+potea passare\, ^Che quel~; cio@e lo fiume Lete\, ^da me~; cio@e Dante 
+sofferse; et ecco la cagione\, ^perch'allor~; cio@e perch@e a quella 
+ora\, ne la quale la contessa Matelda mi ragguard@o co li occhi s@i 
+amorosi\, ^non s'aperse~; cio@e lo detto fiume Lete\, come s'aperse lo 
+mare rosso e 'l fiume Iordano a li Ebrei s@i\, ch'io avesse potuto 
+passare a lei; e per questo d@a ad intendere l'ardente desiderio che 
+avea di passare a lo stato de la innocenzia e venire a la dottrina de la 
+vita attiva\, che imparasse le cose attive et in esse s@e esercitasse.  
+E qui finisce la prima lezione del canto XXVIII\, et incomincia la 
+seconda.
+        ^Voi siete nuovi~\, ec.  Questa @e la seconda lezione del canto 
+XXVIII\, ne la quale finge lo nostro autore come la donna ditta di 
+sopra; cio@e la dottrina de la Chiesa\, ditta Matelda\, li dichiara 
+alcuno dubio non mosso da l'autore et offeriscesi apparecchiata a 
+solvere ogni altro dubbio; unde Dante liene muove\, et ella li solve.  E 
+dividesi questa lezione in cinque parti: imper@o che prima finge come 
+Matelda solve alcuno dubbio et incita Dante ad addimandare se d'altro 
+dubita\, unde elli muove dubbio; ne la seconda finge come Matelda 
+incomincia a solvere li suoi dubbi\, et incominciasi quive: ^Ond'ella: 
+Io dicer@o~ ec.; ne la terza finge come ella dichiara unde nasceno 
+l'erbe e li arbori che vi sono\, et incominciasi: ^Or perch@e 'n 
+circuito~ ec.; ne la quarta parte finge come ella dichiara unde vegnano 
+li du' fiumi che vi sono e come si chiamano\, et incominciasi quive: 
+^L'acqua che vedi~ ec.; ne la quinta parte finge come\, evagando nel 
+dire\, soiunse una corollaria conclusione\, et incominciasi quive: 
+^Quelli ch'anticamente~ ec.  Divisa adunqua la lezione\, ora @e da 
+vedere lo testo co l'esposizioni allegoriche\, o vero morali e co le 
+testuali e letterali.
+
+        |76-87.~  In questi 4 ternari lo nostro autore finge come la 
+donna ditta di sopra rende cagione del suo ridere a Dante et ai 
+compagni; cio@e Stazio e Virgilio\, acci@o che non si meravillino\, 
+dicendo cos@i: ^Voi~; cio@e tu\, Dante\, e i compagni tuoi; cio@e 
+Virgilio e Stazio\, ^siete nuovi~; cio@e di nuovo venuti a questo luogo: 
+di nuovo era venuto l'autore da le virt@u purgatorie a quelle dell'animo 
+purgato\, e prima a l'attive per le quali si viene a lo stato de la 
+innocenzia\, ^e forsi perch'io~; cio@e Matelda\, ^rido~; e questo ridere 
+dimostr@o Matelda nel levare delli occhi\, li quali erano ridenti et 
+allegri; et anco di sopra dice: ^Ella ridea~ ec.\, che significa\, come 
+ditto fu\, che la ragione e lo intelletto dei santi omini\, che si 
+esercitano in insegnare l'opere virtuose et in operar quelle\, sempre 
+stanno allegri\, ^Cominci@o ella~; cio@e Matelda\, ^in questo luogo 
+eletto All'umana natura per suo nido~; cio@e nel paradiso terresto\, lo 
+quale Iddio fece a l'omo per sua abitazione; et allegoricamente\, in 
+questo stato d'innocenzia\, ^Meravilliando tienvi~; cio@e voi tiene\, 
+^alcun sospetto~; cio@e del mio ridere; cio@e avete forsi sospetto ch'io 
+rida di voi\, ^Ma luce rende il salmo Delectasti~; cio@e chiaressa rende 
+lo salmo 89 del Saltero\, che incomincia: ^Bonum est confiteri Domino\, 
+et psallere nomini tuo altissime~\, e seguita poi pi@u giuso uno verso 
+che dice: ^Quia delectasti me\, Domine\, in factura tua\, et in operibus 
+manuum tuarum exultabo~.  Nel quale salmo appare che David dica ch'elli 
+si dilettava e rallegrava de l'opere di Dio\, e cos@i si rallegrava ora 
+Matelda de la bellezza del paradiso e de lo stato de la innocenzia.  
+^Che~; cio@e la qual chiarezza\, ^puote disnebbiar~; cio@e dichiarare e 
+tolliere via lo sospetto\, ^vostro intelletto~; cio@e di voi tre\, cio@e 
+Dante\, Virgilio e Stazio.  Et @e qui moralit@a; che ridere e 
+rallegrarsi de la bellezza e bont@a dell'opere di Dio @e licito e 
+conveniente\, e piace a Dio.  ^E tu\, che se' dinanzi~; ora finge 
+ch'ella dirissi lo ser
+mone a lui\, dicendo: ^e tu~; cio@e Dante\, ^che~; cio@e lo quale\, ^se' 
+dinanzi~; alli altri due\, ^e me pregasti~; come appare di sopra\, 
+quando disse: ^Deh bella donna~ ec.\, di venire in verso te\, ^Di' 
+s'altro voi udir~: cio@e da me; e perch@e dice ^altro~\, parrebbe che 
+questo avesse addimandato di sapere: A chi ella @ae risposto\, e di 
+sopra non appare ch'elli addimandasse?  Et a questo si d@e rispondere 
+che Dante avea e li compagni suoi niente addimandato; ma ella s'accorse 
+nelli atti ch'elli si meravilliavano\, e l'omo si meravillia quando non 
+sa le cagione\, e per@o lo meravilliare @e segno di volere sapere; e 
+per@o ben dice: ^s'altro voi udir~; da me tu\, Dante\, ^ch'io~; cio@e 
+imper@o che io Matelda\, ^venni presta Ad ogni tua question\, tanto che 
+basti~; ecco che si proferisce apparecchiata a solvere le suoe 
+questioni; e per questo l'autore incitato muove uno dubbio ch'elli avea 
+per lo ditto\, ch'avea udito da Stazio\, quando rend@e ragione perch@e 
+tremava il monte\, dicendo: ^L'acqua\, diss'io~; cio@e Dante\, l'acqua 
+la quale io veggio in questo fiumicello\, ^e 'l suon de la foresta~; 
+cio@e lo suono ch'io sento tra le frondi\, che pare suono di vento; 
+queste due cose\, ^Impugnan dentro a me~; cio@e Dante\, ^novella fede~; 
+cio@e combatteno nel mio cuore una nuova credenzia\, ch'io avea nel 
+cuore fermata\, ^Di cosa ch'io~; cio@e la quale io Dante\, ^udi' 
+contraria a questa~; cio@e quando di sopra disse Stazio nel canto XXI a 
+Dante che niuna alterazione d'aire passava pi@u su che 'l supremo dei 
+tre scaloni che sono a la entrata del purgatorio; ora pare lo contrario 
+e s@i per l'acqua\, e s@i per lo vento; e per@o Matelda di sotto solve 
+questo dubbio.
+
+        |88-102.~  In questi cinque ternari lo nostro autore finge come 
+Matelda incominci@o a solvere lo dubbio che Dante avea mosso\, facendosi 
+un poco da lunga\, dicendo: ^Ond'ella~; cio@e unde\, cio@e per le mie 
+parole\, ^ella~; cio@e Matelda disse\, s'intende; ^Io dicer@o~; cio@e io 
+Matelda dir@o\, ^come procede Per sua cagion~; cio@e per cagione 
+ordinata\, appropriata a tale effetto e non accidentale\, ^ci@o che 
+ammirar ti face~; cio@e che fa te Dante venire in ammirazione; e\, 
+manifestata la cagione\, cesser@a la meravillia\, ^E purgher@o la 
+nebbia~; cio@e l'oscurit@a e la ignoranzia: nebbia s'intende oscurit@a 
+d'ignoranzia\, ^che in te siede~; cio@e la quale siede in te\, e sta in 
+te.  In questa parte d@e lo lettore attendere come lo nostro autore 
+ordinatamente procede\, dimostrando come l'omo avuto le virt@u 
+purgatorie e venuto a lo stato dove si d@e esercitare ne le virt@u 
+dell'animo purgato prima per attivit@a e poi per contemplazione\, finge 
+come elli uditte da Matelda\, che figura la dottrina de la santa 
+Chiesa\, la quale o si legge da li studiosi letterati\, o si comprende 
+et impara da non letterati quando in pubblico si predica; e questo @e lo 
+primo esercizio che d@e fare chi vuole venire a lo stato de la 
+innocenzia; cio@e o leggere\, o imparare et udire dai predicanti\, prima 
+la creazione de l'omo\, appresso la sua disobedienzia\, e poi le 
+figurazioni e predizioni de la sua salute\, e poi la sua salute fatta 
+per Cristo\, e lo reducimento a l'obedienzia et all'ultimo a la 
+beatitudine celeste.  Le quali tutte cose lo nostro autore\, per venire 
+a lo stato de la innocenzia\, studi@o da s@e et in esse s@e esercit@o; 
+ma ora finge che liele predichi Matelda\, per mostrare sotto questa 
+fizione come denno fare li non letterati; cio@e che denno frequentare le 
+prediche e la dottrina de la santa Chiesa\, e per@o finge che Matelda 
+incominciasse da questo principio; cio@e: ^Lo Sommo Ben~; cio@e Iddio\, 
+^che sol~; cio@e lo quale solo\, ^esso a s@e piace~; cio@e che solamente 
+per esso; cio@e per s@e piace a s@e: 
+imper@o che Iddio solamente per s@e stesso piace a s@e\, e non per altra 
+cosa fuor da s@e; e cos@i seguita che @e beato per s@e medesimo: non @e 
+alcuna cosa che sol per s@e a s@e piaccia\, se non Iddio; e niuna cosa 
+piacie a Dio\, se non per esso Iddio; cio@e in quanto l'@ae creata\, ^Fe 
+l'omo buono a bene~; cio@e fece l'omo buono\, e questo seguita: imper@o 
+che 'l Sommo Bene non pu@o fare se non bene: ogni opera che fa lo Sommo 
+Bene @e buona: altramente non sarebbe sommo bene; e fecelo ^a bene~; 
+cio@e a fine che avesse Lui\, che @e sommo bene\, e cos@i avesse 
+beatitudine; e cos@i l'omo fu produtto da Dio e creato buono\, acci@o 
+che buono tornasse a lui: imper@o che a Lui non pu@o tornare se non 
+tale\, quale da Lui @e produtto; et anco l'omo non piace a s@e\, se non 
+ritorna al Sommo Bene\, come dice s. Agustino: ^Domine\, fecisti nos ad 
+te\, et inquietum est cor nostrum\, donec requiescamus in te —\, e 
+questo loco~; cio@e lo paradiso terresto\, secondo la lettera; e secondo 
+l'allegoria\, lo stato de la innocenzia\, ^Diede per arra~; cio@e per 
+caparra\, ^a lui~; cio@e Iddio a l'omo\, ^d'eterna pace~; cio@e d'eterna 
+beatitudine: imper@o che in quil luogo non potea stare se non in stato 
+d'innocenzia\, et era pieno lo luogo d'ogni diletto e d'ogni 
+contentamento vero; e questo era una fermezza che\, quando a Dio poi 
+fusse piaciuto\, l'arebbe tirato a s@e\, a l'eterna beatitudine.  ^Per 
+sua difalta~; cio@e per suo defetto e per sua colpa: imper@o che Iddio 
+li avea dato la libert@a de l'arbitrio\, per la quale elli li fu 
+disobediente\, non astinendosi dal pomo vietato\, ^qui~; cio@e in questo 
+luogo felice\, ^dimor@o poco~; stette Adam et Eva in stato d'innocenzia 
+forsi ore 5: imper@o che\, poco stante che funno creati\, disubeditteno; 
+e\, fatti nocenti per la disubedienzia\, funno cacciati fuora del 
+paradiso ^delitiarum~ da l'angiulo e messi in questo mondo pieno 
+d'amaritudine e di fatica\, secondo che diceno li Teologi.  In su l'ora 
+de la tersa Iddio misse Adam nel paradiso ^delitiarum~\, traslatato di 
+Damasco\, dove 
+l'avea creato nel paradiso; e quive incontenente li diede lo 
+comandamento e present@oli tutte le bestie inanti\, et Adam impuose loro 
+li nomi; poi lo fe addormentare e form@o la femina de la sua costa\, e 
+poi venne lo serpente a tentare Eva\, e di po' la nona mangionno lo pomo 
+vietato\, e funno cacciati fuora; @e per@o dice: ^Per sua difalta~; 
+cio@e per suo mancamento da l'ubidienzia\, ^in pianto et in affanno~; 
+cio@e in turbamento d'animo e fatica di corpo\, ^Cambi@o l'onesto riso~; 
+cio@e lo diletto onesto dell'animo e contentamento\, ^e 'l dolce gioco~; 
+cio@e il dolce riposo corporale che arebbe avuto sempre stando quive\, 
+s@i che 'l riso si mut@o in pianto e lo riposo in fatica.  E qui si 
+potrebbe contastare all'autore\, dicendo che in questo mondo anco @e 
+riso e riposo?  A che si pu@o rispondere che non @e vero riso\, n@e vero 
+riposo: imper@o che @e mutabile et @ae fine\, quello non serebbe mai 
+mutato se non in mellio; e cos@i vero riposo e vera allegrezza @anno 
+quelli che sono in questa vita in stato d'innocenzia: imper@o che non si 
+muta mai se non in mellio\, e per@o la risa e lo riposo di questo mondo 
+@e risa falsa e similliata; e cos@i lo riposo et ogni bene che c'@e\, @e 
+similliato come l'imagine simillia lo imaginato\, e non @e veramente lo 
+imaginato.  E questo volse Iddio che fusse\, perch@e l'omo avesse 
+qualche esperienzia del vero bene per questo similliato\, che sempre lo 
+ritirasse al vero bene.  ^Perch@e 'l turbar~; cio@e per la qual cosa\, 
+acci@o che questo luogo avesse vero diletto che non avesse mutamento\, 
+n@e mancamento lo turbamento dell'aire o in vento\, o in pioggia\, o in 
+grandine\, o in nieve\, o in caldo\, o in freddo\, ^che~; cio@e lo qual 
+turbare\, ^sotto da s@e fanno L'esalazion dell'acqua e della terra~; 
+come @e stato ditto di sopra\, la terra e l'acqua produceno certi vapori 
+li quali chiama l'autore scialamenti: a similitudine dei nostri corpi 
+che sempre metteno fuora da s@e l'aire tirato; cos@i l'acqua e la terra 
+metteno fuora fummi li quali sono tirati su dal calore del Sole\, in
+fine al luogo determinato; e quive si convertono li secchi vapori in 
+vento o in fuoco\, e li umidi o in acqua\, o in nieve\, o in grandine\, 
+e cos@i di sotto da s@e turbano l'aire mutandolo del suo essere\, e 
+cos@i si risolveno\, ^Che~; cio@e li quali vapori et esalazioni\, 
+^quanto posson dietro al calor vanno~; cio@e montano suso\, tirati dal 
+calore\, in fine a la tersa regione e non pi@u su\, ^All'omo non facesse 
+alcuna guerra~; cio@e alcuno dispiacere\, e cus@i guastasse lo suo 
+diletto\, ^Questo monte~; cio@e in sul quale @e lo purgatorio e ne la 
+sua sommit@a @e lo paradiso ^delitiarum —\, sallio 'n ver lo Ciel 
+tanto~; cio@e andando pi@u su che l'altra terra\, che @e dall'altro 
+emisperio\, ^Che liber @e~; cio@e da ogni esalazione questo monte\, ^da 
+indi~; cio@e da quinde in su\, cio@e da la porta del purgatorio in su; e 
+per@o dice: ^ove si serra~; cio@e da la porta in su: imper@o che @e pi@u 
+su che 'l principio de la tersa regione dell'aire\, infine a la quale 
+montano li vapori.  E questo finge l'autore; cio@e che 'l purgatorio e 
+lo paradiso sia in s@i fatto sito\, per dare ad intendere che chi @a in 
+questa vita le virt@u purgatorie e poi le virt@u dell'animo purgato\, @e 
+libero da ogni alterazione del mondo: imper@o che di niuna si cura.  E 
+secondo la lettera @e necessaria tale fizione\, per mostrare verisimile 
+quello che diceno li Poeti de la prima et@a che la descrisseno aurea\, 
+piena di tutti diletti; e per affermare quello che dice la santa 
+Scrittura\, che chiama lo ditto luogo paradiso di diletti.
+
+        |103-120.~  In questi sei ternari lo nostro autore finge come 
+Matelda\, continuando lo suo parlare\, solve lo dubbio mosso da lui di 
+sopra oltra la prefazione fatta di sopra\, dicendo unde si cagiona il 
+vento\, poi che cos@i @e che 'l purgatorio @e ne la tersa regione 
+dell'aire e lo paradiso di sopra\, oltra lo principio della quale non 
+pu@o essere nessuno accidente di quelli che sono ne la seconda infine al 
+principio de la tersa\, e ne la prima per elevazione dei vapori terresti 
+et aquatici; e per@o dice cos@i: ^Or perch@e 'n circuito~; cio@e ora\, 
+poi ch'io t'abbo dichiarato che esalazioni di vapori terresti non 
+possano cagionare mutamento ne la tersa regione e similmente delli 
+aquatici\, dei sapere che\, ^perch@e 'n circuito~; cio@e in tondo\, 
+^tutto quanto L'aire si volge~; cio@e de la prima regione e de la 
+seconda e de la terza\, ^co la prima volta~; cio@e col primo mobile che 
+gira in 24 ore da oriente in occidente\, et inde per l'altro emisperio 
+torna ad oriente\, ^Se non li @e rotto il cerchio d'alcun canto~; questo 
+dice\, perch@e ne la prima regione dell'aire sono molti monti e muri che 
+rompeno la revoluzione dell'aire et anco ne la seconda regione\, s@i 
+come si dice del monte Olimpo di Tessalia\, del quale dice Lucano che 
+passa infine a la tersa regione quando dice: ^Nubes excedit Olympus Lege 
+deum~.  E s@i come finge l'autore del monte del purgatorio che da la 
+porta del purgatorio in su tanto\, quanto @e alto\, rompe la revoluzione 
+dell'aire de la tersa regione\, e da inde ingi@u de la seconda e de la 
+prima che non fa in giro la revoluzione sua; e per questo si pu@o 
+vedere\, perch@e l'aire @e sano et infermo\, secondo li luoghi\, lo 
+quale sarebbe tutto sano e tutto infermo se tutto girasse; ma perch@e 
+sta saldo u' @e impedito lo suo girare\, e quil che gira di sopra non 
+pu@o mandare di sotto perfettamente la sua influenzia\, impedito da la 
+forte resistenzia di quello di sotto o da la debile azione di quel di 
+sopra\, per@o addiviene che in uno luogo pi@u si corrompe quil di sotto 
+che in uno altr
+o\, et in uno tempo pi@u che in uno altro.  ^In questa altezza~; cio@e 
+di sopra al paradiso terresto\, ^che~; cio@e lo quale\, ^tutt'@e~; cio@e 
+tutta @e\, ^disciolta~; cio@e libera da impedimento: imper@o che di 
+sopra l'aire @e libero\, e non v'@e cosa che impacci la sua 
+revoluzione\, ^Nell'aire vivo~; chiama aire vivo quello del principio de 
+la tersa regione in su\, ^perch@e @e~; vicino a la spera del fuoco; et 
+@e quello che li Grammatici chiamano ^aether~\, e muovesi tutto in giro 
+come la spera del primo mobile\, ^tal moto percuote~; quale detto @e del 
+primo mobile\, ^E fa sonar la selva~; cio@e el moto del primo mobile\, 
+percotendo l'aere\, muove la selva e l'aere suona\, ^perch@e~; cio@e per 
+ch'ella\, ^@e folta~; cio@e piena d'arbori\, et ecco la cagione perch@e 
+suona.  ^E la percossa pianta tanto puote~; cio@e @a tanta virt@u\, ^Che 
+della sua virtute l'aura impregna~; cio@e riempie l'aire lo qual si 
+muove e fa vento de la sua virt@u e del suo odore; e questa @e la 
+cagione\, perch@e qui si sente suono di vento delicatissimo et odore 
+soavissimo\, ^E quella~; cio@e aura: propriamente aura @e vento 
+delicato\, ^poi girando in torno~; alla spera della terra\, ^scuote~; 
+cio@e la virt@u de le piante della quale ella @e ripiena\, quando passa 
+sopra essa come farebbe un ramo bagnato quando fussi girato intorno\, ^E 
+l'altra terra~; cio@e quella del nostro emisperio\, ^secondo che @e 
+degna~; cio@e secondo ch'ell'@e atta a ricevere la virt@u\, che scuote 
+l'aura che si gira come seme e poi @a a producere\, ^Per s@e~; ecco che 
+tocca una delle cagione\, per che li frutti non sono pari in ogni 
+luogo\, e di ci@o ne @e cagione alcuna volta el terreno\, che @e 
+migliore pi@u in una parte che in una altra\, ^o per suo Ciel~; ecco 
+l'altra cagione; la influenzia del cielo\, sotto el quale ella @e\, 
+^concepe~; cio@e la virt@u dell'aere scossa s@i\, come seme\, ^e 
+figlia~; cio@e produce fuori lo frutto\, come figlia\, ^Di diverse 
+virt@u diverse legna~: cio@e diverse alberi et erbe che @anno diverse 
+virt@u\, e cos@i la nostra terra p
+roduce del seme delle piante che sono nel paradiso terrestre.  ^Non 
+parrebbe di l@a poi maraviglia~; poi che cos@i @e\, dice Matelda a 
+Dante\, ^Udito questo~; ch'io @o detto\, ^quando alcuna pianta Sanza 
+seme palese vi s'appiglia~; che non sia seminata e nasce.  ^E saper 
+dei~; questo\, tu\, Dante come cristiano\, ^che la campagna santa\, Dove 
+tu se\, d'ogni sementa @e piena~: imper@o che la s. Scrittura questo 
+dice che 'l paradiso terresto @e pieno d'arbori e d'erbe odorifere; et 
+allegorice\, pieno d'ogni virt@u\, ^E frutto @a in s@e~; questa campagna 
+e pianura\, ^che di l@a non si schianta~; cio@e che nell'altro emisperio 
+nullo arbor si truova; puote anche dire el testo: ^non si chianta~; 
+cio@e non si pianta\, et @e vocabulo di Sicilia.  E questo @e l'arbor 
+della vita\, lo quale @e nel mezzo del paradiso\, e chi del suo frutto 
+mangiassi non morrebbe mai: questo frutto non si trova in questo mondo; 
+ma nello stato della innocenzia si trova un frutto che d@a vita 
+all'anima\, che mai non muore: questa vita @e la grazia di Dio\, che chi 
+@a non pu@o andare alle pene infernali.
+
+        |121-138.~  In questi sei ternari finge come Matelda lo 
+dichiar@o onde era lo fiume\, che vedea che parea contraddire a quello 
+ch'era detto di sopra\, come che lass@u non possa montare vapori 
+terrestri\, n@e aquei; e cos@i parr@a che non vi dovessi esser fiume\, 
+lo qual si genera di vapori umidi nel mondo\, dicendo: ^L'acqua che 
+vedi~; cio@e lo fiume Lete\, ^non surge di vena~; cio@e che manchi\, 
+come quelli del mondo\, ^Che~; cio@e la qual vena\, ^ristori e' vapor\, 
+che 'l Ciel converta~; e qui tocca la Filosofia\, dimostrando la cagione 
+del mancamento et accrescimento de fiumi\, e' quali mancano per li 
+vapori dell'acqua che tira a s@e lo cielo\, e poi crescono quando lo 
+cielo converte e' tirati vapori in acqua; la qual cosa non avviene nel 
+paradiso terrestre\, perch@e non vi piove; ma sta sempre equale; e per@o 
+dice: ^Come fiume che acquista e perde lena~; come fiume mondano che 
+acquista quando piove\, e perde quando @e secco\, ^Ma esce di fontana 
+salda e certa~; cio@e Lete\, ^salda~; dice perch@e non vien meno\, 
+^certa~; perch@e non cresce\, n@e manca\, ^Che~; cio@e la qual fontana\, 
+^tanto di valor da Dio riprende~; cio@e acquista\, ^Quant'ella versa da 
+dua parte aperta~.  Questa fonte\, secondo la fizione dell'autore\, @a 
+dua bocche et ognuna fa un fiume; da man sinistra escie Lete\, e da man 
+destra esce Enuoe\, e finge sia nello oriente\, e per@o la fonte 
+significa la grazia di Dio confirmante; e due acque\, due specie di 
+virt@u\, che l'una induce dimenticanza del male che @e la parte 
+sinistra\, e l'altra ricordanza del bene; la prima virt@u si chiama 
+purit@a e semplicit@a di mente\, la seconda fervore e carit@a di Dio.  E 
+per@o dice: ^Da questa parte~; cio@e da man sinistra\, ^con virt@u 
+discende~; cio@e l'acqua Lete discende con virt@u di purit@a\, ^Che~; 
+cio@e la qual virt@u\, ^toglie altrui memoria del peccato~: imper@o che 
+chi @e in s@i fatto stato dimentica el peccato\, n@e sa che sia peccare: 
+per@o che @e confermato in grazia\, e cos@i @e venuto a lo stato de la 
+innocenzia\, ^Dall'altra~; ci
+o@e dalla parte destra discende l'acqua di Eunoe\, con virt@u che\, 
+^d'ogni ben fatto la rende~; cio@e arreca a memoria ogni bene operato o 
+che far si pu@o; ma in prima si conviene bere Lete\, dove si viene allo 
+stato della innocenzia quando la mente @e venuta a purit@a; e poi bere 
+Eunoe\, e cos@i si viene alla contemplazione\, nella quale l'omo @e 
+trasformato per fervore di carit@a\, et innamoramento del sommo bene\, 
+Iddio.  ^Quinci Lete~; cio@e da questa parte sinistra questa acqua si 
+chiama Lete; cio@e oblivione e dimenticanza del male; lo qual fiume 
+finse Virgilio e gli altri Poeti essere ne' campi elisi ne' quali 
+fingono stieno e' buoni; ma lo nostro autore arreca la finzione alla 
+nostra fede\, e per@o finge che sia nel paradiso terestre\, avendo 
+allegorico intelletto\, come detto @e\, ^cos@i dall'altro lato Eunoe si 
+chiama~; cio@e la detta acqua che @e da man diritta\, ^e non adopra~; 
+cio@e non fa frutto\, se non a chi ne beessi\, ^Se quinci~; cio@e dalla 
+sinistra\, dove @e Lete\, ^pria non @e gustato~; cio@e assaggiato\, ^e 
+quindi~; cio@e da man diritta\, dove @e Eunoe.  E per questo d@a ad 
+intendere che nullo pu@o bene operare nelle virt@u attive e 
+contemplative\, se non riceve drento ne la mente innanti la grazia di 
+Dio\, che @e dimenticare lo male\, e d@a simplicit@a e purit@a alla 
+mente\, et appresso incende el cuore dell'amor di Dio e del prossimo.  
+^A tutti altri sapori esto @e di sopra~; cio@e che la grazia di Dio 
+avanza tutti e' sapori dell'altre acque\, cio@e tutte l'altre grazie; e 
+questo dice\, per confortare Dante che di questa acqua bea 
+desiderosamente.  Et ora fa discressione\, dicendo: ^Et avvegna che 
+assai possa esser sazia La sete tua~; cio@e lo desiderio di te Dante\, 
+per la cagione dell'aura de la selva e dell'acqua\, dice Matelda a 
+Dante\, ^perch'io~; cio@e ben ch'io\, ^pi@u non ti scuopra~; cio@e per 
+ch'io non dica pi@u de la detta materia\, ^Darotti un corollario~: 
+corollario @e una conclusione vera che discende da le cose ditte di 
+sopra oltra l'opposito\, e chiamasi ^corollario~\, n
+ome diminitivo e dirivato da corona: la corona per premio si dava a 
+coloro che vincevano; e cos@i lo scientifico disputante adiunge di po' 
+la sua conclusione ch'elli @a iunto co le ragioni una verit@a\, che 
+discende da le ragioni dette che @e come premio picculino de la sua 
+vittoria\, ^ancor~; cio@e oltra quello ch'io abbo ditto\, ^per grazia~; 
+cio@e per compiacerti: imper@o che non @e di necessit@a\, ^N@e credo~; 
+cio@e io Matelda\, ^che mio dir ti sia men caro~; cio@e a te Dante\, ^Se 
+oltra promission teco si spazia~; cio@e se io dico pi@u ch'io non ti 
+promisi nel principio del mio parlare\, dove io dissi che venni presta 
+ad ogni tua questione tanto che basti\, et ora dico pi@u e passo la 
+promessione.
+
+        |138-148.~  In questi tre ternari et uno versetto lo nostro 
+autore finge come Matelda disse lo corollario che avea promesso di 
+sopra; e come Virgilio e Stazio d'esso si mossono a riso\, dicendo 
+cos@i: ^Quelli~; cio@e Poeti\, ^ch'anticamente~; cio@e li quali 
+anticamente\, ^poetaro~; cio@e usonno l'arte della poes@i\, e poetando 
+finseno\, ^L'et@a dell'oro e suo stato felice~; siccome Ovidio e li 
+altri autori che di ci@o @anno parlato\, de la quale et@a @e stato ditto 
+di sopra\, ^Forsi in Parnaso esto loco sognaro~; cio@e viddeno ne lo 
+studio poetico figurato questo luogo; cio@e lo paradiso terresto\, come 
+nel sogno si vedeno le cose figurate ne la fantasia.  E notantemente 
+dice\, ^sognaro~: imper@o che era opinione che alquanti diventasseno 
+poeti\, s'elli sognassero d'essere in Parnaso\, che @e monte in Grecia 
+u' @e la fonte de le Muse; o vero che in Parnaso realmente fusseno e 
+quive s'addormentasseno e sognasseno d'esser fatti poeti da le Muse\, 
+altramente no: imper@o che quive diceano essere mostrate loro nel sogno 
+da le Muse tutte le fantasie e figurazioni che fanno poi li Poeti\, s@i 
+come dice Persio nel suo principio: ^Nec fonte labia prolui caballino: 
+Nec in bicipiti somniasse Parnasso Memini~ ec.; e di quinci credo che 
+l'autore nostro lo tolliesse: imper@o che\, fingendo l'et@a dell'oro e 
+lo stato suo felice lo quale aveano veduto ne la fonte de le Muse\, 
+figuratamente dormendo; cio@e riposandosi in esso col pensieri come si 
+riposa l'omo che dorme nel letto\, descrisseno lo paradiso ^delitiarum~: 
+imper@o che ci@o\, che Ovidio\, Metamorfosi\, dice nel primo de l'et@a 
+dell'oro\, si verifica ne lo stato de la innocenzia\, nel quale ste Adam 
+et Eva mentre che stetteno nel paradiso terrestro; e per@o dice: ^Qui~; 
+cio@e in questo paradiso\, ^fu innocente l'umana radice~; cio@e li primi 
+ditti parenti\, ^Qui~; cio@e in questo paradiso\, ^primavera sempre~; 
+cio@e fu\, come dice Ovidio nel ditto luogo\, ^Ver erat aeternum\, 
+placidique tepentibus auris Mulcebant Zephyri —\, et ogni frutto~; cio@e 
+fu qui\, ^Net
+tar @e questo\, di che ciascun dice~; cio@e questo fiume @e quil 
+nettare\, che tutti li Poeti diceno che beano li dii.  Questo nettare si 
+dice la stella Diana\, et ogni beveragio lavorato et artificiato; unde 
+nel preditto luogo dice Ovidio: ^Flumina iam lactis\, iam flumina 
+nectaris ibant~\, e cos@i appare che\, parlando li Poeti de la prima 
+et@a\, parlavano del paradiso ^delitiarum~\, figurato loro per quello 
+che aveano veduto nel sonno in Elicone di Parnaso; e sotto questa figura 
+significavano li Poeti che chi si riposava ne lo studio de la poes@i\, 
+che @e come dormire\, li era spirato ne la mente fizioni sopra la 
+verit@a occulte\, come @e a chi sogna.  ^Io~; cio@e Dante\, ^mi rivolsi 
+addietro allora tutto Ai miei Poeti~; cio@e a Virgilio e Stazio: 
+volgersi a rieto non fu se non tornare a considerare co la mente e col 
+pensieri la poes@i\, la quale @ae finto molte cose che si possano recare 
+a la Teologia; e questo consider@o l'autore\, avendo fatta questa 
+finzione\, e dice ^tutto~: imper@o che tutto fu in questo pensieri\, ^e 
+viddi che con riso Udito aveano l'ultimo costrutto~; cio@e Virgilio e 
+Stazio aveano riso sopra questo corollario di Matelda; e per questo d@a 
+ad intendere che la sua ragione e lo suo intelletto si rallegr@o\, 
+vedendo come la poes@i si pu@o accostare alla verit@a de la santa 
+Teologia.  ^Poi a la bella donna~; cio@e Matelda\, ^tornai 'l viso~; 
+cio@e io Dante tornai a ragguardare Matelda.  E questo d@a ad intendere 
+ch'elli ritorn@o a considerare e studiare la dottrina de la santa 
+Teologia; cio@e li santi dottori\, che sopra questo @anno atteso e 
+quella dottrina scritto.  Seguita lo canto XXIX.

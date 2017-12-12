@@ -1,0 +1,36 @@
+-------------------------------------------------
+Entered on 02 Sep 1998 by dante:
+Copied ~bobh/campi/[0-9]* into here after converting the *.bin files into
+text-only format. They were MacBinary format, of all things. File 01.s.bin
+was corrupted, so I could not convert it. RH will see if he has a clean copy.
+See also ../purg.              -stc
+-------------------------------------------------
+Entered on 07 Sep 1998 by dante:
+Since 01.e was damaged, copied 01.s from C/campi/inf into here for RH
+to examine and possibly [re]edit.        -stc
+-------------------------------------------------
+Entered on 20 Sep 1998 by dante:
+RH re-edited 01.s into 01.e. Rm'd 01.s.         -stc
+-------------------------------------------------
+Entered on 20 Sep 1998 by dante:
+Did "fmt ~bobh/campi/inf21* > 21.s to create a stable version
+of 21 for RH to edit.                    -stc
+-------------------------------------------------
+Entered on 25 Oct 1998 by dante:
+RH says 21.s is fine as is, so I renamed it to 21.e. Inf should now
+be ready to load.        -stc
+-------------------------------------------------
+Entered on 15 Feb 1999 by dante:
+Added tabs to section beginnings so they parse correctly. As per #190. -stc
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #199. -stc
+-------------------------------------------------
+Entered on 08 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded

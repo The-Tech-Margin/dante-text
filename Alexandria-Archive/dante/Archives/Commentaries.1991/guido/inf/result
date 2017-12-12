@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Guido
+	Language   = Latin
+	Pub. Year  = 1327
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.load into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       74336 Mar 17 13:59 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.load into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40563 Mar 17 14:00 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.load into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       25731 Mar 17 14:00 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.load into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       82115 Mar 17 14:00 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.load into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       52507 Mar 17 14:00 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.load into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36248 Mar 17 14:01 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.load into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35907 Mar 17 14:01 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.load into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       64875 Mar 17 14:01 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.load into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34767 Mar 17 14:01 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.load into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       28500 Mar 17 14:02 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.load into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26976 Mar 17 14:02 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.load into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       60767 Mar 17 14:02 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.load into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37971 Mar 17 14:02 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.load into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       55546 Mar 17 14:03 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.load into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       19372 Mar 17 14:03 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.load into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29404 Mar 17 14:03 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.load into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59654 Mar 17 14:04 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.load into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42907 Mar 17 14:04 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.load into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48383 Mar 17 14:04 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.load into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58481 Mar 17 14:05 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.load into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34234 Mar 17 14:05 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.load into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32995 Mar 17 14:06 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.load into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46470 Mar 17 14:06 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.load into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       83632 Mar 17 14:07 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.load into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       50230 Mar 17 14:08 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.load into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       88755 Mar 17 14:09 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.load into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46532 Mar 17 14:09 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.load into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56483 Mar 17 14:10 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.load into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27733 Mar 17 14:11 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.load into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       60466 Mar 17 14:11 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.load into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       75970 Mar 17 14:12 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.load into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54979 Mar 17 14:13 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.load into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40901 Mar 17 14:14 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.load into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Guido...
+Verifying Guido...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37250 Mar 17 14:14 ../staging/inf/34

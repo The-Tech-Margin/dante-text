@@ -1,0 +1,1523 @@
+&&attributes litterale
+
+	|Proemio.~  <Al tornar della mente che si chiuse> etc. 
+Come ne' precedenti canti ha fatto, cos@i in questo si continua
+l'autore alle cose dette.  Egli, nella fine del precedente canto,
+mostra come per compassione auta di madonna Francesca e di Polo
+da Rimino cadesse, e da quel cadimento, nel principio di questo,
+essere tornato in s$e e ritrovarsi nel terzo cerchio dello
+'nferno.  E fa in questo canto l'autore cinque cose: nella prima
+discrive la qualit@a del luogo; nella seconda dice quello che
+Cerbero dimonio facesse, vedendogli, e come da Virgilio chetato
+fosse; nella terza pone come trovasse un fiorentino e che da lui
+sapesse qual peccato quivi si puniva, e altre cose pi@u,
+domandandone esso autore; nella quarta, passando pi@u avanti,
+muove l'autore un dubbio a Virgilio e Virgilio gliele solve;
+nella quinta dimostra l'autore dove pervenissero.  La seconda
+comincia quivi: <Quando ci scorse>; la terza quivi: <Noi
+passavamo>; la quarta quivi: <S@i trapassammo>; la quinta quivi:
+<Noi agirammo>.
+
+	|1-6.~  Discrive adunque l'autore nella prima parte di
+questo canto la qualit@a del luogo, dicendo: |Al tornar della
+mente~, mia, [|che~], la quale per compassione, |si chiuse~, come
+nella fine del precedente canto @e mostrato, |Dinanzi alla piet@a
+de' due cognati~, di madonna Francesca e di Polo, |Che di
+tristizia tutto mi confuse~, la compassione avuta della loro
+misera fortuna; |Nuovi tormenti~, non quegli li quali nel secondo
+cerchio aveva veduti, ma altri, li quali dice |nuovi~ quanto a
+s$e, che mai pi@u veduti non gli avea; |e nuovi tormentati~, altri
+che quegli che di sopra veduti avea, |Mi veggio intorno, come
+ch'io mi muova~, a destra o a sinistra, |E ch'io mi volga~, in
+questa parte o in quella, |[e] come ch'io mi guati.~
+
+	|7-9.  Io sono al terzo cerchio della piova~: la qual
+piova @e |Eterna~, non vien mai meno; |maladetta~, in quanto @e
+mandata dalla divina giustizia per perpetuo supplicio di coloro
+a' quali adosso cade; |fredda~, e per tanto @e pi@u noiosa; |e
+greve~, cio@e ponderosa, per pi@u affliggere coloro a' quali adosso
+cade.  |Regola e qualit@a mai non l'@e nova~, sempre cade d'un
+modo.
+
+	|10-12.~  E poi discrive qual sia la qualit@a di questa
+piova, dicendo: |Grandine grossa ed acqua tinta e neve.~  Come
+che queste tre cose, causate da' vapori caldi e umidi e da aere
+freddo, nell'aere si generino, nondimeno per effetto della divina
+giustizia in quello luogo caggiono, in tormento e in pena di
+quegli che in questo terzo cerchio puniti sono; e per@o dice: |Per
+l'aere tenebroso si riversa~; e, oltre a ci@o, |Pute la terra che
+questo riceve~, cio@e queste tre cose.
+
+	|13-15.  Cerbero, fiera crudele e diversa~: Fingono i
+poeti questo Cerbero essere stato un cane ferocissimo, il quale
+essendo di Plutone, idio dello 'nferno, dicevano Plutone lui aver
+posto alla porta dello 'nferno, acci@o che quindi alcuno uscir non
+lasciasse, come che l'autore qui il ponga a tormentare i
+peccatori che in questo terzo cerchio sono, discrivendo la
+qualit@a della forma sua, dicendo: |Con tre gole~, per ci@o che tre
+capi avea, |caninamente latra~; e in questo atto dimostra lui
+essere cane, come i poeti il discrivono; |Sopra la gente che
+quivi @e sommersa~, sotto la grandine e l'acqua e la neve.
+
+	|16-18.  Gli occhi ha vermigli~, questo Cerbero, |e la
+barba unta ed atra~, cio@e nera.  |E 'l ventre largo~, da poter,
+mangiando, assai cose riporre, |e unghiate le mani~, per poter
+prendere e arrappare; |Graffia gli spiriti~, con quelle unghie,
+|e ingoia~, divorandogli, |e squatra~, graffiandogli.
+
+	|19-21.  Urlar~: questo @e propio de' lupi, come che e'
+cani ancora urlino spesso; |gli fa la pioggia~, la qual
+continuamente cade loro addosso, |come cani.  Dell'un de' lati
+fanno all'altro schermo~, questi spiriti dannati; |Volgonsi
+spesso~, mostrando in questo che gravemente gli offenda la
+pioggia; e perci@o, come alquanto hanno dall'un lato ricevutola,
+cos@i si volgon dall'altro, infino a tanto che alcun mitigamento
+prendano in quella parte che offesa @e stata dalla pioggia, |i
+miseri profani.~  <Profano> propiamente si chiama quello luogo il
+quale alcuna volta fu sacro, poi @e ridotto all'uso comune d'ogni
+uomo, s@i come alcun luogo nel quale gi@a @e stata alcuna chiesa, o
+tempio, la qual, mentre vi fu, fu sacro luogo, poi per alcuno
+acconcio comune, transmutata la chiesa in altra parte, @e il luogo
+rimaso comune e chiamasi <profano>; cos@i si pu@o dire, degli
+spiriti dannati, essere stati alcuna volta sacri, mentre
+seguirono la via della verit@a, per ci@o che, mentre questo fecero,
+era con loro la grazia dello Spirito santo; ma, poi che,
+abandonata la via della verit@a, seguirono le malvagit@a e le
+nequizie, per le quali dannati sono, partita da loro la grazia
+dello Spirito santo, sono rimasi profani.
+
+	|22-24.  Quando ci scorse~: Comincia la seconda parte del
+presente canto, nella quale, s@i come ne' superiori cerchi @e
+adivenuto all'autore d'essere stato con alcuna parola spaventato
+da' diavoli presedenti a' cerchi, ne' quali disceso @e, cos@i qui
+similemente mostra Cerbero averlo voluto spaventare; e questo,
+con quello atto che generalmente sogliono fare i cani, quando
+uomo o altro animale vogliono spaventare: inanzi ad ogni altra
+cosa gli mostrano i denti.  Il che aver fatto Cerbero verso
+Virgilio e verso lui dimostra qui l'autore, dicendo: |Quando ci
+scorse~, cio@e ci vide venire, |Cerbero, il gran vermo.~  Pone
+l'autore questo nome a Cerbero di |vermo~ dal luogo dove il
+truova, cio@e sotterra, per ci@o che i pi@u di quegli animali, li
+quali sotterra stanno, sono chiamati <vermini>; |Le bocche~: per
+ci@o dice |le bocche~, perch$e tre bocche avea questo Cerbero, come
+di sopra @e dimostrato; |aperse e mostrocci le sanne~, cio@e i
+denti.  |Non avea membro che tenesse fermo~: il che pu@o muovere
+da impetuoso desiderio di nuocere e da altro.
+
+	|25-27.  E 'l duca mio~, veduto quello che Cerbero facea,
+|distese le sue spanne~, cio@e aperse le sue mani, a guisa che fa
+colui che alcuna cosa con la grandeza della mano misura; |Prese
+la terra, e con piene le pugna~: come la mano aperta si chiama
+<spanna>, cos@i, chiusa, <pugno>; |La gitt@o dentro alle bramose
+canne~: dice |canne~, per ci@o che eran tre, come di sopra @e
+mostrato.
+
+	|28-33.~  E, appresso questo, per una comparazione
+ottimamente convenientesi al comparato, dimostra quel dimonio
+essersi acquetato, e dice: |Qual @e quel cane ch'abbaiando~, cio@e
+latrando, |agugna.~  <Agognare> @e propiamente quel disiderare il
+quale alcun dimostra veggendo ad alcuno altro mangiare alcuna
+cosa, quantunque s'usi, in qualunque cosa l'uom vede, con
+aspettazione disiderare; ed @e questo atto propio de' cani, li
+quali davanti altrui stanno quando altri mangia.  |E si
+racqueta~, sanza pi@u abbaiare, |poi che 'l pasto morde~, cio@e
+quello che gittato gli @e da mangiare, |Che solo a divorarlo
+intende e pugna~; |Cotai si fecer~, cio@e cos@i quiete, |quelle
+facce lorde~, brutte di Cerbero, che eran tre, |Dello demonio
+Cerbero, che 'ntrona~, latrando, |L'anime~, in quel cerchio
+dannate, |s@i ch'esser vorrebber sorde~, acci@o che udire nol
+potessero.  Questo luogo @e tutto preso da Virgilio, di l@a dove
+egli nel sesto dell'^Eneida~ scrive:
+
+     ^Cerberus hec ingens latratu regna trifauci~
+     ^personat, adverso recubans immanis in antro.~
+     ^Cui vates, horrere videns iam colla colubris~,
+     ^melle soporatam et medicatis frugibus offam~
+     ^obicit: ille fame rabida tria guttura pandens~,
+     ^corripit obiectam, atque immania terga resolvit~
+     ^fusus humi totoque ingens extenditur antro~ ^etc.~
+
+	|34-36.  Noi passavamo~: Qui comincia la terza parte di
+questo canto, nella quale l'autore truova un fiorentino, il quale
+gli dice qual peccato in questo terzo cerchio si punisca, e,
+oltre a ci@o, d'alcune cose adomandato da lui, il dichiara.  Dice
+adunque: |Noi passavam~, Virgilio ed io, |su per l'ombre
+ch'addona~, cio@e prieme e macera, |La greve pioggia~, la quale in
+quel luogo era, come di sopra @e mostrato, |e ponavam le piante~,
+de' piedi, |Sopra lor vanit@a, che par persona.~  Altra volta @e
+detto gli spiriti non avere corpo ed essere agli occhi nostri
+invisibili, ma in questa opera tutti li mostra l'autore essere
+corporei, imitando Virgilio, il quale nel VI dell'^Eneida~ fa il
+simigliante; e questo fa, acci@o che pi@u leggiermente inteso sia,
+figurando essere corporee le cose che incorporee sono, e i loro
+suppl@ici: la qual cosa non si potrebbe far tanto che bastevole
+fosse, se questa maniera non tenesse.  Nondimeno mostra,
+quantunque in aparenza corpi paiano, non essere in essistenza,
+dicendo |lor vanit@a che par persona~, e non @e: il che come
+adivenga, pienamente si mosterr@a nel canto XXV del ^Purgatorio~,
+dove questa materia si tratta.
+
+	|37-39.  Elle~, cio@e quell'anime, |giacean per terra
+tutte quante, Fuor d'una ch'a seder si lev@o~, s@i che apare che
+anche questa una giacea come l'altre, |ratto~, cio@e tosto,
+|Ch'ella ci vide passarsi davante.~
+
+	|40-42.~  E disse cos@i: |O tu, che se' per questo inferno
+tratto~, cio@e menato, |Mi disse, riconoscimi, se sai~, quasi
+volesse dire: <Guatami, e vedi se tu mi riconosci, per ci@o che tu
+mi dovresti riconoscere>; e la ragione @e questa, che |Tu fosti
+prima fatto~, cio@e creato e nato, |ch'io disfatto~, cio@e che io
+morissi, per ci@o che nella morte questa composizione che noi
+chiamiamo <uomo> si disfa per lo partimento dell'anima; e cos@i n$e
+ella, che se ne va, n$e il corpo, che rimane, @e pi@u uomo.  E
+veramente nacque l'autore molti anni avanti che costui morisse, e
+fu suo dimestico, quantunque di costumi fossero strani.
+
+	|43-48.  Ed i' a lei~, cio@e a quella anima: |l'angoscia,
+che tu hai~, dal tormento nel quale tu se', |Forse~ @e la cagione
+la quale |ti tira fuor della mia mente~, cio@e del mio ricordo; e
+tiratene fuor |S@i che non par ch'i' ti vedessi mai.  Ma~, poich@e
+io non me ne ricordo, |dimmi chi tu se', che 'n s@i dolente Luogo
+se' messo~, come questo @e, |e a s@i fatta pena~, come @e questa, la
+quale @e tale |Che s'altra @e maggio~, cio@e maggiore |nulla @e s@i
+spiacente.~
+
+	|49-51.  Ed egli a me~ rispuose cos@i: |la tua citt@a~,
+cio@e Firenze, della quale tu se', |ch'@e piena D'invidia~, ed @enne
+piena |s@i che gi@a trabocca il sacco~, quasi voglia dire: <Ella
+n'@e s@i piena, che ella non la pu@o dentro a s$e tenere: per la gran
+quantit@a conviene che si versi di fuori, cio@e si pervenga agli
+effetti, li quali dalla invidia procedono>.  E questo dice
+costui, per ci@o che tra l'altre invidie, che in Firenze erano, ve
+n'era una la quale gitt@o molto danno alla citt@a, e massimamente a
+quella parte alla quale era portata: e questa era la 'nvidia la
+quale portava la famiglia de' Donati alla famiglia de' Cerchi;
+per ci@o che, dove i Donati erano delle sustanze temporali anzi
+disagiati gentili uomini che no, vedendosi tutto d@i davanti, s@i
+come vicini in citt@a e in contado, la famiglia de' Cerchi, li
+quali in quei tempi erano mercatanti grandissimi, e tutti ricchi
+e morbidi e vezosi, e, oltre a ci@o, nel reggimento della citt@a e
+nello stato potentissimi, avevano e alle riccheze e allo stato
+loro invidia; e aveanne tanta che, come @e detto, non potendola
+dentro pi@u tenere, non molto poi con dolorosi effetti la versaron
+fuori.  |Seco mi tenne~, s@i come cittadino, |en la vita serena~,
+cio@e in questa vita mortale, la quale chiama |serena~, cio@e
+chiara, per rispetto a quella nella quale dannato dimorava.
+
+	|52.  Voi cittadini~, di Firenze, |mi chiamaste Ciacco~:
+Fu costui uomo non del tutto di corte; ma, per ci@o che poco avea
+da spendere ed erasi, come egli stesso dice, dato del tutto al
+vizio della gola, era morditore e le sue usanze erano sempre co'
+gentili uomini e ricchi, e massimamente con quelli che
+splendidamente e dilicatamente mangiavano e beveano, da' quali se
+chiamato era a mangiare, v'andava, e similmente, se invitato non
+era, esso medesimo s'invitava; ed era per questo vizio notissimo
+uomo a tutti i Fiorentini.  Senza che fuor di questo, egli era
+costumato uomo, secondo la sua condizione, ed eloquente e
+affabile e di buon sentimento; per le quali cose era assai
+volentieri da qualunque gentile uomo ricevuto.
+
+	|53-54.  Per la dannosa colpa della gola, Come tu vedi,
+alla pioggia mi fiacco~, cio@e in questo tormento mi rompo. 
+Pioveva quivi, come di sopra @e detto grandine grossa la quale,
+agramente percotendogli, tutti gli rompeva; e dice che ci@o gli
+avvenia |per la dannosa colpa della gola~, nelle quali parole
+manifesta qual vizio in questo terzo cerchio dello 'nferno sia
+punito, che ancora per infino a qui aparito non era, chiamando il
+vizio della gola |dannosa colpa~: e questo non senza cagione, per
+ci@o che dannosissimo vizio @e, s@i come pi@u distesamente si
+mosterr@a appresso, nella esposizione allegorica.
+
+	|55-57.  Ed io, anima trista~, e veramente @e trista
+l'anima di chi a s@i fatta perdizion viene; |non son sola~, quasi
+voglia dire: <Non vorrei che tu credessi che io solo fossi nel
+mondo stato ghiotto>; per ci@o |Che tutte queste~, le quali tu
+vedi in questo luogo dintorno a me, |a simil pena stanno~, che fo
+io, e |Per simil colpa~, cio@e per lo vizio della gola; |e~, detto
+questo, |pi@u non f$e parola.~
+
+	|58-59.  I' gli risposi~, cio@e gli dissi: |Ciacco, il tuo
+affanno~, il quale tu sostieni per la dannosa colpa della gola,
+|Mi pesa s@i~, cio@e tanto, |ch'a lagrimar m'invita~: e mostra qui
+l'autore d'aver compassione di lui, acci@o che egli sel faccia
+benivolo a dovergli rispondere di ci@o che intende di domandare. 
+E nondimeno, quantunque dica: |a lacrimar m'invita~, non dice
+perci@o che lacrimasse; volendo, per questo, mostrarne lui non
+essere stato di questo vizio maculato, ma pure alcuna volta
+essere stato da lui per appetito incitato, e perci@o non piena, ma
+alcuna compassione in rimorsione del suo non pieno peccato ne
+dimostra.
+
+	|60-63.~  E per@o segue: |Ma dimmi, se tu sai, a che~,
+fine, |verranno I cittadin~, cio@e i Fiorentini, |della citt@a
+partita~; per@o che in que' tempi Firenze era tutta divisa in due
+s@ette, delle quali l'una si chiamavano Bianchi e l'altra Neri; ed
+era caporale della setta de' Bianchi messer Vieri de' Cerchi, e
+di quella de' Neri messer Corso Donati; ed era questa maladizione
+venuta da Pistoia, dove nata era in una medesima famiglia
+chiamata i Cancellieri.  E dimmi |S' alcun v'@e giusto~, nella
+citt@a partita, il quale riguardi al ben comune e non alla
+singularit@a d'alcuna setta; |e dimmi la cagione, Per che l'ha
+tanta discordia assalita.~  Domandalo adunque l'autore di tre
+cose, alle quali Ciacco secondo l'ordine della domanda
+successivamente risponde.
+
+	|64-66.  Ed egli a me~, ^supple~: rispose alla prima:
+|dopo lunga tencione~, cio@e dopo lunga riotta di parole,
+|Verranno al sangue~, cio@e fedirannosi e ucciderannosi insieme. 
+Il che poco appresso adivenne: per ci@o che, andando per la terra
+alcuni delle dette s@ette, tutti andavano bene acompagnati e a
+riguardo, e cos@i avvenne che la sera di calendimaggio MCCC,
+faccendosi in su la piaza di santa Trinita un gran ballo di
+donne, che giovani dell'una setta e dell'altra a cavallo e bene
+in concio sopravennero a questo ballo; e quivi primieramente
+cominciarono l'una parte a sospignere l'altra, e da questo
+vennero a sconce parole; e ultimamente, cominciatavisi una gran
+zuffa tra loro e lor seguaci e dalle mani venuti a' ferri, molti
+vi furono fediti, e tra gli altri fu fedito Ricovero di messer
+Ricovero de' Cerchi e fugli tagliato il naso, di che tutta la
+citt@a fu sommossa ad arme.  E non fin@i in questo il malvagio
+cominciamento, per ci@o che, in questo medesimo anno in simili
+riscontri pervenuti, sanguinosamente si combatterono le dette
+s@ette.
+
+	|E la parte selvaggia~, cio@e la Bianca, la quale chiama
+|selvaggia~, per ci@o che messer Vieri de' Cerchi, il quale era,
+come detto @e, capo della parte Bianca, e' suoi consorti erano
+tutti ricchi e agiati uomini, e per questo erano non solamente
+superbi e altieri, ma egli erano salvatichetti intorno a' costumi
+cittadineschi, per ci@o che non erano acostanti all'usanze degli
+uomini, n$e gli careggiavano, come per avventura faceva la parte
+avversa, la quale era pi@u povera; |Caccer@a l'altra~, parte.  N$e
+si vuole intendere qui che di Firenze cacciasse la parte Bianca
+la Nera, come che alcuni ne fosser mandati dal Comune in essilio,
+perch$e non avean di che pagare le condannagioni dagli uficiali
+del Comune fatte per li loro eccessi; ma intende l'autor qui che
+la parte selvaggia, cio@e Bianca, caccer@a la parte Nera del
+reggimento e dello stato del Comune, come essi fecero; e ci@o
+avvenne |con molta offensione~, in quanto, oltre agli altri mali
+e oppressioni ricevute da' Neri, furono le condannagioni
+pecuniarie grandissime, tanto pi@u gravi a' Neri che a' Bianchi,
+quanto aveano meno da pagare, perch$e poveri erano per rispetto
+de' Bianchi.
+
+	|67-69.  Poi appresso~, cio@e dopo tutto questo, |convien
+che questa~, parte selvaggia, |caggia~, dello stato e della
+maggioranza: e questo avverr@a |Infra tre soli~, cio@e infra lo
+spazio di tre anni, per ci@o che il sole circuisce tutto il
+zodiaco in CCCLXV d@i e un quarto, li quali noi chiamiamo <uno
+anno>, e questo medesimo spazio di tempo alcuna volta si chiama
+<un sole>, cio@e il circuito intero d'un sole.  E dice |infra tre
+soli~, per ci@o che non si compi$e il terzo circuito del sole, che
+quello adivenne che egli qui vuol mostrare di profetezare, il che
+apare esser vero: per ci@o che, vedendosi i Neri opprimer dalla
+parte Bianca, n'and@o messer Corso Donati in corte di Roma a papa
+Bonifazio ottavo, e con pi@u altri suoi aderenti pregarono il papa
+gli piacesse di muovere alcuno de' reali di Francia, il quale
+venisse a Firenze a doverla raconciare poich$e per messer Matteo
+d'Acquasparta, cardinale e legato di papa, non s'era potuta
+raconciare, non volendo i Bianchi ubidire al detto legato.  Per
+li prieghi de' quali, non avendo il papa potuto pacificare messer
+Vieri con messer Corso per la superbia di messer Vieri, il papa
+mand@o in Francia al re Filippo, il quale ad instanzia del detto
+papa mand@o di qua messer Carlo di Valois, suo fratello, il quale
+sotto nome di paciaro il papa mand@o a Firenze. E furono tali
+l'opere sue che a d@i IIII d'aprile MCCCII tutti i caporali di
+parte Bianca, richesti da messer Carlo per un trattato il quale
+dovean tenere contro al detto messer Carlo, non comparirono, anzi
+si partirono di Firenze: di che poi come ribelli condennati
+furono da messer Carlo, e cos@i il reggimento della citt@a rimase
+tutto nella parte Nera.  Apare dunque, come Ciacco pronostica, la
+parte salvaggia infra tre soli esser caduta e l'altra sormontata. 
+Nondimeno chi questa istoria vuole pienamente sapere legga la
+^Cronica~ di Giovanni Villani, per ci@o che in essa distesamente
+si pone.
+
+	Seguita poi: |e che l'altra sormonti~, cio@e la parte
+Nera, la quale sormont@o, come mostrato @e di sopra, |Per la forza
+di tal, che test@e piaggia.~  Dicesi appo i Fiorentini colui
+<piaggiare>, il quale mostra di voler quello che egli non vuole,
+o di che egli non si cura che avvenga; la qual cosa vogliono
+alcuni in questa discordia de' Bianchi e de' Neri di Firenze aver
+fatta papa Bonifazio, cio@e d'aver mostrata igual tenereza di
+ciascuna delle parti, e per dovergli porre in pace avervi mandato
+il cardinal d'Acquasparta e poi messer Carlo di Valois: ma ci@o
+non essere suto vero, per ci@o che l'animo tutto gli pendeva alla
+parte Nera.  E questo era per la obbedienza mostrata in queste
+cose da messer Corso, dove messer Vieri era stato salvatico e
+duro; e per questo, s@i come egli volle e occultamente adoper@o,
+furono da messer Carlo tenuti i modi, li quali egli in queste
+cose tenne, come di sopra apare.  E perci@o l'autore dice essere
+stata depressa la parte Bianca ed elevata la Nera, con la forza
+di tale, il quale in quel tempo, cio@e nel MCCC, piaggiava.
+
+	|70-72.  Alte terr@a~, nel reggimento e nello stato,
+|lungo tempo le fronti~, il quale |lungo tempo~ non @e ancora
+venuto meno; |Tenendo l'altra~, parte cacciata, |sotto gravi
+pesi~, s@i come lo stare fuori di casa sua in essilio, |Come che
+di ci@o~, che io pred@ico, |pianghi e [che] n'adonti~, cio@e tu
+Dante; il quale, s@i come altra volta @e stato detto, fu della
+parte Bianca e con quella fu cacciato di Firenze n$e mai poi ci
+ritorn@o, e perci@o ne piagnea, cio@e se ne dolea e adontavane, come
+coloro fanno alli quali pare ricever torto.
+
+	|73.  Giusti son due~: Qui risponde Ciacco alla seconda
+domanda fatta dall'autore dove di sopra disse: <s'alcun v'@e
+giusto>; e dice che, intra tanta moltitudine v'ha due che son
+giusti.  Quali questi due si sieno sarebbe grave lo 'ndovinare;
+nondimeno sono alcuni li quali, donde che egli sel traggano, che
+voglion dire essere stato l'uno l'autor medesimo e l'altro Guido
+Cavalcanti, il quale era d'una medesima setta con lui; |ma non vi
+sono intesi~, cio@e non @e alcun lor consiglio creduto.
+
+	|74-75.  Superbia, invidia ed avarizia sono Le tre
+faville c'hanno i cuori accesi~: Qui risponde Ciacco alla terza
+domanda fatta dall'autore di sopra, dove dice: <dimmi la cagione
+per che l'ha tanta discordia assalita>, e dice che tre vizi sono
+cagione della discordia: cio@e superbia, la quale era grande in
+messer Vieri e ne' consorti suoi, per le riccheze e per lo stato
+il quale avevano; e per questo essendo male acostevoli a'
+cittadini, e dispiacendone molto, in parte si gener@o la
+discordia.  Il secondo vizio, e cagione della discordia, dice
+essere stato invidia, la quale sente l'autore essere stata nella
+parte di messer Corso, il quale a rispetto di messer Vieri era
+povero cavaliere, ed era grande spenditore; per che, veggendo s$e
+povero e messer Vieri ricco, gli portava invidia, come suole
+avvenire, ch$e sempre alle cose, le quali pi@u felici sono stimate,
+@e portata invidia.  E, oltre a ci@o, v'era la preeminenzia dello
+stato, al quale generalmente tutti coloro, che in istato non si
+vedevano, portavano invidia: dalla quale invidia, stimolante
+coloro li quali ella ardeva, furono aguzati gli ingegni e
+sospinti a trovar delle vie e de' modi per li quali la discordia
+s'avanz@o e poi ne segu@i quello che mostrato @e.  Il terzo vizio
+dice essere l'avarizia, la quale consiste in tenere pi@u stretto
+che non si conviene quello che l'uom possiede, e in disiderare
+pi@u che non bisogna altrui d'avere; e cos@i pu@o essere stata, e
+nell'una parte e nell'altra, cagione di discordia: nell'una, cio@e
+nella Bianca, della quale erano caporali i Cerchi, li quali erano
+tutti ricchi, e se per avventura corteseggiato avessero co' lor
+vicini, come non faceano, non sarebbon nate delle riotte che
+nacquero; e cos@i nella parte Nera, se stati fossero contenti a
+quello che loro era di bisogno, non avrebbono portata invidia a'
+pi@u ricchi di loro n$e disiderata la discordia, per potere per
+quella pervenire ad occupare quello che loro non era di
+necessit@a; il che poi, rubando e scacciando, mostrarono nella
+partita de' loro avversari.  E cos@i questi tre vizi sono le tre
+faville che hanno accesi i cuori a discordia e a male adoperare.
+
+	|76.  Qui pose fine~, Ciacco, |al lacrimabil suono~, cio@e
+ragionamento; e chiamalo |lacrimabile~, per ci@o che a molti fu
+dolorosissimo, e cagione di povert@a e di miseria e di pianto, e
+tra gli altri all'autore medesimo, il quale cadde dallo stato,
+nel quale era, in perpetuo essilio.
+
+	Muovono alcuni in questa parte un dubbio e dicono cos@i:
+che, con ci@o sia cosa che singular grazia di Dio sia il prevedere
+le cose future, e i dannati del tutto la divina grazia aver
+perduta, non pare che convenientemente qui l'autore induca
+l'anima di Ciacco dannata a dover predire le cose, le quali
+scrive gli predisse.  Alla soluzione del qual dubbio par che si
+possa cos@i rispondere: esser vero alcuna cosa non potersi fare,
+che buona sia, senza la grazia di Dio, la qual veramente i
+dannati hanno perduta; ma nondimeno concede Domenedio ad alcune
+delle sue creature nella loro creazione certe grazie, le quali
+esso non toglie loro, quantunque queste creature, create da lui
+buone, poi diventino perverse, per ci@o che noi possiam
+manifestamente conoscere che, quantunque gli angeli, li quali per
+la loro superbia furono cacciati di paradiso, quantunque da lui
+della beatitudine privati fossero, non furon per@o privati della
+scienzia, la quale nella loro creazione avea loro conceduta: @e
+vero che questa non fu lor lasciata in alcuno lor bene, anzi in
+pena e in supplicio, per ci@o che, quanto pi@u sanno, tanto pi@u
+conoscono la gloria la quale per loro difetto perduta hanno e per
+conseguente maggiore supplicio sentono.  E cos@i similemente crea
+nostro Signore l'anime nostre perfette e simiglianti a s$e; e,
+quantunque esse per le loro malvage operazioni perdano il poter
+salire a' beni di vita eterna, non perdono perci@o quelle dote che
+nella lor creazione furono lor concedute da Dio, quantunque in
+danno di loro siano lor lasciate da Dio.  E le dote, le quali noi
+riceviamo da Dio, sono molte, per ci@o che esso ne dona la
+ragione, la volont@a, il libero arbitrio e danne la memoria,
+l'eternit@a e lo 'ntelletto, e in queste cose ne fa simili a s$e:
+le quali cose, quantunque nella sua ira moiamo, in parte ne
+rimangono; tra le quali @e quella parte della sua divinit@a, la
+quale conceduta n'ha.  E se questa rimane a' dannati, meritamente
+delle cose future si possono adomandare ed essi ne posson
+rispondere: per che non pare che l'autore inconvenientemente
+abbia del futuro adomandata l'anima dannata.  Ma che le predette
+dote ne sian concedute pare che si pruovi per la divina
+^Scrittura~, nella quale si legge, quasi nel principio del
+^Genes@i~: <^Dixit Deus: faciamus hominem ad imaginem et
+similitudinem nostram~>.  E se egli fece questo, che 'l fece,
+dunque abbiam noi le cose predette.  @E il vero che queste cose
+furon concedute all'anima e non al corpo, per ci@o che il corpo
+nostro non ha similitudine alcuna con Domenedio: per ci@o che
+Domenedio, come altra volta @e detto, non ha n$e mani n$e piedi n$e
+alcuna altra cosa corporea, quantunque la divina ^Scrittura~
+questi membri gli attribuisca, acci@o che i nostri ingegni da
+dimostrata forma possan comprendere i misteri che sotto questa
+forma la ^Scrittura~ intende.  Furono adunque concedute
+all'anima, la quale esso perci@o chiam@o <uomo>, perch$e ella @e
+quella cosa per la quale @e l'uomo, mentre ella sta congiunta col
+corpo.  E di questi cos@i magnifichi doni, come che tutti gli
+esserciti l'anima mentre viviamo, nondimeno alcuni n'essercita
+dopo la morte del corpo, come detto @e.  Ma che la divinit@a ne sia
+conceduta e che ella nelle nostre anime sia in certe cose apare,
+vivendo noi, quantunque, essendo oppressa da questa gravit@a del
+corpo, rade volte e con difficult@a le 'ntervenga il potere s$e
+esser divina mostrare: nondimeno il dimostra talvolta, dormendo
+il corpo sobrio e ben disposto e soluto dalle cure corporali, s@i
+come Tullio ne dimostra ^in libro De divinatione~, in quanto,
+quasi alleviata, ne' sogni ne dimostra le cose future.
+
+	Qual pi@u certa dimostrazione avrebbe alcuna viva voce
+fatta a Simonide poeta, volente d'una parte in un'altra navicare,
+che in sua salute gli fece la divinit@a della sua anima nel sonno
+vedere?  Aveva il d@i davanti Simonide sepellito un corpo, il
+quale, gittato dal mare in su il lito, aveva trovato, la cui
+effige gli parve, dormendo, vedere, e udire da lui: -- Simonide,
+non salire sopra la nave, su la quale tu ti disponi d'andare, per
+ci@o che ella perir@a con quegli che su vi fieno in questo viaggio.
+-- Per la qual cosa Simonide s'astenne; n$e molti d@i passarono che
+con certeza gli fu recitato quella nave esser perita.  Non fu
+similemente, non una volta, ma due dimostrato nel sonno [ad
+Astiage] che 'l figliuolo, il quale di Madianne, sua unica
+figliuola, nascerebbe, il priverebbe dello 'mperio d'Asia? 
+parendogli la prima volta che l'orina della figliuola allagasse
+tutta Asia; e la seconda, che dalla parte genitale della
+figliuola usciva una vite, i palmiti e le frondi della quale
+adombravan tutta Asia.  E di queste dimostrazioni si potrebbon
+narrare infinite, le quali per certo senza divino lume n$e
+potrebbe conoscer l'anima n$e le potrebbe mostrare.  Similmente
+ancora, secondo che dice Tullio nel preallegato libro, mostra
+l'anima molto della sua divinit@a, quando gravissimamente infermi
+e debilitati siamo: per ci@o che, quanto pi@u @e il corpo debole,
+pi@u pare che sia il vigor dell'anima, e massimamente in quanto,
+per l'essere le forze corporali diminuite, non pare che possano
+gravar l'anima, come quando intere sono.  E che l'anima mostri la
+sua divinit@a, vicina alla fine della vita del corpo, s'@e assai
+volte, non dormendo, ma veghiando veduto: e s@i come esso Tullio
+recita s$e da Possidonio, famoso filosafo, avere avuto che uno
+chiamato Modio, morendo, aver nominati sei suoi equali, li quali
+disse dovere appresso di s$e morire, esprimendo qual primo e qual
+secondo e qual terzo, e cos@i degli altri, e ci@o poi essere
+ordinatamente avvenuto; e un altro chiamato Calano d'India,
+essendo salito, nella presenza d'Alessandro, re di Macedonia, per
+morir volontariamente sopra il rogo, il quale prima avea fatto, e
+domandandolo Alessandro se egli volesse che esso alcuna cosa
+facesse, gli rispuose: -- Io ti vedr@o di qui a pochi d@i. -- E
+quindi, fatto accendere il rogo, si mor@i.  Non istette guari che
+Alessandro mor@i in Babillonia.  E, se io ho il vero inteso, per
+ci@o che in que' tempi io non era, io odo che in questa citt@a
+avvenne a molti nell'anno pestifero del MCCCXXXX che, essendo
+soprapresi gli uomini dalla pestilenzia e vicini alla morte, ne
+furon pi@u e pi@u li quali de' loro amici, chi uno e chi due e chi
+pi@u ne chiam@o, dicendo: -- Vienne tale e tale; -- de' quali
+chiamati e nominati, assai, secondo l'ordine tenuto dal
+chiamatore, s'eran morti e andatine appresso al chiamatore.
+
+	Per la qual cosa assai apare nell'anime nostre essere
+alcuna divinit@a e quella essere molto noiata dagli impedimenti
+corporali, e nondimeno, come detto @e, pur talvolta in alcuno atto
+mostrarla; e per@o, se questo avviene essendo esse ne' corpi
+legate, che dobbiam noi estimare che esse debbano intorno a
+questa loro divinit@a dover potere adoperare, quando del tutto da'
+corpi libere sono?  Non @e dubbio che molto pi@u la debban poter
+dimostrare.  E perci@o non pare inconveniente l'autore aver
+domandata l'anima dannata, come altra volta @e stato detto, delle
+cose future, n$e essa averne risposto, come coloro, che il dubbio
+moveano, volevan mostrare.  @E il vero che il credere che alcuna
+anima dannata usasse questa divinit@a in alcuna sua consolazione
+credo sarebbe contro alla verit@a; ma dobbiamo credere che, se per
+virt@u di questa divinit@a essa prevede alcuna felicit@a d'alcuno,
+questo essere ad acrescimento della sua miseria, e cos@i il
+prevedere gli infortuni, li quali afflizione e noia gli debbono
+agiugnere.
+
+	|77-80.  Ed io a lui~, cio@e a Ciacco, dissi: |ancor~,
+oltre a ci@o che detto m'hai, |vo' che m'insegni~, cio@e dimostri,
+|E che di pi@u parlar mi facci dono~, dicendomi: |Farinata~, degli
+Uberti, |e Teghiaio~, Aldobrandi, |che fur s@i degni~, d'onore,
+quanto @e al giudicio de' volgari, li quali sempre secondo
+l'aparenza delle cose esteriori giudicano, senza guardare quello
+onde si muovono, o che importino; |Iacopo Rusticucci, Arrigo~,
+Giandonati, |il Mosca~, de' Lamberti.  Furono questi cinque
+onorevoli e famosi cavalieri e cittadini di Firenze; e, perch$e li
+loro nomi paion degni di fama, di loro in singularit@a domanda
+l'autore, domandando poi in generalit@a degli altri.
+
+	|81-84.  E gli altri~, nostri cittadini, |ch'a ben far~,
+corteseggiando e onorando altrui, non a ben fare secondo Idio,
+|poser gl'ingegni~, cio@e ogni loro avvedimento e sollicitudine,
+|Dimmi~, se tu il sai, |ove sono~, se son qui con teco o se sono
+in altri parte, |e fa' ch'io gli conosca~; quasi voglia dire: <Io
+non gli riconoscerei veggendogli, se non come io non riconosceva
+te, tanto il brutto tormento, nel quale se', gli dee aver
+trasformati>. |Ch$e gran disio mi strigne di sapere Se 'l ciel gli
+adolcia~, cio@e con dolceza consola, |o lo 'nferno gli attosca~,
+cio@e riempie d'amaritudine e di tormento.
+
+	|85-87.  E quegli~, ^supple~: rispose: |ei son~, coloro
+de' quali tu mi domandi, |tra l'anime pi@u nere.~  Cre@o Domenedio
+il Lucifero splendido, chiaro e bello pi@u che altra creatura, ma
+egli, per superbia peccando, divenne oscuro e tenebroso: e cos@i,
+producendo noi puri e perfetti, infino a tanto che noi non
+pecchiamo, nella chiarit@a della purit@a dimoriamo; ma, tantosto
+che noi pecchiamo, incomincia, partitasi la purit@a, quella
+chiarit@a, che avavamo, a divenire oscura e, quanto pi@u pecchiamo,
+in maggiore oscurit@a divegnamo.  E quinci dice Ciacco coloro, de'
+quali l'autore domanda, essere |tra l'anime pi@u nere~, cio@e pi@u
+oscure; e soggiugne la cagione, dicendo: |Diverse colpe gi@u gli
+grava al fondo.~  E dice |diverse colpe~, per ci@o che per lo
+disonesto peccato della sogdomia Teghiaio Aldobrandi e Iacopo
+Rusticucci son puniti dentro alla citt@a di Dite, nel canto XVI di
+questo libro, Farinata per eresia nel VIIII {X} canto, e 'l
+Mosca, perch$e fu scismatico, nel canto [XXVIII]: li quali
+peccati, perch$e sono pi@u gravi assai, come si dimosterr@a, che non
+@e la gola, gli agrava e fa andare pi@u giuso verso il fondo dello
+'nferno.  |Se tanto scendi~, quanto essi son giuso, |gli potrai
+vedere.~
+
+	|88-90.  Ma quando tu sarai nel dolce mondo~: Possiam da
+queste parole comprendere quanta sia l'amaritudine delle pene
+infernali, quando questa anima chiama questo mondo |dolce~, nel
+quale non @e cosa alcuna altro che piena d'angoscia, di tristizia
+e di miseria.  |Priego ch'alla mente altrui mi rechi~, cio@e mi
+ritorni.  E qui ancora per queste parole possiam comprendere
+quanta sia la dolceza della fama, la quale, quantunque alcun bene
+non potesse adoperare in costui, nondimeno non l'ha potuta, per
+tormento che egli abbia, dimenticare, n$e eziandio lasciare, che
+egli non adomandasse che l'autore di lui, tornato di qua,
+ragionasse e rivocasselo nella memoria alle genti.  |Pi@u non ti
+dico~, cio@e d'altro non ti priego, |e pi@u non ti rispondo~, alle
+cose delle quali domandato m'hai.
+
+	|91-93.  Li diritti occhi~, co' quali infino a quel punto
+riguardato avea l'autore, |torse allora in biechi~, come dette
+ebbe queste parole; e dice |in biechi~, quasi: in guerci;
+|Guardommi un poco~: atto @e di coloro li quali, constretti da
+alcuna necessit@a, pi@u non aspettan di vedere coloro che davanti
+gli sono; |e poi chin@o la testa.  Cadde con essa, a par degli
+altri ciechi~, cio@e de' dannati a quella medesima pena che era
+dannato esso; e cognominagli |ciechi~, per ci@o che perduto hanno
+il vedere intellettuale, col quale i beati veggono la presenza di
+Dio.
+
+	|94-95.  E 'l duca disse a me~, poi che Ciacco fu
+ricaduto: |pi@u non si desta~, cio@e non si rileva pi@u; e cos@i pare
+che, tra l'altre pene che i gulosi hanno, abbiano ancora che qual
+si leva o parla, per alcuna cagione, come ricaduto @e, pi@u di qui
+al d@i del giudicio non si possa levare n$e parlare; |Di qua dal
+suon dell'angelica tromba~, cio@e di qua dal d@i del giudicio,
+quando uno agnolo mandato da Dio verr@a e con altissima voce,
+quasi sia una tromba, e' dir@a: <^Surgite, mortui, et venite ad
+iudicium~>.
+
+	|96.  Quando vedr@a~, ed egli e gli altri dannati, |la
+nimica podesta~, cio@e Cristo, in cui il Padre ha commessa ogni
+podest@a: e non vedranno i dannati Cristo nella maiest@a divina,
+per ci@o che sentirebbono la gloria de' beati, ma il vedranno
+nella sua umanit@a, e parr@a loro lui essere turbato verso di loro,
+come contra nimici.  Ma ci@o non fia vero, per ci@o che il giusto
+giudice, come sar@a ed @e Cristo, non si commuove contro a colui il
+quale ha offeso, per ci@o che, se egli facesse questo, parrebbe
+che egli animosamente venisse alla sentenzia: ma questo @e il
+costume di coloro che hanno offeso, che, come sentono dire cosa
+che gli trafigga, cos@i si turbano; e come sono turbati essi, cos@i
+par loro che sia turbato colui che meritamente gli riprende.
+
+	|97-98.~  E seguisce al suon dell'angelica tromba che
+|Ciascun riveder@a la trista tomba.~  Dice |rivedr@a~ risurgendo, e
+chiamala |trista tomba~, cio@e sventurata sepoltura, in quanto
+ella @e stata guardatrice di ceneri, le quali deono risurgere a
+perpetuo tormento.  |Ripiglier@a sua carne e sua figura~, e questo
+non per lor forza, ma per divina potenzia: sar@a loro in questo
+cortese non per lor bene o consolazione, ma acci@o che il corpo,
+il quale fu istrumento dell'anima a commettere le colpe per le
+quali @e dannata, sostenga insieme con quella tormento.
+
+	|99.~  E, ripreso il corpo, ciascuno |Udir@a quel ch'in
+eterno rimbomba~, cio@e risuona, e pone il presente per lo futuro;
+e questo sar@a la sentenzia di Dio, nella quale Cristo dir@a a'
+dannati: <^Ite, maledicti, in ignem eternum~> ^etc.~, le quali
+parole in eterno non caderanno della mente loro.
+
+	|100-102.  S@i trapassammo~: Qui comincia la quarta parte
+del presente canto, nella quale l'autore muove un dubbio a
+Virgilio e scrive la soluzion di quello.  Dice adunque: |S@i~,
+cio@e cos@i ragionando, |trapassammo~, lasciato Ciacco, |per soza
+mistura Dell'ombre e della pioggia~, la quale, essendo, come di
+sopra @e detto, da se medesima soza, pi@u soza ancora diveniva per
+la terra, la qual putiva, ricevendo la pioggia; |a passi lenti~,
+forse per lo ragionare, o per lo luogo che non pativa che molto
+prestamente vi si potesse andare per uom vivo; |Toccando un poco
+la vita futura~, cio@e ragionando della futura vita: e questo
+mostra fosse intorno alla resurrezione de' corpi, s@i per le
+parole passate e s@i ancora per quello che apare nel dubbio mosso
+dall'autore.
+
+	|103-105.  Per ch'io dissi: maestro~, continuandomi a
+quello che della futura vita ragionavamo, |esti tormenti~, li
+quali io veggio in queste anime dannate, |Cresceranno ei dopo la
+gran sentenza~, data da Dio nell'ultimo e universal giudicio, |O
+fien minori~, che al presente sieno, |o saran s@i cocenti~, come
+sono al presente?
+
+	|106-108.  Ed egli a me~, ^supple~: rispuose: |ritorna a
+tua scienza~, alla filosofia, |Che vuol, quanto la cosa @e pi@u
+perfetta, Pi@u senta il bene e cos@i la doglienza.~  E questo ci @e
+tutto il d@i manifesto, per ci@o che noi veggiamo in un giovane
+sano e ben disposto parergli le buone cose piacevoli e saporite,
+dove ad uno inferno, nel quale @e molta meno perfezion che nel
+sano, parranno amare e spiacevoli; vedrem similemente un giovane
+sano con gravissima doglia sentire ogni piccola puntura, dove un
+gravemente malato appena sente le tagliature e gli incendi molte
+volte fattigli nella persona: e cos@i adunque, s@i come seguita,
+dobbiam credere dovere avvenire a' dannati, quando i corpi
+avranno riavuti, in quanto avr@a il tormento in che farsi pi@u
+sentire.
+
+	|109-111.  Tutto~, cio@e avvegna, |che questa gente
+maladetta~, cio@e i dannati, |In vera perfezion~: <perfezione> @e
+un nome il quale sempre suona in bene e in aumento della cosa, la
+quale di non perfetta divien perfetta; e, per ci@o che ne' dannati
+non pu@o perfezione essere alcuna, e per questo per riavere i
+corpi non saranno pi@u perfetti, ma pi@u tosto diminuiti, dice
+l'autore: |in vera perfezion giammai non vada.~  Andr@a adunque
+non in perfezione, ma in alcuna similitudine di perfezione, in
+quanto riavranno i corpi cos@i come gli riavranno i beati; ma i
+beati gli riavranno in aumento di gloria, dove i dannati gli
+riavranno in aumento di tormento e di pena, la quale @e
+diminuzione di perfezione.  |Di l@a~, cio@e dalla sentenzia di Dio,
+|pi@u che di qua~, dalla detta sentenzia, |essere aspetta~, in
+maggior pena; cio@e aspetta, dopo i corpi riavuti, molta maggior
+pena che essi non hanno o avranno infino al d@i che i corpi
+riprenderanno.
+
+	|112-114.  Noi agirammo~: Qui comincia la quinta e ultima
+parte del presente canto, nella quale l'autor mostra dove
+pervenissero; e dice: |Noi agirammo a tondo quella strada~; e
+dice |a tondo~, per ci@o che ritondo @e quello luogo, come molte
+volte @e stato detto; |Parlando pi@u assai ch'io non ridico~, pure
+intorno alla vita futura; |Venimmo al punto~, cio@e al luogo,
+|dove si digrada~, per discendere nel quarto cerchio dello
+'nferno.
+
+	|115.  Quivi trovammo Pluto, il gran nimico~, cio@e il
+gran dimonio.  Il qual Pluto chi egli sia raconteremo nel canto
+seguente.  Nondimeno il chiama qui l'autore avvedutamente |il
+gran nimico~, in quanto, come appresso si dir@a, esso significa le
+riccheze terrene, le quali in tanto sono a' mortali grandissime
+nimiche, in quanto impediscono il possessor di quelle a dover
+potere intrare in paradiso, dicendo Cristo nell'^Evangelio~
+essere pi@u malagevol cosa ad un ricco entrare in paradiso che ad
+uno camelo entrare per la cruna dell'ago.  Le quali parole, pi@u
+chiaramente che il testo non suona esponendo, secondo che ad
+alcuni dottori piace, si deono intendere cos@i: cio@e essere in
+Ierusal@em stata una porta chiamata <Cruna d'ago>, s@i piccola che,
+senza scaricare della sua soma, il camelo entrar non vi potea,
+ma, scaricato, v'entrava; e cosi, moralmente esponendo, @e di
+necessit@a al ricco, cio@e all'abondante di qualunque sustanza, ma
+in singularit@a delle riccheze male acquistate, di porre la soma
+di quelle giuso, se entrare vogliono in paradiso, la entrata del
+quale @e strettissima.  Se adunque esse impediscono il nostro
+entrare in tanta beatitudine, meritamente dir si possono
+grandissime nostre nimiche etc.
+
+&&attributes allegorica
+
+	|Table of Contents of the Esposizione Allegorica.~
+{|i.  Sobriet@a nell'et@a dell'oro~}
+{|ii.  Il peccato della gola: origini, storia e conseguenze~}
+{|iii.  Punizione dei golosi (vv. 7-12, 18-21, 32-33, 94-96)~}
+{|iv.  Cerbero (vv. 13-17, 22-31)~}
+
+	|Proemio.  Al tornar della mente che si chiuse~ etc.  Nel principio
+di questo canto l'autore, s@i come di sopra ha fatto negli altri,
+cos@i si continua alle cose seguenti.  Mostr@ogli nel precedente
+canto la ragione come i lussuriosi, li quali nell'ira di Dio
+muoiono, sieno dalla divina giustizia puniti; e per ci@o che la
+colpa della gola @e pi@u grave che il peccato della lussuria, in
+quanto la gola @e cagione della lussuria, e non ^e converso~, gli
+dimostra in questo terzo cerchio la ragione come il giudicio di
+Dio con eterno supplicio punisca i gulosi.  A detestazion de'
+quali, e acci@o che pi@u agevolmente si comprenda quello che sotto
+la corteccia litterale @e nascoso, alquanto pi@u di lontano
+cominceremo.
+
+{|i.  Sobriet@a nell'et@a dell'oro~}
+
+	Cre@o il nostro Signore il mondo e ogni creatura che in
+quello @e; e, separate l'acque e quelle, oltre all'universal
+fonte, per molti fiumi su per la terra divise, e prodotti gli
+alberi fruttiferi, l'erbe e gli animali, e di quegli riempiute
+l'acque, l'aere e le selve, tanto fu cortese a' nostri primi
+parenti, che, non ostante che contro al suo comandamento avessero
+adoperato ed esso per quello gli avesse di paradiso cacciati,
+tutte le sopradette cose da lui prodotte sottomise alli lor
+piedi, s@i come dice il Salmista: <^Omnia subiecisti pedibus eius,
+oves et boves et universa pecora campi et volucres celi et pisces
+maris, qui perambulant semitas maris~>; e, come queste, cos@i
+molto maggiormente i frutti prodotti dalla terra, di sua
+spontanea volont@a germinante.
+
+	Per la qual cosa con assai leggier fatica, s@i come per
+molti si crede, per molti secoli si nutric@o e visse inocua
+l'umana generazione dopo 'l diluvio universale; i cibi della
+quale furono le ghiandi, il sapor delle quali era a' rozi popoli
+non men soave al gusto che oggi sia a' gulosi di qualunque pi@u
+morbido pane, le mele salvatiche, le castagne, i fichi, le noci e
+mille spezie di frutti, de' quali cos@i come spontanei producitori
+erano gli alberi, cos@i similemente liberalissimi donatori; erano,
+oltre a ci@o, le radici dell'erbe [e] l'erbe medesime piene
+d'infiniti, salutevoli non men che dilettevoli, sapori.  E le
+domestiche greggi delle pecore, delle capre, de' buoi prestavan
+loro abondevolmente latte, carne, vestimenti e calzamenti, senza
+alcun servigio di beccaro, di sarto o di calzolaio; oltre a ci@o,
+l'api, sollicito animale, senza alcuna ingiuria riceverne,
+amministravano a quegli i fiari pieni di m@ele.  E la loro
+naturale, pi@u tosto che provocata, sete saziavano le chiare fonti
+e' ruscelletti argentei e gli abondantissimi fiumi; e a queste
+prime genti le recenti ombre de' pini, delle querce, degli olmi e
+degli altri @arbori temperavano i calori estivi, e i grandissimi
+fuochi toglievan via la noia de' ghiacci, delle brine, delle nevi
+e de' freddi tempi; le spelunche de' monti, dalle mani della
+natura fabricate, da' venti impetuosi e dalle piove gli
+difendeano e sola la serenit@a del cielo o i fioriti e
+verdeggianti prati dilettavan gli occhi loro.  Niun pensiero di
+guerra, di navicazione, di mercatantia o d'arte gli stimolava;
+ciascuno era contento in quel luogo finir la vita, dove
+cominciata l'avea.  Niuno ornamento appetivano, niuna quistione
+aveano, n$e era tra loro bomere, n$e falce, n$e coltello, n$e lancia;
+i loro essercizi erano intorno a' giuochi pastorali o in
+conservar le greggi, delle quali alcun commodo si vedeano.  Era
+in que' tempi la pudicizia delle femine salva e onorata, la vita
+in ciascuna sua parte sobria e temperata e, senza alcuno aiuto di
+medico o di medicina, sana, l'et@a de' giovani robusta e solida, e
+la vecchieza de' lor maggiori venerabile e riposata.  Non si
+sapeva che invidia si fosse, non avarizia, non malizia o falsit@a
+alcuna, ma santa e imaculata semplicit@a ne' petti di tutti
+abitava: per che meritamente, secondo che i poeti questa et@a
+discrivono, <aurea> si potea chiamare.
+
+{|ii.  Il peccato della gola: origini, storia e conseguenze~}
+
+	Ma, poi che, per subgestion diabolica, s@i come io credo,
+cominci@o tacitamente ne' cuori d'alcuni ad entrare l'ambizione e
+quinci il disiderio di trascendere a pi@u esquisita vita, venne
+Cerere, la quale appo Eleusia e in Cicilia prima mostr@o il
+lavorio della terra, il ricogliere il grano e fare il pane; Baco
+rec@o d'India il mescolare il vino col m@ele e fare i beveraggi pi@u
+dilicati che l'usato; e con appetito, non sobrio come il passato,
+furono cominciate a gustare le cortecce degli alberi indiani, le
+radici e' sughi di certe piante, e quelle a mescolare insieme, e
+a confondere nel m@ele i sapori naturali e a trovare gli
+accidentali con industria: furono incontanente avute in dispregio
+le ghiandi.  Similmente, avendo alcuni, in lor danno divenuti
+ingegnosi, trovato modo di tirare in terra con reti i gran pesci
+del mare e di ritenere ne' boschi le fiere e ancora d'ingannare
+gli uccelli del cielo, furono da parte lasciati i lacciuoli e gli
+ami, e la terra, riposatasi lungamente, cominciata a fendere, e
+'l mare a solcar da' navili e portare d'un luogo in un altro e
+recare i viziosi princ@ipi.
+
+	Si mutaron con gli essercizi gli animi: e gi@a in gran
+parte, s@i come pi@u atta a ci@o, Asia, s@i per gli artifici di
+Sardanapalo, re degli Assiri, e s@i per gli altrui, da questa
+dannosa colpa della gola [presa], come lo 'ncendio suol
+comprender le parti circunstanti, cos@i l'Egitto, cos@i la Grecia
+tutta comprese, in tanto che gi@a non solamente ne' maggiori, ma
+eziandio nel vulgo erano venuti i dilicati cibi e 'l vino, e in
+ogni cosa lasciata l'antica simplicit@a.  Ultimamente, sparto gi@a
+per tutto questo veleno, agli Italiani similmente pervenne; e
+credesi che di quello i primi ricevitori fossero i Capovani, per
+ci@o che n$e Quinti n$e Curzi n$e Fabrizi n$e Papiri n$e gli altri
+questa ignominia sentivano.  E gi@a era perfetta la terza guerra
+macedonica, e vinto Antioco Magno, re d'Asia e di Siria, da
+Scipione Asiatico, quando primieramente il cuocere divenne, di
+mestiere, arte.  @E intra 'l mestiere e l'arte questa differenza:
+che il mestiere @e uno essercizio, nel quale niuna opera manuale
+che dallo 'ngegno proceda s'adopera, s@i come @e il cambiatore, il
+quale nel suo essercizio non fa altro che dare danari per danari:
+o come era in Roma il cuocere, a' tempi che io dico, ne' quali si
+metteva la carne nella caldaia e quel servo della casa, il quale
+era meno utile agli altri servigi, faceva tanto fuoco sotto la
+caldaia che la carne diveniva tenera a poterla rompere e tritar
+co' denti; arte @e quella intorno alla quale non solamente l'opera
+manuale, ma ancora lo 'ngegno e la 'ndustria dell'artefice
+s'adopera, s@i come @e il comporre una statua, dove, a doverla
+proporzionare debitamente, si fatica molto lo 'ngegno; e s@i come
+@e il cuocere oggi, al quale non basta far bollir la caldaia, ma
+vi si richiede l'artificio del cuoco in fare che quel che si
+cuoce sia saporito, sia odorifero, sia bello all'occhio, non
+abbia alcun sapore noioso al gusto, come sarebbe o troppo salato
+o troppo acetoso o troppo forte di spezie o del contrario a
+queste, o sapesse di fummo o di fritto o di sapor simile, del
+quale il gusto @e schifo.
+
+	Era dunque, al tempo di sopra detto, mestiere ancora il
+cuocere in Roma, in che apare la modestia e la sobriet@a loro; ma
+poi che le riccheze e' costumi asiatici v'entrarono, con
+grandissimo danno del romano imperio, di mestiere arte divenne,
+essendone, secondo che alcuni credono, inventore uno il quale fu
+appellato Apicio: e quindi si sparse per tutto, acci@o che i
+membri dal capo non fosser diversi; e non che le ghiandi, e'
+salvatichi pomi e l'erbe o le fontane e' rivi, fossero in
+dispregio avute, ma e' furono ancora poco prezati i familiari
+irritamenti della gola: e per tutto si mandava per gli uccelli,
+per le cacciagioni, per li pesci strani, e quanto pi@u venien di
+lontano, tanto di quegli pareva pi@u prezato il sapore.  N$e fu
+assai a' gulosi miseri l'avere i lacciuoli, le reti e gli ami
+tesi per tutto il mondo alle cose le quali dovevano poter
+dilettare la gola ed empiere il ventre misero, ma diedono e danno
+opera che nelle cose, le quali s$e e' loro deono corrompere,
+fossero gli odori arabici, acci@o che, confortato il naso, o per
+lo naso il cerebro, lui rendessero pi@u forte alle 'ngiurie de'
+vapori surgenti dallo stomaco e l'appetito pi@u fervente al
+disiderio del consumare.  N$e furono ancora contenti a' cibi soli,
+ma dove l'acqua solea salutiferamente spegner la sete, trovati
+infiniti modi d'accenderla, a dileticarla, non a consumarla,
+varie e molte spezie di vini hanno trovate; e, non bastando i
+sapori vari che la variet@a de' terreni e delle regioni danno
+loro, ancora con misture varie gli trasformano in varie spezie di
+sapore e di colore.
+
+	E, acci@o che pi@u lungo spazio prender possano ad empiere
+il tristo sacco, hanno introdutto che ne' triclini, nelle sale,
+alle mense sieno intromessi i cantatori, i sonatori, i
+trastullatori e' buffoni, e, oltre a ci@o, mille maniere di
+confabulazioni ne' lor conviti, acci@o che la sete non cessi.  Se
+i familiari ragionamenti venisser meno, si ragiona, come Idio
+vuole, in che guisa il cielo si gira, delle macchie del corpo
+della luna, della variet@a degli elementi; e da questi subitamente
+si trasv@a alle spezie de' beveraggi che usano gl'Indiani, alle
+qualit@a de' vini che nascono nel mar Maggiore, al sapore degli
+spagnuoli, al colore de' galli, alla soavit@a de' cretici: n$e
+passa intera alcuna novelletta di queste, che rinfrescare i vini
+e' vasi non si comandi.
+
+	Ed @e tanto questa maladizione di secolo in secolo, d'et@a
+in et@a perseverata e discesa, che infino a' nostri tempi, con
+molte maggior forze che ne' passati, @e pervenuta; e, secondo il
+mio giudicio, dove che abbia ella molto potuto, o molto possa,
+alcuno luogo non credo che sia dove ella con pi@u fervore
+esserciti, stimoli e vinca gli appetiti, che ella fa appo i
+Toscani: e forse non men che altrove appo i nostri cittadini nel
+tempo presente.  Con dolore il dico: e, se l'autore non avesse
+solamente Ciacco, nostro cittadino, essere dannato per questo
+vituperevol vizio nominato, forse senza alcuna cosa dire del
+nostro essecrabile costume mi passerei.  Questo adunque mi trae a
+dimostrare la nostra dannosa colpa, acci@o che coloro, li quali
+credono che dentro a' luoghi riposti delle lor case non passino
+gli occhi della divina vendetta, con meco insieme e con gli altri
+s'avveggano e arossino della disonest@a la quale usano.
+
+	Intorno a questo peccato, non quanto si converrebbe, ma
+pure alcuna cosa ne dir@o.  @E adunque in tanto multiplicato e
+cresciuto appo noi, per quel che a me ne paia, l'eccesso della
+gola, che quasi alcuno atto non ci si fa, n$e nelle cose publiche
+n$e nelle private, che a mangiare o a bere non riesca: in questo i
+denari publici sono dagli uficiali publici trangugiati,
+l'estorsioni dell'arti e ne' sindacati, il mobile de' debitori
+dovuto alle vedove e a' pupilli, le limosine lasciate a' poveri e
+alle fraternite e a qualunque altra pietosa cosa, l'essecuzioni
+testamentarie, le quistioni arbitrarie, non solamente i laici, ma
+ancora li religiosi divorano.  E questo miserabile atto non ci si
+fa come tra cittadino e cittadino far si solea, anzi @e tanto
+d'ogni convenevoleza trapassato il segno che gli aparati reali,
+le mense pontificali, gli splendori imperiali sono da noi stati
+lasciati a dietro; n$e ad alcuna quantunque grande spesa,
+quantunque disutile, quantunque superba sia, si riguarda: ogni
+modo, ogni misura, ogni convenevoleza @e pretermessa.
+
+	Vegnono oggi ne' nostri conviti le confezioni
+oltremarine, le cacciagioni transalpine, i pesci marini, non
+d'una ma di molte maniere; e son di quegli che, senza vergogna,
+d'oro velano i colori delle carni, con vigilante cura e con
+industrioso artificio cotte.  Lascio stare gli intramessi, il
+numero delle vivande, i savori, di sapore e di color
+diversissimi, e le importabili some de' taglieri carichi di
+vivande tra poche persone messi, le quali son tante e tali, che
+non dico i servidori che le portano, ma le mense, sopra le quali
+poste sono, sotto di fatica vi sudano; n$e @e penna che stanca non
+fosse, volendo i trebbiani, i grechi, le ribole, le malvag@ie, le
+vernacce e mille altre maniere di vini preziosi discrivere.  E or
+volesse Idio che solo a' prencipi della citt@a questo
+inconveniente avvenisse: ma tanto @e in tutti la caligine della
+ignoranza sparta, che coloro ancora, li quali e la nazione e lo
+stato ha fatti minori, queste medesime magnificenzie, anzi pazie,
+trovandosi in luogo da ci@o, appetiscono e vogliono come i
+maggiori.
+
+	In queste cos@i oneste e sobrie comessazioni, o conviti
+che vogliam dire, come i ventri s'empiano, come tumultuino gli
+stomachi, come fummino i cerebri, come i cuori infiammino, assai
+leggier cosa @e da comprendere a chi vi vuole riguardare.  In
+queste insuperbiscono i poveri, i ricchi divengono intolerabili,
+i savi bestiali; per le quali cose vi si tumultua, millantavisi,
+dicevisi male d'ogni uomo e di Dio; e talvolta, non potendo lo
+stomaco sostenere il soperchio, non altramente che faccia il
+cane, sozamente si v@ota quello che ingordamente s'@e insaccato.  E
+in queste medesime cos@i laudevoli cene s'ordina e solida lo stato
+della republica, diffinisconsi le quistioni, compongonsi
+l'oportunit@a cittadine e i fatti delle singulari persone; ma il
+come nel giudicio de' savi rimanga.  In queste si condanna e
+assolve cui il vino conforta o cui l'ampieza delle vivande aiuta
+o disaiuta: e coloro, a' quali i prieghi unti e spumanti di vino
+sono intercessori, procuratori o avvocati, le pi@u delle volte
+ottengono nelle lor bisogne.  Che fine questo costume si debba
+avere, Idio il sa; credo io che egli da esso molto offeso sia.
+
+	Ma, che che esso alle misere anime s'aparecchi nell'altra
+vita, @e assai manifesto lui a' corpi essere assai nocivo nella
+presente: per ci@o che, se noi vorrem riguardare, noi vedremo
+coloro che l'usano essere per lo troppo cibo e per lo soperchio
+bere perduti del corpo, e inanzi tempo divenir vecchi; per ci@o
+che il molto cibo vince le forze dello stomaco, in tanto che, non
+potendo cuocere ci@o che dentro cacciato v'@e per conforto del non
+ordinato appetito e dal diletto del gusto, convien che rimanga
+crudo e questa crudeza manda fuori rutti fiatosi, tiene afflitti
+i miseri che la intrinseca passion sentono, raffredda e contrae i
+nervi, corrompe lo stomaco, genera omori putridi; li quali, per
+ogni parte del corpo col sangue corrotto trasportati, debilitan
+le giunture, creano le podagre, fanno l'uom paralitico, fanno gli
+occhi rossi, marcidi e lagrimosi, il viso malsano e di cattivo
+colore, le mani tremanti, la lingua balbuziente, i passi
+disordinati, il fiato odibile e fetido; senza che, essi e
+meritamente e senza modo tormentano il fianco di questi miseri
+che nel divorar si dilettano.  Per le quali passioni i dolenti
+spesse volte gridano, bestemmiano, urlano e abbaiano come cani.
+
+	Cos@i adunque la roza sobriet@a, la rustica simplicit@a, la
+santa onest@a degli antichi, le ghiandi, le fontane, gli essercizi
+e la libera vita @e permutata in cos@i dissoluta ingluvie, ebriet@a
+e tumultuosa miseria, come dimostrato @e.  Per che possiam
+comprendere l'autore sentitamente aver detto: |la dannosa colpa
+della gola~; la quale ancora pi@u dannosa cognosceremo, se
+guarderemo e a' publici danni e a 'privati, de' quali ella @e per
+lo passato stata cagione.
+
+	I primi nostri padri, s@i come noi leggiamo nel principio
+del ^Genes@i~, gustarono del legno proibito loro da Dio e per
+questo da lui medesimo furon cacciati del paradiso, e noi con
+loro insieme: e, oltre a ci@o, per questo a s$e e a noi procuraron
+la temporal morte e l'eterna, se Cristo stato non fosse; Esa@u per
+la ghiottornia delle lenti, le quali, tornando da cacciare, vide
+a Iac@ob suo fratello, perd$e la sua primogenitura; Ionat@as,
+figliuolo di Sa@ul re per l'avere con la sommit@a d'una verga, la
+quale aveva in mano, gustato d'un fiaro di m@ele, merit@o che in
+lui fosse la sentenzia della morte dettata; certi sacerdoti, per
+avere gustati i sacrifici della mensa di Bel, furono il d@i
+seguente tutti uccisi; e quel ricco, del quale noi leggiamo nello
+^Evangelio~, il quale continuo splendidamente mangiava, fu
+sepellito in inferno; come i Troiani si diedono in sul mangiare e
+in sul bere e in far festa, cos@i furon da' Greci presi: e quel
+che l'arme e l'assedio sostenuto diece anni non avean potuto
+fare, feciono i cibi e 'l vino d'una cena; i figliuoli di I@ob,
+mangiando e bevendo con le loro sorelle, furon dalla ruina delle
+lor medesime case oppressi e morti; la robusta gente d'Anibale,
+la quale n$e il lungo cammino, n$e i freddi dell'Alpi, n$e l'armi
+de' Romani non avean mai potuto vincere, da' cibi e dal vino de'
+Capovani furono effeminati, e poi molte volte vinti e uccisi;
+No@e, avendo gustato il vino e inebriatosi, fu nel suo tabernaculo
+da Cam, suo figliuolo, veduto disonestamente dormire e
+ischernito; Lot, per avere men che debitamente bevuto, ebbro fu
+dalle figliuole recato a giacer con loro; Sisera, bevuto il latte
+di mano di Ia@el e adormentatosi, fu da lei, con uno aguto
+fittogli per le tempie, ucciso; Leonida spartano ebbe tutta una
+notte e parte del seguente d@i spazio di uccidere e di tagliare,
+insieme co' suoi compagni, l'essercito di Serse, sepellito nel
+vino e nel sonno; Oloferne, avendo molto bevuto, diede ampissimo
+spazio d'uccidersi a Iud@it; e le figliuole di Prito, re degli
+Argivi, per lo soperchio bere vennono in tanta bestialit@a che
+esse estimavano d'esser vacche.  Ma perch$e mi fatico io tanto in
+discrivere i mali per la gola stati, con ci@o sia cosa che io
+conosca quegli essere infiniti?  E perci@o, riducendosi verso la
+finale intenzione, come assai comprender si puote per le cose
+predette, tre maniere son di gulosi.
+
+	Delle quali l'una pecca nel disordinato diletto di
+mangiare i dilicati cibi senza saziarsi; e questi sono simili
+alle bestie, le quali senza intermessione, sol che essi truovino
+che, il d@i e la notte rodono: e di questi cotali, quasi come di
+disutili animali, si dice che essi vivono per manicare, non
+manucan per vivere; e puossi dire questa spezie di gulosit@a madre
+di oziosit@a e di pigrizia, s@i come quella che ad altro che al
+ventre non serve.
+
+	La seconda pecca nel disordinato diletto del bere,
+intorno al quale non solamente con ogni sollicitudine cercano i
+dilicati e saporosi vini, ma quegli, ogni misura passando,
+ingurgitano, non avendo riguardo a quello che contro a questo nel
+libro della ^Sapienza~ ammaestrati siamo, nel quale si legge:
+<^Ne intuearis vinum, cum flavescit in vitro color eius:
+ingreditur blande, et in novissimo mordebit, ut coluber~>.  Per
+la qual cosa di questa cos@i fatta spezie di gulosi,
+maravigliandosi, I@ob dice: <^Numquid potest quis gustare quod
+gustatum affert mortem?~>.  N$e @e dubbio alcuno la ebriet@a essere
+stata a molti cagione di vituperevole morte, come davanti @e
+dimostrato.  @E questa gulosit@a madre della lussuria, come assai
+chiaramente testifica Ieremia, dicendo: <^Venter mero extuans
+facile despumat in libidinem~>; e Salam@on dice: <^Luxuriosa res
+est vinum, et tumultuosa ebrietas; quicumque in his delectabitur
+non erit sapiens~>; e san Paolo, volendoci far cauti contro alla
+forza del vino, similmente ammaestrandoci, dice: <^Nolite
+inebriari vino, in quo est luxuria~>.  @E ancora questa spezie di
+gulosit@a pericolosissima, in quanto ella, poi che ha il bevitore
+privato d'ogni razional sentimento, apre e manifesta e manda
+fuori del petto suo ogni secreto, ogni cosa riposta e arcana: di
+che grandissimi e inumerabili mali gi@a son seguiti e seguiscono
+tutto il d@i; ella @e prodiga gittatrice de' suoi beni e degli
+altrui, sorda alle riprensioni e d'ogni laudabile costume
+guastatrice.
+
+	La terza maniera [@e] de' gulosi li quali in ciascheduna
+delle predette cose, fuori d'ogni misura bevendo e mangiando e
+agognando, trapassano il segno della ragione; de' quali si pu@o
+dire quella parola di I@ob: <^Bibunt indignationem, quasi aquam~>,
+ma, secondo che si legge nel ^Salmo~, <^amara erit potio
+bibentibus illam~>, e, come Seneca a Lucillo scrive nella XXII
+epistola, <^ipse voluptates in tormentum vertuntur; epule
+cruditatem afferunt; ebrietates nervorum torporem tremoremque,
+libidines, pedum et manuum et articulorum omnium depravationes~>
+^etc.~
+
+	Questi adunque tutti, ingluviatori, ingurgitatori
+ingoiatori, agognatori, arrappatori, biasciatori, abbaiatori,
+cinguettatori, gridatori, ruttatori, scostumati, unti, brutti,
+lordi, porcinosi, rantolosi, bavosi, stomacosi, fastidiosi e
+noiosi a vedere e ad udire, uomini, anzi bestie, pieni di vane
+speranze, sono v@oti di pensieri laudevoli e strabocchevoli ne'
+pericoli, gran vantatori, maldicenti e bugiardi, consumatori
+delle sustanzie temporali, inchinevoli ad ogni dissoluta libidine
+e trastullo de' sobri: e, per ci@o che ad alcuna cosa virtuosa non
+vacano, ma se medesimi guastano, non solamente a' sensati uomini,
+ma ancora a Dio sono tanto odiosi che, morendo come vivuti sono,
+ad eterna dannazione son giustamente dannati; e, secondo che
+l'autor ne dimostra, nel terzo cerchio dello 'nferno della loro
+scellerata vita sono sotto debito supplicio puniti.
+
+	|7-12.  Punizione dei golosi.~
+
+	Il quale, acci@o che possiamo discernere pi@u chiaro come
+sia con la colpa conforme, n'@e di necessit@a di dimostrare
+brievemente.  Dice adunque l'autore che essi giacciono sopra il
+suolo della terra marcio, putrido, fetido e fastidioso, non
+altrimenti che 'l porco giaccia nel loto, e quivi per divina arte
+piove loro sempre addosso |grandine grossa e acqua tinta e neve~,
+la quale, essendo loro cagione di gravissima doglia, gli fa
+urlare non altramenti che facciano i cani: e, oltre a ci@o, se
+alcuno da giacer si lieva o parla, giace poi senza parlare o
+urlare infino al d@i del giudicio; e, oltre a ci@o, sta loro in
+perpetuo sopra capo un dimonio chiamato Cerbero, il quale ha tre
+teste e altrettante gole, n$e mai rist@a d'abbaiare: e ha questo
+dimonio gli occhi rossi e la barba nera ed unta e il ventre largo
+e le mani unghiate e, oltre all'abbaiare, graffia e squarcia e
+morde i miseri dannati; li quali, udendo il suo continuo
+abbaiare, disiderano d'essere sordi.
+
+	La qual pena spiacevole e gravosa in cotal guisa pare che
+la divina giustizia abbia conformata alla colpa: e primieramente
+come essi, oziosi e gravi del cibo e del vino, col ventre pieno
+giacquero in riposo del cibo ingluviosamente preso, cos@i pare
+convenirsi che contro alla lor voglia, in male e in pena di loro,
+senza levarsi giaccianosi in eterno distesi, col loro spesso
+volgersi testificando i dolorosi movimenti, li quali per lo
+soperchio cibo gi@a di diverse torsioni lor furon cagione; e come
+essi di diversi liquori e di vari vini il misero gusto apagarono,
+cos@i qui sieno da varie qualit@a di piova percossi ed afflitti:
+intendendo per la grandine grossa, che gli percuote, la crudit@a
+degl'indigesti cibi, la quale per non potere essi, per lo
+soperchio, dallo stomaco esser cotti, gener@o ne' miseri
+l'agroppamento de' nervi nelle giunture; e per l'acqua tinta, non
+solamente rivocare nella memoria i vini esquisiti, il soperchio
+de' quali similemente gener@o in loro omori dannosi, li quali per
+le gambe, per gli occhi e per altre parti del corpo sozi e
+fastidiosi vivendo versarono; e per la neve, il male condensato
+nutrimento, per lo quale non lucidi ma invetriati e' spesso di
+vituperosa forfore divennero per lo viso macchiati.
+
+	E, cos@i come essi non furono contenti solamente alle
+dilicate vivande, n$e a' savorosi vini, n$e eziandio a' salsamenti
+spesso eccitanti il pigro o adormentato appetito, ma gli vollono
+dall'indiane spezie e dalle sabee odoriferi, vuole la divina
+giustizia che essi sieno dal corrotto e fetido puzo della terra
+offesi, e abbiano, in luogo delle mense splendide, il fastidioso
+letto che l'autore discrive; e, appresso, come essi furono
+detrattori, millantatori e maldicenti, cos@i sieno a perpetua
+taciturnit@a constretti, fuor solamente di tanto, che, come essi,
+con gli stomachi traboccanti e con le teste fummanti, non
+altramenti che cani abbaiar soleano, cos@i urlando come cani la
+loro angoscia dimostrino e abbian sempre davanti Cerbero, il
+quale ha qui a disegnare il peccato della gola, acci@o che la
+memoria e il rimprovero di quella nelle lor coscienze gli
+stracci, ingoi e affligga; e, in luogo della dolceza de' canti,
+li quali ne' lor conviti usavano, abbiano il terribile suono
+delle sue gole, il quale gl'intuoni e, senza pro, gli faccia
+disiderare d'esser sordi.
+
+	|18-21.  Punizione dei golosi.~
+
+	Il quale, acci@o che possiamo discernere pi@u chiaro come
+sia con la colpa conforme, n'@e di necessit@a di dimostrare
+brievemente.  Dice adunque l'autore che essi giacciono sopra il
+suolo della terra marcio, putrido, fetido e fastidioso, non
+altrimenti che 'l porco giaccia nel loto, e quivi per divina arte
+piove loro sempre addosso |grandine grossa e acqua tinta e neve~,
+la quale, essendo loro cagione di gravissima doglia, gli fa
+urlare non altramenti che facciano i cani: e, oltre a ci@o, se
+alcuno da giacer si lieva o parla, giace poi senza parlare o
+urlare infino al d@i del giudicio; e, oltre a ci@o, sta loro in
+perpetuo sopra capo un dimonio chiamato Cerbero, il quale ha tre
+teste e altrettante gole, n$e mai rist@a d'abbaiare: e ha questo
+dimonio gli occhi rossi e la barba nera ed unta e il ventre largo
+e le mani unghiate e, oltre all'abbaiare, graffia e squarcia e
+morde i miseri dannati; li quali, udendo il suo continuo
+abbaiare, disiderano d'essere sordi.
+
+	La qual pena spiacevole e gravosa in cotal guisa pare che
+la divina giustizia abbia conformata alla colpa: e primieramente
+come essi, oziosi e gravi del cibo e del vino, col ventre pieno
+giacquero in riposo del cibo ingluviosamente preso, cos@i pare
+convenirsi che contro alla lor voglia, in male e in pena di loro,
+senza levarsi giaccianosi in eterno distesi, col loro spesso
+volgersi testificando i dolorosi movimenti, li quali per lo
+soperchio cibo gi@a di diverse torsioni lor furon cagione; e come
+essi di diversi liquori e di vari vini il misero gusto apagarono,
+cos@i qui sieno da varie qualit@a di piova percossi ed afflitti:
+intendendo per la grandine grossa, che gli percuote, la crudit@a
+degl'indigesti cibi, la quale per non potere essi, per lo
+soperchio, dallo stomaco esser cotti, gener@o ne' miseri
+l'agroppamento de' nervi nelle giunture; e per l'acqua tinta, non
+solamente rivocare nella memoria i vini esquisiti, il soperchio
+de' quali similemente gener@o in loro omori dannosi, li quali per
+le gambe, per gli occhi e per altre parti del corpo sozi e
+fastidiosi vivendo versarono; e per la neve, il male condensato
+nutrimento, per lo quale non lucidi ma invetriati e' spesso di
+vituperosa forfore divennero per lo viso macchiati.
+
+	E, cos@i come essi non furono contenti solamente alle
+dilicate vivande, n$e a' savorosi vini, n$e eziandio a' salsamenti
+spesso eccitanti il pigro o adormentato appetito, ma gli vollono
+dall'indiane spezie e dalle sabee odoriferi, vuole la divina
+giustizia che essi sieno dal corrotto e fetido puzo della terra
+offesi, e abbiano, in luogo delle mense splendide, il fastidioso
+letto che l'autore discrive; e, appresso, come essi furono
+detrattori, millantatori e maldicenti, cos@i sieno a perpetua
+taciturnit@a constretti, fuor solamente di tanto, che, come essi,
+con gli stomachi traboccanti e con le teste fummanti, non
+altramenti che cani abbaiar soleano, cos@i urlando come cani la
+loro angoscia dimostrino e abbian sempre davanti Cerbero, il
+quale ha qui a disegnare il peccato della gola, acci@o che la
+memoria e il rimprovero di quella nelle lor coscienze gli
+stracci, ingoi e affligga; e, in luogo della dolceza de' canti,
+li quali ne' lor conviti usavano, abbiano il terribile suono
+delle sue gole, il quale gl'intuoni e, senza pro, gli faccia
+disiderare d'esser sordi.
+
+	|32-33.  Punizione dei golosi.~
+
+	Il quale, acci@o che possiamo discernere pi@u chiaro come
+sia con la colpa conforme, n'@e di necessit@a di dimostrare
+brievemente.  Dice adunque l'autore che essi giacciono sopra il
+suolo della terra marcio, putrido, fetido e fastidioso, non
+altrimenti che 'l porco giaccia nel loto, e quivi per divina arte
+piove loro sempre addosso |grandine grossa e acqua tinta e neve~,
+la quale, essendo loro cagione di gravissima doglia, gli fa
+urlare non altramenti che facciano i cani: e, oltre a ci@o, se
+alcuno da giacer si lieva o parla, giace poi senza parlare o
+urlare infino al d@i del giudicio; e, oltre a ci@o, sta loro in
+perpetuo sopra capo un dimonio chiamato Cerbero, il quale ha tre
+teste e altrettante gole, n$e mai rist@a d'abbaiare: e ha questo
+dimonio gli occhi rossi e la barba nera ed unta e il ventre largo
+e le mani unghiate e, oltre all'abbaiare, graffia e squarcia e
+morde i miseri dannati; li quali, udendo il suo continuo
+abbaiare, disiderano d'essere sordi.
+
+	La qual pena spiacevole e gravosa in cotal guisa pare che
+la divina giustizia abbia conformata alla colpa: e primieramente
+come essi, oziosi e gravi del cibo e del vino, col ventre pieno
+giacquero in riposo del cibo ingluviosamente preso, cos@i pare
+convenirsi che contro alla lor voglia, in male e in pena di loro,
+senza levarsi giaccianosi in eterno distesi, col loro spesso
+volgersi testificando i dolorosi movimenti, li quali per lo
+soperchio cibo gi@a di diverse torsioni lor furon cagione; e come
+essi di diversi liquori e di vari vini il misero gusto apagarono,
+cos@i qui sieno da varie qualit@a di piova percossi ed afflitti:
+intendendo per la grandine grossa, che gli percuote, la crudit@a
+degl'indigesti cibi, la quale per non potere essi, per lo
+soperchio, dallo stomaco esser cotti, gener@o ne' miseri
+l'agroppamento de' nervi nelle giunture; e per l'acqua tinta, non
+solamente rivocare nella memoria i vini esquisiti, il soperchio
+de' quali similemente gener@o in loro omori dannosi, li quali per
+le gambe, per gli occhi e per altre parti del corpo sozi e
+fastidiosi vivendo versarono; e per la neve, il male condensato
+nutrimento, per lo quale non lucidi ma invetriati e' spesso di
+vituperosa forfore divennero per lo viso macchiati.
+
+	E, cos@i come essi non furono contenti solamente alle
+dilicate vivande, n$e a' savorosi vini, n$e eziandio a' salsamenti
+spesso eccitanti il pigro o adormentato appetito, ma gli vollono
+dall'indiane spezie e dalle sabee odoriferi, vuole la divina
+giustizia che essi sieno dal corrotto e fetido puzo della terra
+offesi, e abbiano, in luogo delle mense splendide, il fastidioso
+letto che l'autore discrive; e, appresso, come essi furono
+detrattori, millantatori e maldicenti, cos@i sieno a perpetua
+taciturnit@a constretti, fuor solamente di tanto, che, come essi,
+con gli stomachi traboccanti e con le teste fummanti, non
+altramenti che cani abbaiar soleano, cos@i urlando come cani la
+loro angoscia dimostrino e abbian sempre davanti Cerbero, il
+quale ha qui a disegnare il peccato della gola, acci@o che la
+memoria e il rimprovero di quella nelle lor coscienze gli
+stracci, ingoi e affligga; e, in luogo della dolceza de' canti,
+li quali ne' lor conviti usavano, abbiano il terribile suono
+delle sue gole, il quale gl'intuoni e, senza pro, gli faccia
+disiderare d'esser sordi.
+
+	|94-96.  Punizione dei golosi.~
+
+	Il quale, acci@o che possiamo discernere pi@u chiaro come
+sia con la colpa conforme, n'@e di necessit@a di dimostrare
+brievemente.  Dice adunque l'autore che essi giacciono sopra il
+suolo della terra marcio, putrido, fetido e fastidioso, non
+altrimenti che 'l porco giaccia nel loto, e quivi per divina arte
+piove loro sempre addosso |grandine grossa e acqua tinta e neve~,
+la quale, essendo loro cagione di gravissima doglia, gli fa
+urlare non altramenti che facciano i cani: e, oltre a ci@o, se
+alcuno da giacer si lieva o parla, giace poi senza parlare o
+urlare infino al d@i del giudicio; e, oltre a ci@o, sta loro in
+perpetuo sopra capo un dimonio chiamato Cerbero, il quale ha tre
+teste e altrettante gole, n$e mai rist@a d'abbaiare: e ha questo
+dimonio gli occhi rossi e la barba nera ed unta e il ventre largo
+e le mani unghiate e, oltre all'abbaiare, graffia e squarcia e
+morde i miseri dannati; li quali, udendo il suo continuo
+abbaiare, disiderano d'essere sordi.
+
+	La qual pena spiacevole e gravosa in cotal guisa pare che
+la divina giustizia abbia conformata alla colpa: e primieramente
+come essi, oziosi e gravi del cibo e del vino, col ventre pieno
+giacquero in riposo del cibo ingluviosamente preso, cos@i pare
+convenirsi che contro alla lor voglia, in male e in pena di loro,
+senza levarsi giaccianosi in eterno distesi, col loro spesso
+volgersi testificando i dolorosi movimenti, li quali per lo
+soperchio cibo gi@a di diverse torsioni lor furon cagione; e come
+essi di diversi liquori e di vari vini il misero gusto apagarono,
+cos@i qui sieno da varie qualit@a di piova percossi ed afflitti:
+intendendo per la grandine grossa, che gli percuote, la crudit@a
+degl'indigesti cibi, la quale per non potere essi, per lo
+soperchio, dallo stomaco esser cotti, gener@o ne' miseri
+l'agroppamento de' nervi nelle giunture; e per l'acqua tinta, non
+solamente rivocare nella memoria i vini esquisiti, il soperchio
+de' quali similemente gener@o in loro omori dannosi, li quali per
+le gambe, per gli occhi e per altre parti del corpo sozi e
+fastidiosi vivendo versarono; e per la neve, il male condensato
+nutrimento, per lo quale non lucidi ma invetriati e' spesso di
+vituperosa forfore divennero per lo viso macchiati.
+
+	E, cos@i come essi non furono contenti solamente alle
+dilicate vivande, n$e a' savorosi vini, n$e eziandio a' salsamenti
+spesso eccitanti il pigro o adormentato appetito, ma gli vollono
+dall'indiane spezie e dalle sabee odoriferi, vuole la divina
+giustizia che essi sieno dal corrotto e fetido puzo della terra
+offesi, e abbiano, in luogo delle mense splendide, il fastidioso
+letto che l'autore discrive; e, appresso, come essi furono
+detrattori, millantatori e maldicenti, cos@i sieno a perpetua
+taciturnit@a constretti, fuor solamente di tanto, che, come essi,
+con gli stomachi traboccanti e con le teste fummanti, non
+altramenti che cani abbaiar soleano, cos@i urlando come cani la
+loro angoscia dimostrino e abbian sempre davanti Cerbero, il
+quale ha qui a disegnare il peccato della gola, acci@o che la
+memoria e il rimprovero di quella nelle lor coscienze gli
+stracci, ingoi e affligga; e, in luogo della dolceza de' canti,
+li quali ne' lor conviti usavano, abbiano il terribile suono
+delle sue gole, il quale gl'intuoni e, senza pro, gli faccia
+disiderare d'esser sordi.
+
+	|13-17.  Cerbero.~
+
+	Ma resta a vedere quello che l'autore voglia intendere
+per Cerbero, la qual cosa sotto assai sottil velo @e nascosa. 
+Cerbero, come altra volta @e stato detto fu cane di Plutone, re
+d'inferno, e guardiano della porta di quello: in questa guisa,
+che esso lasciava dentro entrar chi voleva, ma uscirne alcuno non
+lasciava.  Ma qui, come detto @e, l'autore discrive per lui questo
+dannoso vizio della gola, al quale intendimento assai bene si
+conforma l'etimologia del nome.  Vuole, secondo che piace ad
+alcuni, tanto dir Cerbero quanto <^creon vorans~>, cio@e
+<divorator di carne>, intorno alla qual cosa, come pi@u volte @e
+detto di sopra, in gran parte consiste il vizio della gola; e per
+ci@o in questo dimonio pi@u che in alcuno altro il figura, perch$e
+egli @e detto <cane>, per ci@o che ogni cane naturalmente @e guloso,
+n$e n'@e alcuno che, se troverr@a da mangiare cosa che gli piaccia,
+che non mangi tanto che gli convien venire al vomito, come di
+sopra @e detto spesse volte fare i gulosi.
+
+	Per le tre gole canine di questo cane intende l'autore le
+tre spezie de' ghiotti poco davanti disegnate; e in quanto dice
+questo demonio caninamente latrare, vuole esprimere l'uno de' due
+costumi, o amenduni, de' gulosi.  Sono i gulosi generalmente
+tutti gran favellatori, e 'l pi@u in male, e massimamente quando
+sono ripieni: il quale atto veramente si pu@o dire <latrar
+canino>, in quanto non espediscon bene le parole per la lingua
+ingrossata per lo cibo, e ancora perch$e alquanto rochi sono per
+lo meato della voce, il pi@u delle volte impedito da troppa
+umidit@a; e, oltre a ci@o, per ci@o che i cani, se non @e o per esser
+battuti o perch$e veggon cosa che non par loro amica, non latran
+mai; il che avviene spesse volte de' gulosi, li quali, come
+sentono o che impedimento sopravegna o che veggano per caso
+diminuire quello che essi aspettavano di mangiare, incontanente
+mormorano e latrano.  E, oltre a questo, sono i gulosi grandi
+agognatori: e, come il cane guarda sempre pi@u all'osso che rode
+il compagno che a quello che esso medesimo divora, cos@i i gulosi
+tengono non meno gli occhi a' ghiotti bocconi che mangia il
+compagno o a quelli che sopra il tagliere rimangono, che a quello
+il quale ha in bocca: e cos@i sono adomandatori e ordinatori di
+mangee e divisatori di quelle.
+
+	E, in quanto dice questo dimonio aver gli occhi vermigli
+vuol s'intenda un degli effetti della gola ne' gulosi, a' quali,
+per soperchio bere, i vapor caldi surgenti dallo stomaco generano
+omori nella testa, li quali poi, per gli occhi distillandosi,
+quegli fa divenire rossi e lagrimosi.  Appresso dice lui aver la
+barba unta, a dimostrare che il molto mangiare non si possa fare
+senza difficult@a nettamente, e cos@i, non potendosi, @e di
+necessit@a ugnersi la barba o 'l mento o 'l petto; e per questa
+medesima cagione vuole che la barba di questo dimonio sia nera,
+per ci@o che 'l pi@u ogni unzione anerisce i peli, fuor che i
+canuti.  Potrebbesi ancora qui pi@u sottilmente intendere e dire
+che, con ci@o sia cosa che per la barba s'intenda la nostra
+virilit@a, la quale, quantunque per la barba s'intenda, non perci@o
+consiste in essa, ma nel vigore della nostra mente, il quale @e
+tanto quanto l'uomo virtuosamente adopera, e allora rende gli
+operatori chiari e splendidi e degni di onore, dove qui, per la
+virilit@a divenuta nera, vuole l'autore s'intenda nella colpa
+della gola quella essere depravata e divenuta malvagia.
+
+	Dice, oltre a ci@o, Cerbero avere il ventre largo, per
+dimostrare il molto divorar de' gulosi, li quali con la quantit@a
+grande del cibo, per forza distendono e ampliano il ventre, che
+ci@o riceve oltre alla natura sua; e, che @e ancora molto pi@u
+biasimevole, tanto talvolta dentro vi cacciano che, non
+sostenendolo la grandeza del tristo sacco, sono, come altra volta
+di sopra @e detto, come i cani constretti a gittar fuori.  E, in
+quanto dice questo demonio avere le mani unghiate, vuol che
+s'intenda il distinguere e il partire che fa il ghiotto delle
+vivande; e, oltre a questo, il pronto arrappare, quando alcuna
+cosa vede che pi@u che alcuna altra gli piaccia.  Appresso, dove
+l'autor dice questo dimonio non tener fermo alcun membro, vuol
+che s'intenda la infermit@a paralitica, la quale ne' gulosi si
+genera per li non bene digesti cibi nello stomaco, o, secondo che
+alcuni altri vogliono, ne' bevitori per lo molto bere, e
+massimamente sanz'acqua, ed essendo lo stomaco digiuno; e puote
+ancora significare gl'incomposti movimenti dell'ebbro.
+
+	Oltre a ci@o, l@a dove l'autore scrive che questo dimonio,
+come gli vide, aperse le bocche e mostr@o loro le sanne, vuol
+discrivere un altro costume de' gulosi, li quali sempre vogliosi
+e bramosi si mostrano; o intendendo per la dimostrazion delle
+sanne, nelle quali consiste la forza del cane, dimostrarsi
+subitamente la forza del guloso, la quale consiste in offendere i
+paurosi con mordaci parole, alle quali fine por non si puote se
+non con empiergli la gola, cio@e col dargli mangiare o bere.  La
+qual cosa il discreto uomo, consigliato dalla ragione, per non
+avere a litigar della verit@a con cos@i fatta gente, fa
+prestamente, volendo pi@u tosto gittar via quello che al ghiotto
+concede che, come @e detto, porsi in novelle con lui: per ci@o che,
+come questo @e dal savio uomo fatto, cos@i @e al ghiotto serrata la
+gola e posto silenzio.
+
+	|22-31.  Cerbero.~
+
+	Ma resta a vedere quello che l'autore voglia intendere
+per Cerbero, la qual cosa sotto assai sottil velo @e nascosa. 
+Cerbero, come altra volta @e stato detto fu cane di Plutone, re
+d'inferno, e guardiano della porta di quello: in questa guisa,
+che esso lasciava dentro entrar chi voleva, ma uscirne alcuno non
+lasciava.  Ma qui, come detto @e, l'autore discrive per lui questo
+dannoso vizio della gola, al quale intendimento assai bene si
+conforma l'etimologia del nome.  Vuole, secondo che piace ad
+alcuni, tanto dir Cerbero quanto <^creon vorans~>, cio@e
+<divorator di carne>, intorno alla qual cosa, come pi@u volte @e
+detto di sopra, in gran parte consiste il vizio della gola; e per
+ci@o in questo dimonio pi@u che in alcuno altro il figura, perch$e
+egli @e detto <cane>, per ci@o che ogni cane naturalmente @e guloso,
+n$e n'@e alcuno che, se troverr@a da mangiare cosa che gli piaccia,
+che non mangi tanto che gli convien venire al vomito, come di
+sopra @e detto spesse volte fare i gulosi.
+
+	Per le tre gole canine di questo cane intende l'autore le
+tre spezie de' ghiotti poco davanti disegnate; e in quanto dice
+questo demonio caninamente latrare, vuole esprimere l'uno de' due
+costumi, o amenduni, de' gulosi.  Sono i gulosi generalmente
+tutti gran favellatori, e 'l pi@u in male, e massimamente quando
+sono ripieni: il quale atto veramente si pu@o dire <latrar
+canino>, in quanto non espediscon bene le parole per la lingua
+ingrossata per lo cibo, e ancora perch$e alquanto rochi sono per
+lo meato della voce, il pi@u delle volte impedito da troppa
+umidit@a; e, oltre a ci@o, per ci@o che i cani, se non @e o per esser
+battuti o perch$e veggon cosa che non par loro amica, non latran
+mai; il che avviene spesse volte de' gulosi, li quali, come
+sentono o che impedimento sopravegna o che veggano per caso
+diminuire quello che essi aspettavano di mangiare, incontanente
+mormorano e latrano.  E, oltre a questo, sono i gulosi grandi
+agognatori: e, come il cane guarda sempre pi@u all'osso che rode
+il compagno che a quello che esso medesimo divora, cos@i i gulosi
+tengono non meno gli occhi a' ghiotti bocconi che mangia il
+compagno o a quelli che sopra il tagliere rimangono, che a quello
+il quale ha in bocca: e cos@i sono adomandatori e ordinatori di
+mangee e divisatori di quelle.
+
+	E, in quanto dice questo dimonio aver gli occhi vermigli
+vuol s'intenda un degli effetti della gola ne' gulosi, a' quali,
+per soperchio bere, i vapor caldi surgenti dallo stomaco generano
+omori nella testa, li quali poi, per gli occhi distillandosi,
+quegli fa divenire rossi e lagrimosi.  Appresso dice lui aver la
+barba unta, a dimostrare che il molto mangiare non si possa fare
+senza difficult@a nettamente, e cos@i, non potendosi, @e di
+necessit@a ugnersi la barba o 'l mento o 'l petto; e per questa
+medesima cagione vuole che la barba di questo dimonio sia nera,
+per ci@o che 'l pi@u ogni unzione anerisce i peli, fuor che i
+canuti.  Potrebbesi ancora qui pi@u sottilmente intendere e dire
+che, con ci@o sia cosa che per la barba s'intenda la nostra
+virilit@a, la quale, quantunque per la barba s'intenda, non perci@o
+consiste in essa, ma nel vigore della nostra mente, il quale @e
+tanto quanto l'uomo virtuosamente adopera, e allora rende gli
+operatori chiari e splendidi e degni di onore, dove qui, per la
+virilit@a divenuta nera, vuole l'autore s'intenda nella colpa
+della gola quella essere depravata e divenuta malvagia.
+
+	Dice, oltre a ci@o, Cerbero avere il ventre largo, per
+dimostrare il molto divorar de' gulosi, li quali con la quantit@a
+grande del cibo, per forza distendono e ampliano il ventre, che
+ci@o riceve oltre alla natura sua; e, che @e ancora molto pi@u
+biasimevole, tanto talvolta dentro vi cacciano che, non
+sostenendolo la grandeza del tristo sacco, sono, come altra volta
+di sopra @e detto, come i cani constretti a gittar fuori.  E, in
+quanto dice questo demonio avere le mani unghiate, vuol che
+s'intenda il distinguere e il partire che fa il ghiotto delle
+vivande; e, oltre a questo, il pronto arrappare, quando alcuna
+cosa vede che pi@u che alcuna altra gli piaccia.  Appresso, dove
+l'autor dice questo dimonio non tener fermo alcun membro, vuol
+che s'intenda la infermit@a paralitica, la quale ne' gulosi si
+genera per li non bene digesti cibi nello stomaco, o, secondo che
+alcuni altri vogliono, ne' bevitori per lo molto bere, e
+massimamente sanz'acqua, ed essendo lo stomaco digiuno; e puote
+ancora significare gl'incomposti movimenti dell'ebbro.
+
+	Oltre a ci@o, l@a dove l'autore scrive che questo dimonio,
+come gli vide, aperse le bocche e mostr@o loro le sanne, vuol
+discrivere un altro costume de' gulosi, li quali sempre vogliosi
+e bramosi si mostrano; o intendendo per la dimostrazion delle
+sanne, nelle quali consiste la forza del cane, dimostrarsi
+subitamente la forza del guloso, la quale consiste in offendere i
+paurosi con mordaci parole, alle quali fine por non si puote se
+non con empiergli la gola, cio@e col dargli mangiare o bere.  La
+qual cosa il discreto uomo, consigliato dalla ragione, per non
+avere a litigar della verit@a con cos@i fatta gente, fa
+prestamente, volendo pi@u tosto gittar via quello che al ghiotto
+concede che, come @e detto, porsi in novelle con lui: per ci@o che,
+come questo @e dal savio uomo fatto, cos@i @e al ghiotto serrata la
+gola e posto silenzio.
+
+	E in questo pare che si termini di questo canto
+l'allegoria.

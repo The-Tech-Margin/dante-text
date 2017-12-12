@@ -1,0 +1,493 @@
+	|Proemio.~  In questo settimo cerchio, come nel
+precedente, tratter@a l'Auttore di coloro che, contro al debito
+della ragione, convertono furtivamente l'altrui in loro uso; et
+perch'egli ha fatta menzione di Vanni Fucci, del quale @e stato
+detto che solamente una volta imbol@o, che questo gli venne per
+caso, in questo capitolo l'Auttore tratta dell'altre spezie de'
+ladri.  Onde egli @e da sapere che l'Auttore fa tre differenzie di
+ladri: la prima spezie @e di coloro che, per caso et abbattimento,
+una sola volta si conducono a imbolare, et da quella volta
+innanzi se ne rimangono; la seconda spezie @e di coloro che non da
+natura sono sospinti in questo vizio, ma pure quando alcuna volta
+v'incappono, non se ne rimangono; et bench@e mettano intervallo di
+tempo dall'una volta all'altra, pure vi si rimettono ognora
+ch'essi veggono il bello; la terza spezie @e di coloro che
+naturalmente sono inclinati a questo vizio, et infino alla morte
+il seguono.  I primi, pe' quali ci vuole mostrare l'Auttore il
+primajo effetto, fa che il serpente il trafigge, onde il
+peccatore cade et diventa cenere; poi ritorna quella in uomo, et
+poi pi@u non si muta: et per questo ci d@a a intendere che solo una
+volta questi caddono in tale vizio, onde egliono diventorono
+cenere, ci@o @e mutoronsi d'essere uomo; et poi, pi@u non peccando,
+ritornorono nella forma di prima.  I secondi fa che 'l serpente,
+appiccatosi con loro, muta la forma serpentina e ellino l'umana;
+et per questo ci d@a a intendere la seconda spezie, che gli uomini
+che sono ladri non naturalmente, com'@e detto, lasciono la loro
+propria natura in parte, et trasformonsi nella natura serpentina,
+et la serpentina si trasforma nella umana; s@i che vuole dire che
+vicendevolmente et non continuo fanno tali operazioni.  La terza
+et ultima spezie @e di coloro che naturalmente hanno in loro
+questo vizio, i quali dice trasformarsi in serpente, et il
+serpente in loro, per forma che n@e l'una forma n@e l'altra rimane;
+mischiansi s@i queste due forme insiemi che non pare l'una n@e
+l'altra: tutto a simile come chi struggessi insieme la cera
+bianca et la verde, ma piglierebbe uno terzo colore, cos@i
+costoro, lasciata la loro natura, pigliono s@i la serpentina, et
+la serpentina l'umana, che l'una et l'altra lascia l'essere suo,
+et tornono una medesima cosa, per@o che sempre questi tali
+destinati, non attendono mai ad altro che a questa operazione,
+come chiaro apparir@a nella sposizione della lettera.  Et fa
+l'Auttore cinque cose in questo capitolo: la prima fa fare, al
+modo poetico, una esclamazione verso Iddio a Vanni Fucci, del
+quale @e stato trattato nel precedente capitolo, per mostrare la
+sua mala et superba disposizione; et appresso seguita alla
+vendetta.  Nella seconda parte esclama l'Auttore contro alla
+citt@a di Pistoja, dicendo ch'egliono doverrebbono ordinare
+d'ardere quella terra, acci@o che tanto mal seme non vi
+moltiplicasse.  Nella terza parte nomina uno centauro, et rende
+la cagione perch'egli @e punito in questo luogo; et nomina tre
+spiriti moderni, che l'uno di loro fa trasmutare
+maravigliosamente.  Nella quarta parte fa trasmutare il secondo
+de' tre spiriti, et rilevatamente dice che mai n@e Lucano ne
+Ovidio feciono simili trasmutazioni alla sua.  Nella quinta et
+ultima fa, poetando, che il serpente piglia la natura umana, et
+l'uomo quella serpentina, nomando alcuno peccatore sobpreso di
+tale vizio per certe circustanzie; et cos@i finisce sua opera.  La
+seconda parte comincia quivi: ^Ah Pistoja, Pistoja~ {v. 10}; la
+terza quivi: ^Coll'ale aperte~ {23}; la quarta quivi: ^Come il
+ramarro~ {79}; la quinta et ultima: ^L'un si lev@o~ {121}.
+
+	|1-3.  Al fine delle sue parole~: Detta ch'ebbe Vanni
+Fucci quella novella all'Auttore, lev@o le mani al cielo.
+
+	|4-9.  Da indi in qua~: Vuole mostrare l'Auttore che
+sempre gli spiacquono le serpi; ma poi che s'appiccarono al collo
+a colui, gli sono piaciute.  Et qui @e da notare che d'ogni offesa
+che gl'uomini ricevono, secondo i teolaghi, si debbe lasciare
+fare la vendetta a Dio che grida: ^Mihi vindicta, et ego
+retribuam~; ma l'offese che si fanno nella deit@a non sono da
+sofferire: et questo confermono per Cristo, che l'offese fatte
+alla sua umanit@a comportava, per esemplo di noi; l'offese della
+divinit@a, n'era impaziente, ci@o @e mostrava, per dare esemplo a
+noi.  |Che non potea con esse~: La serpe naturalmente ha tanta
+forza, che assai volte s'@e trovato avere stretto colle volte
+della sua coda alcuno membro umano, che l'ha debilitato per modo
+che mai buono sentimento non ha avuto, senza niuna puntura; et
+questo perch@e di sua natura @e arrendevole et flessibile.
+
+	|10-12.  Ah, Pistoja, Pistoja, ch@e non stanzi~: Perch@e
+non ordini che tanto tuo mal seme si spenga et non rifigli in te? 
+Et qui @e da sapere che 'l seme onde sono discesi i Pistolesi,
+furono quelli ch'erono con Catilina, i quali, essendo assediati
+da' Romani in Fiesole, segretamente si partirono da Fiesole et
+abbandonorono la terra, et vennorne verso Pistoja: ivi furono
+sopraggiunti da' Romani; onde combatterono insieme, et grande
+uccisione vi fu dall'una parte et dall'altra, et pochi ne
+rimasono: pure quelli cotanti che rimasono fondorono la citt@a di
+Pistoja, et ivi abitarono.  @E vero che Salustio dice che la
+battaglia fu presso a Pistoja, sicch@e @e segno che Pistoja era
+gi@a; ma puossi credere che questi tali scampati l'accrebbono et
+ripopolorono.  Ora fu Catilina de' piggiori uomini del mondo; et
+per conseguente chi il seguitava; s@i che tacitamente l'Auttore
+vuole dire che quel mal seme redunda ancora ne' pistolesi.
+
+	|15.  Non quel che cadde~: Questi fu Capaneo, che fu
+percosso dalla folgore, come innanzi @e stato narrato.
+
+	|18.  Ov'@e, ov'@e l'acerbo?~: L'acerbo cui egli chiama fu
+Vanni Fucci, che fu acerbo et duro et salvatico uomo.
+
+	|19-21.  Maremma non cred'io~: Hae in maremma molti di
+questi animali; et dice che tanti n'avea in sulla groppa il
+centauro infino dove egli cominciava a essere uomo; ch'@e dalla
+cintola in su uomo et dalla cintola in gi@u @e cavallo.
+
+	|22.  Dirietro dalla coppa~: La coppa chiama quello
+concavo che fanno le spalle dirietro, sotto il nodo del collo.
+
+	|25-33.  Lo mio maestro~: Come scrive Virgilio nell'VIII
+libro dell'^Eneida~, essendo ito Enea al re Evandro per ajuto,
+per volersi difendere da Turno (ch'era il re Evandro signore di
+Pallantea, dov'@e oggi fondata la citt@a di Roma), trovollo fuori
+della terra presso a Monte Aventino che facea sacrificio a
+Ercole; onde il re Evandro, veduto Enea volentieri, et mangiato
+ch'ebbono insiemi, il re cominci@o a contare ad Enea la cagione
+perch@e quivi sacrificava ad Ercole, dicendogli che in quella
+spelonca ch'era ivi vicina stava questo Caco centauro, et come
+grandissimo danno si facea al paese di rubare, di guastare et
+d'ardere; et per@o gli pone l'Auttore uno drago in sulla groppa
+che gettava fiamma et affocava; et questo vuole mostrare che con
+incendio et con fuoco alcuna volta si conducea a rubare et a
+imbolare, ardendo case et capanne: onde avvenne per caso, disse
+il re Evandro, che Ercole, tornando di Spagna con preda che avea
+tolta a Gerione, si pos@o quivi.  Caco pens@o d'imbolare a Ercole,
+et, come scrive Virgilio, questo Caco rivolse dalle stalle
+d'Ercole quattro bellissimi tori, et quattro giovenchi che gli
+avanzavano di bellezze; et acci@o che le vestigie de' loro piedi
+non si vedessino, gli tir@o nella spelonca sua per la coda dal
+lato di rietro et occultogli et ascose, disse il re Evandro.  Il
+bestiame, ch'era inchiuso in questo oscuro sasso, incominci@o a
+mugghiare: Ercole s'avvidde: va d'intorno alla spilonca; et non
+possendo entrarvi per altro modo, avis@o uno sasso grandissimo che
+pendea sopra la spilonca: Stava, dice, una acuta massa di pietre,
+et tutti i sassi tagliati d'attorno sopra il dosso della spelonca
+altissima a riguardarla, dirittamente casa necessaria a' nidi
+degli uccelli di ratto.  Questa, com'ella stava inchinevole verso
+il manco fiume, Ercole, sforzandosi, dalla parte destra la
+scommosse, et divelta repentemente, la smosse dalle sue radici:
+infine ella cadde in sulla spelonca et tutta l'aperse; et per@o lo
+gran romore del cadere rison@o l'aria assai di lontano, et
+risonato et tremate le ripe vicine, el fiume spaventato ritorn@o
+in dirietro; onde Ercole, entrato nella spelonca, riebbe il
+bestiame suo, et uccise Cacco.  Et dice l'Auttore che gli diede
+cento mazzate, et non sent@i le dieci, per@o che prima mor@i che
+n'avessi dieci.  |Non va co' suoi~: Come @e stata fatta menzione
+nel capitolo XII di questo libro, i centauri Nesso et gli altri
+sono puniti nel sangue insieme co' tiranni.  Ora, dice l'Auttore,
+Cacco sarebbe stato co' fratelli suoi, ci@o @e cogli altri centauri
+in quel sangue, se non fosse quello furto che fece a Ercole.
+
+	|35-36.  De' quai n@e io n@e il Duca~: Dice che vennono tre
+spiriti s@i occultamente ch'egli non se ne accorsono, et per
+questo vuole mostrare l'occulte vie et gli occulti modi che
+tengono i ladri.
+
+	|43.  Dicendo, Cianfa dove~: Questi fu messer Cianfa de'
+Donati, che, secondo l'Auttore, fu macchiato di questo vizio.
+
+	|46-48.  Se tu se' or, lettore, a creder~: Come dice
+Jesus Sirach: Innanzi a ogni tua opera fa che la parola vera vada
+innanzi, et innanzi a ogni tuo atto lo stabile consiglio: ora
+l'Auttore, parendogli dire cose maravigliose et da non doverle
+credere, si scusa.
+
+	|58-60.  Ellera abbarbicata mai~: Ellera s'appicca
+all'arbore, et avvolgevisi intorno.
+
+	|61-66.  Et mischiar lor colore~: Egliono si mischiorono
+s@i i colori, il serpente collo spirito et lo spirito col
+serpente, che feciono uno terzo colore; et piglierebbono uno
+altro colore mischiato dell'uno et dell'altro, tutto a simile al
+papiro, ci@o @e alla bambagia.  Chi togliessi uno foglio di
+bambagia et ardessilo, vederebbe che, quando il fuoco vi si
+mettesse, in quel principio si muove uno fumo su per lo foglio,
+il quale mischiato colla bianchezza del foglio, perde il foglio
+della sua bianchezza, e il fumo della sua nerezza, et appare uno
+colore cenerognolo che non @e n@e l'uno et n@e l'altro colore.
+
+	|73.  Fersi le braccia due~: Ci@o @e le braccia dell'uomo,
+ch'erano due, et quelle del serpente altre due; s@i che due
+braccia furono di quattro pezzi.
+
+	|74-75.  Divenner membra~: Questi che al presente si mut@o
+fue Agnolo de' Brunelleschi, viziato di questo peccato.
+
+	|79-81.  Come il ramarro~: Ella @e una stella che @e presso
+al segno del Leone, che si chiama Canis, che, quando ella
+signoreggia sopra la terra, genera grandissimo secco et
+grandissimo caldo, per@o ch'ell'@e di natura calda et secca, simile
+al segno del Leone, et simile alla natura del fuoco; et getta la
+sua influenza all'uscita del mese d'agosto: durono i d@i
+caniculari 40 d@i, cominciando a d@i 10 di luglio, poi che il sole
+@e uscito del Leone, ci@o @e del segno, grandissimo caldo et
+grandissimo secco.  Ora, perch@e il ramarro, et ogni animale
+velenoso, sono di natura fredda, pigliono forza et confortasi la
+loro natura per lo caldo; s@i che in questi d@i, che sono detti
+caniculari da quella stella ^Canis~, attraversando la via pajono
+folgore.  Ma onde nascesse il ramarro volendo chiarire, scrive
+Ovidio nel ^Metamorfoseos~, che Ceres, cercando la figliuola, che
+fu rapita in Sicilia da Plutone, avendo grandissima sete, et
+capitata a casa una vecchierella, addimand@o bere: questa femmina
+gli diede uno beveraggio di certe cose, come uno beverone di
+polenta, ci@o @e di farina et d'altro; et beendo Ceres, uno
+fanciullo ch'era presente la riprese ch'ella beeva troppo:
+costei, spruzzatoli nel viso di quello beverone, divent@o il
+fanciullo stellio, ci@o @e ramarro.  La verit@a della fizione @e: per
+Cerere s'intende la terra, ch'@e madre delle biade et madre di
+Proserpina, ci@o @e della luna, per@o che la terra coll'ombra sua
+cuopre la luna et conserva la sua frigidit@a.  Ora, brevemente,
+dell'umore della terra, che si conserva per la frigidit@a della
+luna, nasce la piova, et quella piova che viene nella state, per@o
+che la terra ha patita grande sete, l'asciuga et bee tutta; et di
+quella acqua, che viene in quelli tempi mischiata con certa
+polvere della terra percossa da' razzi del sole, nasce quello
+stellio, ci@o @e il ramarro.
+
+	|84.  Livido et nero~: Come il granello del pepe.
+
+	|85-87.  Et quella parte d'onde~: Come @e stato detto,
+l'Auttore punisce tre spezie di ladroni: la prima per caso quelli
+che una volta peccorono, come fu Vanni Fucci de' Lazzari; la
+seconda spezie sono coloro che non sono abituati in tal vizio, n@e
+in loro @e proceduto da natura; et in questo vizio caduti, assai
+volte, doppo la prima, vi caggiono, et pigliono l'uso per natura,
+et diventono serpenti, ci@o @e di quella natura: et in questo vizio
+cadde Agnolo di ser Brunellesco, del quale hae fatto menzione
+l'Auttore; la terza spezie @e di coloro che, abituati in questo
+vizio dal principio della loro natura, mai da questo non si
+lievono, se non quando pi@u non possono adoperare: in questo fa
+essere punito, come appresso si dir@a, messer Buoso Donati.  Et
+per volere mostrare l'Auttore che messer Buoso l'ebbe di natura,
+dice che il serpente il trafisse dove prima @e preso nostro
+alimento, ci@o @e nel bell$ico; per@o che, quando il fanciullo @e nel
+ventre della madre, prende la sustanzia di che si notrica, non
+dalla bocca, ma dal bell$ico, al quale risponde il cibo digesto
+della madre: et come sanno chi gli ricoglie, quanto sono nati i
+fanciulli, quella bocca del bellico @e aperta, onde subito la
+tagliono et ricuscionla, ci@o @e legonla.  Ora questo messer Buoso
+Donati, et in ufficio et altrove, avendo fatto dell'altrui suo,
+non possendo pi@u adoperare, o forse compiuto l'ufficio, misse in
+suo luogo (non per@o che coll'animo non fosse sempre bene
+disposto; ma, come @e detto, non toccando pi@u a lui) misse in suo
+luogo messer Francesco, chiamato Guercio, de' Cavalcanti, dal
+quale, essendo fatto serpente, fu morso, come nel testo si dir@a.
+
+	|88-90.  Il trafitto il mir@o~: Costui @e messer Buoso; et
+dice che, trafitto che elli fu, non disse niente: ci@o vuole
+mostrare che, essendo tentato da questo vizio, mai nol biasim@o,
+sempre gli piacque tale operazione.  |Sbadigliava~: Sbadigliare @e
+uno ricreare degli spiriti, il quale viene innanzi al sonno, o
+innanzi alla febbre.
+
+	|91-93.  Elli il serpente et quei~: L'uno guardava
+l'altro; e 'l fummo che usc$ia della bocca all'uno, et all'altro
+per la piaga, si scontravono insieme, ci@o @e il fummo della loro
+rabbia et della loro avarizia vicendevolmente si riscontrava, et
+l'uno il mettea nell'altro, ci@o @e egli pigliava la natura del
+serpente, et il serpente la sua: et ancora, ad altro
+intendimento, egli era cupido dell'altrui et per natura et per
+volont@a: et questo @e l'uno fummo et l'altro.
+
+	|94-96.  Taccia Lucano omai~: Dice l'Auttore che Lucano
+et Ovidio si taccino delle loro trasformazioni, et attendano alla
+sua, che fia maggiore che la loro.  Pone che Ovidio et gli altri
+poeti hanno nelle loro poes$ie descritto come uno uomo si converte
+in fonte o in uccello, et fanno trasformare la forma nella
+materia, o la materia nella forma; ma l'Auttore trasforma l'una
+et l'altra; ch'egli fa d'uno uomo diventare serpente, et di
+quello uomo diventato serpente il fa altra volta diventare uomo. 
+Ovidio, come appresso si dir@a, fa bene d'una giovane diventare
+una fonte, ma della fonte diventare poi donna non fa elli in
+veruno luogo.  |Del misero Sabello~: Scrive Lucano nel IX libro,
+che, giunto Catone ne' diserti di Libia co' Pompeani, come @e
+stato narrato innanzi, dove ha grandissima quantit@a di serpenti
+et d'animali velenosi, molti de' suoi, trafitti da questi animali
+velenosi, vi morirono; et fra gli altri Sabello compagno di
+Catone, di che fa menzione l'Auttore: dice che la morte era
+innanzi agli occhi suoi, et uno picciolo animale fatto a modo
+d'uno ramarro, chiamato ^Seps~, in prima il punse nella gamba, et
+poi col minace dente gli spicc@o la mano dalla lancia et ficcolla
+nella rena: la piaga che rimase nella gamba di Sabello venne
+aprendendosi, come fa il male del cancro, et ardendo per le carni
+sue a poco a poco, et struggevalo come Austro (quello vento) fa
+la neve, o il sole strugge la cera; et cadevono a terra le sue
+carni: et poi che fu arsa tutta la carne, essendo morto, arsono a
+poco a poco l'ossa, et cos@i sventuratamente ivi fin@i sua vita. 
+|Et di Nassidio~: Scrive ancora Lucano, in quello medesimo IX
+libro, che uno tondo serpentello nome ^prester~, percosse
+Nassidio coltivatore de' campi marsi, et subito uno rossore
+focoso gli accese la faccia, et gonfi@o la pelle, per modo ch'egli
+perd@e la figura, n@e non parea uomo, per@o che ogni cosa avea
+mescolata l'enfiatura et passato il modo umano; et sopra tutte le
+membra usc$ia et correa la puzza che ven$ia dalle sue carni,
+facendola stillare il veleno, et al tutto la ferita era nascosa
+et coperta dallo enfiamento, n@e la lorica n@e la sua vesta nol
+pot@e contenere crescendo il corpo: n@e la schiuma quando bolle la
+caldaja non si lieva tanto alto, n@e le vele delle navi gonfiate
+da quel vento chiamato Coro non fanno s@i gran seno, quanto
+Nassidio crebbe.  Ancora, poi ch'elli fu morto, et i suoi nollo
+ardirono a sepellire, spauriti di toccarlo et di vederlo: et ivi
+il lasciorono senza sepoltura.
+
+	|97-99.  Taccia di Cadmo~: Come scrive Ovidio nel IV
+libro del ^Metamorfoseos~ cominciando: ^Nescit Agenorides~ etc.,
+poi che per l'ira di Junone moglie di Giove, la quale per Semele
+era adirata, come innanzi pi@u distesamente si toccher@a in quel
+capitolo XXX: ^Nel tempo che Junone~ etc., Cadmo, figliuolo
+d'Agenore re di Tebe, poi che Atamante, figliuolo d'Eolo suo
+genero, impazz@o per l'ira di Junone, et prese la moglie,
+figliuola di Cadmo, credendo ch'ella fosse una leonessa; et
+avendo costei due suoi figliuoli seco, credendo ch'egliono
+fossono leoncini, ci@o @e Learco et Melicerta; et Atamante, preso
+Learco, percosselo a uno sasso et ucciselo; et la moglie s'affog@o
+coll'altro figliuolo.  Brevemente, per queste et per altre assai
+disavventure che avvennono a Cadmo, egli et Ermione sua moglie si
+part@i da Tebe, credendo che la citt@a gli fosse cagione delle sue
+disavventure, come scrive Ovidio ivi medesimo.  Et essendo Cadmo
+molto vecchio, et per li casi fuori della sua citt@a sventurato,
+ricordandosi, come scrive Ovidio nel preallegato libro, che,
+avendo Cadmo, mentre visse re in Tebe, mandati suoi servi a una
+fonte per acqua, togliendo di questa acqua colle mezzine, furono
+subito trasformati et diventorono serpenti, venne Cadmo a
+vedergli maraviglioso del fatto: et riguardando uno suo servo
+fiso ch'era diventato serpente, ud@i una voce: ^Serpentem spectas,
+et tu spectabere serpens.~  Tu, dicea la voce, guardi il
+serpente, et tu sarai riguardato serpente.  Ora, ricordandosi
+Cadmo di questa promessa che gli avevono fatta gli Dii, per
+quella voce ch'egli ud@i, ^et tu spectabere serpens~, gli preg@o
+ch'egliono il facessono diventare serpente, come egliono aveono
+detto.  Fugli troppo bene attenuto, ch'egli divent@o serpente, et
+la moglie serpentessa.  La verit@a della fizione @e questa, come @e
+stato detto addirietro: egli invecchi@o tanto che gli convenne
+andare carponi per terra, come vanno i serpenti, et similmente la
+moglie.  |E d'Aretusia Ovidio~: Scrive ancora Ovidio in quel
+medesimo libro del ^Metamorfoseos~ che Alfeo d'Arcadia innamor@o
+d'una giovane di Cicilia, che avea nome Aretusia, bellissima
+giovane.  Innamorato d'Aretusia, la segu$ia, com'@e di consuetudine
+degli amanti; et come dice ella medesima, per ch'io era ignuda,
+il faceo pi@u ardere nel suo desiderio: ^Et quia nuda fui, sum
+visa paratior illi~; io gli parea pi@u apparecchiata, perch'io era
+ignuda, il facea pi@u ardere nel suo desiderio.  Ultimamente
+costei, fuggendogli inanzi, et non volendo consentire a lui, si
+convert@i et trasmutossi in una fontana.  Alfeo, come prima avea
+amata Aretusa in forma umana, l'am@o fatta fontana; et per esser
+conforme a lei in ogni cosa, lasci@o la forma dell'uomo, et fu
+convertito in fiume, et @e quel fiume ch'@e in Arcadia, che ancora
+ama Aretusa, che @e una fontana in Cicilia.  La verit@a di questa
+fizione @e che Alfeo @e uno fiume in Arcadia, et corre per pi@u
+spazio per quello paese d'Arcadia; et poi, senza mettere in mare,
+ricovera et entra sotto terra, et dove poi si capiti non si sa:
+ma @e maravigliosa cosa che, essendo uno braccio di mare da
+Cicilia a Arcadia, et intorno intorno a Cicilia @e mare, per@o ch'@e
+isola, et ha parecchie centinaja di miglia dall'uno paese
+all'altro, dicono molti che assai volte s'@e trovato che s'@e
+gettato uno legno, o un'altra cosa, in questo fiume d'Arcadia, et
+@essi poi veduto in questo lago d'Aretusa, per che si comprende
+che Alfeo quel fiume capiti in Aretusa: et questo sentono i poeti
+in queste loro fizioni.  Et in quel paese d'Arcadia presso a
+questo fiume @e una citt@a ch'@a nome Pisa, dalla quale ebbe origine
+et nome questa Pisa che @e in Toscana; onde Virgilio
+nell'^Eneida~: ^Alphea ab origine Pisae urbs~; et declinasi
+quella Pisa d'Arcadia in singulari, et questa in plurali numero. 
+|Poetando~: Fanno i poeti queste loro fizioni per dilettare et
+trarre a s@e colla dolcezza delle pulite parole l'animo
+dell'uditore; et non muovono per le favole la verit@a del luogo
+suo; ma mutando l'adornono colle loro fizioni; ch@e, come dice il
+Petrarca: L'ufficio de' poeti @e questo, che le storie che sono
+vere non rimuovono; ma quelle rivolte con oblique figurazioni,
+con bello et addorno modo di parole in altra forma traducono.
+
+	|100-102.  Che due nature mai~: Chiaro appare per quello
+ch'@e detto, che mai veruno poeta non fece simile trasmutazione.
+
+	|103.  Insieme si risposero~: Chiaro appare.  |A tai
+norme~: Norma, ci@o @e regola.
+
+	|104-105.  Che 'l serpente la coda in forca~: Qui
+l'Auttore discrive poeticamente et maravigliosamento come il
+serpente prese forma d'uomo, et l'uomo divent@o serpente, a poco a
+poco vicendevolmente trasmutandosi l'uno et l'altro; et comincia
+et dice che 'l serpente fesse la coda sua, et di quella ch'@e una
+intera, fessa che fu, se ne fe' due gambe di uomo.  |E 'l feruto
+si strinse~: Messer Buoso, che fu ferito nel bellico, com'@e
+detto, ristrinse l'orme, ci@o @e i piedi et le gambe, et fessene
+una coda di serpente.
+
+	|106-108.  Le gambe colle cosce~: Le gambe et le coscie
+feceno una giuntura insieme che appena si vedea la congiuntura.
+
+	|109-111.  Togliea la coda fessa la figura~: La figura
+che si perdea, ci@o @e l'uomo, che avea per gambe la coda fessa,
+togliea la figura del serpente et perdea la sua umana.  |Et la
+sua pelle si facea molle~: Ci@o @e la pelle del serpente si facea
+molle, ci@o @e morbida, come quella dell'uomo (^molle~ in
+grammatica @e detto morbido).  |Et quella di l@a dura~: Et quella
+pelle dell'uomo si facea dura come era quella del serpente.
+
+	|112-114.  Io vidi entrar le braccia per l'ascelle~: 
+Ascelle sono gli omeri.  Dice che le braccia dell'uomo, perch@e
+sono troppo lunghe a fare gambe di serpente, tornorono negli
+omeri; e' due piedi del serpente, ch'erono corti a fare le
+braccia dell'uomo, tanto allungorono quanto quelle dell'uomo
+accorciorono.
+
+	|115-117.  Poscia gli pi@e di rietro~: I piedi di rietro
+del serpente si giunsono insieme, et diventorono il membro
+genitale dell'uomo; e 'l membro genitale se ne fe' due gambe di
+serpente.
+
+	|118-121.  Mentre che 'l fummo~: Il fumo che usc$ia della
+piaga dell'uomo et della bocca del serpente copr$ia et l'uno et
+l'altro, et in quel coprimento del fumo il pelo dell'uomo
+s'appiccava al serpente che si facea uomo, et la pelle del
+serpente, ch'@e senza peli, s'appiccava all'uomo.  |L'un si lev@o
+et l'altro cadde giuso~: Ci@o @e l'uomo, diventato serpente, cadde
+in terra per andare come vanno i serpenti; e 'l serpente fatto
+uomo si lev@o ritto.
+
+	|122-123.  Non torcendo per@o le lucerne empie~: Ci@o @e,
+bene che diventasse uomo, non mut@o gli occhi serpentini; et la
+cagione @e che, per questi occhi, si vuole dare a intendere la
+intenzione et gli occhi della mente; ch@e, bench'egli lasciassi
+l'operazione del ladro et commettesse l'ufficio a uno altro, egli
+per@o non lasciava il pensiero, ch@e avea ancora intendimento di
+ritornare al furto.  |Sotto le quai ciascun~: Ciascuno cambiava
+muso, ci@o @e faccia: ch@e la faccia dell'uomo diven$ia muso di
+serpente, e 'l muso del serpente diven$ia faccia d'uomo.
+
+	|124-126.  Quel ch'era dritto~: Ci@o @e il muso del
+serpente torn@o addirietro, faccendosi piano come la faccia
+dell'uomo, et di quella lunghezza che avanz@o del muso che torn@o
+in dirietro, si feciono gli orecchi: ci@o che non corse in
+dirietro, ci@o @e il muso del serpente, torn@o addirietro faccendosi
+piano come la faccia dell'uomo; et di quella lunghezza, che
+avanz@o del muso che torna in dirietro, si feciono gli orecchi.
+
+	|127-129.  Ci@o che non corse in dietro~: Per che il muso
+del serpente era s@i lungo che, fatti di quella lunghezza ancora
+gli orecchi dell'uomo, n'avanz@o materia; et di quello avanzo se
+ne f@e il naso alla faccia dell'uomo.  |Et le labbra ingross@o~: Et
+le labbra del serpente, per farsi labbra umane, ingrossarono
+quanto si conviene a faccia et alle labbra dell'uomo.
+
+	|130-132.  Quel che giacea~: Ci@o @e quelli che, essendo
+stato uomo, giacea et era fatto serpente, del viso suo, ch'era
+piano, il cacci@o innanzi, et fecene muso di serpente; et gli
+orecchi d'uomo ritira dentro nella testa come ha il serpente. 
+|Le corna la lumaccia~: Come ritira la lumaca le sue corna in
+dentro quando altri la tocca.
+
+	|133-135.  Et la lingua che avea~: Ci@o @e la lingua
+d'uomo, ch'era prima presta a parlare, si fesse per farsi lingua
+di serpente, che si dice averne due.  |Et la forcuta nell'altro~:
+La lingua del serpente, ch'era forcuta, di due rami, si raggiunse
+insieme in uno ramo, et fessi lingua d'uomo, ch'@e d'uno solo
+pezzo.  |E il fummo resta~: Fatta questa trasmutazione, il fummo
+s@i si acchet@o, ci@o @e il fummo dell'avarizia, com'@e detto, et
+della oscurit@a del furare.
+
+	|136-138.  L'anima ch'era fera~: Ci@o @e quelli che,
+essendo stato uomo, divenne serpente, si fugg@i per la valle non
+parlando pi@u come uomo, ma zufolava come serpente, per@o che 'l
+serpente non ha voce: la cagione @e per che la lingua salda gli
+manca, ch'@e una pala dell'aria, la quale aria manda allo
+struzz@ule, et poi riverbera ne' denti principali dinanzi,
+percossa dalla punta della lingua ne' detti denti, et quindi si
+forma la voce.  |Et l'altro dietro a lui~: Ci@o @e quelli ch'era
+fatto uomo quasi per scherno sputava dirietro al serpente; et
+ancora @e quello atto d'uomo, ci@o @e lo sputare, et non atto di
+serpente.
+
+	|139-141.  Le novelle spalle~: Ci@o @e le spalle mutate di
+serpente in uomo; et disse al compagno: Io voglio che Buoso, ch'@e
+fatto serpente, corra carpone come ho fatto io.
+
+	|142-144.  Cos@i vid'io la settima zavorra~: Ci@o @e la
+settima bolgia, trasmutarsi.  |Et qui mi scusi~: Ci@o @e, se io non
+ho detto il fatto pienamente, et non ho l'effetto vestito bene
+colle parole come si conviene, scusimi la novit@a, che non ho
+potuto parlare chiaro come si converrebbe.
+
+	|147-148.  Non poter quei fuggirsi~: Non poterono tanto
+chiudersi che io non conoscessi che l'uno era messer Buoso
+Donati, et l'altro Puccio Sciancato da Firenze, e l'altro messer
+Francesco chiamato messer Guercio de' Cavalcanti.  |Che tu,
+Gaville, piagni~: Questi @e il detto messer Francesco Cavalcanti,
+che fu morto da certi uomini da Gaville, ch'@e una villa nel Val
+d'Arno di sopra nel contado di Firenze, per la qual morte i
+consorti di messer Francesco molti di quelli da Gaville uccisono
+et disfeciono; et per@o dice l'Auttore che per lui quella villa
+ancor ne piagne, et per le accuse et testimonianze et
+condennagioni et uccisioni di loro, che per quella cagione ne
+seguitorono, che bene piangono ancora la morte di messer
+Francesco, del quale dice l'Auttore che di serpente divent@o uomo.

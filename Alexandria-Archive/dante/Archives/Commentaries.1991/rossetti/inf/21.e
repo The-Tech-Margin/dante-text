@@ -1,0 +1,477 @@
+|INFERNO CANTO 21~
+
+	|Introduzione.~  Poich@e Dante per trama de' suoi nemici
+fu espulso con altri da Firenze, <occasione barattariarum, quod
+barattarias fecit>, come dicono cognitissime sentenze tuttora
+stanti, vag@o esule per qualche tempo, temendo pur d'approssimarsi
+a quelle mura donde i suoi concittadini gli si sarebbero
+scagliati addosso come tanti cani stizziti.  Cos@i fral desio di
+tornare al natio nido, e 'l timore di esser punito qual vil
+barattiere, ei si andava affannoso aggirando; quando ai 2 di
+Marzo del 1303 il Cardinal da Prato, mosso dal santo volere
+dell'ottimo Benedetto XI, e pi@u dalla propria piet@a per tanti
+infelici fuorusciti, si rec@o a Firenze per adoperarsi a farli
+col@a rientrare; come quegli <ch'era di progenie Ghibellina, e
+molto i Ghibellini favoreggi@o>, Gio. Villani, VIII, 69.  Alcuni
+Bianchi vennero poi per suo consiglio sino a Trespiano, poco
+lungi dalla citt@a, per tenersi ivi celati e pronti a rientrare,
+come tutto fosse ben disposto.  Era allor podest@a Manno Branca, e
+Jacopo Ricci, gonfaloniere di giustizia: ed @e da notare che nel
+magistrato di costui ai sei soliti priori se ne aggiunsero
+altrettanti, eletti due per Sesto, talch@e furono poi 12 per molti
+mesi; e fra i primi di essi all'ingresso del Cardinale, furono
+Massajo de' Raffacani, Medico Aliotti con altri 10.  Il Porporato
+al suo accedere alla citt@a, cerc@o abboccarsi coi capi di parte
+Nera; e <come fu in Firenze, in pubblico sermone mostr@o i
+privilegi della sua legazione, e dispose il suo intendimento,
+ch'avea per comandamento del Papa, di pacificare i cittadini
+insieme>, Villani, ivi.  Onde <Messer Corso fu chiamato capitano
+di parte.  Ciascuno favoreggiava il Cardinale, ed ei tanto gli
+umili@o con dolci parole, che gli lasciarono chiamare i sindachi
+Bianchi, per trattar della pace>.  <Messer Rosso della Tosa
+rimase con grande sdegno, per@o che troppo gli parve che la pace
+fosse ita innanzi>, (Dino Compagni, II): non ostante ci@o, si
+proced@e alle trattative.  Furono eletti a quest'uopo 12 sindaci
+di qua e 12 di l@a, per iniziar l'affare.  La storia non ci ha
+tramandati tutt'i nomi de' sindaci Neri; poich@e all'infuori de'
+due gi@a detti, cio@e Corso Donati e Rosso della Tosa non trovo
+rammentati se non Geri Spini, Pazzin de' Pazzi, Maruccio
+Cavalcanti e Betto Brunelleschi, i quali due ultimi, di Bianchi
+che pria furono, eran divenuti ferocissimi Neri.  Nel corso di
+queste iniziative, i Fiorentini vollero dare al Cardinale uno
+spettacolo bizzarrissimo, di cui pi@u storici ci han tramandata
+notizia.  Si mand@o bando che <Chi volesse sapere novelle
+dell'altro mondo dovesse essere in sul ponte alla Carraja, e
+d'intorno all'Arno>, in un d@i designato (Villani VIII, 70). 
+Venuto il giorno stabilito, si fece ivi <la somiglianza e la
+figura dello Inferno con fuochi ed altre pene e martorj, con
+uomini contraffatti a demonia, orribili a vedere, ed altri i
+quali avevano figure d'anime ignude; e metteangli in que' diversi
+tormenti con grandissime grida: la qual cosa parea odiosa e
+spaventevole a udire e vedere>.  Ma <il ponte pieno, e calcato di
+gente, cadde; onde molta vi anneg@o in Arno; s@i che il giuoco di
+beffe torn@o in vero> (Villani, cit.).  Poco diverso dal Villani
+lo Stefani scrive: <Una festa si fece in Firenze, la quale con
+bando fu gridata, che chi volesse andare a vedere le pene dello
+Inferno andasse ad Arno tral ponte della Carraja e quello di S.
+Trinita; e qui vi ebbero molti ordigni di palchi sopra l'acque. 
+Vi si facea fuochi e caldaje con acqua e con pece, e con ogni
+generazione di pena; ed uomini in forma di dimonj e in forma di
+anime.  Molti vennero a vedere; ed essendo il ponte di legname s@i
+carico di gente, per modo che non resse, chi v'era suso, o la
+maggior parte, caddero di su in gi@u nell'acqua e ne' fuochi; di
+che molta gente si guast@o e mor@i.  E cos@i andarono a vedere come
+son fatte le pene dell'Inferno>.  Infausto augurio!  Lo zelante
+Cardinale non riusc@i nella sua pietosa intrapresa: poch@e i
+sindaci della parte Nera eran pieni di mal talento, e Messer
+Corso, lor capo, ingannava indegnamente e il porporato fautore e
+la parte favorita; onde il Villani, per esprimere l'equivoco
+operare di quel fallace scrive: <Corso Donati si stava in mezzo>. 
+Per cui <i Bianchi vedendo i dubbiosi sembianti de' loro
+avversarj, e le parole che usavano, si partirono>.  Il Cardinale
+rimase, <ma quelli, che volentieri non lo vedeano, feciono
+sembiante di offenderlo.  I contrarj non volendo lasciare pi@u
+abbarbicare la pace feciono tanto con false parole che rimossono
+il Cardinale da Firenze; e tanto con false parole il mossono che
+si part@i>.  Cos@i il Compagni al cit. loco; e pi@u chiaramente
+altrove: <Onde temendo si part@i lasciando la terra in male stato;
+e tanto si accesono gli animi che la gente si arm@o, e cominciossi
+ad offendere>.  Paolin di Piero poi soggiunge che <quasi in fuga
+se n'and@o>: lasciando la citt@a in dissenzioni ed in due divisa,
+sino al punto che <quelle due parti combattendo insieme... s'arse
+il decimo della terra; e ci@o fu il d@i che il Cardinale se n'era
+ito>.  Una delle malizie dai perversi usata quella si fu
+d'indicar come via di facile riuscita quella appunto che menava
+alla ruina: talch@e intendendosela fra loro aggirarono il
+Cardinale per varie parti, e credulo lo menarono di qua e di l@a,
+senza ch'egli se ne avvedesse.  A ci@o parmi che mirino alcuni
+versi del fervido Ghibellino, Francesco Barberini: <Convien
+guardarti forte, Quasi come da ^morte~, Da quel che non pregato
+Ti vuol menar da lato: Dice, questa @e la via, E metteti in la
+ria.  E vie pi@u di coloro Che talvolta fra loro Fanno ^cenni~ o
+^sogghigni~, O lor guardi ^lupigni~>.  I principali autori di
+queste ribalderie furono que' dodici sindici Neri, che furon poi
+chiamati a render conto de' loro inganni al veramente santo
+Pontefice, per istanza del Cardinale schernito e deluso.  Or,
+s'io non sogno, s@i in questo che nel seguente canto @e accennato
+tutto ci@o.  Qui si puniscono barattieri, e Dante di baratteria
+accusato teme accostarsi; anzi al venire d'un ^Diavol Nero~,
+Virgilio, gridandogli ^guarda guarda~, il trasse a s@e; ed ei si
+volse come l'uom cui tarda di veder quel che gli convien fuggire,
+e cui paura subita sgagliarda {23-27}.  Virgilio lo fa nascondere
+dietro uno scheggio, e il Cardinale f@e celare i Bianchi a
+Trespiano.  Virgilio si f@e innanzi chiedendo di essere udito da
+un lor capo; e tutti disser, vada Malacoda; e il Cardinale
+arrivando fece lo stesso, per cui <Messer Corso fu chiamato
+capitano di parte>.  Virgilio f@e un'allocuzione, esponendo di
+esser venuto per voler divino, onde al demonio fu l'orgoglio s@i
+caduto {79-87}; e il Cardinale <in pubblico sermone mostr@o i
+privilegj della sua legazione> ai Fiorentini, e qual fosse <il
+santo voler del Papa>, onde <gli umili@o con dolci parole>. 
+Virgilio disse a Dante: ^Sicuramente omai a me ti riedi~ {90}; e
+il Cardinale fece rientrare in sicurt@a i Bianchi per trattar di
+pace.  Dante si accost@o, e i diavoli gli si fecer tutti avanti,
+s@i che tem@e che non tenesser patto; e i Bianchi rientrati videro
+<dubbiosi sembianti> ne' loro avversarj.  I demonj chinando i
+raffi diceansi fra loro: vuoi ch'io il tocchi in sul groppone? 
+ed altri rispondeano: ^s@i, fa che glie l'accocchi~ {102}; e que'
+maligni <che volentieri non vedeano il Cardinale feciono
+sembiante di offenderlo>.  E il fallace ordine dato da Malacoda
+per farli andare a perdizione; e i cenni che i demonj si facean
+fra loro onde straziarli; e la loro caduta nel lago di pece; e la
+fuga di Virgilio e di Dante per iscampare da s@i fieri nemici; e
+il litigio rabbioso in cui lasceranno gli spiriti neri; tutto
+vedremo conformarsi a puntino ne' due canti con la condotta
+fallace di Corso, con le versipellerie de' sindachi, con la
+caduta de' Fiorentini nell'Arno per lo spettacolo del finto
+Inferno, con la fugga de' Bianchi col Cardinale, e con le zuffe
+in cui lasciarono que' dissenzienti cittadini, <il d@i che il
+Cardinale se n'era ito>.  N@e mancher@o di osservare che a questa
+impresa s@i mal riuscita alluse chiaramente il poeta l@a dove
+Farinata gli predisse che non sarebbero passati 50 mesi, ed egli
+avrebbe saputo per esperienza quanto era difficile l'arte del
+ritornare; poich@e dall'aprile 1300, in cui finse aver cominciato
+il suo viaggio, sino al giugno del 1304, in cui si part@i il
+Cardinale da Firenze, corsero alcuni giorni meno di 50 mesi.  E
+il poeta a mostrare l'irrequieto genio della sua patria si serv@i
+di quel significante modo col quale la disse regolata dalla Luna:
+^Ma non cinquanta volte fia raccesa La faccia della donna che qui
+regge Che tu saprai quanto quell'arte pesa~ {^If~ X 79-81}.  E
+vedremo in miglior luogo qual significato profondo, e dir@o anche
+qual maliziosissimo concetto, in s@e contenga quella frase, che
+sembra l@i gettata a caso, ^la donna che qui regge.~  Parmi poi
+assai probabile che il diavol nero il quale porta a cavalcioni
+sull'omero l'Anziano di Santa Zita, e poi lo getta dal ponte nel
+lago di pece, con tutti quegli scherni che gli altri diavoli
+sotto il ponte fanno a quel barattiere {34-54}, adombri una delle
+acene rappresentate presso al ponte della Carraja, dove si f@e <la
+figura dell'Inferno>, e si posero <caldaje con acqua e con pece,
+ed uomini in forma di demonj e in forma d'anime> ecc.  E perci@o
+Dante scrisse ^il nostro ponte~; un Fiorentino potea ben chiamar
+^nostro~ quello che figurava il ponte <della Carraja di Firenze>. 
+Se il Daniello, il Venturi e 'l Lombardi avesser capita l'astuzia
+si sarebber dispensati di far cicaleccio e piato su quel ^nostro
+ponte.~  Ed alle <caldaje> piene di pece ove fingevasi d'immerger
+i dannati in quella strana farsa, allude il paragone nel quale @e
+detto che il barattiere @e tuffato nella pece, come i cuochi fanno
+attuffare in mezzo alla ^caldaja~ la carne con gli uncini
+{55-57}.  Non dissimile commediuola credo adombrata nello strazio
+di certo barattiere Navarrese che vedremo nel canto seguente:
+scena trucemente comica!  Rifletteremo per ultimo che, volendo
+spargere di ridicolo i suoi nemici, ei ripigli@o in questo c. e
+pi@u nel seg., lo stil comico; come chiaramente addimostrano gli
+scherzevoli o schernevoli motti e le pitture bizzare e grottesche
+che vi and@o seminando; al che di@e forse anche origine quella
+commedia infernal finita in tragedia terrestre che si rappresent@o
+sull'Arno.  Il diavol Nero che serve di cavalcatura all'Anziano
+di Santa Zita, gridando dal ponte: ^mettetel sotto, ch'io torno
+per anche a quella terra che n'@e ben fornita~, con quel che
+segue: il ^tornar su convolto~ di quel misero; i motteggi ^qui
+non ha luogo il Santo Volto; qui si nuota altrimenti che nel
+Serchio; coverto convien che qui balli, s@i che se puoi
+nascosamente accaffi~; la somiglianza de' cuochi che fan dai
+guatteri attuffar con gli uncini la carne nella caldaja; e il
+^vuoi ch'io il tocchi in sul groppone?~ col ^s@i, fa che glie
+l'accocchi~; e ^del no per li denar vi si fa ita~; e ^se alcun se
+ne sciorina~, e ^li lessi dolenti~, e ^la lingua stretta per
+cenno~, e il ^digrignar de' denti~ ed altri lo dicono abbastanza;
+ma pi@u che tutto, quello stravagante strumentaccio, che puzza pi@u
+di lazzaresco che di diabolico, da cui la marcia de' dieci prende
+auspizio e principio, ci mostra ch'ei, svillaneggiando que'
+Priori e Sindaci, non li giudic@o degni di miglior trombetta che
+questa s@i strana cennamella, nel loro magistral procedere.
+
+	|1-3.~  ^S@i parlava ed andavamo introcque~, ultimo verso
+preced.  Dunque, da quello a questo ponte passando, ivan parlando
+di quegl'Indovini e di quella Luna che dicemmo; e quantunque la
+|Commedia~ sua non curi di cantarlo, noi possiamo di leggieri
+arguirlo.
+
+	|4-6.~  Tenevano i due viatori il colmo del quinto arco,
+quando si ristettero per vedere l'altra circolar cavit@a
+(|fessura~) di Malebolge, e gli altri pianti de' dannati, pianti
+vani, perch@e <in Inferno nulla est redemptio>; e Dante vide
+questa bolgia esser |mirabilmente oscura~, perch@e qui son puniti
+i barattieri, venditori o compratori della giustizia, anime cupe
+per profonda malizia.
+
+	|10-15.  Navicar non ponno, e in quella vece~: in vece di
+navigare.  |Terzeruolo~, la minor vela; |artimone~, la maggiore.
+
+	|16-18.~  Aver la pece alle mani, aver le mani impeciate,
+o le mani sporche, son frasi comuni con cui indichiamo un
+magistrato venale che afferra denari.  Per ^pece~ intenderemo
+dunque lo stesso peccato della baratteria che <fixit leges
+precio> (Virg.).  I mercatanti di giustizia operano sempre di
+soppiatto; ma facciano pur quanto sanno, denigrati pur ne
+rimangono, allorch@e sono scoverti.  Attendiamoci perci@o che
+costoro sien tutti nascosti sotto il simbolo del loro peccato; e
+attendiamoci di vederneli emergere tutti neri di quello.  Non pu@o
+essere a meno che chi tocca tal pece non se ne deturpi: <Qui
+tetigit picem coinquinabitur ab ea>: Salom.  Dante consacrer@a a
+questo vizio due canti, poich@e pare che a' tempi suoi potesse
+ripetersi: <Ergo judicium nihil est nisi publica merces>, Petr.
+Arb.; <Non bene selecti judicis arca patet>, Ovid.
+
+	|19-21.~  Dante vedeva la pece (|lei~), ma in essa non
+vedeva altro fuor che (ma che) le bolle che l'interno bollore
+faceva sollevare; e vedeala levarsi tutta in ampie gonfiature,
+allo scoppiar delle quali compressa risedea.
+
+	|27-28.  Cui paura subita sgagliarda~: cui subitanea
+paura scema forza e gagliardia: <Vires subtrahit ipse timor>,
+Ovid.  |Che, per veder, non indugia il partire~: che, per veder
+che faccia, non tralascia di fuggire; o sia, che, quantunque si
+volga a mirare ci@o ch'evitar conviensi, pure non si arresta in
+quello sguardo, ma guarda e fugge.
+
+	|34-36.~  Cio@e, un peccatore con ambo le sue anche
+caricava e premea l'omero del diavolo ch'era acuminato e
+sollevato per superbia di ricca preda; e quella brutta bestia gli
+tenea ghermito con quelle unghiacce uncinate il collo del piede:
+o sia, un peccatore era a cavalcioni sull'omero d'un diavolo, che
+lo tenea strettamente afferrato pei piedi.
+
+	|37-42.~  Quel diavolo nero, giunto col nuovo carico,
+dall'alto del ponte, ov'erano i due poeti, disse ai compagni
+ch'eran sotto: |O Malebranche, ecco uno degli Anziani di Santa
+Zita~ (magistrato di Lucca); mettetelo sotto la pece, ch'io torno
+per anche prenderne a quella terra che n'@e ben fornita: ogni uomo
+v'@e barattiere, fuorch@e Buonturo (il peggior barattiere di quel
+collegio, ironia): ivi, pei denari, del no si fa subito <ita est,
+ita testor, ita exequatur>.  |Del nostro ponte disse~: cos@i
+altrove, ^un ch'era da nostra proda~ (^If~ XXIV 97) cio@e dal
+ponte ov'eravamo, dalla proda ov'eravamo.
+
+	|43-45.~  Disse e butt@o lo spirito laggi@u, e si volse poi
+indietro per lo scoglioso ponte; e mai non fu mastino sciolto dal
+guinzaglio, che andasse con tanta fretta a seguitare il ladro,
+come frettoloso ei corse in cerca d'un nuovo barattiere.
+
+	|46-51.~  Quello spirito scagliato si attuff@o nella pece,
+e poi torn@o a galla convolto con la faccia sotto (^in arcum
+convolutus~, lat.), come pongonsi i devoti innanzi alle immagini. 
+Ma i demonj, cui il ponte facea tetto, gridarono per ischernirlo:
+Che adori tu?  |Qui non ha luogo il Santo Volto~ (reliquia famosa
+in Lucca).  Che se intendi notare, qui si nuota altrimenti che
+nel tuo Serchio natio: per@o se tu non vuoi assaggiare de' nostri
+graffi non far prominenza sulla pegola, con mostrare il dorso.
+
+	|52-57.~  Poich@e (|poi~) l'addentarono con pi@u di cento
+raffi, gli dissero: Conviene che in questa nuova danza tu balli
+coverto, sicch@e fa il tuo mestiere se puoi, ma uopo @e che accaffi
+nascosamente.  Quindi lo rimmersero nel lago.  Non altrimenti i
+cuochi fanno dai lor sottoposti attuffare con gli uncini la carne
+in mezzo alla caldaja, perch@e non galleggi.  Si crede che quel
+venale magistrato Lucchese sia Martin Bottajo.
+
+	|58-66.~  Il buon maestro disse al discepolo; |Acciocch@e
+non si paja che tu~ sii qui, acquattati dietro una scheggia del
+ponte scoglioso, affinch@e ti abbia (|t'aia~) alcuno schermo e
+riparo.  E, per qualunque offensione ch'a me sia fatta, non temer
+tu, ch@e queste cose mi son cognite, perch@e fui altra volta a tal
+briga (|baratta~).  Poscia ei pass@o di l@a dal capo del ponte, e,
+com'ei fu alla sesta circolar muraglia, gli fu mestiere di aver
+fronte sicura e fermo cuore.
+
+	|67-75.  Con quel furore e con quella tempesta~ con che i
+cani escono e si scagliano addosso al poverello, il quale di
+subito chiede da lungi che alcun l'oda l@a ove per tema s'arresta,
+cos@i uscirono quei demonj di sotto al ponticello, e volser contro
+lui tutt'i roncigli; ma ei discosto grid@o: nessun di voi mi sia
+infesto e nocivo.  Innanzi ecc.  Sogliono i cani avere a dispetto
+ogn'uomo di povera paruta, ed escono dalle case per morderlo,
+anche allora che quei vi va per faccenda.  Virgilio andava per
+parlare al capo di questa bolgia e i demonj gli corsero incontro:
+ecco quindi le due parti del paragone.  Virgilio, alla vista de'
+demonj che gli van contro si ferma; e l@a dove s'arresta di subito
+chiede che alcuno l'oda.  Il poverello alla vista de' cani si
+ferma e l@a dove s'arresta di subito chiama perch@e alcun l'oda. 
+Dunque quel |di subito chiede ove s'arresta~ @e chiaro.  E pi@u
+chiaro diverr@a se si riflette che Virgilio si arrest@o da lungi
+per paura dei diavoli, dicendo verso la bolgia: traggasi avanti
+alcun che m'oda.  Onde l'altro lato del paragone porta seco che
+il poverello, dal luogo ove s'arresta per paura de' cani, gridi
+anch'egli verso la casa, cui non osa accostarsi: traggasi avanti
+alcuno che m'oda.
+
+	|78.  approda~: Pari alla frase: Qual vento ti ha fatto
+qui approdare?  cio@e, qual uopo ti spinge, qual cagion ti mena?
+
+	|79-87.~  ^Malebolge~, ^Malebranche~, |Malacoda~ sono in
+relazione.  E se rammentiamo che la personificata Frode ebbe
+^branche pelose~ e ^coda velenosa~, tosto vedremo che le
+^Malebranche~ son figure delle mani avide, e |Malacoda~ @e figura
+dell'inganno maligno, che le mette in moto: egli @e dunque il
+peggiore di tutti questi diavoli, e il pi@u ingannevole, poich@e
+nella frode <la coda @e la pi@u dura a scorticare>; e vedremo qual
+ei sia.  Il maestro allor disse: |Credi tu, Malacoda~, vedermi
+esser venuto sin qui, sicuro ed illeso gi@a da tutte le vostre
+offensioni, senza voler divino e propizio fato?  Lasciami andare,
+perch@e @e voluto nel cielo ch'io mostri altrui questo orrendo
+cammino.  Allora al demonio fu cos@i depresso l'orgoglio, che si
+lasci@o cascare l'uncino ai piedi, e disse agli altri: omai non
+sia ferito ed offeso.
+
+	|88-96.~  E il duca, volgendosi verso il celato Dante,
+disse a voce alta: |O tu che siedi fra gli scheggioni del ponte
+quatto quatto~, riediti omai sicuramente a me.  Per cui Dante si
+mosse, e ratto a lui venne; e i diavoli si fecer tutti avanti a
+lui, talch@e egli tem@e che non tenessero patto.  Ricordiamoci che
+Dante da giovine fu all'assedio di Caprona: vedi la ^Vita.~ 
+|Quatto quatto~, forse da ^coactus coactus~ lat. stretto stretto.
+
+	|97-105.~  Dante tutto tremante s'accost@o al suo duca con
+tutta la persona, e intanto per vigilare i moti de' demonj, onde
+schivarne le offese, non torceva gli occhi dalla sembianza loro
+ch'era tutt'altro che buona.  Essi chinavan minacciosi i raffi, e
+l'uno diceva all'altro sommessamente: Vuoi ch'io il tocchi in sul
+groppone?  E gli altri rispondeano: |S@i, fa che glie l'accocchi.~ 
+Ma quel demonio che tenea serio discorso col duca, se n'accorse,
+e, voltosi tutto presto, disse: |Posa, posa, Scarmiglione.~
+
+	|106-111.~  Poi disse ai poeti: Non si potr@a da voi andar
+pi@u oltre per questa catena di scogli su cui veniste, perocch@e il
+suo sesto arco giace tutto spezzato al fondo della bolgia ove
+cadde.  E se pur vi piace l'andare avanti, andatevene su montando
+per questa pendente parete (grotta), perch@e qui presso @e un altro
+seguito di scogliosi ponti che tutta intera fa via.  Bugia degna
+di Malacoda!  Che |grotta~ venga usata da Dante in senso di
+muraglia, o fianco di rupe, lo vedremo pi@u volte.
+
+	|112-114.~  Dalla incarnazione alla morte del Verbo, anni
+34; pi@u 1266; eguali a l300 anno di questo allegorico viaggio. 
+Si avverta che 1266 @e un anno dopo quello in cui Dante nacque:
+vedi la ^Vita.~  Il Salvatore spir@o <circa horam nonam> (Matt.)
+del Venerd@i Santo: qui si dice che son 5 ore innanzi a quella, ma
+nel d@i seguente; dunque il momento qui indicato @e precisamente
+l'ora quarta del Sabato Santo.  E perci@o dall'apertura del poema
+a questo punto (scorso tutto il Gioved@i e tutto il Venerd@i, ore
+48; pi@u ore 4 del Sabato) son passate ore 52.  Ricordiamoci che
+nel tremuoto accaduto nella morte di G. C. cadde la rupe de'
+violenti e il ponte de' fraudolenti, perch@e quel misfatto fu opra
+della violenza e della fraude.
+
+	|115-117.~  Malacoda segue a dire: Io mando verso l@a ove
+intendete andare, parte di questi miei, a riguardare se alcun
+dannato esca dal lago a sciorinarsi per minorar sua pena.  Gite
+pur con loro, ch'ei non saranno rei.  ^A're~ per ^aere~ si
+scrivea anticamente; onde ^sciorinare~ @e composto da scior-in
+a're; e qui vale sciorsi dalla pece ed uscir nell'aere per
+rinfrescarsi: etimologia mirabilmente semplice e giusta, dovuta
+al Ch. Monti.
+
+	|118-126.~  Indi cominci@o egli a dire: Tratti avanti,
+Alichino e Calcabrina, e tu, Cagnazzo, con loro; e Barbariccia
+guidi la decina, incluso lui.  Vegna oltre Libicocco e
+Draghignazzo, e Ciriatto sannuto, e Graffiacane, e Farfarello, e
+Rubicante pazzo.  Dico a voi tutti: Cercate intorno la bollente
+pece; costoro che vi affido sien guidati salvi insino all'altra
+catena di ponti, la quale va tutta intera sopra le bolge.  Odi
+malignit@a di un Malacoda!  La via ch'egli annunzia non v'@e per
+ombra; onde il dire: costoro sien salvi sino alla fila intera de'
+ponti, @e lo stesso che dar libert@a ai 10 diavoli di straziarli a
+lor talento.  Certo che questi fraudolenti non si volgeranno ^a
+destra~, come f@e Chirone nel dire a Nesso ^torna.~  |Pane~,
+panie, materie viscose, qui suona pece.  <Amorose pane> scrisse
+Boccaccio pi@u volte.
+
+	|118-123 {Nota Finale}.~  Io mi diceva altra volta:
+perch@e questi dieci diavoli in processione con quegli altri due
+di pi@u, Malacoda e Scarmiglione?  Che vuol dir questo numero di
+dodici?  E questi bizzarri nomacci onde se li cav@o mai Dante? 
+Esser pu@o mai ch'egli operasse s@i a caso?  Ma poi l'istoria mi
+conferm@o nell'idea ch'ei nulla mai scrisse senza una ragione, o
+manifesta se senza pericolo, o segreta se perigliosa.  Dodici in
+fatti sono i demonj, e dodici egualmente erano i Priori, quando
+il Cardinale entr@o in Firenze; dodici furono i Sindaci Neri,
+prima eletti a trattar con lui e coi Bianchi rientrati, e poi
+chiamati dal Papa a render conto del loro procedere.  Ed ho gran
+dubbio che quei nomi sieno parte alterazioni e storpiatura, e
+parte anagrammatici stravolgimenti de' nomi stessi de' Priori e
+de' Sindaci Neri; e forse che alcuno ritrae la figura di uno,
+alcun altro @e relativo a qualche uso o costume di un altro.  Il
+certo si @e che quegli stranissimi vocaboli non sono n@e bibblici,
+n@e cristiani, n@e mitologici, n@e diabolici; ese il dotto Dante
+avesse voluto battezzar demonj, senz'altra intenzione che questa,
+avrebbe usata nomenclatura tratta dalle sacre pagine, come f@e
+Milton; o n'avrebbe almeno impiegata una pi@u orrenda ed aspra che
+quella di |Calcabrina~, che par anzi gentile, e di |Alichino~,
+che sembra avere un non so che di Arlecchino; e questi sono i due
+primi che venner prescelti.  Il mio dubbio non sar@a creduto per
+avventura mal fondato, se ci ricordiamo che il Porporato entr@o in
+Firenze mentr'era podest@a ^Manno Branca~; onde que' magistrati, i
+quali eran sotto il reggimento di lui, divennero forse perci@o
+^Malebranche.~  Se rimembriamo che il gonfaloniere di giustizia,
+cio@e il caporale della citt@a, era ^Jacopo Ricci~, scorgeremo che
+il capo della banda diabolica pot@e cos@i cangiarsi in Barbariccia:
+|E Barbariccia guidi la decina.~  Se rammentiamo che uno de'
+Priori, mentre il Cardinale l@a era, fu un ^Raffacani~ conosceremo
+che questo nome ha potuto regalare all'Inferno il demonio
+|Graffiacane.~  |Rubicante Pazzo~ pu@o esser nato da ^Pazzin de'
+Pazzi~, che forse era rubicondo con crin rossigno: ma non oso
+dire che |Alichino~ sia surto da ^Aliotti~, altro Priore, poich@e
+ben poca @e la lor somiglianza di suono, e parmi che tal voce
+derivi dal ^chinar~ delle ^ali~, poich@e quel demonio nel canto
+seguente chiner@a sopra la pece ^l'ali.~  Posso egualmente
+supporre che avendo il poeta adombrato altrove ^Corso~ sotto il
+vocabolo ^Cerbero~, il quale al dir di Seneca ha un drago per
+coda (<Longusque tort#a sibilat caud#a draco>), cos@i ha potuto qui
+chiamarlo ^Malacoda.~  Creder posso, dietro i caratteri offertici
+dalla storia, che la facilit@a onde Betto Brunelleschi fieramente
+s'^indragava~ f@e che divenisse |Draghignazzo~; se pure non @e
+costui uno di quella ^Oltracotante schiatta che s'indraca~ {^Pd~
+XVI 115}.  Posso pensare che siccome Rosso della Tosa fu quegli
+che prima concep@i ^grande sdegno~ dell'entrata del Cardinale,
+egli sia lo ^Scarmiglione~ che voleva offender Virgilio
+nell'acceder che fece alla bolgia; e chi sa che quel vocabolo non
+dipingesse la ^scarmigliata~ capigliatura di colui.  Posso
+egualmente dubitare che siccome chiamer@a la brina ^immagine di
+sua sorella bianca~ {^If~ XXIV 5} (che vedremo significare la
+Parte Bianca) cos@i |Calcabrina~ voglia dire calpestatore di
+quella parte; e chi sa che non sia costui Maruccio Cavalcanti,
+ch'era stato gi@a Bianco, e poi calc@o indegnamente i suoi antichi
+amici.  Posso finalmente congetturare che dalle lunghe ^sanne
+porcine~, ch'un di quegli avea, sia derivato |Ciriatto sannuto~,
+poich@e ^Ciro~ in greco vuol dir porco, e |sannuto~ vi @e ben
+accoppiato; e chi sa che non sia Geri Spini.  E cos@i de' tre
+altri che rimangono dir potremmo, se non temessimo lo scherno de'
+beffardi, e non ci rammentassimo la pena che gl'indovini si
+attirano.  Avea ben ragione il poeta di dire (come tra poco
+udiremo): ^Io sapea gi@a di tutti quanti il nome, S@i li notai
+quando furono eletti~ {XXII 37-38}, poich@e par quasi sicuro che
+que' demonj sieno o que' Sindaci Neri, eletti a trattar coi
+Bianchi, o quei Priori, eletti allora, ch'ei ben conoscer dovea.
+
+	|127-135.~  Aveano i dieci diavoli compreso l'ordine
+ambiguo di Malacoda, e compiaciuti se la ghignavan fra loro,
+facendosi con feroce gioja de' cenni con gli occhi.  Dante se ne
+avvide e disse a Virgilio: Oim@e!  maestro, che @e quel ch'io
+veggio?  Deh, se tu sai ire, come dicesti andiamci soli senza
+scorta, ch'io per me non la chieggio.  Se tu sei ora s@i accorto
+com'esser suoli, non vedi tu ch'essi di soppiatto digrignano i
+denti, e, accennandosi fra loro con le ciglia ne minacciano
+strazj?  E Virgilio a Dante: Non voglio che tu paventi; ci@o @e
+indegno di un mio seguace.  Lasciali digrignar pure a lor senno;
+perch@e essi fanno ci@o per le anime tormentate nella pece bollente
+(|per li lessi dolenti~).  Questa risposta presenta il
+contrapposto tra Virgilio e Malacoda, tra la buona fede e la
+fraude.  |Se tu sai ir~ ha di mira il vanto datosi da Virgilio,
+^Ben so il cammin, per@o ti fa sicuro~: ^If~ IX.
+
+	|136-139.~  L'avea preveduto: diedero volta per l'argine
+|sinistro.~  Poveri poeti, se non fuggono!  E prima di porsi in
+marcia, ciascuno de' dieci ha stretta la lingua coi denti, per
+fare un cenno verso il loro caporale Barbariccia, volendo dire:
+or ora li conceremo pel d@i delle feste.  E quel capo furfante,
+per corrispondere allo scherno, ha intonata la marcia con un
+instrumento degno di lui.  Lo stringer la lingua coi denti @e
+vezzo da canaglia, con cui e sbirri e bari se la intendono fra
+loro, e con cui si sforzano di raffrenare il riso, eccitato
+dall'altrui semplicit@a.  Riguardo all'ultimo verso, che diremo? 
+<Ci@o ch'@e sozzo a fare @e inonesto a dire>: Isocrate condanna
+Dante; anzi Dante condanna s@e stesso: <Dice Tullio nel primo
+degli Officj: Null'atto @e laido che non sia laido quello
+nominare>, ^Convito.~  Ma il poeta avea una buona ragione per far
+marciare costoro al suono di s@i bizarra trombetta; e tosto la
+vedremo.

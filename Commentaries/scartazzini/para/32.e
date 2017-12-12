@@ -1,0 +1,1296 @@
+	|1-39.~  ^Il congegno della candida Rosa.~ 
+Affettuosamente fisso in Maria, amor suo, il contemplante S.
+Bernardo assume spontaneamente l'ufficio di ammaestrare il Poeta
+circa la disposizione de' Beati nel celeste consesso. 
+Quest'ordine col quale sono disposti i Beati, si rilever@a, meglio
+che da parole, dalla figura che poniamo sott'occhio allo studioso
+di Dante (vedi la tavola).
+
+	La Vergine Madre siede nel mezzo del supremo gradino;
+sotto di essa, disposte in fila le une di gradino in gradino
+sotto le altre, seggono Eva, poi Rachele, poi Sara, poi Rebecca,
+poi Rut, e cos@i di seguito altre donne ebree non nominate. 
+Queste donne formano come una linea di divisione fra la parte del
+Paradiso, occupata dai giusti dell'antico testamento e quella
+occupata dai giusti del nuovo Patto.  Gli scanni della prima sono
+tutti ripieni, compiuto essendo il numero degli eletti del
+vecchio testamento; nell'altra parte vi sono ancora alcuni (ma
+non molti, cfr. ^Parad.~ XXX, 131 e seg.) seggi vuoti, che devono
+essere occupati a mano a mano nel corso dei tempi finch@e rimanga
+completo il numero degli eletti del nuovo Patto.  Sul pi@u alto
+gradino in faccia a Maria siede S. Giovanni Battista, dichiarato
+da Cristo il maggiore fra quelli che son nati di donne (^Matt.~
+XI, 11), sotto di esso S. Francesco, poi S. Benedetto, poi S.
+Agostino, poi altri non nominati di gradino in gradino, i quali
+da questa parte formano una linea di divisione tra' Beati del
+nuovo e que' del vecchio Testamento, appunto come dall'opposta
+parte le donne.  Alla destra poi della Vergine siede S. Pietro, e
+appresso l'Evangelista S. Giovanni; a sinistra Adamo, cui sta
+presso Mois@e.  In faccia a S. Pietro (dunque alla ^sinistra~ del
+Battista) siede S. Anna, in faccia ad Adamo (dunque alla ^destra~
+del Battista) Lucia.  Dalla met@a in gi@u di tuttaquanta la mistica
+Rosa siedono le anime dei pargoli beati.  Sopra questi versi cfr.
+^Mariani~, ^La D. C. esposta allo studioso~, p. 153 e segg. 
+^Parenti~, ^Annot. al Diz.~ Modena 1820, II, 70; ^Barlow~,
+^Contrib.~, p. 576 e segg.
+
+	|1.  Affetto~: ^S. Cr.~, ^Vat.~, ^Berl.~, ecc.; ^Nidob.~,
+^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Sessa~, ^Crus.~,
+^Missir.~, ^Comin.~, ^De Rom.~, ^Ed. Pad.~, ^Viv.~, ^Pezz.~,
+^Sicca~, ^Quattro Fior.~, ^Fosc.~, ^Mauro Ferr.~, ^Witte~,
+^Fanf.~, ^Giul.~, ecc.; ^Petr. Dant.~, ^Falso Bocc.~, ^Buti~,
+^Land.~, ^Vell.~, ^Dan.~, ^Dol.~, ^D'Aq.~, ^Vent.~, ^Lomb.~,
+^Parenti~, e tutti i moderni, tranne ^Scarab.~  ^L'affetto~:
+^Caet.~, ^Chig.~, ^Rosc.~, ecc.; ^Mant.~, ^Febrer~, ^Dion.~, ecc. 
+^L'effetto~: ^S. Cr.~ di seconda mano, ^Cass.~, ^Vien.~,
+^Stocc.~, ^Cort.~, ^Landian.~, ^Ang.~, ^Vicent.~, ^Cagliar.~,
+ecc.; ^Folig.~, ^Jesi~, ^Nap.~, ^Vindel.~, ecc.; ^Lan.~, ^Ott.~,
+^Anon. Fior.~, ^Benv. Ramb.~, ecc.  ^Refetto~: cod. ^Laur. 2~
+coll'^Ott.~, ^Scarab.~, ecc.  Come si vede, le autorit@a sono
+divise.  Il ^Buti~: <Qu@i debbe notare lo lettore che tutti (?) i
+testi de l'autore si truovano dire ^L'effetto~; lo quale testo,
+secondo lo mio parere, @e stato corrotto e non credo che l'autore
+dicesse ^L'effetto~: imper@o che, secondo lo mio iudicio, non
+verrebbe a dire nulla in questa parte; ma credo che dicesse
+|Affetto~, come dimostrano le parole precedenti nel canto
+precedente, quando dice: ^Li suoi con tanto affetto volse a lei~
+{v.141} dove si dimostra che santo Bernardo si volse a
+contemplare la gloria della Vergine Maria con grandissimo
+desiderio; e per@o incomincia ora lo canto: |quel contemplante~,
+cio@e santo Bernardo, |Affetto~, cio@e affettuoso fatto e
+desideroso e dato a la contemplazione de la Vergine Maria; |al
+suo piacer~, cio@e quanto li piacque......  Agevolmente potette
+essere che, quando l'autore scrisse questo principio di questo
+canto, ch'elli serbasse luogo a la prima lettera, per farvi lo
+minio, e che si trovasse scritto ^ffetto~, senza avere segnato
+^A~ dinanzi; sicch@e chi scrisse pens@o che volesse esservi ^L'e~,
+e disse ^L'effetto.~.....  E molti diceno ^L'affetto~; et
+ordinano le parole: Quel contemplante ^l'affetto~, detto di
+sopra, e seguene poi l'altro che seguita; ma questa sentenzia
+anco non mi piace, ben che potesse stare.>  Per la lezione
+|Affetto~ abbiamo ottime autorit@a e di codd. e di antichi
+espositori, tra' quali Pietro, il figlio del Poeta.  Cos@i
+leggendo, e prendendo |Affetto~ nel senso di ^fisso~, ^intento~,
+il verso non offre veruna difficolt@a.  Il ^Dion.~ difende la
+lezione ^L'affetto~, osservando: <Lezione antica, in aspetto
+strana, ma in fatto propria: sebbene, per difetto forse di
+puntatura, non bene intesa dagli antichi espositori; e da'
+susseguenti copisti, forse per la stessa cagione, alterata e
+corrotta.  Il senso @e: L'affezionato, L'addetto |al suo piacer~,
+vale a dire alla Regina del Cielo (la qual era ^il caldo suo
+calor~ {C.XXXI, v.140}), |quel contemplante~, detto qu@i per
+apposizione a mostrar chi era ^l'affetto~, ^il passionato~,
+^l'acceso~, esso cio@e S. Bernardo; cess@o in allora (s'intende)
+dal tener gli occhi con tanto affetto in Maria, e liberamente, di
+sua volont@a imprese a far da maestro.>  Troppo bizzarro, sebbene
+non meritevole degli scherni del ^Biag.~  Leggendo l'^Effetto~,
+pare anche a noi che non se ne possa ricavar senso.  ^Lan.~,
+^Ott.~, ^An. Fior.~ si contentano di chiosare: <Ci@o @e santo
+Bernardo, s@i come fue suo piacere, parlando compie suo effetto,
+ci@o @e addotrinando.>  Nel commento di ^Benv. Ramb.~ confezionato
+dal ^Tamb.~ si legge: <^Quel contemplante l'effecto al suo
+piacer.~  Devoto al piacere di Maria Vergine, e perch@e Dante
+fosse soddisfatto delle sue nuove curiosit@a, san Bernardo assunse
+spontaneo l'ufficio d'istruirmi.>  Nel cod. ^Laur. 2~ poi
+troviamo quanto segue: <^Refetto al suo piacer~ ecc.  Dice qu@i
+l'Autore, che ^refetto~ cio@e satisfatto |al suo piacer quel
+contemplante~, cio@e santo Bernardo; cio@e quando nella vista del
+contemplante di Nostra Donna fu ^refetto~, assunse libero officio
+di dottore ecc.>  Il ^Torri~ s'avvisava che questa lezione e la
+sua spiegazione fosse la pi@u conforme all'intendimento del Poeta
+e pi@u naturale di quante vennero pubblicate.  Dal canto nostro
+diremo col ^Parenti~: Poich@e abbiamo la lezione |Affetto al suo
+piacer~, che senza alcuna contorsione ci rende il senso
+opportuno, sarebbe uno sconcio la mutazione del testo.
+
+	|4.  La piaga~: del peccato.  -- |Richiuse~: Aug. Serm.
+XVIII: ^Illa percussit, ista sanavit.~  Petr. Dant.: ^Dicunt
+sancti, quod sicut ex superbissima, scilicet Eva, natus est
+morbus, ita ex humilissima, scilicet Maria, medicina; et ideo
+converso nomine hoc~ Eva, ^dicitur~ Ave.
+
+	|5.  Quella~: Eva.  -- |Bella~: perch@e creata da Dio
+senza mezzo.  -- |Da'~: a'.
+
+	|6.  Punse~: ^Buti~: Usa qui l'autore una figura di
+Grammatica, ^hysteron proteron~: imper@o che prima @e pungere che
+aprire, et elli mette innanti aprire che pungere.  Eva, nostra
+prima madre, |punse~ la piaga, mangiando del pomo vietato e
+disobbedendo, et |apersela~, confortando Adam che ne mangiasse,
+et induc@elo a mangiarne.  ^Lomb.~: disubbidendo essa a Dio, apr@i,
+e rendendo seco disubbidiente Adamo inaspr@i quella ferita fatta
+all'uman genere.  ^Tom.~: Il peccato @e non solamente piaga, ma
+piaga irritata.  Eva la aperse, e, con lo scusarsi del fallo e
+persistervi, la esasper@o.  ^Ronchet.~ (^Appunti~, p. 189): Il
+Poeta esprime qu@i sotto due aspetti diversi il concetto unico
+della ferita, e nel verbo |punse~ ripete il concetto che @e gi@a
+inerente alla voce ^piaga~ {v.4}: forme queste del dire che non
+sembreranno strane ai famigliari del divino poeta.  -- Non
+crediamo che Dante volesse ripetere lo stesso concetto.  |Aperse~
+corrisponde a ^richiuse~, |punse~ a ^unse~ nel v. 4.  Come dunque
+l'^ungere~ e il ^richiudere~ non sono la stessa cosa, cos@i anche
+l'^aprire~ e il ^pungere~ non sono lo stesso.  Forse il ^Lomb.~
+interpret@o rettamente; ma @e difficile indovinare a che alludesse
+il Poeta col |punse.~  -- Sulla costruzione ^Ces.~: @E costrutto
+Latino, e val sottosopra cos@i: ^Quam plagam Maria obduxerat atque
+liniverat, hanc quae ad illius pedes assidet femina pulcherrima
+adspectu, fodiens aperuerat.~  Questo tramutamento di parole ha,
+ne' gran maestri d'ambedue le lingue, un certo che di leggiadro e
+pellegrino.
+
+	|7.  Nell'ordine~: nel terzo grado.  -- |Sedi~: seggi,
+dal sing. ^sedio~, nel basso lat. ^sedium~; cfr. ^Diez~, ^Etym.
+W,orterb.~ 4, ed. p. 289 e 731.  ^Sedio~ per ^seggio~ fu comune
+agli antichi; cfr. ^Voc. Crus.~ s. v. ^sedio.~
+
+	|8.  Rachel~: la figliuola di Labano e moglie del
+patriarca Giacobbe, menzionata pi@u volte nel poema; cfr. ^Inf.~
+II, 102; IV, 60; ^Purg.~ XXVII, 104.  Come osservammo altrove
+(cfr. ^Purg.~ XXVII, 101 nt.) Rachele simboleggia nella ^Divina
+Commedia~ la vita contemplativa.  Ma se, come non puossi
+seriamente dubitare, in questi ultimi canti San Bernardo
+simboleggia la contemplazione (cfr. ^Parad.~ XXXI, 52-69 nt.),
+come si pu@o ammettere l'uno accanto all'altro due simboli della
+contemplazione?  I commentatori non fanno verun caso di questa
+circostanza.  A noi sembra che Rachele simboleggi la
+^contemplazione~, San Bernardo il ^contemplatore~; quella, la
+vita contemplativa per cos@i dire in astratto, o in generale;
+questi, il singolo individuo che ha abbracciato la vita
+contemplativa.  Dicono che Dante si ricorda qu@i di quanto aveva
+detto ^Inf.~ II, 102.  Verissimo; ma non si sar@a scordato del
+significato allegorico di Rachele.  Quindi bisogna chiedere qual
+differenza passi tra costei e San Bernardo, se ambedue figurano
+la vita contemplativa.
+
+	|9.  Beatrice~: a destra di Rachele, nel semicircolo dei
+credenti in Cristo venuto.  ^Land.~: Sedea rettamente Beatrice
+con Rachele, perch@e il proprio subietto della teologia @e la
+cognizione e contemplazione, e in quella si ferma e pon suo
+seggio.  Nella ^Vita Nuova~, c. 29: Lo Signore della giustizia
+chiam@o questa gentilissima a gloriare sotto l'insegna di quella
+reina benedetta Maria, lo cui nome fu in grandissima reverenza
+nelle parole di questa Beatrice beata.  -- Beatrice siede sotto a
+San Pietro (^Witte~), non per@o immediatemente sotto, ch@e S.
+Pietro siede nel primo, Beatrice nel terzo ordine di sedie.
+
+	|10-11.  Sara~: al. ^Sarra~; la moglie del patriarca
+Abraamo, madre dei credenti in Cristo venturo.  ^Ad Hebr.~ XI,
+11: ^Fide et ipsa Sarra sterelis virtutem in conceptionem seminis
+accepit etiam praeter tempus aetatis, quoniam fidelem credidit esse
+qui promiserat.~  -- |Rebecca~: moglie del patriarca Isacco; cfr.
+^Gen.~ XXIV, XXV.  -- |Judit~: la figlia di Meraris, la quale
+uccise Oloferne e liber@o i Giudei; cfr. il libro di ^Judit.~ 
+Secondo ^Ugo da S. Vittore~ (^Annotat. elucid. alleg. Vet. Test.~
+lib. IV, c. 18, lib. IX, c. 3 ecc.) Judit @e figura della Chiesa. 
+La Chiesa applica alla B. Vergine le parole che Ozia disse a
+Judit (^Judit.~ XIII, 23-25): ^Benedicta es tu filia a Domino Deo
+excelso prae omnibus mulieribus super terram.  Benedictus Dominus,
+qui creavit coelum et terram, qui te direxit in vulnera capitis
+principis inimicorum nostrorum: quia hodie nomen tuum ita
+magnificavit, ut non recedat laus tua de ore hominum, qui memores
+fuerint virtutis Domini in aeternum, pro quibus non pepercisti
+animae tuae propter angustias et tribulationem generis tui, sed
+subvenisti ruinae ante conspectum Dei nostri.~  -- |Colei~: Rut,
+moglie di Booz e bisava di Davide; cfr. il libro di ^Rut.~
+
+	|12.  Fallo~: commesso contro Batseba e il di lei marito,
+cfr. II, ^Reg.~ XI e seg.  -- |Disse~: nel Salmo penitenziale. 
+^Tom.~: Pare oscuro e contorto (?) questo cenno di Ruth; ma
+allora tutti sapevano la storia sacra tanto da intenderlo alla
+prima udita.  N@e senza perch@e congiungesi Ruth, la vedovella
+pellegrina, con Davide re umile, e peccatore pentito, e
+vaticinato progenitore di Cristo.  E chiamarlo ^cantore~ {v.11}
+non @e senza ragione, cfr. ^Parad.~ XX, 38.
+
+	|13.  Di soglia~: di grado in grado, sedere l'una dappi@e
+dell'altra.
+
+	|15.  Vo~: scendo di grado in grado per la rosa,
+nominandole ad una ad una.  ^Buti~: In su la seconda sedia erano
+quelle che erano vissute secondo la legge della natura, pi@u
+contemplativa che in vita attiva e matrimoniale; in su la terza
+quelle che erano vissute in vita matrimoniale e contemplativa; ma
+meno contemplativa che attiva; e per@o ne la seconda sedia pone
+Eva e le simili; in su la terza Rachel e Beatrice.  Eva e
+l'altre, secondo lo naturale, cognobbono Iddio dovere mandare
+loro l'aiuto suo, quando fusse il tempo, et in questo si
+salvorno; e per@o sono nel secondo.  Nel terzo sono quelle che
+cognobbono, secondo lo naturale et anco secondo la revelazione
+fatta loro da Dio in Cristo venturo, et in segno incominciorno la
+circuncisione; e per@o in su l'altre erano quelle, che erano
+salvate per quello modo medesimo, ecc.  -- -- -- E finge l'autore
+che santo Bernardo gli mostrasse queste sette sedie, per notare
+li sette stati e condizioni de' santi, che sono in vita eterna;
+prima lo stato verginale in su la suprema sedia, denotato per la
+Vergine Maria e per Cristo; secondo, lo stato matrimoniale puro,
+secondo la legge naturale, denotato per Eva et Adam in su la
+seconda sedia; terzo, lo stato de' Profeti e Patriarchi
+contemplativo, denotato per Rachel e Beatrice; quarto, lo stato
+matrimoniale de' fedeli, secondo lo comandamento di Dio, che
+credettero in Cristo venturo, come fu loro dimostrato da Dio, e
+dato in segno di ci@o la circuncisione, denotato per Sara et
+Abraam; quinto, lo stato de' savi et ammaestrati e dottrinati
+nelle cose divine, per Rebecca e Isaac; sesto, lo stato della
+vedovit@a e castit@a dei martiri e de li combattitori per l'amore
+di Dio e per la patria, denotato per Judit; settimo, lo stato de
+li oratori e laudatori di Dio, denotato per Rut.  E per questo ha
+fatto menzione di sette gradi, come la santa Chiesa distingue li
+santi; cio@e prima li santi Angioli; secondo le Vergini; appresso,
+li Patriarchi e Profeti; poi, li Apostoli; e poi, l'Innocenti;
+poi, li Martiri; poi, li Confessori.
+
+	|16-17.  Insino~: come da esso settimo grado in su. 
+Donne ebree formano una serie rettilinea attraverso tutti i
+gradi.
+
+	|18.  Dirimendo~: separando; lat. ^dirimere.~  Le Ebree
+separano il vecchio Testamento dal nuovo.  |Fiore~ @e la ^candida
+rosa~, Parad. XXXI, 1; |chiome del fiore~ sono le sue foglie.
+
+	|19.  Fee~: fe', fece; cfr. ^Purg.~ XXXII, 12 ecc. 
+^Tom.~: Secondo che riguardavano gli uomini a Cristo venuto o a
+Cristo venturo, sono distinti: e la distinzione @e fatta visibile
+da questa parete di donne poste tra mezzo, che separa insieme ed
+unisce.  Tra il vecchio e il nuovo Testamento le donne son
+vincolo, vincolo di maternit@a, di aspettazione, d'amore.
+
+	|22.  Parte~: a sinistra delle Ebree.  -- |Maturo~: tutti
+i seggi occupati.  Dunque dei morti avanti la venuta di Cristo
+nessuno @e pi@u in Purgatorio.
+
+	|25.  Dall'altra~: a destra.  -- |Intercisi~: interrotti,
+tagliati.  Vi sono ancora scanni vuoti (ma non molti, cfr.
+^Parad.~ XXX, 131, 132), riserbati a' venturi Beati.
+
+	|26-27.  Di voto i semicircoli~: cos@i crediamo dover
+leggere colla comune (^Ald.~, ^Burg.~, ^Giol.~, ^Rovill.~,
+^Sessa~, ^Crus.~, ecc.; ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Dan.~ e
+tutti gli editori e commentatori pi@u recenti).  Veramente questa
+lezione non si trova che in pochi codd.  I pi@u hanno ^Di voti in
+semicircoli~ (^S. Cr.~, ^Berl.~, ^Vien.~, ^Stocc.~, ^Cort.~,
+ecc.; ^Mant.~, ecc.) oppure ^Devoti in semicircoli~ (^Vat.~,
+^Cass.~, ^Caet.~, ecc.; ^Folig.~, ^Jesi~, ^Nap.~, ecc.; ^Falso
+Bocc.~, ^Vell.~, ecc.).  Ma non sappiamo ricavarne costrutto. 
+Evidentemente gli ^intercisi~ {v.25} non sono i Beati, sibbene i
+loro posti, dunque |i semicircoli.~  Cos@i intende anche il
+^Witte~, sebbene accetti la lezione ^di voti in semicircoli.~ 
+Egli traduce non sulla sua propria edizione, ma sulla Volgata:
+
+     ^Zur andren, wo von L,ucken unterbrochen~
+     ^Die Pl,atze sind, verweilen, die die Blicke~
+     ^Dem schon gekommnen Christus zugewendet.~
+
+Se dunque non si pu@o non intendere colla volgata, ragion vuole
+che si accetti pure la lezione volgata.  Cos@i pure gli antichi,
+inquanto non tiran via da questo passo.  ^Lan.~, ^Anon. Fior.~:
+Dall'altra parte della rosa non @e ancora pieno, imper@o che vi
+debbono stare tutti gli predestinati che hanno creduto in Cristo
+gi@a venuto, e di die in die si vengono empiendo, e quando saranno
+piene, allora finir@a questo mondo; e per@o dice: vi sono di scanni
+vuoti, e fanno semicircoli, cio@e che non passano quegli gradi
+della parte degli Beati di Testamento Vecchio.  ^Ott.~:
+Dall'altro lato della rosa, il quale non @e ancora pieno, che sono
+intra tagliati li mezzi circuli, stanno li Cristiani battezzati. 
+E sono intercisi mezzi circuli, per@o che di d@i in d@i si vengono
+empiendo ecc.  -- |Li visi~: gli sguardi della fede.
+
+	|29.  E gli altri~: cos@i tutti.  Gli ^Ed. Pad.~ e il
+^Sicca~ (^Rivista delle varie lez. della D. C.~, p. 58)
+osservano: <La 3+a~ rom. ediz. coll'autorit@a dei cod. ^Vat.~,
+^Antald.~, ^Chig.~ e ^Caet.~: ^Della Donna del Cielo, ed altri
+scanni.~>  Ma 1+o~- Tutte le ediz. rom. del ^De Rom.~ (1810,
+1815-17, 1822) hanno nel testo: |E gli altri.~  2+o~- Il ^Vat.~ ha
+^Et li altri.~  3+o~ Anche il ^Caet.~ ha ^Et li altri.~  4+o~- La
+lezione ^Ed altri~ deriva dall'avere qualche amanuense negletto
+l'articolo ^Li.~
+
+	|30.  Cerna~: divisione, separazione; dal lat. ^cernere.~ 
+Come di qu@a gli scanni ove siedono Maria e le altre donne fanno
+cotale separazione dei credenti in Cristo venturo dai credenti in
+Cristo venuto, cos@i di rimpetto la fanno gli scanni ove siedono
+Giovanni Battista e gli altri uomini nominati nei vv. 35 e seg.
+
+	|31.  Gran~: ^Matt.~ XI, 11: ^Non surrexit inter natos
+mulierum major Joanne Baptista.~  Cfr. ^Luc.~ VII, 28.
+
+	|32.  Sempre~: ^Luc.~ I, 15 di Giovanni Battista: ^Erit
+enim magnus coram Domino~, -- -- -- ^et Spiritu sancto replebitur
+adhuc ex utero matris suae.~  -- |Diserto~: ^Luc.~ I, 80: ^Puer
+autem crescebat et confortabatur spiritu, et erat in desertis
+usque in diem ostensionis suae ad Isr,ael.~  Matt. III, 1: ^In
+diebus autem illis venit Joannes Baptista praedicans in deserto
+Judeoe.~  Marc. I, 4: ^Fuit Joannes in deserto baptizans et
+praedicans baptismum poenitentiae in remissionem peccatorum.~  Cfr.
+^Luc.~ III, 2 e seg.  -- ^Thom. Aq.~ ^Sum. theol.~ P. III, qu.
+XXVIII, art. 1: ^Joannes fuit terminus legis et initium
+Evangelii.~  Ibid. art. 3: ^Ipsa etiam austeritas vitae ejus
+officium commendabat, quia mirabile erat in humano corpore tantam
+patientiam videre.~  -- |Martiro~: cfr. ^Parad.~ XVIII, 134, 135.
+
+	|33.  L'Inferno~: il Limbo.  -- |Due~: circa due anni,
+dalla sua morte sino alla discesa di Cristo al Limbo; secondo la
+tradizione dal mese di agosto dell'anno 31 sino alla Pasqua
+dell'anno 33 dell'era volgare.
+
+	|34.  Cerner sortiro~: ebbero in sorte di stare tra mezzo
+alle anime de' due Testamenti.  -- Di faccia alla santa tra le
+donne, siede il santo tra gli uomini, padre d'anime a Dio
+conquistate; sotto lui i fondatori d'ordini religiosi, vengon di
+contro alle madri giudee, come padri d'anime anch'essi.  ^Tom.~
+
+	|35.  Francesco~: i tre qu@i nominati, S. Francesco
+d'Assisi (cfr. ^Parad.~ XI, 43 e segg.), il fondatore dell'ordine
+dei Mendicanti, S. Benedetto di Norcia (cfr. ^Parad.~ XXII, 28 e
+segg.), il fondatore della vita monastica attiva, e S. Agostino
+(cfr. ^Parad.~ X, 120), il fondatore della teologia scientifica,
+furono in certo modo i continuatori dell'opera di Giovanni
+Battista, la quale fu di <apparecchiare al Signore un popolo ben
+composto>; cfr. ^Luc.~ I, 17.  E Dante pone S. Francesco al
+disopra di S. Benedetto, e questi al disopra di S. Agostino,
+invertendo cos@i l'ordine cronologico.  Qu@i si adempie, conforme
+quanto gli avea promesso S. Benedetto, ^l'alto dis$io~ del Poeta;
+cfr. ^Parad.~ XXII, 58 e segg.  ^Filal.~: <@E difficile dire
+perch@e Dante scelse appunto questi uomini.  Si sarebbe piuttosto
+potuto supporre di trovare anche qu@i figure tipiche del Vecchio
+Testamento ed antenati di Cristo, come Abraamo, Jacopo, Davide,
+ecc.>  Certo, il Poeta avria potuto scegliere costoro.  Ma la
+domanda, perch@e scelse appunto questi personaggi e non altri
+sembra pi@u o meno oziosa.  Avendo finto che l'uno dei due ^muri~
+fosse composto di ^donne~, e di donne ^ebree~, era ragionevole
+fingere composto l'altro di ^uomini~, e di uomini ^cristiani.~
+
+	|36.  Di giro~: di grado in grado, d'uno in altro di
+questi scaglioni che girano attorno.
+
+	|38-39.  Aspetto~: lo sguardo della fede in Cristo venuto
+e in Cristo venturo.  Il numero degli eletti eguale d'ambedue
+lati.  ^Vent.~: <Concetto poco giusto del vantaggio della legge
+di grazia sopra le altre antiche.>  Ma gli effetti dell'opera di
+Cristo si estendono indietro e innanzi, al passato e al futuro. 
+Quindi il concetto @e anzi sublime.  Inoltre si credeva non
+lontano il finimondo; pertanto il Poeta non disconobbe il
+vantaggio della legge di grazia.  ^Andr.~: <La fede in Cristo
+venuto dar@a tanti fiori a questo giardino, tante anime al
+Paradiso, quante appunto ne dette la fede in Cristo venuto.  Era
+calcolo de' teologi del tempo, fondato massimamente nella
+opinione della non lontana fine del mondo.>  Avremmo desiderato
+che l'^Andr.~ nominasse quei teologi che fecero questo calcolo. 
+Noi confessiamo di non averlo ancor trovato altrove che in Dante. 
+Finch@e nessuno ci dice dove lo si trova altrove, continueremo ad
+affermare che il concetto @e originale, e che Dante si serv@i di
+questa finzione per amore della simmetria, avendo voluto dividere
+la gran rosa celeste in due parti eguali.
+
+	|40-84.~  ^I pargoli beati.~  Dalla met@a in gi@u di
+tuttaquanta la rosa seggono i bambini salvati non per alcun
+merito proprio, perch@e morti in et@a tenera, ma per i meriti
+altrui.  E qu@i tocca nuovamente il problema della
+predestinazione, senza dare altro scioglimento che quello gi@a
+dato altrove: Cos@i vuole Iddio, e quello che Iddio vuole @e
+giusto.  Sopra questi versi cfr. ^Mercuri~, ^Lezione seconda
+sulla D. C.~ Roma 1843.
+
+	|40.  Fiede~: ferisce, taglia, divide.  Da quel grado in
+gi@u che taglia a mezzo le due anzidette linee discernenti. 
+^Buti~: Divide a mezza la lunghezza della detta rosa, cio@e le due
+differenzie e divisioni.  ^Tom.~: I bambini, uscendo della doppia
+schiera de' Santi, quasi tenuti tra le braccia e sulle ginocchia
+de' padri e delle madri, riempiono parte del vano che @e verso il
+mezzo del fiore nella parte pi@u tenera.
+
+	|41.  Discrezioni~: divisioni; le due file che dividono i
+due ^aspetti della fede~ {v.38}.
+
+	|42-43.  Altrui~: gli antichi intendono unanimemente, per
+i meriti dei loro genitori (^Lan.~, ^Ott.~, ^Anon. Fior.~,
+^Postill. Cass.~, ^Petr. Dant.~, ^Buti~, ^Land.~, ^Vell.~,
+^Dan.~, ^Vent.~, ecc.); i moderni, per i meriti di Cristo
+(^Lomb.~, ^Port.~, ^Pogg.~, ^Biag.~, ^Cost.~, ^Br. B.~, ^Frat.~,
+ecc.).  Ma non sono tutti, anche gli adulti, salvati per i meriti
+di Cristo?  E non dice il Poeta in questo canto che tutti i Beati
+furono salvati per la fede in Cristo venturo o venuto?  Il
+|merito proprio~ @e per conseguenza la fede, e i pargoli che non
+avevano n@e hanno ancora la fede, furono e sono salvati per la
+fede de' parenti, con quelle |certe condizioni~ che Dante espone
+pi@u sotto, v. 76 e segg.  Conviene dunque stare
+all'interpretazione degli antichi, confortata dal v. 78 del
+presente canto.
+
+	|44.  Assolti~: sciolti da' legami del corpo, morti. 
+Cos@i i pi@u.  Diversamente ^Buti~: Assoluti e liberati dal peccato
+originale per la predestinazione divina.  Ma come poteva Dante
+accorgersi ^per li volti e per le voci puerili~ {vv.46-47} che
+quelli spiriti furono liberati dal peccato originale prima che
+avessero discernimento bastante ad eleggere?  Dai ^volti~ {v.46}
+e dalle ^voci puerili~ {v.47} poteva solamente accorgersi che
+morirono in tenera et@a.  ^Tom.~ unisce le due interpretazioni:
+<Sciolti dal corpo e dalla pena della colpa.>  Che quegli spiriti
+erano assolti dalla pena della colpa lo manifestava il luogo dove
+si trovavano, n@e era necessario aggiungere quanto S. Bernardo
+dice nella terzina seguente, la quale @e prova provata che
+|assolti~ non significa qu@i altro che: Sciolti dai legami del
+corpo.
+
+	|45.  Elezioni~: facolt@a di scegliere; uso di ragione. 
+^Lan.~, ^Anon. Fior.~: Vera elezione si @e quando raziocinando
+s'intende quel fine; negli pueri non @e raziocinare; e cos@i non
+hanno vera elezione.  ^Ott.~: Vera elezione @e quella, la quale
+procede dalla raziocinazione; il quale raziocinare non puote
+essere nei fanciulli.  ^Buti~: Innanzi che avessono discrezione
+s@i, che potessono cognoscere lo bene dal male, e cognoscendo
+eleggere lo bene e lasciare lo male.
+
+	|46-47.  Puerili~: secondo S. Tommaso (^Sum. theol.~ P.
+III, Suppl. qu. LXXXI, art. 1, 2) tutti i Beati risusciteranno
+nella medesima et@a, cio@e giovanile, rimanendo ai vecchi l'aspetto
+venerando della vecchiaja (cfr. ^Parad.~ XXXI, 59 nt.); ma non
+tutti nella medesima statura.  ^Non omnes resurgent in eadem
+quantitate; sed quilibet resurget in illa quantitate in qua
+fuisset in termino augmenti, si natura non errasset vel
+defecisset; quod autem superest, vel deficit in homine, resecabit
+vel supplebit divina potentia.~  Attribuendo e visi e voci
+puerili agli ^spiriti assolti Prima ch'avesser vere elezioni~
+{vv.44-45}, Dante sembra scostarsi dalle dottrine dell'Aquinate
+ed ammettere che i Beati si mostrino nel Paradiso nella et@a e
+statura in cui si trovavano quando morirono.  Nel Purgatorio gli
+spiriti mostrano i segni delle ferite ricevute in terra; cfr.
+^Purg.~ III, 111.
+
+	|48.  Guardi~: nei volti.  -- |Ascolti~: le voci puerili. 
+^Buti~: Quando cantano le lode di Dio; imper@o che in vita eterna
+li Beati sempre cantano le lode di Dio.
+
+	|49.  Dubbi~: il dubbio @e questo: Come sono questi
+bambini allogati in differenti gradi di gloria, che non hanno
+diversi meriti proprj, che vantaggino l'uno dall'altro?  O
+sarebbe mai, per abbattimento n@e caso, avvenuta questa diversit@a
+di gradi pi@u o meno alti?  Cfr. ^Ces. ad. h. l.~ -- |Sili~: taci;
+lat. ^siles.~  Il verbo ^silere~ fu usato anche dal ^Varchi~ e da
+altri; cfr. ^Voc. Crus.~  Oggid@i @e fuor d'uso.  Vive per@o in
+^silenzio~ e derivati.
+
+	|50-51.  Il forte~: ^S. Cr.~, ^Berl.~, ^Caet.~,
+^Landian.~, ^Vien.~, ^Stocc.~, ^Antal.~, ^Pat. 2, 9, 316~,
+^Filipp.~, ecc.; prime 4 edd., ^Sessa~, ecc.; ^Benv. Ramb.~,
+^Vell.~, ^Dan.~, ecc.  ^Forte~: ^Vat.~, ^Cass.~, ^Cort.~, ecc.;
+^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~, ^Crus.~, ecc.; ^Falso
+Bocc.~, ^Buti~, ecc.  L'articolo, osserva il ^De Rom.~, pare
+indispensabile alla comune sintassi, e trovandosi nei pi@u
+autorevoli codd. non vi ha veruna ragione di ometterlo.  --
+|Legame~: del dubbio, difficolt@a.  ^Mart.~: La verit@a @e come una
+fune o tela sciolta, libera, espansa.  Nel dubbio la verit@a @e
+aggrovigliata da fare un nodo: quanto pi@u sottile @e una
+cordicella e in pi@u giri groppata e con maggior forza avvolta,
+tanto pi@u difficile riesce di scioglierla.  Dante esprime assai
+bene tal cosa.  I pensieri sottili stringono la mente in forte
+legame.  Chi si fa a sciogliere un dubbio o a combattere un
+errore, dee prima di tutto vedere qual sia il fondamento; il
+resto segue di per s@e.  Cos@i San Bernardo incomincia dal
+principio che pu@o far meglio conoscere in che consista il dubbio. 
+Dice dunque che nell'immenso non ci @e punto caso.  Questo @e
+assioma; Dio non pu@o volere il disordine; dunque ci @e l'ordine. 
+La legge @e eterna.  Dio @e ^prima volont@a~, ^volont@a giusta~;
+^giustizia~ e ^legge~ sono tutt'uno.  La giustizia comanda
+l'ordine, cio@e d@a il suo a ciascuno; e qu@i diremo che mette ogni
+cosa nel luogo che le si conviene.  L'umana ragione sovente non
+vede l'ordine, perch@e non pu@o vedere tutti gli enti, epperci@o
+nemmeno la corrispondenza che tutti devono avere tra loro.  S.
+Agostino, con bel paragone, combatte coloro che vogliono ergersi
+in giudici di Dio.  Se altri entrasse in un arsenale, dove vi
+fossero elmi e corazze e spade e quanto si appartiene al
+guerreggiare, se volesse mettersi l'elmo al petto, e la corazza
+al capo, e vedendo che non istanno bene, gridasse al disordine;
+non @e vero che il disordine sarebbe nella sua testa?  Cos@i egli.
+
+	|53.  Casual~: come in tutto quant'@e l'Empireo non
+possono aver luogo n@e tristezza, n@e sete, n@e fame: cos@i non vi
+pu@o aver luogo il minimo che di casuale.  ^Tom.~: |Punto~ fa
+meglio risaltare l'ampiezza del reame, e quindi la grandezza
+dell'ordine prestabilito.  Ma |sito~ @e qu@i men proprio di
+^luogo~; voce di sensi pi@u filosofici, e spirituali.  Cfr. ^Thom.
+Aq.~ ^Sum. theol.~ P. III, qu. LXIX, art. 8: ^Duplex est effectus
+baptismi, unus per se, et alius per accidens.  Per se quidem
+effectus baptismi est id ad quod baptismus est institutus,
+scilicet ad regenerandum homines in spiritualem vitam; et hunc
+effectum aequaliter facit in omnibus qui aequaliter se habent ad
+baptismum.  Unde quia omnes pueri aequaliter se habent ad
+baptismum~ (^quia non in fide propria, sed in fide Ecclesiae
+baptizantur~), ^omnes aequalem effectum percipiunt in baptismo.~ 
+-- -- -- ^Effectus autem baptismi per accidens est, ad quem
+baptismus non est ordinatus; sed divina virtus hoc in baptismo
+miraculose operatur.~  -- -- -- ^Et tales effectus non aequaliter
+suscipiuntur ab omnibus baptizatis, etiamsi cum aequali devotione
+accedant; sed dispensantur hujusmodi effectus secundum ordinem
+providentiae divinae.~
+
+	|54.  Fame~: ^Apoc.~ VII, 16: ^Non esurient neque sitient
+amplius, neque cadet super illos sol neque ullus aestus~; cfr.
+^Isai.~ XLIX, 10.  ^Apoc.~ XXI, 4: ^Neque luctus neque clamor
+neque dolor erit ultra: quae prima, abierunt.~
+
+	|56-57.  Quantunque~: quanto mai.  Tutto quanto vedi in
+questo celeste regno @e prestabilito ab eterno cos@i puntualmente,
+che qu@i il fatto corrisponde al volere di Dio, il grado della
+gloria al grado del merito o della grazia, come l'anello
+corrisponde al dito.  ^Ces.~: La gloria che qu@i vedi diversa,
+s'aggiusta bene a ciascuno, secondo il decreto di Dio; e v'@e
+diritta ragione di ogni cosa.  ^Buti~: @E convenienza, secondo
+giustizia, tra il luogo ed il locato, come @e tra l'anello e il
+dito.
+
+	|58.  Festinata~: affrettata (cfr. ^Purg.~ XXXIII, 90),
+venuta prima del natural suo tempo alla vera vita celeste. 
+Chiama cos@i i bambini morti avanti l'et@a della ragione e fatti
+beati.
+
+	|59.  Sine causa~: senza cagione.  I bambini non sono
+differenziati a caso in pi@u o meno eccelsi gradi di gloria.
+
+	|60.  Intra s@e~: la comune dei codd. e delle stampe
+antiche legge e punteggia questa terzina nel modo seguente:
+
+     E per@o questa festinata gente
+     A vera vita non @e sine causa:
+     Entrasi (^Intrasi~) qu@i pi@u e meno eccellente.
+
+Cos@i ^S. Cr.~, ^Vat.~, ^Berl.~, ^Caet.~, ^Landian.~, ^Vien.~,
+^Stocc.~, ^Cort.~, ^Vicent.~ e moltissimi altri codd., prime 4
+edd., ^Nidob.~, ^Vindel.~, ^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovill.~, ^Sessa~, ^Crus.~, ^Missir.~, ^Comin.~, ^Pezz.~, ecc.;
+^Benv. Ramb.~, ^Vell.~, ^Dan.~, ^Dol.~, ^D'Aq.~, ^Vent.~,
+^Pogg.~, ecc.  Ma non si pu@o assolutamente ricavare da tale
+lezione senso che regga.  Anzi tutto: Che cosa @e che non @e senza
+cagione?  Il ^Pogg.~ chiosa: <E per@o questa moltitudine di
+pargoletti, dei quali ha voluta Iddio s@i sollecita la morte per
+condurgli a questa vera vita, non @e quivi ai rispettivi suoi
+posti senza cagione.>  Ma leggendo colla comune degli antichi
+editori dei <rispettivi posti> non c'@e nel testo il menomo cenno
+n@e la pi@u piccola allusione ad essi.  I versi 59 e 60 non
+direbbero altro, se non: ^Questa festinata gente non @e senza
+causa a vera vita~, concetto tutto ozioso.  Va da s@e che quella
+gente non @e entrata senza causa immatura nella vita eterna. 
+Inoltre il v. 60 ci offrirebbe un concetto direttamente opposto a
+quanto vien esponendo il Poeta.  ^Vell.~ spiega: <Quivi s'entra
+non tutti ad un modo, ma pi@u e meno eccellente e degno l'uno
+dell'altro.>  ^Dan.~: <Cio@e che alcuni pi@u, alcuni meno di quella
+gloria eterna partecipavano.>  ^Pogg.~: <Chiunque @e qu@i ammesso
+reca seco, chi maggiore, e chi minore eccellenza.>  Ma si tratta
+per l'appunto di bambini che morendo non avevano verun merito;
+che ^non~ entrarono nel Paradiso qual pi@u qual meno eccellente; e
+il problema proposto da Dante @e precisamente, perch@e sia diverso
+il grado di questi spiriti, bench@e non avessero avuto pi@u e meno
+eccellenza; e la soluzione @e, perch@e tale si @e il divino
+beneplacito.  Quindi la comune antica lezione non pu@o stare. 
+L'altra |Intra s@e qu@i~ non @e priva di autorit@a.  Cos@i hanno 2
+codd. ^Vat.~, ^Caors. 610~, ^2 Chig.~, ^4 Pucc.~, ^Angel.~, ^Pat.
+2, 316~, ^Lamb.~, ^Cagliar.~, ^Parmig. 1373~, ^Laur. XL, 7~,
+ecc.; cos@i devono aver letto i primitivi commentatori ^Lan.~,
+^Ott.~, ^Anon. Fior.~, come risulta dalla loro chiosa: <Nota che
+Iddio ve gli hae predestinati tutti in una condizione, cio@e che
+alcuni hanno maggiore e alcuni minor gloria.>  E il ^Buti~:
+<|Intra s@e~, cio@e per rispetto di s@e medesimo, cio@e tra loro,
+cio@e che l'uno ha pi@u beatitudine che l'altro.>  E il ^Land.~:
+<|Intra s@e~, cio@e tra s@e stessa.>  Questa lezione @e accettata
+quasi da tutti i moderni (^Dion.~, ^De Rom.~, ^Ed. Pad.~, ^Viv.~,
+^Sicca~, ^Quattro Fior.~, ^Fosc.~, ^Mauro Ferr.~, ^Witte~,
+^Fanf.~, ^Giul.~, ecc.; ^Lomb.~, ^Port.~, ^Biag.~, ^Cost.~,
+^Ces.~, ^Wagn.~, ^Borg.~, ^Tom.~, ^Br. B.~, ^Frat.~, ^Greg.~,
+^Andr.~, ^Triss.~, ^Bennas.~, ^Cam.~, ^Franc.~, ^Cappel.~, ecc.). 
+Cfr. ^Dion.~ ^Aned.~ V, p. 173 e seg.
+
+	|61.  Rege~: Dio.  -- |Pausa~: si riposa, ha pace.
+
+	|62-63.  Ausa~: osa, ardita.  I beni celesti superano
+ogni desiderio; nessuna volont@a pu@o alzarsi a desiderare di pi@u. 
+^Lan.~, ^Anon. Fior.~: Lo Paradiso quieto e pacifico tiene in
+tanto amore e in tanto diletto che volontade alcuna non pu@o pi@u
+volere, e per@o l@i si vede e contempla l'ultimo bene.  ^Buti~: Non
+v'@e alcuno che pi@u desideri: ciascuno v'ha tanto diletto quanto
+desidera.
+
+	|64-65.  Lieto~: cfr. ^Purg.~ XVI, 89.  ^Ces.~: Quel
+|lieto aspetto~ @e il sorridere che fa il Creatore all'anima da s@e
+creata (nell'istante primo di natura, come dicono); e il
+sorridere @e mostra ed effetto dell'amore gratuito.....  Se non
+che io credo che qu@i Dante parli in proprio delle anime degli
+eletti, alle quali per graziosa elezione ha destinata la gloria:
+e per@o dice che fin dalla creazion loro le mira |con lieto
+aspetto~, compiacendosi dell'amor suo in loro; e fin da quel
+punto assegna a ciascuna diversa dote di grazia, secondo il
+proposito della sua volont@a; e il ^dotare~ dice appunto
+l'assegnar della dote nel divino proponimento.
+
+	|66.  L'effetto~: il sapere che Iddio opera cos@i, senza
+cercarne la ragione; cfr. ^Purg.~ III, 37 e segg.  ^Petr. Lomb.~
+^Sent.~ lib. III, dist. 32: ^Electorum alios magis, alios minus
+dilexit ab aeterno.~
+
+	|67.  Ci@o~: che sino dalla loro creazione Iddio dota le
+anime diversamente, secondo il suo beneplacito.
+
+	|68.  Quei~: Esa@u e Giacobbe.  ^Ad Rom.~ IX, 10-13: ^Sed
+et Rebecca ex uno concubitu habens Isaac patri nostris: cum enim
+nondum nati fuissent, aut aliquid egissent boni aut mali, ut
+secundum electionem propositum Dei maneret, non ex operibus, sed
+ex vocante dictum est ei: quia maior serviet minori; sicut
+scriptum est: Jacob dilexi, Esau autem odio habui.~
+
+	|69.  L'ira~: ^Genes.~ XXV, 22: ^Collidebantur in utero
+eius parvuli.~
+
+	|70-72.  Il color~: il ^Mercuri~ (l. c.) chiama questo
+luogo <s@i oscuro, che la sibilla cumea vi gitterebbe gli occhiali
+nel pozzo, e forse Navio padre degli auguri non ne caverebbe il
+significato>.  A noi pare anzi tutto cosa certissima che Dante
+allude al passo della Genesi XXV, 25, dove @e detto che Esa@u era
+rosso e tutto peloso.  ^Rufus erat, et totus in morem pellis
+hispidus.~  N@e il ^Cost.~ fu il primo a fare questa osservazione,
+come afferma il ^Merc.~  La fece gi@a il ^Buti~, il quale
+interpreta assai bene: <Ecco che parla secondo l'esemplo posto,
+cio@e secondo che a Dio piacque di dare pi@u grazia a Jacob, che fu
+nero ed ebbe li capelli neri, che ad Esa@u, che fu rosso ed ebbe
+li capelli rossi; cio@e secondo che a Dio piacque di dare all'uno
+li capelli neri, ed all'altro rossi, cos@i gli piacque di dare
+all'uno pi@u grazia che all'altro; e per@o dice |l'altissimo lume~,
+cio@e di Paradiso, che @e lo lume che beatifica li beati, che sta
+nel fondo della rosa, |convien che s'incappelli~, cio@e abbia
+intorno a s@e su per le sedie a modo di cappello, |Degnamente Di
+cotal grazia~, cio@e di siffatta grazia, chente Iddio hae voluto
+donare all'anima.>  Alcuni intendono invece in generale, che come
+i capelli sono di diversi colori, cos@i conviene che pi@u e men
+sublime grado e seggio abbia nel Paradiso quell'anima, che pi@u e
+meno ancora della divina grazia partecipa (^Land.~, ^Vell.~,
+^Dan.~, ecc.).  Il ^Lomb.~ pensa niente meno che agli adornamenti
+del capo delle donne: <Allusivamente, credo, all'^incappellarsi~,
+cio@e inghirlandarsi, adornarsi le donne il capo con abbigliamenti
+di quel colore che il color de' capelli risaltar faccia, invece
+di dire conveniente e degna cosa che, secondo la variet@a della
+donata grazia, facciasele dall'|altissimo~, divino, lume corona,
+superillustrazione, ecc.>  Gli abbigliamenti delle donne
+c'entrano qu@i come il cavolo a merenda.  ^Merc.~: La virt@u della
+divina grazia figuravasi, giusta il sentimento de' padri, nei
+capelli di Sansone; e di ci@o scrisse S. Agostino, ^Serm.~ 107 ^de
+tem.~: ^Samson qualem fortitudinem habuerit de gratia Dei, non de
+natura propria, iam audivistis; nam si fortis esset natus, quum
+ei capillus diminueretur, fortitudo non adimeretur: et ubi illa
+potentissima fortitudo, nisi in eo quod scriptura dixit:
+Incedebat cum illo spiritus Domini~?.....  I |capelli~, intesi in
+senso generalissimo, sono la virt@u della divina grazia, figurata,
+giusta il sentimento de' padri, nei capelli di ^Sansone~, nei
+quali la grazia si manifestava per la forza: e nel caso nostro,
+per l'allusione vicina ai capelli d'Esa@u e di Giacobbe, si
+particolarizza e si distingue dal poeta per il |colore~ (il quale
+deve prendersi ancora in senso metaforico e figurato di grado e
+misura); talch@e in sostanza il |color~ de' capelli altro non
+significhi che ^il grado~, ^la misura della forza e della virt@u
+della grazia~; avvegnach@e la forza e la virt@u @e significata nei
+|capelli~, e il grado o la misura di questa grazia @e espressa
+nella voce |colore.~  Ed ecco a mio avviso, se non vaneggio, come
+va esposto questo luogo: Per@o, |secondo il color de' capelli~,
+cio@e a misura della infusione o distribuzione della virt@u e forza
+della divina grazia (la cui forza @e figurata nei capelli in
+genere, e relativamente ai capelli di Sansone); |di cotal
+grazia~, cio@e di tai doni naturali, di quella grazia, di cui Dio
+^a suo piacere di grazia dota diversamente~ {vv.65-66}, e di cui
+nascendo chi pi@u, chi meno siamo da lui dotati, |l'altissimo lume
+degnamente convien che s'incappelli~, cio@e a dire, lo splendore,
+la luce divina conviene che s'incoroni, o formi attorno (alle
+menti umane) una pi@u o meno luminosa corona di luce.  Il
+|degnamente~ pare che corrisponda alla qualit@a e virt@u della
+grazia.  L'ordine poi delle parole @e questo: <Per@o l'altissimo
+lume, ^secondo il color dei capelli, conviene che degnamente
+s'incappelli di cotal grazia.~>  Questa interpretazione si
+potrebbe accettare, se fosse vero che, secondo i SS. Padri, <i
+capelli, intesi in senso generalissimo, sono figura della divina
+grazia.>  Ma n@e le parole di S. Agostino, citate dall'interprete,
+esprimono questo concetto, n@e sappiamo trovare che i SS. Padri
+affermassero mai, i capelli in generale essere figura della
+divina grazia.  Lo dissero soltanto di Sansone, n@e lice
+generalizzare un singolo esempio concreto.  Inoltre Dante non
+parla dei |capelli~, n@e della loro ^lunghezza~ (come avrebbe
+dovuto fare, volendo alludere ai capelli di Sansone), sibbene del
+|colore~ dei capelli, alludendo evidentemente, come osservammo,
+ai capelli di color rosso di Esa@u.  Il senso della terzina, che
+non pu@o essere dubbio, @e: Secondo il maggiore o minor grado di
+grazia donato a questi pargoli, conviene che il divin lume della
+gloria a tal grazia corrispondente faccia al capo di ciascun di
+essi condegna ghirlanda.  Con altre parole: Conviene che ciascun
+pargolo abbia un grado di gloria rispondente al grado della
+grazia donatagli da Dio.  Ma che sono, chiede il ^Merc.~, i
+|capelli di cotal grazia~?  Rispondiamo con ^Br. B.~: <Non si
+danno i capelli alla grazia, ma i capelli e il loro colore si
+pongono come simbolo e figura dei bellissimi e varj doni di
+questa grazia medesima, secondo che si usa anche nelle sacre
+carte.  Costruendo il ternario diversamente, come alcuni fanno,
+non capacitandosi del ^color dei capelli della grazia~, si fa una
+strana confusione d'idee di grazia e di gloria, n@e si ottiene un
+senso discreto.  D'altra parte quella idea del color dei capelli
+a significare il dono della grazia infusa nel pargolo @e stata
+suggerita a Dante dal fatto biblico dei figli di Rebecca Esa@u e
+Giacobbe, nei quali la diversit@a della grazia parve indicata
+dalla diversa qualit@a del pelo.  Quanto al resto la cosa @e
+semplice.  La diversit@a della gloria celeste nei fanciulli, non
+potendo aver ragione nei meriti, @e effetto del diverso grado di
+grazia, di che Dio @e libero e gratuito distributore.  Per@o si
+dice, esser conveniente che il lume beatifico |s'incappelli~
+degnamente, cio@e si sovrapponga al capo dell'eletto secondo la
+misura della grazia, di cui, con ardita metafora, e per pi@u
+corrispondenza coll'idea del cappello (ghirlanda, corona), si
+vuol significare la maggiore o minore bellezza coll'imagine del
+|color de' capelli.~  Finalmente si noti, che il color dei
+capelli, che d'ordinario indica negli uomini e nei popoli la loro
+natura particolare, e conferisce assai alla loro maggiore o minor
+bellezza, @e qu@i trasferito non assurdamente a notare il maggiore
+o minore adornamento dell'anime per l'opera della grazia divina. 
+Concludo che |secondo il color dei capelli di cotal grazia~ deve
+ritenersi come un modo ellittico intendendo: ^Secondo il color
+dei capelli rappresentativo del grado diverso di cotal grazia.~> 
+Sin qu@i ^Br. B.~  Aggiungeremo che l'interpretazione del ^Merc.~
+non ci pare ammissibile; buona invece quella del ^Buti~, e
+migliore quella di ^Br. B.~, che @e in sostanza quella di tutti i
+commentatori moderni.
+
+	|73-74.  Merc@e~: merito; cfr. ^Inf.~ IV, 34.  --
+|Costumi~: virt@u, opere.  Intendi: Senza merito di loro opere;
+cfr. v. 42.  ^Lan.~, ^Ott.~, ^Anon. Fior.~: Qu@i conchiude per le
+sopradette cose la soluzione del dubbio ch'avea di sopra circa li
+pargoli, come senza proprio merito si pu@o abitare lo Paradiso
+(meglio: Come gli spiriti degl'infanti che non ebbero merito
+alcuno potessero sedere pi@u e meno alti ne' varj gradi di celeste
+gloria formanti la met@a inferiore della rosa).  E dice: se tal
+predestinazione @e, dunque senza mercede, cio@e proprio merito, si
+puote essere in Paradiso; e solo sono differenti in iscanni, per
+che sono differenti nella volont@a di Dio, le quale l'Auttore
+appella ^primo acume~ {v.75}, cio@e prima causa, alla quale si
+riducono tutte le cagioni.  ^Buti~: Dunque li beati parvoli sono
+locati per diversi gradi senza merito di loro opere, solamente
+avendo differenzia l'uno dall'altro nella prima grazia, che Iddio
+dona all'anima, quando la crea.  Come Iddio, quando cre@o gli
+Angeli, all'uno diede pi@u grazia che all'altro, e per questa
+grazia ebbero maggiore grado l'uno che l'altro nella beatitudine,
+e per l'obbedienza furono confermati nella grazia: e cos@i quando
+crea le anime umane, d@a all'una pi@u grazia che all'altra, e cos@i
+stando in quella grazia, obbediendo a lui, ha poi la gloria;
+dunque lo nostro bene operare @e cagione che non perdiamo la
+grazia, per la quale meritiamo la beatitudine; e come a maggior
+grazia maggiore merito risponde: cos@i a maggiore grazia maggiore
+beatitudine; e per@o conchiude che la cagione della differenza non
+st@a nelle opere nostre, ma nella grazia donata da Dio.
+
+	|75.  Acume~: a vedere Iddio, che ciascun pargolo ebbe
+sin dalla sua creazione dalla Grazia, non da meriti suoi. 
+^Tom.~: Bello che dal primo raggio della Grazia venga lo
+svolgersi vario, tuttoch@e libero, delle facolt@a insino alla fine.
+
+	|76.  S@i~: bens@i.  |Bastava s@i~ (o ^Bastavasi~, piuttosto
+differenza di grafia che errore) hanno ^W. 4~, ^Land.~, ^Pat.
+316~ e moltissimi altri codd.; cos@i pure le ediz. antiche e
+moderne.  Alcuni codd. hanno invece ^Bastavali~ (^Bastavagli~,
+^Bastava l@i~)); cos@i ^Cass.~, ^Vien.~, ^Stocc.~, ^Corton.~, ^Pat.
+2, 9, 67~ ecc.; ^Folig.~, ^Jesi~, ^Nap.~, ^Viv.~, ecc.; ^Lan.~,
+^An. Fior.~, ^Benv. Ramb.~, ecc.  Forse tale lezione deriva
+dall'aver preso un'^s~ lunga per un'^l~; ma potrebbe anche essere
+buona lezione: ^Bastavagli~ -- ^Bastava loro~, cio@e ai bambini,
+come intendono ^Lan.~, ^Ott.~, ^Anon. Fior.~, ecc.  Migliore @e
+tuttavia la lezione comune, che @e di ottimi codd.  Il ^Tom.~:
+^Bastava, l@i ne' secoli~, ecc.  -- |Recenti~: nuovi; nella prima
+et@a del mondo, da Adamo sino ad Abraamo.  ^Buti~: Ben dice
+|seculi~, imper@o che seculo @e proprie tempo di cento anni, e
+molti furno li tempi di cento anni infine ad Abraam, che fu 3084
+anni e furno pi@u etadi: imper@o che la prima fu d'Adam a No@e; la
+seconda da No@e ad Abraam.
+
+	|78.  Fede~: in Cristo venturo; cfr. ^Parad.~ XIX, 102 e
+segg.
+
+	|80-81.  Maschi~: ^Thom. Aq.~ ^Sum. theol.~ P. III, qu.
+LXX, art. 2: ^Circumcisio instituta est ut signum fidei Abrahoe,
+qui credidit se patrem futurum Christi sibi repromissi; et ideo
+convenienter solis maribus competebat.  Peccatum etiam originale,
+contra quod specialiter circumcisio ordinabatur, a patre
+trahitur, non a matre.~  Cfr. ibid. P. I, 2+a~e qu. LXXXI, art. 5;
+P. III, qu. LXX, art. 4: ^Sicut ante institutionem circumcisionis
+sola fides Christi futuri justificabat tam pueros quam adultos,
+ita etiam circumcisione data.  Sed antea non requirebatur aliquod
+signum protestativum hujus fidei, quia nondum homines fideles
+seorsum ab infidelibus coeperant adunari ad cultum unius Dei. 
+Probabile tamen est quod parentes fideles pro parvulis natis, et
+maxime in periculo existentibus aliquas preces Deo funderent, vel
+aliquam benedictionem eis adhiberent~ (^quod erat quoddam
+signaculum fidei~), ^sicut adulti pro seipsis preces et
+sacrificia offerebant.~  -- |Alle innocenti~: ^Vat.~, ^Berl.~,
+^Caet.~, ^Vien.~, ^Stocc.~, ^Landian.~, ^4 Patav.~, ecc.;
+^Folig.~, ^Jesi~, ^Nap.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~,
+^Sessa~, ^Crus.~, ecc.; ^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Benv.
+Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ecc.  ^Le innocenti~: ^S. Cr.~
+(corretto di seconda mano), ^Cass.~, ^Cort.~, ^Chig.~, ecc.;
+^Mant.~, ^Nidob.~, ecc.  Cos@i legge il ^Dan.~ e intende per le
+|innocenti penne~ il membro virile, lat. ^penis.~  Spiegazione
+troppo bizzarra.  Le |innocenti penne~ significano la forza
+d'innalzarsi al cielo.  Il senso @e: Bisogn@o che i maschi, per
+volare al cielo, alle penne dell'innocenza, acquistassero forza
+mediante il rito della circoncisione.  Cos@i i pi@u.  Diversamente
+^Buti~: <Oltre le penne della innocennza, la quale li levava.> 
+Non ^oltre~ le penne, ma |alle~ penne convenne acquistar virtute. 
+Con soverchia arguzia ^Ces.~: <Queste |penne~ debbono esser le
+ali da volar al Paradiso: ed io dubito forte, non sia qu@i un
+giuochetto di parole, i quali qualche rara volta Dante trascorse
+a vagheggiar troppo, n@e in questo sarebbe da cavarne copia. 
+Ecco: a' bambini fu bisogno tarpar le ali, acciocch@e
+acquistassero pi@u vigor da volare.  Egli trasse l'idea del
+|circoncidere~ alle |penne~, per cavarne il concetto posto di
+sopra, che ha un po' dell'arguto; essendo il circoncidere, o
+tarpar delle ali, impedimento al volare; e nel caso presente la
+circoncisione faceva il contrario, che agevolava quel volo.>  Il
+Poeta non dice che bisognava tarpare le penne, sibbene che
+bisognava acquistar loro virtute mediante la circoncisione.
+
+	|83.  Perfetto~: la circoncisione era battesimo
+imperfetto.  ^Thom. Aq.~ ^Sum. theol.~ P. III, qu. LXX, art. 1:
+^Circumcisio fuit praeparatoria ad baptismum, et praefigurativa
+ipsius.~  Ibid. art. 2: ^Baptismus in se continet perfectionem
+salutis, ad quam Deus omnes homines vocat.~  -- -- --
+^Circumcisio autem non continebat perfectionem salutis, sed
+figurabat ipsam ut fiendam per Christum.~  Ibid. art. 4: ^In
+circumcisione conferebatur gratia quantum ad omnes gratiae
+effectus; aliter tamen quam in baptismo.  Nam in baptismo
+confertur gratia ex virtute ipsius baptismi quam habet, in
+quantum est instrumentum passionis Christum jam perfectae; in
+circumcisione autem conferebatur gratia non ex virtute
+circumcisionis, sed ex virtute fidei passionis Christi, cujus
+signum erat circumcisio; ita scilicet quod homo qui acciepiebat
+circumcisionem, profitebatur se suscipere talem fidem, vel
+adultus pro se, vel alius pro parvulis.~
+
+	|84.  Laggi@u~: nel Limbo.  Pi@u mite giudica in proposito
+S. Bernardo, ^Tractat. ad Hugon. de S. Vict. de quaest. ab ipso
+propos.~ c. 2: ^Sane parvulis et necdum ratione utentibus, quia
+sola nocere creditur peccati contagio, non etiam praevaricatio,
+tamdiu credendum est antiqua valuisse sacramenta, quamdiu palam
+interdicta non fuisse constiterit.  An vero ultra, penes Deum
+est, non meum definire.~  Cfr. ^Thom. Aq.~ ^Sum. theol.~ P. III,
+qu. LXVIII, art. 2, 9; ^Parad.~ XX, 127 nt.
+
+	|85-99.~  ^Il saluto alla Vergine.~  Continua S.
+Bernardo: <Riguarda oramai nel volto di Maria, che pi@u di ogni
+altro somiglia in isplendore a quello del suo divino Figliuolo. 
+La di lei chiarezza pu@o sola renderti atto a mirare Cristo senza
+rimanerne abbagliato.>  Ritornando coll'estatico sguardo alla
+Vergine madre, il Poeta vede in lei riconcentrarsi tutto il
+gaudio divino, piovuto dagli Angeli, che trasvolavano tra il gran
+fiore e Dio, da cui ^porgean della pace e dell'ardore.~  Nulla di
+quanto ha finora contemplato potea mettersi in paragone alla
+beata vista di Maria, n@e vi ha in tutto il Paradiso cosa alcuna
+tanto a Dio somigliante.  L'Arcangelo Gabriello, libratosi sulle
+ali dinanzi alla Vergine, intuona l'Ave Maria e tutti i Beati
+della corte celeste ricantano Ave Maria, sicch@e di cielo in cielo
+echeggiando l'angelico saluto, brilla di nuova luce il Paradiso
+ed ogni fronte s'abbella e rasserena.  -- Sopra questi versi cfr.
+^Perazzini~, ^Correct. et Adnot.~ ed. ^Scolari~, p. 169; ^Capr@i~,
+^La Vergine Maria nella D. C.~ in ^Omaggio a Dante~, p. 466 e
+segg.
+
+	|85.  Cristo~: come di solito ripete per rispetto la rima
+|Cristo~; cfr. ^Par.~ XII, 71 e segg. XIV, 104 e segg. XIX, 104 e
+segg.
+
+	|86.  Si somiglia~: di luce.  Al. ^s'assomiglia.~
+
+	|87.  Disporre~: l'una visione @e scala ad altra pi@u alta. 
+^Tom.~
+
+	|88.  Allegrezza~: la ^gloria~, e il ^gaudio~ della pace
+e dell'ardore che in lei pioveva da Dio.  ^Ces.~
+
+	|89.  Nelle menti~: ^W. 4~, ^Cass.~, ^Stocc.~,
+^Landian.~, ^4 Patav.~, ecc.; prime 4 edd., ^Ald.~, ^Burgofr.~,
+^Giol.~, ^Rovill.~, ^Sessa~, ^Crus.~, ecc.; ^Lan.~, ^Anon.
+Fior.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ecc. 
+^Dalle~: ^Corton.~, ecc.; ^Vell.~, ^Perazz.~, ecc.  Le |menti
+sante~ sono gli Angeli che ^porgevan della pace e dell'ardore~;
+cfr. ^Parad.~ XXXI, 16 e segg.  Essi sono quasi altrettanti vasi,
+^nei~ quali @e portata l'allegrezza.  La lezione ^Dalle~ @e troppo
+sprovvista di autorit@a.
+
+	|90.  Create~: ^Cass.~ (creati), ^Vienn.~, ^Stocc.~,
+^Landian.~, ^4 Patav.~, ecc.; ^Mant.~, ^Nidob.~, ^Ald.~,
+^Burgofr.~, ^Giol.~, ^Rovill.~, ^Sessa~, ^Crus.~, ecc.; ^Benv.
+Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ecc.  ^Creata~: ^W. 4~
+(? cos@i secondo il ^Witte~; ma il ^Vatic.~ edito dal ^Fantoni~,
+della quale edizione si serv@i il ^Witte~ ha |Create~; sar@a forse
+lecito dubitare se il ^S. Cr.~, ^Berl.~ e ^Caet.~ hanno veramente
+^Creata~), ecc.; ^Folig.~, ^Jesi~, ^Nap.~, ecc.  Cos@i anche
+^Witte~ nelle sue due edizioni.  @E troppo evidente che questa
+lezione @e falsa.  Essa deriva per avventura dall'essersi trovato
+in qualche codd.  ^Creat a trasvolar~ (-- ^Creat'a trasvolar~),
+che taluno lesse spensieratamente ^creata a~ (invece di |create
+a~), e il ^Cass.~ lesse ^creati.~  ^Creata~ si riferirebbe
+all'^allegrezza~ del v. 88.  Ma @e chiaro che non l'^allegrezza~
+fu |creata a trasvolar per quella altezza~, sibbene le ^menti
+sante~ {v.89}, le angeliche intelligenze, furono create per
+volare tra il trono di Dio e le sedi dei Beati; cfr. ^Parad.~
+XXXI, 4 e segg.  Cos@i si vede costretto ad intendere lo stesso
+^Witte~, ad onta della sua lezione.  Egli traduce:
+
+     ^Und regnen sah auf sie ich so viel Freude~,
+     ^Gehegt in jenen reinen Geistern, welche~
+     ^Geschaffen wurden zu so hohem Fluge.~
+
+Sta bene; ma dunque bisogna leggere |Create~, come leggono tutti. 
+^Buti~: Gli angeli furono creati da Dio perch@e portassero le sue
+ambasciate, e per@o s'interpreta angelo ^messo.~
+
+	|91.  Quantunque~: quanto, tutto ci@o che io aveva veduto
+|davante~, prima di allora.
+
+	|92.  Sospese~: non mi tenne sospeso in tanta
+ammirazione; cfr. ^Parad.~ XX, 87.
+
+	|93.  Sembiante~: cosa tanto divina, e per@o tanto a Dio
+simigliante.  Nel ^Conv.~ dice che <quanto la cosa @e pi@u divina,
+@e pi@u a Dio simigliante>.  Ottimamente ^Buti~: Quantunqua io
+aveva veduto prima non mi mostr@o tanta similitudine d'Iddio.
+
+	|94.  Amor~: Angelo; Gabriele.  Cfr. ^Parad.~ XXIII, 103
+e segg.  -- |L@i~: sovra la Vergine, v. 88.
+
+	|96.  Distese~: stava sull'ali aperte, ricantandole
+quello che le era tanto glorioso, e che in Nazaret le avea detto. 
+^Ces.~
+
+	|97.  Rispose~: facendo eco alle parole di Gabriele,
+oppure seguitando la salutazione angelica.  -- |Cantilena~:
+canto.  La voce |cantilena~, osserva il ^Tom.~, acquista nobilt@a
+dal concetto e dall'aggiunto che le si accompagna.
+
+	|99.  Ogni vista~: non Ciascuna cosa ch'egli vedeva
+(^Dan.~, ecc.) ma: L'aspetto d'ogni Beato.
+
+	|100-114.~  ^L'Arcangelo Gabriele.~  Finge il Poeta che
+e' non conoscesse chi si fosse quell'Angelo che, libratosi sulle
+ali dinanzi alla Vergine, intuon@o la salutazione angelica. 
+Quindi ne dimanda a S. Bernardo, il quale gli risponde essere
+questi quell'Angelo che Iddio elesse per recare il fausto
+annunzio alla Vergine gi@u in terra.  Per tal motivo @e in lui
+tanta baldanza e letizia, quanta esser puote in Angelo od in
+anima umana.  Cos@i vogliono i Beati che sia, non potendo il voler
+loro non essere conforme al voler divino.  Sembra che il Poeta
+abbia voluto rammentare con questi versi che, come Iddio concede
+pi@u e meno grazia ad un uomo che ad un altro, non per merito
+alcuno, ma secondo il suo beneplacito: cos@i, secondo lo stesso
+beneplacito, Egli concede pure pi@u e meno grazia ad un Angelo che
+all'altro.  Come vi sono uomini privilegiati, cos@i anche Angeli. 
+In terra il privilegio genera invidia, in cielo letizia e
+contento.  -- Sopra questi versi cfr. ^L. Vent.~ ^Simil.~ 21, p.
+14, e ^Simil.~ 89, p. 55.
+
+	|100.  Comporte~: comporti, soffri; cfr. ^Parad.~ XXXI,
+80 e seg.
+
+	|101.  Quaggi@u~: nel fondo della celeste rosa.
+
+	|102.  Eterna~: per predestinazione divina fatta di te ab
+eterno; imper@o che Iddio ab eterno predestin@o ciascuno spirito al
+grado della beatitudine sua.  ^Buti.~  Cfr. ^Matt.~ XXV, 34;
+^Efesi~ I, 4; I ^Petr.~ I, 2.
+
+	|103.  Giuoco~: tripudio, festa giubbilante; cfr.
+^Parad.~ XX, 117.
+
+	|105.  Fuoco~: di letizia celeste.  Dei quattro mistici
+animali ^Ezech.~ I, 13: ^Aspectus eorum quasi carbonum ignis
+ardentium.~  Di angeli il ^Pulci~, ^Morg.~ XVIII, 84: ^Color che
+cantan, che paion di fuoco.~
+
+	|107.  Abbelliva~: si faceva bello guardando Maria; cfr.
+^Parad.~ XXII, 24; XXVI, 132 nt.  ^L. Vent.~: Qu@i usa il verbo
+^abbellire~; altrove ^abbellirsi.~  Lieve differenza, ma pur v'@e. 
+L@a sono molte anime che si fanno pi@u belle, irraggiandosi l'una
+l'altra reciprocamente.  Qu@i @e S. Bernardo che riceve, quasi
+inconsapevolmente, bellezza da Maria, in quanto affisandosi in
+lei partecipa del suo splendore.
+
+	|108.  Del sole~: ^Conv.~ III, 2: Il Sole s@e prima, e poi
+tutti i corpi celestiali e elementali allumina.
+
+	|109.  Baldezza~: quella sicurezza di atti che d@a l'esser
+contento di s@e; cfr. ^Parad.~ XVI, 17.  ^Tom.~ ^Diz. dei Sinon.~
+5+a~ ediz. p. 462^a~: ^Baldanza~ @e franchezza piena d'alacrit@a,
+compagna ora al bene ora al male; ma spesso ha mal senso. 
+|Baldezza~, antiquato, ma non da lasciar morire, l'ha buono.  --
+|Leggiadr$ia~: vaghezza di moti.
+
+	|110.  Alma~: anima umana.
+
+	|111.  Vol$em~: vogliamo: cfr. ^Parad.~ XX, 138.  ^Lan.~,
+^Ott.~, ^Anon. Fior.~: Qu@i si nota la unit@a della volontade degli
+salvi, la quale si @e una con quella del Re di vita eterna.
+
+	|112. Quegli~: Al. Quello.  -- |La palma~: ^Buti~: Lo
+segno della vittoria, ch'ella vinceva tutte l'altre creature in
+piacere a Dio: Iddio elesse lei, siccome quella che pi@u gli
+piaceva.  ^Lomb.~: Supponendo che tutte le donne ebree
+desiderassero e quasi contendessero di essere ciascuna la madre
+dell'aspettato Messia, sensatamente dice che l'Arcangelo
+Gabriello, dichiarando Maria Vergine madre di Ges@u Cristo,
+recassele |la palma~, cio@e la vittoria, sopra di tutte l'altre
+donne.  ^Andr.~: |La palma~ sopra tutte le donne.  ^Benedicta tu
+in mulieribus.~  E con una palma in mano @e dipinto quasi da
+tutti.
+
+	|114.  Salma~: del peso della nostra umana carne.
+
+	|115-138.~  ^I gran patrici della celeste Gerusalemme.~ 
+Continua S. Bernardo, invitando il Poeta a seguirlo guardando l@a
+dove egli gli mostrer@a i primarj soggetti della Corte celeste.  A
+sinistra della Vergine siede Adamo; alla di lei destra S. Pietro;
+allato a questi l'Evangelista S. Giovanni, allato ad Adamo Mois@e. 
+Dall'opposta parte, di contro a Pietro, e perci@o a manca di
+Giovanni Battista, che siede di contro a Maria, siede Anna, la
+madre di Maria Vergine; dirimpetto ad Adamo, e quindi a destra
+del Battista, siede Lucia, quella che mosse Beatrice a soccorrere
+il Poeta; ^Inf.~ II, 97 e segg.  Sopra questi versi cfr. ^L.
+Muzzi~, ^Lettera sopra alcuni luoghi di D.~, p. LVII e segg. 
+^Dal Rio~ nell'^Appendice~ della D. C. edita dal ^Passigli~,
+Prato 1847-52, p. 749; ^G. B. Panciani~, negli ^Annali delle
+scienze religiose~ di Roma.  Nuova Serie, II, 27 e seg.
+
+	|115.  Vieni~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Fram. Pal.~,
+^Cort.~, ^Vien.~, ^Stocc.~, ^Landian.~, ^4 Patav.~, ^6 Pucc.~, ^3
+Riccard.~, ecc.; prime 4 edd., ^Nidob.~, ^Sessa~, ^De Rom.~, ^Ed.
+Pad.~, ^Viv.~, ^Sicca~, ^Fosc.~, ^Mauro Ferr.~, ^Witte~, ^Giul.~,
+ecc.; ^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Falso Bocc.~, ^Benv.
+Ramb.~, ^Land.~, ^Vell.~, ^Dan.~, ^Lomb.~, ecc.  ^Ma vienn'
+omai~: ^Vat.~, ecc.  ^Ma viene omai~: ^Cass.~, ^Buti~, ecc.  ^Ma
+vienne omai~: ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~, ^Crus.~,
+^Missir.~, ^Comin.~, ^Dion.~, ^Pezz.~, ^Quattro Fior.~, ^Fanf.~,
+ecc.  Il ^Biag.~ osserva: <^Vienne~; cos@i pi@u toscanamente s'ha a
+scrivere, e non come la Nidob. |vieni~, dimostrando la prima
+forma il successivo discorrimento, con riguardo al luogo onde
+muovesi l'azione procedente via via.>  S'ha a scrivere come hanno
+i codd., le primitive ediz. e i pi@u antichi commentatori, che
+tutti d'accordo hanno |Vieni~, mentre invece il ^Vienne~ @e
+pressocch@e del tutto privo di autorit@a.
+
+	|116.  Patrici~: plur. di ^patrizio~, come ^offici~ da
+^offizio~; cfr. ^Parenti~, ^Annotaz. al Diz.~ I, 78 e segg.  Cos@i
+chiama Dante i pi@u onorevoli tra gli Eletti.  ^Lan.~ e ^Anon.
+Fior.~: |Patrici~ tanto @e come principali offiziarj.  ^Ott.~: Al
+modo antico favella; ^patrizii~, cio@e nobili senatori, o delle
+schiatte de' nobili senatori.  ^Buti~: |I gran patrici~ cio@e li
+grandi padri; chiamavansi a Roma ^padri~ quelli che consigliavano
+la repubblica, e ^patricio~ si chiamava chi era di quello ordine.
+
+	|119.  Augusta~: a Maria, ^regina coeli~; ^Parad.~ XXIII,
+128.  ^Lan.~, ^An. Fior.~: ^All'Augusta~, cio@e alla trionfatrice,
+che @e Nostra Donna.  ^Ott.~: ^Ad Augusta~, cio@e alla Imperadrice
+di vita eterna.  -- Come vi sono gradi di gloria, cos@i pure di
+felicit@a.  La Vergine @e al sommo grado di gloria; chi le sta pi@u
+dappresso @e pi@u felice.
+
+	|120.  Radici~: Adamo fu il primo dei credenti in Cristo
+venturo, Pietro il primo dei credenti in Cristo venuto.
+
+	|121.  Sinistra~: lato meno nobile.  La vecchia legge men
+nobile della nuova.  -- |S'aggiusta~: s'avvicina, dal lat.
+^juxta.~  Il ^Buti~ legge ^s'adiusta~ e spiega: <Le s'approssima;
+^adiustare~ @e stare allato.>  Il ^Muzzi~ voleva leggere il verso
+
+     Colui che da sinistra si le aggusta
+
+e intendere che molto ^aggustava~ a Maria il mirarsi vicino
+l'occasionatore della sua gloria, avvegnach@e, come fu intitolata
+felice la colpa di Adamo per aver meritato un tale e tanto
+Redentore nel Signor nostro, poteva parimente Maria risguardarla
+felice, perch@e senza di essa non sarebbe salita a tanta altezza;
+e dovea quindi provar contento nella compagnia di colui che con
+aver commesso quella colpa, occasion@o a Lei quella gloria.  Ma la
+lezione proposta dal ^Muzzi~ @e troppo arbitraria,
+l'interpretazione troppo bizzarra.
+
+	|122.  Padre~: della specie umana.  -- |Ardito~: ha senso
+in Dante pi@u grave d'adesso.  ^Tom.~  -- |Gusto~: del frutto
+vietato.
+
+	|123.  Tanto amaro~: le amaritudini della vita e
+l'amarezza della morte; cfr. ^Parad.~ XIII, 39.
+
+	|124.  Padre~: S. Pietro.
+
+	|126.  Raccomand@o~: ^Matt.~ XVI, 19; cfr. ^Thom. Aq.~
+^Sum. theol.~ P. III, Suppl. qu. XVII, art. 1.  -- |Fior~: del
+regno de' cieli, che il Poeta vede qu@i in forma di candida rosa;
+^Parad.~ XXXI, 1.  -- |Venusto~: bello, vago.
+
+	|127.  Quei~: S. Giovanni Evangelista, autore
+dell'Apocalisse, considerata in quei tempi come il compendio
+profetico della storia della Chiesa sino alla fine dei giorni.
+
+	|128.  Sposa~: la Chiesa; cfr. ^Parad.~ X, 140 nt. XI, 32
+e seg. XII, 43; XXVII, 40; XXXI, 3.
+
+	|129.  S'acquist@o~: da Cristo; cfr. ^Act.~ XX, 28.  --
+|Chiavi~: ^S. Cr.~, ^Vat.~, ^Caet.~, ^Cass.~, ^Vien.~, ^Stocc.~,
+^Landian.~, ^Patav. 2, 9, 67~, ^Vicent.~, ecc.; ^Folig.~,
+^Mant.~, ^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~,
+^Crus.~, ecc.; ^Benv. Ramb.~, ^Vell.~, ^Dan.~, ^Vent.~, ^Lomb.~,
+ecc.  ^Clavi~: ^Berl.~, ^Fram. Pal.~, ^Corton.~, ^Antald.~, ^Pat.
+316~, ecc; ^Jes.~, ^Nap.~, ^Sessa~, ^Vic.~, ^Mauro Ferr.~, ecc.;
+^Buti~, ^Land.~, ^Wagn.~, ecc.  |Chiavi~ per ^chiodi~, e
+^chiavare~ per ^inchiodare~ si adoperarono anticamente anche in
+prosa; cfr. ^Voc. Crus.~  ^Inf.~ XXXIII, 46; ^Purg.~ VIII, 137;
+^Parad.~ XIX, 105.  Il ^Buti~ ha ^clavi~ nel suo testo, |chiavi~
+nel commento.
+
+	|130.  Lungh'esso~: allato ad esso Pietro; cfr. ^Inf.~
+XXI, 97. 98.  -- |L'altro~: Adamo.
+
+	|131.  Quel~: Mois@e.
+
+	|132.  Ingrata~: ripete i rimproveri fatti tante volte da
+Dio agli Israeliti.
+
+	|133.  Anna~: sant'Anna, figlia del sacredote Matthan,
+moglie di Joachim e madre di Maria Vergine.  Cfr. ^Evang. de
+nativ. Mariae e Protevang. Jacobi~ in ^Fabric. Cod. Apocr.
+N. T.~ I, p. 19 e segg. e p. 67 e segg. ^Acta Sanctor.~  Tom.
+VI, Jul. p. 233; ^Tillemont~, ^Memor. ad Hist. Eccl.~ I, 226;
+^J. Gerson~, ^De nat. virg. Mariae~ (^Opp.~ T. III, p. 59):
+
+     ^Anna tribus nupsit: Joachim, Cleophae Salomoeque~,
+     ^Ex quibus ipsa viris peperit tres Anna Marias~,
+     ^Quas duxere Joseph, Alphoeus Zebedoeusque.~
+
+	|135.  Per cantare~: quantunque ella canti.
+
+	|136.  Padre~: Adamo.
+
+	|137.  Lucia~: cfr. ^Inf.~ II, 97, 100; ^Purg.~ IX, 55 e
+segg.  ^Fornaciari~, ^Del significato allegor. della Lucia di D.~
+Lucca 1873, p. 12 e seg.
+
+	|138.  Chinavi~ -- |Le ciglia~: ^Io perdei la speranza
+dell'altezza~, Inf. I, 54.  -- |A ruinar~: ^Mentre ch'io rovinava
+in basso loco~; Inf. I, 61.  ^Viv.~ legge ^A ritornar~, contro
+l'autorit@a dei codd. e di Dante stesso nel passo citato.
+
+	|139-151.~  ^Preparazione alla preghiera.~  Dice S.
+Bernardo a Dante: Fuggendo il tempo assegnato all'alta tua
+visione, @e necessario por termine alle parole per dar luogo alla
+finale contemplazione del primo Amore, e far come il sarto che
+ragguaglia l'opera alla quantit@a del panno.  Ma affinch@e tu,
+procedendo fiducioso nelle proprie tue forze e credendo
+inoltrarti nella luce divina, non abbi per avventura a
+ritrocedere in pena di tanto orgoglio, conviene impetrarne grazia
+per mezzo dell'orazione.  Altamente confessa qu@i il Poeta che
+nella via del cielo arretra chi crede inoltrarsi muovendo l'ali
+sue, cio@e colle sue forze naturali, ma n'@e bisogno la grazia
+divina, la quale orando conviene che a noi discenda da Quella che
+in cielo @e potentissima.  -- Sopra questi versi cfr. ^L. Vent.~
+^Simil.~, p. 227; ^Capr@i~, ^La Vergine Maria nella D. C.~ in
+^Omaggio a Dante~, p. 476 e segg.  ^Perazzini~, ^Correct. et
+adnot.~ ed. ^Scolari~, p. 169 e seg.
+
+	|139.  T'assonna~: propriamente, ti addormenta.  Qu@i
+intende del tempo da Dio concedutogli all'alta sua visione; cfr.
+^Parad.~ I, 73 e seg.  Il Poema doveva constare di cento canti;
+quindi il Poeta si vede costretto a volare verso la fine, n@e ci
+d@a i motivi del suo sistema rimunerativo, come ha fatto del
+penale.  ^Tom.~: T'assonna nell'alta visione.  Il tempo @e che
+l'assonna; personificato con poetica filosofia.  ^Buti~
+stranamente: <|t'assonna~, t'invita a dormire e riposare>; e
+allegoricamente: <T'invita ed induce alla morte, dopo la quale
+dormir@a il corpo tuo infino al d@i della risurrezione ultima.>
+
+	|140-141.  Sartore~: cfr. ^Inf.~ XV, 20 e seg.  ^L.
+Vent.~: Similitudine viva, ma, e nel luogo, e in bocca di un
+Santo, poco convenevole.  Anche al ^Filal.~ la similitudine
+sembra poco nobile.  Invece ^Ces.~: Vaga metafora! questa del
+sartore, che ragguaglia l'opera con la pezza del panno.  ^Tom.~:
+Dai ^gran patrici~ {v.116} dell'imperio celeste non ben si
+discende al |buon sartore, Che, com'egli ha del panno, fa la
+gonna~: ma chi ben guarda le cose umane e la storia d'Italia,
+riconosce che certe affettazioni ambiziose sono effetto e causa
+di certe irregolarit@a....  S'io non esalto la similitudine del
+sartore, non @e per@o ch'io non reputi degna dell'arte vera e
+dell'ingegno di Dante la severa modestia della quale egli fa
+prova nel non volere gli ultimi canti del suo Poema pi@u e pi@u
+risonanti e smaglianti, come la chiusa di certe declamazioni da
+pulpito o da piazza o da scena.  -- |La gonna~: l'abito, la
+veste, pi@u o meno ampia.
+
+	|142.  Amore~: Dio; cfr. ^Inf.~ III, 6; ^Parad.~ VI, 11. 
+In questi passi Dante chiama |primo Amore~ lo Spirito Santo. 
+Qu@i, in procinto di elevarsi alla visione della SS. Trinit@a,
+chiama |primo Amore~ il Dio Triuno.
+
+	|143.  Guardando~: tu.  -- |Penetri~: t'addentri,
+t'insinni.
+
+	|145.  Veramente~: ma; @e il ^verum~ o ^verumtamen~ dei
+Latini; cfr. ^Parad.~ I, 10 nt.  -- |N@e forse~: affinch@e non
+avvenga per avventura che tu, tentando d'inoltrarti, non abbia a
+retrocedere.  Ottimamente ^Benv. Ramb.~: ^Ne forte tu retrocedas
+et elongeris a fine intento.~  ^Lan.~, ^Ott.~, ^Anon. Fior.~: Qu@i
+mostra ancora come solo per grazia si vede della Divinit@a alcuna
+cosa; e dice, acci@o che non credessi, per te stesso, cio@e per
+tuoi naturali, tanto oltrarti, cio@e aguzzare la tua vista che
+potessi comprendere, sappi che ti conviene impetrare grazia,
+orando a Nostra Donna; quasi a dire: t@olti via da quello
+pensiero, e disponti a tale orazione, e avrai tuo intento. 
+^Dan.~: Il construtto @e: Veramente orando convien che s'impetri
+grazia, n@e forse tu credendo passar oltre con l'intelletto alla
+cognizione di essa somma essenzia, movendo l'ali del tuo
+desiderio, ti tiri indietro e t'allontani dall'impetrar grazia
+ecc.  ^Buti~, ^Land.~, ^Vell.~, ^Lomb.~, ecc. prendono il |n@e
+forse~ nel senso di ^senza alcun dubbio~ e spiegano: T'affermo
+per fatto certo e non dubbio, che tu credendo inoltrarti per
+muovere le ali tue, torneresti addietro.  Ma oltrecch@e questa
+interpretazione @e stiracchiata, non si hanno esempi di |n@e forse~
+per ^senza dubbio.~  Invece del ^ne forse~ per ^affinch@e non~,
+alla latina, si hanno altri esempi negli antichi.  ^Rinaldeschi~,
+^Espos. de' Salmi~, Sal. CXXXIX: Tu Iddio non mi abbandonare, |n@e
+forse~ sieno esaltati i miei nemici.  ^Collez. de' SS. Padri~,
+Cod. Ric. Col. I, c. XX: Dio ha comandato agli Angeli che ti
+guardino... ^n@e per avventura~ tu non incappi alla pietra. Cfr.
+^Ces.~ e ^Br. B.~ ad h. l.
+
+	|146-147.  Movendo~: per tua propria virt@u.  ^Buti~:
+Movendo lo ingegno tuo in alto con la ragione e con lo intelletto
+tuo; o vogliamo meglio, con la pratica e teorica tua, che tu hai
+delle scienze.  -- |Oltrarti~: inoltrarti, elevarti.  ^Ces.~:
+Grande arte @e in questo venir sempre crescendo la difficolt@a di
+poter in Dio affissare lo sguardo, e questo nuovo bisogno
+d'ajuto; il che aggrandisce l'idea di quell'Essere infinito; il
+quale veduto a faccia a faccia, ucciderebbe l'uomo per la sua
+troppa luce, e per l'incomportabile soavit@a che porta quella
+visione, se perci@o non fosse levato sopra la propria natura. 
+^Tom.~: Terribile pensiero, e vero, e che dimostra l'alta umilt@a
+di quest'anima.
+
+	|148.  Da quella~: da Maria.  -- ^Boet.~ ^Phil. Cons.~
+lib. III, pr. 9 (ed. ^Peiper~, p. 70): ^Sed cum, uti Timaeo
+Platoni, inquit, nostro placet, in minimis quoque rebus divinum
+praesidium debeat implorari: quid nunc faciendum censes, ut illius
+summi boni sedem repperire mereamur~?  -- ^Invocandum, inquam,
+rerum omnium patrem, quo praetermisso nullum rite fondatur
+exordium.~  -- ^Recte, inquit, ac simul ita modulata est.~
+
+	|149.  Mi segui~: ^S. Cr.~, ^Vat.~, ^Cass.~, ^Fram.
+Pal.~, ^Chig.~, ecc.; prime 4 edd., ^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovill.~, ^Sessa~, ^Missir.~, ^Dion.~, ^Mauro Ferr.~, ^Witte~,
+ecc.; ^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Buti~ (mi segue), ^Vell.~,
+^Dan.~, ecc.  ^Mi seguirai~: ^Berl.~, ^Caet.~, ^Vien.~, ^Stocc.~,
+^Cort.~, ^Land.~, ^4 Patav.~, ^Esten.~, ecc.; ^Crus.~, ^Comin.~,
+^De Rom.~, ^Ed. Pad.~, ^Viv.~, ^Pezz.~, ^Sicca~, ^Quattro Fior.~,
+^Fosc.~, ^Fanf.~, ^Giul.~, ecc.; ^Benv. Ramb.~, ^Land.~, ^Dol.~,
+^Vent.~, ^Lomb.~, ecc.  Gli ^Accad. del 1595~: <Ci pare che
+|affezione~, secondo la pronunzia, stia meglio di quattro
+sillabe.>  Ma di cinque sillabe @e altrove in Dante; cfr.
+^Perazz.~ l. c.  Il ^Perazz.~: ^Illud autem~ |Segui~ ^tam dulce
+est, ut mutandum non sit.~  Anche la comune ha per@o buone
+autorit@a.
+
+	|150.  Parti~: divida, disgiunga.  ^Dan.~: Seguimi con
+l'affezione s@i fattamente, che tu non diparti il tuo cuore dal
+mio parlare.

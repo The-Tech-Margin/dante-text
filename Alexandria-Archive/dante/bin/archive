@@ -1,0 +1,38 @@
+#! /bin/sh
+
+# Write a Dante commentary directory to tape
+
+DANTEHOME=/amber/Dante
+TAPE=/dev/rmt0h
+
+if
+	cd $DANTEHOME
+then
+	:
+else
+	exit 1
+fi
+
+if [ $1 = '-u' ]; then
+	UNLOAD="mt -f $TAPE off"
+	shift
+else
+	UNLOAD=":"
+fi
+for COMM
+do
+	if [ -d $COMM ]; then
+		echo ""
+		echo -n "Mount tape for $COMM and hit RETURN when ready - "
+		read JUNK
+		if
+			tar cf $TAPE $COMM
+		then
+			echo $COMM written to archive tape `date` >> $COMM/HISTORY
+		fi
+		$UNLOAD
+		echo "Done."
+	else
+		echo "$COMM does not exist!"
+	fi
+done

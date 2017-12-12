@@ -1,0 +1,415 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.3
+date     88.05.23.12.46.44;  author dante;  state Exp;
+branches ;
+next     1.2;
+
+1.2
+date     87.03.20.15.17.30;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     87.01.27.13.59.59;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@shell script for prepping commentaries for database loading
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@#! /bin/sh
+
+#	Prepare files for database loading
+#
+#	Usage:	preload  [-proemio]  [-poem]  [-desc]  [-comm]  file ...
+#
+#	At most one of the options may appear.  The default is -comm.
+
+if [ $# -eq 0 ]
+then
+	echo "Usage:  preload  [-proemio]  [-poem]  [-desc]  [-comm]  file ..."
+	exit 1
+fi
+
+DOCTYPE=T
+umask 002
+
+while true
+do
+	case $1 in
+		-comm*)
+			DOCTYPE=T
+			shift ;;
+		-proem*)
+			DOCTYPE=I
+			shift ;;
+		-poem)
+			DOCTYPE=P
+			shift ;;
+		-desc*)
+			DOCTYPE=D
+			shift ;;
+		-*)
+			echo "Unrecognized option: $1"
+			exit 1 ;;
+		*)
+			break ;;
+	esac
+done
+
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	TMP=/tmp/dante.$$
+	trap "rm -f $TMP" 0
+
+	echo -n "Enter formal name of commentary (e.g. Selmiano): "
+	read COMMENTARY
+
+	echo -n "Enter the language of the commmentary (e.g. Italian): "
+	read LANGUAGE
+
+	echo -n "Enter the year of publication (e.g. 1492): "
+	read PUBYEAR
+fi
+
+case `pwd` in
+	*/inf)	CANTICA=10-Inferno DEST=../staging/inf ;;
+	*/purg)	CANTICA=20-Purgatorio DEST=../staging/purg ;;
+	*/para)	CANTICA=30-Paradiso DEST=../staging/para ;;
+	*)	CANTICA="" DEST=staging ;;
+esac
+
+echo ""
+echo "So far you have:"
+echo -n "	Doc. type  = "
+case $DOCTYPE in
+	I)	echo Proemio ;;
+	T)	echo Commentary ;;
+	D)	echo Description ;;
+	P)	echo Poem ;;
+esac
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	echo "	Commentary =" $COMMENTARY
+	echo "	Language   =" $LANGUAGE
+	echo "	Pub. Year  =" $PUBYEAR
+fi
+echo "	Cantica    =" $CANTICA
+echo ""
+echo -n "Type y to continue, n to quit [y]: "
+read REPLY
+if [ $REPLY. != . -a $REPLY. != y. ]
+then
+	exit
+fi
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	echo ""
+	echo -n "Is this material copyrighted (y|n)? [n]: "
+	read REPLY
+	if [ $REPLY. = y. ]
+	then
+		COPYRIGHT=y
+	fi
+fi
+if [ $DOCTYPE = T -o $DOCTYPE = I ]
+then
+	echo ""
+	echo -n "Number of leading lines to delete or e to edit [e]: "
+	read AUTODEL
+fi
+
+for INPUT
+do
+	case $INPUT in
+		[0-9][0-9].*)	OUTPUT=${DEST}/`base $INPUT` ;;
+		*)		OUTPUT=${DEST}/$INPUT ;;
+	esac
+	echo ""
+	echo "::::::::::::::::::::::::::::::::::::::::::::"
+	echo "Preloading $INPUT into $OUTPUT."
+	echo "::::::::::::::::::::::::::::::::::::::::::::"
+	if [ ! -r $INPUT ]
+	then
+		echo ""
+		echo "File $INPUT does not exist.  Skipping it."
+		continue
+	fi
+	if [ -s $OUTPUT ]
+	then
+		echo ""
+		echo -n "File $OUTPUT already exists.  Type y to overwrite it [y]: "
+		if
+			read REPLY
+			test $REPLY. = y. -o $REPLY. = .
+		then
+			rm $OUTPUT
+		else
+			echo "Skipping $INPUT."
+			continue
+		fi
+	fi
+
+	if [ $DOCTYPE = T -o $DOCTYPE = I ]
+	then
+		if [ $AUTODEL. = . -o $AUTODEL. = e. ]
+		then
+			expand $INPUT > $TMP
+			chmod u+w $TMP
+			vi $TMP
+		else
+			sed "1,${AUTODEL}d" $INPUT > $TMP
+		fi
+		if [ $DOCTYPE = T ]
+		then
+			CANTO=`base $INPUT`
+			CANTO=`expr $CANTO + 0`
+		fi
+	fi
+
+	for DIR in ../staging $DEST
+	do
+		if [ ! -d $DIR ]
+		then
+			mkdir $DIR
+		fi
+	done
+
+	if [ $DOCTYPE = T -o $DOCTYPE = I ]
+	then
+		echo ""
+		echo "Filtering $COMMENTARY..."
+		dbloadf -c$COMMENTARY -l$LANGUAGE -p$PUBYEAR -t$DOCTYPE \
+			-a$CANTICA -o$CANTO ${COPYRIGHT+-r} $TMP $OUTPUT
+	elif [ $DOCTYPE = P ]
+	then
+		echo ""
+		echo "Filtering..."
+		awk -f /dante/lib/poem.awk $INPUT > $OUTPUT
+	elif [ $DOCTYPE = D ]
+	then
+		cp $INPUT $OUTPUT
+	fi
+	if [ $? -eq 0 ]
+	then
+		echo "Verifying $COMMENTARY..."
+		brsvfy -log dante -file $OUTPUT DANT |
+			fgrep -v 'Date was Replaced
+No errors'
+		chmod 644 $OUTPUT
+		ls -l $OUTPUT
+	fi
+
+done
+@
+
+
+1.2
+log
+@first production version, having single option -p.
+@
+text
+@d3 1
+a3 1
+#	Prepare commentary files for database loading
+d5 1
+a5 1
+#	Usage:	preload  [-p]  file ...
+d7 1
+a7 1
+#		where -p indicates a Proemio document (DTYP = I)
+d11 1
+a11 1
+	echo "Usage: preload  [-p]  file ..."
+d15 27
+a41 1
+if [ $1 = -p ]
+d43 2
+a44 5
+	DOCTYPE=I
+	shift
+else
+	DOCTYPE=
+fi
+d46 2
+a47 2
+TMP=/tmp/dante.$$
+trap "rm -f $TMP" 0
+d49 2
+a50 2
+echo -n "Enter formal name of commentary [e.g. Selmiano]: "
+read COMMENTARY
+d52 3
+a54 2
+echo -n "Enter the language of the commmentary [e.g. Italian]: "
+read LANGUAGE
+d56 5
+a60 11
+echo -n "Enter the year of publication [e.g. 1492]: "
+read PUBYEAR
+
+echo -n "Enter cantica number [1 = Inf, 2 = Purg, 3 = Para, or CR for none]: "
+read CNUM
+case $CNUM
+in
+	1)	CANTICA=10-Inferno DEST=../staging/inf ;;
+	2)	CANTICA=20-Purgatorio DEST=../staging/purg ;;
+	3)	CANTICA=30-Paradiso DEST=../staging/para ;;
+	*)	CANTICA="" DEST=../staging ;;
+d65 8
+a72 5
+echo "	Commentary =" $COMMENTARY
+echo "	Language   =" $LANGUAGE
+echo "	Pub. Year  =" $PUBYEAR
+echo "	Cantica    =" $CANTICA
+if [ $DOCTYPE. = I. ]
+d74 3
+a76 3
+	echo "	Doc. type  = Proemio"
+else
+	echo "	Doc. type  = Commentary"
+d78 1
+d80 1
+a80 1
+echo -n "Type y to continue, n to quit: "
+d86 1
+a86 6
+echo ""
+echo "Output files will be placed in directory" $DEST
+echo ""
+echo -n "Type y to continue, otherwise specify another directory: "
+read REPLY
+if [ $REPLY. != . -a $REPLY. != y. ]
+d88 7
+a94 1
+	DEST=$REPLY
+d96 6
+d105 1
+a105 2
+	case $INPUT
+	in
+d122 1
+a122 1
+		echo -n "File $OUTPUT already exists.  Type y to overwrite it: "
+d125 1
+a125 1
+			test $REPLY. = y.
+d134 16
+a149 7
+	echo ""
+	echo "Check and then DELETE the canto number at top and typist info at bottom."
+	echo -n "Hit RETURN to invoke editor..."
+	read REPLY
+	cp $INPUT $TMP
+	chmod o+w $TMP
+	vi $TMP
+a150 4
+	echo ""
+	echo -n "Enter canto number [1 thru 34 or CR for none] (input file was $INPUT): "
+	read CANTO
+
+d159 24
+a182 7
+	echo ""
+	echo "Filtering..."
+	dbloadf -c$COMMENTARY -l$LANGUAGE -p$PUBYEAR -t$DOCTYPE \
+		-a$CANTICA -o$CANTO $TMP $OUTPUT
+	echo "Verifying..."
+	brsvfy -log dante -file $OUTPUT XDAN | grep -v 'Date was Replaced'
+	ls -l $OUTPUT
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 4
+d9 14
+d26 1
+a26 1
+echo -n "Enter formal name of commentary (e.g. Selmiano): "
+d29 1
+a29 1
+echo -n "Enter the language of the commmentary (e.g. Italian): "
+d32 1
+a32 1
+echo -n "Enter the year of publication (e.g. 1492): "
+d35 1
+a35 1
+echo -n "Enter the cantica number (0 = Proemio, 1 = Inf., 2 = Purg., 3 = Para.): "
+d39 4
+a42 4
+	0)	CANTICA=00-Proemio DEST=../staging/ ;;
+	1)	CANTICA=10-Inferno DEST=../staging/inf/ ;;
+	2)	CANTICA=20-Purgatorio DEST=../staging/purg/ ;;
+	3)	CANTICA=30-Paradiso DEST=../staging/para/ ;;
+a44 8
+if [ $CNUM = 0 -a $# -ne 1 ]
+then
+	echo ""
+	echo "Sorry, when doing a proemio, you must list exactly one"
+	echo "input file on the command line.  You listed $# files."
+	exit
+fi
+
+d46 1
+a46 1
+echo "Checking:"
+d51 6
+a57 2
+echo "	Output dir.:" $DEST
+echo ""
+d60 1
+a60 1
+if [ $REPLY. != y. ]
+d64 9
+d78 2
+a79 2
+		[0-9][0-9].*)	OUTPUT=${DEST}`base $INPUT` ;;
+		*)		OUTPUT=${DEST}$INPUT ;;
+d82 1
+d84 1
+d88 1
+a88 1
+		echo "$INPUT does not exist.  Skipping it."
+d94 1
+a94 1
+		echo -n "$OUTPUT already exists.  Type y to overwrite it: "
+a105 1
+	cp $INPUT $TMP
+d107 1
+a107 1
+	echo "Note and then DELETE the canto number at top and typist info at bottom."
+d110 2
+d114 3
+a116 8
+	if [ $CNUM = 0 ]
+	then
+		CANTO=""
+	else
+		echo ""
+		echo -n "Enter canto number (1 thru 34 or Proemio): "
+		read CANTO
+	fi
+d127 4
+a130 2
+	echo "Filtering and verifying..."
+	dbloadf -c$COMMENTARY -l$LANGUAGE -p$PUBYEAR -a$CANTICA -o$CANTO $TMP $OUTPUT
+d132 1
+@

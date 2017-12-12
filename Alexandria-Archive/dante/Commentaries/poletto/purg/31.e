@@ -1,0 +1,1249 @@
+	|Nota~ Il Tommaseo: <L'amenit@a del Paradiso terrestre, la dolce
+vista di Matelda e di Beatrice, la friorita e i canti degli
+Angeli, non isvestono di imagini di guerra il pensiero e la
+decitura del Poeta, che sente, nel ^parlare acro volto a lui, il
+taglio e la punta~; che vede nella giustizia di Dio, commisurata
+alla misericordia, ^rivolgersi contro il taglio la ruota.~  Il
+prorompere dalla sua angoscia @e assomigliato ad ^arco che si
+rompe, ad asta che tocca con men foga il segno.~  Dagli occhi di
+Beatrice ^Amore gli trasse le sue armi.  Il primo strale delle
+cose fallaci~ doveva levare in alto il suo volo; ^perch@e dinnanzi
+ai pennuti saettasi indarno.~  Gli ostacoli al bene sono ^fosse e
+catene~ che alla via ^s'attraversano.~  Il pentimento, poi ^@e
+ortica che lo punge~; il pentimento lo ^morde.~  Egli scoppia
+^sotto il carco~ della sua vergogna, e ^l'accusa del suo peccato
+gli scoppia~ di bocca.
+
+	|1-6.~  L'Alfieri not@o il primo e i due ultimi.  |Fiume
+sacro~; il Lete.  -- |Volgendo~ ecc.; altrove ^drizzare~: ^Inf.~, 
+XXVII, 19-20.  -- |Per punta~; direttamente; -- |pur per taglio~;
+anche indiretto, quando di me parlava agli Angeli (^Purg.~, XXX, 
+103 e segg.), col manifesto fine di pungermi (e s@i l'una che
+l'altra frase; |per punta~ e |per taglio~, desumono la lor
+ragione metaforica dalla ^spada~, ^Purg.~, XXX, 57).  -- |Acro~;
+acerbo, amaro (cf. ^Purg.~, XXX, 80-81).  -- |Senza cunta~;
+tosto, senza frammettere indugio.  Il Giuliani (postill. ined.):
+<^Senza cuntare~ (indugiare) lo intesi in Valdinievole, e viene
+dal ^cunctari~>.  -- |Di', di'~; ripetizione, che mostra la
+veemenza del sentimento, che dominava Beatrice (cf. ^Inf.~, I, 
+121-123; XIX, 62).  Egregiamente il Tommaseo osserva: <La
+Filosofia costringe Boezio a confessare i suoi falli (-- ^e i
+giovani faran bene a s@e a leggere almeno il primo libro della
+Consolazione~ --).  Bello vedere questi due sapienti infelici, 
+che dal dolore deducono cagione d'umilt@a virtuosa e di lagrime
+sante.>  -- |Questo~; quanto ho test@e detto in tua accusa.  -- |A
+tanta accusa~ ecc.; il Tommaseo allega ^Jerem.~, III, 15: ^Sappi
+la tua iniquit@a, perch@e hai prevaricato contro il Signore Dio
+tuo.~  -- |Conviene~; @e mestieri, fa duopo (frequentissimo nel
+Poema in tale uso); Dante medesimo, nota il Cesari, dovea
+confessar vere le accuse di Beatrice, che la cordial penitenza
+porta la umile confession del peccato.
+
+	|7-9.~  Notati dall'Alfieri.  Dante pei ricevuti
+rimproveri era tanto confuso (cf. ^Vit. N.~, {Paragraph.} 15, la
+prosa e anche il sonetto), che volendole ubbidire affermando vere
+le accuse di lei, aperse la bocca per parlare, ma non fu capace
+di articolar parola.  -- |La voce si mosse~; cf. ^Inf.~, V, 80;
+-- |si spense~; il Cesari: <Ouesto ^spegnersi~ (-- anche del
+linguaggio d'un popolo, che si trasmuta in un altro, ^Par.~, 
+XXVI, 124 --), come anche ^morire~ (-- cos@i anche ^finire~;
+^Purg.~, V, 100-101 --), piglia di begli atti nella lingua
+nostra; qui @e bellissimo: gli mor@i la parola sulle labbra, ovvero
+tra' denti> (cf. ^Purg.~, XXXIII, 27) Virgilio (^Aen.~, III, 
+47-48):
+
+                    ancipiti mentem formidine pressus
+     Obstupui steteruntque comae et vox faucibus haesit.
+
+E ivi, VI, 491-492:
+
+     Ingenti trepidare metu... pars tollere vocem
+     Exiguam; in coeptus clamor frustratur hiantes.
+
+Il Petrarca (son. XVI), certo men bello:
+
+     Pi@u volte gi@a per dir le labbra apersi, 
+     Ma rimase la voce in mezzo il petto.
+
+Cf. ^Inf.~, XVII, 92, nel commento.  Il Tommaseo: <La confusione
+che precede all'umile confessione del fallo (ed @e bello vedere
+questo spirito altero umiliarsi dinnanzi alla bellezza innocente;
+ed @e bella, se non ne' suoni, ne' sentimenti di ciascuna parola
+la similitudine del fanciullo); questa confessione @e tutta
+notabile per efficacia e verit@a: |la voce si spense.~  -- ^Appena
+ebbi la voce che rispose un s@i~ che fu non ^sentito ma visto.~>
+
+	|10-12.  Poco sofferse~; il Cesari: <Intendi, ^me cos@i in
+silenzio~, dice taluno (-- lo dice il Biagioli --).  Io non credo
+bisognarci cotesta chiosa: ^soffrire~ e ^sostenere~, val di per
+s@e ^aspettare, indugiare.~>  -- |Che pense~? si nota da taluno
+che la stessa domanda fa a Dante Virgilio (^Inf.~, V, III); va
+bene; ma chi raffronti per poco i due passi, vedr@a tosto che
+altra qui e l@a @e la cagione del ^pensare~ del Poeta; ed altro il
+motivo, che eccita i due interroganti.  -- |Rispondi a me~ (cf.
+^Purg.~, XXVI, 10); pi@u vivo che non rispondimi; e cos@i sentiamo
+del continuo in persone eccitate da dolore, dire in tuono forte a
+chi @e causa delle loro amarezze.  -- |Memorie triste~; dei
+trascorsi.  -- |Dall'acqua~; di Lete.  -- |Offense~ (cf. ^Inf.~, 
+V, 109); scancellate (cf. ^Inf.~, XIV, 136-138; ^Purg.~, XXVIII, 
+127-129); dunque ben ti devi ricordare quello che facesti.
+
+	|13-15.~  Notati dall'Alfieri.  |Confusione~ ecc.; la
+confusione derivante dalla vergogna d'aversi sentito cos@i
+rampognare corampopulo; |paura~, sgomento del castigo divino, che
+or conosceva troppo meritato per tante colpe; dunque pentimento. 
+-- |Un tal s@i~; la profonda passione si stampa nella faccia, ove
+si posson leggere i varii sentimenti, che si agitano nell'anima
+(^Conv.~, III, 8); questo |s@i~ adunque non fu ^tratto vivo ai
+denti~ (^Purg.~, XXXIII, 27), cio@e non bene articolato, 
+strozzato.  -- |Le viste~; gli occhi.  Il Cesari: <Sempre @e
+mirabile questo Dante, nel notare le pi@u minute particolarit@a; di
+che n'esce la verit@a viva e visibilei Egli fu un |s@i~ tanto
+morto, che non sentire, ma fu convenuto agli occhi indovinare dal
+moto delle labbra senza pi@u.>  Cf. ^Inf.~, XXX, 136-141, nel
+commento.  Qui ci si potrebbe intraveder accenno al fatto, che i
+sordomuti comprendono ci@o che diciamo, stando attenti al
+movimento delle nostre labbra.
+
+	|16-21.~  Notati dall'Alfieri.  |Balestro~ ecc.; il
+Cesari: <Balestro @e un fusto di legno, a modo d'archibuso, con
+arco innestatovi alla cima, donde si scocca la freccia... 
+Caricate il balestro, tirando troppo l'arco e la corda, ne va in
+pezzi; e cos@i la freccia ferisce di minor colpo.  Lascio a voi
+notar s@i la forte e chiara espressione della cosa, e s@i la
+propriet@a di questa similitudine.>  -- |Frange~; quasi tutti i
+chiosatori intendono questo |frange~ come neutro assoluto (come
+il ^fiacca~, ^Inf.~, VII, 14), per ^si frange~, facendo in tal
+caso |corda~ e |arco~ soggetto di ^scocca~; ma quando si badi
+che, data la condizione della |troppa tesa~, non @e il |balestro~
+che ^si frange~, ma s@i la |corda~ e |l'arco~ che si rompono, si
+vedr@a ragionevole di intendere col Buti e con pochi altri, che il
+balestro, quando @e troppo teso, scoccando, rompe la corda insieme
+coll'arco.  -- |Tesa~; da ^tendere; tensione~; nel ^Conv.~, IV, 
+23, parla della ^minore~ e ^maggior tesa dell'arco~ della vita
+umana.  -- |L'asta~; la freccia.  Il Tommaseo: <|Asta~; pare
+della saetta.  Onde dicevasi ^asta della lancia~, per meglio
+distinguere.>  -- |Con men foga~; con men forza, ^pi@u lenta~
+(^Par.~, XVII, 27).  Il Cesari: <Vuol mostrare questo quasi
+scavezzarsi della parola, per la foga del dolore e della paura, 
+che volea cacciarla fuori con troppo impeto: cercate per tutto il
+mondo, e trovatemi similitudine pi@u appropriata di questa!>  --
+|Scoppiai~; ^Vit. N.~, {Paragraph.} 23: <La mia voce era s@i rotta
+dal singulto del piangere, che queste donne non mi poterono
+intendere.>  -- |Grave carco~; della confusione e della paura (v.
+13).  -- |Sgorgando~ ecc.; nella ^Vit. N.~, {Paragraph.} 23:
+<Dicendo io queste parole con doloroso singulto di pianto...>  E
+ivi, {Paragraph.} 38: <Li sospiri mi assaliano grandissimi ed
+angosciosi.>  Il Tommaseo allega sant'Agostino (^Confess.~, IX):
+<Premeva gli occhi miei, e concorreva nelle mie viscere angoscia
+grande, e sgorgava in lagrime.>  Virgilio (^Aen.~, XI, 150-151):
+
+                haeret lacrymansque gemensque, 
+     Et via vix tandem voci laxata dolore est.
+
+Questo |sgorgando~ potrebbesi intendere in senso neutro, e allora
+il verso costituirebbe un ablativo assoluto (ed esempi io recai
+nel grande Dizionario di Torino); e puossi intendere in senso
+attivo, come pur l'us@o il Tasso (^Gerus. Lib.~, XII, 96).  --
+|Allent@o~; venne a morire sulle labbra, che sono il varco
+ond'esce la voce; il Giuliani (postill. ined.) <si fece lenta
+sulle labbra: ^Purg.~, XXV, 14-18.>
+
+	|22-27.~  L'Alfieri not@o da |lo Bene~ in poi.  |Per
+entro~ ecc.; in mezzo ai santi desiderii, ch'io ti inspirava; il
+Giuliani (postill. ined.): <occupato da' miei desiderii, trasfusi
+in te per la virt@u d'amore: ^Conv.~, IV, 1.>  -- |Menavano~;
+notammo altrove questo verbo, rispetto a Beatrice, guida santa
+(^Purg.~, XXX, 123), e del pari lo troveremo nell'ultima Cantica
+(^Par.~, XVIII, 4); rispetto a Virgilio, cf. ^Inf.~, VIII, 103;
+X, 62; XXVIII, 46; ^Purg.~, XXIII, 122 (^Par.~, X, 95, di S.
+Domenico).  -- |Ad amar~ ecc.; ecco la via ^dritta~ e ^verace~, 
+che poi il Poeta lasci@o, non appena morta Beatrice, (^Purg.~, 
+XXX, 124; v. 36, ^tosto~), smarrendosi cos@i nella selva
+selvaggia.  Di ci@o si notino queste parole del ^Conv.~, IV, 12:
+<Nella vita, umana sono diversi cammini, delli quali uno @e
+veracissimo, e un altro falsissimo.>  Di Beatrice ne conta (^Vit.
+N.~ {Paragraph.} 2): <Avvegnach@e la sua immagine, la quale meco
+continuamente stava fosse baldanza d'Amore a signoreggiarmi, 
+tuttavia era di s@i nobilissima virt@u che nulla volta sofferse che
+Amore mi reggesse senza il fedele consiglio della ragione.>  E
+ivi, {Paragraph.} 10: <Fu distruggitrice di tutti li vizi, e
+reina delle virt@u:> dunque l'amore per Beatrice, e i santi
+desiderii ch'indi piovevano nell'anima del Poeta, erano ^cammino
+veracissimo, via dritta e verace~, sentiero di virt@u, che guidava
+a Dio; tutte le altre cose, a questo amore contrarie, non eran
+che la via storta, ^cammino falsissimo~, che conduce nella selva
+selvaggia.  Ci@o @e chiaro come la luce.  -- |Lo Bene~ ecc.; Dio, 
+nostra beatitudine somma (^Conv.~, IV, 22), Bene infinito ed
+ineffabile (^Purg.~, XV, 67), Bene sommo per eccellenza (^Par.~, 
+XIV, 47; XXVI, 134), che contiene in s@e ogni gaudio verace
+(^Vulg. El.~, I, 4), e che perci@o @e il ^fine di tutti i disii~
+(^Par.~, XXXIII, 46); onde trovato Lui, ^nihil est quod ulterius
+quaeratur~ (^Epist.~, X, {Paragraph.} 33).  -- |Di la dal qual~
+ecc.; Boezio (^Consol. Filos.~, III, par. 2); <La beatitudine non
+@e altro che quel bene, il quale acquistato che alcuno ha, egli
+non pu@o desiderare pi@u oltre cose nessuna; e questo bene @e senza
+alcun dubbio il primo e pi@u alto di tutti i beni, e quello il
+quale contiene in s@e tutti gli altri.>  -- |Fosse attraversate~
+(altri ^fossi attraversati~), |catene~, impedimenti ed ostacoli. 
+-- |Perch@e~ ecc.; a cagione dei quali ostacoli tu dovessi
+smettere la speranza di proceder oltre sulla via verso Dio, di
+seguire i desiderii, che ti infondeva l'amor mio.  Dunque in
+anima buona nessuna fatica nel seguire il bene (cf. ^Purg.~, IV, 
+88-94), ma fatica e morte nel seguire il ^falso piacere~ delle
+cose transitorie (cf. ^Inf.~, I, 1-7).  -- |Spogliar la spene~;
+deporre, perdere la speranza (cf. ^Par.~, XXXII, 145-146):
+ricacciato dall'ascendere il monte dilettoso, il Poeta ne dice
+(^Inf.~, I, 54):
+
+     Io perdei la speranza dell'altezza.
+
+	|28-30.~  L'Alfieri nota il terzo.  |Agevolezze~, 
+facilit@a; |avanzi~, guadagni o vantaggi, in opposizione a ^fosse
+attraversate~ {v.25} e ^catene~ {v.25}.  -- |Nella fronte~ ecc.;
+nell'aspetto lusinghiero dei beni mondani, spiegano taluni; ma
+qui essendo paragone tra ^Beatrice~ ed |altri~; parmi doversi
+addirittura intendere velata allusione ad ^altre donne~ e infatti
+il Giuliani annota nel margine: <Ma forse @e da leggere
+^dell'altre~ v. 59:> e ^delle altre~, lessero il Lana, Benvenuto
+e qualche altro.  -- |Passeggiare anzi~; lasciando
+interpretazioni un po' tirate, la comune e pi@u propria @e
+^vagheggiare~, a modo degli innamorati che van passeggiando su e
+gi@u dinanzi alla casa dell'innamorata.  Il Giuliani (postill.
+ined.): <|perch@e~ ecc.; dovessi trattenerti a vagheggiarli.>  E
+io credo che calzino qui le parole della ^Vita N.~ ({Paragraph.}
+37), rispetto al nuovo amore per la donna gentile: <Molte
+volte... io andava per vedere questa pietosa donna, la quale
+ecc.>  Il Tommaseo: <E, negli argomenti di Beatrice, eloquenza:
+^Quai fosse attraversate~ {v.25}?... |E quali agevolezze~?... ^E
+se il sommo piacer s@i ti fallio.~..; dove, dicendo che ^natura~ o
+^arte~ mai non gli aveva presentato pi@u alto piacere che la
+bellezza di lei, vince non poche delle lodi che le dar@a in
+Paradiso, e quella segnatamente che nella locuzione somiglia ma
+fa ripensare con desiderio a questa, pi@u semplice ed elegante:
+^Che se natura o arte fe' pasture Da pigliare occhi, per aver la
+mente, In carne umana o nelle sue pinture; tutte adunate
+parrebber niente Verso il piacer divin che mi rifulse, Quando mi
+volsi al suo viso ridente.~  Ma qui stesso il Poeta non rifugge
+da quella calzante famigliarit@a che @e il suo fare; e non teme
+chiamare velen dell'^argomento~, il motto che inchiude tutti i
+rimproveri e richiama l'immagine dei ^pennuti~ {v.63}: ^alza la
+barba~ {v.68}.  Ed egli lo sente tanto, che il sollevare un po'
+il viso gli pare pi@u grave atto che svellere con le radici un
+cerro da terra.  A chi queste cose paressero troppo dure (e
+veramente in questo canto rincontransi pi@u negligenze di stile
+che in altri), legga piuttosto: ^mille desiri pi@u che fiamma
+caldi~; e ripensi quel verso, men lucido ma pregno di senso, ove
+dice che in un atto del suo pentimento, tutte le cose che lo
+traviarono, gli vennero in odio a un tratto, e quelle pi@u, che
+pi@u lo fecero errante.  Ripensi l'altra espressione, non limpida
+n@e anch'essa, ma delle pi@u alte di tutto il Poema: ^pareami pi@u
+se stessa, antica, Vincer, che l'altre qui quand'ella c'era.~>
+
+	|31-36.~  Notati dall'Alfieri.  Dapprima aveva dichiarato
+vere le accuse di Beatrice (vv. 13-15); ora fa confessione pi@u
+aperta.  -- |Dopo la tratta~ ecc.; dopo aver tratto, aver mandato
+un doloroso sospiro.  -- |La voce~ ecc.; cf. v. 15.  Leggano i
+giovani l'incalzare di domande e di accuse della Filosofia a
+Boezio, e l'umile confessione di lui (^Consol. Philos.~, I, pr.
+1-4).  -- |Piangendo dissi~; si avvera la parola d'Agostino
+(^Tract.~, XII, ^in Joann.~): ^Initium operum bonorum confessio
+est operum malorum~; e perch@e la sua confessione si mostri
+veramente efficace, usa nel farla quasi le stesse parole che
+Beatrice nell'accusarlo (cf. ^Purg.~, XXX, 130-132).  --
+|Presenti cose~; le cose fallaci (v. 56).  -- |Falso.~..
+|piacer~; perch@e belle in apparenza, brutte nella sostanza (come
+la seducente strega veduta altrove, ^Purg.~, XIX, 10-33), 
+promettono la felicit@a, e danno miseria (cf. ^Purg.~, XXX, 132);
+dunque ^false immagini di bene~ (ivi, 131).  -- |Volser~; mi
+torsero nel loro amore (vv. 86-87); ed ecco la via torta
+(^Purg.~, X, 3), che altro non @e che ^l'amor torto~ delle cose
+transitorie (^Par.~, XXVI, 62).  -- |Tosto~ ecc.; si raffronti
+questo |tosto~ col ^s@i tosto~ di Beatrice (XXX, 124; cf.
+^Dizionario Dantesco~, vol. VIII, App. II, {Paragraph.} 4-13). 
+Questo |tosto~ per@o non si deve intendere con soverchio rigore, 
+ma secondo che l'Autore ne chiarisce egli stesso nel ^Conv.~, 
+(II, 2), dove tra la morte di Beatrice e il suo innamorarsi della
+Filosofia, intesa per la ^donna~ gentile della Vita Nuova, ne
+dichiara ch'era gi@a corso un anno; il che, in sostanza, ripete
+nella ^Vita Nuova~, chi bene attenda ai {Paragraph.} 35 e 36. 
+Vuol dunque intendersi, che il dolore, che per la morte di
+Beatrice avrebbe in lui dovuto essere eterno, pass@o presto, in un
+tempo relativamente brevissimo.  -- |Il viso vostro~ ecc.; appena
+le vostre sembianze scomparvero, vi partiste dal mondo, salendo
+di carne a spirito (^Purg.~, XXX, 127).  Or questo tratto di
+accuse e di confessioni fa proprio al caso nostro, per vedere se
+non sien peggio che sogni, aberrazioni imperdonabile quelle di
+certi critici, che la ^donna gentile~ pur nella ^Vita Nuova~
+intendono simbolo della Filosofia; se il Poeta ne fece poi un
+simbolo di quella scienza, si potr@a per questo negare la reale
+esistenza di quella donna? e se di Filosofia si trattasse, qual
+motivo avrebbero i rimproveri di Beatrice, e il pentimento di
+Dante? o che forse l'amor della sapienza @e via non vera, e i suoi
+desiderabili splendori sono false ^immagini di bene~, son |le
+presenti cose~, cio@e ^cose fallaci d'un falso piacere~?  Ma @e
+vano l'insistere; e tiriamo via.
+
+	|37-42.  Se tacessi~ ecc.; il Cesari: <Magnifico rappicco
+@e cotesto: Da tal giudice era saputa la colpa tua che non gli era
+bisogno il tuo confessarla; e il negarla non sarebbe givato.>  --
+|Da tal giudice~ ecc.; da Dio, ^che tutto vede~ (^Par.~, IX, 73;
+XXI, 50), e tutto giudica (^Purg.~, XX, 48).  -- |Quando scoppia~
+ecc.; |scoppia~, nota il Tommaseo, esprime lo sforzo.  -- |Gota~;
+bocca.  -- |Corte~; corte del Cielo.  -- |Rivolge se~ ecc.; il
+Cesari: <Questo @e uno de' tratti maestri di Dante, che trae a sua
+forma il concetto con quelle forme che vuole; e qui @e un dire:
+Quando il peccatore si confessa, Dio muta la sua sentenza; o, la
+colpa non gli @e pi@u reputata; presa la immagine dalla cote, che
+si mangia il taglio del coltello da s@e affilato, rodendo di
+costa.>  Paragonata la divina giustizia ad un'arme tagliente
+(come spesso nella S. Scrittura), la sincera confessione del
+peccatore rintuzza il taglio di quell'arma.
+
+	|43-48.~  L'Alfieri nota i quattro primi.  |Me'~; meglio
+(cf. ^Inf.~, II, 36; XIV, 36, e altrove), in senso di ^pi@u~ (non
+|me'~ per ^meno~, come intende il Daniello); cio@e: Perch@e tu
+senta maggior vergogna de' tuoi falli, perch@e tu abbia a
+maggiormente vergognarti (e la vergogna, che @e il pentimento, gli
+si accresce diffatti: cf. vv. 64 e segg.; 85-90).  Altri legge
+^mo'~, per ^ora~ (lezione dei Codd. Cass., Caet. e qualche
+altro), e difesa dal Viviani.  -- |Le sirene~; il Lombardi: <Le
+favolose sirene col loro canto simboleggiano l'attrattiva dei
+falsi mondani piaceri; e Dante ponele qui per gl'istessi mondani
+piaceri, il simbolo per la cosa simboleggiata.>  E non v'ha
+dubbio che qui v'@e accenno a quanto accadde al Poeta nel sogno
+che fece della femmina balba (^Purg.~, XIX, 7 e segg.).  Ai
+Fiorentini l'Autore scriveva (^Epist.~, VI, {Paragraph.} 5): <Nec
+advertitis dominantem cupidinem, quia caeci estis, venenoso
+sussurro blandientem.>  E ai Principi e Popoli d'Italia
+(^Epist.~, V, 4): <Nec seducat vos illudens cupiditas, more
+Sirenum, nescio qua dulcedine vigiliam rationis mortificans.> 
+Della gentil ^donna~, che lo trasse nel suo amore facendogli
+dimenticare Beatrice (cf. ^Vit. N.~, {Paragraph.} 36 e segg.), 
+scrive nel ^Conv.~, II, 8: <Mostro la potenza di questo pensiero
+nuovo per suo effetto, dicendo ch'esso mi fa mirare una donna, e
+^dicemi parole di lusinghe.~.., impromettendomi che nella vista
+degli occhi suoi @e salute.>  -- |Pon gi@u~; smetti, lascia; -- |il
+seme del piangere~; non il dolore, perch@e e anzi scopo di
+Beatrice di renderlo in Dante pi@u vivo, perch@e meglio si
+purifichi (cf. v. 69); ma ^la cagione del pianto~ non pu@o qui
+essere che ci@o che al Poeta fece ^sgorgare lagrime e sospiri~ (v.
+20), cio@e ^confusione e paura insieme miste~ (v. 13). 
+Egregiamente lo Scartazzini: <@E troppo evidente che lo scopo di
+Beatrice in questo verso @e di rendere attento il Poeta a
+quant'ella @e in procinto di dirgli.  Or chi @e oppresso da
+confusione e da paura mal pu@o attentamente seguire i discorsi
+altrui.>  -- |In contraria parte~; non solo a non farti correr
+dietro, ma s@i a farti fuggir del tutto dai beni mondani.  -- |Mia
+carne sepolta~; l'esser io morta e sepolta.  Sentimmo altrove
+(^Purg.~, XXX, 127) che Beatrice ^sal@i di carne a spirito~, per
+nulla dire di certe frasi consimili della ^Vit. N.~ (cf.
+{Paragraph.} 23, 29, 30, 31, 32, 33, 35); il luogo presente (coi
+sei versi seguenti) conviene a quelli; e non si pu@o negare, che
+ad ognuno di quanti negano la reale esistenza di Beatrice, 
+facendone una pura allegoria, non gridi alto: ^Hic Rhodus, hic
+salta.~
+
+	|49-54.~  Notati dall'Alfieri.  |Natura od arte~ ecc.
+(questo luogo @e spiegato dal ^Par.~, XXVII, 91-93, e dal
+{Paragraph.} 26 della ^Vit. N.~); la Natura o l'arte (e non gi@a
+^la Natura e l'arte insieme~ unite, come leggono e spiegano
+alcuni, ch@e cos@i si farebbe un solo di due campi bellamente
+distinti; n@e si capisce come a far bella una donna la Natura si
+unisca all'|arte~, se per arte qui @e da intendersi pittura o
+scultura), non ti mostrarono mai nelle loro creazioni bellezza
+cos@i grande come quella del corpo, nel quale io fui rinchiusa
+vivendo.  -- |Piacer~; cf. v. 52.  -- |Le belle membra~; ben nota
+il Casini, che della bellezza corporea di Beatrice sono pochi e
+delicati accenni nelle poesie di Dante, ma tutti ce la presentano
+come straordinaria e sovrumana; basterebbe ricordare anche solo i
+versi della famosa canzone della ^Vit. N.~, {Paragraph.} 19, st.
+4, vv. 2-10.  Ma due passi del ^Convito~ ne fan veder chiaro in
+che stesse per Dante la ^bellezza~ del corpo umano; scrive (I, 
+5): <Pare l'uomo essere bello, quando le sue membra debitamente
+si rispondono.>  E IV, 25: <La nostra anima conviene gran parte
+delle sue operazioni operare con organo corporale; e allora opera
+bene, che il corpo @e bene per le sue parti ordinato e disposto. 
+E quando egli @e bene ordinato e disposto, allora @e bello per
+tutto e per le parti; che l'ordine debito delle nostre membra
+rende un piacere di non so che armonia mirabile; e la buona
+disposizione, cio@e la sanit@a, getta sopra quelle uno colore dolce
+a riguardare.>  Cf. ivi, III, 8, al princ.  -- |Rinchiusa~; il
+corpo @e come la temporanea prigione dell'anima; onde S. Paolo
+scriveva: ^Cupio dissolvi et esse cum Christo~; e S. Pietro
+(^Epist.~, II, 1, 13): ^Quamdiu sum in hoc tabernaculo~; e Dante
+(^Conv.~, IV, 28): <L'anima attende la fine di questa vita..., e
+uscire le pare dell'albergo e ritornare nella propria magione.> 
+-- |Sono in terra sparte~: sono disciolte, ridotte in terra.  S.
+Giovanni Evangelista dir@a al Poeta (^Par.~, XXV, 124): ^In terra
+@e terra il mio corpo.~  -- |Piacer~ (cf. v. 50); la bella
+persona, la bellezza corporea intendono alcuni, e in tal senso @e
+anche altrove nel Poema (^Inf.~, V, 104); nella ^Vit. N.~, 
+{Paragraph.} 9 (nel son., v. 12) dice Amore, del cuor di Dante:
+<E recolo a servir nuovo ^piacere~;> cio@e, come spiegano, ^altra
+bellezza, altra bella donna~; per altro il passo or ora da me
+allegato dal ^Conv.~, IV, 25, lascerebbe anco intendere il
+piacere, che si prova, nel contemplare l'accennata bellezza; e lo
+conferma quanto dice nella ^Canzon.~ del ^Conv.~, III, st. 4, v.
+1-2, e quanto spiega poi nel capo 8, al princ.; e il senso @e
+limpido; cio@e, come lo rileva il Cesari: <Tu non avesti mai, n@e
+aver potevi maggior diletto, che avesti della bellezza mia.>  --
+|Ti fallio~; e se questa bellezza somma, pi@u che umana, ti venne
+a mancare (cf. ^Inf.~, XIII, 122) ti venne meno.  Il Bagioli, 
+allegando l'Alfieri che |ti fallio~ spiega ^ti manc@o~, con
+ragione riprende il Lombardi, che spiega ^ti ingann@o~; perch@e la
+bellezza di Beatrice non ingann@o Dante, ma solo venne a
+mancargli.  Anche il Cesari, dopo spiegato prima ^ti venne meno~, 
+riproduce il senso colle parole ^essendo rimaso ingannato di quel
+piacer cos@i sommo~ ecc.  -- |Qual cosa~ ecc.; fatta esperienza
+che ti venne meno colla mia morte il massimo de' piaceri non
+potevi capire che tanto meno sarebbe stato duraturo un piacer
+minore, cio@e una creatura di me men bella?  -- |Nel suo disio~; a
+desiderarla.  Se certe espressioni in questo discorso di Beatrice
+paiono dette apposta dalla santa donna per giustamente vendicarsi
+degli ipercritici, che le vogliono rubare una reale esistenza
+(rubandole, per conseguente, la gloria de' Cieli); questa e
+qualche altra sembrano fatte del pari apposta per mettere
+nell'imbarazzo coloro, che nell'abbandono fatto da Dante di
+Beatrice veggono non gi@a deviamenti morali per altre donne, 
+sibbene errori ^contro la fede.~
+
+	|55-60.  Per lo primo strale~; per la prima ferita da te
+sofferta, il dolore cio@e a te derivato dalla mie morte.  |Strale~
+(che poi dice ^colpo~ v. 59), in senso di infortunio, fatto
+doloroso, @e pure nel ^Par.~, XVII, 56.  -- |Cose fallaci~;
+mortali, transitorie.  L'Ottimo: <Dice Beatrice: Poich@e la mia
+carne e le belle membra, che tanto piacere ti rappresentarono, 
+erano fallite, (il quale fu il primo strale delle cose fallaci, 
+che pi@u ti punse), tu non dovevi attendere, n@e operare, s@i che un
+altro te ne fosse saettato.  E dice, che n@e quella giovane, la
+quale egli nelle sue Rime chiam@o Pargoletta, n@e quella Lisetta, 
+n@e quell'Altra montanina, n@e quella, n@e quell'altra li dovevano
+gravare le penne delle ale in gi@u, tanto ch'elli fosse ferito da
+uno simile, o quasi simile strale.>  E la chiosa (pur lasciando
+di discutere se sien vere tutte quelle donne) @e vera; risulta a
+dire: se mor@i delle donne la bellissima, perch@e non sollevarti
+alle cose immortali, invece che cercare nuovi amori, per averne
+poscia nuovi dolori nel perderli?  -- |Tale~; non era pi@u cosa
+mortale (cf. ^Purg.~, XXX, 127-128).  -- |Gravar~; non ti dovea
+tirar abbasso, farti inchinare in gi@u.  Ma qui @e chiaro che se
+l'amore per Beatrice lo teneva alto, menando il Poeta ad amar Dio
+(v. 23) l'amore invece ad altre creature lo ^grav@o in giuso~, e
+lo fece cadere nella ^selva selvaggia.~  Nel ^Conv.~, II, 2:
+<Quella gentil donna, di cui feci menzione nella ^Vita Nuova~, 
+apparve primamente accompagnata d'^Amore~ negli occhi miei, e
+prese alcuno luogo nella mia mente.  E siccom'@e ragionato per me
+nello allegato Libello, pi@u da sua gentilezza che da mia
+elezione, venne ch'io ad essere suo consentissi; ch@e passionata
+di tanta misericordia si dimostrava sopra la mia vedova vita, che
+gli spiriti degli occhi miei a lei si fero massimamente amici.  E
+cos@i fatti, dentro me poi fero tale, che 'l mio beneplacito fu
+contento a disposarsi a quella immagine.  Ma perocch@e non
+subitamente nasce amore e fassi grande e viene perfetto, ma vuole
+alcun tempo e nutrimento di pensieri, massimamente l@a dove sono
+pensieri contrari che lo impediscono, convenne, prima che questo
+nuovo Amore fosse perfetto molta battaglia intra 'l pensiero del
+suo nutrimento e quello che gli era contrario, il quale per
+quella gloriosa Beatrice tenea ancora la rocca della mia mente. 
+Perocch@e l'uno era soccorso dalla parte dinanzi continuamente, e
+l'altro dalla parte della memoria o di dietro.  E 'l soccorso
+dinanzi ciascuno d@i crescea (che far non potea l'altro) come
+quello che impediva in alcuno modo a dare indietro il volto.>  --
+|Pi@u colpi~; nuovi ^strali~, altre ferite (^per virt@u delle quali
+rinsavirti~, postilla il Giuliani).  -- |Pargoletta~;
+fanciulletta, giovinetta.  Una Ballata di Dante fatta per altra
+donna dopo la morte di Beatrice, incomincia:
+
+     Io mi son pargoletta bella e nuova
+
+(cf. ^Canzon.~, P. 1, ball. 11): dunque Beatrice accenna
+indubbiamente a donne, in genere, come intesero i pi@u dei
+commentatori.  Bens@i l'Ottimo, come sentimmo, e l'Anon. Fior. fan
+di |pargoletta~ un nome proprio.  Benvenuto opina accennarsi a
+^Gentucca~ (cf. ^Purg.~, XXIV, 37), e scrive: ^Ista fuit
+juvencula virgo de civitate Lucana, cujus amore captus est
+aliquando post mortem Beatricis~; ma a tale interpretazione (e ad
+altre, che per ragione di tempo, a questa somigliano)
+egregiamente osserva lo Scartazzini, che anche dato che l'amore
+di Dante per Gentucca fosse un amor sensuale, Beatrice gli
+rimprovera qui amori ^passati~, non ^futuri~; e la Gentucca Dante
+non l'aveva ancor nemmeno vista, quando fece il mistico suo
+viaggio.  E gi@a il Tommaseo aveva scritto: <|Pargoletta~: non la
+Lucchese, ch'ei conobbe dopo il 1300, ma una in genere; come per
+denotare la puerilit@a d'affetti leggieri, che non possono durare, 
+e che informano il senno.>  -- |Altra vanit@a~ ecc.; o altra cosa
+vana, come tutte le terrene, il cui godimento @e di s@i breve
+durata.  Cf. ^Par.~, IX, 12 (i ^beni vani~, ^Inf.~, VII, 79);
+^Eccl.~, I, 2: ^Vanitas vanitatum, et omnia vanitas.~ 
+Nell'^Imit. Cr.~, I, 24, 4: <Ogni cosa che @e sotto il cielo @e
+vanit@a, se non amare Iddio ed a quello solo servire.>
+
+	|61-63.~  Notati dall'Alfieri.  |Nuovo~; di ^et@a
+novella~, cio@e ^giovane~ (^Conv.~, IV, 19), snidato da poco (non
+per@o senza piume, com'altri spiega), perci@o inesperto (cf.
+^Purg.~, II, 58, 62-63; XXVIII, 76).  -- |Due o tre aspetta~; per
+due o tre volte ricorre il rischio, aspetta le tratte senza
+fuggire.  Il Cesari: <Vorrei notar qui cotesto |due o tre~, senza
+aggiunger ^tratte~, che e' par modo proprio del ^ferire~ o ^dar
+botte~, il tacere quel sustantivo.>  E infatti, oltrech@e dal
+Boccaccio, sentiam tuttavia dal popolo: ^ne ha preso tante! glien
+diedi tante~!  E Dante (^Inf.~, XXV, 33): ^Gliene die' cento, e
+non sent@i le diece.~  -- |Pennuti~; che han gi@a forti le penne, 
+perci@o vecchi ed esperti per altri pericoli corsi.  Ne'
+^Proverbi~ (I, 17): ^Frustra jacitur rete ante oculos
+pennatorum.~  E Dante (^Epist.~, V, 5) chiama |pennuti~ gli
+uomini savi e maturi di senno: ^Quantum in noctis tenebris
+malesanae mentis pedes oberrent ante oculos pennatorum, nec
+perpenditis, nec figuratis agnari.  Vident namque vos pennati et
+immaculati~ ecc.  -- |Rete~ ecc.; invano si spiega la rete e si
+tiran saette, perch@e esperti del pericolo lo scansano e lo
+fuggono tosto.  E Beatrice torna a ribadire l'idea che per
+l'esperienza fatta della sua morte, ei non doveva attaccare il
+cuore ad altre cose mortali.
+
+	|64-69.~  L'Alfieri not@o i tre primi, e |tal mi stav'io~
+del quarto.  |Quale~ (altri ^quali~); cf. ^Inf.~, II, 127; ^quale
+i fioretti~ ecc.; cf. ^Purg.~, XXXII, 73.  -- |Vergognando~; nel
+^Conv.~, IV, 19: <Buono e ottimo segno di nobilt@a @e nelli pargoli
+e imperfetti d'etate, quando, dopo il fallo, nel viso loro
+vergogna si dipigne, ch'@e allora frutto di vera nobilt@a.>  E ivi, 
+25: <Gli adolescenti... tutti si dipingono nella faccia di
+pallido o di rosso colore.>  -- |Con gli occhi a terra~; cf.
+^Inf.~, VIII, 118; e ^Vit. N.~, {Paragraph.} 9: <Egli (^Amore~)
+mi parea sbigottito, e guardava la terra.>  -- |S@e riconoscendo~;
+riconoscendosi in colpa, ravvisando i falli ad essi rimproverati
+e pentendosene (cf. ^Inf.~, XXVII, 83); nel ^Conv.~, IV, 25: <A
+questa et@a (^la fanciullezza~) @e necessario d'essere penitente
+del fallo, sicch@e non s'ausi a fallare.>  -- |Tal~; vergognoso e
+pentito.  -- |Quando~; dacch@e poich@e (alla latina nota il
+Tommaseo; Horat., ^Sat.~, II, 5: ^Quando pauperiem.~.. ^horres, 
+Accipe~) per le cose udite sei dolente e ti mostri pentito.  --
+|Alza la barba~ (drizza ^la testa~, ^Inf.~, XX, 31); la faccia
+barbuta (v. 74); il che @e quanto a dire: non se' pi@u un ragazzo
+per lasciarti adescare agli inganni del mondo; e Dante ha tosto
+capito ^il velen dell'argomento~ (v. 75).  -- |Raguardando~;
+riguardando la mia bellezza, che tu abbandonasti per bellezze
+altre.  Il Cesari: <Mirabile fecondit@a dell'ingegno di Dante!
+come rincalza la sua materia del mostrare la sua confusione! 
+Fino ad ora era stato sempre ad occhi bassi; et udendo le
+trafitture di Beatrice, ne avea avuto buona derrata: ora dee
+anche sguardar in viso il suo giudice: che vorr@a essere? e quanta
+pena a dover levare il viso verso di lei!  Anche questa pena
+voleva esser dipinta di tinte forti, che gli facea troppo bel
+giuoco.>  Sui vv. 67-69 scrive il Gioberti: <Che novit@a di
+concetti!  L'ultimo verso di questa terzina torna inaspettato; e
+d@a l'esempio questa terzina di quella tragica e sublime ironia, 
+che s@i bene adoperarono il Shakspeare e l'Alfieri.>
+
+	|70-75.~  L'Alfieri not@o il primo verso e |robusto cerro~
+del secondo, poi il primo e il terzo della seconda terzina.  Il
+Venturi (^Similit.~ ecc., 129): <Paragona la fatica di quest'atto
+alla resistenza di robusto cerro ad essere sbarbicato: e la
+similitudine racchiude l'idea morale delle profonde radici che
+gi@a aveva gettato il rimorso nel cuore di lui.>  -- |Nostral
+vento~; vento di tramontana o Borea; e perch@e l'Europa @e
+nell'emisfero boreale, dice ^nostro~ quel vento.  In quanto alla
+lezione ^austral~, difesa dal Viviani e dal Filatete, cf.
+Scartazzini.  -- |Terra di Iarba~; l'Africa, in una parte della
+quale, nella Libia, ebbe suo regno Jarba (cf. ^Aen.~, IV, 196 e
+segg.).  L'Antonelli: <Nell'altro Canto tocc@o de' venti boreali
+portatori e condensatori di neve, e dei meridionali che la fanno
+struggere: qui d'altre correnti aeree, dotate d'altre propriet@a, 
+specialmente per quel ch'@e della terribile lor potenza.  Il vento
+nostrale @e il tramontano principalmente; quel della terra di
+Jarba (gi@a re di Numidia, o di Getulia come altri vogliono) @e
+l'Africo, oggi Libeccio, suscitatore di tempeste e di fulmini.> 
+-- |Ch'io~ ecc.; tanta fu la vergogna che gli aveva gravato la
+fronte (^Purg.~, XXX, 78).  -- |Per la barba~; nominando la
+barba.  -- |Il vaso chiese~; il Giuliani (postill. ined.)...
+<intese di chiedere |il viso~, ch'io cio@e alzassi la ^faccia.~> 
+-- |Il velen~ ecc.; Giuliani (postill. ined.): <la puntura delle
+sue parole, il velenoso argomento che vi si chiudeva.>  Il
+|veleno~ qui sta nel mettere a confronto la barba e certe
+marachelle da giovinotti.  Il Cesari: <Ma Beatrice gliel dice
+coperto, e cos@i pi@u velenoso, porgendogliene a lui medesimo da
+far la chiosa in propria vergogna.  Chiedere il |mento~ per la
+|barba~ (cio@e, col vocabol di |barba~ era un dirgli: Con tanta di
+barba, tu se' un fanciullaccio.>
+
+	|76-81.  Si distese~; da piegata ch'era, si lev@o, si
+rifece dritta.  -- |Pos#arsi.~.. |da loro~ ecc.; il mio occhio
+vide, conobbe, che gli Angeli (^prime creature~; ^Inf.~, VII, 95, 
+cf. ^Purg.~, XI, 3) avevan cessato dallo sparger fiori (^Purg.~, 
+XXX, 20, 28-30).  -- |Da loro aspersion~; il Giuliani (post.
+ined.): <dall'^aspergerla~ e indi ^velarla~ di fiori.>  -- |Le
+mie luci~ ecc.; i miei occhi ancor timidi per la vergogna.  Nel
+^Conv.~, IV, 25; <Quando Aceste le men@o (^Argia e Deifile~)
+dinanzi agli occhi dell'onesto padre nella presenza delli due
+pellegrini, cio@e Polinice e Tideo, le vergini pallide e rubiconde
+si fecero, e li loro occhi fuggiro da ogni altrui sguardo, e solo
+nella paterna faccia, quasi come sicuri, li tennero v#olti.>  --
+|La fiera~; il Grifone (^Purg.~, XXIX, 108).  -- |Una persona~;
+persona divina, colle due nature divina ed umana (^Par.~, XIII, 
+27: cf. ^Epist.~, VIII, 2).
+
+	|82-84.  Sotto il suo velo~ (ond'era coperta, ^Purg.~, 
+XXX, 31); -- |oltre~ ecc.; al di l@a dal fiume, le cui rive erano
+erbose (^Purg.~, XXVIII, 27).  -- |Pareami pi@u~ ecc.; sebbene
+tuttavia fosse velata e da me alquanto lontana, nondimeno mi
+parve ch'ella ora vinceva in bellezza assai pi@u la Beatrice
+mortale, che non la Beatrice mortale tutte le altre donne qui in
+terra (cf. ^Vit. N.~, {Paragraph.} 27; e nel ^Canzon.~, P. I, 
+son. II, la dice ^esta soprana~).  Lo Scartazzini, seguendo
+l'ediz. critica del Witte, legge:
+
+     Sotto suo velo, ed oltre la riviera
+     Vincer pareami pi@u se stessa antica, 
+     Vincer, che l'altre qui, quand'ella c'era;
+
+afferma egli stesso che ^bisogna confessare che cos@i leggendo
+costrutto non se ne cava~; dunque vuol dire che Dante non ha
+scritto cos@i; per@o l'autorit@a dei codici richiede cos@i; e perci@o
+richiede una solenne stramberia.  Il Witte nella ^edizione
+minore~ fece un mutamento, leggendo cos@i il terzo verso: ^Che
+vincea l'altre~ ecc.; lezione che lo Scartazzini dichiara che
+ammetterebbe, ^se non fosse priva, com'@e, di buone autorit@a.~  Il
+Casini legge: ^Che vincer l'altre~ ecc.; affermando che tale
+lezione @e data da Benvenuto e dal Buti.  In tanto contrasto, io
+m'attengo alla lezione comune.
+
+	|85-87.  Penter~ (e cos@i molti testi leggono anche
+^Purg.~, XVII, 132; XXII, 48), pentire, pentimento.  -- |Mi
+punse~ (cf. ^Purg.~, XIII, 53); pi@u sotto (v. 88) troviamo
+^mordere.~  -- |Ivi~; allora, spiega con altri il Lombardi; il
+Cesari: <Notate questo |ivi~, che qui vale, ^in quel termine di
+cose~;> ^in tale situazione~, spiega il Casini; ma ben si pu@o
+intendere anche col Berti, seguito dallo Scartazzini, nel senso
+di ^l@i, in quel luogo.~  -- |L'ortica~; a tutte le spiegazioni
+parmi andare innanzi quella dell'Ottimo: <Dice l'Autore, che
+quando il suo viso porse in quello di Beatrice, che allora si
+videro chiari ed aperti li suoi peccati, aggravati di tutte
+circostanze di condizione, di persona, di luogo e di tempo; che
+elli fu di tanta penitenza percosso e punto, che quanto ciascuna
+cosa temporale e mondana infino allora pi@u l'aveva torto nel suo
+amore, cotanto li venne in maggiore odio; perocch@e cotanto per
+quella sent@i maggiore afflizione, perciocch@e al fallo fu data
+corrispondente pena; onde per non essere mai pi@u cos@i punto dice
+s@e odiarle ciascuna, secondo il grado ch'egli l'am@o.>  -- |Mi
+torse~; notabile questo Verbo) che inchiude l'idea di ^via
+torta~, dacch@e furono appunto le cose transitorie che ^torsero~
+il Poeta da Beatrice, che seco il menava ^in dritta parte v#olto~
+(^Purg.~, XXX, 123), cio@e ad amare il sommo Bene, Iddio (v. 33), 
+e lo assonnarono cos@i, che senza accorgersi si smarr@i nella
+^selva selvaggia.~  Il Tommaseo: <Il ^torcersi nell'amore~ non
+degno, ha pure potenza, e dice in uno perversione e sforzo.> 
+Onde spesso nella S. Scrittura le vie del peccatore, cio@e le sue
+opere, son dette storte, oblique.  -- |Nimica~; ricompie cos@i per
+effetto il ^riempire~ dove ^colpa vot@o~ (^Par.~, VII, 83-84).
+
+	|88-90.~  Notati dall'Alfieri.  |Riconoscenza~;
+pentimento; <|riconoscenza~, nota il Cesari, @e parola notevole in
+questo senso; che generalmente s'adopera per ^gratitudine.~>  Il
+Giuliani (postilla ined.): <La riconoscenza del mio fallo, il
+vederlo s@i chiaro, mi rimorse.>  Il Bianchi: <Principio al
+pentimento @e la conoscenza di s@e medesimo, de' propri falli, onde
+il rimorso.>  Per@o, distinguiamo: Dante non aveva gi@a aspettato
+adesso a pentirsi delle proprie colpe; se cos@i fosse (cf.
+^Purg.~, XXI, 98; nel commento) come avrebbe potuto metter piede, 
+nonch@e nella santa foresta, ma pur nel Purgatorio?  Qui dunque, 
+non c'@e dubbio, s'ha da intendere che Dante si trovava nella
+condizione di quelle anime che contrite e in grazia di Dio, 
+provano istanti amarissimi al pensiero delle passate colpe, 
+amarezza che tanto pi@u cresce a misura che pi@u e pi@u, nella via
+della virt@u, van conoscendo quanto grande, quanto perfetto il
+Bene, che un tempo lasciarono in dimenticanza per amor di beni
+caduchi e transitorii.  Ne' nostri classici antichi
+^riconoscersi~ @e frequente per ^pentirsi~; e aggiunge il
+Tommaseo: <Fino ai tempi del Bossuet ^se reconna#itre~ valeva
+^pentirsi~: profonda eleganza.>  -- |Mi morse~; cf. v. 85;
+^Par.~, XXVI, 51, nel commento.  -- |Caddi~, a terra, svenni; ed
+@e questa la terza volta che Dante cade a terra (^Inf.~, III, 136;
+V, 142).  -- |Vinto~; vinto di dolore, di pentimento (cf. ^Inf.~, 
+III, 135; V, 140-142).  -- |Femmi~; mi feci, divenni.  --
+|Salsi~; se lo sa (cf. ^Purg.~, V, 135).  -- |Colei~ ecc.;
+Beatrice.
+
+	|91-93.~  L'Alfieri not@o il primo.  |Quando il cuor~;
+quando il cuore mi ridi@e la forza smarrita, quando ritornai ai
+sensi (^alle cose di fuori~: ^Purg.~, XV, 115-116).  Nella ^Vit.
+N.~, {Paragraph.} 14: <Allora... risurti li morti spiriti miei, e
+li discacciati rivenuti alle loro possessioni, dissi ecc.>  --
+|La donna.~.. |sola~ ecc.; Matelda (cf. ^Purg.~, XXVIII, 40).  --
+|Sopra me~ ecc.; mentre il Poeta era fuor de' sensi, Matelda, 
+varcando il Lete, lo trasse nel fiume, ma cos@i ch'ei non risensa
+(spiegando diversamente, intende male il Lombardi) se non quando
+e gi@a nell'acqua.  E aggiunge: <e dicea: Tiemmi, tiemmi;> io
+chiedo: chi @e che |dicea~? tutti in coro mi rispondono, che era
+Matelda, che diceva al Poeta ^appigliati, appigliati a me~; ed @e
+ci@o che non mi va; infatti, se fu Matelda che il ^trasse~
+nell'acqua, e Matelda che per l'acqua ^si tirava~ dietro il Poeta
+(dunque @e Matelda che opera, restando il Poeta come passivo) che
+ragione c'@e ch'ella gridi a Dante ^attienti a me, attienti a me~, 
+se, al trar dei conti, dai due verbi che dichiarano l'azione, 
+risulta ch'era ella che ^teneva~ il Poeta?  Di pi@u: la frase ^la
+donna sopra me vidi~; seguita dall'altra |e dicea~, non pare che
+avendo per soggetto l'^io~, non richiegga che tal soggetto debba
+essere pur quello di |dicea~? e mancava modo al Poeta, a levare
+di mezzo ogni ambage, per dire ^che dicea~, dal che sarebbe
+venuto chiaro che non lui |dicea~ sibbene |la donna~?  E poi s'io
+dico |tiemmi~, non corre subito alla mente ch'io chiedo ad un
+altro di ^esser da lui tenuto~, e non gi@a ch'io gli ingiunga di
+^attenersi a me~, nel qual caso direi ^tienti tienti~?  Ma ci@o
+che ancor meglio parmi obbligare a intender dette dal Poeta
+quelle due parole, si @e che nella loro ripetizione svelano
+ansiet@a d'animo (quel senso che vedemmo altrove, ^Inf.~, XVII, 
+93), la quale naturalmente non poteva essere che in Dante, il
+quale risensando d'improvviso e trovandosi in mezzo all'acqua, 
+aveva paura di affogare, onde grida ansioso |tiemmi tiemmi.~ 
+D'altra parte, anche per ragione di decoro; se ammettiamo che
+nella frase ^tirandosi me dietro~ {v.95} non si intenda che
+Matelda teneva per una mano il Poeta, ma debba invece il Poeta
+afferrarsi a lei, non resterebbe se non ch'egli l'avesse presa
+per un piede o per le gonnelle; immagine che ripugna, e ognun lo
+vede.
+
+	|94-96.~  Notati dall'Alfieri, tranne la frase |come
+spola.~  |Tratto m'avea~; il Bianchi: <S'intende che gi@a il Poeta
+s'era attaccato a lei;> ^s'intende~, quando si vuole intendere;
+ma io vorrei si dicesse dove o a qual parte di lei s'era
+attaccato.  -- |Infino a gola~; fino alla gola; nel ^Conv.~, III, 
+7: <Siccome l'uomo, che @e tutto nell'acqua fuori del capo.>  Il
+Tommaseo: <Fatto il proponimento del bene, e pentito del male, 
+pu@o l'uomo dimenticare il passato in quanto la memoria gli @e
+tentazione> (e anche in quanto gli @e pena e rimorso; cf. v. 98, 
+nel commento; e non si pu@o affatto intendere con alcuni, che
+spiegano che il v. 128 del C. XXVIII di questa Cantica significhi
+che l'acqua del Lete scancella le ricordanze, la memoria delle
+colpe: cf. ^Dizionario Dantesco~, alla voce Lete).
+
+	|97-99.~  L'Alfieri not@o l'ultimo.  |Beata riva~; la riva
+destra (cf. ^Purg.~, XXVIII, 26), sulla quale vide dapprima
+Matelda (ivi, 67); e |beata~ la chiama, perch@e, come nota il
+Giuliani (postill. ined.), ^non si tocca se non da chi si @e prima
+in esso fiume purificato a gustar Dio~; perocch@e se con tal
+lavacro si compie il conseguimento della perfetta innocenza, ne
+deriva che per esso si consegue del pari la perfetta felicit@a, 
+essendo queste due cose affatto inseparabili, l'una scaturiente
+dall'altra (cf. ^Purg.~, XXVIII, 92-94, e 140-142).  -- |Asperges
+me~; parole del ^Salmo~ 50 (v. 9); l'Ottimo: <Questo
+|Asperges.~.. si dice quando per lo prete si gitta l'acqua
+benedetta sopra il confesso peccatore, il quale elli assolve, e
+dice: Signore, bagna me con isopo, e mondificami; laverai me e
+sopra la neve diverr@o bianco.  Lo quale l'Autore bagnato in Lete
+introduce, per mostrare ch'egli @e lavato di tutti suoi peccati, e
+massimamente qui di quello della lussuria, nel quale pi@u, o di
+qui all'ultimo pecc@o.>  Ecco; che Dante fosse gi@a mondato per
+degna penitenza di tutti i peccati, noi lo sappiam gi@a; se cos@i
+non fosse, a che sarebbe giovata la sua confessione all'Angelo
+guardiano all'ingresso del Purgatorio; e come con peccati gravi
+sull'anima sarebbe nel Purgatorio potuto entrare?  E se la piena
+giustizia non avesse gi@a prima d'ora conseguito, ditemi, in
+grazia, che senso avrebbero, se non di vera menzogna le parole s@i
+solennemente rivolte altrove da Virgilio al Poeta (^Purg.~, 
+XXVII, 140 e segg.)?  E se di gravi colpe fosse stato per anco
+macchiata la sua anima, come mai sarebbe potuto Dante entrare
+nella ^divina foresta~ (^Purg.~, XXVIII, 2) e spassarsi per
+quella ^compagna santa~, (ivi, 118)?  Perci@o io non accetto quel
+^massimamente~ dell'Ottimo, dacch@e della ^lussuria~ Dante s'era
+di gi@a appieno purificato al pari di qualunque altra colpa
+mortale assai prima d'ora; cio@e ogni peccato gli era stato
+rimesso ancor prima d'entrare al Purgatorio, e nel viaggio per le
+sette Cornici compie le opere, che i teologi chiamano
+^satisfattorie~; e teniamo ben bene a mente che Matelda, parlando
+della ^virt@u~ delle acque del Lete, non disse gi@a che esse
+^scancellino~ o ^tolgano~ il ^peccato~, ma s@i (e queste e non
+altre son le parole del Poeta) che quell'^acqua toglie altrui
+memoria del peccato~ (^Purg.~, XXVIII, 128): e se ci@o non basta, 
+credo non si vorr@a negar fede alla parola di Virgilio, dove
+parlando del Lete (^Inf.~, XIV, 136-138), dichiara reciso che in
+esso vanno l'anime a lavarsi, ^quando la colpa pentuta e
+rimossa~; dunque per entrare in quelle acque @e condizione ^sine
+qua non~, che la colpa sia ^rimossa~, sia levata via; dunque la
+colpa di Dante non c'era pi@u.  @E chiaro? sono impugnabili codesti
+argomenti? no, fin che resti irrepugnabile la parola cos@i
+esplicita di Dante.  Perci@o qualunque interpretazione che pi@u o
+meno levi del chiaro senso di tali parole; qualunque
+interpretazione che del chiaro senso di tali parole pi@u o meno
+aggiunga, per quanto grande l'ingegno del chiosatore, per quanto
+appariscenti gli argomenti ch'ei rechi a sostegno della sua
+interpretazione, deve essere ritenuta come un'interpretazione che
+si discosta dal vero, dal pensiero di Dante, e perci@o da
+rigettarsi risolutamente.  I biasimi di Beatrice non sono che a
+compimento di penitenza; non sono che di quei rimproveri, che
+l'anima convertita e franca nella via del bene muove a s@e
+medesima; non sono infine che quelle voci celesti che piovono, 
+dolorose e consolatrici nell'istesso tempo, nel segreto d'una
+coscienza risoluta a seguir Dio, ma che d'altra parte, per quanto
+sicura del perdono e della misericordia del Signore, non pu@o
+dimenticarsi e non dolersi delle passate reit@a e del tempo
+miserabilmente speso nel seguire ^false immagini di bene~, 
+antiponendole a quel ^Bene~, 
+
+     Di l@a dal qual non @e a che s'aspiri;
+
+e il pianto, in tal condizione, vien di per s@e, e abbondante; ve
+lo dica il Salmista, vel dicano le Vite, che si posson leggere, 
+di tanti Santi, pianto e penitenza, pur discacciato dall'anima il
+peccato, anzi allora pianto pi@u largo e doloroso: e il Lete non @e
+che una rappresentazione di una di quelle misericordie di Dio, 
+con che anche in terra, dopo penitenze lunghe e sincere, ei fa
+che l'anima si scordi le sue colpe, in quant'anno di seducente a
+colpe altre o di molesto all'interna pace, e fa pregustare pur in
+terra un anticipato Paradiso.  Se io tanto insisto su tali cose, 
+lo faccio a bello studio, perch@e reputo che in esse sta la
+ragione formale del commento del sacro Poema; e lo faccio anche
+per premunire i giovani dal non lasciarsi deviare da certe
+novit@a, che possono ^fucum facere.~  -- |Rimembrar~;
+ricordarmene, non so richiamarlo alla mente (cf. ^Vit. N.~, 
+{Paragraph.} 21).  -- |Non ch'io~ ecc.; non pur descrivere la
+dolcezza di quel canto, ma neppur richiamarla alla mente; @e
+quello che d'altro canto dir@a altrove (^Par.~, XXIV, 23-24):
+
+                   un canto tanto divo, 
+     Che la mia fantasia nol mi ridice.
+
+Il Cesari: <La memoria non basta a raccapezzare l'idea di cosa
+sopra natura; e via meno si pu@o assembrar in parole> (cf. ^Par.~, 
+I, 5-9).  Nella ^Vit. N.~, {Paragraph.} 20:
+
+     Quel ch'ella par quando un poco sorride, 
+     Non si pu@o dicer, n@e tenere a mente.
+
+	|100-105.  Nelle braccia~ ecc.; aperse le braccia
+(^Purg.~, XII, 91).  -- |Mi sommerse~ ecc.; prima era nell'acqua
+infino alla gola (v. 94); ed ora Matelda vel sommerge del tutto. 
+-- |Ove~; quest'|ove~, secondo il Cesari, @e fratel carnale
+dell'^ivi~ di sopra (v. 85), e vale (com'ivi spieg@o) anche qui, 
+^nel qual termine.~  Strana, anzi che no, parmi la postilla del
+Giuliani, che la frase |mi sommerse, ove~, spiega: <^mi sommerse
+tanto che~ ecc.; ^oltre~ la bocca.>  -- |Mi tolse~; mi trasse
+dell'acqua.  -- |Entro alla danza~ ecc.; mi pose in mezzo alle
+quattro danzatrici (^intrecciate a ballo~, postilla il Giuliani). 
+-- |Quattro belle~; le quattro Virt@u Cardinali, che gi@a vedemmo
+alla sinistra del Carro di Beatrice (^Purg.~, XXIX, 130 e segg.). 
+-- |Del braccio~ ecc.; col braccio; e il |braccio~ indica potenza
+(nella ^Mon.~, III, 1: <In ^brachio Illius~, qui nos de potestate
+tenebrarum liberavit... impium atque mendacem de palaestra
+ejiciam>); dunque @e quanto a dire: ognuna mi fece scudo del suo
+potere contro gli opposti vizi.
+
+	|106-108.  Qui~; di questa selva noi siamo abitatrici (e
+si rammenti che il Paradiso Terrestre simboleggia la felicit@a
+della vita presente, ^Mon.~, III, 15, e tale felicit@a non puossi
+conseguire che per mezzo delle Virt@u Cardinali); -- |nel ciel.~..
+|stelle~; le quattro stelle, 
+
+     Non viste mai fuor che alla prima gente
+
+(^Purg.~, I, 24, 37-39; cf. VIII, 89-91).  Il Tommaseo, seguendo
+Pietro: <Qui siamo ninfe, infusioni; nel cielo stelle, essenze, 
+principii.  Salomone (^Sap.~, VIII, 7): ^Sobrietatem.~.. ^et
+prudentiam docet~ (la Sapienza), ^et justitiam, et virtutem~ (la
+fortezza), ^quibus utilius nihil est in vita hominibus.~..  Ninfe
+nella selva beata, umanamente operanti; stelle nel Cielo, 
+raggianti da Dio.>  Sant'Agostino (^Epist.~, 156), citato da
+Pietro: ^Gli atti delle virt@u sono in via, la virt@u @e nella
+patria: quivi il premio di lei: qui in opera, l@a in mercede; qui
+in officio, l@a infine.~  E dalla sostanza di questa chiosa, 
+informata alla dottrina dell'Angelico, non differisce quella del
+Lana, n@e quella dello Scartazzini: <In terra sono |ninfe~, genii
+di salutevole consiglio; in cielo |stelle~, esseri illuminanti la
+cui luce non @e n@e per loro medesime n@e pel cielo dove dimorano, 
+ma per questa terra.  Il concetto di questo verso ne sembra
+pertanto essere, che le virt@u cardinali splendono in cielo qual
+luce che illumina il mondo, e sono nello stesso tempo in terra le
+consigliatrici degli uomini.>  -- |Discendesse~ ecc.; nella ^Vit.
+N.~, {Paragraph.} 30: <... In questo mondo ella (^Beatrice~) fu
+posta.>  Ivi ({Paragraph.} 36, nel son.): <Par una cosa venuta di
+cielo in terra;> tutte espressioni fatte a bella posta in aiuto
+di que' signori, che sostengono che Beatrice non ha mai esistito! 
+-- |Pria che Beatrice~ ecc.; prima che l'anima di Beatrice
+venisse infusa nel corpo di lei, noi fummo deputate a servirla
+come ancelle (|fummo ordinate~ ecc.; di S. Francesco e di S.
+Domenico, rispetto alla Chiesa, dice che Dio ^Due principi ordin@o
+in suo favore, Che quinci e quindi le fosser per guida~; ^Par.~, 
+XI, 35-36).  Il Tommaseo: <Prima che la Rivelazione venisse, le
+virt@u naturali erano ancelle mandate a prepararle la via, 
+tenevano il luogo delle virt@u teologali.  ^Sap.~, VII, 29: ^Ell'@e
+pi@u cospicua del Sole~, e ^comparata all'ordine~ e ^alla luce di
+tutte le sfere, trovasi essere prima.~  Nato Ges@u Cristo le dette
+virt@u hanno condotti gli uomini dall'idolatria a contemplare
+nuovi misteri.  Intendi ancora, che le quattro virt@u furono
+ancelle a Beatrice come simbolo.>  Not@o gi@a il Lombardi, che qui
+il Poeta, pi@u che della Beatrice allegorica parla della reale; ad
+ogni modo siccome @e palese il concetto che Beatrice vivente fu
+regina di tutte le virt@u (^Inf.~, II, 76; ^Vit. N.~, {Paragraph.}
+10), cos@i v'@e inchiuso l'altro che le virt@u cardinali furono da
+Dio ordinate a preparare la via alla divina Rivelazione.  Di qui
+ben si capisce come nel mistico viaggio del nostro Poeta, al
+ministero di Virgilio succeda quello di Beatrice.  Ma di queste
+|stelle~ e di questo ^cielo~ io prego il giovane di leggere e di
+ben meditare quanto Dante ragiona nella prima parte del capo XIX
+del trattato IV del suo ^Convito.~
+
+	|109-111.  Menrenti~ (al. ^merrenti~), ti meneremo (sulla
+qual contrazione cf. ^Purg.~, X, 24; nel commento).  -- |Agli~;
+dinanzi (sul verbo ^menare~, cf. v. 23).  -- |Dentro~; dentro
+dagli occhi di Beatrice, occhi che tutto veggono (^Inf.~, X, 
+131).  -- |Aguzzeran~; cf. ^Inf.~, XV, 20.  -- |Le tre di l@a~; le
+tre Virt@u teologali, ch'erano all'altra parte del Carro, cio@e
+^dalla destra ruota~ (^Purg.~, XXIX, 121-129).  -- |Pi@u
+profondo~; hanno per oggetto verit@a profonde, cose divine, mentre
+le Cardinali spianano all'uomo la via per giungere a quelle (cf.
+^Mon.~, III, 15; e ^Dizionario Dantesco~, vol. VIII, App. I, 
+{Paragraph.} 15); le quali Virt@u teologali guidano l'uomo alla
+conoscenza delle verit@a superiori e divine, simboleggiate in
+Beatrice (cf. ^Mon.~, II, 8; III, 15), verit@a che Iddio non
+disvela se non alle anime altamente credenti.  Dunque @e chiaro: a
+condurre alla visione di questi occhi e a goderne come un raggio
+riflesso, bastano le Virt@u Cardinali; ma a capirne e a fruirne
+l'intima luce fan duopo le Teologali.  Delle tre Virt@u teologali
+si vegga il passo del ^Convito~, III, 14 (riferito nel ^Purg.~, 
+XXIX, 127-129); e rispetto agli |occhi~ di Beatrice scrive
+(^Conv.~, II, 16): <Gli occhi di questa Donna sono le sue
+dimostrazioni, le quali dritte negli occhi dello intelletto
+innamorano l'anima, libera nelle sue azioni.>  E ivi, III, 15:
+<Si conviene sapere che gli occhi della Sapienza sono le sue
+dimostrazioni, colle quali si vede la verit@a certissimamente; e
+il suo riso sono le sue persuasioni, nelle quali si dimostra la
+luce interiore della Sapienza sotto alcuno velamento: e in queste
+due si sente quel piacere altissimo di beatitudine, il quale @e
+massimo bene in Paradiso.  Questo piacere in altra cosa di
+quaggi@u essere non pu@o, se non nel guardare in questi occhi e in
+questo riso.>  E or Dante, dopo la fatta esperienza d'aver posto
+il cuore nelle ^presenti cose~, lo poteva conoscere meglio che
+mai; dacch@e adesso egli era proprio, sotto certo rispetto, in
+quella condizione ch'egli nota altrove dell'imperator Traiano
+(^Par.~, XX, 46-48).
+
+	|112-114.  V#olta stava~; fin dal momento che, finiti i
+suoi rimproveri al Poeta, egli alz@o gli occhi per guardarla (vv.
+79-91); dunque Dante, messo al petto del Grifone, era proprio di
+rimpetto al viso di Beatrice; per@o ella nol guardava, tutto
+intesa a contemplare il Grifone.
+
+	|115-117.  Fa~ ecc.; non risparmiare (^risparmi~; altri
+^rispiarmi~) gli sguardi, aguzza gli occhi e l'attenzione.  --
+|Smeraldi~; non credo che nella voce |smeraldi~, come opin@o il
+Lami, intendesse dire il Poeta che Beatrice avesse gli occhi di
+un turchino verdiccio simile a quello del mare n@e che pensasse a
+quanto dello smeraldo disse Plinio, come riferisce il Lombardi;
+ma us@o tal voce solo in quanto ci porta all'idea di splendore, 
+rilucentezza, per dire ^occhi rilucenti~ (v. 119).  Per sola
+curiosit@a si legga a questo punto quante virtuose diavolerie allo
+^smeraldo~ attribuisca l'Ottimo.  -- |Onde Amor~ ecc.; dai quali
+Amore ti saett@o i suoi dardi (cf. ^Purg.~, XXVII, 54, nel
+commento).  Nella ^Vit. N.~, {Paragraph.} 21 (nel son.): ^Negli
+occhi porta la mia donna Amore~; nel ^Par.~, IV, 139: ^Occhi
+pieni di faville d'amor.~  Nel ^Canzon.~ (P. II, son. I):
+
+     Dagli occhi della mia donna si muove
+     Un lume s@i gentil, che dove appare, 
+     Si vedon cose, ch'uom non pu@o ritrarre
+     Per loro altezza e per loro esser nuove.
+
+-- |Gi@a~; prima che tu fossi fuor di puerizia (^Purg.~, XXX, 42). 
+-- |Armi~; nel ^Canzon.~ (P. II, canz. VI, st. 4) dice che Amore
+^prese l'uno e l'altro dardo~, onde suole trafiggere altrui; nel
+^Conv.~, II, 10: <Molte volte, nel dirizzare (^cio@e~ nella
+dirittura) di questa linea (^dell'occhio~), discocca l'arco di
+colui, al quale ogni arma @e leggiera (^cio@e~ Amore).>  Da questi
+occhi, quasi i loro raggi fossero altrettante saette, Amore
+assiso in essi scocc@o le sue frecce al Poeta; e di quegli occhi
+stessi si valse Amore per far come la corda a pigliarlo (cf.
+^Par.~, XXVIII, 12: cf. ^Epist.~, III, {Paragraph.} 2); mentre
+altrove (^Par.~, XXVI, 14-15), il Poeta chiama ^porte~ gli occhi
+propri, per le quali Beatrice entr@o nell'anima di lui ^col fuoco
+onde~ egli ^sempre ardeva.~
+
+	|118-120.~  L'Alfieri not@o i due primi.  |Mille disiri~;
+se nessun desiderio men che santo l'immagine e la presenza di
+Beatrice vivente destavano nel cuor del Poeta (^Vit. N.~, 
+{Paragraph.} 2), torna agevole capire che folla di desiderii
+celesti saranno stati codesti.  Nel ^Canzon.~ (P. II, canzon. II, 
+st. 2):
+
+     E gli occhi di color, dov'ella luce, 
+     Ne mandan messi al cor pien di desiri, 
+     Che prendon aere, e diventan sospiri.
+
+-- |Strinsermi~ ecc.; tutto s'affisse negli occhi di Beatrice, il
+che dice l'affetto profondo, e che nulla gli toccasse altro la
+mente (^Purg.~, II, 117).  Perch@e poi oltre all'affetto, i suoi
+occhi avessero ^parete quinci e quindi di non caler~, come dice
+pi@u sotto (^Purg.~, XXXII, 4-5), ne d@a la ragione nel ^Conv.~, 
+II, 10: <Si vuole sapere, che avvegnach@e pi@u cose nell'occhio a
+un'ora possano venire, veramente quella che viene per retta linea
+nella punta della pupilla, quella veramente si vede, e nella
+immaginativa si suggella solamente.  E questo @e, perocch@e il
+nervo, per lo quale corre lo spirito visivo, @e diritto a quella
+parte; @e per@o veramente l'un occhio l'altro occhio non pu@o
+guardare s@i, che esso non sia veduto da lui; ch@e siccome quello
+che mira riceve la forma nella pupilla per retta linea, cos@i per
+quella medesima linea la sua forma se ne va in quello cui mira; e
+molte volte nel dirizzare di questa linea, discocca l'arco di
+Colui al quale ogni arma @e leggiera. Per@o quando dico, ^che tal
+donna gli vide~, @e tanto a dire quanto che gli occhi suoi e li
+miei si guardaro.>  -- |Rilucenti~ (cf. v. 116); nell'^Inf.~, II, 
+55: ^Lucevan gli occhi suoi pi@u che la stella~; e ivi, 116: ^gli
+occhi lucenti~ ecc.  -- |Saldi~; immobili, tutti fissi nella
+contemplazione.
+
+	|121-123.~  L'Alfieri not@o i due primi.  |Come in lo
+specchio~ ecc.; come nello specchio i raggi del sole (cf.
+^Purg.~, III, 7) si mostrano in differenti movenze di luce. 
+Nella ^Sap.~, VII, 26: ^Candor est lucis aeternee, et speculum
+sine macula Dei majestatis et imago bonitatis illius.~  -- |Or
+con uni~ ecc.; or cogli atti d'aquila, or con quelli di leone. 
+Nel ^Conv.~, III, 7: <Gli atti, (-- cf. v. 131 --), che
+reggimenti e portamenti sogliono essere chiamati> (cf. il passo
+di questo capo allegato al ^Purg.~, XXV, 61); dunque vuol dire
+che il Grifone si rispecchiava negli occhi di Beatrice ora
+attegiandosi nell'uno, ora nell'altro modo; ora cogli atti
+proprii della divina natura, or con quelli dell'umana.  L'Ottimo:
+<Reca in comparazione il Sole, che mette li raggi suoi nello
+specchio, che non mutando sustanzia, n@e qualitade, ora vi si vede
+in uno modo, ora in un altro modo.>
+
+	|124-126.  Pensa~ ecc.; cf. ^Inf.~, VIII, 94; ^Par.~, 
+XXXI, 42).  -- |La cosa~; nel filosofico senso di ^res~, nota il
+Tommaseo, il reale, contrapposto al soggettivo, ch'@e l'idolo.  --
+|Nell'idolo~; nella sua immagine, riflessa dagli occhi di
+Beatrice.  Il Tommaseo: <Negli occhi, dov'era l'immagine di Ges@u
+Cristo, varie si facevano le forme di lui, perch@e vario per
+debolezza @e l'umano ingegno; e non pu@o tutta in uno sguardo
+comprendere la virt@u di cosa nessuna (onde il senso filosofico di
+^discorso~: -- cf. ^Vulg. El.~, I, 2 --); e perch@e in Ges@u Cristo
+si pu@o considerare ora la divina, ora l'umana natura.>  Di questo
+^trasmutarsi~ del Grifone non realmente, ma ^nell'idolo suo~, pu@o
+essere buona spiegazione quanto Dante discorre nel ^Conv.~, IV, 
+1, nel princ.  A questo luogo fa ottimo riscontro quello che il
+Poeta dice del suo contemplare la Ss. Triade (^Par.~, XXXIII, 
+109-114).  -- |S@i trasmutava~; l'Antonelli: <Per effetto del suo
+moto apparente, il Sole raggia in un fermo specchio per modo che
+il riflesso della sua imagine viene continuamente per necessit@a
+variando direzione.  Ora il Poeta si maraviglia che gli occhi di
+stesso, avvenisce trasmutamento nell'immagine sua, da quei vivi
+specchi riflessa, come avviene in quella del sole, senza per@o che
+fosse nel misterioso animale il moto di quest'astro, n@e verun
+altro spostamento.  ^Trasmutare~ parrebbe dunque che significhi
+semplicemente mutamento di luogo in contrapposto dello |star
+queta~ la cosa.  Ma quando volesse unirvisi l'idea di
+trasformazione, ossia mutazione anche di forma, non si farebbe
+che accrescere la ragione della sorpresa, in chi tal prodigio
+osservava.  Il Poeta qui mostra quanto egli fosse sottile
+indagatore dei naturali fenomeni; e quanto profondamente vedesse
+nelle soprannaturali regioni, dipingendoci con una pennellata da
+maestro, uno dei pi@u sublimi misteri teologici, dico la
+immutabilit@a di Dio e la moltiplicit@a dei rapporti che in lui
+discopriamo, secondo la diversit@a degli aspetti, ne' quali per
+noi si contempla.>
+
+	|127-129.~  Notati dall'Alfieri.  |Di quel cibo~ ecc.
+della contemplazione degli occhi di Beatrice, che mentre mi
+saziava, accendeva in me pi@u vivo il desiderio di s@e (cf.
+^Purg.~, XXXII, 73-75); nell'^Ecclesiastico~ (XXIV, 29) dice di
+s@e la Sapienza: ^Qui edunt me, adhuc esurient; et qui bibunt me, 
+adhuc sitient~ cf. ^Par.~, XV, 65-66).  Il Giuliani, senza dirci
+onde le tolse, scrive nel margine queste parole: <^ab ipso bibunt
+quod ab ipso sitiunt.~>  S. Gregorio fa questo bel contrapposto
+tra i beni dello spirito e quei del corpo (^Homil.~ 36 in ^Ev.~):
+^Hoc distare inter delicias corporis et cordis solet quod
+corporales deliciae cum non habentur rave in se desiderium
+accendunt; cum vero avide eduntur, comedentem protinus in
+fastidium per satietatem vertunt.  At contra spiritales deliciae, 
+cum non habentur, in fastidio sunt; cum vero habentur, in
+desiderio: tantoque a comedente amplius esuriuntur, quanto et ab
+esuriente amplius comeduntur.  In illis appetitus placet, 
+experientia displicet; in istis appetitus vilis est, et
+experientia magis placet.  In illis appetitus saturitatem, 
+saturitas fastidium generat; in istis autem appetitus
+saturitatem, saturitas appetitum parit.~  Cf. ^Par.~, XVIII, 18, 
+nel commento.
+
+	|130-132.  Tribo~, (dal lat. ^tribus~), ordine, schiera
+(cf. Borghini, Op. cit., pag. 251).  -- |L'altre tre~; le tre
+ninfe ch'erano alla destra del Carro (cf. ^Purg.~, XXIX, 121). 
+-- |Danzando al loro angelico caribo~: grande dibattersi tra'
+chiosatori sul significato di questo verso, per l'incertezza del
+senso dell'ultima voce; pare che agli antichi nostri fosse
+notissima, posto che il Lana, Pietro, il Postill. Cass., l'Ottimo
+e l'Anon. Fior. tiran via senza darne spiegazione.  Benvenuto
+fece questa chiosa: <|danzando~ ecc.; idest ad gratulationem et
+cantionem angelicam ipsarum, vel ad cantum angelorum, ita quod
+conformabant motum suum voci suae vel voci Angelorum, sicut
+solent facere tripudiantes et cantantes simul.>  Pi@u tardi il
+Buti che legge ^garibo~, diede alla voce il senso di ^garbo, 
+modo~, e fu seguito dal Landino, dal Vellutello e dal Daniello;
+invece gli Accademici della Crusca, nell'ediz. della Div.
+Commedia del 1595, spiegano |caribo~ per ^ballo~ o ^ballamento~, 
+credendo che derivi da ^corybas~, <mutato l'^o~ in ^a~, s@i come
+pu@o credersi che sia addivenuto a ^carola~, che secondo alcuni
+vien da ^corea~, significando l'uno e l'altro ^ballo~ e ^canto~;
+e non sarebbe gran fatto che |caribo~ volesse, dire il ^ballo
+tondo~, o ver ^rigoletto~;> e fu per questo che gli Accademici, 
+dietro all'autorit@a di alcuni testi, in luogo di |Danzando~
+lessero ^Cantando.~  L'opinione degli Accademici fu seguita dal
+Venturi e dal Lombardi, mentre il Monti (^Prop.~, I, II, 142 e
+segg.) si sforz@o di rimettere in onore la spiegazione del Buti. 
+Per@o il Parenti (veggasi il commento del Lombardi nell'ediz. di
+Padova), confrontando questo luogo col ^Purg.~, XXIX, 128-129 e
+XXXII, 33, e facendosi forte della spiegazione di Benvenuto, 
+venne a conchiudere: <Si consideri bene il suddetto luogo, e
+vedrassi come |caribo~ naturalmente equivale a ^canto.~  In fatti
+la regolatrice della danza canta ancora, e il Poeta soggiunge
+espressamente qual fasse questo canto: ^Volgi, Beatrice, volgi
+gli occhi santi, Era la sua canzone~ ecc...  Or dunque il
+^canto~, il |caribo~, la ^nota~ servono allo stesso officio di
+regolare l'andamento o la danza.  Abbiamo insomma v#olta in sacro
+senso la ^ballata~, cio@e quella ^canzone che si canta ballando~, 
+e non possiamo trascurare l'analogia con quello di Virgilio:
+^Pars pedibus plaudunt choreas, et carmina dicunt.~>  Quasi tutti
+i chiosatori moderni seguirono l'opinione del Parenti, ad onta
+che il Paggi cercasse pi@u tardi di rimettere in campo quella del
+Monti.  -- |Sua~; loro (cf. ^Inf.~, XXII, 144, nel commento).
+
+	|133-135.  Fedele~; non s'ha da intendere nel rigido
+senso di ^fedelt@a~ in atto, ma in abito, non dell'opera, ma
+dell'affetto: cos@i Beatrice chiamava ^amico suo~ (^Inf.~, II, 61)
+l'Allighieri, e Lucia il diceva pure |fedele~ di lei (^Inf.~, II, 
+98), anche allora che da lei pi@u che mai ^s'era tolto e
+straniato~ (^Purg.~, XXX, 126; XXXIII, 92); nel senso che il
+Grisostomo (nel ^Brev. Rom.~, 6 luglio) dice di S. Pietro, bench@e
+tre volte avesse negato il suo Maestro: ^tu ferventi spiritu
+Dominum dilexisti omnium Apostolorum fidelissimus.~  Nella ^Vit.
+N.~, {Paragraph.} 12 (ball. st. 4), facendo le sue scuse a certi
+sospetti di Beatrice, fa che la ^ballata~ le dica:
+
+     madonna, lo suo core @e stato
+     Con si fermata fede, 
+     Ch'a voi servir ha pronto ogni pensiero:
+     Tosto fu vostro, e mai non s'@e smagato.
+
+-- |Passi tanti~ (cf. ^Par.~, V, 6; XXII, 73-74), viaggio s@i
+lungo.  -- |Occhi santi~; cf. ^Par.~, III, 24; XXIII, 60.
+
+	|136-138.  Per grazia~; per tua bont@a, per tua cortesia;
+@e quanto a dire: Fanne, in cortesia, questo favore, che ti
+chiediamo.  -- |Fa noi~; cf. ^Inf.~, V, 81, nel commento.  -- |La
+bocca~; se qui si trattava che Beatrice avesse a rimuovere il
+velo che le copriva la ^faccia~, come appresso far@a (v. 145), 
+|bocca~ significher@a ^faccia~, appunto come ^os~ presso i Latini. 
+-- |La seconda bellezza~; io intendo coi pi@u che qui s'intenda
+precisamente della bellezza attuale, di quella cio@e ch'ella ebbe, 
+di molto cresciuta sulla bellezza mortale, dopo che ^di carne a
+spirito era salita~ (^Purg.~, XXX, 127-128).  Riferir qui, come
+fanno il Biagioli ed altri, il tratto del ^Conv.~, III, 8 (ad
+med.), dove l'Autore ragiona degli ^occhi~ e della |bocca~, come
+i due luoghi, ove l'anima meglio si dimostra, per conchiudere che
+qui le Virt@u teologali per |bocca~ intendono |bocca~ e non
+^faccia~, sar@a ingegnoso, ma non appaga; e ci@o per le seguenti
+ragioni: nessun dubbio che Beatrice era ancor velata, e che le
+Virt@u teologali la supplicano di rimuovere quel velo; e nessun
+dubbio che Beatrice, cos@i pregata, rimuove il velo non solo dalla
+|bocca~, ma s@i da tutta la ^faccia~ (v. 135 e segg.).  Se per
+|seconda bellezza~, stando al ^Convito~, qui si dovesse intendere
+esclusivamente la |bocca~, bisognerebbe trovar luogo, ove avviene
+lo scoprimento degli ^occhi~; mentre @e chiaro che |bocca~ e
+^occhi~ qui discopre Beatrice, e ci@o per la preghiera di esse
+Virt@u che ^disvelasse~ a Dante la |bocca.~  Innoltre, le Virt@u
+Cardinali non avevan detto a Dante (vv. 109-111) che sarebbero
+state le Teologali quelle che avrebbero aguzzato gli occhi di lui
+nel giocondo lume ch'@e dentro agli occhi di Beatrice?  E non vi
+pare che sia questo appunto il momento che, secondo siffatta
+promessa, le Teologali compiono tra Dante e Beatrice il loro
+ministero?  A chi risponde che il Poeta degli ^occhi~ ha gi@a
+parlato finora, e che ora intende parlare della |bocca~, si pu@o
+rispondere che di questi ^occhi~ parl@o in quanto li poteva vedere
+col ministero delle Virt@u Cardinali, cio@e attraverso il ^velo~
+(^Purg.~, XXX, 67-69; XXXI, 82-84), e che ora si trattava di
+vederli svelati del tutto: d'altra parte (e qui sta il forte), se
+Dante attraverso il ^velo~ pot@e contemplare pienamente gli
+^occhi~ di Beatrice, perch@e attraverso quel ^velo~ stesso non
+poteva del pari pienamente contemplare anche la |bocca~, senza
+bisogno d'una speciale preghiera delle Virt@u Teologali perch@e
+Dante la potesse vedere scoperta?  E perch@e esse Virt@u pi@u della
+|bocca~ che degli ^occhi~ si prendon pensiero? mentre a me pare
+che pi@u che alla |bocca~ della Sapienza, agli ^occhi~ di lei deve
+intendere il ministero delle Virt@u Teologali; che se quel ^velo
+celava~ la |bocca~ (|seconda bellezza~, come alcuni vogliono
+intendere), come, si pu@o sostenere che non ^celasse~ anche gli
+^occhi~, che in tal caso sarebbero la ^bellezza prima~?  Ma
+l'argomento, a parer mio, pi@u forte, si @e questo: le tre Ninfe
+pregaron Beatrice di ^volgere~ a Dante gli ^occhi santi~; e
+proseguendo la preghiera, aggiungono ch'ella |disveli a lui la
+bocca~; che vuol ci@o dire? non altro che questo: ^Volgiti a lui, 
+solleva il velo, perch'ei vedendo il tuo viso, ti contempli nella
+tua bellezza immortale.~  Tutto dunque pesato, se |bocca~
+s'avesse qui da prendere nel senso proprio, non sarebbe compita
+la promessa delle Virt@u Cardinali (vv. 109-111), non compito il
+ministero delle Teologali, e il paragone implicito sarebbe tra
+^occhi~ e |bocca~; mentre per |seconda bellezza~ intendendo la
+^bellezza attuale~, la ^immortale~, il paragone s'allarga tra la
+Beatrice di Firenze e la Beatrice del Paradiso, e non fa che
+svolgere pi@u chiaramente l'idea poco prima toccata (vv. 82-84), 
+come a dire: Se pure attraverso il velo mi parve che Beatrice
+tanto in bellezza ora vincesse l'antica, quanto l'antica vinceva
+al mondo tutte le donne, pensa o lettore, che sar@a stata adesso, 
+che si era tolta il velo!
+
+	|139-145.~  Beatrice asseconda la preghiera delle tre
+Virt@u, e si svela; Dante, a quell'incomprensibile spettacolo di
+bellezza, non descrive, non narra, ma con un'uscita insolita e
+potente, si domanda qual mente umana sarebbe capace di farlo (di
+ci@o cf. ^Par.~, XIV, 79-81, nel commento).  |O isplendor~ ecc.;
+non senza perch@e attribuisce a Beatrice quello che nel libro
+della ^Sapienza~ (VII, 26; cf. v. 121) @e attribuito alla ^Scienza
+divina~, parole che Dante riporta altrove (^Conv.~, III, 15): e
+veggasi al v. 109, nel commento.  Altrove, in consimile
+congiuntura (^Par.~, XXX, 97-99):
+
+     O isplendor di Dio, per cui io vidi
+     L'alto Trionfo del regno verace, 
+     Dammi virt@u a dir com'io lo vidi.
+
+Cf. ^Purg.~, XXIX, 37-42.  -- |Pallido~; il Lombardi, seguendo il
+Daniello: <Supponendo Dante il monte Parnaso qual lo descrive
+Ovidio, ^arx umbrosa~ (^Metam.~, lib. I, v. 467), e che (come di
+fatto succede) impallidisca colui che sempre abita all'ombra, 
+passa quindi con vaghissima traslazione a ripetere dall'ombra dei
+boschi del Parnaso quel pallore che gli studiosi uomini pel
+continuo ritiro ed applicazione a' libri contraggono; ed invece
+di dire ^Chi ha mai tanto studiato~, dice |Chi si fece s@i pallido
+sotto~ l'ombra di Parnaso?>  Qui il |pallido~ porta al ^macro~
+del ^Par.~, XXV, 3; nell'^Egl.~, I, 28-30, dice del pari di s@e, 
+in persona di Mopso:
+
+     Montibus aoniis Mopsus...
+     Se dedit, et sacri nemoris perpalluit umbra.
+
+-- |In sua cisterna~; alla sua fonte (cf. ^Purg.~, XXIX, 40 e 42, 
+nel commento).  -- |Ingombra~; impacciata, offuscata (cf. ^Par.~, 
+I, 127; ^Epist.~, X {Paragraph.} 28 e 29; ^Conv.~, III, 4).  --
+|Render~; ritrarre (cf. ^Conv.~, III, 8 lin. 90-100).  -- |L@a
+dove~ ecc.; il Casini: <Varie interpretazioni sono state date di
+questo verso abbastanza oscuro; la pi@u comune opinione degli
+interpreti, dal Buti al Tommaseo, @e che qui come gi@a in ^Purg.~, 
+XXX, 93 sia accennata la dottrina platonica dell'armonia prodotta
+dai cieli nel loro movimento, e che il verso significhi: l@a nel
+paradiso terrestre, dove le sfere risonando con la loro armonia
+ti circondavano.  Ma l'Antonelli, giustamente osservando che in
+questo caso il poeta avrebbe detto ^adombrava~, propone un'altra
+spiegazione: egli d@a al verbo ^adombrare~ il senso di
+rappresentare, rendere immagine, e intende: l@a dove il cielo
+armonizzando con la terra dell'innocenza, rende appena con la sua
+bellezza un'immagine della tua bellezza divina.>  Il Tommaseo:
+<Sebbene il verso che fa intorno a Beatrice ^armonizzare~ non
+solo gli Angeli ma i cieli, mossi (secondo l'idea del Poeta)
+dalla loro virt@u, sia de' pi@u degni di lui: nondimeno pi@u fecondo
+di bellezza e teologica e psicologica e Poetica l'altro, che dice
+l'oggetto reale della contemplazione, quieto dinanzi all'anima e
+uno, nell'^idolo~ della mente trasmutarsi tuttavia e variare.> 
+-- |Ti solvesti~; il Cesari: <Quel |ti solvesti nell'aere
+aperto~, ha una nobilt@a pellegrina; mostrando che, a modo di nudo
+spirito, si fosse la bellissima persona di lei diradata (?!)
+nell'aere: a dire ^ti apristi tutta in tuo nudo sembiante~, si
+abbassa il concetto, non che si chiarisca.>
+
+	Nota le terzine 1, 2, 3, 6, 7, 9, 11, 14, 15, 17, 18, 19, 
+22, 23 24, 26, 28; 30 alla 37; 39 alla 42; 45 e 48.

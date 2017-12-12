@@ -1,0 +1,984 @@
+|PARADISO CANTO 03~
+
+	|1-3.  Quel Sol~, ecc.  Beatrice, che illumin@o la mente
+di Dante nelle cose divine.  -- ^Che pria mi scald@o~ ecc., che
+prima m'aveva innamorato nel mondo; -- ^...m'avea scoperto~,
+m'avea dimostrata la cagione delle macchie lunari con bella
+verit@a di dimostrazione, dimostrando e contraddicendo.  BENV.
+-- ^Quel Sol~, in senso morale ed anagorico intendi la Teolog$ia
+che a s@e lo tenne.  E. B.  -- L'Anonimo dichiara: <Beatrice fue
+el suo primo amore in carne, e la Teolog$ia @e il primo amore
+dello spirito>.  -- ^Provando~ la sua vera sentenza; ^e
+riprovando~, e mostrando falsa la mia opinione.  LOMB.  -- ^Di
+bella verit@a... il dolce aspetto.~  Questa espressione dimostra
+quanto al Poeta fu cara la verit@a, della quale fu l'anima sua
+tanto appassionata.  BIAGIOLI.  -- Nella ^Somma~: <La sapienza,
+come virt@u intellettuale, considera le cose divine in quanto
+sono investigabili alla ragione umana; ma la virt@u teologica
+versa intorno alle cose divine, in quanto eccedono la ragione>.
+Nota del Fraticelli.  -- Var.  ^Mi scalda il petto~, il 15; --
+^pecto~, (V.); -- ^mi scald@o il~, molti, (M.).  Fer. W. Benv.;
+-- ^m'av$ia~, 17. 26; -- ^scoperto~, sei, (M.).  Benv.  W. Bart.
+Rosc.; -- ^Di bona verit@a~, il 43, -- ^Ond' io~, il 3; -- ^il
+dolce detto~, il 20; -- ^dolcie~, (M.); -- ^aspecto~, (V.).
+
+	|4-6.  Ed io, per~ ecc.  Ed io alzai il capo, prima
+immobile in Beatrice, pi@u in alto, in modo conveniente a dire,
+per confessarmi corretto dell'error mio.  -- ^E certo~, intendi,
+della vera cagione delle macchie lunari.  BENV.  -- ^Levai il
+capo~, che prima io teneva basso e meditabondo; -- ^quanto si
+convenne~, quanto abbisogn@o per parlare.  LOMB.  -- ^Profferire,
+profferere~ e ^profferare~ usarono egualmente gli antichi.
+BIANCHI.  -- Var.  ^Correpto~, il 6; -- ^e cierto~, (M.); --
+^tanto e quanto~, il 3; -- ^Levai il capo~, ventidue, (M.).
+(I.).  Nid.; -- ^el capo~, parecchi; -- ^Leva' il capo~, il 24;
+-- ^Levai 'l capo~, (F.).  (N.); -- ^a proferir~, dieciotto, (V).
+Viv. Fer., Pad. 1859, Benv. Rosc., e l' ho preferita; -- ^lo capo
+a profferer~, Crusca.
+
+	|7-9.  Ma vis,ione~ ecc.  Ma apparvermi ombre che ad esse
+mi fecero tanto attento, sendo le prime anime ch'io vedeva in
+Paradiso, che non mi ricordai della confessione ch'io doveva fare
+a Beatrice.  BENV.  -- ^Visione~, per ^oggetto~, LOMB.  -- Ma
+dice ^visione~, ad accennare d'aver prima veduti quegli oggetti,
+e come dice nei vv.  segg.  BIAGIOLI.  -- ^Tanto stretto~, tanto
+applicato; -- ^corretto~, dell'errore mio; -- ^certo~, della
+scopertami verit@a.  Biagioli al v. 4.  --... ^che per vedersi~,
+che per essere distintamente vedute mi obbligarono a s@i stretta
+applicazione, che non mi sovvenne pi@u di quello ch'io voleva
+confessare a Beatrice.  BIANCHI.  -- ^Tanto stretto, Aeneidis~ I:
+^Obtutuque haeret~ defixus ^in uno.~  -- E ^Purg.~ XVII, 22-24:
+^Cos@i fu la mia mente s@i ristretta -- Dentro da s@e, che di
+fuor non ven$ia -- Cosa che fosse ancor da lei recetta.~  FRAT.
+-- Var.  ^Ma vis,ion m'apparve~, il 15. W.; -- ^stretto per
+diversi~, il 15; -- ^A s@e me tutto~, il 20; -- ^me stretto
+tanto~, il 26; -- ^tanto segreto~, il 37; -- ^no mi sovenne~,
+(M.).
+
+	|10-15.  Quali per~ ecc.  Dante vide quelle ombre, nel
+modo che vediamo la immagine nostra in uno specchio o nell'acqua.
+-- ^Vid'io pi@u faccie~ ecc., vidi pi@u faccie, pi@u larve che
+mostravano desiderio di parlare, quali sono le immagini nostre
+riflesse da vetri trasparenti, o da acque limpide e quiete, non
+tanto profonde da non lasciare vedere il loro fondo; immagini
+tanto deboli che poco si distinguono dalla perla in fronte
+bianchissima.  -- ^Non vien men forte~, maggiormente non colpisce
+gli occhi nostri.  BENV.  -- A dimostrare come tenui tenui
+venivangli all'occhio i lineamenti di quell'anime apparitegli,
+adopera queste similitudini espresse con s@i cara grazia che pi@u
+Dante stesso non potrebbe.  BIAGIOLI.  -- ^Trasparenti~, cio@e da
+banda a banda, non gi@a specchi, i quali riflettono le immagini
+quali sono, e non con quella tenuit@a che Dante qui vuol
+esprimere.  VENTURI.  -- ^Non s@i profonde~ ecc., perch@e se
+l'acqua @e molto profonda rende l'immagine al pari dello
+specchio.  Il Vellutello e il Daniello comentano al contrario,
+dicendo che la profondit@a dell'acqua impedisce la riflessione
+dell'immagine.  VENTURI.  -- ^Postille~, fig. per ^lineamenti
+della persona, immagine, figura, rappresentazione~, tratta la
+figura da que' segni marginali sui libri che servono a richiamare
+alla mente parola o concetto altrove espresso.  LOMB.  -- ^Non
+vien men forte~ volle che si leggesse il Perazzini, a vece del
+^Non vien men tosto~ della Cr. col dire: ^Quaestio enim est, non
+de celeritate, sed de quantitate~ (^Correct.~ etc. pag. 75).  Il
+Lomb. seguit@o questa lezione, confutando quella della Cr.; il
+Biagioli in vece la propugn@o con sottile argomentare, e
+dichiarando: <Le postille de'nostri volti tornano debili s@i, e
+tornano s@i poco tosto, che perla posta in bianca fronte non
+torna meno debole e meno tosto>.  Fu seguitato dalla E. B., da me
+nella Pad. 1822, e dal Bianchi nella sua prima edizione, operando
+in ci@o (per parte mia) con pi@u fretta che consiglio.  Meno il
+Fer.  ed il W., tutti i moderni hanno preferita la lettera ^men
+forte~, francheggiata da grandi autorit@a.  Da questa lezione, in
+sentenza del Bianchi, il testo viene pi@u chiaro che dalla com.
+^men tosto~, e il paragone sta pi@u nei termini; ch@e ^men forte~
+equivale a ^tanto debole~, e ben risponde al ^debili s@i~ del
+verso innanzi.  -- Cos@i l'intese pure il Fraticelli.  --... ^che
+i fondi sien persi.  Perso~ per ^Perduto~ fu voce condannata dai
+Petrarchisti del cinquecento; fu difesa dal Caro, col porre
+innanzi questo esempio di Dante e di altri autorevoli scrittori.
+Tanto dicasi di ^perse~ per ^perdette~, voci che, oltre l'uso,
+sono soccorse dall'analog$ia.  -- Il Parenti, fattosi ammezzatore
+nella disputa, concluse: Che l'allontanarsi dalla maniera pi@u
+regolare, non solamente @e licenza ristretta ai soli poeti, ma
+che in loro medesimi sarebbe mal tollerata fuori di rima.  (^Cod.
+Sprop.~ n+o~ 5, pag. 60 e segg.)  -- Var.  ^Transparenti~, il 37;
+-- ^che fondi sien~, sette e le pr. cinque edd.; -- ^sian~, 17.
+27.  Benv.; -- ^Tornar~, il 7; -- ^Tornando in nostri~, il 21; --
+^le pistille~, il 40, lettera da cercarsi in altri testi; -- ^dei
+nostri~, W.; -- ^di nostri~, il 53; -- ^che perla bianca fronte~,
+(N.).  (V.); -- ^men forte~, venti almeno de'm. s., (F.).  (I.).
+(N.).  (V.).  Nid. Peraz. But. Benv. Bart. Marc. (51).  Fior.
+moderne, Pad. 1859, Scarabelli con altri quindici testi e co'
+Lanei, e ventisette veduti dagli Accad. e Rosc.; -- ^men tosto~,
+quattro de' m. s., (M.).  Cr. Biag. E. B. Fer. W.; -- ^a le
+nostre~, Fer. ecc.
+
+	|16-18.  Tali vid'io~ ecc.  A Dante accadde al contrario
+di Narciso: questi credette che la propria immagine fosse una
+ninfa sotto l'acqua, mentre Dante vedeva la sostanza e la credeva
+apparenza.  BENV., che narra poi a lungo, la favola di Narciso
+tratta dal III delle ^Metamorfosi.~  -- Quella debole
+appariscenza di quelle anime significa il poco loro merito per la
+instabilit@a in esse influita dalla Luna, alla quale attribuivasi
+un tale carattere dagli antichi.  -- ^...dentro all'error corsi~,
+ecc. incorsi nell'errore contrario a quello di Narciso, con
+l'avere appresi oggetti veri per immagini.  LOMB.  -- Il Poeta fa
+tenui e poco lucenti quelle anime a indizio di merito non
+segnalato.  FRAT.  -- Var.  ^Cotal vid'io~, 20, 52; -- ^Tal vidi
+pi@u f,iate~, il 37; -- ^Tale vid'io pi@u facce~, il 41, Nid.; --
+^Tal vid'io~, Rosc. (V.); -- ^pi@u fatte~, l'8; -- ^dentro a lo
+error~, Fer.; -- ^Di que~', il 38; -- ^tra l'omo~, (F.).  (I.).
+(N.).  (V.).  Benv.; -- ^e 'l fronte~, (F.).  (N.).  err.; --
+^acciese~, (M.); -- ^Cotal vidi pi@u~, l'Aldina.
+
+	|19-24.  Subito~, ecc.  Tosto volsi lo sguardo per vedere
+di cui fossero quelle immagini, appena m'accorsi della loro
+presenza; ma nulla vidi, e li occhi rivolsi dinanzi a me come
+prima, fisandoli in Beatrice, che dolcemente mi guidava, ardendo
+ella d'amore nella sua santa contemplazione.  BENV.  -- ^Di lor~,
+delle dette facce; -- ^specchiati sembianti~, immagini di volti
+in lucido corpo rappresentate; -- ^torsi~, voltai indietro,
+credendo avere alle spalle persone che si specchiassero; --
+^Dritti nel lume~ ecc., indirizzati gli occhi nel lume che
+Beatrice spandeva ardendo negli occhi santi; -- ^sorridendo~, per
+l'errore in cui vide Dante caduto, come ora dir@a.  LOMB.  --
+Var.  ^Di subito com'io~, Fer.; -- ^di cui fusser~, il 43; -- ^li
+occhi~, i pi@u, le prime quattro edizioni, Fer.; -- ^e corsili
+s@i avanti~, l'8; -- ^e non li vidi~, il 30; -- ^e nol' gli
+vidi~, il 24; -- ^Dritta nel lume~, (F.).  (N.); -- ^della
+dolcie~, (M.); -- ^con li occh,i santi~, il 3; -- ^nelli occhi~,
+(F.).  (N.).  Fer.; -- ^E non gli vidi~, l'Aldina.
+
+	|25-27.  Non ti meravigliar~ ecc.  Subito Beatrice
+soggiunse: Non meravigliarti del mio sorridere dopo il tuo
+^pueril coto~, il tuo fanciullesco pensiero, che non ha fidanza
+ancora sopra la verit@a.  BENV.  -- ^Appresso~, ha qui senso di
+^in seguito, per cagione; -- tuo pueril coto~, al tuo
+fanciullesco giudicare.  V. Nota sotto il v. 77 del XXXI
+dell'^Inf.~  -- La Cr. legge ^quoto.~  Il Postill.  del Caet.
+spose ^cogitatu~; l'E. R. lo prese dubitativamente per sincope di
+^computo~, da ^computare~; al Portirelli parve ^coto~ sincope di
+^cogito~; il Lami aveva gi@a dichiarato ^pueril quoto~, giudizio
+da fanciullo.  -- Il Parenti nelle ^Eserc. fil.~ n+o~ 9, pag. 35,
+not@o: Leggasi ^coto~, e questa voce s'intenda presa in senso di
+^pensiero recato in atto fanciullescamente, giudizio da
+fanciullo.~  -- Cos@i leggono ed intendono tutti gli Spositori
+odierni.  -- ^Poi~, per ^poich@e~, qui pure come altrove.  V.
+Nota sotto il v. 1+o~ del X canto del ^Purg.; -- sopra il vero~
+ecc., ancora il tuo giudizio non s'appoggia al vero.  LOMB.  --
+Var.  ^Perch' io rida~, il 3; -- ^pueril coto~, trentadue almeno
+de' m. s., (F.).  (M.).  (N.).  Nid. Bart. Benv., che chiosa:
+^Tuam vacuam cogitationem ad modum pueri.~  Fer. W.; -- ^quoto~,
+il 6, Cr. ecc.; -- ^toto~, il 52; -- ^Ch@e sovra~, parecchi; --
+^sopra~, i pi@u; -- ^il vero ancora il pi@e~, nove, Rosc.; --
+^ancor li pi@e~, 28. 32; -- ^sopra 'l vero~, le pr. quattro
+ediz., Cr. ecc.; -- ^meravigliar~, Bart. Rosc.; -- ^coto~, Bart.
+Rosc. Fosc.: i pi@u, ^quoto; -- Che sopra~, Caet. Par. Foscolo.
+
+	|28-30.  Ma te~ ecc.  Ma ti fa tornare indietro, cio@e al
+mondo, come sei solito.  Ci@o che tu vedi sono persone vere, non
+vane immagini, qui relegate per voto non pienamente adempito.
+BENV.  -- ^Ma te rivolve~ ecc., ma ti fa ghiribizzare invano; --
+^Qui relegate~ ecc., relegate in questo incostante pianeta, in
+segno del mancamento de'voti fatti, ma aventi ad un tempo i loro
+scanni nell'Empireo.  LOMB.  -- A questa relegazione, in sentenza
+del Biagioli, si oppone ci@o che nel canto seg. @e detto ai vv.
+37-39; e per quanto si dichiara nel detto canto dal v. 28 sino al
+48, gli pare che quelle anime appariscano poi momentaneamente al
+Poeta, il che si conferma dallo svanire che fanno poi, come dal
+seguirle via via con l'occhio il Poeta finch@e il lungo tratto
+del mezzo gliele cali del tutto, come leggesi sul fine di questo
+canto.  -- Il Bianchi ed il Fraticelli concordano in siffatto
+intendimento.  -- Var.  ^Ma si rivolve, come s#ole~, il 5; -- ^Ma
+s@e~, 33. 52; -- ^Ma ti rivolvi come s#oli~, cinque; -- ^Ma te
+revolvi~, tre; -- ^come suoli~, quattro; -- ^a vuoto~, il 35; --
+^substanze~, il 12, (F.).  (N.).  (V.); -- ^sustanze~, (M.).
+(I.).  Fer.; -- ^relegate~, undici de' m. s.; -- ^relligate~,
+l'8; -- ^de voto~, il 12, (V.); -- ^di boto~, il 33; -- ^rivolvi
+come suoli~, Bart. Rosc.; -- ^Quivi legate~, Roscoe.
+
+	|31-33.  Per@o parla~ ecc.  -- ^Con esse~, con esse
+anime; -- ^ed odi e credi~, perch@e esse non possono mentire; --
+^ch@e la verace luce~, Iddio, ^che le appaga~, che le rende
+beate, non le lascia mai dalla verit@a dipartirsi.  BENV.  -- ^E
+credi~, quello che da loro udirai.  Nel canto V, 122 e segg.:
+^e... Beatrice: di'di' -- Sicuramente, e credi come a d$ii~;
+citazione del Fraticelli.  ^Lux vera.~ S. Gio. I, 91.  --
+Varianti: ^con esse, odi e credi~, il 12; -- ^con essi~, 18. 20;
+-- ^con esso~, (V.); -- ^ed odi~, (F.).  (I.).  (N.).  Bart. Nid.
+Rosc. W.; -- ^Per@o parla cortese~, (I.); -- ^Ch'egli appaga~, il
+6, (F.).  (N.); -- ^ch'elli~, 14. 29; -- ^che li~, cinque, (I.).
+(V.).  Rosc.; -- ^che gli~, il 22; -- ^Di s@e~, otto, (F.).
+(M.).  (N.).  (V.).  Nid., quattordici citati dagli Acc. e
+parecchi del Varchi; -- ^Non lascia lor da s@e~, il 21; -- ^Da
+s@e non sazia~, il 34; -- ^torcere li piedi~, (I.); -- ^non
+lassa~, Roscoe.
+
+	|34-36.  Ed io~ ecc.  Ed io, rivolto all'ombra che
+mostravasi pi@u desiderosa di favellare per essere mia conoscente
+e mia concittadina, incominciai come colui, che per troppo voler
+dire si confonde.  BENV.  -- ^Smaga~, smarrisce, confonde,
+dissesta.  V. nota al v. 146 del XXV dell'^Inf.~  Deve ci@o
+intendersi detto coerentemente a quanto della ^fretta~ disse nel
+X del ^Purg.~ v. 11: ^Che l'onestade ad ogni atto dismaga.~
+LOMB.  -- ^Smaga~, toglie l'animo o l'ardimento, fa venir meno.
+FRATICELLI.  -- Var.  ^Ond'io all'ombra~, quattro; -- ^E io~,
+(M.).  Fer.; -- ^Volsimi e cominciai~, il 3; -- ^drizzaimi~,
+alcuni, Fer.; -- ^di parlarmi~, il 18 e il 43 in margine; --
+^drizza'mi~, le prime quattro edizioni, W.; -- ^che troppa
+voglia~, sei; -- ^vollia spaga~, il 22; -- ^ismaga~, il 37. W.;
+-- ^smaga~, i pi@u, le prime quattro edizioni, Cr. ecc.; --
+^drizzammi~, Nid.
+
+	|37-39.  O ben creato~ ecc.  O anima bennata, che ai
+raggi della divina grazia senti quell'eterna dolcezza, della
+quale niuno pu@o farsene un concetto se non gustandola.  Non pu@o
+giudicare della dolcezza del mele chi mai non ne gust@o; di qui
+@e che le volutt@a sensuali pi@u ci attirano che il diletto della
+virt@u.  San Paolo, che le aveva gustate, diceva poi a ragione:
+^Bramo disfarmi per essere con Ges@u Cristo.~  BENV.  -- Il
+Tommaseo cit@o volgarizzato il v.  9, ^Salm.~ 33: ^Gustate et
+videte quoniam suavis est Dominus~; e Mons.  Cavedoni vi
+aggiunse: ^Si tamen gustastis, quoniam dulcis est Dominus~ (I.
+^Petr.~ II, 3).  -- ^Ben creato~, per ^beato~, eletto da Dio
+all'eterna gloria.  VOLPI.  -- Potrebbe anche spiegarsi, dice il
+Lombardi, per ^gentile, garbato~, sposizione rejetta dal
+Biagioli; ed anche il Portirelli e gli E. Bolognesi non ammisero
+che la sposizione del Volpi, e tanto dicasi del Bianchi e del
+Fraticelli.  -- ^Rai di vita eterna~, appella il lume del divino
+beatifico aspetto, appellato dai teologi ^lume della gloria.~
+LOMB.  -- ^Che non gustata~, Salmo XXXIII, 9: ^Gustate e vedete
+che soave @e il Signore.~  FRATICELLI.  -- Var.  ^O bene nato~,
+8. 43; -- ^ai rai~, il 12.  (M.).  (I.); -- ^O buon creato~, il
+21; -- ^spirto ch'alli rai~, il 32; -- ^Che chi non gusta non
+sentir dee mai~, il 7; -- ^non si sente mai.~ tre: -- ^non si
+estende mai~, il 36; -- ^non si intende~, alcuni, (M.).
+
+	|40-42.  Graz,ioso~ ecc.  Avr@o per grazia, per favore,
+se mi dirai tuo nome e del vostro destino in questo luogo,
+ond'ella tosto e con volto sorridente mi rispose, ecc.  BENV.  --
+^Grazioso~, per ^grato, gradevole; -- con occhi ridenti~,
+metaforicamente per ^con piacevole sguardo.~  LOMB.  -- ^E della
+vostra sorte~, e della condizione di voi tutti.  BIANCHI.  -- ^Se
+mi contenti~, dicendomi chi sei, e perch@e stai qui.  FRATICELLI.
+-- Var.  ^Glor,ioso mi fia~, il 15; -- ^Grac,ioso~, (N.); -- ^mi
+fia farvi contenti~, (I.); -- ^e della tua sorte~, l'8; -- ^e
+della nostra~, (N.); -- ^Del tuo nome~, il 52; -- ^e pronta e con
+occhi~, l'8; -- ^e con gli occhi~, quattro, (I.); -- ^prompta~,
+il 24, (I.); -- ^Ed ella~, 32. 40; -- ^e con li occhi~, parecchi;
+-- ^Und'ella prompta et cum ochi~, Benv.; -- ^Se me contenti~,
+Roscoe.
+
+	|43-45.  La nostra~ ecc.  Il nostro santo affetto non
+chiude li orecchi a giusta domanda, se non come quella carit@a
+divina, che vuole tutta la corte celeste ugualmente infiammata di
+carit@a.  BENV.  -- ^Se non come quella~, non altrimenti fatta se
+non come quella, cio@e la divina carit@a; -- ^tutta sua corte~,
+tutto suo corteggio, tutta sua famiglia; -- ^non serra porte~,
+non contrasta.  LOMB.  -- Non altrimenti che si faccia la carit@a
+di Dio, che non si ricusando ad alcuno, vuole simile a s@e tutta
+la sua corte.  BIANCHI.  -- ^Se non come quella.~  Boezio: <N@e
+indarno sono poste in Dio le speranze e le preci, le quali, se
+rette, non possono essere inefficaci>.  Citazione del Fraticelli.
+-- Var.  ^Non chiude porte~, il 42; -- ^A justo prego~, il 6; --
+^A giusto prego~, Pad. 1859, But.; -- ^A justa voglia~, il 14; --
+^come a quella~, (I.).
+
+	|46-48.  Io fui~ ecc.  Nel vostro mondo io fui monaca
+vergine, e sebbene beata e pi@u bella, tu dovresti riconoscermi,
+se bene ti serve la memorativa.  La virginit@a fu sempre in
+pregio anche prima dei tempi cristiani, testimonio le Vestali
+romane.  -- ^Pi@u bella~, Seneca impugna che la virt@u sia
+maggiore in bella persona, ma si debba dire pi@u graziosa.  BENV.
+-- ^Virgine sorella~, monaca di S. Chiara; -- ^sorella~ per
+^suora~, titolo delle sacre vergini velate.  VENTURI.  -- ^Ben si
+riguarda~, il riguardare altrui, dice il Lombardi, non @e
+operazione della mente, ma degli occhi, ma @e ben opera della
+^mente~, cio@e della memoria, il ^riguardare se medesima~, il
+ricercare cio@e dentro le specie degli oggetti altra volta
+veduti.  -- Il Biagioli propugna la vulgata ^ben mi riguarda~,
+opponendo al Lombardi che si pu@o avere gli occhi fissi in un
+oggetto, e non vederlo affatto, se la mente @e altrove.  Non
+capacita.  L'Anonimo legge come il Lombardi, e spiega: ^Se tu ti
+rechi bene la mente al petto~; siccome notasi nella E. F.  Il
+Bianchi ed il Fraticelli stanno con la vulgata, e spiegano: ^Se
+mi riguardi con attenzione~, aggiugnendo il secondo: -- Qui
+^mente~ vale pi@u che ^memoria~; @e la mente che riguarda, anzi
+la memoria del cuore.  -- Lo Scarabelli legge ^s@e riguarda~, col
+Cass., e dice che il Com. parla chiaro di ^ricordarsi~; perch@e
+ci@o possa la mente, deve guardare se stessa.  -- Benvenuto legge
+^si riguarda~, e chiosa: idest, ^si bene revoces ad memoriam.~
+@E lezione pi@u ricevuta nei mss. e la seguito.  -- Var.  ^Io fui
+al mondo~, tre; -- ^del mondo~, il 22; -- ^I' fui~, il 24; --
+^virgine~, (I.); -- ^ben si riguarda~, venti almeno de' m. s.,
+dieci degli Accad., alcuni del Varchi, Nid. (V.).  Benv. Bart.
+Anon. Stuard; -- ^se riguarda~, dodici, (F.).  (M.).  (N.)  (V.).
+Cass.; -- Scar. con altri: ^s@e riguarda; -- bene in s@e guarda~,
+il 33; -- ^ben mi riguarda~, parecchi mss. veduti dallo Scarab.
+Cr. Fer., Pad. 1859, W. Fior. moderne, ed uno de' m. s.; -- ^mi
+cieler@a~, (M.); -- ^ben si riguarda~, Bart.  Nid.
+
+	|49-51.  Ma riconoscerai~ ecc.  ^Picarda~, quella che
+conoscesti in prima vita, sorella di quel Forese, che rivedesti
+nel Purgatorio, che posta in questa spera pi@u lenta, per essere
+la pi@u vicina alla Terra, beata vi sono con questi altri beati.
+BENV.  -- Di questa Piccarda, sorella di Forese, monaca e tratta
+per forza di monastero dall'altro suo fratello Corso Donati, per
+maritarla, si @e gi@a detto nel c. XXIV del Purgatorio.  Qui
+avverte di nuovo il Lombardi essere caduti in grand'errore que'
+Comentatori che dicono questa Piccarda sorella di Accursio, il
+giuriconsulto.  L'Anonimo in brevit@a di parole dice: <Questa
+(^Picarda~) entr@o nell'Ordine de' Minori, e funne tratta per
+Mess. Corso per forza; ond'elli ne ricevette danno, vergogna ed
+onta a satisfare alla ingiunta penitenza; ch@e s@i eccellente,
+quasi barone, stette in camicia>.  -- Pietro di Dante ed il
+Boccaccio s'accordano nel dire che questa Piccarda fu figliuola
+di Mess. Simone dei Donati, e che fu tratta per forza dal
+monastero di S. Chiara.  E. F.  -- ^Spera pi@u tarda~, la Luna,
+per percorrere in ventiquattr'ore, secondo il sistema di
+Tolommeo, un'orbita minore di quelle degli altri pianeti.  LOMB.
+-- Varianti.  ^Riconoscer@a~, il 3, copia d'un sincrono; -- ^s' i
+'son Picarda~, alcuni; -- ^ch' i' son~, il 43; --
+^ricognoscierai~, (M.); -- ^Che @e posta qui~, il 37, -- ^in la
+spera~, pi@u di trenta de' m. s., (F.).  (I.).  (N.).  (V.).
+Bart. Rosc. Benv. W. e Scarab., ed io la credo originale e la
+restituisco al testo; -- ^Beati semo~, il 29; -- ^sono~, il 36;
+-- ^schiera~, il 43 (che ha in m. ^spera~); -- ^nella spera~,
+(M.).  Cr. e seguaci; -- ^sono a la spera~, Ferranti.
+
+	|52-54.  Li nostri~ ecc.  I nostri affetti sono informati
+dall'ordinamento, dalla disposizione di Dio, che ponendone in
+questo luogo in ragione de'nostri meriti, ne fa godere la
+beatitudine.  BENV.  -- ^Affetti~, per ^desiderj~; i quali
+unicamente aspirano ad uniformarsi al divino volere; --
+^Letizian~, godono, si rallegrano.  Cos@i nel IX, v. 70 di questa
+Cantica: ^Per letiziar lass@u fulgor s'acquista; -- formati del
+suo ordine~, detto traslativamente dagli Ordini religiosi, e vale
+^introdotti e stabiliti nella societ@a di lui.~  LOMB.  -- La E.
+B. col Poggiali interpreta: Godono, si rallegrano (i nostri
+affetti) per essere noi poste a godere Dio in quell'ordine che a
+lui @e piaciuto.  Nella E. F. si diede la seguente sposizione del
+Lami: <Li nostri affetti hanno forma dalla disposizione dello
+Spirito Santo, ossia hanno forma dai decreti suoi, ossia si
+uniformano a' suoi voleri>.  -- ^Che solo infiammati~ ecc.,
+cio@e, che solamente amando e bramando quello ch'@e in piacere
+dello Spirito Santo ecc.  -- ^Letizian~ ecc., dimostrano gioja e
+letizia in quella forma che l'eterno piacere, o amore, prescrisse
+loro.  FRATICELLI.  -- E letteralmente: ^gioiscono i nostri
+affetti, sono contenti, in quella disposizione, in quella forma,
+che @e secondo l'ordine di lui.~  La celeste gloria dell'anime,
+come dir@a pi@u sotto, @e maggiore o minore, secondo l'amore; ma
+qualsiasi il grado di quella dal Santo Spirito ordinata, fa
+pienamente contenta l'anima.  BIANCHI.  -- Var.  ^Che sono
+infiammati~, il 6; -- ^E' nostri affetti~, il 37; -- ^Li nostri
+effetti~, (F.); -- ^effecti~, (N.); -- ^affecti~, (I.); --
+^Letizian nui del suo ordin~, il 3; -- ^ordein informati~, il 4,
+W.; -- ^Letizia han del~, otto, (V.); -- ^suo ordine~, i pi@u,
+(M.).  (I.).  (V.); -- ^del su' ordine~, il 33, (F.).  (N.).
+Nid. Cr.; -- ^Letizia hanno del suo ordin~, il 37; -- ^nel su'
+ordine~, il 43; -- ^Son del piacer~, Ald.; -- ^dal suo~, Nid.
+
+	|55-57.  E questa~ ecc.  E questa destinazione che pare
+tanta, ci viene fissata, perch@e i nostri voti furono in parte
+difettivi.  BENV.  -- Cos@i dichiara per leggere ^gi@a cotanto~,
+a vece di ^gi@u cotanto~; ma poi conclude la sua chiosa col dire.
+-- Insomma il Poeta vuol significare che Piccarda @e posta nella
+pi@u bassa parte della Luna, per non avere interamente servato il
+voto di verginit@a.  -- ^Par gi@u~, pare bassa; -- ^v#oti in
+alcun canto~, cio@e, ^inosservati in alcuna parte.~  -- Spiacque
+al Venturi questo giuoco di parole ^voto v#oto~; il Daniello
+invece la dice ^agnominazione bellissima~, al pari dell'altra:
+^Ch' i' fui per ritornar pi@u volte volto~; e il Lombardi la dice
+bella e tale quale dai rettorici si desidera, ^innata, non
+accersita~ (^Quint.~ lib. 9).  Rispetto queste autorit@a, ma, per
+quanto a me sempre parve, questi giuochi di parole reffreddano il
+sentimento nelle gravi scritture.  -- Var.  ^E questa spera~,
+quattro; -- ^sorte~, i pi@u, e le prime sei edizioni; -- ^e
+perch@e fur~, l'8; -- ^fuor negletti~, il 24, (M.); -- ^fu
+negletta~, (F.).  (N.).  err.; -- ^Li nostri voti en voti~, l'8;
+-- ^tutti in alcun canto~, il 2; -- ^voti e vuoti~, il 26 e
+Ferranti.
+
+	|58-60.  Ond'io a lei~: ecc.  Ond'io dissi a Piccarda:
+Alcun che di divino vi cambia dalla prima vostra forma, e si
+palesa ne'meravigliosi vostri sembianti.  BENV.  -- ^Da' primi
+concetti~, dalle primiere immagini vostre nell'altrui fantasie
+concepute.  LOMB.  -- Da quelle prime immagini che concep@i
+l'animo di chi guard@o voi nel tempo ch'eravate tra i mortali.
+BIANCHI.  -- Var.  ^Ed io a lei~, 18. 32; -- ^per mirabili
+aspetti~, il 42; -- ^rispiende~, tre; -- ^respiende~, l'8; --
+^resplende~, (I.); -- ^Che mi~, 3. 31; -- ^transmuta~, tre; --
+^vi tramuta~, 5. 41; -- ^ne tramuta~, il 7, Rosc.; -- ^de'
+primi~, il 12; -- ^dai primi~, W.; -- ^dei primi~, (I.); -- ^da'
+primi~, (F.).  (M.).  (N.).  Cr.; -- ^S@i che il raffigurar~,
+Nid. Fosc. Fer.
+
+	|61-63.  Per@o non fui~ ecc.  Per ci@o non fui presto a
+raffigurarti; ma ci@o che m'hai detto mi ajuta a riconoscerti, e
+mi rende pi@u facile il raffigurarti.  BENV.  -- ^Latino~, pi@u
+facile, pi@u agevole, vocabolo lombardo, che quando vogliono
+dimostrare una cosa essere agevole e facile da maneggiare, dicono
+^@e ladina~, mutata la ^t~ in ^d.~  DANIELLO.  -- Il Lomb. non
+accetta questa etimolog$ia, e dicendo i Latini ^latine loqui~,
+per ^parlare chiaramente.~  V. ^De modis latine loquendi~ del
+card. Adriano; ed avendo Dante stesso detto nel suo ^Convito: A
+pi@u latinamente vedere la sentenza~ (^Tratt.~ II, cap. 3),
+dobbiamo pensare che anche dai Latini prendesse ^latino~ per
+^chiaro.~  -- Il Volpi spiega: ^latino~ per facile, chiaro,
+agevole; ^forse contrario di barbaro, strano.~  Noi Lombardi in
+questo significato diciamo ^ladin.~ -- Accetta in tal modo il
+pensamento del Daniello, che non capacita.  Gio. Villani,
+parlando di Papa Giovanni XXII, dice: ^assai era latino~ (facile)
+^di dare audienza, e essai tosto spediva~ (Lib. XI, cap.  20).
+Bonagiunta nelle ^Rime~ disse: ^...parlerei pi@u latino~ (cio@e,
+^pi@u chiaro~).  Ne' secoli XIII e XIV, ^latino~ valeva
+^italiano.~ Ci@o che oggi diciamo ^latino~, chiamavasi allora
+^Grammatica~, onde ^scrivere~ o ^parlare per grammatica~, valera
+^scrivere~ o ^parlare latino.~  Nota della E. F.  -- Var.  ^Ma or
+m'ajuta a ci@o~, il 34; -- ^m'ajuti ci@o~, (V.); -- ^che tu men
+dici~, il 21; -- ^mi pu@o latino; -- S@i che trafigurar~, il 5;
+-- ^trasfigurar~, il 6; -- ^latino~, idest, ^facilius figurare,
+sc. te.~  Benv.; -- ^pi@u m' @e~, il 18; -- ^S@i che 'l
+raffigurar~, sette, (M.).  Pad. 1859.
+
+	|64-66.  Ma dimmi~: ecc.  Ma dimmi: Voi che siete beate
+in questa bassa sfera della Luna, desiderate voi pi@u alta sede,
+per vedere pi@u di presso Iddio, e per farvi pi@u famigliari di
+lui?  BENV.  -- ^Per pi@u vedere~ ecc., per pi@u conoscere Iddio
+e pi@u essergli in grazia.  DANIELLO.  -- ^Per pi@u farvi amici~,
+riferendo questo aggiunto al sottinteso sust. ^spiriti~, che
+abbraccia in s@e anche le femmine; e tanto dicasi di ^beati~ al
+v. 50.  POGGIALI.  -- Var.  ^Che siete qua felici~, il 17; --
+^che sete qui~, (I.); -- ^Desiderate~, i pi@u, Fer. W. Benv.; --
+^Disiderate~, Cr. ecc., voce che straniasi dalla sua origine, e
+che sa di lezioso, al pari de' suoi derivati; -- ^e per pi@u
+farvi~, diciotto; -- ^Per pi@u vedervi~, il 35; -- ^o per pi@u
+farvi~, le prime quattro edizioni, Rosc. e i pi@u.
+
+	|67-69.  Con quell' altr~' ecc.  Piccarda sorrise un poco
+con l'altre ombre compagne, poi mi rispose lieta e senza la
+menoma dimostrazione d'invidia, e come fosse in grembo a Dio in
+ardente carit@a.  BENV., il quale poi dice che S. Agostino
+chiam@o ^primo fuoco~ Iddio; -- ^tanto lieta~, per la gran
+carit@a ch'era in lei di rimovere la ignoranza di Dante.
+LANDINO.  -- ^Primo foco~, deve intendere Iddio, come quello da
+cui ha origine ogni altro fuoco, ogni altro lume, o per ^diritto
+raggio~ o per ^rinverberato.~  V. canto prec. v. 70; -- ^tanto
+lieta~, d'aprirmi la verit@a, d'illuminarmi.  -- ^Ch'arder parea
+d'amor~ ecc., che parvemi donna accesa nel primo fuoco d'amore,
+che @e anche il pi@u altamente sentito.  BIANCHI.  -- Che pareva
+accesa delle prime fiamme di amore.  FRATICELLI.  -- Entrambi
+escludono cos@i il senso mistico, e ci@o non mi acheta.  Qui
+Dante s'intende a dimostrare la carit@a divina che ivi infiammava
+quell'anime; e poi (se l'osservazione non @e troppo sottile) il
+primo amore di Piccarda fu tutto spirituale, datasi a sposa di G.
+C.  -- Var.  ^Da indi si dispose~, il 7; -- ^tutta lieta~, 25.
+31; -- ^Dante, mi rispose in voce lieta~, il 37; -- ^Da inde mi
+rispuose~, (F.).  (M.).  (N.); -- ^Ch'arder parea tutta~, il 21;
+-- ^Cader parea~, il 53; -- ^Da inde~, Roscoe.
+
+	|70-72.  Frate~, ecc.  Fratello, soggiunse Piccarda, la
+carit@a fa qui tacere ogni altro desiderio, che ci fa volere
+soltanto quello che abbiamo, e di niuna altra cosa c'invoglia
+ecc.  BENVENUTO.  -- ^Qu,ieta~, acquieta; -- ^non ci asseta~, non
+ci fa sitibonde, desiderose.  LOMB.  -- Var.  ^Volont@a fa
+quieta~, il 24; -- ^volunt@a @e quieta~, 32; -- ^volunt@a~, 32.
+41.  (N.); -- ^volutt@a qu,ieta~, il 35; -- ^ch' El fa volerne~,
+(M.); -- ^che aviam et altro~, il 3; -- ^n@e altro non ci~, il 4;
+-- ^ed altro non ci~, 18. 40; -- ^non ci ansi@eta~, il 37.
+
+	|73-75.  Se dis,iassimo~ ecc.  Se desiderassimo di avere
+pi@u alto grado, i nostri desiderj sarebbero discordi dal volere
+di Dio, che qui ne ha poste.  BENV.  -- ^Cerne~, separa, LOMB.
+-- ^Che qui ne cerne~, che questo luogo ci decreta.  BIANCHI.  --
+Che ci separa dalle altre collocandoci qui.  FRATICELLI.  -- Var.
+^Se disiassim d'esser~, 3. 34; -- ^Se disi$amo esser~, 21. 24; --
+^des,iassemo~, (M.).  (I.); -- ^Sarian discordi~, il 3; --
+^Serian~, l'8; -- ^Foran discordia~, il 21; -- ^Foran distorti~,
+il 34; -- ^li nostri~, parecchi, le prime quattro edizioni, Benv.
+Fer. W. ecc.; -- ^Del voler~, il 3; -- ^ne scerne~, il 21; -- ^ne
+cierne~, il 33.
+
+	|76-78.  Ch@e vedrai~ ecc.  La quale discordanza vedrai
+non esistere in questi corpi celesti (^se~, per ^perch@e~),
+perch@e @e necessario che qui gli spiriti sian tutta carit@a; e
+se bene mediti su la natura della carit@a.  BENV.  -- ^Che~, lo
+che, il qual discordamento dal volere di Dio, se qui @e
+necessario essere in carit@a, e la natura della carit@a bene
+riguardi (^che @e l'uniformit@a perfetta di tutti i voleri col
+primo~, in sentenza del Biagioli), vedrai non potere aver luogo
+quass@u.  Di questo innestamento di voci latine, vedi la Nota del
+Volpi. ^Inf.~ I, 65.  LOMB.  -- ^@E qui necesse~, @e di
+necessit@a l'essere congiunte in carit@a con Dio, e se consideri
+la natura di questa carit@a.  BIANCHI.  -- ^Necesse~, ora parola
+communissima nelle scuole, di senso logico e libero, diverso dal
+materiale de' Pagani.  FRATICELLI.  -- Var.  ^Noi capere~, 9. 12.
+(F.).  (N.).  (V.); -- ^Che vederai~, (M.); -- ^in carit@a~,
+venticinque de' m. s., (F.).  (N.).  (V.).  Nid. Benv. W. ed
+altri due de' m. s., ed @e forse la vera; -- ^qui @e~, Nid.; --
+^E se la tua natura~, il 37; -- ^Se esser in carit@a c'@e qui
+necesse~, Roscoe.
+
+	|79-81.  Anzi @e formale~ ecc.  E se bene consideri
+intorno alla carit@a, troverai essere essenziale alla essenza o
+condizione della beatitudine concordare pienamente con la
+volont@a divina; e da tale necessit@a costituente la beatitudine,
+conseguita che tutte le voglie di noi beati informate nelle
+volont@a di Dio, come in centro comune, divengono una sola
+voglia.  Boezio dice che tutti i beati in Paradiso sono stretti
+dalla sola carit@a in modo, che il minimo e il massimo goda della
+sua beatitudine nel rispettivo grado, come se godesse anche
+dell'altrui.  Qual meraviglia se Iddio sia in tutti, ed essi
+tutti in Dio?  Tutti hanno in premio il vedere Iddio; e quanto
+ora si suppone, allora con pienezza di scienza si comprende.
+BENV.  -- ^Formale~, termine delle scuole, per ^essenziale; --
+esse~, per ^essere~, dal lat. per ^vivere; -- Per ch~', pel quale
+tenersi dentro alla divina voglia, o semplicemente ^per la qual
+cosa~, come spiega il TORELLI.  -- ^Una fansi~ ecc., giusta
+quell'assioma: ^quae sunt eadem uni tertio, sunt eadem inter se.~
+LOMB.  -- ^Esse~ @e infinito antico, tolto tal quale dal lat., e
+vale ^stato, condizione.~  BIANCHI.  -- ^Tenersi dentro~ ecc.
+Non @e contento senza continenza.  E uomo, che non cape in s@e, o
+dalla gioja o da altra passione, @e gi@a sul pend$io d'essere non
+contento.  FRATICELLI.  -- Var.  ^A questo beato~, otto, (M.).
+Fer.; -- ^ad esto~, ventidue almeno de' m. s., (F.).  (I.).
+(N.), tre Cors. venti veduti dagli Accad., alcuni del Varchi,
+Bart. Cass. Benv. But. Rosc. Lomb. e tutti i moderni, e vuolsi al
+testo restituire; -- ^ad esso~, Cr. e seguaci; -- ^a tanto
+beato~, il 21; -- ^Anzi @e formato et esso~, il 34; -- ^Anzi
+formato a questo~, il 37; -- ^Ad sto beato~, Nid., forse per
+errore di stampa; -- ^Anci @e~, (M.); -- ^divina voja~, l'8; --
+^alla beata~, il 14; -- ^a la divina~, parecchi, (I.).  Fer.; --
+^Perch' una farsi~, il 7; -- ^Perch@e una fan le nostre~, il 26,
+(V.); -- ^fanse~, (N.); -- ^Anzi @e~, i pi@u, Scarabelli.
+
+	|82-84.  S@i che, come~ ecc.  Sicch@e il nostro
+collocamento di grado in grado per questo celeste regno piace a
+tutti li beati, come a Dio che accende in noi il suo volere.
+BENV.  -- ^Di soglia in soglia~, di cielo in cielo; -- ^in suo
+voler ne invoglia~, fatti da lui vogliosi del suo volere.  LOMB.
+-- E il Torelli: ^Che ci fa volere ci@o ch' egli vuole.~  -- Var.
+^Ch@e como noi siam~, il 3; -- ^di soja in soja~, l'8; --
+^Siccome noi sem qui~, tre; -- ^noi siam qui~, 17.  Fer.; --
+^Ch@e, siccome noi sem~, 25. 31, -- ^Siccome qui noi~, il 40; --
+^E siccome noi~, (F.).  (N.).  (V.); -- ^a tutto regno piace~, il
+21, Rosc.; -- ^a tutti il regno~, alcuni, (F.).  (N.); -- ^il
+regno~, (M.).  (I.).  Fer. W.; -- ^Come al re~, tre, (F.).  (M.).
+(V.); -- ^che suo voler~, cinque, (M.).  (V.).  Fer.; -- ^ne
+voglia~, 3. 21. 33; -- ^Come a quel re~, sei, e tre citati dagli
+Accad.; -- ^in suo voler~, vent'uno almeno de' m. s., (F.).
+(I.).  (N.).  Nid. Bart. Stuard.; -- ^a suo voler~, Cr. e
+seguaci.  La prima forma, dice il Biagioli, ha pi@u forza, ma la
+seconda @e pi@u leggiadra.  Stanno colla prima il Bart., il cod.
+Vill. Fil., le ultime Fiorentine, le Pad. 1822 e 1859; e con la
+seconda, Benv.  W. Scarab., -- ^Come allo re~, Bart.; -- ^Come a
+re~, Rosc.; -- ^ne invoglia~, quindici, (M.); -- ^n' envoglia~,
+il 55; -- ^ch' el suo voler~, ne invoja~, l'8; -- ^Come al re~,
+9. 10; -- ^a@i suo voler~, 11. 42; -- ^Siccome al re~, 38.  (I.);
+-- ^ven voglia~, il 35; -- ^ne' nvoglia~, (F.).  (M.).  (N.); --
+^Come allo re~, Bart.
+
+	|85-87.  In la sua~ ecc.  Nella sua volont@a @e nostra
+pace, e per suo vole e e per nostro contento.  Quanto l'amore @e
+pi@u diffuso, tanto @e pi@u perfetto, in quanto si riferisce al
+solo Iddio.  ^Ella~, la divina volont@a, @e quel mare al quale
+tutto si move, si volge, quanto crea, e che natura produce.
+BENV.  -- ^Ella @e quel mare~, ecc.  Paragona tacitamente
+l'achetarsi di tutte le creature (prodotte da Dio e dalla Natura
+sua ministra), nella divina ordinazione, al muoversi di tutti i
+fiumi ad aver ^pace~, quiete, nel mare.  -- Gli Accademici
+preferirono la lettera ^e che natura~, la quale non fa
+chiaramente intendere, come dice il Lomb., la differenza che
+passa tra l'opere fatte immediatamente da Dio, e le prodotte
+dalla natura.  -- E sta bene; e tutti i moderni hanno accetta a
+la disgiuntiva ^o~ a vece della congiuntiva ^e.~  -- Var.  ^In la
+sua~, dieci, Nid. Viv.  Cass. Cort. (M.).  Fior. moderne, e
+Scarab. che dice: <La comune ha: ^E la sua volontade~; ma come a
+tal forma parerebbe pace passiva, o voluta, miglior consiglio @e
+ritenere il piacere di uniformarsi alla volont@a altrui, e
+l'accetta e l'^In~, ecc.>  -- ^E in la sua~, Fer.; -- ^En la
+sua~, un Marc. e il m. s. 18; -- ^Nella sua~, il 34; -- ^E la
+sua~, il 37, (V.); -- ^In sua~, il 21; -- ^volont@a~, nove, le
+prime quattro edizioni, Fer. Cass. Cort., tre dei testi del W.
+l'Aldina e Benv.; -- ^volunt@a~, tre; l'una o l'altra di queste
+forse originale, sendo ch@e le vocali accentate non elidano la
+vocale seguente, e ci@o con pieno consenso dell'orecchio; --
+^Ello @e quel mar~, 3.  53; -- ^al qual~, il 40; -- ^Egli @e~,
+quattro; -- ^Elli~, il 43; -- ^mar dal qual~, tre; -- ^da qual~,
+il 33; -- ^da cui~, il 38; -- ^move~, i pi@u, Fer.; -- ^Ci@o
+ch'ella crea~, sei, Fer. W. Scar.; -- ^che la cr$ia~, tre, (I.).;
+-- ^o che natura~, diciotto, e le prime quattro edizioni, Scar.
+Bart. Nid. Ald. ecc.; -- ^Ci@o che lui cr$ia~, il 37; --
+^volontade~, Nid. ecc.
+
+	|88-90.  Chiaro mi fu~ ecc.  Da queste parole di Piccarda
+appresi come ogni luogo ne' cieli @e paradiso, giacch@e tutto @e
+in Dio, e Dio in tutto, quantunque la sua grazia non sia per
+tutti di uguale misura.  BENV.  -- ^Ogni dove~, ogni qualsivoglia
+luogo, alto o basso che sia; -- ^etsi la grazia~, leggono tutte
+le edizioni antiche, trattane la Nid. e le altre posteriori sino
+al testo del Lomb., che restitu@i la vera lezione ^e s@i~ della
+Nid. ch'egli trov@o confortata dal pi@u antico Corsiniano;
+osservato il niun bisogno d'interpolare qui una voce latina.
+Anche al Biagioli parve pi@u leggiadra, pi@u nostra la forma ^e
+s@i~, e usata pure nel parlare familiare; ma pens@o che Dante
+originalmente scrivesse ^et s@i~, formola dotata di doppia virt@u
+affermativa ed avversativa.  -- La Nid. legge ^et s@i~, i
+copiatori congiunsero le due particelle, ed altri prendendo
+l'^etsi~ per voce latina, la serissero in corsivo.  -- Tutti i
+moderni hanno accettata la lettera ^e s@i~, che vale ^e pure~,
+rifiutato l'^etsi~ latino, ^non bello qui~, in sentenza del
+Bianchi.  Il Fraticelli not@o qui gli esempi seguenti; Bart. da
+S. Concor. ^Dist.~ 16, ^Rubr.~ IV+a~ 3: <Quanti son quegli che
+non son degni della luce, ^e s@i~ (eppure) nasce loro il d@i>.  E
+Cino da Pistoja, ^Rime~, 58: <^E s@i~ che quella sconsolata povra
+-- Sen va sdegnosa>.  -- ^E s@i la grazia~ ecc., e pure del
+godimento di Dio, sommo bene, non sono egualmente partecipi tutti
+i cerchj celesti.  BIANCHI.  -- Var.  ^Chiaro mi fue~, il 33; --
+^@e un Paradiso~, il 3; -- ^e s@i la grazia~, venti almeno de' m.
+s., Bart. Flor. Rosc. Fer. W. e tutti i moderni; -- ^et si la~,
+otto, (F.).  (I.).  (N.); -- ^esse la grazia~, il 7; -- ^o
+Paradiso~, l'8; -- ^et Paradiso~, (I.); -- ^e che la grazia~,
+l'11; -- ^ess@i la grazia~, il 36, (M.); -- ^non vi plove~, il
+10; -- ^bene d'un modo vi plove~, il 41; -- ^non ve~, (I.).  --
+Il Tassoni in margine dell'Aldina not@o: ^etsi~, bench@e, poteva
+dirlo in volgare.  -- Forse in antico, dice il Parenti, fu detto
+ancora ^E se~, come legge l'ant. Estense; e il Muzzi ne appost@o
+un esempio nella ^Citt@a di Dio.  -- E s@i~, per ^Eppure~ ricorre
+nel Cavalca riferito dal lodato filologo modenese (^Ann. Diz.~).
+-- ^D'un summo~, Roscoe.
+
+	|91-93.  Ma s@i com~' ecc.  Ma come suol accadere se un
+cibo sazia e di un altro rimane desiderio, di questo si domanda,
+e di quello si ringrazia.  BENV.  -- ^La gola~, vale la brama; --
+^Che~, per laonde, ^quel~, a cui rimane gola, ^si chiede~ (^si
+chiere~ la Cr.); ^e di quel si ringrazia~, e di quell'altro, che
+ha gi@a di s@e reso sazio, si ringrazia chi l'offre.  LOMB.  --
+Il Poeta, dice il Biagioli, accenna l'uno e l'altro (cibo) con
+l'addiettivo ^quello~, non perch@e s'affranchi dal freno
+dell'arte, ma per essere la mente sua, nell'atto che scrive,
+affissa a questi oggetti veduti, dal presente luogo e tempo
+lontani ad un modo.  -- Poco mi capacita questa sua osservazione,
+e desiderai sempre (ma indarno) un ms. che leggesse ^D'esto si
+chiede~ (o ^chiere~), ^e di quel si ringrazia~, che renderebbe
+chiaro e regolare il costrutto.  -- Varianti.  ^Ch'un cibo~, tre,
+(M.).  (I.).  Nid.; -- ^se un cibo~, parecchi, (F.).  (N.).  W.;
+-- ^Ma siccome~, il 31 e le prime quattro edd.; -- ^addivien~, il
+31; -- ^E siccom'elli~, 34. 43.  (F.).  (M.).  (N.).  Fer.; --
+^Siccome avviene poi~, il 40; -- ^suo cibo~, il 37; -- ^sacia~,
+il 41; -- ^satia~, (F.).  (I.).  (N.); -- ^Che quel si chiede~,
+dodici, le prime cinque edizioni, Fer. Pad. 1859, Fosc. e
+diecisette degli Accad., W.; -- ^E quel si chiede~, il 34; -- ^se
+chere~, 10. 41; -- ^si chere~, cinque, Rosc.; -- ^e da quel~, il
+37; -- ^ringracia~, il 41; -- ^ringratia~, (F.).  (I.).  (N.); --
+^Ed un altro dimanda~, Roscoe.
+
+	|94-96.  Cos@i fec'io~ ecc.  Tanto io feci con gesto e
+con parole, per sapere da Piccarda il rimanente della sua storia,
+la cagione che la strinse a rompere il suo voto.  -- ^Qual fu la
+tela~ ecc., metaforicamente per ^quale fu il voto ch'ella non
+comp@i; -- co~, per ^capo, termine~, voce lombarda, adoperata dal
+Poeta anche altrove; ^Inf.~ XX 76, XXI 74; ^Purg.~ III 128; --
+^trarre la spola insino al co~, vuol dire ^terminare di tessere
+la tela.~  LOMB.  -- Fuor di figura vuol dire: ^Perch@e
+abbandon@o prima di morire la incominciata vita claustrale.~  La
+^spola~, tessendo, si tira attraverso l'ordito.  BIANCHI.  --
+Var.  ^Con acto~, (I.).  (V.); -- ^ceatto e com parole~, (F.).
+(N.); -- ^Per apprender di lei~, parecchi, (F.).  (N.).  (V.); --
+^tutto alfin la spola~, il 3; -- ^infino a co~, tredici, le prime
+sei edizioni, W.; -- ^fino a co~, quattro, Bart.; -- ^Ove non
+trasse~, 8. 32; -- ^infino a cola~, l'8; -- ^a co~, altri
+quattro; -- ^spuola~, dodici, (F.).  (I.).  (N.); -- ^enfine al
+co~, il 14; -- ^infino al fin~, il 15; -- ^enfino a quo~, il 18;
+-- ^anc@o~, 33. 35; -- ^a ci@o~, il 38; ^insino al fin~,
+diecisette degli Accad.; -- ^infine~, Roscoe.
+
+	|97-99.  Perfetta vita~ ecc.  Piccarda allora soggiunse:
+Vita santissima e di alti meriti ^inciela~, pose in pi@u eccelso
+cielo ^donna~, Santa Chiara, secondo la regola della quale nel
+vostro mondo si veste e si cinge il velo monastico.  Fu Chiara di
+nome e di fatti, contemporanea di S. Francesco d'Assisi, al quale
+fu dilletta e l'ebbe fedelissima seguace in tutte le virt@u
+cristiane.  Distribu@i ai poverelli la pingue sua eredit@a,
+istitu@i un Ordine di Francescane di s@i rigida regola, che
+Gregorio IX tent@o indarno di scioglierla da un tanto auestero
+voto Tredici anni pass@o in durissima penitenza; e viva e morta
+oper@o tanti miracoli, che Alessandro IV la beatific@o.  Tanto
+breviando trassi da Benv.  -- Fu d'Assisi, discepola di S.
+Francesco, nata nel 1193, e morta nel 1223.  BIANCHI.  --
+^Inciela~, zeuma per ^incielano~, albergano in pi@u alto cielo,
+collocano in pi@u alto cielo.  -- Varianti.  ^Ed altro merto
+incela~, tre, (F.).  (N.); -- ^Perfecta~, (I.); -- ^Donna @e pi@u
+su~, il 32; -- ^a la cui~, parecchi, Fer.; -- ^Del vostro mundo~,
+il 14; -- ^gi@u l@i veste~, (V.).
+
+	|100-102.  Perch@e infino~ ecc.  Perch@e si vegli e si
+dorma fino alla morte con Ges@u Cristo, a cui @e grato ogni voto,
+che dalla carit@a @e fatto conforme al piacere di lui.  BENV.  --
+Il voto affinch@e sia accetto a Dio, deve riguardare un bene
+migliore, secondo il Vangelo.  BIANCHI.  -- Si legge nella
+^Somma~; <La donna che fa voto di continenza, fa quasi uno
+spirituale sposalizio con Dio>.  FRATICELLI.  -- Var.  ^Perch@e
+fino al morir~, dieci; -- ^si vegli~, cinque, (M.).  Rosc.; --
+^si veghi~, il 32, (M.); -- ^si svegli~, il 37; -- ^o dorma~,
+quattro; -- ^Perch@e infine in la fin~, il 42; -- ^Ma Perch@e
+fino~, il 52; -- ^Perch@e 'n fin~, (I.); -- ^Perch@e in fin al~,
+(F.).  (M.).  (N.); -- ^in fino~, W.; -- ^carit@a~, tredici; --
+^al suo~, sette; (V.); -- ^a suo~, tre; -- ^a sua pace~, il 43
+(al. ^piacer~); -- ^transforma~, il 21; -- ^caritate~, (F.).
+(M.).  (N.); -- ^caritade~, il 50, (I.); -- ^al suo piacer~,
+Ferranti.
+
+	|103-105.  Dal mondo~, ecc.  Giovinetta ancora mi
+ritrassi dal mondo, presi l'abito religioso di S. Chiara, e
+promisi di osservarne la regola.  BENV.  -- ^Setta~, dal lat.
+^secta, a sectando~, per ^seguito, compagn$ia.~  LOMB.  --
+^Setta~, figurat. per Ordine religioso. S.  Cipriano:
+^Fraternitatis secta.~  FRATICELLI.  -- La voce ^setta~ in buon
+senso trovasi pi@u volte usata da S. Paolo e negli Atti degli
+Apostoli (dice mons. Cavedoni) ed aggiunge: che anche la voce
+^via~, nel senso in cui @e qui presa dal Poeta, ricorre ad ogni
+tratto nelle sante Scritture, e ne cita esempj.  V. ^Opusc.
+Relig.~ ecc. XII, facc.  162.  -- Var.  ^Del mondo~, tre; --
+^giovanetta~, quattro; -- ^per seguir lei~, il 17; -- ^per seguir
+la~, (I.); -- ^per seguilla~, il 27; -- ^per seguirlo~, il 28; --
+^la giovinetta~, parecchi de' m.  s., le pr. quattro edizioni e
+Fer. che scrive ^la Giovinetta~, e ignoriamo ancora come
+giustifichi questa lezione.  S. Chiara institu@i il suo Ordine in
+et@a di vent'anni, e mor@i dopo tredici anni di rigida penitenza.
+Sarebbe mai questa la ragione d'un tal mutamento?  Pi@u capacita
+la comune; -- ^e del suo abito~, il 6 ed il Fer.; --
+^m'inchiusi~, 8. 14; -- ^Fugg@imi~, tre, (F.).  (M.).  (N.); --
+^Fugg@emi~, il 9; -- ^nel suo~, tutti i m. s., W. Benv. ecc.; --
+^Fuggi'mi~, W.; -- ^Fugg$iimi~, Fer.; -- ^E promisi alla mia di
+sua setta~, l'8, err.; -- ^E promessi la via de la~, (I.).
+
+	|106-108.  Uomini~ ecc., intendi, Corso Donati e Forese,
+suo fratello, l'uno avvezzo al comando, l'altro dedito alla gola,
+mi trassero violentemente fuori del chiostro, mio dolce nido,
+ombra di Paradiso nel mondo; e Dio solo sa quanto misera fu poi
+la vita mia.  BENV.  -- ^Uomini~ ecc.  @E saggia riflessione del
+Cionacci nella ^Storia della B. Umiliana~, Part. IV, cap. 4, che
+Dante alluda qui al motto di ^Malefammi~, col quale, testimonio
+il Villani (Lib.  8, cap. 38), erano li Donati comunemente
+chiamati.  LOMB.  -- ^Dio lo si sa~ ecc.  Qui il Lombardi riporta
+un passo di Rodolfo da Tossignano, nel quale @e detto che questa
+Piccarda, ricoperta di miracolosa lebra, ^Deo disponente, post
+aliquot dies~ CUM PALMA VIRGINITATIS ^migravit ad Dominum~
+(^Hist. Seraph. Rel.~ P. I, pag. 138).  Il fatto @e ripetuto dal
+Vaddingo che lo colloca erroneamente sotto l' an. 1320, sendoch@e
+Piccarda fosse gi@a morta prima del 1300, testimonio Dante, suo
+contemporaneo e parente e che avevala conosciuta ben da vicino,
+siccom' ella stessa ci ha gi@a fatto intendere pi@u sopra, vv.
+47-49: ^E se la mente tua ben si riguarda, -- Non mi ti celer@a
+l'esser pi@u bella; -- Ma riconoscerai ch'io son Piccarda.~  Qui
+la testimonianza di Dante vale per mille, e se Piccarda non
+avesse rotto il voto di virginit@a, non l'avrebbe collocata nel
+cielo della Luna.  L'Anonimo spiega: <Dio solo sa qual fu la sua
+vita, che fu poca ed a lei nojosa; ma tosto, lei orante, e
+condotta in languente infermitade, a s@e la trasse quello Sposo,
+al quale ella avea professa la sua verginitade>.  Cos@i s'accosta
+alla leggenda di Rodolfo, non dice per@o ch'ella morisse vergine.
+-- Iacopo dalla Lana dice che ^li suoi parenti la trassono dal
+monisterio, e fece altra vita che la preditta votata.~  -- Dante
+poteva parlare pi@u chiaro, ma forse ebbe le sue ragioni per
+cavarsela col modo ^Dio lo si sa.~  -- Il Biagioli confess@o
+essere malagevole l'affermare il vero senso di questo verso, ma
+inclin@o all'opinione che le nozze carnali finissero per
+alienarla ^dal velo del cuore~, e forse a piacerle a segno
+l'altra vita, che ^Potendo ritornare al santo loco~, pur si
+ritenne in quella.  -- Il Bianchi spiega: <Dio solo sa quanto
+inquieta ed afflitta condussi la vita, combattuta dalla religione
+e dai riguardi sociali; quantunque se avessi avuto pi@u coraggio
+e pi@u forte e tenace volere, sarei potuta tornare, a dispetto di
+tutti, al mio chiostro.  Questa spiegazione combiner@a con ci@o
+che leggerassi al v. 81 e segg. del canto che verr@a dopo>.  --
+Concludiamo: che a Piccarda fall@i quel ^volere intero~ che
+^tenne Lorenzo in su ia grada -- E fece Muzio a la sua man
+severo; -- fusi~, per ^si fu.~  Vedi anche il Varchi
+nell'^Ercolano~ a cart. 207.  VOLPI.  -- Var.  ^Al mal pi@u che
+al ben~, pi@u di venti de' m. s.; -- ^a mal pi@u che a ben~, i
+pi@u; -- ^a mal pi@u che al ben~, il W., non buona, o l'affisso
+ad ambi i nomi od a nessuno; -- ^Fuor mi rapiro di le dolci
+chiostra~, il 41; -- ^rapiron~, le prime quattro edd., Cr.; --
+^Iddio sa poi quale mia~, il 3; -- ^Iddio si sa~, nove; -- ^E Dio
+si sa~, diciotto, (M.).  (V.).  Nid.; -- ^Iddio sel sa~, 12. 42.
+(F.).  (N.).  (I.).  Fer.; -- ^Iddio 'l si sa~, il 15; -- ^E Dio
+il sa~, quattro: -- ^sel sa~, il 38; -- ^Dio si sa poi~, il 26;
+-- ^qual po~', il 38.
+
+	|109-111.  E quest'altro~ ecc.  ^Splendor~, Costanza,
+figliuola di gran re, moglie d'un Imperatore, e beata in cielo.
+-- ^Dalla mia destra parte~, per ragione di onoranza; -- ^e che
+s' accende~ ecc., e che prov@o tutto l'influsso di questa sfera
+lunare.  Secondo gli astrologi, la Luna influisce alla
+conservazione della virginit@a.  BENV.  -- ^Che s'accende~ ecc.,
+che ha tutto il lume che pu@o uno splendore del nostro cielo
+avere.  LOMB.  -- Varianti: ^spiendor~, quattro; -- ^che ti fe'
+mostra~, il 4; -- ^che mi si mostra~, il 20; -- ^E quell'altro~,
+il 35; -- ^che a te si mostra~, il 37; -- ^che mi ti mostra~, il
+43; -- ^Dalla mia~, quattro; -- ^Da la mia~, (F.).  (I.).  (N.).
+Fer. e parecchi de' m. s.; -- ^dextra~, (F.).  (N.); -- ^Con
+tutto il lume~, il 32; -- ^Di tutto il lume~, molti, (F.).  (M.).
+(N.).  W. ecc.; -- ^Di tutto lume~, (I.); -- ^da la spera~,
+Roscoe.
+
+	|112-114.  Ci@o ch'io~ ecc.  ^Sorella fu~, profess@o
+voti, fu monaca; e ci@o che avvenne a me, accadde anche a lei, in
+quanto ch'essa fu pure tratta per forza dal monastero, e toltole
+il sacro velo ed astretta a maritarsi.  BENV.  -- ^Di s@e
+intende~, intende detto di s@e pure; -- ^Sorella~, qui pure, come
+al v. 46, per ^suora, monaca; -- e cos@i~, intendi, ^come a me;
+-- l'ombra~ ecc., la copertura del sacro velo monacale.  LOMB.
+-- Var.  ^Di lei intende~, 3. 8.  42; -- ^Ci@o ch' io dicea di
+me~, (V.).  Fer.; -- ^Ci@o ch' i' ti dico di me~, (I.); --
+^Sorella fue~, (F.).  (N.); -- ^e cos@i lei fu tolta~, (I.); --
+^Del capo l'ombra delle sante~, il 3; -- ^Del capo~, tre; -- ^da
+le sacre~, l'8; -- ^delle sante bende~, Bartolini.
+
+	|115-117.  Ma poi~ ecc.  Ma bench@e fosse tornata al
+secolo per fattale violenza, e contro la costumanza
+ecclesiastica, sempre condusse vita non discorde dalla monacale.
+BENV.  -- ^Fu rivolta~, qui ^rivolta~ per ^voltata di nuovo.~
+TORELLI.  -- ^Contra buona usanza~, contro l'antico buon uso di
+non mai tornare al secolo monache professe; -- ^Non fu~ ecc., non
+isvest@i mai il suo cuore dell'amore allo stato monacale.  LOMB.
+-- Il suo cuore fu sempre quale si conviene essere a monaca
+osservatrice de' suoi voti.  BIANCHI.  -- Non si tolse mai dal
+cuore l'affetto allo stato monastico.  Canto seg. v. 98: ^Che
+l'affezion del vel Costanza tenne.~  FRATICELLI.  -- Var.  ^Ma
+po' che pur~, ecc., il 24, (I.); -- ^Ma bench@e al mondo pi@u
+fusse~, il 43; -- ^pure al mondo~, (F.).  (M.).  (N.); -- ^Contra
+suo grato~, 14. 43; -- ^su' grato~, il 24; -- ^Contro a suo...e
+contro a~, il 38, Fer.; -- ^Contr'al~, il 40; -- ^e contra sua
+usanza~, Nid.; -- ^Contra suo modo~, (I.); -- ^del vel del cor
+giammai sc,iolta~, il 38. (V.); -- ^dal vel del cor~, (F.).
+(I.).  (N.).  W. ecc.
+
+	|118-120.  Quest'@e la luce~ ecc.  Questa @e l'anima
+della gran Costanza, che dalla seconda gloria della casa Sveva,
+Federico Barbarossa essendo stato la prima gloria di quella casa,
+gli successe Arrigo V, il quale da Costanza ebbe un successore in
+Federico II, che fu terzo ed ultimo Imperatore di quella
+dinast$ia.  A ragione Dante chiama ^vanto~, o superbia di gloria
+quello della Casa Sveva, che fu simile a vento australe, perch@e
+turb@o l'aere sereno, e port@o sangue e strazj, ma tosto spar@i.
+BENV.  -- Pare da questa chiosa ch'egli leggesse ^vento~ e non
+^vanto~, siccome lo fa leggere il Tamburini.  In quanto a
+Costanza, legittima figliuola di Ruggero, Dante seguit@o la
+comune opinione del tempo suo, cio@e che fosse fatta monaca per
+forza dal padre suo, sgomentato da una profez$ia di Gioacchino
+Calabro, uomo tenuto in alta opinione; che sciolta dal papa dei
+professati voti, fosse in et@a di 55 anni data in moglie ad
+Arrigo V, a cui partor@i un figliuolo, che poi fu Imperatore col
+nome di Federico II.  Ma gli studj storici fatti dappoi con la
+guida d'una severa critica ci fanno sapere che questa Costanza
+nacque l'anno 1154, che fu maritata ad Arrigo V nel 1186, in et@a
+di trentadue anni, che mai non fu monaca, e che sempre visse nel
+regio palazzo.  ^Erat ipsi regi~ (dice Rich.  de S. Germ.) ^amita
+quaedam in Palatio Panormitano, quam idem rex Guillielmus Henrico
+Alamannorum regi in conjugem tradidit.~  -- Ed il Falcando parla
+di Costanza come d'una principessa educata in tutte le delizie
+regali.  BIANCHI.  -- Il Fraticelli concorda, ed aggiunge che
+Costanza conduceva una vita ritirata e religiosa; lo che forse
+fece spargere la voce dell'essersi ella resa monaca; ci@o detto
+ci rimanda alla Storia del Giannone, lib. XIII, cap. 2.  -- Var.
+^Costanza~, tredici, Nid. Benv. Bart. Fer. altri m. s.; --
+^Constanza~, lettera preferita dal W.; -- ^Gostanza~, la Cr., le
+moderne Fior. e lo Scarab.  Il Lomb. la seguit@o, contro la sua
+Nid., e meraviglio di lui che la scartasse per preferirle un
+idiotismo che d@a ai nervi; -- ^Questa @e~, (F.), (N.), --
+^Quest' @e~, (M.).  (I.).  Cr.; -- ^de la gran~, il 52 ed altri;
+-- ^Ella @e la luce~, il 53; -- ^vento~, i pi@u; -- ^vanto~, il
+Fer. e il testo di Emiliani-Giudici, ma ignoriamo ancora d'onde
+tratta.  Il Tamburini ci d@a a crederla di Benv., ma non vi
+risponde la chiosa che dice: ^Et hic nota quia Poeta pulcre vocat
+superbiam, potentiam et vanam gloriam mundi~ VENTUM, ^et
+potissime ista domus Sveviae.~  -- Il Daniello spiega ^vento~ per
+^superbia~; e Pietro di Dante, se pure di lui @e quel Comento,
+chiosa: Lo chiama ^vento~, avuto rispetto al flusso della potenza
+e della gloria temporale; nella E. B. fu preso ^vento~ per
+^venuto~, e data questa spiegazione: ^che del secondo regnante
+venuto dalla casa di Svevia, gener@o~ ecc.  Il Parenti vagheggi@o
+la lezione ^vanto~, e dichiar@o che l'avrebbe accettata se
+trovato un sol testo egli avesse che francheggiasse la sua
+congettura.  -- Il Bianchi inclina a credere ^vento~ sustantivo
+qui figuratamente usato ad accennare quei tre potenti imperatori,
+i quali a modo di venti turbinosi sconvolsero singularmente
+l'Italia; e in quanto all'arditezza della metafora, ricorda che
+Ezechiele design@o col nome di ^ventus turbinis~ il re
+Nabuccodonosor.  -- Il Fraticelli per ^vento~ intese ^mondana
+fama~, o ^fulmine di guerra~, e spieg@o: <Che del secondo
+imperatore di Svevia, che fu nel mondo famoso, ovvero che fu un
+fulmine di guerra, ^gener@o~ ecc.  -- Le opinioni adunque sono
+discordi, e rimane indeciso de qui si tratti di un biasimo o
+d'una lode.  In quanto a me, il verso ^Questa @e la luce della
+gran Costanza~, la quale era ivi presente, mi pare che richiegga
+^vanto~ di preferenza, a continuarne l'encomio.  Decidano i
+Critici.  -- ^Vento di Soave~, il Venturi not@o qui: Perch@e di
+^Soave~ chiami la casa di Svevia, non trovo chi sappia dirmelo,
+n@e a me basta l'animo d'indovinarlo>.  -- Il Rosa-Morando gli
+rispose che gli antichi Toscani da ^Suevia~ fecero ^Soavia~, poi
+^Soave~, per quella figura che le ultime sillabe delle dizioni
+muta, e che i Greci chiamano ^metaplasmo.~  -- Il Lomb.  credette
+derivato dai nostri tale vocabolo dal francese ^Souabe~; il De
+Romanis ed il Poggiali dissero ^Soave~ un ^latinismo in grazia
+della rima~, e s'ingannarono, avendo Dante usata tal voce anche
+in prosa nel ^Convito~, dove dice: ^Federigo di~ SOAVE ^ultimo
+imperatore delli Romani~ ecc.  -- Var.: ^di Suave~, il 22, Nid.
+W. Rosc.; -- ^che di secondo~, (I.); -- ^all'ultima possanza~, il
+3; -- ^il terzo~, parecchi, W.; -- '^l terzo~, le pr. quattro
+edd.
+
+	|121-123.  Cos@i parlommi~, ecc.  Cos@i Piccarda mi
+parl@o di Costanza, poi cominci@o a cantare ^Ave Maria~, orazione
+propria delle vergini, e cantando disparve, qual grave sasso in
+acqua profonda.  BENV.  -- ^Van$io~, spar@i, si tolse di vista;
+^cupa~, profonda.  LOMB.  -- ^Van$io~, svan@i; e con questo
+svanire pare che il Poeta voglia far notare che l'apparizione di
+queste anime era qui istantanea; che la loro dimora era nel cielo
+empireo, come dir@a nel canto IV.  BIANCHI.  -- Var.  ^Cos@i mi
+disse~, tre; -- ^e cominci@o Ave~, il 36; -- ^Cos@i parl@omi~,
+(M.).
+
+	|124-126.  La vista mia~, ecc.  La mia vista che tanto
+seguit@o quanto fu possibile ad essa, pi@u non vedendola, si
+volse ad altra ricerca maggiore dell'altre due gi@a fatte a
+Piccarda.  BENV.  -- ^Segno~, scopo, obbietto; -- ^di maggior
+dis$io~, maggiore cio@e di quello fossero Piccarda e Costanza.
+Accenna ci@o che espressamente nel verso che seguita dice
+d'essersi rivolto alla sua Beatrice.  LOMB.  -- All'obbietto pi@u
+desiderabile, cio@e a Beatrice.  BIANCHI.  -- Var.: ^che tanto
+lei segu$io~, sette, (F.).  (I.).  (N.).  (V.).  Fer.; --
+^cotanto la segu$io~, l'8; -- ^lui segu$ie~, il 28; -- ^poi ch'
+io la perse~, l'8; -- ^po' che la~, (I.); -- ^a segno~, (N.).
+(V.); -- ^del maggior~, il 28; -- ^di cotal dis$io~, (F.).  (N.).
+
+	|127-130.  E a Beatrice~ ecc.  E tutta la mia
+contemplazione s'intese in Beatrice, ma quella sfavill@o di nuovo
+un maggiore splendore nell'intelletto mio, che per l'altezza del
+lume nol potei comportare, e ci@o mi fece indugiare la
+trattazione della nuova e pi@u ardua materia.  BENV.  -- ^Ma
+quella folgor@o~ ecc.  Accenna il divario grande che suppone tra
+lo splendore dell'anime della Luna e quello di Beatrice, com'@e
+detto di sopra al v. 16; -- ^il viso~, l'occhio, ^non sofferse~,
+come chi dall'aver tenuto l'occhio fisso nella Luna, volgesselo
+nel Sole.  LOMB.  -- ^Nol sofferse~, intendi il folgorare di lei.
+BIANCHI.  -- Var.: ^si scoperse~, l'8; -- ^E a Beatrice~, il 14,
+(M.); -- ^Et Beatrice~, quattro, (I.).  (V.); -- ^E in Beatrice~,
+il 38; -- ^Et a Beatrice~, (F.).  (N.); -- ^E folgor@o cos@i nel
+mio~, il 3; -- ^nel m$io~, sette, (M.).  (V.); -- ^sfolgor@o~, 6.
+9; -- ^Ma quella folgor vide lo mio~, l'8; -- ^isguardo~, tre; --
+^E quella~, 18. 32; -- ^fulgur@o~, 28. 38.  (I.); -- ^folgor@o
+s@i nel mio~, il 42; -- ^Che il viso mio da prima~, il 3; --
+^S@i, che di prima~, otto; -- ^il viso non sofferse~, ventidue,
+(F.).  (M.).  (I.).  (N.).  Nid.  e Lomb. che disapprova il ^nol
+sofferse~, soggiugnendo: Se per@o al ^non~ si dovesse congiugnere
+pronome, dovrebbe essere ^la~ e non ^lo.~ -- Non consider@o che
+il ^nol~ non si riferisce a Beatrice, ma sibbene al folgorare di
+lei.  -- ^S@i che da pr$ia~, il 14; -- ^S@i che di pr$ia; -- a
+domandar~, 3. 24.  (F.).  (M.).  (N.).  W.; -- ^Ed io me feci~,
+il 18; -- ^Ed io mi feci al domandar~, il 32; -- ^nol sofferse~,
+Ald. Rosc., otto testi citati dagli Accad.; -- ^di prima~,
+Roscoe.  END OF CANTO: Computer Input Corporation: 09-25-89
+

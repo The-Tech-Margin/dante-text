@@ -1,0 +1,13 @@
+#! /bin/sh
+
+#	Do a reorganization of the DDP database
+
+#	$Header: reorg,v 1.1 89/04/03 14:35:07 dante Exp $
+
+DATABASE=NDDP
+LOG=$Dante/doc/load.log
+
+echo "" >> $LOG
+echo -n "Reorg started on " >> $LOG
+date >> $LOG
+exec brsload $DATABASE -reorg ${1-inv} < /dev/null >> $LOG

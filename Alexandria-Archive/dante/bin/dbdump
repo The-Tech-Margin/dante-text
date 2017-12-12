@@ -1,0 +1,25 @@
+#! /bin/sh
+
+# Make a tar backup of the DDP database.  A record is kept of the date & tape.
+
+LOG=$Dante/doc/dump.log
+TAR=/bin/tar_v4.1
+
+cd $Dante
+
+if [ -f $LOG ]
+then
+	echo -n "Last dbdump: "
+	head -1 $LOG
+else
+	echo "No previous dump."
+fi
+echo ""
+echo -n "Enter tape identifier (A or B) - "
+read TAPEID
+echo ""
+echo -n "Mount 8mm tape $TAPEID, hit return when ready..."
+read JUNK
+echo ""
+echo `date` ": tape $TAPEID" > $LOG
+$TAR cv1 Menus DANT/*.db >> $LOG 2>&1

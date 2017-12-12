@@ -1,0 +1,193 @@
+	|3.~ |(ed.  Rosini)~
+Arnie.  [richiamo marginale] [Sessa]
+
+^Arnie~, api.  Comparazione.  [Da Fino]
+
+	|(ed.  Celani)~
+Simil a quel, che ^l'arnie fanno, rombo;~
+
+	|5.~ |(ed.  Rosini)~
+^Torma~, moltitudine.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+Sostati.  [richiamo marginale] [Sessa]
+
+^Sostati tu~, fermati.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+Membri.  [richiamo marginale] [Sessa]
+
+	|11.~ |(ed.  Celani)~
+^Recenti~ et vecchie da le fiamme incese;
+
+	|13.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+A le lor grida il mio dottor ^s'attese,~
+
+	|15.~ |(ed.  Celani)~
+Disse: a costor si vuol ^esser cortese.~
+
+	|17.~ |(ed.  Celani)~
+La natura del luogo, ^i dicerei~
+
+	|18.~ |(ed.  Rosini)~
+Di andar loro incontro, per esser personaggi grandi.  [Da Fino]
+
+	|19.~ |(ed.  Rosini)~
+Ristemmo.  [richiamo marginale] [Sessa]
+
+^Ehi~, ahim@e.  [Da Fino]
+
+	|(ed.  Celani)~
+Ricominciar, come noi ristemmo ^ei,~
+
+	|21.~ |(ed.  Rosini)~
+Trei.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Fenno una ruota di se tutti e ^trei.~
+
+	|23.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|25.~ |(ed.  Rosini)~
+Visaggio.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Cos@i rotando ciascuno ^il visaggio~
+
+	|26.~ |(ed.  Celani)~
+^Drizzava~ a me, s@i, ch'en contrario il collo
+
+	|26-27.~ |(ed.  Rosini)~
+Andavan rotando.  [Da Fino]
+
+	|28.~ |(ed.  Rosini)~
+Sollo.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Et se miseria d'esto loco ^sollo~
+	^sollo~
+
+	|29.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|30.~ |(ed.  Rosini)~
+Brollo.  [richiamo marginale] [Sessa]
+
+^Tristo aspetto e brollo~, mesto e pelato.  [Da Fino]
+
+	|(ed.  Celani)~
+Cominci@o l'uno, e 'l tristo aspetto et ^brollo;~ ^brollo~
+
+	|34.~ |(ed.  Celani)~
+Questo, l'orme, di cui ^postar mi vedi,~
+
+	|41.~ |(ed.  Rosini)~
+^Voce~, fama.  [Giolito]
+
+	|(ed.  Celani)~
+E1 Teggiaio Aldobrandi, la cui ^voce~
+
+	|42.~ |(ed.  Celani)~
+Nel mondo su ^dovria~ esser gradita.
+
+	|43.~ |(ed.  Celani)~
+Et io, che posto son ^con loro in croce,~
+	^fama~
+^	piet@a~
+
+	|45.~ |(ed.  Rosini)~
+Perch@e lasciandolo, convenne darsi al vizio.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+^Mi sarei bruciato e cotto~.  Perch@e era offeso dal fuoco, e non dalla 
+pioggia?  [Sessa]
+
+	|52.~ |(ed.  Rosini)~
+^Poi cominiciai~, piet@a.  [Giolito]
+
+	|59-60.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|59.~ |(ed.  Rosini)~
+^Ovra~, opra.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+Esco d'Inferno per il Paradiso.  [Da Fino]
+
+	|63.~ |(ed.  Rosini)~
+^Tomi~, vadi.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^E se la fama tua~ ec.  Fama de' dannati.  [Sessa]
+
+^Luca~, traslazione.  [Da Fino]
+
+	|71.~ |(ed.  Rosini)~
+Per poco.  [richiamo marginale] [Sessa]
+
+	|73.~ |(ed.  Rosini)~
+^Subiti~, illeciti.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+Dismisura.  [richiamo marginale] [Sessa]
+
+^Dismisura~, eccessi.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Quando ti giover@a~, desiderio di fama.  [Giolito]
+
+Bello.  [Sessa]
+
+	|(ed.  Celani)~
+^Quando ti giover@a dicer: io fui;~
+	^Desiderio di fama~
+
+	|85.~ |(ed.  Rosini)~
+Desiderio di fama.  [Sessa]
+
+	|89.~ |(ed.  Rosini)~
+Ei.  [richiamo marginale] [Sessa]
+
+	|94-103.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+Quella badia dovea essere di 1000 monaci.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+^Burrato~, profondit@a.  [Da Fino]
+
+	|117-120.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|118.~ |(ed.  Rosini)~
+Denno.  [richiamo marginale] [Sessa]
+
+	|124.~ |(ed.  Rosini)~
+Vero che ha faccia di menzogna.  [richiamo marginale] [Giolito]
+
+Faccia di menzogna.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Sempr'^a quel ver, c'ha faccia di menzogna~.
+
+	|124-126.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|125.~ |(ed.  Celani)~
+De ^l'huom chiuder le labbra,~ quant'ei pote;
+	^vero c'ha faccia di menzogna~
+
+	|129.~ |(ed.  Rosini)~
+Perch@e li scrittori le desiderano eterne.  [Da Fino]
+
+	|133-136.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+Rattrappa.  [richiamo marginale] [Sessa]
+

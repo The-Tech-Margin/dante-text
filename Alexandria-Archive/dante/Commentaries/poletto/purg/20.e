@@ -1,0 +1,1285 @@
+	|Nota~ Continuando i Poeti il loro cammino per la quinta
+cornice, sentono un'anima celebrare esempi di povert@a e di
+liberalit@a, e vengono a sapere esser quell'anima Ugo Capeto, il
+capostipite della Casa di Francia.
+
+	|1-3.  Contra~ ecc.; un volere non pu@o resistere ad un
+volere migliore.  Il voler |migliore~ era quello di Adriano, che
+invit@o Dante ad andarsene per non perder pi@u tempo a ^naturare~
+la sua pena, mentre Dante avrebbe voluto fermarsi l@i tuttavia a
+parlare ed udire.  -- |Onde~; per il che, dovendomi indi partire. 
+-- |Contra il piacer mio~; contro il mio desiderio, a mio mal
+grado (cf. ^Par.~, I, 101).  -- |Trassi~ ecc.; me n'andai, bench@e
+non fossi del tutto contento; la mia sete di sapere altre cose, 
+non era ancor sazia (cf. ^Purg.~, XXXI, 1-2; ^Par.~, XV, 87).  --
+|Sazia~; bel dire, scrive il Cesari, per ^inzuppata~ e
+^impregnata~; simile al ^lana saturata fuco~ di Orazio (veramente
+Orazio, ^Carm.~ III, ^Od.~ V, 28, in luogo di ^saturata~, se
+stiamo a buone edizioni, ha ^medicata~).  Cf. ^Par.~, III, 91. 
+Il Buti: <Fa qui similitudine, cio@e che la volont@a sua era come
+una spugna, e che li desiderii, ch'elli avea di sapere altre cose
+da quello spirito, rimaseno non sazi, come rimane la spugna
+quando si cava dall'acqua inanti che sia tutta piena.>
+
+	|4-6.  Per li~; rammenta il ^pur l@i~, dell'^Inf.~, VII, 
+28.  -- |Luoghi spediti~; sgombri, liberi, non impediti dalle
+anime distese a terra; tutto il cerchio, quant'era largo, era
+occupato dalle anime (onde la ^via~ era ^impacciata~, ^Purg.~, 
+XXI, 5), e di sgombro o spedito non rimaneva se non (^pur~, 
+soltanto) un piccolo lembo rasente alla roccia (che @e di base
+alla cornice sesta), com'@e quel viottolo che va lungo la
+merlatura d'una fortezza (cf. v. 9).  -- |Stretto~; alcuni il
+fanno aggettivo, riferito a |muro~; i pi@u (anche il Cesari e il
+Giuliani), a modo d'avverbio, ^rasente, vicino.~  Infatti, 
+prendendo |stretto~ per aggettivo che locuzione riesce? che senso
+si avrebbe?
+
+	|7-9.~  L'Alfieri not@o i due primi.  Spiega ora meglio la
+condizione del luogo.  |Fonde a goccia~ ecc.; piange l'avarizia;
+a forza di pianto purga l'avarizia (che @e quanto a dire, chiosa
+il Cesari, si purga fuori per gli occhi del malo affetto).  |Il
+mal~ ecc.; la cupidigia era il vizio dominante, diffuso ^per ogni
+villa~ (^Inf.~, I, 109).  Nel ^Canzon.~ (P. II, canz. 5, st. 4):
+^L'avere a tutti signoreggia.~  Nell'^Epist.~, VIII, 7:
+^Cupiditatem unusquisque sibi duxit in uxoremi~ (cf. ^Par.~, 
+XXVII, 121-123).  -- |Dall'altra parte~; dalla parte di fuori, 
+che rade la proda; onde non restava spazio da potervi camminare. 
+-- |S'approccia~ (cf. ^Inf.~, XII, 46; e XXIII, 48; senza la
+partic. ^si~), s'avvicina, s'appressa; e perci@o da quel lato, che
+lambe la costa del monte, non c'era spazio, per camminarvi.
+
+	|10-12.~  Sulla |Lupa~ io confermo quanto ho detto
+nell'^Inf.~, I, 51 (e nel ^Dizionario Dantesco~, vol. VIII, 
+Appendice III); |Lupa~ l'avarizia, ma |Lupa~ anco la prodigalit@a;
+e Lupa cos@i la gola come la lussuria; una Lupa sola, sempre
+insaziabile; quest'anima impreca al fiero animale per quanto
+risguarda a lei; ma ci@o n@e toglie, n@e pu@o togliere che non
+abbiano argomento d'imprecarle del pari gli infletti delle
+predette colpe.  -- |Antica~; cf. ^Purg.~, XIX, 58.  --
+|Maledetta~, nel ^Conv.~, III, 15: <In questo errore cade l'avaro
+maledetto.>  E di certi superbi, che vogliono scrutare i segreti
+ordinamenti di Dio (^Conv.~, IV, 5): <Maledetti siate voi, e la
+vostra presunzione, e chi a voi crede.>  E ^maledetto~ chiama il
+^fiorin~ di Firenze (^Par.~, IX, 130).  -- |Pi@u~ ecc.; pi@u della
+Lonza e del Leone, perch@e la Lupa ^occupa tutto il mondo~, (v.
+8), e ^dopo il pasto ha pi@u fama che pria~ (^Inf.~, I, 99).  E se
+ha preda, gli @e anche perch@e in lei non un sol vizio, ma tutti i
+possibili disordinati desiderj son simboleggiati (^carca di tutte
+brame~, ^Inf.~, I, 49) di quanto i beni caduchi e sensibili si
+stendono.  E Dante, simbolo dell'umanit@a, vinse bens@i la Lonza e
+il Leone, ma non gi@a la Lupa (^Inf.~, I, 52-60); e la spiegazione
+@e chiara nel ^Par.~, XXVII, 121-123.  Boezio (^Consol. Filos.~, 
+II, r. 2):
+
+     l'ingorda voglia, 
+     Divorando l'avuto, 
+     Apre pi@u bocche, e maggior canne mostra.
+
+E Dante nel ^Conv.~, IV, 12: <Lo quale raunamento (^di
+ricchezze~) nuovi desiderj discopre...  La cupidit@a, raunando
+ricchezze, cresce.>  -- |Bestie~; fra tutti gli uomini erranti, 
+gli infetti di cupidigia son quelli che pi@u si staccano dalla
+ragione e pi@u son tenaci delle loro male abitudini (cf. ^Purg.~, 
+XIX, 23-24); nel ^Conv.~, II, 8: <Chi dalla ragione si parte..., 
+vive bestia.>  -- |Cupa~; senza fondo, profonda (cf. ^Inf.~, 
+XVIII, 109; ^Par.~, III, 123); dunque insaziabile.  E Cerbero n'@e
+dipinto dal Poeta con tre bocche (^Inf.~, VI, 14).  D'uomo
+ricchissimo diciamo ^ricco sfondato~; e il Davanzati (^Stor.~, 
+II, 297): ^la sfondata gola di Vitellio.~  Una postilla del
+Giuliani: <La carbonaia come pi@u la s'imbocca (^gittandovi entro
+legna ad ardere~) e pi@u sfonda (^e ne vorrebbe di pi@u, e pi@u ne
+consuma~): ^ci@o raccolsi da un carbonaio di Santafiora~, 1858.> 
+^Cupo~ (cf. ^Inf.~, VII, 10) indica dunque profondo
+(^Montemagno~, son. 36: <dal ^cupo~ del cuor tratto un sospiro>):
+nella ^Cronachett. d'Amarett.~, {Paragraph.} 98: <Perch@e i Romani
+non avessero l'ossa sue, ordin@o (^Alarico~) che in un fiume molto
+cupo in una cassa di piombo fossero messe.>  Ma siccome ci@o ch'@e
+^profondo~ @e anche, il pi@u delle volte, ^tenebroso, oscuro~ (e si
+rammenti il progressivo discendere di Dante per l'Inferno, dove
+quanto pi@u va gi@u, cresce l'oscurit@a, ^Inf.~, IX, 28), si noti
+questo tratto del Grisostomo (nell'^Ottavario Rom.~, 11 Ottobre):
+^Nihil sane tenebrosius est, quam virginitas oleo carens; unde
+sic vulgo multi immisericordes tenebrosos solent appellare~; e
+l'uomo cupido di beni terreni @e un abisso di egoismo, e non ha
+misericordia per nessuno, per quanto finga di esser democratico e
+decanti la filantropia.  Cf. ^Inf.~, XXX, 56 (dove il passo del
+^Conv.~, IV, 12).
+
+	|13-15.~  L'Alfieri not@o i due primi.  |Nel cui girar~
+ecc.; credevasi che le variazioni delle cose di quaggi@u fossero
+effetto del movimento de' cieli; e in parte vi credeva anche
+Dante (cf. ^Purg.~, XVI, 61-73; e ^Conv.~, II, 5, poco dopo il
+princ.; e ivi, 14: <Della generazione sustaziale tutti i filosofi
+concordano che i Cieli sono cagione.>)  Cf. ^Purg.~, XXIV, 88;
+XXXIII, 97 e segg.; ^Canzon.~, P. II, canz., 6, st. 4. v. 14; e
+^Dizionario Dantesco~, vol. VIII, App. III, {Paragraph.} ult.  --
+|Verr@a~; cf. ^Inf.~, I, 102; per@o fra il |verr@a~ di quel luogo
+dell'Inferno e la presente espressione |quando verr@a~, non @e chi
+non senta la differenza; l'animo del Poeta par qui men sicuro
+(cf. ^Purg.~, XXXIII, 37, e segg.; ^Par.~, IX, 140; XXVII, 63 e
+145).  -- |Per cui~ (sottint. ^quegli~), colui per opera del
+quale a lupa sar@a cacciata all'inferno, onde sbuc@o.
+
+	|16-18.~  Notati dall'Alfieri.  Lo cosa @e dipinta al
+naturale, nota il Cesari; da manca era la roccia; da destra i
+condannati giacendo; era dunque da andare adagio, e far piccoli
+passi.  -- |Passi lenti~ ecc.; cf. ^Purg.~, XXV, 125-126.  -- |Ed
+io~ (chi sottintende ^andava~, chi ^stava~); il Cesari (forse
+soggiungendo un'idea non in tutto espressa dal Poeta): <Mi par
+proprio vederlo andar compartendo gli sguardi, ora a' suoi piedi
+per saper dove li mettea, ed ora alle anime che piangevano, per
+raccogliere i loro guai.>
+
+	|19-21.  E per ventura~; e cos@i andando, |udii~, sentii
+|chiamare~, dire da quelle anime, |dolce Maria.~  Il Perez (op.
+cit., p. 202): <Non imagini o voci recate da fuori, insegnano la
+meditazione a queste anime; ma prostese e chiuse in s@e, come le
+vedemmo, propongono a s@e medesime i tipi da meditare, e nella
+meditazione cotanto s'infiammano, che gi@a veggono e odono i
+personaggi meditati, e con essi parlando, benedicono durante il
+giorno in dolci parole ai buoni, e nella notte maledicono a' rei>
+(cf. vv. 100-102, con ^Purg.~, XIII, 37-42).  -- |Dolce Maria~;
+sempre prima in ogni bene e del bene in ogni lode la gran Donna. 
+-- |Come fa donna~ ecc.; come donna nei dolori del parto.  Di
+Maria invocata dalle partorienti, cf. ^Par.~, XV, 130.  Ne' Libri
+santi ricorre frequente la similitudine dei dolori delle
+partorienti; ^Isaia~ (XIII, 6-8): ^Ululate, quia prope est dies
+Domini.~.. ^Torsiones~ (-- cf. ^Purg.~, XXXII, 45 --) ^et dolores
+tenebunt; quasi parturiens, dolebunt.~  E ivi (XXVI, 77): ^Sicut
+quae concipit cum appropinquaverit ad partum, dolens clamat in
+doloribus suis.~  ^Geremia~ (IV, 31): ^Vocem quasi parturientis
+audivi, angustias ut puerperae.~  La similitudine, osserva il
+Venturi (^Simil.~ ecc., 304), @e bella e giusta: <in quelle anime
+l'acutezza del dolore @e compensata dalla segreta gioia d'un bene
+lontano, come nel cuor della donna, dal casto pensiero di divenir
+madre.>
+
+	|22-24.~  Si cantano esempi di rigida povert@a atti a
+distorcere i cuori dall'avarizia; e qui pure gli esempi son
+tratti e dalla storia sacra e dalla profana, al medesimo fine. 
+-- |Ospizio~; la capanna di Betlemme, ove Cristo nacque (cf.
+^Mon.~, I, 5).  -- |Sponesti~; deponesti, spiegano i pi@u; altri
+intende ^partoristi~; il Cesari: <|Sponesti~; che cara parola, e
+proprio di virginal parto!>  -- |Portato~; il figliuol di Dio
+portato nel tuo seno (cf. ^Par.~, XXIII, 104; XXXIII, 7).
+
+	|25-27.~  Notati dall'Alfieri.  |Seguentemente~ (^Conv.~, 
+II, 11, al princ.); appresso ci@o, in seguito.  -- |Buon
+Fabrizio~; nome al Poeta venerando, e pi@u volte lo ricorda.  Caio
+Fabrizio Luscinio, generale romano, che rifiut@o i doni di Pirro, 
+che tentava di corromperlo, e che mor@i tanto povero, che le sue
+figlie furon dotate dal pubblico erario.  Nel ^Conv.~, IV, 5: <E
+chi dir@a che fosse senza divina spirazione, Fabrizio quasi
+infinita moltitudine di oro rifiutare, per non volere abbandonare
+sua patria?>  E ^Mon.~, II, 5: <Nonne Fabricius alterum (^prima
+aveva parlato di Cincinnato~) nobis dedit exemplum avaritiae
+resistendi, cum pauper, pro fide qua Reipublicae tenebatur, auri
+grande pondus oblatum derisit, ac derisum, verba sibi
+convenientia fundens, despexit et refutavit?  Huius memoriam
+confirmat Poeta noster in sexto, cum caneret: ^parvoque potentem
+Fabricium.~>  E nella canzone ^O patria degna~ ecc. (^Canzon.~, 
+P. III, canz. 2, st. 2), attribuita a Dante, ricorda i ^leali
+Fabrizi~ da Firenze cacciati in esilio, parole che consuonano a
+quelle di Brunetto (^Inf.~, XV, 61-66), che spiegano quelle di
+Ciacco (^Inf.~, VI, 73).  |Fabrizio~; singolare, a dir poco, il
+Talice, che modestamente rivolgendosi al lettore, gli dice: ^Et
+de isto possem tibi dicere tota die de eo~; e poi, a mostrare la
+sua immensa erudizione, comincia una chiosa mingherlina cos@i:
+^Iste fuit consul, pater Pirri~ (capite?), ^qui venit tempore quo
+Tarantum cepit guerram contra Romam.~  -- |Con povert@a~; ne'
+^Proverbi~ (XV, 16): ^Melius est parum cum timore Domini, quam
+thesauri magni et insatiabiles.~  E ivi (XVI, 8): ^Melius est
+parum cum justitia, quam multi fructus cum iniquitate.~
+
+	|28-30.~  All'infelice esule, che a Cangrande (chi sa con
+che angoscia di anima) fu costretto di dire ^urget me rei
+familiaris angustia~ (^Epist.~, X, 32), e che ai nepoti di
+Alessandro da Romena dichiarava, che lo perseguiva ^inopina
+paupertas, quam fecit exilium~ (^Epist.~, II, 3), al nostro
+infelice esule, dico, dovevano piacere queste care sentenze, onde
+premuroso va innanzi per discernere da chi fossero state dette
+(cf. ^Purg.~, XIX, 88 e segg.).  -- |Piaciute~; qui @e tutta
+l'anima di Dante, che tanto s'adoper@o a dimostrare i pregi
+dell'onesta povert@a, ed i guai privati e pubblici della
+cupidigia.  -- |Contezza~; cf. ^Purg.~, XXIV, 36.
+
+	|31-33.~  Il terzo esempio @e la generosit@a di S. Nicol@o
+vescovo di Mira, nella Licia (il cui corpo ora @e a Bari); del
+fatto, dal Poeta accennato, dice il ^Breviario Romano~ (6
+Dicembre): ^Adolescens parentibus orbatus, facultates suas
+pauperibus distribuit.  Cuius illud insigne est christianae
+benignitatis exemplum, quod, cum eius civis egens tres filias
+nubiles in matrimonio collocare non posset, earumque pudicitiam
+prostituere cogitaret, re cognita, Nicolaus noctu per fenestram
+tantum pecuniae in eius domum injecit, quantum unius doti satis
+esset: quod cum iterum et tertio fecisset, tres illae virgines
+honestis viris in matrimonium datae sunt.~  L'Aquinate (^Summ.
+Theol.~, II, II, 107, 3): ^Est laudabile quandoque, ut ille cui
+providetur beneficium ignoret; tum propter inanis gloriae
+vitationem; sicut beatus Nicolaus aurum in domum projiciens
+vitare voluit humanum favorem; tum etiam quia in hoc ipso amplius
+beneficium facit, quod consulit verecundiae eius, qui beneficium
+accipit.~  Il Tommaseo: <Con la povert@a di Maria e con la povert@a
+di Fabrizio (uno de' pi@u puri esempi della virt@u romana e della
+pagana), @e cantata la magnificenza religiosa e civile, la modesta
+piet@a del vescovo greco, il cui nome appartiene alla Chiesa
+universale e all'umanit@a; il quale, per salvare il pudore di tre
+giovanette, pudicamente nasconde agli occhi del mondo e ai loro
+stessi la mano soccorritrice.  E chi sa che ispirazione del
+vescovo greco non fosse a Dante quel rammentare con tanto
+rispettosa piet@a in questo Canto gli strazi del Pontefice Romano, 
+i cui politici accorgimenti all'esule costarono cari?  Nel Papa
+malmenato da quei potenti a cui troppo egli in sua vita si
+mescol@o, Dante non vede che Cristo: e sempre nel prete privato
+della mondana misera podest@a (-- ^non si frantendano queste
+parole~ --), che a lui e alle altre anime @e laccio, gli uomini
+non abbietti onoreranno l'immagine di Dio sulla terra> (e cos@i
+non parlano certe anime di pigmei, che non capiscono n@e Dante n@e
+s@e medesimi, e le parole di Dante violentemente abbassano alla
+meschinit@a della loro testa).  -- |Larghezza~; generosit@a; nel
+^Conv.~, II, 11: <E non siano li miseri volgari anche di questo
+vocabolo ingannati, che credono che ^cortesia~ non sia altro che
+|larghezza~; ch@e |larghezza~ @e una speziale e non generale
+cortesia.>  E ivi, IV, 13: <E privazione di bene la loro
+possessione (^delle ricchezze~), ch@e, possedendo quelle, 
+larghezza non si fa, che @e virt@u.>  E ivi, 27: <La larghezza
+vuole essere a luogo e tempo, tale che il largo non noccia a s@e, 
+n@e ad altrui.  La qual cosa non si pu@o avere senza prudenza e
+senza giustizia.>
+
+	|34-36.~  Notati dall'Alfieri.  Il Poeta, sentendo che, 
+tacendo le altre, solo parlava quest'anima, le chiede chi sia, e
+perch@e sola a parlare.  |O anima~ ecc.; la domanda arieggia, in
+parte, a quella di Farinata (^Inf.~, X, 22-23).  -- |Tanto ben~;
+il Tommaseo (e lo segue lo Scartazzini) intende |ben~ per sost.;
+e si fa richiamo al v. 121; ma il |ben~ di quel verso pu@o, pi@u
+che altro, comprendere le |degne lode~, che abbian qui tosto; e
+perci@o nulla toglie che |ben~ qui sia avverbio; onde la frase
+|ben favelle~ conviene a capello all'altra (^Purg.~, XVI, 130), 
+bene ^argomenti~, parlar bene, con ragione, con verit@a.  --
+|Degne lode~; lodevoli esempi, atti degni di lode, quelli cio@e
+della Vergine, di Fabrizio e di San Nicol@o.  -- |Rinnovelle~;
+ripeti, ricordi (il ^renovare dolorem~ di Virgilio, e
+^rinnovellare disperato dolor~ del Nostro, ^Inf.~, XXXIII, 4-5, 
+non @e che rivocare alla memoria).
+
+	|37-39.~  Notati dall'Alfieri.  |Senza merc@e~, senza
+ricompensa, intendendo de' suffragi (cf. vv. 40-41).  -- |S'io
+ritorno~ ecc.; il |se~ non @e qui condizionale, ma sta in senso di
+^poich@e, dacch@e~ (cf. ^Purg.~, XVI, 40); dunque: far@o pregare per
+te, dacch@e a me @e concesso di ritornare nel mondo dei viventi a
+compiere quella vita umana che @e un'ombra rispetto all'eterna. 
+Altrove dice la presente ^vita corta~, per antitesi all'^eterna~
+(^Inf.~, XII, 50-51); e ^Purg.~, XXXIII, 54: ^il viver ch'@e un
+correre alla morte.~  -- |Di quella vita che al termine vola~; e
+vola anche il verso, nota egregiamente il Cesari.
+
+	|40-42.  Ti dir@o~; ti parler@o, secondo la tua doppia
+dimanda (vv. 35-36).  -- |Non per conforto~ ecc.; il Lana (e
+perci@o l'Ottimo) coll'Anonim. Fior. intende che quest'anima non
+isperava punto ne' suffraggi de' suoi discendenti, sapendoli
+malvagi (v. 43 e segg.); il Buti @e d'avviso doversi intendendere
+che le anime del Purgatorio non si dan pensiero n@e di fama n@e
+d'altra cosa mondana; onde ne viene che nel |merc@e~ del v. 37
+sarebbe da intendersi che Dante tali cose promettesse; e ognun
+vede che l'interpretazione @e strana, e sarebbe la prima volta in
+tutta la Cantica che il Poeta fa tale profferta a quelle anime
+sante.  Il Lombardi (e con lui quasi tutti i moderni) tiene per
+la prima interpretazione.  Lo Scartazzini poi, sottilmente
+raffrontando questo luogo con altri, e osservando che s'anche
+quest'anima non aveva speranza di suffragi da parte de' suoi
+congiunti, pure poteva sperare in quelli del suo interlocutore, e
+invece nulla chiede, opina che ci@o avvenga perch@e essa vedesse
+che il termine della sua purgazione era prossimo oramai, e che
+perci@o non aveva pi@u duopo di suffragi.  -- |Tanta~ ecc.; aveva
+capito che il Poeta era ancor vivo (vv. 38-39), e che dunque era
+per singolar grazia di Dio se faceva quel viaggio (cf. ^Purg.~, 
+VIII, 67-69; XIV, 79-80; XVI, 40-42; ^Par.~, X, 82-87).
+
+	|43-45.~  Notati dall'Alfieri.  |Radice~; progenitore, 
+capostipite (cf. ^Par.~, XV, 89).  -- |Mala pianta~; la casa de'
+Capetingi.  -- Perci@o Adamo @e detto dal nostro Autore ^Radix
+humanae propaginis~, (^Vulg. El.~, I, 8); e Davide ^Radice della
+progenie di Maria~ (^Conv.~, IV, 5); e ^umana radice~, altrove
+(^Purg.~, XXVIII, 142), Adamo ed Eva.  -- |La terra cristiana~;
+tutta la Cristianit@a (n@e il re di Francia si chiamava peranco
+^Maest@a cristianissima~).  -- |Aduggia~ (cf. ^Inf.~, XV, 2, dove
+nel senso proprio, far ^ombra~), per estens., mortifica colla sua
+ombra malefica.  -- |Se ne schianta~ (altrove, in egual senso, 
+usa ^discindere~, ^Purg.~, XXXII, 43), se ne stacca, se ne
+coglie; a cagione del male, che sul mondo tutto diffonde la mia
+casa, tutta l'umana famiglia opera male, il mondo @e ^tutto
+diserto di bene~ (^Purg.~, XVI, 60); il |ne~ alcuni riferiscono a
+|pianta~; io sto con chi lo riferisce |a terra cristiana~; ed @e
+troppo chiaro.
+
+	|46-48.~  Col nome delle principali citt@a della Fiandra
+(|Doagio~, il ^Duacum~ de' Romani, oggi ^Douay; Guanto, Gand;
+Bruggia, Bruges~), vuol intendere la Fiandra in genere; e da
+quanto era accaduto nel 1299 (si vegga Villani, ^Cron.~, VIII, 32
+e 55-58), adombra quanto era vicino ad avvenire, cio@e che i
+Francesi sarebbero cacciati dalla Fiandra; e ci@o accadde colla
+battaglia di Coltrai (25 marzo 1302), nella quale, scrive il
+Villani, de' Francesi morirono ^pi@u di seimila cavalieri, e
+pedoni senza numero.~  -- |Potesser~; avessero la necessaria
+forza a scuoterne il giogo.  -- |Ne saria vendetta~; si
+vendicherebbero di tanta oppressione (cf. ^Purg.~, X, 83).  --
+|La cheggio~ ecc.; e questa vendetta io la invoco da Dio sovra i
+miei discendenti.  Non @e che le anime sante non si prendano
+premura amorosa dei loro cari lasciati di qua (cf. ^Summ.
+Theol.~, I, 89, 8); e ne vedemmo non pochi esempi; ma appunto
+perch@e il loro amore, anzich@e misurarsi dalla carne e dal sangue
+si affina nell'eterna Giustizia, questa, che @e amor vero, informa
+ogni loro amore, onde non altro desiderano che il trionfo del
+bene e la punizione d'ogni male.  -- |Giuggia~ (dal provenzale
+^jutjar~, e dal francese ^juger~; ma ^giuggiare~ @e anche in Fra
+Guittone due volte, avverte il gran ^Vocabolario di Torino~), 
+giudica; Dio, somma Giustizia, perch@e tutto vede (^Par.~, XXI, 
+50), giudica tutto, Giustizia infallibile (^Inf.~, XXIX, 56).
+
+	|49-51.~  Notati dall'Alfieri.  |Di l@a~; in vita, nel
+mondo.  -- |Ciapetta~ (dal francese ^Chapet~, o ^Capet~, che pi@u
+comunemente dicesi ^Capeto~).  Il Vellutello fu il primo tra'
+chiosatori di Dante ad accorgersi che qui c'era confusione di
+personaggi; ma non colse nel vero quando opin@o doversi intendere
+questo tratto riferirsi ad Ugo Magno, padre di Ugo Capeto (in ci@o
+seguito da quasi tutti i moderni).  Bisogna invece distinguere, 
+dacch@e non @e possibile riferirsi ad Ugo Magno il nome di
+^Capeto~, che fu esclusivo di Ugo suo figlio; n@e a lui pu@o
+riferirsi il v. 53, perch@e la dinastia de' Carolingi precedente
+alla Capetingia ^venne meno~ con la morte di Luigi V il
+Neghittoso (ann. 987), essendo Ugo Magno morto gi@a da trent'anni. 
+Ma neppure potrebbesi riferire ad Ugo Capeto quanto il Poeta
+afferma in appresso (vv. 58-68), giacch@e, al venir meno dalla
+precedente dinastia, non suo figlio, ma egli stesso si ebbe la
+corona, e con lui appunto cominciano ^le sacrate ossa~ {v.60} dei
+re Capetingi.  L'aver il Poeta fatto di due distinte persone una
+sola, nota il Casini, nessuno pu@o fargliene colpa, ove si
+consideri che al tempo di Dante mancava ogni sussidio di opere
+storiche e genealogiche, e Dante era pur uomo come gli altri, n@e
+poteva indovinare ci@o che i libri e la tradizione non gli
+dicevano.  Chi per@o, ben avverte lo Scartazzini, crede che Dante
+fosse onnisciente, @e padrone di sciogliere le accennate
+difficolt@a a modo suo.  -- |Filippi e Luigi~; la dinastia de'
+Capetingi, per pi@u di dugent'anni fino alla morte di Dante, non
+ebbe infatti sul trono che re di nome ^Filippo~ o ^Luigi~: ecco
+l'albero genealogico di questa famiglia (cf. Ferri Mancini, 
+^Manuale di Genealogia~ ecc.; Osimo, 1883):
+
+	Wittichin (oriundo della Sassonia); Roberto il Forte (che
+nell'861 ebbe da Carlo il Calvo il ducato di Neustria e il
+Blois); Roberto I ({morto} 923): Ugo Magno ({morto} 17 Giugno
+956); Ugo Capeto (re, 3 Luglio, altri Maggio, 987; {morto} 24
+Ott. 936); Roberto II (n. 970; {morto} 1031); Enrico I (n. 1005;
+{morto} 4 Agosto 1060); Filippo I (n. 1053; {morto} 29 Luglio
+1108); Luigi VI, ^il Grosso~ (n. 1081; {morto} 1 Ag. 1137); Luigi
+VII, ^il Giovane~ (n. 120; {morto} 18 Sett. 1180); Filippo II
+Augusto (n. 21 Lug. 1165; {morto} 14 Luglio 1223); Luigi VIII, 
+^il Leone~ (n. 3 Sett. 1187; {morto} 8 Nov. 1226); Luigi IX, ^il
+Santo~ (n. 25 Apr. 1215; {morto} 25 Agosto 1270); Filippo III, 
+^l'Ardito~ (n. 1 Maggio 1245; {morto} 5 Ott. 1285); Filippo IV, 
+^il Bello~ (n. 1268; {morto} 29 Nov. 1314); Luigi X, ^il Rissoso~
+(n. 4 Ott. 1289; {morto} 5 Giugno 1316); Filippo V, ^il Lungo~
+(frat. di Luigi X, n. 1291; {morto} 3 Genn. 1322).
+
+	-- |Novellamente~; quella de' Capetingi fu nuova
+dinastia, successa alle due precedenti, che ^ressero Francia~
+(Merovingi e Carolingi.
+
+	|52.~  Notato dall'Alfieri.  |Beccaio~; nel senso, che i
+Francesi danno alla lor voce ^bouchier~ mercante di buoi.  E
+pretta leggenda, dacch@e Ugo Capeto era figlio d'Ugo Magno, duca
+di Francia, Borgogna e Aquitania e conte di Parigi e d'Orleans;
+ma la leggenda era vecchia, e Dante la segu@i, n@e occorre, credo
+io, volerci vedere fini artistici, come sospetta il Casini; cos@i
+si credeva allora, e cos@i Dante parl@o.  Il Biagioli afferma, che
+Francesco I di Francia, leggendo questo punto del Poema, disse
+che il ^Poeta toscano mentiva per la gola.~
+
+	|53-60.  Regi antichi~; quelli della precedente dinastia
+de' Carolingi.  -- |Venner meno~ (cf. ^Purg.~, XIV, 96), 
+finirono, cess@o la loro schiatta (cf. ^Purg.~, XIV, 100, 108, 
+115).  -- |Fuor ch'uno~ ecc.; giova ripetere, che non @e qui
+possibile accordar Dante colla storia; se qui parla Ugo Magno, e
+il figlio promosso alla corona @e Ugo Capeto, non @e vero che, 
+vivendo lui, gli antichi regi (^fosser venuti meno~ ecc., ch@e de'
+Carolingi vivevano ancor parecchi, che potevano prender la
+corona; e se parla il Capeto, allora non @e vero che alla corona
+fosse |promossa la testa di suo figlio~, ma invece la prese egli
+stesso.  Storicamente: Ugo Magno fu potente ministro sotto Luigi
+IV (936-954), e ne' primi due anni del regno di Lotario; pi@u che
+dal re il regno dipendeva dal ministro.  Luigi V il Neghittoso, 
+succeduto a Lotario (986), mor@i dopo soli quindici mesi di regno
+(987); de' Carolingi il solo vivente a quest'epoca era Carlo duca
+di Lorena, fratello di Lotario e zio di Luigi V, il quale
+pretendeva alla successione; ma Carlo essendosi reso vassallo
+dell'Impero germanico, erasi con ci@o alienato il buon favore de'
+suoi connazionali; della qual cosa approfittando destramente il
+Capeto, si ebbe la corona, ed assedi@o in Laon Carlo, che s'era
+armato contro di lui, e vintolo (989), lo mise in una torre, dove
+mor@i nel 991.  Ma chi fu de' Carolingi, che ^si rese in panni
+bigi~, se tal frase altro comunemente non significa, che ^farsi
+monaco~?  E in questo senso intesero i commentatori antichi e i
+pi@u dei moderni, non curandosi per@o di ricercare e dirci chi era
+costui.  N@e pare potersi accettare l'opinione del Lombardi, 
+bench@e seguito dal Biagioli (per miracolo!), dal Borghi, dal
+Bianchi e da qualche altro, che |renduto in panni bigi~ intende
+^spogliato della porpora regale.~  Dovendosi dunque tener fermo
+il senso della frase, quale fu intesa dagli antichi e da molti
+de' moderni, e non trovandosi in sullo spegnersi della dinastia
+carolingica chi siasi fatto monaco, non resterebbe che l'opinione
+del P. Venturi, seguito dal Filatete, dal Witte e da qualche
+altro (opinione che lo Scartazzini accetta e difende), che Dante
+qui confonda l'ultimo de' Carolingi coll'ultimo de' Merovingi, 
+Childerico III, che dopo d'essere stato deposto dal trono per
+opera di Pipino (752), si diede a vita claustrale.  -- |Trova'mi~
+ecc.; mi trovai (ed @e scaltra la frase, che risulta a un dire:
+quasi senza cercarlo) in mano il governo del regno; -- |stretto~;
+non gli poteva sfuggire.  -- |Possa~ ecc.; nuovi acquisti di
+possessi territoriali, e prevalenza sugli altri del regno.  --
+|D'amici pieno~; e, in siffatte condizioni, gli amici non gli
+potevano mancar davvero.  -- |Vedova~; rimasta vacante alla morte
+di Luigi V.  -- |Di mio figlio~; cf. 49 e segg., nel commento. 
+-- |Di costoro~; dei ^Filippi~ e ^Luigi~ (v. 50).  -- |Le sacrate
+ossa~; le persone consacrate, i consacrati re di Francia, che
+appunto nella cattedrale di Reims ricevevano la consacrazione
+regale; e cos@i intesero i pi@u.  Ma anche su ci@o si volle far
+quistione; e gi@a l'Ottimo avendo chiosato: ^per contrario parla, 
+cio@e maledette ed esecrabili~, ecco il Lombardi, col Portirelli, 
+col Perticari e con qualche altro, intendere qui ^sacrato~ in
+senso di ^esecrando, maledetto.~  E bens@i vero risponde lo
+Scartazzini che ^sacro~ si us@o in tal senso, come il lat.
+^sacer~, ma ^sacrato~ no; anche Dante (^Purg.~, XXII, 40-41), 
+traducendo il ^sacra fames~ di Virgilio, dice ^sacra fame~, ma
+non ^sacrata~; e di pi@u tale interpretazione fa chiamar
+^maledette~ anche le ossa di S. Luigi, ci@o che il Poeta
+certamente non volle.  E sta bene; ma non parmi bene conchiudere, 
+come fa lo Scartazzini: <Bisogner@a dunque ammettere (col Blanc e
+coll'Andreoli), che il termine |sacrate~ @e qui usato nel suo
+significato proprio di consacrate o unte, ma nello stesso tempo
+con ironica allusione alla cerimonia della consecrazione, ^alla
+venerabile e santa cresima~, con cui si ungevano tali personaggi
+come erano quelli che il Poeta qui mette in iscena.>  Ognuno pu@o
+qui conoscere, direbbe Dante, ^il velen dell'argomento.~  Io
+credo fermamente che qui ironia non ci sia per nessun conto;
+Dante poteva bens@i sprezzare le persone, che a lui parevano
+indegne del posto, che occupavano, per quant'alto si fosse, anzi
+allora tanto pi@u, e se ne vantava (cf. ^Par.~, XVII, 133-135); ma
+Dante non era cos@i fatto da prendere in beffa nessuna sacra
+cerimonia, meno ancora una consacrazione; credo mi dar@a ragione
+chiunque ben consideri l'indole dell'Allighieri; ma se anche da
+tutti cotal ragione mi venisse negata, poco importerebbe, 
+quand'essa mi vien qui data palesemente da Dante stesso. 
+Infatti, quando la dinastia capetingia cominci@o a ^far male~?
+dall'acquisto della ^gran dote provenzale~ {v.61}, dopo la quale
+comincia il ^mal fare~; prima ^se poco valea, pur non facea male~
+(vv. 61-63); e i fatti, che il Poeta tosto allega dalla storia, 
+son tutti posteriori al 1266; dunque resta escluso S. Luigi IX. 
+Perci@o, se Dante cos@i chiarisce il suo pensiero, come si pu@o
+intendere ch'egli intendesse ^esecrandi~ tutti i discendenti da
+Ugo fino a quell'epoca?  Che si pu@o opporre?  Scrive Mauro Ricci
+(^Dante Catt., Apost., Romano~, p. 193): <Il diritto divino @e la
+ragione per la quale, sebbene esso credesse venuta da un beccaio
+di Parigi la dinastia de' Capeti, pure chiama |sacrate le ossa~
+di quei re.  Cosa ch'io noto a bello studio per mostrare quanto
+s'ingannino, a parer mio, quelli interpreti che ci@o intesero nel
+senso di ^esecrande~, se pure non vogliasi tenere l'incredibile
+opinione che quando al ^santissimo trionfatore Messer Arrigo~
+Dante scriveva: ^In re sacrato tu sei~; quando lo avvertiva: ^Gli
+alti consigli del sacratissimo re guardino a questo~
+(nell'^Epistola~ ad Enrico VII); quando chiamava ^sacratissimo~
+il principato di Can Grande in Verona e Vicenza (-- ^veramente il
+dotto uomo qui prende un leggiero abbaglio, puramente materiale;
+non @e che Dante chiami sacratissimo il~ principato di Can Grande, 
+^ma lo dice~ Vicario Generale del sacratissimo Cesareo Principato
+in Verona ecc. -- volesse gettare in faccia a questi sovrani a
+lui tanto cari la pi@u atroce delle ingiurie.  Queste
+appellazioni, come ancora l'altra sopra Arrigo ^per la divina
+Provvidenza re dei Romani~, e gli epiteti stessi di ^divino~, e
+di ^ministro del Cielo~ dati al medesimo, tutte si derivano dalla
+ferma credenza dell'Allighieri nel ^diritto divino dei re~, che
+fu il cardine di tutta la sua politica, e il fondamento.  Per
+questo predilesse la Monarchia, dove meglio apparisce la
+trasmissione di tal diritto...>  Per@o, in quanto a questo
+^diritto divino~, non dico della universale Monarchia ma dei Re, 
+veggasi la quistione da me discussa nel commento del ^Par.~, XI, 
+6.
+
+	|61-63.~  Notati dall'Alfieri.  |Mentre che~ (cf. ^Inf.~, 
+XXVII, 73; ^Purg.~, I, 86; II, 26; III, 135, e altrove), insino a
+tanto che.  -- |Dote provenzale~; lasciando la chiosa del
+Lombardi (ingegnosa s@i, ma che fa contro al concorde commento di
+quanti il precessero, e che con buoni argomenti fu impugnata dal
+Portirelli), s'ha da intendere non altro che la Provenza, venuta
+a Carlo I d'Angi@o, fratello di S. Luigi IX, per avere sposata
+(1245) la figlia minore di Raimondo Berlinghieri, conte di
+Provenza, Beatrice, la quale, erede del padre port@o in dote
+quella contea (cf. ^Par.~, VI, 128 segg.).  -- |Al sangue mio~
+ecc.; molti chiosatori, s@i antichi che moderni, intendono:
+<insino a tanto che la dote provenzale non tolse alla mia cosa il
+disonore dell'oscura origine, di discendere cio@e da un beccaio di
+Parigi;> ma gi@a, fu notato, tale |vergogna~ era stata tolta ben
+prima, se @e vero che lo stesso Ugo Capeto ebbe in moglie una
+sorella dell'imperatore Ottone I, e se parecchi de' suoi
+discendenti fino a Luigi IX, s'erano imparentati colle pi@u
+illustri e potenti case d'Europa.  Resta dunque che s'intenda
+|vergogna~ per ci@o che Dante definisce ^tema di disonoranza~, 
+ovvero riguardo di non cadere in quelle cose che a vergogna
+inducono (^Conv.~, IV, 19; cf. ivi, 25); e cos@i, con alcuni
+antichi, intendono parecchi moderni.  Ed @e forte l'argomento
+dello Scartazzini: <Ugo non vuol certo rimproverare alla sua
+stirpe di non vergognarsi pi@u della sua ignobile origine, il che
+sarebbe un rimprovero poco meno che ridicolo, ma ei vuol
+rimproverarle d'aver perduto persino la vergogna del
+ladroneggiare.>  Ed @e quello, in sostanza, che il nostro Autore
+rimproverava ai Fiorentini (^Epist.~, V, 2): ^Non modo Sapientia, 
+sed initium eius ad poem culpae vobis ablatum est: nulla conditio
+delinquentis formidolosior, quam impudenter et sine Dei timore
+quidquid libet agentis.~  E il Poeta qui pose come una data, cio@e
+l'epoca della |gran dote Provenzale~; il che vuol dire sino a
+Carlo d'Angi@o, che per l'acquisto fatto della |dote provenzale~
+insuperb@i, e agogn@o a un reame, non badando alle arti inique per
+conseguirlo e mantenerselo (vv. 64-69): dunque, al trar de'
+conti, da quando gli Angioini ebbero il regno di Napoli; e per
+ci@o @e escluso S. Luigi IX.  Dino Compagni (^Cron.~, lib. II, 18):
+<O buon re Luigi, che tanto temesti Iddio, ov'@e la fede della
+real casa di Francia, caduta per mal consiglio, non temendo
+vergogna?> (e parla della venuta in Firenze di Carlo di Valois). 
+-- |Poco valea~ ecc.; non era molto virtuosa la mia schiatta, ma
+tuttavia non era neppure molto malvagia.  Curiosa questa postilla
+inedita del Giuliani, dove legge ^volea~ (per@o nella sua ediz.
+del testo della ^Commedia~ segu@i egli pure la lez. comune): <Dal
+verso 56 si scorge che era grande la ^possa~ di quella ^cosa~, e
+quindi ^poco volea~ leggi, perch@e @e appunto ^la sete del poco~, 
+l'essere contenti del poco, che li faceva stare ^dentro lor
+meta~: ^Par.~, XIX, 123.>
+
+	|64-66.~  L'Alfieri not@o fino |a rapina.~  |L@i~; da
+quell'epoca; ed @e troppo chiaro e necessario questo senso, per
+non accettare l'opinione d'alcuni, che |l@i~ intendono per
+avverbio di luogo, ci@o ^in Provenza.~  -- |Con forza~ ecc.; con
+violenza e con raggiri.  Volendo il Poeta escludere da queste
+riprensioni S. Luigi, comincia col figlio e successore di lui, 
+Filippo III l'Ardito, il quale s'impossess@o delle contee di
+Valois, del Poitou e dell'Alvernia, e poi del regno di Navarra
+(1284).  -- |Per ammenda~; per penitenza del male fatto ne fece
+di maggiori; ironia sanguinosa, alla quale d@a vigore e risalto il
+ripetere tre volte la stessa frase in rima.  -- |Pont@i~ ecc.; si
+scorge chiaramente, che tutta l'arte del Poeta, nello svolgere
+questo intreccio di fatti e di circostanze mira soprattutto
+contro gli Angioini di Napoli e contro Filippo IV il Bello.
+Filippo IV tolse agli Inglesi la contea del Ponthieu, nella bassa
+Piccardia.  -- |Normandia~; la Normandia, quando i Normanni sotto
+Guglielmo il Bastardo, occuparono l'Inghilterra fu aggregata a
+quel regno; Filippo II nel 1204 la tolse all'Inghilterra, ma fu
+pi@u volte occupata e ripresa da ambe le parti.  -- |Guascogna~;
+fa da Filippo IV tolta al re d'Inghilterra Edoardo I.
+
+	|67-69.  Carlo~ ecc.; Carlo I d'Angoi@o fratello di S.
+Luigi (cf. ^Purg.~, VII, 113) cal@o in Italia (1265) alla
+conquista del regno di Napoli e di Sicilia contro Manfredi (cf.
+^Purg.~, III, 118-120).  -- |Curradino~; figlio dell'imperatore
+Carrado IV, ultimo discendente degli Hohenstauffen, nato nel
+1252.  Erede dei diritti paterni, nel 1267 venne con un esercito
+contro Carlo d'Angi@o; ma fu sconfitto (23 Agosto 1268) nella
+battaglia di Tagliacozzo (cf. ^Inf.~, XXVIII, 17-18); e caduto in
+mano del nemico, fu mandato al patibolo sur una piazza di Napoli
+(2 Ottobre).  E l'Ariosto cant@o:
+
+     Vedete un altro Carlo che, a' conforti
+     Del buon Pastor, foco in Italia ha messo, 
+     E in due fiere battaglie ha due re morti, 
+     Manfredi prima e Corradino appresso.
+
+Veggasi ne' ^Racconti storici e morali~ di Cesare Cant@u quello
+intitolato ^L'ultimo degli Hohenstauffen~, specialmente il
+capitolo ^Processo e morte.~  -- |Ripinse al ciel~ ecc.; perch@e
+l'anima umana @e immediatamente creata da Dio (cf. ^Purg.~, XVI, 
+85; XXV 68-72), si dice, liberata del corpo, ritornare al Cielo, 
+onde venne (secondo quello dell'^Ecclesiaste~, XII, 7: ^redeat
+spiritus ad Deum, qui dedit illum~); quindi di Alessandro da
+Romena (^Epist.~, II, 1): ^Coelestem, unde venerat secundum
+spiritum, remeavit ad patriam~; e cf. ^Par.~, XI, 116; ^Conv.~, 
+IV, 28, ad med.  -- |Tommaso~; S. Tommaso, o ^il buono Fra
+Tommaso d'Aquino~ (^Conv.~, IV, 30; cf. ^Par.~, X, 99); S.
+Tommaso d'Aquino, dell'Ordine Domenicano, dimesso l'ufficio di
+lettore all'universit@a di Parigi, si trovava a Napoli, quando
+Papa Gregorio X indisse il Concilio generale di Lione, al quale
+il santo doveva recarsi.  Messosi in viaggio nel gennaio del 1274
+e giunto nella Campania, fu sopraffatto da improvviso malore, 
+onde fermossi a Fassanova nell'abbazia de' Cistercensi, e nel
+corso della sua malattia, ne dice il Breviario Romano, ^Cantica
+canticum explanavit~; e quivi mor@i cinquantenne a' 7 di Marzo di
+quell'anno, quattro mesi e sette giorni prima dell'altro grande
+Dottore S. Bonaventura; e l'anno stesso che il novenne Allighieri
+vide la prima volta Beatrice.  Che Carlo d'Angi@o abbia fatto
+uccidere S. Tommaso, si @e affermato e negato, e si son poscia
+impugnate e affermazioni e negazioni; i chiosatori primitivi (non
+@e necessario tener canto de' posteriori) dicon di s@i (e ognuno li
+pu@o consultare); ma sapevano di lor notizia il fatto, oppure non
+fanno altro che poggiarsi all'affermazione di Dante, narrando la
+cosa o a capriccio, o secondo una vaga tradizione popolare, che
+accenna a circostanze, che la critica rifiuta?  E il Villani pure
+ammette il tradimento di Carlo (^Cron.~, IX, 218); e l'opinione
+del Villani @e certo di gran peso per la sua riconosciuta lealt@a;
+ma non potrebbe essere che la voce fosse cos@i diffusa, che
+all'onesto uomo avesse colore di verit@a?  Per me @e di non poco
+valore il fatto, che il Villani scriveva di ci@o un settant'anni
+dopo la morte di S. Tommaso.  Dunque, si chieder@a, Dante ha
+mentito? adagio a' ma' passi; mentire significa dire il falso
+sapendo che @e falso; e Dante, not@o bene su ci@o il Moiraghi, non
+si mostra mai calunniatore o menzognero; severo s@i, falsario mai. 
+Tenendo dunque ferma la buona fede di Dante, non pu@o darsi
+ch'egli pure abbia raccolto una leggenda credendola un fatto? 
+Certo, in quanto a questa discussione, sia pel s@i che pel no, 
+com'@e bene leggere quanto ne dicono i chiosatori primitivi e il
+Villani, e il rincalzo, che s'ingegn@o di darvi D. Pietro Moiraghi
+(^La morte di S. Tommaso~ ecc.; Roma, 1885), sar@a altrettanto
+bene ponderare spassionatamente quanto, in opposizione al
+Moiraghi scrisse il prof. Majocchi (^S. Tommaso d'Aquino mor@i di
+veleno~?  Modena, 1889).  Certo, nessuno vorr@a negare che non
+abbia una capitale importanza quanto Tolommeo de' Fiadoni, 
+Lucchese, dell'Ordine de' Predicatori, discepolo e confessore di
+S. Tommaso ne racconta nella sua ^Hist. eccles.~, lib. XXIII, 
+cap. 8 (presso il Muratori ^Rer. Ital. Script.~, vol. XI, pagg.
+1168-1169), cit. dallo Scart.; egli scrive: ^Hujus etiam tempore~
+(cio@e di Papa Gregorio X) ^praeclarus Doctor Frater Thomas da
+Aquino migravit ad Dominum.  Vocatus enim ad Concilium per
+Dominum Gregorium, ac recedens de Neapoli, ubi regebat, et
+veniens in Campaniam, ibidem graviter infirmatur.  Et quia prope
+locum illum nullus Conventus Ordinis Praedicatorum habebatur, 
+declinavit ad unam solemnem Abbatiam, quae dicitur Fossanova, et
+quae Ordinis erat Cisterciensis, in qua sui consanguinei domini
+de Ceccano erant patroni, ibique sua aggravata est aegritudo. 
+Unde cum multa devotione, et mentis puritate, et corporis, qua
+semper floruit, et in Ordine viguit, quemque ego probavi inter
+homines quos umquam novi, qui suam saepe confessionem audivi, et
+cum ipso multo tempore conversatus sum familiari ministerio, ac
+ipsius auditor fui; ex hac luce transiit ad Christum.  Tradunt
+autem Historiae, quod multis miraculis claruit, et multis
+indiciis Deus suam sanctitatem ostendit, propter quam causam sui
+consanguinei cum sint potentiores de Campania, non permiserunt
+corpus inde transferri.~>  Il Muratori, cos@i spassionato e libero
+ne' suoi giudici, scrisse ne' suoi ^Annali~ (all'anno 1274): <Io
+non so qual fede si possa prestare a Dante, che cel rappresenta
+tolto dal mondo con lento veleno, fattogli dare dal re Carlo per
+timore, che non facesse de' mali uffizi alla Corte Pontificia a
+cagion della persecuzione da lui fatta ai Conti d'Aquino suoi
+fratelli.>  Invece Pier di Dante dice che Carlo il fece morire, 
+^suspicatus ne Papa fieret, ut credebatur.~
+
+	|70-75.  Vegg'io~ (cf. ^Purg.~, XXIII, 98; XXIV, 88;
+XXXIII, 40).  E ora cominciano, in forma di profezia, gli
+avvenimenti posteriori al 1300.  -- |Non molto~ ecc. (|ancoi~;
+cf. ^Purg.~, XIII, 52); vedo prossimo il momento nel quale un
+altro Carlo della mia discedenza |tragge~, esce di Francia, per
+far meglio conoscere la sua malvagit@a e quella della sua razza. 
+-- |Carlo~; Carlo conte di Valois e d'Alen$con, figlio di Filippo
+l'Ardito e fratello di Filippo il Bello, nato del 1270.  Nel 1290
+spos@o Eleonora figlia di Carlo II d'Angi@o, che gli port@o in dote
+le contee d'Angi@o e del Maine.  Nelle guerre della Francia colla
+Fiandra e coll'Inghilterra si mostr@o uomo di grande valore. 
+Rimasto vedovo di Eleonora d'Angi@o nel' 99, spos@o nel gennaio
+del' 301 Caterina di Courtenay, non senza speranze perci@o di
+conseguire l'impero d'oriente.  Discesso in Italia per togliere
+la Sicilia agli Aragonesi, che al tempo del Vespro l'avevan tolta
+agli Angioini (cf. ^Par.~, VIII, 73), per invito di Bonifacio
+VIII, che desiderava di metter pace in Firenze, venuto in Anagni, 
+dove il Papa risiedeva; da lui, come scrive il Pelli, fornito di
+danaro e di truppe recossi a Firenze, dove, sotto specie di
+paciere, entr@o, secondo il Compagni, il 4 novembre del 1301; ivi, 
+venendo meno a giurate promesse, risollev@o e mise al potere la
+parte Nera, donde l'esilio de' Bianchi, compreso Dante (cf.
+^Inf.~, VI, 67; X, 79-81); e cos@i le male arti di questo principe
+a comporre pacificamente le discordie civili, non fecero che
+rinfocolarle e rincrudirle (cf. Balbo, ^Vit. Dant.~, I, 11 e 12;
+Berardinelli, ^Concetto~ ecc., sez. 230).  A ci@o si riferiscon le
+parole, colle quali sotto il nome di Totila, il distruttore di
+Firenze (cf. ^Inf.~, XIII, 149), il nostro Autore adombra Carlo
+di Valois (^Vulg. El.~, II, 6): ^Eiecta maxima parte florum de
+sinu tuo, Florentia, nequicquam Trinacriam Totila serus adivit~
+(il che accenna benissimo ai vv. 75-76).  Dopo s@i belle prodezze, 
+e avendo spillato dai Fiorentini per forza e per inganno danari, 
+nell'aprile del 1302 si volse all'impresa della Sicilia fornito
+di molte forze; ma non riusc@i nell'impresa, e in poco tempo, 
+scrive il Villani (^Cron.~, VIII, 50) ^senza acquistare terra
+neuna di rinomo~ (-- cf. v. 76 --), ^se non Termole, messer Carlo
+e la sua gente furono per malattia di loro e de' cavalli, e per
+diffalta di vittuaglia, quasi straccati.  Per la qual cosa per
+necessitade convenne che si partisse con suo poco onore.~ 
+Ritornassene in Francia nel novembre di quell'anno, e mor@i a
+Nogent nel 1325, lasciando un figlio che, assunto al Trono nel
+1328 col nome di Filippo VI, di@e cominciamento in quel regno al
+ramo dinastico dei Valois.  -- |Senz'arme~ ecc.; esce di Francia
+senza esercito; racconta il Villani (^Cron.~, VIII, 49), che
+Carlo part@i di Francia ^con pi@u Conti e Baroni, e con cinquecento
+cavalieri franceschi in sua campagnia~; dunque, osserva il
+Lombardi, con grande corteggio, ma |senz'arme.~  -- |Con la
+lancia~ ecc.; cio@e col tradimento e colla frode, come adoper@o
+Giuda contro a Cristo.  Infatti in Valois ^di sua bocca accett@o e
+giur@o, e come figliuolo di re promise di conservare la citt@a in
+pacifico e buono stato; e io scrittore a queste cose fui
+presente; incontanente per lui e per sua gente fu fatto il
+contradio~ (Villani, ^Cron.~, VIII, 50).  L'Alemanni, nella
+satira seconda:
+
+     L'inganno @e l'arme sua, non spada e lancia.
+
+-- |Ponta~; appunta, spinge.  -- |Fai scoppiar la pancia~ (cf.
+^Inf.~, XX, 82, nel commento); cio@e, chiosa il Lana, scacciandone
+li nobili cittadini, che sono le viscere della patria.  Virgilio
+(^Aen.~, VI, 832-833), delle guerre civili tra Cesare e Pompeo, 
+fa dire ad Anchise:
+
+     Ne pueri, ne tanta animis assuescite bella;
+     Non patriae validas in viscera vertite vires.
+
+     L'entrata del principe Francese in Firenze, com'ho notato
+altrove (^Inf.~, XXIV, 145-150), era reputata dal Poeta il
+^principio della distruzione~ di quella citt@a; e parve che segni
+celesti preludessero a tanta rovina; infatti scrive nel ^Conv.~, 
+II, 14: <In Fiorenza, nel principio della sua distruzione, veduta
+fu nell'aere, in figura d'una Croce, grande quantit@a di questi
+vapori seguaci della stella di Marte.>  E il Compagni (^Cron.~, 
+II, 19): <La sera (^e parmi sia quella del d@i seguente
+all'entrata di Carlo in Firenze~) appar@i in cielo un segno
+maraviglioso; il quale fu una Croce vermiglia, sopra il palagio
+de' Priori.  Fu la sua lista ampia pi@u che palmi uno e mezzo; e
+l'una linea era di lunghezza braccia venti in apparenza, quella
+attraverso un poco minore; la qual dur@o per tanto spazio, quanto
+penasse un cavallo a correre due aringhi.  Onde la gente che la
+vide, e io che chiaramente la vidi, potemmo comprendere che Iddio
+era fortemente contro alla nostra citt@a crucciato.>  E che gli
+uomini onesti di Firenze credessero che Carlo venisse per
+^distruggerlo~, lo attesta Dino (ivi, cap. 7); e di ^distruzione
+della citt@a~ parla nel capo seguente.
+
+	|76-78.~  Notati dall'Alfieri.  |Quindi~; da questa sua
+spedizione in Italia, non acquister@a una signoria (e per questo
+fu detto ^Carlo Senzaterra~).  -- |Peccato ed onta~ ecc.; si
+graver@a di colpe e acquister@a l'onta di perfido; acquisto tanto
+pi@u dannoso, quanto meno egli fa caso delle sue reit@a e perfidie
+e cos@i non se ne pentir@a e morr@a impenitente.  Il Villani
+(^Cron.~, VIII, 50): <Si disse per motto: ^Messer Carlo venne in
+Toscana per paciaro, e lasci@o il paese in guerra; e and@o in
+Sicilia per far guerra, e reconne vergognosa pace.~>  Il Cesari:
+<Scherza amaramente sul nome ^Senza terra~ di questo Carlo mosso
+a conquistar la Sicilia; in luogo della quale, che non conquist@o, 
+guadagn@o infamia di truffatore; guadagno tanto pi@u infelice, 
+quanto egli non ebbe n@e anche il picciol bene di vergognarsene;
+parlar forte e da uom verace e magnanimo.>  E in cotal non
+vergognarsene, e per conseguente non pentirsene n@e anche in sul
+morire, da cristiano profondo il Poeta ripone il massimo dei
+castighi (cf. v. 62, nel commento): ^Hac nimirum persoepe
+animadversione percutitur impius, ut moriens obliviscatur sui, 
+qui dum viveret oblitus est Dei.~  Della spedizione del Valois in
+Sicilia scrive G. Villani (VIII, 50, : <Nel detto anno 1302 del
+mese d'aprile, messer Carlo di Valois fornito in Firenze quello
+perch'era venuto, cio@e sotto trattato di pace cacciata la parte
+Bianca di Firenze, si part@i e andonne a Corte, e poi a Napoli; e
+l@a trovato lo stuolo e apparecchiamento fatto per lo re Carlo, di
+pi@u di cento tra galee e uscieri e legni grossi sanza i sottili, 
+per passare in Cecilia, s@i si ricolse in mare, e in sua compagnia
+Roberto duca di Calavra figliuolo del re Carlo, con pi@u di mille
+cinquecento cavalieri.  E appostato in Cecilia scese per
+guerreggiare l'isola; ma don Federigo d'Araona signore di
+Cicilia, non possendo resistere n@e comparire alla forza di messer
+Carlo in mare n@e in terra, co' suoi Catalani si mise a fare
+guerra guerriata a messer Carlo, andandogli figgendo innanzi di
+luogo in luogo, e talora di dietro a impedirci la vittuaglia, per
+modo, che in poco tempo senza ^acquistare terra neuna di rinomo~, 
+se non Termole, messer Carlo e sua gente furono per malattia di
+loro e de' cavalli, e per difficolt@a di vittuaglia, quasi
+straccati.  Per la qual cosa per necessitate convenne che si
+partisse ^con suo poco onore.~>
+
+	|79-81.~  L'Alfieri not@o |l'altro~, col secondo e terzo
+verso.  |L'altro~ ecc.; @e Carlo II d'Angi@o (cf. ^Par.~, VI, 106;
+XIX, 127; ^Vulg. El.~, I, 12; ^Conv.~, IV, 6), figlio di Carlo I
+d'Angi@o, e padre di Carlo Martello e di Roberto re di Napoli (cf.
+^Par.~, VIII), nato nel 1243.  Fatto prigioniero da Ruggiero di
+Lauria ammiraglio degli Aragonesi nella battaglia navale nel
+golfo di Napoli del 5 Giugno 1284, non fu liberato che tre anni
+dopo la morte del padre per succedergli nel regno di Napoli
+(1288).  -- |Vender sua figlia~; tra le colpe, che gli antichi
+chiosatori e cronisti narrano di lui, si @e quella d'aver dato la
+propria figlia Beatrice, che dicono giovanissima, in matrimonio
+ad Azzo VIII (altri VI) di Este, marchese di Ferrara (cf.
+^Purg.~, V, 77), gi@a vecchio, a ci@o indotto dal molto danaro
+offertogli dal futuro genero.  Per@o la @e una bella commedia il
+leggere come vadano tra loro d'accordo cronisti e chiosatori
+sulla quantit@a del prezzo; infatti il Lana dice che tale
+contratto di nozze fu fatto ^per moltissima pecunia~; l'Ottimo:
+^diede, per moneta che n'ebbe, la figliuola~; ^per una gran
+somma~, Benvenuto; l'Anon. Fior., ^ventimila fiorini~, ^triginta
+millibus florenis~, Pier di Dante; ^centomila ducati~, il Falso
+Boccaccio; e facendo un salto ai moderni, ^cinquantamila
+fiorini~, il Costa; e, pi@u modesto nelle pretese, ^mille ducati
+d'oro~, il Bennassuti: or, chi ha ragione?
+
+	|82-84.  O avarizia~ ecc.; qui l'Ottimo, anima onesta, si
+sfoga cos@i: <Qui sgrida il detto Ugo contr'a questo vizio.  Dice
+Alano nel libro ^De planctu naturae~: dove la pecunia combatte, 
+la forza d'Ercule @e sconfitta.  Chi s'arma con la moneta, siccome
+con pantiere d'argento, poco teme lo impeto del fiume di Tullio, 
+cio@e della eloquenza; poco teme lo impeto della folgore d'Ettore, 
+cio@e l'ardire de' cavalieri; poco teme le malizie della sagacit@a
+d'Ulisse (-- cf. ^Inf.~, XXVI, 55 e segg. --).  Con costei, 
+Lucrezia cambia li adornamenti della sua pudicizia (-- cf.
+^Par.~, VI, 41 --); Penelope pone gi@u la vergogna della sua
+castitade (-- cf. ^Inf.~, XXVI, 96 --); Ippollito, se elli udir@a
+i prieghi del mormorante danaio, non vorr@a matrignare alli
+prieghi della sua matrigna (-- cf. ^Par.~, XVII, 46 --).  Se
+nell'orecchie del giudice mormorer@a la pecunia, per la sua boce
+fia affogata la cetera d'Orfeo (-- cf. ^Inf.~, IV, 140; ^Conv.~, 
+II, 1 --), il canto d'Anfione (-- cf. ^Inf.~, XXXII, II --), e la
+musa di Virgilio.>  -- |Che puoi pi@u farne.~..? che altro puoi
+fare? che altro di peggio ti resta da fase?  -- |S@i tratto~; cf.
+^Purg.~, XIX, 22.
+
+	|85-87.~  L'Alfieri not@o, tranne il secondo.  |Perch@e men
+paia~ ecc.; @e un dire tremendo; e in parte ricorda l'ironico ^per
+ammenda~ {v.69}, veduto poco fa.  Perch@e la malvagie opere fatte
+e future della mia schiatta paiano men gravi per via di
+confronto, vedo le iniquit@a di Filippo il Bello.  Cos@i altrove
+udimmo Nicolo III far confronto tra le colpe addebitate a
+Bonifazio VIII e ^la laida opera~ di Clemente V (^Inf.~, XIX, 82
+e segg.); e cos@i il Camicion de' Pazzi (^Inf.~, XXXII, 69) dire, 
+quasi lieto:
+
+     E aspetto Carlin, che mi scagioni.
+
+-- |Veggio~ ecc.; ^con occhi cattolici~, chiosa lo Scartazzini;
+gi@a; ognuno vede cogli occhi propri.  -- |In Alagna~ (l'antica
+^Alagnia~, capitale degli Ernici), nella Campagna Romana. 
+Benedetto Caetani, nato in Anagni, era successo a Celestino V
+(1294); <nella grandezza dell'animo, scrive il Muratori (^Annali
+d'It., ann.~ 1303), nella magnificenza, nella facondia ed
+accortezza, nel promuovere gli uomini degni alle cariche, e nella
+perizia delle leggi e de' canoni ebbe pochi pari; ma perch@e
+mancante di quell'umilt@a, che sta bene a tutti e massimamente a
+chi esercita le veci di Cristo maestro d'ogni virt@u e
+massimamente di questa, e perch@e pieno d'albagia e di fasto, fu
+amato da pochi, odiato da moltissimi, temuto da tutti.> 
+Cominciati sin dal 1295, tra Bonifazio VIII e Filippo il Bello re
+di Francia, v'eran motivi di forte avversione, specialmente
+quando il Pontefice proclam@o cosa ingiusta, senza il consenso
+della suprema Autorit@a ecclesiastica, l'imposizione di balzelli
+sui beni ecclesiastici e immuni per le stesse leggi del regno; e
+tali motivi si fecero pi@u forti quando Filippo, persuaso
+dell'arbitrato di Bonifazio nelle quistioni tra lui e il re
+d'Inghilterra Edoardo I, vide che la sentenza del Papa tornavagli
+sfavorevole; onde poscia quel re, a mostrare ancor meglio il suo
+disgusto contro Bonifazio, accoglieva con molto onore alla sua
+corte Stefano e Sciarra Colonna, di Bonifazio aperti e giurati
+nemici.  Di tutto questo viluppo di cose, del pro e del contra, 
+la cui discussione non @e della natura d'un commento, potr@a il
+lettore esaminare quanto ne fu scritto da molti (specialmente dal
+P. Tosti nella sua Vita di Bonifazio VIII) e pi@u di recente dal
+dottissimo Tripepi (cf. il volume ^Difesa scientifica e
+letteraria di alcuni sommi Pontefici~, Roma, 1879, dalla pag. 249
+alla pag. 549).  Il fatto @e che Bonifazio scomunic@o il re (13
+aprile 1303) il quale convoc@o gli Stati generali, accusando
+nientemeno che di eresia il Pontefice, misconoscendone la
+legittimit@a, e appellandosi contro di lui a un Concilio ecumenico
+perch@e deponesse Bonifazio, e altro Papa fosse eletto in luogo
+suo.  Aveva torto il Papa, di fronte a tanta pervicacia, di
+minacciare di sciogliere i Francesi dal dovere di fedelt@a verso
+quel re?  Ma in questa il Pontefice fu arrestato in Anagni da
+Guglielmo di Nogaret, emissario del re, e da Sciarra Colonna (7
+settembre 1303), ma dopo tre giorni liberato a furia di popolo. 
+-- |Fiordaliso~ (^fleur de lis~), il giglio, insegna della casa
+reale di Francia (cf. ^Purg.~, VII, 105; ^Par.~, VI, 100, 101). 
+-- |Nel Vicario suo~ ecc.; nella persona del suo Vicario; questa
+espressione, cos@i chiaramente cattolica, spunta tutte le altre
+qui e qua sparse nel Poema contro alla persona di Bonifazio;
+qualunque fosse l'opinione del Poeta intorno a Bonifazio come
+uomo, qui non fa mistero della sua fede, parlando di lui come
+Papa; e si rammenti quante volte nella ^Monarchia~ e
+nell'^Epistolario~ chiama il Papa Vicario di Ges@u Cristo.  --
+|Catto~ (dal ^capere~ de' Lat.), preso, catturato.
+
+	|88-90.  Veggiolo~; veggio Cristo ecc.  Narra il Villani
+(^Cron.~, VIII, 63), che <Sciarra della Colonna con genti a
+cavallo in numero di trecento, e a pi@e di sua amist@a assai, 
+soldata de' danari del re di Francia, colla forza de' signori da
+Ceccano e da Supino, e d'altri baroni di Campagna, e de'
+figliuoli di messer Maffia d'Alagna, e discesi coll'assenso
+d'alcuno de' cardinali che teneano al trattato, una mattina per
+tempo entr@o in Alagna colle insegne e bandiere del re di Francia, 
+gridando: ^muoia papa Bonifazio, e viva il re di Francia~; e
+corsono la terra senza contrasto niuno...  Papa Bonifazio
+sentendo il rumore, e veggendosi abbandonato da tutti i
+cardinali, fuggiti e nascosi per paura o chi di mala parte, e
+quasi da' pi@u de' suoi famigliari, e veggendo ch'e' suoi nemici
+aveano preso la terra e il palazzo ov'era, si cus@o morto, ma come
+magnanimo e valente, disse: ^Dacch@e per tradimento, come Ges@u
+Cristo voglio esser preso; e~ (^se~) ^mi conviene morire, almeno
+voglio morire come papa~; e di presente si fece parare
+dell'ammanto di San Piero, e colla carona di Costantino in capo, 
+e colle Chiavi e Croce in mano, e in su la sedia papale si pose a
+sedere.  E giunto a lui Sciarra e gli altri suoi nimici, con
+villane parole lo scherniro, e arrestaron lui e la sua famiglia, 
+che con lui erano rimasi; intra gli altri lo schern@i Guglielmo di
+Lunghereto, che per lo re di Francia avea menato il trattato, 
+donde era preso, e minacciollo, dicendo di menarlo legato a Lione
+sopra Rodano, e quivi in generale Concilio il farebbe diporre e
+condannare.  Il magnanimo papa gli rispose, ch'era contento
+d'essere condannato e diposto per gli paterini com'era egli, e il
+padre e la madre arsi per paterini; onde messer Guglielmo rimase
+confuso e vergognato.  Ma poi come piacque a Dio, per conservare
+la santa dignit@a papale, niuno ebbe ardire di toccarlo, o non
+piacque loro di porgli mano addosso, ma lasci#arlo parato sotto
+cortese guardia, e intesero a rubare il tesoro del papa e della
+Chiesa.>  Il quadro @e stupendo, e la magnanimit@a di Bonifazio
+scolpita; e le ultime parole, quasi ombra che d@a risalto, vale un
+Per@u, perch@e codesti nemici e oppressori del Papa @e verissimo
+che, al trar dei conti, son sempre vigliacchi e ladri.  --
+|L'aceto~ ecc.; rammentando l'aceto e il fiele dato bere a Cristo
+in sulla Croce (^Matth.~, XXVII, 48; ^Marc.~, XV, 27), vuol
+significare i patimenti e gli oltraggi, che pat@i Bonifazio ne'
+tre d@i, che dur@o quella sua prigionia.  -- |Tra vivi ladroni~;
+cos@i leggono i migliori Codici, e le edizioni pi@u accreditate, in
+cambio di ^nuovi.~  E qui il Poeta vuol certo designare in
+ispecial modo il Nogaret e il Colonna.  A rincalzo della lez.
+|vivi~, il Fanfani vi ravvisa una ^mirabile antitesi~, e fa
+notare la forza che ha il dire che, ^mentre Cristo fu anciso fra
+ladroni uccisi anch'essi, ora in persona di Bonifazio @e anciso
+fra ladroni, che rimangono vivi.~  -- |Anciso~; ucciso; Bonifazio
+non mor@i per mano de' suoi nemici, ma tornatosene a Roma vi mor@i
+poco appresso (12 ottobre 1303) per dolore dell'ingiuria
+ricevuta; e il suo successore, il mite e santo Benedetto XI, dice
+il Breviario Romano, ^violatae in predecessore suo pontificiae
+dignitatis auctores anathemate mulctavit.~  Come conclusione del
+lugubre fatto queste meditabili parole scrive il Villani
+(^Cron.~, VIII, 64): <E nota che quando Papa Bonifazio fu preso, 
+la novella fu mandata al re di Francia per pi@u messi in pochi
+giorni, per grande allegrezza; e capitando i corrieri ad Ansiona
+di l@a dalle montagne di Briga, il Vescovo d'Ansiona, il quale era
+uomo di santa e onesta vita, stette un pezzo in silenzio, 
+contemplando, per l'ammirazione che gli parve della persona del
+Papa; e tornato in s@e disse palese dinanzi a pi@u buone genti: ^Il
+re di Francia far@a di questa novella grande allegrezza, ma io ho
+per ispirazione divina, che per questo peccato n'@e condannato da
+Dio, e grandi e diversi pericoli, e avversitadi con vergogna di
+lui e di suo lignaggio li avverranno assai di tosto, ed egli e'
+figliuoli rimarranno diretati del reame.~  E questo sapemmo poco
+tempo appresso passando per Ansiona da persone degne di fede che
+furono presenti ad udire.  La qual sentenza fu profezia in tutte
+le sue parti, come appresso raccontando de' fatti del detto Re e
+de' figliuoli si potr@a vedere.  E non @e da meravigliare della
+sentenza d'Iddio, che con tutto che Papa Bonifazio fosse pi@u
+mondano, che non richiedesse la sua dignitade, et avesse fatte
+assai delle cose dispiacenti a Dio, Iddio fece pulir (^punir~)
+lui per lo modo che @e detto, e poi l'offenditore di lui pul@i non
+tanto per l'offesa della persona di Papa Bonifazio, ma per lo
+peccato commesso contr'alla maest@a divina, il cui cospetto
+rappresentava in terra.>  Cf. ^Purg.~, III, 136-145, nel
+commento.
+
+	|91-93.~  Notati dall'Alfieri, tranne le parole |senza
+decreto.~ |Nuovo Pilato~; Filippo il Bello; e se @e vero che
+Pilato disse ai Giudei ch'egli non trovava in Cristo colpa veruna
+per condannarlo (^Luc.~, XXIII, 14; ^Joann.~, XVIII, 38, e XIX, 
+4), eppure il condann@o; ne deriva, che il Poeta con tale
+appellazione infligge a quel re la pi@u tremenda delle condanne
+pel fatto iniquo.  -- |Cos@i crudele~; dice tutta la perversit@a di
+quell'anima cieca di cupidigie; e la ferocia, anco di sangue, non
+ne va mai disgiunta.  -- |Ci@o nol sazia~; non ancor pago della
+persecuzione usata contro il Papa.  In sostanza, d'uno in altro
+delitto, si rinnova sempre il terribile ^per ammenda~ {v.69}.  --
+|Porta nel Tempio~ ecc.; l'altro fatto @e la soppressione
+dell'Ordine religioso de' Templari.  I cavalieri Templari o del
+Tempio furono istituiti a Gerusalemme nel 1119, e crebbero assai
+in potenza e ricchezza; Filippo il Bello, l'empio Golia contro il
+popolo di Dio (^Epist.~, VII, 8; cf. ^Purg.~, XXXII, 152, e
+XXXIII, 45), il falsatore della pubblica moneta (^Par.~, XIX, 
+119), che pur di ci@o era stato rampognato da Bonifazio, agognava
+a quelle ricchezze; ma perch@e in ogni soppressione un pretesto ci
+vuole, almeno per corbellare i gonzi, Filippo colse l'occasione, 
+o la prepar@o, di false accuse gettate contro i Templari, gli
+imprigion@o tutti (13 Ottobre 1307), molti in varii tempi e modi
+ne tortur@o, e soppresse l'Ordine.  -- |Senza decreto~; il Cesari:
+<Forse forse, non decreto della Chiesa, che trasportasse in lui
+la possessione delle ragioni sacre; ma (stando alla figura di
+Pilato) senza aver dato (come costui della morte di Cristo)
+sentenza, ma spogliando essa Chiesa a man salva, a modo di
+assassino.>  E infatti v'ha tra' chiosatori chi intende la frase
+|senza decreto~, senza un precedente decreto della S. Sede, sola
+giudice in tali faccende; e chi, invece, spiega: senza aver prima
+chiarito per vie legali se i Templari erano veramente rei delle
+accuse loro apposte; ma in ogni modo fatta pure questa azione
+civile (se pure poteasi fare a que' tempi, con quelle leggi
+contro ad ecclesiastici), il |decreto~ della Chiesa era pur
+sempre necessario.  Il |decreto~ invece non venne che il 2 Maggio
+1312 colla Bolla di Clemente V ^Ad providam.~  -- |Cupide vele~;
+il Cesari: <|Le cupide vele~, spiego io lo sforzo della sua
+cupidigia o avarizia, saccheggiando (come pirata) la Chiesa;
+preso la figura dell'andar a golfo lanciato, e vele spiegate.)
+
+	|94-96.  Lieto~; perch@e gli affetti dell'anime sante
+^letiziano~ informati della volont@a di Dio (^Par.~, III, 52-54), 
+ne vien di leggittima conseguenza che vedendo esse certissimo il
+castigo, e il castigo di Dio essendo giustizia, esse esultano
+dell'effettuarsi di questa giustizia, non badando a parenti (e
+cos@i pi@u innanzi sentiremo un che di simile da Forese contro
+l'empio fratello Corso, XXIV, 82-90); e Ugo qui rafferma ci@o che
+innanzi aveva detto (v. 48).  -- |Vendetta~; la punizione, il
+castigo delle iniquita (che altrove, da lui invocato sui cattivi, 
+chiama ^giusto giudicio~, ^Purg.~, VI, 100).  -- |Nascosa~;
+nascosta agli occhi mortali, ma certa nei segreti giudizi tuoi, 
+addolcisce la tua ira negli oltraggi, che ti son fatti dai
+peccatori; sant'Agostino disse, che ^Deus patiens, quia
+aeternus~, e non teme che l'inimico gli sfugga di mano; l'uomo
+invece, che cerca vendetta, non @e certo di poterla sempre
+compiere; onde ha fretta, perch@e teme che l'occasione gli sfugga. 
+E quest'ira non si mostra in effetto, questa vendetta non si
+compie, non si manifesta se non nel momento da Dio preordinato
+(cf. ^Par.~, XXII, 13-18).
+
+	|97-102.~  Finora l'anima aveva risposto alla prima delle
+due richieste del Poeta; viene adesso alla seconda (vv. 35-36), 
+perch@e fra tante altre, che l@i ci avea, ella sola rammemorasse
+quei degni esempi di povert@a (vv. 19-33); ma premette, che le
+lodi di sante povert@a e larghezze si fan durante il d@i; nella
+notte si ricordano invece esempi di sordida avarizia.  -- |Unica
+Sposa~ ecc.; Maria Vergine (cf. ^Par.~, XIII, 83).  -- |Per
+alcuna chiosa~; per averne qualche spiegazione, schiarimento (cf.
+^Par.~, XVII, 94).  -- |Tanto @e disposto~ ecc.; quegli esempi di
+povert@a e di larghezza sono ordinati, chiosa il Bianchi, per
+comune preghiera e meditazione quanto dura il giorno.  Altri
+leggono: ^tanto @e risposta~ ecc.; e spiegano: gli esempi virtuosi
+seguitano quasi naturale risposta ad ogni nostra preghiera.  --
+|Nostre prece~ (altri ^nostra~ ecc.); al plur. secondo la
+terminazione latina di ^preces~, nota il Bianchi, a cui ne'
+principii della lingua s'andava strettamente dietro; cos@i
+tutt'ora il popolo, ^le noce, le gente~ ecc.  -- |S'annotta~ (cf.
+^Inf.~, XXXIV, 5), si fa notte. -- |Contrario suon~; cantiamo
+esempi d'avarizia punita, aspre rampogne come per ^freno~ (cf.
+^Purg.~, XIII, 39-41).  Pietro: ^Dicit quod faciunt in die; hoc
+est quod dum talia reminiscimur, sumus in luce divina; et per
+contrarium dum reminiscimur ea, quae sunt refrenatoria avaritiae, 
+ut turpia et infamosa, sumus quodammodo in nocte.~
+
+	|103-105.~  @E bello vedere come negli esempi, che qui
+adduce il Poeta, s'accordi mirabilmente coll'Angelico in quanto
+agli effetti, che opera la cupidigia, cio@e ^proditio~
+(Pigmaglione), ^fraus~ (Acam) ^fallacia~ (Eliodoro), ^perjuria~
+(Anania e Safira), ^inquietudo~ (Mida), ^violentiae~ (Crasso), 
+^et contra miseri cordiam obduratio~ (Polinestore): cf. ^Summ.
+Theol.~, II, II, 118, 8.  -- |Pigmaglione~; Pietro: ^Avaritia
+Pigmalionis filii regis Beli de Tyro, et fratris Didonis, 
+interficientis Sichaeum virum Didonis praedictae, sororis eius, 
+ut depraedaretur eius divitias~; e allegati i versi dell'^Eucide~
+(I, 340-351), soggiunge: ^Ex hoc vocatus proditor.  Et quia
+cognatum occidit, vocatur parricida; nam ita punitur lege Pompeia
+de parricida, sicut occidentis patrem suum.~  -- |Ghiotta~ (cf.
+^Purg.~, XII, 57, nel commento).
+
+	|106-108.~  L'Alfieri not@o i due primi.  |Mida~; immagine
+incarnata dell'avaro, che con tutto il suo oro @e sempre inquieto, 
+e non mangia n@e beve per paura d'andare sul lastrico; pi@u che
+d'obbrobrio, tal razza di gente merita esser coperta di
+compassione e di ridicolo (|convien che si rida~).  Il dio Bacco
+onorevolmente accolto da Mida re della Frigia, propose in
+ricompensa a quel re di chiedere qualunque grazia egli piacesse
+meglio, che gli sarebbe fatta; Mida chiese che si mutasse in oro
+checch@e egli avesse toccato; ^et sic~, dice Pietro (che allega
+Ovidio, ^Metam.~, XI), ^dictus Midas, hoc sibi concesso, 
+moriebatur siti et fame, cum et dapes et libamina sua aurum
+efficiebantur~ (e seguita a narrare come dal Dio, per
+compassione, fu liberato dell'effetto della sua insensata
+domanda).  -- |Miseria~; il Pallavicini (^Perfez. Crist.~, I, 5):
+|Miseria~ e ^avarizia~ importa lo stesso.>  -- |Che~; la quale
+miseria.  -- |Segu@i~; tenne dietro, sussegu@i.
+
+	|109-111.~  Giosu@e, vinta Gerico, aveva comandato agli
+Ebrei, per ordine di Dio, che nessuno prendesse la bench@e minima
+cosa della preda di Gerico; Acam contravvenne al comando, 
+prendendo del danaro e alcuni oggetti preziosi e nascondendoli
+nella sua tenda; scoperta la cosa, Acam e tutta la sua famiglia
+furono dal popolo lapidati, e poi bruciati insieme a quanto
+possedevano (cf. ^Josue~, VI, 17-19; VII, 1-26).  -- |Folle~;
+matto, insensato.  -- |Lo morda~; lo rimbrotti.
+
+	|112.~  Anania e sua moglie Safira, venduto un loro
+podere, anzich@e portarne l'intiero prezzo agli Apostoli, com'era
+costume de' primitivi cristiani, se ne trattennero una parte, 
+pure affermando che quanto portavano era il tutto; per tale
+menzogna derivante da avarizia e ipocrisia, furono colpiti l'un
+dopo l'altro di morte improvvisa (cf. ^Act. Apost.~, V, 1-11).
+
+	|113.~  Eliodoro, generale di Seleuco re di Siria, fu
+mandato a Gerusalemme per usurpare il tesoro del Tempio; ma non
+appena entrato la sacra soglia, gli apparve un cavallo con sopra
+un terribile cavaliere, che lo percosse a calci; e due giovani
+splendidi di bellezza e di gloria il flagellarono senza piet@a;
+ond'egli dovette fuggire scornato e a mani vuote (cf. II
+^Machab.~, III, 7 e segg.).  Su certi spogliatori di chiese, cf.
+^Inf.~, XXIV, 63 nel commento.
+
+	|114-115.~  Costruisci: |E Polinestore~ (il nome di
+Polinestore) |gira~ (di bocca in bocca) per |tutto il monte~
+(cio@e va di bocca in bocca per tutta questa cornice). Polinestore
+re della Tracia; durante l'assedio di Troia avendo ricevuto dal
+re Priamo in custodia il giovinetto di lui figlio Polidoro, 
+saputa la caduta di Troia e la morte di Priamo, uccise Polidoro
+per impossessarsi dei tesori che seco aveva portati (cf. Ovidio. 
+^Met.~, XIII, 429-430).  Il Cesari: <Come bello questo variar di
+modo, da dire pur la cosa medesima!  Dante volea dire, che in
+quel girone si cantavano esempi di avarizia, vituperandoli; aveva
+dunque detto ora ^Ripetiam~ {v.103}; ora ^Ciascun si ricorda~
+{v.109}; qui ^Accusiam~ {v.112}; poi ^Lodiamo i calci~ {v.113}
+ecc.; (chi volesse esprimere in istil comico questo concetto, 
+potrebbe dire: Benedetti i garetti di quel cavallo, che
+sprangando calci, mandarono capovolto quel birbone!); |Ed in
+infamia~ ecc.; poetico e leggiadrio modo di dire!  |E Polinestor~
+ecc.; che luce prende il concetto da questo nuovo atto, che gli
+d@a la poesia!>
+
+	|116-117.~  L'Alfieri not@o |Crasso~, col verso seguente. 
+Marco Licinio Crasso (ann. a. Cr. 114-53), uomo cupidissimo, 
+governatore della Siria, il quale ^totum templum Jerusalem
+spoliavit~, dice Pietro; condusse la guerra contro i Parti, ma fu
+due volte vinto da Surena generale di re Orode.  Ucciso, e
+staccatogli la testa dal busto, e portatala ad Orode, questi per
+ischernire tanta cupidigia, gli fece versare in bocca oro
+liquefatto, gridando: ^Aurum sitisti, aurum bibe~ (cf. Cicerone, 
+^De Divin.~, II, 9; Floro, III, 11).  Cf. ^Purg.~, XI, 57, e
+^Canzon.~ (P. III, canz. II, st. 5).
+
+	|118-120.~  L'Alfieri not@o i due primi.  |Talor~ ecc.;
+questi esempi differenti sono dalle anime di questo cerchio
+cantati a voce or alta or bassa, a misura dell'intensit@a del
+sentimento, che le eccita a parlare ora con pi@u, ora con men
+calore.  -- |Alto~ ecc.; cf. ^Inf.~, IX, 50; ^Purg.~, 127-129. 
+-- |Secondo l'affezione~; il Giuliani scrisse nel margine: ^Ecco
+l'arte de' versi propria del Poeta, che fa parlar tutti secondo
+che la passione detta~ (certo riferendosi alla dichiarazione che
+Dante fa altrove di s@e stesso: ^Purg.~, XXIV, 52-54).
+
+	|121-123.~  E l'anima d'Ugo viene pi@u direttamente a
+rispondere alla seconda domanda del Poeta (vv. 35-36).  |Per@o~;
+perci@o puoi ben capire che |al ben~ (^a rinnovellare s@i degne
+lode~, v. 35), a cantare gli esempi di povert@a e di generosit@a, 
+che si cantano lungo il giorno, io non ero sola, quando ti
+appressasti a me (vv. 29, 35-36); ma tu non sentisti la voce di
+altre anime, perch@e mentr'io ^parlavo alto~, le altre ^parlavan
+basso~, per la differente |affezione.~  -- |Dianzi~; quando
+sentisti la mia voce, e mi t'avvicinasti.  -- |Non alzava la
+voce~; parlavano a voce sommessa.
+
+	|124-129.~  Notati dall'Alfieri.  La scena sta per
+mutarsi, e s'appressa novit@a, che altre inattese e s@i ben
+preparate se ne trarr@a seco.  -- |Noi eravam~ ecc.; verso simile
+nell'^Inf.~, XXXII, 124.  -- |Brigavam~; ci sforzavano, ci
+studiavamo (la sola volta che nel Poema s'incontri tal verbo). 
+-- |Soverchiar~ ecc.; propriamente andare in su; cos@i altrove
+(^Purg.~, III, 99; cf. IV, 51):
+
+     Cerca di soverchiar questa parete.
+
+Ma dicesi del vincer ogni difficolt@a, che s'opponga; e qui la
+difficolt@a era di proceder cauti lungo la roccia per quel
+picciolo lembo di cornice non occupato dalle anime (vv. 4-9).  --
+|Quanto al poter~ ecc.; secondo il potere, quant'era possibile. 
+Per dire che pi@u non poteva, dice altrove (^Canzon.~, P. I, canz.
+I, st. 3): ^io sono al fine della mia possanza~; e cos@i per
+significare lo stesso concetto, |tanto, quanto al poter~, cio@e
+^secondo le mie forze naturali~, scrive: ^secondo quella virt@u
+che natura mi diede~ (ivi, P. II, canz. X, st. 1).  -- |Come
+cosa~ ecc.; il Cesari: <Vivissima immagine, |come cosa che cade~!
+cadendo in terra un qualche gran masso, la fa risaltar e crollare
+d'un certo scotimento cupo e fondo, che mette orrore; questo
+sent@i Dante; e la cav@o proprio dal mazzo.  E per amplificar
+questa paura, la dice |gelo~, e pari a quello di chi va alle
+forche; concetto e parole di sommo peso.>  -- |Tremar~ ecc.;
+vedremo come e perch@e (cf. ^Purg.~, XXI, 40-72).  -- |Colui che a
+morte~ ecc.; cf. ^Purg.~, XXVII, 14-15, consimile immagine.
+
+	|130-132.~  Notati dall'Alfieri.  L'isola di Delo, una
+della Cicladi, era un tempo, secondo la mitologia, agitata da
+continui tremuoti; i tremuoti cessarono allor solo che Latona, 
+fuggendo l'ira di Giove, partor@i in quell'isola i due gemelli
+Apollo e Diana.  -- |Li due occhi~ ecc.; Apollo e Diana sono il
+Sole e la Luna (cf. ^Par.~, XXIX, 1).
+
+	|133-135.~  Notati dall'Alfieri.  Al terremoto, che
+scuote tutta la santa montagna alla liberazione d'un anima, 
+s'accompagna un cantico di lode e ringraziamento a Dio dalle
+anime di una data cornice, a cui la liberata anima apparteneva, 
+ovvero dalle anime di tutto il Purgatorio?  Siccome @e chiaro che
+il tremuoto scosse la montagna tutta quanta; cos@i |da tutte
+parti~ rispetto al |grido~, si deve intendere di tutti i cerchi;
+e a ci@o ne obbliga quanto Virgilio dir@a pi@u sotto (XXI, 34-36;
+cf. ivi, 70-72); perci@o torna assai notabile che in tre giornate
+e mezzo che il Poeta pass@o finora in quella montagna, un'anima
+sola venisse liberata.  -- |Tal che~ ecc.; Virgilio gli s'accosta
+per rassicurarlo; altrove @e Dante che, in simili casi, si stringe
+al Poeta (cf. ^Inf.~, IX, 50-51; ^Purg.~, VIII, 36-37; e
+altrove).  -- |Mentr'io~ ecc.; cf. ^Inf.~, III, 14; VIII, 103;
+XXI, 61; 22-24.
+
+	|136-138.  Gloria~ ecc.; il principio del cantico, che
+gli Angeli intonarono sulla grotta di Bethlem al nascere del
+Redentore, e che il nostro Autore, con intento cristiano e
+sociale, si compiace di repetere altrore (^Mon.~, I, 5; cf.
+^Epist.~, II).  Nella ^Vit. N.~, {Paragraph.} 23: <Pareami che
+questi Angeli cantassero gloriosamente e le parole del loro canto
+pareami udire che fossero queste: ^Osanna in excelsis.~>  -- |Per
+quel~ ecc.; per quanto io compresi dalle voci delle anime vicine
+a me delle quali potevo distinguere le parole.  -- |Da' vicini~;
+dai vicini (spiriti), in relazione a ^tutti~ del verso preced. 
+-- |Onde~; dai quali; particella pronom. (cf. ^Inf.~, IX, 42;
+XXXI, 132).  Il Giuliani (postilla inedita): <La' onde ^le
+parole~ mi venivan intese, e non |da' vicini.~)  Il grido, che
+correva tutto il monte, certo doveva esser forte: ma Dante
+soltanto dalle anime, ch'erano a lui vicine, sente che il suono
+si risolveva in parole, le quali erano |gloria~ ecc.  Cos@i
+altrove (cf. ^Purg.~, XXIX, 46-51).
+
+	|139-141.  Sospesi~; varii usi intellett. di
+^sospendere~, cf. ^Purg.~, XII, 78; XXVI, 30; XXIX, 32; ^Purg.~, 
+XX, 87; XXXII, 92.  -- |Come i Pastor~ ecc.; dice S. Luca (^Ev.~, 
+II, 9), che i pastori dapprima ^timuerunt timore magno.~  --
+|Ei~, il canto.  -- |Compi$esi~ (per ^compiessi~, come ^perdesi~, 
+^Purg.~, XIX, 122), si campi, fin@i.
+
+	|142-144.  Cammin santo~; il viaggio pel Purgatorio, col
+quale Dante acquistava la santit@a; ovvero cammino pel ^santo
+monte~ (cf. ^Purg.~, VIII, 60, nel commento; XIX, 39; XXVIII, 
+12).  -- |Tornate~ ecc.; finito il canto, ripigliarono il pianto, 
+che avevano un istante interrotto (cf. ^Purg.~, XIX, 71; XX, 18). 
+-- |In su~ ecc.; il Cesari: <Questa particella serve per proprio
+uso a dinotar opera o faccenda, nella quale uom si studia
+exproposito.>
+
+	|145-151.~  Costruisci: |Se in ci@o la mia memoria non
+erra~ (se ben ricordo), |nulla ignoranza~ (nessuna cosa ignorata, 
+nessuna ignoranza sulle cause delle cose) |mi fe' con tanta
+guerra~ (con tanto ardore, con tanta ansiet@a) |desideroso di
+sapere, quanta pare'mi avere allora pensando~ (nel ripensare a
+quel tremuoto e a quel canto).  -- |Guerra~; nel trasl., tutto
+ci@o che reca travaglio (cf. ^Inf.~, II, 4); quindi nella ^Vit.
+N.~, {Paragraph.} 14, ^battaglia di diversi pensieri~ (cf.
+^Par.~, I, 82-84).  -- |Desideroso di sapere~; cf. ^Purg.~, XXI, 
+1 e segg.; ^Conv.~, IV, 13, ^il desiderio della scienza~;
+sant'Agostino (^Tract. 26 in Joann.~): Quid fortius desiderat
+anima, quam veritatem?  -- |Pensando~ ecc.; nel dubbio com'era. 
+-- |Per la fretta~, che mostrava Virgilio nell'andare (^Purg.~, 
+XXI, 4).  -- |Per me~; di per me stesso non potevo scoprire, |l@i~
+in tale argonmento, la ragione di quel tremuoto e di quel canto;
+e |cos@i~ per ci@o, stando cos@i le cose, |m'andava~ timido
+dell'aprire a Virgilio il mio desiderio e |pensoso~ del fatto, 
+della cagione che il produsse.  <Lo stile di tutto il Canto, nota
+il Tommaseo, @e di rara fermezza; e lirico @e il variare de' modi:
+^Noi ripetiam Pigmalione~ {v.103}...  ^E la miseria dell'avaro
+Mida~ {v.106}...; ^Del folle Acam ciascun~ {v.109} ecc.;... 
+^L'ira di Giosu@e qui par che ancor lo morda~ {vv.110-111}... 
+^Indi accusiam~ {v.112}...  ^Lodiamo i calci~ {v.113}... ^Crasso, 
+dicci~ {vv.116-117} ecc.  Variet@a che viene dalla ricchezza e del
+pensiero e dell'affetto; e, se fosse cercata non sarebbe
+altrettanto efficace.>
+
+	Nota le terzine 2, 3, 4, 6, 7, 8 15, 23, 25; 27 alla 30;
+39, 40, 41, 43, 44, 45, 47, 48, 50.

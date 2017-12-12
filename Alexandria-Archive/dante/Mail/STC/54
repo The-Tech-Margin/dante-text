@@ -1,0 +1,68 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.6.9/8.6.9) with ESMTP id UAA26138 for <steve@avalon.Dartmouth.EDU>; Thu, 16 Feb 1995 20:49:35 -0500
+Received: from Princeton.EDU (root@Princeton.EDU [128.112.128.1]) by dartvax.dartmouth.edu (8.6.9+DND/8.6.9) with SMTP id UAA02396 for <Steve.Campbell@dartmouth.edu>; Thu, 16 Feb 1995 20:49:34 -0500
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.115/princeton)
+	id AA19515; Thu, 16 Feb 95 20:44:40 -0500
+Received: from flagstaff.Princeton.EDU by ponyexpress.princeton.edu (8.6.9/1.7/newPE)
+	id UAA19558; Thu, 16 Feb 1995 20:44:39 -0500
+Received: by flagstaff.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA25682; Thu, 16 Feb 95 20:44:38 EST
+Message-Id: <9502170144.AA25682@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Thu, 16 Feb 1995 20:44:37 EST
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: tobypaff@pucc.Princeton.EDU, Steve.Campbell@Dartmouth.EDU,
+        bobh@phoenix.Princeton.EDU
+Subject: DDP stuff
+
+Some of this is more TOBY'S, SOME MORE STEVE'S, BUT I
+THOUGHT I'D SEND TO YOU BOTH.  (Caps. unintentional.)
+
+A day or so ago I discovered that, in one brief passage
+of Bosco's comm., the Roman "II" (two) was used instead
+of "Il" ("the" in Italian).  Now "II" occurs in 12,737
+passages of the DDP (!).  Tonught I burned some free
+time checking.  I had assumed I'd find LOTS of "II" for
+"Il"; I checked 2570 entries (of 12,737), ca. 20%, and
+found only 10 more, half of them in Bosco (801
+entries).  That still leaves 10,000 to check (!!!) --
+or to forget about.  Worse: I fugure that we have the
+reverse ambiguation ("Il" for "II"), but we can't check
+on that one, since "il" is a stopword.  All of this is
+to pose the question of how we are to handle the
+cleaning of the DDP.
+
+Other matters: Steve, what are we going to do about
+Greek?  Currently, I am turning to the last technique
+we decided on: e.g., the word or "pi" would be
+represented
+
+        %pi%iota
+This is a mess.  But is there anything else to do?
+Further, I find that Margherita, in Bosco, did things
+badly even in our old system (vague English version of
+Greek, e.g., %pi\), and that that is what we have in
+the LONG comm. of Tommaseo, which has lots of Greek.
+It's a bit of a mess.  And there is also the problem of
+Greek accents and breathmarks.  I'm depressing myself.
+
+Steve: this a repeat of smtg. we've discussed and that
+you say you can change:  In VT200 simulation
+underlining goes from one margin of screen to the other
+(at left margin, at least), eg,
+                        __babababababababablalalalala__
+_______blblblblbabahahaha__.
+
+A last thing for Steve: I remember pointing out some
+time ago that some passages in Daniello's comm. had got
+very screwed up--garbage instead of data, stuff folded
+in from other text, and text that should be there run
+into entries where there should be a break.  The mess
+starts at screen 2185 and runs through 2190; 2191 is OK
+again.  It is the comm. to Purg. 19.100-105 thru
+139-140.  IF that is the same one (Ihope there aren't
+many suchthings), Steve was as puzzled as I as to how
+it might have happened.
+
+I think that's about all the bother I can offer for one
+night.  Sorry, Bob

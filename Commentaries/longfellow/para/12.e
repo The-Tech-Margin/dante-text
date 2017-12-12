@@ -1,0 +1,508 @@
+	|1.~  The Heaven of the Sun continued.  The praise of St.
+Dominic by St. Bonaventura, a Franciscan.
+
+	|3.~  By this figure Dante indicates that the circle of
+spirits was revolving horizontally, and not vertically.  In the
+^Convito~, III. 5, he makes the same comparison in speaking of
+the apparent motion of the sun; ^non a modo di mola, ma di rota~,
+not in fashion of a millstone, but of a wheel.
+
+	|11.~  Ezekiel i. 28: "As the appearance of the bow that
+is in the cloud in the day of rain, so was the appearance of the
+brightest round about."
+
+	|12.~  Iris, Juno's messenger.
+
+	|14.~  Echo.  Ovid, ^Met.~, III., Addision's Tr.: --
+
+       "The Nymph, when nothing could Narcissus move,
+     Still dashed with blushes for her slighted love,
+     Lived in the shady covert of the woods,
+     In solitary caves and dark abodes;
+     Where pining wandered the rejected fair,
+     Till harassed out, and worn away with care,
+     The sounding skeleton, of blood bereft,
+     Besides her bones and voice had nothing left.
+     Her bones are petrified, her voice is found
+     In vaults, where still it doubles every sound."
+
+	|16.~  ^Genesis~ ix. 13: "I do set my bow in the cloud,
+and it shall be for a token of a convenant between me and the
+earth."
+
+	And Campbell, ^To the Rainbow~: --
+
+     "When o'er the green undeluged earth
+      Heaven's covenant thou didst shine,
+      How came the gray old fathers forth
+      To watch thy sacred sign."
+
+	|31.~  It is the spirit of St. Bonaventura, a Franciscan,
+that speaks.
+
+	|32.~  St. Dominic, by whom, through the mouth of his
+follower, St. Francis has been eulogized.
+
+	|34.~  As in Canto XI. 40: --
+
+     "One will I speak of, for both is spoken
+      In praising one, whichever may be taken,
+      Because unto one end their labours were."
+
+	|38.~  The Church rallied and rearmed by the death of
+Christ against "all evil and mischief," and "the crafts and
+assaults of the Devil."
+
+	|43.~  In Canto XI. 35: --
+
+     "Two Princes did ordain in her behoof,
+      Which on this side and that might be her
+      guide."
+
+	|46.~  In the west of Europe, namely in Spain.
+
+	|52.~  The town of Calahorra, the birthplace of St.
+Dominic, is situated in the province of Old Castile.
+
+	|53.~  In one of the quarterings of the arms of Spain the
+Lion is above the Castle, in another beneath it.
+
+	|55.~  St. Dominic.
+
+	|58.~  Dante believed with Thomas Aquinas, that "the
+creation and infusion" of the soul were simultaneous.
+
+	|60.~  Before the birth of St. Dominic, his mother
+dreamed that she had brought forth a dog, spotted black and
+white, and bearing a lighted torch in his mouth; symbols of the
+black and white habit of the Order, and of the fiery zeal of its
+founder.  In art the dog has become the attribute of St.
+Dominic, as may be seen in many paintings, and in the statue over
+the portal of the convent of St. Mark at Florence.
+
+	|64.~  The godmother of St. Dominic dreamed that he had a
+star on the forehead, and another on the back of his head, which
+illuminated the east and the west.
+
+	|69.~  Dominicus, from Dominius, the Lord.
+
+	|70.~  St. Dominic, Founder of the Preaching Friars, and
+Persecutor of Heretics, was born in the town of Calaroga, now
+Calahorra, in Old Castile, in the year 1170, and died in Bologna
+in 1221.  He was of the illustrious family of the Guzmans; in his
+youth he studied ten years at the University of Palencia; was
+devout, abstemious, charitable; sold his clothes to feed the
+poor, and even offered to sell himself to the Moors, to ransom
+the brother of a poor woman who sought his aid.  In his twenty-
+fifth year he became a cannon under the Bishop of Osma, preaching
+in the various churches of the province for nine years, and at
+times teaching theology at Palencia.  In 1203 he accompanied his
+Bishop on a diplomatic misson to Denmark; and on his return
+stopped in Languedoc, to help root out the Albigensian heresy;
+but how far he authorized or justified the religious crusades
+against these persecuted people, and what part he took in them,
+is a contested point, -- enough it would seem to obtain for him,
+from the Inquisition of Toulouse, the title of the Persecutor of
+Heretics.
+
+	In 1215, St. Dominic founded the Order of Preaching
+Friars, and in the year following was made Master of the Sacred
+Palace at Rome.  In 1219 the centre of the Order was established
+at Bologna, and there, in 1221, St. Dominic died, and was buried
+in the church of St. Nicholas.
+
+	It has been generally supposed that St. Dominic founded
+the Inquisition.  It would appear, however, that the special
+guardianship of that institution was not instrusted to the
+Dominicans till the year 1233, or twelve years after the death of
+their founder.
+
+	|75.~  Matthew xix. 21; "Jesus said unto him, If thou wilt
+be perfect, to and sell that thou hast, and give to the poor, and
+thou shalt have treasure in heaven: and come and follow me."
+
+	While still a young man and a student, in a season of
+great want, St. Dominic sold his books, and all that he
+possessed, to feed the poor.
+
+	|79.~  Felix signifying happy, and Joanna, full of grace.
+
+	|83.~  Henry of Susa, Cardinal and Bishop of Ostia, and
+thence called Ostiense.  He lived in the thirteenth century, and
+wrote a commentary on the Decretals or Books of Ecclesiastical
+Law.
+
+	Taddeo Alderotti was a distinguished physician and
+Professor of Bologna, who flourished in the thirteenth century,
+and translated the Ethics of Aristotle.  Villani, VIII. 66, says
+of him: "At this time (1303) died in Bologna Maestro Taddeo,
+surnamed the Bolognese, though he was a Florentine, and our
+fellow-citizen; he was the greatest physicist in all
+Christendom."
+
+	The allusion here is to the pursuit of worldly things,
+instead of divine, the same as in the introduction to Canto XI.:
+--
+
+     "One after laws and one to aphorisms."
+
+	|88.~  Buti says that in early times the prelates used to
+divide the incomes of the Church into four parts; "the first, for
+the prelate personally; the second, for the clergy who performed
+the services; the third, for the embellishment of the Church; the
+fourth, for Christ's poor; which division is now-a-days little
+observed."
+
+	|90.~  Pope Boniface VIII., whom Dante never forgets, and
+to whom he never fails to deal a blow.
+
+	|91.~  He did not ask of the Holy See the power of
+grasping six, and giving but two or three to pious uses; not the
+first vacant benefice; nor the tithes that belonged to God's
+poor; but the right to defend the faith, of which the four-and-
+twenty spirits in the two circles around them were the seed.
+
+	|106.~  One wheel of the chariot of the Church Militant,
+of which St. Francis was the other.
+
+	|112.~  The track made by this wheel of the chariot; that
+is, the strict rule of St. Francis, is now abandoned by his
+followers.
+
+	|114.~  Good wine produces crust in the cask, bad wine
+mould.
+
+	|117.~  Set the points of their feet upon the heel of the
+footprints, showing that they walked in a direction directly
+opposite to that of their founder.
+
+	|120.~  When they find themselves in Hell, and not in
+Paradise.  Matthew xiii. 30: "Let both grow together until the
+harvest: and in the time of harvest I will say to the reapers,
+Gather ye together first the tares, and bind them in bundles to
+burn them: but gather the wheat into my barn."
+
+	|121.~  Whoever examines one by one the members of our
+Order, as he would turn over a book leaf by leaf, will find some
+as good and faithful as the first.
+
+	|124.~  In 1287, Matteo d'Acquasparta, general of the
+Franciscans, relaxed the severities of the Order.  Later a
+reaction followed; and in 1310 Frate Ubaldino of Casale became
+the head of a party of zealots among the Franciscans who took the
+name of Spiritualists, and produced a kind of schism in the
+Order, by narrower or stricter interpretation of the Scriptures.
+
+	|127.~  In this line Dante uses the word ^life~ for
+^spirit.~
+
+	John of Fidanza, surnamed Bonaventura, -- who "postponed
+considerations sinister," or made things temporal subservient to
+things spiritual, and of whom one of his teachers said that it
+seemed as if in him "Adam had not sinned," -- was born in 1221 at
+Bagnoregio, near Orvieto.  In his childhood, being extremely ill,
+he was laid by his mother at the feet of St. Francis, and healed
+by the prayers of the Saint, who, when he beheld him, exclaimed,
+"O ^buona ventura~!" and by this name the mother declared her son
+to God.  He lived to become a Franciscan, to be called the
+"Seraphic Doctor," and to write the Life of St. Francis; which,
+according to the Spanish legend, being left unfinished at his
+death, he was allowed to return to earth for three days to
+complete it.  There was a strange picture in the Louvre,
+attributed to Murillo, representing this event.  Mrs. Jameson
+gives an engraving of it in her ^Legends of the Monastic Orders~,
+p. 303.
+
+	St. Bonaventura was educated in Paris under Alexander
+Hales, the Irrefragable Doctor, and in 1245, at the age of
+twenty-four, became a Professor of Theology in the University.
+In 1256 he was made General of his Order; in 1273, Cardinal and
+Bishop of Albano.  The nuncios of Pope Gregory, who were sent to
+carry him his cardinal's hat, found him in the garden of a
+convent near Florence, washing the dishes; and he requested them
+to hang the hat on a tree, till he was ready to take it.
+
+	St. Bonaventura was one of the great Schoolmen, and his
+works are voluminous, consisting of seven imposing folios, two of
+which are devoted to Expositions of the Scriptures, one to
+Sermons, two to Peter Lombard's Book of Sentences, and two to
+minor works.  Among these may be mentioned the Legend of St.
+Francis; the Itinerary of the Mind towards God; the
+Ecclesiastical Hierarchy; the Bible of the Poor, which is a
+volume of essays on moral and religious subjects; and Meditations
+on the Life of Christ.  Of others the mystic titles are, The
+Mirror of the Soul; The Mirror of the Blessed Virgin; On the Six
+Wings of the Seraphim; On the Six Wings of the Cherubim; On the
+Sandals of the Apostles.  One golden sentence of his cannot be
+too often repeated: "The best perfection of a religious man is to
+do common things in a perfect manner.  A constant fidelity in
+small things is a great and heroic virtue."
+
+	Milman, ^Hist. Latin Christ.~, VIII. 274, 276, says of
+him: "In Bonaventura the philosopher ^recedes~; religious
+edification is his mission.  A much smaller proportion of his
+voluminous works is pure Scholasticism: he is teaching by the
+Life of his Holy Founder, St. Francis, and by what may be called
+a new Gospel, a legendary Life of the Saviour, which seems to
+claim, with all its wild traditions, equal right to the belief
+with that of the Evangelists.  Bonaventura himself seems to
+deliver it as his own unquestioning faith.  Bonaventura, if not
+ignorant of, feared or disdained to know much of Aristotle or the
+Arabians: he philosophizes only because in his age he could not
+avoid philosophy.....The raptures of Bonaventura, like the
+raptures of all Mystics, tremble on the borders of Pantheism: he
+would still keep up the distinction between the soul and God; but
+the soul must aspire to absolute unity with God, in whom all
+ideas are in reality one, though many according to human thought
+and speech.  But the soul, by contemplation, by beatific vision,
+is, as it were, to be lost and merged in that Unity."
+
+	|130.~  Of these two barefooted friars nothing remains but
+the name and the good report of holy lives.  The ^Ottimo~ says
+they were authors of books.
+
+	Bonaventura says that Illuminato accompanied St. Francis
+to Egypt, and was present when he preached in the camp of the
+Sultan. Later he overcame the scruples of the Saint, and
+persuaded him to make known to the world the miracle of the
+^stigmata.~
+
+	Agostino became the head of his Order in the Terra di
+Lavoro, and there received a miraculous revelation of the death
+of St. Francis.  He was lying ill in his bed, when suddenly he
+cried out, "Wait for me!  Wait for me!  I am coming for thee!"
+And when asked to whom he was speaking, he answered, "Do ye not
+see our Father Francis ascending into heaven?" and immediately
+expired.
+
+	|133.~  Hugh of St. Victor was a monk in the monastery of
+that name near Paris.  Milman, ^Hist. Latin Christ.~, VIII. 240,
+thus speaks of him: "The mysticism of Hugo de St. Victor
+withdrew the contemplator altogether from the outward to the
+inner world, -- from God in the works of nature, to God in his
+workings on the soul of man.  This contemplation of God, the
+consummate perfection of man, is immediate, not mediate.  Through
+the Angels and the Celestial Hierarchy of the Areopagite is
+aspires to one God, not in this Theophany, but in his inmost
+essence.  All ideas and forms of things are latent in the human
+soul, as in God, only they are manifested to the soul by its own
+activity, its meditative power.  Yet St. Victor is not exempt
+from the grosser phraseology of the Mystic, -- the tasting God,
+and other degrading images from the senses of men.  The ethical
+system of Hugo de St. Victor is that of the Church, more free
+and lofty than the dry and barren discipline of Peter Lombard."
+
+	|134.~  Peter Mangiadore, or Peter Comestor, as he is more
+generally called, was born at Troyes in France, and became in
+1164 Chancellor of the University of Paris.  He was the author of
+a work on Ecclesiastical History, "from the beginning of the
+world to the times of the Apostles"; and died in the monastery of
+St. Victor in 1198.  Why he was surnamed Comestor, the Eater, no
+biographer informs us.
+
+	Peter of Spain was the son of a physician of Lisbon, and
+was the author of a work on Logic.  He was Bishop of Braga,
+afterwards Cardinal and Bishop of Tusculum, and in 1276 became
+Pope, under the title of John XIX.  In the following year he was
+killed by the fall of a portion of the Papal palace at Viterbo.
+
+	|136.~  Why Nathan the Prophet should be put here is a
+great puzzle to the commentators.  "^Buon salto~! a good leap,"
+says Venturi.  Lombardi thinks it is no leap at all.  The only
+reason given is, that Nathan said to David, "Thou art the man."
+As Buti says: "The author puts him among these Doctors, because
+he revealed his sin to David, as these revealed the vices and
+virtues in their writings."
+
+	|137.~  John, surnamed from his eloquence Chrysostom, or
+Golden Mouth, was born in Antioch, about the year 344.  He was
+first a lawyer, then a monk, next a popular preacher, and finally
+metropolitan Bishop of Constantinople.  His whole life, from his
+boyhood in Antioch to his death in banishment on the borders of
+the Black Sea, -- his austerities as a monk, his fame as a
+preacher, his troubles as Bishop of Constantinople, his
+controversy with Theophilus of Alexandria, his exile by the
+Emperor Arcadius and the earthquake that followed it, his
+triumphant return, his second banishment, and his punishment, and
+his death, -- is more like a romance than a narrative of facts.
+
+	"The monuments of that Eloquence," says Gibbon, ^Decline
+and Fall~, Ch. XXXII., "which was admired near twenty years at
+Antioch and Constantinople, have been carefully preserved; and
+the possession of near one thousand sermons or homilies has
+authorized the critics of succeeding times to appreciate the
+genuine merit of Chrysostom.  They unanimously attribute to the
+Christian orator the free command of an elegant and copious
+language; the judgement to conceal the advantages which he
+derived from the knowledge of rhetoric and philosophy; an
+inexhaustible fund of metaphors and similitudes, of ideas and
+images, to vary and illustrate the most familiar topics; the
+happy art of engaging the passions in the service of virtue; and
+of exposing the folly, as well as the turpitude, of vice, almost
+with the truth and spirit of a dramatic representation."
+
+	Anselm, Archbishop of Canterbury, was born at Aost in
+Piedmont, about the year 1033, and was educated at the abbey of
+Bec in Normandy, where, in the year 1060, he became a monk, and
+afterwards prior and abbot.  In 1093 he was made Archbishop of
+Canterbury by King William Rufus; and after many troubles died,
+and was buried in his cathederal, in 1109.  His life was written
+by the monk Eadmer of Canterbury.  Wright, ^Biog. Britan.
+Lit.~, Anglo-Norman Period, p. 59, says of him: "Anselm was equal
+to Lanfranc in learning, and far exceeded him in piety.  In his
+private life he was modest, humble, and sober in the extreme.  He
+was obstinate only in defending the interests of the Church of
+Rome, and, however we may judge the claims themselves, we must
+acknowledge that he supported them from conscientious motives.
+Reading and contemplation were the favorite occupations of his
+life, and even the time required for his meals, which were
+extremely frugal, he employed in discussing philosophical and
+theological questions."
+
+	AElius Donatus was a Roman grammarian, who flourished about the
+middle of the fourth century.  He had St. Jerome among his pupils, and
+was immortalized by his Latin Grammar, which was used in all the
+schools of the Middle Ages, so that the name passed into a proverb.  In
+the ^Vision of Piers ploughman~, 2889, we find it alluded to, --
+
+     "Then drewe I me along drapers
+      My donet to lerne";
+
+and Chaucer, ^Testament of Love~, says,
+
+     "No passe I to vertues of this Marguerite
+      But therein all my donet can I lerne."
+
+According to the note in Warton, ^Eng. Poet.~, Sect. VIII., to which I
+owe these quotations, Bishop Peacock wrote a work with the title of
+"Donat into Christian Religion," using the word in the sense of
+Introduction.
+
+	|139.~  Rabanus Maurus, a learned theologian, was born at
+Mayence in 786, and died at Winfel, in the same neighborhood, in
+856.  He studied first at the abbey of Fulda, and then at St.
+Martin's of Tours, under the celebrated Alcuin. He became a
+teacher at Fulda, then Abbot, then Bishop of Mayence.  He left
+behind him works that fill six folios.  One of them is entitled
+"The Universe, or a Book about All Things"; but they
+chiefly consist of homilies, and commentaries on the Bible.
+
+	|140.~  This distinguished mystic and enthusiast of the
+twelfth century was born in 1130 at the village of Celio, near
+Cosenza in Calabria, on the river Busento, in whose bed the
+remains of Attila were buried.  A part of his youth was passed at
+Naples, where his father held some office in the court of King
+Roger; but from the temptations of this gay capital he escaped,
+and, like St. Francis, renouncing the world, gave himself up to
+monastic life.
+
+	"A tender and religious soul," says Rousselot in his
+^Hist. de l'$Evangile $Eternel~, p. 15, "an imagination ardent
+and early turned towards asceticism, led him from his first youth
+to embrace the monastic life.  His spirit, naturally exalted,
+must have received the most lively impressions from the spectacle
+offered him by the place of his birth: mountains arid or burdened
+with forests, deep valleys furrowed by the waters of torrents; a
+soil, rough in some places, and covered in others with a
+brilliant vegetation; a heaven of fire; solitude, so easily found
+in Calabria, and so dear to souls inclined to mysticism, -- all
+combined to exalt in Joachim the religious sentiment.  There are
+places where life is naturally poetical, and when the soul, thus
+nourished by things external, plunges into the divine world, it
+produces men like St. Francis of Accesi and Joachim of Flora.
+
+	"On leaving Naples he had resolved to embrace the
+monastic life, but he was unwilling to do it till he had visited
+the Holy Land.  He started forthwith, followed by many pilgrims
+whose expenses he paid; and as to himself, clad in a white dress
+of some coarse stuff, he made a great part of the journey
+barefooted.  In order to stop in the Theba,id, the first centre
+of Christian asceticism, he suffered his companions to go on
+before; and there he was nigh perishing from thirst.  Overcome
+by the heat in a desert place, where he could not find a drop of
+water, he dug a grave in the sand, and lay down in it to die,
+hoping that his body, soon buried by the sand heaped up by the
+wind, would not fall a prey to wild beasts.  Barius attributes to
+him a dream, in which he thought he was drinking copiously; at
+all events, after sleeping some hours he awoke in condition to
+continue his journey.  After visiting Jerusalem, he went to Mount
+Tabor, where he remained forty days.  He there lived in an old
+cistern; and it was amid watchings and prayers on the scene of
+the Transfiguration that he conceived the idea of his principal
+writings: `The Harmony of the Old and New Testaments'; `The
+Exposition of the Apocalypes'; and `The Psalter of Ten Strings.'"
+
+	On his return to Italy, Joachim became a Cistercian Monk
+in the monastery of Corazzo in Calabria, of which erelong he
+became Abbot; but, wishing for greater seclusion, he soon
+withdrew to Flora, among the mountains, where he founded another
+monastery, and passed the remainder of his life in study and
+contemplation.  He died in 1202, being seventy-two years of age.
+
+	"His renown was great," says Rouselot, ^Hist. de
+l'$Evang. $Eternel~, p. 27, "and his duties numerous;
+nevertheless his functions as Abbot of the monastery which he had
+founded did not prevent him from giving himself up to the
+composition of the writings which he had for a long time
+meditated.  This was the end he had proposed to himself; it was
+to attain it that he had wished to live in solitude.  If his
+desire was not wholly realized, it was so in great part; and
+Joachim succeeded in laying the foundations of the Eternal
+Gospel.  He passed his days and nights in writing and in
+dictating.  `I used to write,' says his secretary Lucas, `day and
+night in my copy-books, what he dictated and corrected on scraps
+of paper, with two other monks whom he employed in the same
+work.'  It was in the middle of these labors that death surprised
+him."
+
+	In Abbot Joachim's time at least, this Eternal Gospel was
+not a book, but a doctrine, pervading all his writings.  Later,
+in the middle of the thirteenth century, some such book existed,
+and was attributed to John of Parma.  In the ^Romance of the
+Rose~, Chaucher's Tr., 1798, it is thus spoken of: --
+
+       "`A thousande and two hundred yere
+     Five-and-fifte, ferther ne nere,
+     Broughten a boke with sorie grace,
+     To yeven ensample in common place, --
+     That sayed thus, though it were fable,
+     ^This is the gospell pardurable~
+     ^That fro the Holie Ghost is sent.~
+     Well were it worthy to be ybrent.
+     Entitled was in soche manere,
+     This boke of which@e I tell here;
+     There n'as no wight in al Paris,
+     ^Beforne our Ladie at Parvis~
+     That thei ne might the bok@e by.
+
+       "The Universite, that was a slepe,
+     Gan for the braied, and taken kepe;
+     And at the noise the hedde up cast;
+     Ne never, sithen, slept it [so] fast:
+     But up it stert, and armes toke
+     Ayenst this false horrible boke,
+     All redy battaile for to make,
+     And to the judge the boke thei take."
+
+	The Eternal Gospel taught that there were three epochs in
+the history of the world, two of which were already passed, and
+the third about to begin.  The first was that of the Old
+Testament, or the reign of the Father; the second, that of the
+New Testament, or the reign of the Son; and the third, that of
+Love, or the reign of the Holy Spirit.  To use his own words, as
+quoted by Rousselot, ^Hist. de l'$Evang. $Eternel~, p. 78: "As
+the letter of the Old Testament seems to belong to the Father, by
+a certain peculiarity of resemblance, and the letter of the New
+Testament to the Son; so the spiritual intelligence, which
+proceeds from both, belongs to the Holy Spirit.  Accordingly, the
+age when men were joined in marriage was the reign of the Father;
+that of the Preachers is the reign of the Son; and the age of
+Monks, ^ordo monachorum~, the last, is to be that of the Holy
+Spirit.  The first before the law, the second under the law, the
+third with grace."
+
+	The gem of this doctrine, says the same authority, p. 59,
+is in Origen, who had said before the Abbot Joachim, "We must
+leave to believers the historic Christ and the Gospel, the Gospel
+of the letter; but to the Gnostics alone belongs the Divine Word,
+the Eternal Gospel, the Gospel of the Spirit."

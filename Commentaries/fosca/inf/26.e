@@ -1,0 +1,1274 @@
+	|1-3~. Il canto si apre, in uno stile elevato, con una sarcastica
+invettiva che il poeta rivolge contro Firenze, cinque cittadini della
+quale aveva trovato fra i ladri. Firenze "batte le ali" (cfr. n. 125),
+diffonde la sua fama, in tutto il mondo (ed era in effetti cos@i, data
+la posizione dominante nell'economia europea di cui la citt@a godeva),
+a tal punto che |si spande~ anche per l'Inferno (@e ancora leggibile,
+sul palazzo del Bargello a Firenze, un'iscrizione del 1255 che esalta
+la citt@a "che possiede tutto il mondo"). Per Dante, perci@o, si tratta
+di una cattiva fama, dovuta alla degenerazione morale della citt@a
+(pianta di Satana: ^Par~. IX.127-129): anche il furto, considerato gi@a
+nel Medioevo peccato particolarmente infamante, @e per lui espressione
+di una societ@a che considera quale valore sommo la ricchezza e sfrena
+la cupidigia. Guido da Pisa: "Florentini omnes artes, omnes mercantias,
+omnes monetas, et quod peius est, omnes bonos mores, ubicunque habitant
+per universum orbem falsificant, destruunt et corrumpunt".
+
+	|4-6~. I cinque Fiorentini incontrati nella bolgia dei ladri
+erano tutti di elevata condizione sociale (|cotai~): guelfi e ghibellini,
+il che attesta che per Dante lo sfascio di Firenze non @e questione
+di parti. |Orranza~ @e una forma sincopata per "onoranza" (cfr. ^Inf~.
+IV.74).
+
+	|7-9~. Era diffusa credenza medievale (ma gi@a presente nel
+mondo classico: p. es. Orazio, ^Sat~. I.x.33) che i sogni fatti nelle
+ore precedenti l'alba fossero preannuncio della realt@a: Dante dice di
+aver sognato ^sul far del~ (|presso al~) mattino la prossima punizione
+di Firenze, la quale perci@o, come si augurano tutte le citt@a toscane,
+anche quelle pi@u piccole come Prato, senz'altro avr@a luogo. Secondo le
+congetture pi@u attendibili, il passo pu@o alludere alla maledizione
+scagliata contro Firenze dal cardinale Niccol@o da Prato (1304)
+oppure alla ribellione di Prato ed alla momentanea cacciata dei Neri
+(1309) oppure alla probabile caduta della guelfa Firenze in seguito
+alla elezione di Arrigo VII (1308). Benvenuto ricorda due sciagure che
+colpirono la citt@a nel 1304: il crollo del ponte alla Carraia ed un
+rovinoso incendio. Per quanto riguarda Prato, Guido da Pisa precisa che
+la citt@a fu sempre trattata bene da Firenze, "sicut a matre filia": e
+tuttavia "tanta est nequitia florentina quod non solum ipsius deiectionem
+alie optant gentes, sed etiam ipsum Pratum".  --  Abbiamo gi@a incontrato
+|agogna~ ("brama": ^Inf~. VI.28).
+
+	|10-12~. ^E se gi@a fosse~ ^avvenuto~, ^non sarebbe~ (|saria~)
+^troppo presto~ (|per tempo~). ^Cos@i avvenisse~ (|foss'ei~), ^dal
+momento~ (|da~) ^che deve~ (|dee~) ^pur accadere~ (|essere~)^! Poich$e~
+(|ch$e~) ^quanto pi@u invecchio~ (|com' pi@u m'attempo~) ^pi@u mi
+arrecher@a dolore~ (|graver@a~).  --  Spiega il Landino che "mostrasi
+l'autore desideroso di questo male, non per ruina della patria, la
+quale gli era carissima, ma per punizion dei cattivi cittadini che
+iniquamente l'amministravano; e per@o desidera che sia presto, acci@o
+che siano puniti quelli che hanno errato". Per quanto concerne il v. 12,
+l'esegesi @e variegata. Si legga il commento di Casini-Barbi: "Forte @e
+la questione che s'agita su questo verso, poich$e esso si presta a due
+interpretazioni del tutto opposte; il Torelli chiede: 'Che vuol dire?
+che quanto pi@u invecchio, tanto pi@u mi saranno gravi le disgrazie di
+Firenze? oppure che quanto pi@u invecchio, tanto mi graver@a pi@u che
+cotali disgrazie non accadano?'. Gli antichi tennero pi@u tosto per la
+seconda interpretazione, parlando di vendetta che l'esule invocava contro
+la patria (Lana, Benvenuto, Buti) oppure di desiderio d'esser esiliato
+prima d'invecchiare (Ottimo, Anonimo). I moderni inclinano invece ad
+un'altra spiegazione cos@i riassunta dal Bianchi: 'Essendo fatale che
+questi mali della mia patria accadano, fossero pur essi accaduti gi@a;
+perciocch$e, se ritardano, io ne avr@o affanno tanto pi@u grave, quanto
+pi@u sar@o presso alla vecchiezza, a cui le disavventure sono assai pi@u
+lamentabili ed angosciose'".
+
+	|13-18~. ^Noi ci allontanammo~ (|partimmo~), ^e la mia guida~
+(|'l duca mio~) ^risal@i~ (|rimont@o~) ^su per le scale naturali~
+(|scalee~) ^che prima~ (|pria~) ^le sporgenze~ (|i borni~) ^ci avevano
+offerto~ (|n'avean fatto~) ^per~ (|a~) ^scendere~, ^e mi aiut@o a
+salire~ (|trasse mee~); ^e proseguendo la via solitaria~ (|solinga~),
+^tra le sporgenze rocciose~ (|schegge~) ^e tra i massi~ (|' rocchi~)
+^della parete~ (|scoglio~) ^il piede~ (|pi@e~) ^senza la mano non si
+toglieva d'impaccio~ (|si spedia~).  --  I due viatori risalgono per
+la stessa via difficile (come evidenzia la terzina 16-18) che avevano
+utilizzato per scendere. Secondo Benvenuto, il particolare non @e
+casuale, ma @e in relazione ai reprobi (gli "astuti", sagaci ma non
+'prudenti') dell'ottava bolgia: "... via furum est occulta, sed via
+istorum astutorum est occultissima, et est contraria illi, quia fraus
+furum procedit a magna vilitate animi, fraus vero astutorum procedit
+a magna subtilitate et acuitate ingenii: ideo fures sunt valde infames
+et ignominiosi, isti vero astuti sunt valde famosi et gloriosi quantum
+ad mundum, sicut statum patebit de Ulyxe. Ideo bene autor fingit,
+quod in introitu istius viae oportuit ipsum facere de pede et manu,
+quia oportuit apponere affectionem et operationem circa talem materiam
+describendam". Al v. 14 Petrocchi modifica l'ediz. del '21 e legge
+^iborni~ (lat. ^eburneus~, "di avorio" e quindi "bianco come l'avorio",
+ossia "pallido"); tuttavia la voce |borni~, oltre che di provenienza
+francese (^bornes~, che designa le pietre sporgenti poste alla base
+dei muri per proteggerli dagli urti) e provenzale, @e attestata nel
+dialetto toscano, nel senso di "sporgenza", "protuberanza" (da ^bornio~
+deriva forse "bernoccolo"). Scrive poi M. Picone: "Uno dei ^Leit-motive~
+di questo canto, la presenza del limite e il tentativo di superarlo,
+comincia a farsi sentire fin dalle prime battute, dato che i |borni~ sono
+da collegare col francese ^bornes~, un termine capitale della ^qu#ete~
+romanzesca, usato per indicare il confine fra il mondo conosciuto e quello
+sconosciuto" ("Il contesto classico del canto di Ulisse": ^Strumenti
+critici~, 2000, p. 174). Usuale (del toscano) l'epitesi in |mee~.
+
+	|19-24~. Accingendosi a trattare della pena inflitta a coloro
+che hanno utilizzato le doti intellettive (il linguaggio) per raggirare
+e danneggiare il prossimo, il poeta rivolge a s$e stesso un invito
+alla cautela: |stella bona~ (cio@e i Gemelli: ^Par~. XXII.112-117)
+o, soprattutto, la grazia divina (|miglior cosa~) gli hanno dato ^il
+dono dell'ingegno~ (|'l ben~); spetta a lui adesso non abusarne, ossia
+non utilizzarlo a fini contrastanti con la legge naturale e divina.
+L'autore  --  spiega Guido da Pisa  --	"formidavit ne suum ingenium,
+quod erat inter mortales tam splendidum et subtile, ad omnia humana et
+divina opera investiganda ac etiam exercenda, in similia laberetur". S.
+Agostino: "L'ingegno acuto l'hanno anche uomini pessimi, la destrezza
+e l'abilit@a artistica l'hanno anche gli istrioni pi@u immorali, le
+ricchezze le hanno anche i furfanti, buone famiglie e figli li hanno
+tanti cattivi. Nessuno pu@o negare che tutti questi siano magnifici
+doni di Dio; ma guarda bene con chi li hai in comune. [...] La profezia
+quale dono rappresenta? Profet@o anche Saul, che era un re cattivo"
+(^Enarr. in Ps~. 103, s. 1.9). Fra i vari rinvii al testo sacro operati
+nell'occasione da Pietro di Dante, scegliamo quello all'^Ecclesiastico~:
+"Metti porte e chiavistelli alla tua bocca [...] e freni ben aggiustati
+alla tua bocca" (28.25-26). Abbiamo notato che una precedente allusione
+del poeta alla necessit@a di "tenere a freno" le proprie capacit@a era
+legata all'istanza di restare aderenti alla realt@a (cfr. ^Inf~. XVII,
+n. 106-114); si tratta di una istanza fondamentale, perch$e  --  come
+si vedr@a  --  i due consiglieri fraudolenti protagonisti dei canti
+XXVI e XXVII (Ulisse e Guido da Montefeltro) mostrano nei loro discorsi
+proprio la tendenza a spezzare il nesso parole-cose, tendenza che @e
+causa della menzogna, atto malevolo ed innaturale: "cum enim voces sint
+signa naturaliter intellectuum, innaturale est et indebitum quod aliquis
+voce significet id quod non habet in mente" (^ST~ II-II, q. 110, a. 3;
+cfr. ^Inf~. XXVII, n. 123).  La forte reiterazione |mi dolsi~^...~ |mi
+ridoglio~ pone anche in primo piano il dolore provato dal pellegrino
+di fronte allo spettacolo dell'ottava bolgia; sappiamo che ci@o prova
+un certo coinvolgimento del protagonista nei confronti degli spiriti
+puniti, ma non @e sufficiente per farci parlare di ammissione di colpa
+(e quindi di pentimento), che esige il pianto. Tuttavia Benvenuto
+afferma che Dante era "aliquando" incorso nell'uso scorretto delle
+proprie doti intellettuali: "... multi fuerunt, et continuo sunt viri
+valentissimi excellentis ingenii apti nati a natura ad omne nobile opus,
+et tamen non exercent suam providentiam, solertiam et sagacitatem nisi
+circa fraudes et malitias.  Ideo autor, qui cognoscebat in se ingenium
+mirabile, visa dolorosa poena istorum ardentium, velut in furnace,
+recordatus quod aliquando usus fuerat male opera ingenii sui, indoluit et
+proposuit sibi cavere de caetero a similibus astutiis". Quindi il poeta,
+nel dolersi, avverte ancora il rischio di cadere di nuovo in tale errore,
+un errore di superbia intellettuale (cfr. ^Inf~. I, n. 76-78) che porta
+ad utilizzare male doti da Dio elargite. Retrospettivamente, possiamo dire
+con certezza che il pellegrino effettivamente err@o in tal senso: infatti
+egli dovr@a contrirsi quando giunger@a nell'Eden, incalzato da Beatrice,
+la quale non a caso gli ricorder@a quanto largamente fosse stato dotato
+^non pur per ovra de le rote magne~, ^ma per larghezza di grazie divine~
+(^Purg~. XXX.109, 112). Una costruzione latineggiante @e |m'invidi~
+(^invidere sibi~, "invidiare a s$e"). Berthier: "Perch$e l'invidioso
+considera il bene del prossimo come un male suo proprio, quindi l'invidia
+sta sempre attenta a rovinare, o almeno a diminuire il bene altrui (^ST~
+II-II, q. 36, aa. 1, 2, 3, 4; q. 158, aa. 1, 4). Da questo fatto Dante
+prende la sua metafora e dice che egli non deve comportarsi verso se
+stesso come l'invidioso verso gli altri, cio@e diminuire il bene ricevuto
+da Dio, ossia l'ingegno suo, adoperandolo a consigliare il male".
+
+	|25-33~. Dalla sommit@a del ponte, Dante osserva lo spettacolo
+della bolgia, tutta cosparsa di fiamme: allo stesso modo, al tramonto
+del sole, il ^contadino~ (|villan~), dalla ^collinetta~ (|poggio~:
+voce adoperata per cinque volte nel poema in riferimento alla montagna
+del Purgatorio) in cui ha l'abitazione, guarda in basso nella ^piana~
+(|vallea~: franc. ^vall$ee~, "vallata") dove di giorno lavora e scorge
+le luci delle lucciole. La stagione estiva e l'ora del crepuscolo
+sono designate tramite le metafore della maggiore irradiazione solare
+(la perifrasi |colui... schiara~ denota il sole) e delle zanzare che
+succedono alle mosche. I particolari sono tratti dalla vita quotidiana,
+ma esposti con una cura tale da dare un'impressione di raffinatezza, in
+sintonia coll'elevatezza di tono del canto. Per T.P. Logan (in ^Annual
+Report of the Dante Society~, 1964, pp. 19-46) il |villano~, "come Enea,
+@e una personificazione degli ideali di fedelt@a alla casa, alla famiglia
+ed alla patria", ideali non rispettati da Ulisse. A. Cornish ("The Epistle
+of James in 'Inferno' 26": ^Traditio~, 1989-90, pp.  378-79) ha rilevato
+come una immagine bucolica affine occorra in un passo della ^Epistola
+di Giacomo~ (5.7) che esorta alla pazienza (cfr.  ^Conv~. IV.ii):
+il |villano~ rappresenta la speranza, opposta alla presunzione di
+Ulisse. R. Hollander (^comm. ad loc~.) parla di "effetto distanziante"
+della similitudine, nel senso che i dannati (in vita cos@i pieni di s$e)
+appaiono in realt@a quasi insignificanti. P.  Grimaldi Pizzorno rinvia
+al passo dell'^Eneide~ in cui Enea, vedendo Troia in fiamme, si paragona
+all'ignaro pastore che vede le sue messi bruciare: "... stupet inscius
+alto \| accipiens sonitum saxi de vertice pastor" (II.307-308). Ma le
+conclusioni della studiosa non sono giustificate: "Nella persona del
+pastore Dante trova la posizione filosofica ideale, di pacato distacco,
+che gli consente di affrenare l'|ingegno~"; si tratta di un'allusione
+all' "ideale stoico della moderazione, il ^servare modum~ virgiliano, il
+distacco dalle passioni, siano esse intellettuali, politiche o erotiche"
+("Sic notus Ulixes?": ^Strumenti critici~, 1999, p. 366). In effetti
+il poeta cristiano, poeta militante (cfr. ^Inf~. XXVIII, n. 112-117),
+non si "distacca" dalle passioni, ma le mette al servizio della carit@a,
+di Dio. "Si turbi pure l'animo del Cristiano, non per miseria ma per
+misericordia; abbia timore che gli uomini si perdano allontanandosi da
+Dio, tema anche per s$e di perdere Cristo [...] Sono queste le quattro
+passioni che turbano l'anima: il timore, la tristezza, l'amore e la
+letizia. Un Cristiano non deve temere di sentire, per i giusti motivi,
+queste passioni, evitando di cadere nell'errore dei filosofi stoici e dei
+loro seguaci" (Agostino, ^In Io. Ev~. 60.3: cfr. ^Inf~. IV, n. 112-114).
+Sovente, nel corpo del poema, l'Autore	--  come all'inizio di questo
+canto  --  dichiara di confidare nella (e di affidarsi alla) vendetta
+divina, il che @e prova di ^ira bona~ (cfr. ^Inf~. VIII, n. 43-45).
+"Adiratevi e non vogliate peccare" (^Ps~. 4.5). Commenta S. Agostino:
+"La carit@a, anche se talvolta si adira al fine di correggere, non @e
+considerata peccaminosa, perch$e questa sua ira non @e tanto radicata
+da cambiarsi in odio" (^Enarr. in Ps~. 103, s. 3.19). Come distinguere
+allora il desiderio di vendetta dell'uomo giusto da quello dell'uomo
+ingiusto? "Ecco: il giusto desidera in primo luogo che il nemico si
+ravveda e solo subordinatamente che sia punito; e quando vede che
+il Signore ha fatto giustizia, non trova gioia nella condizione del
+nemico che odia, ma si rallegra della giustizia divina, perch$e ama Dio.
+Inoltre, se la vendetta avviene in questa vita, il giusto se ne rallegra
+poich$e con essa il colpevole ha da correggersi, o quanto meno se
+ne rallegra per gli altri, in quanto costoro temeranno di imitare il
+colpevole. Egli stesso poi ne diviene migliore, non alimentando il suo
+odio nella punizione del nemico, ma approfittandone per correggere i
+propri errori" (^Enarr. in Ps~. 78.14). Non sono le passioni, nell'ottica
+cristiana, il "male", ma la mancanza di autocontrollo razionale; non
+il corpo @e il "nemico", ma il fatto che esso non @e sottomesso alla
+ragione. Per altro versante, la retorica "buona" del poeta cristiano
+non si contrappone di per s$e alla retorica politica-suasoria, bens@i
+alla retorica "cattiva" che spezza il legame fra parole e realt@a
+(cfr. n. 139-142). Per quanto concerne il ^contrapasso~, Benvenuto offre
+cinque spiegazioni, delle quali riportiamo la prima ("isti fuerunt homines
+magni ingenii, et ingenium provenit a caliditate, unde homines calidi
+sunt magis ingeniosi"), la quarta ("isti cruciantur occulte, ita quod
+non apparent ad figurandum occultas vias et cauta consilia talium, quae
+nullus potest interdum comprehendere, imo nec coniecturare, sicut dicetur
+capitulo sequenti de comite Guidone de Montefeltro, ^gli accorgimenti
+e le coperte vie~") e la quinta ("ignis de prope laedit et contristat,
+a longe vero lucet et laetificat; ita isti saepe nocent suis vicinis,
+tamen placent et lucent extraneis, quia sunt famosi, et laudantur a
+longinquis, sicut patet in multis dominis Italiae").
+
+	|34-42~. La sostanza della complessa similitudine @e la seguente:
+come il profeta Elia, rapito in cielo su un carro avvolto dal fuoco, non
+pot$e essere visto dal suo discepolo Eliseo, cos@i ora non @e possibile
+vedere le anime, le quali sono avvolte dalla fiamma, che le ^nasconde~
+(|invola~) celando cos@i ^l'anima sottratta alla vista~ (|'l furto~,
+letteralmente "l'oggetto rubato [allo sguardo])" (in ^Metam~. XIII.104
+Ulisse @e colui che inganna con sotterfugi [^furtis~]; cfr. ^Metam~.
+XIII.111). La similitudine, per H. Goldstein, genera una sorta di "ironic
+shock": "Elijah's ascent to heaven is in specific opposition to Ulysses'
+descent into hell; the fires that took Elijah to his eternal beatitude
+are in marked contrast to the fires of eternal damnation in which Ulysses
+dwells. The story of Elijah, a good counsellor, ironically opens an epic
+story of a counsellor of evil" ("^Enea e Paolo~: A Reading of the 26th
+canto of Dante's ^Inferno~": ^Symposium~, 1965, p. 322). Proseguendo nella
+lettura, per@o, potremo dire che il ^volo~ di Ulisse @e |folle~ in quanto
+legato alla dimensione terrena e presuntuosamente basato sulle sole forze
+umane, mentre il volo di Elia @e verso il cielo, "rapito" in un "turbine"
+ossia salvato grazie all'intervento divino (cfr. n. 139-142). L'episodio
+di Elia @e narrato nel IV ^Libro dei Re~ (2.11-12), dal quale @e inoltre
+tratta la perifrasi (|colui... con li orsi~) con cui viene indicato
+Eliseo: questi, beffeggiato da alcuni fanciulli per via della calvizie
+("Sali calvo, sali calvo!"), "li maledisse nel nome del Signore;
+e due orsi usciti dal bosco sbranarono quarantadue di quei ragazzi"
+(2.23-24). La similitudine equipara il pellegrino ad Eliseo ("Dantes
+alter Eliseus, nam fuit de Eliseis": Benvenuto): ambedue non riescono
+a vedere quanto @e celato dal fuoco (sulla positivit@a della figura di
+Eliseo cfr. fra gli altri R. Hollander, ^Allegory in Dante's 'Comedy'~,
+Princeton Univ.  Press, 1969, p. 117; L. Ferretti Cuomo, "La polisemia
+delle similitudini nella ^Divina Commedia~. Eliseo: un caso esemplare":
+^Strumenti critici~, 1995, pp. 105-42). Ferretti Cuomo pone nel debito
+rilievo la diffusa considerazione di Eliseo come ^figura Christi~, ma lo
+considera anche come "iracondo che uccide degli innocenti", concordando
+con M. Frankel, per la quale l'episodio biblico degli orsi @e un atto di
+vendetta sproporzionata e sconsiderata ("The Context of Dante's Ulysses":
+^Dante Studies~, 1986, pp. 112-114). Invece l'episodio @e per S. Tommaso
+esempio di doverosa vendetta (^ST~ II-II, q. 108, a. 1), in coerenza
+con l'immagine di Eliseo profeta e ^figura Christi~. Notiamo ancora che
+Ferretti Cuomo si rif@a in primo luogo a S. Agostino, ma non citando
+quelli che sono forse i passi pi@u espliciti al riguardo: nel commento
+agostiniano ai ^Salmi~, infatti, leggiamo che il calvo raffigura Cristo,
+"crocifisso in una localit@a detta Calvario" (^Enarr. in Ps~. 83.2; 84.2),
+mentre i fanciulli prefigurano i Giudei, i quali "furono posseduti dal
+demonio e divorati.  In effetti nel luogo del Calvario, crocifiggendo
+Cristo e levandolo sulla croce, essi stessi dicevano con intelligenza
+puerile 'Sali calvo'. Che significa 'sali'? Significa 'crocifiggi'" (Ivi
+46.2). Ci@o ci consente di porre il raffronto Eliseo-Dante nell'ambito
+del "modello cristologico" (^Inf~. I, n. 1-2) cui va riferito il viaggio
+ultraterreno: se la salita del Calvario costituisce l'umiliazione suprema
+dell'Uomo-Dio a pro dell'umanit@a corrotta, il viaggio infernale di
+Dante rappresenta l'itinerario penitenziale, la discesa all'umilt@a,
+indispensabile per ottenere la giustificazione e la salvezza. Necessaria
+la precisazione di Agostino: "Fu in alto sulla croce nel giorno della
+sua umiliazione, poich$e anche la sua umiliazione non poteva essere
+se non un'elevazione" (^Enarr. in Ps~.	132.11).  --  Per |levorsi~,
+cfr. ^Inf~. XXXIII.60. Il termine |gola~ designa il fatto che la bolgia
+@e pi@u stretta al fondo.
+
+	|43-45~. Dante, finalmente ^ritto~ (|surto~: la rima aspra in
+-^urto~ @e unica in tutto il poema) dopo la salita compiuta carponi,
+@e a tal punto attento (cfr. v. 46) che si sporge e, per non cadere,
+deve aggrapparsi ad una ^sporgenza rocciosa~ (|ronchione~: cfr. ^Inf~.
+XXIV.28). "Il poeta quindi manifesta il desiderio di apprendere sempre
+meglio cosa sia il peccato" (Berthier). Il pericolo di cadere, a giudizio
+di Trucchi, "allegoricamente significa quanto facilmente un uomo dotato
+d'ingegno possa cadere in quel peccato che qui si punisce, se non lo
+sorregge e non accondiscende alla grazia".
+
+	|46~. |atteso~: "intento" a guardare (come a ^Inf~. XIII.109).
+
+	|47-48~. Virgilio spiega che gli spiriti sono all'interno dei
+fuochi: ^ciascuno~ (|catun~) ^@e avvolto~ (|si fascia~) dalla fiamma da
+cui @e ^arso~ (|inceso~: participio passato di ^incendere~). Prigioniere
+delle fiamme vaganti sono le anime dei consiglieri fraudolenti, anche se
+mai Dante le chiama cos@i: nel prossimo canto, si fa cenno al ^consiglio
+frodolente~ (v. 116) di Guido da Montefeltro.  --  La costruzione |dentro
+da~ si ripeter@a ai vv. 58 e 64 (cfr. ^dietro da~ a ^Inf~. XXV.22).
+
+	|49-54~. Il pellegrino dice a Virgilio di avere avuto anch'egli
+quell'idea (|m'era avviso~: "mi era sembrato": costruzione lat. [^mihi
+visum erat~]), ma di esserne |pi@u certo~ ^dopo averti ascoltato~ (|per
+udirti~: secondo altra lettura, "poich$e lo ascolto da te"). Ci@o  --
+rileva Trucchi	--  fa pensare che Virgilio si sbagli, poich$e ritiene
+"il discepolo maravigliato di veder fiamme vaganti nell'Inferno, come
+se questi non avesse compreso il vero da s$e". Quindi sembra che la
+guida non goda della piena capacit@a di leggere nella mente del guidato
+(cfr.  ^Inf~. XVI, n. 118-120). Prosegue Trucchi: "Sapevamcelo! poteva
+rispondere Dante, non pi@u tanto nuovo dell'Inferno da non comprendere
+da s$e certe cose. Egli aveva sperato che Virgilio, come altre volte,
+gli avesse letto in viso l'ardente desiderio di conoscere il mistero
+di quella fiamma bicorne e l'avrebbe chiarito. Disingannato, risponde
+per@o con affetto e cortesia perch$e Virgilio non si opponga a quanto
+desidera". Perci@o egli chiede apertamente chi si trova in quella
+^fiamma~ (|foco~) diversa dalle altre, in quanto divisa in due punte;
+essa gli ricorda quella che si alzava (|surger~ = "alzarsi") dal ^rogo~
+(|pira~) in cui furono posti i cadaveri di Eteocle e Polinice. Costoro,
+come narrano Stazio (^Theb~. XII.429-36) e Lucano (^Phars~. I.551-52),
+erano due fratelli tebani, figli di Edipo e Giocasta (la ^doppia tristizia
+di Iocasta~: ^Purg~. XXII.56), che si odiavano a tal punto che, una
+volta posti sul rogo dopo essersi uccisi a vicenda, anche la fiamma
+che li bruciava si divise. Il paragone, stavolta di origine classica,
+ribadisce la volont@a del poeta di innalzare il tono dell'episodio;
+|miso~, del resto, @e termine del linguaggio lirico (nel poema solo in
+rima: cfr. ^Par~. VII.21). Ma l'esempio convoglia un senso moralmente
+negativo, giacch$e i due fratelli erano, nella cultura del tempo,
+pessime figure di peccatori.
+
+	|55-57~. All'interno della fiamma si ^punisce~ (|martira~)
+Ulisse e Diomede, famosi eroi greci (|si martira~ @e forma impersonale,
+con |Ulisse e D,iomede~ in funzione di complemento oggetto). Essi
+meritarono l'|ira~ divina (il giudizio sotto il quale vive il peccatore)
+e sono sottoposti al ^giusto castigo~ (|vendetta~) (cfr. il nesso di
+|vendetta~ e |ira~ a ^Par~. VI.90). I due eroi, durante la guerra di
+Troia, collaborarono in imprese in cui fecero mostra di violenza e
+soprattutto di astuzia; in particolare Ulisse, emblema, in una certa
+tradizione letteraria (nel caso le fonti di Dante sono Virgilio, Ovidio e
+Stazio), dell'intelligenza ingannatrice (cfr. n.  139-142). Per Benvenuto,
+la similitudine della ^doppia tristizia di Iocasta~ @e particolarmente
+acconcia perch$e, come Eteocle fu "fortis" e Polinice "fraudulentus",
+cos@i Diomede fu "fortissimus" ed Ulisse "astutissimus". Le avventure
+di Ulisse sono narrate nell'^Iliade~ e nell'^Eneide~, ma a lui @e
+soprattutto dedicata l'^Odissea~ (che Dante conobbe  --  come del
+resto anche l'^Iliade~	--  solo attraverso citazioni e sommari),
+che ne racconta le peripezie e le vicende dopo la conquista di Troia,
+fino al ritorno in patria, l'isola di Itaca. La figura di Diomede
+resta qui in secondo piano: infatti Ulisse @e la punta pi@u alta della
+fiamma (v. 85). Questi, d'altronde, pose in atto il proprio "ingegno"
+in altre occasioni, oltre a quelle che fra poco Virgilio ricorder@a;
+nell'^Eneide~, ove Ulisse @e detto fra l'altro "ideatore e istigatore
+di crimini" (II.164; VI.529) e "bugiardo" (^fandi fictor~: IX.602), non
+si fa il nome di Diomede a proposito dei guerrieri che parteciparono
+all'inganno del cavallo di Troia, che per Dante @e colpa tanto grave
+quanto importante storicamente (vv. 59-60). L'idea di accomunare nella
+pena Ulisse e Diomede pu@o scaturire  --  come segnalato da Guido da Pisa
+--  da ^Metam~. XIII.239-40: Ulisse afferma infatti che "Diomede mi fa
+partecipe delle sue imprese, mi apprezza e confida sempre nel mio aiuto"
+(vedi anche ^Metam~. XIII.100, 350-51).
+
+	|58~. |si geme~: "si sconta" (impersonale come |si martira~
+	del v. 55).
+
+	|59-60~. Come narra l'^Eneide~ (II.13ss.), i Greci, dopo dieci
+anni di inutile assedio, prendono Troia con |l'agguato del caval~
+escogitato da Ulisse: essi fingono di andarsene, lasciando davanti
+alle mura di Troia un enorme cavallo di legno, al cui interno c'@e un
+drappello di guerrieri. Il cavallo @e portato all'interno e di notte
+il drappello esce ed apre le porte della citt@a all'esercito greco,
+nel frattempo tornato. Cos@i Troia viene distrutta, il che provoca la
+fuga di Enea (per alcuni, |la porta~ @e proprio la breccia materiale
+delle mura attraverso cui il Troiano esce) e la successiva fondazione di
+Roma, cio@e dell'Impero (cfr. ^Inf~. II.20-21). Il nome di Ulisse non @e
+esplicitamente dichiarato, tuttavia Laocoonte, nel mettere (inutilmente)
+in guardia i Troiani, esclama: "...potete pensare che un dono dei
+Greci sia senza inganno? cos@i vi @e noto Ulisse?" (^Aen~.  II.43-44;
+cfr. ^Achill~. I.846-47). Enea @e definito come ^il nobile~ (|gentil~)
+^progenitore~ (|seme~) ^dei Romani~: "pater Eneas Romanae stirpis origo"
+(^Aen~. XII.166). Va detto che alcuni commentatori non ritengono immorale
+l'azione di Ulisse, essendo questa situata in un contesto particolare,
+ossia quello di una guerra condotta per una giusta causa e regolarmente
+dichiarata, caso in cui l'uso dell'inganno non pare riprovevole. Al
+proposito P. Boyde, discutendo dei dubbi sollevati dall'Ottimo, afferma
+che, "per Dante, la frode @e sempre frode, ed @e sempre erronea" (^Human
+Vices and Human Worth in Dante's~ Comedy, Cambridge Univ. Press, 2000,
+p. 242). Va tuttavia precisato che, per il poeta, la regola non @e cos@i
+rigida, tant'@e vero che egli loder@a il comportamento ingannevole del
+pellegrino nei confronti di frate Alberigo (^Inf~. XXXIII.150). Come
+ricordato dal Berthier, infatti, secondo l'Aquinate la menzogna @e sempre
+un atto riprovevole, ma nei casi di guerra "giusta" @e lecito nascondere
+le propre intenzioni al nemico.
+
+	|61-63~. Virgilio parla di un'altra ^astuzia~ (|arte~) espiata
+nella fiamma biforcuta. Come si legge nell'^Achilleide~ (II.15ss.),
+Achille, per sfuggire alla guerra di Troia secondo la volont@a della
+madre Teti, si era nascosto, in abiti femminili, a Sciro, dove aveva
+sedotto Deidamia, figlia del re; ma Ulisse e Diomede lo scovarono
+e lo convinsero a seguirli a Troia, della qual cosa Deidamia (che
+@e nel Limbo: ^Purg~. XXII.114) |ancor si duol~ (cfr. ^Purg~. IX,
+n. 34-42).  Le prime due colpe ricordate da Virgilio furono commesse
+con astuzia ingannatrice, ma lo stesso non pu@o chiaramente dirsi per
+la terza colpa: Ulisse e Diomede sottrassero, con gesto sacrilego,
+la statua di Pallade che si trovava a Troia e che si diceva garantisse
+l'inviolabilit@a della citt@a (^Aen~. II.162-94; per le ^Metamorfosi~
+cfr. n. 139-142). Comunque  --	come notato da G. Cipolla (^Dante's
+Ulysses~, in ^Dante: Summa Medievalis~: ^Forum Italicum~ [Supplem.],
+1995, pp. 147-48)  --  tutte e tre (come pure il viaggio oltre le
+Colonne d'Ercole che Ulisse fra poco narrer@a) implicano il dispregio
+per la volont@a divina, una arrogante irriverenza dovuta all'eccessivo
+confidare nelle proprie forze: un "delirio d'onnipotenza", insomma,
+che cristianamente @e effetto di massima superbia. V'@e chi sottolinea,
+per@o, che Ulisse ag@i con l'ausilio del troiano Antenore e corruppe il
+sacerdote custode del Palladio: cos@i Guido da Pisa afferma che Ulisse,
+"astutus et furtis assuetus", entr@o di notte a Troia "secreto auxilio"
+di Antenore e, "elargito magno auri pondere" al sacerdote, "ipsius
+Palladii effigiem consentiente dicto Anthenore sacrilego dolo cepit".
+
+	|64-69~. La richiesta che Dante (il quale ricorda anche
+di essersi rischiosamente proteso dal ponte: vv. 43-45) rivolge a
+Virgilio @e molto enfatica, essendo stilisticamente espressa mediante
+una delle replicazioni pi@u intense del poema; essa prova ancora il
+forte coinvolgimento personale del pellegrino. La formula ^fare niego~
+("dire di no, proibire") sar@a riutilizzata in ^Purg~. XXV.33.
+
+	|70-75~. Virgilio ritiene degna di ^lode~ (|loda~: la desinenza
+in -^a~ gi@a in II.103) la richiesta di Dante: evidentemente questi avr@a
+molto da imparare dalle parole dei reprobi. Tuttavia la guida, precisando
+di aver ^capito~ (|concetto~: dal lat. ^conceptus~, "compreso", "intuito",
+ecc.) ci@o che Dante vuol sapere, richiede che il suo pupillo ^si astenga
+dal parlare~ (|si sostenga~): infatti i dannati, essendo Greci, forse
+sarebbero ^restii~ (|schivi~) a rispondere alle sue parole. Perch$e questa
+richiesta di Virgilio? Molte le ipotesi formulate dagli studiosi. Per
+alcuni si fa qui riferimento alla proverbiale superbia dei Greci
+(menzionata da Dante in ^Rime~ LXXII.6). Secondo i pi@u, @e Virgilio che
+deve parlare in quanto anello di congiunzione fra civilt@a greca antica
+e civilt@a medievale latina (che non leggeva il greco), in quanto cio@e
+appartenente ad una cultura affine a quella degli eroi. Secondo l'Ottimo,
+"Virgilio seppe greco, e greco parl@o qui". Il poeta latino  --  precisa
+Benvenuto  --  conosceva benissimo la lingua greca, cerc@o sempre di
+imitare "vestigia graecorum" e scrisse molto delle gesta "graecorum et
+potissime Ulyxis et Diomedis, ideo verisimiliter isti erant responsuri
+sibi sine indignatione". L'idea dell'Ottimo @e condivisa da parecchi
+studiosi: segnaliamo le argomentazioni particolari addotte a sostegno
+da D.J.  Donno ("Dante's Ulysses and Virgil's Prohibition": ^Italica~,
+1973, pp.  26-37). A parere di J. Freccero (^Dante. La poetica della
+conversione~, trad. it. Bologna, Il Mulino, 1989, pp. 201-202), @e
+questione di stile: "il linguaggio usato da Virgilio e Ulisse @e uno
+stile comune, l'alto stile dell'epica antica: le sue qualit@a non possono
+essere apprezzate dalla volgare compagnia infernale, il cui linguaggio
+@e il ^sermo humilis~ della ^comed@ia~ cristiana". In effetti Virgilio
+adotter@a uno stile 'alto', da poeta epico che si rivolge all'eroe
+epico, anche se  --  a parere di G. Padoan (cfr. n. 79-84)  --	dalle
+sue parole trasparir@a un "ironico sarcasmo", che si connette alla brusca
+formula di commiato (in ^lombardo~: ^Inf~. XXVII.21) che egli adotter@a
+nel "licenziare" la fiamma biforcuta (cfr. ^Inf~. XXVII, n. 19-24).
+Anche Iannucci @e dell'idea che la circostanza che sia Virgilio a
+rivolgersi ai due Greci designa un mutamento di registro stilistico:
+"La strategia poetica di Dante @e sottile: in quanto moderno, egli
+finge di non potere penetrare il mondo distante di Omero. Non solo,
+infatti, egli parla una lingua moderna, e quindi diversa, ma anche il
+suo ideale di stile @e differente. Il modello stilistico del suo poema
+non @e l'aristocratico stile epico preferito dai greci e dai romani,
+ma lo stile umile e semplice della tradizione cristiana". Ulisse user@a
+nel suo discorso l'italiano, ma un italiano "illustre" degno dell'alto
+stile, anche se le sue parole "non proclamano ^salus, amor et virtus~,
+ma, al contrario, rivelano la sua ^hybris~" (A.A. Iannucci, ^Forma
+ed evento nella 'Divina Commedia'~, Roma, Bulzoni, 1984, pp. 155-56).
+L'idea di T. Tasso, che opina che "Virgilio qui inganni Ulisse, fingendo
+di essere Omero", ha avuto scarsa fortuna: Sapegno, p. es., la reputa
+"del tutto assurda". Ma essa non @e lasciata cadere a cuor leggero da
+Di Siena: "E veramente I'Itacense non fa s@i bella figura nell'^Eneide~,
+che possa saperne grado a Virgilio, quanto nell'^Odissea~ ad Omero: e al
+Fiorentino non sar@a parso mal fatto che il suo duca usasse un'astuzia
+con quegli astuti Greci. Del resto crediamo che il Poeta avrebbe almeno
+leggermente toccato di tale finzione, e non commesso che dalle sue
+parole dovessimo a fatica inferirla. Oltracci@o, pare che Virgilio
+non parlasse all'Itacense n$e in greco n$e in latino, ma in lombardo
+(^Inf~. XXVII.21), col quale linguaggio non potea menomamente simulare
+il gran cantore d'Achille e di Ulisse. Considerando dunque bene, non
+sembrer@a fondato il sospetto del Tasso: avvegnach$e pur si direbbe che
+il poeta greco potesse quivi usare la lingua d'Italia, come fa il poeta
+latino". Campi (^comm. ad loc~.) riferisce (dissentendo) dell'opinione
+del Romani, per il quale il poeta qui intende "manifestarci l'opinione
+che l'inganno e la bug@ia in certi casi possono essere leciti, se usati
+ad onesto fine e senza danno del prossimo". @E interessante notare che
+S. Agostino (^Enarr. in Ps~. 11.4) pone in collegamento due passi sacri,
+il primo dei quali @e ^Ps~. 12.4 ("Recida il Signore tutte le labbra
+ingannatrici, tutte le lingue magniloquenti") ed il secondo @e ^Rom~. 2.9
+("Tribolazione e angoscia ricadr@a su ognuno che opera il male: prima
+sopra il Giudeo e poi sul Greco"). Scrive infatti l'Ipponate: "... ^tutte
+le lingue ingannatrici~. Ha detto ^tutte~, affinch$e nessuno creda di
+essere eccettuato, come dice l'Apostolo: ... ^e poi sul Greco~. Lingua
+magniloquente, cio@e lingua superba". Evidente il nesso fra superbia
+(Greci) e lingua magniloquente.
+
+	|76-78~. Le parole che Virgilio si accinge a pronunciare saranno
+molto solenni; perci@o sono introdotte da un latinismo (|audivi~ =
+"udii") che, per quanto al tempo ancora in uso, non @e altrove utilizzato
+dall'Alighieri.
+
+	|79-84~. Virgilio, l'autore degli |alti versi~ (i versi di stile
+elevato, cio@e l'^Eneide~, gi@a detta ^alta traged@ia~: ^Inf~. XX.113),
+sembra volto, adottando uno stile ricercato, ad ottenere il consenso degli
+eroi con una ^captatio benevolentiae~ (sul modello di ^Aen~.  IV.317). A
+parere di Padoan (parere da pochi condiviso), la ripetizione di |meritai~
+@e spia di "ironico sarcasmo": "Aveva meritato di Ulisse e di Diomede chi
+in alcuni versi dell'^Eneide~ (II.163-67), tra i pi@u citati nei testi
+medievali, li aveva bollati per sempre", definendo il primo "ideatore
+di crimini" ed il secondo "empio"? ("Ulisse ^fandi fictor~ e le vie
+della sapienza": ^Studi danteschi~, XXXVII, 1960, p.  48) Si noti come
+Virgilio si rivolga, mostrando di aver capito il desiderio del discepolo,
+a uno solo dei due (|l'un di voi~), a quello |perduto~ (termine tecnico
+con cui, nei romanzi della Tavola Rotonda, si indicava il cavaliere che
+si smarrisce nella ricerca di un mondo ignoto), chiedendogli il ^luogo~
+(|dove~) della sua fine, pi@u che il modo. Qui Dante, sulla scorta
+dei suoi modelli latini (in questo caso Orazio, Cicerone, Seneca),
+assume Ulisse come simbolo dell'uomo spinto dal desiderio di ricercare
+(cfr. n. 139-142), della personalit@a del quale @e appunto rivelativo
+il luogo della morte; il tutto, naturalmente, alla luce della concezione
+cristiana per la quale @e la morte a dare significato alla vita (per cui
+|perduto~ vale "dannato").  Nel Medioevo si formulavano parecchie ipotesi
+sulla fine di Ulisse: quella dell'Alighieri @e forse anche influenzata
+dall'impressione suscitata dall'impresa dei fratelli Vivaldi, che nel 1291
+avevano oltrepassato lo stretto di Gibilterra, senza fare pi@u ritorno
+(cfr. al riguardo F.M. Rogers in ^Annual Report of the Dante Society~,
+1955, pp.  31-45). Comunque, la tradizione di un viaggio di Ulisse
+fino alle colonne d'Ercole, e oltre, era ben consolidata.  --  Come a
+^Inf~. I.126, anche qui |per lui~ funge da complemento d'agente, retto da
+un verbo usato in forma impersonale (|gissi~ = "si g@i", "se ne and@o").
+
+	|85-89~. @E la ^punta~ (|corno~) pi@u alta della fiamma |antica~
+(la guerra di Troia era collocata attorno al XII sec. a. C.), cio@e
+Ulisse, pi@u grande per fama e per peccato, a parlare; ma lo sforzo viene
+sottolineato vistosamente, quasi in antitesi alla facilit@a con cui
+chi @e racchiuso nella fiamma utilizz@o in vita la lingua, la parola.
+Ricordiamo che alcuni commentatori vedono nella punizione dell'ottava
+bolgia una inversione infernale della Pentecoste (Dono delle Lingue).
+
+	|90-99~. Oltre ad ignorare i poemi omerici (che non parlano
+della fine di Ulisse), l'Alighieri, a parere di molti, non conosce
+neanche i loro sunti e rielaborazioni n$e le aggiunte, eseguite in
+ambito neolatino, in cui la narrazione del ritorno in patria di Ulisse
+@e ampiamente svolta. Tuttavia la notizia del ritorno era diffusa, ai
+tempi di Dante, anche presso gli incolti. Per il suo racconto, il poeta
+prende le mosse da un brano di ^Metam~. XIV (vv. 435-40) in cui Macareo,
+uno dei compagni di Ulisse, riferisce ad Enea che essi erano stati
+invitati da Ulisse a riprendere il viaggio dopo un anno di permanenza
+(la specificazione temporale @e al v. 308) presso la maga Circe.
+Nell'^Odissea~ (ma Dante leggeva l'episodio in ^Metam~. XIV.241ss.),
+Circe (la maga che dimorava presso il monte Circeo, dove poi Enea
+avrebbe fondato Gaeta: ^Aen~. VII.1-4; ^Metam~. XIV.157) |sottrasse~
+("allett@o", "lusing@o", pi@u che "nascose", "trattenne": cfr. F.
+Brambilla Ageno, ^Studi danteschi~, Padova, Antenore, 1990, pp. 13-17)
+Ulisse col proprio fascino; ma poi Ulisse ripart@i per Itaca, mentre
+Dante lo fa partire alla scoperta dell'ignoto. Dopo aver condannato
+Ulisse, quindi, secondo la prima caratteristica a lui attribuita
+dalla tradizione, cio@e quella dell'uomo astuto ed ingannatore, ora
+Dante appronta il racconto dell'ultimo viaggio sulla base dell'altra
+tradizionale caratteristica dell'eroe, visto come l'uomo desideroso
+di conoscere (|divenir... esperto~) il mondo, i |vizi umani~ e la
+^virt@u~ (|valore~), ansioso di soddisfare quell'ansia di sapere che
+per Dante rende l'uomo nobile, ma pu@o anche perderlo, se |virt@u nol
+guidi~. E Ulisse non viene distolto da questo fine n$e dalla ^tenerezza~
+(|dolcezza~) per il figlio Telemaco n$e dalla |pieta~ (qui nel significato
+di "amore filiale") per il padre Laerte n$e dall'|amore~ coniugale
+(|Penelop$e~ @e, in quanto nome di origine greca, in forma ossitona):
+gli affetti vengono cio@e sacrificati (cfr.  ^Aen~. II.666). Qui emerge
+--  glossa Guido da Pisa  --  la "magna crudelitas" di Ulisse, che
+subordina i doveri familiari ad una "vagabunda inquisitio". "Tres sumus
+imbelles numero: sine viribus uxor, La,ertesque senex, Telemachusque
+puer": cos@i nelle ^Eroidi~ Penelope (I.97-98), che appella il marito
+"ferreus" (I.58) e cos@i gli si rivolge: "o nimium nimiumque oblite
+tuorum!" (I.41). Secondo G. Cipolla (^Dante's Ulysses~, in ^Dante: Summa
+Medievalis~: ^Forum Italicum~ [Supplem.], 1995, pp. 160-61), l'aggettivo
+|lieta~ @e qui usato nel senso di "feconda" (cfr. ^Inf~. XIV.97), quindi
+l'abbandono di Penelope implica il rifiuto di renderla madre, spregiando
+--  come @e tipico dell'arrogante individualista  --  l'alto dovere
+morale di concorrere alla riproduzione della specie. Inoltre Ulisse
+rinuncia alle sue responsabilit@a di re, venendo meno ad un preciso
+dovere nei confronti della comunit@a (cfr. L.V. Ryan, "Ulysses, Guido
+and the Betrayal of Community": ^Italica~, 1977, pp. 227-49). Ovviamente
+quello che eticamente conta @e la causa di un tale comportamento; se
+la causa @e buona, le cose cambiano, come insegna Ges@u: "Et omnis,
+qui relinquerit domum vel fratres aut sororem aut patrem aut matrem aut
+uxorem aut filios aut agros propter nomen meum, centumplum accipiet"
+(^Mt~.	19.29). Ricordiamo che, nel ^Convivio~ (I.i.4), si legge che
+gl'interessi familiari e civili possono costituire impedimento all'amore
+del sapere, fine fondamentale della vita umana. L'accenno a |Gaeta~,
+secondo Hollander, mostra un certo vanto da parte del Laerziade, che
+sembra cos@i porsi in competizione nei confronti di Enea. Ma prosegue
+il dantista americano: "Ulysses' aim, to discover the truth about
+the world and about mankind, sounds acceptable or even heroic to many
+contemporary readers. When we examine the prologue to this thought,
+in which he denies his family feelings for Telemachus, Laertes and
+Penelope in order to make his voyage, we may begin to see the inverted
+parallelism to the hero whom he would emulate and best, Aeneas, loyal
+to Ascanius, Anchises and Creusa. If Ulysses is venturesome, Aeneas is,
+as Virgil hardly tires of calling him, ^pius~, a 'family man' if ever
+there was one". Cfr. n. 139-142.  Sull'opposizione fra Enea ed Ulisse
+si veda J.A. Scott, ^Dante magnanimo~, Firenze, Olschki, 1977, pp. 141-47.
+
+	|100-102~. ^ma mi spinsi~ (|misi~) ^per il profondo~ (|alto~)
+^mare sconfinato~ (|aperto~) ^solo con una nave~ (|legno~) ^e con
+quella piccola compagnia~ (|compagna~) ^dalla~ (|da la~) ^quale non
+fui abbandonato~ (|diserto~).  --  Con i pochi compagni (|compagna~
+@e frequente nella lingua due-trecentesca: cfr. ^Purg~. XXIII.127)
+rimastigli, dopo tante peripezie, Ulisse si inoltra nel grande
+Mediterraneo (|alto mare~: cfr. ^Aen~. V.212; ^Georg~. IV.528).
+Frequente anche |legno~ come metonimia (qui, al v. 138). Lo stile @e
+ovviamente sempre alto, come si addice all'epica: si noti p. es. il
+latinismo |diserto~ (^desertus~).
+
+	|103-105~. I naviganti vedono le terre sulle due coste (|l'un
+lito e l'altro~, quello europeo e quello africano) del Mediterraneo e
+tutte le isole. Sembra che il poeta faccia qui riferimento ad una rotta
+marina assai nota nel mondo greco  --  la ^Via H#erakleia~  -- , rotta che
+sfruttava venti e correnti favorevoli ed evitava il pericolo dei pirati
+etruschi e liguri. D. De Robertis ("Lo scempio delle umane propietadi":
+^Bullettino Storico Pistoiese~, 1979, 1-2, p. 59) ha mostrato come le
+"coordinate geografiche" della rotta della nave di Ulisse siano esemplate
+sul racconto che del volo ("folle") di Icaro svolge Ovidio (^Ars amat.~
+II.79-82; ^Metam~. VIII.220-22).
+
+	|106-111~. Finalmente gli esploratori, oramai vecchi e ^stanchi~
+(|tardi~: cfr. ^Metam~. XIV.436), arrivano allo stretto di Gibilterra,
+allora chiamato "freto Gaditano" (abbiamo gi@a incontrato |foce~ nel
+senso di "apertura", "sbocco": ^Inf~. XIII.96; XXIII.109). Come punti
+di riferimento sulla terraferma vengono assunti la citt@a di Siviglia
+(che non @e sul mare), per l'Europa, e quella di Ceuta (la ^Septa~ dei
+Romani), per l'Africa. Su quella |foce~  --  precisa Ulisse  --  Ercole
+^pose~ (|segn@o~) i ^segnali~ (|riguardi~) ^affinch$e~ (|acci@o che~)
+l'uomo non ^proceda~ (|si metta~) oltre. "La tradizione geografica e
+letteraria sulle colonne d'Ercole legata, alle origini, a un tempio ivi
+dedicato a Ercole, risulta molto pi@u antica di quella che riguarda il
+divieto di oltrepassarle" (M. Corti, ^Percorsi dell'invenzione~, Torino,
+Einaudi, 1993, p. 122); il tema del divieto nasce in ambito culturale
+arabo-ispanico, non estraneo a Dante. I |riguardi~, propriamente
+"avvertenze" (cfr. I. Baldelli, "Dante e Ulisse": ^Lettere italiane~,
+1998, p. 368), sono appunto, in questo caso, i "limiti" che l'uomo
+non deve superare (cfr. B. Latini, ^Tresor~ I.cxxiii.23; ^Tesoretto~,
+1043-1052): secondo una leggenda, Ercole avrebbe collocato alle estremit@a
+dello stretto due monti (Calpe in Europa e Abila in Africa) e posto su
+di essi la scritta ^non plus ultra~ ("non pi@u oltre": si noti qui il
+v. 109). Ulisse sa del divieto (che non ha riscontri nella tradizione
+greca), ma vuole andare avanti, giacch$e il sapere per lui non ammette
+delimitazioni e confini prefissati; per questo ora deve persuadere
+i compagni. Egli far@a leva proprio sull'idea del sapere come mezzo
+di suprema nobilitazione per l'uomo; un'idea accettata da Dante, ma
+non nel senso laico-razionale che Ulisse qui simboleggia all'estremo,
+giacch$e per il poeta il conoscere, se vuol essere proficuo per l'uomo,
+deve muoversi nell'ambito dei confini segnati dalla teologia, cio@e
+dal sapere rivelato (Ercole, nella tradizione esegetica, @e sempre
+interpretato come il filosofo obbediente al Cielo, e talora @e ^figura
+Christi~). Pietro di Dante cita S. Agostino: "Nimis absurdum est ut
+dicatur aliquos homines ex hac in illam partem, Oceani immensitate
+traiecta, navigasse ac pervenire potuisse" (^De Civ. Dei~ XVI.9).
+
+	|112-117~. Il momento @e solenne, e solenne, quindi retoricamente
+strutturato (a mo' di ^captatio benevolentiae~), @e il discorso di
+persuasione che Ulisse pronuncia (che fa pensare a quello di Enea ai suoi
+compagni in ^Aen~. I.198-203, ma se ne differenzia per ragioni profonde:
+cfr. P. Boyde, ^Human Vices and Human Worth in Dante's~ Comedy, Cambridge
+Univ. Press, 2000, pp. 263-64). I compagni di Ulisse
+ --  precisa l'Ottimo  --  "voleansi tornare a casa a posare con le loro
+famiglie e amici il rimanente di lor vita; la qual cosa udendo Ulisses,
+a rimovere la detta naturale affezione parla. Fu Ulisses ornatissimo
+favellatore e facundo e grazioso; contro al quale disse Aiace Telamone
+(libro decimoterzo ^Metamorphoseos~)" (cfr. n. 139-142). La prima parte
+del discorso si apre con la nota affettiva (|frati~: cfr. ^socii~
+a ^Aen~. I.198) ed il richiamo ai numerosi (|cento milia~: |milia~
+alla latina per "mila": cfr. ^Phars~. I.299) ^pericoli~ (|perigli~)
+insieme corsi e superati; quindi, sulla base del nesso fra traversie
+passate e ^esperienza~ accumulata, segue l'incitamento (secondo la
+formula cortese |non vogliate negar~) all'impresa, forse l'ultima, dato
+quel poco di vita (|vigilia~ ["veglia"] dei |sensi~, sia perch$e basata
+sull'attivit@a dei sensi sia perch$e contrapposta al sonno della morte)
+che a tutti ^resta~ (|@e del rimanente~: lat. ^de reliquo est~; ant.
+franc. ^de remenant~). Ma soprattutto @e un'impresa unica, eccezionale,
+dato che si tratta di entrare in un mondo sconosciuto, |sanza gente~
+(in quanto interamente coperto dalle acque). La decisione di proseguire
+il viaggio, comunque, contrasta col comportamento che dovrebbe essere
+tenuto da chi @e in et@a, quando ^ciascun dovrebbe \| calar le vele
+e raccogliere le sarte~ (^Inf~. XXVII.80-81). La "nobile anima" deve
+prepararsi all'incontro col Creatore: con metafora marinaresca, noi,
+oramai in et@a avanzata, "dovemo calare le vele de le nostre mondane
+operazioni e tornare a Dio con tutto il nostro intendimento e cuore"
+(^Conv~. IV.xxviii.3; cfr. ^Inf~. XXVII, n. 79-84). Opportunamente P.
+Boyde (^Op. cit~., p. 253) cita il prosieguo del brano del ^Convivio~,
+in cui sembra preannunciata la fine del |perduto~ Ulisse: "O miseri e
+vili che con le vele alte correte a questo porto, e l@a ove dovereste
+riposare, per lo impeto del vento rompete, e perdete voi medesimi l@a
+dove tanto camminato avete!" (IV.xxviii.7). Al riguardo aveva gi@a
+commentato J.A. Scott (^Dante magnanimo~, Firenze, Olschki, 1977, p.
+175): "Qui, ^in nuce~, troviamo l'Ulisse della ^Commedia~, nonch$e
+il destino dei fraudolenti secondo ^Giobbe~ (36.13-14): ^Simulatores
+et callidi provocant iram Dei, neque clamabunt, cum victi fuerint.
+Morietur in tempestate anima eorum~". L'espressione |di retro al sol~
+@e intesa come "alle spalle del sole" (oltre il limite dove lo si vede
+tramontare) oppure come "seguendo il corso del sole" (verso l'occidente).
+
+	|118-120.~ Il discorso di Ulisse si conclude esaltando la
+ragione, grazie alla quale "ha l'uomo amore a la veritade e a la vertude"
+(^Conv~. III.iii.11); l'uomo che non la usa "non vive uomo, ma vive
+bestia" (II.vii.4), cio@e ^bruto~: "vivere ne li animali @e sentire  --
+animali, dico, bruti  -- , vivere ne l'uomo @e ragione usare" (IV.vii.11).
+"Rursus, quid virtus et quid sapientia possit, \| utile proposuit nobis
+exemplar Ulixes" (Orazio, ^Epist~. I.ii.17-18). Analogie tematiche
+e stilistiche con un passo di Boezio di Dacia, filosofo aristotelico
+"radicale", sono state indicate dalla Corti (cfr. n. 139-142). Dalla
+terzina alcuni critici hanno ricavato l'immagine di un Ulisse 'umanista',
+che rivendica la dignit@a umana proprio nel momento in cui non riconosce
+alcun vincolo per la ragione. Ma un simile personaggio, al di l@a della
+sua grandezza in quanto simbolo della ricerca incondizionata, non @e
+modello positivo per Dante, per il quale la |canoscenza~ (forma arcaica)
+deve essere invece 'condizionata', circoscritta ed indirizzata dalle
+norme morali cristiane: diverso @e dunque il suo concetto di ^virt@u~
+(cfr. n. 19-24). Leggiamo Trucchi: "La colpa d'Ulisse sta nel non aver
+conosciuto la vera |virtude~ e la vera |canoscenza~, quella dell'umilt@a
+e della carit@a; la parola |virtute~ in bocca all'antico greco esprime un
+concetto di forza ben diverso dal concetto della virt@u cristiana!". Come
+argomenta J.  Freccero, "virt@u" e "conoscenza" sembrano quasi sinonimi,
+in antitesi con la dicotomia fra |ingegno~ e |virt@u~ (vv. 21-22): "Come
+tutti gli antichi, anche Ulisse sembra identificare conoscenza e virt@u,
+e nei suoi calcoli trascura del tutto quell'intima, personale ^askesis~
+su cui solo pu@o fondarsi ogni itinerario verso la trascendenza. Il
+viaggio di Ulisse e quello del pellegrino non si differenziano per il
+loro obiettivo, giacch$e conducono entrambi alla montagna dell'emisfero
+meridionale, ma piuttosto per il modo in cui il viaggio stesso si
+realizza. La differenza sta letteralmente nel viaggio attraverso
+l'inferno, quella discesa ^intra nos~ che trasforma la presunzione
+filosofica in un itinerario della mente e del cuore a Dio" (^Dante. La
+poetica della conversione~, trad. it. Bologna, Il Mulino, 1989, p. 41).
+Dobbiamo poi tenere presente che l'insistita affermazione di Ulisse
+implica l'opinione che vivere in famiglia e in comunit@a (cui egli ha
+rinunciato) significa vivere come bruti: un grave abuso delle doti che
+Dio concede agli uomini. L'invocazione alla |semenza~ ("origine") ha
+connotazione ironica: "la nostra |semenza~, ossia Adamo, non provoc@o la
+dannazione dell'umanit@a proprio per aver disobbedito all'ordine divino
+di non mangiare il frutto dell'albero della conoscenza?" (M.  Frankel,
+"The Context of Dante's Ulysses": ^Dante Studies~, 1986, p.  106). In
+tal modo l'esortazione di Ulisse suona come una parodia di ^Prov~. 4.5:
+"Acquista la sapienza, acquista la prudenza; non dimenticare le parole
+della mia bocca n$e ti scostare da loro". Ancora la Frankel (Ivi,
+pp. 106-107) ricorda come in ^Par~. II.1-15 il poeta, vero anti-Ulisse,
+dia l'esempio di un discorso corretto indirizzato a coloro che, ^in
+piccioletta barca~, sono sul punto d'intraprendere un viaggio pericoloso.
+
+	|121-123~. Il ^breve discorso~ (|orazion picciola~) di Ulisse
+colpisce nel segno: i suoi compagni avvertono l'avventura come nobile
+compimento della vita e vi si buttano a capofitto. L'eroe greco precisa
+infatti che essi divennero ^cos@i desiderosi~ (|s@i aguti~) di proseguire,
+che a ^stento~ (|pena~) li avrebbe poi ^trattenuti~ (|ritenuti~). Del
+resto, le capacit@a persuasive di Ulisse sono quelle che lo collocano
+in questa bolgia (specificando la sua superbia di fondo): la |orazion
+picciola~, in quanto estremo inganno, appare proprio come il degno
+prodotto di un consigliere fraudolento (cfr. n. 139-142).
+
+	|124~. |mattino~: l' "oriente". Quindi la nave viaggia verso
+l'occidente (secondo altri, si riferisce solo all'ora: "di mattino").
+
+	|125~. Verso celebre (che ricorda ^Aen~. III.520), in cui il
+viaggio (il |volo~, consentito da |remi~ fattisi quasi |ali~) viene
+retrospettivamente definito da Ulisse come |folle~. Termine importante,
+questo, che designa un eccedere, un oltrepassare limiti invalicabili, un
+abusare dei mezzi umani. Anche nel ^Paradiso~ Dante parler@a del ^varco
+folle d'Ulisse~ (XXVII.82-83), in contrapposizione al proprio ^volo~,
+guidato da Beatrice (^quella pia che guid@o le penne \| delle mie ali a
+cos@i alto volo~: XXV.49-50; cfr. XV.53-54). Nell'^Eneide~ occorre anche
+il sintagma ^remeggio delle ali~ (^remigium alarum~: VI.19), riferito
+al volo di Dedalo e tradizionalmente interpretato come "esercizio della
+ragione"; quindi @e la presunzione della ragione, l'orgoglio filosofico,
+che sprona il viaggiatore Ulisse: egli, al contrario del viaggiatore Dante
+(che ha per@o il vantaggio di conoscere l'avvento di Dio nella storia,
+cio@e la grazia, la |miglior cosa~ del v. 23), non ha saputo "affrenare"
+l'|ingegno~ (v. 21), perci@o @e incorso in una catastrofe affine a quella
+di Icaro e Fetonte (cfr.  ^Inf~. XVII, n. 106-114). Il collegamento fra
+queste |ali~ e quelle di Firenze (vv. 2-4) va reperito nel concetto,
+comune presso i Padri della Chiesa, di "ali della frode": tale era
+l'interpretazione simbolica negativa del termine (A.K. Cassell, ^Dante's
+Fearful Art of Justice~, Univ. of Toronto Press, 1984, p. 93). J. Freccero
+ha posto in rilievo come nella tradizione neoplatonica le ali, assieme
+alla nave ed al carro trainato da cavalli, siano emblemi del felice volo
+filosofico dell'anima verso la sua patria divina (cfr. n. 139-142). Ma
+leggiamo direttamente il critico americano: "Il ^remigium alarum~
+della tradizione era solitamente connesso piuttosto a Dedalo che a
+Icaro; nella narrazione di Virgilio, infatti, esso @e menzionato in
+relazione ad un volo che non @e del tutto 'folle', giacch$e Dedalo,
+contrariamente a suo figlio, raggiunge il suo obiettivo. @E proprio
+questo l'elemento che accomuna l'allegoria di Ulisse a quella di Dedalo:
+il ritorno di Dedalo alla salvezza e il ritorno dell'Ulisse omerico in
+patria corrispondono esattamente al platonico ^regressus~ dell'anima
+alla sua patria celeste. Ora, il fatto che Dante colleghi il ^remigium
+alarum~ della tradizione con il viaggio di Ulisse sembra dimostrare
+che egli si rende ben conto del significato allegorico comune alle due
+storie; ma, usando l'espressione 'folle volo', Dante pare aver voluto
+deliberatamente rivolgere l'allegoria contro i suoi stessi autori. A
+differenza di quanto sembrano credere molti commentatori moderni, egli
+potrebbe aver avuto notizia del ritorno di Ulisse a Itaca attraverso una
+quantit@a di fonti indirette; e certamente egli sapeva che il ^remigium
+alarum~ dell'anima era normalmente usato con riferimento al ritorno
+di Dedalo. E tuttavia, proprio ^perch$e~ egli accetta il significato
+allegorico comune e lo interpreta da cristiano, la sua storia non
+pu@o terminare che in un naufragio. Se Ulisse naufraga e le ali di
+Dedalo sembrano richiamare piuttosto Icaro, @e perch$e il ^regressus~
+che le due storie finiscono per raffigurare si riduce, secondo Dante,
+a quella presunzione filosofica destinata fatalmente al fallimento"
+(^Dante. La poetica della conversione~, trad. it. Bologna, Il Mulino,
+1989, pp. 40-41).
+
+	|126~. |acquistando dal lato mancino~: "guadagnando (avanzando)
+verso il lato sinistro (in direzione Sud-Ovest)". La via "sinistra" @e,
+nella tradizione cristiana (e pre-cristiana), erronea, simboleggiando
+la ricerca dei beni terreni o il desiderio di onori.
+
+	|127-129~. I navigatori hanno oltrepassato (di parecchio)
+l'equatore, per cui vedono tutte le stelle dell'emisfero antartico
+(|l'altro~), mentre quelle del |nostro~ (quello boreale) non emergono
+pi@u dalla linea dell'orizzonte, formata dalla ^superficie~ (|suolo~)
+marina. La maggior parte dei commentatori attribuisce a |la notte~
+funzione di soggetto di |vedea~; altri preferiscono sottintendere il
+soggetto "io", assegnando a |la notte~ funzione di complemento di tempo.
+
+	|130-135~. ^Cinque volte si era illuminato~ (|racceso~) ^ed
+altrettante~ (|tante~) ^spento~ (|casso~) ^l'emisfero visibile~ (|lo
+lume... di sotto~) ^della~ (|da la~) ^luna, da quando~ (|poi che~)
+^eravamo entrati~ (|'ntrati~) ^nella difficile impresa~ (|ne l'alto
+passo~), ^quando ci~ (|n~[|e~]) ^apparve una montagna, scura~ (|bruna~)
+^a causa della~ (|per la~) ^distanza, e mi parve~ (|parvemi~) ^cos@i~
+(|tanto~) ^alta quanto non~ ^ne~ ^avevo~ (|av,ea~) ^veduta nessuna~
+(|alcuna~).  --  L'|alto passo~ (che @e anche il viaggio di Dante, il
+quale per@o usufruisce dell'ausilio divino: cfr. ^Inf~. II.12; si tenga
+presente l'occorrenza di ^passo~ a ^Inf~. I.26, in rima con ^basso~)
+sta per giungere all'epilogo. Dopo un viaggio durato cinque lunazioni
+(l'emisfero inferiore della luna, quello visibile dalla terra, si era
+per cinque volte |racceso~ e cinque |casso~: cfr. ^Aen~. II.85), quasi
+cinque mesi, appare un'altissima montagna (cfr. ^Purg~. III.14-15;
+IV.40), ancora |bruna~, cio@e indistinta, dai contorni vaghi (cfr.
+^Aen~. III.522). @E la montagna alla cui sommit@a si trova il Paradiso
+Terrestre (essa diverr@a dopo l'Avvento la sede del Purgatorio),
+l'accesso al quale @e vietato agli uomini dopo il peccato originale
+(^Gen~. 3.24; ^Purg~. I.130-132). Secondo una leggenda di origine araba,
+in mezzo all'Oceano sorgeva un monte, sede del Paradiso. Ulisse, che con
+un atto di superbia ha oltrepassato i limiti dall'alto stabiliti, non pu@o
+proseguire oltre; come subito si vedr@a, egli sar@a punito dall'intervento
+divino. "Il viaggio non si svolge sotto la luce radiante del sole, simbolo
+della grazia divina, ma all'ombra della luna, simbolo della ragione umana
+non illuminata dalla grazia" (A.A.  Iannucci, ^Forma ed evento nella
+'Divina Commedia'~, Roma, Bulzoni, 1984, pp. 163-64). Ulisse  --  accusa
+Aiace (cfr. n. 139-142)  --  compie le sue imprese con la complicit@a
+della notte (^Metam~. XIII.15), non fa nulla alla luce del sole (Ivi
+XIII.100). La presenza del numero "cinque" non @e forse casuale, dato
+che si tratta del numero dei sensi, del mondo terreno. Comunque va notato
+che il tragitto della nave di Ulisse @e lo stesso del ^lieve legno~ che
+trasporta le anime alla spiaggia del Purgatorio: le anime, ovviamente,
+sono prive di corpo, ma soprattutto contrite e perdonate da Dio.
+
+	|136-138~. @E un evento eccezionale (il |turbo~) a colpire
+^la prua~ (|il primo canto~ = "la parte anteriore") della nave, un
+prodigio voluto da Dio (v. 141); esso, in quanto punisce la superbia,
+@e "the equivalent of Jupiter's thunderbolt that struck down Capaneus
+or Phaeton" (P. Boyde, ^Human Vices and Human Worth in Dante's~ Comedy,
+Cambridge Univ. Press, 2000, p. 270). Il v. 136 richiama un ^topos~ della
+letteratura medievale, che si riscontra gi@a nella ^Epistola di Giacomo~
+(4.9): "risus vester in luctum convertatur, et gaudium in moerorem"
+(J.A. Scott, ^Dante magnanimo~, Firenze, Olschki, 1977, p.  131).  --
+Si noti che |torn@o~ (= "si mut@o") va collegato a senso con |Noi ci
+allegrammo~.
+
+	|139-142~. L'intervento di Dio (|altrui~) ripristina cos@i
+l'ordine delle cose, che Ulisse aveva tentato di forzare. Vedremo il
+significativo ripresentarsi di |com'altrui piacque~ in ^Purg~. I.133.
+Le parole finali dell'eroe greco confermano il suo egoismo: infatti
+egli non pronuncia "una parola di compianto o d'addio per quei prodi
+che morivano con lui" (Trucchi). Come gi@a notato da Guido da Pisa,
+la terzina rinvia a ^Aen~. I.113-17, ove @e descritto l'affondamento,
+a causa di una tempesta, di una nave della flotta di Enea. Commenta R.
+Hollander: "The ship in point is that which carried the Lycians and
+faithful Orontes and which goes down within sight of the land that
+would have saved its sailors, as does Ulysses' ship. It is a ship of the
+damned. Aeneas, in his piety, is the hero; Ulysses, in his heroicness,
+is the failure" (^Allegory in Dante's 'Comedy'~, Princeton Univ. Press,
+1969, p. 121). Si noti che, secondo Agostino (^De Civ.	Dei~ XVIII.16),
+in tal modo Ulisse va incontro alla medesima sorte toccata a Diomede,
+"il quale per una punizione divina risulta non essere ritornato in
+patria". Secondo l'^Eneide~, invece, Diomede si stabilisce in Italia.
+--  L'ultimo verso del canto sembra avere come antecedente la chiusa
+di ^Theb~. VII (Anfiarao 'rovina' agli inferi: cfr. ^Inf~. XX.31-36):
+il rilievo @e stato effettuato, in maniera indipendente, da G. Velli
+(in ^Annali della Facolt@a di Lettere di Macerata~, 1989-90, p. 43)
+e R. Hollander (^comm. ad loc~.).
+
+	Cos@i si conclude l'episodio di Ulisse, episodio ammiratissimo
+e studiatissimo. L'Ulisse dantesco @e foggiato sulla base delle due
+caratteristiche esemplari che la tradizione letteraria attribuiva all'eroe
+greco: da una parte, l'astuzia ingannatrice, dall'altra, l'insaziabile
+desiderio di conoscenza; ed in base alla seconda caratteristica Dante
+appronta la storia dell'ultimo viaggio di Ulisse.  Questi, tuttavia,
+si trova condannato, nella bolgia dei consiglieri fraudolenti, a causa
+dell'astuzia, esercitata soprattutto tramite l'arte della parola: la
+seconda caratteristica deve perci@o essere subordinata alla prima (che
+poggia sull'autorit@a dell'^Eneide~) e risultare eticamente negativa. Del
+resto, nel ^De officiis~, Cicerone presenta Ulisse in termini non certo
+lusinghieri: come evidenziato da G. Padoan ("Ulisse ^fandi fictor~
+e le vie della sapienza": ^Studi danteschi~, XXXVII, 1960, p. 43),
+egli considera l'eroe greco come esempio della ricerca dell'utile con
+mezzi disonesti, esempio cio@e di ^calliditas~, che fa soprattutto uso
+dell'eloquenza. Alla fine del periodo greco-romano la fama di Ulisse,
+in Europa occidentale, era generalmente negativa: l'eroe veniva dipinto
+come uno spregevole intrigante. Nel Medioevo circolava addirittura una
+parola, ^ulixice~, che indicava per antonomasia la malizia ingannatrice
+(F. Forti, in U.  Bosco [a cura di], ^Dante nella critica d'oggi~,
+Firenze, Le Monnier, 1965, p. 499). Per quanto riguarda Seneca (e la sua
+LXXXVIII Epistola), cfr. G. Mezzadroli, ^Seneca in Dante~, Firenze, Le
+Lettere, 1990, § 3.4. Si noti che anche il modo in cui il poeta 'mette
+in scena' il racconto di Ulisse @e rivelativo: infatti il racconto,
+in cui il personaggio cerca di collocare il proprio viaggio fallito
+in un orizzonte glorioso, @e preceduto dal discorso di Virgilio sulle
+frodi da lui compiute. Tale descrizione  --  scrive R. Hollander  --
+"ha innegabilmente l'effetto di invalidare l'aura di autorit@a di cui,
+nel proprio racconto, Ulisse cerca di circondare il suo ruolo di eroe
+epico" ("Dante e l'epopea marziale": ^Letture classensi~, 1989, p.
+101). Abbiamo detto della autorit@a dell'^Eneide~, ma Dante attinge
+molto, in questo caso, alle ^Metamorfosi~, come abbiamo segnalato in
+varie note. Una terza tradizione che fa di Ulisse, capace di resistere
+al canto delle Sirene, addirittura ^figura Christi~ pare senz'altro
+scartata dal poeta: ne parleremo in sede di commento a ^Purg~. XIX.
+Recentemente L. Pertile ha proposto di leggere l'avventura ulissiaca
+a partire da tale tradizione (ma senza Sirene): a suo dire il poeta,
+"litteralizzando l'allegoria", disegna un Ulisse che, vecchio ed oramai
+'convertito', salpa da Circe diretto a casa, per@o poi cede ancora una
+volta alla tentazione della conoscenza e, anzich$e puntare su Itaca,
+si rivolge verso una patria pi@u appagante, la montagna disabitata
+dell'Eden. Il progetto dell'Itacese @e lodevole, anche se implica
+"frode contro la giustizia di Dio": si tratta perci@o di un progetto
+"tragico perch$e soggettivamente innocente, anche se oggettivamente
+colpevole" ("Ulisse, Guido e le Sirene": ^Studi danteschi~, 2000, p.
+116). Ci limitiamo tuttavia a rilevare che il giudizio di innocenza o
+colpevolezza concerne le intenzioni soggettive dell'agente: sono queste
+che Dio scruta e pondera, per cui chi @e "soggettivamente innocente" @e
+ --  moralmente  --  innocente ^tout court~, e quindi non merita
+l'Inferno.  Il motivo attraversa ovviamente l'intero poema, ma emerger@a
+con una certa evidenza in ^Inf~. XXVIII, proprio nel canto in cui si fa
+motto, per l'unica volta, del ^contrapasso~.
+
+	Alcuni studiosi hanno posto in rilievo l'importanza, come
+intertesto, di un noto episodio ovidiano: la contesa verbale tra Aiace
+ed Ulisse per ottenere le armi di Achille (^Metam~. XIII.1-398). Cos@i,
+M. Picone ha rilevato lo stretto rapporto, pur se antitetico, fra il
+monito che il poeta rivolge a s$e stesso, affinch$e tenga a freno
+l'|ingegno~ (vv.  19-24), e la rivendicazione, da parte di Ulisse,
+del proprio ^ingenium~ (^Metam~. XIII.135-39). Ma per Ulisse l'ingegno
+@e bene privato, personale, mentre per Dante @e concesso da Dio. "Si
+contrappongono in tal modo due storie parallele: la storia di Ulisse,
+che fa dell'ingegno un uso mirato al conseguimento di risultati personali,
+a prescindere dalle motivazioni giuste o ingiuste, e la storia di Dante,
+che fa della propria ^altezza d'ingegno~ un uso orientato all'ottenimento
+di risultati metapersonali, ispirata com'@e da una superiore motivazione
+divina. Ma si contrappongono anche due culture polarizzate fra di
+loro: la cultura classica che sviluppa la sfera dell'individualit@a,
+e la cultura cristiana che ricerca incessantemente l'universalit@a;
+oltre che due poetiche alternative: la poetica ovidiana che esalta la
+retorica alta e magniloquente come principio dell'autoaffermazione umana
+nel mondo, e la poetica dantesca che celebra la retorica umile e bassa
+come vettore capace di proiettare l'io nell'orbita di Dio" ("Dante,
+Ovidio e il mito di Ulisse": ^Lettere italiane~, 1991, p.  510). A
+parere di Picone, inoltre, la predominanza nella circostanza della fonte
+ovidiana implica anche una preferenza di Dante per l'Ulisse ovidiano,
+tratteggiato in modo pi@u simpatetico rispetto all'Ulisse virgiliano,
+ingannevole "ideatore di crimini". Tuttavia, dal brano emerge un Ulisse
+contrassegnato da egoismo ed orgoglio (cfr. R.	Hollander, ^Allegory in
+Dante's 'Comedy'~, Princeton Univ. Press, 1969, pp. 115-16). Se leggiamo
+il discorso di Aiace, possiamo constatare (cfr. P. Boyde, ^Human Vices and
+Human Worth in Dante's~ Comedy, Cambridge Univ. Press, 2000, pp. 240-41)
+che esso @e un continuo atto di accusa verso Ulisse, chiamato "vile",
+"perfido", "ingannatore" e "istigatore di crimini" (v. 45); gi@a Benvenuto
+vi vide il ritratto di un Ulisse "astutissimus". Fra i vari misfatti
+del Laerziade, Aiace ricorda anche il furto del Palladio. Questo
+gesto, come sappiamo, @e per Dante delittuoso; ma non per Ulisse,
+che, nella replica ad Aiace, lo considera come una delle sue grandi
+imprese, tra le quali annovera pure lo smascheramento di Achille,
+condannato dal poeta. Ci@o ci fa capire che il discorso del "facondo"
+Ulisse (cfr. ^Inf~. XVIII, n.  94-96) @e considerato da Dante come
+l'autodifesa di un colpevole, un discorso che, pur se alla fine vincente
+(Aiace non ottiene le armi di Achille e si uccide), @e contraddistinto
+dall'inganno. Questo marchio fraudolento emerge, ad esempio, dal modo
+in cui Ulisse giustifica il fatto di essersi finto pazzo per non dover
+partecipare alla guerra di Troia (violando un precedente giuramento):
+egli infatti, mettendosi alla pari con Achille (anch'egli nascostosi),
+dice di essere stato trattenuto dall'affetto coniugale, come fu l'affetto
+materno a trattenere Achille. Ma il richiamo agli affetti pi@u cari suona
+falso: infatti @e Ulisse stesso a ricordare di aver portato Achille
+in guerra, non tenendo perci@o conto dell'amore materno; per di pi@u,
+egli ricorda anche di esser riuscito, quando la flotta greca era ferma
+in Aulide (cfr. ^Inf~. XX, n. 106-114), a convincere il padre e poi la
+madre di Ifigenia, vittima innocente: "la madre non dovetti esortarla,
+ma ingannarla con l'astuzia" (vv. 193-94). Non sorprende dunque che
+l'Ulisse dantesco appaia insensibile agli affetti familiari.
+
+	Il Dante della ^Commedia~ esalta il sapere e loda la ricerca
+della conoscenza, ma la Filosofia @e considerata ancella della Teologia:
+@e la dimensione teologica che segna i limiti della ricerca, superati i
+quali l'uomo compie atto di superbia e va contro il volere divino. Il
+vero intellettuale deve sapere umilmente riconoscere tali limiti e
+subordinare il proprio lavoro alla verit@a rivelata, che in tal modo
+completa e realizza quel sapere cui l'uomo (anche il pagano) pu@o
+pervenire con mezzi solamente razionali. Da questo punto di vista,
+l'Ulisse dantesco non pu@o essere visto alla maniera romantica, ossia
+come eroe positivo che @e disposto a tutto, anche alla ribellione contro
+le autorit@a costituite civili e religiose, pur di soddisfare la propria
+ansia di sapere, di svelare i misteri. Ulisse per Dante ha fatto cattivo
+uso della ragione, superando illecitamente i ^riguardi~.  Certo, egli
+@e privo della grazia, quindi condotto facilmente all'errore. Ma egli,
+secondo l'Alighieri, @e in errore anche in riferimento ai parametri
+ottimali del mondo pagano, cio@e le virt@u rappresentate da Aristotele,
+da Virgilio, dagli ^spiriti magni~ del Limbo: infatti, la filosofia
+cristiana che Dante accoglie considera con favore l'antico valore della
+ricerca della verit@a, ma in quanto questa, nei grandi sapienti antichi,
+@e associata al senso della misura, all'analisi (pur se inevitabilmente
+limitata) dell'essenza del mondo pi@u che all'infinito accumularsi
+di nozioni particolari. Resta inteso che solo la conoscenza di Dio
+@e perfettamente appagante: se qualcuno  --  scrive l'Aquinate (^ST~
+I, q. 12, a. 8)  --  "conoscesse solo Dio, fonte e principio di tutto
+l'essere e di ogni verit@a, appagherebbe talmente l'innato desiderio
+di sapere, che nient'altro pi@u cercherebbe e sarebbe beato. Perci@o
+S. Agostino dice: 'Infelice colui che conosce tutte quelle cose', cio@e
+le creature, 'ma non conosce te [Dio]: beato invece colui che conosce te,
+anche se quelle ignora. Chi poi conosce te e conosce anche quelle, non per
+quelle @e pi@u beato, ma per te solo @e beato' (^Conf~. V.4)". Ulisse,
+non tenendo conto del ^Non proseguire~ delle colonne d'Ercole, viola
+la legge naturale ed eccede la giusta misura. A presiedere e regolare
+il desiderio di sapere @e la prudenza, la pi@u importante delle virt@u
+cardinali, la pi@u necessaria per la vita terrena (^ST~ I-II, q. 57, a.
+5); ad essa si oppone l'astuzia (^ST~ II-II, q. 55, a. 3). Ulisse @e
+ovviamente privo delle virt@u cardinali infuse, ma lo @e anche delle
+virt@u cardinali acquisite, il possesso delle quali garantisce per il
+nostro poeta un posto nel Limbo (ovvia quindi la distanza fra Virgilio
+e l'eroe greco). Va detto che Ulisse @e il personaggio dell'^Inferno~
+su cui maggiormente si sono esercitati quegli studiosi che ritengono che
+l'Alighieri, presentando figure di "grandi dannati", intenda valorizzare
+fondamentali doti e prerogative umane (al di l@a della giusta condanna
+divina). Abbiamo gi@a notato (cfr. ^Inf~. V, n. 70-72), tuttavia, che le
+"doti" di cui non mancano i dannati sono doni divini, quindi esse sono
+eticamente ininfluenti (non meritorie): quello che conta @e il modo in
+cui l'individuo le utilizza, per cui se egli non agisce per Dio e in
+vista di Dio @e destinato a perdersi. Quando a peccare @e un individuo
+fornito di grandi doti, il peccato @e ancora pi@u grave (cfr. ^Inf~. XV,
+n. 106-108), mentre la forza dell'^exemplum~ @e ancora pi@u forte. Di
+qui la ^follia~ di chi, pur essendo assai dotato, si allontana da Dio
+(^aversio~) e si "converte" alle creature. Il |volo~ di Ulisse @e |folle,~
+troppo temerario e quindi destinato al fallimento, perch$e @e espressione
+dell'eccessiva fiducia in s$e stessi, della superbia intellettuale,
+della fiducia in un sapere posto solo su fondamenti terreni. Il peccato
+di Adamo @e per Dante ^follia~ (^Par~. VII.93), ossia un ^trapassar del
+segno~ (^Par~.	XXVI.117). Inoltre il poeta chiama ^follia~ il proprio
+traviamento spirituale, consistente nel seguire il sapere in s$e e per
+s$e, senza la guida della teologia (alla Guido Cavalcanti), traviamento
+che lo avrebbe portato alla dannazione (^Purg~. I.59). E ^folle~ pare
+il suo stesso viaggio ultraterreno (cfr. ^Inf~. II, n. 34-35): se Dante
+si decide a compierlo, @e solo perch$e @e convinto di essere assistito
+dalla grazia, di essere diretto a Beatrice. La stessa composizione del
+poema dipende direttamente dall'ispirazione divina, il che consente
+alla ^lingua~ di Dante di essere verace; la metafora del "navigare"
+(su cui cfr. ^Conv~. I.iii.4, nonch$e ^Rime~ CXIV.3-4) si riferisce
+anche all'attivit@a dello scrivere.
+
+	Il viaggio di Ulisse si oppone perci@o a quello di Dante:
+infatti il primo arriva solo ad intravedere il Paradiso Terrestre,
+il secondo vi metter@a piede oramai perfettamente risanato, dopo aver
+potuto fra l'altro contemplare, sulle cornici del monte, gli esempi
+pi@u notevoli dei ^vizi~ umani e delle ^virt@u~. Del resto, il viaggio
+di Dante @e "sacro", voluto da Dio; come afferma Lotman, @e un viaggio
+^verticale~ (volto a dominare le passioni terrene mediante controllo della
+volont@a), mentre quello di Ulisse @e ^orizzontale~ (volto ad allargare
+all'infinito i confini della conoscenza). "Dante @e un pellegrino, Ulisse
+un esploratore. [...] Ma osservando quest'immagine di eroico avventuriero,
+di ricercatore che indaga in tutte le regioni esclusa quella morale, Dante
+ha visto in lui qualcosa di pi@u generale della psicologia del futuro
+che si stava avvicinando, i tratti propri della coscienza scientifica
+e pi@u ampiamente culturale del tempo nuovo: la separazione fra la
+scienza e la morale, fra la scoperta e il suo risultato, fra la scienza
+e la personalit@a dello scienziato" (J.M.  Lotman, ^Testo e contesto~,
+Roma-Bari, Laterza, 1980, p. 98). E tutto ci@o per lui costituisce un
+grave pericolo: significa lo sfrenarsi dell'individualismo, il rompersi
+del mondo chiuso medievale, di quell'universo limitato gi@a disegnato
+dagli antichi sapienti e poi inverato dal Cristianesimo. In questo senso,
+il ^volo~ di Ulisse, che conduce alla perdizione, @e antitetico a quello
+di Elia, al quale quindi, in ultima istanza, Dante assomiglier@a, portando
+a compimento quanto inscritto nel suo cognome: ^alas~ ("ali") ^\+ gerere~
+("portare") (H. Shankland, "Dante Aliger and Ulysses": ^Italian Studies~,
+1977, pp. 21-40). Ma altri riscontri testuali dell'antitesi Elia-Ulisse
+sono messi in luce da Cassell: in relazione alle passioni dei sensi,
+il primo le fugge scappando da Gezabele, il secondo ne @e succube
+rimanendo con Circe; in relazione ai legami familiari, il primo li
+ricompone facendo ritornare la vita (III ^Re~ 17.17-24), il secondo li
+spezza, abbandonando i propri cari. Ed anche la punizione della ^fiamma
+cornuta~ si addice al contesto, tenendo presente la seguente descrizione:
+"come un fuoco sorse il profeta Elia, la cui parola bruciava come una
+fiaccola" (^Ecclus~. 48.1). Infatti, prima di salire in cielo, Elia fu
+cos@i pregato da Eliseo: "Ti imploro che in me possa scendere il tuo
+duplice spirito" (IV ^Re~ 2.9). "E poi Eliseo ricevette questo 'duplice
+spirito' dal vecchio profeta esattamente quando il pi@u giovane profeta
+vide l'ascesa di Elia nel carro di fuoco, proprio nel momento a cui
+alludono i vv. 34-39" (A.K. Cassell, ^Dante's Fearful Art of Justice~,
+University of Toronto Press, 1984, p. 90).
+
+	Stando cos@i le cose, si tratta di chiarire un punto basilare:
+quale rapporto (che non sia generico, come il vizio di superbia: cfr. n.
+61-63) sussiste fra l'Ulisse consigliere di frode e l'Ulisse protagonista
+del |folle volo~? Al proposito, alcuni critici sono dell'opinione che il
+collegamento consista proprio nella |orazion picciola~ con cui Ulisse
+convince i compagni a proseguire: l'opinione fu espressa da Buti, ma
+non ebbe seguito; nel sec. XX @e stata fatta propria da A. Mori (1909)
+e poi ripresa da pochi studiosi, come L.  Cooper (1935), A. P$ezard,
+che parla del "consiglio diabolico dato da Ulisse ai compagni del
+suo ultimo viaggio" (^Dante sous la pluie de feu~, Paris, Vrin, 1950,
+p. 290), e G. Padoan. Pi@u recentemente, la tesi @e stata riaffermata
+da molti: p. es. G. Gorni pone in primo piano il motivo della sanzione
+inflitta ad Ulisse (|com'altrui piacque~), il quale si dimostra ancora
+"perfido e astuto consigliere", e questa volta nei confronti dei compagni
+di avventura. "Che Ulisse sia coraggioso, temerario, l'esempio stesso
+del voler sapere e sperimentare oltre ogni convenzione o prudenza, @e
+verissimo: ma @e un dato che appartiene al tutto tondo psicologico del
+personaggio, alla sua complessa architettura, non alla ragione prima del
+suo essere nell'Inferno dantesco. Ulisse @e ^anche~ tutto questo: ma tutto
+questo non cancella la frode ultima" (^Lettera Nome Numero~, Bologna,
+Il Mulino, 1990, pp.  181-82). E per I. Baldelli ("Dante e Ulisse":
+^Lettere italiane~, 1998, p. 370), il "consiglio" dato dal re itacense
+ai suoi compagni, sulla base della "sua grande autorit@a", costituisce
+"il suo peccato pi@u grave di consigliere fraudolento". In effetti
+l'abile discorso di Ulisse, che preme il tasto affettivo (|frati~), fa
+appello alle esperienze vissute insieme (solidariet@a fra camerati),
+sminuisce il rischio (a confronto del poco che resta da vivere) ed
+infine esalta l'orgoglio di essere uomini, pu@o esser considerato
+come esempio di uso distorto della parola: esso infatti sorvola su
+quanto poco prima, nel racconto, Ulisse aveva invece messo in rilievo
+(i |riguardi~ posti da Ercole |acci@o che l'uom pi@u oltre non si metta~)
+e si risolve in promesse vuote. Per di pi@u, come notato da J. Ferrante,
+le sue parole sono contraddittorie in relazione a quanto da lui detto
+circa il desiderio di diventare |esperto de li vizi umani e del valore~
+(v. 99): infatti "la destinazione del viaggio si rivela essere il |mondo
+sanza gente~, dove una tale esperienza non potrebbe aver luogo" ("The
+Relation of Speech to Sin in the ^Inferno~": ^Dante Studies~, 1969, p.
+41). Un argomento, questo, gi@a svolto da L. Cooper (^Evolution and
+Repentance~, Cornell Univ. Press, 1935, pp. 156-77). L'|orazione~, mentre
+echeggia una tenuta ad Achille dall'Ulisse ingannatore dell'^Achilleide~
+(S.C. Hagedorn, "A Statian Model for Dante's Ulysses": ^Dante Studies~,
+1997, pp. 19-43; cfr. J.A. Scott, ^Dante magnanimo~, Firenze, Olschki,
+1977, p. 139n.), diverge dal discorso tenuto da Catone ai suoi soldati per
+persuaderli ad entrare nel deserto libico: "non @e mia intenzione illudere
+qualcuno o trascinarmi dietro una folla nascondendo i pericoli", dice
+infatti Catone (^Phars~.  IX.388-89), dopo aver fatto appello alla loro
+"grande virt@u" (v. 381).  Inoltre W. Stull e R. Hollander ("The Lucanian
+Source of Dante's Ulysses": ^Studi danteschi~, 1991, pp. 1-52) hanno posto
+l'accento sulla circostanza che l'Ulisse dantesco pare tratteggiato sulla
+falsariga del Cesare di Lucano, il quale, ostile all'Impero, definisce
+"crimini" le gesta cesariane (V.242). In effetti, l'Alighieri sembra
+proprio aver tenuto presente il Cesare lucaneo: questi oltrepassa il
+sacro confine del Rubicone, nasconde fraudolentemente alle sue truppe
+i rischi dell'impresa, incita i soldati ad uccidere in dispregio della
+"piet@a", comportandosi allo stesso modo di Ulisse di fronte alle colonne
+d'Ercole, in occasione del discorso di persuasione ai suoi marinai, nei
+confronti degli obblighi familiari e civili. Pare proprio, in definitiva,
+che il discorso di Ulisse consista in un esercizio di manipolazione
+dell'uditorio: la retorica @e tecnicamente eccellente, ma moralmente
+negativa, non garantendo la continuit@a necessaria fra segni e realt@a,
+quel rapporto di diretta corrispondenza fra parole e cose che per Dante
+@e la condizione indispensabile per argomentare correttamente. Nel
+prossimo canto, constateremo la violazione di tale condizione da parte
+di un altro consigliere fraudolento, Guido da Montefeltro. La retorica,
+perci@o, @e il bersaglio polemico dantesco: la retorica, s'intende,
+che si esercita senza rispettare le condizioni di verit@a del discorso
+e quindi si riduce ad essere mero strumento di persuasione e di raggiro
+(cfr. ^Inf~. XIII, n. 73-78), magari pretendendo il rispetto di norme
+stilistiche rigidamente formalizzate (cfr. ^Inf~. XXVII, n. 19-24).
+
+	Pietro di Dante @e stato il primo a richiamare l'attenzione sulla
+^Epistola di S. Giacomo~ (3.2-6), ove si mette in guardia dalla lingua,
+che @e piccola, ma pu@o incendiare un bosco immenso: "la lingua @e un
+fuoco, @e il mondo dell'iniquit@a", "pu@o inquinare tutto il nostro
+corpo e infiammare il corso della vita"; la lingua @e come il timone di
+una nave, il quale, se male manovrato, pu@o condurre al naufragio. Vari
+studiosi contemporanei hanno posto in rilievo l'importanza dell'epistola
+(cfr. anche nn. 25-33, 136-138). Cos@i M. Corti, constatato che "il motivo
+del viaggio marino e del colare a picco della nave @e precisamente
+riferito in ambito cristiano ai filosofi che si allontanano dalla
+fede" (^Dante a un nuovo crocevia~, Firenze, Sansoni, 1981, p. 92),
+collega la ^follia~ di Ulisse alla "follia di chi, fiducioso nel monito
+aristotelico, cerca con le sole forze dell'intelletto umano di capire
+il mondo", di "penetrarne il senso senza ricorso a quella terra sicura
+che @e la fede" (p. 90). In questo senso, Ulisse @e il simbolo di una
+corrente intellettuale (il cosiddetto "aristotelismo radicale") che, ai
+tempi di Dante, viene vista, anche per via della sua diffusione europea,
+come un gravissimo pericolo dai sostenitori della concezione ufficiale,
+che subordina la scienza umana alla teologia; la condanna sancita da
+Dante @e dunque anche la condanna di tale corrente di pensiero. Secondo
+S. Giacomo, "la lingua @e nell'uomo quello che @e il timone della nave,
+e se non @e mossa da Dio, la lingua @e mossa dal Maligno e in tal caso @e
+fuoco" (pp. 93-94). Inoltre, il navigatore che guida il timone-lingua
+rappresenta l'anima, mentre la nave il corpo. @E chiaro che, se il
+timoniere usa male la lingua (non segue la fede), condanna la propria
+anima, come il pensatore aristotelico "radicale"; ed Ulisse  --  lo
+sappiamo  --  ha fatto cattivo uso della facolt@a di parola (in cui si
+esprime l'intelletto). L'uso astuto e falso dei segni (non solo delle
+parole, come per i consiglieri dell'ottava bolgia, ma anche p. es. dei
+documenti) @e per Dante un peccato molto grave: pi@u grave dell'omicidio,
+perch$e uccide la Verit@a. "In questa ottica Ulisse come consigliere
+fraudolento e, a livello simbolico, i filosofi che separano la coscienza
+scientifica da quella etica e religiosa, mettendo in crisi l'intero
+sistema segnico culturale, devono essere condannati" (pp.  96-97). Ci@o
+non toglie che Dante senta il fascino di quei filosofi, nei quali rivive
+la sua personalit@a culturale di un tempo, quella del ^Fiore~, delle
+prime rime, della frequentazione di Guido Cavalcanti; una personalit@a
+che avrebbe dannato l'anima, se non fosse intervenuta Beatrice.
+
+	Nel momento in cui la polemica dantesca sembra rivolgersi contro
+chi pretende di attingere la verit@a senza fede, essa coinvolge anche
+coloro che sostengono di poter ascendere a Dio senza passare attraverso
+l'autocritica e il pentimento, senza cio@e 'discendere': alla base
+c'@e sempre la presunzione filosofica, il rifiuto di una guida (della
+grazia). Come abbiamo visto (n. 125), la narrazione del viaggio di Ulisse
+@e corredata da immagini che, nella tradizione neoplatonica, sono emblemi
+del volo dell'anima a Dio. Nell'^Epistola di Giacomo~, nel medesimo luogo,
+si fa riferimento anche al cocchio trainato dai cavalli; ne deriva che
+queste immagini, associate al simbolo negativo della lingua di fuoco,
+sono inserite in un contesto polemico, rivolto a mettere in guardia dai
+'viaggi' alla Sapienza, a Dio, che pretendono di fare a meno dell'umilt@a:
+una manifestazione di presunzione intellettuale che si addice bene alla
+situazione del pellegrino all'inizio del viaggio. "Ecco, noi mettiamo il
+freno in bocca ai cavalli per renderceli soggetti, ..." (3.3): ci@o che si
+propone di fare il poeta (antitetico anche a Fetonte: cfr. ^Inf~. XVII, n.
+106-114). Il pellegrino riusc@i a scampare al naufragio grazie alla
+penitenza, la "seconda tavola dopo il naufragio", come puntualizzato
+in ^Inf~. I, n. 22-27. In questa nota @e riportata una chiosa di S.
+Agostino: "Vuoi scampare al naufragio e ti aggrappi al piombo? Se non vuoi
+essere sommerso, abbraccia la tavola, lasciati portare dal legno: ti sia
+condottiera la croce" (^Enarr. in Ps~. 51.11). Ed ecco come Agostino
+prosegue, sempre commentando ^Ps~. 51.6 ("Hai amato ogni parola che
+porta ad affondare, la lingua ingannatrice"): "La lingua ingannatrice
+precede le parole che causano l'affondamento; queste la seguono".
+
+	Come notato da R. Bates e T. Rendall ("Dante's Ulysses and the
+Epistle of James": ^Dante Studies~, 1989, p. 38), S. Giacomo (3.13-17)
+precisa anche che il vero saggio @e chi agisce in umilt@a in ossequio alla
+sapienza divina, agendo in maniera virtuosa, non per il semplice gusto di
+|divenir del mondo esperto~. Nell'Epistola, inoltre, Elia @e presentato
+come modello di comportamento cristiano: egli @e anche lodato perch$e
+utilizza il linguaggio a fin di bene, per cui la sua "orazione" (5.17)
+si contrappone all'|orazione~ di Ulisse. Il fatto poi che il naufragio
+di Ulisse si concluda con l'imprigionamento dell'anima in una lingua di
+fuoco esprime al meglio il ^contrapasso~, perch$e non va dimenticato che,
+in questa bolgia, la superbia  --  origine di ogni peccato  --	@e punita
+in quanto @e alla base di un tipo particolare di frode: il peccatore che
+mir@o pervicacemente ad ingannare il prossimo usando come strumento la
+lingua, dunque 'infiammandolo' metaforicamente (persuadendolo a compiere
+certe azioni), @e ora 'infiammato' alla lettera, cio@e @e arso, dallo
+strumento di frode, @e vittima di un'arma con cui egli stesso fece tante
+vittime. Fortissima @e dunque la polemica  --  rileva A. Cornish  --
+contro la retorica, quella cattiva, basata sull'eloquenza (e lo stile
+"alto") che @e al servizio della presunzione filosofica. Ci@o evidenzia
+ulteriormente la differenziazione fra il poema di Dante e l'orazione
+di Ulisse, fra un discorso guidato volto alla verit@a ed una eloquenza
+gonfia di s$e che porta al disastro. "@E la differenza di cui Agostino
+scrive nelle ^Confessioni~, quella fra i libri dei neo-platonici e la
+rivelazione della Scrittura, la differenza fra presunzione e confessione
+(^Conf~.  VII.20)" ("The Epistle of James in 'Inferno' 26": ^Traditio~,
+1989-90, pp. 374-75).

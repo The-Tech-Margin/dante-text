@@ -1,0 +1,642 @@
+	|1.  Di ponte in ponte~: dal ponte sopra la quarta fossa
+al ponte sopra la quinta, che @e de' barattieri.  ^Baratteria~
+[dice il Buti] che per altro nome si chiama ^maccatelleria~, @e
+vendimento, ovvero compramento di quello che l'uomo @e tenuto di
+fare per suo offizio, per danaro, o per cose equivalenti [Vedi 'l
+Vocabolario della Crusca nella voce ^baratteria~].
+
+	|2.  Commed@ia~ coll'accento su l'^i~ alla Greca maniera,
+vuole il metro che leggasi qu@i, come altrove.
+
+	|3.  Il colmo~ del quinto ponte.
+
+	|4.  Ristemmo~, ci fermammo -- |fessura~ per ^fossa~; che
+in realt@a non @e altro che |fessura~, ^fenditura~ di terreno.
+
+	|5.  Di Malebolge.~  Perch@e cos@i appelli queste circolari
+fosse @e detto al primo verso del canto XVIII.  -- |e gli altri
+pianti vani~, per ^gli altri piangenti in vano~; che nissuno
+muovesi di loro a piet@a.
+
+	|6.  Mirabilmente oscura~, pi@u assai delle altre, e
+corrispondente al buio operare de' barattieri.
+
+	|7.  Arsen@a~ legge la Nidobeatina ed accostasi meglio
+all'intiera voce ^arsenale~, che non ^arzan@a~, che leggono
+l'altre edizione.  L'arsenale @e in Venezia un gran recinto dove
+si costruiscono e riattano le navi -- |Veneziani~ legge la stessa
+Nidob. e ^Viniziani~ l'altre edizioni.
+
+	|8.  L'inverno~, tempo, in cui si riattano le navi, per
+essere alla navigazione il pi@u importuno.
+
+	|9.  Rimpalmare~, ^rimpeciare; e si dice comunemente
+delle navi.~  Vocabolario della Crusca -- |legni lor~, de'
+Veneziani.
+
+	|10.  Che navicar non ponno~: imperocch@e navigar non
+ponno; intendi i Veneziani, non i legni; che a quelli, e non a
+questi si riferisce il |non ponno.~  Venturi; e istessamente gli
+altri spositori.  A me per@o non parebbe assurdo se si riferisse
+il ^non ponno~ anche agli stessi ^legni~ {v.9}.  -- |e 'n quella
+vece~, e in quella occasione, in quel tempo.
+
+	|11.  Ristoppa.~  ^Ristoppare.~  Riturar le fessure colla
+stoppa e simili materie.  Vocabulario della Crusca.
+
+	|12.  Le coste~, per metafora, i lati della nave.
+
+	|14.  Volge~ sarte, attorciglia la canape per far
+|sarte~, corde inservienti alle navi.
+
+	|15.  Terzeruolo~, ed |artimon~: |artimone~ @e la maggior
+vela, che abbia la nave; |terzeruolo~ @e la minore.  Buti,
+riporato dal Vocabulario della Crusca [Alla voce ^artimone~]. 
+-- |rintoppa~, risarcisce, rappezza.
+
+	|17.  Pegola.~  La ragione d'immergere i barattieri Dante
+nella pece, dovrebbe essere per l'inganno che fanno costoro agli
+uomini, come colla pece o pania [che Dante per sinonimi adopera
+[Vedi il vers. 124 del presente]] s'ingannano gli uccelli.
+
+	|19-20.  Non vedeva in essa ma che le bolle~ ec. non
+iscorgeva in essa altro che le bolle, che il caldo faceva alzare
+alla superficie.  E vuole intendersi, che non vi scorgeva gente
+immersa; imperocch@e, come in progresso dir@a [Vers. 51], era cura
+di que' demoni assistenti di non lasciare che alcuno degl'ivi
+attuffati galleggiasse.  |Ma che~ nel senso del Latino ^magis
+quam~, e dello Spagnuolo ^mas qu@e~ vedilo nell'Inf. IV ed
+altrove.
+
+	|21.  E gonfiar tutta, e riseder compressa~: accenna le
+consuete reciprocazioni dell'alzarsi ed abbassarsi del bollente
+liquore, massime di pece o d'altre simili materie, che per la sua
+tenacit@a resistendo alla evaporazione dell'aria, dilatansi in
+grandi bolle; ma finalmente aprendosi a forza l'aria per quelle
+bolle l'uscita, viene il liquore a ristringersi ed abbassarsi.
+
+	|23.  Guarda guarda~ per ^guardati guardati.~
+
+	|25-26.  Cui tarda~, a cui sembra tardi, sembra che non
+gli rimanga pi@u tempo.  Cos@i il Vocabolario della Crusca [Al
+verbo ^tardare~ {paragraph.} 2]; e ne adduce in conferma
+quell'altro passo pur di Dante Inf. IX, 9.  ^Oh quanto tarda a
+me, ch'altri qu@i giunga~!  Il medesimo Vocabolario per@o ne reca
+esempio del verbo ^tardare~ in significato di ^esser tardi~; e
+sembra, che al medesimo significato qui pure adattare si possa:
+^A cui @e tardo il veder quel, che~ ec.
+
+	|27.  Sgagliarda.~  ^Sgagliardare~, tor la gagliard@ia, il
+coraggio.  Vocabolario della Crusca.
+
+	|28.  Che~ per ^talmente che~ [Vedi 'l Cinon. ^Partic.~
+cap. 44 n. 23, 24] -- |non indugia il partire~, effetto
+dell'accennata paura entratagli.
+
+	|29.  Diavol nero~, corrispondente a quelle bolgia
+^mirabilmente oscura~ vers. 6.
+
+	|30.  Su per lo scoglio~, su pe 'l sasso che faceva ponte
+sopra quella bolgia.
+
+	|34.  Aguto~ la Nidobeatina, ed ^acuto~ l'altre edizioni,
+che poi altrove leggono anch'esse ^agute~ [e non ^acute~] ^scane~
+[Inf. XXXIII, 35] -- |superbo~, cio@e alto, ch'@e il proprio
+significato, come di ^umile~ il ^basso~; e se non per traslazione
+si applicano a chi si gloria di se stesso, ed a chi si tien vile. 
+Minacciando nell'Anfitruone di Plauto Mercurio a Sosia di
+rompergli, se non gli si levava d'innanzi, le ossa, e farnelo
+portar via alto su l'altrui spalle, ^faciam~, gli dice, ^ego
+hodie te superbum, nisi hinc abis ... Aufer@ere, non abibis, si
+ego fustem sumpsero~ [Act. I scena 1].  Dee adunque l'omero di
+cotesto demonio intendersi formato in ben alto ed acuto gobbo, su
+di cui stassero bene insellati coloro che si portava colaggi@u.
+
+	|35.  Carcava un peccator~, cio@e un peccatore faceva di
+suo peso caricato l'omero del demonio -- |Con ambo l'anche.~ 
+^Anca~, spiega il Vocabolario della Crusca, ^l'osso, che @e tra 'l
+fianco, e la coscia.~
+
+	|36.  Teneva ghermito~, afferrato, |il nerbo de' pi@e~ il
+garetto, la parte pe 'l tutto, in vece di dire ^teneva afferrati
+i piedi.~
+
+	|37-38.  Del nostro ponte~ ec., cio@e dove io e Virgilio
+eravamo, spiega di mala grazia il Daniello: ma chi non vede
+queste esser anzi parole del demonio, che portava il barattiere,
+che l@i arrivato disse: o demoni compagni [che Malebranche non @e
+nome particolare di uno, ma generale di tutti i diavoli] che
+siete in guardia di questo nostro ponte.  Cos@i 'l Venturi.
+
+	La mala grazia per@o del Daniello non finisce nella
+supposizione, a cui il Venturi si oppone, che sia Dante che
+favelli, e n@o 'l demonio stesso che portava il Lucchese anziano;
+ma stendesi anche a ci@o, che il Venturi accorda, che sia
+|Malebranche~ nome generale di tutti i diavoli.  N@o:
+|Malebranche~ @e particolar nome del soli demoni di questa fossa
+de' barattieri [forse perch@e pi@u unghiuti degli altri demoni, ed
+all'uopo di ^brancare~, o sia ghermire, armati di raffi, a
+condegna punizione de' mal brancanti barattieri].  Ci@o apparisce
+chiaramente dai versi 142 e seg. del canto XXXIII della
+presente cantica
+
+     ^Nel fosso su, diss'ei, di Malebranche~
+     ^L@a dove bolle la tenace pece.~
+
+	Intendendo adunque che di quel medesimo portatore demonio
+fossero le parole |Del nostro ponte~ ec., capiremo detto |ponte~
+in vece di ^bolgia~, la parte pe 'l tutto, ed esserne la
+costruzione ed il senso: ^o Malebranche compagni eccovi della
+bolgia nostra un degli anziani di santa Zita~, uno del primo
+magistrato della citt@a divota di santa Zita cio@e di Lucca  --
+|Ecco un~ legge la Nidobeatina ^ecc'un~ l'altre edizioni.
+
+	|39.  Ch'io torno per anche.~  |Anche~ sta qu@i in forza
+di pronome relativo, e vale ^torno per altre persone, per altri
+di questi anziani.~  Vedi il Cinonio alla voce ^ancora.~
+
+	Us@o una tal maniera con lodevole imitazion l'Ariosto nel
+fine del canto XXXIV
+
+     ^Portarne via non si vedea mai stanco~
+     ^Un vecchio, e ritornar sempre per anco.~
+
+Venturi, qu@i molto bene.
+
+	|40.  Ben fornita~, per ^abbondante~ di soggetti simili,
+cio@e di barattieri.
+
+	|41.  Bonturo~ legge la Nidobeatina ed anche il Landino,
+Vellutello, e Daniello, e ^Buonturo~ altri.  Bonturo Bonturi
+della famiglia de' Dati: @e detto per graziosa ironia quel |fuor
+che~, essendo egli peggior barattiere di tutti gli altri. 
+Venturi concordemente a tutti gli espositori.  Simile a questo @e
+quel motteggio, con cui di certi mali parlando diciamo, che si
+guariscono bene tutte le volte, fuor che la prima.
+
+	|42.  Ita~ per ^s@i~ particella affermativa.  E' voce
+Latina.  Volpi.  -- e vuolsi dire, che per forza di danaro si fa
+del vero falso, e del falso vero; si assolve il reo, e si
+condanna l'innocente.
+
+	|43.  Per lo scoglio~, pe 'l sasso, che faceva il ponte
+sopra del quale stavano i poeti, ed era quel demonio venuto.
+
+	|44-45.  Mai non fu mastino~ ec.  Ellissi, e come se
+detto avesse ^mai mastino dal padrone sciolto ed aizzato fu a
+seguitare con tanta fretta lo furo.~  |Furo~ per ^ladro~ voce
+adoperata da altri antichi buoni scrittori, anche in prosa.  Vedi
+'l Vocabolario della Crusca.
+
+	|46.  E torn@o su convolto.~  |Convolto~, cio@e, ^col capo
+in su~ chiosa il Daniello: ma io spiegherei piuttosto col capo e
+piedi in gi@u, e con la schiena in su, compiegato in arco, ^in
+arcum convolutus~ direbbesi bene anche in Latino.  A questo modo
+ne accenna Dante medesimo ch'emergessero dalla bollente pece
+tratto tratto parecchi di que' dannati.
+
+     ^Come i delfini, quando fanno segno~
+        ^A marinar con l'arco della schiena~
+        ^Che s'argomenta di campar lor legno.~
+     ^Talor cos@i ad alleggiar la pena~
+        ^Mostrava alcun de' peccatori il dosso.~
+           [Cant. seg. v. 19 e segg.].
+
+E direi anzi che la positura medesima di corpo, come simile a
+quella di chi fa fervorosa orazione, l'oggetto sia del seguente
+diabolico sarcasmo ^qu@i non ha luogo il santo Volto~ {v.48};
+quasi dicessero, non @e qu@i l'effigie del santo Volto del
+Redentore, dinanzi alla quale solete voi Lucchesi a questo modo
+incurvarvi.
+
+	Il Vellutello, Volpi, e Venturi chiosano |convolto~ per
+^involto~, ^inviluppato di pece~, ^imbrodolato~; ed anche il
+Vocabolario della Crusca spiegando |convolto~ per imbrattato, vi
+pone tra i vari esempi questo stesso di Dante.  Oltrecch@e per@o
+non @e in questo, com'@e in tutti gli altri esempi di ^convolgere~
+e |convolto~, menzionata la imbrattante materia [^nella fracida
+neve si convolgevano, convolto per lo fango, convolta nel fango e
+guasta~ ec. cos@i sono tutti gli altri esempi], n@e anche poi si
+capisce bene come al cos@i inteso |convolto~ adattisi l'enunziato
+sarcasmo.  Vedi in prova, due versi sotto, ci@o che gli espositori
+vi dicono.
+
+	|47.  I demon, che del ponte avean coverchio~, che
+stavano sotto quel ponte.
+
+	|48.  Qu@i non ha luogo il santo Volto.~  Gridarono, dice
+il Vellutello, per derisione i demoni, che quivi non aveva luogo
+il Volto santo da' Lucchesi avuto in somma venerazione, ed
+invocato da loro nelle sue necessit@a: ma quivi non aveva luogo,
+perch@e ^in Inferno nulla est redemptio~: e del medesimo tuono
+chiosano gli altri espositori.  Vedi per@o quant'@e detto due versi
+sopra.
+
+	|49.  Serchio~ fiume che passa poco lungi dalle mura di
+Lucca.  Vellutello.
+
+	|50.  Graffi.~  Graffio strumento di ferro uncinato. 
+Forse dal Greco %gamma%rho%alpha%varphi%iota%o%nu\.  Ma qu@i pare
+che debba prendersi per lo graffiare.  Volpi.
+
+	|51.  Far sovra la pegola soverchio~, soverchiare,
+sopravanzare la pegola.
+
+	|52.  Poi~ dee qu@i valere ^poich@e~, come Purg. X, 1 ed
+altrove sovente.  -- |raffi.~  Raffio strumento di ferro
+uncinato.  Volpi.
+
+	|53.  Coverto~, sotto la pece -- |convien che qu@i balli~:
+per derisione appellano que' demoni ^ballo~ il dimenarsi di que'
+sciaurati pe 'l bruciore.
+
+	|54.  S@i che~ ec.  Viene cos@i ad accennarsi al barattiere
+la condignit@a di tale pena; e vale quanto se detto gli fosse, s@i
+che, se puoi, facci qu@i come in vita facevi, di nascosamente
+^accaffare~, inguantare l'altrui.  ^Accaffare~ ^arraffare.~  Lat.
+^arripere~, ^extorquere~, ^eripere~, spiega il Vocabolario della
+Crusca, ed aggiunge a questo di Dante altro esempio di Franco
+Sacchetti.
+
+	|55.  Vassalli.~  ^Vassallo~ qu@i ^per servo
+semplicemente~ chiosa il Vocabolario della Crusca e ne reca altro
+esempio tratto dalla vita di s. Margherita.
+
+	|57.  Con gli uncin.~  Dell'uncino comunemente ci
+serviamo per attirare: ma pu@o ben anche, in altra maniera
+adoprato, servire a deprimere  -- |Galli.~  ^Gallare~ per ^venire
+a galla~ adopera Dante qu@i, e metaforicamente per ^insuperbire~
+nel Purg. X, 127: come per@o in ambedue i luoghi in rima, puossi
+ragionevolmente creder sincope di ^galleggiare.~
+
+	|58.  Non si paia.~  Accompagnasi qu@i col verbo |paia~ la
+particella |si~ solo per ornamento: di che vedi 'l Cinonio
+[^Partic.~ 229, 3].  Vale adunque lo stesso che ^non paia~, ^non
+appparisca~, ^non veggasi.~
+
+	|59-60.  T'acquatta~: t'abbassa e nascondi.  |Dopo~ per
+dietro, adoprato anche da altri buoni scrittori: vedi il
+Vocabolario della Crusca -- |che~ qu@i per ^talmente che~ [Vedi 'l
+Cinonio ^Partic.~ 44, 24] -- ^alcun schermo~, alcun riparo, --
+|t'haia~, ti abbia, abbia tu a te stesso.  |Haia~ per ^abbia~
+ripete Dante anche nel Paradiso XVII, 140 ma ivi pure in rima, e
+per@o, credo, per sincope di ^abbia~; o come allora scrivevasi,
+^habbia.~
+
+	|61.  E per nulla offension, che mi sia fatta~ legge la
+Nidobeatina ove l'altre edizioni ^E per null'offension ch'a me
+sia fatta.~  ^Nullo~ per ^niuno~ adoprato anche da altri buoni
+scrittori vedilo nel Vocab. della Crusca.
+
+	|62.  Perch@e altra volta~, quando cio@e vi fu, ^congiurato
+da quella Eriton cruda~ [Inf. IX, 23] -- |baratta~, ^contrasto~,
+^contesa~ spiega per molti esempi il Vocabolario della Crusca.
+
+	|64.  Dal c@o~, sincope di ^capo~, di cui vedi nel
+precedente canto v. 76.
+
+	|65.  Su la ripa sesta.~  Essendo ogni ponte posato tra
+due ripe, doveva certamente di l@a dal capo del ponte quinto, su
+di cui stavano i poeti, esser |la ripa sesta~, quella cio@e che
+partiva la quinta dalla sesta fossa.
+
+	|66.  Sicura fronte~ per coraggio.
+
+	|67.  Tempesta.~  Figuratamente per ^impetuosa veemenza.~ 
+Vocabolario della Crusca.
+
+	|68.  Ch'escono i cani~ ec.  Accenna il Poeta cosa, che
+per esperienza @e nota ad ognuno, cio@e, che ai pitocchi, ogni
+volta che si affacciano a qualche casa per accattare,
+furiosamente i cani si avventano: e pare proprio che discernano e
+mal volontieri soffrano che vengano a portarsi via i tozzi di
+pane, che vorrebbero mangiar essi.
+
+	|69.  Che di subito~ ec. altro costume de' pitocchi di,
+appena fermati a qualche uscio, alzar la voce chiedendo carit@a.
+
+	|70.  Di sotto 'l ponticello.~  |Ponticello~ per ^ponte~
+a cagion della rima: ed erano questi que' demoni medesimi, ^che
+del ponte avean coverchio~ vers. 47.
+
+	|71.  Roncigli.~  ^Ronciglio~, e ^Runciglio~, spiega il
+Vocabolario della Crusca: ^ferro adunco a guisa d'uncino,
+graffio.~
+
+	|72.  Fello~, ^malvagio~, ^ingiusto~ ec.  Vocabolario
+della Crusca.
+
+	|75.  Roncigliarmi~ ferirmi co' roncigli.
+
+	|76-77.  Gridaron~ la Nidobeatina, e l'altre ediz.
+^gridavan~ -- |Malacoda~ nome d'uno di que' demoni.  -- |Perch'un
+si mossse~, cio@e il nominato |Malacoda.~
+
+	|78.  Ch'egli approda~?  Cos@i io sparto e leggo il
+confuso adunamento di lettere ^che gli approda~, che ne' mss.
+[Vedi tra gli altri il 1217 della Corsini] si ritrova, non solo
+senza verun segno d'apostrofo, che a' que' tempi non era in uso,
+ma anche senza veruno spazio intermedio: e intendo che abbia
+ugual senso come se detto fosse ^che approda egli?~ ^che arriva
+egli di nuovo~? [Siccome ^riva~ e ^proda~ per l'indentit@a del
+significato possono scambievolmente adoprarsi, cos@i ^approdare~ e
+^arrivare~] e mi par meglio di quell'altro spartimento ammesso
+volgarmente nelle stampe, ^che gli approda~? del quale, per
+capire quanto sia difficile il buon senso, basta leggere la
+chiosa del Venturi che restringe quanto vi hanno detto gli altri
+spositori.  ^Che gli approda? che gli @e a pr@o, che gli piace di
+farci sapere? o pure, che gli giova il mio andare a lui, in che
+gli accomoda? crede per questo dovere star libero da' nostri
+graffi~?
+
+	La particella |egli~ per riempitiva, com'io qu@i la pongo,
+fu [se mai ad alcuno nascesse da questa parte dubbio] adoperata
+sempre dagli Italiani, e massime Toscani scrittori, ed adoprala
+pur Dante Inf. XXII, 32, XXIII, 64, Purg. XXVIII ed altrove.
+
+	|81.  Sicuro~ la Nidobeatina, ^securo~ l'altre edizioni
+-- |schermi~ per contrasti.
+
+	|82.  Fato destro~, destino propizio.  Destro per
+^propizio~, ^favorevole~ adoprato da altri buoni scrittori vedilo
+nel Vocabolario della Crusca.
+
+	|85.  Gli fu l'orgoglio s@i caduto~, l'attivo volto in
+passivo, in vece di ^gli cadde, gli cess@o, l'orgoglio talmente
+che~ ec.  Dall'operare nondimeno di costoro, che in seguito [Vedi
+'l v. 111 del presente, e 'l 16 e segg. del canto XXIII]
+vedrassi, bisogna concludere, che non prestassero eglino a cotale
+manifestazione se non una dubbiosa credenza, la quale facesse
+bens@i indugiare, ma non dimettere l'animo di nuocere.
+
+	|87.  Feruto~ per ^ferito~ adoperato da buoni antichi
+scrittori anche fuor del verso e della rima vedilo nel
+Vocabolario della Crusca.
+
+	|91.  Ratto~ avverbio vale ^prestamente.~
+
+	|93.  Temetti non tenesser patto~: Ellissi ai Toscani
+famigliare in vece di ^temetti che non tenesser patto~; cio@e
+[spiega il Daniello] che non osservassero quello che promesso
+avea Malacoda.  ^Tener fede~ per ^mantenere osservar fede~, disse
+anche il Petrarca son. 80
+
+     . . . . . . . . . ^rapidamente n'abbandona~
+     ^Il mondo, e picciol tempo ne tien fede.~
+
+	|94-96.  E cos@i vid'io~ ec.  Caprona fu gi@a castello de'
+Pisani in riva d'Arno, e fu tolto a' Pisani da' Lucchesi, i quali
+collegati con gli altri Guelfi di Toscana, facevano guerra a Pisa
+capo de' Ghibellini.  Dopo, essendo assediata da grande esercito
+de' Pisani, i fanti Lucchesi, che v'erano in guardia, mancando
+loro l'acqua, si dettero, salve le persone; et usciti in campo,
+furono dal Conte Guido legati tutti a una fune, acciocch@e non si
+separassero, e separati fossero morti da' villani: e condotti a'
+confini di Lucca furono licenziati.  Nondimeno perch@e, mentre che
+passavano pe 'l campo de' nemici ciascun gridava; appicca,
+appicca, essi temerono forte.  Landino.
+
+	|98-99.  Lungo~ avverbio vale quanto ^vicino~, ^rasente~:
+vedi 'l Vocabolario della Crusca -- |non buona~, minacciosa e
+fiera.  Venturi.
+
+	|100-102.  Ei chinavan~, abbassavano verso di me, |li
+raffi~, gli uncini -- |e vuoi~ ec.  Costruzione: |e diceva l'un
+con l'altro, vuoi ch'i 'l tocchi~, che 'l percuota, |in sul
+groppone~, parte del corpo appi@e della schiena sopra i fianchi. 
+Vedi 'l Vocabolario della Crusca alla voce ^groppa~; ma qui per
+tutta la deretana parte del busto -- |gliele accocchi~, glielo
+attacchi, intendi 'l raffio.  Di |gliele~ indeclinabilmente per
+tutti i generi e casi, in vece di ^glielo~, ^gliela~, ^glieli~,
+vedi 'l Cinonio [^Partic.~ cap. 119].
+
+	|103.  Tenea sermone~ per ^favellava.~
+
+	|105.  Posa posa~ quietati quietati -- |Scamiglione~,
+nome d'un di que' demoni, che voleva ferir Dante.
+
+	|107-108.  Perocch@e~ ec.  Costruzione.  |Perocch@e
+l'arco~, il ponte, |sesto giace al fondo~, di quella fossa,
+|tutto spezzato.~  Questo ponte della sesta fossa, ch'@e
+degl'ipocriti, fingelo Dante, come appresso, accenner@a, spezzato
+nel terremoto avvenuto nella morte del Redentore: e solo esso
+ponte degl'ipocriti rovin@o, in segno di essere l'ipocrisia de'
+Farisei stata la cagion principale della morte di Ges@u Cristo; o,
+come dice il Landino, perch@e in quel tempo fu disgregata la
+sinagoga de' Giudei, e la fraude della ipocrisia dei sacerdoti.
+
+	|110-111.  Per questa grotta.~  |Grotta~, perch@e luogo
+dirupato e scosceso [Vedi 'l Vocab. della Crusca] appella
+l'argine divisorio tra la fossa quinta, alla quale i poeti stavan
+sopra, e la sesta fossa: e vuole Malacoda dire, che camminando i
+poeti sopra quell'argine, perverrebbero ad un altro dei molti
+scogli intersecanti quelle fosse [rivedi 'l passato canto XVIII
+v. 16 e segg.] nel quale troverebbero intiero anche il ponte
+sopra la sesta fossa.  Essere per@o questa una bug@ia di Malacoda,
+ed essere non solo qu@i, ma da per tutto spezzati i ponti sopra di
+essa fossa, apparir@a nel canto XXIII v. 136 e segg., dove i
+poeti di tale gabbamento si avveggono.
+
+	La bug@ia medesima ripete ne' versi 125, 126: e bisogna
+credere che sia intenzione del poeta nostro, che nel luogo de'
+barattieri facciano anche i demoni volontieri ^del n@o ita~ v.
+42.
+
+	|112-114.  Ier, pi@u oltre~ ec.  Due cose vengono qu@i ad
+accennarsi, e fatta quella rottura dal terremoto seguito nella
+morte del Redentore, e l'anno di nostra era 1300 essere quello
+in cui finge Dante di avere intrapresa questa sua andata
+all'altro mondo: imperocch@e essendo Ges@u Cristo, secondo che
+tiene esso Dante [^Convito~ tratt. 4 cap. 23] morto d'anni 34
+restano appunto tra il 34 e il 1300 anni 1266 [Nello stesso
+anno 1300 fu il giubileo, che pure accenna Purg. II, 98].
+
+	Due errori per@o commettonsi a questo passo dalla comune
+degli spositori; uno @e, che per |pi@u oltre cinqu'ore~ intendono
+essi l'ora sesta, in cui il Redentor nostro fu crocifisso, e
+conseguentemente a tale intelligenza spiegano per |quest'otta~
+[|otta~ per ^ora~ adoprato da buoni scrittori anche in prosa
+vedilo nel Voc. della Crusca] l'ora prima del giorno: non badando
+che accennossi giunta l'ora prima gi@a fin dal canto precedente v.
+126 [vedi quella nota].  L'altro errore @e che pe 'l |ier~
+intendono il giorno del venerd@i santo; e per conseguenza
+stabiliscono, che questo in cui Malacoda cos@i parlava fosse il
+sabbato santo.
+
+	Scopresi il primo errore con avvertire che il prodigioso
+terremoto, di cui qu@i favella, successe, non nell'ora sesta in
+cui Ges@u Cristo fu posto in croce, ma nell'ora nona quando Ges@u
+Cristo mor@i.  Vedi il Vangelo ^Matth.~ 27 ^Marc.~ 15.
+
+	Manifestasi l'altro errore dallo avere Dante medesimo in
+persona di Virgilio detto, che nella notte precedente allo stesso
+|ieri~ fosse ^la Luna tonda~ [cant. preced. v. 127] e dal trovar
+noi che quella ^Luna tonda~, o sia plenilunio, dovette cadere nel
+d@i 4 aprile [vedi la nota al citato verso 127], e il venerd@i
+santo fu in quell'anno 1300 il d@i 8 aprile [Che nel d@i 8
+aprile cadesse in quell'anno il venerd@i santo conoscesi
+conseguentemente al trovarsi [secondo il metodo che ne insegnano
+gli scrittori del computo ecclesiastico] caduta la pasqua del
+medesimo anno nel d@i 10 aprile].
+
+	La quarta ora del giorno era adunque |quest'otta~, e non
+la prima: ed il giorno precedente accennasi come anniversario
+della morte del Redentore non per altro, che per la ragione detta
+al v. 128 del precedente canto, cio@e per essere quello il giorno
+consecutivo al giorno del plenilunio a Sole in Ariete, nel quale
+consecutivo giorno sappiamo essere avvenuta la preziosa morte di
+Ges@u Cristo [rivedi quant'ivi si @e notato] e per@o gli anni |mille
+dugento con sessanta sei~ debbonsi intendere non meramente
+^solari~, ma, come sogliono appellarsi, ^lunisolari.~
+
+	Anniversario della morte di Cristo disse il Petrarca pure
+nel medesimo senso il d@i 6 aprile 1327 [Son. 176].  Vedi 'l
+Tassoni sopra le rime di esso poeta son. 3.
+
+	Altro anniversario non si pu@o intendere: non quello che
+la chiesa celebra, cio@e il venerd@i santo, per la predetta
+ragione, cio@e, che non fu consecutivo al giorno del Plenilunio:
+non quello, che corrisponda al giorno fissato alla morte di
+Cristo da alcuno scrittore sacro o profano; imperocch@e chi
+scrisse mai essere morto Cristo nel d@i 5 aprile?  ^Io~, dice il
+Tassoni nel mentovato luogo, ^nel ridurre che ho fatto, in un
+tomo tutti gli Annali ecclesiastici del Cardinal Baronio, ho
+veduto, non solamente ci@o, che sopra questo dicono gl'istorici,
+ma i teologi e gli astronomi: e trovo l'opinioni in due classi
+principali divise.  Una degl'istorici, che tengono, che il giorno
+della passione del Salvatore fosse di marzo, e l'altra degli
+astrologi, che vogliono fosse d'aprile.  La pi@u comune
+degl'istorici, seguitata da Tertulliano, da Beda, da santo
+Agostino da s. Giovanni Grisostomo, da s. Tommaso d'Aquino, e da
+alcuni altri padri, @e che fosse il giorno 25 di marzo; ed a
+questa il Platina ancora, ed altri moderni aderiscono.  Ma la pi@u
+insigne e comune fra gli astronomi, quali secondo Abulese, e
+Giovanni Lucido, seguono le tavole Alfonsine, ed il calcolo
+ecclesiastico, regolato per l'aureo numero, @e che fosse il 3
+d'Aprile; e concorda parimente con alcune antichissime
+ossercazioni.  Ma Giosefo Scaligero nel sesto libro~ de
+emendatione temporum, ^aggiungendo un anno di pi@u all'et@a di
+Cristo, con molte ragioni, autorit@a, e calcoli, si sforza di
+mostrare, che il giorno della sua passione cadesse nel 23
+d'aprile.  Altri secondo Marcello Francolino giudicarono, che
+fosse il 16 del medesimo mese: e fra gl'istorici alcuni
+scrissero per congetture, che fu il 23, ed altri il 30 di
+marzo.  Ma niuno~ [conclude egli per rapporto al Petrarca] ^fra
+tanto numero si trova~ [^che io mi sappia~] ^il quale nomini il
+6 d'aprile.~  E niuno [concluderemo noi rispetto a Dante] che
+ponga il d@i 5 aprile.
+
+	Piacendo all'autore degli ^Aneddoti~ recentemente
+stampati in Verona, [^Anedd.~ IV cap. 12] che per
+l'anniversario della morte del Redentore intendesse Dante il d@i
+25 marzo, per combinare con esso giorno il plenilunio dal Poeta
+ammesso inducesi a crederlo un plenilunio meramente fantastico:
+non avvertendo per@o che se non per supposto real plenilunio non
+poteva Dante Inf. XX, 124 argomentare dal cader della Luna il
+nascer del Sole.
+
+	|115.  Di questi miei~, di questi demoni soggetti al mio
+comando.
+
+	|116.  Alcun~, de' condannati alla bollente pece -- |se
+ne sciorina~, ^sciorinarsi~ qu@i per uscire all'aria fuor della
+pece.
+
+	|117.  Non saranno rei~, non vi nuoceranno.  Promessa
+per@o di demonio bugiardo, com'@e detto al vers. 111 e vedrassi in
+effetto nel canto XXIII, 35 e segg.
+
+	|118.  Alichino e Calcabrina~ ec. nomi di demoni, presi
+dal Poeta chi sa dove? forse da' soprannomi derisori d'uomini;
+forse da' nomi che si dassero a' cani e ad altre bestie; e
+fors'anche composti dal Poeta medesimo con voci prese parte dal
+comune Italiano dialetto, e parte da' dialetti particolari od
+esteri.  Tra le spiegazioni, che forzasi 'l Landino di dare a
+tutti questi nomi, si merita considerazione quella di ^Ciriatto~
+{v.122}.  ^Lo chiama~, dice, ^Ciriatto sannuto, perch@e ciro non
+solamente in lingua rusticana de' nostri, ma in lingua Greca
+significa porco.~
+
+	|120.  La decina.~  Di fatto con Barbariccia si nominano
+qu@i altri demoni fino al numero di dieci.
+
+	|122.  Sannuto~, che ha sanne: ed @e ^sanna~ [spiega il
+Vocabolario della Crusca] dente grande, e pi@u propriamente quel
+dente curvo, una parte del quale esce fuori delle labbra d'alcuni
+animali, come del porco, dell'elefante, e simili.  In alcune
+edizioni ponesi |sannuto~ non come epiteto di |Ciriatto~, ma come
+altro nome di demonio; scrivesi cio@e con S maiuscula, e separasi
+con virgola da |Ciriatto.~  Dante per@o stesso nel canto seguente
+ne indica essersi ci@o malamente fatto; e perch@e di Ciriatto
+ripete
+
+     . . . . . . . . ^a cui di bocca uscia~
+     ^D'ogni parte una sanna, come a porco.~ 
+     [Vers. 55 e segg.]
+
+e perch@e dice ^Noi andavam con li dieci demoni~ [Vers. 13]:
+quando che, posto |Sannuto~ qual altro demonio, sarebbero stati
+undici e non dieci.
+
+	|124.  Pane~ dice per sincope a cagion della rima in vece
+di ^panie~ plurale di ^pania~, materia alla pece molto simile, e
+posta perci@o qu@i in luogo di essa pece.
+
+	|125-126.  Costor sien salvi insino~ ec.  Raccomandazione
+finta, com'@e finto e falso che l'|altro scheggio~, cio@e il
+seguente scoglio intersecante quelle fosse, |vada~, passi,
+|intiero sopra le tane~, sopra le fosse, e intendi tutte,
+eziandio sopra la sesta.  Vedi il detto al v. 111.
+
+	|127.  Om@e~, ^oim@e~, ed ^ohim@e~ adopransi ugualmente per
+interiezioni di dolore.  Vedi 'l Vocabolario della Crusca.  Trovo
+in tutte l'altre edizioni stampato ^o me~, diviso cio@e l'^o~ dal
+^me.~  Ma dee questo essere sbaglio cagionato dalla vaghezza
+degli antichi di separare le maiuscole iniziali de' versi dalle
+seguenti lettere [vedi la Nidob. tra l'altre ediz.] o convien
+credere, che ^o me~ ed ^om@e~ scrivessesi dagli antichi
+indifferentemente [contro il parer del Cinonio [^Partic.~ cap.
+189, 15]]; e non mai che ^o me maestro~ significhi ^o mio
+maestro~, come spiega il Venturi, il quale poscia non pu@o a meno
+di non spieghare nel seguente canto v. 91 altro ^o me~ per
+^oim@e.~
+
+	|129.  Se tu sa' ir~, perocch@e dicesti ^Ben so il cammin
+ec.~ [Inf. IX, 30] -- |cheggio~ da ^chedere~ significante il
+medesimo che ^chiedere.~  Vedi la nota al vers. 120 del passato
+canto XV.
+
+	|131-132.  Ei digrignan li denti~, la Nidobeatina; ed
+^e' digrignan li denti~ l'altre edizioni.  Digrignar li denti
+vale ^mostrar per rabbia li denti~ -- |e con le ciglia~ e col
+bieco sguardo, |ne minaccian duoli~, guai.
+
+	|136.  Ei fanno ci@o per li lessi dolenti~ [|ei~ la
+Nidobeatina ed ^@e~ l'altre edizioni] cio@e la loro rabbia @e contro
+de' sciaurati che si ^lessano~ [per ^si cuocono~] in questa
+bollente pece, e non contro di noi.  Cos@i Virgilio credeva: ma
+questa volta la paura faceva pensare a Dante meglio che non
+pensasse Virgilio.  Il Vellutello legge ^per li lesi dolenti~, e
+chiosa ^per gl'incensi~ [arsi] ^che erano nella bollente pegola,
+oppressi da dolore.~  La prima per@o e comune lezione @e pi@u
+significante.
+
+	|137.  Per l'argine sinistro~, cio@e per la parte
+dell'argine, che dal ponte scendendo stava alla sinistra mano.
+
+	|138-139.  Avea ciascun la lingua stretta co' denti~;
+atto di chi vuole sbeffare senza farsi sentire a ridere -- |per
+cenno~, accennando cio@e il poco accorgimento di Virgilio in
+credere, e persuadere il compagno, che digrignassero essi i denti
+^per li lessi dolenti.~
+
+	|140.  Avea del cul fatto trobetta.~  Fa Dante che i
+demoni in modo sconcio ed alla loro vilt@a proporzionato, imitino
+il moversi delle militari squadre a suon di tromba.  Pu@o qu@i
+|trombetta~ intendersi e per ^tromba~, e per ^trombettiere.~
+
+	Non so che si pretendano alcuni, che a questo passo
+torcono leziosamente il grifo.  Vorrebber eglino forse che a
+deridere i costumi delli demoni nell'Inferno adoprato fosse
+uguale stile, che a descrivere gli onesti tratti degli uomini
+nelle pi@u polite sale?

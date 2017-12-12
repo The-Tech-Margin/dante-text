@@ -1,0 +1,8 @@
+Tue Feb 7 21:02:19 EST 1989 removed old .e files, and renamed .f files to .e. jvs
+Wed Feb 8 15:14:54 EST 1989 preloaded paradiso. jvs
+Thu Mar 16 15:30:20 EST 1989 ran checknew on all .e files.
+Thu Mar 16 15:30:53 EST 1989 corrected and repreloaded faulty files. jvs
+Tue Jun 27 22:33:25 EDT 1989 jvs corrected typo terrra -> terra, par.12.16-8
+Tue Dec 19 10:44:04 EST 1989 jvs corrected files liste in fix.me
+Tue Dec 19 10:44:11 EST 1989 jvs preloaded corrected files
+Tue Dec 19 10:44:17 EST 1989 READY FOR LOADING

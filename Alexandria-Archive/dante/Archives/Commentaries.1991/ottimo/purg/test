@@ -1,0 +1,30 @@
+ 11:45pm  up 16 days, 10:31,  28 users,  load average: 1.05, 1.23, 1.30
+User     tty       login@  idle   JCPU   PCPU  what
+operator console   6:09am     9  47:45   9:30  sleep 60 
+jonathan ttyx1     9:17pm         7:33     15  w 
+glennap  ttyx2    10:09pm    14   4:03   2:04  top -S -s0 18 
+dej      ttyx3     3:03pm  8:23      3      2  -csh 
+saraf    ttyx4    11:20pm    16      8      8  rn soc.culture.indian 
+aswift   ttyx5    11:44pm            4      4  w 
+oracle   ttyx6    11:44pm            2      1  -csh 
+georget  ttyx7    10:49pm     1     17      2  redact proj1.c 
+ailien   ttyx8    11:13pm    30                -csh 
+sandyc   ttyxa     9:40pm     8     43      5  emacs lex.c 
+glennap  ttyxe    10:28pm         2:09     12  rlogin u2 -l dougg 
+tga      ttyxf    11:36pm     7      8      4  -csh 
+dr26     ttyy0    10:56pm           21      2  hunt 
+tong     ttyy1    11:38pm     6                tset - -Q ?dumb 
+tang     ttyy4    11:00pm     9     20      1  -csh 
+marston  ttyy5    11:01pm           25      3  vi /people2/marston/.article 
+changwoo ttyy6     9:52pm  1:15     42      5  -csh 
+cs4430   ttyyc    10:15am 13:00      8      1  /usr/appls/kcl/unixport/saved_kc
+cs4430   ttyyf    10:46am 12:58      1      1  /usr/appls/kcl/unixport/saved_kc
+iang     ttyp0    11:25pm    19                vi test.ms 
+paulmer  ttyp1    10:51pm    19      5      2  tail -f rzlog 
+bishop   ttyp2     7:57am  6:26  18:47     10  -csh 
+shallit  ttyp3     9:25am  3:58   2:05      3  -csh 
+es529    ttyp4    11:14pm         1:02   1:00  maple 
+bobh     ttyp5    11:15pm     1   1:02   1:01  brsctrl 4 5 6 7 
+dalex    ttyp8    11:21pm     1     15     13  /usr/ucb/more 
+dougg    ttyp9    11:22pm            6      1  -csh 
+jeffb    ttypd     4:48pm  1:26      4      2  -csh 

@@ -1,0 +1,20 @@
+..COMM:
+Bosco-Reggio
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Umberto Bosco and Giovanni Reggio
+..PUBD:
+1979
+..PUBL:
+La Divina Commedia a cura di Umberto Bosco e Giovanni Reggio.
+Florence, Le Monnier, 1979.  Material copyrighted 1979.
+..DENT:
+KDEM
+..EDTR:
+Margherita Frankel
+..LODD:
+..ATTR:
+copyright

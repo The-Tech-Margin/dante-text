@@ -1,0 +1,36 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15214; Sun, 14 Aug 1994 17:01:29 -0400
+Received: from Princeton.EDU by dartvax.dartmouth.edu (8.6.8.1+DND/4.6HUB)
+	id RAA01788; Sun, 14 Aug 1994 17:01:30 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.111/princeton)
+	id AA06002; Sun, 14 Aug 94 16:58:11 -0400
+Received: from tucson.Princeton.EDU by ponyexpress.princeton.edu (5.65c/1.4/newPE)
+	id AA21218; Sun, 14 Aug 1994 16:58:10 -0400
+Received: by tucson.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA15589; Sun, 14 Aug 94 16:58:10 EDT
+Message-Id: <9408142058.AA15589@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Sun, 14 Aug 1994 16:58:10 EDT
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: Boccaccio
+
+Steve, I may have mentioned that the Boccaccio comm.
+wasn't left by MF in the shape it ought to be, in that
+thre are two parts of the comm. (an "esposizione
+letterale" and an "esposizione allegorica," as you
+might figure, a literal and an alleg. esposition of the
+text).  I think we can NOT signal when we're in teh
+first, but MUST do so for the second.  I spent a few
+hours today going through the text (BRIEF mode
+excellent for this), and have now got the changes we
+need to put in ready for you.  I thought I would wend
+'em along now, for you to see if there are any problems
+in what I've done for you.  98% of this involves
+changing the headers in the "hits" -- no big deal.  But
+perhaps as many as ten of them involve editing the text
+itself, either by joining separate entires into a
+single joint one, or taking smtg. out of a document and
+making a new, separate entry out of it.  Anyway, the
+document follows.  Best, Bob

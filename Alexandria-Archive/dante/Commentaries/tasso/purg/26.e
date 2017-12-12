@@ -1,0 +1,153 @@
+	|3.~ |(ed.  Rosini)~
+^Diceva: guarda~, giovi, ^ch'io ti scaltro~.  Gi@u via.  - Scaltro.  
+[richiamo marginale] [Sessa]
+
+^Io ti scaltro~, rendo avveduto.  [Da Fino]
+
+	|6.~ |(ed.  Rosini)~
+Celestro.  [richiamo marginale] [Sessa]
+
+	|7.~ |(ed.  Rosini)~
+^Rovente~, caldo.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+Fittizio.  [richiamo marginale] [Sessa]
+
+Par vivo.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+^Certi si feron.  Certi~, in questo significato.  [Sessa]
+
+	|15.~ |(ed.  Rosini)~
+Per non ritardarsi.  [Da Fino]
+
+	|16-17.~ |(ed.  Rosini)~
+Si loda.  [Sessa]
+
+	|22.~ |(ed.  Rosini)~
+Come sei vivo?  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+Manifesto.  [richiamo marginale] [Sessa]
+
+	|34-36.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|35.~ |(ed.  Rosini)~
+Ammusa.  [richiamo marginale] [Sessa]
+
+	|41.~ |(ed.  Rosini)~
+^E l'altra: Ne la vacca entr@o Pasife~.  Cose sacre e Gentili.  [Sessa]
+
+	|43.~ |(ed.  Rosini)~
+Rife.  [richiamo marginale] [Sessa]
+
+	|52.~ |(ed.  Rosini)~
+^Grato~, desiderio.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Vivo.  [Da Fino]
+
+	|60.~ |(ed.  Rosini)~
+^Mortal~, corpo.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Terghi~, spalle.  [Da Fino]
+
+	|67-69.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|68.~ |(ed.  Rosini)~
+Ammuta.  [richiamo marginale] [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+Inurba.  [richiamo marginale] [Sessa]
+
+	|70.~ |(ed.  Rosini)~
+Paruta.  [richiamo marginale] [Sessa]
+
+	|72.~ |(ed.  Rosini)~
+Attuta.  [richiamo marginale] [Sessa]
+
+^Attuta~, ferma.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^Marche~, qualit@a.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+Essendo stato contaminato da Nicomede.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+^Per@o si parton, Soddoma gridando~.  Perch@e i sodomiti sono puniti 
+nel pi@u soprano loco, se la sodomia @e maggior vizio che l'iracondia e 
+la gola e gli altri ec.?  [Sessa]
+
+	|81.~ |(ed.  Rosini)~
+Per purgarsi presto.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+Imbesti@o.  [richiamo marginale] Schegge.  ^Gregge~.  [Sessa]
+
+Pasife.  [Da Fino]
+
+	|88.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+^Atti~, fatti.  [Da Fino]
+
+	|93.~ |(ed.  Rosini)~
+Essendomi pentito avanti la morte.  [Da Fino]
+
+	|94-95.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Non a tanto insurgo~, a quanto sursero essi per abbracciarsi.  [Da 
+Fino]
+
+	|101.~ |(ed.  Rosini)~
+Lunga fiata.  [richiamo marginale] [Sessa]
+
+	|103.~ |(ed.  Rosini)~
+^Pasciuto~, traslazione.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+Con giuramento.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+^Far bigio~, oscurare.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+Scerno.  [richiamo marginale] [Sessa]
+
+	|117.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+Traslazione.  [Da Fino]
+
+	|118-119.~ |(ed.  Rosini)~
+Modo usato dal Villani.  [Sessa]
+
+	|120.~ |(ed.  Rosini)~
+^Quel di Lemos@i~, Arnaldo Daniello.  [Da Fino]
+
+	|121-123.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|123.~ |(ed.  Rosini)~
+^Per lor s'ascolti.  Per lor~, tanto quanto ^da lor~.  Cos@i 
+nell'Inferno (c. I. v. 126).  ^....In sua magion per me si vegna;~ e 
+(c. XXIV. v. 106.) ^Cos@i per li gran savj si confessa~.  [Sessa]
+
+	|129.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+Nostro.  [richiamo marginale] - ^Nella fine di questo canto @e posta di 
+mano del Tasso la seguente annotazione~: - Onde avviene che i medesimi 
+peccati non sono puniti nell'Inferno, e purgati nel Purgatorio?  Non si 
+vede nell'Inferno, ove si puniscano gli invidiosi; non si vede nel 
+Purgatorio ove siano i ladri, gli omicidi; gli eretici, i simoniaci e 
+simili.  Eppur di questi peccati ancor s'impetra perdono.  Dante dunque 
+e nell'una e nell'altra parte @e difettivo.  [Sessa]
+

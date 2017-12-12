@@ -1,0 +1,20 @@
+#!/bin/sh
+
+# Preload a commentary of the Dartmouth Dante Database.
+
+#
+# Commentary file lists for giambullari
+#
+INFPROEM=""
+INFCOMM="01.e "
+
+PURGPROEM=
+PURGCOMM=
+
+PARAPROEM=
+PARACOMM=
+
+#
+# Invoke the common portion of this script
+#
+. preload.2

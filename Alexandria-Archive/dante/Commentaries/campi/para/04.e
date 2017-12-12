@@ -1,0 +1,1107 @@
+	|1-3.  Intra due~ ecc.  Dante, colpito dallo splendore di
+Beatrice, si trattenne dall'interrogarla, non sapendo da quale
+domanda incominciare.  Un uomo libero posto a mensa tra due cibi
+equidistanti e moventi ad un modo l'appetito, morirebbesi di fame
+ecc.  BENV.  -- San Tommaso, dissertando sopra questa ipotesi,
+non trova altra via per far uscire d'impiccio un tal uomo, se non
+quella di fargli considerare in uno dei due cibi una qualit@a che
+l'altro non abbia.  -- Il Venturi, non avendo ben appresa la
+forza di questa ipotesi, disse questa similitudine ^di molta
+vaghezza poetica, ma di poca sodezza da filosofo.~  -- La
+proposizione (dice per altro il Bianchi) @e verissima; ch@e la
+nostra volont@a, per risolversi tra pi@u cose alla scelta di una,
+ha bisogno di un motivo preponderante qual che siasi;
+diversamente ella si rimane inerte.  -- Var.  ^Intra dui~, tre;
+-- ^due~, i pi@u, le prime quattro edizioni, Benv. W. Scarab.
+ecc.; -- ^doi~, il 35; -- ^Infra due~, il 37; -- ^distinti~, il
+38; -- ^D'un modo pari~, il 35; -- ^pr$ia~, otto, (F.).  (N.).
+(V.); -- ^prima~, i pi@u; -- ^morea~, (I.); -- ^mor$ia~, (M.); --
+^Che libero huom l'un si recasse ai denti~, il Caet. l'Ald. il
+Vell. e il Daniello, lettera preferita dal Perazzini ed accettata
+dal Dionisi, e la confortano quattro dei miei spogli, Bart. Fer.,
+le Fior. moderne; la Cominiana, forse err.  di stampa, ^Che liber
+uom l'un recasse a' denti~; la Crusca, ^Che liber uomo l'un
+recasse~, e cos@i il W. e Scarabelli.
+
+	|4-6.  S@i si starebbe~ ecc.  Cos@i con uguale paura
+starebbesi un agnello tra due lupi equidistanti; cos@i un cane
+rimarrebbesi in forse tra due capriole ugualmente distanti da
+lui.  BENV.  -- ^Agni~, per ^agnelli~ o ^pecore; -- intra due
+brame -- Di fieri lupi~, metonimia, per ^intra due bramosi lupi.~
+LOMB.  -- Il Daniello cit@o qui i seguenti versi d'Ovidio:
+^Tigris ut auditis diversa valle duorum -- Extimulata fame
+mugitibus armentorum -- Nescit utro potius ruat, et ruere ardet
+utroque; -- Sic dubius Perseus~, etc. (^Met.~ V).  Questa
+similitudine fu ripetuta dal Venturi, dal Portirelli e da altri.
+-- ^S@i si starebbe~, ugualmente starebbesi immobile; -- ^dame~
+per ^damme, daini~, alla latina.  LOMB.  -- ^Damme~ (dice il
+Torelli) converrebbe scrivere, ma getta una ^m.~  Cos@i al
+contrario poco pi@u sotto ^felle~ per ^fele.~  -- Leibnizio nella
+sua ^Teodicea~ riconobbe sotto nome di ^ragion sufficiente~
+questo principio chiamato dai Metafisici ^libert@a d'equilibrio.~
+La comparazione nobilitata da Dante, applicandola ad un uomo, fu
+riferita ad un asino dal celebre Buridano.  @E a dubitarsi per@o
+se l'asino di Buridano avrebbe avuta la compiacenza di morire di
+fame per far onore a questa legge dell'equilibrio.  Nota della E.
+F.  -- Nella prima di queste similitudini @e da ambe le parti
+uguale il timore, nella seconda la voglia; e la seconda @e pi@u
+propria, perch@e nell'altra il timore non si divide, ma confuso
+raddoppia.  FRATICELLI.  -- Sino al tempo di Dante (dice il
+Parenti) le due voci ^Damma~ e ^Dama~ erano s@i determinate, s@i
+distinte, che fecero spropositare l'Ottimo, suo famigliare, che
+chios@o: <Un altro simile esemplo pone d'uno catellino chiamato
+da due ^donne~ che igualmente lo lusingassono, ed igualmente lo
+minacciassono; ch'esso starebbe, n@e accederebbe n@e all'una, n@e
+all'altra, non sapiendo deliberare a quale s'andasse>.  (^Eserc.
+fil.~ n+o~ 8, p. 32 e seg.).  -- Var.  ^Cos@i starebbe~, il 3; --
+^E s@i farebbe~, il 43; -- ^tra doi brame~, il 32; -- ^fra due~,
+35. 41. (N.).  ed altri; -- ^intra due~, il 52. le prime quattro
+edizioni, Fer. W. Scar.; -- ^Di feri~, il 52, (F.).  (V.); --
+^egualmente~, tre, Fer. W.; -- ^ugualmente~, 37. 43; --
+^equalmente~, (I.); -- ^tra due dame~, tre; -- ^fra due~, il 37,
+(N.); -- ^intra due~, il 52, le prime quattro edizioni, Fer. W.
+ed anco il 53; -- ^due dayme~, erronea, il 53; -- ^ingualmente~,
+Roscoe.
+
+	|7-9.  Per che s'io~ ecc.  Il perch@e io n@e mi condanno,
+n@e mi lodo, se, trattenuto dalla mia incertezza, io mi taceva,
+sendomi imposto da necessit@a.  BENV.  -- Sospinto del pari da
+due dubbj, io non potea determinarmi da qual dei due cominciare,
+n@e merita lode o biasimo se non ci@o che liberamente si fa.
+LOMB.  -- Le azioni volute da un'assoluta necessit@a non meritano
+n@e lode n@e biasimo.  BIANCHI e FRAT.  -- Var.  ^S'io tacqui~,
+il 3; -- ^non mi~, 28. 32; -- ^non me~, il 40; -- ^Per che~,
+(M.).  (I.).  Fer.; -- ^s'io mi tace' mi non~, (I.); -- ^Dalli
+mie' dubbi~, il 24; -- ^Da' miei dubbii~, il 37; -- ^Delli miei~,
+il 38; -- ^egualmente sospinto~, But.; -- ^Da li~, (F.).  (I.).
+(N.).  Fer.; -- ^mie' dubi~, (M.); -- ^io men commendo~, l'8; --
+^me commendo~, il 17; -- ^Da ch' era necessario~, tre; -- ^ne
+commendo~, il 41, (I.); -- ^Poi ch' era~, le prime quattro
+edizioni.
+
+	|10-12.  Io mi tacea~; ecc.  Io mi teneva in silenzio, ma
+erano palesi il mio desiderio e le domande ad esso conformi, ed
+era quello pi@u ardente, pi@u vivo di quanto avrei potuto
+significare con parole.  BENV.  -- ^Con ello~, con lui; -- ^Pi@u
+caldo assai~, intendi ^dipinto~, pi@u vivacemente figurato; --
+^che per parlar distinto~, che per espresso mio parlare non
+sarebbe stato.  LOMB.  -- Var.  ^Ma il mio voler~, l'11 (in m.
+al. ^desir~); -- ^desir~, il 41, Fer.; -- ^disir~, le prime
+quattro edizioni, Benv. W.; -- ^disiro pinto~, il 2; -- ^dis$io~,
+sei; -- ^depinto~, il 41; -- ^domandar~, parecchi, (M.).  W.
+(F.).  (N.); -- ^e il dimandar~, molti, Fer. Benv.; -- ^Pi@u
+chiaro assai~, 6. 17.  But. Landin., un Triv., un Marc., il Fer.;
+-- ^che parlare distinto~, il 32; -- ^Pi@u caldo~, i pi@u, le
+prime cinque edd., Cr. Scarabelli.
+
+	|13-15.  Fe' s@i Beatrice~, ecc.  Beatrice si fece tal
+quale fecesi Daniele per ammansare l'ira di Nabuccodonosorre
+contra i sapienti del suo regno che non avevano saputo
+interpretare il suo sogno, i quali nell'ira sua tutti quanti fece
+trucidare.  BENV.  -- Egli poi narra a lungo il sogno fatto da
+quel Re della gigantesca statua dal pi@e di creta, interpretato
+da Daniele, poi conclude: Daniele rivel@o al Re il sogno, e lo
+interpret@o, e Beatrice, conoscendo i secreti di Dio, sciolse i
+due dubbj di Dante, dai quali era turbato.  -- ^Fessi~, per ^Fe'
+s@i~, scrissero gli antichi con raddoppiamento di consonante,
+come ad esempio: ^chessi, chett@u, allui~ ecc., per ^che s@i, che
+tu, a lui~; e ^quale~ per ^come~, usato anche altrove dal Poeta
+nostro, intese il Lomb. e spieg@o: ^Fece Beatrice istessamente,
+come fece Daniello~; fu lodato dal De Romanis, fu seguitato dal
+Dionisi; fu vilipeso dal Biagioli, che ne grid@o la lettera un
+guasto di senso, di grammatica e d'ogni cosa; e anticip@o mali
+augurj a chi non @e del suo parere, e dichiara con tono di
+novit@a: ^Beatrice fece s@e tale, quale Daniello fece s@e.~  --
+Il Perazzini aveva notato: <^Constructio est~: S@e fece Beatrice
+qual (^fece~) s@e Daniello>; sospettando dai copiatori mutata la
+^s~ in ^f~, e concluse le sue osservazioni col dire: ^Porro
+reciprocum hoc in loco necessarium est~ (op. cit. facc.  75).  --
+Il Torelli cit@o la lezione ^Fessi~, unicamente per avvertire che
+va letto ^Fe' s@i~, emendazione usurpatagli dal Lombardi.  --
+Tornando al Comento, il Lomb. dice che Daniello plac@o
+Nabuccodonosor e gli fece sospendere la sentenza contro gl'indovini; 
+e tanto si trae appunto dal libro di Daniele al cap. XII.
+Err@o adunque Benv.  nel dire, che il Re Assiro facesse uccidere
+que' suoi indovini.  Di questo sogno vedi ^Inf.~ XIV, v. 103 e
+segg.  -- Var.  ^Fesse~, 8.  32; -- ^Fe' s@i~, quasi tutti i miei
+spogli, Nid. Cass. Fer. W.; -- ^quel fe' Daniello~, il 21; --
+^qual fu~, tre; -- ^qual fee~, 37.  41; -- ^qual si fe~'. il 43;
+-- ^Fe' s@e~, (I.); -- ^Che l'av$ia fatto~, il 43; -- ^Fessi~,
+molti; -- ^Fe' s@i~, @e migliore.
+
+	|16-18.  E disse~: ecc.  E Beatrice disse: Io scorgo bene
+i due desiderj da'quali sei agitato in ugual modo, s@i che non
+sai da qual cominciare.  BENV.  -- ^Come ti tira~ ecc., come
+ugualmente ti spinge a domandare ciascuno dei due dubbj che tu
+hai; -- ^s@i che tua cura~ ecc., onde il tuo desiderare se stesso
+impedisce in guisa che fuori con parole non si manifesta.  -- ^Se
+stessa lega s@i~, cos@i da se medesima s'inceppa; -- ^tua cura~,
+la tua inquieta voglia.  BIANCHI.  -- Var.  ^Che a me ti tira~,
+8. 9; -- com'ei ti tira~, il 43; -- ^te tira~, lo Scar. col Cass.
+ed il B. G., non garbandogli il ^ti ti~ della vulgata; --
+^disir~, il 6; -- ^L'uno e l'altro dis$io~, tre; -- ^Uno e
+l'altro~, 14. 43; -- ^come tua cura~, il 40; -- ^Uno et altro~,
+(F.).  (N.); -- ^Se stessa liga~, il 4; -- ^Se stesso~, quattro,
+(F.).  (I.).  (N.).  (V.), ventuno cit. dagli Acc.; -- ^Se
+stessa~, (M.).  Cr. e i pi@u; -- ^per ci@o fuor non~, il 3.
+
+	|19-21.  Tu argomenti~: ecc.  Tu argomenti: Se
+perseverando nel buon proposito, come possa la violenza usata da
+altri scemare il merito ed il premio, come accadde a Piccarda ed
+a Costanza?  BENV.  -- ^Mi~, per ^ne~, il singulare pel plurale.
+LOMB.  -- Il Biagioli invece intende: ^a me suppostomi in tal
+caso.~  -- Se il buon voler continua in me, il Bianchi ed il
+Fraticelli.  -- Var.  ^Tu mi argomenti~, l'8; -- ^se buon voler~,
+Benv. e il 33; -- ^se il buon~, i pi@u, W.  Fer.; -- ^argumenti~,
+parecchi, Fer.; -- ^per qual cagione~, 6. 38; -- ^rasone~, 8. 9;
+-- ^Di verit@a mi scema~, il 37; -- ^mi sciema~, il 14; -- ^li
+scema~, il 29; -- ^mi scema con paura; -- la figura~, il 9; --
+^mi stema~ (forse per ^strema~, che sarebbe buona lezione), (F.).
+(N.); -- ^vi scema la misura~, il Ferranti.
+
+	|22-24.  Ancor~ ecc.  Ancora ti tiene dubitoso questo
+sembrare che l'anime nostre tornino alle stelle siccome credette
+Platone.  Questo filosofo sentenzi@o che l'anime nostre
+preesistendo abitatrici delle stelle, scendevano ne' corpi umani,
+per tornar poi dopo la loro morte ad abitare le stelle.  BENV.
+-- Vedi Platone nel ^Timeo~, e ci@o che insegnato dai Platonici
+riferisce S. Agostino lib. 13 ^De civit. Dei~, cap. 19.  LOMB.
+-- Aristotile combatte questa platonica dottrina.  -- Var.  ^Ti
+d$ia casone~, l'8; -- ^casione, il 9; -- ^Ancora di dubbiar~, il
+14. 21; -- ^a dubitar~, 28. 34.  Pad. 1859; -- ^Poter tornarsi~,
+il 6; -- l' anima~, il 28; -- ^tornarse~, (I.); -- ^a le stelle~,
+parecchi, e Fer.; -- ^sententia~, (F.).  (I.).  (N.).  Benvenuto.
+
+	|25-27.  Queste son~ ecc.  Queste sono le domande che si
+appuntano nel tuo volere, e ad ambe risponder@o, incominciando da
+quella che ha maggior fiele teologico, maggior veleno di falsa
+dottrina.  BENV.  -- ^Velle~, voce latina, posta qui per ^volere,
+volont@a, desiderio~, qui in servigio della rima; -- ^pontano
+igualemente~, fanno uguale stimolo, il perch@e nessuna di loro tu
+puoi manifestarmi; -- ^felle~, epentesi imitante il latino, per
+^fele~, che pure adoprasi invece di ^fiele~.  Qui per@o sta
+traslativamente per ^veleno di falsa dottrina~, onde in seguito
+dir@a: ^L'altra dubitazion che ti commove -- Ha men velen~ (v. 64
+e segg.).  LOMB.  -- ^Velle~, voce scolastica.  Nella ^Somma~:
+<Gli atti della volont@a verso il fine sono tre: volere
+(^velle~), fruire e intendere>.  -- ^Di felle~, di fiele, fig.
+^di falso~, intendi di falsa dottrina, contraria alla Teolog$ia.
+FRATICELLI.  -- Var.  ^Son quest,ion~, l'8; -- ^le question~,
+(F.).  (I.).  (N.); -- ^le quistion~, (M.).  Cr.; -- ^Ti pontano
+equalmente~, il 6; -- ^e per@o in pr$ia~, il 21; --
+^equalemente~, il 25; -- ^ug,ualmente~, 26. 32; -- ^Portano~, il
+37; -- ^Puntano~, il 43 (che ha in m. al.  ^Portano~); --
+^egualemente~, ant. Est. lett. preferita dal Parenti, Fer. W.; --
+^ig,ualmente~, le prime quattro edizioni; -- ^Queste son
+question~, Roscoe.
+
+	|28-33.  De' Serafin~ ecc.  Beatrice brevemente e
+chiaramente risponde alla seconda domanda pi@u pericolosa,
+insegnando che tutti i Beati hanno loro sede nell'Empireo, e che
+la diversit@a de' luoghi @e argomento della diversa capacit@a di
+gloria.  Dei Serafini quello ch'@e pi@u presso a Dio, e Mos@e,
+che parlava con Dio a fronte a fronte, e Samuele, gran profeta
+che unse David, e Giovanni, il Precursore o l'Evangelista,
+eccettuo Maria Vergine, tutti hanno il loro grado di gloria
+nell'Empireo; e tanto si dica di quelle anime che qui
+t'apparvero; e non sono circoscritti da luogo n@e da tempo; tutti
+sono beati, ma in grado diverso secondo la grazia pi@u o meno
+ispirata dallo Spirito Santo.  BENV.  -- ^S'ind$ia~, si interna,
+si unisce in Dio; -- ^non~, per ^non eccettuata.~  Il dire
+trovarsi tutti i Beati nel medesimo cielo, abbatte la platonica
+opinione che le anime stanzino in diverse stelle.  -- ^Ne hanno
+all' esser lor pi@u o men anni~, distrugge l'altro errore di
+Platone, che ritornando l'anime alle stelle, ivi restino pi@u o
+meno lungamente a misura dei loro meriti.  LOMB.  -- Il Torelli
+pens@o che Dante forse alludesse al seguente passo del Timeo:
+^Denique cum universum constituisset, astris parem numerum
+distribuit animarum, singulis singulas adhibens...  Satis autem,
+et quasi sparsis animis per singula convenientia temporum
+instrumenta, fore ut animal nasceretur, quod omnium animalium
+maxime esset divino cultui deditum etc.~  Al qual passo vedi ci@o
+che nota Proclo nel quinto libro de' suoi Comenti sopra il Timeo.
+-- Sotto il v. 29 mons. Cavedoni not@o: <Fra i maggiori Santi
+dell'antico Testamento, ricorda Moise e Samuele, a riguardo a
+quella parola del Signore al suo Profeta: ^Si steterit Moyses et
+Samuel coram me, non est anima mea ad populum istum~ (JEREM. XV,
+1).  E fra' Santi del Testamento nuovo memora solo quel Giovanni,
+del quale disse l'eterna Sapienza incarnata (MATTH. XI, 11): ^Non
+surrexit major inter natos mulierum Johanne Baptista~>.  (^Opusc.
+Rel.~ ecc.  XII, pag. 162).  -- ^Io dico, non Maria.~  il Landino
+e il Vellutello, tratti in errore al pari di Benv. e dal modo non
+ben chiaro di queste parole, pensarono che fossero un'eccezione
+di M. V. dal comun cielo.  Non avvertirono (disse poi il Lomb.)
+che nel XXXII di questa Cantica Dante la pone nell'Empireo con
+tutti i Beati.  -- Altro errore di parecchi Spositori si fu
+quello di credere che il v.  ^N@e hanno all'esser lor pi@u o men
+anni~, significhi che dopo il Giudizio universale saranno tutti
+d'una stessa et@a, secondo la sentenza dell'Apostolo: ^In virum
+perfectum, in mensuram aetatis plenitudinis Christi~ (^Ephes.~
+4); chiosa incoerente all'intutto alla intrapresa confutazione
+del platonico sistema, e contraria alla natura incorporea de'
+^Serafini.~  LOMB.  -- Breve vuol dire: Tutti i Beati hanno sede
+nell'Empireo, e vi rimarranno eternamente, a confutazione dei due
+errori di Platone.  -- Var.  ^Di Serafin~, il 33; -- ^Dei
+Seraphin~, Benv. (F.).  (M.).  (N.); -- ^Moyses~, quattro, (V.);
+-- ^Samuel~, quattro, (M.).  W. Benv.; -- ^Samuele~, il 41,
+Rosc.; -- ^e qual Giovanni~, il 17; -- ^Johanni~, (V.); --
+^Moys@e~, (F.).  (N.); -- ^Mois@e~, (M.).  (I.).  52. 53.  Cr.;
+-- ^Chi prender vuoi~, il 3; -- ^Che prender vuoli~, diciotto,
+(F.).  (N.).  Fer.; -- ^voli~, 8. 41. 42; -- ^volli~, il 37; --
+^vuoi~, tre; -- ^Che prender~, venticinque, (I.); -- ^vuole~, il
+18; -- ^vuogli~, 25. 31; -- ^Qual prender~, i pi@u; -- ^cielo
+loro~, il 21; -- ^in altri cieli~, Fer.; -- ^che mo rappar$iro~,
+il 6; -- ^Che questi spirti~, trentasei, le prime quattro
+edizioni, Bart. Fer. Benv. cod. Vill.  Nid. e il Lomb., che la
+propugna, dicendo che poi al v. 75 tutti i testi leggono
+^quest'alme~, e sta bene; -- ^N@e hanno~, i pi@u; -- ^Non hanno~,
+parecchi, (I.); -- ^meno o pi@u~, il 43; -- ^pi@u o men~, Rosc.
+le prime quattro edizioni; -- ^pi@u o meno~, otto; -- ^all'esse
+lor~, l'11; -- ^Che questi spirti~, Bart. Nid. Rosc. Fosc.; --
+^Che quelli~, ventisette degli Acc.; -- ^quegli~, Cr.; --
+^quelli~, i pi@u.
+
+	|34-36.  Ma tutti~ ecc.  Ma tutti abbelliscono il cielo
+empireo, in diversi gradi di beatitudine, secondo al grazia pi@u
+o meno ispirata dallo Spirito Santo.  BENV.  -- ^L'eterno spiro~,
+la ineffabile felicit@a che Dio spira negli eletti.  E. B.; --
+^pi@u o men~, in ragione de' meriti loro sentono l'emanazione
+della gloria di Dio.  BIANCHI.  -- Var.  ^Lo eterno~, tre; -- ^lo
+trino spiro~, il 17: -- ^pi@u o men~, 29. 42; -- ^pi@u e men~, le
+prime quattro edizioni; -- ^lo dolce spiro~, il 30.
+
+	|37-39.  Qui si~ ecc., qui ti apparvero l'anime di
+Piccarda e di Costanza, non perch@e sia loro assegnata la sfera
+lunare per eterna dimora, ma per significare che nell'Empireo
+hanno il minor grado di gloria.  BENV.  -- ^Sortita~, per
+^assegnata in sorte.~ VOLPI.  -- ^Ma per far segno~, ma per
+accennare, col mostrarsi nell'infima sfera, che nell'Empireo esse
+occupano gl'infimi scanni.  LOMB.  -- Il Torelli spose: <Vuol
+dire: per far segno del grado che tengono nel primo cielo, nel
+veder Dio, grado che @e il meno prossimo degli altri>.  -- Var.
+^Quivi si mostra~, 10. 41.  Rosc.; -- ^si mostr@aro~, dieciotto,
+(F.).  (M.).  (N.).  Nid. Scarabelli con molti codici autorevoli,
+e con verso di miglior suono; -- ^mostraron, non~, Cr. ecc.; --
+^Della spiritual~, nove, (M.).  (I.) undici degli Acc.; -- ^Da la
+spiritual~, otto, Rosc.; -- ^Dalla~, tre; -- ^con men salita~, il
+53.
+
+	|40-42.  Cos@i convien~ ecc.  Cos@i conviene parlare
+all'umano ingegno, che non pu@o concepire le cose spirituali e
+celesti, sendoch@e esso dipenda dai sensi, sicch@e senza il loro
+ajuto giugner non possa alla cognizione di concetti astratti,
+essendo i sensi i suoi naturali strumenti.  BENV.  -- ^Da
+sensato~, per ^da obbietto sensato~, cio@e ^sensibile; --
+apprende~, prende, piglia.  LOMB.  -- Apprende le cose
+intelligibili dalle cose prima conosciute per via di senso e di
+cognizione sensibile, conforme i dogmi Peripatetici: ^Nihil est
+in intellectu quin prius fuerit in sensu: oportet intelligentem
+speculari phantasmata.~  Cos@i dietro il Landino, il Venturi.  --
+Questa era la dottrina di Aristotile e di S. Tommaso, ed oggi @e
+quella dei pi@u dotti filosofi.  E. B.  -- ^Ci@o che fa~ ecc.,
+ci@o che fa poi essere materia dell'intelletto.  LOMB.  -- Non
+c'era altro mezzo che questo, materiale e sensibile, per dare ad
+un uomo come sei un'idea di queste cose spirituali e divine; --
+^da sensato~ ecc., tutte le idee vengono all'anima per mezzo dei
+sensi.  BIANCHI.  -- ^Ingegno~, per ^dote della mente~, alla
+latina; -- ^apprende~, nel ^Purg.~ XVIII, 22.  ^Vostra
+apprensiva.~  Era termine delle scuole.  FRATICELLI.  -- ^Da
+sensato~ ecc.  Questa ellissi, in cui @e taciuto il sust.
+^Oggetto~, o simile, non @e licenza poetica, riscontrandosi anche
+nella prosa di quel secolo.  ^Coment. Ott. Parad.~ 33: <Nelle
+cose visibili quaggi@u cotanto quanto il ^sensato~ pi@u vivifica,
+cotanto maggior danno riceve il senso, come appare a chi guata
+fiso nel Sole, perocch@e la eccellenza del ^sensato~ corrompe il
+senso>.  PARENTI (^Ann. Diz.~).  -- Var.  ^A vostro ingegno~, il
+3, Fer.; -- ^a nostro~, l'8; -- ^dassentato apprende~, il 43, che
+reca in margine: al. ^da sentato; -- Per@o che solo~, i pi@u,
+Fer.  Benv. ecc.; -- ^Ci@o che fa possa~, il 41; -- ^Ci@o che
+fu~, il 43 (che ha in m. al. ^Ci@o che ha~); -- ^l'intelletto~,
+l'8; -- ^da intelletto~, il 14.
+
+	|43-45.  Per questo~ ecc.  Per questo la teolog$ia si
+spiega alla nostra umanit@a, mostrandovi Iddio in umana figura, e
+tutt'altro intende; ma tanto fa per accomodarsi all'umano
+intendimento.  BENV.  -- ^La Scrittura~, la sacra Bibbia; -- ^a
+vostra facultade~, alla materiale vostra capacit@a; -- ^ed~, per
+^ma.~  LOMB.  -- ^Ed altro intende~, da quello che suonano le
+parole, o figurano le immagini sensibili.  BIAGIOLI.  --
+^Condescende~, si accomoda nelle sue espressioni, nel suo
+linguaggio, alla vostra capacit@a.  BIANCHI.  -- ^Ed altro
+intende~, cio@e, intende d'atti spirituali.  FRATICELLI.  -- ^Per
+questo~ ecc.  Qui Dante tocca alcun che delle regole della sacra
+ermeneutica, e mostra aver avuto riguardo a quell'avvertimento
+del Dottor Massimo (^Ep.~ 120. ^ad Algas. quaest.~ 2): ^Et non
+mirum, si in Deo anima nominetur, quum universa humani corporis
+membra, secundum leges tropologiae, et diversas intelligentias,
+habere dicatur.~  CAVEDONI (^Opusc. Rel.~ X, pag. 166).  -- Var.
+^Perch@e scola Scriptura~, il 22; -- ^Scriptura~, cinque, (F.).
+(N.).  Benv.; -- ^condiscende~, 25. 34.  Fer. W.; --
+^condesciende~, il 41 e i pi@u; -- ^A nostra~, 14. 43.  (F.).
+(N.); -- ^facult@a~, 12. 29; -- ^e piede e mano~, 14. 43.  (F.).
+(N.); -- ^Attribuisce idio~ (forse ^in dio~), il 12.
+
+	|46-48.  E santa~ ecc.  E in aspetto umano vi figura la
+santa Chiesa, e Gabriello, messaggiero a Maria, e Michele
+arcangelo, e Raffaello, altro arcangelo, che ridon@o la vista al
+vecchio Tob$ia.  BENV.  -- Questo Spositore narra a lungo la
+Storia di Tob$ia, ch'io tralascio rimettendo i pochi che la
+potessero ignorare alla Bibbia.  -- Aveva adunque Dante ben
+compreso lo spirito della Chiesa nel culto delle immagini; n@e le
+d@a biasimo d'un costume piissimo e profittevole, se grossolana e
+goffa ignoranza non ne abusi.  BIANCHI.  -- Var.  ^E sancta
+Chiesa con aspecto~, alcuni, e (I.); -- ^vi ripresenta~, 5. 6; --
+^impresenta~, il 12; -- ^Michael~, tre, e le prime cinque
+edizioni; -- ^v'impresenta~, alcuni; -- ^Gabriel et Raphael~, 20.
+43; -- ^Gabriele e Michel~, il 41; -- ^Gabriello~, i pi@u, Fer.;
+-- ^Tub$ia, Tobia~, variamente, ma ^Tob$ia~ i pi@u; -- ^a
+Thob$ia~, (I.).
+
+	|49-51.  Quel che~ ecc.  ^Timeo~, l'opera di Platone,
+cos@i detta dall'amico suo di Locri, citt@a gi@a famosa nelle
+Calabrie, dove Timeo ebbe il primo nome di sapienza, e dove
+Platone il conobbe nel viaggio per lui fatto in Italia.  BENV.
+L'opinione di Socrate, di Platone e degli Accademici fu che
+l'anime discendessero dalle stelle, e dopo morte tornassero alle
+stesse stelle ^conformi.~  La ^stella conforme~, dicevasi quella
+che fu motivo dei semi di vita e d'intelletto; ed ecco perch@e
+ritenevasi che le anime discendessero dalle stelle.  Platone
+asseri trovarsi nell'anime umane ogni tendenza a virt@u, e
+perci@o gli studj non apportare all'intelletto che la remozione
+degl'impedimenti, come si avvera nell'ubbriaco e nell'epilettico;
+-- ^dell'anima argomenta~ ecc., quanto egli dice non @e da
+considerarsi qual'immagine che adombri quello che realmente qui
+si vede; ma pare che le sue parole non abbiano un significato
+diverso da quello che letteralmente esprimono.  Fin qui Benv.  --
+^Non @e~ ecc., non @e simile a questo figuramento d'una cosa per
+farne capire un'altra; -- ^che senta~, per ^che creda.~  LOMB.
+-- Var.  ^Dell'anima~, sette, Benv.; -- ^argumenta~, parecchi,
+Fer.; -- ^Per@o che~, quasi tutti i miei spogli, le prime quattro
+edizioni, Fer.  Benv.; -- ^par ch' el senta~, il 21.
+
+	|52-54.  Dice che~ ecc.  Dice che l'anima uscita
+dell'uman corpo torna alla stella da cui discese, credendola
+dipartita da essa, allorch@e natura la destin@o ad informare il
+corpo.  BENV.  -- ^Decisa~, separata, tolta; -- ^per forma la
+diede~, la diede per forma al corpo umano.  LOMB.  -- Nel dialogo
+del Timeo @e detto: ^Anima est semen Deorum stellas moventium; --
+per forma~, intendi, per anima al corpo umano.  BIANCHI.  --
+^Alla sua stella riede~, Cicerone ^De Univ.~: <Chi avr@a
+dirittamente finito il corso di sua vita a quell'astro, al quale
+egli @e ordinato, ritorna>.  -- ^Per forma~, ecc.  Anche nel
+^Convito~: <la sua forma, cio@e la sua anima>.  -- Nella ^Somma~:
+<Siccome ogni cosa @e formalmente in virt@u della sua forma,
+cos@i il corpo vive per l'anima>.  FRATICELLI.  -- ^Forma
+corporis~ fu chiamata l'anima per sentenza dei teologi nel
+Concilio di Vienna in Francia, siccome fu accennato sotto il v.
+59 del IX del ^Purgatorio.~  -- Varianti.  ^Alla sua stella
+rede~, 24. 40.  (F.).  (N.).  (V.); -- ^a la sua stella~, molti,
+Fer.; -- ^Credendo quindi quella~, il 43; -- ^ella quinci~, il
+37; -- ^esser dicisa~, il 3, (V.); -- ^quinci esser~, il 21; --
+^Quando per forma~, parecchi, (I.); -- ^Quanto natura~, il 28; --
+^le diede~, il 24.
+
+	|55-57.  E forse~ ecc.  E forse l'intenzione di Platone
+fu diversa dal senso letterale delle parole.  L'espressione
+dubitativa che viene usata per rispetto ai primi sapienti, che
+tennero l'opinione di Platone, e fu seguitata, oltre che da
+Pitagora, da Tullio, da Virgilio e dallo stesso cristianissimo
+Boezio, esser pu@o con retta intenzione, consonante alla Fede e
+non meritevole di derisione, ecc.  BENV.  -- ^Intenzione~,
+intendimento, senso.  LOMB.  -- Var.  ^E forse sua intenzione~,
+il 10, Rosc.; -- ^E forse sua semenza~, il 34; -- ^sentenza~, i
+pi@u, le prime quattro edizioni, Fer. W.; -- ^sentenzia~, Cr. mal
+a proposito, sendoch@e la ^z~ supplisca al ^ti~ de' latini; --
+^Ma forse sua intenzione~, il 53; -- ^il suo arco~, il 24; -- ^di
+non esser~, tre, (I.); -- ^da noi esser~, (M.).  (V.); --
+^derisa~, i pi@u, ecc.
+
+	|58-60.  S'ello intende~ ecc.  S'egli intende che dalle
+stelle venga l'influsso al bene ed al male, alle virt@u ed ai
+vizj, forse la sua opinione pu@o cogliere nel segno.  Platone fu
+anche poeta, e molte cose scrisse in parlare figurato.  BENV.  --
+S'egli intende che le anime create da Dio ricevano influssi dalle
+stelle, e che poi dopo morte dei corpi salgano alle stelle per
+deporvi i ricevuti influssi, l'onore de' buoni e il biasimo de'
+malvagi influssi, forse il suo parlare ha qualche cosa di vero.
+Cos@i inteso, converrebbe Platone col Poeta, il quale non per
+altro motivo fa vedersi quelle smonacate femmine nella Luna, che
+in segno della instabilit@a dal pianeta loro influita.  LOMB.  --
+Ma Platone non intese la cosa in questa restrizione.  BIANCHI.
+-- L'influenza non toglie la libert@a.  Inoltre ella @e parte di
+grazia, e i meriti umani onorano Dio e la creazione.  FRATICELLI.
+-- Var.  ^S'elli intende~, parecchi de' m. s., (M.).  Fer.
+BENV.; -- ^S'el intende~, (F.).  (N.); -- ^Se intende~, (I.); --
+^da queste ruote~, l'11; -- ^a queste rote~, (F.).  (N.); --
+^rote~ e ^ruote~, variamente; -- ^a biasmo~, il 3; -- ^L'amor
+dell'influenza e biasmo~, l'8; -- ^infruentia~, l'11: -- ^al
+blasmo~, il 36; -- ^L'onor della sentenza~, il 40; -- ^e il
+biasmo~, molti, Fer. W.; -- ^della 'nfluenza~, le pr. quattro
+edd.; -- ^il suo arco~, 4. 8; -- ^su' arco~, il 24, (F.).  (I.).
+(N.); -- ^percote~, molti e W.; -- ^percuote~, le prime quattro
+edizioni.
+
+	|61-63.  Questo principio~ ecc.  Questa opinione male
+intesa trasse dalla via della verit@a e indusse nell'errore tutte
+le genti pagane, sicch@e trascorse a credere che i diversi
+pianeti fossero l'eterno soggiorno di Giove, di Mercurio, di
+Marte.  BENV.  -- ^Questo principio~, questa massima platonica;
+-- ^torse~, disvi@o dal retto; -- ^Gi@a tutto il mondo~ QUASI,
+quasi tutti i popoli, volgendoli alla idolatr$ia, intese il
+Venturi con gli antichi Spositori.  -- Il Lombardi invece
+dichiar@o: consistere l'errore degli antichi nel credere i
+pianeti tante diverse sedi d'anime beate.  -- L'arguto Perazzini,
+considerato che ^nullum crimen est Jovem, Mercurium, Martemque~
+nominare, sospett@o che si dovesse leggere invece ^numinar~,
+cio@e, ^far numi, adorare come Dii.~  Mi piacque fuor modo, e fui
+l@i l@i per accettarlo nella Padovana del 1822, considerato che
+il coniatore di ^osannare, intuare, illujare, immiare, indiare~,
+poteva pure avere coniato ^numinare~, che in sostanza non @e che
+un sinonimo di ^indiare~.  -- La lezione piacque al Costa, e meno
+scrupoloso di me, la ripose nel testo, e fu seguitato dal Fer.
+nella Ravennate 1848, poi nella Pad. 1859.  Io l'andai sempre
+cercando ne' mss.  In quattro trovai ^numerar~, ed ecco un passo
+gi@a fatto verso la vera lezione.  Nel Parigino n+o~ 25 de' miei
+spogli trovai ^nominar~, con un punto sotto l'^o~, ed un ^u~ in
+margine, locch@e significa che altri testi leggevano ^numinar~; e
+finalmente in altro Parigino, segnato n+o~ 8, trovai ^nominar~
+nel testo, ma nel margine notato da altra mano: al. ^numinar.~
+Ci@o posto, io mi credo autorizzato a bastanza a restituire
+^numinar~ al testo, che ci offre pi@u acconcio concetto.
+Sospettai sempre che il Perazzini appostasse tal lettera ne' mss.
+canonici, che poi passarono in Oxford; ma checch@e ne fosse, si
+pu@o ben ritenere il ^nominar~ errore, antico quanto il Poema,
+d'un amanuense che non intese la forza del nuovo vocabolo.  -- Il
+Bianchi consente che il verbo ^numinare~ darebbe ^bellissimo
+senso~, e che sarebbe dello stesso conio che l'^incielare~,
+l'^indiare~, l'^insuarsi~ ecc.; ma sentenzi@o ^soverchio
+l'ardire~ d'indurre una nuova lezione, contro l'autorit@a di
+tutti i testi, e senza un assoluto bisogno, giacch@e anche il
+^nominare~ pu@o nell'insieme della frase rendere il concetto
+stesso del ^numinare.~  -- Ma ^nominare~ in tal senso non vidi
+mai negli scrittori approvati, n@e fu accennato dai
+Vocabolaristi; ma non @e pi@u vero che ^numinare~ manchi di
+autorit@a.  Se io l'ho trovato qual correzione in due Parigini,
+significa che fu preso da altri testi.  D@a concetto pi@u nobile,
+e ^numinare~ @e voce che merita d'essere ricevuta nel
+Vocabolario.  Il Bianchi adunque fu troppo scrupoloso, non
+mancando le autorit@a in favore del ^numinare.~  Il Fraticelli
+salt@o il fosso, e seguit@o la vulgata, e tanto fece lo Scarab.
+ponendo innanzi l'autorit@a de' testi, e la chiosa del Lana.  --
+Var.  ^Mal inteso corse~, il 7, il suo Com.: ^in errorem magnum;
+-- s@i che Jove~, quattro Rosc.; -- ^s@i che dove~, il 31; -- ^il
+mondo~, i pi@u, Fer. W. (M.); -- '^l mondo~, (F.).  (I.).  (N.).
+Cr. ecc.; -- ^transcorse~, tre; -- ^a numerar~, quattro; -- ^a
+numinar~, correzione di due Parigini, Perazzini, Costa, Fer.,
+Pad.  1859; -- ^stracorse~, Bart., il Viv. la dice metatesi di
+^trascorse~, e lamenta che la Crusca non abbia registrato
+^stracorrere~, dal lat ^excurrere.~  Il difetto non @e grande; il
+^stracorse~ non @e una gemma.
+
+	|64-66.  L'altra~ ecc.  L'altro dubbio che ti agita non
+@e tanto maligno, e non potrebbe allontanarti del tutto dalla
+divina scienza.  BENV.  -- ^L'altra dubitazion~, detta nel v. 19
+e segg.: ^se il buon voler dura~ ecc.; -- ^ti commove~, ti agita.
+-- ^Ha men velen~, @e di men nociva conseguenza; -- ^sua
+malizia~, sua pecca.  -- ^Non ti por$ia~ ecc., non ti potrebbe
+allontanare ^da me~, dalla dottrina teologica.  -- ^Non posset
+removere te a me, et facere te errare in fide~, il Postill. del
+Caet.; -- ^che ti commove~, che ti tiene inquieto, @e di pi@u
+facile soluzione, bastando a ci@o la sola forza dell'umano
+ragionamento.  -- Var.  ^Che ti commove~, quasi tutti i m. s.
+(F.).  (M.).  (N.).  Fer. W. Benv., ant. Est., ed il Parenti
+l'avvis@o originale e pi@u poetica che il ^commuove~ della Cr., e
+lament@o che gli Accademici, che registrarono ^muovere~ e
+^movere~, intralasciassero poi ^commovere~ (^Ann. Diz.~); --
+^venen~, sei; -- ^men voler~, il 21; -- ^veleno, s@i che sua~, il
+24; -- ^voler~, il 25, ma fu mutato in ^velen; -- sua milizia~,
+il 9; -- ^per@o che~, molti, le prime quattro edd., Fer.; -- ^Non
+ti porria~, sette, Fer., anfibologica e non buona; -- ^da me
+men@ar~, il 21; -- ^Non potrie menarte~, il 43; -- ^por$ia~, il
+W. Rosc. Stiasi con la Cr.; -- ^venemo~, Rosc., erronea.
+
+	|67-69.  Parere~ ecc.  Parere ingiusta la divina
+giustizia al corto intendimento umano, @e argomento di Fede
+cristiana e non di eres$ia di domma, giudicando di ci@o che gli
+sembra ingiusto, senza alcun rapporto alla Fede.  BENV.  --
+^Nostra giustizia~, dice ^nostra~, invece di ^divina~, per
+l'unione e comunione che hanno tutti gli eletti con Dio anche nel
+giudicare.  Cos@i tutti i sacri Interpreti spiegano quel del
+Vangelo detto da G. C. a' suoi discepoli: ^Sedebitis et vos
+judicantes~ (MATTH. 19).  -- ^Parere ingiusta~ ecc.  Riuscirei
+troppo lungo e sazievole col toccare tutte le sposizioni date di
+questi versi dagli versi dagli antichi e dai moderni Spositori;
+ed i pi@u curiosi potranno vederne la maggior parte per me
+epilogate nella Pad. del 1822.  Mons. Cavedoni fu di parere che
+qui Dante forse alludesse alle parole dell'Apostolo (^ad Rom~.
+IX, 14): ^Numquid iniquitas apud Deum?  absit~ (l. c.).  --
+Sarebbe eres$ia, dico io, il credere che Dio possa essere
+ingiusto; egli tutto vede nell'abisso del suo consiglio, e le sue
+disposizioni trascendono il veder nostro ^pi@u corto d'una
+spanna~; e il crederle giuste, sebbene ripugnanti alla nostra
+maniera di giudicare, @e atto di umilt@a che onora la Fede
+cristiana.  -- Il merito della Fede, dice il Bianchi, cresce in
+ragione inversa della credibilit@a; e nelle cose dimostrabili ed
+intelligibili non ci ha luogo la ^Fede~ come virt@u teologica.
+-- Il fedel cristiano non arrivando a comprendere come Iddio
+rimeriti meno chi a lui sembra meritare di pi@u, si rivolge agli
+abissi della sapienza e misericordia di Dio, e si rimette alli
+suoi giudizj; onde la fede di lui nella giustizia divina tanto
+pi@u cresce, quanto meno la intende.  FRATICELLI.  -- Var.
+^Parere in vista~, tre; -- ^ingiusto~, il 9; -- ^Parer l@a
+ingiusta~, il 22; -- ^Pare ingiusta~, il 43; -- ^justitia~, (F.);
+-- ^justicia~, (N.); -- ^dei mortali~, parecchi, Fer. W.; --
+^Nelli occhi~, il 53, (F.).  (N.).  Fer.; -- ^Ne li~, molti; --
+^Agli occhi~, Benv.; -- ^di mortali~, il 53; -- ^argumento~,
+parecchi, Fer.; -- ^Di Fe~', il 21; -- ^di retica~, il 24; -- ^di
+chiericia nequizia~, il 36; -- ^heretica nequitia~, (F.).  (I.).
+(N.).
+
+	|70-72.  Ma perch@e~ ecc.  Ma io ti chiarir@o anche sopra
+questo dubbio, come tu brami, sendoch@e l'umano intelletto possa
+benissimo intendere questa verit@a.  BENV.  -- Trattandosi qui di
+una verit@a a cui pu@o giungere l'umano intendimento, appagher@o
+il tuo desiderio, e ti far@o toccare con mano che la nostra
+giustizia non @e ingiusta in quelle smonacate femmine.  LOMB.  --
+Nel caso presente non c'@e mistero, giungendovi l'umano
+intendimento, e ti appagher@o di leggieri siccome brami.
+Intendi, dal v. 67 al v. 72.  L'ingiustizia apparente dei giudizj
+divini @e argomento a pi@u credere, non gi@a a dubitare.  Ma qui
+la ragione pu@o arrivare; per@o te lo spiego.  S. Gregorio: <Ivi
+la fede non ha merito, dove l'umana ragione ne porge
+l'esperimento>.  FRAT.  -- Var.  ^Ma perch@e pu@o vostro
+conoscimento~, il 3, copia d'un sincrono.  Forse Dante cos@i
+scrisse in prima lettera, poi immut@o; -- ^nostro~, tre; -- ^non
+pu@o~, l'8 ed alcuni altri; -- ^argomento~, 11. 21 (con in m. la
+vulg.); -- ^a vostra veritate~, il 9; -- ^Como desiro~, il 3; --
+^disiri io ti far@o~, tre; -- ^Come dis$ii~, il 31; -- ^desiri~,
+i pi@u, Fer. Benvenuto.
+
+	|73-75.  Se v,iolenza~ ecc.  Secondo Aristotile chiamasi
+^volontario~ quell'atto il cui principio @e nello stesso
+operante: e ^involontario~, quello, il cui principio @e fuori
+dell'operante; lo che avviene in due modi: o per violenza, o per
+ignoranza; nella violenza il paziente nulla attribuisce alla
+volont@a, come accadde a Piccarda.  La ignoranza vincibile @e
+quella in cui @e principio volontario; ed @e segu$ita da
+pentimento e da tristezza; l'ubbriaco merita quindi, secondo
+Aristotile, una doppia pena; la ignoranza invincibile,
+all'opposto, @e quella in cui manca ogni principio volontario, ed
+@e totalmente scusante.  Fin qui Benv. che passa poi a dichiarare
+il testo: ^Se quel che soffre non ha alcuna imputabilit@a,
+Piccarda e Costanza, mancando al voto, non furono scusate dalla
+patita violenza, sendoch@e nella rottura del voto ebbero un
+principio volontario.  -- Pate~, per ^patisce, soffre~, lo
+adopera Dante anche fuori di rima.  ^Par.~ XX, 31.  -- ^Non fur~
+ecc.  Non furono queste anime veramente violentate, e per ci@o
+non totalmente degne di scusa.  LOMB.  -- ^Niente conferisce~,
+cio@e, niente coopera, n@e aderisce, anzi ripugna con tutto il
+suo possibile sforzo, e resiste a chi tenta farle violenza.
+VENTURI.  -- Lo sforzato non dee punto contribuire con la sua
+volont@a; queste contribuirono, perch@e, potendo, non tornarono
+al chiostro.  FRAT.  -- Var.  ^Quando a quel che pate~, (F.).
+(N.); -- ^et quando~, (I.).  err.; -- ^Niente~, dodici almeno de'
+m. s., Fer. W. Scarab.  Benv. Rosc.; -- ^Neente~, le pr. quattro
+edd., Bart. Cr. ecc.; -- ^isforza~, W.; -- ^Mente~, il 53; --
+^iscusate; -- excusate~, cinque, (F.).  (I.).  (N.).  (V.); --
+^Non foran~, il 20; -- ^Non for~, 21.  40; -- ^Non fuor~, il 24;
+-- ^N@e fur~, (F.).  (N.); -- ^per esso~, M. a. Bernard.; -- ^per
+epsa~, (I.); -- ^escusate~, parecchi, Ferranti.
+
+	|76-78.  Ch@e volont@a~, ecc.  Sendoch@e se la volont@a
+si mantiene tenace nel suo proposito, niuno la pu@o vincere; ma
+fa come il foco, che per sua natura sempre tende all'ins@u, per
+quanti sforzi si facciano dal vento o da altra cagione per
+piegarlo e deprimerlo.  BENV.  -- ^Non s'ammorza~, non cessa, non
+s'acquieta, traslativamente dal cessare che fa il fuoco
+ammorzandosi.  -- ^Ma fa~ ecc., la costante volont@a contro la
+violenza, fa come nella fiamma l'$ignea natura, che se mille
+volte estrinseca violenza la pieghi in gi@u, mille volte la
+raddrizza; -- ^torza~, antitesi per ^torca~, forse dal veneto
+dialetto.  LOMB.  -- @E quasi assioma che ^voluntas non potest
+cogi.~  VENTURI.  -- Una ferma volont@a, se non vuole, non vien
+meno, essendo solo il corpo, e non l'animo, capace di violenza.
+BIANCHI e FRATICELLI.  -- Var.  ^Non si ammorza~, parecchi e W.;
+-- ^natura fece il foco~, il 40; -- ^in foco~, le prime quattro
+edd., Cr. W.; -- ^Se mille fiate~, il 52.
+
+	|79-81.  Per che, s'ella~ ecc.  Il perch@e se la volont@a
+si piega molto o poco, per forza o per paura, con l'acconsentire
+si lascia trascinare dalla violenza; e cos@i fecero queste due
+monache, mentre potevano tornare al chiostro.  BENV.  -- ^Per
+che~, il perch@e.  LOMB.  -- ^Per la qual cosa.~  TORELLI.  --
+^Segue la forza~, essa volont@a asseconda in tal caso la
+violenza.  LOMB.  -- ^Potendo ritornare~ ecc.  E in che modo lo
+avrebbero potuto?  Usando voglia assoluta contro la violenza
+fatta loro.  V. la Nota per me aggiunta sotto il v. 108 del
+passato Canto.  -- Var.  ^Per@o s'ella~, il 3; -- ^s'elli~, tre;
+-- ^se spiega~, il 14; -- ^s'ella sp,ieghi~, il 21; -- ^o assai o
+poco~, il 43; -- ^Per che~, il 21, (M.).  (I.); -- ^cos@i questo
+e' fero~, tre; -- ^cos@i queste fiero~, il 29; -- ^e questo cos@i
+e' fero~, il 35; -- ^Possendo~, pi@u di quaranta de' m. s., prime
+sei edd., Marc. (51), W. Bart. Benv., e l'accetto, avvisandola
+originale; -- ^refugir~, ventiquattro; -- ^rifuggire~, il 43; --
+^rifuggir~, Benv. Fl. cod. Fil. Vill. Bart., ant. Triv., Marc.
+(52), quattro de' m. s., Pad. 1859, e parve al Viv. che meglio
+convenga al contesto che il ^ritornar~ della Cr.  -- ^Possendosi
+fuggire~, il testo del Lana; -- ^Possendo rifuggire~, il
+Cortonese; -- ^Possendo rifuggirne~, Bart. Triv. Marc. Rosc.,
+nove citati dagli Accad. Lo Scarabelli nota: <Fors'era in prima
+penna di Dante ^rifuggire~, per ^rifuggiarsi di nuovo~, e poi
+tramutato nel pi@u vero ^ritornare~>; poi legge con la Vindellina
+^Posendo ritornare al.~  -- Sospetto questo ^posendo~ errore di
+stampa.  -- ^Ritornare~, le prime sei edizioni, un Marc.  W.; --
+^al santo~, diecisette; -- ^nel santo~, gli altri, Pad. 1859,
+Fer.  -- In tanta discrepanza penso attenermi alla lezione de'
+mss.  pi@u antichi e pi@u autorevoli: ^Possendo refugir nel santo
+loco~, da ^refugio~; e se non garba, stiasi con la vulgata.
+
+	|82-84.  Se fosse stato~ ecc.  Se il volere di Piccarda e
+di Costanza fosse stato assoluto, saldo al pari di quello che
+tenne Lorenzo in su la graticola, e che condusse Muzio Scevola a
+punire sugli ardenti carboni la propria mano del proprio errore.
+San Lorenzo nacque nelle Spagne al tempo di Decio imperatore.
+Esso, dopo avere sofferti i pi@u barbari tormenti, posto da
+ultimo sulla graticola con sottoposto fuoco, si lasci@o
+abbrustolare, rendendo lodi e grazie a Dio.  Scrive T. Livio che
+Porsenna, re degli Etruschi, assediata Roma per rimettervi
+Tarquinio superbo, Muzio Scevola, nobile giovine romano, mal
+sofferendo i disastri della patria, furtivamente s'introdusse
+nella tenda reale, e credendo di uccidere con pugnale il re, ne
+uccise il cancelliere.  Preso e disarmato, alla presenza di
+Porsenna pronunci@o queste memorabili parole: <Sono Muzio
+cittadino romano; nemico venni per trucidare un nemico; sono
+pronto al morire, sendo de'soli Romani l'operare ed il patire da
+forti; molt'altri giovani sono parati a tentare il colpo che a me
+fall@i>.  -- Il re invelenito ordin@o che fosse recato un
+bragiere ardente per tormentarlo ed astringerlo a denunciare i
+suoi complici; e Muzio dicendo: <Il corpo @e oggetto spregevole
+per chi aspira alla gloria>, gittata la destra sul fuoco ardente,
+imperterrito la tenne in esso ferma, quasi non sentisse dolore.
+Porsenna meravigliato di un tanto eroismo, ed impaurito dal
+giuramento di ucciderlo fatto da trecento giovani romani, lev@o
+l'assedio e fece pace con Roma.  Fin qui Benvenuto.  -- ^Come~,
+intendi, ^esso costante volere tenne Lorenzo; -- grada~, lo
+stesso che ^grata, graticola; -- E fece Muzio~ ecc., e rese Muzio
+inesorabilmente severo a punire col fuoco la propria destra.
+LOMB.  -- Var.  ^Stato lor volere~, undici, Fer. W. Benv.; --
+^lor vedere~, il 9; -- ^in lor volere~, il 12, Pad. 1859; -- ^a
+lor volere~, il 28; -- ^su la grada~, il 7; -- ^Laurenzo~, 8. 11;
+-- ^in su la~, i pi@u, le pr. quattro edd., Cr.; -- ^in sulla~,
+W.; -- ^Muzio~ (al. ^Decio~), il 43; -- ^a la sua man~, parecchi,
+Fer. Benv.; -- ^stato lor solere~, Roscoe.
+
+	|85-87.  Cos@i l'avr$ia~ ecc.  Cos@i le avrebbe
+ricondotte alla vita religiosa dalla quale erano state tratte con
+violenza, cessata che fu la forza; ma questo eroismo s'incontra
+rare volte, e precipuamente nelle femmine.  BENV.  -- ^Cos@i~
+risponde al ^come tenne; -- ripinte~, da ^rip$ignere~, lo stesso
+che ^respignere; -- Onde~, per la quale, V. Cinon.; -- ^come~,
+per ^quando, subito che; -- furo sciolte~, intendi, dalla
+violenza loro fatta.  LOMB.  -- Var.  ^L'avr$ie dipinte~, il 31;
+-- ^repinte~, il 36; -- ^le avr$ia~, (F.).  (N.).  Fer. W. Benv.;
+-- ^Cos@i havr$ia ripente~, (I.); -- ^como furon~, il 5; --
+^fuoro~, tre, (F.).  (I.).  (N.); -- ^furon~, 5. 12; -- ^quando
+furon~, il 26; -- ^come foro; -- tracte~, (I.); -- ^@e molto
+rada; -- @e troppa rada~, (I.), err.; -- ^fuoron sciolte~,
+Roscoe.
+
+	|88-90.  E per queste~ ecc.  Se hai ben considerato
+quanto t'ho detto, il tuo dubbio sar@a cessato, il quale avrebbe
+potuto implicarti in altri dubbj in simiglianti occasioni.  BENV.
+-- ^Ricolte~, ricevute, per ^intese; -- l'argomento~,
+l'obbiezione che facevi contro la divina giustizia; -- ^casso~,
+cassato, distrutto; -- ^Che t'avr$ia~ ecc., che avrebbe
+continuato a darti noja in prima vita.  LOMB.  -- Var.  ^E queste
+parolette se~, il 15; -- ^raccolte~, 8. 37; -- ^son ricolte~, il
+43 (in m. al. ^se ricolte~); -- ^s@i ricolte~, (I.); -- ^hai,
+l'argomento~, il 3; -- ^L'hai come devi~, W.; -- ^come d@ei~, i
+pi@u, le prime quattro edizioni, Cr.; -- ^Che avrieti~, il 43; --
+^facta noja~, il 30; -- ^facto noja~, (I.).
+
+	|91-93.  Ma or~ ecc.  Ma ora ti sorge in mente un altro
+dubbio, e di tanto malagevole soluzione che da te stesso nol
+potresti risolvere.  BENV.  -- ^Un altro passo -- Dinanzi agli
+occhi~, un'altra difficolt@a nell'intelletto; -- ^pria saresti~,
+dinanzi al ^pria~ vuolsi sottintendere ^che~, al senso di
+^perocch@e.~  V. Cinon., intorno la particella ^che~, spesso a
+bello studio taciuta dagli scrittori.  LOMB.  -- Var.  ^Un altro
+sasso~, il 17; -- ^un alto passo~, il 32; -- ^ti si~, W.; -- ^ti
+si traversa~, (M.); -- ^Dinanzi agli occhi s@i~, il 20; -- ^alli
+occhi~, (F.).  (N.); -- ^a li occhi~, parecchi, Fer.; -- ^Non
+usciresti~, dodici, Benv. Scarab., (M.).  (I.).  (N.).  (V.).
+Pad.  1859, W.; -- ^Non usciresti~, Rosc.; -- ^che non fussi~,
+l'8; -- ^Non n'usciresti~, (F.).  Cr. Viv.; -- ^Non ne
+usciresti~, Ferranti.
+
+	|94-96.  Io t'ho~ ecc.  Piccarda nel Canto precedente
+aveva detto che Costanza conserv@o sempre la sua buona volont@a,
+ed all'incontro Beatrice asser@i poco sopra, che n@e l'una n@e
+l'altra la conserv@o intera.  E Piccarda beata non poteva
+mentire, come Beatrice, ossia la teolog$ia, non pu@o dire il
+falso.  ^Io t'ho~ ecc.  Io ti ho provato in guisa che ne devi
+essere certo, che anima beata non pu@o mentire, per essere sempre
+vicina ^al primo vero~, a Dio.  BENV.  -- Accenna Beatrice ci@o
+che nel Canto prec. disse a Dante: v. 31 e segg.: ^Parla con
+esse~ ecc.  Cos@i il Torelli ed il Lomb.  -- Var.  ^Ne la mente~,
+i pi@u antichi, Benv. Fer.; -- ^non potr$ie~, il 43; -- ^non pu@o
+mai~, Pad. 1859; -- ^porr$ia~, Fer., non buona, sendo desinenza
+di ^porre~, non di ^potere; -- ha appresso~, il 3; -- ^ha il
+primo~, sei, Benv.; -- ^vero @e appresso~, 7. 42; -- ^Per@o che
+sempre~, (M.).  Fer.; -- ^Per@o ch' @e sempre~, sei, (F.).  (I.).
+(N.).  W. Nid.  Rosc.; -- ^appresso~, i pi@u, (F.).  (I.).  (N.).
+W.; -- ^presso~, tre; -- ^ha presso~, tre; -- ^@e presso~, (M.).
+Scar. con molte autorit@a.
+
+	|97-99.  E poi potesti~ ecc.  E poi potesti udire da
+Piccarda che Costanza, forzata a divenire sposa di Arrigo,
+sebbene perdesse corporalmente la virginit@a, nondimeno serb@o in
+cuore il voto, con l'affetto della vita monastica; sicch@e il suo
+dire pare in contraddizione col mio.  La volont@a semplice @e
+assoluta, e quella ^secundum quid~ @e relativa.  Le opere,
+sebbene assolute e volontarie, non pertanto sono anche ^secundum
+quid~, e per esse possiamo meritare o lode o biasimo.  Non merita
+lode chi opera il bene per timore della pena, ma @e lodevole per
+la speranza del bene futuro.  BENV.  -- ^E poi potesti~ ecc., e
+dopo cotal mia insinuazione ti fu concesso di udire da Piccarda,
+che Costanza, violentemente svelata, ritenne l'affetto del velo
+monastico (V. Canto prec. v. 115 e segg.).  -- ^Ella~, Piccarda
+-- ^par qui meco contraddire~, avendo io detto che queste due
+smonacate femmine secondarono la violenza loro usata (v. 79 e
+segg.); -- ^da Piccarda udire.~  Havvi ellissi d'un altro verbo,
+come ^dire, narrare.~  Istessamente in quest'altro costrutto
+dell'^Inf.~ XXXI: ^Cos@i od'io che soleva la lancia.~  PARENTI.
+(^Ann. Diz.~) -- Var.  ^E poi porresti~, (I.).  err.; --
+^Constanza~, tre, W.; -- ^Costanza~, otto, (I.); -- altri e
+Benv., ^Costanzia; -- Gostanza~, (F.).  (M.).  (N.).  Cr.  Lomb.
+e tutti gli editori moderni, e meraviglio ch'essi non abbiano
+espunto dal testo un s@i brutto idiotismo, contraddetto dai mss.
+pi@u autorevoli, e che sv$ia la voce dalla sua origine latina; --
+^affezion del ver~, il 20: -- ^del ciel~, il 21; -- ^Che
+l'effetto del vel~, il 38; -- ^affection~, le prime quattro edd.;
+-- ^con meco contradire~, il 34; -- ^contradire~, tutti i m. s.,
+le pr. edd., W., e cos@i scrissero gli antichi.
+
+	|100-102.  Molte f,iate~ ecc.  Molte volte veggiamo farsi
+frate, per cessare un pericolo od una pena, taluno che non era
+inclinato ad una tale professione.  Cos@i Benvenuto, che non
+interpret@o bene questo passo.  -- ^Grato~, vale ^grado, piacere,
+inclinazione.~  LOMB.  -- ^Molte f,iate~ ecc.  Intendi: Spesse
+volte, o fratello, avvenne che, per evitare un pericolo, si fece
+^contro a grato~, contro la propria inclinazione, con ripugnanza,
+ci@o che non sarebbe stato conveniente di fare.  Cos@i il Bianchi
+ed il Fraticelli, il quale poi aggiunge: Si potrebbe poi non
+operare; ma si opera a mal grado, per fuggire un pericolo.  --
+Var.  ^Spesse fiate~, quattordici, (F.).  (N.).  (V.).  But.,
+ventuno de' testi veduti dagli Acc.; -- ^Spesse fiade~, il 18; --
+^addivenne~, molti, W. Benv. ecc.; -- ^adivenne~, Cr.; -- ^contro
+grato~, il 7; -- ^contra grato~, ventidue de' m. s., prime sei
+edd., Fer. Benv. Scarab. Viv. Rosc., lettera difesa dal Lombardi,
+ed approvata nella E. F.; che cit@o in appoggio il verso che
+seguita, tratto dalle ^Rime antiche: A servir contra grato uomo a
+signore; -- contro a grato~, Cr. e seguaci, ed il W. contro
+l'autorit@a di tre de' suoi quattro testi; -- ^contra grato~,
+Scar. con testi autorevoli.
+
+	|103-105.  Come Almeone~, ecc.  Almeone, pregato dal
+proprio padre Anfiarao, famoso indovino, uccise la propria madre
+Erifile, che aveva tradito il proprio marito; ed Almeone per non
+perdere la piet@a paterna, si rese spietato nella madre.  BENV.
+-- V.  in proposito la Nota sotto il v. 50 del XII del ^Purg.  --
+Per non perder piet@a~, riverenza al padre.  LOMB.  -- Meglio @e
+prendere ^piet@a~ in senso ^d'amor paterno~, siccome intesero il
+Poggiali e la E. B., tanto significando talvolta ^pietas~ presso
+i Latini.  -- ^Si fe' spietato~, contro la madre; espressione
+pi@u energica di quella che al fatto medesimo adopera Ovidio:
+^Facto pius et sceleratus eodem~ (^Met.~ IX, v. 409).  -- Var.
+^Como Almeona~, il 9; -- ^che di ci@o fu pregato~, 17. 37; --
+^Almeon~, 17. 37, le pr. quattro edd.; -- ^la prima matre~, il
+21; -- ^la propia~, (F.).  (N.); -- ^si fee ispietato~, il 37.
+
+	|106-108.  A questo punto~ ecc.  Pensa adunque che la
+volont@a si mescol@o con la forza, e questa mista a quella rese
+inescusabile l'offesa.  BENV.  -- ^Pense~, per ^pensi~, antitesi
+in grazia della rima; -- ^la forza al voler si mischia~, con la
+violenza si mischia in parte il volere; -- ^offense~, per
+^offese~, peccati, usarono i nostri antichi anche in prosa.
+LOMB.  -- Var.  ^Voll'io che tu pense~, alcuni; -- ^Che la forza
+'l voler~, quattro; -- ^forz' al voler si miscia~, (I.); -- ^la
+sforza~, (N.); -- ^non se posson~, (I.).
+
+	|109-111.  Voglia~ ecc.  Un'assoluta volont@a non
+consente al male, ma vi consente, quando paventa, che non
+consentendo, incontri maggior colpa.  La volont@a anche coatta
+non cessa d'essere volont@a.  Se poi l'incusso timore sia tale da
+sgomentare anche l'uomo il piu forte, scusa nel foro civile e
+canonico, ma non presso a Dio, dovendo temersi pi@u il peccato
+che la morte.  BENV.  -- Nel mescolarsi la volont@a alla forza,
+quella non consente a questa in modo assoluto, ma relativo, in
+quanto che teme, se si ritira, di cadere in maggiore affanno.  --
+^Voglia assoluta~, cio@e, ^senza alcun rispetto~, spone col Buti
+la Cr.; ma con pi@u aperta chiosa il Parenti intese per volont@a
+^assoluta~ quella che @e considerata indipendentemente, senza
+riguardo alle altre circostanze, per opposto alla volont@a
+relativa e condizionata.  -- Var.  ^Voglia soluta~, il 34; --
+^non consente danno~, il 35; -- ^absoluta~, (F.).  (M.).  (N.).
+(V.); -- ^non consenta~, (I.); -- ^o tanto in quanto~, cinque; --
+^in tanto quanto~, diciotto, Nid., le pr. quattro edizioni, tre
+dei quattro testi del W. Fer. Benv., e l'accetto per conferire al
+verso pi@u di forza, e per le gravi autorit@a che la confortano;
+-- ^in tanto in quanto~, Cr. e seguaci, Bart. P@at.  ecc.; --
+^tanto quanto~, il 24; -- ^Ma consente ivi~, il 37; -- ^Se si
+ritr@a~, il 6 e il 9; -- ^Se si ritragge~, il 25; -- ^Se si
+trova~, il 43; -- ^ritrai~, (F.).  (N.); -- ^retrahe~, (I.).
+
+	|112-114.  Per@o, quando~ ecc.  Per@o quando Piccarda
+quello esprime, cio@e, che Costanza ritenne il velo, intende
+della voglia assoluta ^secundum quid~, ossia secondo l'incusso
+timore; ed io intendo dell'altra, cio@e della volont@a
+rispettiva, quando dissi che i voti furono in parte rotti,
+perch@e cessata la violenza, non torn@o al convento; sicch@e
+entrambe diciamo il vero.  BENV.  -- ^Quello sprieme~, esprime,
+dice quello che di Costanza dice, cio@e che in mezzo alla
+violenza fu la volont@a di lei per lo stato monacale.  -- ^Della
+voglia~ ecc.  Piccarda intende della volont@a ritenente l'affetto
+al voto; ed io intendo della volont@a amante dello schifamento
+delle minacciate pene, pi@u che l'osservanza del voto.  LOMB.  --
+Var.  ^Questi spreme~, il 6; -- ^expreme~, l'8, Viv.; -- ^quello
+espreme~, Fosc.; -- ^spreme~, i pi@u; -- altri ^sprieme; --
+sprieme~, 25. 41.  Nid. Lomb. a cui parve pi@u chiara; -- ^questo
+spreme~, il 32; -- ^espreme~, Bart.  Fer., Pad. 1859, W. Benv., e
+l'accetto; -- ^soluta~, il 34; -- ^absoluta~, parecchi, (F.).
+(M.).  (N.).  (V.) -- ^De la voglia~, (F.).  (I.).  (N.); -- ^s@i
+che' l ver~, 6. 25, Pad. 1859; -- ^Dell'altro~, il 14; --
+^inseme; -- De l'altra~, (F.).  (I.) (N.).
+
+	|115-117.  Cotal fu~ ecc.  Tale fu il parlare della santa
+Beatrice, che usc@i dalla scienza delle divine cose, dalla fonte
+della sacra teolog$ia.  che mi chiar@i i due miei dubbj.  BENV.
+-- ^Cotal~, questo che ho detto, -- ^fu l'ondeggiar~ ecc.
+Metaforicamente appella Beatrice, rappresentante la teolog$ia,
+fonte d' ogni verit@a.  Con simigliante traslazione nel I
+dell'^Inf.~, v. 79: ^Oh!  se' tu quel Virgilio e quella fonte --
+Che spande di parlar s@i largo fiume.  -- Tal~, intendi,
+^ondeggiare~, ossia modo di parlare; -- ^uno ed altro des$io~,
+tutti i miei desiderj, LOMB.  Questo @e dir troppo; e per ^uno ed
+altro~ voglionsi intendere i due dubbj dichiaratigli da Beatrice
+intorno al cielo ed al voto, siccome spiega il Frat.  -- Var.
+^Cos@i fu l'ondeggiar~, il 4; -- ^del sancto~, (I.); --
+^Ch'usc$io del~, il 9; -- ^diriva~, tre; -- ^Che usc@i, (F.).
+(I.).  (N.); -- ^Che usc$ia del~, Fer. Nid.; -- ^Che pose~, il
+32; -- ^puose uno e altro~, (M.); -- ^desio~, i pi@u.
+
+	|118-120.  O amanza~ ecc.  Dante, terminato l'argomentare
+di Beatrice, esclama: ^O amanza~ ecc. O amore di Dio, o scienza
+divina, il cui linguaggio irriga l'anima mia, l'arida mia mente,
+e scalda il mio intelletto viemaggiormente.  BENV.  -- ^Amanza~,
+voce adoperata da altri ant. buoni scrittori, e vale ^donna
+amata~, dal lat. ^amasia.~  LOMB.  -- Il Biagioli la crede
+derivata dal provenzale ^amance~, e parmi probabile; -- ^primo
+amante~, Iddio; -- ^diva~, divina, epiteto solito ad attribuirsi
+alla sacra teolog$ia, detta per ci@o anche ^divinit@a; --
+appresso~, in seguito; -- ^il cui parlar~ ecc.  Applica al
+parlare di Beatrice, riguardo a se medesimo, la efficacia
+dell'acqua e del Sole ad avvivare piante ed erbe, quella
+irrigando, questo riscaldando.  LOMB.  -- Var.  ^Del primo
+amore~, il 28; -- ^parlar mi monda~, nove, Pad. 1859; -- ^il tuo
+parlar~, tre; -- ^il tu' parlar~, il 20; -- ^no' onda~, il 40; --
+^me inonda~, il 42; -- ^innonda~, e ^inonda~, ne' mss.; -- ^che
+pi@u e me' m' aviva~, l'8.
+
+	|121-123.  Non @e~ ecc.  La mia riconoscenza ed affetto
+non sono sufficienti a ringraziarti di tanta grazia ricevuta; ma
+Dio, che vede il cuore di tutti e che ha in s@e ogni potere,
+risponda per me.  BENV.  -- ^Non @e l'affezion mia~ ecc.  Pone in
+luogo di tutto se medesimo la sola ^affezione~, causa del
+ringraziare; e dicela ^non tanto profonda~, non tanto capace,
+tanto abile, che basti ecc.; -- ^a render voi~, per ^rendere a
+voi; -- grazia per grazia~, ringraziamento uguale al favore.
+LOMB.  -- Per ^affezione~ s'intenda qui ^disposizione, capacit@a
+d'animo.~  LOMB.  ^L'affezion mia~, la disposizione e capacit@a
+dell'animo mio, che @e d' un ente umano e corporeo, non angelico
+e spirituale.  -- ^Ma Quei~ ecc., ma Iddio, che tutto pu@o, tutto
+vede, ve ne dia la ricompensa.  Virg. ^Aen.~ I: ^Gratos
+persolvere dignas -- Non opus est nostrae...  D#i tibi...
+Praemia digna ferant.~  FRAT.  -- Var.  Non ^@e l'affez,ion mia~,
+^s@i profonda~, otto, (I.).  Fer., Pad. 1859; -- ^Non ee~, Benv.;
+-- ^affection~, parecchi, (M.).  (I.).  (V.); -- ^Non @e la voce
+mia~,  Bart. Flor. Ald., lettera difesa e preferita dal Viv., ma
+io la cercai sempre indarno ne' mss.; -- ^a rendervi~, 10. 41; --
+^Che vasta~, (I.); -- ^Che basti a render voi~, le prime quattro
+edizioni; -- ^Ma quel~, 21. 32; -- ^che 'l vede~, il 32; -- ^e
+pote~, (I.); -- ^e pu@o~, il 53; -- ^Che a render basti~, Bart.;
+-- ^grazia a voi~, (I.); -- ^a rendervi grazia~, Pat.  Roscoe.
+
+	|124-126.  Io veggio ben~ ecc.  Consento bene che il
+nostro intelletto non si appaga mai, se non @e illuminato dal
+sommo Vero, di l@a dal quale ^nessun vero si spazia~, in quanto
+si dice il fine di tutti gli altri veri; nulla @e buono fuor
+della causa finale.  BENV.  -- ^Il Vero~, quel vero Iddio, di
+fuor dal quale ^nessun vero si spazia~, nessuna verit@a si
+spande, si diffonde.  LOMB.  -- Var.  ^I' veggio~, (F.).  (I.).
+(N.); -- ^inlustra~, il 3; -- ^nol~, tre; -- ^non gli lustra~, il
+37; -- ^nostro intelletto~, i pi@u, le pr.  quattro edd., Fer. W.
+Benv.; -- ^se il Ver~, i pi@u, Fer. W. Benv.; -- ^no lo
+illustra~, (M.); -- ^Di fuor da quel~, 14. 15; -- ^Di qua dal
+qual~, 13. 32; -- ^del qual~, 26. 35. (I.); -- ^n,iun vero~, il
+43; -- ^dal quale niun~, Ferranti.
+
+	|127-129.  Posasi~ ecc.  L'intelletto quando conosce
+d'avere conseguito il vero, si posa sopr'esso, come la fiera dopo
+lunghe corse ne' boschi si riposa, tosto che pu@o arrivarlo; e lo
+arriva, altrimenti sarebbe vano ogni nostro desiderio.  BENV.  --
+^Lustra~, per ^tana, covile~, non dal ^lustrum~ lat. come pens@o
+il Venturi, ma da ^lustra, lustrae~, adoperata da Plauto: ^In
+lustra jacuisti~?  5.  ^ego me in lustra~?  (^Asin. act.~ 2,
+^sc.~ 3, v. 28).  LOMB.  -- ^E giunger puollo.~  Intendi: e pu@o
+giugnere a scuoprire esso vero, contro l'opinione degli Stoici, i
+quali dicevano nessuna verit@a potersi sapere dall'uomo.  E. B.
+-- ^Ciascun des$io~, vale ^des$io di ciascuno di noi; -- sarebbe
+frustra~, quest'avverbio pu@o aver riguardo all'assioma: ^Deus et
+natura nihil frustra operantur.~  LOMB.  -- Se la voce ^frustra~
+s'ha a riguardare come latina, e non gi@a come sincope di
+^frustrato~, sar@a bene far avvertire, che le voci latine, sparse
+con parca mano nella lingua nostra, danno alle sentenze cert'aria
+di peregrino che piace.  Cos@i facevano i Latini col greco.  E
+dice il Salviati: ^E non pur nella fine a nei titoli, ma per
+entro l'opera ancora, pareva lor bella cosa il mescolarvi alcuna
+volta qualche parola in grammatica~, cos@i allora dicevano il
+latino.  BIAGIOLI.  -- ^Lustra~ @e voce latina, ed @e fatta da un
+neutro plurale, non gi@a, come pens@o il Lombardi, dal fem.
+^lustra lustrae.~  BIANCHI.  -- ^E giugner puollo~, e ben pu@o
+giugnere a scuoprir esso vero, altrimenti il desiderio di
+ciascuno di noi sarebbe invano.  E ci@o non pu@o essere, poich@e
+Iddio avendo posto nell'anima umana il desiderio di sapere, ve lo
+avrebbe posto invano.  FRATICELLI.  -- Var.  ^Poscia s@i messo,
+come vole illustra~, 8; -- ^come fera illustra~, il 12, (F.).
+(N.); -- ^Passasi in esso~, il 31; -- ^in essa~, il 38; --
+^Posasi messo~, (V.); -- ^che giunta l@a~, il 28; -- ^u' giuger
+puollo~, 30. 32; -- ^gionger l@a u' gionger~, il 32; -- ^ch' @e
+giunto l@a~, il 41; -- ^Tanto che giunto l'ha, o~, il 43; -- ^e
+giugner pollo~, le prime quattro edizioni.
+
+	|130-132.  Nasce~ ecc.  Dante, per ultimo, dimostra che
+l'intelletto naturalmente va in cerca della felicit@a come ad
+ultimo fine, passando da verit@a conosciuta ad altra da
+conoscersi.  Il dubbio nasce dal dubbio sciolto, a guisa di un
+pollone di pianta tagliata, e non possiamo levarci alla verit@a
+se non di grado in grado.  -- ^Collo~, per ^colle.~ -- L'uomo ha
+per fine la felicit@a; dunque ha i mezzi per conseguirla operando
+con virt@u, meditando con sapienza.  BENV.  -- ^Per quello~, dice
+il Lomb., vale ^per ci@o, per tal motivo~; altri spiegano: ^da
+quel des$io e curiosit@a di sapere.~  Il Bianchi ed il Fraticelli
+le ammettono entrambe.  -- ^A guisa di rampollo~ ecc.  Vuol dire:
+che come appena si @e l'albero innalzato, gli nascono al pedale
+dei rampolli, cos@i, appena ci siam noi innalzati al conoscimento
+d'una verit@a, ci nasce dappiede un altro dubbio.  -- ^Ed @e
+natura~ ecc.  Ed @e questo un savio provvedimento della natura,
+per cos@i di vero in vero spingerci al sommo, che @e Dio.  LOMB.
+-- Il Torelli pens@o che s'abbia a leggere: ^A pi@e del dubbio il
+vero~ (lettera d'un Patavino), e dichiara diversamente dagli
+altri: <Nasce per quello~, cio@e, ^per lo primo Vero.  A pi@e del
+dubbio il vero~, cio@e, ^il secondo vero -- al sommo~, cio@e, ^al
+sommo vero, alla cima>.  -- ^Di collo in collo~, per ^di colle in
+colle~ spiegano detto gli antichi in grazia della rima.  Il
+Venturi obbiett@o che ^di collo~ nulla ha di che fare con la
+rima.  Il Rosa Morando lo prese in senso di ^collo umano~, fig.
+usato per ^altezza.~  Il Postill. del Cass. spiega: ^gradatim, de
+gradu in gradum.~  Ma quale che sia l'origine di questa voce,
+pare certo che Dante l'us@o in altri luoghi in senso di ^cima,
+sommit@a, altezza~, siccome fu notato dal Lomb. ^Inf.~ XXII, v.
+116: ^Lascisi il~ COLLO, ^e sia la ripa scudo~; e nel seguente
+della stessa Cantica, v. 43: ^E gi@u dal~ COLLO ^della ripa
+dura.~  -- Le cose mortali, disse il Petrarca, ^sono scala al
+Fattor.  -- Collo~, vale ^costa di monte~; qui @e usato
+figuratamente, e vale ^di grado in grado, di altezza in altezza.~
+Si accenna alle scale Platoniche, onde per via d'immagini pi@u e
+pi@u perfette si ascende al sommo bene.  BIANCHI e FRATICELLI.
+-- Var.  ^Nasce di quello~, 4. 21; -- ^d'un rampollo~, il 41; --
+^A pi@e del dubbio il vero~, l'8 e Torelli; -- ^Che a pi@e del
+vero il dubbio @e natura~, il 34; -- ^Ai pi@e~, (M.); -- ^A
+pi@e~, (F.).  (I.).  (N.).  Fer.; -- ^Ch' al sommo pinge 'l ver~,
+12, 38.  (F.).  (N.); -- ^Che al sommo~, (F.).  (I.).  (N.), e li
+pi@u; -- ^Ch' al~, (M.).  Cr.; -- ^pinge al ver~, sette veduti
+dagli Accademici.
+
+	|133-135.  Questo m'invita~, ecc.  Questo naturale
+desiderio mi sprona e mi rende sicuro, o sovrana delle scienze, a
+farvi un'altra domanda, per essere chiarito d'un' altra verit@a
+che non veggo chiaramente.  BENV.  -- ^Questo~, questo
+sospingerci che fa natura per nuovi dubbj al sommo vero,
+^m'invita~ ecc., mi d@a coraggio a richiedervi ecc.  LOMB.  --
+^Questo~, quest'ordine di natura, il Bianchi, -- ^questo
+provvedimento di natura~, il Fraticelli.  -- Var.  ^E questo
+m'assicura~, il 53; -- ^Con reverenza~, 33. 36.  (F.).  (N.); --
+^a domandarvi~, (M.); -- ^che m' @e iscura~, il 3; -- ^ch' @e
+meno oscura~, il 33; -- ^m' @e obscura~, (F.).  (I.).  (N.).
+(V.).
+
+	|136-138.  Io vuo' saper~ ecc.  Desidero sapere se l'uomo
+pu@o satisfare al voto non servato con altre opere pie, che
+bastino alla vostra giustizia.  BENV.  -- Suppone il Poeta che
+Beatrice sia uno de' giudici della corte di giustizia celeste, e
+le chiede se ai voti non adempiti si possa soddisfare con altre
+opere meritorie; -- ^parvi~, piccoli, mancanti del giusto essere,
+dichiara il Lombardi, il quale crede un tale aggiunto riferirsi
+ai ^voti manchi~, non gi@a agli ^altri beni~, come intese la
+comune degli Spositori.  Breve vuol dire: Se si ammette in cielo
+commutazione, compensazione di voto fatto a Dio od ai Santi.
+BIANCHI.  -- ^Nostra giustizia~, dice ^nostra~, perch@e gli
+eletti giudicano con Dio.  ^Matt.~ XIX, 28: ^Sederete pur voi
+giudicando.  -- Stadera.~  L'immagine di bilancia @e nella morale
+pagana e cristiana.  ^Psal.~ 51, v. 10: ^Mendaces filii hominum
+in stateris.~  FRATICELLI.  -- Var.  ^Satisfarvi~, 8. 20.  W.; --
+^Io vuo' saver~, tre; -- ^I' vo' saver~, il 20; -- ^sodisfarvi~,
+(F.).  (M.).  (N.); -- ^sadisfarvi~, (I.); -- ^Di voti manchi
+facendo~, il 3; -- ^In voti~, l'8; -- ^s@i per altri~, l'11; --
+^con altrui beni~, il 38; -- ^statera~, ventotto, le prime sei
+edizioni, Fer.  W. Bart. Benv. Rosc. e l'ho preferita; --
+^stadera~, Cr. ecc.; -- ^vostra~, i pi@u; -- ^nostra~, alcuni,
+(M.), errore facile ne' mss.  antichi; -- ^Ch' a la vostra~, i
+pi@u antichi, Ferranti.
+
+	|139-142.  Beatrice~ ecc.  Beatrice mi volse lo sguardo
+pieno di tanto amore divino, che trascendendo ogni mio potere,
+voltai il tergo, e quasi fui acciecato dal soverchio splendore,
+sebbene tenessi gli occhi bassi.  BENV.  -- Il Lombardi con la
+Nid. legge ^diede le reni~, a vece di ^diedi le reni~,
+attribuendo l'azione del verbo alla virt@u visiva di Dante.  Fu
+contraddetto da tutti gli Spositori venuti dopo, e precipuamente
+dal Biagioli, a cui parve ^sconcio quel dar corpo alla virt@u
+visiva~, e per l'opposito naturalissimo l'atto di volgere le
+spalle al subito assalto d'un abbarbagliante splendore.  Cita poi
+molto a proposito i vv. 142-144 del XXIV del ^Purg.~, ne' quali
+Dante, abbarbagliato dal folgorante lume d'un angelo, dice
+d'essere stato costretto a volgersi indietro.  -- Il Torelli
+leggendo con le antiche edizioni ^die' le reni~, vi not@o sotto:
+^die~', per ^diedi~, citato ad esempio il seguente verso del
+Petrarca: ^I' son colei che ti die' tanta guerra.  -- Diedi le
+reni~, mi voltai per ripararmi da quello; -- ^E quasi~ ecc., e
+quasi restai smarrito pur con gli occhi bassi.  BIANCHI.  --
+Cos@i anche il Fraticelli, che aggiunge ^vinta.~  Nel ^Convito~:
+<Si raggianti che vincono l'armon$ia dell'occhio>.  -- Var.
+^Cogli, con gli, con li occhi~, var.  Segue l'ultima forma coi
+pi@u antichi e con le edizioni (F.).  (N.).  Fer.; -- ^Con
+favilli~, tre; -- ^Di favilli~, il 9; -- ^Di faville~, W.; --
+^cos@i divini~, sette, (F.).  (I.).  (N.).  Caet. Glemb. Pad.
+1859, Fosc. Viv. Fer.  W.  Questo filologo non pone virgola dopo
+^amor~, e ci@o concesso, doveva leggere ^favilli~, per quanto mi
+pare.  Si consideri.  -- Lo Scarabelli legge ^flailli~, che dice
+traslato Dantesco di bellissimo effetto, e rimanda al v. 14 del
+XX di questa Cantica; ma penso che l@a il ^flailli~ significhi
+^canto~, non gi@a ^splendore~, e sono d'avviso che avrebbe fatto
+meglio con l'accettar qui la lettera ^favilli~ del Parmigiano da
+lui citato.  Sono poi di rispettoso parere che la lettera ^cos@i
+divini~, e l'altra ^diedi le reni~, sieno da preferirsi alle
+accettate da lui ^con s@i divini~ e ^diede le reni.~  La prima,
+per rendere il senso pi@u chiaro, anche in sentenza del Viviani e
+del Bianchi, e la seconda per le ragioni da me sopraccennate.  Ne
+rimetto il giudizio ai Critici italiani, considerato se sia modo
+comportabile il ^dar le reni~, riferito al senso della vista.  --
+^Mia virtute~, diciotto, le prime edizioni; -- ^diede~, quattro,
+Nid. Padovana 1859, W.; -- ^io d@ei~, l'8; -- ^die' li reni~, il
+22; -- ^diedi~, parecchi de' miei spogli, Caet. Bart. Cr.; --
+^d@ei le reni~, Benv.; -- ^die~', prevale ne'mss.; -- ^vincta~,
+(I.); -- ^mi perde~', tre, (M.); -- ^con li occhi~, i pi@u
+antichi, (F.).  (N.).  Ferranti.  -- Veggano i pi@u curiosi la
+Nota dello Scarabelli sotto il verso 140.

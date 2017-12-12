@@ -1,0 +1,214 @@
+	|Proemio.~  Canto nono dove demostra l'intramento al
+sesto cerchio de Inferno.  Et qui tracta delle tre Furie
+infernale.  Et dichiara Vergilio a Dante una questeone et rendelo
+securo dicendo se esservi stato dentro un'altra fiata.
+
+	Auctor in hoc nono capitulo duo facit.  Primo continuat
+se ad proxime precedentia; secundo et ultimo dicere incipit de
+pena sexti circuli.
+
+	|4-9.~  Modo ad primum auctor, ut utatur illo colore
+retorico, sive figura, qui dicitur eclipsis, qua et Virgilius
+sepe utitur, -- que est dum fingimus in aliqua persona turbata
+deficere loquendo sermonem ut, dum dicit ipse Virgilius in primo
+^Eneidos~, in persona Neptuni turbati contra ventos et minantis
+eis: ^Quos ego!  sed motos prestat componere fluctus~, ubi
+deficit 'affligam'.  Et alibi: ^Me me adsum!.~  Et alibi:
+^Incipit affari mediaque in voce resistit~ -- dicit quomodo idem
+Virgilius cepit dicere quod oportebat tantum ipsum vincere contra
+dictos demones suam pugnam.  Aliter talis te obtulit sibi ad tale
+iter, idest Beatrix, non loquendo ultra processit, quasi
+voluisset dicere quod remedium daret ipsa Beatrix, aliter
+deceptrix esset, secundum auctoris interpretationem.
+
+	|16-30.~  Item ut inducat auctor nos, tropologice idest
+moraliter loquendo, ad hanc moralitatem, videlicet ut cum videmus
+aliquem velle desistere ab aliquo bono opere per eum incepto
+propter aliquod dubium superveniens, quod possumus et debemus
+licite aliqua dicere et affirmare, licet non sint vera, per que
+ille reducatur ad prosequendum in dicto bono opere suo, fingit
+Virgilium sibi timenti procedere ulterius ad dicendum quomodo
+aliter missum fuit ad hunc dum Inferni ab Erictone, Thessala
+vetula vaticinatrice, que olim revocabat animas ad corpora
+mortua, ut ait Lucanus in VI+o~ quod quidem falsum erat et est.
+Nam non erant anime sed demones, qui talia corpora vivificabant.
+Nam, ut ait Augustinus in III+o De civitate Dei~, fitonissa
+illa, que apparuit et loquebatur in persona Samuelis, un legitur
+in primo ^Regum~ capitulo XXVIII+o~, non erat Samuelis anima, sed
+demon.  Nam, si quandoque apparent mortui, non sunt anime sed
+fantasmata, ut ait idem Augustinus in libro ^de agenda cura pro
+mortuis.~  Nam dicitur ^Ecclesiastes~ XLVI+o~: ^Quia dormivit/ et
+notum fecit regi finem vite sue.~  Et si dicatur quod apocrifus
+est ille liber, dicit Thomas in ^Prima Parte~ questione
+LXXXXVIII+a~ quod illa apparitio fuit procurata per demones.  Et
+ideo ait ad hoc Crisostomus ^Super Matheum~ quod frequenter
+demones simulant se esse animas mortuorum, ad confirmandum
+errorem Gentilium qui hoc credebant, ut credidit Sextus Pompei de
+anima illa, quam dicta Ericto maga et incantatrix revocavit ad
+eius corpus, ut dicit dictus Lucanus in dicto VI+o~ libro.  Et
+ideo credibile est quod Symon magus, ut ait dictus Thomas,
+illudebatur ab aliquo demone, qui simulabat se esse animam illius
+pueri, quem ipse occiderat, ut scribit Clemens in suo
+^Itinerario.~
+
+	|34-48.~  Modo revertamur et reverti faciamus auctorem ad
+continuandum se ad proxime precedentem materiam superbie
+exterioris et eius arrogantie, que in predicta II+a~ turri, ut
+iam dixi, allegorice figuratur, ad cuius nunc intelligentiam ita
+premictamus.  Manifestum est quod hec extrinseca superbia et
+arrogantia mentem hominum alterant et ad prava loquendum incitant
+et ad male operandum nos inducunt.  Unde ^Ecclesistici~ capitulo
+XI+o~ dicitur: ^Sicut eructat precordia fatuorum./(...)/ sic et
+cor superborum.~  Nam sicut stomacus ventuositate inflatus
+eructare solet, ita homo superbia inflatus ventosa verba emictit.
+Ad idem ^Proverbiorum~ XIII+o~ dicitur: ^Inter superbos semper
+iurgia sunt.~  Et in XI+o~ dicitur: ^Ubi fuerit superbia, ibi et
+contumelia.~  Et in XXII+o~: ^Arma et gladii in manu superbi.~
+Mente etiam debilitatur, superbus ita arundini comparatur.  Unde
+^Mathei~ XI+o~: ^Quid existis in desertum videre?  arundinem
+vento agitatam?.~  Et ex hoc poete fingunt tres Furias infernales
+esse sorores et filias Plutonis et Noctis, que etiam interdum
+vocantur Heumenides, quasi deficientes in bono, interdum Herine,
+quasi lites.  Quarum prima dicitur Tesiphone, idest prava
+cogitatio; secunda Megera, idest prava locutio; tertia Alecto,
+idest perpetratio prava.  Unde scribitur: ^Tres agitant mentes
+Furie, ratione carentes./  Tunc est Tesiphone cum res est pessima
+mente;/  at cum mente fera dispumat in ore Megera;/  re
+perpetrata tunc est Alecto vocata.~  Ad hoc etiam ait Ysidorus
+dicens: ^Sicut tres sunt iste Furie, sic tripliciter animos
+nostros perturbant, et cogunt non delinquere adeo ut nec fame,
+nec periculo mortis respiciamus.~  Ut contigit Amate et Turno, ut
+ait Virgilius in VII+o~, infuriatis a dicta Alecto, et Ruffino,
+ut ait Claudianus, et Atamanti, ut ait Virgilius in III+o.~
+Igitur ad propositum auctor, speculative intimando de natura
+dicte superbie exterioris, tangit de hiis Furiis ut de eius
+tribus effectibus pravis et accidentibus, fingens eas esse super
+dicta II+a~ turri circumdata serpentibus et ita se percutiens, ut
+dicit textus, seu percutientes.  Sub qua etiam forsan allegoria
+Virgilius eas dicit Eneam in Inferno vidisse etiam eodem modo,
+dicens in VI+o~: ^Stat ferrea turris ad auras,/ Tesiphoneque
+sedens, palla succincta cruenta,/ vestibulum exsompnis servat
+noctesque diesque./  Hinc exaudiri gemitus et seva sonare/
+verbera, tum stridor ferri tracteque catene./ (...)/  Gaudia
+mortiferumque adverso in limine bellum/ ferreique Heumenidum
+thalami et Discordia demens,/ vipereum crimen victis inessa
+cruentis.~  Et in VII+o~: ^Luctificam Alecto dirarum a sede
+sororum/ infernisque ciet tenebris, cui tristia bella/ ireque
+insidieque et crimina noxia cordi./  (...)/ Tot.../ seve facies,
+tot pullutat atra colubris.~
+
+	|52-57.~  Inde fingit auctor dictas Furias advocare
+Medusam ut faciat eum, visum ibi sic vivum, effici saxum,
+memorandum quod si vindicassent se de insultu Thesei, quem fecit
+dum vivus cum Hercule, secundum poetas, et Piritoo ad Inferos
+descendit et Cerberum, ianitorem Inferni, recusantem ad inductum
+Iunonis noverce Herculis eis aperire aditum, depilavit, hoc non
+viderent, scilicet iterum vivos ire per Infernum, ut ibat auctor.
+Unde Virgilius in VI+o~, in persona Caronis demonis ait: ^Nec me
+Alciden me sum letatus euntem/ accepisse lacu nec Thesea
+Piritoumque,/ (...)/ Tartareum ille manu custodem in vincla
+petivit/ ipsius a solio regis, traxitque trementem.~  Circa que
+notandum est etiam quod poete, sive hoc ystorice sive fabulose,
+narrant quod quidem Forcus, rex Yspanus ditissimus, moriens
+reliquit tres filias, quarum prima Medusa, secunda Stemninio,
+tertia Eurialis vocabatur.  Que Medusa regnum tale cultura terre,
+ultra alias eius dictas sorores, amplicavit, unde in tantam ex
+hoc ascendit superbiam ut eius terrore homines lapidei, eam
+respicientes, efficiebantur.  Modo iste auctor et dicti alii
+poete, hoc ad allegoriam trahendo, ponunt dictas tres sorores pro
+tribus terroribus, qui a potentibus superbis dominantibus illati
+quodammodo subditos insensibiles ut lapides reddunt.  Unde
+Salomon ^Proverbiis~ XVIIII+o~ inquit: ^Sicut rugitus leonis, ita
+terror regis.~  Et Psalmista: ^Dum superbit impius, incenditur
+pauper.~  Est enim primus terror qui mentem debilitat et hic pro
+Stemnio predicta accipitur.  Secundus mentem spargit et pro hoc
+Eurialis. Tertius caligat et ecce Medusa, que Gorgon ipsa medusa
+etiam quelibet dictarum sororum dicebatur.  De quibus sic ait
+Lucanus in VIIII+o~: ^Hoc monstrum timuit genitor numenque
+secundum/ Forcus aquis Cetoque parens ipseque sorores/ Gorgonos~
+etc.  Dicitur enim Gorgon a ^ge~, quod est terra, et ^corge~,
+cultura.  Unde dicitur: ^Est Gorgon cultrix terre tale omneque
+nomen,/ ex tribus hiis magis ere Medusa nitet./  Conformes lapidi
+facit esse Medusa timore,/ dum rutilare coma queque rigere
+facit.~  Et, ut ait Lucanus in dicto libro dicens: ^Heumenidum
+crines solos movere furores~, dicit auctor modo hic quomodo dicte
+Furie advocant, idest inducunt, hos terrores.
+
+	|61-90.~  Inde fingit auctor quendam ut nuntium Dei
+venisse et aperuisse dictam portam Ditis, ut dicit textus,
+scilicet Mercurium.  Et, ut veniamus ad allegoriam velatam
+versibus extraneis, ut dicit hic auctor, ita procedamus, finito
+tractatu VII+em~ vitiorum, idest VII mortalium peccatorum
+comprehensorum sub incontinentia, quorum naturam et pravitatem
+mediante Virgilio, idest ratione humana, auctor huiusque
+actingere potuit speculando, ut superius vidimus.  Veniens itaque
+modo ad tractandum de statu malitiosorum et fraudulentorum
+figurato sub ista civitate Ditis, fingit se non posse ingredi,
+idest intimare, illum solum cum Virgilio, idest solum cum
+ratione, sed opus est aminiculo Mercurii, idest virtute prudentie
+et astute scientie et eloquentie.  Nam dator Mercurius est
+prudentie scientie et eloquentie et intellectus ut nuntius quasi
+Dei, a quo principaliter talia procedunt.  Unde Augustinus in
+libro ^De civitate Dei~ dicit Mercurium portitorem sermonis Dei.
+Nam dicitur Mercurius quasi sermo medius currens.  Et quia est
+planeta promiscuus, idest cum benevolis stellis et signis
+fortunatus et cum malivolis infortunatus, vult etiam auctor hic
+includere quod virtuosus homo vere naturam malitie et fraudis non
+potest intellectualiter ingredi, nisi ei hoc apparet Mercurius in
+ea parte, que interpretatur cura mercium, in quibus negotiandis
+vehementer malitia et fraus exercetur.  Unde Psalmista: ^Quia non
+cognovi negotiationes,/ introibo in potentiam Domini.~  Et
+Iohannes in XIII+o Apocalypsis~ inquit: ^Neminem posse emere
+vel vendere, nisi habeat vel habentem carapterem aut nomen
+bestie.~  Que pro dyabolo, ut dicit ibi Glosa, accipitur, cuius
+carapter et ymago est falsitas et fraus.  Ad hoc etiam potest
+reduci id quod ait Fulgentius, allegorizando Ovidium dicentem in
+primo quomodo Mercurius, missus a Iove, liberavit Io ab Argo,
+centum oculos habente.  Nam dicit quod ipse Argus pro hoc seculo
+debet accipi, eius dicti centum oculi pro multiplicibus eius
+illecebris; qui mundus ita hominem quem caput, custodit ut Deum
+cognoscere non valeat, ut dicta Io Iovem, nisi facundia
+mercurialis et prudentia ipsius mundi concupiscentias mortificet,
+ut modo hic auctor fingit ipsum mortificasse et confundisse hos
+demones, qui pro dictis concupiscentie et malitie motibus
+ponuntur, et aperuisse dictam civitatem Ditis sua virga, que
+dicitur caduceum, idest sua prudenti astutia et fradue, qua
+mediante auctor ingressus fuit noticiam malitie et fraude
+mundane, que pro ista civitate accipiuntur.  Sub hoc eodem
+integumento allegorico Statius, forsan fingendo dictum Mercurium
+micti a Iove ad Inferos ad umbram Lay, ita de eo, incipiens
+secundum librum ^Thebaidos~, ait: ^Interea gelidis Maia satus
+aliger undis/ iussa gerens remeat magni Iovis; undique pigre/ ire
+vetat urbes et turbidus implicat aer,/ nec zephiri tenuere seu
+rapuere gradum, sed feda silentis/ aura poli. Stix inde novem
+circumflua campis,/ hinc obiecta vias torrentum incendia
+claudunt./  (...)/ Id tamen et medica firmat vestigia virga.~
+Quibus verbis auctor ad lictorem hic alludere expresse videtur.
+
+	|110-123.~  Inde auctor, ingressus dictam civitatem
+Ditis, fingit ibi se vidisse numerositatem sepulcrorum quasi
+comparative ut est illa numerositas arcarum lapideum que
+consistit pene civitatem Aralatensem, iuxta Rodanum flumen in
+Provintia, non multum longe a mari, et ut est illa numerositas
+arcarum etiam talium que consistit iuxta civitatem Pole in
+Istria, prope illud brachium maris quod dicitur Guarnarium, ita
+dictum quia XL miliaribus protenditur intra terram et est unum de
+confinibus Ytalie.  In quibus arcis fingit auctor esse
+heresiarchas cum suis hereticis complicibus cuiuslibet septe.
+Dicitur enim heresiarcha quilibet qui falsa oppinionem invenit in
+fide, ut fuit Epycurus, Arius, Sabellius et Macedo et multi alii.
+Pro hiis sepulcris allegorice auctor accipit hic diversas et
+pravas oppiniones talium in quibus in hoc mundo, velut in
+sepulcris, clauduntur dicti heretici et retinentur cum suis
+callidis fallaciis, que pro huiusmodi flammis circumdantibus has
+arcas etiam allegorice ponuntur.  Ad quod ait Psalmista dicens:
+^In eo paravit vasa mortis;/ et sagittas suas ardentibus
+effecit~; ubi ait Glosa: ^Vasa mortis sunt heretici, qui
+sepeliunt animas suas.~ Unde etiam alibi ait idem Psalmista ad
+hoc respiciens: ^Nunquid narrabit aliquis in sepulcro
+misericordiam tuam.~  Et in ^Decretis~ ita scribitur: ^Scisma et
+ydolatria gladio punita sunt sepultis auctoribus vivis.~  Ad hoc
+etiam facit quod ait Augustinus ^Super epistola Petri~ dicens:
+^Pelliceunt heretici animas instabiles variorum dogmatum erroneis
+sectis.~
+

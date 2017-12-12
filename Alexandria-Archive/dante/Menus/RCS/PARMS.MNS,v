@@ -1,0 +1,328 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    dante:1.1;
+comment  @@;
+
+
+1.1
+date     89.04.10.20.50.08;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Stock BRS version.  Contains several menu options that are superfluous or
+dangerous to ddp purposes
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@{PARMS}
+
+:COMPARE @@SELECTION
+     TO "1|10-19"
+	:PRINT ~@@HEADING_Current Settings for Searching:\n
+	(\o211\f2) Near Level [#O4]\n
+	(\o212\f2) Adjacency Level [#O5]\n
+	(\o213\f2) Expansion Question for Zero Results [#ZE]\n
+	(\o214\f2) Automatic Purging of Zero Results [#ZP]\n
+	(\o215\f2) Default Operator [#O3]\n
+	(\o216\f2) Truncation Limit [#O2]\n\n~
+	:GET @@SELECTION -
+	     ~Enter number of option to change; \o2H\f2 for Help [Done]: ~ -
+	     MATCH "11-16|H|h|"
+     TO "H|h"
+	:SET @@H1 ~11-16~
+	:SET @@SELECTION ~1~
+	:MENU ~PARMS_H~
+     TO "11"
+	:SET @@P1 ~near~
+     TO "12"
+	:SET @@P1 ~adjacency~
+     TO "11|12"
+	:PRINT ~\n~
+	:GET @@TMP -
+	     PROMPT ~Enter new @@P1 level (1-99) [No change]: ~ -
+	     MATCH "1-99|"
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	:DONE
+     TO "11"
+	:SEND ~XN,@@TMP~
+     TO "12"
+	:SEND ~XA,@@TMP~
+     TO "11-12"
+	:SHOW BEFORE "*"
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+     TO "11"
+	:PARSE #LEFTOVER EXTRACTING #O4
+     TO "12"
+	:PARSE #LEFTOVER EXTRACTING #O5
+     TO "11-12"
+	:MENU
+     TO "13"
+	:SET @@TMP ~#ZE~
+	:COMPARE @@TMP
+	     TO "Yes"
+		:SET #ZE ~No~
+	     TO "No"
+		:SET #ZE ~Yes~
+	:DONE
+     TO "14"
+	:SET @@TMP ~#ZP~
+	:COMPARE @@TMP
+	     TO "Yes"
+		:SET #ZP ~No~
+	     TO "No"
+		:SET #ZP ~Yes~
+	:DONE
+     TO "13|14"
+	:MENU
+     TO "15"
+	:PRINT ~\n~
+	:GET @@TMP PROMPT ~Enter a valid operator [No change]: ~
+	:PARSE @@TMP UPPER
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	:DONE
+	:SEND ~XO,@@TMP~
+	:SHOW BEFORE "*"
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+	:COMPARE @@TMP
+	     TO "0"
+		:PARSE #LEFTOVER EXTRACTING @@TMP
+		:PARSE #LEFTOVER EXTRACTING #O3
+		:SET @@TMP ~~
+	     TO "*"
+		:PRINT ~\nInvalid operator.\n~
+		:PAUSE
+	:DONE
+	:MENU
+     TO "16"
+	:PRINT ~\n~
+	:GET @@TMP ~Enter new truncation limit (5-100) [No change]: ~ "5-100|"
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	:DONE
+	:SEND ~XT,@@TMP~
+	:SHOW BEFORE "*"
+	:SET #O2 ~@@TMP~
+	:MENU
+
+     TO "2|20-29"
+	:SET @@TMP ~No~
+	:COMPARE #ZQ
+	     TO "*occs*"
+		:SET @@TMP ~Yes~
+	:DONE
+	:COMPARE #DBNM
+	     TO "*"
+		:SET @@M1 ~26~
+		:COMPARE @@FFMT
+		     TO "Yes"
+			:SET @@P1 -
+		~\t(\o226\f2) Select Print Time Formatting [Enabled]\n\n~
+		     TO "No"
+			:SET @@P1 -
+		~\t(\o226\f2) Select Print Time Formatting [Disabled]\n\n~
+		:DONE
+	     TO ""
+		:SET @@P1 ~~
+		:SET @@M1 ~25~
+	:DONE
+	:COMPARE #TRMTYPE
+	     TO ""
+		:SET @@P2 ~Unknown~
+	     TO "*"
+		:SET @@P2 ~#TRMTYPE~
+	:DONE
+	:PRINT ~@@HEADING_Current Settings for Displaying:\n
+	(\o221\f2) Paragraph Label Display [#ZL]\n
+	(\o222\f2) Sub-Paragraph numbering [#ZS]\n
+	(\o223\f2) Occurrence count on Search Results [@@TMP]\n
+	(\o224\f2) Detail Lines on Search Results [#O6]\n
+	(\o225\f2) Terminal Type [@@P2]\n\n@@P1~
+	:GET @@SELECTION -
+	     ~Enter number of option to change; \o2H\f2 for Help [Done]: ~ -
+	     MATCH "21-@@M1|H|h|"
+     TO "H|h"
+	:SET @@H1 ~21-@@M1~
+	:SET @@SELECTION ~2~
+	:MENU ~PARMS_H~
+     TO "21"
+	:SET @@TMP ~#ZL~
+	:COMPARE @@TMP
+	     TO "Short"
+		:SEND ~XG,8~
+		:SET #ZL ~Long~
+	     TO "Long"
+		:SEND ~XG,4~
+		:SET #ZL ~Short~
+	:DONE
+     TO "22"
+	:SET @@TMP ~#ZS~
+	:COMPARE @@TMP
+	     TO "No"
+		:SEND ~XG,128~
+		:SET #ZS ~Yes~
+	     TO "Yes"
+		:SEND ~XG,64~
+		:SET #ZS ~No~
+	:DONE
+     TO "23"
+	:COMPARE @@TMP
+	     TO "Yes"
+		:SET #ZQ ~%Q`_:` %T49 %D` document(s)`~
+	     TO "No"
+		:SET #ZQ ~%Q`_:` %T41 %D` docs` %O` occs`~
+	:DONE
+	:MENU
+     TO "24"
+	:SET @@TMP ~#O6~
+	:COMPARE @@TMP
+	     TO "Yes"
+		:SEND ~X1-~
+		:SET #O6 ~No~
+	     TO "No"
+		:SEND ~X1+~
+		:SET #O6 ~Yes~
+	:DONE
+     TO "21|22|24"
+	:SHOW BEFORE "*"
+	:MENU
+     TO "25"
+	:PRINT ~\n~
+	:GET @@TMP ~Enter terminal type [No Change]: ~
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	:DONE
+	:SET #TRMTYPE ~@@TMP~
+	:MENU
+     TO "26"
+	:COMPARE @@FFMT
+	     TO "Yes"
+		:SET @@P1 ~or \o2D\f2 to disable ~
+	     TO "No"
+		:SET @@P1 ~~
+	:DONE
+	:PRINT ~\n~
+	:GET @@TMP ~Enter name of format file @@P1[Cancel]: ~ "#1-8|"
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	     TO "#1:D"
+		:SEND ~FE~
+		:SHOW BEFORE "*"
+		:SET @@FFMT ~No~
+		:MENU
+	:DONE
+	:PARSE @@TMP UPPER
+	:SEND ~FF,#CP@@TMP.fmt~
+	:SHOW BEFORE "*"
+	:PARSE #LEFTOVER EXTRACTING @@TMP
+	:COMPARE @@TMP
+	     TO "0"
+		:SET @@FFMT ~Yes~
+	     TO "1"
+		:SET @@FFMT ~No~
+	:DONE
+	:MENU
+
+     TO "3|30-39"
+	:COMPARE #ZD
+	     TO "F"
+		:SET @@P1 ~Full~
+	     TO "B"
+		:SET @@P1 ~Brief~
+	     TO "C"
+		:SET @@P1 ~Hits~
+	     TO "E"
+		:SET @@P1 ~Specify~
+	:DONE
+	:PRINT ~@@HEADING_Current Settings for Miscellany:\n
+\t(\o231\f2) Default after a Successful Search [#ZF]\n
+\t(\o232\f2) Default Paragraph Specification [@@P1]\n
+\t(\o233\f2) Maximum Number of Queries on Screen [#ZM]\n
+\t(\o234\f2) Maximum Number of Indicies at a Time [#ZI]\n
+\t(\o235\f2) Number of Automatic Expansion Terms on each side [#ZV]\n
+\t(\o236\f2) Occurrence highlighting when printing [#ZH]\n\n~
+	:GET @@SELECTION -
+	     ~Enter number of option to change; \o2H\f2 for Help [Done]: ~ -
+	     MATCH "31-36|H|h|"
+     TO "H|h"
+	:SET @@H1 ~31-36~
+	:SET @@SELECTION ~3~
+	:MENU ~PARMS_H~
+     TO "31"
+	:SET @@TMP ~#ZF~
+	:COMPARE @@TMP
+	     TO "D"
+		:SET #ZF ~S~
+	     TO "S"
+		:SET #ZF ~D~
+	:DONE
+	:MENU
+     TO "32"
+	:PRINT ~\n~
+	:GET @@TMP -
+  ~Enter \o2Full\f2, \o2Brief\f2, \o2Hits\f2, or \o2Specify\f2 [No change]: ~ -
+  "F|f|B|b|H|h|S|s|"
+	:PARSE @@TMP UPPER
+	:COMPARE @@TMP
+	     TO "F"
+		:SET #ZD ~F~
+	     TO "B"
+		:SET #ZD ~B~
+	     TO "H"
+		:SET #ZD ~C~
+	     TO "S"
+		:SET #ZD ~E~
+	:DONE
+	:MENU
+     TO "33|34"
+	:SET @@M1 ~5~
+	:SET @@M2 ~15~
+     TO "35"
+	:SET @@M1 ~2~
+	:SET @@M2 ~6~
+     TO "33-35"
+	:PRINT ~\n~
+	:GET @@TMP -
+	     PROMPT ~How many? (\o2@@M1\f2 through \o2@@M2\f2) [No Change]: ~ -
+	     MATCH "@@M1-@@M2|"
+	:COMPARE @@TMP
+	     TO ""
+		:MENU
+	:DONE
+     TO "33"
+	:SET #ZM ~@@TMP~
+     TO "34"
+	:SET #ZI ~@@TMP~
+     TO "35"
+	:SET #ZV ~@@TMP~
+     TO "36"
+	:SET @@TMP ~#ZH~
+	:COMPARE @@TMP
+	     TO "Yes"
+		:SET #ZH ~No~
+	     TO "No"
+		:SET #ZH ~Yes~
+	:DONE
+     TO "33-36"
+	:MENU
+:DONE
+
+:SET @@SELECTION ~X~
+:RETURN
+@

@@ -1,0 +1,36 @@
+From steve@avalon.dartmouth.edu Mon Mar 11 08:38:37 1996
+Received: from avalon.dartmouth.edu (avalon [129.170.18.5]) by baker.dartmouth.edu (8.7.4/8.7.3) with ESMTP id IAA27957 for <bobh@baker.dartmouth.edu>; Mon, 11 Mar 1996 08:38:36 -0500
+Received: from avalon (localhost [127.0.0.1]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id IAA02740; Mon, 11 Mar 1996 08:38:32 -0500
+Message-Id: <199603111338.IAA02740@avalon.dartmouth.edu>
+To: Malcolm.B.Brown@dartvax.dartmouth.edu (Malcolm B. Brown)
+cc: bobh@baker.dartmouth.edu
+Subject: Re: DDP revision 
+In-reply-to: Your message of "11 Mar 1996 08:27:15 EST."
+             <26417677@dancer.Dartmouth.EDU> 
+Reply-To: Stephen.Campbell@dartvax.dartmouth.edu
+Date: Mon, 11 Mar 1996 08:38:26 -0500
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+
+> We probably all agree with Steve: SGML is a superior markup system.  Conversion
+> might be costly or not so costly.  It would depend up just how the current
+> material is marked up and if it could largely be converted in an automated way.
+
+I have only looked at it briefly, but I think it could be mostly automated.
+The DDP markup scheme is not particularly complicated, and it is regular. The
+grammar for it is about 20 lines long.
+
+> I would also point out we have it running under DCIS and that DCIS is being
+> tutored in ways to respond to a Web interface.  I'll be trying to catch up with
+> Bob Brentrup, director of DCIS, today or tomorrow, and find out how feasible it
+> might be to attempt a Web-Dante connection using DCIS.
+
+I discussed this informally with Eric Bivona recently.  What I would really
+like to see is a *simpler* DDP user interface in the sense of having fewer
+layers of software, not more.  I don't think any of us has really thought this
+through very far, but I am uncomfortable with any plan that adds software
+layers.  
+
+								Steve
+

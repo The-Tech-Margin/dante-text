@@ -1,0 +1,15 @@
+{GOPTS_HS}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Search Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The "S" selection can be entered at almost any SearchMate prompt to
+     cancel  the  current  operation or function, and return to the main
+     search  screen.   It  is not usually necessary to "back out" of the
+     menus to give the "S" Command.
+
+     When the "S" choice in not valid (such as within Message Mode), its
+     selection will produce an error message.\n~
+
+:PAUSE BOTTOM
+:RETURN

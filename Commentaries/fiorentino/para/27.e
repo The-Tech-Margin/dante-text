@@ -1,0 +1,771 @@
+	|Proemio.~  L'Auttore nel presente capitolo tocca nove
+cose.  La prima palesa della grazia e della dolcezza della gloria
+del paradiso.  La seconda introduce S. Piero apostolo a parlare,
+esclamando contra gli mali pastori della Ecclesia e ^specialiter~
+contra lo summo.  La terza tocca come S. Piero gli commise che
+tale visione ed esclamazione manifestasse.  La quarta, seguendo
+sua ^Commedia~, descrive come quello stuolo degli santi, ch'erano
+rimasi l@a quando le due luci si partirono, s@i com'@e detto nel
+XXIII capitolo, ascesero sopra la nona spera.  La quinta tocca
+del luogo, dov'egli era, e della bellezza di Beatrice.  La sesta
+entra nella nona spera.  La settima esclama contra la cupidigia
+mondana e poco amore.  La ottava tocca la vendetta di tale vizio. 
+La nona e l'ultima tocca come, dopo tale vendetta, lo mondo si
+regger@a a vertudioso stile.  La prima chiaro apparer@a nella
+esposizione del testo, come la gloria celeste @e di tanta
+perfezione che nullo appetito pu@o escedere oltre a sua pienezza. 
+Alla seconda cosa s@i @e da sapere che nella santa Ecclesia di Dio
+puote esser mali pastori, essa Ecclesia rimanendo buona e santa;
+et introduce l'Auttore S. Piero ad esclamazione, solo per
+riprovare quella opinione erronea che tenea che, se gli pastori
+della Ecclesia sono mali, la Ecclesia conviene esser mala.  Onde,
+riprovata quella, come apparer@a, seguirassi che sempre la
+Ecclesia @e santa e buona, e che, s@i come @e detto pi@u volte, la
+Ecclesia cominci@o da Cristo e durer@a in eterno, avvegnach@e gli
+pastori d'essa possano esser buoni e mali.  Argumentano prima
+quelli eretici: Lo prelato della Ecclesia @e suo capo; se il capo
+@e infermo tutti gli altri membri sono infermi; adunque, se lo
+prelato @e malo, la Ecclesia, di che egli @e capo @e mala, et
+adduceano una autorit@a d'Isa$ia I: ^Omne caput languidum et omne
+cor a planta pedis usque ad verticem non est in eo sanitas.~ 
+Argumentavono secondo Matthei VI: ^Lucerna corporis tui est
+oculus tuus: si oculus simplex fuerit totum corpus tuum lucidum
+erit, si autem oculus tuus nequam erit, erit totum corpus tuum
+tenebrosum.~  Gli prelati della Ecclesia sono gli occhi, la
+congregazione degli fedeli della Ecclesia sono lo corpo etc. 
+Argumentavono quello detto dello Evangelio: ^Si caecus caecum
+ducit ambo in foveam cadunt~ etc.  Adunque, se gli pastori sono
+ciechi, che debbono ammaestrare lo popolo, con essi caggiono in
+perdizione.  Argumentavono quarto quello che dice l'Apostolo, I
+ad Corinthios, V: ^Modicum fermentum totam massam corrumpit.~ 
+Adunque gli prelati mali sono quello male lievito, che corrompe
+tutta la congregazione; adunque essa congregazione corrotta s@i @e
+mala.  Quinto argumentavono quello che dice l'Apostolo ad
+Ephesios V: ^Christus dilexit Ecclesiam et tradidit semetipsum
+pro ea, at eam santificaret; et mundans eam lavacro aquae in
+verbo vitae, ut exiberet sibi gloriosam Ecclesiam non habentem
+maculam~ etc.  Per la qual cosa si segue che la Ecclesia, n@e gli
+prelati di Cristo, non possono esser mali; e se son mali, adunque
+questa Ecclesia non @e quella di Cristo.  Gli quali argomenti
+leggermente si solvono dagli fedeli cristiani.  Lo primo in
+questo modo: nello Nuovo Testamento non si trova che 'l prelato
+sia capo della Ecclesia, ma trovasi bene che Cristo si @e capo
+della Ecclesia: Ephesios IIIJ: ^Veritatem autem facientes
+crescimus in illo per omnia qui est caput Christus.~  Et I ad
+Corinthios XJ dice: ^Caput vestrum Christus.~  Et ad Colossenses
+J: ^Ipse est caput corporis Ecclesiae.~  Adunque, s'elli @e Cristo
+lo capo, non si pu@o dire ch'elli sia infermo, con ci@o sia che
+egli fu ed @e benedetto ^in saecula.~  A quella autorit@a d'Isa$ia
+ch'adduceano s@i si risponde che Isa$ia parlava della sinagoga
+degli Judei, della quale gli suoi principi erano languidi et
+infermi, et anche in essa congregazione era de' buoni, s@i come
+Isa$ia e Ieremias e gli altri profeti, avvegna che erano rari. 
+Ancora perch@e il capo sia infermo, vel impiagato, non si segue
+per@o che gli altri membri siano infermi, vel impiagati; e questo
+appare a senso nell'uomo.  E s'ello volesse dire: io intendo
+queste parole significative degli prelati e della Ecclesia,
+rispondo che il contrario appare in Apocalipsi III, l@a dove S.
+Johanni mette l'Angiolo di Sardi esser reo, ch'@e interpretato lo
+prelato degli Sardi, e pone degli sudditi del detto prelato
+essere buoni, s@i come egli dice: ^Habes pauca nomina in Sardis
+qui, non inquinaverunt vestimenta sua: ambulabunt mecum in albis,
+quoniam digni sunt~ etc.  Adunque potrebbe esser lo capo reo e
+gli sudditi buoni.  Al secondo argomento si risponde, avvegna che
+l'occhio sia tenebroso, non si segue per@o che tutto 'l corpo sia
+tenebroso; e questo appare per quello ch'@e detto dell'Angelo
+degli Sardi, ch'era tenebroso, et anche avea degli suoi sudditi
+buoni; e per contrario S. Paolo, ch'era lucido, avea degli
+sudditi tenebrosi, come appare nelle sue Epistole.  Adunque non
+segue cos@i strettamente lo corpo all'occhio, e l'occhio al corpo,
+com'essi poneano.  E chi dicesse: Adunque che volle dire Cristo
+Matthei VI?  rispondesi che, se l'occhio @e tenebroso, non si
+segue che ^in atto~ sia l'altro corpo tenebroso; ma @e bene
+oscurabile: e cos@i, se l'occhio @e chiaro e luminoso non si segue
+che in atto sia luminoso lo corpo, ma @e bene illuminabile.  E qui
+si coglie quanto pu@o giovare lo buono prelato, e quanto pu@o
+nuocere lo rio; e cos@i vuole egli dire che 'l buono prelato pu@o
+illuminare, ed @e lume e cagione d'ogni veritade; e lo rio pu@o
+oscurare ed @e cagione d'ogni errore.  Al terzo argomento si
+risponde e chiaro: colui s@i @e cieco che non vede n@e conosce n@e
+sae; ma gli prelati veggiono e sanno la Scrittura santa, e
+conoscono quella esser buona: se fanno male non si pu@o dir
+ciechi, ma mali; e questo ne 'nsegn@o Cristo Matthei XXIIJ quando
+disse degli mali prelati: ^Quae dicunt facite, secundum autem
+opera eorum nolite facere~ etc.  Onde, se deviamo fare quello che
+dicono, seguesi ch'egli sanno tal buono; e cos@i non si segue che
+gli prelati siano ciechi.  Al quarto argomento s@i si risponde
+che, se 'l fosse vero quello argomento ^praecise~, egli si
+seguirebbe che neuno, n@e prelato n@e suddito, fosse buono; imper@o
+che pure uno malo prelata avrebbe corrotta tutta la Ecclesia; e
+cos@i nullo buono si troverrebbe: ch'@e impossibile; ma sono da
+t@orre quelle parole largo modo, che uno malo pastore pu@o fare
+molto danno.  Ancora, conchiudendo lo proposito, se gli buoni,
+ch'erano sudditi all'Angiolo degli Sardi, come gli rei ch'erano
+sudditi a S. Paulo.  Al quarto argomento s@i @e da sapere che
+Cristo fece molte cose compiute, e molte ne lasci@o a compiere, s@i
+come dice Johannes III: ^Non enim misit filium suum in mundum ut
+iudicet mundum, sed ut mundus salvetur per ipsum~; e per ci@o non
+furono salvi, se non quegli che vollero esser salvi; come
+Johannis I: ^Dedit eis potestatem filios Dei fieri, omnibus qui
+credunt in nomine ejus~ etc.  E cos@i @e nella Ecclesia di Dio, che
+ve ne possono essere di quegli che vogliono esser salvi, e
+similemente di quegli che non vogliono essere; e questi sono
+mali: e cos@i appare che nella Ecclesia di Dio possono esser de'
+buoni prelati e de' rei; e simile de' sudditi.  E questo @e quel
+che l'Auttore vuol dire: ch'ello sarebbe erroneo a credere che
+nella Ecclesia non potesse essere di mali prelati.  Dato ch'egli
+possono essere, redargue gli moderni, gli quali gli pajono in
+tale disposizione per pi@u ragioni: primo per che i pastori
+favoreggiono parte tra' Cristiani, e fannosi combattitori,
+portando per insegna quelle chiavi che gli furono date per
+dirizzare lo popolo umano a vita eterna; et egli lo dividono e
+partono: la quale divisione non @e sanza periglio della cattolica
+fede; imper@o che quegli Cristiani, che si veggiono perseguire
+agli pastori, hanno materia di dovere essere loro contrarj;
+ancora di non laudare alcuno suo detto n@e fatto; ancora
+d'accompagnarsi con ogni nemico, vel rubello, della Ecclesia: e
+tutto che ci@o sia grande peccato, pure la iniquit@a umana ha
+sempre appetito di vendetta, secondo lo Filosofo IIJ ^Ethicorum~:
+^Ira est appetitus vindictae.~  E per@o non sanza grande periglio
+della fede cattolica gli pastori della Ecclesia si mischiano in
+esser partificj.  Ancora rendono incredulo lo popolo cristiano;
+ch@e, quando prendono alcuna pugna, la quale si diffinisca per
+quello, vel battaglia, ed egli sono perdenti, adesso @e giudicato:
+<Egli non aveano ragione, perch@e Dio ajuta quegli ch'hanno
+ragione, iusto bello; adunque gli contrarj la hanno>.  Onde non
+sanza periglio si cava la spada del fodero, che molte volte ella
+adopera meno tratta che vestita: e per@o, redarguendo l'Auttore
+come appar nel testo, mostra lo indiretto reggimento e la troppa
+prontezza delle loro pene, s@i escomunicando come procedendo
+armata mano contro gli suoi nemici, gli quali sono della massa
+della congregazione degli fedeli.  E potrebbe dubitarsi: @e licito
+all'Auttore a correggere gli pastori della Ecclesia, con ci@o sia
+cosa che egli @e suddito d'essi pastori?  Al quale dubbio,
+escusando l'Auttore, si pu@o rispondere in forma di questione
+quello che ditermina fra Tommaso nella ^Secunda secundae~,
+questione XXXIIJ+o~, articolo IIIJ+o~ in questo modo: El pare che
+alcuno non sia tenuto di correggere lo suo prelato, imper@o che
+egli @e scritto in Esodo XVIIIJ: ^Bestia qui tetigerit montem
+lapidabitur~, e II Regum, VJ, @e scritto che Oza ^percussus est a
+Domino~, per ch'ello tocc@o l'arca.  Or per lo monte e per l'arca
+@e significati gli prelati; adunque gli prelati non sono da esser
+corretti da' suoi sudditi.  Ancora scrive l'Apostolo ad Galatas
+IIIJ: ^In facie ei restiti~: adunque colui che non @e pari in
+degnit@a non pu@o correggere.  Ancora abbiamo per S. Gregorio, che
+nullo presumma di correggere la vita degli santi, s'egli non si
+sente per s@e esser migliore; e alcuno non @e da opinionare d'esser
+migliore che 'l suo prelato, adunque non sono gli prelati da
+correggere.  In contrario si @e quello che dice S. Agostino in
+^Regula~: ^Non solum nostri, sed et ipsius praelati miseremini,
+qui inter nos quanto te in loco superiore, tanto in periculo
+majore versatur.~  La correzione s@i @e opera misericordiosa,
+adunque sono gli prelati da esser corretti.  Alla qual
+risponsione risponde S. Tommaso, e fu distinzione della
+correzione; cio@e, o essa @e atto di giustizia, o essa @e atto di
+caritade: quella correzione ch'@e atto di justizia non pertiene a
+nullo suddito: quella ch'@e atto di caritade, quella pertiene ad
+ogni condizione di persone: e per@o, se gli prelati fanno alcuno
+difetto, possono essere corretti dagli suoi sudditi per modo di
+caritativo amore: e questo dee essere non con furia, ma con
+mansuetudine e reverenzia.  Onde l'Apostolo ad Timotheum IV:
+^Seniores non increpaveris, et obsecra ut patrem.~  Or ch'ello
+pertegna ad ogni condizione la correzione ch'@e atto di caritade
+prova Tommaso che, se quello atto che procede da alcuno abito,
+vel potenzia, s@i si estende ad ogni cosa che si contiene sotto
+l'obietto del viso, ogni condizione di persone debbono essere
+abituati in virt@u di caritade.  ^Ergo~ lo primo argomento si
+solve che quegli sono percossi da Dio che inordinatamente e sanza
+mansuetudine toccano, vel correggono gli prelati; lo secondo si
+solve che, s@i tosto come lo prelato falla, egli pu@o avere iguale
+in fede e da quello iguale pu@o esser corretto.  Ancora, se 'l
+fallo @e pericolo di fede, ello cade in infedelitade, e cos@i lo
+fedele ch'era suddito @e diventato maggior di lui; e puollo
+correggere; imper@o che lo fedele hae signor$ia sopra lo infedele. 
+Ancora puote lo suddito in palese correggere lo prelato, quando
+lo difetto @e tale che porti pericolo di fede, s@i come nella
+assolvigione dello predetto secondo argumento appare per fra
+Tommaso e dice: ^Sciendum est quod, si immineret periculum fidei,
+etiam publice essent praelati ab subditis arguendi~: et adduce
+esemplo: ^Unde et Paulus, qui erat subditus Petro, propter
+imminentis periculum scandali circa fidem.  Petrum publice
+arguit~ etc.  Lo terzo argomento si solve, che ^simpliciter~
+credersi migliore del suo prelato non @e sanza presunzione
+superba: ma estimarsi non ^simpliciter~, ma ^secundum quid~, in
+alcuna parte migliore, non @e per@o superba presunzione; imper@o che
+nullo @e in questa vita che non sia difettuoso in alcuna cosa: e
+per@o, se lo prelato falla, per ch'egli sia corretto dal suo
+suddito, non si segue per@o che quello suddito si estimi
+^simpliciter~ miglior di lui, ma seguesi che in quello ch'egli lo
+corregge, mosso da carit@a, com'@e detto, egli si possa sanza vizio
+estimare migliore etc.  E cos@i si pu@o conchiudere, che lo motivo
+dell'Auttore in questa redarguizione publica fosse lo pericoloso
+difetto, lo quale egli conoscea essere contro la fede cattolica
+detrimento; e quando tal difetto non fosse per lui estimato di
+tale condizione, @e da presumere che tanta persona non avrebbe
+ignorato la occulta correzione fraterna.  Alla terza cosa s@i @e da
+sapere che l'Auttore poetando fae che S. Piero gli commette
+ch'ello testifichi tale visione alla qual cosa s@i @e da sapere che
+testimonio eziand$io non requisito di testimonare, et aprire la
+veritade in quelle cose che sieno pericolose circa la corruzione
+della moltitudine, eziand$io circa corporale danno d'una singular
+persona, eziand$io circa universale danno, pone Tommaso nella
+assolvigione del secondo argomento della LXX questione, articolo
+I nella ^Secunda secundae~, che, se tali casi fossono commessi in
+secreto, non debbono essere tenuti secreti, ma palesarli, o
+testimoniando o denunziando, acci@o che tanto male si obvii vel
+schifi; salvo se fossono commessi in secreto per penitenzia, in
+nessuno modo si possono palesare, imper@o che 'l prete non tiene,
+in caso di confessione, stato vel luogo d'uomo, ma @e egli invece
+di Dio.  @E da sapere, acci@o che meglio s'intenda e comprenda lo
+motivo dell'Auttore, ch'@e 'l testimonio, o ello @e requisito da
+persona ch'abbia autoritade sopra tale inchiesta, o no: s'ello @e
+requisito da persona ch'abbia autoritade, e la cosa pertegna a
+justizia, s@i @e tenuto di testimoniare; e se la cosa non
+pertenesse a justizia, non @e tenuto; et se egli @e requisito da
+persona che non abbia autoritade, e tale cosa pertegna a justizia
+o a liberazione d'alcuna pena ingiustamente fatta, vel morte
+injusta, vel infamia injusta, @e tenuto di testimonare: e se la
+cosa non pertiene a justizia etc. non @e tenuto: e se lo
+testimonio non fosse requisito, e la cosa fosse che pertenesse a
+justizia, a schifamento di morte, vel pena injusta, a ben di
+moltitudine, o a schifar danno a moltitudine, @e tenuto lo
+testimonio di testimonare, palesare, vel notificare quella cos@i
+fatta cosa, imper@o che, s'egli tacesse, e' non farebbe altro che
+consentire tal peccato; onde l'Apostolo ad Romanos I: ^Digni sunt
+morte, non solum qui faciunt, sed qui consentiunt facientibus~; e
+la Chiosa dice: ^Consentire est tacere cum possis arguere~ etc. 
+E se 'l testimonio non @e requisito, n@e la cosa @e justa etc.,
+nullo dubbio @e che non @e tenuto, e se 'l facesse peccherebbe; ch@e
+altro non sarebbe che commettere danno e inordinazione etc.  S@i
+come Proverbiorum XXIJ: ^Erue eos qui ducuntur ad mortem~ etc. 
+Che l'uomo non sia tenuto negl'injusti la ragione appare per s@e;
+che l'uomo sia tenuto per li giusti la ragione appare, et
+eziand$io per Agostino s'approva: ^Si quis metu cujuslibet
+potestatis veritatem occultat, iram Dei super se provocat, quia
+magis timet hominem quam Deum~: e questo tocca speciale a quegli
+che, temendo alcuna possanza umana, tacciono.  E dopo poche
+parole dice Agostino: ^Uterque reus est, qui veritatem occultat
+et qui profert mendacium; quia ille prodesse non vult; et ille
+nocere desiderat~; onde, considerati questi passi, l'Auttore
+intende essere quel testimonio che testimoniare vuole quello che
+appartiene a justizia, quello che appartiene ad abviazione di
+danno della moltitudine; e specialmente a quella moltitudine che
+@e giunta per lo legame della fede: e questa si @e la santa madre
+Ecclesia: eziand$io non requisito, vuol fare tale testimonianza,
+acci@o che egli non caggia nella pena predetta dall'Apostolo ad
+Romanos I: ^Digni sunt morte~ etc., s@i com'@e detto: e per@o
+poetando, ci@o @e fittivamente parlando, fae che S. Piero gli
+commette tale palesare, s@i come nel testo chiaro apparer@a.  La
+quarta e la quinta e la sesta cosa che sono toccate nel presente
+capitolo appareranno nella esposizione del testo di Dante a
+sufficenza chiaro.  Alla settima cosa s@i @e da sapere che la
+cupidigia fae molto danno alla umana natura, imper@o che essa @e
+grande vizio, e d'essa nasce molti altri vizj, s@i come apparer@a. 
+In prima cupidigia, vel avarizia, si @e ad aver soperchio amore
+d'aver ricchezze esteriori: per la qual cosa lo c$upido abonda in
+tenere oltre alla debita misura, e cos@i @e contrario dello
+liberale; per lo quale abondare egli diventa duro contra la
+miseria, e cos@i non d@a elimosina, e non sovviene al prossimo: e
+cos@i @e nata dall'avarizia una figliuola nome ^Obduratio.~  Ancora
+lo c$upido abonda in t@orre oltre alla debita mensura, per lo qual
+superfluo, o ello @e nell'affetto vel desiderio; e cos@i nasce
+dell'avarizia un'altra figliuola nome ^Inquietudo~, la quale @e
+contraria alla speranza et alla caritade; o ello @e in effetto vel
+in fatto, e cos@i toglie ello l'altrui: e questo puote essere in
+pi@u modi, o egli lo toglie violentemente, e cos@i ne nasce quella
+figliuola ch'@a nome ^Violenza~, la quale @e contraria a justizia;
+o egli la toglie fraudolentemente, e questo in pi@u modi o per
+parole ^simpliciter.~ e cos@i nasce d'avarizia una figlia ch'ha
+nome ^Fallacia~, la quale @e contraria a Prudenzia; o ello usa
+parole con sacramento, del quale parlare nasce una figliuola
+d'avarizia nome ^Periurium~, la quale oppone ad Religione; o egli
+lo toglie fraudolentemente in fatto, e di questo nasce una
+figliuola all'avarizia nome ^Fraus~, la quale si @e contraria alla
+Prudenzia; o esso la toglie ^proprie~ contra la persona tradendo
+quello, e di questo nasce una figlia all'avarizia nome
+^Proditio~, la quale similemente oppone ad prudenzia.  Onde
+brievemente si pu@o raccogliere quanto danno fa avarizia alla
+umana generazione; primo che il digiugne da Dio; che 'l fa crudo
+e duro, e sanza misericordia; secondo che 'l fa esser in istato
+tempestoso, ansioso e sanza riposo, del quale nasce ogni
+vituperoso guadagno, come usurajo et in femmine, meretrice;
+terzio che dispone a violenzia, del quale nasce lo esser tiranno,
+rapace, sforzatore: quarto che dispone a dire fallacie, bug$ie, et
+addurre falso testimonio; quinto dispone l'uomo ad irreverenzia
+et a intimiditate, che non teme a proferire lo nome di Dio
+invano, e non solo invano, ma con intenzione corrotta; e questo
+appare nel perjuro: sesto che 'l dispone a fraudolenzia e ad ogni
+mala disposizione: settimo lo dispone ad traditor$ia, lo qual
+vizio per se @e noto quanto porta di gravezza.  E per@o l'Auttore,
+considerato tanto danno quanto ne fa la detta avarizia, s@i
+esclama nel testo ad essa, e dice ch'ella affonda tanto gli
+mortali che nullo hae podere di risistere a quella; e questo
+addiviene per difetto di mali rettori, gli quali non dirizzono
+gli sudditi a quello fine ch'@e sommo bene: e per@o, solo in quegli
+che non hanno indigenzia di rettori, perch@e sono in tale etade
+che sono esenti, s@i si trova fede et innocenzia; ma in quegli che
+sono ad etade debita, s@i si trova lo contrario, e cupidigia tiene
+lo campo, imper@o che seguono lo esemplo de' loro rettori e
+principi.  La ottava cosa che tocca l'Auttore nel presente
+capitolo s@i @e la vendetta del predetto difetto degli rettori, la
+quale egli pone esser s@i fatta, et avr@a tanto di virtude, che s@i
+come lo mondo ruina pure in male, cos@i li far@a tenere suo viaggio
+in diritto e perfetto bene; e dopo tale atto viver@a e trarr@a lo
+suo decorso virtudiosa e compiutamente: lo quale stato di
+perfetto stile e quello ordine naturale secondo di quella ultima
+etade dell'universo, di che @e fatta menzione nel I dello
+^Inferno.~  E questo @e quel che tocca nella nona et ultima parte
+di questo capitolo.  Or com'egli lo ditermina in tempo per alcuno
+moto celeste, nella esposizione del testo apparer@a.
+
+	|1-3.  Al padre, al figlio~: Continuando suo poema, dice
+che, dopo Adam, chiarificato l'Auttore dei dubbi, tutta quella
+congregazione di Santi cominciarono laude alla santa Trinit@a,
+dicendo ^Gloria patri et filio et spiritui sancto~ etc.  |Il
+Paradiso~: Qui pone ^continens pro contento.~  |S@i che
+m'inebriava~: Chiaro appare.
+
+	|4-6.  Ci@o ch'io vedeva~: Nota che l'Auttore, vogliendo
+discrivere tale dolcezza, lo dice in questo modo: Ci@o ch'io vedea
+dell'universo, ^supple~ nella sua memoria, d'allegrezza e di
+bene, mi sembrava uno riso, ci@o @e una picciola cosa, a
+comparazione di quella che allor vedea.  |Per che~: Ci@o @e
+l'objetto del viso come dell'audito in quello luogo era
+d'allegrezza e di somma dolcezza.
+
+	|7-9.  O gioja~: Chiaro appare le prerogative del celeste
+regno, et anche l'affettuoso parlare dell'Auttore quando replica
+questa dizione |o gioia... o vita... o sanza...~
+
+	|10-12.  Dinanzi agli occhi~: Segue 'l poema.
+
+	|13-15.  Qual diverrebbe~: Vogliendo mostrare lo suo
+sfavillare, esemplifica che s@i fatto apparea come si farebbe lo
+lustro di Juppiter e di Marte, quando cambiassono radj, vel
+colore, di lucido in rosso, et ^e converso~: e nota che non sanza
+cagione l'Auttore toglie questi due pianeti per esemplo: primo
+Jupiter, imper@o che @e pianeto benivolo, e secondo gli astrologhi,
+hae a significare gli prelati ecclesiastici: a Marte s@i @e
+appropriata per gli astrolaghi l'iracondia, onde mischiare vel
+cambiare l'uno con l'altro, non @e altro a dire che vedere uno
+ecclesiastico prelato irato: e per@o l'Auttore poetando, vogliendo
+mostrare S. Piero essere irato per lo difetto degli moderni
+pastori, esemplifica in tal modo.  |Penne~: Ci@o @e radj.
+
+	|16-18.  La providenzia~: Ci@o @e Iddio rettore di quello
+beato coro, il qual collo suo ordine comparte sua gloria, e
+dispensa come gli piace.  |Silenzio posto avea~: Acci@o che le
+parole di S. Piero paressono di pi@u effezione.
+
+	|19-21.  Quando ud@i'~: Ci@o @e da S. Piero.  |Se io mi
+trascoloro~: Ci@o @e, se io m'adiro.  |Non ti maravigliar~: Quasi a
+dire: Noi beati siamo conjunti in una gloria e in uno amore; e
+per@o, com'io m'adirer@o, tutta questa compagn$ia s'adirer@a
+similemente.
+
+	|22-24.  Quegli che~: Nota gli sommi pastori.  |Usurpa~:
+Ci@o @e sanza ragione possiede cotal catedra.  |Il luogo mio~: Nota
+che lo ripricare @e segno d'affettuoso parlare.  |Che vaca~: Ci@o
+@e, avvegnach@e tra gli mortali sia pieno, nella presenza di Dio @e
+vuoto.
+
+	|25-27.  Fatto ha~: In Roma s@i era uno luogo che si
+chiamava Vaticano, nel quale si seppelliano tutti gli Papi che
+moriano anticamente, e la maggior parte di quegli erano martiri,
+e per@o in quel tempo era pieno lo detto Vaticano di reliquie di
+santi; ma ora dice S. Piero non sono reliquie di santi, ma di
+pessimi pastori, s@i che 'l cimiterio mio @e fatto |cloaca~, ci@o @e
+ricettacolo di sangue e di vituperio etc.  |Onde 'l perverso~:
+Ci@o @e lo demonio.  |Si placa~: Ci@o @e si appaga vel contentasi.
+
+	|28-30.  Di quel color~: Seguendo 'l poema, mostra come
+la lucidezza delle sante anime ^si oscur@o~: esemplifica ch'era
+simile a quello color porporino che in oriente, vel occidente,
+appare quando le nuvole sono tanto spesse, che gli radj solari
+nolle possono penetrare.
+
+	|31-34.  E come donna~: Esemplo di Beatrice come appare:
+l'allegor$ia si @e che, per le sozze opere degli pastori, la
+teolog$ia riceve lesione e oscuritade.
+
+	|35-36.  E tale eclissi~: Ci@o @e simile oscurazione
+prosumme l'Auttore che fosse in cielo simile a quella che fue
+quando Cristo sostenne morte in sulla croce.  Eclissi ^graece~ s@i
+@e a dire Difetto, vel ascondimento di luce.
+
+	|37-39.  Poi procedetter~: Ci@o @e dopo tale mutazione
+fatta, cominci@o a parlar S. Piero, e disse come appar nel testo.
+
+	|40-43.  Del sangue~: Ci@o @e esso S. Piero, che fue
+crocifisso sotto Nerone imperadore.  |Di Lin~: Questi fue secondo
+papa dopo papa S. Piero; e similemente fue per Nerone
+martirizzato, e seppellito in Vaticano presso al corpo di S.
+Piero e di S. Paolo.  |Cleto~: Fue terzo papa dopo S. Piero,
+martirizzato per Tito imperadore.  Tutti questi sparsono sangue
+per accrescere la Ecclesia di Dio predicando lo santo Evangelio. 
+|Per essere ad acquisto~: Ci@o @e non ebbon gli predetti pastori
+intenzione che la Ecclesia avesse tali pastori e sposi, che la
+usassono per acquistar oro e ricchezze temporali; ma ebbono che
+il suo acquisto fosse tesaurizzato in celo, e di ricchezza
+spirituale, nel quale si vive lieto: e nota |vivere~, ch@e quella
+si @e santa e buona vita sanza alcuno difetto; ma questa temporal
+vita puote essere diritta morte, imper@o che chi segue le
+temporali dilettazioni cade nella morte eterna.
+
+	|44-45.  E Sisto~: Fue l'ottavo Papa dopo S. Piero, e fue
+martorizzato sotto lo detto Adriano imperadore.  |E Pio~: Questo
+fue chiamato Telesphorus, e fue lo novesimo papa dopo S. Piero; e
+fue martorizzato sotto lo detto Adriano imperadore.  |Calisto~:
+Fue XVIJ papa dopo S. Piero, et ordin@o le quattro tempora: fue
+martorizzato da Antonio Caracalla imperadore: fue seppellito in
+Via appia, dove ordin@o nuovo cimiterio.  |Urbano~: Fue seguente
+Calisto; ebbe molta persecuzione: in fine fue martorizzato sotto
+Alessandro imperadore.
+
+	|46-48.  Non fu nostra~: Ci@o @e essi santi pastori non
+intesono che gli moderni osservassono parte, n@e dividessono lo
+popolo cristiano.  |A destra mano~: Ci@o @e gli Guelfi.  |Parte
+sedesse~: Ci@o @e che si chiamassoro figliuoli della Ecclesia. 
+|Parte del~: Ci@o @e gli Ghibellini, che si chiamassoro nemici
+della Ecclesia.
+
+	|49-51.  N@e che le chiavi~: Nota che non fue sua
+intenzione che pugnassero con arme, ma con predicazioni.  |In
+vessillo~: Ci@o @e in gonfalone.  |Che contra i battezzati~: Chiaro
+appare.
+
+	|52-54.  N@e ch'io fossi figura~: Ci@o @e la immagine di me
+S. Piero.  |A privilegj venduti~: Ci@o @e per simoniaco modo
+confetti.  |Mendaci~: Nota che poi che in la presenzia degli
+mortali parranno veri, nella presenzia di Dio sono vacanti. 
+|Ond'io~: Chiaro appare la cagione di sua turbazione.
+
+	|55-57.  In vesta~: Qui esclama contra essi, e dice che,
+ancor ch'egli abbino abito santo di pastori, ci@o @e custoditori,
+ampo' dice ch'elli si vede come egli sono lupi rapaci, ci@o @e
+mordenti, impj e divoratori.  |Per tutti paschi~: Ci@o @e per tutto
+'l mondo a lor subietto.  |O difesa di Dio~: Qui esplora alla
+vendetta, la qual gli pare che troppo tardi.
+
+	|58-60.  Del sangue~: Ci@o @e delle nostre jurisdizioni si
+pasce, e quegli di Guascogna e quegli di Caorsa, gli quali hanno
+tra loro la maggior parte del collegio degli Cardinali, s@i
+ch'altra generazione non pu@o accedere all'ufficio del papatico. 
+|A buon principio~: Ci@o @e che tale ofizio fue cominciato per
+elezione, acci@o che si eleggesse il migliore, et egli succede
+pure negli Guascogni.
+
+	|61-63.  Ma l'alta providenzia~: Ci@o @e quello Iddio che
+resistette alla superbia d'Aniballo, il qual volea subjugare
+Roma, s@i com'@e detto nel VI capitolo, essendo trionfatore
+Scipione, risister@a a tanto disordine, e soccorrer@a in tal modo,
+che tanto male sar@a punito e gastigato.
+
+	|64-66.  E tu, figliuolo~: Or dirizza sua parlatura
+all'Auttore, e commettegli ch'ello riveli al mondo tale visione,
+come appare.  |Lo mortal pondo~: Ci@o @e che se' ancora collo
+corpo.  |Gi@u tornerai~: Ci@o @e in terra.
+
+	|67-72.  S@i come di~: Qui esemplifica come quello stuolo
+degli Santi, ch'erano rimasi ad accompagnar S. Piero quando
+Cristo e Nostra donna di l@a si partiro, s@i com'@e detto nel XXIII
+capitolo, si partiro, ascendendo successivi chi meglio meglio
+sopra la nona spera: e dice che, s@i come avviene quando lo sole @e
+in Capricornio, ch'@e entro mezzo gennajo, ch'alcuna volta l'aiere
+fiocca, ci@o @e nevica, e ello si vede discendere gli fiocchi della
+neve l'uno dopo l'altro, ed esserne l'aiere piena, cos@i quella
+benedetta congregazione ascendeva in suso, e adornava quello
+etere delle sue bellezze.  |Vapori trionfanti~: Ci@o sono quegli
+santi che sono nella ecclesia trionfante, la quale @e la
+congregazione celeste.  |Che fatto~: Chiaro appare che aveano
+soggiornato tanto tempo quanto S. Piero, S. Jacopo, S. Joanni
+l'aveano esaminato circa le tre virt@u teologiche, et Adam
+dichiaratogli gli dubbj, e S. Piero esclamato contra gli mali
+pastori.
+
+	|73-75.  Lo viso~: Ci@o @e la sua veduta segu$ia lo viaggio
+degli santi.  |Finch@e 'l~: Ci@o @e quando essi furono tanto ascesi
+che per distanzia del luogo, la virt@u visiva dello Auttore non
+gli potea pi@u vedere, et egli s'asciolse da tale guardamento. 
+|Il mezzo per lo~: Qui @e da notare che, s@i come dice il Filosofo
+in II ^De anima~, lo mezzo conviene essere proporzionato tra la
+cosa che si vede el viso; imperci@o che la picciola cosa si perde
+pi@u tosto che la grande; e per@o quando lo mezzo @e s@i grande che
+ecceda la proporzione della cosa, allora essa si perde ad occhio. 
+Or questo mezzo si @e l'aiere luminoso: e perch@e quegli Santi si
+distavano dalla sua vista per mezzo molto ci@o @e che eccedea lo
+mezzo alla proporzione, s@i gli perdette egli ad occhio.
+
+	|76-78.  Onde la donna~: Ci@o @e Beatrice.  |Ad$ima~: Ci@o @e
+abbassa lo tuo sguardo.  |Come tu~: Qui vuol mostrare ch'ello si
+volse attorno la terra, s@i come facea lo segno di Gemini in che
+egli era.
+
+	|79-81.  Dall'ora~: Ci@o @e dall'ora che egli adim@o simile
+lo viso, e vide tutte e sette le spere ch'avea asceso, s@i come
+appar nel XXII, 133-135, quando disse: ^Col viso ritornai per
+tutte quante.~  |Io vidi mosso~: Egli @e da sapere che si parte la
+superfice della terra, quella ch'@e abitata, in VIJ parti, le
+quali parti sono appellate clima, e sono coreggie della detta
+superficie da Levante a Ponente, e la sua larghezza @e da Ostro in
+Settentrione, s@i come appare nella presente figura; lo primo
+clima si @e in latitudine di XV gradi; lo secondo di XXIIJ; lo
+terzo di XXX; lo quarto di XXXVJ; lo quinto di XLJ; lo sesto di
+XLV; lo settimo di XLIIJ; s@i come chiaro appare nel trattato del
+la ^Spera~, et in Alfragano ^De motibus~: onde altro non vuole
+dire, se non ch'egli si vide mosso dal mezzo del primo clima
+dov'@e segnato a, fino alla fine del predetto clima, dov'@e segnato
+b; e cos@i appare ch'egli era lo quarto mosso del cerculo, nel
+mezzo dello Emisperio, e cos@i era stato dall'uno considerare
+all'altro VJ ore.
+
+	|82-84.  S@i ch'io vedea~: Ci@o @e ch'egli vedea oltra dello
+Emisperio occidentale, nel quale luogo fue oltra Gade, ove Ulisse
+cogli compagni s'annegarono, s@i com'@e detto nel [XXVI] dello
+^Inferno~; e questo era in Occidente.  |E di qua presso~: Ci@o @e
+verso Levante vedea egli lo lito di Bocca d'Aveda, dove
+anticamente fue Tebe.  |Nel qual si f@e~: Per discrivere bene lo
+predetto lito si introduce una fabula poetica che mette Ovidio
+nel fine del II ^Metamorphoseos~, e dice che Jupiter si innamor@o
+d'una figliuola del re Agenore, nome Europa, la quale egli andava
+molto vagheggiando, s@i com'@e consuetudine degli amanti.  Junone
+sua moglie, vedendo questo, fece mutare la detta Europa in una
+vitelletta; e questa, cos@i tramutata, andava pascendo per gli
+prati, e traendo sua vita tutto a modo di quella spezia in che
+era tramutata.  Juppiter, veggendo ci@o che era addivenuto, non ne
+fue consolato; ma perch@e ci@o era operazione di Dea, non si potea
+tornare in dietro.  Allora, costretto da amore, discese in terra
+in forma d'un bel vitelletto: and@o a questa vitelletta, e stette
+con essa ^carnaliter~ a suo piacere etc., e per@o dice l'Auttore:
+|Nel qual si fece Europa dolce carco.~  Dopo questo lo re
+Agenoro, perduta sua figliuola, comand@o a Cadmo che ^omnino~ la
+ritrovasse, il quale, dopo alcune invocazioni e sacrificj, ebbe
+risposta da Minerva di suo itinere, e trov@o la vitelletta, e in
+quel luogo edificarono poi la citt@a di Tebe; s@i come appare nel
+III ^Metamorphoseos.~  Or perch@e fue introdutta la fabula di
+Europa, s@i @e da notare la sua allegor$ia, acci@o che nostro
+trattato abbia sua perfezione.  Egli @e da sapere che, s@i come pi@u
+volte @e detto, gli poeti parlavano ^fittive~ ed
+esemplificativamente; e parea lo litterale senso dire altro che
+lo allegorico.  Onde, volendo sotto tale fingimento discrivere
+Ovidio l'amore che avea Iddio alle creature, e come esse creature
+caddero; e come per esso elle furono rilevate, e come per
+sacrificj et orazioni si conservano in suo bene, essi s'infinsono
+la predetta fabula: onde Juppiter signific@o Iddio: amava Europa,
+amava la creatura umana: essa Europa tramutata in vitella da
+Giuno, essa creatura dal demonio per lo peccato caduta in
+irrazionabilitade e diventata bestia: Juppiter tramutossi in
+tauro, Dio @e fatto uomo: fornicato con Europa, ricevute le
+passioni umane, e quella natura umana esaltata: Cadmo per
+sacrificj et orazioni trovata la detta Europa; tornato in suo
+essere la umana natura e conservatosi per orazioni e sacrificj. 
+Onde, secondo senso allegorico, altro non vuol dire la detta
+fabula che la rilevazione della umana natura dal peccato per
+Cristo benedetto, che fue verace Iddio et uomo.  E potrebbe
+alcuno biasimare lo poeta, che in cotanta escellente intenzione
+us@o cos@i vil parlatura come formazione: ond'egli si pu@o scusare
+che anche la Scrittura santa, nella quale non si pu@o assegnare
+difetto n@e vizio, in alcuni luoghi et escellenti intendimenti, s@i
+com'@e scritto, Oseae I: ^Vade, et sume tibi uxorem fornicationum~
+etc., ch@e, avvegnach@e esso Osea togliesse moglie di estranea
+condizione, tutta volta ebbe a figurare che la santa Ecclesia,
+sposa e moglie di Dio, sarebbe di estranea nazione e non del
+popolo judaico, lo quale in quel tempo era popolo di Dio: e cos@i,
+vogliendo mostrare lo poeta che tale congiungimento, ci@o @e la
+natura divina et umana era estranea e non consueta, assunse tal
+vocabulo di fornicazione.
+
+	|85-87.  E pi@u mi fora~: Ci@o @e ch'avrebbe ancora veduto
+pi@u verso il Levante della ajuola, ci@o @e della superfice
+abitabile della terra; ma 'l sole, ch'era in Ariete, s@i gli si
+interponea.  |Sotto i miei piedi~: Nota ch'egli era nella ottava
+spera.  |Un segno e pi@u~: Ci@o @e tutto Tauro, e tanto pi@u quanto
+lo sole avea a cercare del segno dello Ariete.
+
+	|88-90.  La mente innamorata~: Segue 'l poema,
+notificando sua disposizione come appare.
+
+	|91-93.  E se natura~: Nota la bellezza di Beatrice. 
+|Pasture~: Ci@o @e formazioni placibili al senso del viso in alcuna
+donna.
+
+	|94-96.  Tutte adunate~: Quasi a dire: se tutte le
+bellezze del mondo fossero in una donna, tutte parrebbe niente a
+comparazione di Beatrice.
+
+	|97-99.  E la vert@u che~: Or dice: la vert@u del guardo
+che gli fece Beatrice lo trasse dell'ottava spera, e asceselo
+nella nona; e noma l'ottava lo |nido di Leda~, imper@o che, s@i
+come @e detto nel IV del ^Purgatorio~, Castor et Pollus furono
+figliuoli di Leda, gli quali furono poi transunti nella
+costellazione di Gemini; onde, perch@e gli figliuoli di Leda sono
+in Gemini, per ci@o appella l'Auttore lo segno di Gemini nido di
+Leda, ch@e quello luogo @e nido, dove stanno gli figliuoli.  Or
+Gemini e gli altri segni sono nell'ottava spera, s@i che tanto @e a
+dire la virt@u del guardo di Beatrice mi divelse del nido di Leda,
+come a dire essa virt@u mi divelse dall'ottava spera.  |E nel
+ciel~: Ci@o @e nella nona spera, la qual, s@i come appare nel II
+^Coeli et mundi~ per lo Filosofo, @e lo pi@u velocissimo cielo che
+sia, e quello in cui @e lo principio del movimento; e secondo suo
+moto @e mensurato lo tempo: unde Aristotile nel IV ^Phisicorum~:
+^Tempus est mensura motus~ etc.
+
+	|100-102.  Le parti sue~: Nota d'essa nona spera, la qual
+non ha diversitadi di figurazioni, s@i come hae l'ottava, che ha
+le immagini e le costellazioni; ma @evvi continua et uniforme la
+vert@u informante: e perch@e non ha discrezioni, per@o non seppe
+l'Auttore in qual parte d'essa egli intrasse; ch@e nell'ottava
+conobbe alla costellazione qual'era lo segno a lui sortito. 
+|Scelse~: Ci@o @e elesse.
+
+	|103-105.  Ma ella~: Segue 'l poema, e chiaro appare.
+
+	|106-108.  La natura del moto~: Ci@o @e da questa nona
+spera comincia quel moto ch'@e natura nel mondo, lo qual moto
+quieta il mezzo, ci@o @e la terra, onde lo Filosofo in I
+^Phisicorum~ dice: ^Natura est motus et quietis~ etc.
+
+	|109-114.  E questo cielo~: Nota che, secondo ordine
+naturale, gli elementi sono sudditi al cielo degli pianeti, e
+quelli all'ottava spera, e questi alla nona; s@i che tutto questo
+umano contento s@i @e suddito alla nona spera; et essa nona spera
+non @e suddita ad altro cielo, ma solo alla divina mente; e da
+essa toglie quella vertude ch'ella hae in questi inferiori; e
+dall'amore d'essa divina mente riceve movimento e luce, e non da
+altro: e per@o dice |luce e amore~ in modo di cerchio comprende
+cos@i questa nona spera, come essa nona spera comprende lo suo
+contento.
+
+	|115-117.  Non @e suo moto~: Ci@o @e che lo moto della nona
+spera si @e mensura di tutti gli altri movimenti, lo quale si @e
+che d@a una volta in XXIIIJ ore, e per@o da ore, da d@i, da mesi, da
+anni si toglie lo movimento di tutti gli altri cieli, come chiaro
+appare nelle tavole d'Astronom$ia.  |S@i come diece~: Qui mostra il
+modo della comparazione degli movimenti; e dice: s@i come lo
+numero di dieci si numera per binario e quinario, cos@i gli
+movimenti degli pianeti si misurano per una revoluzione, e questa
+@e d'uno d@i; e per XXX revoluzioni, e questa @e d'uno mese etc.
+
+	|118-120.  E come 'l tempo~: Ci@o @e che, se questo moto
+della nona spera @e mensura degli altri, come @e detto, s@i @e ello
+la radice del tempo, perch@e altro non @e tempo che numero di
+movimento: (^Phisicorum~ IIIJ) e se la radice @e in esso, adunque
+le sue parti si stendono per gli movimenti degli altri cieli: e
+questo @e quello ch'egli appella frondi.  |Omai a te~: Ci@o @e
+speculando naturalmente etc.
+
+	|121-123.  O cupidigia~: Qui esclama della cupidigia
+degli mondani, e dice, come appare, ch'ella affonda s@i gli
+mondani e sotterra, ch'egli non hanno podere d'uscire delle sue
+onde, ci@o @e delle sue foglie.
+
+	|124-126.  Ben fiorisce~: Qui esemplifica mostrando che
+gli uomini hanno pure la voglia assoluta buona; ma per rispetto
+ad alcuni fini illiciti e viziosi, s@i si corrompe, e sta lo
+esemplo in questo modo: gli susini, vel prugni, adduce nella
+primavera molti fiori, gli quali producerebbono buono frutto, ci@o
+@e buone susine, vel prugne, se non fossero turbati da piova
+continua, la qual pioggia converte le dette susine in
+bozzacchioni; e sono questi bozzacchioni pieni di vermicelli, li
+quali poi, non che le foglie, ma tutto lo midollo del brocco
+dannificano e rodono: cos@i, secondo la voglia assoluta, gli
+uomini farebbono virtude e bene; ma la continua piova s@i @e lo
+male esempio che hanno dagli rei pastori, per lo quale egli
+cambiono la voglia assoluta in ^secundum quid~ o dilettabile o
+vizioso.
+
+	|127-129.  Fede e innocenzia~: Ci@o @e nell'uomo quando @e
+s@i parvolo che non torce la voglia a nullo vizioso fine; e questo
+si @e in prima puerizia.  |Poi ciascuna~: Ci@o @e fede e innocenzia
+fuggono.  |Che le guance~: Ci@o @e innanzi che 'l predetto parvolo
+metta barba.
+
+	|133-135.  Tale balbuz,iendo~: Ci@o @e ama et @e obbediente. 
+|Che con loquela intera~: Ci@o @e distinta.  |Disia poi~: Ci@o @e hae
+essa in odio, e suo desiderio @e poi ad ogni suo disutile.
+
+	|136-138.  Cos@i si fa~: Qui conchiude che s@i come @e nel
+decorso del tempo dell'uomo, che prima si @e innocente e fidele,
+poi si @e incredulo e odioso, cos@i avviene agli sposi della santa
+Ecclesia, che in prima furono buoni et ora sono rei; e per@o dice
+a tal modo: la pelle della bella figliuola, per lo pastore, di
+bianca diventa nera in quello primo aspetto nel quale @e nullo
+secreto.  |Di quel ch'apporta~: Ci@o @e della figlia di Cristo ch'@e
+la Ecclesia; lo qual si @e quello sole che ci allumina e ci
+schiara, e facci perdere ogni tenebrositade e oscurezza; e per@o
+dice apporta mane, ci@o @e luce, e lascia sera, ci@o @e abbandona
+scuritade.
+
+	|139-141.  Tu perch@e non ti~: Qui palesa in chiaro latino
+la cagione che il mondo @e cos@i suddito a cupidigia; e dice che @e
+per difetto che 'n terra non son buoni rettori; e per@o l'umana
+famiglia non @e retta, onde @e cos@i sviata dalla via diritta.
+
+	|142-144.  Ma prima che gennajo~: Dice che verr@a la
+vendetta dal cielo, s@i come la proda della nave si volger@a dov'@e
+la poppa, quasi a dire: di su verr@a cagione, che scaccer@a gli
+vizj e dirizzer@a gli mortali a perfetto fine, onde s@i come
+testeso tal navilio ruina in vizj, cos@i allora dirizzer@a suo
+viaggio a glorioso porto.  |Per la centesma~: Egli @e da sapere
+che l'anno del Sole, appresso lo vulgo, @e d@i CCCLXV e ore VJ, le
+quali ore VJ generano i IIIJ anni uno die, s@i che quello anno @e
+CCCLXVJ d@i, ed @e appellato questo anno bisestile: dassi questo
+die allo mese di febbrajo, e cos@i @a quello mese di XXVIIIJ; e
+perch@e si sta sulla lettera di f. due d@i ch'@e lo sexto kalendas
+Martii, s@i @e appellato ^bissesto~, a ^bis~, ch'@e due, et ^sexto~,
+sexto kalendas; e se questo bissesto non si osservasse, in anni
+DCCXXVIIJ, verrebbe la festa del Natale a d@i XXV di Giugno; e la
+festa del Batista verrebbe a mezzo dicembre.  E appresso pi@u
+sottili consideratori s@i hae l'anno del sole di CCCLXV e ore VJ,
+meno una centesima di die; la qual centesima s@i hae prodotto uno
+d@i ogni cento anni; s@i che quello centesimo anno che appresso lo
+vulgo si fae bissesto, e hae CCCLXVJ d@i, dovrebbe aver solo
+CCCLXV d@i; e perch@e questo non @e considerato, s'ello non si
+corregge, in anni diecinovemilaCCLXIJ si avveranno le feste di
+verno ad esser di state, ed ^e converso.~  Or dice l'Auttore che,
+innanzi che Gennajo esca di quella quarta iemale del zodiaco, che
+comincia a principio di Capricornio, e dura fine al principio di
+Ariete, ch'@e appellato inverno, fa bisogno che passi quatromilaD
+anni; imper@o che la fine del Gennajo dista dal principio di
+Capricornio per XLV d@i; se ogni cento anni perde uno d@ie, come @e
+detto, fa bisogno, a perdere XLV d@i, che passino XLV centinaja
+d'anni, com'@e detto.  Et acciocch@e meglio s'intenda, s@i
+dimostreremo tale corso in questo modo: sia la lettera a. lo
+principio di Capricornio; lettera b. lo principio di Gennajo;
+lettera e. fine di Capricornio e mezzo di Gennajo, e principio
+d'Aquario; lettera d. fine di Gennajo, mezzo d'Aquario e
+principio di Febbrajo; lettera e. mezzo di Febbrajo, fine
+d'Aquario, principio di Pisce; lettera f. fine di Febbrajo mezzo
+di Pisce, e principio di Marzo; lettera g. mezzo di Marzo fine di
+Pisce e principio di Ariete: dato questo cerculo, s@i come appare
+nella presente figura, e dato che 'l sole sia nel primo tempo
+della considerazione in lettera a., in quindici centinaja d'anni
+egli sar@a pure su lettera b.; et ampo' sar@a pure mezzo Dicembre;
+e per la predetta centesima in altre quindici centinaja d'anni
+egli sar@a suso la lettera c.; e ancora sar@a pur mezzo Dicembre; e
+cos@i sar@a andato gi@a fuori del punto di Capricornio mezzo
+Gennajo; et in altre quindici centinaja d'anni o sole sarebbe
+suso la lettera d.; et ancora sar@a pure mezzo Dicembre; e cos@i
+sar@a eschiuso tutto Gennajo fuori dal punto di Capricornio; e
+nota che dove diciamo mezzo dicembre s@i intendiamo, come @e detto,
+principio di Capricornio; e cos@i sar@a in capo dal detto tempo lo
+sole in principio di Capricornio alle calende di febbrajo: onde
+chiaro appare, secondo questa considerazione, che la
+reconciliazione dell'universo sar@a anzi che passino novemilaD
+anni.  |Negletta~: Ci@o @e che questa centesima non @e conosciuta
+che sia meno nello numero degli die dell'anno.  |Ruggeran s@i~:
+Ci@o @e opereranno, vel apparer@a s$ie suo effetto.  |Cerchi
+superni~: Ci@o sono gli cieli.
+
+	|145-148.  Che la fortuna~: Ci@o @e tempesta ^vel~ viziosa
+vita.  |Che tanto s'aspetta~: Ci@o @e nemica di vertude.  |Le poppe
+volger@a~: Ci@o @e se n'ander@a.  |S@i che la classe~: |Classe~
+proprio si @e la nave, unde ^largo modo~ toglie l'Auttore la vita
+degli mortali per uno navilio; e dice |correr@a diretta~, ci@o @e
+virtudiosamente far@a sua operazione.  |E vero frutto~: Ci@o @e dopo
+tale correzione sar@a lo mondo a diritto stile di vita; e secondo
+altra opinione la |fortuna~, ci@o @e lo viver lieto, che s'aspetta
+cotanto, quando sar@a a suo tempo, volger@a s@i lo stile del mondo,
+che, s@i come or rimane in vizj, cos@i suo viaggio sar@a in perfetto
+e virtudioso fine.  E qui si compie la intenzione del presente
+capitolo.

@@ -1,0 +1,630 @@
+	|Proemio.~  ^Incipit XIII' cantus prime cantice Comedie.~ 
+Incipit XIII' cantus prime cantice Comedie.  In isto XIII cantu
+autor intrat secundum gironem, qui incipit in principio istius
+cantus, ibi: <Non er'ancor di l@a Nesso arrivato, / quando noi ci
+mettemo per un bosco>, etc.; et finit in sequenti cantu, ibi:
+<Indi venimo al luogo ove si parte / lo secondo girone> {*vv.
+4-5*}, etc.  Et ponit in isto girone illos qui violentiam
+exercent contra se ipsos, vel se interficiendo, vel bona propria
+dissipando.  Primi efficiuntur pruni silvestres; secundi vero
+continue a canibus lacerantur.  Ponit autem hic aves et canes. 
+Aves tenent typum rapacitatis; canes autem indigentie, ut in
+expositione clarius apparebit.
+
+	In isto cantu sunt tres comparationes {*vv. 7-9; 40-44;
+111-114*}, tria notabilia {*vv. 64-66; 82-84; 105*}, et due
+questiones {*vv. 88-89; 90*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Postquam autor in superiori cantu de primo girone
+tractavit, in quo posuit illos qui exercent violentiam contra
+proximum, nunc in isto cantu intendit de secundo girone tractare,
+in quo ponit illos qui exercent violentiam in se ipsos.  Et quia
+homo utitur violentia contra se ipsum duobus modis, scilicet vel
+se occidendo, vel sua bona dispergendo, ideo istos in duas partes
+dividit et distinguit.  Et continuat sic presentem cantum ad
+precedentem dicens: Nondum pervenerat Nessus ad aliam ripam
+quando nos intravimus per unum nemus quod a nulla via vel semita
+est signatum.  Quales autem arbores sint in isto nemore, sic
+poetizando declarat: Non frondes virides erant in arboribus
+illis, sed nigro colore perfuse.  Ideo ait in textu:
+
+	^Non fronda verde, ma di color fosco;~ non rami obducti
+et recti, sed nodosi et curvi.  Ideo ait in textu: ^non rami
+schietti, ma nodosi e 'nvolti;~ non poma producebant arbores
+ille, sed cum veneno festucas.  Ideo ait in textu: ^non pomi
+v'eran, ma stecchi con t@osco.~  Intrans vero autor istud nemus,
+dicit se primo vidisse super illas arbores arpias, que sunt aves
+fedissime, que habent alas latas et plumosas, facies humanas, et
+pedes ungulatos; que quidem aves super illas arbores nidificant,
+frondibus ipsarum vescuntur, et ibi continue lamentabiles voces
+emittunt.  Et dum sic autor attente respiciendo illud iam nemus
+intrasset, dicit quod Virgilius dixit sibi: <Scias, antequam plus
+intres, quod tu es modo in secundo girone, et eris quousque
+horribile sabulum introibis>.  Et ideo bene respice, et sic
+videbis quasdam res que tollerent fidem credulam sermonibus
+meis>.  Ipse autem autor sentiebat ex omni parte maximos
+ululatus, et non videbat aliquam personam que istos ululatus
+emitteret; propter quod totus obstupefactus orriguit.  Unde
+Virgilius ait ad eum: <Si tu trunces aliquam ramusculum ex una
+istarum plantarum, mutilabuntur cogitamina que tu habes.  Tunc
+autor, ad persuasionem Virgilii, collegit unum ramusculum ex una
+magna pruno; et statim vox exivit de pruno dicens: <Cur me
+dilaceras?  Non habes tu spiritum aliquem pietatis?  Homines enim
+fuimus, et modo sumus arbores silvestres effecti.  Bene debuisset
+fuisse [^sic~] tua manus magis pia, etiam si serpentum anime
+fuissemus>.  Tunc Virgilius, audiens voces ex illa pruno tam
+querulosas exisse, et videns Dantem totaliter obstupuisse, et
+propter hoc respondere non posse, ait ad eum qui loquebatur: <O
+anima lesa, si iste qui te lesit potuisset credidisse [^sic~]
+solummodo verbis meis ea que modo vidit et sensit, non
+ostendisset in te manum suam; sed res incredibilis me induxit ad
+opus de quo ipsemet doleo.  Sed dicas illi quis fuisti, ad hoc ut
+vice alicuius emende, in mundo superiori renovet famam tuam>.
+
+	Ad quem ait illa anima lesa: <S@i col dolce dir m'aeschi>;
+quasi dicat: quemadmodum piscis vel avis capitur esca, ita ego
+capior verbis tuis, que tantum sunt dulcia quod ego non possum
+tacere et vos non gravere.  Unde aliquantulum ad raciocinandum
+vobiscum me ipsum invisco.  Ego certe sum ille -- supple Petrus
+de Vineis -- qui cordis Frederici imperatoris tenui ambas claves,
+quas quidem claves ita volvi, claudendo et aperiendo, suaviter,
+quod a suis secretis omnem quasi viventem removi, et tantam fidem
+officio glorioso quo in curia sua fungebar portavi, quod ego
+omnem sensum et motum inde perdebam.  Sed meretrix illa, que
+nunquam ab hospitio Cesaris oculos meretriceos removit, que
+quidem meretrix comune vitium atque mors omnium curiarum existit,
+inflammavit contra me animos omnes -- supple omnium principum et
+baronum -- et isti sic inflammati taliter inflammaverunt
+Augustum, quod leti honores conversi sunt in tristes luctus. 
+Unde animus meus, quia ex hoc indigna gustavit, credendo cum
+morte dedignationem vitare gustatam, me fecit iniustum contra me
+iustum>.  Quasi dicat: In omnibus aliis rebus fui iustus, sed in
+hoc solum, quia me occidi, fui iniustus.  <Sed per radices novas
+istius ligni in quo sic crucior, tibi iuro quod nunquam fregi
+fidem domino meo, qui fuit honore tam dignus.  Et si aliquis
+vestrum in mundum redit, rogo ut confortet memoriam meam, que
+iacet adhuc despecta et vulnerata, vulnere quod invidia principum
+sibi dedit -- supple quia me infamaverunt quod fuissem proditor
+domino meo>.  Et cum finem fecisset verbis suis, dixit Virgilius
+ad Dantem: <Ex quo iste tacet, ne perdas horam, sed loquere et
+pete ab eo si aliquid aliud scire vel discere concupiscis>.  Et
+Dantes ad eum: <Pete tu>, inquit, <ab eo de omni eo quod credis
+quod michi debeat satisfieri, quia ego non possem -- supple loqui
+-- tanta sum cordis pietate constrictus>.  Tunc Virgilius
+interrogavit illam animam de duobus: Primum est quomodo anima
+ligatur in illis plantis; secundum vero, si aliqua ipsarum a
+talibus unquam solvitur membris.  Cui respondet spiritus ille
+incarceratus.  Et primo de primo dicens: Quando anima ferox
+egreditur de corpore unde ipsamet se evulsit, Minos mittit eam ad
+septimum circulum, in quo est iste secundus giro.  Et ista anima
+sic fulminata cadit in silvam, et non est sibi pars aliqua
+assignata, sed ubicunque ipsam fortuna balistat, ibi germinat
+sicut granum spelte.  Surgit in virgam et in plantam silvestrem,
+arpie pascendo postea de suis foliis faciunt tali plante dolorem,
+et dolori fenestram; quia per talem viam exeunt suspiria atque
+plantus.  Secundo respondet de secundo dicens: Sicut alie anime,
+ita nos in die -- supple iudicii -- pro nostris corporibus
+veniemus, sed nulla suo corpore vestietur, quia non est iustum
+quod anima habeat corpus quod ipsa abstulit sibi ipsi.  Per istam
+enim silvam corpora nostra trahemus et unumquodque corpus erit
+suspensum ad prunum umbre sue, idest proprie anime.
+
+	Et dum sic ille spiritus in illa planta inclusus ad illa
+duo de quibus interrogatus fuerat responderet {^Br.~
+respondisset}, et ecce duo a sinistro latere silve veniebant nudi
+et lacerati, ita fortiter unus post alium fugiendo, quod de silva
+quicquid tangebant protinus lacerabant.  Et ille qui ibat ante,
+magnis vocibus atque clamoribus mortem in sui adiutorium
+invocabat, dicens: <Or accorri, accorri morte>.  Et alius qui
+veniebat post eum clamabat dicens: <O Lane, non sic fuerunt
+velocia crura tua in conflictu plebis al Toppo>.  Et quia plus
+post eum currere non valebat, et etiam quia post eos canes nigre
+et famelice veniebant, iste spiritus in quodam cespite se
+abscondit.  Canes autem istum insequentes ipsum membratim
+dilaceraverunt, non sine multo danno cespitis sive plante, quam
+totam ramis et foliis privaverunt.  Plorando enim ille cespes
+dicere cepit: <O Iacobe de Sancto Andrea, quid tibi profuit de me
+facere tibi schermum?  Quam culpam ego habeo de tua vita prava?> 
+Tunc Virgilius cepit Dantem per manus et duxit illum ad illum
+cespitem qui plorabat et ait ad eum: <Quis fuisti tu, qui per
+tantas puncturas effundis sermonem cum sanguine dolorosum?>  Et
+ille ad eos: <O anime>, inquit, <que venistis ad videndum
+stratium inhonestum quod disiunxit a me taliter frondes meas,
+rogo ut ipsas ad pedem tristis cespitis adunetis.  Ego enim fui
+de illa civitate que in Baptistam mutavit primum patronum.  Unde
+ipse primus patronus, propter istam mutationem, semper cum arte
+sua facit ipsam tristem.  Et nisi esset quod super passum Arni
+adhuc de eo remanet aliquod vestigium, illi cives qui postea
+ipsam refundaverunt super cineres qui de Attila remanserunt,
+frustra laborari fecissent.  Ego enim feci de propriis domibus
+michi furcas.  Unde ait in textu:
+
+     I' fe' giubbetto a me de le mie case.
+
+                        (^Inf.~ XIII. 151)
+
+	|1.  Non er'ancor di l@a Nesso arrivato.~  Nondum Nessus
+Centaurus in suum gironem redierat, quando autor secundum gironem
+intravit.  Qui quidem giro nil aliud est quam quoddam nemus
+silvestre, in quo quidem nemore ponit eos qui violentiam exercent
+contra se ipsos, corpus proprium occidendo et bona propria
+dissipando.  Primos poetice convertit in prunos; secundos vero
+ponit a canibus laceratos.
+
+	|7-9.~  Exemplificando declarat hic autor quale nemus est
+istud, dicens quod bestie, sive fere, que habitant inter Cecinam
+et Cornetum, que odio habent loca culta atque domestica, non
+habitant in locis ita asperis et silvestribus sicut est istud
+nemus.  Cecina autem et Cornetum sunt in maritima Tuscie.  Et est
+Cecina quidam fluvius qui transit per comitatum pisanum et ibi
+descendit in mare.  Cornetum vero est quoddam nobile castrum
+iuxta mare situm in patrimonio beati Petri.  Inter Cecinam itaque
+et Cornetum sunt nemora ita silvestria quod vix in mundo
+reperiuntur equalia.  In hiis itaque locis bestie silvestres que
+odiunt loca culta habitant atque recubant.  Et tamen nichil sunt
+respectu istius nemoris, de quo hic autor poetando pertractat.
+
+	^PRIMA COMPARATIO.~  Lictera plana est, et superius
+explanata.
+
+	|10.  Quivi le brutte Arpie lor nido fanno.~  In isto
+itaque nemore dicit autor fedas Arpias habitare.  Sunt autem
+Arpie quedam volucres infernales que habent vultus virgineos,
+alas et corpora plumis plena, et pedes unguibus acutis armatos.
+Et ponuntur hic ab autore pro rapacitate; nam, ut ait Fulgentius,
+^arpia~ grece, latine <rapina> {cf. Fulgentius, ^Myth.~ I. ix}. 
+Et re vera nulla maior rapacitas quam rapere sibi vitam, ut
+faciunt desperati.  Virgines autem ideo dicuntur, quia omnis
+rapina est arida atque sterilis; plumis abundant, quia omnis
+rapina rapta celat; acutis autem unguibus muniuntur, eo quod
+rapina semper rapacitati intendit.  Ab antiquis autem poetis
+Arpie <canes Iovis> dicuntur, eo quod canes sunt animalia apta ad
+rapiendum.  Unde Lucanus in VI+o~: Ut Stigiasque canes in luce
+superna / destituam {^Phars.~ VI. 733-734 (^adapted~)}.  Et
+Virgilius, VII ^Eneydorum~: Viseque canes ululare per umbram, /
+adventante dea {actually ^Aeneid~ VI. 257-258}.
+
+	Tres autem inter eas nomina sortiuntur: prima dicitur
+Ello, secunda dicitur Occipito, tertia vero Celeno.  Prima
+interpretatur <alienum tollens>, secunda <otius auferens>, et
+tertia <ablata celans>.  Et ista tria in rapina sive rapacitate
+concurrunt, scilicet aliena invadere, cito auferre, et ablata
+celare.  Et vere, nulla maior rapacitas vel rapina quam sibimet
+vitam auferre.  Rationabiliter igitur ab autore Arpie in isto
+girone ponuntur.  Si autem queras utrum istas aves natura
+producat, dico quod potius est credendum ipsas a poetis poetice
+esse fictas, quam a natura productas.  Unde Ovidius, VI
+^Fastorum~:
+
+     Sive igitur nascantur {text has ^nascuntur~} aves seu 
+                        carmine fiant {text has ^fiunt~}.
+
+                        {^Fasti~ VI. 141}
+
+	|11.  Che cacciar de le Strophade i Troiani.~  De istis
+insulis atque volucribus tertio libro ^Eneydorum~ facit Virgilius
+mentionem, sicut in Declaratione istius prime cantice, quam
+rithimice, o Lucane, tuo nomine dedicavi, breviter preostendi. 
+Iste enim insule, que Strophalide dicuntur, sunt in mari
+Grecorum.  Unde Virgilius eodem libro:
+
+     Insule Strophades Graio stant nomine dicte.
+
+                        {^Aeneid~ III. 210}
+
+In his itaque insulis erant iste volucres infernales que Arpie
+nuncupantur, de quibus Virgilius:
+
+     Tristius non illis monstrum, nec sevior ulla
+     Pestis et ira deum Stigiis sese extulit undis.
+     Virginei volucrum vultus, fedissima ventris
+     Pro luvies unceque manus, et pallida semper
+     Ora fame.
+
+                        {^Aeneid~ III. 214-218}
+
+	Ad istas itaque insulas, destructa Troya, Troyani cum XX
+navibus applicuerunt.  In quibus insulis dum Eneas dux eorum post
+captam venationem cum Troianis sederet ad mensam, ecce Arpie de
+montibus descendentes mensas stercoribus fedant, Troyanos
+molestant, et cibos invadunt.  Tunc surgunt ad arma Troyani et vi
+armorum volucres fugaverunt.  Et una earum que vocabatur Celeno,
+que secundum poetas ipsarum Arpiarum regina censetur, de qua
+Virgilius:
+
+     Una in precelsa consedit rupe Celeno,
+     Infelix vates, rupitque hanc pectore vocem:
+     Accipite hoc animis atque hec mea fugite dicta,
+     Que Phebus michi pater omnipotens, michi Phebus Apollo
+     Predixit, vobis Furiarum ego maxima pando.
+     Ytaliam petitis cursu ventisque vocatis:
+     Ibitis Ytaliam portusque intrare licebit.
+     Sed non ante datam cingetis menibus urbem
+     Quam vos dira fames nostreque iniuria cedis
+     Ambesas subigat malis consumere mensas.
+     Et his dictis, in silvam pennis ablata refugit.
+
+		   {^Aeneid~ III. 245-246; 250-258 (^adapted~)}
+
+	Audiens vero Anchises, pater Enee, quod tam duram et
+arduam famem passuri erant quod mensas vorare debebant, genu
+flexo in litore deos rogaturus, ad celum palmas extendit. 
+Virgilius:
+
+     At pater Anchises sparsis in litore palmis
+     Numina magna vocat meritosque indicit honores:
+     Dii removete minas, dii talem avertite casum.
+
+                        {^Aeneid~ III. 263-265 (^adapted~} 
+
+	Ideo ait in textu: <che cacciaron i Troiani / con tristo
+annuntio di futuro danno>.  Futurum enim damnum fuit illa famosa
+fames quam Eneas cum suis passus est in ripa Tyberis, ubi propter
+nimiam famem comederunt crustas panis, de quibus fecerunt
+incisoria.
+
+	|13.  Ale @anno late, colli et visi humani.~  Allegorice,
+rapina habet alas latas, quia est ad rapiendum solicita atque
+velox, visus humanos quia curialiter decipit atque fallit, pedes
+acutos unguibus, quia rapit, et magnum ventrem atque pennatum,
+quia multa recipit, et que rapit abscondit.
+
+	|40-44.~  Secundum legem divinam et humanam, effusio
+sanguinis clamat.  Unde in libro Genesis ait Deus ad Caym,
+postquam occiderat fratrem suum {cf. ^Gen.~ 4.10}: <Quid
+fecisti?>  Et cum ille negaret se homicidium perpetrasse, ait ei
+Deus: <Vox sanguinis fratris tui clamat ad me de terra>.  Et si
+omnis effusio clamat, spetialiter tamen illa quam de suo proprio
+sanguine quisquam facit.  Effusio enim sanguinis unde mors
+sequitur, occultari vel celari non potest.  Et ideo ponit istos
+qui se occidunt nasci tanquam arbores in Inferno, innuens quod
+tale peccatum occultari non potest.  Ideo ait in textu: <de la
+schegia rotta usciva inseme / parole et sangue>.
+
+	^SECUNDA COMPARATIO.~  Comparatio talis est: Quando unus
+stipes viridis ab uno capite comburitur, ab alio capite duo
+facit: primum est quia de illo capite exit aqua, scilicet de
+capite non combusto; secundum vero quia cum illa aqua similiter
+exit ventus.  Dicit itaque hic autor quod isto modo de illa
+fractura quam fecit in pruno duo exiverunt simul et semel,
+scilicet verba et sanguis.
+
+	|58-61.~  Iste fuit Petrus de Vineis, natione capuanus,
+summus magister et doctor legum, et magne Curie Frederici tertii
+Imperatoris primus iudex.  Fuit enim adeo magnus iudex, quod dum
+quondam semel populus romanus dicto Imperatori peteret ut leges
+confusas et obscuras declararet, ait Imperator: <Ite ad Petrum de
+Vineis>.  Unde de petitione populi extant versus:
+
+     Cesar amor legum, Frederice, dignissime regum,
+     Causarum telas nostrasque resolve querelas.
+
+Similiter et de responsione Imperatoris:
+
+     Pro vestra lite censorem iuris adite
+     Hunc qui iura dabit, vel per nos danda rogabit:
+     Vinea cognomen, iudex Petrus est sibi nomen.
+
+	Hic itaque tantus vir, propter suas clarissimas
+probitates, in tantum Imperatori erat carus atque dilectus, quod
+in omnibus agendis affirmative et negative, active et passive,
+dictum suum dominum gubernabat.  
+
+	|62-69.~  Ista meretrix, que de domo Cesaris nunquam
+oculos meretriceos dicitur removere, est invidia, que semper
+dolet de felicitate aliena.  Ista itaque meretrix inflammavit
+animos principum et baronum contra felicitatem Petri de Vineis. 
+Et isti inflammati taliter inflammaverunt Augustum, quod Augustus
+ipsum Petrum, licet esset fidelissimus, carceri mancipavit et
+tanquam reum lese maiestatis, ut diutius in miseria viveret,
+bacinis igneis excecavit; quod ille adeo impatienter tulit quod
+fractis ad murum cervicibus expiravit, dicens, ut dicitur: <Ex
+quo privatus sum visione clarissime faciei domini mei, volo et
+propria vita privare me ipsum>.  
+
+	^PRIMUM NOTABILE.~  In isto notabili tria breviter
+continentur: primum est quod invidia semper regnat in curiis
+principum et magnatum; secundum est quod est comune vitium omnium
+curiarum; tertium est quod istud vitium mortem habet in dictis
+curiis operari.
+
+	|Morte et comune de le corti vitio.~  Vult hic dicere
+Petrus de Vineis, quod istud vitium invidie est mors et comune
+vitium omnium curiarum; nam in omni curia ille qui maior est ab
+aliis habetur odio.  Unde Seneca, III+o~ ^Tragediarum~
+{^Phoenissae~ 655 (^adapted~)}: Simul ista duo mundi conditor
+posuit Deus, odium scilicet atque regnum.  Sola vero miseria
+caret invidia, secundum sententiam Tullianam.
+
+	|70-72.~  Animositas enim magnifici viri indigna ferre
+non potest. Ideo animus Petri de Vineis, dum indigna gustavit,
+credens dedignationem fugere moriendo, se ipsum morte voluntaria
+interfecit.  Sed in hoc dedignationem non fugit, quia ipsam ad
+inferos secum duxit.  Unde infra ait in textu: <Et se alcun di
+voi al mondo riede, / conforti la memoria mia, che giace>, etc. 
+Cum vero dedignatione sic motus se ipsum occidit, de iusto factus
+est iniustus.  
+
+	|82-84.~  ^SECUNDUM NOTABILE.~  In hoc notabili duo
+notare debemus: Primum est quod videndo miserias aliorum, ad
+compassionem ipsa miseria excitare nos debet.  Unde glosa super
+illo verbo: Ihesus autem misericordia motus, dicit quod
+misericordia semper misericordiam intuetur.  Istud enim est
+proprium animi bene dispositi, et gaudere bonis rebus et dolere
+contrariis, ut ait Tullius in libro ^De Amicitia~ {^De Amicitia~
+XIII. 47 (^adapted~)}.  Et Apostolus {^Ep. ad Romanos~ 12.15}:
+Gaudere cum gaudentibus et flere cum flentibus.  Secundum est
+quod ipsa pietas intantum mentem absorbet aliquando, quod ea que
+intus concipimus, per verba foris explicare non possumus.  Ideo
+ait: <Io non potrei -- subaudi loqui -- tanta piet@a m'accora>.
+
+	|87-90.~  Hic movet Virgilius Petro de Vineis duas
+breviter questiones: Prima est ista: qualiter et quomodo in hiis
+prunis anima carceretur; secunda, utrum anima sic ligata et
+carcerata possit unquam a membris talibus liberari.  Ad primam
+questionem taliter dat responsum, dicens videlicet quod cum ferox
+anima recedit a corpore unde expulit se metipsam, Minos iudex et
+arbiter inferorum mittit eam ad septimum circulum, in quo VII
+circulo est iste secundus giro: et ibi germinat sicut semen
+spelte protinus seminatum.  Ad secundam vero questionem dicit
+quod ibunt ad iudicium quemadmodum alie anime pro suis corporibus
+rehabendis, sed non quod aliqua suo corpore vestiatur.  Sed quia
+determinationes sive responsiones istarum duarum questionum
+contra veritatem catholice fidei aliqualiter esse videntur, ideo
+prudens lector animadvertat quod hic et in quibusdam aliis locis
+tanquam simplex poeta ad cuius officium spectat animas
+transformare recipiendus est autor iste.  Et nichilominus,
+secundum aliquam demonstrationem possumus ad hanc pertingere
+veritatem, inquantum non heretice sed poetice penas talium
+poetizat.  Beatus tamen Augustinus et omnes philosophi dicunt
+quod anima regit corpus triplici vita, scilicet vita vegetativa,
+sensitiva, et intellectiva.  Sed cum homo desperat et sibi
+metipsi manus inicit, videtur totaliter carere intellectu quantum
+ad animam, et sensu quantum ad corpus.  Nam secundum beatum
+Paulum {^Ad Ephesios~ 5.29}, nemo unquam carnem suam odio habuit. 
+Cum vero desperati desperant, omnino intellectu et sensu carere 
+videntur.  Anima autem vegetativa, quia intellectum et sensum non 
+habet, ut patet in plantis, huic operationi consentire  non
+potest.  Et ideo autor tales animas desperantes in plantas 
+silvestres poetando convertit.  Et nichilominus, licet
+convertantur  in plantas, et intellectu et sensu vigent, quia
+aliter puniri non possent.  Et hoc manifeste apparet in textu,
+ubi ponitur quod dolent et plorant, ibi: <I' sentia d'ogni parte
+trarre guai>.  Et etiam quod istos dolores cognoscunt et sciunt
+se pati propter desperationis scelera que patrarunt, ibi:
+
+     I' son colui che tenni ambo le chiavi
+     del cor di Federigo, etc.
+
+                        (^Inf.~ XIII. 58-59)
+
+Et infra: <L'animo mio, per disdegnoso gusto> {*v. 70*}, etc.; et
+ibi: <Io fe' giubetto a me de le mie case> {*v. 151*}.
+
+	^QUESTIONES~ sunt iste: Quomodo et qualiter anima in
+illis prunis ligatur, et si unquam a membris talibus liberatur.  
+
+	|99.  quivi germoglia come gran di spelta.~  Hic queritur
+quare autor potius ponit quod ad similitudinem spelte germinant
+desperati quam ad similitudinem seminum aliorum.  Respondeo:
+Spelta, secundum naturales, dum seminatur multotiens convertitur
+in frumentum, et sic a sua propria et pristina qualitate
+degenerat.  Similiter homines desperati, dum vita sibi metipsis
+auferunt, a propria eorum natura sive qualitate degenerare
+videntur.  Ideo in Inferno seminati, non homines sed silvestres
+arbores oriuntur.  Sed tunc queritur, cum spelta seminatur sive
+transformatur in melius, quare homo, cum sit animal rationale
+secundum Philosophum, et secundum Augustinum dignissima
+creaturarum, quare potius transformatur in peius.  Videtur enim,
+secundum istam comparationem, quod deberet in melius
+transformari.  Respondeo: In damnatis enim non est beata sed
+damnata perfectio: ideo dum transformantur, non in melius sed in
+peius transformari dicuntur. In Inferno enim, secundum Iob,
+nullus est ordo, sed sempiternus horror inhabitat.
+
+	|103.~  Quod autem ad secundam questionem respondet
+dicens: |Come l'altre verrem per nostre spollie~, etc.,
+resurrectionem non negat, nec etiam corporum coniunctionem, quia
+manifeste dicit quod ad iudicium ibunt pro suis corporibus
+rehabendis.  Et manifestum est quod corpora rehabere non possent
+nisi prius de terre pulvere surrexissent, et sic resuscitata
+corpora readsument.  Quod autem dicit: <Qui le strascineremo>,
+hoc ponit ad maiorem penam quam in suis corporibus sustinebunt. 
+Quia sicut illa corpora cum quibus anime melius meruerunt melius
+debent in celesti gloria munerari, sic, eodem modo, illa corpora
+cum quibus anime peius fecerunt, peius debent in infernali pena
+puniri.  Quod autem dicit quod corpora talium debent ad suas
+umbras suspendi, hoc ponit ad ostendendum quod homines desperati,
+sicut sensu et ratione carere videntur dum sibi manus iniciunt,
+ita post resurrectionem, in qua augmentabitur et duplicabitur
+penam, tantam penam habebunt quod corpora ex quibus se ipsos
+eiecerunt quasi non sentient; sicut freneticus qui, dum dolorem
+insoportabilem in capite patitur, sibi ipsi caput non habere
+videtur.
+
+	|105.  ch$e non @e giusto aver ci@o c'uom si tollie.~ 
+Anima, secundum Philosophum, est perfectio organici corporis
+potentialem vitam habentis; et ideo nec corpus sine anima, nec
+anima sine corpore perfecta a philosophis esse censetur.  Sed cum
+anima se ipsam privat sua perfectione, videtur isti autori,
+secundum rationem loquendo, non secundum fidem procedendo, quod
+non sit iustum rehabere suam naturalem perfectionem, qua se ipsam
+desperando privavit.  Privat autem se homo ista perfectione
+quandocunque quovismodo per aliquam violentiam se occidit. 
+Moraliter vero occidit homo se ipsum VII modis: Superbus admodum
+arreptitii precipitat se de alto, sicut de Anthyoco legitur II
+Machabeorum 9 {II ^Mach.~ 9.7}: Contigit illum impetu euntem
+cadere et gravi collisione membra vexare.  Augustinus: Ve illi
+cuius est auriga superbia; necesse est enim ut impreceps eat. 
+Superbus impetu vadit, quia sine moderamine sublimia appetit.  De
+curru cadit, quia animadversione divina locum dignitatis amittit,
+iuxta illud Claudiani: Tolluntur in altum ut lapsu graviore ruant
+{^In Rufinum carmen~ III. 22-23}.  Membra collisione vexat, quia
+officiales et familiares suos secum precipitat.  Sapientia XVI
+{^Liber sapientiae~ 16.14}: Homo per malitiam occidit animam
+suam.  Invidus admodum intoxicati moritur dolore felicitatis
+aliene.  Unde quidam: Iniustus invidia nichil est que protinus
+ipsum actorem perimit.  Psalmista {^Ps.~ 7.17}: Convertetur dolor
+eius in caput eius.  Est enim invidia admodum cuiusdam parvi
+serpentis qui vocatur seps, qui non solum carnem, sed etiam ossa
+veneno consumit.  De quo Lucanus {^Phars.~ 9.723}: Ossaque
+dissolvit cum corpore tabificus seps.  Proverbiorum 14 {^Prov.~
+14.30; from Br. Cha wrongly has ^Prov. 12~}: Putredo ossuum
+invidia.  Unde Augustinus: Cum per omne vitium antiqui hostis
+virus humano infundam, in zelo invidie tota viscera sua serpens
+concutit.  Iracundus admodum frenetici proprio gladio se perimit,
+quia prius in se quam in alium sevit.  Unde Prudentius: Ipsa sibi
+hostis est vesania, seque furendo / interimit; moriturque suis
+ira ignea telis {^Psychomachia~ 160-161}.  Iob {^Iob~ 5.2}: Virum
+stultum interficit iracundia.  Unde significatur per Saulem, I
+Regum ultimo {^I Regum~ 31.4}: Arripuit Saul gladium suum et
+irruit super eum.  Psalmista {^Ps.~ 36.15}: Gladius eorum in cor
+ipsorum.  Accidiosus admodum letargici moritur dormiendo, sicut
+de Sisar legitur Iudicum 4 {^Iudicum~ 4.21}: Qui soporem morti
+continuans defecit et mortuus est.  Sisara interpretatur exclusio
+gaudii; nam accidia cum sit diffidentia eternaliter habet
+delectationem sibi adnexam.  Augustinus: Admodum ydropici
+deperit siti.  Unde Iob XVIII {^Iob~ 18.9}: Exardescet contra eum
+sitis.  Nec mirum quia inhiat {^Br.~ inbiat} aquis salsis, idest
+rebus mundanis, que sitim non sedant, sed provocant.  Unde
+Dominus, Iohannis quarto {^Ioannes~ 4.13}: Qui biberit ex aqua
+hac, sitiet iterum; qui autem biberit ex aqua quam ego dabo ei,
+non sitiet unquam, quia sola divina gratia sitim cupiditatis
+extinguit.  Gulosus admodum volucris laqueo se strangulat propter
+escam.  Unde Ecclesiasticus XXXVII {^Ecclesiasticus~ 37.34}:
+Propter crapulam multi obiverunt; qui autem abstinens est,
+adiciet vitam.  Luxuriosus admodum bruti animalis precipitat se
+in foveam luxurie.  De qua Proverbiorum XXIII {^Prov.~ 23.27}:
+Fovea plena profunda est meretrix.  Hec fovea plena est demoniis;
+unde Proverbiorum 9 {^Prov.~ 9.18}: Ignoravit quod gigantes ibi
+essent, etc.  In hanc foveam fetore plenam permittit Dominus
+precipitari superbos, ut turpitudine carnis curetur superbia
+cordis.  Unde Iob X {^Iob~ 10.16}: Propter superbiam quasi leenam 
+capies me.  Ubi dicit Gregorius: Dum leena catulis suis escam
+querit, in foveam cadit.  Sic mens humana, dum carnis desideria
+appetit, in foveam corruptionis ruit.  Hos omnes increpat
+Psalmista {^Ps.~ 61.4}: Quousque interficitis universi vos.
+
+	|Non @e giusto aver ci@o c'uom si tollie.~  ^TERTIUM
+NOTABILE.~  Secundum enim iura, ille qui aliquo iure seu
+dignitate privat aliquando semetipsum, illud ius seu dignitatem
+sine superioris arbitrio rehabere non potest.  Nam si clericus
+vel sacerdos amputat sibi digitum vel aliquod membrum, ut
+sacerdotio reprobus habeatur, missam ulterius sine dispensatione
+domini Pape cantare non potest.
+
+	|109-110.~  Postquam autor de desperatis qui se occidunt
+in precedentibus pertractavit, nunc de illis desperatis qui bona
+sua consumunt intendit in subsequentibus pertractare.  Et ponit
+animas talium a nigris et horridis canibus infestari.  Iste autem
+canes sic horride, nigre, et famelice ac tam avide ad istorum
+animas insequendum ac etiam lacerandum, tenent typum atque
+figuram indigentiarum que sequuntur homine{*m*} in hac vita,
+postquam bona sua indiscrete consumpsit.  Sicut patet in
+Evangelio beati Luce {^Lucas~ 15.14 ff.} de filio prodigo, qui
+postquam consumpsit substantiam suam vivendo luxuriose, cepit
+egere et adhesit uni civium regionis illius qui misit illum in
+villam suam ut pasceret porcos, et cupiebat implere ventrem suum
+de siliquis quas porci manducabant.  Et hoc bene narrat poetice
+Claudianus, libro primo ^Contra Rufinum~: Luxus, inquit,
+depopulator opum quem semper adherens infelix humili gressu
+comitatur egestas {^Contra Rufinum~ I. 35-36}.
+
+	|111-114.~  ^TERTIA COMPARATIO.~  Lictera plana est.
+
+	|115.  Et ecco due da la sinistra costa,~ etc.  Isti duo
+fuerunt Lanus de Senis et Iacobus de Sancto Andrea, natione
+paduanus. Lanus fuit quidam dives homo de Senis, qui suas
+facultates indiscrete fundebat; sed antequam omnia sua bona
+consumpsisset, mortuus est in illo bello in quo Senenses ab
+Aretinis debellati fuerunt, apud quandam plebem Aretini
+districtus que dicitur al Toppo.  Ideo Iacobus, qui eum
+insequebatur, dum ipsum sequi non posset, in vituperium ei dixit:
+<s@i non furo accorte / le gambe tue a le giostre dal Toppo>.  Et
+quia iste Lanus paupertatem non vidit, ut dictum est, quia fuit
+bellica morte preventus, ideo, figurative loquendo, ponit autor
+ipsum a canibus evasisse.  Iacobus autem de Sancto Andrea,
+paduani districtus, fuit homo ditissimus, qui inordinate vivendo
+omnia sua bona consumpsit, et ultimo ad ultimam paupertatem
+devenit.  Ideo autor typice ponit ipsum membratim a canibus
+laceratum.
+
+	|130-131.~  Postquam autor in precedentibus de duobus
+desperationum generibus exemplariter pertractavit, nunc
+pertractat de tertio genere, quod est utrunque genus in homine
+reperire.  Et ponit hic, figurative loquendo, quendam civem
+florentinum de Mozzis, qui vocatus fuit Ruccho, qui in utramque
+incidit desperationem; nam primo omnia sua bona indiscrete
+consumpsit, et postea laqueo se suspendit.  Ideo autor ponit
+ipsum et in prunum conversum, et a canibus laceratum.  Et sic,
+iuxta verbum Isaie prophete {*^Ieremias~ 17.18*}, iste est
+duplici contritione contritus.
+
+	|143-144.~  Civitas ista est civitas florentina, que
+tempore paganorum habuit patronum Martem, qui a paganis dicitur
+deus belli, tempore vero christianorum habuit patronum Iohannem
+Baptistam.  Ad quorum evidentiam clariorem est sciendum quod,
+quando Romani una cum Phesulanis civitatem Florentie
+[h]edificaverunt {Cha has ^ledificaverunt~}, volentes diis templa 
+erigere, sapientes consulerunt cuinam deo et in quo loco
+civitatis templum tali deo edificare deberent.  Qui a Marte
+victoriam de Phesulanis se habuisse credentes, et per astrorum
+scientiam contemplantes quod in quadam parte ipsius patrie ipse
+deus belli, sive potius ipse planeta, suam influentiam influebat,
+dederunt consilium quod ipsi Marti templum venerabile
+consecrarent, in illa scilicet parte ubi, secundum astrologiam,
+suam influentiam cognoverunt, ut dictum est.  Unde cives
+pulcerrimum templum forma rotundum, ad honorem ipsius Martis,
+secundum habita oracula, construxerunt.  Postquam vero Florentini
+ex paganis effecti sunt christiani, ab illo templo Martis
+spurcitiam eliminaverunt, et illud templum in nomen et honorem
+gloriosi Baptiste conmutaverunt.  Unde, tempore paganorum,
+patronus illius civitatis fuit Mars; tempore vero christianorum
+est modo beatus Iohannes Baptista.
+
+	|145.~  Quia Florentini claudicant in duas partes,
+secundum Elye sententiam, quia et beatum Iohannem in patronum
+assumunt et eum ut debent fideliter non honorant, et Martem
+totaliter non expellunt, ideo iusto Dei iudicio in manu primi
+patroni adhuc esse videntur.  Quod enim secundum patronum non
+bene et plene honorent patet, quia illo die in quo venit festum
+sue decollationis nec ad bella procedunt, nec iter arripiunt, nec
+uxores ducunt, nec pannos incidunt, nec aliquod audent notabile
+exercere.  Unde tali die per totum annum paganizare videntur. 
+Quapropter ipse beatus Iohannes suis maxime diebus ipsos
+Florentinos relinquit, nec ipsos a Marte defendit.  Quod
+exemplariter summe patet.  Nam in die sue decollationis a Pisanis
+debellati fuerunt apud Montem Catinum; in quo bello fuit
+debellatus dominus Phylippus, princeps Tarentinorum, filius
+scilicet Karoli Secundi, et dominus Petrus, germanus dicti
+principis fuit in Guisciana submersus, et filius suus, nomine
+Karolus, occisus.  In die vere sue conceptionis fuerunt dicti
+Florentini a Lucanis apud Altum Passium debellati.  Unde Mars cum
+videt eos beati Iohannis auxilio et patrocinio spoliatos, ipsos
+in sua arte detinet occupatos.  Ars autem Martis est effusio
+sanguinis.  Nam ut ait beatus Ysidorus, XVIII libro
+^Ethymologiarum~ {cf. ^Etym.~ XVIII. iii. 5}: Romanorum vexillum 
+ideo coceo, idest colore rubeo, decoratur, quia Mars gaudet in 
+sanguine.
+
+	|146-147.~  In capite nanque Pontis Veteris, qui est in
+medio civitatis Florentie, adhuc est aliquod fragmentum sive
+vestigium unius statue sive ymaginis ipsius Martis, cui adhuc
+aliqualis reverentia exhibetur; quia ponunt ibi in exitu mensis
+Martii florum serta cum ramis, propter quod ipse Mars non ita
+forsan contra eos aspere commovetur; aliter autem ipsam funditus
+destrueret civitatem. 
+
+	|148-150.~  Attila fuit rex quidam de partibus Germanie,
+et fuit rex Vandalorum, qui totam fere Ytaliam bello consumpsit. 
+Ideo fuit denominatus <flagellum Dei>^[[2~.  Inter alia vero mala que
+fecit, fuit quod destruxit Aquilegiam, Paduam, et Florentiam;
+nam totam Florentiam flamma combussit.  Ideo dicitur in textu:
+<sopra 'l cener che d'Attila rimase>.
+
+	|151.  I'fe' giubbetto a me de le mie case.~  Iste qui
+fecit de propriis domibus sibi furcas fuit Rucco de Mozzis, ut
+superius est expressum {*comm. ad vv. 130-131*}.  Giubbettum vero
+est quidam locus Parisius, ubi latrones suspenduntur ad furcas.

@@ -1,0 +1,19 @@
+..COMM:
+Costa
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Paolo Costa
+..PUBD:
+1819-21
+..PUBL:
+La Divina Commedia di Dante Alighieri con le note di Paolo
+Costa, e gli argomenti dell'Ab. G. Borghi... Seconda edizione
+originale italiana.  Firenze, Fabris, 1840.
+..DENT:
+Typed
+..EDTR:
+Janet Stephens
+..LODD:

@@ -1,0 +1,8 @@
+{LIST}
+
+;
+; Display list of previous queries
+;
+
+:SET #QMASK TO ~%Q. (%D documents)  %S200~
+:BRS QUERIES

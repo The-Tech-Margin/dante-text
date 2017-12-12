@@ -1,0 +1,3 @@
+#! /bin/sh
+set -x
+sort +0 -1 +1n -2 inf/bib.cit purg/bib.cit para/bib.cit > bib.cit

@@ -1,0 +1,10 @@
+A series of characters including plain and accented.
+
+a b c d e f - plain lowercase
+A B C D E F - plain uppercase
+@a @e - grave-accented a and e
+@A @E - grave-accented A and E
+$a $e - acute-accented a and e
+$c $C - cedilla'd c and C
+,a ,A - umlauted a and A
+#u #U - circumflexed u and U

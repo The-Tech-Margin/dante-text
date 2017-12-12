@@ -1,0 +1,200 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.Dartmouth.EDU (5.65/DEC-Ultrix/4.3)
+	id AA16001; Thu, 2 Sep 1993 16:46:03 -0400
+Received: from Princeton.EDU by dartvax.dartmouth.edu (5.65+D5/4.5HUB)
+	id AA11243; Thu, 2 Sep 93 16:45:54 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.97/princeton)
+	id AA24238; Thu, 2 Sep 93 16:45:50 -0400
+Received: from ernie.Princeton.EDU by phoenix.Princeton.EDU (5.65c/1.113/newPE)
+	id AA06991; Thu, 2 Sep 1993 16:45:49 -0400
+Received: by ernie.Princeton.EDU (920330.SGI/Simple Client)
+	id AA04361; Thu, 2 Sep 93 16:45:48 -0400
+Message-Id: <9309022045.AA04361@ernie.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Thu, 2 Sep 1993 16:45:48 EDT
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU
+
+Steve, I have been checking over the opening screens of the DDP
+and have a series of changes and additions.  I figured I might as
+well get this over with and let you find time for it at your
+leisure (?).
+
+	This will be a bit tricky, I'm afraid.  If you print out
+the two "table of contents" screens it should make perfect sense. 
+Let us hope so.  I'll separate the needed changes into
+categories.
+
+
+1) Commentaries among those already running that need to be moved
+in this list AND IN THE DATABASE ITSELF:
+
+	Vellutello, 1544 should FOLLOW Guiniforto, 1440
+
+	Steiner, 1921 should FOLLOW Casini-Barbi, 1921
+
+
+2) Commentaries that I believe are ready to be added (asterisk
+indicates, as before, that we haven't finished editing; sq.
+bracket indicates what is available _now_ of these comms. [this
+is a new feature]):
+
+	Anonymous lombardus [lombardus], 1324[?]
+
+   {put between Jacopo Alighieri and Guido da Pisa}
+
+
+	*Pietro di Dante [pietro2], 1355 [Inf.]
+
+   {put bet. Pietro di Dante and Codice Cassinese}
+
+
+	Biagioli, 1818-19 {I think he was done by A. Rossi}
+
+   {put between Portirelli and Costa}
+
+
+	*Rossetti, 1826-27 [Inf.]
+
+   {put between Costa and Tommaseo}
+
+
+	Andreoli, 1856
+
+   {put between Tommaseo and Longfellow}
+
+
+	Bennassutti, 1864-68  {I _think_ he's been done}
+
+   {put between Longfellow and Di Siena}
+
+
+	Poletto, 1894
+
+	Oelsner, 1899-1901 {I _think_ he's been done}
+
+   {put BOTH between Berthier and Tozer}
+
+
+	*Carroll, 1904-11 [Inf.]
+
+   {put between Ruskin and Torraca}
+
+
+	Mattalia (1960)
+
+	Chimenz (1962)
+
+   {put BOTH between Sapegno and Fallani}
+
+
+3) Dates that need to be changed for those comms. already listed
+on the two opening screens.  Where there is no change, I've made
+no indication.  What I've put is only what now should appear.
+
+Jacopo della Lana [lana], 1324-28
+
+Guido da Pisa [guido], 1327-28
+
+Codice cassinese [cassinese], 1350[??] {NB: note lower case "c",
+	also note "??" to express supreme dubiety}
+Benvenuto da Imola [benvenuto], 1380
+
+Giovanni da Serravalle [serravalle], 1416-17 {note added 1st name}
+
+Vellutello, 1544 [through Purg. X]
+
+Lombardi, 1791-92
+
+Portirelli, 1804-05
+
+Costa, 1819-21
+
+Tommaseo, 1837 [ed. of 1865]
+
+*Longfellow, 1867 {date OK; isn't he finished? if so, delete *}
+
+Bianchi, 1868 [1844]
+
+Scartazzini, 1874-82 [ed. of 1900]
+
+Berthier, 1892-97
+
+Grandgent, 1909-13
+
+Mestica, 1921-22 [1909]
+
+Grabher, 1934-36
+
+Pietrobono, 1946 [1924-30]
+
+Momigliano, 1946-51
+
+Porena, 1946-48
+
+Sapegno, 1955-57
+
+Padoan, 1967
+
+Singleton, 1970-75
+
+
+4) A query.  We have not indicated that partial comms. are such;
+I mean the ones that their authors rather than our editors left
+incomplete-- e.g., Boccaccio is only for Inf. 1-17.  But I don't
+see much room to do this.  Nonethless, I include here the
+pertinent info. in case there is a way to show exactly what
+incomplete comms. contain:
+
+Jacopo Alighieri, 1322 (Inf. only)
+
+Anonimo lombardo, 1324 (Purg. only)
+
+Guido da Pisa, 1327-28 (Inf. only) 
+
+Anonimo selmiano, 1337 (Inf. only)
+
+Boccaccio, 1373 (Inf. I-XVII only)
+
+Guiniforto, 1440 (Inf. only)
+
+Castelvetro, 1570 (Inf. I-XXIX only)
+
+Di Siena, 1867-70 (Inf. only)
+
+Padoan, 1967 (Inf. I-VIII only)
+
+
+5) At the bottom of each screen there runs a legend.  For Screen
+1, we say "An asterisk indicates a partial commentary"; for
+Screen 2, we say that, and then add: "Some pub. dates are
+approximate."
+
+Two things I'd like to change: The way we desribe what an
+asterisk does is ambiguous: we might be describing ALL incomplete
+comms. or only the ones WE have left incomplete, or both.  Can we
+say this? 
+
+	"Asterisks indicate partially edited commentaries."
+
+As for the dates of public., only the early ones are really
+subject to question.  Can we change this phrase to the following?
+	
+	"Some pub. dates, partic. of early comms., are approximate."  
+
+And can we put that on the FIRST screen, where it will be
+relevant (while it is not really on the 2nd one)?
+
+
+6) Last.  Can we indicate at the end of the second screen that
+users are invited to leave comments, suggestions, and notice of
+typos by sending mail to us at our regular mail address or by
+using the "Special Dante Functions" {right name?} that can be
+reached from the Options menu?  We really should make an effort
+to get help (it may be smtg. of a bother, but until and unless it
+becomes ovewhelming, I can handle it).  As far as I know I alone
+have up to now been picking up on typos (just as well, since
+we're going to clean a lot of them up before the next load).
+
+OK, that takes care of it.  All the best, Bob
+

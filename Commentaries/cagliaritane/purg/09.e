@@ -1,0 +1,65 @@
+	|4.~  ^De giemme~.  la luna era el lo segnio de lo scorpione.  el sole 
+in quello de l'ariete.  si che quando la luna era presso a corcarse lo 
+sole che li era d'altra parte oposito era presso a levarsi.  et per@o 
+dice che de la nocte si erano andate pi@u che le due parti et quasi la 
+ura del sole.  voleva d[ire] dante ch'era presso a d@i l@a due dante 
+era.  cio@e dante dice che 'l sole se leva apare el lo nostro orizonte. 
+ (ove) se l[e]va el sole l@a.  et a noi tramonta.  etc.
+
+	|22.~  ^Essare mi parea~.  Aganimede fu de la schiacta reale de' 
+troiani.  et fu robbato da giove portate in cielo per suo pincerna.  
+cio@e che 'l fece suo servidore che li dava a bere a la taola et av@ia 
+caciata una dolzella che giunone la moglie de giove li av@ia posta 
+prima.  perch@e sempre giuno fo poi nemica de' troiani.
+
+	|55.~  Lucia @e decta luce doppo la gracia preveniente de antecedente 
+merto.  et venuta come apare el l'incominciamento del primo suo libro.  
+dove tracta ed beatrice.  dove dice.  luci[a] [nemica] di ciascun 
+crudele.
+
+	|76.~  ^viddi una porta~ et tre gradi per ivere ad essa.  et uno 
+portieri.  ci@o s'entende il sacerdote che ci confessa.  l'uno scalieri 
+ch'@e cotanto bianco pulito terso @e la vera perfecta contrizione con 
+che l'uomo se riconossca dei sui pecati.  et che se riconosca com'elli 
+@e pecatore.  et non s'enganni s@e medesmo.  el secondo @e la dollorosa 
+satesfacione oscura traversa de rendare l'altrui.  el terzo la 
+penitencia che ssi fa col proprio corpo de l'omo.  et dice che sedeva 
+in sullo limitare del diamante.
+
+	|100.~  lo terzo @e porfido vermeglio.  di colore de sangue che 
+significha la penitenza de la propria carne del corpo del pecatore.  
+sopra questo ten@ia ambo le piante l'angielo de dio cio@e 'l sacerdote 
+sedendo in sulla soglia che mmi sembiava pietra di diamante.  vole 
+segnificare che quando l'uomo viene al grado de la penitenza ch'elli e' 
+i tegnia su amendue li piei che se actua per lo effecto del buono.... 
+ch'elli oservi.  et stia dricto sedendo in sullo diamante.  ch'ei non 
+vacilli ma sia sempre costante el le virt@u operare.  facendo cos@i 
+semo tracti de le mani d'inferno et posti nelle mani de l'angielo che 
+ce apre 'l purgatorio.
+
+	|115.~  ^Ciennare o terra~ che secca se cavi.  sono vestimenti del 
+dricto onesto saccerdote.  de tera avendo sempre resp[ect]o come deveno 
+tucti per la morte returnare in terra.  et de socto da quel trasse due 
+chiavi.  la bianca de l'ariento significa che 'l prete d@ia exere con 
+scienzia de conosciere li pecati mortali et minori et magiuri.  et 
+cos@i exere discreto.  come si convene de sapere sciogliere ei nodi dei 
+pecatori.  et per@o dice de questa chiave @e quella che vole tropp'arte 
+d'ingiegnio perch'ell'@e quella che scioglie i noni (^nodi?~) dei 
+pecatori.  Quella de l'oro @e quella de la licenza data da dio de 
+perdonare e questa @e la chiave pi@u cara.  E una spada ennuda aveva im 
+mano.  segnifica che 'l sacerdote d@ia exe[re] pieno de la lucente 
+giustizia.  ma senza queste due no s'apre mai la porta s'elle non se 
+volgono deritte per l'engiegnie de la toppa.  Da piero l'ebe et d@ia 
+non errare.  ma s'elli erra.  erri prima en fare misericordia che 
+giustizia.  pure che 'l pecatore li si gietti ai pi@e et dimandi 
+misericordia.
+
+	|130.~  ^poi pinse~ l'uscio et aperse dicendo (^om.~) che significa de 
+n[on] retornare a commetere pi@u pecati.
+
+	|136.~  A l'aprire non rugghi@o n@e se mostr@o si agra tarpea quando 
+julio cesare la vuotoe del tesoro ch'av@ia quando metello la volse 
+defendare.  esso metello buono li fu tolto.  dicese che quando s'apriva 
+la decta tarpea per tucta roma s'udiva el rughiare che faciva la decta 
+porta.
+

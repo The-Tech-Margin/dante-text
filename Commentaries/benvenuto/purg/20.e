@@ -1,0 +1,891 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS, ^in quo tractat de eisdem
+avaris sub titulo cuiusdam Hugonis Ciapettae de Parisiis olim
+prolis et originis regum francorum, qui multa dixit de factis
+illorum regum ac etiam de modo liberationis animarum; et sicut
+descussus est mons propter liberationem Statii doctoris.~
+
+	|Proemio.~  ^CONTRA miglior voler, voler mal pugna.~ 
+Postquam in praecedenti capitulo poeta noster tractavit et
+determinavit de generali poena et purgatione avarorum, nunc
+consequenter in praesenti XX capitulo docet vitare et fugere
+istud commune malum humani generis duplici via, scilicet,
+considerando bonos effectus largitatis et voluntariae
+paupertatis, et effectus pravos avaritiae et cupiditatis.  Et
+istud capitulum in quo autor hostiliter insurgit contra avaritiam
+infestis armis, videtur dividendum in quatuor partes generales;
+in prima quarum poeta detestatur avaritiam et commendat
+liberalitatem.  In secunda introducit unum nobilem spiritum
+avarum et principem multorum avarorum, qui recenset magna mala
+committenda per successores suos, impellente avaritia, ibi: ^O
+anima.~  In tertia dictus spiritus transcurrit enormia peccata
+miserorum avarorum mira brevitate, ibi: ^Ci@o ch'io diceva.~  In
+quarta et ultima describit quoddam mirabile accidens quod emersit
+ibi, ibi: ^Noi eravam.~  
+
+	|1-9.~  Ad primum veniens dico, quod poeta noster
+detestatur avaritiam cum commendatione largitatis; sed primo
+praemittit continuationem, et vult breviter dicere, quod recessit
+ab illo spiritu quamvis non contentus, quia affectabat adhuc
+loqui cum eo, sed non potuit.  Dicit ergo: |Voler~, scilicet,
+bonum, quale erat meum, |mal pugna~, scilicet, iniuste et
+indebite, |contra miglior voler~, quale erat velle illius
+Adriani.  Poeta enim volebat adhuc loqui cum illo aliqua, non
+tamen necessaria, sed accommoda ad suam materiam: et Adrianus
+volebat reverti ad maturandam poenitentiam quam nimis tardaverat
+in vita; ideo dicit: |onde contra 'l piacer mio, per piacerli~,
+quia licentiaverat me, |trassi dell'acqua~, idest, hausi de fonte
+suo, de doctrina sua, quia optime peroraverat contra avaritiam,
+|non sazia la spugna~, idest, non ente satiata spongia, quasi
+dicat: nondum contentato animo meo sitibundo: ideo ne perderem
+tempus, |mossimi, e il duca mio~, qui praecedebat me, |si mosse
+per li luoghi espediti~, idest, per loca vacua non occupata ab
+illis spiritibus jacentibus, |pur lungo la roccia~, idest, prope
+ripam montis, quasi dicat: coepimus ire per unam viam arctam,
+quae est media inter montem et avaros, a simili, |come si va per
+muro stretto a' merli~, ne homo faciliter cadat.  Et assignat
+causam talis viae, quia avari occupabant partem exteriorem; unde
+dicit: |ch@e la gente~, scilicet, secta avarorum maxima |che
+fonde~, idest, emittit et expellit, |a goccia a goccia~,
+scilicet, plorando et lacrymando in purgationem lacrymarum
+inutilium quas alias fecerat.  Avaritia enim, ut ait Euripides,
+satis habet in se poenarum, multum lacrymarum et laborum exigit;
+et tam miser est avarus ut quicquid non acquirit damnum putet,
+|il mal~, scilicet, crimen avaritiae, |che tutto il mondo
+occupa~; nullum enim est vitium inter omnia, quod impellat
+hominem ad plura et maiora mala: homo enim natus nudus, plurimis
+indigens, videns quod pro denario quasi omnia necessaria haberi
+possunt, faciliter inclinatur ad omnia per quae possit illum
+habere; |troppo s'approccia in fuor dall'altra parte~, idest
+nimis adhaeret extremitati viae contra montem, quia avarus semper
+tenet extremum quod vitare quaerebant isti poetae; ideo
+adhaerebant monti virtutis.  
+
+	|10-12.  Maledetta.~  Hic poeta considerans generale
+nocumentum avaritiae, amaricato animo exclamat contra eam,
+dicens: |Maledetta si' tu antica lupa~, sic appellat eam inferni
+et alibi saepe, |che pi@u che tutte l'altre bestie~, scilicet,
+quam leo vel leopardus etc., |hai preda~; quia plures homines
+capis violentia tua.  Avaritia enim percurrit terras et maria
+inter latronum et piratarum insidias, armavit manus hominum ad
+insidias, texuit fraudes, venena confecit, testamenta falsavit,
+foenora invenit, mendacia finxit, curas mordaces semper
+accumulavit; et cum videatur quaerere commoda naturae, omnia
+incurrit incommoda: et dicit: |per la tua fame senza fine cupa~!
+idest, profundam, voracem.  Avarus enim continuo fit indigentior
+crescente fame mentis, quae non potest expleri sicut fames
+corporis faciliter satiatur.  Et implorat poeta auxilium contra
+tam violentam bestiam, scilicet, canem fortem, qui exterminet
+eam.  
+
+	|13-15.~  Unde apostrophat ad coelum, et dicit: |O ciel,
+nel cui girar par che si creda le condizion di qua gi@u
+trasmutarsi~, quia videmus secundum motum et influentiam
+superiorum continuo transmutari regna et imperia mundi, |quando
+verr@a~, ille veltrus, |per cui questa disceda~? idest, recedat de
+mundo, de quo jam dixi quod est expulsurus de villa in villam;
+quasi dicat: amodo esset tempus quod veltrus reponeret lupam in
+infernum, quia avaritia potens penetravit in viscera terrae et
+quasi pervenit ad inferos, ut inveniret divitias quas natura
+provida bene celaverat, materiam omnium malorum.  
+
+	|16-21.  Noi.~  Nunc poeta damnata avaritia intendit
+commendare voluntariam paupertatem et largitatem simul.  Et primo
+tangit suam attentionem circa hoc, dicens: |Noi andavam coi passi
+lenti e scarsi~, per illam viam angustam, cuius contrarium
+faciebat in circulo praecedenti, quia accidiosi sunt in continuo
+cursu, avari vero non moventur; |et io attento all'ombre ch'io
+sentia pietosamente piagnere e lagnarsi~, ubi impie solebant in
+vita plorare et conqueri, quod parum vel nihil habebant.  Et
+subdit quid dicebant in planctu, quia decantabant sanctam
+paupertatem Mariae; unde dicit: |e per ventura udi' chiamar nel
+pianto dinanzi a noi: dolce Maria.~  Hic qui clamabat erat
+spiritus Hugonis Ciapettae, ut patebit paulo post, a simili,
+|cos@i come fa donna che'n partorir sia.~  Et hic nota quantum
+comparatio est propria: licet enim mulier puerpera sit in maxima
+pressura, tamen cum gaudio expectat exonerari, et habere fructum
+magnum; ita anima avara licet sit hic in amarissima poena, tamen
+expectat cum certa spe alleviari et obtinere fructum
+beatitudinis: mulier etiam naturaliter est avara et prona ad
+lacrymas sicut umbrae istorum; |e seguitar~, supple, audivi,
+|povera fosti tanto, quanto veder si pu@o per quello ospizio~,
+scilicet, praesepium, ut dicitur Lucae II capitulo, ^dove
+sponesti il tuo portato santo~, quia, ^quem totus mundus capere
+non poterat tuo gremio contulisti.~  
+
+	|22-27.  Seguentemente.~  Hic poeta adducit aliud
+exemplum sobriae paupertatis in viro pagano, quia poterat quis
+dicere: non potest omnis homo pati incommoda paupertatis sicut
+Maria.  Et ad intelligentiam istius literae sciendum, quod
+Fabricius fuit consul romanus, qui bellum gessit contra Pyrrhum
+regem, ut dicetur VI capitulo Paradisi: quo tempore fuit Curius
+valentior eo, et tamen maior mentio et commendatio fit de
+Fabricio ratione maioris paupertatis.  Sicut ergo scribit Julius
+Ignius, libro VI de vita et moribus virorum illustrium, duo
+legati samnitum venerunt ad Caium Licinium memorantes multas et
+magnas res, quas bene et benevole fecerat samnitibus post datam
+pacem, offerentes dono grandem pecuniam et orantes ut reciperet,
+quoniam multa deficerent ad necessitatem victus et claritatem
+suae domus; nihil enim splendidum et paratum erat pro amplitudine
+hominis et dignitate virtutis.  Fabricius vero deduxit amplas
+manus ab auribus ad oculos, deinde ad nares, ad os, ad gulam,
+deinde ad ventrem, et inferiora; et legatis in haec verba
+respondit: dum omnibus his membris quae tetigi potero resistere
+et imperare, mihi nihil omnino deficiet; ideo vobis reservate
+pecuniam necessariam usibus vestris, nec eam quibus non est
+necessaria aut grata ingeratis.  Romani siquidem non curant
+habere aurum, sed imperare volunt habentibus aurum.  Idem
+Fabricius compulit Pyrrhum ad romanorum amicitiam appetendam,
+remisso medico, qui promittebat Pyrrhum venenare.  Ideo bene
+dicit Seneca: Summum fuit auro non vinci, veneno non vincere. 
+Multa occurrunt dicenda in laudem Fabricii quae remitto
+brevitati.  Dicit ergo poeta: |Seguentemente intesi~, illum
+spiritum dicere: |O buon Fabricio~, quem Boetius vocat fidelem,
+|volesti anzi posseder vertute con povert@a, che gran ricchezza
+con vizio.~  Unde Claudianus: ^contentus honesto Fabricius parvo
+spernebat munera regum.~  
+
+	|28-33.  Queste.~  Hic poeta adducit exemplum nobilis
+largitatis sub verbis brevibus et claris: quoniam beatus Nicolaus
+mortuis parentibus volens sua bona pauperibus erogare, dum quidam
+nobilis tres filias adultas urgente inopia disponeret quaestum
+facere pro substentatione vitae, occulte de nocte proiecit per
+fenestram massam auri involutam pallio, ex quo primogenita
+maritata est; post tempus iterato, et tertio simile fecit, ex quo
+reliquae nupserunt; et invitus cognitus est a patre virginum. 
+Dicit ergo poeta, quod factus avidus ad verba illius spiritus,
+fecit se proximiorem illi; unde dicit: |queste parole~, dicta de
+vera paupertate Mariae et Fabricii, |m'eran s@i piaciute~, quia et
+ego pauper eram et liberalis considerata facultate, |ch'io mi
+trassi oltre per aver contezza~, idest, familiaritatem et
+notitiam, |di quello spirto, onde parean venute~, quem non
+poteram videre, quia habebat os ad terram.  Et ecce quid ulterius
+audivi: |esso~, scilicet, Hugo, |parlava ancor della larghezza~,
+vere haec liberalitas digna fuit tam egregio spiritu; Nicolaus
+enim gemma sacerdotum, ante sanctificatus quam natus, ut ait
+Polycratus, |che fece Nicolao~, consonum nomen; Nicolaus enim
+virtutis laus vel gloria interpretatur, |a le pulcelle~, tribus
+virginibus, |per condurre ad onor lor giovinezza~, non ut
+potiretur eis.
+
+	|34-39.  O anima.~  Ista est secunda pars generalis huius
+capituli, in qua poeta introducit praefatum spiritum ad
+colloquium secum, qui multa mala commemorat sui et suorum facta
+per avaritiam.  Dicit ergo: |dissi~, scilicet, ego Dantes
+exordiendo: |O anima che tanto ben favelle~, de paupertate et
+largitate contra avaritiam, |dimmi chi fosti~, in prima vita, |e
+perch@e sola~, in tanta multitudine avarorum, |tu rinovelle~,
+idest, renarras, |queste degne lode~?  Et sic petit duo: et ut
+facilius consequatur quod petit, promittit sibi praemium, dicens:
+|non fia senza merc@e la tua parola~, quia licet dimittas modicum
+planctum et cantum propter me, rogabo Deum pro te, vel dabo tibi
+famam.  Unde dicit: |s'io ritorno a compir lo cammin corto~,
+idest, revertar ad mundum ad peragendum illud reliquum vitae quod
+mihi restat, quod est brevissimum, licet videatur longum; ideo
+dicit: |di quella vita~, scilicet, temporali, |ch'al termine
+vola~, idest, ad mortem citissime currit.  
+
+	|40-45.  Et elli.~  Hic poeta ponit responsionem illius
+animae.  Et ad sciendum quomodo poeta juste movetur ad damnandam
+istam stirpem, est primo considerandum, quod, sicut in quibusdam
+chronicis memoriae traditum reperitur, ex progenie generosa
+clarissimi Caroli Magni multi reges regnaverunt in Gallia per
+secula multa; sed cum tandem remansisset in regno ex Ludovico
+rege solum quidam pupillus non idoneus regno propter
+imbecillitatem aetatis, Hugo cognominatus Ciapetta, magnus regni
+senescalcus, in cuius manibus rex praemortuus reliquerat habenas
+regni, captus caeca cupiditate regnandi, pueri fata praevenit, et
+sic dolo malo pervenit ad sceptrum.  Alii tamen scribunt, quod
+Hugo, defuncto Ludovico V sine liberis, francis transferre
+volentibus regnum ad Carolum ducem Lotharingiae patruum ipsius
+Ludovici, usurpavit regnum, et Carolum cum filiis mori fecit. 
+Alii tamen aliter colorant istud factum; et poeta noster
+honestius loquitur de hac re subticens infamem modum promotionis
+Hugonis: et dicit tantum, quod Hugo suffragio fortunae et favore
+amicorum ascendit culmen tanti regni ex macellaria patris
+taberna, cuius descendentes longo ordine successerunt; quorum
+aliqui per avaritiam et ambitionem multa mala fecerunt, de quibus
+poeta quaedam pauca breviter attingit.  Ad literam ergo primo
+dicit, quod ille recusavit mercedem sibi promissam: unde dicit:
+|Et elli~, scilicet, Hugo respondit: |Io ti dir@o~, scilicet, quis
+fuerim, |non per conforto ch'io attenda di l@a~, idest, expectem
+in mundo, quia non curo de fama, vel quia mei sunt omnino dati
+avaritiae, |ma perch@e tanta grazia in te luce prima che sii
+morto~, nullus enim vivens unquam habuit talem gratiam.  Dico
+ergo: |Io fui radice della mala pianta~, idest, arboris et
+parentelae Franciae, |che aduggia~, idest, adumbrat nocive, sicut
+arbor herbam, |la terra cristiana~, quia domus Franciae offendit
+totam christianitatem, quia dominatur ecclesiae.  Unde dicit: |s@i
+che buon frutto rado se ne schianta~, idest, bona operatio raro
+oritur a stirpe ista.  Et tamen aliqui fuerunt reges illustres de
+linea ista, sicut Ludovicus sanctus et Carolus frater eius: et
+domus haec usque ad tempora ista est potentissima in nostro
+occidente, sicut rex Franciae, rex Navarrae, rex Hungariae,
+regina Apuliae.  
+
+	|46-48.  Ma.~  Hic Hugo probat quod dixit per regem tunc
+regnantem.  Nam Philippus pulcer pessimus regum Franciae, ut
+dicetur paulo post, anno Domini MCCXCVI invasit comitatum
+Flandriae et cepit Brugiam, Lillam et Gaiam, et alias terras
+vastavit.  Et anno MCCC, cum comes Flandriae cum duobus filiis
+venisset ad eum, rex eos carcerari fecit, et abstulit eis
+comitatum Flandriae.  Sed post biennium secuta est vindicta, quam
+Hugo hic oravit; quia flandrenses facti rebelles fecerunt magnam
+stragem de exercitu ipsius regis.  Dicit ergo Hugo: |Ma se
+Doagio, Guanto, Lilla e Bruggia potesser, tosto ne saria
+vendetta~; vindicta ista jam erat facta, quando poeta scripsit:
+sed respicit ad tempus suae visionis, quando fingit ista se
+audisse ab Hugone.  Et dicit: |et io la cheggio a lui~, scilicet
+Deo, |che tutto giuggia~, idest, judicat, quia justus judex
+vindictam facit de omni iniustitia; vel respicit ad mortem
+Philippi, ut dicit alibi.  
+
+	|49-51.  Chiamato fui.~  Hic Hugo manifestat se et suos a
+nomine dicens, |di l@a~, idest, in mundo mortalium, |Ugo
+Ciapetta.~  Hugo praefatus cognomento Capethi, sive Caputii,
+dictus est, quia pueris ipse puer caputia ludo auferre solebat. 
+Cum quo Robertus filius regnavit undecim annis, et post obitum
+patris annis triginta quatuor; vir quidem pius et literatus; |di
+me son nati i Filippi e i Luigi~, quia plures de linea sua
+fuerunt reges Philippi et Ludovici.  Nam de ista genealogia
+tertia Hugonis fuerunt multi Philippi, sicut Philippus I,
+Philippus II, Philippus III potentissimus, victoriosus, Philippus
+IV, dictus Nasellus, Philippus V, Philippus VI et Philippus VII,
+qui, ut credo, dictus est Pulcer, de quo tanta mala hic dicit. 
+Multi etiam Ludovici fuerunt de stirpe Caroli Magni, quae deficit
+in Ludovico V.  Postea de stirpe Hugonis fuerunt alii Ludovici;
+scilicet Ludovicus Grossus, Ludovicus VII, Ludovicus VIII, qui
+fuit pater Ludovici sancti.  Et dicit: |per cui novellamente
+Francia @e retta.~  Francia est provincia parva in Gallia, quae
+multas alias provincias habet subiectas, sicut Provinciam,
+Burgundiam, Normandiam, Picardiam, Aquitaniam, Vasconiam etc.  
+
+	|52-60.~  Deinde describit se ab origine sua, dicens:
+|figliuol fui d'un beccaio di Parigi~; et hic nota, quod aliqui
+dicunt, quod iste fuit nobilissimus miles de Normandia; alii quod
+fuit dux Aureliani.  Sed Dantes curiosissimus investigator rerum
+memorandarum, cum esset Parisius gratia studii, reperit, quod
+iste Hugo de rei veritate fuerat filius carnificis.  Ideo reputat
+fictum quidquid aliter dicatur, ad colorandam vilitatem originis,
+sicut multi faciunt.  Et tangit tempus, dicens: |quando li regi
+antichi venner meno~, descendentes a Carolo Magno.  Hoc autem
+fuit anno Domini DCCCCLXXXVII; |tutti, fuor ch'un renduto in
+panni bigi~: dicunt aliqui, quod iste erat frater minor; quod est
+impossibile, quia nondum erat ordo minorum; sed erat monachus cum
+pannis vilibus grisis: et eo tempore, dicit Hugo, |trova' mi
+stretto nelle mani il freno del governo del regno~, scilicet,
+Franciae, |e tanta possa di nuovo acquisto~, quia erat pecuniosus
+et dives nimis, |e s@i d'amici pieno~; iste Hugo Ciapetta recte
+fecit sicut Tarquinius Priscus, qui natus patre mercatore de
+Cor{in}tho, sua providentia et opulentia pervenit ad regnum
+romanum.  Dicit ergo: |ch'alla corona vedova~, idest, vacanti,
+|la testa di mio figlio fu promossa~, scilicet, Robertus: Hugo
+enim, ut quidam scripserunt, noluit coronari, ut successio sua
+plus extenderetur.  Audiverat enim, quod sui regnaturi erant in
+septimam generationem.  Et dicit: |dal quale~, primo rege,
+|cominciar di costor le sacrate ossa~, quia inunguntur et
+consecrantur reges; |di costor~, scilicet, Philipporum et
+Ludovicorum.  
+
+	|61-66.  Mentre.~  Hic Hugo incipit narrare mala suorum
+facta per avaritiam.  Et primo tangit magnam occupationem quam
+fecerunt avare.  Ad quod sciendum quod Ludovicus, qui postea fuit
+sanctus, et Carolus frater eius, qui fuit postea rex Siciliae,
+habuerunt in uxores duas filias Raymundi Berengerii de Tolosa: et
+sub nomine et colore dotium usurpaverunt totam provinciam
+narbonensem: ille ultra Rhodanum, iste citra, sicut dicetur
+plenius Paradisi capitulo VI.  Modo usque ad istud tempus
+descendentes Hugonis erant aliqualiter avari, sed non ita quod
+usurparent alienum iniuste.  Dicit ergo in litera: |Poco valea~,
+idest, parum erant valentes et virtuosi, |ma pur non facea male~,
+scilicet, per avaritiam, violentiam, et fraudulentiam, |mentre
+che la gran dote provenzale~, et vere magna; nam Plinius summe
+commendat istam provinciam; |al sangue mio non tolse la
+vergogna~, non intelligas, ut quidam falso exponunt, quod domus
+ista non esset potens ante istam dotem; sed vult dicere, quod
+ante istud factum ista domus habebat unam verecundiam, quia
+dicebatur de obscuritate et ignobilitate originis.  Sed post
+istud factum coeperunt homines dicere de avaritia et iniustitia
+in verecundiam istorum, ita quod maior verecundia et infamia
+abstulit primam, ita quod amplius non dicebatur de macellario. 
+Quod autem ista sit intentio poetae, declarat sequens litera, dum
+subdit: |l@i cominci@o~, ab illa dote et praeda magna, |con forza e
+con menzogna la sua rapina~; quia coepit tunc primo rapere
+violenter et fraudulenter; |e poscia~, pari vi et fraude, |prese
+Ponti~, idest, comitatum Ponti, |Normandia e Guascogna~; et
+dicit: |per ammenda~, loquitur ironice, quasi dicat: ad
+emendationem primae rapinae factae de Provincia, fecerunt aliam
+de aliis provinciis. 
+
+	|67-69.  Carlo.~  Hic dictus Hugo damnat duas violentias
+factas crudeliter per Carolum praedictum.  Ad cognitionem primae
+debes scire, quod Conradinus debellatus in campo, consilio et
+arte senis Alardi, ut plene dictum est Inferni capitulo XXVIII,
+fugiens pervenit cum quibusdam proceribus ad plagiam Romae, ad
+castellum dictum Asturi, ubi armata subito fugitiva tendebat in
+Siciliam, quae rebellabat Carolo.  Sed captus a quodam Johanne de
+Frangipanibus de Roma, praesentatus fuit Carolo.  Carolus post
+aliquot menses consulte et deliberate in foro Neapolis fecit
+decollari ipsum Conradinum et ducem Austriae cum multis comitibus
+et baronibus, quorum corpora vetuit sepeliri in sacro.  Dicit
+ergo: |Carlo~, scilicet, vetus primus, victor Manfredi, |venne in
+Italia~, vocatus ab Ecclesia, |e vittima fe~, idest, sacrificium,
+|di Curradino~, quia ipsum adolescentulum innocentem, velut
+agnum, immolavit, |per ammenda~; loquitur ironice, quasi dicat:
+ad emendationem occupationis provinciae mactavit inhumane
+Conradinum.  Et hic nota, lector, quod valde miror de quibusdam,
+qui arguunt poetam dicentes, quod iniuste infamat justum regem. 
+Sed certe non culpat in eo non culpanda.  Nonne jam ipsum posuit
+gloriose inter reges et principes christianos, tamquam pugilem
+Ecclesiae?  Sed certe hunc actum damnaverunt omnes sapientes et
+amici Caroli.  Nam Robertus filius comitis Flandriae, gener
+ipsius Caroli, transfixit mucrone impune judicem qui tulerat
+talem sententiam.  Nonne hic Carolus impunitum tulit Guidonem de
+Monforte qui interfecit consanguineum regis Angliae in gremio
+Dei?  Nonne condemnavit ad perpetuum carcerem dominum Henricum
+fratrem regis Hispaniae, consanguineum ipsius, quem tamen fecerat
+sibi hostem per avaritiam, cum nollet sibi reddere magnam
+pecuniam, quam mutuo habuerat ab eo?  Nonne prohibuit ut ille
+obtineret Sardiniam ab Ecclesia?  Deinde tangit aliam violentiam
+enormem.  Ad cuius intelligentiam debes scire, quod Carolus
+praedictus habens suspectum Thomam de Aquino ordinis
+praedicatorum, vel quia offenderat comites consanguineos eius,
+vel quia Thomas iturus ad concilium generale in Galliam Lugdunum
+habuerat dicere, quod non taceret oppressiones regnicolarum,
+timens sibi ab illo, fecit eum venenari in via per quemdam
+physicum familiarem suum; qui mortuus est apud abbatiam Fossae
+Novae in regno.  Dicit ergo: |e poi~, ille Carolus, |ripinse al
+ciel Tommaso~, quia vir sanctus redivit ad coelum, unde venerat,
+|per ammenda~; loquitur ironice, quasi dicat: ad emendationem
+primae victimae, quam fecerat gladio, immolavit alium juvenem
+doctorem veneno.  Sed justo judicio Carolus ante mortem habuit
+magna adversa; quia cum elatus successu magnarum victoriarum
+speraret maiores, vidit rebellionem Siciliae et captivitatem
+filii sui, qui poterat interfici in vindictam Conradini, si
+hostis voluisset abuti victoria, sicut ipse fecerat.  Et mortuus
+est cum dolore, filio adhuc carcerato.  
+
+	|70-75.  Tempo vegg'io.~  Hic
+Hugo valde detestatur vilem avaritiam alterius Caroli.  Iste
+Carolus de Valois cognominatus sine terra, frater Philippi
+Pulcri, vocatus in italiam per Bonifacium sub nomine pacificandi
+Florentiam, et gerendi bellum contra Siciliam, ipsam Florentiam
+summe disturbavit, ut plene scriptum est Inferni capitulo VI. 
+Deinde armata magna classe apud Neapolim, cum Roberto filio
+Caroli II ivit contra Siciliam; sed in brevi, facta simulata et
+infami pace, reversus est in Franciam, perdita magna parte suae
+gentis.  Ideo bene in eius improperium dictum est: Carolus venit
+in Tusciam pro pace, et reliquit ibi bellum: et ivit in Siciliam
+pro bello, et reportavit inde ignominiosam pacem.  Dicit ergo
+Hugo: |Tempo vegg'io non molto dopo ancoi~, quia per annum postea
+fuit istud factum, |che tragge un altro Carlo fuor di Francia~,
+quia sic dicta est a Francone duce, vel a ferocitate, secundum
+Isidorum, |per far conoscer meglio e s@e e' suoi~; qui saepe per
+avaritiam nimis deliquerunt: quod continuo declarat, cum dicit:
+|senz'arme n'esce~, quia sub titulo pacificandi exivit a Francia,
+et non usus est apertis viribus more gallorum, sed perfida
+proditione; unde dicit: |e solo con la lancia con la qual giostr@o
+Giuda~; et videtur optima comparatio; quia sicut Judas prodidit
+Christum pro pecunia, ita iste corruptus pecunia prodidit
+Bonifacium, qui vocaverat eum.  Unde dicit: |e quella ponta~,
+idest, impingit illam lanceam, |s@i ch'a Fiorenza fa scoppiar la
+pancia.~  Et est propriissima comparatio, quia eo tempore
+Florentia erat valde corpulenta, plena civibus, inflata superbia. 
+Et iste Carolus scidit eam per ventrem, ita quod fecit inde exire
+intestina vitalia, scilicet, praecipuos cives, de quorum numero
+fuit iste praeclarus poeta.  Ideo bene solvit sibi hic.  
+
+	|76-78.~  Unde ad exagerandum factum dicit: |quindi~, ex
+ista proditione, |non guadagner@a terra per se~, quia si volebat
+fallere fidem, debebat capere sibi illam florentissimam terram,
+et non Cursio de Donatis, |ma peccato et onta~, quia Deum et
+multos homines offendit.  Et dicit: |tanto pi@u grave~, scilicet,
+peccatum, |quanto conta~, idest, reputat esse, |simil danno~,
+scilicet, Siciliae, |pi@u lieve~, scilicet, peccatum.  
+
+	|79-81.  L'altro.~  Hic Hugo tangit temeritatem et
+vilitatem alterius Caroli junioris, qui fuit primogenitus Caroli
+I, unde vocatur Carolus II.  Et ad declarationem literae est
+sciendum, quod dum Carolus pater ivisset in Provinciam, ad
+armandam classem pro recuperanda Sicilia rebelli, Rogerius de
+Oria, admiralius regis Petri peritissimus et victoriosissimus in
+bello navali, cum magna classe venit super Neapolim intra portum,
+sagiptando intra civitatem, et exprobrando, ut eliceret Carolum
+principem ad pugnam.  Praesciebat enim tamquam vigilantissimus
+dux, quod rex Carolus cum magna classe rediens de Provincia jam
+erat in mari pisano.  Sicut ergo petebat et optabat juvenis
+improvidus et calidus, cum proceribus et omni militia, ascendens
+navim exivit contra Rogerium.  Rogerius sagacissimus mandavit
+suis, ut non intenderent ad persecutionem fugientium, sed solum
+ad galeam, ubi erat regale signum.  Quo facto, in primo congressu
+belli, multis navibus juvenis fugientibus, ipse cum suis
+proceribus inutilibus navali certamini, tam faciliter quam
+celeriter debellatus et captus est cum novem navibus longis.  Et
+ductus Messanam in Siciliam ubi plusquam ducenti ex suis
+nobilibus gladio sunt necati in vindictam Conradini, ipso Carolo
+cum paucis sociis reservato.  Hac victoria potitus est Rogerius
+anno Domini MCCLXXXIV.  Die sequenti Carolus pater applicuit
+Gaietam; qui accepto sinistro rumore filii, accensus ira, dixit:
+Vellem ipsum esse mortuum, quando non servavit praeceptum meum. 
+Mandaverat pater filio, ut nullo casu committeret se pugnae
+marinae vel terrestri in absentia sua.  Deinde Carolus, mortuo
+patre, concordans cum rege Aragonum, reversus est in regnum suum,
+et tradidit filiam suam Azoni III marchioni estensi, facta sibi
+magna donatione propter nuptias.  Nunc ad literam; dicit Hugo:
+|Veggio l'altro~, scilicet, Carolum claudum, |che gi@a usc@i preso
+di nave~, et certe fuisset occisus, nisi prohibuisset regina
+Constantia, |vender sua figlia~, quam tradidit viro pro pecunia,
+|e patteggiarne, come fan li corsar dell'altre schiave~, quas
+vendunt pro certo pretio.  Sed quid dixisset poeta noster, quod
+Joannes rex Franciae, captus ab anglicis diebus nostris, vendidit
+filiam suam domino Galeatio tyranno de Mediolano?  
+
+	|82-84.~  Et ex hoc Hugo dolore intrinseco tactus,
+exclamat contra avaritiam potentissimam, dicens: |O avarizia~!
+regina vitiorum, |che puoi tu pi@u farne~? quasi dicat: nil maius,
+|poi c'hai il sangue mio a te s@i tratto, che non si cura della
+propria carne~?  Et hic nota, quod iste maxime dolet de avaritia
+istius Caroli, quia fuit valde liberalis inter reges sui
+temporis.  Sed certe amor pecuniae vincit amorem naturalem, et
+res impossibiles facit possibiles. 
+
+	|85.~  Unde infelix, in quo avaritia fixit radices suas,
+pacisceretur cum quocumque de quota parte vitae suae, si posset
+vendere alteri tempus sibi datum a natura: |perch@e men paia il
+mal futuro e 'l fatto.~  Hic Hugo amare commemorat facinus impium
+quod praegravat caeteris.  Ad cuius intelligentiam est utile
+scire, quod Philippus Pulcer rex Franciae, conceperat
+indignationem contra Bonifacium VIII, qui promiserat facere
+Carolum de Valois fratrem suum imperatorem romanorum, quando
+venit pro paciario in Tusciam; sed nihil servaverat, quia audisti
+quam valenter se habuerit; immo eodem anno confirmaverat Albertum
+ducem Austriae.  Ideo Philippus indignatus superbe tenebat et
+honorabat Stephanum de Columna inimicum eius, et beneficia
+conferebat in Francia pro voto suo.  Propter quod Bonifacius
+magnanimus et alti cordis factus est palam sibi infestus; et ad
+justificandam causam suam fecit citari praelatos Franciae ad
+concilium et Philippum prohibentem et contumaciter recusantem se
+subditum Ecclesiae, temporaliter excommunicavit.  Philippus
+obiiciens multa crimina Bonifacio, dicebat ipsum fore deponendum;
+sic hinc inde accenso igne irarum et discordiarum, alter in
+alterius perniciem coniurabat.  Bonifacius irritabat flandrenses
+contra regem, et Albertum electum invitabat in Italiam. 
+Philippus peiora meditans de consilio Stephani misit quemdam
+legatum suum in Tusciam cum Musatto Francesio milite florentino. 
+Qui venientes in comitatum Florentiae, ad Stagiam castellum dicti
+Musatti, simulabant sagaciter agere de bono pacis; et clandestine
+cum magnis pecuniis et donis, corruptis multis proceribus
+Campaniae et Anagniae, ordinaverunt capere Bonifacium in patria;
+ubi stans intrepidus nihil tale sentiebat.  Quo facto Sciarra de
+Columna cum tercentis equitibus et multis amicis et mercenariis
+peditibus, sub vexillo regis uno mane intravit Anagniam cum
+clamore; et ingratus populus secutus est signa regalia, et cinxit
+papale palatium.  Bonifacius audito tumultu, omnium auxilio
+destitutus, tamquam magnanimus dixit secum: Ex quo debeo mori per
+proditionem ut Christus, moriar ut vicarius Christi.  Et continuo
+assumpto habitu pontificali cum clavibus, conscendit papalem
+sedem.  Sciarra cum suis, volente Deo, ut sancta dignitas
+servaretur intacta, non iniecerunt manus in eum, sed illum solis
+verbis lacessitum, sub honesta custodia relinquentes, conversi
+sunt ad rapiendum thesaurum.  Post tertiam diem populus Anagniae
+recognoscens errorem suum, ruens in arma, duce Luca de Flisco
+cardinali, expulit Sciarram cum complicibus.  Bonifacius
+liberatus tertia die more Christi non potuit laetari, indurato
+corde dolore.  Sed recedens cum curia, venit Romam ad sanctum
+Petrum, cum intentione celebrandi concilium, et faciendi altam
+vindictam de iniuria atrocissima facta sibi per regem; sed
+intenso dolore superante animum eius, conversus in rabiem
+furoris, coepit se rodere totum; et sic verificata est prophetia
+simplicissimi Coelestini, qui praedixerat sibi: Intrasti ut
+vulpes, regnabis ut leo, morieris ut canis.  Vide igitur si juste
+poeta detestatur tam crudele scelus in Philippo.  
+
+	|86-87.~  Dicit ergo: |Veggio il fiordaliso~, idest,
+lilium, quasi flos de aliis, quod est armatura regum Franciae,
+|entrar in Alagna~, civitatem Bonifacii, |e nel vicario suo
+Cristo esser catto~: et hoc dico, fiet, |perch@e 'l mal futuro e 'l
+fatto paia men~, idest, ut minora videantur mala fienda et jam
+facta, quia vere omnia peccata praeterita et futura videntur
+parva vel nulla in comparatione ad istud.  
+
+	|88-90.~  Unde subdit: |veggiolo un'altra volta esser
+deriso~, quia captus ab hostibus, |veggio rinovellar l'aceto e 'l
+fele~, per amaros dolores Bonifacii, |e tra vivi ladroni esser
+anciso~, idest, inter satellites regis et Sciarrae; vel, ut
+aliqui dicunt, inter cardinales, quia volunt quod aliquis
+cardinalis fuerit conscius huius facti.  Mortuus autem est
+Bonifacius in MCCCIII, die duodecima octobris, et sepultus in
+sancto Petro.  
+
+	|91-93.  Veggio.~  Hic ultimo Hugo subannectit aliud
+magnum malum, quod fecit idem Philippus contra quosdam fautores
+Bonifacii.  Et ad aperiendam istam literam, quae multis clausa
+videtur, oportet scire historiam memoria dignam, cuius haec est
+summa.  Quidam Jacobus, Burgundus origine, ex dominis Molai
+genitus, juvenis animosus, cum frater primogenitus secundum
+consuetudinem gallicam haberet dominium omnium, contulit se ad
+militiam templariorum, qui erant magni pugiles fidei: ubi factus
+magister illius ordinis potentis, incurrit odium Philippi Pulcri,
+cuius erat compater, quia videbatur favisse Bonifacio; sed verius
+ob avaritiam.  Factum est ergo, permittente Clemente V qui
+promiserat Philippo destructionem templariorum, quod principales
+templariorum eadem die capti sunt de mandato Philippi per omne
+regnum suum, et eorum templa, castella, thesauri, et omnia
+occupata.  Quibus ductis Parisius multa crimina obiecta sunt,
+quae omnia illi perseveranter negabant, dicentes, se contrarium
+probaturos sub justo judice, si daretur.  Rex ira ardens,
+mandavit ut tormentis extorqueretur, quod adulationibus non
+poterat; sed cum nihil proficeret, magistro cum tribus sociis
+reservato, caeteri palam damnati sunt incendio, si in proposito
+starent.  Erant omnes robusti juvenes et animosi: ideo omnibus
+alligatis singulis palis ignis est appositus: et praecone
+promittente impunitatem et liberationem confitentibus, nullus
+potuit flecti terrore vel prece, ut cederent irato regi, et
+confessione parcerent vitae suae.  Sed cum omnes concorditer
+saepe dicta firmarent, coeperunt tortores singulis apponere ignem
+primo ungulae pedis, et paulatim ascendendo deducere per omnia
+membra.  Illi autem jactantes voces in coelum, clamabant, se
+veros christianos et eorum religionem semper sanctissimam fuisse. 
+Nec unus usque ad mortem potuit a tam constanti proposito
+removeri.  Jacobus vero magister longo carcere maceratus, tandem
+ductus Lugdunum, multis exhortationibus persuasus, confessus fuit
+aliqua Clementi papae.  Quare retractus Parisius, cum coram
+duobus legatis ex latere et rege sententia legeretur, in qua
+continebatur magistri liberatio et ordinis damnatio, ipse cum uno
+ex sociis, qui erat frater Delphini Viennae, petivit alta voce
+silentium.  Quo concesso, audiente multitudine praesente, testati
+sunt, quod morte dignissima morerentur, non quia commisissent
+unquam ea quae legebantur; sed quia permiserant se seduci
+suasionibus Clementis papae et regis tyranni, contra honorem
+ordinis sui tam sancti et tot sanctorum patrum auctoritate
+probati; et tot egregios fortes commilitones et socios ante se
+pro veritate consumptos viliter fraudassent.  Sed dura sententia
+lata, Jacobus cum fratre Delphini igni datus est, sicut primi; et
+ambo, rege vidente, constanter et intrepide in supplicium
+iverunt.  Alii duo viliter confitentes evaserunt.  Quinquaginta
+sex fuerunt, qui tamquam martyres innocentes perierunt.  Hanc
+flebilem historiam multi fide digni notaverunt, sed prae caeteris
+Boccaccius de Certaldo elegantissime describit, laudabiliter
+commendans constantiam et fortitudinem istorum ultra virtutem
+virorum fortium ab antiquo laudatorum.  De istis et de origine
+ordinis eorum dicetur Paradisi capitulo XVIII.  Nunc est ad
+literam veniendum: dicit ergo Hugo: |Veggio 'l nuovo Pilato~,
+scilicet, Philippum.  Et hic nota quod poeta propriissime vocat
+Philippum novum Pilatum: sicut enim Pilatus qui fuit de Lugduno,
+iniuste condemnavit innocentem Christum; ita iste apud Lugdunum
+condemnavit iniuste istum innocentem militem Christi et pugilem
+fidei.  Et sicut Pilatus fecit alligari Christum ad columnam, et
+crudeliter flagellari; ita Philippus fecit istum protectorem
+Christi alligari ad palum, et crudeliter concremari cum sociis,
+non contentus primo Bonifacium cepisse per Sciarram de Columna. 
+Dicit ergo: |s@i crudele che ci@o nol sazia~, scilicet, acerba mors
+Bonifacii, |ma porta nel tempio~, idest, contra templarios, |le
+cupide vele~, quia non tantum ex appetitu vindictae quantum ex
+cupiditate inflatus est contra templarios qui erant ditissimi. 
+Et dicit: |senza decreto~, dicunt aliqui, scilicet papae, sed non
+bene, quia papa hoc consensit; sed vult dicere, iniuste, quia
+fecit sibi de voluntate legem et de furore decretum.  Haec facta
+sunt in MCCCVII.  
+
+	|94-96.~  Et concludit Hugo propter horrenda peccata
+istius Philippi apostrophans ad Deum: |O Signor mio~, scilicet,
+Deus, |quando~, scilicet, egressus hinc, |sar@o io lieto~,
+scilicet, tecum in paradiso, |a veder~, in te sicut in speculo,
+|la vendetta~, quae cito erit de Philippo, |che nascosa~, idest,
+occulta, |fa dolce l'ira tua nel tuo secreto~?  Et hic nota, quod
+poeta loquitur hic occulte, quia quando homo passus iniuriam scit
+et cognoscit vindictam, quam faciliter et cito faciet de illo,
+laetatur in secreto mentis suae.  Et dicit: Vade tamen cum Deo,
+quia bene solvam tibi.  Ita a simili dicit iste de ira Dei, quae
+veniet juste et in brevi super Philippum et prolem suam, ut
+dicetur suo loco.
+
+	|97-102.  Ci@o ch'io dicea.~  Ista est tertia pars
+generalis non minus copiosa quam prima, in qua poeta detestatur
+et damnat multipliciter avaritiam, ostendens quales sunt fructus
+eius: et primo ostendit qualiter Hugo respondet ad secundam
+petitionem, qua petiverat supra, quare solus renovellabat illas
+dignas laudes.  Dicit ergo Hugo: |Ci@o ch'io dicea~, cum planctu
+pio, |di quella unica sposa dello Spirito santo~, idest, de
+singulari virgine Maria decantans paupertatem eius; |e che ti
+fece volger verso me~, ut jam dictum est supra, quod traxit se
+ulterius, |per alcuna chiosa~, idest, propter verba secuta in
+laudem Fabricii, quae fuerunt declaratoria primi dicti, |tanto @e
+disposto a tutte nostre prece~, idest, precibus quas facimus
+cantando, quibus respondent alii spiritus, |quant'el d@i dura~,
+quasi dicat: solum de die facimus talem cantilenam; |ma quando 'l
+s'annotta~, idest, adveniente nocte, |contrario suon prendemo in
+quella vece~, quasi dicat: de nocte cantamus cantionem recte
+contrariam.  Et hic nota quod contrarietas stat in hoc, quod
+nominati in prima cantione diurna fuerunt amicissimi paupertatis
+et largitatis; illi vero de quibus fit mentio in cantione
+nocturna fuerunt amici avaritiae et cupiditatis.  Nota etiam quod
+laudes largitatis cantantur in die, quia largitas facit homines
+claros; sed infamia avaritiae cantatur in nocte, quia avaritia
+facit homines obscuros. 
+
+	|103-105.  Noi.~  Hic Hugo percurrit breviter multa
+improperia avarorum, et primo avaritiam Pygmalionis, qui frater
+Didonis caeca cupiditate auri mactavit Sichaeum sororium suum,
+propter quod Dido fugit de Tyro, et venit in Lybiam, ut dicetur
+Paradisi, capitulo IX.  Dicit: |Noi ripetiam allotta~, idest, in
+illa vice, quando fit nox, |Pigmalione~, avarum, |cui la voglia
+sua ghiotta dell'oro~, idest, quem voluntas sua cupida auri,
+|fece traditor~, rumpendo vinculum fidei strictum quo erat
+ligatus Sichaeo marito Didonis sacerdoti Herculis, quem
+sacrificantem innocentem immolavit ad aram.  Ideo dicit: |e
+ladro~, quia furtim obtruncavit illum incautum, |e parricida~,
+quia interfecit propinquum suum.  Parricida enim appellatur ille
+qui necat parentes vel affines large loquendo.  
+
+	|106-108.  E la.~  Hic Hugo tangit secundum actum
+avaritiae semper memorandum cum risu: quae fabula notissima est. 
+Nam Mida rex lydorum ditissimus filius Gordii, qui fecit nodum
+indissolubilem quem postea Alexander violenter solvit, cum esset
+devotus Baccho impetravit ab eo ut quicquid tangeret verteretur
+in aurum; et cum ex tam pretioso munere moreretur fame et siti,
+iterum imploravit ut talis gratia revocaretur ab eo: per hanc
+nobilem fictionem poetae voluerunt intelligi, quod avarus
+circumvallatus divitiis et auro afficitur fame et siti, et in
+continuo permanet cruciatu.  Dicit ergo: |E la miseria~; et
+repetimus miseriam, scilicet, famem, sitim et omne incommodum,
+|dell'avaro Mida~, per excellentiam vocat eum avarum, |che segu@i
+alla sua dimanda ingorda~, idest, avidam, importunam, |per la
+qual sempre conven che si rida~; quotiens fit memoria de hoc. 
+Certe non dubito quod poeta noster ridebat cum hoc scriberet. 
+Ideo bene Aristoteles primo Politicorum dicit: inconveniens est
+tales esse divitias, quibus abundans fame perit, quemadmodum et
+Midam illum fabulose dicunt propter insatiabilitatem desiderii
+omnibus sibi exhibitis aureis.  Quidam etiam scripserunt Midam
+habuisse annulum qui redderet hominem invisibilem, quod Plinius
+reputat fabulosum.  
+
+	|109-111.  Del folle.~  Hic Hugo memorat alium actum
+avaritiae qui nimis videtur displicuisse Deo.  Ad cuius
+cognitionem est sciendum, quod sicut scribit Josue VI capitulo,
+et dicit Josephus libro Antiquitatum, Josue princeps populi
+Israel post Moysem cum intrasset terram promissionis, transito
+Jordane cepit civitatem Jericho, et destruxit, ut dicetur plene
+Paradisi capitulo IX.  Sed cum jussu Dei mandasset ut nullus
+tangeret aliquid de praeda civitatis, quidam nomine Acham nimia
+cupiditate abstulit pallium rubeum et certum argentum et aurum,
+quae abscondit sub terra in tabernaculo suo.  Qua re iratus
+Dominus fecit, quod qui missi erant contra aliam civitatem nomine
+Hay victi ab hostibus terga dederunt, amissis aliquot de suis;
+propter quod Josue lugens invocavit Dominum, et habito responso
+quod puniret reum furti, facto diligenti scrutinio, Acham
+confitentem furtum fecit lapidari a populo et omnia sua igne
+cremari; et sic cessavit furor Domini.  Dicit ergo Hugo:
+|Ciascun~, scilicet canentium hic, |si ricorda~, ad purgationem
+avaritiae, quae fuit ita punita saxis et flammis, |del folle
+Acham~, vel melius Achar, qui fuit nimis temerarius contra
+praeceptum Domini, |come fur@o le spoglie~, de civitate maledicta
+a Domino qui praeceperat destrui totam et igne succendi; ideo
+bene luit poenam in vita.  Unde dicit: |s@i che l'ira di Josu@e,
+qui par ancor che 'l morda~; et vere magna fuit ira Josue, quia
+fecit filios et filias et jumenta cremari, quod videtur iniustum,
+et non minor videtur ira Dei, qui iratus erat contra totum
+populum innocentem propter culpam unius avari.  
+
+	|112-113.  Indi.~  Hic Hugo tangit alium actum vilis
+avaritiae.  Nam, ut patet omni christiano, in primitiva Ecclesia
+multitudinis credentium erat cor unum et anima una; erant etiam
+illis omnia communia.  Vir ergo quidam nomine Ananias et Saphira
+uxor eius in Jerusalem volentes sequi apostolos vendiderunt agrum
+proprium, et parte pretii retenta, reliquam presentarunt beato
+Petro, de quo Petrus redarguit eos, ut habetur in Actibus
+Apostolorum V capitulo; et illi statim ceciderunt mortui ad pedes
+eius.  Dicit ergo Hugo: |Indi accusiamo~, scilicet, nos
+cantantes, |Saphira~, scilicet, mulierem, |col marito~, qui ex
+vilitate peccaverunt, non sperantes spiritum sanctum alere eos. 
+Et subdit alium actum sacrilegae avaritiae.  Ad quod est
+sciendum, quod scribitur Machabaeorum libro II, capitulo III,
+Helyodorus missus a Seleuco rege Asiae in Jerusalem ad spoliandum
+aerarium templi, quia audiverat ab Apolline ibi esse immensas
+copias ad sacrificia non pertinentes, cum pervenisset ad templum
+cum satellitibus suis, et spoliaret illud, apparuit ibi equus
+terribilis cum equite armatissimo qui coepit Helyodorum
+calcitrare; qui territus, suis satellitibus dispersis, conversus
+ad Dominum petivit veniam, et reversus in Asiam omnia narravit
+regi.  Dicit ergo Hugo: |lodiamo~, in ista cantione nocturna, |i
+calci~, pedum ferratorum timendos; meliores fuissent muli quam
+equi.  
+
+	|114-115.  Ed in infamia.~  Hic Hugo damnat alium actum
+impiae avaritiae.  Ad quod est breviter sciendum quod, sicut
+scribit Virgilius III Eneidos, cum Eneas post recessum a Troia
+pervenisset in Thraciam regionem et volens facere sacrificium,
+evelleret virgas myrti, ex primo ramo coeperunt manare guttae
+sanguinis: ex quo Eneas factus stupidus et trepidus tentavit
+iterum evellere alium ramum ut exploraret causam latentem rei; et
+iterum sanguis manavit de cortice; tertio maiore vi coepit
+evellere virgultum, et ecce vox lacrymabilis exivit de terra,
+dicens: cur pie Enea impie laceras me miserum, jam parce sepulto;
+heu fuge crudeles terras, fuge litus avarum etc., hunc Polydorum
+infelix Priamus quondam miserat Polymnestori regi Thraciae genero
+suo cum magno pondere auri, cum jam diffideret potentia sua; sed
+ille mutatus cum fortuna, obtruncato Polydoro, rapuit aurum;
+propterea Eneas consulto recessit de scelerata terra.  Dicit ergo
+Hugo: |e Polinestor~, crudelis rex crudelis gentis, |ch'ancise
+Polidoro~, per avaritiam juvenem innocentem cognatum suum, |gira
+tutto 'l monte~, cantatus a nobis per totum circulum in infamia
+ipsius avaritiae. 
+
+	|116-117.  Ultimamente.~  Hic ultimo Hugo infamat
+avarissimum hominum, qui justissime luit poenas avaritiae in
+exemplum omnium principum avarorum.  Ad quod clare intelligendum
+est sciendum, quod Crassus consul romanus potentissimus collega
+Pompei homo inauditae avaritiae, eo tempore quo Caesar
+confoederatus cum utroque jam multis annis bella gesserat in
+Gallia, ivit in orientem contra parthos cum nobilissimo exercitu,
+magis spe pecuniae quam gloriae; qui, ut brevissime dicam, cum
+transisset Euphratem contra pacta Pompei, qui fecerat fluvium
+illum magnum esse terminum imperii romanorum et parthorum,
+circumventus est incaute ab infinita multitudine parthorum, et
+infeliciter, deleto exercitu, occisus est in proelio: cuius caput
+abscissum affixum est hastae, et portatum intra civitatem
+Carrarum, ubi aurum liquefactum infusum est in os eius cum hac
+exprobratione: ^Aurum sitisti, aurum bibe.~  Et certe ista sitis
+magna extincta est sanguine sui et Crassi filii sui nobilis
+adolescentis et undecim pulcerrimarum legionum.  Dicit ergo Hugo:
+|Ultimamente ci si grida: o Crasso~: loquitur de Marco Crasso
+ditissimo romanorum post Syllam, qui, ut dicit Plinius, dicebat,
+non esse divitem nisi qui redditu annuo posset tenere legionem in
+campis; nec fuit satis nisi totum parthorum exurisset aurum:
+|dilci ch@e 'l sai, di che sapore @e l'oro~, quia expertus es, et
+ut viveres sicut dignissimum erat.  Certe tanta sitis auri fuit,
+ut scribit Josephus, quod cum iret contra parthos pervenit ad
+Judaeam, et abstulit thesaurum templi, quem Pompeius reliquerat
+intactum: cui custos pecuniarum tradidit trabem auream magni
+ponderis, ut redimeret caetera ornamenta pretiosa templi. 
+Juraverat enim Crassus nihil aliud de templo tollere; et tamen
+rapuit omne aurum templi quod erat maximum; quoniam non minor
+fuit avaritia hebraeorum quam romanorum.  Et hic nota quod
+naturaliter loquendo sapores et odores omnium metallorum sunt
+aliqualiter foetidi propter sulphur; sed aurum minime, quia habet
+sulphur subtile sine malitia, sed parum immutat gustum, et quasi
+non est sensibile; sed moraliter loquendo amarissimum fuit
+Crasso.  Ergo bene Crassus claudit convicia avarorum.  Ex dictis
+ergo vide quam amarissimus est sapor auri.  
+
+	|118-123.  Talor.~  Hic Hugo imponens finem suo longo
+sermoni removet unam dubitationem: quia enim poeta dixerat supra:
+|tu solo~, respondet Hugo, quod non erat solus renovans illas
+laudes, sed solus audiebatur ex aliis, quia altius cantabat cum
+maiori affectione.  Dicit ergo: |Talor parliam l'uno alto e
+l'altro basso~, in alterutra cantilena, |secondo l'affezion~,
+maiorem vel minorem, |ch'a dir ci sprona~, idest, stimulat, |ora
+a maggior et ora a minor passo~, idest, nunc ad altiorem, nunc ad
+bassiorem vocem.  Ideo concludit: |per@o io non era solo dinanti~,
+idest, paulo ante, sicut tu existimabas, |al ben che 'l d@i ci si
+ragiona~, idest, ad commendationem paupertatis et largitatis,
+quae hic decantatur in die; |ma altra persona~, quam ego Hugo,
+|non alzava la voce qui da presso~; quia alii cantantes simul
+mecum utebantur voce depressa.
+
+	|124-129.  Noi eravam.~  Ista est quarta pars istius
+capituli, in qua poeta noster describit mirabilem accidens quod
+emersit ibi, scilicet tremorem et clamorem qui incussit sibi
+timorem magnum.  Unde dicit continuative: |Noi eravam partiti gi@a
+da esso~, idest, ab ipso Hugone Ciapetta, qui si fuerat avarus
+denariorum in vita, fuit mihi largus verborum hic, |e brigavam di
+soverchiar la strada~, idest, et conabamur percurrere viam, quia
+multum tardaveram cum illo spiritu, permittente Virgilio, |tanto,
+quanto al poder n'era permesso~, idest, quanto erat possibile
+facultati meae qui eram cum carne, nec poteram currere vel volare
+sicut Virgilius vel angelus; |quand'io senti' tremar lo monte
+come cosa che cada~: hic terraemotus evenit ex liberatione Statii
+poetae, sicut declarabitur capitulo sequenti.  Et dicit: |onde mi
+prese un gelo~, idest, timor magnus, qui reddit hominem gelidum,
+quia calor concurrit ad cor, a simili, |qual prender suol colui
+ch'a morte vada.~  Et est comparatio optima: terraemotus enim est
+res terribilis qui scindit interdum montes, evertit urbes cum
+magno interitu hominum; et hic poeta noster videbatur videre
+mortem prae oculis: non enim timemus quae videntur nobis a longe,
+quia non timemus mortem naturalem, quam non credimus fore
+propinquam. 
+
+	|130-132.  Certo.~  Hic poeta declarat hunc motum montis
+per nobilem comparationem.  Ad quam intelligendam clare debes
+scire quod Delos est insula notissima apud poetas, una de
+Cycladibus, scilicet in Arcipelago Romaniae, quae olim dicitur
+fuisse mobilis donec Latona mater Apollinis et Dianae confugit ad
+hanc insulam, Junone persequente eam, ubi peperit dictos duos
+filios.  Huius fictionis allegoriam quidam ponunt sic: dicunt
+enim quod Delos fuit insula quondam quassata magnis et crebris
+terraemotibus, quia cavernosa, quae aliquando stetit cooperta
+aquis novem mensibus tempore diluvii quod fuit in Graecia
+regnante Ogygio rege: in fine vero apparuerunt ibi radii solis et
+lunae; ideo datus est locus fabulae quod Latona peperit ibi solem
+et lunam.  Verumtamen quamvis ista expositio consona videatur,
+Macrobius libro Saturnalium subtilius rimatur veritatem huius rei
+profundius latentem.  Dicit enim quod ab origine mundi, cum omnia
+elementa essent simul mixta in uno corpore, quod antiqui
+appellaverunt Chaos, cum coepisset fieri distinctio formalis
+elementorum, terra adhuc humida substantia in molli et instabili
+sede natabat; sed crescente paulatim calore coelesti haec duo
+sidera nata videntur; et sol quidem maxima vi caloris tenuit
+locum superiorem; luna vero velut humida foemina tenuit locum
+inferiorem.  Latona enim, ut physici volunt, est terra cui diu
+obviavit Juno ne lumina ista orirentur, idest, quod aer qui tunc
+erat humidus et turbidus obstabat coelo, ne splendor luminum
+appareret; sed divinae prudentiae opera vicit, quae adiuvit
+partum, propter quod finguntur parti in insula Delos, quia ex
+mari nobis videntur oriri, quia partus, idest, ortus luminum
+omnia facit aperte clarescere.  Delos enim interpretatur
+claritas.  Ad literam ergo, dicit poeta: |Certo Delo non si
+scotea s@i forte~, idest, non movebatur ita olim sicut nunc mons
+purgatorii, |pria che Latona~, profuga et gravida, |facesse in
+lei il nido~, idest, hospitium et lectum, |a parturir li due
+occhi del cielo~, scilicet, solem et lunam.  Et hic nota quantum
+comparatio est propriissima; sicut enim Delos insula clarissima
+emisit ibi duo clarissima lumina ad coelum; ita nunc mons
+purgatorii clarissimus emittebat ad coelum duos clarissimos
+poetas, unum antiquum, scilicet, Statium, alium modernum,
+scilicet, Dantem: de Virgilio non loquor, quia non ivit ad
+coelum.  
+
+	|133-141.  Poi.~  Hic poeta describit clamorem qui est
+secutus ad tremorem: hunc clamorem magnum fecerunt spiritus ex
+magno gaudio per liberationem Statii, ut dicetur in sequenti
+capitulo.  Dicit ergo: |Poi cominci@o da tutte parti un grido~,
+per omnes circulos montis, |tal, che 'l maestro inv#er di me si
+feo~, ad succursum, |dicendo: non dubbiar mentr'io ti guido~,
+idest, non timeas donec duco te, quia si defendi te in inferno
+contra omnia terribilia, quanto magis in purgatorio.  Et explicat
+vocem clamantium, dicens: |tutti dicean: Gloria in Excelsis Deo,
+per quel che da vicin compresi~, a spiritibus ibi jacentibus,
+|onde lo grido si poteo intendere.~  Et sic vide quod poeta
+merito hoc fingit.  Sicut enim angeli cantaverunt cum laetitia
+hymnum istum quando natus est Redemptor mundi, ita nunc spiritus
+quando liberata est anima.  Et tangit effectum clamoris dicens:
+|noi ci restammo immobili e sospesi~, allecit suavitate cantus,
+|come i pastori~, tempore nativitatis Christi, |che pria udir
+quel canto~, scilicet, gloria in excelsis, |fin che 'l tremar
+cess@o~, similiter et clamor; |et e' compi@esi~, quia clamor durat
+quamdiu tremor.  Et hic nota quod ista secunda comparatio non
+posset esse magis propria de pastoribus ad poetas, quos semper
+Virgilius appellat pastores libro Bucolicorum: et ipsi duo erant
+duo pastores optimi, unus vetus, alter novus.  
+
+	|142-151.  Poi.~  Nunc poeta revertitur ad materiam suam,
+dicens: |Poi ripigliammo nostro camin santo~, quod parum
+intermiseramus propter tremorem et cantum, |guardando l'ombre~,
+idest, animas avarorum, |che giacean per terra tornate gi@a~,
+scilicet, post dictum: Gloria in excelsis Deo, |in su l'usato
+pianto.~  Et subdit quod factus est avidissimus sciendi causam
+huius mirandae rei; unde dicit: |nulla ignoranzia mi fe mai con
+tanta guerra~, in animo, |desideroso di sapere~, aliquid, |se la
+memoria mia in ci@o non erra~; prudenter loquitur, quia tot millia
+dubiorum fuerant in mente sua, quod forte non erat verum quod
+dicebat; |quanta par@emi allor aver pensando~, super dicto
+terraemotu.  Et dicit, quod sitis magis crescebat, quia nec per
+alium nec per se poterat declarari: unde dicit: |n@e era oso
+dimandar~, scilicet a Virgilio, |per la fretta~, quia ibant valde
+velociter, cum multum stetissent in isto circulo, et ista non
+videbatur materia levis tractanda in discursu; |n@e per me l@i
+potea veder cosa~, scilicet, aliquam quae esset causa
+terraemotus: ideo concludit: |cos@i m'andava timido e pensoso.~ 
+Et vere tempus erat non dicendi plura in isto XX capitulo, quod
+continet in se tot nobiles historias, fabulas et sententias.
+
+

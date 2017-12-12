@@ -1,0 +1,111 @@
+	|3.~ |(ed.  Rosini)~
+Petrarca: ^or tolga il mondo~.  [Sessa]
+
+	|6.~ |(ed.  Rosini)~
+Diche.  [richiamo marginale] [Sessa]
+
+	|10.~ |(ed.  Rosini)~
+^Stanzi~, compi.  [Sessa]
+
+^Stanzi~, deliberi.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+Superbo in Dio.  [richiamo marginale] [Sessa]
+
+	|21.~ |(ed.  Rosini)~
+^Labbia~, sempre aspetto.  [Sessa]
+
+^Labbia~, bocca.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+Dietro da.  [richiamo marginale] [Sessa]
+
+	|33.~ |(ed.  Rosini)~
+^Non sent@i le diece~, perch@e l'ammazz@o con poche.  [Da Fino]
+
+	|40.~ |(ed.  Rosini)~
+Seguette.  [richiamo marginale] [Sessa]
+
+	|42.~ |(ed.  Rosini)~
+Convenette.  [richiamo marginale] [Sessa]
+
+	|43.~ |(ed.  Rosini)~
+^Cianfa~, de' Donati.  [Da Fino]
+
+	|48.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|53.~ |(ed.  Rosini)~
+Anterior.  [richiamo marginale] [Sessa]
+
+	|54.~ |(ed.  Rosini)~
+Addentare.  [richiamo marginale] [Sessa]
+
+	|57.~ |(ed.  Rosini)~
+^E dietro per le ren'~.  ^Ren'~, cos@i di sovra c. XXIV v. 95).  [Sessa]
+
+	|58-59.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+Innanzi dall'.  [richiamo marginale] [Sessa]
+
+	|65.~ |(ed.  Rosini)~
+^Papiro~, lucignolo.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Muore~, perde.  [Da Fino]
+
+	|77-78.~ |(ed.  Rosini)~
+Metamorfosi.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+^Fersa~, per ^s~.  [Sessa]
+
+	|82.~ |(ed.  Rosini)~
+^Epe~, ventre.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Scocca~, dice.  [Da Fino]
+
+	|101.~ |(ed.  Rosini)~
+A mutarsi li corpi.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+Ascelle.  [richiamo marginale]
+	(Dopo avere segnato con lunga riga dal verso 52 insino al 135, 
+soggiunge il Tasso):
+	Mirabile nell'espressione di queste trasmutazioni sovra ogni poeta.  
+[Sessa]
+
+^Ascelle~, scaglie.  [Da Fino]
+
+	|120.~ |(ed.  Rosini)~
+^Dipela~, pela.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+^Lumaccia~, chiocciola.  [Da Fino]
+
+	|137.~ |(ed.  Rosini)~
+Sufolando.  [richiamo marginale] [Sessa]
+
+	|142.~ |(ed.  Rosini)~
+Cos@i vid'io, ec.
+	Questa medesima scusa della novit@a fa Lucrezio.  Laddove il 
+Vellutello, commentando gli ultimi versi di questo canto, opina che 
+Dante avesse messi in questo cerchio i nominati da lui, non perch@e 
+avessero rapito private cose, ma s@i le pubbliche.  Torquato ha scritto 
+la postilla che segue: ^Non l'intende~.  L.M.R.
+	^Zavorra~, sabbia, posta nella sentina delle navi.  [Sessa]
+
+^Zavorra~, bolgia.  [Da Fino]
+
+	|144.~ |(ed.  Rosini)~
+^Aborra~, abborraccia.  [Da Fino]
+
+	|146.~ |(ed.  Rosini)~
+^Smagato~, smarrito.  [Da Fino]
+
+	|151.~ |(ed.  Rosini)~
+^Gaville~, villa di Val d'Arno.  [Da Fino]
+

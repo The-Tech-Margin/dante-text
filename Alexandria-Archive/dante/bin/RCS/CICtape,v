@@ -1,0 +1,55 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.48.52;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Read files from a CIC data tape.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Read files from a CIC data tape. The resulting files have 444 permissions.
+
+umask 333
+
+echo Checking for old files...
+EXISTING=0
+for FILE
+do
+	if [ -f $FILE ]; then
+		echo File $FILE already exists.
+		EXISTING=1
+	fi
+done
+if [ $EXISTING -eq 1 ]; then
+	echo Remove existing files and rerun $0.
+	exit 1
+fi
+
+echo -n Mount tape and hit RETURN...
+read JUNK
+COUNT=0
+for FILE
+do
+	COUNT=`expr $COUNT + 1`
+	echo Tape file $COUNT '->' $FILE...
+	dd if=/dev/rmt4 of=$FILE ibs=4000
+	echo ""
+done
+mt rew
+@

@@ -1,0 +1,121 @@
+	|Proemio.~  Incomincia il chapitolo XXXI purghatorii.
+
+	|1-42.~ 
+
+   ^O tu che sse' di l@a dal fiume sacro~
+   ^volgiendo suo parlare a mme per punta~
+   ^che pur per taglio m'era paruto acro.~
+
+Trattato l'altore chome Beatricie riprendesse lui perch@e lasciato 
+l'avea ed erasi dato ad aparare altre scienzie.  Ora in questo C.o fa 
+ll'altore che Beatricie i[l] riprenda pi@u mordaciemente che di prima e 
+cho maggiori riprensioni e puotesi dividere questo C.o in quatro parti 
+gienerali.  In questa prima parte l'altore fingie che continuando 
+questa donna se alla materia paxata ancora i[l] rimordesse pi@u 
+mordaciemente e aspramente che di prima nel modo chome chomincia questo 
+chapitolo che Beatricie gli volgiea il suo parlare pi@u per punta che 
+per taglio.  E dicie l'altore che gli era paruto amaro e di questo 
+iscrive Vegiezio delli militari che per Virgilio ragioni i conbatenti 
+@e meglio a menare la spada di punta che di taglio.  La prima che dando 
+di punta hae a tagliare meno l'armi.  La seconda che quello ch'@e 
+fedito di punta hae meno resistenza contro il suo nimicho essendo 
+fedito.  La terza che l'uomo non si pu@o chos@i riparare dalla punta 
+chome dal taglio.  La quarta che 'l menare di punta @e minor faticha 
+che di taglio.  La quinta che l'uomo non si ischuopre tanto a menare di 
+punta quanto di taglio.  E per@o dicie che Beatricie il fedia pur di 
+punta per dargli magior pena del suo fallo.
+
+   ^Pocho sofferse e poi disse che pense.~
+   [...]
+
+Per queste parole non vuole dire altro l'altore se non ch'egli non @e 
+anchora tanto convertito n@e llavato in quel fiume Letes il quale @e 
+dimentichazione di tutti i vizii che non ti debbano ricordare di ci@o 
+ch'io ti domando e per@o di oltre rispondimi a la mia domanda.
+
+   ^Confusione e paura insieme miste.~
+   [...]
+
+Dicie l'altore che allora com paura e con verghognia a volere 
+rispondere a Beatricie e dicie che tanto fu la verghognia che lla vocie 
+non venne fuori ma che Beatricie comprese ci@o ch'egli volea dire pur 
+ghuardandolo nel volto e al menare della boccha e si gli dicie Beatricie
+
+   ^Ond'ella a mme per entro i mie' disiri.~
+   [...]
+
+Dicie Beatricie all'altore conciossiacosach@e lla teologia passi tutti 
+gli altri diletti dell'altre scienzie dunque qual fu la chagione che 
+ttu mmi abandonasti.  Rispose l'altore chos@i diciendo e sospirando
+
+   ^Dopo la tratta d'un sospiro amaro.~
+   [...]
+
+Rispuose l'altore a Beatricie diciendo ch'egli l'avea lasciata e 
+abandonata per attendere alle moralit@a di poesia questa fu la chagione 
+si naschose da Beatricie cio@e che Dante la lasci@o ch'ella per lui mai 
+non si naschose n@e naschonde a cchi lla vuole cierchare.
+
+	|43-75.~ 
+
+   ^Tuttavia.......~
+   [...]
+
+In questa seconda parte Beatricie arghuiscie contro all'altore 
+provadogli che veruna ragione non avea a doverla lasciare e abandonare 
+e per nulla il dovevi fare conciosiacosach@e non @e veruna altra arte 
+liberale n@e veruna iscienzia naturale che vaglia a ppiaciere di me e 
+de' miei libri.  E diciele in questa forma
+
+   ^Ma' non ti apresent@o natura o arte~
+   ^piacier quanto le belle membra in ch'io~
+   ^rinchiusa fui e che so' 'n terra sparte.~
+
+	|76-111.~ 
+
+   ^E chome la mie faccia si distese~
+   ^posarsi quelle prime creature~
+   ^da lloro operazion l'occhio comprese.~
+
+In questa terza parte l'altore fingie ch'egli confess@o il suo pecchato 
+ed errore e che poi pentuto ch'egli fosse per quella contessa Matelda 
+che significha la vita attiva paxato di l@a dal fiume che ella i[n] lui 
+lavasse e mondasse entro de' suoi vizii.  E dicie che lavato entro in 
+quel fiume Letes dismentichasse tutti que' vizii e pecchati e 
+incominci@o ad atendere alle virt@u e alle beatitudini.  E dicie che 
+ghuardando tra quella moltitudine di giente ch'egli vide Beatricie 
+involta nel suo velo pi@u bella e pi@u reluciente che tutte l'altre e 
+fingie che veggiendola s@i bella e ricognosciuto del suo errore dicie 
+che chadde in terra per la grande verghognia che allora egli ebbe di 
+vederla e averla lasciata e dicie chos@i
+
+   ^Poi quando il chor di fuori virt@u rendemi~
+   ^la donna ch'io avea trovata sola~
+   ^sopra mi vidi che dicie tiemi tiemi.~
+
+Per queste parole ritorna l'altore a quella contessa Matelda che 'l 
+guidava e menalo di l@a dal fiume e dicie che quando ella l'ebbe tratto 
+fuori dell'acqua dicie ch'ella l'oferse alle quatro virt@u chardinali 
+cio@e prudenzia giustizia fortezza e temperanza.
+
+	|112-145.~ 
+
+   ^Cos@i cantando chominciaro e poi~
+   ^al petto del grifon seco menarmi~
+   ^ove Beatricie volta stava a noi.~
+
+In questa quarta parte l'altore fingie che per queste quatro donne per 
+altre tre donne che sono fede speranza e charit@a il menassino a 
+Beatricie e che per loro egli ritornasse in grazia a llei.  E questa @e 
+la verit@a che qualunche persona hae queste tre donne in conpagnia si 
+llo ingraziano alla teologia che altro none @e a questi prieghi di 
+costoro s@i ssi isvegli@o Beatricie a dovere perdonare all'altore e 
+per@o dicie cos@i
+
+   ^O isplendor di viva lucie eterna~
+   ^chi palido si fecie sotto l'ombra~
+   ^s@i di Parnaso o bevve in sua cisterna.~
+
+Dicie qui l'altore qual fu mai quel poeta o qual filosafo ch'andasse al 
+monte Parnasso dov'era il loro istudio che te veggiendo non ti temesse 
+e dicie cos@i incontro a Beatricie veggiendola.

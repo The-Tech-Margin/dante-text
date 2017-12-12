@@ -1,0 +1,1171 @@
+|PURGATORIO CANTO 20~
+
+	|1.  Contra miglior voler voler mal pugna~: The "better
+will" is that of Adrian's to continue his penance (^Purg.~ XIX,
+139-41).  Dante's desire, of course, is to hear more from him.
+
+	|2.  piacerli~ = ^piacergli.~
+
+	|3.  trassi de l'acqua non sazia la spugna~: Buti
+comments: "Fa qui similitudine, cio@e che la volont@a sua era come
+una spugna, e che li desid@eri, ch'elli avea di sapere altre cose
+da quello spirito, rimaseno non sazi, come rimane la spugna
+quando si cava dell'acqua, inanti che sia tutta piena."  ("This
+is a simile.  His will is like a sponge, and his desire to know
+other things from that spirit remained unsatiated, just as the
+sponge is when it is taken out of the water before it is full.")
+
+	|4.  Mossimi~ = ^mi mossi.~     |per li~: For this type
+of weak rhyme, cf. ^Inf.~ VII, 28; ^Purg.~ XVII, 55.
+
+	|5.  luoghi spediti~: The spaces where no soul is lying. 
+|spediti~: "Unoccupied."    |pur lungo~ = ^sempre lungo.~    |la
+roccia~: The wall of the terrace.
+
+	|6.  come si va per muro stretto a' merli~: Grandgent
+explains: "The poets step carefully along on the inner side of
+the cornice, close to the upright cliff, just as soldiers march
+on the top of a narrow rampart, close to the battlements.  Such
+battlemented walls still surround Carcassonne and Aigues-Mortes,
+and may be seen also at Avignon and Florence."     |stretto~:
+Adverb.
+
+	|7.  fonde a goccia a goccia~: ^Fondere~ suggests a
+melting, as of ice.  See ^Purg.~ XXX, 85-90.
+
+	|8.  il mal che tutto 'l mondo occupa~: Avarice (and not
+prodigality).  Just as avarice possesses the whole world, these
+souls "occupy" the whole terrace, as the following verse
+indicates.  It will be remembered that there was also stress on
+the great numbers of the avaricious in their respective circle of
+Hell (see ^Inf.~ VII, 25).  Torraca notes the possible connection
+between the last words in the following passage from Prudentius
+(^Psychomachia~, vss. 480-82, 493-94) and "tutto 'l mondo
+occupa":
+
+     talia per populos edebat funera victrix
+     orbis Avaritia, sternens centena virorum
+     millia vulneribus variis...
+     omne hominum rapit illa genus, modalia cuncta
+     occupat interitu...
+
+     Such the slaughter that Greed, the conqueress of the world,
+     was dealing among the nations, laying low myriads of men
+     with diverse wounds....  The whole race of men she seizes
+     upon, all mortality she destroys before it can help itself.
+
+|occupa~: Grandgent comments: "For the accentuation, cf. ^occ@upi,
+coll@oca, perp@etra.~  Petrarch has ^impl@ica~; Lorenzo de' Medici,
+^ripl@ica~ and ^s'espl@ica~; Ariosto, ^espl@ico~; Cavalcanti,
+^s'umil@ia.~"
+
+	|9.  s'approccia~ = ^s'avvicina.~  The souls lie too close
+to the outer edge of the terrace to leave a passageway there.
+
+	|1O.  Maladetta sie tu, antica lupa~: This clearly
+recalls the prologue scene and the she-wolf of covetousness which
+this wolf represents there, the most troublesome of the three
+beasts; it also brings to mind Plutus' being called "maladetto
+lupo" in ^Inf.~ VII, 8.  It should be noted that "antica lupa"
+echoes significantly the "antica strega" of ^Purg.~ XIX, 58.  The
+she- wolf is indeed old, since she represents one of the vices
+(concupiscence) which are a consequence of the fall of our first
+parents. 
+
+	|11.  che pi@u che tutte l'altre bestie hai preda~: The
+"other beasts" are other sins and vices.  One recalls the ^lonza~
+and the lion at the beginning of the poem and the verse in the
+prophecy of the "veltro" where it is said that the she-wolf mates
+with many other beasts (^Inf.~ I, 100-102), a matter now echoed
+in these verses.  Note the repetition of the rhyme -^eda~ in vss.
+11, 13, and 15, which connects with another such prophecy and
+rhyme scheme in ^Purg.~ XXXIII, 35, 37, and 39.  The she-wolf
+takes more souls than any other beast, hence the great numbers of
+the avaricious both here and in Hell.
+
+	|12.  per la tua fame sanza fine cupa~: Cf. ^Inf.~ I,
+98-99.    |cupa~: "Hollow," "deep."  Cf. ^Purg.~ XIV, 52, and
+note the rhyme scheme in ^Inf.~ VII, 8, 10, 12.
+
+	|13-15.  O ciel... disceda?~ The heavens are addressed as
+the determining influence and mediate cause, but beyond them is
+God's providence working through them.  The prophetic question
+looks to the advent of that temporal monarch about whom Dante
+composed his treatise ^De monarchia~, the same that was called
+the "veltro" in the first canto of the ^Inferno~ and whose birth
+(i.e., advent) was to be "between felt and felt" (see n. to
+^Inf.~ I, 105), that is, under the sign of Gemini.
+
+	|par che si creda~: "Par" (^pare~) here is not intended to
+reflect any doubt on the poet's part.  Dante believed that
+conditions on earth were determined by the heavens, of course, as
+did most men of his time, but the turn of phrase recognizes the
+mystery of this fact.  For the phrase, cf. ^Inf.~ XII, 42. 
+
+	|le condizion di qua gi@u~: The apostrophe is uttered by
+the poet and concerns the condition of the living.  
+
+	|quando verr@a per cui questa disceda~: For the  meaning,
+see ^Inf.~ I, 109-11.   |per cui~ = ^colui per cui~, "he through
+whom."    |disceda~: From the Latin ^discedat~, "shall depart."
+
+	|16.  lenti e scarsi~: "Slow and short" because Dante and
+Virgil must step carefully so as not to tread on the prostrate
+souls; for this reason Dante is especially "attentive" to the
+shades, as will be indicated in the following verse.
+
+	|19.  Dolce Maria~: As usual, Mary serves as the first
+example of the virtue that opposes the vice in question, in this
+case exemplifying the largess that opposes avarice.  Compare
+^Speculum beatae Mariae Virginis~ IV (p. 45), formerly attributed
+to Bonaventura, but now to Conrad of Saxony: "Maria contra
+avaritiam ^tenuissima~ per paupertatem."  ("Mary against avarice
+is very lowly through poverty.")
+
+	|20-21.  chiamar cos@i nel pianto... sia~: See Isa. 26:17:
+"Sicut quae concipit, cum appropinquaverit ad partum dolens
+clamat in doloribus suis."  ("As a woman with child, when she
+draweth near the time of her delivery, is in pain and crieth out
+in her pangs.")  Cf. ^Par.~ XV, 133.
+
+	|22.  seguitar~: Infinitive depending on "udi'," vs. 19. 
+|Povera~: The key term, poverty, focusing on the virtue which
+opposes avarice, is thus given the initial position in what is
+then said.
+
+	|23.  quello ospizio~: The humble stable of Bethlehem.
+
+	|24.  sponesti~ = ^deponesti~ (cf. "spuose," ^Inf.~ XIX,
+130).    |portato~: See Luc. 2:7: "Et peperit filium suum
+primogenitum; et pannis eum involvit, et reclinavit eum in
+praesepio, quia non erat eis locus in diversorio."  ("And she
+brought forth her firstborn son, and wrapped him in swaddling
+clothes, and laid him in a manger, because there was no room for
+them in the inn.")  |Portato~ was commonly used in this sense. 
+See, for example, Torraca, who provides the following quotation
+from ^Laude cortonesi~ XLIV: "Elisabet... sei mesi fe' 'l
+portato."  ("Elizabeth... bore her burden for six months.") 
+
+	|25-27.  Seguentemente intesi: "O buon Fabrizio...
+vizio"~: The usual alternation between a biblical and a
+non-biblical example is now observed, the second example of
+largess being Gaius Fabricius Luscinus, famous Roman hero, consul
+in 282 and 278 B.C., and censor in 275.  During the invasion of
+Italy by Pyrrhus, king of Epirus, he was sent to the latter to
+negotiate an exchange of prisoners.  Pyrrhus used every effort,
+including rare gifts, to gain him over, but Fabricius refused all
+his offers.  On a later occasion he sent back to Pyrrhus the
+traitor who had offered to poison him, after which he succeeded
+in arranging terms for the evacuation of Italy by the former. 
+During his censorship he severely repressed the growing luxury of
+the Romans, and he died in such poverty that the state had to pay
+for his funeral.  Roman writers take pride in recording how
+Fabricius lived on his farm and refused the rich gifts offered
+him by the Samnite ambassadors.  See Virgil, ^Aen.~ VI, 843-44;
+Valerius Maximus, ^Fact. dict. memor.~ I, viii, 6; II, ix, 4; IV,
+iv, 3; Augustine, ^De civ. Dei~ V, xviii, 2; and Dante's remarks
+in ^De mon.~ II, v, 11:
+
+     Nonne Fabricius altum nobis dedit exemplum avaritie
+     resistendi cum, pauper existens, pro fide qua rei publice
+     tenebatur auri grande pondus oblatum derisit, ac derisum,
+     verba sibi convenientia fundens, despexit et refutavit?
+     Huius autem memoriam confirmavit Poeta noster in sexto cum
+     caneret:
+
+		     parvoque potentem
+	        Fabricium.
+
+     Did not Fabricius give us a lofty example of resisting greed
+     when, in the fidelity that held him to the Commonwealth,
+     poor as he was, he scoffed at the great pile of gold offered
+     to him, and having scoffed thereat and uttered words worthy
+     of himself, contemned and refused it?  His memory, too, our
+     poet confirmed in the sixth, when he sang:-- "And Fabricius,
+     mighty on his little."
+
+	|29.  contezza~: "Knowledge," "acquaintance."  Cf. "conto"
+in ^Purg.~ XIII, 105.  
+
+	|31-33.  la larghezza... giovinezza~: The third example
+of largess, the proper and laudable use of riches, as opposed to
+the ways of grasping avarice, is Nicholas, bishop of Myra in
+Lycia, Asia Minor, who is supposed to have lived in the fourth
+century under Constantine and to have been present at the Council
+of Nicaea (325).  He is venerated as a saint by both the Greek
+and Roman Churches and is regarded as the patron saint of Russia
+and of virgins, sailors, travelers, merchants, thieves, and (as
+Santa Claus) of children.  In the eleventh century his remains
+were transported to Bari, and he is hence sometimes known as
+Nicholas of Bari.  The allusion is to the tradition that Nicholas
+prevented an impoverished fellow citizen from prostituting his
+three daughters, by throwing purses of gold into their windows on
+three successive nights, thus furnishing each with a dowry.  The
+incident is related in the ^Legenda aurea~ (III, 1) of Jacobus de
+Varagine, archbishop of Genoa from 1292 to 1298.  Benvenuto tells
+the story as follows:
+
+     Beatus Nicolaus mortuis parentibus volens sua bona
+     pauperibus erogare, dum quidam nobilis tres filias adultas
+     urgente inopia disponeret quaestum facere pro substentatione
+     vitae, occulte de nocte proiecit per fenestram massam auri
+     involutam pallio, ex quo primogenita maritata est; post tempus
+     iterato, et tertio simile fecit, ex quo reliquae nupserunt;
+     et invitus cognitus est a patre virginum.
+
+     When the parents of the blessed Nicholas died, he wished to
+     distribute his wealth among the poor.  Learning that a
+     certain nobleman, because of poverty, was prepared to make
+     prostitutes of his three daughters in order to gain enough
+     money to live, he one night wrapped a sum of gold in a cloak
+     and threw it in the window, and by this the eldest was
+     married; he did the same for the other two daughters and
+     they got married.  And it was against his will that the
+     father of the girls discovered his identity.
+
+	|34.  ben~: A noun here (as again in vs. 121) and the
+direct object of "favelle."    ^favelle~ = ^favelli.~
+
+	|36.  lode~: Plural of ^loda~, in the sense of a deed
+worthy of praise (see "loda" in ^Inf.~ II, 103).    |rinovelle~ =
+^rinovelli.~
+
+	|37.  fia~ = ^sar@a.~     |merc$e~: Dante thus offers to
+pray for this soul or to have others pray for him.
+
+	|38.  compi$er~: The rhythm of the verse requires this
+accent on a verb which in modern Italian is always pronounced
+^c@ompiere.~
+
+	|39.  quella vita ch'al termine vola~: Cf. ^Purg.~
+XXXIII, 54.
+
+	|40-42.  Io ti dir@o... morto~: Sapegno comments: "Credo
+che si possa... interpretare questo esordio come una formula di
+cortesia: ti risponder@o, non in vista della mercede che mi
+promettesti, ma solo per ossequio alla luce della grazia divina
+che in te si rivela in un modo cos@i straordinario."  ("I think
+one can... interpret this exordium as a form of courtesy: 'I will
+answer you not because of the reward you promise me, but only out
+of respect for the light of Divine Grace that reveals itself in
+you in such an extraordinary way.'")
+
+	|43-45.  Io fui radice... se ne schianta~: It should be
+borne in mind that genealogical "trees" in Dante's time were
+commonly drawn as trees, hence growing up, not turned down, as
+tables are today.  The metaphor here draws on the image of a real
+tree, bearing the suggestion that it has now grown so tall that
+it casts its shade over all Christendom, a shade in which good
+fruit can rarely be produced.  The speaker, as he then declares
+(vs. 49), is Hugh Capet, king of France from 987 to 996, the
+first king of the Capetian line.  Porena comments:
+
+     Mettendo una condanna cos@i grave a quella casa in bocca al
+     suo capostipite, Dante vuol dare ad essa un carattere di
+     assoluta verit@a e obiettivit@a, come quando ha fatto
+     condannare i Romagnoli da un Romagnolo, i Lombardi da un
+     Lombardo, e far@a condannare in Paradiso i Veneti da una
+     Veneta e i papi da S. Pietro.
+
+     By putting such a grave condemnation of that house in the
+     mouth of its founder, Dante means to give it the quality of
+     absolute truth, just as he did when he had the Romagnoles
+     condemned by a Romagnole, and the Lombards by a Lombard; and
+     in Paradise he will have the Venetians condemned by a
+     Venetian woman, and the popes by St. Peter.
+
+	|rado~ = ^raramente.~     |se ne schianta~: "Is picked
+there," i.e., in the land that is overshadowed by this plant.
+
+	|46.  Doagio, Lilla, Guanto e Bruggia~: Flanders is now
+indicated by this mention of Douai, Lille, Ghent, and Bruges,
+four of its principal cities.  The reference here is to the
+events which took place in Flanders between 1297 and 1304, in
+which those towns played a conspicuous part.
+	In 1297, Guy of Dampierre, count of Flanders, having by
+his alliance with Edward I of England excited the suspicions of
+Philip the Fair of France, was decoyed by the latter under a
+lying pretext to Corbeil, where he was kept prisoner until he had
+sworn to renounce all communication with Edward.  No sooner,
+however, did Guy regain his liberty than he broke his oath. 
+Philip thereupon proceeded to make war upon him, and sent his
+brother, Charles of Valois, into Flanders to subject the country. 
+Guy, having been abandoned by his ally, the king of England, who
+through the mediation of Boniface VIII had made peace with Philip
+(March 1298), was compelled to come to terms with Charles.  It
+was agreed that he should go to Paris with his two sons to sue
+for the king's pardon, a safe-conduct for his return being
+promised him in the event of peace not being concluded between
+them within the year.  Philip, however, declared that in offering
+these terms Charles had exceeded his authority, and he
+treacherously imprisoned Guy and his two sons.  Treating Flanders
+as a subject state, he visited the country in person and was well
+received by a portion of the population.  But the cruelty and
+oppression of Ch#atillon, the French governor, drove the lower
+classes to arms; they rose in every part of the country, and with
+an army, which consisted mostly of peasants and artisans, they
+totally defeated the French at Courtrai (the Battle of the Spurs)
+on July 11, 1302.  In this battle, in which they lost the flower
+of their nobility, the count of Artois among them, the French met
+with the vengeance to which Dante alludes.  After this defeat
+Philip made peace (in 1305) with Flanders, released his
+prisoners, and surrendered all the country north of the Lys to
+Robert de B$ethune (eldest son of Guy, who had died in captivity),
+the southern portion being annexed to France.
+
+	|47.  saria~ = ^sarebbe.~     |vendetta~: The "vengeance"
+came in 1302 at the disastrous defeat suffered by the French in
+the battle at Courtrai.  See preceding note.
+
+	|48.  cheggio~ = ^chiedo.~      |lui~: God.     
+|giuggia~: From the French ^juge~ (^juger~).  The Gallicism is no
+doubt deliberate here.  
+
+	|49-60.  Ciappetta~: From the French Chapet, a form of
+the name that existed along with Capet in different French
+dialects.  |Chiamato fui... ossa~: The statements put by Dante
+into the mouth of Hugh Capet as to the origin of the Capetian
+dynasty are in several respects at variance with the historical
+facts and can be explained only on the supposition that Dante (as
+common tradition before him) has confused Hugh Capet with his
+father, Hugh the Great, some of the statements being applicable
+to the one, some to the other.  The facts are as follows.  Hugh
+the Great died in 956; Louis V, the last of the Carolingians,
+died in 987, in which year Hugh Capet became king (probably
+crowned at Noyon in July); on his death in 996, he was succeeded
+by his son Robert, who had previously been crowned in December
+987.
+
+	Dante makes Hugh Capet say, first, that he was the son of
+a butcher of Paris, whereas common tradition assigned this origin
+not to Hugh Capet, but to his father, Hugh the Great, and second
+that when the Carolingians came to an end he was so powerful that
+he was able to make his son king whereas on the failure of the
+Carolingian line Hugh Capet himself became king (987).  Although
+it is urged in explanation of the expression "widowed crown" that
+he associated his son Robert with him in the government and had
+him crowned in the same year (987) as his own accession, it is
+not by any means likely that Dante was aware of these facts; nor
+do they explain Hugh Capet's further statement (vss. 59-60) that
+with his son the Capetian line began, whereas in fact it began
+with himself.  On the other hand, this statement could not apply
+to Hugh the Great, of whom Dante seems to have been thinking,
+because he had already been dead more than thirty years when the
+crown became vacant by the death of Louis V and was seized by
+Hugh Capet.
+
+	The tradition that Hugh the Great, who in reality was
+descended from the counts of Paris, was the son (or nephew) of a
+butcher was commonly believed in the Middle Ages and was, as
+Villani (IV, 4) records, accepted as true by most people in
+Dante's time:
+
+     Ugo Ciapetta... fallito il lignaggio di Carlo Magno, fu re
+     di Francia nelli anni di Cristo 987.  Questo Ugo fu duca
+     d'Orliens (e per alcuno si scrive, che fur sempre i suoi
+     antichi e duchi e di grande lignaggio) figliuolo d'Ugo il
+     grande, e nato per madre della serocchia d'Otto primo della
+     Magna; ma per li pi@u si dice, che 'l padre fu uno grande e
+     ricco borgese di Parigi stratto di nazione di buccieri,
+     ovvero mercatante di bestie.
+
+     When the line of Charlemagne died out, Hugh Capet became
+     king of France, in the year 987.  This Hugh was duke of
+     Orleans.  According to a few writers, his ancestors had
+     always been dukes of great lineage: his father was Hugh the
+     Great, and his mother, a sister of Otto I of Germany.  But
+     most writers say his father was a very rich and powerful
+     burgher of Paris, who had originally been a butcher or
+     cattle merchant.
+
+For the confusion of the two Hughs in the common tradition and a
+discussion of the whole problem, with relevant bibliography, see
+P. Rajna (1960).
+
+	|50-51.  i Filippi e i Luigi... retta~: The kings of
+France and of the Capetian line who bore the name of Philip and
+Louis.  From Hugh Capet down to the year 1300, the assumed date
+of the journey, there were four kings of each name in the
+Capetian line (dates in parentheses indicate dates of reign):
+Philip I (1060-1108), Philip Augustus (1180-1223), Philip III
+(1270-85), and Philip IV (1285-1314); Louis VI (1108-37), Louis
+VII (1137-80), Louis VIII (1223-26), and Louis IX (1226-70).  
+
+	|per cui~ = ^dai quali.~      |novellamente~: "Of late."  
+As noted above, the line begins with a Philip (Philip I) in 1060 
+and was continuing, in 1300, with a Philip (Philip IV).
+
+	|52.  Figliuol fu' io d'un beccaio~: See n. to vss.
+49-60.  "Beccaio" counts as two syllables here.  Cf. ^Purg.~
+XIII, 22 and XIV, 66, where "migliaio" and "primaio" also count
+as two syllables.
+
+	|53.  li regi antichi~: The Carolingians.  Perhaps, owing
+to Dante's having confused the last of that line with the last of
+the Merovingians (see n. to vs. 54), it is the latter who are
+meant, the designation of ancient kings being more appropriately
+applied to them than to the comparatively recent Carolingians.
+
+	|54.  fuor ch'un renduto~: Charles, duke of Lorraine, son
+of Louis IV, who was king of France from 936 to 954, and brother
+of Lothair, who reigned from 954 to 986.  On the death, without
+issue, of Louis V (who reigned from 986 to 987), eldest son of
+Lothair, the rightful successor to the throne was his uncle,
+Charles, who was the last remaining representative of the
+Carolingian line; but because, as duke of Lorraine, he was a
+vassal of the German emperor, the French would not accept him as
+king.  The throne was thereupon seized by Hugh Capet, who
+besieged Charles in Laon, took him prisoner, and kept him in
+captivity until his death in 992.
+
+	The difficulty here is that Charles of Lorraine, who is
+undoubtedly the person intended, did not become a monk.  There
+can hardly be a question, however, that Dante has confused him,
+the last of the Carolingians, with Childeric III, the last of the
+Merovingians, who, after his deposition by P$epin le Bref in 752,
+was confined in the monastery of Saint Bertin, at Saint-Omer,
+where he died in 755.  Villani (II, 12) writes: " [Stefano papa
+secondo] fece al detto Pipino molti brivilegi e grazie, e fecelo
+e conferm@o re di Francia, e dispuose Ilderigo re ch'era della
+prima schiatta, perocch'era uomo di niuno valore, e rend@esi
+monaco."  ("[Pope Stephen II] bestowed many privileges and favors
+on P$epin; he had him made and confirmed king of France.  And he
+deposed King Childeric, who was of the first line, for he was a
+man of no account; and Childeric became a monk.") 
+
+|renduto~: A common term for a monk in early Italian; cf. the OFr
+^rendu.~  See ^rendersi~ ("to join a religious order") as used in
+^Inf.~ XXVII, 83.
+
+	|55.  trova'mi~ = ^mi trovai.~
+
+	|57.  e si d'amici pieno~: "Pieno" here is an adjective
+modifying ^mi~ understood as direct object of "trova'" (the "mi"
+conjoined to this form in vs. 55 being an indirect object).
+
+	|58-59.  la corona vedova... figlio~: The fact is that
+on the failure of the Carolingian line Hugh Capet himself became
+king.  See n. to vss. 49-60.
+
+	|60.  cominciar~ = ^cominciarono.~      |le sacrate
+ossa~: The kings of France were consecrated in the cathedral of
+Reims.  In using the word "ossa," the poet is looking back over
+the line of kings as now entombed and duly monumentalized.
+
+	|61.  Mentre che~ = ^fin che.~  Cf. ^Inf.~ XIII, 18-19. 
+|la gran dota provenzale~: On the division of the Carolingian
+empire in 843, Provence fell to Lothair, who left it with the
+title of king to his son Charles (855).  It afterwards became a
+part of the kingdom of Arles as a feudal fief and was reunited to
+the Empire in 1033 by Conrad II; but the union remained almost
+nominal, the counts of Provence claiming to be independent.  In
+1246, through the marriage of Charles of Anjou, brother of Louis
+IX of France, with Beatrice, heiress of Raymond Berenger IV of
+Provence, Provence became a dependency of the royal house of
+France, and it remained in the possession of the house of Anjou
+until 1486, when it was formally annexed to the French crown by
+Charles VIII.
+
+	|62.  al sangue mio non tolse la vergogna~: I.e., until
+the desire for and the gaining of "the great dowry of Provence"
+had so inured my race to evil works that it rendered them
+incapable of feeling shame for their deeds.  
+
+	|64.  L@i~: In the taking of the rich dowry of Provence,
+which was not achieved without fraud and a certain violence,
+since Beatrice had been promised in marriage to Count Raymond of
+Toulouse in the first place, and not to Charles of Anjou.
+
+	|65.  la sua rapina~: The object of "cominci@o."     |e
+poscia, per ammenda~: This is obviously said with bitter sarcasm,
+which increases through repetition, reaching a climax in its use,
+for the third time, in vs. 69.
+
+	|66.  Pont@i e Normandia prese e Guascogna~: Ponthieu,
+former district of France, consisting of a "county," and
+comprising part of the province of Picardy, is included in the
+modern department of Somme and was situated at the mouth of the
+river of that name, with Abbeville for its capital.  It belonged
+to the English crown, having been ceded to Edward I by Philip III
+in 1279; the succession to it was, however, disputed in 1290
+between Prince Edward (afterwards Edward II) and the count of
+Aumale, and it was held by the king of France until 1299, when
+Edward I recovered it as the dowry of his second wife, Margaret
+of France, daughter of Philip III.  It was in respect of
+Ponthieu, Guyenne, and Gascony that Edward I was the vassal of
+the French king and was summoned by Philip the Fair to appear
+before him after the piratical warfare between the English and
+French in 1292-93, in which the latter suffered a disastrous
+defeat.  Edward refused to obey the summons, but eventually, in
+virtue of an agreement made (in 1294) with Philip by his brother
+Edmund, earl of Lancaster, consented to allow the former to
+occupy the English provinces in France, on the secret
+understanding that they should be restored at the expiration of
+six weeks.  When this period came to an end, however, Philip
+refused to carry out his engagement, and retained possession of
+the provinces, which were not restored until the treaty of
+Chartres in 1299.  Normandy, ancient duchy in the north of
+France, comprising the modern departments of Seine-Inf$erieure,
+Eure, Orne, Calvados, and Manche, was attached to the English
+crown from the Norman Conquest (1066) until 1204, when, together
+with Maine, Anjou, and Touraine, it was conquered by Philip
+Augustus.  The English claim on Normandy, however, was not
+renounced until the end of the century, during the reign of
+Philip the Fair.  Gascony, a historical region in southwest
+France, for many years was held by the kings of England, the
+French crown claiming homage from them in consideration of their
+tenure of it.  The incident alluded to by Hugh Capet is related
+by Villani (VIII, 4) as follows:
+
+     Nel detto anno 1293, avendo avuta battaglia e ruberia in
+     mare tra' Guasconi che erano uomini del re d'Inghilterra, e'
+     Normandi che sono sotto il re di Francia, della quale i
+     Normandi ebbono il peggiore, e vegnendosi a dolere
+     dell'ingiuria e dammaggio ricevuto da' Guasconi al loro re
+     di Francia, lo re fece richiedere il re Adoardo
+     d'Inghilterra (il quale per sorte tenea la Guascogna
+     dovendone fare omaggio al re di Francia) che dovesse far
+     fare l'ammenda alle sue genti, e venire personalmente a fare
+     omaggio della detta Guascogna al re di Francia, e se ci@o
+     non facesse a certo termine a lui dato, il re di Francia col
+     suo consiglio de' dodici peri il privava del ducato di
+     Guascogna.  Per la qual cosa il re Adoardo il quale era di
+     grande cuore e prodezza, e per suo senno e valore fatte di
+     grandi cose oltremare e di qua, isdegn@o di non volere fare
+     personalmente il detto omaggio, ma mand@o in Francia messer
+     Amondo suo fratello che facesse per lui, e soddisfacesse il
+     dammaggio ricevuto per la gente del re di Francia.  Ma per
+     l'orgoglio e cuvidigia de' Franceschi, il re Filippo di
+     Francia nol volle accettare, per avere cagione di torre al
+     re d'Inghilterra la Guascogna, lungamente conceputa e
+     desiderata.  Per la qual cosa si cominci@o dura e aspra
+     guerra tra' Franceschi e gl'Inghilesi in terra e in mare,
+     onde molta gente morirono, e furono presi e diserti dall'una
+     parte e dall'altra....  E 'l seguente anno il re Filippo di
+     Francia mand@o in Guascogna messer Carlo di Valos suo
+     fratello con grande cavalleria, e prese Bordello e molte
+     terre e castella sopra il re d'Inghilterra, e in mare mise
+     grande navilio in corso sopra gl'Inghilesi.
+
+     In the year 1293 the Gascons, who were obedient to the king
+     of England, and the Normans, who are under the king of
+     France, engaged in a sea battle that ended in piratical
+     plundering.  The Normans, who got the worst of it, went to
+     the king of France to complain of the injury and the damage
+     done them by the Gascons.  The king sent word to King Edward
+     of England (who, as lord of Gascony, had to do homage to the
+     king of France) that he was to have his men make
+     restitution, and that he himself was to come to do homage
+     for Gascony to the king of France.  If he did not come
+     within a set time, the king of France with his council of
+     twelve would deprive him of the duchy of Gascony.  King
+     Edward, a brave man of great heart, whose good sense and
+     valor were responsible for great deeds both here and beyond
+     the sea, disdainfully refused to do that homage personally. 
+     Instead, he sent to France his brother Edmund to do it for
+     him and to recompense the king's men for the damage done
+     them.  But French pride and cupidity caused King Philip of
+     France not to accept, so that he might have an excuse to
+     take away Gascony from the king of England, which had long
+     been his wish and design.  For these reasons, a long and
+     bitter war ensued between France and England, fought on both
+     land and on sea.  Many men were killed on both sides, many
+     were captured, and many deserted....  The following year King
+     Philip of France had his brother Messer Charles of Valois
+     invade Gascony with a large force of cavalry.  He took
+     Bordeaux as well as many towns and castles from the king of
+     England; and on the sea, he sent forth a great fleet against
+     the English.
+
+Thus England was robbed by "force and fraud" of these
+territories.
+
+	As Butler points out, there is some confusion of
+chronology here, for Normandy had been taken from the English by
+Philip Augustus in 1204, long before the union of Provence with
+France, which was brought about in 1246.  The English, however,
+did not renounce their claim upon Normandy until some time later;
+Villani (XII, 63), in fact, represents Edward III as justifying
+himself to his barons for his projected invasion of France on the
+ground that the French king was in wrongful possession of the
+English provinces of Gascony, Ponthieu (which he says Edward II
+received as the dowry of his wife Isabella of France), and
+Normandy: "Nel detto anno 1346, avendo il re Adoardo raunato suo
+navilio... per passare nel reame di Francia... e comunicatosi co'
+suoi baroni, e a loro fatta una bella diceria, com'egli con
+giusta causa andava sopra il re di Francia che gli occupava la
+Guascogna a torto, e la contea di Pont@i per la dote della sua
+madre, e per frode gli tenea la Normandia." ("In the year 1346,
+King Edward assembled his fleet... to invade the kingdom of
+France... and he called together his barons and held a great
+speech, in which he said that, in a just cause, he was attacking
+the king of France, who was wrongfully occupying Gascony and the
+county of Ponthieu, which were his mother's dowry, and was
+holding Normandy under fraudulent pretexts.")
+
+	|67.  Carlo venne in Italia~: Charles of Anjou, having
+been invited by Urban IV to assume the crown of Naples and
+Sicily, in response to the entreaties of the new pope, Clement
+IV, came into Italy in 1265 and in little more than three years,
+by his defeat of Manfred at Benevento (February 26, 1266) and of
+Conradin at Tagliacozzo (August 23, 1268), completely and finally
+crushed the power of the Hohenstaufen in Italy.  For additional
+details on Charles' entrance into Italy and the battle of
+Benevento, see n. to ^Purg.~ III, 112.
+
+	|68.  vittima f$e di Curradino~: Conradin, son of the
+Emperor Conrad IV, was the last legitimate representative of the
+Swabian line and the last scion of the Hohenstaufen line.  On the
+sudden death of his father in 1254, Conradin, who was barely
+three years old, was the rightful claimant to the crown of Naples
+and Sicily.  But his uncle, Manfred, assuming first the regency
+in Conradin's name, on a report of his death (which he himself is
+supposed to have originated), accepted the crown at the
+invitation of the great nobles (1258).  He met the protests of
+Conradin's mother by saying it was not in the interests of the
+realm that the kingdom should be ruled by a woman and an infant. 
+After Manfred's defeat and death at Benevento (February 26,
+1266), the kingdom, impatient of the French yoke and the
+Ghibellines throughout Italy, called upon Conradin to assert his
+hereditary rights.  In response to this appeal Conradin descended
+into Italy in the next year with an army in order to wrest his
+kingdom from Charles of Anjou (Villani, VII, 23).  But the
+attempt resulted in a disastrous failure.  Conradin was defeated
+by Charles at Tagliacozzo (August 23, 1268) and having been
+betrayed into his hands was executed at Naples (October 29).    
+|f$e~ = ^fece.~
+
+	|69.  ripinse al ciel Tommaso~: The Thomas referred to by
+Dante here is Thomas Aquinas, the famous scholastic theologian
+and philosopher, who was born in 1225 or 1226.  In January 1274,
+he was summoned by Gregory X to attend the Council of Lyons, and,
+though ill at the time, he set out on the journey but died, after
+lingering for some weeks at the monastery of Fossanova, near
+Terracina, on March 7 of that year.  The belief that he had been
+poisoned at the instance of Charles of Anjou was current in
+Dante's day (see P. Toynbee, 1968, pp. 614-15) but seems to be
+completely unfounded.  See ^Par.~ X-XI.
+
+	|70.  Tempo vegg'io~: At this point Hugh passes to
+prophecy.     |vegg'io~: Hugh begins now to repeat ^veggio~ as he
+has repeated ^per ammenda.~     |ancoi~: The present day (Latin
+^hanc hodie~).  Cf. ^Purg.~ XIII, 52; XXXIII, 96.
+
+	|71.  tragge~: "Tempo" is the subject of the verb.     
+|un altro Carlo~: This other Charles is Charles of Valois, who
+was born in 1270 and died in 1325, the third son of Philip III of
+France (by his wife Isabella of Aragon).  Charles was summoned to
+Italy by Boniface VIII for the twofold purpose of helping Charles
+II of Naples in his war against Frederick II of Sicily in Sicily
+and of making peace between the contending factions of the
+Bianchi and Neri in Tuscany, the pope promising in return to
+secure his election as emperor.  Charles arrived in Florence on
+All Saints' Day, 1301.  On the events in Florence that resulted
+in Dante's exile, see nn. to ^Inf.~ VI, 65-66 and 67-68.
+
+	|72.  per far conoscer meglio~: The irony continues.   
+|s$e~: Not a true reflexive, since "tempo" is the subject of the
+verb.
+
+	|73-74.  Sanz'arme~: Charles came with only a small
+force of cavalry, since, for the campaign in Sicily, he expected
+to have the army of Charles II and to have full support in arms
+and money from Pope Boniface.
+
+	|con la lancia... Giuda~: Judas' lance is one of
+deceit and treachery.
+
+	|75.  fa scoppiar la pancia~: Benvenuto writes: "Eo
+tempore Florentia erat valde corpulenta, plena civibus, inflata
+superbia.  Et iste Carolus scidit eam per ventrem, ita quod fecit
+inde exire intestina vitalia, scilicet, praecipuos cives, de
+quorum numero fuit iste praeclarus poeta."  ("In that time
+Florence had grown fat, full of citizens and bursting with pride.
+And this Charles ripped her belly open so that he made her guts
+burst out, that is to say, her principal citizens, among whom was
+this famous poet.")
+
+	|76.  non terra~: The words bear an allusion to Charles'
+nickname, "Sanzaterra."  His countrymen remarked of him that he
+was "fils de roi, fr@ere de roi, oncle de trois rois, p@ere de roi,
+et jamais roi" ("son of a king, brother of a king, uncle of three
+kings, father of a king, but never a king"), he having
+unsuccessfully aspired to no less than four crowns, those of
+Aragon, of Sicily, of Constantinople (through his second wife,
+Catherine, daughter of Philip de Courtenay, titular emperor of
+Constantinople), and of the Empire.  In November of 1302 Charles
+returned to France, the barren result of his expedition into
+Italy having earned him the nickname Carlo Sanzaterra (Lackland). 
+Charles died at Nogent le Roi in 1325, leaving a son, Philip, who
+afterwards (in 1328) became king of France as Philip VI, being
+the first of the Valois line.
+
+	|77-78.  per s$e tanto pi@u grave... conta~: Charles will
+count as nothing the guilt and the shame he will incur and so
+will die unrepentant and will go to Hell.
+
+	|79.  L'altro~: Yet another Charles.  This one, Charles
+II, king of Naples, was born in 1248, the son of Charles of
+Anjou.  After the Sicilian Vespers (in 1282) Charles, who was
+then prince of Salerno, set out from Provence to join his father
+in his attempt to recover the island of Sicily and was entrusted
+by him with the command of the fleet at Naples, but with strict
+injunctions not to engage the enemy.  Incensed, however, by the
+taunts of the Sicilian admiral, Ruggiero di Loria, who was in
+command of the fleet of Pedro III of Aragon, Charles came out and
+attacked him, but was totally defeated (June 1284) and himself
+taken prisoner on board his ship and conveyed to Sicily.
+
+	|80-81.  veggio vender sua figlia... schiave~:
+Beatrice, youngest daughter of Charles II of Naples, was married
+in 1305 to Azzo VIII, marquis of Este, in consideration, it was
+said, of a large sum of money.  This transaction Dante compares
+to the selling of female slaves by corsairs.  To add to the
+disgrace of the proceeding, it appears that Azzo was a great deal
+older than Beatrice.
+
+	|come fanno i corsar de l'altre schiave~: "Altre" is
+pleonastic here, and "l'altre schiave" should not be translated
+as "other slave women" but simply as "slave women."  Such a
+redundant use of ^altro~, in its various forms, is common in the
+Romance languages.
+
+	|82.  farne~ = ^fare a noi.~  Del Lungo comments: "Fare a
+noi uomini; quasi rifacendosi egli stesso uomo vivente in questo
+nostro mondo."  ("Do to human beings; almost as if he were
+considering himself to be a living man again in our world.")
+
+	|85-87.  Perch$e men paia... catto~: The irony begins to
+reach its climax here, quickening through the repetition of
+"veggio," as Hugh prophesies the infamous deeds of Philip the
+Fair.  See ^Purg.~ VII, 109, where he is called the "mal di
+Francia," and the note to that verse.  The reign of Philip is
+famous for his bitter quarrel with Boniface VIII, the origin of
+which was the taxation of the clergy by Philip, which led to the
+issue of the famous bull ^Clericis laicos~ (1296), in which
+Boniface declared the property of the Church to be severed from
+all secular obligations, and himself as pope to be the one
+exclusive trustee of all possessions held throughout Christendom
+by the clergy, on which no aid or subsidy could be raised without
+his consent.  Philip replied that if the clergy might not be
+taxed for the exigencies of France, or be in any way tributary to
+the king, France would cease to be tributary to the pope; and he
+issued an edict prohibiting the export of gold, silver, and
+valuables from the kingdom, thus depriving the pope of all
+supplies from France.  After a lull the quarrel culminated in the
+excommunication of the French king by Boniface.  The bull of
+excommunication was ordered to be suspended in the porch of the
+cathedral of Anagni on September 8, 1303, but on the eve of that
+day Sciarra Colonna, whose house Boniface had so bitterly
+wronged, and William of Nogaret, the emissary of the king of
+France, suddenly appeared in Anagni with an armed force.  They
+seized the person of the pope, after heaping every indignity on
+him, and held him prisoner for three days, while the soldiers
+plundered his palace.  He was at last rescued by the people of
+Anagni, who expelled the soldiers and forced Sciarra and Nogaret
+to flee.  Boniface was helped to Rome, where, a month after his
+rescue from prison, he died on October 12, 1303.
+
+	|Alagna~: Anagni, town in Latium, situated on a hill
+about forty miles southeast of Rome, was celebrated as the
+birthplace of Pope Boniface VIII and as the scene of his
+imprisonment by Philip the Fair of France.     |lo fiordaliso~:
+The fleur-de-lis, royal emblem of France.
+
+	|Christo esser catto~: Not withstanding his personal
+hatred for Boniface, Dante refuses in any way to condone the
+enormity of the offense done in laying hands on the vicar of
+Christ and, through him, on Christ himself.     |catto~:
+"Seized"; from the Latin ^captus.~
+
+	|88.  Veggiolo~ = ^lo vedo.~     |un'altra volta esser
+deriso~: The mocking of Christ is recounted in Matt. 27:28-31:
+
+     Et exuentes eum, chlamydem coccineam circumdederunt ei.  Et
+     plectentes coronam de spinis posuerunt super caput eius, et
+     arundinem in dextera eius; et genu flexo ante eum illudebant
+     ei, dicentes: Ave, rex Iudaeorum.  Et expuentes in eum,
+     acceperunt arundinem et percutiebant caput eius.  Et
+     postquam illuserunt ei, exuerunt eum chlamyde, et induerunt
+     eum vestimentis eius; et duxerunt eum ut crucifigerent.
+
+     And they stripped him and put on him a scarlet cloak; and
+     plaiting a crown of thorns, they put it upon his head, and a
+     reed into his right hand; and bending the knee before him
+     they mocked him, saying, "Hail, King of the Jews!"  And they
+     spat on him, and took the reed and kept striking him on the
+     head.  And when they had mocked him, they took the cloak off
+     him and put his own garments on him, and led him away to
+     crucify him.
+
+	|89.  veggio rinovellar l'aceto e 'l fiele~: See Matt.
+27:34: "Et dederunt ei vinum bibere cum felle mistum; et cum
+gustasset, noluit bibere."  ("And they gave him wine to drink
+mixed with gall; but when he had tasted it, he would not drink.")
+
+	|90.  e tra vivi ladroni esser anciso~: See Matt. 27:38:
+"Tunc crucifixi sunt cum eo duo latrones, unus a dextris et unus
+a sinistris."  ("Then two robbers were crucified with him, one on
+his right hand and one on his left.")  The "vivi ladroni" are
+Sciarra Colonna and William of Nogaret (see n. to vs. 86). 
+Boniface died as a result of their outrage upon him.     
+|anciso~ = ^ucciso.~
+
+	|91.  il novo Pilato~: This name for Philip appears quite
+naturally, given the context, but Dante is not the only one to
+apply it to him.  Benedict XI, who succeeded Boniface, is
+reported to have spoken of the outrage of Anagni in similar terms
+(see P. Fedele, 1921, pp. 210-11).
+
+	|92-93.  ma sanza decreto... vele~: In this curious mixed
+metaphor, the reference is to the persecution and destruction of
+the Knights Templars by Philip.  The Knights Templars were one of
+the three great military orders founded in the twelfth century
+for the defense of the Latin kingdom of Jerusalem (the other two
+being the Knights Hospitalers or Knights of St. John, and the
+Teutonic Knights).  The original founder of the order was a
+Burgundian knight, Hugues de Payens, by whom it was instituted,
+with the approval of Pope Honorius II, early in the twelfth
+century.  The Templars derived their name from the circumstance
+that they were quartered in the palace of the Latin Kings on
+Mount Moriah, which was also known as Solomon's temple.  After
+having existed as a powerful and wealthy order for nearly two
+centuries they were in 1307 accused by Philip the Fair of heresy,
+sacrilege, and other hideous offenses, in consequence of which he
+ordered their arrest and by means of diabolical tortures wrung
+from them confessions (for the most part undoubtedly false) of
+their alleged enormities.  Five years later at Philip's
+instigation they were condemned by Clement V, and the order was
+suppressed by decree of the Council of Vienne (May 1312); in the
+following year the grand master, Jacques de Molay, was burned
+alive at Paris in the presence of the king.  The French king's
+motive in aiming at the destruction of the Templars was, it can
+hardly be doubted, a desire to get possession of the immense
+wealth of the order (see G. Salvemini, 1901, pp. 123-24).
+
+	|decreto~: Papal decree.
+
+	|portar nel Tempio le cupide vele~: This metaphor is that
+of a pirate's ship entering a port to capture and pillage, the
+^in~ of "nel" serving both its ordinary meaning in this respect
+(see "in Alagna intrar" in vs. 86) and the meaning "against"
+(Latin ^in~).
+
+	|94-96.  O Segnor mio... secreto?~ Cf. Ps. 57:11 [58:
+10]: "Laetabitur iustus cum viderit vindictam."  ("The just man
+shall be glad when he sees vengeance.")      |a veder la
+vendetta~: Cf. ^Inf.~ XIV, 60.
+
+	|fa dolce l'ira tua~: Thomas Aquinas (^Summa theol.~ III,
+Suppl., q. 94, a. 3, ad 2) says: "Quamvis Deus non delectetur in
+poenis, inquantum huiusmodi, delectatur tamen in eis, inquantum
+sunt per suam iustitiam ordinatae."  ("Although God rejoices not
+in punishments as such, He rejoices in them as being ordered by
+His justice.")  Dino Compagni notes in his ^Cronica~ (III, 37):
+"Molta pace d@a a coloro nell'animo, che le ingiurie da' potenti
+ricevono, quando veggiono che Iddio se ne ricorda.  E come si
+conoscono aperte le vendette di Dio, quando egli @a molto
+indugiato e sofferto! ma quando lo indugia, @e per maggior
+punizione."  ("Those who have been injured by the powerful
+receive great solace in their hearts when they see that God has
+not forgotten.  How well they recognize the vengeance of God,
+even when He has put it off and tolerated it for a long time. 
+But when God puts it off, it is only to make the punishment
+greater.")  The "vengeance" came in 1302, when Philip's troops
+were defeated at Bruges and Courtrai and the French driven from
+Flanders (see n. to vs. 46).
+
+	|97-123.  Ci@o ch'io dicea... persona~: Thus far Hugh has
+given a rather lengthy answer to the question "chi fosti" (vs.
+35).  He now goes on to answer Dante's second question (vss.
+35-36).
+
+	|97-98.  quell'unica sposa de lo Spirito Santo~: The
+Virgin Mary.  See Matt. 1:20: "Quod enim in ea natum est, de
+Spiritu Sancto est."  ("For that which is begotten in her is of
+the Holy Spirit.")  Also see Luc. 1:35.
+
+	|99.  chiosa~: Cf. ^Inf.~ XV, 89.
+
+	|100.  risposto~ = ^risposta.~  "Risposto" is a noun
+here; the meaning ^responsorium~ has been suggested.  M. Barbi
+(1934b, p. 229) notes:
+
+     Il T[orraca] pensa qui al ^responsorium~ o ^responsum~ delle
+     ballate; ma perch@e non al responsorio secondo il rito
+     ecclesiastico?  Dopo le preci ricordano le anime esempi di
+     povert@a e di larghezza, come, in coro, dopo le lezioni si
+     cantano quelle parole che si dicono responsorio.
+
+     Torraca thinks here of the ^responsorium~ or ^responsum~ of
+     ballads.  But why not the "responsory" of the ecclesiastical
+     rite?  After the prayers, the souls recall examples of
+     poverty and generosity; and after the lessons, come those
+     words sung in chorus and called "responsory."
+
+^prece~ = ^preci.~  |Prece~ is a feminine plural form common in
+early Italian.
+
+	|101.  el~: Impersonal, as in the English "when it grows
+dark."
+
+	|102.  suon~: "Discourse."  Cf. ^Purg.~ XIX, 136.     
+|prendemo~ = ^prendiamo.~
+
+	|103.  Pigmalion~: The examples of avarice, which begin
+with Pygmalion, show the usual alternation of the non-biblical
+with the biblical and proceed by pairs here.  Pygmalion was the
+son of Belus, king of Tyre, whom he succeeded, and brother of
+Dido, whose husband, Sichaeus, he murdered for the sake of his
+wealth.  Dido, being made aware of the murder by the appearance
+of Sichaeus to her in a dream, secretly sailed from Tyre with the
+treasure and landed in Africa, where she founded the city of
+Carthage.
+
+	|104.  cui~: Direct object of "fece" in the next verse,
+of which "la voglia sua... ghiotta" is the subject.      
+|paricida~: Sichaeus was both the uncle and the brother-in-law of
+Pygmalion.  The word ^parricida~ was used in Latin in this
+broader sense to mean the murderer of a near relative.
+
+	|106.  la miseria~: The miserable condition.  ^Mida~:
+Midas, a king of Phrygia, who, in return for his kindness to
+Silenus, the companion and instructor of Bacchus, was allowed by
+Bacchus to make a request of him, which the god promised to
+grant.  Midas, in his greed for wealth, desired that everything
+he touched should be turned to gold.  Bacchus fulfilled his
+desire, but Midas, finding that even the food which he touched
+turned to gold, soon implored him to take his favor back.  The
+god accordingly ordered him to bathe in the sources of the
+Pactolus near Mount Tmolus, the sands of which thenceforth became
+rich in gold, while Midas was relieved from his fatal gift. 
+Afterwards, when Pan and Apollo were engaged in a musical contest
+on the flute and lyre, Midas was chosen to decide between them,
+and, on his deciding in favor of Pan, Apollo, to punish him for
+his bad taste, condemned him to wear the ears of an ass.
+
+	|107.  che~: The antecedent is "miseria," i.e., the fact
+that his food and drink turned to gold.
+
+	|108.  per la qual sempre convien che si rida~: This will
+always make men laugh when they think of it.
+
+	|109-111.  Del folle Ac@an... morda~: Achan, son of Carmi,
+of the tribe of Judah, who "tulit aliquid de anathemate" ("took
+goods that were under the ban"), according to Iosue 7:1, in
+appropriating part of the spoil of Jericho, contrary to the
+commands of Joshua.  After the defeat of the Israelites in their
+attack on Ai, Achan confessed his guilt, and the booty was
+discovered.  Thereupon he and his whole family were stoned to
+death by command of Joshua, and their remains and property were
+burned (Iosue 6:19; 7:1-26).
+
+	|112.  accusiam col marito Saffira~: Ananias, a disciple
+at Jerusalem, and his wife Sapphira, having sold their goods for
+the benefit of the Church, kept back part of the price, bringing
+the remainder to the apostles, as if it had been the whole. 
+Being rebuked by Peter for their hypocrisy, they both fell dead
+at his feet (Actus 5:1-11).
+
+	|113.  i calci ch'ebbe Eliodoro~: Heliodorus, treasurer
+of Seleucus IV Philopator, king of Syria (187-175 B.C.), by whom
+he was commissioned to remove the treasures from the temple at
+Jerusalem.  For an account of what then took place, see II Mach.
+3:25-27:
+
+     Apparuit enim illis quidam equus terribilem habens sessorem,
+     optimis operimentis adornatus; isque cum impetu Heliodoro
+     priores calces elisit, qui autem ei sedebat videbatur arma
+     habere aurea.  Alii etiam apparuerunt duo iuvenes virtute
+     decori, optimi gloria speciosique amictu, qui
+     circumsteterunt eum et ex utraque parte flagellabant sine
+     intermissione, multis plagis verberantes.  Subito autem
+     Heliodorus concidit in terram; eumque multa caligine
+     circumfusum rapuerunt, atque in sella gestatoria positum
+     eiecerunt.
+
+     For there appeared to them with a terrible rider upon him,
+     adorned with a very rich covering.  And he ran fiercely and
+     struck Heliodorus with his fore feet: and he that sat upon
+     him seemed to have armour of gold.
+
+     Moreover there appeared two other young men, beautiful and
+     strong, bright and glorious, and in comely apparel: who
+     stood by him on either side and scourged him without ceasing
+     with many stripes.
+
+     And Heliodorus suddenly fell to the ground: and they took
+     him up covered with great darkness: and having put him into
+     a litter they carried him out.
+
+Seleucus was succeeded by his brother Antiochus IV Epiphanes,
+whose persecution of the Jews caused the revolt of the Maccabees.
+
+	|115.  Polinest@or ch'ancise Polidoro~: Just before Troy
+fell into the hands of the Greeks, Priam entrusted his son
+Polydorus, with a large sum of money, to Polymestor, a Thracian
+king; but after the destruction of Troy, Polymestor killed his
+ward for the sake of the treasure and cast his body into the sea
+(see ^Inf.~ XXX, 18).  The story is told by Ovid, who uses the
+term ^avarus.~  See ^Metam.~ XIII, 429-38:
+
+     Est, ubi Troia fuit, Phrygiae contraria tellus
+     Bistoniis habitata viris: Polymestoris illic
+     regia dives erat, cui te commissit alendum
+     clam, Polydore, pater Phrygiisque removit ab armis,
+     consilium sapiens, sceleris nisi praemia magnas
+     adiecisset opes, animi inritamen avari.
+     ut cecidit fortuna Phrygum, capit inpius ensem
+     rex Thracum iuguloque sui demisit alumni
+     et, tamquam tolli cum corpore crimina possent,
+     exanimem scopulo subiectas misit in undas.
+
+     Opposite to Phrygia where Troy stood, there lies a land
+     where dwelt the Bistones.  There was the luxurious court of
+     Polymestor, to whom your father, Polydorus, secretly
+     commended you for care, sending you far from Phrygia's
+     strife; a prudent plan, if he had not sent with you a great
+     store of treasure, the prize of crime, a temptation to a
+     greedy soul.  When the Phrygian fortunes waned, the impious
+     Thracian king took his sword and thrust it into his young
+     charge's throat; and just as if a murder could be disposed
+     of with the victim's body, he threw the corpse from a cliff
+     into the waves below.
+
+|ancise~ = ^uccise.~  Cf. vs. 90.
+
+	|116-117.  Crasso... l'oro?~  Marcus Licinius Crassus,
+surnamed Dives ("the wealthy"), was born ^ca.~ 112 B.C. and was
+consul with Pompey in 70 B.C. and triumvir with Caesar and Pompey
+in 60.  His ruling passion was the love of money, which he set
+himself to accumulate by every possible means.  Orosius, ^Hist.~
+VI, xiii, 1, calls him "homo inexplebilis cupiditatis" ("a man of
+insatiable cupidity").  With Pompey in 55 he was consul for the
+second time; in 54, he was governor of the province of Syria,
+where he looked to increase greatly his wealth, but in 53 he was
+defeated and killed by the Parthians, who cut off his head and
+sent it, together with his right hand, to the Parthian king, in
+token of their victory, who then had his mouth filled with molten
+gold in mockery of his passion for money.  See R. Sabbadini
+(1915).
+
+	|dilci~ = ^dillo a noi.~
+
+	|119.  ch'ad ir ci sprona~: Other editors have followed
+the reading of other MSS and have "ch'a dir ci sprona."  The
+meaning is essentially the same in either case, "ir" being
+figurative, of course.
+
+	|121.  per@o~ = ^perci@o.~     |al ben~: I.e., the examples
+of voluntary poverty and generosity.  Cf. "ben," vs. 34.    
+|ci~: Here on this terrace.
+
+	|125.  brigavam~: Compare the expression ^darsi briga
+di~, "to go to the trouble to."      |soverchiar la strada~: Cf.
+the Latin ^superare iter.~
+
+	|126.  tanto quanto al poder n'era permesso~: Dante and
+Virgil have to continue with "short steps" (vs. 16) because of
+the many souls lying on the terrace.    |n'~ = ^ne~ (^ci~).
+
+	|128.  mi prese un gelo~: Cf. ^Purg.~ IX, 42.
+
+	|130-132.  Certo non si scoteo... cielo~: The island of
+Delos, smallest of the Cyclades, was said to have been raised
+from the deep by Neptune, but it was a floating island until,
+according to one version, Jupiter fixed it with adamantine chains
+to the bottom of the sea in order that Latona might have a refuge
+from the wrath of Juno.  Here Latona gave birth to Apollo and
+Diana (hence their epithets Delius and Delia), her offspring by
+Jupiter.  See Ovid's version of the story in ^Metam.~ VI, 186-91,
+where he says of Latona, "cui maxima quondam / exiguam sedem
+pariturae terra negavit" ("to whom the broad earth once refused a
+tiny spot for bringing forth her children"):
+
+     nec caelo nec humo nec aquis dea vestra recepta est:
+     exsul erat mundi, donec miserata vagantem
+     "hospita tu terris erras, ego" dixit "in undis"
+     instabilemque locum Delos dedit....
+
+     Neither heaven nor earth nor sea was open for this goddess
+     of yours; she was outlawed from the universe, until Delos,
+     pitying the wanderer, said to her: "You are a vagrant on the
+     land; I, on the sea," and gave her a place that stood never
+     still.
+
+See, also, Virgil, ^Aen.~ III, 73-77:
+
+     Sacra mari colitur medio gratissima tellus
+     Nereidum matri et Neptuno Aegaeo,
+     quam pius Arquitenens oras et litora circum
+     errantem Mycono e celsa Gyaroque revinxit,
+     immotamque coli dedit et contemnere ventos.
+
+     In mid-sea lies a holy land, most dear to the mother of the
+     Nereids and Aegean Neptune, which, as it wandered round
+     coasts and shores, the grateful archer-god bound fast to
+     lofty Myconos and Gyaros, suffering it to lie unmoved and
+     slight the winds.
+
+It should be noted that the simile is especially appropriate for
+the trembling of the mountain of Purgatory because it, too, is an
+island.
+
+	|si scoteo~ = ^si scosse.~
+
+	|li due occhi del cielo~: Apollo and Diana, the Sun and
+the Moon.
+
+	|134.  in verso me si feo~: Cf. ^farsi verso qualcuno.~  
+|feo~ = ^fece.~
+
+	|135.  mentr'~ = ^mentre~ (^fin che~).
+
+	|136-137.  "Gloria in excelsis" tutti "Deo" dicean~: Cf.
+Luc.  2:13-14: "Et subito facta est cum angelo multitudo militiae
+caelestis, laudantium Deum et dicentium: Gloria in altissimis
+Deo, et in terra pax hominibus bonae voluntatis."  ("And suddenly
+there was with the angel a multitude of the heavenly host
+praising God and saying, 'Glory to God in the highest, and on
+earth peace among men of good will.'")
+
+	|138.  poteo~ = ^pot@e.~
+
+	|139-140.  immobili e sospesi... canto~: Cf. Luc.
+2:8-10: "Et pastores erant in regione eadem, vigilantes et
+custodientes vigilias noctis super gregem suum.  Et ecce angelus
+Domini stetit iuxta illos, et claritas Dei circumfulsit illos; et
+timuerunt timore magno.  Et dixit illis angelus: Nolite timere." 
+("And there were shepherds in the same district living in the
+fields and keeping watch over their flock by night.  And behold,
+an angel of the Lord stood by them and the glory of God shone
+round about them, and they feared exceedingly.  And the angel
+said to them, 'Do not be afraid.'")  Cf. vs. 135: "non dubbiar."
+
+	|udir~ = ^udirono.~
+
+	|141.  'l tremar cess@o ed el compi$esi~: On the
+conjunction "ed" here, Sapegno observes: "La congiunzione |ed~
+sottolinea la simultaneit@a dei due fatti: il cessare del
+terremoto e la fine del canto."  ("The conjunction |ed~ [and]
+underscores the simultaneity of the two facts: the end of the
+earthquake and the end of the song.")      |el~: The song.   
+|compi$esi~ = ^si compi$e.~
+
+	|142.  cammin santo~: Cf. ^Purg.~ XII, 115.
+
+	|145.  Nulla ignoranza mai con tanta guerra~: Cf.
+Sapien. 14:22: "sed et in magno viventes inscientiae bello"
+("but even though they live in a great war of ignorance").
+
+	|148.  pareami~ = ^mi pareva.~
+
+	|149.  er' oso~ = ^osavo.~  Cf. ^Purg.~ XI, 126.
+
+	|150.  l@i~: Either in what Dante could observe about him
+or in his own troubled thoughts.     |potea~ = ^potevo.~
+
+	|151.  m'andava~: This is the distancing pleonastic
+reflexive.  See n. to ^Inf.~ VII, 94 and ^passim.~
+
+

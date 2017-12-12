@@ -1,0 +1,28 @@
+#! /bin/sh 
+#
+#	Load files of documents into the Dartmouth Dante Project database
+#
+#	Usage:	xddpload  file ...
+
+if [ $# -eq 0 ]
+then
+	echo "Usage:  xddpload  file ..."
+	exit 1
+fi
+
+BRSConfig=/usr/lib/brssearch3.0
+export BRSConfig
+LOG=$Dante/doc/xload.log
+echo "" >> $LOG
+echo -n "Load started from " `pwd` "on " >> $LOG
+date >> $LOG
+echo "Files to be loaded:" >> $LOG
+echo $@ | fmt >> $LOG
+
+cat $@ 2>> $LOG | brsload XDDP -add -file - >> $LOG 
+
+set  `grep '^\.\.COMM' "$@" | wc`
+IN=$1
+set `tail -15 $LOG | grep Documents`
+OUT=$3
+echo "documents loaded:" $OUT "of" $IN >> $LOG

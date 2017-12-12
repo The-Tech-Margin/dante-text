@@ -1,0 +1,814 @@
+	|SUMMARIUM.~  CANTUS OCTAVUS, ^in quo tractatur de
+iracundia is entibus in palude a Stygis, et sicut Phlegias daemon
+transivit eos in nave sua sub titulo multorum istius vitii, et
+maxime Philippi Argenti de Florentia; et in fine
+appropinquaverunt civitatem Inferni, et non fuerunt dimissi
+intrare.~
+
+	|Proemio.~  ^IO DICO seguitando.~  Postquam in praecedenti
+capitulo circa finem autor noster tractavit de poena iracundorum
+et accidiosorum qui puniuntur in quinto circulo infernali, nunc
+consequenter in isto VIII capitulo praesenti agit et tractat de
+vicio et supplicio superborum qui puniuntur in eodem circulo
+praedicto quem facit Stigia palus; et totum istud capitulum potest
+dividi in quatuor partes generales, in quarum prima describit
+custodiam quae fit in fine istius circuli, et nautam qui
+transportat animas per aquam ad civitatem infernalem, quam autor
+vocat civitatem Ditis.  In secunda tractat de uno spiritu
+particulari superbissimo qui hic punitur, ibi: ^Mentre noi.~  In
+tertia tractat de signis quae a longe indicant infelicitatem huius
+civitatis, ibi: ^Qui il lassamo.~  In quarta et ultima autor
+describit resistenciam magnam quam habuerunt volentes intrare
+dictam terram, ibi: ^Io vidi pi@u di mille.~  
+
+	|1-6.~  Ad primum dico quod autor tractat de custodia quae
+fit in turri in fine istius circuli, et continuans dicta
+dicendis, dicit: |Io dico seguitando.~  Sed antequam descendam ad
+expositionem literae, ad claram intelligentiam istius
+continuationis est praesciendum, quod Dantes quando expulsus est
+de patria, sicut plene iam patuit supra capitulo VI, fecerat de
+opere suo sollummodo VII capitula praecedentia.  Cum autem ipse
+more exulum incertus suae fortunae pluribus annis vagus moraretur
+cum diversis dominis, noluit divina providentia quod tam egregium
+opus perderetur.  Accidit ergo quod cum quidam rimaretur inter
+caeteras scripturas Dantis in quibusdam cofinis portatis ad loca
+sacra, quando ignita turba magis avida praedae, quam iustae
+vindictae, cucurrerat ad domum eius, reperit dicta VII capitula;
+quibus cum admiratione lectis et inspectis, subtraxit sagaciter
+de loco ubi erant, et portavit ad quemdam civem nomine Dinum eo
+tempore famosum eloquentem in Florentia; et breviter cognita
+perfectione operis imperfecti miserunt ista capitula Marchioni
+Marcello Malespinae cum quo tunc Dantes erat.  Quae ille satis
+intelligens dominus bene notata ostendit fideliter Danti rogans,
+ut non dimitteret sine fine opus cui fecerat tam altum
+principium.  Dantes opere viso fertur dixisse: redditus est mihi
+maximus labor cum honore perpetuo.  Ergo fato volente et
+Marchione instante, non sine magno labore conatus est resumere
+altam fantasiam quam omiserat, et incoepit de novo procedere et
+continuare materiam inchoatam dicens: |Io dico seguitando~, idest
+prosequendo materiam intermissam propter exilium; sed antequam
+ulterius procedam, lector, volo te notare quod istud capitulum,
+quod quibusdam videtur facile et de materia communi, est valde
+difficile et pulcrum, in quo autor facit novas et artificiosas
+fictiones.  Primo ergo fingit quod in ista turri fiat speculatio
+vel signum ad civitatem Ditis, ut Phlegias nauta veniat et portet
+animas supervenientes cum navi ad ipsam civitatem, et intelligas
+de animabus illis quae sunt puniendae intra terram, quia quae
+puniuntur extra numquam recedunt a loco suo, nec accedunt ad
+fortilicium.  Et vult breviter dicere quod viderunt duo luminaria
+in summitate istius turris erigi, et duo alia respondere istis ex
+summitate alterius turris, quae erat supra portam civitatis. 
+Istud autem signum significabat quod duo venerant ad portum
+peregrini ignoti volentes tendere ad civitatem.  Ad literam ergo
+dicit autor: |Io dico seguitando che gli occhi nostri~, scilicet
+intellectuales, |andar suso a la cima d'un'alta torre~, quae erat
+in extremo margine istius vallis, |assai prima che noi
+giungessimo al pi@e.~  Et hic nota quod autor retrocedit ordine
+artificiali; nam dixerat in fine capituli praecedentis quod
+pervenerant ad pedem turris, nunc vero narrat quid viderint a
+longe antequam pervenirent ad ipsam turrim, et est usitatus modus
+loquendi; saepe enim homo narrans suum iter, dicit: nos pervenimus
+tali die ad urbem, sed antequam applicaremus ad ipsam vidimus a
+longe in quadam turri duo luminaria extra; et continuo assignat
+causam quare direxerunt oculos ad apicem turris, cum dicit: |per
+due fiammette~, idest faces ardentes, |che vedemmo porre~, et
+istae duae flammae indicabant quod duo erant qui veniebant; et ideo
+custodes alterius turris civitatis statim respondentes
+reddiderunt simile signum, scilicet duas alias faculas, sicut
+videmus de facto in mundo nostro quod aliquis stans in turri ad
+custodiam fortis passus, videns novam gentem vel hostilem
+appropinquare, facit certum signum civitati et statim recipit
+simile signum.  Dicit ergo: |et un'altra~, dicunt aliqui scilicet
+flamellam, sed hoc est falsum, imo aliam turrim civitatis,
+|render cenno~, idest simile signum duarum flammarum, |da longi~,
+quia magnum spatium erat inter turrim et turrim, ideo dicit:
+|tanto ch'a pena il potea l'occhio torre~, idest accipere vel
+comprehendere propter nimiam distantiam.  Et hic nota quod ista
+litera potest simpliciter intelligi sicut expositum est, tamen
+moraliter potest exponi quod turris figurat ipsam superbiam quae
+est alta, et ignis similiter qui semper tendit in altum, quem
+autor fingit se vidisse a longe, imo interdum per totum mundum
+sicut patuit in Alexandro magno, Caesare et multis.  Et ponit
+autor duas turres et in utraque duas flammas; prima turris est
+superbia extrinseca et apparens et ideo prima offertur visui,
+idest speculationi autoris, et habet duas species quae figurantur
+per duas flammas scilicet superbiam in benefactis et superbiam in
+malefactis; nam istud vitium non solum habet locum inter mala,
+sed etiam inter bona; puta quando quis superbit de scientia, de
+virtute, de sanctitate, de bonitate dando gloriam sibi et non
+Deo; de malefactis habet locum superbia, quando quis arroganter
+ascribit sibi illud bonum quod vere non est in eo.  Secunda
+turris est superbia intrinseca quae detegitur et manifestatur per
+exteriorem;  nam aliter cognosci non potest; et ista similiter
+habet duas flammas correspondentes illis primis, quia similiter
+habet locum in benefactis et malefactis: et est hic bene
+considerandum quod aliqui exponunt istum passum perverse et per
+contrarium.
+
+	|7-9.~  |Et io~, hic autor petit a Virgilio quid
+significet primus ignis et secundus correspondens illi, et qui
+sint autores ignis, unde dicit: |et io me volsi al mar de tutto
+el senno~, idest ad Virgilium profundae sapientiae, quia, ut iam
+alibi dictum est, novit aliquid in omni genere scibilis; loquitur
+tamen hiperbolice: |e dissi: questo foco che dice~, idest quid
+sibi vult, quid importat? |e quel altro che risponde~, supple,
+quid vult dicere: |e chi son quei ch'el fenno~, idest an homines,
+an daemones? 
+
+	|10-12.~  et subdit responsionem Virgilii dicens: |et
+elli a me~, scilicet ille sapiens respondit: |gi@a scorger puoi~,
+idest perpendere et comprehendere potes, |quello che s'aspetta~,
+scilicet unum nautam cum navi, |su per le succide onde~, idest
+aquas turpes paludis, unde dicit: |se 'l fumo del pantan nol te
+n'asconde~, et loquitur proprie; nam ex valle palustri, ut
+plurimum exalat nebula quae saepe non permittit videre rem parvam a
+longe, sicut hominem navigantem; quamvis ergo autor vidisset a
+longe turrim, turris erat alta cum igne lucenti.
+
+	|13-16.~  |Corda.~  Nunc autor describit nautam
+praedictum.  Ad cognitionem cuius oportet praescire quod Phlegias
+rex Laphitarum in Thesalia fuit pater Isionis, qui primus in
+Graecia exercuit violentiam tirannice cum Centauris suis; ideo
+bene Virgilius VI Eneidos dat congruam poenam sibi et aliis
+superbis.  Fingit in altis lectis super cultris aureis et habent
+epulas splendidas super mensas paratas regaliter nec possunt
+illis vesci, quia una maxima furia infernalis non permittit
+porrigere manum in mensam; habent et saxum pendulum supra caput
+quod continuo cadere videtur ad domandum eorum superbam cervicem. 
+Nunc ad propositum Phlegias iste fuit superbissimus in mundo, qui
+interfecit filiam suam et incendit templum Apollinis; ideo autor
+inducit eum hic ut per ipsum repraesentet nobis vicium pessimum
+superbiae in generali, et dat sibi officium transportandi animas
+ad civitatem infernalem intra quam punitur violentia et
+fraudulentia, quia superbia est recta via quae ducit homines ad
+omnia magna mala et peccata, unde Salomon: Initium omnis mali est
+superbia.  Ad literam ergo veniendo autor volens describere
+velocitatem istius nautae venientis, praemittit comparationem
+pulcram et propriam de sagitta quae cum summa festinantia
+emittitur ab arcu vel balista.  Sicut enim sagitta velocissime
+scindit aerem, ita navicula aquam; et sicut sagitta laevis, acuta
+penetrat et ferit pestifere, ita ista navicula superbiae; ideo
+bene dicit: |Corda non pinse mai da se saetta~, impulsa a manu
+hominis, |che s@i corresse via isnella~, idest velox, |per l'aire
+com'io vidi una nave piccioletta venir~, scilicet impulsa a manu
+hominis, |verso noi~, quia veniebat pro eis, |in quella per
+l'aqua~, scilicet stygialem. 
+
+	|17-18.~  Et hic nota quod ista navicula figuraliter est
+vita superbi sive eius superbia quae est parva, brevis et
+velocissimi cursus; ideo bene repraesentatur per navim quae est
+avis lignea, domus sine fundamento, ut ait Secundus philosophus:
+et ita vita superbi est sine firmitate, quia nullum violentum est
+diu durabile; et ista navis ducitur per vallem tenebrosam et
+continuo instabilis vacillat in undis et imminet naufragio, et
+dicit notanter: |sotto 'l governo d'un sol galeotto~, idest
+gubernatoris ad denotandum quod nunquam superbus vult socium, et
+est oppositum aliorum viciorum; nam communiter simile gaudet
+simili, sicut avarus avaro, prodigus prodigo; sed superbus non
+potest convivere superbo, imo semper conatur destruere eum, unde
+duo sunt quae praecipue nolunt consortium, scilicet dominium et
+matrimonium, ut dicit Seneca tragoedia secunda; et subdit quomodo
+se habuerit ille Phlegias erga ipsum autorem, quia dixit: |Or
+sie' giunta anima fella~, putabat Phlegias portare istos ad
+certam poenam intra civitatem, ideo exclamat, venies ad standum
+cum aliis damnatis crucianda. 
+
+	|19-21.~  |Flegias.~  Hic autor ostendit quomodo
+sedaverit clamorem impetuosum illius nautae, unde dicit: |disse 'l
+mio Signore~, scilicet Virgilius, |o Flegias Flegias~, quasi
+dicat: o superbe superbe; et replicat ad maiorem contumeliam et
+despectum, |tu gridi a vuoto~, idest tu minaris frustra, quia
+iste non venit ut damnatus, imo ut praeiudicet iuri tuo, ut
+scilicet retrahat homines ab Inferno docens vitare superbiam, et
+parum stabit hic, unde dicit: |pi@u non ci avrai a questa volta,
+che sol passando il loto~, idest coenum istius paludis, quasi
+dicat: non faciemus  moram tecum, nec habebis nos in potestate
+tua, nisi in quantum velociter transcurremus istam paludem.  Hoc
+dicit quia autor breviter percurrit istam materiam superbiae ut de
+se patet, quam tamen diffuse pertractabit in purgatorio.
+
+	|22-24.~  |Quale.~  Hic ponit confusionem Phlegiae per
+unam comparationem claram qui conquerebatur amare, unde dicit:
+|Flegias si fece~, supple talis, |ne l'ira accolta~, idest
+concepta mente et facie, |quale colui~, supple fit, |che ascolta
+grande inganno che li sia fatto, poi se ne rammarca~, idest
+conqueritur et dolet.  Phlegias enim solitus portare animas
+defuntorum damnatorum sperabat nunc fecisse lucrum et reperit
+magnum damnum, quia cogebatur portare hominem vivum et positum in
+gratia Dei licet aliquando fuisset superbus. 
+
+	|25-27.~  |Lo duca.~  Hic autor ostendit quomodo
+intraverit barcam Phlegiae dicens: |Lo duca mio~, scilicet
+Virgilius, |discese nella barca~, quia ratio semper praecedit, |e
+poi mi fece intrar appresso lui~, quia ipse bonus dux alias
+fecerat istud iter, et dicit: et illa barca, |parve carca~, idest
+onusta, |sol~, idest solummodo, |quando io fui dentro.~  Hoc ideo
+fingit quia ista barca erat solita portare animas separatas quae
+sunt sine pondere; ipse vero erat vivus cum pondere corporis vel
+moraliter loquendo, quia vir sapiens prudentia sua aliquando
+firmat navim superbi qui est in se semper mobilis, sicut saepe
+Aristoteles circa Alexandrum quem retraxit a multis erroribus et
+furoribus consilio suo, et ita Seneca Neronem; 
+
+	|28-30.~  et subdit navigationem ipsorum dicens: 
+|L'antica prora~, idest navis; est enim prora prior pars navis;
+et dicit notanter antiqua, quia nulla navis est antiquior ista;
+nam superbia generata est in coelo et fecit pulcerrimum angelum
+deiici de coelo, deinde primum hominem expelli de paradiso
+deliciarum, |sen va secando~, idest navigando et scindendo, |pi@u 
+de l'aqua~, et non intelligas quod irent velocius, imo lentius,
+sed vult dicere quod navis magis profundabatur sub aquam, unde
+dicit: |che non sol con altrui~, scilicet quando portabat animas
+incorporeas laevissimas, et dicit: |tosto che 'l duca et io nel
+legno fui~, idest quam cito ego et Virgilius fuimus in barca, et
+per hoc innuit quod nullam moram fecit Phlegias ibi, imo statim
+coepit navigare, ut cito expedite exoneraret se istis qui non
+erant sibi grati, quia non erant luituri poenas ibi.
+
+	|31-32.~  |Mentre noi.~  Ista est secunda pars generalis
+in qua autor tractat de uno spiritu moderno arrogantissimo, in
+quo clare ostendit quae et qualis sit poena superborum.  Ad quod
+notandum quod autor dat meritam poenam istis superbis; fingit
+ipsos trahi et raptari inter se invicem per lutum et foetorem
+istius vallis, per quod figurat quod superbi semper rixantur
+inter se, et unus deiicit alium et alter facit ruinam alterius,
+et sic alta gloria superbi cadit in lutum, quia efficitur
+ludibrium fortunae, ridiculum populi et fabula vulgi; nam post
+lapsum venit in odium et contemptum omnium et suorum et amicorum;
+modo ad literam dicit autor: |Dinanci a me si fece un pien di
+fango~, idest occurrit oculis meis mentalibus, |mentre noi
+passavam la morta gora~, idest interim dum transiremus per illam
+vallem stygiam, cuius aqua erat mortua, idest immota; |gora~ enim
+est vulgare florentinum, et est aqua quae currit per duciam ad
+molendinum.  Sed ne procedam ulterius obscure ad cognitionem
+istius hominis est sciendum, quod iste erat quidam miles
+florentinus nomine Philippus Argenti de Adimaris, vir quidem
+superbissimus, iracundissimus, sine virtute vel civilitate,
+displicentissimus, quia erat de stirpe numerosa valde, et pulcer
+et fortis corpore et dives valde, quae omnia sibi materiam
+arrogantiae ministrabant, habebat summe odio populum florentinum,
+habebat unum equum quem vocabat equum populi Florentiae, quem
+promittebat omnibus petentibus eum mutuo; de mane equus erat
+paratus tempestive et dabatur primo venienti; postea aliis
+supervenientibus dicebatur: tarde, tu fuisti praeventus, et sic
+eludebat spes multorum, et de hoc habebat solacium et risum. 
+Vide ergo quomodo autor bene solvit sibi de vectura si aliquando
+fuit delusus ab eo.  Hunc equum fecit aliquando ferrari argento,
+ideo cognominatus est Philippus Argenti. 
+
+	|33.~  Autor ergo ponit petitionem Philippi ad se dicens:
+|e disse: chi sie tu che vieni anzi ora~, idest qui venis ad
+Infernum ante tempus mortis? 
+
+	|34-35.~  Et subdit autor responsionem suam ad illum
+dicens: |et io a lui~, supple respondi de modo mei adventus non
+de nomine meo, dicens: |s'i' vengo non rimango.~  Et hic nota
+quod autor de industria sic respondet illi ad augendam poenam,
+quasi dicere velit, non venio ut remaneam, imo ut statim recedam;
+sed tu aeternaliter remanebis in poena, quia si fui aliquando
+superbus, tamen semper amator virtutis et scientiae, recedo a loco
+superborum, et te superbum, inutilem, pertinacem dimitto in mala
+hora, et ideo petit de eo dicens exprobranter: |ma tu chi sie'
+chi sie' s@i fatto brutto~, scilicet involutus tam turpiter in
+isto coeno, ubi est argentum tuum?  
+
+	|36.~  et ponit responsionem Philippi dicentis: |vedi che
+sono un che piango.~  Verecundatur se superbum nominare cum videt
+se in miseria, imo dolet cognosci.
+
+	|37-39.~  |Et io.~  Hic autor apertius replicat contra
+eum cum maiori improperio dicens: |et io a lui~, scilicet
+respondi acerbe: |O spirto maledetto~, scilicet a Deo et ab
+hominibus, quia de te nulla remanet laus, ut statim dicetur, |tu
+rimani~, idest remane ibi in ista poena in qua semper stare
+possis, |ch'io te conosco~, quasi dicat bene te cognosco,
+superbe, |ancor sii lordo tutto~, idest quamvis sis ita
+deturpatus in isto coeno et transformatus, nihilominus recognosco
+te quamvis taceas nomen tuum et solum poenam dicas; quasi dicat es
+tu ille qui paulo ante ita alios superbe spernebas; es tu ille
+tam gloriosus, sicut dixit asellus dextrario: ubi sella nitens,
+ubi nobile froenum?  Vive diu, sed vive miser.
+
+	|40.~  |Alor.~  Hic autor ponit effectum sui dicti, quia
+scilicet ille Philippus offensus verbis autoris exarsit in iram
+volens facere vindictam de eo, unde dicit: |Alor distese ambo le
+mani al legno~, quia scilicet totis viribus voluit submergere
+navim.  Et in hoc autor tangit morem superbi insani, qui
+constitutus in infimo statu miseriae, non potest pati contumeliam
+verborum; 
+
+	|41-42.~  et subdit defensionem Virgilii dicens: |perch@e
+'l maestro accorto~, idest Virgilius providus circa salutem
+autoris, |lo sospinse~, idest repulit a navi, et transivit ultra, 
+|dicendo: via cost@a con gli altri cani~, idest vade cum aliis
+superbis qui irascuntur ad omne verbum, sicut canis ad omnem
+muscam, et per hoc notat prudentiam sapientis qui cito cedit
+furori, et dimittit talem dicens: vade, morde te rabie canis
+rabide.  Sed ut appareat clare qualiter iste canis rabidus non
+potuerit pati aliquam contumeliam verborum etiam iocosam, volo te
+scire novum iocosum per quod evidenter appareat eius natura clara
+displicenter.  Est ergo breviter sciendum, quod tempore istius
+Philippi, paulo ante expulsionem autoris, fuit in civitate
+Florentiae Ciachus maximus gulosus, de quo dictum est supra
+capitulo VI, et quidam alius ioculator leccator, nomine
+Blondellus, homo parvulus de persona, sed multum politus et
+ornatus, cum caesarie capillorum flava, non habens pilum tortum in
+capite.  Hic Blondellus una die, tempore quadragesimae, profectus
+ad piscariam, volebat emere duas lampredas pro domino Verio de
+Circulis, qui tunc erat princeps partis Albae.  Quod Ciachus
+videns accessit ad Blondellum, et petiit quid esset.  Blondellus
+subito finxit quod heri de sero tres pulcriores lampredae cum uno
+magno sturione praesentatae fuerant Domino Cursio de Donatis, qui
+erat princeps alterius partis Nigrae; et dixit, quod ideo faciebat
+emi alias duas, quia crastina die erat daturus prandium quibusdam
+nobilibus, petens: nonne venies tu?  Cui Ciachus respondit: bene
+scis, quod veniam.  Ivit ergo Ciachus die sequenti, hora prandii
+ad domum Domini Cursii, quem reperit ante ostium suum cum
+quibusdam vicinis suis.  Qui dixit: bene vadat Ciachus; quid
+vadis faciendo? respondit Ciachus: Domine, venio pransum
+vobiscum.  Et ille: vadamus, quia hora est.  Quum autem
+discubuissent, Ciachus perpendens, quod nullus erat ibi forensis,
+putavit se deceptum; sed multo maiorem delusionem habuit, quando
+vidit se non habere nisi de ciceribus et pisciculis Arni; et
+continuo coepit facere vindictam de Blondello.  Post paucos ergo
+dies ivit Ciachus ad forum vetus; ibi ex aliis ribaldis elegit
+unum, qui visus est habilis sibi ad id quod volebat; et explorans
+ab eo, si erat bene agilis in pede, promisit sibi unum grossum,
+si faceret quod petebat.  Imposuit ergo sibi, quod iret ad Logiam
+Adimarorum, cum uno flasco vitreo in manu, et diceret domino
+Philippo Argenti, quod Blondellus mittebat eum et rogabat, quod
+rubinaret sibi illud vas cum suo vino rubeo, quia volebat modicum
+solatiari cum quibusdam suis zancariis.  Ivit ergo iste ribaldus
+plene informatus a Ciacho, Ciacho sequente parum a longe, et
+fecit ambasiatam Domino Philippo ex parte Blondelli, et statim
+aufugit, ne ille iam insurgens iniiceret manus in eum.  Ciachus,
+qui notaverat totum, laetus dedit denarium ribaldo et recepit
+flascum suum.  Et sine mora ivit, et invenit Blondellum, cui
+dixit, quod Dominus Philippus faciebat eum conquaeri; quare
+Blondellus ivit versus logiam Adimarorum, et Ciachus sequutus est
+eum, expectans videre eventum rei.  Sed dominus Philippus, qui
+non potuerat contingere baratarium, stabat totus turbatus et
+rodebat se ipsum in animo, quia extimabat, quod Blondellus ad
+postam alicuius fecisset sibi unam truffam.  Et ecce interim
+Blondellum; cui statim dominus Philippus venit in occursum.  Et
+quum Blondellus ignarus fraudis factae contra eum, salutaret
+illum, Philippus, qui erat corpore magnus, nervosus, fortis,
+iracundus, indignans dedit sibi cum pugno magnum ictum in faciem. 
+Et Blondello clamante: Heu mihi! quid est hoc, Domine mi? 
+Philippus apprehendens eum per crines, abiecto caputio,
+fulminabat super eum manu, et lingua clamabat: Proditor! bene
+videbis, quid est hoc.  Quale rubinare mittis tu ad me?  Bene
+rubinabo te.  Videor ne tibi puer irridendus?  Et sic dicendo cum
+pugnis suis, qui videbantur sibi ferrei, fregit sibi totum visum,
+et totum caput depilavit, volutando ipsum per lutum; et cum tanto
+studio repetebat verbera, quod numquam Blondellus potuit dicere
+unum verbum ad veram excusationem sui.  Demum quum multasset eum
+multis bussis, et multi concurrentes cum maximo labore eruissent
+illum de manibus suis, dicebant Blondello, quod ipse fatue egerat
+mittendo Philippo ribaldum cum flasco et truffis, quia bene
+debebat scire, quod dominus Philippus non erat homo mottezandus. 
+Blondellus autem plorans, excusabat se, quod nunquam miserat ad
+eum pro vino; et statim cogitavit, hoc factum fuisse opera
+Ciachi, qui solicitaverat eum ut iret ad dominum Philippum. 
+Deinde aliquantulum refocilatus, reversus est domum, ubi pluribus
+diebus stetit, quod non potuit apparere tristis et dolens. 
+Tandem egrediens occurrit Ciacho, qui petivit, quale fuerat vinum
+domini Philippi.  Blondellus respondit: tales visae fuissent tibi
+lampredae domini Cursii.  Tunc Ciachus subridens: in te amodo
+stat, si velis mihi dare tam bene ad comedendum, dabo tibi tam
+bene ad bibendum.  Ad propositum ergo vide, qualiter Philippus
+Argenti pro una vana buffa distratiavit crudeliter vilem
+homuncionem per lutum cum furore.  Ideo bene nunc distratiatur
+viliter, ut canis rabidus ab aliis canibus per triste coenum
+infernale. 
+
+	|43-45.~  |Lo collo.~  Hic autor ostendit quomodo
+Virgilius ratificat vel iustificat quidquid dixerat vituperose
+contra illum Philippum, unde dicit: et ille Virgilius, |mi cinse
+poi il collo con le braccia~, scilicet amplexus fuit me ad
+collum, |baciomme il volto~, applaudendo mihi cum laetitia, |e
+disse: alma sdegnosa~, idest, o anima indignans, in bona parte
+capit istud vocabulum, quasi dicat: bene et iuste habes ad
+indignationem et abhominationem istos superbos sine aliqua
+virtute, et quia nobilis est indignatio tua, ideo bene:
+|Benedetta colei che in te se 'ncinse~, quasi dicat, benedicta
+mater tua quae portavit te in utero, ita quod quando erat gravida
+de filio cingebat se super ipsum.  Et hic nota lector quod mater
+Dantis fuit vere beata; vocata est enim Gemma, et tamquam gemma
+praetiosa misit tantam lucem in mundum.  Alius tamen textus habet:
+|s'incese~, et tunc exponatur sic litera: beata illa Beatrix quae
+se incendit amore tuo, quae sic incensa venit ad me Virgilium ut
+ducerem te per istum Infernum, ubi videres iustam vindictam
+superborum, et disceres sic spernere eos, ut patuit II capitulo;
+sed prima litera videtur mihi magis propria, ubi secunda videtur
+magis violentata.  
+
+	|46-48.~  Et ut ostendat Virgilius praedictum spiritum
+fore dignum tali vituperatione, dicit: |quei~, quem tu vidisti
+ita frustra insanientem, |fu al mondo persona orgogliosa~, idest
+arrogans, de se temere praesumens cum tamen nihil boni in se
+haberet, unde dicit: |bont@a non @ee che sua memoria fregi~, idest
+nulla virtus est quae ornet memoriam suam, et ideo: |cos@i se
+l'ombra sua qui furiosa~, tunc enim superbus cadens efficitur
+rabiosus quando non habet in se virtutem qua possit se redimere.
+
+	|49-51.~  |Quanti.~  Hic Virgilius ad arguendam vanitatem
+superborum, dat unum notabile, dicens: |quanti se tengon or
+lass@u~, scilicet in mundo viventium, |gran regi~, idest magnos
+principes, nam rex primum antiquitus nomen est dignitatis, ut
+dicit Justinus in prohemio suo: et nota quod dicit notanter,
+|tengon~, quia istud vicium arrogantiae falso de se extimat; nam
+ille est vere rex, qui primo scit regere se ipsum, |che qui
+staranno come porci in brago~, idest volutabro, quasi dicat
+stabunt in coeno istius fetidae paludis sicut porci in luto.  Et
+hic nota quod istud accidit saepe de facto in isto mundo.  Quot
+reges illustres tabuerunt in carceribus Romanorum sicut Syphax,
+Jugurta, Perses, et quot Romani principes?  Nonne Vitellius 
+imperator Romanorum ductus est per urbem in furore populi cunctis
+iacientibus in faciem et os eius lutum, urinam et faecem? 
+Valerianus autem imperator consenuit in carcere regis Persarum
+cum hac ignominiosa perpetua servitute, quod semper regem
+ascensurum equum sublevabat tergo suo, sicut scribit AElius
+spartianus, licet non oporteat ire per exempla veterum, quia
+quotidie habemus exempla prae oculos, et ideo bene dicit: |di se
+lassando orribili dispregi~, quia redduntur contemptibiles apud
+omnes.
+
+	|52-54.~  |Et io.~  Hic autor ostendit quod non contentus
+tali exprobratione verborum optaverit sibi videre facta peiora,
+unde dicit: |et io~, supple dixi Virgilio: |O Maestro, molto
+saria vago di vederlo atuffar~, idest submergi, |in questa
+broda~, idest paludem pinguem unctam ad modum brodi, |prima che
+noi uscissimo del lago~, scilicet de Styge ista marcida lacuna,
+vel sequitur autor humanum appetitum quasi dicat: sicut
+delectabatur distraciare et ludificari alios, ita vellem antequam
+recedam hinc fieri destracium et ludibrium de eo. 
+
+	|55-57.~  Et subdit responsionem Virgilii qui dicit quod
+autor videbit quod optat antequam perveniat ad finem circuli,
+unde dicit: |et egli a me~: supple Virgilius respondit: |tu serai
+sazio di tal disio e conven che ti goda~, quasi dicat, eris satur
+et laetus tali vindicta quam appetis tam avide, |avanti che la
+proda~, idest antequam extremitas ripae, |ti si lassi vedere~,
+quasi dicat: antequam applices ad ripam civitatis ubi exibis de
+navi; et sic vide quod adhuc erant tam a longe quod non poterant
+videre ultimam ripam.  Et hic nota quod istud quod autor hic
+fingit, aliquando accidit de facto in mundo isto, quia dicit
+aliquando vir sapiens videns rabiosam bizariam unius superbi: 
+iste ducet adhuc miseram vitam; dicet alius ego vellem videre
+cito; respondet sapiens: istud forte accidet priusquam optes vel
+credas, et sic accidit: sic dicebat Boetius exul, et hoc
+verificatum est in utroque.  Nam si Boetius non fuisset relegatus
+per superbum regem Gothorum, non fecisset opus tam nobile et
+utile, quod fuit multis causa consolationis in tribulatione et
+desperatione; nec Dantes nisi similiter passus esset
+persecutionem superborum fecisset opus tam mirabile, quod fuit
+causa correctionis sibi et aliis.  Unde si uterque fuisset
+interrogatus: velles tu numquam fuisse expulsus, non dubito quod
+respondisset: nullo modo.
+
+	|58-60.~  |Dipo ci@o.~  Hic autor ponit effectum suae
+optationis, dicens clare: |Io vidi dipo ci@o~, idest paulo post
+ista verba facta inter me et Virgilium, |far quello strazio~,
+idest tam magnum et vituperosum, |di costui~, scilicet Philippi,
+|a le fangose genti~, idest illis superbis in eodem luto positis,
+unde per hoc autor innuit quod superbus punitur et destruitur
+manu superborum, sicut iam dictum est, unde dicit: |che ancor ne
+lodo e ringrazio Dio~, et sic vide quod vir sapiens sine laesione
+conscientiae saepe optat ruinam pravi ad utilitatem aliorum, quando
+ille est obstinatus et insanabilis sicut erat nunc iste. 
+
+	|61-63.~  Et statim subdit triste spectaculum factum de
+isto exprimens eius nomen, patriam et vicium, dicens: |tutti
+gridavano ah Filippo Argenti~, ita quod factis et verbis
+insultabant ei; ille autem, quia non poterat volvere se contra
+illos, convertebat rabiem suam in se.  Ideo dicit: |el fiorentino
+spirito bizarro~, idest sticciosus, |se volgea coi denti in se
+medesmo~, sicut facit homo superbus quando non potest facere
+vindictam de iniuria quae fit sibi a potentiore.
+
+	|64-66.~  |Quivi el lassamo.~  Ista est tertia pars in
+qua autor, terminata materia superbiae, nunc tendit versus
+tractatum novae materiae, scilicet civitatis infernalis.  Ideo
+prius describit signa indicantia a longe ipsam civitatem, et
+continuans dicta dicendis dicit: |quivi el lassammo~, idest
+dimisimus istum Philippum ita destraciatum in isto luto, |che pi@u
+non ne narro~, quia non intendo plura dicere de eo, quia pro nunc
+satis dictum erat de materia superborum in isto uno superbo
+praesertim, quia occurrebat alia materia pertractanda, scilicet
+poenarum quae sunt intra civitatem; unde dicit: |ma un duolo~,
+idest magnus dolor, |me percosse ne l'orecchie.~  Hic dolor non
+procedebat ex valle, imo proveniebat a civitate; ideo direxit
+oculum versus partem a qua venire videbatur.  Unde dicit:
+|perch'io sbarro l'occhio intento davanti~, quasi dicat promovi
+vel aperui oculum intellectualem ulterius ante me, quia ubi primo
+tenebam oculum solum ad coenum, ubi ita male tractabatur superbus
+cum magno clamore omnium, levavi oculum ubi audiebam maiorem
+clamorem et dolorem a longe provenientem a maiori poena.
+
+	|67-69.~  |Lo bon.~  Hic autor ostendit quomodo Virgilius
+providus praevenerit eum, non expectata petitione explicans sibi,
+unde proveniat tam intensus dolor, quia scilicet a civitate ad
+quam incipiebant appropinquare, unde dicit: |Lo bon maestro~,
+scilicet Virgilius, |disse: o figliuolo la citt@a che ha nome Dite
+omai s'appressa.~  Ad quod nota quod ista civitas fingitur esse
+civitas regalis et denominatur civitas Ditis a Dite rege
+infernali, quia in ea sunt absconditi magni thesauri  inferorum,
+idest magni peccatores clausi, sicut magni heretici, tiranni,
+raptores, desperati, blasphemi, sodomitae, usurarii, fraudulenti,
+falsarii, proditores.  Ideo bene dicit: |coi gravi cittadini~,
+idest sceleratis qui graviter peccaverunt, ita quod pondus
+peccatorum demersit eos in profundum, |col gran stuolo~, idest
+exercitu, quia hic est multitudo numerosa per varias acies
+ordinata.  Est enim ista civitas populosa et plena gentibus
+totius mundi quae habitant in diversis vicis, ut patebit in
+processu.
+
+	|70-72.~  |Et io.~  Hic autor ponit responsionem suam ad
+Virgilium, in qua profitetur se iam videre signa praetendentia
+ipsam.  Unde dicit: |Et io~, idest ego Dantes dixi: |Maestro~,
+idest, o Virgili, magister mi, vere videris mihi dicere verum,
+|gi@a certo~, idest certe sine dubio, |cerno~, idest discerno et
+comprehendo, |le sue meschite~.  Et hic nota quod istae Ecclesiae 
+sunt sepulcra haereticorum qui puniuntur iuxta moenia murorum intra
+civitatem.  Sicut enim accidit in mundo isto, quod accedentes ad
+aliquam terram primo solent videre a longe templa quae communiter
+sunt alta et apparentia, ita nunc isti accedentes ad istam
+civitatem infernalem primo vident templa, idest sepulcra
+haereticorum, quae ad modum templorum apparebant in aere, quia
+eorum coopertoria sunt suspensa in alto, et videntur in forma
+quasi tecta Ecclesiarum acuta in medio.  Nota etiam quod autor
+utitur vocabulo saracenico; nam Ecclesiae haereticorum non possunt
+dici Ecclesiae.  Ponit etiam ipsa sepulcra haereticorum iuxta
+extrema seposita a toto corpore civitatis, quia conventiculae
+haereticorum sunt tales, quod vitant consortia aliorum.  Et tangit
+formam poenae istorum a qua procedebat ille dolor, quia scilicet
+puniuntur in igne, unde dicit: |vermiglie come~ ^fosser~ |uscite
+di fuoco~, sicut a simili videmus hic quando faber ignit bene
+unum ferrum quod totum videtur igneum.  
+
+	|73-75.~  Et subdit responsionem Virgilii confirmantis et
+declarantis dictum eius, unde dicit: |et ei mi disse~: idest et
+ille Virgilius dixit mihi: |el fuoco eterno~, quia semper
+duraturus, |ch'entro l'affoca~, idest incendit illas meschitas
+interius, |le demostra rosse, come tu vedi, in questo basso
+inferno.~
+
+	|76-78.~  |Noi.~  Hic ultimo autor ostendit quomodo
+pervenerint ad istam civitatem, quam describit a mirabili
+fortitudine eius, dicens: |noi pur giugnemo~, idest nos tandem
+pervenimus et appulimus finaliter navigando cum Phlegia, |dentro
+a l'alte fosse~, idest profundas, |che vallan quella terra
+sconsolata~, idest cingunt et claudunt illam civitatem infelicem,
+quia Infernus est locus inconsolabilis, ut dicit Aristotiles in
+sua poetria.  Et hic nota quod autor fingit istam civitatem fore
+fortem et inexpugnabilem cum magnis fossis profundis et muris
+altis et fortibus, ut locus conveniat damnatis.  Videmus enim in
+mundo nostro quod qui gravius deliquerunt coercentur duriori
+carcere, et subiiciuntur gravioribus poenis; et ita qui laevius
+peccaverunt largius detinentur et laevius puniuntur: ita in
+proposito, isti qui sunt inclusi intra civitatem, enormius
+peccaverunt; illi vero qui sunt positi extra in loco ampliore et
+liberiore, laevius peccaverunt.  Nota etiam quod per profunditatem
+fossarum, et fortitudinem murorum, autor figurat profunditatem et
+difficultatem materiae, quam nunc parabat intrare, sicut statim
+dicetur; unde dicit: |le mura mi parea che ferro fosse~, idest
+essent de materia ferrea, ut bene videbis infra. 
+
+	|79-81.~  Ideo autor bene fingit quod non potuerunt
+pervenire ad introitum nisi per longam circuitionem, unde dicit:
+|venimmo in parte~, scilicet ad terram ante portam civitatis, ubi
+erat portus illius navigii, |dove 'l nocchier forte~, scilicet
+Phlegias superbus: |grid@o: uscitice~, idest exite de navi, quia:
+|qui @ee l'entrata~, et bene dicit quod clamavit, quia cum magna
+indignatione et ira deposuit eos ad terram.  Sciebat enim quod
+erant facturi magnum damnum civitati, et dicit: |non senza far
+pria grande agirata~, quia non sine longo discursu rationis et
+magno labore speculationis potuit pervenire ad istam materiam. 
+Et hic ultimo nota lector, quod potes mirari et dubitare, nonne
+autor noster descripsit supra civitatem infernalem, ubi tertio
+capitulo dixit: ^Per me si va nella citt@a dolente~! similiter
+descripsit Charonem nautam qui transportat omnes animas pravorum
+in Infernum per fluvium Acherontis; quare ergo nunc describit
+aliam civitatem et alium nautam, scilicet Phlegiam qui transfert
+animas de valle ad istam civitatem?  Dico breviter quod autor non
+est hic superfluus, imo subtiliter facit pulcerrimam fictionem;
+fingit enim quod ista magna et antiqua civitas habeat tria et
+diversa fortilitia, sicut gratia exempli habet civitas antiqua
+Padua in Italia.  Modo in primo fortilitio maiore, ubi non fit
+magna custodia, habitant illi qui peccaverunt per incontinentiam. 
+In secundo strictiore ubi fit magna custodia habitant illi qui
+peccaverunt per violentiam.  In tertio fortilitio strictissimo
+habitant illi qui peccaverunt per fraululentiam, ubi invenitur
+tertius portitor animarum peior et horribilior caeteris, scilicet
+Gerion; et ultimo in centro civitatis est carcer obscurissimus,
+scilicet puteus in quo puniuntur proditores.
+
+	|82-85.~  |Io vidi pi@u di mille.~  Ista est quarta et
+ultima pars generalis, in qua autor ostendit maximam resistentiam
+quam habuerunt ad intrandum istam civitatem.  Sed antequam
+descendam ad literam exponendam volo te praescire, quod tota ista
+pars est fortis et comuniter male intellecta; sed ne perdam
+tempus dicam breviter et summatim, quod autor noster ideo fingit
+se hic invenisse maximam resistentiam, ut per illam det intelligi
+maximam luctam mentis quam secum habuit.  Si enim supra autor
+invenit in singulis circulis unum singularem custodem qui voluit
+sibi denegare ingressum ne videret communia vicia et supplicia
+incontinentium, quae sunt quasi per se nota; quanto fortius debet
+hic invenisse magnam multitudinem custodum volentium impedire ne
+intret civitatem, et videat vicia magis occulta?  Fingit ergo
+subtiliter quod daemones in magna multitudine cum magno furore
+concurrerint ad turrim magistram, ut bene custodirent passum ne
+isti possent intrare.  Ergo per daemones autor repraesentat nobis
+malitias, fraudes et falsitates quas parabat describere, quas non
+Homerus, non Virgilius numquam descripserat; ideo non mireris si
+habuerit hic magnam resistentiam, quia sine magna difficultate
+non poterat intrare fortem materiam.  Nunc ad literam dicit autor
+: |Io vidi pi@u di mille dal ciel piovuti~, idest Daemoniorum qui
+propter superbiam ceciderunt de caelesti civitate in istam
+infernalem, et ponit numerum pro numero, ita poterat dicere
+centum milia vel mille milia, quia infinita et innumerabilia sunt
+genera malitiarum et fraudium, et dicit: |in su le porte~, in
+plurali propter versum, vel ad magnificandam fortitudinem illius
+portae, cum tamen non esset nisi una porta, ut patebit postea.  Et
+primo ponit verba daemonum, dicens: |che dicean stizzosamente~,
+idest indignanter et cum ira: |chi @ee costui~, scilicet tam
+audax, tam valens, |che senza morte~, idest qui antequam sit
+mortuus, |va per lo regno della morta gente~, idest per Infernum
+qui est locus vere mortuorum; et vide quod autor noster non erat
+mortuus cum istis, quia non fuerat usus in vita malitiis et
+fraudibus, nisi parum ad fallendas mulieres in juventute sua, ut
+dicetur alibi.
+
+	|86-87.~  |El savio.~  Hic autor ostendit quomodo
+Virgilius tentaverit primo per se intrare, quia audiebat quod
+illi solummodo conquerebantur de ipso qui vivens erat.  Unde
+dicit: |el savio Duca mio~, scilicet Virgilius sapiens poeta,
+|fece cenno di voler parlar a lor secretamente~, ut minus
+indignarentur si solus iret, quia erat mortuus, et placaret eos,
+et sic impetraret accessum pro autore.  Per hoc autem figurat
+quod Virgilius voluit tentare si per se poterat inducere autorem
+ad istam materiam, sed non potuit. 
+
+	|88-93.~  Et tangit effectum dicens quod modicum visi
+sunt placari, unde dicit: |alor~, idest tunc illi daemones,
+|chiusero un poco el gran desdegno~, idest indignationem quam
+primo conceperant viso autore vivo, |e disser: vien tu solo~,
+quia alias hic fuisti, et quia non es exiturus de Inferno, sicut
+iste qui venit ut referat ad vivos de summa infelicitate
+peccatorum, et sic revocet homines ab ista patria nostra, quam
+semper petimus et optamus magnificare et augere; unde dicit: |che
+s@i ardito intr@o per questo regno~, quasi dicat: nimis fuit audax
+in intrando Infernum et audacter venit hucusque, sed non poterit
+procedere ulterius; et ideo non est nisi unum consilium quod
+desistat ab itinere incoepto, scilicet ab ista descriptione
+Inferni, unde dicit: |sol se ritorni per la folle strada~, idest
+per viam, idest per materiam quam temere intravit, |provi se sa
+che tu qui rimarrai~, quasi dicat faciat totum conatum suum quod
+non poterit perficere quod coepit, nec tu poteris iuvare eum
+quamvis feceris sibi viam hucusque; ideo dicit: |che gli hai
+scorta s@i buia contrada~, quasi dicat: tu scortasti et duxisti
+eum per vallem tam nebulosam et obscuram.
+
+	|94-96.~  |Pensa.~  Hic autor volens ostendere terrorem
+suum, qui inducebat sibi desperationem, apostrophat ad lectorem,
+ut reddat eum attentum ad considerandum difficultatem magnam;
+unde dicit: o lector: |pensa s'io mi sconfortai~, quasi dicat: 
+bene potes cogitare quomodo territus sum, |al suon di le parole
+maledette~, quae dixerant illi daemones in aeternum maledicti; et
+certe ita pavefactus sum, |ch'io non credetti ritornarci mai.~ 
+Et nota quod non vult aliud dicere nisi quod conferendo cum
+ratione et faciendo comparationes de se ad Virgilium, desperavit
+posse procedere ulterius; ideo timuit remanere ibi, scilicet
+faciendo finem operi, et crede quod aliquando fuit in actu
+lacerandi quidquid fecerat quando veniebat ad tales passus
+arduos.
+
+	|97-99.~  |O caro.~  Hic autor implorat auxilium
+Virgilii, vel captat benivolentiam ab ante factis, dicens: |o
+caro duca mio~, idest, o Virgili, |che m'ha' renduta sicurt@a~,
+ubi timebam, |et hai me tratto da l'alto periglio~, idest, et qui
+eruisti me a magno periculo, |ch'incontra mi stette~, idest quod
+occurrit mihi in isto itinere periculoso, et dicit: |pi@u di sette
+volte~, quia scilicet liberavit eum a tribus faeris primo
+impedientibus eum a timore intrandi primo Infernum; a Minoe, a
+Phlegia, a Philippo Argenti; et ita de multis.  
+
+	|100-102.~  Et ecce petitionem: |non mi lasciar diss'io
+cos@i disfatto~, idest ita delusum infecto opere isto, quasi dicat
+juvisti me semper in omnibus dubiis; nunc autem si non potes
+plus, dimittamus, unde subdit: |ritroviam l'orme nostre insieme
+ratto~, idest revertamur simul cito per eamdem viam per quam
+venimus, ubi fecimus vestigia nostra, et hoc dicto, |se 'l passar
+pi@u oltre c'@e negato~, idest si non possumus ulterius procedere
+in ista via. 
+
+	|103-105.~  Et subdit responsionem Virgilii exhortantis
+ipsum, ne timeat, quia datum est desuper quod perficiat residuum
+itineris, sicut iam fecerunt partem, unde dicit: |e quel Signor~,
+idest Virgilius qui erat mihi dominus et magister, |che l@i m'avea
+menato~, quia conduxerat me salvum usque ad illum passum fortem,
+|me disse: non temer ch'alcun non ce po' tor lo nostro passo~,
+idest transitum ad civitatem, |da tal n'@e dato~, quia scilicet a
+Deo concessum, cui potentia daemonum non potest contradicere; 
+
+	|106-108.~  et promittit sibi bonam spem, dicens: |ma qui
+m'attendi~ idest expecta me, |e conforta e ciba lo spirito
+lasso~, idest pasce animum vacuum omni spe, |di speranzia bona~,
+scilicet feliciter intrandi et perficiendi, |ch'io non te lassar@o
+nel mondo basso~, idest quia ego non deseram te in isto Inferno
+opere imperfecto, imo ducam te per altum Purgatorium, unde postea
+cum alio duce ascendes altissimum coelum.  Ergo bene traham te de
+Inferno, et non dimittam te in eo.
+
+	|109-111.~  |Cos@i.~  Hic autor posita exhortatione
+Virgilii, ponit excessum eius dicens: |Cos@i sen va~, scilicet
+solus, sine me, |e quivi m'abandona~, ad certam horam, |lo dolce
+padre~, et recessus eius erat mihi amarus, unde dicit: |et io
+rimango in forse~, idest remaneo in dubio, et ecce dubium, |che
+s@i e no nel capo me tenciona~, quia in phantasia mea dicebam: ita
+intrabit non intrabit, ita redibit non redibit.  
+
+	|112-117.~  Et subdit quod non potuit audire verba
+Virgilii ad illos custodes, dicens: |non potei~, idest ego Dantes
+non potui, |udir quello ch'a lor porse~, quia nimis eram a longe,
+sed cito vidi repulsam sibi datam, unde dicit: |ma ei~, scilicet
+ille Virgilius, |non stette l@a con essi~, scilicet daemonibus,
+|guari~, idest quasi vult dicere, quod Virgilius stetit quasi
+nihil cum illis in verbis, |che ciascun se ricorse dentro a
+prova~, idest certatim reintraverunt civitatem, quia non placuit
+eis petitio Virgilii, ideo excluserunt eum, unde dicit: |quei
+nostri aversari~, scilicet daemones, |chiuser le porte nel petto
+al mio Signore~, quasi dicat statim, |che fuor rimase~, male
+consolatus; et ecce quod fecit, |e rivolsesi a me con passi
+rari~, quia coepit redire lente versus autorem totus cogitabundus. 
+Et hic nota quod autor fingit hoc totum, quia non poterat cum
+Virgilio solo intrare istam civitatem nisi mediante auxilio
+alterius, ut statim patebit; et etiam quia de rei veritate
+Virgilius non descripserat ad plenum istam materiam; unde autor,
+sicut patebit in processu, describit quasi omnia genera fraudium
+et poenarum mirabiliter, quae nunquam fuerunt per Virgilium vel
+alium somniata quod ego sciam; 
+
+	|118-120.~  et describit confusionem Virgilii per signa
+pudoris et doloris dicens: et Virgilius, |avea gli occhi a la 
+terra~, scilicet deiectos in terram pro verecundia, et habebat
+|le ciglia rase d'ogni baldancia~, idest faciem privatam omni
+alacritate, ita quod vultus eius erat moerore confusus, et dolebat
+intra se, unde dicit: |e dicea nei sospiri~, quae suspiria sunt
+signa doloris, |chi m'ha negate le dolenti case~? quasi dicat:
+quis negavit introitum istius civitatis, in qua omnes domus sunt
+plenae dolore, nisi isti maledicti diaboli qui noluerunt admittere
+me?  Unde ipse Virgilius fingit VI Eneydos quod Sybilla dicat
+Eneae : ^Nulli fas casto sceleratum insistere limen.~
+
+	|121-124.~  |Et a me.~  Hic ostendit quomodo Virgilius
+quamvis iratus exhortatus fuerit ipsum ne perderet spem bonam;
+unde dicit: |Et a me disse: tu non sbigottire~, idest non 
+terrearis, non turberis, |perch'io m'adiri, ch'io vincer@o la
+pugna~, quia scilicet intrabo omnino, |qual ch'a la diffension
+dentro s'agiri~, idest quicumque volvat se ad resistentiam intra
+terram circa muros, quasi dicat: faciant quam peius possunt quod
+ego intrabo in despectum eorum; et probat a maiori, quod non sit
+mirandum si daemones isti praesumpserunt denegare hominibus intrare
+per istam portam, quia praesumpserant olim denegare Christo
+intrare portam primam Inferni, qui veniebat ad faciendum eis
+damnum, unde dicit: |questa lor tracotancia~, idest straniantia
+|non @ee nova~, imo antiqua, quod statim probat; 
+
+	|125-127.~  |che gi@a l'usaro a men stretta porta~, idest
+ad primam portam Inferni, quae est magis patens quam ista, quia
+est sine ulla custodia, |la quale ancor se trova senza serrame~,
+quia Christus fregit seras et claustra Inferni iuxta illud:
+^Attollite portas principes vestras.~  Et specificat illam portam
+per titulum nigrum qui reperitur in summitate istius portae, ut
+patuit in principio tertii capituli, unde dicit: |tu vedesti la
+scritta morta~, idest scripturam, quae est vox mortua, ubi
+dicitur: ^iustizia mosse il mio alto Fattore.~  Sed certe sicut
+non potuerunt resistere Christo ibi; ita hic non poterunt
+resistere uni Deo qui iam venit in succursum nostrum.  Et vult
+breviter dicere Virgilius ad excusationem suam: isti daemones
+praesumpserunt impedire Christum ne intraret infernum per
+liberationem Patrum, quanto fortius possunt presumere impedire
+nos! sed sicut nihil profecerunt tunc, ita nec nunc, quia
+intrabimus virtute divina.  Et sic vide ex dictis cessat obiectio
+quam solent quidam facere, quare daemones non recipiebant Dantem
+libenter ut lucrarentur illam animam? quia autor venerat vivus ad
+liberandum se et alios ab isto Inferno, moraliter loquendo.  Et
+nota quod appellamus Infernum moralem statum vitiorum, quia
+homines moraliter loquendo sunt mortui in eo, sicut a simili
+dicimus bellum civile, quia de civibus fuit et inter cives
+gestum, tamen re vera fuit potius incivile.
+
+	|128-130.~  |E gi@a.~  Hic ultimo Virgilius ad
+exhortationem autoris dicit, quod iam appropinquabat ille qui est
+introducturus eos in civitatem; unde dicit: |E tal~, idest unus
+talis tam potens, |che per lui ne fia la terra aperta~, quia
+scilicet aperiet nobis portam manu sua, |gi@a discende l'erta~,
+quasi dicat: iam venit per Infernum continuo descendendo, |di qu@a
+da lei~, idest ab illa porta citra, |passando per li cerchi senza
+scorta~, quia scilicet venit solus et non indiget scorta, sicut
+tu.  Et hic erat Mercurius, ut clare ostendetur in sequenti
+capitulo.
+
+

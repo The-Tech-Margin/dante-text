@@ -1,0 +1,18 @@
+Fri May 31 13:04:14 EDT 1985 stc created canto.list
+Fri May 31 13:04:56 EDT 1985 stc converted all .k files using oldktostd.sed
+Mon Jun 10 13:38:06 EDT 1985 stc created 9.s with cleank command
+Tue Jun 11 18:54:40 EDT 1985 stc edited all .k files into .s files.
+Tue Jun 11 18:55:24 EDT 1985 stc transferred all .s files to Rainbow, thru display -f, to floppy.
+Tue Aug 6 11:51:53 EDT 1985 stc received edited files from Marg.
+Wed Aug 28 14:44:13 EDT 1985 stc removed all .s files
+Thu May 19 12:14:53 EDT 1988 jma preloaded .e files for entry into searchable db
+Thu Feb 9 15:45:32 EST 1989 preloaded inferno. jvs
+Sun Mar 19 21:19:46 EST 1989 ran checknew on .e files. jvs
+Sun Mar 19 21:20:29 EST 1989 used reformat.sed to correct .e inconsistencies > .f jvs
+Tue Mar 21 21:13:11 EST 1989 last line of file 34 mssg. typed it in from orig. jvs
+Tue Mar 21 21:22:08 EST 1989 jvs discovered ALL LAST LINES MSSG.
+Wed Mar 22 20:55:18 EST 1989 jvs typed in all last lines. (was xfer
+error?)
+Wed Mar 22 21:05:30 EST 1989 jvs preloaded from .f files.
+Wed Apr 19 20:21:28 EDT 1989 jvs deleted obsolete .e files
+Mon Jul 31 10:41:59 EDT 1989 jvs renamed .f files to .e

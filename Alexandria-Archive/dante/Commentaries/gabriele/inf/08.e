@@ -1,0 +1,93 @@
+	|1.~  IO DICO SEGUITANDO etc.  Voglion i comentatori che questi sette 
+capitoli soperiori facesse il Poeta innanzi la sua scazzata di 
+Fiorenze, e dipoi a quelli tralasciati per molto tempo tornassi con 
+questo, e perci@o dica, ^seguitando~.  P@o essere e no, io non affermo.
+
+	|14.~  SNELLA, idest, leggiera, presta, lieve significa.
+
+	|16.~  IN QUELLA, idest, in quel mezzo.
+
+	|17.~  GALEOTO: ha qui posto il Poeta in rima per un ^t~, e nel 
+Purgatorio per dui.
+
+	|19.~  TU GRIDI A VOTO, indarno, e cos@i il Petrarca nella canzon 
+^Amor se voi~ etc., <a voto scocchi> etc.
+
+	|26~.  APPRESSO LUI: qui per lo ^\<s@e\> lui~ @e posto.
+
+	|29-30.~  SECANDO SE NE VA L'ANTICA PRORA, DE L'ACQUA PI@U CHE NON 
+SUOL CON ALTRUI, e ci@o disse perch@e usa la barchetta portar solo 
+anime lievi, e Dante era col corpo grave, e cos@i Virgilio nel VI: 
+<simul accipit alveo> etc.
+
+	|31.~  MORTA GORA: figura @e, perch@e ^gora~ @e acqua corrente e quasi 
+quella d'i molini, e ^morta~ @e epitito contrario; cos@i fece ^tra le 
+vive travi~, e il Petrarca <secca selva>.
+
+	|34.~  S'IO VENGO etc.: parole ad uno irato convenienti;
+
+	|37.~  COM PIANGERE E CON LUTTO: risponde a quelle due parti di sopra, 
+che avea detto: ^ripien di fango~ e poi ^si se' fatto brutto~; e poi 
+disse: ^che son un che piango~.
+
+	|39.~  SIE: @e contra le regule; vorebbe dire o ^sia~ o ^sii~.
+
+	|42.~  VIA COST@A, idest, via di qua.
+
+	|43.~  LO COLLO POI CON LE BRACCIA etc.: Dante era di tale natura che 
+non poteva sopportare nulla, perci@o se stesso loda ora.
+
+	|45~.  CHE IN TE etc.: cio@e la madre, perch@e quando le madri son di 
+noi gravide, si cingono il corpo nel quale siamo, e cos@i se stesse 
+cingono in noi.
+
+	|47.~  FREGI: orni, onde un fregio, uno ornamento.
+
+	|50.~  IN BRAGO: in fango.
+
+	|52.~  VAGO, cupido.
+
+	|55.~  PRODA chiama il litto della barca di cui `proda' chiamiamo la 
+prima parte, e cos@i piglia per lo lito, ch'@e prima parte della terra.
+
+	|61.~  A FILIPPO ARGENTI: con gran misterio il Poeta ha tirato a dir 
+fin qui chi fusse questi.  A: questa particella appresso noi tanto 
+importa quanto `addosso'.  Questi @e quegli di cui fa mentione il 
+Boccaccio nella novella di Biondello.
+
+	|68.~  C'HA NOME DITE: da Plutone chiamata, il quale ha nome Dite.
+
+	|69.~  STUOLO, exercito.
+
+	|70.~  MESCHITE son quelle che noi `moschee' chiamiamo.
+
+	|77.~  CHE VALLAN: che chiudono e serrano.
+
+	|88.~  ALLOR CHIUSER UN POCO etc.: bel modo di dire, idest, non 
+mostraron d'addirarsi.
+
+	|91.~  PER LA FOLLE STRADA: per la strada follemente tolta.
+
+	|93.~  BUIA, oscura.
+
+	|106.~  LO SPIRTO LASSO CONFORTA: conveniente verbo a quel nome 
+^lasso~, e pi@u quel altro ^ciba~.
+
+	|110.~  IN FORSE, in dubio.
+
+	|114.~  A PROVA, che noi dicemo `a regatta'.
+
+	|117.~  CON PASSI RARI etc.: tutti segnali d'un vergognoso.
+
+	|118.~  E LE CIGLIA AVEA RASE D'OGNI BALDANZA: muodo di dire, idest, 
+fatto timido per la negation fatta.
+
+	|123.~   QUAL CHE, idest, ogni cosa che.
+
+	|124.~  TRACOTANZA, idest, arroganza.
+
+	|127.~  SOVR'ESSA: che fu quella prima de l'Inferno; LA SCRITTA MORTA: 
+figura: ha dato l'epiteto ad una cosa per un altra, idest, la scritta 
+fatta ai morti, come nel principio del terzo canto si vede.
+
+	|130.~  TAL: intende de l'angelo mandato da Dio.

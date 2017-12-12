@@ -1,0 +1,832 @@
+	|Proemio.~  ^Ora cen porta l'un de'duri~ ec.  Qui si
+comincia lo XV canto, lo quale col sedecimo intende di trattare de'
+violenti contra la natura tanto; e nel XVII canto, delli violenti
+contra la natura e l'arte, che sono puniti nel secondo girone del
+settimo cerchio insieme con li violenti contra Dio, secondo che
+finge l'autore; e dividesi questo canto principalmente in due
+parti, perch@e prima finge che andando su per l'uno de' detti due
+margini; cio@e su per quello ch'era verso loro, si scontr@o con
+ser Brunetto Latino e sua brigata, e come si riconobbe con lui e
+li ragionamenti ch'ebbe con lui soggiugne; nella seconda parte
+pone altri ragionamenti, che ebbe col detto ser Brunetto e delle
+sue condizioni e di Fiorenza, quivi: ^Et elli a me~ ec.
+
+	|1-54.~  La prima, che sar@a la prima
+lezione, si divide in cinque parti: imper@o che
+prima pone come continuarono loro cammino; nella seconda,
+come si scontrarono in una brigata d'anime, e come fu da
+una conosciuto, quivi: ^Gi@a eravam dalla selva~ ec.; nella
+terza, com'elli riconobbe lei e come lo nomin@o e com'elli
+addomand@o di andare con lui, quivi: ^Et io, quando~ ec.; nella
+quarta pone com'elli a quell'anima risponde, quivi: ^Io dissi a
+lui~ ec.; nella quinta pone lo modo, che tenea andando con la
+detta anima, quivi: ^Io non osava~ ec.  Divisa la lezione, ora @e
+da vedere la sentenzia litterale.
+
+	Noi montamo su l'uno de' detti margini, ch'erano le
+sponde del fiume ch'erano di pietra sicch@e, perch@e vi fosse
+caduto lo fuoco, non vi sarebbe acceso; e di sopra non vi potea
+cadere lo fuoco, perch@e lo fummo del fiume lo spegnea.  E
+pone due similitudini per mostrare come erano fatti questi
+margini, dicendo che come in Fiandra @e fatto tra Guizzante e
+Bruggia, che sono due citt@a, per difendere la lor pianura sono
+fatti due margini di pietre, acci@o che il flusso del mare non li
+allaghi; et a Padova @e fatto similmente a uno fiume che si
+chiama la Brenta, due margini di pietre acciocch@e difendano lo
+piano dal diluvio dell'acqua che viene la state, quando si
+risolvono le nevi che sono in su la montagna chiamata
+Chiarentana; cos@i erano fatti quelli, bench@e non fossino s@i
+alti, n@e s@i grossi fatti dal maestro che li fe, qualunque si
+fosse.  E dice che gi@a erano tanto dipartiti dalla selva, che
+essendosi rivolti a dietro non l'avrebbe veduta, quando
+scontrarono una schiera d'anime che veniva lungo l'argine e
+ciascuna ragguardava Virgilio e Dante, come di notte quando @e
+innovata la luna che non appare il suo splendore, ragguarda l'uno
+l'altro fisamente et accrespavano le ciglia, come fa lo
+sartore, quando @e vecchio, nella cruna dell'ago; e cos@i
+adocchiato da costoro fu conosciuto da uno, cbe l'afferr@o per lo
+lembo e grid@o: Che maraviglia @e questa che tu se' qui?  Et
+allora dice Dante che, fitto lo suo viso per lo volto incotto
+per l'arsura di quell'anima, lo riconobbe bench@e fosse
+abbruciato, e chinando la sua faccia a quella di quell'anima
+disse: O ser Brunetto, siete voi qui?  Et allora quell'anima;
+cio@e ser Brunetto rispose: Io voglio essere un poco teco,
+ritorna a dietro e lascia andare questa brigata.  Allora
+disse Dante: Io ve ne priego quanto posso; e se volete ch'io mi
+ponga a sedere con voi, farollo se piacer@a a colui col quale io
+vo.  Allora disse ser Brunetto: Io non voglio restare d'andare:
+per@o che m'@e vietato, perch@e qualunque di questo luogo
+s'arresta punto, giace poi cent'anni sanza rostarsi, quando
+lo fuoco li viene a dosso e friggelo; e per@o seguita lo tuo
+cammino, io ti verr@o accostato e poi raggiugner@o la mia brigata
+che va piangendo li suoi eterni danni.  E soggiugne Dante che
+perch'elli non osava scender della strada, per non abbruciarsi i
+piedi andava col capo chinato, come persona che va reverente a
+suo maggiore.  Et allora cominci@o ser Brunetto: Qual fortuna o
+destino innanzi l'ultimo di' della vita ti mena qua gi@u, e chi
+@e colui che ti mostra il cammino?  Allora risponde Dante che di
+sopra nella vita serena; cio@e nel mondo, si ritrov@o in una
+valle, della quale fece menzione nel principio del libro, innanzi
+che l'et@a sua fosse piena; et aggiugne che pur iermattina le
+volse le spalle che si part@i da essa, et allor li apparve
+Virgilio quando tornava a dietro, e menollo a casa sua per questa
+via; e questa @e la sentenzia litterale.  Ora @e da vedere lo
+testo con l'allegorie, ovvero moralitadi.
+
+	|1-12.~  In questi quattro ternari l'autor
+nostro pone il processo del suo cammino su per uno argine del
+fiume, dimostrando per due similitudini com'eran fatti, dicendo:
+^Ora cen porta~; cio@e Virgilio e me Dante, ^l'un de' duri
+margini~; dice duri perch'erano di pietra, ^E il fumo del ruscel~;
+cio@e di quel che detto fu di sopra, e questo fumo cos@i grande
+mostrava la gran caldezza dell'acqua, come noi veggiamo
+l'acque sulfuree calde fumano, ^S@i, che dal fuoco~; cio@e di
+sopra e di sotto, ^salva l'acqua e li argini.~  Questo @e
+naturale che il fumo spenga il fuoco come veggiamo che, posta una
+candela accesa sopra uno fumo, incontanente si spegne; e questo
+@e perch@e il fumo caccia via l'aere, e qui ove non @e l'aere non
+pu@o vivere lo fuoco in fiamma, n@e lume: imper@o che, cessato
+l'aere, non @a la sua esalazione la fiamma.  E questo finge
+l'autore litteralmente, per fare verisimile la sua fizione: per@o
+che parrebbe impossibile che fossono passati per lo fuoco; e
+moralmente vole intendere che la considerazione della pena debita
+a tal peccato difende l'acqua; cio@e li flussibili come l'acqua,
+e li margini; cio@e li fermi e duri come la pietra, dal fuoco;
+cio@e l'ardore e desiderio di tal peccato: e come lo fummo
+@e demostrazione e segno del fuoco; cos@i la demostrazione della
+colpa, quant'ella @e grande, e la convenienza della pena a s@i
+fatta colpa mostrata o considerata dall'uomo, lo fa cessare dal
+desiderio del peccato, e dal pecccato.  E per dimostrare
+com'erano fatti quelli argini, adduce due similitudini, dicendo:
+^Quale i Fiamminghi~; cio@e quale argine fanno quelli di Fiandra
+^tra Quizzante~; ch'@e una citt@a di Fiandra, ^e Bruggia~; che @e
+un'altra citt@a di Fiandra, ^Temendo il fiotto~; cio@e lo flusso
+del mare, ^che ver lor s'avventa~; cio@e che corre verso loro,
+^Fanno lo schermo~; cio@e la defensione con li argini grossi et
+alti dal lato, fatti di roveri e grosse le sponde; cio@e le due
+pareti da ogni lato bene concatenate, messa la terra e ripieno in
+terra tra li detti due steccati, perch@e l'acqua non scorra
+su per la loro pianura, ^perch@e il mar si fuggia~; cio@e acci@o
+che tra quelli corra il mare, e non si sparga per la loro
+pianura.  Onde qui @e da sapere che il mare oceano cresce e monta
+ogni di' naturale, due volte, e dura lo crescere forse tre
+ore che la corrente, e l'altre tre dura poi lo reflusso, s@i
+che sta ore sei et altrettante sta che v'@e pochissima acqua in
+quel canale fatto tra li due margini; e quando @e lo crescimento
+vanno le cocche et i legni grandi infino alli ponti fatti per
+caricare e scaricare la mercatanzia: et @e la lunghezza di questo
+canale, che @e tra le dette due cittadi bene miglia 18, e quando
+cresce corre s@i fortemente, che se fosse uno cavallo al
+mezzo dello spazio e correndo andasse verso li ponti, non sarebbe
+giunto ad essi che lo corso dell'acqua l'arebbe giunto; onde
+talvolta si credono li legni essere in grande pelago in quello
+canale, che si trovano in secco e cos@i per opposito, passato
+spazio d'ore sei, e per@o usano li legni che sieno abili a quelle
+mutazioni.  Aggiugne l'altra similitudine, dicendo: ^E quale~;
+schermo, s'intende; cio@e difensione, ^i Padovan~; cio@e quelli
+di Padova, che @e una citt@a di Lombardia, ^lungo la Brenta~; che
+@e uno fiume, che va per lo loro terreno, ^Per difender lor ville
+e lor castelli~; che allagherebbono, se non avessono buoni
+argini, alti e grossi, ^Anzi che Chiarentana il caldo senta~;
+Chiarentana @e una montagna di sopra a Padova la quale di verno
+sta coperta di neve; quando viene lo caldo ovvero la state si
+struggono le nevi, come @e da giugno in l@a, et allora comincia a
+sentire il caldo, che infino a quel tempo non l'@a potuto sentire
+per la neve che v'@e stata suso, e per le nevi risolute ricresce
+s@i allora la Brenta, che allagherebbe le ville e le castella, se
+non fossono fatti buoni argini al fiume da ogni lato; ^A tale
+imagin~; cio@e similitudine, ^eran fatti quelli~; dell'inferno al
+lato al detto fiume, ^Tutto che~; cio@e bench@e, ^n@e s@i alti,
+n@e s@i grossi~; come quelli di Padova e di Fiandra, ^Qual che
+si fosse lo maestro~; cio@e qualunque fosse colui che li fe, che
+fu Idio, come appare nella scrittura, che finge essere al sommo
+della porta, cap. III ove dice: ^Fecemi la Divina Potestate~ --,
+^felli~; cio@e non li fece questo maestro s@i alti, n@e s@i
+grossi.
+
+	|13-24.~  In questi quattro ternari
+l'autor nostro finge che, andando elli e Virgilio su per uno
+argine del detto fiume scontrarono una schiera d'anime, e
+come fu da una conosciuto, dicendo cos@i: ^Gi@a eravam~; Virgilio
+et io Dante ^dalla selva~; onde eravam partiti, ^rimossi Tanto,
+che~; cio@e io Dante ^non avrei visto dov'era~; quella selva onde
+eravam partiti, ^Perch'io indietro rivolto mi fossi~; per veder
+la selva, ^Quando incontrammo~; Virgilio et io Dante, ^d'anime
+una schiera, Che venia lungo~; cio@e allato a ^l'argine~; su per
+lo quale andavamo, ^e ciascuna~; di quelle anime, ^Ci
+riguardava~; cio@e Virgilio e me Dante, ^come suol da sera
+Guardar l'un l'altro~; delli uomini, ^sotto nova luna~; cio@e
+quando la luna @e fatta nuova, che non @a ancora lume, perch@e @e
+ancor sotto il sole; ^E s@i ver noi~; cio@e Virgilio e me Dante,
+^aguzzavan le ciglia~; delli loro occhi per conoscerci e vederci
+meglio, ^Come il vecchio sartor fa nella cruna~; dell'ago, che
+aguzza e leva in su le ciglia delli occhi, per veder meglio la
+cruna dell'ago.  ^Cos@i adocchiato~; io Dante, ^da cotal
+famiglia~; quale @e detta di sopra, ^Fu' conosciuto~; io Dante,
+^da una~; di quell'anime, ^che mi prese Per lo lembo~; cio@e per
+l'estremo del mantello, ^e grid@o: Qual maraviglia;~ @e questa
+ch'io ti veggio qui, Dante vivo, ove non sogliono essere se non
+li morti?
+
+	|25-33.~  In questi tre ternari finge
+l'autore come riconobbe quell'anima, ch'avea conosciuto a lui
+e nominala, dicendo: ^Et io~; cio@e Dante, ^quando il suo
+braccio~; quell'anima, ^a me~; Dante, ^distese~; per pigliarmi
+per lo lembo, ^Ficca'li li occhi~; miei, ^per lo cotto
+aspetto~; cio@e per lo suo volto arsicciato, ^S@i che il viso~;
+suo, ^abbruciato non difese La conoscenza sua al mio intelletto~;
+cio@e con tutto che fosse arso lo suo volto, per s@i fatto modo
+lo ragguardai che il mio intelletto ebbe conoscenza di lui.  Qui
+tratta l'autor de' soddomiti, del qual vizio per la sua bruttura
+non n'@e da parlare; ma per satisfare alla materia, dironne pi@u
+nettamente che potr@o.  Questo peccato @e una delle spezie della
+lussuria; ma perch@e non si cade in s@i fatto peccato se non per
+propia malizia o bestialit@a, per@o @a trattato d'esso d'entro
+alla citt@a Dite e non ne fece menzione di fuori, ove tratt@o
+della lussuria, in quanto viene per incontinenzia.  E perch@e in
+s@i fatto peccato si fa contra la natura, per@o l'@a posto sotto
+la violenzia, et @a finte s@i fatte pene, come sono state dette
+di sopra: con ci@o sia cosa che si truovino essere in s@i fatti
+peccatori nel mondo.  E verisimilmente finge che per convenienzia
+rispondono tutti abbruciati e che per l'arsione non sono
+conosciuti, e veramente tali peccatori nel mondo non si possono
+conoscere essere uomini; ma peggio che bestie quando ardono di
+tal peccato, e per@o finge che si chinasse per riconoscer ser
+Brunetto, e per@o dice: ^E chinando la mia alla sua faccia~; per
+vederlo meglio, ^Risposi~; domandandolo, e dissi: ^Siete voi
+qui, ser Brunetto~?  Quasi dica: Io non conobbi mai che voi
+fossi macchiato di tal vizio, che voi doveste essere in
+questo luogo, e per tanto vuole scusare s@e l'autore, che ben
+ch'avesse conversazion con lui, non lo conobbe mai vizioso di tal
+vizio; ma poi mostra che l'avesse per fama, che fosse di tal
+vizio maculato.  Questo ser Brunetto fu uno notaio fiorentino che
+fu grande scientifico et ancora astrologo, come apparir@a di
+sotto, e compuose un libro il quale si chiama Tesoro, nel quale
+tratt@o della filosofia naturale, trattando della composizion del
+mondo; e similemente della morale e dell'arti liberali e
+meccaniche e di teologia, quasi ponendo quivi le pi@u preziose
+cose, e per@o fu chiamato Tesoro, e fecelo in lingua francesca;
+et un altro libro che si chiama il Tesoretto in lingua latina e
+volgare; e da questo ser Brunetto Dante impar@o molto, e per@o li
+fa grande reverenzia.  ^E quelli~; cio@e ser Brunetto disse a
+Dante: ^O figliuol mio, non ti dispiaccia Se Brunetto Latino~;
+ecco che si nomina elli, ^un poco teco Ritorna indietro~; per
+ragionarti, ^e lascia andar la traccia~; delli altri.  E questa
+fizione @e necessaria secondo la lettera: imper@o che andando
+Dante in l@a, e ser Brunetto in contro a lui, era bisogno se
+voleano ragionare, o che s'arrestassono, o che l'uno o ver
+l'altro tornasse a dietro; ma finge l'autore che ser Brunetto
+torni a dietro innanzi ch'elli, perch@e @e pi@u conveniente:
+per@o che Dante guidato dalla ragione significata per Virgilio,
+andava per tornare alle virt@u per considerazione de' vizi e
+peccati e delle loro pene s@i, che non si convenia tornare
+addietro; ma s@i andare innanzi.
+
+	|34-42.~  In questi tre ternari l'autor finge
+lo ragionamento, ch'ebbe con ser Brunetto, dell'andare e dello
+stare, dicendo: ^Io~; cio@e Dante, ^dissi a lui~; cio@e a ser
+Brunetto: ^Quanto posso ven preco~; che torniate a dietro meco;
+^E se volete che con voi m'asseggia~; cio@e a sedere mi ponga,
+^Far@ol, se piace a costui~; cio@e a Virgilio, ^che vo seco~;
+cio@e che vo con lui.  E qui @e notabile che l'uomo non dee
+deliberare, se non quel che detta la ragione, e cos@i dimostra
+l'autor moralmente, rimettendo la volont@a sua in Virgilio, lo
+quale significa, come dimostrato @e in pi@u luoghi, la ragione;
+et allora rispose ser Brunetto, dicendo: ^O figliuol, disse~; ser
+Brunetto a Dante; ben se li convenia questo nome: imper@o ch'era
+stato suo discepolo, ^qual di questa greggia~; cio@e di questo
+luogo del terzo girone: greggia @e lo luogo dove sta la mandria
+delle pecore; ma qui si pone per lo luogo a quelli dannati
+deputato, ^Si resta punto~; cio@e che non vada continuamente,
+^giace poi cent'anni~; per pena della disubbidienza della
+giustizia, ^Sanza rostarsi~; dalle fiamme che caggiono sopra
+di lui, ^quando il fuoco il seggia~; cio@e lo fascia e cuocelo:
+propiamente s'intende siede sopra esso.  Per questa fizione
+mostra l'autore la pena de' violenti contra la natura, tanto
+che sono li soddomiti, della quale fu detto di sopra, e per@o non
+si replica qui; e dimostra che non sia licito a nessuno
+dell'inferno cessarsi dalla Giustizia divina: imper@o che sarebbe
+violento contro a Dio, che @e giacere come fu detto di sopra;
+et in quanto dice ^cent'anni~ seguita l'autorit@a di Virgilio che
+dice dell'insepulti; cio@e non sepeliti: ^Centum errant annos~,
+e de'si intendere tempo infinito per lo finito: imper@o che dice
+cent'anni, comprendendo tutta la vita corporale dell'uomo che si
+termina in fra questi cent'anni; cos@i volle intendere tutta la
+vita spirituale, che non @a termine, giacciono li violenti contra
+Idio.  E moralmente intendendo di quelli del mondo, si pu@o
+esporre che quando quelli del mondo, che vanno discorrendo per
+s@i disonesto vizio, vi s'arrestano per ostinazione, giacciono
+poi cent'anni; cio@e tutto il tempo di loro vita, in s@i fatta
+bruttura, sanza rostarsi; cio@e difendersi da s@i fatta arsione
+et incendio di s@i fatto vizio.  ^Per@o va oltre~; dice ser
+Brunetto a Dante: ^io' ti verr@o ai panni~; cio@e ti verr@o al
+lato, ^E poi rigiugner@o la mia masnada~; cio@e la mia brigata,
+^Che va piangendo i suoi eterni danni~; cio@e le sue pene, che
+durano in eterno.
+
+	|43-54.~  In questi quattro ternari l'autor
+finge che ser Brunetto lo domandasse di due cose, e com'elli a
+ci@o rispose; ma prima pone lo modo che tenea ad andare con ser
+Brunetto, dicendo: ^Io~; cio@e Dante, ^non osava scender della
+strada~; cio@e d'in sul margine in sul quale io era: imper@o che
+io mi sarei abbruciato per l'arsura, ^Per andar par di lui~;
+cio@e di ser Brunetto, ch'era conveniente che li facesse
+reverenzia.  E questo si pu@o esponere moralmente, ch'elli non
+osava scendere della fermezza e costanzia a che l'avea menato la
+ragione, per essere pari di ser Brunetto in s@i fatto vizio; e
+per questo vuol dimostrare che, bench@e avesse conversazione con
+lui in questa vita, sempre la conversazion sua fu onesta.  ^ma il
+capo chino Tenea~; Io Dante, ^com'uom che reverente vada~;
+facevali reverenzia, come a suo maestro.  E qui @e notabile che
+l'uomo vizioso in alcuno peccato puote avere virt@u in s@e, per
+la quale merita onore e reverenzia; e cos@i mostra l'autore che
+facesse a ser Brunetto nella vita presente onorando la virt@u
+ch'era in lui, lasciando il vizio; et accordasi con la
+esposizione fatta di sopra.  ^El~; cio@e ser Brunetto,
+^cominci@o: Qual fortuna o destino~; cio@e qual felicit@a de'
+corpi celesti o ver qual grazia della providenzia di Dio: imper@o
+che ser Brunetto fu astrologo, come apparir@a di sotto.  Finge
+che domandasse di queste due cose qual fosse l'una; cio@e, o
+fortuna, o destino; e della prima finge che domandi, per
+satisfare all'opinione che comunemente tengono li astrologi;
+della seconda, per satisfare alla fede catolica che tiene che li
+uomini sieno predestinati, o presciti da Dio, s@i che l'una pose
+per s@e ch'era astrologo, e l'altra per Dante ch'era catolico.
+Et @e qui da notare che fortuna @e l'evenimento delle cose
+provedute da Dio, lo quale evenimento @e cagionato dalle
+influenzie de' corpi celesti che sono cagioni seconde, e della
+prudenzia di Dio, come da cagione prima s@i, che intendendo come
+si dee, non @e fortuna sanza destino; ma destino @e ben sanza
+fortuna, inanzi che le cose abbino effetto.  E di questa fortuna
+@e stato detto per l'autore, di sopra assai sofficientemente:
+imper@o che tale cammino non si potea fare sanza guida e
+dimostratore.  Dante @e domandato da ser Brunetto chi @e la sua
+guida: imper@o che, bench@e dicesse di sopra: ^Far@ol, se piace a~
+^costui, che vo seco~: si potea intendere ch'andasse come
+compagno, non come maestro.  ^Anzi l'ultimo di'~; cio@e innanzi
+la morte, ^qua gi@u ti mena~; cio@e qua gi@u nell'inferno, che
+non potrebb'essere, sanza speciale grazia di Dio?  ^E chi @e quei
+che ti mostra il cammino~?  Domanda ora chi elli @a per sua guida,
+e cos@i @a poste due domande alle quali Dante risponde, e prima
+alla prima, dicendo: ^Lass@u di sopra in la vita serena~; cio@e
+chiara; cio@e nel mondo, e ben dice: ^lass@u di sopra~: imper@o
+che il mondo era sopra al luogo ove finge che fossono, ^Risposi~;
+io Dante, ^a lui~; cio@e a ser Brunetto, ^mi smarri' in una~
+^valle~; io Dante, e questa fu la valle de' vizi, ^Avanti che
+l'et@a mia fosse piena~; cio@e fosse perfetta, e questo appare
+nel primo canto di questa prima cantica, ove dice: ^Nel mezzo del
+cammin di nostra vita Mi ritrovai per una selva oscura.~  Et @e
+qui da notare che l'etadi dell'uomo, secondo che pone Ughiccione
+e Papia, sono sei; cio@e infanzia, puerizia, adolescenzia,
+giovanezza, virilit@a e vecchiezza.  Infanzia @e in fino alli 7
+anni; puerizia infino alli 14; adolescienzia da indi infino alli
+24; giovanezza da indi infino alli 49; virilit@a, o vero
+senior che cos@i la chiamano, da indi infino alli 70; vecchiezza,
+o vero decrepit@a, da indi infino al fine della vita.  E di
+queste sei et@a l'et@a piena s'intende la giovanezza che non
+cresce pi@u, n@e manca l'uomo in quella et@a la quale li Filosofi
+chiamano ^Acines~; cio@e et@a di consistenzia.  E che l'autore
+dica che si smarr@i in una valle ^innanzi che l'et@a sua fosse
+piena~, puossi intendere che si smarr@i dalla via diritta,
+incominciando infino dalla puerizia et avvidesene poi, quando fu
+nell'et@a piena; cio@e nelli 35 anni, e per@o disse nel principio
+che elli si trov@o ^Nel mezzo del cammin di nostra vita in una
+selva oscura Che la diritta via era smarrita.~  E non dice
+quando la smarr@i; ma ben dice che si ritrov@o nella selva de'
+vizi, e che se n'avvide nel mezzo del cammin di nostra vita;
+cio@e nelli 35 anni: per@o che in fino al tempo dell'autore
+l'umana vita non si stendea, se non in pochi, oltre alli 70 anni,
+e quello che @e pi@u oltre si pu@o chiamare non vita; ma fatica e
+dolore: e cos@i chiaramente si vede come s'accorda questo con
+quello, che fu detto di sopra nel principio del libro.  E perch@e
+la moralit@a di questo smarrire e dell'altre cose, che qui si
+toccano, fu detto di sopra nel primo canto, per@o non si pone
+qui, ^Pur ier mattina~; cio@e venerdi' santo in sul di', come fu
+detto di sopra, ^le volsi le spalle~; a quella valle e tornai a
+dietro alla via diritta delle virt@u, per montarvi; ma le tre
+bestie lo impacciarono e non lo lasciarono montare, e Virgilio li
+apparve in quella, e per@o dice: ^Questi m'apparve~; cio@e
+Virgilio, ^tornando io in quella~; cio@e ch'ancora tornava in
+quella valle sinistra delli vizi, ond'io m'era partito, ^E
+reducemi a ca~; cio@e a casa; cio@e alla contemplazione
+delle virt@u e delli loro premi, che @e la casa ove si dee
+abitare mentre che siamo in questa vita, operando in quello
+s@i che poi aviamo per premio l'abitazione del cielo, che @e casa
+apparecchiata alli uomini virtuosi, ^per questo calle~; cio@e
+per questa via della considerazione de' vizi e delle lor pene,
+come sposto fu moralmente nel primo canto, e cos@i risponde alla
+seconda domanda.  Et @e qui da notare che alla prima domanda
+l'autore non rispose, e cos@i alla seconda, se non per
+demostrazione: imper@o che al savio uomo basta a rispondere per
+s@i fatto modo, et elli poi giudica sopra il fatto; l'autore @a
+risposto cos@i.  Ora pu@o ser Brunetto giudicare, se la fortuna o
+il destino @e stato buono o rio; e cos@i l'autore @a dimostrato
+Virgilio, e detto che @e sua guida, lo quale ben vedea ser
+Brunetto; ma non sapea se andava come guida, o come compagno.
+Ora per la demostrazione @e fatto certo ch'elli si @e guida, e
+puossi vedere che lo nostro autore, non sanza intendimento finse
+queste domande fatte da ser Brunetto, e s@i fatte risposte; ma
+industriosamente finse lo primo, per dichiarare quello che non @e
+ben chiaro nel primo canto; cio@e che s'intendesse per lo mezzo
+del cammino di nostra vita, e qual fosse il colle ove terminava
+la valle; lo secondo, per dimostrare a ser Brunetto, come a
+filosofo et astrologo, che non avea conoscenzia di Virgilio che
+era poeta.  E cos@i finisce la prima lezione del canto XV.
+
+	|55-124.~  ^Et elli a me~ ec.  Qui si comincia la seconda
+lezione del sopraddetto canto, nel quale l'autor pone quel che
+finge che ser Brunetto li dicesse del suo corso prima, e poi delle
+condizioni de' Fiorentini, e nominasseli quelli ch'erano con lui,
+e come si ritorn@o poi a' suoi.  E dividesi questa lezione in
+cinque parti: imper@o che prima pone quello che finge che li
+dicesse del corso della vita sua, e poi delle condizioni
+de' Fiorentini; nella seconda pone quel, ch'elli rispose a ser
+Brunetto, qui: ^Se fosse tutto pieno~ ec.; nella terza pone come
+Virgilio commenda la notabile risposta che fece Dante della
+fortuna, quivi: ^Lo mio maestro~ ec.; nella quarta pone come,
+andando con ser Brunetto domanda chi sono i compagni suoi, e
+com'elli ne nomina alquanti, e scusasi delli altri, et accomiatasi
+da Dante, quivi: ^Non pertanto di men~ ec.; nella quinta pone come
+ser Brunetto torn@o a' suoi compagni, quivi: ^Poi si rivolse~ ec.
+Divisa adunque la lezione, si @e ora da vedere la sentenzia
+litterale.  Dice adunque cos@i:
+
+	Che poich@e Dante manifest@o a ser
+Brunetto, com'era venuto quivi per singular grazia di Dio,
+signor grazioso, e chi era quelli che li mostrava il cammino, ser
+Brunetto s@i li cominci@o a parlare in questa forma: Se tu segui
+la inclinazione naturale della costellazion tua, non pu@o fallire
+che tu non vegni al porto glorioso, se ben m'accorsi d'essa nel
+mondo: e se io non fossi morto s@i tosto, t'avrei dato conforto
+all'opera, veggendo lo cielo cos@i benigno verso di te; et
+aggiugne certe cose future per modo di predire, che gi@a erano
+state, dicendo: Ma quello popolo ingrato e maligno, che discese
+da Fiesole et ancora tiene del monte e del macigno, ti si far@a
+nimico per tuo ben fare; e questo @e ragione che non si conviene
+al fico, che @e dolce, fruttificare tra i sorbi che sono afri.
+E continuando le condizioni dice: Vecchia fama nel
+mondo li chiama orbi, invidiosi, avari e superbi nel mondo, e
+per@o fa che ti forbi da' loro costumi: et aggiugne poi che l'@a
+ammonito delle condizioni loro da esse schifate, e confortalo di
+lui medesimo, dicendo: La tua fortuna tanto onore ti serba, che
+l'una parte e l'altra di Fiorenza avranno desiderio di te; ma non
+se ne sazieranno; e seguitando la sua figura dice: Facciano le
+bestie Fiesolane strame di lor semente, e non guastin la pianta,
+se d'egli ne surge alcuna buona ancor nel loro letame, nel quale
+rovina e perdesi la sementa santa di quelli Romani, che vi
+rimasono quando fu fatta Fiorenza, nidio di tanta malizia.
+Finito lo ragionamento di ser Brunetto rispose Dante: Se fusse
+tutto adempiuto la mia domanda, voi non sareste ancor morto: ch@e
+m'@e fitto nella mente, et ora mi rinvigorisce la serena e chiara
+vostra imagine e paterna, che mi mostravate nel mondo quando
+m'insegnavate come l'uomo si fa eterno; e quant'io l'abbia a grado
+conviene che si veggia nella mia lingua: cioe che mi
+narravate del corso della mia vita scrivo, e serbo a chiosare
+con altro testo a donna, che sapr@a se io arriver@o a lei.  Ma di
+me tanto vi voglio dire, che io sono apparecchiato alla fortuna
+com'ella vuole, purch@e non mi garra la mia coscienzia: non @e
+nuova alli orecchi miei tal arra, e per@o giri la fortuna la rota
+sua, come le piace, e il villano la sua marra.  Allora Virgilio
+si rivolse in sulla gota ritta a dietro, e riguardando Dante,
+disse: Bene ascolta chi la nota; et aggiugne Dante che niente
+meno s'andava favellando con ser Brunetto, e domand@o chi erano
+li suoi compagni pi@u cari e pi@u sommi.  E ser Brunetto
+rispose, che buono era a sapere d'alcuni, delli altri era
+laudevole di tacere: ch@e il tempo sarebbe corto a dirli di
+tutti; e diceli in somma: Sappi che tutti furono cherici e grandi
+letterati e di grandissima fama, brutti al mondo d'uno medesimo
+peccato; e nomina prima Prisciano grammatico e Francesco
+d'Accorso: e se avessi avuto voglia di sapere d'un altro che fu
+vescovo fiorentino e mutato dal papa a Vicenzia, anche ve lo
+potevi vedere.  Di pi@u ti direi; ma il venire e lo sermone non
+pu@o essere pi@u lungo, per ch'io veggio oltre nuovo fummo del
+sabbione; della rena, che @e uno segno che gente viene che non @e
+di mia condizione s@i, ch'io non debbo essere con loro; et
+aggiugne: Siati raccomandato il mio Tesoro, nel quale ancora per
+fama vivo; pi@u non t'addomando.  E detto questo, si volse a
+dietro e corse a modo che corrono quelli, che corrono a Verona il
+drappo verde, e certo elli parve di coloro, colui che vince e non
+colui che perde; e qui finisce lo canto et eziandio la lezione.
+Ora @e da vedere la esposizione del testo con le moralit@a et
+allegorie.
+
+	|55-78.~  In questi otto ternari l'autor
+nostro finge come ser Brunetto, avuta la risposta di Dante ai
+suoi domandi, conforta Dante a seguitar lo proponimento suo, e
+manifestali predicendo quello, che dee avvenire a lui del suo
+fatto e del corso della sua vita, et ammonendolo delle
+condizioni viziose de' suoi cittadini, comandandoli che si guardi
+da esse, dicendo cos@i: ^Et elli~; cio@e ser Brunetto disse, ^a
+me~; cio@e Dante, finita la mia risposta detta di sopra: ^Se tu
+segui tua stella~; cio@e la influenzia felice, che tu @ai dalla
+tua costellazione: imper@o che in noi @e lo volere seguire, o no,
+^Non puoi fallire~; che tu non venghi s'intende ^al glorioso
+porto~; cio@e a fine che tu sarai glorioso; e questo dice,
+perch@e vide che dovea avere la comune influenzia concordevole,
+^Se ben m'accorsi~; cio@e se io ben vidi la tua costellazione e
+la comune, ^nella vita bella~; cio@e quando io era nel mondo, lo
+quale appella bella vita, perch@e il mondo @e troppo a piacere a'
+peccatori, e per@o vanno a perdizione: imper@o che la
+complacenzia delle cose mondane tira l'anima da Dio, e falla
+serva della sensualit@a.  E qui sono da notare due cose; prima
+quando dice ^tua stella~, che bench@e ciascuno uomo nasca sotto
+alcuna costellazione, la quale li dia alcuna inclinazione con la
+sua influenzia, in sua podest@a @e di seguitarla, o no, e per@o
+si dice: ^Sapiens dominabitur astris~: imper@o che, bench@e
+l'uomo sia coartato dalla influenzia dei corpi celesti, non @e
+per@o necessitato al tutto, s@i che in lui @e lo libero arbitrio
+volere seguitare o no, e lo mettere ad esecuzione secondo che @e
+aiutato dalla grazia di Dio, sanza la quale non si pu@o seguitare
+lo bene, e fuggire lo male.  E questa cotale influenzia della
+costellazione pu@o essere comune e propria; comune @e quando
+influisce sopra molte cose; propia @e quando influisce sopra uno
+individuo, e questa @e in ciascuno uomo, e chiamasi inclinazione
+naturale, e dicano li astrologi che si piglia dalla nativit@a;
+cio@e secondo la costellazione nella quale l'uomo nasce; e per@o
+veggiamo che ogni uomo @a sua inclinazione, chi a una cosa e chi a
+un'altra; e questa chiamano li volgari natura, dicendo: Tu se'
+d'una natura, et io d'un'altra.  Et al mio parere questo dissono li
+poeti essere ingegno, lo quale diceano essere lo idio propio di
+ciascuno uomo, lo quale nascea e moria con l'uomo, e lo quale
+poneano mutevole in contrarie qualit@a, come appare d'Aristotile
+che, essendo grosso d'ingegno e lussurioso, per l'astinenzia
+divento@ casto, e per lo studio, ingegnoso, onde Orazio nell'ultimo
+libro delle sue epistole, dice: ^Scit genius, natale comes qui
+temperat astrum, Naturae Deus humanae, mortalis in unum quodque
+caput, vultu mutabilis, albus, et ater.~  E la influenzia comune @e
+quella che @e chiamata Fortuna.  E per@o disse l'autore di sopra:
+^Qual fortuna o destino~; e nella seconda cantica dice ancora:
+^Sempre natura se fortuna truova Discorde a s@e, come ogn'altra
+semente Fuora di sua region fa mala pruova.~  E per queste parole
+possiamo comprendere che volere seguitare o no la inclinazione
+naturale sta in noi; ma l'operare sta nella grazia di Dio
+principalmente, e susseguentemente nelle cagioni concorrenti, le
+quali aviamo detto che si chiama Fortuna; cio@e l'effetto delle
+cose provedute da Dio, proveniente per mezzo delle cagioni; e per
+tanto la Fortuna non pu@o essere se non buona, per respetto della
+providenzia di Dio che non pu@o provedere se non bene, bench@e li
+uomini per respetto di s@e dicano altrimenti, e questo dimostra
+assai chiaro Boezio nel quarto libro della Filosofica
+Consolazione.  Lo secondo che si dee notare, @e quando dice ^al
+glorioso porto~; e qui doviamo notare, che gloria non @e altro,
+che chiara notizia con loda; e per@o intese: Tu non puoi fallire
+che tu non vegni a grande gloria: e cos@i @e che per questa opera
+l'autore nostro @e venuto in notizia in molti chiara e manifesta,
+et @e da loro lodato; e la infamia @e contraria alla gloria:
+imper@o che infamia @e notizia sozza con vituperazione e biasimo:
+imper@o che dispiace et @e biasimato.  Et ancora @e da
+notare, quando disse: ^Se ben m'accorsi nella vita bella~, che
+i dannati non @anno notizia del futuro, se non quanto avessono
+avuto nel mondo per loro congetturazioni o per revelazioni fatte
+loro da Dio o per considerazioni astrologiche.  Potrebbe ancor
+essere che il dimonio revelerebbe loro per sue congetture o per
+astrologia quello che vedesse: ch@e veramente non pu@o sapere lo
+futuro, che Idio l'@a reservato a s@e.  Possono bene li dannati
+congetturare, come fu fatto di sopra, nel canto X di messer
+Farinata; ma li beati @anno bene notizia d'ogni cosa: imper@o che
+si specchiano in quello specchio ove riluce ogni cosa, come dice
+santo Agostino: ^Quid est quod non videant qui videntem omnia
+vident?~  - ^E s'io non fossi s@i per tempo morto~; disse ser
+Brunetto, se io non fossi morto s@i tosto, com'io morii, ^Dato
+t'avrei all'opera conforto~; cio@e all'opera di questa Comedia,
+a te Dante, ^Veggendo il Cielo a te cos@i benigno~; cio@e
+veggendo il favore che tu avevi dalla influenzia comune e della
+tua propria costellazione; et oltra questo ser Brunetto li dice
+delle persecuzioni che d@e avere, dicendo: ^Ma quello ingrato
+popolo e maligno~; cio@e fiorentino; e che s'intenda d'esso lo
+dimostra quel che seguita, ^Che discese di Fiesole ab antico~;
+cio@e @e gran tempo, Fiesole fu una citt@a posta in su uno monte
+molto alto, presso a Fiorenza a tre miglia; della qual citt@a
+uscirono certi cittadini, li quali insieme con certi cittadini
+usciti di Roma edificarono primamente Fiorenza; e poi che Attila
+la disfece, li Fiesolani dierono grande impaccio a quelli che la
+vollono reedificare, e non l'avrebbono potuta reedificare, se non
+ch'ebbono la forza dello imperadore e de' Romani; ma poi si
+vendicarono de' Fiesolani in processo di tempo s@i, che disfeciono
+la citt@a, ^E tiene ancor del monte~; cio@e della superbia
+significata per lo monte; e questo dice quanto alla lettera,
+perch@e Fiesole fu in monte, ^e del macigno~; cio@e
+dell'asprezza e durezza: imper@o che la macina @e aspra e dura, e
+cos@i @e lo popolo fiorentino, dice ser Brunetto; cio@e superbo,
+aspro e duro, in quanto tiene di quella natura montanina e
+fiesolana, ^Ti si far@a~; a te Dante, ^per tuo ben far, nimico ~;
+cio@e per favoreggiare lo bene comune e per difendere la
+libert@a, come fu detto di sopra nel X canto; ^Et @e ragion~; che
+ti si faccia nimica: imper@o che i buoni non sono amati da'
+rei, ^ch@e~; cio@e imper@o che, ^tra li lazzi sorbi~; cio@e
+aspri, ^Si disconvien fruttare al dolce fico~; cio@e non si
+convien che il fico, che @e dolce, frutti tra li sorbi che sono
+aspri; e cos@i per simile non si conviene che tu, che se' buono e
+dolce, stii tra' Fiorentini che sono aspri e rei.  Et occorre qui
+uno dubbio; come induce Dante ser Brunetto a dir qui che dovesse
+venire quello, che era gi@a stato?  A che si dee rispondere che
+questo @e comune de' poeti di dire le cose state, come se fossono
+a venire; ma ben le dicono per modo, che pare che abbino a
+venire, come ora mostra qui Dante che ser Brunetto dicesse,
+secondo ch'elli s'avvide in fin ch'elli vivea, che allora non
+erano ancora le cose avvenute; ma quando l'autore compose questa
+opera, erano avvenute.  E se altri opponesse che, quando Dante
+finge che avesse questa fantasia nelli 35 anni della sua vita,
+non erano queste cose avvenute, puossi rispondere che non fece lo
+libro, la notte che ebbe la fantasia, che sarebbe impossibile; ma
+fecelo poi in parecchi anni, et aggiunse al suo libro e tolsene,
+secondo che le cose avvenivano in fino ch'ebbe corretto lo libro
+il suo modo.  Ancora @e da notare che l'autore in questo
+parlare di ser Brunetto usa uno colore, che si chiama
+denominazione in latino, et in greco metafora; quando una dizione
+si tramuta dal suo proprio significato allo impropio, come fa
+l'autore che pone li sorbi per li aspri cittadini, e lo fico per
+lo dolce, come era elli e li suoi simili; e poi ch'@a mostrato le
+condizioni de' Fiorentini secondo l'origine, dimostrale ancora
+secondo la fama, dicendo: ^Vecchia fama~; cio@e antica, ^nel
+mondo li chiama orbi~; cio@e ciechi, e questo era perch@e erano
+tenuti poco proveduti ne' fatti loro, ^Gente avara, invidiosa, e~
+^superba~; questi tre vizi comunemente sono in loro; onde di
+sopra ancora disse l'autore: ^Superbia, invidia et avarizia sono
+Le tre faville ch'@anno i cuori accesi.~  E questo s'intende in
+comune, che in particolare pur vi sono delli buoni che non @anno
+questi vizi, onde ammonisce ser Brunetto l'autore dicendo: ^Da'
+lor costumi~; cio@e da' Fiorentini, ^fa che tu ti forbi~; cio@e
+tu Dante s@i, che tu non ne sia macchiato, com'ellino.  ^La tua
+fortuna~; continua ser Brunetto lo suo vaticinio, dicendo che il
+favore della influenza comune, che Dante @a d'essere glorioso e
+famoso, ^tanto onor ti serba~; a te Dante ^Che l'una parte, e
+l'altra~; cio@e Bianchi e Neri, ^avranno fame~; cio@e desiderio,
+^Di te~; Dante; ^ma lungi fia dal becco l'erba~; cio@e di lungi
+fia lo saziamento del loro appetito.  E per questo mostra che
+Dante, infastidito per le condizioni de' suoi cittadini, si part@i
+da Fiorenza, e poi rivocato pi@u volte da loro, non vi volle mai
+tornare; e seguendo ser Brunetto la sua metafora, soggiugne:
+^Faccian le bestie Fiesolane~; cio@e li Fiorentini discesi di
+Fiesole, diventati bestiali, ^strame~; cio@e pascansi e faccino
+strazio di lor medesime; cio@e di quelli che sono di loro
+origine e non delli altri: la bestia @a questa condizione che si
+pasce dello strame, e pascendosi se lo caccia sotto li piedi e
+com'ell'@e sanza ragione; cos@i vuol dire che' Fiorentini non
+ragionevoli, che sono discesi da Fiesole, si pascano delli
+descendenti da loro, e loro calchino, ^e non guastin la
+pianta~; cio@e l'uomo virtuoso o fruttifero, come la pianta,
+^S'alcuna surge~; cio@e nasce, ^ancor in lor letame~; cio@e nella
+loro vilt@a e viziosit@a, come nacque Dante e li altri virtuosi,
+^In cui~; cio@e nel quale letame, ^ruina~; cio@e si guasta e
+viene meno, ^la semente santa~; cio@e l'origine santa e buona,
+^Di quei Roman~; cio@e cittadini di Roma, ^che vi rimaser~;
+insieme coi Fiesolani in Fiorenza, ^quando Fu fatto il nidio~;
+cio@e di Fiorenza, ^di malizia tanta~; quanta qui @e abondata.  E
+per questo si pu@o comodamente intendere che l'autor voglia
+dimostrare l'origine dei Fiorentini non essere solamente da'
+Fiesolani; ma eziandio da li Romani.
+
+	|79-96.~  In questi sei ternari finge
+l'autor nostro com'elli rispose a ser Brunetto, dicendo: ^Se
+fosse tutto pieno il mio dimando, Rispuosi lui~; dice Dante a
+ser Brunetto, ^voi non sareste ancora~; cio@e voi ser Brunetto,
+^Dell'umana natura posto in bando~; cio@e morto: per@o che chi @e
+morto @e in bando dell'umana natura: imper@o che l'umana natura
+@e essere unita l'anima col corpo, e da questa unit@a s'era
+partito ser Brunetto s@i, che non vi potea tornare infino al di'
+del Giudicio: ^Ch@e in la mente~; cio@e nella mente mia, dice
+Dante, ^m'@e fitta, et or m'accora~; cio@e m'invigorisce e
+conforta, ^La chiara e buona imagine e paterna~; cio@e la
+similitudine e la memoria che come padre m'ammonavate, ^Di
+voi~; ser Brunetto, ^quando nel mondo ad ora ad ora
+M'insegnavate come l'uom s@e eterna~; cio@e si fa eterno.  Et @e
+qui da notare che l'uomo si fa eterno con le buone e virtuose
+opere, per le quali dura la fama del mondo, o vero dell'uomo nel
+mondo eterna.  Et intendendo a questo modo ^eterna~ si pone
+impropriamente; cio@e si ^sempiterna~: imper@o che ^eterno~ @e
+sanza principio e sanza fine; ma ^sempiterno~ @e con principio e
+con fine; ma dura lungo tempo.  Potrebbesi ancora intendere
+^eterna~; cio@e perpetua, et allora ^nel mondo~ determina quel
+verbo ^m'insegnavate~, et intendesi che l'uomo si perpetua con le
+buone opere: imper@o che nel mondo vive per fama, et in Cielo
+vive per gloria sanza fine.  ^E quanto l'abbia a grato~; io
+Dante questo insegnamento et ammonimento, ^mentre vivo~; cio@e
+mentre ch'io viver@o, ^Convien che nella mia lingua si scerna~;
+cio@e si conosca e vegga in quest'opera, la quale io @o fatta.
+^Ci@o, che narrate~; voi ser Brunetto, ^di mio corso~; cio@e di
+quello che mi dee avvenire nel corso della mia vita, ^scrivo~; io
+Dante in questa Comedia, ^E serbolo a chiosar~; cio@e a disporre,
+^con altro testo~; di questa Comedia; cio@e con quello che
+finge che li dicesse messer Farinata, di sopra nel canto X
+cio@e: ^Ma non cinquanta volte fia raccesa La faccia della
+donna, che qui regge, Che tu saprai quanto quell'arte pesa~;
+insieme questo con quello che fu detto di sopra, dice che serba a
+disporre, ^A donna, che sapr@a~; cio@e a Beatrice che significa
+la santa Teologia, come detto fu di sopra, e come afferma
+l'autore nel sopra detto canto, ove finge che Virgilio dica: ^La
+mente tua conservi quel che udito @Ai contra te, mi comand@o
+quel saggio, Et ora attendi qui, e drizz@o il dito.  Quando
+sarai dinanzi al dolce raggio Di quella, il cui bell'occhio
+tutto vede, Da lei saprai di tua vita il viaggio.~  Et @e qui
+notabile che l'uomo non dee credere alli indovinanti et alli
+predicatori, se non quanto permette la santa Teologia.  Dice poi:
+^se a lei arrivo~; questo si dee intendere, se io compier@o, e
+continuer@o questa mia opera, tanto ch'io finga ch'io arrivi a
+lei, e ch'io finga quel che Beatrice predica della mia vita; e
+questo fa nella terza cantica, nel canto XXII.  ^Tanto vogl'io~;
+cio@e io Dante, ^che vi sia manifesto~; a voi ser Brunetto,
+^Pur che mia coscienza non mi garra~; cio@e pur che non
+vegna contra coscienzia, non mi ci morda, ^Che alla
+Fortuna, come vuol, son presto~; cio@e le minaccie della fortuna
+non mi movono, ch'io sono apparecchiato a sostenere e portare
+pazientemente ogni cosa che la fortuna vuole, purch@e non sia
+contra la coscienzia lo sostenere.  Et @e qui da notare che
+coscienzia @e atto della ragione procedente dall'intelletto
+respettivo ad altra cosa; e per@o si dice coscienzia; cio@e
+scienzia insieme con altro; cio@e con libero arbitrio: imper@o
+che il dettamento, o vero imperio della ragione detta e comanda
+quello che si dee fare e quel che si dee fuggire, e lo libero
+arbitrio delibera e vuole lo contrario: allora la ragione @ae
+scienzia di quel che si dee fare, e contro a quello @a la
+deliberazione e volont@a del libero arbitrio.  E cos@i puoi
+esponere coscienzia; cio@e contra s@e scienzia; cio@e scienzia di
+quel che @e contra la sua dettazione.  Altrimenti e meglio si
+pu@o dire; secondo che dice Papia: Coscienzia @e conoscimento di
+s@e medesimo; et a questo modo pu@o essere in male et in bene, e
+cos@i dice l'Apostolo: ^Gaudium vestrum, conscientia
+vestra~; ma quando @e di bene, contenta e quieta la mente; e
+quando @e di male, turba et inquieta la mente.  E niente di meno
+ancor si pu@o dire: Insieme con altri scienzia; cio@e della
+ragione insieme con la libert@a dell'arbitrio, come fu detto di
+sopra.  Appresso @e da notare che la ragione non @e sottoposta
+alla fortuna; e per@o dee contrastare alla volont@a, che non
+seguiti la fortuna in quel che non si dee.  ^Non @e nuova alli
+orecchi miei tale arra~; cio@e tal patto: arra @e la caparra
+che @e fermezza del patto fatto; cio@e non m'@e nuovo lo patto
+che @e tra li uomini e la fortuna, ch'altra volta l'@o udito;
+cio@e che chi entra nel mondo conviene ch'ubidisca alla fortuna,
+e stare contento alle sue mutazioni; e questo dice perch@e letto
+l'avea nelli autori, et ancora finge che Virgilio lo dicesse di
+sopra nel VII canto, quando disse: ^Colui, lo cui saper tutto
+trascende~ ec.; et aggiugne: ^Per@o giri Fortuna la sua rota.~
+Li autori fingono la Fortuna volgere la rota, perch@e fa
+circulari mutazioni nelle citt@a e comunit@a, come si mostra nel
+VII canto, e nelli signori e nelli singulari uomini, ponendoli
+ora in alto stato, ora in basso, ora in montamento, ora in
+discendimento, ^Come le piace~; cio@e secondo lo suo piacere,
+ch'io son presto a far quel ch'ella vuole, che non sia contra mia
+coscienza, ^e il villan la sua marra~; cio@e e il contadino giri
+ancor la sua marra, come li piace, ch'io sono apparecchiato a
+sostenere, purch@e non sia contro a coscienzia, quasi dica:
+Faccia la Fortuna e facciano li uomini, come piace loro, ch'io
+sono per sostenere.  E questo dice notevolmente, per mostrare che
+li effetti della Fortuna vengono per due cagioni; l'una @e
+da' corpi celesti e da quella sustanzia, che Dio @a posto a
+dispensare questi beni mondani; l'altra @e da libero arbitrio
+delli uomini: e per@o @a nominato la Fortuna, dicendo, com'appar
+di sopra, per la prima cagione; e poi lo vilano, per la seconda.
+
+	|97-99.~  In questo ternario l'autor nostro
+finge la commendazione che fece Virgilio del detto di sopra della
+Fortuna, detto da Dante, dicendo: ^Lo mio Maestro~; cio@e
+Virgilio, ^allora~; che Dante ebbe detto le parole dette di
+sopra, ^in sulla gota Destra si volse indietro~; a Dante et a
+ser Brunetto, ^e riguardommi~; cio@e me Dante, ^Poi disse~;
+Virgilio: ^Bene ascolta chi la nota~; cio@e la detta sentenzia da
+Dante della Fortuna.  Sopra questo @e da considerare che
+allegoricamente l'autore finse questo essere detto da Virgilio,
+acci@o che facesse li lettori, che leggeranno questa cantica,
+attenti sopra la sentenzia detta da lui della Fortuna; ma quanto
+alla lettera, Virgilio; cio@e la ragione, parla a Dante; cio@e
+alla sensualit@a, e fallo attento che noti la sentenzia detta da
+s@e, s@i che quando viene in pratica non la dimentichi; ma faccia
+come @a detto.  Spesse volte dice l'uomo sensualmente una vera
+sentenzia, e poi che viene a' fatti e alla pratica, non osserva
+la sua sentenzia; e per@o finge l'autor che Virgilio ne
+l'ammonisca, et ancora a verit@a la sentenzia detta di sopra non
+@e intelligibile ad ognuno.
+
+	|100-120.~  In questi sette ternari l'autor
+nostro finge com'elli domanda ser Brunetto chi sono li
+compagni, e come ser Brunetto li risponde, dicendo: ^N@e per
+tanto di men~; cio@e, bench@e Virgilio cos@i dicesse, come appare
+di sopra, io non li rispondo; ma niente di meno, ^parlando
+vommi~; io Dante, ^Con ser Brunetto, e domando chi sono Li suoi
+compagni pi@u noti~; cio@e pi@u famosi, ^e pi@u sommi~; cio@e
+di maggior grado.  ^Et elli~; cio@e ser Brunetto disse, ^a me~;
+Dante: ^Saper d'alcuno @e bono~; dice esser buono saper
+d'alquanti; cio@e di quelli che s'avea proposto di nominare, et
+artificiosamente finge che li nomini ser Brunetto, e non elli,
+perch@e infetti di s@i fatto vituperoso peccato, non sono noti se
+non a' lor simili; e dice che @e buono, perch@e Dante adduca in
+esemplo in questo luogo l'infami di s@i fatto peccato, come @a
+indotto nelli altri luoghi l'infami di quella spezie di peccato,
+della quale elli qui tratt@o, s@i che si guardino li lettori da
+s@i fatto peccato e per paura della pena et ancor della infamia.
+^Delli altri~; che vi sono, ^fia laudabile tacerci~; dice ser
+Brunetto, et assegna la ragione: ^Ch@e il tempo saria corto a
+tanto sono~; e per questo mostra che il numero fosse grande.
+^In somma sappi, che tutti~; cio@e li miei compagni, ^fur
+cherci~; cio@e stati nell'ordine del chericato, ^E litterati
+grandi~; queste due spezie pone insieme, perch@e li cherici
+anticamente tutti soleano essere litterati, e pi@u dice di
+costoro perch@e sono sanza giogo di matrimonio, et ancora perch@e
+a ser Brunetto si convenia s@i fatta compagnia, secondo la
+convenienzia del testo, che pone che sieno divisi a brigate,
+secondo le loro condizioni, come finse di sopra cap. IX, degli
+eretici, quando disse: ^Simile qui con simile @e sepolto~; e cos@i
+qui, ^e di gran fama~: imper@o che per la scienzia quelli che
+nominer@a, furono uomini molto famosi, ^D'un medesmo peccato~;
+cio@e soddomitico, ^al mondo~; cio@e mentre che furono al mondo,
+^lerci~; cio@e brutti.  ^Priscian sen va con quella turba~
+^grama~; cio@e con quella moltitudine dolente.  Questo Prisciano
+fu apostata e fu grande grammatico, et a petizione di Giuliano
+consolo de' Romani compose lo volume suo dell'arte della
+Grammatica in XV libri; cio@e in XIII de' costruttibili et in due
+ultimi della congiunzione; lo quale volume @e ora diviso, e
+l'uno si chiama maggiore volume, e l'altro minore.  ^E Francesco
+d'Accorso.~  Questo fu legista bolognese figliuolo d'Accorso, lo
+quale chios@o la legge, ^anco vedervi~; tu Dante, ^S'avessi avuto
+di tal tigna brama~; cio@e, s'avessi avuto desiderio di tale
+angoscia.  Molestia @e ad ogni amico onesto vedere li viziosi
+e massimamente s@i fatti, che sono in odio a Dio, alla natura, et
+alli uomini ragionevoli, et eziandio a' demoni: e come la tigna
+fa abominazione allo stomaco; cos@i cotali peccati fanno
+abominazione all'animo ragionevole.  ^Colui potei~; cio@e
+vedervi, ^che dal Servo de' servi~; cio@e dal papa che
+s'intitola in tutte le sue lettere ^Servus servorum Dei~,
+secondo che trov@o prima, et us@o sempre santo Gregorio, ^Fu
+trasmutato d'Arno~; cio@e da Fiorenza che @e posta in su l'Arno,
+^in Bacchiglione~; cio@e in Vicenza che @e citt@a di Lombardia,
+ov'@e uno fiume che si chiama Bacchiglione, ^Dove~; cio@e in
+Vicenza, ^lasci@o li mal protesi nervi~; cio@e li nervi del
+membro virile che avea teso a malo uso, in quanto l'avea usato
+contra natura; e pertanto significa che in Vicenza morisse
+costui.  L'autore non nomina; ma descrivelo, et intendesi che
+fosse un vescovo di Fiorenza, che il papa tramut@o e fecelo
+vescovo di Vicenza.  ^Di pi@u direi~; dice ser Brunetto; ^ma il
+venir e il sermone Pi@u lungo esser non pu@o~; et assegna la
+cagione: ^per@o ch'io~; cio@e ser Brunetto, ^veggio Surger l@a~
+^nuovo fumo del sabbione~; cio@e della rena; e questo era
+segno che gente venia.  ^Gente vien con la quale esser non
+deggio~; io ser Brunetto, per@o non sono di mia condizione:
+^Siati raccomandato il mio Tesoro~: cio@e il mio libro, lo
+quale io feci.  Per questo si dee intendere che l'autore ebbe in
+volere di metterlo in fama in questo suo poema, come di suo
+fiorentino: imper@o che a fama della sua citt@a, quantunque ne
+dica male, sempre intese.  ^Nel quale io~; cio@e ser Brunetto,
+^vivo ancora~: li scientifichi uomini vivono in fama per le
+opere, ch'@anno lasciato dopo loro; ^e pi@u non cheggio~; io ser
+Brunetto da te Dante.  In tutti li pi@u de' luoghi finge l'autore
+li dannati essere vaghi e desiderosi di fama, avendo rispetto
+moralmente a quelli del mondo li quali tutti desiderano fama,
+quantunque sieno viziosi.  E bench@e in alcuno sia gi@a stato
+appetito di fama, eziandio del vizio, non @e dubbio che tutti
+vorrebbono avere piuttosto fama di virt@u, che di vizio; ma non
+potendola avere della virt@u, come bestiali e scedati, dicono che
+vogliono essere nominati almeno per lo vizio, come fece Erostrato
+che incese lo tempio di Diana in Efeso, per esserne nominato.
+
+	|121-124.~  In questo ternario et uno
+verso l'autor nostro finge lo dipartimento di ser Brunetto, e
+finisce lo canto dicendo: ^Poi~; che ser Brunetto ebbe detto a
+Dante le cose dette di sopra, ^si rivolse~; a dietro per
+raggiugnere la brigata de' litterati, con la quale dovea essere,
+^e parve di coloro, Che corrono a Verona il drappo verde Per la
+campagna~: imper@o che a Verona, che @e una citt@a di
+Lombardia, s'usa di correre uno palio di drappo verde da uomini
+da pi@e, la prima domenica della Quaresima; ^e parve~; ser
+Brunetto, ^di costoro~; che corrono, ^Colui che vince, e non
+colui che perde~: s@i correa fortemente.  E cos@i finisce lo
+canto XV.

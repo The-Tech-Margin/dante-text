@@ -1,0 +1,1483 @@
+	|Proemio.~  <Libri titulus est: 'Incipit Comedia Dantis
+Alagherii, florentini natione, non moribus'.  Ad cuius notitiam
+sciendum est quod comedia dicitur a 'comos' villa et 'oda' quod
+est cantus, unde comedia quasi 'villanus cantus'.  Et est comedia
+genus quoddam poetice narrationis ab omnibus aliis differens. 
+Differt ergo a tragedia in materia per hoc, quod tragedia in
+principio est admirabilis et quieta, in fine seu exitu est
+fetida et horribilis... comedia vero inchoat asperitatem alicuius
+rei, sed eius materia prospero terminatur....  Similiter
+differunt in modo loquendi: elate et sublime tragedia; comedia
+vero remisse et humiliter....  Et per hoc patet quod Comedia
+dicitur presens opus.  Nam si ad materiam respiciamus, a
+principio horribilis et fetida est, quia Infernus, in fine
+prospera, desiderabilis et grata, quia Paradisus; ad modum
+loquendi, remissus et humilis, quia locutio vulgaris in qua et
+muliercule comunicant> (^Ep.~ XIII, ^a Cangrande~, 28-31).  Il
+titolo di questa prima parte @e: <Incipit cantica prima Comedie
+Dantis etc. que dicitur Infernus> (cfr. ^ivi~, 37).
+
+	Che Dante fin dall'inizio pensasse al titolo di ^Comedia~ 
+(pronunziato ^comed@ia~, come ^traged@ia~ ed ^eleg@ia~) @e attestato
+in ^Inf.~ XVI 128 e XXI 2; e cfr., per l'inquadramento culturale
+del passo dell'^Epistola~ XIII, test$e citato, P. Rajna, ^Il
+titolo del poema dantesco~, in ^SD~, IV, 1921, pp. 5-37.  Alla
+inadeguatezza del titolo per un poema tanto eccelso (ma vedi le
+osservazioni di E. Auerbach, ^Sacrae scripturae sermo humilis~,
+in ^Studi su Dante~, trad. it., Milano, 1963, pp. 167-175) pose
+rimedio la tradizione a stampa, che fregi@o l'opera
+dell'aggettivo, meritatissimo, <divina>.
+
+	Precedono i singoli canti rubriche presenti nella pi@u
+antica tradizione della ^Comedia~; esse non risalgano certo a
+Dante, ma dovettero corredare la prima cantica mentre ancora
+viveva l'autore: cfr. G. Petrocchi, ^Introduzione~, pp. 472-473.
+
+	|Rubrica antica.~  Incomincia la Comedia di Dante
+Alleghieri di Fiorenza, ne la quale tratta de le pene e punimenti
+de' vizi e de' meriti e premi de le virt@u.  Comincia il canto
+primo de la prima parte la quale si chiama Inferno, nel quale
+l'auttore fa proemio a tutta l'opera.
+
+	|1.~ La ^Comedia~ si apre con un verso di chiara
+reminiscenza biblica (cfr. ^Is.~ 38, 10: <In dimidio dierum
+meorum vadam ad portas Inferi>), quasi a mettere in rilievo fin
+dall'inizio l'intonazione volutamente profetica del poema. 
+Questo canto iniziale @e particolarmente intessuto, soprattutto
+nella prima parte, di linguaggio e di immagini scritturali, in
+una molteplicit@a di allusioni implicantisi vicendevolmente.  Cfr.
+G. Contini, ^Filologia ed esegesi dantesca~, pp. 21-22. 
+|CAMMIN.~  La vita umana era tradizionalmente rappresentata come
+un pellegrinaggio verso la patria celeste (cfr. ^Conv.~ IV xii
+15).  |NOSTRA~, perch$e si riferisce alla durata della vita
+terrena (cfr. ^Inf.~ V 69) non dell'individuo Dante (che per
+allora rimaneva, ovviamente, sconosciuta; e quindi il ricavare da
+quel collettivo ^nostra~ indicazioni sulla estensibilit@a
+dell'esperienza personale di Dante a tutta l'umanit@a @e per lo
+meno illazione gratuita) ma dell'uomo in generale: e questa era
+tradizionalmente fissata in settant'anni (cfr. ^Ps.~ 89, 10:
+<dies annorum nostrorum... septuaginta anni>).  Dante -- nato nel
+maggio 1265 -- era dunque nel corso del suo trentacinquesimo anno
+di et@a, nel <punto sommo> dell' <arco> della vita umana (^Conv.~
+IV xxiii 9: <io credo che ne li perfettamente naturati esso
+[punto sommo di questo arco] ne sia nel trentacinquesimo anno>; e
+cfr. i passi aristotelici e scolastici addotti in proposito da B.
+Nardi, ^Saggi di filosofia dantesca~, Milano, 1930, pp. 123-153);
+ed era l'et@a pi@u propizia per lasciare la via del peccato e
+seguire infine la virt@u: come aveva fatto anche Enea, la cui
+vicenda personale, ritenuta storica, assumeva, nel quadro della
+particolare sensibilit@a medievale, dimensioni e carattere di
+esemplarit@a (come sottolinea l'interpretazione morale delle
+peregrinazioni mediterranee -- cio@e, allegoricamente, le varie
+passioni che distolgono Enea dal cammino verso la patria
+promessa, la virt@u -- narrate nel poema virgiliano: cfr. ^Conv.~ IV
+xxvi 5-9).  La visione dantesca, esperienza anch'essa individuale
+ed esemplare insieme, si colloca pertanto nel 1300 (cfr. ^Inf.~ X
+79-81; XXI 112-114; XXIV 123; ecc.): l'anno centenario -- e perci@o
+tanto pi@u paradigmatico per la mentalit@a medievale cos@i attenta
+ai valori simbolici dei numeri -- , l'anno anzi in cui fu celebrato
+il primo giubileo cristiano.  Inizia precisamente nella notte del
+24-25 marzo (anniversario della morte di Cristo, data in cui si
+faceva cominciare l'anno secondo la tradizione fiorentina), per
+concludersi il 31 di quello stesso mese.  Vari commentatori
+moderni preferiscono invece fissare il viaggio dantesco tra la
+notte del 7-8 aprile (che @e la data commemorativa della morte di
+Cristo, cio@e il Venerdi Santo prima della Pasqua di quell'anno) e
+il 14 aprile 1300 (cfr. E. Moore, ^Gli accenni al tempo nella D.
+C.~, Firenze, 1900): ma la prima collocazione, che @e attestata
+gi@a nell'esegesi trecentesca, pare trovar conferma in ^Par.~ I
+37-48; X 7-15, 28-34; XXVII 86-87 (il sole @e ancora in Ariete), e
+risponde con maggior precisione a ^Purg.~ II 98 (<da tre mesi>:
+25 dicembre 1299 -- 27 marzo 1300); tanto pi@u che le descrizioni
+astronomiche presenti nella ^Comedia~ corrispondono tutte
+esattamente al periodo 25-31 marzo (per@o del 1301: cfr. F.
+Angelitti, ^Sulla data del viaggio dantesco~, in ^Atti Accad.
+Pontaniana~, XXVII, 1897; il quale pertanto ritenne che il
+viaggio dantesco dovesse essere collocato in quell'anno.  Gi@a il
+Boccaccio era rimasto in forse tra le due date: cfr. ^Esposizioni
+Dante~, I i 5; III i 50; VI i 32 e nota; tuttavia troppi e troppo
+precisi sono i passi che si riferiscono indubitabilmente al 1300:
+per questa singolare diffrazione vedi A. Camilli, in ^SD~, XXIX,
+1950, pp. 61-84, e bibliografia ivi cit.); cfr. U. Palmieri, in
+^SD~, XXXVIII, 1961, pp. 131-141.
+
+	|2. MI RITROVAI.~  @E il doloroso stupore di chi si @e
+avveduto solo allora, per la prima volta, di essere in luogo
+pericoloso.  La consapevolezza dello stato di peccato @e il primo
+necessario passo per la salvezza.  |PER~, senza una m@eta,
+errabondo.  <Qui ambulat in tenebris nescit quo vadat> (^Joann.~
+12, 35).  |SELVA.~  @E la vita volta al solo godimento di beni
+mondani, e immersa negli interessi terreni, lontana da Dio, <la
+selva erronea di questa vita> (^Conv.~ IV xxiv 12), secondo
+un'immagine patristica piuttosto consueta (per la
+intercambiabilit@a in Dante di questo linguaggio metaforico,
+inteso alla realt@a morale, e del linguaggio propriamente reale
+vedi S. Battaglia, ^Linguaggio reale e linguaggio figurato nella
+D. C.~, negli ^Atti del I Congresso Naz. di Studi Danteschi~, pp.
+21-44).  Lo smarrimento di Dante avvenne in Firenze (cfr. ^Inf.~
+XX 127; ^Par.~ XXXI 39), ma non @e opportuno riconoscere nella
+selva proprio quella citt@a (come vuole B. Nardi, ^Il preludio
+alla D. C.~, in ^L'Alighieri~, IV, 1963, p. 9): giacch$e,
+moralmente, la <selva> @e nell'animo di ogni peccatore.  |OSCURA~,
+perch$e non @e illuminata dalla grazia di Dio; cfr. ^Prov.~ 4, 19,
+cos@i tradotto in ^Conv.~ IV vii 9: <la via... de li malvagi @e
+oscura>.
+
+	|3. CH$E.~  Cong. causale; altri vi attribuisce invece
+valore modale, <in modo che> (cfr. S. A. Chimenz, in ^Giorn.
+Stor. Lett. It.~, CXXXIII, 1956, pp. 161-164), <nella condizione
+di chi abbia smarrito la via> (cfr. A. Pagliaro, ^Nuovi saggi~,
+pp. 256-257).  |LA DIRITTA VIA.~  <Vae his... qui dereliquerunt
+vias rectas et diverterunt in vias pravas!> (^Ecclesi.~ 2, 16);
+<haec erit vobis directa via, ita ut stulti non errent per eam.
+Non erit ibi leo, et mala bestia non ascendet per eam, nec
+invenietur ibi> (^Is.~ 35, 8-9).  |ERA SMARRITA~, da me;
+smarrita, ma non perduta per sempre.  <Lassati sumus in via
+iniquitatis et perditionis, et ambulavimus vias difficiles; viam
+autem Domini ignoravimus> (^Sap.~ 5, 7).  Alla vita di
+sregolatezze e di traviamento intellettuale, per cui era caduto
+tanto in basso (cfr. ^Purg.~ XXX 136-138), Dante accenner@a sempre
+con profonda contrizione: cfr. soprattutto ^Purg.~ XXIII 115-123,
+e XXX 73 sgg.
+
+	|4. DURA~: dolorosa (cfr. ^Inf.~ III 12; XXXII 14); come
+dir@a al v. 6, il solo ricordo gli fa rinascere paura, ed insieme
+dolore e vergogna.
+
+	|5. ESTA.~  Forma arcaica, pi@u prossima al pronome lat.;
+ricorre numerose volte nella ^Comedia~, per <questa>.  |SELVA
+SELVAGGIA~, selva in cui la vegetazione cresce in assoluto
+disordine, e quindi inospitale per l'uomo (cfr. ^Purg.~ XXX
+118-119); la replicazione (per cui cfr. ^Aen.~ II 53: <cavae... 
+cavernae>; questo artificio fu particolarmente caro alla retorica
+medievale: vedi E. G. Parodi, ^Lingua e letteratura~, II, pp. 
+331-332) e la successione delle congiunzioni scandiscono
+l'aspetto orribile e pauroso di quel <loco selvaggio> (v. 93), in
+una nota paesaggistica che fa balenare l'orrore di una situazione
+morale, preludendo gi@a al mondo infernale.  |ASPRA~, piena di
+pruni, di stecchi e di spine.  Cfr., per contro, l'amenit@a della
+<selva antica>, la <divina foresta> del Paradiso terrestre
+(^Purg.~ XXVIII).  |FORTE~, tale che @e <difficile a potere per
+essa andare e fuori uscirne> (Boccaccio); moralmente vuol
+significare la difficolt@a di riscattarsi dalla condizione di
+peccato. <Iniquitates suae capiunt impium, et funibus peccatorum
+suorum constringitur> (^Prov.~ 5, 22).
+
+	|6. CHE NEL PENSIER~: tanto che al solo ricordo.  @E il
+primo dei vari cenni di reflessione dell'autore sugli accadimenti
+che ora egli rievoca.  |RINOVA.~  Cfr. ^Aen.~ II 3: <infandum...
+renovare dolorem>; e v. ^Inf.~ XXXIII 4-6.
+
+	|7. AMARA~, avversa all'umana natura (cfr. ^Conv.~ I vii
+4: <ciascuna cosa che da perverso ordine procede... @e amara,...
+s@i come dormire lo die e vegghiare la notte, e andare indietro e
+non innanzi>; e vedi la nota al v. 5.  Cfr. ^Ecclesi.~ 41, 1: <O
+mors, quam amara est memoria tua>; 30, 17: <melior est mors, quam
+vita amara>; ed anche ^Eccle.~ 7, 27: <inveni amariorem morte
+mulierem>, cio@e il peccato; ecc.), va riferito a ^selva~; cfr. S.
+Agostino, ^Tractatus in Joann., C. C.~, tract. XVI 6: <amara
+silva mundus hic fuit>.  A chi si ravvede, il peccato si mostra
+per ci@o che @e: non secondo l'apparenza, che pu@o essere attraente,
+ma nella sua essenza malefica, che @e da fuggire quasi quanto le
+morte; e Dante alla morte spirituale era stato ed era ancora
+assai vicino: cfr. ^Inf.~ II 107; ^Purg.~ I 58-60.
+
+	|8. BEN~, l'incontro con Virgilio e quindi la singolare
+grazia concessagli da Dio; cfr. ^Inf.~ II 126.
+
+	|9. ALTRE COSE~, quelle che indicher@a ai vv. 13-60,
+incontrato per@o quand'era gi@a fuori della selva.
+
+	|10.~ Lo smarrimento di Dante avvenne <avanti che l'et@a
+^sua~ fosse piena> (^Inf.~ XV 51): quando, poco dopo la morte di
+Beatrice (1290), di venutogli men caro e non gradito quel
+ricordo, <volse i passi suoi per via non vera, / imagini di ben
+seguendo false> (^Purg.~ XXX 130-131).
+
+	|11. PIEN DI SONNO~: con la mente ottenebrata
+dall'errore, presa tutta dalle false apparenze dei beni fallaci.
+Il sonno @e metafora frequente nel linguaggio scritturale ad
+indicare quella vita che diviene peccaminosa, spesso non per
+consapevole malvagit@a, ma per obl@io negligente dei propri doveri
+spirituali (cfr. ^Is.~ 29, 10; ^Ier.~ 51, 39; ecc.).
+
+	|12. CHE~: nel quale; nel '300 il <che> era usato anche
+per i casi obliqui senza preposizione (cfr. Boccaccio, ^Dec.~ III
+3, 23; IV 1, 42; ecc.; ^Esposizioni Dante~, I i 157; ecc.).  |LA
+VERACE VIA~, quella che conduce alla salvezza eterna; cfr. 
+^Conv.~ IV xii 18: <ne la vita umana sono diversi cammini, de li
+quali uno @e veracissimo, e un altro fallacissimo, e certi meno
+fallaci e certi meno veraci>; e ^Purg.~ XXX 130.  |ABBANDONAI.~ 
+Cfr. ^Prov.~ 2, 13: <relinquunt iter rectum, et ambulant per vias
+tenebrosas>; ^Sap.~ 5, 7; ^Ecclesi.~ 2, 16; ecc.
+
+	|13. COLLE.~  Immagine, anche questa, scritturale (cfr.
+^Ps.~ 23, 3: <Quis ascendet in montem domini?>; ^Mich.~ 4, 1-2;
+ecc.).  Qui simboleggia la via del riscatto spirituale, e, nella
+sua sommit@a, quella felicit@a terrena che @e illuminata dalla
+grazia di Dio (cfr. il monte del Paradiso terrestre, di cui
+questo @e figurazione); al conseguimento della quale felicit@a,
+affinch$e per essa gli uomini potessero pi@u adeguatamente
+pervenire alla salvezza eterna, Dio istitu@i l'Impero: <Inmensa
+Dei dilectione testante, relicta nobis est pacis hereditas, ut in
+sua mira dulcedine militie nostre dura mitescerent, et in usu
+eius patrie triumphantis gaudia mereremur> (^Ep.~ VII 2).  Sulle
+cause dell'attuale impossibilit@a di ascendere il colle cfr. le
+note ai vv. 49-51, 94-111.  Irricevibile la proposta che vuole
+vedere nella selva e nel colle la contrapposizione vita attiva-
+vita contemplativa: ch$e Dante ha sempre tenuto nel massimo conto,
+anche morale, il concetto di vita attiva, di politica, di
+socialit@a, ecc.; e vedi ^Ep.~ XIII, ^a Cangrande~, 40: <non ad
+speculandum, sed ad opus inventum est>.
+
+	|15. COMPUNTO~, angosciato; cfr. ^Act. Apost.~ 2, 37:
+<compuncti sunt corde>; ^Inf.~ VII 36.
+
+	|16. GUARDAI IN ALTO.~  Cfr. ^Ps.~ 120, 1: <Levavi oculos
+meos in montes, unde veniet auxilium mihi>.  |LE SUE SPALLE~, la
+parte superiore.
+
+	|17. VESTITE.~  Metafora gi@a virgiliana (cfr. ^Aen.~ VI
+640-641: <campos... lumine vestit  /  purpureo>).  Cfr. ^Prov.~
+4, 18, cos@i tradotto in ^Conv.~ IV vii 9: <La via de'
+giusti -- cio@e de' valenti -- quasi luce splendiente procede>. 
+|PIANETA~: il sole (che, secondo il sistema tolemaico, era
+considerato uno dei sette pianeti ruotanti, con i loro cieli,
+intorno alla terra); era figura usuale della grazia divina e di
+Dio stesso: <nullo sensibile in tutto lo mondo @e pi@u degno di
+farsi essemplo di Dio che 'l sole...  Lo sole tutte le cose col
+suo calore vivifica... cos@i Iddio tutte le cose vivifica in
+bontade> (^Conv.~  III xii 7-8).  Cfr. H. F. Dunbar, ^Symbolism
+in Medieval Thought~, New Haven, 1929, p. 105 sgg.
+
+	|18. MENA... PER OGNE CALLE~: guida sicuramente l'uomo
+per ogni via; cfr. ^Purg.~ XIII 16-21; e ^Prov.~ 3, 6: <in
+omnibus viis tuis cogita illum [Dominum], et ipse diriget gressus
+tuos>; per <callo>: ^Is.~ 26, 7.
+
+	|19. FU... QUETA~: la paura si fu un poco acquietata,
+divenne meno angosciosa (cfr. F. Brambilla Ageno, in ^SD~, XLIII,
+1966, p.  69).  <Rutilat celum in labiis suis, et auspitia
+gentium blanda serenitate confortat> (^Ep.~ V 2).
+
+	|20. LAGO DEL COR.~  Secondo l'insegnamento aristotelico
+(cfr. G.  Boffito, in ^Rivista di Fis., Matem., Sc. Nat.~,
+Napoli, giugno 1932), @e la cavit@a del cuore ove affluisce il
+sangue: <@e nel cuore una parte concava... ed @e quella parte
+ricettacolo di ogni nostra passione: e perci@o dice che in quello
+gli era perseverata la passione della paura auta> (Boccaccio). 
+La medesima immagine del ^lago~ @e nelle ^Rime dubbie~ (^Donne, i'
+non so~, vv. 8-9); e vedi ^Vita Nuova~ II 4: <secretissima camera
+de lo cuore>.
+
+	|21. LA NOTTE.~  Dir@a pi@u innanzi (cfr. ^Inf.~ XX 127-
+129) che la sua ricerca affannosa d'uscire dalla selva fu
+agevolata dal plenilunio.  |PIETA~: angoscia, per il timore di
+non saper uscire da quella selva; ^pieta~ @e forma derivata dal
+nominativo <pietas> (anzich$e dall'ablativo, donde invece
+^pietate, piet@a~), che Dante usa generalmente nell'accezione di
+<angoscia d'animo, pena> (cfr.  ^Inf.~ II 106; VII 97; XVIII 22;
+e vedi invece XXVI 94); per ^piet@a~ vedi invece ^Inf.~ II 5 e
+nota; IV 21.
+
+	|22. QUEI~: colui.  |LENA~: respiro (cfr. ^Inf.~ XIII
+122; XXIV 43).
+
+	|23. FUOR DEL PELAGO~: fuori da acque profonde e
+pericolose (per questa accezione di ^pelago~, propriamente
+<mare>, cfr. ^Purg.~ XIV 52; e, per l'immagine, S. Agostino,
+^Tractatus in Ioan., C. C.~, tract. XLIX 19: <hanc vitam tanquam
+procellosum et periculosum pelagus>); pi@u innanzi, ^Inf.~ II 108,
+dir@a: <fiumana>; e vedi ^Par.~ XXVI 62-63.
+
+	|24. PERIGLIOSA~: che aveva messo in serio pericolo la
+sua vita.  |GUATA~: guarda fissamente, considerando il pericolo
+corso.  La terzina @e di una notevole forza espressiva, e rivela
+subito, nella bella e viva similitudine, la potente capacit@a
+dell'Alighieri di cogliere con un rapido tratto momenti veri
+della realt@a umana.
+
+	|25. ANIMO.~  L'anima <@e chiamata 'animo', quando ella
+alcuna cosa vuole> (Boccaccio); indica dunque la sede della
+volont@a: cfr. ^Inf.~ XIII 70; XXIII 83; XXIV 131.  |CH'ANCOR
+FUGGIVA~, dominato dal desiderio di allontanarsi il pi@u possibile
+dal pericolo, mentre il corpo, stanco, ha bisogno di un attimo di
+riposo.  <Spiritus quidem promptus est, caro autem infirma>
+(^Matth.~ 26, 41).
+
+	|26. A RETRO~: indietro.  |A RIMIRAR LO PASSO~: a
+riguardare il luogo donde era riuscito ad evadere (^passo~
+propriamente @e <passaggio>: cfr. ^Inf.~ II 12; XII 126; XIII 146;
+ecc.).  Per il Pagliaro si tratterebbe, pi@u specificamente, del
+limite che separa la valle della selva dalle pendici del monte
+(^Nuovi saggi~, pp. 262- 263): ma il testo non suggerisce tanto.
+
+	|27. NON LASCI@O~, entro di s$e alcuna ^persona~
+spiritualmente ^viva~, giacch$e quanti rimangono nella selva tutti
+sono avvolti nelle spire del peccato, e destinati alla morte
+spirituale (cfr. ^Inf.~ II 107; ^Purg.~ I 58-60).  Questa
+spiegazione mi pare assai pi@u soddisfacente dell'altra, pure
+accolta da vari autorevoli commentatori, anche antichi: <lasci@o
+uscire da s$e>; in tal caso, ^gi@a mai~ starebbe a sottolineare con
+forza l'eccezionalit@a del riscatto di Dante (invero dotato di
+speranza pi@u di ogni altro: cfr. ^Par.~ XXV 52-53), ma il ^viva~,
+che pure @e in posizione forte, risulterebbe quasi pleonastico. 
+Secondo il Mazzoni, ^Saggio di un commento~, p. 84, ^persona
+viva~ sarebbe soggetto (intendendosi per la selva la vita fisica,
+mortale): ma il verso verrebbe allora a significare cosa ovvia e
+banale.
+
+	|28. @EI POSATO~: ebbi fatto posare; per la forma arcaica
+^@ei~ cfr. E. G. Parodi, in ^Lingua e letteratura~, II, p. 259. 
+|CORPO.~  Dopo una selva, un colle, un sole metaforici, questo
+corpo stanco richiama perentoriamente alle significanze
+realistiche di quel linguaggio metaforico e morale: cfr. Ch. S.
+Singleton, ^Studi su Dante. I. Introduzione alla <Divina
+Commedi>~, trad.  it., Napoli, 1961, p. 38.
+
+	|29. VIA~: il cammino.  |PIAGGIA~, luogo quasi
+pianeggiante, situato tra la selva e l'inizio dell'erta del colle
+(cfr. ^Conv.~ III iii 4), dove ancora forti si fanno sentire le
+tentazioni del male, rendendo incerto e dubitoso (cfr. il verbo
+<piaggiare>, ^Inf.~ VI 69) il cammino verso il bene.  |DISERTA.~ 
+L'annotazione ritorna al v. 64, ed @e ripetuta, tale e quale, in
+^Inf.~ II 62.  <Diserto> @e il mondo, e l'animo, quando @e privo
+della luce della grazia divina (cfr. ^Purg.~ XI 14; in ^Ep.~ V 3,
+Dante arditamente trasferisce per@o l'immagine anche a significare
+l'assenza del potere imperiale: <qui diu pernoctitavimus in
+deserto>).
+
+	|30. FERMO~: saldo (lat. <firmus>), quello su cui posa la
+persona: e cio@e il piede sinistro (cfr. Alberto Magno,
+^Questiones super De animalibus~, II 3: <pes autem sinister
+stabilior et firmior est altero... et ideo corpus sibi magis
+innititur>).  |PI@U BASSO~, vorr@a forse significare, come vuole
+Pietro Alighieri, che Dante <sicut claudus ibat>, zoppicando;
+secondo invece il P$ezard, egli salirebbe il pend@io girando verso
+sinistra (vedi ^Inf.~ XIV 126; XXIII 68; ma cfr. ^Prov.~ 4, 27);
+o, secondo il Contini, senza guadagnare n$e perdere in altezza;
+comunque, l'espressione va intesa non tanto in rapporto al
+linguaggio reale, bens@i secondo il linguaggio figurato che
+predomina in questo canto: e sta a sottolineare l'indecisione di
+Dante nel procedere verso il bene, la discordanza tra l'
+<intellectus> (metaforicamente, il piede destro) e l' <affectus>
+(piede sinistro): tanta fatica costa l'allontanarsi dal peccato
+(cfr. v. 25), per la lunga assuetudine ad esso; e in ci@o non @e
+difficile vedere analogia con la <piaggia> del Purgatorio (cfr.
+^Purg.~ II-IV), dove tanto forti sono ancora i legami con la vita
+terrena e la pigrizia spirituale.  <Sicut corpus humanum habet
+duos pedes... ita anima habet duos pedes> (per la metafora cfr.
+^Ep.~ VI 21: <in noctis tenebris malesane mentis pedes
+oberrent>), <igitur ad propositum pes auctoris, idest
+affectio,... erat infirmior, quod adhuc ad infima terrena relicta
+aliquantulum magis inclinabatur> (Pietro); cfr. i numerosi
+riscontri reperiti in testi teologici, e particolarmente in
+Alberto Magno, ^op. cit.~, da J. Freccero, in ^The Harvard
+Theological Review~, LII, 1959, pp. 245-281; e la rec. di F.
+Mazzoni, in ^SD~, XXXIX, 1962, p. 233.  Il verso @e stato assai
+discusso dall'esegesi dantesca, e variamente interpretato poich$e,
+pur avvertendo l'incongruenza delle varie spiegazioni, se ne
+ricercava il significato esclusivamente sul piano
+dell'espressione realistica (onde per alcuni, cfr., da ultimo, B.
+Nardi, ^Il preludio alla D. C.~, p. 10, esso indicherebbe che il
+terreno era ancora pressoch$e orizzontale; altri, come il Sapegno,
+invece accolgono la chiosa, che ha il merito della chiarezza e
+della semplicit@a, del Boccaccio: <mostra l'usato costume di
+coloro che salgono, che sempre si ferman pi@u in su quel pi@e che
+pi@u basso rimane>).  Se gi@a i commentatori trecenteschi diedero
+controverse spiegazioni, ci@o dimostra che la metafora non era tra
+quelle comunemente acquisite, e che comunque l'immagine non @e
+riuscita limpida.
+
+	|31. QUASI... DE L'ERTA~, fatto qualche passo al di l@a
+(cfr. vv. 55 e 61) del punto dove, finita la piaggia, inizia la
+costa del colle, ben pi@u ripida.
+
+	|32. LONZA.~  Con il nome di ^lonza~ (dall'ant. franc.
+^lonce~, mod. ^once~: cfr. A. Levi, in ^Giorn. St. Lett. It.~,
+LXXXVIII, 1926, pp. 190-194; A. Schiaffini, in ^SD~, XIII, 1928,
+p. 44) si indicava un felino (fiera perci@o agile e veloce,
+^leggiera e presta molto~: due aggettivi che ritraggono con
+estrema vivezza l'animale in movimento, e che, insieme
+all'eleganza, ne fanno intuire la pericolosit@a), simile al
+leopardo ma da esso distinto, come pure dalla lince e dalla
+pantera (<Loncia @e animale crudele e fiera, e nasce de
+coniungimento carnale de leone con lon$ca o vero de leopardo con
+leonessa, e cuss@i nasce lo leopardo.  La lon$ca sempre sta in
+calura d'amore et in desiderio carnale, launde la sua fere$c$ca @e
+molto grandissima>: cfr. ^Il bestiario toscano~, a cura di M. S.
+Garver e K. McKenzie, in ^Studi Romanzi~ di E. Monaci, VIII,
+1912, p. 86).  Che le tre fiere, emanazioni diaboliche, dominino
+il mondo corrotto dal male @e immagine biblica: <Idcirco percussit
+eos ^leo~ de silva; ^lupus~ ad vesperam vastavit eos; ^pardus~
+vigilans super civitates eorum; omnis qui egressus fuerit ex eis
+capietur> (^Ier.~ 5, 6; cfr. G. Busnelli, ^Il simbolo delle tre
+fiere dantesche~, Roma, 1909); in esse si ravvisano <i tre vizi
+principali... principio e radice di tutti i vizi e peccati e mali
+che si fanno nel mondo o che fare si possano> (Giordano da
+Rivalto, ^Prediche inedite~, Bologna, 1867, p. 345), cio@e, per
+risalire alla fonte di fra'Giordano, <concupiscentia carnis, et
+concupiscentia oculorum, et superbia vitae> (Ioann., ^I Ep.~ 2,
+16): il quale passo @e cos@i esplicitato da Innocenzo III:
+<concupiscentia carnis ad voluptates, concupiscentia oculorum ad
+opes, superbia vite pertinet ad honores.  In voluptatibus tentat
+[demon] per gulam et luxuriam, in opibus tentat per cupiditatem
+et avaritiam, in honoribus tentat per superbiam et iactantiam>
+(^PL~ 217, 371; cfr. G. G. Meersseman, ^Penitenza e penitenti
+nella vita e nelle opere di D.~, nel vol. ^Dante e la cultura
+veneta~, p. 232).  Questa identificazione dei valori simbolici
+delle tre fiere @e di gran lunga pi@u persuasiva di altre, che vi
+vedono le <tre faville c'hanno i cuori accesi> (^Inf.~ VI 75),
+cio@e invidia, superbia e avarizia, o <le tre disposizion che 'l
+ciel non vole> (^Inf.~ XI 81), cio@e incontinenza, violenza,
+frode, o allusione diretta a Firenze, alla Francia e alla Curia
+papale (le varie ipotesi sono discusse dal D'Ovidio, ^Le tre
+fiere~, in ^Opere~, I, p. II, pp.  5-40; e vedi G. Busnelli, ^Il
+simbolo delle tre fiere dantesche~, cit.).  Alcuni studiosi
+infine riferiscono i peccati simboleggiati dalle tre fiere a
+Dante stesso, che qui se ne dichiarebbe dunque colpevole: ma @e
+tesi alquanto difficile da sostenere, soprattutto considerando i
+versi poi dedicati alla lupa.
+
+	|33. MACOLATO~: chiazzato: come sapevano quei fiorentini
+che nel 1285 avevano potuto ammirare una <leuncia> in gabbia,
+presso il palazzo del comune (come appare da un documento: cfr.
+^BSDI~, II, 1894-1895, p. 117).  Il poeta insiste sulla
+leggiadria di questa fiera, e ci@o per mettere in rilievo le
+attrattive esteriori, e pertanto fraudolenti (cfr. ^Prov.~ 5, 3;
+7, 1-27; ecc.), di cui si giova quel peccato (cfr. ^Aen.~ I 323,
+dove le compagne di Venere sono descritte come vestite di una
+pelle <maculosae... lyncis>, ed ^Ethica Nicom.~ VII, c. 7, 1149
+b, 14-16, trad. lat. del Grosseteste, dove si parla della
+concupiscenza in rapporto alla frode e si accenna alla <varia
+corrigia> della <dolosa Ciprigna>: vedi B. Nardi, ^Saggi e note~,
+p. 340).  I passi citati qui e nella nota precedente concorrono
+ad indicare nella lonza la <concupiscentia carnis>: ma sar@a pi@u
+opportuno intenderla, sulla scorta di Innocenzo III, ^loc. cit.~,
+pi@u generalmente come <concupiscentia voluptatum>: simbolo del
+piacere, nella sua forza di attrazione, che @e fraudolento perch$e
+si fonda sull'apparenza di <beni> fallaci.
+
+	|34. NON MI SI PARTIA~: non mi si toglieva.
+
+	|36.~ Riuscendo infruttuosi i tentativi di vincere la
+lonza (cfr. ^Inf.~ XVI 107-108), Dante fu pi@u volte tentato di
+cedere e ritornare nella selva.  L'allitterazione (^volte v@olto~)
+era figura retorica assai apprezzata al tempo.
+
+	|37. DAL~: circa (per l'uso della prep. ^da~ nel compl.
+di tempo, cfr. le locuzioni ^da sera~ e ^da mane~: ^Inf.~ XV 18 e
+XXXIV 118).  Era il primo mattino, di primavera, e il sole
+sorgente occupava nel cielo quella medesima posizione ascendente
+in Ariete (cfr. U. Palmieri, in ^SD~, XXXVIII, 1961, pp. 139-
+141; e vedi la nota al v. 1), in cui si trov@o quando ^quelle cose
+belle~, le stelle (cfr.  ^Inf.~ XVI 83; XXXIV 137; e vedi
+Macrobio, ^In Somnium Scip.~ I 21), furono primamente nel quarto
+giorno, per atto d'amore, create da Dio (ma il verbo ^mosse~ -- per
+cui cfr. ^Conv.~ III, canz. v. 72 -- pur rispondendo a precise
+convinzioni filosofiche, ci fa vedere la creazione dell'universo
+nella stupefacente armonia del suo movimento).  Ed era il 25
+marzo: il giorno in cui Adamo fu creato, in cui Cristo fu
+concepito, ed ucciso, per riscattare l'uomo dal peccato
+originale.  Dante colloca, con intenzione, il suo viaggio in
+corrispondenza cronologica ai pi@u grandi eventi della storia
+dell'uomo.
+
+	|41. BENE SPERAR~, @e la speranza di vincere finalmente la
+lonza ^a la gaetta pelle~, dalla pelle screziata (cfr. ^Inf.~ XVI
+108; <gai> in provenzale @e <amabile>: per l'espressione, che @e
+tutta di derivazione provenzale, cfr. A. Levi, in ^Giorn. Stor.
+Lett. It.~, LXXXVIII, 1926, pp. 190-194).
+
+	|43. L'ORA DEL TEMPO E LA DOLCE STAGIONE~, l'esser primo
+mattino e di primavera: momenti favorevoli, in cui l'uomo @e pi@u
+pronto a sperare e a lottare; ci@o infond@o nuova fiducia in Dante
+per la buona riuscita dell'impresa.  <Hora est iam nos de somno
+surgere; nune enim proprior est nostra salus quam cum credidimus. 
+Nox praecessit, dies autem appropinquavit.  Abiiciamus ergo opera
+tenebrarum, et induamur arma lucis> (Paul., ^Ad Rom.~ 13, 11-12).
+
+	|45. LA VISTA~: l'aspetto (cfr. v. 53).  |UN LEONE~,
+simboleggia la superbia, la bramosia di potere: vedi la nota al
+v. 32.  Il Petrocchi interpunge alla fine del verso con punto
+fermo; qui si @e voluto dar maggior risalto al parallelismo con i
+vv. 49-54.
+
+	|46. VENISSE.~  Per queste rime imperfette, consuete
+nella lirica pre-petrarchesca, vedi l'ed. curata da G. Petrocchi,
+^Introduzione~, pp. 468-471, e le note ai vari lemmi.
+
+	|47.~ <Due condizioni li d@a di ferocit@a: l'altezza della
+testa, che manifesta l'audacia del nuocere, e la rabbia della
+fame, che dimostra la volont@a del nuocere> (Buti): due
+rapidissimi tocchi, ed abbiamo subito dinanzi agli occhi un leone
+ruggente, consapevole della sua forza (^con la test'alta~ @e
+dimostrazione di superbia: cfr. ^Inf.~ VI 70; ^Par.~ IX 50),
+deciso a muovere all'assalto (era opinione infatti che il leone
+non affamato non assalisse l'uomo: cfr. ^Il bestiario toscano~,
+cit., pp. 33-34).  Cfr. Petr. ^I Ep.~  5, 8: <[daemon] tanquam
+leo rugiens circuit, quaerens quem devoret>.
+
+	|48. L'AERE~, persino l'aria.  |TREMESSE.~  Iperbole, a
+significare il terrore che riemp@i il cuore di Dante, scandito
+anche dalla ripetizione ^parea~ (a me).  Per l'immagine cfr.
+^Inf.~ IV 27 e 150; e Ovidio, ^Metam.~ XIII 406 (<novo latratu
+terruit auras>); Cavalcanti, ^Rime~ IV 2 (<che fa tremar di
+chiaritate l'#are>): cfr. G. Petrocchi, nel vol. ^Nuove letture
+dantesche~, p. 10 (e cfr. la nota di G. Contini, nell'introd. a
+^Le rime di Guido Cavalcanti~, Verona, 1966, p. 7).  Il testo
+Vandelli legge invece: ^temesse~, che trova riscontro in ^Amos~
+3, 8: <leo rugiet, quis non timebit?>.
+
+	|49.~ Queste due altre fiere compaiono quasi
+contemporaneamente: ch$e la bramosia di potere @e legata
+inevitabilmente alla bramosia di ricchezze, alla cupidigia qui
+simboleggiata dalla lupa (cfr. la nota al v. 32); e se con la
+prima fiera, sola, Dante poteva nutrire qualche speranza di
+vittoria con le proprie forze, con queste altre due, e
+soprattutto con la terza, ogni lotta vittoriosa @e impensabile,
+giacch$e sono mali che hanno radici ben profonde, estese in tutto
+il mondo.  L'invidia del diavolo (cfr. v. 111), approfittando
+della inanit@a dell'Impero, l'istituto ^voluto da Dio~ per
+garantire agli uomini condizioni di pace, di giustizia, di
+felicit@a terrena (cfr. ^Conv.~ IV iv 3-4; ed ^Ep.~ VII 3: <livor
+antiqui et implacabilis hostis... ob tutoris absentiam nos...
+denudavit>) ha scatenato sulla terra la cupidigia: in cui Dante
+ravvisa la causa prima delle lotte sfrenate tra le fazioni e
+della dilagante anarchia politica, con effetti nefasti per
+l'intera umanit@a, ma soprattutto per l'Italia.  Nelle epistole
+politiche Dante denunzier@a, quasi con ossessione, la cupidigia
+come la radice della sovversione contro il giusto potere
+imperiale, con le tragiche inevitabili conseguenze che ci@o
+comporta (cfr. ^Ep.~ V 13; VI 5, 12; 22; ecc.); tanto pi@u che,
+quando l'Impero non assolve alla propria funzione, anche la
+Chiesa finisce col venir meno alla sua: <quod, solio augustali
+vacante, totus orbis exorbitat, quod nauclerus et remiges in
+navicula Petri dormitant> (^Ep.~ VI 3).  In tali condizioni @e
+pressoch$e impossibile il riscatto individuale: per ricacciare la
+lupa nell'Inferno che l'ha vomitata e per liberare la via che
+mena al colle occorrer@a un Veltro: cfr. vv. 94 sgg.  |ED UNA
+LUPA.~  Alcuni (cfr. da ultimo A. Pagliaro, in ^L'Alighieri~, IV,
+1963, 2, p. 17 n.) preferiscono leggere: ^e d'una lupa~, il
+soggetto rimanendo il precedente ^la vista~, per mettere cos@i
+ancor pi@u in rilievo il costrutto parallelo, gi@a evidente nei vv.
+46 e 52; ma vedi, per contro, M. Barbi, ^Problemi~, I, p.  201. 
+La lezione adottata dal testo critico rende pi@u immediatamente
+l'apparizione della terribile fiera.  |DI TUTTE BRAME.~  La lupa
+(la femmina del lupo era ritenuta pi@u avida e rabbiosa del
+maschio) @e bramosa di tutto (cfr. ^Inf.~ VII 8; ^Purg.~ XX 10-12;
+^Par.~ XXVII 121-123), e questa sua tremenda avidit@a fa passare
+in secondo piano il pericolo costituito dal leone; che del resto
+essa riassume in s$e, giacch$e il leone @e quasi il suo araldo.
+
+	|50. SEMBIAVA CARCA~: sembrava avere in s$e; l'antitesi
+^carca-magrezza~ suggella l'insaziabilit@a della lupa, e,
+disegnandocela come fiera tutta irrequietezza e voracit@a, ne
+rivela al contempo, in modo pi@u marcato ed evidente che per le
+altre due fiere, il carattere demoniaco.
+
+	|51. GRAME~: infelici.  <E che altro cotidianamente
+pericola e uccide le cittadi, le contrade, le singulari persone,
+tanto quanto lo nuovo raunamento d'avere appo alcuno?  Lo quale
+raunamento nuovi desiderii discuopre, a lo fine de li quali sanza
+ingiuria d'alcuno venire non si pu@o> (^Conv.~ IV xii 9).
+L'avarizia @e una delle tre <faville> che hanno alimentato la
+discordia nella <citt@a partita> (^Inf.~ VI 61-75); e sar@a ancora
+la cupidigia, dominatrice perversa di Firenze, a spingere i
+fiorentini, resi ciechi, ad opporsi ad Arrigo VII (cfr. ^Ep.~ VI
+5, 12, ecc.).
+
+	|52. QUESTA~, riprende, dopo la prop. relativa, il
+soggetto (^una lupa~), secondo un costrutto non raro nell'it.
+antico.  |PORSE~: diede.  |GRAVEZZA~: angoscia, affanno;
+^gravezza~ ha in s$e l'idea della pesantezza, che trascina gi@u:
+balena perci@o di nuovo, implicitamente, l'immagine della selva
+che Dante, salendo, ha lasciato alle proprie spalle.
+
+	|53. CH'USCIA DI SUA VISTA~: che incuteva il suo
+terrorizzante aspetto (cfr. v. 45).
+
+	|54. DE L'ALTEZZA~: di poter giungere al sommo del colle.  
+
+	|55. E QUAL @E... ACQUISTA.~  Non @e necessario intender,
+in senso negativo, l'avaro: ma chiunque abbia acquisito qualcosa
+con gioia (G. Contini, ^Filologia ed esegesi dantesca~, cit., p.
+35, vede allusione al giocatore: cfr. ^Purg.~ VI 1-2).  Grande
+era stata in Dante la speranza di pervenire alfine nella parte
+illuminata dal sole della grazia; tanto pi@u ora ogni passo
+indietro, ^a poco a poco~, ma inesorabilmente, verso la selva,
+aumenta il suo dolore, reso pi@u vivo dalla consapevolezza di ci@o
+che sta perdendo.
+
+	|56. FACE~: fa; la forma latineggiante si alterna
+all'esito pi@u comune, con minor frequenza ma anche non in rima
+(cfr. ^Inf.~ XXV 132; ^Purg.~ VII 68; ecc.).
+
+	|57. CHE~: cos@i che.  |PIANGE~: rimane assai addolorato.
+
+	|58. SANZA PACE~, perennemente infestata <di tutte
+brame>, senza sosta alcuna.
+
+	|60. L@A DOVE 'L SOL TACE~, nella selva oscura, dove non @e
+la luce della grazia divina (per la bella metafora cfr. ^Thren.~
+2, 18: <neque taceat pupilla oculi tui>; ^Inf.~ V 28).  Cfr.
+^Sap.~ 5, 6: <erravimus a via veritatis, et iustitiae lumen non
+luxit nobis; et sol intelligentiae non est ortus nobis>.
+
+	|61. ROVINAVA.~  Il verbo suggerisce, pi@u che un ritorno
+precipitoso (cfr. infatti v. 59), lo stato d'animo di chi si vede
+costretto a ritornare in quella selva che <non lasci@o gi@a mai
+persona viva>, nella ^ruina~ spirituale (cfr. ^Prov.~ 12, 13; 18,
+7; e, in particolare, 4, 19, tradotto in ^Conv.~ IV vii 9: <Elli
+[i malvagi] non sanno dove rovinano>; e ^Inf.~ XX 35; XXXIII 133;
+^Par.~ XXXII 138).
+
+	|62. DINANZI... OFFERTO~, improvvisamente; @e il primo
+verso della ^Comedia~ in cui compaia Virgilio, e pare risentire
+di una analoga espressione dell'^Eneide~: <mihi se, non ante
+oculis [^ma vari mss.~ -- ^tra cui l'autorevole Laur.~ 31, 9, ^cfr.
+l'edizione critica di R. Sabbadini~ -- ^leggono~: oculos] tam
+clara, videndam / obtulit> (II 589-590).  Da questo verso sino
+alla fine del canto gli echi e le riprese da versi virgiliani, si
+infittiscono e divengono predominanti.  @E stato calcolato che
+Virgilio appare a Dante alle ore 9 (ore 12 del meridiano di
+Gerusalemme; vedi ^Inf.~  VII 98-99): cfr. A. CAMILLI, in ^SD~,
+XXIX, 1950, p. 73; ed anche P. CALIGARIS, in ^Lettere Italiane~,
+IV, 1952, pp. 181-201.
+
+	|63. CHI... FIOCO~: uno che in quel primo momento
+appariva in modo evanescente (cfr. A. Pagliaro, ^Altri saggi~,
+pp. 265-284; G. Getto, ^Il canto I dell' <Inferno>~, Firenze,
+1960); s@i da sembrare, pi@u che un uomo vivo, l'ombra di un morto
+(cfr. v. 66; ed infatti nell'^Eneide~ i fantasmi svaniscono
+<tenues>: II 791, V 740; e per ^fioco~ in questa accezione cfr.
+^Vita Nuova~, XXIII, canz. v. 54: <ed omo apparve scolorito e
+fioco>; ^Inf.~ III 75; vedi R. Dragonetti, in ^SD~, XXXVIII,
+1961, pp. 50-64).  Preferisco questa interpretazione a quella pi@u
+vulgata (<sembrava avere voce affievolita, per essere stato
+lungamente in silenzio>) per la precisazione ^dinanzi agli occhi~
+(da collegare alla corrispondente immagine virgiliana: cfr. la
+nota al v. 62) e per la domanda di cui al v. 66.  D'altra parte,
+@e per lo meno dubbio che l'apparato vocale risulti affievolito
+dal lungo silenzio (e non, invece, dal gridare ad alta voce: per
+cui cfr. ^Ps.~ 68, 4); n$e voce fioca hanno gli altri spiriti del
+Limbo (cfr. ^Inf.~ IV 79).  Occorrerebbe allora, piuttosto,
+intendere allegoricamente, con i primi commentatori, che per
+tanti secoli il messaggio di Virgilio era rimasto inascoltato, o
+che per troppo tempo la voce della ragione aveva taciuto
+nell'autore; e cfr. ^Is.~ 35, 5: <Tunc aperientur oculi caecorum,
+et aures surdorum patebunt>.  L'esegesi secolare dantesca ha
+infatti ravvisato in Virgilio, allegoricamente, la Ragione umana
+priva della fede: cogliendo certamente, almeno in parte, nel
+vero, ch$e in effetti Virgilio per il Medioevo, ma soprattutto per
+Dante (cfr. ^Inf.~ VII 3; VIII 7; ecc.), fu il <savio gentil che
+tutto seppe>, il <mar di tutto 'l senno> (difficilmente per@o ci@o
+spiega, da solo, come mai la Ragione umana priva della fede possa
+essere guida, non solo nel regno della <perduta gente>, ma anche
+sul monte della Penitenza, che @e gi@a regno di fede).  Guida di
+Dante non @e una fredda allegoria, uno di quegli astratti simboli
+tanto cari a certa letteratura medievale (e baster@a citare Alano
+da Lilla), ma Virgilio, considerato nella sua propria dimensione
+umana e storica (<Nacqui sub Julio... >); e proprio lui, e non
+altri sapienti (Aristotele, ad esempio, che @e <maestro e duca de
+la ragione umana>, ^Conv.~ IV iv 8, e <maestro di color che
+sanno>, ^Inf.~ IV 131), perch$e @e il poeta-vate dell'^Eneide~,
+autore cio@e del poema latino che pi@u degli altri aveva raggiunto
+i sommi vertici dell'arte, e che era scritto a celebrazione
+dell'Impero.  Esso, agli occhi dell'Alighieri, era fedele
+testimonianza storica delle peregrinazioni di Enea (il quale,
+secondo molti, e tra questi @e Dante, era realmente disceso agli
+Inferi), cio@e di quel disegno provvidenziale che mirava
+all'instaurazione dell'Impero universale, mentre
+contemporaneamente in Palestina maturavano le altre condizioni
+necessario alla venuta del Messia (cfr. ^Conv.~ IV v 6); da
+questo punto di vista, ^Bibbia~ ed ^Eneide~ si ponevano in
+posizione convergente, essendo l'una il libro sacro dell'Impero.
+Di pi@u: molti lettori medievali, e Dante in primo luogo,
+credevano di avvertire nel capolavoro del vate Virgilio -- anche
+per l'esplicita ammissione di alcuni Padri (cfr. P. Courcelle,
+^Les P@eres de l'Eglise d$evant les Enfers virgiliens~, in
+^Archives d'histoire doctrinale et litt$eraire du Moyen Age~, XXX,
+1955, pp. 5-74) -- echi inconsapevoli e confusi della verit@a
+ebraico-cristiana (e, in particolare, della realt@a
+dell'Oltretomba) che era riuscita a tralucere, sia pure a stento,
+tra la <caligine> dell'errore pagano: perch$e il Dio di tutti non
+solo agli Ebrei ma a tutti aveva continuamente e con vari mezzi
+proposto la vera via; come in fondo era accaduto con l'oracolo
+sibillino, ed anche con la quarta ^Ecloga~, dove il pagano
+Virgilio aveva inconsapevolmente predetto la venuta di Cristo
+(cfr. ^Purg.~ XXII 64-73).  E perci@o la struttura dell'Oltretomba
+virgiliano pot$e apparire non come mera costruzione di fantasia
+poetica o di sistemazione filosofica, ma come descrizione di una
+realt@a che aveva la sua prima origine nella tradizione sibillina:
+realt@a riferita imprecisamente da Virgilio perch$e non derivante
+da diretta esperienza (cfr. ^Aen.~ VI 266), e perch$e filtrata e
+distorta dalle erronee credenze pagane.  In tale quadro di
+interpretazione escatologica dell'^Eneide~ -- che falsa
+profondamente lo spirito e la lettera del poema latino, ma che
+costitu@i l'intuizione fondamentale per la ^Comedia~ dantesca, in
+cui la Nekyia virgiliana @e sostanzialmente accolta, pur se
+sviluppata e precisata in senso cristiano -- poteva prestarsi
+magnificamente ad essere fraintesa, da chi vi ricercasse per
+intima convinzione preannunzi delle credenze cristiane, persino
+la descrizione delle anime purganti desiderose di ritornare in
+cielo (cfr. ^Aen.~ VI 719 sgg., e in particolare 733-740: <Hinc
+metuunt cupiuntque, dolent gaudentque... non tamen omne malum
+miseris nec funditus omnis / corporeae excedunt postes,
+penitusque necesse est / multa diu concreta modis inolescere
+miris. / Ergo exercentur poenis veterumque malorum / supplicia
+expendunt... >; l'accenno successivo al Let@e ci rende certi che
+leggendo questi versi Dante ha elaborato alcuni punti della sua
+concezione del Purgatorio) e poi di reincarnarsi (cfr. ^Aen.~ VI
+749-751: <Has omnis, ubi mille rotam volvere per annos, Lethaeum
+ad fluvium deus evocat agmine magno, / scilicet immemores supera
+ut convexa revisant / rursus et incipiant in corpora velle
+reverti>; e vedi Lattanzio, ^Divinae Institutiones~, VII 22, che
+afferma esplicitamente che Virgilio parla della Resurrezione
+della carne).  @E in questa prospettiva che si colloca
+l'<incontro> di Dante con Virgilio, destinato a rimanere
+fondamentale nella storia della letteratura europea; tanto che il
+poeta cristiano non fa che accogliere, ancora una volta, un cenno
+virgiliano (cfr. ^Aen.~ VIII 670: <secretosque pios, his dantem
+iura Catonem>) quando pone Catone sulla spiaggia del Purgatorio. 
+Non mi pare perci@o utilizzabile in concreto l'indicazione
+dell'Auerbach (^Figura~, in ^Studi su Dante~, pp. 176-226) che
+vuole Virgilio, Beatrice e Catone <figurae futurorum>,
+profigurazioni anagogiche (mentre rimane fondamentale per la
+comprensione della ^Comedia~ il concetto del linguaggio figurale
+illustrato in quello studio).  L'intendere in Virgilio la Ragione
+umana (cfr. ^Purg.~ XVIII 46-48) che <per phylosophica documenta>
+conduce alla felicit@a terrena (<que... per terrestrem paradisum
+figuratur>, ^Mon.~ III xv 7-8) pu@o dunque essere assai utile,
+come tutte le semplificazioni; purch$e si abbia chiara questa
+problematica ben altrimenti complessa; e purch$e si tenga poi
+presente che la grandezza poetica di Dante -- quella che lo stacca
+risolutamente da tutta la tradizione di letteratura allegoristica
+precedente e contemporanea (per cui vedi D. Comparetti, ^Virgilio
+nel Medioevo~, a cura di G. Pasquali, Firenze, 1955; i saggi, di
+vari autori, riuniti in ^Studi medievali~, N. S., V, 1932; e G.
+Padoan, ^Tradizione e fortuna del commento all'<Eneide> di
+Bernardo Silvestre~, in ^Italia medioevale e umanistica~, III,
+1960, pp. 227-240, e bibliogr. ivi cit.) -- sta anche nel suo saper
+fondere i simboli fondamentali per una calda carica di viva
+umanit@a, s@i che il valore allegorico scompare quasi dinanzi alla
+vitalit@a del personaggio: qui, quel che rimane nella memoria del
+lettore non @e il simbolo, ma Virgilio, sollecito, comprensivo,
+amico e maestro insieme, e con quel suo cruccio interno di non
+poter mai godere della visione di Dio, per cosa che egli imputa a
+propria colpa.
+
+	|64. GRAN DISERTO~: la piaggia (cfr. v. 29).  Il poeta
+richiama alla mente del lettore il paesaggio squallido e pauroso
+in cui gli apparve quell'ombra, per far intuire il misto di
+speranza e di timore insieme che lo pervase, a quell'improvvisa
+apparizione.
+
+	|65. MISERERE.~  La forma latina, d'uso comune per la
+frequenza con cui ricorre nella liturgia, @e qui eco virgiliana,
+giacch$e Enea si rivolge alla sibilla proprio dicendo: <Alma,
+precor, miserere> (^Aen.~ VI 117).
+
+	|66. OMBRA~: anima d'uomo morto, come sembri (infatti, se
+non fosse sembrato tale, la domanda non avrebbe senso).  Cfr.
+^Aen.~ II 772: <umbra Creusae>; e vedi ^Purg.~ XXV 79-89.  |OMO
+CERTO~; uomo vivo, in carne ed ossa.
+
+	|67. RISPUOSEMI~, con quel <piglio dolce> che Dante
+ricorda in ^Inf.~ XXIV 20-21.
+
+	|68. PARENTI~: lat., genitori.  |LOMBARDI~, della
+Lombardia (che nel '300 indicava una parte d'Italia ben pi@u vasta
+dell'attuale omonima regione, includendo larghe zone ora del
+Veneto e l'Emilia); ovviamente -- derivando il nome
+dall'occupazione longobarda -- in bocca a Virgilio suona come
+anacronismo.
+
+	|69. MANTOANI.~  La nascita mantovana di Virgilio @e
+ripetutamente ricordata nella ^Comedia~ (cfr. soprattutto ^Inf.~
+XX 55 sgg.), in omaggio a <quel sentimento della citt@a e del suo
+territorio che @e estremamente tipico del Medioevo comunale ed @e
+attivamente operante nel linguaggio della ^Commedia~, dove i
+personaggi sono sempre riconosciuti nella loro origine municipale
+e radicati nella loro terra> (G. Getto, ^Aspetti della poesia di
+Dante~, p. 11).
+
+	|70. SUB IULIO.~  Virgilio nacque nel 70 a.C., ben prima
+dunque che Cesare avesse parte preponderante nella vita pubblica;
+sar@a pertanto da intendere genericamente: ai tempi di Giulio
+Cesare.  |ANCOR CHE FOSSE TARDI.~  Alla morte di Cesare, Virgilio
+contava solo 26 anni, e quindi la sua operosit@a di poeta @e legata
+interamente al nome di Augusto.  L'accostamento dei nomi di
+Cesare, <primo prencipe sommo> (^Conv.~ IV v 12), e di Augusto,
+che fu ^buono~, eccellente nell'adempiere alle sue alte
+responsabilit@a verso l'Impero (cfr. ^Conv.~ IV v 8; ^Par.~ VI
+73-81; e vedi ^Purg.~ XXI 82: il <buon Tito>; XVIII 119: il <buon
+Barbarossa>), non @e dovuto solo a ragioni di precisazione
+cronologica, giacch$e l'uno e l'altro insieme fondarono l'Impero e
+ne rappresentano le virt@u militari e civili (cfr. ^Ep.~ VII 5): e
+il ritratto che di s$e qui delinea Virgilio @e pieno di allusioni
+che mirano ad una indiretta esaltazione imperiale.
+
+	|72. NEL TEMPO DE LI D@EI~, prima dell'avvento di Cristo.
+Virgilio mor@i nel 19 a.C.  |FALSI E BUGIARDI.~  ^Falsi~ perch$e
+non erano veri, e ^bugiardi~ perch$e ingannarono gli uomini; cfr.
+Paul., ^Ad Rom.~ 1, 25: <[homines] commutaverunt veritatem Dei in
+mendacium, et coluerunt et servierunt creaturae potius quam
+Creatori>; S. Agostino, ^De civitate Dei~ II 29: <deos falsos
+fallacesque>; e vedi la nota ad ^Inf.~ IV 48.  I due aggettivi
+dicono tutta l'amarezza (che affiorer@a pi@u volte in Virgilio, nel
+corso delle due prime cantiche) di cui fu coinvolto nell'errore
+(cfr. ^Par.~ VIII 6; XXII 39) del paganesimo, e solo dopo morte,
+troppo tardi ormai, conobbe la verit@a del detto scritturale: <dii
+gentium daemonia> (^Ps.~ 95, 5); ora, relegato per l'eternit@a nel
+Limbo, Virgilio non pu@o pensare alla propria esperienza umana se
+non attraverso la consapevolezza della realt@a cristiana.
+
+	|73. POETA~, in posizione di rilievo, perch$e @e il <nome
+che pi@u dura e pi@u onora> (^Purg.~ XXI 85).  Tutta
+l'autopresentazione di Virgilio @e tenuta su un tono di alta
+solennit@a, per suggestione di quel sommo modello di stile che
+Dante tanto ammirava nel grande poeta latino, <nostra maggior
+Musa> (^Par.~ XV 26).
+
+	|74. FIGLIUOL D'ANCHISE~, Enea, <quo iustior alter / nec
+pietate fuit nec bello maior et armis> (^Aen.~ I 544-545, cit. in
+^Mon.~ II iii 8; e vedi ^Conv.~ IV xxvi 14).  |CHE VENNE DI
+TROIA.~  Cfr. ^Aen.~ I 1-2: <Troiae qui primus ab oris / Italiam
+fato... venit>.  L'uso della prep. ^di~ nel compl. di moto da
+luogo @e comune nell'it. trecentesco.
+
+	|75. SUPERBO IL,I$ON.~ Cfr. ^Aen.~ III 2-3: <superbum
+Ilium>; in quell'aggettivo (che in Virgilio assume valore di
+<nobile>: cfr. A. Ronconi, ^Interpretazioni grammaticali~,
+Padova, 1958, pp. 82-83) l'esegesi medievale dell'^Eneide~ vide
+una valutazione morale, s@i che l'incendio di Troia, anche per
+l'analogia con i castighi biblici, pot$e essere additato da Dante
+come esempio di superbia punita (cfr. ^Purg.~ XII 61-63).  Ilio
+era la rocca di Troia: qui indica tutta la citt@a.  |COMBUSTO~:
+arso (@e verbo biblico, usato per lo pi@u, appunto, per indicare la
+distruzione di citt@a: cfr. A. Ronconi, in ^SD~, XLI, 1964, p.31).
+
+	|76. NOIA~: angoscia, qual'@e data dalla selva selvaggia,
+cui si contrappone il <monte dilettoso>.
+
+	|78. PRINCIPIO... DI TUTTA GIOIA~: inizio e causa,
+insieme, della completa letizia (cfr. Ioann. ^I Ep.~ I 4:
+<gaudium... plenum>), in quanto @e felicit@a terrena e prepara alla
+felicit@a celeste.  La domanda pu@o parere pleonastica (quasi
+Virgilio non si avvedesse della lupa: ma cfr. vv. 95-96): essa
+mira per@o a ribadire che non per propria deliberata scelta Dante
+aveva rinunziato ad ascender il colle.
+
+	|79. QUEL~, quel famoso Virgilio, con l'accezione del
+lat. <ille> (cfr. ^Aen.~ I 617: <Tune ille Aeneas quem...?>). 
+Nel sapersi di fronte al grande poeta, da lui tanto ammirato,
+Dante non sa celare sorpresa, emozione, devozione.  |FONTE~:
+sorgente di eloquenza; cfr. Ovidio, ^Amor.~ III 9: <a quo
+[Homero], ceu fonte perenni, / vatum Pieriis ora rigantur aquis>;
+^Conv.~ I i 9: <coloro che sanno... sono quasi fonte vivo>;
+^Par.~ XXIV 9 e 57.
+
+	|81. LUI~: a lui.  |CON VERGOGNOSA FRONTE~: in
+atteggiamento stupito; cfr. ^Conv.~ IV xxv 4-5: <Dico che per
+vergogna io intendo tre passioni necessarie al fondamento de la
+nostra vita buona: l'una si @e stupore, l'altra si @e pudore, la
+terza si @e verecundia... lo stupore @e uno stordimento d'animo per
+grandi e maravigliose cose veder o udire o per alcuno modo
+sentire>.
+
+	|82. ONORE E LUME~, perch$e egli, che @e <lo maggiore
+nostro poeta> (^Conv.~ IV xxvi 8), fa onore all'ideale stesso
+della poesia, e con il suo esempio @e maestro agli altri scrittori
+(cfr. ^Purg.~ XXI 94-96: <le faville / ...de la divina fiamma, /
+onde sono alluminati pi@u di mille; / de l'Ene,ida dico... >).  Nel
+nome della poesia Dante riconosce sempre e subito l'intima
+parentela spirituale che lo lega strettamente agli altri
+letterati, ma tra tutti singolarmente a Virgilio.  Cfr. ^Inf.~ II
+114; e vedi la nota ad ^Inf.~ IV 72.
+
+	|83. VAGLIAMI~: mi giovi, rendendomi meritevole del tuo
+aiuto.  @E alto elogio all'opera di Virgilio, che si dichiara
+sull'onda di una effusione di affetto quasi filiale, ed insieme
+ferma consapevolezza della propria passione per la poesia e delle
+proprie capacit@a artistiche.  |STUDIO~: <studio... @e applicazione
+de l'animo innamorato de la cosa a quella cosa> (^Conv.~ II xv
+10).  |LUNGO... GRANDE.~  I due aggettivi hanno qui una funzione
+tutt'altro che esornativa ed amplificativa; davvero Dante cerc@o
+di intendere l'^Eneide~ con passione che non trova riscontro in
+alcun altro lettore, non solo del suo tempo: anche se la studi@o
+secondo gli schemi e le convinzioni della cultura medievale,
+vedendovi profusi i beni pi@u alti dell'intelletto umano,
+sapienza, poesia, moralit@a (cfr. la nota al v. 63); e la
+^Comedia~, come nessun altro poema, @e intimamente,
+indissolubilmente legata al poema virgiliano.
+
+	|84. CERCAR~: studiare assiduamente, per conoscerlo e
+capirlo fino in fondo; cfr. ^Par.~ XII 121.  |LO TUO VOLUME~: la
+tua opera (per questa accezione di ^volume~ cfr. ^Conv.~ III xi
+3), cio@e per antonomasia l'^Eneide~, che Dante proclama di
+conoscere a fondo <tutta quanta> (^Inf.~ XX 114).  Di Virgilio
+Dante ricorda anche le ^Bucoliche~ (in ^Ep.~ VII 6, ^Mon.~ I xi
+1, e soprattutto in ^Purg.~ XXII 57 sgg.), che anzi imita nelle
+sue ^Egloghe~; nessun cenno invece alle ^Georgiche~ ed ai
+poemetti della cosiddetta ^Appendix vergiliana.~
+
+	|85. MAESTRO~, da cui appresi il magistero dell'arte
+poetica.  |AUTORE.~  <In quanto 'autore' viene e discende da
+questo verbo [^auieo~], si prende solo per li poeti, che con
+l'arte musaica le loro parole hanno legate... L'altro principio,
+onde 'autore' discende, s@i come testimonia Uguiccione nel
+principio de le sue ^Derivazioni~, @e uno vocabulo greco che dice
+'autentin', che tanto vale in latino quanto 'degno di fede e
+d'obedienza.'  E cos@i 'autore', quinci derivato, si prende per
+ogni persona degna d'essere creduta e obedita> (^Conv.~ IV vi
+4-5; la fonte, ripresa quasi alla lettera, @e Uguccione,
+^Derivationes~, s. v. ^augeo~; per Uguccione e Dante vedi P.
+Toynbee, ^Ricerche e note dantesche. Serie II~, Bologna, 1904,
+pp. 25-45; C. RIESSNER, ^Die <Magnae Derivationes> des Uguccione
+da Pisa~, Roma, 1965, pp. 85-101); e dunque Virgilio @e <autore>
+in quanto @e poeta, ma soprattutto in quanto le sue parole sono di
+<somma ed altissima autoritade>, degne di fede.  Il verso
+dichiara la particolare reverenza, che il tono commosso vela di
+devoto affetto, con cui Dante ha letto l'opera del maestro e ne
+ha tratto frutto.  Sulle diverse interpretazioni che Dante d@a,
+nel suo cammino dal ^Convivio~ alla ^Comedia~, della poesia e del
+<messaggio> virgiliano, vedi B. Nardi, ^Saggi e note~, pp.
+220-237.
+
+	|86. SOLO~: tu solo, non altri; ed @e affermazione di
+notevole rilievo.  |TOLSI.~  @E dichiarazione di umilt@a, ma
+contemporaneamente anche di consapevole fierezza, come appare
+anche dall'aggettivo ^bello~ (cfr. ^Conv.~ II, canz. v. 61:
+<Ponete mente almen com'io son bella!>).  Anche nel ^De vulgari
+eloquentia~ il principio dell'imitazione dei grandi poeti @e posto
+come essenziale all'arte: <Idcirco accidit ut, quantum illos
+[magnos poetas] proximius imitemur, tantum rectius poetemur> (II
+iv 3).
+
+	|87. STILO~: stile; pi@u consona alla terminazione latina,
+@e la forma consueta nell'it. trecentesco.  Dante, non potendo per
+ovvii motivi di finzione cronologica ricordare qui la stessa
+^Comedia~, menziona le proprie canzoni dottrinali, composte in
+stile <tragico>, cio@e elevato (onde l'^Eneide~ @e una <traged@ia>:
+cfr. ^Inf.~ XX 113, e vedi qui la nota al titolo): che furono un
+momento essenziale nella maturazione di quello stile che approda
+all'esperienza della ^Comedia.~  <Si tragice canenda videntur,
+tunc adsumendum est vulgare illustre, et per consequens cantionem
+oportet ligare....  Stilo equidem tragico tunc uti videmur,
+quando cum gravitate sententie tam superbia carminum quam
+constructionis elatio et excellentia vocabulorum concordat> (^De
+vulg. eloq.~ II iv 6-7).  |ONORE~, @e il sostantivo che pi@u si
+lega al nome di poeta; in questi primi canti, soprattutto: cfr.
+v. 82; II 114; IV 72 sgg.
+
+	|88. LA BESTIA~, la lupa, che riassume in s$e anche le
+altre fiere: <radix enim omnium malorum est cupiditas> (Paul ^I
+Ad Tim.~ 6, 10).
+
+	|89. FAMOSO SAGGIO.~  La poesia era considerata nel
+Medioevo indissolubile dalla sapienza (cfr. ^Vita Nuova~, XX,
+son. v. 2: Guinizelli @e <il saggio>; e per i poeti antichi:
+^Inf.~ IV 110; ^Purg.~ XXIII 8; XXVII 69; XXXIII 15).  L'^Eneide~
+era celebrata appunto come il poema di pi@u alta sapienza umana,
+soprattutto per il libro VI; cfr ^Inf.~ VII 3: <quel savio gentil
+che tutto seppe>.
+
+	|90. I POLSI~, dovunque normalmente il pulsare del sangue
+@e pi@u evidente, e pi@u manifesto pu@o dunque apparire l'orgasmo
+interno; cfr. ^Vita Nuova~ II 4: <lo spirito de la vita... 
+cominci@o a tremare s@i fortemente che apparia ne li menimi polsi
+orribilmente>; e ^Purg.~ XI 138.  <Triemano le vene e' polsi
+quando dal sangue abandonate sono; il che avviene quando il cuore
+ha paura> (Boccaccio).
+
+	|91. CONVIEN... ALTRO V,IAGGIO~: @e necessario che tu segua
+altra via dal <corto andar> del monte (^Inf.~ II 120), ora reso
+impossibile dalla lupa: la via segnata dal disegno
+imperscrutabile della Provvidenza, affinch$e Dante possa poi
+riferire agli uomini quanto ha visto.  Per l'espressione cfr.
+^Aen.~ I 370 (e IX 377): <quove tenetis iter?>.
+
+	|92. LAGRIMAR~, tanto @e forte in Dante il dolore d'esser
+ricacciato gi@u dalle balze del colle.  <Beati qui lugent, quoniam
+ipsi consolabuntur> (^Matth.~ 5, 5); e cfr. ^Ep.~ V 15.
+
+	|93. CAMPAR~: uscire spiritualmente vivo.  |D'ESTO LOCO
+SELVAGGIO~: da questa selva selvaggia; cfr. v. 5 e nota.
+
+	|94. BESTIA~: fiera, cio@e la lupa.  |GRIDE~: gridi (con
+desinenza non rara nell'it. due-trecentesco; cfr. gli esempi
+addotti da E. G. Parodi, ^Lingua e letteratura~, II, p. 253),
+invocando soccorso; cfr. v. 65.
+
+	|95. NON LASCIA... VIA~: non lascia passare alcuno; tra
+la selva, <che non lasci@o gi@a mai persona viva>, e la lupa, che
+non lascia passare chi, seguitando la propria via (cfr. v. 95),
+tenti di salire al colle, non vi @e possibilit@a di scampo.  Poich$e
+alla vacanza dell'Impero corrisponde l'inerzia della Chiesa (cfr.
+^Ep.~ VI 3, cit. in nota al v. 49), la cui attuale corruzione
+anzi agevola enormemente l'opera dissolutrice della cupidigia,
+agli uomini, privi di ogni guida, @e preclusa la via alla felicit@a
+terrena, che introduce all'eterna.  In questa diagnosi dantesca
+non @e difficile ravvisare un certo influsso delle idee
+gioachimitiche (cfr. particolarmente ^Purg.~ XXXIII), diffuse
+negli ambienti minoriti, le quali predicavano contro la
+degenerazione della Chiesa e l'imperante corruzione, predicendo,
+con l'^Apocalissi~, l'avvento di un Messo celeste che avrebbe
+preparato il ritorno giustiziere di Cristo (cfr.  ^Apoc.~ 17-19).
+In questa intima convinzione -- presente dunque gi@a in questo primo
+canto, e che successivamente sar@a meglio precisata e
+radicalizzata -- sta il significato profondo che Dante vuol far
+assumere al suo poema, le ragioni della missione che egli ritiene
+essergli affidata dal Cielo (cfr. soprattutto ^Purg.~ XXXII 103-
+105, e ^Par.~ XXVII 64-66): giacch$e la ^Comedia~, nel riferire
+agli uomini la visione avuta da Dante, ha come fine <removere
+viventes in hac vita de statu miserie et perducere ad statum
+felicitatis> (^Ep.~ XIII 39>.  Il Pietrobono, nei suoi vari
+saggi, insiste nell'indicare nella lupa il rinnovato peccato
+originale, che macchia l'intera umanit@a: ed @e tesi che -- al di l@a
+della forzatura -- ha una parte di vero (cfr. ^Purg.~ XXXIII 57). 
+Sul problema, capitale, dell'escatologismo medievale e sui
+fermenti gioachimiti in quegli anni vedi R. MANSELLI, ^La
+<lectura super Apocalipsim> di Pietro di Giovanni Olivi~, Roma,
+1955 (<Ist. Stor. It. per il Medio Evo>, Studi Storici, fasc.
+19-21).
+
+	|96. 'MPEDISCE.~  <O cupidigia che i mortali affonde / s@i
+sotto te, che nessuno ha podere / di trarre li occhi fuor de le
+tue onde!> (^Par.~ XXVII 121-123).
+
+	|97. RIA~, ha la medesima accezione di ^malvagia~, ma con
+una sfumatura di maggior gravit@a; entrambi gli aggettivi stanno a
+sottolineare la natura diabolica della fiera.
+
+	|98. MAI NON EMPIE.~  <E per@o dice Tullio [Cicerone] in
+quello ^De Paradoxo~ [I]... in nullo tempo si compie n$e si sazia
+la sete de la cupiditate> (^Conv.~ IV xii 6, e vedi anche 9-10);
+^Purg.~ XX 10-12: <Maladetta sie tu, antica lupa, /che pi@u di
+tutte l'altre bestie hai preda / per la tua fame sanza fine
+cupa!>.
+
+	|99.~ Cade cos@i anche l'ultima speranza, che la lupa,
+alfine sazia, possa lasciar passare almeno qualcuno.
+
+	|100.  LI ANIMALI~: gli uomini, i viventi (cfr. ^Inf.~ V
+88; ^Purg.~ XXIX 138; ^Par.~ XIX 85).  |A CUI S'AMMOGLIA.~  La
+cupidigia @e male radicato in molti uomini, ma soprattutto negli
+ecclesiastici (cfr. ^Inf.~ VII 46-48); in particolare, l'avidit@a
+della Curia di possedere beni terreni, spingendo la Chiesa ad
+opporsi all'Impero, e quindi ad appoggiare la disobbedienza di
+regni (particolarmente la Francia) e di citt@a (particolarmente
+Firenze) alla somma potest@a imperiale, @e causa del generale
+decadimento morale e politico.  Il quadro pessimistico qui
+tracciato dal poeta si inserisce in un momento di acuta crisi
+religiosa (cui per@o Dante attribuisce cause anche, e direi
+prevalentemente, politiche), tale che a non pochi, soprattutto
+tra i minoriti spirituali, parve che in quegli anni si toccasse
+il fondo della sentina.
+
+	|101. E PI@U SARANNO.~  Questa precisazione rafforza
+l'interpretazione qui accolta del v. 100: non si capirebbe
+altrimenti perch$e dovrebbe ora unirsi ad un crescente numero di
+bestie, simboli di vizi, quella cupidigia che da sempre @e <radix
+omnium malorum> (Paul. ^loc. cit.~).  @E invece l'area della
+corruzione umana che si dilata sempre pi@u, come un cancro
+maligno; tanto che nel 1314 Dante scriver@a non pi@u <molti>, ma
+<ognuno>: <Cupiditatem unusquisque sibi duxit in uxorem,
+quemadmodum et vos [cardinales], que... semper impietatis et
+iniquitatis est genitrix> (^Ep.~ XI 14).  |VELTRO.~  <@E il veltro
+una spezie di cani maravigliosamente nimica de' lupi>
+(Boccaccio); e a questo vorr@a riferirsi il poeta, pi@u che
+all'idea tradizionale del cane custode del gregge.  L'indicazione
+@e volutamente indeterminata, come @e proprio del linguaggio
+profetico (cfr. ^Purg.~ XXXIII 46), che in questo caso @e
+reminiscenza, oltre che biblica, virgiliana (cfr. ^Ecl.~ IV:
+naturalmente nell'interpretazione corrente nel Medioevo ed
+accolta da Dante, vedi ^Purg.~ XXII 70-72).  Dante perci@o,
+scrivendo questi versi, non vuole indicare una personalit@a ben
+determinata (@e quindi inutile ricordare qui le numerose
+<identificazioni> -- un Ordine religioso, Cristo, Benedetto XI,
+Arrigo VII, Uguccione della Faggiuola, Cangrande della Scala,
+Dante stesso, ecc. -- tutte prive di saldo fondamento), ma
+genericamente un uomo che, ristabilendo con l'aiuto divino le
+ragioni dell'Impero e riconducendo la chiesa nel giusto solco
+della sua missione spirituale, riducesse regni e citt@a alla tanto
+sospirata pace, cancellando perci@o le cause della generale
+corruzione ed estirpando le radici stesse della cupidigia.  Si @e
+discusso molto, fin dai primi commentatori, se il poeta volesse
+alludere qui all'avvento di un imperatore o di un papa angelico. 
+Gi@a nel libro IV del ^Convivio~ (1307) Dante aveva avvertito la
+necessit@a dell'imperatore che <li regi tegna contenti ne li
+termini de li regni, s@i che pace intra loro sia, ne la quale si
+posino le cittadi, e in questa posa le vicinanze s'amino, in
+questo amore le case prendano ogni loro bisogno, lo qual preso
+l'uomo viva felicemente> (IV iv 4; e cfr. ^Mon.~ I xi 12), e nel
+1310, quando Arrigo VII discese in Italia, egli credette di
+potervi riconoscere il <dux> biblico inviato dal Cielo (cfr. 
+^Apoc.~ 18, 1; e ^Purg.~ XXXIII 43-44), quasi un novello Mos@e:
+<Ecce nunc tempus acceptabile... > (^Ep.~ V 1 sgg.): caduta
+definitivamente quella speranza, alla morte di Clemente V (1314)
+egli vagheggi@o l'elezione di un papa italiano che, riconducendo
+la sede papale a Roma e liberando la Curia dall'influenza
+francese, potesse aspirare ad un'opera di profondo rinnovamento:
+se in quel periodo, invero breve, Dante pot$e forse pensare al
+veltro come ad un pontefice, l'elezione di Giovanni XXII valse
+poi a togliergli ogni residua illusione; sicch$e nelle due
+cantiche successive la soluzione imperiale rimane l'unica aperta. 
+Non @e impossibile che questa <profezia> sia stata pi@u volte
+leggermente ritoccata, prima della pubblicazione, per adeguarla
+ai vari sviluppi della situazione; se alcuni particolari
+(soprattutto il v. 105) possono far pensare al riformatore
+religioso, rimane il fatto che essi sono peraltro addotti da
+Virgilio, che @e l'esaltatore per eccellenza dell'Impero, ed
+inseriti in un contesto che, celebrando <Cammilla, Eurialo e
+Turno e Niso>, intende celebrare la missione imperiale.
+
+	|102. MORIR~, riaprendo perci@o agli uomini la via della
+felicit@a terrena, e preparando il mondo, come gi@a fece Augusto,
+al nuovo avvento di Cristo (cfr. ^Apoc.~ 19, 1 sgg.).  Nella
+^Monarchia~ l'imperatore @e per definizione l'avversario della
+cupidigia (I xi 11 sgg.), e il suo compito supremo @e appunto di
+ristabilire la pace <sedatis fluctibus blande cupiditatis> (III
+xv 11), permettendo agli uomini di conseguire la <beatitudinem
+huius vite que... per terrestrem paradisum figuratur> (^Mon.~ III
+xv 7).
+
+	|103. CIBER@A TERRA~: non ricercher@a per s$e dominio di
+terra, e quindi, pi@u generalmente, potere; <cibare terra> nel
+linguaggio biblico ha un significato spregiativo (cfr. ^Gen.~ 3,
+14; e vedi anche ^Eccle.~ 5, 10; ^Osee~, 4, 8: <peccata... 
+comedent>); e vedi ^Inf.~ VI 26-27.  |PELTRO~, vile metallo, per
+indicare spregiativamente il denaro.  Terra e <stannum> sono le
+scorie per cui si @e corrotto il buon argento, cio@e la citt@a
+giusta ora perversa: <excoquam ad purum scoriam tuam, et auferam
+omne stannum tuum> (^Is.~ 1, 25).  Il veltro non sar@a dunque
+pervaso da quell'avidit@a di potere e da quella ingordigia di
+ricchezze che dominano la mente e il cuore soprattutto dei
+prelati simoniaci (cfr. ^Inf.~ XIX).  Nel ^Convivio~ la garanzia
+della giustizia dell'imperatore @e vista appunto nel fatto che
+egli, <tutto possedendo, e pi@u desiderare non possendo>, non pu@o
+volere per s$e maggiori vantaggi materiali (IV iv 4).  Cfr.
+l'accostamento operato dal Contini (in ^Filologia ed esegesi
+dantesca~, cit., p. 34) con ^Par.~ XVII 83-84: <la sua virtute /
+in non curar d'argento n$e d'affanni> (riferito a Cangrande).
+
+	|104. SAP,IENZA, AMORE E VIRTUTE~: ricercher@a la saggezza,
+la carit@a e la virt@u (cfr. ^Ecclesi.~ 15, 3: <Cibabit illum [qui
+timet Deum] pane vitae et intellectus, et aqua sapientiae
+salutaris potabit illum>); Pietro Alighieri intende anzi, pi@u
+particolarmente, ^Sapienzia, Amore e Virtute~, cio@e la Trinit@a
+(cfr. ^Inf.~ III 5-6; ed invero <cibarsi di dio> @e immagine tra
+le pi@u peculiari del Nuovo Testamento, tanto che Ges@u @e appunto
+il <panis vitae>, ^Ioann.~ 6, 35): e chi ricerca la giustizia,
+ricerca Dio, che @e Giustizia.  Questo verso pu@o indurre ad
+identificare nel veltro un uomo di religione; ma non esclude
+perci@o il monarca vagheggiato da Dante, che ha l'autorit@a
+dell'imperatore romano e lo spirito religioso del re biblico,
+essendo <Dei minister et Ecclesie filius et Romane glorie
+promotor> (cfr. ^Ep.~ VII 8), s@i che il poeta non si perita di
+accostare con ardite analogie Arrigo VII allo stesso Cristo (cfr.
+^Ep.~ VI 25; VII 10); mentre sapienza (cfr. ^Conv.~ IV vi 18;
+^Ep.~ VII 29; ^Par.~ XIII 95-96), amore e virt@u (cfr. ^Purg.~ X
+74; ^Par.~ XX 108-117; ^Ep.~ VII 2; ^Mon.~ I xi 11-18; xii 9;
+xiii 6) sono doti inseparabili dalla perfetta autorit@a imperiale
+(e cfr. la canzone di Cino da Pistoia in morte di Arrigo VII).
+
+	|105. NAZION~: nascita (cfr. ^Ecclesi.~ 10, 22; il
+termine, peraltro, @e usato in genere in riferimento al lignaggio,
+se nobile o meno: cfr. ^Conv.~ IV, canz. v. 63; ^Par.~ XIX 138). 
+|TRA FELTRO E FELTRO.~  Altra allusione volutamente oscura e
+tormentatissima dai commentatori.  Gi@a i primissimi esegeti
+registrano varie possibili interpretazioni.  Jacopo Alighieri
+(1322 circa) chiosa: <tra cielo e cielo>, intendendo perci@o che
+la nascita del veltro debba avvenire in particolari condizioni
+astrologiche (cfr. infatti ^Purg.~ XX 13-15: <O ciel, nel cui
+girar par che si creda / le condizion di qua gi@u trasmutarsi, /
+quando verr@a per cui questa [lupa] disceda?>; e vedi ^Vita Nuova~
+XXIX; ^Conv.~ IV v 7-8; mentre una proposta recente, per lo meno
+curiosa, ha indicato che nei dipinti la costellazione dei Gemelli
+@e rappresentata dai <pilleati fratres>, Castore e Polluce con un
+copricapo di feltro: cfr. L. Olschki, ^Tra feltro e feltro~,
+Roma, 1952); lo stesso Jacopo riferisce poi, negando per@o
+recisamente che tale possa esser stato il pensiero del padre, che
+secondo altri quell'espressione indicherebbe che il veltro <di
+gentil nazion non possa esser>, essendo il feltro (affermano
+concordi i primi commentatori) un panno vilissimo: questa
+interpretazione gode di notevole credito presso gli esegeti
+moderni, ed @e l'elemento di maggior peso a favore dell'ipotesi
+che vede nel veltro un papa riformatore (ma potrebbe anche
+significare, pi@u semplicemente, che sua virt@u precipua sar@a
+l'umilt@a, cara a Dio e nemica della superbia: cfr. ^Ecclesi.~ 10,
+22); mentre il Torraca nel suo commento adduce esempi di feltri
+preziosi (<un feltro imperiale>), cio@e tappeti orientali. 
+Occorre infine ricordare una terza spiegazione (troppo precisa,
+l@a dove invece @e richiesta genericit@a), registrata gi@a da Pietro
+Alighieri: ^tra Feltro e Feltro~, cio@e tra Montefeltro in Romagna
+e Feltre nel Bellunese (cfr. ^Par.~ IX 52; vedi A. Camilli, in
+^SD~, XXIX, 1950, pp. 185-187); essa ha dato adito a varie
+<identificazioni> (Uguccione della Faggiuola, Cangrande della
+Scala, ecc.), tutte per@o inaccettabili ciascuna per forti motivi,
+storici o cronologici.  Infine pi@u ingegnosa che vera pare anche
+a me, come al Sapegno, la recente spiegazione che vorrebbe
+vedervi riferimento alle urne foderate di feltro per l'elezione
+dei magistrati (cfr. A. Regis, in ^SD~, IV, 1921, pp. 85-97),
+accolta da F. Mazzoni, ^Saggio di un commento~, p. 134, che pensa
+all'elezione di Arrigo VII.
+
+	|106. UMILE.~  L'aggettivo, come suggerisce anche il
+contesto, @e virgiliano (cfr. ^Aen.~ III 522-523: <humilem... 
+Italiam>, dove sta ad indicare le coste basse del Salentino;
+dall'esegesi medievale esso fu interpretato in senso morale, in
+contrapposizione positiva al <superbum Ilium>: cfr. ^Inf.~ I 75 e
+nota); perci@o non mi pare che debba qui intendersi <misera> (per
+cui cfr. ^Ep.~ V 5; VI 3; XI 23; ^Purg.~ VI 85), come vogliono i
+commentatori moderni: ^umile~ sta a definire in senso positivo
+quell'Italia che, per la sua storia e per la funzione assegnatale
+dalla Provvidenza, entrambe esaltate da Virgilio nell'^Eneide~, @e
+meritevole di non esser lasciata nello stato di confusione
+politica in cui versa.  |ITALIA.~  Dante parla, pi@u di ogni
+altro, di Impero: ma in realt@a egli pensa esclusivamente
+all'Italia; parla dell'Italia, e pensa a Firenze.  |FIA SALUTE~:
+sar@a salvezza (cfr. ^Ps.~ 17, 28; 34, 3; ecc.).  E vedi ^Ep.~ V
+5-6: <Letare iam nunc miseranda Ytalia... nam prope est qui
+[Henricus VII] liberabit te de carcere impiorum>.
+
+	|107. CAMMILLA~: Camilla, <decus Italiae, virgo> (^Aen.~
+XI 508; ^vergine~ perch$e consacratasi a Diana: ^Aen.~ XI 582-
+584), figlia di Metabo, re dei Volsci, alleata di Turno, mor@i
+combattendo i Troiani (^Aen.~ XI 532-835).
+
+	|108.~ ^Eurialo~ e ^Niso~, i due amici troiani,
+protagonisti di un famoso episodio dell'^Eneide~, morirono
+durante una sortita notturna (^Aen.~ IX 176-502).  ^Turno~,
+principe dei Rutuli e rivale di Enea, che lo uccise (^Aen.~ XII
+697-502).  Sono tutti eroi virgiliani, caduti valorosamente in
+battaglia o in duello (^di ferute~: per ferite), dell'una e
+dell'altra parte, citati di proposito alternativamente, a
+manifestare per loro pari simpatia: perch$e il sangue versato
+dagli uni e dagli altri fu il fatale pegno dell'avvento della
+nuova stirpe (<tantae molis erat romanam conder gentem!>, ^Aen.~
+I 33), nata <de Troyanorum Latinorumque semine> (^Ep.~ V 11),
+fondatrice di Roma e quindi dell'Impero (^Aen.~ XII 821-840;
+^Mon.~ II ix 15).  Cammilla @e poi ricordata tra gli Spiriti magni
+del Limbo (^Inf.~ IV 124), con Latino e Lavinia, strumenti, come
+tutti i protagonisti di quella guerra, del disegno
+provvidenziale.  (Curiosamente, non @e ricordato n$e qui n$e al
+canto IV Pallante: omissione cui si porr@a riparo in ^Par.~ VI 36;
+e vedi ^Mon.~ II ix 14).
+
+	|109. QUESTI.~  Ripete enfaticamente il pronome del v.
+103.  |PER OGNE VILLA~: di citt@a in citt@a, via da ogni luogo.
+
+	|110. NE LO 'NFERNO~, come per il drago di ^Apoc.~ 20, 3.
+
+	|111. L@A... DIPARTILLA~: l@a da dove il diavolo primamente
+la fece uscire (il demonio era tradizionalmente indicato come
+l'invidioso nemico dell'uomo; cfr. ^Gen.~ 3, 1; ^Sap.~ 2, 24:
+<invidia diaboli mors introivit in orbem terrarum>).  Anche in
+^Ep.~ VII 3, Dante attribuisce il grave stato di disordine
+politico e morale al <livor antiqui et implacabilis hostis>.  Per
+la posizione nel verso preferisco intendere ^prima~ avverbio
+(anzich$e: ^invidia prima~, Lucifero).
+
+	|112. ME'~: mei, cio@e meglio (cfr. ^Inf.~ II 36; ecc.):
+per il tuo vantaggio.  |DISCERNO~: giudico (lett.: vedo con
+chiarezza); Virgilio precisa, con risolutezza, il precedente
+^penso~, credo.
+
+	|114. PER LOCO ETTERNO~, attraverso l'Inferno (il
+Purgatorio durer@a fino al Giudizio universale: cfr. ^Purg.~ X
+111).  Per la grafia <etterno> vedi A. Schiaffini, in ^SD~, XIII,
+1928, p. 34.
+
+	|115. UDIRAI~, sottolinea, con il successivo ^vedrai~, le
+dirette percezioni sensoriali che costituiranno gran parte della
+<guerra / s@i del cammino e s@i de la pietate> (^Inf.~ II 3-4) di
+quella eccezionale esperienza; e <vedere> e <udire> sono verbi
+che scandiranno, come un drammatico ed ossessivo ^leit-motiv~,
+tutta la cantica.  |DISPERATE~: prive di ogni speranza, anche
+minima ed assurda.  |STRIDA~ d@a l'idea del grido di dolore non
+pi@u umano ma animalesco: breve ma gi@a lacerante preludio di
+quell'orrore infernale che sar@a descritto nel canto III.
+
+	|116. ANTICHI~, <quia peccaverunt ab initio seculi citra>
+(Benvenuto).  Dante chiama <antichi> anche gli uomini della
+generazione precedente alla sua (cfr. ^Purg.~ XXVI 124).
+
+	|117. CH'A... GRIDA~, tanto che ognuno proclama con il
+proprio dolore la dannazione eterna (cfr. ^Apoc.~ 2, 11; 20, 14;
+21, 8: <pars illorum erit in stagno ardenti igne et sulphure:
+quod est mors secunda>; S. Francesco, ^Cantico di frate Sole~ 31;
+e soprattutto il dantesco ^Ep.~ VI 5: <terror secunde mortis>:
+riscontri che rendono difficilmente sostenibile l'altra
+interpretazione corrente, <l'annullamento totale>, per cui cfr.
+tuttavia ^Inf.~ XIII 118.  E cfr. anche la voluta antitesi con la
+successiva terzina: ^disperate / speran; dolenti / contenti;
+seconda morte / beate genti~).
+
+	|119. FOCO.~  Il fuoco purificatore @e il simbolo delle
+pene purgatoriali, e tutte le riassume in s$e: cfr. ^Purg.~ XXVII
+127 (<il temporal foco [il Purgatorio] e l'etterno [l'Inferno]>).
+
+	|120. QUANDO CHE SIA~, scontato il periodo, pi@u o meno
+lungo, della loro pena.
+
+	|121. A LE QUAI~: alle quali beate genti.
+
+	|122. FIA~: sar@a; guida nel Paradiso terrestre e poi al
+Cielo sar@a l'anima beata di Beatrice; questa prima allusione di
+Virgilio a lei @e mantenuta nella genericit@a per trattarne pi@u
+diffusamente nel canto successivo.  Questo @e dunque il soggetto
+della ^Comedia~: secondo il senso letterale, il considerare
+(narrando agli altri uomini ci@o che egli durante il viaggio ha
+veduto ed udito: cfr.  ^Par.~ XXVII 64-66) lo <status animarum
+post mortem simpliciter sumptus>; e, secondo il senso allegorico,
+il mostrare come <homo prout merendo et demerendo per arbitrii
+libertatem iustitie premiandi et puniendi obnoxius est> (^Ep.~
+XIII 24-25).
+
+	|123. NEL MIO PARTIRE.~  Cfr. ^Purg.~ XXX 49 sgg.
+
+	|124. IMPERADOR~, Dio, secondo una immagine consueta per
+indicare l'Onnipossente (cfr. ^Par.~ XII 40), ma qui
+particolarmente insistita (vv. 124-128).
+
+	|125. RIBELLANTE~: ribelle, perch$e non prest@o fede al
+Vecchio Testamento, che puro Dio aveva dato agli uomini; cfr.
+^Inf.~ IV 37-39 e note.
+
+	|126. 'N SUA CITT@A~, in Paradiso.  |PER ME~, da me (sulla
+prep. ^per~ con il compl. d'agente vedi ^Purg.~ III 125; VII 6;
+ecc.), cio@e: che io vi salga.
+
+	|127. IN TUTTE... REGGE.~  Il suo potere @e esteso a tutto
+il creato, e in Paradiso @e la sua corte; cfr. ^Is.~ 66, 1.
+
+	|128. CITT@A.~  La ripetizione vuol rivelare il rammarico
+di chi sa di esser escluso per l'eternit@a dalla visione
+beatifica: cfr. ^Purg.~ III 40-42.  |L'ALTO SEGGIO~, il trono;
+cfr. ^Ps.~ 9, 5: ^Apoc.~ 4, 1 sgg.
+
+	|129. COLUI... ELEGGE!~: colui che Dio sceglie,
+ammettendolo alla beatitudine del Paradiso.  Il tono di
+tristezza, sotteso a questi versi, vibra pi@u intensamente in
+questa esclamazione.
+
+	|130. POETA.~  Questo vocativo, che assume in Dante un
+particolare valore, di reverenza e di elogio insieme, ricorre
+singolarmente solo in questi primi canti (cfr. ^Inf.~ II 10; V
+73; e vedi I 82), per cedere poi il passo al pi@u usuale
+<Maestro>, che forse pi@u opportunamente risponde alla posizione
+di discepolo assunta da Dante.  |TI RICHEGGIO~: ti chiedo, ti
+prego.
+
+	|131. PER QUELLO... CONOSCESTI.~  Ha intuito dalle parole
+di Virgilio che il poeta @e particolarmente sensibile a preghiere
+fatte in nome del vero Dio (cfr. ^Inf.~ II 74), e smorza, con
+fine tatto, l'accorato <ribellante> di v. 125.
+
+	|132. QUESTO MALE~, la lupa; cfr. v. 89.  |PEGGIO~, la
+ricaduta nella selva del peccato, e la conseguente dannazione
+eterna.
+
+	|133. MENI~: conduca.
+
+	|134. LA PORTA DI SAN PIETRO~, la porta -- le cui chiavi
+furono affidate a S. Pietro: cfr. ^Par.~ XXIV 34-36 -- della
+salvezza eterna, che Dante pone all'ingresso del Purgatorio (cfr.
+^Purg.~ IV 129; IX 76, 90, 120, 127-138; XXI 54); altri intende,
+in senso pi@u proprio, la porta del Paradiso: ma la chiosa qui
+accolta non solo corrisponde ad un preciso particolare della
+struttura dantesca dei tre regni, ma si allinea perfettamente con
+la promessa di Virgilio di far vedere a Dante l'Inferno e il
+Purgatorio (vv. 114-120; e cfr. v. 135).
+
+	|135. CUI TU FAI COTANTO MESTI~: i quali dannati tu dici
+esser tanto infelici; ma per quanta <mestizia> Dante tenti di
+immaginare, la realt@a dell'orrore infernale gli si riveler@a ben
+altrimenti terrorizzante: cfr. ^Inf.~ III 22 sgg.
+
+	|Conclusione.~  Il canto primo @e di preludio (o, secondo
+la terminologia dantesca, prologo: cfr. ^Ep.~ XIII 44) all'intera
+^Comedia~, e vi si avvertono dunque i motivi fondamentali che
+troveremo sviluppati nel corso di quel viaggio, di cui qui, di
+necessit@a, vengono poste le premesse: da quelli pi@u generalmente
+rispondenti alla triplice ripartizione dell'Oltretomba cristiano
+e del poema (l'amara situazione del peccatore e l'orrore della
+disperazione infernale, la dolce speranza della salvezza e la
+letizia nel fuoco purgatoriale, la radiosa bellezza dello stato
+di virt@u e la luminosa felicit@a del Paradiso) a quelli pi@u
+intimamente peculiari alla visione dantesca (lo stato di peccato
+nel quale si risveglia il poeta ma che @e condizione in cui par
+ricaduta l'intera umanit@a, il viaggio che deve intraprendere,
+l'attesa messianica del riscatto).  In quel paesaggio -- selva,
+piaggia, colle -- cos@i decisamente ritratto nei particolari pi@u
+espressivi anche ai fini del senso morale, agisce un uomo, ed @e
+l'autore stesso, che riempie della sua presenza tutto il canto,
+come poi tutto il poema: i pronomi ^io~, ^me~, ^mi~ ricorrono
+quasi dovunque, con una frequenza altissima, certo superiore a
+quella che la necessit@a del racconto esigerebbe (cfr., ad
+esempio, i vv. 8-10: <Ma per trattar del ben ch'^i~' vi trovai, /
+dir@o de l'altre cose ch'^i~' v'ho scorte. / ^Io~ non so ben ridir
+com'^i~' v' intrai>).  Come Virgilio, anche il protagonista non @e
+un simbolo astratto, ma un individuo storicamente esistente,
+considerato nella sua dimensione umana e -- come meglio apparir@a
+nei canti successivi -- nella sua concreta esperienza terrena: che
+@e il primo dato fondamentale del realismo dantesco.  All'^io~ si
+affiancano, insistenti, soprattutto i verbi di pi@u immediata
+percezione sensoriale, ^vedere~, ^sentire~; donde un linguaggio
+concreto, legato alle cose: persino in questo canto primo, dove @e
+una continua ambivalenza tra realt@a e simbolo, che tuttavia
+possono apparire talvolta -- come in parte sono -- non sempre
+compiutamente fusi tra loro.
+
+	I primi sessanta versi sono pervasi dall'atmosfera di
+angoscia (ed infatti pi@u di ogni altro -- come ha finemente
+osservato G. Ungaretti, nel vol. ^Letture dantesche~, a cura di
+G. Getto, I, p. 11 -- vi ricorre il sostantivo ^paura~: vv. 6, 15,
+18, 44, 53), quale si sprigiona dalla descrizione dell'orrida
+selva e delle fiere demoniache, e che @e esasperata, per
+contrasto, dal contrappunto della lieta immagine del colle, del
+dolce mattino primaverile, delle belle stelle, e soprattutto del
+sole, radioso dominatore del cielo (<montava 'n su>), esprimenti
+in modo ancor pi@u disperante la drammatica situazione di chi @e
+costretto a ritornare nella selva mortale: e tuttavia la tensione
+viene in qualche punto rotta dalla necessit@a, per il lettore, di
+rendersi ben conto dei valori allusivi e addirittura di alcune
+immagini non limpide (cfr. v. 30).
+
+	Il canto conserva insomma qua e l@a un che di schematico,
+che denunzia nell'autore una eccessiva preoccupazione nello
+stabilire le linee fondamentali del racconto e per il senso
+letterale e per i sensi allegorici (allegorico propriamente
+detto, morale ed anagogico: cfr. ^Ep.~ XIII 20-22): s@i che
+sentir@a pi@u avanti la necessit@a -- cosa piuttosto inconsueta -- di
+fornirci altri particolari della sua vicenda tra la selva e il
+colle; e sapremo che l'evasione dalla selva fu agevolata dal
+plenilunio (cfr. ^Inf.~ XX 127-129), che egli aveva tentato di
+prendere la lonza con un cordiglio (cfr. ^Inf.~ XVI 107-108), e
+che il maestro gli si offr@i con <piglio dolce> (cfr. ^Inf.~ XXIV
+20-21).  Ma se, a leggere altri canti dell'^Inferno~, quelli
+meritamente pi@u famosi, pi@u si avverte in questo il peso di un
+teso rigore programmatico e di una ricerca di immagini
+significanti che rischiano talvolta di affievolire i particolari
+poeticamente pi@u vivi, a leggere altre <visioni> medievali
+risulta di questo canto tutta l'arditezza della concezione, la
+sicurezza della struttura, l'ampiezza del disegno, la sicura resa
+espressiva dei particolari pi@u importanti; e se qui non @e ancora
+il sommo Dante, non si pu@o tuttavia non avvertirvi gi@a una
+fantasia dotata di eccezionali capacit@a espressive.  E del resto,
+a ben vedere, quella stessa ricerca di immagini simboliche @e
+sostenuta e vivificata dalla ricca pregnanza del linguaggio
+profetico, che fin dal primo verso si spiega in tutta la sua
+arcana risonanza, e che, punteggiando di s$e soprattutto la prima
+met@a del canto per le chiare riprese di espressioni e passi
+biblici, introduce il lettore in una area di irrealt@a
+pressantemente allusiva alla realt@a dell'anima.  Se mai, c'@e da
+osservare come nella seconda met@a del canto le riprese bibliche
+vengano limitate e cedano poi il passo all'infittirsi di
+reminiscenze virgiliane, e in un trapasso graduale e continuo
+(cfr. G. Getto, ^Il canto I dell'<Inferno>~, Firenze, 1960).  Ed
+anche in questo il primo canto @e preludio: ^Bibbia~ ed ^Eneide~
+riaffermano gi@a qui la loro presenza predominante in tutta la
+^Comedia.~

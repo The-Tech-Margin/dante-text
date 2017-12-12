@@ -1,0 +1,611 @@
+	|Proemio.~  Infino qui l'Autore ha trattato delle
+qualitadi di quelle anime, che per qualunque grado di negligenzia
+ritardarono il buono pensieri di loro peccati di qui alla fine
+della loro vita; la quale negligenzia si purga di fuori della
+porta del proprio Purgatorio, avegnach@e ogni luogo de' predetti
+^Purgatorio~ largamente si possa chiamare.  E per@o da qui innanzi
+intende di trattare di quelle anime, che si purgano per distinti
+peccati, cio@e per alcuno de' sette mortali, superbia, invidia,
+ira, accidia, avarizia e prodigalit@a, gola e lussuria.  E per@o
+che a volere venire alla purgazione dee l'uomo properare, e
+disporre per contrizione di cuore, confessione di bocca, e
+ricevere umilemente la penitenzia che gli ingiugne il sacerdote,
+che ha bal@ia di potere asolvere; della quale materia @e tocco,
+capitolo XVI ^Inferni~; l'Autore in questo capitolo introduce
+alla entrata [di] questo Purgatorio in su la porta uno Angelo in
+forma di vicario di Santo Pietro, al quale fu data da Cristo ogni
+potest@a, secondo quella parola: ^Quodcumque ligaveris~ ec.; al
+quale Angelo se dimostra, e dispone, e riceve la penitenzia, come
+nel testo appare; ed aperta la porta, entra dentro col suo
+Maestro.  E puotesi dividere questo capitolo in sette parti. 
+Nella prima parte descrive l'ora del presente tempo, e la
+disposizione del Cielo, per verificare una sua visione.  Nella II
+parte, che comincia quivi -- ^Quando che meco~ ec., introduce uno
+sonno, ed apresso uno sogno.  Nella terza, che comincia quivi --
+^E s@i lo 'ncendio~ ec., discrive il violento rompimento di quello
+sogno.  Nella IIIJ, che comincia quivi -- ^A guisa d'uom~ ec.,
+procede alla porta del Purgatorio, dove truovano l'Angelo
+predetto.  Nella V, che comincia quivi -- ^Noi ci appressammo~
+ec., descrive la detta porta, e li suoi gradi, [e] il detto
+portinaio.  Nella VJ, che comincia quivi -- ^Ditel costinci~ ec.,
+contiene la domanda de l'Angelo, e la risposta di Vergilio, e
+come il detto portiere accett@oe loro venuta.  Nella VIJ, che
+comincia quivi -- ^L@a ne venimmo~ ec., discrive i colori de gradi
+per li quali si monta alla porta; e come fu tratto da Virgilio su
+per quelli; e come elli si confess@o, pentessi, e chiese
+misericordia a l'Angelo, e la penitenzia che l'Angelo li
+ingiunse, discrivendoli sette [P] nella fronte, in segno ch'elli
+avea peccato in tutti e VII li mortali vizi; e che in ciascuno
+luogo diputato a purgare li detti peccati elli si monderebbe; e
+come li misse dentro alla porta, e ci@o che segue di laude per sua
+conversione.  Alla prima parte dice l'Autore, che gi@a l'aurora
+nel mondo si mostrava nella parte orientale, uscendo del letto
+della notte, ed il segno di Scorpio scendea sopra il nostro
+orizzonte; e notte era in opposito di noi, cio@e nello luogo
+dov'elli era, era infra notte tanto, che dice ch'era nel
+principio della terza ora della notte; o vero che la notte era
+salita due gradi, ed incominciava il terzo.  Aurora, secondo
+Isidero, @e detta quasi ora d'auro, per@o ch'ella getta uno colore
+rosseggiante, e quasi auro, perch@e li raggi del Sole,
+c[ac]ciandosi via le tenebre della notte, dimostrano com'@e
+d'auro: o @e detta aurora, quasi aura che d@a rugiada; per@o che
+nell'aurora la rugiada si genera, la quale cade sopra la terra, e
+la caldezza della aere s@i tempera.  L'aurora comincia al fine
+della precedente notte, e comincia il seguente die; questa @e
+inimica de' vagabundi ladroni; li mo[n]di uccelli muove al canto,
+e caccia li notturni uccelli; e le erbe, che la sera dinanzi
+erano inchinate per lo troppo caldo, nell'aurora si levano;
+nell'aurora il sonno molto conforta, ed ingrassa, per@o che
+allotta l'omore nel corpo dello animale abonda, e il sangue
+principalmente signoreggia.  Per@o che, secondo Costantino,
+l'aurora infino a l'ora terza seguita la natura della primavera,
+il mezzo die seguita la natura della state, il vespro la natura
+dell'autunno, la notte la natura del verno.  Descritto l'ora,
+dice l'Autore, che faticato per lo corpo, nel quale era, in ci@o
+che avea caminato, s'adorment@oe, e poi cos@i dormendo [stette]
+insino presso al die; nella quale ora la rondine comincia a
+cantare, e nella quale ora la mente umana @e pi@u lontana dalli
+moti della carne e dai moti irascibili e concupiscibili, e meno @e
+occupata da pensieri e solecitudine corporali, e per conseguente
+@e pi@u in s@e, e pi@u opera sua virt@u; la quale mente @e fatta alla
+immagine di Dio, e per conseguente in quella ora li sogni suoi
+hanno pi@u vera significazione, e sono pi@u significativi.  ^In
+sogno mi parea~ ec. @e questa la seconda, dove elli introduce una
+visione significatrice di ci@o che li segu@ie immantanente, s@i come
+la visione scritta infra, capitolo XIX ^Purgatorii~ -- ^Nell'ora,
+che non pu@o il calor diurno~ ec.  E delle visioni, sogni, e loro
+materia @e detto in suo capitolo.  Alla IIJ parte @e da notare, che
+per l'acutezza del sogno l'uomo molte volte si sveglia, e
+massimamente quando il sogno da se medesimo si compie; ch'@e tanta
+la forza della fantasia, e s@i debole l'adormentazione de'
+riposati membri, che cos@i avviene, come qui fa all'Autore.  Dice
+adunque l'Autore, che imaginando solamente la ferventezza della
+spera del fuoco, per la quale dovea passare, tutto il corpo ne
+contrem@ie: ^imaginatio facit quandoque casum.~  Alla IIIJ @e da
+notare, che gli autori teologici vogliono intendere, che
+Purgatorio sia luogo seperato dallo Inferno, o vero congiunto ad
+esso o in esso, s@i come era in esso il Limbo, dello quale Cristo
+trasse i Santi Padri, e nel quale non ha avuto pena sensibile, s@i
+come pone l'Autore sopra, capitolo IV ^Inferni.~  Santo Tommaso
+descrive, capitolo vigesimo primo, ^quarti libri~, questione
+prima, [e] dice, che del luo[go] di Purgatorio non si truova
+alcuna cosa espressamente determinata nella Scrittura, n@e ragioni
+efficaci si possono a questo inducere; ma probabilemente, e
+secondo che suona per li detti de' Santi, e per revelazioni fatte
+a molti, il luogo di Purgatorio @e doppio: uno secondo legge
+comune, il quale @e congiunto allo Inferno di sotto, s@i che sia
+uno medesimo fuoco quello che cruccia i dannati in Inferno, e
+quello che li giusti purga in Purgatorio, avegna che operi
+diversamente: l'altro luogo sia di Purgatorio secondo la
+disposizione.  Alcuni dicono, che secondo legge comune il luogo
+di Purgatorio @e, dove l'uomo pecca, qui si purghi ec.  Alla V
+parte l'Autore descrive la porta di Purgatorio, e li gradi per li
+quali si viene alla porta, e 'l guardiano della porta, cio@e lo
+spirituale giudice.  Il peccato si commette in tre modi, col
+cuore concependo, con la lingua parlando, con l'opere
+ingiuriando.  A questi corrispondono li tre gradi della
+penitenzia, de' quali tratta nel presente capitolo, figurati
+quelli tre gradi, su per li quali si perviene alla porta della
+soluzione, contrizione di cuore, confessione di bocca, e
+sadisfazione d'opere.  La VJ apparir@a nella esposizione del
+testo.  Alla VIJ @e da sapere, che l'Autore confessa li suoi
+peccati con la contrizione del cuore, con intenzione di satisfare
+a l'offesa per ingiunta penitenzia, e con intenzione di pi@u non
+commettere male.  Onde @e da sapere, che ciascuno comincia ad
+essere giusto, secondo che dice Santo Isidero, che @e stato
+acusatore di s@e; ma guardasi da confessarsi essere peccatore,
+s'ello non si ritrae da peccare, per@o che allora non @e la
+confessione perfetta.  Grande parte di giustizia si @e, che l'uomo
+si riconosca essere esuto reo, acci@o che per quello
+riconoscimento elli umilmente si sottoponga alla divina virt@u: da
+che elli conosce la sua debolezza e fragilitade, allora prende
+ciascuno giudicio di s@e, quando per degna penitenzia elli
+condanna le sue male opere.  L'amaritudine della penitenzia fa
+l'animo e le sue operazioni pi@u sottilmente essaminare, e
+piangendo fa ramemorare delli doni di Dio, li quali peccando
+dispregi@oe.  Colui fa degnamente penitenzia, che piagne il suo
+peccato, con ligittima satisfazione condenando e piangendo quelli
+mali ch'elli fece, tanto il die piangendo pi@u difusamente, quando
+elli fu nel peccato pi@u inclinato; avvegna che alcuno sia
+peccatore e malvagio, se si converte a penitenzia conseguir@ae
+perdono.  Nullo dubiti della bont@a di Dio, se la malizia del
+peccato niega a lui potere essere perdono.
+
+	|1-9.  La concubina di Titone~ ec.  In questo suo
+principio l'Autore pone l'ora del presente tempo; e dice, che
+l'amica del vecchio Titone...; e sogiugne, che la fronte sua era
+lucente di geme, cio@e di stelle poste in figura di Scorpio; e poi
+per pi@u chiare parole dice, che era la terza ora della notte. 
+Per@o dice, che la notte avea fatti gi@a due passi di quelli, con
+la quale ella sale; al terzo gi@a si chinava, s@i che quasi era
+nella fine d'esso.  E questo assai si dichiara, per@o che dice,
+che Scorpio era salito sopra quello emisperio, s@i che tutta
+Virgine, che fu ascendente a quello nel principio della notte,
+era passata; la quale pena ad ascendere due ore, e tre quarti. 
+Questa favola che l'Autore induce qui ad adornamento della sua
+Comedia, brievemente toccheremo.  Laomedonte, di Troia re, ebbe
+uno figliuolo nome ^Tithonus~, il quale per valere d'arme
+[conquist@o] certe parti di Levante, e quindi fu re.  Fingono li
+autori che l'Aurora (per@o che in quelle parti che questo Titone
+resse, si mostra prima alli abitatori della terra) ch'ella
+innamorasse di questo Titone, e ch'elli avesse di lei uno
+figliuolo, nome Menon, il quale venne con gente in aiuto al suo
+zio Priamo re di Troia contra li Greci, e fuvi morto; e fingono
+che l'Aurora fosse amica, per@o che il detto Titone aquist@o quelle
+parti, non da comune consentimento, ma per forza d'arme le tolse
+al ligittimo re; e poich@e l'ebbe morto, il paese a s@e sottopuose,
+avendo l'animo al suo naturale regno; ma le morbidezze di quello
+levante il ritenero.
+
+	|10-12.  Quand'io, che meco~ ec.  Dice l'Autore, che
+sonno il prese, dal quale vinto inclin@oe in sulla erba dove era
+elli e Virgilio, Sordello, giudice Nino, e Currado Marchese, de'
+quali @e trattato di sopra; e dice, |avea di quel d'Adamo~, cio@e
+della carne.
+
+	|13-18.  Nell'ora, che comincia~ ec.  Poi che ha posto
+com'elli s'adorment@oe, ora volendo porre uno suo sogno, e quello
+quanto puote verificare, qui pone l'[o]ra del suo sognare.  E
+dice, ch'@e nell'ora che la rondine comincia i tristi canti; e
+dice tristi, per@o che pone che sieno per quello, che li trae de'
+suoi primi guai, come la favola infrascritta dichiarer@ae.  E
+dice, presso alla mattina, s@i come dice altrove -- ^E se presso
+al mattino il ver si sogna~; e soggiugne la cagione, perch@e il
+sogno dee allora essere pi@u vero, dicendo, che la mente @e pi@u in
+quiete e riposo, e per conseguente quasi divina.  La favola della
+rondinella, secondo che Ovidio nel VJ pone, [@e] che Pandione ebbe
+due figliuole, Progne e Filomena.  Progne marit@oe a Tereo re di
+Tracia, la quale poi che con lui fu stata V anni, che non avea
+veduta la sua sirocchia, preg@o il marito che andasse per lei. 
+Andovi, e con molta fatica impetr@oe dal padre di menarla alla
+sirocchia.  Ecco Filomena viene ricca di grande adornezza, ma pi@u
+di bellezze.  Tereo arde della vergine, arde per lo vizio della
+sua patria, e per lo suo proprio; elli hae volont@a di corrompere
+la cura delle sue cameriere, e la fede della sua balia, e di
+solecitare lei con grandissimi doni, e di darle tutto il regno, o
+di torlo per forza.  Poi che Filomena fue entrata nella dipinta
+nave, e il mare fue mosso da' remi, gi@a era compiuto il viaggio,
+gi@a erano entrati ne' suoi porti, quando Tereo trasse la
+figliuola di Pandione nelle profonde spilonche, oscure per le
+antiche selve, e quivi rinchiuse Filomena.  Pa[llida] e paurosa,
+e temente tutte le cose, e gi@a domandante con lagrime dove la
+sirocchia fosse, quivi si manifest@oe la scellerata opera, e per
+forza soperchi@oe lei vergine e sola, chiaman[te] il padre, spesse
+volte la serocchia, spesse volte sopra tutte le c[o]se li grandi
+Idii.  Ma poi che la smarita mente fue tornata, straciati li
+capelli, piangendo percosse le braccia con battiture, levando in
+alti le mani: O barbaro, per li crudeli fatti; o crudele, [n@e] li
+comandamenti del mio padre con le piatose lagrime non ti pot@ero
+[m]uo[v]ere, ne lo studio della mia serocchia, n@e la mia
+virginitade, n@e le ragioni del matrimonio; tutte le cose hai
+turbate; io sono fatta puttana della mia serocchia, tu se' doppio
+marito; io non era degna di cos@i fatta pena.  O sanza fede,
+toglimi l'anima, acci@o che tu abbi compiuta ogni crudelt@a in me;
+ed or l'avessi tolta prima] s@i sarebbe suto sanza peccato.  Ma se
+li Idii hanno veduto questo, e s'elli possono alcuna cosa, e
+s'elli non sono tutti periti con meco insieme; quando che sia,
+sosterrai pena per quello che tu m'hai fatto.  Io, poste gi@u le
+vergogne, dico l'opere tue; s'elli mi sar@a lecito, io verr@oe tra
+li popoli, io ne riempir@oe le selve, io far@oe muovere li sassi a
+piatade.  Questo udir@a il cielo, e se alcuno Idio @e in quello. 
+Poi che l'ira del crudele tiranno fu mossa per cotali detti, e la
+paura non era minore che l'ira, trasse fuori la spada della
+guaina, presela per li capelli, e recatole le braccia adrieto, la
+leg@oe.  Filomena apparecchiava la gola, ed aveva pensata la
+speranza della sua morte: quelli le mozz@oe la lingua; e dopo
+questo male, dicesi che spesse volte radomand@oe il lacerato corpo
+con la sua lussuria.  Tereo torn@o a Progne, e domand[ato], con
+infinito pianto disse, che la sirocchia era morta.  Progne
+straccia li suoi ornati vestimenti, e missesi oscuri panni, fece
+lo vano avello, e diede sagrificio a l'anima della sirocchia,
+ch'ella credea che fosse morta.  Compiuto l'anno, la guardata
+Filomena ord@ie li bianchi stami nella tela barbera, e tesseo
+segnali di porpore con bianchi fili, dimostramento della
+scellerata opera, e per una fante la mand@oe a Progne.  La donna
+alle figure cognosce la miserevole storia; ma ristrigne il dolore
+e le parole, imaginata la vendetta.  Tempo era, nel quale le
+donne di Tracia sogliono fare le feste di Bacco; la notte si
+faceano i sacrificj; usc@io la reina della sua casa, ed acconcia
+come s'ella andasse alla festa di Bacco, tolse le famose armi. 
+Messa per le selve con grande moltitudine delle sue compagne,
+terribile, e menata dalla furia del dolore; o Bacco, ella facea
+vista d'avere lo tuo furore; sanza via venne alle sale dove era
+tenuta la sirocchia, url@oe e grid@oe E[v]o@e, e ruppe le porti, e
+prese la sirocchia, e vestilla con li adornamenti, che si portano
+per la festa di Bacco, e menolla nelle sue case, poi lev@oe quello
+abito, e abracciolla.  Ma quella non ardiva d'alzare gli occhi; e
+bassato il volto, con le mani in luogo di parole le giur@oe per li
+Dii, che quella vergogna le fue fatta per forza.  Progne arde per
+l'ira, ed in lei non cape la sua ira; e confortando la serocchia,
+che non piangesse, disse: questa vendetta non @e da fare con
+lagrime, ma con ferro.  E se tu hai ancora alcuna cosa, che possa
+vincere il ferro, o sirocchia, io sono apparecchiata a fare ogni
+crudeltade; quello che t'hoe apparecchiato @e grande male, ma io
+non hoe ancora diliberato con quale pena elli muoia.  Pensando
+Progne cos@i fatte cose, il suo figliuolo Itis ven@ia a lei;
+allora s'inform@oe della pena, ch'ella volea fare sostenere al
+padre; ella trasse Itis in segreta parte della casa: dove il
+petto s'agiugne alle cos[t]e, Filomena li seg@oe il collo, ed
+amendue li lacerarono le membra; una parte ne missero a lessare,
+e parte ne feciono arostita; la moglie diede questi mangiare allo
+ignorante Tereo, ed al costume della patria m@ente ch'era [qu]el
+sagrificio, lo quale disse di dare al solo marito.  Tereo
+mangiante, e mettente la sua carne nel suo ventre, disse:
+chiamate Itis.  Progne non pot@e pi@u celare la crudele allegrezza,
+e desiderante d'essere anunziatrice della sua pestilenzia, disse:
+tu hai dentro quello, che tu domandi.  Tereo si guata d'intorno;
+e domanda dove il figliuolo sia.  Filomena usc@i fuori con sparti
+capelli a modo di furia, ed il sanguinoso capo gitt@oe nella
+faccia al padre, e mai non avrebbe pi@u volentieri potuto parlare
+che allora, e mostrare l'alegrezze con meritevoli detti.  Tereo
+riempi@eo le mense con grandissimo romore, e chiam@oe le Furie
+infernali, e disiderava, s'elli potesse, di mandare fuori dello
+aperto petto li crudeli mangiari: piagne, e chiama s@e misero
+avello del figliuolo, e le figliuole di Pandion con ignudo ferro
+seguit@oe.  Tu aresti potuto pensare, che li corpi loro avessono
+pe[n]ne: l'una se n'and@oe alle sue selve, l'altra fugg@ie per le
+case, e gli segnali del tagliamento non sono ancora partiti del
+petto, e la piuma @e segnata di sangue.  Quelli per lo dolore
+url@oe, e per lo desiderio della pena si converse nello uccello,
+che ha nel capo la cresta, che hae nome lupica; Filomena in
+usignuolo, e Progne in rondine.  Istoriale fu ci@o ch'@e detto,
+fuori che la mutazione.  Poi che Tereo cognobbe s@e avere mangiato
+il figliuolo, corse sopra le due sirocchie: quelle camparono
+delle sue mani; e perch@e Progne poi sempre si stette ascosa in
+casa, @e figurata in rondine, ma per contrario effetto; e perch@e
+Filomena perd@ee la virginitade, @e trasmutata in usignuolo, e
+quello rosso del petto @e il segno della perduta virginitade e
+l'ale e le penne la fugga; e che Tereo sia mutato in upica, per@o
+ch'ella @e uccello fastidioso [a] u[di]re, lo corrompimento della
+sua cognata s@i significa.
+
+	|19-24.  In sogno mi parea~ ec.  Ecco la forma del sogno
+dello Autore.  Dice, che li parea vedere con l'ali aperte una
+aguglia con penne d'oro stare sospesa, non volava, ma stava
+intesa per fedire, e parevali essere l@a dove li fanciulli,
+ch'erano con Ganimedes, [furono da lui abbandonati.  Ganimedes],
+figliuolo del re Priamo, fue rapito da Jove, il quale innamor@oe
+di lui, e presa figura d'aguglia discese del Cielo, e levollo in
+aere, e portolsene, e fecelo suo servidore alla coppa, secondo
+che pone Ovidio nel VIIIJ del ^Metamorphoseos.~ E proseguita suo
+sogno; e perch@e la favola di Ganimedes non ingeneri dubbio, dice
+colui, che allegorizza questa favola, che Jove, s@i come principe
+di genti, con armati sotto il segno de l'aguglia prese per forza
+il detto Ganimedes in una battaglia; e perch'elli era bello, e di
+nobile sangue nato, il fece suo donzello a servire della coppa, e
+dice in verit@a.  Jove fu re di Creti, il quale aparecchiandosi
+alla battaglia contra li Giganti, e sagrificando, una aquila li
+apparve; onde considerando ch'ella significava buono agurio,
+prese una aguglia d'oro per sua insegna, e sotto questo segno
+prese Ganimedes.  E dicesi ch'elli il fece suo servidore, per@o
+che in Cielo @e uno segno chiamato Acquario, il quale li poeti
+finsono ch'era stato Ganimedes, per@o che in esso Jove hae alcuna
+degnitade, s@i come termine.
+
+	|32-33.  E s@i lo 'ncendio~ ec.  Questa interruzione del
+sogno @e chiara, la quale procede dalla imaginazione, che fa caso;
+e cos@i dice che convenne, che 'l sonno si rompesse.
+
+	|34-39.  Non altrimenti~ ec.  Qui per essemplo introduce
+la storia, che pone Stazio nell'^Achilleidos~, distinzione
+seconda, quivi -- ^At Tethis~ ec.  Ella quinci rilegato Acchille
+con tutto il petto, delle ripe della spelunca Demenia il porta
+alle piacevoli acque; tutta notte Chiron con lui navica.  Gi@a il
+die cacciava le stelle, ed il debile Sole volge del mare li
+rugiadati cavalli; quando lo spaventamento ripos@o del fanciullo,
+e li occhi di lui giacente sentirono lo spartito die: elli
+stripidisce per lo primo aere; elli vede li luoghi non
+conosciuti, non sa quali si sieno quelli luoghi, quali quelle
+onde del mare, dove Pelion sia; e dubita, se Tethis sia sua
+madre, o no: ella il prende; lui spaurito raconsola: ^Si mihi,
+care~ etc.
+
+	|40-42.  Che mi scoss'io~ ec.  Applica lo essemplo alla
+materia; ed agiugne, che elli divenne smorto, come uomo ch'@e
+spaventato a caccia.
+
+	|43-45.  Dallato m'era~ ec.  Dice, che con Vergilio solo
+si ritrov@oe, ed era tanto dimorato, che 'l Sole era gi@a salito
+pi@u che due ore, ed elli era volto a mare.
+
+	|46-49.  Non aver tema~ ec.  Questo conforto di Vergilio
+@e aperto, dove li mostra che sono arrivati all'entrata del
+Purgatorio.  E nota come occultamente, sanza sua conoscenza @e
+pervenuto al detto luogo; il simile fue all'entrata sanza serrame
+dello Inferno.
+
+	|52.  Dianzi nell'alba~ ec.  Ecco qui si magnifica il
+sogno dell'Autore e per quell'aguglia prende questa luce, per li
+compagni di Ganimedes prende Virgilio, Sordello, Currado, il
+giudice Nino pass@oe il circulo dello elemento del fuoco, s@i li
+cosse, tuttoch'elli dormisse; d'onde compiuto il viagio, elli per
+lo incendio l@i sdorment@o, e trovossi all'entrata del Purgatorio. 
+Onde nota, che grande distanzia hae dal luogo dove si purgano li
+negligenti alla entrata del Purgatorio, e grande differenzia di
+luogo; per@o che sono infra il circulo elementale del fuoco,
+l'entrata @e in s@i alto luogo, ch'@e sopra tutti li alimenti, s@i
+che nulla altra azione vi si sente.  Per questo Lucia, come @e
+detto, si dice prendere la grazia di Dio illuminante il peccatore
+alla conversione; onde dice santo Isidero: <Alcuna volta Idio [a]
+noi preganti li suoi doni non ritrae, acci@o che la mente umana
+surga a speranza di divina misericordia; per@o che colui non
+dispregia il convertito, il quale infino ch'elli peccava, con li
+suoi benefizi li prov@oe di rendere a s@e.  Il ben fare dello uomo
+@e per lo dono di Dio; n@e alcuno si puote da s@e correggere, ma
+amendato da Dio>.  L'uomo non hae proprio alcuno bene, la cui via
+non @e sua, come testimon[i]a il Profeta: <[S]o, Signore, che
+no[n] @e dell'uomo la via sua, n@e ch'elli vada, e dirizzi li suoi
+andamenti>.  Sappiano coloro, che di[f]endono il libero arbitrio,
+che per la sua forza non possono valere nel bene, se non sono
+sostenuti con aiutorio della divina grazia; onde Idio dice per lo
+Profeta: <O Isdrael, la perdizione @e tua; solamente in me @e
+l'aiutorio tuo>.  Quasi dica: tu pensa per lo tuo merito, acci@o
+che tu sia salvato per lo mio aiutorio.  Adunque questa Lucia,
+grazia e dono di Dio, fu necessaria alla conversione dello
+Autore.  Preveniente per@o @e qui indutta; e dice: |Dianzi
+nell'alba~ ec. comprende il giorno
+
+	|53-62.  Quando l'anima tua~ ec. era ancora circa le
+sensibilitadi occupata, venne questa grazia, uscente l'aurora,
+segno del futuro die; per@o che la notte significa cechitade,
+l'aurora preparamento a ricognoscer li falli de' peccati, ed il
+die, alluminazione e cacciamento delle male operazioni.  E per@o
+dice che Lucia, nel tempo che l'Autore nulla opera[va], vivo il
+lev@oe, e dedusse al luogo dove li peccati si riconoscono, e
+mostr@o a Virgilio, cio@e alla ragione, l'entrata del Purgatorio,
+che @e la contrizione del cuore, e poi la emendazione.
+
+	|64-69.  A guisa d'uom~ ec.  Questa similitudine, e
+questo salire @e tutto aperto; nella quale l'Autore dice, che
+inteso il modo, come era quivi pervenuto, e conferendolo col suo
+sogno, lasci@oe la paura, e prese conforto; e poi apresso Virgilio
+su per lo balzo dirizz@oe il camino verso la porta del Purgatorio.
+
+	|70-71.  Lettor, tu vedi ben~ ec.  Il testo @e piano, che
+l'Autore, salendo alle pi@u alte cose, sua materia pi@u acresce;
+per@o che sempre lo stile conviene concordare alla materia del
+trattato.
+
+	|73-84.  Noi ci appressammo~ ec.  In questa parte
+l'Autore condiscende a descrivere l'entrata del Purgatorio; e
+dice, che dove dalla prima dalla lungi, per la distanzia del
+loco, li parea uno rotto, ora per la vicinitade scorse ch'era una
+porta, e di sotto avea tre scaglioni di diversi colori, come
+descrive qui di sotto; e che uno tacente portiere era in su
+quella porta, il quale elli descrive lucentissimo nella faccia,
+con una splendidissima spada in mano, tanto che l'Autore non
+potea sofferire li raggi, ch'ella gittava.  In prima l'Autore
+dimostra la insufficienzia del senso, s@i come fece di sopra,
+capitolo XXXI ^Inferni~, quivi -- ^Ed elli a me: per@o che tu
+trascorri~ ec.  Poi dice, che scorse la porta di Purgatorio, e
+tre gradi di sotto, cio@e contrizione, confessione, e
+satisfazione; ed uno portiero tacito, cio@e il sacerdote udente il
+peccatore; e dice, che avea una spada in mano lucidissima, per la
+quale d@ae ad intendere la divina giustizia s@i chiara, che neuno
+mortale ha tanto perspicace intelletto che possa comprendere, n@e
+raguardare la sua smeratezza, per@o che quella non si turba per
+paura, non s'anuvolisce per affezione d'amore, non arossisce di
+vendetta di propria ingiuria, nulla persona per s@e @e apo essa
+accetta, ma solo per li suoi meriti.
+
+	|85-87.  Ditel costinci~ ec.  Qui introduce l'Autore
+l'Angelo, che tiene figura di sacerdote, come il testo conta;
+domanda quello ch'elli vogliono, e chi li guida; e ch'elli sieno
+cauti s@i nel venire, che loro audacia non riceva pena.  E per@o
+che dinanzi a tutte le cose si vuole dilucidare la coscienzia, la
+quale conviene che sia illuminata dalla grazia preveniente, la
+quale guida e scorge l'uomo, come in questo capitolo appare;
+altra guisa indarno s'afaticherebbono coloro che la guardano,
+indarno veghiano.  Se Idio non edifica, in vano si travagliano
+coloro che edificano; vano @e a voi anzi la luce surge[re] ec.
+
+	|88-90.  Donna del Ciel~ ec.  Questa risposta di Vergilio
+all'Angelo @e aperta, per la quale quelli comprende, come la
+grazia di Dio vuole che si passino per lo regno a lui commesso. 
+Dice il Poeta: Lucia ci ha condotti, e mostrata che qui era
+l'entrata; s@i che noi amaestrat[i] da lei venimo, e non a caso e
+a fortuna.
+
+	|91-93.  Ed ella i passi vostri~ ec.  Questa acettazione
+che fa l'Agnolo, conosciuta in loro la predistinata grazia, @e
+aperta: chiamali alli gradi, per li quali si sale alla
+purgazione.
+
+	|94-95.  L@a ne venimmo~ ec.  In questa parte l'Autore
+[descrive] li tre gradi, per li quali si sale, e viene a
+l'entrata de la purgazione delli peccati, li quali sono:
+contrizione, ed atr[ist]amento, e pentimento di cuore, ch'@e il
+primo grado; il secondo @e la confessione; e per lo terzo si
+figura la penitenzia.  Elli dice, che l'uno grado era marmo,
+l'altro una petrina ruvida e nera, lo terzo proferito.  Il marmo
+@e pietra frigidissima, e durissima, e sodissima, del quale fue il
+vaso de l'unguento de l'Angelo; conserva gli unguenti sanza
+coruzione, ed [@e] acc[onc]io a colonne di case; intra tutte le
+pietre, questa @e la pi@u grave; sonne di pi@u colori.  Questo primo
+grado hae a significare la contrizione, per la quale l'uomo d@a il
+primo lavamento, e purgamento alli suoi peccati, sanza la quale
+indarno si confessa l'uomo, ed adomanda correzione.  E per@o dice,
+ch'era bianco marmo, a denotare che la contrizione, nella quale
+l'uomo con lagrime dello intelletto bagna, e lavando viene le
+macchie del peccato, si fa pulito e terso.  Convertito l'Autore
+per la illuminazione della divina grazia, accede al vicario di
+Cristo per confessare le peccata; e per@o denota la via, per la
+quale a ci@o si viene, come @e detto.
+
+	|97-99.  Era il secondo~... |D'una petrina~ ec. 
+Descritto il primo grado della conversione, ora descrive il
+secondo; e dice ch'era tutto pi@u che perso, cio@e negro.  Due sono
+li principali colori, ci@o sono bianco, e nero; li altri sono
+misti.  Dice che questo grado era tutto pi@u che perso, e non dice
+per@o ch'elli fosse nero; e dice ch'era d'una petrina ruvida, per@o
+ch'era della materia de' peccati conglutinata; e dice, ch'era
+arsiccia e crepata d'ogni parte: onde s@i come la pietra si genera
+delle pi@u grosse parti della terra, e consolidasi constrignendola
+il freddo; cos@i il peccato si genera delle pi@u grosse materie
+terrene, ed indura per la frigidezza, dove l'amore della caritade
+non scalda; e secondo la qualit@a della terra s'ingenerano le
+pietre, e cos@i secondo la qualit@a de' peccati.  Questa pietra era
+di cotale color generato da terra di diverse maniere: e come la
+pietra si fende per virt@u del fuoco materiale, la quale era
+conglutinata per freddo; cos@i la mente e la coscienzia per
+confessione, ch'@e il secondo grado, si fende, ed apre[si] per
+virtude dello amore celestiale, che caccia la frigidezza del
+peccato.
+
+	|100-105.  Lo terzo, che di sopra~ ec.  Qui descrive il
+terzo, ed ultimo grado di colore di vivo sangue, sopra il quale
+dice, che l'Angelo tenea li piedi, ed egli sedea in su la soglia
+de l'uscio, che la pone di colore di diamante, pietra di
+riconciliaz[i]one e d'amore.  Dice, che la emendazione era come
+un proferito di tale colore, qual @e il sangue vivo; a denotare,
+che la satisfazione dee essere di vive opere, le quali cos@i
+vivifica[no] l'anima, come il sangue @e sedia dell'anima, e come
+il peccato la mortific@oe.  E dice, che sopra questo grado
+l'Angelo, ch'@e in forma di sacerdote, tenea li piedi amendue;
+per@o che sopra la satisfazione si riposa tutta l'asenzia de
+l'anima, che non po[tea] substare sopra la contrizione, n@e sopra
+la confessione, ma fu necessario il grado della satisfazione a
+compensarlo col danno dato.  E dice, che l'Angelo sedea in su la
+soglia della porta di Purgatorio, che li parea di diamante; a
+denotare, che quando l'uomo @e reconciliato a Dio, ch'egli sale in
+sul sogliare della caritade.
+
+	|106-111.  Per li tre gradi~ ec.  |Devoto mi gittai~ ec. 
+Dice l'Autore, che Vergilio, cio@e la ragione, trasse lui per li
+detti tre gradi, dove @e da notare quanta forza l'umanit@a
+richiegga al suo bene.  E poi che esso ebbe salito li tre
+scaglioni, per confessione e contrizione gittossi alli piedi del
+sacerdote, chiese perdono, dicendo sua colpa, sua colpa, sua
+propria colpa, come si fa qui: e per@o dice, che tre volte si
+batt@e il petto, a denotare che la prima volta @e per li peccati
+concetti nel pensiero, la seconda per li pecati produtti alla
+lingua, la terza per li peccati conceputi con l'operazioni; e
+perch'elli si riconcilia al Padre, al Figliuolo, a lo Spirito
+Santo.
+
+	|112-114.  Sette P~ ec. |mi descrisse~ ec.  In questa
+parte si denotano li segni de' peccati mortali, ne' quali era
+caduto l'Autore, p[oi] la penitenzia, che gl'ingiugne il maestro
+della Chiesa; e la soluzione che gli fa di poi la ingiunta
+penitenzia.  E qui tratta dello officio delle due chiavi, delle
+quali il maestro delle Sentenzie, libro IIIJ, distinzione XVIIJ:
+^Causa principium~ etc.  E dice, che queste sono le chiavi, le
+quali il Signore diede a Piero, ed alli successori suoi, dicendo:
+<Io ti dar@o le chiavi del regno del Cielo, e chiunque tu legherai
+sopra terra, sar@a legato in Cielo; e chiunque tu proscioglierai
+su la terra, sar@a prosciolto in Cielo>.  Queste chiavi non sono
+corporali, ma sono spirituali, cio@e scienza di discernere, e
+potestade di giudicare, cio@e di legare, e disciogliere: per la
+quale dee ricevere li degni, e chiudere di fuori li indegni del
+regno, il giudice eclesiastico; il quale, s@i come elli hae
+giurisdizione d'asolvere, cos@ie hae di legare.  Onde dice
+Ambrosio: <lo Signore volle essere iguali la bal@ia d'asolvere, e
+di legare; [al]la quale promisse l'uno e l'altro con pari
+condizione>.  L'uso di queste chiavi @e di molte guise, in
+discernere quelli che sono da legare, e quelli che sono da
+sciogliere; e poi legare e sciogliere; per@o che lui, che li
+indegni lega, o scioglie, s@e pri[v]a dalla propria podestade,
+cio@e si fa degno di privazione.  E sogiugne:
+
+	|115-126.  Cenere, o terra~ ec.  A denotare, che nella
+conversione l'uomo dee s@e aumiliare, per@o che dee tornare in
+cenere, e per@o che fu formato, ed @e di terra.  Nota: e' sogiugne
+che l'una delle chiavi era d'oro, cio@e quella che assolve e
+serra; l'altra, che discerne, @e d'argento.  E per@o dice, che
+prima aperse con la bianca, e poi con la gialla; e soggiugne, che
+l'una e l'altra @e necessaria ad aprire la porta, per la quale si
+va alla salute, come @e detto di sopra.  E dice, che quella d'oro,
+come quella ch'@e a l'ultimo fine, @e pi@u cara; per@o che il suo
+effetto @e pi@u prezioso, sciogliendo, o legando.  Ma la bianca
+vuole troppa arte ed ingegno, anzi che diserri; per@o che 'l prete
+vuole avere molta descrezione, e considerare la condizione e
+stato, etade e maturezza del peccatore, in considerare la
+qualitade del peccato, e le circustanzie, ed in cui, e contra cui
+@e fatto, il luogo, il tempo, il d@i ec.; altrimenti male andrebbe
+la diliberazione della penitenzia, che si dee ingiugnere.
+
+	|130-132.  Poi pinse~ ec.  Dopo la ingiunta penitenzia e
+la soluzione, s@i mostra come s'entra alla purgazione; ed in
+questo l'amonisce l'Angelo, che poi che uomo @e confesso, pentuto,
+ed amendato, non si dee pi@u volgere alli peccati; ed altrimenti
+non si direbbe penitenzia: per@o che, come dice Santo Ambrosio,
+penitenzia @e piangere li mali passati; e quelli che sono da
+piangere, altra volta non commettere.  Chi in tale guisa piange
+li suoi peccati, che anche li commette, o egli non sa fare
+penitenzia, o egli si infigne.  Non pare che chi gravemente pecca
+dopo la penitenzia, che vera penitenzia sia proceduta; e per@o
+dice, che fuori torna ec.
+
+	|133-135.  E quando fur~ ec.  Qui descrive l'Autore il
+magisterio di quella porta; e dice, che quando fu aperta la porta
+della misericordia, ella fece grande romore, e mostrossi molto
+agra; a dare ad intendere, come era stato grave il fallo del
+peccatore, e come con fatica s'apre a uomo cos@i inviluppato nelle
+dilettazioni corporali, e vizi mortali, acci@o che pensi, se altra
+volta ritornassi di fuori, come malagevolmente li sarebbe aperto. 
+Conciosiecosach@e chi mortalmente pecca, si fa essule e sbandito
+della celestiale patria, alla quale cancellato dello sbandimento
+s'entra per questa porta.
+
+	|136-138.  Non rugg@io s@i~ ec.  A similitudine del
+magistero di questa porta introduce l'Autore il suono agro, che
+fece la porta Tarp@ea dello tesoro di Roma, quando Cesere, toltone
+dinanti Metello, la dispogli@oe; del quale spogliamento scrive
+Lucano, che poi che Pompeo, e Cato, e li altri Romani sotto
+pre[te]sto di non volere insanguinare la patria con cittadine
+mani, fuggirono a Brandizio, ed in esso assediati furono da
+Cesere, donde elli si fuggirono in Grecia, Cesare con la sua
+gente torn@o a Roma, la quale era piena di dubbiosi spaventamenti,
+e boll@ia di discordia; alcuni erano infiamati d'odio, altri
+affredati di paura, e catuna parte grande sospetto entr@oe in
+Roma.  La pecunia della camera del Comune, detta Tarp@ea, negata a
+lui dal detto Metello, esso spoli@oe.  Spezz@oe le porti, dalle
+quali [ha] tratti pondi d'oro IIIJ'M CXXV, e d'argento poco meno
+che DCCCC migliaia; della quale spogliatura essa porta molto si
+[d]olse, per@o che col suo si doveano dilacerare, ed uccidere li
+cari cittadini, e carcerare la libert@a, cattivare virtude, o
+mandare in essilio, e li vizi deducere in plubico.
+
+	|139-145.  Io mi rivolsi~ ec.  Qui descrive, che l'anime,
+che vi si purgano, allegratesi della venuta dell'Autore, s@i come
+della conversione del peccatore, cominciarono: |Te Deum
+laudamus~, ^te Dominum confitemur~ ec.  Nel quale Inno si
+referisce laude e glolia a Dio per li Ordini celesti, per li
+Apostoli, per li Profeti, per li Martori, e per tutto il corpo
+della santa Chiesa, narrando in esso il misterio della santa
+Incarnazione del Figliuolo di Dio per liberazione della umana
+generazione, e come elli vinta la morte aperse alli credenti il
+regno del Cielo; lo quale aprimento fa molto al presente
+trattato.  Ed in sua laude in esso si canta, come elli siede a
+destra del Padre, e come la Fede cristiana crede lui dovere
+venire al die del giudicio a giudicare vivi, e morti. 
+Ultimamente si adora a lui, ch'elli sovegna a' suoi famuli, li
+quali elli ricomper@oe col suo prezioso Sangue, s@i ch'elli sieno
+remunerati nella etterna glolia con li Santi suoi, e che la
+misericordia sua sia sopra noi, s@i come noi speriamo.  E
+sogiugne, che questo canto l@i procedea, come fa il canto delli
+organi nel nostro mondo, che alcuna volta intendea le parole
+dello Inno, alcuna volta non le 'ntendeva, o per difetto di s@e, o
+per la eccellenzia delle voci cantanti.  Qui finisce il VIIIJ
+capitolo.
+

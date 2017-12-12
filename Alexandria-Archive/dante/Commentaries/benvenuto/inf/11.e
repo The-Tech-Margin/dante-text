@@ -1,0 +1,603 @@
+	|SUMMARIUM.~  CANTUS DECIMUS PRIMUS, ^in quo tractat de
+tribus circulis: in~ ^primo sunt violentes, et declarat, sicut
+potest fieri violentia~ ^Deo, et sibimet, et proximo et in suis
+rebus: in secundo vero~ ^sunt avari: in tertio vero proditores:
+et de modo poenae ipsorum~; ^et in fine canti declarat qua de causa
+non omnes puniuntur in~ ^civitate Inferni.~
+
+	|PROEMIO~  ^In su l'estremit@a d'un'alta ripa.~  Postquam
+in superiori capitulo proxime praecedenti autor noster tractavit
+et determinavit de haereticis qui puniuntur in primo circulo
+civitatis, qui est sextus totius Inferni; nunc subsequenter in
+isto XI capitulo describit et distinguit residuum totius Inferni,
+ut sic clarius procedat ad materiam sequentium circulorum et
+poenarum.  Et istud capitulum potest breviter dividi in tres
+partes generales; in prima quarum autor tangit materiam
+sequentem, et retangit praecedentem.  In secunda facit unam
+distinctionem perutilem et necessariam omnium circulorum istius
+civitatis, ibi: ^Figliuolo mio.~  In tertia et ultima removet duo
+dubia incidentia circa materiam pertractatam, ibi: ^Et io
+maestro.~  Redeundo ad primam dico, quod autor primo tangit
+materiam sequentem, et retangit proxime praecedentem.  Unde
+considera quod hic proprie incipit civitas, quia incipiunt primo
+intrare corpus eius; ideo primo describit unum aggerem magnum et
+fortem factum ex saxis, qui claudit in circuitu istam terram.
+
+	|1-3.~  Dicit ergo continuans dicta dicendis quod
+ambulantes per illum callem, cito pervenerunt ad locum duriorem,
+qui continet intra se duriorem materiam.  Unde dicit: Virgilius,
+et ego, |venimo sopra pi@u crudele stipa.~  Et hic nota, ne
+fallaris sub equivoco, quod |stipa~, sicut alibi dixi, est
+aliquando verbum literale, et idem est quod ^claudit~; aliquando
+est verbum vulgare Bononiensium, et idem importat quod ^sit~;
+aliquando est nomen et habet diversa significata; aliquando est
+cavea sive gabia in qua continentur pulli, et ita capitur hic
+methaphorice.  Sicut enim pulli stant inclusi in gabia ad poenam
+et mortem, ita hic animae inclusae stant in isto carcere duriori
+quam omnes aliae quae puniuntur supra; ideo per stipam intellige
+carcerem et poenam, |in su la stremit@a d'un'alta ripa, che facean
+gran petre rotte in cerchio~, idest quam ripam faciebant magna
+saxa circulariter ordinata, quia locus iste est spericus, sicut
+omnis locus inferni et intra et extra istum; et per hoc notat
+duritiem et fortitudinem carceris, et ita difficultatem et
+profunditatem materiae.
+
+	|4-7.~  |E quivi.~  Hic autor descripturus materiam
+sequentem primo tangit eam in generali et in confuso, quia fingit
+pulcre quod senserunt maximum foetorem, cuius horribilitatem non
+ferentes, coacti sunt retrocedere versus arcas; sicut enim supra
+in primo introitu sensit terribilem sonum, ita nunc sentit
+horribilem foetorem.  Sed quis est iste foetor tantus?  Certe dico
+quod sicut fama virtutum appellatur bonus odor, ita infamia
+vitiorum pessimorum, quae hic puniuntur, merito figuratur per
+foetorem istum; iste enim foetor displicentissimus emanat ex multis
+latrinis istius civitatis.  Hic enim est vallis plena stercore
+bulienti; alia plena pice ardenti, alia plena serpentibus, et ita
+de multis, quia intra istam terram puniuntur omnes fraudes vel
+malitiae.  Unde infra autor describens fraudem in generali, dicit:
+^Ecco colei che tutto 'l mondo apuzza.~  Nunc ad literam dicit
+autor: |quivi ci racostammo indietro~, retrocedendo versus arcas
+cum magna festinantia tenendo nobis nares, |per l'orribil
+soperchio del puzzo~, idest propter nimium excessum et
+superabundantiam horribilis foetoris, |che 'l profundo abisso
+gitta~; et dicit: |ad un coperchio d'un grande avello~.
+
+	|8-9.~  Et hic nota quod autor hic utitur magna arte:
+vult enim ostendere quod nunquam perdat tempus, quia dum propter
+foetorem reduxisset se versus arcas, adhaesit uni alteri, non illi
+primae magnae Epicuri, a qua paulo ante recesserat; sed uni alteri
+magni haeresiarcae, scilicet Photini, in qua erat sepultus
+Anastasius papa.  Hoc autem fingit autor ad pleniorem
+perfectionem sui tractatus, quia superius tractando de haereticis
+non fecerat mentionem nisi de uno singulari errore epicureorum,
+et nihil dixerat de aliquo heresiarca christiano; ideo nunc
+reflectit se ad materiam quam videbatur finivisse, et tangit
+brevissime de Photino qui habuit errorem Macometti, qui dicebat
+quod Christus erat natus secundum carnem per viam matrimonialem
+ex Joseph et Maria.  Ad cuius cognitionem est sciendum, quod
+Photinus fuit graecus diaconus civitatis Thesalonicae, ad quam
+scribit apostolus, et fuit episcopus smirnensis, unde fuit
+Homerus poeta magnus.  Iste incidit in errorem pessimum, scilicet
+quod Christus fuisset conceptus ex Maria per Joseph via nuptiali. 
+Anasthasius vero secundus, natione romanus ex patre Petro fuit
+imperante Zenone Constantinopoli, et regnante Romae Theodorico
+rege gothorum, a quo Boetius proscriptus fuit.  Quo tempore multi
+clerici et praesbyteri recesserunt a comunione ipsius Anasthasii,
+quia comunicaverat Photino praedicto, tenendo et defendendo
+errorem eius; nam in casu haereticae pravitatis papa potest deponi
+si non vult emendari.  Modo ad literam autor dat magnum sepulcrum
+Anasthasio tamquam magno sacerdoti christianorum, in quo iacet
+cum multis aliis photinianis, et dat sibi epitaphium sive titulum
+sepulturae, sicut solet fieri magnis viris in mundo: qui quidem
+titulus erat inscriptus cooperculo sepulturae, in quo quidem
+titulo breviter tangitur nomen utriusque, scilicet Photini
+seducentis, et Anasthasii seducti; ideo dicit autor in litera:
+^ov'io vidi una scripta~, idest in quo cooperculo vidi modicam
+scripturam, |che dicea~: petra est quae loquitur, et dicit:
+|Anastasio papa guardo~, inclusum intra carcerem istum
+sepulcralem; et ecce quare, |lo qual trasse Fotin de la via
+dritta~, idest a via rectae fidei.  Et adverte quod autor in isto
+versiculo facit amphibologiam, idest dubiam locutionem; nam ad
+rectam intelligentiam istius literae debet fieri de Photino
+suppositum, et de Anasthasio appositum, ita ut litera construatur
+sic: ^lo quale~, idest quem Anasthasium, ^Fotin trasse fuor de la
+via dritta~, et non e contrario, ita quod Photinus sit agens,
+Anasthasius patiens.
+
+	|10-15.~  |Lo nostro.~  Hic autor revertitur ad materiam
+sequentem a qua incoeperat, et tangit consilium Virgilii ad hoc;
+quia enim fugerant retro propter horribilem foetorem, ideo
+Virgilius docet cautelam hic servandam, videlicet ut faciant
+modicam moram ut paulatim assuescant isti foetori generali
+confuso, ut postea minus laedantur quando descendent ad
+particulares foetores, quos plures invenient intra istam terram. 
+Hoc autem fingit autor magna arte, quia scilicet primo vult
+habere generalem cognitionem omnium criminum quae hic puniuntur,
+ut sic postea descendat ad specialem cognitionem eorumdem per
+singulos circulos discurrendo.  Ad literam ergo dicit Virgilius:
+|el nostro scender conven esser tardo~, quia scilicet paulatim,
+lente et morose est procedendum in isto primo introitu; et reddit
+causam, |s@i che 'l senso~, scilicet odoratus, |s'ausi prima un
+poco al tristo fiato~, scilicet foetori.  Et hic nota quod autor
+loquitur naturaliter et pulcre, quia repentinas mutationes odit
+natura, sicut videmus per experientiam, quod qui de novo intrat
+mare statim alteratur et provocatur ad nauseam; sed post modicum
+assuescit, et habet acutiorem appetitum quam prius; et ita autor
+in processu acutius et subtilius assuescet isti materiae foetidae 
+amarae; ideo dicit: |e poi non fia riguardo~, quasi dicat: postea
+non curabimus nobis, quia non laedemur; et dicit: |cos@i el
+maestro~, idest taliter Virgilius locutus est mihi; et statim
+subdit quomodo ex consilio Virgilii ipse cepit causam faciendi
+distinctionem Inferni.  Unde dicit: |et io dissi a lui: trova
+alcun compenso, che 'l tempo non passi perduto~, quasi dicat:
+praedicas mihi aliquid quod sit evidentiale ad dicenda, antequam
+intremus in corpus istius civitatis.  Et ostendit continuo quod
+Virgilius assentit sibi, dicens: |et elli~, idest et ipse
+Virgilius respondit: |vedi ch'a ci@o penso~, ita quod idem
+intendimus.  Unde nota quod vere ista distinctio quam autor parat
+facere erat necessaria et utilis, quia aliter remanebat nimis
+confusa materia huius civitatis.
+
+	|16-18.~  |Figliuolo mio.~  Ista est secunda pars
+generalis, in qua autor describit distinctionem quam fecit
+Virgilius ad ordinandam istam civitatem, ubi nullus est ordo; qui
+breviter dicit quod intra istam terram sunt tres magni circuli
+particulares, quorum quilibet continet intra se alios circulos
+particulares.  Dicit ergo: |poi cominci@o a dire~, scilicet ille
+ipse Virgilius coepit loqui iuxta promissum, et dicere: |Figliuol
+mio tre cerchietti~, idest, tres circuli generales, |son dentro
+da cotesti sassi~, idest intra istam ripam quam faciunt saxa in
+circuitu, ut iam dictum est in principio capituli, |di grado in
+grado~, idest ordinate unus sub alio, |come quei che lassi~, quia
+eo ordine quomodo superiores, quos omnes tu iam percurristi, sunt
+rotundi et contenti unus intra alium; 
+
+	|19-21.~  et dicit qui sunt habitatores istorum vicorum
+et circulorum, dicens: |tutti son pien di spirti maledetti~,
+scilicet pravorum peccatorum; et non intelligas quod non sint
+capaces plurium, sed est modus loquendi talis, sicut a simili
+dicimus: tota civitas est plena vitiosis.  Et invitat autorem ad
+considerandam claram distinctionem istorum circulorum, dicens:
+|ma intendi perch@e e come son costretti~, quasi dicat: considera
+causam et qualitatem, quare et quomodo isti spiritus sunt ita
+inclusi vel carcerati, quasi dicat, propter quam culpam et qua
+poena; et hoc volo quod facias, |perch@e poi te basti pur la
+vista~, quasi dicat: ut ex sola visione cognoscas ista loca vel
+scelera, quae puniuntur in eis, absque mea declaratione, quando
+perveniemus ad ea.
+
+	|22-24.~  |D'ogni.~  Nunc Virgilius ad declarationem
+distinctionis factae incipit modicum a longe, et praemittit unam
+divisionem bimembrem, quae breviter stat in hoc, quod omne
+peccatum quo homo offendit Deum, committitur altero duorum
+modorum tantum, scilicet vel per vim, vel per fraudem; secundum
+est deterius primo, quia fit ex electione.  Dicit ergo: |ingiuria
+@ee il fine d'ogni malicia~, idest omnis mali, |ch'aquista odio in
+cielo~, idest quod facit hominem odiosum penes Deum, ita quod
+homo male agendo facit iniuriam vel Deo, vel sibi, vel proximo
+violenter vel fraudulenter; unde dicit: |et ogni fin cotal~,
+idest omnis talis iniuria maliciae, |contrista altrui~, idest
+infert tristitiam alteri, |o con forza o con frode~, idest per
+violentiam, vel fraudulentiam.
+
+	|25-27.~  Et subdit quae est peior ex his duabus, dicens:
+|ma frode pi@u spiace a Dio perch'@ee proprio male del uom~, quasi
+dicat, quia fraus est propria hominis, sed vis est propria
+aliorum animalium, quia fraus non fit sine ratione, quia fit cum
+deliberatione; sed vis fit sine ratione, ut patet in brutis, quae
+sequuntur solum impetum naturalem.  Et concludit ex hoc: |e per@o
+stan di sotto li frodulenti~, scilicet magis longe a Deo, versus
+centrum in graviori supplicio; unde dicit: |e pi@u dolor li
+assale~, idest invadit eos, quia cruciantur maiori poena et per
+consequens plus doloris.
+
+	|28-30.~  |Di violenti.~  Hic autor praemissa ista
+distinctione violentorum et fraudulentorum declarat primum
+membrum, et breviter dicit, quod primus circulus generalis istius
+civitatis continet et punit solummodo violentos; et est divisus
+in tres, secundum quod est triplex species violentiae, scilicet
+contra Deum, contra se, contra proximum.  Dicit ergo: |el primo
+cerchio @ee tutto di violenti~, quia nullus fraudulentus habet
+locum ibi; |ma @ee distinto e construtto in tre gironi~, idest,
+sed iste primus circulus generalis subdividitur in tres alios
+particulares, et ecce causam: |perch@e se fa forza a tre persone~,
+scilicet Deum, se, et proximum.
+
+	|31-33.~  Et hic nota ad plenam intelligentiam istius
+literae, quod secundum istos tres gradus personarum distinguuntur
+isti tres circuli, sive gironi violentorum.  Primus giro continet
+iniuriatores proximi, et est maior ambitu, et plures continet,
+sed est minoris poenae.  Secundus continet iniuriantes sibi, et est
+minor primo, et pauciores continet, sed est maioris poenae. 
+Tertius est minor secundo, sed continet maiorem poenam; ideo
+continuo Virgilius se declarat, dicens: |Forza se pote~, idest
+potest, |fare a Dio, a se, al prossimo~; et statim subdistinguit
+istam triplicem violentiam cum dicit: |dico in loro et in lor
+cose.~  Ad quod volo te notare quod quaelibet praedicta triplex
+violentia potest fieri dupliciter, scilicet in persona et in
+rebus; nam prima violentia contra proximum fit in persona, sicut
+occidendo, vulnerando, et in rebus, ut praedando et aliter
+damnificando: violentia secunda quae fit in se, fit in persona,
+sicut illi qui occidunt se ipsos; in rebus, ut illi qui fatue
+dilapidant et vastant bona sua.  Violentia tertia quae fit in
+Deum, similiter fit in persona, sicut illi qui blasphemant et
+negant Deum; in rebus, ut qui despiciunt bonitatem divinam in
+natura vel arte; ideo dicit: |come udrai con aperta ragione~,
+idest, sicut demonstrabo tibi ratione clara.
+
+	|34-36.~  |Morte.~  Hic Virgilius declarat et exponit
+praedictas tres species violentiae valde ordinate.  Nam prima
+incipit a violentia proximi, cuius ratio est in promptu; nam qui
+offendit proximum recedit ab uno gradu caritatis minus stricto,
+quam ille qui offendit se; et ita qui offendit Deum offendit in
+superlativo gradu, quia est praecellentissimus, perfectissimus,
+vel finis ultimus: ergo quanto maior offensio, tanto maior poena. 
+Dicit ergo de prima violentia proximi, |morte per forza~, idest
+mors violenta, |e ferute dogliose~, idest et vulnera dolorosa,
+|se danno nel prossimo~, quantum ad personam, |e ruine e
+incendi~, diruendo et incendendo sibi domum, |e tollete dannose~,
+sicut extorsiones violentae et rapinae; repete illud verbum: |se
+danno nel suo avere~, et hoc est in rebus.
+
+	|37-39.~  Et specificat qui sunt isti violenti contra
+proximum, dicens: |lo giron primo tormenta tutti omicide~, idest
+omnes qui occidunt proximum violenter, |e ciascun che mal fere~,
+idest et quicumque vulnerat proximum iniuste, |guastator~, sicut
+stipendiarios et sociales, qui vastant bona proximi violenter,
+|predon~, sicut sicarios, |per diverse schiere~, secundum
+diversitatem talium violentiarum, ut patebit infra suis locis.
+
+	|40-46.~  |Puote.~  Hic Virgilius declarat secundam
+speciem violentiae, quae fit contra se ipsum, dicens clare et
+breviter: |homo puote avere man violenta, in se e ne' suoi beni~,
+et in persona et in rebus; et specificat qui sunt isti, dicens:
+|qualunque priva se del vostro mondo~, scilicet interficiendo se,
+|biscazza e fonde la sua facultate~, dissipando substantiam suam,
+|e piange l@a dove de' esser giocondo~, quasi dicat: tristando vel
+dolendo in vita, ubi debebat laetari; et saepe tollit sibi esse et
+bene esse, puta personam et divicias, |conven che se penta~,
+idest puniatur, |nel secundo girone~, idest in secundo circulo
+violentorum; et dicit: |senza pro~, quia poenitentia est tarda in
+istis, quando abiecerunt bona sua tam in mundo isto quam in alio.
+
+	|46-48.~  |Puossi.~  Hic Virgilius declarat tertiam
+speciem violentiae, dicens: |puossi far forza nella deitate~,
+idest in Deum, scilicet in personam, |negando e biastemando
+quella~; et similiter in rebus, |spregiando natura e sua
+bontate~, idest artem quae procedit a bonitate naturae.
+
+	|49-51.~  Et specificat qui sunt isti dicens: |e per@o lo
+minor giron~, idest tertius circulus violentorum, qui est minor
+ex tribus, |sugella Sodoma~, idest sodomitas, |e Caorsa~, idest
+usurarios. Caturgium enim est civitas in Gallia, in qua quasi
+omnes sunt foenerantes, ut plenius dicetur infra, |e chi favella
+col cor sprezando Dio~, scilicet blasphemantes Deum accenso
+corde, et dicit: |col segno suo~, idest cum flammis igneis, quae
+cadunt super omnes praedictos, et inurunt et imprimunt signa in
+eos, ita quod remaneant cicatrices indelebiles, ut patebit infra,
+et sic bene sigillantur vel signantur.  Et hoc de violentia:
+sequitur de fraudulentia.
+
+	|52-54.~  |La frode.~  Nunc Virgilius accedit ad
+distinguendum species fraudulentiae; et ad intelligentiam istius
+partis oportet te praenotare, quod iniuria quae fit per fraudem fit
+generaliter duobus modis.  Est enim una fraus generalis, quae
+rumpit unum vinculum generale naturae, quale est quod omnis homo
+omni homini naturaliter est amicus; unde secundum istud vinculum
+naturae, nullus debet facere alteri quod non vult sibi fieri, et
+debet omnibus servare fidem.  Alia est fraus quae violat aliud
+ligamen speciale, quod fides addit super generale, sicut cum quis
+fraudat dominum, parentem, propinquum, amicum, socium; ista fraus
+secunda est peior, ideo proditores puniuntur inferius in fundo;
+fraus vero prima est levior, et habet fieri decem modis: ideo
+secundus circulus civitatis in quo punitur ista fraus est
+distinctus in decem partes, quas autor appellat bulgias, et quia
+proditio fit quatuor modis, ideo tertius circulus generalis est
+distinctus in quatuor partes.  Et considera, quod bene calculata
+ratione, novem sunt circuli Inferni in universali, quinque extra
+civitatem, unus intra et iuxta muros, in quo stant haeretici, et
+alii tres, quos autor distinguit hic.  Nunc ad literam veniendo
+Virgilius tangit primo secundam speciem, secundo primam fraudis,
+dicens: |l'uomo po' usar la frode onde ogni consciencia~,
+scilicet committentis ipsam, |@ee morsa~, quia non potest fieri
+sine morsu conscientiae, quia fit appensate non per ignorantiam
+vel impetum, |in colui ch'in lui fida~, idest qui confidit de
+homine sicut contra patrem, patriam, amicum, consanguineos.  Ecce
+secundam: |et in quel che non imborsa fidancia~, idest et contra
+illum qui non concepit sibi fidem de homine aliqua speciali de
+causa. 
+
+	|55-60.~  Et specificat autor istud secundum membrum
+tamquam levius dicens: |questo modo diretro~, idest ista secunda
+species fraudis, |par ch'ancida~, idest dissolvat, |pur lo vincol
+d'amor che fa natura~, idest vinculum generale naturae, sicut
+decipiendo extraneum, cui nihil debeo nisi ratione humanitatis et
+naturalis pietatis.  Et continuo declarat qui sunt isti et ubi
+positi, dicens: |ipocrisia~, idest hipocritae, |losinghe~, idest
+adulatores, |e chi affattura~, idest malefici, qui affacturant et
+faciunt malias et incantationes, |falsit@a~, idest falsatores
+metallorum, mercium et aliarum rerum, |ladronegio~, idest fures,
+|e simonia~, idest simoniaci, qui vendunt vel emunt sacra;
+|rufiani~, idest lenones qui seducunt mulieres, |baratti~, idest
+baractatores communis vel domini sui in officiis, |e simil
+lordura~, idest omnis similis turpis fraus, quasi dicat, et ut
+breviter dicam, omnes alii turpes fraudulenti, |s'anida~, idest
+reponuntur, puniuntur, |nel cerchio secundo~, idest in circulo
+secundo generali distincto in decem valles, in quibus puniuntur
+omnes dictae fraudes; et vide quod autor non servavit ordinem in
+numerando dictas species fraudium.
+
+	|61-66.~  |Per l'altro.~  Hic ultimo autor declarat
+primum modum fraudis quae rumpit vinculum speciale et strictius,
+et per consequens est peior quam duplex; nam violat vinculum
+generale naturae, et vinculum speciale fidei.  Dicit ergo: |quel
+amor~, scilicet generalis, |che natura fa~, inter hominem et
+hominem, |e quel che @ee poi agiunto~, idest amor spiritualis ,
+quem postea fides addit supra primum; unde dicit: |di che la fede
+special si cria s'oblia~, idest traditur oblivioni et deletur,
+|per l'altro modo~, idest per primam speciem fraudis, ut iam
+patuit, et continuo specificat qui sunt isti, et ubi stant,
+dicens: |onde qualunque trade~, idest omnis proditor peccans
+aeternaliter sine emendatione, |@ee consunto in eterno~, idest
+punitur aeternaliter; ita enim aeterna mors consumit animam, sicut
+animal vorat herbam, quae continuo nascitur de radice, |nel
+cerchio menore~, scilicet in tertio circulo generali, qui est
+nonus Inferni in forma putei in centro terrae.  Unde dicit: |del
+universo in su che Dite sede~, idest supra quo circulo et centro
+stat rex Inferni, ubi est fundamentum istius civitatis Ditis.
+
+	|67-69.~  |Et io: Maestro.~  Ista est tertia pars
+generalis in qua autor movet duo dubia quae oriuntur ex dictis
+Virgilii; et primo proponit primum dubium, et petit si in
+distinctione facta per eum continetur omnis malitia et omnis
+peccator.  Videtur enim quod sic, quia dicit: ^d'ogne malicia~
+{v.22}, et videtur quod non, quia extra istos circulos sunt
+luxuriosi, gulosi, avari, prodigi, iracundi, accidiosi, superbi:
+unde distinctio non videtur perfecta, quae non comprehendit suum
+totum.  Primo ergo autor commendat distinctionem factam ad
+captandam benivolentiam, dicens: |Et io~, supple dixi: |o
+maestro, la tua ragion procede assai clara~, quia scilicet bene
+et rationabiliter et cum bono ordine distinxisti istam civitatem,
+vel: |assai ben distingui questo baratro~, idest istam profundam
+voraginem Inferni, |e 'l popol che 'l possede~, idest
+multitudinem punitorum in eo;
+
+	|70-75.~   deinde facit suam petitionem specialem,
+dicens: |ma dimme~: ad tollendum dubium meum: |quei de la palude
+pingue~, idest illi qui puniuntur in palude stygia, quae est
+crassa, nebulosa et caliginosa, ut iam supra saepe patuit; et
+illi, |che mena el vento~, scilicet luxuriosi, quos ventus ducit
+ita velociter impausabiliter per aerem, |e che batte la pioggia~,
+scilicet gulosi, quos gravis pluvia continuo macerat, |e che
+s'incontran con s@i aspre lingue~, scilicet avari et prodigi, tam
+mordaciter improperantes sibi verbis ad invicem, quia dicunt:
+^perch@e tieni, perch@e burli~ {C.7,v.30}; isti omnes et similes,
+|perch@e non son puniti dentro da la citt@a roggia~, idest intra
+istam civitatem rubeam, quae habet ignes haereticorum circa muros
+et etiam alibi; |se Dio li ha in ira~, idest si offenderunt Deum;
+et si non offenderunt, cur ergo variis suppliciis cruciantur? 
+Unde dicit: |e se non li ha~, scilicet in ira, |perch@e sono a tal
+foggia~, scilicet separati ab istis extra civitatem in liberiori
+campo?
+
+	|76-78.~  |Et elli.~  Hic autor ponit responsionem
+Virgilii qui primo arguit ipsum de ruditate sua, qui non videtur
+videre promptam rationem; dicit ergo: |et elli a me~, idest ille
+Virgilius respondit mihi: |l'ingegno tuo, over la mente~, idest
+memoria, |perch@e tanto delira~, idest discrepat et deviat, |da
+quel che suole~? quia scilicet soles inquirere subtiliter de
+rebus difficilibus; nunc vero inquiris de rebus levibus; ideo
+dicit: |dove altrove mira~? quia alibi ingenium tuum solet mirari
+causas latentes, quod pertinet ad philosophos.
+
+	|79-89.~  Et ecce statim assignat causam quare praedicti
+non sunt positi intra civitatem, quia scilicet fuerunt
+incontinentes, et incontinentia minus peccat; quod probat
+autoritate philosophi, qui distinguit tres species fugiendas
+circa mores, scilicet incontinentiam, malitiam, et bestialitatem. 
+Ad quod notandum, quod sicut potest colligi ex verbis philosophi
+VII Ethicorum, bona electio non potest esse sine ratione vera et
+appetitu recto; ideo quando aliquid horum pervertitur contingit
+quod aliquid sit in moribus fugiendum.  Si ergo sit perversio ex
+parte appetitus, et ratio remanet recta, erit incontinentia; quod
+contingit quando ratio recte iudicat, sed appetitus propter
+passionem trahit in contrarium.  Si autem tantum invalescat
+perversitas appetitus ut dominetur rationi, ratio sequitur id, in
+quod appetitus trahit sicut principium quoddam, extimans illud
+esse finem et optimum; et tunc electione operabitur perversa, ex
+quo aliquis dicitur malus, et talis dispositio dicitur malitia;
+aliquando autem ita pervertitur appetitus et ratio, quod excedit
+limites humanae vitae, et talis dispositio dicitur bestialitas. 
+Incontinentiae opponitur continentia; malitiae, virtus moralis;
+bestialitati vero, virtus heroica sive divina.  Ad quod sciendum
+quod anima humana est media inter angelos, cum quibus convenit
+per intellectum; et bruta, cum quibus convenit per potentias
+sensitivas.  Sicut ergo pars sensitiva aliquando depravatur in
+homine usque ad similitudinem bestiarum, et vocatur bestialitas
+super humanam malitiam; ita etiam rationalis pars aliquando ita
+perficitur et roboratur in homine ultra comunem modum humanae
+perfectionis, quasi in similitudinem angelorum.  Vel hoc vocatur
+virtus divina, secundum quam antiqui poetae et populi dicebant
+quod viri excellentes convertebantur in Deos, sicut Hercules et
+Romulus.  Sicut autem virtus divina raro reperitur in bonis, ita
+bestialitas raro reperitur inter homines, vel ex prava
+consuetudine hominum qui non utuntur legibus humanis, vel ex
+forti passione per quam quis incurrit alienationem mentis, vel
+propter magnum incrementum malitiae, sicut quidam factus insanus
+imolavit matrem, et mactavit conservum suum, et comedit epar
+eius; et alius scindebat ventres mulierum praegnantium ut partus
+conceptos devoraret.  Simile dicitur de hominibus silvestribus
+qui commorantur in sylvis circa mare ponticum, quod hodie dicitur
+mare maius, quorum quidam comedunt carnes crudas, quidam vero
+carnes humanas, et si non sufficit testimonium Aristotelis, certe
+Hyeronimus contra Jovinianum scribit, se vidisse barbaros
+comedentes nates puerorum et papillas mulierum.  Modo ad
+propositum, ut patet ex dictis, incontinentia est mala, malitia
+peior, bestialitas pessima.  Ille enim dicitur esse incontinens,
+qui propter perversitatem appetitus egreditur a iudicio rationis
+in agendis, et agit contra id quod scit esse faciendum.  His
+praemissis, nunc est ad literam descendendum; dicit Virgilius
+Danti: |non ti rimembra di quelle parole~, quasi dicat: bene
+debes recordari, |con le quai la tua etica~, scilicet quam tu
+bene novisti tamquam bonus moralis, |pertratta~, idest perfecte
+tractat, |le tre disposizion~, scilicet circa mores, |che 'l ciel
+non vuole~, quae scilicet contrariantur virtuti, et per consequens
+offendunt Deum; et nominat illas, dicens: |incontinencia, malicia
+e la matta bestialit@a~, quae scilicet totaliter hominem
+transnaturat et facit bestiam: et nonne recordaris, |come
+incontinenzia men Dio offende~, incontinentia enim operatur
+secundum concupiscentiam, non secundum electionem; sunt namque
+incontinentes dispositi sicut dormientes, vel ebriosi, ideo sunt
+magis corrigibiles et minus Deum offendunt; unde incontinentia
+videtur esse proprie circa delectationes, et bene ideo dicit: |e
+men biasemo accatta~, idest et per consequens meretur minus
+infamiae et poenae, et propter rationem assignatam concludit
+Virgilius: ergo, |se tu riguardi ben questa sentenzia~, scilicet
+Aristotelis, quae est bona et vera, |e rechiti a la mente~, idest
+et si revocas tibi ad memoriam, |quai son quei che sostengon
+penitenzia~, idest inefficacem tamen, quia nihil profecturam eis,
+unde poenitentia ponitur pro poena, et dicit: |quass@u di fuor~,
+idest extra istam civitatem in loco altiori, quia semper per
+Infernum tenditur deorsum: |tu vedrai ben~, idest faciliter
+videre poteris, |perch@e sian dipartiti da questi felli~, idest ab
+istis malitiosis qui puniuntur hic intra, |e perch@e la divina
+vendetta~, idest iustitia |men cruciata~, idest irata, |li
+martelli~, idest tormentet et flagellet eos.
+
+	|91-93.~  |O Sol.~  Nunc autor movet secundam quaestionem
+Virgilio, quae nascitur ex quodam dicto superius posito; et
+quaestio breviter est talis: tu superius posuisti usurarium inter
+offendentes Deum, non bene video quare, quia videtur potius
+facere contra proximum.  Ista autem quaestio est subtilior prima;
+prima tamen videtur magis necessaria, ut autor amplecteretur
+totum Infernum: ideo primo commendat solutionem quam fecit ad
+primam quaestionem, ut reddat eum benivolum ad solvendam sibi
+secundam; unde dicit: |o Sol che sani ogne vista turbata~, idest,
+o clarissime Virgili, qui expellis omnem tenebram ignorantiae ab
+intellectu radiis sapientiae tuae, sicut sol omnem nubem
+obscuritatis ab aere, radiis suae lucis, |tu me contenti s@i quando
+tu solvi che dubiar non m'agrata men che saver~, quasi dicat: est
+mihi gratius habere dubitationem quam scientiam de re, quia ex
+solutione tua, ego capio maiorem certitudinem, quam si
+simpliciter ego scirem ex me vel ex alio, sicut saepe contingit,
+quod homo scit veritatem unius rei in confuso, tamen quia credit
+se plene scire, non dubitat, et ideo non quaerit; sed si petat a
+viro valentissimo, acquirit claram certitudinem veritatis; et hoc
+est quod autor vult dicere Virgilio, quod multum habet carum
+dubitare propter declarari ab eo, quia tunc non habebit postea
+dubitare de eadem re.
+
+	|94-96.~  Et proponit et format quaestionem, dicens:
+|diss'io: ancora te rivolvi un poco indietro~, scilicet ad iam
+dicta in praedicta distinctione tua; et ecce ad quem passum,
+scilicet: |l@a ove di' che usura offende la divina bontate~,
+scilicet ubi supra dixisti, ^Caorsa~ {v.50}, |e solvi il groppo~,
+idest istam quaestionem, scilicet quomodo usurarius offendit
+bonitatem divinam, quia istud non videtur bene clarum multis.
+
+	|97-105.~  |Filosofia.~  Hic autor ponit responsionem
+Virgilii ad propositam quaestionem, qui primo facit pulcram
+rationem naturalem, quam fundat supra unum dictum naturale.  Ad
+cuius intelligentiam oportet notare quod, sicut latius dicitur I
+capitulo Paradisi, et in pluribus partibus philosophiae, naturalis
+est devenire ad unum principium quod sit causa rerum naturalium,
+cum non sit dare processum in infinitum; et hoc principium cum
+sua arte, idest ordine, est causa cursus et processus naturalis,
+et appellatur natura naturans, idest Deus, a quo dependet coelum
+et tota natura.  Modo ad propositum: natura producitur a Deo
+sicut filia a patre, ita quod quasi est filia Dei; deinde ars
+sequitur, quae est filia naturae; ille ergo qui facit contra artem,
+facit contra naturam matrem artis, et si facit contra naturam
+facit contra Deum, qui est pater naturae; ideo vult dicere
+Virgilius: non debes mirari si posui usurarios inter offendentes
+Deum.  Nunc ad literam dicit autor: |Filosofia nota~, idest
+notanter scribit, |come natura~, scilicet naturata, |prende el
+suo corso dal divino intelletto~, idest a mente divina, |e da sua
+arte~, idest ab ordine eius; ergo natura imitatur Deum, sicut ars
+naturam, et dicit: |a chi la intende~, idest philosopho naturali
+qualis tu es.  Dicit etiam: |non pur in una sola parte~, imo in
+pluribus libris naturalis philosophiae; unde subdit: |e tu
+troverai non dopo molte carte~, scilicet secundo Physicorum
+capitulo IV, ubi dicit: ^si autem ars imitatur naturam etc.~  --
+|Se tu noti ben la tua fisica~, cum sis philosophus naturalis,
+|che l'arte vostra~, scilicet ars humana, |segue quella~,
+scilicet naturam, |quanto puote~, quia ars imitatur naturam in
+quantum potest, |come al discente fa il maestro~, idest sicut
+discipulus recipit formam disciplinae a doctore; unde ars est
+imago naturae, idest imitatio; ideo bene dicit: |s@i che vostra
+arte @ee quasi nepote a Dio~, quia scilicet natura est filia Dei,
+et ars est filia naturae; ergo ars est neptis Dei, sicut a simili,
+si quis diceret; iste violavit filiam filiae meae, ergo offendit
+filiam meam, quae mater eius est; et si offendit filiam meam, ergo
+me patrem qui genui illam, et diligo purissime illam.
+
+	|106-108.~  |Da queste.~  Hic Virgilius facta ratione
+naturali, nunc probat propositum per rationem moralem, confirmans
+dictum suum autoritate sacrae scripturae; et breviter vult dicere:
+homo habet esse a natura, ab arte vero habet bene esse; ideo bene
+debet satisfacere utrique, quia primum praecepit Deus cum dicit:
+^Crescite et multiplicamini~: secundum cum dicit: ^In sudore
+vultus tui etc.~  Nunc expone sic literam quae est fortis: |la
+gente~, idest genus humanum, |convien prender sua vita~, idest
+suum esse, et oportet, |avanciar~, idest lucrari ad
+sustentationem ipsius vitae, |da queste due~, scilicet a natura et
+ab arte, quorum utrumque confirmat autoritate Dei.  De primo enim
+dicitur Genesis primo, et de secundo; ideo dicit: |se tu ti rechi
+a mente~, idest si revocas tibi ad memoriam, |lo genesi~, qui est
+primus liber Bibliae continens generationes hominum, |dal
+principio~, quia circa principium illius libri habentur ista duo
+praecepta praedicta.
+
+	|109-111.~  |E perch@e.~  Hic Virgilius ex dictis
+concludit propositum, scilicet quod usurarius offendit divinam
+bonitatem, quia offendit naturam offendendo artem; dicit ergo: |e
+l'usuriero dispregia natura per la sua sequace~, idest per artem
+quae sequitur naturam, |poi che in altro pon la spene~, scilicet
+quam in arte, |perch'el tiene altra via per se~, scilicet
+diversam ab omni arte.  Nam non est artificiale quod denarius
+faciat denarium, sicut usurarius vult, qui ponit usum in re, in
+qua non est dare usum.  Si enim praesto tibi mantellum, licet mihi
+petere praetium, quia paulatim consumitur et deficit; sed denarius
+non, quia non teneris reddere idem, sed simile. Aliae etiam artes
+et mercantiae sunt subditae infinitis periculis et casibus fortunae;
+usurarius vero est absolutus ab omnibus infortuniis, quia sive
+sit pluvia, sive serenitas, sive tempestas, sive tranquillitas
+maris, semper vult quod sui denarii superlucrentur tantum pro
+libra; nec obstat si dicas quod ius civile permittit usuram, quia
+non considerat nisi quod homo vivat pacifice et concorditer cum
+homine.  Unde philosophus libro Ethicorum damnat usuram, et
+propheta detestatur et blasphemat amare, dicens: ^Scrutetur
+foenerator omnem substantiam suam et diripiant alieni labores eius
+etc.~
+
+	|112-114.~  |Ma.~  Hic ultimo Virgilius finit istum
+tractatum et claudit capitulum; et primo invitat autorem ad
+recessum dicens: |ma seguime oramai~, quia non est amplius
+standum hic, sed tendendum ad primum circulum, |che 'l gir mi
+piace~, quia tempus urget; unde statim, assignans causam quia
+velit recedere, facit descriptionem temporis primo per
+constellationem orientalem, et non vult sententialiter dicere
+nisi quod fiebat dies, unde dicit: |che i pesci guizzan su per
+l'orizzonte~, vult dicere quod iam appropinquabat dies, quia
+signum piscium quod praecedit arietem iam ascendebat hemisperium
+nostrum in oriente, vel sic aries sequebatur cum sole.  Est autem
+orizon circulus terminator visus, qui dividit hemisperium
+superius ab inferiore; ideo bene dicit: |che i pesci guizzano~,
+idest moventur velociter per purum coelum sicut pisces per
+liquidam aquam, unde respexit ad naturam piscium; et sic nota
+quod hic est finis primae noctis, ita quod autor stetit hucusque
+per unam noctem in Inferno.  Deinde describit horam per
+constellationem septentrionalem, dicens: |el carro~, idest
+constellatio illa quae appellatur plaustrum, scilicet ursa, |giace
+tutto sopra 'l Coro~, quasi dicat tendit ad occasum, quia Corus
+est ventus occidentalis, et sic erat prope dies, quia currus
+appropinquabat occasui suo, quamvis nunquam in totum occidat, sed
+describit unum brevem circulum.  Facit enim unam parvam
+revolutionem, sed nunquam recedit ab hemisperio nostro.
+
+	|115.~  Et ostendit locum ad quem sunt accessuri, dicens:
+|el balzo~, idest gradus, |si dismonta~, idest descenditur, |l@a
+oltra via~, scilicet per circulum factum ex lapidibus, de quo
+dictum est in principio capituli.
+
+

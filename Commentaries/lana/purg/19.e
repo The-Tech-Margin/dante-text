@@ -1,0 +1,360 @@
+	|Proemio.~  La intenzione dell'autore nel presente
+capitolo @e di toccare sei cose, le quali per continuazione del
+suo poema pone.  La prima fittivamente pone una visione, sopra la
+quale materia ello fonda suo trattato.  La seconda introduce al
+modo usato l'angelo, il quale li lava quel peccato, di che ha
+trattato cio@e in questo luogo, dell'accidia.  La terza cosa fae
+esponere la sopradetta visione a Virgilio, acci@o che troppo
+chiuso non procedesse il suo trattato.  La quarta cosa tiene
+sermone con uno, che nella prima vita fue papa di Roma.  La
+quinta cosa tocca dell'avarizia e della pena delli avari.  La
+sesta ed ultima cosa compie poetando lo suo capitolo seguendo suo
+poema, toccando come le prelazioni e signor@ie della prima vita
+sono in privazione della seconda.
+
+	Alla prima cosa @e da sapere che l'autore nei precedenti
+capitoli ha trattato di quello vizio d'accidia, che versa il suo
+amore contra lo prossimo spiritualmente, ora intende trattare di
+quel vizio che versa lo suo amore alle cose temporali, ed @e tanto
+fermo a quello, che ogni altra cosa gli @e in oblivione e
+dimenticanza.  E questo @e lo vizio della avarizia, il quale @e uno
+smisurato amore e appetito averso le temporali ricchezze.  Or
+l'autore fittivamente nella sua visione introduce una femmina
+cos@i inordinata ne' suoi membri, come lo testo palesa, poi in
+processo di tempo ella si rifa e diventa piacevile, e nel parlare
+faconda; le quali diversitadi hanno per allegor@ia a significare
+la avarizia, la quale @e turpe peccato e obliquo appetito a
+considerarlo di s@e e con la mente sana.  L'altra diversit@a, che
+appare nella sua piacevolezza e facondia, hae a significare per
+allegor@ia lo parere dell'animo perverso e inviluppato nelle sue
+dilettazioni, il quale hae tutto lo suo intendimento in possedere
+ricchezza temporale, il quale appetito e piacibilitade ha molte
+persone ingannate, sicome @e detto nel primo capitolo dello
+Inferno: ^Molti son gli animali, a cui s'ammoglia.~  Poi
+introduce nella detta visione una donna onesta e virtudiosa, la
+quale si mischia e combatte con la predetta, e in fine tutta la
+squarcia, e fa parere quella malizia che @e coverta sotto quella
+piacevolezza dello appetito avaro.  La quale donna hae a
+significare per allegor@ia la ragione, la quale discuopre tanto
+fetore e malizia quanto si cuopre sotto lo velame di quello
+perverso appetito, il quale tende ad avarizia.  E seguendo poi
+suo poema tratta come usc@io di quella visione per lo fetore della
+predetta malizia; e soggiunge che gi@a tutta la montagna era piena
+dei raggi del sole, ch'era levato sovra l'orizzonte di quel sito.
+
+	La seconda cosa, sicome @e usato, introduce uno angelo
+bianco lo quale collo ventilare dell'ala s@i tolse uno di quelli
+peccati mortali, ovvero uno di quei P, che quel ministro, ch'era
+suso la porta del Purgatorio, li fece con la punta della spada,
+sicom'@e detto nel IX capitolo di questa seconda Cantica.  La
+quale, com'@e detto, significa la grazia di Dio, che ne
+sopravviene come siamo liberi dal peccato; e questo peccato, che
+al presente li divelse, fu quello dell'accidia.
+
+	La terza cosa che 'l predetto autore tocca si @e, ch'ello
+espone la predetta visione nel testo e breve, la qual chiaro
+appare tra per quello che @e detto della prima cosa e quello, che
+apparirae nella esposizione del testo.
+
+	Alla quarta cosa @e da sapere che l'autore trov@o uno, che
+fu nella prima vita papa di Roma, in lo quinto circolo della
+montagna, il quale li disse come per avarizia elli stanno cos@i
+appiccati alla terra, e cos@i come il suo cuore non guard@o a Dio e
+alle cose spirituali, ma tutto intento alle terrene, cos@i la
+giustizia di Dio li tiene stretti e serrati alla terra per tal
+maniera, che non hanno possa di muovere n@e di crollare alcuno suo
+membro.  Or nota ch'elli @e grande pena all'anima ad essere
+legata, imperquello che @e contra sua natura.  Poi condiscende il
+detto papa a palesarli lo suo nome e notificalo per lo sito; e
+dice che dentro Siestri e Chiavari, che sono due terre della
+riviera di Genova, @e una fiumana, che ha nome Lavagna, del qual
+nome si chiamonno in prima li suoi antichi Conti; e questi sono
+quelli dal Fiesco da Genova.  E soggiunge che non stette molto
+pi@u d'uno mese in tale prelatura, la quale, a chi la vuole
+direttamente usare e senza peccato, non @e la minor soma; e dice
+che anzi che fosse a tal grado, era tutto disposto ad avarizia;
+veggendosi essere nel sommo stato, e non avere contento l'animo,
+avvidesi che le temporali cose non acquietavano l'animo, ricorse
+alle spirituali e cos@i si salv@o, ma convennesi a soddisfare la
+giustizia, ch'elli portasse pena della colpa commessi.
+
+	Alla quinta cosa @e da sapere che la pena si dee seguire
+al peccato, e perch@e avarizia @e pessimo peccato, @e la sua pena
+pi@u amara delle altre, ch@e sicome avarizia non ha l'occhio suo
+alle spirituali cose, com'@e detto, ma solo alle terrene, la
+giustizia tiene l'occhio e 'l corpo inverso la terra; e come
+l'avarizia ammorta e scaccia ogni amore, che tende in bene
+operare, cos@i la giustizia lega ogni sua possanza e virtude, e
+imprigionala in tal modo, ch'ella patisce dura e amara pena.
+
+	Alla sesta cosa @e da sapere che le prelazioni
+ecclesiastiche della prima vita caggiono sotto il sacramento
+dell'ordine, lo quale @e lo sacramento dell'amministrazione delli
+altri sacramenti, e specialmente di quello dell'eucarist@ia, che @e
+a consecrare l'ostia e 'l vino, e farlo transubstanziare
+veracemente nel corpo e nel sangue di Cristo.  E altro non @e a
+dire ^sacramento~ se non spirituale grazia invisibile sotto
+accidenti di cose visibili, come lo corpo e 'l sangue di Cristo
+sotto la bianchezza dell'ostia, e 'l colore e 'l savore del vino. 
+Ora ragionevilemente ogni azione dee essere proporzionata
+all'attore, fa dunqua bisogno che 'l dispensatore de' sacramenti
+sia persona sensibile, come sono li uomini nella prima vita,
+sicome dice l'Apostolo ^ad Ebreos~ V: ^Omnis pontifex ex
+hominibus assumptus~ etc.; li quali dispensatori sono li prelati
+della Chiesa, sicome lo detto Apostolo dice ^ad Corinthios~ IV:
+^Sic nos existimet homo ut ministros Christi, et dispensatores
+ministeriorum Dei.~  Or dunque appare chiaro che la prefazione
+ecclesiastica @e li ministratori de' sacramenti, li quali
+sacramenti non si dispenseranno nella seconda vita per questo
+modo, cio@e sotto cose sensibili grazia: sich@e tale autorit@a, tale
+grazia, nella seconda vita non sar@a, ch@e solo li sar@a quel
+principale ministro, che @e creatore di tutte le cose.
+
+	Poich@e brevemente @e toccato quelle parti, che l'autore
+intende nel presente capitolo, si @e da esponere lo testo a
+perfezione del nostro lavor@io.
+
+	|1-3.~  Qui l'autore descrive lo tempo, che li avvenne la
+sua visione, e dice: fue a quell'ora che 'l calore del d@ie, cio@e
+delli raggi del sole, non pu@o essere tepidato; cio@e temperato dal
+freddo, il quale avviene o per la Luna, o per Saturno, che sono
+pianeti freddi; cio@e che la terra @e la prima regione dell'aiere
+che ^immediate~ apresso essa s@i si riscalda per li radii del
+Sole, li quali elli li manda quando @e sovra terra, il qual calore
+dura passata mezzanotte infino quasi a d@i, s@i che ello tempera il
+freddo notturno mandato alla terra o dalla Luna o alcuna fiata da
+Saturno.  Sicch@e altro non vuol dire se non che era quasi
+l'aurora, quando fu questa sua visione.  E nota che questa @e
+quell'aurora del terzo d@ie, che l'autore stette nel Purgatorio.
+
+	|4-6.~  Mostrato per uno modo l'ora della visione,
+poetando la vuole mostrare per uno altro, e dice che era quella
+ora quando li geomanti, cio@e quelli che usano geomanz@ia, reputano
+esser migliore a far sua arte, e che ella li dice meglio lo vero. 
+Circa la qual cosa @e da sapere ch'ell'@e una arte, la quale si fa
+in terra, ovvero sabbione, ovvero con penna e inchiostro suso
+carte, e fassi XVI linee di punti a ventura, cio@e senza numerare
+i punti; poi di questi punti si traggeno quattro figure, le quali
+sono appellate madri, poi di quelle secondo lo rito di quell'arte
+si fanno l'altre, poi secondo le figure e li aspetti d'esse d@anno
+giudizio delle cose a dimandare.  Or la cagione perch@e li detti
+artisti dicono essere circa l'aurora pi@u atto il tempo a sue
+arte, si @e che in quell'ora ogni digestione di cibo @e fatta,
+sich@e li membri del corpo non sono aggravati da alcuna cagione
+intrinseca, ma tutti disposti ad ubbidire li movimenti celesti; e
+perch@e supponeno essere quelli movimenti celesti cagione secondo
+naturale corso di questi inferiori movimenti, concludeno tale ora
+essere abile a loro arte.  Puonno essere li membri umani mossi da
+tre cagioni: l'una da volont@a, qual nasce da elezione fatta per
+libero arbitrio; l'altra da volontade mossa da alcuna passione,
+come per troppo cibo, per troppo vino, e per troppa replezione
+d'umori, o per troppa invasione di spiriti vitali; la terza da
+inclinazione naturale, la quale soggiace al movimento del cielo,
+sicome in filosofia naturale e in astrolog@ia chiaro si pone.  La
+prima cagione esclude l'arte della geomanz@ia quando vuole che li
+punti non si facciano a numero n@e per volont@a, n@e pi@u n@e meno. 
+La seconda cagione similemente esclude quando accetta suo tempo
+nell'ora che ogni digestione @e fatta, della quale, com'@e detto,
+l'autore nel presente capitolo fa menzione.  La terza cagione
+accetta la detta arte per suo principio, appellandosi per alcuni
+l'astrolog@ia minore.  E per@o @e da intendere l'autore che dice che
+la predetta visione fu circa l'aurora.  |che poco~: Cio@e che
+quest'ora @e s@i presso all'alba che poco sta l'aiere bruno, perch@e
+tosto si chiarisce.
+
+	|7.  Balba~, cio@e che schietto non pu@o parlare.
+
+	|9.  Scialba~, cio@e disbiancata o fosca.
+
+	|10-15.~  Qui poetando vuol mostrare che sicome le foglie
+dell'erba chinate per lo freddo notturno, s@i si rilevano e
+seguono quasi l'andare del sole, sicome appare nel mirasole, cos@i
+lo suo sguardo segu@ia ogni movimento della detta femmina.
+
+	|19-24.~  Li poeti fittivamente volendo fare menzione
+d'alcune femmine, le quali viziosamente seduceano li uomini, e
+tolto loro avere li conduceano a morte, perch@e erano meretrici,
+s@i diceano che in mare erano donne, le quali erano mezze umane e
+mezze pesce, e cantavano tanto dolcemente, che li marinari e i
+naviganti che passavano per mare s'elli le udivano, era mestiere
+di ristarsi ad udire, e tanto loro abbelliva quel canto, che elli
+s'addormentavano; come dormiano, queste li erano sopra e
+ancideanli e tolleanli la sua roba.  E appellavano queste donne
+Sirene.  Ora al tempo che Ulisses si dilett@o di cercare del
+mondo, sicome @e detto nel XXVI capitolo dello Inferno, elli fu
+ritenuto per una delle sopradette Sirene, che ebbe nome Circe
+incantatrice, per uno anno.  Sich@e altro non vuole dire la detta
+femmina se non: io sono donna di dilettazione libidinosa circa le
+corporali affezioni, le quali compiaccio s@i a chi meco s'avezza,
+che non senza briga elli si parteno da me.  E questa propriamente
+@e l'avarizia, la quale @e s@i pestifero vizio, che quanto l'uomo
+pi@u va innanzi del tempo, tanto meno ha podere di spartarsi da
+essa.
+
+	|26-28.~  Per questa donna, com'@e detto, s'intende la
+ragione e lo cognoscimento umano, il quale ha podere di
+cognoscere tal difetto.
+
+	|29-30.~  Cio@e che Virgilio guardava pure nella predetta
+ragione, imperquello che l'allegoria d'essa @e la cognoscibilitade
+pura umana secondo naturali istinti.
+
+	|31-32.~  Cio@e la ragione vincea lo vizio.
+
+	|33.  Puzzo~, cio@e fetore vizioso.
+
+	|34-36.~  Qui segue il poema mostrando come Virgilio il
+sollicitava.
+
+	|42.~  Cio@e quelle v@olte che sono sotto li ponti della
+pietra.  Ed a volere mostrare l'autore che la visione l'avea
+addotto in pensieri assimigliando s@e a tal figura, dice come
+andava curvo.
+
+	|43.~  Cio@e la grazia di Dio li chiamava, perch@e erano
+liberi dal peccato dell'accidia.
+
+	|45.~  Cio@e abitazione nella prima vita, la quale @e
+mortale.
+
+	|46.  Cigno~, @e uno uccello tutto bianco.
+
+	|47.  Colui che~, cio@e l'angelo.
+
+	|48.  Macigno~, cio@e montare.
+
+	|50.  Qui lugent~, cio@e beati quelli che piangeno cio@e
+fanno penitenzia de' suoi peccati, perch@e avranno dono di
+consolare le sue anime, cio@e che a loro sar@a donato grazia e
+beatitudine.
+
+	|52.~  Segue il poema e chiaro appare nel testo.
+
+	|58-59.~  Cio@e l'avarizia, che si purga in quel quinto
+girone, al quale ascendeano.
+
+	|60.~  Cio@e la ragione la scaccia dall'uomo.
+
+	|61-63.~  Quasi a dire: a sufficenza @e detto di tal vizio
+speculativamente: or @e d'attendere ad essere solleciti a montare
+e a studiare nostro cammino.
+
+	|64-69.~  Qui esemplifica, come appare nel testo, la sua
+disposizione adatta e acconcia a montare.  |E tal quanto~, cio@e
+che non solo era pronto a salire, ma andava dal lato per avere
+meno contrasto allo andar suso, dall'aiere.
+
+	|70-72.~  Qui comincia a fare menzione della pena delli
+avari.
+
+	|73.~  Questo @e uno psalmo del Salterio, nel quale si
+dimanda grazia ricognoscendo il suo vizio e difetto.
+
+	|76-78.~  Qui persuadendo Virgilio quelle anime, dimand@o
+di suo cammino la via.
+
+	|79-81.~  Qui credendo li predetti peccatori che questi,
+cio@e Virgilio e Dante, fosseno in istato che dovesseno essere
+purgati pi@u suso, e fosseno seguri di quella pena, s@i li disseno:
+procedete innanzi suso per questo girone, ma sempre abbiate il
+monte alla sinistra mano, e di fuori sieno le vostre destre mani.
+
+	|91-93.~  Qui persuade l'autore lo spirito per ottener
+risposta.  |Quel senza il qual~, cio@e peccato.  |cura~: Cio@e lo
+pianto.
+
+	|94-96.  Chi fosti~, qui domanda in singolare di lui, e
+poi domanda della pena delli avari in comune.  |Al su, mi d@i~:
+cio@e perch@e son volte le vostre spalle al suo mezzod@ie cio@e al
+cielo; quasi a dire; perch@e state voi bocconi?  |E se vuoi~, cio@e
+orazione che allevi tua pena.  |l@a ond'io vivendo mossi~, cio@e
+nel mondo della prima vita.
+
+	|97-102.~  Qui risponde allo prima domanda, e dice: tu
+vuoi sapere perch@e in tal modo @e nostra pena, ma sappi in prima
+ch'io fui successor del maggior Piero, cio@e io fui papa, e fui di
+quel luogo, che @e cos@i terminato, come appare nel testo, e come @e
+detto di sopra.  Fu questo papa Adriano quinto di quelli dal
+Fiesco da Genova.
+
+	|104.~  Cio@e dai vizi e da simoniache opere, la qual
+guardia, secondo suo detto, non @e di picciolo affanno e briga.  E
+fue eletto correndo gli anni MCCLXXVI, e stette papa uno mesa e
+IX d@ie; vac@o allora lo papatico d@ie XXVIII e fue eletto papa
+Innocenzio VI, che fue di Portogallo della provincia di Spagna.
+
+	|106-111.~  Cio@e che si indugi@o fino a quel termine a
+cognoscere che le temporali ricchezze non acquietavano l'animo
+umano; e quando si vide in lo maggior grado, cio@e esser papa e
+non esser contento n@e pieno, disse: io veggio che questa temporal
+vita non contenta n@e non ha perfetta beatitudine, adunque fa
+bisogno cercare altra vita; e allora si convert@io a Dio, e posesi
+nella vita spirituale e perfetta.
+
+	|112-114.~  Chiaro appare che fino a tale deliberazione
+fu avaro e amadore de' beni temporali, e tutto disgiunto da Dio;
+da quel punto innanzi s'un@io con Dio; per la quale unione elli
+non fu perduto n@e dannato allo inferno, ma la giustizia di Dio lo
+purga dalla colpa commessa nel vizio dell'avarizia; quando sar@a
+purgata, ander@a alla eternal vita e beata.  Per le quali cose
+chiaro appare la concordanzia dello autore con san Tommaso nel
+^Contra Gentiles~, III, dove mostra brevemente che felicit@a somma
+non consiste nei beni temporali, ma in quanto sono ordinati ad
+altro hanno bontade, e solo la contemplazione @e congiunzione in
+Dio; @e quella ultima beatitudine, in la quale @e nostro perfetto
+fine e felicitade.
+
+	|115-117.~  Qui risponde alla seconda dimanda, e dice
+come l@i si purga il vizio dell'avarizia.
+
+	|118-120.~  Qui rende cagione di tale supplizio, che la
+giustizia di Dio li deprime a terra, e perch@e ebbero l'occhio,
+cio@e lo desiderio, tutto disviato dal cielo, cio@e dalle cose
+spirituali, e pronto e sollicito alle temporali e terrene.
+
+	|127-133.~  Qui tocca, com'@e detto di sopra, che le
+prelazioni della prima vita sono in privazione nella seconda.
+
+	|134-135.~  Cio@e che tutte le anime sono suddite a uno
+giudice, a uno podest@a, a uno re, il quale @e Dio creatore.
+
+	|136-138.~  San Marco apostolo, XII, scrive che li
+saducei fenno una questione a Cristo.  Una femmina avea avuto
+nella prima vita pi@u mariti, l'uno drieto all'altro, ed era
+copulata con essi con vincolo di matrimonio ordinatamente, al
+tempo della risurrezione con quale marito star@a ella, o con
+l'uno, o con tutti?  E Cristo rispuose: |Neque nubent~, etc.,
+cio@e che in quello stato delle anime dopo la risurrezione non
+sar@a matrimonio, n@e si manger@a, n@e si berr@a, ma solo tutti li
+beni saranno nel Paradiso, cio@e a vedere la divinitade, e in
+quella felicit@a permaneranno eternalmente, sich@e li corpi suoi
+saranno glorificati, e non avranno bisogno di queste angar@ie,
+ch'elli hanno nella prima vita.  Sich@e conclude: chiaro pu@o
+apparere come le prelazioni o ordinazioni temporali non si
+estendeno n@e estenderanno nella seconda vita.
+
+	|139-145.~  Compie suo capitolo: chiaro appare lo testo
+come purga l'avarizia ch'ello ebbe.  |Nepote ho io di l@a ch'ha
+nome Alagia~, cio@e nezza.  |E questa sola~, cio@e ch'altri non
+prega per lui, quasi a dire: tu persuadendo dicesti di sopra: |E
+se vuoi ch'io t'impetri~ etc. {v. 95}.  Or sappi che se tu dirai
+alla mia nipote di mio stato, ella per s@e e forse per altri far@a
+orazione in mio aiuto.
+
+	|Nota Finale~ {da L. Scarabelli trovata alla conclusione del
+canto}.  ^L'~OTTIMO ^nel canto precedente ha del~ LANA ^tutto
+quanto il Proemio, meno la parte che accenna alle divisioni
+dell'argomento.  Ha poi di esso~ LANA ^le prime linee della
+chiosa al v.~ 133, ^due buoni terzi di quella al~ 118, ^met@a di
+quella al~ 91; ^poi intere le chiose ai v.~ 1, 19, 22, 24, 28,
+^sino al~ 40; 49, ^sino alla met@a di quella al v.~ 67, ^e quella
+al v.~ 76.  ^N@e tutta sua, ma in parte di~ LANA ^l'altra al v.~
+106.; ^sicch@e si pu@o dire che quasi tutto il Commento a quel
+canto @e stato preso dal~ LANA.  ^Rispetto poi al canto presente:
+al primo v. del canto ha la prima delle argomentazioni che il~
+LANA ^pose nel proprio Proemio e poi la chiosa stessa del~ LANA. 
+^Al v.~ 2 ^ha pur del~ LANA ^ma @e monco del principio; e del~
+LANA ^son le chiose ai v.~ 4, 10, 19, 25.  ^Al v.~ 6 ^son le
+prime linee del~ LANA, ^poi scrive~: Infino a qui chiosa uno. 
+^Sempra assolutamente che quel dettato Laneo corresse a quel
+raccoglitore quale d'anonimo, perch@e dove il cita nol nomina.~

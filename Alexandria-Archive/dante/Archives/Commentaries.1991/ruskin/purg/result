@@ -1,0 +1,301 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Ruskin
+	Language   = English
+	Pub. Year  = 1903
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.load into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        3541 Apr 15 22:44 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.load into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5431 Apr 15 22:44 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.load into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1679 Apr 15 22:44 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.load into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         165 Apr 15 22:44 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.load into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2168 Apr 15 22:44 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.load into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         164 Apr 15 22:44 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.load into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2936 Apr 15 22:45 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.load into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         351 Apr 15 22:45 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.load into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2936 Apr 15 22:45 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.load into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1056 Apr 15 22:45 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.load into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        3759 Apr 15 22:45 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.load into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5984 Apr 15 22:45 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.load into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         689 Apr 15 22:45 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.load into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1534 Apr 15 22:46 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.load into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1777 Apr 15 22:46 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.load into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         630 Apr 15 22:46 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.load into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         915 Apr 15 22:46 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.load into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7759 Apr 15 22:46 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.load into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         159 Apr 15 22:46 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.load into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         773 Apr 15 22:46 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.load into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         512 Apr 15 22:46 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.load into ../staging/purg/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2983 Apr 15 22:46 ../staging/purg/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.load into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1469 Apr 15 22:46 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.load into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante       10097 Apr 15 22:47 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.load into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        3631 Apr 15 22:47 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.load into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        1428 Apr 15 22:47 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.load into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         157 Apr 15 22:47 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.load into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2684 Apr 15 22:47 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.load into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Ruskin...
+Verifying Ruskin...
+
+No Verification Errors.
+-rw-r--r--  1 dante         159 Apr 15 22:47 ../staging/purg/33

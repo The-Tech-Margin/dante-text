@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Porena
+	Language   = Italian
+	Pub. Year  = 1946
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       56251 Feb 16 16:51 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33944 Feb 16 16:52 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39080 Feb 16 16:52 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39861 Feb 16 16:53 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31801 Feb 16 16:53 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26434 Feb 16 16:53 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32711 Feb 16 16:54 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29950 Feb 16 16:54 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31886 Feb 16 16:55 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42109 Feb 16 16:55 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27973 Feb 16 16:56 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29246 Feb 16 16:56 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33583 Feb 16 16:57 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27918 Feb 16 16:57 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35384 Feb 16 16:58 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32144 Feb 16 16:58 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       24027 Feb 16 16:58 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30316 Feb 16 16:59 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32862 Feb 16 16:59 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34039 Feb 16 16:59 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27399 Feb 16 17:00 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26573 Feb 16 17:00 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35665 Feb 16 17:00 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33148 Feb 16 17:01 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31731 Feb 16 17:01 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35292 Feb 16 17:02 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       28352 Feb 16 17:02 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32035 Feb 16 17:02 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26407 Feb 16 17:03 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32541 Feb 16 17:03 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       41130 Feb 16 17:04 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36370 Feb 16 17:04 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37877 Feb 16 17:05 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Porena...
+Verifying Porena...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35442 Feb 16 17:05 ../staging/inf/34

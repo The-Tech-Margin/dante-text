@@ -1,0 +1,33 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.28.44;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Read a DCTS-generated tape containing multiple files of commentary text
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Read a DCTS-generated tape containing multiple files of commentary text
+
+for FILE
+do
+	dd if=/dev/rmt4 ibs=10k | tr -d '\015' > $FILE
+	ls -l $FILE
+done
+@

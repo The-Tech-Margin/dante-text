@@ -1,0 +1,231 @@
+Checking file 01.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  La gloria di colui~ ec., d'Iddio da' Filosofi
+Error at line 8: tabs used for indenting
+>>>	^Terrarum coelique sator, qui tempus ab aevo~
+>>>	^Ire jubes, stabilisque manens das cuncta moveri.~
+Error at line 221: tabs used for indenting
+>>>	^Et pressa est gravitate sui.~ 
+>>>	 Ovid. Metamorf. lib. 1.  
+Error at line 267: Multiple blank lines
+>>>
+Checking file 02.e
+Error at line 16: tabs used for indenting
+>>>	Trita solo; juvat integros accedere fontes,
+>>>	Atque haurire; juvatque novos decerpere flores,
+>>>	Insignemque meo capiti petere inde coronam,
+>>>	Unde prius nulli velarint tempora Mus@@ae." 
+Error at line 239: tabs used for indenting
+>>>	  ^Furtivos hominum vident amores.~  
+Error at line 293: Multiple blank lines
+>>>
+Checking file 03.e
+Checking file 04.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  E moventi d'un modo~, ed ugualmente incitanti
+Error at line 9: tabs used for indenting
+>>>	Extimulata fame mugitibus armentorum,
+>>>	Nescit utro potius ruat, et ruere ardet utroque:
+>>>	Sic dubius Perseus etc."
+Error at line 213: Multiple blank lines
+>>>
+Checking file 05.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  S'io ti fiammeggio~ ec.  Dice Beatrice a Dante
+Error at line 55: tabs used for indenting
+>>>	 Ma i poveri da starci fece pria."  
+Warning: single line paragraph at line 98
+>>>	^L'un'era d'oro, e l'altra era d'argento.~ 
+
+Error at line 137: tabs used for indenting
+>>>	Agamennone, fuor di questo porto
+>>>	Le navi non trarrai prima che Diana
+>>>	In vittima non abbia Ifigen@ia
+>>>	Tua figlia; perocch@e ci@o che in quest'anno
+>>>	A te nascesse di pi@u bello, voto
+>>>	Facesti di donare in sagrifizio
+>>>	All'alma Dea, che il bianco lume apporta:
+>>>	Quindi tua moglie Clitennestra in luce 
+>>>	Entro al tuo albergo la fanciulla pose
+>>>	(Per la belt@a di cui le prime offerte
+>>>	A me recasti) che t'@e d'uopo omai
+>>>	Sacrificar" (Ifig. in Tauri atto 1 sc. 1 Traduz.
+>>>	 del P. Carmeli).  
+Checking file 06.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  Posciach@e~ l'Imperator Costantino malaugurosamente
+Error at line 346: Multiple blank lines
+>>>
+Checking file 07.e
+Error at line 4: tabs used for indenting
+>>>	|1-3.  Osanna~ ec.  Asserisce Tirino (Comment. in Matt.
+Error at line 28: tabs used for indenting
+>>>	Come l'un ben dopo l'altro s'indua. 
+Error at line 61: tabs used for indenting
+>>>	Della vendetta del peccato antico.  
+Error at line 191: tabs used for indenting
+>>>	     ^Non ha poi fine~ (vers. 67 e segg.)
+Error at line 237: Multiple blank lines
+>>>
+Checking file 08.e
+Error at line 4: tabs used for indenting
+>>>	|1-9.  Solea creder~ ec.  Salendo Dante al cielo di
+Error at line 54: tabs used for indenting
+>>>	   Etheris impulsi sonitu" ec. Phar. I, 1 v. 15, 1
+Error at line 237: tabs used for indenting
+>>>	Caesaris heredi non fuit urbe locus
+>>>	Sum Patris ex odiis ausus confligere Petro
+>>>	Mars dedit hic mortem, mors mihi cuncta tulit."  
+Error at line 264: tabs used for indenting
+>>>	Di fuor del Regno quasi lungo il Verde
+>>>	Ove le tramut@o a lume spento."
+Warning: single line paragraph at line 356
+>>>	^Or quel, che t'era dietro, t'@e davanti.~
+
+Error at line 474: Multiple blank lines
+>>>
+Checking file 09.e
+Error at line 4: tabs used for indenting
+>>>	|1-3.  Dappoich@e Carlo~ ec.  Volge qui Dante, per
+Error at line 49: tabs used for indenting
+>>>	  ^Son di tiranni, ed un Marcel diventa~
+>>>	  ^Ogni villan, che parteggiando viene~: 
+Error at line 352: Multiple blank lines
+>>>
+Checking file 10.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Guardando~ ec. |lo primo ed ineffabile valore~,
+Warning: single line paragraph at line 230
+>>>	"Del cui latino Agostin si provvide" 
+
+Warning: single line paragraph at line 245
+>>>	"Quell'Avvocato de' Templi Cristiani." 
+
+Error at line 317: Multiple blank lines
+>>>
+Checking file 11.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  O insensata~ ec.  Pare che Dante si approfitasse
+Warning: single line paragraph at line 248
+>>>	|U' ben s'impingua~ ec.  V. Cant. preced. v. 96.
+
+Error at line 250: Multiple blank lines
+>>>
+Checking file 12.e
+Error at line 4: tabs used for indenting
+>>>	|1-9.  L'ultima parola per dir~ ec. prese a dire l'ultima
+Error at line 250: tabs used for indenting
+>>>	Anni, qui nato sumunt exordia Christo,
+>>>	Tunc Antichristus naequissimus est oriturus."
+Error at line 280: Multiple blank lines
+>>>
+Checking file 13.e
+Error at line 4: tabs used for indenting
+>>>	|1-15.  Immagini~ ec.  Questo verbo, che per maggior
+Error at line 252: Multiple blank lines
+>>>
+Checking file 14.e
+Error at line 4: tabs used for indenting
+>>>	|4-8.  Questo, ch'io dico~, cio@e tal muoversi dell'acqua
+Error at line 202: Multiple blank lines
+>>>
+Checking file 15.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Benigna volontade~ ec.  Que' beati spiriti per
+Error at line 263: Multiple blank lines
+>>>
+Checking file 16.e
+Error at line 4: tabs used for indenting
+>>>	|1-9.  O poca nostra nobilt@a~ ec.  O nobilt@a di sangue,
+Error at line 319: Multiple blank lines
+>>>
+Checking file 17.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Qual venne~ ec.  Qual era Fetonte quando corse
+Error at line 248: Multiple blank lines
+>>>
+Checking file 18.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  Si godeva solo del suo verbo~ ec.  Meglio degli
+Error at line 158: tabs used for indenting
+>>>	    ^Pareva in prima d'ingigliarsi all'emme.~  
+Error at line 233: Multiple blank lines
+>>>
+Checking file 19.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Parea~ per ^mostravasi~ -- |la bella image~
+Error at line 251: Multiple blank lines
+>>>
+Checking file 20.e
+Error at line 4: tabs used for indenting
+>>>	|2-6.  Quando colui~, il Sole discende dal nostro
+Error at line 233: Multiple blank lines
+>>>
+Checking file 21.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.~  Colloca Dante i santi contemplativi in Saturno
+Error at line 209: Multiple blank lines
+>>>
+Checking file 22.e
+Error at line 4: tabs used for indenting
+>>>	|2-15.  Parvol~, fanciullino -- |col@a dove~, a quella
+Error at line 199: Multiple blank lines
+>>>
+Checking file 23.e
+Error at line 4: tabs used for indenting
+>>>	|1-9.  Come l'augello~ ec.  Costruzione.  |Come
+Error at line 204: Multiple blank lines
+>>>
+Checking file 24.e
+Error at line 4: tabs used for indenting
+>>>	|1-9.  Sodalizio~, consesso, che volentieri dicesi de'
+Error at line 223: Multiple blank lines
+>>>
+Checking file 25.e
+Error at line 4: tabs used for indenting
+>>>	|4-9.  Vinca la crudelt@a~ ec.  Il Poeta sperava di poter,
+Error at line 221: Multiple blank lines
+>>>
+Checking file 26.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Mentr'io dubbiava~ ec. mentre, per la vista
+Error at line 225: Multiple blank lines
+>>>
+Checking file 27.e
+Error at line 4: tabs used for indenting
+>>>	|1-15.  Al Padre~ ec.  Terminato ch'ebbe Adamo di parlare
+Warning: single line paragraph at line 237
+>>>	"Quinci comincia come da sua meta"
+
+Error at line 322: Multiple blank lines
+>>>
+Checking file 28.e
+Error at line 4: tabs used for indenting
+>>>	|1-12.  Contro~, le altre ediz. ^Incontro~; a significare
+Error at line 240: Multiple blank lines
+>>>
+Checking file 29.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  Li figli di Latona~, il Sole e la Luna, creduti
+Error at line 269: Multiple blank lines
+>>>
+Checking file 30.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  Forse sem@ila miglia~ ec.  Volendo Dante dire che,
+Error at line 222: Multiple blank lines
+>>>
+Checking file 31.e
+Error at line 4: tabs used for indenting
+>>>	|4-12.  Ma l'altra~, degli angeli, |che volando~, non
+Error at line 148: Multiple blank lines
+>>>
+Checking file 32.e
+Error at line 4: tabs used for indenting
+>>>	|1-6.  Affetto al suo piacer~ ec.  Scorgendo Maria
+Error at line 224: Multiple blank lines
+>>>
+Checking file 33.e
+Error at line 4: tabs used for indenting
+>>>	|3-9.  Termine fisso~ ec.: tenuta fissamente di mira
+Error at line 216: Multiple blank lines
+>>>

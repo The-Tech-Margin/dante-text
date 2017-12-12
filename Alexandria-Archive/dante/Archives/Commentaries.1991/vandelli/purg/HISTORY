@@ -1,0 +1,7 @@
+Thu Jun 29 20:34:22 EDT 1989 jvs pre-edited all files 6/26
+Mon Jul 31 11:24:36 EDT 1989 jvs deleted .k files
+Tue Apr 17 09:22:49 EDT 1990 jvs deleted .s files
+Tue Apr 17 09:33:45 EDT 1990 jvs ran checknew and xfercheck. Corrected xfer errors to .f
+Tue Apr 17 09:33:53 EDT 1990 jvs preloaded .f files
+Wed Apr 18 08:55:49 EDT 1990 jvs deleted old .e files
+Wed Apr 18 08:56:06 EDT 1990 jvs renamed .f files to .e

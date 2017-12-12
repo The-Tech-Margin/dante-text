@@ -1,0 +1,41 @@
+{CMD2}
+
+;
+; Transmit the "ready for command" prompt, and parse the incoming command
+;
+
+:GET @LINE ~=~
+:PARSE @LINE EXTRACTING @CMD USING ~:~
+
+:COMPARE @CMD
+
+      TO "S"
+         :MENU ~SEARCH_~
+         :RETURN
+
+      TO "Z"
+         :MENU ~SUMMARY_~
+         :RETURN
+
+      TO "D"
+         :MENU ~DISPLAY_~
+         :RETURN
+
+      TO "L"
+         :MENU ~LIST_~
+         :RETURN
+
+      TO "P"
+         :MENU ~PURGE_~
+         :RETURN
+
+      TO "A:
+         :MENU ~AUTHORS_~
+         :RETURN
+
+      TO "Q"
+         :EXIT
+
+:DONE
+
+:MENU           

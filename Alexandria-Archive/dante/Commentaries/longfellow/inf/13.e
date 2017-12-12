@@ -1,0 +1,244 @@
+	|1.~  In this Canto is described the punishment of those
+who had laid violent hands on themselves or their property.
+
+	|2.~  Chaucer, ^Knights Tale~, 1977: --
+
+       "First on the wall was peinted a forest,
+       In which ther wonneth neyther man ne best,
+       With knotty knarry barrein trees old
+       Of stubbes sharpe and hidous to behold;
+       In which there ran a romble and a swough
+       As though a storme shuld bresten every
+      bough."
+
+	|9.~  The Cecina is a small river running into the
+Mediterranean not many miles south of Leghorn; Corneto, a village
+in the Papal States, north of Civita Vecchia.  The country is
+wild and thinly peopled, and studded with thickets, the haunts of
+the deer and the wild boar.  This region is the fatal Maremma,
+thus described by Forsyth, ^Italy~, p. 156: --
+
+     "Farther south is the Maremma, a region which, though now
+     worse than a desert, is supposed to have been anciently both
+     fertile and healthy.  The Maremma certainly formed part of
+     that Etruria which was called from its harvests the
+     ^annonaria.~  Old Roman cisterns may still be traced, and
+     the ruins of Populonium are still visible in the worst part
+     of this tract: yet both nature and man seem to have
+     conspired against it.
+
+     "Sylla threw this maritime part of Tuscany into enormous
+     ^latifundia~ for his disbanded soldiers.  Similar
+     distributions continued to lessen its population during the
+     Empire.  In the younger Pliny's time the climate was
+     pestilential.  The Lombards gave it a new aspect of misery.
+     Wherever they found culture they built castles, and to each
+     castle they allotted a `bandita' or military fief.  Hence
+     baronial wars which have left so many picturesque ruins on
+     the hills, and such desolation round them.  Whenever a baron
+     was conquered, his vassals escaped to the cities, and the
+     vacant fief was annexed to the victorious.  Thus stripped of
+     men, the lands returned into a state of nature: some were
+     flooded by the rivers, others grew into horrible forests,
+     which enclose and concentrate the pestilence of the lakes
+     and marshes.
+
+     "In some parts the water is brackish, and lies lower than
+     the sea: in others it oozes full of tartar from beds of
+     travertine.  At the bottom or on the sides of hills are a
+     multitude of hot springs, which form pools, called ^Lagoni.~
+     A few of these are said to produce borax: some, which are
+     called ^fumache~, exhale sulphur; others, called ^bulicami~,
+     boil with a mephitic gas.  The very air above is only a pool
+     of vapors, which sometimes undulate, but seldom flow off.
+     It draws corruption from a rank, unshorn, rotting
+     vegetation, from reptiles and fish both living and dead.
+
+     "All nature conspires to drive man away from this fatal
+     region; but man will ever return to his bane, if it be well
+     baited.  The Casentine peasants still migrate hither in the
+     winter to feed their cattle: and here they sow corn, make
+     charcoal, saw wood, cut hoops, and peel cork.  When summer
+     returns they decamp, but often too late; for many leave
+     their corpses on the road, or bring home the Maremmian
+     disease."
+
+	|11.~  ^AEneid~, III., Davidson's Tr.: --
+
+	"The shores of the Strophades first receive me rescued
+from the waves.  The Strophades, so called by a Greek name, are
+islands situated in the great Ionian Sea; which direful Celaeno
+and the other Harpies inhabit, from what time Phineus' palace was
+closed against them, and they were frightened from his table,
+which they formerly haunted.  No monster more fell than they, no
+plague and scourge of the gods more cruel, ever issued from the
+Stygian waves.  They are fowls with virgin faces, most loathsome
+is their bodily discharge, hands hooked, and looks ever pale with
+famine.  Hither conveyed, as soon as we entered the port, lo! we
+observe joyous herds of cattle roving up and down the plains, and
+flocks of goats along the meadows without a keeper.  We rush upon
+them with our swords, and invoke the gods and Jove himself to
+share the booty.  Then along the winding shore we raise the
+couches, and feast on the rich repast.  But suddenly, with
+direful swoop, the Harpies are upon us from the mountains, shake
+their wings with loud din, prey upon our banquet, and defile
+everything with their touch: at the same time, together with a
+rank smell, hideous screams arise."
+
+	|21.~  His words in the ^AEneid~, III., Davidson's Tr.:
+--
+
+     "Near at hand there chanced to be a rising ground, on whose
+     top were young cornel-trees, and a myrtle rough with thick,
+     spear-like branches.  I came up to it, and attempting to
+     tear from the earth the verdant wood, that I might cover the
+     altars with the leafy boughs, I observe a dreadful prodigy,
+     and wondrous to relate.  For from that tree which first is
+     torn from the soil, its rooted fibres being burst asunder,
+     drops of black blood distil, and stain the ground with gore:
+     cold terror shakes my limbs, and my chill blood is congealed
+     with fear.  I again essay to tear off a limber bough from
+     another, and thoroughly explore the latent cause: and from
+     the rind of that other the purple blood descends.  Raising
+     in my mind many an anxious thought, I with reverence
+     besought the rural nymphs, and father Mars, who presides
+     over the Thracian territories, kindly to prosper the vision
+     and avert evil from the omen. But when I attempted the
+     boughs a third time with a more vigorous effort, and on my
+     knees struggled against the opposing mould, (shall I speak,
+     or shall I forbear?) a piteous groan is heard from the
+     bottom of the rising ground, and a voice sent forth reaches
+     my ears: `AEneas, why dost thou tear an unhappy wretch?
+     Spare me, now that I am in my grave; forbear to pollute with
+     guilt thy pious hands: Troy brought me forth no stranger to
+     you; nor is it from the trunk this blood distils.'"
+
+	|40.~  Chaucer, ^Knightes Tale~, 2339: --
+
+       "And as it queinte, it made a whisteling
+       As don these brondes wet in hir brenning,
+       And at the brondes ende outran anon
+       As it were blody dropes many on."
+
+See also Spenser, ^Faerie Queene~, I. ii. 30.
+
+	|58.~  Pietro della Vigna, Chancellor of the Emperor
+Frederick II.  Napier's account of him is as follows, ^Florentine
+History~, I. 197 --
+
+     "The fate of his friend and minister, Piero delle Vigne of
+     Capua, if truly told, would nevertheless impress us with an
+     unfavorable idea of his mercy and magnanimity: Piero was
+     sent with Taddeo di Sessa as Frederick's advocate and
+     representative to the Council of Lyons, which was assembled
+     by his friend Innocent the Fourth, nominally to reform the
+     Church, but really to impart more force and solemnity to a
+     fresh sentence of excommunication and deposition.  There
+     Taddeo spoke with force and boldness for his master; but
+     Piero was silent; and hence he was accused of being, like
+     several others, bribed by the Pope, not only to desert the
+     Emperor, but to attempt his life; and whether he were really
+     culpable, or the victim of court intrigue, is still
+     doubtful.  Frederick, on apparently good evidence, condemned
+     him to have his eyes burned out, and the sentence was
+     executed at San Miniato al Tedesco: being afterwards sent on
+     horseback to Pisa, where he was hated, as an object for
+     popular derison, he died, as is conjectured, from the
+     effects of a fall while thus cruelly exposed, and not by his
+     own hand, as Dante believed and sung."
+
+	Milman, ^Latin Christianity~, V. 499, gives the story
+thus: --
+
+     "Peter de Vine#a had been raised by the wise choice of
+     Frederick to the highest rank and influence.  All the acts
+     of Frederick were attributed to his Chancellor.  De Vine#a,
+     like his master, was a poet; he was one of the counsellors
+     in his great scheme of legislation.  Some rumors spread
+     abroad that at the Council of Lyons, though Frederick had
+     forbidden all his representatives from holding private
+     intercourse with the Pope, De Vine#a had many secret
+     conferences with Innocent, and was accused of betraying his
+     master's interests.  Yet there was no seeming diminution in
+     the trust placed in De Vine#a.  Still, to the end the
+     Emperor's letters concerning the disaster at Parma are by
+     the same hand.  Over the cause of his disgrace and death,
+     even in his own day, there was deep doubt and obscurity.
+     The popular rumor ran that Frederick was ill; the physician
+     of De Vine#a prescribed for him; the Emperor having received
+     some warning, addressed De Vine#a: `My friend, in thee I
+     have full trust; art thou sure that this is medicine, not
+     poison?'  De Vine#a replied: `How often has my physician
+     ministered healthful medicines! -- why are you now afraid?'
+     Frederick took the cup, sternly commanded the physician to
+     drink half of it.  The physician threw himself at the King's
+     feet, and, he fell, overthrew the liquor.  But what was left
+     was administered to some criminals, who died in agony.  The
+     Emperor wrung his hands and wept bitterly: `Whom can I now
+     trust, betrayed by my own familiar friend?  Never can I know
+     security, never can I know joy more.'  By one account Peter
+     de Vine#a was led ignominiously on an ass through Pisa, and
+     thrown into prison, where he dashed his brains out against
+     the wall.  Dante's immortal verse has saved the fame of De
+     Vine#a: according to the poet he was the victim of wicked
+     and calumnious jealousy."
+
+	See also Giuseppe de Blasiis, ^Vita et Opere di Pietro
+della Vigna.~
+
+	|112.~  ^Iliad~, XII. 146: "Like two wild boars, which
+catch the coming tumult of men and dogs in the mountains, and,
+advancing obliquely to the attack, break down the wood about
+them, cutting it off at the roots."
+
+	Chaucer, ^Legende of Goode Women~: --
+
+       Envie ys lavendere of the court alway;
+       For she ne parteth neither nyght ne day
+       Out of the house of Cesar, thus saith Daunte."
+
+	|120.~  "Lano," says Boccaccio, ^Comento~, "was young
+gentleman of Siena, who had a large patrimony, and associating
+himself with a club of other young Sienese, called the
+Spendthrift Club, they also being all rich, together with them,
+not spending but squandering, in a short time he consumed all
+that he had and became very poor."  Joining some Florentine
+troops sent out against the Aretines, he was in a skirmish at the
+parish of Toppo, which Dante calls a joust; "and notwithstanding
+he might have saved himself," continues Boccaccio, "remembering
+his wretched condition, and it seeming to him a grievous thing to
+bear poverty, as he had been very rich, he rushed into the thick
+of the enemy and was slain, as perhaps he desired to be."
+
+	|125.~  Some commentators interpret these dogs as poverty
+and despair, still pursuing their victims.  The ^Ottimo Comento~
+calls them "poor men who, to follow pleasure and the kitchens of
+other people, abandoned their homes and families, and are
+therefore transformed into hunting dogs, and pursue and devour
+their masters."
+
+	|133.~  Jacopo da St. Andrea was a Paduan of like
+character and life as Lano.  "Among his other squanderings," says
+the ^Ottimo Comento~, "it is said that, wishing to see a grand
+and beautiful fire, he had one of his own villas burned."
+
+	|143.~  Florence was first under the protection of the
+god Mars; afterwards under that of St. John the Baptist.  But in
+Dante's time the statue of Mars was still standing on a column at
+the head of the Ponte Vecchio.  It was over thrown by an
+inundation of the Arno in 1333.  See Canto XV. Note 62.
+
+	|149.~  Florence was destroyed by Totila in 450, and
+never by Attila.  In Dante's time the two seem to have been
+pretty generally confounded.  The ^Ottimo Comento~ remarks upon
+this point, "Some say that Totila was one person and Attila
+another; and some say that he was one and the same man."
+
+	|150.~  Dante does not mention the name of this suicide;
+Boccaccio thinks, for one of two reasons; "either out of regard
+of his surviving relatives, who peradventure are honorable men,
+and therefore he did not wish to stain them with the infamy of so
+dishonest a death, or else (as in those times, as if by a
+malediction sent by God upon our city, many hanged themselves)
+that each one might apply it to either he pleased of these many."
+

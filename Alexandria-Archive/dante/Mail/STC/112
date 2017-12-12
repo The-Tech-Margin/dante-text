@@ -1,0 +1,221 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id IAA20576
+	for <steve@avalon.dartmouth.edu>; Fri, 14 Aug 1998 08:30:00 -0400 (EDT)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id IAA20658;
+	Fri, 14 Aug 1998 08:29:59 -0400 (EDT)
+Received: from lightpost (mail.Princeton.EDU [128.112.129.14]) by outbound.Princeton.EDU with SMTP id <541356-8746>; Fri, 14 Aug 1998 08:29:21 -0400
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by outbound.Princeton.EDU (8.8.8/8.8.8) with ESMTP id IAA28815;
+	Fri, 14 Aug 1998 08:29:19 -0400 (EDT)
+Received: from flagstaff.Princeton.EDU (bobh@flagstaff.Princeton.EDU [128.112.131.154])
+	by mail.Princeton.EDU (8.8.8/8.8.8) with ESMTP id IAA18006;
+	Fri, 14 Aug 1998 08:29:18 -0400 (EDT)
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.8.8/8.8.8) id IAA18915;
+	Fri, 14 Aug 1998 08:29:18 -0400 (EDT)
+Message-Id: <199808141229.IAA18915@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Fri, 14 Aug 1998 08:29:18 -0400
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@mailhub.dartmouth.edu, Malcolm.Brown@mailhub.dartmouth.edu
+
+From: Bob
+To: Steve & Malcolm
+Date: 14 August 1998
+Subject: Update
+
+I'm including a copy of the memo we discussed last year with
+updating comments in squiggly brackets FYI/discussion.  Best, Bob
+
+*******************************************************
+
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: Fri, 8 Aug 1997 16:08:20 -0400
+To: Steve & Malcolm
+Subject: future of DDP
+
+Lots to consider.
+
+(1) Some "internal" matters:
+
+a) What should we do about GREEK?  Up to now we have
+(mostly) put in Greek as a string of characters, e.g.,
+the Greek word "alpha" looks like this:
+
+        %alpha%lambda%phi%alpha\
+
+But in a few comms (e.g., Bosco) it was done in our
+original system of "transliteration" as this:
+
+        %alfa\
+
+In any case, are we now able to put in Greek words as
+GREEK WORDS?  If so, how do we do this?
+
+[Please note that the occasional Arabic or Hebrew word
+is not considered here.]
+
+{Looks like this is staying very much on a back burner.}
+
+
+b) Stopwords.  We made up lists of these for English,
+Italian, and Latin.  Do we still want to keep them?  It
+would be better if we could avoid them.  And some
+(e.g., the Italian word "poeta") need to be removed
+from the list if we do want to keep it.
+
+{Steve, this is somethinfg we SHOULD decide.  I think we should
+remove at least SOME words from the list.}
+
+
+(2) Data correction.
+
+Hollander has a list of some hundreds of typos that
+need to be corrected.  In addition, he and Toby Paff,
+who is volunteering his time and has so for some years
+now, who works at CIT in systems here at PU, are now
+moving through commentaries a canto at a time
+developing a master list of still other errors.  This
+dull exercise has two aims: (i) to produce a list of
+"good" forms that we can eventually use as a
+spellchecker for the rest of DDP; (ii) to find other
+errors.  Toby thinks he may be able to help us develop a
+way of correcting errors that would be easier than the
+one I have envisioned (moving through each comm. a
+canto at a time).  In any case, it would be good to
+develop a plan and a timetable for error-correction.
+
+{Steve and I are readying to do this.  I have redone about 8
+comms., a total of some 3,000 errors.  Certainly worth doing what
+we can now, when DDP seems poised for more extensive use both in
+USA and Italy.}
+
+
+
+(3) Relaunch of DDP.
+
+We opened the database on 8 October 1988.  It seems to
+me it would be an excellent idea to have a bit of
+fanfare in October 1998 on the occasion of our tenth
+anniv. in which we announce (i) new front-end on WWW
+(see below), (ii) new commentaries now available (see
+below), (iii) status of error correction.  We would not
+have to do more than send the announcement round to
+various sites on the Internet.  (It's the _rest_ of it
+that takes time -- and some money?)
+
+{I think we SHOULD do this.  Even as modest advertising as
+notices to the various web sites that cover medieval or Italian
+things.  Does that sound OK?  I can draft a brief announcement
+and check it with you guys.}
+
+
+(4) Greater PU involvement?
+
+Peter Batke of CIT (PU) would be very eager to see PU
+become a mirror site of DDP and perhaps look for major
+funding to redo the database, perhaps getting the
+comms. translated into English (I'm not wild about this
+idea  -- it's a HUGE task).  And I'm not, in general, wildly
+enthusiastic, but felt I should mention it.
+
+{Nothing happening in this area.}
+
+
+(5) WWW
+
+We clearly need to do something to make DDP work in the
+late 20th century.  On telnet it's fine, if only really
+useful to the adept.  I know Steve feels strongly about
+this.  But who should take charge of the effort and who
+would pay for it: these are major questions.  In any case,
+at the very least we should have a Web presence that
+works reasonably well, if that can be done simply.
+
+{Both PDP and ItalNet activities currently afoot; we will know
+more in several months about what we might expect.}
+
+
+(6) New commentaries.
+
+We have about nine "in the bank," ready for loading, and
+another very large one a few weeks from being ready.
+When do we put these up?  This question has been
+overridden by the question of data correction (i.e.,
+we'll load them when we've cleaned our existing data).
+The result is that we do neither.  Again, we need to
+make a plan.  Should Toby and I, for instance, simply
+clean as much as we can by a given date, knowing the
+task is far from finished, and then reload, adding the
+next ten comms.?
+
+{The last is what has happened; and we have, in fact, got quite a
+lot done.  It adds up, thismkind of work.  What happens next I do
+not know, but we will have materially improved the database by
+what we have done.}
+
+
+(7) Possible help from Italy.
+
+RAI (the Italian Govt. radio/TV agency) has announced a _huge_
+project, Italian culture, grammar, etc., etc., including
+a multi-media Dante (not unlike the one I am doing now at
+P'ton).  They will want to plug in to DDP (fine with me), and
+also seem to be willing to pay for doing so (even better).
+Their first funding would be ca. $10K (I'd guess a bit less)
+to help clean the data and add new comms, as well as help
+develop a new interface (rumor has it that Mark Olson at
+Chicago may be doing this on his own).  They would also be
+interested in continuing funding at a rate of ca. $15K per
+each new comm. that we added.  I am assured that they will
+_not_ charge users who consult DDP, and feel this should
+be a matter of contractual agreement.
+
+Zygmunt Baranski, currently at Reading (UK) and a friend of
+mine, is the person in charge of the Dante part of the project
+and he says I'll be getting an exploratory letter this
+summer.  We'll see.  Italian projects have a way of not
+really happening.
+
+{That project has been moving much more slowly than the PDP.  So
+has their desire to PAY for our texts.  Malcolm and I currently
+negotiating with ItalNet/Notre Dame (and Olsen at Chicago) for
+some sort of collaboration.}
+
+
+(8) Intellectual Property 
+
+I hate even to breathe the words.  Both the Olson rumor and a 
+visit I had from a swashbuckling Italian this May in Florence
+give me some concern.  The latter is interested in setting up
+a database of the early comms. (and maybe more than these) in
+Rome.  Some of what he's doing we do not do (e.g., making an
+EDITION of the comms.) and would benefit us.  But I have some 
+concern that he will simply "lift" our texts and include them
+in his database.  Our welcome screen is so inviting as it is 
+currently written that he might feel he is within his rights.
+(By the way, this guy has never even seen the DDP!)  In any case,
+we should have some words about this question when we speak.  
+
+{Welcome screen adjusted last year.  No other activities to
+report on.}
+
+
+(9) The Princeton Dante
+
+This is not only here because _all_ Dante things need to be
+associated with the number nine (I can explain if you really
+want to know) but because it too might be a way of financing
+some DDP improvements -- say the Web interface so that DDP
+locks into the Princeton Dante far better than it would today.
+And the Princeton Dante might also benefit the DDP.  The project,
+which I'll describe when we talk, might put in request for some
+funding in this area.
+
+{This is still a possibility, once we see where we are in several
+months, what needs to be done, and what kind of help we can look
+forward to for the continuation of the PDP.}
+
+

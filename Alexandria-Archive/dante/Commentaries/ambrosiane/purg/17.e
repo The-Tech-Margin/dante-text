@@ -1,0 +1,89 @@
+	|1-3.~  ^Recordite lector -- Talpe~ -- Talpa est animal sub terra 
+fodiens et ea se cibans, et natura fecit sibi palpebras oculorum 
+integras et coniuntas ne a terra oculi lederentur.  Et si venit ad 
+lucem supra terram non videt propter debilitatem visus, qui nimia luce 
+confunditur.
+
+	|4.~  ^Humidi~ -- Ex quibus efficitur nebula et nubes.
+
+	|13.~  ^Ne rube~ -- Scilicet predaris.
+
+	|16.~  ^Senso~ -- Scilicet humanus.
+
+	|17.~  ^Lume~ -- Scilicet influentia.
+
+	|18.~  ^Voler~ -- Divinitatis vel motoris vel celi.
+
+	|19.~  ^De l'enpiezza~ -- Scilicet Filomena supra cantu nono 
+^Purgatorii~.
+
+	|26.~  ^Crucifixo~ -- Aman fuit princeps regis Assueri cuius inductu 
+rex iudicavit Iudeos ad crucifigendum.  Hester autem, pulcerrima Iudea, 
+docta a Mardoceo iusto viro, instintu Dei placuit Assuero, qui eam sibi 
+fecit uxorem, expulsa Vasti regina coniuge sua contumace, quia noluit 
+in regali coniugio comparere regio iussu.  Cuius Hester precibus Iudei 
+liberati fuerunt, Aman cruce suspenso.
+
+	|30.~  ^Intero~ -- Quia cogitationes sue exaudite fuerunt.
+
+	|32.~  ^Bulla~ -- Ventus sub aqua est.
+
+	|37.~  ^Lavina~ -- Enea in Italia bellante cum Turno pro Lavinia filia 
+regis Latini, Amata mater dicte Lavine, quia magis diligebat Turnum in 
+generum, videns Eneam optinere, laqueo se suspendit.  Quam Lavina 
+taliter lamentando plorabat.
+
+	|60.~  ^Nego~ -- Seneca: <Occurras amico potius quam succurras>.
+
+	|69.~  ^Mala~ -- Quia potest esse ira bona, ut quando irascimur ad 
+puniendum peccatum.
+
+	|85.~  ^Del bene scemo~ -- Scilicet accidia que est torpor anime.
+
+	|92.~  ^Amore~ -- Scilicet quia est contrarium accidie.
+
+	|93.~  ^D'animo~ -- Concupiscentie et sensualitatis superveniente 
+causa extrinseca quo ad res creatas.
+
+	|94.~  ^Naturale~ -- Tendens ad bonum, honestum intentum et quo ad 
+Deum creatorem.
+
+	|97.~  ^Primo ben~ -- Scilicet in creatorem.
+
+	|98.~  ^Misura~ -- Temperantia scilicet.
+
+	|101.~  ^Corre~ -- Scilicet quando concupiscimus res alienas que de se 
+bone sunt.
+
+	|107.~  ^Sogecto~ -- Sui ipsius hominis.
+
+	|108.~  ^Tute~ -- Idest secure, quia nulla res odit se ipsam.
+
+	|110.~  ^Primo~ -- Scilicet essentia prima.
+
+	|114.~  ^Limo~ -- Scilicet corpore, quod de limo primo creatum est a 
+Deo.
+
+	|116.~  ^Spera~ -- Quia spes exaltationis sue future inducit odium 
+contra eminentiores et feliciores convicinos.
+
+	|119.~  ^Teme~ -- Timor perdendi statum suum facit odium ad pares et 
+minores, ne exaltatio aliorum fiat depressio sua.
+
+	|121.~  ^Adonti~ -- Unde concipit iram et odium ad vindictam.
+
+	|124.~  ^De socto~ -- Per superbos, per invidos et iracundos.
+
+	|127.~  ^Un bene~ -- Summam felicitatem quam quilibet optat in animo, 
+licet pauci operibus mereantur.
+
+	|133.~  ^Altro bene~ -- Scilicet creature et bona temporalia.
+
+	|135.~  ^D'ogni buon~ -- Immo aliquando est radix perditionis, quia 
+quandoque aliquis propter aurum iugulatur.
+
+	|136.~  ^Ad esso~ -- Bonum scilicet temporale.
+
+	|137.~  ^Piange~ -- Per avaros, gulosos et luxuriosos qui abutuntur 
+bonis temporalibus et creaturis.
+

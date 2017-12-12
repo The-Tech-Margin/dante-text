@@ -1,0 +1,40 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.53.20;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@invoke addENDL to fix a problem. See addENDL.c
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Invoke addENDL to fix a staging file and replace it.
+
+for FILE
+do
+	if
+		addENDL.bin < $FILE > $FILE.new
+	then
+		mv $FILE $FILE.old
+		mv $FILE.new $FILE
+		ls -l $FILE.old $FILE
+	else
+		echo $FILE bombed.
+	fi
+done
+@

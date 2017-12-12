@@ -1,0 +1,153 @@
+	|Proemio.~  Incomincia il chapitolo XXXIII purghatorii.
+
+	|1-33.~ 
+	^Deus venerunt gentes alternando~
+^or tre or quatro dolcie salmodia~
+^le donne incominciaro lagrimando.~
+
+Trattato l'altore della perseghuizione della chiesa militante di Dio 
+ora seghuendo l'altore discrive il pianto il quale facievano queste 
+sette donne cio@e quelle quatro virt@u chardinali e lle tre teologiche 
+insieme com Beatricie per questa perseghuizione che narrava Beatricie 
+all'altore che doveva avere questa chiesa e puotesi dividere questo 
+chapitolo in quatro parti gienerali.  In questa prima parte l'altore 
+discrive il pianto e lamento che ffacieano quelle dette donne insieme 
+con Beatricie udendo la perseghuizione di santa chiesa e chos@i 
+piangiendo dicie quelle donne incominciorono a chantare quel salmo che 
+fecie Davit quando il popolo di Dio era perseghuitato da Faraone cos@i 
+diciendo chome comincia il chapitolo.
+
+	^E Beatricie sospirosa e pia~
+^quell'ascoltava s@i fatta che poco~
+^pi@u alla crocie si canbi@o Maria.~
+
+Per queste parole dicie l'altore che udendo Beatricie quel pianto e 
+pianto mescholato insieme si volse humile a ssimile chome fecie Maria 
+quando Cristo fu venduto e crocifisso da' Giudei.  Ora questa Beatricie 
+pensando ch'era stato venduto per gli Giudei XXX danari una volta e ora 
+@e venduto ogni d@i ciento volte e pi@u per gli pastori di santa chiesa 
+quegli che debbono amonire e chorreggiere gli altri cristiani.  E per@o 
+dicie l'altore ch'ella si dolse.  E fingie che Beatricie diciesse a 
+quelle sette donne io istar@o pocho tempo sanza voi e star@o pocho 
+tempo ch'io torner@o da voi e chos@i disse Cristo a' suoi appostoli.  E 
+questo dici'ella solo per questa chiesa cio@e che Iddio noll'ha 
+abandonata ma ch'egli verr@a a visitarli co lloro pena e danno.
+
+	^S@i chom'io fui chom'io dovea secho~
+^dissemi frate perch@e non t'attenti~
+^a domandarmi omai venendo mecho.~
+
+Per queste parole dicie l'altore chom'egli si disponesse ad andare e 
+parlare insieme com Beatricie e con gran verghognia dicie che 
+chominci@o andare e parlare chon esso lei per lo fallo che prima avea 
+fatto d'averla lasciata e abandonata per altre scienzie.
+
+	|34-63.~ 
+	^Sappi che 'l vaso che 'l serpente ruppe~
+^fu e non @e ma chi n'ha colpa creda~
+^che vendetta di Dio non teme suppe.~
+
+In questa seconda parte l'altore fa che Beatricie gli narri la vendetta 
+che in brieve tempo ser@a fatta de' pastori di santa chiesa e che Iddio 
+non teme suppe questo dicie per tanto ch'erano cierte gienti erroniche 
+elle credevano e credono e chos@i si dicie per loro che quando uno ha 
+morto un altro e poi faccia la suppa e mangi sopra quel corpo morto che 
+mai poscia non se ne fa vendetta e questa usanza arrech@o Charlo Sanza 
+Terra di Francia che quando egli isconfisse e prese Churradino chogli 
+altri baroni della Magnia e fecie tagliare loro la testa i[n] Napoli e 
+poi dicie che feciono fare le suppe e mangiarolle sopra que' corpi 
+morti.  Cio@e Charlo chogli altri suoi baroni diciendo che mai non se 
+ne farebbe vendetta.  E per@o dicie che Iddio non teme queste suppe che 
+ssue vendette rimanghono a ffare ma indugiare puote.  E intendi per lo 
+vaso della chiesa e per lo serpente Maometto il quale ne port@o secho 
+gran parte di nostra fede e missegli e ssono in grande errore eresia.
+
+	^Non sar@a tutto tempo sanza reda~
+^l'aghuglia che lasci@o le penne al charro~
+^perch@e divenne mostro e poscia preda.~
+
+Qui pone l'altore e afferma ch'egli negha ispessamente [sic] per 
+costellazioni del cielo che tosto sar@a questa vendetta de' pastori di 
+santa chiesa e che poi sar@a riconciliata di buoni e di santi pastori e 
+che di questo detto tu non ti debbi meravigliare imper@o che di corto 
+dicie che sar@a.
+
+	^Tu nota e s@i chome da mme son porte~
+^chos@i queste parole insegna a' vivi~
+^del viver ch'@e un correre alla morte.~
+
+Fingie qui l'altore che Beatricie gli dicie tu tornerai al mondo tu 
+dirai alle gienti e metterai in iscritto che lla vendetta di Dio 
+s'indugia ma non s@i ch'ella manchi.  E per@o questo ti dicho acci@o 
+che ttu facci loro a sapere che questo ch'io t'ho detto di questi 
+pastori di santa chiesa verr@a in effetto e tosto sanza fallo e mancho 
+nexuno.
+
+	|64-102.~ 
+	^Dorme lo 'ngegno tuo se non estima~
+^per singhular chagione essere excielsa~
+^lei tanto e s@i travolta nella cima.~
+
+In questa terza parte l'altore fingie che Beatricie i[l] riprenda molto 
+mordaciemente di sua ignioranza e pigrizia diciendogli ch'egli dovrebbe 
+omai attendere alle chose divine e alte e a questa virt@u d'ubidienza e 
+diciegli perch@e Adamo ed Eva none ubidirono che lle cime e vette di 
+quello albero della ubidienza istanno tutte volte in giuso.  Inper@o se 
+ttu fossi quello che ttu dovessi essere tu vedresti e sapresti la 
+chagione perch@e choloro peccharono cio@e Adamo ed Eva.
+
+	^E io s@i chome ciera di suggello~
+^che lla fighura impresa non trasmuta~
+^segniato or da voi il mio ciervello.~
+
+Qui fa l'altore sua risposta a Beatricie diciendole e ischusandosi che 
+ora @e achoncio il suo animo e intelletto a volerla seghuire e si lla 
+domanda perch'egli non puote cognosciere la sua dottrina cio@e quella 
+di questa Beatricie per questa mia ragione ed ella gli risponde e dicie 
+perch@e ttu fosti gi@a in errore ma di questo errore dove gi@a fosti e 
+non te ne ricorda e lla chagione si @e questa perch@e tu tti lavasti e 
+bevesti oggi di quell'acqua di quel fiume Letes dove ti lav@o quella 
+contessa Matelda il qual fiume chi ssi lava in quello dimenticha tutti 
+i vizii e pecchati e per@o non te ne ricorda che ttu giamai mi 
+dismentichassi per veruna altra chagione d'altrui inamoramento cio@e 
+d'altre iscienzie mondane chapparo.
+
+	|103-145.~ 
+	^E pi@u corusco e con pi@u lenti passi~
+^teneva il sole il cierchio di merigge~
+^che qua e ll@a chome gli aspetti fassi.~
+
+In questa quarta parte l'altore dimostrar vuole chom'egli pervenisse a 
+perfetta profezione di verit@a e ch'egli si bagniasse nell'altro fiume 
+chiamato Euno@e.
+
+	^Dinanzi ad esso Eufrates e Tigri~
+^veder mi parve uscir d'una fontana~
+^e quasi amici dipartirsi pigri.~
+
+L'altore ti d@a qui per earicie [sic] questa similitudine di questi due 
+fiumi cio@e Eufrates e Tigris i quali fiumi eschono d'una fontana e s@i 
+ssi parte questa acqua l'una dall'altra.  E 'l fiume appellato Eufrates 
+ne va per la Erminia e 'l fiume Tigris passa per Babilonia grande e 
+chorre sotterra pi@u di ciento miglia che non si vede e poi si vede e 
+ffa chapo.
+
+	^O lucie o gloria della gente humana~
+^che aqua @e questa che qui si dispiega~
+^da un prencipio e ss@e da ss@e lontana.~
+
+Queste sono le parole dell'altore domandando dell'acqua di quello 
+ch'egli vedea e Beatricie priegha Matelda che gliele debba dire e dicie 
+cos@i
+
+	^E Beatricie forse maggior chura~
+^che spesse volte la memoria priva~
+^fatta la mente sua negli occhi schura.~
+
+Dicie l'altore che chome Beatricie chomand@o a Matelda ch'ella il 
+menasse a quel fiume e che ivi il bagniasse di subito e allora ella si 
+mosse ella e Stazio coll'altore insieme e in quel fiume Euricie i[l] 
+lav@o e bagni@o etc.
+	 Finischono le chiose overo lo scritto del purghatorio di Dante 
+composte per messer Giovanni Bocchaccio poeta da Ciertaldo.
+^Laldetur etternus deus.~

@@ -1,0 +1,174 @@
+	|1.~  O PADRE NOSTRO.  Il Poeta scrive in questo principio il Pater 
+Nostro, il quale dicevano questi superbi per penitenzia, e fa quello in 
+questa descrittion del Pater Nostro che ha fatto la Chiesa del Credo.  
+Fece la Chiesa il Credo grande a dechiaratione del picciolo, non che 
+sia diverso, ma declaratorio, e v'@e entro di bellissime dichiarationi: 
+cos@i fa qui il Poeta del Pater Nostro.
+
+	|2.~  NON CIRCUNSCRITTO: risponde alla tacita obiectione, perch@e avea 
+detto ^che ne' cieli stai~.  Questo studio, dove son ora, m'@e 
+circumscritto perch@e in esso son e, quando sonvi dentro, non posso 
+altrove essere, e m'@e terminato e mi contiene in s@e.  MA PER PI@U 
+AMORE: questa @e la ragione perch@e ne' cieli stia, per grand'amore che 
+port'agli angeli come pure sustantie.
+
+	|3.~  A' PRIM' EFFETTI: ^prim' effetti~ chiama gli angeli, e ^primi~ 
+in dignit@a, non in tempo, perch'in uno stante furon creati tutti da 
+Dio, e cos@i s'intende il luoco del ^Genesis~ <In principio creavit 
+coelum et terram>; pone prima il cielo in dignit@a per quel mondo 
+insensibile, e terra per questo mondo sensibile, e cos@i il Petrarca 
+nella canzone ^Una donna pi@u bella~ etc.: <lei davanti a me produsse 
+un parto>: <davanti lei> in dignit@a, intendendo della teologia, e 
+<me>, idest, della filosofia, e vedi molte cose ch'in quel luoco a 
+proposito di ci@o ho notato.
+
+	|6.~  AL TUO DOLCE VAPOR: mi pare una gran brasola!
+
+	|11.~  OSANNA, idest, vivifica.
+
+	|13.~  COTIDIANA MANNA: intende della gratia divina, e perch@e la 
+manna fu data a' santi padri nel deserto, per ci@o, avendo detto 
+^manna~, dir@a ^per quest'aspro diserto~.
+
+	|19.~  CHE VOLIENTIER S'ADDONA, idest, si dona al peccato e si rende; 
+vien da questo verbo, `io m'addono', `tu t'addoni', `quel s'addona'.
+
+	|22.~  QUEST'ULTIMA PREGHIERA, ch'@e quella ^nostra virt@u che di 
+leggier s'addona~.
+
+	|23.~  CHE NON BISOGNA, perch'essendo alla purgatione non possono 
+esser pi@u tentati.
+
+	|25.~  COS@I A S@E etc.: sono parole del Poeta; BUONA RAMOGNA: buon 
+successo, e ^ramogna~ proprio @e seguir nel viaggio.
+
+	|28.~  DISPARMENTE, perch@e secondo pi@u e meno grav'il peccar suo; A 
+TTONDO, perch@e cos@i andava quel balzo.
+
+	|30.~  LE CALIGINI, idest, le brutture.
+
+	|34.~  LOR ATAR, idest, loro aiutare; LE NUOTE, idest, le note e le 
+macule.
+
+	|35.~  MONDI, in quant'alle ^nuote~, LIEVI, per il pondo che portano.
+	|36.~  STELLATE ROTE: al cielo, che di sopra chiam@o ^supreme rote~.
+
+	|39.~  LEVI, avendo detto ^al[a]~.
+
+	|42.~  CHE MEN ERTO CALA: che cala, idest, che piega men erto, idest 
+ch'abbia miglior salita; e un'altra volta us@o a questo modo ^calare~ 
+nel canto III di questa cantica, ^or chi sa da qual man la costa cala~.
+
+	|44.~  ONDE, idest, del quale.
+
+	|45.~  @E PARCO, idest, tardo, e cos@i il Petrarca, <e nel mio dir son 
+parco>.
+
+	|46.~  LE LOR PAROLE: con che bel modo espone che Virgilio disse 
+quello che scrive di sopra e che gli fu risposto!
+
+	|51.~  A SALIR, idest, d'esser sallito da persona viva.
+
+	|53.~  CHE LA CERVICE MIA SUPERBA DOMA: ecco che 'l Poeta ci dichiara 
+che questi portano il peso per la lor sfrenata superbia.
+
+	|58.~  LATINO, @e la provincia, TOSCO, pi@u particolar.
+
+	|59~.  GUIGLIELMO, il padre, ALDOBRANDESCO, la patria.
+
+	|61.~  L'ANTICO SANGUE: bello epitito, idest, nobile, et @e un bel 
+terzetto questo.
+
+	|63.~  COMUNE MADRE, ch'@e la terra.
+
+	|80.~  L'ONOR D'AGGOBBIO: bella locutione.
+
+	|81.~  ALLUMINARE, idest, miniar, che quasi d@a lume alle carte e 
+splendore.
+
+	|82.~  PI@U RIDON: translato, idest, sono pi@u allegre e meglio 
+miniate.
+
+	|83.~  PENNELLEGGIA, che col pennello minia, et @e proprio del pictore 
+pennelleggiare.
+
+	|87.~  EXCELLENTIA: fa egli per X e [C]: nota; INTESE: fu intento.
+
+	|88.~  IL FIO, idest, il tributo.
+
+	|90.~  CHE POSSENDO PECCAR, idest, io non sarei qui se non fosse che a 
+bon'ora vivendo mi chiamai in colpa, e questo chiama `poter peccar' 
+perch@e, quando siamo gionti alla morte e che ci pentiamo, ci pentimo 
+allora che non potemo pi@u peccar; e pi@u merito ha uno che, potendo 
+far male, fa bene, che colui che fa bene, non potendo pi@u far male.
+
+	|92.~  COM, idest, come; il Petrarca: <com perde agevolmente>, et @e 
+esclamatione bella contra la vanigloria; VERDE, chiama il nome e la 
+gloria, e perci@o di sotto, ricordandosi aver detto ^verde~, dir@a ^la 
+vostra nominanza @e color d'erba~ etc.
+
+	|93.~  SE NON @E GIONTA DA L'ETATI GROSSE, perch@e per la successione 
+degl'uomini vengono a nascere pi@u sottili ingegni, che fanno meglio di 
+quello aranno fatto nella istessa arte gl'artifici passati, e perci@o 
+quello ch'era in verde e chiara fama, presto da questo secondo gli @e 
+oscurata e renduta secca, se forse gli omeni che soccedono non sono 
+grossi.
+
+	|95-98.~  TENER LO CAMPO, idest, esser il primo: bella translatione, 
+tolta da' combattenti.  HA GIOTTO IL GRIDO, la fama: bella locutione; 
+^la fama oscura, a tor la gloria della lingua~: tutti bei modi d'una 
+stessa cosa, ma diversamente detti.  E FORSE @E NATO: intende di s@e, e 
+meritamente.
+
+	|100.~  ROMOR, chiama quel ^grido~.
+
+	|101-102.~  OR VIEN QUINCI E OR VIEN QUINDI, cio@e che non @e stabile, 
+perch@e ora la fama va in uno, ora va ad un altro e [non] sta 
+stabile, E MUTA NOME PERCH@E MUTA LATO: il vento @e una materia e una 
+sustantia istessa, ma perch@e soffia da tramontana, ora da mezzod@i, 
+ora da levante e quando da ponente, secondo che va da quella banda, si 
+chiama Ponente, Levante, Tramontana e Ostro.
+
+	|103-105.~  VECCHIA SCINDI DA TE LA CARNE, idest, se muori in 
+vecchiezza; IL PAPO E 'L DINDI, idest, quand'eri putto.
+
+	|107-108.~  A L'ETERNO, idest, a l'eternit@a; AL CERCHIO, intende a 
+quello di Saturno.
+
+	|111.~  PISPIGLIA, avendo detto ^son@o~; APPENA IN SIENA, avendo detto 
+^Toscana tutta~.
+
+	|116.~  E QUEI, s'intend'il sole.
+
+	|118.~  INCORA, idest, mette in core.
+
+	|119-120.~  GRAN TUMOR: chiama ^tumor~ la superbia e perci@o, stando 
+nella presa metafora de tomor, dice  ^apiani~.
+
+	|123.~  ALLE SUE MANI, idest, alla sua signoria e poter.
+
+	|127.~  E IO: move un dubbio e lo solve.
+
+	|128.~  L'ORLO DELLA VITA: l'orlo, idest, il fine, che @e la morte.
+
+	|131.~  PRIMA CHE PASSI TEMPO QUANTO VISSE: perch@e, come vedemo ne 
+l'Antipurgatorio, quelli che per occupationi de stati erano stati fin 
+alla morte a tornar a penitentia, stavano altretanto for del 
+Purgatorio, quanto eran vissi, a purgar quella negligentia, se per 
+preghiere di giusti omini non era loro soccorso.
+
+	|135.~  S'AFFISSE: qui bisogna far punto fermo, perch@e sequita un 
+altro verbo presente, ^si condusse~, e saria strano construtto.
+
+	|138.~  SI CONDUSSE A TREMAR PER OGNI VENA: esprime bene, e lo dovea 
+ben sapere, ch@e lo prov@o il meschin, che chi domand'altrui lemosina, 
+con paura e tremar fallo, s@i della vergogna come della paura che non 
+gli sia negato.
+
+	|140-141.~  POCO TEMPO ANDR@A: bella locutione; CHE TU POTRAI 
+CHIOSARLO, perch@e, quando fu bandito, questo stesso intravenne a lui, 
+e alor sapea quel che si volea dir <condursi a tremar per ogni vena>.
+
+	|142.~  QUEST'OPERA, cio@e questa sumissione per tor l'amico di 
+prigione, opera vera di mesiricordia, GLI TOLSE QUEI CONFINI, cio@e ove 
+stan quelli ne l'Antepurgatorio detti di sopra.

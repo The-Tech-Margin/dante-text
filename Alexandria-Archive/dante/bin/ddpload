@@ -1,0 +1,33 @@
+#! /bin/sh 
+#
+#	Load files of documents into the Dartmouth Dante Project database
+#
+#	Usage:	ddpload  [-d database]  file ...
+
+if [ $# -gt 1 -a $1X = -dX ]; then
+	DB=$2
+	shift
+	shift
+else
+	DB=NDDP
+fi
+if [ $# -eq 0 ]
+then
+	echo "Usage:  ddpload  [-d database]  file ..."
+	exit 1
+fi
+
+LOG=$Dante/Doc/load.log
+echo "" >> $LOG
+echo -n "Load of $DB started from " `pwd` "on " >> $LOG
+date >> $LOG
+echo "Files to be loaded:" >> $LOG
+echo $@ | fmt >> $LOG
+
+cat $@ 2>> $LOG | brsload $DB -add >> $LOG 
+
+#set  `grep '^\.\.COMM' "$@" | wc`
+#IN=$1
+#set `tail -15 $LOG | grep Documents`
+#OUT=$3
+#echo "documents loaded:" $OUT "of" $IN >> $LOG

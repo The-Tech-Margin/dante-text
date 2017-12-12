@@ -1,0 +1,697 @@
+	|1-33.~  This difficulty being disposed of, Beatrice asks the
+spirits to answer another question which she sees rising in Dante's
+mind, not merely before it is put in words, but even before it is
+formulated in thought.  The question is twofold: first, will the light
+which enflowers the substance of these souls endure eternally as now? 
+and second, if so, when the body is restored to them in the
+Resurrection, will not their eyes be hurt or injured by its brightness? 
+The mere asking of the question threw the circles into an intensity of
+`new joy,' evidently at the very thought of the restoration of their
+bodies: they quicken their dance, and raise their voices as they sing
+three times their hymn to the Trinity. 
+
+	|34-60.~  The answer is then given by Solomon, `the divinest light
+in the lesser circle' [Landino thinks the speaker is Peter the Lombard,
+who discusses the question in the fourth Book of his ^Sentences.~  But
+^Par.~ x. 109 seems decisive for Solomon].  Dante notes that his voice
+is `modest,' such perhaps as that of the Angel to Mary, it being
+characteristic of the highest wisdom in men and Angels that it is
+unassuming.  It is sometimes supposed that Solomon is here retracting a
+sceptical and materialistic view which he had expressed in the book of
+Ecclesiastes (iii. 18-22), that one end comes to man and beast: `That
+which befalleth the sons of men befalleth beasts; even one thing
+befalleth them: and the one dieth, so dieth the other; yea, they have
+all one breath; so that a man hath no preeminence above a beast: for
+all is vanity.  All go unto one place; all are of the dust, and all
+turn to dust again.  Who knoweth the spirit of man whether it goeth
+upward, and the spirit of the beast
+whether it goeth downward to the earth?'  It is a mistake, however, to
+suppose that Dante regarded this as Solomon's own view.  Aquinas
+expressly denies this, and says that Solomon is speaking `in the
+character of the foolish,' as is proved by Chap. ii. of the ^Wisdom of
+Solomon~, which opens with these words: `For the ungodly said,
+reasoning with themselves, but not aright, Our life is short and
+tedious, and in the death of a man there is no remedy.'  The passage
+goes on to refute this scepticism of the foolish: `God created man to
+be immortal, and made him to be an image of His own eternity... and
+such as be faithful in love shall abide with Him.'  Solomon is
+certainly not to be regarded as withdrawing in Heaven an error into
+which he has fallen on earth: it is an error of others which he states
+in his writings in order to refute [^Summa~, i. q. lxxv. a. 6.  The
+same view is taken by St. Gregory in his ^Dialogues~ (Bk. IV. ch.
+iv.).  Solomon, he says, is ^Ecclesiastes~, the Preacher.  As such, he
+states this materialistic view of man as held by others, and then
+confutes it in another passage (vi. 8) which runs thus in the Vulgate:
+`Quid habet amplius sapiens a stulto? et quid pauper, nisi ut pergat
+illuc, ubi est vita?' -- `What hath a wise man more than a fool, and
+what a poor man, but that he may go thither where life is?'  Solomon's
+teaching, therefore, is `that a wise man hath not only more than a
+beast, but also more than a foolish man, to wit, that he goeth to that
+place where life is' -- i.e. to the immortal world].
+
+     Solomon's answer to the first half of Dante's question is
+that so long as Paradise endures, so long their love will ray round
+them this robe of light.  The light varies according to a fixed
+spiritual law: its brightness is proportioned to the ardour of love in
+each soul; the ardour, to the vision which the soul has of God; and the
+vision, to the amount of Divine grace bestowed upon it beyond its own
+worth or merit [I accept the common interpretation of ^valore~ in l. 42
+as ^merit~; but have hestitated as to whether Dante did not mean
+^natural ability.~  Practically, however, it comes to the same thing.
+Even if Adam had remained in his integrity, says Aquinas, he could not
+without grace have attained to the Beatific Vision, because that vision
+lies beyond the measure of created nature.  ^A fortiori~, therefore,
+grace is necessary to lift the fallen nature above its own powers
+(^Summa~, i-ii. q. cxiv. a. 2)].  The meaning of this last clause
+seems to be that, while the Beatific Vision is the reward of the
+special merit of each individual soul, yet an illuminating grace over
+and above the merit is necessary for sight, and this grace is itself
+proportioned to the merit [Comp. ^Par.~ xxix. 61, 62, for the union of
+^grace~ and ^merit~ in the Angels:
+
+     `For the which their vision was exalted
+     With grace illuminating and with their merit.'].
+
+When, at the Resurrection, then, the holy and glorified body is
+restored, says Solomon, the happiness of the Redeemed will be
+increased, because man is neither body alone nor soul alone, but an
+essential union of the two.  the completed nature will be able to
+receive more of the enlightening grace; and therefore the power of
+vision, the ardour of love, and the radiance which flows from these,
+will all increase.  Although it is from the over-flowing glory of the
+soul that the risen body gains its clarity [^Summa~, Supp. q. lxxxv. a.
+i. `This brightness will be caused by the overflow of the glory of the
+soul to the body.... As the soul will be of greater clearness according
+to its greater merit, so also there will be a difference of brightness
+in the body.'], yet the light of the body is not overpowered by that of
+the soul: it is like the white heat of a coal which shines through the
+flame which itself sends forth.  Hence the body will be able to bear
+the brightness without weariness or pain:
+
+     `For the organs of the body will be strong
+     To all that hath the power to give delight' --
+     [^Par.~ xiv. 52-60.]
+
+the reference being to the words of St. Paul: `It is sown in darkness;
+it is raised in power' [1 Cor. xv. 43.  This power, according to
+Aquinas, consists of ^impassibilitas~, superiority of suffering;
+^subtilitas~, power to penetrate other bodies; ^agilitas~, power to
+move at the spirit's will; ^claritas~, the overflow of the soul's light
+on the body: whereby the glorified body becomes the perfect organ of
+the glorified soul.  `The glorious body will be entirely subjected to
+the glorified soul, not only in that there will be nothing in it which
+may resist the will of the spirit, for this was the case even in the
+body of Adam; but also in that there shall be in it a certain
+perfection flowing forth from the glorified soul into the body, by
+which it is rendered disposed to the aforesaid subjection, which
+perfection is called the marriage-portion of the glorified body' (^dos
+glorificati corporis~).  (^Summa~, Supp. q. lxxxiv. a. 1.)].
+
+	|61-66.~  Scarcely had Solomon ceased speaking when an eager cry
+of ^Amen~ from the two `choirs' revealed their longing for their dead
+bodies; and perhaps, adds Dante, not for their own merely,
+
+                              but for their mothers,
+     For their fathers, and for the others who were dear,
+     Or ever they became eternal flames.
+
+[`The perverse ingenuity of commentators,' says Plumptre, `has inferred
+from the absence of any relations except father and mother that he
+(Dante), for his part, did not desire to meet his wife in Paradise.' 
+Dr. Moore (^Dante and his Early Biographers~, p. 18 n.) suggests that
+perhaps the commentators forgot that `the spirits here are those of the
+great ^Theologians~!'  If jokes are to be made, we may remind ourselves
+that one of these Theologians -- the last speaker -- was a very much
+married man, to whom, possibly, the advent of wives might not have
+increased even the `accidental' joy of Paradise.]  According to
+Aquinas, `every imperfect thing seeks its own perfection, and therefore
+the separated soul naturally seeks conjunction with the body, and by
+reason of this desire proceeding from imperfection, its operation by
+which it borne toward God is less intense' [^Summa~, Supp. q. xciii. a.
+i.].  In other words, so long as this longing for the body exists the
+soul cannot lose itself wholly in God, as it will do after the
+Resurrection, when the longing is satisfied.  As to the desire which
+perhaps these souls had for those near and dear to them here below,
+Dante is again following Aquinas who holds that, since the essential
+blessedness of the soul is in God, it is independent of friends: `if
+there were only one soul enjoying God, it would be happy, without
+having any neighbour to love.'  Nevertheless, since the love of our
+neighbour flows from the love of God, `friendship is a sort of
+concomitant of perfect happiness,' an `accidential' beatitude, such as
+the joy the spirits in Mercury felt when they saw Dante enter their
+Heaven:
+
+     `Lo, one who shall increase our loves!'
+
+[^Par.~ v. 105: ^Summa~, i-ii. q. iv. a. 8.  Aristotle (^Ethics~, ix.
+9) discusses the question, Does the happy man need friends? in
+relation, of course, to the present life.  See above {comm. to ^Par.~
+3.64-66}.
+
+     The Resurrection of the body was regarded as a kind of
+justice for the service it renders to the soul.  `To the soul that
+loveth God,' says St. Bernard in his ^De Diligendo Deo~, chap xi., `its
+body availeth in its infirmity, availeth in its death, availeth in its
+resurrection; first for the fruit of penitence, second for repose,
+third for consummation.  And rightly doth the soul not will to be made
+perfect without that which it feeleth hath in every state served it in
+good things' (quoted in ^Paradiso~, Temple Classics).  Origen thinks it
+would be unjust to save the soul and let the body, the companion of its
+sufferings, perish: `For how does it not seem absurd that this body
+which has endured scars for Christ, and equally with the soul, has
+borne the savage torments of persecutions, and has also endured the
+suffering of chains and rods, and has been tortured with fire, beaten
+with the sword, and has further suffered the cruel teeth of wild
+beasts, the gallows of the cross, and divers kinds of punishments, --
+that this should be deprived of the prizes of such contests?  If,
+forsooth, the soul alone,  which not alone contended, should receive
+the crown, and its companion the body, which served it with much
+labour, should attain no recompense, for its agony and victory, -- how
+does it not seem contrary to all reason that the flesh, resisting for
+Christ its natural vices, and its innate lust, and guarding its
+virginity with immense labour, -- that one, when the time for rewards
+is come, should be rejected as unworthy and the other should receive
+its crown?  Such a fact would undoubtedly argue on the part of God,
+either a lack of justice or a lack of power.'  Parker, who quotes this
+in his translation of Dionysius the Areopagite, gives parallel passages
+from his works (^Eccles. Hier.~ ch. vii.; ^Divine Names~, ch vi.).]
+
+	|67-78.~  We come now to the third circle, and as it requires
+careful examination, it will be well to quote the passage:
+
+     And lo, all round about of equal clearness
+     Rises a lustre over what was there,
+     Like an horizon that again grows clear.
+     And even as at the first rise of eve
+     New appearances throughout the sky begin,
+     So that the sight seems and not seems true;
+     It seemed to me that new subsistences
+     Began there to be seen, and make a circle
+     Outside the other two circumferences.
+     O true sparkling of the Holy Spirit,
+     How sudden and glowing did it make itself
+     Unto mine eyes, which, conquered, bore it not.
+     [^Par.~ xiv. 67-78.]
+
+The interpretations given of this passage seem to me singularly
+inadequate.  Some regard the vision as the first dawning on the poet's
+eyes of the glory of the next Heaven, Mars, which he is on the point of
+entering.  Others take it as a third circle of theologians of whom
+Dante names none, either because, to quote Landino, `they have written
+subtly and with obscurity, or because they were not known to him.'  A
+modern commentator thinks the revelation of numerous other spirits is
+`intended to show that the twenty-four saints who have hitherto
+appeared are only the more conspicuous occupants of this Heaven' [Rev.
+H. F. Tozer, ^English Commentary~, p. 503.] -- ignoring the fact that
+this third circle flashes out into a brilliance far surpassing that of
+the other two.  A third interpretation, relying on the word
+`subsistences' in l. 73, takes it to be a circle of Angels -- according
+to Vellutello, the Dominations, the Movers of the Sun, and the lowest
+Order of the Second Hierarchy, which has its beginning here.  The word
+`subsistencies,' however, does not necessarily mean Angels, though in
+Canto xiii. 59 it is expressly applied to them.  The `quality of being
+separable from matter,' says Cornoldi, `is called ^subsistence~, and
+the forms endowed with it are called ^subsistent~' [^Physical System of
+St. Thomas~, p. 17].  `Subsistences,' therefore, can be used of
+`separated souls' as well as Angels.  One of the most interesting
+suggestions is Mr. Gardner's, that Dante is here the not altogether
+unconscious prophet of modern science: `It is, however, perfectly
+justifiable to see in this episode a mystically expressed prophecy of
+future discoveries and of scientists to come; an acknowledgement that
+there were truths which the mediaeval schoolmen had not dreamed of,
+that a day would come when the world would no longer say with Dante
+himself in the ^Convito: Assai basta alla gente per la grande autorit@a
+di Aristotile a sapere che questa terra @e fissa e non si gira, e che
+essa col mare @e centro del cielo~ [^Convito~, iii. 5. `It is quite
+enough for people on the great authority of Aristotle to know that this
+earth is fixed and does not revolve, and that it with the sea is the
+centre of the heavens.']; and that Evolution would yet have its word to
+say upon creation and the origin of man....  It is not, perhaps,
+altogether fanciful to notice that Beatrice does not offer any
+explanation, but rather hurries him upward; and we may remember how the
+Ecclesiastic Authority was not exactly going to show itself favourable
+to the discoveries of Galileo, and that Theology has not always been
+prepared to accept the results of even more recent scientific
+investigations' [^Dante's Ten Heavens~, p. 109.  On Mr. Gardner's idea
+that Beatrice stands for Ecclesiastical Authority, see above {comm. to
+^Par.~ 1.49-66}.  Even taking her in this character, she had, as we
+shall soon see, good reason for silence].  Interesting as this is, it
+seems to me entirely out of harmony with this Heaven of the Sun.  The
+great subject of study here is the Trinity, to which so many references
+are made; and it is not in the least likely that Dante regarded such
+things as theories of Evolution in relation to creation and the origin
+of man, could he have divined them, as the `true sparkling of the Holy
+Spirit.'  They would have belonged to what Aquinas calls the `ascent
+through creatures to the knowledge of God by the natural light of
+^reason~' [^Contra Gentiles~, iv. 1.]: a knowledge far beneath that of
+a ^faith~, as this, in turn, is beneath that of ^sight~, the knowledge
+proper to Paradise.  The `true sparkling of the Holy Spirit' is
+obviously a climax of revelation, some direct and burning outflash of
+Divine light; whereas Mr. Gardner's theory throws us back to that
+knowledge by which the natural reason climbs its painful way toward God
+as far as creatures will carry it, and which Aquinas and Bonaventura
+alike regarded as the lowest stage.  Dante dismissed it long ago in the
+Earthly Paradise with Virgil, its symbolic representative.
+
+     I have already indicated the view I hope to establish.  It
+seems to me clear that Dante wishes to complete his symbolism of the
+Trinity, and that the `true sparkling of the Holy Spirit' is suggested
+to him by the last named soul in the second circle, Joachim the
+Calabrian abbot, on Bonaventura's left hand [Joachimitism is virtually
+a recrudescence of Montanism.  Comp. Tertullian's words in his
+Montanist days: `Righteousness...  was first in a rudimentary state,
+having a natural fear of God: from this stage it advanced, through the
+Law and the Prophets, to infancy; from that stage it passed, throught
+the Gospel, to the fervour of youth: now, through the Paraclete, it is
+settling into maturity.  He will be, after Christ, the only one to be
+called and revered as Master.... He is the only prelate, because He
+alone succeeds Christ' (^On the Veiling of Virgins~, ch. i.,
+^Ante-Nicene Library~, vol. iii. p. 155)].  This may seem an arbitrary
+suggestion unless we remember the extra-ordinary influence Joachim's
+theology had on the Franciscan Order, an influence with which Dante was
+perfectly familiar, as his reference to Casale and Acquasparta shows.
+[^Par.~ xii. 124.  See above {comm. to ^Par.~ 12.118-126}].  Joachim
+was a Cistercian monk, who in 1189 founded a community at Flora or
+Fiore among the mountains of Calabria, and devoted himself to the
+exposition of Scripture, especially the prophetic and apocalyptic
+parts.  He was believed to be, as Dante says, `endowed with the
+prophetic spirit,' and for generations prophecies gathered round his
+name.  His three undoubted works are ^Harmony of the Old and New
+Testaments, Commentary on the Apocalypse~, and ^Psalter of Ten Chords~
+[Renan (^Studies of Relig. Hist.~, 222) says that in editions of the
+^Psalter~ are found two hymns on Paradise.  `The second of these
+compositions, purporting to be the relation of a journey through the
+supernatural world of spirits, is curious as having preceded the Divine
+Comedy.'].  A man of glowing imagination, of deep mystical spirit, and
+of ardent enthusiasm for perfect conformity to Christ, it was
+impossible for Joachim to believe that Christianity as he saw it around
+him, was the final flower and fruit of the kingdom of God.  His longing
+for a perfect world wrought out a philosophy of history in which
+Christianity itself is but a passing phase.  All history he divided
+into three great eras, corresponding to the three Persons of the
+Trinity.  The first -- that of the Father -- is that `in which men live
+under the rigour of law; the second -- that of the Son -- under the
+favour of grace; the third -- that of the Spirit -- in the fulness of
+the same grace.  In the first slavish servitude has place, in the
+second filial, in the third liberty.  In the first men live in fear, in
+the second they rest in faith, in the third they burn with charity. 
+The first period belongs to the old, the second to youths, the third to
+children.  The first to slaves, the second to freemen, the third to
+friends.  In the first the stars shone, in the second the dawn whitens,
+in the third is full day.  In the first winter reigns, in the second
+spring, in the third summer.  The first produced nettles, the second
+roses, the third lilies.  The first grass, the second ears, the third
+grain' [Felice Tocco, ^L'Eresia nel Medio Evo~, p. 374].  The idea that
+the second era was rapidly drawing to its close and the third about to
+open fired the hearts of all who were sick of the sins of the Church;
+and none caught the flame faster than the Spiritual Franciscans.  In
+the year 1254, -- fifty-two years after Joachim's death -- the Church
+was thrown into consternation by a book which struck at its very
+existence.  It drew its title, ^The Everlasting Gospel~, from Rev. xiv.
+6: `And I saw another angel fly in the midst of heaven having the
+everlasting gospel to preach unto them that dwell on the earth, and to
+every nation, and kindred, and tongue, and people.'  It consisted of
+the three works of Joachim named above, and an Introduction in which
+the abbot's doctrines were boldly developed.  The New Era was dated to
+begin in 1200.  The writings of Joachim, as the Scriptures of the
+Eternal Gospel, would displace the Old and New Testaments.  `The
+preaching and dissemination of this supreme and eternal law of God is
+committed to the barefooted Order (the Franciscans).  At the threshold
+of the Old Law were three men, Abraham, Isaac, and Jacob; at that of
+the New Law were three others, Zachariah, John the Baptist, and Christ;
+and at that of the coming age are three, the man in linen (Joachim),
+the Angel with the sharp sickle St. Dominic), and the Angel with the
+sign of the living God (Francis)' [Lea, ^Hist. of the Inquisition~,
+iii. 21.  Renan in suggesting that Dominic was `the Angel with the
+sharp sickle' says `this interpretation is not given in the
+manuscripts, no doubt because the Dominican censors would not have been
+pleased to see the name of their patriarch mixed up with these
+dangerous doctrines'].  The sacraments and observances of the Second
+Era would pass away in the final reign of the Love of the Spirit.
+
+     It is necessary for our present purpose to enter into the
+storm the book produced [An echo of the storm is heard in Jean de
+Meun's ^Romance of the Rose~, which identifies the Franciscans with
+Antichrist, and denounces the new Gospel:
+
+     `The prime exemplar of a book
+     So vile that by the devil's crook
+     It well were written, and about
+     'Twas set for clerks to copy out
+     And circulate when duly dight;
+     The Everlasting Gospel hight
+     This trash and friars avouched its merit,
+     As writ by God's most Holy Spirit.'
+
+(From Temple Classics translation by F. S. Ellis, ll. 12443 ff.)].  It
+was finally condemned by a commission of Cardinals at Anagni in 1355.
+We have yet to see, however, the attitude of Bonaventura to this
+movement of the Spirituals of his Order.  At the time of the
+publication of the book, the General of the Order was John of Parma, a
+strong supporter of the Spirituals.  At first suspicion fell on him,
+but there is little doubt that the author was another of the Spiritual
+Franciscans, Gherardo da Borgo San Donnino, a man of learning and
+purity.  John of Parma was forced to resign; an intermediate party was
+formed; and, as Renan says, `orthodoxy and a decorous mysticism carried
+the day in the person of St. Bonaventura,' his successor.  We may
+agree with Tocco that `the new General bore himself with much humanity
+to the Joachimite party' as a whole; but his treatment of John and
+Gherardo was not remarkable for leniency.  John was tried by a special
+court, and would have been condemned with Bonaventura's consent but for
+the strong intercession of Cardinal Ottoboni, afterwards Pope Adrian
+V.  He was allowed to choose his place of retirement.  Gherardo was
+thrown into an underground dungeon, put in chains, and fed with bread
+and water for eighteen years; and when death gave him release, the
+rites of the Church were refused, and his body was buried in the ashpit
+of the garden of the convent where he died.  Two of his comrades had a
+similar fate.  If we wish to learn how the Spirituals regarded the
+clemency of St. Bonaventura we have only to read the vision of Brother
+Jacopo della Massa in Chap. xlviii. of the ^Fioretti.~  In his vision
+Jacopo saw John of Parma on the highest point of the Tree of the
+Order.  St. Francis at Christ's command offered to all the brethren on
+the Tree `a chalice full of the spirit of life.'  Those who devoutly
+drank it all shone as the sun.  Those who spilled it all became black
+and deformed.  Those who spilled some and drank some became dark and
+shining in proportion to each.  John, who shone brightest of all,
+foreseeing the storm about to shake the Tree, came down from the
+topmost branch and `hid himself in the solid root, and was all rapt in
+thought' -- an obvious reference to his resignation and retirement.
+Then `one of the brothers that had taken part of the chalice and part
+had spilt' -- an allusion to Bonaventura's intermediate position in the
+controversy -- `climbed up on that branch and to that place, whence
+Brother John had come down.  And when he was come to that place, the
+nails of his hands became iron, sharp and keen as razors: whereat he
+left the place to which he had climbed, and with rage and fury sought
+to hurl himself upon the said Brother John for to do him hurt.'  John
+was saved only by St. Francis, at Christ's word, cutting off the nails
+of that brother with a sharp flint stone [^The Little Flowers of St.
+Francis~ (Temple Classics)].
+
+     Now, it seems to me clear that Dante in this third circle
+wished to show how far his sympathy with these Joachimite views went.
+In general, he accepts the doctrine of a third era of the Holy Spirit.
+If we take the three circles to correspond to the Trinity, we may say
+that the first, the Dominican, represents the Father, the reign of law
+and fear; and the second, the Franciscan, the Son, the favour of the
+grace of Christ, whose image St. Francis bore.  But Dante believes that
+these two types do not exhaust the possibilities of Theology.  Joachim
+and his followers were not mistaken in their hope of a third era worthy
+to be called, in comparison with the others, the `true sparkling of the
+Holy Spirit,' far wider in its range, far more brilliant in its
+shining.  Dante cannot describe it definitely; it lies far off on the
+dim horizon of the future.  It has the mystery, of the evening when the
+stars are scarcely seen, for it is the passing away of one era.  It has
+the mystery of the morning when the dawn whitens, for it is the
+beginning of a new day of the Spirit, -- perhaps the eternal day
+itself:
+
+     Earth breaks up, time drops away,
+     In flows heaven, with its new day
+     Of endless life.
+
+[Browning's ^Christmas Eve.~  The reference to morning and evening
+in C. xiv. 67-75 reminds us of St. Augustine's mystical interpretation
+of Genesis i.  The Angels have a ^morning~ knowledge (^cognitio
+matutina~), when they know things in the Word; and an ^evening~
+(^vespertina~) knowledge, when they know things in their own nature. 
+See ^City of God~, xi. 29; ^Summa~, i. q. lviii. a. 6.]
+
+     In this sense, then, and to this extent, Dante proclaims
+himself a Joachimite in his hope of the great Era of the Spirit.  The
+details and implications of the doctrine as held by the Spiritual
+Franciscans made it impossible for him to bind himself more
+definitely.  It identified the new era with the Franciscan Order.  It
+declared monasticism to be the final and perfect form of human society
+[The three eras correspond to three orders (1) the married (Father);
+(2) the priesthood (Son); (3) monks (Spirit).  As Tocco says, Joachim
+seems never to have asked how the human race is to continue in an era
+of universal monachism (^L'Eresia nel Medio Evo~, Bk. II. ch. i. v)].
+It substituted the writings of Joachim for the Old and New Testaments.
+It abolished the Church as an institution, with all its sacraments and
+rites.  Dante did not wish to commit himself to any of these
+implications of the doctrine; but he has no hesitation in declaring his
+conviction that the highest types of Theology known to him fall far
+short of the vast circle of light which the Divine Spirit will yet
+flash into the souls of men in some great day of `the revealing of the
+sons of God.'
+
+	|79-87.~  The outline of the story of Mars, the Fifth Heaven, on
+which we now enter, is as follows.  Dante's eyes, dazzled by the `true
+sparkling of the Holy Spirit' in the third circle of the Sun, are
+restored by the beauty and smile of Beatrice, as he rises to `a loftier
+salvation.'  [The idea is probably that Dante's eyes were dazzled with
+the vision of future revelations of the Spirit, and restored by
+Beatrice leading him up from this matter of speculation to the lives of
+soldiers and martyrs of Christ -- the `loftier salvation' of sharing in
+`the fellowship of His sufferings.']  He found himself in Mars, which
+seemed ruddier than its wont.  Across its glowing surface a great white
+Cross [Plumptre's notes that the Cross is `after the Greek pattern,
+such as that with which early Byzantine and Italian art was familiar in
+the aureole of our Lord, as distinguishing Him from the saints.'  Dante 
+describes it as
+
+                            the venerable sign
+     Which junctures of quadrants in a circle make (xiv. 101).]
+
+shone like the Milky Way, and though its light Christ Himself flashed
+forth mysteriously.  Souls of marytrs and crusaders in the form of
+`ruby splendours' moved up and down and from side to side along the
+white pathway of the Cross, singing as they moved a song of praise of
+which he understood only the words, `Arise and conquer.'  When the song
+ceased, the soul of his ancestor Cacciaguida flashed down from the
+right arm of the Cross to welcome him.  He tells how simple was the
+life of the ancient Florence into which he was born; how he was
+baptized and married; how he joined the Crusades, was knighted by the
+Emperor Conrad, died for Holy Land, `came from marytrdom unto this
+peace.'  He explains how Florence has fallen from its ancient peace and
+simplicity to its present state of luxury, the decay of its old
+families, and the baleful influence over it of its former patron, the
+god Mars.  He then foretells how Florence will make a martyr of Dante
+himself by banishment, and what will be his lot in exile.  He exhorts
+him to bear all in the true martyr spirit, speaking out the truth even
+about the loftiest names in scorn of consequence.  Finally, he points
+out some of the warrior-souls who have now the Cross for which they
+fought and suffered as their eternal home and joy.
+
+     Dante's leading idea in this Heaven is to draw a contrast
+between war in its celestial nobility and war in its earthly
+baseness; or, to put it otherwise, between this Heaven of Mars
+with its soldiers of the Cross, and the city of Florence under
+the influence of the god Mars, whose statue stood at the Ponte
+Vecchio.  For instance, Cacciaguida speaks of the Florentines of
+his day,
+
+     `All those who at that time were there between
+     Mars and the Baptist, fit for bearing arms.'
+                              [^Par.~ xvi. 46.]
+
+`Mars and the Baptist' -- in these words was compressed, for Dante's
+mind, much of the entire history of Florence.  They indicate the
+boundaries of the city in his forefather's day: on the south, the
+statue of Mars standing at the entrance of the Old Bridge, and, on the
+north, the Baptistery of St. John where it is to-day.  But to a
+Florentine the names meant much more than boundaries.  According to
+Villani, the Baptistery was originally the Temple of Mars, built before
+the Christian era, to commemorate a great victory of the Romans over
+the Fiesolans [^Chron.~ i. 42].  On the conversion of Florence to
+Christianity, the Temple was dedicated to John the Baptist, and the
+statue of Mars was carefully set in a high tower on the Arno, an
+ancient prophecy having declared that its destruction would cause great
+damage to the city [Villani, ^Chron.~ i. 60].  This tower was believed
+to have been overthrown and the statue cast into the Arno in the
+mythical destruction of Florence by the Goths; and when the city was
+rebuilt, it was drawn from the river and set on a pillar at what is now
+the head of the Ponte Vecchio, under the conviction that only thus was
+the rebuilding possible [Villani, ^Chron.~ iii. 1; ^Inf.~ xiii.
+146-150].  To our minds all this is proof that the Florentines were as
+much devoted to war after their conversion to Christianity as before
+it; but to the citizens it meant that the perpetual fighting within the
+walls was due to the anger of the offended deity.  In the ^Inferno~
+(xiii. 143-145) a Florentine suicide is made to say:
+
+     `I of that city was which for the Baptist
+     Changed its first patron, wherefore he for this
+     For ever with his art will make it sad.'
+
+And, in the Cantos before us, Cacciaguida connects the strife of
+Guelphs and Ghibellines in the city with the statue of the god. 
+He is speaking of ancient Florentine families, and the last he
+names are the Amidei:
+
+     `The house from which your wailing sprang,
+     Through the just wrath which has brought death to you,
+     And put an end unto your joyous living,
+     Was honoured in itself and in its allies.
+     O Buondelmonte, how evil was the hour
+     Thou fled'st the bridal at another's promptings!
+     Many would be rejoicing who are sad
+     If God had thee surrendered to the Ema
+     The first time that thou camest to the city.
+     But it was meet that to that mutilated stone
+     Which guards the bridge, Florence should give
+     A victim in her last hour of peace.
+                         [^Par.~ xvi. 136-147.]
+
+The reference is to the well-known story of the murder of Buondelmonte
+de' Buondelmonti in 1215.  This young nobleman was bethrothed to a lady
+of the Amidei family, but forsook her for a daughter of the house of
+the Donati.  The kinsmen of the insulted lady waylaid and slew him at
+the foot of the statue of Mars, `that mutilated stone', as he rode into
+the city on Easter Day [Villani, ^Chron.~ v. 38; Dino Compagni, i.
+2].  Well for the city, says Cacciaguida, if the first time he came to
+it he had been drowned in the little stream of the Ema which flows
+through the Valdigreve, a little south of Florence, where his castle
+lay.  The murder was generally regarded as the beginning of the feuds
+of Guelphs and Ghibellines of which Dante himself was a victim;
+although, as Villani admits, `long before there were factions among the
+noble citizens, and the said parties existed by reason of the strifes
+and questions between the Church and the Empire' [^Chronicle~, v. 38. 
+`By reason of the death of the said M. Bondelmonte,' says Villani,
+`all the families of the nobles and the other citizens of Florence were
+divided, and some held with the Bondelmonti, who took the side of the
+Guelfs, and were its leaders, and some with the Uberti, who were the
+leaders of the Ghibellines, whence followed much evil and disaster to
+our city, as hereafter shall be told; and it is believed that it will
+never have an end, if God do not cut it short.  And surely it shows
+that the enemy of the human race, for the sins of the Florentines, had
+power in that idol of Mars, which the pagan Florentines of old were
+wont to worship, that at the foot of his statue such a murder was
+committed, whence so much evil followed to the city of Florence']. 
+From all this it is obvious that Dante's aim is to draw a contrast
+between the two influences of Mars: the Christian, as seen in these
+soldiers of the Cross who fought for some noble cause, such as the
+recovery of Holy Land; and the heathen, as seen in the deadly feuds of
+Florence, rooted in luxury and the breaking of faith, and producing as
+fruit the decay of ancient families and the banishment of its
+citizens.  It is scarcely possible that Dante could write these Cantos
+without remembering the portent which he mentions in the ^Convito~
+(ii. 14): `And in Florence, in the beginning of her destruction, was
+seen in the air, in the figure of a cross, a great quantity of those
+vapours which are followers of the star of Mars', -- a sign said to
+have been seen on the evening of November 6, 1301, a few days after the
+entry of Charles of Valois.  [Dino Compagni in his ^Chronicle~ (ii. 19)
+says he saw it: `In the evening a marvellous sign appeared in the sky,
+namely, a bright red cross above the Prior's Palace.  Its beams were
+more than a span and a half in width, the length of the one line
+appeared to be 20 cubits, that of the transverse a little less.  This
+appearance lasted during such time as a horse would take to run twice
+in the tilt.  Wherefore the people who saw it, and I who clearly saw
+it, might understand that God was greatly angered against our city'
+(Temple Classics transl.).  In Mars, it is the star that is red, while
+the cross is white.]
+
+     And now, having the general idea before us, let us look
+at the details.  The colours of this Heaven are probably symbolic. 
+Dante speaks of the burning smile and redness of the planet, both,
+doubtless, representing the love which made it possible to lay down
+life itself: hence the souls themselves are in the form of ruby
+lights.  As white is the symbolic colour of faith, the white pathway in
+which they move may be taken to represent that faith of the Cross in
+which they fought and conquered.
+
+	|88-90.~  In this connection it is interesting to mark the
+completeness of Dante's thanksgiving for being raised to this
+loftier salvation of suffering with his Lord:
+
+     With all the heart, and in that speech
+     Which is the same in all, such holocaust
+     To God I made as the new grace beseemed.
+
+The important word here is `holocaust' or `whole burnt offering', a
+word which Dante cannot have used without having in mind the
+significance it had in the theology and practice of his Church.  It is
+almost a technical word for the absolute and complete surrender of the
+entire self to God in the `religious' life.  As Aquinas says: `They are
+called eminently ^religious~, who hand over the dominion of themselves
+to the divine service, offering as it were a holocaust to God'; and he
+quotes Gregory: `When a man has vowed to Almighty God his whole having,
+his whole living, and his whole liking, that is a holocaust [^Summa~,
+ii-ii. q. clxxxvi. a. 1, 6].  This is quoted to prove that this
+holocaust is made by the three vows of religion, poverty, chastity,
+obedience -- vows which Dante certainly had not taken.  In using the
+word here, therefore, the implication is that holocaust can be made in
+other ways, such as martyrdom, to which, plainly, Dante here devotes
+himself.  [This, of course, is entirely in harmony with Aquinas who
+teaches that `of human acts, martyrdom is the most perfect of its kind,
+as being the sign of the greatest charity' -- since the martyr gives up
+life, the thing most loved, and faces a painful death, the thing most
+hated.  It is doubtful, however, whether Dante's claim of martyrdom
+would have been allowed, Aquinas holding that `the essence of
+martyrdom, full and perfect, requires the suffering of death for
+Christ' (^Summa~, ii-ii. q. cxxiv. a. 3, 4)].
+
+	|91-96.~  The warm glow of his holocaust had not yet left his
+breast when Dante received assurance of its acceptance by the
+appearance of the souls of the star -- splendours so radiant and
+ruby-coloured that he broke into the exclamation: `O Elios, who dost so
+adorn them!'  `Elios, is probably a mingling of the Hebrew name of God
+^El~ (see Canto xxvi. 136) and the Greek ^Helios~, the Sun, God being
+the Sun, of all heavenly spirits: in the next Canto, for example, He is
+spoken of as `the Sun who illumed and fired you with heat and light'
+(l. 76).  One is tempted, however, to hear in the word an echo of the
+`Eli, Eli' of Calvary.  Dante seems to have in his mind the contrast
+between the Cross on earth and the Cross in Heaven.  On Calvary the
+sun withdrew its light, and in the darkness Christ felt as if He were
+forsaken of God: `Eli, Eli, lama sabachthani?'  Here in Paradise
+Elios, the Sun, shines upon the Cross and kindles into joy and beauty
+the souls of the noble army of martyrs who entered into the fellowship
+of His sufferings [Matt. xxvii. 46.  Toynbee in his ^Dante Dictionary~
+quotes the ^Magnae Derivationes~ of Uguccione da Pisa: `Ab ^ely~, quod
+est deus, dictus est sol ^elyos~, quod pro deo olim reputabatur'; and
+Longfellow refers to St Hildebert's hymn ^Ad Patrem~:
+
+     `Alpha et Omega, magne Deus,
+     Heli, Heli, Deus meus'
+
+For the secret joy with which Christ said `Eli' on the cross --
+enduring even that final desolation gladly for our sakes -- see ^Purg.~
+xxiii. 70-75].
+
+	|103-108.~  Dante finds it impossible by any `worthy example' to
+tell in what fashion Christ flashed forth in that white dawn of the
+Cross.  The only interpreter is experience: the man who takes his cross
+and follows Christ will excuse his silence when he sees the same
+mysterious lightning.  For it is to be noted that it is the flash of
+lightning (^balenar~, l. 108): `as the lightning cometh out of the
+east, and shineth even unto the west; so shall also the coming of the
+Son of Man be' [Matt. xxiv. 27], and in every warfare of His saints
+against the world He flashes forth in the lightning of judgment.  We
+may also note here that this is the first of three visions of Christ
+vouchsafed to Dante in the ^Paradiso~.  Here He flashes forth from the
+Cross through those who shared `the fellowship of His sufferings.'  In
+the Heaven of the Fixed Stars He appears in His Triumph as the Central
+Sun of the starry hosts of His saints in their victory over death and
+hell.  The final vision is the mystery of the Incarnation, the union of
+the Divine and human, which came to Dante as by a flash of lightning,
+beyond his natural powers [^Par.~ xiv. 103-108; xxiii. 28-39; xxxiii.
+127-145].
+
+	|109-139.~  The `ruby splendours' of these warrior-souls move in
+the white arms of the Cross like motes in a sunbeam that comes through
+a chink into a darkened room, or like fire behind alabaster -- the glow
+of their love shining through the white light of their faith; and as
+they meet and pass each other they sparkle brightly in their mutual joy
+and love.  All their movements are in music: their song is to Dante
+like a lute or harp of many strings -- he hears the notes but cannot
+understand the words.  One phrase alone comes to him: `Rise thou and
+conquer', -- perhaps a hymn of praise fo the victory of their Lord over
+sin and death [Landino's note is: `These two words from the holy
+Scripture are spoken to Christ: Rise from death and conquer the devil. 
+The author feigns that of the whole hymn which the souls sang to Christ
+he understood only Arise and conquer, to show that it is easy for every
+one to understand that the passion and death of Christ was the victory
+by which He delivered us from bondage to the devil, but that many other
+wonderful things which are involved in that victory are not understood
+save by the most learned men.'  It is much likelier that Dante meant to
+say that it is only souls in Paradise, who themselves have fought and
+overcome, who know all the reasons for praising Christ for his great
+victory over sin and death].  The meaning seems to be that Dante is as
+yet unable to enter into `the high praises' of those who have `fought
+the good fight' and won their `crown of life': the bitterness of the
+struggle is still upon him, and he is not yet able to glory in
+sufferings.  But the melody of those who can thus glory in the cross is
+the sweetest thing he has yet known in Paradise; though he is careful
+to tell us that when he said this he had not looked at the eyes of
+Beatrice since he entered this Heaven [^Par.~ xiv. 130-139.  It is only
+in xv. 34 that he sees her eyes.  See {comm. to ^Par.~ 15.32-42}].
+

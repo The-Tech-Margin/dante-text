@@ -1,0 +1,1271 @@
+	|Introduzione.~  Al Purgatorio, ^quel secondo regno /
+dove l'umano spirito si purga / e di salire al ciel diventa
+degno~ (4-6), Dante d@a una struttura materiale ed escatologica
+assai diversa da quella che d@a all'Inferno.  Certo, la cavit@a
+infernale @e <come la matrice d'un calco che avrebbe suppergi@u la
+forma del Purgatorio> (Porena); ma le somiglianze finiscono qui. 
+La teologia pi@u autorevole consigliava a Dante di collocare il
+Purgatorio sotterra; a ci@o lo spingeva anche l'^Eneide~ che,
+secondo la concezione pagana, pone sotterra tutto il mondo
+ultraterreno, dei rei e dei giusti; ma egli prefer@i sviluppare
+spunti fornitigli da varie tradizioni e leggende (D'Ovidio), e
+pose il secondo regno all'aria aperta; certamente per segnare
+anche paesisticamente la differenza, anzi l'opposizione, tra i
+due regni.  Immagin@o dunque un'isola, unico punto saldo
+nell'immensit@a dell'oceano disabitato che copre tutta la met@a
+meridionale, australe, della sfera terrestre; su quest'isola una
+montagna a forma di cono con la punta smussata, che finisce
+dunque in una pianura.  La montagna @e pi@u alta d'ogni altro monte
+terreno; tra la base di essa e il mare si ha tutt'intorno una
+spiaggia; il Purgatorio propriamente detto comincia solo a una
+certa altezza della montagna ed @e fuori dell'atmosfera terrestre. 
+La parte inferiore del monte e la spiaggia costituiscono
+l'Antipurgatorio, nel quale stanno in diversi gruppi coloro che
+si pentirono all'ultim'ora, o pi@u esattamente quelli che si
+pentirono quando non avevano pi@u la possibilit@a di continuare a
+peccare (^Pg~ XI 89-90, XXIII 79-84); e che pertanto debbono
+attendere un tempo pi@u o meno lungo prima di essere ammessi alla
+espiazione: invenzione dantesca senza precedenti.  Il Purgatorio
+vero e proprio @e poi diviso in sette gironi, specie di enormi
+gradini che ricingono la montagna in tutta la sua circonferenza. 
+In ciascuno di essi si espia uno dei sette vizi capitali, o
+peccati mortali, in ordine decrescente di gravit@a, dal basso
+verso l'alto.  Tali vizi sono suddivisi in tre zone: nella prima,
+comprendente tre peccati (superbia, invidia, ira), espiano coloro
+che amarono il male del prossimo (l'amore, che @e essenziale al
+creatore e ad ogni creatura ha in questi casi un ^malo obietto~);
+nella seconda e centrale si espia l'accidia, cio@e il peccato
+caratterizzato dall'insufficiente intensit@a dell'amore verso Dio
+(^poco di vigore~); nell'ultima, comprendente di nuovo tre gironi
+(si noti la simmetria), sono puniti gli avari e prodighi, i
+golosi e i lussuriosi: tutti posero il loro amore in beni terreni
+il che non sarebbe in s$e peccato, perch$e la vita si conserva
+appunto per mezzo di tale amore, ma li amarono oltre il giusto
+limite (^troppo... di vigore~).  Tutto ci@o sar@a ampiamente
+spiegato nel XVII canto.  Sulla pianura boscosa e amena che
+corona il monte ha sede il Paradiso terrestre: si ricordi che
+esso @e perfettamente antipode di Gerusalemme.  Comunemente si
+afferma che come l'Inferno ha dieci partizioni (vestibolo e 9
+cerchi) e il Paradiso dieci cieli, cos@i anche il Purgatorio
+sarebbe diviso in dieci zone: spiaggia, Antipurgatorio, sette
+gironi, Paradiso terrestre.  La cosa non @e da escludere; ma, fra
+l'altro, la distinzione tra spiaggia e Antipurgatorio pare in
+verit@a alquanto labile.  Il Purgatorio si distingue dall'Inferno
+anche per la sistemazione dei peccati: in luogo della capillare
+distinzione di essi che si ha nell'Inferno (^Intr.~ a ^If~ XI),
+si ha qui la semplice applicazione della dottrina della Chiesa;
+ci@o perch$e, ripetiamo, mentre i dannati scontano azioni o
+omissioni specifiche, delle quali, non essendosi pentiti, restano
+in eterno responsabili, le anime purganti le hanno invece col
+loro pentimento cancellate: quel che resta loro da espiare @e la
+generica propensione a un certo tipo di colpe.  Inoltre, come
+osserva il Porena, ogni dannato @e punito per la sua colpa pi@u
+grave; i penitenti invece espiano nei vari gironi tutte le loro
+impurit@a una dopo l'altra, anche se <praticamente Dante regoli le
+cose in modo da incontrare i vari spiriti nel girone dove si
+espia la loro colpa pi@u caratteristica>.  Ma le due prime
+cantiche si distinguono tra loro anche per altre e pi@u profonde
+ragioni.  Bisogna partire dalla considerazione che il secondo
+regno @e quello proprio di Dante: le anime dell'Inferno sono
+religiosamente troppo pi@u basse di lui, anche se alcune possano
+essere da lui umanamente apprezzate; le anime del Paradiso, anche
+le poche di amici, troppo pi@u alte: di quelle Dante deve essere
+giudice, dinnanzi a queste si pone naturalmente in atteggiamento
+reverente e subordinato, aspettandone non confessioni umane (se
+non per eccezione) ma carit@a e illuminazione intellettuale e
+morale.  Nel Purgatorio invece, come @e stato bene osservato, @e
+tra i suoi pari: qui sa di dover presto tornare per rimanervi a
+lungo; negli espianti Dante vede dunque s$e stesso peccatore e
+avviato a salvezza.  Si noti che, come bene osserv@o il Rajna,
+dopo il peccato originale la salvezza @e possibile solo sul piano
+individuale.  Quindi essa @e una conquista personale, e la
+speranza @e intrisa del senso della fatica che attende, insomma
+del ricordo del peccato.  La riconquista dell'umano caratterizza
+appunto il Purgatorio, a cominciare dall'essenziale recupero del
+tempo, annullato nell'eternit@a degli altri due regni; e infatti,
+concretamente, la ferma tenebra infernale e la fissit@a della luce
+paradisiaca, sia pure sempre crescente, son sostituite da
+un'assidua vicenda di prealbe, albe, tramonti, notti.  Non fissi
+in un'eternit@a, che pu@o essere teorizzata ma non pu@o essere
+veramente concepita dall'uomo terreno, gli espianti son librati,
+per cos@i dire, tra il ricordo delle colpe passate che li rimorde
+e la certezza della salvezza: son dunque visti nel tempo: godono
+di ci@o che v'@e di pi@u umano, la speranza, alla quale non
+partecipano i dannati, e neppure per opposta ragione i beati.  Da
+ci@o la minore `drammaticit@a', da tutti osservata, degli espianti:
+le loro passioni non sono viste nella loro virulenza, i loro
+affetti sono sfumati; frequenti gli smemoramenti, i
+trasognamenti, le visioni estatiche, i veri e propri sogni;
+all'abbandonarsi alla dolcezza del canto di Casella all'inizio
+della cantica (^Pg~ II 112 ss.) fa riscontro, all'altro estremo
+della cantica stessa, Dante che oblia s$e stesso nell'incanto
+dell'ora, dell'ombra, del concerto di fronde e uccelli (XXVIII 1
+ss.): trasognamenti e abbandoni inconcepibili nella tensione
+spirituale che caratterizza l'^Inferno.~  Il poeta recupera anche
+il paesaggio terrestre: ha lasciato dietro a s$e la ferrigna
+geometria dell'Inferno, sa che lo aspetta l'impegno a dipingere
+il paesaggio ultraumano del Paradiso.  Insieme col paesaggio
+recupera il suo proprio passato, un s$e stesso partecipe d'una
+vita giovanile, anche traviante, ma insieme ricca di propositi e
+ferma per certezze: ricordi frequenti di battaglie letterarie, di
+amici, di persone in mezzo alle quali era vissuto in un tempo che
+la nostalgia fa dolce, sino al supremo incontro, sulla cima della
+montagna, con Beatrice.  Insomma, un costante non aspro rimpianto
+di Firenze e di giovent@u: tutto ci@o, per cos@i dire, costituisce
+l'ossatura fantastico-morale-affettiva della cantica. 
+L'atteggiamento di Dante pellegrino rispetto a questi suoi uguali
+e compartecipi di sorte, non pu@o essere cos@i vario (comprensione,
+sdegno, piet@a, violenza), come era stato quello rispetto ai
+dannati; @e necessariamente unitonale: di fronte ad anime
+sofferenti ma salve, non ci pu@o essere che dolore e reverenza. 
+Le anime che sono state perdonate da Dio hanno a loro volta
+perdonato le offese ricevute; Dante personaggio e poeta del
+^Purgatorio~ partecipa della loro mansuetudine.  I <personaggi>
+diminuiscono anche di numero nella nuova cantica: quelli a cui
+nell'^Inferno~ @e dedicato un episodio o che comunque hanno un
+certo rilievo, esclusi cio@e i semplicemente nominati o i
+designati con un sol tratto anche se efficace (del tipo, per
+intenderci, del ^Cesare armato con li occhi grifagni~, ^If~ IV
+123), sono pi@u d'una quarantina; nel ^Purgatorio~ non raggiungono
+la trentina (saranno appena una quindicina nel ^Paradiso~).  Il
+poeta non @e sentimentalmente e religiosamente impegnato nella
+considerazione delle loro colpe, di cui talvolta addirittura non
+si parla (tipici Casella, canto II; Sordello, canto VI; ecc.): e
+si desumono genericamente dalla collocazione delle anime in una
+determinata posizione.  Talvolta la colpa @e rappresentata con
+sorridente indulgenza (Belacqua, canto IV); di uno (Stazio, canti
+XXI-XXII) la natura del peccato @e presentata addirittura come
+incerta nella coscienza del pellegrino; la vita peccaminosa d'un
+altro (Forese, canti XXIII-XXIV), salvo che per la specifica
+colpa della gola, @e presentata come propria anche a Dante stesso,
+a conferma di quel che dicevamo circa il sentirsi Dante `pari'
+tra gli espianti (^Se tu riduci a mente / qual fosti meco, e qual
+io teco fui...~, XXIII 115-116).  Nessuno, leggendo i relativi
+episodi, @e tratto a soffermarsi sulla golosit@a di Bonagiunta
+(canto XXIV) o sulla lussuria di Guinizzelli o di Arnaldo
+Daniello (canto XXVI), dal momento che tutta la luce @e
+concentrata sulla rievocazione dei fatti letterari che quei
+personaggi son chiamati a variamente testimoniare.  Qualche altra
+volta i peccatori son visti non come tali, ma al contrario come
+vittime (Iacopo del Cassero, Pia senese: canto V).  Che il poeta
+non insista sulle colpe @e ben naturale: esse, se specifiche, sono
+agli occhi di Dio lavate dal pentimento; anche le propensioni
+generiche son gi@a perdonate salva la necessit@a dell'espiazione:
+allo stesso modo esse non fanno presa nella fantasia e nella
+coscienza di Dante.  La stessa durezza materiale delle pene, che,
+secondando del resto la fantasia popolare, i predicatori del
+tempo accentuavano energicamente a scopo edificatorio (Porena), @e
+invece in Dante pi@u dato teologico che propriamente fantastico; e
+comunque @e superata, per intensit@a di dolore, dal rimorso, e
+mitigata, nella costante rappresentazione dantesca, dalla
+certezza del perdono e dal pieno consenso degli espianti alla
+volont@a divina.  Insomma, lo stato d'animo di Dante scrittore del
+^Purgatorio~ appare assai diverso da quello dello scrittore
+dell'^Inferno.~  Ci@o ha radici storiche e biografiche?  Non
+possiamo asserirlo, data la grande incertezza in cui versiamo
+circa l'esatta cronologia della composizione della ^Commedia~ e
+delle sue parti; e soprattutto circa i modi della composizione
+stessa, i risultati specifici e persino la portata generale del
+ritornare di Dante sul gi@a scritto: ritorno che @e solo
+necessariamente presumibile, ma non precisabile.  Secondo una
+fondata ipotesi del Petrocchi, il ^Purgatorio~ sarebbe stato
+composto in Casentino: ci@o spiegherebbe l'insistenza sui motivi
+toscani.  Pi@u in generale, c'@e invero una fase della vita di
+Dante in cui lo stato d'animo di lui, quale ci risulta da varie
+testimonianze, sue e di altri, sembrerebbe consonare con il tono
+generale del ^Purgatorio.~  Dante esiliato sper@o dapprima di
+poter tornare in patria con la forza delle armi, insieme con gli
+altri fuorusciti; ma quando le azioni belliche fallirono, e la
+compagnia con la quale si era trovato a precipitare nella miseria
+dell'esilio si fu palesata ^malvagia e scempia~ (^Pd~ XVII 61-69)
+egli rinunzi@o alla diretta politica attiva.  La speranza di
+rientro punt@o altrove; cerc@o, dice Leonardo Bruni, documentato
+biografo, <con buone opere e con buoni portamenti riconquistar la
+grazia di poter tornare in Firenze per ispontanea revocazione di
+chi reggeva la terra...>.  Pi@u o meno in questo periodo, intorno
+al 1304, Dante concep@i il proposito di attendere a opere
+estremamente dotte, in volgare e in latino, il ^Convivio~ e il
+^De vulgari eloquentia~: pensava che le rime d'amore con le quali
+aveva esordito non avessero dato ai Fiorentini la misura del suo
+valore soprattutto nel campo morale, e sperava che la nuova
+attivit@a li convincesse della perdita che la citt@a aveva fatto
+esiliandolo, e gli riaprisse pertanto le porte della patria senza
+che egli fosse obbligato a rinnegare se stesso.  Anche prima
+dell'esilio aveva composto rime allegoriche e dottrinali (si badi
+per@o che la cronologia delle singole rime @e questione che si pu@o
+sperare di avviare a soluzione solo attraverso sistematiche
+indagini stilistiche e metriche, sin qui non compiute): sta di
+fatto che in questi anni, probabilmente con lo stesso intento,
+Dante si pone categoricamente (^VE~ II ii 9) come poeta della
+<rettitudine>, cio@e morale, e registra esplicitamente pi@u volte
+il suo mutamento d'indirizzo poetico (cfr. solo ^Le dolci rime~,
+^Cv~ IV).  Interrompe presto le due grandi opere in prosa, e
+anche la sua attivit@a lirica non va oltre, a quel che sappiamo,
+al 1307-1308, e travalica questa data con una canzone, ^Amor, da
+che convien~, sotto ogni aspetto frutto tardivo e isolato: forse
+si convinse che a dar prova del suo alto valore meglio giovasse
+un'opera grandiosa, non mai prima tentata da alcuno, insieme di
+dottrina e di poesia, la ^Commedia.~  Dante ci parla di questa
+sua speranza ancora verso la fine del ^Paradiso~: ^Se mai
+continga che 'l poema sacro /... vinca la crudelt@a che fuor mi
+serra / del bello ovile...~ (^Pd~ XXV 1 ss.): parole che
+richiamano con precisione altre della sua ora citata ultima
+canzone: <... Fiorenza, la mia terra, / che fuor di s$e mi serra>
+(^Rime~ CXVI 77-78), e pi@u innanzi si parla della <crudeltate>
+della citt@a.  D'altra parte, la testimonianza del Bruni trova
+conferma in una famosa pagina proprio del principio del ^Conv.~:
+<Poi che fu piacere de li cittadini de la bellissima e
+famosissima figlia di Roma, Fiorenza, di gittarmi fuori del suo
+dolce seno, nel quale nato e nutrito fui in fino al colmo de la
+vita mia, e nel quale, con buona pace di quella [si ricordi il
+`per ispontanea revocazione' del Bruni], desidero con tutto lo
+cuore di riposare l'animo stancato e terminare lo tempo che m'@e
+dato,...> (^Cv~ I iii 4).  @E una pagina nel tono che poi sar@a
+prevalente nel ^Purgatorio~ (si dice `prevalente', non esclusivo:
+non mancano infatti nella seconda cantica impennate e sciabolate,
+come nella prima non sono assenti toni di pacata mestizia): ma @e
+una pagina che @e antecedente allo stesso ^Inferno.~  Tutto ci@o ci
+deve rendere assai cauti nell'attribuire, com'@e stato anche
+autorevolmente fatto, il mutato clima poetico del ^Purgatorio~ a
+una mutazione di clima politico, e in particolare alle speranze
+suscitate in Dante dalla spedizione di Enrico VII in Italia. 
+Certo, la composizione della cantica coincide ^grosso modo~ con
+l'ideazione, la preparazione e l'effettuazione di questa; ma
+basta paragonare il ^Purgatorio~ con gli scritti ispirati
+direttamente da Enrico, soprattutto le tre grandi epistole
+politiche (V, VI, VII), per scorgere subito il divario tra le due
+scritture, anche l@a dove il ^Purgatorio~ si fa aspro per
+invettive e per ferme prese di posizione politica.  Il divario
+non si attenua anche a tener conto dell'assai diversa natura
+letteraria del ^Purgatorio~ da una parte e delle epistole
+dall'altra, dell'urgenza pratica di queste ultime in confronto al
+distacco, che supera ogni contingenza, anche quando di essa si
+nutre, che @e proprio di ogni opera di poesia, e quindi anche del
+^Purgatorio.~  Resta che l'ardente speranza e l'ansioso sdegno
+delle epistole non hanno riscontro nella mite malinconia, nella
+dolcezza dei ricordi del ^Purgatorio~; in questo vige, s@i, la
+speranza, ma fondata sulla provvidenzialit@a di Dio; non @e gi@a
+speranza d'immediati rivolgimenti e di soluzioni politicamente
+configurabili con precisione.  Nella seconda cantica vige (si
+parla sempre del suo complesso) un'aura che sarebbe erroneo,
+trattandosi di Dante, chiamare di rassegnazione; ma certo Dante,
+l'animo sempre armato, sembra aver rinunciato al combattimento
+attivo: come gli spiriti del Purgatorio, egli @e certo della
+finale giustizia di Dio.  Del resto, la speranza piena, concreta
+nella soluzione imperiale non pot$e essere che d'un breve periodo,
+tra la fine del 1310 e i primi mesi del 1311, all'epoca dei primi
+illuminati e pacificatori provvedimenti imperiali e del consenso
+papale, il momento appunto delle tre epistole.  Ma gi@a il periodo
+seguente, dalla seconda met@a dello stesso 1311, se anche la
+speranza ancora non muore, @e intessuto di ansie e di delusioni,
+per i voltafaccia di tante citt@a e del papa, per la battaglia
+aperta di Firenze e di altre citt@a: sino al fallimento finale
+dell'impresa, con la morte di Enrico (1313).  Certo, non @e da
+escludere che durante la composizione del ^Purgatorio~, o in
+alcuni momenti di essa, abbia agito la speranza in Enrico al suo
+primo albore e nel suo vigore, quindi nel suo precipite o lento
+(non sappiamo) declinare, col dolore che dov$e subentrare ai primi
+sdegni per la cecit@a di tanti e specie dei Fiorentini, che non
+volevano vedere il loro bene: dolore, questo s@i, consonante con
+alcune pagine della cantica.  Ma pi@u ag@i su questa, a mio parere,
+il tempo che andava via via lenendo, senza guarirla, la ferita
+inferta dallo strappo dell'ingiusta condanna.  Ma anche ci@o non
+pot$e agire, appunto, da un momento all'altro, dal XXXIV
+dell'^Inferno~ al I del ^Purgatorio~, nel quale il clima poetico
+@e rispetto alla cantica precedente gi@a mutato; giova pertanto
+pensare che sullo stato d'animo generale ora sommariamente
+indicato s'innestava, e in modo determinante, la materia stessa
+della cantica: l'immaginare di trovarsi, come abbiamo detto, tra
+uguali e amici (rapporti di affetti e di confidenza instaurati al
+disopra dei secoli sono anche quelli tra Sordello e Virgilio,
+canto VI, e tra questo e Stazio, canto XXI); e soprattutto il
+fatto che Dante era portato dalla nuova materia, sin dal
+principio, a sentirsi ormai libero, pur senza venir meno al suo
+dovere di ammaestrare gli uomini, dall'ufficio alto e necessario
+ma doloroso di giudice e di punitore.  Non si giudica coloro
+nella cui umanit@a ci si riconosce, senza sentirsi in qualche modo
+solidali con essi.
+
+	|1-30 {Nota Bosco}.~  Gi@a nel primo canto si ha quel
+recupero del paesaggio terrestre di cui abbiamo detto; ma bisogna
+intendersi subito: il suo paesaggio @e ben altra cosa di quello
+che apparirebbe a un ipotetico gitante, o a un ozioso
+descrittore.  @E anzitutto da rilevare la certamente voluta
+contrapposizione di questo I canto del ^Purgatorio~ al I
+dell'^Inferno.~  Anche in quest'ultimo, una notte passata ^con
+tanta pieta~, cui succede un'alba che riconforta: il poeta
+smarrito vede la cima del colle illuminata dal sole: ^Allor fu la
+paura un poco queta~; di fronte al primo ostacolo, la lonza,
+Dante @e, s@i, ripetutamente tentato d'interrompere il cammino
+verso la salvezza, ma ancora una volta @e indotto a ^bene sperare~
+dal sole ormai alto e dalla ^dolce stagione~ di primavera.  Ma
+come non mettere in luce, accanto ai valori religiosi, anche
+quelli paesistico-psicologici?  Intanto, c'@e da tener presente la
+necessit@a, che il poeta non poteva disattendere, della coerenza
+del racconto.  Analogamente, nel I canto del ^Purgatorio~, dopo
+l'orrida tenebra infernale, la prima visione nel nuovo regno @e
+d'un dolce colore azzurro che riempie di s$e, sino al giro
+dell'orizzonte, la vastit@a ancora notturna: tutta l'aria (il
+|mezzo~) @e impregnata di azzurro: in una sola terzina (13-15) il
+poeta insiste per tre volte sul senso di pace che emanava da
+quella visione: |Dolce color~, |sereno aspetto~, |mezzo puro.~ 
+(Anche in ^If~ I 43 la ^dolce stagione~ induce a, sia pur vano,
+sperare).  Poi, il cielo stellato, preannunciato alla fine di
+^If~ XXXIV: il poeta fissa le stelle a una a una: ricomincia quel
+|diletto~ di contemplare il cielo, da cui nascono tante pagine
+dantesche.  A oriente, con la sua scorta di stelle, Venere, |lo
+bel pianeto che d'amar conforta~ {19} (primo annuncio del tema
+principe della cantica, l'amore sia nelle varie situazioni e
+scavi psicologici, sia nella teorizzazione: all'amore, spiegher@a
+il poeta nel canto XVII, risale tutto il bene e anche tutto il
+male del mondo); a occidente, quattro stelle lucentissime non mai
+viste da alcuno perch$e visibili solo dal disabitato emisfero
+australe.  Il contemplatore del cielo cerca le stelle note,
+quelle dell'Orsa Maggiore, ma non le trova, e ci@o d@a a lui e al
+lettore il senso di essere in un mondo che @e ancora terreno e
+insieme di l@a da ogni esperienza comune.  Il poeta insiste nella
+distensiva gioia della visione: Venere fa |rider~, vivifica
+l'oriente, il cielo pare |goder~ della luce delle quattro stelle. 
+Dante personaggio ha molto sofferto nel solcare il |mar...
+crudele~ {3} dell'Inferno, che gli ha contristato gli occhi e il
+petto; ne ha ancora le guance lagrimose: e dunque il poeta non
+poteva fare a meno di rappresentarsi riconsolato, immerso nella
+beatitudine della liberazione.  Questo stato d'animo del
+personaggio, come del resto sempre nell'alta poesia paesistica,
+si riflette nel paesaggio e lo informa di s$e: quella notte
+azzurra, quel cielo e quel mare son veduti e goduti da uno che @e
+uscito dalla visione d'indicibili dolori.  Il lettore deve
+mettersi necessariamente anche da questo punto di vista.  Ma su
+questa situazione psicologica di s$e stesso personaggio, che il
+poeta vuole descriverci, s'innesta la situazione del poeta come
+scrittore, nello stato d'animo che abbiam tentato di definire;
+suscitata forse, come s'@e visto, da circostanze obiettive di
+vita, ma soprattutto dal contatto con la nuova materia che ha
+dinanzi a s$e.
+
+	|1-6.  Per... degno~: a differenza dell'^Inferno~, dove
+la materia pi@u umile non lo richiedeva (non c'@e che una terzina
+nel II canto, vv. 7-9, in cui si invocano le Muse e l'^alto
+ingegno~), il ^Purgatorio~, per la pi@u elevata materia, per
+l'argomento pi@u solenne, si apre con un ampio proemio, di cui,
+secondo la tradizione dei poemi classici, i primi sei versi sono
+l'argomento della cantica e i sei seguenti l'invocazione alle
+Muse.  Ci@o che si pu@o notare subito, fin dal primo verso, @e il
+ritmo nuovo, quasi ansia di liberazione, preannunciato del resto
+dall'ultimo verso dell'^Inferno~: ^e quindi uscimmo a riveder le
+stelle~, in cui gi@a compare questo nuovo respiro poetico.  Vedi
+^Introduzione.~
+
+	|1-2.  miglior acque~: in contrasto con il ^mar s@i
+crudele~ del v. 3, significa la materia del ^Purgatorio~ in
+confronto di quella dell'^Inferno.~  |La navicella~: metafora
+tradizionale per indicare l'ingegno del poeta, o la poesia
+stessa.
+
+	|4.  secondo regno~: il Purgatorio, secondo regno
+rispetto al primo, l'Inferno.  Per la sua struttura vedi
+^Introduzione.~
+
+	|7-8.  la morta poes@i~: la poesia dei morti
+spiritualmente, cio@e quella che ha cantato la materia
+dell^'Inferno~, il regno della <morta gente>.  La forma |poes@i~
+era nell'antico italiano usata anche in prosa.  |Resurga~: <si
+innalzi>, perch$e la materia pi@u elevata esige un tono pi@u alto. 
+|Vostro sono~: i poeti sono i sacerdoti delle Muse e appartengono
+quindi a loro.  Il Momigliano a proposito di questo verso parla,
+non a torto, di <accento religioso>.  Cfr. ^Pg~ XXIX 37-38.
+
+	|9.  Caliop@e~: la musa della poesia epica, invocata dal
+poeta certo sul ricordo virgiliano (^Aen.~ IX 520).  Dai lessici
+medievali Dante poteva anche conoscere il valore del suo nome:
+<dalla bella voce>.  Qualcuno ha pensato anche ad un suggerimento
+ovidiano: <Surgit... Calliope> (^Met.~ V 338-339), ma sembra pi@u
+probabile che Dante abbia seguito l'esempio di Virgilio. 
+|Alquanto~: pi@u dello stile dell'^Inferno~, ma non ancora come
+quello del ^Paradiso.~  Chiosa infatti il Buti: <dice |alquanto~
+perch$e nella terza [cantica] al tutto si lever@a>.
+
+	|10-12.  seguitando~: seguendo, accompagnando.  |Di
+cui... perdono~: di cui le Piche sentirono un colpo tale che
+disperarono del perdono.  Si allude al mito, che Dante leggeva in
+Ovidio (^Met.~ V 302 ss.), delle figlie di Pierio, re di
+Tessaglia, che ardirono sfidare nel canto le Muse.  Calliope le
+vinse e poi, per punizione della loro protervia, le trasform@o in
+gazze (|piche~).  Si noti come Dante colga dell'episodio il
+nucleo centrale, quasi, diremmo, l'aspetto psicologico: le Piche
+hanno la sensazione precisa che alla vittoria delle Muse segua
+una condanna per loro.  In Ovidio invece esse restano nella loro
+superba e sprezzante protervia fino alla fine: per questo forse
+il Buti, per far collimare il testo di Dante con quello della
+fonte ovidiana, proponeva, accanto alla lezione vulgata, di
+leggere ^dispettar perdono~, cio@e <ebbero in dispetto che fusse
+loro perdonato>.  |Perdono~ pu@o anche intendersi nel senso di
+<scampo>, <riparo>.  Si noti il verbo ^disperare~ usato
+transitivamente.
+
+	|13-18.  Dolce... 'l petto~: @e la prima nota di
+paesaggio che caratterizza cosi notevolmente il ^Purgatorio~ e in
+particolare questo canto.  Ma si ricordi che il paesaggio del
+^Purgatorio~, di cui la critica ha spesso parlato, non cade mai
+nel pittoresco e nello scenografico: anche il Momigliano, che
+pure al paesaggio della ^Commedia~ dedic@o un saggio famoso,
+accenna sempre ad uno sfondo spirituale.  Si vuol dire cio@e che
+l'atmosfera della seconda cantica @e quella della progressiva
+liberazione dell'anima dal peccato, della sua ansiosa ascesa
+verso il cielo, e perci@o anche le delicate sfumature di questo
+paesaggio si inseriscono perfettamente nella condizione
+spirituale del ^Purgatorio~: <Nell'oscurit@a della notte il luogo
+dove Dante @e arrivato @e appena visibile, solo pi@u tardi egli
+si accorger@a di essere sulla riva del mare> (Rossi).
+
+	|13-15.  or,iental zaffiro~: pietra preziosa di colore
+azzurro.  La dieresi contribuisce all'effetto musicale della
+terzina.  |S'accoglieva~: si adunava, si concentrava
+diffondendosi.  |Mezzo~: l'aria, l'atmosfera: @e termine
+scientifico per indicare l'elemento interposto tra il soggetto
+percipiente e l'oggetto percepito, per lo pi@u riferito al
+fenomeno della visione.  |Primo giro~: l'orizzonte, che @e il
+primo fra i cerchi della sfera <siccome quello che solo @e
+parvente e che serve alla denominazione di tutti gli altri>
+(Antonelli).  Non pu@o essere il Cielo della Luna, come intesero
+alcuni fra gli antichi e moderni commentatori, perch$e l'atmosfera
+non arriva fin l@i, essendoci di mezzo la zona del fuoco.  A
+maggior ragione quindi non possono essere gli altri cieli. 
+Benvenuto da Imola pensa appunto alla sfera del fuoco; ma anche
+questa interpretazione @e da scartare perch$e non si pu@o affermare
+sereno l'aspetto del mezzo l@a dove la vista non giunge.
+
+	|16-18.  ricominci@o diletto~: da quando era entrato
+nell'Inferno Dante non aveva pi@u provato la gioia (|diletto~) e
+il godimento di contemplare il cielo stellato.  |De l'aura
+morta~: quella dell'Inferno.  |Li occhi e 'l petto~: sta ad
+indicare qui la sofferenza fisica e spirituale del viaggio
+infernale (|petto~ = animo).
+
+	|19.  Lo bel... conforta~: Venere, che influisce sulla
+terra nell'inclinazione all'amore.  Si noti la reggenza di
+^confortare~ con il genitivo (^di~) invece che con il dativo
+(^a~), di cui abbiamo altri esempi (Cavalca, Sacchetti, ecc.) e
+il significato di <sollecitare, causare> che ritroviamo anche in
+^Rime~ C 7 (detto di Saturno): <quel pianeta che conforta il
+gelo>.  Nella stessa canzone (v. 4) Venere @e detta <stella
+d'amore>.  |Pianeto~ @e forma arcaica per pianeta.
+
+	|20-21.  rider l'or,iente~: alla bella immagine (|ridere~
+vale qui <rifulgere, illuminare>) si aggiunge l'effetto musicale
+della dieresi.  |Velando... scorta~: coprendo con la sua luce la
+costellazione dei Pesci, che erano sotto la sua guida (|scorta~),
+cio@e che si trovavano in congiunzione con lei.  Poich$e siamo due
+ore circa prima del levar del sole (che @e nella costellazione
+dell'Ariete) sull'orizzonte del Purgatorio appare la
+costellazione dei Pesci, ed essendo Venere lucente al mattino e
+congiunta con questa costellazione, la offusca.  Secondo calcoli
+astronomici in realt@a nella primavera del 1300 Venere era
+vespertina e non mattutina, ma l'imprecisione scientifica ci
+dimostra non che la visione @e immaginata nel 1301 (come ha
+sostenuto qualcuno), ma che Dante immagina concomitanze ideali. 
+Inoltre la notizia astronomica serve solo a dare un'indicazione
+di tempo che d@a al lettore l'impressione di un rendiconto d'un
+vero e proprio viaggio scandito nel tempo e nello spazio.
+
+	|23-24.  a l'altro polo~: l'emisfero antartico: il
+Purgatorio @e agli antipodi di Gerusalemme, quindi nell'altro
+emisfero.  |Quattro stelle~: secondo l'opinione della maggior
+parte dei commentatori antichi e moderni le quattro stelle
+significano le quattro virt@u cardinali (Prudenza, Giustizia,
+Fortezza e Temperanza), come le tre stelle che Dante ammirer@a
+verso l'ora del tramonto nella valletta dei Principi (^Pg~ VIII
+89-93) simboleggiano le tre virt@u teologali (Fede, Speranza e
+Carit@a).  Inattendibile appare l'opinione di alcuni commentatori
+moderni che ritennero trattarsi della cosiddetta `Croce del Sud',
+quattro stelle luminose fra la costellazione del Centauro e
+quella del Camaleonte, cos@i vicine al Polo Antartico da non
+essere visibili nell'emisfero nostro.  Se anche fosse vero che di
+tali stelle Dante poteva avere notizie da qualche opera
+astronomica medievale o dal racconto di qualche viaggiatore, il
+v. 24 indica chiaramente che il poeta pensava a stelle
+sconosciute, qui poste con il solo significato simbolico.  Resta
+il fatto che le intenzioni simboliche di cui il canto @e ricco,
+sono rappresentate con tanta lievit@a che allegorie e simboli
+spariscono per lasciar vivo il senso poetico di queste
+raffigurazioni di paesaggio e di cielo.  |A la prima gente~:
+Adamo ed Eva.  Se Dante <avesse ricevuto notizie della Croce del
+Sud... come avrebbe potuto dire che quelle stelle erano state
+viste soltanto dalla prima gente?> (Porena).
+
+	|26-27.  oh... quelle~!: questa <parentesi deplorativa>
+dichiara meglio, osserva il Sapegno, <l'intenzione allegorica
+delle quattro stelle>.  |Vedovo~: deserto, spoglio.  Il termine @e
+biblico e bene consuona in questo clima di trepida religiosit@a,
+in questa atmosfera simbolica e liturgica, che caratterizza il
+primo canto.
+
+	|28-30.  da loro sguardo~: <dal guardarle, dal guardar
+loro>.  Si noti il valore oggettivo di |loro~, in dipendenza di
+un sostantivo, che viene quindi ad avere valore di azione.  |Fui
+partito~: <mi fui distolto>: @e omessa la particella pronominale
+riflessiva.  |A l'altro polo~: il polo artico.  |L@a... sparito~:
+l@a dove gi@a era sparita, scesa sotto l'orizzonte, l'Orsa Maggiore
+(|'l Carro~).
+
+	|31-51 {Nota Bosco}.~  A questo punto l'apparizione di
+Catone, il colloquio di Virgilio con lui.  Improvvisamente, sullo
+sfondo del cielo stellato si staglia (Fubini), vicina, come
+scaturita dal nulla, una figura venerabile di vecchio, isolata e
+statuaria.  Sapremo poi che @e Catone Uticense, il grande
+avversario di Cesare: ispira reverenza come un padre.  Una lunga
+barba grigia, due liste di capelli parimenti lunghi e grigi gli
+scendono sul petto: son segno del suo dolore di cittadino e di
+uomo, giacch$e allo scoppio della guerra civile, egli, come Dante
+aveva appreso da Lucano, lasci@o intonsi capelli e barba in segno
+di lutto.  Virgilio si affretta a fare inginocchiare il
+discepolo, a fargli chinare la testa: moltiplica ansioso gli
+inviti (|e con parole e con mani e con cenni~, 50); il discepolo
+rimarr@a inginocchiato e silenzioso per la non breve durata del
+colloquio, che seguir@a, tra Virgilio e il gran vecchio.  Le
+quattro stelle, che per@o qui, con immediato trasferimento
+simbolico, son dette |luci sante~ {37}, lo illuminano come se
+fossero il sole; non propriamente tutta la persona, ma la
+|faccia~ di lui.  Si noti il mistero che emana dalla subitaneit@a
+dell'apparizione, sottolineato dall'effetto luministico;
+altrettanto subitamente e misteriosamente Catone scomparir@a,
+appena finito di parlare (^Cos@i spar@i~, 109), e riapparir@a (^ed
+ecco il veglio onesto / gridando~, ^Pg~ II 119-120) e scomparir@a
+ancora, senza che neppure il poeta ci dica che @e scomparso.  Si
+consideri la maest@a del portamento, la perfetta fusione, anche
+qui, dell'elemento realistico col simbolico; la naturalezza, anzi
+la necessit@a, con cui le quattro stelle, restando tali, si
+palesano per qualche altra cosa pi@u augusta ancora; e infatti
+esse simboleggiano le quattro virt@u cardinali infuse, non
+acquisite (Proto), nel senso che esse solo prima del peccato
+originale potevano essere seguite con quella spontaneit@a, cio@e
+con quell'innocenza di cui sar@a incarnazione nel Paradiso
+terrestre Matelda (^37-42 {Nota Bosco}~ a ^Pg~ XXVIII).  @E questa
+la principale delle molte rispondenze e complementarit@a tra
+questo canto e quelli del Paradiso terrestre.  Le quattro virt@u,
+pur essendo puramente naturali, illuminano l'uomo di tal luce,
+che egli sembra essere illuminato dal sole, cio@e, col consueto
+simbolo, da Dio.  Catone ha raggiunto il massimo della perfezione
+morale raggiungibile senza la rivelazione.  La figura @e stata
+giustamente avvicinata da una parte a quella di Farinata
+(subitaneit@a dell'apparizione, tuttavia nel caso di Farinata non
+misteriosa; statuariet@a; gravit@a solenne: ^If~ X), dall'altra
+all'immagine tradizionale dei patriarchi biblici e a quella
+dantesca di San Bernardo (^Pd~ XXXI 58 ss.).  L'atteggiamento di
+Virgilio verso Dante all'apparizione di Catone @e simile a quello
+che egli assume dinnanzi al Messo inviato da Dio in aiuto (^If~
+IX 86-87: ^f$e segno / ch'i' stessi queto ed inchinassi ad esso~),
+o dinnanzi all'angelo nocchiero: ^grid@o: Fa, fa che le ginocchia
+cali. / Ecco l'angel di Dio: piega le mani~ (^Pg~ II 28-29). 
+Vicinanze, queste, assai diverse tra loro: rispecchiante la
+prima, quella con Farinata, reverenza verso virt@u umane, e le
+altre palesanti l'essenza religiosa del nuovo personaggio. 
+Prendiamo per@o nota di queste vicinanze che non sono davvero
+fortuite.  Sapremo poi (vv. 48, 66, 82) che Catone @e custode del
+Purgatorio o reggitore delle anime (Fubini).  In questa qualit@a
+egli si stupisce, e sembra sdegnarsi, che due esseri siano potuti
+uscire dall'Inferno, violando la legge eterna.
+
+	|31.  un veglio solo~: @e M. Porcio Catone l'Uticense,
+nato nel 95 a. C, e uccisosi ad Utica nel 46 a. C.  Fin da
+giovinetto aspir@o a liberare Roma dalla tirannide di Silla; poi,
+dopo aver combattuto onorevolmente nella guerra di Macedonia,
+fatto tribuno, fu acerrimo avversario di Catilina e pi@u tardi
+avvers@o il triumvirato.  Segu@i Pompeo, che gli parve il solo
+capace di salvaguardare la libert@a repubblicana, e si uccise a
+Utica, dopo il trionfo di Cesare, non tanto per non cadere nelle
+mani del vincitore, quanto per non sopravvivere alla caduta della
+Repubblica da lui difesa strenuamente e con tanto ardore per
+tutta la vita.  Molte dispute ci furono tra i critici sui motivi
+per cui Dante salva (vedi v. 75) e pone custode del Purgatorio un
+pagano, per di pi@u suicida: vedi ^Conclusione.~  Il provenzalismo
+|veglio~ (da ^velh~) e l'aggettivo |solo~ servono ad isolare e a
+dare rilievo alla figura di Catone, come poi in particolare
+faranno i versi seguenti, e specialmente la terzina 34-36. 
+Catone mor@i a 48-49 anni, ma l'immagine data di lui da Dante
+vuole essere di figura ideale, degna di riverenza e piena di
+gravit@a solenne (ricavata d'altronde da Lucano); disse perci@o il
+Raimondi, che nella figura dell'Uticense Dante <salda insieme i
+tratti dell'eroe romano a quelli pi@u remoti del patriarca
+biblico>.
+
+	|32-33.  in vista~: alla vista, all'aspetto.  |Che pi@u...
+figliuolo~: l'immagine della riverenza dovuta al padre dal figlio
+si trova anche in ^Mn~ III iii 18 e III xv 18.
+
+	|34-36.  Lunga... lista~: la descrizione @e ricavata da
+Lucano, ^Phars.~ II 373-374, dove si dice che dall'inizio della
+guerra civile Catone non si tagli@o pi@u n$e barba n$e capelli.  Ma
+la descrizione di Dante (si notino l'agg. |lunga~ all'inizio di
+verso, l'^enjambement~, l'inversione del verbo e la sua
+collocazione in posizione enfatica, la |doppia lista~ dei capelli
+che cadendo dalle spalle sul petto in due bande incorniciano il
+viso) d@a un'impressione di solennit@a e di grandezza reverenziale.
+
+	|37-39.  le quattro luci sante~: le quattro stelle che
+Dante aveva contemplato luminose nel cielo.  |Fregiavan~:
+ornavano.  |Lume~: luce.  |Ch'i'... davante~: lo vedevo come se
+il sole fosse davanti a lui e lo illuminasse.  La luce delle
+quattro stelle che illuminano il volto di Catone non pu@o che
+avere significato allegorico e indicher@a che le quattro virt@u, di
+cui le quattro stelle sono simbolo, splendettero cos@i luminose in
+Catone, <che quasi gli parve illuminato dal vero Dio, di cui il
+sole pu@o esser simbolo> (D'Ovidio).
+
+	|40-41.  contro al cieco fiume~: risalendo in senso
+contrario quel fiumicello, di cui il poeta ha fatto parola
+nell'ultimo canto dell'^Inferno~, che scorre lungo quel ^cammino
+ascoso~, che unisce il centro della terra, ove sta confitto
+Lucifero, con l'isoletta del ^Purgatorio~ (cfr. ^If~ XXXIV
+127-132).  Il fiume @e detto |cieco~ perch$e nascosto sotto terra,
+nelle tenebre, e perch$e infernale.  |La pregione etterna~:
+l'Inferno.
+
+	|42.  oneste piume~: la barba veneranda.  Nota il
+contrasto con Caronte: ^lanose gote~ (^If~ III 97).  A proposito
+di questa barba che si muove, accompagnando le severe parole di
+Catone, disse il D'Ovidio che: <esprime un gesto e palesa uno
+stato d'animo particolare>: toglie cos@i al verso il carattere di
+pleonasmo.
+
+	|43-45.  o che~: contro la variante ^o chi~, osserva il
+Petrocchi (III 7): <Catone ha gi@a chiesto ^chi~ poteva averli
+guidati, e ora domanda |che~ `fece loro lume', quale superiore
+consenso li ha aiutati ad uscir fuori |de la profonda notte~>. 
+|La valle inferna~: la voragine infernale.  ^Inferno~ @e
+propriamente un aggettivo che vale <inferiore, che sta sotto>, e
+diventer@a poi sostantivo (l'^Inferno~) per indicare il luogo
+della pena eterna (cfr. lat. ^inferi~).
+
+	|46-48.  leggi d'abisso~: le leggi infernali, che vietano
+che un dannato possa uscire dal luogo della sua pena.  |O @e...
+consiglio~: o @e stata fatta in cielo una nuova legge.  |Dannati~:
+fortemente in rilievo tra le due virgole, assume un significato
+concessivo: <bench$e siate dannati>.  |A le mie grotte~: al luogo
+affidato alla mia custodia; |grotte~ vale <rocce> ed @e termine
+gi@a altre volte usato da Dante (per es. ^If~ XIV 114; XXI 110;
+ecc.).  Le parole di Catone, cos@i aspre e severe contrastano
+fortemente con l'atmosfera quasi idillica del paesaggio, che
+Dante ha creato come sfondo di questo incontro, perci@o si @e
+potuto parlare di una <drammaticit@a> del ^Purgatorio~ (Sapegno),
+sia pure pi@u sfumata di quella dell'^Inferno.~
+
+	|49-51.  mi di@e di piglio~: mi afferr@o; analoga locuzione
+in ^If~ XXIV 24.  |E con... cenni~: il discorso di Virgilio deve
+rivolgersi a Catone soprattutto, perci@o per fare inginocchiare
+Dante bastano poche parole accompagnate da cenni e da atti della
+mano: la simultaneit@a concitata di gesti e parole @e sottolineata
+dal polisindeto |e... e... e.~  |Reverenti... ciglio~: mi fece
+inginocchiare e chinare gli occhi in segno di riverenza.
+
+	|52-93 {Nota Bosco}.~  Virgilio gli spiega le ragioni
+dell'eccezionale viaggio, necessario perch$e Dante si salvasse
+dall'imminente morte spirituale: effettuandolo, egli riacquister@a
+il libero arbitrio, o, pi@u precisamente, l'esercizio di esso
+(Pasquazi); cio@e la libert@a morale, impedita dagli istinti e
+dalle superbie umane; Catone sa quanto tale libert@a valga, egli
+che per essa, per non sottostare alla servit@u che Cesare ormai
+vittorioso avrebbe imposta a Roma, rifiut@o in Utica la vita; e la
+morte, affrontata per cos@i alta esigenza morale, non gli fu
+amara.  Virgilio prega poi Catone di consentire a lui e a Dante
+il viaggio per i suoi sette regni; e lo prega anche in nome di
+Marzia, la moglie amata che Catone aveva ceduta a Ortensio,
+secondo che le leggi e le consuetudini morali dei tempi
+consentivano, e che poi, dopo la morte del nuovo marito, era
+tornata al primo, a Catone, ed egli se l'era ripresa: ora ella @e
+nel Limbo, compagna nella sede a Virgilio, e questi dunque potr@a,
+tornando laggi@u, dirle del beneficio ricevuto da Catone.  Il
+severo vecchio respinge queste |lusinghe~ {92} che si riferiscono
+a una donna terrena, che pure per un istante ancora vagheggia
+(|Marz,ia piacque tanto a li occhi miei / mentre ch'i' fu' di
+l@a...~, 85-86; ma si noti che, al solito, in questo personale
+cenno sentimentale risuonano echi biblici: <placuit oculis meis>,
+^Iud.~ XIV 3); gli basta, perch$e aiuti Dante, sapere che il
+viaggio di lui @e voluto dal cielo, che esso dunque rientra nella
+legge.  L'intransigenza severa di Catone, il suo ubbidire
+soltanto all'imperativo religioso-morale, respinto ogni
+allettamento terreno, @e confermato dalla sua seconda apparizione,
+quando, nel canto seguente, Dante, le anime purganti allora
+allora giunte all'isola del Purgatorio e lo stesso Virgilio si
+lasciano prendere dalla dolcezza del canto di Casella (II 106
+ss.), dimentichi per un momento del loro dovere di affrettarsi al
+monte; e Catone riapparso sgrida questi ^spiriti lenti~: ^qual
+negligenza, quale stare @e questo?~, cio@e respinge le pur lecite
+lusinghe della musica.
+
+	|52-54.  lui~: a lui.  |Da me~: di mia iniziativa.  Tutto
+il discorso di Virgilio @e costruito con alta e solenne oratoria,
+specialmente nella seconda parte (vv. 70-84), dopo aver
+giustificato la presenza sua e del discepolo sull'isoletta del
+Purgatorio.  Non manca la ^captatio benevolentiae~, col ricordo
+di Marzia, n$e la perorazione (^Lasciane andar...~) nella chiusa. 
+|Donna... sovvenni~: sintetizza ci@o che @e stato narrato nel II
+canto dell'^Inferno.~  Virgilio subito risponde alle due ultime
+domande di Catone, prima di dire chi essi siano, cos@i pu@o meglio
+calmare lo sdegno dell'Uticense, il quale li crede dannati che
+abbiano infranto le ^leggi d'abisso.~
+
+	|55-57.  Ma... nieghi~: ma poich$e @e tuo desiderio che
+meglio si spieghi qual sia veramente la nostra condizione, non
+pu@o essere che il mio volere si neghi a te; cio@e che io voglia
+negarti pi@u precisa spiegazione.  Si osservi |vera~ con funzione
+avverbiale: <veramente>.  |Il mio~: sott. volere.
+
+	|58-60.  Questi... sera~: questi non @e ancora morto: ma
+si intenda, oltre il significato letterale, anche il senso della
+morte spirituale, come si chiarir@a nei due versi successivi. 
+L'immagine della sera come fine della vita ritorna in Petrarca:
+<compie' mia giornata innanzi sera> nel sonetto ^Levommi il mio
+pensier~, e nella sestina ^Non ha tanti animali~: <Di d@i in d@i
+spero omai l'ultima sera>.  |Follia~: superbia intellettuale. 
+Cfr. ^Note Bosco~ a ^13-36~ e ^43-51~ di ^If~ II.  |Che... era~:
+che sarebbe passato pochissimo tempo e poi egli sarebbe morto
+spiritualmente.
+
+	|61-63.  fui mandato ad esso~: cfr. ^If~ II 58-69.  |Per
+lui campare~: per salvarlo.  ^Campare~ ha qui valore transitivo
+come in ^If~ XXII 21.  Era verbo d'uso frequente nel Due-Trecento
+sia in prosa che in poesia.  |Che questa~: come aveva detto
+Virgilio stesso a Dante (^If~ I 91 e 112-120).
+
+	|64-66.  la gente ria~: i dannati dell'Inferno. 
+|Quelli... bal@ia~: le anime del Purgatorio che sono sotto la tua
+custodia (|bal@ia~).
+
+	|67-69.  l'ho tratto~: l'ho condotto fin qui.  |De
+l'alto~: dal cielo, come aveva gi@a detto (vv. 53- 54). 
+|Conducerlo... udirti~: il D'Ovidio parlava di <adulazioncella>
+di Virgilio, quasi vedere e udire Catone fosse il fine del
+viaggio.  L'espressione non va intesa in senso strettamente
+letterale; n$e si tratta, qui, come si dice spesso, di una
+^captatio benevolentiae.~  In realt@a Virgilio dice semplicemente
+che se @e arrivato col suo discepolo fin l@i, fino al punto in cui
+@e possibile vedere e udire Catone, ci@o @e stato per l'aiuto
+divino.  Piuttosto @e da notarsi il valore <raro e prezioso>
+(Sapegno) dell'espressione |a vederti e a udirti~, sottolineata
+dai due forti iati tra |e~, |a~, |udirti.~
+
+	|71-72.  libert@a... rifiuta~: la libert@a dal peccato,
+libert@a spirituale e morale che ben conoscono quegli spiriti
+nobili che per lei sacrificano la vita.
+
+	|73-74.  Tu 'l sai~: passaggio dalla sentenza di
+carattere generale, che precede (vv. 71-72), al riferimento di
+carattere particolare: tale passaggio @e sottolineato dalla
+presenza dello stesso verbo (|come ^sa...~  |Tu 'l ^sai...~). 
+|In Utica la morte~: il suicidio (detto semplicemente |morte~,
+senza altra specificazione) appare qui nobilitato come atto di
+eroica rinuncia, quasi come un martirio vero e proprio.  Si
+ricordi ci@o che si @e detto a proposito di tale interpretazione
+anche da parte degli scrittori cristiani (vedi ^Conclusione~). 
+Utica @e la citt@a africana, a nord di Cartagine, dove gli ultimi
+resti dell'esercito pompeiano tentarono l'estrema resistenza
+contro Cesare, Catone, che era uno dei capi dell'esercito, si
+diede ivi la morte nel 46 a. C.
+
+	|75.  la vesta... chiara~: il tuo corpo, la veste
+corporea, che nel giorno del giudizio (|al gran d@i~) sar@a
+luminoso come il corpo dei beati.  Con questa espressione Dante
+vuol significare la futura beatitudine di Catone.  D'altronde
+dopo il Giudizio non ci sar@a pi@u il Purgatorio, n$e si pu@o pensare
+che Catone venga ^retrocesso~, tornando nel Limbo.
+
+	|76-77.  per noi guasti~: violati da noi; |per~, come
+spesso nella lingua del Due-Trecento, vale come particella di
+agente, equivalente al francese ^par.~  |Ch$e... lega~: Dante @e
+ancora vivo e Virgilio, essendo nel Limbo, @e al di fuori della
+giurisdizione di Minosse, che comincia con il secondo cerchio
+dell'Inferno.  Questi versi sono la risposta alla domanda di
+Catone (^Son le leggi d'abisso cos@i rotte?~) espressa nei vv.
+46-48.
+
+	|78-80.  del cerchio~: del I cerchio, il Limbo. 
+|Marzia~: figlia di L. Marcio Filippo, and@o sposa a Catone che
+poi la cedette a Q. Ortensio.  Dopo la morte di costui torn@o
+all'Uticense.  Dante trasse la notizia da Lucano e ne diede nel
+^Convivio~ una spiegazione allegorica, interpretando il ritorno
+di Marzia a Catone come il ritorno dell'anima a Dio alla fine
+della vita (IV xxviii 13-19).  Il ricordo di Marzia @e in realt@a
+una ^captatio benevolentiae~, ma @e comunque notevole che Dante
+non tenga conto delle severe critiche degli scrittori cristiani
+alla cessione di Marzia da parte di Catone: Agostino si limita a
+scusarla riferendosi ai costumi romani.  Forse Dante ha
+escogitato l'allegoria del ^Convivio~ appunto per coprire lo
+scandalo, a occhi cristiani, della cessione (P$ezard); tuttavia
+dell'allegoria non c'@e traccia nella ^Commedia~, dove Marzia @e
+solo la sposa fedele anche dopo essere stata ceduta.  Comunque
+non si vede perch$e Dante richiami nella celebrazione di Catone
+questa vicenda che, se favorevole a Marzia, non lo era per
+Catone.  Il Sapegno nota che nell'allegoria del ^Convivio~ Dante
+indugia anche nel ritrarre affettuosamente la preghiera della
+donna al marito perch$e la riprenda con s$e (il che ai fini
+dell'allegoria non era necessario): di ci@o @e forse eco il
+vagheggiamento di lei cui l'austero Catone si abbandona per un
+istante (85-87).  |'N vista~: nell'aspetto, nell'atteggiamento. 
+O santo petto~: anche nel ^Convivio~: <O sacratissimo petto di
+Catone, chi presummer@a di te parlare?> (IV v 16).  Cfr. anche
+Luc. ^Phars.~ II 285; IX 255.  |Che per tua la tegni~: che la
+consideri sempre come tua moglie: eco delle parole di lei quali
+appaiono nel ^Convivio~: <dammi, almeno, che io in questa tanta
+vita sia chiamata tua> (IV xxviii 17).
+
+	|81-84.  per lo suo amore... regni~: @e la perorazione
+finale del discorso di Virgilio.  I |sette regni~ sono le sette
+cornici del Purgatorio che sono sotto la ^bal@ia~ di Catone. 
+|Grazie... lei~: ringrazier@o anche lei per il favore che ci hai
+reso, anche per amor suo, parlandole della tua benignit@a.  Cfr.
+per analoga espressione ^If~ II 73-74.  |Se... degni~: se ti
+degni di esser ricordato (|mentovato~) nell'Inferno.
+
+	|85-87.  Marz,ia~: il discorso di Catone si apre con il
+nome della moglie, messo in particolare evidenza anche dalla
+dieresi.  @E un rapidissimo cedimento affettivo, da cui Catone
+subito si riprende per affermare che ormai essa non pu@o pi@u nulla
+su di lui: il dovere impostogli dalla nuova funzione fa tacere
+anche gli affetti pi@u teneri, divenuti ormai solo un lontano
+ricordo.  |Di l@a~: nella vita terrena.  |Volse~: volle.  |Fei~:
+feci.
+
+	|88-89.  di l@a dal mal fiume~: al di l@a dell'Acheronte. 
+Marzia @e nel Limbo che @e pur sempre il I cerchio dell'Inferno,
+anche se non vi sono n$e pene n$e peccatori.  |Muover~: commuovere,
+smuovere.  |Quella legge~: @e probabilmente da intendersi come
+quella legge che venne fatta nel momento in cui Cristo, sceso nel
+Limbo, vi trasse gli ebrei giusti e i Patriarchi dell'Antico
+Testamento per farli beati.  Prima di quel momento, come afferma
+Dante stesso (^If~ IV 63), ^spiriti umani non eran salvati.~  C'@e
+da pensare quindi che, essendo morto nel 46 a. C., Catone sia
+rimasto nel Limbo un'ottantina di anni e sia stato tolto da quel
+luogo e collocato a custodia del Purgatorio dopo la discesa di
+Cristo al Limbo.
+
+	|91-93.  Ma se... lusinghe~: @e questa la vera ragione
+valida per Catone, che d'altronde Virgilio aveva affermato come
+prima cosa (52-54).  Il ricordo di Marzia nella retta coscienza
+dell'Uticense @e considerato una ^lusinga.~  |Regge~: guida,
+sorregge.  |Per lei~: a nome suo.  |Richegge~: <richieggia>,
+<richieda>, con desinenza frequente nell'italiano antico.
+
+	|94-111 {Nota Bosco}.~  Catone d@a dunque a Virgilio le
+necessarie istruzioni: ricinga Dante d'un giunco, gli lavi il
+viso che reca ancora le tracce del dolore cui ha assistito e
+partecipato nel primo regno (il rito @e richiamato anch'esso nel
+Paradiso terrestre: ^Pg~ XXX 52-54); poi il sole mostrer@a la via
+per salire alla montagna.
+
+	|94-96.  Va... stinghe~: il ^Purgatorio~ @e una cantica
+ricca di elementi liturgici: gesti, parole hanno spesso un
+significato sacrale, come si conviene al regno dell'espiazione
+temporanea della colpa.  I primi atti simbolici (la liturgia @e
+tutta un simbolo) sono la recinzione di un giunco intorno ai
+fianchi del poeta e l'abluzione del viso; poi, pi@u avanti,
+verranno incisi sulla fronte di Dante sette ^P~, simbolo dei
+sette peccati capitali, che verranno via via cancellati da un
+angelo al passaggio tra una cornice e la successiva.  Cos@i ognuno
+di questi passaggi fino all'attraversamento del fuoco nell'ultima
+cornice e all'immersione nel Let$e nel Paradiso terrestre, avr@a
+carattere di cerimonia.  Vedi ^Introduzione~ a ^Pg~ XXIX.  A
+questi simboli, che investono la persona stessa del poeta, se ne
+affiancheranno altri, che verranno ai loro luoghi indicati.
+
+	|94-95.  ricinghe~: naturalmente alla vita, non alle
+tempie. Dante non aveva pi@u ai fianchi la famosa corda (cfr. ^If~
+XVI 106 ss.).  |Giunco~: @e simbolo dell'umilt@a, secondo la
+maggior parte dei commentatori.  La ragione verr@a data nei versi
+seguenti.  |Schietto~: liscio, senza nodi.
+
+	|96.  sucidume~: sudiciume, bruttura.  @E simbolo dei
+peccati infernali, che hanno lasciato una traccia sul volto del
+pellegrino.  |Stinghe~: cancelli di l@i (|quindi~), cio@e dal viso. 
+@E voce del vb. ^stingere~ (cfr. PARODI, ^Lingua~ II 230, n. 58).
+
+	|97-98.  converria~: converrebbe; forma di condizionale
+in ^-ia~ (un'altra @e in ^-ra~, per es. ^satisfara~ per
+<soddisfarebbe>, pi@u rara in Dante) frequente nella lingua due-
+trecentesca, derivata dall'unione dell'infinito con l'imperf. del
+verbo avere (quella in ^-ra~ proviene invece dal piucchepperfetto
+indicativo latino).  |L'occhio... nebbia~: <con l'occhio
+offuscato da qualche nebbia>; l'espressione @e costituita sulla
+forma dell'ablativo assoluto latino.  |Sorpriso~ vale <sorpreso,
+soprappreso>.
+
+	|99.  ministro~: l'angelo che sta sulla porta del
+Purgatorio (^Pg~ IX 78 ss.), il primo di una serie di creature
+angeliche che si troveranno in ogni singola cornice.  In effetti
+Dante incontrer@a prima l'angelo che traghetta le anime (^Pg~ II
+29), ma l'incontro con questo @e puramente casuale, ed @e quindi
+da pensare che Catone intenda l'angelo portiere, quello davanti
+al quale Dante s'inginocchia per impetrare il passaggio.
+
+	|100-102.  ad imo ad imo~: lungo la spiaggia, nel punto
+pi@u basso.  La ripetizione intensifica o accresce il nesso
+preposizionale (cfr. sempre in Dante: ^a brano a brano~, ^a mille
+a mille~, ecc.).  |Porta~: produce.  |Sovra... limo~: i giunchi
+nascono appunto in terreno molle e fangoso.
+
+	|103-105.  null'altra... seconda~: nessun'altra pianta
+fronzuta, o che nel crescere indurisse o si irrigidisse, pu@o
+vivere, perch$e non si piega, non cede (|seconda~) alle percosse
+delle onde e del vento.  Oltre al significato letterale, esatto
+d'altronde, si deve anche intendere in senso simbolico:
+nessun'altra virt@u (come l'umilt@a) induce al pentimento, e quindi
+alla purificazione.
+
+	|106-108.  reddita~: ritorno.  |Mosterr@a~: mostrer@a,
+forma comune nel toscano antico.  |A pi@u lieve salita~: nel punto
+di minor pendio, dove la salita @e pi@u agevole (|lieve~).
+
+	|109.  Cos@i spar@i~: <detto ci@o, disparve> (cfr. ^If~ IV
+23).  La sparizione, come l'apparizione di Catone cos@i improvvisa
+e miracolosa, serve a introdurci in questo nuovo clima del
+Purgatorio, fatto di mistero, di simboli, di riti sacrali.
+
+	|110.  sanza parlare~: Dante @e rimasto per tutto questo
+tempo inginocchiato (infatti si dice nel verso precedente ^s@u mi
+levai~) e in silenzio; atteggiamento raccolto e umile che ben si
+conviene a questo inizio del viaggio di redenzione; il silenzio
+accompagna sempre il rito religioso nei suoi momenti pi@u solenni. 
+|Mi ritrassi~: mi accostai, mi strinsi.
+
+	|113-114.  volgianci~: volgiamoci.  |Dichina~: declina,
+discende.  |A' suoi termini bassi~: alla spiaggia, il punto pi@u
+basso (|ad imo ad imo~) dell'isola.
+
+	|115-120 {Nota Bosco}.~  Intanto il sole @e gi@a sorto, e
+sar@a esso a mostrare ai poeti la via per salire alla montagna:
+quel sole, aveva detto in ^If~ I, che ^mena dritto altrui per
+ogne calle~: altra significativa ripresa.  Il poeta segue col
+verso il trionfale progredire della luce: l'ultima ora della
+notte fugge, sopraffatta, dinnanzi all'alba; il paesaggio si
+allarga ancora comprendendo anche la distesa del mare: |di
+lontano / conobbi il tremolar de la marina~ (116-117).  La luce @e
+speranza: i due poeti avanzano nella solitudine che implica
+silenzio (solitudine e silenzio domineranno tutto il canto, come
+@e stato bene osservato), ansiosi di salire: uno di essi deve
+tornare |a la perduta strada, / che 'nfino ad essa li pare ire in
+vano~ (119-120).  Ben diversamente che nel proemio dell'^Inferno~
+dove la speranza suscitata dal sole e dalla stagione @e distrutta
+dall'apparizione della seconda e della terza fiera (^perdei la
+speranza de l'altezza~, ^If~ I 54).
+
+	|115-117.  L'alba... marina~: @e l'ultima, e la pi@u
+melodiosamente poetica, delle note di paesaggio di cui @e ricco il
+canto.  Estremamente vive le immagini dell'alba, che vince a poco
+a poco con il suo chiarore le ultime ore della notte, e,
+soprattutto, del |tremolar de la marina~, la cui musicale
+suggestione trov@o eco in D'Annunzio (^I pastori~).  |Ora~: non va
+inteso, come fu fatto, come <aura> o come <ombra>, ma nel suo
+significato comune, come bene intesero il Buti (<l'ora del
+mattino che @e l'ultima parte della notte>) e il Landino (<al
+mattutino fugge l'alba>; dove <mattutino> @e inteso come l'ultima
+delle ore canoniche notturne).  |Conobbi~: ravvisai, riconobbi. 
+Forse alle prime luci il mare non si distingueva dalla terra se
+non per il suo tremolare.  Ma razionalizzando si rimpicciolisce e
+si incrina la suggestione del verso.
+
+	|118-120.  solingo~: solitario (come poi al v. 130
+^diserto~).  La solitudine del luogo e questo cammino silenzioso
+dei due poeti aumentano la suggestione della scena e preparano al
+rito sacrale dell'abluzione e della recinzione col giunco. 
+|Che... in vano~: che gli sembra di andare inutilmente finch$e non
+l'abbia raggiunta.
+
+	|121-136  {Nota Bosco}.~  Si badi, tuttavia: in ^If~ I ci
+troviamo di fronte a rigide figurazioni simboliche, tanto che
+abbiamo ammonito circa la necessit@a di non indulgere per esse a
+notazioni naturalistiche; qui il simbolo, senza cessare d'esser
+tale, @e paesaggio concreto.  La stessa cronologia del viaggio non
+@e, come altre volte, arido schema strutturale: l'arrivo in
+Purgatorio poco prima dell'alba ha sviluppo paesistico-spirituale
+di primaria importanza: i significati religiosi, attinti a una
+ricca e comune tradizione, sono ovvii anche per lettori moderni;
+e la loro stessa ovviet@a concorre nel far conservare alle
+notazioni il loro pieno valore paesistico.  Mai forse come in
+questo canto la simbiosi @e perfetta: il reale ha risonanze
+simboliche, e il simbolo assume i fermi o sfumati contorni d'un
+reale di cui l'occhio e l'anima s'impadroniscono a fondo; tutti i
+migliori lettori hanno fatto leva su questa osservazione; il Bigi
+ha parlato di <realismo spirituale>.  Si pu@o aggiungere che
+questo canto @e un esempio particolarmente felice di
+quell'esigenza di concretizzare l'astratto che @e propria
+dell'espressione poetica medievale e di Dante.  In questi ultimi
+tempi, in analogia a quel che si pretende di fare per ogni pagina
+della ^Commedia~, si tende a vedere in questo canto, in luogo di
+questa fusione simbolico-naturalistica, solo un significato
+religioso-liturgico.  @E operazione, anche se in qualche caso
+(Raimondi) condotta con estrema dottrina e intelligenza,
+pericolosa come l'inversa, che legge in questi versi di Dante
+solo l'elemento reale-sentimentale.  Tutto il canto @e certamente
+pervaso dal senso del mistero e del divino: dall'apparizione
+improvvisa di Catone (che riprende quella di Virgilio nel proemio
+dell'^Inferno~) all'altro prodigio del giunco che Virgilio stacca
+dalla pianta per recingere Dante e che rinasce immediatamente;
+conclusione d'un vero e proprio rito religioso: Virgilio toglie
+con la rugiada dal viso di Dante le tracce delle lagrime
+infernali.  @E il primo, come si @e giustamente rilevato, dei molti
+riti del ^Purgatorio~, sino alla suprema purificazione nelle
+acque del Let$e (^Pg~ XXXI 91-102), e alla rigenerazione
+spirituale prodotta dalla dolce acqua dell'Euno$e, da cui Dante @e
+^rifatto s@i come piante novelle / rinovellate di novella fronda~
+(^Pg~ XXXIII 103-145).  Tutto il canto pullula di reminiscenze
+bibliche, riferimenti liturgici, anche se non pu@o esser ridotto a
+sola liturgia.  Ma si noti anche che i significati religiosi sono
+offerti, come sempre fa Dante quando vuole innalzare il tono
+della sua poesia, anche con la mediazione dei classici latini:
+per es., il rito lustrale, cos@i liturgicamente cristiano, ha
+anche precedenti virgiliani (^Aen.~ VI 635-636); il mito del
+giunco rinascente non @e diverso dal ramo d'oro dell'Averno
+virgiliano, che rinasce appena colto (^Aen.~ VI 143-144), ma ha
+anche precedenti biblici (^Iob~ XIV 7 ss.).  Tuttavia l'energia
+morale, sappiamo anche questo, dev'essere nel magnanimo
+accompagnata dal senso dei propri limiti, cio@e da umilt@a, senza
+di che @e presunzione e superbia.  @E appunto Catone, il magnanimo
+per eccellenza, a consigliare a Virgilio di recingere Dante con
+un giunco, simbolo di umilt@a (|l'umile pianta~): il quale oltre
+che essere inesauribile perch$e rinasce ogni volta che @e colto, @e
+flessibile, seconda le percosse del vento: e specificamente a
+Dante occorre appunto umilt@a per riconoscere i propri torti, e
+quindi secondare col proprio consenso religioso le percosse della
+punizione divina.  San Tommaso, in un passo richiamato dal
+Raimondi, afferma che tra magnanimit@a e umilt@a non c'@e
+contraddizione, ma anzi complementarit@a: la prima fa che l'uomo
+si creda degno di grandi imprese, considerando i beni che gli
+vengono da Dio; la seconda fa che egli si stimi piccola cosa,
+considerando invece quanto gli manca.  Tale contrapposizione,
+come abbiamo ampiamente e ripetutamente visto, @e una delle idee
+portanti di tutta la ^Commedia.~  Non per nulla Virgilio ha cura
+di chiarire bene a Catone che il viaggio di Dante @e voluto da
+Dio: lo aveva gi@a detto pi@u volte ai demoni, ma con ben altro
+tono; e d'altra parte, proprio in questo canto, @e richiamata la
+sua ^follia~ (59), per la quale stava per precipitare nella morte
+spirituale; e alla fine del canto stesso, v'@e un richiamo
+evidente (e, si noti, non necessario al contesto) al ^folle volo~
+di Ulisse: |Venimmo poi in sul lito diserto, / che mai non vide
+navicar sue acque / omo, che di tornar sia poscia esperto~
+(130-132).  Tanto Dante ha l'animo rivolto al mito ulisseo da lui
+creato, che gli torna sotto la penna, con altro riferimento, uno
+stilema (|com'altrui piacque~, 133), che era gi@a nel penultimo
+verso del canto di Ulisse.  Catone ebbe e ha quel che manc@o
+all'eroe greco: la magnanimit@a per essere veramente tale deve
+riconoscere i suoi limiti, obbedire e fare obbedire alla
+superiore legge di Dio.
+
+	|121-123.  Quando... dirada~: intendi: quando giungemmo
+l@a, in quel luogo, dove la rugiada resiste (|pugna~) ai raggi del
+sole, perch@e si trova in una zona (|in parte~) dove, all'ombra
+(|ad orezza~), la rugiada evapora poco (|poco si dirada~).  Altri
+leggono una ^e~ dopo |sole~ e fanno di |ad orezza~ una sola
+parola e precisamente una forma del verbo ^adorezzare~ (= essere
+in ombra), che per@o non @e attestato altrimenti (non c'@e che un
+esempio dell'Arici, influenzato evidentemente dalla lezione
+rifiutata).  Non essendoci ragioni cogenti, non @e necessario
+supporre la creazione dantesca del verbo anche se potrebbe essere
+ammissibile (cfr. PETROCCHI, III 16-17).
+
+	|124-125.  sparte~: distese, aperte; va con |mani~ e
+dipende da |pose.~  |Soavemente~: con delicatezza.  <L'avverbio
+dice il garbo che dov$e usare con cose tanto lievi come son la
+rugiada e l'erbetta, e insieme forse rivela la compiacenza della
+sua premura paterna> (D'Ovidio).
+
+	|126-127.  fui accorto di sua arte~: compresi il motivo
+del suo atto.  |Lagrimose~: su cui appariva ancora la traccia
+delle lacrime versate durante il viaggio infernale.  Altri
+intende invece che Dante, nel porger le guance all'abluzione,
+pianga, quasi primo atto di contrizione; ma @e ipotesi da
+scartare.
+
+	|128-129.  ivi... nascose~: qui rese di nuovo visibile,
+scoprendolo, quel colore naturale del viso che la caligine
+infernale aveva offuscato.
+
+	|130-132.  diserto~: come al v. 118 ^solingo~,
+<solitario>.  |Che mai... esperto~: allusione ad Ulisse (^If~
+XXVI).
+
+	|133-136.  com'altrui piacque~: come aveva ordinato
+Catone.  Per lo stilema cfr. ^If~ XXVI 141.  |Scelse~: colse,
+scegliendola tra le altre pianticelle.  |Si rinacque~: c'@e
+indubbiamente la reminiscenza di Virgilio (^Aen.~ VI 143-144), a
+proposito del ramoscello d'oro.  Ma qui il ricordo letterario
+andr@a ampliato nel significato simbolico di tutta la scena e
+significher@a che <la virt@u @e inconsumabile> (Buti).  |L'avelse~:
+la svelse, latinismo.  Il canto si chiude con questo prodigio
+(sottolineato al v. 134 con l'esclamazione |oh maraviglia!~),
+lasciando il lettore immerso in questa atmosfera di mistero
+religioso.
+
+	|Conclusione.~  Il Catone del ^Purgatorio~ conserva
+intera la sua personalit@a storica quale a Dante risultava dalle
+sue letture; ma, secondo l'interpretazione figurale (Auerbach),
+quel che egli fu storicamente @e agli occhi di Dante
+prefigurazione dell'uomo nel suo destino soprannaturale ed
+eterno, quale @e rappresentato nel poema.  La portata simbolica
+del personaggio @e d'immediata evidenza, ed @e dichiarata, come
+abbiamo detto, dallo stesso poeta, per bocca di Virgilio:
+l'esigenza di libert@a di Catone @e la stessa esigenza di Dante
+pellegrino, giacch$e senza libert@a morale, senza il pieno dominio
+di s$e, non c'@e possibilit@a di vita e di salvezza.  Irrilevante
+osservare che la libert@a perseguita da Catone era politica,
+apparentemente diversa da quella che Dante vuol riconquistare col
+suo viaggio.  Opportunamente V. Rossi richiam@o un passo dell'Ep.
+ai Fiorentini (^Ep.~ VI 22): <l'osservanza delle leggi, se lieta,
+se libera, non solo non @e servit@u ma @e anzi essa stessa suprema
+libert@a>: Catone @e appunto colui che inflessibilmente obbed@i in
+terra alla legge morale, e ora nel Purgatorio @e severo custode
+della legge divina.  La libert@a da lui perseguita non @e meramente
+politica, anzi il suo riflesso politico, anticesariano, @e da
+Dante, come poi vedremo, obliterato.  Piuttosto, non possiamo non
+chiederci perch$e a impersonare queste alte esigenze Dante abbia
+scelto un pagano, e per di pi@u un suicida e un anticesariano, lui
+che credeva cos@i fermamente nella provvidenzialit@a della vittoria
+di Cesare e quindi anche della guerra civile.  A spiegare ci@o @e
+necessario riandare alla tradizione classico-cristiana attraverso
+la quale giungeva a Dante la figura dell'Uticense.  Anzitutto, @e
+comune e fondata opinione che l'idea di far di Catone il custode
+del Purgatorio sia venuta al poeta da Virgilio, che pone nel suo
+Averno Catone come <dantem iura> ai `pii', cio@e agli amanti della
+patria, che stanno in luoghi appartati (^Aen.~ VIII 670). 
+Trovava poi altissime lodi dell'eroe in altri classici; in
+particolare, leggeva in Cicerone (^De off.~ I xxxi 112) l'elogio
+della sua <incredibile gravit@a>, rafforzata da perfetta costanza,
+che lo faceva restare sempre fermo nel suo proposito, una volta
+concepito: le doti fondamentali del Catone dantesco non sono
+diverse.  La fonte primaria di Dante @e per@o Lucano (^Phars.~ II
+234 ss.), e non certo solo per l'aspetto esteriore dell'eroe: nel
+colloquio che il poeta latino istituisce tra Bruto e Catone allo
+scoppio della guerra civile, Dante trovava esaltata, ancora, la
+fermezza del carattere del secondo, la sua <robusta certezza>. 
+Prende il lutto per la guerra, <sommo delitto>; lui, il solo
+immune da odii e da passioni, lui solo aveva il diritto di
+piangere non soltanto su Roma, ma sull'intero genere umano
+(377-378), giacch$e la giustizia che egli lamentava conculcata era
+patrimonio di tutti; Catone sapeva di esser nato non per s$e
+stesso ma per il mondo (313).  Tuttavia egli pensa che sia suo
+dovere prender parte alla guerra, per difendere la libert@a e la
+giustizia, anche se senza speranza (<me frustra leges et inania
+iura tuentem>, 316).  Si noti infine che, sempre secondo Lucano,
+era proprio di Catone conservar la misura (<servare modum>):
+dovremo ricordarci di questo particolare nel seguito del nostro
+discorso.  Catone non appare, in tale sua grandezza, solo qui
+nella ^Commedia~; appare anche, anteriormente a questi versi, nel
+^Convivio~, e, posteriormente a essi, nella ^Monarchia.~  In
+ambedue queste opere, Catone conclude e corona due elenchi,
+sostanzialmente uguali tra loro, di Romani che pensavano non a s$e
+stessi ma al bene comune; nel passo della ^Monarchia~ (II v 15)
+si dice che l'<inenarrabile sacrificio> fu consumato da Catone
+per accendere nel mondo l'amore per la libert@a: un proposito
+dunque che trascende l'episodio politico contingente, per
+perseguire un ideale politico superiore, coincidente con
+l'assoluto ideale morale.  Lo scopo di Dante nel darci questi
+esempi di eroiche virt@u romane, @e di mostrare che la repubblica
+romana, da Bruto primo console a Cesare primo imperatore, fu
+<essaltata non con umani cittadini, ma con divini, ne li quali
+non amore umano, ma divino era inspirato in amare lei> (^Cv~ IV v
+12).  Questi divini cittadini poterono compiere le loro <mirabili
+operazioni> <non sanza alcuna luce de la divina bontade, aggiunta
+sopra la loro buona natura> (^Cv~ IV v 17).  Tanto ci@o @e per
+Dante vero, che egli non esita ad allegorizzare il racconto di
+Lucano, relativo al primo e al secondo matrimonio, sul ritorno a
+Catone di Marzia: questa @e l'anima dell'uomo nobile che <dal
+principio del senio> torna a Dio; e addirittura esclama: <E quale
+uomo terreno pi@u degno fu di significare Iddio, che Catone? 
+Certo nullo> (^Cv~ IV xxviii 15).  Negli identici termini si era
+espresso Seneca il retore (proemio alle ^Controversiae~): <Quale
+soprintendente alle cose sante potrebbe trovarsi la Divinit@a, se
+non Catone?>; e lo stesso Lucano, in luogo diverso da quello
+prima citato (^Phars.~ IX 554-555; 601-602), afferma che <gli dei
+non avrebbero potuto dare gli arcani e dire la verit@a a uomo pi@u
+degno del santo Catone; che egli era degnissimo di esser posto
+sulle are di Roma>.  Dante, dal canto suo, in ^Cv~ IV v 16 non
+esita, a proposito dell'impossibilit@a di uguagliare con parole la
+sua altezza, ad avvicinarlo a San Paolo.  Va aggiunto che questa
+reverenza verso Catone, di carattere quasi religioso, Dante non
+la traeva solo dai classici: essa era comune anche a scrittori
+cristiani.  Infine, non @e da omettere la considerazione che nella
+figura di Catone, cos@i come gli era giunta, Dante, e se ne
+accorsero gi@a gli antichi commentatori, vedeva molto di s$e
+stesso, soprattutto quanto alla fermezza del carattere, alla
+severit@a nell'adempimento, sino in fondo, del dovere.  I versi di
+^Phars.~ II 380-383, che parlano di Catone, potrebbero essere un
+ritratto del <magnanimo> e di Dante stesso.  E uno che prendeva
+il lutto per la guerra civile doveva riscuotere tutto il consenso
+del poeta.  Di fronte a tutto ci@o, il fatto che Catone fosse
+pagano non ha molta rilevanza: Dante era molto coraggioso in
+materia teologica, e del resto poteva pensare, in linea con la
+teologia pi@u rigorosa, che per l'eccellenza delle sue virt@u
+civili Dio avesse per grazia ispirata all'eroe una fede implicita
+in Cristo venturo: @e questa fede che lo pone ora nel Purgatorio
+e, quando questo scomparir@a, nel ^gran d@i~ del Giudizio gli
+permetter@a di salire al cielo (75).  Che Dante, diversamente da
+quel che fece per altri pagani da lui salvati, Traiano e Rifeo
+(^Pd~ XX 100 ss.), non si soffermi a spiegare i modi in cui la
+grazia divina si esercit@o in Catone, @e effetto solo del fatto che
+tale grazia gli pareva ovvia, per le concordi attestazioni quasi
+di santit@a tributategli dalla tradizione classico-cristiana.  Del
+resto, forse non @e lontano dal vero il Sansone, il quale pensa
+che a impersonare l'anima anelante alla libert@a convenisse meglio
+che un cristiano, illuminato dalla rivelazione, un pagano che
+aveva trovato la luce essendo nelle tenebre.  Prima di venire nel
+Purgatorio, Catone era (90) nel Limbo, l@a dove stanno quelli che,
+come lui, non poterono seguire le virt@u teologali, ma ^sanza
+vizio / conobber l'altre e seguir tutte quante~ (^Pg~ VII 35-36). 
+Quanto all'anticesarismo, Dante non contrappose gi@a la
+provvidenzialit@a della vittoria di Cesare al valore morale di
+Catone; questo poteva ben dirlo Lucano (<victrix causa deis
+placuit, sed victa Catoni>, ^Phars.~ I 128), potr@a compiacersene
+il titanismo romantico nei suoi vari aspetti, ma non pu@o essere
+in alcun modo attribuito al rigoroso cristianesimo di Dante.  Per
+questo, invece, <vengono a porsi sullo stesso piano di
+provvidenzialit@a sia l'opera di Cesare (...), sia l'atto di
+Catone che la libert@a nel suo peculiare unico valore afferma con
+la sua morte> (Fubini).  Si ricordi che l'aspra condanna degli
+uccisori di Cesare, nell'ultimo canto dell'^Inferno~, viene a
+essere contigua all'esaltazione di Catone, nel I del ^Purg.~  Pi@u
+interessa porsi la domanda del perch$e la coscienza religiosa di
+Dante non fosse turbata dal suicidio di Catone.  @E stato anzi
+giustamente detto che Dante lo esalta e lo pone in luogo di
+salvazione non ostante il suicidio, ma proprio in virt@u di esso. 
+Dante ammirava certo la morale stoica, che in tante cose anche ai
+suoi occhi convergeva con la cristiana, ma Agostino e Tommaso
+l'avevano respinta proprio a proposito del suicidio; e il secondo
+aveva esplicitamente condannato quello di Catone.  Tuttavia l'uno
+e l'altro ammettono eccezioni alla loro condanna; in taluni casi
+Dio ispira il suicidio, quando sia di esempio agli uomini; e per
+Dante, questo @e il caso dell'Uticense, il quale non si uccise per
+motivi personali ed egoistici anche se nobili, come potrebbero
+essere il giusto sdegno per una vittoria ritenuta pericolosa per
+la patria, o il non volere sottostare personalmente al tiranno
+(si pensi al ^disdegnoso gusto~ per il quale si uccide Pier della
+Vigna, e che Dante certo non giustifica, ma pur considera
+umanamente spiegabile: cfr. ^82-84 {Nota Bosco}~ a ^If~ XIII), ma
+per dare un grande esempio, per accendere nel mondo l'amore alla
+libert@a.  Il suicidio di Catone nel ^Convivio~ e nella
+^Monarchia~ @e considerato appunto come il supremo degli atti
+eroici che gli uomini non possono compiere se non illuminati
+dalla luce divina.  D'altra parte, Dante si accinge a salire la
+montagna del Purgatorio per superare gli istinti: che altro aveva
+fatto Catone se non superare il pi@u forte degli istinti umani,
+quello di conservazione?  In ^Cv~ IV vi 9 Dante fa Catone
+esponente della filosofia stoica per la quale, egli dice, fine
+della vita @e solamente la <rigida onestade; cio@e rigidamente,
+sanza respetto alcuno, la verit@a e la giustizia seguire>: @e
+appunto la sconfitta d'ogni istinto egoistico.  La figura di
+Catone corona il discorso poetico sulla magnanimit@a, che abbiamo
+visto essere tanta parte dell'^Inferno.~  Il passo del ^Convivio~
+sugli stoici, poco fa ricordato, continua affermando che @e
+proprio degli stoici, e fra loro <quello glorioso Catone>, <di
+nulla mostrare dolore, di nulla mostrare allegrezza, di nulla
+passione avere sentore>.  @E l'imperturbabilit@a del magnanimo; e
+abbiamo rilevato come la figura di Catone sia disegnata dal poeta
+statuaria, decorosamente impassibile nell'aspetto (^oneste
+piume~, 42; ^veglio onesto~, II 119): caratteri anche esterni
+propri dei magnanimi.  Si aggiunga che l'eroe @e fisicamente
+simile ai patriarchi di cui ha condiviso, fino alla discesa di
+Cristo laggi@u, la sede ultraterrena, il Limbo; dobbiamo
+necessariamente pensare che la sua sede fosse tra gli altri
+^spiriti magni~, appartata, come quella che occupa, con gli altri
+`pii', nell'Averno virgiliano.  D'altra parte, la fermezza dei
+propositi, cio@e la fedelt@a a s$e stesso, @e connotazione essenziale
+dei magnanimi o di chi crede di esserlo (Capaneo, ^If~ XIV), e
+naturalmente di Dante stesso quale egli fu e quale si disegn@o.

@@ -1,0 +1,437 @@
+	|Proemio.~  Dividesi il presente capitolo in due parti;
+la seconda comincia quivi: ^Tacendo divenimmo~ {v. 76}.  In
+questa prima parte del capitolo sarebbe da veder quanto la
+giustizia di Dio dia la pena ragionevole et conforme a' falli
+commessi pe' peccatori che qui sono puniti; ma per@o che nel XVI
+capitolo se ne tratter@a pi@u convenevolmente, tacesi al presente,
+et dov'@e detto distesamente se ne tratter@a.  Nella seconda parte
+@e da vedere, sopra la intenzione della lettera, la sua allegoria,
+et quello che voglia intendere per quella statua della quale fa
+qui menzione, che si dice essere nell'isola di Creti.  Onde egli
+@e da sapere che la Terra @e intorneata dal mare Oceano; et da
+questo mare dipendono tutti gli altri mari et bracci di mare, che
+sono sparsi per la terra; onde quel mare che viene per Spagna et
+in Italia et in Grecia all'isola di Creti, dove si congiugne
+coll'altro mare, @e questo maggiore mare che gli altri: et per@o @e
+detto il Mare grande; e' pi@u il chiamono mare Tirreno, per@o che
+viene per mezzo la Terra verso Oriente, et divide et parte le tre
+parti della Terra, appunto all'isola di Creti; per@o che tutta la
+Terra @e divisa in tre parti, Asia, Affrica, et Europa: et non
+sono per@o uguale, per@o che Asia tiene bene la met@a di tutta la
+Terra, dal luogo ove il fiume del Nilo cade in mare in
+Alessandria, et dal luogo ove il fiume del Tanay cade in mare al
+luogo ch'@e detto il Braccio di santo Giorgio verso Oriente, tutto
+infino al mare oceano et al paradiso terrestro.  L'altre due
+parti sono il rimanente della terra; et per occidente infino al
+mare Oceano: ma elle sono divise per lo mare grande, ch'@e
+tramendue le parti.  E quella parte ch'@e verso mezzo d@i, et verso
+occidente, @e Affrica: l'altra parte ch'@e verso tramontana et
+settentrione verso ponente, @e Europa.  Ora, per@o che l'Auttore
+vuole per questo vecchio, di che @e stato parlato nel testo, ch'@a
+la testa d'oro etc. vuole mostrare il decorso di tutto in tempo,
+il pone nell'isola di Creti; et non senza cagione, per@o che il
+discorso del tempo @e fatto solo per li uomini, distinto in ore,
+in d@i, et in mesi; per@o che per gli altri animali non si
+distingue et non s'adopera pi@u o meno l'una ora che l'altra; et
+degli uomini che sono vivuti per tutto il tempo, cos@i in Oriente
+come in Ponente, et cos@i in Asia come in Affrica et in Europa,
+vuole l'Auttore che questa statua rappresenti il loro essere et
+il loro stato.  Pone questa statua acconciamente nell'isola di
+Creti, per@o che, com'@e detto, Creti contiene il confine di tutte
+e tre le parti, ci@o @e d'Asia, d'Affrica, et d'Europa.  Et ancora
+per una altra ragione: Creti in greco tanto vuole dire quanto
+Terra in latino; onde si pu@o dire che la generazione umana
+avesse, secondo la carne, il principio suo di Creti, ci@o @e della
+terra: et per@o, in memoria che gli uomini si ricordino di quello
+ch'elli sono fatti, il primo d@i della quaresima si pone cenere,
+dicendo: ^Cinis es et in cinerem reverteris.~  Pone l'Auttore
+questa statua in una montagna chiamata Ida, la quale montagna fu
+gi@a piena d'$albori et di fontane, come che oggi sia diserta et
+non coltivata: et per@o ch'ella fu cos@i ubertosa, fu chiamata Ida,
+che tanto vuole dire in latino quanto formosa, ci@o @e bella.  Et
+questa montagna vuole ancora significare la congregazione umana,
+ch'@e stata pe' tempi; per@o che la spezie umana @e pi@u bella et pi@u
+nobile che niuna altra cosa, o niuna altra spezie.  Tiene questa
+statua le spalle volte a Damiata.  Damiata @e una citt@a in
+Levante; et per questo si dimostra che la generazione umana ha
+avuto il suo principio da Oriente, per@o che ivi @e il Paradiso
+terrestre, dove fu fatto Adamo; et il Levante fu il primo paese
+abitato.  Dice che guarda Roma.  Roma @e in Occidente, et @e
+l'ultimo paese che s'abit@o; et per@o che il decorso dell'et@a del
+mondo @e in declinazione, questa statua, che ci@o significa, guarda
+verso Occidente, ci@o @e dirizzasi, avendo volte le spalle a
+Damiata, verso Occidente, ci@o @e dirizzarsi, avendo volte le
+spalle al suo principio, verso Occidente, ci@o @e verso il suo
+fine.  La testa dell'oro hae a significare la prima et@a, ci@o @e
+quella che Adam visse nel paradiso terrestre, senza peccato, che
+fu nel circa di sei ore.  @E vero che questa statua, la quale
+vidde Faraone nel sogno, la quale fu interpetrata per Daniel,
+signific@o le sei et@a del mondo, che fu la prima da Adamo infino a
+No@e; ma, secondo il vero giudicio, l'Auttore parve che intendesse
+di quello tempo che Adamo visse senza peccato, com'@e detto; et
+per@o che l'oro @e il pi@u nobile metallo che si truovi et il pi@u
+puro, n@e per fuoco, ognora ch'egli @e affinato, non scema, cos@i a
+simile l'uomo ch'@e senza peccato ha l'animo pi@u nobile che veruno
+altro, et @e puro et netto senza veruna macula, n@e per fuoco del
+disio delle cose terrene non scema la sua perfezione.  Le braccia
+et il petto dice essere d'ariento.  Per l'ariento vuole mostrare
+la seconda et@a, quando gli uomini, tratto Adamo dal paradiso per
+lo peccato, tutti quelli che in quelli principj scesono di lui
+abitorono in certe parti et diverse della terra.  @E adunque
+l'ariento uno metallo nobile non quanto l'oro, ma di colore pi@u
+bello, per@o ch'@e bianchissimo et chiaro: et tutti i colori
+dipendono da due, dal bianco et dal nero, secondo il Filosofo; et
+l'ariento tiene l'uno, ci@o @e il bianco.  Et per questo vuole
+mostrare l'Auttore che la terra, la quale era oscura et non
+conoscea gli uomini, per@o che gli uomini si sparsono ad abitare
+per lo mondo, fu schiarata et bianca per la loro cognoscenza. 
+L'altra parte @e di rame.  Per@o che il rame @e uno metallo sonoro,
+vuole mostrare per questo quella terza et@a, quando gli uomini
+cominciorono a speculare in scienzia, et diventare famosi per
+scienzia, per@o che, come il rame @e sonoro, cos@i la fama della
+scienzia suona et fa nominare gli uomini che hanno questa cotale
+scienzia.  Da indi in gi@u @e di ferro.  Per lo ferro vuole
+mostrare quello tempo nel quale gli uomini in prima
+incominciorono coll'arme, le quali sono di ferro, ad acquistare i
+paesi, et a occupare per forza l'uno le ragioni dell'altro; che
+fu il primo che acquist@o il re Nino di Siria: ch@e, bene che prima
+avessono combattuto insieme, non cercavono se non di vincere
+l'uno l'altro et essere maggiore.  Il re Nino cominci@o, com'@e
+detto, ad acquistare.  Per lo piede, ch'@e di terra cotta, vuole
+mostrare l'ultima et@a, per@o che la terra @e pi@u debile che niuna
+altra cosa della quale la statua sia formata, et cos@i l'ultima
+et@a @e pi@u debole di veruna altra.  Ancora la terra cotta, come
+ch'ella sia assai forte, come sono i mattoni et gli altri lavorii
+che si fanno della terra, ognora ch'ella sia carica, si disf@a et
+rompesi, et fa cadere ogni cosa che su vi fosse posta; et per@o
+dice l'Auttore che questa statua si ferma in sul pi@e diritto ch'@e
+di terra; et questo per@o che l'altre et@a passate pingono alla
+morte et caricono questo, et ognora che sia compiuto il termine,
+che solo @e nel segreto di Dio, questa terra, ci@o @e questa ultima
+et@a, cadr@a, et caggendo ella, caderanno tutte l'altre etadi, et
+verranno meno.  Dice adunque l'Auttore che da questa statua, la
+quale @e fessa, fuori che l'oro, per lo fesso suo piovono lagrime,
+le quali docciono et forono una grotta, et vanno in inferno, et
+fanno di s@e quattro fiumi, Acheronta, Stige, Flegetonta, et
+Cocito.  Per questo vuole mostrare l'Auttore che, con ci@o sia
+cosa che gli uomini di ciascuna et@a et d'ogni paese, in gran
+parte abbino peccato mortalmente, che di questi loro peccati
+patiscono pena et lagrimano; et non pure le lagrime solamente, ma
+ancora l'anima loro colle lagrime et col pianto insieme vanno
+allo 'nferno, ove sono i dannati a perpetua pena.  Et fanno
+queste lagrime quattro fiumi, com'@e detto: il primo ha nome
+^Acheronta grecae, quod latine dicitur sine gaudio~, ci@o @e senza
+allegrezza; et questo @e vero, per@o che, come gli uomini hanno
+peccato mortalmente, incontanente, compunti, rimangono senza
+allegrezza nell'animo.  Il secondo fiume @e detto ^Stige~, che
+tanto vuole dire quanto ^tristizia~, per@o che gli uomini per
+peccati, com'@e detto, rimasi senza allegrezza, incontanente
+caggiono in tristizia.  Il terzo @e detto ^Flegetonta~, che tanto
+vuole dire quanto ^ardore~, overo ^incendio~; et questo @e che la
+tristizia d@a agli uomini uno incendio di dolore, che
+continuamente gli arde et consuma.  Il quarto @e detto ^Cocito~,
+che tanto vuole dire quanto ^pianto~, per@o che, dopo lo incendio
+del dolore, nasce negli uomini continuo pianto.  Veduto adunque
+questo che di sopra @e narrato, @e da tornare a dare sposizione
+alla lettera.
+
+	|1-3.  Poi che la carit@a del natio loco~: Per@o che
+l'Auttore nel precedente capitolo fu pregato che le foglie, le
+quali erano digiunte da lui, le raunassi a pi@e del suo cesto, qui
+nel presente capitolo, continuando il dire suo di prima, dice che
+raun@o le foglie sparte, per@o che 'l vinse la piet@a del loco
+natio, per@o che fu da Firenze, onde similmente fu l'Auttore.
+
+	|4-6.  Indi venimmo al fine~: Dice che vennono al fine,
+dove si parte il terzo girone dal secondo de' tre gironi
+nominati, ch'@e secondo l'ordine di prima l'ottavo.  |Orribile
+arte~: Orribile, ci@o @e spaventevole a vederla; quanto agli occhi
+de' mortali s'intende.
+
+	|8.  A una landa~: Landa @e vocabolo francesco, @e
+propriamente la via che va lungo alcuno fiume.
+
+	|13.  Lo spazzo era una rena arida et spessa~: Dice che
+lo spazzo, per lo quale andavono, era una rena arida.  |Arida~
+viene da questo verbo ^areo ares~, che sta per ^diseccare~, o per
+^aridire~; et @e detta la rena arida in quanto ella @e asciutta: in
+quanto ella fosse molle, viene da questo verbo ^haereo haeres~
+che sta per ^accostarsi~; et allora si vuole scrivere per ^h~
+^harena~: quando ella @e asciutta senza ^h~, che viene allora da
+quello verbo ^areo~, com'@e detto.
+
+	|14-15.  Non d'altra foggia~: Dice che quella rena era
+fatta come la rena di Libia et di Numidia, per la quale valic@o
+Catone.  Onde egli @e da sapere quando il giovane Tolomeo re
+d'Egitto ebbe fatto uccidere Pompeo et tagliarli la testa, Sesto
+Pompeo et Cornelia si partirono dal mare d'Egitto veggendo morto
+Pompeo, con quella navicella nella quale egli erano andati, et
+con loro compagnia arrivorono in Libia a una isola che si
+chiamava Coronea; et ivi trovarono Igneo et Catone, et altri
+Romani assai, campati della battaglia di Tessaglia; et vedutisi
+volentieri insiemi, come che male novelle avessono, deliberorono
+ancora d'accozzare gente et fare contro a Cesare, principio di
+loro male.  Et perch@e quello mare @e pieno di scogli, et era di
+state quando arrivorono ivi, non volle Catone navicare per quello
+mare pericoloso; onde Igneo et Sesto, et assai altri Romani si
+partirono da Catone et entrorono in loro legni, et presono via
+per mare: Catone et sua compagnia tenne per terra per quelli
+diserti di Libia et di Numidia, nel qual paese non v'ha terra che
+lavorare si possa, per@o ch'@e tutta rena asciutta et arida, et per
+la sua aridezza non v'ha arbore vivo et @e piena di rena; onde
+Catone, dovendo caminare per cos@i aspro paese, conforta i
+cavalieri suoi per fargli pi@u pazienti alla fatica, come scrive
+Lucano con queste parole: <O voi che avete seguitati i miei
+segni, a' quali una salute sola @e piaciuta, di volere morire con
+indomita fronte, componete le vostre menti a grande opera di
+virt@u et a somme fatiche.  Noi andiamo ne' campi sterili et
+secchi luoghi et arsi dal molto sole, et rade acque vi si
+truovono nelle fonti, et pieni di mortali serpenti: duro viaggio,
+per lo quale si conviene ire per conservare la libert@a della
+patria.  La pazienza si rallegra delle cose dure, per@o che sono
+dolci alla virt@u, et le cose oneste sono pi@u liete quando elle
+s'acquistano con gran fatica>.  Et tiensi che quello paese sia
+tanto sterile et renoso, perch@e gi@a fu coperto dal mare; et
+questo si pu@o comprendere, per@o che in quello paese non si trova
+acqua viva, et la rena non @e altro che terra lavata dall'acqua:
+et per questo si pu@o sapere che gli elementi non scemono mai, ma
+lievonsi alcuna volta d'una parte et pongonsi in una altra; et
+per@o si crede che quella acqua, della quale era coperta Libia et
+Numidia, sia oggi altrove.  Trovasi che quando Ercole tagli@o
+quella montagna che @e verso il Ponente, fra Setta et Sibilia,
+ch'@e una aperta bene di spazio di quindici miglia, che l'acqua
+del mare vicino prese per quella la via, et fece il mare
+Mediterraneo, il quale dura infino all'Esponto, e 'l mare Egeo et
+altri bracci di mare; onde allora Libia et Numidia, dove era pi@u
+alto il mare, rimasono scoperte et lasciate dall'acqua.
+
+	|16-18.  O vendetta di Dio quanto~: Per@o che l'Auttore
+distingue le pene come appresso si conter@a, le quali sono date a
+tre maniere di peccatori, come sono dispregiatori di Dio,
+usurieri, et peccatori contro a natura; et queste pene sono
+grandi come si conviene al peccato; per rimuovere da cotali
+peccati gli animi degli uomini, chiama et grida quanto la
+vendetta, ci@o @e la giustizia di Dio, debbe esser temuta; quasi
+voglia dire ^molto.~  Et dice qui |vendetta~, impropriamente
+usando questo vocabolo, per@o che l'opere di Dio sono tanto
+rilevate sopra noi che i nostri sensi nolle possono comprendere,
+se non per vocaboli et per similitudini naturali, come che non
+sieno simili; ma per questo modo se ne pu@o avere alcuna scienzia.
+
+	|19-21.  D'anime innude viddi~: Qui comincia a
+distinguere le pene che avevono i peccatori.
+
+	|28-30.  Sovra tutto il sabbion~: Dice che falde di
+fiamma cadeano sopra questi peccatori, ch'erano innudi, et dice
+essere come falde di nieve non percosse dal vento, che sono
+maggiori, per@o che 'l vento le percuote et divide et falle
+minori.
+
+	|31-36.  Quale Alessandro in quelle parti~: Andando
+Alessandro re di Macedonia in quelle parti calde d'India, per
+combattere col re Ciro di Persia, per la caldezza del sole et
+dell'aere, gli vapori affocati vidde discendere sopra l'oste sua;
+contro alla qual pestilenzia Alessandro provvide, che comand@o
+alla gente sua che scalpitasse quella terra, dove ardeano quelli
+vapori, acci@o che l'uno vapore non si congiugnesse coll'altro a
+rendere maggior caldo.
+
+	|40-42.  Senza riposo mai~: D@a la similitudine a coloro
+che sono in certe danze, che spesso menono le mani, che si chiama
+questa cotal danza ^tresca~ a Napoli et in quel paese.
+
+	|43-45.  Incominciai: Maestro~: Tu vinci ogni cosa, dice
+a Virgilio, fuori che i demonj che ci serrorono le porti alla
+citt@a di Dite; per@o che Virgilio aveva vinti infino a quivi tutti
+i demonj che li avevono spaventati, come dinanzi a parte a parte
+@e stato narrato; et a quelli bisogn@o che l'Agnolo venisse con una
+verghetta ad aprire la porta.  Et questo non vuol dire altro, se
+non che la ragione dimostrativa, la quale s'intende per Virgilio,
+vince ogni cosa fuori che l'ostinazione.
+
+	|46-48.  Chi @e quel grande~: Questi fu Capaneo: onde egli
+@e da sapere che Edippo re di Tebe, come scrive Statio, veggendosi
+dispettare da' figliuoli, et essendosi accorto come egli fu
+ingannato, et tolta per moglie la madre, si disper@o, et in
+presenzia de' figliuoli si trasse gli occhi, et and@o a
+nascondersi in certe solitudini; onde il reame venne nelle mani
+de' figliuoli, ci@o @e di Eteocle et di Polinice: et per@o che il
+reame non parve loro da dividere, feciono questa convegna, che
+l'uno di loro si partisse et stesse uno anno, et in questo anno
+signoreggiasse questo che rimanesse; et poi l'altro tornasse
+l'anno seguente, et quelli ch'era stato uno anno si partisse.  Et
+per@o che Eteocle era il maggiore, rimase a lui il primo anno il
+reame.  Polinice si part@i, et and@o in Grecia a una citt@a che si
+chiamava Argo, la quale signoreggiava Adastra re, il quale
+Adastra ricevette Polinice cortesemente; et saputo chi egli era,
+gli diede per moglie la figliuola: poi, compiuto il termine d'uno
+anno, questi ridimand@o il reame al fratello co' patti ordinati. 
+Il fratello gliel neg@o: onde Polinice richiese le sue amistadi, e
+'l suocero, et poi si mossono di Grecia et vennono verso Tebe, et
+furono sette re.  Il re Adastra, Polinice, Capaneo, del quale
+racconta l'Auttore, et altri quattro re; et essendo costoro ad
+assedio a Tebe, Capaneo, ch'era orgoglioso et superbo,
+combattendo con scale mont@o in sulle mura di Tebe; et incominci@o
+a dire villania a' Tebani, et contro loro Iddii dicendo: <O
+Tebani, ov'@e test@e, Bacco et Ercole vostri Iddii?  che non
+chiamate ch'ellino vi soccorrino?  Ma che dico io?  se Jove
+medesimo ci fosse, non vi poterebbe atare>.  Dicendo queste
+parole, discese da cielo una piova con grandissimi troni, et
+subito una saetta con gran turbine uccise costui l'ultimo d@i
+della sua vita; onde incontanente cadde a terra delle mura.
+
+	|52-57.  Se Jove stanchi~: Dice Capaneo, che con ci@o sia
+cosa ch'elli fosse molto superbo et dispettoso contra agl'Iddii,
+che Giove non poterebbe fare vendetta di lui, s'elli stancasse
+tutti i fabbri suoi.  Onde egli @e da sapere che Vulcano, il quale
+abitava nell'isola di Cicilia, fu detto fabbro di Giove, et gli
+altri fabbri suoi, che generalmente furono chiamati Ciclopi,
+contavono i poeti che quando Giove voleva fulminare alcuno per
+offesa commessa, ch'egli richiedea questi suoi fabbri che
+fabricassono le saette; et questi fabbri andavono nell'isola di
+Cicilia, et in altre sette isole d'intorno, ove ha continuamente
+fuoco, et ivi a quelle fiamme fabricavono le saette.  Et fingeono
+questo i poeti, per@o che Mongibello, ci@o @e Etna, getta maggior
+fuoco che veruna altra parte che si trovi; et per@o diceono che
+ivi si fabricavono le saette di Giove.  Et @e cosa mirabile di
+quello monte Vulcano, che dall'una parte del monte @e tutto arso,
+pieno di queste pietre che noi chiamiamo pomici; et l'altra parte
+del monte @e piena di giardini et di fontane.
+
+	|58-60.  S@i come fece alla pugna~: Egli @e da sapere che
+Saturno fu padre di Giove; et @e vero che Nembrot, che fece la
+gran torre di Babel, ebbe molti figliuoli, il primo ebbe nome
+Crete, che fu il primo re di Grecia: il suo regno incominci@o
+nell'isola di Creti; et per lui fu quell'isola dinominata, ch'@e
+verso Roman$ia.  Appresso a lui fu il re Celus suo figliuolo. 
+Questo Celus ebbe pi@u figliuoli, che 'l primo fu Saturno, che
+rimase doppo la morte del padre solo con uno suo fratello nome
+Titanio.  Questi furono in concordia che il reame di Creti
+rimanessi un tempo all'uno, et uno tempo all'altro.  Rimaso
+Saturno nel reame, et compiuto il termine che vi dovea stare, il
+fratello raddimandava il reame.  Saturno, per consiglio et della
+madre et delle sirocchie, gliel neg@o et nol volle rendere: il
+fratello, veggendosi mal parato, fue in concordia con lui che
+tutti i figliuoli che nascessono a Saturno si dovessono uccidere
+et essergli rappresentati; et di Saturno fosse il reame mentre
+ch'egli vivesse: et questo facea, perch@e egli avea molti
+figliuoli: volea che Saturno uccidesse i suoi figliuoli, s@i che,
+dopo la morte di Saturno, rimanesse il reame a' suoi.  Avvenne
+che, doppo la concordia, Saturno ebbe d'Opis sua moglie Jove,
+Nettuno, et Plutone; et come egli erono nati gli mandava in qua
+et in l@a, et celavagli al fratello, et non rappresentava, se non
+le femmine, Junone et l'altre due.  Onde il buon uomo, accortosi
+del fatto, s'adir@o, et con quello sforzo che fare pot@e venne
+contro a Saturno.  Saturno, atato da Jove suo figliuolo,
+finalmente combattendo uccise il fratello et sconfisse la sua
+gente, et rimase signore.  Et avuto Saturno responso da' suoi
+$auguri che Giove suo figliuolo il dovea cacciare del reame,
+ordinava di fare morire Giove.  Giove, accortosi, cacci@o Saturno
+con suo sforzo fuori del reame, et Giove rimase signore.  Dicono
+i poeti che della battaglia che fu tra Saturno et il fratello,
+che del sangue che si sparse si bagn@o la terra et nacquonne
+giganti; et questi giganti vogliono intendere i poeti i figliuoli
+del fratello di Saturno et altri loro seguaci, non grandi di
+corpo, ma di potere.  Si dee intendere questi cotali giganti
+raddimandavano il reame a Giove, cbe toccava a loro fra' patti
+fatti tra Saturno et il loro padre: et questo @e quello che dicono
+i poeti, che i giganti combatterono con Jove per torgli il cielo,
+ci@o @e il reame, et raunoronsi in uno luogo che si chiama Flegra,
+onde fu ivi gran battaglia tra loro: onde Giove colle saette et
+altri generi d'arme gli sconfisse et vinse, et rimase signore. 
+Et questo @e quello che tocca l'Auttore.
+
+	|76-78.  Tacendo divenimmo~: Trovorono che usciva fuori
+della selva uno fiumicello rosso com'@e scritto nel testo.
+
+	|79-81.  Quale del Bulicame esce~: Fatto dice che era il
+fiumicello come il ruscelletto, il quale le peccatrici che stanno
+ivi presso per lavare loro panni volgono in cotali viottoli, come
+appare agli occhi, chi va in quello luogo, il quale ruscelletto
+esce del bagno di Viterbo detto Bulicame, ci@o @e bollicame.
+
+	|85-89.  Poscia che noi entrammo~: A differenzia, acci@o
+che ne sia schiusa quella porta di Dite, la quale fu serrata
+all'Auttore et a Virgilio, dice di quella dello 'nferno
+superiore, la quale Cristo spezz@o quando ne trasse i santi Padri. 
+|Notabile com'@e il presente rio~: Per le cose che appresso si
+diranno nel presente capitolo, che sono maravigliose et di gran
+sentenzia, dice Virgilio all'Auttore, che poi ch'elli fu
+all'inferno non vidde cosa pi@u notabile.
+
+	|92-93.  Che mi largisse il pasto~: Poi che Virgilio gli
+ha dato colle parole sue desiderio di sapere, ch'egli gli dia
+pasto, ci@o @e materia la quale sazj suo desiderio.
+
+	|94-96.  In mezzo mar~: In mezzo il mare @e uno paese, il
+quale @e disabitato et non coltivato, ci@o @e Creti, il quale paese
+fu signoreggiato da Saturno, come che Saturno non s'intitolassi
+re di Creti, ma intitolossi re d'Olimpo, ch'@e uno monte altissimo
+et grande; et similmente Giove fu re d'Olimpo, ch'@e uno monte
+altissimo et grande, et per@o @e chiamato il cielo Olimpo da'
+poeti.  Sotto questo Saturno dice che fu il mondo casto, ci@o @e
+che gli uomini vivevono castamente, non tanto d'astenersi dal
+peccato della libidine, ma erono gli uomini casti, ci@o @e senza
+veruna mala cupidit@a d'acquistare, ma avevono l'appetito loro
+diritto alla virt@u.
+
+	|97-99.  Una montagna v'@e~: Questa montagna fu in Creti
+chiamata Ida, la quale era adorna et piena d'$albori et di
+fontane: ora @e non coltivata et disabitata et guasta.
+
+	|100-102.  Rea la scelse gi@a~: Rea fu moglie di Saturno;
+et per@o che patti erano stati tra Saturno et Titanio suo
+fratello, che tutti i fanciulli maschi che nascessono a Saturno,
+come innanzi @e stato detto, egli gli dovesse fare morire, Rea,
+partorito Jove, Plutone et Nettuno, non gli rappresent@o, ma
+occultogli, et mandogli a notricare in questa montagna d'Ida, et
+tenevavi gente che gridavono et bussavono, acci@o che niuno
+potesse sentire il pianto de' figliuoli.
+
+	|103-105.  Dentro dal monte~: Dice che in su questo monte
+sta uno uomo vecchio, et guarda Roma, ci@o @e verso il suo fine,
+per@o che questo vecchio, com'@e detto, @e a significare il corso
+dell'etadi.
+
+	|106.  La testa sua @e di~: Ci@o @e la prima et@a, la quale
+dicemmo essere simile all'oro.
+
+	|112-117.  Ciascuna parte, fuor che l'oro~: Che fu il
+vivere senza fine, com'@e detto: ciascuna altra parte della statua
+era fessa, et per questo fesso gettono lagrime, le quali lagrime
+raccolte insieme forano la grotta, ci@o @e quella parte della
+montagna, et vanno cos@i all'inferno per quella, ci@o @e per una
+doccia stretta.  |Doccia~ @e detta da questo verbo ^duco ducis~,
+per@o ch'ella conduce et mena acqua da uno a uno altro luogo. 
+|Fanno Acheronta~: Queste lagrime fanno quattro fiumi, Acheronta,
+Stige, Flegetonta et Cocito.
+
+	|118-120.  Infin l@a ove pi@u~: Ci@o @e col@a dove pi@u non si
+scende, ci@o @e nel fondo d'inferno; et Cocito @e ivi: il vederai.
+
+	|121-129.  Et io a lui: se 'l presente~: Dice l'Auttore a
+Virgilio: Se questo rigagno (rigagno @e detto da ^Rigo rigas~ che
+sta per ^rigare~), viene dal mondo, come nollo abbiamo noi
+trovato?  Et Virgilio rispose: Tu sai che, come noi siamo molto
+ascesi pure a mano sinistra, et questo inferno @e tondo, come
+detto @e, non se' tu ancora venuto per tutto il cerchio, s@i che,
+se cosa nuova apparisse, non ti maravigliare.
+
+	|130-132.  Et io a lui~: Chiaro appare.
+
+	|134-135.  Rispose: ma il bollore~: Virgilio,
+maravigliandosi dell'Auttore, risponde et dice: Per te medesimo
+dovevi immaginare, quando noi nel XIJ+o~ capitolo trovammo in
+quello fiume del sangue bogliente Azzolino da Romano, Attila, et
+quei tiranni, che quello era Flegetonta, per@o che 'l bollor del
+sangue tel dovea mostrare, per che tanto vuole dire Flegetonta
+quanto Incendio.
+
+	|136-138.  Lete vedrai~: Lete @e uno fiumicello al fine
+del purgatorio, dove vanno l'anime a lavarsi, poi che sono
+purgate, il quale dice che l'Auttore trover@a ancora.
+
+	|139-142.  Poi disse: omai~: Poi disse: Egli @e tempo di
+mutare luogo: gli argini che non sono bagnati fanno una via che
+non @e arsa; et per quella il conforta che vada dirietro a lui. 
+Et cos@i ha fornito il capitolo.

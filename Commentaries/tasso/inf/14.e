@@ -1,0 +1,281 @@
+	|1-2.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|3.~ |(ed.  Rosini)~
+Questo Fiorentino non @e nominato da lui: e per quale cagione?  [Da 
+Fino]
+
+	|6.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|8.~ |(ed.  Rosini)~
+Landa.  [richiamo marginale] [Sessa]
+
+^Landa~, pianura.  [Da Fino]
+
+	|(ed.  Celani)~
+Dico, che arrivammo ad una ^landa,~
+	^landa~
+
+	|9.~ |(ed.  Rosini)~
+^Ogni pianta rimuove~, senza alberi.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+A randa a randa.  [richiamo marginale] [Sessa]
+
+^A randa a randa~, a canto.  [Da Fino]
+
+	|(ed.  Celani)~
+Quivi fermammo i piedi ^a randa a randa.~
+
+	|14.~ |(ed.  Rosini)~
+^Colei~, a cosa inanimata.  [Giolito]
+
+^Che colei~.  ^Colei~, a cosa inanimata.  [Sessa]
+
+	|(ed.  Celani)~
+Non d'altra foggia fatta ^che colei,~
+	^colei a cosa inanimata~
+
+	|15.~ |(ed.  Rosini)~
+Quando torn@o di Libia.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+^Supin giacea~: alcuna gente ^supino~.  [Giolito]
+
+Nota ^Supia~.  [Sessa]
+
+	|(ed.  Celani)~
+^Supin~ giaceva in terra alcuna ^gente~;
+	^alcuna gente supin~
+
+	|29.~ |(ed.  Rosini)~
+Dilatate falde.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Pioven di fuoco ^dilatate falde~,
+
+	|30.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+Scalpitar.  [richiamo marginale] [Sessa]
+
+^Suolo~, terra.  [Da Fino]
+
+	|(ed.  Celani)~
+Perch'e provide a ^scalpitar~ lo suolo
+
+	|(ed.  Rosini)~
+Stingueva.  [richiamo marginale] [Sessa]
+
+^Era solo~, separato.  [Da Fino]
+
+	|37.~ |(ed.  Rosini)~
+Eternale.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Tale scendeva l'^eternale~ ardore:
+
+	|40.~ |(ed.  Rosini)~
+Tresca.  [richiamo marginale] [Sessa]
+
+	|42.~ |(ed.  Rosini)~
+^Iscotendo~.  L'^i~ si suole porre innanzi al ^sc~, quando precede 
+alcuna consonante, ma qui @e posto senza questa necessit@a.  [Sessa]
+
+^Fresca~, nuova.  [Da Fino]
+
+	|(ed.  Celani)~
+^Iscotendo~ da se l'arsura fresca.
+	^iscotendo~
+
+	|44.~ |(ed.  Rosini)~
+Perch@e bisogn@o l'Angelo in ajuto.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+Uscinci.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Ch'a l'intrar de la porta incontro ^uscinci,~
+
+	|47.~ |(ed.  Rosini)~
+^Giace dispettoso e torto~.  Elocuzione.  Capaneo.  [Sessa]
+
+	|(ed.  Celani)~
+Lo incendio, et giace ^dispettoso et torto~,
+
+	|48.~ |(ed.  Rosini)~
+^Maturi~, lo renda umile.  [Da Fino]
+
+	|(ed.  Celani)~
+S@i, che la pioggia ^non par che 'l maturi?~
+
+	|51.~ |(ed.  Rosini)~
+Capaneo.  [Da Fino]
+
+	|(ed.  Celani)~
+Grid@o; ^qual i fu' vivo tal son morto.~
+
+	|53.~ |(ed.  Rosini)~
+^La folgore~, femminino.  [Sessa]
+
+	|55.~ |(ed.  Rosini)~
+^A muta a muta~, dandosi luogo l'un l'altro.  [Da Fino]
+
+	|(ed.  Celani)~
+O s'egli stanchi gli altri ^a muta a muta~
+
+	|58.~ |(ed.  Rosini)~
+In Tessaglia.  [Da Fino]
+
+	|59.~ |(ed.  Rosini)~
+Di tutta sua forza, ^di~, non ^con~.  [Giolito]
+
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+Et me ^saetti di~ tutta sua forza,
+	^di, non con~
+
+	|59-61.~ |(ed.  Rosini)~
+^Di tutta forza e di forza~ in rime accordato.  [Sessa]
+
+	|60.~ |(ed.  Rosini)~
+Non muterei mai natura.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Allor il duca mio~.  Plo.  [Giolito]
+
+	|(ed.  Celani)~
+Alhora 'l Duca mio parl@o ^di forza~
+
+	|62.~ |(ed.  Celani)~
+Tanto, ch'i non l'avea s@i forte udito:
+	^elo.~
+
+	|67.~ |(ed.  Rosini)~
+Miglior labbia.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Poi si rivols'a me con miglior ^labbia,~
+
+	|69.~ |(ed.  Rosini)~
+^Assiser Tebe~, scherzi.  [Giolito]
+
+Assiser Tebe.  [richiamo marginale] [Sessa]
+
+^Assister~, assediarono.  [Da Fino]
+
+	|(ed.  Celani)~
+Ch'^assisser~ Thebe, et hebbe, et par ch'egli habbia.
+
+	|70.~ |(ed.  Rosini)~
+^Disdegno~, dispregio.  [Sessa]
+
+	|(ed.  Celani)~
+Dio in dispregio; et poco par che 'l pregi.
+	^scherzi~
+
+	|72.~ |(ed.  Rosini)~
+^Fregi~, ornamenti.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+Arsiccia.  [richiamo marginale] [Sessa]
+
+	|76.~ |(ed.  Rosini)~
+Spiccia.  [richiamo marginale] [Sessa]
+
+	|79.~ |(ed.  Celani)~
+Quale del ^Bulicame~ esce 'l ruscello,
+
+	|80.~ |(ed.  Rosini)~
+In Viterbo, che giugne vicino al lago delle meretrici.  Questo non pare 
+che si verifichi.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Lici~, quivi.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+Sogliare.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Lo cui ^sogliare~ a nessun @e serrato,
+
+	|90.~ |(ed.  Rosini)~
+Ammorta.  [richiamo marginale] [Sessa]
+
+^Ammorta~, spegne.  [Da Fino]
+
+	|(ed.  Celani)~
+Che sopra se tutte fiammelle ^ammorta.~
+
+	|92.~ |(ed.  Rosini)~
+^Perch@e~, onde.  [Sessa]
+
+	|94.~ |(ed.  Rosini)~
+^Guasto~, disfatto.  [Da Fino]
+
+	|95.~ |(ed.  Rosini)~
+Creta.  [richiamo marginale] [Sessa]
+
+	|96.~ |(ed.  Rosini)~
+^Mondo casto~.  ^Casto~ non par convenga all'et@a d'allora, nella quale 
+si viveva licenziosamente.  [Giolito]
+
+Casto.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Sotto 'l cui rego fu gi@a 'l ^mondo casto.~
+	^casto non par che convenga @a l'et@a del oro nella quale si viveva 
+licentiosamente,~
+
+	|99.~ |(ed.  Rosini)~
+Vieta.  [richiamo marginale] [Sessa]
+
+	|100.~ |(ed.  Rosini)~
+^Rea~, moglie di Saturno.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^Speglio~, specchio.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+Alla forcata.  [richiamo marginale] [Sessa]
+
+	|111.~ |(ed.  Celani)~
+Et sta 'nsu quel, pi@u che 'n su l'altro, ^eretto~,
+
+	|113.~ |(ed.  Celani)~
+D'una fessura, che lagrime ^goccia,~
+
+	|115.~ |(ed.  Rosini)~
+^Diroccia~, diffonde.  [Da Fino]
+
+	|(ed.  Celani)~
+Lor corso in questa valle si ^diroccia,~
+
+	|116.~ |(ed.  Rosini)~
+Flegetonta.  [richiamo marginale] Acheronte, ove Caron varca le anime; 
+Stige, ove sono puniti i peccatori.  Flegetonte, questo dall'onde 
+rosse; Cocito, ove si puniscono i traditori.  [Sessa]
+
+	|(ed.  Celani)~
+Fanno Acheronte, Stige, et ^Flegethonta:~
+
+	|123.~ |(ed.  Rosini)~
+Vivagno.  [richiamo marginale] [Sessa]
+
+^Vivagno~, orlo.  [Da Fino]
+
+	|(ed.  Celani)~
+Perch@e ci appar pur a questo ^vivagno?~
+
+	|131.~ |(ed.  Rosini)~
+Let@eo.  [richiamo marginale] [Sessa]
+
+	|138.~ |(ed.  Rosini)~
+Pentuta.  [richiamo marginale] [Sessa]
+
+	|140.~ |(ed.  Rosini)~
+Diretro.  [richiamo marginale] [Sessa]
+

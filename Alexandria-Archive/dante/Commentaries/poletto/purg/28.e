@@ -1,0 +1,1976 @@
+	|Nota~ Divenuto il Poeta padrone di s@e stesso, non altra cura lo
+accende che quella di visitare la divina foresta che gli si
+stendeva dinanzi, certo sospinto da un'intima voce di affrettare
+cos@i l'istante dell'incontro con Beatrice.  Nella selva selvaggia
+egli entr@o di notte mentr'era ^pien di sonno~, trattovi dal canto
+delle sirene (^Purg.~, XXXI, 45; cf. XIX, 19) cio@e seguendo
+disordinatamente i bene caduchi (^Purg.~, XXXI, 34-35), smarrita
+la coscienza di s@e stesso; nella selva, ch'abbiam dinanzi, egli
+entra col Sole in fronte, colla coscienza di s@e (e ora s'era
+^trovato~ davvero, cf. ^Inf.~, I, 2), coll'anima purificata dalla
+penitenza, in tutta la svegliatezza dell'intelletto, in tutta la
+sanit@a dell'arbitrio, e perci@o liberissimo.  E come
+manifestazione dell'anima rinobilitata, a cui @e seguace la
+letizia del cuore (e poteva or ridire con pi@u verit@a il verso
+della ^Vit. N.~, {Paragraph.} 13: ^Tutti li miei pensier parlan
+d'amore~), la poesia ora si veste di pi@u vivi colori, e quasi
+sfolgora, ma di luce che non abbarbaglia, ma tale che fa pi@u
+potente l'occhio che la contempla.  Con ragione disse il Minich
+(^sulla Matelda~ ecc.): <Insigne tra i pi@u bei Canti della Div.
+Commedia @e il XXVIII della seconda Cantica.>  E il Giuliani:
+<L'arte umana non saprebbe vantare alcun lavoro, che vinca di
+perfezione questa descrizione (^del Paradiso Terrestre~).  E il
+Gioberti: ^Canto di somma dolcezza, a cui forse non giunse lo
+stesso Petrarca~; e questo lo sapevo anch'io.
+
+	|1-6.~  Notati dall'Alfieri.  |Vago~; ha pi@u intensit@a di
+^desideroso~ (cf. ^Inf.~, VIII, 52); e s@i vivo desiderio era in
+lui per le cose belle, che Virgilio gli aveva promesso (^Purg.~, 
+XXVII, 133 e segg.).  -- |Cercar~; osservare attentamente, 
+esaminare a parte a parte (cf. ^Inf.~, I, 84; XXI, 124; XXXII, 
+59).  -- |Divina~; perch@e piantata da Dio stesso (^Genes.~, II, 
+8), e perch@e da Lui data per ^nido~ all'uomo, acci@o ne godesse il
+bene come caparra della felicit@a eterna (vv. 77 e 92-93).  --
+|Spessa~; folta (v. 108).  -- |Viva~; perch@e ^vivaci e verdi
+erano~ i rami di quegli arboscelli (v. 36; ^Purg.~, XXIV, 103;
+XXIV, 35).  -- |Temperava~ ecc.; l'ombra perpetua (v. 32) di
+quella foresta rendeva men vivi i raggi del sole, onde il Poeta
+meglio poteva contemplare quelle bellezze.  -- |Il nuovo giorno~;
+il nuovo Sole (^Purg.~, XIX, 39): e qui l'occhio pu@o vagheggiare
+a suo senno, e per esso esultarne l'anima; e tosto seguir@a
+l'^olire~ del suolo e l'^aura dolce~ {v.7}; si noti questo
+ingresso con queste circostanze, in opposizione all'uscir del
+Poeta dall'^aura morta, che gli avea contristato gli occhi e il
+petto~ (^Purg.~, I, 17-18).  -- |Senza.~.. |aspettar~ ecc.; a mio
+talento senza pi@u attendere ^n@e dir n@e cenno~ da ^Virgilio~
+(^Purg.~, XXVII, 129).  -- |La riva~; l'orlo, l'estremit@a di
+quella pianura, che appunto moriva all'ultimo gradino della
+scala, sulla quale i Poeti ora si trovavano (cf. ^Purg.~, XXVII, 
+125).  -- |Prendendo~ ecc.; avviandomi, mettendomi ecc.; (cf.
+^Purg.~, I, 108 nel commento).  -- |Lento lento~; @e proprio di
+chi tutto considera e ha l'anima ammirata alle bellezze, che lo
+circondano; <fra quelle delizie dice il Cesari, non potea aver
+voglia di correre.>  -- |Oliva~; olezzava mandava fragranze.  Il
+Tommaseo per la voce ^olire~, ricorda quello del Boccaccio
+(^Decam.~, g. II, n. 5): ^La camera di rose di fiori d'aranci e
+d'altri odori tutta oliva~: a me piace rammentare per l'idea i
+due versi del Nostro (^Purg.~, XXIV, 146-147).
+
+	|7-12.~  Notati dall'Alfieri.  |Un'aura~ ecc.; essendo il
+Poeta volto ad oriente (cf. ^Purg.~, XXVII, 133), l'|aura~ veniva
+da quella plaga (cf. vv. 10-12), e ne vedremo anche la ragione
+(cf. v. 104); -- |dolce~, perch@e tutta impregnata d'olezzi (cf.
+^Dizionario Dantesco~, alla voce Ora, {Paragraph.} 111). --
+|Senza mutamento avere~ ecc.; invariabile, sempre d'un modo nel
+suo alitare; dunque non a buffi, perch@e non soggetta a
+pertubazioni (cf. v. 105 e segg.; ^Purg.~, XXI, 40-57).  Il
+Tommaseo: <A molti de' moderni poeti nobilissimi questa frase
+parrebbe prosaica.>  Su tale immutabilit@a di quest'aria scrive
+l'Antonelli: <Per quello che dir@a poi, l'atmosfera rotava col
+cielo da levante a ponente, come se fosse d'un pezzo o una massa
+solida; il perch@e le molecole aeree serbavano sempre fissa la
+reciproca loro posizione, salvo l'accidentale e momentaneo
+spostamento per l'incontro di qualche oggetto resistente come qui
+per la presenza di un corpo umano sottoposto ancora alla legge
+dell'impenetrabilit@a, e per l'ostacolo d'una fronzuta foresta. 
+L'aria dunque si moveva, ma senza avere mutamento in s@e stessa, 
+cio@e senza rimescolamento delle sue particelle tra loro, come
+avviene per il contrasto delle correnti in bassa regione, 
+allorch@e le @e rotto il suo moto circolare uniforme da qualche
+parte o per qualche cagione, e si generano i venti propriamente
+detti.  @E da avvertire che il Poeta suppone implicitamente, che
+l'aria sia un corpo grave o pesante; perch@e, sebbene in quella
+grande altura fosse purissima e sottilissima, e quindi non
+contenesse il secco vapore suscitatore di vento, le attribuisce
+la potenza di ferire, cio@e di percuotere, e piegare le fronde
+degli alberi dalla parte dove il santo monte gitta ombra, cio@e a
+ponente; perch@e il sole spunta a levante, e poi girando ivi per
+tramontana, vi fa girar l'ombra per mezzod@i, sicch@e solo la prima
+ombra @e a occidente, per dove si fa il movimento delle sfere
+celesti, a tenore delle dottrine tolemaiche.>  -- |Non di pi@u
+colpo~ ecc.; con un soffio non pi@u forte ecc.  -- |Per cui~; pel
+qual soffio dell'|aura dolce~ (e badino i giovani di non credere
+esser questa una forma avverbiale, come @e l'abuso moderno di
+certi scrittori).  -- |Tremolando~; cf. ^Purg.~, I, 117, nel
+commento.  -- |Pronte~; obbedienti, lievi a quel soffio; qui
+tutto @e snellezza e vita, anco la frase.  Fa rivenire alla mente
+l'innarrivabile similitudine, che il Poeta usa altrove (^Par.~, 
+XXVII, 85-86).  -- |Piegavano~ ecc.; verso occidente.  --
+|Santo~; e perch@e sede prima dell'umana schiatta innocente (v.
+142); e perch@e sede ora di quell'anime sante che coll'^empir dove
+colpa vuota~ (^Par.~, VII, 83), la primitiva innocenza
+racquistano per andarsene a Dio (cf. ^Purg.~, XIX, 91-92).
+
+	|13-21.~  Notati dall'Alfieri.  Il Cesari: <Perch@e questo
+piegare e tremolar delle frasche @e cosa molto leggiadra e
+piacevole, e Dante si dimora anche un poco in questa pitturetta
+per fartela entrare pi@u dentro l'anima, abbellendola di
+quest'altra circostanza gioconda: Su per gli alberi erano mille
+augelletti cantando.  Questo tremolare e piegare delle foglie, se
+fosse molto sarebbe sconciata la musica, essendone sturbati gli
+uccelli, o facilmente scosse dai rami.  No: le foglie coi rami
+non erano agitate e sbalzate troppo su e gi@u: ma s@i mollemente, 
+che gli uccelli senza paura si lasciavano menare dal vento con
+tutti i rami, senza interrompere la melodia.>  -- |Non per@o~
+ecc.; non per@o quelle fronde, quei rami, si piegavano tanto, non
+erano |s@i sparte~ dal loro essere dritto (dalla loro posizione
+naturale), che ecc.  -- |Lasciasser d'operare~; interrompessero. 
+-- |Lor arte~; i lor canti.  -- |Ma~; senza punto esserne
+disturbati, impauriti.  -- |#Ore~ (non ^ore~); il ^flamina prima~
+(^Aen.~, X, 95); e cos@i @e richiesto dal ^ricevere~ (e il Tommaseo
+cita: ^Georg.~, III: ^exceptant.~.. ^auras~; Sap., VII, 3: ^natus
+accepi communem aerem~); e qual costrutto si caverebbe intendendo
+le ^prime ore del giorno~?  E |ore~ per ^aure~ anche nel ^Conv.~, 
+II, 1.  -- |Tenevan bordone~ (cf. v. 108, nel commento); facevan
+conserto, accompagnavano, facevano collo stormire il
+contrabbasso; |bordone~, osserva il Blanc, @e il basso
+fondamentale o continuo (<facevano ^tenore~ o il ^contrabbasso~;
+dice il Giuliani, ma parmi una svista).  -- |Rime~; ho notato
+altrove (cf. ^Inf.~, XIII, 48; XXXI, 1; ^Purg.~, XXIV, 50) come
+^rima~ valga discorso, parola, verso, in genere; ebbene, e la
+voce degli uccelli; che @e il loro discorso, non diciam noi
+^canto~? e questo ^canto~ @e il loro ^verso~, la loro ^rima~; e
+Virgilio (^Georg.~, IV, 514), dice che l'usignuolo rinnova il
+^miserabile carmen~ (che risponde ai ^tristi lai~ dell'Allighieri
+per quanto ivi dice, ^Purg.~, IX, 13-15).  E vi consuona il detto
+popolare: <Ogni uccello fa il suo ^verso.~  Il Cesari: <Tutto @e
+qui allegria; il venticello, il tremolar delle frasche, gli
+augelletti che giubilano canterellando, e beendosi il nettare di
+quelle prime aurette (|#ore~, ^aure~, leggo io).  E quel
+|bordone~, che agli augelli tengon le foglie! fanno conserto. 
+Qual altro poeta imparadis@o mai il lettore cos@i?>  -- |Tal~, 
+invariato |bordone~, suono o mormorio, facevano quelle frondi, 
+quale |si raccoglie~, scorre di ramo in ramo per la Pineta ecc. 
+Il Tommaseo (citando ^Aen.~, X: ^ceu flamina prima Cum deprensa
+fremant silvis~; e ^Georg.~, I: ^nemorum increbrescere murmur~)
+scrive: <il ^raccogliere~ ritrae e quasi computa i piccoli
+elementi del suono che poi si fa tutto un rumore.>  Il Venturi
+(^Similit.~ ecc., 60) mette opportunamente tra loro a riscontro i
+seguenti passi: Ovidio, ^Metam.~, XV, 603-605:
+
+     Qualia succintis, ubi trux insibilat curus, 
+     Murmura pinetis fiunt, aut qualia fluctus
+     Aequorei faciunt etc.
+
+Il Poliziano, ^Orfeo~, I:
+
+     N@e quando soffia un ventolino agevole
+     Fra le cime dei pini, e quelle rombano.
+
+L'Ariosto, ^Orl. Fur.~, XIV, 112:
+
+                 qual nelle selve udir si suole, 
+     Se avvien che tra le fronde il vento spiri;
+
+e quindi scrive: <Dante, meglio di tutti, dice che quel mormorio
+si raccoglie di ramo in ramo, con che esprime quasi ogni minimo
+suono di fronda prima che si faccia tutto un rumore.>  Ancor pi@u
+preciso e acuto il Cesari: <Fa giocar variamente Dante questo
+verbo ^Raccogliere~; e vari usi n'abbiam gi@a notati: qui mi
+sembra mirabile questo ^raccogliersi~ del suono di ramo in ramo, 
+ed @e, credo, quello che risulta o si forma, ovvero si vien
+distendendo dallo sbattersi che fanno insieme le frasche e le
+pine, cominciando da' pi@u alti rami (dove pi@u puote il vento) e
+venendo via via ai pi@u bassi; ovvero del percuotersi, lungo la
+selva, i primi alberi coi secondi, e via via; al trarre che fa lo
+scilocco, somigliante ad un piacevole e cupo stormire.>  -- |La
+pineta~; il famoso bosco di pini, ricordato anche dal Boccaccio
+(^Decam.~, g. 10, n. 8): <Andossene a un luogo fuor di Ravenna
+forse tre miglia, che si chiama, Chiassi...; s@e medesimo
+trasport@o infino nella Pigneta.>  ^Carlo Yriarte~ (^Da Ravenna ad
+Otranto~) scrisse: <Una tradizione rispettata vuole che Dante, 
+verso il 1319, abbia chiamato Giotto a Ravenna, e che, 
+accompagnati dai loro discepoli e da alcuni poeti, solessero
+passeggiare lungo la riva del canale, verso la parte ombrosa, 
+detta tuttora ^Viale de' Poeti.~..  La |Pineta~, come la
+chiamano, si stende dalle porte della citt@a fino al mare.>  E
+alla ^pineta di~ Chiassi accennava Giovanni Del Virgilio, quando
+all'amico Allighieri scriveva (^Eglog.~ respons., vv. 11-12):
+
+     Littoris adriaci... umbra, 
+     Qu#a densae longo praetexunt ordine pinus
+     Pascua etc.
+
+-- |Lito di Chiassi~; quel tratto della spiaggia adriatica, non
+molto lungi da Ravenna, piantata da un gran bosco di pini. 
+L'opinione emessa dal Giuliani nel ^Propugnatore~ (vol. II, P.
+II, pag. 141), doversi leggere ^Classi~ e non |Chiassi~; doveva
+esser vecchia nella sua mente, dacch@e vecchio @e il carattere
+della postilla, che trovo appi@e di pagina del noto esemplare
+della Div. Commedia, e che qui trascrivo: <Credo per fermo che la
+vera lezione @e ^Classi~, perch@e non si trova sul ^lido Adriano~
+in antico alcun paese n@e castello chiamato |Chiassi~, ma ^Classi~
+e ^Classe~, che ora @e diroccato, bench@e vi rimanga ancor il
+monastero Classense.  D'altra parte Dante adopera la voce
+^Classe~ (^Par.~, XVIII, 147) proprio nel significato di
+^flotta~, da una delle quali (quella di Narsete) prese il nome
+quel ^castello~ e la terra circonvicina.>  Per@o a buon diritto
+osserva lo Scartazzini, che se |Chiassi~ hanno tutti i Codici, e
+|Chiassi~ dice il Buti (e |Chiassi~ sentimmo dal Boccaccio), @e
+ben da credere che |Chiassi~ e non ^Classi~ e scriverse Dante e
+si dicesse a' suoi tempi.  @E giusto per altro avvertire che il
+Giuliani, nella sua edizione della D. Commedia, s'@e attenuto alla
+lezione comune.  -- |Quand'Eolo~ ecc.; quando Eolo, dio dei venti
+(cf. ^Aen.~, I, 52 e segg.) |discioglie~, sprigiona (dove lo
+tiene avvinto cogli altri venti) il vento |scirocco.~  Il vento
+|scirocco~, osserva l'Antonelli, spirando tra ostro e levante
+(detto dagli antichi anche Euro e Votturno), investe quasi
+direttamente quella selva di pini.
+
+	|22-27.~  Notati dall'Alfieri.  |Gi@a~ ecc.; bench@e
+camminasse ^lento lento~ (v. 5), tuttavia s'era di tanto
+addentrato nella selva, che per quanto guardasse in dietro, non
+vedeva pi@u ^la riva~ (v. 4), ond'era partito.  -- |Trasportato~
+ecc.; il Cesari: <Non dice: Io mi era passo passo tanto
+innoltrato nella selva ecc.; egli avrebbe detto il medesimo, ma
+con una bellissima particolarit@a meno, cio@e, che pel sommo
+diletto, egli non s'era accorto del tanto procedere che avea
+fatto; e ci@o egli fa intendere dicendo, che non egli i piedi, ma
+i piedi avevano trasportato lui, s@i che l'azione del camminare la
+d@a ai piedi soli, perch@e l'animo suo in tante bellezze tutto
+occupato, era altrove, e non ci avea posto mente.>  E non guari
+differente @e la forma usata anche altrove (^Purg.~, XXIV, 131): e
+consimile il concetto a quanto disse nell'^Inf.~, IV, 13-15.  --
+|Antica~; Virgilio (^Aen.~, VI, 179): ^itur in antiquam silvam~
+(parlando d'una selva ne' pressi di Cuma); dunque ben pi@u largo
+il senso qui, cioe |antica~ pi@u che non @e antica l'umanit@a. 
+L'^Anon. Fior.~: <Chiaro appare, come fu fatto quello luogo ^a
+principio mundi~; et per@o dice |selva antica.~>  -- |Rivedere
+onde~ ecc.; il luogo, il punto, dal quale ero entrato
+(<|m'entrassi~ per ^mi fossi entrato~: scambiamento a' prosatori
+e poeti nostri assai usitato, nota il Cesari.  Anche Orazio ha, 
+^Non hoc ferrem calius juventa, Consule Planco~; ch@e ^tulissem~
+portava il senso>).  -- |Pi@u andar~; l'andar pi@u oltre.  -- |Mi
+tolse~; m'imped@i (cf. ^Inf.~, II, 120).  -- |Rio~; ruscello; @e
+questo il fiume Lete (cf. v. 130).  Perch@e, come vedremo pi@u
+innanzi, @e questo il fiume che ^toglie la memoria dei peccati~, @e
+ben giusto che il Poeta nomini la |sinistra~; alla ^destra~, 
+rispetto al centro della selva, e alla fontana onde scaturisce, 
+v'ha l'Euno@e (cf. vv. 124-132); innoltre, avendo il Poeta la
+faccia rivolta ad oriente, e il |rio~ andando a |sinistra~, vuol
+dire che scorreva da sud a nord.  -- |Picciole onde~; perch@e non
+era largo neppur tre passi (v. 70).  -- |Piegava~ ecc.; Virgilio
+(^Aen.~, IV, 19): ^tenuis fugiens per gramina rivus.~  Il
+^piegare~, osserva il Cesari, dice il colpo molle e dolce di
+queste piccole onde.  -- |Uscio~; nacque; ^uscito~ per ^nato~ o
+^prodotto~, nota il Giuliani, e proprio nella significazione che
+ben s'adatta al luogo presente, s'usa ancor oggid@i in Toscana (si
+legga la terzina, proprio fatta in Paradiso, ^Par.~, XXX, 
+109-111).
+
+	|28-33.~  Notati dall'Alfieri.  |Di qua~; nel nostro
+mondo.  -- |Pi@u monde~; pi@u limpide (^nitide~, ^Par.~, III, 111), 
+pi@u pure; |parrieno~, sembrerebbero torbide, messe a confronto
+con quella, che lascia veder ogni cosa sino in fondo, ; tanto @e
+trasparente (^chiaro fonte~, ^Purg.~, XXX, 76).  -- |Verso di
+quella~; cf. ^Purg.~, III, 50.  -- |Avvegnach@e~ ecc.; sebbene
+scorra non irraggiata da alcuna luce sotto l'ombra perenne di
+quella foresta ^spessa e viva~, e perci@o folta (v. 108), che non
+lascia trapassar raggi n@e di Sole, n@e di Luna: ad onta di ci@o, di
+quel ruscello si poteva benissimo discernere il fondo.  Anche
+Sant'Agostino, nota il Lombardi, descrive il Paradiso Terrestre
+^fructuosis nemoribus opacatum~ (^De Genesi ad litt.~, lib. VIII, 
+cap. I).  -- |Bruna~ ecc.; il Tasso (^Ger. Lib.~, XV, 56):
+
+     E sotto l'ombra di perpetue fronde
+     Mormorando sen va gelida e bruna.
+
+E sotto quest'ombra il Poeta oramai rester@a sino quasi
+al fine della presente Cantica (cf. ^Purg.~, XXXIII, 106 e
+segg.).
+
+	|34-36.  Co' pi@e ristetti~; mi fermai, perch@e il ^rio~
+gli toglieva ^pi@u andar~ (v. 25); -- |e cogli occhi~ ecc.; e
+guardai all'altra riva per vedere la grande variet@a de' freschi
+arboscelli (cf. v. 2, e ^Purg.~, XXVII, 134).  -- |Freschi mai~;
+il Giuliani: <^Maio~ (-- or ^maggio~, dice il Tommaseo --) in
+parecchi luoghi di Toscana chiamasi anche oggid@i un ^arboscello~
+tutto fiorito e ricco di bei nastri e di fresche ghirlande; il
+quale, gi@a celebrato dal Cavalcanti come il ^genfolon selvaggio~, 
+or continua a portarsi in giro dai maggiaioli alle calende e nei
+giorni festivi di Maggio, intanto che pur van cantando di certe
+Canzoni, che indi si dicono ^maggi.~  Secondo la Crusca poi, i
+Toscani sogliono dare il nome di ^maio~ a quel ramo di albero, 
+che i contadini piantano la notte di calen di Maggio avanti
+all'uscio delle loro innamorate.  V'ha inoltre un ^albero di
+Alpe~ che fa i fiori simili alla ginestra, e si nomina anch'esso
+^maio~, ovvero ^maiella~ o ^maggiocondolo.~  Ma parrebbe che
+anzich@e a questo, il nostro Poeta accennasse a que' ^maggi~ che
+s@i rallegravano gli antichi toscani, e ben possono intendersi per
+ogni ^arboscello~, come la specie s'intende pel genere o la parte
+per il tutto.>
+
+	|37-42.  L@a~; di l@a dal fiumicello.  -- |S@i come~ ecc.;
+come ci viene innanzi un'improvvisa apparizione, che per la
+maraviglia che ingenera di s@e ci distrae da ogni altro pensiero, 
+mi apparve ecc.  Cf. ^Purg.~, VIII, 10-12; e nel C. XXXIII, 
+124-126, il Poeta ridice in altra forma la cosa, come gi@a l'aveva
+spiegata nel ^Purg.~, IV, 1 e segg. (si vegga ivi, nel commento). 
+-- |Una donna soletta~ (cf. ^Purg.~, XXXI, 92); sapremo pi@u
+innanzi, che questa donna si chiama Matelda (^Purg.~, XXXIII, 
+119); ma chi @e cotesta Matelda?  Chi ha voglia di conoscere
+quanta concordia e buona fratellanza ci sia tra i commentatori di
+Dante o fra i critici, che di ci@o s'occuparono, pu@o vedere quanto
+ne scrissero il Lubin, il Caetani, il Retti, il Minich, il
+Bastiani, il Borgognoni, e altri non pochi, e soprattutto
+consultare lo Scartazzini, che riferisce le singole opinioni
+emesse fino al 1874.  Intanto si sappia che le Matelde, sino a
+vent'anni or sono, eran sette; la Matilde contessa di Toscana;
+Matilde madre di Ottone il Grande; due Matilde monache tedesche;
+la ^donna gentile~ della ^Vita Nuova~ e del ^Convito~; l'amica di
+Beatrice, della cui morte Dante parla nella ^Vit. N.~, 
+{Paragraph.} VIII; e finalmente ^Vanna~, l'innamorata di Guido
+Cavalcanti.  E lo Scartazzini soggiunge: <Ma la Matelda di Dante
+non potendo essere che ^una~, le altre sei devono di necessit@a
+rinunziare ad un tale onore.  Vediamo se la sorte non tocca forse
+a tutte sette;> e cos@i s'@e aggiunta l'ottava, che lo Scartazzini
+opina essere ^la donna della schermo~, onde Dante discorre nella
+^Vit. N.~, 88, V, VII.  Ma gi@a (non @e neppur mestieri di dirlo), 
+s'intende di per s@e, che ci@o che ad uno pare un argomento
+inconcusso a favore della sua Matelda, quell'argomento per altri
+non @e che un sogno, una allucinazione; quella che uno mette
+innanzi come dimostrazione, un altro battezza per mera asserzione
+priva di qualsiasi valore critico e scientifico; e se uno, con un
+po' d'impeto oratorio, tratteggia un periodo, ch'ei crede una
+sintesi scaturiente dalla ragione storica del suo soggetto, 
+codeste per un altro non sono che ^declamazioni cappuccinesche~
+(e non son parole mie); e quando un critico, piantato, come un
+Simone Stilita, sulla colonna di ci@o ch'egli chiama prove
+inoppugnabili, grida il trionfante ^evrecha~; un altro, freddo
+gli grida: ^la vostra non @e che erudizione scialacquata, il
+vostro assunto un paradosso~; e cos@i butta a terra e Simone e
+colonna.  Ma chi ha ragione? qui sta il ^busillis~! ma @e certo
+che ognuno giura che la ragione @e per lui, e che son tanti ciechi
+quelli che non la veggono, e che perci@o non stanno con lui. 
+Lasciando a tutti la propria opinione (quand'@e che s'@e mai
+sentito una conversione in siffatte dispute?), mi piace
+l'opinione del Casini, il quale osservando, che, storicamente, la
+donna apparsa a Dante oltre il fiumicello, @e per tutti i
+commentatori antichi e per molti moderni la contessa Matilde di
+Toscana (n. 1046 m. 1115), grande propugnatrice degli interessi
+della Chiesa nella lotta delle investiture, conchiude: <e questa
+@e senza dubbio la pi@u ragionevole interpretazione.>  In quanto
+poi all'allegoria, per gli antichi chiosatori e per la pi@u parte
+dei moderni, Matelda @e simbolo della vita attiva, appunto come
+per i teologi @e Lia apparsa in sogno a Dante; per altri
+simboleggia l'amore della Chiesa, per altri l'innocenza, per
+altri infine il ministero ecclesiastico.  Fra tante opinioni sar@a
+lecito, spero, anche a me di dire la mia, che certo non
+convertir@a nessuno; ma il mondo @e grande, e potr@a starci anche
+questa, senza recar noia, o ch'altri ne rechi a me; e lo dir@o
+liberamente nella ^Nota~ in fine del presente Canto.
+
+	|43-48.~  Notati dall'Alfieri.  |Bella donna~; nel
+^Conv.~, I, 5: <Pare l'uomo esser bello, quando le sue membra
+debitamente si rispondono.>  Ecco perch@e bella non era in s@e la
+donna che segn@o altrove, ma come bella poscia diventi (^Purg.~, 
+XIX, 7-15).  -- |Ai raggi~ ecc.; altrove (^Purg.~, XXVII, 95)
+disse che il pianeta Venere ^di fuoco d'amor par sempre ardente~;
+e le ^genti antiche~ credevano che Venere ^raggiasse l'amore~
+(^Par.~, VIII, 2-3); e ^fuoco d'amore~, sia per amore coniugale, 
+che per carit@a che unisce l'anima a Dio (^Purg.~, VI, 38; VIII, 
+77).  -- |I sembianti che~ ecc.; nella ^Vit. N.~, {Paragraph.}
+15: ^Lo viso mostra lo color del core~; e ivi, {Paragraph.} 37:
+^Color d'amore e di piet@a sembianti~, volendo esprimere come gli
+affetti dell'anima, specialmente quando sono veementi, si
+mostrano nella esteriore sembianza (cf. ^Par.~, XVIII, 22-24). 
+Nel ^Canzon.~, (p. II, canz. VII, st. I), dice il Poeta ad Amore:
+^il tuo raggio al volto mi luce.~  -- |Testimon~ ecc.; nel
+^Conv.~, II, 8: <Il cuore, cio@e il mio dentro, trema; e il mio di
+fuori (cio@e il ^viso~) lo mostra in alcuna nuova sembianza.> 
+Veggansi i passi del ^Conv.~, III, 8, allegati ^Inf.~, XXIV, 132, 
+e ^Purg.~, XVIII, 1-3.  -- |Vegnati voglia~; ti piaccia, 
+acconsenti.  -- |Trarreti~ ecc.; altrove ^trarresi~ (^Purg.~, II, 
+76).  Dunque Dante vuol dire: Tu sei una donna innamorata; or se
+@e vero che ^Amore e cuor gentil sono una cosa~ (^Vit. N.~, 
+{Paragraph.} 20), sii meco gentile, e fatti pi@u presso la sponda
+di questo fiumicello.  -- |Tanto ch'io~ ecc.; il Poeta udiva il
+canto della donna, ma non intendeva le parole (|che tu canti~, 
+che cosa canti, quali sono le parole).  Qui adunque @e manifesta
+la differenza, che il Poeta fa tra ^udire~ e ^intendere~, quale @e
+tra ^vedere~ e ^raffigurare~, cio@e ^discernere~ (cf. ^Inf.~, 
+XXIV, 74-75; XXXI, 35); il che fa pure chiaramente altrove
+(^Purg.~, IX, 142-145; ^Par.~, XIV, 118-126); ed ecco che
+appressandosi la donna, non solo ^viene~ al Poeta ^il dolce
+suono~, ma anche gli ^intendimenti~ (vv. 59-60).
+
+	|49-51.~  Notati dall'Alfieri.  |Tu mi fai~ ecc.; al
+vederti andare per questo luogo cogliendo fiori e s@i bella, mi
+fai venire a mente il fiorito bosco e la belt@a di Proserpina nel
+momento che venne rapita da Plutone.  -- |Proserpina~; figlia di
+Giove e di Cerere, rapita da Plutone che la fece sua sposa e
+regina dell'Inferno (cf. ^Inf.~, IX, 44; X, 80).  La rimembranza
+del fatto @e dedotta dai versi d'Ovidio, e importa, osserva il
+Giuliani, di ben attendere a quanto il Poeta latino ne racconta
+di Proserpina, e del luogo ove Plutone and@o a rapirla, e indi
+potremo anche meglio ravvisare la bellezza insieme e la forza di
+certe frasi dantesche (Ovidio, ^Metam.~, V, 385-401):
+
+     Haud procul Hennaeis lacus est a mcenibus altae, 
+     Nomine Pergus, aquae; non illo plura Caystros
+     Carmina cycnorum labentibus audit in undis.
+     Silva coronat aquas, cingens latus omne; suisque
+     Frondibus, ut velo, Phoebeos submovet ictus.
+     Frigora dant rami, Tyrios humus humida flores, 
+     Perpetuum ver est: quo dum Proserpina luco
+     Ludit, et aut violas, aut candida lilia carpit;
+     Dunque puellari studio calathosque sinumque
+     Implet, et aequales certat superare legendo;
+     Poene simul visa est, dilectaque, raptaque Diti:
+     Visque adeo properatur amor!  Dea territa maesto
+     Et matrem et comites, sed matrem saepius, ore
+     Clamat; et, ut summa vestem laniarat ab ora, 
+     Collecti flores tunicis cecidere remissis:
+     Tantaque simplicitas puerilibus adfuit annis:
+     Haec quoque virgineum movit jactura dolorem.
+
+-- |Perdette.~.. |primavera~; i pi@u son d'avviso che il Poeta
+colla voce |primavera~ non faccia che ritrarre il ^collecti
+flores~ d'Ovidio; altri invece credono doversi intendere la
+ridente e fiorita valle dell'Etna, o, come dice il Cesari, tutte
+le belle e dilettevoli cose dette di sopra, e che erano nel luogo
+donde Proserpina fu rapita; e lo Strocchi intende il fior
+virginale.  Ma la prima opinione, oltre al suffragio del maggior
+numero e de' pi@u accreditati fra' chiosatori, si mostra vera pel
+riscontro che ha in Ovidio; e perch@e |primavera~ il Poeta, per
+metafora, in significato di fiori us@o anche altrove (^Par.~, XXX, 
+63); e tal voce, opina il Giuliani, pi@u che dal ^perpetuum ver~
+di Ovidio (che, a dir vero, pi@u che i fiori, onde qui si parla, 
+risguarderebbe l'amenit@a e la dolce temperatura del luogo), pot@e
+a Dante essere stata suggerita dal volgo toscano che tuttora
+chiama |primavera~ quel fiore ch'@e dei primi a venire, e che
+suole pur nominarsi ^margherita~ o ^margheritina.~  Perch@e
+l'opinione dello Strocchi si vegga del tutto inammissibile, 
+basta, fra altre, l'osservazione dello Scartazzini, che
+l'allusione alla perdita della verginit@a qui sconverrebbe tanto
+in riguardo alla persona di Matelda, quanto in riguardo al luogo
+ov'essa si ritrova.  Il Tommaseo cita opportunamente (Virgilio
+^Buc.~, IX): ^Hic ver purpureum, varios hic flumina circum Fundit
+humus flores.~  Boccaccio (^Fiammetta~): ^Cos@i ornata levatami, 
+qual Proserpina allora che Plutone la rap@i alla madre, cotale me
+ne andava per la nuova primavera cantando.~
+
+	|52-60.~  Qui son due similitudini vaghissime; il
+muoversi di Matelda, come girandosi sopra se stessa e avanzandosi
+a brevissimi passi, paragonato a quello d'una donna che danzando
+fa leggieri movimenti, tenendo i piedi rasente terra, e
+pochissimo aprendoli (e questo @e, nota il Cesari, lo |strette a
+terra~, e |intra s@e~) fa passi piccolini (cf. ^Purg.~, XXIX, 9);
+e il volgersi di lei a Dante rassomigliato all'atto verecondo
+d'una vergine che pur appressandosi ad alcuno, abbassa gli occhi
+in segno di pudore.  -- |Strette~; rasente terra; -- |intra s@e~;
+giunte l'una all'altra; espressioni che rivelano l'onest@a, 
+perch@e, nota il Cesari alzare e tragittare i piedi @e movimento
+rozzo e villano.  -- |Volsesi~; cf. ^Purg.~, XIII, 15.  -- |Gli
+occhi onesti avvalli~; abbassi chini (dell'^avvallare~ cf.
+^Purg.~, VI, 37 e XIII, 63).  Della turba d'anime vegnente con
+Manfredi, sentimmo dire al Poeta che ^si moveva pudica in faccia, 
+e nell'andare onesta~ (^Purg.~, III, 85-87).  Nel ^Conv.~, IV, 
+25: <Lo pudore @e un ritraimento d'animo da laide cose, con paura
+di cadere in quelle; siccome vedemo nelle vergini... che si
+dipingono nella faccia di pallido e di rosso colore.  Onde dice
+il soprannotato Poeta (^cio@e Stazio~) nello allegato libro primo
+della Storia di Tebe, che quando Aceste, nutrice d'Argia e di
+Deifile, figlie d'Adrasto rege, le men@o dinanzi agli occhi
+dell'onesto padre nella presenza delli due pellegrini, cio@e
+Polinice e Tideo, le vergini pallide e rubiconde si fecero, e li
+loro occhi fuggiro da ogni altrui sguardo, e solo nella paterna
+faccia, quasi come sicuri, li tennero v#olti.>  E sant'Ambrogio, 
+parlando del presentarsi di Gabriele alla Ss. Vergine, scrive:
+<Disce virginem moribus, disce verecundia...  Trepidare virginum
+est, et ad omnes viri ingressus pavere, omnes viri affatus
+vereri.>  -- |Il dolce suono~; il dolce canto (vv. 41 e 48).  --
+|Co' suoi intendimenti~; con quei sentimenti, che mediante le
+parole, Matelda intendeva di esprimere col canto.
+
+	|61-63.~  Notati dall'Alfieri.  |Gi@a~ non @e qui, avverte
+il Giuliani, particella riempitiva, come parve al Lombardi; ma se
+non @e determinazione di tempo, serve a dinotare un determinato
+spazio di luogo (cf. ^Purg.~, I, 30, nel commento).  -- |Levar~
+ecc.; perch@e fino allora, in atto verecondo, gli aveva tenuti
+chini (v. 57).  -- |Dono~; grazia (cf. ^Inf.~, VI, 78; ^Purg.~, 
+XXXI, 136).
+
+	|64-66.~  Notati dall'Alfieri.  Tanta bellezza di
+sembiante e splendor d'occhi, riporta il pensiero del Poeta alla
+dea della bellezza e dell'amore, il quale sovrattutto negli occhi
+si dimostra (cf. vv. 43-45, nel commento); pur ci@o non bastava;
+perch@e se Venere dovette esser sempre bella e sfolgoranti i suoi
+occhi, dovette per@o superar s@e stessa e i suoi occhi esser due
+Soli nel momento che inavvertentemente fu ferita dal figlio
+Cupido ond'ella arse per Adone.  La favola @e cos@i narrata da
+Ovidio (^Metam.~, X, 525-528):
+
+     Namque pharetratus dum dat puer oscula matri, 
+     Inscius exstanti distrinxit arundine pectus.
+     Laesa manu natum dea reppullit; altius actum
+     Vulnus erat specie, primoque fefellerat ipsam.
+
+-- |Fuor di tutto suo costume~; @e frase riferita a Cupido, che
+non soleva ferire per caso, ma con ben diretta mira; e
+l'^inscius~ d'Ovidio non lascia luogo ad ammetterne verun'altra. 
+Il riferire poi la frase a Venere, intendendo che in
+quell'istante fosse pi@u bella che mai, sarebbe ozioso perch@e tale
+idea comparativa @e implicita nell'allusione stessa del fatto.
+
+	|67-69.~  Notati dall'Alfieri.  |Ridea~; il perch@e lo
+spiegher@a or ora Matelda stessa (vv. 76 e segg.).  -- |Dritta~;
+chi intende cotale aggettivo riferitisi a |riva~; ma sarebbe
+ozioso, dacch@e sappiamo gi@a che il Poeta si trovava sulla ^riva
+sinistra~ del fiume (v. 26); onde di necessit@a la donna doveva
+essere alla ^riva destra~; altri, e meglio, lo riferisce a
+Matelda, eretta cio@e della persona; prima si chinava ^iscegliendo
+fior da fiore~ (v. 41); quando il Poeta la preg@o d'accostarsi, si
+drizz@o.  -- |Trattando~; non @e un ripetere l'idea del v. 41, come
+parve ad altri; ivi si parla del ^coglier fiori~; qui invece
+dell'intrecciarli a ^farsene una ghirlanda~; e per tal modo
+abbiamo tutte e due le idee espresse dalla donna veduta in sogno
+(^Purg.~, XXVII, 99-102).  Leggendo ^traendo~, bisogna intendere
+che la donna, pur appressatasi secondo il desiderio del Poeta, 
+continuasse a piegarsi a coglier fiori; ma non sarebbe n@e bello, 
+n@e cortese l'atteggiamento.  Venuta dunque Matelda presso ai
+Poeti, sta dritta, non per@o oziosa, facendo ghirlanda dei fiori
+prima raccolti.  D'altra parte, il ^trattare~ insieme con
+|colori~ per ^fiori~, richiama le parole di Virgilio (^Ecl.~, 
+VIII, 76): ^Necte tribus nodis ternos, Amarylli, colores.~  --
+|Color'~; fiori di vario colore.  -- |L'alta terra~ (cf. v. 101, 
+nel commento); il Paradiso Terrestre (cf. ^Purg.~, XXXII, 51), 
+punto cos@i elevato dalla superficie terrestre (cf. vv. 101-107). 
+-- |Senza seme gitta~ (cf. vv. 109-117, nel commento), sol da s@e
+produce (^Purg.~, XXVII, 135); Ovidio (^Metam.~, I, 108): ^nati
+sine semine flores.~  L'Antonelli: <Questa elevatissima regione
+terrestre conserva, giusta l'opinione del Poeta, la propriet@a che
+il Signore dette alla terra primitiva, di produrre da s@e erba
+verdeggiante che facesse il seme a seconda della sua specie e
+piante fruttifere (^Genes.~, 11 e 12 del cap. I).>
+
+	|70-75.~  Notati dall'Alfieri.  |Tre passi~ ecc.; il
+Poeta altro non vuol significare che la semplicissima idea, che
+quanto era minore la distanza che il separava da Matelda, e tanto
+pi@u ardeva di desiderio d'esserle vicino; e se il Buti in questi
+|tre passi~ volle sognar simboli e cose recondite, non mi par
+cosa seria il seguirlo, magari architettandovi sopra altri sogni
+ancora.  -- |Ellesponto~; @e quello stretto oggi detto de'
+Dardanelli, che separa l'Europa dall'Asia, venutogli tal nome da
+Elle, che in quell'acque, secondo la favola, anneg@o.  Or qui il
+Poeta, a scolpire la vivezza del suo desiderio d'esser presso a
+Matelda, ricorre a quanto la mitologia ne ricorda di Leandro di
+Abido, sulla costa d'Asia, il quale ardendo d'amore per Ero, 
+fanciulla di Sesto, di contro ad Abido in sulla costa d'Europa, 
+soleva ogni notte traversare a nuoto quello stretto, finch@e una
+volta rimase affogato.  Ovidio descrive tal favola (^Epist.~, 
+XVIII, 139 e segg.), e Dante probabilmente attinse dal poeta
+latino.  -- |Serse~ (cf. ^Par.~, VIII, 124); figlio di Dario
+Istaspe, il quale volendo invadere l'Europa per costituire un
+impero universale (^Mon.~, II, 9), tragitt@o l'immenso suo
+esercito per l'Ellesponto sopra un ponte di barche; ma dai Greci
+disfatto a Salamina, Serse col danno e coll'onta dovette
+ripassarlo; onde, dice il Poeta, l'esempio, il fatto di Serse
+scornato dovrebbe ancora esser esempio efficace a frenare ogni
+orgoglio umano.  Nella ^Mon.~, II, 9: <Xerses, Darii filius et
+rex in Persis, cum tanta gentium multitudine mundum invasit, cum
+tanta potentia, ut transitum maris, Asiam ab Europa dirimentis, 
+inter Seston at Abydon, ponte supera verit.  Cuius operis
+admirabilis Lucanus in secundo ^Pharsaliae~ meminit.  Canit enim
+sic: ^talis fama canit tumidum super aequora Xersem Construxisse
+vias.~  Et tandem miserabiliter ab incaepto repulsus est.>  --
+|Per mareggiare~; si riferisce all'^Ellesponto~, cio@e col suo
+ondeggiare, e col suo frapporsi ondeggiando, e cos@i impedire a
+Leandro di recarsi a suo agio a Sesto.  -- |Quel~; quel fiume. 
+-- |S'aperse~; lo stesso verbo anche altrove (^Purg.~, XVIII, 
+134).  Ovidio ne dipinge Leandro, il quale, in momento che
+l'Ellesponto muggiva procelloso, gli dice: ^Assuetum nobis
+turbine claudis iter~? (^Epist.~, XVIII, 80): Dante estende
+l'idea a tutta la condizione dell'innamorato Leandro, che
+abborriva l'Ellesponto, perch@e gli era o impedimento o difficolt@a
+d'essere di frequente colla sua donna; ora applicando a s@e tal
+sentimento, rispetto al Lete, l'espressione diviene enfatica, e
+dice il cocentissimo affetto.
+
+	|76-81.~  L'Alfieri not@o i due primi e i due ultimi. 
+|Nuovi~; arrivati test@e (^Inf.~, IV, 52), e perci@o ancora
+inesperti di questo luogo (^Purg.~, II, 52, 58, 62; cf. ^Inf.~, 
+XXIII, 71, nel commento), ne ignorate la condizione; e perch@e mi
+vedete ridente (^rido~, deliziandomi nelle bellezze di questo
+giardino di Dio), forse ne provate maraviglia e dubbio; ma
+sappiate ch'io sono ridente contemplando la mirabile opera della
+creazione divina.  -- |Nido~; sede, abitazione.  --
+|Maravigliando~ ecc.; l'ignorare la cagione di certe cose che ci
+appariscono, genera maraviglia, e questa il dubbio (per@o da tal
+dubbio si pu@o giungere, attentamente esaminando, alla scienza:
+^Par.~, IV, 130-132; ^Quaest. Aq. et Terr.~, {Paragraph.} XX);
+nella ^Mon.~, II, 1: <Ad faciem causae non pertingentes, novum
+effectum communiter admiramur.>  -- |Tienvi alcun sospetto~; vi
+occupa, vi lega la mente (^Par.~, IV, 18).  In che, risguardo ai
+Poeti, Matelda supponesse ^maraviglia~ e |sospetto~, i pi@u dei
+commentatori non dicono; il Cesari: <Forse non sapete accordare
+l'onest@a mia col mio ridere e cantare.>  Lo Scartazzini: <L'esser
+lieta e il rider di Matelda avrebbe forse potuto scandalizzare i
+Poeti, potendo sembrar loro che un luogo a cui non si giunse che
+attraverso le pene delle anime purganti, ed il quale ricorda come
+l'uomo ne fu scacciato per la sua disubbidienza, fosse piuttosto
+atto a generar mestizia e pianto che non gioia e riso.>  La prima
+ragione non parmi valere, perch@e acqua passata non macina pi@u
+dice il proverbio; e anzi, come la memoria delle gioie avute in
+questo mondo cresce il tormento de' dannati (cf. ^Inf.~, V, 
+121-123, nel commento); cos@i quella de' sofferti patimenti per
+amor di Dio (come son le pene purganti), cresce ne' santi la
+letizia e la gloria (cf. ^Par.~, XV, 148; XXI, 113-117).  Pi@u
+forte parmi la seconda ragione, perch@e trova rincalzo e conferma
+nelle stesse parole di Dante (cf. ^Purg.~, XXIX, 22-30).  --
+|Luce rende~; serve di schiarimento vi pu@o illuminare
+l'intelletto, e snebbiarlo dalla maraviglia e dal sospetto
+(|sospetto~, dubitazione, incertezza: ^Inf.~, III, 4; ^Purg.~, 
+VI, 43).  -- |Il Salmo~ ecc.; la cagione perch@e qui si ride e si
+gioisce ve la pu@o mostrare il Salmo ecc.; nel quale il Profeta
+dimostra, che all'uomo giusto si conviene il diletto che deriva
+dal considerare le maraviglie di Dio nella creazione; e cos@i
+faceva Matelda.  E mi si vorr@a concedere che ci@o non s'appartiene
+n@e punto n@e poco alla ^Vita attiva~, sibbene alla
+^contemplativa~: e questo dico perch@e il lettore attenda a quanto
+su ci@o discorro nella ^Nota~ in fine di questo Canto.  --
+|Delectasti~; @e il versetto quinto del ^Salmo~ 91, il quale
+versetto coi seguenti spiega il motivo del sorridere e del
+giocondarsi di Matelda.  -- |Disnebbiar~; purgar dalla nebbia il
+dubbio (v. 90); perci@o la ^verit@a~ @e ^Sole~, che dissipa le
+nebbie (cf. ^Purg.~, XXX, 22 e segg.); onde Virgilio era quel
+^Sole che sanava ogni vista turbata~ (^Inf.~, XI, 91).  Nella
+^Mon.~, II, 1, scrive: <Quia naturalis amor diuturnam esse
+derisionem non patitur, sed ut sol aestivus, qui disjetis nebulis
+matutinis, oriens luculenter irradiat etc.>  E ^Conv.~, II, 16:
+<Le dubitazioni dal principio delli sguardi di questa Donna (^la
+Filosofia~) multiplicatamente surgono, e poi, continuando la sua
+luce, caggiono quasi come nebulette mattutine alla faccia del
+Sole, e rimane libero e pieno di certezza lo famigliare
+intelletto, siccome l'aere dalli raggi meridiani purgato e
+illustrati.>
+
+	|82-84.~  Notati dall'Alfieri.  |Tu~ ecc.; le parole son
+rivolte a Dante, il quale libero e padrone di s@e (^Purg.~, XXVII, 
+139-141), cessato ogni bisogno della guida fin qui necessarissima
+di Virgilio (^Inf.~, IV, 15), precedeva ora, era |dinanzi.~  --
+|Mi pregasti~; cf. vv. 43 e segg.  -- |Presta~; pronta (^Par.~, 
+VIII, 32).  -- |Question~; domanda (^Inf.~, IX, 19; XIV, 133). 
+-- |Tanto che basti~; a soddisfare il tuo desiderio.  Nell'atto e
+nelle parole di Matelda si presenta la carit@a de' Beati, non solo
+sempre pronti ed appagare i giusti desiderii del Poeta, ma a
+profferirsegli essi stessi, antivenendo i desiderii suoi, e
+santamente provocandolo a manifestarli (cf. ^Par.~, V, 115-120;
+VIII, 32-33; IX, 13-15, e spesso); e ci@o per quello che gli dir@a
+Piccarda (^Par.~, III, 42-45), e che gli confermer@a Tommaso
+d'Aquino (^Par.~, X, 88-90), per farsi essi Beati vero ritratto
+della carit@a di Dio, e della pi@u perfetta delle creature, la
+quale
+
+                  non pur soccorre
+     A chi dimanda, ma molte fiate
+     Liberamente al dimandar precorre
+
+(^Par.~, XXXIII, 16-18; cf. ^Purg.~, XVII, 59-60).  Ond'@e che
+Matelda raffermer@a pi@u innanzi la pronta gentilezza in servigio
+altrui (^Purg.~, XXXIII, 130-132).
+
+	|85-87.~  Dante aveva inteso da Stazio, che al di sopra
+della scaletta, che mette alla porta del Purgatorio (^Purg.~, IX, 
+76 e segg.), non cade pioggia n@e altro che sia ristoro de' fiumi, 
+n@e ci poteano essere secchi vapori, da cui traggono origine i
+venti; vedendo qui il fiumicello Lete, e sentendo stormire le
+frondi della selva, ei non sapeva conciliare questo fatto colla
+|novella fede~, colla recente opinione ch'egli s'era formata per
+le parole di Stazio (^Purg.~, XXI, 43 e segg.), ben parendogli
+che quell'acqua e quell'aria altro non dovessero essere che
+alterazioni acquee e atmosferiche; per questo chiede spiegazione
+a Matelda.  -- |Il suon~ ecc.; v. 18.
+
+	|88-90.~  L'Alfieri not@o i due primi.  |Dicer@o come~
+ecc.; spiegher@o la cagione onde quest'acqua e quest'aria
+procedono, che ti fanno maravigliare.  -- |Purgher@o~ ecc.; cf. v.
+81 (cf. ^Par.~, XXVIII, 79-87 la mirabile similitudine, ove pure
+il ^purgare~; e veggasi ^Conv.~, II, 16, , citato al v. 81).  --
+|La nebbia~ ecc.; ^Mon.~, II, 1: <Ignorantiae nebula eluetur>
+(cf. ^Inf.~, VII, 71; ^Purg.~, XXXIII, 124-126).  -- |Ti fiede~;
+il Cesari: <Come pu@o ^ferire~ la nebbia? appunto, morde gli
+occhi, com'era quel fumo di ^aspro pelo a sentire~ (^Purg.~, XVI, 
+6); e spiritualmente intendendo la nebbia per ignoranza, e il
+^ferire~ per travagliare, offendere; questa @e piaga, che offende
+e fiede l'intelletto dell'uomo fatto a conoscere la verit@a.>  Cf.
+^Par.~, VIII, 112, nel commento.
+
+	|91-93.~  Notati dall'Alfieri: |Lo summo Bene~ (^Par.~, 
+XIX, 87); Iddio, prima Bont@a, che non pu@o esser limitata
+(^Conv.~, IV, 9), Bene infinito ed ineffabile (^Purg.~, XV, 67), 
+causa essenziale d'ogni altro bene (^Par.~, XIX, 90).  -- |Solo a
+s@e piace~; perch@e essendo Iddio il bene per s@e stesso
+perfettissimo, ne viene che nessun bene creato Lo pu@o tirare a
+s@e, ma Esso @e cagione di quello (^Par.~, XIX, 89-90); ond'@e che
+
+                   ogni minor natura
+     E corto ricettacolo a quel Bene, 
+     Che non ha fine, e s@e in s@e misura
+
+(^Par.~, XIX, 49-51), stantech@e Iddio @e quella Essenza, 
+
+                        ov'@e tanto avvantaggio, 
+     Che ciascun ben, che fuor di lei si trova, 
+     Altro non @e che di suo lume un raggio
+
+(^Par.~, XXVI, 31-33: cf. ^Dizionario Dantesco~, alla voce Dio, 
+{Paragraph.} 1, A e B).  -- |Fece l'uom buono, e a bene~ (altri
+^l'uom buono, a bene @e~ ecc.): la lez. ^l'uom buono, e il ben di~
+ecc., ristringe, nota lo Scartazzini, il concetto del Poeta; e
+gi@a ^il bene~, che gli diede, @e compreso nella frase |questo
+loco~, sapendolo noi gi@a ricettacolo di tante delizie; il senso
+dunque @e: Cre@o l'uomo innocente, e atto a operare il bene, per
+conseguire cos@i il Bene supremo; ci@o risorge, chi bene intenda, 
+dalle parole del ^Genesi~ (II, 15): ^Tulit Dominus Deus hominem, 
+et posuit eum in paradiso voluptatis, ut operaretur, et
+custodiret illum~ (cf. ^Par.~, XXVI, 109-110).  -- |Questo loco~
+ecc.; gli diede il Paradiso terrestre, come pegno della felicit@a
+del Paradiso celestiale (^Genes.~, II, 8-25); perci@o il Poeta
+chiama le bellezze di questo giardino ^primizie dell'eterno
+piacer~ (^Purg.~, XXIX, 31).  -- |Arra~; pegno, caparra (cf.
+^Inf.~, XV, 94).
+
+	|94-96.~  Notati dall'Alfieri.  |Diffalta~ (da
+^fallire~), fallo, colpa (nel ^Par.~, VII, 25-27: ^Per non
+soffrire alla virt@u che vuole Freno~ ecc.), ^trapassando~ quel
+^segno~, che Dio gli aveva stabilito (^Par.~, XXVI, 117): cf.
+^Purg.~, XXIX, 27.  -- |Dimor@o poco~; quante ore, cel dir@a
+altrove Adamo (^Par.~, XXVI, 139-142).  -- |In pianto~ ecc.;
+cambi@o in pianto il |riso~; e il |giuoco~, le delizie in affanno. 
+Bene il Tommaseo scorge qui le due Vite, attiva e contemplativa:
+<|Riso~; concerne il diletto della contemplazione; |giuoco~, 
+dell'azione.>  -- |Giuoco~; altrove ^trastullo~ (^Purg.~, XIV, 
+93) e ^sollazzo~ (^Purg.~, XXIII, 72); |giuoco~ in luogo di
+^giocondit@a~, il primitivo pel derivato; cos@i ^giuoco~ (^Par.~, 
+XX, 117; XXXI, 133; XXXII, 103) la pace, la beatitudine del
+Paradiso.
+
+	|97-102.~  Affinch@e l'uomo non fosse molestato dalle
+perturbazioni che |sotto da s@e~, sotto questo monte, ossia nelle
+basse regioni della terra, fanno, producono le esalazioni della
+terra e dell'acqua, dipendenti dalle mutazioni di temperatura
+ecc.  -- |Il turbar~ ecc.; l'Antonelli: <Il turbamento che nelle
+basse regioni della terra avviene per le meteore acquose e
+ventose, attribuiscesi ottimamente dal Poeta all'esalazione
+dell'acqua e della terra cio@e all'evaporazione; la quale ben dice
+che, quanto pu@o, va dietro al calore, cio@e dal calore dipende, 
+giusta leggi opportune.  Acciocch@e, poi, quel turbamento non
+molestasse l'uomo, che doveva, innocente, essere felice anche su
+questa terra, suppone il Poeta che l'abitazione ai nostri
+progenitori destinata salisse cos@i grandemente verso il cielo, 
+tanto da non vi esser possibili quei turbamenti.>  -- |Le
+esalazion~ ecc.; i vapori umidi o secchi (cf. v. 122) attratti
+dal Sole (cf. ^Purg.~, XIV, 35; XXI, 52).  Nel ^Conv.~, III, 9:
+<Li vapori della terra continuamente salgono.>  Si vegga
+nell'^Inferno~, IX, 67-71, il passo del Boccaccio quivi riferito. 
+-- |Dietro al calor~; attratti dal Sole (cf. ^Canzon.~, P. II, 
+canz. VII, st. 3, e canz. VIII, st. 2).  L'antichit@a, nota il
+Bianchi, ignorando che l'aria avesse peso, e per conseguenza che
+i vapori rarefatti dal calorico salissero per essere pi@u leggieri
+di essa, opin@o che naturalmente tendessero verso il calor del
+Sole.  -- |Libero~, dai turbamenti di tali esalazioni; |da indi~
+ecc., dalla porta del Purgatorio in su (cf. ^Purg.~, XXI, 16-48). 
+Sappiamo dunque il motivo perch@e questo luogo di delizie, dov'@e
+^primavera sempre ed ogni frutto~ (v. 143), immagine di quella
+^primavera sempiterna, che notturno Ariete non dispoglia~
+(^Par.~, XXVIII, 116-117; cf. ivi, XVIII, 28-30), che @e il
+Paradiso, fu da Dio collocato tant'alto; onde @e detto ^l'eccelso
+giardino~ (^Par.~, XXVI, 110; cf. ivi, v. 139).  A collocare il
+Paradiso Terrestre a tanta altezza e in tali condizioni di terra
+e di cielo, e sovra un monte circondato dall'acque, il Poeta non
+segu@i un suo fantastico capriccio, ma s'attenne alla tradizione
+raffermata dai Padri e dagli Scolastici; e i giovani faran bene a
+leggere e meditare quanto n'@e venuto sapientemente raccogliendo
+il Tommaseo nel ^discorso~, che nel suo commento fa seguire a
+questo Canto.  Intanto si badi che Dante ne svela egli stesso il
+senso allegorico: ^Beatitudo huius vitae in operatione propriae
+virtutis consistit, per Terrestrem Paradisum figuratur~ (^Mon.~, 
+II, 15).  Ma si noti bene (per quello che dir@o nella ^Nota~ alla
+fine di questo Canto), che ^l'umana natura non pure una
+beatitudine ha, ma due, siccome quella della vita civile, e
+quella della contemplativa~ (^Conv.~, II, 4; cf. IV, 17).  In
+quanto a questo |Monte~, ove il delizioso giardino si trova, l'ho
+gi@a detto altra volta (cf. ^Dizionario Dantesco~, vol. VIII, App.
+II, {Paragraph.} XV-XX) che @e moralmente un'identica cosa col
+^monte dilettoso~, le cui spalle vide il Poeta illuminate dal
+Sole quando, trovato s@e stesso (^Inf.~, I, 2), spaventato di
+tanto abisso di miserie s'argomentava di fuggire dalla ^selva
+selvaggia.~  E per conseguente la ^divina foresta spessa e viva~
+altro non @e che una perfetta antitesi colla ^selva selvaggia e
+aspra e forte.~  Ma non saranno mai dai giovani ponderate
+abbastanza queste parole del Giuliani: <Si faccia avvertenza che
+quando si parla di Dante, importa di ben distinguere la sua
+^Visione~ dal suo ^Poema~, narrativo della ^Visione stessa.~ 
+Perocch@e, considerata la ^Visione~ semplicemente, la ^Selva, il
+Monte~, le ^tre Fiere~ e cos@i via via in tutti i simboli e le
+virt@u raffigurate, dovremo riferirli solo all'infelice Poeta; ma
+poi disaminando perch@e e come ei la descrisse nelle tre Cantiche, 
+ci verr@a chiaro alla mente, ch'egli accomod@o la sua ^Visione~ di
+guisa da poterla rivolgere in beneficio universale> (^Gli ultimi
+Canti del Purgatorio~ ecc.; pag. 39).  E le parole dell'egregio
+Dantista, alle volte s@i malmenato da' suoi confratelli in Dante, 
+hanno conferma dalla stessa dichiarazione del Poeta, quando
+afferm@o che del suo Poema ^finis totius et partis est removere
+viventes in hac vita de statu miseriae et perducere ad statum
+felicitatis~ (^Epist.~, X, 15).
+
+	|103-108.~  L'Alfieri not@o i due ultimi.  Ne' sei versi
+precedenti Matelda altro non fece che raffermare al Poeta
+quant'egli aveva appreso da Stazio (^Purg.~, XXI, 43-54); adesso
+si fa a spiegargli donde s'origini il vento, che fa stormire la
+selva (vv. 103-120), e come l'acqua ch'egli vedeva, non proveniva
+come l'altre acque da ragion di vapori, ma da vena immutabile
+(vv. 121-126).  -- |In circuito~; in giro.  -- |Tutto quanto~
+ecc.; tutta l'aria, non esclusa quella ^viva~, nella quale
+s'innalzava la santa Montagna.  -- |Prima v#olta~; la prima delle
+sfere celesti, cio@e il ^Mobile primo~ (nel ^Par.~, XXVIII, 50, 
+^v#olte~ per ^ruote~), ^che tutto quanto rape L'alto universo
+seco~ (^Par.~, XXVIII, 70; cf. ^Conv.~, II, 6).  Sappiamo gi@a
+come gli antichi facessero la terra centro di tutto l'universo
+(cf. ^Inf.~, IX, 28; XXXIV, 110-116, nel commento), restando essa
+immobile, mentre i Cieli coll'aria circostante le giravano
+intorno.  Ma i Cieli hanno lor movimento da oriente in occidente
+(^Conv.~, II, 15); ed ecco perch@e anche l'aria girata da essi ha
+un simile movimento; e or si capisce perch@e il Poeta, volto ad
+oriente, si sentisse da essa aria ferir la fronte (vv. 7-9).  --
+|Se non~ ecc.; se questo girar dell'aria non @e intercettato, 
+interrotto da qualche cagione; come sono tra noi i ^venti~, che
+danno all'aria altro movimento che non sia quello da oriente in
+occidente; per@o, siccome lass@u non possono giungere i turbamenti
+derivanti dalle esalazioni dell'acqua e della terra (vv. 97-98), 
+ne consegue che tal moto dell'aria @e perpetuo come quello de'
+Cieli (e in tal caso il |se~ ha qui la forza, che notammo
+altrove; ^Purg.~, IV, 66).  -- |Tutta @e disciolta~ ecc.; si eleva
+intieramente, si innalza tutta (cf. ^Purg.~, III, 15, nel
+commento).  -- |Vivo~; puro, scevro dalle perturbazioni delle
+esalazioni terrestri.  -- |Tal moto~; quello dell'|aer vivo~ cos@i
+aggirato (vv. 103-104).  -- |Fa sonar~ ecc.; incontrandovi
+resistenza nella selva spessa e viva, la fa sonare (v. 18);
+Virgilio (^Aen.~, VI, 703-705);
+
+                                vidit Aeneas...
+     Seclusum nemus, et virgulta sonantia silvae, 
+     Laethaeumque, domos placidas qui praenatat, amnem:
+
+il che illustra la ^selva~ di Dante, anco moralmente. 
+L'Antonelli: <La ragione che assegna al sonar della selva merita
+considerazione perch@e dimostra che il Poeta conosceva la
+riflessione e la concentrazione del suono per mezzo delle piante;
+effetti che si riproducono dagli alberi quanto pi@u sono fitti, e
+quanto per questa loro spessezza essi formano quasi delle pareti
+riflettenti.  Se valeva in ottica, non era indietro in acustica!>
+	|109-114.~  Notati dall'Alfieri.  |Tanto puote~ ecc.; ha
+tal potere sull'aere, che lo impregna della sua virt@u vegetativa, 
+e questo volgendo in circuito (v. 104), |scuote~, lascia cadere, 
+depone tali virt@u sulla nostra terra onde nascono in essa piante, 
+senza che l'uomo n'abbia gittato il seme.  -- |L'aura impregna~;
+il Cesari: <Quell'|impregna~ @e efficacissimo, ed importa virt@u
+generativa e fecondatrice: poi quest'aura cos@i fecondata, scuote
+da s@e (seminandola attorno) la sua virt@u.>  -- |L'altra terra~
+ecc.; quella abitata da noi (l'altro mondo tutto, spiega il
+Cesari), secondo le qualit@a, che ha in s@e (cf. ^Par.~, XXXI, 23), 
+o le influenze che riceve dal cielo, concepisce e germoglia
+diverse piante di virt@u diverse.  Alcuni per@o, contro l'autorit@a
+di quasi tutti i Codici e di tutti gli antichi chiosatori, 
+insistono per la lezione |altra terra~, intendendo non gi@a di
+quella da noi abitata, sibbene da questa ov'ora @e Matelda: ma fu
+ben fatto avvertire che in tal guisa il concetto del Poeta si
+restringerebbe e si storcerebbe, poich@e facendone avvertire come
+i semi delle piante si diffondano per mezzo dell'aria, vuole
+concludere non esser maraviglia che qui sulla nostra terra
+nascano piante ^senza seme palese~, (v. 117); cio@e non perch@e
+l'aria abbia in s@e stessa la virt@u vegetativa, ma perch@e i semi
+raccolti nel percuoter certe piante li trasporta poi di luogo in
+luogo (e a tal fenomeno parmi alludere il Poeta anche altrove:
+^Par.~, XIII, 65-66).  -- |Concepe~; nel ^Conv.~, I, 3: <...
+avvegnach@e riceva il seme, non concepe.  -- |Figlia~; ^figliare~
+per ^germogliare~ o ^produrre~, not@o il Giuliani, @e ancor oggid@i
+in uso presso i contadini toscani.
+
+	|115-117.~  L'Alfieri not@o il primo.  |Di l@a~; nel vostro
+mondo.  -- |Senza seme palese~ ecc. (cf. ^Par.~, XIII, 66); il
+Cesari: <Noi veggiamo alcuna pianta attecchire in luoghi, dove
+non si pare essere stato alcun seme, come sulle torri, su' tetti
+delle case, o ne' buchi delle muraglie: non maraviglia adunque
+che la virt@u ricevuta da questa aria impregnata, la qual ^si
+volge in circuito colla prima v#olta~ {v.104}, scossa da lei, pu@o
+per caso aver col@a generato quelle piante, senza alcun de' semi a
+noi noti.>  Per@o Dante disse bens@i che nel Paradiso Terrestre i
+fiori nascevano ^senza seme~ (v. 69; ^Purg.~, XXVII, 135), e or
+ora (vv. 109-111) ripet@e, in sostanza, la stessa cosa; ma qui, 
+rispetto alla terra nostra, dice |senza seme palese~; il che non
+esclude il seme, ma solo accenna che il seme non vi fu posto
+dall'uomo, e che quindi dovette esservi portato dal vento.
+
+	|118-120.  D'ogni semenza~ ecc.; avendo dichiarato il
+Poeta che qui tutto nasce ^senza seme~ {v.117} (v. 69; ^Purg.~, 
+XXVII, 135), qui |semenza~ @e da intendere in senso di ^piante, 
+alberi~; cio@e il terrestre Paradiso @e pieno d'ogni specie di
+piante, ed ha frutti cos@i dolci e soavi, che non si spiccano
+dalle piante della terra nostra.  -- |Si schianta~; si stacca, si
+coglie (cf. ^Purg.~, XX, 45).
+
+	|121-126.~  Notati dall'Alfieri.  |L'acqua~ ecc.; questo
+fiumicello, che t'@e dinanzi, non iscaturisce di fonte, che cresca
+per piogge (cf. ^Purg.~, V, 109; XIV, 34-36, nel commento); per
+le quali avviene che i nostri fiumi ingrossino, o scemino in
+difetto di esse; ma rampolla da fonte invariabile e durevole, che
+dalla volont@a di Dio prende tant'acqua, quanta ne versa ne' due
+fiumi, che bagnano questa campagna.  Gli @e chiaro che il Poeta, 
+rispetto al Paradiso Terrestre, qui intese riferirsi alle parole
+che la S. Scrittura riferisce alla terra, in genere (^Genes.~, 
+II, 5-6): ^Non pluerat Dominus Deus super terram.~.. ^sed fons
+ascendebat e terra, irrigans universam superficiem terrae.~  --
+|Dal voler di Dio~; altrove (^Purg.~, XXIII, 61), ^dall'eterno
+consiglio.~
+
+	|127-129.~  Notati dall'Alfieri.  |Da questa parte~ ecc.;
+accenna al fiume Lete, ch'era l@i dinanzi.  -- |Dell'altra~;
+risguarda il corso dell'Euno@e.  -- |Toglie memoria del peccato~;
+non @e da intendere nello stretto senso, che l'acqua del Lete
+tolga dalle anime ogni memoria del peccato commesso, che ci@o
+contraddirebbe al fatto che tante anime in Cielo ricordano i loro
+falli, e nel ricordarli esultano, vedendo come la Provvidenza
+trasse da quelli argomento di glorificazione e di salute (cf.
+^Purg.~, XXXI, 98, nel commento; ^Dizionario Dantesco~, alla voce
+Lete); ma s'ha da intendere che toglie tale memoria in quanto
+essa potrebbe avere d'amaro e di doloroso; a confermarci in
+questo, bastano le parole di Folchetto (^Par.~, IX, 103-105).  --
+|Dall'altra~ ecc.; se Lete scancella la memoria del peccato, 
+l'Euno@e ^ravviva~ (^Purg.~, XXXIII, 129) quella d'ogni buona
+operazione.
+
+	|130-132.~  Notati dall'Alfieri.  |Quinci~; da questa
+parte, dal lato occidentale della foresta, donde Dante era
+entrato.  -- |Lete~; in greco suona ^oblivione.~  -- |Dall'altro
+lato~; dalla parte orientale della selva (cf. ^Purg.~, XXXIII, 
+112-117).  -- |Euno@e~; in greco, ^buona mente~, o ^memoria del
+bene.~  -- |Non adopra~; non produce effetto; chi sta ligio al
+^Purg.~, XXXIII, 91-113, e non d@a a questo |adopra~ il senso, che
+l'Autore intende, creder@a trovarsi Dante in contraddizione.  Non
+@e che il Poeta qui nieghi che il Lete non produca il suo effetto
+anche indipendentemente dall'Euno@e; ma vuol significarne che
+l'acqua scaturiente da quella ^fontana salda e certa~ {v.124}, e
+dividentesi in due rami, non produce il suo pieno effetto di
+render l'uomo veramente ^puro e disposto a salire alle stelle~
+(^Purg.~, XXXIII, 145), se prima (^quando la colpa pentita @e
+rimossa~, ^Inf.~, XIV, 137) non si lava nel Lete, e poscia non
+beve dell'Euno@e; n@e di questo pu@o bere, se prima non s'@e lavato
+in quello.
+
+	|133-138.~  L'Alfieri not@o il primo e i due ultimi. 
+|Sapori~ ecc.; il sapore dell'acqua di questi due fiumi avanza
+tutti i sapori del mondo; e logica vuole che s'intenda sia del
+Lete che dell'Euno@e; della dolcezza dell'acqua del primo parla
+tosto Matelda (v. 144); di quella dell'Euno@e dir@a pi@u esplicito
+il Poeta altrove (^Purg.~, XXXIII, 138).  -- |Sazia.~.. |sete~;
+cf. ^Purg.~, XX, 3; XXI, 1.  -- |Perch'io~ ecc.; bench@e il tuo
+desiderio di conoscere onde derivino queste acque e questo vento
+possa, dopo quanto t'ho detto, esser pienamente pago senza che io
+aggiunga altre parole di schiarimento.  -- |Darotti~; tuttavia ti
+dar@o un ^corollario~, far@o una giunta (^Par.~, VI, 30), ti
+aggiunger@o qualche altra cosa.  Boezio (^Consol. Fil.~, III, pr.
+10): <Non altramente che sogliono i geometri, i quali, poscia che
+hanno dimostrato le loro proposte, ne inferiscono alcune cose, 
+che essi chiamano porismati, e noi potremmo per ventura dir
+vantaggi; cos@i ti dar@o ancora io un corollario, ovvero giunta.> 
+-- |Per grazia~; senza esserne richiesta, liberamente.  -- |Si
+spazia~; si prolunga, si stende oltre a quello che promisi di
+dirti ^quanto bastasse~ (v. 84).  Con poca differenza di
+concetto, e con pari cortesia sentiremo dire anche Carlo Martello
+(^Par.~, VIII, 137-138).
+
+	|139-141.~  Notati dall'Alfieri.  Gli antichi poeti, che
+celebrarono, poetando, l'et@a dell'oro, e la sua felice condizione
+(cf. ^Purg.~, XXII, 140-150; Ovidio, ^Metam.~, I, 89-112; cf.
+^Inf.~, XIV, 96 e 106; ^Par.~, XXI, 26), |in Parnaso sognarono~, 
+poeticamente, nella loro fantasia intravidero questo giardino;
+non gi@a, nota il Cesari, ch'eglino collocassero nel monte Parnaso
+quelle dilizie; ma la frase |in Parnaso~ vale ^per finzione
+poetica~; perci@o il Giuliani: <per virt@u d'ingegno, e quasi come
+sognando, videro nella loro ispirata, fantasia questo luogo di
+delizie preparato da Dio all'uomo (v. 79);> cio@e immaginarono lo
+stato felice dell'et@a dell'oro conforme allo stato del Paradiso
+Terrestre.  Il Daniello, nota il Giuliani, per illustrare questa
+espressione di Dante, ben ci richiam@o a quella di Persio ^nec in
+bicipiti~ (-- sono ^i due gioghi~ di quel monte; ^Par.~, I, 17
+--) ^somniase Pernasso memini~; perch@e il fantasma, osserva il
+Casini, che prende figura e realt@a nell'opera del poeta, e come
+l'effetto d'un interna visione.  E perci@o qui v'@e un chiaro
+accenno, che quel tanto di vero che ci si discopre nella
+mitologia pagana, altro non @e che un adombramento o una
+trasformazione delle verit@a della S. Scrittura, alterate bens@i, 
+ma non scancellate dalle false religioni; ed @e certo per questa
+persuasione, che pur della Mitologia Dante fece s@i grand'uso a
+conferma o ad abbellimento delle verit@a stesse.
+
+	|142-144.~  L'Alfieri not@o il primo.  |L'umana radice~
+(cf. ^Purg.~, XX, 43); paragonata l'umanit@a ad un albero, la cui
+radice furono Adamo ed Eva, primi parenti di tutto l'uman genere
+(^Conv.~, IV, 15; ^Par.~, XXVI, 94).  Nella ^Vulg, El.~, I, 8. 
+^Radix humanae propaginis in oris orientalibus fuit plantata.~ 
+Ognun vede che qui |innocente~ non altro vale che ^libero, 
+dritto, sano~, che vedemmo altrove (^Purg.~, XXVII, 140); dunque
+|innocente~ val quanto ^libero~, e libero @e ^felice~ (v. 140;
+^Purg.~, XXVII, 115); ^dunque felicit@a, libert@a, innocenza~
+diventano termini di senso equipollenti.  In un dialogo tra
+Pipino re d'Italia e il famoso Alcuino suo maestro, Pipino
+domanda: ^Che cos@e la libert@a dell'uomo~? e Alcuino risponde:
+^L'innocenza~ (Cant@u, ^Stor., Univ.~, Ep. IX, cap. 19).  Cf.
+^Dizionario Dantesco~, vol. VIII, App. VIII, {Paragraph.} 4.  --
+|Nettare~; cf. ^Purg.~, XXII, 150.  Ovidio (^Metam.~, I, 90-111)
+ne parla pure, a proposito dell'et@a dell'oro, e dell'innocenza
+(dacch@e quell'et@a ^fidem rectumque colebat~), e della eterna
+primavera (^ver erat aeternum~); e dello scorrere i fiumi latte e
+nettare (^flumina jam lactis, jam flumina nectaris ibant~).  --
+|Di che~ ecc.; il nettare, del quale parlano tutti i poeti, @e
+l'acqua di questi fiumi scaturienti dal voler divino.
+
+	|145-148.~  L'Alfieri not@o i due primi e l'ultimo. 
+Perch@e fra gli antichi poeti anche Virgilio parl@o dell'et@a
+dell'oro, e sia Virgilio che Stazio fecero le lodi del ^nettare~, 
+divina bevanda, il Poeta non solo ^si rivolge~, ma ^tutto si
+rivolge a loro~, cio@e con tutta la persona (cf. ^Purg.~, XXIX, 
+14), per vedere quale effetto avesser fatto su loro le parole di
+Matelda, rispetto agli antichi poeti; ^naturalissimo atto, e
+dantesco~, lo dice il Cesari.  -- |Con riso~, di compiacenza, 
+spiegano alcuni; forse no; e in quel ^sognaro~ {v.141} aveano
+capito che c'era per loro (bench@e Matelda non li conoscesse) una
+puntura, gentile s@i, ma puntura; e intesero |l'ultimo costrutto~, 
+le ultime parole di Matelda (il ^corollario~ dato a Dante), |con
+riso~, quasi volessero dire: Avete ragione: ora conosciamo anche
+noi che non vedemmo, ma sognammo.  -- |Poi~; dopo quell'atto
+d'essermi rivolto.  -- |Tornai~ ecc.; rivolsi (cf. ^Purg.~, XXIX, 
+58; ^Par.~, I, 142).
+
+	Nota le terzine 1 alla 12; 14 alla 17; 19; 21 alla 25;
+33, 36, 37, 38, 40, 42, 43, 44, 49.
+
+	^Nota~
+
+	Chi fosse la Matelda, che trovammo al principio di questo
+Canto, e che ci far@a compagnia sino alla fine della presente
+Cantica, ho gi@a detto, pur allegando le varie opinioni.  Ma qui
+giova chiarire e insistere su altra cosa; ed @e questa: ^Che cosa
+simboleggia Matelda~? @e mirabile l'accordo con che e chiosatori e
+critici affermano, che Matelda altro non raffigura che la ^vita
+attiva.~  Sta bene; ma io ragiono cos@i: Che cosa simboleggia il
+Paradiso Terrestre?  Dante stesso ne risponde (^Mon.~, III, 15), 
+che simboleggia la felicit@a della vita presente, la quale ^in
+operatione propriae virtutis consistit.~  Ma la felicit@a della
+vita presente ^in quanti modi~ (si noti bene), ^in quanti modi~
+si pu@o conseguire?  Certamente in due, cio@e mediante la ^vita
+attiva~ e la ^vita contemplativa~; il nostro Autore ne dice
+chiaro (^Conv.~, II, 5): <Quella che @e qui l'umana natura, non
+pure una beatitudine ha, ma due; siccome quella della ^vita
+civile~, e quella della ^contemplativa.~..  Quella della
+^contemplativa~ @e pi@u eccellente e pi@u divina.>  Ma dunque gli @e
+chiaro, che ambedue queste felicit@a, in quanto concernono alla
+^vita presente~, si devono trovare simboleggiate in qualche
+personaggio del Paradiso Terrestre, come quello che della duplice
+felicit@a, che l'uomo pu@o avere qui in terra, e figura.  Ma in
+chi? ^la vita attiva~, rispondono, @e per l'appunto figurata in
+^Matelda~; la ^contemplativa~, in ^Beatrice.~  Ma il ^Paradiso
+Terrestre~, domando io, @e forse sede di Beatrice?  Beatrice nel
+^Paradiso Terrestre~ non la troviamo, a dir cos@i, che per caso;
+la sede sua @e il ^Paradiso Celeste~, ch'@e simbolo ^della felicit@a
+eterna~, come definisce il nostro Autore (^Mon.~, III, 15);
+dunque Beatrice raffigura bens@i la ^vita contemplativa~, non in
+quanto la si pu@o esercitare in questo mondo e di preparazione
+all'eterna, sibbene in quanto @e propria di tutti i Beati, che
+hanno tutta e perpetua la loro felicit@a nella contemplazione del
+Bene sommo; onde per essi la ^vita contemplativa~ non @e mezzo
+come pei mortali a meglio giungere a Dio sibbene @e fine
+conseguito, @e fruizione, @e la stessa loro beatitudine (^Par.~, 
+XXVIII, 109-111).  Dunque io escludo affatto che la ^vita
+contemplativa~, in quanto risguarda gli uomini in terra, possa
+essere simboleggiata in Beatrice.  Per@o chi in Matelda mettesse
+soltanto il simbolo della felicit@a della ^vita attiva~, verrebbe
+con ci@o ad escludere dalla vita presente (^Paradiso Terrestre~)
+quella della ^vita contemplativa~, che pur in terra si pu@o avere
+per espressa affermazione di Dante, e che anzi ^@e pi@u eccellente
+e pi@u divina~; verrebbe, dico, con ci@o ad escluderla, pel fatto
+che mal si saprebbe in quale altro personaggio vederla
+simboleggiata.  Si badi bene che Matelda non solo ^opera~
+(cogliendo fiori e contando e facendosi ghirlanda), ma che anche
+^illuminer@a~ Dante sulle cose maravigliose che man mano vedremo
+succedersi nel ^Paradiso Terrestre~; cose superiori alla ragione
+umana, tanto @e vero che Virgilio, in vedendole, non altrimenti
+che Dante, ne rimane sbalordito.  Ma tale ^illuminazione~
+certamente non @e propria della ^vita attiva~, ma s@i della
+^contemplativa~; non perfetta per@o, ma solo in quanto tal ^vita~
+all'uomo, tuttavia nell'esilio mortale, pu@o far
+
+                veder de' fioretti del Melo, 
+     Che del suo pomo gli Angeli fa ghiotti, 
+     E perpetue nozze fa nel cielo
+
+(^Purg.~, XXXII, 73-75).  Dunque, a parer mio, Matelda in s@e
+raffigura s@i ^la vita attiva~ che la ^contemplativa~, in quanto
+si pu@o esercitare dall'uomo in questo mondo; e cos@i Matelda @e
+termine di passaggio, @e anello di congiunzione tra Virgilio e
+Beatrice, tra Ragione e Fede, tra l'azione della ^vita presente~
+e della ^futura.~  Come vedremo pi@u innanzi, la ^vita attiva~
+dispone l'anima alla ^contemplativa~, che non puossi avere se
+prima l'anima non siasi staccata dai vizi, ed esercitata nelle
+virt@u.  Perci@o il Poeta purificatosi, dall'^attiva~ passa alla
+^contemplativa~, l'una e l'altra simboleggiata in Matelda, in
+quanto s@i l'una che l'altra si possono avere dall'uomo viatore;
+ma la ^contemplativa~ su questa terra, per essere ^pi@u eccellente
+e pi@u divina~, di per s@e dispone alla ^contemplativa perfetta~, 
+che @e la gloria del Cielo, la quale ultima in Beatrice si
+simboleggia chiarissimamente.  Cos@i io la penso; ma forse avr@o
+torto: tuttavia per ora non posso accogliere altra spiegazione, 
+ben pronto a farlo quando dalle altrui dimostrazioni il mio torto
+mi fosse palese.  Intanto perch@e l'argomento della ^vita attiva~
+e ^contemplativa~ @e tanto rilevante nelle Opere dell'Allighieri, 
+e in s@e raccoglie tanta dottrina teologica e filosofica, e pu@o, 
+ben meditato, far capire ben addentro la mente dell'Autore anche
+rispetto a molte parti del Poema, metto qui sott'occhio del
+giovane studioso quanto di recente ho scritto su questo rilevante
+soggetto nel mio volume ^Alcuni studi~ ecc. ^come Appendice al
+Dizionario Dantesco~ (Append. X).  Se per un istante pu@o sembrare
+che cos@i io tragga il lettore di via, che @e quella del
+^commento~, non sar@a male; questi, li direi cos@i, ^posi~, non
+sono un deviare, chi ben vegga, ma sono anzi un rafforzare sulla
+via, e un render pi@u solido il lettore a percorrerla, se egli
+vorr@a ben ponderare il soggetto, e far tesoro della dottrina
+raccolta.  Scriver@o adunque quanto segue:
+
+	Vita Attiva E Contemplativa
+
+	I- Non solo i letterati di professione, ma i Padri e i
+Dottori della Chiesa, nei libri degli antichi e soprattutto nei
+poemi epici si fecero premura di ricercare le allegorie, sotto le
+quali @e velata l'antica sapienza, e che dei poemi stessi @e la
+parte veramente ammaestrativa.  In un campo, dove l'umana
+fantasia pu@o tanto spaziare, e dove l'ingegno pu@o tanto
+assottigliarsi nelle ricerche, non @e da credere che non sieno
+state dette delle fantasticherie; esposte come verit@a luminose
+certe parvenze, che non erano altro che troppo idoleggiati
+soggettivismi.  Nondimeno le indagini per diversi mezzi
+convengono nel medesimo risultato, che si @e quello di vedere ne'
+poemi epici raffigurata la ^Vita umana.~  Il Tasso, scrivendo
+dell'^allegoria~ della ^Gerusalemme Liberata~ [<Il Tasso volle
+dare alle finzioni della ^Gerusalemme Liberata~ un senso
+allegorico rigettato giustamente da' suoi ammiratori.  Ma questa
+posteriore invenzione del Tasso, figlia della sua vecchiezza, non
+ha che fare colle abitudini perseveranti che dominarono il poeta
+del XIII secolo; che si fanno conoscere di per s@e stesse ne'
+primi scritti della sua giovent@u (^Vita Nuova~), si enunciano
+patentemente in quelli dell'et@a matura (^Convito~), e si
+disvelano in molti luoghi del Poema (^Inf.~, IX; ^Purg.~, VIII), 
+come per avvertire i futuri lettori a ponderarne il senso
+nascosto> (Ozanam, ^Dante e la Filos. Catt.~, pag. 48)], ebbe a
+dire: <L'eroica Poesia, quasi animale, in cui due nature si
+congiungono, d'^imitazione~ e d'^allegoria~ @e composta.  Con
+questa nella ^Virt@u o nella Scienza, o nell'una e nell'altra gli
+ammaestra~: e siccome l'epica imitazione altro giammai non @e che
+somiglianza e immagine d'azione umana; cos@i suole l'^Allegoria
+degli epici dell'umana vita esserci figura.~..  Della vita
+dell'^uomo contemplante~ @e figura la ^Commedia~ di Dante, e
+l'^Odissea~ quasi in ogni sua parte; ma la ^vita civile~ in tutta
+l'^Illiade~ si vede adombrata; e nell'^Eneide~ ancora, bench@e in
+questa si scorga piuttosto in mescolamento ^d'azione~ e di
+^contemplazione.~>  Per gli studi seguenti, specialmente del Vico
+e de' suoi seguaci, le ricerche crebbero di vigore ed ampliarono
+quelle degli scrittori precedenti.  Scrisse lo Zanella [^Scritti
+Varj~, Firenze, 1877, pag. 65]: <Il grande discepolo del Vico, lo
+Stellini, nel suo trattato ^sull'origine e progresso de' costumi
+e delle opinioni che a' costumi si rapportano~, ha mostrato come
+nei diversi caratteri dell'Iliade e dell'Odissea si trovi una
+filosofica pittura della ^vita dell'uomo~, anzi di ^tutto il
+genere umano~; secondo il principio che la ^vita delle nazioni~
+si svolge per gradi come quella dell'individuo.  Da quell'immane
+Polifemo, che satollo di latte e delle carni degli ospiti si
+sdraia nella selvosa spelonca, venendo innanzi pe' tipi
+intermedii di Achille, di Ulisse, di Nestore, di Ettore e di
+Polidamante, fino a quel vilissimo Paride che, per tenersi in
+casa l'adultera, lascia cadere la sua patria in preda al ferro e
+al fuoco nemico, tutti sono descritti gli stati di una civilt@a, 
+che comincia dalla barbarie e termina nella depravazione; tutto
+delineato il giro di uno di quei circoli, ne' quali, con
+progressivo miglioramento, si svolge la vita delle nazioni. 
+Questa @e l'arcana sapienza de' poemi di Omero e di Esiodo; questo
+il fondamento filosofico dei drammi di Eschilo, di Sofocle e di
+Aristofane.>
+
+	II- Dante della antica sapienza ha fatto immenso tesoro, 
+e ne' classici poemi a lui noti vide chiaramente siffatte
+allegorie, a segno da tenere quei libri come chiaro documento
+dell'antico senno, e come un vero ritratto della vita umana, 
+tanto che non favolosa narrazione chiam@o l'^Eneide~ e la
+^Tebaide~, ma sibbene ^storia~ [^Conv.~, IV, 24 e 26], e Virgilio
+e Stazio son da lui detti
+
+                                     i due, 
+     Che fur del mondo si gran malischalchi, 
+     [^Purg.~, XXIV, 99]
+
+cio@e maestri e duci: e spende due capi del suo ^Convito~
+[^Conv.~, IV, 24 e 26] per ricercare le ragioni allegoriche del
+virgiliano poema [Assai a lungo discorre delle allegorie presso
+gli antichi e rispetto a Dante, e con molta dottrina, il Lubin in
+que' suoi ^Studi illustrativi~, che prepose al suo ^Commento
+della D. Commedia~, Padova 1881, pagg. 175-285].
+
+	Dante, versato negli studi de' Padri e de' Teologi
+medioevali, alla ricerca di questi sensi reconditi era tra' suoi
+contemporanei il meglio disposto; e chi ne vuol prove, vegga
+soprattutto la seconda parte del Trattato quarto del ^Convito~, 
+dove, oltre a Virgilio, trae in campo Ovidio, Lucano e Stazio.  E
+questa disposizione a vedere sotto il velame delle parole la luce
+filosofica, il senso nascoso, ci si manifesta in tutte le sue
+opere, dalla ^Vita Nuova~ fino alla ^Commedia.~
+
+	Non poteva dunque mancare, quale poema epico, la grande
+allegoria nella ^Commedia~; e questa non c'@e certificata da
+indagini de' suoi studiosi, ma dalla stessa irrefutabile parola
+del suo Autore, che scrive: <Si accipiatur opus ^allegorice~, 
+subiectum est ^homo, prout merendo aut demerendo per arbitrii
+libertatem, Iustitiae praemianti aut punienti est obnoxius~
+[^Epist. Kan.~, {Paragraph.} 9.  Cf. Appendice, XVII, Parte
+Seconda, {Paragraph.} V] ; il che poscia, con parole quasi
+conformi, fu ben rilevato nelle loro chiose al Poema da Pier di
+Dante, dal Boccaccio, da Filippo Villani, dal Lana e dal Buti. 
+Donde chiaro scaturisce che l'^Inferno~, nel senso allegorico, ci
+rappresenta l'uomo che abusando del libero arbitrio, mena la vita
+in opere peccaminose, e perci@o la prima Cantica pu@o e deve
+riguardarsi, nota il Giuliani, come un trattato ^de' Vizi~, dai
+quali gli uomini si lasciano perversamente occupare, vizi che il
+Poeta ne rappresenta per mezzo delle pene [Nel Cod. Magl.
+dell'Epistola a Cane, a questo punto si nota nel margine: <Ex
+illis verbis colligere potes, quod secundum allegoricum sensum
+Poeta egit de Inferno  isto, in quo peregrinando mereri et
+demereri possumus.>  -- Iacopo della Lana: <E perch@e l'autore
+nostro Dante considera la vita umana essere di tre condizioni, 
+come @e la vita di viziosi e la vita di penitenti, e la vita di
+virtuosi, per tanto di questo suo libro ne fa tre parti, cio@e lo
+Inferno, e 'l Purgatorio, e 'l Paradiso.>  -- E bella risorge la
+relazione tra la figura e il figurato, anche per questo che, 
+l'uomo vizioso ha nella sua anima una specie d'inferno anche in
+questa vita, come il virtuoso pregusta qualche cosa della pace
+del Paradiso.  Santo Agostino, citato dall'Angelico (^Somm.~, II, 
+II, 87, I, 3): ^Omnis inordinatus animus sibi ipsi est poena.~  E
+Dante (^Conv.~, I, 1): <Nella perfezione dell'anima nostra sta la
+nostra ultima felicit@a.>  Nell'^Imitazione di Cristo~ (I, 7):
+<Ogni volta che l'uomo disordinatamente desidera alcuna cosa, 
+subitamente diventa inquieto a s@e medesimo.  L'uomo superbo ed
+avaro mai non sta in riposo, ma l'umile e povero di spirito
+conversa in moltitudine di pace.>].
+
+	Il ^Purgatorio~ ci mostra per quali vie di penitenza il
+peccatore arrivi alla riconciliazione con Dio, e in quali
+operazioni virtuose debba esercitarsi per ^riempiere il vuoto
+fatto dalla colpa~ [^Parad.~, VII, 83], e giungere cos@i alla vita
+Contemplativa.  Il ^Paradiso~ rappresenta l'uomo che sanamente
+usa della libert@a dell'arbitrio; e per mezzo dei ^premj~ @e un
+trattato delle ^Virt@u~, nell'operazione delle quali pur in questo
+mondo si gode la pace, che @e poi perfettissima nel Cielo.  Al
+qual proposito tornano egregiamente le parole di Benvenuto
+intorno alla ^Div. Commedia~: <Materia sive subiectum huius libri
+est status animae humanae tam vivente corpore quam a corpore
+separatae. Qui status universaliter est triplex sicut auctor
+facit tres partes totius operis.  Quaedam enim anima est cum
+peccatis; et illa, dum vivit cum corpore, est mortua moraliter
+loquendo, et sic est in Inferno morali: dum est separata a
+corpore, est in Inferno essentiali, si obstinata insanabiliter
+moriatur.  Alia anima est quae recedit a vitiis: ista dum est in
+corpore, est in Purgatorio morali, seu in actu poenitentiae, in
+qua purgat sua peccata; separata vero est in Purgatorio
+essentiali.  Alia anima est quae in perfecto habitu virtutis, et
+iam vivens in corpore est quodammodo in Paradiso quia est in
+quadam felicitate quantum est possibile in hac vita miseriae:
+separata autem est in Paradiso coelesti ubi est vera et perfecta
+felicitas, ubi fruitur visione Dei> [Cf. Giuliani, ^Opere Latine
+di dante~, vol. II, pagg. 195-197].
+
+	Per tutto questo non @e guari difficile scorgere in questa
+allegoria, che informa il Poema sacro, le tre vite d'Aristotele, 
+come avverte il Lubin, cio@e la ^voluttuosa~, l'^attiva~ o
+^civile~, e la ^contemplativa~ [Cf. ^Somm.~, II, II, 179, 2. 
+Cos@i anche nel linguaggio di Dante ^Egitto~ (^Purg.~, II, 46;
+^Par.~, XXV, 55; ^Conv.~, II, 1; ^Epist.~, X, 7) e ^Babilonia~
+(^Par.~, XXIII, 135; ^Epist.~, VII, 1 e 8) suonano ^schiavit@u~ o
+^vita mondana~; mentre ^Gerusalemme~ e ^Roma~ (^Purg.~, XXXII, 
+102; ^Par.~, XXV, 56; cf. ^Purg.~, II, 46; ^Epist.~, VII, 8)
+suonano luogo di ^libert@a, vita buona, Paradiso.~  Veggasi nel
+mio ^Dizionario Dantesco~ gli articoli Babilonia, Egitto, 
+Gerusalemme, Roma, Libert@a.].
+
+	III- Dunque parmi che la Divina Commedia, quale immagine
+del mondo nella lotta tra vizi e virt@u, possa nell'allegoria
+ridursi al concetto di due ^strade~ diramantisi da un medesimo
+punto, sulle quali l'umanit@a fa suo viaggio la ^viziosa~ e la
+^virtuosa~, quest'ultima dividendosi in due sentieri che poscia
+si rincontrano e sarebbero la vita ^attiva~ e la ^contemplativa~;
+e ambedue buoni sentieri al viaggiatore e guidanti alla stessa
+citt@a; bench@e l'uno meglio che l'altro possa piacere ai gusti
+speciali di chi fa suo viaggio; onde le differenti vocazioni a
+questo o a quell'altro Ordine Religioso, quale di vita ^attiva~, 
+quale di ^contemplativa.~
+
+	Il pensiero delle due ^strade~ e de' diversi ^sentieri~ @e
+proprio di Dante.  Parlando dell'anima umana, che sempre desidera
+di ricongiungersi al Principio, onde provenne, cio@e a Dio, scrive
+il nostro Autore: -- <Il sommo desiderio di ciascuna cosa, e
+prima dalla Natura dato, @e lo ritornare al suo Principio.  E
+perocch@e Iddio @e Principio della nostra anima e fattore di quelle
+simili a s@e..., essa anima massimamente desidera tornare a
+quello.  E siccome peregrino che va per una via, per la quale mai
+non fu, che ogni casa che da lungi vede, crede che sia l'albergo, 
+e non trovando ci@o essere, dirizza la credenza all'altra, e cos@i
+di casa in casa tanto che all'albergo viene; cos@i l'anima nostra, 
+incontanente che nel nuovo e non mai fatto cammino di questa vita
+entra, dirizza gli occhi al termine del suo sommo Bene, e per@o
+qualunque cosa vede, che paia avere in s@e alcun bene, crede che
+sia esso...  Veramente cos@i questo cammino si perde per errore, 
+come le strade della terra: ch@e siccome da una citt@a a un'altra
+di necessit@a @e un'ottima e dirittissima via, e un'altra che
+sempre se ne dilunga, e molte altre, qual meno dilungandosi e
+qual meno appressandosi; cos@i nella vita umana sono diversi
+cammini, delli quali uno @e veracissimo, e un altro fallacissimo, 
+e certi men fallaci, e certi men veraci> [^Conv.~, IV, 12. 
+Veggasi l'altro tratto del ^Convito~ (IV, 17) pi@u sotto, al
+{Paragraph.} VII].
+
+	Che se vogliamo considerare il sacro Poema nel suo
+protagonista, che @e Dante stesso, il quale rappresenta l'umanit@a
+che dal male s'indirizza al bene, @e mestieri ravvisarvi
+semplicemente le due Vite, l'^attiva~ raffigurata nelle due prime
+Cantiche, nella terza la ^contemplativa.~
+
+	IV- Bene avvert@i il Lubin, spiegando un passo di S.
+Gregorio, che la ^Vita attiva~ non comprende soltanto le opere di
+giustizia, sibbene tutte le opere buone, civili, politiche, 
+religiose, senza escluderne alcuna, bench@e, come dice S. Tommaso
+[^Somm.~, II, II, 181, 1], le opere di giustizia tengano il posto
+principale.  La ^contemplativa~ invece, secondo S. Gregorio, @e
+riposta nel possedere in grado sommo la carit@a verso Dio e verso
+il prossimo; riposare da ogni opera esterna; non avere altro
+desiderio fuor di quello di unirsi al Creatore per godere
+dell'eterna incorruttibilit@a.
+
+	<L'^Attiva~, prosegue il santo Dottore, precede la
+^Contemplativa~, poich@e dalle buone opere si passa alla
+^Contemplazione.~  La ^Contemplativa~ per@o @e di merito maggiore;
+poich@e l'^Attiva~ si esercita nelle opere di questo mondo; la
+^Contemplativa~ pregusta gi@a, nell'interiore dolcezza, la pace
+futura [S. Pier Damiani nel ciel di Saturno, che @e degli Spiriti
+che in terra furono ^contemplanti~ (^Par.~, XXII, 46), dice al
+Poeta, parlandogli della propria dimora nel monastero di Fonte
+Avellana:
+
+     Al servizio di Dio mi fei s@i fermo, 
+     Che pur con cibi di liquor d'ulivi
+     Lievemente passava e caldi e geli, 
+     Contento ne' pensier contemplativi, 
+     ^Par.~, XXI, 113-117.]
+
+...E quantunque siano entrambe dono della divina Grazia; pure
+fino a tanto che viviamo, l'una ci @e al tutto necessaria, l'altra
+dipende dalla nostra volont@a.>
+
+	Di qui si pare quanta larghezza di senso abbiano quelle
+semplici parole di Virgilio che sfuggono all'osservazione di
+molti con che fa intendere a Dante che il mistico suo viaggio
+potevasi dividere in due parti, l'una di necessit@a, l'altra di
+elezione:
+
+     Ond'io per lo tuo me' penso e discerno, 
+     Che tu mi segui, ed io sar@o tua guida, 
+     E trarrotti di qui per luogo eterno, 
+     Ove udirai le disperate strida, 
+     Vedrai gli antichi spiriti dolenti, 
+     Che la seconda morte ciascun grida:
+     E vederai color, che son contenti
+     Nel fuoco, perch@e speran di venire, 
+     Quando che sia, alle beate genti:
+     Alle quai poi ^se~ tu vorrai salire, 
+     Anima fia a ci@o di me pi@u degna:
+     Con lei ti lascer@o nel mio partire, 
+     ^Inf.~, I, 112-123.
+
+[Cos@i @e stabilita la necessit@a della prima parte del viaggio, 
+lasciando alla libera elezione di Dante la seconda.  S. Gregorio, 
+citato da S. Tommaso (^Summ.~, II, II, 182, 4): ^Sine
+contemplativa vita intrare possunt ad coelestem patriam qui bona, 
+quae possunt, operari non negligent; sine activa autem intrare
+non possunt, si negligunt bona operari, quae possunt.~]
+
+	Questo secondo tratto di tanto significato, lo vedremo or
+ora riprodotto, in sostanza, in un bel passo della ^Monarchia.~ 
+Intanto si avverta che la stabilita differenza del duplice
+viaggio, stabilisce pur quella che intercede tra Virgilio e
+Beatrice; l'uno opera bens@i cogli aiuti della Grazia divina in
+beneficio di Dante, ma sempre entro un $ambito, dir@o cos@i, aperto
+all'umana ragione; l'altra opera in modo, che l'umana ragione del
+tutto trascende.
+
+	V- La distinzione delle due ^Vite~, quale ora vedemmo, 
+rispetto al sacro Poema, in s@e e nelle due Guide, si pu@o anche
+scorgere, chi ben guardi, in questo tratto della Monarchia: --
+<Duos fines Providentia illa inenarrabilis homini proposuit
+intendendos, beatitudinem scilicet huius vitae, quae in
+operatione propriae virtutis consistit, et per terrestrem
+Paradisum figuratur; et per beatitudinem vitae aeternae, quae
+consistit in fruitione divini Aspectus: ad quam virtus propria
+ascendere non potest, nisi Lumine divino adjuta; quae per
+Paradisum coelestem intelligi datur.  Ad has quidem beatitudines, 
+velut ad diversas conclusiones, per diversa media venire oportet. 
+Nam ad primam, ^per philosophica documenta~ venimus, dummodo illa
+sequamur, secundum Virtutes morales et intellectuales operando. 
+Ad secundam vero, ^per documenta spiritualia~, quae humanam
+rationem transcendunt, dummodo illa sequamur secundum Virtutes
+theologicas operando, Fidem scilicet, Spem et Charitatem>
+[^Mon.~, III, 15.  Cf. Appendice V, Parte Prima, {Paragraph.} 1].
+
+	Stabilita cos@i la maggiore eccellenza del fine (^Paradiso
+terrestre e celeste~), nonch@e quella dei mezzi (^Virgilio~ e
+^Beatrice~, ossia le ^Virt@u morali~ e le ^teologali~), ben si pu@o
+dire che la ^Vita contemplativa~ non @e che complemento
+dell'^attiva~, questa quale preparazione di quella [S. Tommaso, 
+^Somm.~, II, II, 180, 2: <^Dispositive~ virtutes morales
+pertinent ad vitam Contemplativam.  Impeditur enim actus
+contemplationis, in quo essentialiter consistit vita
+contemplativa, et per vehementiam passionum, per quam abstrahitur
+intentio animae ab intelligibilibus ad sensibilia, et per
+tumultus exteriores.  Virtutes autem morales impediunt
+vehementiam passionum, et sedant exteriorum occupationum
+tumultus.  Et ideo virtutes morales dispositive ad vitam
+contemplativam pertinent.>  E ibid. 182, 4: ^Vita activa~ est
+prior, quam ^contemplativa~; quia disponit ad ^contemplativam~]:
+e per tal modo s'illustra un bel punto del Poema.  Al giungere di
+Beatrice nel Paradiso terrestre sul carro s@i sfolgorante, Dante
+ne narra:
+
+     Tre donne in giro dalla destra ruota
+     Venian danzando: l'una tanto rossa, 
+     Ch'a pena fora dentro al fuoco nota:
+     L'altr'era come se le carni e l'ossa
+     Fossero state di smeraldo fatte;
+     La terza parea neve teste mossa...
+     Dalla sinistra quattro facean festa, 
+     In porpora vestite, dietro al modo
+     D'una di lor, ch'avea tre occhi in testa, 
+     ^Purg.~, XXIX, 121 e segg.
+
+[@E la ^Prudenza.~  Nel ^Convito~ (IV, 17): <Bene si pone
+Prudenza, cio@e Senno per molti essere morale virt@u... avvegnach@e
+essa sia conducitrice delle morali Virt@u, e mostri la via per che
+elle si compongono e senza quella essere non possono.>]
+
+	Son esse le tre Virt@u Teologali; e come pi@u nobili si
+stanno alla destra di Beatrice; le altre quattro sono le Morali, 
+e stanno alla sinistra.  S@i che Beatrice, e non @e certo a caso, 
+apparisce vestita per l'appunto dei tre colori, onde ci sono
+rappresentate le teologali:
+
+     Sovra ^candido~ vel cinta d'oliva, 
+     Donna m'apparve, sotto ^verde~ manto, 
+     Vestita di color di ^fiamma viva~, 
+     ^Purg.~, XXX, 31-33.
+
+Pi@u tardi, quando il Poeta @e tolto dal Lete, e da Matelda ^viene
+offerto~
+
+     Dentro alla danza delle quattro belle, 
+
+e ^ciascuna lo copre col braccio~, esse cantano:
+
+     Non sem qui ninfe, e nel ciel semo stelle;
+     Pria che Beatrice discendesse al mondo, 
+     Fummo ordinate a lei per sue ancelle.
+     Menrenti agli occhi suoi; ma nel giocondo
+     Lume, ch'@e dentro, aguzzeran li tuoi
+     Le tre di l@a, che ^miran pi@u profondo~, 
+     ^Purg.~, XXXI, 103 e seg.
+
+[Son quelle, che il Poeta vide gi@a ^fregiar di luce la faccia~ di
+Catone (^Purg.~, I, 37); rispetto alle Virt@u teologali son quelle
+^tre facelle~ onde il ^polo australe tutto quanto ardeva~, viste
+dal Poeta dalla Valletta dei Principi (^Purg.~, VIII, 39).]
+
+	VI- Per tutto questo si comprende di leggieri il grazioso
+sogno, che ebbe il Poeta, giunto alla vetta del santo Monte, 
+prima di entrare nel Paradiso terrestre:
+
+     Giovane e bella in sogno mi parea
+     Donna vedere andar per una landa, 
+     Cogliendo fiori, e cantando dicea:
+     Sappia qualunque il mio nome  domanda, 
+     Ch'io mi son Lia, e vo movendo intorno
+     Le belle mani a farmi una ghirlanda
+     Per piacermi alla specchio qui m'adorno:
+     Ma mia suora Rachel ^mai non si smaga~
+     ^Dal suo miraglio~ e ^siede~ tutto giorno.
+     Ell'@e de' suoi begli occhi ^veder~ vaga.
+     Com'io dell'^adornarmi colle mani~:
+     ^Lei lo vedere~, e ^me l'ovrare appaga~, 
+
+^Purg.~, XXVII, 97 e segg. [^Somm.~, II, II, 182, I: ^Rachel~, 
+per quam significatur ^Vita contemplativa~, interpretatur ^visum
+principium; Vita~ autem ^activa~ significatur per ^Liam~, quae
+erat lippis oculis.]
+
+	Di ^Lia~ e ^Rachele~ scrive S. Agostino: <Illa
+^operatur~, haec ^requiescit, quia~ illa est ^in purgatione
+peccatorum~, ista ^in lumine purgatorum~; illa est in ^opere
+bonae conversationis~, ista vero magis ^in fide~ et haud per
+paucos per speculum in aenigmate, et ex parte in religiosa
+^visione incommutabilis Veritatis~ [^Cons. Ev.~, I, 8].  S.
+Gregorio [^Homil.~, 14, a med.], citato da S. Tommaso [^Somm.~, 
+II, II, 181, r.], ne dice che in ^Lia~ [Ibid., 182, 1 e 2] @e
+significata la ^Vita attiva, quae dum occupatur in opere, minus
+videt.~  L'Angelico cita in appresso altre parole di Gregorio
+dalla stessa Omelia: ^Vita contemplativa ad quamdam libertatem
+mentis transit, temporalia non cogitans, sed aeterna.~..  ^Omnis
+qui ad Deum convertitur, prius necesse est ut desudet in labore~
+[Queste parole hanno conferma da quella di S. Isidoro, citato da
+S. Tommaso (ib., 181, 1); ^In activa vita prius per exercitium
+boni operis cuncta exaurienda sunt vitia, ut in contemplativa iam
+pura mentis acie ad contemplandum divinum Lumen quisque
+pertranseat.~  E di nuovo Gregorio: ^Calcatis curis omnibus ad
+videndam faciem sui Creatoris animus inardescit~ (loc. cit.)], 
+^idest Liam accipiat, ut post ad videndum Principium~ (cio@e Dio)
+^in Rachel amplexibus requiescat~; quello appunto che intervenne
+a Dante, che dagli orrori della Selva, dalle fatiche e dai
+patimenti per l'Inferno e pel Purgatorio giunge alla ^libert@a, 
+sanit@a~ e ^drittura~ dell'arbitrio [^Purg.~, XXVII, 140]; e cos@i
+ravvivato, e aiutato dal ^divino Lume~, arriva di Cielo in Cielo, 
+cio@e d'una in altra perfezione, fino all'Empireo, che @e il Cielo
+che ^pi@u~ ^prende della luce di Dio~ [^Par.~, I, 4], dove ogni
+suo desiderio e volere s'acquetano nella beatifica Visione
+[^Par.~, XXXIII, 143].
+
+	VII- Da queste premesse viene di per s@e un'osservazione
+circa al commento di un luogo del Poema.  Udimmo il sogno del
+Poeta, e conosciamo ^Lia~ e ^Rachele.~  Destatosi Dante, e
+costituito da Virgilio in piena potest@a di s@e stesso, entra nella
+selvetta del Paradiso Terrestre; e quivi, dopo poco, 
+improvvisamente gli appare sull'opposta sponda del Lete
+
+     Una donna soletta, che si gia
+     Cantando, ed iscegliendo fior da fiore, 
+     Ond'era pinta tutta la sua via, 
+     ^Purg.~, XXVIII, 40-42.
+
+	Il Poeta stupito di quella apparizione e maravigliato di
+tanta bellezza, le rivolge questa preghiera:
+
+     Deh, bella donna, ch'a' raggi d'amore
+     Ti scaldi, s'io vo' credere a' sembianti, 
+     Che soglion esser testimon del core, 
+     Vegnati voglia di trarreti avanti
+     ...verso questa riviera, 
+     Tanto ch'io possa intender che tu canti, 
+     ivi, 43-48.
+
+	E poi fattasi ella pi@u dappresso, ce la dipinge cos@i:
+
+     Di levar gli occhi suoi mi fece dono.
+     Non credo che ^splendesse tanto lume~
+     Sotto le ciglia a Venere trafitta
+     Dal figlio, fuor di tutto suo costume, 
+     ivi, 64-66
+
+	Ma dice ancor pi@u:
+
+     Ella ^ridea~ dall'altra riva dritta, 
+     Trattando pi@u color con le sue mani, 
+     Che l'alta terra senza seme gitta, 
+     ivi, 67-69.
+
+	Veniamo poi a sapere che questa mirabile donna @e Matelda
+[^Purg.~, XXXIII, 119].
+
+	Or bene; certo per le frasi ^iscegliendo fior da fiore~ e
+^trattando pi@u color~ ecc., che rispondono a quella della sognata
+Lia ^e vo movendo intorno le belle mani~ ecc., i chiosatori tutti
+concordi veggono in Matelda compiuto il fatto sogno per quello
+che concerne a ^Lia~, cio@e ravvisano semplicemente in ^Matelda~
+la ^Vita attiva.~  Questa spiegazione cos@i esclusiva non parmi
+convenire alla mente dell'Autore, mettendola specialmente a
+confronto con quanto udimmo in addietro intorno alle due ^Vite.~ 
+Infatti, mi pare che non siasi bastantemente osservato il valore
+delle parole del Poeta, che Matelda ^si scaldava ai raggi
+d'amore~, che alzando gli occhi li facea vedere ^pieni di faville
+d'amor~, e ch'ella ^ridea~; queste espressioni pi@u che a ^Lia~
+s'appartengono a ^Rachele~; onde mi viene il sospetto, credo non
+irragionevole, che in ^Matelda~ abbia voluto l'Allighieri
+intendere l'una e l'altra sorella, non gi@a in forma assoluta, ma
+come termine di transizione, essendo per Dante finita la ^Vita
+attiva~ l@a dov'ebbe il sogno, e cominciando la ^Contemplativa~ al
+sorgiungere di Beatrice, che tosto verr@a.
+
+	E il sospetto mi si rende certezza da quanto segue. 
+Matelda, rivolgendosi ai tre Poeti dice loro:
+
+     Voi siete nuovi: e forse perch'io ^rido~, 
+     ... in questo luogo eletto
+     All'umana natura per suo nido, 
+     Maravigliando tienvi alcun sospetto;
+     Ma luce rende il salmo ^Delectasti~, 
+     Che puote disnebbiar vostro infelletto, 
+     ivi, 76-81.
+
+	Il Salmo qui ricordato @e il novantesimoprimo, ove si
+legge (vv. 1-7): <Bonum est confiteri Domino, e ^psallere~ nomini
+tuo, Altissime.  Ad annuntiandum mane misericordiam tuam, ^et
+veritatem tuam per noctem~ [Questa non @e certamente occupazione
+della ^Vita attiva~].  In ^decachordo psalterio~, cum ^cantico~
+in cithara.  Quia ^delectasti~ me, Domine, in ^factura tua~; et
+^in operibus manuum tuarum exsultabo.~  Quam magnificata sunt
+^opera tua~, Domine! nimis ^profundae~ factae sunt ^cogitationes~
+tuae [Quindi acume di contemplazione necessario a capire le opere
+e i consigli del Signore; cio@e necessit@a di non ^ismagarsi dal
+miraglio~, nel quale le operazioni di Dio si riflettono
+all'occhio del contemplante, quasi come il Verbo in quelli di
+Beatrice (^Purg.~, XXXI, 121-123.)].  Vir insipiens non
+cognoscet, et stultus non intelliget haec.>
+
+	Tutto questo ritrae vigore e verit@a da un grave punto di
+S. Tommaso, da Dante in ogni cosa seguito.  Il Teologo che s'era
+chiesto ^se la~ vita contemplativa ^consista solo nella
+contemplazione di Dio, o anche nella contemplazione di qualsiasi
+verit@a~ [^Somm.~, II, II, 180, 4], consente che alla ^Vita
+contemplativa~ pu@o appartenere anche la contemplazione ^divinorum
+effectuum, prout scilicet ex hoc manuducitur homo in Dei
+contemplationem~; e cita quel di S. Paolo: ^Invisibilia Dei per
+ea, quae facta sunt, intellecta conspiciuntur~ [Cf. ^Conv.~, III, 
+6: ^Epist.~, V, 8.  Nel ^Conv.~, IV, 22: <Considerare l'opere di
+Dio e della natura.>  ^Par.~, X, 1-24 (Cf. I, 1-3; 103 e segg.). 
+S. Agostino (^Tract. 24 in Joan.~): <Quia ipse Christus Verbum
+Dei est, etiam factum Verbi verbum nobis est]; e quindi
+stabilisce i quattro generi di cose che appartengono alla ^Vita
+contemplativa~: 1) ^virtutes morales~, 2) ^alii actus praeter
+contemplationem~; 3) ^contemplatio divinorum effectuum~; 4)
+^campletivum est ipsa contemplatio divinae Veritatis.~  Ora
+siccome l'Angelico, come a fondamento della questione, che s'era
+proposto, cit@o le parole del ^Salmo~ (138) ^mirabilia opera tua, 
+et anima mea cognoscit nimis~; cos@i, come a conclusione di questo
+punto, riferisce queste altre (^Ps.~ 142): ^Meditatus sum in
+omnibus operibus tuis, et infactis manuum tuarum meditabar:
+expandi manus meas ad te.~  Per me poi @e chiarissimo che tra
+queste allegate dall'Angelico, e quelle da me recate dal ^Salmo~
+91 a piena intelligenza dell'accenno di Matelda, non v'ha
+differenza di sorta; e per di pi@u vi si aggiunge la affermazione
+del grande Teologo, per la quale in Matelda dobbiamo scorgere
+qualche cosa che, risguarda la ^Vita contemplativa.~
+
+	Da ci@o dunque deriva che ^Matelda~ comprende in s@e non
+solo ^Lia~, ma s@i anche ^Rachele~; adombra le due ^Vite~, e serve
+come di anello di congiunzione tra la ^attiva~ compiuta dal
+poeta, e la ^contemplativa~ ch'egli stava per incominciare; era
+fatto il fondamento, ora gli restava l'innalzamento
+dell'edificio; era uscito fuori dalle ^erte~ e dalle ^arte vie~
+della ^vita attiva~, e non gli restava che di elevarsi per via
+ampia, piana, e luminosa alla piena contemplazione di Dio.  Ma
+chi porga attenzione a quanto avviene negli ultimi Canti del
+Purgatorio, dall'apparizione di Beatrice in poi, s'accorge senza
+dubbio veruno, che molte di queste cose singolari appartengono
+alla ^contemplazione~ come saggio, dir@o cos@i, della ^vita~
+totalmente ^contemplativa~, che il Poeta stava per incominciare. 
+Per simil maniera, all'entrare nella Cornice ove si purga l'Ira, 
+il Poeta sogna tre grandi esempi di mansuetudine [^Purg.~, XV, 85
+e segg.]; e all'entrare nella terza sezione del Purgatorio, ove
+si scontano gli effetti della Cupidigia (Avarizia e Prodigalit@a, 
+Gola, Lussuria), ei sogna la strega seduttrice [Ivi, XIX, 1-33; e
+cf. 55-63]; e qui sogn@o ^Lia~ e ^Rachele~, che poi si compendiano
+in ^Matelda~, preparazione di Beatrice, la quale pel Poeta fu in
+terra verace esempio di perfetta ^vita attiva~, come quindi
+innanzi sar@a per lui tipo esemplare e maestra della
+^contemplativa~: e quale altra ragione, se non questa, vi
+sarebbe, perch@e il Poeta, come vedemmo, ponesse ai lati di
+Beatrice le virt@u Morali e le Teologali?
+
+	Intanto proprio nel Paradiso Terrestre, che puossi
+considerare come atrio del Celeste (i tre Regni nelle tre
+Cantiche descritti, hanno ognuno il loro ^atrio~), comincia per
+Dante la ^vita contemplativa~; comincia, dico, per quello che
+dice l'Angelico [^Somm.~, II, II, 180, 8]: <Modus contemplandi
+non est idem hic et in patria; sed vita contemplativa dicitur
+manere ratione charitatis, in qua habet et principium et finem
+[Proprio cos@i avviene di Dante, tolti i terreni ingombri
+(^Purg.~, XXVII, 140), e ^privo d'impedimento~ (^Par.~, I, 140), 
+e perci@o
+
+     Puro e disposto a salir alle stelle, 
+     ^Purg.~, XXXIII, 145.].
+
+
+Et hoc est quod Gregorius dicit [Super Ezech., ^Homil.~, 14, 
+post. med.]: ^Contemplativa hic incipit, ut in coelesti patria
+perficiatur; quia amoris ignis, qui hic ardere inchoat, quum
+ipsum, quem amat, viderit, in amore ipsius amplius ignescit.~
+
+	VIII- Quello che ^Lia~ e ^Rachele~ nell'Antico
+Testamento, significano ^Marta~ e ^Maria~ nel Nuovo [Cf. ^Somm.~, 
+II, II, 179, 2; 182, 1].  Il nostro Autore scrive [^Conv.~, II, 
+5]: <Quella che @e qui l'umana natura, non pure una beatitudine
+ha, ma due, siccome quella della ^vita civile~, e quella della
+^contemplativa.~..  Questa @e pi@u divina.>  E altrove [Ivi, IV, 
+17]: <@E da sapere che noi potemo avere in questa vita due
+felicit@a, secondo due diversi cammini, buono e ottimo, che a ci@o
+ne menano; l'uno @e la vita Attiva, e l'altro la ^Contemplativa.~ 
+La quale (avvegnach@e per l'Attiva si pervenga, come detto @e, a
+buona felicit@a) ne mena a ottima felicit@a e beatitudine, 
+secondoch@e prova il Filosofo nel decimo dell'^Etica.~  E Cristo
+l'afferma colla sua bocca nel Vangelo di Luca, parlando a Marta, 
+e rispondendo a quella: ^Marta, Marta, sollecita se', e turbiti
+intorno a molte cose: certamente una cosa sola @e necessaria~, 
+cio@e quello che fai; e soggiunge: ^Maria ottima parte ha eletta
+la quale non le sar@a tolta.~  E Maria secondoch@e @e scritto
+dinanzi a queste parole del Vangelo a' piedi di Cristo sedendo
+nulla cura del ministerio della casa mostrava; ma solamente le
+parole del Salvatore ascoltava.  Che se moralmente ci@o volemo
+esporre, volle il nostro Signore in ci@o mostrare che la
+Contemplativa vita fosse ottima, tuttoch@e buona fosse l'Attiva:
+ci@o @e manifesto a chi ben vuole por mente alle evangeliche
+parole.>
+
+	Abbiam veduto che la ^Vita Attiva~ @e come fondamento e
+disposizione della ^Contemplativa~; e del pari che l'^Attiva~ @e
+di necessit@a, mentre l'altra pu@o essere di elezione; ondech@e
+meglio si conf@a alla maggior parte degli uomini: perci@o Dante
+tosto soggiunge: <Potrebbe alcuno dire, contro a me argomentando:
+poich@e la felicit@a della Vita Contemplativa e pi@u eccellente che
+quella dell'Attiva, e l'una e l'altra possa essere e sia frutto e
+fine di Nobilt@a, perch@e non anzi si procedette per la via delle
+Virt@u intelletttuali che delle morali?  A ci@o si pu@o brevemente
+rispondere, che in ciascuna dottrina si vuole avere rispetto alla
+facolt@a del discendente, e per quella via menarlo, che pi@u a lui
+sia lieve.  Onde, perciocch@e le Virt@u morali paiono essere e
+sieno pi@u comuni e pi@u richieste che l'altre, e Nobiltade
+nell'effetto di fuori, utile e convenevole fu pi@u per quello
+cammino procedere, che per l'altro; ch@e cos@i bene si verrebbe
+alla conoscenza delle api per lo frutto della cera ragionando, 
+come per lo frutto del m@ele, tutto che l'uno e l'altro da loro
+proceda.>
+
+	Della Vita attiva il nostro Autore aveva scritto, dopo
+annoverate, secondo Aristotele, le virt@u morali: <Ciascuna di
+queste Virt@u ha due nemici collaterali, cio@e vizi, uno in
+^troppo~ e un altro in poco [Nel capo VI dello stesso Trattato, 
+afferm@o con Socrate e Platone, che <nelle nostre operazioni si
+pu@o peccare e si pecca nel troppo e nel poco;> che @e poi quello
+che dice nel ^Purgatorio~ dell'amore di elezione, il quale
+
+     puote errar per malo obbietto, 
+     O per ^poco~, o per ^troppo~ di vigore
+
+XVII, 95: onde la necessit@a che gli uomini avessero ^sprone~ e
+^freno~, del che ragiona Dante nel ^Convito~ (IV, 26); quindi
+^sproni~ e ^freno~ del ^Purg.~, VI, 85 e 95, che @e il ^freno~
+e ^guida~ del XVI, 93, che non sono che la ^ferza~ e il ^freno~
+del XIII, 39-40; e il ^freno~ altro non @e che quel ^camo~, 
+
+     Che dovria l'uomo tener dentro a sua meta, 
+     ^Purg.~, XIV, 143.
+
+E tutto questo, come tanti raggi d'un sol corpo luminoso, @e
+riassunto e spiegato da queste parole della ^Monarchia~ (III, 
+15), dove dichiara che ogni mezzo per giungere alla sua duplice
+felicit@a, alla quale da Dio @e chiamato il genere umano, sarebbe
+vano senza la doppia vigile Autorit@a, Imperatore e Papa: <Has
+igitur conclusiones et media humana cupiditas postergaret, nisi
+homines tamquam equi, sua bestialitate vagantes, in ^chamo~ et
+^froeno~ compescerentur in via.>].  E queste sono i mezzi intra
+quelli, e nascono tutte da un principio, cio@e dell'abito della
+nostra buona elezione.  Onde generalmente si pu@o dire di tutte, 
+che siano abito elettivo consistente nel mezzo.  E queste sono
+quelle che fanno l'uomo beato, ovvero felice, nella loro
+operazione, siccome dice il Filosofo nel primo dell'^Etica~, 
+quando definisce la Felicitade, dicendo che ^felicit@a @e
+operazione di Virt@u in vita perfetta~> [^Conv.~, III, 15].
+
+	IX- In altra parte della stessa Opera prende la cosa pi@u
+dall'alto; quantunque lungo sia il tratto, @e bene riferirlo per
+dare incremento al presente soggetto, e perch@e illustra alcuni
+punti toccati qui e l@a.  Scrive adunque [^Conv.~, IV, 22]: --
+<L'uso del nostro animo @e massimamente dilettoso a noi; e quello
+che @e massimamente dilettoso a noi, quello @e nostra ^felicit@a~ e
+nostra ^beatitudine~, oltre la quale nullo diletto @e maggiore, n@e
+nullo altro pare, siccome veder si pu@o, chi ben riguarda la
+precedente ragione...  Veramente l'uso del nostro animo @e doppio, 
+cio@e pratico e speculativo (pratico @e tanto, quanto operativo), 
+l'uno e l'altro dilettosissimo; avvegnach@e quello del contemplare
+sia pi@u, siccome di sopra @e narrato.  Quello pratico si @e operare
+per noi virtuosamente, cio@e onestamente, con prudenza, con
+temperanza, con fortezza e con giustizia; quello speculativo si
+@e, non operare per noi, ma considerare l'opere di Dio e della
+natura...  Veramente di questi usi l'uno @e pi@u pieno di
+beatitudine, che l'altro; siccome @e lo speculativo, il quale
+senza mistura alcuna @e uso della nostra nobilissima parte, e lo
+quale per lo radicale amore, che detto @e, massimamente @e amabile, 
+siccome @e lo intelletto.  E questa parte in questa vita
+perfettamente lo suo uso avere non pu@o, il quale @e vedere Iddio
+(ch'@e sommo intelligibile), se non in quanto l'intelletto
+considera Lui e mira per li suoi effetti.  E che noi domandiamo
+questa beatitudine per somma, e non l'altra (cio@e quella della
+vita attiva), n'ammaestra lo Evangelio di Marco, se bene quello
+volemo guardare.  Dice Marco, che Maria Maddalena, e Maria
+Jacobi, e Maria Salome andarono per trovare il Salvatore al
+monimento, e quello non trovarono, ma trovarono un giovane
+vestito di bianco, che disse loro: <Voi domandate il Salvatore, 
+<e io vi dico che non @e qui: e per@o non abbiate temenza; ma ite e
+dite alli <discepoli suoi e a Pietro, che Ello li preceder@a il
+Galilea; e quivi lo vedrete, <siccome vi disse.>  Per queste tre
+donne si possono intendere le tre Sette della vita attiva, cio@e
+gli Epicurei, gli Stoici e li Peripatetici, che vanno al
+monimento, cio@e al mondo presente, ch'@e ricettacolo di
+corruttibili cose, e domandano il Salvatore, cio@e la beatitudine, 
+e non Lo trovano; ma uno giovane trovano in bianchi vestimenti, 
+il quale, secondo la testimonianza di Matteo ed anco degli altri, 
+era Angelo di Dio.  E per@o Matteo disse: <L'Angelo di Dio discese
+dal cielo, e vegnendo volse la pietra e sedea sopr'essa, e 'l
+suo aspetto era come folgore, e le sue vestimenta erano come
+neve.>  Questo Angelo @e questa nostra nobilt@a, che da Dio viene, 
+come detto @e, che nella nostra ragione parla, e dice a ciascuna
+di queste Sette, cio@e a qualunque va cercando beatitudine nella
+vita attiva, che non @e qui; ma vada, e dicalo alli Discepoli e a
+Pietro, cio@e a coloro che 'l vanno cercando, e a coloro che sono
+sviati, siccome Pietro che l'avea negato, che in Galilea li
+preceder@a; cio@e che la beatitudine preceder@a noi in Galilea, cio@e
+nella speculazione.  Galilea @e tanto a dire, quanto bianchezza. 
+Bianchezza @e un colore pieno di luce corporale, pi@u che nullo
+altro; e cos@i la contemplazione @e pi@u piena di luce spirituale, 
+che altra cosa che quaggi@u sia.  E dice: <e' preceder@a;> e non
+dice: <e' sar@a con voi;> a dare ad intendere che alla nostra
+contemplazione Dio sempre precede; n@e mai lui giugnere potemo qui
+[Cf. ^Par.~, XIX, 40-66], il quale @e nostra beatitudine somma.  E
+dice: <quivi lo vedrete, siccome e' disse;> cio@e: quivi avrete
+della sua dolcezza, cio@e della felicitade, siccome a voi @e
+promesso qui; cio@e siccome stabilito @e che voi aver possiate.  E
+cos@i appare che la nostra beatitudine, questa felicit@a di cui si
+parla, prima trovare potemo imperfetta nella vita attiva, cio@e
+nelle operazioni delle morali virt@u, e poi quasi perfetta nelle
+operazioni delle intellettuali; le quali due operazioni sono vie
+spedite e direttissime a menar e alla somma beatitudine, la quale
+qui non si puote avere, come appare per quello che detto @e.>
+
+	Egregiamente S. Tommaso [^Somm.~, II, II, 179, 2]
+osserva, che tutte le sollecitudini delle umane azioni, se
+s'indirizzino secondo la retta ragione ai bisogni della vita
+presente, appartengono alla ^vita attiva~, la quale per mezzo di
+ordinate operazioni provvede alla necessit@a della vita presente:
+-- se poi tendono a soddisfare a qualsiasi concupiscenza, 
+appartengono alla ^vita voluttuosa~, la quale non @e contenuta
+nella vita attiva: -- ma le sollecitudini, che mirano alla
+considerazione della ^Verit@a~, appartengono alla ^vita
+contemplativa.~
+
+	Questa distinzione, nota il Lubin, abbraccia tutte le
+operazioni della Vita umana nel tempo; e per@o il soggetto
+allegorico della ^Commedia~, che comprende le tre vite, @e
+egualmente completo che il letterale, in cui @e figurato.
+
+	X- Dante ne dichiara, che la ^vita contemplativa~ @e pi@u
+divina della attiva; e siccome <quanto la cosa @e pi@u divina, @e
+pi@u di Dio simigliante, manifesto e che questa vita e da Dio pi@u
+amata> [^Conv.~, II, 5].  Egli @e per questo che nella terza
+Cantica, giunto al secondo Cielo, che @e quello di Mercurio, il
+Poeta si fa dire:
+
+     Questa picciola stella si correda
+     Di buoni spirti, che son stati ^attivi~, 
+     Perch@e onore e fama gli succeda, 
+     ^Par.~, VI, 112-114.
+
+	E non isfugga che il pianeta @e ^picciolo~, che <Mercurio
+@e la pi@u piccola stella del Cielo> [Ivi]; e che anzi <pi@u va
+velata de' raggi del Sole, che null'altra stella> [Ivi, II, 14. 
+E trova conferma nel ^Par.~, V, 129, dove Mercurio @e detto ^la
+spera~, 
+
+     Che si vela ai mortai con gli altrui raggi];
+
+ad indicarne le imperfezioni, che nella vita attiva s'incontrano, 
+la quale non ha per intento diretto di cercare la prima ed
+essenziale Verit@a, ch'@e Dio; questo pensiero @e rilevato dal Poeta
+nell'allegata terzina; onde poi soggiunge:
+
+     E quando gli desiri poggian quivi
+     S@i disviando, pur convien che i raggi
+     Del vero amore in su poggin men vivi.
+
+	I Santi invece, che menarono ^vita contemplativa~ son
+posti dal Poeta nel Cielo di Saturno, che @e l'ottavo [^Par.~, XXI
+e XXII], e tal pianeta <sopra tutti gli altri pianeti @e alto>
+[^Conv.~, II, 14; e le due ^propriet@a~, che quivi nota del
+pianeta di Saturno, sono assai bene applicabili alla ^Vita
+Contemplativa.~  -- Non @e per questo da credere che solo nel
+Cielo di Mercurio ed in quello di saturno vi siano i beati di
+vita ^attiva~ o ^contemplativa~, quando si pensi che la
+santificazione si consegue solamente per una di queste due vie;
+per@o in quei due Cieli Dante colloca i Santi che in modo
+particolare si diedero ad una di queste due Vite.  I Santi
+Teologi del cielo del Sole furono e ^attivi~ e ^contemplativi.~].
+
+	Appunto in Saturno al Poeta, non senza perch@e, si
+presenta questa visione:
+
+     Di color d'oro, in che raggio traluce, 
+     Vid'io uno scal@eo eretto in suso
+     Tanto, che nol seguiva la mia luce.
+     Vidi anche per li gradi scender giuso
+     Tanti splendor, ch'io pensai ch'ogni lume, 
+     Che par nel ciel, quindi fosse diffuso, 
+     ^Par.~, XXI, 28-33;
+
+e di quell'Anime beate, segue il Poeta, quali di l@a spiccavano il
+volo senza ritornarvi; quali, partitene, ritornavano al posto
+primiero; quali vi soggiornavano in gaudiosi movimenti.
+
+	Di questa ^Scala~ dice pi@u sotto S. Benedetto a Dante che
+essa ^varcava~ fino all'Empireo, e soggiunge:
+
+     Infin lass@u la vide il patriarca
+     Jacob isporger la superna parte, 
+     Quando gli apparve d'Angeli si carca, 
+     ^Par.~, XXII, 68-72.
+
+	L'Angelico cos@i ragiona [^Somm.~, II, II, 181, 4]: <Jacob
+vidit Angelos ascendentes, quod pertinet ad ^contemplationem~; et
+descendentes quod pertinet ad ^actionem.~>
+
+	Nel ^Breviario Romano~ [^Die~ 7 ^Febr.~], di S. Romualdo, 
+che @e pure annoverato tra i Beati nel Cielo di Saturno [^Par.~, 
+XXII, 49], si legge: ^Spiritu etiam prophetiae non caruit. 
+Scalam a terra coelum pertingentem, in similitudinem Jacob
+Patriarchae, per quam homines in veste candida ascendebant, et
+descendebant, per visum conspexit; eoque Camaldulenses monachos, 
+quorum Instituti auctor fuit, designari mirabiliter agnovit.~
+
+	Saviamente avverte il Lubin, che se Dante, seguendo
+Aristostele, parla delle due ^Vite attiva~ e ^contemplativa~, 
+come di mezzi a vivere felici in questo mondo, sul fine peraltro
+dell'ultimo tratto allegato test@e dal ^Convito~, egli le
+considera pure come vie spedite e sicure non solo a raggiungere
+la felicit@a temporale, ma pur anco l'eterna.
+
+	L'affermazione dell'egregio Dantista si potrebbe
+comprovare con molte testimonianze dell'Allighieri, il quale
+chiaro afferma che ^mortalis ista felicitas quodammodo ad
+immortalem felicitatem ordinatur~ [^Mon.~, III, 15]; e che tanto
+di sovente, in ciascuna sua opera, fa a' suoi lettori invito di
+levarsi alle cose divine, svincolandosi dalle transitorie, le
+quali ^fan parer dritta la via torta~ [^Purg.~, X, 2-5].  Certo, 
+nella contemplazione delle magnificenze di Dio, quasi richiamo
+alle creature di quaggi@u [^Purg.~, XIV, 148-151; ^Par.~, I, 
+140-147], egli vedeva un mezzo potente a sollevare le anime ai
+loro alti destini [^Purg.~, XV, 52-54; ^Par.~, X, 1 e segg.], a
+vincere le seduttrici battaglie [^Purg.~, XIX, 61-63.  Dante, 
+perch@e la contemplazione sia davvero proficua, di frequente ci d@a
+savio consiglio, quello cio@e di non pretendere di speculare
+troppo addentro certe cose, che vincono il nostro intelletto: cf.
+^Purg.~, III, 37-39; XXXIII, 82-90; ^Par.~, XIX, 79 e segg.;
+^Conv.~, IV, 5; e di frenare l'ardore della contemplazione, 
+potendo anch'essa diventare inordinata (^Purg.~, XXXII, 9).  Nel
+suo ^De Aq. et Terr.~, {Paragraph.} XXII: <desinant ergo, 
+desinant homines quaerere quae supra eos sunt, et quaerant usque
+quo possunt, ut trahant se ad immortalia et divina pro pose, ac
+majora se relinquant>], a conseguire quella libert@a dello
+spirito, ch'egli andava cercando, e ch'era lo scopo supremo cos@i
+del suo mistico viaggio, come del Poema.

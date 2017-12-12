@@ -1,0 +1,72 @@
+Script started on Sun Jan  7 15:46:55 1990
+% foreach FILE * 9 (*.l)
+? ls $FILE;detilde $FILE $FILE:r.k
+? end
+01.l
+Warning: 119 tildes removed
+02.l
+Warning: 82 tildes removed
+03.l
+Warning: 71 tildes removed
+04.l
+Warning: 50 tildes removed
+05.l
+Warning: 37 tildes removed
+06.l
+Warning: 69 tildes removed
+07.l
+Warning: 85 tildes removed
+08.l
+Warning: 63 tildes removed
+09.l
+Warning: 165 tildes removed
+10.l
+Warning: 112 tildes removed
+11.l
+Warning: 82 tildes removed
+12.l
+Warning: 158 tildes removed
+13.l
+Warning: 55 tildes removed
+14.l
+Warning: 154 tildes removed
+15.l
+Warning: 97 tildes removed
+16.l
+Warning: 53 tildes removed
+17.l
+Warning: 116 tildes removed
+18.l
+Warning: 127 tildes removed
+19.l
+Warning: 91 tildes removed
+20.l
+Warning: 186 tildes removed
+21.l
+Warning: 0 tildes removed
+22.l
+Warning: 0 tildes removed
+23.l
+Warning: 0 tildes removed
+24.l
+Warning: 0 tildes removed
+25.l
+Warning: 0 tildes removed
+26.l
+Warning: 0 tildes removed
+27.l
+Warning: 0 tildes removed
+28.l
+Warning: 128 tildes removed
+29.l
+Warning: 155 tildes removed
+30.l
+Warning: 83 tildes removed
+31.l
+Warning: 94 tildes removed
+32.l
+Warning: 265 tildes removed
+33.l
+Warning: 103 tildes removed
+% 
+script done on Sun Jan  7 15:48:24 1990

@@ -1,0 +1,34 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.15.50.09;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Dump the NDDP database
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Dump the NDDP database
+
+echo ""
+echo -n Please mount the NDDPDUMP tape and hit RETURN when ready...
+read JUNK
+START=`date`
+/etc/dump 0fuds /dev/rmt8 6250 2200 /dev/rhp1d
+echo NDDP dump started $START and ended `date` | /usr/ucb/Mail -s NDDPDUMP dante
+@

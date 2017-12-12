@@ -1,0 +1,20 @@
+# Cmd line file for r2net
+#
+
+
+.Functions
+Function keepTab
+RMatch,'\t','','\t'
+
+.functions
+
+
+.Strings
+EndPar,'$keepTab()'
+TRNFILE,'ascii.trn'
+FontScale,'.33'
+ImageExt,'png'
+SplitDepth,'0'
+ImageDir,'C:\\Documents and Settings\\All Users.WINDOWS\\Desktop\\R2HP\\r2h\\docs\\images\\'
+KeepPN,'1'
+css,'1'

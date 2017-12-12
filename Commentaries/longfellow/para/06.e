@@ -1,0 +1,421 @@
+	|1.~  The Heaven of Mercury continued.
+
+	In the year 330, Constantine, after his conversion and baptism
+by Sylvester (^Inf.~ XXVII. Note 94), removed the seat of empire from
+Rome to Byzantium, which received from him its more modern name of
+Constantinople.  He called it also New Rome; and, having promised to
+the Senators and their families that they should soon tread again on
+Roman soil, he had the streets of Constantinople strewn with earth
+which he had brought from Rome in ships.
+
+	The transfer of the empire from west to east was
+turning the imperial eagle against the course of heaven, which it
+had followed in coming from Troy to Italy with AEneas, who
+married Lavinia, daughter of King Latinus, and was the founder of
+the Roman Empire.
+
+	|4.~  From 324, when the seat of empire was transferred to
+Constantinople by Constantine, to 527, when the reign of
+Justinian began.
+
+	|5.~  The mountains of Asia, between Constantinople and
+the site of Troy.
+
+	|10.~  Caesar, or Kaiser, the general title of all the
+Roman Emperors.
+
+	The character of Justinian is thus sketched by Gibbon,
+^Decline and Fall~, Ch. XLIII.: --
+
+     "The Emperor was easy of access, patient of hearing, courteous and
+     affable to discourse, and a master of the angry passions, which
+     rage with such destructive violence in the breast of a despot.
+     Procopius praises his temper to reproach him with calm and
+     deliberate cruelty; but in the conspiracies which attacked his
+     authority and person, a more candid judge will approve the justice
+     or admire the clemency of Justinian.  He excelled in the private
+     virtues of chastity and temperance; but the impartial love of
+     beauty would have been less mischievous than his conjugal
+     tenderness for Theodora; and his abstemious diet was regulated,
+     not by the prudence of a philosopher, but the superstition of a
+     monk.  His repasts were short and frugal; on solemn fasts he
+     contented himself with water and vegetables; and such was his
+     strength as well as fervor, that he frequently passed two days,
+     and as many nights, without tasting any food.  The measure of his
+     sleep was not less rigorous; after the repose of a single hour the
+     body was awakened by the soul, and, to the astonishment of his
+     chamberlain, Justinian walked or studied till the morning light.
+     Such restless application prolonged his time for the acquisition
+     of knowledge and the despatch of business; and he might seriously
+     deserve the reproach of confounding, by minute and preposterous
+     diligence, the general order of his administration.  The Emperor
+     professed himself a musician and architect, a poet and
+     philosopher, a lawyer and theologian; and if he failed in the
+     enterprise of reconciling the Christian sects, the review of the
+     Roman jurisprudence is a noble monument of his spirit and
+     industry.  In the government of the empire he was less wise or
+     less successful: the age was unfortunate; the people was oppressed
+     and discontented; Theodora abused her power; a succession of bad
+     ministers disgraced his judgment; and Justinian was neither
+     beloved in his life, nor regretted at his death.  The love of fame
+     was deeply implanted in his breast, but he condescended to the
+     poor ambition of titles, honors, and contemporary praise; and
+     while he labored to fix the admiration, he forfeited the esteem
+     and affection of the Romans."
+
+	|12.~  Of the reform of the Roman Laws, by which they were
+reduced from two thousand volumes to fifty, Gibbon, ^Decline and
+Fall~, Ch. XLIV., says: "The vain titles of the victories of
+Justinian are crumbled into dust; but the name of the legislator
+is inscribed on a fair and everlasting monument.  Under his
+reign, and by his care, the civil jurisprudence was digested in
+the immortal works of the CODE, the PANDECT, and the INSTITUTES;
+the public reason of the Romans has been silently or studiously
+transfused into the domestic institutions of Europe, and the laws
+of Justinian still command the respect or obedience of
+independent nations.  Wise or fortunate is the prince who
+connects his own reputation with the honor and interest of a
+perpetual order of men."
+
+	This is what Dante alludes to, ^Purg.~ VI. 89: --
+
+     What boots it, that for thee Justinian
+     The bridle mend, if empty be the saddle?"
+
+	|14.~  The heresy of Eutyches, who maintained that only
+the Divine nature existed in Christ, not the human; and
+consequently that the Christ crucified was not the real Christ,
+but a phantom.
+
+	|16.~  Agapetus was Pope, or Bishop of Rome, in the year
+515, and was compelled by King Theodotus the Ostrogoth to go upon
+an embassy to the Emperor Justinian at Constantinople, where he
+refused to hold any communication with Anthimus, Bishop of
+Trebizond, who, against the canon of the Church, had been
+transferred from his own see to that of Constantinople.  Milman,
+^Hist. Latin Christ.~, I. 460, says: "Agapetus, in a conference,
+condescended to satisfy the Emperor as to his own unimpeachable
+orthodoxy.  Justinian sternly commanded him to communicate with
+Anthimus. `With the Bishop of Trebizond,' replied the unawed
+ecclesiastic, `when he has returned to his diocese, and accepted
+the Council of Chalcedon and the letters of Leo.'  The Emperor in
+a louder voice commanded him to acknowledge the Bishop of
+Constantinople on pain of immediate exile.  `I came hither in my
+old age to see, as I supposed, a religious and a Christian
+Emperor; I find a new Diocletian.  But I fear not kings' menaces,
+I am ready to lay down my life for the truth.' The
+feeble mind of Justinian passed at once from the height
+of arrogance to admiration and respect; he listened to the
+charges advanced by Agapetus against the orthodoxy of Anthimus.
+In his turn the Bishop of Constantinople was summoned to render
+an account of his theology before the Emperor, convicted of
+Eutychianism, and degraded from the see."
+
+	|25.~  Belisarius, the famous general, to whom Justinian
+gave the leadership of his armies in Africa and Italy.  In his
+old age he was suspected of conspiring against the Emperor's
+life; but the accusation was not proved.  Gibbon, ^Decline and
+Fall~, Ch. XLI., speaks of him thus: "The Africanus of new Rome
+was born, and perhaps educated, among the Thracian peasants,
+without any of those advantages which had formed the virtues of
+the elder and the younger Scipio, -- a noble origin, liberal
+studies, and the emulation of a free state.  The silence of a
+loquacious secretary may be admitted, to prove that the youth of
+Belisarius could not afford any subject of praise: he served,
+most assuredly with valor and reputation, among the private
+guards of Justinian; and when his patron became Emperor, the
+domestic was promoted to military command."
+
+	And of his last years as follows, Ch. XLIII.: "Capricious
+pardon and arbitrary punishment embittered the irksomeness and
+discontent of a long reign; a conspiracy was formed in the
+palace, and, unless we are deceived by the names of Marcellus and
+Sergius, the most virtuous and the most profligate of the
+courtiers were associated in the same designs.  They had fixed
+the time of the execution; their rank gave them access to the
+royal banquet, and their black slaves were stationed in the
+vestibule and porticos to announce the death of the tyrant, and
+to excite a sedition in the capital.  But the indiscretion of an
+accomplice saved the poor remnant of the days of Justinian.  The
+conspirators were detected and seized, with daggers hidden under
+their garments; Marcellus died by his own hand, and Sergius was
+dragged from the sanctuary.  Pressed by remorse, or tempted by
+the hopes of safety, he accused two officers of the household of
+Belisarius; and torture forced them to declare that they had
+acted according to the secret instructions of their patron.
+Posterity will not hastily believe that an hero who, in the vigor
+of life, had disdained the fairest offers of ambition and
+revenge, should stoop to the murder of his prince, whom he could
+not long expect to survive.  His followers were impatient to fly;
+but flight must have been supported by rebellion, and he had
+lived enough for nature and for glory.  Belisarius appeared
+before the council with less fear than indignation; after forty
+years' service, the Emperor had prejudged his guilt; and
+injustice was sanctified by the presence and authority of the
+patriarch.  The life of Belisarius was graciously spared; but his
+fortunes were sequestered, and from December to July he was guarded as
+a prisoner in his own palace.  At length his innocence was
+acknowledged; his freedom and honors were restored; and death which
+might be hastened by resentment and grief, removed him from the world
+about eight months after his deliverance.  The name of Belisarius can
+never die; but instead of the funeral, the monuments, the statues, so
+justly due to his memory, I only read that his treasures, the spoils of
+the Goths and Vandals, were immediately confiscated for the Emperor.
+Some decent portion was reserved, however, for the use of his widow;
+and as Antonina had much to repent, she devoted the last remains of her
+life and fortune to the foundation of a convent.  Such is the simple
+and genuine narrative of the fall of Belisarius and the ingratitude of
+Justinian.  That he was deprived of his eyes, and reduced by envy to
+beg his bread, -- `Give a penny to Belisarius the general!' -- is a
+fiction of later times, which has obtained credit, or rather favor, as
+a strange example of the vicissitudes of fortune."
+
+	|36.~  The son of Evander, sent to assist AEneas and
+slain by Turnus.  Virgil, ^AEneid~, X., Davidson's Tr.: "Turnus,
+long poising a javelin tipped with sharpened steel, darts it at
+Pallas, and thus speaks: See whether ours be not the more
+penetrating dart.  He said; and with a quivering stroke the point
+pierces through the mid-shield, through so many plates of iron,
+so many of brass, while the bull's hide so many times encompasses
+it, and through the corselet's cumbrous folds transfixes his
+breast with a hideous gash.  He in vain wrenches out the reeking
+weapon from the wound; at one and the same passage the blood and
+soul issue forth.  Down on his wound he falls: over him his armor
+gave a clang; and in death with bloody jaws he bites the hostile
+ground."
+
+	|37.~  In Alba Longa, built by Ascanius, son of AEneas,
+on the borders of the Alban Lake.  The period of three hundred
+years is traditionary, not historic.
+
+	|39.~  The Horatii and Curatii.
+
+	|40.~  From the rape of the Sabine women, in the days of
+Romulus, the first of the seven kings of Rome, down to the
+violence done to Lucretia by Tarquinius Superbus, the last of
+them.
+
+	|44.~  Brennus was the king of the Gauls, who, entering
+Rome unopposed, found the city deserted, and the Senators seated
+in their ivory chairs in the Forum, so silent and motionless that
+his soldiers took them for the statues of gods.  He burned the
+city and laid siege to the Capitol, whither the people had fled
+for safety, and which was preserved from surprise by the cackling
+of the sacred geese in the Temple of Juno.  Finally Brennus and
+his army were routed by Camillus, and tradition says that not one
+escaped.
+
+	Pyrrhus was a king of Epirus, who boasted his descent from
+Achilles, and whom Hannibal called "the greatest of commanders." He was
+nevertheless driven out of Italy by Curius, his army of eighty thousand
+being routed by thirty thousand Romans; whereupon he said that, "if he
+had soldiers like the Romans, or if the Romans had him for a general,
+he would leave no corner of the earth unseen, and no nation
+unconquered."
+
+	|46.~  Titus Manlius, surnamed Torquatus, from the collar
+(^torques~) which he took from a fallen foe; and Quinctius,
+surnamed Cincinnatus, or "the curly-haired."
+
+	|47.~  Three of the Decii, father, son, and grandson,
+sacrificed their lives in battle at different times for their
+country.  The Fabii also rendered signal services to the state,
+but are chiefly known in history through one of their number,
+Quinctius Maximus, surnamed Cunctator, or the Delayer, from whom
+we have "the Fabian policy."
+
+	|53.~  The hill of Fiesole, overlooking Florence, where
+Dante was born.
+
+	Fiesole was destroyed by the Romans for giving refuge to
+Cataline and his fellow conspirators.
+
+	|55.~  The birth of Christ.  Milton, ^Hymn on the morning
+of Christ's Nativity~, 3, 4: --
+
+     "But he, her fears to cease,
+      Sent down the meek -- eyed Peace:
+        She, crowned with olive -- green, came softly sliding
+     Down through the turning sphere,
+     His ready harbinger,
+        With turtle wing the amorous clouds dividing;
+     And waving wide her myrtle wand,
+     She strikes a universal peace through sea and land.
+
+     "No war or battle's sound
+     Was heard the world around:
+       The idle spear and shield were high up hung;
+     The hooked chariot stood
+     Unstained with hostile blood;
+       The trumpet spake not to the armed throng;
+     And kings sat still with awful eye,
+     As if they surely knew their sovran Lord was by."
+
+	|65.~  Durazzo in Macedonia, and Pharsalia in Thessaly.
+
+	|66.~  Gower, ^Conf. Amant.~, II.: --
+
+     "That one sleeth, and that other sterveth,
+     But aboven all his prise deserveth
+     This knightly Romain; where he rode
+     His dedly swerd no man abode,
+     Ayen the which was no defence:
+     Egipte fledde in his presence."
+
+	|67.~  Antandros, a city, and Simois, a river, near Troy,
+whence came the Roman eagle with AEneas into Italy.
+
+	|69.~  It was an evil hour for Ptolemy, when Caesar took
+from him the kingdom of Egypt, and gave it to Cleopatra.
+
+	|70.~  Juba, king of Numidia, who protected Pompey, Cato,
+and Scipio after the battle of Pharsalia.  Being conquered by
+Caesar, his realm became a Roman province, of which Sallust the
+historian was the first governor.
+
+	Milton, ^Sams. Agon.~, 1695: --
+
+                        "But as an eagle
+     His cloudless thunder bolted on their heads."
+
+	|71.~  Towards Spain, where some remnants of Pompey's army
+still remained under his two sons.  When these were subdued the
+civil war was at an end.
+
+	|73.~  Octavius Augustus, nephew of Julius Caesar.  At
+the battle of Philippi he defeated Brutus and Cassius, and
+established the Empire.
+
+	|75.~  On account of the great slaughter made by Augustus
+in his battles with Mark Antony and his brother Lucius, in the
+neighbourhood of these cities.
+
+	|81.~  Augustus closed the gates of the temple of Janus as
+a sign of universal peace, in the year of Christ's birth.
+
+	|86.~  Tiberius Caesar.
+
+	|90.~  The crucifixion of Christ, in which the Romans took
+part in the person of Pontius Pilate.
+
+	|92.~  The destruction of Jerusalem under Titus, which
+avenged the crucifixion.
+
+	|94.~  When the Church was assailed by the Lombards, who
+were subdued by Charlemagne.
+
+	|98.~  Referring back to line 31: --
+
+    In order that thou see with how great reason
+      Men move against the standard sacrosanct,
+      Both who appropriate and who oppose it."
+
+	|100.~  The Golden Lily, or Fleur-de-lis of France.  The
+Guelfs, uniting with the French, opposed the Ghibellines, who had
+appropriated the imperial standard to their own party purposes.
+
+	|106.~  Charles II. of Apulia, son of Charles of Anjou.
+
+	|111.~  Change the imperial eagle for the lilies of
+France.
+
+	|112.~  Mercury is the smallest of the planets, with the
+exception of the Asteroids, being sixteen times smaller than the
+Earth.
+
+	|114.~  Speaking of the planet Mercury, Buti says: "We are
+now to consider the effects which Mercury produces upon us in the
+world below, for which honor and blame are given to the planet;
+for as Albumasar says in the introduction to his seventh
+treatise, ninth division, where he treats of the nature of the
+planets and of their properties, Mercury signifies these twenty-
+two things among others, namely, desire of knowledge and of
+seeing secret things; interpretation of the Deity, of oracles and
+prophecies; fore-knowledge of things future; knowledge and
+profundity of knowledge in profound books; study of wisdom;
+memory of stories and tales; eloquence with polish of language;
+subtilty of genius; desire of lordship; appetite of praise and
+fame; color and subtilty of speech; subtilty of genius in
+everything to which man betakes himself; desire of perfection;
+cunning of hand in all arts; practice of trade; selling, buying,
+giving, receiving, stealing, cheating; concealing thoughts in the
+mind; change of habits; youthfulness, lust, abundance, murmurs,
+lies, false testimony, and many other things as being therein
+contained.  And therefore our author feigns, that those who have
+been active in the world, and have lived with political and moral
+virtues, show themselves in the sphere of Mercury, because
+Mercury exercises such influence, according to the astrologers,
+as been shown; but it is in man's free will to follow the good
+influence and avoid the bad, and hence springs the merit and
+demerit."
+
+	Milton, Lycidas, 70: --
+
+     "Fame is the spur that the clear spirit doth raise,
+     (That last infirmity of noble mind,)
+     To scorn delights, and live laborious days;
+     But the fair guerdon when we hope to find,
+     And think to burst out into sudden blaze,
+     Comes the blind Fury with the abhorr$ed shears
+     And slits the thin -- spun life. `But not the praise,
+     Phoebus replied, and touched my trembling ears:
+     Fame is no plant that grows on mortal soil,
+     Nor in the glistering foil
+     Set off to the world, nor in broad rumor lies;
+     But lives and spreads aloft by those pure eyes,
+     And perfect witness of all -- judging Jove:
+     As he pronounces lastly on each deed,
+     Of so much fame in heaven expect thy meed."'
+
+	|121.~  Piccarda, Canto III. 70, says: --
+
+	  Brother, our will is quieted by virtue
+	   Of charity, that makes us wish alone
+	   For what we have, nor gives us thirst for more."
+
+	|128.~  Villani, VI. Ch. 90, relates the story of Romeo (in
+Italian Rom$eo) as follows, though it will be observed that he
+uses the word ^romeo~ not as a proper, but as a common noun, in
+its sense of pilgrim: "There arrived at his court a pilgrim, who
+was returning from St. James; and hearing of the goodness of
+Count Raymond, he tarried in his court, and was so wise and
+worthy, and found such favor with the Count, that he made him
+master and director of all things.  He was always clad in a
+decent and clerical habit, and in a short time, by his dexterity
+and wisdom, increased the income of his lord threefold,
+maintaining always a grand and honorable court.  ....Four
+daughters had the Count, and no son.  By the wisdom and address of
+the good pilgrim, he first married the eldest to the good King
+Louis of France by means of money, saying to the Count, `Let me
+manage this, and do not be troubled at the cost; for if thou
+marry the first well, on account of this relationship thou wilt
+marry all the others better, and at less cost.'  And so it came to
+pass; for straightway the king of England, in order to be
+brother-in-law of the king of France, took the second for a small
+sum of money; then his brother, being elected King of the Romans, took
+the third; and the fourth still remaining to be married, the good
+pilgrim said, `With this one I want thee to have a brave son, who shall
+be thy heir'; and so he did.  Finding Charles, Count of Anjou, brother
+of King Louis of France, he said, `Give her to this man, for he will be
+the best man in the world'; prophesying concerning him, and so it was
+done.  Then it came to pass through envy, which spoils every good
+thing, that the barons of Provence accused the good pilgrim of having
+badly managed the treasury of the Count, and had him called to a
+reckoning.  The noble pilgrim said: `Count, I have served thee a long
+time, and brought thee from low to high estate, and for this, through
+false counsel of thy folk, thou art little grateful.  I came to thy
+court a poor pilgrim, and have lived modestly on thy bounty.  Have my
+mule and my staff and scrip given back to me as when I came, and I ask
+no further wages.'  The Count would not have him go; but on no account
+would he remain; and he departed as he had come, and never was it known
+whence he came, nor whither he went.  Many thought that his was a
+sainted soul."
+
+	|142.~  Lord Bacon says in his ^Essay on Adversity~:
+"Prosperity is the blessing of the Old Testament; adversity is
+the blessing of the New, which carrieth the greater benediction
+and the clearer revelation of God's favor.  Yet, even in the Old
+Testament, if you listen to David's harp, you shall hear as many
+hearse-like airs as carols; and the pencil of the Holy Ghost hath
+labored more in describing the afflictions of Job than the
+felicities of Solomon."

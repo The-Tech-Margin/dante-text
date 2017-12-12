@@ -1,0 +1,18 @@
+..COMM:
+Andreoli
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Raffaello Andreoli
+..PUBD:
+1856
+..PUBL:
+La Divina Commedia di Dante Alighieri col Commento di Raffaello
+Andreoli.  Firenze, G. Barb@era, 1887.
+..DENT:
+Norfolk Data Inc.
+..EDTR:
+Carrie Prettiman & Robert Hollander
+..LODD:

@@ -1,0 +1,304 @@
+|PARADISO CANTO 12~
+
+	|2.  per dir tolse~, cio@e prese a dire.
+
+	|3.  la santa mola~, il drappello di quei risplendenti
+spiriti danzanti in giro.  ^Mola~ per macina o per ruota da
+arrotare dicesi in Lombardia.
+
+	|5.  un'altra~, cio@e un'altra mola, un altro drappello.
+
+	|6.  colse~, accolse, accoppi@o, un@i.
+
+	|7.  Canto che tanto~ ec.  Intendi: canto che, articolato
+^in quelle dolci tube~, cio@e in quei dolci organi di quelle
+beate anime, supera tanto quello de' nostri poeti e delle nostre
+cantatrici, quanto il raggio diretto supera il raggio riflesso.
+
+	|12.  a sua ancella~, cio@e ad Iride sua ancella.
+^Iube~, comanda, dal lat. ^iubeo~, ^es.~  Intendi come se dicesse:
+quando apparisce in cielo l'arco baleno.
+
+	|13.  Nascendo~ ec.  Intendi: producendosi per
+riflessione di raggi l'arco di fuori dall'altro arco minore
+concentrico, come per riflessione di voce formasi il parlare
+dell'Eco, vaga ninfa che per amore di Narciso si consunse.
+
+	|18.  Del mondo~, cio@e circa il mondo.  Allude alla
+promessa che Dio fece a No@e quando gli disse: l'arco baleno
+sar@a segno della mia alleanza ec.
+
+	|19.  Cos@i di quelle~ ec. cio@e cos@i quegli eterni
+splendori, che a somiglianza di ghirlanda di rose erano ordinati,
+si volgevano intorno a noi.
+
+	|21.  E s@i l'estrema~ ec.  Intendi: come i colori
+dell'esteriore arco baleno corrispondono all'arco interno, cos@i
+il moto e il canto del cerchio esteriore de' beati spiriti
+corrispose al moto e al canto del cerchio interno.
+
+	|23.  Del fiammeggiarsi~, cio@e del risplendere a gara
+l'una luce in vista dell'altra in segno di carit@a.
+
+	|24.  gaudiose e blande~, cio@e piene di gioja e di
+piacevolezza: intendi quelle luci, quegli splendori, quelle anime
+beate.
+
+	|25.  Insieme appunto~ ec.  Intendi: tutte ad un punto
+per loro unanime volont@a si fermarono.
+
+	|26.  Pur come gli occhi~ ec., cio@e: come fanno ambedue
+gli occhi, che insieme subitamente si chiudono e si aprono a
+piacimento dell'uomo.
+
+	|28.  Del cuor~ ec., cio@e dall'interno, dal mezzo di
+una di quelle luci apparita novellamente.
+
+	|29.  che l'ago alla stella~ ec.  Intendi: che nel
+volgermi ^al suo dove~, cio@e al luogo ov'ella stava, fece che io
+paressi l'ago della calamita che si volge alla stella polare.
+
+	|32.  dell'altro duca~, cio@e dell'altro capo e guida di
+religiosa famiglia, cio@e di S. Domenico.
+
+	|33.  Per cui del mio~ ec.  Intendi: pel quale S.
+Domenico si favella s@i bene del mio San Francesco, essendosi
+detto da S. Tommaso (vedi al c.  XI, v. 40 e seg.): ^Perocch@e
+d'ambodue - Si dice l'un pregiando, qual che uom prende, --
+Perch@e ad un fine fur l'opere sue~; cio@e, lodando l'uno dei due
+si loda l'altro, essendo che ambedue furono collegati insieme a
+sostenere la chiesa di Dio.
+
+	|34.  che dov' @e l'un~ ec.  Intendi: che dove si fa
+menzione dell'uno, facciasi menzione dell'altro ancora.
+
+	|35.  elli~, essi: ^ad una~, unitamente, ad un fine.
+
+	|38.  a riarmar~: cio@e: a riarmarlo della grazia
+perduta cost@o a G. C. s@i caro col suo morire in croce.  ^Alla
+insegna~, alla insegna della croce.
+
+	|41.  Provvide alla milizia~, cio@e: provide Iddio al
+detto esercito, al popolo cristiano, ^ch' era in forse~, che era
+in pericolo di esser vinto dalle potenze infernali, e provide,
+non perch@e esso popolo ne fosse degno, avendo demeritato colle
+colpe, ma a lui provide per grazia e misericordia.
+
+	|45.  raccorse~, si raccolse, si un@i sotto l'insegna
+della croce.  Altri spiega, e forse meglio, stando al proprio
+significato del verbo ^raccorgere~ (vedi) il vocab. della Cr.):
+si ravvide dal suo errore e ritorn@o nella via che aveva
+smarrita.
+
+	|46.  In quella parte~ ec.  Intendi: dalla parte
+occidentale all'Italia, d'onde il zeffiro, venticello di
+primavera, viene a far germogliare le piante.
+
+	|49.  non molto lungi~ ec.  Intendi: non molto lontano
+dal percuotere che le onde del mare fanno nei liti, dietro le
+quali onde ^per la lunga foga~, cio@e per la grande loro
+estensione (ed altri vuole per la lunga carreggiata del sole in
+tempo d'estate) talvolta il sole si nasconde ad ogni uomo.  Dice
+^talvolta~, cio@e in qualche tempo dell'anno: poich@e circa il
+tempo del solstizio estivo, cio@e dalla met@a di Giugno fino alla
+fine, il sole rispetto all'Europa tramonta in dirittura a quel
+tratto dell'oceano atlantico che corrisponde alle regioni
+occidentali della Spagua.  Dice ^ad ogni uom~, poich@e a' suoi
+tempi si credeva essere abitato il solo nostro emisfero.
+
+	|52.  Callaroga~, citt@a in Ispagna, detta dagli antichi
+latini ^Calaguris~, fu patria di S. Domenico.
+
+	|53.  Sotto la protezion~ ec.  Intendi: sotto la
+protezione del re di Castiglia, nello scudo della cui arme di
+famiglia sono due castelli e due leoni in quattro caselle,
+distribuiti a modo che da una parte un leone soggiace ad un
+castello, e nell'altra un leone sovrasta ad un altro castello,
+^lo soggioga.~
+
+	|55.  drudo~, cio@e fedele: V. il vocab.
+
+	|56.  atleta~, difensore, propugnatore.
+
+	|58.  repleta~, riempiuta.
+
+	|59.  Che nella madre~, ec.  Intendi: la qual virt@u,
+mentre egli era nell'utero della madre, la madre medesima fece
+profetessa.  La madre de S. Domenico sogn@o di partorire un cane
+bianco e nero con una fiaccola accesa in bocca.  Al sogno
+corrisposero gli eventi.
+
+	|61.  le sponsalizie~, le nozze, cio@e l'unione della
+fede coll'uomo, operata in virt@u del battesimo.
+
+	|63.  si dotar~ ec.  Intendi: San Domenico promise alla
+fede di difenderla, e la fede promise a lui la vita eterna.
+
+	|64.  La donna~ ec.  La comare che per S. Domenico fece
+la promessa alla fede vide in sogno che al fanciullino splendeva
+una stella in fronte ed una nella nuca, cos@i che s'illuminavano
+l'oriente e l'occidente.
+
+	|66.  delle erede.~  Intendi dai suoi eredi, cio@e dai
+futuri domenicani.
+
+	|67.  E perch@e fosse~ ec.  Intendi: e perch@e fosse in
+chiaro, in palese qual era il bambino, quale era la virt@u di
+lui, ^quinci~, cio@e dal cielo, s@i mosse un angelo e nominollo
+Domenico, nome possessivo di ^Dominus~, cio@e del Signore Iddio,
+del quale il Santo era tutto.
+
+	|71.  agricola~, agricoltore.
+
+	|72.  all'orto suo~ ec., cio@e alla sua chiesa per
+aiutarla, o, come altri vuole, per aiutar Cristo.
+
+	|73.  messo~, nunzio.
+
+	|74.  Che' l primo amor~ ec.  Intendi: ch@e il primo
+desiderio che in lui si manifest@o fu di appigliarsi al principal
+consiglio che Cristo ci diede, cio@e di lasciare le ricchezze; al
+qual consiglio oggid@i gli uomini, acciecati dall'ambizione, sono
+fatti sordi.  S. Domenico essendo giovanetto a studio vend@e ci@o
+che aveva e in gran carestia distribu@i il denaro ai poveri: per
+la qual cosa il vescovo lui fece canonico regolare.
+
+	|78.  io son venuto a questo~: io sono venuto per dare
+esempio d'umilt@a e di povert@a.
+
+	|79.  veramente Felice.~  Il padre di S. Domenico si
+chiam@o Felice e la madre di lui Giovanna, il qual nome in
+ebraico significa ^graziosa~, apportatrice di grazie.
+
+	|82.  Non per lo mondo~, cio@e mon per le vanit@a
+mondane.  ^S'affanna~, cio@e: tutti s'affannano.
+
+	|83.  Ostiense.~  Ostiense cardinale, commentatore delle
+decretali.  ^Taddeo~: fu medico fiorentino che coll'arte sua
+acquist@o grandi ricchezze: mor@i in Bologna nel 1295 e fu
+seppellito in un bel sarcofago di marmo nell'atrio de' frati
+minori.
+
+	|84.  della verace manna~, della verit@a salutare
+dell'Evangelio.
+
+	|86.  la vigna~, la Chiesa.
+
+	|87.  imbianca~, cio@e perde il verde, si secca se il
+vignaiuolo @e un uomo reo.
+
+	|88.  Ed alla sedia~ ec.  Intendi: ed alla sede
+pontificia che fu benigna a' poveri giusti, pi@u di quello che
+ora @e, non per colpa di lei, ma di colui che su vi siede e
+traligna, S. Domenico non addimand@o di potere, in occasione dio
+mali acquisti, dispensarne in usi pii la terza parte o la met@a,
+n@e il primo beneficio che vacasse, quale gliel'offerisse la
+fortuna, o pingue o scarso, n@e le decime che si appartengono ai
+poveri di Cristo; ma addimand@o ec.
+
+	|91.  Non dispensare~ ec.  Intendi: non dimand@o S.
+Domenico di poter dispensare in uso pio solamente due o tre in
+luogo di sei, secondo che @e il dovere degli apostolici ministri,
+non dimand@o di essere collocato nella prima sedia, nel primo
+beneficio vacante; non domand@o le decime, che sono dei
+poverelli del Signore: ma domand@o di combattere per la fede, che
+fu seme dal quale sono nate le ventiquattro piante che ti fasciano,
+cio@e i ventiquattro spiriti beati che
+compongono dodici per dodici i due cerchi parallelli onde sei
+circondato.
+
+	|92.  Primo vacante.~  Altri legge ^di prima vacante~; e
+in questro caso ^vacante~ @e aggiunto di ^fortuna~, cio@e del
+beneficio che da prima, che prima @e vacante.
+
+	|103.  diversi rivi.~  Intendi diversi altri religiosi
+seguaci di S. Domenico, dianzi assomigliato ad un torrente.
+
+	|106.  Se tal fu~ ec.  Intendi: se tal fu uno dei
+campioni della Chiesa.
+
+	|108.  civil briga~, cio@e guerra civile; le discordie
+degli eretici.
+
+	|110.  dell'altra~, dell'altra ruota; intendi di S.
+Francesco.  ^Tomma~, Tommaso,
+
+	|111.  Dinanzi al mio venir~; cio@e; prima che io ti
+apparissi.
+
+	|112.  Ma l'orbita~ ec.  Intendi; ma la carreggiata che
+fu segnata dalla circonferenza della parte somma di essa ruota
+(cio@e da S. Francesco) @e ^derelitta~, @e abbandonata dai
+francescani d'oggid@i, che @e quanto dire: oggi i frati
+francescani non seguono pi@u le vestigia del loro fondatore.
+
+	|114.  S@i ch' @e la muffa~ ec.  Modo proverbiale che
+significa: il male @e dove prima era il bene; ed @e preso dalle
+botti, che custodite col buon vino fanno la gromma che le
+conserva, trasandate fanno la muffa.
+
+	|117.  Che quel dinanzi~ ec.  Intendi: la qual
+francescana famiglia, segnando in terra l'orma, pone la punta del
+piede dove S. Francesco aveva le calcagna; che @e quanto dire: fa
+cammino contrario a quello che fece S. Francesco.
+
+	|119.  Della~, cio@e dalla.  ^Quando il loglio~ ec.
+Intendi: quando la zizzania si lagner@a che le sia tolto l'arca o
+il granaio per essere data al fuoco: cio@e quando il traviato
+frate si lagner@a che gli sia tolto il paradiso per andar sepolto
+nell'inferno.
+
+	|121.  Chi cercasse~ ec.  Intendi: chi esaminasse ciascun
+frate dell'ordine francescano, come si fa in un libro esaminando
+foglio per foglio , ancora ne troverebbe alcuno, nel
+quale il costume antico direbbe: ^io son quel che soglio~: ma
+cotal buon religioso non sar@a da Casale, n@e di Acquasparta, dai
+quali luoghi tali tengono alla regola scritta da S. Francesco,
+che uno ne fugge il rigore e l'altro lo accresce a dismisura.
+
+	|127.  la vita~, cio@e l'anima.  ^Buonaventura da
+Bagnoregio.~  S. Buonaventura cardinale e dottore di S. Chiesa, e
+che fu ministro generale dell'ordine minoritico per anni
+diciotto.  ^Bagnoregio~, oggi volgarmente Bagnarea, nel
+territorio d'Orvieto.
+
+	|129.  posposi la sinistra cura.~  Intendi: alla cura
+destra (^destra~ in senso scrittuale significa primaria) alla cura
+spirituale posposi la cura ^sinistra~, la cura secondaria, cio@e
+quella delle cose temporali.
+
+	|130.  Illuminato ed Agostin.~  Due dei primi seguaci di
+S. Francesco.
+
+	|133.  Ugo da Sanvittore.~  Fu illustre teologo.
+
+	|134.  Pietro Mangiadore.~  Pietro Comestore, scrittore
+della storia ecclesiastica.  ^Pietro Ispano.~  Filosofo rinomato
+per dodici libri di logica che scrisse.
+
+	|136.  Natan.~  Il profeta che rimprover@o Davide
+adultero.
+
+	|137.  Grisostomo.~  S. Giovanni Grisostomo arcivescovo
+di Costantinopoli.  ^Anselmo.~  Fu arcivescovo di Conturbia.
+^Donato.~  Antico scrittore di gramatica, che qui @e detta
+prim'arte, forse perch@e @e la prima ad essere insegnata ai
+fanciulli.
+
+	|139.  Rabano.~   Rabano Mauro, rinomato scrittore del
+secolo nono.
+
+	|140.  Giovacchino.~  Giovacchino Calabrese, abate
+dell'ordine Cisterciense, ch' ebbe fama di profeta.
+
+	|142.  Ad inveggiar~, ad invidiar, come ^inveggia~ per
+invidia.  Ma qual concetto sarebbe mai questo? S. Tommaso ec.,
+mossero me ad invidiare S. Domenico? O qui @e fallo dei copisti,
+o ^inveggiar~ si dee trarre al significato di lodare, a modo che
+il lodato sia quasi fatto degno d'invidia o d'emulazione.
+^Paladino~: cos@i chiama S. Domenico, perch@e pugn@o per la
+fede.
+
+	|143.  la infiammata~, cio@e l'amorevole.
+
+	|144.  'l discreto latino~, il moderato suo parlare.

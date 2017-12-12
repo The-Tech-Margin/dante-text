@@ -1,0 +1,479 @@
+	|1-3.~  Cacciaguida, interrompendo per un po' di parlare
+con Dante, torna a quello che @e il gaudio normale delle anime
+beate: contemplare Dio, scevre di ogni altra cura.  Il poeta dice
+questo in modo da far comprendere che ora Cacciaguida rispecchia
+in s@e il Verbo, cio@e il pensiero divino (cfr. nota a ^Par.~ VII,
+30-33).  In contrasto con ci@o egli, Dante, resta a gustare il
+sapore del suo proprio pensiero: pensiero di ci@o che il trisavolo
+gli ha pronosticato, |temprando~ (cio@e mescendo) il dolce delle
+profezie consolanti con l'amaro delle dolorose.  E per simmetria
+d'espressione, in modo sottinteso viene a chiamare |verbo~ anche
+il suo pensiero: il che non avrebbe certo fatto se non avesse
+usato questa parola per Cacciaguida.  Non sempre i commentatori
+hanno compreso tutto questo, onde molta incertezza nella
+interpretazione de questa prima terzina.
+
+	|5-6.~  <Pensa che io sono presso Dio, che rende lieve a
+sopportare ogni ingiustizia>.  Sottintende che pregher@a che dia a
+lui tale forza.
+
+	|9.  l'abbandono~: lo tralascio, non lo dico.
+
+	|10-12.~  <Non soltanto (|pur~) perch@e io non abbia
+fiducia nell'efficacia della mia parola, ma perch@e la mia mente,
+con le sole sue forze, non pu@o ritornare su s@e stessa a ricordare
+un tanto oggetto>.  |Mente~: significa qui, come spesso in Dante,
+memoria; ma quella su cui la memoria torna @e invece la mente in
+quanto intelligenza o percezione; sicch@e quando Dante parla di
+|mente~ che torna su ^s@e stessa~ @e trascinato dalla sinonimia, ma
+nel suo vero pensiero la parola |mente~ ha due significati
+diversi.  Quanto alla costruzione |per la mente che...~ in luogo
+di ^perch@e la mente~, cfr. nota a ^Par.~ XII, 16-18.
+
+	|13-14.  Tanto~: soltanto.  |Affetto~: l'anima in quanto
+sente e desidera.
+
+	|16-18.  il piacere eterno~: l'eterna bellezza (di Dio). 
+|Viso~: sguardo, occhi.  |Col secondo aspetto~: con un'immagine
+riflessa (negli occhi di Beatrice).  Confronta il ^secondo
+raggio~ nel senso di <raggio riflesso>, in ^Par.~ I, 49.
+
+	|19.~  Pu@o intendersi <raggiando in modo tale col suo
+sorriso, che io ne fui abbagliato> (cfr. IV, 141); ovvero
+<vincendo la mia volont@a (che non avrebbe voluto staccarsi da
+lei) col suo sorriso>.
+
+	|21.~  <le bellezze del Paradiso non sono soltanto ne'
+miei occhi>: significato semplicissimo, a cui, chiss@a perch@e, si
+sono volute sovrapporre allegorie pi@u o meno complicate!
+
+	|22-27.~  @E singolare che l'espressione dell'affetto
+dell'animo nell'aspetto esteriore sia limitata qui dal poeta ai
+casi in cui l'anima @e tutta presa da quell'affetto, mentre invece
+@e fenomeno comunissimo e rappresentato tante volte da Dante
+stesso anche quando non c'@e davvero un affetto straordinario.
+
+	|28-30.~  Il Paradiso @e paragonato a uno di quegli alberi
+(abeti, cedri...) in cui i rami formano come tanti palchi pi@u o
+meno orizzontali (|soglia~ significa infatti scalino, grado); ed
+esse soglie sono i vari cieli.  Esso albero si differenzia dagli
+alberi terreni perch@e ha vita dalla sua |cima~ (Dio) e non dalla
+radice, e perch@e mentre questi producono continuamente nuove
+foglie e p@erdono le antiche (anche i sempreverdi, che si chiamano
+cos@i solo perch@e le foglie non si cambiano tutte in una volta),
+in Paradiso si aggiungono continuamente nuove anime ma non se ne
+perde mai nessuna.  @E necessario intendere |frutta~ come un
+<produce> in generale (ve ne sono moltissimi esempi nella nostra
+lingua) perch@e se si intendesse come un <produce frutti> non si
+spiegherebbe che cosa essi fossero, dato che i beati sono
+paragonati alle foglie.  @E anzi probabile che |foglia~ sia
+oggetto non soltanto di |perde~ ma anche di |frutta~: <produce
+sempre foglie e non ne perde mai>.  Si avverta che qui Dante cade
+ancora una volta nella distrazione che il Paradiso che ora egli
+percorre sia quello permanente (cfr. nota finale al canto XIV),
+giacch@e il Paradiso dell'Empireo non potrebbe in nessun modo
+esser paragonato a un albero con rami e una cima, di cui le anime
+del cielo di Marte costituiscano il quinto ordine.
+
+	|32.  gran voce~: di gran fama.  E furono, propriamente,
+famosi guerrieri a pro' della Fede.
+
+	|33.~  <S@i che ogni poeta (cfr. ^Par.~ XV, 26) avrebbe
+ricchezza di materia se volesse celebrarli>.
+
+	|34-36.  nei corni~: Qui i corni, probabilmente, non sono
+soltanto i bracci orizzontali della croce, come in XIV, 109, ma
+anche i verticali.  |Il suo foco veloce~: il fulmine quando non
+scoppia tra la nuvola e la terra, ma restando nella nuvola stessa
+e solcandola da parte a parte.
+
+	|37-38.  tratto~: mosso velocemente, quasi <lanciato>
+(cfr. nota a ^Inf.~ V, 46-49).  |Iosu@e~: duce degli Ebrei dopo la
+morte di Mos@e, li condusse nella Terra Promessa, dove vinse
+popoli idolatri (cfr. ^Par.~ IX, 124-125).  |Com'ei si feo~: <non
+appena si fece quel nomare>, cio@e appena menzionato.
+
+	|40.  l'alto Maccabeo~: Giuda Maccabeo, eroe principale
+della lotta degli Ebrei contro la tirannia di Antioco Epifane di
+Siria, che @e raccontata nei libri dei Maccabei del Vecchio
+Testamento; ove egli e i suoi sono rappresentati soprattutto come
+campioni della vera fede.
+
+	|41-42.  roteando~: Anche altrove il girare rapidamente
+su s@e stessi di spiriti paradisiaci @e manifestazione di gioia
+(cfr. XXI, 81).  Il |paleo~ @e un giocattolo di legno, in forma di
+pera capovolta, sul cui picciuolo metallico i ragazzi lo fanno
+girare avvolgendovi uno spago e lanciandolo rapidamente in modo
+che lo spago, svolgendosi, imprima un movimento rotatorio
+orizzontale.  Ma la |ferza~ non @e punto questo spago, come alcuni
+commentatori dicono.  In alcuni paesi, per prolungare e
+accelerare il momento rotatorio, si usa percuotere il paleo con
+una frusta: e questa @e la |ferza~ a cui qui allude Dante per dire
+che la forza che imprimeva al Maccabeo il movimento rotatorio,
+era la sua letizia.
+
+	|43-45.  per Carlo Magno e per Orlando~: cio@e furono
+indicati a lui come Carlo Magno e come Orlando.  @E inutile dire
+chi siano!  Solo @e da osservare che anche Carlo Magno, celebre
+per tante imprese, il poeta lo pone qui per le sue guerre a pro'
+della religione, nella veste in cui compare, insieme con Orlando
+suo pi@u valoroso paladino, nell'epopea francese antica, e, per
+Dante, nella sua campagna contro i Longobardi a protezione della
+Chiesa (cfr. ^Par.~ VI, 94-96).  Evidentemente questi due lumi si
+muovono pi@u lentamente, come ci dice la similitudine del falcone
+seguito dall'occhio del falconiere; e, in fondo, il movimento
+simile a quello del fulmine, annunziato da Cacciaguida (vv.
+35-36), @e solo di Giosu@e.
+
+	|46.  Guglielmo e Rinoardo~: sono eroi, in tutto un ciclo
+di poemi francesi, di lotte contro i Saraceni nella Francia
+meridionale.  @E parso strano che Dante aggruppi qui con alti
+personaggi Rinoardo, pi@u eroicomico che eroico, tanto da essere
+stato chiamato progenitore del Morgante di Luigi Pulci.  Non @e
+improbabile l'ipotesi di Michele Catalano (^Le statue di G. e R.
+al duomo di Verona~, Firenze, 1940) che Dante, non conoscendo
+bene direttamente quei poemi, sia stato tratto a metterlo in
+cielo con Guglielmo dal vederli appaiati in due famose statue che
+fiancheggiano la porta principale del Duomo di Verona, come due
+eroi della Fede.  E potrebbe essere un altro indizio che quando
+scrisse questi canti Dante si trovasse a Verona (cfr. nota a
+^Par.~ XVII, 76-78).
+
+	|47-48.  Gottifredi~: (o Goffredo) di Buglione, duce
+della prima crociata.  |Ruberto Guiscardo~: normanno, principale
+campione della lotta dei Normanni coi Saraceni nell'Italia
+meridionale (sec. XII), che fin@i, se pure non in tutto per opera
+sua, con la cacciata di questi.  Si noti che |la mia vista~ @e
+oggetto di |trasse~ (che qui ha il significato moderno di
+trascinare, trasportare), verbo di cui sono soggetti logici i
+quattro personaggi menzionati in questa terzina, e soggetto
+grammaticale il primo di essi.
+
+	|49-51.~  Terminata la menzione dei pi@u grandi spiriti di
+quel cielo, Cacciaguida si mescola alle altre luci, si muove e
+canta con loro, e, dopo aver fatto sentire lungamente la sua voce
+co' suoi vari discorsi, ora fa sentire a Dante quale artista sia
+nel cantare.
+
+	|53-55.~  Dante si rivolge a Beatrice per vedere nel suo
+aspetto o sentire da lei che cosa debba fare.  Come in ^Inf.~
+XXXIII, 9, qui il verbo |vedere~ si estende anche al parlare, per
+quella che i grammatici chiamano figura di ^zeugma.~
+
+	|57.~  Beatrice era pi@u bella di quel che fosse stata
+l'ultima volta che Dante l'aveva guardata, e le altre volte. 
+|Solere~ sostantivato varrebbe <abitudine>; ma sul valore che ha
+talvolta quel verbo in Dante (e che ha qui) si veda la nota a
+^Par.~ VIII, 1.
+
+	|58-63.~  <|Come~ ecc. ecc. cos@i mi accorsi che |il mio
+girare~ (intorno alla Terra) insieme col cielo, avveniva su una
+circonferenza maggiore (cio@e che egli era passato nel cielo
+successivo) vedendo accresciuta la bellezza miracolosa di
+Beatrice>.  La similitudine, un po' singolare, si fonda soltanto
+su questo, che nell'uno e nell'altro termine di essa un aumento
+di piacere @e prodotto da un progredire su una via: che @e per@o via
+tutta ideale nel primo termine, via materiale nell'altro.
+
+	|64-65.  il trasmutare~: del colore di vermiglio in
+bianco.  |In bianca donna~: in donna di carnagione bianca.
+
+	|67-69.~  <Tale fu il trasmutare del colore nella mia
+visione quando (dal guardar Beatrice) mi volsi (a guardarmi
+attorno), a causa del candore di Giove in cui ero entrato>. 
+Giove @e pianeta di luce bianca mentre Marte @e rossastro.  Esso @e
+chiamato |temprata stella~ perch@e tiene una via di mezzo fra
+Marte, che si credeva irradiasse calore, e Saturno, che si
+credeva irradiasse freddo (cfr. ^Purg.~ XIX, 3 e ^Par.~ XXII,
+145).
+
+	|70.  gioviale~: @e aggettivo derivato da Giove, passato
+poi a significare ^lieto~; qui @e usato in tutti e due i sensi.
+
+	|71-72.~  L'anime che erano l@i, sfavillanti d'amore,
+componevano parole agli occhi di Dante.
+
+	|73-75.~  <Come uccelli che, levatisi a volo da un fiume
+dove si sono dissetati, quasi per rallegrarsi del cibo preso
+volano in schiere che successivamente cambiano forma...>.  Mi
+assicura Guido Prola, che cumula in in s@e le qualit@a di artista
+esimio, ornitologo e cacciatore, che la descrizione dantesca
+corrisponde perfettamente a quel che fanno i ^piovanelli~,
+trampolieri che si vedono numerosi sulle rive dell'Arno.  Che si
+tratti di gru, come vorrebbe lo Holbrook (^Dante and the animal
+Kingdom~, New York, 1902), io non lo credo.  Le gru formano
+figure simili a lettere solo nei loro lunghi viaggi aerei; e poi
+qui la similitudine riguarda il formare successivamente figure
+diverse.
+
+	|76-78.~  Non credo punto che la similitudine debba
+estendersi al ^quasi congratulando a lor pasture~, giacch@e se
+questi spiriti si aggruppano variamente, non @e punto per
+esprimere un loro compiacimento, ma pel fine pratico di formare
+quelle date lettere e parole.
+
+	|79.  a sua nota~: secondo il loro canto, sul ritmo del
+loro canto.
+
+	|82-87.  Pegasea~: @e epiteto delle Muse perch@e il cavallo
+alato Pegaso era simbolo della poesia.  Quale delle Muse invochi
+qui Dante non @e possibile dirlo.  Probabilmente nessuna
+individualmente, e quel singolare @e meramente formale per
+indicare le Muse in genere.  Cos@i fa Omero al principio de' suoi
+poemi, cos@i Virgilio, cos@i tanti altri poeti prima e dopo Dante. 
+Anche qui (cfr. nota a ^Purg.~ XXIX, 37-42) Dante invoca la Musa
+che lo aiuti, pi@u che per una vera difficolt@a del suo compito
+poetico, per richiamare l'attenzione del lettore sopra una
+rappresentazione simbolica che gli @e molto a cuore.
+
+	|83-84.  longevi~: nella memoria degli uomini.  |Essi~
+ecc.: <ed essi, aiutati da te, prolungano la memoria delle citt@a
+e dei regni>.
+
+	|85-87.  illustrami~: ill@uminami.  |Rilevi~: rappresenti
+efficacemente.  |Concette~: vedute (non gi@a <concepite>, che
+sarebbe un confessare la finzione); cos@i vedemmo il sostantivo
+^concetto~ significare semplicemente <aspetto> (^Par.~ III, 60). 
+|Paia~: appaia.
+
+	|90.  le parti~: le varie lettere, parti delle parole.
+
+	|91-93.~  Le parole formate da quei lumi son quelle con
+cui incomincia il ^Liber sapientiae~ del Vecchio Testamento. 
+|Sezzai~: ultimi (cfr. ^da sezzo~: ^Inf.~ VII, 130 e ^Purg.~ XXV,
+139).
+
+	|96.  d'oro distinto~: <ornato d'oro>.  Ma si dice
+<distinto> quando ci@o che adorna @e, per materia o per colore,
+diverso dall'oggetto adornato.  Cos@i Dante viene a dirci che le
+anime di quel cielo splendevano d'una luce aurea, diversa da
+quella argentea del pianeta.
+
+	|98.  il colmo de l'emme~: Bisogna pensare a una |emme~
+gotica (cfr. ^Purg.~ XXIII, 32-33 e nota relativa) che ha un
+|colmo ~ nel punto pi@u alto della curva superiore.  Vedi per
+questo e per le trasformazioni successive di questa M, la fig.
+33.
+
+	|99.  il ben~ ecc.: Iddio, che le attira a s@e.
+
+	|100-102.~  Era superstizione popolare che percuotendo
+fra loro dei ciocchi tolti dal fuoco, dalla quantit@a e modo delle
+faville che ne sprizzavano si potessero trarre auguri.
+
+	|103.  quindi~: di qui, cio@e da quel gruppo di lumi che
+s'era fermato sul ^colmo dell'emme.~
+
+	|105.~  <Come assegn@o loro in sorte (come dispose di
+loro) quel Dio che le infiamma di amore per Lui>.  Altri spiega
+che salirono pi@u o meno a seconda del grado di beatitudine che
+Dio assegn@o loro in Paradiso.  Ma @e interpretazione errata
+perch@e, come vedremo, le anime pi@u eccelse tra queste che vanno a
+formare la testa e il collo di un'aquila, non sono quelle che si
+fermano pi@u in alto ma quelle che vanno a formare l'occhio.
+
+	|108.  distinto foco~: lumi di colore diverso da quello
+di Giove.  Cfr. v. 96.
+
+	|109-111.~  Questa testa e collo d'un'aquila erano dunque
+disegnati da Dio: non era quindi una copia fatta sulla guida d'un
+modello, come quando un uomo dipinge un'aquila, ma era l'idea
+divina dell'aquila, che @e l'esemplare su cui si modella la virt@u
+formatrice dell'anima aquilina quando per i nidi (@e un |per~
+locale, distributivo) delle aquile forma gli aquilotti.  Per la
+virt@u formativa, v. ^Purg.~ XXV, 52-60.  |Da lui si rammenta~:
+equivale a un <deriva da lui>.  Ma @e un uso un po' singolare del
+verbo ^rammentare~; tanto che sospetto che debba leggersi |di lui
+si rammenta~: la virt@u formativa quando d@a forma a un aquilotto,
+si ricorda di Dio, cio@e dell'idea divina dell'aquila.
+
+	|112-114.~  Gli altri beati, che prima parevano contenti
+di adornare la lettera |emme~ (leggo |ingigliarsi l'emme~ invece
+che |all'emme~: di ci@o vedi la nota finale {qui di seguito}), con
+piccolo spostamento secondarono l'impronta (immagine) aquilina
+formata dagli spiriti sopraggiunti e formarono il corpo di
+un'aquila.  Recapitolando le varie fasi della trasformazione
+della M in aquila, non sempre bene intese dai commentatori
+abbiamo dunque quattro momenti: 1+o~ Una emme.  2+o~ Una emme con una
+protuberanza al suo colmo, formata da una nuova schiera di anime. 
+3+o~ Queste nuove anime si mettono in moto, e la protuberanza si
+trasforma nella testa e nel collo d'un'aquila.  4+o~ Le anime che
+formavano ancora la emme, si muovono e formano il corpo
+dell'aquila.  Come da una emme gotica con poco spostamento si
+possa formare il corpo d'un'aquila, @e possibile immaginarlo solo
+pensando che l'aquila che ne risulta @e l'aquila araldica dello
+stemma imperiale, cio@e un'aquila stilizzata, convenzionale: il
+che, peraltro, non pare accordarsi con la dichiarazione dei vv.
+109-111, che quella sia la vera forma dell'aquila!  Il
+significato allegorico di questa aquila e della sua funzione, @e
+chiaro: essa @e come un atto d'omaggio prestato all'Impero da
+quelle anime che hanno raccomandato la giustizia ai governanti
+della Terra, un riconoscimento che depositario in Terra della
+divina giustizia @e l'Impero.  Si @e voluto vedere nella emme che
+precede la formazione dell'aquila l'iniziale di ^Monarchia.~  Mi
+pare un vano andare a caccia di simboli, dato che l'esaltazione
+della monarchia (che per Dante era tutt'uno con l'Impero) @e fatta
+tanto pi@u chiaramente dal segno dell'aquila.
+
+	NOTA FINALE: I BEATI CHE <S'INGIGLIANO>.  Che significa
+propriamente questo verbo, e quale @e l'immagine che Dante ha
+voluto rappresentare nei versi 112-113 di questo canto?  Ho detto
+nelle note che la lezione comune @e |ingigliarsi a l'emme~, che a
+me pare non dia significato, onde l'ho sostituita con
+|ingigliarsi l'emme.~  Debbo qui giustificare tale mia opinione. 
+Cominciamo dal fissar bene che cosa sia |quell'altra beatitudo~,
+ossia quegli altri beati a cui lo |ingigliarsi~ si riferisce. 
+Nonostante che altri abbia inteso diversamente, a leggere
+diligentemente e intelligentemente il testo, non v'ha dubbio che
+essi beati siano quelli che avevan formato tutte le lettere del
+motto biblico, e in ultimo eran rimasti ordinati in figura di
+emme.  Essi sono infatti ^altri~ rispetto a quelli che avevan
+formato la testa e il collo d'un'aquila; i quali, alla loro
+volta, sono quelli stessi che in un primo momento eran discesi
+sul ^colmo de l'emme~ {97-98}, e che ^quindi~ {103}, cio@e di l@i,
+in un secondo momento, eran saliti pi@u o meno a formare quella
+figura.  Dato ci@o, tutte le spiegazioni fondate sul presupposto
+che con |l'altra beatitudo~ si designino invece le anime scese
+sul colmo dell'emme, sono assolutamente da escludere.  Ora, che
+mai potrebbe significare che gli spiriti che formavano l'emme
+parevano contenti |d'ingigliarsi a l'emme?~  Ingigliarsi non pu@o
+significare che farsi giglio, o prendere figura di giglio, o
+mettersi nel giglio, o adornarsi di gigli.  Con qualunque di
+questi significati quella frase non ha senso.  Pure, intesa a
+orecchio, essa ha suscitato in molti commentatori l'impressione
+che tra la fase dell'emme e la fase dell'aquila quei lumi siano
+passati per una fase in cui formavano un giglio; e sarebbe la
+fase in cui gli altri spiriti eran discesi sul ^colmo dell'emme~,
+ma non ancora avevan formato testa e collo d'aquila (nella fig.
+33 @e la seconda fase, quella che nella nota ai vv. 112-114 @e
+indicata col n. 2).  Il che significa che la frase ^contente~
+|d'ingigliarsi a l'emme~ dovrebbe significare <contente d'aver
+contribuito a formare col loro emme la figura d'un giglio>.  Se
+questo @e linguisticamente e sintatticamente possibile, ne
+giudichi il lettore spregiudicato.  Per di pi@u, @e chiaro che il
+^contente ecc.~ si contrappone al contegno delle altre anime che
+invece si sono mosse a formare testa e collo aquilini, e si
+riferisce quindi a un momento in cui l'ipotetico giglio non c'@e
+pi@u.  E infine c'@e questo: che per vedere in una emme gotica con
+una protuberanza in cima la figura d'un giglio, bisogna sognare a
+occhi aperti: e dico cosa d'un giglio vero e proprio, come d'un
+giglio araldico qual @e quello di Firenze o quello della casa di
+Francia.  Proprio quest'ultimo ci si @e invece voluto vedere dal
+Parodi; e tale opinione ha contribuito non poco a rendere accetta
+l'idea d'una fase ^giglio~ nelle figurazioni da quei lumi,
+giacch@e @e piaciuto di potere scorgere nella rappresentazione
+dantesca un'affermazione del concetto che la casa di Francia
+doveva cedere dinanzi all'Impero, non opporglisi come invece
+faceva.  Ma se fosse vero che quelle anime si erano per un poco
+disposte in figura di giglio, anche questo sarebbe stato un
+disegno della mano divina non meno di quello dell'aquila, e
+l'allegoria verrebbe ad essere che Dio prima consider@o insegna di
+giustizia il giglio di Francia e poi l'aquila imperiale: cosa del
+tutto repugnante al pensiero di Dante, per cui l'aquila era
+^l'uccel di Dio~ fino dai tempi di Enea (^Par.~ VI, 4-6). 
+Concludo: l'espressione |ingigliarsi a l'emme~ e le
+interpretazioni che vi si aggiungono, non d@anno senso n@e
+grammaticalmente, n@e figurativamente, n@e storicamente.  Mutiamo
+dunque strada, in un modo semplicissimo, che d@a un senso
+semplicissimo, leggendo |ingigliarsi l'emme.~  Dante contrappone
+le anime che, discese sul colmo dell'emme, dopo un poco, non
+paghe di come sono disposte, si muovono e formano la testa e il
+collo d'un'aquila, a quelle che in un primo momento non si
+muovono, perch@e sembrano contente di starsi a ingigliare l'emme. 
+|Ingigliarsi~ @e uno di quei tanti pseudoriflessivi che usa Dante
+a dare un senso di intimit@a, concentrazione in s@e, distacco da
+quel che circonda, e simili.  (Cfr. note a ^Purg.~ XXVIII, 40-41
+e a ^Par.~ III, 108).  E ^ingigliare~ @e adornare: una delle tante
+metafore floreali che egli applica ai beati.  Cos@i le anime delle
+due ghirlande di sapienti nel cielo del Sole sono ^sempiterne
+rose~ (XII, 19), le anime di questo stesso cielo di Giove presto
+saranno chiamate ^perpetui fiori~ (XIX, 22), e nel canto XXIII
+tutte le anime formano un ^giardino~, la Vergine @e una ^rosa~ e
+gli apostoli sono ^gigli~; e la luce che riveste le anime del
+Paradiso in generale, le ^infiora~ (XIV, 13); e infiorare nel
+senso di adornare abbiamo in ^Par.~ XXV, 46, dove @e detto che
+l'anima di Dante ^s'infiora~ di speranza.  Allo stesso modo le
+anime che adornano di s@e la forma della emme, la ingigliano.
+
+	|115-117.~  Dante deduce dalle parole che le anime hanno
+scritto e dall'immagine che hanno formato, che esse sono anime di
+giusti, e che quindi (pel rapporto, ormai da lui pienamente
+compreso, che corre fra i gruppi di anime che gli si presentano e
+il pianeta in cui gli si presentano) la giustizia umana @e effetto
+del cielo di Giove, di cui Giove @e una gemma.
+
+	|118-126.~  Preghiera che Dante, ora che scrive,
+ripensando a quanto vide, rivolge a Dio, perch@e faccia cessare
+quel che impedisce in Terra il trionfo della giustizia, e agli
+spiriti dei giusti che sono in Paradiso, affinch@e preghino
+anch'essi per l'umanit@a traviata.
+
+	|118-120.  la mente~ ecc.: la mente di Dio in cui @e la
+prima origine delle influenze esercitate dagli astri.  |Ond'esce~
+ecc.: <da dove muove la causa che offusca in Terra la giustizia
+irradiata da Giove>: questo ^dove~ @e per Dante la corruzione dei
+papi simoniaci, che con l'ingiustizia verso il vero merito e i
+favori accordati a chi paga (cfr. ^Inf.~ XIX, 104-105; ^Par.~
+XII, 88-89) d@anno il pernicioso esempio dell'ingiustizia.
+
+	|121-123.~  Allusione all'episodio evangelico di Cristo
+che scacci@o violentemente dal tempio di Gerusalemme i mercanti
+che lo profanavano (^Matteo~, XXI, 12).  Anche i papi, in quel
+tempio ideale che @e la Chiesa, trafficano disonestamente: quel
+tempio che fu edificato coi miracoli (|segni~) e coi |mart@iri~,
+gli argomenti pi@u efficaci alla propagazione della Fede. 
+^Signum~ per <miracolo> @e frequentissimo nei Vangeli e nella
+Bibbia.
+
+	|124-126.  milizia del ciel~: le anime del cielo di
+Giove, che ora Dante, ripensando, vede quasi presenti a s@e. 
+|Adora~: prega.  |Tutti sviati~ ecc.: cfr. ^Purg.~ VIII, 131 e
+XVI, 98-104; ^Par.~ IX, 130-132.
+
+	|127-129.~  Allusione a una delle colpe pi@u frequenti nei
+pontefici del tempo di Dante, di cui questi profondamente si
+doleva: abusare delle scomuniche, cio@e, dice il poeta, togliere
+ai cristiani quel cibo spirituale che Dio, padre affettuoso, non
+nega a nessuno.  Ma tale affermazione per un cattolico @e alquanto
+arrischiata.  Altro @e riconoscere l'abuso, altro affermare che un
+papa non possa scomunicare senza andar contro alla volont@a di
+Dio!  Egli stesso aveva, del resto, riconosciuto una sanzione
+data da Dio alla scomunica nella lunga attesa cui sono
+condannati, prima d'essere ammessi al Purgatorio, gli spiriti dei
+morti scomunicati (^Purg.~ III, 136-140).  Ma qui Dante @e
+passionato; e non @e improbabile che scrivesse sotto l'impressione
+della scomunica lanciata da Giovanni XXII a Cangrande della Scala
+nel 1317, alla cui corte @e verosimile che il poeta fosse in
+questo tempo.
+
+	|130-132.~  Qui il discorso si rivolge appunto a Giovanni
+XXII, a cui Dante muove l'accusa di scrivere bolle di scomunica
+per poi cancellarle per danaro.  Pietro Fedele (in ^Conferenze
+dantesche~, Milano, Hoepli, 1935) sostiene che Dante accenni
+invece alla revoca di molti benefizi ecclesiastici fatta da quel
+papa, e fatta, a quanto si diceva, per goderne lui le rendite. 
+Ma @e un significato che non si concatena punto coi versi
+precedenti (128-129), mentre il |ma~ deve introdurre una minaccia
+di punizione per la colpa in essi enunciata (cfr. nota a ^Par.~
+IX, 46-48), ed @e naturale che la colpa cui si allude nella
+minaccia (|tu che sol~ ecc.) sia la medesima.  E poi lo sdegno
+con cui Dante investe il papa sarebbe sproporzionato alla colpa
+di cui parla il Fedele.  Quanto alla minaccia, essa @e
+indeterminata: <Pensa che S. Pietro e S. Paolo che sparsero il
+sangue per la Chiesa che tu ora mandi in rovina (per la |vigna~
+cfr. ^Par.~ XII, 86), vivono in Cielo>; e cio@e potranno punirti.
+
+	|133-136.~  Con subitaneo cambiamento di tono, Dante
+passa dall'invettiva al sarcasmo: <@E vero bens@i che tu puoi
+rispondermi: ma io ho tutta l'anima occupata da S. Giovanni
+Battista, e non conosco n@e S. Pietro n@e S. Paolo>.  S. Giovanni
+Battista, la cui immagine era impressa nel fiorino di Firenze
+(cfr. ^Inf.~ XXX, 74) sta a rappresentare il danaro (cfr. ^Par.~
+IX, 130-132); ed @e nominato perifrasticamente con allusione alla
+sua lunga dimora nel deserto (cfr. ^Purg.~ XXII, 151-152), e alla
+sua decapitazione accordata da Erode alla figlia Erodiade in
+compenso di aver danzato (^saltavit~ dice il racconto evangelico
+di ^Matteo~, XIV) meravigliosamente.  S. Pietro e S. Paolo sono
+nominati dal papa senza rispetto: quegli come pescatore (tale era
+la sua professione quando Cristo lo chiam@o a s@e), questi colla
+forma popolare del suo nome.

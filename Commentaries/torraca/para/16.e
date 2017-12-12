@@ -1,0 +1,788 @@
+	|1-9.~  Chi era insignito della cavalleria entrava a far
+parte della classe nobile, e la nobilt@a sua trasmetteva ai
+discendenti; cio@e -- sono parole di un documento del 1267 -- <per
+il padre, per l'avo, per il proavo> si diveniva <di natura di
+cavalieri> (^de natura militum~); cfr. ^Salvemini~, ^La dignit@a
+cavall. nel com. di Firenze.~  Avendo Cacciaguida detto (^Par.~,
+XV, 140) che l'imperatore Corrado lo cre@o cavaliere, Dante seppe
+che nelle sue vene scorreva sangue nobile, e se ne glori@o, pur
+non ignorando che |nobilt@a di sangue~ @e poca cosa, pur essendo
+|nel cielo~ dove |appetito non si torce~ ai beni terreni, tra i
+quali van compresi gli onori; cfr. ^Purg.~, XVII, 118 n.  Poi che
+questo gli avvenne nel cielo, non si maraviglier@a pi@u, dice, se
+in terra, dove i desid@eri si disviano s@i che il ^vero amore~
+illanguidisce (cfr. ^Par.~, VI, 115-117), |la nobilt@a di sangue
+fa di s@e gloriar la gente.~  La confessione di questa sua
+debolezza, se cos@i la vogliamo chiamare, che gli esce con tanta
+spontaneit@a, appare pi@u sincera e pi@u degna se si riflette che
+egli, nel IV trattato del ^Conv.~, con molti argomenti, dimostra
+la vera e sola nobilt@a consistere nella virt@u, e (cap. 29)
+biasima <coloro, che, per essere di famose e antiche generazioni,
+e per essere discesi di padri eccellenti, credono essere nobili,
+nobilt@a non avendo in loro>.  Ma, in verit@a, non rinunzia alle
+opinioni professate prima, giacch@e s'affretta, e con energia
+(|ben se' tu~), a paragonare la |nobilt@a di sangue~ a |manto~,
+cosa posticcia, che copre e adorna la persona e che presto
+s'accorcia; rifilato dalle forbici del |tempo~, se assiduamente,
+di giorno in giorno, non vi si fanno giunte -- s'intende, <con la
+propria virt@u>.  Quale de' discendenti aveva <apposto> qualche
+giunta al |manto~ di Cacciaguida?  Cfr. ^Mon.~, II, 3. 
+^Colonna~, II, iii, 16: <La gentilezza secondo la credenza del
+popolo, cio@e quella, ch'@e per lignaggio, @e cosa apparente>.  --
+|Raccorce~: raccorci.  -- |S'appon~: cfr. v. 69.  ^Canz. chig.~,
+492: <Be' lo sa Iddio, che bugia non ci appogno>.  |Di die in
+die~: cfr. ^Conti morali~, XI: <elli (l'uomo) vae al suo fine di
+die in die.>.  -- |Il tempo~ si soleva rappresentare con la
+falce, perch@e tutto <miete, sega e tronca> (^Macrobio~,
+^Saturn.~, I, 9); qui l'imagine del |manto~ porta con s@e quella
+delle |force~, lat. ^forfices.~
+
+	|10-12.~  Dante, rivolgendo la prima volta la parola a
+Cacciaguida, gli ha dato del ^tu~ (^Par.~, XV, 85); ora, in segno
+di rispetto, gli d@a del |voi~, come, secondo le compilazioni
+medievali di storia romana, i Romani avevan fatto, la prima
+volta, parlando a Cesare.  ^F. di Ces.~, 162: <Andonne a Roma
+(Cesare).  Li Romani, che v'erano, li fecero grande onore,
+dicendo contro loro costumanza: ^Ben andiate~ e ^ben vegnate~,
+ch@e solevano dicere a uno solo uomo: ^Ben venghi, ben vadi tu~>. 
+|Sofferie~: fu cosa inusata e spiacente.  -- |In che~ ecc.  |La
+sua famiglia~, i Romani moderni, non hanno perseverato in questo
+uso.  ^Salimbene~: <Quelli di Puglia e Sicilia e i Romani dicono
+^tu~ all'Imperatore e al sommo Pontefice; oppure lo chiamano
+signore, dicendo: ^tu messer~>.  Anche ora, a Roma spesso, nella
+provincia romana sempre, il popolo d@a del tu a qualsiasi persona.
+
+	|13-15.  Scevra~: da scevrare (sceverare), separare:
+Beatrice stava un poco in disparte.  ^Fra Giordano~, LII: <fieno
+partiti e sceveri da Dio>.  -- |Ridendo~: della cagione, che
+muove Dante a mutare il ^tu~ in ^voi~ {v.10}.  -- |Parve quella~
+ecc.  Quando Galeotto (^Inf.~, V, 137) procur@o il primo colloquio
+di Lancillotto con Ginevra (ivi, 128) in un boschetto, la regina
+vi and@o accompagnata dalla dama di Malehaut, che amava il giovine
+guerriero, e da due damigelle.  Galeotto e le donne stavano un
+po' discosto, mentre i due innamorati conversavano.  A un certo
+punto la regina domand@o: -- <E quanto @e che voi tanto mi amate?> 
+Lancillotto rispose: -- <Dal giorno che fui chiamato cavaliere,
+che ancora non era>.  Ed ella: <Per la fede, che voi mi dovete,
+donde venne questo amore, che voi avete messo in me s@i grande e
+s@i intero?>  A queste parole della regina, avvenne che la dama di
+Malehaut toss@i con intenzione.  Pi@u tardi, la regina baci@o
+Lancillotto; e perch@e si ritiene che quel bacio fosse il |primo
+fallo~ di Ginevra, si suppone che Dante non avesse ricordato bene
+quando e perch@e |tossio~ la dama di Malehaut.  Ma |il primo
+fallo~ della bella regina non fu l'aver voluto il convegno col
+giovine, e l'esservi andata?  -- |Scritto~: che si trovi scritto.
+
+	|16-18.  Voi, voi, voi~: Cacciaguida si era compiaciuto
+in Dante (^Par.~, XV, 88); Dante si compiace in Cacciaguida,
+vivamente, insistentemente.  Pare che, passando sopra a tre
+generazioni, voglia ricongiungersi immediatamente con lui: |Voi
+siete il padre mio~!  ^Sia balda la tua voce~ gli aveva detto lo
+spirito (ivi, 67); ed egli: |Voi mi date, a parlar, tutta
+baldezza~, facendo suonar alto |voi~, alto |tutta.~  Giusto @e che
+a vedere un cos@i degno antenato nella gloria de' cieli, a
+sentirlo parlare con tanta elevatezza di pensieri, di sentimenti,
+egli si esalti in s@e stesso, si senta divenire maggiore di s@e:
+|io son pi@u ch'io~!  -- |Baldezza~: cfr. ^Conv.~, IV, 5: <la
+baldezza e l'onore dell'umana generazione, cio@e Maria>;
+^Tesoretto~: <Allor vid'io Prodezza Con viso di baldezza, Sicuro
+e senza risa, Parlare>.
+
+	|19-21.  Per tanti rivi~ ecc.  Tante sono le ragioni, che
+m'empiono |d'allegrezza.~  Paragona la |mente~ a un fiume, che si
+gonfi delle acque di molti affluenti; cfr. ^Purg.~, XIII, 90.  --
+|Che di s@e~ ecc.  Che si allieta di poter reggere a tanta
+|allegrezza~ senza spezzarsi.
+
+	|22-24.  Primizia~: Cacciaguida aveva detto (^Par.~, XV,
+89): ^Io fui la tua radice.~  Si ponga attenzione agli accenti
+del v. 22; all'ardore del desiderio nelle prime parole: |ditemi,
+dunque~; all'effusione della letizia e dell'affetto gi@a divenuto
+familiare e insinuante, che fa vibrare le ultime: |cara mia
+primizia~!  -- |Antichi~: antenati.  ^Conv.~, IV, 25: <Non nomin@o
+suo padre, ma gli antichi suoi>.  ^Barberino~, ^Doc.~, I, 23: <Se
+non savesse la gente d'attorno Chi vostri antichi forno>.  -- |Si
+segnaro~: propriamente gli anni correnti si segnavano nelle
+scritture pubbliche, ne' documenti uffiziali, nelle cronache. 
+|In vostra puerezia~: quando eravate fanciullo.  Cacciaguida ha
+gi@a indicato il tempo della sua morte, ^Par.~, XV, 145 segg.
+
+	|25-27.  Ovil di S. Giovanni~: Firenze, di cui S.
+Giovanni @e il patrono (^Inf.~, XIII, 143-144).  Fa pensare che,
+quando Cacciaguida viveva, la citt@a era pi@u raccolta, pi@u stretta
+intorno alla chiesa di S. Giovanni.  <Porta del Duomo> fu il
+primo ovile e stazzo della rifatta Firenze, ^Villani~, IV, 10. 
+-- |Quant'era, e quali eran~: la domanda era un po' vaga; la fa
+pi@u precisa.  -- |Degni di pi@u alti scanni~: cfr. ^Par.~, VI,
+125.  ^Villani~, IV, 10: <Chi erano i nobili e possenti
+cittadini>.
+
+	|28-30.~  Il fatto -- che gli spiriti splendano di
+maggior luce ^per pi@u letizia~ {v.20} -- non @e nuovo, e nemmeno
+interamente nuova l'imagine del |carbone in fiamma~ (cfr. ^Par.~,
+VIII, 16; XIV, 52-55); ma qui @e aggiunta la causa dell'avvivarsi
+del |carbone~, lo |spirar de'~ venti.  ^Chiaro~ (^Nessuna gioia~)
+aveva scritto: <Come per fiato s'avviva lo foco>; e ^Ovidio~,
+^Metam.~, VII, 79-81: <Come da' venti suole acquistare nuovo
+alimento una piccola favilla e crescere>.  Dante ferma la nostra
+attenzione al |carbone~, che |s'avviva~ dentro |la fiamma.~  --
+|Blandimenti~: le parole carezzevoli, con cui aveva cominciato;
+vv. 16-21.
+
+	|31-33.  Pi@u dolce e soave~ di quella di prima, causa ed
+effetto insieme, la dolcezza della voce e l'impressione gradita,
+cbe suscitava.  -- |Ma non~ ecc.  Cfr. ^V. E.~, I, 9 e ^Conv.~,
+I, 5: <Vedemo nelle citt@a di Italia, se bene volemo agguardare, a
+cinquant'anni da qua, molti vocaboli essere spenti e nati e
+variati; onde se 'l piccolo tempo cos@i trasmuta, molto pi@u
+trasmuta lo maggiore>.  Cacciaguida era morto da pi@u di
+centocinquant'anni.
+
+	|34-39.~  Dall'Annunziazione di Cristo alla mia nascita,
+|questo foco~, Marte, torn@o cinquecentottanta volte sotto la
+costellazione del Leone.  Si ricordi che i Fiorentini
+dall'Annunziazione (25 marzo) contavano gli anni.  -- |Fu detto:
+Ave~: cfr. ^Purg.~, X, 40.  -- |Ch'@e or santa~: anch'ella @e nel
+cielo.  |Questo foco~: si ricordi ^l'affocato riso~ di questo
+pianeta, ^Par.~, XIV, 86.  |Suo Leon~: perch@e |suo~, di Marte?  @E
+chiarito dal v. 39.  Il |Leone~ <@e di natura di fuoco> (^Sidrac~,
+CCCCXXXVII), ^ardente~ (^Par.~, XXI, 14): quando il sole @e in
+Leone, par che si aggiunga fuoco a fuoco, e si sente ^la gran
+fersa de' d@i canicolar~ (^Inf.~, XXV, 79-80); analogamente il
+poeta imagina che si rinfiammi Marte ogni volta che torna sotto
+il |Leone.~  Giova non trascurare che Marte, nel suo corso,
+<tocca la maggiore altezza, ossia la maggiore distanza dalla
+terra, quando si leva sotto la regione del segno del Leone>; ^M.
+Capella~, VIII.  |Cinquecentocinquanta e trenta fiate~: 580
+volte.  Marte compie il suo corso in 1 anno persiano, 10 mesi e
+22 giorni (^Alfragano~, XVII), ossia in 687 giorni. 
+Moltiplicando questo numero per 580, e dividendo il risultato per
+365, si ha l'anno della nascita di Cacciaguida, 1091.  Egli
+aveva, dunque, cinquantasei anni quando and@o alla crociata.  --
+|Sotto la sua pianta~: del piede; nel ^Par.~, XXI, 14 dir@a:
+^sotto il petto del Leone.~  ^Ristoro~, I, i, 17: <Quel Leone hae
+bocca ed occhi e cuore, lo quale @e posto nel petto, ed ha coda>. 
+Cfr. ^Alfragano~, XX e gli ^Scolii~ all'^Aratea~: <Il Leone ha 3
+stelle nel capo, 2 nel collo, 1 nel petto... 2 sotto il petto, 1
+chiara nei piedi anteriori>.
+
+	|40-42.  Nel loco dove quel~, quegli, |che corre il
+vostro annual giuoco, truova pria l'ultimo sesto~, cio@e dove
+comincia |l'ultimo sesto.~  Il |sesto~ di Porta San Pietro
+cominciava alla via degli Speziali presso Mercato Vecchio.  <La
+citt@a era partita in quartieri... ma poi, quando si crebbe, si
+recoe a sei sesti, siccome numero perfetto...  E fecero capo il
+sesto d'Oltrarno, acciocch@e andasse in oste colla 'nsegna del
+ponte...  E Porta san Piero da sezzo (da ultimo) colla insegna
+delle chiavi, e dove fu de' primi sesti abitati in Firenze, fu
+messo allo andare dell'oste alla dietroguardia, imperciocch@e in
+quello sesto sempre aveva la migliore cavalleria e gente d'arme
+della citt@a anticamente>.  ^Villani~, III, 2.  Di qui si desume
+che aver sede nel sesto di Porta S. Pietro era segno di
+cittadinanza antica.  Cacciaguida distingue il luogo, dov'egli
+nacque, da quello dove nacque Dante, che era lontano dal Mercato
+Vecchio, nel popolo di S. Martino del Vescovo; cfr. ^Par.~, XV,
+91-94 n.  Nella via degli Speziali erano anche le case degli
+Elisei (^Barbi~ nel ^Bullett.~, IV, 2); ma ci@o non basta a
+provare che Cacciaguida fosse veramente degli Elisei, <della
+schiatta de' Frangiapani> di Roma come piacque al ^Boccaccio~ di
+supporre.  -- |Corre~ ecc.  Ogni anno, il giorno di San Giovanni,
+si correva il palio; cfr. ^Inf.~, XV, 122.
+
+	|43-45.~  Dante aveva domandato (v. 23): <Quai fur li
+vostri antichi?>  Rispondendo, Cacciaguida ha detto solo dove
+essi abitavano, e rifiuta proprio quella notizia, che pi@u
+desiderava Dante, |chi ei si furo~, con la quale sarebbe stata
+necessariamente congiunta l'altra: |donde venner quivi~, a
+Firenze.  La domanda, per s@e stessa, mostra che sarebbe piaciuto
+al poeta, in quel suo gloriarsi della nobilt@a di sangue, sentir
+confermare autorevolmente la credenza -- ricevuta dalla
+tradizione domestica, o formatasi in lui per induzione -- secondo
+la quale riviveva in lui <la sementa santa de' Romani>; ^Inf.~,
+XV, 74 segg.  Ma poteva un santo, nel cielo, <dove appetito non
+si torce>, secondare quel moto di vanagloria?  No, certo; perci@o
+Cacciaguida taglia corto: -- |Basti udirne questo~, e, pure con
+bel garbo, come chi comprende e scusa, ma con tono fermo,
+disapprova: -- |pi@u @e tacer~ ecc.  Cfr. ^Inf.~, IV, 104-105; ma
+si badi alla differenza tra <@e bello>, (piace) ed |@e onesto~ (sta
+bene, conviene).
+
+	|46-48.  Da poter arme~: atti a portare le armi.  |Tra
+Marte e 'l Batista~: dal <passo d'Arno>, dal Ponte vecchio, sul
+quale era il frammento della statua di Marte (^Inf.~, XIII, 146,
+147), al Battistero, prossimo allora alle mura.  -- |Il quinto~:
+nel 1300 <pi@u di trentamila cittadini avea nella cittade>;
+^Villani~, VIII, 39.  Intorno al 1200 gli uomini dai 18 ai 60
+anni erano poco pi@u di 3000 sopra una popolazione di circa
+10,000; al tempo di Cacciaguida, la popolazione doveva essere di
+circa 6000 e gli atti alle armi poco pi@u di 1800.  Cfr.
+^Salvemini~, ^Magnati~, ecc.
+
+	|49-51.~  Non molti, dunque, ma tutti Fiorentini
+schietti, anche i pi@u umili artigiani, senza miscuglio di gente
+venuta in citt@a dalle cittaduzze e da' borghi sottomessi via via. 
+-- |Campi, Certaldo~ e |Figghine~, tre vertici d'un triangolo
+isoscele (cfr. ^Par.~, VIII, 62 n.), il cui lato pi@u breve @e
+quello tra |Campi~ al nord-ovest e |Certaldo~ a sud-ovest di
+Firenze.  |Campi~ pass@o dal dominio di Siena a quello di Firenze
+nel 1176; |Certaldo~ e Figline si sottomisero nel 1198. 
+|Fighine~ si legge nell'atto di sottomissione: |Pura~...
+|ultimo~: la voce s'indugia con intenzione su la prima sillaba. 
+<Pura si dice quella cosa, che non ha in s@e miscuglio>; ^Fra
+Giordano~, VII.
+
+	|52-57.~  La citt@a, chiusa nell'angusta cerchia delle sue
+mura, sarebbe rimasta ^in pace, sobria e pudica~ (^Par.~, XV,
+99); col crescer del territorio e, quindi, con l'immigrazione
+della gente del contado, si guast@o, si corruppe.  |Quanto~,
+esclama corrucciato Cacciaguida, <lodatore del tempo passato> e
+vero rappresentante, qui, del pi@u rigido conservatorismo --
+|quanto~ sarebbe |meglio~ che |quelle genti~ di Campi ecc.
+fossero ancora |vicine~, fuori delle mura, |che averle dentro~! 
+E ricorda rimpiangendo che l'antico |confine~ di Firenze era,
+dalla parte di mezzogiorno, al |Galluzzo~, a sole due miglia
+dalla citt@a; dalla parte di settentrione, a |Trespiano~, a sole
+cinque miglia.  E, dimenticando che nel regno de' cieli non sono
+distinzioni di classi o di gradi (cfr. ^Purg.~, XIX, 137 n.)
+scaglia al |villano~ fattosi cittadino l'ingiuria consueta:
+Puzzolente!  Vero @e che esso villano |gi@a~ si appresta a ^far
+baratteria~, cfr. ^Inf.~, XXI, 41; XXII, 53.  -- |Lo puzzo~ ecc. 
+^Riccardo da Venosa~: <Il villano insozza l'aria col fiato, la
+terra col corpo>; ^Matazone~: <il vilan puzolente> ecc.  --
+|Aguglion~: in Val di Pesa, ora distrutto.  Allude, forse, a
+Baldo d'Aguglione, giureconsulto imbroglione (cfr. ^Purg.~, XII,
+105 n.), sei volte priore, promotore nel 1311 della <riforma>,
+che da lui prese il nome, per la quale furono ribanditi,
+riammessi in citt@a i Guelfi esiliati, e nuovamente condannati
+all'esilio i <Ghibellini>, tra cui Dante.  -- |Signa~: su l'Arno,
+a occidente di Firenze.  Allude forse a Fazio Morubaldini,
+giureconsulto, prima Bianco, poi Nero, quattro volte priore,
+gonfaloniere di giustizia nel 1316.  -- |L'occhio aguzzo~: occhio
+di frodolento, intento a coglier le occasioni del guadagno
+illecito, le quali, col trionfo de' Neri, non mancheranno.  Il
+Compagni chiama Baldo <giudice sagacissimo>.  Cfr. ^Inf.~, XXIX,
+134.
+
+	|58-63.~  I giudici e notai formavano in Firenze la prima
+delle arti maggiori, i mercanti di Calimala la seconda, i
+cambiatori la terza.  Dopo aver colpito i villani di Aguglione e
+di Signa divenuti in Firenze giudici e barattieri, Cacciaguida
+vuol colpire i villani poveri in canna del contado di
+|Simifonti~, divenuti cambiatori e mercanti, grassi borghesi; ma
+gli passa per la mente, tra l'una e l'altra frecciata, la cagione
+prima di tanti mali, e non se la lascia sfuggire; se la Chiesa
+non fosse stata matrigna all'Imperatore, se gli fosse stata
+|benigna come madre a suo figliuolo~...  -- |La gente~ ecc. 
+Quelli, che pi@u scrupolosamente dovrebbero osservare i precetti
+di Cristo, son quelli, che meno li rispettano.  Non disse Cristo:
+<Il mio regno non @e di questo mondo?>  Non @e dell'essenza della
+Chiesa dire e sentire lo stesso?  ^Mon.~, III, 15.  -- |Noverca~:
+cfr. ^Par.~, XVII, 47.  -- |Ma come madre~ ecc.  Cfr. ^Mon.~,
+III, 16: <Quella riverenza usi Cesare a Pietro, che il figlio
+primogenito deve a suo padre>.  -- |Tal fatto @e cittadino~ ecc. 
+Alla spiegazione, abbastanza indeterminata, che si suol dare a
+questo passo, mi pare si possa sostituire una molto pi@u precisa. 
+Si crede che Dante alluda, in genere, alle lotte tra la Chiesa e
+l'Impero, delle quali usc@i fiaccata la potest@a imperiale; ma non
+si mostra qual relazione corra tra quelle lotte e l'imbastardirsi
+di Firenze.  Anche si suol considerare questo passo come staccato
+da quello, che lo precede, col quale, invece, @e intimamente
+connesso.  Bisogna ricordare che Federico Barbarossa (^Purg.~,
+XVIII, 119) <tolse al comune di Firenze tutto il contado e la
+signoria di quello infine alle mura, e per lo contado facea stare
+per le villate suoi vicari, che rendeano ragione e faceano
+giustizia>.  ^Villani~, V, 12.  Non tutti gli storici tengono per
+esatta questa notizia; ma, al tempo di Dante, nessuno ne dubitava
+in Firenze (cfr. ^Pseudo-Brunetto~, 223-224); ed @e poi certissimo
+che, nel 1185, Arrigo VI (^Par.~, III, 119), per segnalato
+favore, concesse al comune la giurisdizione <verso Settimo sino a
+tre miglia, ^verso Campi~ sino a tre, verso Fiesole sino ad uno,
+verso le altre parti intorno alla citt@a sino a dieci miglia>. 
+Gli acquisti delle terre di Certaldo e di Figline, e la
+distruzione di Semifonti furono posteriori alla morte di Arrigo,
+e non cominciarono se non dopo il trattato di San Genesio (11
+nov. 1197), col quale le citt@a e i signori di Toscana si unirono
+in lega difensiva ed offensiva, presenti due cardinali, e
+fermarono di non ricevere alcuno imperatore o nunzio o
+rappresentante, che per l'imperatore venisse a governare e
+amministrare, se non con l'assenso e con speciale mandato della
+Chiesa romana.  Capo della lega fu Firenze, che subito si giov@o
+di essa per estendere il suo dominio su tutto il contado.  Si pu@o
+dubitare che Dante conoscesse il patto di S. Genesio; ma il
+dubbio non sarebbe, secondo me, serio, perch@e i principali
+documenti della lega furono trascritti nel Libro de' Capitoli di
+Firenze.  Cfr. ^Ficker~, ^Ricerche~, IV, ^Santini~, ^Studi~ e
+^Doc.~ cit.  -- |Simifonti~: presso Barberino di Val d'Elsa:
+terra molto forte fondata dai conti Alberti, e da essi ceduta ai
+Fiorentini nel 1200, resistette valorosamente sino al 1202, e fu
+distrutta.  A tempo anteriore alla distruzione allude. 
+Cacciaguida con l'accenno all'|avolo~ di |tal~, che nel 1300,
+cambiava e mercava in Firenze: |Si sarebbe volto a Simifonti.~ 
+-- |Si sarebbe volto, andava~: dunque si tratta di villano o
+colono dimorante nelle campagne.  Questo importa considerare per
+intendere che qui l'espressione |andare alla cerca~, non pu@o
+avere se non il significato pi@u usuale, e ancora vivo, di andar
+attorno chiedendo l'elemosina.  Cfr. ^Salimbene~, 17-19: <Andando
+noi con le nostre sporte mendicando il pane... quando fu finita
+la nostra cerca (^circa~) e piena la sporta ecc.>.  I contadini,
+ancora attaccati alla gleba, oppressi dai molti <servizi>, che
+imponevan loro le leggi feudali, rovinati dai <guasti prodotti
+dalle continue guerre di vicinato e da quelle assai pi@u
+disastrose fra citt@a e citt@a>, erano spesso gettati nella pi@u
+dura miseria; molti fuggivano <nelle maggiori citt@a, ove pi@u
+facilmente trovavano lavoro ben retribuito e protezione nelle
+associazioni delle arti, mirabilmente ordinate>.  Cfr. ^Santini~,
+^Studi~, 213, ^Salvemini~, ^Studi~, 23.
+
+	|64.  Montemurlo~ fu dai |Conti~ Guidi (cfr. v. 98 n.)
+sottomesso a Firenze nel 1219.  I Guidi erano comunemente
+chiamati |i Conti~, senz'altro.  Cfr. ^Compagni~, I, 20:
+<Comprorono il palagio de' conti>.
+
+	|65-66.~  Non i soli villani avevano rotto la bella unit@a
+della popolazione, anche i feudatari piccoli e grandi del
+contado, costretti dal comune a dimorare in citt@a una parte
+dell'anno.  |I Cerchi~: cfr. vv. 94 segg.  -- |Acone~: in Val di
+Sieve, verso il Casentino, era ancora feudo de' Guidi nel 1239. 
+|Piviere~: pieve, parrocchia.  ^Villani~, VI, 39: <E come (nel
+1251) s'ordin@o il popolo a gonfaloni, cos@i fece il contado a'
+pievieri, cadauno al suo, ch'erano in tutto novantasei pievieri>. 
+-- In |Val di Grieve~, a poca distanza dal Galluzzo (v. 53), i
+|Buondelmonti~ (cfr. v. 140) possedevano il castello di
+Montebuono, <il quale era molto forte>.  Nel 1135 i Fiorentini
+l'assediarono e l'ebbero a patti che 'l castello si disfacesse e
+i signori tornassero ad abitare in Firenze; ^Villani~, IV, 36. 
+|Forse~: Montebuono era cos@i vicino!  E, come dir@a dopo (vv.
+145-147), era destino che i Buondelmonti andassero a stare in
+Firenze.
+
+	|67-69.~  Ha mostrato come sia avvenuta la |confusion
+delle persone~, perch@e la cittadinanza sia ^mista~ (v. 49); ora
+indica la conseguenza del fatto, e vi ragiona su.  |Sempre~ ecc. 
+<@E ancora cagione di discordia il non essere li cittadini d'una
+medesima stirpe, infino a tanto ch'ei non divenghino una cosa
+medesima...  Onde tutti quei, che hanno ricevuti compagni o
+forestieri, la pi@u parte hanno avuto tumulti civili>. 
+^Aristotile~, ^Politica~, VIII, 3.  Federico II viet@o i matrimoni
+con gli stranieri nel Regno di Sicilia, <perch@e la mistura di
+diverse genti vi aveva corrotto i buoni costumi>.  -- |Come~ del
+mal |del corpo~ @e principio |il cibo, che s'appone.~  Non il
+troppo |cibo~, ma il |cibo~ per s@e stesso.  <Dicono i savii che
+adiviene del corpo dell'uomo come del vino... ch@e, quando il
+fanciullo nasce, la sua carne @e pura, e se cos@i stesse,
+basterebbe (durerebbe) l'uomo quasi sempre; ma quando incomincia
+a prendere il cibo e 'l mangiare, questa cotale natura ch'@e come
+il vino puro, vi s'incomincia incontanente ad innacquare>.  ^Fra
+Giordano~, XV.  |S'appone~: cfr. v. 9.
+
+	|70-72.  Cieco toro e cinque spade~ simboleggiano la
+citt@a grande: |cieco agnello~ e |una spada~, la piccola.  |Pi@u
+avaccio~: pi@u presto, cfr. ^Inf.~, X, 116.  |Cinque~: il numero
+degli uomini <da poter arme> si era quintuplicato, cfr. v. 48. 
+In Cacciaguida, che parla ora per sentenze e per esempi, Dante
+incarn@o, se cos@i posso dire, l'ideale, da lui delineato nel
+^Conv.~, IV, 27, del vecchio prudente, cio@e savio, a che <si
+richiede buona memoria delle vedute cose e buona conoscenza delle
+presenti, e buona provvedenza delle future>: giusto, <acciocch@e
+li suoi giudicii e la sua autoritade sia un lume e una legge agli
+altri>; affabile nell'ascoltare e nel <ragionare lo bene>.  E la
+vecchiezza <pi@u belle e buone novelle pare dovere sapere per la
+lunga esperienza della vita>.
+
+	|73-78.~  <Cieco toro pi@u avaccio cade>; fuor di
+metafora, le citt@a grandi |termine hanno~, finiscono, come tutte
+le cose umane.  Ci@o insegna la storia e mostra l'esperienza.  Or
+se le citt@a finiscono, non ti far@a maraviglia |udir come le~
+singole |schiatte~ si |disfanno~ in una citt@a. Cos@i Cacciaguida
+s'apre la via a discorrere delle ^genti~ (v. 26), che, al suo
+tempo, primeggiavano in Firenze.  -- |Luni~: cfr. ^Inf.~, XX, 47,
+^Villani~, I, 50: <La citt@a di Luni, la quale @e oggi disfatta, fu
+molto antica... fu disfatta per gente oltramontana per cagione
+d'una donna ecc.>.  Secondo il ^Romanzo di Rou~ la disfecero i
+Normanni, capitativi per caso.  <Luna era citt@a di Toscana su la
+riva del mare presso Sarzana.  Perch@e fu bene situata e bene e
+bellamente edificata, bene disposta e ben fondata, bella citt@a,
+bella contrada, la citt@a fu chiamata Luna e paragonata alla
+luna...  Ma poi che Hasteins la devast@o, decrebbe e venne meno
+tanto che @e venuta al nulla>.  -- |Urbisaglia~: municipio romano
+nelle Marche, distrutto, secondo ^Procopio~, dai Visigoti.  <Gli
+abitanti, per vivere pi@u sicuramente, si ridussero nell'alto, ove
+sorse pi@u tardi un castello feudale>, ^castrum Orbesaglie~, il
+quale nel 1251 <rimase presso che spopolato>, perch@e i
+<castellani> passarono ad abitare in Tolentino. 
+^Colini-Baldeschi~, ^Appunti di storia marchigiana.~  -- |Come
+son ite~: cfr. ^Purg.~, XIV, 113 n.  -- |E come se ne vanno~:
+<accumula duol con duolo>.  -- |Chiusi~: in Val di Chiana,
+desolata dalla malaria; cfr. ^Inf.~, XXIX, 47, ^Par.~, XIII, 23. 
+-- |Sinigaglia~: nel 1280 <fu tradita e data al conte G. da
+Montefeltro (^Inf.~, XXVII, 67), il quale, secondo che si diceva,
+vi uccise e fece uccidere millecinquecento persone>. 
+^Salimbene~, 279.  Ne' primi anni del sec. XIV vi dominarono i
+Malatesta (^Inf.~, ivi, 46), uno de' quali, Pandolfo, la pun@i
+d'una ribellione con molta crudelt@a.  -- |Nuova cosa, n@e forte~:
+cfr. ^Purg.~, XIII, 145; XXIX, 42.
+
+	|79-81.~  Il primo @e concetto ovvio, perci@o non
+maraviglia trovarlo in altri scrittori.  Basti citare ^Boezio~,
+^Consol.~, II, prosa 3: <Dubitar non si pu@o che ogni generazione
+di cose mortali in miseria di morte non discorra alla fine>.  Ma
+Dante mette in rilievo |tutte~, e |come voi~; quindi aggiunge
+un'osservazione da lui gi@a fatta altrove, cio@e che pare che
+|alcuna~ cosa non muoia solo perch@e essa |dura molto~, e gli
+uomini non vivono tanto da vederla finire.  Cfr. ^V. E.~, I, 9:
+<Delle cose, che a poco a poco si mutano, assai poco ci
+accorgiamo, e quanto pi@u tempo bisogna perch@e il mutamento della
+cosa sia avvertito, crediamo quella tanto pi@u stabile.  Non fa,
+dunque, maraviglia se gli uomini, i quali poco differiscono dalle
+bestie, ritengono che, in una stessa citt@a, si sia sempre parlata
+la stessa lingua; giacch@e il mutamento del linguaggio della
+stessa citt@a non avviene se non in lunghissima successione di
+tempo, e la vita degli uomini @e, per sua natura, brevissima>.
+
+	|82-84.~  ^Virgilio~ (^En.~, XI, 624 segg.) aveva usato
+come termine di similitudine il flusso e riflusso del mare,
+indugiandosi a descriverlo in cinque magnifici esametri; di
+descriverlo in tre esametri s'era compiaciuto ^Lucano~ (^Fars.~,
+I, 409 segg.), e pi@u di enumerare le diverse cause, a cui esso
+era attribuito, confessando di non saper scegliere; Dante, pure
+ritraendo, ma con efficacissima concisione, in meno di un verso,
+il fenomeno, appunta l'occhio alla causa vera, |il volger del
+ciel della luna~, e alla incessante ripetizione di esso fenomeno
+-- |sanza posa.~  Ancora nel secolo XII uno degli uomini pi@u
+dotti, ^A. Neckam~ (^Delle nature delle cose~, II, 17), giudicava
+<non risoluta la questione>, e dava ben piccolo peso all'opinione
+del <volgo, che alla luna attribuiva la causa del flusso e
+riflusso>; ma nel sec. XIII ^T. d'Aquino~, in pi@u luoghi della
+^Somma t.~ (p. e. II-II, 3), profess@o l'opinione del <volgo>
+francamente; e ^B. Latini~, nel ^Tesoro~ (I, v. 126), la rifer@i
+come credenza degli astronomi: <Gli astronomi dicono che ci@o non
+avviene se non per la luna, giacch@e si vedono le onde crescere e
+scemare secondo che la luna cresce o scema, di 7 in 7 giorni,
+volgendosi essa in 28 giorni, per i 4 quarti del suo cerchio>. 
+-- |Cos@i~ ecc.  Anche la Fortuna <volve sua spera>, per che le
+stirpi fiorentine crescono e si disfanno, |sanza posa.~
+
+	|85-87.  Non dee parer mirabil cosa~: riprende e
+riafferma il concetto gi@a espresso nel v. 77.  -- |Alti~:
+insigni.  L'accento d@a forte rilievo a questo |alti.~  -- |De'
+quai~ ecc.  Il tempo ha oscurato e celato la loro |fama~ (cfr.
+^Purg.~, XI, 96 n.); non sono pi@u ricordati.
+
+	|88-90.~  L'enumerazione delle antiche famiglie
+fiorentine, che comincia qui, somiglia tanto a quella, che il
+^Villani~ inser@i nella sua cronaca, narrando de' tempi
+dell'imperatore Corrado I, da far pensare di nuovo (cfr. ^Par.~,
+XV, 130-132 n.) o che il cronista segu@i le orme del poeta, o che
+tutt'e due attinsero a una fonte comune.  Il cronista le
+distribuisce secondo i quartieri, e aggiunge od omette qualche
+nome, qualche particolare.  Cfr. IV, 11, 12, 13: <Nel quartiere
+della porta di San Brancazio... gli |Ughi~ furono antichissimi, i
+quali edificarono santa Maria Ughi, e tutto il poggio di Montughi
+fu loro, e oggi sono spenti, i |Catellini~ furono antichissimi e
+oggi non n'@e ricordo...  Nel quartiere della porta santa Maria... 
+|Filippi~, che oggi sono niente, allora erano grandi e possenti,
+abitavano in Mercato nuovo, e simile i |Greci~, che fu loro tutto
+il borgo de' Greci, oggi sono finiti e spenti, salvo che n'ha in
+Bologna il loro legnaggio; |Ormanni~, che abitavano ov'@e oggi il
+palagio del Popolo, e chiamansi oggi Foraboschi...  Nel quartiere
+di porta San Piero erano... gli |Alberighi~, che fu loro la
+chiesa di Santa Maria Alberighi da casa i Donati, e oggi non n'@e
+nullo>.  -- |Gi@a nel calare~: decadevano sin da quando viveva
+Cacciaguida e li vedeva |illustri~; cfr. ^Par.~, XV, 111.
+
+	|91-93.~  <Nel quartiere della porta Santa Maria...
+intorno a Mercato nuovo erano grandi i |Bostichi~ e quelli |della
+Sannella.~  -- Nel quartiere della porta di san Brancazio... 
+|Soldanieri~ (cfr. ^Inf.~, XXXII, 121); molto antichi furono
+quelli |dell'Arca~, e oggi sono spenti.  Nel quartiere di porta
+San Piero...  |Ardinghi~, che abitavano in Orto San Michele,
+erano molto antichi>.  ^Villani~, IV, 13, 12.
+
+	|94-99.~  <I Ravignani furono molto grandi, e abitavano
+in sulla |porta~ san Piero, che furono poi le case de' conti
+Guidi e poi de' Cerchi, e di loro, per donna, nacquero tutti i
+conti Guidi... della figliuola del buono messere |Bellincione~
+Berti: a' nostri d@i @e venuto meno tutto quello legnaggio>.  Ivi,
+11.  -- |Al presente @e carca~ ecc.  Cfr. ^Par.~, VIII, 80-81. 
+Allude, come si vede dal ^Villani~, ai Cerchi, i quali avevano
+comperato il palazzo de' conti (cfr. v. 64) nel 1280.  -- |Nuova
+fellonia~: nuova perch@e i Cerchi abitavano quel palazzo, e
+l'avevano <murato e cresciuto> da soli venti anni, ed erano
+<uomini di basso stato, genti venute di piccolo tempo in grande
+stato e podere>.  ^Compagni~, I, 20, ^Villani~, VIII, 39. 
+|Fellonia~, non credo che significhi qui tradimento o ribellione;
+ma perfidia, malvagit@a.  -- |Tosto fia~ ecc.  Cfr. ^Inf.~, VI,
+64-66 n.  |Giattura~: iattura, danno grave; il |peso~ della
+perfidia mander@a a picco |la barca~, roviner@a la casa de' Cerchi. 
+Cfr. ^Par.~, VIII, 79-81.  -- |Il conte Guido~: cos@i in uno de'
+sonetti di Dante contro Forese, cfr. ^Purg.~, XXIII, 85-87 n.  --
+|E qualunque~ ecc.  Con ^la buona Gualdrada~, |l'alto
+Bellincione~ ebbe altre due figlie, maritate l'una nei Donati,
+l'altra negli Adimari (cfr. vv. 118-120).  Ci restano notizie di
+un Bellincione di Ubertino Donati e di un Bellincione Adimari.
+
+	|100-102.~  <In porte del Duomo... eranvi quelli |della
+Pressa~, che stavano tra' chiavaiuoli, gentili uomini...  Nel
+quartiere di porta San Piero i |Caligari~... erano molto
+antichi>.  ^Villani~, IV, 10, 11.  |Sapeva~ ecc.  Era gi@a stato
+al reggimento, al governo della citt@a.  -- |Aveva dorata gi@a
+l'elsa e il pome~ della spada (cfr. ^Purg.~, XXVII, 45), aveva
+gi@a de' cavalieri in |casa sua.~
+
+	|103.~  <Nel quartiere della porta di san Brancazio... 
+Pigli, gentili uomini e grandi in quelli tempi>, che avevano per
+insegna una |colonna~, ossia una striscia bianca perpendicolare. 
+^Villani~, 13.  |Del vaio~: cfr. v. 110.
+
+	|104-105.~  <Nel quartiere di porta san Piero... simile
+(erano molti antichi) i |Giuochi~, che oggi sono popolani, che
+abitavano da santa Margherita...  Nel quartiere della porta santa
+Maria... i |Fifanti~ detti Begolesi abitavano in sul canto di
+porte sante Marie, e' |Galli~>.  -- <In porte del Duomo... furono
+i |Barucci~, che stavano da S. Maria Maggiore, che oggi sono
+venuti meno>.  ^Villani~, 11, 13, 10.  -- |E quei~ ecc.  I
+Chiaramontesi, del quartiere di porta san Pietro, <molto
+antichi>.  |Arrossan per lo staio~, da che uno de' loro per
+frodare, trasse dallo |staio~ una doga; cfr. ^Purg.~, XII, 105 n. 
+<Onde poi i discendenti suoi, essendo loro ricordato, arrossono
+et vergognonsi; et fessi di ci@o in lor vergogna una canzoncella,
+che dicea: Egli @e tratta una doga dal sale Et gli uffici son
+tutti salviati ecc.>.  ^Commento~ dell'^Anon. fiorentino.~
+
+	|106-108.~  <Nel quartiere di porta san Piero...
+abitavano i Donati ovvero |Calfucci~, che tutti furono uno
+legnaggio, ma i |Calfucci~ vennero meno>.  Nel quartiere di porta
+del Duomo <erano ancora |Arrigucci e Sizzi~>.  ^Villani~ 11, 10. 
+-- |Lo ceppo~: cos@i ^Salimbene~: <Tutti questi sono discesi da un
+ceppo, ossia da una radice>.  -- |Alle curule~: alle pi@u alte
+cariche.  In Roma antica sedevano alla sedia |curule~ i consoli,
+i pretori ecc.
+
+	|109-111.  O quali~!  In quale grandezza.  -- |Quei~ ecc. 
+Gli Uberti <nati e venuto il loro antico dalla Magna, che
+abitavano ov'@e oggi la piazza de' Priori e 'l palagio del
+popolo>.  ^Villani~, 13; cfr. ^Inf.~, X, 51; XXIII, 108 n. 
+|Quali~ fossero nel sec. XII, si pu@o vedere nella cronaca
+attribuita a ^B. Latini~: <Nel 1177... si cominci@o in Firenze
+gran discordia e guerra intra' Consoli di Firenze e la casa degli
+Uberti; e bast@o, la guerra 22 mesi, ch@e li Uberti non ubidivano
+consolato n@e signoria...  Poi nel 1180 gli Uberti ebbero
+l'autorit@a, e fu consolo e rettore della citt@a di Firenze messer
+Uberto degli Uberti...  E questo fu per forza>.  -- |Le palle
+dell'oro~ erano insegna de' Lamberti, uno dei quali fu compagno
+di Uberto nel consolato del 1180.  <Nel quartiere della porta di
+san Brancazio erano grandissimi e potenti la casa de' Lamberti,
+nati per loro antichi della Magna>.  ^Villani~, 12.  |Dell'oro~:
+cfr. v. 103; ^Nov. ant.~, CXLVII: <Vi trov@o entro i dieci tornesi
+dell'oro>.  -- |Fiorian~ ecc.  Alta lode, espressa con molto
+calore: al tempo di Cacciaguida, i maggiori cittadini ponevano la
+loro gloria nella grandezza della citt@a, non mettevano le loro
+stesse mani a <disfiorare> |Fiorenza~; cfr. ^Purg.~, VII, 105 n. 
+Il v. riceve gli accenti su tutte le sillabe pari, e anche
+|gran~, alla nona sillaba, suona con forza.
+
+	|112-114.  Facean~ come i Lamberti anche gli antenati di
+|coloro~ ecc.  I Visdomini (Vice-domini) e Tosinghi, erano
+<padroni e difenditori del vescovado>; ^Villani~, 10.  Quando era
+<vacante la sedia>, si dovevano <ragunare insieme di presente
+nella sala del vescovado, e quivi aver la tenuta e possessione...
+e tutte cose, o masserizie o beni... guardare e salvare, a ci@o
+non fossero rubate da altre persone, e tutte scritte o serrate in
+luogo salvo>.  Cos@i un'antica scrittura (^Bullett.~, V, 217),
+dove si legge anche: <E nelle loro spese da mangiare deono essere
+parci senza alcuno trapassare di golosit@a; o, come si dice,
+tenere vita casalinga>.  Invece, Dante afferma che profittavano
+della buona occasione per ingrassare.  -- |A concistoro~: cfr.
+^Purg.~, IX, 24.
+
+	|115-118.~  <Nel quartiere di Porta san Piero... li
+legnaggio degli Adimari, i quali furono stratti di casa i Cosi...
+e santa Maria Nipotecosa feciono eglino, e bene che sieno oggi il
+maggiore legnaggio di quello sesto e di Firenze, non furono per@o,
+in quelli tempi, de' pi@u antichi>.  ^Villani~, 11.  Dalle aspre
+parole dello spirito, che paiono scandite a sillaba a sillaba,
+trapela qualcosa che non @e semplice riprovazione: |oltracotata
+schiatta, s'indraca~!  Prepotente e vile, si comporta a guisa di
+drago |dietro a chi fugge; si placa come agnello~ a chi le
+|mostra il dente~ per resistere, o |la borsa~ per corromperla. 
+Parla l'ira di Dante per bocca di Cacciaguida.  -- |Oltracotata~:
+cfr. ^Inf.~, IX, 93.  Nel giugno del 1304, gli Adimari di parte
+Nera tentarono di appiccare il fuoco alle case de' Cavalcanti, e
+l'appiccarono a quelle de' Macci; ^Compagni~, III, 8.  Ed ecco
+quello, che osarono nell'agosto: <Essendo preso nel palagio del
+comune di Firenze Talano di messer Boccaccio Cavicciuli degli
+Adimari per malificio commesso, onde dovea essere condannato, i
+suoi consorti, tornando la potestade con sua famiglia da casa i
+priori, l'assaliro con arme e fedirono malamente, e di sua
+famiglia furono morti e fediti assai; e detti Cavicciuli
+entrarono in palagio, e per forza ne trassono il detto Talano
+senza contasto niun>.  ^Villani~, VIII, 74.  Degli Adimari era
+Filippo Argenti, <persona orgogliosa>; cfr. ^Inf.~, VIII, 61-63
+n.  -- |Dietro a chi fugge~ ecc.  Ricorda ci@o, che i savi
+dicevano dell'amore, e i poeti, p. e. Folchetto (^Par.~, IX, 94),
+di s@e stessi innamorati: <Vo fuggendo quel, che m'incalza, e, del
+pari, vo seguendo chi mi fugge>.
+
+	|119-120.  Ubertin Donato~, che aveva sposato una
+figliuola dell'alto ^Bellincione~ {v.99}, non ebbe piacere che
+|il suocero~ desse una sorella di lei ad un Adimari; cfr. n. a'
+vv. 98-99.
+
+	|121-123.  Disceso gi@u da Fiesole~: cfr. ^Inf.~, XV, 62. 
+<Nel quartiere di porta San Pietro... abitavano i |Caponsacchi~,
+che furono grandi Fiesolani>.  ^Villani~, 11.  -- |Giuda~ pare
+omesso dal ^Villani~; ma probabilmente cos@i si deve leggere nel
+cap. 13, invece di ^Guidi~, <allora grandi e possenti>, che
+abitavano in Mercato nuovo.  -- |Infangati~: <anch'essi erano
+grandi intorno a Mercato nuovo>, ivi.
+
+	|124-126.  Nel picciol cerchio~: nella ^cerchia antica~,
+^Par.~, XV, 97.  -- |Porta~ ecc.  <Dietro a San Pietro
+Scheraggio, ove sono oggi le case de' figliuoli Petri, furono
+|quelli della Pera~ ovvero Peruzza, e per loro nome la postierla,
+che ivi era, si chiamava porta Peruzza>; ^Villani~, ivi.  Ora,
+perch@e la |cosa~ @e |incredibile~?  Probabilmente perch@e, dopo,
+|quei della Pera~ erano caduti in s@i basso stato, che nessuno
+avrebbe creduto che fossero stati antichi e potenti tanto da dar
+il nome a una porta della citt@a.  Il ^Villani~ avverte: <Alcuno
+dice ch'e' Peruzzi, che sono oggi, furono stratti di quello,
+legnaggio, ma non l'affermo>.
+
+	|127-130.~  Riferisce una delle tradizioni care agli
+antichi Fiorentini.  Al |gran barone~ marchese Ugo di Brandeburgo
+<piacque s@i la stanza di Toscana, spezialmente della citt@a di
+Firenze, ch'egli ci fece venire la moglie, e in Firenze fece suo
+dimoro, siccome vicario d'Otto imperatore>.  Narrano d'una
+visione, ch'egli ebbe, per cui riform@o i suoi costumi e fond@o
+sette badie.  <E mor@i nella citt@a di Firenze il d@i di santo
+|Tommaso~ (1007) e, a grande onore, fu seppellito alla badia di
+Firenze (^Par.~, XV, 97-98 n.).  E vivendo il detto marchese Ugo,
+fece in Firenze molti cavalieri della schiatta de' Giandonati,
+de' Pulci, de' Nerli (^Par.~, XV, 115), de' conti da Gangalandi e
+di quelli della Bella, i quali tutti, per suo amore, ritennero e
+portarono l'arme sua addogata rossa e bianca (sette doghe, cfr.
+^Inf.~, XXXI, 75 n.) con diverse intrassegne>.  ^Villani~, IV, 2. 
+Pi@u oltre (IV, 13) il cronista aggiunge all'elenco i Ciuffagni; a
+cui altri sostituiscuno gli Alepri.  I Giandonati dimoravano nel
+quartiere di porta S. Maria, i della Bella in quello di porta San
+Pietro, i Nerli in Oltrarno.  -- Nella festa di S. |Tommaso~,
+ricorrendo l'anniversario della morte di Ugo i monaci della badia
+fiorentina riconfortavano il suo |nome~ e il suo |pregio~ <con
+solenni orazioni per la sua anima>.  |Riconforta~: cfr. ^Inf.~,
+XIII, 77.  -- |Milizia~: cfr. ^Par.~, XV, 140.  -- |Privilegio~:
+di portar l'insegna, cfr. ^Purg.~, XXVI, 127.
+
+	|131-132.~  Oggi fa causa comune |col popolo colui~, che
+|fascia~, orla la bella |insegna col fregio~, con una specie di
+ricamo; allude a Giano della Bella, che, di magnate fattosi
+nemico ai magnati, essendo priore nel 1293, fece severamente
+eseguire gli Ordinamenti di giustizia, leggi severissime contro i
+grandi.  Giano viveva ancora, in esilio, ne' primi anni del sec.
+XIV.  <Giano nel 1300, quantunque sbandito, doveva esser ancora
+mescolato nelle lotte interne fiorentine; se Giano dopo il 1295
+non si fosse pi@u occupato del partito popolare, Dante non avrebbe
+adoperato il presente (|si rauni~) e tanto meno detto |oggi~ nel
+1300>.  ^Salvemini~, ^Magnati~, ecc. 226.  Anche Dante si era
+^raunato col popolo~ iscrivendosi all'arte degli speziali e, nel
+1296, aveva parlato nel Consiglio de' Cento per sostenere una
+proposta contraria ai magnati; perci@o non mi pare che, in questi
+due versi, egli rivolga a Giano <un vero e proprio rimprovero>,
+come parve al ^Salvemini~; ^Bullett.~, IX, 114.
+
+	|133-135.~  <In |borgo~ santi ^Apostoli~ erano grandi
+|Gualterotti~ ed |Importuni~, che oggi sono popolani>. 
+^Villani~, 13.  |I nuovi vicini~ di queste due casate, la cui
+presenza turb@o il |borgo~, furono i Buondelmonti (cfr. v. 66), i
+quali <prima si puosono Oltrarno e poi tornarono in Borgo>. 
+^Villani~, ivi.  -- |Digiuni~: cfr. ^Inf.~, XXVIII, 7.
+
+	|136-139.~  Il ricordo de' Buondelmonti non si poteva
+disgiungere da quello degli Amidei, <onorevoli e nobili
+cittadini> (^Villani~, V, 38), i quali, |per il giusto disdegno~
+dell'offesa ricevuta da lui, prendendo di lui vendetta, dettero
+origine al |fleto~, al lutto di Firenze; anzi, aggiunge
+Cacciaguida, alla |morte~; alla distruzione della citt@a, alla
+|fine~ del |viver lieto~, che prima vi si godeva -- |Fleto~: lat.
+
+	|140-141.~  Doloroso il ricordo, ma Cacciaguida ne prova
+tanta commozione, che non se ne sa staccare.  E prima si rivolge
+lamentando, rimproverando, allo stesso |Buondelmonte.~  -- |Le
+nozze sue~: della ^casa~ {v.136} degli Amidei.  |Per gli altrui
+conforti~: cfr. ^Inf.~, XXVIII, 135.  Buondelmonte doveva <torre
+per moglie la figliuola di messer Lambertuccio di Capo di ponte,
+delli Amidei, la quale era figliuola della sorore di messer Oddo
+Arrighi.  Fatto il trattato e la concordia, e l'altro giorno
+appresso si dovea fare il matrimonio; e Madonna Gualdrada moglie
+di messer Forese di Donati secretamente mand@o per messer
+Bondelmonte e disse: -- Cavaliere vitiperato, ch'@ai tolto moglie
+per paura dell'Uberti e di Fifanti; lascia quella, ch'@ai presa, e
+prendi questa, e sarai sempre inorato cavaliere.  -- Tantosto
+elli ebbe assentito a questa opera fare, sanza alcuno consiglio. 
+Quando venne l'altro giorno, al mattino per tempo, gioved@i die 10
+di febraio (1215), e la gente dall'una parte e d'altra fue
+raunata, venne messer Bondelmonte e pass@o per Porte Sancte Marie,
+e and@o a giurare la donna di Donati, e quella dell'Amidei lasci@o
+stare, sotto questo vituperio, che 'nteso avete.  Udendo messer
+Odarrighi questa cosa, fu molto cruccioso; e fece uno consiglio,
+nella chiesa di Santa Maria sopra Porta, con tutti li suoi amici
+e parenti, e quivi fortemente si lament@o della vergogna, che li
+era stata fatta per Bondelmonte>.  ^Pseudo-Brunetto.~  -- Per il
+consiglio, che dette allora Mosca Lamberti, cfr. ^Inf.~, XXVIII,
+106-107 n.
+
+	|142-144.~  Cfr. ^Par.~, VIII, 51.  Quello che @e fatto,
+non si pu@o disfare; ma gli afflitti trovano sfogo e sollievo nel
+desiderare che il fatto non fosse accaduto, e nell'imaginare come
+avrebbe potuto non accadere.  Quanti mali sarebbero stati
+risparmiati a Firenze se la |prima volta~ che Buondelmonte pass@o
+l'|Ema~ per andare alla |citt@a~, vi fosse rimasto dentro
+annegato!  L'|Ema~ passando sotto il Galluzzo (cfr. v. 53) poco
+prima di metter foce nella Greve, taglia la via a chi va da
+Montebuono (cfr. v. 66 n.) a Firenze.
+
+	|145-147.  Ma~ -- purtroppo! -- era necessario che, a
+quel mozzicone della statua di Marte, del Dio della guerra, che
+sta sul ponte Vecchio, Firenze immolasse una |vittima~ nel punto
+che cess@o la sua |pace.~  <La mattina di Pasqua di Risoresio
+(Resurrezione), appi@e di Marzo (Mars, Marte), in capo del ponte
+Vecchio, messer Bondelmonte, cavalcando a palafreno in giubba di
+sendado e in mantello, con una ghirlanda in testa, messer
+Ischiatta delli Uberti li corse addosso e dielli d'una mazza in
+sulla testa e miselo a terra del cavallo, e tantosto messer
+Oddarighi con un coltello li seg@o le vene, e lasciorlo morto.  E
+questa posta fu fatta in casa gli Amidei.  Allora lo romore fue
+grande; e fue messo in una bara, e la moglie istava nella bara, e
+tenea il capo in grembo fortemente piangendo; e per tutta Firenze
+in questo modo il portarono>.  ^Pseudo-Brunetto.~  -- |Pietra
+scema~ ecc.  Cfr. v. 47, ^Inf.~, XIII, 146-147 n.  -- |Postrema~:
+lat., ultima.  Da quel giorno cominci@o la divisione della
+citt@a.
+
+	|148-149.~  La voce batte su |queste.~  |Riposo~: cfr.
+^Par.~, XV, 130.  ^Villani~, VII, 89: <Essendo la citt@a di
+Firenze in felice e buono stato di riposo, e tranquillo e
+pacifico stato>.
+
+	|150.~  Ancora gli passa per la mente il ricordo del
+pianto di Firenze, cfr. v. 136.
+
+	|151-154.~  Ripete, ribatte |con queste genti~, e d@a
+rilievo a |vid'io~, e s'indugia a |glor,ioso.~  -- |E giusto il
+popol suo~: ora non vi sono se non due soli giusti; cfr. ^Inf.~,
+VI, 73, ^Par.~, XXXI, 39.  -- |Il giglio~ ecc.  La bandiera di
+Firenze non era mai stata capovolta per oltraggio.  |Mai~ afferma
+crucciato Cacciaguida, e pensa che tale oltraggio pat@i il
+|giglio~ dopo la battaglia di Montaperti (^Inf.~, X, 84-85), la
+quale non fu solo di Fiorentini contro Senesi, ma di Fiorentini
+guelfi contro Fiorentini ghibellini.  Quando i Senesi vincitori
+giunsero alla loro citt@a, <innanzi a tutti andava uno di quelli
+imbasciatori de' Fiorentini... ed era a cavalcioni in sur uno
+asino, e aveva legate le mani dietro, e volto avea el viso verso
+la coda dell'asino, e trascinava la bandiera e stendardo del
+comune di Firenze per terra>.  ^La sconfitta di Montaperto.~  --
+|Per divis,ion~: lento, malinconico.  -- |Fatto vermiglio~: nel
+1251, <cacciati i caporali de' Ghibellini di Firenze, il popolo e
+gli Guelfi, che dimorarono alla signoria di Firenze, si mutaro
+l'arme del comune... e dove anticamente si portava il campo rosso
+e 'l giglio bianco, si feciono per contradio il campo bianco e 'l
+giglio rosso>.  ^Villani~, VI, 43.

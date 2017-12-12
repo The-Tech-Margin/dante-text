@@ -1,0 +1,9 @@
+Tue Feb 7 20:22:53 EST 1989 01.91-93: "vuolno" is textually
+correct.
+Tue Feb 7 21:00:41 EST 1989 removed old .e files, and renamed .f files to .e. jvs
+Wed Feb 8 15:02:49 EST 1989 preloaded purg. jvs
+Thu Mar 16 15:31:15 EST 1989 ran checknew on all .e files.
+Thu Mar 16 15:31:34 EST 1989 corrected and repreloaded faulty files. jvs
+Tue Dec 19 10:44:38 EST 1989 jvs corrected files listed in fix.me
+Tue Dec 19 10:44:47 EST 1989 jvs preloaded corrected files
+Tue Dec 19 10:44:52 EST 1989 READY FOR LOADING

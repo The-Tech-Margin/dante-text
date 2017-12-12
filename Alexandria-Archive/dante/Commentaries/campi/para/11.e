@@ -1,0 +1,1004 @@
+	|1-3.  O insensata~ ecc.  O insana ed irragionevole
+passione de' mortali, quanto sono erronei i tuoi argomenti, che
+ti trascinano all'affetto delle cose terrene, vane e transitorie.
+BENV.  -- In queste prime quattro terzine compiange il Poeta la
+cecit@a de' mondani ch'erano intesi in terrene faccende,
+mentr'egli godeva delle delizie celesti.  Allegoricamente poi
+vuol insinuare il contento che anche guaggi@u gode un'anima unita
+a Dio, e tutta intesa alla contemplazione delle celesti cose.  ^O
+miseras hominum mentes, et pectora caeca, -- Qualibus in tenebris
+vitae~ etc.  Passo di Lucrezio qui citato dal Venturi.  --
+^Quanto son difettivi~ ecc. quanto sono corte e mancanti le
+ragioni che vi piegan gli animi a questi bassi oggetti.  LOMB.
+-- Ma la parola del testo (dice il Biagioli) dipinge l'andar
+l'uomo cupido qua e l@a vagando d'uno in altro de' falsi beni di
+quaggi@u, non trovando in alcuno quel riposo che sperava; --
+^difettivi~ ecc.  ^Quia non concludunt nisi lucrativam
+intentionem~, chiosa il Postill.  del cod. Glenbervie.  -- Quanto
+deboli sono le ragioni, per le quali v'inducete a volgere in
+basso gli affetti vostri, ad amare le cose mortali!  BIANCHI.  --
+^Sillogismi~, per argomentazioni in genere.  FRATICELLI.  -- ^O
+insensata~ ecc.  ^Nos insensati vitam illorum aestimabamus
+insaniam~ (^Sap.~ v. 4).  Citazione qui posta dal Cavedoni (l.
+c.).  -- Var.  ^Di mortali~, il 29, Benv.; -- ^dei mortali~,
+parecchi, Fer. W.; -- ^differenti i~, il 3; -- ^defectivi i~,
+quattro; -- ^Quanti son defectivi~, quattro; -- ^sologismi~, il
+18; -- ^Que' che ti fanno a terra~, il 21; -- ^a basso~, il 30;
+-- ^Quei che fanti in abisso~, singulare lezione del Bart. difesa
+con enfasi dal Viv.  Ne veggano la Nota i pi@u curiosi, ch@e in
+quanto a me l'avviso falsa lettera; n@e io, n@e altri avendola
+mai veduta ne' mss.; -- ^in basso muover l'ali~, il 18; -- ^quei
+che fanti in abisso~, Bart.
+
+	|4-6.  Chi dietro~ ecc.  Chi corre dietro allo studio
+legale, e Seneca dice di certi giuristi: ^Questi superbi con
+rabbiose inqiurie vendono s@e per altri -- e chi ad aforismi~, e
+chi corre dietro agli aforismi d'Ippocrate.  Questo scrisse un
+libro di sentenze mediche, dette ^aforismi~, che furono poi
+comentati da Galeno; qui ^aforismi~ per tutta l'arte medica; --
+^sequendo sacerdozio~; parecchi ecclesiastici con lo studio del
+^Jus~ canonico vanno in busca di agi terreni, e vivono per
+mangiare, in sentenza di S. Girolamo; -- ^E chi regnar per
+forza~, i tiranni che abusano del potere con violenze; -- ^o per
+sofismi~, o per subdole argomentazioni di bella e seducente
+apparenza, introdotti anche nella scienza teologica, da potersi
+sclamare con S. Bernardo: ^Voi, sacerdoti, faceste Dio favola del
+mondo~!  Fin qui Benvenuto.  -- ^Jura~, plurale di ^jure~, e qui
+per ^diritto civile, criminale e canonico; -- seguendo
+sacerdozio~, intendi con fine mondano di ottenere ricchezze ed
+onori.  LOMB.  -- ^Sacerdozio~, forse dal latino ^sacerdotium~,
+che significa anche ^Benefizio ecclesiastico.~  POGGIALI.  --
+L'^Aforismo~ @e definito da Galeno: ^Grandis sententia brevi
+oratione comprehensa; -- sequendo sacerdozio~, facendosi preti
+per calcolo, con la veduta di far fortuna nella Chiesa; -- ^per
+sofismi~, per mentiti diritti, cavillose ragioni.  -- ^Sofisma~,
+dicesi un argomento falso in se stesso con faccia di verit@a.
+BIANCHI.  -- Var.  ^A jure, chi ad anforismi~, molti; --
+^amphorismi~, dieci; -- ^aphorismi~, molti; -- ^a giura~, otto,
+Fer. Pogg.; -- ^ad jura~, il 21; -- ^a giuri~, il 24; -- ^Sen
+g$ia~, il 3; -- ^Se giva~, il 9; -- ^Segu$ia~, 21. 37; -- ^Sen
+va~, il 24; -- ^Sen giva~, le prime quattro edizioni; -- ^dreto a
+jura sen gira~, Benv.; -- ^sacerdotio~, parecchi; -- ^sequendo~,
+il 24; -- ^o per sofismi~, quasi tutti, le prime sei ediz. (ma i
+pi@u ^sophismi~).
+
+	|7-9.  E chi rubare~, ecc.  I mercenarj soldati, gli
+stipendiati che vanno, quasi belve feroci, per lo mondo, e si
+pascono di sangue e di stragi, siccome sogliono i combattenti
+mercenarj, al dire di Lucano; -- ^e chi civil negozio~, i
+mercadanti precipuamente che si fan ricchi con s@ubiti guadagni,
+e perdono poi l'anima; -- ^Chi nel diletto~ ecc., chi s'abbandona
+e s'immerge nelle volutt@a di ogni maniera; -- ^e chi si dava
+all'ozio~, al non far nulla, de' quali oziosi gi@a disse
+nell'Inferno: ^Non ragionar di lor, ma quarda e passa~, perch@e
+furono morti vivendo: ^Questi sciaurati che mai non fur vivi.~
+Fin qui Benvenuto.  -- Sar@a bene che del secondo periodo di sei
+versi si ammiri l'andare tumultuoso e ratto, l'irregolarit@a, e
+certa ordinata confusione, con che procede dal principio al fine,
+a far ritratto vero di quello che si rappresenta.  Arte de'sommi
+maestri, che a noi basti pur di ammirare.  BIAGIOLI.  -- ^E chi
+rubare~ ecc.  <Molti sono li modi del rubare; quelli sono
+maggiori rubatori, che con pi@u forte braccio rubano.  Tutti li
+tiranni sono in questo numero> (L'ANONIMO); -- ^civil negozio~,
+spiega lo stesso Spositore, ^quel negozio~, o ^cittadinesca
+operazione che @e in baratto nelli Offizj del Comune.~  Il
+Poggiali intende ^Amministrazioni mal eseguite.  -- Ad Timot.~
+II. 4: ^Implicat se negotiis saecularibus.~  Citazione del
+Fraticelli.  -- Var.  ^E chi in civil~, 33. 42.  Pad. 1859; -- ^e
+chi a vil~, il 37; -- ^E chi a rubare, e chi a~, il 43; -- ^e chi
+navil~, il 53; -- ^dilecto de la carne~, (I.); -- ^S'affatica~,
+il 24; -- ^donava all'ozio -- a l'ozio~, Ferranti, (I.).
+
+	|10-12.  Quand'io~ ecc.  Quand'io, libero da ogni umana
+sollicitudine, mi trovava accolto con tanta gloria nel cielo in
+compagn$ia di Beatrice.  E Aristotile dice appunto: Se @avvi
+felicit@a sulla Terra, trovasi soltanto nella meditazione.  Il
+perch@e un mio amico, Pietro da Ravenna, sosteneva: L'umana
+felicit@a potersi rinvenire solo ne' chiostri e nelle scuole.
+BENVENUTO.  -- ^Sciolto~, libero da ogni cura terrena; -- ^m'
+era~, mi stava; -- ^accolto~, ricevuto.  LOMBARDI.  -- Varianti.
+^Quand'io~, parecchi, Bart. e i pi@u, Foscolo, Nid.; -- ^Quando
+da~, parecchi; -- ^di tutte~, il 3; -- ^istolto~, il 43, il quale
+ha in marg. al. ^isciolto; -- su in cielo~, parecchi, Ferranti.
+
+	|13-15.  Poi che ciascuno~ ecc.  Poi che ciascuno di
+quegli spiriti beati torn@o al punto della circonferenza dal
+quale erasi partito, si ferm@o qual candela nel candeliere.
+BENVENUTO.  -- ^Fu tornato~, per ^si fu restituito.~  LOMB.  --
+Varianti.  ^Ciascun fu ritornato~, l'8; -- ^di ciascuno fui~, il
+12; -- ^ciascun fo ritornato~, il 42; -- ^Punto nel cerchio~, il
+43; -- ^in che prima era~, il 3; -- ^Dove avanti~, l'8; -- ^in
+chi avanti s' era~, (N.); -- ^Ferm@arsi come~, otto, Bart. e
+Benv.; -- ^Fermossi, come~, cinque, Cr.; -- ^Formossi~, 4. 18; --
+^Fermo, s@i come~, quattro, le prime sei ediz., ponendo punto e
+virgola dopo ^candelo~, cod. Vill. di 2+a~ mano, Scarab. con
+altri testi autorevoli.  L'una e l'altra lettera pu@o stare.  A
+torto disse il Lomb. la vulgata ^piena di confusione~; a torto
+disse il Biagioli che la Nid. renda ^irregolare il costrutto.~
+Tutto considerato, non trovo ragione per iscostarmi dalla
+vulgata; -- ^Fermi, s@i~, Berl.; -- ^Ferm@o, s@i~, parecchi e
+Fer.; -- ^Ferm@arsi~, Bart., Roscoe.
+
+	|16-18.  Ed io senti~' ecc.  Quand'ecco sent$ii in quella
+luce dove prima mi aveva parlato, facendosi pi@u micante, e
+sorridendo dirmi ecc., intende accenare l'anima di S. Tommaso.
+BENV.  -- ^Ed~ vale quanto ^Ed ecco~, dichiara il Biagioli; --
+^incominciar sorridendo~, dar principio al parlare con un
+sorriso.  Questo sorriso appartiene a vellicare la persuasione di
+Dante che que' beati non conoscessero i suoi pensieri.  LOMB.  --
+Ma i vv. 19 al 21, e 80 e seg. del IX di questa Cantica
+(ottimamente osserva il Biagioli) bastano a mostrar chiaro
+l'errore del Lombardi.  Quindi con pi@u sana sposizione dice: che
+quel sorridere e farsi pi@u risplendente procedeva da novello
+impulso di carit@a, la cui vampa di fuori spandesi col diletto di
+contentar gli altri desiderj di Dante.  V. c. VIII, v. 46 e seg.,
+e c. IX, v. 14 e seg. di questa Cantica.  -- Var.  ^Dentro quella
+lumera~, tredici; -- ^E i' senti' dietro~, il 24; --^Io sent$ii,
+e lumera~, il 33; -- ^lumera~, i pi@u, Bart. Rosc., le prime
+quattro ediz.  Benv. ecc.; -- ^E io sent$ii~, Fer.; -- ^avea
+parlato~, il 15; -- ^facendosi primera~, il 6.
+
+	|19-21.  Cos@i com'io~ ecc., a quel modo che io risplendo
+del raggio della divina luce, cos@i, riguardando in essa,
+apprendo la ragione de' tuoi pensieri, oss$ia, da qual cagione
+procedano i tuoi pensieri.  BENV.  -- ^A quel modo ch'io mi
+accendo del raggio dell'eterna luce, veggo per mezzo di essa~,
+onde cagioni, ^lo stesso che, onde in te si cagionino, si
+eccitino~, i tuoi pensieri, ^i tuoi dubbj.~  LOMB.  -- Il
+Vellutello leggendo ^onde cagione~, pens@o il veronese Tomaselli
+che si dovesse leggere ^ond'@e cagione~, che migliora il
+contesto.  Fu approvata e proposta dal Perazzini, spiegando:
+^Sicut ego aeternam lucem intuens, ejusdem rad$io simul accendor,
+ita cogitationum tuarum causam dum intueror, ipsas tuas
+cogitationes comprehendo~; e conclude che ^cagionare~ non pu@o
+trarsi al senso voluto dagli Spositori.  Considera.  Il Bianchi,
+il Fraticelli e lo Scarabelli stanno per la vulgata ^onde
+cagioni~; il primo spiega ^il subjetto de' tuoi pensamenti~, o
+^donde trai cagione a' tuoi dubbj~; e il secondo: ^donde derivi,
+donde fai procedere i tuoi pensieri.~  Aggiunge poi: <Luce
+eterna~, S. Agostino, ^Conf.~ IV: ^Quei che mirano nella luce
+eterna risplenderanno a modo di Sole.~  I beati vedono in Dio,
+come in uno specchio, tutto che si opera nel mondo>.  --
+Varianti.  ^Risplendo~, pi@u di trenta de' m. s., pi@u di
+altrettanti veduti dagli Accademici, tutti i testi del Varchi, le
+prime sei ediz., i codici Bart. Benv. Vat. Stuard.  But. cit. dal
+Bernardoni, Rosc. Vat. Fosc. W. Fer. Scarab. con molt'altri testi
+per lui veduti, e l'ho restituita al testo; -- ^resplendo~, 5.
+34; -- ^rispiendo~, quattro; -- ^razzo risplendo~, 8. 11; --
+^risprendo~, 15. 33; -- ^lume risplendo~, 42, 53; -- ^nel suo
+raggio~, il 4; -- ^ne la luce eterna~, parecchi; -- ^Li tuoi~,
+molti; -- ^ond'@e cagione~, ventitr@e de' m. s., le prime sei
+ediz., Torelli, Tomaselli, Perazzini; ed io l'ho accettata,
+parendomi che d$ia senso pi@u naturale, pi@u chiaro; -- ^onde
+ragione apprendo; -- ond' io cagione~, sette; -- ^und' @e
+cagione~, il 43; -- ^caggion onde apprendo~, Pad. 1859; -- ^onde
+c$aggion~, Fer., lezioni che ignoriamo donde sian prese; -- ^onde
+cagioni~, Crusca e i pi@u.
+
+	|22-24.  Tu dubbii,~ ecc.  Tu dubiti, e vuoi che si torni
+a dichiarare in lingua s@i aperta e larga che si adatti al tuo
+sentire ed al tuo intendimento il mio discorso.  BENV.  -- Tu
+dubiti e brami ben intendere le mie proposizioni: ^U' ben
+s'impingua~ ecc., e ^non surse il secondo; -- si ricerna~, si
+rischiari; -- ^si sterna~, si appiani, si adatti; -- al tuo
+sentire~, al tuo intendimento.  Il primo dubbio sar@a rischiarato
+in questo canto dal v. 122 sino all'ultimo; ed il secondo nel c.
+XIII, dal v. 34 al 111.  LOMB.  -- ^Ricernere~, dicesi del
+^ripassare la farina allo staccio~; qui figuratamente per
+^tornare a dichiarare pi@u pianamente.~  BIANCHI.  --
+^Ricernere~, dal lat. ^cernere~, vale propriamente ^vagliare di
+nuovo.~  Nel XXVI+o~ dir@a, v. 22 e seg.: ^certo a pi@u angusto
+vaglio -- Ti conviene schiarar -- si sterna~, ivi, 37: ^Tal vero
+a l'intelletto mio sterne -- Colui~ ecc.  FRATICELLI.  -- Var.
+^Che si discerna~, nove, (F.).  (I.).  (N.).  (V.).  W.; --
+^ch'el si ricerna~, tre, Benv.; -- ^che s$i ricerna~, Scarab. con
+altri testi, e disapprova la lettera preferita dal W., dicendo
+che ^discernere~ non ha il valore di ^cernere~ e di ^ricernere~,
+soli verbi che possono star qui per ^dichiarare, spiegare; --
+dicerna~, il 28, (M.); -- ^Tu dici~, il 15; -- ^ed al voler cos@i
+ricerna~, il 43, con in m. la vulg.; -- ^Tu dubi~, (M.).  (I.);
+-- ^dubbi~, (F.).  (N.); -- ^e in s@i distesa~, sette, W. Benv.;
+-- ^distinta~, 8, 43; -- ^aperta, in s@i~, il 14; -- ^e s@i
+distesa~, (F.); -- ^sentir si scerna~, nove, Nid.; -- ^che il tuo
+sentir discerna~, il 6; ^si sterna~, il 7, con la chiosa: ^idest,
+preparetur et ostendatur tuae cogitationi; -- ch'al tuo voler si
+scerna~, 26. 52; -- ^voler si sterna~, il 36; -- ^voler
+s'interna~, il 43; -- ^Tu dubbii~, Rosc. Bart.; -- ^discerna~,
+ventuno degli Accademici.
+
+	|25-27.  Ove dinanzi~ ecc.  Dove gi@a dissi ^U' ben
+s'impingua~, e poi, ^non nacque il secondo~; e qui @e necessaria
+una buona e chiara distinzione per toglierti di mente ogni
+dubbiezza.  BENV.  -- ^@E uopo che ben si distingua~, intendi, in
+qual genere di persone siasi detto Salomone impareggiabile.  Vedi
+il XIII+o~ di questa Cantica.  LOMB.  -- Var.  ^Dove dinanzi~,
+venticinque, Rosc. (M.).  (V.).  Nid. Benv.  (F.).  (I.).  (N.);
+-- ^un ben~, sei, (F.).  (I.).  (N.).  (V.); -- ^o' ben~, 24. 41;
+-- ^E l@a ove dianzi~, il 24; -- ^non nacque~, pi@u di trenta de'
+m. s., le prime sei ediz., l'Aldina, tre dei testi citati dal W.
+Benv.; -- ^E l@a 've dissi~, tre; -- ^E l@a o' dissi~, il 41; --
+^Ed @e huopo~, il 37; -- ^nacque il secondo~, Aldina, Roscoe.
+
+	|28-30.  La Provvidenza~ ecc.  San Tommaso col mezzo
+d'una digressione sulla vita di San Francesco d'Assisi, procede
+alla soluzione del primo dubbio di Dante, dicendo: La Provvidenza
+divina che governa il mondo ^con quel consiglio~, con quella
+sapienza che vince ogni umano intelletto, dalla quale ogni umano
+intelletto rimane vinto ed ogni vista abbagliata prima che
+giungano a penetrarne le profonde ragioni ecc.  BENV.  -- ^Ogni
+aspetto -- Creato @e vinto~, ogni creata vista si abbaglia, si
+confonde.  LOMB.  -- ^Aspetto~, dal sust. latino ^aspectus~, che
+significa anche ^vista~, il ^vedere.~  POGGIALI.  -- ^Pr$ia che
+vada al fondo~, prima che giunga a penetrare nelle ascoste,
+impenetrabili sue cagioni.  VENTURI.  -- ^La Provvidenza.~  Nella
+^Somma~ @e detto: ^Providentia gubernat mundum.~  -- V. il XIX+o~
+di questa Cantica, v. 58-63.  FRATICELLI.  -- Var.  ^Provedenza~,
+cinque, e le prime quattro ediz.; -- ^il mondo~, molti, Fer. W.
+Benv.  ecc.; -- ^col qual ogni~, tre; -- ^conseglio~, (F.).
+(N.); -- ^@e giunto pr$ia~, il 3; -- ^pr@ia ch' el vada~, il 21;
+-- ^che vad' al fondo~, (F.).  (I.); -- che dav' al fondo~,
+alcuni.
+
+	|31-33.  Per@o che andasse~ ecc.  Acciocch@e la Chiesa si
+apressasse al diletto suo sposo e gli fosse pi@u fedele, avendola
+disposata col suo sangue benedetto ecc.  BENV.  -- ^Perocch@e~,
+per ^acciocch@e~, fu usato da Dante anche nelle sue ^Rime~,
+siccome fu notato dal Torelli: ^E per@o che 'l mio dir util vi
+f@ia -- Discender@o del tutto in parte~ ecc.  E per l'opposito
+nella ^Vita Nuova~ us@o ^acciocch@e~, per ^perocch@e~; ma il
+citato filologo non ne rec@o l'esempio.  Nel ^Convito~ per@o sta
+scritto: <Onde ^acci@o che~ la scienza @e ultima perfezione della
+nostra anima, tutti naturalmente al suo desiderio siamo
+soggetti>.  (^Tratt.~ I. cap. 1).  -- ^E nelle ^Nov. ant.~ num.
+75 si legge: <Le balie de' fanciulli dicono, quando elli
+piangono: ecco il Re Ricciardo; ^acci@o che~ come la morte fu
+temuto>.  -- ^La sposa di colui~, la Chiesa, sposa di Ges@u
+Cristo; -- ^ad alte grida~, allude al ^clamans voce magna~ di G.
+C. sulla croce; -- ^Dispos@o lei~ ecc.  San Paolo ^acquisivit
+Ecclesiam sanguine suo~ (^Act.~ 20).  -- ^Cum clamore magno et
+lacrimis offerens (preces, supplicationesque) exauditus est pro
+sua reverentia~ (^ad Hebr.~ V.  7).  CAVEDONI (l. c.).  -- Var.
+^Per@o ch'anda s@i ver el suo~, il 6; -- ^verso il suo~, il 4; --
+^in ver lo suo~, l'8; -- ^dilecto~, (I.); -- ^Per@o ch'andasse~,
+le pr. quattro ediz., Fer.; -- ^ad alto grida~, il 6; --
+^Dispons@o lei~, 3. 29; -- ^Dispuos@o~, Benv.; -- ^La dispos@o
+col~, 25. 31; -- ^con sangue~, il 6; -- ^ed anco~, Roscoe.
+
+	|34-36.  In s@e sicura~ ecc.  Ordin@o due principi, San
+Francesco e San Domenico, a guida della Chiesa, a renderla pi@u
+sicura in s@e stessa ed a lui pi@u fedele.  BENV.  -- ^Due
+principi~, due capi, due conduttori.  LOMB.  -- Varianti.  ^Ed
+acc,i@o che fusse~, il 3; -- ^anco in lui pi@u fida~, dieci,
+(V.).  Nid. But. cit. dal Bernardoni; -- ^secura ed anco~, 21.
+41, le prime quattro ediz., W.; -- ^ed anco in lei~, il 35; --
+^anco a lei~, il 43; -- ^Dai principi~, tre, Benv.; -- ^Due~, i
+pi@u, le prime quattro ediz., Fer. W. ecc.; -- ^anco ordin@o~, il
+35; -- ^che in suo favore~, 42. 53; -- ^prencipi~, alcuni, (M.);
+-- ^lei fosse~, il 24; -- ^li fosser~, il 52, (M.); -- ^E quinci
+e quindi~, il 53.
+
+	|37-39.  L'un fu tutto~ ecc.  San Francesco partecip@o
+della carit@a de' Serafini; -- ^e l'altro~, San Domenico, si
+mostr@o nel mondo sfavillante della luce dei cherubini, oss$ia
+eccellente in sapienza.  BENV.  -- ^Serafico~, aggiunto che si
+d@a a San Francesco d'Assisi, fondatore de'Frati Minori.  VOLPI.
+-- ^L'altro~, San Domenico, fondatore dell'Ordine de'
+Predicatori.  LOMB.  -- ^Di cherubica~, cio@e de' Cherubini,
+ordine d'Angeli, nel quale riluce la divina sapienza.  VOLPI.  --
+Il Postill. del cod. Glenbervie dichiara: ^Seraphini ardentes in
+amore Dei, Cherubini excellentes in sapientia.~  -- Ecco le
+virt@u fondamentali della Chiesa: la Carit@a e la Dottrina.
+BIANCHI.  -- Nella ^Somma~: <Cherubiono @e interpretato ^pienezza
+di scienza~, e Serafino interpretasi ^ardente~ o ^accendente~>.
+FRATICELLI.  -- Var.  ^L'un fu detto Serafico in amore~, stampe
+citate dal Bernardoni; -- ^seraphico~, (F.).  (N.); -- ^L'un fu
+tutto Serafin con ardore~, Benv.; -- ^in amore~, Ald.; --
+^sap,ienza~, le prime quattro ediz., Fer.; -- ^uno spiendore~, 3.
+41; -- ^mio splendore~, quattro, Benv.; -- ^cherubica~, tre,
+(F.).  (I.).  (N.).
+
+	|40-42.  De l'un dir@o~, ecc., cio@e di San Francesco,
+imperocch@e non si pu@o a meno di non lodare ambidue, lodandone
+un solo, qualunque dei due si prenda, perch@e le opere d'entrambi
+furono intese ad uno stesso fine.  BENV.  -- Perch@e ambidue
+operarono al fine medesimo di sostenere e di guidare la Chiesa.
+LOMBARDI.  -- Var.  ^Ambedue~, sette, (M.).  (I.).  Fer. Benv.;
+-- ^ambodue~, il 25; -- ^d'ambo e due~, il W.; -- ^d'amendue~,
+(F.).  Cr.; -- ^d'anbendue~, (N.); -- ^d'ambidue~, i pi@u
+auterevoli; -- ^per@o che~, Fer.; -- ^presiando qual ch'om~, tre;
+-- ^qual comprende~, storpio di molti della precedente; -- ^qual
+hom~, tre; -- ^fier~, il 47; -- ^fuor~, il 43; -- ^Per che ad~,
+le prime quattro edizioni, ecc.
+
+	|43-45.  Intra Tupino~ ecc.  La citt@a d'Assisi @e sita
+nella valle di Spoleto, tra due fiumi: il Chiusi che viene da
+Gubbio, e il Topino che viene da Nocera.  -- ^Fertile costa~
+ecc., sopra d'Assissi, che @e posta su la china d'un monte; --
+^dal beato Ubaldo.~  Sant'Ubaldo stette molto tempo eremita in
+detto monte, finch@e venne eletto vescovo di Gubbio, di cui
+divenne poi il protettore.  BENV.  -- Il Venturi dice ^Chiussi~
+il fiumicello che Benvenuto chiama ^Chiusi~; e dice il monte sul
+quale si ritir@o sant'Ubaldo, nel territorio di Agobbio.  --
+Varianti.  ^Intra Cupino~, 7. 14; e recano entrambi questa
+chiosa: ^idest Cupinus, qui venit a Nuceria~, e dicesi chiosa di
+Benvenuto, il quale nel suo testo legge ^Turpino~, come l'8; --
+^Fertile monte d'alta costa pende~, vuol che si legga il Torelli,
+chiosando: <^monte d'alta costa~, vuol dire ^monte ratto.~  Gli
+Accad. della Crusca leggono ^Fertile costa d'alto monte~, con
+dire: ^che la parte dee dipendere dal tutto.~  Non so se
+dirittamente, perch@e ^costa~ qui non @e ^parte~, ma ^tutto.~
+Infatti Dante poco sotto: ^Di quella costa l@a dov'ella frange --
+Pi@u sua rattezza.~  Ecco qui ^costa~ per ^monte~>.  @E lettera
+del Buti, da niun altro seguitata, n@e io l'ho mai trovata ne'
+mss., e vuolsi stare con la comune.  -- ^Da colle~, il 4; -- ^Del
+collo~, sette; -- ^Dal colle~, 6. 26.  Nid. Bart.; -- ^Del colle
+el tetto del~, il 14; -- ^dal beato~, tre, (M.); -- ^del beato,
+(F.).  (I.).  (N.); -- ^Dal collo~, 52. 53; -- ^d'alto monte
+prende~, il 42; -- ^Fertile monte d'alta costa~, Aldina.
+
+	|46-48.  Onde Perugina~ ecc.  Dalla quale fertile costa
+Perugia sente freddo e caldo.  ^Da porta Sole~, dalla Porta
+orientale.  Perugia @e nobile ed antica citt@a, una volta
+capitale della Toscana, secondo Livio.  -- ^Nocera con Gualdo~,
+due terre, e specialmente la prima, le piange a tergo per gelo ed
+altri disagj.  Altri ritengono che quei di Nocera piangano il
+grave giogo dei Perugini; ci@o fu vero un tempo, ma ora la prima
+interpretazione @e pi@u vera.  BENV.  -- ^Porta Sole~, cos@i
+chiamavasi la Porta di Perugia che apre la strada ad Assisi.
+VENTURI.  -- ^Sente freddo~, nel tempo delle nevi; ^e caldo~,
+nella state per lo riverbero de'raggi solari.  -- ^Per greve
+giogo.~  Il Daniello spiega: che Nocera e Gualdo al tempo di
+Dante erano oppresse dai Perugini con gravissime imposizioni, e
+perci@o piangenti la propria sciagura.  Il Postill. Cass. ci
+offre una sposizione che conforta la preferita da Benvenuto:
+<^Dicta~ costa ^dextra frugifera est, et sinistra sterilis
+propter grave giugum dicti montis oppositum directe septemtrioni,
+in qua~ costa ^sinistra sunt Nucerium et Gualdum, plorantes
+metaforice loquendo, quia ita sunt positae in tam sterili loco et
+frigido, non in fertili, ut est alia~ costa, ^istius montis~>.
+Il Biagioli derise questa chiosa ch' @e pur quella di Benvenuto e
+del Vellutello, e di Pietro di Dante.  Il Fraticelli ed il
+Bianchi accennano l'una e l'altra interpretazione; ma propendono
+all'intendimento che Dante alludesse alle vessazioni dell'avaro
+governo del Re Roberto, interpretazione ^che ha pi@u spirito~, in
+sentenza del Bianchi.  Sar@a vero, ma qui trattasi d'una
+descrizione geografica e di clima, e propendo alla sposizione di
+Benvenuto.  -- La E. B. ammette l'una e l'altra spozione.
+L'Anonimo chiosa: ^Nocera e Gualdo sono due citt@a sottoposte a
+Re Ruberto, e per la sua supposizione dice che per grave giogo
+piangono.~ Presa in questo senso, sarebbe un'altra fiera botta
+data a Re Roberto, nemico implacabile dei Ghibellini.  -- Var.
+^Perusia~, cinque; -- ^Perusa~, quattro; -- ^Perusia~,
+Bartoliniano; -- ^Perusa~, Roscoe; -- ^Perusgia~, 35. 43; --
+^Unde~, 37. 43; -- ^Perugia~, i pi@u; -- ^Da porta a Sole~, l'8;
+-- ^e diretro~, il 12.  W. e le prime cinque ediz.; -- ^Sole
+dietro~, il 24, Roscoe; -- ^li piunge~, il 43; -- ^piagne~, il
+52; -- ^Per grave~, venticinque, le prime sei edizioni, W. ecc.;
+-- ^Nucera~, sei; -- ^gioco~, sei, Roscoe; -- ^e Nocera~, il 24;
+-- ^Nociera~, (M.).
+
+	|49-51.  Di quella~ ecc.  Dalla costa di Assisi, nel
+luogo dov'essa pi@u che altrove piega e rende pi@u dolce la sua
+ripidezza, nacque un Sole, un gran lume di cristiana perfezione,
+come il Sole mondiale, quando sorge pi@u caldo agli abitanti del
+Gange nell'Indie orientali.  BENV.  -- E qui seguita un magnifico
+inno epico in lode di san Francesco.  BIANCHI.  -- ^Di quella
+costa~, la particella ^Di~ per la ^In~, in su la falda di quel
+monte, l@a dove pi@u sminuisce la sua ripidezza; -- ^un Sole~, un
+gran luminare di virt@u, san Francesco.  -- ^Come fa questo~,
+ecc., come il nostro Sole in estate nasce pi@u caldo e pi@u
+risplendente dal Gange.  LOMB.  -- <Nel solstizio estivo, in cui
+il Sole passa sopra la foce del Gange, ed a noi suol essere pi@u
+luminoso, pi@u lucente il suo nascimento>.  Chiosa del Salvi
+riferita dal Torelli.  Cos@i in un'antica sua ^Vita~ S. Francesco
+@e comparato al Sole oriente; -- ^frange, Purg.~ XII, v. 103 e
+seg.: ^Si rompe del montar l'ardita foga -- Per le scal$ee~ ecc.
+FRATICELLI.  -- Var.  ^Di questa costa~, ventitr@e, le prime sei
+ediz., W. Benv.  Roscoe.  Stiasi con la vulgata; -- ^dove la
+frange~, tre; -- ^fragne~, il 52; -- ^Per sua ratteza~, il 33; --
+^ractezza~, (F.).  (N.); -- ^di Gagne~, il 52.
+
+	|52-54.  Per@o chi d'esso~ ecc.  Per@o chi parla di tale
+citt@a non dica Ascesi, ch@e sarebbe poco, per rispetto al pregio
+di essa.  Altri leggono ^torto~, e spiegano ^malamente.~  Ma
+dovrebbe chiamarla pi@u propriamente oriente.  BENV.  -- ^Ascesi~
+a vece di ^Assisi~, scrissero gli antichi; -- ^ma oriente.~  Il
+Venturi dice questo ^un concetto di tre quattrini~, ed @e
+contraddetto dal Lombardi, il quale cita un passo della ^Vita di
+S. Francesco~, scritta da S.  Bonaventura, nel quale appropria al
+santo Patriarca quelle parole dell'Apocalisse: ^Vidi Alterum
+Angelum ascendentem ab ortu Solis, habentem signum Dei vivi~ (nel
+^Prol.~)  -- Il Com. della Nid., il Vellutello e il Daniello
+dicono che S. Tommaso scrisse la Vita di S. Francesco, e lo
+confusero con Fra Tommaso Celano Minorita, il primo che scrivesse
+la Vita del santo Patriarca, per ordine di Gregorio IX, la quale
+fu poi compendiata da Fra Bernardo da Bessa, incominciando
+appunto: ^Quasi Sol oriens~, siccome afferma il Vaddingo ^Annal.
+Min.~ -- Varianti.  ^Ch@e direbbe torto~, sei, e Scarab.; -- i
+pi@u: ^ch@e direbbe corto; -- Asise~, il 41; -- ^Asciesi~, 29.
+36; -- ^assisi~, il 32; -- ^direbbe a corto~, il 42; -- ^non dica
+Scesi~, il 43; -- ^Ascesi~, le prime quattro ediz.; -- ^ch@e
+dritto torto~, il 52; -- ^se certo dir vuole~, l'8; -- ^se propio
+dir vole~, le prime quattro edizioni, ecc.; -- ^Assesi~,
+Bartoliniano.
+
+	|55-57.  Non era ancor~ ecc.  Non era ancora molto tempo
+passato dal suo nascimento, ch' egli cominci@o a far sentire
+alcun conforto alla terra con le su virt@u.  Fin da fanciullo si
+mostr@o esemplarmente virtuoso.  BENV.  -- Non era ancora molto
+cresciuto in et@a, che la terra manifest@o alcun conforto
+ricevuto dalla grande virt@u di lui.  Cos@i il Lombardi leggendo
+con la Ven. 1568 e la Nid.  ^Che cominci@o a far sentir~ ecc.  Il
+Biagioli disse che questa lezione ^quasta troppo il testo ed il
+sentimento~, e vuole che si rispetti la vulgata ^Ch' ei
+cominci@o.~  La Nid. muta il costrutto, ma non lo guasta, e fu
+seguitata dalla E. B. e dal Fer. I moderni seguitano la Cr., n@e
+io veggo ragione per iscostarmene.  L'una e l'altra lettera pu@o
+stare.  -- Var.  ^Non er' ancor~, (F.).  (I.).  (N.); -- ^da
+l'orto~, parecchi e le prime quattro ediz.; -- ^Ch' el
+cominci@o~, ventisei almeno de' m. s., le prime sei ediz., Bart.,
+e la credo originale; -- ^sentire alla terra~, il 21; -- ^Che
+cominci@o~, Benv. Lomb., e non @e vero che cos@i legga la Nid.,
+ma sibbene: ^Ch' el cominci@o~, Nid. Bart. Roscoe; -- ^virt@u~,
+otto; -- ^De la sua~, molti, (I.).  Benvenuto.
+
+	|58-60.  Ch@e per tal donna~ ecc.  Ch@e per affetto alla
+povert@a incorse nell'ira del padre suo, alla quale povert@a
+nessuno apre la porta del piacere, anzi la fugge abborrendola al
+pari della morte, ovvero: la povert@a che nessuno accoglie con
+piacere, anzi per fuggirla taluno arriva sino a darsi la morte.
+BENV.  -- ^Per tal donna~, per l'evangelica povert@a, V. v. 74;
+-- ^in guerra -- Del padre corse~, tmesi, invece di dire:
+^incorse guerra del padre.~  In altri termini: incontr@o guai dal
+suo genitore, quando questi lo batt@e ed incarcer@o pel getto che
+avea fatto del denaro, come si legge nella sua ^Vita.~  LOMBARDI.
+-- ^A cui come alla morte~ ecc., la quale povert@a tutti fuggono
+come la morte ed odiano.  Venturi.  -- Var.  ^Giovanetto~,
+cinque, (M.).  (I.).  (V.); -- ^giovenotto~, (F.).  (N.); -- ^E
+per tal donna~, il 41; -- ^Del patre~, il 3; -- ^come a la~, 12.
+17.  Fer. Benv.; -- ^Dal padre~, (M.); -- ^cui~, (I.); -- ^a
+cui~, i pi@u, e tanto dicasi ^Del padre.~
+
+	|61-63.  E dinanzi~ ecc.  E la prese per moglie in
+presenza del padre e dinanzi al foro ecclesiastico rinunzi@o ad
+ogni avere terreno, unendosi alla povert@a; poi le crebbe amore
+di giorno in giorno, tanto che mai non la abbandon@o, e di lei
+non si dimentic@o neppure dopo morte.  BENV.  -- ^Et coram patre~
+intendi il proprio genitore, non gi@a il padre spirituale, il
+vescovo d'Assisi, siccome con altri inavvedutamente spose il
+Venturi, il quale per mala giunta critica il ^coram patre~ col
+dirle ^voci dozzinali latine; -- sua spirital corte~ intendi la
+^curia vescovile d'Assisi.~  LOMB.  -- ^Le si fece unito~, vale
+pi@u che ^un@i~, perch@e dice il volere e l'affetto.  FRATICELLI.
+-- ^Var.  ^Spiritual~, otto, (M.); -- ^spirtual~, il 41; -- ^Ed
+innanzi~, W.; -- ^E dinanzi~, le prime quattro ediz., Fer.; -- ^a
+la sua~, i pi@u antichi, (I.).  Fer.; -- ^E contra padre~, il 24;
+-- ^s@i si fece~, (V.); -- ^li si fece~, (F.).  (N.).  err.; --
+^di d@i in die~, 14. 22; -- ^Indi di d@i in d@i~, 33. 42; -- ^di
+die in die~, il 36; -- ^Poscia in d@i in d@i~, il 41.
+
+	|64-66.  Questa, privata~ ecc.  Questa povert@a, rimasa
+vedova del suo primo marito G. Cristo, rimase abbandonata e
+spregiata per millecento e pi@u anni ^fino a costui~, sino a S.
+Francesco.  E non pertanto erano stati molti santi Padri ed
+eremiti, che l'amarono, come S. Benedetto, S. Macario, S.
+Bernardo, S. Damiano ed altri; ma non mai tanto spontaneamente ed
+ardentemente come lui.  BENV.  -- ^Fino a costui~ ecc., fino a S.
+Francesco, che la rispos@o al principio del secolo decimoterzo.
+LOMB.  -- San Francesco nacque nel 1182, e mor@i alli 4 di
+ottobre del 1226.  BIANCHI.  -- Varianti.  ^Dal primo marito~, il
+7; -- ^Mille cent'anni~, tredici, (M.); -- ^e iscura~, il 37; --
+^e oscura~, il 38; -- ^si fece senza invito~, 3. 37; -- ^senza~ e
+^sanza~, variamente.
+
+	|67-69.  N@e valse il dir~ ecc.  La povert@a rende l'uomo
+intrepido contro i colpi della fortuna.  -- ^N@e valse~ ecc.  Non
+valse aver udito raccontare che colui, il quale fece paura a
+tutto il nostro mondo, Giulio Cesare, trovasse la povert@a sicura
+con Amiclate pescatore, allora che, battendo alla porta della
+capanna di lui, lo chiam@o ad alta voce.  BENV.  -- ^N@e valse
+udir~ ecc.  Congiungi cos@i: ^sicura al suono della sua voce.~
+TORELLI.  -- N@e giov@o a fare che gli uomini l'abbracciassero,
+udire che la povert@a rendesse sicuro Amiclate, il povero
+pescatore, talmente che in mezzo alle scorrer$ie degli eserciti
+di Cesare e di Pompeo, se ne dormisse egli tranquillamente nella
+sua capanna, n@e punto sbigottisse sentendo al mal sicuro uscio
+battere e chiamarsi da colui che fe' paura a tutto il mondo.
+Vedi Lucano nel V+o~ della ^Farsaglia~, v. 528 e seg., ove fa che
+Cesare, in lode della povert@a, esclami: ^O vitae tuta facultas
+-- Pauperis angustique lares!  o munera nondum -- Intellecta
+Deum~ etc.  -- Dante nel ^Convito~: <e per@o dice il Savio: Se
+voto camminatore entrasse nel cammino, dinanzi a'ladroni
+canterebbe.  E ci@o vuole dire Lucano nel quinto libro, quando
+commenda la povert@a di sicuranza, dicendo: o sicura facult@a
+della povera vita!  o stretti abitacoli e masserizie!  o non
+ancora intese ricchezze delli Dei!  A quali tempi e a quali muri
+poteo questo avvenire, cio@e non temere con alcuno tumulto,
+bussando la mano di Cesare?  E quello dice Lucano, quando ritrae
+come Cesare di notte alla casetta del pescatore Amiclas venne per
+passare il mare Adriano>.  -- L'Anonimo poi con eleganti parole
+dichiara a questo luogo: -- Cesare solo, lasciata l'oste sua, se
+ne venne al mare per andare per Antonio; e qui, piacendogli solo
+la fortuna per compagno, trov@o una navicella legata alla riva
+del mare, il rettore e signore della quale una casa non molto di
+lungi teneva, non guernita con alcuna forza, ma con sterile
+giunco e canne di padule tessuta.  Cesare due volte e tre
+commosse con la mano l'uscio dimenante il tetto.  Amiclas si
+lev@o dal morbido letto, il quale li dava l'aliga, e li disse:
+qual pericolante viene a casa mia?  o cui costrinse la fortuna di
+sperare ajuto dalla mia casetta?  E avendo cos@i detto a Cesare,
+col focile il lume accese.  Egli, sicuro della guerra, sa che la
+sua casa non dee essere preda delle cittadine battaglie.....  La
+porta aperta, Cesare disse: O giovine, aspetta maggiori cose che
+li tuoi temperati desiderj, e sciampia le tue speranze, se tu,
+seguitando i miei comandamenti, mi porti in Italia ecc.  --
+Voleva Cesare che Amiclate lo traghettasse da Durazzo in Italia
+su la sua barca.  -- Var.  ^N@e valse dir~, tre, Nid.; -- ^N@e
+valse a dir~, il 35; -- ^secura~, il 14; -- ^Come Amiclate~, il
+10; -- ^Ammiclate~, (F.).  (I.).  (N.); -- ^boce~, 27. 52.  (M.).
+Bart.; -- ^il mondo~, i pi@u, Fer. Witte; -- ^tucto 'l mondo~,
+(F.).  (N.); -- ^Costui~, Roscoe, erronea.
+
+	|70-72.  N@e valse esser~ ecc.  N@e valse alla povert@a,
+per rendersi accetta agli uomini, l'essere stata costante e
+coraggiosa sino a salire sulla croce con G. C., che vi mor@i
+ignudo, mentre Mar$ia si rimase a pie' della stessa.  BENV.  --
+^Feroce~, per ^coraggioso~, V. il Voc.; -- ^salse~, per ^sale.~
+LOMB.  -- Insomma, tutti i pregj che noverare si possono della
+povert@a, come dire che fa gli uomini sicuri, costanti,
+imperterriti ne' pericoli, spregiatori della morte ecc., non
+valsero, n@e valgono a renderla amabile.  BIANCHI.  -- Varianti.
+^Non valse~, Rosc.; -- ^constante~, il 37; -- ^pianse in su la
+croce~, pi@u di trentaquattro de' m. s., trentasei veduti dagli
+Accad., le prime sei ediz., Bart. Glemb. il Caet. W. e Benv.  Il
+Viv. trov@o questa lettera perfettamente conforme al senso
+scritturale.  Cristo, dic'egli, pianse su la croce.  S. Agostino
+scrisse: ^Accessit ad illas omnes passiones, quae in illo nihil
+valerent, et nisi esset homo~ (^in Psal.~ 65, v. 7).  Pianse
+della sua povert@a quando disse per bocca del profeta:
+^diviserunt sibi vestimenta mea, et super vestem meam miserunt
+sortem~ (MATT. cap. 27); e pianse amaramente con forte grido la
+perdita di tutte le cose, quando ^clamavit Jesus voce magna: Eli,
+eli, lammasabactani?  Hoc est, Deus meus, Deus meus, ut quid
+dereliquisti me~?  (^Ibid.~)  Fin qui il Viv. contro la sentenza
+dell'editore De Romanis, che disse questo ^pianse~ <non solo
+impoverisce, ma adultera l'idea>.  Il filologo Udinese chiude la
+sua Nota col dire: <Non @e per@o ch'io disapprovi la lezione
+^salse~, la quale fa bella antitesi coll'altro sentimento:
+^Mar$ia rimase giuso~>.  -- I codici pi@u antichi leggono
+^pianse; -- pianse~, Bart. Caet. Rosc. e trentasei degli
+Accademici, e penso che Dante cos@i scrivesse di prima mano, poi
+immutasse felicemente in ^salse~, che d@a concetto pi@u vivo,
+pi@u peregrino.
+
+	|73-75.  Ma perch'io~ ecc.  Ma per non parlare
+tropp'oscuro, apprendi dal mio pi@u aperto discorso, che
+Francesco e Povert@a furono i due amanti.  Francesco libero da
+ogni cupidigia, ^franco~ da cui deriva; e Povert@a, da ^parvo~,
+poco, che figura sobriet@a, temperanza, libert@a.  BENV.  --
+^Diffuso~, per ^lungo, esteso~, come in fatto @e stato sin qui
+nel circonscriverne questi due ^amanti.~  LOMB.  -- Accennati
+nella mia lunga circonlocuzione.  BIANCHI.  -- Var.  ^Proceda
+troppo suso~, il 24; -- ^Hor~, il 30; -- ^tanto chiuso~, (F.).
+(N.).  Nid.; -- ^Francisco~, il 7; -- ^di questi amanti~,
+quattro, Roscoe; -- ^Prenda oramai~, (M.); -- ^del mio parlar~,
+il 43.
+
+	|76-78.  La lor concordia~ ecc.  Il viver loro concorde,
+il loro contento che traspariva dai loro aspetti, la carit@a
+meravigliosa e la dolce contemplazione loro dava occasione agli
+altri di pensare soltanto alle cose del cielo.  BENV.  -- Parla
+di S. Francesco e della Povert@a come di due novelli sposi.  --
+^Facean esser cagion~ ecc., davano altrui motivo di fare sante
+risoluzioni.  LOMB.  -- Il Costa non sapendo (com'ei diceva) trar
+senso dalla vulgata, che pur @e comune a tutti i testi mss. e
+stampati, ^Amore e maraviglia~, proponeva di leggere ^Amore a
+maraviglia~, cio@e Amore sino alla maraviglia, come sotto si dice
+^dispetto a maraviglia.~  Convengo che tal lezione sarebbe pi@u
+facile; ma come ho protestato sin da principio, io sento gran
+ripugnanza all'arbitrio.  BIANCHI.  -- Il Fraticelli, meno
+scrupoloso, seguit@o il Costa, e dichiar@o: ^amore maraviglioso.~
+-- Var.  ^Fieri sembianti~, il 4; -- ^e lor lieti~, undici, (M.);
+-- ^ed i lieti~, 12. 20; -- ^Di pensier~, diecisette, Bart. (F.).
+(I.).  (N.); -- ^Faci$eno esser~, tre, (M.).  (V.); -- ^sancti~,
+(F.).  (N.); -- ^Facien~, Roscoe.
+
+	|79-81.  Tanto che~ ecc.  Bernardo di Quintavalle fu il
+primo seguace di San Francesco, e corse dietro alla povert@a che
+procaccia all'anima tanta pace; e correndole dietro gli parve
+tardar troppo a seguitarla.  BENV.  -- ^Si scalz@o~, ad esempio
+di San Francesco, che voleva imitati gli Apostoli anche nel
+particolare di andare scalzi.  In san Luca (XXII, 35) si legge
+che Ges@u Cristo mandasse pel mondo gli Apostoli ed altri suoi
+discepoli ^sine sacculo et pera et calceamentis; -- gli parv'
+esser tardo~, pel gran desiderio che aveva di giugnere al bramato
+fine.  LOMBARDI.  -- Var.  ^Che il venerabile~, molti, Fer. W.
+ecc.; -- ^Iscalz@o~, ^il 4; -- ^Discalz@o pr$ia~, il 24; -- ^Si
+scalci@o~, il 37, Bart.; -- ^Se scalci@o~, il 41; -- ^gli
+apparve~, il 37; -- ^li parbe~, il 43; -- ^li parve~, le pr.
+quattro ediz., Benvenuto ed altri.
+
+	|82-84.  O ignota~ ecc.  O ricchezza ignorata, o bene il
+pi@u vero!  Egidio e Silvestro furono due altri de' primi seguaci
+di S. Francesco.  Silvestro spense la guerra civile in Assisi.
+-- ^Dietro allo sposo~, dietro l'esempio di S. Francesco, tanto
+lor piacque la povert@a volontaria.  BENV.  -- ^Piace~, per
+^piaceva~, enallage di tempo.  LOMB.  -- Var.  ^O ben ferace~,
+ventotto almeno de' m.  s., (M.).  (I.).  (V.).  Caet. Glenb. De
+Rom. Viv. Ambr. (47), quattro Marc. Triv. Rosc., venturono de'
+mss. veduti dagli Accad. W. Fer.  e Benv. che chiosa: ^i. bonum
+fertile et multiplex.~  Il De Romanis nella sua prima edizione
+accett@o questa lezione, dicendo che ^ferace~ allude benissimo ai
+frutti che ne carpirono i primi seguaci di San Francesco, e sta
+bene.  Il Biagioli disse ^barbara~ questa lezione.  Il Viviani la
+difese, citando, oltre la sentenza del De Romanis, la massima
+evangelica: ^Beati pauperes, quoniam ipsorum est regnum
+caelorum~ (MATHH. cap. V); e concludendo: <Qual bene pi@u
+^ferace~ (fecondo) di quello che frutta il regno de' cieli?>  --
+Tengo questa lettera per originale; credo ^verace~ l'opera d'un
+menante che non intese il concetto dell'Allighieri.  -- Varianti.
+^Egidio, scalzasi~, dieci W.; -- ^Scalciasi~, il 41, Benv. Bart.
+Rosc. (bis); -- ^Scalciossi Egidio, Scalciossi~, tre; --
+^scalzossi~, il 21; -- ^Scalzasti~, 32.  42; -- ^Scalzasi Egano~,
+il 40; -- ^la sponsa~, il 3; -- ^s' alla sposa~, il 35.
+
+	|85-87.  Indi sen va~ ecc.  Indi S. Francesco, gran padre
+di famiglia e maestro de' suoi seguaci, a' quali insegn@o la
+povert@a, l'umilt@a, la continenza, l'obbedienza e la pazienza,
+va con la sposa sua, che lo seguita ovunque, e coi suoi
+cordiglieri ecc.  BENV.  -- ^Sen va~, intendi a Roma da Innocenzo
+III papa, come in appresso far@a capire; -- ^l'umile capestro~,
+il sacro cordone; ^espressione poco obbligante~, borbott@o il
+Venturi, ignorando (dice il Lombardi) che quel santo Patriarca
+per umilt@a appellava ^asino~ il corpo suo, e come tale volevalo
+trattato.  Vedine la Vita scritta da S. Bonaventura, cap. 5.  --
+L'aggiunto ^umile~ (dice il Biagioli) basta per s@e a rimovere da
+questa voce l'idea che comunemente porta seco, oltre che, non il
+vocabolo, ma s@i la cosa, porta seco onore o bassezza.  --
+Varianti.  ^Colla sua sposa~, 33. 42; -- ^Con la sua sposa~, il
+53; -- ^e con la sua famiglia~, quattro; -- ^Che gi@a ligava~,
+14. 41.  Rosc.; -- ^l'ultimo capestro~, l'8, erronea.
+
+	|88-90.  N@e li grav@o~ ecc.  N@e per essere figlio di
+Pietro Bernardone, uomo ignobile, fu esso vile di cuore che gli
+facesse tenere la fronte bassa, e lo rendesse timido e
+spregievole a segno di recare meraviglia.  BENV.  -- Accenna la
+timidezza che d'ordinario, per l'educazione, hanno gli uomini di
+vile condizione nel trattare coi grandi; -- ^fi~' per ^figlio~,
+V. il Voc.  LOMBARDI.  -- Il Lami cita esempj di ^Fi~ per
+^figlio~, usato in parole composte: ^Firidolfi, Fighineldi,
+Figiovanni~ ecc.  Guido Cavalcanti nella Canzone alla Fortuna,
+scrisse: ^Ebbe a combatter co' fi' della Terra.~  -- Il Fontanini
+la disse voce pretta Friulana.  Fatto sta che gli antichi Toscani
+usarono ^ca~' per ^casa, co~' per ^capo, sie~' per ^siede, cre~'
+per ^credi, me~' per ^meglio~ ecc.  -- Il Parenti credette che
+qui Dante non iscrivesse ^fi~', ma ^figlio di Pier~, siccome sta
+nell'antico Estense e nel cod. Florio, variante accettata dal
+Foscolo e viva nel ms. Rosc.  -- Il Viviani non consente che
+s'abbia a scrivere ^fi~', ma sibbene ^fi~, senza apostrofo, qual
+voce intera friulana, e l'amore patrio lo trasse ad una lunga
+Nota che qui non giova il riferire.  Benv. conforta la lettera
+preferita dal Parenti; la confortano undici de' m. s., e la
+restituisco al testo, avvisando ^fi~ un idiotismo.  Il n+o~ 3,
+ch'io credo copia d'un sincrono, legge ^Per esser figliuol di
+Pier~; -- Var.  ^Per esser fil~, tre; -- ^Berardone~, il 17, dal
+Postill. detto ricco cittadino d'Assisi; -- ^di Petro~, parecchi;
+-- ^Bernadone~, il 24; -- ^dispeto a meraviglia~, spregevole a
+segno da recar meraviglia.  LOMBARDI.  -- ^Grav@o le ciglia,
+Purg.~ XXX, v. 78: ^Tanta vergogna mi grav@o la fronte.~
+Domenico in quella vece era nobile.  FRATICELLI.
+
+	|91-93.  Ma regalmente~ ecc.  Ma con nobile franchezza
+aperse il suo intendimento ad Innocenzo III, di sottoporsi cio@e
+alla tanto rigida regola, e da lui ne ottenne il Breve; --
+^regalmente~, con generosit@a ed animo da Re.  VENTURI.  -- ^Dura
+intenzione~, arduo proposito; -- ^Primo sigillo~, tanto accadde
+nel 1214, al dire di Pietro di Dante, E. F.; -- ^religione~, per
+^Ordine religioso~, ricorre nella ^Somma.~  FRATICELLI.  -- Var.
+^Realmente~, il 3; -- ^Da Innocenzio prese~, il 15; -- ^Ad
+Innocenzo~, il 28; -- ^Ad Innocentio~, (F.).  (I.).  (N.); --
+^sugillo~, l'8; -- ^sugello~, 9; -- ^sigillo~, le prime quattro
+ediz., Cruzca ecc.
+
+	|94-96.  Poi che la gente~ ecc.  Ebbe S. Francesco dodici
+seguaci, ad imitazione di G. C., tutti santi, fuor d'uno, che
+abbandon@o l'Ordine per ammogliarsi, e fin@i per appiccarsi per
+la gola.  BENV.  -- ^Si canterebbe~, accenna il costume de' Frati
+Minori di cantare in coro la Vita di S. Francesco.  V. Vaddingo,
+^Annal. Min.~ an. 1244, n+o~ XIII; e sbaglia di largo il
+Daniello, dicendo che al tempo del Poeta, S. Francesco non era
+ancora canonizzato.  Lo era stato sin dal 1228, e Dante nacque
+nel 1265; -- ^la cui mirabil vita~ ecc., intende dire che i Frati
+la cantassero senza intendere il pregio sublime delle serafiche
+virt@u di lui, che sarebbero meglio intese e cantate dai Serafini
+in cielo.  LOMBARDI.  -- Sarebbe pi@u degna d'essere cantata
+dagli angeli e dai santi.  BIANCHI.  -- Varianti.  ^In glor,ia
+del ciel~, tre.
+
+	|97-99.  Di seconda corona~ ecc.  La santa determinazione
+di questo pastore, S. Francesco.  -- ^Archimandrita~, voce greca,
+composta da ^Archos~, principe, e ^Mandros~, greggia; -- ^fu
+redimita~, fu onorata di seconda confermazione dal papa Onorio,
+ispirato dallo Spirito Santo, che concesse ai Frati Minori il
+privilegio di ministrare i Sacramenti, e di poter aspirare a
+dignit@a ecclesiastiche.  BENV.  -- ^Redimita di seconda corona~,
+decorata di nuova e pi@u ampia approvazione da papa Onorio III.
+-- Al Biagioli parve questa frase male spiegata da tutti, e che
+non significhi ^fu redimita dall'eterno spirito per mezzo di
+Onorio~, ma sibbene: ^fu redimita per Onorio spirato dall'eterno
+Spiro.~  Il Costa si attenne alla comune sposizione; Benv.
+francheggia quella del Biagioli, seguitata pure dal Fraticelli.
+L'una e l'altra in sostanza rende il concetto del Poeta.  -- Dice
+la leggenda che questa confermazione fu fatta nel 1223, in
+conseguenza di un sogno di Onorio che gli pales@o i futuri
+destini dell'Ordine dei Minori; -- ^archimandrita.~  Nel suo
+libro ^De Monarchia~ cos@i chiama S.  Pietro.  E si conviene
+all'idea di ^greggia~, cos@i frequente nella legge vecchia e
+nella nuova.  FRATICELLI.  -- Var.  ^Redemita~, tre, (M.).  (I.).
+Bart.; -- ^dell' eterno~, il 24, (I.); -- ^da l' eterno~, (F.).
+(N.); -- ^da lo eterno, -- e Honorio~, le prime quattro edizioni.
+
+	|100-102.  E poi che, per la sete~ ecc.  Instituito
+l'Ordine, ed ottenuta la conferma della Regola, S. Francesco
+pass@o i mari a predicarvi il cristianesimo, desideroso della
+palma del martirio.  BENV.  -- ^Presenza superba~, per ^maestosa~
+o ^terribile.  -- Soldano~, cos@i appellavasi il principe
+dell'Egitto, avanti il quale predic@o S. Francesco.  --
+^Predic@o~ ecc.  Predic@o Cristo e gli Apostoli che lo
+seguitarono, oppure: Egli e li Frati suoi che lo accompagnarono.
+VENTURI.  -- Var.  ^Ma poi~, il 4; -- ^di Soldan~, l'11; -- ^che
+segu$iro~, (N.); -- ^e li altri~, molti, (F.).  (N.); -- ^che il
+seguiro~, parecchi, Fer. Witte.
+
+	|103-105.  E per trovare~ ecc.  La sua predicazione non
+giovando alla conversione degl'infedeli, per non perdere indarno
+il tempo, tornossene a predicare in Italia.  BENVENUTO.  --
+^Acerba~, per ^indisposta, dura; -- Reddissi~, ritornossi, ^al
+frutto~ ecc., a coltivare, a trar frutto, ^dall'Italic' erba~,
+metaforicamente per l'^Italica gente.~  LOMB.  -- Var.  ^E per
+tornare~, il Rosc. Considera.  -- ^Gente, per non stare~, sedici
+de' m. s., (M.).  (N.).  (V.).  Nid. W., sicch@e ho anch'io
+soppressa la copulativa; -- ^Tornossi~, tre degli Acc.  e alcune
+edizioni, Buti.
+
+	|106-108.  Nel crudo sasso~, ecc., intendi, nel monte
+della Verna, che divide la Romagna dalla Toscana tra Cesena ed
+Arezzo, e da cui nascono il Tevere e l'Arno, da Cristo prese le
+stimate, che furono l'ultima conferma del suo Ordine, e ch' egli
+port@o visibili per due anni, ecc.  BENV.  -- ^Nel crudo sasso~
+ecc., nell'aspro monte dell'Alverna, vicino a Chiusi nel
+Casentino.  LOMB.  -- ^L'ultimo sigillo~, quello che vi mancava
+per assomigliarsi del tutto a Ges@u Cristo, e portarne in s@e
+ricopiata una viva immagine.  VENTURI.  -- ^Du' anni~, essendo
+morto due anni dopo ricevute le sacre stimate.  LOMB.  -- Mor@i
+S. Francesco alli 4 di ottobre del 1226.  FRATICELLI.  -- Var.
+^Tra Tevere~, il 3; -- ^entro Tevero~, il 4; -- ^intra Tevero~,
+nove, (F.).  (I.).  (N.).  W. Bart. Rosc.; -- ^tra Tevero~, tre,
+(M.).  (V.).  Nid.; -- ^Tiver~, il 14; -- ^Tevaro~, il 41; --
+^infra~, il 43; -- ^sugillo~, l'8; -- ^duo anni~, il 6; -- ^dui
+anni~, quattro; -- ^due anni~, 18. 43.  (M.).  (I.).  Nid. (V.);
+-- ^du' anni~, (F.).  (N.).  Cr.; -- ^Di Cristo~, due testi degli
+Accademici.
+
+	|109-111.  Quando a Colui~ ecc.  Quando a Dio, che
+l'aveva predestinato al sommo bene, piacque di chiamarlo nella
+sua gloria al premio meritato con le sue evangeliche virt@u.
+BENV.  -- ^Pusillo~, povero ed umile.  LOMB.  -- <Gli umili sono
+cari a Dio> (^San Marc.~, IX. 41); -- <Ma i pusilli non sono i
+pusillanimi> (^S. Luca~, XII.  32).  FRATICELLI.  -- Var.  ^Su a
+la mercede~, sei, Fer.; -- ^suso a la~, (M.).  (I.).  Benv. ecc.;
+-- ^Ch' el merit@o~, pi@u di trenta de' m. s., le pr. sei ediz.,
+Viv., pi@u di altri trenta accennati dallo Scarab.  Il Lombardi
+ragionevolmente considera che prima d'^acquistare~ bisogna
+^meritare~, e tutte queste autorit@a mi inducono ad escludere la
+vulgata ^Ch' egli acquist@o; -- nel suo farsi~, i pi@u; -- ^col
+suo farsi~, parecchi; -- ^Ch' e' merit@o col~, parecchi; -- ^Che
+merit@o~, Benv. But. Stuard. ecc.; -- ^Del merito nel suo~, il
+31; -- ^Ch' el milit@o~, il 38; -- ^Ch' el merit@o~, Bart. Rosc.
+Nid. Pogg.; -- ^Ch' egli acquist@o~, Crusca e seguaci.
+
+	|112-114.  A' frati suoi~, ecc.  Ed a' suoi Frati, quai
+legittimi suoi eredi, raccomand@o ^la sua donna~, la Povert@a, e
+comand@o che le fossero fedeli ed amorosi.  BENVENUTO.  --
+^Erede~, plur. di ^ereda~, non gi@a per necessit@a di rima, come
+spiega il Volpi; -- ^a fede~, per ^con fede.~  LOMBARDI.  --
+^Amare a fede~ @e modo pi@u elegante che ^amare con fede~, in
+sentenza del Biagioli.  -- @E un modo di favellare antico.  Oltre
+all'esempio delle ^Nov. ant.~ accennato nel Voc., il Notaro da
+Lentino disse: ^Qual pi@u ti serve a fe~'.  E altrove: ^V'amo a
+buon cuore.~  E. F.; -- ^a fede~, per ^fedelmente~, dal latino
+^ad fidem~, cio@e ^secondo fede.~  BIANCHI.  -- Var.  ^A giusti
+herede~, undici, (F.).  (N.).  (I.).  Nid. Fer.; -- ^a justo
+erede~, il 6, -- ^a giusto~, il 30, Pad. 1859; -- ^siccome giuste
+rede~, 33. 53; -- ^siccome giusto~, il 37; -- ^a justi erede~, il
+43; -- ^Ricomand@o~, il 52; -- ^la donna sua~, Bart. Rosc.
+ventisette de' m. s., le prime sei ediz.; -- ^E accomand@o~, il
+21; -- ^amasser con fede~, il 6, (N.).  Ald.; -- ^l'amassono a
+fede~, tre.
+
+	|115-117.  E del suo grembo~ ecc. .... ^l'anima
+preclara~, l'anima illustre di S. Francesco am@o uscire dal corpo
+per tornarsi al suo celeste regno, e non volle onori sepolcrali.
+Interrogato in qual luogo amasse essere sepolto, rispose: ^nel
+Carnajo~, cimitero dei giustiziati, luogo fuori d'Assisi, dove
+poi fu eretto un magnifico tempio a cui accorrono in folla i suoi
+devoti.  BENV.  -- ^Dal suo grembo~, dal grembo della povert@a,
+spiega il Lombardi, ed @e contraddetto dal Biagioli, che intende
+^dal suo corpo~, come intesero il Vellutello e il Daniello.  --
+Il Bianchi ed il Fraticelli stanno col Lomb. chiosando: <Intendi:
+del grembo di essa povert@a; avendo voluto morire su un vile
+giaciglio>; -- ^l'anima preclara~ si mosse per tornare ^al suo
+regno~, al cielo, d'ond' era discesa in terra.  ^Eccl.~, XII. 7,
+^Spiritus redeat ad Deum, qi dedit illum.~  FRATICELLI col LOMB.
+-- ^Non volle altra bara.~  Gl'interpreti anteriori al Lomb.
+riferiscono ^altra~ alla ^povert@a~, sposizione che al Lomb.
+parve dura e per la troppa distanza del nome ^povert@a~, e per
+aver dato il Poeta a questa la figura di ^donna.~  Credette
+quindi che ^altra~ qui significhi ^niuna~, siccome in altri passi
+del ^Convito~, e spiega: ^Ed al suo corpo non volle bara nessuna,
+nessuna funerea pompa.~  -- Il Biagioli costru@i: ^Non volle
+altra bara che quella che esibisce la terra ad ogni corpo morto~,
+che @e una fossa; -- ^altra bara~, cio@e lo stesso grembo della
+povert@a accennata sopra; che @e quanto dire: Volle che il suo
+corpo fosse portato alla sepoltura su quella stessa panca o
+misero giaciglio su cui era morto.  S. Francesco, ricopiando in
+se stesso il divino autore della cristiana religione, ed
+improntando dello spirito di G. C. la sua nuova Religione, diede
+uno schiaffo solenne alla vita avara ed ambiziosa dei preti.
+BIANCHI.  -- Non volle altra sepoltura che la terra, o che il
+seno medesimo della povert@a.  FRAT.  -- Varianti.  ^L'anima
+precara~, il 33; -- ^volse~, ventidue, e le prime cinque ediz.;
+-- ^si volse tornare al~, il 21, Bart. Rosc., non buona; --
+^Partir si volle~, tre, Fer. Pad. 1859; -- ^non volse altra~,
+Bartoliniano, Roscoe, non accettabile, venti, (F.).  (M.).  (N.).
+(V.); -- ^alta bara~, il 7; -- ^non pose altra bara~, il 43; --
+^non vole~, il 43.
+
+	|118-120.  Pensa oramai~ ecc.  San Tommaso scioglie i
+dubbj di Dante, poich@e terminando la Vita di S. Francesco, cos@i
+aggiunge: Pensa oramai quale fu colui che fu degno collega di S.
+Francesco nell'ufficio di regolare e mantenere la barca di San
+Pietro in alto mare per dritto segno, e preservare la Chiesa
+dalle tempeste di questo mondo procelloso, dirigendola alla
+eterna felicit@a.  BENV.  -- Breve vuol dire: Dalla santit@a di
+Francesco argomenta quella del suo collega Domenico.  --
+Varianti.  ^Chi fu colui~, cinque, Bart. Roscoe; -- ^omai~, (F.).
+(N.); -- ^Conlega~, (F.).  (N.); -- ^Di Piero~, quattro; -- ^con
+dritto~, il 21; -- ^Di Petro~, il 41.
+
+	|121-123.  E questi fu~ ecc.  E questi fu il nostro
+Patriarca S. Domenico, del cui Ordine era S. Tommaso che parla;
+-- ^patriarca~, principe d'altri padri, dal che puoi conoscere
+che chi seguita lui fa buon negozio, ecc.  BENV., il quale
+riferisce il ^lui~ a S. Francesco~, mentre gli altri lo
+riferiscono pi@u logicamente a S. Domenico; -- ^buona merce
+carca~, fa tesoro di sante operazioni per navigare al porto
+dell'eterna salute.  BIANCHI.  -- Var.  ^E costui fu~, il 3; --
+^E questo fu il vostro~, dodici, (M.).  (N.).  (V.); -- ^E
+questo~, quattordici; -- ^com' el comanda~, sei, (M.).  (V.); --
+^com' @e~, il 15; -- ^qual ei dimanda~, il 28; -- ^Per che~, Fer.
+W. ecc.; -- ^Disc@erner puo~', (M.); -- ^p#oi~, il 17; -- ^bone
+merci~, ventidue; -- ^buone mercie~, i pi@u, le prime sei ediz.,
+52. 53.  W.; -- ^Per@o qual segue lui~, codice Poggiali.
+
+	|124-126.  Ma il suo peculio~ ecc.  Ma il suo gregge
+Domenicano @e divenuto s@i avido di beni terreni, che non pu@o
+non accadere che per diversi boschi o deserti vada sviato dal
+santo costume.  Allegoricamente vuol dire che cercano nuovo cibo
+nelle dignit@a, onori, prebende ecc.  Il ^salto~ @e luogo erboso
+e montuoso.  BENV.  -- ^Di nuova vivanda~, cio@e di prelature, di
+onori.  DANIELLO.  -- ^Salto~, dice l'Anonimo, @e luogo
+dilettevole e di morbida pastura.  E. F.  -- ^Salto~, per selva,
+foresta, pascolo, luogo deserto.  VOLPI; -- balza di monte o di
+collina, dal latino ^saltus.~  POGGIALI; -- bosco da pascolo, il
+Bianchi e il Fraticelli: -- ^diversi~, vale qui ^differenti,
+contrarj~, nota il Torelli.  -- S. Tommaso riprende i suoi
+correligiosi, e S.  Bonaventura i suoi nel canto sequente.  Per
+l'opposito, siccome ^laus in ore proprio sordescit~, il Poeta con
+bell'artificio fa S. Francesco lodare da un Domenicano, e S.
+Domenico da un Francescano, qual fu S. Bonaventura.
+L'osservazione @e del Biagioli.  -- Var.  ^Peguglio~, cinque; --
+^Ma suo pugillo~, il 24; -- ^pecuglio di nova~, (F.).  (N.); --
+^@E facto ghiocto~, (F.).  (N.); -- ^giotto~, (I.).
+
+	|127-129.  E quanto le sue~ ecc.  E quanto pi@u le sue
+pecore si allontanano e vanno vagando lungi dal loro pastore,
+pi@u tornano all'ovile vuote di latte, prive di dottrina e di
+buone opere.  BENV.  -- ^Pi@u tornano~ ecc. meno in Religione
+fruttano.  LOMB.  -- ^Di latte vuote~, vuote di buon alimento
+spirituale.  BIANCHI.  -- Var.  ^E quando~, 24.  (V.); --
+^remote~, tre, W.; -- ^E vagabunde~, dieci, (F.).  (N.).  (V.);
+-- ^pi@u adesso vanno~, il 21, (F.).  (N.); -- ^pi@u da esse~, il
+33; -- ^Pi@u tornano a lui~, il 43 (con in marg.  ^all'ovil~); --
+^a l'ovil~, le pr. quattro edizioni, Ferranti.
+
+	|130-132.  Ben son~ ecc.  Ve ne sono pur di quelli che
+temono le insidie, e tengonsi stretti alla regola, ma sono s@i
+pochi, da bastare poche braccia di panno per vestirli.  BENV.  --
+^Cappe~, per vesti religiose, voce con cui disvela il Poeta
+l'allegor$ia.  LOMB.  -- Var.  ^Temon lo danno~, il 14; -- ^Ben
+va di quelle~, il 38; -- ^il danno~, (M.).  (I.).  Fer. W.; --
+^Che lor cappe~, 3. 26; -- ^forniscon~, il 43; -- ^forniscie~,
+(M.).
+
+	|133-135.  Or, se le mie~ ecc.  Ora se le mie parole non
+sono deboli, oscure, se le ascoltasti con attenzione, e se
+richiami alla mente quanto dissi di san Francesco e dei
+Domenicani ecc.  BENV.  -- ^Fioche~, rauche, spiega il Lombardi,
+preso ^rauche~ fig. per ^oscure e mal capite; -- audienza~, per
+^udito; -- rivoche~, per ^rivochi~, antitesi in grazia della
+rima.  -- Var.  ^E se le mie parole~, il 29; -- ^O se la tua~, il
+3; -- ^E se la tua~, venti, le prime sei edizioni; -- ^udienza~,
+sei, (F.).  (M.).  (N.).  Nid.; -- ^odienza~, il 29; -- ^Se ci@o
+ch' @e detto~, nove, Stuard. (I.).  (N.).  (V.).  Nid. Benv.; --
+^ditto~, il 10; -- ^revoche~, 14. 24; -- ^che ee ditto~, il 41;
+-- ^a la mente~, parecchi, Fer.; -- ^ci@o che detto~, Roscoe.
+
+	|136-139.  In parte fia~ ecc.  In parte rimarr@a la tua
+voglia satisfatta, perch@e vedrai di quale materia si fanno
+parole, e conoscerai qual argomento racchiudono le parole ^U' ben
+s'impingua se non si vaneggia~ ecc.  BENVENUTO.  -- ^In parte
+fia~, rimarr@a quanto al primo dei due (V. 25 e seg.) soddisfatta
+la tua brama; -- ^onde si scheggia~, capirai di quale pianta si
+fanno schegge, fig. detto per ^di quale oggetto si fa parole.~ il
+Lombardi.  -- Pi@u persuade la chiosa del Venturi, cio@e: ^Vedrai
+qual @e la pianta, da cui si levan le schegge; cio@e la religione
+Domenicana, di cui i pi@u valenti uomini si distaccano per
+promoverli a cariche, a prelature.~  -- Col Venturi s'accorda il
+Torelli, dichiarando: ^onde la religione di san Domenico si
+storna dalla sua prima bont@a~; la botta almeno riesce pi@u
+grave.  Il Poggiali, il Portirelli, il Biagioli e la E. B. stanno
+col Lombardi, la chiosa del quale @e pur quella di Benv.  -- Il
+Bianchi accenna l'una e l'altra sposizione dicendo: <Tu
+ravviserai la pianta su cui percuote la scure del mio dire.
+Abbiamo pure nella nostra lingua un modo simile dell'uso
+famigliare: ^Levare i pezzi d'alcuno~, che vale appunto ^dirne
+male~ o ^noverarne i vizj.~  Ma forse ^vedrai la pianta onde si
+scheggia~ potrebbe anche significare: Tu ravviserai la pianta a
+cui si va tanto togliendo, o che si va tanto assottigliando,
+accennando all'Ordine Domenicano, a cui molto s'era tolto della
+sua originale integrit@a pei trasandati costumi dei Frati>.  --
+Il Fraticelli sta per questa seconda chiosa.  ^E vedr@a il
+Correggi$er~, legge il Lombardi contre mss. della Corsiniana, e
+intese: ^Correggiero~ per Frate Domenicano, che porta cintura di
+cuojo, come dicesi ^Cordigliero~ quel Religioso che va cinto di
+cordiglio, e con tal lettera chiosa: <Appalesando tu nel mondo
+questo mio discorso, vedr@a il Domenicano che si voglia
+significare ci@o che della Religione di lui parlando dissi: ^@U
+ben~ ecc.>.  Non istar@o a riferire le chiose degli antichi, i
+quali presero ^correggier~ per verbo, e lavorarono di tira e
+stira, meno il Postill. Cassinese che conforta la sposizione del
+Lomb., meno il Ronto che translat@o egregiamente ^cingula
+gestantem.~  Il Viv., il Bianchi e lo Scarab. accettarono questa
+lezione, e quest'ultimo la francheggia con molte autorit@a,
+concludendo che @e l'unica vera.  Tra li moderni il solo
+Fraticelli la disapprova, dicendo arbitrario il ^s@i~ tra il
+^che~ ed ^argomenta~; non esservi bisogno di mutare la comune,
+che d@a un senso pi@u legato alla frase antecedente; S.  Tommaso
+chiarire i dubbj di Dante, non dei Domenicani; e non occorrer in
+fine, mutare subbietto, per porre in iscena il Correggiero.
+Spiega perci@o: ^E vedrai e conoscerai il corregger che
+argomenta, la riprensione o forse meglio la distinzione, che
+argomentando racchiude la detta mia frase~: U' ben s'impingua
+ecc.  Contraddice poi anche a chi legge: ^vedrai il corregger che
+argomenta~, e spiega: ^vedrai che cosa argomenti lo Frate
+cordigliero dicendo~ ecc.  -- Il Bianchi legge: ^E vedr@a il
+Correggier che argomenta~, e spiega: <E vedr@a il Domenicano che
+voglia concludere, o qual argomento racchiuda contro di lui quel
+che dissi parlando del suo Ordine: ^U' ben s'impingua~, ecc.>.
+La vulgata vorrebbe dire: E vedrai, intenderai la correzione,
+l'avvertimento che concludono quelle parole: ^U' ben s'impingua.~
+-- Sto col Lomb., ma scrivo ^E vedrai 'l Corregier che
+argomenta~, dal latino ^corrigia~, per iscostarmi meno dalla sua
+origine, e per diminuire l'equivoco.  -- Var.  ^La tua mente
+contenta~, il 24; -- ^In parte fie~, il 37, Fer.; -- ^ove se
+sgreggia~, 7. 14; -- ^ove si scheggia~, tre, Rosc.; -- ^la rota
+onde si~, il 33; -- ^in che si~, il 36; -- ^Vedrai il coregiar~,
+18. 43; -- ^Vedrai se 'l corteggiar che s'argomenta~, il 43 in
+margine; -- ^vedrai~, i pi@u; -- ^vedr@a~, parecchi; -- ^lo
+coregier~, l'8; -- ^il coregi$er~, parecchi; -- ^che argumenta~,
+cinque; -- ^O' ben~, quattro; -- ^$o ben~, l'8; -- ^Un ben
+s'impingua che non~, quattro, (F.).  (I.).  (N.).  (V.); -- ^U'
+ben~, i pi@u; -- ^si pingua~, tre; -- ^sen pingua~, il 32; -- ^se
+non si vagheggia~, il 37; -- ^naneggia~, (N.); -- ^E vedra' il
+coreggier~, Fosc. V. ^Disc. sul Testo~, Lez.  1194. 

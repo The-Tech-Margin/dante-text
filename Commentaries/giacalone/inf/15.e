@@ -1,0 +1,649 @@
+	|1-3.  Ora cen porta~: ora uno degli argini di pietra
+(duri) ci porta lontano di l@i; e il vapore che esala dalle acque
+bollenti del fiumicello fa ombra (^uggia~ @e l'ombra nociva alle
+piante; di qui |aduggia~ nel senso di <^fa ombra nemica alle
+fiamme~>) nemica alle fiamme, in quanto con la sua nebbia fitta
+le spegne, salvando dal fuoco sia l'acqua del ruscello, sia gli
+argini.  Tra questo canto e il precedente non c'@e alcun segno di
+spazio bianco; anzi, si pu@o dire, c'@e ripresa diretta dell'ultima
+sequenza, in cui Virg. esortava D. a camminare sugli argini,
+immuni dalla pioggia di fuoco.  Il che serve ai fini estetici,
+per comprendere la continuit@a del tema morale tra i due canti,
+anche se con personaggi tanto diversi.  <Quelle rime aspre
+|margini~, |aduggia~, con quel non so che di rozzo e d'incomposto
+ch'@e loro proprio e tanto contribuisce a dipingere il selvaggio
+squallore della scena, se ne traggono dietro altre non meno aspre
+e bizzarre> (Parodi, ^op. cit.~ {^Il canto XV dell'Inferno,~ in
+^Letture dantesche~ a cura di G. Getto, Firenze, 1964}, 270).
+
+	|4-10.  Quali~: per dare un'idea concreta di quegli
+argini del suo fantastico Inferno, D. fa questo paragone con
+dighe reali e storicamente vere.  Spiega: come i Fiamminghi tra
+Wissant (vicino Calais) e Bruges, temendo l'alta marea (|fiotto~,
+cfr. B. Latini, ^Tesoretto~, 1027 e seg.) che si scaglia con
+violenza (|s'avventa~) contro i loro lidi, costruiscono il riparo
+delle dighe (|schermo~) perch$e il mare sia respinto, sia tenuto
+lontano; e come i Padovani innalzano argini (sott. |fanno lo
+schermo~) lungo il fiume Brenta, per riparare dalle inondazioni
+(|difender~, in rapporto al |fiotto che s'avventa~) le loro citt@a
+e i borghi circondati da mura (|castelli~), prima che la Carinzia
+(cio@e il Tirolo e la Valsugana) senta il caldo che, determinando
+il disgelo delle nevi, fa ingrossare il fiume, causandone la
+piena; a somiglianza di queste dighe eran fatti gli argini di
+quel fiumicello dell'Inferno.  <La sua fantasia @e cos@i piena
+dell'orrore presente che anche il verso, sebbene composto di puri
+nomi di luogo, evoca col suono un'immagine di paesi orridi e
+tetri, e gli stessi nomi locali danno strane suggestioni
+acustiche di fiamme e di guizzi: poi @e un sordo rumore d'ondata
+che cresce muggendo e precipita a un tratto con fragore
+dall'alto> (Parodi {^Il canto XV dell'Inferno,~ in ^Letture
+dantesche~ a cura di G. Getto, Firenze, 1964}).  Certamente del
+cielo brumoso e della bassa pianura sconsolata, attraverso la
+quale si stendeva la grande diga delle Fiandre, D. aveva sentito
+parlare dai mercanti fiorentini, che allora erano quasi i soli
+detentori del commercio con quella regione europea.  |e quali~:
+la seconda similitudine, fondata quasi certamente su cose viste
+da lui durante il suo pellegrinaggio, diversamente dalla prima
+che evidenzia lo squallore del paesaggio e la furia mostruosa del
+mare che |s'avventa~, tende a fissare la concreta immagine degli
+argini del fiume, in modo che entrambe, pur nel loro valore
+autonomo di rappresentazione conclusa nei limiti tecnici della
+terzina organicamente pensata e strutturata, contribuiscono a
+mettere in risalto il realismo descrittivo, e figurativo, della
+sequenza.
+
+	|11-12.  tutto che~: sebbene n$e s@i alti n$e si grandi
+(come quelli dei Fiamminghi e dei Padovani), chiunque sia stato,
+il costruttore li avesse fatti; (|felli~: li fece).  Il
+costruttore @e Dio; ma il poeta, qui, non vuol fare sfoggio di
+esattezza e di prudenza, bens@i tende a evidenziare meglio e pi@u
+obiettivamente la realt@a del suo racconto, con un inciso di
+sapore classico; infatti |qual che si fosse~ @e un ricordo da
+Ovidio, ^Metam.~, I, 32 <^quisquis fuit ille deorum~> quale che
+sia stato degli dei.  Il che conferisce solennit@a alla
+rappresentazione dantesca.
+
+	|13-15.  Gi@a~: intanto ci eravamo allontanati (|rimossi~)
+dalla selva dei suicidi di tanto, che io non avrei visto pi@u dove
+fosse, per quanto mi fossi rivolto indietro a guardare.  Con
+questo espediente narrativo crea l'ambiente reale della scarsa
+visibilit@a a causa della fitta nebbia, in cui meglio si colloca
+la scena dell'incontro con Brunetto Latini.
+
+	|16.  quando~: arricchisce di vivacit@a indicando la
+casualit@a di quell'incontro di anime divise in schiere, per
+contrappasso come in vita disdegnarono la famiglia, in quanto
+violenti contro natura.
+
+	|18-21.  come suol~: come di sera, durante il novilunio,
+uno suole guardare un altro.  Cfr. Virg. ^Aen.~, VI, 268 <Quale
+per incertam lunam sub luce maligna Est iter in silvis>.  Il
+riferimento classico solennizza la situazione, che, peraltro,
+ricorda l'esperienza di D. uomo legato alla sua vita comunale,
+alle strade buie della citt@a medievale, ai ricordi artigianali,
+prima ^il maestro~ (che nei Bandi lucchesi 134 vale per
+^artigiano~) e poi il sarto.  Questo clima ambientale e questo
+paesaggio, ricordando la vita cittadina di Firenze, anticipa in
+un certo senso e condiziona il tema del canto, che si concentra
+tutto sui ricordi della giovinezza e delle speranze lontane del
+poeta, attraverso il colloquio col maestro Brunetto Latini.
+
+	|22-23.  adocchiato~: cos@i guardato attentamente,
+fissamente, da tale compagnia, schiera (senza sfumatura di
+spregio o di ironia), fui riconosciuto da uno che mi prese per il
+lembo della veste e grid@o.  I tre verbi, cos@i vicini, mettono
+meglio in risalto la rapidit@a dell'azione, dal riconoscimento
+all'espressione affettuosa da parte di ser Brunetto.
+
+	|24.  Qual maraviglia~: l'espressione di meraviglia di
+ser Brunetto @e la conseguenza diretta e immediata del gesto
+affettuoso, che presuppone una certa familiarit@a con D., il quale
+si rivolge al suo maestro con la consueta formula di
+riconoscimento: <siete voi qui?> che non vuol essere affatto una
+manifestazione di sorpresa.
+
+	|25-28.  quando~: quando distese il suo braccio a me,
+guardai fisso nel suo volto devastato dal fuoco, tanto che il suo
+viso, nonostante fosse sfigurato, non imped@i la conoscenza di
+lui, al mio intelletto, non m'imped@i di riconoscerlo. 
+<L'immagine raccapricciante domina la fantasia del poeta e due
+versi successivi v'insistono> (V. Rossi, ^Lect. Dan.~, Firenze,
+1915, 10), ma @e questo espediente che rende meglio l'emozione del
+riconoscimento, attraverso lo sforzo di ricostruire e cogliere i
+lineamenti noti e cari di quel volto, nonostante sia cos@i
+rovinato dal fuoco.
+
+	|29.  la mano~: non si tratta di una carezza,
+inconciliabile, del resto, con quel senso di rispetto e reverenza
+che D. dimostra verso il suo maestro, dandogli del <|voi~>; bens@i
+di un gesto di saluto affettuoso, in cui non @e esclusa l'emozione
+dell'incontro.  L'altra ^lectio~ <^la mia alla sua faccia~>)
+sarebbe gi@a una ripetizione del v. 26, oltre ad essere una
+variante tarda e ^facilior~ (cfr. Petrocchi {^La Commedia secondo
+l'antica vulgata, Introduzione~, Milano, 1966}, 245).
+
+	|31-32.  non ti dispiaccia~: la preghiera di B. Latini @e
+improntata subito alla pi@u affettuosa cordialit@a non solo per
+quel vocativo <|O figliuol mio~>, ma anche per tutta
+l'implorazione di quel momento irrepetibile dell'incontro con un
+suo discepolo vivo, che dall'Inferno potr@a portare ancora nel
+mondo qualche suo messaggio morale e civile.  Brunetto ancora
+nell'aldil@a, nonostante la pioggia di fuoco e la trista vergogna
+del suo peccato contro natura, continua ad esser maestro di vita
+civile e morale, come era stato in vita.  Il trovarsi,
+nell'^Inferno~, dannato non esclude in lui questo valore
+sapienziale delle virt@u naturali, che lo fanno un personaggio
+venerabile ed insieme compassionevole, in un chiaroscuro
+intensamente drammatico in cui ancora l'ideale politico e civile
+della gloria umana, secondo la sua dottrina, contrasta nettamente
+con lo stato della sua dannazione eterna.  Non @e qui il caso di
+discutere se il peccato di ser Brunetto sia stata la sodomia
+(ritenuta allora, meno ripugnante di oggi, secondo lo Scherillo)
+o se sia dovuto alla sua ripugnanza per il volgare patrio, avendo
+egli nel ^Tresor~ preferita la lingua francese, come la pi@u
+deliziosa del mondo, ma non naturale in lui (come vuole il
+P$ezard, ^{Dante} sous la plui{e} de feu~, Paris,
+1950).  N$e qui D. volle dare un'altra prova della sua
+distaccata imparzialit@a di giudice dei peccati umani e, quindi,
+della sua inflessibilit@a che non risparmia neanche un maestro a
+lui caro.  Quello che D. esalta in ser Brunetto @e l'austerit@a
+morale del maestro, il suo insegnamento civile, in cui
+s'inserisce inevitabilmente la rievocazione della sua lontana
+giovinezza fiorentina e delle sue speranze deluse.  La dialettica
+spirituale del tempo e dell'eternit@a, in ogni incontro, da D.
+personaggio si proietta immediatamente sulla psicologia dei
+dannati, i quali non possono non ricordare il loro tempo umano
+nel momento pi@u alto della loro eroicit@a umana.  Cos@i
+Francesca non pu@o non ricordare il tempo felice del suo amore,
+Farinata la lotta politica che lo ha reso vincitore ben due
+volte, Capaneo il suo supremo atto di sfida e di dispregio a
+Giove che lo fulminava, ser Brunetto il suo insegnamento
+politico, al di l@a di ogni miseria di peccato.  In questa
+continuit@a il tempo felice si ricongiunge alla eternit@a della
+miseria infernale, e nasce la poesia ^figurale-drammatica~ che si
+concretizza, appunto, nel possente rilievo plastico delle anime
+infernali, ormai divenute ^figure implete.~  In questo episodio i
+rilievi drammatici e plastici, per@o, sono pi@u smorzati e
+alleggeriti come in un'aura elegiaca.
+
+	|33.  la traccia~: lascia andar la fila, la schiera
+(|traccia~), in quanto questi peccatori non possono passare da
+una schiera ad un altra, essendo per contrappasso condannati a
+stare in gruppi, come in vita non vollero la famiglia.  L'umilt@a
+della risposta di ser Brunetto nasce dalla preoccupazione che
+egli ha di non esser rinnegato da D., cos@i privilegiato da Dio,
+da scendere nell'Inferno; cfr. ^Inf.~, XVI, 28-31.  Diversamente
+da Pier della Vigna, il discorso di ser Brunetto @e improntato ad
+un tono paterno e familiare.  B. Latini nacque a Firenze intorno
+al 1220 e mor@i nel 1294, quando D. aveva 29 anni.  Fu notaio e
+cancelliere, e prese parte attiva alla vita politica del comune,
+come esponente del partito guelfo.  Ambasciatore fiorentino
+presso Alfonso X di Castiglia, nel 1260, in seguito alla
+sconfitta del suo partito a Montaperti, prefer@i rimanere in
+esilio in Francia dove scrisse il ^Tr$esor~ in francese, una
+specie di enciclopedia del sapere medievale.  Nel 1266, dopo la
+battaglia di Benevento, in seguito alla vittoria dei Guelfi pot$e
+rientrare nella sua citt@a.  Scrisse in volgare il ^Tesoretto~ un
+poemetto didascalico, che @e una riduzione del ^Tr$esor.~  Fu
+maestro di retorica e di vita civile <maestro in digrossare i
+Fiorentini e fargli scorti in bene parlare e in sapere guidare e
+reggere la nostra repubblica secondo la politica> Villani
+(^Cron.~, VIII, 10).  Come storico e critico D. poneva Brunetto
+sullo stesso piano di Guittone, Bonaggiunta, Gallo da Pisa,
+(Bartolomeo?) Mocati <famosos viros... quorum dicta si rimari
+vacaverit, non curialia, sed municipalia tantum in venientur>
+trad. uomini famosi, le rime dei quali, se si avr@a agio di
+esaminarle diligentemente, si troveranno non curiali, ma soltanto
+municipali (cio@e che non oltrepassano per rinomanza i confini
+della citt@a), cfr. ^De vulg. el.~, I, xiii, 1.  Non saranno
+stati, quindi, i meriti poetici, bens@i quelli morali e civili, il
+suo ^ben fare~ {v. 64}, a elevarlo, qui nell'Inferno dantesco, al
+ruolo di rimpianto maestro.
+
+	|34-36.  Quanto posso~: non solo non mi dispiace che voi
+mi accompagniate, ma per quanto posso, vi prego; e se volete che
+mi fermi (|m'asseggia~) con voi, lo far@o, se mi @e permesso da
+costui che mi accompagna, se piace a costui col quale io vado
+(|che vo seco~ @e proposizione puramente determinativa di
+|costui~, Barbi, ^Probl.~, I, 269).  Una nota di piet@a, pur
+reticente ma non meno vivida, si nota nelle parole di D. che
+apparentemente ispira la sua risposta a reverenza e rispetto di
+discepolo, non dichiarando esplicitamente che ora egli @e sotto la
+guida di Virgilio.  Altri legge ^ch$e~: perch$e, ma la risposta
+assumerebbe un tono pi@u duro.  In realt@a D. vuole dichiarare
+tutta la sua affettuosa reverenza a ser Brunetto, ma senza far
+scemare il suo ossequio e la sua obbedienza a Virgilio, che qui,
+pur non parlando, viene pi@u volte richiamato in primo posto di
+guida.  <Rilievo mimico e dialogico, nobilt@a di reticenza e di
+silenzio, sicurezza di sviluppo della figura complessa del
+maestro e del peccatore fanno di questo episodio una delle prove
+pi@u perfette della potenza e della misura dell'arte di D.>
+(Momigliano, 107).
+
+	|37-39.  O figliuol~: o figliuolo, chiunque di questa
+schiera (|greggia~ non ha valore dispregiativo) si ferma un solo
+momento (|punto~), poi deve stare disteso (come i bestemmiatori)
+cento anni senza farsi riparo con le mani dalle fiamme, quando il
+fuoco lo ferisca (|feggia~).  |Arrostarsi~: verbo derivato da
+^rosta~ = frasca, quindi ^farsi rosta~, schermo e ventaglio delle
+mani (Parodi); oppure da ^rosta~ = impedimento, ostacolo, quindi,
+schermirsi dalle falde di fuoco (Barbi, ^Probl.~, I, 208).
+
+	|41.  la mia masnada~: la mia schiera, compagnia.  La
+parola non aveva nel Medioevo alcun valore dispregiativo, in
+quanto indicava ^una schiera di soldati~; oppure il gruppo degli
+uomini di servizio di una famiglia (^mansio~: casa), legati anche
+da vincoli di parentela; il che farebbe da contrappasso ai
+violenti contro natura che non vollero crearsi una famiglia, (in
+tal senso usata anche nel ^Tr$esor~, 257); oppure la famiglia di
+un ^manso~, podere concesso da un signore, che assunse il
+significato di ^campagnia~, al disgregarsi dell'istituto feudale;
+cfr. ^Purg.~, II, 130.
+
+	|43-45.  non osava~: non osavo scendere dall'argine (|de
+la strada~) per procedere alla pari con lui, ma tenevo il capo
+chino come uno che cammini con comportamento riverente.  Anche
+questo @e un tratto di fine e precisa psicologia, che descrive il
+contrasto interiore di D. tra la paura delle fiamme e il profondo
+sentimento di rispetto, che ancora lo lega al vecchio maestro. 
+Finora abbiamo conosciuto vari stati d'animo di D. di fronte ai
+dannati, il turbamento dinanzi a Francesca, la piet@a per Ciacco,
+l'ammirazione per la magnanimit@a di Farinata, ora conosciamo un
+sentimento nuovo: la riverenza, la nostalgia per la sua lontana
+giovinezza fiorentina.  La poesia di queste intimit@a profonde
+dell'anima traspare subito anche dal colloquio seguente.
+
+	|46-48.  qual fortuna~: qui il termine |fortuna~ vale per
+^caso~, e |destino~ per ^grazia divina~, in quanto il secondo
+termine @e una correzione del primo: la Fortuna per D. non @e che
+la general ministra di Dio (cfr. Bosco, ^Lect. Dan. scal.~,
+Firenze, 1961, 12).  Spiega: qual caso o qual sorte a te da Dio
+destinata, prima del giorno della morte, cio@e ancor vivo ti ha
+condotto qui?  E chi @e la tua guida?
+
+	|49-51.  L@a s@u~: D. risponde soltanto alla prima domanda,
+riassumendo la vicenda del I canto.  Sulla terra, nella vita
+illuminata dal sole (^Inf.~, VI, 51, anche per Ciacco ^serena~;
+il Bosco {^Il canto XV dell'Inferno,~ in ^Lect. Dan. scal.~,
+Firenze, 1961} nota che D. non potrebbe chiamare |serena~ una
+vita nella quale nello stesso momento dice d'essersi smarrito) mi
+smarrii nella selva oscura (|valle~) prima che l'arco della mia
+vita giungesse al suo colmo.  Sulla mancata presentazione di
+Virg. a ser Brunetto sono state addotte varie ragioni da parte
+dei critici: a) delicatezza di D. che non vuole umiliare il suo
+vecchio maestro, presentandogli Virg. come nuova guida; b) il
+fatto che Brunetto conoscesse poco le opere di Virg., e,
+pertanto, era indegno di quella presentazione; c) evitare una
+qualsiasi distrazione, che praticamente la presentazione di
+Brunetto a Virgilio avrebbe frapposta, in <quella scena
+d'intimit@a personale e fiorentina> (Bosco {^Il canto XV
+dell'Inferno,~ in ^Lect. Dan. scal.~, Firenze, 1961}). 
+Quest'ultima ci sembra pi@u convincente, tanto pi@u perch$e un cenno
+rapido, ma sostanziale, indica Virg. come sua guida morale, per
+quel tanto che gli compete nella trama narrativa e concreta del
+racconto.
+
+	|52-54.  Pur ier~: soltanto ier mattina volsi le spalle
+alla selva (uscendo da essa); mi apparve questi (Virgilio),
+mentre io stavo ritornando, precipitando in essa, a causa delle
+tre fiere, ed ora mi riconduce (|reducemi~) sulla retta via
+(Pagliaro, ^Ulisse~ {Messina-Firenze, 1966}, 200) o a casa (a
+|ca~ la forma tronca, normale nei dialetti settentrionali, non
+era senza esempi negli scrittori toscani, (cfr. Parodi, ^Bull.~,
+III, 146), che vale anche ^cielo~, come vera ^civitas~ dell'uomo,
+secondo la scrittura (^Ebrei~, XIII, 14), in quanto attraverso
+questo viaggio D. avrebbe conseguito la salvazione della sua
+anima.
+
+	|55-56.  tua stella~: quasi tutti i commentatori
+intendono il segno, la costellazione celeste dei Gemelli sotto
+cui D. era nato.  Il Torraca alla comune nozione della stella, la
+tramontana, che guida i marinai al porto, unisce la credenza
+nell'influenza superiore; cio@e se assecondi la favorevole
+disposizione delle stelle.  Il Bosco, invece, sostiene pi@u
+opportunamente <l'immagine non @e astrologica, ma semplicemente
+nautica.  La stella @e quella che guida i naviganti: se la
+seguono, questi giungono al loro porto.  Brunetto dice insomma a
+D.: se seguirai la tua |stella~, se non devierai dal tuo
+|cammino~, se terrai il timone della tua vita dritto verso la
+m@eta che ti sei prefissa, non potrai mancarla> (^l.c.~ {^Il canto
+XV dell'Inferno,~ in ^Lect. Dan. scal.~, Firenze, 1961}, 15). 
+L'errore interpretativo @e stato originato e rafforzato da una non
+chiara definizione dell'insegnamento di Brunetto a D., come qui @e
+rappresentato.
+
+	|57.  se ben~: se io vidi giusto nella vita terrena,
+|bella~ per lui in contrapposto a quella infernale.
+
+	|58-60.  non fossi~: e se io non fossi morto presto
+(rispetto a te), vedendo il cielo cos@i benevolo verso di te, ti
+avrei dato conforto, incitamento all'opera di ^moralista~ e di
+cittadino.  @E questo uno dei problemi che pi@u ha interessato gli
+studiosi, dal Parodi al Bosco, intorno ai rapporti tra D. e
+Brunetto.  Infatti si esclude che D. abbia potuto trarre
+insegnamenti da Brunetto nella poesia, in quanto alla morte di
+quel maestro egli aveva 29 anni ed era gi@a un esperto rimatore in
+volgare, dopo l'esperienza della ^Vita nuova~ e le ^Rime~, n$e
+certamente agli occhi di D., che nel ^Conv.~, I, xi, {21}, se la
+prende con <li abominevoli cattivi d'Italia che hanno a vile
+questo prezioso volgare e lo loro proprio dispregiano>, ser
+Brunetto autore in lingua francese poteva apparire un letterato
+diverso da un Guittone, altrove anche dispregiato.  Allora si @e
+pensato al fatto che il rammarico di Brunetto si riferisca
+all'attivit@a pubblica di D.; iniziatasi appunto il 1295, un anno
+dopo la morte di lui.  Egli, secondo il Bosco {^Il canto XV
+dell'Inferno,~ in ^Lect. Dan. scal.~, Firenze, 1961}, pot$e esser,
+o meglio avrebbe voluto esser a D. guida nella sua opera, nel suo
+^ben far~ {v. 64}, nella sua azione politica, in cui si
+adoperarono anche Iacopo Rusticucci e Tegghiaio, come si pu@o
+vedere nel canto successivo, e in alcuni versi del ^Tesoretto~
+del Latini <tutti per comune Tirassero una fune Di pace e di ^ben
+far~; Che gi@a non pu@o scampare Terra rotta di parte>.  E questa
+tesi @e convalidata dalle parole successive.
+
+	|61-66.  Ma quello~: ma quell'ingrato popolo fiorentino,
+malvagio per indole e origine, che discese da Fiesole
+anticamente, e conserva ancora (|tiene~) l'asprezza e la
+selvatichezza dei costumi della montagna, proprio in virt@u, a
+causa del tuo retto e onesto operare politico, diventer@a ostile a
+te; ed @e giusto, perch$e non sarebbe opportuno al dolce fico
+produrre il suo frutto in mezzo ai sorbi, che producono frutti
+aspri (|lazzi~); cio@e che tu, persona retta e imparziale, stia in
+mezzo ai fiorentini ingiusti.  Non solo si allude all'esilio di
+D., ma anche allo sdegno che l'ingratitudine di quel popolo,
+verso il poeta, ha suscitato in Brunetto, maestro di moralit@a. 
+Qui nell'^Inferno~ l'indignazione del Latini suona anche come
+risentimento contro i Fiorentini, i quali, condannando D., hanno
+voluto condannare pure il suo insegnamento.  Il dramma di D.
+coincide con quello del suo maestro, le sue speranze deluse, con
+la delusione di quello.  Di qui l'ispirazione figurale di tutto
+l'episodio, che fa di Brunetto il medesimo maestro di moralit@a
+politica che fu in terra.  E come allora cos@i anche ora, pur
+nella trista vergogna infernale, continua ad impartire il suo
+monito di dignit@a alla sua Firenze, attraverso questo
+irrepetibile colloquio con D.
+
+	|67.  Vecchia fama~: un vecchio proverbio chiama i
+Fiorentini ciechi.  Secondo i pi@u, si allude ad un inganno fatto
+dai Pisani ai Fiorentini, i quali accettarono per buone due
+colonne di porfido rotte, senza accorgersi che eran guaste, in
+premio della buona guardia che avevan fatta a Pisa, durante la
+spedizione delle Baleari.  Secondo altri, si allude all'inganno
+di Totila, che, entrando a Firenze come amico, la distrusse
+(Villani, ^Cron.~, II, 1).
+
+	|68-69.  avara~: si ripete la medesima accusa di Ciacco
+(^Inf.~, VI, 74-75) ai corrotti costumi dei Fiorentini, ormai
+lanciati verso grandi imprese commerciali e industriali, ma con
+un preciso monito di dignit@a e di fermezza morale a D., che
+faccia in modo di mantenersi immune da quei costumi.  Lo spirito
+dell'insegnamento di Brunetto a ^ben far~ {v. 64} @e contenuto
+tutto qui, in questo rilievo, che man mano assume un tono
+linguistico sempre pi@u realistico, e ricco di frasi proverbiali,
+tipiche del parlato fiorentino.
+
+	|70-71.  La tua fortuna~: la tua fortuna ti riserva tanto
+onore, che sia i Bianchi che i Neri avranno fame di te, vorranno
+divorarti.  Questi cacciandoti in esilio e condannandoti a morte
+nel 1302, e quelli rivoltandosi contro di te, quando tu li
+abbandonerai.  Si tratta della profezia dell'esilio e della
+separazione di D. dal partito dei Bianchi fuorusciti; motivi
+autobiografici che riappaiono con la stessa coerenza di tono
+anche nel colloquio di D. con Cacciaguida in ^Par.~, XVII, 64-67. 
+Giustamente i critici hanno riscontrato una certa analogia, anche
+strutturale dato che l'incontro con Cacciaguida occupa un posto
+centrale nel ^Paradiso~, tra quest'episodio di ser Brunetto e il
+trisavolo di D.
+
+	|72.  l'erba~: la frase @e certamente un proverbio
+volgare, qui richiamato opportunamente nel tono aspro del
+contesto.  Spiega: l'erba sar@a lontana dal capro (|becco~); meno
+probabile intendere |becco~ come becco degli uccelli.  Cfr. Cino
+da Pistoia (^Su per la costa~, 27-32) <ch'omai ha ben di lungi al
+becco l'erba>.  Il proverbio vorrebbe dire: tu, per@o o Dante,
+sarai lontano dai Fiorentini ed essi non potranno farti del male. 
+Il Pagliaro propone una ben diversa interpretazione di tutto il
+passo: e due partiti, i Bianchi e i Neri, non solo desidereranno
+di guadagnare l'uomo famoso per il proprio vantaggio, ma anche di
+giovarsene strumentalmente come di un cibo, logorandone
+l'esistenza e il nome senza riguardo, (in quanto |aver fame~
+significherebbe ^consumare una cosa per il proprio vantaggio~),
+ma nessuna delle due parti in contrasto riuscir@a a sfruttare
+l'opera e il nome del poeta per il proprio vantaggio (^Ulisse~
+{Messina-Firenze, 1966}, 643).
+
+	|73.  Faccian~: i Fiorentini (bestie discese da Fiesole)
+si divorino tra loro.  |Strame~ = foraggio, paglia. 
+L'interpretazione tradizionale, coerentemente col contesto del
+periodo e l'^aver fame~ del v. 71, spiega: |far strame~ come
+^divorare.~  Il Pagliaro, invece: i Fiorentini facciano <di loro
+stessi impiego vile come del cattivo foraggio si fa strame per le
+bestie; e il discorso si sviluppa sul piano metaforico in senso
+agreste, non tocchino la pianta, seppure ne cresce ancora sul
+loro letame (|strame~ ha richiamato l'idea del letame, poich$e la
+paglia a questo si riduce), nella quale si @e sviluppato a nuova
+vita il nobilissimo seme della gente romana> (^Ulisse~
+{Messina-Firenze, 1966}, 644).  Il Barbi difende la tesi
+tradizionale <Pu@o servire lo |strame~, oltre che per pasto, anche
+per letto delle bestie; ma in Toscana, nel trecento e anche oggi,
+valeva veramente ^foraggio~...  Nel testo di D. il legame e la
+coerenza delle immagini richiedono che si continui nell'idea del
+^divorare~> (^Probl.~, I, 240).
+
+	|74-75.  la pianta~: Dante si vanta di esser disceso dal
+seme dei Romani, che parteciparono alla fondazione della citt@a di
+Firenze, e pertanto dice di esser |pianta~, uomo virtuoso, che
+ancora riesce a sorgere nel letame fiorentino.
+
+	|76.  santa~: il popolo romano @e chiamato anche ^De
+Mon.~, II, v. 5, <^santo~, ^pio e glorioso~>, e nel ^Conv.~, IV,
+v, 6 <assai @e manifesto la divina elezione del romano imperio per
+lo nascimento de la santa cittade>.
+
+	|79-85.  se fosse~: la risposta di D. @e adeguata al tono
+di affettuosa devozione di discepolo.  Se fosse del tutto
+esaurito il mio desiderio, voi non sareste ancora fuori della
+vita terrena; perch$e nella memoria (|mente~) mi @e impressa, ed
+ora vedendola cos@i devastata dal fuoco mi punge il cuore di
+dolore, la cara buona immagine di voi, che di tanto in tanto
+m'insegnavate in che modo l'uomo possa eternarsi fra i vivi
+acquistando buon nome.  Non era, quindi, un insegnamento
+scolastico vero e proprio, ma un rapporto amichevole tra
+letterati, che si stimano per fermezza e moralit@a.  C'@e un'eco di
+certe parole del ^Tresor~ <Gloria d@a all'uomo valente una seconda
+vita cio@e a dire che, dopo la morte sua, la rinomanza che rimane
+delle sue buone opere fa parere che egli sia tuttora in vita>. 
+Queste ^buone opere~ pur essendo espressione pi@u generica,
+sembrano la stessa cosa del ^ben fare~ {v. 64} dei testi di
+Brunetto stesso e di Dante (Bosco {^Il canto XV dell'Inferno,~ in
+^Lect. Dan. scal.~, Firenze, 1961}, 22).
+
+	|86-90.  e quant'io~: e quanto io l'abbia in graditudine,
+finch$e vivo, si deve riconoscere chiaramente nelle mie parole. 
+Scrivo nella mia memoria ci@o che avete detto intorno al corso
+della mia vita e lo serbo perch$e mi sia spiegato (|chiosar~) da
+Beatrice, se riuscir@o ad arrivare fino a lei, con l'altra
+profezia fattami da Farinata.
+
+	|91-93.  Tanto~: voglio soltanto che vi sia ben chiaro
+che io son pronto a sostenere i colpi della Fortuna, qualunque
+cosa essa mi riserva, purch$e la mia coscienza non abbia da
+rimproverarmi (|garra~) nulla.  Nonostante le somiglianze
+psicologiche e stilistiche di questo colloquio con quello tra D.
+e Cacciaguida, notate gi@a dal Parodi fino al Bosco, qui pi@u viva
+e realistica appare l'intimit@a tra i due amici e pi@u appassionato
+il ricordo della giovinezza fiorentina del poeta. 
+
+	|94.  non @e nuova~: non @e nuovo ai miei orecchi questo
+impegno (|arra~ pu@o significare ^caparra~ e quindi anche
+^preannuncio~, ma il Buti, seguito dal Pagliaro attribuisce il
+senso di fermezza del patto, dell'impegno tra gli uomini e la
+fortuna), in quanto Virg. ha gi@a parlato a D. della Fortuna nel
+canto VII.
+
+	|95-96.  per@o~: perci@o, essendo io pronto ai colpi della
+Fortuna, la Fortuna faccia pure il suo ufficio di girare la sorte
+umana, come il contadino il suo, girando la sua zappa.  Ma il
+passo @e controverso.  Ci limitiamo a citare le due tesi pi@u
+notevoli.  <L'espressione di D. @e d'un'intensit@a intraducibile:
+faccia pure la fortuna, facciano il piacer loro gli uomini
+sconoscenti e malvagi; ma nel tempo stesso ci dice che per D.,
+imperterrito nella sua fiera coscienza, quel pauroso girare della
+ruota della fortuna non ha maggiore importanza che l'innocuo
+maneggio del villano, il quale ne' campi, con gesto tranquillo,
+volta e rivolta la marra.  Anche D., nel suo impaziente sdegno,
+discende alle umili frasi proverbiali del popolo, che sono cos@i
+ricche di rozza energia> (Parodi, ^Poesia e storia~, Venezia,
+1965).  Il Pagliaro d@a, invece, un'interpretazione pi@u generica,
+riferendosi ad un passo del ^Conv.~, IV, xi: <La Fortuna
+distribuisca pure a caso i suoi doni e ne godano gli
+immeritevoli, come @e il caso del contadino che trova tesori,
+manovrando senza intenzione la sua marra> (^Ulisse~
+{Messina-Firenze, 1966}, 177).  Quest'ultima un po' artificiosa,
+in verit@a.
+
+	|99.  bene ascolta~: l'intervento di Virgilio qui ha una
+sua ragione specifica dal punto di vista narrativo, per non
+isolarne la sua funzione in un momento di massima tensione
+psicologica per il futuro destino di D.  Il proverbio popolare @e
+stato variamente interpretato.  Ascolta bene chi imprime bene
+nella memoria le cose udite e ne prende nota.  Questo sembra il
+senso pi@u ovvio, accettato anche dal Sapegno.  Il Pagliaro ha
+proposto una nuova lettura <|bene ascolta chi l'ha nota~>
+spiegando cos@i: Brunetto aveva parlato della fortuna in termini
+empirici dimostrando di ignorare la sua natura divina, mentre
+Virg. le fa intendere a D. nel senso teologico della Fortuna
+<ascolta bene, intende bene le tue parole nei riguardi della
+Fortuna, solo chi la conosce per quello che veramente @e (^chi
+l'ha nota~, ^Ulisse~ {Messina-Firenze, 1966}, 182).  L'intervento
+di Virg. non contiene in tal senso un elogio a D.; ma nemmeno @e
+un rimprovero; @e solo la constatazione del senso di quelle parole
+per chi conosce la vera essenza divina della Fortuna.  Ma alla
+congettura del Pagliaro si oppone non solo la testimonianza dei
+codici, che non conservano alcuna traccia di una simile lezione,
+ma anche il fatto che nello schema stesso della frase ad un verbo
+che esprime durata (|ascolta~) deve corrispondere sempre un altro
+verbo con il medesimo valore durativo (|nota~), e non un passato
+prossimo (^ha nota~).
+
+	|100-102.  N$e per tanto~: accettando l'interpretazione
+del Pagliaro {^Ulisse,~ Messina-Firenze, 1966, 182} si avrebbe
+un'esatta giustificazione di questa determinazione avverbiale
+della ripresa narrativa, in rapporto con la frase di Virg. che
+con il suo gesto (^riguardommi~ {v. 98} ecc.) verrebbe a
+partecipare concretamente al dramma del dialogo.  Spiega: n$e per
+questo, cio@e per il fatto che Virg. mi rivolgesse la parola,
+smisi di parlare con ser Brunetto (lett. ci@o nondimeno continuo a
+parlare con), e chiedo chi sono i suoi compagni pi@u famosi
+(|noti~) e pi@u alti per autorit@a (|sommo~ spesso nell'italiano
+antico ha valore positivo, come ^minimo~, ^pessimo~).  La
+richiesta di D. @e conforme al suo metodo di mettere in luce i
+personaggi autorevoli come esempio di peccati o di virt@u (^Par.~,
+XVII, 136, con cui questo canto ha molte affinit@a anche
+linguistiche).
+
+	|103.  bono~: opportuno.
+
+	|104-105.  tacerci~: pu@o valere tanto ^tacere qui(ci~),
+quanto ^astenerci dal dire~, perch$e a me (che qui indugio)
+mancherebbe il tempo per un discorso (un'enumerazione) cos@i
+lungo.  |Suono~ qui vale ^discorso~, cfr. ^Inf.~, VI, 76 <^al
+lagrimabil suono~>; ^Par.~, XVIII, 7, <^all'amoroso suono~>).
+
+	|106-108.  sappi~: sappi che furon chierici, gente di
+chiesa e letterati famosi, macchiati (|lerci~) tutti in terra di
+un medesimo peccato; violenza contro natura.  Ser Brunetto in una
+sua opera aveva condannato recisamente la sodomia <Ma tra questi
+peccati Son vie pi@u condannati Que' che son soddomiti: Deh, come
+son periti Que' che contra natura Brigar cotal lusura>
+(^Tesoretto~, vv. 2859-2864): questo richiamo del Mari
+(^Risveglio~, Udine, 1961), in un certo senso, riapre l'annosa
+questione che il peccato di Brunetto non fosse propriamente la
+sodomia, bens@i violenza contro le arti liberali, contro il
+proprio linguaggio naturale, avendo lui scritto in francese il
+^Tr$esor.~  N$e ci sembra accettabile la tesi del Parodi, secondo
+cui D. avrebbe messo all'inferno il maestro fiorentino, per
+mostrarsi imparziale e per esercitare sicura efficacia morale sui
+vivi, convincendoli anzitutto della sua dignit@a morale di poeta e
+di filosofo.  La tesi del P$ezard, pur non essendo la pi@u sicura,
+per lo meno eliminerebbe, la contraddizione tra la dignit@a morale
+di Brunetto maestro e il suo peccato.  Certo l'alta nobilt@a
+terrena di maestro di ^ben fare~ {v. 64}, di onest@a civile e
+politica, @e quella che D. ha voluto mettere in luce in Brunetto
+Latini; o meglio, l'amore del bene morale, come aspirazione della
+nostra anima, attraverso quel personaggio, il cui prestigio
+terreno ben si prestava ad assumerlo come ^figura impleta~ di
+maestro di virt@u politica, anche nell'aldil@a.  Insomma D., pur
+condannando in Brunetto la violenza contro la propria lingua
+naturale e per questo, mettendolo nel girone dei violenti contro
+natura, ha voluto esaltare le virt@u sapienziali e morali del
+grande maestro di vita civile, in perfetta continuit@a e armonia
+con la sua funzione terrena anche nell'aldil@a; per quel che
+riguarda la condanna della ^sodomia~ stessa, da quello messa in
+luce nel ^Tesoretto~, la contraddizione verrebbe cos@i eliminata.
+
+	|109.  Priscian~: Prisciano da Cesarea nella Mauritania,
+celebre grammatico latino della prima met@a del VI sec., autore di
+diciotto libri di ^Institutiones de arte grammatica~, fu la
+massima autorit@a in questo campo, assieme ad Elio Donato, nelle
+scuole medievali.  Alcuni hanno supposto che D. confondesse
+questo erudito, di cui, peraltro non risulta alcuna accusa in tal
+senso, con il vescovo Priscillano, un eretico del IV secolo, alla
+cui setta si appose anche il peccato di sodomia; oppure con un
+magister Prisianus di Bologna, anche lui grammatico, di cui si ha
+notizia in documento del 1294.  Ma sono tesi improbabili, perch$e
+D. qui allude a letterati di gran fama, e questi non pu@o esser
+altri che il pi@u celebre Prisciano.
+
+	|110.  d'Accorso~: Francesco d'Accorso, 1225-1294,
+professore di diritto civile all'Universit@a di Bologna.  Fu
+chiamato ad insegnare ad Oxford dal re Edoardo I d'Inghilterra.
+
+	|111-114.  s'avessi~: se avessi avuto desiderio di vedere
+tale sozzura, tale esser schifoso, oppure desiderio di s@i bassa
+natura (|tigna~ = malattia schifosa), avresti potuto (|potei~)
+vedere anche tra quella turba |grama~ (^triste~) (|vi~) colui,
+Andrea de' Mozzi, che dal papa (^servo de' servi~ di Dio si
+faceva chiamare Bonifacio VIII) fu trasferito dal vescovado di
+Firenze (|Arno~) a quello di Vicenza (|Bacchiglione~), dove,
+morendo, lasci@o le sue forze eccitate peccaminosamente (|mal
+protesi nervi~).  Le cronache del tempo e gli antichi
+commentatori mettono in evidenza il suo scandaloso turpe vizio
+per cui fu trasferito a Vicenza nel 1295.
+
+	|115. 'l venire~: il venir con te e il parlare, il
+discorrere con te.
+
+	|117.  fummo~: pu@o esser la nube di polvere che vien
+sollevata dalle anime che sopraggiungono; oppure il fumo delle
+fiamme calpestate (^Parodi~); oppure il vapore che esala dalle
+piaghe e dalle bocche della gente che veniva (^Torraca~).
+
+	|118.  non deggio~: con la quale io non devo n$e posso
+stare in compagnia, perch$e la sua schiera @e quella dei dotti,
+quella che viene @e di insigni politici.  I violenti contro natura
+sono puniti a stare divisi in famiglie, in schiere, come in vita
+rifiutaron la famiglia.  Ma ser Brunetto sar@a stato peccatore
+contro natura, in quanto rinnegatore della lingua sua naturale.
+
+	|119-120.  il mio Tesoro~: prima di separarsi da D.
+implora che la sua memoria sia affidata al suo famoso trattato,
+per cui ancora vivr@a nel mondo dei vivi.  Questa persistenza del
+motivo, della ragione della sua vita umana, condizionata alla sua
+opera di letterato e di educatore politico, ha qui un valore
+estremamente elegiaco e figurale, per rilevare la continuit@a e la
+coerenza del suo pensiero e della sua missione anche al di l@a
+della vita terrena.
+
+	|122-124.  quelli che~: a Verona, la prima domenica di
+quaresima si faceva la corsa del palio, e secondo l'uso
+medievale, un drappo verde era dato in premio al vincitore. 
+|Correre il drappo~, quindi, vale correre il palio, cio@e
+partecipare alla corsa del palio.  Anche chi perdeva riceveva un
+premio per dileggio, un gallo.  <L'espressione non avrebbe valore
+se a quella corsa non fossevi stato anche il premio per il
+perditore, premio che si riduceva ad umiliazione per lui e a
+sollazzo dei buoni veronesi> (Zingarelli, ^l.c.~ {^Il c. XV
+dell'Inferno, Lect. D.~, Firenze, 1900}, p. 39).  La corsa di ser
+Brunetto ha avuto, ovviamente, come premio, sfuggire alla
+terribile pena di ^non arrostarsi~ {v. 39} per cent'anni.

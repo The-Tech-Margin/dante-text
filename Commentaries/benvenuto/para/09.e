@@ -1,0 +1,713 @@
+	|SUMMARIUM.~  CANTUS NONUS, ^in quo adhuc multa loquitur
+cum Carolo, ubi facit mentionem de Ezelino, et Marchia
+Trivisana.~
+
+	|Proemio.~  ^DA poi Carlo tuo, bella Clemenza.~  Postquam
+in praecedenti capitulo Dantes introduxit unum spiritum illustrem
+de spera Veneris, nunc consequenter in isto capitulo IX inducit
+alios spiritus de eadem spera.  Et istud capitulum potest dividi
+in tres partes generales.  In quarum prima introducit unam animam
+modernam, quae describit se et patriam suam.  In secunda
+introducit alium spiritum modernum qui similiter describit se et
+suam terram famosam, ibi: ^L'altra letizia.~  In tertia et ultima
+introducit tertiam animam antiquam et causam suae salvationis,
+ibi: ^Ma perch@e.~  
+
+	|1-3.~  Ad primum ergo dico, quod autor introducit
+unam animam modernam; sed primo continuans se ad praecedentia
+tangit finem sermonis Caroli Martelli, et eius recessum; unde
+dirigens sermonem ad Clementiam uxorem Caroli, dicit: |O bella
+Clemenza~, quae fuit pulcra et pudica, et digna tali viro; ideo
+de industria facit memoriam de ea, |da poi che Carlo tuo~, vir
+tuus pulcer dilectus, |m'ebbe chiarito~, idest, postquam
+declaravit me de pulcro dubio, |mi narr@o gl'inganni~, in facto
+regni, |che ricever dovea la sua semenza~, idest, haeres suus. 
+
+	|4-6.~  Et subdit ad consolationem Clementiae: |ma
+disse~, ille Carolus, |taci~, idest, nihil dicas; et sic facit
+autor, quia nihil exprimit in scriptura, |e lascia volger gli
+anni~, idest, transire tempus, |s@i ch'io non posso dire~,
+scilicet, in speciali, |se non che giusto pianto~, idest, debita
+poena, |verr@a di retro ai vostri danni~, quae recepit stirps mea:
+et forte hoc dicit, quia Robertus mortuus est sine prole mascula,
+cui successit eius neptis filia Veneris, quae tamen magnifice
+gubernavit regnum. 
+
+	|7-12.  E gi@a.~  Hic autor describit recessum ipsius
+Caroli dicens: |E gi@a la vita~, idest, anima, |di quel lume
+santo~, scilicet Caroli luminosi, beati, |rivolta s'era al sole~,
+scilicet ad Deum, qui est sol justitiae, |che la riempie~, lumine
+suo, sicut sol sensibilis illuminat sidera, |come a quel ben
+ch'ad ogni cosa @e tanto~; quia infinitum et immensum sufficit ad
+omnia.  Et ex hoc autor facit unam pulcram invectivam contra
+homines, qui seducti voluptatibus sequuntur solum delectabilia,
+sicut communiter faciunt venerei; unde exclamat indignanter,
+|ahi!~ idest heu vobis, |anime ingannate~, fallaci bono, |e
+fatture empie~, idest, creaturae crudeles contra vosmetipsas,
+negligentes proprium bonum vestrum, |che torcete i cuori~, idest,
+removetis intentionem vostram, |da s@i fatto ben~, ad quod creati
+sumus et naturaliter inclinamur.  
+
+	|13-15.  Ed ecco.~  Hic autor introducit mulierem
+modernam filiam Veneris.  Ad cuius cognitionem est breviter
+sciendum, quod ista fuit Cunitia soror olim Eccelini de Romano
+tyranni crudelissimi; recte filia Veneris, semper amorosa, vaga,
+de qua dictum est capitulo VI Purgatorii, qualiter habebat rem
+cum Sordello Mantuano; et cum hoc simul erat pia, benigna,
+misericors, compatiens miseris, quos frater crudeliter
+affligebat.  Merito ergo poeta fingit se reperire istam in spera
+Veneris.  Nam si gentiles cypriani deificaverunt suam Venerem, et
+romani suam Floram formosissimam et ditissimam meretricem, quanto
+dignius et honestius poeta christianus potuit salvare Cunitiam? 
+Dicit ergo ostendens affectionem suam erga se: |Ed ecco un altro
+di quelli splendori~ idest, spirituum splendidorum, |v#er me si
+fece~, Carolo recedente, |e significava il suo voler piacermi~;
+ista domina placidissima fuit in vita mortali, |nel chiarir di
+fuori~, idest in claritate exteriori, quia magis scintillabat
+quam prius.  
+
+	|16-18.~  Et subdit quod obtinuit licentiam loquendi cum
+illa, dicens: |gli occhi di Beatrice ch'eran fermi~, idest
+firmati et fixi, quia ipsa non removebat eos a cura eius, |fermi
+certificato~, idest, fecerunt me certioratum, |di caro assenso~,
+idest, grato consensu, quia conniventia oculorum dixit: loquere
+secum, |al mio disio~, idest, secundum quod desiderabam, |come
+pria~, idest, sicut prius fecerant quando primo loquutus fui
+Carolo supra. 
+
+	|19-21.  Deh.~  Hic autor ponit suam orationem ad dictum
+spiritum, dicens: |Dissi~, scilicet, ego Dantes: |o beato
+spirto~, quisquis sis, |deh! metti tosto compenso~, idest,
+remedium, |al mio voler~, quod tu bene nosti, |e fammi pruova~,
+idest experientiam, |ch'io possa in te rifletter quel ch'io
+penso~; quasi dicat: dic mihi, rogo te, quis es, ita quod possim
+aperire tibi conceptum meum.  
+
+	|22-24.~  Et subdit responsionem illius, dicens: |onde la
+luce~, anima clara, |che m'era ancor nuova~, quia nondum noveram
+quae esset, vel unde vel quare esset ibi, |seguette~, sine mora
+et cum laetitia, |come a cui di ben far giova~, idest delectat,
+|del suo profondo, ond'ella pria cantava.~  In hoc tangit quod
+anima ista cantabat profunde in contemplatione divina, antequam
+loqueretur autori, sicut dictum est supra, quod animae quae prius
+venerunt versus eum cantabant Osanna.  
+
+	|25-30.  In quella.~  Nunc iste spiritus describit primo
+locum suae originis et unius sui fratris famosi.  Ad
+declarationem literae praemittendum est, quod Eccelinus
+praenominatus, mortuo Friderico II, cui fuerat confoederatus,
+coepit exercere omnem saevitiam in tota Marchia Trivisana.  Qui
+Comes de Romano primo favore Monticulorum habuit dominium in
+Verona; deinde habuit Paduam, Vicentiam, Tervisium, Feltrum,
+Tridentum, et ultimo Brixiam.  Cum autem Eccelinus, medietatis
+pene totius Lombardiae dominus, esset in obsidione Mantuae cum
+forti exercitu, audita amissione Paduae captae per legatum
+ecclesiae, in rabie furoris reversus Veronam, omnes paduanos
+captos quos secum habebat numero duodecim millia, ferro, igne et
+fame consumpsit; et si quis inveniebatur fugiens, pedibus et
+manibus truncabatur.  Eccelinus consanguineis et amicis non
+pepercit.  Tandem Azo II Marchio Estensis, mantuani et
+cremonenses coniuraverunt contra eum.  Eccelinus autem sperans
+obtinere Mediolanum a quibusdam magnatibus, transivit Abduam; sed
+detecta proditione rediens, invenit flumen occupatum ab hostibus,
+et timens multitudinem mediolanensium a tergo cum Martino de la
+Turre, per medium vadum quaerens evasionem sagitta vulneratus est
+in pede.  Et quia senex erat et interclusus ab hostibus cum
+pervenisset ad alteram ripam, debellatus est et captus a
+Marchione Estensi et aliis, et ductus Sulcinu, nolens recipere
+curationem, infeliciter mortuus est, cum esset annorum quasi
+septuaginta et sine prole.  Regnavit Veronae annis triginta
+quatuor, excluso Comite sancti Bonifacii.  Albericus frater eius,
+licet impar potentia, attamen nequitia par, audita morte fratris
+eius, fugit de Tervisio, ubi erat crudelius tyrannus, ad arcem
+sancti Zenonis; ibi clausus viribus venetorum, proditione suorum
+traditus est adversariis.  Cuius lubricum corpus traditum est
+igni, filiis et uxore prius laceratis et inhumaniter trucidatis
+ante oculos patris.  Sic infra annum domus nobilissima et
+potentissima de Romano omnino defecit, quae magna in avo, maior
+in patre, in his duobus fratribus maxima fuit.  Nunc ad literam:
+dicit Cunitia ipsa soror istius Eccelini: |si leva un colle~,
+idest, parvus mons, in quo est Castellum nomine Romanum, |in
+quella parte~, scilicet Marchia Tervisina, |della terra prava
+italica~, quae est tantum depravata hodie, ideo meretur talem
+disciplinam.  Et describit Marchiam ipsam a suis confinibus,
+dicens: |che siede~, idest, situata est, |intra Rialto~, canale
+magnum est aquae marinae, quod dividit civitatem Venetiarum.  Ad
+quod est notandum, quod imperante Justiniano, Totila rex gothorum
+invasit Italiam et cepit Romam.  Quo tempore multi de provincia
+Venetia fugientes furorem et crudelitatem gothorum, cum rebus
+suis quas secum trahere poterant, fugerunt in paludes maris
+Adriaci et juxta Rivum altum condiderunt civitatem, quam Venetias
+vocaverunt, quia de diversis partibus Venetiae convenerant ibi;
+et in loco illo tuto coeperunt libere vivere suis legibus.  Et
+sic propter libertatem et securitatem loci et propter malum
+statum aliarum terrarum, civitas ista coepit crescere de die in
+diem, usquequo pervenit ad tam superbam potentiam: |e le fontane
+di Brenta e di Piava~; Brenta fluvius est, qui dividit Paduam et
+claudit, de quo alibi dictum est; Piava fluvius labitur per
+territorium Tervisii, et nascitur supra civitatem Belluni.  Et
+dicit: |e non sorge molt'alto~, quia humilis collis est, non
+longe a montibus altis in extremo territorii tervisini, |l@a
+onde~, idest, ex quo colle, |scese gi@a una facella~, scilicet,
+Eccelinus qui vere fuit fax ardens, immittens incendium in
+vicinos.  Ideo dicit: |che fece alla contrada~, scilicet,
+Marchiae Tarvisanae, |un grande assalto.~  Albericus vero fuit
+alia fax, ardens libidine; et Cunitia fuit ardens amore. 
+Eccelinus tamen non multum curavit de venereis.  
+
+	|31-36.  D'una radice.~  Hic Cunitia describit se a
+parentibus nomine et sorte, dicens: |Et io et ella~, scilicet,
+facula, |nacqui d'una radice~, idest, ex eodem patre et matre,
+nomine Adaleta, ut scribit Mussatus poeta paduanus; |Cunizza fui
+chiamata~, nomen proprium est, quasi connunciens, idest, vocans;
+|e qui rifulgo~, idest resplendeo in isto planeta Veneris
+fulgentissimae, |perch@e mi vinse il lume d'esta stella~,
+scilicet, Veneris, quia habuit praedominium supra me.  Et
+respondet quaestioni tacitae, quia posset obiici: quomodo ergo es
+salvata et beata? dicens: |ma lietamente a me medesma indulgo~,
+idest, remitto, |la cagion di mia sorte~, scilicet influentiam
+Veneris, |e non mi noia~, idest non moleste fero, |che parria
+forse forte al vostro vulgo~: bene dicit, quia ignorantes
+mirantur quod una famosa meretrix sit beata, non considerantes
+quod istud vitium est naturale, commune et quasi necessarium
+potissime juvenibus, ut postea dicetur.  
+
+	|37-42.  Di questa.~  Hic Cunitia ad confirmandum dictum
+suum manifestat aliam animam modernam, quae fuit semper amorosa
+in vita, et tamen post mortem est valde famosa.  Dicit ergo:
+|Grande fama~, scilicet, bona, qua nihil rarius, nihil tardius,
+nihil toto orbe praeclarius, quia procedit a virtute, |rimase~,
+in mundo, |di questa luculenta e cara gioia~, idest, luminosa et
+pretiosa anima, |del nostro cielo~, idest, de spera Veneris, |che
+pi@u m'@e propinqua~, idest, magis approximat mihi, quia est mihi
+magis conformis: haec erat anima cuiusdam Fulci de Massilia, ut
+postea dicetur.  Et tangit diuturnitatem famae istius hominis
+quae durabit adhuc quingentis annis, dicens; |e questo centesimo
+anno ancor s'incinqua~, idest, iste numerus centenarius annorum
+quinqies iterabitur.  Currebant enim tunc anni Domini mille
+trecenti, quando poeta habuit suam mirabilem visionem, |pria che
+muoia~, idest, antequam fama praedicti moriatur.  Et hic nota,
+quod autor videtur expresse dicere mendacium, cum de homine isto
+jam non sit fama etiam in propria patria: dico breviter quod
+autor vult innuere tacite, quod ipse dederit famam isti ratione
+virtutis eius, quae fama non morietur usquequo vivet liber iste,
+qui durabit per multa secula annorum et forte per millia annorum,
+si possumus coniecturare de futuro; quia videmus continuo, quod
+fama istius autoris crescit.  Et ex hoc autor exhortatur homines
+ad vivere virtuose, ut viri sapientes dent eis famam, sicut ipse
+jam dedit Cunitiae, et dabit Fulco.  Dicit ergo: |vedi se l'uom
+si de' fare eccellente~, scilicet in virtute, |s@i ch'altra vita
+la prima relinqua~, idest ut prima vita, scilicet, temporalis,
+relinquat aliam vitam perpetuam per famam.  Ideo bene dicit
+Quintilianus: ^Quoniam denegatur nobis diu vivere, relinquamus
+aliquid, quo nos vixisse testemur.~  Unde nota, quod naturaliter
+homo habet triplicem appetitum, conservandi scilicet individuum,
+speciem, et famam, ut dicetur adhuc in isto capitulo.  
+
+	|43-45.  E ci@o.~  Hic Cunitia ex dictis facit unam
+increpationem ad illos de provincia sua, qui hodie vivunt
+vitiose.  Et primo in generali, describens iterum provinciam a
+fluminibus, dicit: |E la turba presente~, idest, gens moderna,
+|non pensa ci@o~, scilicet, vivere virtuose, et per consequens
+relinquere famam, |che~, idest, quam gentem, |Tagliamento et
+Adice richiude~: Taliamentum est flumen provinciae Venetiae prope
+Concordiam non longe ab Aquileia quod dividit Forum Julii a
+Marchia Trivisina; et est flumen rapax et fallax.  Athesis est
+flumen quod labitur per Veronam ad modum serpentis tortuosi, de
+quo alibi dictum est.  Et quod est peius: |n@e per esser battuta~,
+idest flagellata per Eccelinum, qui Marchiam, viridarium
+voluptatum, fecit quasi heremum solitudinis desertae, |ancor si
+pente~, idest, non corrigitur, non emendatur; ideo nova poena
+paratur sibi.  
+
+	|46-48.  Ma.~  Hic Cunitia praenuntiat nova flagella in
+brevi eventura provinciae; et primo Paduae, quae prius fuerat
+tamdiu desolata per Eccelinum; postea fuit flagellata per alium
+tyrannum Veronae, qui vocatus est Canis Grandis de la Scala.  Ad
+quod est sciendum, quod paduani anno Domini MCCCXIV, magno
+apparatu belli, puta cum duobus millibus equitum, et viginti
+millibus peditum invaserunt Vicentiam, quae alias fuerat eorum. 
+Canis, juvenis strenuus et intrepidus, viso signo facium
+ardentium in turribus, Vicentiam incredibili celeritate venit. 
+Et considerato ex alta turri ordine hostium inordinatorum, per
+agros vagantium, cum minus centum equitibus et populi turba
+irruit super ducem paduanorum, qui dato tergo caeteros secum
+convertit in fugam.  Canis velut lupus inter oves, omnes
+dispersit cum parva caede; multi capti sunt, inter quos Jacobus
+de Carraria magnus princeps paduanus, et Mussatus poeta. 
+Paduanis pacem petentibus pax data est.  Post biennium iterum
+paduani per dolum tentant habere Vicentiam.  Canis cum Ugucione
+de Fazolla viro strenuissimo, explorata proditione, de nocte clam
+intravit Vicentiam; et de mane dato signo cum suis invadit
+hostes; de quo quidam veronensis metrice scripsit: ^Ecce Canis:
+fugiere lupi~ etc.  Turpius fuga facta est cum occisione multorum
+et captione plurimorum: captus est comes sancti Bonifacii dux
+belli, et magnifice honoratus a Cane magnanimo.  Et post paucum
+tempus Canis avidus ultionis recepit castellum nobile Montis
+silicis, quod distat a Padua per decem milliaria, et Estum
+castellum illi propinquum pulcrum et dives vi cepit cum magna
+caede et praeda incolarum.  Paduani ad defensionem sui agri
+mittunt quingentos equites cum magno numero peditum ad ripam
+parvi fluminis Bachilioni.  Canis ubique victor, illis debellatis
+et fugatis magna damna dedit.  De hoc videtur specialiter loqui
+litera.  Canis iterum pacem fecit cum paduanis intercessione
+venetorum cum gravibus conditionibus; tandem anno Domini
+MCCCXXVIII Canis libere et pacifice obtinuit Paduam, et anno
+sequenti Tervisium; et ibi fato invidente felicitati suae mortuus
+est.  Dicit ergo Cunitia: |Ma tosto fia~, idest erit in brevi,
+|che Padova~, potens civitas, |al palude~, idest juxta paludem
+vicinam, |canger@a l'acqua~, idest, permutabit faciendo ipsam
+rubeam sanguine suo, |che Vicenza bagna~; nam Bachilionus labitur
+per Vicentiam, ut alibi scriptum est.  Et certe Vicentia ante
+fuerat etiam flagellata tempore Eccelini, cremata et spoliata per
+Fridericum II.  Unde dicit: |per esser al dover le genti crude~,
+idest, male dispositae ad virtutem.  
+
+	|49-51.  E dove.~  Hic Cunitia praedicit mortem crudelem
+unius tyranni tervisini.  Ad quod est memorandum, quod Dominus
+Rizardus de Camino filius boni Gerardi, qui successerat patri in
+dominio Tervisii, quum una die luderet ad scacchos, subito
+transfixus est gladio ab uno Ribaldo sicario desperato,
+praesentibus fratre et consanguineis eius.  Et continuo sicarius
+trucidatus ab illi fertur dixisse istud verbum: hoc non fuit in
+pacto.  Ipse vero Rizardus moriens dicebat manu et nutu ne
+occiderent eum, ut sciretur quare hoc fecerat, cum tamen fratre
+et suis procurantibus hoc factum esset.  Ad literam ergo: dicit
+Cunitia: |Et tal~, idest, unus magnus et potens, |signoreggia e
+va con la testa alta~, idest superbe incedit, non timens sibi de
+insidiis suorum, |che gi@a per lui carpir si fa la ragna~, idest,
+jam texitur fraus ad circumveniendum ipsum, sicut avis capitur
+rete: est enim ragna quoddam genus retis, quo capiuntur aves:
+|dove Sile e Cagnan s'accompagna~; hoc est dicere, in civitate
+Tervisii.  Ista enim duo flumina coniunguntur in unum apud
+Tervisium; quae terra amoena multum abundat aquis puris et
+fontibus scaturientibus.  Et in tali loco saepe nascuntur venena
+quale fuit ipse Rizardus et domina Gaia soror eus. 
+
+	|52-60.  Pianger@a.~  Hic Cunitia praedicit aliud crudele
+facinus futurum per eadem tempora in civitate vicina suae.  Ad
+intelligentiam huius literae est primo sciendum quod mortuo Azone
+III Marchione Estensi, qui habuerat Beatricem sororem regis
+Roberti in uxorem, rex ipse Robertus habuit ad tempus dominium
+Ferrariae pro ecclesia.  Quum autem quidam dominus Pinus de la
+Tosa nobilis miles florentinus astutus esset vicarius Ferrariae
+pro rege, quam murari fecit, viri nobiles de fontana
+ferrarienses, seditione orta, fugierunt de civitate et
+transtulerunt se Feltrum, putantes se tutos in illa libera
+civitate, cuius liberum dominium in temporali et spirituali
+habebat episcopus eius.  Sed opera Pini, volente et consentiente
+episcopo, capti ducti sunt Ferrariam: ex quibus tres praecipui,
+scilicet Lanzalottus, Clarutius, et Antoniolus de Fontana,
+decapitati sunt cum multis aliis complicibus eorum in foro
+Ferrariae, et multi suspensi sunt laqueo.  Ad literam ergo, dicit
+Cunitia: |Feltro~, civitas in confinio Marchiae Tarvisinae
+|pianger@a ancora la diffalta~, idest defectum sceleratum,
+|dell'empio suo Pastore~, idest, Episcopi sui, qui fuit natione
+placentinus, qui bene luit poenas dignas, nam de mandato domini
+Rizardi praedicti fuit tantum percussus cum sacculis sabuli, quod
+emisit omnia viscera et sanguinem per egestionem: et populus
+etiam luit, qui venit de libertate in servitutem sub tyrannide
+ipsius Rizardi.  Et tangit atrocitatem sceleris, dicens: |che
+sar@a sconcia~, idest, enormis sine exemplo, quia alius sacerdos
+sceleratus non luit poenam pro crimine simili.  Unde dicit: |tal
+che per simile~, scilicet, culpam, |non s'entr@o in Malta~,
+scilicet, per alium sacerdotem ad tolerandam poenam.  Est enim
+Malta turris horrenda in lacu sanctae Christinae, carcer amarus
+delinquentium sacerdotum.  Unde sacerdos damnatus ad mortem per
+papam Bonifacium, clamabat: ^Peto benedictionem Patris mei~: et
+Bonifacio respondente: Pater tuus diabolus est: subiunxit ille:
+Et tu utique ille es; et meruit veniam.  Sed e contra, Abbas
+montis Cassini, qui non bene servaverat Coelestinum custodiae
+suae commissum, paucis diebus in pane tribulationis et aqua
+amaritudinis supervixit, afflictus in eodem carcere.  Et aggravat
+delictum propter magnam sanguinis effusionem, dicens: |troppo
+sarebbe larga la bigoncia~; biguncium est vas, quo utuntur
+tempore vindemiarum ad protandas uvas, apertum et amplum desuper,
+quod plenum facit dimidiam salmam asini; |che ricevesse il sangue
+ferrarese~, scilicet, civium occisorum; |e stanco~, scilicet,
+nimis esset, |chi 'l pesasse ad oncia ad oncia~, et verum dicit;
+nam homo inter animalia habet multum sanguinis; unde Galenus
+scribit de uno cui per nares effluxerunt viginti quinque librae
+sanguinis, et mortuus est.  Isti autem, quorum sanguinem fudit
+impius iste sacerdos, fuerunt plus quam triginta, ut quidam
+scripserunt; |che~, idest, quem sanguinem, |doner@a~, turpe donum
+et infamiae plenum, |questo prete cortese~, ironice intelligas,
+quia prodigus humani sanguinis, |per mostrasi di parte~, idest,
+ut videretur bene de parte ecclesiae et vere guelphus.  Et
+concludit: |e cotai doni conformi fieno al viver del paese~,
+idest, bene conveniunt viventibus vitiose in dicta Marchia.  
+
+	|61-66.  Su.~  Hic ultimo Cunitia respondet quaestioni
+tacitae; quia enim autor poterat dicere: quomodo potes tu
+praescire ista futura quae modo praenuntiasti? respondet quod a
+Deo mediantibus quibusdam intelligentiis.  Unde dicit: |Su sono
+specchi~, idest, apud Deum sunt angeli, |voi dicete Troni~, quos
+vos homines vocatis thronos; tertius enim ordo angelorum sic
+vocatur a throno judicii: nam per thronum potestas judiciaria
+designatur, quia Deus sedens in eis judicia sua discernit.  Ideo
+dicit: |onde~, idest, a quibus, |Dio giudicante~, idest, divinum
+judicium futurum, |rifulge a noi~, scilicet, ostendendo nobis
+futura contingentia; nam tales angeli movent speram Veneris, ut
+jam dictum est praecedenti capitulo, |s@i che questi parlar ne
+paion buoni~, idest, ista praedictio futurorum eventuum videtur
+nobis bona; ut saltem timore divini judicii homines caveant sibi
+a talibus sceleribus.  Et hic nota quod haec quae autor videtur
+praedicere tamquam futura jam erant praeterita quando scripsit;
+sed habet respectum ad generalem visionem suam quam habuit in
+MCCC.  Et tangit recessum istius animae, dicens: |qui si
+tacette~, idest, finem fecit sermoni suo, |e fecemi sembiante~,
+idest, signum, |che fosse ad altro volta~, scilicet, ad
+contemplationem Dei, |per la rota~, idest, coronam illarum
+animarum, quae movebantur circulariter, et cantabant dulciter,
+|in che si mise com'era davante~, scilicet, antequam veniret ad
+loquendum autori.
+
+	|67-69.  L'altra letizia.~  Ista est secunda pars
+generalis, in qua per comparationem autor introducit alium
+spiritum venereum modernum de quo Cunitia jam fecerat mentionem,
+scilicet Fulcum de Massilia.  Et primo describit qualis apparuit
+sibi, dicens: |L'altra letizia~, idest, alia anima laeta, |che
+m'era gi@a nota~, idest, quae jam fuerat manifestata mihi,
+|preclara cosa~, scilicet, quando Cunitia dixit supra: |di questa
+luculenta e cara gioia~; sed nondum erat sibi nota per nomen, |s@i
+mi fece in vista~, idest, in apparentia, talis, supple, |qual fin
+balascio in che lo sol percota~, scilicet, splendidam et lucidam:
+est enim balassus lapis etc.  Et est comparatio propria; sicut
+enim dictus lapis pretiosus repercussus radiis solaribus mire
+refulget; ita ista anima pretiosa repercussa radiis solis
+justitiae Dei.  
+
+	|70-72.~  Et subdit autor similitudinem et differentiam
+inter laetitiam coelestem et mortalem: similitudo stat in hoc,
+quod sicut laetitia humana manifestatur hic in mundo per risum;
+ita illa ibi per fulgorem; differentia est in hoc, quia facies
+beata est semper laeta, facies vero mortalis est saepe tristis,
+quando mens interior turbata est.  Dicit ergo bene: |fulgor
+s'acquista lass@u~, idest, splendor causatur in apparentia
+beatorum in coelo, |s@i come riso qui~, idest, in isto mundo
+mortali; sed hic risus cito cum fletu miscetur, sive ad nostrum
+cito sequitur planctus; unde dicit: |ma l'ombra di fuor~, idest,
+apparentia exterior, |s'abbuia gi@u~, idest, fit obscura in mundo,
+|come la mente @e trista~, idest, quam cito mens humana efficitur
+moesta aliquo casu.  
+
+	|73-75.  Dio vede.~  Hic autor facit suam petitionem ad
+dictam animam.  Et primo ad captandam benevolentiam praesupponit
+pro constanti, quod ista anima beata videt affectionem autoris,
+quia participat de divino lumine.  Dicit ergo: |Diss'io, o beato
+spirto, Dio vede tutto~, quia etiam occulta cordium videt, |e tuo
+veder s'inluia~, idest, participat de lumine eius, quia
+respiciens Deum tanquam speculum videns veritatem rerum, |s@i che
+nulla voglia de s@e~, idest, ipsius Dei, |puote esser fuia a te~,
+idest, furtiva et occulta tibi.  
+
+	|76-81.~  Et subdit petitionem suam, dicens: quare ergo
+si cognoscis meam intentionem non me contentas? certe ego non
+expectarem tuam petitionem si cognoscerem ita tuam voluntatem
+sicut tu cognoscis meam.  Dicit ergo: |dunque la voce tua, che 'l
+ciel trastulla~, idest, delectat, |sempre col canto~, scilicet
+osanna de quo dictum est supra, |di que' fuochi pii~, illorum
+thronorum vel principatuum, de quibus scribit Ezechiel propheta,
+ut patuit in Purgatorio, |che fannosi cuculla~, idest, habitum,
+|di sei ale~, sicut expositum est ibi, |perch@e non sodisface ai
+miei disii~, scilicet, dicendo mihi quis es, antequam petam de
+hoc: |gi@a non attendere' io tua dimanda~, idest, certe ego non
+expectarem tuam petionem, imo praevenirem te, |s'io m'intuassi
+come tu t'immii~, idest, si ego scirem ita cor et desiderium
+tuum, sicut tu scis meum.  Trahit enim autor unum verbum ex isto
+pronomine tu, et aliud ex isto pronomine ego.  Simili modo
+formavit supra aliud verbum in tertia persona, ubi dicit:
+|s'inluia~, quod sonat, intrat in eum; et ita |m'intuassi~,
+facerem me te, |t'immii~, idest, facis te me.  
+
+	|82-87.  La maggior.~  Hic autor ponit responsionem dicti
+spiritus ad suam petitionem: qui primo manifestat se a patria
+sua, quam artificialiter multipliciter describit, et incipit a
+longe describens mare in cuius imo littore posita est civitas
+Massiliensis.  Ad cuius plenam intelligentiam est primo notandum
+quod sicut tradunt omnes tam historici quam alii, quod tota aqua
+quae facit nobis mare mediterraneum quod labitur per nostram
+terram habitabilem, intrat terram inter Africam et Hispaniam in
+extremo Occidentis per angustum brachium, quod dicitur strictum
+Sibiliae juxta montem Gibeltanum etc.  Nunc ad literam dicit
+autor: |Le parole sue~, scilicet, illius, |incominciaro allor~,
+supple dicere: |la maggior valle in che l'acqua si spanda~,
+idest, mare mediterraneum, quod dicitur mare leonis; et facit
+exceptionem ad verificandum dictum suum, dicens: |fuor di quel
+mare~, scilicet oceanum, |che inghirlanda la terra~, idest cingit
+totam terram in circuitu in modum coronae, |tanto sen va~, idest,
+tantum extenditur per terram, |tra discordanti liti~, idest,
+inter duo litora quae sunt discordantia in omnibus, hinc enim
+sunt christiani, inde saraceni; hic frigus, ibi calor etc., |e
+contro al sole~, idest contra ortum solis sive levantem, |che fa
+meridiano~, quia scilicet vadit usque Hierusalem, quae est in
+medio nostrae terrae habitabilis, sicut dictum est plene secundo
+capitulo Purgatorii etc., et dicit: |l@a dove pria suol far
+l'orizzonte~, idest in qua terra habitabili dicta aqua facit
+horizontem antequam recedat ab Oceano et intret terram, quia in
+extremo terrae est horizon large loquendo.  
+
+	|88-90.  Di quella.~  Hic Fulcus, praemissa ista
+positione, nunc exprimit suam patriam, dicens: |Io fui littorano
+di quella valle~, idest, maritimus habitator in litore nostro
+huius maris mediterranei.  Et describit ipsam patriam a
+fluminibus, dicens: |tra Ebro e Macra~: est enim Ebrus fluvius
+apud civitatem Lunae per vallem, quae dicitur Lunisana in
+confinibus Tusciae.  Unde dicit: |che~, idest, qui Macra, |parte
+il Genovese dal Toscano~, juxta illud: |Tusciae confines mare,
+Macra, Tyber et Alpes.~  
+
+	|91-93.  Ad uno.~  Hic Fulcus adhuc describit clarius
+suam patriam, et a situ et a memorabili fato eius.  Et dicit
+primo quod Massilia et Bugea se ex opposito respiciunt, |Bugea~,
+quae est civitas in litore africano, |e la terra ond'io fui~,
+idest, Masilia, cuius ego fui civis, |siede quasi ad uno occaso
+et ad un orto~; hoc dicit, quia habent quasi eumdem meridianum;
+quasi dicat, quod Massilia tantum distat a levante et ponente,
+quantum Bugea quae est in litore adverso.  Et subdit: |che~,
+idest, quae terra mea, |fe' gi@a caldo il porto del suo sangue.~ 
+Ad quod est sciendum quod, sicut scribit Svetonius maior de bello
+civili, Caesar fugato Pompeio et senatu ex Italia, composita
+urbe, dum reverteretur in Hispaniam contra legatos Pompeii
+faciens transitum per Galliam pervenit Massiliam; cui
+massilienses clauserunt portas: quod Caesar moleste ferens ipsam
+obsidione cinxit, dimisso Bruto ibi legato suo, qui superatus in
+terra fecit bellum navale in mari.  Massilienses elati prima
+victoria congressi sunt secum et miserabiliter conflicti sunt: ut
+scribit Lucanus in quarto.  Et hic nota quod autor conatus est
+facere insignem descriptionem huius civitatis Massiliae tam
+ratione loci, quam ratione incolarum.  Habet enim haec civitas
+pulcerrimum et tutissimum portum, fuit semper liberrima, et
+habuit optimas leges et consuetudines, sicut patet apud Valerium,
+Livium, Pomponium, Justinum et alios plurimos; et fuerunt graeci
+etc.  
+
+	|94-96.  Folco.~  Hic dictus spiritus describit se a
+nomine proprio et a moribus suis.  Ad cuius evidentiam est
+praesciendum, quod Fulcus iste fuit filius Alphonsi Mercatoris,
+qui moriens dimisit eum divitem valde.  Ipse dedit operam valori
+humano et famae mundanae: sequutus est nobiles viros: dicebat
+pulcre et facunde in rhythmo; fuit valde acceptus et honoratus a
+Richardo rege Angliae, a Raynaldo comite Tolosano et a Barali de
+Massilia, in cuius curia conversabatur.  Nec miror, quia
+Massiliae sunt famosissimae mulieres.  Fuit siquidem Fulcus iste
+pulcer corpore, lingua disertus, pecunia liberalis; ergo vere
+venereus.  Adamavit autem Adalagiam uxorem Baralis; et ut magis
+tegeret suam culpam, simulabat se diligere duas sorores eius:
+propter quod factus suspectus fuit licentiatus ab illo.  Mortua
+uxore Baralis amarissimum dolorem concepit, sicut olim Dantes de
+morte suae Beatricis: et dedicavit se cum uxore et duobus filiis
+ad monasterium cisterciense.  Postea factus fuit abbas
+Torrinelli; demum episcopus massiliensis, de qua expulit
+haereticos.  Et sic vide, quod propter multa autor fecit
+singularem mentionem et commendationem de isto Fulco.  Nunc ergo
+ad literam, dicit iste: |Quella gente, a cui fu noto il nome mio,
+mi disse Folco~, et subdit suam complexionem, dicens: |e questo
+cielo~, idest, spera Veneris, |s'imprenta~, idest imprimitur, |di
+me, com'io fei di lui~; quasi dicat: ita apparet in eo mea imago,
+sicut apparuit in me eius influentia; quasi dicat: quia fui totus
+filius Veneris, ideo hic apparet umbra mea.  
+
+	|97-102.  Ch@e pi@u.~  Hic Fulcus explicat quantum
+influentia Veneris potuerit in eo tangendo tres immensos amores. 
+Et primo comparat amorem suum amori Didonis, quae tantum exarsit
+amore Eneae, quod illo recedente se proprio ense peremit, sicut
+jam saepe patuit.  Dicit ergo: |Ch@e la figlia di Belo~, idest,
+Dido regina Carthaginis quae fuit filia regis Beli, ut patet apud
+Virgilium; nec intelligas de Belo rege Assyriae patre magni Nini;
+|non arse pi@u di me, infin che si convenne al pelo~, idest, usque
+ad tempus quo coepi canescere, scilicet amore, quam ego.  Et
+dicit: |noiando et a Sicheo~, idest, se molestam reddendo vel
+displicendo primo viro suo Sicheo, de quo dictum est in Inferno:
+^e ruppe fede al cener di Sicheo~ etc., |et a Creusa~, quae fuit
+prima uxor Eneae, filia Priami regis Troiani; et tamen hoc quod
+dicitur de Didone est totum fictitium, ne dicam falsum, ut
+totiens dictum est.  Secundus amor, quem adducit Fulcus in
+exemplum sui amoris, est de Phyllide.  Phyllis namque regina
+Thraciae, ut patet apud Virgilium libro Bucolicorum, et Ovidium
+libro Epistolarum, recepit Demophoontem filium ducis Athenarum
+redeuntem ab excidio Troiae, tempestate deiectum, quassatis et
+laceratis navibus, capta eius amore; qui resumptus volens
+recedere promisit etc.  Illa amoris et morae impatiens se laqueo
+suspendit etc.  Dicit ergo Fulcus: |n@e quella Rodopea~, scilicet,
+Phyllis regina Thraciae, cuius mons est Rhodope, ideo vocat eam
+Rhodopeiam, |che fu delusa da Demofoonte~, qui fefellit fidem
+datam, sicut Jason Hypsypile.  Phyllis dicitur a phylos, quod est
+amor graece, quia tota amorosa: quamvis et thraces sint proni in
+Venerem, ut dictum est de Tereo rege Thraciae in Purgatorio;
+supple, non magis arsit amore quam ego Fulcus.  Tertius amor est
+de Hercule quando captus fuit amore Joles, qui tantum exarsit
+eius amore.  Ad quod sciendum, quod Hercules debellavit patriam
+Euryti regis Phrygiae; cuius filiae amore tantum exarsit, quod
+oblitus Deianirae totus erat subditus isti Jolae, quae induebat
+ipsum vestes muliebres, et faciebat ipsum muliebria facere, sicut
+filare, et alia homini ignominiosiora, sicut scriptum est in
+Inferno: ^parcite quaeso, judices~ etc.  Dicit ergo iste Fulcus:
+|n@e Alcide~, idest, Hercules magis arsit amore quam ego: et
+dicitur Alcides quasi virtuosus et formosus: |quando ebbe Jole
+richiusa nel cuore.~  
+
+	|103-108.  Non per@o.~  Hic Fulcus removet unam
+dubitationem quae videtur nasci ex verbis eius: posset enim autor
+dicere: quomodo tu beatus in ista spera coelesti enarras et
+rememoras mihi ista facta lubrica et voluptuosa?  Nonne doles et
+erubescis de tali culpa?  Respondet Fulcus, quare non tristatur,
+et de quo laetatur ibi.  Et ad huius textus intelligentiam
+expedit praenotare diligenter, quod ex opere venereo nascitur
+peccatum cum inordinate et illegitime vacatur venereis; et istud
+peccatum est abolitum et purgatum in istis spiritibus antequam
+ascenderent coelum.  Nascitur etiam et mirabile bonum, quia per
+solam viam generationis mundus inferior corruptibilis continuo
+labilis et caducus semper renovatur, reparatur et quodammodo
+perpetuatur; et sic fit coaeternus mundo superiori per istam
+successivam restaurationem; et hoc est illud bonum de quo
+loquitur hic.  Nunc ad literam; dicit Fulcus: quamvis ita
+intemperanter amaverim, |non per@o qui si pente~, idest,
+poenitentia vel tristitia habetur hic, quia hoc est impossibile,
+|ma si ride~, idest, laetitia habetur, |non della colpa che a
+mente non torna~, quia memoria peccati est extincta propter duo,
+scilicet, post purgationem et potationem aquae lethaeae, ut plene
+patuit circa finem Purgatorii, |ma del valore ch'ordin@o e
+provide~, idest, de virtute divina, quae ordinavit sua
+providentia tantum bonum per istam speram Veneris; unde subdit
+mirabile bonum et vere contemplatione dignum, dicens: |qui si
+rimira~, scilicet, per nos, |nell'arte~, scilicet generationis,
+|che adorna cotanto effetto~, idest, tanta affectione, quanta est
+in amore, decorat tam mirabili effectu; unde supra Purgatorii XXV
+capitulo dicit autor: |sovra tant'arte di natura~ etc., imo
+dicit: |e dicernesi il bene~, scilicet, mirabilis effectus et
+fructus, |perch@e 'l mondo di su quel di gi@u torna.~  Construe sic
+literam: |perch@e~, idest, propter quod bonum, |il mondo di gi@u,
+idest, mundus inferior, |torna quel di su~, idest, efficitur
+superior, quia assimilatur sibi; nam per opus gignendi mortalium
+rerum propagatur diuturnitas, ut ait Boetius; aliqui tamen
+exponunt sic: |perch@e 'l mondo di su~, idest, circularis natura
+coelestis, |torna quel di gi@u~, idest, tornat et circuit mundum
+inferiorem: sed ista expositio non videtur ad propositum; ideo
+prima magis videtur consonantiam habere et plus mihi placet,
+quasi dicat: execrabiles florenos per quos fiunt omnia.
+
+	|109-114.  Ma perch@e.~  Ista est tertia et ultima pars
+generalis in qua dicta Cunitia nominat aliam animam antiquam de
+sorte illa, et primo continuans se ad praecedentia tangit
+materiam sequentium, dicens: |Ma mi conviene procedere ancor
+oltre~, scilicet, ad dicendum de alia anima venerea, |perch@e ten
+porti tutte le tue voglie piene~, idest, omnia tua desideria
+satiata, |che son nate in questa spera~, idest quae tu concepisti
+scire in ista spera Veneris; de tribus enim animabus jam
+scivisti, nunc restat scire de una quarta.  Unde subdit: |tu vuoi
+saper chi @e in questa lumiera~, idest, quae est ista anima quae
+est in ista luce luminosa, |che cos@i scintilla~, idest, splendet,
+|qui appresso me~, a simili, |come raggio di sole in acqua mera~,
+idest, pura, scintillat.  
+
+	|115-117.  Or sappi.~  Hic Cunitia exprimit ipsam animam. 
+Ad cuius intelligentiam est praesciendum quod, sicut scribitur
+Josue in primis sex capitulis, cum Josue expugnaret terras
+promissionis etc.  Nunc ad literam dicit ista: |Or sappi che Raab
+si tranquilla~, idest, requiescit, |l@a entro~, idest, intra illud
+luminare, |e congiunta a nostr'ordine~, in ista spera venereorum,
+|di lei si sigilla nel sommo grado~, idest, cuius imago apparet
+in supremo gradu istius sperae, cuius influentia ipsa impressa
+fuit.  
+
+	|118-126.  Da questo.~  Hic Cunitia assignat tamen quare
+ista mulier tam lubrica et libidinosa sit posita in tam alto
+gradu beatitudinis; et dicit quod hoc est propter opus pium, quod
+ipsa misericorditer fecit erga populum Dei, unde dicit: et illa
+Raab, |fu assunta~, idest, recepta, |da questo cielo~, scilicet
+Veneris, |in cui l'ombra che 'l mondo vostro face~, idest, ad
+quod coelum terminatur umbra quam facit terra, quia umbra terrae
+jacit cornu suum usque ad speram Veneris, ut aliqui volunt; et
+dicit: |pria ch'altr'alma~, idest, priusquam alia anima, |del
+trionfo di Cristo~, quasi dicat, quod fuit salvata et beatificata
+in coelo priusquam alia anima de secta venereorum, quando
+Christus triumphavit de morte et diabolo; qui resurgens descendit
+ad inferos, et spoliavit limbum et rapuit praedam.  Et reddit
+rationem quare prima fuit assumpta in coelum istud, dicens: |ben
+si convenne~, scilicet, |lasciar lei per palma in alcun cielo~,
+idest, conveniens fuit quod ostenderetur in ista spera Veneris,
+de cuius influentia fortiter impressa et conditionata in memoriam
+tanti beneficii; et dicit: |dell'alla vittoria che si acquist@o~
+con |l'una e l'altra palma.~  Et hic nota quod aliqui exponunt
+istam literam sic: quando, scilicet, utraque manu traxit et
+deposuit per fenestram exploratores Josue, et sic dedit victoriam
+sibi.  Alii tamen exponunt quod victoria parta fuit orationibus
+Josue et manibus populi.  Sed certe utraque expositio supervacua
+est; quia si quis bene inspiciat istud dictum non refertur ad
+victoriam Josue, quae postea sequitur in litera, imo refertur ad
+victoriam Christi praecedentem, quia jam dixit: |del trionfo di
+Cristo~; ideo litera exponatur sic: |dell'alta vittoria~,
+scilicet, Christi qua nulla unquam fuit altior, |che s'acqust@o~,
+idest, quam victoriam ipse Christus acquisivit, |con l'una e
+l'altra palma~, quia utraque manu fuit affixus cruci; et ecce
+quare: |perch'ella favor@o la prima gloria~, idest, gloriosam
+victoriam, |di Josu@e~, quando primo transivit Jordanum et cepit
+Jericho.  De isto Josue dicetur in capitulo huius Paradisi; |in
+su la Terra santa~, scilicet, Jerusalem, ubi Christus propter
+redemptionem humani generis fudit suum sanguinem, et sustinuit
+mortem corporalem; quod modicum tangit memoriam papae; unde per
+modum digressionis dicit: |che poco tocca la memoria al papa~,
+scilicet, Bonifacii, qui tunc sedebat et faciebat guerram cum
+christianis, non cum saracenis, ut plene dictum est Inferni
+capitulo XIX; et tamen debuisset facere bellum cum saracenis,
+quia habebat tunc materiam.  
+
+	|127-135.  La tua citt@a.~  Hic Cunitia facit unam
+antiphoram; posset enim quis petere: unde est quod memoria terrae
+sanctae non tangit papam? respondet: quia cura simoniae et
+cupiditas cumulandi pecuniam aufert sibi memoriam recordandi quod
+illa terra fuit consecrata, et quod fuit prima sedes Christi et
+summi pontificis, cuius ipse papa est vicarius; huius autem
+cupiditatis causam dicit esse Florentiam, unde manat semen
+avaritiae.  Dicit ergo Cunitia Danti: |La tua citt@a~, scilicet,
+Florentia, |che @e pianta di colui~, idest, planta diaboli, |che
+pria volse le spalle al suo Fattore~, idest, qui Lucifer ante
+omnem creaturam factus est rebellis Deo creatori suo, |e
+l'invidia di cui @e tanto pianta~, idest, et cuius Luciferi
+invidia tantum deploratur ab hominibus, quia diabolus invidia
+motus fecit hominem cadere in peccatum; ex quo lapsus est in
+tantam miseriam quod semper vixit in planctu, |produce~, quia
+condit et fabricat, e |spande~, quia per mundum diffunditur, |il
+maledetto fiore~, scilicet, lilium; per hoc innuit florenum, in
+quo impressum est lilium ex una parte, et Joannes Baptista in
+alia, |c'ha disviate le pecore e gli agni, perocch@e ha fatto lupo
+del pastore~, quasi dicat, quod non solum florenus est causa
+retrahendi papam a memoria terrae sanctae, sed etiam removendi
+ipsum pastorem a proprio officio, quod est custodire gregem
+Domini sui, ex quo sequitur deviatio pecorum et agnorum a proprio
+pabulo, scilicet ab evangeliis, epistolis, praedicationibus et
+orationibus, quia vacatur solum decretalibus; unde dicit: |per
+questo~, scilicet, florem, |l'Evangelio e i Dottor magni~, qui
+docent salutem animarum, |son derelitti~, idest, neglecti, |e
+solo si studia ai Decretali~, quae tradunt beneficia, lucra, et
+honores etc., quod signa evidentia demonstrant; unde dicit: |s@i
+che pare ai loro vivagni~, idest, vestibus eorum sumptuosis,
+variatis: vivagnum enim vocatur extremitas panni, per quod pannus
+cognoscitur.  Vadunt enim pastores moderni cum mantis amplis,
+subtilibus, mollibus, de quibus dicetur plenius inferiori
+capitulo.  
+
+	|136-138.  A questo.~  Hic autor repetit quod dixerat,
+dicens: |Il papa e i cardinali intende a questo~, scilicet,
+cupiditati pecuniae, et decretalibus cupiditatis causa; |e i lor
+pensieri non vanno a Nazarette~, quae est de terra sancta, |l@a
+dove Gabbriello aperse l'ali~, scilicet, tempore Annuntiationis. 
+
+	|139-142.  Ma Vaticano.~  Hic ultimo ostendit quomodo
+cito ad culpam sequitur vindicta, et praedicit mortem miserandam
+ipsius Bonifacii: |Ma Vaticano~, quod est cimiterium ubi sepultum
+fuit corpus beati Petri, et multorum aliorum Pontificum, |e
+l'altre parti elette di Roma~, scilicet a Deo, in quibus sunt
+corpora multorum martyrum et templa sanctorum; unde dicit: |che
+son state cimitero alla milizia~, scilicet, martyrum et sanctorum
+qui pugnaverunt usque ad mortem pro fide Christi et Ecclesia Dei,
+|che seguette Pietro~, quia militaverunt sub signo Petri, et
+militando perierunt, |tosto fien libere dell'adult@ero~, idest, ab
+ipso Bonifacio adultero, qui non legitime accepit sponsam
+Christi, scilicet Ecclesiam, ut alibi saepe dictum est; quando
+enim accepit sponsam vivebat eius legitimus vir Caelestinus; vel
+dicas ab adulterio Bonifacii quod commisit cum sponsa, idest
+Ecclesia Dei, quae habebat Caelestinum in suum verum pontificem. 
+Et in hoc praedicit mortem Bonifacii, qui tertio anno postea
+captus est et turpiter mortuus.

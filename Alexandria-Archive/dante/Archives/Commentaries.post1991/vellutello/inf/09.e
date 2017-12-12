@@ -1,0 +1,673 @@
+|INFERNO CANTO 09~
+
+	|Proemio.~  SEGUITA il Poeta nel presente canto la
+medesima materia lasciata nel precedente, & dimostra che Vir.
+dissimul@o l'ira conceputa per la resistenza fattali da demoni, a
+ci@o che egli, che gi@a per tal cagion temeva, non temesse pi@u, &
+che nondimeno, per alcuni imperfetti parlari d'esso Virg. pur
+ancora temendo, per esser certo del timore, move un dubio, se
+alcuna anima posta nel limbo discende mai al fondo di quello
+Inferno, il qual dubio @e resoluto da Virgilio, per assicurarlo,
+di s@i, & dice egli stesso esservi disceso.  Vede poi in cima
+della torre, che soprastava alla porta della Citt@a, le tre
+Infernali furie con loro habiti & atti, e spaventose parole ad
+udire, & dopo questo, l'angelo che viene a confonder l'arrogantia
+de' Demoni, & che apre loro la porta, da laqual volgendo poi i
+passi, & tornandosene per la via ch'era venuto, essi entrarono
+per quella nella Citt@a senza contraditione, ove rimirando
+intorno, vedono esser gran campagna tutta piena d'affocate
+sepolture, dentro a lequali havendo inteso da Virgilio esser
+puniti i principi de l'heresie co' seguaci loro, ultimamente
+volti a destra, passano tra le sepolture, & l'altre mura della
+Citt@a.
+
+	|1-3.~  QUEL color, che vilt@a di fuor mi pinse.  Era
+Dante, per l'acceso color di Virgilio, vedendolo tornar In volta,
+cio@e, A dietro nella forma, & per la cagione, che nel precedente
+canto habbiamo veduto, de la paura diventato pallido, & smorto,
+di che avedutosi Virgilio per non sbigottirlo pi@u, ristrinse
+dentro l'acceso & novo suo colore piu tosto di quello che haveria
+fatto, se del pallido color di Dante non si fosse aveduto, & cosi
+quel color che vilt@a, & paura pinse, & mando fuori nel volto di
+Dante, ristrinse pi@u tosto dentro il nuovo colore di Virgilio.
+
+	|4-5.~  ATTENTO si ferm@o, Aspettava a Virgilio l'angelo,
+che venisse ad aprir loro la porta della Citt@a: ma per lo nero, &
+oscuro aere dell'Inferno, & per la folta nebbia, che usciva della
+palude, non lo poteva veder venire molto di lontano, onde dice,
+che l'occhio nol potea menar alla lunga, & per@o si ferm@o intento
+ad ascoltare se l'udiva venire, da che l'occhio nol poteva servir
+del vedere, & moralmente, s@a l'humana ragione, come di sopra
+habbiam gi@a detto, che l@a, dove @e la ferma & buona volont@a, se
+avien che manchino l'humane forze, il nostro Signo Iddio
+supplisce col suo santo, & divino aiuto, ma l'occhio, cio@e, ma
+l'humano intelletto.
+
+	|6.~  PER l'aer nero, per l'intendimento oscuro.  ET PER
+la nebbia folta, & per la molta ignorantia.  NON lo potea menar
+la lunga, non poteva intendere, quando, & come tal divino aiuto
+dovesse venire, per non esserne capace, & per@o si ferm@o ad
+aspettarlo.  COM'HUOM, ch'ascolta, come huomo, ilquale aspetta di
+sentir venir quello, che non puo vedere, non essendo la divina
+gratia, cosa che si possa discerner con l'occhio corporale: ma si
+ben dentro da l'animo sentire.
+
+	|7-9.~  PUR a noi ci converr@a vincer la punga, cio@e la
+pugna, la gara, & il contrasto.  COMINCI@O ei, cominci@o Virgilio a
+dire.  SE non, Se Virgilio non havesse interposte queste due
+parole, Se non, nella presente sua cominciata oratione finita dal
+Poeta, seguitando poi TAL ne s'offerse, cio@e tale offerse se a
+noi, era della medesima sententia di quella del precedente Canto,
+quando disse, <NON temer che il nostro passo non ci puo tor alcun
+da tal ne dato> {Dante. ^Inf.~ 8.104-105}, ma queste due diverse,
+& contrarie parole dalle prime della oratione, & senza alcuna
+consequentia, feron, come vedremo, sospettar Dante.  O quanto
+tarda a me CHE altri qui giunga, intendendo de l'angelo, che gli
+aspettava; percioche il perder tempo a chi piu s@a, piu spiace.
+
+	|10-15.~  Io vidi ben si come ei ricoperse.  Avedesi
+Dante si come Virgilio ricoperse il cominciar della sua oratione,
+che fu.  PUR a noi converr@a vincer la punga, Con altro che venne
+poi, cio@e con dire, Se non, perche furon parole diverse alle
+prime, interrompendo il proposito di quelle, ma non puote fare,
+che non li desse paura, perche Dante traeva, cio@e interpretava LA
+tronca parola, la interrotta oratione.  FORSE a peggior sententia
+che non tenne, forse a piu reo fine, che Virgilio non la diceva,
+perche Dante, come vedremo ne seguenti versi, intese che Virgilio
+a quelle parole: Se non, volesse aggiungere, havesse forse errato
+la via, ma che per non impaurirlo, pentendosi d'haver cominciato
+ad esprimer tal dubio, lassasse di finirlo, & tornasse alla
+cominciata oratione, Et di questo finge Dante temere, & nondimeno
+intese che Virgilio volesse seguitar a quel, Se non m'inganno, &
+non che Virgilio intendesse di potersi ingannare, ma per certo
+modo di dire, come quando, ancor che siamo certi della cosa,
+diciamo: Io so, s'io non m'inganno, che la tal cosa mi debbe
+riuscire, ma lassasse di finir di dire, accioche Dante fermamente
+non tenesse, che egli si potesse ingannare.  Ordina adunque cosi
+il testo.  A noi converr@a pur, se non m'inganno, vincer la punga,
+Tal ne sofferse, tale offerse a noi, intendendo di Beatrice, da
+laqual Virgilio era mandato, che gli disse: Quando sar@o dinanzi
+al signor mio, Dice mi loder@o sovente a lui.  Se adunque Virgilio
+era mandato da Beatrice, & che ella se gli era offerta di spesse
+volte lodarsi di lui innanzi a Dio, Poteva Vir. esser certo, che
+l'impetrerebbe gratia da poter vincer ogni difficult@a.  Tutte
+queste cose sono introdutte dal Poeta per dimostrar quante arti,
+@e necessario, che usi la ragione in farsi a poco a poco obediente
+il senso, & torgli via la ignorantia, che ad ogni passo lo fa
+dubitare.
+
+	|16-21.~  QUESTA @e la domanda, che fa Dante a Virgilio
+per chiarirsi del dubio, che di sopra habbiamo detto, c'havea,
+che egli non l'havesse ben saputo guidare, & credevasi esser
+giunto al fondo dell'Inferno, perche questo quinto cerchio,
+dalqual @e contenuta la palude Stige, @e ad un medesimo pari con la
+Citt@a di Dite, laqual @e intesa per lo sesto cerchio, & non si
+discende de l'un ne l'altro, come habbiamo veduto che hanno fatto
+in quei disopra, & vederemo che saranno in quei di sotto a questi
+due, onde dice. IN questo fondo de la trista conca; ma
+rispondendogli Virgilio, gli dimostra, come vedremo, esservi
+luogo molto pi@u basso ancor di quello.  De la trista conca,
+assimiglia questa valle inferna ad una conca, laqual @e vaso di
+terra, overamente di legno, che nella sboccattura @e larga, &
+vassi a poco a poco fino al fondo sempre stringendo, & cosi ha
+finto far di cerchio in cerchio questo suo Inferno, & chiamala
+trista, per esser tutta piena di tristitia, & il medesimo
+significare, come habbiamo gi@a detto, questa palude, discende mai
+alcun DEL primo grado, cio@e, del primo maggior cerchio, inteso
+per il limbo, CHE ilqual primo grado, ha per pena, CIONGA, cio@e
+tagliata, & tolta via la speranza, dando al luogo quello, ch'era
+de l'anime che lo possedevano, che di tal primo grado @e, che
+senza speme vivono in disio, & in sententia, domanda Dante, se de
+l'anime del primo cerchio ne discende mai alcuna in quel fondo de
+lo Inferno, & questa dice esser la questione, che mosse a
+Virgilio, ilqual gli risponde, che di rado incontra, che alcun di
+loro faccia il camino, per loqual egli allhora andava, intendendo
+moralmente, che di rado aviene, che alcuno entri nella
+contemplatione de' vitij per conoscergli, come egli faceva
+allhora,
+
+	|22-30.~  ma esser ben vero, ch'altra fiata egli vi fu
+CONGIURATO, cio@e costretto, da quella cruda Eritone.  CHE
+richiamava l'anime a' suoi corpi.  Eritone, secondo Luca{no} nel
+vj. fu femina maga in Thessaglia, laqual ad instantia di Pompeio
+figliuolo di Magno, trasse una anima d'Inferno, per farsi dire
+che fine dovessero haver le guerre civili de' Romani {Lucan.
+^Phars.~ 6.508-827}.  Finge adunque Dante, che Virgilio fu
+costretto da lei a discender fin al centro dell'Inferno, per
+trarre questa anima fuori del cerchio di Giuda, cio@e della
+Giudecca, cosi detta, secondo lui, da Guida Scariotto, che trad@i
+Christo, & quando and@o a far questo dice, che LA carne, cio@e il
+suo corpo, era di poco tempo, nuda & spogliata di lui, cio@e de
+l'anime che lui era, & in sententia, che egli era di poco tempo
+innanzi morto, perche in vero, egli mor@i al tempo d'Ottaviano
+Augusto, sotto del quale terminaron medesimamente le guerre
+civili.  Fece adunque Eritone entrar Virgilio, DENTRO da quel
+muro, dentro da la Citt@a di Dite, per trar del cerchio di Giuda
+uno spirito & questo dice esser il pi@u basso luogo, il pi@u
+oscuro, & il pi@u lontano dal Cielo.  CHE tutto gira, ilqual Cielo
+move il tutto in giro, intendendo esser il luogo pi@u lontano da
+Dio, perche la sedia sua si @e il Cielo empireo stabile, & fermo,
+che gira, & move tutti gli altri Cieli, & consequentemente tutte
+queste cose inferiori: onde Boetio. <Stabilis que manens dat
+cuncta moveri> {Boeth. ^Cons.~ 3.m9.3}.  Et quello @e il pi@u
+basso, e il pi@u oscuro luogo, essendo posto (come habbiamo veduto
+nella descrittione di tutto l'Inferno) intorno al centro
+universale, & questo in beneficio di Dante serve a due cose,
+l'una, che lo leva d'errore, che quivi dove egli era allhora
+fosse il fondo dell'Inferno, onde disse. IN questo fondo de la
+trista conca, &c.  L'altra, che l'assecura del camino, perche
+dicendo Virgilio essere stato fin al fondo, ragionevolmente ha da
+intendere, che lo sapr@a guidar per tutto, onde dice saperlo bene,
+& per@o che egli si debba assicurare, di che l'habbiamo di sopra
+veduto dubitare, & per questo havergli mosso il dubio.  Questo
+medesimo, d'esservi stato altra volta, afferma ancora, come
+vedremo nel duodecimo canto, ove della roccia rovinata del
+settimo cerchio dice. <HOR vo che sappi, che l'altra fiata, Ch'io
+qu@a gi@u nel basso Inferno, Questa roccia non era ancor cascata>
+{Dante ^Inf.~ 12.34-36}, & per@o non @e da dire, che il Poeta
+finga, che Virg. lo dica solamente per assicurarlo, & non perche
+voglia inferire (come alcuni dicono) che non vi discendesse mai. 
+Finge adunque esservi, con effetto un'altra volta disceso.
+
+	|31-33.~  DIMOSTRA il Poeta, che Virgilio, per levarlo
+d'errore, che quivi fosse il fondo de lo Inferno, seguitasse in
+dirgli la conditione del rimanente di quello, cominciando, come
+quella palude, che spirava & mandava fuori il gran puzzo &
+fetore, (come naturalmente soglion le paludi fare) cingea
+d'intorno la dolente Citt@a di Dite, perche quelli che vi sono
+dentro tormentati, vengon ad esser circondati da molto dolore. 
+U, cio@e ove, o ne laqual Citt@a.  NON potremo entrar homai
+senz'ira, ove habbiamo da notare, che l'ira @e di due spetie,
+l'una @e vitio, & @e quando nasce d'appetito di vendetta, & secondo
+il Poeta, si punisce in questo luogo.  L'altra @e virt@u, & @e
+quando nasce di havere l'animo edificato al bene, & adirasi
+l'huomo virtuoso, quando fuori di ragione vede seguire il male,
+come fece Virgilio de l'arrogantia de' Demoni, & di questa @e
+scritto. <Irascimini, & nolite peccare> {Psalm. 4:5}.  Non
+potevano adunque entrar nella dolente Citt@a senz'ira, per haverla
+gi@a Virgilio conceputa contra essi demoni,
+
+	|34-37.~  ET altro disse, ma non l'ho a mente.  Finge il
+Poeta, che Virg. per levarlo gi@a del detto errore, seguit@o ne
+l'altre conditioni de la Citt@a, quello, che in effetto vedremo
+che sar@a nel xj. canto, ove cominciando dice: <Figliuol mio
+dentro da cotesti sassi> {Dante ^Inf.~ 11.16}, & non parendogli
+questo luogo a proposito, per havere a trattare della materia gi@a
+cominciata: ma dice, che per haver l'occhio tutto tratto, &
+indrizzato verso la rovente cima de l'alta torre, che soprastava
+alla porta della Citt@a, ove in un punto, & ratta mente vide
+drizzar tre furie infernali tinte di sangue, che haveano membra &
+atto feminile, egli non ha a mente quello che egli si dicesse, a
+dimostrare, che quando il senso @e oppresso da qualche passione, o
+perturbatione, si devia tanto dalla ragione che per essere
+l'occhio della mente tutto occupato in quelle, quantunque intenda
+le sue ammonitioni, non le riceve in forma che se ne possa poi a
+tempo ricordare.  Vide adunque tre furie in un punto dritte
+ratto, a dinotare la bestial audacia & subitezza del furioso. 
+L'altra torre significa la sua superbia, la rovente cima,
+l'ascensione de l'ira.
+
+	|38-39.~  TINTE di sangue, perche dal furore nascono le
+risse, & l'occisioni, & haveano membra, & atto feminile, che
+significa il furore essere maggiore, perche nella femina @e minor
+animo, che nel maschio da poterli resistere.
+
+	|40-42.~  Sono cinte di verdissime hidre.  Hidr{a} @e
+serpe di sette teste, & secondo le favole, chi ne taglia una ne
+nascono sette, a dinotare l'indomita natura del furioso, perche
+noce in diversi & vari modo, & chi cerca pur un poco di
+mitigarlo, salisce ancora in molto maggior & bestial furore.  Il
+color verdissimo dinota il suo pestifero veleno, perche non @e
+crudelt@a, n@e morte si horrenda, che per vendicarsi, possa
+satiare, o pareggiare la sua rabbia.  Haveano per crini
+Serpentelli Ceraste.  Ceraste, secondo Plinio, sono serpi in
+Libia cornuti & molto venenosi & nocivi.  Adunque li loro capelli
+erano serpentelli di quella spetie, de' quali, le tempie loro
+erano avinte, & circondate.  Di questi, & d'altri tratta Lucano
+nel nono, ove dice. <Concolor exustis atque indiscretus harenis,
+Ammodites, spinaque vagi torquente Ceraste> {Lucan. ^Phars.~
+9.715-716}.  Questi dinotano per le corna, i troppi arditi, &
+temerari, & per il veleno, i mali pestiferi pensieri, de' quali
+la mente del furioso @e sempre circondata, & oppressa, perche non
+solamente noce, ma sempre pensa di voler nocere.
+
+	|43-45.~  ET quei, cio@e Virgilio che conobbe ben, Le
+meschine, sono le furie veramente meschine, havendo perduto la
+quiete dell'animo, che suol inducer somma tranquillit@a, & cadute
+in estrema inquietudine, che induce l'huomo a somma disperatione. 
+Della regina dell'eterno pianto, cio@e di Proserpina figliuola di
+Giove & di Cerere Dea, secondo Ovidio, nel v. rapita da Plutone
+Dio dell'Inferno, ove sono gli eterni pianti de' dannati. 
+Guarda, mi disse, le feroci Erine, Erine sono domandate da Greci
+le furie.
+
+	|46-48.~  Questa @e Megera dal sinistro fianco: Ha il
+Poeta a trattar di tre vitij, che nascono da malitia, & da
+malignit@a & perversit@a d'animo, cio@e dell'heresia, laqual, come
+vedremo, pon che sia punita nel sesto cerchio, o vogliamo dire,
+immediate dentro alla Citt@a di Dite, della violentia nel settimo,
+& della fraude, secondo le sue due principali spetie,
+nell'ottavo, & nel nono cerchio inteso per il pozzo de' giganti,
+& si come quelli, che solamente nascono da fragilit@a, &
+incontinentia, de' quali ha per fin @a qu@i trattato, sono stati da
+lui figurati dalla natura delle tre fiere, che l'impediron la
+salita del colle, cosi hora tragge la natura di questi tre, che
+nascono, come habbiamo detto, da perversit@a d'animo, dal
+significato de' nomi delle tre Infernal furie, & secondo quelle
+li dispone, perche pon Megera, laqual significa odio, come
+pessima di tutte, dalla sinistra parte, cosi medesimamente fa la
+fraude, & massimamente di quella spetie usata in chi si fida, da
+lui distinta dall'altre spetie, come vedremo nel xi. canto,
+mettendola, come pessimo di tutti gli altri vitii, nel pozzo de'
+giganti pi@u presso al centro, & conseguentemente pi@u lontano dal
+Cielo, che vien ad esser la parte sinistra.  Aletto significa
+inquietudine, & come men rea, la pon dalla parte destra.  Questo
+medesimo fa dell'heresia ponendola nel sesto cerchio.  Tisifone
+significa vendicatrice, & mettela in mezzo all'altre due, il
+simile fa della violentia ponendola nel settimo cerchio, ilquale
+@e in mezzo dell'ottavo, ove @e posta la fraude, & del sesto, ove @e
+posta l'heresia.  Megera adunque, che significa odio, @e posta in
+luogo della fraude, che da odio nasce, & massimamente quella
+della spetie, che habbiamo detto di sopra, perche la fraude non
+si usa mai verso la persona che si ama, ma si ben verso quella
+che si odia, & si come l'odio st@a celato fin che vien il tempo da
+disfogarlo, cosi fa la fraude fin al tempo di discoprirla. 
+Aletto, che significa inquietudine, @e posta in luogo
+dell'heresia, perche non essendo la verit@a, che una sola, & si
+come quelli, che la trovano & intendono s'acquetano in quella, n@e
+altro cercano fuor di lei, cosi l'heretico, che non la trova, &
+se la trova non la intende, v@a sempre d'una in altra opinione
+vacillando senza mai propriamente fermarsi in una.  Tesifone, che
+significa vendicatrice, pone in luogo della violentia, perche
+quella si fa, o nella robba, o nella persona di colui, sopra di
+chi la vendetta cade.
+
+	|49-51.~  HA descritto l'habito, hora descrive i costumi
+del furioso, iquali sono di non solamente di nocer ad altri, ma
+spesse volte ancor a se medesimo, onde dice, che le furie si
+fendevano con l'unghie il petto, & battevansi, a Palme, cio@e, con
+le palme de le mani, le quale cose dinotano estremo furore, ma
+per fendersi il petto con l'unghie, moralmente intenderemo, che
+il furioso col rabbioso suo veleno (stando quello ancora ne
+l'unghie) SI fende il petto, cio@e, Discopre le sue horrende
+cogitationi del cuore.  Et per battersi a palme, le scelerate
+opere, che da tali horrende cogitationi seguono, perche l'opere
+sono proprie de le mani.  ET gridavan si alto, che Dante si
+strinse per sospetto a Virgilio.  Perche essendo questo intese
+per le diaboliche illusioni, GRIDAVAN si alto, risonavan si forte
+in Dante, cio@e, nel senso, come gi@a fatto obediente alla ragione,
+che per sospetto, che tali tentationi da quella non l'havessero a
+divertire, si ristrinse, & accostossi a lei.
+
+	|52-54.~  VENGA Medusa si'l farem di smalto, Medusa,
+secondo Ovidio nel quarto fu amata, & conosciuta da Nettuno nel
+tempio di Pallade, delqual sacrilegio sdegnata la Dea, convert@i
+i capegli de Medusa che prima eran bellissimi, in serpentelli, &
+diede, che tutti quelli che la vedeano diventassero pietra.  Per
+costei moralmente intesero i caduci, & frali ben terreni,
+disordinatamente appetiti da gli huomini, perche veduti, cio@e
+considerati: quelli, & riputandoli perfetti beni, tanto ne vengon
+desiderosi, che diventon pietra, cio@e, son fatti stupidi, &
+insensati, n@e ad altro che a quelli soli possano, n@e vogliano
+indrizzar l'animo.  Era adunque il gridar delle furie, cio@e il
+persuader delle diaboliche tentationi.  VENGA Medusa.  Volendo
+appresentar dinnanzi a Dante, inteso per il senso, per
+allettarlo, questi bassi, & caduchi beni, per@o dice, che
+guardavano in gi@u, onde il Salmista, <Saturaverunt oculos suos
+declinare in terram> {Psalm. 16:11}.
+
+	|55-60.~  VIRGILIO inteso per la ragione, ammonisce il
+senso, a ci@o che non gli entrino in consideratione, perche
+leggiermente gli appetirebbe, che si debba volger in dietro, &
+tener chiuso il viso, cio@e, la consideration de l'intelletto,
+perche SE'L Gorgone, cio@e se Medusa, laqual con Steno & Euriale
+sue sorelle furon detto Gorgone si mostra, & che egli il vedesse,
+cio@e se questi falsi beni se gli appresentassero, & che gli
+entrassero in consideratione.  DI TORNAR mai suso, cio@e di tornar
+alla contemplatione delle divine, & sante cose, alle quali havea
+prima, salendo il colle, dato principio, ma che fu impedito dalle
+fiere.  NULLA sarebbe, ogni opera sarebbe vana, perche allettato
+il senso dalla dolcezza di questi falsi beni, si ribelleria dalla
+ragion, da laqual sola pu@o esser indrizzato, ma non condotto,
+come vedremo, a tal contemplatione.  Et perche a rimover de
+l'animo queste false illusioni, l'unico & sol rimedio si @e il
+volgersi indietro, cio@e, haverli in dispregio, & il chiudersi con
+le mani il viso, cio@e, col frequentar nelle buone, & virtuose
+operationi inteso per le mani, domenticarli, per@o Virgilio
+persuade questo a Dante, cio@e la ragione al senso, & perche
+questo senza di quella potrebbe leggiermente errare, per@o lo
+soccorre del suo aiuto, onde dice, che Virgilio stesso lo volt@o,
+Et non si tenne, n@e si fid@o tanto alle mani di lui, che non lo
+chiudesse ancora con le sue.  Theseo figliuolo d'Egeo Re
+d'Athene, secondo Ovidio, nel nono, discese con Hercole &
+Perithoo a l'Inferno, per la recuperatione di Proserpina.  Et
+moralmente, per haver cognition de' vitij, come faceva Dante,
+essendo inteso per l'huomo prudente: Adunque le furie si dolgono
+non haver vendicato in lui l'assalto, che fece al regno loro,
+volendo inferire, che se l'havessero vendicato, che Dante non
+haveria ardito allhora d'assalirlo egli, Vengiare @e vocabol
+Franzese, & significa vendicare, onde dice.  MAL non vengiammo in
+Theseo l'assalto.  Avenga che secondo esso Ovidio nel preallegato
+luogo, dopo molte prove fatte da lui, ultimamente mi venisse a
+perire.
+
+	|61-63.~  L'AUTTOR ammonisce quelli che sono sano, &
+aveduto l'intelletto, a considerar la dottrina laqual s'asconde
+SOTTO il velame de gli versi strani, Sotto il coprimento de nuovi
+& ultimi versi scritti da lui fin a qu@i, perche, si come
+veggiamo, sotto il senso litterale, s'asconde sottilissima
+allegoria, laqual in sententia ne dimostra, che non dobbiamo
+porre speranza in questi vani, anzi dannosi, a chi fuor d'ordine
+li desidera, terreni beni, ma solamente porla in Dio, ilqual
+soccorre sempre col suo divino aiuto, ove l'humane forze mancano,
+pur che la volont@a sia buona, & questa @e la dottrina, che
+s'asconde, come vedremo, SOTTO 'l velame de gli versi strani,
+laqual puo ben comprender, chi @e di sano, & aveduto intelletto, &
+a questi la dimostra il Poeta, ma chi l'havesse infermo, e nelle
+speranze de' terreni beni involto, non la comprenderebbe, & per@o
+non s'adrizza a loro.  Le facult@a si debbon volere inquanto che
+sono necessarie a sostentar la vita, ma fuori di questo, come
+superflue lassarle, onde in Seneca, <Pecuniae usum habere
+oportet, sed ei servire non oportet>.
+
+	|64-72.~  E GIA venia su per le torbid'onde.  Descrive la
+venuta de l'angelo, ilquale, come di sopra dicemmo, intendiamo
+per l'aiuto & favor divino, che supplisce sempre in quello, in
+che l'huomo vien a mancar per non potere, pur che la volutt@a sia
+buona.  Dice adunque, che gi@a venia SU per le torbid'onde, intese
+per le triste, e meste cogitationi, di c'habbiamo veduto la mente
+del Poeta, per la resistenza fatta alla parte ragionevole da'
+ministri delle diaboliche illusioni, esser oppressa.  UN fracasso
+d'un suon pien di spavento, perche i Theologi, come dicemmo in
+fine del terzo canto, vogliono, che a principio, quando questo
+favor divino discende in noi, dia spavento, & terrore, ma che in
+fine assecuri, e sia di molta giocondit@a.  PER cui, per loqual
+fracasso & spaventol suono, tremavano, della palude ognuna delle
+due sponde, intese per la ragionevole, & per la sensitiva parte,
+perche si come dalle due sponde sono dominate & contenute
+l'acque, cosi dalla ragione, & dal senso sono dominate, &c. rette
+le nostre voglie, & tremano per la ragione detta di sopra.  NON
+altrimenti fatto che d'un vento.  Assimiglia questo fracasso, &
+spaventevol suono a quel vento IMPETUOSO per gli aversi ardori,
+cio@e, che per nascer da vapori humidi & secchi che sono aversi &
+contrarii, & tutto pieno d'empito, & di furia, & chiama questi
+aversi vapori, ardori, da l'effetto che nasce da loro quando
+s'incontrano, perche si come contrari ardentemente contrastano
+insieme, & da tal contrasto nasce il vento, che poi fier la
+selva, &c.  Perche contrastando commovon l'aria, la qual commossa
+@e poi convertita in vento.
+
+	|73-81.~  CHIUSE Virgilio gli occhi a Dante, accioche non
+vedesse Medusa.  Hora gliel'apre, & scioglie, accioche possa
+veder l'Angelo, che veniva donde gli dice, che drizzi.  IL nerbo
+del viso, cio@e, la virt@u visiva.  SU per quella schiuma antica. 
+La fittione del Poeta si @e, che Virgilio dica, che gli guardi per
+quella parte della palude, dalla quale essi l'haveano nella barca
+di Flegias passata, perche quivi era della palude il passo.  Onde
+di sotto dice, che vide fuggire pi@u di mille anime distrutte
+dinanzi ad una, che passava Stige al passo.  Et perche questo tal
+passo, era, come vuol inferire, molto frequentato dalla barca di
+Flegias, per la gran moltitudine de l'anime dannate, che vi
+concorrevano a passarlo, & conseguentemente, per il gran
+movimento dell'acqua pantanosa, & lorda della palude, fatto nel
+passar della barca molto schiumoso: per@o dice che debba guardare
+s@u per quella schiuma ANTICA perche antichi sono ancor i vitij,
+che da questo passo, secondo il Poeta, si vanno a punire.  PER
+indi, ove quel fumo @e pi@u acerbo, cio@e per quella parte della
+schiuma, nella qual quel grosso vapore, ch'esce di quella @e meno
+quieto, perche da l'Angiolo, che passava era commosso onde di
+sotto dice che movendo la sinistra innanzi spesso, rimovea dal
+volto quel aer grasso: & mirando dice che vide pi@u di mille anime
+Distrutte, cio@e, Disfatte, havendo nel precedente Canto detto,
+ch'elle si percotean non pur con mano, ma con la testa, col
+petto, & co' piedi.  TRONCANDOSI co' denti a brano a brano. 
+Fuggir dinanzi ad uno, Fuggir dinanzi a l'Angiolo, che passava
+Stige AL passo, cio@e da quella parte dalla quale si passa.  CON
+le piante asciutte.  Perche con quelle non s'affondava ne
+l'acqua: & assimiglia la fuga di quelle anime innanzi a
+l'Angiolo, a quella delle rane innanzi alla nemica biscia, quando
+per l'acqua sono da quella perseguitate, fin che ciascuna.
+
+	|78.~  S'ABBICA, cio@e s'aduna, & ricovera alla terra. 
+Abbicare, in idioma Fiorentino, significa adunare, & metter
+insieme, & vien dalla bica, che gli altri Toscani domandano meta:
+& @e propriamente alcuno adunamento fatto dall'agricoltore di
+grano, o d'altra spetie di biada, prima, che sia battuta, o di
+paglia, o sieno composto in forma tonda, che s'appunta in cima,
+quasi a modo di piramide, & chiamasi poi bica, o meta della cosa
+adunata.
+
+	|82-90.~  E MENANDO la sinistra innanzi spesso, rimuovea
+dal volto QUEL aer grasso, Quel grosso vapore, che della schiuma
+pantanosa usciva, & pareva lasso sol di quella angoscia, tanto
+spesso vuol inferir, che la menava la sinistra: Hora moralmente:
+La schiuma antica, per la qual Virgilio, cio@e la parte
+ragionevole, vuol che Dante, inteso per la sensual parte, guardi,
+intenderemo per l'humana fragilit@a, la qual @e antica, per haver
+la sua origine dal primo huomo.  LE pi@u di mille anime distrutte,
+significano l'infinite vane passioni, & perturbationi de l'animo. 
+Et erano distrutte, cio@e fatte nulla, & estinte, per la venuta de
+l'Angelo.  L'acerbo fumo, dinota la ignorantia de l'intelletto,
+onde nel precedente Canto in persona di Virgilio della venuta di
+Flegias per la palude disse; <Gi@a scorger puoi quello, che
+s'aspetta, Se'l fumo del pantan nol ti nasconde> {Dante ^Inf.~
+8.11-12}, & @e acerbo, cio@e aspro, perche si come il fumo
+impedisce, & offende l'occhio, che non pu@o vedere, cosi
+l'ignorantia impedisce, & offende l'intelletto, ilqual @e l'occhio
+interiore, che non pu@o discerner il vero.  Onde nel settimo Canto
+in persona di Virgilio disse: <O creature sciocche: Quanta
+ignorantia @e quella, che vi offende> {Dante ^Inf.~ 7.70-71}. 
+Stige, come di sopra dicemmo, significa tristezza, & tedio:
+Adunque, da l'humana fragilit@a oppressa da infinite vane
+passioni, & perturbationi, & da ignorantia, si passa Stige, si
+vien in tristezza, & tedio di se stesso, ilche spesse volte
+induce l'huomo a disperatione, & da questo passo vien l'Angiolo,
+inteso per l'aiuto, e favor divino, & di quel tal passo, ov'il
+fumo @e pi@u acerbo, cio@e ove l'ignorantia @e maggiore perche l@a
+dove @e maggior difetto, quivi i rimedi son pi@u necessari.  Onde
+l'Apostolo a gli Romani al v. <Ubi autem abundavit delictum,
+superabundavit & gratia> {Rom. 5:20}, & questi del divino aiuto
+sono principalmente tre, da Theologi intesi per le tre divine
+gratie, & dal Poeta per le tre donne, che di sopra nel secondo
+Canto habbiamo veduto.  Il primo de' quali rimedi si @e, il
+disperder tutte le vane, & dannose passioni, che inducono
+tristezza, & tedio ne l'animo, talmente che quello rimanga libero
+da potersi elegger il bene, & questo come habbiamo detto,
+significa per le pi@u di mille anime distrutte, che vide fuggir
+dinanzi a l'Angiolo, che passava Stige al passo.  CON le piante
+asciutte, perche le cose pure, non s'infettano nelle impure. 
+Onde di sopra nel secondo Canto in persona di Beatrice,
+rispondendo sopra di tal materia a Virgilio. <IO son fatta da Dio
+sua merc@e tale, Che la vostra miseria non mi tange, Ne fiamma de
+sto incendio non m'assale> {Dante ^Inf.~ 2.91-93.}.  Il secondo
+rimedio @e, che liberato l'animo dalle passioni, & per questo
+havendo determinato voler il bene, di rimuovergli la ignorantia
+de l'intelletto, accioche possa conoscer qual sia il vero bene, &
+di quello far elettione, & questo significa per il rimuover di
+quel aer grasso dal volto, menando spesso innanzi la sinistra,
+laqual pu@o ben rimuover gli impedimenti, ma non ha poter nelle
+massime operationi, come ha la destra, nella qual teneva la
+verghetta, con che aperse la porta della Citt@a, & sol di quella
+angoscia pareva al senso, per lo suo imperfetto vedere, ma non
+alla ragione, che l'Angiolo fosse lasso, sapendo quella, che in
+lui non ha luogo passione alcuna, & per questo dinota la
+grandissima difficult@a, qual @e a rimuover la ignorantia dal senso
+privato di ragione, la qual habbiamo veduto confusa: ma non per@o
+vinta dalle diaboliche tentationi.  Il terzo, & ultimo rimedio si
+@e, che havendo liberato l'animo dalle passioni, & per la rimossa
+ignorantia, conosciuto il vero, & perfetto bene, di venir alle
+buone operationi, le quali, per esso perfetto ben conseguire, in
+altro principalmente non consistono, che nella contemplation
+delle divine cose, alle quali il Poeta, come gi@a pi@u volte
+habbiamo dimostrato, era in via, ma essendo il passo dalle
+diaboliche illusioni impedito, & per questo soccorso dal divino
+aiuto, il qual tolto via gli impedimenti vien ultimamente con la
+divina inspiratione, intesa per la verghetta, ad aprirli la
+mente, la qual @e porta, & ricettacolo de l'intelletto, perche
+conserva le cose da lui intese, accioche possa per la sua via,
+che allhora era nella cognition de' vitij, proceder innanzi.  Ben
+m'accorsi, che egli era D'EL Ciel messo: Da Ciel mandato, &
+questo per la novit@a, che arrecava seco, la qual s'intende nelle
+menti nostre, di che s'accorge il senso, ma non la prevede come
+la ragione, alla qual, come ossequente, a lei si volge, per
+essere in tal novit@a ammonito di quanto egli ha da fare.  E
+quella li fa segno, che stia cheto, perche al divino aiuto,
+ilqula opera secondo la disposition del cuore, le parole son
+superflue, ma basta solo reverentemente, & con humilt@a riceverlo:
+onde dice, che ad esso messo da Cielo debba inchinare.  AHI
+quanto mi parea pien di disdegno.  Pareva al senso, & non alla
+ragione, per quel medesimo, che habbiamo detto di sopra.  VENNE
+alla porta, & con una verghetta l'aperse.  Quello che per questo
+moralmente voglia significare, l'habbiamo similmente disopra
+detto.  Che non v'hebbe alcun ritegno, cio@e alcuno impedimento;
+perche al voler divino, per esser immutabile, non @e chi si possa
+in modo alcun opporre.
+
+	|91-93.~  HAVENDO il divino aiuto con la divina
+inspiratione aperto la mente del Poeta, queste sono hora le
+parole, che dice in confusione delle diaboliche tentationi, che
+essa mente premevano, & erano cagione de gli impedimenti, che si
+sopra habbiamo veduto, & che da lui erano stati rimossi dinanzi a
+lei, ricordando a quelli, come essi, per la loro superbia, furon
+cacciati del Cielo.  GENTE dispetta, Gente odiosa, perche sono in
+odio non solamente a tutte le intelligibili creature, ma (se
+esser pu@o) ancor al Creatore.  COMINCI@O ei, Cominci@o l'Angelo a
+dire.  IN s@u horribil soglia della porta, perche da l'entrata a
+pi@u horrendi vitij.  & conseguentemente alle pi@u horrende, &
+spaventevoli pene apparecchiate in punitione di quella, & quello
+quanto a l'Inferno essentiale, ma quanto a l'humana mente,
+oppressa dalle diaboliche illusioni, @e horribile, perche ad esse
+horribili pene conducono ONDE salletta, cio@e da qual vostra
+autorit@a si ricovera, & riposa.  ESTA oltracutanza, Questa
+temeraria audacia, e prosuntione in voi?  Volendo inferir, che da
+nessuna parte se li conviene.
+
+	|94-96.~  PERCHE ricalcitrate a quella voglia, per qual
+cagione vi contraponete, a quella volont@a.  A cui non pu@o mai
+esser mozzo: alla quale non pu@o mai esser tolto via, & impedito
+il fine? Perche quello, che da Dio efficacemente @e voluto, Come
+il Poeta vuol inferire, ch'era il suo andare specolando i vitij,
+@e necessario che sia.  E che pi@u volte v'ha cresciuto doglia?  E
+questo @e sempre avenuto, che l'huomo mediante il divino aiuto,
+s'@e potuto difender dalle sue insidie, la qual cosa @e stato loro
+di grande, & grave dolore, per la grande invidia, ch'essi portano
+a l'humana generatione.
+
+	|97.~  CHE giova nella fata dar di cozzo?  Fato non @e
+altro, che il preveder, e voler di Dio, & tutto quello, che a
+principio ha preveduto, & voluto che sia, non pu@o preterne. 
+Essendo dunque preveduto, & voluto, come habbiamo di sopra detto,
+che Dante andasse speculando la natura de' vitij, acci@o che se ne
+potesse guardare, era vana ogni diabolica tentatione, che se gli
+opponeva in contrario.
+
+	|98-99.~  CERBERO vostro se ben vi ricorda.  NE porta
+ancor pelato il mento, e 'l gozzo.  Da Hercole, secondo Ovidio
+nel nono, furon domati molti mostri, & fra questi fu Cerbero,
+mostro horrendissimo di tre teste, il qual trasse de l'Inferno,
+essendo disceso in questo con Theseo, & Perithoo, per la
+recuperatione di Proserpina, & da le catene postoli ad uno de'
+suoi tre colli, con lequali lo trasse fuori, ha del verisimile,
+che n'havesse il mento, e 'l gozzo pelato.
+
+	|100-105.~  POI si rivolse per la strada lorda.  Havendo
+il divino aiuto in beneficio, e della ragione, & del senso del
+Poeta, satisfatto al voler divino, basta solamente tanto, &
+rivolgesi per la lorda strada de gl'impedimenti, perche sovenuto
+a l'uno, si volge sempre a sovenir a l'altro bisogno, pur che
+trovi la volont@a esser buona, & che solo manchi dal non potere;
+onde dice, che a loro, come quelli ch'erano gi@a stati sovenuti da
+lui.  NON fece motto: non fece parola MA se sembiante d'huomo,
+cui altra cura stringa, & morda, ma fece dimostratione d'huomo,
+alquale altra impresa prema, & punga, che quella di colui, che
+gli @e davanti, perche il sanato non ha bisogno del medico, ma si
+ben l'infermo.  E NOI movemo i piedi in ver la terra.  Fatti
+sicuri, e la ragione, e 'l senso, mediante il divino aiuto, di
+poter venir nella cognition di pi@u enormi vitij, & delle pene,
+che a quelli sono dalla divina giustitia apparecchiate.  Muoveno
+i piedi in ver la terra, indrizzano li loro affetti in tal
+consideratione.  SENZA alcuna guerra, essendo rimossi gli
+impedimenti, che s'opponevano in contrario.
+
+	|106-111.~  ET io che haveva di riguardar disio, Desidera
+il senso veder, & intendere, per esser tal desiderio innato ne
+l'animo nostro, & per@o muove l'occhio de l'intelletto intorno,
+speculando il vitio de l'heresia, che si punisce dentro alla
+Citt@a, & vede gran campagna ad ogni mano.  Perche molte, &
+diverse sono state le opinioni de gli heretici, & cosi le pene
+loro sono piene di dolore, & di rio tormento, come ne' seguenti
+versi vedremo.
+
+	|112.~  Arli @e Citt@a in Provenza non lontana dalla foce
+del Rodano, ove egli stagna, perche, quivi mettendo in mare,
+manca del suo veloce corso.
+
+	|113-114.~  Pola @e Citt@a in Istria, lontana dieci miglia
+dal Quarnaro.  Questo @e golfo nel seno Adriatico, che divide
+l'Istria, ultimo termine da quella parte d'Italia, dalla
+Dalmatia, o vogliamo dire della Schiavonia, & cosi chiude essa
+Italia, & bagna li suoi termini.  Fuori d'ognuna di queste due
+Citt@a, sono gran numero di sepolture molte antiche, de la cui
+origine se ne referisce molte cose fabulose, ma @e da credere, che
+in altri tempi gli habitatori di quei luoghi le havessero in uso.
+
+	|115-120.~  Adunque le sepolture fanno il luogo, ove elle
+sono VARO, cio@e variato, perche altro sono le sepolture, & altro
+il rimanente del luogo, che senza di quelle sarebbe non varo, ma
+uniforme: Cosi il Poeta dice, che simili sepolture facevon quivi
+varo d'ogni parte il luogo contenuto dentro dalla Citt@a, Salvo
+che 'l modo v'era PIU amaro, cio@e pi@u aspero & cocente, perche
+TRA gli avelli, cio@e, Tra esse sepolture erano sparte fiamme, per
+le quali gli avelli erano si accesi del tutto.  CHE pi@u non
+chiede verun'arte, cio@e, Che nessuna arte ricerca ferro, per
+indurvi qual si voglia nuova forma, pi@u acceso, che si fossero
+tali avelli,
+
+	|121-123.~  Tutti li lor coperchi ERAN sospesi, Erano
+alzati, @e levati in alto tanto, che gli avelli erano aperti, &
+uscivanne fuori si duri lamenti, che ben parea, che fossero di
+miseri, & offesi spiriti.
+
+	|124-132.~  ET io, Maestro, quai son quelle genti:
+Domanda il Poeta Virgilio.  QUALI, cio@e di che qualit@a sono
+quelle genti, le quali seppellite dentro DA quelle arche, Da
+quelle sepolture, si fan sentir con gli ardeniti, & focosi
+sospiri.  Virgilio gli risponde, che quivi sono gli heresiarchi,
+cio@e i Principi de l'heresie, co' seguaci loro d'ogni setta, &
+che LE tombe, cio@e le sepolture sono molto pi@u cariche, piene di
+spiriti, di quello che egli si crede, a dinotare, che il numero
+di questi tali peccatori @e infinito.  Heresia @e nome Greco, che
+significa elettione, onde heretico @e quello, ilqual avenga che
+confessi Christo, nondimeno, si elegge voler seguitar alcuna
+falsa opinione, & @e spetie d'infidelt@a, perche si come l'infidele
+nega Christo, come fa il Pagano, & il Guideo, l'heretico corrompe
+i suoi mandati, & sante costitutioni, & la diffinitione de
+l'heresia, secondo S. Thom. in sec. sec. @e haver falsa opinione
+nelle cose pertinenti alla fede, come a questi tempi veggiamo
+haver i Luterani, & per a dietro hanno havuto molte altre sette,
+come Valentiniani, Severiani, Acciani, Manichei, Origeniani,
+Apelliti, Sebelliani, Paterini, Pelagiani, Arriani, Theodoriani,
+&c. le quali tutte, in diversi Concilij, sono state dannate, &
+riprovate.  Pone adunque gli heretici nelle sepolture, perche
+ogni loro perversa, & ostinata opinione debbe esser sepolta,
+accioche da quelle le sane menti non si venghino a contaminare, &
+non solamene sepolta, ma del tutto estinta, la qual cosa dinota
+per le fiamme, da le quali esse sepolture erano tanto accese. 
+Accordandosi co' Sacri Canoni, i quali dannano ogni heretico al
+fuoco.
+
+	|130-133.~  SIMILE qu@i con simile @e sepolto, cio@e, tutti
+quelli, che sono stati d'una medesima setta, & infetti d'una
+simile heresia, sono sepolti in un medesimo luogo distinto da
+quelli de gli altri heretici, onde nel seguente Canto vedremo,
+che dir@a, Con Epicuro tutti i suoi seguaci, che fanno morta
+l'anima col corpo, hanno da questa parte suo cemiterio.  ET i
+monumenti sono caldi pi@u, & meno, secondo che in maggiore, o
+minore heresia sono stati, & poi che dette queste parole,
+Virgilio si fu volto alla man destra, passaron tra martiri, che
+pativano l'anime nelle sepolture.  E gli alti spaldi, E gli alti
+spati delle mura della Citt@a, come vedremo qu@i di sotto ne' primi
+versi del seguente Canto, che pi@u chiaramente questo medesimo
+verr@a ad inferire. 
+
+

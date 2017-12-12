@@ -1,0 +1,757 @@
+	|2.  per dir tolse~ = ^prese a dire~, but in the sense of
+"finished uttering," having just said ^se non si vaneggia~
+(^Par.~ XI, 139).
+
+	|3.  mola~: "'Millstone': the ring of spirits.  In a
+mill, the two grindstones operate concurrently, and both are
+necessary" (Gr).  It should be noted that a millstone turns
+horizontally, as does this ring of lights.
+
+	|5.  di cerchio la chiuse~: "Encircled it."
+
+	|6.  colse~: "Matched."
+
+	|7-8.  nostre muse, nostre serene~: Figuratively, poetry
+and song as we know them here on earth.  Cf. ^Purg.~ XIX, 19,
+for the form ^serena~ instead of ^sirena~ and for the word used
+in the sense of one who sings (although it is used there in a
+pejorative sense, which is absent here).  |tube~: "Pipes," the
+singing souls.
+
+	|9.  quanto primo splendor quel ch'e' refuse~: As a
+direct ray surpasses its reflection, the one it has reflected.  
+|e'~ = ^egli.~  |refuse~: |Refuse~ is the preterite (here used
+with a present-tense meaning) of ^rifondere~, "to throw back." 
+See, for an equivalent use of this verb, ^Par.~ II, 88.
+
+	|12.  ancella~: Iris, the rainbow.  Daughter of Thaumas
+and Electra, Iris was the personification of the rainbow, which
+was regarded as the messenger of the gods and (among later
+writers) of Juno in particular (Virgil, ^Aen.~ IV, 694; V, 606;
+IX, 2, 5; Ovid, ^Metam.~ I, 271).  |iube~: "Commands."  The
+Latin is ^iubet.~
+
+	|13.  nascendo di quel d'entro quel di fori~: The outer
+arc of a double rainbow is called the reflection, or echo, of the
+inner one.  It was formerly thought to be an actual reflection.
+
+	|14-15.  quella vaga ch'amor consunse~: The "wanderer" is
+the nymph Echo, who used to keep Juno engaged by incessantly
+talking to her, while Jupiter sported with the nymphs.  Juno, on
+finding this out, punished Echo by changing her into an echo.  In
+this state the nymph fell in love with Narcissus, but, her love
+not being returned, she pined away in grief, so that nothing
+remained of her but her voice.  Dante got the story from Ovid
+(^Metam.~ III, 356-401).  |come sol vapori~: |Sol~ is here the
+subject of ^consuma~ (present tense), understood but not used.
+
+	|16.  presaga~: "Confident," or "weather-wise," in this
+case.
+
+	|17.  per~: "Because of."  |lo patto che Dio con No@e
+puose~: The reference is to the covenant which God made with Noah
+that never again should there be a flood to destroy the earth
+(Gen. 9:8-17).
+
+	|18.  s'allaga~: "Shall be flooded."
+
+	|20.  volgiensi~ = ^si volgevano.~  Pronounced
+^volg@iensi.~
+
+	|22.  tripudio~: "Dance."  The word is a Latinism.
+
+	|23.  s@i~... |s@i~: "Both... and."
+
+	|25.  a punto e a voler~: "At one instant and of one
+accord."
+
+	|26.  piacer~: "Will."  |i~ = ^li.~
+
+	|27.  conviene insieme chiudere e levarsi~: "'Must be
+closed and lifted together.'  The two circles operate
+simultaneously, like a pair of eyes.  Dante seems here to confuse
+the ^turning~ of the eyes, which must affect both at once, with
+shutting and opening, which may affect one without the other"
+(Gr).
+
+	|29.  ago~: The "needle" of a compass.  |stella~: The
+North Star, or north.
+
+	|30.  in volgermi al suo dove~: The image is exact, for
+Dante, being -- as it were -- inside the circle of so many points
+of a compass, acts as does the needle.  |dove~: "Place."  Here,
+as often in the poem, the adverb is used as a noun.
+
+	|31.  L'amor~: "Love of God."
+
+	|32.  tragge~ = ^trae.~  |l'altro duca~: St. Dominic.
+
+	|33.  per cui del mio s@i ben ci si favella~: "'For whose
+sake there is such fair speech here concerning mine.'  St.
+Thomas, for love of his own leader, St. Dominic, has been
+praising St. Francis" (Gr).
+
+	|34.  s'induca~: "Be mentioned."
+
+	|35.  ad una~: Together and for the same cause. 
+|militaro~ = ^militarono.~
+
+	|37-38.  L'essercito di Cristo~... |riarmar~: "The
+Christian army," made helpless by sin, had been "re-armed" by
+Christ's atonement.  |'nsegna~: The Cross.
+
+	|41.  la milizia~: The "essercito," vs. 37.  |in forse~:
+In doubt and in danger.
+
+	|43.  come @e detto~: See ^Par.~ XI, 43-117.
+
+
+	|46-47.  In quella parte~... |Zefiro~: Spain is the
+country nearest the source of Zephyr, the west wind.  Cf. Ovid,
+^Metam.~ I, 63-64: "Vesper et occiduo quae litora sole
+tepescunt, / proxima sunt Zephyro."  ("The western shores which
+glow with the setting sun are the place of Zephyrus.")  E. G.
+Gardner (1913, p. 245) notes that Petrus Ferrandi compares
+Dominic to Hesperus, rising from the west.
+
+	|48.  rivestire~ = ^rivestirsi.~
+
+	|49-52.  non molto lungi~... |Calaroga~: Compared with
+Italy, Caleruega, in Old Castile, is "not very far" from the
+Atlantic.  "Spain lying due west of the Italian peninsula, the
+sun sets behind its Atlantic shore at the time of the vernal
+equinox (in the summer the direction is northwest)" (Gr).  See M.
+Porena (1924), p. 157.  Cf. ^Par.~ XI, 51.  Note also ^Aen.~
+XI, 913-914, where Virgil writes:
+
+     ni roseus fessos iam gurgite Phoebus Hibero
+     tinguat equos noctemque die labente reducat.
+
+     But ruddy Phoebus now laves his weary team in the Iberian
+     flood, and, as day ebbs, brings back the night.
+
+|al~ = ^dal.~  |foga~: "`Flight,' its long spring course" (Gr). 
+|talvolta~: "Note that the |talvolta~ occurs in l. 51 in both XI
+and XII: the |onde~ of this canto are evidently contrasted with
+the ^Gange~ of XI" (Gr).  |ad ogne uom si nasconde~: "When the
+sun sinks over the Atlantic, it `hides itself from every man,'
+because there is no land beyond" (Gr).  |Calaroga~: Caleruega, a
+village of Old Castile, in the province of Burgos (not to be
+confused with Calahorra, ancient Calagurris).
+
+	|53-54.  sotto la protezion~... |soggioga~: The shield of
+Castile has two lions and two castles quartered, one lion above a
+castle and one below.
+
+	|55-56.  l'amoroso drudo de la fede cristiana~: Since the
+life of St. Dominic begins here, the reader may understand better
+the details which follow if he has in mind a general brief
+account of the saint's life.  Dominic was born between 1170 and
+1175 in the village of Caleruega in Old Castile.  He is supposed
+to have belonged to the noble family of Guzm$an but there seems
+to be no certain evidence of this.  His mother is said to have
+dreamed before he was born that she gave birth to a dog with a
+torch in its mouth, which set the world on fire.  At the age of
+fourteen he went to the University of Palencia, where he studied
+theology for ten or twelve years.  He was early noted for his
+self-denial and charity, it being told of him that during a
+famine he sold his clothes to feed the poor and that, in order to
+ransom the brother of a poor woman who appealed to him for help,
+he offered to sell himself as a slave to the Moors.  In 1195 he
+became canon of the cathedral of Osma.  In 1203 he accompanied
+the bishop on a diplomatic mission to Denmark (or more probably,
+to the French or Italian Marches) and thence to Rome.  On his way
+back, two years later, he remained for some time in Languedoc,
+where he took an active part in the Albigensian crusade,
+preaching -- and, according to some accounts, even fighting --
+against the heretics.  In 1215 he accompanied Folquet de
+Marseille, bishop of Toulouse, to the Lateran Council.  In the
+same year, on his return to Toulouse, he founded his order of
+Preaching Friars, which was formally recognized by Honorius III
+in 1216.  By the latter he was appointed master of the sacred
+palace at Rome, where he henceforth resided.  In 1219 the center
+of his order was established at Bologna, Dominican convents
+having by this time been founded in Italy, Spain, France,
+Germany, Poland, and England.  He died in August 1221 at Bologna,
+where he was buried, his remains being preserved in the marble
+tomb by Nicola Pisano in the church of San Domenico.  He was
+canonized soon after his death (in 1234) by Gregory IX, who
+declared that he no more doubted the sanctity of Dominic than
+that of Peter or Paul.
+
+	|58-60.  e come fu creata~... |profeta~: "Before his
+birth, his mother dreamed that she brought forth a black and
+white dog with a burning torch in its mouth.  Black and white are
+the Dominican colors; the torch signifies zeal; the word
+^Dominicani~ suggests ^Domini canes~, `dogs of the Lord'" (Gr). 
+|repleta~: "Full."  The word is a Latinism.  |lei~: "Her" (the
+mother).
+
+	|61-63.  Poi che le sponsalizie~... |salute~: "His
+baptism is conceived as a wedding.  He espoused Faith, as Francis
+(in ll. 61-63 of XI) espoused Poverty.  Dominic and Faith
+'dowered each other with mutual health.'  Dante evidently plotted
+out cantos XI and XII, to make them parallel, line by line. 
+Francis and Dominic are the symmetrical `two wheels' of the
+Chariot of the Church" (Gr).  |u'~ = ^ubi~ (^ove~).  |dotar~ =
+^dotarono.~
+
+	|64.  la donna che per lui l'assenso diede~: His
+godmother, who presented him for baptism.  In the traditional
+ceremony, the priest asked: "Do you wish to be baptized"?  His
+godmother, giving the assent for the child, replied: "I do."
+
+	|65-66.  vide nel sonno~... |rede~: His godmother dreamed
+that he bore a star on his forehead which illumined the world. 
+This, by stressing light, points to the ^intellectual~ gifts and
+pursuits of Dominic (cf. vs. 85) and his followers (|le rede~),
+in contrast with the ^affective~ direction of Francis and his
+order (cf. ^Par.~ XI, 112).
+
+	|67.  e perch$e fosse qual era in costrutto~: "And that he
+might be in name [verbal construct] what he was in reality." 
+Basic to the notion here expressed is the familiar dictum ^nomina
+sunt consequentia rerum~ (names are the consequence of things). 
+Cf. Dante, ^Vita nuova~, XIII, 4; XXIV, 4; ^Purg.~ XIII,
+109-110.
+
+	|68.  quinci~: From Heaven.
+
+	|69.  del possessivo di cui era tutto~: ^Dominicus~ (the
+possessive adjective of ^Dominus~), meaning "the Lord's."  Cf.
+Thomas Aquinas, ^Summa theol.~ III, q. 16, a. 3, resp.
+
+	|71-72.  l'agricola che Cristo~... |aiutarlo~: "Among the
+interpretations of the name ^Dominicus~ in the ^Legenda Aurea~ is
+`keeper of the vineyard of the Lord'" (Gr).  See Jacobus de
+Varagine, ^Legenda aurea~, CXIII.  Cf. ^Par.~ XXVI, 64-65. 
+|agricola~ = ^agricoltore~, "husbandman."
+
+	|Cristo~... ^Cristo~ {v.75}: "Note that in ll. 71, 73, 75
+|Cristo~ is in rhyme with itself.  The same thing occurs in XIV,
+104; XIX, 104; XXXII, 83.  In the ^Commedia~ Dante will not allow
+|Cristo~ to rhyme with any other word" (Gr).
+
+	|73.  messo~: Past participle used as a noun, meaning
+"messenger."  |famigliar~: A follower, one of the household (cf.
+^Purg.~ XXIX, 136).
+
+	|75.  al primo consiglio che di@e Cristo~: This probably
+refers to the first of the beatitudes (Matt. 5:3; see also
+Luc. 6:20), "beati pauperes spiritu" ("blessed are the poor in
+spirit"), taken to refer to humility (cf. ^Purg.~ XII, 110-111),
+which seems to agree best with what is said of the child in vss.
+76-78.  But some commentators interpret otherwise.  Grandgent
+observes: "The `counsels' of Christ are poverty, continence, and
+obedience, and the first of these is poverty: `Sell what thou
+hast, and give to the poor' (Matt. xix, 21).  Dante insists
+that St. Dominic, as well as St. Francis, was a lover of Poverty. 
+Their love is declared in ll. 73-75 of XI and XII."
+
+	|78.  Io son venuto a questo~: The words seem to echo
+Christ's (Mar. 1:38): "Ad hoc enim veni."  ("For this is why I
+have come.")
+
+	|79-81.  Oh padre suo~... |dice~: Again the notion
+supported by the dictum cited above (vss. 67-69).  His father's
+name, |Felice~, means "happy."  His mother's name, |Giovanna~,
+signifies in Hebrew "the grace of the Lord," an interpretation
+cited by several of Dante's authorities.  See E. G. Parodi
+(1898).  |se~: This "if" does not express doubt, but affirms true
+doctrine.  Cf. ^Par.~ VIII, 120.
+
+	|82.  Non per lo mondo~: The phrase depends on the
+affirmation of vs. 85, i.e., Dominic did not become a great
+doctor to seek worldly gain.  |mo~ = ^ora.~  |s'affanna di
+retro~... ^Taddeo~ {v.83}: "Labors in pursuit of the Ostian and
+Taddeo," i.e., what they represent.
+
+	|83.  Ostiense~: Belonging to Ostia, a village in Latium,
+just east of the ancient Ostia, about twenty miles southwest of
+Rome and now about four from the mouth of the Tiber.  Originally
+it was at the mouth, as the name Ostia implies.  It is an
+episcopal see.  The reference is to Enrico da Susa (Enrico
+Bartolomei), the author of a famous commentary on the decretals
+(^Summa titulorum decretalium~, or ^Summa Mostiensis~) and
+cardinal bishop of Ostia (1261-1271).  |Taddeo~: Probably Taddeo
+d'Alderotto of Bologna (or, according to some, of Pescia),
+celebrated physician of the latter half of the thirteenth century
+(ca. 1235-1295) and reputed founder of the scientific school of
+medicine at the University of Bologna.  He wrote commentaries on
+the works of Hippocrates and Galen, with philosophical
+illustrations.  But some commentators take the reference to be to
+one Taddeo dei Pepoli, who was a contemporary of Dante and
+specialized in canon law and jurisprudence.
+
+	|84.  la verace manna~: True knowledge, "the bread of
+angels" (cf. ^Par.~ II, 11).
+
+	|85.  gran dottor~: Cf. ^Par.~ XI, 38-39.  Dominic
+became a profound theologian, the shining light of the prophecy
+in vss. 64-66.  He studied at the University of Palencia.  |feo~
+= ^fece.~
+
+	|86-87.  circuir~: "To go about."  From the Latin
+^circumire.~  |la vigna~... |reo~: The vineyard grows "white"
+(not green, as it should be) if neglected by the vineyardist. 
+Dominic cared for the vineyard of the Lord (the Church), dressing
+it and guarding it.
+
+	|88-90.  E a la sedia~... |giusti~: The papal chair
+"which once was kinder" than it is now.  |a la sedia~: "Of the
+chair."  |A la sedia~ depends on "addimand@o" in vs. 94.  |non
+per lei~... |traligna~: "The difference in its disposition is
+`not because of itself' (the Papal office has not changed), but
+because of the degeneracy of its latterday occupants" (Gr).  "A
+marked case of severing the ideal Papacy from the actual Popes. 
+The Papacy ^in itself~ is as benign to the poor as ever; but the
+degenerate Pope (Boniface VIII) makes it manifest itself in other
+fashion" (TC).
+
+	|91-93.  non dispensare~... |Dei~: "His application was
+not for leave to plunder on condition of paying a third or a half
+of the plunder to pious purposes, nor a petition for the first
+fat appointment that should fall vacant, or for leave to apply
+the tithes to his own purposes" (TC).  "These phrases are the
+object of ^addimand@o~ in l. 94: permission to dole out in
+charity only a third or a half of the money on hand, `the income
+of the first vacancy,' `the tithes which belong to God's poor' --
+he asked for none of these things" (Gr).
+
+	|94.  mondo errante~: "The ^erring world~ = the heretics,
+notably the Albigenses, against whom Dominic's efforts were
+mainly directed" (TC).
+
+	|95.  seme~: The faith, the seed from which sprang the
+bright souls which "enfold" Dante.  Cf. Luc. 8:11.
+
+	|98.  officio~: "Authorization."  Dominic went to Rome
+with Folquet de Marseille (^Par.~ IX, 94) and asked permission
+to found a new order; official sanction was given in 1216.  See
+n. to vss. 55-56.
+
+	|99.  ch'alta vena preme~: "Pushed forth by a high
+spring," or perhaps a deep spring.  The adjective can bear either
+meaning in the context.
+
+	|100-102.  e ne li sterpi eretici~... |grosse~: The
+verses continue the metaphor of the torrent.  |Sterpi~ suggests
+barren, fruitless growths (cf. ^Inf.~ XIII, 7 and 37), the
+reference being chiefly to the heretics in Provence (|quivi
+dove~...) and to Dominic's role in the Albigensian crusade.
+
+	|103.  Di lui si fecer poi diversi rivi~: From this
+"torrent" many lesser streams branched off.  The reference may be
+simply to all the followers of Dominic or to the religious orders
+that were established in his name.
+
+	|105.  arbuscelli~: The term is in contrast with ^sterpi~
+(vs. 100) and with the modification |pi@u vivi~ suggests plants
+green and fruitful.
+
+	|106.  biga~: The two-wheeled chariot of the Church.  Cf.
+^Purg.~ XXIX, 107.
+
+	|108.  e vinse in campo la sua civil briga~: The
+reference seems to apply more precisely to Dominic and his war
+against heresy, which in the context is termed a civil war in
+that heresy divides the Christian community or the heavenly city
+on earth.
+
+	|109.  assai~: "Enough."
+
+	|110.  l'altra~: I.e., ^rota~ {v. 106}.  The other wheel
+is St. Francis.  |di cui~: "Concerning whom."  |Tomma~: Thomas
+Aquinas.
+
+	|112-113.  Ma l'orbita che f$e la parte somma~: Here,
+matching what Aquinas the Dominican has done (in the preceding
+canto), begins this Franciscan's criticism of his own order,
+through a curious series of mixed metaphors.
+
+	The panegyric on Francis is pronounced by a Dominican,
+and that on Dominic by a Franciscan (whereas the denunciation of
+the unworthy Dominicans and Franciscans is in each case
+pronounced by one of themselves).  Thus Dante foreshadowed what
+afterwards became a general usage, viz., for a Dominican to read
+mass in a Franciscan convent on their founder's day (Oct. 4), and
+a Franciscan to do the like for a Dominican convent on their
+founder's day (Aug. 4)" (TC).  |Ma l'orbita~... |derelitta~: The
+metaphor obviously continues the image of the wheel: "But the rut
+which the outside of its circumference made is forsaken."  The
+wheel is St. Francis.  His track is deserted by the Franciscans. 
+|orbita~: Cf. ^Purg.~ XXXII, 30.
+
+	|114.  s@i ch'@e la muffa dov' era la gromma~: The change of
+metaphor is most abrupt, passing now to wine-making.  Good wine
+leaves a crust in the barrel, bad wine leaves a mold.  Thus the
+degeneracy of the Franciscans is scored.
+
+	|115-117.  La sua famiglia~... |gitta~: In place of the
+track left by the wheel the metaphor changes to the footprints of
+Francis (|le sue orme~) which his first followers held to.  Vs.
+117 is obscure in its meaning, which is much debated.  The
+phraseology seems, in the context, to imply a backward movement
+where there should be a forward one, following in the saint's
+footsteps.  (For "backward steps," see ^Purg.~ X, 123.)  It
+focuses on a single walker who "throws" his forward foot (|quel
+dinanzi~) toward his hind foot (|quel di retro~) as he walks,
+which can only mean that he walks backwards.  See M. Barbi
+(1934), p. 287.
+
+	|118-120.  e tosto~... |tolta~: "The tare `shall complain
+that the bin is taken from it.'  Cf. Matt. xiii, 30: `Gather ye
+together first the tares, and bind them in bundles to burn them:
+but gather the wheat into my barn.'  -- There may be here a
+reference to the condemnation of a group of the Spirituals by the
+Pope in 1318" (Gr).  See U. Cosmo (1900), pp. 177-182.  It is
+also possible that the bin may be the kingdom of Heaven itself,
+from which degenerate Franciscans will find themselves excluded. 
+|li~ = ^gli.~
+
+	|121-122.  Ben dico~... |carta~: Again the change in
+metaphor is abrupt: the volume is the Franciscan order, the
+leaves are the individual friars of that order.  |troveria~ =
+^troverebbe.~
+
+	|123.  u'~ = ^ubi~ (^ove~).  |I' mi son~: The |mi~ is the
+so-called pleonastic reflexive, here in its function of
+distinguishing and identifying.  Cf. ^Purg.~ XXIV, 52.  In
+metaphor the page (the individual friar) affirms that it is
+unchanged.  Vss. 121-122 suggest that such a page is not easy to
+find.
+
+	|124.  fia~ = ^sar@a.~  |Casal~: A town of northern Italy
+in Piedmont, on the right bank of the Po, about thirty miles east
+of Turin.  The allusion is to Ubertino da Casale, leader of the
+so-called Spirituals in the Franciscan order, who opposed the
+relaxations of discipline introduced by Matteo d'Acquasparta as
+general of the order.  Ubertino, who was born in 1259, entered
+the Franciscan order in 1273; after spending nine years as
+lecturer in the University of Paris he returned to Italy, where
+he became head of the Spirituals.  During the pontificate of
+Clement V his party prevailed, but on the election of John XXII
+he withdrew from the Franciscan order and entered (in 1317) that
+of Benedict.  His most important work is the ^Arbor vitae
+crucifixae Iesu~, which was begun in March 1305 at La Verna,
+where he had been ordered to retire, and finished the following
+September, shortly after the election of Clement V.  This work
+was undoubtedly known to Dante.
+
+	|Acquasparta~: Village in Umbria, about ten miles
+southwest of Spoleto, at the head of a torrent of the same name. 
+The allusion is to Matteo d'Acquasparta, who was appointed
+general of the Franciscan order in 1287 and created cardinal by
+Nicholas IV in the next year.  In 1300, and again in 1301, he was
+sent by Boniface VIII to Florence to act as mediator between the
+Bianchi and the Neri, but he was unsuccessful in his mission on
+both occasions (Villani, VIII, 40, 43, 49).  He died in 1302. 
+His portrait is preserved in a fresco by Benozzo Gozzoli in the
+church of San Francesco at Montefalco in Umbria.  As general he
+introduced relaxations in the discipline of the Franciscan order,
+which allowed abuses to creep in and which were vehemently
+opposed by the ascetic Ubertino da Casale.
+
+	|125.  scrittura~: The rule of St. Francis.
+
+	|126.  ch'uno la fugge~: Matteo d'Acquasparta flees from
+the rule, which seems to him too strict.  |e altro la coarta~:
+Ubertino makes it more strict or narrow (|coarta~, from the Latin
+^coarctare~, "to compress").
+
+	|127-128.  Bonaventura da Bagnoregio~: St. Bonaventura
+(Giovanni di Fidanza) was born at Bagnoregio, near Orvieto, in
+1221, the year of St. Dominic's death.  As a child he was
+attacked by a dangerous disease, which was miraculously cured by
+St. Francis of Assisi.  When the latter heard that the child had
+recovered, he is said to have exclaimed "buona ventura,"
+whereupon the boy's mother changed his name to Bonaventura.  In
+1238 or 1243 he entered the Franciscan order.  After studying at
+Paris under Alexander of Hales, he became successively professor
+of philosophy and theology and in 1257 was made doctor.  Having
+risen to be general of the Franciscan order (in 1257), he was
+offered the archbishopric of York by Clement IV, which he
+declined.  He was afterwards (1274) created cardinal bishop of
+Albano by Gregory X, whom he accompanied to the second Council of
+Lyons, where he died, July 15, 1274.  St. Bonaventura was
+canonized in 1482 by Sixtus IV and placed among the doctors of
+the Church, with the title of Doctor Seraphicus, by Sixtus V. 
+The authoritative edition of his voluminous works is ^S.
+Bonaventurae opera omnia~ (Quaracchi, 1882-1902).
+
+	|129.  la sinistra cura~: Temporal interests, in which
+Bonaventura was much involved, as general of the Franciscan order
+(see preceding note) and cardinal bishop.  For the expression and
+its significance, cf. Thomas Aquinas, ^Summa theol.~ I-II, q.
+102, a. 4, ad 6:
+
+     Sapientia autem pertinet ad dextram, sicut et caetera
+     spiritualia bona; temporale autem nutrimentum ad sinistram,
+     secundum illud Prov. 3, 16: ^In sinistra illius divitiae et~
+     ^gloria.~  Potestas autem sacerdotalis media est inter
+     temporalia et spiritualem sapientiam; quia per eam et
+     spiritualis sapientia, et temporalia dispensantur.
+
+     And wisdom, like other spiritual goods, belongs to the right
+     hand, while temporal nourishment belongs to the left,
+     according to Prov., iii, 16: ^In her left hand~ [^are~]
+     ^riches and glory.~  And the priestly power is midway
+     between temporal goods and spiritual wisdom; because thereby
+     both spiritual wisdom and temporal goods are dispensed.
+
+Since ^sapientia~ is precisely uppermost in the meaning of this
+sphere and the souls who appear here are ^sapienti~, these words
+are particularly significant.  Bonaventura was thus between
+temporal and spiritual wisdom, and his statement means that he
+always gave priority to the spiritual side, which signifies
+contemplation.  Bonaventura wrote a well-known treatise entitled
+^Itinerarium mentis in Deum~ (^Itinerary of the Mind to God~),
+which might even stand as an appropriate title of the ^Paradiso~
+and of Dante's journey to Paradise.
+
+	|130.  Illuminato~: Illuminato da Rieti, one of the
+earliest followers of St. Francis of Assisi.  He accompanied St.
+Francis into Egypt.  |Augustin~: Augustine, another of the
+earliest followers of St. Francis of Assisi, whom he joined in
+1210, was eventually (in 1216) head of the Franciscan order in
+Terra di Lavoro.
+
+	|131.  fuor~ = ^furono.~  |scalzi poverelli~: The
+Franciscans.
+
+	|132.  nel capestro~: Girt with the rope cord of the
+order.  Cf. ^Par.~ XI, 87.  |fero~ = ^fecero.~
+
+	|133.  Ugo da San Vittore~: Hugh of St. Victor,
+celebrated mystic and theologian of the beginning of the twelfth
+century.  He was born near Ypres in Flanders ca. 1097 or, as some
+believe, in Saxony, and he was educated during his early years in
+the monastery of Hamersleben near Halberstadt in Saxony.  In 1115
+he removed to the abbey of St. Victor near Paris, which had
+recently been founded by William of Champeaux, the preceptor of
+Abelard, and which during the twelfth century was a center of
+mysticism.  He became one of the canons-regular of the abbey and
+was in 1130 appointed to the chair of theology, which he held
+until his death in 1141.  His reputation was so great that he was
+known as "alter Augustinus" and "lingua Augustini."  He was the
+intimate friend of Bernard of Clairvaux, and among his pupils
+were Richard of St. Victor and Peter Lombard.
+
+	The writings of Hugh of St. Victor, which are very
+numerous and are characterized by great learning, are frequently
+quoted by Thomas Aquinas.  The most celebrated are the
+^Didascalicon~, a sort of encyclopedia of the sciences as then
+understood, viewed in their relation to theology; the treatises
+^De arca Noe morali~, ^De arca Noe mystica~, and ^De vanitate
+mundi~; and the ^De sacramentis Christianae fidei~, on the
+mysteries of the faith, comprising a systematic exposition of
+Catholic theology.  He also wrote commentaries on various books
+of the Old and New Testament (with the latter of which he appears
+to rank as of equal importance the canons, the decretals, and the
+writings of the fathers), and upon the ^De caelesti ierarchia~ of
+Dionysius.
+
+	|134.  Pietro Mangiadore~: Petrus Comestor (i.e., Peter
+the Eater, so called because he was an insatiable devourer of
+books), priest, and afterwards dean, of the cathedral of Troyes
+in France, where he was born in the first half of the twelfth
+century.  He became canon of St. Victor in 1164 and chancellor of
+the University of Paris, and died at St. Victor in 1179, leaving
+all his possessions to the poor.  His chief work was the
+^Historia scholastica~, which professed to be a history of the
+Church from the beginning of the world down to the times of the
+apostles; it consists mainly of a compilation of the historical
+portions of the Bible, accompanied by a commentary and parallels
+from profane history.  It was the great authority on the subject
+in the Middle Ages and was translated into several languages.
+
+	|Pietro Spano~: Petrus Hispanus (Petrus Juliani) was born
+at Lisbon ca. 1225, where he at first followed his father's
+profession of medicine.  He studied at Paris, probably under
+Albertus Magnus; subsequently he was ordained and became (1273)
+archbishop of Braga.  In 1274 he was created cardinal bishop of
+Tusculum (Frascati) by Gregory X.  On September 13, 1276, he was
+elected pope, under the title of John XXI, at Viterbo, in
+succession to Adrian V.  He died May 20, 1277, after a reign of a
+little more than eight months, his death being caused by the fall
+of the ceiling of one of the rooms in his palace at Viterbo.
+
+	Besides several medical works of a more or less popular
+character (one of which, consisting of a collection of
+prescriptions, is entitled ^Thesaurus pauperum~), Petrus Hispanus
+wrote a manual of logic, which, under the title of ^Summulae
+logicales~, attained a wide popularity in the Middle Ages.  In it
+the logic of the schools was expanded by the incorporation of
+fresh matter of a semi-grammatical character.  In this treatise,
+which is divided into twelve parts, occurs for the first time the
+well-known mnemonic formula beginning "Barbara Celarent" for the
+valid forms of the syllogism.
+
+	|136-137.  Nat@an~: Nathan, the prophet, who was sent by God
+to reprove David (II Reg. 12:1-12) for his sin in causing the
+death of Uriah the Hittite in order that he might marry
+Bathsheba.
+
+	|'l metropolitano Crisostomo~: ^Metropolitan~ is the
+title of a bishop exercising powers over a province consisting of
+several dioceses.  The title first appears in the fourth canon of
+the Council of Nicaea (325).  The reference is to St. John
+Chrysostom (%chi%rho%upsilon%sigma%$o%sigma%tau%o%mu%o%varsigma\,
+golden-mouthed), celebrated Greek father of the Church, who was
+born at Antioch ca. 345 and died at Comana in Pontus in 407.  He
+belonged to a noble family and was first a lawyer; he afterward
+became a monk, in which capacity he so distinguished himself by
+his preaching that the Emperor Arcadius appointed him (in 398)
+patriarch of Constantinople.  His severity toward the clergy in
+his desire for reform made him an object of hatred to them and
+led to his deposition (403) at the instance of Theophilus,
+patriarch of Alexandria, and the Empress Eudoxia, whose excesses
+he had publicly rebuked.  Sentence of exile was pronounced
+against him, but the people, to whom he had endeared himself by
+his preaching, rose in revolt, and he was reinstated in his
+office.  Shortly afterward, he was again banished (404), and he
+finally died in exile on the shores of the Black Sea.  He left
+nearly one thousand sermons or homilies as evidence of his
+eloquence.
+
+	|Anselmo~: Anselm, archbishop of Canterbury from 1093 to
+1109, was born at Aosta in Piedmont in 1033, and in 1060, at the
+age of twenty-seven, he became a monk in the abbey of Bec in
+Normandy, to which he had been attracted by the fame of Lanfranc,
+at that time prior.  In 1063, on the promotion of Lanfranc to the
+abbacy of Caen, he succeeded him as prior; fifteen years later,
+in 1078, on the death of Herluin, the founder of the monastery,
+he was made abbot, an office he held till 1093.  In that year he
+was appointed archbishop of Canterbury by William Rufus, in
+succession to Lanfranc, after the see had been vacant for four
+years; in 1097, in consequence of disputes with William on
+matters of ecclesiastical jurisdiction, he left England for Rome
+to consult the pope and remained on the Continent until William's
+death in 1100, when he was recalled by Henry I.  He died at
+Canterbury, April 21, 1109 and was canonized, in 1494, by
+Alexander VI.
+
+	Anselm was the author of several theological works, the
+most important of which are the ^Monologion~ (to which Anselm
+gave the sub-title ^Exemplum meditandi de ratione fidei~), the
+^Proslogion~ (^fides quaerens intellectum~), and the ^Cur Deus
+homo~ (a treatise on the atonement intended to prove the
+necessity of the incarnation).  |Donato~... ^mano~ {v.138}:
+Aelius Donatus, Roman scholar and rhetorician of the fourth
+century, who is said to have been the tutor of Jerome.  He was
+the author of a commentary on Virgil (now lost, but often alluded
+to by Servius) and of another on Terence, but his most famous
+work was an elementary Latin grammar, ^Ars grammatica~, in three
+books, part of which served as a model for subsequent similar
+treatises.  Because of the popularity of this work in the Middle
+Ages -- it was one of the earliest books, being printed even
+before the invention of movable types -- the name of its author
+became a synonym for grammar, just as Euclid did for geometry. 
+Thus the title of a Proven$cal grammar of the thirteenth century
+begins: "Incipit Donatus Provincialis."  Rutebeuf says in ^L'Etat
+du monde~ (vs. 158): "Chascuns a son Donet perdu."  ("Each one
+has lost his Donatus.")  See also ^Piers Plowman~ (B text, Passus
+V, vs. 209): "Thanne drowe I me amonges draperes my donet to
+lerne."
+
+	|138.  la prim' arte~: Grammar is the first of the seven
+liberal arts of the trivium and quadrivium.  See Dante, ^Conv.~
+II, xiii, 8-10.
+
+	|139.  Rabano~: Rabanus (more correctly Hrabanus) Maurus
+Magnentius, born at Mainz of noble parents ca. 776.  While still
+a youth he entered the monastery at Fulda, where he received
+deacon's orders in 801.  Shortly thereafter he proceeded to Tours
+to study under Alcuin, who in recognition of his piety and
+diligence gave him the surname of Maurus, after St. Maurus (who
+died in 565), the favorite disciple of St. Benedict.  He was
+ordained priest in 814 and after a pilgrimage to the Holy Land
+returned to Fulda in 817, where he became abbot in 822.  He held
+this office for twenty years until 842, when he retired in order
+to devote himself more completely to religion and literature. 
+Five years later, however, he was appointed to the archbishopric
+of Mainz, which he held until his death in 856.  Rabanus, who was
+considered one of the most learned men of his time, wrote a
+voluminous commentary on the greater portion of the Bible and was
+the author of numerous theological works, the most important
+being the ^De institutione clericorum.~  His treatise ^De
+laudibus sanctae crucis~ contains figures in which rows of
+letters are cut by outlines of stars, crosses, and the like, so
+as to mark out words and sentences.
+
+	|140.  Giovacchino~: Joachim of Floris, the Calabrian
+abbot.  He appears to have enjoyed in his own day, and long
+afterwards, a reputation for prophetic power; hence Bonaventura
+speaks of him as ^di spirito profetico dotato~ (vs. 141), words
+which are taken from the anthem still chanted on the festival of
+St. Joachim, the father of the Virgin Mary, in the churches of
+Calabria.
+
+	Joachim was born ca. 1145 at Celico, about four miles
+northeast of Cosenza in Calabria.  He made a pilgrimage to the
+Holy Land and on his return to Italy became a monk, entering (ca.
+1158) the Cistercian monastery of Sambucina.  In 1177 he was made
+abbot of Corazzo in Calabria.  In 1185, Pope Urban III appointed
+a deputy abbot in order that Joachim might have leisure to devote
+himself to his writings.  In 1189 Joachim founded a monastery,
+San Giovanni in Fiore in the forest of the Sila among the
+mountains of Calabria, whence he was named "de Floris."  From
+this institution, the rule of which was sanctioned by Celestine
+III in 1196, ultimately sprang the so-called Ordo Florensis
+(absorbed by the Cistercians, 1505).  Joachim died ca. 1202.
+
+	The authenticated works of Joachim comprise a commentary
+upon the Apocalypse (^Expositio in Apocalypsim~), a harmony of
+the Old and New Testaments (^Concordia novi et veteris
+Testamenti~), the ^Psalterium decem chordarum~, and perhaps the
+^Adversus Iudeos.~  Many works have been attributed to him --
+among them, the ^Liber figurarum~, the authorship of which is
+much debated.  He was credited with the authorship of a book on
+the popes, in which the persons and names of all the future popes
+were described.
+
+	Joachim "was the reputed author of many prophecies.  He
+was also the first preacher of the doctrine that the dispensation
+of the Father (Old Testament) and of the Son (New Testament, and
+the Church as an institution) would be followed by the
+dispensation of the Holy Spirit, the period of perfection and
+freedom, without the necessity of disciplinary institutions. 
+This was the `Everlasting Gospel' -- a dispensation, not a book. 
+Joachim was a Cistercian, not a Franciscan; but the Franciscan
+'Spirituals' were much influenced by him, and one of them,
+Gerardus by name, wrote a book entitled ^Introduction to the
+Everlasting Gospel.~  `Joachism' henceforth became a feature of
+the extreme Spiritual movement among the Franciscans, and as such
+was opposed by Bonaventura" (TC).
+
+	It should be noted that Joachim occupies, in this second
+circle of ^sapienti~, a position corresponding to that of Siger
+(^Par.~ X, 136) in the first: each is the last named, each is to
+the immediate left of the spokesman.  Both were not only
+controversial figures, but Thomas Aquinas, the spokesman of the
+first circle, engaged in an attack on Siger's ideas, and
+Bonaventura attacked the Spirituals of the Joachimite order.  The
+poet's parallelism expresses a spirit of lofty conciliation and
+heavenly charity.
+
+	|142.  inveggiar~: The meaning of the verb in this
+context is much debated.  (See Petrocchi's note concerning it.) 
+The most plausible interpretation would seem to be that
+|inveggiar~, deriving from ^invidiare~, "to envy," would mean (as
+does its Proven$cal equivalent ^envejar~) "to envy in a good
+sense," hence "to praise."  Cf. the adjective ^invidiosi~ as
+applied to Siger (^Par.~ X, 138 and note).  |cotanto paladino~:
+St. Dominic.  The term |paladino~ ("warrior") is quite in keeping
+with ^santo atleta~ (vs. 56) and the presentation in general of
+Dominic.
+
+	|143.  l'infiammata cortesia~: "The ardent [loving]
+courtesy" of Aquinas refers primarily to the fact that he, as a
+Dominican, eulogized Francis.
+
+	|144.  discreto latino~: "Discerning discourse"; but,
+given the context, the adjective may also bear the suggestion of
+"reverent."  For |latino~ in this sense, cf. ^Par.~ X, 120.
+
+	|145.  meco~ = ^con me.~  |compagnia~: The eleven
+companions of Bonaventura just named.

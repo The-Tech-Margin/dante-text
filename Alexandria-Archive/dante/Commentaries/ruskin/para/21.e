@@ -1,0 +1,71 @@
+	|106.~  [My Cary's Dante] opened at a favourite old
+place, in the.twenty-first canto of the Paradiso (marked with an
+M long ago, when I was reading Dante through to glean his
+mountain descriptions): ---
+
+                      `Twixt either shore
+     Of Italy, nor distant from thy land, etc.;
+
+and I read on into the twenty-second canto, down to St.
+Benedict's, ---
+
+     There, all things are, as they have ever been;
+     Our ladder reaches even to that clime,
+     Whither the Patriarch Jacob saw it stretch
+     Its topmost round when it appeared to him
+     With angels laden. But to mount it now
+     None lifts his foot from earth; and hence my rule
+     Is left a profitless stain upon the leaves.
+     The walls, for abbey reared, turned into dens;
+     The cowls, to sacks choked up with musty meal.
+
+     [^Par.~ xxii. 66-78]
+
+     His convent, Peter founded without gold
+     Or silver; I, with prayers and fasting, mine;
+     And Francis, his, in meek humility.
+     And if thou note the point whence each proceeds,
+     Then look what it hath erred to, thou shalt find
+     The white turned murky.
+
+     			Jordan was turned back,
+     And a less wonder than the refluent sea
+     May, at God's pleasure, work amendment here.
+
+     [^Par.~xxii. 88-96]
+
+I stopped at this, (holding myself a brother of the third order
+of St. Francis) and began thinking how long it would take for any
+turn of tide by St. George's work, when a ray of light came
+gleaming in at the carriage window, and I saw, where the road
+turns into the high ravine of the glacier galleries, a little
+piece of the Breithorn snowfield beyond.
+
+	Somehow, I think, as fires never burn, so skies never
+clear, while they are watched; so I took up my Dante again,
+though scarcely caring to read more; and it opened, this time,
+not at an accustomed place at all, but at the `I come to aid thy
+wish,' of St. Bernard, in the thirty-first canto [Line 65]. Not an
+accustomed place, because I always think it very unkind of
+Beatrice to leave him to St. Bernard; and seldom turn expressly
+to the passage: but it has chanced lately to become of more
+significance to me, and I read on eagerly, to the `So burned the
+peaceful oriflamme [^Par.~ xxxi. 127]' when the increasing light
+became so strong that it awaked me, like a new morning; and I
+closed the book.
+
+     ^Deucalion~, ch. x. secs. 8, 9.
+
+"In the 21st and 22d Cantos of the `Paradiso,' Dante, too,
+connects the Dream of Jacob with the ascetic, living where `@e
+consecrato un ermo, che suole esser disposto a sola latria
+[^Par.~ xxi. 110].'  This is in a sphere of heaven where `la
+dolce sinfonia del Paradiso [^Par.~ xxi. 59]' is heard by mortal
+ears only as overmastering thunder, and where the pilgrim is
+taught that no created vision, not the seraph's `che in Dio pi$u
+l' occhio ha fisso [^Par.~ xxi. 92]' may read that eternal
+statute by whose appointment spirits of the saints go forth upon
+their Master's business and return to Him again."
+
+     Anderson, quoted in ^St. Mark's Rest~, Supp. ii. note.
+

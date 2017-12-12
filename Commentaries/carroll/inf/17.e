@@ -1,0 +1,285 @@
+	|10-11.~ 
+
+     `The face was as the face of a just man, 
+     Its semblance outwardly was so benign.' 
+ 
+For perfect fraud nothing is so useful as this look of benignant 
+justice -- the open countenance, the frank and honest eye, the 
+brow on which integrity sits.  It disarms suspicion and creates 
+trust, until the paws behind have time to clutch and the scorpion 
+tail to sting.  The idea of the just face is much the same as 
+that indicated by the direction in which the travellers have to 
+turn to reach the monster -- to the right, one of the few times 
+in Hell.  This may certainly mean, as it is usually understood, 
+that in our encounters with Fraud our only safety lies in keeping 
+to the right -- the path of rectitude; and the `ten steps' {v. 32}
+which they take in this direction to meet the monster may be
+symbolic of the ten commandments.  This would not exclude the
+further idea that it was not by accident Geryon settled to their
+right on the margin of the chasm: the moral suggestion is that the
+Spirit of Fraud disarms suspicion by approaching those it hopes to
+make its victims on the side of righteousness. 
+
+	|12-18.~  Beneath the human head were `two paws, hairy unto
+the armpits' -- obvious symbols of the brute violence and cruelty 
+which lurk behind the just benignant face, ready to seize their 
+victim.  Lower still, behind the brute lies the reptile, a 
+serpent's tail with the sting of a scorpion -- emblem of the evil 
+wisdom of the serpent, the low crawling cunning with which Fraud 
+entangles its victims, and the deadly poison with which it 
+strikes them from behind.  It is to be noticed, too, that the 
+monster keeps his serpent-tail as far as possible out of sight: 
+ 
+     `And that uncleanly image of Fraud 
+     Came up and thrust ashore its head and bust, 
+     But on the border did not drag its tail.' 
+                              [^Inf.~ xvii. 7-9.] 
+ 
+This it prudently kept unseen, `quivering in the void' below. 
+The general conception in taken partly from the locusts of the 
+Apocalypse: `Their faces were as the faces of men.  And they had 
+hair as the hair of women....  And they had tails like unto 
+scorpions, and they had stings in their tails' [^Rev.~ ix. 7, 8, 
+10].  In mediaeval art, the Satan who tempted Eve is frequently 
+represented as a serpent with a human face.  `The whole figure,' 
+says Hettinger, `is typical of the beginning, the middle, and the 
+end of fraud.  For the impostor seeks to captivate his victim by 
+his gracious aspect, whilst he winds his coils around him, and at 
+last darts out the sting.'  Nor does this complete the symbolism: 
+ 
+     `The back, and breast, and both the sides it had 
+     Depicted o'er with knots and little shields. 
+     With colours more, groundwork and broidery, 
+     Never in cloth did Tartars make nor Turks, 
+     Nor were such tissues by Arachne laid.' 
+                              [^Inf.~ xvii. 14-18.] 
+ 
+The reference to Arachne, the Lydian maiden whom Athene changed 
+into a spider, may give the clue to the idea.  As a spider weaves 
+its web to entangle its prey, so Fraud weaves its network of 
+knots and nooses to ensnare its victims.  `The varied colours, 
+not unlike the pattern of a snake's skin, help out the symbolism 
+of subtle and varied fraud.'  `The "small bucklers" represent the 
+subterfuges under which fraud ^shields~ itself': so ready to 
+strike others with its scorpion tail, it takes care to defend 
+itself, back, and breast, and sides. 
+ 
+	|37-40.~  We have seen the punishments of the two classes of
+the Violent -- against God and against Nature; we come now to those
+inflicted on the Violent against Art.  As explained in a previous 
+chapter, Art means human Work.  Dante's view is that man in his 
+Art or Work should follow Nature, as Nature follows God; to sin 
+against Art, therefore, is indirectly to sin against God Himself. 
+The chief sinners in this respect are Usurers, who evade the law 
+of work laid down by God at the beginning, and `take another 
+way.'  After parting with Rusticucci and his companions on the 
+`wheel,' the two pilgrims pursue their journey along the stone 
+wall, and in a little the thunder of the cataract of Phlegethon 
+as it plunges into the abyss of Fraud so deafens their ears that 
+speech is almost impossible.  Having reached the edge and called 
+up the Guardian of the abyss, they see the Usurers sitting on the 
+sand at the very verge of the precipice; and in order that Dante 
+may carry away full knowledge of the Circle he is leaving, Virgil 
+tells him to go and have a look at them, warning him, however, to 
+let his conversation with them be brief. 
+ 
+	|43-51.~  It is obvious that in Dante's moral scheme Usurers,
+the Violent against Art, are worse than either Blasphemers or 
+Sodomites, the Violent against God and Nature.  This is indicated 
+by the position in which he has set them; they are at the very 
+centre of the innermost Ring of the Circle, clustered round the 
+mouth of the abyss that falls to the Circle of Fraud, and almost 
+dropping into its depths.  Crossing over to where they sit, Dante 
+finds them enduring the punishments common to all the inhabitants 
+of this Ring: the sandy desert over which they bend their heads 
+is the symbol of their own barren lives, empty of all honest 
+fruitful work; and the fire of Heaven's vengeance keeps their 
+hands busy flinging it off: 
+ 
+     Not otherwise in summer do the dogs, 
+     Now with the foot, now with the muzzle, when, 
+     By fleas, or flies, or gadflies, they are bitten. 
+ 
+     [^Inf.~ xvii. 49-51.  His comparison of them to dogs, and to 
+     dogs thus engaged, reveals Dante's contempt of Usurers: 
+     comp. lines 74, 75.] 
+ 
+But they have also punishments peculiar to themselves.  As in the 
+old earthly days, so now they sit crouching over their money-bags,
+which are hung in scorn about their necks.  On these bags 
+their eyes feed hungrily; the ruling passion is strong, not in 
+death alone but beyond it, and where the treasure is, there the 
+heart is also.  Or rather, where the treasure, alas, is ^not~, 
+for their money-bags are as empty now as they were full; and even 
+had they been overflowing, the constant rain of fire would have 
+given their hands no leisure to indulge in the old delight of 
+fingering the coins.  In short, the passion lives on to torture, 
+when all that created and gratified it has passed away. 
+ 
+	|52-57.~  As was pointed out in a former chapter, we must
+regard it as another aspect of their punishment that these Usurers
+are unrecognizable, save indeed by the coats of arms painted on the
+pouches round their necks.  `Not one of them I knew,' says Dante, 
+and this means more than that he has had no dealings with
+money-lenders.  Obviously these coats of arms on which their eyes
+are feasting show that they desired to be known.  Doubtless many of
+them were ^nouveaux riches~, men who made fortunes by
+money-lending, and then set up for aristocrats with coats of arms. 
+Dante had an unspeakable contempt for men whose only claim to be 
+known was the assumption of armorial bearings, bought by the 
+mammon of unrighteousness; and he refused to recognize them, 
+although several belonged to well-known Florentine families.  It 
+is probable, however, that his thought goes deeper still.  As we 
+saw in Circle IV., the Avaricious were unrecognizable, the love 
+and pursuit of money had blotted out their individuality: 
+ 
+     `The undiscerning life which made them sordid 
+     Now makes them unto all discernment dark.' 
+     [^Inf.~ vii. 53, 54. {see comment to VII, 52-54}].
+ 
+Probably the idea is the same here.  Men who devote every power 
+to the acquisition of wealth doom themselves thereby to obscurity 
+and oblivion: no personal genius or memorable deed distinguishes 
+them from the common herd.  They may strive to rescue themselves 
+from this fate by shields and devices and armorial bearings, but 
+they strive in vain: no coat of arms can restore the 
+individuality which their mercenary life has worn away, as the 
+image is worn from the coin. 
+ 
+	|68-75.~  Dante here relates an incident which is difficult to
+explain otherwise than as an example of the inherent envy and 
+vulgarity of men who have had no other object in life than to 
+amass fortunes.  Among a group of Florentines [Napier (^Flor. 
+History~, i. 600) says that in Dante's day the ordinary rate of 
+interest in Florence was twenty per cent. per annum, and that it 
+sometimes rose to thirty and forty], identified by the coats of 
+arms on their money-bags, is a Paduan usurer whose armorial 
+device was an azure sow on a white field.  Dante probably had a 
+peculiar interest in setting this soul here.  His name is 
+Rinaldo, of the well-known family of the Scrovigni of Padua.  In 
+the year 1303 his son Enrico founded the Arena Chapel in that 
+city, in expiation of his father's sins.  `The building of the 
+Arena Chapel by the son, as a kind of atonement for the avarice 
+of the father,' says Ruskin, `is very characteristic of the 
+period, in which the use of money for the building of churches 
+was considered just as meritorious as its unjust accumulation was 
+criminal.  I have seen in a MS. Church-service of the thirteenth 
+century, an illumination representing Church Consecration...
+surrounded, for the purpose of contrast, by a grotesque, consisting
+of a picture of a miser's deathbed, a demon drawing his soul out of
+his mouth, while his attendants are searching in his chests for his
+treasures' [^Giotto and his Works in Padua~, p. 3. n. (Edition
+1900)].  In 1306 Dante's friend Giotto was engaged in covering the
+walls with the great series of frescoes which have made the Arena
+Chapel famous; and it is said that there is documentary evidence
+that Dante was in Padua in the same year.  One can imagine the two
+friends smiling grimly at the idea of rescuing a usurer from Hell
+by the easy process of chapel-building.  Dante, at all events, will
+not allow it to interfere with the course of Divine justice: chapel
+or no chapel, he is determined to set this man here in his own
+place.  Now, even in Hell, he tells us, there still survived
+between this Paduan and his Florentine companions the old earthly
+rivalry and ambition of being the greatest in their business, the
+prince of money-lenders.  This Rinaldo degli Scrovigni was
+evidently in the meantime the greatest usurer of the group, since
+he is the only one who speaks to Dante.  He tells him, however,
+that soon a still greater is coming, -- a certain Vitaliano del
+Dente, of Padua, who will sit on his left hand, the seat of honour
+in Hell.  It is a consolation to him to know that this bad
+pre-eminence is reserved for one of his countrymen, instead of
+passing to his Florentine rivals.  The latter, however, loudly
+dispute the claims of Padua, thundering in his ears that a greater
+than even Vitaliano is coming from Florence: 
+ 
+                    `"Come the sovereign cavalier, 
+     He who shall bring the satchel with three beaks!"' 
+ 
+     [^Inf.~ xvii. 72, 73.  ^Becchi~ means both ^goats~ and 
+     ^beaks~, and both views have been taken.  `Lord Vernon 
+     (^Inf.~ ii.  433) gives a reproduction of the shield taken 
+     from the Archives of Florence.  The ^becchi~ upon it are 
+     eagles' beaks, two above and one underneath' (Vernon's 
+     ^Readings~, ii. 18 n.).] 
+ 
+This `sovereign cavalier' is identified by his coat of arms with 
+Giovanni Bujamonte of Florence, the very prince of usurers in 
+Dante's day.  As I understand it, the meaning is that even in 
+hell the old ignoble rivalries and ambitions of men and cities 
+survive; it is an additional pang to this Paduan that a greater 
+usurer, and he a Florentine, would dethrone him from his bad 
+pre-eminence.  The only ambition which had ever moved these 
+sordid souls had been that of making a larger fortune in business 
+than their rivals; and this poor ambition so survives the shock of 
+death that it adds a new bitterness to perdition itself to think 
+that a greater money-maker, `the sovereign cavalier' of usurers, 
+would eclipse their purse-proud glory.  In his baffled envy the 
+Paduan gave his mouth a twist and thrust forth his tongue, `like 
+to an ox that licks his nose': a sign, perhaps, of the inherent 
+coarseness and low-bred manners which, in Dante's view, were the 
+natural accompaniments of mere money-grubbing, and which no wealth 
+or coat of arms could permanently hide.  Dante has seen and heard 
+enough; without a work he leaves the wretched creatures and 
+returns to his Guide.  His whole treatment of the Usurers stands, 
+and is meant to stand, in strong contrast to the marked reverence 
+with which he had just met the Violent against Nature. 
+
+	|79-136.~  When Dante returned from viewing the Usurers where
+they sat crouching upon the sand, he found Virgil already mounted
+on the back of the `wild animal,' ready for the descent.  At the 
+command to mount, he fell into trembling like a man in ague.  His 
+Guide set him in front, so that he himself might be between him 
+and the scorpion tail behind.  The idea is that as Fraud is 
+`man's peculiar vice,' inasmuch as it is the perversion to deceit 
+of man's peculiar gift of reason, nothing but reason can protect 
+a man from its poison.  Even then, although Virgil embraced and 
+sustained him, Dante was far from being reassured.  When the 
+monster, wheeling with his burden, floated free, `and with his 
+paws drew to himself the air,' the poet was seized with an almost 
+intolerable terror.  For a time everything vanished from his 
+sight save the wild beast; only a wind on his face below told him 
+he was descending, so slow and gradual were the downward 
+circlings; on his right the whirlpool of Phlegethon made a 
+horrible roaring; and when at last, hearing the sound of 
+lamentations, he ventured to look down, he saw the glare of 
+fires, and knew that he was circling round and round, hovering 
+over and gradually approaching `great evils,' which made him 
+cower back in fear and trembling.  It has been well compared to 
+what an aeronaut might see if his balloon descended at night over 
+the foundries, furnaces, and ironworks of the Black Country of 
+Staffordshire.  When Geryon had made his last circuit he set them 
+down at the rugged base of the precipice, and immediately 
+`vanished like an arrow from the string.'  Dante significantly 
+compares him to a falcon which, `without seeing either lure or 
+bird,' slowly descends in a hundred weary circlings and alights 
+far from his master `sullen and disdainful.'  It was in the same 
+sullen and indignant temper that Geryon came down.  Like the 
+falcon, he had seen neither lure nor bird.  The `new sign' of the 
+cord doubtless raised hopes of securing some great prey, a 
+Franciscan friar at least; and he is indignant and sullen that he 
+has had the long and weary flight for nothing.  To defraud others 
+is pleasant; to be himself defrauded is matter for indignant 
+anger. 
+ 
+	|82.~  Another symbol is the absolute impossibility of making
+the descent on foot.  Hitherto the travellers have managed to make
+their own way down without aid.  Twice, indeed, they were carried:
+once by Phlegyas in his boat across the Stygian Fen, and again by
+Nessus over the Ford of the River of Blood.  These, however, were
+movements on the same level, not descents from Circle to Circle. 
+Even at the great broken precipice of Violence on which the
+Minotaur lay stretched, they managed to scramble down unaided. 
+Now, however, if they are to descend into the depths of fraud, the
+monster of the pit must bear them down.  In other words, Reason in
+the person of Virgil must summon the very Spirit of Fraud from his 
+dark and secret hiding-place, must see him clearly in all his 
+reptile deformity, and, having mastered him, compel him to reveal 
+the secrets of his prison-house. 
+ 
+	One other hint of the greatness of the lapse is given in 
+the slow and gradual circlings with which the descent is made. 
+Few men are so hardened that they plunge headlong into fraud as 
+the river did, at one leap.  It is in the nature of this sin that 
+men almost invariably sink into it by windings so slow and 
+gradients so gentle, that they are often unaware of the depth of 
+their fall.  Those who deceive others usually begin by deceiving 
+themselves. 

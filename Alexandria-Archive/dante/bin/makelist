@@ -1,0 +1,12 @@
+#! /bin/sh
+
+: Create a list of all cantos in a directory.  Suffixes are NOT included.
+
+if 
+	test $# -ne 1
+then
+	echo 'Usage:  makelist  <suffix>'
+	exit 1
+fi
+
+ls -1 *.$1 | sed "s/\\.$1//" | sort -n

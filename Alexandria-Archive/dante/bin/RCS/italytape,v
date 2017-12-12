@@ -1,0 +1,45 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.17.50;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Write an IBM-format tape for Zampoli
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh 
+#
+#	Write an IBM-format tape for Zampoli
+#
+#	Usage:	$0  file
+
+if [ $# -ne 1 ]
+then
+	echo "Usage:  $0  file"
+	exit 1
+fi
+
+echo -n Mount tape, hit RETURN...
+read JUNK
+
+for FILE in `cat $1`
+do
+	expand $FILE |
+	dd of=/dev/rmt4 conv=ebcdic cbs=80 obs=1600
+done
+mt rew
+@

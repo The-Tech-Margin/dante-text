@@ -1,0 +1,22 @@
+{GOPTS_HI}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Index Option Help\f2\n~
+
+:PRINT ~#HEADING
+     When  you  enter  a  word at a the search screen prompt, the system
+     looks for all occurrences of that term in the current database, and
+     retrieves  any documents that contain the specified word.  However,
+     to be sure that you retrieve all the  relevant documents, synonyms,
+     plurals, and alternate word forms should be considered.
+
+     The  INDEX  feature helps you locate relevant search terms that you
+     may  not have initially thought of.  When you enter a pattern match
+     at  the  Index  prompt,  the  system locates, displays, and assigns
+     Reference  Numbers to all words beginning with that word stem.  You
+     may  then  select  any  or  all  of the displayed words to create a
+     result set.
+
+     Additional Help is available after you select the INDEX option.\n~
+
+:PAUSE BOTTOM
+:RETURN

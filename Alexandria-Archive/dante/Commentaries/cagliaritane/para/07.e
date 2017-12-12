@@ -1,0 +1,37 @@
+	|1.~  O salvatore la chui resplendiente luce llumine cio@e reschiare 
+de questi regni felic[i] l'anime.  benedecto sia sommo signiore.
+
+	|6.~  cio@e la luce de la sua (et) luce e de la gloria de l'imperio 
+(^di fronte~).
+
+	|35.~  Questa natura.  creata da Dio anima umana creata da lo spirito 
+del criatore fo sincera e bona.  ma per suo difecto fu sbandita de 
+paradiso.  l'anima dico del primo omo et messa nel corpo d'esso fo 
+unita quella divin[i]t@a de l'anima s@i col lo corpo che fo uno 
+perfecto homo et d'annima et di corpo.  questo omo contradisse et 
+desubed@io al suo criatore ch'@e bene infinito.  dunqua se conven@ia al 
+deto homo punitione infinita.  punitione infinita non potea dare 
+potenzia finita.  convenne dunqua che 'l figliuolo de dio ch'@e de 
+potenzia infinita che [se] face[sse] homo s@i ch'ei fosse dio et homo.  
+homo perch@e colui che l'av@ia dasubedito era stato homo.  dio perch@e 
+la 'ngiuria potesse satesfa[re] ch'era stata facta a dio.  dun[qu]a 
+christo secondo homo recievette giustamente la morte che dovea recevare 
+adam giustamente ma pensando a christo secondo la persona sua divina 
+pura senza mai mach[ia] de peca[to] o colpa ma[i] comessa fu la sua 
+morte infinita ingiur[i]a.  et @ai che la mor[te] de christo [fu] vera 
+giusticia en qua[nto] rapresentando homo et cos@i fu giustamente 
+venticata la sua morte pensando che senza colpa i giuderi l'ucidessaro. 
+ et perch@e dio vol[l]e tenere a la sua morte questo modo el testo 
+de[l] libro veramente 'l dichiara.
+
+	|67.~  Ci@o che da dio vene senza mezo aver@a et @e venuto non ar@a 
+mai fine.  et quelle cose sono decte criate.  ci@o sono li angieli ei 
+cieli le stelle li alimenti l'annime de l'ommeni et de le femmene che 
+sono solamente producte dal criatore senza mezo alchuno.
+
+	|130.~  Gli angieli.  responde biatrice come 'l testo el dichiara 
+seguendo li angieli ei cieli el regnio cielestiale et ci@o ch'i'@o 
+nominato.  de loro dire se p#ono criati.  tucte l'altre cose sono state 
+facte da dio d'alchuna materia ch'@e stata mezo tra la cosa facta et 
+dio com el lo testo segue.
+

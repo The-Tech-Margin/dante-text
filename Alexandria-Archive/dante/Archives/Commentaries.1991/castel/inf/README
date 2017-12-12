@@ -1,0 +1,19 @@
+
+Format new .e files with sed program and cleank.
+
+take care when preloading 22.e: diagram.
+
+canto 29 p 3 corrected text.  See NV's instructions before
+preloading.
+
+Note on cleaning 29:  A descriptive outline of the layout of hell
+needs special attention to make it clean correctly.  It has many
+more spaces at the heads of lines than "cleank" wants to allow.
+It is useful to replace all of the spaces with underscore marks (_)
+to neutralize the program with strips "unnecessary" spaces.  When
+done, just replace these marks with spaces using global command.
+
+elisions: "s'" followed by vowel no space.
+
+	  prepositional plurals: no elision.  ex. de' medici: ne'
+luoghi: etc.

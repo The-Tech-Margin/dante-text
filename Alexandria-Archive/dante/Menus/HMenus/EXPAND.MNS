@@ -1,0 +1,9 @@
+{EXPAND}
+
+;
+; Do a BRS index expansion on the given word
+;
+
+:SET #QMASK TO ~%t20     %D documents~
+:SET #ILIMIT TO ~4~
+:BRS INDEX STRIP ~@LINE~ EXPAND

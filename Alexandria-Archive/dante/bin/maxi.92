@@ -1,0 +1,1061 @@
+#! /bin/csh
+
+#	Load all commentaries
+
+#
+# Set the following line as appropriate. THERE IS NO DEFAULT.
+#
+set DB=NDDP
+
+set	path=( . $Dante/bin $Brs/Bin /usr/ucb /bin /usr/bin /usr/local/bin /etc )
+
+#############################
+#                           #
+#    POEM                   #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/poem/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/inf purg/purg para/para
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    JACOPO                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/jacopo/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/proem inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    LOMBARDUS              #
+#                           #
+#############################
+loadlang -d $DB L I
+cd ~/lombardus/staging/purg
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc purg/[0-3]*
+cd purg
+compress *
+
+#############################
+#                           #
+#    LANA                   #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/lana/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/abbr inf/proem inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    GUIDO                  #
+#                           #
+#############################
+loadlang -d $DB L I
+cd ~/guido/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/prolo inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    OTTIMO                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/ottimo/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/proem para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    SELMIANO               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/selmiano/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    PIETRO2                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/pietro2/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/proem inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    PIETRO                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/pietro/staging/purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc purg/[0-3]* para/[0-3]*
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    CASSINALL              #
+#                           #
+#############################
+loadlang -d $DB L I
+cd ~/cassinALL/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    BOCCACCIO              #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/boccaccio/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/access inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    BENVENUTO              #
+#                           #
+#############################
+loadlang -d $DB L I
+cd ~/benvenuto/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    FIORENTINO             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/fiorentino/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    SERRAVALLE             #
+#                           #
+#############################
+loadlang -d $DB L I
+cd ~/serravalle/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/pream inf/[0-3]* purg/pream purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    GUINIFORTO             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/guiniforto/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* 
+cd inf
+compress *
+
+#############################
+#                           #
+#    VELLUTELLO             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/vellutello/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+
+#############################
+#                           #
+#    DANIELLO               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/daniello/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/vita inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    CASTEL                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/castel/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    VENTURI                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/venturi/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    LOMBARDI               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/lombardi/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    PORTIRELLI             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/portirelli/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    COSTA                  #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/costa/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    TOMMASEO               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/tommaseo/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    ANDREOLI               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/andreoli/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    LONGFELLOW             #
+#                           #
+#############################
+loadland E I
+cd ~/longfellow/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *.Z
+cd ./../para
+compress *.Z
+
+#############################
+#                           #
+#    DISIENA                #
+#                           #
+#############################
+loadland I L
+cd ~/disiena/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-9]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    BIANCHI                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/bianchi/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    SCARTAZZINI            #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/scartazzini/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    BERTHIER               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/berthier/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/intro inf/pro inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    POLETTO                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/poletto/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    OELSNER                #
+#                           #
+#############################
+loadland E I
+cd ~/oelsner/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-9]* purg/[0-9]* para/[0-9]*
+cd inf
+compress * 
+cd ./../purg 
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    TOZER                  #
+#                           #
+#############################
+loadland E I
+cd ~/tozer/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-9]* purg/[0-9]* para/[0-9]*
+cd inf
+compress * 
+cd ./../purg 
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    RUSKIN                 #
+#                           #
+#############################
+loadlang -d $DB E I
+cd ~/ruskin/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/proem inf/[0-9]* purg/proem purg/[0-9]* para/proem para/[0-9]*
+cd inf
+compress * 
+cd ./../purg 
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    CARROLL                #
+#                           #
+#############################
+loadlang -d $DB E I
+cd ~/carroll/staging/inf
+uncompress *.Z
+cd ./../
+ddpload -d $DB desc inf/[0-3]*
+cd inf
+compress *
+
+#############################
+#                           #
+#    TORRACA                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/torraca/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    GRANDGENT              #
+#                           #
+#############################
+loadlang -d $DB E I
+cd ~/grandgent/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-9]* purg/[0-9]* para/[0-9]*
+cd inf
+compress * 
+cd ./../purg 
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    STEINER                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/steiner/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    MESTICA                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/mestica/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    BARBI                  #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/barbi/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    DELLUNGO               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/dellungo/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    VANDELLI               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/vandelli/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    GRABHER                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/grabher/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    TRUCCHI                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/trucchi/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    PIETROBONO             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/pietrobono/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    MOMIGLIANO             #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/momigliano/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-9]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    PORENA                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/porena/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/proem para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    SAPEGNO                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/sapegno/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    MATTALIA               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/mattalia/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    CHIMENZ                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/chimenz/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    FALLANI                #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/fallani/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    PADOAN                 #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/padoan/staging/inf
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/0*
+cd inf
+compress *
+
+#############################
+#                           #
+#    GIACALONE              #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/giacalone/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    SINGLETON              #
+#                           #
+#############################
+loadlang -d $DB E I
+cd ~/singleton/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    BOSCO                  #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/bosco/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/pro* inf/[0-3]* purg/pro* purg/[0-3]* para/pro* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *
+
+#############################
+#                           #
+#    PASQUINI               #
+#                           #
+#############################
+loadlang -d $DB I L
+cd ~/pasquini/staging/inf
+uncompress *.Z
+cd ./../purg
+uncompress *.Z
+cd ./../para
+uncompress *.Z
+cd ./..
+ddpload -d $DB desc inf/[0-3]* purg/[0-3]* para/[0-3]*
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *

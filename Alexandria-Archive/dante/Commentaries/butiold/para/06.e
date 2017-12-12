@@ -1,0 +1,2454 @@
+|PARADISO CANTO 06~
+
+	|Proemio.~  ^Poscia che Costantin l'aquila volse~ ec.  Questo @e lo 
+canto sesto della terzia cantica, nel quale lo nostro autore us@o una 
+bella poesia: imper@o che @e indutto a parlare di sopra Iustiniano 
+imperadore.  Finge che, continuando ora lo suo parlare, li dicesse 
+quasi ogni cosa notabile che si trova scritta appresso Livio nelle sue 
+tre decade che rimasono delle quattordici e quasi mezza, che esso Tito 
+Livio scrisse dei fatti dei Romani, de l'edificamento di Roma infine ai 
+suoi tempi.  E per@o questo canto si divider@a prima in due parti 
+secondo lo modo usato: imper@o che prima finge che lo detto beato 
+spirito, incominciando lo suo parlare dell'andata di Costantino 
+imperadore, che dot@o la Chiesa, a Costantinopoli infine a s@e, dice di 
+s@e e manifesta la sua condizione; e poi, incominciando delle battaglie 
+d'Enea con Turno, tocca quel che feceno li Romani infino al secondo 
+imperadore, che fu Ottaviano dopo Cesari, ogni cosa notabile che Cesari 
+fece toccando spezialmente che fu innanti a tutti l'imperadori lo primo 
+che occup@o lo imperio.  Nella seconda parte finge che dicesse quello 
+che fece lo secondo imperadore, cio@e Ottaviano, e poi lo terzo, cio@e 
+Tiberio; et oltra a ci@o li dice delle condizioni di quelli spiriti 
+beati che si rappresentano nella spera di Mercurio, et incominciasi 
+quine: ^Di quel che fe~ ec.  La prima, che ser@a la prima lezione, si 
+divide tutta in sei parti: imper@o che prima, facendo menzione di 
+Costantino, fa manifestar s@e lo spirito detto che @ae incominciato a 
+parlare quanto al grado della dignit@a; nella seconda si nomina e dice 
+spezialmente una opera notabile che fece mentre che fu nel mondo, et 
+incominciasi quine: ^Cesari fui~, ec.; nella terzia parte finge 
+l'autore come lo detto spirito, manifestato lo suo errore e la 
+conversione, si dirizz@o a parlare della insegna dell'aquila, et 
+incominciasi quine: ^Tosto che colla Chiesa~ ec.; nella quarta, 
+incominciando a parlare de l'insegna dell'aquila, dice della morte di 
+Pallante, de l'edificazione e durazione d'Alba, dei tre Orazi che 
+combattettono con tre Curazi e del ratto de le Sabine e della morte di 
+Lucrezia, e dei sette regi che finitteno a Tarquino Superbo, et 
+incominciasi quine: ^Vedi quanta virt@u~ ec.; ne la quinta parte finge 
+che lo detto spirito dica quello che feceno li Romani sotto la insegna 
+dell'aquila contra le strane genti, et incominciasi quine: ^Sai quel 
+che fe~; nella sesta parte finge che dicesse quello che fe Cesari che 
+fu primo imperadore, et incominciasi quine: ^Poi presso al tempo~ ec.  
+Divisa la lezione prima, ora @ene da vedere l'esposizione letterale, 
+allegorica e morale; la quale esposizione conviene essere grande per le 
+molte istorie che occorreranno.
+
+	|1-9.~  In questi tre ternari lo nostro autore finge come lo spirito 
+beato, che prima gli avea parlato, riprese lo suo parlare in verso lui 
+manifestandoli prima la sua condizione e la dignit@a che ebbe nel 
+mondo, cio@e la dignit@a imperiale, dimostrando unde ella ebbe 
+principio dicendo cos@i: ^Poscia che Costantin~; di questo Costantino 
+@e stato detto nella prima cantica nel canto XIX, quando disse: ^Ahi, 
+Costantin, di quanto mal fu matre, Non la tua conversion; ma quella 
+dote Che da te prese il primo ricco patre!~, ne la seconda cantica nel 
+canto XXXII; e niente di meno qui anco ne fa menzione dicendo che 
+Costantino fu quelli che prima mut@o la sedia de lo imperio da Roma, 
+poi che fu convertito da papa Silvestro, e traslat@o in Grecia a 
+Costantinopoli; la quale citt@a fu denominata da lui Costantinopuli, et 
+edificata in su una citt@a marina che si chiamava Bisanzio, e quive 
+men@o li senatori di Roma colle loro famiglie e volse che fusse 
+chiamata nuova Roma, e fusse capo dello imperio d'Oriente, e condussevi 
+li Romani con promissione di rimetterli in su lo terreno di Roma infra 
+breve tempo.  La qual promessa addimandando li Romani che adimpiesse, 
+rispuose loro che l'aveva adimpiuta: imper@o ch'elli erano in sul 
+terreno di Roma: imper@o che avea fatto portare in su una nave della 
+terra di Roma, e quella avea fatta spargere per tutto Costantinopoli; e 
+cos@i disse che avea osservato la promessa, ch'elli gli avea rimessi in 
+sul terreno di Roma, e quine moritte e fu sepulto in uno sepolcro di 
+porfido, chiuso per s@i fatto modo che non si pu@o aprire.  Questo 
+Costantino fu romano figliuolo di Costantino e d'Elena concubina del 
+detto Costantino, figliuola del re di Brettagna, et intr@o ne lo 
+imperio nel IV anno della persecuzione di Gallerio nelli anni Domini 
+309, e dal principio del mondo 4272, e regn@o anni 34 e d@i 35, e 
+Licinio li fu dato per compagno.  E nel VII anno del suo imperio 
+insieme con Licinio vinse Massenzio crudelissimo col segno della croce, 
+non essendo anco fatto cristiano; e la madre sua Elena fu quella che 
+trov@o la croce di Cristo, ammonita nel sonno per pi@u visioni, e quive 
+fece una bella chiesa.  E tenne lo imperio Costantino con Licinio anni 
+24, poi Costantino lo sconfisse a Tessalonica essendo Licinio d'anni 
+40, perch@e perseguitava li cristiani, e fecelo decapitare.  E solo 
+Costantino con molta felicit@a tenne lo imperio poi; e l'anno che si 
+battezz@o, oltra li fanciulli o le femmine, 12000 omini si battezzorno; 
+e concedette al papa tutti li papali adornamenti, e la signoria 
+temporale di Roma e di tutte le parti occidentali, e la spirituale e 
+temporale signoria sopra tutte le chiese del mondo, ^l'aquila~; cio@e 
+la insegna imperiale che @e l'aquila nera aperta nel campo ad oro, la 
+quale fu segno dello imperio, e fu recata da Enea per insegna da Troia 
+in Italia.  Questa insegna tenevano li Troiani in memoria che Iove 
+rapitte Ganimede troiano in specie d'aquila, e puoselo a servigio suo 
+per servitore di coppa, rimossane Ebe figliuola di Iunone, ^volse 
+contra 'l corso del Ciel ch'ella seguio~: imper@o che Enea troiano 
+venne da Troia, destrutta Troia per li Greci, in Italia co la insegna 
+dell'aquila e pervenne al Tevere di Roma colla detta insegna, e con 
+tremilia uomini d'arme.  E poi Costantino, al tempo detto di sopra, da 
+Roma traslat@o lo imperio a Costantinopuli, s@i che fu ritornare 
+l'aquila da l'occidente all'oriente come era venuta con Enea 
+dall'oriente a l'occidente; e per@o dice: ^Contra 'l corso del Ciel~: 
+imper@o che 'l cielo fa la revoluzione sua da l'oriente inverso 
+l'occidente, s@i che andando inverso l'oriente, andava contra 'l corso 
+del cielo; e venendo dall'oriente all'occidente, seguiva lo corso del 
+cielo.  E come @e stato detto, la revoluzione del cielo dall'oriente a 
+l'occidente @e secondo il primo mobile; ma l'ottava spera e li pianeti 
+fanno contraria revoluzione dall'occidente inverso l'oriente.  E 
+perch@e di questi due movimenti l'uno; cio@e quello del primo mobile da 
+oriente per occidente ad oriente, si chiama naturale, uniforme e 
+diritto, e l'altro si chiama accidentale, diviso et obliquo, vuole dare 
+ad intendere l'autore che la venuta dello imperio d'oriente ad 
+occidente fusse produtta secondo la influenzia di tutti li cieli, che 
+tutti si muoveno, cos@i per lo moto naturale del primo mobile, e per lo 
+loro violentato da quello; ma la ritornata fusse pure secondo lo moto 
+contrario de le otto spere e della loro influenzia, che non @e naturale 
+et uniforme e diritto, sicch@e non fu ragionevile come la venuta, n@e 
+diritta: per@o che fu contra l'ordine del moto universale, ^Dietro 
+all'antico~; cio@e Enea Troiano che fu l'antica origine dei Romani: 
+imper@o che da lui discesono, come appare nelle istorie di ci@o 
+scritte, e come dimostra Livio nella prima Decade nel primo libro, 
+^che~; cio@e lo quale Enea, ^Lavinia~; che fu figliuola del re Latino, 
+re della citt@a chiamata Laurento, e Lavino prima da Beatrice di Lavino 
+fratello del re Latino; e poi Laurento dal lauro che era cresciuta 
+nella rocca che fece lo re Latino.  E poi che Enea predetto combatt@e 
+con Turno e vinselo e vinse la detta citt@a, che era presso alla sua 
+che avea fatto in sul Tevero, dove @e avale Ostia, la chiam@o Lauro 
+Lavinio dal nome primo e da Lavinia figliuola del detto re Latino la 
+quale ebbe per donna, e la citt@a e lo regno per sua dote, et ebbe di 
+lei uno figliuolo che si chiam@o Silvio Enea, perch@e nacque dopo la 
+morte d'Enea nelle selve, fuggita Lavinia ne le selve per paura 
+d'Ascanio suo figliastro; lo quale li restituitte poi la citt@a sua, et 
+elli fece poi un'altra citt@a in su' monti la quale chiam@o Alba, come 
+si dir@a di sotto, ^tolse~; cio@e per sua donna la quale era stata 
+promessa per la sua madre, cio@e per la reina Amata a Turno re d'Ardea 
+che era in Campagna, che era suo nipote; et ello re Latino l'avea 
+promessa ad Enea, e per@o combatterno insieme, ^Cento e cento anni e 
+pi@u l'uccel di Dio~; cio@e l'aquila consecrata a Iove, perch@e quando 
+combatt@e coi Giganti, secondo le fizioni poetiche, l'aquila li porgeva 
+le saette colle quali percoteva li Giganti, e secondo la verit@a si 
+pu@o chiamare l'uccello di Dio, perch@e pi@u alto vola e pi@u presso al 
+cielo che nessuno altro uccello, ^Nello estremo~; cio@e nella estrema 
+parte, ^d'Europa~: Europa @e la terza parte del mondo et @e determinata 
+di verso l'oriente dal mare maggiore che va in verso settentrione a le 
+palude Meotide; lo quale mare, stendentesi infine a Tanai, divide 
+l'Asia da l'Europa; e da settentrione infine a l'occidente @e cinta dal 
+mare oceano; e da mezzo d@i @e terminata dal mare mediterraneo che 
+divide Affrica da Europa.  E fu chiamata Europa da Europa figliuola del 
+re Agenore di Sidonia, la quale Iove rapitte apparendo in spezie di 
+toro e menolla, passando lo mare d'Asia, in Europa, nella quale @e Roma 
+capo del mondo.  In questa Europa sono molte provincie; ma inverso 
+Asia, quine dove @e Costantinopoli, @e la Grecia che si chiama Romania; 
+un'altra Grecia @e pi@u verso l'occidente, in su la punta d'Italia che 
+si chiama Calavria; della prima intende ora l'autore.  ^Vicino ai 
+monti~; cio@e troiani: imper@o che Troia @e in Asia, incontra a 
+Costantinopuli: Frigia @e lo nome della regione la quale pi@u provincie 
+@ane in s@e, tra le quali @e Troia, et in essa fu la citt@a del re 
+Priamo chiamata Troia, e la rocca chiamata Ilion in su' monti posta, 
+^dei quai~; cio@e monti troiani, ^prima uscio~; cio@e lo detto uccello: 
+imper@o che non v'@e in mezzo, se non lo mare, e non @e molto ampio 
+quine.  E bene @a detto di sopra che lo imperio stette ^Cento e cento 
+anni e pi@u~ in Grecia: imper@o che vi stette da Gostantino infine a 
+Carlo Magno, che soccorse Roma e la chiesa d'Iddio, che era assalita 
+dall'infideli Longobardi e liberata da la loro invasione parecchie 
+volte.  Al fine li Romani, avendo per imperadrice Irene madre di 
+Costantino figliuolo di Leone, lo quale Costantino ella aveva accecato, 
+dierno lo imperio a Carlo Magno; e Leone papa che era stato accecato e 
+talliatoli la lingua, riavuto lo vedere e lo parlare per grazia divina, 
+consecr@o Carlo Magno imperadore e Pipino suo figliuolo re d'Italia; lo 
+quale Carlo avea fatto iustizia dei perseguitatori di papa Leone.  E 
+bene stette in Costantinopuli lo imperio dugento anni e pi@u, inanti 
+che pervenisse ad Iustiniano imperadore, lo quale incominci@o ad 
+imperare nelli anni Domini CVXXVIII; e Costantino imper@o nelli anni 
+Domini CCCIX; dunqua ben passorno pi@u di CC anni: imper@o che da CCCIX 
+a CCCCCXXVIII @a dugento dicennove, s@i che ben sono pi@u di dugento.  
+E poi uscitte di Grecia al tempo di Carlo Magno nelli anni Domini 
+CVIILXXXVI, sicch@e in tutto stette in Grecia lo imperio da Costantino 
+a Carlo Magno re di Francia, che fu fatto imperadore per li Romani, 
+quando avea regnato in Francia gi@a anni 33, che furno anni IIIILXXVII. 
+ E perch@e qui fa menzione del descenso dell'imperadori, che da Cesari 
+infino a Iustiniano furno 56 imperadori, e da Iustiniano insine a 
+Vinceslao figliuolo di Carlo re di Boemia, che non @e anco coronato, 
+furno imperadori 57; e volendo vedere questo, debbiamo sapere che lo 
+primo imperadore fu Iulio Cesari che tenne lo imperio anni 4; lo 
+secondo, Divo Ottaviano Agusto che tenne lo imperio anni 56; lo terzio, 
+Nero Claudio Tiberio che tenne lo imperio anni 23; lo quarto, Gaio 
+Caligula anni 3; lo quinto, Claudio Druso anni 24; lo sesto, Nerone 
+crudele anni 13; lo settimo, Galba mesi 7; l'ottavo, Otto d@i 95; lo 
+nono, Vitellio mesi 8; lo decimo, Vespasiano anni 10; lo undecimo, Tito 
+suo figliuolo anni 2; lo dodicesimo, Domiziano fratello di Tito anni 
+14; lo tredicesimo Nerva, anno 1 e mesi 4; lo quatuordecimo, Traiano 
+anni 29; lo quindecimo, Adriano figliuolo di Traiano anni 21; lo 
+sedecimo Antonio pietoso con Marco Aurelio e Lucio Commodo suoi 
+figliuoli anni 22; lo settimodecimo, Marco Aurelio con Comodo Aurelio 
+anni diciannove; lo decimo ottavo, Aurelio Comodo anni 13; lo 
+decimonono, Elio pertinace mesi 6; lo vigesimo, Severo anni 19; lo 
+vigesimoprimo Antonio Secondo Caratella anni 6; lo ventiduesimo, Matre 
+Materno anno 1; lo vigesimoterzio, Marco Aurelio Antonio terzio Gaballo 
+anni 4; lo vigesimoquarto, Alessandro primo Manimea anni 14; lo 
+vigesimo quinto, Massimiano anni 3; lo vigesimo sesto, Gordiano anni 6; 
+lo vigesimo settimo, Filippo primo Cristiano imperadore figliuolo di 
+Gordiano anni 6; lo vigesimo ottavo, Decio anno 1 e mesi 4; lo vigesimo 
+nono, Gallua Ostiliano col suo figliuolo Volusiano anni 2 e mesi 4; lo 
+trigesimo, Valeriano con Galieno suo figliuolo anni 14; lo tregesimo 
+primo, Claudio secondo anno 1 e mesi 9; lo tregesimo secondo, Quintillo 
+fratello di Claudio d@i 7; lo tregesimo terzio, Aureliano anni 5 e mesi 
+6; lo tregesimo quarto, Tacito mesi 6; lo tregesimo quinto, Claudio d@i 
+4; lo tregesimo sesto, Probo anni 6 e mesi 4; lo tregesimo settimo, 
+Caro di Narbona anni 2; lo tregesimo ottavo, Diocleziano e Massimiano 
+anni 20; lo tregesimo nono, Galerio Massimiano con Costantino e Licinio 
+anni 2; poi Costantino e Licinio, e rimase solo Costantino; lo 
+quadragesimo, Costantino figliuolo di Costantino predetto e d'Elena 
+primo anni 30, mesi 10 e d@i 11, questi trov@o Massenzio imperatore 
+fatto da' Romani et ucciselo; lo quadragesimo primo, Costantino secondo 
+con Costantino e Costante fratelli anni 24; lo quadringesimo secondo, 
+Iuliano figliuolo di Costanzio anni 2 e mesi 8; lo quadragesimo terzio, 
+Ioviniano mesi 8; lo quadragesimo quarto, Valenziano col suo fratello 
+Valente anni 11; lo quadragesimo quinto, Valente con Graziano e 
+Valenziano anni 4; lo quadragesimo sesto, Graziano con Valenziano e 
+Teodosio anni 6; lo quadrigesimo settimo, Teodosio primo con Valenziano 
+anni 11; lo quadragesimo ottavo, Arcadio e Onorio figliuoli di Teodosio 
+anni 13; lo quadragesimo nono Onorio, con Teodosio figliuolo d'Arcadio 
+anni 14; lo quinquagesimo, Teodosio solo anni 3 e con Valenziano 
+figliuolo de l'amica sua anni 24; quinquagesimo primo, Marziano e 
+Marziano anni 7; lo quinquagesimo secondo, Leone primo anni 17; lo 
+quinquagesimo terzio, Cenone anni 9; lo quinquagesimo quarto, Anastasio 
+primo anni 25; lo quinquagesimo quinto, Iustino primo anni 9; lo 
+quinquagesimo sesto, Iustiniano primo, nipote di Iustino anni 38; lo 
+quinquagesimo settimo, Iustino secondo anni 12; lo quinquagesimo 
+ottavo, Tiberio secondo anni 7; lo quinquagesimo nono, Maurizio anni 
+21; lo sessagesimo, Foca anni 7; lo sessagesimo primo, Ericlato con 
+Costanzio anni 7; lo sessagesimo secondo, Costantino figliuolo d'Eradio 
+mesi 4, con Itadona suo fratello anni 27; lo sessagesimo terzio, 
+Costantino terzio figliuolo di Costantino; lo sessagesimo quarto, 
+Costantino quarto figliuolo del detto Costantino anni 17; lo 
+sessagesimo quinto, Iustiniano secondo anni 10: lo sessagesimo sesto, 
+Leone Patrizio secondo anni 4; lo sessagesimo settimo, Asimaro Tiberio 
+anni 3; lo sessagesimo ottavo, Iustiniano terzio anni 7; lo sessagesimo 
+nono, Filippo Barduino anno uno, mesi, 5; lo settuagesimo, Anastasio 
+Artemio anni 3; lo settuagesimo primo, Teodosio anno uno; lo 
+settuagesimo secondo, Leone terzio con Costantino suo figliuolo anni 
+25; lo settuagesimo terzio, Costanzio col figliuolo suo Leone anni 17; 
+lo settuagesimo quarto, Leone anni 5; lo settuagesimo quinto, 
+Costantino secondo di Leone primo detto figliuolo con Irene sua madre 
+anni 17; lo settuagesimo sesto, Riteoforo anni 9; lo settuagesimo 
+settimo, Michele anni 2; lo settuagesimo ottavo, Carlo Magno figliuolo 
+del re Pipino anni 15; lo settuagesimo nono, Ludovico primo figliuolo 
+del detto Carlo con Lottieri suo fratello anni 25; l'ottuagesimo, 
+Lottieri anni 15; l'ottuagesimo primo, Lodovico secondo anni 21; 
+l'ottuagesimo secondo, Carlo Calvo secondo anni 2; l'ottuagesimo 
+terzio, Carlo Iovano Grosso terzio anni 12; l'ottuagesimo quarto, 
+Arnolfo primo anni 12; l'ottuagesimo quinto, Ludovico terzio anni 16; 
+l'ottuagesimo sesto, Berlinghieri primo anni 4; l'ottuagesimo settimo, 
+Currado primo alamanno anni 7, ma non fu confermato; l'ottuagesimo 
+ottavo, Berlinghieri secondo in Italia anni 9; l'ottuagesimo nono, 
+Arigo primo figliuolo detto di Sassogna anni 18; lo nonagesimo, 
+Berlinghieri terzio anni 7; lo nonagesimo primo, Lottieri secondo anni 
+2; lo nonagesimo secondo, Berlinghieri quarto con Alberto suo figliuolo 
+anni 11; lo nonagesimo terzio, Otto primo figliuolo d'Arigo di Sassogna 
+anni 36; lo nonagesimo quarto, Otto secondo con Otto suo figliuolo anni 
+10; lo nonagesimo quinto, Otto terzio anni 19; lo nonagesimo sesto, 
+Arigo di Baviera anni 22; lo nonagesimo settimo, Currado secondo anni 
+15; lo nonagesimo ottavo, Arigo figliuolo del detto Currado anni 17; lo 
+nonagesimo nono, Arrigo quarto figliuolo del sopradetto Arrigo anni 50; 
+lo centesimo, Arrigo secondo figliuolo del sopradetto Arrigo anni 20; 
+lo centesimo primo, Lottieri anni 11; lo centesimo secondo, Corrado 
+nipote d'Arrigo de la suore anni 15; lo centesimo terzio, Federigo 
+primo nipote di Corrado anni 38; lo centesimo quarto, Arrigo sesto 
+figliuolo di Federico predetto anni 7; lo centesimo quinto, duca di 
+Sassogna quarto anni 2; lo centesimo sesto, Federigo figliuolo dello 
+imperadore Arrigo quinto anni 28; lo centesimo settimo, Tandegrano di 
+Toringia anni 4; lo centesimo ottavo, Currado figliuolo di Federigo, ma 
+non fu coronato, del quale nacque Curradino; lo centesimo nono fu lo 
+detto Curradino bench@e non fusse coronato; lo centesimo decimo fu 
+Arrigo di Lusimburgo che fu attoscato a Bonconvento, lo centesimo 
+undecimo fu Ludovico di Baviera chiamato Bavaro e non fu coronato; lo 
+centesimo duodecimo fu Carlo re di Boemia, coronato a Roma per papa 
+Chimento; cio@e per li suoi cardinali nel 1355; lo centesimo tredecimo 
+@e ora Vinceslao re di Boemia figliuolo del detto Carlo lo quale non @e 
+anco coronato, bench@e corra 1393 dalla incarnazione.  ^E sotto l'ombra 
+de le sacre penne~; cio@e sotto l'apparenzia della insegna imperiale, 
+cio@e dell'aquila; e dice ^sacre penne~, cio@e dell'aquila, e pone la 
+parte per lo tutto, cio@e per l'aquila; e tanto dice cos@i, perch@e 
+l'aquila con l'ale aperte @e la insegna de lo imperio e dice ^sacre~: 
+imper@o che tale insegna @e consecrata, cio@e confirmata per tutti li 
+imperadori passati; e ben dice ^ombra~: imper@o che l'imperadori 
+incominciorno avere pur lo nome e l'apparenzia dello imperio; ma non 
+l'opera; e per@o si pu@o dire ombra come @e avale, che @e lo imperio 
+pur in nome et in vista, e non in fatti; e cos@i dopo Costantino, 
+digradando la potenzia dell'imperadori, rimase lo nome de lo imperio e 
+l'ombra, ^Govern@o 'l mondo~; cio@e resse lo governo del mondo, pur per 
+l'ombra delli imperadori passati, ^l@i~; cio@e stando in Grecia a 
+Costantinopoli, ^di mano in mano~; cio@e d'imperadore in imperadore; e 
+ben dice che l'aquila govern@o lo mondo: imper@o che per essa s'intende 
+la potenzia e l'autorit@a imperiale, la quale vola sopra tutte le 
+signorie per eccellenzia, come l'aquila sopra tutti li uccelli, ^E 
+s@i~; cio@e per s@i fatto modo, ^cangiando~; cio@e cambiando e mutando 
+l'uno imperadore dopo l'altro, e succedendo, ^in su la mia~; cio@e 
+mano, ^pervenne~; cio@e l'aquila, cio@e la dignit@a imperiale e 
+potenzia, succedendo pervenne a la mia amministrazione et operazione, 
+cio@e ad essere esercitata per me.  E questo spirito, che parlato @a 
+insino a qui, si manifesta nella seguente parte.
+
+	|10-21.~  In questi quattro ternari lo nostro autore finge che lo 
+spirito, che avea parlato di sopra, ora si li manifestasse per nome e 
+per offizio e dicesseli brevemente la condizione della sua vita, 
+dicendo cos@i: ^Cesari fui~; cio@e io, che t'@o parlato, fui nel mondo 
+imperadore de' Romani; ma stetti in Grecia a Costantinopoli, come 
+appare di sopra: la cagione, per che l'imperadori si chiamano Cesari, 
+fu presa da Iulio Cesari lo quale fu lo primo imperadore de' Romani, e 
+per@o poi tutti gli altri furno detti Cesari; e perch@e le dignit@a 
+mondane non durano se non mentre che si sta nel mondo, e vegnano meno 
+quando l'uomo muore, per@o dice: ^fui~; cio@e quand'io fui nel mondo; 
+ma non avale, ^e son~; cio@e ora, ^Iustiniano~; lo nome proprio suo fu 
+Iustiniano, e significa lo individuo; e per@o dice, ^son~; cio@e avale 
+quello individuo che io fui nel mondo, se non che l'anima che @e forma 
+de l'omo @e partita dal corpo, sicch@e quanto a la forma sono quello 
+omo che io fui; ma non al composto della forma e materia.  Questo 
+Iustiniano fu imperadore dopo Iustino Seniore suo zio: imper@o che 
+Iustiniano era nato della sirocchia di Iustino, et incominci@o lo 
+imperio ne li anni 528 e tenne lo imperio anni 38 e mesi 6; e fatto 
+imperadore, prese a correggere le leggi romane levandone ogni 
+superfluit@a e vanit@a, come dice l'autore nel testo.  E per@o dice: 
+^Che~; cio@e lo quale Iustiniano, ^per voler~; cio@e per volunt@a, ^del 
+primo Amor~; cio@e dello Spirito Santo, lo quale @e lo primo amore, 
+^ch'io~; cio@e lo quale amore io Iustiniano, ^sento~; cio@e avale che 
+sono alla beatitudine, ^D'entro le leggi~; cio@e romane, ^trassi 'l 
+troppo~; cio@e leva'ne, correggendone quello che v'era troppo: imper@o 
+che forse d'una medesima cosa v'era pi@u volte, cio@e in pi@u luoghi, 
+^e 'l vano~; cio@e lo disutile: poteva essere una medesima cosa utile 
+in pi@u luoghi, bastava che fusse in uno, e cos@i ne tolse il troppo 
+levandone gli altri che erano di soperchio; potea anco essere che tra 
+quegli che erano soperchi v'era uno pi@u utile e pi@u necessariamente 
+detto: riteneva che v'era di quello che non era punto utile, e quello 
+ne tolleva, e cos@i ne toglieva il vano.  E perch@e nessuno bene 
+possiamo fare senza la grazia d'Iddio, per@o dice che questo, che fu 
+uno grande bene; arrecare le leggi in ordine e levarne lo troppo e 'l 
+vano, elli fece, perch@e Iddio volse e prest@ogli la grazia dello 
+Spirito Santo, a ci@o fare.  E secondo ch'io @o trovato et udito da' 
+Legisti, Iustiniano fece la correzione di tutte le leggi in tre anni, 
+commesso a Tribuniano maestro delli offici, eccellentissimo uomo, che 
+questo facesse et eleggessesi compagni a ci@o idonei, li quali tutti 
+furno eccellentissimi uomini in numero nove, li quali 10 con Tribuniano 
+et insieme collo imperadore predetto corressono e compuoseno lo Codice, 
+arrecando li tre antichi in uno nuovo che contiene dodici libri; e 
+corressono e compuoseno li 50 libri di Digesti, cavandoli di quasi du' 
+milia libri, e poi che trenta centonaia di milliaia di versi dalli 
+antichi Iurisconsulti fatti, e lo detto Tribuniano da altri compuoseno 
+e corressono li quattro libri dell'Istituta et altre costituzioni 
+imperiali fatte dal detto Iustiniano, per correzione di quelle che 
+erano fatte prima.  ^E prima ch'io~; ora confessa lo peccato suo, 
+dicendo: ^E prima ch'io~; facesse questa opera, cio@e la correzione 
+delle leggi, e per@o dice: ^E prima ch'io~; cio@e e prima ch'io 
+Iustiniano, ^a l'opra fussi attento~; cio@e fussi dato all'opera detta 
+di sopra, ^Una natura~; cio@e solamente la divina e non l'umana, come 
+credevano certi eretici che dicevano che Iddio non pu@o sostenere pena, 
+e che la passione sostenne uno corpo fantastico che pareva corpo e non 
+era; e per@o dice: ^in Cristo~; nostro Salvadore, figliuolo d'Iddio 
+vivo e vero, Iddio e omo, ^esser non piue~; cio@e che una natura, 
+^Credea~; cio@e io Iustiniano, ^e di tal fede~; quale detta @e, ^era 
+contento~; cio@e io Iustiniano, parendomi che fusse vero considerando 
+la ragione detta di sopra, non accorgendomi della verit@a; cio@e che in 
+Cristo funno due nature, cio@e divina et umana: umana natura sostenne 
+pena nella passione, e la divina si ritrasse in s@e non partendosi 
+per@o da l'umanit@a, siccome dimostr@o elli in sulla croce quando 
+grid@o: ^Deus meus, Deus meus, ut quid dereliquisti me?  -- Ma 'l 
+benedetto Agabito, che fue Sommo pastore~; questo Agabito fu papa al 
+tempo di Iustiniano e tenne lo papato mesi 11, dopo papa Giovanni che 
+il tenne due anni, passato gi@a de lo imperio di Iustiniano anni 38 e 
+mesi 7, ^a la Fede sincera~; cio@e pura senza turbazione d'eresia, ^Mi 
+dirizz@o~; cio@e dirizz@o me Iustiniano, ^colle parole sue~; cio@e col 
+suo ammaestramento.  ^Io~; cio@e Iustiniano, ^li credetti~; cio@e a 
+papa Agabito, ^e ci@o che 'n sua fede era~; cio@e del detto papa 
+Agabito, ^Veggio ora chiaro~; cio@e essere vero chiaramente, ^s@i, come 
+tu vedi~; cio@e tu, Dante; ecco che arreca la similitudine, ^Ch'ogni 
+contradizion @e falsa e vera~ diceno li Dialettici che, se l'una delle 
+proposizioni contradittorie @e vera, l'altra @e falsa; e se l'una @e 
+falsa, l'altra @e vera: imper@o che non possono essere insieme amendune 
+vere, n@e amendune false; e pognano questo esemplo: Ogni uomo corre; 
+questa @e contradittoria a questa: Alcuno omo non corre.  Se la prima 
+@e vera conviene la seconda essere falsa; e se la prima fusse falsa, 
+non sarebbe se non perch@e la seconda sarebbe vera.  E cos@i da 
+qualunqua parte si ponesse la verit@a, dall'altra converrebbe essere la 
+falsit@a, come pu@o vedere chi ci@o dirittamente penser@a.
+
+	|22-33.~  In questi quattro ternari lo nostro autore finge come 
+Iustiniano, continuando lo suo parlare, discende a dire dei grandi 
+fatti che furno fatti nel passato per l'imperadori passati inanti, 
+dicendo cos@i: ^Tosto~; cio@e altres@i tosto, ^che colla Chiesa~; cio@e 
+colla Chiesa catolica, romana, ^mossi i piedi~; cio@e le mie affezioni, 
+cio@e ch'io credetti quello che crede la santa Chiesa, ^A Dio~; dal 
+quale viene ogni grazia, ^piacque per grazia~; cio@e preveniente che mi 
+misse in cuore di fare la correzione delle leggi, per la quale io 
+addimandai la grazia illuminante e cooperante, ^d'ispirarmi~; cio@e di 
+mettermi in cuore, ^L'alto lavoro~; cio@e la correzione delle leggi, 
+che fu alto lavoro e di grande sottigliezza e di grande fatica e 
+d'utilit@a grande al mondo, ^e tutto a lui mi diedi~; cio@e diedi me io 
+Iustiniano tutto al detto lavoro: se l'uomo non si d@a tutto all'opera 
+ch'elli fa, nolla fa mai perfettamente.  ^Et al mio Belisan~; questo 
+Belisan fu principe de la milizia del detto imperatore e suo maggiore 
+siniscalco, ^commendai l'armi~; cio@e in lui commessi tutti li atti 
+bellici, e fatti bellici dello imperio, ^Cui~; cio@e al quale, ^la 
+destra del Ciel~; cio@e la felicit@a che viene dal cielo, cio@e da Dio, 
+siccome da prima cagione, e da presso dalle influenzie dei corpi 
+celesti siccome da seconde cagioni, ^fu s@i coniunta~: imper@o che 
+d'ogni battaglia rimaneva vincitore, e ci@o che si metteva a fare li 
+veniva fatto, ^Che segno fu ch'io dovesse posarmi~; cio@e che io 
+Iustiniano mi riposasse dell'operazioni pratiche, e ch'io mi desse 
+all'operazioni intellettuali e teoriche.  ^Or~; cio@e ora, ^qui~; cio@e 
+in questo luogo e punto del mio dire, ^s'appunta~; cio@e si coniugne, 
+^la mia risposta~; la quale io t'@o fatto infine a qui, ^a la question 
+prima~; cio@e al dimando primo che mi facesti, cio@e ch'io dicesse 
+ch'io era, la quale fu la prima parte del tuo dimando, come appare di 
+sopra nel testo dove l'autore dimand@o; ma alla seconda parte non 
+risponde ora, rispondr@avi di sotto.  Ma ora finge l'autore che per 
+alcuno detto di sopra, cio@e della insegna de l'aquila, e di quello che 
+@anno fatto l'imperadori sotto s@i fatta insegna; e per@o dice: ^ma la 
+condizione~; cio@e mia, che fui imperadori e militai pi@u volte sotto 
+lo stendale dell'aquila, ^Mi stringe~; cio@e stringe me Iustiniano, ^a 
+seguitar alcuna iunta~; cio@e alle parole dette di sopra da me, 
+^Perch@e tu~; cio@e Dante ^veggi con quanta ragione Si muove contra 'l 
+sacro santo segno~; cio@e dell'aquila; ecco lo fine che mi muove a 
+parlare d'esso segno, lo quale chiama ^sacro santo~ perch@e da tanti 
+imperadori @e stato portato, e con esso tante vittorie aqquistate, che 
+tutto lo mondo quasi s@i fatto segno @a riverito, ^E chi 'l 
+s'appropria~; cio@e e colui che fa proprio suo lo gonfalone e lo segno 
+dell'aquila: imper@o che nessuno signore e nessuno comune dovrebbe 
+appropriarsi lo segno dell'aquila per riverenzia de lo imperio, se non 
+l'avesse gi@a di grazia dallo imperadore, ^e chi~; cio@e colui lo 
+quale, ^a lui~; cio@e al sacro santo segno dell'aquila, ^s'oppone~; 
+cio@e si contrappone: imper@o che ogniuno la doverebbe obbedire nelle 
+cose temporali secondo la sentenzia di Cristo: ^Reddite ergo quae sunt 
+Caesaris Caesari, et quae sunt Dei Deo~; dunqua contra cagione fa chi 
+sel piglia di sua attorit@a, e chi lo disobedisce.
+
+	|34-42.~  In questi tre ternari finge lo nostro autore come 
+Iustiniano, continuando lo suo parlare, fatto fine alla risposta che 
+diede a la dimanda di Dante, fatto di sopra l'esordio e la nuova 
+orazione che intendea di seguitare, ne la quale intendea con quel 
+colore, che si chiama frequentemente frequentazione, narrare tutte le 
+notabili cose fatte per li Romani notate appresso gli autori, 
+riferendole in questo luogo, seguitando Vergilio che us@o questa poes@i 
+nel sesto ^Aeneidos~, quando finse che parlando Anchise li mostrasse la 
+stirpe futura dei Romani che doveano descendere di lui; e poi quando 
+finse che Venus recasse a Enea lo scudo fabricato da Vulcano, nel quale 
+erano scolpite tutte le storie romane.  Incomincia ora la narrazione 
+sua, parlando pur del segno dell'aquila dicendo in questa forma: 
+^Vedi~; cio@e tu, Dante, ^quanta virt@u~; cio@e operata sotto esso 
+segno da' Troiani che furno origine dei Romani, e poi dai Romani, ^l'@a 
+fatto~; cio@e @ae fatto lui, cio@e lo segno dell'aquila, ^degno Di 
+riverenzia~; e qui @e moralit@a, cio@e che la virt@u sola @e quella che 
+fa la cosa degna di riverenzia, ^e cominci@o dall'ora~; cio@e infine da 
+quel tempo, ^Che Pallante mor@i~; questo Pallante fu figliuolo del re 
+Evandro, nato d'Arcadia di Grecia re di Pallanteo, che fu quine dove @e 
+ora Roma in sul monte Palatino, che allora si chiam@o Palazio, lo quale 
+quando Enea venne ad Ostia dentro a la foce del Tevero e fatto la 
+citt@a sua, fue inimicato da Turno re dei Rutuli di Campagna, figliuolo 
+del re Dauno d'Ardea, fu dato in aiuto ad Enea contra il detto Turno 
+che forse li faceva mala vicinanza con quattrocento cavalieri.  E 
+finalmente andato con Enea ad acquistare l'aiuto delle terre di Toscana 
+e di Lombardia e delle parti vicine; e tornato per mare et arrivato in 
+terra, venne a singulare battaglia con Turno; nella quale battaglia fu 
+morto da Turno, bench@e fusse gagliardissimo e fusse di grandezza come 
+uno gigante, e cos@i ancora Turno; ma Turno era esperto di battaglia, e 
+Pallante inesperto.  E come diceno le croniche, lo corpo di Pallante fu 
+trovato in Roma, cavandosi sotterra, in una arca di pietra grandissima, 
+di mirabile grandezza con una ferita d'una lancia, la quale ferita era 
+lunga due piedi di pertica, con una lucerna di metallo accesa nella 
+detta arca la quale non si poteva spegnere, se non che si fe uno foro 
+di sotto et allora si spegn@e; e di questo Pallante molto largamente 
+parla Virgilio nella sua Eneide.
+	Et @e da notare che l'autore finge che Iustiniano incominciasse da 
+questo Pallante la sua narrazione: imper@o che ci@o, che avevano fatto 
+li Troiani infine a qui, non era degno di loda; ma da questa battaglia 
+si cominci@o la gloria de' Troiani: imper@o che allora incominci@o ad 
+apparire la loro virt@u e la gagliardia di questo nobile iovano 
+ampiamente si dimostr@o, come dice Virgilio ne la sua Eneide; e per@o 
+dice che la virt@u dei Troiani, che furno origine dei Romani, 
+incominci@o dalla morte di Pallante che mor@i per acquistare lo regno 
+ai Troiani, e per@o adiunge: ^per darli regno~; cio@e al segno 
+dell'aquila.  ^Tu~; cio@e Dante, ^sai~: imper@o che l'@ai letto 
+appresso li autori, ^che fece in Alba~; cio@e in quella citt@a che fu 
+chiamata Alba, ^sua dimora~; cio@e sua stanza questo segno dell'aquila, 
+^Per tre cento anni et oltre~; cio@e per pi@u di trecento anni.  E qui 
+tocca la storia che, poi che Enea ebbe vinto lo re Latino di Lavinio, 
+venuto a guerra con lui per le prede che li Troiani, come forestieri 
+facevano ai popoli suoi che si chiamavano Aborigines, lo re Latino, 
+fatto la pace con lui, li diede la figliuola Lavinia per donna et 
+accomun@o lo suo regno e la sua citt@a ai Troiani e non furno chiamati 
+pi@u Troiani, n@e quelli Aborigines; ma l'uni e li altri Latini; e chi 
+dice che s'accordorno inanti che combattessono, come scrive Livio nel 
+primo libro de la prima decade.  La quale cosa saputa da Turno nipote 
+della reina Amata, donna del re Latino, al quale era stata promessa 
+Lavinia per donna, mosse guerra ai Latini; nella quale guerra Turno non 
+ebbe l'aiuto del re Mezzenzio re dei Cereti, et in quella battaglia 
+morto lo re Latino, rimase lo regno ad Enea.  E sconfitti li Rutuli, 
+ricorse Turno a detto re Mezzenzio e mosse la seconda guerra ad Enea, 
+et in questa moritte Enea passando per lo fiume Numicio; e perch@e mai 
+non si trov@o lo corpo suo, finseno che fusse fatto iddio e chiamoronlo 
+Iove Indigete.  Rimase dopo Enea Ascanio figliuolo di Creusa troiana, e 
+Lavinia donna d'Enea gravida che parturitte uno figliuolo che fu 
+chiamato Silvio; e rimasi in pace per trenta anni, multiplic@o s@i lo 
+popolo che Ascanio si part@i da Lavinio, lassatolo alla matrigna et al 
+fratello, et andossene ad abitare nel monte Albano con grande gente e 
+fecevi la citt@a la quale si chiam@o Alba Lunga, perch@e era molto 
+lunga stesa in su uno colle del monte come @e Samminiato del Tedesco; e 
+quive successivamente la stirpe d'Ascanio regn@o trecento anni infino 
+che venne lo regno in mano a Proca.  Lo quale, lassato Numitore et 
+Amulio suoi figliuoli, a Numitore siccome maggiore lass@o lo regno; ma 
+Amulio, che era lo minore, lo cacci@o et usurp@o lo regno per forza, e 
+li figliuoli maschi uccise, e la figliuola chiamata Rea Silvia sotto 
+spezie d'onore fece monaca de la dia Vesta, acci@o che non avesse 
+figliuoli che lo cacciasseno del regno.  Ma la cosa and@o altremente 
+ch'elli non pens@o: imper@o che questa monaca ingravid@o di persona 
+vilissima; ma li Poeti per onore delli Romani diceano dello iddio 
+Marte, e fece due figliuoli, cio@e Romolo e Remo, li quali esposti alle 
+fiere furno trovati da uno pastore che avea nome Fastulo, e portatili 
+alla moglie che avea nome Laurenzia li fece allevare; et allevati coi 
+pastori si dierno a cacciare e fare brigata di giovani di loro et@a, e 
+davansi piacere con loro; e l'uno d@i pi@u che l'altro crescente loro 
+brigata, assalivano li ladroni che movevano prede, e rubbavanoli e 
+partivano colli pastori la preda che aveano tolta a' ladroni et i mali 
+fattori che rubavano le parti vicine, cio@e li Albanesi e li Latini et 
+altre genti della contrada.  Et avvenne che uno d@i rubborno li detti 
+ladroni che menavano una grande preda e tolsenola loro; unde questi 
+ladroni un d@i li assalitteno quando facevano uno giuoco e presono 
+Remo, e menornolo a re Amulio; e trovato che avevano rubbato in su 
+quello di Numitore, mandollo a Numitore, e ricognosciuto che era suo 
+nipote dierno ordine d'uccidere Amulio, e rimettere Numitore, nel regno 
+occultamente e sotto nuovo modo.  E questo fu per operazione del 
+pastore Fastulo che li avea allevati, che diede notizia a loro di 
+Numitore et a lui di loro; e cos@i ordinato lo trattato venne ad Alba 
+Romulo coi pastori e Remo con brigata di Numitore, et intrati al re 
+Amulio l'ucciseno e misseno Numitore in signoria nella citt@a Alba; e 
+cos@i cresciuti si puoseno quive dove @e ora Roma, e la citt@a 
+edificonno a poco a poco e chiamornola Roma, della quale discesono 
+l'imperadori.  E cos@i li Troiani che arrecorno l'aquila da Troia furno 
+colla virt@u di Pallante e delli altri di Toscana locati nel regno del 
+re Latino, e furno chiamati li Aborigini e li Troiani Latini.
+	E dopo certo tempo crescendo la citt@a di Roma venne in discordia con 
+quelli d'Alba per prede che li contadini dell'una e dell'altra feceno 
+avvicendevilmente in sul terreno li uni de li altri; e venuti a 
+battaglia furno sconfitti gli Albani, volendosi vendicare feceno 
+dittatore Mezio Suffecio, e vennono collo esercito in su quello dei 
+Romani.  E Tullo Ostilio re dei Romani and@o in sul terreno degli 
+Albanesi, e cos@i fece tornare a drietro l'esercito degli Albani; e 
+venendo a parlamento li capitani delli eserciti, disse Mezio a Tullo: 
+Lassiamo andare le cagioni vane: la battaglia tra noi @e per lo regno, 
+non ci disfacciamo insieme che siamo tutti uno, facciamo che tre di voi 
+combattino con tre di noi, e quelli che vinciono, acquistino et abbino 
+la signoria a la sua citt@a d'amendue le citt@a.  Piacque questo patto 
+a Tullo, e furno eletti da la parte dei Romani tre fratelli che furno 
+Orazi, et altri fratelli furno eletti dalla parte delli Albani che si 
+chiamavano Curiazi che erano fatti nuovamente parenti delli Orazi: 
+imper@o che li Orazi aveano promessa una loro sirocchia chiamata Orazia 
+ad uno dei Curiazi.  E venuti a la battaglia, nel primo assallimento 
+furono feriti tutti e tre li Curiazi, e feriti e morti due delli Orazi: 
+unde lo terzo pens@o: Costoro sono fediti, lassamogli straccare col 
+corso, e ser@o vincitore; e come pens@o cos@i fece.  Diedesi a correre, 
+e li Curiazi incominciorno a seguitare, e non potendo correre troppo 
+per le ferite, seguitavano disequalmente Orazio; unde volto a drieto, 
+Orazio torna in verso Curiazio che gli era pi@u presso, e dalli uno 
+colpo et ucciselo; e volgesi all'altro che veniva per soccorrere lo 
+primo, e dalli uno colpo ancora et ucciselo.  Lo terzo, sbigottito et 
+addolorato per la morte dei fratelli et indebilito per la ferita, 
+venuto alle mani con Orazio che era rinvigorito per la vittoria dei 
+due, ancora fu morto da lui.  Et allora rimase lo reggimento d'Alba al 
+re dei Romani, e per questo dice lo testo: ^e fine al fine~; cio@e et 
+infine a quello punto fece sua dimora l'aquila in Alba: imper@o che 
+v'erano signori quelli che erano discesi da Ascanio figliuolo d'Enea e 
+di Creusa troiana, che teneano la insegna dell'aquila, ^Che ' tre~; 
+cio@e Curiazi, che furno da Alba, ^e tre~; cio@e Orazi, che furno di 
+Roma, ^pugnar~; cio@e combattettono insieme, come @e stato detto di 
+sopra, ^per lui~; cio@e per la insegna dell'aquila che significa la 
+signoria dello imperio: imper@o che li Albanesi volevano la signoria 
+del tutto e li Romani similmente; et alla fine l'ebbono li Romani, come 
+appare per la storia detta di sopra, come recita Livio nel primo libro 
+della prima decade, ^ancora~; dice per affermare, cio@e come Pallante 
+mor@i per dare regno alla insegna dell'aquila; cos@i combattettono tre 
+e tre fratelli per dare regno a la detta insegna.  ^E sai~; cio@e tu, 
+Dante, che l'@ai letto in Livio, ^che fe~; cio@e quello che fece la 
+detta insegna dell'aquila che venne ai Romani, come detto @e, ^dal mal 
+de le Sabine~; qui aggiunge una altra istoria, che @e anco in Livio nel 
+predetto luogo.  Dice Livio che, poich@e Romulo ebbe fatto la citt@a di 
+Roma in brieve tempo, e ripiena d'uomini, perch@e avea fatto luogo lo 
+quale chiamavasi asilo; e fatto publicamente bandire che chiunqua 
+fuggisse a quello luogo, avesse fatto ci@o che si volesse, fusse 
+siguro; per la qual cosa grande moltitudine in breve tempo vi si 
+raun@o; et essendo popolosa la citt@a, non avendo femine, vedendo che 
+non potevano durare, mand@o Romulo imbasciadori per le citt@a 
+prossimane pregando che si volessono imparentare con loro; e non 
+trovato che il volessono fare avendo li Romani in dispregio, perch@e 
+aveano accettato ogni vile uomo, anco rimproveravano loro che facessono 
+uno asilo per le femine, se volevano delle femine come avevano fatto de 
+l'omini.  Dalla qual cosa molto sdegnato Romulo, pens@o con rapina di 
+dare moglie ai Romani; e perci@o ordin@o di fare uno giuoco a Nettuno, 
+lo quale si chiamava ^Consualia~, con tanto adornamento quanto potea, e 
+fece notificare a tutte le terre vicine che venissono a questa festa; 
+per la qual cosa vi venonno li Ceninesi, li Crustumeni, li Antennati e 
+li Sabini con molti loro figliuoli e figliuole, e furno ricevuti dai 
+Romani molto onorati.  Lo d@i del giuoco, quando ogni uno era intento a 
+vedere, si lev@o una voce: Ciascuno pigli la sua; et allora furno prese 
+le vergini che v'erano, e quelle di maggiore grado a' maggiori 
+cittadini furno menate, e le mezzane ai mezzani, e le minori ai minori; 
+e li padri loro, protestando che era stato rotto loro lo patto de 
+l'ospitalit@a, si tornarono a casa loro molto sdegnati contra li 
+Romani, e pensavano pure di vendicarsi e facevano capo dei Sabini, 
+perch@e erano pi@u potenti et anco perch@e pi@u furno ratte delle 
+Sabine che dell'altre, e sollicitavano Tito Tacio principe dei Sabini 
+che movesse guerra ai Romani.  E perch@e non si moveano cos@i tosto 
+come volevano, si mosseno ellino, cio@e li Ceninesi, Crustumeni et 
+Antennati, e come frettolosi li Ceninesi innanti alli altri assalitteno 
+lo terreno dei Romani; unde Romulo coi Romani, scito di fuora col suo 
+esercito, li sconfisse et uccise lo loro re e prese la citt@a.  E dopo 
+li Ceninesi vennono li Antennati et assalittono Roma, unde anco uscitte 
+loro addosso l'esercito romano, e sconfisseli e prese la citt@a loro, e 
+per prego delle donne perdon@o Romulo ai padri e ricevettegli nella 
+citt@a.  Dopo costoro vennono li Crustumeni et anco furno sconfitti, e 
+presa la loro citt@a da Romulo, e mut@o in amendune le dette citt@a li 
+abitatori; cio@e in Antenna et in Crustumeno, ricevendo tutti li padri 
+delle donne dei Romani per cittadini di Roma, li altri per servi; e 
+publicato che chi volesse andare ad abitare nelle dette terre si 
+facesse scrivere, pi@u si feceno scrivere a Crustumeno che ad Antenne, 
+perch@e era pi@u abondevile citt@a.  A l'ultimo si miseno li Sabini 
+contra li Romani pi@u pesatamente, et ordin@o uno trattato con Tarpeia 
+figliuola di Spurio Tarpeio che era guardiano della rocca che era in 
+Capitolio, che ella la dovesse loro aprire la porta della rocca; et 
+elli promiseno di darli per premio cioe che portavano nel braccio 
+manco, nel quale li Sabini solevano portare armille di grande peso.  
+Unde fatto lo patto et aperta la porta, facendo vista d'andare per 
+l'acqua per lo sacrificio, li Sabini introrno nella rocca, e sopra la 
+detta vergine Tarpeia gittorno tutti li loro scudi et ornamenti ch'elli 
+portavano al braccio, sicch@e ella v'affog@o sotto, e per@o fu chiamato 
+poi lo monte Tarpeio; et avuta la terra faceano grande guerra ai 
+Romani, e scendevano a combattere in una valle che venia in mezzo tra 
+'l monte Tarpeio dove era la rocca, e lo monte Palatino dove era 
+l'abitazione di Romulo; e scesi un d@i a combattere e facendosi una 
+aspra battaglia, disseno le donne insieme: Da l'una parte seremo 
+vedove, dall'altra private dei padri, e per@o andiamo a spartigli; e 
+cos@i feceno mettendosi in mezzo tra loro.  Et allora si fe la pace, e 
+li Sabini vennono a stare a Roma, e lo loro re Tito Tazio fu fatto re 
+insieme con Romulo, e per@o dice lo testo: ^dal mal de le Sabine~: 
+imper@o che mal fu che le Sabine fussono rapite sotto fede 
+d'ospitalit@a, e nomina pi@u le Sabine, che le Ceninesi, o che le 
+Crustumene, o che l'Antennate: imper@o che pi@u vi fu di loro che 
+dell'altre; et adiugne: ^Al dolor di Lucrezia~; questa Lucrezia fu 
+donna di Collatino figliuolo di Tarquino Egezio, e figliuola di Spurio 
+Lucrezio Triplicino.  Essendo donna castissima, abitante in una terra 
+del marito presso a Roma, che si chiamava Collazia, venne caso che 
+Collatino suo marito essendo nell'oste del re Tarquino, che era ito ad 
+assediare Ardea che era citt@a di Campania, cenando una sera con Sesto 
+Tarquinio figliuolo del re Tarquino Superbo con altri iovani, vennesi a 
+parlamento delle donne, nel quale parlamento ciascuno lodava la sua; e 
+Collatino lodando la sua Lucrezia, disse: Facciamo mellio, andiamo ora 
+come noi siamo, e veggiamo co li occhi nostri quale @e pi@u onesta 
+delle nostre donne.  Ciascuno loda lo fatto, montano a cavallo e 
+vegnano a Roma, e truovano la donna di Sesto cantare e ballare e darsi 
+buono tempo; vegnano poi a Collazia, e truovano Lucrezia in mezzo delle 
+cameriere filare a lume del candelo; unde fu data la vittoria a 
+Collatino per onest@a di Lucrezia.  Piacque tanto a Sesto Lucrezia in 
+quella notte ancora per l'onest@a sua, che elli s'innamor@o di lei, e 
+dopo poghi giorni venne con uno compagno a Collazia; et iunto quive di 
+notte, come figliuolo del re e parente di Collatino fu ricevuto 
+onorevilmente, e cenato fu menato ad una onorevile camera, nella quale 
+stato tanto che credette ch'ognuno dormisse, se n'and@o a la camera di 
+Lucrezia che dormia; postoli la mano al petto, coll'altra teneva lo 
+coltello in mano e diceva: Lucrezia, io sono Sesto et @one lo coltello 
+nudo in mano, se non consenti a la volunt@a mia, io t'uccider@o, et 
+oltra le minaccie adiungea preghi.  A questo Lucrezia svegliata, 
+sostenea morte innanti che volere perdere sua castit@a; ma dicendo 
+Tarquino Sesto: Poi ch'io t'ar@o uccisa, uccider@o uno servo e 
+porrottelo allato, e dir@o ch'io v'abbia trovato insieme, allora quella 
+che non temeva la morte, temendo la infamia lass@o fare a Sesto contra 
+a sua voglia la sua volunt@a.  E la mattina non uscendo del letto per 
+dolore, mand@o nell'oste per lo padre e per lo marito dicendo che 
+subito venisseno colli parenti a Collazia per certo grande bisogno.  
+Avuto l'ambasciata, vegnano subito Spurio Lucrezio con Publio Valerio e 
+Collatino con Iunio Bruto, ch'erano gi@a insieme in via che tornavano a 
+Roma; et iunti a Collazia tutti e quattro, trovorno Lucrezia in sul 
+letto; unde meravigliandosi dimand@ono: Or non stanno salve le cose, 
+Lucrezia, che cosa @e questa?  A che ella risponde: Come possano essere 
+salve le cose, che le pedate d'altro uomo sono state nel letto tuo, 
+Collatino?  Sesto @a vituperato la mia onest@a; voi, se serete omini, 
+vendicherete questa iniuria: io far@o bene che per esemplo di me 
+nessuna romper@a mai sua castit@a: io m'assolvo da la colpa; ma non mi 
+libero da la pena; e cavato lo coltello fuora, che tenea sotto, si 
+percosse et uccise.  Unde levato lo pianto, cavato lo coltello della 
+ferita, iurorno in su quello castissimo sangue innanti la iniuria 
+ricevuta che mai non poseranno, che di questa iniuria faranno vendetta 
+e che caccierano in esilio lo re con tutta la sua stirpe.  E pigliano 
+lo corpo di Lucrezia e pongonlo in su la piazza di Collazia, acci@o che 
+ognuno si provocasse contro il re per la presenzia del male; e presa 
+quinde moltitudine di iovani armati, iurati d'essere a la finale 
+destruzione del re, confermato la terra di rettori e poste guardie a le 
+porti che nessuno andasse a notificare nulla al re, vannosene a Roma e 
+levano lo romore, e con autorit@a del Tribuno dei Militi, che era 
+allotta Iunio Bruto, fu chiamato lo popolo a consilio; e con autorit@a 
+del consiglio fu esposto Tarquinio et iudicato esule con tutta la sua 
+stirpe, e Tullia donna del re fuggitte di Roma.  E Bruto se ne and@o 
+nel campo con armata brigata ad Ardea, onde s'era gi@a partito lo re 
+per soccorrere Roma; e suscitato lo romore e' fece scacciare li 
+figliuoli e li suoi; e Tarquino, trovato a Roma le porte chiuse, 
+fuggitte a Porsenna re di Chiusi; et allora furno fatti due Consuli che 
+reggessono la republica, Iunio Bruto e Lucrezio Collatino; e per@o ben 
+dice: ^Al dolor di Lucrezia~; cio@e infine al dolor, che ebbe Lucrezia, 
+d'aver perduto per forza e per inganno la sua castit@a, per lo qual 
+dolore s@e medesima uccise, ^in sette regi~; ben dice ^in sette regi~: 
+imper@o che la citt@a di Roma edificata da Romulo e Remo due fratelli, 
+nipoti di Numitore, fu retta prima da loro; ma poco tempo dur@o: 
+imper@o che, essendo questione, edificata la citt@a, tra Romulo e Remo, 
+qual dovesse nominare la citt@a e tenere lo reggimento di loro due, 
+determinorno di stare a l'iudicio delli idii, e montorno l'uno in sul 
+monte Palatino, cio@e Romulo; e Remo, in su l'Aventino.  E posto lo 
+segno in aere, a Remo vennono in aere 6 avoltoi prima, unde tutti 
+quelli che erano con lui incominciorno a gridare e lodare l'augurio; e 
+poi a Romulo n'apparveno 12, unde tutti li suoi incominciorno a gridare 
+e lodare lo suo augurio, perch@e era di pi@u avoltoi, cio@e due 
+cotanta; unde la quistione nata tra' fratelli maggiore che prima: 
+imper@o che l'uno voleva vincere per la priorit@a del tempo, e l'altro 
+per lo maggiore numero degli avoltoi, Romulo uccise Remo nella 
+contenzione, bench@e altri dica che fu perch@e pass@o le mura di rieto 
+allo sparvieri che non erano troppo alte, che era pena capitale, 
+sicch@e Romulo per questa cagione lo facesse decapitare, dicendo che 'l 
+faceva perch@e altri a quello esemplo non s'avvezzasse ad uscire se non 
+per le porte.  Rimase solo Romulo, vinse le citt@a vicine, come fu 
+detto di sopra, et accumun@o lo regno con Tito Tacio re dei Sabini, e 
+come fece lo tempio a Iove Feretrio, dove si ponevano le spoglie dei 
+re, dove elli pose la prima, e poi non si truova che ve ne fussono 
+poste se non due; e come poi morto Tito Tacio dei Sabini, e lo regno 
+rimase poi solo a lui, e come elesse cento padri che consigliasseno la 
+republica, come rapitte le femine, come detto fu di sopra e come fe 30 
+corte, e denominolle dai Sabini, come divise li cavalieri in 3 
+centurie, come combattette coi Fidenati, coi Veienti, sicch@e poi 
+stette in sigura pace lo regno anni 40, poi come elli moritte, tolto 
+via da una tempesta di tempo a la palude Capra, quando faceva 
+parlamento, e mai non fu veduto pi@u.  Unde li Romani disseno che era 
+fatto iddio, bench@e altri dicano che, perch@e poco si faceva amare da' 
+maggiori, ch'elli fusse morto dai padri et appiattato e cos@i credeva 
+lo popolo, se non che Proculo Iulo disse ch'elli gli era apparitoli e 
+dettoli la sua deificazione, e come Roma doveva essere capo del mondo; 
+e dur@o lo imperio di Romulo anni 37.  Dopo Romulo fu eletto re Numa 
+Pompilio sabinese, omo iustissimo et onoratore delli idii, lo quale non 
+intese se non a culto divino, et a fare tempi a li idii, ordinare 
+sacerdoti, et elli istituitte le Vergini Vestali, elli fece lo tempio 
+di Iano che aperto significasse guerra, e chiuso pace, elli fece leggi 
+iustissime co le quali lo popolo romano dovesse osservare, e resse la 
+citt@a in s@i fatti costumi che li popoli circustanti s'astenevano 
+d'offendere li Romani s@i come religiosi et accetti a li idii temendo 
+di quinde offendere li idii; e tenne lo imperio Numma anni 43, et in 
+pace e quiete mor@i siccome era vissuto.  Dopo Numma succed@e nel regno 
+Tullo Ostilio, nipote d'Ostilio che combattette contra ' Sabini alla 
+rocca molto laudevilemente, lo quale fu pi@u feroce che Romulo; e 
+perch@e era iovano e parevali che la citt@a invecchiasse per la pace, 
+mosse guerra a le parti vicine e prima agli Albani; nella quale guerra 
+fu fatto lo combattimento dei tre Orazi, dei tre Curiazi Albani detto 
+di sopra, e fu subiugata Alba ai Romani; sotto costui facente coi 
+Veienti e Fidenati guerra, Mezio Suffecio duca delli Albani us@o lo 
+tradimento, unde Tullo lo fece squartare a quattro cavalli; sotto 
+costui s'accrebbe la citt@a, adiuntovi lo monte Celio; sotto costui fu 
+anco fatto battaglia coi Sabini e Veienti; sotto costui fu disfatta 
+Alba, et a certo tempo piovuto nei monti d'Alba pietre, et audito voci, 
+fu istituito lo sacro Novendiale.  A la fine infermato Tullo Ostilio 
+diedesi ai sacrifici et al culto de li idii; ma perch@e li sacrifici di 
+Iove Elicio non fece con quella cura che si conveniva, dicesi che fu 
+fulminato, et arse egli e 'l palazzo suo; regn@o Tullo anni 32.  Di po' 
+Tullo fu eletto Anco Marzio nato della figliuola di Numa Pompilio, lo 
+quale incominci@o prima a reducere li sacrifici delli idii in devota 
+religione; unde gli Latini, quasi dispregiandolo come prete, mosseno 
+guerra ai Romani togliendo preda di sul terreno di Roma; e mandato 
+imbasciaria a dimandare le cose tolte, fu vituperosamente risposto da' 
+Latini.  Unde Anco, lassato li sacrifici ai preti, mosse guerra contra 
+a' Latini e prese una citt@a che si chiamava Politorio; e vinto li 
+Latini, fu accresciuta la citt@a messo dentro lo monte Aventino et 
+Ianiculo, e fatto lo ponte Sublicio sopra lo Tevere.  Sotto Anco Marzio 
+venne Lucumo da Tarquini, figliuolo di Demarato, lo quale cittadino di 
+Corinto per sedizione s'era partito della sua citt@a e venuto ad 
+abitare a Tarquini, et ebbe quine due figliuoli della donna che avea 
+menata seco; cio@e Lucumo detto di sopra, et Arunte lo quale moritte 
+innanti a Demarato suo padre, lassando la sua donna gravida.  Pogo di 
+poi mor@i Demarato, e non sapendo che la nuora fusse pregna, lass@o 
+erede del tutto Lucumo lo quale essendo molto ricco prese una gentil 
+donna di Tarquini strutta nello augurio, chiamata Tanaquil per donna 
+molto saputa.  E perch@e a Tarquini era poco onorato, per consiglio di 
+Tanaquil venne Lucumo ad abitare a Roma, e subitamente si fece 
+cognoscere colla sua virt@u e fu chiamato Lucumo Tarquinio Prisco; e 
+venuto in amicizia con Anco Marzio, di tutte le cose secrete era 
+participe in tanto che, venendo lo re a morte, lass@o Lucumo tutore ai 
+figliuoli nel testamento; e cos@i mor@i Anco che avea tenuto lo imperio 
+anni 24.  Rimaso Lucumo Tarquinio Prisco tutore dei figliuoli d'Anco 
+Marzio, venendo lo tempo che si dovea eleggere lo re, mand@o li 
+figliuoli del re Anco a cacciare, et elli si fe eleggere re dal popolo. 
+ Questi accrebbe lo numero dei Padri, adiungendovi cento di minore 
+grado che gli altri, acci@o che questi sempre tenessono la parte sua.  
+Questi fece guerra coi Latini e vinseli, ordin@o li luoghi da sedere ai 
+Padri nello spettaculo, ancora fe battaglia coi Sabini, adiunse tre 
+centurie a quelle di Romulo sotto quelli medesimi nomi, et allora 
+avvenne che l'augure talli@o la pietra col rasoio, ebbe vittoria de' 
+Sabini, prese alquante citt@a dei Latini, Corniculo, Ficulnea, Cameria, 
+Crustumeno, Ameriola, Menilla, e Nomento.  E quando prese Corniculo, 
+prese la donna di Tullio Servio principe di Corniculo, lo quale fu 
+morto nella battaglia e per la sua nobilt@a la tenne in casa 
+onoratamente, e parturitte uno figliuolo, lo quale fu chiamato Servio 
+Tullio per lo nome del padre, lo quale la reina Tanaquil e lo re 
+Lucumo, tenuto lo regno anni 38, li figliuoli d'Anco Marzio tenendosi 
+ingannati da Lucumo, assalitteno lo re et uccisello.  E Tanaquil fece 
+subitamente pigliare la signoria al genero; cio@e a Servio Tullio, e 
+tenne la signoria uno tempo con volunt@a dei Padri; ma non con volunt@a 
+del populo.  Servio Tullio, preso lo regno, come detto fu di sopra, 
+dopo la morte di Lucumo Tarquinio Prisco, vedendo che li figliuoli 
+d'Anco aveano morto Lucumo Tarquinio per lo regno et erano iti in 
+esilio a Sessa e Pomezia, temendo nei figliuoli di Tarquino Prisco, 
+cio@e Lucio et Arunte, facessono lo simile a lui, diede loro due sue 
+figliuole per donne, cio@e la maggiore che era chiamata Tullia al 
+maggiore, cio@e Lucio; e la minore Tullia al minore, cio@e Arunte.  E 
+come volse la fortuna come queste due suori erano l'una buona e l'altra 
+ria; cos@i li due fratelli erano l'uno buono e l'altro rio, e la buona 
+venne al rio, e la ria al buono, e fece tanto la ria col cugnato rio 
+ch'elli uccise la moglie buona, et ella uccise lo suo marito buono, e 
+poi feceno nuovo parentado insieme, iungendosi Tullia ria che era la 
+minore a Lucio Tarquinio che era lo maggiore, non impacciandosi di 
+queste lo re.  Questo Tullio Servio fece battaglia coi Veienti e 
+Toscani, fece ancora lo stimo in Roma et ordin@o le classe cinque 
+secondo lo stimo, e fece fare una mostra generale nel campo Marzio e 
+furno trovati ottanta migliaia d'uomini d'arme li Romani, et accrebbe 
+la citt@a iugnendovi lo colle Quirinale e Ruminale, fece lo tempio a 
+Diana dia della castit@a; poi, quando li parve acquistato lo favore del 
+popolo per tutte le sopra scritte cose fatte, si fece confermare lo 
+regno dal popolo.  E durato nel regno anni 44, Lucio Tarquinio fatto 
+marito di Tullia minore, come fu detto di sopra, fece trattato con 
+giovani, istigato e combattuto a ci@o dalla moglie, et armato se 
+n'and@o al palazzo colla brigata dei iovani armati; e montato in su la 
+sedia reale, mand@o richiedendo li Padri, e fece loro orazione 
+biasimando lo suo socero Servio Tullio, e lodando s@e si prese la 
+signoria.  E venendo lo re a la corte per stroppiare lo fatto, et 
+avendo la parte sua con seco, incominci@o a riprendere Lucio, et elli a 
+risponderli; et essendo lo romore grande: imper@o che chi favoreggiava 
+l'uno, e chi l'altro, Lucio vedendo che era mestieri di fare dei fatti, 
+andossene in verso lo re e gittollo a terra della scala, e mandolli 
+dirieto chi l'uccidesseno, et elli rimase in palazzo a ricevere li 
+Padri per farsi eleggere in re, e prese la signoria senza essere eletto 
+re.  Venuta la novella a Tullia, che a ci@o l'avea incitato, mont@o in 
+sulla carretta et andossene al palazzo a far festa al marito che s'era 
+fatto re; e trovando lo corpo del padre nella via morto, ferm@o la 
+carretta allora l'auriga, perch'ella lo vedesse e mostroglielo; ella 
+cognosciutolo, comandolli ch'andasse quinde, e fece andar la carretta 
+su per lo corpo del padre, e d'allora in qua fu chiamato lo chiasso 
+scelerato quella via.  E questo fu lo fine di Servio Tullio lo quale, 
+stato ottimo re alla citt@a di Roma, fu privato di sepultura.  Lucio 
+Tarquinio figliuolo di Lucumo Prisco Tarquinio fu lo settimo re che 
+prese la signoria, come detto @e, e fu l'ultimo come appare per la 
+storia detta di sopra di Lucrezia.  Questi fu chiamato Superbo per li 
+molti mali che fece; prima, che per sua autorit@a si prese lo regno e 
+tennelo senza elezione, non lass@o seppellire lo suocero dicendo che 
+Romulo anche non fu sepolto, tutti li Padri che funno fautori del 
+suocero uccise, trovando contra loro false cagioni; e perch@e teneva lo 
+regno per forza, si faceva guardare dagli armati, le condennagioni 
+faceva senza autorit@a del Senato, et ogni cosa incominci@o a fare solo 
+per arrecare ogni cosa in s@e.  E non fidandosi dei suoi cittadini 
+s'incominci@o a fare forte coi forestieri, e per@o diede per donna la 
+figliuola ad Ottavio Mamilio, che era molto grande appresso Latini.  
+Questo fece sommergere nel fiume Turnio Erdonio, ch'era molto grande in 
+Arizia, perch@e avea detto male di lui, apponendoli che avesse fatto 
+trattato contra di lui, quando si fe lo primo raunamento di quelli 
+principi che erano capo dei popoli che erano del nome latino, cio@e di 
+tutti quelli che erano stati prima del re Latino, et usciti d'Alba.  E 
+poi fece lo secondo raunamento e mescol@o insieme le brigate dell'arme 
+dei Romani co li Latini, elli mosse prima la battaglia e guerra ai 
+popoli Vulsci, popoli di Campagna, la quale dur@o dopo lui anni 
+ducento; elli mosse guerra ai Gabi e con fraude et inganno li vinse, 
+facendo vista d'avere cacciato Sesto suo figliuolo; et elli itosene a 
+stare co' nimici del padre, movea e facea maggior guerra al padre che i 
+Gabinesi; et acquistato pi@u vittorie, perch@e il padre si lassava 
+sconfiggere, all'ultimo fu fatto signore dai Gabinesi, et allora mand@o 
+uno suo messo al padre Sesto, notificandoli come ogni cosa era nelle 
+sue mani, e che li mandasse a dire quello che voleva che facesse.  Et 
+allora lo re Tarquino, non fidandosi forse del messo, non gli diede 
+risposta; ma andatosene nel giardino andando qua e l@a, con una verga 
+in mano come chi va spaziando, percotea colla verga tutti li pi@u alti 
+papardi che vedeva ne l'orto, e faceva loro piegare lo collo.  Lo messo 
+li andava di rieto aspettando la risposta che dovesse portare a Sesto; 
+e solicitando d'averla, vedendo che 'l re non li facea motto, credendo 
+che per corruccio et isdegno non volesse rispondere al figliuolo, 
+andossene; e ritornato a Sesto, disse che 'l padre corrucciato contra 
+di lui non gli avea voluto rispondere.  Dimand@o Sesto del modo che 
+avea tenuto; uditolo, lo intese subitamente et incominci@o a trovare 
+cagione contra li grandi de la citt@a, e quale decapitava e quale 
+mandava a confine, e cos@i priv@o, dispolli@o la citt@a di tutti buoni 
+cittadini intanto che, avuta tutta la citt@a nelle mani, non essendo 
+chi contradicesse, la diede al padre.  Avuto Gabi, fece patto coi 
+Toscani, e pace colli Equi.  Et intese all'opere della pace; cio@e a 
+l'edificare, e fece nella rocca lo tempio di Iove, lo quale lo padre 
+Tarquinio Prisco avea promesso, per lassare del padre e di s@e memoria. 
+ Et acci@o che nella rocca non fusse altro tempio che quel di Iove, 
+fece alli auguri dimandare li dii che aveano li tempi ne la rocca, se 
+si volevano partire e lassare libera la rocca a Iove; tutti rispuoseno 
+secondo l'augurio de li uccelli che s@i, salvo che 'l tempio del 
+Termine, nel quale li uccelli niente dissono.  Unde tutti compreseno 
+che lo dio Termine non si voleva mutare della rocca; ma li altri s@i, e 
+di quinci presono augurio che lo imperio dei Romani dovea durare in 
+perpetuo: imper@o che lo dio era stato immutabile, che era segno che lo 
+termine dello imperio non si dovea mutare.  Ancora facendo fare lo 
+tempio ad Iove, cavando lo fondamento fu trovato uno capo umano intero, 
+e di quinci presono li auguri augurio che lo imperio di Roma dovea 
+essere capo del mondo, e per@o fu chiamato poi lo luogo Capitolio del 
+capo umano.  Fece fare li sedili alti di legname nel cerchio dove 
+stesse lo popolo e li Padri a li spettaculi; fece fare uno ricettaculo 
+di tutte l'acque e brutture di Roma che portava ogni cosa nel fiume, e 
+di quinde in mare; mand@o nuovi abitatori dei Romani a Signa, et a 
+Circeoli, per ampliare lo suo imperio.  E mentre che faceva queste 
+cose, venne uno grande mostro, lo quale mise maggiore suspetto al re 
+che paura: imper@o ch'elli vidde uno serpente uscire d'una colonna di 
+legno di quelle ch'erano presso al suo palazzo, per la quale molta 
+gente spaventata corse nel suo palazzo; unde elli si diliber@o di 
+mandare in Grecia in Delfo all'oraculo d'Apolline, acci@o che sapesse 
+quello che significava, e mand@ovi due suoi figliuoli; cio@e Tito et 
+Arunte, e questi menorno seco come per iullare Iunio Tarquinio 
+figliuolo de la suore del re, lo quale si chiamava Bruto per li atti 
+brutali ch'elli faceva e mostrava studiosamente, perch'elli avea veduto 
+che 'l re Tarquino tutti gli omini savi uccidea, et avea morto un suo 
+fratello di quello Bruto, perch@e ebbe paura che risistesse alla sua 
+potenzia; e per questo, per non essere morto, s'infingeva stolto e 
+lassavasi togliere il suo al re, e mostrava di non curarsene.  E 
+sentendo ch'elli dovea andare a l'oraculo d'Appolline, e l@a non 
+s'andava senza portare grande dono allo dio, mise in una canna 
+dell'oro, e disse addimandato dai figliuoli del re per giuoco: Tu, 
+Bruto, che portrai allo dio? rispuose: Questa canna; di che feciono 
+beffe di lui, dicendo: Ben farai.  Et iunti all'oraculo, li figliuoli 
+del re offersono lo suo dono allo dio, e Bruto la sua canna; et avuto 
+la risposta del mostro, perch@e erano iti, che significava fine del 
+regno del padre, dimandorno lo dio chi dovea regnare dopo il padre, e 
+lo dio rispuose: Chi prima di voi bacer@a la madre.  Bruto, che era 
+presente, intese l'oraculo, fece vista di cadere e baci@o la terra che 
+@e generale madre d'ogniuno; e quelli figliuoli del re, che nollo 
+intesono, feceno alle sorte qual di loro dovesse baciare la madre, 
+tornati che fussono, promettendo tra loro che Sesto, ch'era rimaso a 
+casa, niente ne saprebbe.  E tornati poi a casa loro, trovato che 'l 
+padre loro avea mosso guerra ad Ardea, che era in Campagna; avvenuto lo 
+caso che fu scritto di sopra di Lucrezia, lo re Tarquino fu cacciato, e 
+Bruto Iunio suo nipote con Lucio Tarquinio furono creati consuli, e 
+furono li primi consuli.  E cos@i finitte lo regno di Tarquino Superbo 
+che regn@o anni 45, e fu lo settimo e l'ultimo re, et incominci@o lo 
+reggimento dei consuli; e per@o ben dice lo testo: ^in sette regi~: 
+imper@o che sette re abbiamo contati, ^Vincendo intorno le parti 
+vicine~; come appare per le storie dette di sopra.  E ben dice a Dante 
+ch'elli sapea: imper@o che queste istorie avea letto in Tito Livio, e 
+di quinde l'@o cavate del primo libro della prima decade, et 
+abbreviatole lo pi@u che io @o potuto.
+
+	|43-54.~  In questi quattro ternari lo nostro autore finge come lo 
+spirito, ch'elli @ae indutto di sopra a parlare, continui ancora lo suo 
+parlare nella materia di sopra incominciata, cio@e de le cose geste dai 
+Romani sotto la insegna dell'aquila, e dai loro imperadori, toccando 
+tutte le loro istorie brevemente, dicendo cos@i: ^Sai~; cio@e tu, 
+Dante: imper@o che @ai letto le storie romane, ^quel che fe~; cio@e la 
+insegna dell'aquila, ^portato da li egregi~; cio@e dai nobili: egregio 
+@e colui, che passa lo modo degli altri: imper@o che gregario cavalieri 
+si chiama colui che non era ancora adornato d'alcuno adornamento di 
+cavallaria, perch@e egli era pari delli altri; ma egregio si dicea, 
+cio@e fuor della grece delli altri, colui che per alcuna prodezza e 
+gagliardia era onorato, secondo la sua opera, d'alcuno adornamento di 
+milizia oltra agli altri, ^Romani~; ben si pu@o dire de' Romani che 
+fussono egregi: imper@o che nell'opere virtuose e dell'armi avanzorno 
+tutti gli altri, ^contra Brenno~; questo Brenno fu duce dei Senoni che 
+vennono di Francia, e passati in Toscana di Lombardia nella quale di 
+lungo tempo inanti erano passati li Franceschi, vennono a Chiusi; e 
+guerreggiando, li Chiusini si raccomandorno ai Romani, e li Romani 
+mandorno imbasciaria ai Franceschi pregandoli che non dovessono fare 
+guerra a li amici loro, e tanto furno voluntarosi l'imbasciadori che 
+uno d@i combattendosi, Quinto Fabio, uno de' Fabi ch'era delli 
+ambasciadori, uscitte nella battaglia et uccise lo capitano de' 
+Franceschi, non Brenno; ma uno altro che era loro duce.  Allora li 
+Franceschi, indegnati contra li Romani, lassorno stare li Chiusini, e 
+mandorno imbasciadori ai Romani dimandando li Fabi ch'erano stati 
+violatori de la ragione; et essendo fatti tribuni li Fabi, e male 
+risposto a li ambasciadori, presono la guerra li Franceschi contra li 
+Romani, e cavalcato subitamente vennono ad uno fiume che si chiama Alia 
+presso a Roma, a diece miglia.  E venuto quine, li Romani furno 
+sconfitti, e li Franceschi se ne vennono in Roma e presono tutta la 
+citt@a, salvo che la rocca tarpeia, la quale fu difesa per l'oche che 
+gridorno la notte che li Franceschi furtivamente si sforzorno di 
+pigliare: imper@o che Marco Mallio guardiano della rocca, cogli altri 
+Romani che v'erano intrati, svegliato per lo grido dell'oche, svegli@o 
+gli altri e soccorse a luogo, unde montavano li Franceschi, li quali 
+gi@a altra volta s'erano provati d'acquistarla; ma n'erano stati 
+mandati male accomiatati, et anco avevano provato delle sconfitte date 
+loro dai Romani: imper@o che, andati per la vettovaglia ad Ardea, nella 
+quale citt@a era Quinto Furio Cammillo, mandato in esilio dai Romani, 
+furno sconfitti da lui coll'aiuto degli Ardeati e de' Romani che erano 
+a Veghi, fuggiti per la sconfitta che ebbono a Veghi e per la presura 
+della citt@a.  Et avendo avuta questa vittoria, volseno li Romani fare 
+Cammillo dittatore; ma Camillo, non accettato mai insino che non ebbe 
+lo mandato da coloro che tenevano la terra, et avuta l'autorit@a, venne 
+ad abitare a Veghi colli altri Romani, e misse in concio l'essercito.  
+In quello mezzo, essendo assediata la rocca dai Franceschi e non 
+avendovi di che vivere, vennono a patto li Romani coi Franceschi 
+ch'elli si dovessono partire dando loro mille libbre d'oro; e pesandosi 
+l'oro, essendo mossa questione da uno dei Franceschi che schernia li 
+Romani, dicendo che 'l peso non era buono, ponendo lo coltello in sul 
+peso, in quel mezzo venne una voce gridando che lo patto non valeva, 
+che era fatto senza volunt@a del dittatore.  E questa voce venne da 
+Camillo, che venne a soccorrere la rocca e parl@o con Brenno e dissegli 
+che s'apparecchiasse a battaglia: ch@e lo patto, fatto per li minori 
+officiali senza la volunt@a dei maggiori, non vale; et allora 
+combattettono in Roma, e furno sconfitti li Franceschi e cacciati 
+infine ad otto milia fuori della citt@a per la via gabinia, e quine 
+furno sconfitti da capo, sicch@e non ne rimase pur uno che portasse la 
+novella.  E cos@i ben finge l'autore che quello spirito li dicesse: Tu 
+sai quello che fece la insegna de l'aquila, che port@o Cammillo contra 
+Brenno duce de' Senoni, ricoverando l'onore della sua patria essendone 
+sbandito.  ^e contra Pirro~; questo Pirro fu re delli Epiroti che sono 
+popoli di Grecia che abitavano in Epiro, la quale contrada @e vicina a 
+la Calavria dove @e Taranto.  Et essendo li Tarentini fatti inimici dei 
+Romani per iniuria che aveano fatto ai Romani: imper@o che, ne l'anno 
+464, ^ab Urbe condita~, passando le galee dei Romani a Taranto, li 
+Tarentini mandorno a pigliarle et ucciseno tutti li ufficiali e li 
+utili a combattere, e gli altri per servi vendettono, solamente quattro 
+galee camporno che fuggitteno; e mandato li ambasciadori li Romani ai 
+Tarentini, furno scherniti da' Tarentini, unde li Romani con tutto loro 
+sforzo vennono a vendicarsi dei Tarentini.  Et allora per risistere 
+alla potenzia dei Romani, perch@e non crescessono nelle parti vicine 
+grandi, Pirro le prese a difendere; e fatto maggiore dello esercito dei 
+Romani, li sconfisse nella prima battaglia, menato di Grecia tutte le 
+sue forze, e venti elefanti, e furono morti dei Romani pedoni 14880 e 
+presi 310, e dei cavalieri morti 246 e presi 802, e 22 insegne perdute; 
+ma di quelli di Pirro ne furno tanti morti che Pirro, avendo vinto, si 
+chiam@o perditore.  Et altra volta vennono li Romani contra li 
+Tarentini, et ancora Pirro li prese a difendere, e fu nella battaglia 
+sconfitto dai Romani insieme coi Tarentini da Emilio consule, nel quale 
+Pirro si part@i ferito nel braccio e Fabrizio romano legato ancora 
+fedito, e morti sono in quella battaglia 5000 Romani, e di quelli di 
+Pirro 20000, e le insegne di Pirro abbattute 53 e tolte, e dei Romani 
+11.  E secondo Eutropio nel libro secondo si trova che Pirro volse 
+corrompere Fabrizio, che era uno de' legati dei Romani promettendoli 
+che s'elli passasse a lui, li darebbe la quarta parte del suo regno; la 
+qual cosa rifiut@o, e promettendoli di dare grande quantit@a d'oro, et 
+elli tradisse Roma, rispuose che li Romani non volevano l'oro; ma 
+signoreggiare a coloro che possedevano l'oro.  E poi anco la terza 
+volta fu sconfitto dai Romani, quando tornava di Sicilia dove era stato 
+re dei Siracusani, da Curio e Fabrizio consuli dei Romani, alli quali 
+Timocrate offerse la morte di Pirro, perch@e lo figliuolo servia di 
+coppa a Pirro; la qual cosa rifiutorno ellino e lo senato, e mandorno a 
+dire a Pirro che si guardasse dai veneni.  E questa sconfitta fu fatta 
+nei campi d'Arusia; nella quale battaglia furno morti di quelli di 
+Pirro 34000 e presi 1300; e poi in Grecia mor@i, in Acaia della Grecia 
+appresso una citt@a che si chiamava Argo, percosso da uno sasso.  ^E 
+contra li altri principi~; li quali vinsono li Romani e subiugorno al 
+romano imperio, andando contra di loro colla insegna dell'aquila, ^e 
+collegi~; cio@e cittadini e comitadi e gente collegate insieme, le 
+quali li Romani vinseno, siccome appare in Livio et in Paulo Orosio, 
+^Onde Torquato~; questo fu Tito Mallio Torquato, lo quale fu della 
+famiglia di Marco Mallio, lo quale difese lo Capitolio da' Franceschi 
+svegliato dall'oche.  Questo Tito Mallio fu figliuolo di Lucio Mallio, 
+nascoso dal detto Marco Mallio, e lui difese dai Tribuni, e fu chiamato 
+Torquato: imper@o che, venuto a singulare battaglia con licenzia del 
+dittatore Tito Quinzio al ponte d'Aniene presso a Roma, in sul detto 
+ponte con uno dei Franceschi, che pareva uno gigante e teneva lo ponte 
+e portava uno fregio a collo, lo vinse e liber@o lo ponte.  E vinto 
+quello Francesco che portava il fregio a collo in singulare battaglia, 
+e levatoli lo fregio lo puose poi a s@e, e per@o fu chiamato poi 
+Torquato, e cos@i li suoi descendenti, e di questa famiglia fu Boezio.  
+Questa famiglia molte cose onorevili fece per li Romani; ma tra 
+l'altre, questo medesimo essendo consule con Fabio Decio, andati contra 
+li Latini e li compagni dei Latini a Capua, si deliber@o, secondo la 
+visione che ebbono la notte, che quello esercito dovea vincere, lo 
+imperadore del quale si desse per lo suo esercito, di darsi per lo 
+esercito se vedessono ch'elli perdessono, e cos@i fece Decio, inanti 
+che Tito Mallio Torquato, e cos@i rimase vincitore l'esercito romano.  
+Ma inanti che venissono a battaglia, essendo ordinato che nessuno 
+combattesse coi nimici senza licenzia delli imperadori, perch@e 
+temevano molto li Latini: imper@o che erano quasi pari nello esercizio 
+dell'arme, avvenne caso che lo figliuolo di Tito Mallio Torquato, 
+andando co' suoi compagni ad ispiare lo campo dei nimici fu schernito 
+da uno dei Latini che si chiamava Geminio Mezio al quale rispuose come 
+si convenia, e data la risposta fu dal detto Latino invitato di 
+battaglia.  E venuto lo giovano animoso a singulare battaglia con 
+quello Latino, non ricordandosi del comandamento del padre, lo vinse; e 
+tornando con grande allegrezza e colle spoglie del nimico al padre, lo 
+padre lo condann@o a morte e fecelo perquotere colla scura legato al 
+palo; e questo fece per dare terrore agli altri, acci@o che nessuno 
+uscisse del comandamento, e di costui dice Virgilio nel VI: ^Saevumque 
+securi Aspice Torquatum --.  e Quinzio~; questo Quinzio fu quello, come 
+dice lo testo, che fu chiamato Cincinnato; cio@e capelluto: imper@o che 
+portava li capelli molto arrufati e pendenti gi@u da la fronte senza 
+avere cura di sua politezza: cincinno tanto @e a dire quanto capello, e 
+per@o Cincinnato, cio@e capelluto, e per@o dice, ^che~; cio@e lo quale, 
+^dal cirro~, cio@e dal capello, ^Negletto~; cio@e non curato, n@e 
+polito, ^fu nomato~; cio@e chiamato Cincinnato.  Questi fu Lucio 
+Quinzio lo quale ebbe lo figliuolo chiamato Cesone, lo quale era molto 
+forte et animoso, e nella discordia che ebbono li patrici col popolo, 
+battette uno dei tribuni del popolo; per la qual cosa fu mandato in 
+esilio e condennato tanto, che 'l padre impoverito torn@o a stare di 
+l@a dal Tevere in una sua villa dove aveva uno suo podere che era 
+quattro giugeri; cio@e quanto in uno d@i possono arare quattro iugi.  E 
+stando quine fu mossa guerra ai Romani da' Sabini, e fu preso lo 
+Capitolio da li sbanditi sotto Appio Erdonio sabino, e con difficult@a 
+fu racquistata la rocca, mortovi uno dei consoli che avea nome Publio 
+Valerio, lo quale fu sotterrato dello avere gittato in casa sua dal 
+popolo per la grazia, ch'elli avea acquistata dal popolo per le sue 
+buone opere, e fu ancora morto Erdonio sabino, principe degli sbanditi; 
+e tutti questi mali avvenivano per la discordia tra li padri e 'l 
+popolo.  Avvenne anco poi che li Equi si mossono sotto Glacco Clelio 
+loro duce contra li Romani, et andorno a predare in su quello dei 
+Latini, e poi a Tusculo che @e quella terra che si chiama ora 
+Toscanella, e poi s'accamporno ne l'Algido, unde si mosseno li consuli; 
+e l'uno cio@e Lucio Nauzio and@o contra ' Sabini a fare vendetta del 
+guasto che aveano dato ai Romani, e fe s@i grande vendetta che 'l danno 
+ricevuto fu nulla a petto del dato.  L'altro consule, cio@e Lucio 
+Minuzio, and@o in Algido contra li Equi, e fu s@i poco felice ch'elli 
+si lass@o rinchiudere in su uno colle dai nimici; unde venuta la 
+novella a Roma reputandosi lo stato della republica in mali termini, 
+piacque ai Padri di chiamare uno dittatore e fu chiamato Lucio Quinzio 
+Cincinnato, lo quale aveva la sua terra di l@a dal Tevere; e levato 
+dall'aratro e menato al palazzo, la notte pens@o quello che dovea fare, 
+l'altro d@i comand@o ch'ogniuno seguisse l'insenge portando vettovaglia 
+per cinque d@i, e dodici pali.  E chiamato li officiali che si 
+conveniva, andossene nel campo dei nimici, et espiato ogni cosa, di 
+notte iunto l@a e riposato un poco, la gente, comanda che suonino gli 
+strumenti bellici, onde li nimici di ci@o spaventati, non sapeano che 
+farsi o se andassono a quelli che si sentiano d'intorno, o se andasseno 
+da quelli che erano assediati; e quelli che erano assediati sentendo li 
+stromenti, credendo quello che era; cio@e che fusse venuto lo loro 
+soccorso, si misseno fuora del campo et assalittono li nimici, e li 
+nimici intesono a combattere con loro.  Et in quello mezzo lo dittatore 
+fece fare gli fossi e gli steccati intorno ai nimici; unde volendo li 
+nimici farsi a loro non potettono, unde convenne che si dessono al 
+dittatore, salve le persone, perduto l'avere; unde tutti li lass@o 
+andare, messoli sotto 'l giugo, cio@e sotto le forche di tre aste 
+fatte, onde passavano ad uno ad uno in segno di soiugazione e di 
+servit@u.  Et avuto la vittoria e campato li suoi, tornato a Roma lo 
+dettatore si spogli@o dello ufficio, avvegna che lo avesse potuto 
+tenere, e tornossi a lavorare la terra, e non tenne la dittatura, se 
+non sei d@i, avvegna che fusse eletto per sei mesi.  Cos@i fatti 
+vorrebbono essere li cittadini de le citt@a nostre; ma si trovano fatti 
+come Appio Claudio, che si sforz@o di tenere lo decemvirato con gli 
+altri continuo, durante la vita sua; e cos@i gli adivenne che per lo 
+continuo officio, che volse tenere, moritte inanzi la morte sua 
+naturale e finitte la vita collo offizio.  E molti altri grandi et 
+eccellenti fatti et atti fece Quinzio Cincinnato per la republica, unde 
+merit@o ben d'essere nomato.  ^e Deci~; questi Deci furno virtuosi 
+Romani e popolari et amantissimi della republica, e furno tra gli altri 
+due, che si dierno e promiseno alli iddii per tutto lo loro popolo, dei 
+quali l'uno si diede nella battaglia che ebbono li Romani contra li 
+Latini e compagni a Capua citt@a, capo di Campagna a pi@e del monte 
+Vesuvio, e fu padre dell'altro Decio; e l'altro Decio fu figliuolo del 
+primo, e similmente si diede nella battaglia contra li Franceschi per 
+lo popolo di Roma a la morte; per la qual morte seguit@o poi vittoria 
+al popolo di Roma.  Recita Tito Livio nella prima decade lib. VIII che, 
+essendo li Latini et i loro compagni levati contra li Romani, e contra 
+volunt@a dei Romani avendo mosso guerra ai Sanniti, li Romani mandorno 
+a defensione dei Sanniti Tito Mallio Torquato, che gi@a tre volte era 
+stato consule contando questa, e Publio Decio Mure, consuli creati per 
+questa guerra che di nuovo era suscitata dai Latini.  Et essendo 
+pervenuti co li eserciti a Vesuvio, sognorno amenduni li consuli che 
+una imagine maggiore che uomo apparia loro, e dicea che dall'una parte 
+dovea morire lo consule e dall'altra doveva essere sconfitto 
+l'esercito; e quello popolo arebbe vittoria, lo imperadore del quale si 
+desse all'idii per lo populo; et avuto li consuli ragionamento insieme, 
+deliberarno di fare sacrificio a li dii, e che gli auguri vedessono se 
+a li dii piacesse quello che lo sogno avea mostrato di ci@o, che l'uno 
+dei consuli a ci@o si disponesse.  Et avuta risposta da li aruspici che 
+cos@i era, in presenzia del popolo dichiarato questo, a ci@o che 
+l'esercito non spaventasse per la morte dei consuli, fenno patto tra 
+loro che quello consule si desse alla morte, da la quale parte 
+incominciasse l'esercito a dare luogo ai nimici.  E venuti a battaglia, 
+incominci@o da la parte di Decio l'esercito non reggere l'impeto dei 
+Latini; unde Decio chiam@o Marco Valerio che era publico sacerdote del 
+popolo di Roma, e disse che dicesse le parole che si convenivano a tale 
+atto.  Et allora lo pontifice comand@o a Decio ch'elli si vestisse la 
+pretesta e velassesi lo capo, e tenesse colla sua mano il manto, e la 
+lancia sotto li piedi suo' si mettesse e dicesse le infrascritte 
+parole: Iano, Iove, Marte, Padre Quirino, Bellona, Lari, dii novensili, 
+dii indigeti, iddii de' quali @e la podest@a nostra e dei nimici, e dii 
+infernali, io vi prego et onoro e dimandovi perdono e desidero che al 
+popolo romano prosperiate la vittoria e la forza, e li nimici del 
+popolo di Roma tormentiate con paura e morte; e cos@i com'io v'@o 
+chiamato per lo popolo romano e per tutto lo suo esercito, me e li 
+nimici prometto e do alli idii dello inferno, et alla terra.  E ditte 
+queste parole, mand@o li suoi officiali a nunziare all'altro consule 
+com'elli s'era dato per l'esercito; e cintosi armato, salt@o a cavallo 
+et in mezzo dei nimici si misse, e tanto paura intr@o allora nei nimici 
+che tutti incominciorno a fuggire.  E morto che fu Decio, lo cavallo 
+suo dovunqua andava, spaventava li nimici, e davansi in fuga; e come 
+perveniano a luogo dove era morto Decio, non si potevano tenere che non 
+spaventasseno, e cos@i furno sconfitti li Latini, e li Romani ebbono la 
+vittoria.  L'altro Decio; cio@e lo figliuolo del soprascritto Decio, 
+essendo consule con Quinzio Fabio, andati contra l'esercito dei 
+Franceschi e dei Sanniti e dei Toscani et Umbri a Sentino, che era in 
+Sannio, et accampatosi ordinorno di combattere coi nimici; e venutosi a 
+la battaglia, vedendo Publio Decio la ferocit@a dei Franceschi e degli 
+altri nimici, vedendo fuggire li suoi arricordandosi del padre che 
+s'era dato per lo popolo di Roma, venneli in cuore di fare lo simile, e 
+mand@o li suoi officiali a Fabio notificandoli la sua morte.  E datosi 
+a li iddii per lo modo che aveva fatto lo padre, messosi fra i nimici, 
+li spavent@o s@i colla sua morte che tutti li misse in fuga, et allora 
+furno li Romani vincitori e furno morti dei nimici 25 mila et 8 mila 
+presi, e dello esercito di Publio Decio morti 7 mila e dello esercito 
+di Fabio mille, secondo che scrive Tito Livio nella detta decade lib. 
+X.  ^e Fabi~; ora finge l'autore che 'l detto spirito; cio@e 
+Iustiniani, nominasse ancora li Fabi, li quali furno in Roma grande 
+famiglia, e furno de' patrizi e trovornosi trecento sei uomini d'arme; 
+et avendo guerra li Romani coi Veienti, essendo uno di loro consule, 
+offerse al senato che la sua famiglia voleva fare la guerra coi 
+Veientani e che volevano levare quella spesa al comune; e conceduto 
+loro, uscitton fuora a campo et iunti al fiume Cremera s'accamporno e 
+feciono molte scorrerie in sul veientano e menornone grandissime prede, 
+et anco assai volte in battaglia ordinata li sconfisseno.  All'ultimo 
+li Veientani, arrecandosi ad onta questo fatto, ordinorno di giungerli 
+con insidie, e cos@i per farli bene siguri, pi@u volte si lassarno 
+predare, e scacciare; et uno d@i, posto l'agguaito in una grande 
+pianura et apparecchiato una grande preda di bestiame, li Fabi corseno 
+sfrenatamente ad essa, e passato l'agguato uscittono fuora li nimici 
+loro addosso et intorneolli; et ellino, fatto capo grosso, uscittono 
+tra loro e ricoverorno in su uno monte, e li Veientani intorneato 
+quello monte ne presono un altro pi@u alto che veniva sopra quello, e 
+descendendo a loro, tutti li Fabi 306 uccisono, che non ne camp@o 
+niuno.  E tutta la famiglia peritte allora se non uno garzone che, 
+perch@e non era anco atto all'arme, era rimaso a Roma, e questi fece 
+poi anco grande cose contra li Veienti e li Toscani, come appare in 
+Tito Livio nella detta decade nel libro terzio.  Di questo Fabio 
+discese quello Fabio che vinse li Toscani, come appare di sopra, e li 
+Franceschi in Sannio; e di costui discese Fabio Massimo, che indugiando 
+e tenendo a bada Anibale, ricover@o la republica dei Romani, 
+straccandolo anni 17 codeandolo qua e l@a per l'Italia, e per@o da lui 
+dice Virgilio nel libro sesto: ^Quo fessum rapitis, Fabii? tu maximus 
+ille es Unus qui nobis cunctando restituis rem --.  Ebber la fama~; 
+cio@e li sopradetti nomati, cio@e Tito Mallio Torquato, Lucio Quinzio 
+Cincinnato, Deci e Fabi ebbono la fama, che @e di loro appresso coloro 
+che leggeno le storie Romane, ^che~; cio@e la qual fama, ^volentier 
+mirro~; cio@e miro, cio@e lodo io Iustiniano; ma @e scritto per due ^r~ 
+per la consonanzia della rima.  E ben si conviene che lo imperadore 
+volentieri lodi la fama dei virtuosi Romani, perch@e furono cagione di 
+stabilire e fermare lo romano imperio; et anco perch@e l'autore finge 
+che 'l trovasse nella vita beata nel cielo di Mercurio, 
+convenientemente finge ch'elli volentieri lodi la fama dei virtuosi.  
+^Elli~; cio@e lo segno dell'aquila, ^atterr@o l'orgollio degli Arabi~; 
+qui finge l'autore che Iustiniano, continuando lo suo parlare, racconta 
+come li Romani sotto la insegna dell'aquila domorno la superbia de' 
+Cartaginesi, li quali li chiama Arabi: imper@o che Dido figliuola del 
+re Belo e moglie di Sicheo di Sidonia, ch'@e in Siria, fu edificatrice 
+di Cartagine, venuta da Sidonia in Africa, come @e stato detto nella 
+prima cantica.  E perch@e Siria a tempo dell'autore gi@a era venuta 
+sotto il nome d'Arabia, alla quale @e vicina, per@o chiama li Sidoni 
+Arabi e li Fenici: Fenicia @e lo nome della contrada, Sidon @e lo nome 
+della citt@a, unde venne Dido in Africa quando fece Cartagine; e per@o 
+li Cartaginesi chiama l'autore Arabi, perch@e ebbono origine delli 
+Arabi per lo modo che detto @e, et ora anco chiamano quelli di Tunisi, 
+che @e citt@a presso a quello luogo dove fu Cartagine edificata, Arabi 
+certa gente che abita alla foresta e vive di preda, cavalcando e 
+rubbando le contrade a modo di compagne, come si trova nelle storie 
+Romane.  Tre volte ebbono li Romani guerra coi Cartaginesi, e tutte e 
+tre le volte s@i li vinsono; la prima, vinti li Cartaginesi da' Romani, 
+e li Romani da' Cartaginesi pi@u e pi@u volte: imper@o che dur@o 23 
+anni, all'ultimo vinti li Cartaginesi feciono pace con loro, con patti 
+che si dovessono partire li Cartaginesi di Sicilia e di Sardigna, e che 
+in 20 anni dessono per ristoro delle spese fatte li Cartaginesi ai 
+Romani tre milia talenti di quelli d'Eubeia, per equali parti ogni anno 
+dei detti 20 anni.  Ma questa pace non dur@o se non 23 anni: imper@o 
+che Annibale figliuolo di Amilcare pass@o nella Spagna ad una citt@a 
+che v'aveano fatto li Cartaginesi, che anco si chiamava Cartagine, e 
+combattette Sagunto ch'era citt@a fidelissima de' Romani contro l'onore 
+dei Romani, e vinsela; et a l'imbasciadori romani, che erano iti a 
+lamentarsi della pace rotta, fece vituperio non volendoli udire; onde 
+mandato fue contro Annibale Cornelio Scipione console che men@o seco 
+uno suo fratello, ch'ebbe nome Gneo Scipione, et uno suo figliuolo che 
+fu chiamato Cornelio Scipione, e cos@i s'incominci@o la battaglia 
+seconda, e guerra coi Cartaginesi, et amenduni li Scipioni fratelli vi 
+furno morti; ma innanti che morissono, avendo vittoria Annibale, si 
+misse per la Francia e venne a passare l'alpe, che sono tra la Francia 
+e Lombardia per venire a Roma; e per@o finge l'autore che Iustiniano 
+dica: ^Che~; cio@e li quali Arabi, ^dirieto ad Annibale~; loro 
+imperadore e duca, ^passaro L'alpestre rocche~; cio@e l'altezze de 
+l'alpi, unde si comincia il monte Appennino che viene per mezzo 
+d'Italia, stendendosi infine a la Sicilia: rocca tanto @e a dire, 
+quanto luogo alto che per la sua altezza @e sigura dai nimici; et 
+^alpestre~ viene a dire dell'alpe: le dette alpe dividono la Francia da 
+la Magna e da la Lombardia; e rivolgendo lo sermone al fiume: per@o che 
+esce de le dette alpe e va per la Lombardia in verso l'oriente infine a 
+Ravenna a Venezia, e quine per tre rami entra nel mare Adriaco, e per@o 
+dice: ^di che~; cio@e della quale alpe, ^Po~; cio@e lo fiume Po di 
+Lombardia: questo fiume appresso li autori @e chiamato anco Eridano; 
+unde Virgilio: ^Fluviorum rex Eridanus, camposque per omnes~ ec. --, 
+^tu labi~; cio@e descendi e scorri per la Lombardia.  Contra lo detto 
+Annibale venne Publio Scipione consule dei Romani di Francia, o vero di 
+Spagna per tenere ad Annibale lo suo transito; e trovato che era gi@a 
+passato l'alpe per via fatta per forza in cinque d@i quando fu vinto a 
+Pisa, venuto per mare lasciato lo fratello in Francia o vero in Ispagna 
+co lo esercito che tenesse Asdrubale e Mago ch'erano rimasi in luogo 
+d'Annibale, venne ad ostare ad Annibale al passo del Tesino che @e a 
+Piagenza, e quine fu sconfitto e ferito nel braccio; e campato da la 
+morte per lo figliuolo che era ancora adolescente, venne ad ostare poi 
+nella Lombardia ad uno altro passo; cio@e al fiume Trebbia, collo 
+esercito suo ad Annibale, et al fiume Trebbia fu fatta l'altra 
+battaglia, et anco furno sconfitti li Romani.  Et in questo mezzo 
+torn@o l'altro consule di Sicilia, sentita la venuta d'Annibale in 
+Italia; cio@e Tito Sempronio, et anco fu vinto in quello luogo; unde 
+intese pure Scipione al cammino suo e ritorn@o in Ispagna, e quine fu 
+morto col fratello, come detto @e di sopra.  Et Annibale venendose a 
+Roma, si misse a passare l'Appennino, lo quale pass@o con maggiore 
+difficult@a e danno che non avea passato l'alpe, e 17 anni stette in 
+Italia, et oltra la detta sconfitta di Piagenza e di Trebbia due 
+notabili ne diede ai Romani ancora; l'una in Puglia a Canna dove furno 
+morti 44 mila, e tanti nobili morti dei Romani che l'anella dell'oro 
+dei nobili, raccolte moggia tre, ne mand@o a Cartagine; et un'altra ne 
+diede loro a Trasimeno lago di Perogia, dove elli perdette uno occhio 
+per lo vegghiare e per lo freddo e per la nebbia del lago, e questa 
+inanti a quella che fu a Canna in Puglia.  E tra questa e quella fu 
+fatto dittatore Fabio Massimo, del quale fu detto di sopra, lo quale 
+codeando l'esercito d'Annibale secondo fece stentare molto per 
+l'Italia, e venuta poi la sconfitta di Canna, poi che 'l dittatore 
+renunzi@o alla dettatura e furno fatti nuovi consuli Lucio Emilio Paulo 
+e Publio Terenzio Varrone, dei quali Paulo mor@i nella battaglia; et 
+Annibale poi cavalcato infine a Roma, li Romani avendo l'esercito loro 
+anco in Ispagna, nel quale erano stati morti amenduni li Scipioni 
+consuli, feceno capitano Cornelio Scipione giovano di 24 anni, 
+figliuolo e nipote dei detti due Scipioni, lo quale si proferse al 
+senato, e lo senato vel mand@o non trovando altro che vi volesse 
+andare, e questi racquist@o tutta la Spagna e vinse Cartagine ch'era in 
+Ispagna e pass@o poi in Africa, e vinse anco li Cartaginesi, 
+uccidendone molte migliaia, e dei loro duci assai; e cos@i in Italia 
+Annibale quando sconfiggeva, e quando era sconfitto.  Ma li 
+Cartaginesi, non potendosi difendere da Scipione, mandorno per Annibale 
+che era in Italia, e venuto in Affrica combatt@e con Scipione, e fu 
+vinto; unde finalmente si venne alla pace, e fatti sono li Cartaginesi 
+tributari dei Romani, e dur@o questa battaglia seconda anni 17.  E 
+tornato Scipione a Roma, ebbe lo triunfo che fu chiamato Africano, 
+perch@e avea vinto in Africa; e dur@o questa pace anni 50.  Poscia fu 
+mossa la terza guerra, nella quale fu Scipione tribuno dei cavalieri 
+figliuolo di Paulo Emilio legittimo e naturale, adottato dal figliuolo 
+di Scipione Affricano superiore, sicch@e per adozione era nipote del 
+superiore che l'avea fatta tributaria, al quale fu commessa la guerra 
+da' Romani, fatto consule negli ultimi due anni nei quali prese 
+Cartagine; sicch@e l'avolo la fece tributaria e lo nipote la disfece, 
+et amenduni furono detti Africani; ma questo ultimo non fu della casa 
+dei Corneli, se non per adozione, ch'egli fu figliuolo naturale di 
+Paulo Emilio, come detto @e; et in quattro anni fu finita la guerra, e 
+disfatta et arsa Cartagine, e li fuggitivi Romani e la reina con due 
+suoi figliuoli si gitt@o nel fuoco, e secondo che scrive Paolo Orosio, 
+700 anni dur@o Cartagine.  Ecco che ben fu atterrato l'orgoglio dei 
+Cartaginesi dai Romani sotto la insegna dell'aquila, ^Sottesso~; 
+continua Iustiniano, secondo che finge l'autore, lo suo ragionamento 
+dicendo sotto esso dell'aquila, ^iovanetti triunfaro~; cio@e ebbono lo 
+triunfo essendo iovanetti, cio@e inanti al tempo decreto a tale 
+dignit@a, che dovesse meritare triunfo: non poteva avere triunfo se non 
+consule o dettatore, e dettatore n@e consule poteva essere se non 
+passava l'et@a d'anni 30.  E Scipione superiore Affricano, essendo di 
+24 anni, ebbe lo consulato nella Spagna et in Affrica, come detto @e di 
+sopra, e vinto Cartagine nella Spagna et in Affrica l'altra Cartagine 
+fattala tributaria, ebbe lo triunfo poi in Roma, e per@o dice Ovidio: 
+^Parcite natales, timidi, numerare Deorum: Caesaribus virtus contigit 
+ante diem --.  Scipione~; cio@e Affricano, del quale @e stato detto di 
+sopra che disfece Cartagine, come detto @e, et assedi@o Numanzia, 
+sicch@e li Numantini messo fuoco nella citt@a per non arrendersi, 
+imbracciantisi prima tutti perittono et arsono, e li Romani tornorno 
+con vittoria, e Scipione Affricano che era stato imperadore dello 
+esercito essendo giovano, ebbe lo triunfo.  ^e Pompeio~; questi fu Gneo 
+Pompeio, lo quale fu mandato in Ispagna con Pio Metello che era 
+console, e f@uvi morto Fiorino consule dei Romani nella villa che si 
+chiamava Arnina che era in su l'Arno, venuto li Fiesulani a combattere 
+quine coi Romani; unde poi li Romani vi mandorno un altro consule ad 
+espugnare Fiesuli, lo quale assedi@o la terra, in luogo di consule, 
+contro Sertorio, et ebbono vittoria, e per@o ebbono lo triunfo, bench@e 
+Pompeio non fusse consule; ma in luogo di consule, e bench@e non avesse 
+ancora lo tempo, sicch@e ben dice lo testo: ^iovanetti triunfaro~: 
+imper@o che Scipione superiore Affricano e Gneo Pompeio si trovano 
+avere avuto lo triunfo innanti avessono trenta anni.  ^et a quel 
+colle~; cio@e di Fiesoli, ^Sotto 'l qual~; cio@e di monte di Fiesoli, 
+^tu~; cio@e Dante, ^nascesti~: imper@o che Dante nacque in Fiorenza, e 
+Fiorenza @e sotto il monte di Fiesuli, ^parve amaro~; cio@e lo segno 
+dell'aquila: imper@o che nella sedizione catillinaria se n'and@o a 
+Fiesoli, e quine incominci@o a congregare gente per venire contra a 
+Roma, e ribell@o Fiesuli dall'obbedienzia de' Romani; unde, scopertosi 
+lo trattato per lo senno di Marco Tullio che fu fatto allora consule, 
+due capitani colli eserciti per lo senato mandati ad ostare agli 
+apparecchi che si facevano per Italia, andorno l'uno contra Gaio 
+Mallio; cio@e Quinto Marzio re a Fiesuli dove era lo detto Gaio Mallio, 
+e Quinto Metello Cretico in Puglia.  Et amenduni li consuli, cio@e 
+Marco Tullio e Gaio Antonio, fu ordinato per li senatori che stessono a 
+guardia della citt@a, e li due pretori andassono; cio@e Quinto Pompeio 
+Ruso a Capua, e Quinto Metello Celer nel campo Piceno; e presi quelli 
+della coniurazione che erano in Roma e condannati a morte, Catellina 
+collo esercito suo partitosi da Fiesoli per andare in Lombardia, 
+essendo nel piano di Pistoia, trovandosi chiuse le vie: imper@o che di 
+verso Lombardia nel campo Piceno era Quinto Metello Celer con tre 
+legioni, e di verso Roma gli era venuto incontra Gaio Antonio consule 
+che tuttavia li codeava, per@o s'arrec@o con Antonio nel piano di 
+Pistoia, nel quale luogo fu sconfitto, e fuggita parte dello esercito a 
+Fiesuli, fu Fiesuli combattuto dai Romani et assediato; e combattuto 7 
+anni, alla fine fu avuto per patti e fu disfatto dai Romani.  E li 
+patti furno che Fiesoli si disfacesse e facessesi una citt@a nella 
+villa Arnina, che mezza fusse abitata dai Romani e mezza da' Fiesulani, 
+e perch@e fusse chiamata Fiorenza per onore di Fiorino consule che 
+quine fu morto; e per@o quelli che n'uscittono di Fiesuli co li Romani 
+insieme edificorno Fiorenza poi, e cos@i anco le reliquie dello 
+esercito di Catellina edificorno Pistoia.  E perch@e Fiesuli ne stette 
+assediato e funne disfatto, per@o finge l'autore che Iustiniano dica 
+che al colle; cio@e in sul quale era Fiesuli, sotto 'l quale nacque 
+Dante: per@o che Fiorenza @e sotto quello colle, ^parve amaro~; lo 
+segno de l'aquila: per@o che li Romani con quella insegna li 
+sconfissono e guerreggiornoli tanto tempo, et all'ultimo li disfeceno.
+
+	|55-72.~  In questi sei ternari lo nostro autore finge come 
+Iustiniano, continuando lo suo parlare, disse le cose grandi fatte per 
+Iulio Cesare, lo quale si trova chiamato dagli antichi Gaio Cesare; ma 
+anco fu nomato un altro Gaio Cesare; ma fu figliuolo di Germanico, s@i 
+come dice Boezio nel primo libro della Filosofica Consolazione, quando 
+dice: ^Respondissem Canii verbo, qui cum a Caio Caesare Germanici 
+filio, conscius contra se coniurationis factae fuisse diceretur: Si 
+ego, inquit, scissem, tu nescisses~.  Fu anco un altro, detto da Tullio 
+nel libro primo delli Ofici Gaio Cesare figliuolo di Lucio, lo quale 
+non credo che fusse Iulio Cesare: imper@o che, quando unqua parla 
+altro' di lui, elli vi pone s@i fatta adiunzione ch'elli vuole che si 
+cognosca; e perch@e non s'intendesse di lui, per@o credo ch'elli vi 
+giungesse figliuolo di Lucio.  Ma siano quantunqua si vuole li Gai 
+Cesari, elli intende qui di Iulio Cesari narrando di lui quello che 
+fece colla insegna dell'aquila, poich@e fu chiamato dittatore insieme 
+con Pompeio Magno e con Marco Crasso: imper@o che, essendo dettatori 
+questi tre, occorse caso che si ribellorno li Parti e li Franceschi; et 
+ai Parti fu mandato per lo senato Marco Grasso, et a' Franceschi Iulio 
+Cesari.  E durante la dettatura anni 5, e non avendo fatto anco quello, 
+per che v'era ito, scrisse al senato che li prorogasse l'officio per 
+altri 5 anni, e non volendo fare lo senato, lo procacci@o dal popolo; 
+et avuto poi vittoria dei Franceschi, de l'Inghilesi et Ispagnuoli e di 
+tutto l'occidente nelli altri 5 anni, tornato in Italia al fiume 
+Rubicone di l@a da Rimino, dimandato lo triunfo, li fu negato dal 
+senato pi@u per invidia che per altra cagione, per ostare alla potenzia 
+sua et a l'ardire, e massimamente Pompeio Magno, che era stato suo 
+genero, copertamente lo impedia e con onesti modi, e fecelo dannare al 
+senato, e dal popolo li fu conceduto.  Unde essendo partita la citt@a, 
+imper@o che 'l popolo voleva avesse lo triunfo, e lo Senato non voleva, 
+uscittono alquanti cittadini fuora a Cesari a confortarlo che venisse 
+armata mano contra 'l senato, e cos@i fe; unde lo senato si partitte di 
+Roma et andossene per Italia inverso Pullia e Calavria, e Cesari collo 
+esercito suo tenne loro dirieto.  Et allora lo senato si part@i 
+d'Italia e pass@o in Grecia ad Epiro, e quine fu fatto Pompeio 
+imperadore dello esercito, e Cesari diede volta e torn@o a Roma e 
+spogli@o l'erario e pag@o li suoi cavalieri, dividendo loro lo tesoro 
+della camera di Roma, e tutti gli onori si fece concedere dal popolo.  
+E sentendo che in Ispagna si tenea per lo senato Ilerda sotto Petreio, 
+Affranio, cavalc@o subitamente per la Provenza in Ispagna, e reggendosi 
+a Marsilia, perch@e li Marsilliesi non volseno obedire, anco tenevano 
+la fede al senato di Roma, vi puose l'oste e lass@ovi per capitano 
+dell'oste Quinto lo quale fu vinto in terra da' Marsilliesi; unde 
+venendo poi per mare co le galee, sconfisse li Marsilliesi et ebbe la 
+citt@a.  Et in quel mezzo Cesari se n'and@o in Ispagna, e vinto Petreio 
+et Affranio, avendo recato a sua devozione tutto l'occidente, torn@o a 
+Roma, e di quinde se n'and@o in Grecia; e dando sconfitte al senato e 
+ricevendone, quando cacciando e quando essendo cacciato, pervennono 
+amenduni li eserciti in Tessaglia e quine combattettono; nella qual 
+battaglia fu sconfitto Pompeio, e fuggito in Egitto fu dicapitato dal 
+re Tolomeo.  E Cesari, perseguitatolo per mare, and@o insin quine dove 
+fu Troia, e volse vedere tutte l'antichit@a della gente troiana, della 
+quale elli avea l'origine; e sentendo che Pompeio era ito in Egitto, 
+and@o in Egitto et inamorossi di Cleopatra sirocchia e moglie del re 
+Tolomeo, e stettevi due anni.  E trovato che lo re li faceva trattato 
+contra, lo fece uccidere; e poi sentendo che l'esercito del senato si 
+raunava in Affrica sotto Catone e Sesto e Gneo figliuoli di Pompeio, e 
+che lo re Iuba gli dava aiuto, e gi@a v'era morto Scipione che v'era 
+per Cesari, andossene l@a; e morto Catone et Iuba, perseguit@o li 
+figliuoli di Pompeio che fuggittono in Ispagna; et iunto Gneo in una 
+citt@a che si chiama Munda e morto, Sesto fugg@i in Sicilia et and@o 
+corseggiando per mare, lo quale poi dopo lungo tempo fu vinto da 
+Agrippa cugnato d'Ottaviano.  Compiuta la battaglia, da Munda Cesari 
+torn@o in Roma, et, essendo signore del tutto, stette due anni e poi fu 
+morto da Bruto e Cassio, consentente lo senato, con 24 ferite di stili 
+d'ariento nel Capitolio, e dagli altri che ferno altrettanto.  Et 
+infine a questo punto l'autore tocca nel testo, fuorch@e della morte di 
+Cesari, dicendo cos@i: ^Poi presso al tempo~; dice Iustiniano a Dante, 
+secondo che l'autore finge, dopo li triunfi di Scipione e di Pompeio, 
+li quali furno molto di lungi l'uno da l'altro, e dopo la sedizione 
+catellinaria, ^presso al tempo, che tutto 'l Ciel volle Ridur~; cio@e 
+ridurre, ^lo mondo~; cio@e lo reggimento del mondo, ^a suo modo 
+sereno~; cio@e a suo chiaro modo, cio@e del cielo; e dice che ^tutto 'l 
+Ciel volle~, per dare ad intendere che gli effetti quaggi@u si 
+produceno de le cagioni superiori, e dalle influenzie del cielo; ma 
+notantemente dice ^tutto 'l Cielo~: imper@o che, a mutare lo reggimento 
+del tutto, conveniano correre tutte le cagioni insieme; e dice: ^a suo 
+modo sereno~, perch@e lo cielo @e retto e governato da uno signore, e 
+cos@i volse lo cielo redur lo mondo che in tutto 'l mondo fusse uno 
+monarca.  ^Cesari~; questi fu Iulio Cesari, del quale @e stato detto di 
+sopra, detto Iulio da la famiglia Iulia, la quale si dice discesa da 
+Iulio Ascanio figliuolo d'Enea troiano, che fu origine dei Romani, come 
+appare per le istorie dette dinanti.  Cesari fu detto perch@e nacque 
+della famiglia d'uno Romano che prima fu detto Cesari, perch@e nacque 
+del ventre ceso de la madre: imper@o che mor@i innanti la madre che 
+elli nascesse, e per@o fu bisogno che s'aprisse lo ventre della madre e 
+che se ne cavasse lo feto, e per@o fu chiamato Cesari, quasi ^nato del 
+ventre dello madre ceso~, e molti poi discesi da lui furno chiamati 
+Cesari; e cos@i questo perch@e fusse detto Gaio, non l'@o trovato, o 
+fue prenome suo o fue agnome.  ^per voler di Roma~; cio@e 
+legittimamente, secondo le legge e li statuti romani, eletto dittatore 
+fu mandato a vincere li Franceschi, che s'erano ribellati dal romano 
+imperio, ^il tolle~; cio@e la insegna dell'aquila.  ^E quel che fe~; 
+cio@e Cesari co la insegna dell'aquila, ^da Varo~; questo @e uno fiume 
+posto nella fine della Lombardia o della Francia; e cos@i @e fine di 
+Italia e della Francia, ^infine a Reno~; questo @e uno fiume che @e tra 
+la Francia e tra Lamagna, et esce d'uno monte col Rodano, lo quale va 
+per la Francia e per la Provenza, discende poi in mare, ^Isara~; questo 
+@e fiume che @e nella Francia o vero nella Provenza, ^vidde~: imper@o 
+che quelli popoli, che abitano appresso quello fiume, viddono e 
+sentittono li fatti de' Cesari, ^e Arar~; questo @e fiume ancora o di 
+Provenza o di Francia molto piano; unde Lucano: ^Mitis Arar latias 
+gaudet non ferre carinas --, e vidde Senna~; questo @e fiume che @e a 
+Parigi, e chiamasi Sequana in Grammatica, forsi che in volgare si 
+chiama Senna; cio@e quello che fece Cesari, ^Et ogni valle~; ancora 
+vidde quello che fece Cesari nella Provenza e nella Francia, ^onde 'l 
+Rodono @e pieno~; cio@e tutte le valli che @anno fiumi li quali 
+discendono in Rodano: molti fiumi discendono in Rodono che vegnano per 
+le valli della Provenza e della Francia, le quali sono abitate dai 
+popoli, e quelli popoli viddono li gran fatti di Cesari: li grandi 
+fiumi, che escono in del mare, non sono grandi se non per li fiumicelli 
+che entrano in essi.  Questo @e quello che Cesari fece, vincendo la 
+Provenza, la Francia, l'Inghilterra, e de la Spagna.  ^Quel che fe 
+poi~; cio@e poi che ebbe vinto le predetti parti e torn@o a Roma dopo 
+li detti diece anni, ^ch'elli~; cio@e Cesari, ^usc@i di Ravenna~; 
+questa @e citt@a di Romagna posta al mare adriaco, quine dove il Po 
+entra in mare, dove capit@o prima Cesari quando torn@o di Francia, e 
+quine stette ad aspettare che li senatori decernessono ch'elli avesse 
+lo triunfo; ma come detto, @e li fu negato e dannato rio della maest@a, 
+perch@e era stato gli altri 5 anni senza l'autorit@a del senato.  ^E 
+salt@o Rubicon~; questo @e uno fiume che @e in mezzo tra Ravenna et 
+Arimino, e soleva essere fine della Italia; ma poi furno ampliati li 
+fini d'Italia, s@i che si stesono infine a Venezia.  Infine a questo 
+fiume era licito a l'imperadori che tornavano colli eserciti di venire 
+armati, poi doveano uscire et ellino e li eserciti disarmati come 
+uomini di pace: e se veniano armati, era segno che venivano come 
+nimici; e cos@i venne Cesari armato collo esercito, confortato da' suoi 
+parziali, nimici di Pompeio.  ^E salt@o~; cio@e pass@o Rubicone et 
+intr@o in Arimino, armato; e questo fu segno che veniva come nimico de 
+la patria, ^fu di tal volo~; cio@e di tanta avaccianza e di s@i grande 
+cammino: imper@o che venne a Roma, e sentendo che Pompeio e 'l senato 
+era a Capua and@o loro dirieto, poi a Brandigi; e partitosi Pompeio e 
+'l senato, di Brandigi ritorn@o a Roma come detto fu di sopra, ^Che nol 
+seguiterea lingua~; cio@e che pienamente li potesse dire, ^n@e penna~; 
+cio@e che lo potesse scrivere.  ^Inver la Spagna~; cio@e quando and@o a 
+vincere Pompeio et Affranio ad Ilerda, ^rivolse lo stolo~; cio@e 
+l'esercito suo: lo stolo @e armata di galee per mare; ma qui si pone 
+impropriamente per l'esercito di terra.  Poich@e Pompeio fu uscito 
+d'Italia e vinto Ilerda, torn@o a Roma, e pass@o in Grecia, e per@o 
+dice: ^Poi ver Durasso~; cio@e rivolse lo stuolo: Durasso @e una citt@a 
+posta nella Grecia nel monte Epiro e chiamavasi anticamente lo monte 
+Durasso, e la terra si chiamava Petra, et ora la terra si chiama 
+Durasso.  Questo fu quando Pompeio uscito di Brandigi, che @e citt@a di 
+Calavria, in sul mare adriaco nella quale Cesari lo credette assediare, 
+facciendo lo ponte a la cocca del ponte di legname in sul mare; ma 
+Pompeio lo ruppe et uscittene, bench@e due galee ultime rimanessono a 
+combattere alla uscita, e f@unnovene morti assai e feriti, e pervenne a 
+Durasso.  E Cesari li tenne dirieto, e volse pigliare la terra; ma 
+Pompeio vi fu inanti di lui; unde Cesari volendo assediare di verso la 
+terra ferma, dov'@e lo monte Isimo, fece uno muro che teneva da l'uno 
+lato del mare a l'altro; ma Pompeio quando ne volse uscire lo ruppe; ma 
+non n'escitte per allora, perch@e Scevola tenne la rottura infin che 
+venne Cesari, et allora si combattette fortemente, e fu vinto Cesari.  
+E se Pompeio avesse seguitato, sarebbe stato al tutto vinto; ma Pompeio 
+fece sonare a ricolta, e stando poi Pompeio in Durasso, et in tutta 
+quella stanza che era d'entro al muro ebbe mortalit@a, e Cesari che era 
+di fuora ebbe fame.  E di quinde si part@i Pompeio quando volse, et 
+andossene a Tessaglia, e quine venne poi Cesari, e quive fu la grande 
+battaglia dove fu sconfitto Pompeio, come @e stato detto di sopra; e 
+per@o dice, ^e Farsalia percosse~; cio@e Cesari colla insegna 
+dell'aquila: Farsalia, Tesaglia, Beozia, Emazia @e una medesima 
+contrada e Macedonia, ^S@i~; cio@e in s@i fatto modo, ^ch'al Nil~; 
+cio@e a quello fiume che @e in Egitto, che si chiama Nilo, l'origine 
+del quale e la sua fonte non fu mai niuno che vedesse, e divide l'Asia 
+da l'Affrica di verso mezzo d@i, et entra in mare per sette bocche ad 
+Alessandria; e ponsi qui lo Nilo per la contrada, cio@e per lo Egitto, 
+^caldo si sent@i del dolo~; dice caldo, perch@e nelle parti calde si 
+sent@i del dolo, cio@e si ricevette dello inganno: imper@o che Tolomeo 
+per consiglio di Fotino mand@o incontra a Pompeio per lo Nilo e per lo 
+mare Achilla e Settimio, li quali facendo vista d'essere mandati 
+perch@e la piaggia v'@e pericolosa, acci@o che Pompeio ascendesse nel 
+loro legnetto et andasse a terra, che co la sua grande galea non vi si 
+sarebbe potuto accostare, quando l'ebbono in loro balia dilungati dalla 
+galea, l'ucciseno e tagliorogli lo capo, e portornolo poi a Tolomeo, e 
+Tolomeo lo fece poi imbalsimare per presentarlo a Cesari quando vi 
+venisse, e cos@i fece; ma Cesari mostr@o d'averlo a dispiacere, come 
+dice Lucano.  E furnovi anco morti gli altri Romani che v'erano venuti 
+con Pompeio, se non se la moglie di Pompeio e lo figliuolo che furno 
+menati via, tra' quali fu Pompeio Bitinico e Lentulo uomo consulare.  
+Potrebbe anco dire lo testo: ^S@i, ch'al Nil caldo si sent@i del dolo~; 
+cio@e per s@i fatto modo Cesari percosse colla insegna dell'aquila 
+Tesaglia, che 'l Nilo, cio@e quel fiume, ^si sent@i caldo del dolo~; 
+cio@e si sentitte caldo per lo sangue umano che vi si sparse dentro; 
+essendo caldo s@i che lo riscald@o del dolo, cio@e per lo dolo, cio@e 
+per lo inganno e tradimento che us@o Tolomeo in verso Pompeio, 
+facendolo uccidere e dicapitare sotto fede d'amicizia, e gli altri che 
+erano con lui.  ^Antandro~; questa @e una isola presso a Troia, la 
+quale vidde Cesari quando and@o a Troia, credendo che vi fusse Pompeio, 
+^e Simoenta~; questo @e uno fiume anco a Troia, ^unde si mosse~; cio@e 
+dei quali luoghi si mosse la insegna dell'aquila, la quale portava 
+Cesari in prima quando venneno li Troiani in Italia, ^Rividde~; cio@e 
+la insegna dell'aquila, ^e l@a ove Ettore si cuba~; cio@e si giace: nel 
+sepulcro anco rividde l'aquila.  ^E mal per Tolomeo possa si scosse~; 
+cio@e la insegna dell'aquila: imper@o che trovato Cesari, quando fu a 
+Troia, che Pompeio era ito in Egitto a re Tolomeo, volse le veli 
+inverso l@a et iunto fu onorevilmente ricevuto da Tolomeo, e 
+present@ogli la testa di Pompeio credendoli perci@o molto piacere; ma 
+Cesari mostr@o lo contrario, piangendo quando la vidde e dolendosi 
+della morte sua.  E per questo lo re Tolomeo incominci@o a dubitare di 
+Cesari, et anco perch@e Cesari teneva Cleopatra che era sua sirocchia e 
+moglie, e gli attori suoi incominciorno appiattare lo tesoro reale, et 
+accagionare Cesari che elli l'avesse tolto; ancora Achilla, principe de 
+la milizia che avea sotto di s@e 20 mila cavalieri, assalitte la casa 
+reale per uccidere Cesari.  E perch@e Tolomeo comandasse ch'elli si 
+cessasse dall'arme non lo volse obedire; ma assalitte lo palazzo per 
+terra e per mare, et allora Cesari difese lo palazzo e nelle galee fece 
+mettere fuoco; et approssimate alle case della citt@a, arseno assai 
+case, e tra l'altre una casa nella quale era uno armario di libri che 
+erano 400 mila di vilumi.  Poi Cesari uscitte dirieto del palazzo e 
+ricolsesi in una isula che si chiama Faros, per tenere la bocca del 
+Nilo, acci@o che nessuno ne potesse uscire e li suoi per mare potessono 
+venire a lui che erano sparti per l'Egitto.  E quine anco Achilla 
+l'assalitte per terra e per acqua, e fecesi grande battaglia, e molti 
+de' cavalieri di Cesari furno morti, e quine fu morto Fotino et 
+Achilla; e Cesare oppresso da' combattitori uscitte di quinde e salitte 
+in una scafa, la quale per la moltitudine di quelli che 'l seguitorno, 
+s'affond@o, et elli not@o dugento passi a la nave dei suoi che era 
+quine, coll'una mano fuora dell'acqua per campare li libri che aveva 
+scritti, e poi fece battaglia colli Alessandrini e vinseli, e rendette 
+loro lo re Tolomeo che sempre avea preso e tenuto seco.  L'ammonitte 
+che pi@u tosto volesse provare l'amicizia dei Romani che l'arme; ma 
+incontenente anco lo re li mosse guerra, e fu vinto: imper@o che 20 
+mila uomini furno morti in quella battaglia, 12 mila con 70 lunge navi, 
+cio@e galee s'arrendetteno, 502 furno morti de' Cesariani, e lo re 
+Tolomeo ricolto in una scafa per fuggire, saltandovi molti suso and@o a 
+fondo et affog@o, e lo corpo suo fu poi cognosciuto alle piagge per lo 
+coretto dell'oro che avea indosso; lo quale coretto mandato per Cesari 
+a li Alessandrini, li costrinse con quello ad arrendersi et allora 
+diede lo regno d'Egitto a Cleopatra.  E partitosi quinde, venuto per 
+Siria vinse Farnace figliuolo del re Mitridate, e poi pass@o in Africa 
+e vinse lo re Iuba lo quale diede pregio ad uno che l'uccidesse; e 
+Catone, veduto perduta la libert@a di Roma, s@e medesimo uccise: e 
+cos@i poi Cesari ritorn@o a Roma, e fece le cose che sono dette di 
+sopra.  Basta a questa parte avere veduto come Tolomeo pericol@o, 
+sicch@e male per lui si scosse la insegna de l'aquila.  ^Inde~; cio@e 
+da Tolomeo e da Egitto, ^discese~; cio@e la insegna dell'aquila, e 
+Cesari con essa, ^folgorando~; cio@e andando come una fulgure per aire, 
+^ad Iuba~; cio@e al re Iuba d'Africa, che avea tenuto la parte di 
+Pompeio e sconfisselo, come @e detto di sopra.  ^Poi~; cio@e che fece 
+le predette cose, ^si rivolse~; cio@e Cesari colla insegna dell'aquila, 
+^nel vostro occidente~; e ben dice: per@o che Iustiniano era stato a 
+Costantinopoli, che @e nella parte orientale per rispetto di Dante che 
+era nella parte occidentale per rispetto dei Costantinopulitani, 
+^Ov'ei~; cio@e nel quale occidente elli, cio@e Cesari, ^sent@i~; cio@e 
+Cesari, ^la pompeiana tuba~; e questo dice per lo figliuolo di Pompeio, 
+cio@e Gneo, lo quale sconfisse al fiume Monda in Ispagna, e secondo 
+Paulo Orosio, Petreio et Affrano; ma secondo quello di Lucano, quello 
+di Petreio et Affranio fu inanti la battaglia di Tessaglia.  ^pompeiana 
+tuba~; s'intende la fama di Pompeio: imper@o che la fama sona, come la 
+tromba.  E qui finisce la prima lezione del canto VI.  Seguita la 
+seconda; e se la prima fusse troppa lunga per le storie che vi sono, 
+divida lo lettore come li piace: io l'@o abbreviate lo meglio che io 
+@one saputo.
+	^Di quel che fe col baiulo seguente~ ec.  Questa @e la seconda lezione 
+del canto sesto, ne la quale lo nostro autore finge come Iustiniano, 
+seguendo la sua diciaria che avea incominciato di sopra delle cose 
+fatte colla insegna dell'aquila per li Romani, dice per le cose fatte 
+per Ottaviano Augusto e delle cose fatte per Tiberio che fu terzo, e 
+dei gibellini che s'appropriano, e dei guelfi che si gli oppongano, e 
+della condizione dell'anime che in questo secondo pianeto si 
+rappresentano, e di quelli spiriti che vi sono ripresentati ne 
+manifesta alcuno degno di loda.  E per@o si divide questa lezione in 
+cinque parti: imper@o che prima finge che Iustiniano dica delle cose 
+fatte da Ottaviano Augusto, che fu secondo imperadore dopo Cesari; 
+nella seconda, delle cose fatte da Claudio Tiberio che fu terzio, et 
+incominciasi quine: ^Ma ci@o che 'l segno~ ec.; nella terza parte finge 
+come Iustiniano, tornando a proposito, riprende li guelfi e li 
+gibellini, et incominciasi quine: ^Ormai puo' iudicar~ ec.; nella 
+quarta parte finge e ritorna a trattare di quelli spiriti che in quello 
+secondo pianeto si rappresentano, dicendo la loro condizione, et 
+incominciasi quine: ^Questa picciola stella~ ec.; nella quinta et 
+ultima finge come spezialmente dica d'uno virtuoso spirito, che fece 
+grande cosa et ammirabile nella vita presente, et incominciasi quine: 
+^E dentro alla presente margarita~ ec.  Divisa la lezione, ora @e da 
+vedere l'esposizione litterale coll'allegorica, o vero morale.
+
+	|73-81.~  In questi tre ternari lo nostro autore finge che Iustiniano, 
+continuando lo suo parlare, dice, dopo le cose fatte da Iulio Cesare 
+raccordate di sopra, di quelle che furno fatte da Divo Ottaviano 
+Augusto co la insegna dell'aquila, lo quale fu secondo imperadore dopo 
+Cesari, essendo suo nipote figliuolo della sirocchia carnale, le quali 
+raccorda ancora a Dante, dicendo cos@i: ^Di quel che fe~; cio@e la 
+insegna dell'aquila, ^col baiulo seguente~; cio@e con Divo Ottaviano 
+Augusto, che fu secondo imperadore dopo Cesari, e dice ^baiulo~: 
+imper@o che baiulo si dice da baiulare, cio@e da portare; e cos@i si 
+chiama lo bailo, perch@e porta lo fanciullo, e cos@i si chiama ora 
+baiulo Ottaviano Augusto, perch@e port@o la detta insegna, e bal@i e 
+govern@o lo imperio di Roma.  ^Bruto con Cassio~; questi due furno 
+principi della coniurazione de' senatori fatta contro Cesari; nella 
+quale coniurazione, secondo che scrive Svetonio, furno pi@u di sessanta 
+senatori; ma Gaio Cassio, e Marco Bruto furno li principi della 
+coniurazione, et adiungevi Svetonio Decio Bruto; e nella corte di 
+Pompeio, dove si convenia lo senato, add@i 25 di marzo, nell'anno 46 de 
+la sua et@a e quattro del suo imperio, fu morto co li stili 
+dell'ariento che studiosamente s'avevano fatto fare, perch@e nel senato 
+non si poteva portare arme: 23 ferite li furno date; ma niuna se ne 
+trov@o mortale, se non quella del petto.  Dopo la morte di Cesari 
+succed@e Ottaviano Augusto, lo quale perseguit@o l'interfettori, e come 
+erede testamentario prese lo imperio, e combattette contra Marco 
+Antonio che volve pigliare lo imperio, e perseguitava gli ucciditori di 
+Cesari, e Decio Bruto aveva assediato in Modona; ma lo senato, per 
+ossediare et ovviare che Antonio non crescesse, mand@o contra lui 
+amenduni li consuli, cio@e Curio e Pansa, et Ottaviano per pretore, 
+acci@o che liberassono gli assediati e vincessono Antonio; ma nella via 
+Pansa, iungendo innanzi, in uno agguato fu ferito e di quella ferita 
+mor@i.  Et Ircio collo esercito suo o del compagno vinse Marco Antonio 
+nella prima battaglia che fece con lui, rimanendo Ottaviano a guardia 
+del campo.  Nella seconda battaglia fu grande abbattimento dell'una 
+parte e dell'altra, e fu morto Ircio; ma a l'ultimo Ottaviano ebbe la 
+vittoria, e perdon@o a Decio Bruto, che li dimand@o perdono; ma poi in 
+Francia fu morto da quegli di Secana; e per mezzo di Marco Lepido, che 
+si mise a volere la sua parte dell'imperio, fe Ottaviano pace con Marco 
+Antonio, e prese la figliuolastra per donna; ma non la men@o innanti 
+che la lassasse, e divisono tra loro la signoria, sicch@e Antonio 
+tenesse l'oriente, et Ottaviano l'occidente, e Marco Lepido l'Affrica.  
+E poco dur@o Marco Lepido; ma con Marco Antonio dur@o anni 12, e 
+vennono a Roma e feceno concordia insieme di perseguitare gli 
+ucciditori di Cesari.  E cos@i poi in Tessaglia combattettono contro 
+l'altro Bruto, cio@e Marco Bruto e Gaio Cassio e vinsogli e condussogli 
+a la morte: imper@o che, inanzi che si vincesse la battaglia, l'uno e 
+l'altro si fece uccidere ai suoi.  Poi discordatosi con Antonio, 
+perch@e Ottaviano avea perseguitato Lucio Antonio fratello di Marco 
+Antonio, lo quale voleva parte dell'occidente et avealo assediato in 
+Perogia et ebbelo per fame, combattette in Grecia con lui ad uno luogo 
+che v'@e uno monte chiamato Accio; al quale luogo si scontr@o Ottaviano 
+in mare co l'esercito di Marco Antonio, che venia colle forze d'Oriente 
+e con Cleopatra regina d'Egitto che Antonio avea preso per donna.  E 
+trovatosi quine l'esercito d'Ottaviano e d'Agrippa suo cognato, 
+rinchiusono l'esercito d'Antonio e sconfissollo, e lo detto Antonio 
+perseguitorno e Cleopatra tanto, che fuggittono in Egitto dove Marco 
+Antonio da Ottaviano fu constretto a morire; e veduto morto Antonio, 
+Cleopatra per non venire alle mani d'Ottaviano, si puose aspidi alle 
+puppe et uccisesi.  Ancora combattette Ottaviano in Sicilia contra 
+Sesto Pompeio, che avea ribellata la Sicilia e teneva assediato Roma; 
+et avendo armato uno grande stuolo, corseggiava per mare, e cos@i non 
+lasciava andare niuna vettuaglia a Roma; unde per consiglio di Lepido 
+fece Ottaviano patto con Sesto Pompeio ch'el si dovesse stare in 
+Sicilia, e questo fu quando Marco Antonio e Marco Lepido era insieme 
+con Ottaviano.  Ma poi non tenendo Sesto fermo lo patto, fu iudicato 
+inimico, et in quello uno suo servo liberato chiamato Moena, con 60 
+galee si fugg@i da Sesto et accostossi ad Ottaviano, et Ottaviano lo 
+prepuose a quello suolo, e questo Moena con Statilio Tauro 
+combattettono contra Venetraco ammiraglio dello stuolo di Sesto; ma 
+gran parte del suo naviglio perdette al periculo di Scilla, che @e in 
+Sicilia.  Unde cinque battaglie fece Ottaviano; due contra Marco 
+Antonio, cio@e a Modona l'una, e l'altra in Grecia ad Accio; una in 
+Tessaglia contra Marco Bruto e Gaio Cassio; una in Sicilia contra Sesto 
+Pompeio; et una a Perugia contra Lucio Antonio.  E per@o ben dice 
+Iustiniano, secondo che finge l'autore: ^Di quel che fe~; la insegna 
+dell'aquila, ^col baiulo seguente~; cio@e con Ottaviano; e ben dice lo 
+testo: ^Di quel~: imper@o che tutto non tocc@o loro; ma alcuna parte di 
+quel che fece Ottaviano, come appare per la storia, ^Bruto~; due Bruti 
+furno nella coniurazione principi, cio@e Decio Bruto e Marco Bruto, di 
+Marco Bruto intende qui: imper@o che a Decio Bruto perdon@o Ottaviano 
+quando lo prese a Modona, ^con Cassio~; cio@e con Gaio Cassio che 
+amenduni furno principi della congiurazione, li quali vinse Ottaviano e 
+condusseli a la morte: imper@o che a Decio Bruto perdon@o, come appare 
+di sopra, ^ne l'inferno latra~; cio@e grida, come abbaia lo cane, nello 
+inferno nella bocca del Lucifero, come @ae finto l'autore nella prima 
+cantica nell'ultimo canto.  E di che gridano?  Di quel che fe la 
+insegna dell'aquila menata da Ottaviano contra di loro, che li condusse 
+a farsi uccidere ai suoi medesimi in Tessaglia.  ^E Modona~; quest'@e 
+una citt@a di Lombardia, dove Ottaviano vinse Marco Antonio e perdon@o 
+a Decio Bruto, al quale era stata data Modona per provincia da Cesari e 
+per lo senato confirmata, e per@o prese lo senato a difendere Modona e 
+Decio Bruto, e per@o dice, ^fu dolente~: imper@o che sostenneno li 
+Modonesi in quella guerra molto affanno; unde Lucano: ^Mutinaeque 
+labores~, in primo, sicch@e ben pu@o dire che fu dolente di quel che fe 
+l'aquila con Ottaviano, come appare di sopra, ^e Perogia~; questa @e 
+una citt@a di Toscana nelle confine, la quale anco fu dolente di quel 
+che l'aquila fece con Ottaviano: imper@o che vi stette assediato Lucio 
+Antonio, come @e stato detto, e per fame s'arrend@e; e per@o ben dice 
+Lucano nel predetto luogo: ^Perusina fames --.  Piangene ancor la 
+trista Cleopatra~; che fu reina d'Egitto, cio@e di quello che fece 
+l'aquila con Ottaviano: imper@o che, come @e detto, sconfisse Marco 
+Antonio suo marito in mare ad Accio, et elli et ella ne mor@i; e per@o 
+dice: ^Che fuggendoli~; cio@e la quale Cleopatra fuggendo innanti a 
+lei, cio@e dall'aquila che portava per stendale Ottaviano, cio@e dalle 
+galee d'Ottaviano che la perseguitavano, ^inanti~: imper@o che se ne 
+fuggiva in Egitto, et Ottaviano perseguitava lei e Antonio, ^prese~; 
+cio@e la detta Cleopatra, ^La morte subitana~: imper@o che subitamente 
+mor@i, ^et atra~; cio@e oscura e crudele, ^dal colubro~; cio@e dagli 
+aspidi che si puose alle puppe per morire, come detto @e, che ben fu 
+morte subita, imper@o che tosto lo veleno corse al cuore: e fu crudele 
+et oscura cosa vedersi gli aspidi a puppe, le quali ella si puose 
+sentendo ch'ella era riservata per essere menata nel triunfo per Roma 
+innanti ad Ottaviano: la volse fare campare faciendo succhiare lo 
+veleno da quelli Psilli che @anno sigurt@a contra 'l veleno, come li 
+Celamatori; ma non valse niente.  ^Con costui~; cio@e con Ottaviano, 
+^corse~; cio@e la insegna dell'aquila: imper@o che Ottaviano and@o poi 
+per Siria infine al mar rosso, vincendo le genti e li popoli che erano 
+ribelli ai Romani, ^infino al lito rubro~; cio@e infine a la piaggia 
+del mare rosso; e debbiamo sapere che quel mare @e rosso per lo 
+terreno, non che l'acqua sia rossa.  ^Con costui~; cio@e con Ottaviano, 
+^puose 'l mondo~; cio@e la insegna de l'aquila, ^in tanta pace~: 
+imper@o che tutto il mondo obbeditte ai Romani, et in niuna parte 
+aveano guerra, ^Che fu serrato ad Iano il suo delubro~.  Iano era lo 
+dio della circuspezione e faceano li Romani la statua sua con due 
+volti, cio@e co l'anteriore e posteriore: imper@o che chi @e 
+circuspetto considera non solamente le cose presenti; ma ancora le 
+passate e le future.  Alquanti dicevano che era lo dio dell'anno, e chi 
+li dava due volti per lo nascimento del Sole e per l'occaso: imper@o 
+che, quando lo Sole si leva, pare illuminare lo mondo col volto 
+d'inanti; e quando tramonta, col volto di rieto; e chi li dava quattro 
+volti per li quattro tempi dell'anno, cio@e primavera, estate, autunno 
+e verno, e per@o lo chiamavano Iano, quasi ^Ianua~ e porta dell'anno, e 
+quinde fu denominato lo primo mese dell'anno ^Ianuarius~.  Ma in quanto 
+era iddio de la circuspezione, aveano li Romani fatto una statua con 
+due volti nel campo Marzio con l'uno d'inanzi e l'altro di rieto, 
+scritta con lettere dal capo ai piedi, che dicevano: O cittadini, prima 
+diventati ricchi, e poi virtuosi.  E nacque questo errore di Iano re di 
+Tessaglia, lo quale fu lo primo omo che facesse battere moneta, secondo 
+Lucano.  Et essendo molto circuspetto, li Poeti, volendoli compiacere, 
+lo chiamorno iddio della circuspezione; e quinde venne, poi che la 
+circuspezione l'iddii dierno, questo nome Iano sotto nome di deit@a.  E 
+pertanto nel principio dell'edificazione di Roma, dice Servio che 
+Romulo, nella battaglia che ebbe co li Sabini, venuto a pericolo di 
+perdere nel luogo che si chiamava ^Argiletum~ a Roma, chiam@o l'aiuto 
+delli iddii, et allora di quello monte uscitte s@i fatta e grande 
+voragine d'acque calde, che li Sabini furno costretti a dare volta, e 
+camporno li Romani che non furno sconfitti; et allora Romulo edific@o 
+quine uno tempio, e volse che si chiamasse Iano, perch@e a chi fa 
+guerra @e necessaria molto la circuspezione; et ordin@o che in questo 
+tempio stessono l'arme del comune, e che quando lo comune avesse guerra 
+stesse aperto, e quando avesse pace stesse chiuso.  Et altri dice che 
+lo fece Romulo e Tacio re dei Sabini insieme, quando furno uniti e 
+confedarati insieme in quello luogo, dove furno pacificati dalle Sabine 
+che introrno in mezzo quando combattevano; ma Tito Livio dice che 
+Romulo fece lo tempio ad Iove Statore; e Numa Pompilio, che fu lo 
+secondo re dopo Romulo dei Sabinesi nato, et in Sabino abitava, quando 
+fu fatto re fece fare lo tempio di Iano con l'ordine, che detto @e di 
+sopra, perch@e lo popolo lassasse la ferocit@a dell'arme e tornasse a 
+vivere virtuosamente e sotto legge, che male si pu@o fare quando le 
+citt@a @anno guerra.  E nel reggimento suo stette serrata; e poi si 
+lev@o la seconda volta nel tempo di Tito Mallio consule dopo la prima 
+battaglia e guerra d'Africa; e la terza volta al tempo d'Ottaviano 
+Augusto dopo la battaglia fatta contra Marco Antonio ad Accio, essendo 
+posto tutto 'l mondo in pace; et in quel tempo nacque Cristo, e di 
+questa terza clausura fa menzione qui, quando dice: ^Che fu serrato ad 
+Iano~; cio@e a quello iddio chiamato Iano, ^il suo delubro~; cio@e il 
+suo tempio: questo nome delubro @e vocabulo grammaticale, e chiamansi 
+^delubra~ quegli tempi che avevano le fonti innanti, ne le quali si 
+lavano li sacrifici e li sacrificatori.
+
+	|82-96.~  In questi cinque ternari lo nostro autore finge come 
+Iustiniano, seguitando lo suo parlare, dice quello che fece la insegna 
+dell'aquila per Tiberio figliuolo di Nerone minore della schiatta 
+d'Appio Cieco, che fu terzo imperadore da Cesari successore d'Ottaviano 
+Augusto, e di quello che fece con Tito Vespasiano, dicendo cos@i: ^Ma 
+ci@o che 'l segno~; cio@e l'aquila, ^che parlar mi face~; cio@e lo 
+quale segno fa parlare me Iustiniano, cio@e che per sua cagione sono 
+intrato a parlare, ^Fatt'avea prima~; com'@e stato detto di sopra, ^e 
+poi era fatturo~; cio@e lo detto segno dell'aquila era che dovea fare 
+per gli altri principi che 'l doveano portare, ^Per lo regno mortal~; 
+cio@e per lo mondo che @ene mortale quanto agli uomini et agli animali 
+che tutti sono mortali, et anco quanto a s@e che si debbe disfare 
+quando piacer@a a Dio; o vogliamo dire: ^Per lo regno mortal~; cio@e 
+per lo imperio di Roma lo quale @e mortale, che d@e venire meno e gi@a 
+@e venuto pur a' d@i nostri, ^ch'@a lui~; cio@e lo quale a quel segno 
+dell'aquila, ^soiace~; cio@e sotto sta; o vogliamo intendere del mondo 
+o dell'imperio, vero @e che sotto sta all'aquila, siccome a segno del 
+capo dello imperio, ^Diventa~; tutto cio@e, che @ae fatto e che debbe 
+fare l'aquila per lo romano imperio e per lo mondo, ^in apparenzia~; 
+cio@e in vista, ^poco e scuro~: imper@o che non @a tanta fama e non @e 
+s@i grande, ^Se in mano al terzo Cesari~; cio@e a Tiberio figliuolo di 
+Nerone e figliastro d'Ottaviano Augusto, lo quale non era ancora 
+Cesari; ma dovea essere, sicch@e si debbe intendere ^al terzo Cesari~; 
+cio@e in mano a colui che fu poi terzo Cesari: imper@o che Iulio fu lo 
+primo; et Ottaviano, secondo; e questi, terzo: imper@o che in mano sua 
+la insegna dell'aquila fece grandissimi fatti, essendo ancora privato 
+mandato da Augusto prima come tribuno dei cavalieri a vincere li 
+Cantabri, poi come capitano dello esercito in oriente lo regno 
+d'Armenia restituitte al re Tigrane, e riebbe dai Parti le insegne dei 
+Romani che aveano tolte quando vinsono et uccisono Marco Crasso; e poi 
+uno anno resse la Francia comata, molestata et inquietata dalli 
+scorrimenti dei barbari e dei suoi principi; poi fece la battaglia de' 
+Reti, de' Vindelici e dei Pannoni e de' Germani che sono inverso 
+settentrione; e le genti dell'alpi sottopuose nella battaglia dei Reti 
+e dei Vindelici e vinse, et in quella de' Pannoni vinse e sottopuose al 
+romano imperio li Brenchi e Dalmati; e nella battaglia dei Germani 40 
+mila dei Germani, che s'erano dati et arrenduti, fece andare ad abitare 
+in Francia et allogolli allato a la ripa del Reno.  Per la qual cosa 
+tornato a Roma, fu onorato coi triunfali ornamenti, et ebbe l'ovazione 
+che @e secondo lo triunfo; ma ebbela eccessivamente per nuovo modo ad 
+onore.  Poi anco fu mandato legato in Germania a quietare lo movimento 
+dei Germani che si movevano contra li Romani, avendo sconfitto Quinzio 
+Varo con tre legioni dei Romani che tutte si perdetteno; di che n'ebbe 
+tanto dolore Ottaviano che spesse volte, come pazzo percoteva lo capo 
+al muro e diceva: Quinzio Varo, rendemi le mie legioni.  Sentendo che 
+quelli d'Illiria, che @e una grande provincia in contra a l'Italia 
+allato al mare adriaco, lasci@o l'andata di Germania, et and@o a fare 
+battaglia asprissima e gravissima di tutte le battaglie strane, dopo le 
+battaglie d'Affrica, come dice Svetonio, la qual dur@o tre anni et ebbe 
+sotto di s@e 15 legioni dei Romani, et altrettante d'aiuto con grandi 
+malagevilezze e caristia di vettovaglie.  E bench@e fusse revocato, 
+stette pur fermo temendo che se egli si fusse partito, li nimici 
+l'arebbono perseguitato, e di questa perseveranzia ebbe grande utile: 
+imper@o che tutta l'Illiria, che @e tra l'Italia e lo regno Norico e 
+Tracia e Macedonia e tra lo Danubio che @e fiume della Magna e lo seno 
+del mare adriaco, vinse e costrinse a darsi al romano imperio.  E 
+veramente perch@e in quel tempo li Tedeschi vinsono Quinzio Varo, 
+ellino si serebbono uniti ai Pannoni, se non fusse stata vinta prima 
+Illiria.  E tornato a Roma fugli ordinato lo triunfo; ma elli lo 
+indugi@o perch@e la citt@a era piena di malizia e tristizia per la 
+sconfitta di Varo; ma molto fu onorato ne la sua tornata, intrando 
+colla pretesta indosso e colla corona laurea, et a sedere mont@o in sul 
+tribunale in mezzo dei consuli, sedendo con Augusto nel cerchio dove 
+era tutta la citt@a intorno.  E nel seguente anno mandato co l'esercito 
+ai Tedeschi, vedendo che Varo era stato vinto dai Tedeschi per sua 
+negligenzia, ogni cosa fece con consiglio, e quine niuna cosa fece se 
+non con deliberazione del consiglio, bench@e altro luogo fusse usato di 
+fare di suo capo.  E quando venne a passare lo Reno stette a vedere che 
+nessuno portasse silmaria, se non quel che era di necessit@a; e poi che 
+fu di l@a, mai non mangi@o se non in terra, n@e dormitte sotto 
+padiglione pure all'aere.  Et ogni comandamento dava elli, e con 
+scrittura perch@e non si dimenticasse, imponendo a ciascheduno che 
+quando dubitasse di quello che dovesse fare, s'andasse a dichiarare con 
+lui; et elli sempre stava apparecchiato a rispondere, e se dormisse 
+voleva essere isvegliato.  E ridusse per questo modo l'esercito s@i a 
+norma che elli ebbe vittoria dei Tedeschi, e fece la vendetta di Varo, 
+e dopo li due anni torn@o a Roma, et ebbe lo triunfo che avea 
+indugiato.  Per tutte queste cose che fece Tiberio, mandato da 
+Ottaviano, non arebbe detto che tutte l'altre cose, fatte per gli altri 
+imperadori e che si doveano fare, fussono poche et oscure; ma intese 
+della passione del nostro Signore Iesu Cristo la quale fu fatta sotto 
+Tiberio: imper@o che fu fatta per Pilato preside di Ierusalem per 
+Tiberio; la quale fu la maggiore cosa che mai si facesse: imper@o che 
+si sodisfece da Iesu, che era Iddio et uomo, per lo peccato dei primi 
+parenti, per lo quale non s'era potuto sodisfare, passate gi@a tante 
+migliaia d'anni.  E per questo finge l'autore che Iustiniano lodi tanto 
+Tiberio, e per@o dice lo testo: ^si mira~; cio@e la insegna 
+dell'aquila, ^in mano al terzo Cesari~; cio@e Tiberio predetto, ^Con 
+occhio chiaro~; cio@e con perspicace considerazione, ^e con affetto 
+puro~; cio@e che non lo vinca pi@u affezione d'uno che d'un altro.  Et 
+ecco che assegna la cagione: ^Ch@e la viva iustizia~; cio@e imper@o che 
+la iustizia divina, che @e quella che sempre vive, ^che mi spira~; 
+cio@e la qual mette nell'anima mia sempre della sua grazia, e fammi 
+vedere queste cose, ^Li concedette~; cio@e la insegna de l'aquila 
+concedette, ^in mano a quel ch'io dico~; cio@e essendo nella potenzia e 
+ne la amministrazione di Tiberio, ^Gloria di far vendette~; cio@e dei 
+Parti che rendettono le insegne tolte a Marco Crasso, e dei Tedeschi 
+che rendettono quello che aveano tolto a Varo, e per li morti sostenere 
+morte, ^a la sua ira~; cio@e conveniente vendetta e sodisfacente a 
+l'ira che aveva preso la detta insegna, cio@e Ottaviano Augusto e 'l 
+senato e 'l popolo di Roma contra li Parti, e contra li Tedeschi li 
+quali sono significati per la insegna dell'aquila, la quale cosa non @e 
+piccola; ma @e ben grande che l'uomo faccia vendetta che sazi l'ira 
+sua.  E veramente considerando quanto @e ardente l'animo umano all'ira 
+e, per saziamento di quella, a la vendetta, non @e meraviglia se 
+l'autore finge che colui dice che ogni altra cosa fatta, o che si 
+debbia fare, sia poca et oscura per rispetto di questa che fu 
+saziamento di vendetta desiderata per ira: l'ira soblimita fu posta da 
+Dio nell'animo umano perch@e spregiasse lo male; e per@o questa 
+s'accende quando vede lo male e desidera vendetta, et allora gode 
+quando la vede.  E perch@e di sopra avea detto: ^Con costui corse 
+infino al lito rubro~, e gi@a avea fatto menzione di quello che era 
+stato fatto per Ottaviano contra li Parti, et ora @ae detto quello 
+medesimo fatto per Tiberio primo che @e uno replicare, per@o dice poi: 
+^Or qui~; cio@e in questo luogo, ^t'ammira~; cio@e ti meraviglia tu, 
+Dante, ^in ci@o ch'io~; cio@e Iustiniano, ^ti replico~; cio@e ti ridico 
+ancora, che prima te l'aveva detto fatto per Ottaviano, ora tel dico 
+fatto per Tiberio; et ode la cagione, per che tu lettore, e cesser@a 
+l'ammirazione.  Di sopra avea detto generalmente le cose fatte per 
+Ottaviano, tra le quali erano queste che sono ora dette fatte per 
+Tiberio, sicch@e replica quel che detto @e di sopra; e la ragione @e 
+che ci@o che @e fatto per li sudditi dei principi si dice fatto per li 
+principi; e per@o se prima generalmente disse ogni cosa fatta per 
+Ottaviano, ora si replica quelle, manifestando chi ne fu operatore, @e 
+convenevile.  E questo @e grande maestria dell'autore di dare loda a 
+chi si conviene; a principe come a principe, et a mandato come al 
+mandato; e secondo lo vero intelletto dell'autore si d@e sponere lo 
+testo in questa forma; cio@e: ^Gloria di far vendette a la sua ira~; 
+cio@e di far vendetta del peccato dei primi parenti, rispondente 
+all'ira d'Iddio, cio@e alla iustizia di Dio, e questa relazione sua si 
+referisce a la mia iustizia; et ira improprie si pone ch@e v'@e la 
+iustizia di Dio non @e ira; ma intendesi a la sua volunt@a rispondente: 
+imper@o che quella vendetta fu iustamente fatta, come Iddio volse.  E 
+seguita: ^Or~; cio@e ora, ^qui t'ammira~; cio@e ti meraviglia tu, 
+Dante, dice Iustiniano, ^in ci@o ch'io ti replico~: imper@o ch'io 
+replico che la insegna dell'aquila, ^corse con Tito a far vendetta 
+Della vendetta del peccato antico~; ecco che si replica qui vendetta di 
+vendetta: imper@o che se la prima @e vendetta, come pu@o essere anco 
+l'altra vendetta?  Ecco detto vendetta due volte; della qual cosa ben 
+si pu@o meravigliare Dante, al quale parla Iustiniano, e per@o nel fa 
+avveduto dicendo: Ammirati, che cosa @e da maravigliare; cio@e come si 
+possa dire vendetta di vendetta, e per@o ne far@a questione in questo 
+altro canto, come si mosterr@a nel seguente canto.  ^Possa~; cio@e dopo 
+le sante cose, ^con Tito~; cio@e con Tito Vespasiano, ^a far vendetta 
+corse~; cio@e la detta insegna dell'aquila, ^Della vendetta del peccato 
+antico~; cio@e del peccato del primo uomo, cio@e d'Adam.  Iesu Cristo 
+fu colui che mor@i per lo peccato del primo uomo, et Iddio permisse che 
+della morte iniusta di Cristo facesse vendetta Tito Vespasiano, 
+destruttore e dispergitore de' Iudei.  Dice Paulo Orosio che, essendo 
+li Iudei divisi tra loro, et alquanti abitanti nel monte Carmelio, e 
+per sorti dimostrando che li principi nati appresso li Iudei doveano 
+essere li signori del mondo; e Svetonio dice che per tutto l'oriente 
+era divulgato che le fata dimostravano che gli andanti in quel tempo in 
+Iudea doveano essere signori del mondo, attribuendo questo a s@e li 
+Giudei, si ribellorno dal romano imperio, et uccisono e scacciorno 
+tutti li Romani che erano per ufficiali e per guardie nel regno loro, 
+et ancora lo legato di Siria, che venia per soccorrere, scacciorno; et 
+uccisi li Romani, che erano con lui, presono le insegne dell'aquila.  
+Per la qual cosa a vincere costoro fu mandato Vespasiano da Nerone 
+imperadore, e questi men@o seco Tito suo figliuolo per vicario cogli 
+altri che erano nello esercito; e menato seco in Siria molte e forti 
+legioni, in Siria avute molte citt@a dei Iudei, essendo venuto la 
+pasqua e tutti essendo congregati li Giudei a la festa in Ierusalem, 
+Vespasiano assedi@o la citt@a Ierusalem.  Et udita la morte di Nerone, 
+se ne venne a Roma confortato da molti che sarebbe imperadore, lassato 
+nello esercito Tito suo figliuolo per capitano, e cos@i addivenne.  
+Tito, rimaso a combattere Ierusalem, dopo molte battaglie e morte dei 
+suoi, ebbe la citt@a; ma maggiore fatica e pi@u tempo convenne operare 
+in avere la rocca, nella quale era lo tempio.  Et essendo chiamato 
+imperadore da' suoi cavalieri, avuta la rocca e lo tempio, deliber@o 
+come piacque a Dio di disfare quel tempio che non era pi@u utile, 
+edificata la nuova chiesa e cos@i disfece lo tempio che era durato 
+dalla sua prima costruzione anni 1102, e tutte le mura de la citt@a 
+spian@o a terra.  Et in quella guerra, come scrive Iosefo, perittono 
+tra di coltello e di fame undici centinaia di migliaia: gli altri furno 
+sparti per lo mondo da novanta migliaia, vendutine trenta a denaio; e 
+Vespasiano e Tito introrono col triunfo in Roma, maggiore e pi@u 
+onorevile di tutti gli altri che erano stati infino a questo 320.  
+Volse Iddio che triunfasseno insieme lo padre e 'l figliuolo di coloro, 
+che avevano offeso Iddio Padre e lo suo Figliuolo; et allora, 
+pacificati tutti li nimici del romano imperio, fu serrato la sesta 
+volta lo tempio di Iano, et allora Acaia, Licia, Rodi, Costantinopuli, 
+Samnio, Tracia, Cilicia, Commagene redutte a province, obbedittono a le 
+leggi e rettori romani.  E Vespasiano resse lo imperio anni 9, e poi 
+Tito suo figliuolo anni 2, e poi Domiziano suo fratello anni 15; e 
+per@o ben dice lo testo che la insegna dell'aquila poi: ^corse con Tito 
+a far vendetta Della vendetta del peccato antico~; cio@e a far vendetta 
+della morte di Cristo, che fu per vendetta del peccato d'Adam.  ^E 
+quando il dente longobardo morse La santa Chiesa~; ora finge l'autore 
+che Iustiniano, continuando lo suo parlare, dica come Carlo Magno 
+filliuolo del re Pipino di Francia venne a soccorrere la santa Chiesa e 
+fu fatto imperadore, e cos@i venne lo imperio allora ai Franceschi, 
+cio@e lo imperio dei Romani che infine a quine era stato in Grecia a 
+Costantinopoli, bench@e in Italia fusseno stati in quel tempo alquanti 
+re siccome Odeacro e Teodorico, e cos@i degli altri.  Questo Carlo, 
+avendo gi@a regnato sopra li Franceschi anni 33, primo dei Franceschi: 
+imper@o otto anni et incominci@o nelli anni Domini 802, essente Irene 
+madre di Costantino, lo quale ella avea accecato, imperadrice dei 
+Romani a Costantinopuli.  Essendo Papa Leone, elessono li Romani per 
+suo imperadore Carlo Magno, e lo suo figliuolo Pipino fu fatto re 
+d'Italia, et a Carlo Magno succed@e nello imperio Ludovico suo 
+figliuolo ancora, et a Ludovico Lottario suo figliuolo nello imperio 
+succed@e, al quale succed@e Ludovico secondo figliuolo di Lottario, al 
+quale succed@e Carlo secondo, al quale succed@e Carlo terzo, al quale 
+succed@e Arnolfo primo, al quale succed@e Ludovico terzo.  E nel tempo 
+suo ritorn@o lo imperio a l'Italiani et a li Tedeschi infine ad Otto 
+primo, nel tempo del qual venne lo imperio al tutto ai Tedeschi; ma dal 
+tempo di Ludovico terzo infine ad Otto primo stette diviso lo imperio: 
+imper@o che ne fu uno in Italia, et uno ine la Magna; e questo 
+addivenne, perch@e l'imperadori franceschi non difendevan li Romani da' 
+Longobardi che facevano loro molte violenzie.  E perch@e l'autore dice: 
+^E quando il dente longobardo~, debbiamo sapere che Longobardi si 
+chiamavano li Lombardi, li quali furno Franceschi e Germani che 
+passorno l'alpi, e vennono li Franceschi prima sotto lo guidamento di 
+Belloveso loro duce, e cacciorno li Toscani che aveva 12 citt@a di l@a 
+dal monte Appennino, come di qua altrettante, e feceno Melano.  E dopo 
+loro vennono li Germani sotto Citonio duca e con l'aiuto di Belloveso, 
+e puosensi dove @e Verona e Brescia; poi vennono li Bui e li Salini e 
+puosensi a Pavia; poi li Bui e Lingoni passorno, e non trovando di l@a 
+dal Po dove potessono stare, passorno di qua e cacciorno li Toscani e 
+li Umbri; ma non passorno Appennino; poi a dugento anni vennono li 
+Senoni sotto Brenno loro duce, e co l'aiuto di costoro infestorno Roma, 
+come detto fu di sopra.  Questi popoli, quando vennono di Francia e di 
+Germania, vennono colle barbe grandi, e per@o furno chiamati 
+Longobardi, quasi Longobarbi, poi furno chiamati Lombardi.  Questi 
+Lombardi, che allora si chiamavano Longobardi, al tempo di papa Adriano 
+infestorno molto li Romani e la Chiesa; unde lo papa predetto coron@o 
+Carlo Magno re di Francia, e fecelo venire in Lombardia a domare li 
+Lombardi, e prese in Pavia lo re Desiderio e la moglie, e mandogli 
+presi in Francia e fecegli mettere in prigione, e restituitte ai Romani 
+tutto ci@o che aveano tolto loro li Longobardi, et a la Chiesa di Roma 
+similmente e tutto ci@o che gli avea dato lo suo padre, cio@e lo re 
+Pipino, et oltre a ci@o lo ducato di Spuleto e Benevento, e fu fatto 
+patrizio di Roma.  Ma poi che rimisse papa Leone quarto sopradetto in 
+Roma, al quale li Romani aveano tagliato la lingua e cavato gli occhi, 
+racquistato la lingua e gli occhi per divino miraculo e fatto vendetta 
+dei nimici del detto papa, fu chiamato per li Romani imperadore e tenne 
+lo imperio anni 14, mese uno e d@i quattro; e per@o dice l'autore: ^E 
+quando il dente longobardo~; cio@e quando la rabbia de' Lombardi, che 
+si chiamavano Longobardi, e la fame dell'avere che @e notata per lo 
+dente, ^morse La santa Chiesa~; togliendoli le sue tenute e le sue 
+intrate, e similmente ai Romani, ^sotto le suo ali~; cio@e dell'aquila 
+imperiale la quale port@o per insegna, siccome duce dei Romani, ^Carlo 
+Magno~; figliuolo del re Pipino e della reina Berta, ^vincendo la 
+soccorse~; cio@e la santa chiesa e li Romani, racquistando loro quello 
+che era stato loro tolto dai Lombardi.
+
+	|97-111.~  In questi cinque ternari lo nostro autore finge come 
+Iustiniano, che introdusse di sopra a parlare della insegna 
+dell'aquila, conchiude la cagione per la quale si mosse a parlare di 
+ci@o, dicendo: ^Ormai~; cio@e ora mai, cio@e oggimai, ^puo'~; cio@e tu, 
+medesimo Dante, ^iudicar di quei cotali~; cio@e di quegli cos@i fatti, 
+cio@e guelfi e ghibellini, ^Ch'io~; cio@e li quali io Iustiniano, 
+^accusai di sopra~; quando dissi: ^Perch@e tu veggi con quanta ragione 
+Si muove contra 'l sacro santo segno, E chi 'l s'appropria e chi a lui 
+s'oppone, -- e de' lor falli~; cio@e dei ghibellini che s'appropriano 
+la insegna dell'aquila, e dei guelfi che s'oppongano a quella.  ^Che~; 
+cio@e li quali falli, ^son cagion di tutti vostri mali~; cio@e di voi 
+uomini, che siete nel mondo: imper@o che quinci sono nate le 
+parzialit@a per le contrade e per le terre che @anno diviso e fatto 
+inimico l'uno vicino a l'altro, e, che @e peggio, l'uno cittadino 
+all'altro; unde sono nate le guerre tra le citt@a, tra li regni, tra le 
+contrade, e nelle citt@a tra' cittadini; la qual cosa sola @e cagione 
+della destruzione delle cittadi: imper@o che niuna forza pu@o pi@u 
+tosto disfare la citt@a, che la divisione dei cittadini, secondo che 
+disse Cristo ne l'Evangelio: ^Omne regnum in se divisum desolabitur, et 
+domus super domum cadet --.  L'uno~; cio@e lo guelfo, ^al publico 
+segno~; cio@e all'aquila, che @e come segno della monarchia del mondo, 
+e debbe essere solo di colui che d@e signoreggiare tutto lo mondo e 
+governare con ragione et iustizia, ^Oppone~; cio@e contra oppone, ^i 
+gilli gialli~; cio@e i gilli ad oro nel rastello nel campo azzurro, che 
+@e l'arme dei re di Francia, li quali debbono essere obedienti a chi 
+tiene la insegna dell'aquila: imper@o che ogni re debbe obbedire a lo 
+imperadore; e qual nol fa, fa contra ragione e contra la sentenzia di 
+Cristo che disse: ^Reddite ergo quae sunt Caesaris Caesari~ ec. --, ^e 
+l'altro~; cio@e lo gibellino, ^appropria quello~; cio@e la insegna 
+dell'aquila, ^a parte~; cio@e a la parte sua, pigliando l'aquila per 
+sua insegna che nolla debbe pigliare; ma sotto essa obediendo, seguire 
+debbe lo imperadore e obedire, ^S@i, che fort'@e~; cio@e per la qual 
+cosa forte cosa @e, ^a veder~; cio@e ad iudicare, ^chi pi@u si falli~; 
+cio@e di questi due, cio@e di colui che s'appropria l'aquila, e di 
+colui che v'oppone la casa di Francia.  E perch@e l'autore non vuole 
+dimostrare ch'elli fusse guelfo n@e ghibellino, bench@e li suoi fussono 
+guelfi, riprende gli uni e gli altri.  ^Faccian li ghibellin, faccian 
+lor arte~; qui @e duplicazione, per grazia d'accrescere e per 
+indignazione, cio@e: Usino la loro parzialit@a e divisione dai loro 
+vicini e dai lori cittadini, ^Sott'altro segno~; cio@e che sotto 'l 
+segno dell'aquila, cio@e non scusino e non riquoprano la loro mala 
+intenzione dell'odio che @anno al vicino et al cittadino e prossimo 
+suo, sotto questo scudo dicendo: Elli @e ribello al santo imperio.  
+^ch@e~; cio@e imper@o che, ^mal segue quello~; cio@e la insegna 
+dell'aquila, e per consequente lo imperio, ^Sempre chi la iustizia e 
+lui diparte~; cio@e colui che divide la iustizia dallo imperio: imper@o 
+che chi fa guerra, che non sia iusta sotto questo segno, non seguita lo 
+segno che @e segno di iustizia siccome dimostrorno li Poeti, fingendo 
+che ne la guerra che ebbe Iove coi Giganti, l'aquila ministrava le 
+saette ad Iove le quali gittasse contra loro, che non @e altro a dire, 
+se non che la insegna dell'aquila @e quella che debbe ministrare forza 
+a lo imperadore, quando combatte per iustizia contra ' levantesi per 
+superbia delle potenzie terrene e temporali contra lui.  E perch@e @a 
+ripreso li ghibellini, ora riprende i guelfi, dicendo: ^E 
+noll'abbatta~; cio@e la insegna dell'aquila, ^esto Carlo novello~; 
+questo fu Carlo figliuolo secondo del re Carlo primo, conte di Provenza 
+fratello del re Ludovico di Francia, che fu fatto re di Puglia e di 
+Sicilia contra Manfredi figliuolo naturale dello imperadore Federigo, 
+figliuolo che fu dello imperadore Arrigo sesto; del quale Carlo fu 
+detto di sopra nella seconda cantica, e dice ^novello~ per rispetto del 
+padre che fu Carlo primo, conte di Provenza e primo re di Puglia e di 
+Sicilia fatto per la Chiesa, lo quale si poteva dire vecchio, perch@e 
+passato era innanti, bench@e novellamente de la casa dei re di Francia 
+era venuto a signoreggiare Italia, et incominci@o a fare contra lo 
+imperio, ^Coi guelfi suoi~; dice, perch@e s'accost@o ai guelfi di 
+Toscana e di tutta Italia, e favoreggiando loro et avendo favore da 
+loro, molte cose fece contra lo imperio, s@i come appare per la cronaca 
+martiniana: imper@o che quando uscitte d'Angione, se ne venne in 
+Toscana; e ricevuto dai Fiorentini onorevilmente, lass@ovi suo vicario 
+a prego de' Fiorentini Amerigo di Nerbona il quale era in sua 
+compagnia.  E per questo li Fiorentini n'andorno poi ad oste ad Arezzo 
+e sconfissono la parte ghibellina, e fu morto nella battaglia lo 
+vescovo d'Arezzo che si chiamava Guillielmo, e di poi vennono contra 
+Pisa, e co la compagnia dei guelfi di Toscana presono tutte le castella 
+di Pisa, salvo che Vico e Morrona; e cos@i ancora fu coi guelfi di 
+Genova contra li gibellini, e cos@i ancora mand@o Roberto suo figliuolo 
+per capitano di guerra a Firenze, quando li Fiorentini e Lucchesi 
+puoseno oste a Pistoia.  ^ma tema de li artilli~; cio@e delli unghioni 
+dell'aquila; e per questo s'intende la potenzia dello imperio: imper@o 
+che, come l'aquila ferisce colli unghioni e piglia la preda; cos@i lo 
+imperio co la potenzia dei suoi cavalieri castiga li suoi nimici.  
+^Che~; cio@e li quali artilli, ^a pi@u alto leon~; cio@e a pi@u alta 
+potenzia di quegli che tegnano parte guelfa, li quali prendono per loro 
+insegna lo leone, che non @e la potenzia del re Carlo, ^trasser lo 
+vello~; cio@e levorno dei velli della sua iuba, che significa che lo 
+imperio abbia mancato la loro superbia et abbassato lo loro stato.  E 
+perch@e lo detto re Carlo in se non fu punito; ma s@i nel suo 
+figliuolo, cio@e Filippo principe, che fu preso dal re di Ragona e 
+tenuto in prigione quando pass@o in Sicilia, per@o dice: ^Spesse fiate 
+gi@a pianser li filli~; cio@e li figliuoli spesse volte @anno portato 
+pena temporale, ^Per la colpa del padre~; cio@e commessa dal padre, ^e 
+non si creda~; cio@e lo re Carlo, ^Che Dio trasmuti l'arme~; cio@e la 
+iustizia sua: l'arme d'Iddio @e la iustizia: imper@o che colla sua 
+iustizia abbatte ogni superbia e punisce ogniuno che mal fa, e la 
+iustizia @e significata per l'aquila, come @e detto di sopra: imper@o 
+che la iustizia @e sopra tutte l'altre virt@u, come l'aquila sopra 
+tutti gli altri uccelli, ^per suoi gilli~; li gilli ad oro nel campo 
+azzurro @e l'arme della casa di Francia, e questa arme tenne Carlo 
+primo conte di Provensa, e re di Sicilia e di Puglia, e cos@i Carlo 
+Zoppo suo figliuolo che succed@e a lui nel regno, del quale @ae parlato 
+ora: imper@o che del primo non si pu@o intendere: imper@o che fu e 
+mor@i innanti al 300, quando l'autore finge che avesse questa fantasia 
+e revelazione, sicch@e inducendo a parlare Iustiniano dimostrando 
+dicendo: ^E noll'abbatta esto Carlo novello~, intende del Zoppo che era 
+nel 1300.  Li gilli bianchi significano purit@a e virginit@a; ma dorati 
+mostrano cavati della loro natura e simulati, sicch@e vuole dire 
+l'autore ch'@e purit@a simulata come @e quella dei guelfi, che diceno 
+che combatteno per difendere la loro libert@a, e sotto questa ombra 
+recusano di stare sotto lo reggimento della publica iustizia.  Iddio 
+non mutr@a la sua iustizia, che non li pagi della sua superbia: 
+superbia @e non volere soiacere al comune reggimento.  @Ae voluto Iddio 
+che nel mondo siano due reggimenti; l'uno spirituale del papa, e 
+l'altro temporale dello imperadore; e questi guelfi si vogliano 
+ritraere da esso.
+
+	|112-126.~  In questi cinque ternari finge lo nostro autore come 
+Iustiniano, continuando lo suo parlare, risponde a l'altra parte de la 
+dimanda che l'autore fece di sopra nel canto precedente, cio@e per che 
+cagione questo spirito e gli altri, che erano con lui, erano nella 
+seconda spera, cio@e nel secondo pianeto che si chiama Mercurio, quando 
+disse di sopra: ^n@e perch@e aggi, Anima degna, il grado della spera 
+Che s@i vela ai mortal colli altrui raggi~; unde finge che rispondesse 
+cos@i: ^Questa picciola stella~; cio@e Mercurio, lo cui corpo appare 
+molto grande a noi; ma piccolo per rispetto di quel della Luna e del 
+Sole.  E bench@e l'autore dica ^picciola stella~, debbiamo sapere, 
+secondo che dice Alfragano cap. XXII, che lo corpo di Mercurio @e la 
+vigesima seconda parte del corpo della terra, poco meno; e la terra @e 
+132 mila di miglia e 600 miglia, contando lo miglio quattro mila 
+gombiti, dunqua partendo 132 mila di miglia e 600 miglia in 22, rimane 
+6 milia miglia e 27 miglia e poco pi@u, perch@e @e forsi da uno 
+braccio, ^si correda~; cio@e s'adorna, ^Di buoni spirti~; cio@e d'anime 
+virtuose, ^che~; cio@e li quali spiriti, ^son stati attivi~; cio@e ci 
+sono esercitati nelle virt@u pratiche e politiche nella vita mondana, 
+^Per che onor e fama li succeda~; cio@e per@o sono state nelle virt@u 
+pratiche e politiche, mentre che sono vissute, per avere onore e fama.  
+Come fu detto di sopra, lo nostro autore finge che montando elli in 
+cielo di spera in spera, secondo lo montamento mentale, secondo 
+l'allegoria; ma corporale, secondo la lettera, ne la quale finge e 
+parla come poeta, elli truovi in ogni spera anime beate che sono 
+vissute nel mondo, secondo le virt@u che @ae a producere la influenzia 
+di quel pianeto per due cagioni.  L'una, per dimostrare che l'onore di 
+tale operazione si reca e pu@o recare a quel pianeto, che @ae a dare 
+tale influenzia per l'ordine che Iddio @ae posto nelle stelle, che come 
+cagioni seconde cagionate da lui, che @e prima cagione di tutte le 
+cose, cagionino giuso nel mondo li suoi effetti; e per@o dei beni 
+l'onore s'arreca al pianeto, e de' mali s'arreca lo biasimo, non dico 
+lo merito n@e 'l demerito, che questo @e dell'omo in quanto a la 
+influenzia del bene s'accosta coll'opera e colla volunt@a accettandola, 
+e dalla influenzia del male si diparte; e cos@i per opposito, quando si 
+scosta dal bene et accostasi al male: imper@o che, bench@e la 
+influenzia sia, l'uomo pu@o cessarla e seguitarla come vuole, et in 
+questo @e la libert@a dello arbitrio e sta in questo lo nostro merito e 
+demerito.  L'altra cagione @e, come fu detto di sopra ancora, per 
+mostrare in che grado siano in vita eterna l'anime che @anno seguitato 
+la influenzia del bene e schifato la influenzia del male di tal pianeto 
+in vita eterna: imper@o che appare, poi che si rappresentano nel 
+secondo grado, che siano nel secondo grado pi@u bassi che gli altri 
+beati.  E veduto questo generalmente, ora @e da vedere gli effetti che 
+@a a cagionare Mercurio, giuso a noi nel mondo, dei quali @e dato 
+l'onore e lo biasimo al pianeto: per@o che dice Abbumasar nel suo 
+Introduttorio nel trattato settimo, nella differenzia nona, dove tratta 
+de le nature dei pianeti e delle proprietadi loro: Mercurio significa 
+queste 22 cose senza l'altre; cio@e vagezza di sapere e vedere le cose 
+secrete; interpetrazione di deit@a, d'oraculi e di profezie; 
+prescienzia di cose future; scienzia e profondit@a di scienzia ne' 
+libri profondi; studio di sapienzia; memoria di storie e di novelle; 
+eloquenzia con politezza di lingua; sottigliezza d'ingegno; desiderio 
+di signoria; appetito di loda e di fama; colorazioni e sottigliezze di 
+parlari; sottigliezza d'ingegno in ogni cosa, a che l'uomo si d@a; 
+volunt@a di perfezione; sottigliezza di mano in tutti gli magisteri; 
+esercizi di mercanzie; vendere; comprare; donare; ricevere; furare; 
+ingannare; occultare nell'animo suoi pensieri; mutamento di costumi; 
+iovanezza; lussuria; abbondanzia; susurrazioni; bugie; falso 
+testimonio, e molte altre cose come quine si contiene.  E per@o lo 
+nostro autore finge che coloro, che sono stati attivi nel mondo e 
+vissuti colle virt@u politiche e morali, si rappresentino nella spera 
+di Mercurio, perch@e tale influenzia @ae a dare Mercurio, secondo gli 
+Astrologi come mostrato @e; ma nello arbitrio umano @e di seguitare la 
+influenzia buona e schifare la cattiva, e quinci nasce lo merito e lo 
+demerito.  E per@o @ae finto l'autore che Iustiniano si rappresenti 
+quine: per@o che ebbe delle influenzie dette di sopra, come appare; 
+prima, che fu principe; appresso, che fu studioso e corresse le leggi; 
+fu eloquente et ebbe memoria delle istorie, e per@o lo introdusse a 
+narrare le storie; fu scientifico et astrologo, e per@o finge che egli 
+dia questa risposta a lui del loro rappresentamento nella spera di 
+Mercurio.  E rispondendo finge che elli assegni la cagione, per che non 
+@anno quelli spiriti pi@u alto grado in vita eterna che 'l secondo, 
+dicendo: ^E quando li disiri~; cio@e li desid@eri e gli appetiti, o 
+vero voluntadi d'acquistare fama et onore, ^poggian quivi~; cio@e 
+nell'acquistare fama, che lassi di rieto a s@e, ^S@i disiando~; cio@e 
+desiderando, cio@e la fama di questo mondo, ^pur convien che i raggi~; 
+cio@e li fervori, ^Del vero amore~; cio@e della vera carit@a che l'uomo 
+debbe avere in verso Iddio, ^ins@u~; cio@e in verso lo bene eterno, che 
+@e Iddio, ^poggin men vivi~; cio@e meno ferventemente: imper@o che chi 
+@e desideroso di fama e d'onore, bench@e egli operi virtuosamente per 
+piacere a Dio, perch@e anco @e desideroso di fama e d'onore che 
+seguitino della sua operazione, non s@i ferventemente opera per l'amore 
+d'Iddio, come farebbe se tale appetito non vi fusse; per@o quanto 
+minore @e lo fervore de la carit@a, tanto minore @e lo merito.  ^Ma nel 
+commensurar dei nostri gaggi~; cio@e delle nostre allegrezze, cio@e 
+della nostra beatitudine, onde seguitano li gaudi che noi abbiamo, ^Col 
+merto~; cio@e nostro che abbiam meritato, mentre che fummo nel mondo co 
+le nostre opere, ^@e parte di nostra letizia~; cio@e @e parte della 
+nostra beatitudine, quando veggiamo la nostra beatitudine rispondere al 
+nostro merito: imper@o che ci rallegriamo e godiamo della iustizia 
+d'Iddio, e non vorremo ch'ella fusse maggiore: imper@o che sarebbe 
+fuora di iustizia e contra lo nostro contentamento.  ^Perch@e~; ecco 
+che assegna la cagione per che sono lieti, cio@e per questa cagione 
+che, quanto misuriamo la nostra beatitudine e la nostra letizia col 
+merito nostro, ^nolli vedian minor, n@e maggi~; cio@e li nostri gaudi 
+non veggiamo n@e minori, n@e maggiori che sia stato lo nostro merito.  
+^Quinci~; cio@e da questa misura della letizia col merito, ^adolesce~; 
+cio@e notrica e sazia, ^la viva iustizia~; che premia, secondo merito, 
+^In noi~; cio@e spiriti beati, ^l'affetto~; cio@e lo desiderio nostro, 
+che @e quietato, che non vuol pi@u ch'egli abbia, ^s@i, che non si 
+puote~; cio@e per s@i fatto modo, che non si pu@o l'affetto nostro, 
+^Torcer~; cio@e piegar, ^ad alcuna nequizia~; cio@e ad alcuna 
+inequalit@a et iniustizia.  Et ora induce una similitudine, usando 
+antipofora rispondendo ad uno dubbio che si potrebbe muovere; cio@e 
+perch@e volse Iddio che questi gradi di beatitudine fusseno in vita 
+eterna.  E dice che questo @e per maggiore diletto dei beati che 
+s'accordono s@i insieme, che ciascuno @e cos@i contento del ben del 
+prossimo come del suo, perch@e quine @e perfetta carit@a et amore, e 
+cresce accidentalmente sempre la loro beatitudine, rallegrandosi 
+dell'altezza di quegli che sono in maggiore grado, come di loro 
+medesimi.  E per@o dice: ^Diverse voci~; cio@e nell'arte della musica 
+la diversit@a delle voci, che insieme s'accordano, ^fanno dolci note~; 
+rappresentate all'audito, ^Cos@i diversi scanni~; cio@e diverse sedie e 
+diversi gradi di beatitudine, ^in nostra vita~; cio@e nella nostra vita 
+beata, ^Renden dolce armonia~; cio@e dolce concordanzia di voluntadi, 
+come armonia @e concordanzia di voci e di suoni, ^tra queste rote~; 
+cio@e tra queste spere che si rotano e girano continuamente, nelle 
+quali si rappresentano le nostre opere co le quali abbiamo meritato 
+l'eterna beatitudine, secondo la fizione dell'autore; ma, secondo lo 
+suo intelletto che ebbe di questo, s'intende tra le sedie del cielo 
+empireo, nel quale li beati sono e ragguardano Iddio, et in quello 
+aspetto frueno; e cos@i @e adimpiuta la loro beatitudine.
+
+	|127-142.~  In questi cinque ternari et uno versetto lo nostro autore 
+finge come Iustiniano, continuando lo suo parlare, dimostri loro un 
+altro spirito beato che era con loro.  Ecco che ben finge l'autore che 
+Iustiniano fusse eloquente et avesse a mente istorie e novelle, secondo 
+la influenzia di Mercurio inducendolo ora a dire la novella di Romeo, 
+la quale si dice in questa forma.  Essendo Ramondo Berlinger, conte di 
+Provenza, uomo che poco curava di vedere gli fatti di sua corte, anco 
+pi@u tosto prodigo del suo, aveva lo suo contado molto mancato, 
+gittando gli famigli della corte e scialacquando lo suo, eziandio li 
+ragazzi della stalla straziando e gittando lo strame e l'orzo, e mal 
+procurando gli cavalli; e per questo conveniva che iniuste estorsioni e 
+disequali si facessono ai suoi sudditi.  Come piacque a Dio, un d@i 
+avvenne uno Romeo, che andava peregrinando, e capit@o alla stalla di 
+questo conte e chiese ai ragazzi bene et elemosina per l'amore d'Iddio: 
+costoro avevano roba assai arrecato a la stalla e buoni vagelloni di 
+vino, dierno a questo peregrino roba assai et albergornolo nella 
+stalla.  Questo peregrino era saputo uomo, accortosi della mala 
+masserizia che si faceva nella corte, udito lo debito del signore 
+disposesi ad ovviare alla mala masserizia della stalla, prima dicendo a 
+quello che era sopra la stalla ch'elli voleva, se gli piacesse, 
+rimanere et aver cura dei cavalli: quegli fu contento, perch@e poco se 
+ne curava e perch@e ne fuggia fatica.  Questo peregrino incominci@o ad 
+avere cura dei cavalli e risparmiare la roba di quella che si gittava, 
+et in poco tempo ebbe migliorato li cavalli et avanzato molta roba di 
+quella che si gittava.  Unde accortosi Ramondo conte che li cavalli 
+erano fatti pi@u belli, volse sapere la cagione; e veduto la bont@a di 
+costui, puosegli amore, e brevemente d'officio in officio, trovando che 
+andava di bene in meglio, promovendolo, lo fece suo siniscalco maggiore 
+della corte, e fu chiamato da tutti Romeo perch@e in s@i fatto abito 
+v'era capitato.  Et avendo costui ogni cosa in mano, ordin@o con tanta 
+cura e sollicitudine ogni cosa, che in breve tempo ebbe avanzato tanto 
+tesoro, che tutte le terre impegnate ricolse, tutta la corte forn@i di 
+vagellame d'ariento, e le gravezze e l'estorsioni che iniustamente si 
+facevano ai sudditi cessorno, e quattro figliuole che avea lo conte 
+marit@o a quattro re di corona, cio@e le due a due fratelli, cio@e 
+l'una al re Ludovico re di Francia, e l'altra a Carlo fratello del 
+detto re Ludovico duca allora d'Angi@o, poi re di Sicilia e di Puglia; 
+l'altre due a due fratelli ancora, cio@e l'una al re Arrigo 
+d'Inghilterra, e la quarta al re Riccardo della Magna fratello del 
+detto re Arrigo d'Inghilterra; e dopo questo raun@o grande tesoro al 
+detto conte, sicch@e lo detto conte e lo suo contado era in migliore 
+stato che mai fusse.  E stando le cose in questa forma, lo inimico de 
+l'umana natura fece nascere invidia tra li Provenzali cortigiani e 
+consiglieri del conte di Provenza, e questo Romeo; unde incominciorno a 
+dire al conte: Signore, questo vostro siniscalco @ae cotanti anni 
+trafficato lo vostro, sarebbe dovuto ch'elli vi mostrasse ragione delle 
+cose amministrate per lui; e tanto a ci@o lo sollicitorno, che 'l conte 
+chiam@o un d@i Romeo, e s@i li disse ch'elli s'apparecchiasse a 
+mostrargli ragione di quel ch'avea amministrato.  Romeo rispuose che 
+era apparecchiato a mostrargliele quandunqua voleva, lo conte non se ne 
+curava; ma ci@o dicea, per contentare quegli che di ci@o lo 
+stimulavano: era contento che lo indugio fusse grande.  Ma Romeo 
+accorgendosi della invidia che gli era portata, deliberandosi di non 
+starvi pi@u, disse che l'altro d@i gliele voleva mostrare; e l'altro 
+d@i poi men@o lo conte nella camera sua dove era lo tesoro, e s@i disse 
+al conte: Voi sapete, messer lo conte, che quando io venni a stare con 
+voi, voi non avavate tesoro, certo avavate lo tale debito e lo tale, e 
+pegno le tali castella; da poi in qua io @one soddisfatto tutti li 
+debiti, io @one ricolte tutte le terre, io @one maritato quattro vostre 
+figliuole a quattro re di corona che ciascuna gosta tanto; et aperto 
+gli scrigni disse: Questo @e pieno di vagellame d'ariento, questo altro 
+di grossi, questo di fiorini, questo di perle, questo dei vostri 
+ornamenti della corte: quando io ci venni, io ci arrecai questa 
+schiavina e questi panni; e spogliossi inanti al conte li panni che 
+aveva della corte indosso e rivestittesi li suoi, e partesi e vassi con 
+Dio.  Lo conte rimase s@i travagliato vedendo tanto tesoro che, come fu 
+volunt@a d'Iddio, ancora ch'elli riprovasse quegli che prima aveva 
+provato, che non s'accorse di dire niente n@e di ritenere lo Romeo.  
+Stando poi un pezzo, mandogli di rieto e non fu mai potuto trovare; e 
+venuta la corte a mano di quegli di prima, incominci@o ad andare male 
+come soleva, e per@o convenne che si ritornasse a fare le iniuste 
+estorsioni ai sudditi come prima, e li mali trattamenti, sicch@e li 
+lamenti andorno al conte.  Unde Ramondo irato fece pigliare quegli che 
+della ragione l'aveano consigliato, e tutti li fece decapitare, e Romeo 
+s'and@o per lo mondo, come soleva, servendo a Dio, sicch@e poi per la 
+credenza dell'autore elli merit@o colle sue virt@u politiche et attive 
+d'avere vita eterna.  E per@o finge che Iustiniano lo quale fu 
+mercuriale, secondo che l'autore @ae finto, dicesse la novella predetta 
+per mostrare che li mercuriali sono parlatori e novellatori; e per@o 
+dice: ^E dentro alla presente margarita~; cio@e dentro a questa stella 
+di Mercurio, che @e lucida e splendida pi@u che ogni pietra preziosa, 
+^Luce~; cio@e risplende, ^la luce~; cio@e l'anima gloriosa, che @e 
+fatta risplendente come una luce, ^di Romeo~; cio@e del sopra scritto 
+che fu chiamato Romeo, come detto @e: imper@o che qui si rappresenta e 
+dimostra la virt@u ch'egli ebbe, non perch@e quine l'anima sua sia 
+locata: che s'ella @e beata, ella @e in vita eterna nel secondo grado 
+dei beati; e per@o finge che quine sia, per dimostrare che ella era 
+degna del secondo grado, ^di cui~; cio@e della quale, ^Fu l'opra 
+grande~: imper@o che grande cosa fe, ^e bella~: imper@o che con grande 
+fede e lealt@a oper@o tutta sua industria, ^e mal gradita~; cio@e e mal 
+cognosciuta da quelli Provensali e mal meritata, che gli feciono 
+addimandare ragione, e forse anco lo 'nfamorno di dislealt@a quando lo 
+doveano commendare.  ^Ma i Provenzai~; cio@e gli consiglieri del conte, 
+che erano di Provenza, ^che fecer contra lui~; cio@e contra Romeo, 
+disfamandolo innanti al conte, ^Non n'@anno riso~; ma anco n'@anno 
+pianto: imper@o che ne furno puniti dal conte che furno dicapitati.  ^e 
+per@o mal cammina~; cio@e mal capita, ^Qual si fa danno~; cio@e 
+qualunqua fa danno a s@e, ^del ben fare altrui~; cio@e increscendoli 
+che altri faccia bene e stroppiando chi fa bene.  E conta le grandi 
+cose che fece Romeo: ^Quattro figlie ebbe~; cio@e, ^Ramondo 
+Berlingieri~, conte di Provenza ebbe quattro figliuole, ^e ciascuna 
+regina~: imper@o che tutte e quattro furno maritate a regi, come detto 
+@e, ^e ci@o~; cio@e e tutto questo, ^li fece~; cio@e di maritare queste 
+quattro figliuole a regi, ^Romeo~; cio@e quello suo siniscalco, che fu 
+chiamato Romeo, ^persona umile~: imper@o che non fu persona di 
+lignaggio, ^e peregrina~: imper@o che andava in abito di peregrino per 
+lo mondo, et era straniero da Provenza.  ^E poi~; cio@e dopo questo s@i 
+grande bene, ^lui~; cio@e lo detto conte, ^mosser~; cio@e mossono, ^le 
+parole biece~; cio@e le parole torte e falsamente dette dai Provenzali 
+invidiosi, ^A dimandar ragione a questo iusto~; cio@e a Romeo; e dice 
+questo, perch@e l'anima sua era presente, secondo che finge l'autore, 
+beata s@i che bene era iusta; et avendo rispetto al passato anco fu 
+iusta, ^Che~; cio@e lo quale, ^li~; cio@e a lui, cio@e al conte 
+predetto, ^assegn@o~; quando li mostr@o la ragione, ^sette e cinque~; 
+che son 12, ^per diece~; cio@e gli assegn@o, pi@u che non credeva avere 
+lo conte, lo quinto; o vogliamo ponere lo numero determinato per lo 
+indeterminato; cio@e troppo pi@u che non credeva avere ad avere.  
+^Indi~; cio@e della corte del detto conte, ^partissi~; cio@e Romeo, 
+mostrata la ragione, ^pover e vetusto~; cio@e povero: imper@o che 
+niente ne port@o se non la schiavina sua e 'l bordone; e vecchio: 
+imper@o che nel servigio del conte era invecchiato.  ^E se 'l mondo~; 
+cio@e gli uomini del mondo, ^sapesse il cuor~; cio@e diritto e giusto, 
+non vago di ricchezze; ma solamente di bene operare, ^ch'egli ebbe~; 
+cio@e Romeo predetto, ^Mendicando sua vita~; cio@e accattando andando 
+per vivere, ^a frusto a frusto~; cio@e a pezzo a pezzo di pane, ^Assai 
+lo loda~; cio@e lo mondo Romeo, ^e pi@u lo loderebbe~: imper@o che 'l 
+mondo solamente lo loda del dispregio delle ricchezze; ma non lo loda 
+dell'equit@a dell'animo che ebbe grandissima, sappiendo sostenere le 
+ricchezze come la povert@a, et essendo povero per volunt@a e non per 
+forza, et essendo di tanta iustizia e lealt@a e d'industria, e s@i 
+esercitativo.  E qui finisce lo suo parlare Iustiniano, lo quale 
+l'autore @ae indutto a parlare tanto, per mostrare la natura dei 
+mercuriali.  E qui finisce lo canto sesto, et incomincia lo settimo.
+

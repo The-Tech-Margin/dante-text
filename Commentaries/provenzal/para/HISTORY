@@ -1,0 +1,4 @@
+-------------------------------------------------
+Entered on 08 Apr 2009 by dante:
+Cleaned up the unedited files using "sed -i -s -f ../fix.sed *.e"
+and loaded this cantica on the test system for future review by Bob.  -stc

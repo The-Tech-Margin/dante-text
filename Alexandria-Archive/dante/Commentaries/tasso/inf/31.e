@@ -1,0 +1,150 @@
+	|4-6.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+^Demmo 'l dosso~, voltammo le spalle.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+Crepuscolo.  [Da Fino]
+
+	|16-18.~ |(ed.  Rosini)~
+Pu@o cominciar questo ternario: ^Non son@o s@i terribilmente Orlando~.  
+[Da Fino]
+
+	|17.~ |(ed.  Rosini)~
+Gesta.  [richiamo marginale] [Sessa]
+
+^Gesta~, impresa.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+^Aborri~, erri.  [Da Fino]
+
+	|27.~ |(ed.  Rosini)~
+Cammina avanti.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+Intorno dalla.  [richiamo marginale] [Sessa]
+
+	|34-36.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+^Dissipa~, disf@a.  [Da Fino]
+
+	|36.~ |(ed.  Rosini)~
+^Stipa~, empie.  [Da Fino]
+
+	|39.~ |(ed.  Rosini)~
+Perch@e conoscea li giganti.  [Da Fino]
+
+	|41.~ |(ed.  Rosini)~
+^Montereggion~, Castel di Siena.  [Da Fino]
+
+	|43.~ |(ed.  Rosini)~
+Torreggiare.  [richiamo marginale] [Sessa]
+
+	|49-54.~ |(ed.  Rosini)~
+Discorso.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^L'argomento della mente~, l'intelletto.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Perch@e concorre la forza con lo ingegno.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Perizoma~, calze.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+^Tre Frison~, uomini di Frisia.  [Da Fino]
+
+	|67.~ |(ed.  Rosini)~
+Confusione di lingue.  [Da Fino]
+
+	|71.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+Avea un corno legato al collo.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^Soga~, corda.  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+Doga.  [richiamo marginale] [Sessa]
+
+^E vedi lui~, il gran corno.  ^Doga~, copre.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+^Coto~, desiderio.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+^A voto~, indarno.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+Non intende e non @e inteso, onde si rischiara quello ^Raphael ma@i 
+amech zab@i almi~.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+Maggio.  [richiamo marginale] [Sessa]
+
+^Maggio~, maggiore.  [Da Fino]
+
+	|89.~ |(ed.  Rosini)~
+^In su lo scoperto~, della parte che avanzava fuori del pozzo.  [Da 
+Fino]
+
+	|90.~ |(ed.  Rosini)~
+Cinque volte lo circondava.  [Da Fino]
+
+	|91.~ |(ed.  Rosini)~
+^Essere sperto~, sperimentare.  [Da Fino]
+
+	|91-92.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|106.~ |(ed.  Rosini)~
+Tremuoto.  [richiamo marginale] [Sessa]
+
+	|106-107.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|110.~ |(ed.  Rosini)~
+Dotta.  [richiamo marginale] [Sessa]
+
+^Dotta~, paura.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+^Ritorte~, funi.  [Da Fino]
+
+	|113.~ |(ed.  Rosini)~
+^Alte~, braccia.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+Da Lucano.  [Sessa]
+
+	|123.~ |(ed.  Rosini)~
+^La freddura serra~, diaccia.  [Da Fino]
+
+	|125.~ |(ed.  Rosini)~
+^Di quel, che qui si brama~, fama.  [Sessa]
+
+Che @e d'essere immortalato.  [Da Fino]
+
+	|129.~ |(ed.  Rosini)~
+^Innanzi tempo~, innanzi al tempo prefisso.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+Quando combatteo in terra con Ercole.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+Anteo li prese ambidue.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+^Carisenda~, torre in Bologna.  [Da Fino]
+
+	|141.~ |(ed.  Rosini)~
+Per il timore [Da Fino]
+
+	|145.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+

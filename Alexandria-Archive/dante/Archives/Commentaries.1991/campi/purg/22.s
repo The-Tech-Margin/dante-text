@@ -1,0 +1,986 @@
+|PURGATORIO CANTO 22~
+
+	|1-3.~  Dante presuppone che l'Angelo gli avesse gi@a
+cancellato un altro P dalla frente, per dimostrare che la
+purgazione era stata facile tanto da non averla avvertita mentre
+parlava con Stazio, e perch@e era stato pochissimo avaro, e meno
+poi goloso, alla cui punizione ora s'avvicina; -- ^dietro a noi~,
+cio@e, nel quinto cerchio; -- ^sesto giro~, quello in cui si
+purga il vizio della gola; -- ^un colpo raso~, cancellato un
+altro dei sette P incisi nella fronte.  BENV.  -- Qui Dante
+tralascia di toccare l'appresentarsi dell'Angelo a cancellargli
+la P, ed il canto che soleva udire in lode della virt@u contraria
+al vizio punito, contentandosi di accennare di sfuggita tali
+cose, siccome gi@a avvenute.  LOMB.  -- Qui per variare e per
+seguire l'oraziano precetto: ^in medias res, -- Non secus acnotus
+auditorem rapit.~ BIAGIOLI.  -- Sottintese le cose suddette, ci
+reca senz'altro lungo la scala che ci mena sul sesto cerchio; --
+^un colpo raso~, cio@e, uno dei P simbolici, de' quali @e detto
+altre volte.  Li chiama ^colpi~ perch@e erano impressioni fatte
+con la punta della spada.  BIANCHI.  -- Varianti.  ^Di retro~, il
+35; -- ^l'angiel~, (F.).  (N.); -- ^El qual n'avea volti~, il 3,
+copia di un sincrono; -- ^n'av$ia volto el sesto~, il 5; -- ^al
+sexto~, (F.).  (I.).  (N.); -- ^dal volto~, 8. 12; -- ^del viso~,
+37. 40.  Fer.; -- ^un pecco raso~, Buti in due mss.; ma in quel
+di Brera ^un colpo~, BERN.
+
+	|4-6.  E quei c'hanno~ ecc., intendi, gli avari rimasi
+nel quinto cerchio; -- ^dicto m'avean beati~ ecc.  ^Beati qui
+esuriunt et sitiunt justitiam~, dice S. Matteo (cap. V); -- ^e le
+sue voci forniro ci@o~, finirono con dire, non tutto il testo di
+S. Matteo, ma soltanto le parole: ^Beati quelli che hanno sete di
+giustizia.~ -- Altri pi@u sottilmente spiegano: <Beati coloro ai
+quali vennero perdonate le colpe, come a Dante ed a Stazio,
+quello assoluto dall'avarizia, questo dalla prodigalit@a>.  La
+prima interpretazione @e pi@u della mente di Dante.  BENV.  -- Il
+Landino e il Vellutello citano invece il ^Beati quorum remissae
+sunt iniquitates~ (^Psal.~ 31).  Il Com.  della Nid. ed il
+Venturi ammettono l'una e l'altra sentenza.  Il Lombardi sta per
+la prima, e cos@i l'intendono i pi@u; egli poi crede che i
+cantori fossero gli Angeli, non gi@a l'anime purganti degli
+avari.  Veggano i pi@u curiosi la sua Nota a questo passo.  -- Il
+Bianchi chiosa: <@E l'Angelo che canta quella delle otto
+beatitudini, che raccomanda l'amore alla giustizia contraria al
+vizio dell'avarizia, ch'@e madre d'iniquit@a; -- ^e le sue
+voci... forn@iro ci@o~, questa sentenza con la parola sola
+^sitiunt~, omettendo ^esuriunt~, riserbato nel cerchio superiore
+dei golosi, dove si udir@a: ^Beati qui esuriunt justitiam.~  V.
+v. ult. C. XXIV di questa Cantica.  -- Questa beatitudine
+corrisponde in contrario all'avarizia; perocch@e l'avaro desidera
+a s@e ci@o che @e d'altrui, ed il giusto vuole che a ciascuno sia
+dato quello che gli si dee.  FRATICELLI.  -- Varianti.  Il primo
+di questi versi leggesi in tre modi: 1+o E quei c'hanno a
+giustizia lor~; -- 2+o c'hanno giustizia in lor~; -- 3+o~
+^c'anno giustizia a lor~, tre lezioni che possono aversi per
+buone; la terza @e del 3, che @e copia d'un sincrono; -- ^E
+que~', il 21; -- ^il lor disiro~, il 15; -- ^in lor disiro~,
+Bart. Flor.  -- Il Parenti consigli@o a leggere ne'seguenti:
+^Detti n'avea beati; e le sue voci -- ^Con~ sitio, ^senz'altro
+ci@o forniro.~  @E lettera dell'autorevolissimo Estense, e di
+altri ottimi mss., ed @e approvata dai Critici; e vuol dire che
+un Angelo avea cantate le parole evangeliche ^Beati~ etc.,
+senz'aggiugner altro del sacro testo.  La lettera di Cr. ^Detto
+n'avean~ Beati ^in le sue voci~, @e un guasto de' copiatori; gli
+Editori Fior. del 1837 sostituirono l'^avea~, ma lasciarono poi
+sussistere (continua il Parenti) il mostruoso guasto ^in le sue
+voci~, per lo quale il ^forn@iro~ rimane un verbo senza reggente
+(^Eserc. fil.~ n+o~ 11, pag. 36-38).  Torn@o poi su questo
+proposito nelle ^Mem. Rel.~ ecc., vol. XII, pag. 381, per farci
+osservare che il Cesari ed il Viviani, ajutati da buoni testi,
+restituirono qui la lettera originale.  Il Bianchi l'accetto@, e
+tanto fece il Fraticelli con buon consiglio.  -- Var. de' m. s.
+^Detto m'avea~ beati ^alle sue voci~, tre; -- ^Detto n'avea~,
+molti; -- ^e le sue voci~, quasi tutti (se non che parecchi
+leggono ^boci~), le pr. sei ediz., Cass. Benv. Pad. 1859, Fer. W.
+ecc.; -- ^Con sitio, senz'altro~, quasi tutti, le pr. sei ediz.,
+ecc.  -- Lo Scar. preferi: ^Detto n'avea~ Beati ^in le sue voci~,
+riferendo il participio al Salmo.  V. la sua Nota.
+
+	|7-9.  Ed io, pi@u lieve~ ecc.  Ed io, pi@u leggiero che
+per gli altri cerchi, avendomi cancellati dalla fronte cinque P,
+seguitava con poca fatica per la quinta scala l'ombre di Virgilio
+e di Stazio, che salivano velocemente.  BENV.  -- ^Pi@u lieve~,
+per lo cancellato P; -- ^foci~, appella elegantemente le aperture
+delle scale per le scale stesse.  LOMBARDI.  -- ^Surgite,
+ascendamus ad eos, nullus erit labor~ (^Judic.~, XVIII, 9).  Nota
+di mons. Cavedoni (l. c., p. 325); -- ^labore~, per ^fatica~, @e
+latinismo che spiacque al Venturi, che critic@o pure i ^gravi
+labori~ del v. 6, Canto XXIII del ^Paradiso.~ Il Rosa Morando gli
+rispose: essere detto ~labori~ per ^lavori~, come ^boto~ per
+^voto, boce~ per ^voce~; ma tutti questi sono idiotismi non
+comportabili nella grave poes@ia che consente i latinismi quando
+cadono a proposito, siccome appunto in questo caso.  -- Varianti.
+^E pi@u l,ieve~, il 3, copia di un sincrono; -- ^li altri foci~,
+tre; -- ^per altre foci~, il 14, (I.); -- ^E gi@a pi@u lieve~, il
+24; -- ^N'andava s@i~, 8. 37; -- ^Senza~ e ^sanza~, variamente;
+-- ^Seguiva in suso li spirti~, l'8; -- ^Segu$ia in su~, il 12;
+-- ^Segniava in su~, il 21; -- ^li spiriti~, i pi@u, le pr.
+quattro ediz., Fer.; -- ^li spirti~, Benvenuto, e (I.).
+
+	|10-12.  Quando Virgilio~ ecc.  Quando Virgilio
+incominci@o a dire a Stazio: L'amore della virt@u forza l'amato a
+riamare, a differenza dell'amore sensuale, purch@e la sua fiamma
+si appalesasse con opere al di fuori.  BENVENUTO.  -- Dice
+^acceso da virt@u~, imperocch@e acceso da carnalit@a spesso
+rimansi amore senza corrispondenza.  LOMB.  -- Amore mosso da
+virtuosa cagione, accende ne' virtuosi un vicendevole e durabile
+amore.  -- Varianti.  ^Incominci@o~, parecchi, Nid. Fer.; --
+^Acceso di virt@u sempre altru' accese~, il 12; -- ^di virt@u~,
+Cr. parecchi, Bartol. Bianchi, Witte, Scarabelli; -- ^da virt@u~,
+quattordici de' miei spogli, (F.).  (N.).  Benvenuto, Ferranti, e
+la seguito; -- ^sempr'altri accese~, 7. 18. But.  Fer.; --
+^sempr'alto~, il 22; -- ^sopra altro~, il 42; -- ^apparesse~, il
+29; -- ^portasse fore~, il 42; -- ^fore~, le prime quattro
+edizioni.
+
+	|13-15.  Onde da l'ora~ ecc.  Virgilio dice che am@o
+Stazio per tanti secoli, quantunque nol conoscesse che per
+relazione avutane da Giovenale.  Questi fu contemporaneo di
+Stazio; alcuni lo vogliono morto prima, lo che @e falso, avendo
+Giovenale lasciate scritte le lodi di Stazio.  BENV.  -- Sceglie
+a tal uopo Giovenale, non solamente perch@e fior@i poco dopo di
+Stazio, ma per essere lodatore della ^Tebaide.~ V. Canto prec.,
+v. 88.  LOMB.  -- Stazio e Giovenale furono contemporanei, e
+fiorirono nel primo secolo dell'#era nostra.  Giovenale, al dire
+del Moreri, mor@i circa l'anno 128, cio@e 32 anni dopo Stazio.
+Tanto si avverte a correzione dell'errore corso nelle Note del
+Poggiali, dov'e detto che Giovenale premor@i a Stazio.  --
+Giovenale fior@i poco dopo Stazio, e ne lod@o la ^Tebaide~ nella
+Sat. VII, v. 82 ecc.  Dante nel ^Convito~ (IV, 29) lo dice
+^Satiro nobile.~  FRATICELLI.  -- Var.  ^Onde dell'ora~, il 12;
+-- ^Unde tra l'ora che da noi~, il 26; -- ^Onde dall'ombra~, il
+38; -- ^che da nui discese~, il 3; -- ^che da voi disciese~, il
+21; -- ^Juvenale~, dieci de' miei spogli, (N.).  (I.).  (V.); --
+altri ^Jovenale~, altri ^Giovenale; -- Nel limbo del ninferno~,
+15. 22; -- ^dell'Inferno~, cinque, (F.).  (I.).  (N.); --
+^Nell'ambe dell'Inferno~, il 25, err.; -- ^dello inferno~, i
+pi@u, W.; -- ^dello 'nferno~, (M.).  Cr. ecc.; -- ^effettion~, il
+12; -- ^offension~, il 17, err.; -- ^affection~, le prime quattro
+ediz.; -- ^mi fee~, il 41.
+
+	|16-18.  Mia benvoglienza~ ecc.  La mia benevolenza per
+te fu ^quale~ di persona non vista o conosciuta, abbia mai alcuno
+pi@u strettamente legato; sicch@e ora salir@o queste scale senza
+accorgermene, pere lo diletto d'esser teco.  BENV.  -- ^Quale
+pi@u strinse~, ellissi, taciuto ^alcuno~ o ^alcuna persona~; e
+vale come se fosse detto: ^Quale non istrinse mai maggiormente
+alcuna persona ad un'altra per solo nome intesa -- or mi parran
+corte~ ecc., pel piacere, intendi, di esser teco.  LOMBARDI.  --
+Fu delle maggiori che si sentissero mai per persona non Segni).
+LOMBARDI.  -- Se tutti gli Spositori avessero letto ^A che~, in
+vece di ^Perch@e~ nel v. 40, avrebbero risparmiato al Venturi il
+sacrilego dubbio che Dante prendesse il ^sacra fames~ per una
+virt@u; ed al Rosa Morando la briga di torcere a buona sentenza
+la particella ^Perch@e~, con ispartirla in ^Per che~, dandole il
+senso ^per che distorte vie~, e simili; n@e avrebbero offerta
+cagione al Torelli di sentenziare che Dante non intese bene il
+passo di Virgilio.  -- ^Perch@e non reggi~ ecc., @e versione del
+Virgiliano ^Qui non mortalia pectora cogis -- Auri sacra fames~?
+(^Aen.~, III, v. 56 e seg.).  Se non che mentre comunemente
+s'interpreta: ^Quid non cogis audere, vel committere~, che non
+sforzi tu ad osare o a commettere ecc., Dante ha inteso il verbo
+^cogere~ nel senso di ^frenare, contenere~, ed ha preso il ^quid~
+per sinonimo di ^cur~; onde ha spiegato: ^perch@e~, o maledetta
+fame dell'oro, ^non reggi~, non regoli, non contieni ne' giusti
+confini, ^l'appetito de' mortali~, i quali o sono dell'oro troppo
+avidi e tenaci, o lo gettano vanamente senza misura.  Dalle quali
+parole cos@i interpretate, Stazio comprese che si potea peccare
+anche per ismodato spendere.  BIANCHI.  -- ^A che~, legge il
+Fraticelli, con Benv., con la Nid., col Fer. (e parmi miglior
+lettera), e spiega: ^a che non guidi, conduci~ e simili; i pi@u
+leggono ^Perch@e~, e spiegano: ^perch@e non regoli, non infreni~;
+e cos@i leggono nove de' miei spogli, (F.).  (N.).  Cass. Cr.
+Viv.; -- altri ^Per che~, dichiarando ^per quali opere non
+traggi~, e cos@i preferisce di leggere lo Scarabelli, dichiarando
+^per che ragione~, non gi@a ^Per che distorte vie~ o ^per che
+malvagit@a~, siccome intese il Rosa Morando.  -- Le tre lezioni
+si possono avere per buone; ma io propendo alla preferita dal
+Lombardi, che scorgo seguitata dal Fraticelli, e che mi pare pi@u
+chiara, pi@u energica.  -- Varianti de' m. s. ^Quando intesi~,
+quattro; -- ^l@a dove tu clame~, sette; -- ^dove tu esclame~,
+Caet., il W.; -- ^l@a ove tu esclame~, anche lo Scar. V. la sua
+Nota.  -- Sto coi pi@u, che di ^chiamare~ per ^esclamare~ hannosi
+molti esempj; -- ^tu chiame~, le prime quattro ediz.; --
+^Perch@e~, nove, (F.).  (N.).  Cass. Bart.  Cr. Bianchi; -- ^A
+che~, Nid. Benv. Fer. Caet.; -- ^De l'oro~, (F.).  (I.).  (N.).
+ecc.; -- ^gli appetiti~, sei, Bart.; -- ^le chiostre~, il 25, e
+la Nid.; -- ^la giostra~, il 29; -- ^le coste~, il 34; --
+^Volando~, il 43 (in m. ^Voltando~).
+
+	|43-45.  Allor m'accorsi~ ecc.  Allora m'accorsi della
+mia prodigalit@a, e mi corressi di questa, come d'altre mie
+pecche.  BENVENUTO.  -- ^Aprir l'ali~, metafora, per ^aprire le
+dita.~  LOMBARDI.  -- Il Biagioli la dice ^frase nuova e
+Dantesca~, ma parmi figura ardita, da perdonarsi, non da
+imitarsi; -- ^pent$emi~, sincope, in grazia della rima, da
+^pentere.~  LOMB.  -- Varianti.  ^Perch@e non apparirl'ali~, la
+(V.); -- ^Potean le mani~, sette, le prime cinque ediz., Benv.
+Fer. e i pi@u; -- ^Pot$en~, molti, Cr. Vat.; -- ^Potean s@i le
+mani~, il 32; -- ^a spandere~, tre, (I.).  (V.); -- ^a prendere~,
+l'8; -- ^come delli altri~, (M.).  e molti mss.  -- Il Poeta qui
+d@a l'ali spiegate alle mani, per esprimere l'espansione della
+prodigalit@a negli atti suoi sregolati, siccome nel Canto X di
+questa Cantica attribu@i agli occhi il volere.  PARENTI (^Eserc.
+filol.~ n+o~ 11, p. 8).
+
+	|46-48.  Quanti~ ecc.  Quanti prodighi risorgeranno coi
+capelli mozzi, ignorando che siavi pena per la prodigalit@a; e
+ci@o toglie che si correggano in prima vita, o che lo facciano
+soltanto in fin di morte.  BENV.  -- ^Coi crini scemi~, per aver
+detto nel VII dell'^Inf.~ che gli avari resusciteranno co' pugni
+stretti, e li prodighi co' capelli tosati.  VENTURI.  -- ^Per
+l'ignoranza~, intendi crassa e supina, e per ci@o colpevole.  E
+che s'ignori essere un vizio la prodigalit@a, dai pi@u, @e fatto
+certo.  Molto a proposito not@o il Postill. del Caet.; ^Exclamat
+contra prodigos, qui propter ignorantiam non credunt
+prodigalitatem esse vitium, quia laudatur inter magnos, sicut
+contigit de Alexandro etc.  -- Toglie il pent$er~ ecc., impedisce
+il pentimento in vita ed in morte.  LOMB.  -- Nella ^Somma~ (nota
+il Fraticelli) @e detto: <Ignoranza dell'intelletto talvolta
+precede l'inclinazione dell'appetito, ed @e cagione di quella; e
+per@o quanto @e maggiore l'ignoranza, pi@u scema il peccato, e lo
+fa involontario; ma c'@e un'ignoranza che segue l'inclinazione
+all'appetito, e questa fa il peccato maggiore>.  FRATICELLI.  --
+Varianti.  ^Resurgeranno coi crin~, il 10; -- ^Quanti ne
+surgeran~, il 15; -- ^risurgeranno coi crin~, il 41; --
+^resurgeran~, il 45, (M.).  (V.); -- ^coi crini~, Witte, le prime
+quattro ediz.; -- ^sciemi~, (I.); -- ^Per ignoranza~, ventotto
+de' m. s., Vat. Chig. (M.).  (N.).  (V.).  Nid. W. Benv.; -- ^Ai
+quai per ignoranza questa pecca~, tre; -- ^ch'@e di questa~, tre;
+-- ^Con ignoranza~, il 31; -- ^che ha questa pecca~, il 33; --
+^Tale @e il pentir~, sette; -- ^Tolle il pentir~, il 5; -- ^Tagli
+'l pent$er~, quattro; -- ^e nelli stremi~, dieci, (I.).  Nid.; --
+^o nelli stremi~, 22. 53; -- ^Tal gli @e il pent@er~, il 27; --
+^Togli il pentir vivendo nelli stremi~, il 29; -- ^Taglia il
+pent@er~, 31. 38; -- ^Tragge il pent@er~, il 33; -- ^Tal gli @e
+il pent@er~, il 37; -- ^Tal ee el pentir vivendo negli extremi~,
+il 41; -- ^Toglie 'l penter vivendo nell'estremi.~  Benvenuto
+legge: ^Tale @e il pentir~, e spiega: ^Talis est penitentia, et
+pena habetur vivendo in mundo; -- e ne li stremi~, (F.).  (N.);
+-- ^e negli stremi~, (M.); -- ^estremi~, i pi@u; -- ^vivendo
+negli estremi~, l'Antald., e il Betti spiega: ^Toglie al reo il
+pentirsi negliultimi della vita~, ma non d@a questa lettera per
+sicura.
+
+	|49-51.  E sappi~ ecc....l'estremo contrario d'alcun
+peccato, offendendo ugualmente per contrarie ragioni la virt@u,
+riceve la stessa pena.  Dante punisce ugualmente la prodigalit@a
+e l'avarizia, ma detesta pi@u questa che quella.  BENV.  -- ^Che
+rimbecca~ ecc.  ^Rimbeccare~ significa ^ribattere la palla~; ma
+qui metafoficamente per ^contrariare, opporsi~; e la prodigalit@a
+@e l'avversaria dell'avarizia ecc.  LOMBARDI.  -- ^Qui suo verde
+secca~, cio@e, si consuma, per la purgazione nel luogo stesso
+ov'@e punito il peccato suo contrario.  Avviene nel Purgatorio
+come nel l'Inferno, dove stanno insieme i prodighi e gli avari.
+BIANCHI.  -- Varianti.  ^Et sappie~, 52. 53; -- ^opposizion~,
+(F.).  (M.).  (N.); -- ^oppozione~, (I.).  Crusca; -- ^suo veder
+secca~, cinque; -- ^Com'esso inseme~, tre; -- ^Con esse~, 17. 35;
+-- ^Com'esse~, li 53; -- ^Commesso insieme qui su veder~, 20. 52.
+(M.).  (V.).  Nidob.; -- ^insiemi~, li 29; -- ^su' veder~, 33.
+37; -- ^Commesso~, (F.).  (N.); -- ^Comesso~, (I.); -- ^suo verde
+secca.  -- Comburam in te omne lignum viride, et omne lignum
+aridum~ (EZECH., XX, 47).  Nota di mons. Cavedoni (^Opusc. Rel.~
+ecc., XI, p. 325).
+
+	|52-54.  Per@o s'io son~ ecc.  Per@o se io sono stato in
+purgazione nel cercio degli avari, vi giacqui per colpa
+diametralmente opposta all'avarizia, per prodigalit@a.  BENV.  --
+^M'@e incontrato~, m'@e accaduto.  VENTURI.  -- Var.  ^Con quella
+gente~, 12. 38; -- ^fra quelle genti~, il 37; -- ^tra quelle~, il
+42; -- ^s'i' son~, (F.).  (N.); -- ^s'io son~, (M.).  (I.).  Cr.;
+-- ^Che piangon~, 8.  37. ed altri; -- ^l'avaritia~, (F.).  (N.);
+-- ^l'avaricia~, (M.).  (I.); -- ^contraro~, il 2, (M.); -- ^ci@o
+m'@e incontrato~, il 3, copia d'un sincrono.
+
+	|55-57.  Or, quando~ ecc.  Benvenuto narra quanto Stazio
+e Seneca scrissero intorno di Giocasta regina di Tebe, poi scende
+al senso letterale; le ^crud' armi~, la guerra fraterna; --
+^della doppia tristizia~ ecc., di Eteocle e Polinice, figli di
+Giocasta e frutto incestuoso.  ^Disse il cantor de' bucolici
+carmi~, Virgilio, che scrisse le ^Bucoliche.~  BENV.  --
+^Cantasti~, intendi, nel poema della ^Tebaide; -- le crud' armi~
+ecc., l'aspro combattersi e l'uccidersi a vicenda di Eteocle e di
+Polinice, fratelli e figliuoli di Giocasta, a cui occasionarono
+un doppio lutto.  LOMB.  -- ^Della doppia tristizia~, intendi, i
+due tristi ed empj figli di Giocasta, doppia cagione di dolore
+all'infelice madre; -- ^bucolici carmi~, versi pastorali.
+BIANCHI.  -- Varianti.  ^E quando tu~, sette de' m. s., (N.); --
+^contasti~, dieci, (F.).  (V.).  Aldina, Ferranti, Chigiani; --
+^justitia di Jocrasta~, l'8, erronea; -- ^iustitia~, 12. 38.
+(F.).  (N.); -- ^Jocasta~ e ^Giocasta~, variamente; --
+^Diocasta~, il 21; -- ^Jocasta~, Vat. 3199; -- ^de' bucolesi
+carmi~, il 3, copia d'un sincrono; -- ^da bucolici~, il 12; --
+^di bucolici~, cinque.
+
+	|58-60.  Per quello~ ecc.  Per quanto si pu@o argomentare
+dalla tua ^Tebaide~, quando la scrivevi tu non professavi ancora
+la Fede cristiana, senza la quale il ben operare non basta a
+salvazione.  -- ^Cli@o~, una delle nove Muse, dea della gloria e
+della fama.  BENV.  -- ^Cl$io~, @e la Musa invocata da Stazio
+nell ^Tebaide: Quem prius heroum Clio dabis~ etc.  (Lib. I, v.
+4); -- ^l@i~, in quel tuo poema; -- ^tasta.~  Questo ^tastare~
+chi vuole significhi ^cercare~ e tentare~, e chi ^toccare~ per
+^accennare.~  Il Lombardi intende invece ^toccare i tasti,
+suonare accompagnando ed ajutando il canto di Stazio; -- tasta~,
+cio@e, ^suona poetando.~  PIETRO DI DANTE.  -- ^Tasta~, tenta, o
+tastando sordamente suona.  ANONIMO.  -- ^Tasta~, cio@e, ^tocca~
+od ^accenna~, la E. B.; -- ^teco tasta~, secondo i tasti ch'ella
+tocca; cio@e, per le usate forme poetiche, le quali sentono delle
+credenze pagane.  BIANCHI.  -- Per quello che Cl$io l@i va teco
+toccando o accennando.  FRATICELLI.  -- ^Fedele~, per ^vero
+credente.  -- La F@e~ ecc., la Fede cristiana, senza la quale
+^impossibile est placere Deo~, avvisa S. Paolo (^Hebr.~ 11, v.
+6); ed @e per ci@o insufficiente a salvarci ogni opera.  LOMB.
+-- Sant'Agostino: <Le virt@u non sono vere virt@u, se non
+presupposta la Fede>.  FRATICELLI.  -- Varianti.  Il primo verso
+@e di lettera molto varia ne' mss. e nelle stampe; e riescirei
+sazievole e senza pro, con l'accennarle tutte.  Bastimi il dire:
+che la Cr. legge ^Per quel che Cl$io l@i con teco tasta~, lettera
+del Lomb. del Bianchi, del Fraticelli; mentre i pi@u ommettono il
+^con~ ridondante.  Altri leggono: ^Per quello che Cli@o teco li
+tasta~, e sono molti, tra' quali il Witte e lo Scarabelli, e l'ho
+restituita al testo, parendomi migliore.  Cos@i leggono i testi
+veduti dal Dionisi, il Caetani e quattro Estensi.  Dubbio @e il
+^con teco~ della Cr. ^Cli@o~, per ^Cl$io~, uso di Dante, che
+scrisse ^Semel@e, Climen@e.~  PARENTI (^Ann. Diz.~).  -- ^Con la
+mia~ Cibel@e ^bella e discreta~, scrisse il Boc. (^Ninf.
+d'Amet.~).  -- Il Zani: ^Per quello che Cli@o l@i teco~, coi
+codici Cass. e Rosc.  Il Viviani richiam@o a vita la lezione ^Per
+quello che cre@o teco le tasta~, del Bartoliniano, ch'egli
+asser@i confortata dal pi@u autorevole Trivulziano, e spieg@o:
+<Quando tu cantasti le crude armi ecc., non pare che la Fede ti
+facesse ancora fedele per quello che cre@o teco le tasta, cio@e,
+per quel Dio che cre@o teco i numeri dell'armon$ia>.  Propugn@o
+la enunciata lezione in una lunga Nota che non fece fortuna, n@e
+mi occorre dirne altro.  Il Fer. l'accett@o, ma sino ad ora ne
+ignoriamo le ragioni.  -- ^La fede, sanza qual~, ventiquattro de'
+m. s., (F.).  (N.).  (V.).  Fer.; -- i pi@u: ^La F@e, senza la
+qual.  La F@e~ ecc.  Dotrina dell'Apostolo (^ad Gal.~, II, 10):
+^Scientes, quod non justificatur homo ex operibus legis, nisi per
+Fidem Jesu Christi.~  CAVEDONI (^Op. Rel.~ ecc., XI, p. 326).
+^Cli@o teco l@i tasta~, Scarabelli.  V. la sua Nota.  -- ^Che
+Cli@o l@i teco tasta~, Cassinese, Roscoe.
+
+	|61-63.  Se cos@i @e~, ecc.  Se non fosti credente sino a
+quel tempo, qual Sole o quali candele ti tolsero la cecit@a, le
+tenebre della mente, illuminandoti, istruendoti in modo che,
+navigando in acque salutari, drizzasti le vele dietro S. Pietro,
+cio@e, dietro la Chiesa di Cristo?  BENV.  -- ^Qual Sole~ ecc.,
+fuor di figura, ^qual celeste o terreno lume.~  LOMB.  --
+L'Anonimo: Qual lume diurno o notturno.  -- ^Ti stenebraron~, ti
+tolsero le tenebre del gentilesimo; -- ^candela~ @e dal latino
+^candere~, splendere di luce; -- ^al Pescator~, a S. Pietro, che
+fu pescatore in Galilea.  BIANCHI.  -- Il ^Sole~ @e simbolo della
+grazia divina; la ^candela~ della scienza umana.  FRAT.  --
+Varianti.  ^Quai lumi~, parecchi testi mss. e stampati; -- ^o
+qual candele~, 10. 41; -- ^A te fur date, s@i che tu~, il 3,
+copia d'un sincrono; -- ^Ti stenebr@aro~, quattro; -- ^Te
+stenebraron~, cinque; -- ^Ti scenebraron~, il 35; --
+^T'illuminaron s@i~, il 37; -- ^Poscia dirietro ai pescator~,
+sette de' miei spogli; -- ^di retro~, il 18, (F.).  (N.).  Cr.
+ecc.; -- ^drieto~, 21. 22; -- ^di dietro~, 28. 38. (M.).  (I.);
+-- ^Poi di rietro~, il 31; -- ^quai lumi o quai~, Aldina.
+
+	|64-66.  Ed elli a lui~: ecc.  E Stazio rispose a
+Virgilio: tu primo mi facesti salire in Parnaso a bere nel fonte
+Elicona; e dopo Dio, m'ajutasti ad abbracciare il Cristianesimo;
+-- ^nelle sue grotte.~  Qui pare ^grotte~ per ^rive~, dice il
+Lombardi, meglio ^antri secreti del monte Parnaso~, siccome
+spiega il Bianchi; e ^grotte~ per ^antri~ anche il Fraticelli.
+-- ^Tu prima~, ecc.  Tu mi facesti poeta e poi cristiano; --
+^appresso Dio~, alcuni spiegano: ^dopo Dio~, padre dei lumi.  Si
+faccia attenzione agli effetti che Stazio afferma prodotti in lui
+da Virgilio; e si vedr@a come i poeti (parlo dei grandi),
+sacerdoti ^ab antico~ della morale e civile sapienza, ritraggono
+veramente chi bene li studia dal vizio, guidano alla cognizione
+del vero, e d@anno anche spesso l'ispirazione dei carmi.  BIANCHI
+-- ^Appresso Dio~, cio@e, ^nelle vie di Dio.~  FRATICELLI.  --
+Var.  ^Tu primo~, il 18 -- ^Ed elli a lui~, il 24, (M.).  Fer.;
+-- ^di prima~, il 24; -- ^prima m'invitasti~, 34. 37; -- ^prima
+me 'nvitasti~, il 41; -- ^me invitasti~, il 42; -- ^mi guidasti~,
+Viviani, Fer.; -- ^Verso Parnasso~, il 35; -- ^de le sue grotte~,
+quattro; -- ^E primo~, cinque, Fer.; -- ^appresso a Dio~, sei; --
+^m'illuminasti~, 5. 33; -- ^Et poscia adpresso Dio~, quattro; --
+^me alluminasti~, l'8; -- ^E poi appresso a Dio~, otto de' m. s.,
+(F.).  (N.).  Nid. Caet. 3+a~ Romana, Bianchi, W. e l'ho
+seguitata; -- ^E poscia appresso Dio~, Benv. Fraticelli, e molti
+de' miei spogli; -- ^appresso ad te me~, il 32; -- ^Iddio~,
+parecchi; -- ^E prima, appresso Dio~, Vat. 3199, Chig. (M.).  Cr.
+ecc.; -- ^E poi appresso Idd$io~, (F.).  (I.).  (N.).  Fer.  --
+^Appresso Dio~, deve valere come ^ad appressarmi a Dio.~  LOMB.
+-- Il De Romanis prefer@i la lezione del Caet., accennata pi@u
+sopra, parendogli pi@u coerente alle operazioni di Virgilio.  Il
+Betti gli contraddisse, e vuole che s'abbia ad intendere detto da
+Stazio: ^Tu primamente~ mi conducesti a bere in Parnaso; ^tu
+primamente~ m'illuminasti per andare presso Dio.  -- L'Anonimo
+pone ^appresso Dio~ tra due virgole, e spone: ^Tu primo
+m'illuminasti, dopo Dio, che @e prima causa di tutte le cose, e
+padre de' lumi, dal quale discende ogni dono perfetto ed ogni
+dono ottimo.~  -- Il Torelli not@o: ^appresso Dio~, cio@e, ^dopo
+Dio~, ovvero ^a seguir Dio~, con che palesa aver entrambe le
+sposizioni per buone.  -- Pens@o il Poggiali che Dante alluda qui
+alla cosmologica descrizione del globo terracqueo ^Principio
+coelum~ etc. del Lib. IX della ^Georgica~, la quale non @e certo,
+secondo la Fede cristiana, di un unico vero Dio, ma stabilisce
+almeno un unico supremo Essere.  Non capacita; e penso che
+l'allusione si riferisca ai versi 70-72 di questo Canto; --
+^guidasti~, Bart.; -- ^E poscia~, parecchi; -- ^E poi~, il
+Caetani.
+
+	|67-69.  Facesti come quei~ ecc.  Imitasti colui che
+andando di notte, si porta dietro il lume che serve di guida a
+chi lo seguita, ma non a lui.  BENVENUTO.  -- Pare che Dante qui
+abbia imitato messer Polo, rimatore che fior@i nella prima met@a
+del secolo XIII, del quale abbiamo un sonetto che incomincia:
+^Siccome quel che porta la lumiera -- La notte, quando passa per
+la v$ia, -- Alluma assai pi@u gente de la spera -- Che se
+medesmo, che l'ha in bal$ia~ (^Rim. ant.~, I, facc. 129).  --
+^Che porta il lume dietro~, ci@o fanno spesso i servitori dinanzi
+ai loro padroni; -- ^dotte~, istruite dove deggiono mettere i
+piedi.  LOMB.  -- ^Ma dopo s@e~, ma dietro a s@e fa le persone
+accorte, instruite del cammino.  BIANCHI.  -- ^Dotte~, da
+^doceo~, non devesi intendere solo di dottrina scientifica.
+FRAT.  -- Mons. Cavedoni not@o qui: ^O Judei, ad hoc ferentes in
+manibus lucernam Legis, ut aliis viam demonstratis, et vobis
+tenebras ingeretis~ (^S. Aug. Serm.  ad Catecnam.~ 4).  (^Opusc.
+Rel.~ ecc., XI, p. 326).  -- Varianti.  ^E a s@e non giova~, otto
+de' miei spogli, Nid. Pogg.; -- ^@e si non giova~, l'8; --
+^dietro a s@e, e non giova~, 9. 32; -- ^Che porta lume~, l'11; --
+^e a s@e dietro non giova~, il 15; -- ^dietro il lume~, 28. 38;
+-- ^dietro a s@e non giova~, il 32; -- ^e a s@e~, Roscoe e
+Nidob.; -- ^drieto a s@e~, il 42; -- ^e s@e non giova~, quattro,
+Bartoliniano, Vaticano 3199, Antaldino, Chigiani, (M.) Crusca,
+ecc., e i pi@u; -- ^Ma dopo s@e fa le parole~, il 9; -- ^E dopo
+s@e~, tre.
+
+	|70-72.  Quando dicesti~: ecc.  Quando dicesti nelle
+Bucoliche: ^il secolo si rinova~ ecc., la rinnovazione del secolo
+si avver@o sotto il regno di Augusto, che riordim@o il mondo, e
+fece tornare la fuggita giustizia e l'et@a dell'oro, e la
+^progenie dal ciel nova~, che si ritiene Cristo.  BENVENUTO, il
+quale aggiugne: <Molti spiegano i detti di Virgilio, e
+specialmente Probo, traducendoli alla Fede cristiana>.  Dante
+infatti, ricordati i versi Virgiliani, soggiunge: ^Per te poeta
+fui, per te cristiano.  -- Quando dicesti~ ecc., accenna
+succintamente in volgare i seguenti versi dell'Egloga IV, ne'
+quali Virgilio dice venuto il tempo di adempiersi la profezia
+della Sibilla Cumana: ^Magnus ab integro saeculorum nascitur
+ordo.  -- Jam redit e virgo, redeunt Saturnia regna.  -- Jam nova
+progenies caelo demittitur alto.~  Servio dice che Virgilio qui
+alluse alla nascita di Salonio, figliuolo di Asinio Pollione; ma
+i Comentatori cristiani dicono fatta allusione alla incarnazione
+del Verbo, e cos@i Dante finge che la intendesse Stazio; -- per
+^virgo~ intende Astrea, Dea della giustizia.  LOMB.  -- La
+profez$ia fu tratta dai Libri Sibillini; ma varj scrittori
+cristiani (tra' quali S. Agostino) opinarono che fosse un cenno
+al divin Redentore.  FRAT.  -- Varianti.  ^Il secol si rinnova~,
+il 37; -- ^rinnova~, quasi tutti i miei spogli, (F.).  (M.).
+(I.).  (V.).  Fer.; -- ^rinuova~, Crusca; -- ^al primo tempo~, il
+15; -- ^e 'l primo tempo~, 21. 24.  (F.).  (I.).  (N.).  (V.).
+Pogg.; -- ^e primo tempo~, (M.); -- ^justitia~, parecchi; -- ^di
+ciel nova~, 3. 53; -- ^del ciel~, tre; -- ^E progen,ie scende~,
+forse pi@u di venti de' m. s., (F.).  (M.).  (N.).  Nid. Fer.
+Pad. 1859, lettera che seguito, scorgendola nel testo di
+Benvenuto, nell'Aldina, e ne' manoscritti del Witte, che poi
+seguit@o la Cr.: ^E progenie discese.~ minorando la grazia del
+verso senza veruna necessit@a, in sentenza del Lomb.  Gli
+Accademici cos@i scrissero con l'autorit@a di soli sei testi,
+contro il grandissimo numero che n'ebbero sott'occhio.  Tutti i
+moderni per altro seguitan la Crusca, e non so quanto bene,
+riuscendo il verso meno Dantesco; -- ^nova~, i pi@u; -- ^nuova~,
+Cr. ecc.; -- ^discende~, parecchi.
+
+	|73-75.  Per te poeta~ ecc.  Tu mi facesti poeta e poscia
+cristiano.  Ma perch@e meglio tu conosca quanto ho abbozzato,
+dar@o colorito al mio abbozzo.  BENV.  -- ^Perch@e veggi me~',
+affinch@e meglio tu intenda; -- ^ci@o ch'io disegno~, ci@o che io
+esprimo con parole; -- ^A colorar~, stender@o pi@u largamente la
+narrativa, parlare figurato.  LOMB.  -- ^A colorar~, avendo detto
+prima ^ci@o ch'io disegno~, prosegue la metafora col dire ^A
+colorar...~  Il disegno adombra la cosa, e i colori l'avvivano.
+BIANCHI.  -- Varianti.  ^Parte poeta fui, parte~, il 42; -- ^Ma
+perch@e veggie ben~, il 32; -- ^veggi me~', (F.).  (I.).  (N.);
+-- ^mei ci@o ch'io~, dieci, (M.).  Nid. W. Bart.; -- ^meio~,
+Benvenuto; -- ^mei~, Bart.; -- ^ch'io disegno~, i pi@u e le prime
+quattro edizioni; -- ^desegno~, (F.).  (N.); -- ^meglio~, il 53,
+ma il verso nol pate; -- ^A colorare stender@o~, venticinque
+almeno de' miei spogli, (F.).  (N.).  (V.).  W. Vat. 3199, Rosc.
+Scarab.  con molti autorevoli altri testi per lui veduti, lettera
+che accetto, parendomi che migliori il verso; -- ^A colorarlo
+stender@o~, il 3, copia d'un sincrono; -- ^A colorar scender@o
+con la~, l'8; -- ^istender@o~, 15. 37; -- ^discender@o la~, il
+41; -- ^A colorar distender@o~, (M.).  (I.).  Crusca, ecc.
+
+	|76-78.  Gi@a era il mondo~ ecc.  Tutta la Terra era gi@a
+piena della vera religione propagata dagli Apostoli di G. C.
+BENV.  -- ^Messaggi~, gli Apostoli e discepoli di G. C., perch@e
+di lui e dell'eterno suo regno annunziatori.  LOMB.  -- ^Della
+vera credenza~, ecc.  Qui mons. Cavedoni not@o: ^Si nos vobis
+spiritualia seminavimus~ (^ad Cor.~, IX, 11).  Cristo Signore
+paragona il Regno de' cieli, o sia la Verit@a evangelica ad uomo
+che ^seminat semen suum~ (LUC., VIII, 4; cf. MATTH., XIII, 24).
+-- E per quella apresi l'ingresso ^in aeternum regnum Domini
+nostri~ (II. ^Petr.~, I, 11).  (^Opusc.  Rel.~ ecc., XI, p. 326).
+-- Var.  ^De la vera~, (F.).  (M.).  (N.).  e molti mss.; --
+^Della vera justizia~, l'8; -- ^de lo eterno~, molti, (M.); --
+^de l'eterno~, (F.).  (N.); -- ^dello eterno~, (I.).  Ferranti.
+
+	|79-81.  E la parola tua~ ecc.  E li tuoi detti, quasi
+profetici, erano conformi alle parole degli Apostoli; il perch@e
+cominciai a conversare con essi.  BENV.  -- ^E la parola tua~, e
+la profez$ia della Sibilla Cumana espressa ne' sopraddetti tuoi
+versi: ^Magnus ab integro~ etc. ^Si consonava~, si uniformava a
+ci@o ch'essi annunziavano; -- ^usata~, per ^usanza~, voce usata
+da altri antichi nostri anche in prosa.  V. il Voc.  LOMB.  --
+^Usata~, per ^usanza~, i participj passati, tanto al maschile che
+al femminile, si usarono anticamente per nomi.  Cos@i
+^destinato~, per ^destino; -- cogitato~, per ^cogitazione; --
+gelata~, per ^gelo; -- disposta~, per ^disposizione.~  BIANCHI.
+-- Varianti.  ^Prima toccata~, il 4, codice Poggiali, Fer.; --
+^S@i consonava~, legge il Bianchi, dichiarando: ^S@i~ per ^cos@i,
+precisamente~, disapprovata la comune lezione.  @E questione che
+i manoscritti antichi non possono risolvere; il ^S@i~ fu
+accettato dal Witte, e ultimamente dallo Scarabelli, e la
+seguito, rendendo il senso pi@u cospicuo; -- ^a quelli
+predicanti~, l'8; -- ^ai novi~ 28. 29; -- ^in nuovi~, alcuni; --
+^ai nuovi~, (F.).  (N.).  Witte; -- ^a' nuovi~, (M.).  (I.); --
+^Ond'io ad ausar li presi usata~, l'8; -- ^Per ch'io a~, 12. 38;
+-- ^a vicitarli~, 15. 38; -- ^feci usata~, (F.).  (N.).  (V.).  e
+il 15; -- ^a visitargli~, (I.).
+
+	|82-84.  Vennermi poi~ ecc.  Dopo Nerone, Domiziano fu il
+pi@u feroce persecutore dei cristiani.  Dice Orosio che tanto
+costui odiava Cristo, che fra gli Ebrei volle diligentemente
+scegliere quelli che discendevano da David, per estirparli dalla
+terra, avendo udito dire che Cristo era della stirpe di David.
+Domiziano venne in odio a tutti, e fu crivellato di ferite dai
+pi@u intimi suoi liberti e dalla sua moglie.  ^Vennermi~ ecc., mi
+parvero poi di giorno in giorno pi@u eloquenti (avendo letto
+^scienti~); -- ^senza mio lagrimar~, che non potei frenare le
+lagrime ai tormenti loro inflitti.  BENV.  -- ^Quando Domizian li
+perseguette.~  Stazio, come dicemmo (XXI, 67 e seg.), sendo morto
+circa l'anno 96 di G. C., quintodecimo ed ultimo di Domiziano,
+Dante suppone che Stazio in sua vita non vedesse che questa
+persecuzione, non la prima di Nerone, morto l'anno 68; --
+^perseguette~, in rima, dice il Volpi, per ^perseguit@o~; io
+direi il ^perseguette~ sinonimo di ^persegu@i~, da ^perseguire~,
+e non in rima, ma anche fuori adoperato da Dante e da altri.  V.
+Mastrofini.  LOMB.  -- ^Senza mio lagrimar~ ecc.  ^Flere cum
+flentibus~ (^ad Rom.~, XII, 15).  Orazio (^ad Pison.~, 100).
+^Flentibus adsunt humani vultus.~ Nota di mons. Cavedoni (^Opusc.
+Rel.~ ecc., XI, p. 326).  -- Var.  ^Vennirmi poi parendo tutti~,
+il 32; -- ^Vennermi poi s@i parendo~, il 43; -- ^tanti santi~, il
+9, (I.).  (N.); -- ^tanto santi~, i pi@u, (F.).  (M.).  Cr. ecc.;
+-- ^lor perseguette~, l'8; -- ^Sanza mio lagrimar~, il 29, (F.).
+(M.).  (N.); -- ^Senza~, i pi@u, (I.).  Cr.; -- ^Sanza il mio~,
+il cod. Pogg.; -- ^dispiacer a me~, alcuni.
+
+	|85-87.  E mentre~ ecc.  E fin ch'io vissi io li
+soccorsi, ed i loro esempj di eroismo e di Fede mi fecero
+spregiare ogni altro culto.  BENV.  -- ^Di l@a~, in prima vita;
+-- ^di l@a~, e per tutto il tempo ch'io stetti in vita.
+FRATICELLI.  -- Varianti.  -- ^E mentre che per mi di l@a~, (I.);
+-- ^Io li sovvenni~, molti, le prime quattro ediz., W. Fer. Bart.
+Benv. ecc.; -- ^e i lor dritti~, otto de' miei spogli, (F.).
+(I.).  (N.); -- ^e a lor dritti~, Fer.; --^Fer dispiacere~, 12.
+38; -- ^Fer dispregiarmi~, Buti; -- ^disprisar~, il 9; -- ^di l@a
+per me~, i pi@u; -- ^per me di l@a~, il Chig. ed alcuni altri.
+
+	|88-90.  E pr$ia~ ecc.  E prima ch'io componessi la
+^Tebaide~ fui battezzato; ma per vilt@a d'animo vissi
+nascosamente cristiano, affettando negli atti esterni d'essere
+pagano per lungo tempo.  BENV.  -- Il Landino, il Vellutello ed
+il Venturi credettero che si dovesse intendere: ^Pr$ia ch'io
+cominciassi il nono libro della Tebaide~, nel quale i Greci,
+capitanati da Adrasto, giunsero ai fiumi di Tebe, l'Ismeno e
+l'Asopo, in soccorso di Polinice; ma il Lombardi la intende come
+Benvenuto; -- ^chiuso~, per ^occulto: -- fumi~, sincope di
+^fummi~, cio@e, ^mi fui, mi stetti.~  E. R.  Il Bianchi sta col
+Lombardi, ma tocca anche l'altra sposizione; il Fraticelli
+seguita il Landino, ma poi accenna anche la sposizione del
+Lombardi.  L'una e l'altra pu@o stare, ma quella del Landino @e
+forse pi@u della mente di Dante.  -- Varianti.  ^Conducesse~,
+(F.).  (N.); -- ^ai fiumi~, il W.; -- ^a' fiumi~, le pr. quattro
+ediz.; -- ^Di Thebe~, le pr. quattro ediz.; -- ^baptesmo~, (F.).
+(I.).  (N.); -- ^ebbi battesmo~, il 17; -- ^baptesimo~, il 36, e
+cos@i le rime corrispondenti; -- ^Ma per pigrizia chiusa~, il 3,
+copia d'un sincrono; -- ^Ma pertemenza~, 12. 38; -- ^Ma per paura
+'l chiuso~, (I.); -- ^fu'mi~, Witte.
+
+	|91-93.  Lungamente~ ecc.  Infingendomi a lungo pagano, e
+questa tepidezza, quest'accidia mi tenne in pena nel quarto
+cerchio per pi@u di quattro secoli.  BENV.  -- ^Il quarto
+cerchio~, dove si punisce l'accidia (V. Canto XVII, v. 130 e
+seguenti).  -- ^Cerchiar~, per ^girare attorno~, lo us@o Dante
+anche nel II (v. 4), e nel XIV (v. 1) di questa Cantica; ma non
+@e a spregiarsi (dice il Lomb.) il ^Cercare~ delle antiche
+edizioni; -- ^pi@u che 'l quarto centesmo~, V. Nota al v. 67 del
+passato Canto.  LOMB.  -- Varianti.  ^Mostrato paganesmo~, il 14;
+-- ^paganesimo~, il 36, Benv.; -- ^Longamente~, (I.); -- ^E
+questa tepidezza~, quattro, (N.).  Nidob. W.; -- ^tepidicia~,
+Benv.; -- ^E queste tiepidezze~, il 21; -- ^al quarto cerchio~,
+5.  28; -- ^Cercar mi f@e~, ventitr@e almeno de' miei spogli,
+Viv. Vat.  3199, Antald. Pad. 1859, Fer. antiche ediz., l'Aldina,
+a cui gli Accademici surrogarono ^Cerchiar~, con l'autorit@a di
+pochi testi; -- ^mi fee pi@u che il quarto centesimo~, Benv.; --
+^pi@u che al quarto~, pi@u di venti de' miei spogli, (F.).  (N.).
+Nidobeatina, Ferranti, Witte, ecc.; -- ^Cerchar~, altri dieci,
+Nidobeatina; -- ^pi@u che quarto~, il 30, (M.); -- ^Cerchia mi
+fe'~, il 32; -- ^Cercar~, ho per lettera sincera, e l'ho
+preferita, parendomi pi@u elegante del modo ^Cerchiare il
+cerchio.~  Considera.  @E lettera dell'Aldina ed @e bel modo.
+
+	|94-96.  Tu dunque~, ecc.  Tu pertanto che hai rimosso il
+velo che ottenebrava il mio intelletto, e mi toglieva di scorgere
+il bene di che ti ragiono, cio@e, la verit@a della Fede
+cristiana, mentre abbiamo pi@u tempo di quanto ci bisogna a
+salire.  BENV.  -- ^Hai levato~, ecc., hai rimosso l'impedimento
+che non mi lasciava scorgere la verit@a della cristiana credenza.
+LOMB.  -- ^Del salire.~ Frattanto che ci resta assai da salire.
+FRAT.  -- Varianti.  ^Rivolto hai il coperchio~, il 4; -- ^m'ha'
+'l~, il 25, Buti; -- ^hai il~, (M.).  W.; -- ^Che nascondeva~, il
+4, Nid. Benv.; -- ^nascondea~, il 21; -- ^Che m'ascondea~, (F.).
+(I.).  (N.); -- ^i' dico~, (I.); -- ^che di salire~, il 7; --
+^che dell'andar~, 25. 53; -- ^avrai soverchio~, il 29, err.; --
+^av@en soperchio~, il 41; -- ^avren soverchio~, (I.).  (V.); --
+^av@en~, il 53, (F.).  (N.); -- ^avian~, Poggiali.
+
+	|97-99.  Dimmi dov'@e~ ecc.  Terenzio, poeta, scrisse in
+Roma commedie, nelle quali al vivo sono dipinti i costumi romani
+d'ogni et@a, d'ogni condizione.  Era Cartaginese, e fu condotto
+prigioniero in Roma al tempo del gran Scipione, e da lui reso
+libero, come si ha da Valerio e da Eusebio.  -- ^Cecilio~, altro
+poeta latino, spesso citato da Macrobio ne' ^Saturnali~, e spesso
+imitato dallo stesso Virgilio.  -- ^Plauto~, altro chiarissimo
+poeta latino, lodato da Tullio nelle ^Tusculane.~  Fu nativo di
+Sarsina, antica citt@a di Romagna.  Fu autore di molti epigrammi,
+e scrisse molte commedie.  Fu tanto povero, si dice, che di
+giorno girava la macina, e di notte scriveva.  -- ^Varo~, altro
+poeta latino, contemporaneo di Virgilio, il quale con Tucca
+corresse la ^Eneide~ per ordine di Augusto.  Alcuni credono che
+Dante alludesse a Varrone, il pi@u dotto de' Romani, oratore,
+poeta, istorico meraviglioso al tempo di Cesare, e che Plutarco
+non dubita di porre al livello di Aristotile; ma io tengo parli
+di Varo, quale amico di Virgilio; -- ^in qual vico~, in qual
+cerchio dell'Inferno.  BENV.  -- Il Lombardi, con la Nid. ed
+altre antiche edizioni, legge ^antico~, lettera dei pi@u, mentre
+gli Accademici preferirono la lettera ^amico.~  Potrebbesi avere
+per buona se tutti tre fossero stati epici; ci@o non essendo,
+meglio @e intendere ^antico nostro Latino~; e per zeuma potrebbe
+l'aggiunto ^antico~ riferirsi anche agli altri nominati ^Cecilio,
+Plauto e Varo.~  -- Il Venturi dice leggersi in pi@u codici:
+^Dimmi dov'@e Terenzio, ov'@e l'antico -- Cecilio~, ma non dice
+quali e dove li vedesse, oltrech@e quattro lustri di differenza
+d'eta tra Cecilio e Terenzio, non bastano a dire il primo antico.
+^Cecilio e Plauto~ furono comici come Terenzio.  ^Varro~ poi deve
+intendersi quello a cui Quintiliano fa l'elogio: ^Quam multa, imo
+pene omnia tradidit Varro~ (^Inst. Orat.~ Lib. XII).  LOMB.  --
+^Varro~ scrisse satire ad imitazione di Menippo, filosofo cinico,
+che per@o chiam@o ^Menippee.~  V. Macrob. ^Saturn.~ Lib. I, cap.
+II. Nota del Torelli.  -- Il Biagioli propugna la lettera
+^amico~, per quello che Virgilio dice a Dante nel IV dell'^Inf.~,
+cio@e: che tutti quelli che ^nello stesso nome si convengono~,
+sono amici, anzi fratelli.  -- L'Anonimo lesse ^amico~, e pare lo
+riferisca a tutti i poeti accennati nel v.  98.  Benvenuto legge
+^antiquo -- Varro~, Varrone, scrittore latino, famoso per
+dottrina e per erudizione.  BIANCHI.  -- Di ^Cecilio~ fors'ebbe
+il Poeta contezza da Quintiliano, citato dall'Ottimo, e cos@i di
+Varrone.  FRATICELLI.  -- Varianti.  ^Nostro antico~, quasi tutti
+i miei spogli, e le antiche edizioni, Bartol. Vat. Chig. Antald.,
+tre Cors. Fer.  W. e Scarab., che cita altre autorit@a, ed
+accenna che Terenzio fior@i un secolo e mezzo prima di Virgilio,
+e pi@u di due secoli prima di Stazio.  -- ^Terenzo~, parecchi de'
+miei spogli, (F.).  (N.).  (V.); -- ^Trentino~, il 43, che ha poi
+in m. ^Terenzio; -- vostro antico~, (F.).  (N.).  (V.); --
+^amico~, 4. 5. 8. Cr. ecc.; -- ^se li sai~, cinque; -- ^Ciceron,
+Plato e Varro~, il 32; -- ^Varo~, il 33, Benv.  (M.).  (I.); --
+^Cecilio, Plato e Varo~, tre; -- ^Ocillo, Plauto~, il 36; --
+^Cecilio e Plauto~, 37. 53; -- ^Cicero, Plauto~, il 43; -- ^se lo
+sai~, (F.).  (M.); -- ^selli sai~, (I.); -- ^se 'l sai~, (N.); --
+^dapnati~, (F.).  (N.); -- ^ed in qual vico~, le pr. quattro
+ediz., Cr.; -- ^o in qual vico~, otto de' m. s., Roscoe.
+
+	|100-102.  Costoro e Persio~, ecc.  Persio fu da
+Volterra, poeta satirico, che mor@i giovane, e che lasci@o un
+picciol volume di satire, le quali, se Cornato suo maestro non le
+avesse comentate, non si potrebbero intendere; -- ^ed io ed altri
+assai~, Virgilio avrebbe infatti potuto degnamente far cenno di
+Ennio, di Lucrezio, di Furio, di Pacuvio, di Azio, di Nevio, di
+Catullo, dai quali molto trasse, secondo dice Macrobio.  -- ^Con
+quel Greco~ ecc., con Om@ero, dalle Muse pi@u d'ogni altro
+nutricato.  Virgilio deve tanto ad Om@ero, quanto Stazio a
+Virgilio.  BENVENUTO.  -- Varianti.  ^Pi@u ch'altri mai~, il
+Caet.; -- ^Costor son persi, ed io ed altri~, il 33, err.; -- ^e
+gli altri assai~, il 43; -- ^ed altri~, le pr. quattro ediz., W.;
+-- ^Rispuose~, 12. 38. le pr. quattro ediz.; -- ^il savio mio~,
+il 12; -- ^el duca mio~, il 15; -- ^son con quel Greco~, 15, 21;
+-- ^il duca mio~, i pi@u; -- ^sian con quel~, (F.).  (M.).  (N.);
+-- ^sen~, il 53; -- ^siam~, (I.).  Cr. ecc.; -- ^lactar~,
+parecchi; -- ^pi@u ch'altri mai~, cinque; -- ^pi@u ch'altru'
+mai~, 12. 38; -- ^altrui pi@u ch'altro~, 26. 41. Benv.; -- ^pi@u
+ch'altro uom~, il 33; -- ^antico~, Rosc.; -- ^amico~, Foscolo con
+la Cr., e non bene; -- ^se li sai~, Aldina.
+
+	|103-105.  Nel primo cinghio~ ecc.  ^...del monte~ ecc.,
+il Parnaso, paradiso de' poeti, sempre abitato dalle muse nostre
+nutrici; -- ^nel primo cerchio~ ecc., nel Limbo, cio@e nel primo
+cerchio dell'Inferno, cio@e che lo circonda prima di entrarvi.
+BENV.  -- Varianti.  ^Nel primo cerchio~, quattordici de' m. s.,
+(N.).  Nid. But. Benv. cod.  Fil. Vill. e Berl. e Bart.; --
+^carcere ceco~, 40. 41. ed altri; -- ^Spesse volte~, tre; --
+^rasoniam~, 9. 10; -- ^ragionavan~, il 21; -- ^ragionavam~, il
+25; -- ^Che sempre ha le~, dodici de' m. s. Rosc.  (N.).  W.
+Benv.; -- ^notrici~, il 52; -- ^nutrie nostre~, 8. 12. ed altri
+testi; -- ^Che sempre ha la metr$ia nostra~, tre; -- ^Che ha le
+mitre nostre~, il 15; -- ^mitrie~, cinque, e le prime quattro
+ediz.; -- ^Ch'ae le muse~, il 28; -- ^misterie~, il 33; --
+^notizie nostre~, il 43, in marg.; -- ^nutricie~, (V.).
+
+	|106-108.  Euripide~ ecc.  Fu questi in tragico, citato
+spesso da Aristotele, autore della famosa tragedia ^Il Meleagro~,
+alla caccia del cignale, e lacerato dai cani nella corte di
+Archelao.  -- ^Antifonte~, poeta greco che, dicesi, componesse
+tragedie, ed un libro della interpretazione dei sogni e dei
+responsi degli oracoli.  -- ^Simonide~, altro poeta greco, che
+mor@i per gioja del trionfo d'un a sua tragedia, della quale
+trattano Valerio e Plinio.  -- ^Agatone~, altro tragico greco;
+^ed altri piue -- Greci~, come Pindaro, Sofocle, Eschilo, Alceo,
+Aristofane, Filemone, comico chiarissimo, che ottennero la corona
+d'alloro.  BENV.  -- Gli Accademici, contro l'autorit@a di molti
+loro manoscritti e del gran codice della critica, posero nel loro
+testo ^Anacreonte~, invece di ^Antifonte~, ricordato con lode
+qual tragico da Aristotele e da Plutarco; e sta bene collocato
+tra ^Euripide~ e ^Simonide~, lo che non pu@o dirsi
+d'^Anacreonte~, semplice lirico, solito a descrivere cose
+d'amore, ^et cum multo venerem confundere vino.~  Tutti i testi
+moderni leggono ^Antifonte~, lettera da preferirsi a chius'occhi.
+-- ^Simonide~, era nato in Cea, isola del mare Egeo; e fu uno de'
+famosi nove lirici greci, non che epico e tragico.  -- ^Agatone~,
+fu autore d'una favola intitolata l'^Anta~ o ^il Fiore~, di cui
+parla Aristotele nella sua ^Poetica.~  VOLPI.  -- Varianti.
+^Euripedone @e nosco ed Antifonte~, 8. 53; -- ^Eripede, Euripede,
+Euripiede~, variamente; -- ^Euripide, Venosco ed Antifonte~,
+Buti, il quale dice ^Venosco~ un poeta; -- ^Antifonte~, tutti
+quanti i miei spogli, le antiche ediz. ed i testi pi@u antichi,
+pi@u autorevoli, ed i pi@u moderni sino a quello Scarab.,
+eccettuatone quello del Bianchi.  Il Com. del 24 nota: ^Iste fuit
+poeta tragicus, ut dicit Macrobius; -- e Agatone~, quattro; --
+^Calgantone~, l'8; -- ^e Gathon~, 12. 38; -- ^e Aguthone~, il 15;
+-- ^Agatonte~, e moltissimi altri storpi che tralascio; -- ^che
+gi@a di l@a ornar~, Roscoe.
+
+	|109-111.  Quivi si veggion~ ecc.  ^...delle genti tue~,
+di quelle, intendi, di cui Stazio parla nella ^Tebaide.  --
+Antigone~ ed ^Ismene~ toccarono il sommo delle sventure: la
+cecit@a volontaria del padre, la morte volontaria della madre, la
+vicendevole fraterna uccisione, la servit@u della patria,
+l'eccidio di tanti re, la distruzione di tanti eserciti.  --
+^Deifile~ ed ^Arg$ia~, figliuole di Adrasto, re d'Argo, l'una
+data in moglie a Tideo, profugo dall'Etolia, l'altra a Polinice,
+minor figlio di Edipo ed esule da Tebe.  BENV.  -- ^Delle genti
+tue~, vuolsi intendere col Rosa Morando tutti i personaggi, non
+solo della ^Tebaide~, ma anco quelli dell'^Achilleide~, poema da
+Stazio lasciato imperfetto.  Infatti ^Teti~ e ^Deidam$ia~ con le
+sorelle nulla hanno a che fare con la ^Tebaide.  -- Antigone~,
+secondo Sofocle, fu sepolta viva, per aver data sepoltura al
+fratello Polinice, contro il regio divieto.  -- ^Ismene~, sorella
+di Antigone, doveva sposare un certo Cirreo, il quale avanti le
+nozze fu ucciso da Tideo: -- ^che mostr@o Lang$ia~, che addit@o
+ad Adrasto e compagni la fonte detta ^Lang$ia~ nella Nemea, e
+vuol dire ^Isifile~, figli@a di Toante, re d@i Lenno, presa dai
+corsari e venduta a Licurgo di Nemea; ed accennata nel verso che
+seguita.  -- Varianti.  ^De le genti~, i pi@u antichi; -- ^Quivi
+si veggon~, (I.); -- ^veggion~, i pi@u, (F.).  (M.).  (N.).  Cr.;
+-- ^Deyphyle~, i pi@u, e le antiche edizioni; -- ^Antighono~, 12.
+36; -- ^Doifile~, il 36; -- ^Erifile ed Arg$ia~, (M.); --
+^Ysmene~, 10. 41.
+
+	|112-114.  Vedesi quella~ ecc.  ^Isifile~, di cui si @e
+detto sopra.  Tradita da Giasone, fugg@i da Lenno, e mostr@o la
+fonte Lang$ia ai Greci che penuriavano di acqua all'assedio di
+Tebe.  -- ^Evvi la figlia di Tiresia~, intendi ^Manto~, di cui si
+parl@o nel XX dell'^Inf.  -- Teti~, madre del grande Achille.  --
+^Deidam$ia~, moglie d'Achille.  BENVENUTO.  -- ^Deidam$ia~,
+donzella bellissima, figliuola di Licomede, re di Sciro.  VOLPI.
+-- Qui il Venturi taccia Dante di smemorato, dicendo d'aver qui
+posta ^Manto~ nel Limbo, dopo d'averla collocata nell'Inferno (C.
+XX) nella bolgia degl'indovini.  Sdimentic@o il critico
+insolente, o non seppe, che Tiresia ebbe altre due figlie:
+^Dafne~, ricordata da Diodoro Siculo (Libro IV, cap. 6); ed
+^Istoriade~, ricordata da Pausania nella ^Beozia~, che fu
+letterata ed astuta.  Di questa crede il Rosa Morando che Dante
+qui intenda, non di ^Dafne~, che fu indovina e condannata col
+padre e con la sorella Manto.  Ignorando l'ab. Salvi questa terza
+figlia di Tiresia, disse che Dante intese parlare di Dafne, e
+come fu notato dal Torelli.  -- Var.  ^Larg$ia~, quattro; --
+^Vedesti quella~, il 12; -- ^che mostra~, il 18; -- ^la Rygya~,
+il 26; -- ^Vedei s@i quella~, il 53; -- ^Theresia~, 9. 10; --
+^Ivi @e la figlia~, il 24; -- ^di Tiregia e Theti~, il 29; --
+^Cui la figlia~, il 37; -- ^Ov' @e la figlia~, 43. 53; -- ^de
+Ters$ia~, al ^Cui; -- @E qui la figlia~, Fer.; -- ^Evi la
+figlia~, le prime quattro ediz.; -- ^sorre sue~, il 9; -- ^sore~,
+il 10; -- ^Deydam$ia~, 9. 10; -- ^Deidan$ia~, il 53.
+
+	|115-117.  Tacevansi~ ecc.  Dopo avere i due Poeti
+parlato insieme di tante cose, si tacevano, attenti alla nuova
+materia da trattarsi, gi@a superata la scala, n@e pi@u impediti
+nella vista dalle due sponde.  BENVENUTO.  -- Il Parenti not@o:
+^Di nuovo attenti~ non significa ^di fresco, poco fa~, siccome
+dichiara la Cr., ma sibbene ^Di bel nuovo, Un'altra volta~, lat.
+^iterum, denuo~, poich@e la vista dei poeti era stata alquanto
+interrotta ed impedita dalle sponde del masso fra cui salivano
+(^Ann. Diz.~).  -- Var.  ^Tra li savi ambendui gi@a li poeti~,
+l'8; -- ^Taceansi ambedue~, il 37, (V.).  Scar.; -- ^Tacevansi
+gi@a ambedue i poeti~, il 41; -- ^amendue~, (M.).  Cr., voce
+disapprovata dal Parenti, che legge coi pi@u ^ambedue~,
+irregolare del pari; e preferisco ^ambidue~ di codici autorevoli
+(Bart. Rosc.), pi@u logico, intralasciando le infinite variazioni
+e storpiature di questa voce, che s'incontrano ne' mss.; -- ^Di
+nuovo affetto a riguardar~, il 3, copia d'un sincrono; -- ^e
+riguardando intorno~, il 24, (F.).  (I.).  (N.).  (V.).  Fer.; --
+^a riguardar d'intorno~, quattro e Nid.; -- ^riguardando
+attorno~, il 26; -- ^Di novo~, (F.).  (I.).  (N.); -- ^de
+salire~, il 7; -- ^Libero~, 8. 17.  (F.).  (N.); -- ^da salire~,
+quattro; -- ^del salire~, quattro; -- ^dal salire~, le prime
+quattro ediz.; -- ^da salire e da~, il 21; -- ^et ai pareti~, il
+32; -- ^e dai pareti~, (V.); -- ^da pareti~, le pr. quattro
+ediz.; -- ^e dai pareti~, il Witte ed altri.  <tili presso il
+tronco, e li veniva ingrossando a mano a mano verso la cima,
+acciocch@e persona non vi potesse salire>.  -- Varianti.  ^Si
+degrada~, 7. 8; -- ^si disgrada~, il 37, Lombardi, 2+a~ Romana,
+E. B. Antaldino; -- ^digrada~, i pi@u; -- ^E com'@albori in
+alto~, il 21, err.; -- ^Credo perch@e persona~, nove; -- ^pi@u
+non vada~, il 9.
+
+	|136-138.  Dal lato, onde~ ecc.  Dalla parte della
+roccia, dall'alta riva, cadeva una limpid'acqua sopra i pomi e le
+foglie, andando in su, all'opposto delle nostre che scorrono al
+basso.  BENVENUTO.  -- ^Dal lato~, dal sinistro lato, dalla banda
+del monte; -- ^roccia~, rupe, dal francese ^roche.~  V. ^Inf.~,
+VII, 6; -- ^per le foglie suso~, intendi, su per le foglie del
+detto albero.  LOMB.  -- Per le foglie di quell'albero, senza
+venire in basso.  FRAT.  -- Varianti.  ^Ov' il camin~, il 4; --
+^onde 'l cummino era~, il 15; -- ^era 'nchiuso~, il 43; -- ^il
+cammin~, i pi@u, W.; -- ^dell'alta~, ventitr@e, (M.).  Nid. W.,
+ed @e pi@u elegante; -- ^un licor~, cinque; -- ^Dall'altra
+roccia~, (F.).  (I.).  (N.).  (V.); -- ^E si spandea~, tre, (F.).
+(M.).  (N.); -- ^per le foglie infuso~, 12. 38; -- ^Che si
+spandeva~, parecchi; -- ^in suso~, But.; -- ^per le foglie
+giuso~, il Vaticano 3199.
+
+	|139-141.  Li due poeti~ ecc.  Virgilio e Stazio
+s'accostarono all'albero, e udirono una voce tra que rami
+gridare: Di questo frutto avrete carest$ia.  La gola provoca la
+fame e la sete, e cambia in infermit@a quanto natura aveva dato
+per diletto; e cos@i si compra il vizio a prezzo della vita.
+BENV.  -- ^Avrete caro~, ne sarete privati in pena della
+golosit@a che qui si punisce.  Di ^caro~, sust.  per ^carest$ia.~
+V. il Voc.  LOMB.  -- Varianti.  ^Li due poeti~, i pi@u, Witte,
+Benvenuto; -- ^all'arbor~, cinque, Witte; -- ^all'albor~, tre; --
+^Li dui~, 21. 35; -- ^Ed una voce~, (F.).  (N.).  Witte; -- ^E
+una voce~, (M.).  (I.).  Crusca ecc.; -- ^avete caro~, il 40.
+
+	|142-144.  Poi disse~: ecc.  Parla di M. V., che alle
+nozze di Cana preg@o per gli altri, non per s@e, onde fossero
+provveduti di vino, e mosse G. C. a provvederne con un miracolo,
+affinch@e gli sposi non ne avessero disonore.  BENV.  -- ^Pi@u
+pensava~, ecc.  Ecco esempj della virt@u contraria alla gola.
+Mar$ia, alle nozze di Cana, pi@u che a mangiare, pensava a far
+s@i che lo sposo non avesse vergogna per la mancanza del vino; --
+^ch'or per voi risponde~, la quale sua bocca ora risponde per
+voi; opponendo il merito delle sue virt@u ai vostri eccessi, e
+implorandone il perdono.  Mar$ia @e riguardata dalla Chiesa come
+avvocata dei peccatori penitenti.  BIANCHI.  -- Varianti.
+^Mar$ia d'onde~, (M.).  Nid.; -- ^d'onde~, il Caet.; --
+^amorevoli ed intere~, il 3, copia d'un sincrono; -- ^orevole~,
+tre; -- ^honrevoli~, il 20; -- ^orrevoli~, i pi@u; -- ^che per
+noi~, sei, (M.).  Nidobeatina; -- ^che per voi~, 5. 53; -- ^Che
+la sua bocca~, il 9; -- ^c'or per vo'; -- che or per noi~, il 37.
+
+	|145-147.  E le Romane~ ecc.  Le Romane antiche non
+bevevano vino, per non endere in disonest@a; e Valerio assicura:
+avere un marito uccisa la moglie, sorpresa nel momento che ne
+beveva.  Dalla ubbriachezza alla libidine il passo @e breve,
+nelle donne specialmente.  Seneca lamentava che al tempo suo le
+donne bevessero pi@u vino che gli uomini.  BENV.  -- ^Vini usus
+olim Romanis feminis ignotus fuit, ne scilicet in aliquod dedecus
+prolaberentur~, scrive Valerio Massimo (Lib. II, cap. 1).  Negli
+ultimi anni della Repubblica e in quelli dei primi Cesari, fu
+smodatissimo l'uso del vino nelle donne romane, siccome not@o il
+Portirelli, recando la testimonianza di Orazio (^Od.~ 13, Lib.
+IV), di Marziale (^Epigr.~ 29, Lib. I), e di Giovenale (^Sat.~ 6,
+versi 297 al 304).  DANIELLO.  -- Nabuccodonosor, re della gran
+Babilonia, presa Gerusalemme, men@o seco Gioachimo ed i nobili
+fanciulli, ordinando che quattro di essi fossero istruiti nella
+dottrina de' Caldei, e fossero nutriti con cibi e lautezze
+regali.  Daniele fiss@o in cuor suo di non cibarsi che di legumi,
+e di non dissetarsi che d'acqua pura, e crebbe bellissimo, e Dio
+gli accord@o sapienza per ispiegare le visioni ed i sogni.  BENV.
+-- Il sacro testo dice: ^Pueris his dedit eis scientiam et
+disciplinam in omni libro et sapientiam; Danieli autem
+intelligentiam omnium visionum et somniorum~ (^Dan.~, I, v. 17);
+-- ^savere~, per ^sapere~, usato anche da altri.  V. il Vocab.
+LOMBARDI.  -- Varianti.  ^Antique~, il 3; -- ^per lo bere~, tre;
+-- ^Contente foro~, il 5; -- ^fur dell'acqua~, il 32; -- ~forno
+d'acqua~, il 41; -- ^Dispresi@o~, l'8; -- ^Disprisi@o~, il 9; --
+^ed acquist@o~, quattro, e le prime quattro edizioni; --
+^sapere~, tre, Ferranti, Witte, Viviani, Padovana 1859, e
+Benvenuto, e li seguito; -- ^savere~, Crusca, ecc.
+
+	|148-150.  Lo secol primo~ ecc.  Il secolo di Saturno fu
+detto l'et@a dell'oro, per la purit@a de' costumi; si cibarono di
+ghiande, come cibo il pi@u saporito a saziare la fame; ^e
+nettare~ ecc., e a chi era assetato parve n@ettare ogni
+ruscelletto.  Il ^nettare~ @e vino con infusione d'aromi.  Sotto
+nome di ^ghiande~ vuolsi comprendere ogni frutto.  Dell'et@a di
+Saturno diremo al Canto XXVIII di questa Cantica.  BENV.  --
+^Quant'oro fu bello.~  Invece di dire che fu il ^secol d'oro~
+appellato, dice la ragione per cui cos@i appellato fosse, cio@e,
+perch@e fu, siccome l'oro, bello e senza neo di macchia.  -- ^Fe'
+savorose~ ecc.  Vuol dire che in que' primi tempi non si mangiava
+n@e si beveva, se non per saziare la fame e la sete, e non per
+ghiottoner$ia, siccome ne' tempi posteriori, le ghiande
+divenivano saporite, e l'acqua de' ruscelli pareva un n@ettare,
+bevanda degli Dei immaginata dai poeti.  LOMB.  -- Qui vuol dire
+che in quel tempo non si mangiava n@e si beveva che per bisogno,
+non per gola, studiosa sempre di nuove delicanze.  BIANCHI.  --
+Varianti.  ^Lo secol primo, che quant'or fu bello~, tre, Viviani,
+Witte.  Al Viviani parve migliore della Vulgata, rendendo il
+^che~ pi@u armonico il verso, e connettendo con pi@u naturalezza
+le sentenze di questa terzina; -- ^primo quanto oro~, Benv., le
+prime quattro ediz., e lo Scarabelli con testi autorevoli; --
+^quando oro~, il 18; -- ^quand'era fu~, il 21; -- ^Fe' saporose~,
+cinque de' m.  s., W., lettera del Bart. d'Udine; -- ^savorose~,
+i pi@u, e le prime quattro edizioni.  Accetto ^saporose~,
+scorgendola nel testo di Benv., ed avuto riguardo alla sua
+etimolog$ia latina; -- ^le giande~, (I.); -- ^E necter fe' con
+sete~, il 5; -- ^con sete~, tutti i m. s., le antiche ediz.,
+Benv. Buti, e li pi@u de' moderni; -- ^per sete~, Crusca, Viv.
+Fer. Frat., che leggono anche ^per fame; -- ^necter, nettar,
+n@ettare~, variamente; -- ^onne ruscello~, il 43; -- ^ogne
+ruscello~, (F.).  (N.).
+
+	|151-154.  Mele e locuste~ ecc.  ^Mele~, il dolce liquore
+delle api, o, secondo alcuni, pomi silvestri; -- ^locuste~,
+secondo il Grisostomo, animaletti saltellanti e fugaci,
+raffiguranti l'uomo che salta vagando in opere vane, errando
+sempre all'avvenante.  S.  Giovanni Battista and@o nel deserto a
+sette anni; e nel Vangelo @e detto: ^Fra i nati di donna non
+surse il maggiore di Gio. Battista.~ Ma perch@e portare l'esempio
+di un santo fin nell'utero della madre, quando troviamo eroi, che
+per solo amore di gloria mondana furono amantissimi di sobriet@a:
+Giulio Cesare, Annibale e tanti altri?  BENVENUTO.  -- ^Locuste~,
+cime tenerelle degli alberi, non cavallette, ^come alcuni
+scioccamente intendono.~  DANIELLO.  -- Il Buti spiega ^radici
+d'erba~; il Tassoni: ^cime di erbe~; l'Amati, con l'autorit@a del
+Du Cange, l'^erba campese~, amara -- ^Langusta~; il Parenti sta
+coi seguaci del Tirinio, di cui ora diremo.  -- Il Tirino, chiosa
+il sacro testo: ^Joannes locustas et mel silvester edebat~
+(MARC., I, v. 6), e continua col dire: che Beza intese ^pyra
+silvestria~; Eutimio, ^arborum, frondiumque summitates~; ma crede
+migliore l'opinione di Orig$ene, d'Ilario, di Ambrogio, del
+Crisostomo ed Agostino, che tengono ^locuste~ per cavallette,
+cibo comune agli Etiopi, ai Libj, ai Parti e ad altri orientali,
+testimonj Plinio e S. Girolamo; cibo permesso pure agli Ebrei nel
+^Levitico~ (cap. XI, v. 22).  Conclude il Lombardi che il
+Daniello fu troppo corrivo a dare agli altri dello sciocco.  --
+^Quanto per l'Evangelio~ ecc., per quelle parole di Ges@u Cristo;
+^Non surrexit inter natos mulierum major Joanne Baptista~
+(MATTH., XI, v. 11).  -- Varianti.  ^Mel e locuste~, 12. 53; --
+^Mele, locuste~, quattro, (F.).  (I.).  (N.); -- ^Mele e
+locuste~, (M.).  Cr. e li pi@u; -- ^nudrir lo Baptista~, 3. 6; --
+^Che nodric@o il Batista~, tre; -- ^nodr$iro~, tre, (F.).  (I.).
+(N.); -- ^nutr$iro~, il 35, (M.).  Nid.; -- ^il Batista~, i pi@u;
+-- ^nel deserto~, il 3, copia di un sincrono, parecchi altri,
+Fer. Pad. 1822 e 1859, Benv., lettera che accetto; i pi@u: ^nel
+diserto~, lettera da rifiutarsi; -- ^Per cui gli @e glor,ioso~,
+il 26; -- ^Per ch'egli al glor,ioso @e~, il 33; -- ^Per ch'elli~,
+(F.).  (N.).  Fer.; -- ^Per ch'egli~, Benvenuto, (M.).  Cr.; --
+^Quanto per lo Vangelio~, quattordici de' miei spogli, cinque
+delle prime edizioni; -- ^lo Evangelio n'@e~, cinque; -- ^n'@e
+aperto~, sedici, (M.).  (I.).  (N.).  (V.).  Nid.  Benv. Pad.
+1859, Pogg.; -- ^l'Evangelico~, (M.).  Cr. Viv.; -- ^per lo
+Evangelio~, il Fer.; -- ^per l'Evangelio~, ecc.  END OF CANTO:
+Computer Input Corporation: 02-09-90 Missing Pages: last portion
+of line #16-18 thru the upper portion
+

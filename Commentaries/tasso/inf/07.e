@@ -1,0 +1,225 @@
+	|1.~ |(ed.  Rosini)~
+Oh Plutone! oh Satan! oh Satan! mi dolgo.  [Da Fino]
+
+	|2.~ |(ed.  Rosini)~
+Pluto nel canto settimo, quarto cerchio.  [Sessa]
+
+	|(ed.  Celani)~
+Cominci@o Pluto con la voce ^chioccia~
+
+	|3.~ |(ed.  Rosini)~
+Virgilio.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+^Labbia~, singolare per aspetto, siccome i Latini dicono ^os~ non solo 
+per la bocca, ma per tutto il volto.  [Sessa]
+
+	|(ed.  Celani)~
+Poi si rivolse a quello ^enfiate labbia,~
+
+	|10.~ |(ed.  Rosini)~
+^Cupo~, fondo.  [Da Fino]
+
+	|12.~ |(ed.  Rosini)~
+Nota ^strupo~ in questo significato.  [Sessa]
+
+^Strupo~, peccato dell'Angelo.  [Da Fino]
+
+	|(ed.  Celani)~
+Fe la ^vendetta del superbo strupo.~
+
+	|13-14.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+^Fiacca~, senza la particella ^si~.  [Sessa]
+
+	|16.~ |(ed.  Rosini)~
+^Lacca~, ruina.  [Da Fino]
+
+	|(ed.  Celani)~
+Cos@i scendemmo ne la quarta ^lacca,~
+	^lacca~
+
+	|19.~ |(ed.  Rosini)~
+^Stipa~, calca.  [Da Fino]
+
+	|20.~ |(ed.  Rosini)~
+^Viddi~ per ^d~ doppia.  [Sessa]
+
+	|21.~ |(ed.  Rosini)~
+^Scipa~, dissipa.  [Da Fino]
+
+	|(ed.  Celani)~
+Et perch@e nostra colpa si ne ^scipa?~
+	^scipa~
+
+	|22-23.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+^Riddi~, balli.  [Da Fino]
+
+	|(ed.  Celani)~
+Cos@i convien, che qui la gente ^riddi.~
+	^riddi~
+
+	|27.~ |(ed.  Rosini)~
+^Poppa~, petto.  [Da Fino]
+
+	|28.~ |(ed.  Rosini)~
+^Pur li~, quivi.  [Da Fino]
+
+	|30.~ |(ed.  Celani)~
+Gridando, perch@e tiene e perch@e ^burli?~
+
+	|31.~ |(ed.  Rosini)~
+^Tetro~, oscuro.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+Ontoso.  [richiamo marginale] [Sessa]
+
+^Ontoso metro~, dispettoso verso.  [Da Fino]
+
+	|38.~ |(ed.  Celani)~
+Che gente @e questa et se tutti fur ^cherci~
+
+	|39.~ |(ed.  Rosini)~
+Chercuti.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Questi ^chercuti~ a la sinistra nostra.
+
+	|42.~ |(ed.  Rosini)~
+^Ferci~, cio@e nella vita, come si dice ^ci nacqui~, nel mondo.  [Sessa]
+
+Non spesero mai con misura.  Avarizia e prodigalit@a.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+Dispaja.  [richiamo marginale] [Sessa]
+
+^Dispaja~, separa.  [Da Fino]
+
+	|(ed.  Celani)~
+Ove colpa contraria ^gli dispaia.~
+
+	|53.~ |(ed.  Rosini)~
+^I~, per li.  [Sessa]
+
+	|(ed.  Celani)~
+La sconoscente vita, che i fe sozzi,
+	^i f@e~
+
+	|54.~ |(ed.  Rosini)~
+Non si posson riconoscere.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^A gli duo cozzi~, riscontrandosi.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Avari e prodighi.  [Da Fino]
+
+	|60.~ |(ed.  Celani)~
+Qual ella sia, parole non ci ^appulcro.~
+
+	|61.~ |(ed.  Rosini)~
+^Buffa~, vento.  [Da Fino]
+
+	|(ed.  Celani)~
+Hor pu@o Figliuol veder la corta ^buffa~
+
+	|65.~ |(ed.  Celani)~
+O che gi@a fu, di quest'^anime stanche~
+
+	|67.~ |(ed.  Rosini)~
+^Dissi lui~, cos@i quasi sempre senza la particella ^a~.  [Sessa]
+
+	|(ed.  Celani)~
+Maestro: diss'i lui, hor ^mi di anche:~
+
+	|69.~ |(ed.  Rosini)~
+^Tra branche~, in mano.  [Da Fino]
+
+	|72.~ |(ed.  Rosini)~
+^Imbocche~, intenda.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+Dio, somma sapienza.  [Da Fino]
+
+	|(ed.  Celani)~
+Colui lo cui savor ^tutto trascende~
+
+	|79.~ |(ed.  Rosini)~
+Permutasse.  [richiamo marginale] [Sessa]
+
+^vani~, mondani.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+I quali non possono ne' beni di Fortuna.  [Da Fino]
+
+	|82.~ |(ed.  Rosini)~
+Impera.  [richiamo marginale] [Sessa]
+
+	|84.~ |(ed.  Rosini)~
+^Angue~, serpe.  [Da Fino]
+
+	|89.~ |(ed.  Rosini)~
+Nascendo dal moto dei cieli.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+^Ma ella s'@e beata~; ^s'@e~ elegantissimo.  [Giolito]
+
+	|(ed.  Celani)~
+Ma ella ^s'@e beata~; et ci@o non ode;
+	^s'@e, elegantissimo~
+
+	|95.~ |(ed.  Rosini)~
+^Prime creature~, sfere.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Volve sua spera~, rivolge questi beni mondani.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Dove @e cosa di maggior compassione.  [Da Fino]
+
+	|98.~ |(ed.  Rosini)~
+Passava mezza notte.  [Da Fino]
+
+	|99.~ |(ed.  Celani)~
+^Quando mi mossi, e 'l troppo~ star si vieta.
+
+	|103.~ |(ed.  Rosini)~
+^Persa~, oscura.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^Diversa~, forse diseguale, malvagia.  [Sessa]
+
+	|(ed.  Celani)~
+Entrammo gi@u per una ^via diversa.~
+	^via diversa~
+
+	|108.~ |(ed.  Rosini)~
+^Grige~, bige.  [Da Fino]
+
+	|110.~ |(ed.  Rosini)~
+Gl'iracondi nel quinto cerchio sotto gli avari.  [Sessa]
+
+	|116.~ |(ed.  Rosini)~
+Iracondi.  [Da Fino]
+
+	|122.~ |(ed.  Rosini)~
+Aer dolce.  [richiamo marginale] [Sessa]
+
+	|123.~ |(ed.  Rosini)~
+Perch@e gli accidiosi con gl'iracondi?  forse per la ragione per la 
+quale pose gli avari co' prodighi.  Eppur non pu@o farlo per la stessa 
+ragione.  [Sessa]
+
+^accidioso fummo~, fummo che si ferma.  [Da Fino]
+
+	|127.~ |(ed.  Rosini)~
+Pozza.  [richiamo marginale] [Sessa]
+
+	|130.~ |(ed.  Rosini)~
+Al dasezzo.  [richiamo marginale] [Sessa]
+

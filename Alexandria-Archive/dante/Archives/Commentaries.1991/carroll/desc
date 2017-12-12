@@ -1,0 +1,19 @@
+..COMM:
+Carroll
+..DTYP:
+D
+..LANG:
+English
+..AUTH:
+John S. Carroll
+..PUBD:
+1904
+..PUBL:
+Exiles of Eternity (Inf.); Prisoners of Hope (Purg.); In Patria
+(Par.).  Expositions by John S. Carroll.  London, Hodder and
+Stoughton, 1904-1911
+..DENT:
+KDEM
+..EDTR:
+Robert Hollander with Andrew Shifflett
+..LODD:

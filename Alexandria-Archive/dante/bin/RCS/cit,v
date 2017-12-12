@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.03.09;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Extract citations from commentary text.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh
+
+# Extract citations from commentary text.
+
+# Assumptions:
+#	input files named [0-9]*.e
+#	output into bib.cit and nonbib.cit
+
+if ($#argv < 2) then
+	echo 'Usage: cit  {In | Pu | Pa}  *.e'
+	exit 1
+endif
+onintr cleanup
+
+set TMPa = /tmp/cita$$
+set TMPb = /tmp/citb$$
+set TAG = $1
+shift
+
+foreach c ($argv)
+	echo -n $c ' '
+	citation -C $TAG -c `basename $c .e` $c >> $TMPa
+end
+echo ''
+
+sed -e 's/\.0/./g' $TMPa > $TMPb
+
+grep '~' $TMPb  |  sort +0 -2 +2n -3  >  nonbib.cit
+grep -v '~' $TMPb  |  sort +0 -1 +1n -2  >  bib.cit
+
+cleanup:
+rm -f $TMPa $TMPb
+@

@@ -1,0 +1,133 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.3
+date     89.04.03.18.10.13;  author dante;  state Exp;
+branches ;
+next     1.2;
+
+1.2
+date     88.09.21.13.42.45;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     88.09.01.11.30.48;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Get Back Reference
+@
+
+
+1.3
+log
+@preset for quicker printing
+@
+text
+@{GETBR}
+
+:COMPARE @@SELECTION
+     TO "S"
+	:RETURN
+
+     TO "D"
+	:SET @@STEXT ~display~
+
+     TO "P"
+	:SET @@STEXT ~print~
+
+     TO "R"
+	:SET @@STEXT ~redirect~
+
+     TO "M"
+	:SET @@STEXT ~modification~
+:DONE
+
+:COMPARE @@BR
+     TO "?"
+	:COMPARE #MAXQUERY
+	     TO "1"
+		:SET @@BR ~1~
+	     TO "0"
+		:SET @@BR ~0~
+	:DONE
+
+     TO "?"
+	:SET @@TMP ~Current top #ZM queries:~
+	:COMPARE #MAXQUERY
+	     TO "0-#ZM"
+		:SET @@TMP ~Current queries:~
+	:DONE
+
+	:PRINT ~@@HEADING@@TMP\n~
+	:BRS QUERIES USING ~T#ZM~
+	:PRINT ~\n~
+
+	:GET @@BR -
+~Enter Query Number for @@STEXT; \o2H\f2 for Help; \o2S\f2 to Search [@@BD]: ~ -
+	 "H|h|S|s|0-@@BDEFAULT|"
+	:PARSE @@BR UPPER
+
+	:COMPARE @@BR
+	     TO "S"
+		:SET @@SELECTION ~S~
+		:RETURN
+	     TO "H"
+		:SET @@BR ~?~
+		:MENU ~GETBR_H~
+	     TO ""
+		:SET @@BR ~@@BDEFAULT~
+	:DONE
+:DONE
+
+:BRS PRINT BACKREF ~@@BR~
+:COMPARE #RESULT
+     TO "B"
+	:CLEAR STACK
+	:PRINT ~\n\o5 No documents for query @@BR \f5\n~
+	:PAUSE
+	:SET @@BR ~?~
+	:MENU
+:DONE
+
+:SET @@CAVAIL ~#LEFTOVER~
+:SET @@PTEXT ~~
+
+:COMPARE @@SELECTION
+     TO "M|P|R"
+	:MENU ~INITD_~
+:DONE
+
+:SET @@TMP ~~
+:MENU ~GETPD_~
+@
+
+
+1.2
+log
+@hacked TMP to equal ~F~ as temporary way to skip print options menu.
+I expect to undo this later.
+@
+text
+@d75 1
+a75 1
+:SET @@TMP ~F~
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d75 1
+a75 1
+:SET @@TMP ~~
+@

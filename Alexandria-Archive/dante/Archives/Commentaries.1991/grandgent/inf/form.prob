@@ -1,0 +1,44 @@
+Checking file 01.f
+Checking file 02.f
+Checking file 03.f
+Checking file 04.f
+Checking file 05.f
+Checking file 06.f
+Checking file 07.f
+Checking file 08.f
+Error at line 44: First indent not five spaces
+Error at line 77: First indent not five spaces
+Checking file 09.f
+Checking file 10.f
+Checking file 11.f
+Checking file 12.f
+Checking file 13.f
+Checking file 14.f
+Error at line 112: First indent not five spaces
+Checking file 15.f
+Checking file 16.f
+Checking file 17.f
+Checking file 18.f
+Checking file 19.f
+Error at line 42: Spaces/Tabs used in paragraph
+Checking file 20.f
+Checking file 21.f
+Checking file 22.f
+Checking file 23.f
+Checking file 24.f
+Checking file 25.f
+Error at line 93: First indent not five spaces
+Checking file 26.f
+Checking file 27.f
+Checking file 28.f
+Checking file 29.f
+Checking file 30.f
+Error at line 157: First indent not five spaces
+Checking file 31.f
+Error at line 149: First indent not five spaces
+Error at line 155: First indent not five spaces
+Error at line 165: First indent not five spaces
+Checking file 32.f
+Checking file 33.f
+Checking file 34.f
+Error at line 74: Spaces used at head of paragraph

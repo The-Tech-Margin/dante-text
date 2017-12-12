@@ -1,0 +1,66 @@
+{GOPTS_HM}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Modify Option Help\f2\n~
+
+:PRINT ~#HEADING
+     This  selection  allows  you  to  modify  documents  in the current
+     database  using  an  available text-editor.  You should be familiar
+     with  the  editor  you  will  be using. If you would like to change
+     editors  see  the  System  Administrator  or  refer  to  the System
+     Administrator Guide supplied with the system.
+
+     You can specify the documents you wish to modify using the document
+     number  that  appeared as the result of the last search.   You will
+     enter into Update Mode and will receive the prompt:
+
+		Entering Update Mode . . .
+
+		BRS Update Mode -- Strike Return for NEXT
+
+     Update Mode is a front end to the editor that allows you to process
+     and  track  the  documents that you will be modifying.  There are a
+     number of Subcommands that can be executed from Update Mode. To get
+     a  list  of  these you can enter "h" in response to the Update Mode
+     prompt.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     When  you  modify  a  document  in  a  database you first enter the
+     text-editor.  You will be supplied with data as it presently exists
+     in  the  document,  including  input paragraph labels that mark the
+     beginning of each document.  You may then make modifications to the
+     document.  Before  loading the document it has to be verified; that
+     is,  checked  for  proper  content.   If  the  document  fails  the
+     verification  process  you are given the opportunity to re-edit the
+     document. After the document passes the verification process, it is
+     ready to be "reloaded" into the database.
+
+     Most users find it easiest to use the NEXT Subcommand, which is the
+     default  in  Update  Mode. NEXT automatically verifies the document
+     upon exiting the editor.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     The available Update Mode Subcommands:
+
+	  NEXT - edit and verify a document.
+
+	  EDIT - edit a document.
+
+	VERIFY - verify a document for correct content type.
+
+	STATUS - display status of documents being added.
+
+        CANCEL - exit  Update  Mode  and cancel loads. You will be asked
+                 for confirmation.
+
+         PAUSE - exit  Update  Mode  but  save  the  work  that you have
+                 already done. You can resume a paused update at a later
+                 time.
+
+	  LOAD - load documents into the database.
+
+	  HELP - display a list of these commands.\n~
+
+:PAUSE BOTTOM
+:RETURN

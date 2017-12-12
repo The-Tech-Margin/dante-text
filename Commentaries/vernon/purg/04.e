@@ -1,0 +1,121 @@
+	|Proemio.~  Incomincia il quarto chapitolo della canticha del 
+purghatoro.
+
+	|1-24.~ 
+
+   ^Quando per dilettanze over per doglie~
+   ^che alchuna virt@u nostra comprenda~
+   ^l'anima bene a esse si racchoglie.~
+
+Trattato il nostro altore della seconda spezie cio@e degli 
+iscomunichati ora intende trattare d'un'altra spezie di giente che 
+s'indugiano infino alla loro fine a pentersi de' suoi pecchati e 
+comincia cos@i questo chapitolo continuando l'altore a disposizione del 
+suo animo ch'egli andava tanto fisso e atento col suo animo parlando 
+insieme col detto re Manfredi perch@e gli piaciea i[l] ragionare con 
+esso lui s@i cche egli era stato da ogni altro pensiero e volont@a 
+rimosso.  E andando cholui gran pezza e non se ne acorgiendo si llo ti 
+dicie l'altore in quella comperazione chome comincia questo chapitolo 
+diciendo un savio che Socrates assai fiate istava da l'uno levare del 
+sole all'altro ch'egli non batteva veruno senso n@e menbro contemplando 
+e imaginando.  E questo assai possiamo vedere chiaro imper@o che tutto 
+di questo adiviene.  Ancora dicie l'altore che antichamente credeano e 
+dicievano i filoxafi che i[n] noi erano tre anime cio@e anima 
+vegietativa e questa @e nell'erbe e negli arbori che creschono.  E 
+anima sensitiva e questa @e nelle bestie pesci e ucciegli e altri 
+animali.  Et anima razionale e questa @e nelle persone e uomini s@i che 
+la loro operazione era ereticha e contro alla nostra fede.  Et bene 
+vero che lla nostra anima @e tutt'e tre queste virt@u e potenzie 
+ch'ella @e vegietativa imper@o ch'ella crescie.  Ed @e sensitiva 
+imper@o ch'ella sente e ha sentimento.  Ed @e razionale imper@o 
+ch'ell'ha in s@e ragione memoria e intelletto e cognioscimento sopra 
+ogni altra creatura mondana.  Ma non che ll'anima nostra possa pensare 
+fissa a una cosa e lla vegietativa aoperi a un'altra cosa e lla 
+razionale aoperi a un'altra cosa.  S@i cche in questo assai erravano 
+gli antichi filoxafi.  E per@o dicie l'altore cos@i diciendo
+
+   ^Par ch'a nnulla potenzia pi@u intenda~
+   ^e quest'@e contro a quell'eror che crede~
+   ^ch'un'anima sovr'altra in noi s'accenda.~
+
+   ^Maggiore aperta molte volte inpruna~
+   ^chon una forchatella di suo spine~
+   ^l'uom della villa quando l'uva inbruna.~
+
+	|25-51.~  In questa seconda parte l'altore discrive il chamino 
+ch'eglino fanno quando si partono dare Manfredi e discrive la terza 
+entrata grandissima e malagievole e discrivela in questa comparazione 
+cos@i diciendo
+
+   ^Vassi in Sa[n] lLeo e disciendesi i[n] Noli~
+   ^montasi su im Bismantova in chacume~
+   ^con esso i pi@e ma qui convien c'om voli.~
+
+Sa[n] lLeo @e una citt@a che @e in Romagnia ed @e fortissima e 
+altissima da non poterla offenderla tutto il mondo e ha dall'uno de' 
+lati una ruina che non vi si pu@o andare tanto @e pericolosa.  Noli si 
+@e una terra che @e nel contado di Gienova ed @e il luogho molto 
+profondo......  si @e montagna grandissima e malagievole insino in 
+sulla cima ed @e nel contado d'Anzo.  E questo none importa altro a 
+dire se non che quando l'uomo @e chaduto allo inferno cio@e auso agli 
+pecchati egli @e gran faticha a salire al monte della penitenza e a 
+venire al purghatoro.  E dicie l'altore che questa via era malagievole 
+ed era ferocissima intanto che ll'uno conveniva andare dietro all'altro 
+e da ogni lato era la profondit@a grandissima dell'abisso.  E dicie 
+ch'assai volte gli convenia andare charponi cholle mani per terra s@i 
+era diritta e alta quella via.  E questo non viene altro a dire se non 
+quando l'uomo escie de' pecchati e viene alle virt@u ti conviene tenere 
+per lo mezzo dove stanno sempre le virt@u s@i cche tu no' richaggia poi 
+ne' vizi per li piedi e per le mani per terra e dei intendere pe' piedi 
+la confessione e lle fizione [sic] tua.  E per le mani le buone 
+operazione e lle virt@u attive.  Che non basta all'uomo pure avere la 
+effezione [sic] del benfare s'egli non vi aggiugnie insieme 
+l'operazione del bene operare.
+
+	|52-84.~ 
+
+   ^A sseder ci ponemo ivi amendui~
+   ^volti a levante ond'eravan saliti~
+   ^che suole a righuardar giovare altrui.~
+
+In questa terza parte fa l'altore una disgessione [sic] del luogho gli 
+erano di sotto e si llo ti mostra per astrologia de' circhuli del cielo 
+nel quale va il sole e gli altri pianeti cio@e circhulo meridionale 
+dove la tramontana e ll'altre stelle chiamate l'orse alla qual 
+tramontana navichano tutti i navighanti del mondo a circhulo giudeccho 
+nel quale sta il sole e gli altri pianeti e mai di quel circhulo non 
+eschono [sic].  Chastore e Polluce figliuoli che furono del re Jove 
+togli per lo segnio di Giemini cos@i diciendo il nostro altore Dante
+
+   ^Ond'egli a mme se Chastore e Pollucie~
+   ^fossono in compagnia di quello specchio~
+   ^che ssu e gi@u del suo lume conducie.~
+
+	|85-105.~ 
+
+   ^Ma se ti piacie volentier saprei~
+   ^quanto avemo ad andare che 'l poggio sale~
+   ^pi@u che salir non posson gli occhi miei.~
+
+In questa quarta parte l'altore pone della terza parte di giente che si 
+purghano di fuori del purghatoro cio@e l'antipurghatorio e parla di 
+loro in gienerale che nne vedesse grandixima masnada di loro e pone che 
+questi cotali sono quegli che per gra[n] nigrigienzia e pigrizia 
+s'indugiano a pentere di loro pecchati tra un gra[n] rovinamento di 
+sassi perch@e 'l sasso @e chosa che non si muove se non per altrui @e 
+mosso e questi tali pigri fanno il simigliante per la loro negligienzia.
+
+	|106-139.~ 
+
+   ^E un di loro che mi sembrava lasso~
+   ^sedeva e abracciava le ginocchia~
+   ^tenendo il viso gi@u tra esse basso.~
+
+In questa quinta e ultima parte l'altore tratta d'uno di questi 
+ispiriti in partichulare e fingie che lui il vedesse o richonosciesse 
+il quale fu al mondo persona pigra e lenta e fu quello ispirito che 
+rispuose all'altore facciendosi beffe della loro pigrizzia ch'egli 
+andasse su egli ch'era ghagliardo e tutto d@i dicono chos@i questi 
+chotali pigri a chi gli riprende della loro nigligienzia e pigrizia.  E 
+questo spirito che rispuose all'altore fu lo spirito di Belaqua e bene 
+gli consegniava il nome a lui e a tutti i suoi parenti.

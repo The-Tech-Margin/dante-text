@@ -1,0 +1,849 @@
+	|SUMMARIUM.~  CANTUS DECIMUS SEXTUS, ^in quo dictus
+dominus Cacciaguida commemorat veteres familias florentinorum.~
+
+	|Proemio.~  ^O POCA nostra nobilt@a di sangue.~  Postquam
+in superiori capitulo proxime praecedenti autor noster introduxit
+unum spiritum illustrem de sua domo qui narravit aliqua in
+generali de praedecessoribus suis, et mutationem status suae
+civitatis; nunc consequenter in isto XVI capitulo facit dictum
+spiritum narrare aliqua in particulari de sua genealogia et
+nobilitate civitatis.  Et totum praesens capitulum potest
+breviter dividi in quatuor partes generales; in prima quarum
+autor arguit vanam gloriam nobilitatis sanguinis.  In secunda
+dictus Cacciaguida ad petitionem autoris describit suam originem
+et domus suae, ibi: ^Dal voi.~  In tertia dictus spiritus
+describit qualitatem status suae civitatis, ibi: ^Tutti color.~ 
+In quarta et ultima describit breviter aliquot praeclaras
+familias dictae civitatis, ibi: ^Io vidi gli Ughi.~  
+
+	|1-6.~  Ad primum ergo dico quod autor arguit vanam
+gloriam quam quis recipit ex nobilitate sanguinis.  Ad cuius
+intelligentiam est praenotandum quod vera nobilitas est virtus
+animi; nobilitas vero civilis est etc., ut dicit philosophus. 
+Modo ad propositum autor erat nobilissimus vera nobilitate
+virtutis et scientiae; et tamen gloriatus est in mente sua quando
+audivit narrari antiquam nobilitatem sui sanguinis: ideo
+apostrophat ad ipsam nobilitatem parentum ostendens vim et
+efficaciam eius: |O poca nostra nobilt@a~, scilicet, humana, |di
+sangue~, scilicet, maiorum et progenitorum; et dicit: |poca~,
+respectu verae nobilitatis, |non mi sar@a mai mirabil cosa se tu
+fai la gente gloriar di te quaggi@u~, scilicet, in isto mundo
+mortali, |dove l'affetto nostro langue~, idest, ubi appetitus
+noster corruptus detorquetur a via verae felicitatis et gloriae. 
+Et ecce causam quare non mirabor: |che~, idest, quia, |io me ne
+gloriai l@a dove appetito non si torce~, idest, ubi appetitus
+humanus est rectus et obediens rationi; sed exponit se dicens:
+|dico nel cielo.~  Sed hic statim oritur pulcra quaestio: quomodo
+autor potuit habere appetitum inanis gloriae sanguinis, cum talis
+nobilitas non sit ibi, nec etiam possit ibi appeti, quia ibi non
+potest esse peccatum?  Dicendum breviter quod autor loquitur de
+paradiso morali; erat enim nunc mentaliter non realiter, nec vere
+in coelo.  Modo autor non vult addicere nisi quod tantus et tam
+fortis est appetitus gloriae, quod non solum invadit mentes
+terrenas hominum vacantium vanis mundi, sed etiam mentes
+coelestes vacantium speculationi divinorum, sicut philosophorum
+et theologorum.  Nam multi magni et sancti doctores fecerunt
+libenter memoriam et laudem de suis parentibus et
+praedecessoribus; ex hoc forte nimium gloriati et super
+veritatem.  
+
+	|7-9.  Ben se' tu.~  Hic autor probat quod dixit de
+nobilitate, scilicet quod sit pauca, quia brevis est, et cito
+finitur.  Hic autem exprimit sub propriissima metaphora mantelli,
+dicens: |Tu~, supple, nobilitas, |ben se' manto~; sicut enim
+mantellum tegit et velat omnem paupertatem et maculam pannorum,
+ita nobilitas sanguinis celat et occultat vilitatem et
+turpitudinem vitiorum intrinsecorum; et dicit: |che tosto
+raccorce~, idest, diminueris in brevi tempore; unde dicit: |s@i
+che lo tempo va d'intorno con le force~, scilicet, auferendo et
+defalcando paullatim illam a nobis, sicut sartor cum forficibus
+recidit et resecat de chlamyde quando est nimis longa.  Et hoc
+accidit, |se non s'appon di die in die~, idest, si non additur
+gradatim ipsi nobilitati; quando enim nobilitas generis
+transfunditur de uno in alium valorosum, tunc continuo crescit et
+lucescit; sed quando cadit in degeneres, tunc cito deficit: unde
+videmus de facto quod ut plurimum nobiles et clarae familiae
+terminantur in aliquo imbecilli et tristi captivo.
+
+	|10-12.  Dal voi.~  Ista est secunda pars generalis, in
+qua autor describit specialiter originem domus suae; et primo
+ostendit quomodo ad captandam benevolentiam ipse fuerit usus
+magna reverentia loquendo illi Cacciaguidae maiori suo.  Et
+breviter vult dicere quod coepit loqui blande, dicendo pluraliter
+illi |vos~; quo modo loquendi primo usi sunt romani erga
+Caesarem.  Sicut enim scribit Lucanus: cum Caesar, fugato Pompeio
+et Senatu ex Italia, venisset Romam, et illam ordinasset pro
+libito voluntatis, translatis in se omnibus dignitatibus, romani
+adulanter loquebantur illi in plurali, dicentes: quid
+praecipitis, domine imperator, perpetue dictator? quid mandat
+vestra maiestas excelsa? et ita de similibus.  Ad propositum ergo
+dicit autor: ego feci erga istum maiorem meum, sicut olim romani
+erga maximum Caesarem.  Ordina sic literam, |Le parole mie
+ricominciaron~, scilicet, persuadendo, |dal voi~, quia scilicet,
+coepi dicere: vos; et dicit, |che~, idest, quod genus loquendi,
+|Roma prima sofferie~ primo passa est olim tempore Caesaris; vel
+secundum aliam literam, |che prima sofferie~, idest, quod primo
+oblatum fuit |a Roma~, idest, a romanis Caesari.  Et dicit, |in
+che~, idest, in quo modo loquendi pluraliter, |la sua famiglia
+men persevra~, quia hodie romani minus utuntur tali locutione
+caeteris, immo non dicerent papae et imperatori, nisi tu, et ita
+populi vicini Romae; sed adhuc multi populi in Lombardia et
+Tuscia servant illum morem antiquum.  
+
+	|13-15.  Onde.~  Hic autor antequam prosequeretur quod
+incoepit interponit actum Beatricis; et fingit pulcre quod
+Beatrix risit de tali persuasione adulatoria, quia vidit
+persuasionem illam tendere ad inanem gloriam sui; et explicat
+risum illum per comparationem propriam.  Unde dicit: |Onde
+Beatrice ch'era un poco scevra~, idest, separata aliquantulum ab
+eo, quia, ut jam dictum est, autor modicum trahebatur a vento
+gloriae, et sic modicum recesserat a Beatrice, |parve ridendo
+quella che tossio al primo fallo scritto di Ginevra~, idest, ad
+osculum quod fuit primum fallum amoris Genevrae, de quo scriptum
+est in Inferno.  Cum enim Lancillottus pervenisset ad colloquium
+cum regina Genevra opera principis Galeoti, nec auderet prae
+nimio pudore pandere flammam amoris sui, princeps Galeotus
+interposuit se, et fecit eos pervenire ad osculum: tunc quaedam
+domina nomine Damma socia reginae perpendens de actu, tussivit et
+spuit, quasi dicens: bene te video; ita in proposito Beatrix
+risit nunc, quasi dicat: bene audio te, vel tu bene audiris, cave
+quid dicas.  
+
+	|16-21.  Io cominciai.~  Hic autor incipit orationem suam
+ad dominum Cacciaguidam, et primo facit exordium, in quo captat
+benevolentiam, primo a persona auditoris, multipliciter, dicens:
+|Io cominciai~, supple dicere continuans me ad primum dictum
+inchoatum: |Voi siete il padre mio~, quia scilicet principium
+generis mei, |voi mi date a parlar tutta baldezza~, quantam,
+supple, habeo, |voi mi levate s@i ch'io son pi@u ch'io~; quasi
+dicat: erigitis me supra, idest, supra vires humanas; et captat
+benevolentiam a persona sui, ostendens se capere immensam
+laetitiam ex verbis eius; unde dicit: |la mente mia che fa
+letizia di s@e, s'empie d'allegrezza per tanti rivi~, quasi dicat:
+ita ex omni parte repletur laetitia, quae tamen erat prius in se
+laeta.  Unde dicit; |perch@e pu@o sostener che non si spezza~,
+scilicet, propter ipsam plenitudinem, quia potest aliunde
+prorumpere laetitiam, quia scilicet, non est dare vacuum in mente
+mea.  
+
+	|22-27.  Ditemi.~  Hic autor praemisso exordio nunc facit
+suam petitionem, et petit quatuor: primo qui fuerint
+praedecessores sui, dicens: |O cara mia primizia~, idest, o carae
+primae antiquae meae, |ditemi dunque, quai furo gli antichi
+vostri~, scilicet, ante vos.  Secundo petit qui anni currebant in
+pueritia sua; unde dicit: |e quai fur gli anni~, scilicet,
+Incarnationis Domini; nam Tusci capiunt annos Domini ab
+Incarnatione, Lombardi vero a Nativitate, |che si segnaro in
+vostra puerizia~, idest, tempore nativitatis vestrae: omnia enim
+facta describuntur apud christianos ab annis Domini, sicut olim
+describebantur a consulibus, a principibus; immo usque in
+hodiernam diem Hispani adhuc capiunt in suis scripturis heram a
+tempore Caesaris, dicentes: hera Caesaris millesima tercentesima
+etc.  Tertio petit de magnitudine suae civitatis, dicens: |ditemi
+dell'ovil di san Giovanni~, idest, de Florentia, cuius patronus
+est Johannes Baptista, qui fuit acceptus, mutato Marte, sicut
+dictum est in Inferno.  Vocat autem Florentiam ovile
+similitudinarie, quia populus est tamquam grex ovium multarum sub
+uno pastore, sub una lege viventium.  Quarto petit de familiis
+clarioribus antiquis dictae civitatis, dicens: |e chi eran le
+genti~, scilicet, nobiles; unde dicit: |degne di pi@u alti
+scanni~, idest, maioribus gradibus honorum.  
+
+	|28-30.  Come s'avviva.~  Hic autor ostendit quomodo
+anima illa responsura autori praeparaverit se ad responsionem; et
+ostendit per comparationem pulcram et propriam quomodo crevit in
+splendore lucis et dulcore sermonis.  Unde dicit: |Vid'io quella
+luce~, idest, lucidam animam Cacciaguidae, |risplendere ai miei
+blandimenti~ idest, verbis meis blanditoriis, |cos@i come carbon
+s'avviva in fiamma allo spirar de' venti~; et est comparatio
+propria in eo quod dictus spiritus ardens caritate et splendens
+luce recte comparatur carboni, et verba autoris ventis; nam verba
+sunt volatilia more ventorum; unde Homerus quasi semper appellat
+verba pennosa, idest, simillima pennis volantibus: et verba saepe
+plus accendunt mentem audientis, quam aliqui venti ignem.  
+
+	|31-39.~  Et subdit: |e dissemi con voce pi@u dolce e pi@u
+soave~, scilicet, quam prius, |cos@i come si fe' pi@u bella agli
+occhi miei~, quasi dicat: sicut facta est pulcrior in aspectu,
+ita facta est dulcior in sermone; unde dicit: |ma non con questa
+moderna favella~, quasi dicat, sed antiqua; quia, ut dictum est
+in capitulo praecedenti, tempore illius florentini non
+discurrebant per mundum, nec per consequens dimittebant proprium
+idioma patriae, sicut nunc multi faciunt.  Sed certe quidquid
+dicatur, florentini qui hodie peregrinantur loquuntur multo
+pulcrius et ornatius, quam illi qui numquam recesserunt a limine
+patriae, quia dimittunt multa vocabula inepta, quae sunt
+Florentiae, et assumunt alia convenientiora.  Vel dicas, quod
+illa anima beata non utebatur nunc loquela humana immo angelica. 
+Et respondet primo secundae petitioni; et breviter vult dicere,
+quod ab Incarnatione Domini usque ad nativitatem suam
+transiverant anni mille quinquaginta quatuor; quod dat intelligi
+per cursum Martis, in cuius planeta modo erat.  Expone ergo et
+construe sic literam: |questo fuoco~, idest, Mars, qui est
+naturae igneae, ut jam saepe dictum est, |venne a rinfiammarsi
+sotto la sua pianta~, idest, sub Ariete, qui ut aliqui volunt est
+domicilium Martis, |al suo Leon~, in quo forte modo erat; vel de
+Julio Augusto, |cinquecento cinquanta e trenta fiate~; nam Mars,
+ut communiter dicitur, facit cursum suum per totum zodiacum
+spatio duorum annorum, et sic calculata bene ratione videntur
+esse anni mille sexaginta; quod tamen esset penitus falsum; ideo
+ad verificandam literam autoris est advertendum, quod Mars non
+stat per biennium completum ad peragendum cursum suum: immo
+aliquanto minus; unde facta computatione restant anni mille
+quinquaginta quatuor.  Et hoc dico: |Da quel d@i che fu detto:
+Ave~, idest ab Annuntiatione Virginis, |al parto~, idest, usque
+ad nativitatem meam.  Unde dicit: |in che~, idest, in quo partu,
+|mia madre ch'@e or santa~, et sic ponit eam in paradiso,
+|s'allevi@o di me~, quia deposuit onus uteri, |ond'era grave~,
+idest, ex quo me erat gravida.  
+
+	|40-42.  Gli antichi.~  Hic Cacciaguida respondet primae
+petitioni, et breviter dicit, quod sui praedecessores et ipse
+habitaverunt in loco antiquissimo civitatis prope Forum vetus. 
+Describit autem ipsum locum a situ, et a quodam singulari actu
+ipsius civitatis.  Dicit ergo: |Gli antichi miei~, idest,
+maiores, scilicet Helisaei, |et io nacqui nel loco~, scilicet,
+intra civitatem Florentiae, |dove si trova pria l'ultimo sesto~,
+idest, sexterium.  Ad quod sciendum, quod Florentia erat olim
+divisa per sexteria, idest per sex partes; nunc vero per
+quarteria, sicut et Bononia.  Et dicit: |da quel che corre il
+vostro annual gioco~, idest, ab illis qui currunt ad bravium.  Ad
+quod sciendum, quod de more est Florentiae, quod singulis annis
+in festo Johannis Baptistae currunt equi ad bravium in signum
+festivae laetitiae, sicut et apud plures civitates Italiae: et
+hic est mos antiquissimus tam apud graecos quam apud romanos. 
+Modo ad propositum: currentes ad bravium transibant ante domos
+Helisaeorum in principio ultimi sexterii et prope Mercatum vetus,
+qui est locus mercatorum antiquus et famosus Florentiae, sicut
+Rivus altus Venetiis et Carrobium Bononiae.  Et hic nota quod
+apud domos Helisaeorum fuit olim arcus triumphalis, ad quem rei
+fugientes habebantur immunes; tanto privilegio nobilitatis
+gaudebant ipsi Helisaei.  
+
+	|43-45.  Basti.~  Hic Cacciaguida excusat se ab ampliori
+descriptione suorum maiorum et origine, dicens: |Basti de' miei
+maggiori udirne questo~, scilicet, quod dictum est, ut jactantia
+tollatur; sed dicere, |chi ei si furo et onde venner quivi~,
+scilicet, quando prius venerant habitatum Florentiam, |@e pi@u
+onesto tacer che ragionare~, quia laus in proprio ore sordescit,
+ideo alienum os laudet te, non tuum.  Et ideo quia iste relinquit
+arbitrio aliorum hoc investigandum, est sciendum quod isti
+Helisaei venerunt olim ab Infrangipanis de Roma.  Unde expresse
+autor vocat se romanum in Inferno.
+
+	|46-48.  Tutti color.~  Ista est tertia pars generalis in
+qua Cacciaguida describit qualitatem status suae civitatis; et
+est responsio ad tertiam petitionem.  Respondet ergo, primo de
+magnitudine civitatis et multitudine civium tempore suo; et
+breviter vult dicere, quod in parva civitate erat tunc parvus
+numerus civium; dicit ergo: |Tutti color ch'a quel tempo~,
+scilicet, millesimo centesimo quadragesimo quarto, |eran ivi~,
+scilicet, in Florentia, |da poter arme~, idest, omnes, qui erant
+tunc armipotentes: et dicit: |tra Marte e 'l Batista~; aliqui ex
+ignorantia pervertunt istam literam, dicentes, quod vult dicere a
+principio Florentiae, quae fundata fuit sub Marte usque ad tempus
+christianitatis, quando acceperunt Johannem Baptistam pro
+patrono; sed istud nihil est dicere: ideo dicas, quod describit
+antiquum situm Florentiae, dicens: |tra Marte~, idest, inter
+Pontem Veterem, in cuius capite erat statua Martis, ut dictum est
+in Inferno et alibi saepe, et iterum dicetur paulo infra in
+praesenti capitulo; |e 'l Batista~, idest, ecclesiam Johannis
+Baptistae, quae fuit olim templum Martis; et per hos confines dat
+intelligi totum situm veteris civitatis.  Et sic vide, quod
+Florentia non erat tunc habitata ultra Arnum, sicut nunc.  Erat
+enim apud dictam ecclesiam baptismalem porta, quae dicitur de
+episcopo, et ab inde foris erat Burgum sancti Laurentii, et
+claudebant moenia ad portam sanctae Mariae versus viam regalem
+dicti pontis.  Dicit ergo: |erano il quinto~, idest, quinta pars,
+|di quei che son vivi~, idest, qui nunc inhabitant dictam
+civitatem.  Et hic nota, quod de rei veritate in isto millesimo
+CCC Florentia erat in florentissimo statu, et habebat tunc
+maximum numerum gentium.  Faciebat enim tunc etc.  
+
+	|49-51.  Ma la cittadinanza.~  Hic Cacciaguida sumpta
+occasione ex dictis deplorat perversionem et confusionem suae
+civitatis; et breviter vult dicere, quod Florentia erat tunc
+habitata solum ab antiquis et veris civibus, ubi modo est repleta
+faece rusticorum.  Dicit ergo: |Ma la cittadinanza ch'@e or
+mista~, idest, confusa, |di Campi~, idest, de rusticis villae
+quae appellatur Campi, quae distat a Florentia per sex milliaria;
+et non ergo intelligas de agris, sicut multi male intelligunt. 
+Et hoc dixit autor notanter, propter quemdam juristam nomine
+dominum Fatium de Certaldo, qui fuit magnus ribaldus; |di
+Figghine~, alia villa comitatus distans a civitate per milliaria;
+et hic dixit notanter propter quemdam dominum Dechum de Fighine
+similiter juristam ribaldum; |e di Certaldo~: istud est nobile
+castellum in comitatu Florentiae in Valle Elsae.  Et de hoc dixit
+autor propter quemdam dominum Jacobum de Certaldo, qui fuit
+tantae temeritatis, quod cum Potestas Florentiae ex certo casu
+minaretur se depositurum sceptrum, iste qui tunc erat de
+prioribus, arroganter respondit: Nonne credas, quod sit alius
+sciens regere terram istam?  Et continuo assumpta virga
+Potestatis, accessit ad palatium Potestatis et coepit sedere ad
+bancum ad jura reddenda; et hoc fecit aliquot diebus.  Sed hic
+nota quod licet praedictus sua temeritate cedat ad infamiam
+Certaldi, tamen temporibus modernis floruit Boccacius de
+Certaldo, qui sua suavitate sapientiae et eloquentiae reddidit
+ipsum locum celebrem et famosum.  Hic siquidem Johannes
+Boccacius, verius bucca aurea, venerabilis praeceptor meus,
+diligentissimus cultor et familiarissimus nostri autoris, ibi
+pulcra opera edidit; praecipue edidit unum librum magnum et
+utilem ad intelligentiam poetarum ^de Genealogiis Deorum~; librum
+magnum et utilem ^de casibus virorum illustrium~; libellum ^de
+mulieribus claris~; librum ^de fluminibus~; et librum
+^Bucolicorum~ etc.  Et dicit: |vedeasi pura~, scilicet, sine
+aliqua mixtura exteriori, |nell'ullimo artista~, idest, in
+vilissimo artifice, sicut in eo qui purgat cloacas.   
+
+	|52-57.  O quanto.~  Hic Cacciaguida ex dictis arguit,
+quod melius esset habere dictos rusticanos pro vicinis quam pro
+civibus.  Unde indignanter exclamans, dicit: |O quanto fora
+meglio~, quasi dicat: longe foret melius pro civitate, |quelle
+genti ch'io dico~, scilicet, illos de villa, quae dicitur de
+castro Certaldo, de Fighine et similes, |esser vicine~, idest,
+esse comitationes quam concives, |et aver vostro confine al
+Galluzzo~, locus distans a Florentia per unum milliare, |et a
+Trespiano.~  Ad quod sciendum, quod iste, quem vocat Rusticum
+fuit quidam jurista nomine Ubaldus de Aguglione, villa comitatus
+Florentiae, qui fuit magnus canis.  Dicebat se optime nosse
+guelphos et ghibellinos, et fecit librum de tam detestanda
+materia, quem diu florentini sequuti sunt; |di quel da Signa~,
+iste fuit alius jurista de villa quae dicitur Signa, distans a
+Florentia per quinque milliaria supra Arnum; et dicunt aliqui
+quod iste fuit dominus Fatius.  Unde dicit: |che g@ia ha l'occhio
+aguzzo per barattar~, ita quod expectat ire ad picem.  Et hic
+nota, quod autor merito infamat istos et alios superius
+praenominatos quia viliter nati ex civitatibus nobilibus
+faciebant multa enormia tamquam lictores illorum.  
+
+	|58-63.  Se la gente.~  Hic Cacciaguida manifestat unde
+provenerit istud malum: et dicit, quod a dissensione quae fuit
+inter ecclesiam et imperatorem.  Tempore enim Friderici secundi
+factae sunt partialitates magnae in Florentia et expulsiones
+partium, et sic comitatim venerunt ad habitandum civitatem, et
+nobilitati et ditati sunt.  Unde dicit: |Tal @e fatto fiorentino~,
+scilicet, adventitie, e |cambia e merca~, idest, factus est
+campsor et mercator, |che si sarebbo volto a Simifonti~, quae est
+quaedam terra comitatus Florentiae, quam olim florentini ceperunt
+cum magno labore et destruxerunt: et dicit: |l@a dove andava
+l'avolo alla cerca~, idest, ad custodiam circuendo moenia; vel
+dicas, quod vocat circham circuitionem ecclesiarum, quam faciunt
+homines Florentiae, et in comitatu in die veneris sancti, et
+alibi in die jovis sancti; et hoc non vult aliud dicere, nisi
+quod habitarent adhuc rus, sicut faciebat avus suus, nec
+venissent ad civitatem; et hoc dico: |se la gente che p@iu
+traligna al mondo~, idest, pastores ecclesiae, qui plus deviant a
+vestigiis pastorum antiquorum, quam alia gens mundi a vestigiis
+suorum praedecessorum, |non fosse stata noverca~, idest,
+matrinia: et dicitur noverca, quasi nocens archa, vel nova archa
+sine fructu; vel dicitur juxta vulgarem etymologiam, ^matrigna~,
+quasi mater ignea, vel quasi mater lignea sine amore; |a Cesare~,
+idest, imperatori, quia omnis imperator vocatur Caesar, ut saepe
+dictum est, |ma~, supple, fuisset, |benigna~, ipsi Caesari, |come
+madre.~  Ad quod sciendum, quod sicut refert Brunetus Latinus in
+suo Thesauro, et Ricobaldus Ferrariensis in sua Chronica, causa
+discordiae inter Fridericum et ecclesiam fuit talis etc.  
+
+	|64-66.  Sariasi.~  Hic Cacciaguida enumerat alia mala,
+quae sequuta sunt ex ipsa dissensione.  Et primo, quia jura
+quorum dam nobilium usurpata sunt.  Unde dicit: |Sariasi
+Montemurlo ancor de' Conti~, scilicet comitum Guidonum, quibus
+datum erat ab imperatore; modo vero est communis Florentiae, quod
+post longam brigam emerunt etc.  Et tangit aliud malum, quia illi
+colerent rus, qui nunc regunt civitatem Florentiae.  Unde dicit:
+|sariensi i Cerchi~, de istis saepe dictum est, et dicetur
+capitulo sequenti; |nel pivier~, idest, plebatu, |d'Acone~; Acone
+enim est villa comitatus Florentiae, de qua ruerunt Circuli
+praedicti.  Modo dicit, quod adhuc starent in rure suo.  Et
+tangit aliud malum, quia alii essent adhuc villani, qui nunc
+gloriantur valde de nobilitate.  Et dicit: |e forse~, dubitavit,
+quia licet isti habitarent in rure, tamen erant nobiles et
+potentes.  Ad quod sciendum etc.  Dicit ergo: |e forse i
+Buondelmonti~, supple, essent, |in Valdigrieve~, idest, in valle
+illa, unde primo venerunt ad civitatem  
+
+	|67-69.  Sempre.~  Hic Cacciaguida ex dictis arguit, quod
+mixtio personarum semper fuit causa eversionis urbium; quod
+probat a simili; sicut varietas et superfluitas ciborum est causa
+dissolutionis complexionis corporum.  Dicit ergo: |la confusion~,
+idest, colluvies et mixtura, |delle persone~, scilicet,
+diversarum nationum cum civibus, |sempre fu principio del mal
+della cittade~, scilicet, quae ex se sufficiens est suis civibus:
+|come il cibo che s'appone~, idest, superponitur post
+comestionem, est, supple, principium, |del nostro~, supple,
+|male~, quia nihil deterius quam indigestum super indigestum
+ponere.  Sicut ergo superfluitas ciborum est causa multorum
+morborum, ita confusio hominum est causa multarum seditionum.  
+
+	|70-72.  E cieco.~  Hic Cacciaguida respondet quaestioni
+tacitae: posset quis obiicere, quod licet confusio personarum sit
+causa destructionis civilis status, tamen, quia isti nobiles
+sunt, non videtur eis hoc credendum.  Ad quod respondet, quod
+multo plus de eis est verisimile; quod probat a simili, dicens:
+|E cieco toro cade pi@u avaccio~, idest, velocius, |che cieco
+agnello~, idest, vitiosus nobilis citius cadit quam vitiosus
+popularis.  Sed licet ista videatur pulcra expositio, tamen mihi
+videtur, quod litera non recipiat eam, nec sit de mente autoris,
+cum jam expresse vocaverit istos rusticos; ideo dico et melius,
+quod Cacciaguida respondet quaestioni tacitae, quae talis est. 
+Posset enim quis obiicere: licet civitas sit repleta rusticis,
+tamen est maior et fortior et potentior.  Ad hoc respondet per
+simile quod citius cadit magnus et protervus populus, sicut
+taurus, quam populus parvus humilis et pacificus sicut agnellus;
+nam quanto maior populus, tanto minor intellectus, ut dicit
+philosophus: et Augustinus dicit de nano et gigante etc.  Et
+subdit aliud pulcrum simile, dicens: |et una~, supple, spata,
+|taglia molte volte pi@u e meglio che le cinque spade~, quasi
+dicat: quod unus ensis civium saepe incidit plus et melius quam
+quinque enses exterorum; vel unus ensis parvi populi unanimis et
+uniti incidit plus et melius, quam quinque enses magni populi
+discordis et divisi.  Hinc potest melius incipere quarta pars.  
+
+	|73-78.  Se tu riguardi.~  Hic secundum expositionem
+quorumdam, Cacciaguida ostendit per quaedam exempla manifesta
+effectum confusionis personarum, quia scilicet turbant
+tranquillum statum urbium et inducunt bella, per quae evertuntur
+civitates, sicut civitas Lunae in Tuscia propter superbiam civium
+etc.  Sed certe, licet ista expositio videatur consona, tamen si
+quis subtiliter advertat, non bene adaptatur literae; immo ista
+exempla non referuntur ad literam praecedentem, sed trahenda sunt
+ad literam sequentem, cum qua sunt concatenata in sententia. 
+Dico ergo et melius, quod Cacciaguida volens descendere ad
+ultimum quaesitum autoris, scilicet quae fuerunt antiquitus
+clarae familiae Florentiae, primo praemittit quod autor non
+debeat mirari de destructione stirpium arguens a minori, quia
+etiam antiquae magnae civitates, aliquae jam in totum defecerunt,
+aliquae in dies deficiunt, cum tamen omnis civitas contineat
+multas et magnas familias.  Nunc ergo ad literam: ordina sic et
+expone: |Udir come le schiatte si disfanno~, idest, quomodo
+nobiles stirpes anihilantur, |non ti parr@a~, idest, non debebit
+tibi videri, |nuova cosa~, quia istud est vetustissimum, |n@e
+forte~, quia istud est facillimum, quia usitatissimum; quod
+probat a minori, dicens: |poscia che le cittadi termin' hanno~,
+idest, finem; quia scilicet famosae et antiquae urbes
+inhabitantur.  Et hoc dico: |se tu riguardi Luni~, idest,
+civitatem Lunae, quia fuit olim magna et potens civitas, tamen
+deserta jam sunt mille anni, de qua dictum est XX capitulo
+Inferni; |ed Urbisaglia.~  Ista fuit olim civitas in Marchia
+anconitana non longe a civitate quae hodie dicitur Macerata, et
+est penitus deserta, ita quod non apparent, nisi quaedam vestigia
+ruinarum: et fuit olim maxima civitas, sicut ego notavi, unde
+dicta est quasi urbs alia, idest alia Roma; |come son ite~,
+idest, deletae: |e come Chiusi~; ista est civitas in Tuscia, quae
+olim habuit regem, scilicet, Porsenam, qui voluit reducere
+Tarquinios expulsos in urbem Romae, ut dictum est in Inferno.  Et
+hic Galli Senones fuerunt conflicti primo a Romanis, qui continuo
+invaserunt urbem, et illam captam funditus everterunt, ferro et
+igne omnia vastantes praeter Capitolium, ut scriptum est VI
+capitulo huius Paradisi.  Et autem nunc satis desolata et pauca
+quia est situata in loco palustri et pestifero; e |Sinigaglia.~ 
+Ista est civitas in Marchia anconitana inter Anconam et Fanum
+sita in litore maris adriaci, olim aedificata a Gallis Senonibus,
+de quibus tantum nunc dictum est, et ab eis denominata.  Dicitur
+enim Senegallia, quia Galli Senones aedificaverunt eam.  Cum enim
+Galli praedicti cum eorum duce Brenno intrassent Italiam, sicut
+adhuc saepe faciunt barbari, socialiter euntes versus urbem
+pervenerunt ad istam planitiem, et videntes locum aptum genti
+armigerae, quia ibi sunt prata virentia et sylvae vicinae, et
+locus est supra mare et juxta flumen, habens portum et copiam
+rerum; ideo traxeruut ibi moram ad certum tempus, et ibi
+aedificare coeperunt.  Et certe fuit olim satis magna civitas et
+cum fortibus moeniis et multis altis turribus, ut notavi; sed
+nunc hodie est quasi derelicta propter aerem mortiferum quia
+nullus potest ibi vivere sane, immo non diu; unde pauci
+alienigenae desperati stant adhuc ibi.  Habet tamen adhuc bonum
+episcopatum et magnos redditus.  Et ideo dicit: |come se ne
+vanno~, idest, paullatim nunc deficiunt, |diretro ad esse~,
+scilicet, post Lunam et Urbisaliam.  Sicut et hodie evidens
+exemplum habemus prae oculis nobilem civitatem Reginam in
+Lombardia, cuius cives ita sunt dispersi per Italiam, sicut
+judaei per universum, et continuo consumitur, ita ut miserabile
+spectaculum sit transeuntibus.  Et ita possem dicere de multis
+aliis.  
+
+	|79-81.  Le vostre.~  Hic Cacciaguida concludit quod non
+solum civitates et stirpes deficiunt, sed et omnia humana sicut
+regna et provinciae et imperia.  Unde dicit, et est notabilis
+sententia: |Le vostre cose~, scilicet, omnia mundana, |tutte
+hanno lor morte~, et hic nota quod hoc est a ratione naturali;
+nam omne compositum resolvitur, omne generatum corrumpitur, omne
+mortale moritur; et nihil immortale mortales fecere manus; et
+ideo dicit: |s@i come voi~, scilicet, habetis vestram mortem,
+quasi dicat: insani mortales, creditis facere civitates, vel
+familias, vel aliqua immortalia cum vos tam cito moriamini.  Et
+subdit: |ma celasi in alcuna~, idest, celari videtur, scilicet
+mors occultatur aliquandiu in aliqua re humana, sicut virtuosa
+operatione et fama respectu temporis, |che dura molto~, idest
+diu, |e le vite~, scilicet, hominum, |son corte.~  Et hic nota
+quod hoc procedit ab influentia coeli; secundum enim magnas
+coniunctiones res propagantur vel breviantur etc.
+
+	|82-87.  E come il volger.~  Ista est quarta et ultima
+pars generalis, in qua Cacciaguida praemissis generaliter
+quibusdam evidentialibus ad suum propositum ostendendum, scilicet
+quomodo domus defecerunt et deficiunt in sua civitate Florentiae:
+et est responsio ad quartam petitionem autoris; et primo per
+comparationem naturalem de mutatione maris explicat mutationem
+civitatis Florentiae.  Ad cuius comparationis intelligentiam est
+praenotandum, quod luna est quae principaliter movet mare etc. 
+Dicit ergo: |La fortuna~, quae est influentia vel providentia
+Dei, |fa cos@i di Firenze~, et ita intelligas de aliis
+civitatibus; sed autor nunc solum intendit dicere de mutatione
+suae patriae, |come il volger del ciel della luna cuopre~,
+scilicet, per fluxum et refluxum, |ed iscuopre i liti senza
+posa~, sicut apparet in terris maritimis, ut dictum est Inferni
+capitulo de Flandria etc.  Unde subdit tangens materiam
+dicendorum: |perch@e non dee parer mirabil cosa ci@o ch'io dir@o
+degli alti fiorentini~, idest, nobilibus et magnis antiquis; unde
+dicit: |ond'@e la fama nel tempo nascosa~, idest, quorum fama
+diuturnitate temporis est occulta.  
+
+	|88-90.  Io vidi.~  Hic Cacciaguida ad principale
+propositum ostendendum breviter percurrit et connumerat multas
+familias nobiles, quae erant praeclarae tempore suo, quarum
+aliquae sunt penitus extinctae, aliquae parvae, et aliquae quae
+sunt nunc magnae, erant tunc obscurae.  Et primo perstringit
+simul sex familias nobiles antiquas, quae jam erant in
+declinatione, dicens: |Io vidi gli Ughi e vidi i Catellini,
+Filppi, Greci, Ormanni et Alberichi, illustri cittadini gi@a nel
+calare.~  Et hic nota quod Cacciaguida dupliciter declarat
+eximiam nobilitatem praescriptarum familiarum; primo, quia vocat
+eas illustres; erat enim olim in Roma, sicut patet semper apud
+Titum Livium et alios scriptores rerum romanarum, duplex ordo,
+scilicet, illustris, continens nobiles viros et senatores; et
+ordo equestris, continens equites armigeros.  Modo autor vocat
+istos illustres: secundo, commendat eos cum dicit: |nel calare~,
+quia si erant adhuc illustres in descensu, quid esse debuerant in
+statu?  
+
+	|91-93.  E vidi cos@i.~  Hic Cacciaguida simul colligit
+alias quinque familias antiquas, dicens: |E vidi cos@i grandi,
+come antichi, quel dell'Arca con quel della Sannella, e
+Soldanieri e Ardinghi e Bostichi.~  Et hic nota quod autor
+commendat praedictos dupliciter; primo quia describit eos a
+magnitudine, quia erant olim magnifici et potentes in urbe sua;
+secundo quia describit eos ab antiquitate, et antiquitas arguit
+nobilitatem, ut vult philosophus.  
+
+	|94-99.  Sovra la porta.~  Hic Cacciaguida describit
+singulariter unam egregiam familiam, in cuius descriptione duo
+facit: primo, quia ostendit quomodo ex ista nobili familia
+descenderunt multae aliae magnae nobilitates; secundo ostendit,
+quomodo in domos illorum nobilissimorum pervenerunt viri rustici
+ad habitandum, de quibus praenuntiat ruinam cito venturam.  Nunc
+vide literam, et ordina sic: |I Ravignani~, nobilissimi cives,
+quorum familia est penitus extincta, ex quibus facti sunt comites
+Guidones et alii nobiles; unde dicit: |ond'@e disceso il conte
+Guido.~  Ad intelligendum autem, quomodo comes Guido descenderit
+ex istis per nobilem mulierem Ingualdradam filiam domini
+Bellincioni, oportet te recurrere ad id, quod scriptum est de hoc
+Inferni capitulo {16.37-39}.  Et dicit: |e qualunque ha poscia
+preso del nome dell'alto Bellincione.~  Hoc dicit, quia ex istis
+Ravignanis facta est alia familia dicta Bellincioni, sic
+denominata est ab illo praecipuo milite Domino Bellinciono, ut
+dictum est; |erano~, idest, habitabant, |sovra la porta~, haec
+fuit antiqua porta veteris civitatis dicta porta sancti Petri:
+nunc autem novi cives venerant ad habitandum ibi, scilicet
+Circuli vel Cerchi, qui fuerunt rustici protervi, de quibus
+dictum est paullo supra et dicetur capitulo sequenti, qui
+posuerunt divisionem in civitate, quia fuerunt principes partis
+blancae.  Unde dicit: |ch'al presente @e carca di nuova fellonia~,
+idest, novis civibus follibus et temerariis, quales sunt
+communiter nuper ditati; et dicit: |di tanto peso, che tosto fia
+jattura della barca~, idest, cito erit damnum civitatis
+florentiae, quam regunt: et est pulcerrima metaphora et
+propriissima; cum enim navis est nimis onusta, oportet, quod
+eiiciantur merces ad illam alleviandam; ita a simili Florentia,
+quae erat nimis onerata intollerabili arrogantia istorum, cito
+venit ad naufragium, et dicti Circli eiicientur.  Et adverte,
+quod autor loquitur de expulsione partis blancae et de eiectione
+Circlorum, quae fuit statim tertio anno post tempus istud, de quo
+nunc loquitur.  Adverte etiam, quod ista omnia facta erant,
+quando autor ipsa scripsit; sed videtur pronosticari, quia refert
+se ad tempus suae visionis, quae fuit in millesimo CCC, ut
+totiens repetitum est in multis locis et capitulis libri.  
+
+	|100-102.  Quel della Pressa.~  Hic Cacciaguida
+connumerat duas domos antiquas, quarum alteram describit a
+prudentia regendi, alteram a fortitudine bellandi.  De prima ergo
+dicit: |Quel della Pressa sapeva gi@a come regger si vuole~, et
+haec est magna laus, quoniam principatus virum ostendit etc.  De
+secunda dicit: |ed avea Galigaio gi@a dorata l'elsa e 'l pome in
+casa sua.~  Per hoc notat, quod familia Galigaiorum erat jam
+ornata dignitate militari.  
+
+	|103-105.  Grande.~  Hic Cacciaguida sub uno involucro
+claudit septem familias, quarum primam describit ab armatura,
+dicens: |Grande era gi@a la colonna del Vaio.~  Isti vocantur
+Pigli, qui habent unam columnam de vario pro insignio.  Quinque
+domos simpliciter nominat, dicens: |Sacchetti, Giuochi, Sifanti,
+e Barucci, e Galli~, supple, erant magni.  Describit septimam
+domum satis verecunde ab uno infami fallo, dicens: |e quei
+ch'arrossan per lo staio.~  Ad hoc intelligendum est sciendum,
+quod isti vocati sunt Claramontenses, quorum unus olim dum
+haberet officium dandi frumentum, sive salem communis, detraxit
+inde unam dogham, et sic diminuit justam mensuram cupiditate
+lucri; propter quod reperto fallo fuit decapitatus.  Et ex hoc
+fuit ordinatum, quod sextarius esset ferreus, ita quod non posset
+de caetero aliquid detralii.  Et quia Claramontenses de hoc
+verecundantur, quandocumque istud memoratur vel improperatur eis,
+ideo dicit: |e quei ch'arrossan per lo staio~, idest,
+verecundantur propter sextarium corruptum; nam rubor est signum
+verecundiae.  
+
+	|106-108.  Lo ceppo.~  Hic Cacciaguida nominat tres
+stirpes, quarum unam describit ab alia familia descendenti ex
+illa, reliquas vero secundas describit ab officii dignitate. 
+Dicit ergo primo: |Lo ceppo di che nacquero i Calfucci~; isti
+sunt Donati, praeclara familia olim et nunc; ex quibus facta est
+alia familia, qui dicti sunt Calfutii; |era gi@a grande~, et adhuc
+hodie est; |e Sizii el Arrigucci erano gi@a tratti alle curule~,
+idest, erant jam promoti ad dignitates et honores; quod innuit
+sub nomine Curulium.  Curules enim erant olim Romae sedes in
+quibus sedebant magistratus functi honoribus, sicut saepe patet
+apud Livium.  
+
+	|109-111.  O quali.~  Hic Cacciaguida coniungit duas
+familias simul eorum qui fuerunt socii in altitudine status et
+ruina: et quia isti fuerunt magnifici multum exclamat admirative:
+|O quali io vidi que' che son disfatti per lor superbia!~  Isti
+sunt Uberti, quorum principalis fuit dominus Farinata de Ubertis
+princeps partis ghibellinae in Florentia, qui sua prudentia et
+probitate multum exaltavit domum suam.  Tamen, ut dicit autor,
+fuerunt expulsi superbia sua, de quorum expulsione dictum est in
+Inferno.  Et forte avaritia nihil profuit sibi.  Unde dum tempore
+expulsionis Ghibellini recedentes pervenissent ad locum, qui
+dicitur, |Lastra~, non longe a civitate, dominus Farinata
+praedictus conquerebatur et exclamabat, dicens: ^heu amici mei,
+amici mei!~  Tunc Dominus Musca de Lambertis respondit: quaere
+tibi in bursa; |e le palle~; hic describit Lambertos ab armatura
+et florenti statu, dicens: |e le palle dell'oro fiorian Fiorenza
+in tutti i suoi gran fatti.~  Et ex hoc colligere potes, quod
+Lamberti fuerunt nobiliores Ubertis, et caeteris, quamvis alii
+aliter dicant, quia in omnibus magnis factis praeferebantur: quod
+posset facile probari ex multis privilegiis et ecclesiis
+Lambertorum.  Sed omnibus omissis singulare signum nobilitatis
+eorum erat, quod mortui sepeliebantur equites scilicet sedentes
+in equo brungio. 
+
+	|112-114.  Cos@i faceano.~  Hic Cacciaguida describit unam
+notabilem familiam, quam magnificat a duobus, scilicet a florenti
+statu, et quodam singulari privilegio.  Ad quod sciendum, quod
+isti sunt Visdomini, qui quandocumque vacat episcopus Florentiae,
+sunt oeconomi, idest, dispensatores.  Dicit ergo: |Cos@i faceano~,
+scilicet, sicut Lamberti, quia scilicet ita florebant in omnibus
+magnis factis Florentiae, |i padri~, idest, praedecessores, |di
+coloro~, scilicet, Visdominorum, |che si fanno grassi stando a
+consistoro~, quia tunc vivunt pinguiter expensis episcopatus,
+|sempre che la vostra chiesa~, scilicet, episcopalis, |vaca.~ 
+Ista domus tantae dignitatis quasi defecit; tamen ex ea factae
+sunt duae aliae domus, scilicet, illi de la Tosa, et Aliotti. 
+
+	|115-120.  L'oltracotata.~  Hic Cacciaguida memorat aliam
+familiam numerosam valde, quam multipliciter infamat ab
+extraneitate, a vilitate, et a crudelitate.  Ad quod est
+praesciendum, quod isti vocantur Adimari, et alio nomine
+Caviccioli, ex quibus fuit unus nomine Boccaccinus, quem Dantes
+offenderat tempore quo erat in statu.  Quare ille post exilium
+autoris impetravit in communi bona eius, et semper fuit sibi
+infestus, et totis viribus semper obstitit cum consortibus et
+amicis, ne autor reverteretur ad patriam.  Quare autor facit
+altam vindictam cum penna, quam non potuit facere cum spata. 
+Nunc ad literam: dicit Cacciaguida: |La schiatta~, scilicet,
+Adimariorum, |oltracotata~, scilicet, sui commodi et honoris,
+|che s'indraca~, idest, quae desaevit more draconis, |dietro a
+chi fugge~; et in hoc autor tacite mordet praefatum Boccaccinum,
+qui erat ferocissimus contra ipsum autorem absentem et expulsum. 
+Et per oppositum: |si placa come agnello a chi mostra il dente~,
+idest, resistenti et defendenti se aperte, |o ver la borsa~,
+idest, vel ei qui ostendit sibi pecuniam; quia pro pecunia
+recipit sibi verbera et verecundias more joculatorum, |gi@a venia
+su~, jam incipiebat florere; |ma di piccola gente~, scilicet,
+populari et obscura.  Quod declarat per unum signum, quia unus
+nobilis de Donatis nomine Ubertinus moleste tulit, quod soror
+uxoris suae daretur uni de Adimaris.  Unde dicit: |s@i che non
+piacque ad Ubertin Donato~, immo valde displicuit, |che 'l
+suocero il facesse lor parente.~  Ad quod sciendum quod dominus
+Bellincionus, de quo jam saepe dictum est, fuit socer Ubertini de
+Donatis, qui filiam suam habuit in uxorem; sed quia tradidit
+aliam filiam uni de Adimaris Ubertinus valde indignatus fuit,
+quia reputabat sibi ad verecundiam, quod esset factus affinis et
+cognatus unius de Adimaris.  
+
+	|121-123.  Gi@a era.~  Hic Cacciaguida facit mentionem de
+tribus familiis, quae jam tempore suo erant honorabiles, dicens:
+|Il Caponsacco era gi@a disceso gi@u da Fiesole nel mercato~,
+idest, ad habitandum in mercato veteri; |e Giuda e Infangato era
+gi@a buon cittadino.~  Istae tres domus sunt expulsae jamdiu pro
+parte ghibellina.  
+
+	|124-126.  Io dir@o.~  Hic Cacciaguida propalat unam domum
+antiquam ignotam valde, et quae ab ignorato casu accidentaliter
+nomen traxit.  Ad cuius intelligentiam est praesciendum quod etc. 
+Nunc ad literam dicit autor: |Io dir@o cosa incredibile e vera.~ 
+Satis enim incredibile videtur, quod una porta nobilis civitatis
+sumeret denominationem ab uno vendipira, et tamen sic fuit.  Et
+ex hoc satis apparet, quod male intelligunt, qui exponunt quod
+autor loquitur hic de Perutiis de Florentia; tunc enim non
+videretur res ita incredibilis.  Ideo prima expositio plus
+placet, quia non sine quare autor dixit signanter |incredibile~,
+et ecce rem incredibilem et veram: |nel picciol cerchio~, idest
+in parvum circuitum civitatis veteris, |s'entrava per porta, che
+si nomava~, idest, quae porta denominabatur, |da quei della
+Pera.~  Et nota, quod haec porta non erat de principalibus. 
+Habebat enim tunc Florentia quatuor portas magistras, scilicet,
+portam sancti Petri, portam juxta Duomum, portam sancti Pauli,
+portam sanctae Mariae.  Aliae vero erant portae parvulae.  
+
+	|127-130.  Ciascun.~  Hic Cacciaguida facit unum fascem
+de aliquot nobilibus familiis, quae omnes portant idem insignium. 
+Ad cuius evidentiam est praesciendum, quod istae fuerunt quinque
+nobiles domus, scilicet Pulci, Nerli, $Candonati, comites de
+Gangalandi, et domus filiorum Bellae.  Isti omnes portant pro
+armatura dogas ad argentum et rubeum; quam armaturam obtinuerunt
+ab Hugone marchione Brandiburgensi vel comite Alamaniae qui fuit
+vicarius in Tuscia pro imperatore Othone; et aliqui ex eis
+fuerunt facti milites ab eo et privilegiati.  Hic comes mortuus
+est Florentiae et dotavit multas ecclesias, praecipue abbatiam
+sanctae Mariae quam fundaverat, cum multis aliis.  Et quia
+decessit in festo sancti Thomae, omni anno fit solemnis memoria
+de eo, et in tali die fit eius anniversarium.  Nunc ad literam:
+dicit Cacciaguida: |Ciascun che porta della bella insegna~, quod
+insignium est armatura ad dogas etc., ut supra, |del gran
+barone~, scilicet, praedicti marchionis Hugonis, qui fuit magnus
+baro nobilitate et potentia; quem commendat a beneficiis suis in
+Deum, dicens: |il cui nome e il cui pregio la festa di Tommaso
+riconforta~, quia scilicet virtus et fama Hugonis renovatur et
+confirmatur annuatim in festo beati Thomae, quia fit singularis
+commemoratio et commendatio de eo in memoria beneficiorum eius;
+|ebbe milizia e privilegio da esso~, scilicet, a praedicto
+marchione Hugone, quia de unaquaque domorum praedictarum fecit
+aliquos milites, ut praedicitur. 
+
+	|131-132.  Avvegna.~  Hic Cacciaguida excipit unum, qui
+non sequutus est vestigia nobilium, immo factus est popularis. 
+Ad cuius rei evidentiam est praesciendum, quod iste de quo autor
+loquitur fuit quidam Zannes de la Bella, qui etc.  Nunc ad
+literam, dicit Cacciaguida: |Avvegna che colui~, scilicet, Zannes
+de la Bella, |che la fascia col fregio~, idest, cingit frisio:
+hoc dicit, quia illi de la Bella apposuerunt unum frisium aureum
+circumcirca armaturam datam eis a dicto Hugone, ut sic
+distingueretur ab aliis, qui habuerant idem insignium, |si rauni
+oggi col popol~, idest, conveniat et congregetur cum populo,
+sicut olim fecerunt Gracchi in urbe Roma, et aliqui alii; ideo
+iste bene luit poenas dignas, sicut et illi, ut patet ex dictis.  
+
+	|133-135.  Gi@a eran.~  Hic Cacciaguida addit superioribus
+alias tres domos, quarum unam parum laudat, licet fuerit diu
+magnifica; unde dicit: |Gi@a eran Gualterotti et Importuni~,
+scilicet, in nomine et pretio in civitate Florentiae: |et ancor
+Borgo saria pi@u quieto~, debes intelligere antonomastice de Burgo
+Sancti Apostoli, qui est pulcrior caeteris, |se fosser~,
+scilicet, si habitatores illius Burgi, |digiuni di nuovi vicini~,
+idest, vacui Bardis, qui de novo missi fuerunt ad habitandum
+Purgum istum, tamquam homines audaces, ut compescerent motus
+ghibellinorum illius Burgi. 
+
+	|136-139.  La casa.~  Hic Cacciaguida ultimo describit
+unam domum de qua nata est desolatio et disturbatio civitatis
+Florentiae, propter iniuriam factam sibi.  Ad cuius literae
+intelligentiam oportet repetere illud quod scriptum est Inferni
+capitulo {28.106-108}, scilicet quomodo quidam miles nomine
+Bondelmontes de Bondelmontibus, cum iret ad desponsandam unam de
+Amideis, revocatus a quadam domina de Donatis, quae ostendit sibi
+filiam suam formosissimam, desponsavit illam secundam.  Ex quo
+Amidei, convocatis principalibus de parte ghibellina, sicut
+Ubertis, Lambertis, Abbatibus, et aliis, conquesti sunt de
+iniuria.  Et post longam consultationem, opera domini Muscae de
+Lambertis, iverunt trucidatum autorem iniuriae.  Nunc ergo ad
+literam, dicit autor: |La casa~, scilicet, Amideorum, |di che
+nacque il vostro fleto~, idest, planctus et dolor; et dicit: |per
+lo giusto disdegno, che v'ha morti~, quia scilicet praedicti
+habuerunt justam causam indignationis, quia evidens contumelia
+fuit; et dicit, |e posto fine al vostro viver lieto~, quia
+hucusque florentini habuerant pacificum et tranquillum statum;
+postea vero factae sunt civiles discordiae et partialitates, ex
+quibus sequutae sunt expulsiones, incendia, caedes, praedae,
+peregrinationes per mundum, |era onorata~, quia honorabilis
+familia fuit Amideorum; et dicit: |essa~, quasi dicat: non solum
+ipsa, sed etiam, |i suoi consorti~, scilicet, Ucellini et
+Gherardini.  
+
+	|140-141.  O Buondelmonte.~  Hic Cacciaguida indignanter
+exclamat contra insanam lasciviam juvenis, qui ad unam
+persuasionem unius foeminae dimisit propriam uxorem, et assumpsit
+eam, quae de jure esse non poterat.  Unde dicit: |o Buondelmonte,
+quanto mal fuggisti le nozze sue~, idest, affinitatem illorum
+Amideorum male dimisisti, primo, malo et damno tui; secundo,
+illius partis ghibellinorum; et tertio, tuae civitatis; et dicit:
+|per gli altrui conforti!~ scilicet, ad persuasionem illius
+dominae de Donatis.  
+
+	|142-144.~  Et ideo subdit, quantum bonum sequutum
+fuisset, si numquam Bondelmontes venissent ad civitatem, dicens:
+|molti serebber lieti, che son tristi~, quia scilicet non sequuta
+fuisset divisio et destructio civitatis, si antiquus tuus, quando
+primo veniebat ad habitandum civitatem, fuisset suffocatus in
+flumine Ema.  Unde dicit: |se Dio t'avesse conceduto ad Ema~,
+scilicet, quod habuisses tuam sepulturam in flumine Ema.  Est
+enim Ema fluvius parvus, distans a Florentia per tria milliaria;
+vel dicas: |se Dio t'avesse conceduto ad Ema~, idest, si
+remansisses ibi ad habitandum, ita quod non venisses ulterius,
+quando primo veniebas de valle Gravi ad habitandum Florentiam. 
+Unde dicit: |la prima volta ch'a citt@a venisti.~  Dicunt enim
+aliqui, quod Ema cum suo territorio est de Bondelmontibus. 
+
+	|145-147.  Ma conveniasi.~  Hic Cacciaguida ex morte
+Bondelmontis arguit malum augurium, quod praenuntiavit futuram
+effusionem civilis sanguinis.  Nam dominus Bondelmontes fuit
+interfectus ante statuam Martis.  Cum ergo Mars sit Deus belli,
+et gaudeat sanguine humano, bene sacrificatum fuit sibi sanguine
+humano istius.  Dicit ergo: |Ma conveniasi che Fiorenza fesse
+vittima~, idest, sacrificium sanguinis humani, sicut olim fiebat
+Marti a quibusdam barbaris; vel |vittima~, scilicet, de
+Bondelmonte, quasi victima pacis ruptae.  Cum enim olim quis
+inhibebat foedus mactabatur tamquam victima, ut saepe patet apud
+Titum Livium, |a quella pietra scema~, idest, statuae Martis quae
+erat aliqualiter fracta, |che guarda 'l ponte~, quia erat posita
+in principio pontis Veteris, ut saepe dictum est.  Et dicit:
+|nella sua pace postrema~, quia scilicet non erat amplius futura
+pax in Florentia.  
+
+	|148-154.  Con queste.~  Hic Cacciaguida concludit suam
+narrationem et claudit capitulum, dicens: |Vid'io Fiorenza con
+queste genti~, scilicet, superius enumeratis familiis; et dicit:
+|e con altre con esse~, quia fecit autor solum mentionem de
+quibusdam, de quibus placuit facere famam, quia visae sunt sibi
+memorabiliores.  Et dicit: |in s@i fatto riposo~, idest, in tam
+tranquillo et pacifico statu, |che non avea cagione onde
+piangesse~, idest, quod non habebat materiam plorandi, sicut
+nunc.  Et subdit: |e vid'io il popol suo~, scilicet, florentinum,
+|glorioso~, scilicet, artibus pacis et belli: tunc enim gerebant
+bella contra hostes, ex quibus consequebantur saepe victoriam
+gloriosam, non contra cives, ex quorum victoria non datur
+triumphus, |e giusto~, quia tunc non usurpabat iniuste jura
+vicinorum, sicut nunc facit; et dicit: |tanto che 'l giglio non
+era posto a ritroso ad asta.~  Hoc dicit, quia de more est
+victorum saepe pervertere insignia capta ab hostibus, ponendo
+caput hastae superius deorsum et pedem sursum.  Quod tamen saepe
+factum est Florentiae tempore bellorum civilium; quia aliquando
+ghibellini expulsi capiebant insignia intraneorum, et
+subvertebant in opprobrium guelphorum, et e contrario.  Et dicit:
+|n@e per division fatto vermiglio.~  Ad intelligentiam huius
+literae est notandum, quod cum romani olim faciebant aliquam
+civitatem coloniam, donabant sibi armaturam populi romani,
+scilicet, scutum simpliciter rubeum, sine literis illis S. P. Q.
+R., quae literae important: senatus, populusque romanus: tamen
+Nicolaus tribunus Romae, vir magnae probitatis et prudentiae,
+saepe arguens populum romanum de vilitate et furore intollerabili
+eorum, exponebat istas literas sic: S. P. Q. R., idest, |Sozzo
+popolo conchagato romano.~  Sed ad propositum: omnis colonia
+recipiens insignium romanorum poterat addere et apponere quidquid
+volebat.  Unde perusini addiderunt gryphum, florentini lilia
+alba, pisani nihil addiderunt.  Florentini ergo, pulsis
+ghibellinis, converterunt lilia alba in rubea, ad diversificandum
+insignium exteriorum expulsorum.  Et ab illo tempore citra
+habuerunt semper lilia rubea.  Unde adhuc apparent in summitate
+Palatii Potestatis lilia alba.  Et hoc est quod dicit: |n@e per
+division~, idest, partialitate, |fatto vermiglio~, vel exponas,
+sanguine vel rastello.

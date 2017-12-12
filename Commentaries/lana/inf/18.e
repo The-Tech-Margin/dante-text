@@ -1,0 +1,405 @@
+	|Proemio.~  In questo capitolo intende Dante trattare
+della pena delli roffiani e ingannatori, li quali si punisceno in
+la prima e in la seconda bolgia dell'ottavo circolo, siccome @e
+detto in la distinzione di quello in lo cominciamento del XVI.  E
+sicom'@e detto da qui in suso si @e punita quella colpa, maliz@ia e
+bestialit@a ch'@e commessa violenta e sforzevolmente, mo punisce
+quella colpa, maliz@ia e bestialitade che @e commessa con fraude e
+con inganno.
+
+	Poscia l'ottavo circolo divide in X parti, e sono le
+parti circolari sicome ha partito di qui in suso li altri giorni
+e sono sovrapposti alle circumferenzie s@i come qui appare; ed
+appella quelle cotali parti ^bolgie~, cio@e repostine.  E in
+queste X bolgie punisce universalmente li peccatori, li quali
+hanno commesso fraude al prossimo, il quale prossimo non ha
+perci@o avuto speranza n@e fede di quel fraudolento.  In la prima
+bolgia punisce li ingannatori e roffiani, li quali hanno
+ingannate donne promettendo ad esse, e non osservandoli la
+promessa e condotteli a viziosa vita.  F@alli portar pena delle
+frustate in per quello che essi come elli non per delettazione
+carnale l'hanno ingannate, cos@i hanno pena da b$otte, le quali
+li stimolano con molti brucciori e corruccioni.
+
+	Circa lo qual capitolo @e da notare che questo peccato de'
+roffiani ed ingannatori si commette adulando, cio@e in modo di
+lodare lo fine a che tendeno; lo qual modo non @e giusto, n@e
+bello, n@e ragionevile.  Ed inanzi che noi vegniamo alle singulari
+particolarit@a di questo canto, si @e da sapere che adulare si pu@o
+fare e bene e male.  Puossi adulare, ed @e bene quando uno vuole
+lodare un bene acci@o che sia conosciuto e prendasi da esso
+esempio; bene eziand@io @e quando si adula a fine di consolare il
+prossimo, sicome quando uno @e morto lodarlo, ed in modo di
+consolazione affermare e persuadere che l'anima sua sia in vita
+eterna; bene eziand@io per drizzare e mantenere alcuno in buono
+proposito acci@o che sia e si conservi in virtude.  Queste tre
+maniere di bene si fanno e adovrano per amore di carit@a s@i come
+virtudi, e sono dirette ad amicizia.  Se l'adoperasseno in altra
+guisa farebbeno peccato, e potrebbe essere in due modi; lo primo
+modo per vanagloria come farebbe a dire: io faccio credere a
+questi sicome savio ch'io sono; lo secondo modo per guadagno
+ch'altri faccia di tale adulazione, e inviarli a mal fine, e
+questo secondo modo si pu@o commettere per diversi fini, si come
+adulare a mal fine promettendo un bene e non osservare tal
+promessa, e questi sono li roffiani, li quali prometteno a quelle
+femine, che conduceno a vituperio o averi, o vitto, o vestito
+^etc.~; e poi quando sono cadute in peccato, non gli attendono
+mai.
+
+	Ad altro fine sono quelli che beffano e ingannano altri
+non usando contra lo prossimo amore di carit@a, ma solo per
+guadagnar, come @e detto.  Ad altro fine sono quelli che vendono
+le cose spirituali e sagre per le temporali, adulando che ci@o
+possono fare, e questi sono detti simon@iaci da Simon mago, che fu
+quel che vuolse comperare da san Pietro lo Spirito santo.  Ad
+altro fine sono adulatori indivinando e facendo erbarie e simili,
+li quali infamano le creature di Dio, come erbe, metalli, pietre
+e costellazioni.  Ad altro fine sono adulatori ipocriti, li quali
+infamano la vita santa, in per quello che s'elli f#esseno tal vita
+com'@e l'apparenza, sarebbe impossibile ch'elli non f#esseno
+miracoli, ed elli perch@e non ne sono degni non ne fanno: sich@e
+tale apparenza in quanto non fa miracoli, infama la santa vita. 
+Ad altro fine sono ladroni, li quali fraudolentemente e
+secretamente esterquono la roba del prossimo per sottilitade di
+suo ingegno.  Ad altro fine sono seminatori di scandalo e di
+zizzania tra l'una persona e l'altra, a questi cotali adulatori
+ingannano facendo credere bug@ie e menzogne l'uno dell'altro.  Ad
+altro fine sono falsificatori delle numisme cio@e pecunie, fra li
+quali sono alchimisti e falsadori di metalli.  Delli quali
+peccati fa menzione l'autore nell'ottavo circolo, il quale elli
+appella luogo di Malebolge, s@i com'@e detto di sopra, e di
+ciascuno palesa la pena sicome in la esposizione de' seguenti
+capitoli si dichiarer@a.
+
+	In la seconda bolgia punisce beffatori e bugiardi, li
+quali hanno tal fraudolenza averso lo prossimo usata
+eseguendoseli alcuni benefizii: punisceli in uno vilissimo
+pantano in per quello che usare tale fraudolenzia nasce la
+pusillanimit@a, la quale si @e vile vizio.  E per@o ch'elli vilmente
+ingannonno il prossimo s@i stanno in s@i vituperoso luogo.
+
+	In la terza bolgia punisce li simoniaci li quali vendeno
+le cose spirituali per le temporali e questi commetteno fraude
+contra lo prossimo, che licitamente crede poter fare tale compra:
+punisceli piantati col capo di sotto, quasi a dire ch'elli
+guardano e versano tutto lo suo intento alle corporali ricchezze
+ch'@enno terrene, ed abandonano e deviansi dalle spirituali e
+celesti grazie.  E sicome avarizia li stimola al mondo, cos@i lo
+inquieto fuoco li apena nello inferno, del quale appare le fiamme
+per li suoi membri, che sono di fuor dal foro dove son fitti.
+
+	In la quarta bolgia punisce li indovinatori, erbarii ed
+incantatori, li quali hanno voluto nel mondo sapere quello che
+dee avenire, e fatto sotto nome di costellazione prestigi,
+osservazione e giudicii, li quali sono contra Dio e la sacra
+Scrittura; e per@o li punisce con le faccie volte di drieto
+sicome hanno voluto provedersi inanzi, cos@i la giustizia di Dio
+li fa guardarsi indrieto.
+
+	In la quinta bolgia punisce li barattieri, li quali hanno
+con fraude barattato lo prossimo; e punisceli in pegola, e molto
+soprastanti da demonii, li quali siccome turpe hanno osservato al
+prossimo, cos@i sono puniti in pegola, e molto spesso graffiati da
+demonii; siccome funno solliciti a barattare, cos@i gli ha
+sollicitudine che siano continuo in pena.
+
+	In la sesta bolgia punisce li ipocriti, li quali sotto
+velame di santitade ascondono l'impie fraudelenzie ed inganni;
+punisceli con cappe foderate di piombo, le quali molto li
+caricano, come apparir@a nel testo, e di fuori non appaiono cappe
+pesanti, in per quello che sicome lo loro difetto fu ascosto,
+cos@i la sua pena non appare.
+
+	In la settima bolgia punisce li ladroni, li quali hanno
+sotratto lo bene del prossimo per latrocinio; ed apenali con
+serpenti, in per quello che 'l serpe @e velenoso animale e per
+paura dannifica con maliz@ia li altri animali: cos@i li ladri con
+maliz@ia per segreto modo perch'hanno sempre paura, commettono
+danno al prossimo.
+
+	In l'ottava bolgia punisce li ingannatori, li quali con
+grande sagacit@a e sottilit@a d'ingegno hanno peccato in prossimo. 
+Ed @e differenza da questi a quelli che si puniscono in la seconda
+bolgia in queste, che quelli che sono nella seconda bolgia
+commettano fraudolenzia perch@e se li segue alcuno benefizio e
+utile, ma questi dell'ottava la commetteno per propria sagacit@a e
+maliz@ia.  Punisceli in fiamme di fuoco, perch@e sicome la sagacit@a
+dello ingegno @e sottile e penetrativa, cos@i la fiamma del fuoco @e
+sottile e penetra e consuma.
+
+	In la nona bolgia mette quelli che sono seminatori di
+scandalo e di rissa tra le persone, ed anche li scismatici; e
+punisceli tutti impiagati e dipartito l'un membro da l'altro.  E
+questo fa, che sicome elli disgiungeno le persone per sua
+seminazione di scandali, ed anche disgiungeno li principali
+membri della Chiesa di Dio, cos@i per pena respondente a tal vizio
+li impiaga, e falli nelli suoi esser disgiunti.
+
+	In la decima ed ultima bolgia punisce li alchimisti e
+falsificatori di monete, li quali con sue fraude fanno parere uno
+metallo altro che non @e; ancora le monete che sono trovate a
+comune utilitade, e per conservare giustizia e fideiussoria,
+falsificano.  Punisceli con diverse e puzzolenti, over fetide,
+maliz@ie; che sicome a salvazione e bene fu trovata la moneta, e
+per soccorrere lo bisognente in ogni caso a questa vita, cos@i
+colui che la falsifica, dalla giustizia di Dio @e punito in quello
+fetore e grande pene con puzzo, come s'affae a tale offesa.
+
+	Poich'@e ditta la intenzione dell'autore, si @e da esporne
+lo testo.
+
+	|1.~  L'ottavo circolo.  |Bolgia~ @e sacca.
+
+	|2.~  Dice la materia del ditto luogo.  |Di color
+ferrigno~, cio@e ruginoso.
+
+	|3.~  Cio@e tale, che tale @e lo fondo come la riva.
+
+	|4-6.~  Cio@e che nel mezzo di tal luogo v'@e un pozzo s@i
+che resta il fondo delle dette bolgie esser circolare, sicome nel
+testo appare.
+
+	|10-12.~  Qui esemplifica che le dette bolgie stanno
+attorno il predetto pozzo, tutto a simile fanno le f$osse come
+attorno di quel castello ch'@e circuito da pi@u circolazioni di
+f$osse per guardia e fortezza.
+
+	|13.~  Cio@e: cos@i sono fatte quelle.
+
+	|14-18.~  Cio@e che sono ponticelli da l'una bolgia
+all'altra com'@e mostrato nel XVI capitolo, li quali recideno,
+cio@e parteno e passano sopra le bolgie e le rive d'esse.
+
+	|19-21.~  Segue lo poema come Gerion li pos@o l@ie.
+
+	|22-27.~  Qui comincia a trattare de' peccatori della
+prima bolgia, e dice che parte de' peccatori della prima bolgia
+verso lo pozzo andavano a man sinistra, l'altra parte verso lo
+settimo circolo andavano demonia frustandoli e battendoli con
+scuriate.
+
+	|28-33.~  Qui @e una similitudine che tal modo d'andare
+faceano li peccatori, una parte di loro in uno lato e l'altra in
+uno altro contrario di quello, sicome fanno a Roma li romei che
+vanno a Roma l'anno del Giubileo, che @e in capo di C anni, in per
+quello che la moltitudine della gente @e tanta, che se al ponte,
+che passa sovra lo Tevere, non fosse ordine, non potrebbe passare
+ogni gente.  E l'ordine @e cos@i fatto, che da capo del ponte
+stanno guardie per lo comune, le quali ordinano che per l'una
+met@a del ponte vanno quelli che vanno verso la chiesa di san
+Pietro, e questi guardano verso lo castello Sant'Angelo; per
+l'altra met@a tornano quelli, che sono stati al perdono, e aduceno
+i volti verso la montagna.  Or tutto simile li detti peccatori
+nella prima bolgia faceano: parte andava verso destra e parte
+verso sinistra.
+
+	|34.~  Descrive la figura de' demoni.
+
+	|35.~  |Ferze~: cio@e scoriade.
+
+	|37.~  |Berze~: Cio@e le gambe e le calcagne.
+
+	|48-56.~  Segue lo poema mostrando come vide messer
+Venedico de' Caccianemici da Bologna, il quale avea una sua
+sorella nome Ghisola bella; roffianolla a messer Opizzo marchese
+da Esti di Ferrara, promettendo a lei che l'arebbe signor@ia e
+grandezza: dopo lo fatto ella si trov@o a nulla delle promesse.
+
+	|57.~  Imperoch@e la ditta novella sconcia suona in
+diversi modi, ch'altri vuol dire che 'l fue non con saputa del
+ditto, ed altri dice che non fu nulla, ma qui @e lo detto messer
+Venedico, e l'afferma s@i come appare nel testo quando dice: |Io
+fui colui che la Ghisola bella~, etc.
+
+	|58-61.~  Segue lo poema mostrando che universalmente i
+bolognesi sono caritatevoli di tali doni, cio@e di roffianare
+parenti e cognoscenti chi meglio meglio.  E per@o dice che quella
+bolgia @e piena di bolognesi: ed a far comparazione quanti sono
+dice che tra Savena e Reno non sono tante lingue accese, cio@e
+vive, che dicano |sipa~, quanto sono quelle che sono in quel
+luogo.  Per la qual comparazione @e da sapere che a Bologna da
+l'un lato della terra corre un fiume che ha nome Savena, da
+l'altro lato corre un altro fiume che ha nome Reno; e |sipa~ @e un
+vocabolo bolognese che @e a dire ^sia.~  Sich@e altro non @e a dire:
+tra Savena e Reno chi dice |sipa~ se non tutti li bolognesi vivi? 
+S@i che hai che pi@u v'@e dannati per tal peccato, che non sono
+tutti li bolognesi che oggi sono vivi.
+
+	|62-63.~  Qui lo prova per ragione probabile in per
+quello che i bolognesi sono avari; naturalmente questo li avviene
+perc'hanno cognoscimento e non pecunia, sich@e per avarizia si
+mettono a tal cattivitade.
+
+	|66.~  Cio@e moneta; quasi a dire: tu non eri da altro se
+non da roffianare femine per moneta.
+
+	|67-72.~  Segue lo poema mostrando come pass@o la prima
+bolgia, e venne su la riva che parte la prima dalla seconda.
+
+	|73-78.~  Ed ancor si rivolse a guardare nella detta
+prima bolgia, per veder quelli ch'erano andati seco, li quali
+elli non avea veduti se non di drieto, in per quello che quando
+vide li altri, non vedea se non quelli che veniano contra lui,
+che quelli con chi elli andava non vedea se non le spalle, e per@o
+dice: |Perocch@e son con noi insieme andati.~
+
+	|83-87.~  Qui vide Jason, il qual fu figliuolo di Esone e
+nipote di Pellia re in Grecia.  E narra qui una bella istoria
+over novella del detto Jason, sicome infra appare.  Essendo lo
+detto Pelio re in Grecia, e non avendo figliuoli maschi alcuno ma
+s@i femene pens@o: quando Jason sar@a maggiore ed io sar@o
+invecchiato, elli mi torr@a la signor@ia per forza, e scaccierammi
+con tutta mia famiglia, sich@e a me conviene di veder via di farlo
+morire s@i segreto, e in tal modo che io non acquisti reprensione
+alcuna.  Pens@o questo: Jason diventer@a buono uomo s@i di senno
+come eziand@io di prodezza di persona, s@i che farlo per modo di
+far prodezze e di senno mi conviene condurlo a morte.  Or era in
+un'isola, che @e appellata Colcos un montone lo quale avea la lana
+d'oro, ed era guardato da un serpente lo qual non potea esser
+morto se non per uno modo.  E molte e molte persone eran gi@a
+andate per t#orre lo detto montone, lo serpente incontanente
+s'aventava a quelli e s@i li uccideva, sich@e lo detto Pellia non
+seppe vedere altra via di farlo morire.  Chiam@o Jason, e disse:
+nepote mio, io voglio a tutti i modi del mondo che vadi a t#orre
+lo montone delli Colchi: tu se 'l prod'uomo, io t'armer@o ed
+accompagnerotti con chi tu vorrai, e come saprai divisare. 
+Jason, sicome prode e ubbidiente rispuose: barba mio, sia quello
+che vi piace.  Armato e accompagnato come li parve, montonno in
+navilio, e comincionno ad andare verso la detta isola di Colcos. 
+Arrivonno in processo di tempo, anzich@e fosseno a Colcos, ad una
+isola che @e appellata Lenno, della qual isola era re uno ch'ebbe
+nome Toante, e giunsero nell'ora del proprio sonno.  Dismontati
+in terra per posarsi, alcuni di loro con suoi cavalli
+appressandosi alla fortezza della terra, s@i li fu detto per le
+guardie: signori, state tanto indietro quanto tranno le nostre
+balestre, se voi non volete morire; in per quello che uomo alcuno
+non lassa entrare qua dentro; e questo comandamento vi facciamo
+da parte della nostra reina.  Or era in quelli che incontrata
+nella detta isola una cosa cos@i fatta, che 'l ditto Toante era
+andato in oste in Tracia con tutta la sua gente, ed essendo in
+oste elli sacrificava a idole, s@i com'era sua usanza, e per
+dispetto delle femine non sacrificava a Venus.  Irata Venus di
+tale disonore, pens@o quello che venne poi fatto, cio@e di metter
+discordia tra li uomini e le femine, e fe' che ciascuna femina
+put@ia di lezzo di capra fortissimamente.  Stato cos@i in processo
+di tempo lo detto re Toante torn@o dall'oste per posarsi alcuni
+d@i.  Quando si volle avvicinare in casa a sua figliuola e cos@i li
+altri elle s@i put@iano ch'elli non poteano star apresso esse. 
+Retornonno costoro all'oste.  Le femine di Lenno indegnate di
+questo, fenno consiglio insieme, per la prima notte, ch'elli
+fosseno tornati dell'oste, di scannar ciascuna quanti maschi elle
+aveano in casa, e di fare la figliuola di Toante regina, acci@o
+ch'ella consentisse al fatto.  Ordinato questo Venus fece cessare
+lo detto fetore.  Stando alcuno die lo detto re torn@o con tutta
+la gente a casa; ciascuno, perch@e 'l fetore era cessato, stava in
+casa al modo usato.  Or la prima notte, come fu ordinato, tutte
+le femine ucciseno li maschi, salvo che la figliuola di Toante,
+ch'avea nome Isifile per piet@a del padre non volle uccidere, ma
+disseli: sappi, padre mio, che tutti li maschi di questa terra
+son morti, se tu non vuoi morire, scampa.  Entr@o questo re
+incontinenti in una navicella, ed elli stesso la condusse ad
+un'altra isola e scamp@o segretamente.  La mattina per tempo
+ciascuna sepell@i li suoi, e fu fatta reina Isifile; poi
+ordinatamente guardavano questo suo luogo con arme, con pietre e
+con balestra.  Sich@e, continuando la novella di Jason, quando
+vide che non potea entrare nella fortezza, torn@o a nave, aspett@o
+che venisse lo d@ie; la mattina per tempo si vest@i di nobilissime
+vesti elli e compagni, e cavalcarono verso la terra: la guardia
+similemente li comand@o ch'elli non s'appressasse alla fortezza. 
+Costui veduto ch'erano femine, domand@o che modo era quello che
+femine avessero la guardia della terra, la guardia li ragion@o la
+novella.  Allora costui, sicome savio e facondo, disse che volea
+parlare alla reina se li piacesse.  And@o la novella ad Isifile
+come un bello e nobilissimo signore li volea parlare, e che pure
+al parlare elli parea di grande essere.  Isifile incontanente pur
+per l'audito innamor@o di lui; ed ebbe licenzia d'entrare con sua
+compagn@ia dentro dalla fortezza.  Se per novella elli le piacque,
+maggiormente ella s'inamor@o quando lo vide; sich@e abreviando lo
+conto, elli giacque con lei ed ingravidolla, e li suoi compagni
+ciascuno ebbe civanza chi con una e chi con un'altra a' loro
+piaceri: erano quelli compagni Ercole, Castor, Pollus ed altri
+grandi e nobilissimi greci.  Stati uno anno in Lenno, Jason e
+compagni disseno che voleano andare a suo viaggio, e promiseno di
+tornare l@ie alla sua tornata.  Preso tale commiato entronno in
+navilio, e andonno all'isola di Colcos.  Quando furono giunti
+all'isola predetta, lo re di Colcos sappiendo chi elli erano, di
+presente li fece invitare, e volle allo postutto ch'elli
+discendesseno in palagio.  Questi tenneno lo invito e dismontonno
+l@ie.  Or la nominanza and@o per l'isola: tali gentili uomini sono
+giunti; ogni persona li andava a vedere.  Or avea una figliuola
+lo detto re, ch'ebbe nome Medea, la qual s@i tosto come vide
+Jason, incontanente fu innamorata di lui, e secretamente li mand@o
+a parlare, dicendo che volontieri sarebbe a parlare con lui a
+solo di certe vicende, che li avea a dire.  Sappiendo Jason che
+tal'ambasciata era della figliuola del re, allegramente le
+rispuose, ch'elli era a tutto 'l suo comandamento, e che ella
+ordinasse del luogo, imperci@o ch'ella sapea meglio la
+disposizione del palagio ch'elli, sicome forestiere ch'elli era. 
+Abreviando, elli furono di notte al primo sonno in una camera
+insieme senza altra compagnia, e qui furono quelle ornate e
+amorose parole, che a tal colazione si conven@ia.  Medea sicome
+savia, volle prima promission Jason di copulazione matrimoniale,
+inanzi che li concedesse il suo volere intero di sua persona; e
+Jason buono e largo, che mai per promesse non perdeo, promise di
+farlo; allora ella lo dottrin@o in lo infrascritto modo di potere
+avere lo montone dello vello aureo; disse: a te conviene pugnare
+collo dragone, e non attendere ad altro che ad esso; e se 'l
+montone venisse lascialo stare, ed attendi pure alla morte del
+dragone: quando l'avrai morto, cavali tutti li denti, ed abbi due
+bovi, e falli arare un campo di terra, poi semina li detti denti;
+e seppi che 'l ditto serpente @e incantato dalle ninfe in tal
+modo; che de' preditti denti nasceranno uomini armati, contra li
+quali ti converr@a pugnare, e vinti quelli per prodezza, avrai
+licenzia di potere lo detto montone portar via.  Ammaestrato
+Jason da Medea, tutta sua dottrina osserv@o ed ebbe lo ditto
+montone acquistato.  Quello tolse Medea per mogliere e menolla
+nelle sue parti, cio@e in Grecia, e per@o dice l'autore: |Quelli @e
+Jason, che per cuore e per senno.~
+
+	|88-90.~  Cio@e la novella detta di sopra delle femine di
+Lenno ch'elli appella le Naiade.
+
+	|91-92.~  Cio@e quando Jason entr@o a parlare con Isifile
+com'@e detto.  Cio@e che la ingann@o, che non torn@o pi@u da lei, come
+li avea promesso che farebbe alla sua tornata.
+
+	|93.~  Cio@e che Isifile era stata ingannaressa delle
+Naiade, che non avea morto lo padre, mo era ingannata da Jason.
+
+	|94-95.~  Or dice perch@e Jason ingann@o Isifile, per@o era
+tra quelli promettitori e non attenditori.
+
+	|96.~  Cio@e che anche perch@e lo ditto Jason ingann@o
+Medea, che lasci@o poi ch'ebbe di lei pi@u figliuoli, s@i riceve
+pena in vendetta di tal peccato.
+
+	|97-99.~  Quasi a dire: abbi per regola che siffatti
+ingannatori stanno a celebrare in cos@i fatto coro.
+
+	|100-102.~  Segue il poema e viene a narrare della
+seconda bolgia.
+
+	|103-108.~  E sicome appar nel testo, elli descrive della
+qualit@a del luogo, mettendo che @e orribile a vedere, e fetido al
+senso dello odorato, e per@o dice: |Che con li occhi~, cio@e al
+viso; |E col naso~, cio@e collo odorato.  |Facea zuffa~: Cio@e
+contraddicevano a sua delettazione.
+
+	|113.~  |Sterco~: cio@e merda.
+
+	|116-122.~  Qui fa menzione d'un cavalieri lucchese che
+ebbe nome messer Alessio de li Interminelli, lo qual
+meravigliosamente fu grande lusinghieri; e per@o che @e viltade
+d'animo condiscendere a tanta cattiver@ia, s@i 'l punisce in cos@i
+fatto elettuario.
+
+	|136.~  Qui compie lo suo capitolo l'autore, e certo elli
+fa cortes@ia a mutar materia.
+
+	|Nota Finale~ {da L. Scarabelli trovata alla conclusione del
+canto}.  ^Un caos @e il proemio che nell'~OTTIMO ^sta dinanzi al
+Commento per questo canto.  Nulla meno tutte le parti elementari
+di esso appartengono al~ LANA: ^e a dir netto @e il~ LANA
+^malmenato criminosamente.  Cos@i al v.~ 82 ^@e tutto affar del~
+LANA.  ^L'~OTTIMO ^non fece che mettere in dialogo o in dramma
+quello che il bolognese pose per disteso in narrazione.~ 

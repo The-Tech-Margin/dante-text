@@ -1,0 +1,59 @@
+	|1.~  ^Poscia che Costantino~.  qui parla giustiniano imperato[re] et 
+dice come costantino port@o el segnio de l'aquila da roma in 
+gostantinopoli ch'@e in grecia contra el corso del cie[lo].  roma si @e 
+cect@a che si @e el lo uccidente et costantinopoli el l'oriente in 
+grecia.  el cielo ae il suo corso da oriente a occidente.  andare da 
+roma a gostantinopoli se va contra el corso del cielo.  Enea troiano 
+av@ia recato el segnio de l'aquila da uriente a l'ocidente poi al tempo 
+suo giustiniano (^sic~) la port@o in gostantinopoli ch'@e inn oriente 
+l@a donde prima era stata l'aquila.  dunde l'av@ia recata enea che 
+tolse lavina figliola del re lactino per moglie.  et per@o dice che 
+lavina tolse.
+
+	|13.~  Ma prima.  dice giustiniano per spiracione de dio io mi mossi a 
+fare le leggi chorregiere.  ma non era dericto christiano ancora.  ma 
+el benedecto agabbito sommo sancto pasto[re] me driz@o nella dricta 
+fede si ch'i' fui dericto christiano e onni altra cosa ch'apartenesse 
+inn acto d'armi lassai al mio belisario.  belisario era suo figliuolo 
+et chi dice nepote.  franchis[sim]o et valloroso et fece molte bataglie 
+et vincendo molte provincie acrebbe la gloria de l'imperio s@i che fu 
+segnio ch'io me dovesse posare solo entendendo a la perfecione de le 
+leggi s@i ch'io ne venni a perfecto fine.
+
+	|61.~  (^ma dovrebbe essere~ 73) Quel che fe' poi doppo la morte de 
+julio cesare actaviano agusto remaso doppo lui.  tucto 'l mondo revense 
+col l'aquila et socto l'aquila ponse tucto el mondo im pace tanto che a 
+Jano fo serrato el suo dilubro.  dilubro era chiamato uno tempio ch'era 
+el loco dove sempre stavano l'armi al chomuno.  questo iano fu dei 
+primi re de roma.  et quando el decto tempio s'apriva era segno di 
+guerra et quando serrato di pace.  s@i ch'al tempo d'octaviano agusto 
+fu al tucto questo tempio serrato e al suo tempo d'octaviano nacque il 
+nostro salvatore.
+
+	|118.~  ^Ma nel comisurare~ dei nostri gaggi col merto de la nostra 
+letizia @e parte.  perch@e non ci vediamo minori n@e maggi ch@e 
+ciascuno @e meritato secondo esso @a meritato s@i che tucti semo 
+contenti ciascuno el la volunt@a de col[u]i che tanto diede a l'oparaio 
+che venne a vespro quanto a quello che venne la mactina.  et quinci 
+viene la nostra letizia et semo sempre quieti nella volunt@a che ci 
+apaga n@e mai cie possiamo torcere da lui etc.
+
+	|127-133.~  E dentro a la presente margherita.  cio@e dentro a la 
+pre[se]nte pianeta de merchurio relucie l'anima di romeo.  questo Romeo 
+fo fatore de uno conte di provenza conte ramondo al quale doppo la sua 
+mo[rte] ne remasaro quattro figliuoli.  uno maschio et quatro femmene.  
+quessto romeo tanto lialmente govern@o el contado di costoro che per 
+sua solicitudine marit@o queste sirocchie a quatro re di corona.
+	l'una marit@o al re de puglia.  l'altra al re de cicilia.  la terza al 
+re di raona.  la quarta al re d'ungher@ia rema[ne]ndo el decto contado 
+al fratello de le decte reine libero spedito.  poi cresciuto el loro 
+fratello seguendo le maldicenti lingue che llo indussaro a fare cos@i.  
+adimand@o a questo rome[o] che li asegniasse ragione de tucto el tempo 
+ch'elli av@ia tenuto el contado dal d@i che mor@io el padre come dice 
+dan[te] elli li asegni@o secte et cinque per deci.  et sendo pocho 
+tenuto a grado l'opera grande et bella ch'elli av@ia facta et non 
+volendo pi@u stare col lui se ne part@io povaro et vechio.  et tenne 
+poi tanta laudabile [vita] che non @e tanto lodato ch'ei non fosse de 
+[pi@u] et avene poi che 'l contado de ramondo sempre and@o di male im 
+pegio etc.
+

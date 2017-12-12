@@ -1,0 +1,127 @@
+{MEMOS_H}
+;
+;	SCCS ID "@(#) BRS Mate: Menu MEMOSH.MNS v41.2 (2/14/88) { Release 4.1 }"
+;
+
+:SET #HEADING -
+	~\cBRS/SearchMate\l26\o2 Electronic Memorandums Help \f2\l62#DATE\n~
+
+:COMPARE @HLP
+
+     TO "MainMenu"
+
+	:PRINT ~#HEADING
+     Electronic  Memorandums is this interface's method of accessing the
+     messaging switching facility utilized at your site.  When installed
+     in the default configuration, this facility is associated with  the
+     BRSMAIL program.  BRSMAIL is an easy-to-use electronic mail program
+     which  allows for simple message delivery between users on a single
+     computer system.
+
+     Often,  however,  your  system  administrator  will  configure this
+     system to utilize a  more  generalized  messaging  system  possibly
+     associated  with  your  operating  system.   Use of a site-specific
+     program many times allows for message delivery between machines  or
+     various company sites.
+
+     The previous menu allows for five selections: R, C, L, H, or S (or Q).
+     These are described on the next screen.\n~
+
+	:PAUSE BOTTOM
+	:PRINT ~#HEADING\n
+       R  for  "Read outstanding memorandums," invokes the site-specific
+          mail program to allow reading of any pending  messages.   When
+          there are no messages pending, some programs simply report the
+          fact and immediately exit.
+
+       C  for  "Compose  a memorandum," first queries for the recipients
+          of  the  message  and  the  subject  of  the  message.   After
+          supplying  this  information,  a  site-specific editor program
+          will be invoked.  You should use  the  editor  to  enter  your
+          message.   After  exiting  the editor, you can confirm sending
+          before your messages are given to the electronic mail delivery
+          system.
+
+       L  Prints a list of current Dante Project database users, and the
+	  addresses to use to send them mail.
+
+       H  for "display Help," outputs this text.\n~
+
+	:PAUSE BOTTOM
+	:PRINT ~#HEADING\n
+
+       Q  for  "Quit to Special Functions Menu" allows exiting this menu
+          and returning to the special functions  menu.   (If  you  were
+          signed  on  to  a database when you entered the Memo function,
+          use "S" to return to searching.)
+
+       S  for  "Search".   If  you were signed on to a database when you
+          entered the Memo function, this option will appear,  and  will
+          return you to the database you were searching.\n~
+
+     TO "ToName"
+
+	:PRINT ~#HEADING
+     You  are preparing to compose a message.  At this prompt (To:), you
+     should enter the electronic mail addresses of the people  you  wish
+     to  send  the  message  to.  You may enter as many addresses as you
+     like, separating each unique address with a space.  You may  strike
+     RETURN here to cancel composing a message.
+
+     An  "address"  can be a number of things, depending on the delivery
+     system configured at your site.  The  simplest form of  address  is
+     the  user  id  of  another  BRS/SEARCH  user.  Often the user id of
+     another operating system user will also work.   When  cross-machine
+     or  inter-network  messaging  is  desired, an address may be of the
+     form  "machine!user"  or  "user\@machine"   or   "user\@name.domain."
+     Consult  the  documentation  regarding  your  messaging  system for
+     further information.
+
+     After  entering  the  addresses, the subject of the message will be
+     prompted for.\n~
+
+     TO "Subject"
+
+	:PRINT ~#HEADING
+     You are preparing to compose a message.  At this prompt (Subject:),
+     you  should  enter a short, single-line description which describes
+     the contents of your message.
+
+     The  subject is a required field on your message.  Without it, many
+     messaging systems are less effective  when  incoming  messages  are
+     being  read.  There is no rule regarding what a subject line should
+     or should not contain.  A simple two to eight word  description  is
+     often appropriate.  A subject for this help screen might be:
+
+		The E-Mail Subject Line
+
+     The  recipient(s)  of  your  message  will  appreciate it when your
+     subject  is  a  short,  relevant  description  of  your   message's
+     contents.
+
+     After  entering  the  subject,  your  site-specific  editor will be
+     invoked allowing you to compose your message.\n~
+
+     TO "Send"
+
+	:PRINT ~#HEADING
+     You  are  about  to  confirm sending the message you just composed.
+     At this menu you  are  presented  with  a  summary  of  information
+     regarding  your  message: addresses of recipients, subject, and the
+     size of the message you created.
+
+     Select  M  (or  simply  RETURN)  to  send  your  message.  Select !
+     (exclamation point)  to  cancel  your  message.   H,  as  you  have
+     discovered, supplies this help screen.
+
+     Your  message  will  be  delivered using the site-specific delivery
+     program.  If you used BRS user-id's as addresses,  it  is  possible
+     that  they  will be converted to more specific address as specified
+     in each user's configuration  table.   Normally,  message  delivery
+     will  go without any problems.  In case of some error, however, the
+     system will report the trouble as best it can.\n~
+
+:DONE
+
+:PAUSE BOTTOM
+:RETURN

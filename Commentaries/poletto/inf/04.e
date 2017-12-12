@@ -1,0 +1,1477 @@
+	|1-6.~  Sono notati dall'Alfieri.  Veggasi altro
+destarsi.  ^Inf.~, VI, 1; IX, 33-43; XIX, 33; XXVII, 112. 
+|Ruppemi l'alto sonno~ ecc.: nella ^Vit. N.~, III: <Il mio sonno
+^si ruppe~ e fui disvegliato:> ivi, XII: <^Il mio sonno fu
+rotto~:> cf. ^Purg.~, IX, 34; XVII, 40 (^come si frange il
+sonno~); XXVII, 113 (^fuggire il sonno~); XXXII, 78, ^sonni
+rotti~ (cf. ivi, 72).  Il sonno dunque si pu@o ^rompere~ o per
+soverchio di luce, o per istrepito, o per altra disgustosa
+sensazione (^Purg.~, XIX, 33).  Il |sonno~ @e paragonato a legame
+(^Purg.~, XV, 119).  -- |Un greve tuono~ (|greve~, cf. III, 43):
+|tuono~ d'infiniti guai (v. 9); d'altra natura @e il tuono del
+^Purg.~, IX, 139.  Codesto |tuono~ Dante lo intese appena posato
+dall'Angelo sulla proda del baratro infernale, in quella stessa
+guisa che deposto da Lucia dinanzi all'Angelo alla porta del
+Purgatorio, la luce che da quello si spandeva gli rompe il sonno. 
+Nell'^Epist.~, a Moroello (tra quelle di Dante, III): ^Sed stupor
+subsequentis tonitrui terrore cessavit.~  -- |Mi riscossi~, mi
+destai dal sonno; nella ^Vit. N.~, XXIII: <Riscotendomi apersi
+gli occhi, e vidi ch'io era ingannato.>  Il Puccianti, segu@ito da
+altri, non intende in questo |tuono~ quanto il Poeta accenna nel
+v. 9, sibbene un tuono vero per lo scoppio del fulmine.  Lo
+Scartazzini (^Inf.~, XXXI, 12) opina che cotal tuono venisse dal
+suono del corno di Nembrotte; veramente che un corno; per quanto
+sonato da un Nembrotte, faccia sentire il suo suono per una
+distanza di circa tremila duecentocinquanta miglia, quanto si
+stende la caverna infernale (cf. ^Conv.~, II, 7 e 14), e per
+giunta con un rimbombo da parere un |greve tuono~, la @e un po'
+grossina, e non tutti saran disposti ad ammetterla.  -- |Come
+persona~ ecc.  A ci@o @e buon commento il ^Par.~, XXVI, 70-75.  --
+|E occhio riposato~ ecc.; nel ^Purg.~, IX, 35:
+
+     Gli occhi svegliati rivolgendo in giro.
+
+-- |Dritto levato~, cio@e ^levato dritto in pi@e~ (^Purg.~, XXXIII, 
+8).  -- |Fiso riguardai~: spesso occorre questa forma nel Poema;
+cf. ^Purg.~, III, 106; XIII, 43; XXIII, 4I; XXXII, 9; ^Par.~, 
+XXIII, 9; XXXI, 54.  -- |Per conoscer lo loco~ ecc.  <Non appena
+la mente stupefatta ritorna ai sensi, ^invia~ l'occhio intorno
+per comprendere la forma generale del luogo (cf. ^Inf.~, IX, 
+109); poi qua e l@a l'affissa a bene distinguerne le parti, e indi
+giunge a conoscerlo pienamente.  Questa @e verit@a e bellezza di
+natura> (Giuliani); e ci richiama a riprova al ^Purg.~, IX, 
+34-42.
+
+	|7-9.  Vero @e~ (l'Alfieri nota dal v. 7 al v. 13
+inclusivamente), fatto sta (cf. ^Inf.~, IX, 22; XXIX, 112;
+^Purg.~, III, 136; X, 136; ^Par.~, I, 127.) -- |Proda~, riva, 
+sponda del mare o de' fiumi (cf. ^Inf.~, VIII, 55; XII, 101); ma
+qui per ^orlo~ (cf. ^Inf.~, XVIII, 5; XXI, 42).  -- |Valle
+d'abisso~ ecc., valle inferna (^Purg.~, I, 49), ^la valle, ove
+mai non si scolpa~ (^Purg.~, XXIV, 84).  Questa valle @e tonda
+(cf. ^Inf.~, XIV, 124), nella sua parte pi@u alta percorsa
+dall'Acheronte; va poi di giro in giro stringendosi a forma di
+imbuto o di piramide arrovesciata; perci@o quanto pi@u si scende, 
+son minori di diametro i Cerchi, ma maggiore la colpa e per
+conseguente pi@u pungente la pena (cf. VI-5): questa valle
+^insacca il mal dell'universo tutto~ (^Inf.~, VII, 18).  --
+|Tuono~ ecc.; come al v. 2, ha senso di grande rumore: alcuni
+Codici leggono ^trono~, forma antica; onde intronare (^Inf.~, VI, 
+32).
+
+	|10-12.  Oscura~, per ^le tenebre eterne~ (^Inf.~, III, 
+87); |profonda~, perch@e andando col suo cono fino al centro della
+terra, misura di lunghezza ^tremila duecento cinquanta miglia~
+(^Conv.~, II, 7 e 14; IV, 8).  -- |Per ficcar~ (Cf. ^Inf.~, XVI, 
+93; XXVIII, 3), per quanto ficcassi lo sguardo per l'^aura grossa
+e scura~ (^Inf.~, XXXI, 37), gli ^occhi vivi non potean ire al
+fondo per l'oscuro~ (^Inf.~, XXIV, 70).  |Per ficcar~: <|per~ nel
+significato strumentale, dice il Blanc, precedente ad infinito, 
+forma spesso locuzioni particolari equivalenti a: ^checch@e io
+faccia, o facciamo.~>  A me parrebbe pi@u semplice risolvere col
+modo ^per quanto~ unito all'imperf. del congiuntivo; onde qui
+^per quanto io ficcassi.~  E ^Inf.~, XVI, 93:
+
+     Per parlar saremmo appena uditi;
+
+e ibid., XXVIII, 3: per narrar pi@u volte: e ^Purg.~, XXV, 16:
+
+     Non lasci@o, per l'andar che fosse ratto ecc.;
+
+ed ha qualche affinit@a ^al perch@e~ nei seguenti luoghi; ^Inf.~, 
+IV, 64; VIII, 121; XV, 15; XXXII, 100.  E dizione analoga mi
+sembra questa: ^Per dolor ch'egli abbia~ (^Inf.~, XVIII, 84); ed
+anco col |per~ sottinteso: ^che, poder ch'egli abbia~ (^Inf.~, 
+VII, 5).  -- |Viso~ per vista, occhi, sguardo, @e frequente (cf.
+^Inf.~, XV, 26; XX, 10; XXXI, 11; ^Purg.~, III, 104; XXVIII, 148
+e spesso).  -- |Ficcare~ ecc.; ^ficcar gli occhi~ (^Purg.~, XIII, 
+43; ^Inf.~, XII, 46, ^ficcar gli occhi a valle~; XV, 26; ^ficcai
+lo viso per lo cotto aspetto~): cf. ^Purg.~, XXIII, 1-2; ^Par.~, 
+XXXIII, 83; moralmente ^per fissare l'attenzione~, ^Par.~, VII, 
+94; XXI, 16.  Se poi sia la vista che vada all'oggetto, o
+l'oggetto che venga alla vista, cf. ^Inf.~, IX, 73.
+
+	|13-15.~  L'Alfieri noto il v. 13.  |Cieco mondo~ (cf.
+XXVII, 25; e X, 58, ^cieco carcere~), non solo perch@e pieno di
+^tenebre eterne~, e ove ^sempiternus horror inhabitat~ (^Job.~), 
+e dove ^l'aura~ @e ^morta~ (^Purg.~, I, 17), ma perch@e non c'@e la
+visione di Dio; onde ^ciechi i dannati~ (^Inf.~, VI, 93); e ^vita
+cieca~ quella de' fannulloni (^Inf.~, III, 47).  Non sa il Poeta
+come meglio designare l'Inferno, se non dal mancamento di ^luce~, 
+(^tenebre eterne~, III, 87), e dal mancamento ^d'amore~ (perch@e
+^perduto il Ben dell'intelletto~, III, 18, Amore sommo): si noti
+pertanto la manifesta opposizione del Paradiso, ove ride e si
+stende beatifica
+
+      Luce intellettual piena d'amore, 
+     Amor di vero ben pien di letizia, 
+     Letizia che trascende ogni dolzore, 
+
+^Par.~, XXX, 40-42.  -- |Tutto smorto~, cio@e (cf. v. 19) ^tutto
+smarrito dalla grande angoscia~ (^Inf.~, XXIV, 116).  -- |Io sar@o
+primo~ ecc.  Con questa parola affettuosa in pari tempo e
+solenne, Virgilio fa capo al suo viaggio pel vero Inferno; e
+Dante, oltrech@e in altra occasione (cf. ^Inf.~, XXIII, 2), ne
+confermer@a la verit@a all'uscire di esso (cf. XXXIV, 130).  In
+quanto all'ufficio di Maestro, il buon Mantovano saviamente, in
+cosa speciale, ceder@a ^il primo~ posto ad un altro (cf. ^Inf.~, 
+XII, 114).  Il Bargigi; <Io Virgilio sar@o il primo a discendere e
+tu, o Dante, sarai secondo; io ti far@o la via.  E cos@i fu secondo
+verit@a, ch@e Virgilio, descrivendo l'Inferno nel sesto libro
+dell'Eneida, fece a Dante via in questa sua opera.>
+
+	|16-18.  Ed io, che del color~ ecc. (l'Alfieri nota il
+tratto dal v. 16 al v. 21); cio@e del pallore di Virgilio, che
+Dante stortamente giudic@o paura (cf. 21).  ^Vit. N.~, XXXVI:
+
+     Lo viso mostra lo color del cuore;
+
+e ci@o di tutti gli affetti (cf. ^Purg.~, III, 44-45), giusta la
+loro differente natura, perch@e ^i sembianti soglion esser
+testimoni del cuore~, ^Purg.~, XXVIII, 43-45 (cf. ivi, VIII, 24;
+XV, 106).  Nel ^Conv.~, III, 8, discorrendo delle passioni varie
+dell'anima umana, dichiara che essa dimostra nella faccia la
+^sembianza della passione~, onde dentro @e vinta, ^se per grande
+virt@u dentro non si chiude.~  -- |Al mio dubbiar conforto~, 
+aiuto, soccorso: e cos@i Virgilio @e anzi detto da Dante il suo
+|conforto~, ^Purg.~, III, 22; IX, 43.  -- |Dubbiar~, incertezza, 
+dubbio; cf. ^Inf.~, XI, 93.
+
+	|19-24.  L'angoscia~ ecc.  Nella ^Vit. N.~, XXXII, canz., 
+st. 5:
+
+     Pianger di doglia e sospirar d'angoscia.
+
+Non @e da credere che Virgilio, come vorrebbe qualche chiosatore, 
+intenda qui il dolore, l'affanno ch'egli sentisse pei dannati in
+genere, tal dolore dicendolo altrove cosa da scellerati (^Inf.~, 
+XX, 29); sibbene si deve intendere ch'egli parli esclusivamente
+di que' del Limbo, della cui |angoscia~ egli medesimo partecipava
+(cf. ^Purg.~, III, 44-45), angoscia che Dante stesso prover@a poco
+appresso (cf. vv. 43-45; e V, 93).  -- |Piet@a~: cf. ^Diz. Dant.~, 
+artic. |Piet@a.~  -- |Per tema senti~; -- giudichi stimi per
+paura; credi, reputi paura.  Nel ^Conv.~, II, 4: <Anco Aristotele
+pare ci@o ^sentire~, chi bene l'intende.>  E ivi, 5: <Di queste
+creature (^degli Angeli~) diversi diversamente hanno sentito.> 
+Cf. ^Par.~, IV, 51; XXIV, 67.  I Latini: ^ita sentio~; e noi si
+dice: ^la sento cos@i, ho questo sentimento.~  Di questo ^pallore~
+di Virgilio scrive Pietro: <Fingendo ibi Virgilium, idest
+judicium rationis, palluisse.  Et hoc ad figuram; nam ratio
+humana non bene scit judicare quare existentes in Limbo debeant
+ibi ad poenam esse qui non peccaverunt, et similiter quare pueri
+non baptizati, qui absque libero arbitrio fuerunt in actu, et sic
+non peccaverunt, quare in Limbo aeernaliter puniantur.  Sed
+theologia hoc bene videt; nam per eam perficitur intellectus.> 
+(Cf. ^Par.~, XIX, 103-105; XXXII, 82-84).  -- |La via lunga~
+ecc.; e perci@o non ci consente troppo indugio.  Grande e sempre
+vivo si manifesta in Dante il pensiero dell'^age quod agis~, cio@e
+di tener la mente fisa all'opera impresa, tutte usando le forze
+all'inteso fine (cf. ^Purg.~, V, 13-18); e grande del pari la
+cura del tempo, come di cosa preziosissima; cf. ^Inf.~, VII, 99;
+XXXIV, 94; e deve sonare altamente educativa in ogni et@a la
+sentenza:
+
+     Il perder tempo a chi pi@u sa pi@u spiace
+
+(^Purg.~, III, 78): e il consiglio incitatore di Virgilio
+all'alunno di cogliere la buona occasione di apprendere:
+
+     Pensa che questo d@i mai non raggiorna
+
+(^Purg.~, XII, 84); il che tutto si assomma nella parola di Dante
+rispetto agli avvisi sapienti di Virgilio sulla cura del tempo, 
+^Purg.~, XII, 85-87.  -- |Cos@i~ (cf. ^Inf.~, VIII, 109) |si mise~
+(^allor si mosse~, ^Inf.~, I, 136); ^e cos@i mi fe' entrare~, cio@e
+^mi mise dentro~ ecc., ^Inf.~, III, 21.  -- |Nel primo cerchio~
+ecc.  Questo Cerchio @e il ^lembo~ o ^limbo dell'Inferno~
+(^Purg.~, XXII, 14); onde essendo il pi@u ampio di tutti gli
+altri, contiene, comprende, ^cinge~ o ^cinghia~ (^Inf.~, V, 2)
+tutto l'abisso; in quella guisa che il primo de' Cieli mobili
+tutti gli altri ^comprende~ o rinchiude (^Par.~, XXVII, 112; cf.
+XXVIII, 27).  ^Cerchi~ chiama il Poeta que' ripiani circolari
+dell'Inferno, che da un dato punto si protendono verso la ripa
+del baratro, che vaneggia nel mezzo.  Si noti che in questo primo
+Cerchio non c'@e guardiano; Satana non ci ha qui giurisdizione, n@e
+un diavolo dunque poteva essere per custode.  Sulla grandezza
+della caverna infernale cf. la ^Topo-Cronografia~ dell'Agnelli
+(Milano, Hoepli, 1890), che raccolse e discusse le varie
+opinioni.
+
+	|25-30.  Secondo che~, ecc., secondo o per quanto si
+poteva raccogliere ascoltando; o, come spiega il Magalotti, 
+secondo che per l'udito si potea raccogliere; modo ellittico.  Il
+Cod. di Frate Stefano legge: ^secondo ch'io pote' ascoltare~
+(seguito dallo Scarabelli); e il Campi, chiamando ^bella~ tale
+lezione, soggiunge: ^l'avrei accettata a chiusi occhi soltanto
+che presentata mi si fosse un'altra testimonianza.~  Il
+Fraticelli e il Bianchi reputarono tale lezione ^forse la vera~;
+e tale lezione accett@o pure il Giuliani nell'edizione sua del
+sacro Poema.  -- |Non avea pianto~ ecc.: nel ^Purg.~, VII, 29, 
+del Limbo:
+
+                            ove i lamenti
+     Non suonan come guai, ma son sospiri;
+
+non v'era pianto o altra espressione di dolore, salvo che
+sospiri; |ma' che~, fuorch@e, altro che (cf. ^Inf.~, XXVI, 38), 
+salvo, se non che; @e il ^mas que~ de' Provenzali e degli
+Spagnuoli, derivato dal ^magis quam~ de' Latini; Dante usa questa
+forma altre quattro volte (^Inf.~, XXI, 20; XXVIII, 66, dove il
+Tommaseo afferma che vive in Corsica per ^eccetto~; ^Purg.~, 
+XVIII, 53; ^Par.~, XXII, 17).  -- |Sospiri~; provenivano dal
+cocente desiderio di vedere Dio, desiderio che
+
+     Eternalmente @e dato lor per lutto, 
+
+(^Purg.~, III, 12); dunque |duol senza mart@iri~ (v. 28), cio@e
+dolore interno o dello spirito, senza pena del senso.  L'Ottimo:
+<Non v'@e pianti, per@o che il pianto procede da pena e da
+tormento; ma sospiri, che seguono al disio> (cf. vv. 41-42; e II, 
+52).  Ci@o risguarda solo il primo Cerchio o Limbo; invece negli
+altri la divina Giustizia ^croscia per vendetta i suoi colpi~ a
+misura della gravit@a della colpa (^Inf.~, XXIV, 120).  -- |Che
+l'aura eterna~ ecc.: cf. v. 150.  -- |Turbe.~.. |molte~ di
+numero, |grandi~, perch@e di ^spiriti spessi~ (v. 66); |turbe~, 
+schiere (v. 101), in che sono distinte le anime giusta la
+condizione avuta in questo mondo (cf. v. 94).  Il Bargigi: <Le
+quali turbe eran molte e grandi.  |Molte~, quanto alla diversit@a
+loro, perocch@e una di fanciulli, un'altra di femmine; altra di
+uomini assai volgari; altra d'illustri principi, e magnanimi
+propugnatori per la patria; altra d'uomini eccellenti in
+filosofia, in medicina, in rettorica, in poesia e in altre
+scienze.  |Grandi~ eran queste turbe, perocch@e in ciascuna era
+gran multitudine d'anime.>  -- |Viri~; propriamente l'uomo, 
+l'adulto, in opposizione a ^infanti~ (cf. ^Par.~, X, 132; XXIV, 
+34); ma qui pu@o anche riferirsi in modo speciale alla ^gente di
+molto valore~ (v. 45).  Gli |infanti~ sono quei
+
+                       pargoli innocenti
+     Dai denti morsi della morte, avante
+     Che fosser dell'umana colpa esenti
+     (^Purg.~, VII, 33), 
+
+i quali ne' secoli pi@u vicini alla creazione non si salvavano per
+mancanza della fede de' genitori nel venturo Messia, e pi@u tardi
+per mancanza della circoncisione; o, venuto il Messia, per non
+aver avuto il ^battesmo perfetto~ di Cristo (^Par.~, XXXII, 
+76-84).  Virgilio (^Aen.~, VI, 306):
+
+     Matres atque viri... pueri innuptaeque puellae;
+
+e ivi (426-429):
+
+     Continuo auditae voces, vagitus et ingens, 
+     Infantumque anima flentes in limine primo;
+     Quos dulcis vitae exsortes et ab ubere raptos
+     Abstulit atra dies.
+
+Or qui fa mestieri indugiarci un poco.  L'Angelico dichiara che
+lo stesso luogo e stato dei Santi prima della venuta di Cristo
+era detto ^seno d'Abramo~ rispetto al riposo, e ^limbo
+dell'Inferno~ (cf. ^Purg.~, XXII, 14) in quanto alla mancanza di
+gloria (^Summ. Th.~, III, 52, 2 ad 4); perch@e poi a' Santi
+mancava la quiete del desiderio, il ^limbo~ @e detto inferno
+(Suppl., 69, 4); e prosegue (ibid., artic. 5): <Si considerentur
+(receptacula animarum post mortem) quantum ad situm loci, sic
+probabile est quod idem locus vel quasi continuus sit Infernus et
+Limbus; ita tamen quod quaedam superior pars inferni (Dante: ^il
+primo cerchio~, v. 24, il ^cerchio superno~, ^Inf.~, XII, 39), 
+limbus patrum dicatur.  Existentes enim in inferno secundum
+diversitatem culpa: diversam sortiuntur et poenam, et ideo
+secundum quod gravioribus peccatis irretiuntur damnati, secundum
+hoc obscuriorem locum et profundiorem obtinent in Inferno; unde
+et sancti patres, in quibus minimum erat de ratione culpae, 
+supremum et minus tenebrosum locum habuerunt omnibus puniendis.> 
+Questo tratto del santo Dottore @e rilevantissimo, 1) perch@e ci
+dimostra che Dante nel costituire il luogo del suo Limbo si tenne
+alle dottrine della teologia cristiana, per le quali le anime dei
+bambini e quelle de' padri erano in un solo luogo (cf. ^Purg.~, 
+VII, 31 e segg.) vicino a quello de' dannati; 2) perch@e ne fa
+certi che Dante parlando della Giudeca, non a caso ma per ragione
+di preciso sistema disse:
+
+     Quello @e il ^pi@u basso~ luogo e ^'l pi@u oscuro~, 
+     E il pi@u ^lontan~ dal ciel che tutto gira, 
+     ^Inf.~, IX, 28-29;
+
+3) perch@e ne d@a ragione della ^luce~, che Dante fa piovere nel
+Limbo suo (cf. vv. 68 e 116).  Notabili anche le parole seguenti
+(illustrative del v. 30) dello stesso teologo (ibid., artic. 6):
+<Limbus patrum et limbus puerorum absque (dubio differunt
+secundum qualitatem poenae vel praemii..., sed quantum ad situm, 
+probabiliter creditur utrorumque locus idem fuisse.>  Il Card.
+Capecelatro (^Vit. G. Cr.~, cap. XXXVIII) scrive a buon
+proposito: <L'Inferno, secondo la dottrina ebraica, comprendeva
+due limbi (^scheol~); il primo, che conteneva i perduti tra sette
+abissi di tenebre e fuoco eterno; il secondo (^scheol~
+superiore), che conteneva i giusti purificantisi dalle loro
+macchie nel fiume di fuoco chiamato ^dinur~, fino a che non
+entrassero nell'altra parte (paradiso inferiore, oggi detto
+limbo), in cui con ardente desiderio aspettavano il regno di
+Dio.>  Alle quali parole il dottissimo Porporato fa seguire
+questa nota.  <^Sepp, Vie de J$esus~, tom. III, pag. 70.  La
+parola ^limbo~, per significare il luogo di aspettazione de'
+giusti, non @e adoperata dal'antichit@a.  Pare che cominci ad
+usarsi verso il tempo di S. Tommaso.  Il Purgatorio, il Limbo e
+l'Inferno dei dannati si dicevano ^inferno.~  Di qui l'articolo
+del ^Simbolo~: ^descendit ad inferos~; e le parole di S. Pietro
+(I Petri, III, 19).>  Il Napione (^discorso intorno al canto~ IV, 
+dell'^Inferno~, in ^Div. Commedia~, ediz. dell'Ancora, vol. IV, 
+pag. 25): <^Limbus~ @e voce latina, che altro non significa se non
+se l'estremit@a, l'orlo di qualunque cosa, onde non ripugna in
+nessun modo il denotare con tal nome la parte estrema e superiore
+delle regioni infernli, meno rimota dal Cielo.  Non un terzo
+luogo adunque, come suppongono certuni, ma bens@i una mansione
+dell'inferno, indicar vollero con siffatta voce gli Scolastici; e
+Dante chiaramente spieg@o in questo particolare il suo sentimento
+col comprendere il Limbo, appunto nella sua Cantica dell'Inferno. 
+Nella pura latinit@a ^Infernus~ @e aggiunto, che altro non
+significa se non se ^inferiore.~>
+
+	|31-39.  Tu non dimandi~ ecc. (l'Alfieri not@o il v. 36.) 
+Nel sesto Cerchio (^Inf.~, X, 16 e segg.), Virgilio, ad una
+domanda dell'alunno risponde:
+
+              Alla dimanda, che mi faci, 
+     Quinc'entro soddisfatto sarai tosto, 
+     Ed al disio ancor, che tu mi taci:
+
+e Dante soggiunge:
+
+           Buon Duca, non tengo nascosto
+     A te mio cor, se non per dicer poco;
+     E tu m'hai non pur ora a ci@o disposto.
+
+@E chiaro che qui il Poeta si richiama alla risposta che Virgilio
+gli diede altrove (^Inf.~, III, 72-78) a proposito d'altra
+inchiesta, risposta che lo fece ^vergognare.~  Quindi @e che per
+l'ammonimento ivi avuto Dante si fece guardingo del troppo
+domandare, onde qui il Maestro @e costretto di dolcemente
+provocarlo.  -- |Andi~, vada; i nostri antichi ne' tempi finiti
+stavan pi@u fissi che noi all'origine del verbo; onde ^ando, andi, 
+anda~, non infrequente.  Il Gelli (^Letture sopra la Comm. di
+Dante~, pubblicate dal Negroni, Lett. II, lez. X): <La voce
+|andi~ non @e oggi in uso, con ci@o sia cosa che la lingua nostra
+non accetti oggi di questo verbo, nel tempo dimostrativo
+presente, se non quella della prima persona e della seconda del
+numero del pi@u, cio@e ^noi andiamo, voi andate.~>  -- |Non
+peccaro~, non ebbero peccati attuali non perdettero Dio per
+^vizio, reit@a~ di opere, ma solo ^per non aver F@e~ (^Purg.~, VII, 
+8); onde Virgilio a Sordello (ivi, 34-36):
+
+     Quivi sto io con quei, che le tre sante
+     Virt@u non si vestiro, e ^senza vizio~
+     Conobber l'altre, e segu#ir tutte quante.
+
+-- |Mercedi~; il merito derivante dalle buone opere (^Par.~, XXI, 
+52; XXVIII, 112), quelle opere che provengono dai ^dritti
+costumi~ (^Purg.~, XXII, 86), ossia ^la merc@e del costume~
+(^Par.~, XXXII, 73).  -- |Non basta, perch'ei non ebber Battesmo~
+(strano verso in quanto alla posizione degli accenti; cf.
+^Purg.~, VII, 25): |battesmo~, pi@u affine al latino ^baptismus~
+che non sia ^battesimo~, onde nella ^Commedia~ |battesmo~ leggesi
+sempre.  Non bastano, per salvarsi, le buone opere, ma @e
+necessaria la Fede, 
+
+     La F@e, senza la qual ben far non basta
+     (^Purg.~, XXII, 60);
+
+e questa nella nuova Legge si consegue col ^battesimo.~  Bello e
+opportunissimo il passo della ^Mon.~, II, 8: ^Nemo quantumcumque
+moralibus et intellectualibus virtutibus perfectus~ (per quanto
+sia ^di molto valore~, v. 44), ^absque fide salvari potest~ (cf.
+^Purg.~, VII, 7; ^Par.~, XIX, 104; XXXII, 24).  Dante, 
+riconoscendo una sola e vera fede, ch'@e quella in Cristo, la
+^divide in due sguardi~ ovvero ^aspetti~ (^Par.~, XXXII, 19 e
+38), cio@e i credenti in Cristo venturo, o ^ne' passuri piedi~, e
+quelli in Cristo venuto o ne' ^piedi passi~ (^Par.~, XX, 105); il
+che tutto bellamente e pienamente riassume e rafferma nella
+^Monarchia~ (III, 3): ... ^Illi qui in Filium Dei Christum, sive
+venturum, sive praesentem, sive jam passum crediderunt, et
+credendo speraverunt, et sperantes charitate arserunt, et
+ardentes Ei cohaeredes factos esse mundos non dubitat~ (cf.
+^Par.~, XX, 115).  Da tale divisione provenne la divisione in due
+grandi sezioni o ^discrezioni~ che il Poeta fece del suo Paradiso
+(^Par.~, XXXII, 20-27 e 40-42).  -- |Porta della Fede~ ecc. 
+Altri legge ^parte~, e, secondo me, non bene.  San Tommaso
+(^Summ. Th.~, III, 73, 3): ^Perceptio baptismi est necessaria ad
+inchoandam~ (ecco la |porta~) ^spiritualem vitam.~  Sant'Agostino
+(^Tract.~ 120 in ^Joann.~), dei Sacramenti in genere: ^sine
+quibus ad vitam, quae vera vita est, non intratur.~  Ma se a
+stabilire criticamente una lezione giova punto il parallelismo, 
+l'Autore taglia qui la quistione di per s@e: Dante, parlando del
+Battistero del suo ^bel san Giovanni~ (^Inf.~, XIX, 17), dove ei
+fu battezzato, scrive:
+
+          nella Fede, che fa conte
+     L'anime a Dio, quivi ^entra'~ io 
+     (^Par.~, XXV, 10-11);
+
+dove il ^conte~ @e spiegato da S. Gregorio M. (^Homil.~, III, I):
+^Per fidem a deo cognoscimur.~  Sulla necessit@a della fede
+all'eterna salvezza Dante discorre nel ^Par.~, XIX, 70 e segg. 
+-- |E se furon dinanzi al Cristianesmo~ ecc.; cio@e prima della
+istituzione del Battesimo, non adorarono Dio nella debita
+maniera, cio@e tributarono agli idoli il culto solo ^debito~ al
+vero Dio, vivendo nell'^antico errore~ (^Par.~, VIII, 6).  S.
+Tommaso (^Summ. Th.~, II, 11, 94, 1): ^excedere~ debitum ^modum
+divini cultus.~  Il Landino: ^Non credettero nella Trinit@a Padre, 
+Figliuolo e Spirito Santo, n@e in Cristo venturo.~  In quanto al
+luogo di Dante, @e chiarito egregiamente da quanto il Poeta
+ragiona di Traiano e di Rifeo (^Par.~, XX, 110 e segg.), che di
+pagani si fecero veri credenti:
+
+      L'anima gloriosa (^Traiano~), 
+     Tornata nella carne, in che fu poco, 
+     Credette in Lui, che poteva aiutarla:
+      E credendo s'accese in tanto foco 
+     Di vero amor, ch'alla morte seconda
+     Fu degna di venire a questo gioco.
+      L'altra (^Rifeo Troiano~)
+      Tutto suo amor laggi@u pose a drittura;
+     Perch@e, di grazia in grazia, Dio gli aperse
+     L'occhio alla nostra Redenzion futura.
+      Onde credette in quella; e non sofferse
+     Da indi 'l puzzo pi@u del paganesmo, 
+     E riprendeane le genti perverse.
+      Quelle tre donne gli f#ur per battesmo, 
+     Che tu vedesti dalla destra ruota, 
+     Dinanzi al battezzar pi@u d'un millesmo.
+
+Cf. ^Purg.~, XXIX, 121-126.  E a tutto metton suggello queste
+parole (^Par.~, XIX, 103-105):
+
+                              A questo regno
+     Non sal@i mai chi non credette in Cristo, 
+     N@e pria n@e poi che il si chiavasse al legno.
+
+	|40-42.~  L'Alfieri segn@o i vv. 41 e 42.  |Per tai
+difetti~, per tali colpe negative, cio@e di non aver avuto
+battesimo o di non aver adorato debitamente Iddio.  -- |Semo
+perduti~; abbiamo perduto il Cielo (^Purg.~, VII, 8), ovvero il
+^Bene dell'intelleto~ (^Inf.~, III, 18); |e sol di tanto offesi~, 
+e solo in ci@o tormentati, che viviamo in continuo desiderio di
+Dio, senza speranza di mai giungere a vederlo; dunque la ^pena~
+sta nella ^speranza cionca~ (^Inf.~, IX, 18).  |Offesi~ per
+puniti, tormentati; cf. VII, 111; IX, 123 e altrove.
+
+	|43-45.  Gran duol~ ecc.; ^piet@a mi vinse~ (^Inf.~, V, 
+72).  Perch@e il ^cuore~ e come ^la camera dove dimora lo spirito
+della vita~ (^Vit. N.~, II), cos@i al cuore si riferiscono tutti
+gli affetti (cf. ^Inf.~, II, 122, 131 e 136; V, 100; X, 20; XIII, 
+59, e spesso).  Del sentire il Poeta dolore o gioia de' tormenti
+de' dannati, cf. ^Inf.~, VIII, 60.  -- |Quando lo intesi~ dire
+queste parole.  -- |Gente di molto valore~: nell'^Inf.~, XVI, 67:
+
+     Cortesia e ^valor~ di' se dimora
+                  Nella nostra citt@a;
+
+Nel ^Purg.~, XVI, 116:
+
+     In sul paese, ch'Adige e Po riga, 
+      Solea valore e cortesia trovarsi.
+
+Nel ^Conv.~, IV, 2: <Intendo dicere di quello |valore~, per lo
+quale uomo @e gentile veramente.  E avvegna ch@e |valore~ intender
+si possa per pi@u modi, qui si prende |valore~ quasi ^potenza di
+natura~, ovvero ^bont@a da quella data.~>  -- |Eran sospesi~:
+veggasi il commento all'^Inf.~, II, 52.  -- |Gente.~.. |sospesi~;
+cf. ^Purg.~, III, 37.
+
+	|46-50.  Maestro.~.. |Signore~ ecc.  La compassione dello
+stato di Virgilio, annota il Tommaseo, sentita da Dante, rende
+ragione di questo doppio titolo, ch'@e una lode delicata e
+pietosa.  -- |Per voler esser certo~ ecc., <per avere una
+materiale certezza di quel punto della nostra indubitabile Fede, 
+che afferma Ges@u Cristo essere disceso all'Inferno, ed averene
+tratto le anime de SS. Padri> (Andreoli).  Ed ad accettare questa
+intepretazione sopra altre, ne persuade il v. 51.  -- |Fede, che
+vince ogni errore~: @e la ^Fede sincera~ (^Par.~, VI, 17), ^la
+Fede verace~ (^Par.~, XXIV, 44; cf. ^Conv.~, III, 7), ^la vera
+credenza~ (^Purg.~, XXII, 77).  Nel ^Conv.~, IV, 15: <La
+cristiana sentenza @e rompitrice d'ogni calunnia, merc@e della
+somma luce del Cielo, che quella illumina.>  E ivi, II, 9: <La
+dottrina di Cristo... @e Verit@a, perch@e non soffera alcun errore.> 
+@E per questo che Dante in ogni passo delle SS. Scritture
+ravvisava ^ineffabile verit@a~ (^Mon.~, I, 7).  -- |Uscinne mai~
+ecc., il quale andasse poi al Cielo?  Or questo, chiosa il
+Giuliani, fu un chiedere copertamente, se Cristo fosse ivi
+disceso a liberarvi ^quei che credettero~ nella redenzione futura
+(^Par.~, XX, 123), ed ivi dimorarono aspettandolo ^in pena e in
+desio~ (^Purg.~, XXIII, 61).  Se poi non pronuncia il nome di
+Cristo, si @e perch@e non pu@o esser la vita dov'@e la morte, la luce
+dove le tenebre.  Altra domanda, del pari coverta e per
+suggestione, far@a l'alunno al Maestro anche pi@u innanzi (^Inf.~, 
+IX, 16 e segg.).  -- |Per suo merto~ ecc.; il Landino: <Bench@e
+nessuno possa per s@e medesimo uscir del peccato, se non @e aiutato
+dalla divina gratia; nondimeno @e bisogno, che operiamo in bene, 
+quanto pu@o la nostra fragilit@a; onde Agostino disse: ^Qui fecit
+te sine te, non salvabit te sine te~; adunque vuole dimostrar
+qui, che quegli del Limbo uscirono non solamente pe' meriti della
+passion di Cristo, senza la quale nessuno @e s@i perfetto, che si
+possa salvare, ma ancora per loro propri, perch@e l'uno e l'altro
+@e necessario.>
+
+	|51-54.  Parlar coverto~: in senso opposto (^Purg.~, 
+XXII, 154): <per l'Evangelio v'^@e aperto~> (cf. ^Inf.~, X, 44). 
+-- |Nuovo~; in altra forma consimile (^Inf.~, IX, 25):
+
+     Di poco era di me la carne nuda.
+
+Virgilio mor@i nel settembre dell'anno XIX avanti Cristo; dunque
+era al Limbo da circa 52 anni.  -- |Un Possente~; Cristo, 
+
+                            la somma Possanza, 
+     Ch'apr@i le strade tra il Cielo e la terra
+     (^Par.~, XXIII, 37), 
+
+che discese al Limbo ^coronato~ col segno di quella ^vittoria~, 
+
+     Che s'acquist@o con l'una e l'altra palma
+     (^Par.~, IX, 122).
+
+Quasi tutte le edizioni leggono qui |incoronato~; altrove
+^coronato~ (^Purg.~, XXIX, 84; ^Par.~, XXIII, 119).  Infatti
+^incoronare~ non abbiamo nella ^Commedia~; tuttavia sarebbe
+sull'analisi di ^inghirlandare~, ^Purg.~, XIII, 81, e ^Par.~, IX, 
+84.
+
+	|55-63.  Trasseci~: <^ci~ per ^ne~, anco in prosa, e
+viene da ^hinc~> (Tommaseo).  -- |Primo Parente~, ovvero 
+
+                      l'Anima prima
+     Che la prima Virt@u creasse mai
+     (^Par.~, XXVI, 83);
+
+<il primo Parente, cio@e Adamo> (^Conv.~, IV, 15); perci@o Adamo @e
+detto il ^maggior padre di famiglia~ (^Par.~, XXXII, 136), 
+l'^antico padre~, al quale per conseguente ^ogni sposa @e figlia e
+nuora~ (^Par.~, XXVI, 93).  Adamo stettesi nel Limbo, desiderando
+il Redentore, 
+
+     Quattromila trecento e due volumi (^giri~)
+      Di Sole, 
+
+dopo d'esser vissuto, credendo nel Messia venturo, ^novecento
+trenta~ anni (^Par.~, XXVI, 119-123).  -- |No@e~: fu il solo, 
+colla sua famiglia, preservato dall'universale diluvio (^Vulg.
+El.~, I, 7).  -- |Mois@e legista~: @e dal Poeta detto altrove
+
+     Quel duca, sotto cui visse di manna
+     La gente ingrata, mobile e ritrosa
+     (^Par.~, XXXII, 131), 
+
+cio@e il popolo Ebreo: Mos@e in Paradiso siede presso ad Adamo
+(ivi, 130).  I pi@u sogliono riferire a Mos@e l'agg. |ubbidiente~, 
+che @e nello stesso verso: considerando che ci fu un momento che
+Mos@e disubbid@i al Signore, e in forma s@i grave e pubblica, che
+Dio volle che in riparazione morisse senza entrare nella terra
+promessa (^Numer.~, XXVII, 12-14; ^Deuter.~, XXXII, 49-51), parmi
+che tale aggiuntivo sia da applicarsi ad |Abraam~, ubbidiente
+davvero nel mostrarsi prontissimo d'eseguire il comando di Dio
+nel sacrificargli perfino il proprio figliuolo Isacco; e
+leggerei: Di |Mois@e legista, e l'ubbidiente~ ecc.  A chi poi non
+garbasse, come m'accadde di sentire, la voce |ubbidiente~ di
+quattro sillabe, perch@e dissonante, giovi metter sott'occhio
+quest'altro verso della Canzone <^Le dolci rime~ ecc., che Dante
+chiosa nell trattato quarto del ^Convito~; il verso @e (st. 7, v.
+5):
+
+     Ubbidiente, sovave e vergognosa.
+
+Nel ^Conv.~, I, 7: <Ubbidiente @e colui, che ha la buona
+disposizione, che si chiama ubbidienza.>  -- |David re~: e
+l'^umile Salmista~ (^Purg.~, X, 65), 
+
+          il cantor che per doglia
+     Del fallo disse ^Miserere mei~
+     (^Par.~, XXXII, 11), 
+
+il ^sommo cantor del Sommo Duce~ (^Par.~, XXV, 72), ovvero il
+^cantor dello Spirito Santo~, che in premio dell'umilt@a
+nell'onorare l'Arca Santa (cf. ^Purg.~, X, 55 e segg.), e ^per
+merito del suo canto~, splende per pupilla della Santa Aquila
+(^Par.~, XIX, 37).  -- |Israel~, Giacobbe (cf. ^Par.~, VIII, 131
+e XXII, 71), |con suo padre~, Isacco, e |co' suoi nati~, co' suoi
+dodici figliuoli, dieci avuti da Lia e due da Rachele (cf.
+^Purg.~, XXVII, 101 e segg.); e da questi provennero le dodici
+trub@u d'Israele.  <Jacob combatt@e una notte con un Angelo, tanto
+che alla fine lo vinse, e allora fu benedetto e appellato
+|Israel~, cio@e ^principe di Dio~> (Brunetto Lat., ^Tes.~, I, 41;
+cf. ^Genes.~, XXXII, 28).  -- |Rachele per cui tanto f@e~, avendo
+servito quattordici anni per averla in moglie (cf. ^Genes.~, 
+XXIX, 23 e 30).  Rachele in Paradiso @e vicina a Beatrice (^Inf.~, 
+II, 102; ^Par.~, XXXII, 8-9).  -- |E altri molti~ ecc.  E tutti
+questi formano la ^gran preda da Cristo tolta a Dite~ (^Inf.~, 
+XII, 38).  L'Allighieri tocc@o de' giusti principali delle quattro
+prime et@a del mondo, da Adamo a No@e, da No@e ad Abramo, da Abramo, 
+a Davide, col quale comincia la quarta et@a.  <Quindi si pare
+ognor pi@u ammirabile, scrive il Giuliani, il senno del nostro
+Poeta, il quale volendo abbracciare in uno tutti i Giusti delle
+prime et@a del mondo, ben si consigli@o di restringersi solo a
+quelli, onde l'et@a si cominciarono o trassero pi@u di splendore. 
+E per quanto risguarda la quinta et@a succeduta dalla
+trasmigrazione di Babilonia insino alla nascita di Cristo, Dante
+si contenta di ricordare ^molti uomini famosi tra i filosofi
+singolarmente, siccome Plato e Aristotele, che in quella vissero~
+(Brun. Lat., ^Tes.~, I, 40).  Anche in quello, dove l'arte sembra
+che abbia minor luogo e meno abbellimenti la poesia, il sovrano
+Maestro sa derivare dalla profonda sua dottrina nobili concetti e
+non comune insegnamento.>  -- |Dinanzi ad essi~, prima di questi. 
+-- |Spiriti umani~ ecc.  Con ci@o si accenna che prima erano stati
+sublimati alla gloria gli Angeli ^che furon fedeli a Dio~
+(^Inf.~, III, 39), mentre gli altri seguendo Lucifero, si
+aversarono da Dio (cf. ^Par.~, XXIX, 52 e segg.).
+
+	|64-66.~  L'Alfieri not@o il v. 64.  |Non lasciavam
+l'andar~ ecc. (simile quasi all'altro del ^Purg.~, XXV, 16; cf.
+ivi, XXIV, 1); il parlare di Virgilio non impediva il cammino;
+|dicessi~ per ^dicesse~; cos@i ^chiudessi~ per ^chiudesse~
+(^Inf.~, IX, 60), e ^fossi~ per ^fosse~ (^Purg.~, XXIV, 136).  --
+|Tuttavia~; intanto che Virgilio mi parlava; si camminava
+discorrendo.  -- |La selva~; moltitudine, ^turbe molte e grandi~
+(v. 29).  L'Ariosto: ^Selva d'aste e di spade~; e l'immagine @e
+pi@u propria.  Il Buti: <L'Autore divide quelli del Limbo in due
+specie, ponendo coloro che hanno avuto fama onorevole nel mondo
+di per s@e, da quelli che non l'hanno avuta...; dei primi che sono
+stati senza fama non nomina alcuno>.
+
+	|67-69.~   L'Alfieri not@o il v. 69 colle parole del
+precedente |quand'io vidi un foco.~  |Non era lunga~ (altri
+^lungi~) ecc.; non c'eravamo ancor di molto dilungati |di qua~
+dal sommo, dalla sommit@a della valle d'abisso, cio@e dalle sponde
+dell'Acheronte, dove Dante s'era desto dal sonno (e ci@o fu che
+indusse altri a legger ^sonno~); e quel punto doveva di necessit@a
+essere il pi@u alto di tutto l'Inferno, se la valle ivi
+incomincia; soprach@e Virgilio disse a Dante: Or discendiam
+quaggi@u ecc. (v. 13).  -- |Quand'io vidi~ ecc.; non avevalo visto
+quando s'era sforzato di ^ficcar lo viso al fondo~ di quella
+valle oscura (vv. 10-12).  -- |Un fuoco Ch'emisperio di tenebre
+vincia.~  Qui |vincia~ per ^vincea~ (da ^vincere~), non
+^circondava~ (da ^vincere~), ch@e non si capisce come ^vincere~
+possa accoppiarsi a |emisperio~ o ^mezza sfera~; peggio ancora
+chi fa caso nominativo |emisperio.~  Il senso @e: |un fuoco~, in
+forma di ^lumiera~ (v. 103), che, col suo diffondersi ^vinceva~
+le tenebre di mezzo il primo cerchio, e propriamente quel tratto
+v'era il nobile Castello: cos@i Virgilio (^Aen.~, I, 700) ne dice
+che ^noctem flammis fanalia vincunt.~  |Vincia~ per ^vincea~, 
+come ^solia~ per ^solea~, nella Canzone del ^Convito~, tratt. IV, 
+v. 1.  |Vincia~ da ^vincire~ si argoment@o, seguendo il Buti, di
+introdurre il Lombardi.  La finzinoe del luogo luminoso, dato per
+abitazione agli uomini illustri, il Poeta la dedusse da Virgilio, 
+che scrive dell'Eliso (^Aen.~, VI, 640-641):
+
+     Largior hic compos aether, et lumine vestit
+     Purpureo, solemque suum, sua sidera norunt.
+
+Il Tommaseo: <In una regione che risplende in mezzo alle tenebre, 
+stanno le anime di coloro che ebbero virt@u naturali, ma senza la
+fede vera; le quali virt@u raggiarono appunto come una luce che
+rompeva le tenebre de' luoghi e de' tempi in cui vissero: cos@i
+nell'Eliso di Virgilio ^secretosque pios.~>
+
+	|70-72.~  L'Alfieri segn@o tutto il tratto dal v. 71 al v.
+78.  |Di lungi v'eravamo~ (da quel ^fuoco~ {v.68}) ecc.; |ma non
+s@i~ (ma non tanto ^lontani~), ch'io |in parte~ (se non appieno)
+|non discernessi~, non distinguessi; ^discernere~ anche al v. 12;
+e VIII, 71, ^cernere~: bello questo di cose intellettuali:
+
+     Molto si mira e poco si discerne
+     (^Par.~, VII, 62).
+
+-- |Orrevol gente~ (altri ^onrevol~; sotto, v. 74 ^orranza~, e 76
+^onrata~) |possedea~, occupava quel luogo illuminato; |orrevol
+gente~ @e caso retto (cf. ^Inf.~, XI, 69).
+
+	|73-75.  O tu ch'onori~ ecc.; perch@e i grandi poeti di
+nessun'arte e di nessuna scienza debbono esser digiuni (veggasi
+il commento ^Inf.~, I, 82-84).  Orazio di Omero (^Epist.~, I, 11, 
+4):
+
+     Quid sit ^pulchrum~, quid ^turpe~, quid ^utile~ quid non, 
+     Plenius ac melius Chrysippo et Crantore dicit;
+
+il che, osserv@o il Tommaseo, dichiara come la poesia possa
+onorare ogni arte e scienza.  Inoltre @e da osservarsi che
+Virgilio nella Commedia riveste il simbolo dell'umana sapienza. 
+Elogi a Virgilio come scrittore si hanno ^Inf.~, I, 79; II, 60 e
+113; VIII, 7; ^Purg.~, VII, 17; XVIII, 83; XXI, 95; XXIV, 99;
+^Par.~, XV, 26.  -- |Questi chi son~: tutta la ragione fruttuosa
+del considerare gli ^spiriti magni~ parmi essere in ci@o che
+l'anima dell'osservatore, al cospetto di tanta grandezza, si
+sente nobilmente ^esaltare~ (v. 120) ed accendere a nobili
+imprese; e ben disse il Foscolo; ^A egregie cose accendono L'urne
+dei forti~: per questo Cacciaguida (^Par.~, XVII, 138) dice a
+Dante che nei tre Regni del suo viaggio gli vennero mostrate solo
+le anime ^note di fama~; e Dante chiede se ci sia ^alcun degno di
+nota~ (^Inf.~, XX, 104; cf. III, 51 e 64-69).  Perci@o nel
+^Conv.~, IV, 28, cita queste parole di Cicerone, in persona di
+Catone il vecchio: <Levomi in grandissimo studio di vedere li
+nostri Padri, ch'io amai; e non pur quelli ch'io stesso conobbi, 
+ma eziandio quelli, di cui udii parlare.>  Cf. v. 120.  --
+|Orranza~ (cf. ^Inf.~, XXVI, 6), luogo cospicuo, che li
+|diparte~, li distingue |dal modo degli altri~, che son dannati
+nelle ^tenebre eterne.~  E qui io dichiaro liberamente che in
+quest'|altri~ non credo che il Poeta voglia richiamarsi ai
+dannati degli altri Cerchi, come sembran credere il Giuliani ed
+altri, sibbene a quegli |altri~ del Limbo ov'erano ^turbe molte e
+grandi~, (v. 29), che non essendo stati del novero de' Sapienti, 
+non hanno l@a s@i bel privilegio di avere per sede un luogo
+luminoso (cf. v. 78).  Nel ^Conv.~, IV, 7: <Dice Salomone n@e
+^Proverbj~: ^La via de' giusti, cio@e de' valenti, quasi luce
+splendiente procede, e quella delli malvagi @e oscura.~>  E ivi, 
+III, 15, dichiara che a tali ^valenti~ dobbiamo ^andar dietro, 
+mirando le loro operazioni, ch'esser debbono a noi luce nel
+cammino di questa brevissima vita.~  Cf. pi@u sotto, vv. 106-111, 
+nel commento.
+
+	|76-78.  Onrata~ (nel ^Canzon.~, parte III, canz. II, st.
+2, abbiamo ^disnorata~) |nominanza~, la gloria, la fama; rammenta
+l'altro punto dell'^Inf.~, II, 5: cf. ^Purg.~, XI, 101, e XIV, 
+21: ed ecco meglio spiegato il perch@e della condizione de'
+fannulloni veduti pi@u sopra (^Inf.~, III, 49 e segg.).  --
+|Suona~; la fama degna @e una tromba, il cui suono si stende nei
+secoli; e l'acquistarla @e pur merito presso Dio (|grazia acquista
+nel Ciel~), purch@e in essa l'umano affetto non soverchi; e Dante
+mette nel Ciel di Mercurio i cristiani che in vita ^furono attivi
+perch@e onore e fama succedesse loro dopo morte~ (^Par.~, VI
+112-117).  -- |Nella tua vita~; nella vita mortale, nel mondo. 
+-- |S@i gli avanza~: cf. ^Inf.~, XXV, 12; ^Purg.~, XIII, 24.  Il
+Cornoldi: <Dante vuole che quelle opere dei saggi, per le quali
+furono in terra meritevolmente onorati, sieno in qualche maniera
+gradite al Cielo; onde a loro @e concesso un luogo luminoso in fra
+le tenebre dove gli altri stanno.>
+
+	|79-81.  Intanto~, mentre cio@e che Virgilio cos@i parlava
+(cf. ^Purg.~, III, 46; V, 22); |voce~, la voce concorde dei
+quattro poeti (v. 92).  -- |Onorate~ ecc.  Certo di qui trasse il
+Tasso (^Ger. Lib.~) quella sua iscrizione:
+
+     ^Qui~, vi fu scritto poi, ^giace Dudone~;
+     ^Onorate l'altissimo Campione.~
+
+-- |L'altissimo poeta~; anche nel ^Conv.~, IV, 26, ^Virgilio, 
+altissimo poeta.~  Facendo Dante che tutti i maggiori poeti
+facciano tanto onore a Virgilio, viene in certo modo a fare il
+Montovano principe fra tutti, almeno tra' Latini; come principe
+de' Filosofi, quasi con scena eguale, pi@u innanzi vedremo
+Aristotele (v. 133).  -- |L'ombra.~.. |ch'era dipartita~, per
+andare in soccorso a Dante (cf. ^Inf.~, II, 117-118).
+
+	|82-84.~  L'Alfieri nota questa terzina.  ^Poich@e la voce
+fu restata~, rest@o (cf. ^Inf.~, V, 97) ^nata fui~ per ^nacqui.~ 
+Nella ^Vit. V.~, XXXVIII: <Mai ... non dovrebbero le nostre
+lagrime essere ristate.>  ^Restare~ neutr., cf. ^Inf.~, XX, 35;
+^Purg.~, XXIX, 19 (cf. ^Inf.~, XXV, 38, nel commento).  --
+|Quattro grand'Ombre~ ecc., che saran nominate pi@u innanzi (vv.
+88-90).  -- |Sembianza~, aspetto, cio@e quel tutto insieme di atti
+e di movimenti, che distinguono l'una dall'altra persona, e
+mostrano l'interno affetto ond'@e l'anima governata (cf. ^Inf.~, 
+XXII, 75; ^Par.~, XXII, 53): |n@e trista n@e lieta~, perch@e non
+infelici quanto gli altri dannati, per@o senza speranza di veder
+Dio; o come si conveniva a Savi (v. 100), nota il Giuliani, i
+quali delle cose prospere non troppo s'allegrano, n@e troppo si
+conturbano per le avverse.  S. Agostino (^Civ. Dei~, XIV, 26)
+dice che nell'uomo giusto ^nihil triste, nihil immaniter laetum.~ 
+Nel ^Conv.~, I, 4 (d'uomini leggieri d'indole e non virtuosi):
+<spesso sono ^lieti~ e spesso sono ^tristi~ di brievi
+dilettazioni e tristizie.>
+
+	|85-90.~  L'Alfieri nota i vv. 88-90, |Lo buon Maestro~
+ecc.; |buon~, perch@e anche qui (cf. v. 31) previene il tacito ma
+certo vivace desiderio dell'alunno di sapere chi fossero quelle
+^quattro grand'Ombre~ {v.83}.  -- |Cominciommi a dire~; cf.
+^Inf.~, II, 56.  -- |Colui con quella spada in mano~; <^cum
+spata~, scrive Pietro, ^ad significandum quod de proeliis multis
+Graecorum dixit.  Unde Horatius~:
+
+     Res gestae regumque ducumque, et tristia bella, 
+     Quo scribi possent numero monstrabit Homerus.
+
+-- |Sire~, signore; onde ^sere~ e ^messere.~  -- |Omero, poeta
+sovrano~, cio@e 
+
+                             quel Greco, 
+     Che le Muse latt#ar pi@u ch'altro mai 
+     (^Purg.~, XXII, 101);
+
+il ^buono Omero~ lo appella nella ^Vit. N.~, XXV (<non ^potendo
+essere savio chi non @e buono~, ^Conv.~, IV, 27, a ragione
+s'appartiene e fu dato allo stesso Omero il titolo ^di buono~>
+Giuliani).  Sul ^buono~ cf. ^Inf.~, I, 71.  Dante, che di greco
+certamente non poteva saper molto (cf. ^Diz. Dant.~ artic.
+Flegetonte), e i poemi omerici non essendo a quel tempo tradotti, 
+(cf. ^Conv.~, I, 7), poteva conoscere Omero per mezzo delle opere
+di altri scrittori, e soprattutto di Aristotele.  -- |Orazio
+satiro~; satirico, scrittor di satire (nel ^Conv.~, IV, 29:
+<Giovenale poeta |satiro~>); nella ^Vulg. El.~, II, 4; ^Horatius
+magister noster.~  Dal nominar Orazio dalle sue satire, anzich@e
+dalle liriche, non vi par egli che Dante conoscesse, ci@o che
+ormai @e ammesso da tutti, che non nella lirica ma nella satira
+consiste la principale gloria del Venosino?  -- |L'ultimo @e
+Lucano~; il Bargigi: <Lucano ... nel numero di questi eccellenti
+poeti fu computato ... ma per ultimo di questi quattro fu
+nominato, perocch@e egli ha proceduto nella sua opera come
+istorico, scrivendo comunemente la verit@a, non come poeta
+pervertendola con molte finzioni.>  Virgilio, Orazio, Ovidio, 
+Lucano nomina e cita di frequente (cf. ^Diz. Dant.~, ai singoli
+nomi).  Nelle chiose alla ^Vita Nuova~ (XXV) ben avvert@i il
+Giuliani che <questi con pochi altri sono i poeti che Dante
+ricorda di frequente, e con animo grato sembra riconoscere da
+essi l'eccellente magistero che gli acquist@o tanta gloria.>  E
+queste parole del grande dantista rammentano la sentenza dello
+stesso Allighieri, rispetto a Virgilio e a Stazio, ma estensibile
+anche agli altri (^Purg.~, XXII, 127):
+
+      Elli givan dinanzi, ed io soletto
+     Diretro, ed ascoltava i lor sermoni, 
+     Ch'a poetar mi davano intelletto;
+
+parole d'alto ammaestramento per tutti coloro che vogliono
+scernere la verace mente di Dante, n@e possono a meno di non
+ricorrere alle stesse fonti, dalle quali il grande Autore @e
+venuto attingendo (cf. ^Diz. Dant.~, vol. IV, pag. 80 e segg.). 
+Altri poeti illustri, posti nel Limbo, sono ricordati altrove
+(^Purg.~, XXII, 14 e 97-114).  Rilevante assai @e il seguente
+tratto del Ruth: <Di tre specie sono le anime che Dante qui
+incontra: e sono parte testimonj della Monarchia universale (i
+poeti), parte operarono alla formazione di essa o col senno (i
+filosofi, gli uomini di scienza), o colla mano.  Primi furono i
+poeti, che educarono gli uomini a costumi civili, e cos@i li
+disposero alla vita sociale (^Conv.~, II, 1)...  Questi Dante
+incontra per primi, ed essi lo introducono per le sette porte
+nello spazzo luminoso.  Omero, il quale come cantore di guerra, 
+porta spada, e, quasi principe, gli altri precede, v'entra, 
+perch@e la guerra troiana fu causa della fondazione di Roma. 
+Orazio, testimonio della Monarchia universale, vi @e introdotto
+per le sue satire, ricche di sapienza pratica e inculcatrici di
+temperanza e modestia.  Ovidio, venerato in tutto il medio evo, e
+sommamente pregiato da D., massime per le ^Metamorfosi~, e che
+nelle sue descrizioni della creazione, delle quattro et@a del
+mondo, del diluvio, nelle sue parabole di Filemone e Bauci, di
+Orfeo, di Proserpina, accostavasi assai alle idee cristiane. 
+Lucano poi scrisse la ^Farsaglia~, ossia la vittoria di Cesare
+sopra Pompeo, l'ultimo formidabile avversario allo stabilimento
+dell'Impero.  A loro si unisce qual maestro Virgilio, perch@e egli
+comprese pi@u altamente e meglio l'uffizio dell'Imperatore e con
+profetico presentimento collegollo al regno di Cristo, alla
+Chiesa.>
+
+	|91-93.  Perocch@e~ (essendo che) |ciascun meco si
+conviene nel nome~ (s'accorda con me nel nome di ^poeta~, che
+tutti insieme gridarono (v. 80), cio@e tutti sono poeti come me), 
+cf. ^Par.~, XXXIII, 137.  Nella ^Vulg. El.~, I, 9: ^Convenientes
+in eodem nomine.~  -- |Voce sola~; cf. ^Par.~, XIX, 23-24, nel
+commento.  -- |Fannomi onore~; la stessa frase al v. 100 (cf.
+^Purg.~, V, 36).  Bene avvert@i il nostro Autore che non ne'
+virtuosi ^ma n@e viziosi la paritade @e cagione d'invidia~
+(^Conv.~, I, 4); perci@o ne' Santi, e per conseguenta ne' giusti, 
+invidia non vi pu@o essere (^Conv.~, III, 15; cf. ^Par.~, III, 
+70-87; ^Purg.~, XV, 49 e segg.; XVII, 118-120).  -- ^E di ci@o
+fanno bene~; non perch@e onorino me, ma in me l'arte e la scienza, 
+e perch@e si mostrano cos@i scevri di ^invidia, la quale @e cagione
+di mal giudizio, perocch@e non lascia la ragione argmentare per la
+cosa invidiata~ (^Conv.~, I, 4).
+
+	|94-96.~  Sono notati dall'Alfieri.  |Cos@i vidi adunar~
+(adunarsi) |la bella scuola~, compagnia (v. 148), schiera (v.
+101); cf. ^Purg.~, XXII, 79.  -- |Di quel signor~ (leggono i pi@u
+dei moderni), o ^di quei signor~ (lessero molti antichi, Lana, 
+Anonimo Fior., Boccaccio, Benvenuto): di coloro che seguono la
+prima lezione, altri intende Omero, ^poeta sovrano~ (v. 88), il
+prediletto delle Muse (^Purg.~, XXII, 102); altri Virgilio, 
+^degli altri poeti onore e lume~ (^Inf.~, I, 82), che scrisse
+l'^alta tragedia~ (^Inf.~, XX, 113), o gli ^alti versi~ (ivi, 
+XXVI, 82), cio@e l'Eneide ^fiamma divina~
+
+      Onde sono allumati pi@u di mille 
+      (^Purg.~, XXI, 96).
+
+Lo Scartazzini segue la leg. di ^quei signor~; e osserva: <n@e
+Orazio n@e Ovidio potevano dirsi appartenenti alla scuola di
+Omero: e molto meno ancora alla scula di Virgilio.>  Ma non parmi
+necessario intendere |scuola~ cos@i strettamente; lasciamo pur
+Virgilio; ma se Omero @e tal poeta, quale sentimmo test@e, cio@e
+sovrano fra tutti e il pi@u di tutti allattato dalle Muse, perch@e
+non si potr@a intendere che tutti gli altri poeti, pur seguendo
+vie diverse e soggetti diversi trattando, non sieno, al
+confronto, come altrettanti suoi alunni?  E anche pi@u sopra (v.
+87) nol vedemmo ^innanzi agli altri come sire~ di tutti? 
+Soprach@e, leggendo ^di quei signor~, @e necessario intendere che @e
+il canto che vola com'aquila, mentre a me parrebbe pi@u vaga la
+similitudine e pi@u precisa riferendola moralmente a persona.  A
+ci@o mi induce un passo di Dante stesso, in identico argomento:
+parlando di certi peotucoli pretenziosi, l'Allighieri scrive
+(^Volg. El.~, II, 4):... ^a tanta prosumptuositate desistant; et
+si~ anseres ^naturali desidia sunt, nolint astripetam aquilam
+imitari.~  -- |Che sovra~ ecc.; il quale Omero ecc.  Bella e
+semplice similitudine, nota il Casini, che il Tasso allarg@o nella
+^Ger. Lib.~, XV, 14:
+
+                           com'aquila suole
+     Tra gli altri augelli trapassar secura, 
+     E sorvolando intanto appresso il sole, 
+     Che nulla vista pi@u la raffigura.
+
+	|97-102.~  L'Alfieri not@o tutto questo tratto.  --
+|Dacch'ebber~ ecc.  Dal |salutevol cenno~ del verso seg. @e chiaro
+che i quattro sonsi intrattenuti con Virgilio sul conto di Dante;
+avuta contezza del poetico senno di lui e dell'amor suo sul conto
+di Dante; avuta contezza del poetico senno di lui e dell'amor suo
+per loro, lo salutarono (|cenno~ per ^saluto~, ^Purg.~, XXI, 15), 
+s@i che Virgilio, omai affezionatosegli, prova viva compiacenza di
+quella benevola dimostrazione.  -- |Sorrise~ (cf. ^Purg.~, XII, 
+136) |di tanto~, cio@e del fattomi onore.  Il Gelli (^Lett.~, XI, 
+lez. X): <Della quale onorata accoglienza dice che |sorrise~
+alquanto il suo maestro, dimostrando, con dire |sorrise~ e non
+^rise~, la modestia e la gravit@a sua.  Imper@o che ^sorridere~, 
+come dice in questo luogo il Boccaccio, @e quel riso modesto e
+temperato, che usano nel rallegrarsi gli uomini savi: e ^ridere~
+@e quello sciolto e sfrenato, che fanno con romore grandissimo e
+storcimento di viso e gonfiamenti di gola, nelle loro allegrezze
+gli stolti.>  E Dante (^Conv.~, II, 8): <Si conviene all'uomo, a
+dimostrare la sua anima nell'allegrezza moderata, moderatamente
+ridere con un'onesta severit@a e con poco movimento delle sue
+labbra...  Onde ci@o fare ne comanda il libro dalle quattro ^Virt@u
+Cardinali~: ^Lo tuo riso sia senza cachinno, e la voce senza
+schiamazzare come gallina.~>  Cf. ^Purg.~, II, 83; XII, 136; XXI, 
+109; XXVII, 44 e 67; XXXIII, 95; ^Par.~, II, 52; III, 24 e 25, e 
+altrove.  -- |E pi@u d'onore~ ecc., che non con quel |salutevol
+cenno~, perch@e lo aggiunsero alla loro schiera, onde divenne
+sesto tra que' grandi, fra ^cotanto scanno~, e ci@o ancor prima
+d'aver posto mano alla ^Commedia~, dalla quale sperava
+^infuturarsi~ il suo nome (^Par.~, XVII, 98).  Cf. ^Inf.~, I, 87. 
+-- |Senno~, in largo senso per valor poetico, ^Purg.~, XXII, 23. 
+I poeti da Dante son detti ^savj~, e cos@i ben s'avviene loro il
+|senno~; onde Virgilio, perch@e ^onore e lume~ degli altri, 
+giustamente @e detto ^mar di tutto il senno~ (^Inf.~, VIII, 7), 
+onorando ^ogni scienza ed arte~ (v. 73).  Se l'Alligheiri si pose
+tra i grandi poeti, chi vorr@a accusarlo d'orgoglio, egli che si
+mostra riluttante sinanco a ^registrare~ il suo ^nome~? (^Purg.~, 
+XXX, 63; Cf. ^Conv.~, I, 2).  Non era orgoglio, ma coscienza
+onesta del proprio valore, di ^quell'alto ingegno~ (^Inf.~, II, 
+7; X, 59), che la Provvidenza gli aveva donato e che da lei
+riconosceva, insieme al grave dovere di tenerlo bene in freno a
+scopo di bene (^Inf.~, XXVI, 21-24).  Il Tommaseo: <Parlando co'
+grandi, la coscienza della grandezza non @e orgoglio; co'piccoli
+che frantendono @e vanit@a.>
+
+	|103-105.~  L'Alfieri ricopi@o il v. 104.  -- |Cos@i~, in
+tale compagnia: -- |lumiera~, il luogo ove era il fuoco (v. 68), 
+cio@e donde si spandeva la luce.  -- |Parlando cose~ (cf. ^Par.~, 
+XIII, 26), ^che il tacere @e bello~, cio@e ^laudabile~ (^Inf.~, XV, 
+104): altrove (^Par.~, XVI, 45):
+
+     Pi@u @e tacer, che ragionare, ^onesto~;
+
+onde si rafferma (cf. ^Inf.~, II, 113) che ^onesto~, |bello~ e
+^laudabile~ hanno identico valore.  Di qui anco apparisce che
+nella ^Commedia~ Dante non tutto narra appuntino ci@o che vide od
+intese nel corso del suo viaggio, ma quel tanto che faceva al suo
+scopo di guidare il lettore a rettitudine: ci@o ne conferma anche
+altrove (^Inf.~, VI, 113):
+
+     Parlando pi@u assai ch'io non ridico.
+
+Nel ^Conv.~, IV, 2: <Le parole, che sono quasi seme d'operazione, 
+si devono molto discretamente sostenere e lasciare, si perch@e
+sieno bene ricevute e fruttifere vengano, s@i perch@e dalla loro
+parte non sia diffetto di sterilitade.  E per@o il tempo @e da
+provvedere, si per colui che parla, come per colui che deve
+udire...  E per@o Salomone dice nell'^Ecclesiaste~: ^tempo @e da
+parlare, tempo @e da tacere.~>
+
+	|106-111.  Venimmo appi@e~ (cf. ^Inf.~, XVII, 134) d'|un
+nobile Castello~; |nobile~, nota il Vellutello, per essere
+abitato da molte nobilissime anime.  Secondo Pietro ^Castrum, de
+quo ait, est ipsa philosophia in suo genere perfecta; circundatum
+a quodam fluvio, qui repraesentat affectum discendi, ducens nos
+ad philosophiam.  Septem portae ponuntur pro septem partibus
+philosophiae, comprehensae sub naturali et morali philosophia, 
+tamquam species ejus.~..  ^Vel potest dici aquod sunt septem
+liberales Artes, quae praeparant nos ad philosophiam.~  Il
+Landino: <Dimostra che habitassero i Poeti (-- ^ma vi abitavano
+anche altri che poeti non furono~ --) in castello alto, perch@e
+son posti in alta fama, et nominanza, la quale @e inespugnabile, 
+perch@e nessuna cosa nuoce alla vera fama.  Adunque come l'alte
+mura diffendono il castello, cos@i la dottrina et l'eloquentia de'
+Poeti conservano la fama immortale...  Per le mura, che diffende
+il castello intendi le virt@u e le dottrine, che son quelle che
+diffendono la fama.  Queste sono sette: tre morali, giustizia, 
+fortezza e temperantia, le quali purgano l'anima d'ogni
+perturbatione, e fannola idonea a poter ricever le dottrine; una
+attiva, ch'@e la prudentia, la quale drizza e regola l'operantion
+delle morali (-- cf. ^Purg.~, XXIX, 130-132 --); tre speculative, 
+intelligentia, scientia et sapientia.  Oltre di ci@o pone il
+numero settenario per la perfettion delle virt@u; perciocch@e
+secondo i Filosofi, questo @e perfetto numero.>  Cf. l'Angelico, 
+^Summ. Th.~, III, 57, 2 ad 2, e 3, 4; 65, 5.  -- |Nobile~; nel
+^Conv.~, IV, 16: <Se volemo riguardo avere alla comune
+consuetudine di parlare, per questo vocabolo ^nobilt@a~ s'intende
+^perfezione di propria natura in ciascuna cosa.~  Onde non pur
+dell'uomo @e predicata, ma eziandio di tutte cose; ch@e l'uomo
+chiama ^nobile pietra, nobile pianta, nobile cavallo, nobile
+falcone~, e qualunque cosa in sua natura si vede essere
+perfetta.>  Onde nella ^Vulg. El.~, II, 3: <^Quae nobilissima
+sunt, carissime conservantur.~  Ne deriva pertanto che |nobile
+Castello~ altro non vuol dire che ^perfetto in tutte le sue
+parti~, come s'addiceva ai nobili spiriti che l'abitavano.  Di
+pi@u; l'Autore nostro ne ammaestra che coloro, i quali possiedono
+la vera ^nobilt@a~ (che sta nel possesso delle virt@u), ^sono quasi
+come Dei, senza macola di vizio~ (^Conv.~, IV, 20): ecco perch@e
+costoro, ^gente di molto valore~ (v. 44), da Aristotele chiamati
+^divini~ (^Conv.~, III, 7), son da Dante collocati nel |nobile
+Castello~, come in luogo privilegiato anche nell'^eterno esilio~
+(^Purg.~, XXI, 18), nel regno dell'^eterno lutto~ (^Purg.~, III, 
+42).  E di qui meglio si pare perch@e l'Allighieri abbia scritto
+di Beatrice: <Certo di lei si potea dire quella parola del poeta
+Omero: ^Ella non parea figliuola d'uomo mortale, ma di Dio~>
+(^Vit. N.~, II).  E dei veri poeti, benefattori grandi dell'umana
+famiglia, splendenti ^di scienza e d'arte~: <Hi sunt, quos Poeta
+Aeneidorum sexto, ^dilectos Dei, et ab ardente virtute sublimatos
+ad aethera, Deorumque filios vocat, quamquam figuraliter
+loquatur~> (^Vulg. E.~, II, 4).  Inoltre, se bene si attenda al
+largo senso che l'Allighieri attribuisce alla voce ^filosofia~, 
+sar@a molto illustrativo del |nobile Castello~ e di chi lo
+^possiede~ questo luogo del ^Convito~ (IV, 1): <La filosofia, i
+cui raggi fanno i fiori rinfronzire e fruttificare la verace
+degli uomini ^nobilt@a.~>  E veggansi i passi del ^Convito~, pi@u
+sopra, nel commento al v. 75.  -- |Sette volte cerchiato d'alte
+mura~ (|sette~ numero di perfezione: cf. ^Diz. Dant.~, App. XI, 
+{paragraph.} 3).  Nelle |sette mura~ i chiosatori meglio
+accreditati ravvisano le quattro virt@u morali o cardinali, 
+^prudenza, giustizia, temepranza e fortezza~, e le tre
+intellettuali o speculative, ^intelligenza, scienza e sapienza~:
+altri le sette scienze del trivio e del quadrivio, come sentimmo
+da Pietro, e vuole il Daniello, seguito dal Biagioli.  -- |bel
+fiumicello~: @e l'affetto, ^lo studio di ben far~ (^Purg.~, XVIII, 
+105), solido ne' veri sapienti pe' quali l'erto si fa piano, 
+dritto l'obliquo; onde per loro non avviene che il ^pi@e fermo
+sempre sia il pi@u basso~ (^Inf.~, I, 30).  Il Landino: <Il Poeta
+nostro non volendo dire dire ^fossato~, che cos@i si chiama in
+lingua Fiorentina, disse |fiumicello~; e in latino, quando
+vogliono dimostrare gran copia nel dire, dicono ^flumen dicendi.~ 
+Adunque lo porremo per la facundia et eloquentia degli scrittori, 
+i quali veramente diffendono la fama.>  -- |Questo passammo come
+terra dura~: dove la rettitudine o drittura @e in un'anima
+accoppiata alla potenza della poesia, nulla le resiste: Orfeo e
+Anfione fecero miracoli.  -- |Sette porte~, le sette scienze
+ovvero arti liberali del trivio e del quadrivio, cio@e
+^grammatica, dialettica, rettorica, aritmetica, musica, geometria
+e astrologia~ (^Conv.~, II, 14), le quali scienze ^son tutte
+membra di sapienza.~  Il Talice: ^ad velle esse poetam oportet
+ipsum habere principia omnium scientiarum.~  -- |Prato di fresca
+verdura~, a dinotare la freschezza o perennit@a della loro
+^nominanza~, che ^durer@a quanto il mondo lontana~ (^Inf.~, II, 
+60).  Pietro: ^semper viridis, idest durabilis.  Unde Isidorus:
+virtus boni operis est fructus aeternitatis.~  @E notabile una
+certa rassomiglianza che corre tra il ^castello dei Savi~ e la
+Valletta ^de' Principi~ (^Purg.~, VII e VIII).  Nel Limbo pena di
+danno, non di senso; dunque in molto il Limbo, bench@e primo
+Cerchio dell'Inferno, differisce dall'Inferno rimanente: siccome
+la doppia pena del danno e del senso comincia col secondo
+Cerchio, si potrebbe dire che il Castello de' Savi, per ci@o che
+il precede e che il segue, tenga nella struttura del Poema
+rispetto all'Inferono quel posto, che la Valletta de' Principi
+rispetto al Purgatorio.
+
+	|112-114.~  L'Alfieri trascrisse l'intiera terzina. 
+|Occhi tardi e gravi~; Dante, dice Sordello ^anima sdegnosa~, 
+
+     E nel muover degli occhi onesta e tarda
+
+(^Purg.~, VI, 63): il che rammenta la bella sentenza (^Purg.~, 
+III, 11):
+
+                             la fretta, 
+     Che l'onestate ad ogn'atto dismaga.
+
+|Gravi~, dice il Giuliani, significa il medesimo che ^dignitosi, 
+onesti.~  Il Tommaseo: <Perch@e la tardit@a sola ptrebb'essere
+stupidezza, per@o aggiunge |gravi~, e nel Purgatorio (di Sordello)
+onesta.>  -- |Di grande autorit@a~; intende quella |autorit@a~, che
+rende l'uomo ^degno di fede e d'obbedienza~ (^Conv.~, IV, 6).  --
+|Ne' lor sembianti~; perch@e ogni affetto od abito dell'anima si
+dimostra nel sembiante (^Conv.~, III, 8): quindi della sua
+Beatrice:
+
+     Negli occhi porta la mia Donna amore
+     (^Vit. N.~, XXI):
+
+e nei ^Proverbi~ (XVII, 24): ^in facie prudentis lucet
+sapientia~: nell'^Eclesiaste~ (VIII, 1): ^sapientia hominis lucet
+in vultu eius.~  -- |Parlavam rado~ ecc. (cf. ^Inf.~, II, 56). 
+Pietro: ^per hoc datur intelligi quod plus debemus audire quam
+loqui.~  Quadro opposto questo del presuntuoso, vera negazione
+del savio (^Conv.~, IV, 15): <Sono molti tanto presuntuosi, che
+si credono tutto sapere; e per questo le ^non certe cose~
+affermano per ^certe~: lo qual vizio Tullio massimamente abbomina
+nel primo degli ^Uffizi~, e Tommaso nel suo ^Contra Gentili~
+dicendo: ^Sono molti, tanto di loro ingegno presuntuosi, che
+credono col proprio intelletto poter misurare tutte le cose, 
+stimando tutto ver quello che a loro pare, e falso quello che a
+loro non pare.~  E quinci nasce che mai a dottrina non vengono, 
+credendo da s@i sufficientemente esser dottrinati, mai non
+domandano, mai non ascoltano, disiano esser domandati e anzi la
+domandazione compiuta, male rispondono.  E per costoro dice
+Salomone nelli ^Proverbi~: ^Vedesti l'uomo ratto a rispondere? di
+lui stoltezza, pi@u che correzione @e da sperare.~>  Leonardo Bruni
+(nella Vita di Dante) scrive del nostro Poeta: ^Fu pieno di
+gravit@a, parlatore rado e tardo, ma nelle sue risposte molto
+sottile.~
+
+	|115-117.  Traemmoci~ (cf. ^Purg.~, IV, 103) |cos@i~
+(perci@o; differisce di senso da quelli del v. 94 e 103), in
+disparte, in luogo aperto ecc., dove la veduta non era tronca
+(cf. ^Inf.~, XX, 51) da oggetti interposti, resa pi@u viva dalla
+luce e dall'altezza.  Cf. vv. 25-30.  Il Boccaccio s'accorse che
+qui Dante imit@o Virgilio (^Aen.~, VI, 752):
+
+     Dixerat Anchises; natumque unaque Sibyllam
+     Conventus trahit in medios turbamque sonantem, 
+     Et tumulum capit, unde omnis longo ordine posset
+     Adversoso legere, et venientem discere voltus.
+
+Per simil modo Sordello, volendo ai due Poeti mostrare i Principi
+della Valletta, li condusse ^in fianco della lacca~, a mezza
+costa, e soggiunse (^Purg.~, VII, 71 e 88-90):
+
+      Da questo balzo meglio gli atti e i volti
+     Conoscerete voi di tutti quanti, 
+     che nella lama gi@u tra essi accolti.
+
+-- |Si che veder si potean tutti quanti~, tutte cio@e quelle
+^genti~ {v.112}, onde parl@o nella terzina precedente.
+
+	|118-120.  Col@a diritto~, dirimpetto, di contro a quel
+luogo, |sopra il verde smalto~, il prato di fresca verdura (v.
+111; cf. ^Purg.~, VIII, 114).  -- |Gli spiriti magni~, le grandi
+anime, che possedeano quel luogo; sono in due schiere o gruppi, 
+quello degli eroi e quello degli scienziati.  -- |Che di vederli~
+ecc.; qualche interpetre fa il |che~ dipendente da un ^s@i~
+sottinteso; a me parrebbe pronome relativo in luogo di ^cui~, il
+|li~ seguente essendo un riempitivo, forma frequente e negli
+scrittori e nel linguaggio vivente.  Qui |vederli~ @e in forza del
+frequente e negli scrittori e nel linguaggio vivente.  Qui
+|vederli~ @e in forza del passivo ^averli veduti~, uso del quale
+non mancano esemp#i (cf. ^Inf.~, XXVIII, 87; XXX, 129; ^Purg.~, 
+VI, 135), come ^fosse~ per ^fosse stato~ (^Inf.~, XXVII, 70).  --
+|In me stesso m'esalto~ (altri ^n'esalto~), n'ho allegrezza, 
+spiega il Buti; me ne reputo in me stesso assai maggiore, il
+Boccaccio: Dante altrove (^Par.~, XVI, 18):
+
+     Voi mi levate s@i, ch'io son pi@u ch'io 
+     (cf. v. 74).
+
+	|121-129.~  L'Alfieri trascrisse il v. 123.  --
+|Elettra.~  Il primo gruppo generale si divide a sua volta in
+altri tre speciali.  Pel propugnatore dei diritti della Monarchia
+universale, Elettra doveva essere personaggio assai rilevante, 
+perch@e trae indi motivo di congiungere la provenienza de' Troiani
+e del popolo Romano.  Per tutti i nomi propri, che qui occorrono, 
+prego il lettore di dare un'occhiata al ^Dizionario Dantesco~, ai
+singoli luoghi.  Nella ^Monarchia~ (II, 3): ^Electra avia
+vetustissima, nata magni nominis regis Atlantis~, dalla quale
+discese Dardano, 
+
+     Dardanus Iliacae primus pater urbis et auctor, 
+     Electra, ut Graii perhibent, et Atlantide cretus.
+
+-- |Conobbi~, mi furon fatti conoscere, mi furono additati.  --
+|Ettore ed Enea~; ^Mon.~, II, 3: ^Virgilius comparationem faciens
+de Aenea ad Hectorem, Hectorem prae omnibus Homerus glorificat.~ 
+Ettore ^luce e speranza de' Troiani~ (^Conv.~, III, 11).  Dunque
+Elettra, quale madre del fondatore di Troia, poi viene spontaneo
+il ricordo di Cesare, che ai tre s'accoppia sapientemente, il
+quale ^per volere del Popolo Romano fond@o~ non solo ^la
+Monarchia~ (^Par.~, VI, 52), divenendone ^primo Principe sommo~
+(^Conv.~, IV, 5), ma che si poteva anche dire discendente di
+Enea, secondo la testimonianza di Virgilio:
+
+     Nascetur pulchra Trojanus origine Caesar.
+
+E ci@o @e confermato dalla ^Mon.~, II, 3: ^Virgilius, per totam
+Aeneidem, gloriosum regem Aeneam, patrem Romani populi fuisse
+testatur, in memoriam sempiternam.~  -- |Cesare armato~, per le
+guerre fatte; |con occhi grifagni~ (^rapaci~ spiega il Tommaseo), 
+simili a quelli d'uno sparviero, vivaci.  Svetonio dice che
+Cesare fu ^nigris vegetisque oculis~ (^Caes.~, cap. 45).  I
+quattro personaggi qui accennati, sono gli eroi di tre dei
+maggiori Poeti, Omero, Virgilio e Lucano.  -- |Cammilla~ (secondo
+gruppo speciale): la ^vergine~ che mor@i in difesa del Lazio
+pugnando contro i Troiani (cf. ^Inf.~, I, 107).  -- |Pentesilea~, 
+figliuola di Marte, vergine delle Amazzoni, morta per mano di
+Achille combattendo a favore de' Troiani.  -- |Il re Latino~, 
+figliuolo di Fauno, re del Lazio, marito di Amata, (^Purg.~, 
+XVII, 35), padre di Lavinia.  -- |Lavinia~: promessa prima in
+isposa a Turno (cf. ^Inf.~, I, 108) re dei Rutuli; morto costui
+divenne sposa di Enea e madre di Silvio (cf. ^Inf.~, II, 13). 
+Nella ^Mon.~, II, 3: ^Lavinia fuit Albanorum Romanorumque mater, 
+regis Latini filia pariter et haeres, si verum est testimonium
+nostri Po, etae in ultimo~ (Aeneidorum), ^ubi Turnum victum
+introducit, orantem suppliciter ad Aeneam sic~:
+
+            Vicisti; et victum tendere palmas
+     Ausonii videre.  Tua est Lavinia conjux.
+
+
+-- |Sedea~: cf. ^Inf.~, II, 103.  -- |Vidi quel Bruto~ ecc.
+(terzo gruppo speciale).  Lucio Giunio Bruto, il quale cacciato
+Tarquinio il Superbo, fond@o la repubblica Romana, e con L.
+Tarquinio Collatino ebbe l'officio di console; dunque fu per lui
+che ^Roma fu dalla reale tutoria emancipata~ (^Conv.~, IV, 5); e
+fu quel desso che insegn@o ^filios et omnes alios postponendo esse
+patriae libertati; quem Livius dicit consulem existentem proprios
+filios cum hostibus conspirantes morti dedisse~ (^Mon.~, II, 5;
+cf. ^Conv.~, IV, 5).  -- |Tarquino~, per Tarquinio, di ci@o cf.
+^Inf.~, XXI, 124 e XXII, 58, nel commento.  -- |Lucrezia~:
+l'onestissima figliuola di Sp. Lucrezio e moglie di L. Tarquinio
+Collatino, la quale, violata da Sesto Tarquinio figliuolo del
+Superbo, per non sopravvivere a tanta onta s'uccise: ^Par.~, VI, 
+41.  -- |Julia~: figliuola di G. Cesare e moglie di Pompeo.  --
+|Marzia~; figliuola di Marcio Filippo e moglie prima di Catone
+l'Uticense, e poscia di Q. Ortensio (^Purg.~, I, 79; ^Conv.~, IV, 
+28).  -- |Corniglia~: Cornelia, figliuola di P. Cornelio Scipione
+Africano il maggiore e madre de' Gracchi: Dante la ricorda anche
+altrove come esemplare di castimonia e di virt@u domestiche in
+opposizione del lasso vivere delle donne fiorentine del suo tempo
+(^Par.~, XV, 129).  -- |Il Saladino~ (quarto gruppo speciale, ma
+d'un solo).  Selah-eddyn, sultano di Babilonia, morto del 1193;
+dai nostri scrittori medioevali (cf. Bocc., ^Dec.~, g. I, 3, e g.
+X, 9) per le sue grandi qualit@a di cuore @e risguardato come il
+tipo ideale del cavaliere maomettano.  <Fu ammirato specialmente
+per il suo animo generoso verso i Cristiani di Gerusalemme dopo
+la battaglia di Tiberiade> (Ruth).  Dante pure lo consider@o uno
+^di que' nobilissimi e buoni, alla cui memoria hanno amore~ non
+pure i buoni, ma financo gli stessi cattivi (^Conv.~, IV, 11);
+onde cos@i il pregia: <O chi non ha ancora nel cuore il Saladino, 
+o il buon Marchese di Monferrato..., quando delle loro messioni
+(<munificenze e liberalit@a> Giuliani) si fa menzione?> (^Conv.~, 
+ivi).  -- |Solo in parte~ (cf. ^Inf.~, XII, 118; ^Purg.~, I, 31;
+VI, 59; XXIV, 130; XXIX, 143); Pietro: ^Saladinum separatum
+ibidem vidit propter divisam sectam, cum fuerit Saracenus.~  Il
+Foscolo: ^senza n@e predecessori, n@e successori che gli
+somigliassero.~  Notabile parmi e l'intento e l'arte del grande
+Maestro nel mettere il Saladino al Limbo; sempre fisso che al
+Cielo ^non sal@i mai chi non credette in Cristo~ (^Par.~, XIX, 
+104), sin tra' Maomettani trova anime fornite di alte virt@u
+civili, e perci@o verametne ^nobili~, da poter istarsene a fianco
+de' migliori eroi della buona antichit@a, e da esser proposte ad
+imitabile esempio: chi, con lavorio sapiente seppe conciliare la
+regola della vera fede e i nascosi consigli dell'immensa carit@a e
+misericordia di Dio circa la predestinazione, e a due pagani
+trov@o posto in Paradiso, non poteva a un Saraceno tanto lodato in
+bont@a chiudere il Limbo: chi ripensi che tempi erano quei di
+Dante, non potr@a non ammirare e il genio di lui e l'indipendenza
+quasi audace.
+
+	|130-133.~  Viene il secondo gruppo generale |Innalzai un
+poco pi@u le ciglia~ ecc.  Il Tommaseo: <Innalza il Poeta gli
+occhi, e vede gli uomini di scienza, secondo lui, virtuosa e
+aiutatrice a virt@u: e per@o li pone pi@u in alto, per quello stesso
+che S. Tommaso pone sopra l'attiva la vita contemplativa (-- cf.
+^Conv.~, II, 5; IV, 17 --).  Fino a Zenone il Poeta numera i
+filosofi teoretici; da Dioscoride in poi, i savj di storia
+naturale, d'eloquenza e di medicina.  L'enumerazione non @e tanto
+confusa quanto pare.>  -- |Il Maestro di color che sanno~, cio@e
+Aristotele di Stagira, morto l'anno 322 a. Cr.; ^magister
+sapientum~ (^Vulg. El.~, II, 10), e |Maestro~, che Dante chiama
+^suo~ (^Conv.~, I, 9), come chiama ^sue~ la scienza e l'^Etica~ e
+la ^Fisica~ di lui (^Inf.~, VI, 106; XI, 80, 101); il ^Maestro
+de' Filosofi~ (ivi, IV, 8), il ^Maestro della nostra vita~ (ivi, 
+IV, 23), ^quello glorioso filosofo, al quale la Natura pi@u aperse
+li suoi segreti~ (ivi, III, 5); il quale giunse perci@o a tanta
+eccellenza di sapere, che a Dante pareva che ^in quella parte
+dove aperse la sua divina sentenza, fosse da lasciare ogni altrui
+sentenza~ (ivi, IV, 23).  A Dante Aristotele era caro soprattutto
+perch@e ^maestro dell'umana ragione~ (ivi, IV, 2), ^maestro e duca
+della gente umana, Additatore~ e ^Conducitore della gente al
+segno dell'umana vita~, che @e la felicit@a (ivi, IV, 6): dunque
+egli @e ^Praeceptor philosophorum cuncta moralia dogmatizans~
+(^Epist.~, VIII, {paragraph.} 5).  Anche nel ^Convito~ (I, 1) per
+^savj~ o ^filosofi~ usa la circonlocuzione |coloro che sanno.~ 
+Il Cornoldi, dopo aver dichiarato che ^nel tessere il catalogo~
+dei chiusi nel Limbo ^Dante poeteggia, ed @e di manica larga~ (e
+che ^certa robaccia~, @e parola sua, ^te la mette morta senza
+peccato grave~), soggiunge: <Aristotele occupa un seggio
+superiore a tutti i filosofi, per@o a vederlo convenne a Dante
+^alzare un po' pi@u le ciglia.~  Con ragione, perch@e Aristotele @e
+il vero principe di tutti i filosofi...  Ne' suoi principj
+fondamentali la filosofia d'Aristotele si acconcia con la fede, e
+ci@o torna a onore di quella e a confermazione di questa...  In
+Aristotele Dio fece vedere quanto possa l'umana ragione senza la
+fede, e in S. Tommaso d'Aquino quanto possa la ragione stesse
+umana ravvalorata dal lume splendidissimo della fede.>
+
+	|134-144.~  L'Alfieri trascrisse il v. 139 e mezzo il
+seguente.  -- |Socrate~: uno de' filosofi pi@u degni con Platone
+di star |pi@u presso~ ad Aristotele (^Conv.~, IV, 24), il quale
+per amore della vera sapienza disprezz@o la vita (ivi, III, 14);
+mostrando per effetto di essere ben persuaso del principio da lui
+sostenuto come filosofo, che cio@e il bene sommo @e operare con
+virt@u (ivi, IV, 6).  Fu Ateniese, e mor@i nel 399 av. Cr.  --
+|Platone~: Ateniese, discepolo di Socrate e fondatore
+dell'Accademia mor@i l'anno 348 a. Cr., essendo vissuto anni
+ottantuno (^Conv.~, IV, 24).  Dante lo chiama ^uomo
+eccellentissimo~ (^Conv.~, III, 5), e successore di Socrate nella
+dottrina filosofica (ivi, IV, 6).  -- |Democrito~: il filosofo
+ridente, fu di Abdera; seguendo le dottrine del suo maestro
+Leucippo, ^poneva~ il mondo fatto a caso, cio@e pel cieco concorso
+degli atomi.  Mor@i l'anno 361 a. Cr.  -- |Pone~, ritiene, 
+afferma: cf. ^Vit. N.~, XX (nel ^Son.~ v. 2); ^Conv.~, II, 15
+(^pongono li Savj mille ventidue corpora di stelle~); ^Purg.~, X, 
+5; XVI, 63; XVIII, 70.  Ma diversamente da Democrito la pensava
+il nostro Poeta: <Per lo divino provvedimento il mondo @e s@i
+ordinato che ecc...  O ineffabile sapienza, che cos@i ordinasti, 
+quanto @e povera la nostra mente a te comprendere!>  --
+|Diogenes~; il Cinico, di Sinope, celebre pel suo disprezzo per
+ogni, bench@e onesta, commodit@a della vita: mor@i del 323 a. Cr. 
+-- |Anassagora~ di Clazomene; fu maestro di Pericle; mor@i nel 428
+a. Cr.  -- |Tale~: Talete, uno de' sette Sapienti (^Conv.~, III, 
+11), nato a Mileto e morto del 546 a. Cr.  -- |Empedocles~, di
+Girgenti, morto verso l'anno 430 a. Cr., autore d'un poema ^sulla
+natura delle cose~ (cf. ^Inf.~, XII, 42-43).  -- |Eraclito~, il
+filosofo piangente, fu di Efeso, e fior@i verso l'anno 500 a. Cr. 
+-- |Zenone.~  Nel ^Conv.~, III, 14, Dante parla di ^Zeno~, e lo
+pone insieme a Socrate e a Seneca tra coloro, che per amore della
+Sapienza tutte le cose ^hanno messo a non calere.~  Nella stessa
+opera (IV, 22), discorrendo della ^felicit@a~, ricorda Epicuro e
+|Zenone~: e nel cap. 6: <Furono filosofi molto antichi, delli
+quali primo e principe fu |Zenone~, che videro e credettero
+questo fine della vita umana essere solamente la rigida onest@a;
+cio@e rigidamente, senza rispetto alcuno, la verit@a e la Giustizia
+seguire, di nulla mostrare dolore, di nulla mostrare allegrezza, 
+di nulla passione sentore avere...  E costoro e la loro setta
+chiamati furono stoici.>  Il Blanc scrisse: <@E impossibile
+decidere se Dante ha inteso parlare di Zenone Cittio o Cittico
+(nacque a Cizico l'anno 340 a. Cr.) capo degli Stoici, ovvero di
+Zenone Eleate (nacque ad Elea circa quattrocent'anni prima di
+Cristo) ^Inf.~, IV, 138.>  Difficile s@i, ma ^impossibile~ non
+direi; nel mio ^Dizionario Dantesco~ mi sono ingegnato di
+rispondere al dubbio sollevato dal benemerito dantista (cf.
+artic. |Zenone~).  -- |Il buon accoglitor~ ecc.; Dioscoride, 
+illustre medico di Anazarbo in Cilicia, autore d'un'opera di
+materia medica in ventiquattro libri, dove tratta del |quale~, 
+cio@e ^accolse~ o adun@o in ordine di dottrina le qualit@a naturali
+delle piante, dei metalli, delle terre, in quanto all'uso che se
+ne pu@o fare per medicamenti.  -- |Orfeo~, ^del quale dice Ovidio
+che faceva colla cetera mansuete le fiere, e gli arbori e le
+pietre a s@e muovere: che vuol dire, che il savio uomo collo
+strumento della sua voce fa mansuescere e umiliare le crudeli
+cuori; e fa muovere alla sua volont@a coloro che non hanno vita di
+scienza e d'arte, e coloro che non avendo vita ragionevole
+alcuna, sono quasi come pietre~ (^Conv.~, I, 1).  -- |Tullio~:
+autore a Dante carissimo per molte ragioni, Infatti, morta
+Beatrice, e datosi a studi pi@u severi, egli ne afferma che il
+libro ^de Amicitia~ di Tullio e quello ^de Consolatione
+Philosophiae~ di Boezio ^colla dolcezza del loro sermone lo
+inviarono nell'amore della Filosofia~ (^Conv.~, II, 13, 16).  E
+dalla fattane prova in suo vantaggio, si persuase che Cicerone
+deve essere studiato anche dai poeti, (^Vulg. El.~, II, 6). 
+^Cittadino di piccola condizione~, difese la romana libert@a
+contro Catilina (^Conv.~, IV, 5).  Molte volte l'Allighieri, e in
+molte delle sue opere allega l'autorit@a di lui.  -- |Lino~;
+nacque nella tracia un tredici secoli av. Cr.; fu, dicono, 
+musico, poeta e teologo, e maestro di Orfeo, insieme ricordati da
+Virgilio (^Ecl.~, IV, 55-56).  L'illustre Lubin allega le parole
+di Ugo da S. Vittore: ^Theologus primus apud Graecos Linus fuit, 
+apud Latinos Varro.~  La Nidobeatina legge invece ^Livio~, 
+<pretto errore di copisti ignoranti>, dice un chiosatore moderno;
+pu@o essere: tuttavia pensando in quale stima Dante tenesse lo
+storico Padovano, il quale nelle sue narrazioni ^non erra~
+(^Inf.~, XXVIII, 12), ^gestorum Romanorum scriba egregius~
+(^Mon.~, II, 3), ^principale scrittore delle romane storie~
+(^Conv.~, IV, 5), e ricordato tra coloro che scrissero
+^altissimas prosas~ (^Vulg. El.~, IV, 5) parmi non aver tutto il
+torto il Giuliani, se ^colla Nidobeatina~ e ^con parecchi codici~
+crede doversi legger ^Livio~ in luogo di |Lino~: ne @e di poco
+momento attendere che il disputato cognome viene non tra altri
+Greci, ma fra Tullio e Seneca.  Vero @e che potrebbesi opporre che
+parlando qui il Poeta di Seneca |il morale~, e di Cicerone non in
+quanto oratore, ma quale teologo pel suo ^de natura Deorum~, 
+meglio al concetto risponde |Lino~ che non ^Livio.~  -- |Seneca
+morale~, per distinguerlo dal tragico: L. Anneo Seneca di
+Cordova, maestro di Nerone, autore di parecchie opere di
+filosofia morale, dall'Allighieri studiato assai, citato di
+spesso, e chiamato ^inclytissimus philosophorum~ (^Epist.~, IV, 
+5).  -- |Euclide geometra~, matematico alessandrino, che fior@i
+circa trecent'anni a. Cr., autore degli ^elementi di geometria~:
+Dante lo cita nel ^Conv.~, II, 14, a proposito dell'affermazione
+dell'insigne matematico, che il ^punto @e principio~ della
+Geometria.  Nella ^Mon.~, I, 1: <^Quem fructum ferat ille, qui
+theorema quoddam Euclidis iterum demonstraret~? dal che si vede
+che Dante, pur s@i vivace amatore delle scienze esatte, sin da'
+suoi tempi deplorava che il soverchio studio di queste andasse a
+tutto detrimento delle scienze morali; e voleva che gli studiosi, 
+giusta la loro capacit@a, si dessero a cercare e a dimostare
+^intentatus veritates.~  -- |Tolommeo~: @e quegli dal quale Dante
+attinse quanto seppe di astronomia.  Claudio Ptolommeo, geografo, 
+matematico e astronomo egiziano, fior@i nel secolo secondo
+dell'era cristiana; @e ricordato e citato nel ^Conv.~, II, 3, 14, 
+15.  -- |Ippocrate~: nativo di Coo, fior@i nel secolo quinto a.
+Cr.; esercit@o la medicina, e di essa scrisse gli ^Aforismi~, 
+acquistandosi l'immortalit@a: come medico Dante lo chiama
+(^Purg.~, XXIX, 137
+
+         quel sommo Ippocr$ate, che Natura
+     Agli animali fe' ch'ella ha pi@u cari.
+
+E cita gli ^Aforismi~, ^Conv.~, I, 8; ^Par.~, XI, 4.  --
+|Avicenna~: medico arabo morto nel 1037.  Scrisse un commento su
+Aristotele, e lasci@o altri scritti, pregiatissimi nel medio evo. 
+Dante reca una sua idea sulla ^Via Lattea~ (^Con.~, II, 15), e
+sulla generazione sostanziale (ivi, II, 14), e lo cita (ivi, III, 
+14; IV, 21).  -- |Galieno~; Claudio Galeno (Dante usa |Galieno~
+anche in prosa, cf. ^Conv.~, I, 8; ^Galenus~ in latino, ^Mon.~, 
+I, 15) nacque a Pergamo nell'Asia Minore nell'anno 130 dell'@era
+volgare, e dopo Ippocrate fu il medico pi@u celebre presso i
+Greci: lasci@o molte opere intorno a cose mediche, principale
+delle quali il ^Tecni~, ricordata nel ^Conv.~, I, 8; e da
+quest'opera nella ^Monarchia~ riferisce Dante questa acuta e
+verace sentenza: ^qui falsis opinionibus imbuti sunt, duplici
+tempore indigent ad scientiam acquirendam~ (I, 15).  --
+|Averrois~: filosofo arabo, nato a Cordova nel 1126 e morto nel
+1198; scrisse di filosofia e di medicina; famosissimo nel medio
+evo pel suo commento sopra Aristotele (^Mon.~, I, 4), detto qui
+il |gran commento~; onde Averrois @e detto per antonomasia ^il
+Commentatore~ (^Con.~, IV, 13; ^Quaest. Acq. et terr.~, V e
+XVIII).  Fu Averrois che ridest@o l'errore di Platone, confutanto
+da Aristotele (cf. ^Summ. Th.~, I, 118, 2), 
+
+     Che un'anima sovr'altra in noi s'accenda
+
+(^Purg.~, IV, 6); e faceva disgiunto dall'anima l'intelletto
+possibile (^Purg.~, XXV, 62-66).
+
+	|145-147.~  L'Alfieri trascrisse l'intiera terzina.  --
+|Ritrar~, narrare (^Inf.~, II, 6; ^Purg.~, XXXII, 64; ^Conv.~, I, 
+12; II, 7); cf. ^Inf.~, XXVIII, 3; ^Purg.~, XXIX, 97.  -- |Di
+tutti~: di parecchi tra' poeti, de' quali qui tacque, parla nel
+^Purg.~, XXII, 97 e segg.  -- |Appieno~, pienamente, ^in aperta e
+distesa lingua~ (^Par.~, XI, 23).  -- |Mi caccia il lungo tema~, 
+lungo e ^ponderoso~ (^Par.~, XXIII, 64); |mi caccia~, mi
+^sospinge~ (v. 22), mi fa ^fretta~ (^Inf.~, XXXII, 84); ^molte
+volte~ a narrare le cose udite o vedute, mancano il tempo e le
+parole (cf. ^Diz Dant.~ artic. Concetto, Discorso, Lingua, 
+Pensiero).
+
+	|148-151.~  L'Alfieri not@o il primo e l'ultimo.  -- |La
+sesta compagnia~ (la ^schiera~ di sei) in | duo~ si |scema~, si
+divide in due, l'una dei quattro che rimangono nel Limbo, l'altra
+di Virgilio e Dante, che procedono nel loro viaggio per |altra
+via~ da quella ond'eran venuti, escono dall'|aura queta~ del
+^nobile Castello~ {v.106}, ed entrano in quella che |trema~, cio@e
+scendono dal primo cerchio nel secondo, nella ^valle dolorosa~, 
+
+     Che tuono accoglie d'infiniti guai (v. 9).
+
+Qui pare contraddire a quanto afferm@o nel v. 27: per@o si badi che
+l@a il ^tremare~ indica quel suono o tremito d'aria che proveniva
+non da ^guai~, ma sol da sospiri, mentre qui la cosa corre ben
+diversa.  -- |Ove non @e che luca~, ove non c'@e cosa che ^mandi~ o
+^renda luce~, cio@e ^luogo d'ogni luce muto~ (^Inf.~, V, 28), ove
+l'aer nero castiga le anime de' lussuriosi (ivi, 51 e 89). 
+|Luca~, da ^lucere~, come da ^temere~ nel sogg. abbiam |tema.~
+
+	Nota le terzine 2, 4, 10, 18, 20, 22, 23, 28, 35 alla 43;
+50. 

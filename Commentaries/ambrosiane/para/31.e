@@ -1,0 +1,87 @@
+	|1.~  ^Rosa~ -- Flos est pulcerrimus; et suavissima odoris, coloris 
+promiscui, alia est rubea, alia est alba.  Sub utraque latet spina et 
+per eam significatur delectatio in bonum vel in malum, ideo dicitur 
+flos Veneris.  Nam delectatio in malum deficit et remanet spina 
+penitudinis compuntive.  Delectatio vero in bonum vix esse potest sine 
+veris temptationibus et puncturis.
+
+	|3.~  ^Sangue~ -- Per redemptionem a primi peccati lapsu, unde versus 
+dicuntur sic:
+
+Qu an di tri mul di pa
+os guis rus sti ce ne vit
+H san mi Cri dul di la
+
+	^Sposa~ -- Scilicet per mortem suam.
+
+	|4.~  ^Canta~ -- Scilicet angeli.
+
+	|9.~  ^Si sopora~ -- Idest quietat.
+
+	|10.~  ^S'adorna~ -- Scilicet inter agmina sanctorum angelorum 
+consortia miscebantur.
+
+	|12.~  ^Sempre sogiorna~ -- Scilicet divina essentia.
+
+	|13.~  ^Viva~ -- Propter caritatem.
+
+	|14.~  ^D'oro~ -- Propter incorruptibilitatem.  ^Bianco~ -- Propter 
+puritatem.
+
+	|26.~  ^Antica~ -- Qui fuerunt ante adventum Christi.  ^Novella~ -- 
+Qui fuerunt post adventum Christi.
+
+	|27.~  ^Segno~ -- Scilicet ad Deum cuius visio gloria beatorum.
+
+	|30.~  ^Procella~ -- Hic exclamando invocat succursum trinitatis 
+omnipotentis contra pericula mundi.
+
+	|31.~  ^Barbari~ -- Septentrionales ultra Ungariam et Alamaniam.
+
+	|32.~  ^D'Elice~ -- Fabule iste habentur supra.
+
+	|33.~  ^Fillio~ -- Cantu IIII ^Purgatorii~.
+
+	|35.~  ^Laterano~ -- Ecclesia Sancti Iohannis in Laterano.  Et 
+dicebatur Lateranum locus sive palatium ubi dicta est ecclesia fundata, 
+quia ibi sepulta fuit rana quam medici in Neronis corpore nutrierunt 
+quando voluit inpregnari.
+
+	|38.~  ^A l'eterno~ -- Scilicet in visione loci ubi non est 
+transmutatio temporis.
+
+	|39.~  ^Giusto e sano~ -- Per contrarium loquitur hic yronice.
+
+	|42.~  ^Libito~ -- Scilicet placere.  ^Muto~ -- Solum visione 
+contentus.
+
+	|49.~  ^Suadi~ -- Scilicet blanditiosi.
+
+	|102.~  ^Bernardo~ -- Dantes introducit beatum Bernardum quia ipse 
+dilexit eum et in eius habitu et regula vivere affectavit, et quia ipse 
+Bernardus scripsit de laudibus beate Marie Virginis ultra omnes et 
+devotissimus eius fuit.  Quo mediante, gratiam beate Virginis impetrare 
+sperabat ut ad visionem et contemplationes divinitatis pervenire 
+valeret.
+
+	|103.~  ^Croatia~ -- Pars Sclavonie est.
+
+	|104.~  ^Veronica~ -- Sudarium Christi Rome.  Et dicitur Veronica quia 
+sic nominabatur mulier cui Christus tradidit figuram suam in illo panno 
+sudore proprio pictam.
+
+	|108.~  ^Vostra~ -- Hec non sunt verba dubitativa vel dubitantis, set 
+congratulantis et certe credentis.
+
+	|124.~  ^Themo~ -- Scilicet currus Solis.
+
+	|125.~  ^Fetonte~ -- Supra cantu XVII ^Inferni~.
+
+	|127.~  ^Oroa fiamma~ -- Primum vexillum imperatoris est ex duobus 
+scilicet coloribus, aureo et igneo, ideo dicitur aurea flamma, per 
+aurum pacem subditis et per rubrum punctionem rebellibus portendens.  
+Sic per similitudinem nominat beatam Virginem primum vexillum deitatis. 
+ Nam quantumcumque homo proficiat, habet tamen mortalis carnis affectum 
+circa terrena et ab hoc cotidie reviviscit, intervenientibus bonis et 
+piis operibus et orationibus et gratia Virginis gloriose.
+

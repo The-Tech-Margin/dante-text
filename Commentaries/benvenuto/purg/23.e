@@ -1,0 +1,594 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS TERTIUS, ^in quo tractat
+sicut invenerunt spiritus vitii gulae qui valde erant macri, et
+de modo poenae ipsorum, sub titulo Forensis consanguinei Dantis,
+qui multa praedixit contra dominas Florentiae, et de multis
+aliis.~
+
+	|Proemio.~  ^MENTRE che gli occhi per la fronda verde.~ 
+Postquam in superiori capitulo circa finem poeta noster tractavit
+et determinavit de poena et purgatione gulosorum in generali,
+nunc consequenter agit et tractat de eadem materia magis in
+speciali.  Et praesens capitulum XXIII potest dividi in quatuor
+partes generales ad minus.  In prima quarum describit formam
+gulosorum multum curiose.  In secunda introducit unum spiritum
+singularem modernum notatum vitio gulae, qui sibi declarat poenam
+quae obscure posita est in praecedenti capitulo, ibi: ^Gi@a era in
+ammirar.~  In tertia poeta movet unam quaestionem dicto spiritui,
+ibi: ^Et io a lui.~  In quarta et ultima manifestat se et suos
+duces dicto spiritui, ibi: ^Deh, frate.~  
+
+	|1-6.~  Ad primum veniens dico quod poeta declarat formam
+poenae gulosorum; et primo praemittit suam  dispositionem supra
+arborem superius descriptam per comparationem claram, dicens:
+|Mentre~, idest, interim, |ch'io ficcava gli occhi~,
+intellectuales, |per la fronda verde~, idest, illius arboris a
+simili, |s@i come far suole chi dietro all'uccellin sua vita
+perde~; et est comparatio propria: sicut enim homo interdum fixe
+respicit intra ramos arboris ut videat aviculam ibi latentem, et
+saepe perdit tempus inutiliter, quia non potest illam capere, ita
+recte poeta nunc respiciebat attente per frondes illius arboris,
+ut videret quis loquebatur ibi, sed frustra, quia non poterat
+illum cognoscere; ideo bene Virgilius revocavit eum dicens: |lo
+pi@u che padre~, idest, Virgilius praeceptor, informator animi mei
+magis colendus quam pater, |mi dicea: figliuole~, idest, o fili
+mi, |veni oggi mai~, quia non est amplius standum hic; et ecce
+causam utilem et necessariam, |ch@e'l tempo che n'@e posto~, de quo
+modicum restat nobis, |pi@u utilmente compartir si vuole~, quia
+multa restant videnda, quae ambulando poterimus contemplari.  
+
+	|7-9.  Io.~  Hic poeta ostendit qualiter monitus a
+Virgilio recessit ab arbore et accessit ad spiritus, qui
+purgabantur ibi.  Dicit ergo statim: |Io volsi il viso~,
+scilicet, mentalem, |e'l passo~, idest, processum ad aliud
+pertractandum, |non men tosto~, quasi dicat: removi pariter
+oculum et pedem ab arbore, |appresso i savi~, scilicet, Virgilium
+et Statium poetas, |che parlavan sie~, idest, tam dulciter et
+delectabiliter, |che mi facean l'andar costo di nullo~; quasi
+dicat, quod nullum laborem sentiebam in eundo; et merito, quia in
+vita populus romanus currebat certatim ad audiendum alterutrum
+istorum poetarum; imo hodie videmus multos avide concurrere ad
+audiendum libros istorum si sit aliquis bene legens et
+intelligens.  
+
+	|10-12.~  Et tangit quomodo appropinquavit ad spiritus,
+quia audivit voces; unde dicit: |et ecco s'udie~, idest, auditum
+fuit, |pianger e cantar~, quia illi de purgatorio plorando
+cantant, et cantando plorant propter spem et poenam; et ecce quid
+dicebant: |Labia mea, Domine~, idest, illud dictum propheticum
+quod ad omnes laudes divinas decantatur, scilicet, ^Domine labia
+mea aperies et os meum annuntiabit laudem tuam.~  Quae oratio
+optime competit gulosis istis, quasi dicant: Labia et os quae
+exercui multum et saepe ad manducandum et bibendum, nunc, o Deus,
+aperi ad laudandum et glorificandum nomen tuum cum tanto studio
+et maiori.  Et dicit: |per modo tal~, idest, cum tanta affectione
+et efficacia, |che parturie diletto e doglia~, delectationem ex
+devoto cantu, dolorem ex compassione amarae poenae; quia affecti
+extrema fame et siti, vix poterant labia movere, aut verba
+formare.  
+
+	|13-15.~  Et subdit petitionem suam, dicens cum brevi
+responsione Virgilii circa dictos spiritus, dicens:
+|comincia'io~, supple, dicere: |o dolce padre~, scilicet,
+Virgili, |ch'@e quel ch'i' odo? et elli~, scilicet, Virgilius
+respondit: |Ombre~, supple sunt, |che vanno forse solvendo il
+nodo di lor dover~, idest, debitum peccati, pro cuius culpa sunt
+hic carcerati et macerati fame et siti.  
+
+	|16-21.  S@i come.~  Hic poeta describit formam venientium
+animarum per unam comparationem claram, dicens: |Turba~, idest,
+una multitudo, |d'anime~, scilicet, gulosorum, qui sunt infiniti
+et multi salvantur, |tacita e divota~, idest, tacite et devote
+tendens ad purgationem, |mota pi@u tosto~, idest, quae movebatur
+celerius quam nos, quia non erat homo cum carne in eorum
+societate, sicut in nostra, |venendo diretro a noi e
+trapassando~, scilicet, cito ante nos, |ci ammirava cos@i, s@i come
+i peregrin pensosi fanno~, scilicet, admirantur, |giugnendo per
+cammin gente non nota~, idest, aliam gentem peregrinam non notam
+eis.  Et hic nota quantum haec comparatio est applicabilis
+proposito autoris: sicut enim peregrinantes vadunt per viam ad
+indulgentiam peccatorum suorum cum devotione et tacita oratione;
+ita nunc isti spiritus tendentes ad purgationem: et sicut
+invenientes alios peregrinos ignotos retrospiciunt sibi a tergo,
+et nihil dicunt; ita nunc isti invenientes Virgilium, Statium, et
+Dantem non cognitos sibi, reflectunt se, et non retardant suum
+iter, ne perdant tempus et nihil dicunt.  
+
+	|22-24.~  Et subdit habitum dictarum animarum, dicens:
+|ciascuna~, illarum animarum, |era oscura e cava negli occhi~,
+propter famem plus tamen et minus secundum profunditatem gulae,
+|pallida nella faccia~, propter carentiam sanguinis, |e tanto
+scema~, idest, macra, |che la pelle s'informava dall'ossa~,
+idest, recipiebat formam ab ossibus super quibus erat tensa sine
+carne.  Hoc totum faciebat fames nunc ad purgandam pinguedinem,
+quam olim fecerat ingluvies importuna. 
+
+	|25-27.  Non credo.~  Hic poeta manifestat extremam
+maciem istorum famelicorum per unam pulcerrimam comparationem et
+propriissimam.  Ad cuius cognitionem est primo sciendum, quod
+sicut fingit Ovidius libro octavo maioris circa finem Erisicthon
+de Thessalia vir sacrilegus temere spernebat deam Cererem et
+colentes eam, adeo quod nemus consecratum illi dicitur violasse;
+et uni ex famulis formidanti incidere quercum dedicatam deae in
+furore amputavit caput, et arborem ipsam prostravit ad terram. 
+Irata dea altam vindictam fecit de homine insano: nam immisit
+famem inauditam in ventrem eius; unde Erisicthon in nocte
+somniabat comedere, vane vorans ventum, et crescente in dies fame
+vendidit et comedit omnia sua; nam quod satis fuisset uni populo
+non sufficiebat uni homini, et quanto plura vorabat, tanto plura
+appetebat more ignis.  Demum omnibus consumptis vendidit unicam
+filiam suam pluribus vicibus, et ad tantam extremitatem devenit
+quod coepit comedere membra sua vorans se ipsum.  Visa fabula,
+considera veram allegoriam quae latet sub cortice literae. 
+Erisicthon namque figurative est gulosus qui inconsulte spernit
+Cererem deam bladi, quia scilicet, non contentus pane et vino et
+aliis fructibus terrae quaerit sapida summo artificio praeparata;
+ideo vindicta debita justo judicio Dei parata est, quia fames
+intrat corpus eius; nam si bene prandet, vult melius coenare; si
+multum bibit, semper plus appetit: et sic continuo magis ardet
+appetitus corruptus, ita quod in nocte somniando ducit labia et
+dentes, et velut ignis consumit illud, de quo possent vivere
+mille; quid ultra? hodie vendit campum, cras vineam, ut
+satisfaciat ventri importunissimo creditori.  Consumpta pecunia,
+vendit domum, equum, vestem, ancillam, et absorbet et deglutit
+omnem substantiam suam; demum vendit filiam propriam, uxorem,
+sororem; quando prostituit pudicitiam alteri pro pretio ut
+respondeat improbae gulae.  Postremo deficientibus omnibus vertit
+furorem in se ipsum, cum efficitur servus alterius, famulator,
+adulator, leno, et quod est horribile dictu, comedit se ipsum dum
+vadit ad hospitale, imo ad fossatum; et ubi comedit omnia sua
+pediculi comedunt eum, et vermes paulatim ipsum adhuc viventem
+comedunt et rodunt.  Ergo sic maledicta gula damnosissimum
+vitium, irremediabile malum.  Nunc ad literam.  Dicit poeta: |Non
+credo che Erisitone si fosse fatto secco~, idest, macilentus
+extenuatus, |a buccia strema~, sine aliqua carnositate, |per
+digiunar~, idest, propter famem, |quando pi@u n'ebbe tema~,
+scilicet, cum coepit vorare se ipsum.  
+
+	|28-30.  Io.~  Hic poeta manifestata fame maxima exemplo
+unius, manifestat ipsam exemplo multorum; ideo comparatio ista
+est propriissima ad factum.  Et ad intelligentiam istius literae
+est sciendum, quod sicut habetur ex Josepho et aliis multis
+autoribus tempore illius durissimae obsidionis, qua Titus
+Vespasianus premebat Jerusalem omnibus intolerabilibus
+incommodis, crudelissima fames et nulli alii comparanda plus quam
+caetera mala urgebat miseram urbem, de qua non possem brevibus
+verbis dicere, quandoquidem homines stercora et urinas jumentorum
+coacti sunt capere; sed quod miserabilius fuit et cum lacrymis
+memorandum, mulier quaedam nobilis genere et divitiis nomine
+Maria inventa est in alia multitudine quae confluxerat ad urbem
+tempore obsidionis, ut alibi dictum est supra; cuius facultates
+tyranni primo invaserant, deinde per momenta satellites latronum
+reliquias rapiebant, propter quod mulier indignatione et insania
+accensa saepe illos provocabat maledictis ad interficiendum se;
+sed cum nullus vel ira vel miseria mactaret illam, nec aliqua via
+posset quaerere victum, fame et ira, pessimis consultoribus,
+instigante, armatur contra jura naturae.  Nam assumpto infantulo
+quem lactabat dicere coepit: infelicis matris infelicior fili: in
+bello, fame, rapina latronum cui te reservabo?  Nam si vita
+sperari possit, jugo romanae servitutis servamur; sed jam nunc
+ipsam servitutem fames praevenit, et praedones peiores fame et
+servitute nos premunt.  Veni ergo, mi fili, esto matri cibus,
+praedonibus furor, saeculis fabula, quae sola deficiebat miseriis
+judaeorum.  Et cum haec dixisset, simul filium jugulavit, et
+medium assavit, et reliquum reservavit.  Et ecce praedones
+incitati odore carnis, mortem minantes nisi cibum quem senserant
+daret.  Tunc illa infuriata dixit: certe partem optimam
+reservavi; et continuo detexit membra infantis; sed illi quamvis
+crudeles territi sunt nimis, nec potuerunt facere verbum,
+vincente naturali pietate.  Illa vero vultu crudeli ferocior
+latronibus, dixit: filius meus est, meus partus, meum peccatum,
+comedite; nam et ego prior comedi quae genui: nolite fieri
+misericordiores matre, aut foemina molliores.  Illi trementes
+recesserunt, hunc solum miserae matri relinquentes cibum.  Et
+continuo repleta est civitas flebili rumore, et quilibet
+abhorrebat factum velut si ipse fecisset; et laudabant mortuos,
+postquam talium rerum non polluerentur auditu.  Nunc ad literam:
+dicit poeta: |Io dicea, fra me stesso pensando: ecco la gente~,
+perfida judaeorum, |che perd@e Jerusalemme~, unde Josephus
+narratis infinitis calamitatibus eorum, concludit; ut autem
+breviter dicam, neque puto aliam civitatem unquam fuisse passam
+talia, neque ullam nationem post hominum memoriam ferocioris
+fuisse malitiae.  Et ecce quando: |Quando Maria nel figlio di@e di
+becco~, cum bucca.  Et sic nota quod sicut Maria filia Joachim
+hebraea vidit filium agnum immaculatum crudeliter affigi ligno
+crucis; ita nunc alia Maria filia Eleazari hebraea proprium
+filium innocentem crudelissimo affixit spito et dentes iniecit in
+eum.  
+
+	|31-33.  Parean.~  Hic poeta adducit tertiam
+comparationem ad manifestandam formam istorum dicens:
+|l'occhiaie~, idest, sedes oculorum, |parean anella senza gemme~,
+quod probat per aliud argumentum; quia ille, |chi legge omo nel
+viso degli uomini bene avria quivi conosciuto l'emme.~  Hoc
+dicit, quia istud nomen homo est descriptum in facie eius; nam
+ibi sunt duo oculi sicut duae literae, |O~, et linea nasi cum
+duobus arcubus superciliorum faciunt formam huius literae |M~;
+^H~ vero non est litera sed aspirationis nota; ideo facile
+poterat quis legere |M~ in facie istorum famelicorum.  Et hic
+nota quod Ovidius ubi supra describens famem dicit similiter quod
+habebat oculos cavos, capillos hirtos, labia alba, dentes
+rubiginosos, cutim duram et subtilem, per quam poterant videri
+omnia intestina; pectus habebat pendens et ventrem affixum
+spinae, digiti videbantur longi, genua inflata, calcanei magni. 
+
+	|34-36.~  Et subdit poeta quod non poterat cognoscere
+causam talis famis, quia non poterat imaginari quod procederet ab
+arbore illa; unde dicit interrogative: |chi crederebbe~? quasi
+dicat, nullus, |che l'odor d'un pomo generasse brama~, idest,
+appetitum edendi, |s@i governando, e quel~, scilicet, odor,
+|d'un'acqua~, generaret appetitum bibendi, |non sappiendo como~;
+ignorando causam quomodo fiat.
+
+	|37-42.~  Gi@a era in ammirar.~  Ista est secunda pars
+generalis in qua poeta introducit unum spiritum modernum de secta
+gulosorum.  Ad cuius cognitionem est primo sciendum, quod iste
+fuit quidam concivis suus, nomine Foresius, natione florentinus,
+genere nobilis, frater famosi militis Cursii de Donatis, amicus
+et affinis nostri poetae, cum quo vixerat ad tempus familiariter. 
+Et quia noverat eum multum laborasse vitio gulae, licet esset
+aliter vir bonus, ideo introducit eum hic ita maceratum.  Et
+primo ostendit quomodo fuerit primo cognitus ab illo, dicens:
+|per la cagion ancor non manifesta~, de odore pomorum et aquae,
+|di lor magrezza e di lor trista squama~, idest, siccae scabiei;
+|et ecco un'ombra~, scilicet, Foresius Donati donatus conspectui
+suo, |volsemi gli occhi del profondo della testa~, idest, de
+concavitate oculorum; |e guard@o fiso~, volens recognoscere me,
+|poi grid@o forte~, ex magna affectione, videns quod eram Dantes:
+|qual grazia m'@e questa~? quasi dicat mirabilis, quod videam te
+hic vivum, et inaudita gratia est data tibi.  
+
+	|43-48.  Mai.~  Hic poeta ostendit qualiter recognoverit
+eum, dicens: |Mai non l'avrei riconosciuto al viso~, ita erat
+transformatus.  Et hic nota, quod poeta merito fingit quod
+numquam recognovisset istum ad visum: per hoc volens dicere
+tacite quod ingluvies ventris multum et cito transmutat formam
+hominis.  Unde Domitianus, qui fuerat pulcer juvenis, factus
+deformis calvitio capitis et pinguedine ventris, scribit ad
+amicum quod nihil est gratius, nihil brevius pulcritudine.  Et
+dicit: |ma ci@o che l'aspetto suo m'avea conquiso~, idest,
+clauserat et celaverat cognitioni meae, |mi fu palese~, scilicet,
+quis erat, |nella voce~, quae non est ita de facili
+transmutabilis sicut facies; unde dicit: |questa favella~;
+mirabile est quod loquela judicat de homine etiam cum non
+videtur, |mi raccese~, idest, renovavit, |tutta mia conoscenza~,
+quae erat extincta, |alla cambiata labbia~, idest, in facie
+mutata, |e ravvisai la faccia di Forese.~  
+
+	|49-51.  Deh~!  Hic poeta ponit orationem Foresii ad se
+qui petit ut dicat qui sunt duo duces eius non attenta eius
+figura ita transformata.  Dicit ergo: et ille Foresius, |pregava
+me~, Dantem, dicens deprecative: |Deh! non attendere~, idest, pro
+Deo non advertas, |all'asciutta scabbia~, idest, ad siccam
+maciem; |che mi scolora la pelle~, idest, facit me pallidum in
+facie, |n@e a difetto di carne ch'io abbia~, per totum corpus;
+quasi dicat: rogo te non dedigneris loqui mecum, licet videas me
+ita horribiliter transformatum.  Hoc ideo dicebat Foresius quia
+Dantes respiciebat eum fixe, non ex contemptu sed ex condolentia,
+ut statim patebit. 
+
+	|52-54.~  Dicit ergo: |ma dimmi 'l ver di te~, scilicet,
+quomodo tu ita venisti huc, quod numquam auditum fuit de alio
+vivente; et etiam, |di' chi son quelle due anime~, separatae,
+|che l@a ti fanno scorta~, ducentes te per regionem mortuorum? et
+rogo te, |non rimaner che tu non mi favelle~; qui tam socialiter
+eras solitus conferre mecum in vita.  
+
+	|55-57.  La.~  Hic poeta ponit responsionem suam ad
+Foresium.  Et primo ad primum quod ille tetigerat; et dicit, quod
+non ex indignatione sed ex compassione respiciebat eum.  Dicit
+ergo: |Rispos'io lui~, scilicet, illi Foresio: |La faccia tua
+ch'io lagrimai gi@a morta~, quia tempore mortis ploraverat super
+amicum amatum, et post mortem saepe suspiraverat eum; sicut dicit
+Augustinus de amico suo libro Confessionum; |mi d@a di pianger gi@a
+non minor doglia~, quasi dicat: imo maiorem, quia non dolui
+tantum videre te mortuum, sicut modo videndo te ita
+transformatum; ideo dicit: |veggendola s@i torta~, idest, tantum
+transmutatam ab illa.  Et hic nota quod istud maledictum vitium
+gulae de sui natura nimis enormiter alterat omne corpus; nam gula
+inducit macilentam tisim, pinguem bulsitiem, trementem paralysim,
+sitientem hydropisim, siccam scabiem, ferventem febrem, foedam
+nauseam, torsiones viscerum, deformitates totius corporis, et
+immaturam infeliciter mortem.  Hic autem fames qua purgatur gula
+inducit tantum solam macredinem tantam.  
+
+	|58-60.~  Et continuo petit causam tantae extenuationis
+in eo antequam respondeat ad petita, dicens: |per@o mi di' per
+Dio~, rogo te, |che s@i vi sfoglia~, idest, quid est illud quod
+ita spoliat vos carne, |non mi far dire~, id quod petis de me et
+sociis, |mentr'io mi meraviglio~, de re incognita, nec habeas pro
+malo; |ch@e mal pu@o dir chi @e pien d'altra voglia~, scilicet,
+maiori, de qua magis curat.  
+
+	|61-69.  Et elli.~  Hic poeta ponit responsionem Foresii
+ad petitionem suam, quae responsio est clara per ea quae jam
+exposita sunt supra de mirabili potentia pomorum et aquae.  Dicit
+ergo: |Et elli a me~, supple, Foresius dixit: |vert@u cade
+dell'eterno consiglio~, idest, provenit ex justo judicio Dei, ad
+purgandam gulam pinguem et unctam, |nell'acqua e nella pianta~,
+idest, arbore pomifera, |rimasa adietro~, quae descripta est
+supra, |ond'io s@i m'assottiglio~, idest, excarnor: et subdit,
+quod non solum ipse sed caeteri taliter puniuntur, dicens: |tutta
+esta gente~, idest, ista multitudo magna quam cernis hic mecum
+transire sub arbore, |che piangendo canta~, dicendo: |Domine
+labia mea aperies~, ut dictum est supra, |si rif@a santa qui in
+fame e in sete~, ubi primo fuerat peccatrix, |per seguitar la
+gola oltre misura~, idest, plusquam expedit ad substentationem
+vitae, secundum complexionem, aetatem, locum, tempus, laborem,
+regionem; nam in hoc oportet sequi medium virtutis, quoniam illud
+quod est minimum uni, alteri est nimium, sicut philosophus
+adducit exemplum de Milone gigante, qui pugno mactabat taurum, et
+illum coctum comedebat nec gravabatur; et tamen pes illius tauri
+satis fuisset mihi.  Et declarat causam huius famis et sitis,
+dicens: |L'odor ch'esce del pomo e dello sprazzo~, idest, aqua,
+|che si distende su per sua verdura~, scilicet, in ramos arboris,
+|n'accende cura~, idest, ingenerat nobis appetitum, |di bere e di
+mangiare.~  
+
+	|70-75.  E non.~  Hic Foresius assignata causa poenae
+istorum, assignat causam intensionis poenae eorum, quia continuo
+vadunt et redeunt ad locum arboris et aquae.  Dicit ergo: |E
+questo spazzo~, idest, ista deambulatio quam continuo facimus,
+|girando~, circa montem, |si rinfresca~, idest, renovat et
+reparat, |nostra pena~, scilicet, famem et sitim, |non pur una
+volta~, quasi dicat: imo saepessime.  Et talis recte debet esse
+poena gulosi, ut sicut saepe solebat ire et redire ad coquinam,
+et tabernam, ita nunc saepe substineat famem et sitim voluntarie;
+unde facit colorem, qui dicitur correctio, dicens: |io dico pena
+e devria dir sollazzo.~  Et suddit solatiosam poenam eorum per
+devotissimam comparationem, dicens: |ch@e quella voglia ci mena~,
+multotiens, |all'arbore~, hoc dicit, quia invenient aliam arborem
+in eadem via, ut patebit infra capitulo sequenti, |che men@o
+Cristo lieto a dire Ely~, in ligno crucis existentem, |quando ne
+liber@o con la sua vena~, idest, proprio sanguine.  Et hic nota
+quantum comparatio est propria.  Christus enim in ara crucis
+quantumcumque afficeretur amare poena corporali, tamen laete
+dixit: ^hely hely~, pro salute nostrae redemptionis; ita animae
+istorum dulciter cruciantur in odore aquae et pomi gratia suae
+salvationis.  Et hoc videmus esse verum in purgatorio morali,
+quia homo volens purgare in se vitium gulae sponte abstinet a
+cibis et vinis sapidis, quamvis videatur sibi durissimum cessare
+a delectabilibus assuetis.  Et ulterius nota quod poena
+poenitentialis in vita est magis voluntaria, quia est a voluntate
+imperante; sed poena purgatorii est a voluntate substinente, quia
+voluntarie tolerant, et cum hoc vehementer desiderant ad patriam
+pervenire, et ad hoc auxilium optant ab aliis.
+
+	|76-84.  Et io a lui.~  Ista est tertia pars generalis,
+in qua poeta noster movet unum dubium Foresio, et est dubium
+tale: dictum est saepe circa principium huius libri in multis
+locis et capitulis quod differentes poenitentiam ad extremum
+mortis stant relegati extra purgatorium per tantumdem temporis;
+cum ergo poeta sciret Foresium fuisse de numero talium, merito
+dubitat, et dubitando petit, quomodo ante tempus pervenerit ad
+purgatorium.  Dicit ergo: |Et io a lui~: supple, dixi, |o Forese,
+cinqu'anni non son volti infino a qui da quel d@i~, scilicet,
+mortis, |nel qual mutasti mondo a miglior vita~; quasi dicat: tu
+mortuus es jam quasi quinque annis elapsis, scilicet in millesimo
+ducentesimo nonagesimo sexto; hoc praesupposito, |come se' tu
+venuto ancor di qua~, ad verum purgatorium, |se la possa del
+peccar pi@u fu finita~, in voluptate gulae, cui semper servisti
+usque ad mortem, |prima che sorvenisse l'ora del buon dolor~,
+scilicet, poenitentiae, |ch'a Dio ne rimarita~, idest,
+reconciliat; et est proprius modus loquendi.  Anima enim
+meretrix, quae recesserat a Deo adulterando cum multis procis,
+reconiungitur illi petendo suppliciter veniam, quasi dicat: si
+peccata tua prius dimiserunt te quam tu illa, quomodo non es tu
+cum aliis tuis concivibus, Casella, Bilaqua et talibus?  Unde
+dicit: |io ti credea trovar l@a gi@u di sotto~, in antipurgatorio
+errantem circa montem, |ove tempo per tempo si ristora~, quia
+tanto tempore statur extra, quanto dilata est poenitentia.  Et
+hic nota quod poeta noster facit hanc petitionem ut veniat ad
+unum suum propositum, ut statim patebit.  Quia enim saepe fecerat
+mentionem de florentinis suis et vitiis eorum, ideo nunc captata
+opportunitate acuit stylum suum contra mulieres eorum.  
+
+	|85-90.  Et egli.~  Hic poeta ponit responsionem Foresii
+ad se, qui breviter dicit, quod intercessio uxoris suae citius
+fecit eum ascendere.  Ad quod sciendum quod Foresius praefatus
+habuit in vita unam uxorem suam, cui nomen fuit Anella, mulier
+quidem sobria et pudica, quae temperanter vixit cum isto guloso,
+cui habebat semper praeparare delicata cibaria, in quo magis
+virtus eius enituit.  Et sicut in vita numquam cessabat revocare
+eum ab errore suo, ita post mortem numquam cessavit orare pro eo;
+cum tamen mulier soleat faciliter oblivisci priorum affectuum, ut
+autor alibi jam dixit.  Dicit ergo: |Et egli a me~, supple,
+respondit Foresius: |La Nella mia~, vetula uxor sic vocata, |s@i
+tosto m'ha condotto a ber lo dolce assenzio de' mart$iri~, idest,
+dulcem amaritudinem poenarum: quanto enim delectatio in cibo et
+potu fuit magna, tanto poena est amara in fame et siti, et tamen
+dulcis videtur ratione spei; |col suo pianto dirotto~, ita quod
+sobria vini, facta est prodiga lacrymarum, et ita, |m'ha tratto
+della costa~, scilicet, inferiori montis, |ove s'aspetta~, ad
+tempus, ut dictum est, |co' suoi prieghi divoti~, et ideo justis,
+|e con sospiri~, a profundo cordis.  Et dicit: |e liberato m'ha
+degli altri giri~, inferioribus purgatorii, scilicet, de circulo
+superbiae, invidiae etc.  
+
+	|91-96.  Tanto.~  Hic Foresius extollit singularitatem
+virtutis Anellae, quae paucas habet socias inter tot inhonestas
+mulieres florentinas.  Et ut videas, quid autor noster sentiat
+sub nomine unius, debes notare, quod nihil est melius, nihil
+utilius muliere pudica.  Multa enim sunt quae per se nobilitant
+clara ingenia virorum; at mulierum propria virtus est pudicitia:
+ideo summe laudanda, quia bene meretur de maioribus, quorum
+sanguinem furtiva soboles non vitiat; bene de filiis qui non
+habent erubescere de matre, nec dubitare de patre; bene primo de
+se, quam liberat a contumelia alieni corporis.  Ergo
+principalissime mulier debet habere curam pudicitiae, qua amissa
+omnis virtus ruit.  Haec pauperem commendat, divitem extollit,
+deformem redimit, exornat pulcram.  Ergo beatus Foresius, cui
+contigit habere talem mulierem; de qua dicit: |La vedovella mia~,
+scilicet, Anella, quam annulo desponsaveram, |che tanto amai~, et
+bene redamavit me viventem, et defunctum, |tanto @e a Dio pi@u cara
+e pi@u diletta, quanto in ben operar @e pi@u soletta~, in patria
+nostra, in qua mulieres nimis vane operantur.  Et confirmat quod
+dixit de mulieribus florentinis per comparationem ad quasdam
+mulieres barbaras, quae dicuntur esse in Sardinia, sine pudore,
+et sine habitu civili.  Dicit ergo: |che la Barbagia di
+Sardigna~; Montanea est altissima in insula illa, in qua habitat
+gens silvestris sine lege, sine religione vera: quae dicitur
+remansisse ibi, quando insula fuit recuperata de manibus
+barbarorum de Africa, quorum mulieres sunt nimis lubricae et
+impudicae, permittentibus viris.  Nam pro calore et prava
+consuetudine vadunt indutae panno lineo albo, excollatae ita, ut
+ostendant pectus et ubera; et recte more florentinarum, talis,
+inquam, Barbagia, |@e assai pi@u pudica ne le femmine sue~, quasi
+dicat: minus impudica, |che la Barbagia~, scilicet, Florentia,
+quam Barbagiam alteram vocat, |dov'io la lasciai.~  
+
+	|97-102.  O dolce.~  Hic Foresius ostendit quod ad vanam
+voluptatem mulierum florentinarum jam parata est debita
+disciplina, quam praenuntiat eis, dicens Danti: |O dolce frate,
+che vuoi tu ch'io dica~? de mulieribus nostris, |tempo futuro~,
+in brevi, |m'@e gi@a nel cospetto~, idest, est mihi jam praesens,
+quia jam videor videre, |cui non ser@a quest'ora molto antica~,
+quasi dicat: non multum longe ab hodierna die et praesenti hora,
+|nel qual fie interdetto in pergamo~, idest, in quo tempore
+vetabitur publice in pulpito, |alle sfacciate donne fiorentine~,
+quae sine fronte, sine pudore non timent verecundiam, |l'andar
+mostrando il petto con le poppe~, idest, mamillis quae sunt
+occultabilia, nec debent ostendi nisi legitimo viro.  
+
+	|103-105.~  Et ostendit quod sic expedit eis propter
+nimiam impudentiam earum.  Unde dicit interrogative: |quai
+barbare, quai saracine fur mai~? quasi dicat: numquam vel
+nusquam, |cui bisognasse discipline o spiritali~, idest, vel
+spirituales, sicut excommunicatio; vel habitus bonus, qualem
+dedit beatus Gregorius mulieribus romanis, sub quo honeste
+latent; |o altre~, scilicet, vel disciplinae temporales, sicut
+statutum civitatis, vel poena officialis, quae vetat inhonestam
+et enormem decisionem pannorum circa collum; sicut aliquando
+factum est Florentiae propter istas barbagienses.  Et hic nota,
+quod poeta noster meritissime facit invectivam contra istas.  Nam
+nulli artifices in mundo habent tam varia organa et diversa
+instrumenta et subtilia argumenta pro exercitio suae artis, sicut
+mulieres florentinae pro cultu suae personae.  Non enim contentae
+naturali pulcritudine, semper conantur addere, et contra omnes
+defectus incredibili arte sagaciter se armant.  Nam parvitatem
+adiuvant cum planula alta; carnem nigram dealbant; faciem
+pallidam faciunt rubicundam; capillos faciunt flavos; dentes
+eburneos; mamillas breves et duras: et ut breviter dicam, omnia
+membra artificiose componunt.  Quid mulierum tuscarum mores
+referam, de quibus Gerius de Aretio satyram fecit ad imitationem
+Apuleii?  Non solum autem mulieres tuscae, sed ubique terrarum
+intemperantes factae sunt, sicut Seneca ostendit de mulieribus
+romanis.  Feminae autem florentinae vel Florentiae comedunt et
+bibunt, antequam vadant ad nuptias vel ad ecclesiam.  
+
+	|106-111.  Ma se.~  Hic ultimo Foresius praenuntiat mala
+eventura in brevi super Florentiam, quae mulieres florentinae
+habebunt deplorare; unde dicit: |Ma se le svergognate~, bene
+dicit, quia verecundia est fraenum mulierum, et silentium est
+ornamentum earum, quae duo raro inveniuntur in mulieribus
+florentinis, |fosser certe~, sicut ego sum, |di quel che 'l ciel
+veloce loro ammanna~, idest, cito praeparat et praedestinat eis,
+sicut caedes virorum et filiorum, bonorum direptiones, et
+incendia domorum; quae omnia in brevi imminebant illi urbi, |gi@a
+per urlar~, quia sunt uxores luporum, |avrian le bocche aperte~;
+vociferantes in coelum.  Et ecce quare: |che se l'antiveder qui
+non m'inganna~, idest, si praevidere futura non est hic falsum,
+quod non credo, |prima fien triste, che le guance impeli colui~,
+scilicet, infans, |che mo' si consola con nanna~, idest, qui
+vagit in cunabulo, et quietatur ad cantum mulieris, quae dicunt
+|nanna~, aliae |ninna.~  Et dicit: |impeli le guance~, idest,
+induat lanuginem, quasi dicat: antequam ille, qui modo est puer,
+fiat barbatus.  Et hic nota, lector, quod audivi aliquos temere
+dicentes, quod istud prognosticum est vituperium poetae, quia jam
+transiverant tot tempora, quod non evenerunt ea, quae praesagire
+videtur in tam brevi spatio.  Ad quod respondeo, quod autor
+loquitur hic de praeteritis et jam factis, non de futuris modo
+fiendis.  Sed videtur prophetare, quia respicit ad tempus suae
+visionis, quae fuit in MCCC, sicut jam totiens dictum est.  Magna
+etenim mala secuta sunt post istud tempus, sicut intestina
+discordia, civile bellum et expulsio partium, quae fuerunt
+secundo et tertio anno sequenti; et anno quarto venerunt de novo
+ad arma Albi et Nigri.  Et flagrante furore belli, accensus est
+ignis, sive casualis, vel artificialis, ut multi dixerunt, opera
+cuiusdam presbyteri Nerii de Abbatibus, qui ipsum primum immisit
+in domum suam: et breviter cremata est melior pars civitatis,
+plusquam duo millia domus cum damno inaestimabili.  Nec interim
+cessatum est ab armis, sed continuo factae sunt magnae praedae. 
+Et anno quintodecimo receperunt illam terribilem stragem apud
+Montem Catinum ab Uguccione de Fagiola.
+
+	|112-114.  Deh, frate.~  Ista est quarta et ultima pars,
+in qua poeta manifestat Foresio quomodo venerit huc vivus, et qui
+sunt duo duces sui: et primo inducit Foresium instantem, ut non
+differat ulterius respondere ad petitionem suam.  Dicit ergo
+Foresius deprecative: |Deh frate~? quasi dicat: rogo te,
+carissime frater, |or fa' che pi@u non mi ti celi~; postquam
+respondi tibi plene et amicabiliter ad utrumque quaesitum tuum
+tam publicum quam privatum.  Et ad captandam plenius
+benevolentiam, dicit: |vedi che non pur io~, qui novi te in vita
+et recognovi te statim paulo ante, |ma tutta questa gente~,
+idest, turba maxima gulosorum, |rimira l@a dove il sol veli~,
+scilicet, cum umbra corporis tui, quod non faciunt umbrae
+mortuorum.  
+
+	|115-117.~  Et subdit quomodo respondit primo Foresio
+occulte, ita quod facit insinuationem captando benevolentiam; et
+sententialiter vult dicere, quod Foresius non est tantum mutatus
+in corpore, postquam mortuus est, quantum ipse mutatus est animo. 
+Dicit ergo: |perch'io a lui~, supple, dixi: |se ti riduci a
+mente~, idest, revocas ad mentem et memoriam, |qual fusti meco~,
+in patria nostra, inter illas sirenas, |e qual io teco fui~,
+convivendo tecum; |il memorar presente~, idest, praesens
+recordatio, |ancor fia grave~, idest, erit molestum nobis, quia
+memoria praeteritorum inter nos non fiet sine dolore et pudore;
+quasi dicat, tacite: si tu recordaris modo eorum quae dicebamus
+et faciebamus vane vacando lasciviis, amoribus, et aliis rebus
+vanis, sequentes delectabilia non honesta; certe talis memoria
+erit amara tibi, qui hic purgaris ut pervenias ad beatam vitam,
+et mihi qui quaero virtutem et gloriam magnis laboribus et
+vigiliis, et sum factus novus homo maturus, gravis et bene
+moratus.  
+
+	|118-123.  Di quella.~  Hic poeta respondet aperte
+qualiter vivus venerit illuc, dicens: |Costui che mi va innanzi~,
+scilicet, Virgilius, |mi volse di quella vita~, vana et vitiosa,
+|l'altr'ieri~, forte sex diebus ante, |quando la suora di colui~,
+scilicet, luna soror solis, qui fuerunt gemelli nati ex uno patre
+Jove, quos simul peperat Latona, ut dictum est, in insula Delo,
+|vi si mostr@o tonda~, quartadecima martii sole in ariete; quasi
+dicat: in bono et felici puncto, ita quod semper de bono in
+melius; ideo dicit: |il sol mostrai: costui~, scilicet, Virgilius
+valentissimus praeveniente divina gratia, |menato m'ha~, sanum et
+salvum, |per la profonda notte da veri morti~, idest, profundam
+noctem inferni, ubi sunt vere mortui sine spe, non sicut illi qui
+sunt in purgatorio, |con questa vera carne~, ideo facit umbram,
+de qua miramini, |che 'l seconda~, idest, sequitur eum secunde et
+prospere.  
+
+	|124-126.  Indi.~  Hic poeta ostenso quomodo descendit ad
+infernum ducente Virgilio, ostendit quomodo ascendit purgatorium
+cum eodem.  Unde dicit: |Indi~, idest, ex illo inferno, ubi
+numquam lucet sol, |m'han tratto su li suoi conforti~, ad
+purgatorium per quod numquam itur nisi lucente sole, |salendo~,
+idest, ascendendo, ubi in inferno semper tenditur deorsum, |e
+rigirando la montagna~, idest, circulariter eundo, |che drizza
+voi~, versus Deum, |che 'l mondo fece torti~; quia abusi estis
+rebus mundanis. 
+
+	|127-129.~  Et subdit spem promissam sibi de futuro
+dicens: et ille Virgilius, |dice di farmi tanto sua compagna
+ch'io sar@o l@a dove fia Beatrice~, scilicet, in cacumine montis. 
+Et dicit: |quivi convien che senza lui rimagna~, quia non habet
+alas ad altiorem volatum.  
+
+	|130-133.~  Et declarat utrumque ducem, dicens: |Virgilio
+@e questi~, qui sicut pastor bonus cum virga sua me direxit
+hucusque, et diriget usque ad summum, |che cos@i mi dice~, et
+faciet ut dicit; |et addit#alo~, idest, digito ostendi eum; |e
+quest'altra @e quell'ombra~, scilicet, anima Statii, |per cui~,
+idest, cuius causa, |ogni pendice~, omnis pars montis pendentis,
+|scosse dianzi~, idest, mota est paulo ante, ut patuit supra in
+fine XX capituli, |del vostro regno~, scilicet, purgatorii, |che
+da se la sgombra~, idest, liberat, et mittit ipsam tamquam
+purgatam ad regnum Dei.  Et hic nota, lector, quod ex multis
+dictis supra potest coniecturari, quare poeta noster finxerit
+quod totus mons tremit quando aliqua anima liberatur a poena. 
+Per hoc enim videtur tacite dicere quod talis omnino excluditur a
+terrenis, et nihil terrenum de caetero sapiet, factus quasi
+quaedam imago deitatis.
+
+

@@ -1,0 +1,136 @@
+	|Proemio.~  Incomincia il XXI C.o del Paradiso.
+
+	|1-42.~ 
+
+   ^Gi@a eran gli occhi miei rifissi al volto.~
+   ^della mia donna e ll'animo chon essi~
+   ^e da ogn'altro intento s'era tolto.~
+
+Ispedito l'altore il trattato della spera di Iupiter ora in questo 
+chapitolo fa chom'egli escha della detta spera e ch'egli entri nella 
+ispera di Saturno e puotesi dividere questo chapitolo in quatro parti 
+gienerali.  In questa prima parte l'altore fingie ch'egli escha della 
+spera di Iupiter ed entri nella spera di Saturno chos@i diciendo chome 
+comincia questo chapitolo e che llui ghuardasse fisso Beatricie e 
+ch'ella gli parea divenuta pi@u bella e pi@u riluciente che inanzi e 
+questo fa egli a ogni montata di cielo.  E questo vuol dire l'altore 
+che quando l'animo dell'uomo pi@u si leva in alto a speculare le cose 
+di Dio tanto @e pi@u chiaro.  E fingie l'altore che Beatricie gli dicha 
+ch'ella no' ridea e che s'ella ridesse gl'inconterrebbe di quello che 
+inchontr@o a Semel quando divenne cienere ci@o vuol dire Beatricie 
+all'altore s'io gli mostrassi tutta la mia bellezza e sapienzia anchora 
+tu non potresti resisistere in essa come incontr@o a Semel.  E questa 
+istoria hai auta nello inferno che Jove giacque con Semel e giener@o 
+i[n] llei Baccho e una volta fra ll'altre istintamente Semel pregh@o 
+Jove che dovesse venire una notte a llei in quella forma ch'esso fusse 
+pi@u luciente e bello e chos@i l'empromisse e chos@i venne e Semel non 
+possendo sofferire n@e risistere al chalore e allo splendore di Jove 
+cio@e della folghore e fuoco di sopra subito torn@o Semel in cienere e 
+questa fizione si fu poeticha.  Simile dicie Beatricie all'altore che 
+inconterrebbe a llui s'ella gli mostrasse tutto a un'ora la sua 
+bellezza e magnificienzia di sapienza.
+
+   ^Dentro al cristallo che 'l vocabol porta~
+   ^cierchiando il mondo del suo chiaro ducie~
+   ^sotto cui giacque ogni milizia morta.~
+
+Per queste parole seghue una storia i poeti iscrissono l'etadi che sono 
+istate al mondo e scrissolle in fighura d'uomo e lla prima et@a si 
+fingie ch'egli avea il chapo d'oro e poi dietro all'altre mura chome 
+pienamente se n'@e detto in questo lilbro.  Ma acchade pi@u questa 
+per@o che al tempo di Saturno che ffu re in Grecia cio@e in Creti 
+regni@o questa era d'oro nella quale era la giente benignia piacievole 
+e amorevole e per@o l'altore i ricorda in questo pianeto di Saturno la 
+quale influenza la quale ha da ffare gl'uomini contemplativi e 
+studianti.  Ancora iscrive qui la fighura ch'era dentro al pianeto 
+d'anime sante e il segnio che mette qui l'altore si dicie ch'@e una 
+schala lungha e diritta inverso Iddio per la quale andavano tutte 
+quelle anime sante collochate in quello pianeto i quali andavano in 
+gi@u e ' quali tornavano in su per quella ischala e questo tolse Dante 
+dalla Bibbia che si lege nel Vecchio Testamento che Giacob vide in 
+visione una schala la quale era lungha insino al cielo e su e gi@u per 
+questa schala andavano tutta via moltitudine d'angioli.  E questa 
+similitudine e fighura si pone per gl'uomini contemplativi chome @e 
+detto i quali fa Saturno.  Unde dicitur tres vidit et unum adoravit.
+
+	|43-72.~ 
+
+   ^E quel che presso pi@u ci si ritenne~
+   ^si fe' s@i chiaro che dicie pensando~
+   ^i' veggio ben l'amor che ttu m'accienne.~
+
+L'altore qui in particularit@a discrive in questa seconda parte un di 
+quegli ispiriti il quale andava su per quella ischala degnio di fama.  
+E fa l'altore che dolciemente egli il domandi perch'egli non sente in 
+quel pianeto il chanto le melodie grandi ch'egli ha sentito per gli 
+altri cieli passati.
+
+   ^Tu hai l'udir mortal s@i chome 'l viso~
+   ^rispuose a mme onde qui non si canta~
+   ^per quel che Beatricie non ha riso.~
+
+Risponde quello spirito a Dante e si gli dicie che ivi non si canta per 
+quella chagione che ttu hai udita di sopra di Beatricie 
+conciosiacosach@e ttu sse' anchora colla carne mondana e per@o nolla 
+puoi comprendere n@e udire cio@e tu non sai tanto quanto fa bisognio a 
+volere comprender queste cose alte e divine.
+
+	|73-102.~ 
+
+   ^I' veggio ben diss'io sacra lucierna~
+   ^chome libero amore in questa corte~
+   ^basta a sseghuir la provedenza etterna.~
+
+In questa terza parte l'altore muove una quistione allo spirito e 
+domanda diciendo i' prima veggio bene che ttu vieni da quello eterno 
+Iddio ma dimmi perch@e fosti tu piutosto mandato a mme che uno di 
+questi altri e che altri huomini valenti paxati i quali condannati 
+risponde lo spirito cos@i diciendo
+
+   ^Non venne pria a l'ultima parola~
+   ^che del suo mezo fecie i[l] lume cientro~
+   ^girando s@e chome velocie mola.~
+
+Qui risponde lo spirito e dicie che quella anima che pi@u si specchia e 
+vede Iddio n@e gli potrebbe assolvere la sua domanda e quistione 
+imper@o che 'l segreto di Dio per veruno si sa o pu@o sapere.  E santo 
+Aghostino ne parla e danne esempro e dicie che gli @e u[n] maestro il 
+quale fa istoviglie e verr@a che tale di quelle stoviglie terr@a vino e 
+tale s'abatter@a a tenere orina e tale acieto etc.  Ancora dicie togli 
+questo esempro per te medesimo e pensa che se ttu tti faciessi signore 
+di citt@a tu faresti chome a tte piacierebbe qual grande e qual piccolo 
+qual povero e qua[l] riccho.  E per@o dicie questo spirito all'altore 
+questo rapporta alle gienti ch'eglino non vogliano cierchare i segreti 
+di Dio acci@o ch'eglino non pecchino nel suo cospetto.
+
+	|103-142.~ 
+
+   ^S@i mmi prescrisser le parole sue~
+   ^ch'i' lascia' la quistione e mi ritrassi~
+   ^a domandarla humilemente chi ffue.~
+
+In questa quarta parte l'altore dimanda questo spirito che gli dicha il 
+suo nome e delle sue condizioni ed essere al mondo e risponde lo 
+spirito cos@i
+
+   ^Tra duo liti d'Italia surghon sassi~
+   ^e non molto distante alla tuo patria~
+   ^tanto che troni assai sonon pi@u bassi.~
+
+Questo spirito risponde s@i chome nel testo e si gli dicie chi egli fu 
+e dove egli istette e ' corsi di sua vita.  E prima dicie ch'egli fu di 
+Cicilia tra 'l mare dell'Ione e 'l mare Adriano e ch'egli ebbe nome 
+Piero Damiano e ssi fe' u[n] munistero di frati che ssi chiamano i 
+frati della Colomba e furono frati di santa vita ed @enne anchora in 
+pi@e a Ravenna u[n] munistero.  Questo Piero fu al mondo huomo di santa 
+vita e di grande iscienzie.  E ffu gran dottore di santa chiesa e fecie 
+assai e belle pistole e assai belli sermoni per santa chiesa e in sua 
+vecchiezza fu fatto chardinale.  Questo Piero Damiano iscrisse e ne' 
+suo libri disse peggio de' pastori di santa chiesa che diciesse mai 
+veruno e per@o l'altore per venire al suo proponimento il mette qui e 
+fagli dire de' suo pastori perch'elli vide e chonobbe i loro vizii e 
+maghagnie.  E per@o dicie cos@i lo spirito di Piero Damiano
+
+   ^In quel loco fu' io Pier Damiano~
+   ^e Pietro peccator fu nella chasa~
+   ^di Nostra Donna sul lito adriano.~

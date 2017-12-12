@@ -1,0 +1,449 @@
+Induvinatores
+
+	|1-3.~ 
+
+   ^Di nova pena mi conven far versi~
+   ^e dar materia al vintesimo canto~
+   ^de la prima canzon ch'e' dissommersi.~
+
+	D. in questo capitolo fa 4 cosse.  Ne la prima fa un proemio a questo 
+XX capitulo.  A la 2a trata de quela spetie de fraude chiamata 
+<divinatione> e de la pena.  A la 3a introduce multi tocati de questo 
+vitio.  A la 4a descrive l'origine de la cit@a de Mantoa.  Or dice D. 
+che, di questa nova pena de li indivini, li ^CONVEN FAR VERSI~, per@o 
+che l'indivinar @e la IIIIa spetie de fraude, e de questa vol tractare 
+qui; e dicila ^NOVA~ per@o che n@e V., n@e Ovidio, n@e altri poeti 
+tractaron mai la dicta penna.  E per@o dice D. ^LA PRIMA CANZON~, 
+^idest~ tractato, ^CH'IO~, ^idest~ D., ^DISSOMMERSI~.  Questo @e verbo 
+composito ^a~ <dis> ^et~ <submergo>, lo qual sona `levar di soto e 
+poner suso', como se alcuno trovasse alcuna cossa fondata in aqua la 
+quale non fosse mai stata veduta e sallissella a l'alto: ora D. f@e 
+coss$i de questi indivini.  Altri dicono che, da questo capitulo 
+inanti, D. tracta de coloro che son submersi per li loro falli.
+
+	|4-6.~ 
+
+   ^Io era gi@a disposto tuto quanto~
+   ^a riguardar ne lo scoperto fondo,~
+   ^che si bagnava d'angossioso pianto.~
+
+	Qui D. pone el modo de la pena de costoro.  Ed @e la 2a parte del 
+capitulo.
+
+	|7-12.~ 
+
+   ^E vidi gente per lo valon tondo~
+   ^venir, tacendo e lagrimando, al passo~
+   ^che fanno letane in questo mondo.~
+
+   ^Come 'l viso mi scese in lor pi@u basso,~
+   ^mirabilmente aparve esser travolto~
+   ^ciascun tra il mento e il principio del casso.~
+
+	D. dice che, guardando, li aparve che ciascuno maravigliosamente 
+tegn[@i]a la facia col capo posto per contrario ^TRA 'L MENTO~, 
+^idest~ barba, ^E AL PRINCIPIO DEL CASSO~, ^idest~ del pecto.
+
+	|13-18.~ 
+
+   ^Ch@e da le reni era tornato el volto,~
+   ^e in dietro venir li convenia,~
+   ^perch@e 'l veder dinanci era lor tolto.~
+
+   ^Forse per forza gi@a di parlasia~
+   ^si travolse coss@i alcun del tutto;~
+   ^ma io nol vidi, n@e credo che sia.~
+
+	Questo testo @e chiaro, e dice che li convenia venir indietro ^PERCH@E 
+'L VEDER ETC.~  E sequita: ^FORSE PER FORZA GI@A DI PARLASIA ETC.~, ma 
+esso nol vide.  E costoro veniano lacrimando al modo dicto avanti.
+
+	E 'nanti ch'io proceda pi@u oltre, sappi certo che niuno altro che Dio 
+sollo sa n@e p@o sapere il futuro, e per@o @e grande presumptione a 
+l'omo volere sapere quel che Dio non permete se non a s@e.  E per@o la 
+penna de costoro @e iusta ch@e, como essi volsero presumere vedere 
+avanti, coss@i vanno indietro per contrario.  E D. trasse questo modo 
+de pena d'un testo de Isaia: <Deus irrita fecit signa divinatorum, 
+ariolos in furorem convertit convertens retrorsum>.  E sappi che questi 
+modi de divinar son molti.  E cos@i D. pone qui diversi per diversi 
+modi: chi per astrologia, chi per geomantia, piromantia, idromantia, 
+sortilegio, fitone, aura, augurio per la spalla, ciromantia e chi per 
+nigromantia.  E te voglio dechiarare li predicti modi segondo loro 
+etimologie.  E dico che per astrologia se cognosce al corso de le 
+stelle.  Geomantia @e un modo de punti signati in terra; ^et dicitur a~ 
+<geos>, ^quod est~ `terra', ^et~ <mancia>, `divinatio'.  ^Pyromancia 
+dicitur a~ <piros>, ^quod est~ `ignis', ^et~ <mancia>.  ^Ydromantia 
+dicitur ab~ <ydros>, ^quod est~ `aqua', ^et~ <mancia>.  ^Sortilegio 
+dicitur~ a <sorte> ^et~ <lego>.  ^Phiton fit de corpore noviter 
+mortuo~, s@i como se scrive, libro ^Regum, de Phitonissa et Saule~.  
+Arioli sono coloro che divinano segondo l'aire.  Per spalla augurio @e 
+divinatione secondo il moto de alcuni ucelli li quali sono deputati a 
+questo modo de divinar; ^et dicitur~ <augurium>, ^idest~ `avium 
+gestum'; e questo usano molto in Spagna, e ancora questo de la spalla 
+del montone.  Ciromantia @e modo da divinar per le linee de la mano; 
+^et dicitur~ a <cyros>, ^quod est~ `manus', ^et~ <mancia>.  
+^Nigromancia dicitur a~ <nigros>, ^quod est~ `diabolus', ^et~ <mancia>.
+
+	|19-24.~ 
+
+   ^Se Dio ti lassi, lector, prender frutto~
+   ^di toa lectione, or pensa per te stesso~
+   ^com'io potea tener lo viso asciutto,~
+
+   ^quando la nostra imagine da presso~
+   ^vidi s@i torta, che 'l pianto de li ochi~
+   ^le natiche bagnava per lo fesso.~
+
+	D. scongiura lo lector de questo capitulo, che imagine se lui poteva 
+essere senza pianto quando ^VIDI ETC.~
+
+	|25-30.~ 
+
+   ^Certo io piangea, poggiato ad un de' rochi~
+   ^del duro scoglio, s@i che la mia scorta~
+   ^mi disse: <Ancor se' tu de gli altri sciochi?~
+
+   ^Qui vive la piet@a quand'@e ben morta;~
+   ^chi @e pi@u scelerato che colui~
+   ^ch'al iuditio divin passion comporta?>.~
+
+	Qui D. descrive como esso piangea e che V. li disse: <Ben sei scioco, 
+^idest~ simplice, per@o che piangi>, dicendo: <^QUI, idest~ in inferno, 
+quando la piet@a @e morta, vive, per@o che ogni cossa viva ci more: e 
+per@o la toa piet@a non @e necessaria, ch@e non ci pu@o giovare, per@o 
+che al iuditio de Dio omo non debe avere passione>.  <Roco>, ^idest~ 
+cantone.
+
+	|31-39.~ 
+
+   ^Driza la testa, driza, e vede a cui~
+   ^s'aperse a gli ochi d'i Tebani la terra;~
+   ^per ch'ei gridavan tuti: <Dove rui~
+
+   ^Amfirao? perch@e lassi la guerra?;~
+   ^e che non resti de ruinar a valle~
+   ^fin a Min@os che ciascun afferra? >.~
+
+   ^Mira c'ha fatto petto de le spalle;~
+   ^perch@e volse veder troppo davante,~
+   ^di retro guarda e fa retroso calle.~
+
+	Qui la ragione umana, volgendo D. da questo preposito, li dice doe 
+volte ^DRIZA ETC.~; e par turbato per@o, quando disse <Ancor se' tu 
+etc.>, disse con modo scorociato.  ^E VEDRAI ETC.~  Questa @e la 3a 
+parte de questo capitulo.
+
+	Or convien ch'io te dica la novella de Amfirao.  Questa istoria mete 
+Stacio ^Thebaidos~ 4° .  Amfirao dovendo andare a Tebe, esso divin@o 
+che la terra lo dovea inglutire e coss@i dovea fenir la vita; per@o 
+esso se ascose.  Ma la mogliere, la qual se chiam@o Urifile, per 
+cupiditia d'uno monile acus@o lo marito: el qual monile avea fato 
+Vulcano a richesta de Venus con tal fatamento -- per@o che era [per 
+la] figlia de Marte amico de Venus, e 'l marito era Vulcano -- che 
+qualunche lo portava poco tempo stava che perdea lo marito.  E coss@i 
+divenne ad Ermione, moglier de Cadmo e figlia de Venus e de Marte, nata 
+de adulterio, per la qual Vulcano f@e el dicto monile.  Donde li 
+convene pure al dicto Amfirao andar a Tebe, non obstante che andava a 
+la morte.  De che el dicto Amfirao comand@o al figlio, chiamato Almeon, 
+che facesse parere caro a la matre questo adornamento, per@o che l'avea 
+acusato; de che el dicto Almeon amaz@o la matre.  E per@o che in multi 
+loci pono questa istoria, quando la v@oi, torna qui.
+
+	|40-45.~ 
+
+   ^Vedi Tiresia, che mut@o sembiante~
+   ^quando di maschio femina divenne,~
+   ^cambiandossi le membra tute quante;~
+
+   ^e prima, poi, ribbatter li convenne~
+   ^li due serpenti avolti, con la verga,~
+   ^che riavesse le maschili penne.~
+
+	Mostratoli V. Amfirao, mo li mostra Tiresia, el qual dice Ovidio che, 
+vegendo lui doi serpenti congiunti insembre, esso li bateo, e batuti, 
+esso divent@o femina e stete femina VII anni.  E torn@o in quelo loco e 
+trov@o li doi serpenti suprascripti in quello ato proprio: de che esso 
+ancora li bateo e divent@o omo.  Or, stando un giorno Iove, el grande 
+dio, cum Iuno soa mogliere in un contrasto qual @e pi@u gran luxuria, 
+quella de l'omo o de la donna, per la qual questione elexero arbitro 
+questo Tiresia, como omo che avea aprovato l'un sexo e l'altro.  E 
+costui iudic@o che la femina avea pi@u grande luxuria che l'omo: de che 
+Iuno, indignata che essa era vinzuta, priv@o lo dicto Tiresia de la 
+vista.  S@i che, vedendo Iove che costui era privado de la vista a 
+torto e per esso, gli dede questa gratia che esso potesse indivinare le 
+cosse future: e coss@i fu fato indivino.  E per@o D. lo introduce qui.  
+Ovidio, III de la dita [opera]: <Arbiter hic gressus preter de lite 
+giocosa / dicta Iovis firmat etc.>.
+
+	|46-51.~ 
+
+   ^Arronta @e quel ch'al ventre li s'aterga,~
+   ^che nei monti di Luni, dove ronca~
+   ^lo Cararese che di soto alberga,~
+
+   ^ebbe tra i bianchi marmi la spelonca~
+   ^per soa dimora; ond'a guardar le stelle~
+   ^e il mar non li era la veduta tronca.~
+
+	Questo Arronta fu indivino, del qual Lucano scrive libro primo.  E s@i 
+stava costui ne li monti de Lunesana, sopra una villa chiamata Carrara. 
+ Il qual Arronta pronostic@o la venuta de Cesare a li Romani.  E per@o 
+dice Lucano, libro ^ut supra~: <Dumque illi effusa[m] longis 
+anfractibus urbem / circu[m]eunt Arons etc.>.
+
+	|52-57.~ 
+
+   ^E quella che ricuopre le mamelle,~
+   ^che tu non vedi, con le trece sciolte,~
+   ^e ha di l@a ogni pillosa pelle,~
+
+   ^Manto fu, che cerc@o per terre molte;~
+   ^poscia se puose l@a dove nacqu'io;~
+   ^onde un poco mi piace che m'ascolte.~
+
+	Mo V. li mostra Manto, la qual fu figlia de questo Tiresia.  Or V. vol 
+mostrare como questa Manto edific@o la cit@a de Mantoa, ove esso 
+nacque.  E per non replicare tuto questo testo, io ve dir@o l@a ove 
+bixogna.
+
+	|58-60.~ 
+
+   ^Poscia che 'l patre suo de vita usc@io~
+   ^e venne serva la cit@a di Baco,~
+   ^questa gran tempo per lo mondo gio.~
+
+	Possia che 'l padre de questa Manto mor@i e fu presa [la cit@a] dei 
+Tebani, la qual cit@a se chiama ^LA CIT@A DE BACO, QUESTA~, ^scilicet~ 
+Manto, and@o gran tempo errando il mondo.
+
+	|61-66.~ 
+
+   ^Suso in Italia bella giace un laco,~
+   ^a pi@e de l'Alpe che serra Lamagna~
+   ^sovra Tiralli, c'ha nome Benaco.~
+
+   ^Per mille fonti, credo, e pi@u si bagna~
+   ^tra Garda e Val Camonica e Appenino~
+   ^de l'aqua che nel detto lago stagna.~
+
+	V. dice Suso, per@o che era giuso, giuso in inferno.  ^ITALIA~, dicta 
+da Itallo, BELA, perch@e @e bella sopra l'altre province del mondo.  
+^GIACE UN LAGO~ chiamato Garda, e ivi sono pessi in quantitate, e 
+trovassene qui li carpioni.  E io gli sono stato ne li anni MCCCLXII, 
+mandato da madamma la Regina in Lombardia.  Questa aqua di Garda se 
+chiama Benaco e sta soto l'alpe le quale parteno Lombardia da Lamagna, 
+presso el contato de Tiralli.
+
+	^PER MILE FONTE E PI@U ETC.~, ^idest~ che discendeno tra Garda, Val 
+Camonica e Apenino.  Coss@i como Appenino parte Lombardia da Toscana, 
+coss@i questo Alamagna e Lombardia.
+
+	|67-69.~ 
+
+   ^Luogo @e nel mezo l@a dove 'l trentino~
+   ^pastor e quel di Bressa e il veronese~
+   ^segnar porria, se fosse quel camino.~
+
+	Questo passo intendo coss@i: che nel dicto lago de Garda @e loco ove 
+el vescovo, ^idest~ ^PASTOR~ trentino, e de Bressa, e quel de Verona 
+^SEGNAR PORRIA~, ^idest~ far lo segno de la croxe como a so sofraganie, 
+^SE FOSSE IN QUEL CAMINO~, per@o che @e parte del vescovo de Trento, e 
+parte de Verona, e parte de Bressa: e per@o, navigando per lo lago, 
+ciascuno poria dare la benedictione a le soe terre.
+
+	|70-93.~ 
+
+   ^Sede Peschera, bello e forte arnese~
+   ^de frontegiar Bressani e Bergamaschi,~
+   ^ove la riva intorno pi@u dicese.~
+
+   ^Quivi convien che tuto quanto caschi~
+   ^ci@o che 'n grembo a Benaco star no p@o,~
+   ^e fassi fiume gi@u per verdi paschi.~
+
+   ^Tosto che l'aque a corer mete co,~
+   ^non pi@u Benaco, ma Mencio si chiama~
+   ^fin a Governo, dove cade in Po.~
+
+   ^Non molto ha corso, che trova una lama,~
+   ^nela qual si distende e la 'mpaluda;~
+   ^e suol di state talor esser grama.~
+
+   ^Quindi passando la vergine cruda~
+   ^vide terra, nel mezo del pantano,~
+   ^senza cultura e d'abitanti nuda.~
+
+   ^L@i, per fugire ogni consortio umano,~
+   ^ristette con soi servi a far su'arti,~
+   ^e vixe, e vi lasci@o suo corpo vano.~
+
+   ^Li omini poi che 'ntorno erano sparti~
+   ^s'acolsero a quel luogo, ch'era forte~
+   ^per lo pantan ch'avean da ogni parti.~
+
+   ^Fer la cit@a sovra quel'ossa morte;~
+   ^e per collei che 'l luogo prima elesse,~
+   ^Mantoa l'appelar senz'altra sorte.~
+
+	Ancora V. dice che 'l dicto lago @e apresso el castello de Peschera, 
+lo qual @e de Cansignore.  Esce un fiume chiamato Mencio, el qual 
+presso a Mantoa fa un lago.  E dice che la dicta aqua corre per fin ad 
+una villa chiamata Governo, la qual @e ne la ripa del Pado.  Dicendo 
+che frontegia Bergamo e Bressa, ^idest~ sta a fronte.  E dice ^DOVE 
+CADE ETC.~, ^idest~ a la dicta villa; e perde 'l nome perch@e va nel 
+Pado.  ^QUINDI PASSANDO ETC.~  E dice ^CRUDA~ per@o che essa non volse 
+consortio de omini.  E chiamar la cit@a Mantoa per lei, che fu la 
+inventatrice del loco.
+
+	|94-96.~ 
+
+   ^Gi@a fur le gente soe dentro pi@u spesse,~
+   ^prima che l'Amattia da casa Lodi~
+   ^da Pinamonte inganno ricevesse.~
+
+	Toca V. qui alcune cosse le quale furon cagione de inabitatione de 
+Mantoa.  Questi de casa 'Matia erano grandi in Mantoa, e questa de 
+Lode.  E miser Pinamonte de' Boniacorsi de Mantoa dede a veder a questi 
+de casa Amatia che esso caciava tuti li altri grandi for de la cit@a, e 
+farli far signori.  E poi tract@o con li conti de casa Lodi de caciar 
+li dicti 'Matia: e coss@i fu.
+
+	|97-99.~ 
+
+   ^Per@o t'asegno che, se tu mai odi~
+   ^originar la mia terra altrimenti,~
+   ^la verit@a nulla menzogna frodi.~
+
+	Qui V. pone segno a D. che, se mai ode ^ORIGINAR~, ^idest~ avere 
+origine, la soa cit@a, ^idest~ Mantoa, altro che questo, nol debia 
+credere, per@o che esso ha dicto ^NULLA MENZOGNA~.
+
+	|100-105.~ 
+
+   ^E io: <Maestro, i tuoi ragionamenti~
+   ^mi son s@i certi e prendon s@i mia fede,~
+   ^che li altri mi sarrian carboni spenti.~
+
+   ^Ma dimmi, de la gente che procede,~
+   ^se tu ne vedi alcun degno di notta;~
+   ^ch@e sol a ci@o la mia mente resiede>.~
+
+	D. ha fato la risposta a V.  Mo li fa una domanda dicendo: ^DIMMI, DE 
+LA GENTE ETC.~, se fosse alcuno omo notabile, ch@e esso l'ha assai ne 
+la mente e ^RESIEDE~, ^idest~ regiace, ed @e verbo: ^resideo, -- es, -- 
+et~.
+
+	|106-114.~ 
+
+   ^Allor mi disse: <Quel che da la gotta~
+   ^porge la barba in su le spalle brune,~
+   ^fu -- quando Grecia fu de maschi v@otta,~
+
+   ^s@i che a pena rimaser per le cune --~
+   ^augure, e dede 'l punto con Calcanta~
+   ^in Aulide a tagliar la prima fune.~
+
+   ^Euripilo ebbe nome, e coss@i 'l canta~
+   ^l'alta mia traged@ia in alcun loco:~
+   ^ben lo sa' tu che la sai tuta quanta>.~
+
+	Questo @e chiaro, ^idest~ ^ALLOR MI DISSE ETC. QUANDO GRECIA ETC.~  
+Questo vol dire che, per la longa guerra tra li Greci e li Troiani, 
+gi@a la dicta Grecia era facta ^VOTA~, ^idest~ privata e desiderosa, de 
+maschi, per cagione de li morti e de quelli de la guera.  ^CH'A PENA 
+ETC.~, ^idest~ a le cunole ove se poneno li fantini.
+
+	^AUGURE, E DEDE 'L PUNTO ETC.~  Costui fo Euripilo, indivinatore de li 
+Greci, il qual dede 'l punto, ^idest~ l'ora, a li Greci, insieme ^CON 
+CALCANTA~.  Costui fo augurio de li Troiani e, per ben potere avere 
+notitia de li facti futuri de li Troiani, and@o in l'isola de Delfo per 
+avere risposta da Apollo, ove se adorava e sacrificava, dal qual non 
+ebbe bona risposta per li Troiani.  E andossene a li Greci, li quali 
+per fortuna erano stati longamente in Aulide, e gli consigli@o che essi 
+dovessero partire de presenti, ^idest~ in quella ora e punto che Calcas 
+li avea consigliati, e che dovessero far sacrificio de Efigenia, figlia 
+de Menelao, a la dea Diana per una cerva che aveveno occisa.  E questi 
+lo fecero.  S@i che li consigli de questi doi auguri mossero li Greci 
+da Aulide ad andar a Troia, e coss@i ebbero la cit@a de Troia.  Questa 
+istoria tracta V. ^Eneidos~ II: <Suspensi Euripilum sciscitatum oracula 
+Phebi / mitimus, isque aditis etc.>.  ^A TAGLIAR ETC.~, ^idest~ che, 
+per la pressa che quel punto de ora non transisse, tagliaron le corde 
+de le nave e non le volsero desligare.
+
+	|115-117.~ 
+
+   ^Quel altro che nei fianchi @e cos@i poco,~
+   ^Michelle Scotto fu, che veramente~
+   ^de le magiche frode seppe 'l gioco.~
+
+	Questo fu Michele Scozo nigromante, omo malicioso sopra li altri.  E 
+diceva multe cosse future.
+
+	|118-120.~ 
+
+   ^Vedi Guido Bonatti; vedi Asdente,~
+   ^ch'aver inteso al cuoio e a lo spago~
+   ^ora vorebbe, ma tardi se pente.~
+
+	Costui fo de Forl@i ed ebbe dono naturale e delectossi in astrologia; 
+e fu bon iudicatore e subtil in la dicta scientia; e compose el libro 
+^De iuditiis~.
+
+	Asdente fo de Parma e fu calzolaro, e tuto 'l so ingenio pose a sapere 
+divinare; e tal volta esso dicea cosse vere.  E per@o D. dice che 'l 
+dicto Asdente vorebbe avere pi@u tosto inteso ^AL COIO E AL SPAGO~ che 
+a indivinar.  Ma adesso vorebbe, ^MA TARDI ETC.~  E costui se chiam@o 
+Asdente Cedrone.
+
+	|121-123.~ 
+
+   ^Vedi le triste che lasciaro l'ago,~
+   ^la spuolla e il fuso, e fecersi indovine;~
+   ^fecer malie con erba e con imago.~
+
+	Qui D. dice che vidde tute le triste femine che lassaron l'ago, la 
+spola, el tilaro e il fuso ^E FECERSI ETC.~ e ^FECER MALIE ETC.~, cio@e 
+con imagine de cera nova e pungendola cum aco e con spine; s@i como 
+fece el vescovo da Caorsa a papa Gianne, in Avignone: de che fo 
+digradato il dicto vescovo, e arso e ventillato in Rodano ne li anni 
+MCCCXX.
+
+	|124-130.~ 
+
+   ^<Ma viene ormai, ch@e gi@a tene 'l confine~
+   ^d'ambedui li emisperi e toca l'onda~
+   ^sotto Sibilia Caimo e le spine;~
+
+   ^e gi@a iernote fu la luna tonda:~
+   ^ben te dee ricordar, ch@e non ti nocque~
+   ^alcuna volta per la selva fonda>.~
+
+   ^S@i mi parlava, e andavamo introcque.~
+
+	Lo presente testo assai pare intrecato; ma pur credo, con la gratia de 
+Dio, che te lo monstrer@o chiaro.  E prima @e da sapere che le 
+feminelle dicono che la negreza, overo ombra che @e intorno de la luna, 
+fo perch@e Caim e Abel, quando fecero el sacrificio, Caim el fece con 
+un fasso de spine e Abel 'l fece con un fassio de biada: quello che f@e 
+Caim f@e un fumo turbido, il qual s'apose 'nanti la luna, e quel de 
+Abel fo riceputo al ciello.  E per@o la luna ha la dicta ombra 'nanti 
+la facia.  E per@o D. dice che gi@a ^CAIM E LE SPINE~, ^idest~ l'ombra 
+de la luna, ^TENE EL CONFINE~ de' doi ^EMISPERI~, cio@e tra l'oriente e 
+l'occidente, e la luna ^TOCA L'ONDA SOTO SIBILIA~, ^idest~ verso lo 
+mare de Sibilia, la qual @e cit@a in Spagna.  E questo prova V. a D. 
+dicendo como ^IER NOTE FU LA LUNA TONDA~, ^idest~ quintadecima, ^BENE 
+TE DEE RICORDAR, CH@E NON TI NOCQUE... PER LA SELVA FONDA~, ^idest~ 
+fondata.  E s@i parlando andavano ^INTROCQUE~, cio@e `dentro', o `qui 
+dentro'.  S@i che, tocando <Caim e le spine>, intendi per la luna: e 
+per@o dice <ch@e non ti nocque>, ^idest~ veder la luna lucida tal fiata 
+per la selva, per@o che Diana @e dea de selve e de boschi, ed @e 
+intitulata [dea] de castit@a segondo le fictioni poetiche.
+
+	Or voglio dichiarare questo vocabulo <introcque>, bench@e alcuni lo 
+intendeno per lo modo dicto suso.  Ma io intendo che questo 
+<introcque>, che se scrive per ^e~, significa `fin a tanto', ed @e 
+lingua napollitana, ultromonte e in toscano `infin che', ed @e pi@u 
+provenzano.  E lassando questo testo coss@i in la fin del capitulo, non 
+sonaria sententia bona, ma a D. non se li p@o dar reprensione nel 
+parlare; e per@o prendi lo terzo verso de sopra e troverai che se 
+scontra con quello ch'io dico.

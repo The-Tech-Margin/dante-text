@@ -1,0 +1,458 @@
+|INFERNO CANTO 29~
+
+	|Introduzione.~  Qual morale allegoria presenta mai
+questo s@i ricco spedale di schifose infermit@a, riguardo ai
+falsatori?  Confesso la mia insufficienza, non so vederne alcuna. 
+Forse che una qualche mia industria in tali ricerche, guidata
+dalle dottrine sacre e profane, e dalla natura delle cose
+esaminate, non dee dirsi finora priva di ogni esito; ma sento
+che, tral fumo ch'esce dai fornelli di questi Alchimisti, mi si
+annebbia talmente la vista, che indarno cerco stropicciarmi gli
+occhi per veder qualche cosa.  N@e la Bibbia, n@e il Vangelo, n@e i
+Padri, n@e i Filosofi, n@e i Poeti vengono in mio ajuto, poich@e
+nessun di essi ha detto che l'Alchimia @e un de' peccati che o
+fisicamente o metaforicamente produca tali effetti; nessun di
+essi la consider@o come una iniquit@a che pi@u raccosta l'uomo a
+Lucifero.  Lasciam dunque l'allegoria morale che in questo luogo
+@e s@i dura, e rivolgiamoci all'allegoria politica, che sar@a men
+restia; poich@e essa @e la vera: par che Dante non abbia saputo
+questa volta includerle entrambe nel suo concetto, e che, nel
+mirar troppo alla seconda, abbia perduto di vista la prima.  Qual
+era la mira degli Alchimisti?  Trovar il modo di far utili cose,
+come la panacea universale, il ^lapis philosophorum~ ecc. e
+principalmente l'oro; vale a dire che, in vece di andarlo a
+cavare dalle miniere con immenso dispendio, volevano trarlo dai
+loro fornelli con poca spesa.  E direm questo un peccato, e
+peccato tale da chiamar gli Alchimisti i peggiori esseri di
+quelli che popolano Malebolge?  Li dichiareremo pi@u colpevoli ed
+infami di quel Caccianimico che sedusse la sua innocente sorella,
+e per vil prezzo la vend@e all'obbrobrio?  Io no, certo.  Come va
+dunque che quel malnato ruffiano @e nella prima bolgia, e gli
+Alchimisti son nell'ultima?  E chi non resta attonito all'udire
+^nell'ultima bolgia delle diece, Me per Alchimia che nel mondo
+usai, Dann@o Minos a cui fallir non lece!~ {118-120}.  Mi perdoni
+Minosse, ma questa volta ha sbagliato in grosso.  Come pu@o essere
+che chi ^fu di natura buona scimia~ {139} sia pi@u peccaminoso di
+chi prostitu@i la sposa di Cristo, di chi calpest@o la giustizia,
+di chi si pose a fare il ladro, di chi f@e ribelle il figlio al
+padre, di chi scisse la religione, e cagion@o la morte eterna di
+milioni d'uomini, e di migliaja di generazioni, e di numerose
+nazioni?  Da ingiusto giudice ei dunque condann@o i Papi
+Simoniaci, gli Anziani di Santa Zita, i ladroni Fiorentini, e
+Bertramo, e Maometto, e cento altri, ad essere, chi pi@u chi meno,
+tutt'innanzi a Capocchio, vale a dire a dichiararli men peccatori
+di costui.  Dunque o Dante non @e pi@u Dante, o questi Alchimisti
+non sono Alchimisti.  Accennammo che ^Latino~, derivante da
+^Lazio~, vale partigiano di quell'Impero che nel Lazio dovea
+ristabilirsi.  Or bene; Virgilio chiede ai due Alchimisti che
+incontra: ^Dite se alcun Latino @e tra costoro che son quinci
+entro~: ed un di essi risponde piangendo: ^Latin siam noi che tu
+vedi s@i guasti~ {{88-91}: ed io comincio a dubitare che costoro
+sien figure di ^Ghibellini guasti~, o sia di que' disertori del
+partito Imperiale che s'eran fatti Guelfi per lor vile interesse. 
+In fatti il Latin guasto interroga Virgilio: ^Ma tu chi sei che
+di noi dimandasti?~  E Virgilio, scansando di fare una risposta
+diretta, replica: ^Io son un che discendo con questo Vivo, e di
+mostrar l'Inferno a lui intendo~ {94-96}.  E quegli, conscj de'
+torti loro, all'udir che l@a @e un ^Vivo~, che fanno?  Dante il
+disse: ^Allor si ruppe lo comun rincalzo, e TREMANDO ciascuno a
+me si volse, con altri che l'udiron di rimbalzo~: <Conscientia
+peccati formidinis mater>: Grisost.  <Sibi conscium, licet virum
+audacissimum, timidissimum facit ipsa conscientia>: Menandro.  Il
+dubbio comincia in vero a divenir pi@u forte.  E s'egli @e cos@i,
+l'Alighieri ch'@e s@i zelante de' suoi principj politici,
+all'entrare in questa bolgia, dovea raddoppiare il suo ardore: e
+cos@i fu, e il disse: ^Ed allor fu la mia vista pi@u viva~ {54}. 
+Anzi all'aspetto de' Latini guasti, Virgilio tutto a lui
+s'accolse; e vedendo che il seguace non osava favellare con
+coloro ei gliene di@e la permissione, quasi dicesse, <Non recipit
+mens pura malum> (Paulin.): <Il mio Maestro ^a me tutto
+s'accolse~, Dicendo: `di' a lor ci@o che tu vuoli'; Ed io
+incominciai poscia ch'^ei volse~:... Ditemi chi voi siete, e di
+che genti; La vostra sconcia e fastidiosa pena (effetto del
+vostro vergognoso delitto) Di palesarvi a me ^non vi spaventi~>
+{{100-108}: notate l'ultima frase.  Se la storia non tacesse
+sulle minuzie di uomini privati e poco importanti, sapremmo che
+questo alchimista altro forse non @e che uno il quale falsific@o
+l'oro puro de' suoi primi sentimenti con la lega vilissima de'
+sentimenti opposti; che quell'Albero che lo ^f@e mettere al fuoco~
+{110} e lo f@e ardere era un Guelfo che lo f@e ribello al primo
+partito; e che la sentenza ^Quel per cui io MORII qui non mi
+mena~, ma ^per Alchimia mi dann@o Minos~ significa: Non gi@a perch@e
+mi feci Guelfo, ma perch@e ho falsificato il nobil carattere di
+Ghibellino, son dalla mia coscienza posto s@i basso.  Mi nasce un
+sospetto, e mel desta quella stranissima similitudine della
+^Tegghia~ che s'appoggia all'altra, ch'@e visibilmente introdotta
+con un perch@e.  Fosse costui quel ^Tegghia Frescobaldi~ di cui
+parlano il Compagni nel lib. III. della sua ^Cronica~, ed il
+Mussato nella sua storia?  Egli prima non era Guelfo, poich@e il
+cronista narra ch'ei <si aggiunse> poscia ai fieri nemici di
+Arrigo con un tal ^Ventraja~; e lo storico scrive, che in un
+aguato contro una gualdana d'Imperiali <Tegghia de Frescobaldis
+cum Florentinorum consociis magn#a vi in hos insultam fecere... 
+Sicque deinde in infensos regios milites coedes commissa est>. 
+Quasi quasi giurerei che sia egli appunto; e che quel suo
+compagno ^Ventraja~ sia figurato in un altro spirito che vedrem
+ben tosto, il quale @e s@i idropico ^Che il viso non risponde alla
+VENTRAJA.~  Se a quanto sinor dicemmo si aggiunge che questi
+dannati son detti ^conversi~ {41}, o sia convertiti di buoni in
+mali: che Dante si copr@i con le mani le orecchie tutto inorridito
+alle lor voci; che la similitudine @e tratta da Valdichiana,
+pestifera valle di Siena Guelfa, e da Maremma, malsana palude di
+Siena Guelfa, che guastano chi @e sano; vedremo che ci@o si accorda
+col Sanese che fece ^ardere e morire~ colui, in tutto il senso
+allegorico di ^ardere e morire.~  E se aggiungesi ancora che i
+poeti si volsero a ^man sinistra~ {53} per contemplar questi
+^conversi ammalati~; che dalla loro bolgia ^tal puzzo usciva qual
+suole uscir dalle marcite membra~ {50-51}, cio@e dai membri
+corrotti e guasti del loro corpo politico; che ^somma tristizia~
+in Dante nacque al considerarli; e ch'egli e 'l suo duca tristi
+andavan ^passo passo senza sermone~, udendo ed osservando gli
+^ammalati~ {70-71}, cio@e i Latini guasti e conversi, che ^si
+trasmutavan per lo tristo calle~ (notate bene), ^falsatori che
+l'infallibil giustizia, ministra dell'alto Sire, qui registra~
+{55-57}; se tutto questo al gi@a detto si aggiunge, e si considera
+bene quel ^trasmutavan~, il dubbio incliner@a alla certezza; e pur
+non @e tutto.  Se io giunger@o a mostrare che il vizio di
+falsificare il carattere di fido Ghibellino si dicea appunto
+^Alchimia~, nel gergo di quel partito, allora la sentenza `Me per
+^Alchimia~ dann@o Minosse~ ammetter@a ella pi@u dubbio sul suo vero
+significato?  Or bene io ci@o mostrer@o altrove, e per ora seguir@o
+a riflettere.  Le frasi di <membro corrotto e guasto della
+societ@a>, o anche di <pecora infetta e rognosa del gregge>, che
+sogliamo appropriare a chi posto fra i buoni li contamina e coi
+fatti e coi detti (per cui Dante temeva di parlare coi Latini
+guasti, senza il permesso di Virgilio) dest@o in lui l'idea di
+cangiare questi pervertiti che pervertivano in altrettanti
+infermi: ed ora l'allegoria sta ben sulle gambe ed @e sostenuta da
+valevoli autorit@a, dalla esperienza e dalla ragione: <Dedit hanc
+contagio labem, et dabit in plures; sicut grex totus in agris
+unius ^scabie~ cadit>: Gioven.  Udiamo or Dante che scrisse ad
+Arrigo della rognosa Firenze: <Questa @e la pecora inferma la
+quale col suo appressamento contamina la greggia del suo
+signore...  Quivi le pecore vicine e strane s'infermano (ecco gli
+ammalati): Sia tolta via la radichevole cagione di questo
+^pizzicor~>; effetto della scabbia: e in questo canto ^ciascun
+menava spesso il morso dell'unghia sopra s@e, per la gran rabbia
+del Pizzicor~ {79-81}; effetto della scabbia.  Ora possiamo
+scorgere onde deriv@o quel fraseggiare plebeo con que' modi
+indecori, che scandalizz@o il Bembo.  E tutte le volte che di
+queste cose parla, Dante fa sempre cos@i; come dalla trombetta di
+Barbariccia ci fu intonato, e nelle viscere spaccate di Maometto
+vedemmo.  Ei volle mostare il suo disprezzo a cosa che tenea per
+vilissima, e scelse perci@o malattie stomachevoli a figurarla, e
+termini pi@u da chiasso che da Parnaso: ^puzzo di marcite membra~;
+^maculati di schianze~; ^l'unghie si traevan la scabbia~; ^con le
+dita ti dismagli~, ecc.  Nel Paradiso egl'introduce un dialogo
+fra s@e e il suo tritavo, nel qual dialogo ei chiede consiglio se
+mai debba parlare ardito e franco contro i vizj umani; temendo di
+farsi cos@i molti nemici; e fa rispondersi: ^Rimossa ogni
+menzogna, Tutta tua vision fa manifesta, E lascia pur grattar
+dov'@e la ROGNA~ {^Pd~ XVII 127-129}.  Cio@e: lascia pure che
+chiunque del tuo partito medesimo ha tal rogna vilissima, se la
+senta ai detti tuoi irritare, e se la gratti.  E nel primo Salmo
+penitenziale in cui geme sul suo Guelfismo passato, chiedendone
+perdono a quel suo Dio, cos@i si esprime: <Per@o che i falli miei
+sonsi invecchiati, Pi@u che gli errori de' nemici miei, E pi@u che
+le peccata dei Dannati, Partitevi da me, spiriti rei, Ch'allo mal
+fare gi@a me conducesti, Ond'io men vado sospirando omei.  Per@o
+che 'l Re de' spiriti celesti Ha esaudito lo pregare e 'l pianto
+Degli occhi nostri lagrimosi e mesti.  Ed oltre a questo lo suo
+amore @e tanto Che, ricevendo la mia orazione, Hammi coperto col
+suo sacro manto.  Onde non temo pi@u l'offensione Degl'inimici
+miei, che con vergogna Convien che vadan e confusione, Per@o che
+son mondato d'ogni ^rogna~>.  Egli @e oramai sicuro che questa
+^rogna~ di cui egli era mondato; la ^rogna~ che si dovean
+grattare coloro di cui parla il suo tritavo; la ^scabbia~ che
+questi dannati si traggon con l'unghie, sien rogna e scabbia di
+Guelfismo, introdotta nel corpo sano d'un Ghibellino, per
+volubilit@a o maltalento <Che al corpo sano han procurato scabbia>
+direbbe il Petrarca, il quale il disse in caso assai analogo.  N@e
+ci@o @e pur tutto.  La Luna, come mostrammo nel canto XX, dove sono
+i maligni pronosticatori, affini nel senso allegorico di questi
+falsatori, la Luna, dicea, @e il simbolo della volubilit@a.  Or
+bene: osservati que' pronosticanti pei quali l'Alighieri pianse
+nel vedere la sua immagine s@i torta, Virgilio gli disse che la
+Luna era vicina a tramontare; e qui stando col discepolo sopra il
+ponte gli dice: ^E gi@a la Luna @e sotto ai nosti piedi~ {10}.  Pu@o
+egli dirsi pi@u chiaro che quelli i quali stanno sotto i piedi
+loro, nella bolgia, sono i volubili che dicemmo?  Nella qual
+frase si sente un non so che di compiacenza di tener sotto i
+piedi la loro incostanza.  Perch@e poi costoro sien situati s@i
+gi@u, e contigui al gran pozzo centrale, sar@a manifesto in altro
+luogo, e diverr@a con ci@o pi@u sicuro che quanto ne dicemmo @e
+verissimo.  Uopo @e tornare adesso al principio del canto per dar
+compimento a queste riflessioni.
+
+	|1-12.  La molta gente~ lacerata e le diverse lor piaghe
+avean s@i inebriate e pregne di pietose lagrime le luci di Dante,
+ch'elle eran vaghe solo dello stare a piangere.  Ma Virgilio a
+lui disse: che guati pure s@i attentamente?  Perch@e la vista tua
+si affigge ancora (|pur si soffolge~) |laggi@u tra le triste ombre
+smozzicate?~  Tu non hai fatto s@i all'altre bolge, dalle quali
+non mai restio ti partisti.  Pensa, se tu credi annoverar tutte
+le ombre che l@a sono, che la circolar valle volge nulla meno che
+miglia ventidue.  E gi@a @e s@i tardi che la Luna, giunta al nostro
+nadir, @e sotto i nostri piedi.  Poco @e omai il tempo che n'@e
+concesso; ed altro @e da vedere che tu non vedi e non credi. 
+^Credi~ legge la Cr. forse meglio.  Di quelle miglia 22 dir@o nel
+canto seguente.  Se la Luna tonda (^E gi@a jer notte fu la Luna
+tonda~, XX 127) trovasi nello zenit, @e mezza notte; se trovasi
+nel nadir, o sia |sotto i nostri piedi~, @e mezzo giorno; dunque
+l'ora qui indicata @e il mezzo d@i del Sabato Santo: onde sono
+scorse ore 54 dall'apertura del poema a questo punto.
+
+	|13-21.~  Appresso ci@o Dante rispose: Se tu avessi fatta
+attenzione alla cagione per cui io guardava, forse mi avresti
+condonato (|dimesso~) lo starmi ancora.  Intanto (|parte~) il
+duca sen g@ia, e 'l seguace gli andava dietro facendo gi@a la
+risposta, e soggiungendo: Dentro a quella cavit@a (|cava~), dov'io
+tenea gli occhi s@i fissi ed appostati (|a posta~) credo che uno
+spirito del mio sangue pianga quella colpa che laggi@u cotanto
+tormento costa.  Quello era un consanguineo del poeta, fomentator
+di discordie, ucciso perci@o da un de' Sacchetti.
+
+	|22-30.~  Il maestro disse allora al discepolo: Il tuo
+pensiero non sia quind'innanzi dal suo corso interrotto (|non si
+franga~) per arrestarsi sovra lui (|ello~).  Perch@e io vidi lui
+appi@e del ponte mostrarti sdegnoso e minacciar fortemente col
+dito, e l'udii da altri nominare Geri del Bello.  Tu eri allora
+s@i del tutto col pensiero assorto (|impedito~) sovra colui che
+gi@a tenne Altaforte in signoria (Bertram del Bornio) che non
+guardasti in l@a verso Geri; cos@i ei fu partito, senza che tu il
+vedessi.
+
+	|31-36.~  E Dante rispose: |O duca mio, la violenta
+morte~ da lui sofferta, che non gli @e ancor vendicata da alcuno
+che sia partecipe dell'ingiuria (|che dell'onta sia consorte~),
+fece lui disdegnoso contro me: onde sen gio senza parlarmi, s@i
+come io stimo; ed in far ci@o ei m'ha fatto pi@u compassionevole
+verso di s@e.  Era perverso precetto di que' tempi, <Inimicum,
+ulcisci, vitam accipere est alteram> (P. Siro), e ciascun
+consanguineo credea esser dovere spegner l'uccisor d'un proprio
+congiunto: onde il poeta, interpretando la cagione dello sdegno
+del suo inulto parente, dice che quello sdegno gli era stimolo a
+nuova piet@a, perch@e gli rinfacciava un debito non compiuto.
+
+	|13-35 {Nota Finale}.~  Molti per ire private cangiavan
+partito, e massime quando volean vendicarsi di qualche ingiuria
+ricevuta dal proprio.  Or Geri del Bello, parente di Dante, nato
+in famiglia ab antiquo Guelfa, era stato ucciso da uno della
+famigla Sacchetti, ab antiquo Ghibellina; e quest'oltraggio stava
+fitto nel pensiero del poeta, perloch@e non sapea partirsi dalla
+bolgia precedente, dove son quei che VIVI furon, ^Seminator di
+Scandali e di scisma~ e dove ^uno spirto del suo sangue piange.~ 
+E 'l Maestro a lui: ^Non si franga il tuo pensiero quind'innanzi
+sovr'ello; attendi ad altro, ed ei l@a si rimanga~ {22-24}:
+volendo dire: non arrestarti in quest'idea che pu@o frastornarti
+dal seguir me, e cagionar dissidj.  In fatti Dante si era
+volentieri distaccato da tutte le altre bolge, ma di lasciar
+quella non sapea risolversi; e Virgilio gliel disse: ^Tu non hai
+fatto s@i all'altre bolge~ {7}.  E l'Alighieri con luci inebriate
+vaghe solo di starsi a piangere, rispose: se avessi atteso alla
+cagione per cui io guardava, forse condonato mi avresti il
+restarmi; cio@e, nel vedere l'alto oltraggio fattomi da un
+Ghibellino forse mi avresti condonato restar fra i fomentatori di
+risse, finch@e mi fossi vendicato.  E rammentiamo che Virgilio
+^parte sen gia~ {16}; cio@e, parte da lui si distaccava pel di lui
+rimanersi col@a; e che Geri nel veder Dante con quello ^lo
+minacci@o forte col dito~; e ch'egli del tutto impedito a guardare
+Bertramo non guard@o Geri, e cos@i quello fu partito.  Ci@o dice che
+nella contemplazione de' disordini prodotti dal falso consiglio
+di distaccarsi dal suo padre e signore (ch'era la colpa di
+Bertramo), egli non guard@o a quell'ingiuria, e cos@i fu da essa
+partito, cio@e diviso.  Tutto ci@o in somma ci rivela che vi fu un
+tempo in cui Dante, nel desio di vendicarsi di un oltraggio
+fattogli da un Ghibellino, fu quasi per tornar Guelfo; ma, alla
+vista de' mali che ne sarebber nati, si ritenne dall'abbondonar
+la sua nuova parte; e pass@o subito a considerare il castigo dato
+a coloro che di quella colpa si deturpavano: ^Cos@i parlammo
+insino al luogo primo che dello scoglio l'altra valle mostra... 
+Quando noi fummo in su l'ultima chiostra di Malebolge, s@i che i
+suoi conversi potean parere alla veduta nostra, lamenti saettaron
+me diversi... ond'io gli orecchi con le man copersi~ {37-45}.  E
+cos@i, udendo i lamenti de' falsatori, conversi al Guelfismo, si
+chiuse gli orecchi al mal consiglio di falsarsi.  Questo era il
+pi@u gran sacrifizio che Dante far poteva alla sua parte; poich@e
+il tralasciar di vendicarsi era creduto un mancare al proprio
+onore; onde ei scrisse in una canzone, <Che bell'onor si acquista
+in far vendetta>.  E dir@o anche che reputavasi quasi atto di
+religione il farla; sino al punto che chi moriva per colpo nemico
+legava talvolta un premio per testamento a chi lo avrebbe
+vendicato.  <Vellutello (moribondo per ferita ricevuta) lasci@o
+cinquecento fiorini a chi facesse la sua vendetta>: Cron. Vellut. 
+Gli odj per tal mezzo divenivano ereditarj ed eterni; lo stesso
+Geri fu vendicato dopo 30 anni da un suo parente con la morte di
+uno de' Sacchetti.  La legge restava delusa dalla prepotenza, e
+rimaneane l'ufficio all'ingiuriato; ma quello che nell'una @e opra
+santa, nell'altro @e nuovo delitto.  Ci@o avveniva massimamente in
+Toscana, della quale scrisse il vescovo Botrontino, testimone di
+mille atrocit@a: <In partibus illis (Thusciae) meo judicio
+saeculares sunt mali, et clerici non sunt boni>.  E che ci@o
+fosse, riguardo a questo mal uso, ne faccia fede un Toscano
+medesimo: <Questo vizio si stende Alla Toscana, pi@u ch'altro
+paese, Lo vendicare offese E non guardare in cui d'altrui
+legnaggio.  Ciascun dice: `ben aggio Fatta la mia vendetta',
+s'egli ha morto Quel che non gli f@e torto, Sol ch'appartenga
+all'offendente d'esso.  Grande fallo ha commesso: Ch@e non dee
+figlia iniquit@a di madre, N@e di figlio mai padre Portar, come ti
+dice il nostro Sire.  Che dunque dobbiam dire Di quel che pi@u
+assai vien da lontano?  Beati quei che stano In quei paesi ove
+non @e tal uso!>, Barberini, ^Docum. d'Am.~  Qual differenza di
+tempi!  Tu, Etruria avventurosa, riposata stanza di mitissimo
+vivere; tu norma di soave dire e di gentili maniere, tale ora tu
+sei, che si pu@o di te con giustizia ripetere: <Giardin d'Ausonia
+ove ogni bello @e chiuso, Gioja a chi giunge, ed a chi parte
+affanno, Beati quei che stanno Nel tuo bel seno ove non @e tal
+uso>.
+
+	|37-45.~  Cos@i parlarono i due viatori in sino al
+principio (|luogo primo~) del seguente scoglioso ponte, il quale,
+se vi fosse pi@u lume, mostrerebbe l'altra valle circolare sino al
+fondo tutto (|tutto ad imo~).  Quando essi furono sulla decima ed
+ultima chiostra di Malebolge, s@i che gli spiriti ivi accolti
+potean apparire alla lor veduta, diversi lamenti che avean quasi
+strali acutissimi di piet@a saettarono l'orecchie di Dante.  Onde
+ei preso da compassione ed orrore si coperse gli orecchi con le
+mani.  La bolgia @e oscura ma non profonda, talch@e se vi fosse pi@u
+lume potrebbe fin dal capo del ponte vedersi tutta ad imo, perch@e
+qui sono alchimisti e falsatori di metalli, gente cui non pu@o
+dirsi: <Vae qui profundi estis corde!> ma son quelli <quorum sunt
+in tenebris opera> (Isaia), perch@e temono essere scoperti.  Nelle
+^chiostre~ vivono i |conversi~, specie di religiosi; onde detta
+essendo |chiostra~ la bolgia, la continuazione della metafora fe
+chiamar |conversi~ que' che vi sono.  |Lamenti che di piet@a
+ferrati avean gli strali~: lo strale che ha punta di ferro
+acuminato @e penetrante; onde construisco cos@i: ^lamenti che avean
+i ferrati strali di piet@a~, cio@e i penetrantissimi strali della
+piet@a, che di piet@a ferivano i cuori; cos@i Messer Cino: <saetta
+ferrata di piacere>; e <saetta di pietade>, il Petrarca.
+
+	|46-51.~  Qual dolor sarebbe a vedere, se le malattie
+degli ospedali di Valdichiana fral luglio e 'l settembre, quando
+l'aria paludosa @e pi@u pestifera; e se tutt'i mali ancora di
+Maremma e Sardegna, s@i malsane per acque stagnanti, fossero tutti
+insieme (|insembre~) in un'ampia fossa raccolti; tal era la vista
+che quivi offrivasi, e tal puzzo ne usciva qual suole uscir dalle
+membra marcite.  |Valdichiana~, valle ove stagna la Chiana, fra
+Siena e Perugia; |Maremma~, bassa spiaggia di Siena, lungo il mar
+Toscano.
+
+	|52-57.~  I due contemplatori scesero in sull'ultima ripa
+circolare pi@u bassa che tutte le precedenti alla quale s'appoggia
+e termina il lungo seguito di scogliosi ponti; e si volsero pure
+da man sinistra (vedremo perch@e); ed allora la vista di Dante fu
+pi@u viva nell'andar gi@u verso il fondo, dove |l'infallibil
+giustizia~, ministra dell'alto Sire dell'universo, punisce i
+falsatori, ch'ella quivi in classi distribuisce (|registra~).  I
+falsatori, come vedremo, son di varia natura, e i loro peccati di
+varia gravit@a; qui son gli Alchimisti, ma pi@u in l@a saranno ben
+altri: onde la giustizia li distribuisce a classi; il che vien
+espresso dal verbo |registra~; perch@e cose di diversa specie
+soglion registrarsi sotto differenti rubriche.  |Qui registra~
+vale dunque ^quivi classifica~; cos@i dicesi porre a registro una
+libreria; registrare un gabinetto numismatico, mineralogico ecc. 
+|Qui~ per ^quivi~ ha cento esempj classici.
+
+	|58-66.~  Non credo che fosse pi@u trista scena a vedere
+in Egina il popol tutto per pestilenza infermo, quando l'aere fu
+s@i pieno di malignit@a che gli animali tutti, dall'uomo sino al
+picciol verme, cascaron morti; e poi le genti antiche di quell'
+isola si ristorarono e riprodussero di seme di formiche, secondo
+che i poeti hanno per fermo; non credo, dico, che maggior
+tristizia fosse a vedere s@i doloroso spettacolo, di quello ch'era
+a vedere per quella oscura valle languir gli spiriti, distribuiti
+per diverse cataste (|biche~).  Secondo Ovidio (^Metam.~ VII),
+Giove, alle preghiere di Eaco re di quell'isola Greca, cangi@o
+tutte le formiche che ivi erano in tanti uomini, detti poi
+^Mirmidoni~, che in Greco vuol dire appunto forniiche: e cos@i fu
+riparato il male prodotto dal contagio, con |seme~ (cio@e razza ed
+uova) di formiche.
+
+	|67-72.~  Qual di essi spiriti giacea sopra il petto, e
+qual sopra le spalle dell'altro, e quale si trasmutava carpone da
+un gruppo all'altro, andando pel tristo calle.  Il non potersi
+levare degli ammalati indica non solo debolezza di malattia, ma
+pure gravit@a di peccato; e l'andar senza sermone de' poeti mostra
+non solo silenzio di meditazione, ma anche muto ribrezzo in
+guardar cosa trista e schifa: <Dum spectant laesos oculi
+laeduntur et ipsi>: Ovid.
+
+	|73-84.~  Dante vide due spiriti infermi seder appoggiati
+per debolezza l'uno all'altro (|a s@e~), cio@e schiena a schiena,
+come s'appoggia talvolta tegghia a tegghia, o piatto a piatto,
+per riscaldarli al fuoco; e que' due eran dal capo a' pi@e
+maculati e deturpati di schifose croste (|schianze~), come i
+lebbrosi.  E non mai da garzone di stalla, aspettato dal signor
+suo che il sollecita, si vide menare la striglia al cavallo cos@i
+in fretta; n@e da colui che mal volentieri veglia, e desiderando
+andarsi a dormire compie in fretta il suo ufficio di mozzo, come
+ciascun di que' due menava spesso sopra le sue carni le mordenti
+unghie, per la gran rabbia del pizzicore, che non ha altro
+soccorso e sollievo che questo ben doloroso: poich@e le unghie si
+traevan gi@u le croste della scabbia, come coltello trae le
+larglie scaglie di una scardova, o di altro pesce che le abbia
+anche pi@u larghe.
+
+	|85-93.~  Virgilio cominci@o ad un di loro: O tu che con
+le dita s@i ti scortichi, e che fai d'esse talvolta tenaglie
+strappandoti le carni a brani, dimmi se fra costoro, che son
+quinci entro, @e alcun Latino, se l'unghia non mai ti si consumi,
+e ti basti eternalmente a cotesto lavoro.  E quell'uno che fu
+richiesto rispose piangendo: Ambodue noi che tu vedi qui s@i
+guasti e laceri siam Latini: ma tu, che di noi dimandasti, chi
+sei? ecc.
+
+	|94-99.~  Dice qualche spositore che questi Alchimisti
+(tali verran detti) ^si volser tremando~ perch@e divenner
+paralitici per l'uso dell'argento vivo, <cujus vapor facit
+accidere paralysim> (Avicenna).  Noi mostreremo pi@u tardi ch'essi
+si volser tremando all'udir che Dante @e |vivo~, e non gi@a perch@e
+erano paralitici.
+
+	|109-120.~  Questi che tien dialogo @e Griffolino d'Arezzo
+alchimista.  Ei disse un d@i, parlando a giuoco, ad Albero da
+Siena, giovane vanarello, che la sua arte alchimica giungeva a
+tale ch'egli all'uopo avrebbe saputo levarsi per l'aria a volo: e
+quegli ch'avea molta curiosit@a (|vaghezza~) e poco senno, volle
+che l'Aretino gl'insegnasse e mostrasse l'arte di volare, e
+perch@e colui nol fece Dedalo, perch@e realmente non sapea farlo
+tale, indispettito and@o ad accusarlo per negromante al vescovo di
+cui era figliuol naturale: ed eccoti il povero Griffolino, per
+una celia, afferrato, processato, ed arso vivo, come mago; onde
+dice: Albero da Siena mi f@e mettere al fuoco; ma quell'accusa per
+cui io morii non mi men@o qui, essendo tutto ideale quel mio
+reato; ma bens@i per l'alchimia ch'io usai nel mondo, Minosse a
+cui non lece fallare sulla realit@a delle colpe, come fall@o quel
+vescovo, dann@o me nell'ultima delle 10 bolge ove i falsatori son
+puniti.  <Falli saepe poterit fama, Conscientia nunquam>: Seneca.
+
+	|121-132.~  E Dante disse a Virgilio: Or fu giammai gente
+s@i vota di cervello (|vana~), come la Sanese?  Certo non la
+stessa gente Francesca @e s@i vana, e d'assai non @e s@i vana.  Onde
+l'altro lebbroso che lo cap@i (|intese~) rispose al detto di Dante
+con una ironia pungentissima: Tranne per@o fra i Sanesi lo Scricca
+e Niccol@o ecc. e tranne la brigata in cui Caccia d'Asciano
+disperse e dissip@o la vigna e 'l bosco (gran fronda) e profferse
+cos@i in faccia al mondo il suo senno da tanta vanit@a abbagliato. 
+In Siena, certi ricchi giovanastri fecer brigata, detta la
+Godereccia, per darsi bel tempo: e, messi insieme fra loro
+dugentomila fiorini d'oro, si diedero a vivere splendidamente,
+sicch@e in venti mesi ne impoverirono.  Tra questi erano Caccia
+d'Asciano, lo Scricca, Niccol@o Salimbeni ed altri scialacquatori. 
+Questo Niccol@o fu il primo che inventasse il metter garofani ed
+altre spezie ne' fagiani, ecc. e quel modo sfoggiato di cucinare
+chiamavasi |la costuma ricca~, cio@e la moda de' facoltosi.  In
+Siena dunque, come in mal orto, s'appicc@o e crebbe tal seme di
+lusso ruinoso, che sparse poi i suoi germogli anche altrove. 
+Vivaci e lieti sono i 22 sonetti di Folgore da S. Geminiano,
+antichissimo rimatore, a Niccol@o diretti, in cui canta la
+splendit@a gozzoviglia della brigata Sanese.
+
+	|133-139.~  Quest'altro lebbroso che s'appoggia
+all'Aretino @e un tal Capocchio, che credesi avere studiato
+filosofia naturale con Dante, per cui gli dice: Senza che mi
+domandi chi sia, aguzza l'occhio ver me s@i che la mia faccia ti
+risponda bene chi sono.  E dassi il vanto d'essere stato |buona
+scimia~ di natura, perch@e la imit@o nel falsar metalli per
+alchimia, s@i che parean veri e buoni.

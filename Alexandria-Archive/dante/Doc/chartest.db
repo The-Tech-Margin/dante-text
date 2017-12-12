@@ -1,0 +1,45 @@
+..COMM:
+Chartest
+..LANG:
+English
+..DTYP:
+T
+..LODD:
+870310
+..TEXT:
+This file demonstrates all Dante Project escape sequences.
+..TEXT:
+|This is boldface.~     This is not.
+..TEXT:
+^This is italics.~      This is not.
+..TEXT:
+|^This is bold italics.~        This is not.
+..TEXT:
+Upper and lower case Roman and Greek alphabets follow:
+..TEXT:
+%Gamma%Delta%Theta%Lambda%Xi%Pi%Sigma%Upsilon%Phi%Psi%Omega
+..TEXT:
+%alpha%beta%gamma%delta%epsilon%zeta%eta%theta%iota%kappa%lambda%mu%nu%xi
+o%pi%rho%sigma%tau%upsilon%phi%chi%psi%omega
+..TEXT:
+<This line has quotes.>
+\<This line has angle brackets.\>
+..TEXT:
+An example of superscripting: 1+st.~
+..TEXT:
+This is a plus sign: 1\+4 = 5.
+..TEXT:
+Grave accents:
+        @A @a @E @e @I @i @O @o @U @u @Q @q
+..TEXT:
+Acute accents and cedillas:
+        $A $a $E $e $I $i $O $o $U $u $Q $q $C $c
+..TEXT:
+Carets:
+        #A #a #E #e #I #i #O #o #U #u
+..TEXT:
+Umlauts:
+        ,A ,a ,E ,e ,I ,i ,O ,o ,U ,u
+..TEXT:
+Ligatures:
+        @@ae @@AE @@oe @@OE

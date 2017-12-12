@@ -1,0 +1,729 @@
+	|1-4.  Poi~: dopo che oltrepassammo la soglia (|soglio~)
+della porta del Purg. che (ogg.) l'amore rivolto al male (sogg.),
+le passioni peccaminose delle anime, lascia in disuso (|disusa~:
+non fa aprire che raramente), poich$e tale amore rivolto a malo
+oggetto fa apparire (|parer~) come via del bene (|dritta~) la via
+del male (|torta~: storta, sbagliata), io sentii che essa (porta)
+si era richiusa, dal suono (|sonando~ conc. con |la~), come aveva
+fatto quando si era aperta.
+
+	|5-6.  e s'io~: ma se io mi fossi voltato indietro a
+guardare, quale scusa sarebbe (|fora~) stata proporzionata
+(|degna~) per giustificare la mia trasgressione (|fallo~) al
+divieto dell'angelo?  <Dopo il rituale della penitenza, che si @e
+compiuto nel canto precedente, l'anima del poeta @e come attonita
+in una sua meditazione e dominata dall'esplicita autorit@a della
+prescrizione.  La legge del Purg. non @e stata infranta; il
+perdono si inizia, la porta si @e rinchiusa e si @e rinchiusa sul
+ricordo e sul regno del male.  D. @e ormai privilegiato dalla
+grazia perch$e quella porta, per volere divino, ora @e il solenne
+diaframma che lo separa dall'errore e dal ricordo della vita di
+prima.  L'anima attonita del poeta percepisce tutto questo
+attraverso un solo senso, quello dell'udito; ogni altro senso @e
+come spento per una inibizione reverente ed adorante, per un
+estremo autodisciplinamento interiore> (Roffar@e, ^Il c. X del
+Purg.~, <Lett. scalig.>, Firenze, 1965, 318).  Si osservi come la
+trepida e ansiosa attesa di D. sia sempre trascritta attraverso
+un resoconto oggettivo di fatti che la interpretano come
+dall'esterno, evitandogli di dichiarare la sua drammatica
+interiore preoccupazione di appartenere ormai agli eletti.  Di
+qui il tono dimesso dell'inizio.
+
+	|7-9.  Nol salavam~: noi salivamo attraverso la roccia
+spaccata (|fessa~), cio@e attraverso uno stretto sentiero scavato
+nella roccia, che procedeva (|si moveva~) in modo ondulato e
+tortuoso secondo le sporgenze e le rientranze delle pareti,
+simile all'immagine dell'onda marina che ora va ed ora viene
+sulla spiaggia.  Cos@i intesero i commentatori antichi e moderni,
+ma Pietro di Dante e qualche altro presero alla lettera la
+similitudine, intendendo che le pietre delle pareti si muovessero
+realmente.  Mentre effettivamente il poeta ha voluto indicare, in
+quel sentiero a zig zag, lo sforzo di D. pellegrino e l'amarezza
+della penitenza a cui @e subito sottoposto.
+
+	|10-12.  si conviene~: qui @e necessario una certa
+avvedutezza (|arte~), nell'accostarsi ora a destra (|quinci~),
+ora a sinistra (|quindi~) alle rientranze (|al lato che si
+parte~), al lato della parete che rientra, onde evitare le
+sporgenze.  Non @e necessario supporre qui un senso allegorico;
+basta soffermarsi alla difficolt@a materiale che prova l'uomo per
+la via della penitenza.
+
+	|13-15.  E questo~: questa necessit@a di camminare con
+paziente avvedutezza rese brevi e tardi (|scarsi~, nella misura e
+nel tempo) i nostri passi, tanto che, prima che noi fossimo
+usciti da quella stradetta stretta come una cruna di un ago, la
+luna gi@a scemata (|lo scemo de la luna~) giunse di nuovo
+(|rigiunse~) al suo letto, all'orizzonte per tramontare (che @e
+per lei come un riposo).  Secondo gli astronomi, nell'equinozio
+la luna, nel Purgatorio, tramonta quattro ore e mezza dopo il
+sorgere del sole, cio@e verso le dieci e mezza.
+
+	|16.  cruna~: @e ricordo evangelico: ^Marco~, X, 25: <@E
+pi@u facile che un cammello passi per la cruna di un ago, che un
+ricco entri nel regno di Dio>; ma il riferimento alla strettezza
+del sentiero @e forse dovuto al senso morale che ha un altro passo
+evangelico: <Entrate per la via stretta... perch$e larga @e la via
+che conduce alla perdizione, e molti son quelli che entrano per
+essa; mentre stretta @e la porta e angusta la via che conduce alla
+vita e pochi son quelli che la trovano> (^Matteo~, VII, 13-14).
+
+	|17-21.  ma quando~: fummo in luogo libero da quelle
+augustie e aperto, in alto (|su~) dove il monte rientra (|in
+dietro si rauna~) formando un ripieno circolare, io stanco per il
+peso del mio corpo, ma entrambi incerti e ignari su quale via
+prendere, ci fermammo su un balzo solitario pi@u che non sogliono
+essere le vie dei deserti.  L'immagine del |deserto~ non deve
+creare nel lettore un senso di sgomento, perch$e <per il
+Cristianesimo ^deserto~ @e l'@eremo, e nei Fioretti la Verna, Fonte
+Colombo, Greccio sono detti ^deserti~> (Fallani, ^Il c. X del
+Purg.~, S.E.I., 1953, p. 9).  In tal modo l'immagine ci
+suggerisce un senso di solitudine che @e anche meditazione dello
+spirito.  Se, poi, si pensa alla tensione del cammino per quella
+^cruna~ la visione di quella luna al tramonto presenta <un
+paesaggio in cui lo spirito avverte il mistero di qualche cosa
+che lo predispone a godere la pura gioia, nel momento che i due
+Poeti, |liberi e aperti~, sentiranno che la luce e lo spazio
+appartengono alla loro conquista> (Fallani, ^l.c.~ 9).
+
+	|22-24.  Dalla sua sponda~: dalla sponda esterna, che
+confina col vuoto (|vano~), alla base (|al pi@e~) della parete
+(|ripa~) interna che continua a salire (|che pur sale~)
+misurerebbe la lunghezza di un corpo umano ripetuta tre volte,
+circa cinque o sei metri; tanto @e largo lo spazio di questa prima
+cornice del Purg.  La topografia stessa qui si inserisce nel
+tessuto narrativo e itinerale, in un rapporto dialettico.
+
+	|25-27.  e quanto~: e fino a quanto l'occhio mio poteva
+giungere (|trar d'ale~: spaziare) da una parte e dall'altra, a
+sinistra e a destra, questa cornice del Purg. mi appariva
+(|parea~) della stessa larghezza sopra detta (|cotale~).
+
+	|28-31.  L@a su~: su quell'alto ripiano non avevamo ancora
+fatto un passo, quando io m'accorsi (|conobbi~) che quella ripa
+^che pur sale~ {v. 23}, la costa, la parete tra la prima e
+seconda cornice, oppure soltanto la base, pi@u bassa di essa (ma
+non il pavimento, cfr. Barbi, ^Probl.~, I, 223; e ^Purg.~, XIII,
+8; in cui ^ripa~ @e contrapposta a ^via~) era di marmo bianco e
+adornato di sculture a rilievo.
+
+	|Che dritto~: verso di incerta lettura e interpretazione
+controversa: il senso @e: che aveva minore (|manco~) ripidezza
+(|dritto~) di salita, essendo lo zoccolo un po' inclinato, alla
+base della ripa, in modo che i superbi vi potessero meglio
+scorgere le immagini scolpite.  Altri, invece; che aveva vera e
+propria (|dritto~: propriamente) mancanza di salita.  Queste due
+tesi sono le pi@u probabili e chiare.  Cos@i intende anche il
+Gmelin: <Questa lastra, che si trova a pi@e della rupe, ha una
+inclinazione minore della rupe stessa, per poter essere
+contemplata dalle anime dei superbi, i quali camminano curvi
+sotto i loro pesi> (^Il c. X del Purg.~, in <Lett. dant.> a cura
+del Getto, ed. cit. {Firenze, 1964}, p. 873).
+
+	|32-33.  si che~: di rilievi tali che non solo (|non
+pur~) Policleto (il celebre scultore greco del V secolo a. C.,
+emulo di Fidia), ma anche la natura in quel caso avrebbe avuto
+scorno; cio@e quei rilievi erano cos@i perfetti (essendo opera di
+Dio) che non solo l'arte (imitazione della natura e nipote di
+Dio) ma anche la natura stessa era stata superata, e si sarebbe
+vergognata, posta di fronte a tanta bellezza.  Il nome di
+Policleto @e assai comune negli scrittori del tempo di D., da
+Guittone a Dino Compagni, e sempre ammirato come massimo scultore
+e pittore.  La fama era stata certamente trasmessa attraverso le
+opere di Cicerone, di Plinio, di Quintiliano e di Valerio
+Massimo.  L'ideale di D. che considerava la bellezza come armonia
+delle varie parti di un opera (^Conv.~, I, v, {13-14}; III, xv,
+{11-13}), pur essendo conforme a strutture medievali, era assai
+vicino a quello classico.  Il rilievo estetico di D. qui vuole
+indicare il senso della perfezione divina, in cui il mito
+estetico e morale trova giustificazione.  <Supponendo cos@i che
+Dio fosse l'autore di queste sculture, D. pu@o attribuir loro una
+qualit@a d'espressione sovrumana, un |visibile parlare~ che
+oltrepassa le facolt@a degli artisti umani, e che egli ora cerca
+di esprimere con parole, indicando cos@i un ideale artistico
+estremo, desiderabile, ma sempre irraggiungibile alle forze
+umane> (Gmelin, ^l.c.~ {^Il c. X del Purg.~, in <Lett. dant.> a
+cura del Getto, Firenze, 1964}, 874).
+
+	|34-39.  L'angel~: l'arcangelo Gabriele, che scese in
+terra portando (|col~) con s$e il decreto della pacificazione,
+attesa e implorata per tanti ami, tra l'uomo e Dio, dopo il
+peccato di Adamo ed Eva, pace che apr@i agli uomini il cielo
+togliendo il divieto di salire al cielo, dinanzi a noi appariva
+(|pareva~) cos@i vero, quivi scolpito in un atteggiamento pieno di
+soavit@a, che non sembrava effige (|imagine~) muta.  @E il primo
+esempio di umilt@a esaltata, in contrapposizione e a monito dei
+superbi puniti.  Maria @e presente con un episodio della sua vita
+in ogni cornice.  La sua virt@u effigiata, ripetuta, invocata per
+sette volte, @e desunta dagli ^Evangeli.~  Per i superbi @e
+effigiata l'umilt@a di Nazareth.  L'idea venne a D. dallo
+^Speculum Beatae Virginis~ di S. Bonaventura, dove Maria viene
+celebrata per le sue virt@u che si oppongono a ciascuno dei sette
+vizi capitali (Maria fu scevra d'ogni vizio e rifulse di ogni
+virt@u.  Maria fu immune dai sette vizi capitali, oltre ogni
+limite.  Contro la superbia fu profondissima per umilt@a, contro
+l'invidia affettuosissima per carit@a, contro l'ira mansuetissima
+per dolcezza, contro l'accidia operosissima per attivit@a e
+accuratezza; Maria contro l'avarizia fu piccolissima per povert@a,
+Maria contro la gola fu temperatissima per sobriet@a, Maria contro
+la lussuria fu castissima per la verginit@a).  <Questo passo non
+offre soltanto le sette virt@u della Madonna, ma nella sua
+^amplificatio~ suggerisce, almeno in parte, gli episodi stessi
+delle sculture.  Quanto ai modelli plastici del soggetto, D. pu@o
+aver contemplato innumerevoli opere del suo tempo.  Si potrebbe
+pensare specialmente al pulpito di G. Pisano a Pistoia> (Gmelin,
+^l.c.~ {^Il c. X del Purg.~, in <Lett. dant.> a cura del Getto,
+Firenze, 1964}, 875; ma prima di lui, Fallani, ^l.c.~ {^Il c. X
+del Purg.~, Torino, S.E.I., 1953}, 14-15).
+
+	|40-42.  Giurato~: si sarebbe giurato che l'angelo
+dicesse alla Vergine: <|Ave~> (^Luca~, I, 28), perch$e ivi era
+scolpita Maria, che, concependo Ges@u, gir@o la chiave (|volse la
+chiave~) in modo che si aprisse l'amore di Dio (|alto~) agli
+uomini, cio@e fece in modo che l'amore di Dio si aprisse agli
+uomini.
+
+	|43-45.  e avea~: essa aveva nel suo atteggiamento (|in
+atto~), soavemente umile, impressa questa risposta (|favella~:
+parola): |Ecco l'ancella del Signore~; con quella precisazione
+(|propriamente~) con cui s'imprime col sigillo una figura sulla
+cera.  <Condensa tutta una serie di usanze artistiche e idee
+anagogiche del medioevo, che sfuggono al lettore moderno.  Nel
+medioevo la parola |figura~ significa anche ^detto~, ^parola~,
+^frase~; si usava scrivere le lettere da destra a sinistra, cio@e
+quasi sigillate in cera o viste in uno specchio, mentre la
+cartella di sinistra era normale.  Ma se il contemplante leggeva
+tutte e due le cartelle da destra a sinistra, veniva a leggere
+^Eva~ invece di ^Ave~; e questo significava nel senso anagogico
+che il peccato di Eva era abolito per mezzo di ^Ave Maria~, cio@e
+dalla nascita del Redentore> (Gmelin, ^l.c.~ {^Il c. X del
+Purg.~, in <Lett. dant.> a cura del Getto, Firenze, 1964}, 875). 
+@E chiara l'influenza che gli affreschi delle chiese medievali
+abbiano esercitato su D. anche a proposito delle parole, che
+spesso venivano trascritte a significare meglio la risposta
+rivelante l'umilt@a di Maria, che era l'elemento essenziale di
+ogni annunciazione.  Significativa qui, pi@u di ogni altra
+artificiosa supposizione, ci sembra, invece, l'analogia della
+tecnica plastico-pittorica medievale con quella
+narrativo-poetica, che attribuiva alla realt@a oggettiva una
+carica di significati pi@u stimolante della sua stessa validit@a
+effettiva.  D., qui, @e stato, per@o anche interprete e
+commentatore mistico-estetico, oltre che creatore di quella
+realt@a artistica da lui immaginata.
+
+	Dante ebbe un interesse particolare per le arti plastiche
+e pittoriche dei suoi tempi (V. Mariani, ^D. e l'arte~, in
+^Conversazioni d'arte~, Napoli, 1939), ma qui <a noi giova notare
+come gli stessi modi che D. usa sia nel dar evidenza ai valori
+plastici (canto X e canto XII), sia nel parlare di miniatura, di
+pittura e dell'arte in genere (canto XI) testimoniano, non
+soltanto l'attenzione con cui egli dovette seguirne le
+affermazioni, ma la perizia con cui sapeva vedere e giudicare, e
+forse anche personalmente praticare, le arti figurative.  Nella
+notazione delle movenze e diremmo del pathos che caratterizza il
+rilievo parlante dell'Annunciazione, nel valorizzare la pienezza
+dell'espressione, la soavit@a, la veracit@a sentimentale, si
+direbbe siano chiarite le conquiste dei suoi giorni, il trapasso
+che, di fronte all'arte romanica, avevano affettuato gli artisti
+novatori suoi contemporanei, da Nicola Pisano ad Arnolfo e
+sopratutto a Giovanni Pisano.  E cos@i che i riquadri di questa
+prima cornice, pur soddisfacendo alla loro funzione
+didattico-morale, rispondono a un appassionato interessamento
+personale, a una espressione di gusto viva ed effettiva> (R.
+Roedel, ^Il c. X del Purg.~, in <Lett. D. intern.>, Milano, 1965,
+p. 150; ed anche, ^idem~; ^Il sussidio delle arti figurative
+nella interpretazione dei velami della D. C.~, in <Atti del V C.
+Intern. di Ling. e lett. moderne>, Firenze, 1955; poi ^Le arti
+figurative e i velami della D. C.~, in <Lect. D.>, Lugano, 1965).
+
+	|46-48.  Non tener~: non tener rivolta la tua attenzione
+(|mente~) soltanto (|pur~) a un luogo, disse Virgilio (qui dolce
+guida) che mi aveva alla mia sinistra.
+
+	|49-54.  di retro~: vedevo dopo, al di l@a della, scultura
+di Maria, da quel lato in cui mi era vicino colui che mi guidava,
+cio@e a destra, una storia, un'altra rappresentazione, scolpita
+(|imposta~) nella roccia; perci@o passai alla destra di Virgilio e
+mi avvicinai a quella, affinch$e fosse meglio visibile
+(|disposta~), esposta alla mia vista, interamente.  Osserva il
+rapporto dialettico-morale che si stabilisce di volta in volta
+tra la topografia e il racconto itinerale, in cui le impressioni
+di D.-pellegrino e quelle di D.-poeta si sovrappongono in una
+particolare tonalit@a drammatica specialmente se si pensa che
+egli, qui, non @e pi@u soltanto visitatore, ma anche un penitente
+che deve purificarsi dei suoi peccati.
+
+	|55-57.  Era~: la seconda scultura (secondo esempio di
+umilt@a) @e tratta dal ^Vecchio Testamento~: la danza di David
+davanti all'Arca Santa.
+
+	Spiega: era scolpito l@i nel medesimo marmo (in cui era
+scolpita l'Annunciazione) il carro con i buoi, nell'atto di
+tirare (|traendo~: con val. di part. ^che traevano~) l'Arca
+Santa, per la quale (|che~) l'uomo teme di arrogarsi un ufficio,
+un compito, non affidato (|commesso~) a lui da Dio.  Narra la
+^Bibbia~ (^II dei Re~, VI, 1-23) che, durante il trasferimento
+dell'Arca Santa, da Gabaa a Geth, ordinato da David, sopra un
+carro tirato da buoi, il levita Oza, vedendo che l'Arca
+vacillava, stese le mani per sostenerla e fu fulminato da Dio. 
+D. ne fece un esempio di temerariet@a, come in ^Epist.~, VIII, 12.
+
+	|Non commesso~: il richiamo alla presunzione di Oza, che,
+non essendo sacerdote, ha osato toccare l'Arca vacillante, @e in
+rapporto diretto con ^l'Epistola~, XI che D. scrisse ai Cardinali
+italiani riuniti nel conclave di Carpentras (1314), dopo la morte
+di Clemente V.  Rapporto tanto pi@u valido, se si pensa che nel
+trasferimento dell'Arca ordinato da David, @e adombrato il
+desiderio di D. che la sede del papato sia riportata a Roma da
+Avignone: <Quella Roma, a cui Cristo con le parole e con i fatti
+conferm@o l'impero del mondo, noi siamo costretti a ^piangerla
+vedova e sola.~  A causa vostra essa @e privata dell'uno e
+dell'altro luminare.  Ben lo sapete.  La sede del Pontefice @e
+Roma, e dunque a Roma riconducete la gloria dei Latini.  E chi @e
+costui, voi forse sdegnosamente risponderete, che non temendo
+l'improvviso supplizio di Oza all'Arca, bench$e pericolante,
+distende la mano?...  Quello all'Arca, io ai bovi recalcitranti
+che vagano per impervia strada, distendo la mano.  All'Arca ci
+pensi Colui che provvide alla navicella pericolante tra i
+flutti>.
+
+	Nei tre rilievi @e esaltata l'umilt@a, ma anche la fiducia
+che ha D. in un nuovo mondo rinnovato nella legge di Dio: in
+questo senso i tre rilievi formano un trittico medievale, in cui
+@e rappresentata la storia dell'umanit@a.  Nel primo @e
+l'annunciazione del Cristo redentore, che canceller@a il peccato
+di Adamo; nel secondo la speranza che la sede del Pontefice sia
+trasferita a Roma; nel terzo @e dimostrato che la piet@a religiosa,
+cio@e dal rapporto dell'uomo con Dio, nasce anche la giustizia
+vera, quella di Traiano, imperatore accolto nella gloria dei
+cieli: Soltanto un artista, come Dio, poteva racchiudere in quei
+riquadri la storia dell'umanit@a, dalla venuta di Cristo fino alla
+presenza della piet@a cristiana nell'esercizio della giustizia nel
+mondo.  (Cfr. L. Pietrobono, ^Saggi danteschi~, Roma, 1936).
+
+	|58-60.  Dinanzi~: dinanzi al carro appariva scolpita
+gente, e tutta quanta divisa (|partita~) in sette schiere
+(|cori~, che accompagnavano il carro), all'udito e alla vista
+faceva dire, all'uno: non canta; e all'altro: S@i canta; cio@e alla
+vista pareva che quella gente cantasse.
+
+	|61-63.  Similemente~: allo stesso modo, riguardo al fumo
+degli incensi, che vi era rappresentato, il senso della vista
+(|li occhi~) e quello dell'odorato (|naso~) si fecero (|fensi~)
+discordi nell'germare (che c'era il fumo dell'incenso) e nel
+negare (che non si sentiva alcun odore).  D. vuol dare un
+perfetto senso della perfezione artistica, insistendo anche su
+questi valori sensori della rappresentazione.  Vista e udito e
+olfatto hanno qui una parte, evidenziata nella scultura.
+
+	|64-65.  L@i~: in quel punto, davanti al carro, che
+conteneva l'Arca Santa, avanzava David, l'autore dei ^Salmi~, in
+atteggiamento umile, danzando (|trescando~: da ^tresca~ danza
+popolare, ^Inf.~, XIV, 40) con le vesti alzate (|alzato~).
+
+	|salmista~: <La danza di David davanti all'arca del patto
+e la scena che segue con la figlia di Saul, Micol, che D. usa
+come un secondo esempio di umilt@a, ha un'influenza considerevole
+sull'idea che il medioevo ha di David; l'interpretazione di
+questo episodio ebbe come conseguenza il fatto che David fu
+principalmente lodato per la sua umilt@a...  Come l'arca fu
+considerata ^figura~ della Chiesa, cos@i David divenne ^figura~ di
+Cristo.  L'allusione a David nell'occhio dell'aquila contiene
+pure il tema dell'umilt@a, giacch$e la migrazione dell'arca di
+luogo in luogo veniva considerata come l'umile condizione della
+Chiesa durante l'epoca delle persecuzioni> (Auerbach, ^l.c.~
+{^Studi su Dante~, Milano, 1963}, 242).
+
+	|66.  e pi@u e men che re~: in quell'occasione era pi@u che
+re, perch$e indossava l'abito pontificale (^l'efod~, secondo
+^l'Esodo~, XXVIII, 6-12), e meno che re, per quella danza
+condotta in atteggiamenti servili, come gli rinfacciava la moglie
+Micol: <Quanto onore s'@e fatto oggi il re d'Israel, scoprendosi
+alla presenza delle serve dei suoi servi, come farebbe un
+buffone!  Ma David rispose a Micol: @E al cospetto del Signore che
+io danzo.  Per la via del Signore... io danzer@o e mi abbasser@o
+ancor di pi@u.  Sar@o abbietto agli occhi miei, ma dinanzi alle
+serve, di cui tu hai parlato, mi far@o onore> (^II dei Re~, VI,
+20-22).
+
+	|67-69.  Di contra~: dirimpetto a David, raffigurata come
+affacciata ad una finestra (|vista~) di un gran palazzo, Micol
+guardava stupefatta (|ammirava~) come una donna piena di
+disprezzo (|dispettosa~) e crucciata (|trista~, per il
+comportamento del marito).  <Appena l'Arca del Signore entr@o
+nella citt@a di David, Micol guard@o da una finestra e vide David
+che saltava di forza alla presenza del Signore, e lo sprezz@o in
+cuor suo> (^II dei Re~, IV, 16).  D. d@a un'interpretazione
+^figurale~ anche della storia biblica, anticipazione di quella
+cristiana; come di tutta l'arte; infatti qui la scultura o l'arte
+in genere @e imitazione o umbratile raffigurazione della realt@a
+vera.  <Nel Purg. D. loda le opere d'arte create da Dio stesso,
+che rappresentano esempi di virt@u e di vizi, per la loro compiuta
+verit@a sensibile, di fronte alla quale l'arte umana e persino la
+natura impallidiscono.  D. definisce la sua stessa poesia come
+^un'umbra~ della verit@a impressa nel suo spirito> (Auerbach,
+^Studi su D.~, Milano, 1965, p. 211).
+
+	Non si dimentichi che ci@o che @e scritto nella ^Bibbia~ @e
+prefigurazione ed esemplificazione delle virt@u e dei peccati che
+saranno espiati nell'aldil@a.  David @e chiamato da D. il ^cantor
+dello Spirito Santo~ {^Par.~ XX, 38}; e il Vecchio e Nuovo
+Testamento @e considerato come ^divina favella~ (^Par.~ XXIV, 99};
+pertanto David, col suo esempio di umilt@a, essendo gi@a anima
+beata nel Paradiso, costituisce un monito ai superbi del Purg. e
+anche a D., onde raggiungere la pace celeste.
+
+	|71-72.  per avvisar~: per osservare da vicino un'altra
+storia, che risaltava sul marmo bianco (|biancheggiava~), ancora
+a destra del secondo rilievo.
+
+	|73-76.  Quiv'era~: ivi era rappresentato il fatto
+glorioso (|l'alta gloria~) del principe (|principato~: astratt.
+per il concreto) romano, la cui virt@u commosse il papa Gregorio
+Magno, fino a fargli vincere con le sue preghiere le forze
+^dell'Inferno~, salvandolo miracolosamente.  Poich$e anche Traiano
+si trova, secondo D., nel Paradiso, come David e come Maria, @e
+chiaro che il suo esempio di umilt@a abbia un valore ^figurale~ di
+monito concreto verso la salvazione e la beatitudine.  Molte
+possono essere le fonti a cui D. attinse questa leggenda sacra;
+il ^Novellino~ di ignoto autore, che offre una narrazione simile
+a quella di D.; il ^Policraticus~ di Giovanni di Salisbury, ove
+il fatto @e raccontato a monito dei principi (cfr. Renucci, ^Une
+source de Dante, le Policraticus de Jean de Salisbury~, Paris,
+1952); il ^Fiore di filosofi~; le ^Vite~ di Gregorio Magno. 
+Secondo il Boni la leggenda di Traiano potrebbe esser nata
+dall'Arco di Costantino, nel quale erano stati inseriti rilievi e
+statue di altri monumenti romani (Boni, <Nuova Antologia>, 1
+novemb. 1906; M. Barbi, ^La leggenda di Traiano~, Firenze, 1895). 
+Anche S. Tommaso accetta questa leggenda, ^S. Th.~, III, s. 71,
+5).
+
+	Il terzo esempio di umilt@a @e tratto dalla storia romana:
+un episodio che per@o fu ascritto nel Medioevo a gloria cristiana,
+in quanto interpretato in chiave figurale, come anticipazione
+dell'avvento di Cristo nel mondo; un monito cristiano, anticipato
+nel mondo pagano.  Tale qui @e il senso di questa
+rappresentazione.
+
+	|77-78.  vedovella~: @e naturale nel lettore il
+riferimento a Roma <^vedova e sola~ che ^d@i e notte piagne~,
+invocando l'imperatore (^Purg.~ IV, 112-13).  L'analogia,
+meramente psicologica, potrebbe avere nell'animo di D.
+un'importanza che sfugge a noi moderni, se si pensa che negli
+anni in cui scriveva il Purg. l'imperatore era assente come
+autorit@a di giustizia e di piet@a.  <Traiano che accoglie la
+supplica della umile |vedova~ e si attesta vero imperatore, cio@e
+uomo eminentemente retto e pietoso, @e una luce che D. vide solo
+nella rievocazione e nella speranza.  Ma ad essa non cess@o mai di
+guardare; nella sua diuturna attesa, la consider@o la
+imprescindibile condizione della concordia e della pace.  I suoi
+versi, nutriti di tanto interiore lirismo, oltre che incanto
+poetico, sono ammaestramento di superiore civilt@a> (Roedel,
+^l.c.~ {^Il c. X del Purg.~, in <Lett. D. intern.>, Milano,
+1965}, 158).
+
+	|79-81.  Intorno a lui~: sogg. sott. lo spazio attorno a
+lui appariva (|parea~) affollato e pieno di cavalieri, di soldati
+a cavallo (D. ridimensiona la scena secondo il costume medievale)
+e le aquile (stemma romano) in campo d'oro (|ne l'oro~; Barbi,
+^Probl.~, I, 199) sopra di loro si movevano al vento visibilmente
+(|in vista~: ^Purg.~, I, 32).  In realt@a le insegne militari
+romane erano di metallo.  Ma D., secondo l'uso medievale, le ha
+trasformate in bandiere svolazzanti.  <Questa @e l'unica nota
+cromatica dei bassorilievi> (Mattalia, ^comm.~ 804).  <Nella
+scultura dei Pisani spesso troviamo le dorature sulle spade, le
+corazze, e perci@o D. crea l'espressione le aquile nell'oro, cio@e
+le insegne con le aquile dorate> (Fallani, ^l.c.~ {^Il c. X del
+Purg.~, Torino, S.E.I., 1953}, 27).
+
+	|82.  La miserella~: non @e un diminutivo, ma un
+miserativo, quasi ad evidenziare meglio il suo stato di dolore e
+di disperazione, isolandola psicologicamente in mezzo a quella
+folla di soldati.
+
+	|83.  vendetta~: fammi giustizia, rendimi giustizia,
+punendo il colpevole.  Anche in ^Atti degli Apostoli~, VII, 24:
+^vindicta~ ha il senso di giustizia punitiva, o giusta punizione.
+
+	|84.  ch'@e morto~: del mio figliuolo che @e stato ucciso
+(|morto~), per la qual ragione io sono addolorata.  |M'accoro~
+sembra spiegare in chiave psicologica il valore plastico e
+figurativo, che aveva assunto inizialmente il dolore quasi
+personificato: ^di lagrime atteggiata e di dolore~ {v. 78}.
+
+	|85-86.  rispondere~: dipende sempre da |pareva~: quindi
+spiega: appariva che egli rispondesse a lei: <Aspetta, attendi
+finch$e io non sia ritornato (dalla guerra)>.
+
+	|87.  come persona~: come persona in cui la tensione del
+dolore incalza (|s'affretta~) irresistibilmente, e, quindi, non
+tollera alcun indugio.  Si osservi come dal rilievo mimico venga,
+di volta in volta, fissato il termine dialogico.  Questa volta D.
+non solo descrive oggettivamente una realt@a, ma anche cerca di
+interpretarla.
+
+	|88-90.  Chi fia~: chi sar@a al mio posto (|dov'io~), cio@e
+il mio successore, ti far@a giustizia (|la~: nell'ital. antico il
+pronome di termine viene posposto al pronome ogg.).
+
+	|L'altrui bene~: il bene fatto da altri (|altrui~) per te
+che merito rappresenter@a (|fia~: sar@a), se tu trascuri, tralasci
+di fare (|metti in oblio~) quel bene, cio@e di rendere quella
+giustizia, quel dovere del tuo ufficio, che spetta solo a te?  La
+lezione morale che la vedovella d@a a Traiano @e tutta in questo
+richiamo al dovere personale di re, che non ammette dilazioni;
+l'umilt@a del sovrano consiste tutta nell'accettarla
+immediatamente.
+
+	|91-93.  Ond'elli~: subito l'imperatore risponde:
+Rassicurati, ti sia di conforto nel tuo dolore: che @e necessario,
+@e giusto (|convene~) che io assolva (|solva~: lat. ^solvere~,
+sciogliere), compia il mio dovere prima che parta (|mova~: lat.
+^castra movere~) per la guerra; il dovere, che io nella qualit@a
+di imperatore ho, di esercitare la giustizia mi impone (|vuole~)
+di farti giustizia; la piet@a per il tuo dolore mi trattiene
+(|ritene~).
+
+	|Giustizia~: cfr. ^Policraticus~: <Alterum namque
+justitiae, alterum pietatis est; quae adeo principi necessaria
+sunt> trad. uno @e il dovere della giustizia, l'altro @e dovere di
+piet@a; che sono egualmente necessarie ad un principe.  In questo
+verso di concretezza epigrafica D. conclude tutto il senso
+morale-politico dell'episodio di Traiano.  D. stesso aveva
+affermato nella ^Mon.~, II, v, 5: <@E pienamente giustificato il
+giudizio che dalla sorgente stessa della ^piet@a~ scatur@i l'impero
+romano>.  E nel ^Conv.~, II, x, 5: <E non @e ^pietade~ quella che
+crede la volgar gente, cio@e dolersi de l'altrui male, anzi @e
+questo uno suo speziale effetto, che si chiama misericordia ed @e
+passione; ma pietade non @e passione, anzi @e ^una nobile
+disposizione d'animo~, apparecchiata di ricevere amore,
+misericordia e altre caritative passioni>.
+
+	Nel ^Par.~, XIX, 13-15, D. fa parlare l'Aquila cos@i:
+<^Per esser giusto e pio / son io qui essaltato a quella gloria /
+che non si lascia vincere a disio~>.  <L'eccellenza del diritto
+romano @e in questa forza interiore, che vede, oltre la giustizia,
+la necessit@a di una ^pietas~, perch$e possa prender piena
+coscienza di s$e la realt@a umana.  Traiano agisce in conformit@a
+dell'ordine giuridico; amministra la giustizia in nome della
+legge, ma nella mozione, prima della sentenza, interviene l'atto
+religioso, ^la pietas~> (Fallani, ^l.c.~ {^Il c. X del Purg.~,
+Torino, S.E.I., 1953}, 28).
+
+	|94-96.  Colui~: Dio che, essendo fuori del tempo, non
+vide mai cosa che fosse nuova rispetto a Lui, poich$e nella sua
+mente tutte le cose sono ^ab aeterno~ presenti, produsse questo
+dialogare percepibile con la vista, in quanto risultava dalle
+sculture, straordinario, inusitato per noi uomini, perch$e qui in
+terra, nelle opere della scultura umana, non se ne trova di
+simili.  Infatti, al di l@a del loro valore artistico, quelle
+sculture vivono per l'elemento miracoloso che le compenetra e le
+ispira, il monito divino in esse contenuto, che @e al di l@a del
+tempo e delle dimensioni umane, se @e vero che il |parlare~ @e
+|visibile~, gli occhi e il naso contrastano nell'avvertire il
+fumo degli incensi, come l'udito e la vista nell'avvertire il
+canto.  Il valore divino di quelle sculture @e percepito da D.
+dalla confusione dei sensi, vista, udito, olfatto, tatto.
+
+	|98-99.  l'imagini~: gli esempi scolpiti (|imagini~) di
+cos@i grandi (|tante~) atti di umilt@a, e preziose (|care~) a
+vedersi per la miracolosa arte del loro artefice (|fabbro~),
+<L'animo di D. ha ormai superato lo smarrimento che lo aveva
+colto dopo la dura fatica attraverso la |pietra fessa.~  Con
+l'ultima mirabile visione d'umilt@a, in ispirito di giustizia e di
+amore, offertagli da Traiano, Dio ha parlato nel suo cuore e lo
+ha risollevato.  I mezzi di questo parlare sono adeguati a Colui
+che tutto pu@o> (Sampoli Simonelli, ^Il c. X del Purg.~, in <Studi
+Dant.>, XXXIII, 1955, p. 140).  L'importanza di questi rilievi ha
+una funzione catartica nell'animo di D. in quanto @e un ^visibile
+parlare~ {v. 95} operato direttamente dalla mano di Dio, e,
+quindi, rivelatore di piena fiducia ai suoi voleri, attraverso
+l'umilt@a che @e anche il primo gradino alla via della saggezza.
+
+	|100.  radi~: camminavano lentamente: sono i superbi
+gravati di pesi e costretti a tener bassa la cervice.
+
+	|102.  questi~: ci indicheranno la via per salire ai
+gironi superiori (|alti~).
+
+	|103-105.  per veder~: costruisci e spiega: i miei occhi,
+che pur erano soddisfatti (|contenti~) ad ammirare, a guardare
+(|mirare~) perch$e vedevano (|per veder~) cose nuove,
+straordinarie (|novitadi~; l'astratto rende meglio la meraviglia)
+di cui eran desiderosi (|vaghi~), rivolgendosi verso Virgilio
+(|lui~) non furon lenti, cio@e si rivolsero verso Virgilio
+rapidamente (furon rapidi nell'atto di rivolgersi a lui).  Altri
+spiega meno bene: i miei occhi, sebbene fossero paghi a guardare,
+non furon lenti nel rivolgersi a Virgilio, per vedere le cose
+nuove da lui annunciate, e di cui eran desiderosi.
+
+	|106-108.  lettor~: l'appello al lettore ha sempre,
+secondo la tecnica medievale e dantesca, un valore di monito
+morale, onde meglio richiamare l'attenzione al rapporto tempo ed
+eterno, umano e divino, mondo e aldil@a, specialmente nei passi
+pi@u difficili o di maggiore importanza nel racconto itinerale. 
+<Qui, in particolare, si esprime una consolazione, il pensiero
+della limitazione e della fine della penitenza> (Gmelin, ^l.c.~
+{^Il c. X del Purg.~, in <Lett. dant.> a cura del Getto, Firenze,
+1964}, 879).  Spiega: non vorrei, o lettore, che tu ti
+distogliessi (|ti smaghi~) dal buon proponimento di far penitenza
+perch$e hai udito dal mio racconto (|per udire~) con quali pene
+(|come~: ^quomodo~, in che modo) Dio vuole che si paghi a lui da
+parte del peccatore il debito delle colpe.  Continua la metafora
+della giustizia: |pagare il debito~, per scontare la pena, pagare
+il fio.
+
+	|109-111.  Non attender~: non badare alla qualit@a
+(|forma~) del castigo, della pena (|martire~), pensa che a quel
+che succede, vien dopo il tormento (|succession~), cio@e alla
+beatitudine che conseguirai dopo quelle pene.  Rifletti che nel
+caso peggiore, nella peggiore delle ipotesi (|al peggio~), quel
+martirio non pu@o durare oltre il giudizio universale, la fine del
+mondo (|gran sentenza~), perch$e allora gli uomini saranno
+giudicati da Dio in reprobi ed eletti.
+
+	<Questa improvvisa digressione rallenta in effetti
+l'immediatezza drammatica del racconto e parrebbe quasi
+attenuarne la c{o}ntinuit@a di emozione psicologica...
+Considerando i moduli retorici, l'intendimento moraleggiante, le
+ragioni della logica esplicativa, quest'ultima traccia di sermone
+popolaresco, tanto evidente negli intenti dei poemi allegorici e
+dottrinali predanteschi che, per un complesso di ragioni
+condizionavano il substrato scolastico e teologico della
+creazione dantesca, la digressione, nel suo complesso deve essere
+ammessa e giustificata> (Roffar@e, ^l.c.~ {^Il c. X del Purg.~,
+<Lett. scalig.>, Firenze, 1965}, 335).  La ^Commedia~ era anche
+un libro di apostolato, anche se non addirittura una Bibbia dei
+poveri per il pubblico pi@u colto dell'epoca di D.
+
+	|112-114.  persone~: quel viluppo di cose (|quel~) che io
+vedo venire verso di noi, non mi sembrano figure umane
+(|persone~), e non riesco a distinguere che cosa sia, tanto io mi
+smarrisco (|vaneggio~: vado a vuoto) nel vedere, in quel che
+vedo.  Infatti vedeva soltanto dei sassi che avanzavano, senza
+ancora poter distinguere i superbi che li portavano sulla
+cervice.  C'@e una linea psicologica che, cominciando
+indubbiamente e analogicamente dalla sequenza plastica degli
+esempi di umilt@a, si chiarifica finalmente in questa deformazione
+plastica del corpo umano, come rappresentazione oggettiva e
+sensoria del contrappasso dei superbi.
+
+	|115-117.  La grave~: la grave qualit@a del loro tormento
+li fa stare rannicchiati (|li rannicchia~) a terra, tanto che i
+miei occhi in un primo momento (|pria~) lottarono (|ebber
+tencione~), stentarono a riconoscere se fossero persone o no. 
+Cfr. Barbi, ^Probl.~, I, 281.
+
+	|118-119.  Ma guarda~: guarda fissamente, con attenzione,
+e cerca di distinguere (|disviticchia~: ha in senso contrario ad
+^avviticchia~, ^Inf.~, XXV 60: qui vale propr. ^districare~,
+^sciogliere~) con gli occhi (|viso~) da quella confusione, la
+gente (|quel~) che cammina (|vien~) sotto a quei sassi.
+
+	|120.  gi@a~: gi@a sei in grado (|puoi~) di scorgere come
+ciascuno @e battuto (|si picchia~: passivo, nel senso di: ^@e
+castigata~, Parodi, ^Bull.~, XXIII, 42-43) dalla giustizia di
+Dio.  Ma c'@e molto dissenso tra i commentatori: il Barbi intese:
+si batte il petto per contrizione (Steiner); il muover delle
+braccia sotto il sasso era uno degli atti pi@u visibili che quelle
+anime potesser fare, ^Probl.~, I, 224-25; ^Studi Dant.~, XII,
+185; sg.; il Benvenuto, il Bassermann e il Trombatore (^Postilla
+dantesca~, in <Ann. scol. Liceo Foscarini>, 1925-26) intendono:
+ognuno degli espianti stessi si percuote il petto con le
+ginocchia sotto il peso del sasso che lo opprime; altri ancora:
+nel senso di ^si lamenta~, ma leggendo ^si nicchia~, che @e
+lezione da scartare.  Ma il riferimento a ^Luca~, XVIII, 13 <il
+pubblicano... si percuoteva il petto, dicendo: O Dio, sii
+propizio verso di me che sono un peccatore> farebbe propendere
+per la tesi del Barbi, se non si ponesse la posizione stessa di
+quelle anime.  Finora la tesi Lana-Parodi @e la pi@u probabile.  Da
+notare ancora le rime gaglioffe <^rannicchia~-^disviticchia~-
+|picchia~> che sembrano con l'asprezza del loro suono evidenziare
+meglio la tensione plastica e drammatica delle anime sotto i
+gravi pesi, nonch$e lo sforzo di D. per vederle con chiarezza e
+distinzione dai loro massi.
+
+	|121-123.  O superbi~: o superbi cristiani (viventi in
+terra) infelici e sventurati, perch$e indifesi contro il male, che
+pur essendo ottenebrati d'intelletto (|infermi della vista~:
+ciechi, ottenebrati), avete fiducia (|fidanza~) giungere a buon
+fine, camminando all'indietro (|ne' retrosi passi~), cio@e
+attaccandovi alle cose vane del mondo, vi allontanate dalla meta
+suprema.
+
+	|124-126.  vermi~: noi siam vermi, esseri transitori e
+difettivi, destinati a dar vita all'anima che, in quanto
+immortale e partecipe della natura degli angeli (|angelica~),
+vola senza ripari, senza infingimenti (|schermi~) al cospetto
+della giustizia di Dio.  Cfr. S. Agostino, ^In Iohann.~, I, 13;:
+<Tutti gli uomini nascendo dalla carne che cos'altro sono, se non
+vermi?  E dai vermi Dio fa gli angeli>.  @E chiara qui la
+concezione medievale della vita terrena, secondo D., intesa come
+preparazione dell'anima per l'altra vita.  Questa vita @e, quindi
+^umbra futurorum~, una figura che dovr@a esser integrata
+nell'aldil@a, nobilitata dal giudizio divino nella qualit@a di
+anima, |farfalla angelica.~
+
+	|127-129.  galla~: di che cosa il vostro animo in terra
+insuperbisce (|galla in alto~: galleggia pi@u che in superficie),
+poich$e, dato che (|poi~) voi siete simili agli insetti
+(|entomata~, dal greco ^$entoma~ che @e plurale, ma D., non
+conoscendo il greco, considera singolare, formando quel plurale
+per analogia con ^poemata~) imperfetti (|in difetto~), in quanto
+non tramutati ancora in farfalla, come un verme il cui sviluppo
+(|formazion~) resta ancora incompiuto (|falla~: fallisce, manca)? 
+Questa esortazione contro la superbia umana, dominata
+dall'immagine della farfalla, simbolo dell'anima, in contrapposto
+alla imperfezione umana, raffigurata nel verme, @e
+un'anticipazione di quella contrizione interiore, che suggerisce
+all'animo di D. poeta e personaggio una prima riflessione sulla
+gloria umana e sulla miseria reale dell'uomo al primo incontro
+con i superbi puniti e penitenti.  Il motivo sar@a ripreso nel
+canto seguente.
+
+	|130-135.  Come~: come talvolta per sostenere un soffitto
+o un tetto ad uso di mensola si vede una cariatide (|figura~:
+sott. umana) rannicchiata in modo da congiungere le ginocchia al
+petto, la quale figura fa nascere, in chi la vede, vera angoscia
+(|rancura~) per una non vera sofferenza, contrazione (|del non
+ver~), a quel modo curvi (|cos@i fatti~) io vidi i superbi
+penitenti, quando riuscii ad osservarli attentamente.
+
+	Cariatidi si dissero in ricordo delle donne di Caria nel
+Peloponneso, le quali furon fatte schiave dagli Ateniesi, perch$e
+parteggiarono per i Persiani, e per quel tradimento rimasero
+imprigionate nella colonna a sostegno degli edifici della
+^polis.~  L'architettura romanica e gotica a sostegno di amboni e
+di pulpiti ed anche ad ornamento di facciate e di monumenti ne
+fece largo uso, onde evidenziare realisticamente il rapporto tra
+il peso e la forza del sostegno.
+
+	|136-139.  Vero @e~: vero @e che erano pi@u o meno
+rannicchiati (|contratti~) secondo che avevano addosso un peso
+maggiore o minore (secondo la gravit@a della colpa), e quella che
+nel suo atteggiamento mostrava un maggior patimento, cio@e
+soffriva di pi@u (Tommaseo) piangendo appariva che dicesse: non ne
+posso pi@u.  Altri intende: quella che nei suoi atti mostrava
+maggior pazienza, pi@u facile tolleranza al peso, pareva dire
+piangendo: non ne posso pi@u.
+
+	La difficolt@a sta nel senso da attribuire a |pazienza~;
+se si intende come ^patimento~ (Tommaseo e altri) si ha un senso
+pi@u drammatico nella rappresentazione plastica che si risolve in
+chiave psicologica.  Se a |pazienza~ si d@a il senso ovvio di
+^tolleranza~, il valore plastico della sequenza si risolve in
+senso moralistico.  Pu@o darsi che D. abbia tratto ispirazione da
+una porta della cattedrale di Civita Castellana, gi@a appartenente
+alla chiesa di S. Francesco.  Ivi erano due cariatidi, che
+portano scritti i termini di un loro dialogo.  Una chiede aiuto e
+l'altra risponde: non possum quia crepo, trad. non posso perch$e
+crepo (cfr. Fallani, ^l.c.~ {^Il c. X del Purg.~, Torino, S.E.I.,
+1953}, 37).
+
+	Pu@o anche darsi che si sia ispirato ad un passo di S.
+Agostino, derivato dai ^Salmi~: <Se io sar@o umile, tu mi
+esalterai; se sar@o superbo mi farai piegare: a te non manca il
+carico che mi faccia abbassare la testa.  Quel carico sar@a il
+fascio delle mie colpe, che mi verr@a posto sul capo, ^sicch$e io
+ne andr@o curvo~ tanto da non potermi pi@u drizzare> (^Vita
+cristiana~, p. 402, cit. Steiner, 486, comm.). 

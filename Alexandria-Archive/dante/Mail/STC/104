@@ -1,0 +1,204 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id NAA08097
+	for <steve@avalon.dartmouth.edu>; Sat, 17 Jan 1998 13:16:20 -0500
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id NAA04631
+	for <Steve.Campbell@dartmouth.edu>; Sat, 17 Jan 1998 13:16:18 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 4901 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <541169-23928>; Sat, 17 Jan 1998 13:11:22 -0500
+Received: from phoenix.Princeton.EDU (bobh@phoenix.Princeton.EDU [128.112.131.153]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id NAA04633 for <Steve.Campbell@dartmouth.edu>; Sat, 17 Jan 1998 13:11:20 -0500
+Received: (from bobh@localhost)
+	by phoenix.Princeton.EDU (8.8.8/8.8.8) id NAA23358
+	for Steve.Campbell@dartmouth.edu; Sat, 17 Jan 1998 13:11:20 -0500 (EST)
+Message-Id: <199801171811.NAA23358@phoenix.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sat, 17 Jan 1998 13:11:20 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+
+	MASTERLIST OF ERRATA FROM THREE SOURCES AT D'MTH:
+		(1) ~dante/Mail/STC/
+		(2) ~dante/Commentaries/Typos
+		(3) ~dante/Commentaries.new/Typos
+
+key: STC = things that only Steve can do
+     zip = things that require no action, but keep for info.
+
+For (1) I am giving a complete descriptive list; for (2) and (3)
+I have only recorded items that involve Steve; those that do not
+show up here are now incorporated in my master errata files and
+Steve may disregard them: but let's leave them in place just
+in case my stuff ever blows up.
+
+NB: I have reminded Steve that both directories (2) and (3)
+holding typos should NOT be added to after 1/17/98.  We need a
+new Typos directory somewhere for casual things that I or others
+may note and send to D'mth from this date forward so that we do
+not in the future need to check through all old Typos in order to
+separate them from new ones.
+
+		(1) ~dante/Mail/STC/
+
+1	PIETRO2/PIETRO1 situation (more on this below)  STC
+5	note from Smurthwaite				zip
+6	more on loading PIETRO2/PIETRO1 (see #57)	STC
+20	message from Nancy Davies re. external accts.	zip
+28	VELLUTELLO loading instructions;
+	query re. stop words;
+	problem of double spaces after abbreviations	STC
+29	directions to Steve on redoing welcome screens	zip
+		(this done; and see later version, #90)
+38	scrambled screens in SERRAVALLE			STC
+39	CARROLL disks (taken care of)			zip
+43	CHIMENZ missing from welcome screen (fixed)	zip
+44	queries about BOCCACCIO (dealt with elsewhere)
+	and BOSCO (taken care of)			zip
+45	Bianchi's (York) list of errors (superseded)	zip
+46	Bianchi's list of errors: statistics		zip
+47	DANIELLO prob., Pur. 19 (see also ##53, 70, 73) STC
+48	BOSCO errata, partial list (superseded)		zip
+49	renaming of docs. in BOCCACCIO (important)	STC
+50	cover memo for #49				zip
+51	promise to send BOSCO probs.			zip
+52	renaming of docs. in BOSCO (important)		STC
+53	DANIELLO prob., Pur. 19 (see also ##47, 70, 73) STC
+54	Greek problems and a further DANIELLO prob.	STC
+55	tildes						zip
+56	double hit in LOMBARDI (Par. 14); (forget typo)	STC
+57	more on loading PIETRO2 (see ##1, 6)		STC
+58	Bob's 1995 survey, status of comms. (outdated?) STC
+59	message from Pisa				zip
+60	Bob about Pisa					zip
+61	more about Pisa					zip
+62	Toby Paff: wordlist (Par. 21 BOSCO) for Pisa	zip
+63	cover note for #62				zip
+65	Steve to Pisa					zip
+66	Steve to Pisa (2)				zip
+67	Pisa to Steve: wordlist (BinHex)		zip
+68	Pisa to Steve: lemmatized word list		zip
+69	Bob: why six wrong words not show in Pisa list?	zip
+70	DANIELLO prob., Pur. 19 (see also ##47, 53, 73) STC
+71	Toby: "good" BOSCO words (superseded)		zip
+72	possible CETH help for DDP			zip
+73	DANIELLO prob., Pur. 19 (see also ##47, 53, 70) STC
+74	SAPEGNO problem (Purg. 16)			STC
+75	Bob report on BOSCO				zip
+76	Jennifer Merril to Steve: moving to agate	zip
+77	CAMPI problem (dealt with)			zip
+78	PASQUINI prob. (Inf. 27): dealt w. elsewhere	zip
+79	ditto						zip
+80	PASQUINI: text of cleaned up Inf. 27		STC
+81	ditto: is this now in PASQUINI directory?	STC
+82	Bob's plans for cleaning up comms.		zip
+83	Bob's revised errata list (1995): superseded	zip
+84	ditto						zip
+85	Fillia Makedon proposal				zip
+86	ditto, no. 2					zip
+87	ditto, no. 3					zip
+88	Bob's answer to Fillia				zip
+89	board of DDP					zip
+90	Bob to STC: redoing welcome screens (see #29)	zip
+91	Bob saying he's sending SINGLETON Purg.		zip
+92	Bianchi list update (6/30/97)			zip
+93	PORENA note problem				STC
+94	PORENA note solution as per Bob			STC
+95	text of TOZER Inf. IV.70-end			STC
+96	Bob's enduring questions (summary)		STC
+97	DDP pirate					zip
+98	Steve's awareness of LOMBARDI prob. (#56)	STC
+99	Bob's queries about data correction		zip
+100	CASTELVETRO Greek problems: how to fix? (Steve,
+	I was denied permission to uncompress the Cstlv.
+	files to check 'em out.  We can talk this one
+	into submission, I think); OTTIMO problem	STC
+101	Malcolm on data correction			zip
+102	Bob ready to clean data				zip
+103	Steve's response				zip
+
+		(2) ~dante/Commentaries/Typos
+
+[NB: For (2) & (3) I have used the NAME of the file of the typo
+as the identifier where I used Steve's numbers for (1)]
+
+cassinALL	date problem and how to fix it
+
+guido-inf	two things (disregard typos):
+  numbering error: doc. #358: Inf. 15.70-71 = Inf. 15.69-71
+
+  Delete lines that read "/^   |Expos/d" and run through "uniq"
+in order to delete duplicate blank lines.  (Steve: I don't
+understand this last one; maybe you can figure it out)
+
+ottimo		fix first bibliographical screen
+
+serravalle-purg The 3rd item is for you, a numbering prob.
+			(disregard the other four)
+
+
+		(3) ~dante/Commentaries.new/Typos
+
+benvenuto	emend description (henceforward "desc.") of comm.
+
+bianchi		flag date for BIANCHI wrong;
+		desc.: fix editor's name
+
+costa		make a change in "Info."
+
+fiorentino	desc.
+
+lana		desc. (disregard 3 typos)
+
+pietro2		desc.
+
+pietrobono	desc.
+
+singleton	desc.
+
+steiner		desc.
+
+tommaseo	desc.
+
+vellutello	desc.
+
+
+(4) OTHER ERRORS _NOT_ DRAWN FROM THESE FIRST THREE SOURCES:
+
+---	TOZER, Par. 11: two numbering errors:
+		doc. 3544: Par. 11.31-4 = Par. 11.31-34
+		docs. 3555 & 3556: this a bit complex:
+
+Doc. 3555 breaks off with a hyphen.  It wants to be followed by
+the number 173, with the rest of the note that now occupies doc.
+3556, and doc. 3556 should disappear.  Will the rest of the 
+docs. in Tozer automatically renumber?  I hope so.  Let me say
+this over.  Docs. 3555 & 3556 are really a single entry for
+verses 61-62.  Someone put the number "173" as though it were a
+new entry for that verse (which doesn't exist -- no canto is
+longer than 160 verses); we need to restore the actual text.
+
+VELLUTELLO: the opening 4-screen note is labelled "Inf. 1"; it
+should be "Proemio."
+
+SAPEGNO has a series of duplicate/erroneous entries as follows:
+
+docum. #4876 (Purg. 19.145) is OK
+	4877 (Purg. 19.Nota is OK BUT needs to drop last line:
+	     "quel ecc."
+	4878-4902 are copies of texts already correctly appearing 	
+	in Purg. _16_, here mislabelled as Purg. 19.  All of
+	these need to be EXCISED (this will cause a renumbering
+	of the docs. of Sapegno)
+	4903 (Purg. 20.1) is OK again.
+
+REMINDER: I sent you the revised 2nd half of SINGLETON's Purg.:
+you put it in Commentaries.new.  We need to be careful about what
+versions of his comm. we put up when we reload.  Also, Janet left
+bags of typos in Singleton.  I have a long list and need to check
+them against the cleaned up version before we load.  We both need
+to remember this.  Inferno was redone with I think great care by
+Sharon Girard; for some reason I thought the first half of Purg.
+was OK (let us pray), and only did from 18 on.  I know I did ALL
+of Paradiso (before I did Purg.), and hope you have the good
+files for it.
+
+That's all for now.

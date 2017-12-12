@@ -1,0 +1,341 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Daniello
+	Language   = Italian
+	Pub. Year  = 1568
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33942 Apr  3 21:44 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26031 Apr  3 21:44 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       25952 Apr  3 21:44 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27309 Apr  3 21:45 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       16295 Apr  3 21:45 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23714 Apr  3 21:45 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15417 Apr  3 21:45 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       20115 Apr  3 21:45 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       20115 Apr  3 21:46 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       18633 Apr  3 21:46 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33436 Apr  3 21:46 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       28642 Apr  3 21:46 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       20667 Apr  3 21:46 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29724 Apr  3 21:47 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/purg/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       22578 Apr  3 21:47 ../staging/purg/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38915 Apr  3 21:47 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23837 Apr  3 21:47 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27211 Apr  3 21:48 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26801 Apr  3 21:48 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/purg/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27073 Apr  3 21:48 ../staging/purg/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30181 Apr  3 21:48 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       22579 Apr  3 21:48 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/purg/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       17232 Apr  3 21:48 ../staging/purg/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23535 Apr  3 21:49 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/purg/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27785 Apr  3 21:49 ../staging/purg/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.f into ../staging/purg/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       19894 Apr  3 21:49 ../staging/purg/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23908 Apr  3 21:49 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       24694 Apr  3 21:49 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       24268 Apr  3 21:50 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       24911 Apr  3 21:50 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       22789 Apr  3 21:50 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29515 Apr  3 21:50 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Daniello...
+Verifying Daniello...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27645 Apr  3 21:50 ../staging/purg/33

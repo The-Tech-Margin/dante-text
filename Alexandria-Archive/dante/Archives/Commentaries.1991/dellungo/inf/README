@@ -1,0 +1,3 @@
+Desc has LUNGO as name instead of Del Lungo.  This is because
+the AUTH line will not allow any spaces in the field.  (they screw
+up the sorting program).

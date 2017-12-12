@@ -1,0 +1,71 @@
+:VALID DANT XDDP NDDP
+\~
+\~	Print-time formatting of brief displays for DANT
+\~
+:SET BUF0=COMM
+:SET BUF1=DTYP:1C "T"
+:SET BUF2=CTCA: A3C 3C
+:SET BUF3=CNTO
+:SET BUF4=LINE
+:SET BUF5=ENDL
+:SET BUF6=PUBD
+\~	formatting for Descriptor documents
+:IF BUF1 = "D"
+Information about #BUF0 (#BUF6)
+:ENDIF
+\~	formatting for commentary text 
+:IF BUF1 = "T"
+:IF BUF4
+:IF BUF4 ! BUF5
+#BUF0(#BUF6), #BUF2. #BUF3.#BUF4-#BUF5
+:ELSE
+#BUF0(#BUF6), #BUF2. #BUF3.#BUF4
+:ENDIF
+:ELSE
+#BUF0(#BUF6), #BUF2. #BUF3
+:ENDIF
+:IF BUF7 = "copyright"
+:SET FMT=ON
+[Copyrighted Material]\n
+:ENDIF
+:IF BUF7 = "litterale"
+:SET FMT=ON
+[Esposizione Litterale]\n
+:ENDIF
+:IF BUF7 = "allegorica"
+:SET FMT=ON
+[Esposizione Allegorica]\n
+:ENDIF
+:ENDIF
+\~
+\~	Formatting for non-line-specific documents
+\~
+:IF BUF1 = "I"
+:IF BUF2
+:IF BUF3
+#BUF0(#BUF6), #BUF2. #BUF3 Nota.
+:ELSE
+#BUF0(#BUF6), #BUF2. Nota.
+:ENDIF
+:ELSE
+#BUF0(#BUF6), Nota.
+:ENDIF
+:IF BUF7 = "copyright"
+:SET FMT=ON
+|\l8[Copyrighted Material]\n
+:ENDIF
+:IF BUF7 = "litterale"
+:SET FMT=ON
+|\l8[Esposizione Litterale]\n
+:ENDIF
+:IF BUF7 = "allegorica"
+:SET FMT=ON
+|\l8[Esposizione Allegorica]\n
+:ENDIF
+:ENDIF
+\~
+\~	Formatting for The Poem
+\~
+:IF BUF1 = "P"
+#BUF0(#BUF6), #BUF2. #BUF3.#BUF4-#BUF5
+:ENDIF

@@ -1,0 +1,87 @@
+head     1.2;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.2
+date     86.09.18.09.16.59;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     86.09.15.17.43.02;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@read a tape from BYU
+@
+
+
+1.2
+log
+@changed invocation to "byutape  file-count"
+@
+text
+@#! /bin/csh -f
+
+# read a file or files from a tape made at Brigham Young University
+#
+#	Usage
+#		byutape  count
+#
+#	where "count" is a positive integer equal to the number of
+#	files on the tape.  The output files will be named
+#	byuout.1001, byuout.1002, etc.
+
+if ($#argv == 0) then
+	echo Usage: $0  integer
+	exit 1
+endif
+if (-e byuout.1001) then
+	echo File byuout.1001 already exists.
+	exit 1
+endif
+
+@@ LIMIT = 1000 + $1
+@@ NUM = 1001
+
+while ($NUM <= $LIMIT)
+	set FILE = byuout.$NUM
+	dd if=/dev/rmt4 ibs=800  |  tr -d '\015' > $FILE
+	ls -l $FILE
+	@@ NUM = $NUM + 1
+end
+mt off
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 1
+a1 1
+#! /bin/sh
+d3 8
+a10 1
+: read a file or files from a tape made at Brigham Young University
+d12 8
+a19 5
+:	Usage
+:		byutape  filename1  filename2  ...
+:
+:	for as many files as there are on the tape.  The files will be saved
+:	as "filename1", etc.
+d21 5
+a25 2
+for FILE
+do
+d28 2
+a29 1
+done
+@

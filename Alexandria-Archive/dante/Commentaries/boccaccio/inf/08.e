@@ -1,0 +1,916 @@
+&&attributes litterale
+
+	|Proemio.~  <Io dico, seguitando, ch'assai prima> etc. 
+Continuasi l'autore in questo canto alle cose precedenti in
+questa forma, che, avendo nella fine del precedente canto
+mostrato come, alquanto agirata della palude di Stige,
+pervenissero appi@e d'una torre, nel principio di questo dimostra
+quello che, avanti al pi@e della torre pervenissero, vedessero,
+discrivendo poi quello che, di ci@o che videro, seguisse: e
+intende l'autore dimostrare in questo come, trasportati da
+Flegi@as dimonio per nave, pervenissero alla porta della citt@a di
+Dite.  E dividesi il presente canto in quatro parti: nella prima
+dimostra l'autore come, vedute certe fiamme sopra due torri,
+distanti l'una all'altra, un demonio chiamato Flegi@as venisse in
+una barchetta, e come in quella Virgilio ed esso discendessero;
+nella seconda discrive l'autore ci@o che, navicando per la padule,
+udisse e vedesse d'uno spirito chiamato Filippo Argenti; nella
+terza mostra come, giunti nel fosso della citt@a di Dite, e quindi
+alla porta di quella pervenissero; nella quarta pone la racolta
+fatta loro da' dem@oni, che sopra la porta o alla entrata della
+porta erano, e come, avendo Virgilio parlato con loro, gli fosse
+da loro chiusa la porta nel petto e turbato a lui se ne tornasse
+e quel che dicesse.  La seconda comincia quivi: <Mentre noi
+corravamo>; la terza quivi: <Quivi il lasciammo>; la quarta
+quivi: <Non senza prima fare>.
+
+	|1.~  Dice adunque nella prima: |Io dico, seguitando~:
+Nelle quali parole si pu@o alcuna ammirazion prendere in quanto,
+senza dirlo, puote ogni uom comprendere esso aver potuto seguire
+la materia incominciata; e s@i ancora perch$e insino a qui non ha
+alcun'altra volta usato questo modo di continuarsi alle cose
+predette.  E perci@o, acci@o che questa ammirazion si tolga via, @e
+da sapere che Dante ebbe una sua sorella, la quale fu maritata ad
+un nostro cittadino chiamato Leon Poggi, il quale di lei ebbe pi@u
+figliuoli; tra' quali ne fu uno di pi@u tempo che alcuno degli
+altri, chiamato Andrea, il quale maravigliosamente nelle
+lineature del viso somigli@o Dante e ancora nella statura della
+persona, e cos@i andava un poco gobbo, come Dante si dice che
+facea, e fu uomo idioto, ma d'assai buono sentimento naturale e
+ne' suoi ragionamenti e costumi ordinato e laudevole; dal quale,
+essendo io suo dimestico divenuto, io udi' pi@u volte de' costumi
+e de' modi di Dante; ma, tra l'altre cose che pi@u mi piacque di
+riservare nella memoria, fu ci@o che esso ragionava intorno a
+quello di che noi siamo al presente in parole.
+
+	Diceva adunque che, essendo Dante della setta di messer
+Vieri de' Cerchi e in quella quasi uno de' maggiori caporali,
+avvenne che, partendosi messer Vieri di Firenze con molti degli
+altri suoi seguaci, esso medesimo si part@i e andossene a Verona. 
+Appresso la qual partita, per sollicitudine della setta
+contraria, messer Vieri e ciascun altro che partito s'era, e
+massimamente de' principali della setta, furono condennati, s@i
+come ribelli, nell'avere e nella persona, e tra questi fu Dante;
+per la qual cosa segu@i che alle case di tutti fu corso a romore
+di popolo e fu rubato ci@o che dentro vi si trov@o.  @E vero che,
+temendosi questo, la donna di Dante, la qual fu chiamata madonna
+Gemma, per consiglio d'alcuni amici e parenti, aveva fatti trarre
+della casa alcuni forzieri con certe cose pi@u care e con
+iscritture di Dante e fattigli porre in salvo luogo.  E, oltre a
+questo, non essendo bastato l'aver le case rubate, similmente i
+parziali pi@u possenti occuparono chi una possessione e chi
+un'altra di que' condennati; e cos@i furono occupate quelle di
+Dante.
+
+	Ma poi, passati ben cinque anni o pi@u, essendo la citt@a
+venuta a pi@u convenevole reggimento che quello non era quando
+Dante fu condennato, dice le persone cominciarono a domandare
+loro ragioni, chi con un titolo e chi con un altro, sopra i beni
+stati de' ribelli, ed erano uditi: per che fu consigliata la
+donna che ella, almeno con le ragioni della dote sua, dovesse de'
+beni di Dante radomandare.  Alla qual cosa disponendosi ella, le
+furon di bisogno certi istrumenti e scritture, le quali erano in
+alcuno de' forzieri, li quali ella in su la furia del mutamento
+delle cose aveva fatti fuggire, n$e poi mai gli avea fatti
+rimuovere del luogo dove diposti gli aveva.  Per la qual cosa
+diceva questo Andrea che essa avea fatto chiamar lui, s@i come
+nepote di Dante, e, fidategli le chiavi de' forzieri, l'aveva
+mandato con un procuratore a dovere cercare delle scritture
+oportune.  Delle quali mentre il procurator cercava, dice che,
+avendovi pi@u altre scritture di Dante, tra esse trov@o pi@u sonetti
+e canzoni e simili cose; ma, tra l'altre che pi@u gli piacquero,
+dice fu un quadernetto, nel quale di mano di Dante erano scritti
+i precedenti sette canti: e per@o presolo e recatosenelo, e una
+volta ed altra rilettolo, quantunque poco ne 'ntendesse, pur
+diceva gli parevan bellissima cosa.  E per@o diliber@o di dovergli
+portare, per sapere quello che fossero, ad un valente uomo della
+nostra citt@a, il quale in que' tempi era famosissimo dicitore in
+rima, il cui nome fu Dino di messer Lambertuccio Frescobaldi; il
+qual Dino, essendogli maravigliosamente piaciuti e avendone a pi@u
+suoi amici fatta copia, conoscendo l'opera essere pi@u tosto
+iniziata che compiuta, pens@o che fossero da dover rimandare a
+Dante, e di pregarlo che, seguitando il suo proponimento, vi
+desse fine.
+
+	E avendo investigato e trovato che Dante era a quei tempi
+in Lunigiana con un nobile uomo de' Malespini, chiamato il
+marchese Morruello, il quale era uomo intendente e in singularit@a
+suo amico, pens@o di non mandargli a Dante, ma al marchese, che
+gliele mostrasse; e cos@i fece, pregandolo che, in quanto potesse,
+desse opera che Dante continuasse la 'mpresa, e, se potesse, la
+finisse.  Pervenuti adunque li sette canti predetti alle mani del
+marchese ed essendogli maravigliosamente piaciuti, gli mostr@o a
+Dante; e avendo avuto da lui che sua opera erano, il preg@o gli
+piacesse di continuare la 'mpresa.  Al qual dicono che Dante
+rispuose: -- Io estimava veramente che questi, con altre mie cose
+e scritture assai, fossero, nel tempo che rubata mi fu la casa,
+perduti, e per@o del tutto n'avea l'animo e 'l pensiero levato:
+ma, poich$e a Dio @e piaciuto che perduti non sieno, ed hammegli
+rimandati inanzi, io adoperer@o ci@o che io potr@o di seguitare la
+bisogna secondo la mia disposizione prima.  -- E quinci,
+rientrato nel pensiero antico e reassumendo la 'ntralasciata
+opera, disse in questo principio del canto VIII: <Io dico,
+seguitando> alle cose lungamente intralasciate.
+
+	Ora questa istoria medesima puntalmente, quasi senza
+alcuna cosa mutarne, mi racont@o gi@a un ser Dino Perini, nostro
+cittadino e intendente uomo, e, secondo che esso diceva, stato
+quanto pi@u esser si potesse famigliare e amico di Dante; ma in
+tanto muta il fatto, che esso diceva non Andrea Leoni, ma esso
+medesimo essere stato colui, il quale la donna avea mandato a'
+forzieri per le scritture e che avea trovati questi sette canti e
+portatigli a Dino di messer Lambertuccio.
+
+	Non so a quale io mi debba pi@u fede prestare; ma qual che
+di questi due si dica il vero o no, m'occorre nelle parole loro
+un dubbio, il quale io non posso in maniera alcuna solvere che mi
+sodisfaccia.  E il dubbio @e questo: introduce nel VI canto
+l'autore Ciacco e fagli predire come, avanti che il terzo anno,
+dal d@i che egli dice, finisca, conviene che caggia dello stato
+suo la setta, della quale era Dante; il che cos@i avvenne, per ci@o
+che, come detto @e, il perdere lo stato la setta Bianca e il
+partirsi di Firenze fu tutto uno; e per@o, se l'autore si part@i
+all'ora premostrata, come poteva egli avere scritto questo?  E
+non solamente questo, ma un canto pi@u?  Certa cosa @e che Dante
+non avea spirito profetico, per lo quale egli potesse prevedere e
+scrivere, e a me pare esser molto certo che egli scrisse ci@o, che
+Ciacco dice, poi che fu avvenuto: e per@o mal si confanno le
+parole di costoro con quello che mostra essere stato.  Se forse
+alcun volesse dire l'autore, dopo la partita de' Bianchi, esser
+potuto occultamente rimanere in Firenze, e poi avere scritto anzi
+la sua partita il VI e 'l VII canto, non si conf@a bene con la
+risposta fatta dall'autore al marchese, nella qual dice s$e avere
+creduto questi canti con l'altre sue cose essere stati perduti,
+quando rubata gli fu la casa.  E il dire l'autore aver potuto
+agiungere al VI canto, poi che gli riebbe, le parole le quali fa
+dire a Ciacco, non si pu@o sostenere, se quello @e vero che per li
+due superiori si raconta, che Dino di messer Lambertuccio
+n'avesse data copia a pi@u suoi amici, per ci@o che pur
+n'aparirebbe alcuna delle copie senza quelle parole, o pur per
+alcuno antico, o in fatti o in parole, alcuna memoria ne sarebbe. 
+Ora, come che questa cosa si sia avvenuta o potuta avvenire,
+lascer@o nel giudicio de' lettori: ciascun ne creda quello che pi@u
+vero o pi@u verisimile gli pare.
+
+	|2-3.~  Tornando dunque al testo, dice: |Io dico
+seguitando~, alle cose predette, |ch'assai prima Che noi~, cio@e
+Virgilio e io, |fossimo al pi@e dell'alta torre~, alla quale nella
+fine del precedente canto scrive che pervennero, |Gli occhi
+nostri n'andar~, riguardando, |suso alla cima~, cio@e alla sommit@a
+della torre predetta.
+
+	|4-6.~  E appresso dimostra la cagione per che gli occhi
+verso la cima levarono, dicendo: |Per due fiammette~, cio@e
+piccole fiamme, |che i' vedemmo porre~, in su quella sommit@a
+della torre, |e un'altra~, fiamma, |da lungi~, di questa torre,
+|render cenno~, s@i come far si suole per le contrade nelle quali
+@e guerra, che, avvenendo di notte alcuna novit@a, il castello o il
+luogo, vicino al quale la novit@a avviene, incontanente per un
+fuoco o per due, secondo che insieme posti si sono, il fa
+manifesto a tutte le terre e ville del paese.  E dice che questo
+cenno d'una fiamma fu renduto di lontano, |Tanto ch'a pena il
+potea l'occhio torre~, cio@e discernere altro.
+
+	|7-9.~  Ma pure, poi che tolto l'ebbe, dice: |Ed io mi
+volsi al mar~, cio@e all'abondanza, |di tutto il senno~, cio@e a
+Virgilio, del quale nel principio del canto precedente dice: <E
+quel savio gentil, che tutto seppe>; e seguita: |Dissi: questo
+che dice?~, cio@e: che significa il fuoco, il quale @e qui sopra di
+noi fatto in questa torre?; |e che risponde Quell'altro fuoco?~,
+il quale io veggio fare sopra la torre, la quale n'@e lontana; |e
+chi son que' che 'l fenno?~, questo ch'@e sopra noi e quello
+ancora che n'@e pi@u rimoto.
+
+	|10-12.  Ed egli a me: su per le sucid'onde~, di Stige,
+le quali chiama |sucide~ perch$e nere e brutte erano, |Gi@a puoi
+scorger~, cio@e di lontan vedere, |quello che s'aspetta~, di
+dovere avvenire per questo fuoco e per quello, |Se 'l fummo~,
+cio@e la nebbia, |del pantan nol ti nasconde~, per ci@o che la
+nebbia, dove non si diradi, ha a tor la vista delle cose, alle
+quali ella @e davanti e mezza tra esse e l'occhio del riguardante.
+
+	|13-18.~  E, questo avendo Virgilio risposto, seguita
+l'autore e dimostra quello che segu@i de' fuochi sopra le due
+torri veduti, dicendo: |Corda~, d'alcuno arco, |non pinse mai da
+s@e saetta Che s@i corresse~, cio@e volasse, |via per l'aere
+snella~, cio@e leggiere, |Com'io vidi una nave piccioletta Venir
+per l'acqua~, della palude, |verso noi in quella~, che Virgilio
+diceva: <gi@a puoi scorgere> etc.; |Sotto il governo d'un sol
+galeotto.~  <Galeotti> son chiamati que' marinai li quali servono
+alle galee; ma qui, ^licentia poetica~, nomina galeotto il
+governatore d'una piccola barchetta; e dice: |Che~, questo
+galeotto, |gridava: or se' giunta, anima fella!~, cio@e malvagia. 
+E, come assai apare, l'autore in questo quinto cerchio non ha
+ancor mostrato essere alcun dimonio, il quale preposto sia al
+tormento de' dannati in esso, n$e che con alcuno atto lo spaventi,
+come suol fare ne' cerchi di sopra, e perci@o il pone in questo
+luogo; e questo @e artificiosamente fatto, per ci@o che non sempre
+d'una medesima cosa si dee in un medesimo modo parlare.  Ponlo
+adunque, per variare alquanto il modo del dimostrare, qui infra
+'l cerchio, per ci@o che tutto @e del quinto cerchio ci@o che si
+contiene infino alla entrata della citt@a di Dite.
+
+	E in quanto le parole di questo galeotto sono in numero
+singulare, par che sien dirizate dal dimonio pure all'un di lor
+due, cio@e a Virgilio, il quale era anima e non uomo: e per@o si
+pu@o comprendere questo dimonio avere da occulta virt@u sentito
+l'autore non venir come dannato, e per@o lui non avere in esso
+alcuna potest@a; ma esso gridar contro a Virgilio, acci@o che
+l'autore spaventasse e, spaventandolo, il rimovesse dal suo buon
+proponimento: cio@e dal voler conoscere le colpe de' peccatori e i
+tormenti dati a quelle, acci@o che per lo conoscer delle colpe
+apparasse quello che era da fuggire e per la pena prendesse
+timore e quindi compunzione, se per avventura in quella colpa
+caduto fosse.
+
+	|19-21.~  Al qual dimonio cos@i gridante disse Virgilio:
+|Flegi@as, Flegi@as~; era questo il propio nome del dimonio che la
+nave menava, il quale Virgilio quasi dirisivamente due volte
+nomina, seguitando: |tu gridi a v@oto~, cio@e per niente, |Disse lo
+mio signore.~  E poi soggiugne la cagione per la quale Flegi@as
+grida a v@oto, dicendo: |a questa volta~, che qui se' venuto, |Pi@u
+non ci avrai che~, tu t'avessi, |sol passando il loto~, cio@e il
+padule pieno di loto.
+
+	|22-24.~  E, questo detto, dimostra quello che a Flegi@as
+paresse, queste parole udendo e credendole, e dice: |Quale @e
+colui che grande inganno ascolta Che gli sia fatto~, che prima si
+turba, |e poi se ne ramarca~, con gli amici e con altrui; |Tal si
+f$e Flegi@as nell'ira acolta~, parendogli essere ingannato in ci@o,
+che alcun di lor due non dovesse rimanere e che esso invano
+passasse il loto: che forse mai pi@u avvenuto non gli era.
+
+	E, avanti che pi@u si proceda, @e da sapere che, secondo
+che scrive Lattanzio ^in libro Divinarum institutionum~, questo
+Flegi@as fu figliuolo di Marte, uomo malvagio e arrogante e
+fastidioso contro agl'idii.  Ebbe questo Flegi@as, secondo che
+Servio dice, due figliuoli, Isione e una ninfa chiamata Coronide,
+la quale, essendo bellissima, piacque ad Apolline, idio della
+medicina; di che segu@i che Apolline giacque con lei e
+ingravidolla, ed essa poi partur@i un figliuolo, il quale fu
+chiamato Esculapio.  La qual cosa sentendo Flegi@as e adiratosi
+forte, senza prendere altro consiglio, impetuosamente corse in
+Delf@os, e quivi mise fuoco nel tempio d'Apolline, il quale a que'
+tempi dall'error de' Gentili era in somma reverenzia e divozione
+quasi di tutto il mondo, per ci@o che quivi ogni uomo per risponsi
+delle bisogne sue concorreva.  E fu questo tempio arso da
+Flegi@as, secondo che scrive Eusebio ^in libro Temporum~, l'anno
+XXIII di Danao, re degli Argivi, il quale fu l'anno della
+creazione del mondo MMMDCCLII.  E, oltre a questo, scrivono
+alcuni che esso uccise la figliuola, la quale, per ci@o che vicina
+era al tempo del parto, fu da alcuni aperta e trattale la
+creatura, gi@a perfetta, del ventre e allevata: e questi che cos@i
+eran tratti de' ventri delle madri erano consegrati ad Apolline,
+in quanto per beneficio della sua deit@a, cio@e dell'arte della
+medicina, erano in vita tratti.  Scrivono, oltre a ci@o, i poeti,
+che Apolline, essendo turbato di ci@o, che Flegi@as avea arso il
+tempio suo, il fulmin@o e mandonne l'anima sua in inferno e
+condannolla a questa pena, che egli stesse sempre sotto un
+grandissimo sasso, il quale parea che ognora gli dovesse cadere
+addosso; di che egli sempre stava in paura.  E di lui scrive
+Virgilio nel VI dell'^Eneida~:
+
+     ^.....Phlegyas[que] miserrimus omnes~
+     ^admonet, et magna testatur voce per umbras~:
+     ^discite iustitiam moniti, et non temnere divos~ ^etc.~
+
+	|25-27.  Lo duca mio~: Poi che l'autore ha dimostrato
+Flegi@as essersi turbato del non dovere acquistar pi@u che sol
+passando il loto, ed egli scrive come con Virgilio scendesse
+nella nave di Flegi@as; per che comprender si puote che altra via
+non v'era da potere pi@u avanti procedere, senza valicar per nave
+il padule.  E dice: |discese nella barca E poi mi fece entrare~,
+nella barca, |appresso lui; E sol quando fu' dentro parve carca~:
+in che assai ben si comprende che lo spirito non @e d'alcun peso,
+ma che il corpo @e quello che @e grave.  @E questa parte presa da
+Virgilio dove dice, nel VI dell'^Eneida~, come Enea trapass@o per
+nave Acheronte, dicendo cos@i:
+
+     ^..................simul accipit alveo~
+     ^ingentem Eneam.  Gemuit sub pondere cymba~
+     ^subtilis, et multam accepit rimosa paludem etc.~
+
+	|28-30.~  Poi segue l'autore: |Tosto che 'l duca ed io
+nel legno fui~, cio@e nella barca; e usa qui l'autore il general
+nome delle navi per lo speziale, per ci@o che generalmente ogni
+vasello da navicare @e chiamato |legno~, quantunque non s'usi se
+non nelle gran navi.  |Segando se ne va~: dice |segando~, in
+quanto, come la sega divide il legname in due parti, cos@i la
+nave, andando per l'acqua sospinta da' remi o dal vento, pare che
+seghi, cio@e divida, l'acqua; |l'antica prora~: |antica~ la
+chiama, per ci@o che per molti secoli ha fatto quello uficio;
+|prora~ la chiama, ponendo la parte per lo tutto, per ci@o che
+ogni nave ha tre parti principali, delle quali l'una si chiama
+<prora>, quantunque per volgare sia chiamata <proda> da'
+navicanti, e questa @e stretta e aguta, per ci@o che @e quella parte
+che va davanti e che ha a fender l'acqua; l'altra parte si chiama
+<poppa>, e questa @e quella parte che viene di dietro, e sopra la
+quale sta il nocchier della nave al governo de' timoni, li quali
+in quella parte, l'uno dal lato destro e l'altro dal sinistro,
+son posti, per li quali, secondo che mossi sono, la nave va verso
+quella parte dove il nocchier vuole; la terza parte si chiama
+<carena>, e questa @e il fondo della nave, il quale consiste tra
+la poppa e la proda.  Seguita che questa |antica prora~ per lo
+disusato carico sega |Dell'acqua~, del padule, |pi@u che non suol
+con altrui~, cio@e con gli spiriti, li quali in essa sogliono
+esser portati da Flegi@as.
+
+	|31.  Mentre noi corravamo~: Qui comincia la seconda
+parte di questo canto, nella quale l'autore fa quatro cose:
+primieramente dimostra come un pien di fango fuori dell'acqua del
+padule gli si dimostra; appresso scrive come Virgilio gli facesse
+festa per lo avere egli avuto in dispregio il fangoso che gli si
+dimostr@o; oltre a ci@o, pone come quel fangoso fosse lacerato
+dall'altre anime de' dannati che quivi erano; ultimamente
+discrive come ne' fossi venissono della citt@a di Dite.  La
+seconda comincia quivi: <Lo collo poi>; la terza quivi: <Ed io:
+maestro>; la quarta quivi: <Lo buon maestro>.
+
+	Dice adunque nella prima parte: |Mentre noi corravam~,
+cio@e velocemente navicavamo, |la morta gora~; |Gora~ @e una
+parte d'acqua tratta per forza del vero corso d'alcun fiume e
+menata ad alcun mulino o altro servigio, il quale fornito, si
+ritorna nel fiume onde era stata tratta; per lo qual nome
+l'autore nomina qui, ^licentia poetica~, il padule per lo quale
+navicava; e, per dar pi@u certo intendimento che di quello dica,
+cognomina questa gora |morta~, cio@e non moventesi con alcun
+corso, s@i come i paduli fanno.
+
+	|32-33.  Dinanzi mi si fece~, uscendo dell'acqua del
+padule, |un pien di fango~, un'anima d'un peccatore, |E disse:
+chi se' tu, che vieni anzi ora?~, cio@e anzi che tu sia morto.
+
+	|34-35.  Ed io a lui~, rispuosi: |s'i' vengo, i' non
+rimango~, per ci@o che io non son dannato e uscir@o di qui per
+altra via; |Ma tu~, che domandi, |chi se', che s@i se' fatto
+brutto?~, dal fango il quale hai addosso.
+
+	|36.  Rispose~, quella anima: |vedi che son un che
+piango~: risposta veramente d'uomo stizoso e iracundo, del quale
+@e costume mai non rispondere se non per rintronico.
+
+	|37.  Ed io a lui: con piagnere e con lutto~: Pongono i
+gramatici essere diversi significati a diversi vocaboli li quali
+significan pianto: dicon primieramente che <^flere~>, il quale
+per volgare noi diciam |piagnere~, fa l'uomo quando piagne
+versando abondantissimamente lagrime; <^plorare~>, il qual
+similmente per volgare viene a dir <piagnere>, @e piagnere con
+mandar fuori alcuna boce; <^lugere~>, il qual similmente per
+volgare viene a dir <piagnere>, @e quello che con miserabili
+parole e detti si fa: e dicono, etimologizando: <^lugere, quasi
+luce egere~>, cio@e avere bisogno di luce.  E questo pare che sia
+quella spezie di piagnere la quale facciamo essendo morto alcuno
+amico, per ci@o che, chiuse le finestre della casa, dove @e il
+corpo morto, quasi all'oscuro piagnamo; ma meglio credo sia detto
+quegli, che per cotale cagion piangono, aviluppati per lo dolore
+nella oscurit@a della ignoranza, avere bisogno in lor consolazione
+della luce della verit@a, per la qual noi conosciamo noi nati
+tutti per morire: e per@o, quando questo avviene, che alcuno ne
+muoia, non essere altrimenti da piagnere che noi facciamo per gli
+altri effetti naturali; e da questo <^lugeo~> viene |lutto~, il
+vocabolo che qui usa l'autore; <^eiulare~>, che per volgare viene
+a dir <piagnere>, e, secondo piace ai gramatici, <piagnere con
+alte boci>: e dicesi ^ab <ei> quod est interiectio dolentis~;
+<^gemere~>, ancora in volgare viene a dir <piagnere>, e quel
+pianto che si fa singhiozando; <^ululare~>, in volgare vuol dir
+<piagnere>: e vogliono alcuni questa spezie di piagnere esser
+quella che fanno le femine quando gridando piangono.  E per@o,
+dicendo l'autore a questa anima, che |con piagnere e con lutto~
+si rimanga, non fa alcuna inculcazione di parole, come alcuni
+stimano, aparendo che le spezie del pianto e di lutto sieno intra
+s$e diverse.
+
+	|38-39.~  Segue adunque: |Spirito maladetto, ti rimani~,
+in questo tormento, |Ch'io ti conosco, ancor sii lordo tutto.~ 
+Questo gli dice l'autore, per ci@o che esso, da lui domandato chi
+el fosse, non l'avea voluto dire.
+
+	|40-42.  Allora stese al legno~, quella anima, |ambo le
+mani~; e questo si dee credere quella anima aver fatto s@i come
+iracundo, il quale per vagheza di vendetta avrebbe voluto
+offendere o noiare, se potuto avesse, l'autore, per ci@o che
+ingiurioso si reputava l'autore aver detto di conoscerlo,
+quantunque egli fosse tutto fangoso.  |Per che il maestro
+accorto~, della 'ntenzione di quest'anima adirata, |lo sospinse~,
+cio@e il rimosse dalla barca, |Dicendo: via cost@a con gli altri
+cani!~, de' quali, adirati e commossi, @e usanza di stracciarsi le
+pelli co' denti, come quivi dice si stracciavano gli iracundi.
+
+	|43-44.  Lo collo poi~: Qui comincia la seconda
+particella della seconda parte principale, nella quale Virgilio
+fa festa all'autore, per ci@o che ha avuto in dispregio lo spirito
+fangoso.  E mostra in questa particella l'autore una spezie
+d'ira, la quale non solamente non @e peccato ad averla, ma @e
+meritorio a saperla usare: la quale vert@u, cio@e sapere usare
+questa specie d'ira, Aristotile nel IIII dell'^Etica~ chiama
+<mansuetudine>, e quelli cotali, che questa virt@u hanno, dice che
+s'adirano per quelle cose e contro a quelle persone, contro alle
+quali @e convenevole d'adirarsi, e ancora come si conviene e
+quando e quanto tempo; e questi, che questo fanno, dice che sono
+commendabili.  E seguita che i mansueti vogliono essere senza
+alcuna perturbazione e non vogliono esser tirati da alcuna
+passione, ma quello solamente fare che la ragione ordiner@a: cio@e
+in quelle cose, nelle quali s'adira tanto tempo essere adirato,
+quanto la ragione richieder@a.  Questa cotale spezie d'ira n'@e
+conceduta da' santi; dice il Salmista: <^Irascimini, et nolite
+peccare~>, volendo per queste parole che ne sia licito il
+commuoverci per le cose non debitamente fatte, s@i come fa il
+padre quando vede alcuna cosa men che ben fare al figliuolo, o il
+maestro al discepolo o l'uno amico all'altro, acci@o che per
+quella commozione egli l'ammonisca e corregga con viso
+significante la sua indegnazione, non come uomo che della
+ingiuria, la quale gli pare per lo non ben far d'alcuno, disideri
+vendetta; e, fatta la debita ammonizione, ponga gi@u l'ira: e in
+questa maniera adirandosi, e per cos@i fatta cagione, non si
+pecca.  In questa maniera si dee intendere Dio verso noi
+adirarsi, come spesso nella ^Scrittura~ si legge, e il Salmista
+spesse volte priega che da questa ira il guardi, cio@e da
+adoperare s@i che esso contra di lui si debba adirare.  E da
+questa ira dobbiam credere essere stato commosso Cristo, nel
+quale mai non fu peccato alcuno, quando, preso un mazo di funi,
+cacci@o del tempio i venditori e' comperatori, dicendo: <^Domus
+mea domus orationis~> etc.  Questa spezie d'ira chiamano molti
+<sdegno>, e cos@i mostra di volere qui intendere l'autore; il
+quale non voglion cadere se non in animi gentili, cio@e ordinati e
+ben disposti e savi, e tanto voglion che sia maggiore, quanto
+colui @e pi@u savio, in cui egli cade, per ci@o che, quanto pi@u @e
+savio l'uomo, tanto pi@u cognosce le qualit@a e' motivi de' difetti
+che si commettono, e per conseguente pi@u si commuove: e per@o dice
+Salamone: <^Ubi multum sapientie, ibi multulm indignationis~>.
+
+	E vuole l'autore in questa particella mostrare questa
+virt@u essere stata in lui, in quanto in parte alcuna non si
+mostra per lo supplicio de' dannati in questo cerchio esser
+commosso, come ne' superiori @e stato: ma avergli Virgilio, cio@e
+la ragione, fatta festa abracciandolo e chiamandolo |alma
+sdegnosa~ e in benedicendo, in segno di congratulazione, la madre
+di lui; e questa festa, questa congratulazione, non gli avrebbe
+mai fatta Virgilio, se non in dimostrazione che nobilissima cosa
+e virtuosa sia l'essere isdegnoso.  @E il vero che, come di molte
+altre cose avviene, questo adiettivo, cio@e <sdegnoso>,
+spessissimamente in mala parte si pone; il che, quantunque non
+vizi la verit@a del subietto, nondimeno @e da' discreti da
+distinguere e da riguardare, dove debitamente o non debitamente
+si pone; e, dove non debitamente si pone, averlo per alcuna di
+quelle spezie d'ira, le quali di sopra son mostrate esser
+dannose.
+
+	Dice adunque il testo cos@i: |Lo collo, poi~, che dal
+legno ebbe cacciata quella anima iracunda, |con le braccia mi
+cinse~, abracciandomi; |Basciommi il volto~, in segno di
+singulare benivolenzia, per ci@o che noi abracciamo e basciamo
+coloro li quali noi amiamo molto.  E dice |il volto~, non dice la
+bocca, acci@o che per questo noi sentiamo primieramente l'onest@a
+del costume, per ci@o che il basciar nel volto @e segno caritativo,
+ove il basciare in bocca, quantunque quel medesimo sia alcuna
+volta, le pi@u delle volte @e segno lascivo; e, oltre a ci@o, il
+volto nostro @e detto <volto> da <^volo-vis~>, per ci@o che per
+quello ne' non viziati uomini si dimostra il voler del cuore: e
+per ci@o che il voler del cuore dell'autore era buono e onesto,
+Virgilio, aprovando quel buon volere, mostr@o la sua aprovazione,
+basciando quella parte del corpo dell'autore, nella quale quella
+buona disposizione si dimostrava; |e disse: alma sdegnosa~, non
+disse <iracunda>, ma |sdegnosa~, in quanto, giustamente
+adirandosi e quanto si conviene servando l'ira, mostr@o lo sdegno
+della sua nobile anima.
+
+	|45.  Benedetta colei che in te~, cio@e sopra te, |si
+cinse!.~  Cingonsi sopra noi le madri nostre nel mentre nel
+ventre ci portano; e dice qui l'autore |benedetta~, a
+dimostrazion che, come l'albero, il qual porta buon frutto, si
+dice <benedetto>, cos@i ancora si dice |benedetta~ la madre che
+porta buon figliuolo.  E in questa parte non si commenda poco
+l'autore; ma egli @e in ci@o da aver per iscusato, in quanto non fa
+questo per commendar s$e, ma per commendar la vert@u della
+mansuetudine, della quale era di necessit@a di trattare in questa
+parte, acci@o che noi non credessimo ogni ira esser peccato.
+
+	|46-48.  Questi~, che ti si mostr@o, |fu al mondo~, cio@e
+in questa vita, |persona orgogliosa~, cio@e arrogante; |Bont@a~,
+cio@e virt@u, |non @e che sua memoria fregi~, cio@e adorni; per ci@o
+che le virt@u adornano cos@i il nome e la memoria dell'uomo, nel
+quale state sono, come il fregio adorna il vestimento; |Cos@i~,
+cio@e come fu arrogante nel mondo, |s'@e l'ombra sua qui furiosa~,
+per rabbia e per dolore del tormento.
+
+	|49.  Quanti si tengono or l@a su~: Poi che egli ha
+biasimata la furiosa e sconvenevole vita di quello spirito,
+meritamente si volge Virgilio a biasimare, sotto i nomi de' pi@u
+eminenti prencipi, i fastidi e le stomacaggini, non dico
+solamente degli uomini di maggiore stato, ma eziandio di molti
+plebei, li quali, per aparere d'esser quel che non sono, si
+sforzano d'esser ponderosi ne' passi, gravi nel parlare e
+nell'adoperare di sentimento sublime, dove nell'effetto di niuno
+valore sono, dicendo: |Quanti si tengono or l@a su~, cio@e nel
+mondo, il quale @e di sopra da noi; |gran regi~, cio@e gran
+maestri.  Nondimeno il <re> @e dinominato da <^rego-regis~>, il
+quale sta per <reggere> e per <governare>.  Di questi cotali,
+quantunque di molti sieno le lor teste ornate di corona, non son
+per@o tutti da dovere essere reputati re; e per@o dice l'autore
+bene |si tengono~: ma, perch$e essi si tengano, essi non sono.  A
+dimostrazione della qual verit@a ottimamente favella Seneca
+tragedo in quella traged@ia la quale @e nominata ^Tieste~, dove
+dice: <Non fanno le riccheze li re, non il colore del vestimento
+tirio, non la corona della quale essi adornano la fronte loro,
+non le travi dorate de' lor palagi.  Re @e colui il quale ha posta
+gi@u la paura e ciascun altro male del crudel petto; re @e colui il
+quale non @e mosso dalla impotente ambizione e dal favore non
+stabile del precipitante popolo.  Sola la buona mente @e quella
+che possiede il regno: questa non ha bisogno di cavalli n$e
+d'armi.  Re @e colui il quale alcuna cosa non teme da non temere>. 
+Dalle quali parole possiam comprendere quanti sieno oggi quegli
+li quali degnamente si possano tenere re.  Non sono adunque re
+questi cotali che re si tengono, anzi son tiranni.
+
+	|50-51.~  E per@o meritamente seguita: |Che~, questi
+cotali che re si tengono, perch$e posson far male quando vogliono,
+|qui staranno come porci in brago~: e meritamente, acci@o che nel
+brago e nella bruttura riconoscano i mali usati splendori nella
+vita presente; e, che ancora pi@u vituperevole fia, morranno |Di
+s$e lasciando~, in questa vita, |orribili dispregi~, cio@e memoria
+di cose orribili e meritamente da dispregiare, state operate da
+loro.
+
+	|52-53.  Ed io: maestro~: Qui comincia la quarta
+particula della seconda parte principale di questo canto, nella
+quale l'autore discrive come, secondo il suo disiderio, vide
+straziare all'anime dannate quello pien di fango che davanti gli
+s'era parato.  E primieramente apre il suo disiderio a Virgilio,
+dicendo: |Ed io: maestro, molto sarei vago Di vederlo atuffare~,
+costui il quale tu mi d@i che fu persona orgogliosa: e questa
+vagheza par che sia generale in ciascuno virtuoso uomo, di vedere
+gli incorrigibili punire; |in questa broda.~  Il proprio
+significato di |broda~, secondo il nostro parlare, @e quel
+superfluo della minestra, il qual davanti si leva a coloro che
+mangiato hanno: ma qui l'usa l'autore largamente, prendendolo per
+l'acqua di quella padule mescolata con loto, il quale le paduli
+fanno nel fondo, e per ci@o che cos@i son grasse e unte come la
+broda.
+
+	|54.  Anzi che noi uscissimo del lago~, cio@e di questa
+padule.  @E il |lago~ una ragunanza d'acque, la quale in luoghi
+concavi tra montagne si fa, per lo non avere uscita; ed @e in
+tanto differente dal padule, in quanto il lago ha grandissimo
+fondo ed hal buono, ed @e in continuo movimento, per le quai cose
+l'acqua senza corrompersi vi si conserva buona; dove la palude ha
+poco fondo e cattivo ed @e oziosa.  Pone adunque qui l'autore il
+vocabolo del |lago~, per lo vocabolo della <padule>, usando la
+licenzia poetica e largamente parlando.
+
+	|55-57.  Ed egli a me: avanti che la proda~, cio@e la
+estremit@a di questa padule, la quale l'uomo, come de' fiumi,
+chiama <riva>.  Ma pone l'autore questo vocabolo |proda~ per ci@o
+che egli @e propio nome di quelle rive dove i navili pongono; e
+ci@o @e, perch$e sempre i navili, acostandosi alla riva, dove
+scaricar debbono il carico il qual portano, o caricar quello che
+prendono, pongono la lor proda alla riva; |Ti si lasci veder, tu
+sarai sazio~, di quel che disideri.  E poi ancora gliele
+rafferma, dicendo: |Di tal disio~, chente tu d@i che hai,
+|converr@a che tu goda~, cio@e ti rallegri.
+
+	|58-60.  Dopo ci@o poco~, cio@e poco dopo queste parole di
+Virgilio, |vid'io quello strazio Far di costui~, del quale io
+disiderava, |alle fangose genti~, cio@e agli iracundi, li quali
+erano in quel padule, |Che Dio ancor ne lodo e ne ringrazio.~
+
+	|61.  Tutti gridavan~, que' dannati, animando l'un
+l'altro ad offender quest'anima.  E che gridavano?  |A Filippo
+Argenti!~, quasi voglian dire: <Corriam tutti addosso a Filippo
+Argenti!>.  Fu questo Filippo Argenti, secondo che ragionar solea
+Coppo di Borghese Domenichi, de' Cavicciuli, cavaliere
+ricchissimo, tanto che esso alcuna volta fece il cavallo, il
+quale usava di cavalcare, ferrare d'ariento e da questo trasse il
+sopranome.  Fu uomo di persona grande, bruno e nerboruto e di
+maravigliosa forza e, pi@u che alcuno altro, iracundo, eziandio
+per qualunque menoma cagione.  N$e di sue opere pi@u si sanno che
+queste due, assai ciascuna per se medesima biasimevole; e per lo
+suo molto essere iracundo scrive l'autore lui essere a questa
+pena dannato.
+
+	|62-64.  E 'l fiorentino spirito bizarro~, cio@e iracundo;
+e credo questo vocabolo |bizarro~ sia solo de' Fiorentini, e
+suona sempre in mala parte, per ci@o che noi tegnamo bizarri
+coloro che subitamente e per ogni piccola cagione corrono in ira,
+n$e mai da quella per alcuna dimostrazione rimuovere si possono. 
+|In se medesmo~, vedendosi schernire, o assalire dagli altri, |si
+volvea co' denti~, per ira mordendosi.  |Quivi 'l lasciammo~,
+procedendo avanti, |che pi@u non ne narro~, che di lui, dopo
+questo, si seguisse.
+
+	|65-66.  Ma negli orecchi mi percosse un duolo~: Qui si
+pu@o comprendere quello che poco avanti dissi, venire a ciascuno
+senso quello che da essi si percepe, in quanto dice che |un
+duolo~, cio@e una boce dolorosa, gli percosse gli orecchi, di l@a
+venendo dove quella dolorosa boce era nata.  E segue: |Per che
+io~, avendolo udito, per conoscere onde venisse, |avanti~, cio@e
+inanzi a me, |intento~, a riguardare, |gli occhi sbarro~, cio@e
+quanto posso apro.
+
+	|67-69.  Lo buono maestro~: Qui comincia la quarta
+particella della seconda parte principale del presente canto,
+nella quale l'autore dimostra come venissero ne' fossi della
+citt@a di Dite.  Dice adunque: |Lo buon maestro disse: ormai,
+figliuolo, S'appressa la citt@a c'ha nome Dite, Co' gravi
+cittadin~, non gravi per costumi o per virt@u, ma per peccati,
+|col grande stuolo~, cio@e con la gran quantit@a.
+
+	|70.  Ed io: maestro, gi@a le sue meschite~: |Meschite~
+chiamano i Saracini i luoghi dove vanno ad adorare, fatti ad
+onore di Maometto, come noi chiamiamo <chiese> quelle che ad onor
+di Dio facciamo; e per ci@o che questi cos@i fatti luoghi si
+sogliono fare pi@u alti e pi@u eminenti che gli edifici cittadini,
+@e usanza di vederle pi@u tosto, uno che di fuori della citt@a
+venga, che l'altre case.  E perci@o non fa l'autor menzione
+dell'altre parti della citt@a dolente, ma di questa sola,
+chiamandole |meschite~, s@i come edifici composti ad onor del
+dimonio, e non di Dio.
+
+	|71-75.  L@a entro certo nella valle cerno~: dice |nella
+valle~, per ci@o che la citt@a era molto pi@u bassa che esso non
+era, e dice le discernea |Vermiglie, come se di foco uscite
+Fossero.~  E questo dice a rimuovere una obiezione che gli
+potrebbe esser fatta, in quanto di sopra ha alcuna volta detto s$e
+non potere guari vedere avanti per lo fummo del padule; e cos@i
+vuol dire che n$e ancora qui vederebbe quelle meschite, se non
+fosse che esse medesime si facevan vedere per l'essere affocate,
+cio@e rosse; |e quei mi disse: il fuoco eterno, Ch'entro
+l'affuoca, le dimostra rosse~, cio@e roventi, |Come tu vedi, in
+questo basso inferno.~
+
+	|76-77.~  Udita la cagione per la quale erano rosse
+quelle meschite, la qual fu necessaria d'aprire acci@o che egli
+non estimasse quelle essere dipinte, ed egli soggiugne: |Noi pur
+giugnemmo dentro all'alte fosse, Che vallan quella terra
+sconsolata.~  <Vallo>, secondo il suo propio significato, @e
+quello palancato, il quale a' tempi di guerre si fa dintorno alle
+terre, acci@o che siano pi@u forti, e che noi volgarmente chiamiamo
+<steccato>; e da questo pare venga nominata ogni cosa la quale
+fuor delle mura si fa per afforzamento della terra; e perci@o dice
+l'autore che giunse nelle fosse |che vallano~, cio@e fanno pi@u
+forte quella terra.
+
+	|78.  Le mura~, di quella terra, |mi parea che ferro
+fosse~: Dice quelle essergli parute esser di ferro, a
+dimostrazione della forteza di questa terra, della quale dice
+Virgilio nel VI dell'^Eneida~ cos@i:
+
+     ^Porta adversa, ingens solidoque adamante columne~,
+     ^vis ut nulla virum, non ipsi excindere ferro~
+     ^celicole valeant.  Stat ferrea turris ad auras~,
+     ^Tisiphoneque sedens, palla succincta cruenta~,
+     ^vestibulum exomnis servat noctesque diesque.~
+     ^Hinc exaudiri gemitus et seva sonare~
+     ^verbera; tum stridor ferri tracteque catene~ ^etc.~
+
+	|79-81.  Non senza prima fare~ etc.: Qui comincia la
+quarta parte principale del presente canto, nella quale l'autor
+discrive la racolta fatta loro da' dem@oni, li quali erano in su
+la porta di Dite, e come a Virgilio serrarono la porta nel petto. 
+E in questa parte fa due cose: primieramente discrive cui
+trovassero allo entrare della porta di Dite, e come Virgilio
+domandasse di parlar con loro; appresso dimostra come si
+sconfortasse per l'andar Virgilio a loro.  E comincia questa
+particella quivi: <Pensa, lettor>.
+
+	Dice adunque primieramente: |Non senza prima far grande
+agirata~; nelle quali parole dimostra che lungamente andassero
+per li fossi di quella citt@a, avanti che essi giugnessono l@a dove
+era la porta di quella; e per@o segue: |Venimmo in parte dove 'l
+nocchier~, cio@e Flegi@as.  Ed @e questo nome |nocchiere~ il propio
+nome di colui al quale aspetta il governo generale di tutto il
+legno, e a lui aspetta di comandare a tutti gli altri marinari,
+secondo che gli pare di bisogno; e chiamasi <nocchiere>, quasi
+<navichiere>; |forte: Usciteci! grid@o.~  Qui si pu@o comprendere,
+dal gridar forte di questo nocchiere, il costume degl'iracundi
+intorno al parlare, li quali non pare il possan fare se non
+impetuosamente e con romore; |qui @e l'entrata~, della citt@a di
+Dite.
+
+	|82-85.  Io vidi pi@u di mille~, cio@e molti, |in su le
+porte~, di questa citt@a di Dite, |Dal ciel piovuti~, cio@e dem@oni,
+li quali, cacciati di paradiso, in guisa di piova caddero nello
+'nferno, |che stizosamente~, cio@e iracundamente, |Dicean~, con
+seco medesimi: |chi @e costui, che senza morte~, cio@e essendo
+ancor vivo, |Va per lo regno della morta gente?~, cio@e per lo
+'nferno, il quale veramente si pu@o dire |regno della morta
+gente~, in quanto quegli, che vi sono, son morti della morte
+temporale e morti nella morte eternale.
+
+	|86-88.  E 'l savio mio maestro fece segno~, a questi
+dem@oni, |Di voler lor parlar segretamente~, per lo qual segno
+essi |Allor chiusero un poco il gran disdegno.~  Non dice che il
+ponesser giuso, ma alquanto, col non parlare cos@i stizosamente,
+il ricopersono.  E qui |disdegno~ si prende in mala parte, per
+ci@o che negli spiriti maladetti non pu@o essere, n$e @e, alcuna cosa
+che a virt@u aspetti.
+
+	|89-93.  E disser: vien tu solo~, qua a noi, |e quei sen
+vada~, cio@e Dante, |che s@i ardito~, dietro a te, |entr@o per
+questo regno.  Sol si ritorni per la folle strada~, per la quale
+@e venuto dietro a te.  E chiamala |folle~, non perch$e la strada
+sia folle, per ci@o che non @e in potenza la strada da potere
+essere o folle o savia, ma a dimostrare esser folli coloro li
+quali s@i adoperano, che per essa convenga loro iscendere alla
+dannazione eterna.  |Pruovi, se sa~, tornarsene indietro solo;
+|ch$e tu qui~, con noi, |rimarrai, Che gli hai scorta~, insino a
+questo luogo, |s@i buia contrada~, cio@e s@i oscura.  E vuole in
+queste parole l'autore quello dimostrare che negli altri cerchi
+di sopra ha dimostrato, cio@e che per alcun de' ministri infernali
+sempre all'entrar del cerchio sia spaventato; e cos@i qui, dovendo
+del quinto cerchio passar nel sesto, il quale @e dentro della
+citt@a di Dite, introduce questi dem@oni a doverlo spaventare,
+acci@o che del suo buon proponimento il rimovessero, e
+impedisserlo a dover conoscere quello che si dee fuggire, per non
+dovere, perduto, in inferno discendere.
+
+	|94-96.  Pensa, lettore~: Qui comincia la seconda
+particella di questa quarta parte principale, nella quale
+l'autore mostra come si sconfortasse.  |Pensa, lettor~, che
+queste cose leggerai, |se i' mi sconfortai Nel suon delle parole
+maladette~, cio@e dette da quegli spiriti maladetti.  E soggiugne
+la cagione per la quale esso si sconfort@o, dicendo: |Ch$e non
+credetti ritornarci mai~, cio@e in questa vita, vedendomi torre
+colui che infin quivi guidato m'avea, e senza il quale io non
+avrei saputo muovere un passo.
+
+	|97-102.~  E per@o, da questa paura sbigottito, dice: |O
+caro duca mio, che pi@u di sette~, cio@e molte, ponendo il finito
+per lo 'nfinito, |Volte m'hai sicurt@a renduta e tratto D'altro
+periglio che incontro mi stette~; cio@e quando tu mi levasti
+dinanzi alle tre bestie, le quali impedivano il mio cammino,
+quando tu acquetasti l'ira di Carone, di Min@os, di Cerbero e
+degli altri che opposti mi si sono; |Non mi lasciar, diss'io,
+cos@i disfatto~, come io sarei qui, ritrovandomi senza te; |E se
+l'andar pi@u oltre~, cio@e pi@u giuso, |ci @e negato, Ritroviam
+l'orme nostre insieme ratto~, per la via tornandoci, per la quale
+venuti siamo.
+
+	|103-105.  E quel signor~, Virgilio, |che l@i m'avea
+menato, Mi disse: non temer, ch$e 'l nostro passo~, cio@e l'entrare
+nella citt@a di Dite, |Non ci pu@o torre alcun~; quasi dica:
+<Quantunque costoro faccian le viste grandi e dican parole assai,
+essi non posson per@o impedire l'andar nostro>.  E pone la cagione
+per che non possono, dicendo: |da tal n'@e dato~, cio@e da Dio, al
+voler del quale non @e alcuna creatura che contrastar possa.
+
+	|106-108.  Ma qui m'attendi, e lo spirito lasso~,
+faticato per la paura, |Conforta e ciba di speranza buona~; e poi
+pone di che egli debba prender la speranza buona, dicendo: |Ch'io
+non ti lasser@o nel mondo basso~, cio@e nello 'nferno, il quale pi@u
+che alcuna altra cosa @e basso.
+
+	|109-111.  Cos@i sen va~, verso que' dem@oni, |e quivi
+m'abandona Lo dolce padre~, cio@e lassa solo di s@e, |ed i' rimango
+in forse; E 'l s@i e 'l no~, che egli debba a me ritornare come
+promesso m'ha, o rimaner con coloro, s@i come essi minacciavano,
+dicendo: <Tu qui rimarrai>; |nel capo mi tenciona~, cio@e nella
+vert@u estimativa, la quale @e nella testa.
+
+	|112-116.~  E poi segue: |Udir non potei quel che a lor~,
+cio@e a que' dem@oni, |si porse~, cio@e si disse; |Ma el non stette
+l@a con essi guari, Che ciascun dentro a pruova si ricorse. 
+Chiuser le porti~, della citt@a, |quei nostri avversari Nel
+petto~, cio@e contro al petto, |al mio signor, che fuor rimase~:
+Puossi per questo atto fatto da' dem@oni comprendere che Virgilio
+dicesse loro esser piacer di Dio che esso mostrasse lo 'nferno a
+colui il quale con seco avea, e che essi, avendo questo in
+dispetto, acci@o che egli non avvenisse, si ritiraron dentro e
+serraron le porti.
+
+	|117.  E rivolsesi a me~, tornando, |con passi rari~:
+Disegna in queste parole l'autore l'atto di coloro li quali per
+giusta cagione sdegnano e si turbano, in quanto non furiosamente,
+non con impeto, come gl'iracundi, corrono alla vendetta, ma
+mansuetamente si dolgono di ci@o che alcuno ha men che bene
+adoperato.
+
+	|118-120.~  Poi segue: |Gli occhi alla terra~, bassi; nel
+quale atto si manifesta la turbazione del mansueto, dove in
+contrario l'iracundo leva la testa e fa romore; |e le ciglia avea
+rase D'ogni baldanza~, in quanto il mansueto ristrigne dentro con
+la forza della virt@u l'impeto, il quale vorrebbe correre alla
+vendetta, e per@o pare sbaldanzito, cio@e senza alcuno ardire, dove
+gl'iracundi col capo levato paiono baldanzosi e arditi; |e dicea
+ne' sospiri~, cio@e sospirando dicea, nel quale sospirare apaiono
+alcuni segni della perturbazione del mansueto: |Chi m'ha negate
+le dolenti case!~, quasi dica: <Questi dem@oni, li quali sono in
+ira di Dio e niente contro a Dio possono, hanno negato a me, che
+sono mandato da Dio, le case dolenti>.  La qual cosa, per ci@o che
+era oltre ad ogni convenienza, gli era materia di sospirare e di
+ramaricarsi.
+
+	|121-123.  E a me disse~, non ostante la sua
+perturbazione: |tu, perch'io m'adiri~, di quella ira la quale @e
+meritoria, |Non sbigottir~, cio@e non te ne entri alcuna paura,
+per ci@o |ch'io vincer@o la pruova~, dello entrar dentro alla
+citt@a, |Qual ch'alla difension~, che io non v'entri, |dentro
+s'agiri~, cio@e si dea da fare perch$e io non v'entri.
+
+	|124-127.  Questa lor traccotanza~, del fare contro a
+quello che debbono, |non m'@e nuova, Ch$e gi@a l'usaro in men
+segreta porta~, che questa non @e, e contro al Signor del cielo e
+della terra, cio@e di Ges@u Cristo.  E dice |men segreta~, in
+quanto quella @e all'entrata dello 'nferno e questa @e quasi al
+mezzo; per che assai apare questa essere pi@u segreta e pi@u
+riposta che non @e quella.  E questo fu, secondo che si raconta,
+quando Cristo, gi@a risucitato, scese allo 'nferno a trarne
+l'anime de' santi padri, li quali per molte migliaia d'anni,
+l'avevano aspettato; intorno al quale il prencipe de' dem@oni co'
+suoi seguaci fu di tanta presunzione, che egli ard@i ad opporsi in
+ci@o che esso pot$e, perch$e Cristo non liberasse coloro li quali
+lungamente avea tenuti in prigione: e per questo, ^metaphorice~,
+si dice Cristo avere spezata la porta dello 'nferno e rotti i
+catenacci del ferro.  La qual porta convenne esser quella della
+quale fa qui menzione l'autore, cio@e la men segreta, alla qual
+poi non fu mai fatto alcun serrame, s@i come esso medesimo dice:
+|La qual senza serrame ancor si truova.~  N$e si dee intendere
+d'alcuna altra, per ci@o che, secondo la discrizione dell'autore,
+nello 'nferno non ha che due porte, delle quali @e l'una quella di
+che di sopra @e detto e della quale esso dice qui: |Sovr'essa
+vedest@u la scritta morta~, cio@e: <Per me si va nella citt@a
+dolente> etc. {^Inf.~ 3.1}; la qual chiama |scritta morta~, per
+ci@o che ha a significare, a quegli che per essa entrano, eterna
+morte; ed evvi, oltre a questa, la porta di Dite, infino alla
+quale Cristo non discese, per ci@o che si crede che nel primo
+cerchio dello 'nferno, cio@e nel limbo, erano quegli li quali
+Cristo ne trasse.
+
+	|128-130.~  E poi seguita: |E gi@a di qua da lei~, cio@e da
+quella prima porta, <la qual senza serrame ancor si truova>,
+|discende l'erta~:  |Erta~ @e a chi volesse tornare in suso, ma,
+discendendo, come conviene a chi dalla prima porta vuol venire a
+quella di Dite, si dee dir <china>; ma, come spesse volte fa
+l'autore, usa un vocabolo per un altro.  |Passando per li
+cerchi~, dello 'nferno, |senza scorta~, cio@e senza guida, s@i come
+colui che bisogno alcuno non ha, avendo seco la divina sapienza,
+alla quale ogni cosa @e manifesta; |Tal, che per lui ne fia la
+terra aperta~, di tanta potenzia sar@a; s@i come appresso apare,
+dove dice l'autore che, toccata la porta di quella solamente con
+una verga, l'aperse.
+
+&&attributes allegorica
+
+	|Table of Contents of the Esposizione Allegorica.~
+{|i.  Torri e fiamme (vv. 1-9)~}
+{|ii.  Flegi@as (vv. 13-24)~}
+{|iii.  Navigazione sulla palude dello Stige (vv. 25-30)~}
+{|iv.  Citt@a di Dite (vv. 67-115)~}
+
+	|Proemio.  Io dico, seguitando, ch'assai prima~ etc.  Nel presente
+canto non @e alcuna ordinaria allegoria, come ne' passati, per ci@o
+che non ci si discrive alcuna cosa che quasi nel precedente non
+sia stata allegorizata; e per@o alcuna brieve cosetta, che ci @e,
+in poche parole si spedir@a.
+
+	|1-9.  Torri e fiamme.~
+
+	Dicono adunque alcuni le due torri, le quali l'autore
+scrive essere in questo quinto cerchio, e le fiamme su fattevi
+avere a dimostrare il trascendimento della furia degl'iracundi,
+il quale trasv@a sopra ogni debito di ragione; e vogliono le tre
+fiamme fatte sopr'esse avere a dimostrare le tre spezie
+degl'iracundi discritte nel canto precedente: ma questo senso non
+mi sodisfa, anzi credo e le torri e le fiamme semplicemente
+essere state discritte dall'autore a continuazione del suo poema,
+per@o che qui pareva essere di necessit@a porre alcuna cosa, per la
+quale segno si desse a Flegi@as che, dove ch'e' si fosse, venisse
+a dovere li due venuti a riva appassare all'altra riva, s@i come
+subitamente venne; e perci@o intorno ad esse pi@u non mi pare da
+por parole.
+
+	|13-24.  Flegi@as.~
+
+	Per Flegi@as, li cui costumi discritti sono poco avanti,
+assai ben si pu@o comprendere l'autore intendere il vizio
+dell'iracundia, li cui effetti, quanto pi@u possono, son conformi
+a' costumi del detto Flegias; e bene che la pena datagli da
+Apolline, secondo Virgilio, non sia corrispondente a questo
+vizio, non perci@o toglie che qui per lo detto vizio attamente
+porre non si possa; con ci@o sia cosa che Virgilio, dove discrive
+la pena postagli da Apolline, abbia ad alcuna altra sua
+operazione rispetto, e non a quella per la quale l'autore vuol
+qui che egli significhi l'iracundia; e, se contro a Virgilio
+s'osasse dire, io direi che in questa parte l'autore avesse avuta
+assai pi@u conveniente considerazione di lui.
+
+	|25-30.  Navigazione sulla palude dello Stige.~
+
+	Il navicar l'autore con Virgilio nella palude di Stige
+puote a questo senso adattarsi: essere di necessit@a a ciascuno,
+il quale non vuole nel peccato dell'ira divenire, quanto pi@u
+leggiermente pu@o, passare superficialmente le tristizie di questa
+vita, le quali sono infinite, sempre acompagnato dalla ragione,
+acci@o che, non essendosi in quelle oltre al dovere lasciato
+tirare, possa, sanza pervenire nel peccato della ostinazione, del
+quale nel seguente canto si tratter@a, trapassare a conoscer con
+dolceza di cuore le colpe che ci posson tirare a perdizione.
+
+	|67-115.  Citt@a di Dite.~
+
+	Della citt@a di Dite, la qual dice l'autore che avea le
+mura di ferro, e de' dem@oni, che sopra la porta di quella
+incontro a Virgilio uscirono, e, oltre a ci@o, l'avergli serrata
+la porta della detta citt@a nel petto, tutto apartiene a dover
+dire con quelle cose le quali nel seguente canto della detta
+citt@a dimostra; e per@o quivi, quanto da Dio conceduto mi fia, ne
+scriverr@o.

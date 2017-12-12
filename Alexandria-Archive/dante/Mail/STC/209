@@ -1,0 +1,68 @@
+Return-Path: kirk@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id PAA18987
+	for <steve@avalon.dartmouth.edu>; Tue, 19 Oct 1999 15:22:11 -0400 (EDT)
+Received: from Princeton.EDU (outbound2.Princeton.EDU [128.112.129.120])
+	by mailhub.dartmouth.edu (8.9.3+DND/8.9.3) with ESMTP id PAA21293
+	for <Stephen.Campbell@Dartmouth.EDU>; Tue, 19 Oct 1999 15:22:10 -0400 (EDT)
+Received: from mailserver.Princeton.EDU (mailserver.Princeton.EDU [128.112.129.65])
+	by Princeton.EDU (8.9.3/8.9.3) with ESMTP id PAA18762
+	for <Stephen.Campbell@Dartmouth.EDU>; Tue, 19 Oct 1999 15:22:10 -0400 (EDT)
+Received: from princeton.edu (magritte.Princeton.EDU [128.112.224.15])
+	by mailserver.Princeton.EDU (8.9.3/8.9.3) with ESMTP id PAA12082;
+	Tue, 19 Oct 1999 15:22:07 -0400 (EDT)
+Sender: kirk@phoenix.Princeton.EDU
+Message-ID: <380CC4DE.D0FF6EA5@princeton.edu>
+Date: Tue, 19 Oct 1999 15:22:06 -0400
+From: "Kirk D. Alexander" <kirk@Princeton.EDU>
+Organization: Multimedia Engineering Computation Atelier/Princeton University
+X-Mailer: Mozilla 4.7C-SGI [en] (X11; U; IRIX 6.5 IP22)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "Stephen.Campbell@Dartmouth.EDU" <Stephen.Campbell@Dartmouth.EDU>
+CC: bobh@Princeton.EDU
+Subject: ddp web site changes
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hi, Steve!
+ 
+We found what changed with your Dartmouth/Dante webserver.
+A year or so ago they only way to request a specific
+line from the server was to use the keyword "coded ref"
+and to say something like "coded ref *L1" to get all line
+one refs.  Now apparently you removed that feature (coded ref)
+and added one for line.  We switched our code to use the
+new form so our code would continue to work.  I don't know
+if we've fashioned any other queries that could only be
+achieved via coded ref.  We only saw the problem about a
+week ago for the first time...but that probably just means
+our students hadn't yet tried a DDP search yet this semester.
+
+Do let us know if you are planning any other changes!
+Thanks,
+Kirk
+
+ 
+> Bob and Kirk,
+> 
+> I don't have enough info to answer yet.
+> 
+> What we need to know is:
+> 
+> 1. What's the nature of the syntax change? Are we talking about the syntax of queries or of responses? Exactly what's different?
+> 
+> 2. When did the problem begin?
+> 
+-- 
+Kirk Alexander,
+Manager                                                   
+Multimedia Engineering Computation Atelier (MECA)
+School of Engineering and Applied Science
+E-430 Engineering Quadrangle
+Princeton University
+Princeton, N.J. 08544-5263
+(609) 258-5420 (tel)
+(609) 258-6744 (fax)
+kirk@princeton.edu (email)
+http://www.princeton.edu/~kirk

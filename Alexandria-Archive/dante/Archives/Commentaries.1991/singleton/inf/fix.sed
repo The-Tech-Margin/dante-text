@@ -1,0 +1,20 @@
+s/symbo1/symbol/g
+s/sti1/still/g
+s/spiritua1/spiritual/g
+s/V1/VI/g
+s/severa1/several/g
+s/unusua1/unusual/g
+s/exceptiona1/exceptional/g
+s/\([0-9]\)o\([0-9]\)/\10\2/g
+s/\([0-9]\)o-/\10-/g
+s/ardina1/ardinal/g
+s/que1/quel/g
+s/fal1/fall/g
+s/pp109/pp 109/g
+s/smal1/small/g
+s/or1/on/g
+s/His1/Hist/g
+s/VI1/VII/g
+s/Va1/Val/g
+s/15l/151/g
+s/Vl/VI/g

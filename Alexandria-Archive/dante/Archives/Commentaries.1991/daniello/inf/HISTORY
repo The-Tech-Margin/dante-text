@@ -1,0 +1,52 @@
+Thu Dec 12 10:36:04 EST 1985 jvs galley corrections 18-34 entered
+Mon Jan 13 10:18:05 EST 1986 jvs fixed &c. inconsistencies
+Tue Jan 14 11:53:29 EST 1986 jvs checked citation/qmark forms
+Thu Nov 19 14:22:38 EST 1987 01.e preloaded to ../staging/inf/01
+Thu Nov 19 14:23:02 EST 1987 02.e preloaded to ../staging/inf/02
+Thu Nov 19 14:23:19 EST 1987 03.e preloaded to ../staging/inf/03
+Thu Nov 19 14:23:48 EST 1987 04.e preloaded to ../staging/inf/04
+Thu Nov 19 14:24:13 EST 1987 05.e preloaded to ../staging/inf/05
+Thu Nov 19 14:24:31 EST 1987 06.e preloaded to ../staging/inf/06
+Thu Nov 19 14:27:24 EST 1987 01.e preloaded to ../staging/inf/01
+Thu Nov 19 14:27:51 EST 1987 02.e preloaded to ../staging/inf/02
+Thu Nov 19 14:28:22 EST 1987 03.e preloaded to ../staging/inf/03
+Thu Nov 19 14:28:55 EST 1987 04.e preloaded to ../staging/inf/04
+Thu Nov 19 14:29:15 EST 1987 05.e preloaded to ../staging/inf/05
+Thu Nov 19 14:29:33 EST 1987 06.e preloaded to ../staging/inf/06
+Thu Nov 19 14:30:21 EST 1987 07.e preloaded to ../staging/inf/07
+Thu Nov 19 14:30:43 EST 1987 08.e preloaded to ../staging/inf/08
+Thu Nov 19 14:31:27 EST 1987 09.e preloaded to ../staging/inf/09
+Thu Nov 19 14:32:02 EST 1987 10.e preloaded to ../staging/inf/10
+Thu Nov 19 14:32:24 EST 1987 11.e preloaded to ../staging/inf/11
+Thu Nov 19 14:33:09 EST 1987 12.e preloaded to ../staging/inf/12
+Thu Nov 19 14:33:39 EST 1987 13.e preloaded to ../staging/inf/13
+Thu Nov 19 14:34:18 EST 1987 14.e preloaded to ../staging/inf/14
+Thu Nov 19 14:34:52 EST 1987 15.e preloaded to ../staging/inf/15
+Thu Nov 19 14:35:20 EST 1987 16.e preloaded to ../staging/inf/16
+Thu Nov 19 14:35:57 EST 1987 17.e preloaded to ../staging/inf/17
+Thu Nov 19 14:36:21 EST 1987 18.e preloaded to ../staging/inf/18
+Thu Nov 19 14:36:48 EST 1987 19.e preloaded to ../staging/inf/19
+Thu Nov 19 14:37:21 EST 1987 20.e preloaded to ../staging/inf/20
+Thu Nov 19 14:37:33 EST 1987 21.e preloaded to ../staging/inf/21
+Thu Nov 19 14:37:44 EST 1987 22.e preloaded to ../staging/inf/22
+Thu Nov 19 14:38:10 EST 1987 23.e preloaded to ../staging/inf/23
+Thu Nov 19 14:38:34 EST 1987 24.e preloaded to ../staging/inf/24
+Thu Nov 19 14:38:49 EST 1987 25.e preloaded to ../staging/inf/25
+Thu Nov 19 14:39:10 EST 1987 26.e preloaded to ../staging/inf/26
+Thu Nov 19 14:39:25 EST 1987 27.e preloaded to ../staging/inf/27
+Thu Nov 19 14:39:48 EST 1987 28.e preloaded to ../staging/inf/28
+Thu Nov 19 14:40:06 EST 1987 29.e preloaded to ../staging/inf/29
+Thu Nov 19 14:40:24 EST 1987 30.e preloaded to ../staging/inf/30
+Thu Nov 19 14:40:44 EST 1987 31.e preloaded to ../staging/inf/31
+Thu Nov 19 14:41:03 EST 1987 32.e preloaded to ../staging/inf/32
+Thu Nov 19 14:41:23 EST 1987 33.e preloaded to ../staging/inf/33
+Thu Nov 19 14:41:47 EST 1987 34.e preloaded to ../staging/inf/34
+Thu Nov 19 14:47:26 EST 1987 all preloaded. jma
+Wed Jan 25 11:55:03 EST 1989 05.121-123: nel suo convivio uncapitalized in orig. jvs
+Wed Feb 1 13:23:27 EST 1989 Inf.14.91-92: delle cos@i humane is correct. jvs
+Sun Feb 12 14:47:39 EST 1989 preloaded inf jvs
+Mon Apr 3 21:03:29 EDT 1989 fixed format probs 11 & 22. repreloaded
+these.
+Mon Aug 21 08:50:50 EDT 1989 Inf.30.145-148: Cicerro is correct. jvs
+Tue Aug 22 08:21:21 EDT 1989 bobh changed CICERRO to CICERO.
+Mon Apr 22 19:19:35 EDT 1991 jvs stripped ligs out from .e files to new .db files

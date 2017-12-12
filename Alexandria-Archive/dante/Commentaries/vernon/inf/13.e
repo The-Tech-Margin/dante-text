@@ -1,0 +1,282 @@
+	|Proemio.~ 
+Incomincia il tredecimo C.o dello inferno.
+
+	|1-33.~ 
+	^Non era ancor di l@a Nesso arrivato~
+^quando no' ci mettemo per un boscho~
+^che da nessun sentiero era segnato.~
+
+Poi che ll'altore ha trattato de' violenti d'altrui ora intende 
+trattare de' violenti di loro medesimi cio@e di coloro che s'uccisono 
+di loro proprie mani chi per prodighalit@a e chi per disperazione e chi 
+per un chaso e chi per un altro.  Et prima intende dividere i luoghi 
+diputati a questi violenti e dividesi questo chapitolo in quatro parti 
+gienerali.  Nella prima discrive il luogho a questi violenti.  Nella 
+seconda tratta d'alchuno in ispezialit@a.  Nella terza muove una 
+quistione a quello spirito ed egli l'assolve.  Nella quarta nomina 
+alchuni violenti in questi pessimi vizi.  In questa prima parte 
+continuando l'altore discrive il luogho e lla pena che hanno questi 
+tali violenti di loro medesimi ucciditori.  E il luogho dove li mette 
+si @e un boscho il quale fa che sia tutto seccho ed abbiavi arbori 
+pungienti e nodorosi \<e pungienti\> e avolti e none ischietti n@e 
+begli n@e odoriferi n@e fruttuosi.  E si vuole che quando l'anima si 
+parte dal corpo vengha in questo secondo girone dove sono puniti questi 
+violenti di loro medesimi e dove la fortuna gli balestra si stanno 
+sanza essere loro eletto veruno altro luogho.  E quando chade e giugnie 
+nel detto luogho l'anima medesima si 'ncharciera in uno di questi pruni 
+overo bronchoni dove le viene chaduta.  E fighura l'altore poeticamente 
+parlando che su per questi arbori sieno arpie e chome il bronchone 
+giermuglia punto fa che subito queste arpie il becchano e graffiano 
+questa giermugliatura e di quindi escha sanghue e pianto e dolore per 
+la pena dell'anima che dentro v'@e rinchiusa e 'ncharcierata.  Questa 
+fu bella e nobile fizione e non potea essere pi@u bella n@e pi@u 
+propia.  Inper@o che sono di tre gienerazione anime cio@e anima 
+vegietativa e anima sensitiva e anima razionale.  Anima vegietativa si 
+@e negli arbori e nell'erbe e piante.  Questa natura si @e acrescimento 
+e non cognioscimento.  Anima sensitiva si @e negli animali e bestie e 
+questi sono con cognoscimento intanto che sono di cierte bestie che 
+hanno assai virt@u nel loro conoscimento chome d'assai si leggie e 
+predicha tutto d@i in similitudine cio@e chavallo chane iscimia oca 
+avoltoio aquila leone e molti altri de' quali si dicie in fisiolag.o 
+[sic] che sono dodici.  La terza anima si @e razionale e questa @e 
+quella dell'uomo che a ragione cognioscimento e discrezione memoria e 
+inteletto naturale chome de' avere.  E per@o perch@e tutte queste anime 
+sono exciellenti ciaschuna in suo grado il nostro altore non vuole 
+mettere questi tali dannati tra veruna altra anima.  Inper@o che none 
+@e animale o bestia che per ira e cruccio che i[n] llei regniasse 
+uccidesse s@e medesima e per@o l'altore gli mette nella pi@u minima 
+anima cio@e vegietabile e mettegli quando ella @e morta cio@e seccha 
+che no' mena pi@u n@e foglie n@e frutto s@i cche bene gli mette i[n] 
+miserabile stato.  Ancora fa l'altore che ll'Arpie sieno su per questi 
+pruni e bronchi e dieno loro quella pena che detta @e di sopra.  E fa 
+che queste Arpie sieno tre bench@e di pi@u si scriva nella genealogia 
+del Bocchaccio.  E per la prima fighura l'avarizia dell'uomo avaro.  E 
+lla prima Arpia si chiama Aello e per questa si fingie la disiderazione 
+e conchupiscienzia che ha l'uomo avaro dell'avere e ricchezze e beni 
+temporali.  La seconda Arpia si chiama Occipete e questa significha la 
+ochupazione dell'avaro ch'egli ha dell'avere che viene molte volte a 
+tanto per questa ochupazione ch'egli s'uccide e privasi d'anima.  La 
+terza Arpia si ha nome Cieleno questa significha il naschondere 
+dell'avere che ffa l'uomo avaro che quanto pi@u hae pi@u si mostra 
+povero e questa @e molto peggiore che ll'altre.  E dipinghonsi queste 
+Arpie pennute e con faccia di vergine angielicha perch@e altri la pigli 
+e dipinghonsi col ventre grande e piumoso e questo @e il ventre 
+dell'avaro che mai non si enpie.  Anchora si dipinghono cho' piedi 
+artigliosi e questo @e propio nello avaro inper@o che sempre le sue 
+mani son date a rapacit@a e rapina e ruberia.  Anchora si dipinghono 
+cho l'ale e questo significha lo studio che ffa l'uomo per terra e per 
+mare e di qua e di l@a andando merchantando da uno paese a uno altro 
+s@i chome avesse ale e scrive santo Aghostino sopra Chatone quando egli 
+s'uccise s@e medesimo riprendendolo diciendo che in un punto perd@e 
+tutte le sue lode che di lui si dicieno.  E questo fecie Chatone solo 
+per uno isdegnio ch'ebbe contro a Ciesare Iulio.  Anchora tornando 
+all'Arpie perch@e Dante le mette in questo luogho si @e solo per 
+choloro che ss'uccidono e disperarsi per l'avere s@i chome si dir@a 
+d'alchuno in questo chapitolo per@o ch'egli fecie di quelle di Giuda 
+che trad@i e vend@e Cristo per danari e poi s'inpicch@o egli stesso.  
+Anchora queste Arpie si andarono al re Fineo e si gli ghuastavano e 
+bruttavano la sua mensa inper@o che Fineo aveva acciechati i suoi 
+figliuoli per detto della moglie e loro matrignia e per Fineo dei 
+'ntendere l'uomo avaro e in s@e chupido.  Ancora Enea trov@o queste 
+Arpie quando venne di Troia in Italia e trovolle nell'isole Strofade 
+cio@e isole oscure di selve ed essendo Enea ivi ismont@o in terra cho 
+la sua giente per pigliare riposo e avendo apparecchiato per mangiare 
+queste Arpie vennono per t#or loro le vivande dinanzi faciendo loro 
+assai noia.  A questo s@i ssi levorono assai chavalieri e cholle saette 
+le schacciarono e rimasono nelle selvi.  E per questo ischacciamento 
+venne una di loro e parl@o e anunzi@o loro che inanzi che giugniessino 
+al luogho loro fatato e profetezato per le fate ch'eglino arebbono s@i 
+grande la fame che per fame mangierebbono le mense loro e i taglieri 
+loro e chos@i avenne.  Ch'essendo Enea a detto tempo arrivato su per lo 
+fiume del Tevero e ivi ismontarono per mangiare inchominci@o loro a 
+manchare il pane e ll'altra vettovaglia in tal modo che avendo fatto i 
+taglieri del pane s@i ssi mangiorono questi fatti taglieri.  E anche di 
+quelli che mangiavano in su l'erba si mangiavano dell'erba per fame e 
+di ci@o si dolea Aschanio figliuolo d'Enea.  Enea il domand@o di che 
+egli era cruciato ed egli gli disse tutto il fatto di che Enea lieto 
+disse loro confortatevi chavalieri che noi sian giunti al luogho 
+determinato per Anchise mio padre e per lo detto delle Arpie e fu 
+questa la terza Arpia cio@e Cieleno e per@o dicie l'altore nostro 
+fiorentino Dante nel suo testo e chapitolo in questo modo
+
+	^Quivi le brutte Arpie lor nidi fanno~
+^che chacciar dalle Strofade i Troiani~
+^con tristo anunzio di futuro danno.~
+
+	|34-83.~  Seghuita il testo in altro luogho e dicie
+
+	^Da cche fatto fu poi di sanghue bruno~
+^cominci@o a gridar perch@e mi scierpi~
+^non ha' tu spirto di pietate alchuno~
+
+In questa seconda parte l'altore tratta d'alchuno ispirito in 
+partichularit@a che truova in questo luogho il quale fu di Piero dalle 
+Vignie e ffu chancielliere dello imperadore Federigho secondo e ffu uno 
+eciellentissimo huomo di scienzia finissimo dottore buono decretalista 
+finissimo trovatore e bel dittatore e voleagli meglio lo 'mperadore per 
+la sua virt@u che a niuno barone di sua corte intanto che tutti i suoi 
+segreti gli manifestava.  Ora chome usanza d'essere nelle corti de' 
+signiori e altrove i virtuosi invidiati chostui era invidiato e ffu una 
+volta acchusato allo inperadore Federigho chome il detto Piero aveva 
+fatto a sapere al papa Grighorio nono nimicho d'esso inperadore un suo 
+segreto.  E scrivevagli ci@o che in corte si faciea.  Ci@o udendo lo 
+'mperadore e credendolo il fecie pigliare e abacinare Piero di questo 
+sentendosi inociente per volere fuggire questo isdegnio fattogli a ss@i 
+gran torto s@i ssi uccise egli stesso e per@o fa l'altore che 'l detto 
+Piero dicha cos@i come dicie di sopra ^da cche fatto fu poi di sanghue~ 
+ec.
+
+	^Per le nuove radicie d'esto legnio~
+^ti giuro che giamai non ruppi fede~
+^al mio signior che ffu d'onor s@i degnio.~
+
+Ancora dicie quest'anima a Dante ischongiurandosi s@e medesima che mai 
+no' ruppe fede al suo signiore il quale era stato degnio d'ogni honore. 
+ E ghuarda bene se questo imperadore signiore del detto Piero dalle 
+Vignie e ghuarda s'egli fu degnio d'onore ch'egli per sua crudelt@a 
+fecie morire il figliuolo in prigione.  E a volere contare de' suoi 
+fatti tu dei sapere che 'l re Federigho secondo fu della casa di Soave 
+principalmente si dicie ch'egli affogh@o il padre cio@e essendo il 
+padre amalato chon uno ghuanciale ch'egli gli puose in sulla boccha.  
+Fu magnianimo di mezza taglia di charnagione rossa allegro e ffu 
+inperadore di Roma per lo papa bench@e diventasse poi nimicho di santa 
+chiesa posto che male n'arrivasse e fu re di Cicilia e di Gierusalem 
+per retaggio della sua donna e madre.  Questi fu re della Magnia per 
+elezione era ducha di Baviera per suo retaggio s@i cche per questa 
+nobilt@a ben diciea Piero ch'egli era degnio d'onore.  Anchora ebbe 
+questo re Federigho quatro figliuoli madornali e due bastardi e tutti 
+furono re.  Il primo de' madornali ebbe nome il re Arrigho il quale il 
+re Federigho suo padre fecie morire in prigione perch@e gli fu detto 
+ch'egli il doveva tradire.  E 'l secondo madornale ebbe nome il re 
+Churrado e ffu re di Puglia.  I due bastardi l'uno fu il re Manfredi re 
+di Cicilia.  E 'l secondo bastardo ebbe nome il re Renzo.  Chostui 
+vegniendo a oste a Bologna fu isconfitto e preso da' Bologniesi e mor@i 
+in prigione e 'l suo corpo morto fu messo in san Domenicho al luogho 
+de' frati predichatori per@o l'altore fa che Piero dalle Vignie dicha 
+^per le nuove radici~ ec. ec.
+
+	|85-120.~ 
+	^Perci@o ricominci@o se l'uom ti faccia~
+^liberamente ci@o che 'l tuo dir pregha~
+^ispirto incharcierato ancor ti piaccia.~
+
+In questa terza parte l'altore muove a questo Piero due quistioni e si 
+gliele assolve e muovegli a' prieghi di Dante e Virgilio preghando 
+Virgilio Piero ch'ancora gli dicha e nogli debba dispiaciere di dovere 
+parlare chon esso loro e di dovere dir loro quando l'anima si legha in 
+questo luogho chome ella si legha o incharciera in questi bronchi.  La 
+seconda domanda che gli fa si @e preghando che gli dicha se mai quelle 
+anime che si leghano in questi bronchi si sciolglono da essi.  Laonde 
+Piero risponde a Virgilio assolvendogli la sua domanda in questa forma 
+diciendo che quando l'anima si parte dal corpo ond'ella stessa si 
+disnoda e partita da esso e giugniendo dinanzi a Minosso e re cio@e 
+giudicie infernale.  Et examinata ch'egli l'ha egli la manda alla 
+settima focie infernale cio@e in questo luogho qui giunta nogli @e 
+eletta alchuna parte ma dov'ella chade ivi si rimane e surgie 
+incorporandosi in una di queste vermene o poloncielli o giermogli e in 
+questo modo l'anima si legha e 'nchatena.  E ll'Arpie paschono quelle 
+vermene.  Alla seconda domanda che mi fai se mai veruna anima da questo 
+si parte ti rispondo di no imper@o che ogni altro pecchatore che peccha 
+su nel mondo si pu@o pentere e tornare a penitenzia e a reconciliazione 
+con Dio salvo che noi no' mai.  Imper@o che quegli che peccha in t#orsi 
+la vita non si pu@o mai pentere del suo pecchato e fallo s@i cche 
+ragione non @e che mai riabbia quello ch'altri s'ha tolto favellando 
+moralmente in questo modo ^poi ricominci@o~ ec.
+
+	|121-132.~ 
+	^Le ghambe tue alle giostre dal Toppo~
+^e poi che forse li fallia la lena~
+^di s@e e d'un ciespuglio fecie un groppo.~
+
+In questa quarta e ultima parte l'altore nomina alcuni involti in 
+questo vizio e ffa fine de' violenti contro a ss@e medesimi e tratta 
+de' violenti istati contro a ss@e e a ssue chose.  E principalmente 
+tratta di due spiriti che ll'uno fu sanese e ll'altro padovano.  Il 
+primo ispirito che correa e fuggia era l'anima d'u[n] lLano da sSiena 
+il quale fu al mondo distruggitore de' suoi beni e avendo consumato il 
+tutto venne chaso che i Fiorentini a quel tempo puosono hoste ad Arezzo 
+ed ebono il loro aiuto i Sanesi e Pistolesi e altri assai vicini ed 
+atorno.  E quivi pigliando chastella e ville pervennono ad Arezzo ed 
+ivi feciono assai danno e arsono l'Olmo il quale @e vicino d'Arezzo e 
+questo fu nel MCCLXXXVIII e stettono i Fiorentini a oste ad Arezzo XXX 
+d@i e da fFirenze s'erano partiti a d@i XXVIII di maggio anni 
+MCCXXVIII.  E tornandosi a chasa i Fiorentini co' lor seghuaci e i 
+Sanesi dilunghatosi d'Arezzo s'achomiatarono da' Fiorentini e presono 
+la via verso Siena per tornare piutosto alle loro chase e famiglie.  
+Laonde di questo avedendosi un Ghuglielmuzzo de' Pazzi di Val d'Arno 
+che questo oste s'era partito si part@i con sua giente e missesi 
+dinanzi a' Sanesi e ripuosesi alla Pieve al Toppo e lla giente ch'egli 
+avea secho erano CC chavalieri e da mille pedoni e ivi tolsono il passo 
+a' Sanesi e combatt@e co lloro e si gli isconfisse e si vvi rimasono 
+morti de' Sanesi da CCC fra ' quali fu questo Lano che ll'altore truova 
+qui il quale chom'uomo disperato che mal volentieri tornava a chasa 
+sappiendo nogli era rimaso niente si mise a combatere per disperato e 
+in quella battaglia fu morto e per@o dicie cos@i per chostui l'altore
+
+	|133-141.~ 
+	^O Giacomo diciea da santo Andrea~
+^che tt'@e giovato di me fare ischermo~
+^che colpa ho io della tuo vita rea~
+
+Questo ispirito il quale parla a questo Jacomo riprendendolo che cholpa 
+egli hae della sua rea vita e questo dicie di questo spirito perch'egli 
+fu molestato in questo luogho a colpa d'Iacomo dalle nere e bramose 
+cagne ci@o udendo l'altore parlare quel tronchone onde usc@i quella 
+bocie e Dante il domanda e priegha che gli dicha chi egli @e ed e' 
+risponde cos@i diciendo
+
+	|142-151.~ 
+	^Racchoglietele al pi@e del tristo ciesto~
+^i' fui della citt@a che nel Batista~
+^mut@o il primo padrone ond'e' per questo~
+
+Quest'anima che parla di quel broncho no' manifesta a Dante per altro 
+modo se non chome tu odi nel testo e ffu chostui quanto al mondo simile 
+a Giuda Ischariotto traditore.  Questo spirito che parla qui fu 
+ll'anima di messer Lotto giudicie di Firenze costui per danari ordin@o 
+falsit@a e poi fatto il male e di quello ricognosciendosi la menda 
+ch'egli ne fe' che un d@i essendo in chasa s'inpicch@o s@e medesimo per 
+la ghola imper@o dicie nella fine di questo C.o di s@e medesimo.  Io 
+fe' giubbetto a mme delle mie chase cio@e io m'inpicchai per la channa 
+della ghola.  Ancora tornando alla risposta che fecie messer Lotto 
+all'altore per tocchare alquanto di Firenze in dichiarazione di questo 
+C.o ove disse
+
+	^Sempre coll'arte sua la far@a trista~
+^e se non fosse che 'n sul passo d'Arno~
+^rimane ancor di lui alchuna vista~
+
+tu de' sapere che lla prima volta che Firenze fu edifichata fu posta e 
+edifichata per gli Romani sotto il titolo di Marte cio@e iddio delle 
+battaglie e oltra questa edifichazione que' Fiorentini che v'erano si 
+tolsono padrone e tutore Marte e si edificharono il tempio cio@e quello 
+ch'@e oggi san Giovanni perch@e prima fu edifichato per tempio di Marte 
+e nel detto tempio feciono fare una riccha istatua ed era molto 
+adornata e riverita e stettevi pi@u d'anni ottociento insino al tempo 
+di Totile fragellum Dei il quale disfecie Firenze.  E poi rifatto 
+Firenze la seconda volta per gli Romani venuto poi a cierto tempo il 
+cristianesmo si refecie pe' cittadini di Firenze fatti cristiani quel 
+tempio di Marte duomo di Firenze e in ischambio di Marte tolsono san 
+Giovani Batista per loro padrone e ghuida e anche @e oggi e trassono 
+quella statua di Marte di san Giovani e missolla in sul Ponte Vecchio 
+per memoria la quale vi stette centinaia danni insino al d@i del 
+diluvio che ffu in Firenze nel MCCCXXXIII e allora chaddono tutti i 
+ponti di Firenze salvo che 'l Ponte Rubaconte s@i cche chadendo il 
+Ponte Vecchio chadde l'idolo di Marte in Arno e per@o dicie
+
+	^Que' cittadini che poi la rifondarno~
+^sopra 'l ciener che d'Attile rimase~
+^avrebor fatto lavorare indarno.~
+
+Cio@e dicie questo spirito quegli cittadini che poi la rifondarono di 
+nuovo sopra l'arsione ch'avea fatto Totile arebbono fatto lavorare 
+indarno se non che 'l missono in sul ponte i[n] memoria di lui Marte e 
+che sempre darebbe a fFirenze battaglie e isconfitte per lasciare lui 
+Marte per san Giovanni.  Ma questo non @e cos@i e none intendere 
+secondo che suona questa lettera ma intendi che a quel tempo di Marte i 
+Fiorentini erano atti ad arme e a battaglie e a ghuerreggiare ed erano 
+huomini valentissimi di loro persone ma chome cominciorono a ttendere a 
+san Giovani intendi bocchadoro per lo fiorino a darsi a ghuadagniare e 
+a merchatantare avanzare e arrichire chos@i diventarono vili e paurosi 
+d'arme bench@e anchora ve ne sieno assai valenti huomini.
+

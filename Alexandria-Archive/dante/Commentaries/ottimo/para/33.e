@@ -1,0 +1,483 @@
+	|Proemio.~  In questo ultimo canto della sua Comedia
+l'Autore fa dieci cose.  In prima fa sua orazione alla Vergine
+Maria in persona di santo Bernardo; nella IJ pone il segnale
+dell'essaudita orazione; nella IIJ pone il valoramento di suo
+intelletto; nella IIIJ pose un'altra brieve sua orazione; nella V
+pone lo inenarrabile acume della divina luce; nella VJ discrive,
+l'essemplare di tutto il mondo essere in Dio; nella VIJ palesa la
+sua insufficenzia s@i circa la invenzione, come circa la memoria,
+come circa la parlatura di quello che vide; nella VIIJ discrive,
+come puote, una figura di trinitade; ultimamente nella sua
+imperfezione conchiude il capitolo, ed il Libro.  Dice dunque
+orando il santo Bernardo -- ^Vergine Madre, figlia del tuo
+Figlio.~  Circa la prima parte, nella quale s'invoca Nostra Donna
+in nostro aiutorio, apparir@a la esposizione in sul testo, come in
+uno instanti la Nostra Donna fu vergine, madre e figliuola di
+Dio.  Alla IJ @e da notare, che santo Bernardo fa due domande per
+l'Autore: la prima, che disponga s@i sua vista, che possa vedere
+l'ultima salute; la IJ, che dopo tale visione li conservi li suoi
+buoni concetti, a ci@o che ne possa ridire nella sua Commedia.  E
+sopra questa parte muove tre dubbj: lo primo, se uomo per sue
+naturali virtudi puote vedere Idio per essenzia, e solve che no;
+lo IJ, se per grazia il pu@o vedere; lo IIJ inchiede, in che modo
+il vede, cio@e se per alcuna similitudine.  E circa il secondo
+dubbio fa due quistioni: l'una, se la nostra memoria puote
+conservare tale visione per sue naturali virtudi, o per grazia;
+la IJ, se 'l nostro parlare puote manifestare tale visione per
+sue naturali virtudi, o per grazia.  Alla prima, dice Tomaso
+nella P. I, quist. 12, art. 4: <Lo conoscere aviene, secondo che
+la cosa conosciuta @e nel conoscente, la quale v'@e secondo il modo
+del conoscere, e secondo sua natura.  Se la cosa che si dee
+conoscere, eccede e soprabonda alla natura del conoscere, non si
+pu@o conoscere; e cos@i lo intelletto umano non pu@o da s@e conoscere
+Idio, perch@e Idio eccede la natura dello intelletto, e molto
+magiormente il senso del viso.  Adunque nol potr@a l'occhio
+vedere, conciosiecosach@e le virt@u sensitive sono pi@u basse che
+quelle dello intelletto, e spezialmente circa le divine cose>. 
+Alla IJ, risponde santo Tomaso, art. 5, che ogni cosa che si leva
+sopra sua natura, fa bisogno che sia disposta per alcuna
+disposizione sopranaturale; s@i come se l'aire dee pigliare forma
+di fuoco, fa bisogno che alcuna disposizione celeste la disponga
+e tirila alla natura del fuoco.  Cos@i ogni intelletto creato, se
+dee accedere a tanta sublimitade, quanta @e a vedere Idio per
+essenzia, fa bisogno che la divina grazia lo disponga, e
+sopravegna in lui, per@o che per suoi naturali non pu@o montare a
+tanta perfezione.  E questo @e quello lume ch'@e scritto,
+^Apocalypsis~, cap. 21: ^Claritas Dei inluminat eam~; cio@e quella
+compagnia de' beati che veggiono Idio.  E secondo questo lume
+diviene l'uomo deiforme.  ^Ioannis~, cap. 3: ^Cum apparuerit,
+similes ei erimus.~  E cos@i possiamo conchiudere, che sanza
+cotale disposizione l'uomo non puote vedere Idio per essenzia, ma
+per grazia s@i: lo quale modo @e differente da questo mondano; per@o
+che, quando noi vediamo una cosa, la spezie visibile di quella
+cosa ne viene alla pupilla, e per quella la conosciamo.  E
+possiamo vedere [per] una cosa che si specchi, che la nostra
+pupilla si muter@a per lo specchio, secondo colore e forma, cio@e
+figura; e si muter@a secondo quella spezie visiva, ch'@e nello
+specchio, che v'@e per la cosa che si specchia in esso: e cos@i
+veggiamo la cosa che si specchia mediante lo specchio, e solo per
+le spezie visibili; e veggiamola tutta nella visione di Dio.  Non
+possiamo lui tutto comprendere, ma poco e assai, secondo che tale
+essenza @e congiunta con lo intelletto: e cos@i possiamo
+conchiudere, che dalla parte di Dio @e impossibile a noi di
+poterlo comprendere, per@o ch'@e infinito; ma che la visione di Dio
+per essenzia si @e secondo due visioni: una da parte di Dio
+veduto; [l']altra da parte de l'uomo vedente.  Alla IJ quistione,
+brievemente @e da sapere, che se Dio non si puote tutto
+comprendere per intelletto umano, molto meno con la memoria, la
+quale @e fondata in organo corporale, come mostra il filosafo nel
+IIJ dell'Anima; e lo intelletto @e virt@u spirituale, n@e @e fondato
+in organo corporale, e non puote accedere a tanta alteza
+d'intendimento.  E cos@i si conchiude, che la memoria per sue
+naturali non @e sofficente a potere ritenere tali spezie
+intelligibili, per@o che la virt@u quanto @e pi@u congiunta co'
+corpi, tanto @e meno sofficente alle estratte cose.  Dunque @e
+bisogno che per grazia similemente la memoria sia illuminata,
+acci@o che possa ridire quello che si comprende per lo intelletto
+della cosa per grazia di Dio veduta.  Alla quistione, se 'l
+nostro parlare ec. si @e da sapere, che 'l parlare fruttifero @e
+grazia donata all'uomo da Dio; onde tale grazia s'agiugne sopra
+natura, per@o che per puro parlare, s@i come hanno li uomini, non
+si potrebe manifestare quello che trascende lo intelletto e la
+memoria umana, od intendimento.  Potrebesi bene parlare di cose
+alte oltre li termini naturali, s@i come faceano li profeti; ma
+tale parlare non era sanza grazia, tutto che le loro profezie non
+intendeano alcune fiate, s@i come mostra Tomaso nella IJ della
+Seconda, quest. 171, art. 5; e per@o, considerando l'Autore come
+la memoria e 'l parlare conviene trascendere nella presente
+materia tutti li naturali, s@i tocca per quanto puote, come per
+grazia, quello che vide, dicendo neentemeno che 'l suo vedere fu
+maggiore che 'l parlare.  Mostra che tale vista cede, e cede la
+memoria a tanto avanzo.  L'altre parti appariranno, sponendo la
+lettera.
+
+	|1.  Vergine Madre~ ec.  In questo principio
+dell'orazione santo Bernardo introduce le prerogative che furono
+e sono in Nostra Donna, per le quali mostra lei esser sofficente
+ad ogni grazia fare; e incomincia -- |Vergine Madre.~  Queste due
+cose in neuna creatura concorsono mai, se none in Nostra Donna;
+ella fu vergine innanzi il parto, nel parto, e dopo il parto.  Di
+quella anzi il parto, dice Isaia profeta, cap. 7: <Ecco la
+Vergine conceper@a>.  Nel parto, dice Geremia profeta, cap. 21:
+<Domenedio far@a nuova cosa sopra la terra>.  Dopo il parto, parla
+la Cantica, cap. 4, dove dice: <Tutta se' bella, amica mia, ed in
+te non @e macchia>.  S@i che insieme fu madre e vergine, madre di
+Cristo, Idio e uomo, e di schiatta reale.  -- |Figlia del tuo
+Figlio.~  Qui @e l'altra prerogativa non mai essuta in altri, che
+ella @e figlia, per@o che Dio @e Padre universale di tutti; Cristo @e
+Idio, dunque @e padre di santa Maria; e da l'altra parte @e suo
+figliuolo: ^Et incarnatus est de Spiritu Sancto ex Maria Virgine,
+et homo factus est~ etc.; per lo cui figliuolo fu ricomperata
+l'umana generazione.
+
+	|2.  Umile ed alta~ ec.  Questa @e l'altra prerogativa:
+umilitade ed alteza insieme.  Mirabile cosa @e che colui, ch'@e
+alto, sia umile; ma per lo pi@u @e superbo: fue la Nostra Donna
+umilissima nelli suoi atti, ed alta, per@o che fu madre di Dio,
+regina del Cielo e della terra; umile: ^Ecce ancilla Domini~ ec.
+
+	|3.  Termine fisso~ ec.  Ecco l'altra prerogativa.  Dice,
+ch'@e termine del consiglio etterno, a dimostrare la eccellenzia
+s@i del consiglio, come dell'aiuto; e dice -- |d'eterno
+consiglio~, a differenza degli altri consigli, che tutti hanno
+fine a certo tempo; e questo non @e terminato, n@e circoscritto da
+tempo.
+
+	|4-6.  Tu se' colei~ ec.  Qui dimostra l'altra
+prerogativa, ch'ella fue tale, che avanz@oe tutte l'altre, quando
+il Creatore volle in lei prendere carne umana, per congiugnere la
+divinitade con l'umanitade; e la generazione umana, fatta vile
+per lo peccato, fare nobile per la grazia della incarnazione. 
+Onde santa Maria fu mezo tra Dio e la natura umana; e fu tal
+mezo, che 'l Creatore non disdegn@o di farsi uomo, prendendo di
+lei umana carne.
+
+	|7-9.  Nel ventre tuo si raccese l'amore~, tra Dio e
+l'uomo; il quale amore era spento per lo peccato; per lo caldo
+del cui amore questo fiore di Paradiso @e cos@i germugliato di
+martiri, di confessori, e di santi.
+
+	|10-12.  Qui se' a noi~ ec.  Cio@e in Paradiso se' a noi
+beati una fiacola d'uno fuoco di caritade lucentissimo: s@i come
+il Sole e l'altre stelle, quando sono nella linea meridiana, pi@u
+risplendono che in altra parte del Cielo; tu importi a noi
+splendore e lume, e meridiana in suplemo grado di splendore in
+cielo.  E dice -- |di carit@a~; come in vista tu se' pi@u lucida
+che l'altre, cos@i in essere in te @e pi@u l'ardore della carit@a. 
+-- |E giuso~ ec.  Cio@e in terra se' vivissima e continua fontana
+di sapienza; nulla arrideza, nulla siccitade puote impedire la
+influenzia di questa speranza.
+
+	|13-15.  Donna, se' tanto grande~ ec.  In questo si
+mostra, ch'egli @e di nicessitade di ricorrere a Nostra Donna, chi
+vuole impetrare grazia da Dio; altrimenti invano s'afaticarebbe,
+come chi volesse volare sanza ale; e per@o dice -- |Donna~, ec.
+
+	|16-18.  La tua benignit@a~ ec.  Ecco lo speziale
+benificio procedente dalla Nostra Donna, la quale molte volte
+antiviene a colui ch'ha bisogno, con quello di che elli ha
+mestiere, sanza ch'elli il domandi.
+
+	|19-21.  In te misericordia~ ec.  Qui commenda Nostra
+Donna di quatro virt@u: di misericordia, di piet@a, di
+magnificenzia, e di bont@a.  Misericordia @e una virt@u inclinante
+il pi@u alto, verso alcuno che sia in afflizione; pietade @e una
+virt@u che fa amare e servire nostri parenti e prossimi
+diligentemente; magnificenzia @e una virt@u che fa in accompiere
+l'ardue e nobili cose: delle quali virtudi @e trattato ne'
+precedenti capitoli; ma quanto queste virtudi fossero illuminate
+da Nostra Donna, mirabile cosa @e pure a dire.  Poi conchiude: in
+te s'aduna quanta bontade @e in ciascuna creatura; quasi dica:
+quanta fede, speranza, caritade, giustizia, qualunque virtude @e
+in ciascuna creatura, tanta s'accoglie in te; e quello di bene
+ch'@e in tutte le creature, tanto s'accoglie in te; e quello di
+bene ch'@e in tutte le creature, @e in te sola.
+
+	|22-27.  Or questi~ ec.  Poste le prerogative di Nostra
+Donna, nelle quali ha mostrato che ella @e quel mezzo
+convenientissimo tra Dio e l'uomo, e quello mezzo che s@i puote e
+vuole giustificare, e adempiere li giusti prieghi de' mortali; in
+questa parte fa l'Autore sua domanda, e contiene due cose: la
+prima, che disponga la vista de l'Autore s@i che possa vedere
+l'utima salute; la seconda, che dopo tale visione li conservi li
+suoi buoni concetti, acci@o che li possa rescrivere nella sua
+Commedia per rimuovere li mondani da' vizii, e dirizarli in via
+di virtudi: -- |Dall'infima lacuna~ ec., cio@e dal pi@u basso stato
+che possa essere ne l'uomo, cio@e nel peccato, -- |in fin qui ha
+vedute~, cio@e [@e] montato a tanta intelligenzia e visione, ch'@e
+giunto a volere vedere l'ultima salute, -- |Le vite spiritali~
+ec., cio@e per quelli mezi, che sono tra li predetti stremi.
+
+	|28-30.  Ed io, che mai~ ec.  Cio@e, io Bernardo, d'amore
+di carit@a infuso, ti priego che a lui sia cos@i benigna, come mai
+fosti a me.
+
+	|31-33.  Perch@e tu ogni~ ec.  Per@o che non @e possibile a
+uomo congiunto l'anima col corpo, innanzi la glorificazione
+ch'avranno li corpi dopo il d@i del giudicio, a vedere l'essenzia
+divina, s@i come mostra santo Tomaso; e per@o abisogna che quella
+oscuritade, che d@a il corpo a l'anima, sia per grazia levata,
+acci@o che possibile sia la disiata visione.  E per@o dice, che 'l
+sommo piacere, cio@e Idio, s@i la -- |dispieghi~, cio@e s@i li si
+lasci vedere, o vero sia possibile a lui a vederlo.
+
+	|34-36.  Ancor ti prego~ ec., acci@o che questi effetti,
+che seguiranno di tale visione, possano essere, per tale
+conservazione in esso, utili ad altri, a cui elli [la dir@a], se
+non li perde, a memoria.
+
+	|37-38.  Vinca tua guardia~ ec.  Cio@e, tu[a] custodia in
+tale spezie visibili, che per lui saranno apprese, vinca ogni
+alterazione umana che le potesse imbrigare.  -- |Vedi Beatrice~
+ec.  Segue il poema.
+
+	|40-42.  Gli occhi~ ec.  Dice, che gli occhi di Nostra
+Donna guardavano fisso ne l'oratore, cio@e in santo Bernardo, ed
+erano quelli segni che feciono dimostrare, che molto erano a lei
+di piacere li divoti prieghi.
+
+	|43-45.  Indi all'eterno~ ec.  Qui dice, che Nostra Donna
+driz@o gli occhi suoi -- |all'eterno lume~, cio@e alla Divinitade,
+-- |Nel qual non si de' creder~ ec.: cio@e, s@i come pi@u volte @e
+detto, occhio creato non pu@o ^iniarsi~ al fondo della divinitade. 
+-- |Inii~ si @e verbo informativo, ed @e tanto a dire, come
+diventare simile di quella cosa ch'@e considerata.
+
+	|46-48.  Ed io, ch'al fine~ ec.  Dice l'Autore, che per@o
+ch'elli s'aprossimava al fine di tutti li suoi disiderii, la
+fiamma della sua volont@a in s@e fin@io, cio@e quiet@o, s@i come elli
+dovea; ed @e questa la terza cosa toccata nel presente capitolo. 
+A le quali parole muove alcuno due quistioni: la prima, se la
+visione della essenzia divina @e l'utima e somma beatitudine; e
+determina che s@i, per@o che acquistata quella, nulla pi@u cerca il
+disiderio umano: la IJ, se in essa visione si quieta l'umana
+voglia; e, per quello ch'@e detto, @e manifesto di s@i; poi che
+quella ha avuta, nulla cerca pi@u.
+
+	|49-51.  Bernardo~ ec.  Qui mostra la continua dottrina
+del caritativo maestro; e dice, ch'elli era tale discepolo, quale
+colui disiderava, cio@e che la virt@u divina lo attraeva a quella
+s@i come a sua perfezione.
+
+	|52-54.  Ch@e la mia vista~ ec.  Ecco come verifica,
+ch'elli era per se medesimo, quale santo Bernardo volea ch'elli
+fosse; acci@o che la sua vista, crescendo continuo per la grazia
+infusa da Dio, a pi@u a pi@u entrava per lo raggio della luce di
+Dio, il quale @e da s@e vera luce: ^Ego sum vera lux~ etc.  E tale
+visione, poi che passa li termini naturali e tende nella divina
+essenzia, puote essere detto [ratto].  Ratto @e d[i] colui, il
+quale @e secondo il numero; eziandio quello ch'egli @e oltre il
+numero della natura di sopra: il quale ratto puote avenire nelli
+uomini in tre modi; l'uno, quando l'anima si leva da' sensi, e
+con essi non fa quella sua operazione, come in sogno, o per
+infermitade alcuna; l'altro, per forza di demoni; l'altro, per
+virt@u divina: e per questo terzo modo intende l'Autore il suo
+elevare.
+
+	|55-57.  Da quinci innanzi~ ec.  Nota la eccellenzia
+della sua visione, che @e tale, che memoria, n@e parlatura non
+puote a tanto oltraggio.
+
+	|58-60.  Qual'@e colui~ ec.  Qui per essemplo dice: tanto
+gli @e rimaso di sua visione, quanto rimane del sogno a colui che
+si ricorda ch'elli sogn@o, ma non sa che.
+
+	|61-63.  Cotal son io~ ec.  Qui fa la comperazione -- |Ed
+ancor mi distilla~ ec.; ma pur sapea, ch'era stato di grande
+cosa, perch@e alcuno effetto dolce s@i li distillava in cuore, che
+procede dalla sua visione.
+
+	|64.  Cos@i la neve~ ec.  Qui induce una similitudine
+assai chiara, che come la neve si disf@ae al Sole, e lascia il
+suggetto, cio@e la terra disotto, nudo; cos@i dice, che la memoria
+sua delle spezie che fantasticamente avea vedute, si disigillava
+da quello padre Sole, ch'@e padre de' lumi.
+
+	|65-66.  Cos@i al vento~ ec.  Ecco l'altra similitudine;
+nella quale dice, che per quella guisa elli perd@eo le cose
+fantasticate nella sua memoria, come si perdea la sentenzia di
+quello che la Sibilla cumana, che condusse, secondo Virgilio,
+Enea per lo Inferno, con sugo d'alcuna erba scrivea in su le
+foglie delli arbori; le quali scritture tanto duravano, quanto
+durava la foglia verde; e se la copia non era tolta prima che si
+seccasse la foglia, diveniva arida, e la scrittura tale che non
+si discernea, e cos@i si perdea.  Questa Sibilla facea queste
+scritture, allora che occupata o dal volere di Dio che fosse, o
+vero di spirito diabolico, dicea le cose ch'erano a venire; or
+perch@e, cessata cotale adombrazione, nulla sapea ridire di quello
+ch'avea veduto o detto in quello tempo, avea proveduto di
+scriverlo allora per quello modo che detto @e.  E per@o che per
+aventura Dio non vuole d'alcune di quelle cose che rimanessero
+apo li uomini, togliele similemente la memoria dov'ella l'avea
+scritte, e cos@i si perdeano.  Un'altra oppinione @e di queste
+foglie falsa ed erronea, cio@e che Sibilla sia uno suono ec.
+
+	|67-69.  O somma luce~ ec.  Qui l'Autore invoca
+l'auturit@a di Dio, la cui cognizione @e tanto remota da quello che
+possono li uomini ec.  E dice: prestami della tua grazia s@i, che
+nella mia memoria ritornino di quelle spezie visibili che vi
+furono quando ti vidi, e fa la mia loquela possente ad espriemere
+almeno alcuna piccolissima particula in tua lauda ed onore, ed
+utile de' mortali.  E qui tocca l'Autore brevemente quello ch'@e
+bisogno a sermonatore: prima, ad informare lo intelletto; IJ, a
+muovere l'effetto; IIJ, che l'uditore disideri e ami le cose che
+nelle parole ode; e per@o dice:
+
+	|70-75.  E fa la lingua~ ec.  Cio@e la mia loquela possa
+espriemere quella, tuttoch@e io so che non @e possibile; ma pure
+una favilla ne dica io, quella lascer@o in scritto per quelli che
+sono a venire al mondo, acci@o ch'abino alcuna introduzione.  E
+sogiugne, persuadendola: pi@u si conceper@a di tua gloria, se mi
+ritornano le visioni predette a memoria, delle quali canteranno
+questi miei versi.
+
+	|76-78.  Io credo~ ec.  Manifesta come sua orazione fu
+essaudita, in ci@o che dice che in lui cresce forza a sostenere
+l'acume delli divini raggi.  E nota qui la diversitade ch'@e dalla
+visione del vedere qua gi@u, alla visione della divina bontade. 
+Nelle cose visibili qua gi@u cotanto il sens[ato] pi@u vivifica,
+cotanto maggiore d[an]no riceve il senso, come appare a chi guata
+fisso nel Sole; per@o che la eccellenzia del sensato corrompe il
+senso.  Nella divina essenzia @e tutto il contrario; ch@e quanto
+pi@u vi si mira, tanto diventa pi@u possente, e rimuove da ogni
+corruzione; per@o che si fa simile ad essa.  Joanni, IIJ capitolo:
+<Quando elli apparir@ae, saremo simili a lui>.
+
+	|79-81.  E mi ricorda~ ec.  Cio@e, che per tale
+somiglianza elli venne tanto possente ed ardito a sostenere, che
+giunse nelle sue pupille l'aspetto della Divinitade.
+
+	|82.  O abbondante~ ec.  Appostrofa, come appare.
+
+	|85-89.  Nel suo profondo~ ec.  Qui mette, come quivi
+sono tre persone, Padre, Figliuolo, Spirito Santo, e come in essa
+sustanzia vide tutte le mondane cose, s@i sustanzie, s@i accidenti,
+s@i ogni operazioni naturali.  E dice -- |quasi conflate~, dove
+notifica il modo a guisa d'idee, o essemplari, [o] similitudini.
+
+	|91.  La forma universal~ ec.  Cio@e la virtude ch'@e nella
+divinitade creante, che @e essa divinitade.  -- |La forma
+universal~ ec., cio@e la idea dello universo mondo, ch'@e nel petto
+di Dio, vide, dico, tre persone e una essenzia; la quale
+trinitade non ripugna alla unitade.  A ci@o provare @e necessario
+che noi concediamo che Dio sia, e che 'l suo essere sia in sua
+natura, e che 'l suo essere sia intelletto, e che 'l suo essere
+sia amore: le quali cose per uno modo sono in Dio, e per un altro
+sono nelli uomini.  Nell'uomo s@i @e in sua natura sustanzia; ma lo
+intendere e l'amore dell'uomo non sono la sustanzia dell'uomo. 
+Ne l'uomo si possono considerare tre cose: cio@e, [l']uomo
+esistente nella sua natura; l'uomo essistente nello intelletto,
+che @e alcuna intenzione della cosa sussistente; e l'uomo
+nell'amore essistente, s@i come l'amato ne l'amatore.  E ampoi
+queste tre cose non sono uno; per@o che lo intendere dello uomo, e
+l'amare dello uomo, non @e il suo essere.  In Dio si @e altrimenti,
+ch@e Dio si @e suo essere, Dio si @e suo intelletto e suo intendere,
+Dio si @e suo amore: e tutte queste cose sono uno.  E dice:
+
+	|92-93.  Credo ch'io vidi, perch@e pi@u di largo~ ec. 
+Questo, dice l'Autore, @e quello che mi fa credere ch'io la vidi,
+perch@e pure ragionandone io mi sento godere.  -- |Perch@e pi@u~ ec. 
+Qui assegna la cagione, perch'egli credesse s@e cos@i avere veduto,
+per@o che pur ragionandone ne gode.
+
+	|94-96.  Un punto~ ec.  A sua comperazione introduce
+l'Autore una favola poetica, a mostrare quanta @e la malagevoleza
+di cotale ragionare.  Nettuno fu Dio del mare; Argo fu il primo
+fabricatore di navi; la prima nave fece ombra in mare.  Onde
+Nettuno, quando questa nave cominci@o ad andare per mare, vedendo
+l'ombra sua, si maravigli@o come la nave, e la gente che su v'
+erano, poteano saltare le sue onde, e stavano e passavano sanza
+discendere nel suo ventre, e non si saziava di mirarla ora da
+popa, ora da proda, e la gente che su v'era, amirandosi di loro
+audacia.  |Letargo~ @e una infermit@a che induce difetto alla
+memoria.  Or dice l'Autore, che uno punto, che @e delle LX parti
+una d'un'ora, li farebbe maggiore dimenticanza, o maggiore
+impedimento, che non sarebbono essuti XXV secoli (cio@e XXV
+[centinaja] d'anni) a Nettuno a rimirare la nave d'Argo.  E se in
+cos@i poco di tempo, com'@e uno punto, si ricoglie pi@u d'amirazione
+in Cielo, che in MMD anni in terra; chiaro appare, come @e
+impossibile a notificarlo in pensiero, o in detto, o in scritto.
+
+	|97.  Cos@i la mente~ ec.  Qui fa sua comperazione.
+
+	|100-103.  A quella luce~ ec.  Chiaro appare, perch'@e il
+sommo Bene, il quale si @e obietto della volontade; e per@o @e
+impossibile che li beati vogliano mai altro, che volere vedere lo
+Creatore; e per@o dice -- |Perocch@e 'l ben, ch'@e del volere
+obbietto~ ec.
+
+	|106-108.  Omai~ ec.  Qui tocca come @e al fine della sua
+Commedia, e che tale proporzione avr@a sua parladura alla sua
+memoria, quale proporzione hae la lingua delli infanti all'essere
+delle cose.
+
+	|109-111.  Non perch@e~ ec.  L'Autore ha detto di sopra
+tre persone; qui vuole dire, ch'esse sono una divina essenzia. 
+-- |Non perch@e~ ec.  Qui per rimuovere ogni dubbio dice, che
+quella sustanzia divina era semplice ed una, e cos@i parea: ^Unum
+et idem est semper Deus; unus manens, dat cuncta moveri~ etc. 
+Altrimenti se avesse mutazione in s@e, parrebbe imperfetto.  E
+soggiugne:
+
+	|112-114.  Ma per la vista~ ec.  Dice: ella ha pure
+un'essenzia; ma io ven@ia prendendo valore, s@i ch'io mi mutava a
+me d'ora in ora.  E dice, che per@o che la vista si facea sempre
+di pi@u valore, meglio il comprendea di poi, che di prima: ed in
+questo mostra l'Autore, che 'l manco @e dalla parte del guardante,
+e non del guardato, quando il guardante non comprende il guardato
+perfettamente secondo ogni sua parte, e secondo suo tutto.
+
+	|115-117.  Nella profonda~ ec.  Ecco quello ch'egli vide,
+quanto alla trinitade delle persone divine, quanto alla essenzia
+di Dio, quanto alle cose mondane che paiono in esso come figura
+in specchio, s@i sustanzie, come accidenti ed operazioni naturali. 
+Dice, che vide nella profondit@a divina quello che [v'@e] in tre,
+in uno; e ci@o che per lo mondo si fa e si spiega, ci@o sono
+sustanzie ed accidenti, e le loro operazioni quasi in una massa,
+come sono li metalli molti in uno, de' quali si debbono fare
+monete, vasi a diversi offizii; o vero per modo d'idee, cio@e
+essemplari.  -- |Nella profonda~ ec.  Qui descrive in che modo la
+susistenzia divina @e in tre persone, dicendo che in essa li
+parvono tre giri distinti di colore, ma d'una grandeza.
+
+	|118-120.  E l'un dall'altro~ ec.  Cio@e, che quello parea
+nell'uno che ne l'altro, e ciascuno dava, e ciascuno ricevea. 
+Nota qui la relazione di queste tre persone.  |Iris~ @e quello
+arco che appare in aere.  Dice, che s@i come in quello arco si
+veggiono diversi colori, e l'uno riluce da l'altro; cos@i quelli
+circuli l'uno ricevea da l'altro, e riflettea ne l'altro; e 'l
+terzo, cio@e lo Spirito Santo, s@i spirava da loro due igualmente. 
+E questo @e contro a' Greci, che dicono che lo Spirito Santo
+procede solamente dal Padre.
+
+	|121-123.  Oh quanto @e corto~ ec.  L'Autore, per@o che con
+parole non puote narrare, n@e con essempli mostrare eziendio
+piccolissima parte di sua imaginazione; e quello ch'elli
+imagin@oe, rispetto di quello ch'elli vide, @e tanto, che a dire --
+|elli @e poco~, non basta; s@i lascia allo intelletto il rimanente,
+quanto la sua capacitade puote per grazia comprendere.
+
+	|124-126.  O luce eterna~ ec.  Qui propone, che Dio solo
+in s@e solo sta, s@e solo intende, e da s@e solo [@e] inteso, da s@e
+solo sufficientemente @e amato, da s@e solo sufficientemente @e
+compreso.
+
+	|127-132.  Quella circulazion~ ec.  L'Autore, volendo
+condiscendere a specificare in essa circulazione alcuna imagine,
+cio@e quella di Cristo, congiunto la divinitade con l'umanitade,
+dice: Quella triplice circulazione, ch'@e cos@i conceputa, --
+|Pareva in te~, luce etterna, come uno lume reflesso, cio@e che
+l'una refletta l'altro.  E dice: fu alquanto dagli occhi miei
+d'intorno intorno guatata; dentro da la quale del suo medesimo
+colore mi parea dipinta la nostra imagine; perch@e 'l mio viso
+tutto volsi in lei.
+
+	|133-138.  Qual @e il geometra~ ec.  Qui essemplifica,
+come non sapea vedere quella congiunzione, n@e come potesse
+cogliere ordine, in considerare quelle per sua aguaglianza.  E
+per@o dice: s@i come il geometra, cio@e il misuratore, quando vuole
+misurare la circonferenza d'alcuno circulo, e non sae in quale
+parte d'essa sia il principio, tutto vi si d@a, e non sa ritrovare
+quello principio, del quale elli maggiormente abbisogna; tale era
+l'Autore a quella cosa, la quale mai non avea veduta.  Elli volea
+vedere come l'umanit@a era congiunta con la divinit@a, e come essa
+umanit@a era in quella divinitade come in suo dove; e perch@e
+questo non potea fare, dice:
+
+	|139-145.  Ma non eran da ci@o~ ec.  Per@o che l'Autore non
+puote esplicare suo concetto, s@i chiude la sua opera; e dice, che
+-- |le proprie penne~, cio@e il proprio ingegno, che leva l'animo
+alla considerazione d'alcuna cosa, non era sofficiente a ci@o; e
+che allora, perch@e non attendesse pi@u a sotilizare, una luce
+percosse la memoria sua, cio@e dalla eccellenzia di tale
+considerazione la voglia de l'Autore fu rimossa, e volta da
+quello amore -- |che muove il Sole e l'altre stelle~, cio@e Idio;
+il quale sia benedetto per tutti i secoli.  ^Amen.~  -- |All'alta
+fantasia~ ec.  Per questa parola si puote comprendere la forma e
+il modo della edificazione e compilazione di questa Commedia: ch@e
+dice l'Autore, che per sua virt@u di fantasia, alla quale qui la
+potenza manca, compuose il fondamento, e tutto lo edificio di
+questa sua opera.....  Intenda chi legge questa Comedia, che
+l'Autore nel testo poetiza e finge; e cos@i fa la Chiosa.  ^Deo
+gratias.~
+

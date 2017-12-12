@@ -1,0 +1,719 @@
+	|1-3.~  Dante apparently believed that the rays of the moon, in 
+Dante's time considered a 'cold planet' (e.g., by Jacopo della Lana 
+[comm. to these verses]), enhanced the natural nocturnal cooling of the 
+earth, its temperature further decreased whenever another 'cold' 
+planet, Saturn, was visible above the horizon.  The hour is just before 
+dawn on Tuesday, the beginning of Dante's third day at the antipodes.  
+For an earlier Dantean reference to the coldness of Saturn see 
+^Convivio~ II.xiii.25.
+
+	|4-6.~  The early commentators who deal with the problems encountered 
+here are in fairly close accord.  Beginning with Benvenuto da Imola 
+they indicate the following: geomancers are diviners who create charts 
+based on random points on the earth's surface and drawn in the sand 
+(and later copied onto paper or in sand on a tabletop) that can be 
+linked in such a way, by joining various of these points with lines, to 
+create a number of figures (Daniello [comm. to these verses], following 
+Landino, names sixteen of these).  The facts behind the passage seem to 
+be pretty much as Grandgent, glossing it, said: "'Geomancers' foretold 
+the future by means of figures constructed on points that were 
+distributed by chance.  Their specialty was the selection of favorable 
+spots for burial.  They were the first in Europe to use the compass.  
+One of their figures, called ^fortuna major~, or 'greater fortune,' 
+resembled a combination of the last stars of Aquarius and the first of 
+Pisces.  As these constellations immediately precede Aries, in which 
+the sun is from March 21 to April 21, the figure in question can be 
+seen in the east shortly before sunrise at that season."  Their name, 
+geomancer, reflects the fact that such an adept draws his figures in 
+the sand (or earth -- Greek ^ge~) and that he is a diviner (Greek 
+^mantis~).  The configuration known as ^Fortuna maior~ is illustrated 
+by Benvenuto and others as shown here:
+
+\<pre\>
+        * *
+                * *
+        * *
+\</pre\>
+
+These stars are found in the east of the pre-dawn sky, shortly before 
+the sun rises in Aquarius in the spring, since the last stars in 
+Aquarius and the first in Pisces are visible in the hour before dawn.  
+Some commentators insist that all six stars are found either in 
+Aquarius or in Pisces alone, but others object (e.g., Chiavacci 
+Leonardi [^Purgatorio, con il commento di A. M. C. L.~ (Milan: 
+Mondadori, 1994)], p. 556, countering the first of these proposals).  
+For the Christological resonance of Pisces (another reason to accept 
+the early commentators' view that the stars are not found in Pisces 
+alone?) see the note to ^Purgatorio~ I.19-21.  This passage may lie 
+behind Chaucer's setting for the heroine's ^aubade~ (dawn song) in 
+^Troilus and Criseyde~ III.1422-1442, spoken while ^Fortuna Major~ was 
+rising in the east (III.1420).
+
+	Whatever the precise nature of the practices of geomancers, it seems 
+clear that Dante has not taken six lines to indicate that the time was 
+shortly before dawn without purpose.  Surely the unpleasant and 
+unsavory connotations of coldness and of divination (we remember the 
+treatment of diviners in ^Inferno~ XX) color our reception of the dream 
+that shortly follows.  We should also remember that this dream occurs 
+on the Terrace of Sloth, thus suggesting that it may reflect Dante's 
+own former tardiness in seeking the good.  Insofar as that affliction 
+also encouraged his involvement in cupidity, the dream may also look 
+back to some sort of misdirected love.
+	|7-9.~  ^~This second Purgatorial dream is at least as difficult to 
+interpret as the first (see the note to ^Purg~. IX.19).  For a brief 
+and cogent review of Classical, scriptural, patristic, and Scholastic 
+views of the nature of dreams see Peter Armour ("Divining the Figures: 
+Dante's Three Dreams in the ^Purgatorio~," in ^Melbourne Essays in 
+Italian Language and Literature in Memory of Colin McCormick~, ed. Tom 
+O'Neill [Dublin: Irish Academic Press, 1990]), pp. 13-16. 
+
+	Small seas of ink have been poured out in the quest for the source and 
+meaning of this unpleasant woman.  The far from convincing results 
+previously obtained probably should warn anyone against advancing an 
+opinion.  On the other hand, it seems to some that the problem is 
+easier to understand than are the attempts to solve it.  The poem 
+itself, in the words of Virgil, tells us precisely who the stammering 
+woman is: she represents the conjoined sins of excessive love, avarice, 
+gluttony, lust -- the sins of the flesh or, in the language of Dante's 
+first ^cantica~, the sins of incontinence.  (See Virgil's words at vv. 
+58-59: 'saw... that ancient witch / who alone is purged with tears 
+above us here.')  Dante's dream, nonetheless, must surely also have 
+specific meaning for him.  If the woman is the object of his affection, 
+she must have particular reference to lust, since the poem nowhere 
+offers any indication that Dante considered himself ever to have been 
+avaricious (or prodigal, for that matter) or gluttonous.  The 'good 
+that fails to make men happy' (^Purg~. XVII.133), in Dante's case, must 
+then nearly certainly be understood as involving wrongful sexual desire.
+
+	Consideration of the ^femmina balba~ (stammering woman) has caused 
+readers to seek out some fairly recondite sources.  Giuseppe Toffanin 
+("La 'foetida Aethiopissa' e la 'femmina balba,'" ^Giornale storico 
+della letteratura italiana~ 77 [1921], pp. 147-49) argued for a foul 
+female creature described in the ^Vitae patrum~; Francesco Mazzoni 
+(ed., ^La Divina Commedia: Purgatorio.  Con I commenti di T. 
+Casini/S.A. Barbi & A. Momigliano~ [Florence: Sansoni, 1977]), p. 436, 
+presented still another potential source, an apparently fair but 
+actually foul woman described in the ^Tabula exemplorum secundum 
+ordinem alphabeti~.  The common problem for these 'sources' is that we 
+have no evidence indicating that they were known to Dante.  ^~In recent 
+years still other recondite candidacies have been put forward: Paolo 
+Cherchi ("Per la 'femmina balba,'" ^Quaderni d'italianistica~ 6 [1985], 
+pp. 228-32) urges that of Bernard of Gordon, author of the ^Lilium 
+medicinae~, but admits that proving Dante's knowledge of this text or 
+even acquaintance with the interesting passage that he cites from it 
+(p. 230) in some other source is problematic; Michelangelo Picone 
+("L'Ovidio di Dante," in A. Iannucci, ed., ^Dante e la "bella scola" 
+della poesia~ [Ravenna: Longo, 1993]), p. 134, reaches out for the 
+nasty widow of Ovid's ^De vetula~; Giovanni Parenti ("Ercole al bivio e 
+il sogno della femmina balba," in ^Operosa parva per Gianni Antonini~, 
+ed. D. De Robertis & F. Gavazzeni [Verona: Valdonega, 1996], pp. 57-66) 
+investigates possible resonances of various potential sources, 
+including (pp. 55-59) the theme of Hercules at the crossroads found in 
+Cicero (^De officiis~ I.118) and (pp. 61-62) the 'idols of the 
+gentiles' found in a Psalm certainly known well by Dante, the ^In 
+exitu~ (Psalm 113B:4-7).  For a more general analysis of the passage 
+containing the ^femmina balba~ see Dino Cervigni (^Dante's Poetry of 
+Dreams~ [Florence: Olschki, 1986]), pp. 123-35.
+
+	What has rarely been noted in modern commentaries (but see Mattalia 
+[comm. to verse 7] and, citing him, Giacalone [comm. to vv. 25-27]) is 
+the fact that ^balbus~ is the contrary of ^planus~, the word that 
+describes Beatrice's speech in ^Inferno~ II.56 (see the note to ^Inf~. 
+II.56-57).  Cf. the entry ^balbus~ in Lewis and Short's ^Latin 
+Dictionary~, where this view is confirmed.  And see Cicero, ^De 
+oratore~ (I.lxi.260), where stammering (^balbus~) Demosthenes labored 
+so assiduously to correct himself in the pronunciation of initial 'r' 
+that no one could eventually be considered to pronounce it more clearly 
+(^planius~) than he.  For the 'higher' meaning of ^planus~ see the 
+Codice Cassinese (at verse 56): 'sermo divinus suavis et planus esse 
+debet' (divine speech should be smooth and clear).
+
+	|10-15.~  The woman, we learn from the preceding tercet, stammers, is 
+crooked in her glance as well as in her extremities, and sickly in her 
+complexion.  That is her natural condition.  Dante, in the logic of the 
+dream, redresses each of these sets of flaws, making her speech fluent, 
+straightening her limbs, and making her facial complexion the color 
+that love desires to find in a woman (commentators debate whether this 
+is red or white, but only since the time of Tommaseo [the early 
+commentators do not treat the question]; Tommaseo (comm. to vv. 13-15) 
+opts for the darker hue (purple, red); Bianchi, citing ^Vita nuova~ 
+XXXVI.1, where the 'color of love' is the pallor Dante finds in the 
+^donna gentile~, the woman who replaces dead Beatrice in his 
+affections, chooses the lighter: white.  Since then, there has been 
+continuing dispute, which is easily enough understood, since the ugly 
+nature of the woman has been characterized by her 'sickly pale 
+complexion,' given the fact that this has obviously been changed under 
+Dante's sun-like gaze.  As a result, many commentators think her color 
+must have been the rosy red of sexual excitement.  But Dante's own 
+earlier insistence on the white complexion that is the 'color of love' 
+surely supports Bianchi's view: From an unpleasant sickly pallor (i.e., 
+a loss of whiteness, as the hapax ^scialba~ in verse 9 suggests, from 
+the Latin ^exalbare~, here meaning 'unwhitened' [see Poletto, comm. to 
+vv. 1-9]), the skin of the woman's face turns to the elegant paleness 
+of a lady who draws the affection of her beholder.  This is not the 
+color of passion in her, but the color which causes passion in a male 
+beholder (a male might indeed not think her a 'lady' were her face 
+aglow with passion; one may make love to 'women,' one falls in love 
+with 'ladies').  While the commentators remain divided, opting for a 
+shade of red, a whiteness, or a combination of the two (all of which 
+may be found in the lengthy tradition of the 'colors of love,' at least 
+from Ovid onward), the context of ^Vita nuova~, which sponsors pallor 
+as the 'color of love,' supports only the second possibility.
+
+	|16-18.~  That Dante's glance has transformed her may further suggest 
+that the song which she sings is, in some sense, of his composition 
+also, as was the tempting song sung by Casella (^Purg~. II.112), the 
+second ^canzone~ included in Dante's ^Convivio~, addressed to the 
+^donna gentile~ (and not to Beatrice).
+
+	For the view that the ^femmina balba~ reflects not only the 
+potentially various flesh-and-blood ladies of Dante's sexual 
+transgressions but also the ^donna gentile~ of ^Convivio~, see 
+Hollander (^Allegory in Dante's "Commedia"~ [Princeton: Princeton 
+University Press, 1969], pp. 136-44, 162-63).  It seems more likely 
+that Dante here means to refer to the first and carnal lady for whom he 
+betrayed Beatrice, the lady of the last section of ^Vita nuova~, the 
+lady who, he later claimed, was only an allegory for the 
+unchallengeably virtuous Lady Philosphy.  Thus the main thrust of his 
+self-correction is aimed at the straying recorded in the earlier work; 
+but, naturally enough, it would also hold in contempt that later 
+allegorized lady as well, also presented as an 'enemy' of Beatrice in 
+the first three treatises of ^Convivio~.  Both move the lover from 
+affection for his true beloved in service of one far less worthy.
+
+	Joseph Mazzeo (^Medieval Cultural Tradition in Dante's "Comedy"~ 
+[Ithaca: Cornell University Press, 1960]), pp. 205-12, had already 
+suggested that the Sirens are to be considered as being related to 
+philosophical misadventure on Dante's part.  His argument is not 
+accepted by Mazzoni ("^Purgatorio~ Canto XXXI," in ^Lectura Dantis 
+Scaligera~ [Florence: Le Monnier, 1965]), p. 66n., who believes that 
+the context allows us to understand that only a carnal concupiscence is 
+the object of scrutiny here.  However, the way the mind loves its 
+'lady' may have seemed to Dante an even more important form of 
+affective behavior than sexuality.
+
+	|19.~  For the inverse relation between the Siren's way of naming 
+herself 'io son, io son dolce serena' (I am, I am the sweet siren) and 
+Beatrice's: 'ben son, ben son Beatrice' (I am, indeed I am Beatrice 
+[^Purg~. XXX.73]) and their possible connection to the 
+^tetragrammaton~, the two sets of two Hebrew letters (^ia ia~) that 
+make up the ninth of the names of God assembled by Isidore of Seville 
+(^Etymol~. VII.i.16), see Hollander (^Allegory in Dante's "Commedia"~ 
+[Princeton: Princeton University Press, 1969]), p. 144n.
+
+	For the biblical references to sirens (Isaiah 13:21; Job 30:29-30; 
+Isaiah 34:13; Jeremiah 50:39, Micah 1:8), see Lino Pertile ("Ulisse, 
+Guido e le sirene," ^Studi Danteschi~ 65 [2000]), p. 107n.  And, for 
+patristic references to them, see pp. 107-14.
+And, for the similarity (and possible relationship) between Dante's portrayal
+of dreams and Leonardo's, see Max Marmor, "'...par
+che sia mio destino...': The Prophetic Dream in Leonardo and in Dante,"
+^Raccolta Vinciana~ 31 (2005): 146-80.
+
+	|20-21.~  The phrasing that expresses the Siren's power over men may 
+put us in mind of the condition of Dante in the opening verses of the 
+poem, when he, ^nel mezzo del cammin~, was off his course and resembled 
+a sailor who had nearly drowned.  Does he now see himself as having 
+been seduced by a 'siren'?  Insofar as the she-wolf represents the sins 
+of Incontinence, and thus, for Dante, lust (see the note to ^Inf~. 
+I.32-54), the essential reason for his having lost the true way would 
+now seem to be predominantly related to his sexual affections.
+
+	|22-24.~  A tormented tercet: what does ^vago~ mean? to whom or what 
+does it refer? who is the ^serena~ who claims so to have held Ulysses' 
+attention?  As Barbi (^Problemi di critica dantesca~ [Florence: 
+Sansoni, 1934]), p. 228, maintained, in this poem the adjective ^vago~ 
+always (it is used 13 other times) means ^bramoso~ (desirous of) and 
+is, as here, used with the genitive (cf. ^Purg~. XXVIII.1).  (See 
+^Inf.~ VIII.52, ^Inf.~ XXIX.3, ^Purg.~ III.13, ^Purg.~ X.104, ^Purg.~ 
+XV.84, ^Purg.~ XXIV.40, ^Purg.~ XXVII.106, ^Purg.~ XXVIII.1, ^Purg.~ 
+XXXII.135, ^Par.~ III.34, ^Par.~ XII.14, ^Par.~ XXIII.13, ^Par.~ 
+XXXI.33.)  Thus, while the commentators are divided roughly evenly, 
+with more early ones opting for ^vago~ as modifying ^cammin~ (and 
+meaning 'wandering, indirect'), and more modern ones, beginning with 
+Torraca (comm. to these lines), believing that it modifies Ulysses (and 
+means 'eager'), one is more likely to be convinced, as was Giuseppina 
+Mezzadroli ("Dante, Boezio e le sirene," ^Lingua e stile~ 25 [1990]), 
+p. 29, that the context and Dante's general practice allow us to 
+resolve the first two questions as did Barbi (this woman drew Ulysses 
+from the journey he was so eager to pursue).  (For a lengthy treatment 
+of the word, Karlheinz Stierle ["^Paradiso~: Canto III," ^L'Alighieri~ 
+19 (2002)], p 75n., refers the reader to A. Noyer-Weidner, 
+"Standortbestimmung zum Gebrauch eines 'echt italienischen Wortes' 
+^(vago~) bei Dante und Petrarca," in his ^Umgang mit Texten~, I 
+[Stuttgart: Franz Steiner, 1986], pp. 169-92.)  But what of this 
+'siren' who so beguiled Ulysses?  Commentators have at times forgotten 
+that Dante did not know Homer's account (^Odyssey~ XII.39-200) of 
+Ulysses' escape from the Sirens' seductive wiles.  (One of them, 
+Benvenuto [comm. to vv. 16-24] , perhaps flaunting his newly gained 
+acquaintance with the newly translated Homeric epics, suggests that 
+Calypso is the siren referred to here; Padoan ["La 'serena' dell'Ulisse 
+dantesco (^Purg~. XIX 19-24)," in his ^Il pio Enea e l'empio Ulisse: 
+Tradizione classica e intendimento medievale in Dante~ (Ravenna: Longo, 
+1977 [1960]), pp. 200-4], encouraged by Benvenuto, also hears this 
+ill-heard echo.)  We should probably understand, following Edward Moore 
+(^Studies in Dante~, First Series: ^Scripture and Classical Authors in 
+Dante~ [Oxford: Clarendon, 1969 (1896)]) that, from Cicero's ^De 
+finibus~ V.xviii.48-49, Dante decided that Ulysses had indeed been 
+tempted by the Sirens.  (In this vein see Hollander ["^Purgatorio~ XIX: 
+Dante's Siren/Harpy," in ^Dante, Petrarch, Boccaccio: Studies in Honor 
+of Charles S. Singleton~, ed. Aldo S. Bernardo and Anthony L. 
+Pellegrini (Binghamton, NY: Medieval & Renaissance Texts and Studies, 
+1983), pp. 80-83]; Giuseppina Mezzadroli ["Dante, Boezio e le sirene," 
+^Lingua e stile~ 25 (1990), pp. 30-32]; and Lloyd Howard [^Formulas of 
+Repetition in Dante's "Commedia"~ (Montreal: McGill-Queen's University 
+Press, 2001), pp. 139-41]).  In any case, that is how he has the Siren 
+portray Ulysses, and he offers no textual support for any other view.  
+He also probably had in mind, as Moore indeed indicated, the passage 
+near the opening of Boethius's ^Consolation of Philosophy~ (I.i[pr]) 
+that has Lady Philosophy ordering the 'sweet Sirens' to be gone from 
+the presence of Boethius and leave him to the care of her better 
+'Muses' (perhaps first noted by Tommaseo [comm. to vv. 19-21]).  
+Hollander ("^Purgatorio~ XIX: Dante's Siren/Harpy," in ^Dante, 
+Petrarch, Boccaccio: Studies in Honor of Charles S. Singleton~, ed. 
+Aldo S. Bernardo and Anthony L. Pellegrini [Binghamton, NY: Medieval & 
+Renaissance Texts and Studies, 1983]), p. 82, also notes the closeness 
+of Dante's description of the Sirens to that found in Isidore of 
+Seville (^Etymol~. XI.iii.30-31).  Pertile ("Ulisse, Guido e le 
+sirene," ^Studi Danteschi~ 65 [2000], pp. 101-18) attempting to 
+demonstrate that the Christian tradition of Ulysses (which sees him 
+positively, as the man who could withstand the Sirens, i.e., sensual 
+and intellectual temptation) stands behind Dante's treatment of the 
+hero, somehow fails to deal with the fact that in Dante Ulysses is 
+portrayed precisely as ^failing~ to resist such temptation.  For that 
+matter, in Beatrice's later opinion, Dante himself is seen in exactly 
+the same light, namely as yielding to the temptation of the Sirens when 
+he withdrew his attention from her in order to fall under the spell of 
+another lady or ladies (^Purg~. XXXI.43-48).  Picone ("Canto XIX," in 
+^Lectura Dantis Turicensis: Purgatorio~, ed. Georges G,untert and 
+Michelangelo Picone [Florence: Cesati, 2001], pp. 287-306) has done a 
+^lectura~ of the canto that is almost entirely dedicated to the 
+Ulyssean motifs found in it.  For an attempt to reassess in a balanced 
+way Dante's treatment of Ulysses, see Patrick Boyde (^Human Vices and 
+Human Worth in Dante's "Comedy"~ [Cambridge: Cambridge University 
+Press, 2000], Chapter 10, "The worth and vices of Ulysses: a 
+case-study," pp. 231-72).  It is worth noting that at least one early 
+commentator, the anonymous author of the ^chiose sincrone~ in a 
+manuscript from Montecassino (the Codice Cassinese, general ote to this 
+canto), also believes, as Dante appears to, that the Sirens were found 
+at sea.  He claims as much on the authority of the ^figmenta poetarum~, 
+the fables of the poets.  But see Hollander ("^Purgatorio~ XIX: Dante's 
+Siren/Harpy," in ^Dante, Petrarch, Boccaccio: Studies in Honor of 
+Charles S. Singleton~, ed. Aldo S. Bernardo and Anthony L. Pellegrini 
+[Binghamton, NY: Medieval & Renaissance Texts and Studies, 1983]), pp. 
+82-83, for a possible source in a poet quite familiar to Dante, Ovid 
+(^Metam~. V.552-563), who gives the Sirens wings so that they may fly 
+over the sea in their search for Proserpina.
+
+	A number of commentators have believed, from the earliest days onward, 
+that Dante confusedly considered Circe (to whom he has the Greek 
+adventurer advert as his seductress in ^Inf~. XXVI.91-92) one of the 
+Sirens.  He clearly knows better than that.  On the other hand, he also 
+may be building his own version of Ulysses' biography, as he has 
+already done in inventing the last voyage in the earlier passage, and 
+now includes an interlude that adds another to the single 'canonical' 
+and Circean divagation in yet another example of Ulyssean turning.
+
+	|26-27.~  Attempting to identify this lady, Fedele Romani (^Il canto 
+XIX del "Purgatorio"~ [("Lectura Dantis Orsanmichele") Florence: 
+Sansoni, 1902]), pp. 15-18, one hundred years ago opted for Beatrice, 
+but has had few followers.  Gioacchino Paparelli ("^Purgatorio~ Canto 
+XIX," in ^Lectura Dantis Scaligera~ [Florence: Le Monnier, 1967]), p. 
+717, reviewing the question, adds a piece of evidence for those who 
+think the lady is Beatrice: as Lucy, introduced along with Beatrice in 
+^Inferno~ II, is central to the first dream in ^Purgatorio~ IX, so 
+Beatrice, introduced to the poem in that same passage, operates in the 
+second dream as its morally central character.  However, Paparelli 
+continues, the fact that Dante does not recognize her simply voids this 
+interpretation.  Perhaps Paparelli (and many another who follows this 
+line of argument) does not take into sufficient account the fact that 
+this scene is presented ^as a dream~, i.e., a 'text' that requires 
+interpretation in order to be understood.  In this formulation it is 
+essential that Beatrice ^not~ be presented as herself, but as being 
+discoverable from her qualities.  If one wanted to cite a single 
+passage that reveals the convoluted and implausible arguments of those 
+who seek another solution for the problem, Paparelli's discussion (pp. 
+714-29), which ends up opting for 'Justice' as this lady's identity, 
+would serve admirably.
+
+	Among more recent proponents of Beatrice's candidacy see Poletto 
+(comm. to vv. 25-27), who clearly prefers her as best fitting what 
+happens in the poem, while ultimately not being quite certain; Carroll 
+(comm. to vv. 25-33), although he is still more tentative than Poletto 
+and, indeed, eventually prefers an unlikely choice, Matelda (whom we 
+will meet in ^Purg~. XXVIII); Vandelli (comm. to vv. 26-33); and 
+Giacalone (comm. to vv. 25-27), who offers the fullest and best defense 
+of Beatrice as being the lady in question.  And see Hollander 
+(^Allegory in Dante's "Commedia"~ [Princeton: Princeton University 
+Press, 1969]), pp. 141-44, who strongly supports this view.  Giuseppe 
+Mazzotta (^Dante's Vision and the Circle of Knowledge~ [Princeton: 
+Princeton University Press, 1993], p. 145) and ("Il sogno della Sirena 
+[^Purgatorio~ XIX]," in ^Il sogno raccontato: Atti del convegno 
+internazionale di Rende (12-14 novembre 1992)~, a cura di N. Merola and 
+C. Verbaro [Vibo Valentia: Monteleone, 1995], p. 127) also believes 
+that this lady in Dante's dream is Beatrice.  And see Picone ("Canto 
+XIX," in ^Lectura Dantis Turicensis: Purgatorio~, ed. Georges G,untert 
+and Michelangelo Picone [Florence: Cesati, 2001], pp. 287-306) for a 
+similar view.
+
+	|28-30.~  If this is Beatrice, then it is hardly surprising that she 
+would recognize Virgil, in the dreamer's estimation, since he knows 
+from what he was told in ^Inferno~ II.53 that Beatrice came to Virgil 
+in Limbo.  And as for the identity of the lady here, characterized as 
+being 'onesta' (virtuous), it is probably worth remembering that 
+Beatrice is later compared to a 'donna onesta' (chaste lady) in 
+^Paradiso~ XXVII.31.
+
+	|31-33.~  What is the subject of the verb ^prendea~ (seized)?  Some 
+have argued that it is the holy lady.  A sense of grammatical structure 
+indicates, instead, that it is Virgil, subject of the previous verb 
+(^ven@ia~ [came forward]) that is in parallel with it.  Further, if 
+the lady indeed represents Beatrice, it would be highly unlikely that 
+she would do the dirty work herself.  Just as she, in ^Inferno~ II, 
+called on Virgil to make Dante aware of the foulness of the sins 
+punished in hell, so now she stands to one side while Virgil reveals 
+the noxious nature of her rival, the ^femmina balba~.
+
+	The stench that arises from the naked belly of the ^femmina~ has, 
+according to Hollander ("^Purgatorio~ XIX: Dante's Siren/Harpy," in 
+^Dante, Petrarch, Boccaccio: Studies in Honor of Charles S. Singleton~, 
+ed. Aldo S. Bernardo and Anthony L. Pellegrini [Binghamton, NY: 
+Medieval & Renaissance Texts and Studies, 1983]), pp. 84-86, a familiar 
+source, not one that must be sought in out-of-the-way medieval 
+treatises (see the note to ^Purg~. XIX.7-9), but in Virgil's 
+description of the Harpies in ^Aeneid~ III.216-218, as was suggested by 
+a student at Princeton, Carl Frankel '70, in 1968: 'virginei volucrum 
+vultus, foedissima ventris / proluvies, uncaeque manus, et pallida 
+semper / ora fame' (maidenly of countenance, yet winged; most foul the 
+discharge of their bellies; their hands taloned; their faces always 
+pale with hunger).  The particular similarity of the stinking bellies 
+of Dante's Siren and Virgil's Harpies is surely striking.  A further 
+similarity lies in the purpose both creatures have in the works that 
+contain them, which is to draw the hero away from his task, whether 
+from proceeding to Italy or from pursuing Beatrice to a destination in 
+Christ.  In this sense both are counselors of despair.  In Dante's 
+case, it is his duty to confess that he himself had created, out of 
+what should have been repulsive, what he came to worship; out of a 
+Harpy he had formed a Siren.  Unlike Ulysses' Siren, Dante's ^femme 
+fatale~ is not even beautiful to begin with.  It is no wonder that she 
+will be brought back into play in his worst moment of guilt in the 
+entire poem when he is censured by Beatrice in ^Purgatorio~ XXXI.43-48, 
+warning him not to be lured by the 'Sirens' ever again.
+
+	|34-35.~  In Dante's 'Surgi e vieni' (Arise and come), Mattalia (comm. 
+to verse 35) seems to have been the first commentator (and few have 
+subsequently joined him) to hear what is clearly a biblical echo, even 
+if his hearing is a little dull.  He cites Matthew 9:5-6, where Jesus 
+urges the paralyzed man to walk; perhaps more applicable is Matthew 
+26:36-46, where Jesus three times leaves his disciples in Gethsemane in 
+order to pray in a place apart and three times comes back to find them 
+sleeping, finally arousing them with 'Surgite, eamus' (Rise, let us be 
+going), for His betrayal (by Judas) is at hand.  The rhythm of those 
+three disheartening visits to those who should have been awake is 
+preserved in Dante's 'Three times at least I've called you,' as was 
+suggested in 1969 by two undergraduate students at Princeton, John 
+Adams and Christopher McElroy.  Lost in his dream, Dante is like the 
+disciples who sleep while their Lord suffers alone.
+
+	|37-42.~  Dante has slept late, unsurprisingly, given his late-night 
+activities on the Terrace of Sloth (^Purg~. XVIII.76-78), and now finds 
+the sun, at his back, risen above the horizon.  For his posture 
+Bosco/Reggio (comm. to vv. 40-42) suggest the similitude of a broken 
+supporting pier of a bridge (and thus ^only~ half an arch) rather than 
+that of one of the two halves of a pointed arch, as proposed by others, 
+since pointed arches were rarely found as features of medieval bridges. 
+ 
+Whatever the architectural model, the protagonist is obviously 
+concerned about the meaning of his dream.
+
+	|43-45.~  The Angel of Zeal's words ('Come, here is the passage') may 
+not be like any heard here on earth, but they do resemble those spoken 
+by Beatrice when she was described by Virgil as being 'soave e piana' 
+(gentle and clear) in her speech (^Inf~. II.56), as Poletto (comm. to 
+vv. 40-45) suggested.
+
+	As for the word ^marca~, commentators point out that it is of feudal 
+(Carolingian) origin, and referred to the borderline that a lord 
+established for his terrain; in Dante's use of the extended sense of 
+the word (which had come simply to mean 'region') there may reside some 
+sense of the original term: our earth is like a small fiefdom when 
+compared with God's kingdom.
+
+	|46-48.~  Perhaps this only reference to a particular bird as being 
+similar to a welcoming angel includes swan-like features because of the 
+avian characteristics of the Siren that it intrinsically counters.  The 
+soft wings of the angel also stand in sharp contrast to the rocky sides 
+of the narrow passage upward, framing these, as it were.  Some 
+commentators argue that this angel opens its wings in order to point 
+the way to the passage; since its voice has already done so, this seems 
+an unnecessary precision.
+
+	|49-51.~  The nine verses devoted to the presence of the angel here 
+represent the briefest scene yet devoted to the interplay between angel 
+and mortal (but see the note to ^Purg~. XXII.1-6).  The Beatitude 
+referred to, Matthew 5:4 (5:5 in the Vulgate), 'Blessed are they that 
+mourn, for they shall be comforted,' has caused some to wonder what 
+specific relevance these words have to those formerly guilty of Sloth.  
+Federigo Tollemache, "beatitudini evangeliche" (ED.1970.1), p. 540b, 
+explains that, given Thomas Aquinas's definition (^ST~ II.ii.35.2) of 
+^accidia~ as ^tristitia de spirituali bono~ (dejection over one's 
+spiritual health), the phrase 'qui lugent' (those who mourn) is 
+relevant.  For the program of the Beatitudes in this ^cantica~, see the 
+note to ^Purgatorio~ XII.110.
+
+	|52-60.~  The exchange clearly reflects that between Virgil and Dante 
+in ^Purgatorio~ XV.120-126.  Once again Virgil begins by asking Dante 
+'che hai?' (what's wrong?), not at first understanding his charge's 
+removal from present reality.  Once again Dante insists on his 
+other-mindedness.  In the first instance Virgil quickly understood that 
+Dante was having a visionary experience; now he becomes aware that 
+Dante has been having a dream of what his guide's words had prepared 
+him for, coming to grips with the 'good that fails to make men happy' 
+(^Purg~. XVII.133).  In the first case, Virgil seems to have insisted 
+that he knew what he did not know; here he seems to have intuited 
+correctly what his charge was dreaming.  Scartazzini (comm. to verse  
+58) points out that some texts have question marks following the words 
+'si piagne' (verse 59) and 'si slega' (verse 60), making what 
+Petrocchi's text records as observations into questions.  Were we to 
+know that such was indeed the punctuation used by Dante, the hypothesis 
+outlined above would be supported, i.e., Virgil did not 'see' Dante's 
+dream, but divined it from the situational context.
+
+	While some of the early commentators are sure that here Virgil only 
+refers to the sin of Avarice, repented on the next terrace, beginning 
+with Benvenuto da Imola (comm. to vv. 58-63) others have clearly 
+understood that Virgil is referring to all of the three sins of 
+incontinence he had described in ^Purgatorio~ XVII.133-139.  For a full 
+review of the interpretive problem represented by the ^antica strega~ 
+see Gabriele Muresu ("Il richiamo dell'antica strega [^Purgatorio,~ 
+XIX]," ^La Rassegna della letteratura italiana~ 100 [1996], pp. 5-38).
+
+	Virgil's formulation causes a problem for those who would argue that 
+the holy lady is Beatrice, since it generalizes the nature of the lady 
+who opposes the ^femmina balba~ and makes Dante's dream applicable to 
+all sinners, no others of whom, we may assume, are lovers of Beatrice.  
+For this reason Giovanni Parenti's understanding ("Ercole al bivio e il 
+sogno della femmina balba," in ^Operosa parva per Gianni Antonini~, ed. 
+D. De Robertis & F. Gavazzeni [Verona: Valdonega, 1996]), pp. 62-63 
+(resuscitating Torraca's opinion [comm. to vv. 25-33]), that the holy 
+lady equates with Charity, seems the most adequate solution, good love 
+that operates against the forces of 'the good that fails to make men 
+happy' (^Purg~. XVII.133).  Charity may well be the general meaning of 
+the lady in the dream; for Dante, however, that theological virtue is 
+the core of the meaning of Beatrice.
+
+	|61-62.~  Some commentators take Virgil's exhortation metaphorically, 
+i.e., 'crush the things of this world under your feet,' but it seems to 
+be literal enough, urging Dante to cease his dreamy self-absorption and 
+push up (they are on the slope between terraces) and forward with his 
+feet in order to continue his journey.
+
+	|63-69.~  Virgil's metaphoric expression and the poet's following 
+simile return to falconry (see the note to ^Inf~. XVII.127-136), now in 
+as central an image of the basic movement of the entire poem as may be 
+found.  Mortals look down, consumed by their own concerns while God, 
+the falconer, wheels his lure (the celestial heavens) around his 
+'head,' thus drawing us back to Him.  Dante had been looking at the 
+earth (verse 52) and Virgil urges him to push off against it in order 
+to move on (verse 61); in the simile the falcon, too, looks down, 
+perhaps to see if he is still bound to the falconer's wrist now that 
+his hood has been removed (or merely in his habitual attitude, his head 
+inclined downward, resting on his breast).  Both bird and Dante, urged 
+on, look up and travel upward, in Dante's case by climbing through the 
+passageway in the rock so that he may resume his circling of the 
+mountain on his approach to God.
+
+	The image of the star-filled heavens as God's lures for us, his 
+falcons, is central to the progress of the poem that concludes each of 
+its ^cantiche~ with the word ^stelle~ (stars).
+
+	|70-72.~  Dante's arrival on the fifth terrace, that of Avarice and 
+Prodigality, is immediately greeted by the sight of those who are 
+purging themselves there, prostrate on the earth.  This terrace is 
+unique in that it is a stage for three increasingly lengthy 
+conversations, first with a pope (Adrian V) in this canto, with a 
+kingly figure (Hugh Capet) in the next, and finally with a poet 
+(Statius) in XXI and XXII, a sample of callings that reflects Dante's 
+most pressing concerns: Church, empire, and letters.
+
+	|73-75.~  The penitents' cries, muffled because they lie facedown on 
+the floor of the terrace and are uttering them through painful sighs, 
+are 'my soul cleaves to the earth' (Psalm 118 [119]:25).  The Ottimo 
+(comm. to vv. 70-74) connects this confessional outpouring with 
+Virgil's earlier remark to Dante ('Press your heels / into the ground' 
+[verse 61]), thus suggesting that the avaricious repent their longing 
+for the things of the earth, exactly what Virgil is urging Dante to do.
+
+	|76-77.~  The terms in which Virgil puts his request may remind us 
+that his own condition in Limbo lacks precisely what these penitents 
+enjoy: hope in the justice of God for eventual salvation.  Virgil and 
+the other inhabitants of Limbo long for that justice, but without any 
+possible hope of achieving it (^Inf~. IV.42).
+
+	|79.~  As Singleton (comm. to this verse) observes, this is the first 
+time we learn that some penitents do not have to spend penitential time 
+on every terrace, since the nameless speaker (we will learn that he was 
+a pope at verse 99) assumes, from Virgil's request for help, that both 
+of these newcomers are saved souls exempt from the sin of avarice (or 
+of prodigality) who are ascending to a destination higher up the 
+mountain without having to stay here.
+
+	|84.~  Dante cannot make out the identity of the speaker, but is able 
+to individuate the source of the words he has just heard; he seeks 
+Virgil's permission to question him.
+
+	|86.~  The ^cenno~ (sign) made by Virgil in assent to Dante's request 
+is apparently either a facial gesture (a smile?) or an ocular one (a 
+kindly glance?).  He will make a responsive and welcoming gesture to 
+the shade of Statius in ^Purgatorio~ XXI.15, the nature of which has 
+caused more puzzlement than this one.
+
+	|92.~  Dante's circumlocution, 'that without which there is no return 
+to God,' refers to the satisfaction each penitent must offer to God, 
+showing that he or she is finally pure of the traces of the defiling 
+sin purged on each terrace.
+
+	|94-96.~  Dante's three questions will be the basis for this 
+penitent's speech, which will fill most of the rest of the canto, vv. 
+97-126 and 142-145.  He wants to know the identity of his interlocutor, 
+the nature of the sin reflected in his prone posture, and, as is 
+customary, what service he (as living soul) can perform back on earth 
+for him.
+
+	|99.~  The speaker, in good papal Latin ('Know that I was a successor 
+of Peter'), informs Dante that he was once a pope, not boastfully, but 
+humbly and ashamedly, as though to say 'I, of all people, who should 
+have known better.'  Benvenuto (comm. to vv. 97-99) makes a similar 
+point; it is as though he said he was a successor of Peter 'sed non 
+pauper ut Petrus' (but not a poor man, as was Peter).
+
+	|100-105.~  Geographical indications (two towns on the Ligurian coast 
+and the stream taken by members of the Fieschi family for their title: 
+they are 'counts of Lavagna') leave no doubt as to the identity of the 
+pope who speaks: 'Adrian V (Ottobuono de' Fieschi of Genoa), elected 
+Pope at Rome, in succession to Innocent V, July 11, 1276; died at 
+Viterbo on Aug. 16 following, before he had been crowned' (Toynbee, 
+"Adriano [2]" [^Concise Dante Dictionary~]); thus Dante's 'a month and 
+little more' to indicate Adrian's term of office.  Longfellow (comm. to 
+verse 99) reports the following papal remark: 'When his kindred came to 
+congratulate him on his election, he said, 'Would that ye came to a 
+Cardinal in good health, and not to a dying Pope.''
+
+	|104.~  See ^Purgatorio~ XVI.127-129 for Dante's earlier view of the 
+papacy's descent into the 'mud' of wrongful activity.
+
+	Bosco (comm. to vv. 127-138) draws attention to the parallels between 
+the previous nineteenth canto and this one, both deeply involved with 
+the papacy in both similar and opposed spirits.  At least here we 
+understand what the papacy might be if the pope were an Adrian V.  It 
+is perhaps by design that the first saved pope whom we meet in the poem 
+(there will be more [see the note to ^Inf~. VII.38-39]) should be 
+distinguished by having died shortly after his election and thus 
+without having served 'officially' at all.
+
+	|106-114.~  Adrian's remarks have caused a certain puzzlement, since 
+historical records give no sense of his involvement in avaricious 
+behavior (nor, consequently, of his turning from that sin only once he 
+was elected pope); as Scartazzini (comm. to verse 99) observed, such 
+notice derives only from this passage in Dante's poem and from his 
+perhaps too gullible commentators.  Bosco ("Particolari danteschi," 
+^Annali della Reale Scuola Normale di Pisa, Lettere, storia e 
+filosofia~ 11 [1942]), pp. 136-43, followed by Sapegno (comm. to verse 
+99), argues that Dante thought that what he had read in John of 
+Salisbury's ^Policraticus~ (VIII.xxiii.814) or, more likely, since 
+Petrarch later also made the same mistake, in some (unknown) later 
+source that created this error, about the twelfth-century pope Adrian 
+IV, concerned instead his thirteenth-century namesake.  Renucci, cited 
+by Giacalone (comm. to vv. 100-102), has argued that Dante was well 
+acquainted with John of Salisbury's text and deliberately conflated the 
+two Adrians for reasons of his own.  Since Dante almost certainly had 
+recourse to John's text, it is difficult to counter Renucci's view, 
+even if it leaves one wondering why Dante should have wanted to rewrite 
+the life of Adrian V in this way.  For the ^Policraticus~ as source of 
+several of Dante's exemplary figures see E.R. Curtius (^European 
+Literature and the Latin Middle Ages~, tr. W.R. Trask [New York: Harper 
+& Row, 1963 (1948)]), pp. 364-65; see also Andr$e P$ezard ("Du 
+^Policraticus~ @a la ^Divine Com$edie~," ^Romania~ 70 [1948]), esp. 
+pp. 163-91 (for John of Salisbury's Adrian), and Renucci (^Une source 
+de Dante, le "Policraticus" de Jean de Salisbury~ [Paris: n.p., 1951]). 
+ For the texts in the ^Policraticus~ that are pertinent here, see 
+Singleton (comm. to vv. 99-114).
+
+	|106.~  Conversion here signifies any turning to God.  Even confirmed 
+Christians are likely to experience a continuing need for 'conversion.' 
+ See Singleton (^Journey to Beatrice~ [Cambridge: Harvard University 
+Press, 1967 (1958)]), pp. 39-56.
+
+	|115-126.~  Adrian here answers Dante's second question, why these 
+souls are in the posture Dante sees them in, by explaining their 
+^contrapasso~: since they sought the things of earth energetically, 
+they now are facedown on that earth and restrained, immobile, upon it.
+
+	|127-132.~  Dante's reverent kneeling before Adrian is apparent from 
+his voice, which sounds louder because his face is now closer to the 
+recumbent pope's body.  The interruption in Adrian's answers allows 
+this little exchange that offers a lesson in fellowship that trumps 
+Dante's gesture of respect.
+
+	|131.~  Adrian earns one of Dante's relatively few uses of the 
+honorific 'voi' (see the note to ^Inf~. X.49-51).  In the first 
+^cantica~ only Farinata, Cavalcante, and Brunetto have this honor 
+bestowed upon them.  Adrian, the fourth of seven to share the honor, 
+will be joined only by Guinizzelli (^Purg~. XXVI.112) and Beatrice 
+(first at ^Purg~. XXXI.36) in this ^cantica~, and then by Cacciaguida 
+(first at ^Par~. XVI.10) in the next.
+
+	|133.~  Adrian's response is so urgent that he only gets to his 
+fraternal salute, nearly always found, elsewhere in the poem, at the 
+beginning of direct address and never at its end, last.  His 'frate,' 
+rhyming with 'dignitate,' is the answer to the hierarchy underlined by 
+that second term and by Dante's kneeling.  In God's kingdom there is no 
+specialness, only brotherhood of the equally special.
+
+	For a survey of the presence of the address 'frate' in the ^Commedia~, 
+see the note to ^Purgatorio~ IV.127.  There are twenty occurrences of 
+the word, when used to address another, in the poem, the first in 
+^Inferno~ XXIII.109, where Dante addresses the Jovial Friars rather 
+nastily, the last in ^Paradiso~ XXII.61, where Benedict addresses 
+Dante, who is saluted a total of seventeen times in this way.  Only 
+Forese Donati (twice) and Beatrice (four times) are permitted to use 
+this form of address more than once.  In the last two ^cantiche~ the 
+only addressee other than Dante is Statius (^Purg~. XXI.131), in 
+Virgil's humble and warm disclaimer of a respect similar, on Statius's 
+part, to that displayed here by Dante for Adrian.
+
+	|134-135.~  From the time of Benvenuto (comm. to vv. 133-138) it has 
+been understood that this scene clearly replays a similar scene in the 
+Bible: Revelation 19:9-10, where the angel addresses John, commanding 
+him to write of the blessedness of those who share the marriage supper 
+of the Lamb.  When John falls before the feet of the angel to worship 
+him, the angel says: 'You must not do that; I am your fellow-servant 
+(^conservus~).'  Dante's hapax, ^conservo~, surely cements the 
+relationship between the two texts.
+
+	|136-138.~  The next biblical reference is to Matthew 22:23-30, 'neque 
+nubent' (nor do they marry), a passage in which Christ deals with the 
+sardonic and hairsplitting Sadducees, who do not believe in 
+resurrection and who wish, cynically, to know which of six brothers, 
+who had in turn married an eldest brother's widow, would be her 
+resurrected husband.  Jesus answers them by saying that after the 
+Resurrection there will be no marrying in Heaven, where all will share, 
+one might add, in the marriage supper of the Lamb as equals, where all 
+are married to all and to none.  Adrian's insistence on the lack of 
+hierarchical distinction is his version of Jesus' saying.
+
+	|141.~  'That of which you spoke' refers to Dante's previous 
+understanding (verse 92) of Adrian's desire to complete his penance and 
+thus achieve purification.
+
+	|142-145.~  Answering the third element in Dante's question, regarding 
+what Dante might do for him, Adrian can supply only the name of a 
+niece, Alagia, who might pray for him, thus suggesting that his 
+avaricious former life had much in the way of familial bad company 
+among all the rest of his relatives.
+
+	Alagia was married to Moroello Malaspina, with whom Dante was on 
+friendly terms, and thus his good words about her probably reflect a 
+positive impression gained from personal knowledge and may also serve 
+to express gratitude for the Malaspina family's hospitality in 
+Lunigiana in the early years of Dante's exile.

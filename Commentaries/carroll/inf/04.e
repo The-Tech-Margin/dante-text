@@ -1,0 +1,399 @@
+	|13-18.~  When he awakes, he finds himself in a `blind world'
+-- `a land of darkness as darkness itself... where the light is as 
+darkness.'  Even his Guide becomes all pale, and this Dante 
+mistakes for a sign of terror.  Virgil, however, assures him that 
+the cause s not fear, but pity for the lost.  All through the 
+^Inferno~ there goes on a kind of struggle between Dante's heart 
+and his reason as represented by Virgil.  At times even Reason 
+grows pale with pity for the sorrows of the lost; at other times 
+it rebukes pity, declaring it to be rebellion against the Justice 
+of God.  It is quite possible, however, that Virgil's pity has 
+reference only to this First Circle, to which he himself 
+belonged; and certainly, if ever pity might be permitted, it is 
+here.  For its inhabitants are not sinners in the ordinary sense. 
+
+	|33-42.~  Properly speaking, indeed, this First Circle is not
+Hell so much as its Limbo or Hem; and its inhabitants are the
+Virtuous Heathen and Unbaptized Infants.  Of the former Virgil
+says: 
+ 
+     `Now will I have thee know, ere thou go farther, 
+     That they sinned not; and if they merit have, 
+     `Tis not enough, because they had not baptism, 
+     Which is the portal of the Faith thou holdest; 
+     And if they were before Christianity, 
+     In the right manner they adored not God; 
+     And among such as these am I myself. 
+     For such defects, and not for other guilt, 
+     Lost are we, and only so for are punished, 
+     That without hope we live on in desire.' 
+                                   [^Inf.~ iv. 33-42.] 
+ 
+In the ^Purgatorio~ we are told that they practised the four 
+Cardinal Virtues, but Faith, Hope, and Love, the three 
+Theological Virtues necessary for salvation, were unknown to them 
+[^Purg.~ vii. 34-36].  Virgil, in reply to a question of 
+Dante's, tells him that soon after his own arrival in this Limbo 
+`a Mighty One with sign of victory crowned' came and rescued 
+many, among whom he names `the First Parent,' Abel, Noah, Moses, 
+Abraham, David, Israel, with his father, his sons, and his wife 
+Rachel.  These were the first human spirits saved [^Inf.~ iv. 
+52-63]. 
+ 
+	It is strange to find that Dante is absolutely silent 
+concerning the Infants; although in the ^Purgatorio~ he speaks to 
+them pityingly as 
+ 
+                    `the little innocents 
+     Bitten by the teeth of death, or ever they 
+     Were from our homan sinfulness exempt' -- 
+                              [^Purg.~ vii. 31-33.] 
+ 
+that is, before their original sin had been washed away by the 
+waters of Christian baptism.  Without doubt he accepted the 
+merciful view of his master in theology, St. Thomas Aquinas, that 
+such infants are simply excluded from Paradise and suffer no pain 
+even of loss: `as they are not made capable of possessing the 
+vision of God, they no more grieve for its loss than a bird does 
+that it is not an emperor or a king.  Moreover, though not united 
+to God in glory, they are joined to Him by the Share they possess 
+of natural goods, and are able to rejoice in Him by natural 
+knowledge and love' [Appendix to ^Supplement~, q. i. a. 2].  It 
+is perhaps for this reason that Aquinas places infants in a 
+separate Limbo.  In the ^Paradiso~, the lower half of the
+snow-white Rose is occupied by redeemed children, the little `folk
+who hastened to the true life' [^Par.~ xxxii. 40-84, where the 
+conditions of their salvation are explained]. 
+ 
+	|46-50.~  Yet, however tolerable, it is not the Paradise of
+God -- 
+ 
+     `That perfect presence of His face, 
+     Which we, for want of words, call Heaven.' 
+ 
+To Dante's mind, it must have been an awful punishment to be for 
+ever haunted by an unattainable ideal, an eternal desire for the 
+vision of God, doomed to eternal disappointment.  Hence he makes 
+eager inquiry whether any soul had ever been delivered from this 
+Limbo.  Virgil replies, as we have seen, that when he was but a 
+`novice' here, `a Mighty One' came and drew forth the First 
+Parent, Abel, Noah, and many others [^Inf.~ iv. 52-63].  But 
+half the point of this answer is that they were all Old Testament 
+saints: no heathen shade was rescued.  For the moment Dante had 
+to rest satisfied with this answer, but only for the moment. 
+Afterwards, when he has mounted to the Sixth Heaven, the abode of 
+men famous for their justice, the problem of the Divine justice 
+in the fate of the heathen returns upon him, as the hunger of a 
+`great fast' which had found no food on earth.  He states the 
+question thus: 
+ 
+                    `A man is born upon the bank 
+     Of the Indus, and there is no one there to speak 
+     Of Christ, nor none to read, nor none to write; 
+     And all his volitions and his actions 
+     Are good, as far as human reason sees, 
+     Without a sin in life or in discourse: 
+     He dieth unbaptized and without faith; 
+     Where is this justice that condemneth him? 
+     Where is his fault, if he do not believe?' 
+                         [^Par.~ xix. 70-78.] 
+ 
+So passionate is his desire for the salvation of the heathen, 
+that he boldly breaks through the trammels of his creed so far as 
+to set two heathen souls there in that Heaven of Just Men.  The 
+first is the Emperor Trajan, who is held up in the ^Purgatorio~ 
+as an example of humility.  There was a curious legend that St. 
+Gregory the Great had so fervent an admiration for the Emperor's 
+justice to a poor widow that by virtue of his prayers and tears 
+he gained his release from Hell and his return `to his bones,' as 
+Dante puts it.  He remained in them long enough to admit of his 
+receiving Christian baptism, whereupon he was taken up to the 
+Sixth Heaven.  Dante gladly avails himself of this grotesque 
+legend [^Par.~ xx. 43-48; 106-117; ^Purg.~ x. 73-93].  The other 
+heathen rescued from perdition is Rhipeus, whom Virgil in the 
+AEneid calls the justest of the Trojans.  This time, having no 
+legend to help him, Dante takes a bolder course.  It was an axiom 
+of his creed that salvation is impossible without Faith and 
+Baptism: how then could a heathen who lived so long before Christ 
+be saved at all?  His reply is that God gave this soul, who `set 
+all his love below on righteousness,' a vision of `our redemption 
+yet to be,' and that Faith, Hope, and Charity 
+ 
+                    `were unto him for baptism 
+     More than a thousand years before baptizing.' 
+          [^Par.~ xx. 67-72; 118-129; ^AEneid~, ii. 426, 427.] 
+ 
+It remains a problem why Dante did not use the same means for the 
+rescue of all the virtuous souls of the heathen world.  There is 
+certainly no reason why only two out of the great company should 
+be saved.  Indeed, there is a passage in St. Thomas Aquinas which 
+seems written for the very purpose of opening the gate of 
+Paradise to such souls: `God never suffers any one to want what 
+is necessary to his salvation, if he only desires it.  No one 
+loses his soul save through his own fault; since God makes known 
+to him truths which are essential to his salvation, either 
+through interior revelation, or, as in the case of Cornelius, by 
+the voice of a preacher' [See Hettinger, 211 n].  It is 
+impossible to say why Dante did not avail himself of such a 
+passage, or how a mind like his could imagine that God would 
+leave unsatisfied throughout eternity the desire of any human 
+soul for that knowledge of Him which is eternal life.  Yet so it 
+is: in Heaven, as on earth, he found no food to satisfy this 
+hunger.  All he can do is to bow before the justice of God as 
+before an impenetrable mystery, saying as the Psalmist said 
+before him, `Thy judgments are a great deep': the bottom of that 
+deep near the shore the eye of man can see, but far out in 
+mid-ocean it is invisible; yet the bottom is there too, though we 
+perceive it not [^Par.~ xix. 58-66].  `Nay but, O man, who art 
+thou that repliest against God?'  `Shall not the Judge of all the 
+earth do right?'  `Clouds and darkness are round about him: 
+righteousness and judgment are the habitation of his throne.' 
+
+	|64-69.~  Advancing in the gloom `through the forest of 
+thick-crowded ghosts' -- undistinguished souls that called for no 
+special mention -- they soon descried `a fire which conquered a 
+hemisphere of darkness'; and on nearer approach Dante perceived 
+that `honourable people held the place.'  The light came from `a 
+noble castle,' and represents the wisdom, learning, and virtue of 
+its inhabitants.  
+
+	|88-90.~  Four of them meet the pilgrims and excort them 
+inside the castle walls -- Homer, Horace, Ovid, and Lucan: in 
+Dante's view, along with Virgil the greatest poets of the ancient 
+world.  
+
+	|100-102.~  It is worth while pausing to notice with what
+serene confidence Dante claims kinship with these mighty spirits of
+the past.  We saw that they were met outside the castle walls by 
+those who were undoubtedly, along with his Guide, in Dante's 
+regard the four greatest shades -- Homer and Horace, Ovid and 
+Lucan: their leader, Homer, bearing a sword in token of the 
+warlike nature of his song.  These four welcome Virgil back, 
+hailing him as `the loftiest Poet.'  And then turning to Dante 
+with sign of salutation, they greet him as a brother of the 
+guild: 
+ 
+     And more of honour still, much more, they did me, 
+     In that they make me one of their own band, 
+     So that I was a sixth'mid so much wisdom. 
+ 
+At first reading, this gives perhaps the impression of pride or 
+vanity: Dante, we think, has too well learnt the Aristotelian 
+virtue of Magnanimity, and travelled far from the modesty which, 
+only a few hours before, oppressed him with a sense of his 
+unfitness.  In reality his estimate of himself here has turned 
+out to be too humble.  It will always, of course, be possible to 
+take different views of Dante's rank as a poet.  Ruskin will call 
+him `the central man of all the world, as representing in perfect 
+balance the imaginative, moral, and intellectual faculties, all 
+at their highest' [^Stones of Venice~, III. iii. 67]; while 
+Savage Landor, after ranking Homer with Milton, will declare that 
+`Dante is no more the equal of Homer than Hercules is the equal 
+of Apollo' [^Pentameron~].  But amidst all such differences, no 
+one dreams of setting Dante on the level of Horace, or Ovid, or 
+Lucan, or even Virgil.  When, for example, Dr. Moore tells us 
+that, after Virgil, the poets most frequently quoted are Ovid and 
+Lucan, it almost makes us suspect the soundness of Dante's 
+literary judgment.  Assuredly he did himself scant justice when 
+he ranked himself with such men; instead of being one of six, he 
+is one of three, and the names of the other two are not difficult 
+to conjecture [`This is he who among literary fames finds only 
+two that for growth and immutability can parallel his own.  The 
+suffrages of highest authority would now place him second in that 
+company where he with proud humility took the sixth place' 
+(Russell Lowell's ^Dante~)].  Perhaps, however, Dante's 
+intention in the passage was to assert his standing as a poet 
+against the contempt and depreciation of his own countrymen.  We 
+know that, almost to the last, it was his hope that Florence 
+would receive him back into her fold and give him the poet's 
+crown at his baptismal font in his `beautiful St. John' [^Par.~ 
+xxv. 1-9.], but it was not to be.  Against this cruel injustice 
+he here appeals: let the Florentines refuse him the laurel as 
+they may, the great poets of antiquity will greet him as their 
+peer. 
+ 
+	|103-105.~  As they move towards the light they discourse of
+things as becoming to speak of there, says Dante, as not to speak
+of here -- either praises of himself, or, more probably, the high 
+themes of the art of poetry. 
+
+	|106-111.~  We come now to the subject of greatest interest in
+the passage, -- Dante's view of the heathen world and its fate.  As
+a good Catholic he accepts in the main the teaching of the Church, 
+that faith in Christ and baptism are essential to salvation; but 
+he accepts it with the utmost reluctance and grief, knowing that 
+it excludes many great and noble souls from Paradise.  If, 
+however, his creed thus forces him to shut them out, we cannot 
+but mark how light by comparison is the punishment he assigns 
+them, and how many the alleviations of their pain.  Strictly 
+speaking, they are not in Hell proper at all, but in its Limbo or 
+`Border.'  So far as he can hear, there are no cries and 
+lamentations such as assail his ears lower down: `only sighs made 
+tremulous the eternal air.'  Their sorrow has no element of 
+torment in it.  `Without hope they live on in desire' -- the 
+desire to see God, which is destined never to be gratified.  But 
+to the wisest and noblest of them, Dante gives what alleviations 
+he can.  The noble castle with its luminous hemisphere has 
+without doubt a symbolic meaning, which we must examine 
+presently; but to my own mind it is a pity we cannot retain the 
+simple natural sense.  Remember how, as we descend from Circle to 
+Circle, one of the chief punishments seems to be the increasing 
+loss of the light and joy and peace of Nature.  The wind buffets 
+the Sensual; the rain pours down incessantly on the Gluttons; the 
+souls of the Sullen in Styx bewail the loss of `the sweet air 
+made gladsome by the sun.'  Far down, a wretch in the burning 
+thirst of dropsy is but more deeply tortured by the memory of 
+ 
+     `The rivulets, that from the verdant hills 
+     Of Casentino descend into the Arno, 
+     Making their channel-courses cool and soft.'  
+                         [^Inf.~ xxx. 64-66.] 
+ 
+They have lost it all for ever, the beauteous world, with its 
+joyous sunshine, its meadows of deep green grass, its fair-flowing 
+rivers.  Might it not then seem to Dante one of the greatest 
+consolations of these noble spirits of antiquity that something 
+of the ancient joy of Nature should be left to them, the memory 
+of its beauty and its peace -- light which conquered a hemisphere 
+of darkness, a fair rivulet, and the green enamel of the meadow? 
+ 
+	When, however, we turn to the symbolism which the passage 
+undoubtedly contains, we find in it even greater alleviations of 
+their fate.  The noble castle represents the Philosophy or 
+Natural Wisdom attained by the sages and heroes who had no light 
+of Revelation.  In short, it represents precisely the same thing 
+as Virgil does, for this castle is his home in the eternal world. 
+The seven walls are seven of the ten virtues possible to man. 
+These St. Thomas Aquinas divides into three great classes -- the 
+intellectual, the moral, and the theological.  The last, Faith, 
+Hope, and Love, are supernatural, because they are beyond man's 
+natural powers; hence, as Virgil afterwards tells Dante, the 
+inhabitants of Limbo cannot know them.  But the remaining seven 
+are virtues possible to the natural man: the intellectual -- 
+Wisdom, Science, and Understanding; and the moral, which are also 
+called cardinal -- Prudence, Justice, Temperance, and Fortitude. 
+There is little doubt that it is these seven natural virtues 
+which, like protecting walls, encircle the wise and heroic 
+spirits of the ancient world.  The most probable interpretation 
+of the seven gates is that they stand for the seven liberal arts 
+which made up the curriculum of mediaeval education: the 
+^Trivium~, consisting of Grammar, Logic, and Rhetoric; and the 
+^Quadrivium~, of Music, Arithmetic, Geometry, and Astronomy.  In 
+the ^Convito~ they correspond to the seven lowest Heavens 
+[^Conv.~ ii. 14]. 
+ 
+	It is more difficult to assign a meaning to the `fair 
+rivulet' by which the castle is surrounded like a moat.  The 
+interpretation usually given, that it represents Eloquence, is 
+probably the right one: Dante, for instance, applies this very 
+figure to Virgil when he first meets him: 
+ 
+     Now, art thou that Virgilius, and that fountain 
+     Which spreads abroad so wide a river of speech?' 
+                         [^Inf.~ i. 79, 80.] 
+ 
+But when he says here that he and his poet-companions passed over 
+this river of Speech or Eloquence as on solid ground, it is not 
+so easy to say what he means.  Longfellow regards it as a hint 
+that Eloquence is not a very profound matter after all -- an idea 
+foreign, I think, to Dante's mind.  So probably is the suggestion 
+simetimes made that the wise do not need the persuasions of 
+Eloquence to make them enter the castle of the Seven Virtues.  It 
+seems much more probable that Dante wishes to tell us of the 
+dangers of human speech.  It lies like a moat between us and 
+wisdom; only across it can we reach the `noble castle'; but to 
+great minds alone is it as the firm earth.  To others the fair 
+river of Speech or Eloquence may prove a dangerous moat in which 
+mind and soul sink to rise no more.  It is no imaginary danger: 
+`life and death are in the power of the tongue.' 
+ 
+	The `meadow of fresh verdure' inside the seven gates 
+represents the fame of the great spirits whom Dante finds 
+reposing on it.  If Ruskin is right, it is a fame for ever green, 
+but also for ever dead.  Dante speaks of this meadow as `the 
+green enamel,' and Ruskin maintains that he `did not use this 
+phrase as we use it.  He knew well what enamel was; and his 
+readers, in order to understand him thoroughly, must remember 
+what it is, -- a vitreous paste, disolved in water, mixed with 
+metallic oxides, to give it the opacity and the colour required, 
+spread in a moist state on metal, and afterwards hardened by 
+fire, so as never to change.  And Dante means, in using this 
+metaphor of the grass of the Inferno, to mark, that it is laid as 
+a tempering and cooling substance over the dark, metallic, gloomy 
+ground; but yet so hardened by the fire, that it is not any more 
+fresh or living grass, but a smooth, silent, lifeless bed of 
+eternal green' [^Modern Painters~, iii. 228 (Edition 1888)]. 
+That Dante meant all this is more than doubtful; nevertheless, 
+when we remember his marvellously careful use of words, it is 
+quite improbable that `enamel' has no special significance.  He 
+may mean to indicate that while, indeed, the fame of these great 
+spirits is for ever fresh and green, it is at the same time 
+lifeless as enamel: not the living, growing fame which might have 
+been theirs had their wisdom been of a higher, diviner order. 
+ 
+	Yet, such as it is, it remains to them.  Dante will 
+deprive them of nothing great or worthy that they ever possessed 
+on earth.  Even in the Inferno, their virtues, their learning, 
+and their wisdom shed round them a hemisphere of light; they rest 
+upon their fame as on `meadow of fresh verdure,' for ever green; 
+`with gentle voices' the glorious company carry on the eternal 
+intercourse and commerce of mind with mind.  Such are the great 
+alleviations with which Dante solaces the wise and virtuous souls 
+of heathendom.  His theology may compel him to put them in Limbo, 
+but he will make their place as tolerable as lies within his 
+power.  The servants who knew not their Lord's will shall be 
+beaten with few stripes. 
+ 
+	|112-114.~  Within the castle walls, `on the 
+green enamel of a meadow,' they find seated the mighty spirits of 
+antiquity: 
+ 
+     People were there with eyes show and grave, 
+     Of great authority in their countenance; 
+     They spake but seldom and with gentle voices. 
+
+     [^Inf.~ iv. 112-114. Comp. the slow movement of Sordello's 
+     eyes in ^Purg.~ vi. 63.] 
+ 
+	|121-129.~  They are divided into two groups.  The lower of
+the two consists 
+of the souls of heroes and heroines of Rome, and those from whom 
+the Romans were descended, beginning with Electra, mother of 
+Dardanus who founded Troy, Hector and AEneas, and `Caesar in 
+armour with gerfalcon eyes.'  Among them we may note Marcia, 
+Cato's wife.  [In ^Conv.~ iv. 28, she is taken as symbolic of the 
+soul returning to God.  The passage is very curious and difficult 
+to harmonize with this.  In ^Purg.~ i. 78-90, Virgil tells Cato 
+that his Marcia still prays him to hold her for his own, but Cato 
+replies that she no longer moves him].  Cato himself, thought a 
+heathen and a suicide, is chosen by Dante as the Guardian of 
+Mount Purgatory.  One soul sits apart by himself -- Saladin, the 
+great Sultan, who was defeated by Richard Coeur-de-Lion in the 
+Crusades.  His mercy in sparing Christian prisoners made him the 
+type to Europe of Oriental magnanimity and generosity.  In the 
+^Convito~ (iv. 11) Dante holds him up as an example of 
+`munificence.'  He sits alone as having no connection with the 
+Empire, or, perhaps, as being of another race and faith. 
+
+	|130-144.~  Raising his brows, Dante sees the second and
+higher group, composed of the great philosophers and men of science
+of the ancient world, or, speaking more strictly, of the
+non-Christian world.  Their chief is Aristotle, `Master of those
+who know,' on whom all gaze with honour; he is Dante's own
+principal authority on all ethical questions.  Nearer him than the
+rest stand Socrates and Plato.  It is difficult to understand why
+Dante makes so little use of Plato, `whose idealism,' as Plumptre
+says `was more in harmony with Dante's mind than the more formal 
+system of Aristotle' [`Dante was a mystic with a very practical 
+turn of mind.  A Platonist by nature, an Aristotelian by 
+training, his feet keep closely to the narrow path of dialectics, 
+because he believed it the safest, while his eyes are fixed on 
+the stars' (Lowell's ^Essay on Dante~)].  Probably the reason is 
+that his knowledge of Plato was confined to the ^Timaeus~, and to
+the references scattered throughout Aristotle, Albertus Magnus, 
+and his pupil Aquinas.  After these come Democritus, Diogenes, 
+and many another, down to Averroes, who made `the great Comment' 
+on Aristotle.  The list, as Plumptre remarks, throws light on 
+Dante's preferences in poetry, history, and philosophy; just as 
+the two Circles of Theologians in the Heaven of the Sun tell us 
+his favourite authors in theology. 

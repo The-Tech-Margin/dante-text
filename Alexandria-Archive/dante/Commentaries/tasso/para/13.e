@@ -1,0 +1,115 @@
+	|1.~ |(ed.  Rosini)~
+^Immagini, chi ben intender cupe.  Immagini~, senza il ^si~.  [Sessa]
+
+^Cupe~, desidera.  [Da Fino]
+
+	|3.~ |(ed.  Rosini)~
+^Rupe~, scoglio.  [Da Fino]
+
+	|6.~ |(ed.  Rosini)~
+^Compage~, composizione.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+^Carro~, orsa maggiore.  [Da Fino]
+
+	|11.~ |(ed.  Rosini)~
+^Stelo~, legno.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+^La figliuola di Minoi~, Arianna.  [Da Fino]
+
+	|19.~ |(ed.  Rosini)~
+^Ombra~, imagine.  [Da Fino]
+
+	|23.~ |(ed.  Rosini)~
+Chiana.  [richiamo marginale] [Sessa]
+
+	|25.~ |(ed.  Rosini)~
+^Peana~, Apollo.  [Da Fino]
+
+	|29.~ |(ed.  Rosini)~
+Attenersi a noi.  [richiamo marginale] [Sessa]
+
+	|30.~ |(ed.  Rosini)~
+^Cura in cura~, amore in amore.  [Da Fino]
+
+	|31.~ |(ed.  Rosini)~
+^Concordi numi~, anime.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+Fumi.  [richiamo marginale] [Sessa]
+
+	|34-36.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|37.~ |(ed.  Rosini)~
+^Nel petto~, d'Adamo.  [Da Fino]
+
+	|38.~ |(ed.  Rosini)~
+^La bella guancia~, la parte per il tutto.  [Da Fino]
+
+	|40.~ |(ed.  Rosini)~
+Cristo.  [Da Fino]
+
+	|42.~ |(ed.  Rosini)~
+Avendo tanto satisfatto.  [Da Fino]
+
+	|43-44.~ |(ed.  Rosini)~
+Quantunque...  tutto.  [richiamo marginale] [Sessa]
+
+	|48.~ |(ed.  Rosini)~
+Salomone.  [Da Fino]
+
+	|51.~ |(ed.  Rosini)~
+^Farsi, come centro in tondo~, convenire.  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+^Il nostro sire~, Dio.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^Mea~, procede.  [Da Fino]
+
+	|56.~ |(ed.  Rosini)~
+Disuna.  [richiamo marginale] [Sessa]
+
+	|57.~ |(ed.  Rosini)~
+^In lor s'intrea~, s'interza in loro.  [Da Fino]
+
+	|67.~ |(ed.  Rosini)~
+^Cera~, materia.  [Da Fino]
+
+	|71.~ |(ed.  Rosini)~
+Frutta.  [richiamo marginale] [Sessa]
+
+	|80.~ |(ed.  Rosini)~
+Senza mezzo.  [Da Fino]
+
+	|97.~ |(ed.  Rosini)~
+Enno.  [richiamo marginale] [Sessa]
+
+	|106.~ |(ed.  Rosini)~
+^Al Surse~, a quello di sopra detto.  [Da Fino]
+
+	|112-114.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|115-123.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|118.~ |(ed.  Rosini)~
+^Perch@e egli incontra, che pi@u volte piega.  Incontra~, per avviene.  
+[Sessa]
+
+	|128-129.~ |(ed.  Rosini)~
+Traslazione: guardandosi in una spada, apparisce il viso torto.  [Da 
+Fino]
+
+	|130-138.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|139.~ |(ed.  Rosini)~
+^Donna Berta e ser Martino~, alcuno sciocco.  [Da Fino]
+
+	|140.~ |(ed.  Rosini)~
+Offerere.  [richiamo marginale] [Sessa]
+

@@ -1,0 +1,63 @@
+Tue Oct 15 11:26:28 EDT 1985 jvs renamed and split up all files
+Mon Jan 26 16:07:31 EST 1987 jvs edited proemi 1-28 week of 1/22/87
+Tue Jan 27 13:23:34 EST 1987 jvs edited proemi 29-34
+Tue Jan 27 13:36:31 EST 1987 jvs fixed spaceing 01-06.e
+Wed Jan 28 11:17:38 EST 1987 jvs edited 08-10
+Thu Jan 29 16:39:37 EST 1987 jvs edited 11-13
+Fri Nov 20 11:58:37 EST 1987 01.e preloaded to ../staging/inf/01
+Fri Nov 20 11:59:05 EST 1987 02.e preloaded to ../staging/inf/02
+Fri Nov 20 11:59:30 EST 1987 03.e preloaded to ../staging/inf/03
+Fri Nov 20 11:59:58 EST 1987 04.e preloaded to ../staging/inf/04
+Fri Nov 20 12:01:12 EST 1987 05.e preloaded to ../staging/inf/05
+Fri Nov 20 12:01:44 EST 1987 06.e preloaded to ../staging/inf/06
+Fri Nov 20 14:10:34 EST 1987 01.e preloaded to ../staging/inf/01
+Fri Nov 20 14:15:51 EST 1987 01.e preloaded to ../staging/inf/01
+Fri Nov 20 14:25:43 EST 1987 01.e preloaded to ../staging/inf/01
+Fri Nov 20 14:27:28 EST 1987 02.e preloaded to ../staging/inf/02
+Fri Nov 20 14:29:04 EST 1987 03.e preloaded to ../staging/inf/03
+Fri Nov 20 14:30:47 EST 1987 04.e preloaded to ../staging/inf/04
+Fri Nov 20 14:32:08 EST 1987 05.e preloaded to ../staging/inf/05
+Fri Nov 20 14:32:57 EST 1987 06.e preloaded to ../staging/inf/06
+Fri Nov 20 14:33:50 EST 1987 07.e preloaded to ../staging/inf/07
+Fri Nov 20 14:35:51 EST 1987 08.e preloaded to ../staging/inf/08
+Fri Nov 20 14:38:02 EST 1987 09.e preloaded to ../staging/inf/09
+Fri Nov 20 14:40:51 EST 1987 10.e preloaded to ../staging/inf/10
+Fri Nov 20 14:42:26 EST 1987 11.e preloaded to ../staging/inf/11
+Fri Nov 20 14:44:57 EST 1987 12.e preloaded to ../staging/inf/12
+Fri Nov 20 14:47:14 EST 1987 13.e preloaded to ../staging/inf/13
+Fri Nov 20 14:48:18 EST 1987 14.e preloaded to ../staging/inf/14
+Fri Nov 20 14:49:19 EST 1987 15.e preloaded to ../staging/inf/15
+Fri Nov 20 14:50:13 EST 1987 16.e preloaded to ../staging/inf/16
+Fri Nov 20 14:50:58 EST 1987 17.e preloaded to ../staging/inf/17
+Fri Nov 20 14:51:48 EST 1987 18.e preloaded to ../staging/inf/18
+Fri Nov 20 14:52:33 EST 1987 19.e preloaded to ../staging/inf/19
+Fri Nov 20 14:53:42 EST 1987 20.e preloaded to ../staging/inf/20
+Fri Nov 20 14:54:33 EST 1987 21.e preloaded to ../staging/inf/21
+Fri Nov 20 14:55:45 EST 1987 22.e preloaded to ../staging/inf/22
+Fri Nov 20 14:56:45 EST 1987 23.e preloaded to ../staging/inf/23
+Fri Nov 20 14:57:48 EST 1987 24.e preloaded to ../staging/inf/24
+Fri Nov 20 14:58:51 EST 1987 25.e preloaded to ../staging/inf/25
+Fri Nov 20 14:59:41 EST 1987 26.e preloaded to ../staging/inf/26
+Fri Nov 20 15:00:36 EST 1987 27.e preloaded to ../staging/inf/27
+Fri Nov 20 15:02:21 EST 1987 28.e preloaded to ../staging/inf/28
+Fri Nov 20 15:04:01 EST 1987 29.e preloaded to ../staging/inf/29
+Fri Nov 20 15:05:58 EST 1987 30.e preloaded to ../staging/inf/30
+Fri Nov 20 15:08:07 EST 1987 31.e preloaded to ../staging/inf/31
+Fri Nov 20 15:09:55 EST 1987 32.e preloaded to ../staging/inf/32
+Fri Nov 20 15:11:53 EST 1987 33.e preloaded to ../staging/inf/33
+Fri Nov 20 15:14:08 EST 1987 34.e preloaded to ../staging/inf/34
+Wed Feb 15 09:39:50 EST 1989 preloaded inf jvs
+Tue Mar 7 15:10:49 EST 1989 file pro22.e refers reader back to pro21.e
+jvs
+Tue Mar 7 15:14:23 EST 1989 file pro25.e refers reader back to pro24.e jvs
+Tue Mar 7 15:14:41 EST 1989 file pro30.e refers reader back to pro29.e jvs
+Tue Mar 7 15:28:30 EST 1989 inserted circular references to readers in pros. 
+32,33. jvs
+Thu Apr 27 21:55:47 EDT 1989 jvs corrected files using checknew and xfercheck
+Thu Apr 27 21:55:53 EDT 1989 jvs preloaded corrected files
+Fri Apr 28 11:46:47 EDT 1989 jvs READY FOR LOADING
+Tue Dec 19 09:47:06 EST 1989 jvs corrected typos listed in fix.me
+Tue Dec 19 09:47:13 EST 1989 jvs preloaed corrected files
+Mon Dec 23 09:29:27 EST 1991 jvs deleted obsolete p01.e.Z p02.e.Z p03.e.Z p04.e.Z p05.e.Z p06.e.Z p07.e.Z p08.e.Z p09.e.Z p10.e.Z p11.e.Z p12.e.Z p13.e.Z p14.e.Z p15.e.Z p16.e.Z p17.e.Z p18.e.Z p19.e.Z p20.e.Z p21.e.Z p22.e.Z p23.e.Z p24.e.Z p25.e.Z p26.e.Z p27.e.Z p28.e.Z p29.e.Z p30.e.Z p31.e.Z p32.e.Z p33.e.Z p34.e.Z files
+Mon Dec 23 09:32:38 EST 1991 jvs derainbowed filesand compressed same
+Thu Jan 2 09:26:43 EST 1992 jvs deleted old .e files. retaining newly merged files from MF

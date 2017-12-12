@@ -1,0 +1,418 @@
+	|1-3.  Dappoich@e~: Vive in Toscana.  |Clemenza~: Moglie di
+Carlo, figliuola di Rodolfo, la quale mor@i di dolore per la
+perdita del marito: o, secondo altri, la figliuola di Carlo,
+moglie di Luigi X re di Francia.  |Chiarito~: come dai padri
+differiscano i figliuoli.  |Inganni~: Roberto, fratello di Carlo
+Martello, s'intruse poi nel regno di Napoli e di Sicilia, e
+n'escluse il figlio di Carlo: nel 1309.  |Ricever~: ^Inf.~ XX,
+96: ^Inganno ricevesse.~  |Semenza~: figliuoli.
+
+	|4-6.  Volger~: ^Aen.~ I {234}: ^Volventibus annis.~ 
+|Pianto~: i danni a voi fatti saranno dolore ai nemici vostri. 
+|Vostri~: Dice |vostri~, perch@e Clemenza vantava anch'essa
+diritti a quella corona.
+
+	|7-9.  Vita~: Carlo.  |Santo~: ^Aen.~ II {699}: ^Sanctum
+sidus.~  |Sol~: Dio ch'empie ogni cosa di s@e quant'essa @e
+capace.
+
+	|10-12.  Fatture~: Non leggo ^fatue ed empie~, s@i perch@e
+^fatue~ dopo ^ingannate~ torna fiacco e illanguidisce anco
+l'|empie~; s@i perch@e |anime~ reggerebbe tutto il costrutto, e
+verrebbero date ad esse le |tempie.~  In questo senso ^fattura~
+@e nel ^Purg.~ XVII, 102: ^Contra 'l Fattore adovra sua fattura.~ 
+|Vanit@a~: Psal. IV, 3: <A che amate voi vanit@a e cercate
+menzogna>.  CXVIII, 37: <Rivolgi gli occhi miei che non veggano
+vanit@a>.  Deut. XXXII, 21; Reg. III, XVI, 13; Esdr. II, I, 7;
+Job, XXXI, 5; Psal. XXV, 4; XXX, 7; XXXIX, 5; Eccl. II. 
+|Tempie~: ^Par.~ II, 10: ^Drizzaste 'l collo.~  Psal. CXXXI, 5:
+^Requiem temporibus meis.~  Altro da ^alza la barba~ nel ^Purg.~
+XXXI, 68.
+
+	|16-18.  Pria~: ^Par.~ VIII, 40-42.  |Certificato~: Per
+^certo.~  ^Som.~: ^Certificatur de eo.~  Qui non bene chiaro. 
+|F#ermi~: fecero me certo d'assenso al mio desiderio di parlare.
+
+	|19-21.  Metti~: soddisfa.  |Fammi~: provami che tu vedi
+quello ch'io penso.
+
+	|22-24.  Cantava~: ^Par.~ VIII, 28-30.  |Giova~: piace; e
+sente giovarsene.  In due parole raccolti i versi del ^Par.~
+XVIII, 58-60: ^E come, per sentir pi@u dilettanza Bene operando,
+l'uom di giorno in giorno S'accorge che la sua virtute avanza.~
+
+	|25-27.  Parte~: Marca Trivigiana.  ^Aen.~ III {479}:
+^Ausoniae pars illa.~  |Prava~: ^Inf.~ XVI, 9: ^Terra prava~,
+la Toscana.  |Rialto~: Anon.: <Anticamente Vinegia si chiam@o
+Rialto>.  |Fontane~: che mettono nel golfo di Venezia.  Di fiume,
+^Purg.~ XXXIII, 113.  |Piava~: Descrivesi la contrada ch'@e tra
+Venezia e i fiumi Brenta e Piave, e segnatamente il villaggio di
+Romano oggi Romano di sopra e di sotto.  Venezia @e indicata per
+l'Isola di Rialto, che fu la prima tra le isolette delle lagune,
+intorno a cui si raccolsero i Veneti di terraferma fuggenti da'
+Barbari; nido della illustre repubblica.
+
+	|28-30.  Colle~: ov'@e il castello di Romano.  |Facella~:
+Ezzelino.  Una fiaccola sogn@o Ecuba incinta di Paride; e cos@i
+sogn@o, dice Pietro, la madre di Ezzelino.  Di lui, nell'^Inf.~
+XII, 110.  ^Aen.~ VII {319-320}: ^Nec face tantum Cisseis
+praegnans ignes enixa jugales... Funestaeque iterum recidiva
+in Pergama taedae.~  Lucan X {35-36} (d'Alessandro): ^Sidus
+iniquum Gentibus.~  |Contrada~: paese.
+
+	|31-33.  Radice~: Non ist@a con ^facella.~  |Io~: sorella
+sua.  |Cunizza~: Postil. Caet.: ^Fuit magna meretrix.~  Anon.:
+<Visse amorosamente in vestire, canto e gioco; ma non in alcuna
+disonestade... consent@i>.  |Vinse~: amai.  ^Aen.~ XII {29}:
+^Victus amore.~
+
+	|34-36.  Indulgo~: perdono a me il mio fallire che mi fu
+perdonato: cosa difficile a intendere al pi@u degli uomini. 
+Ovid. ^Met.~ X {534}: ^Indulgere sibi, formamque augere colendo.~
+
+	|37-39.  Luculenta~: pi@u che lucente.  |Gioia~:
+Folchetto.  L'Ottimo: <Fu dicitore in rima di cose leggiadre... 
+che furono e saranno per fama graziose al mondo; ond'elli avr@a
+lunga nominanza>.  |Muoia~: la fama.
+
+	|40-42.  Incinqua~: passer@a cinque secoli.  Davanz.:
+<Incinquavansi i magistrati> (quintuplicarsi).  Nelle postille:
+<Omero, Dante e tutti i grandi formano nomi delle cose>.  Ma
+meglio torli dall'uso.  ^Immillarsi~, moltiplicarsi per mille,
+^Par.~ XXVIII, 93.  |Altra~: la vita del corpo lasci dopo s@e la
+vita del nome.  |Prima~: Costrutto ambiguo.  |Relinqua~: Petr.
+Trionfi: <Virt@u relinque>.
+
+	|43-45.  Adice~: ^Purg.~ XVI, 115.  La Marca Trivigiana
+allora si stendeva, a un dipresso, in questi confini.  Quindi
+pi@u chiara la ragione di nominar Feltre a proposito d'un signore
+dimorante sull'Adige (^Inf.~ I, 105).  E notisi che il Friuli
+nell'ottavo secolo andava quasi fin sotto Verona: forse a memoria
+di Giulio.  |Battuta~: Da Ezzelino e da Alberigo suo fratello e
+dagli altri tiranni della Marca.  Jer. II, 30: <Invano percossi i
+figliuoli vostri: non ricevettero disciplina>.  Psal. CXXXV, 17:
+^Percussit reges magnos.~  ^Purg.~ XIV, 151: ^Onde vi batte Chi
+tutto discerne.~
+
+	|46-48.  Padova~: I Padovani vinti da Cane (Vill. IX, 62). 
+Predice la rotta che Jacopo di Carrara ebbe dallo Scaligero ne'
+borghi di Vicenza il d@i 27 settembre 1314.  Altra rotta ebbe
+nel 1318 (Vill. IX, 87).  |Canger@a~: tinger@a in rosso. 
+|Acqua~: del Bacchiglione l@a dove impaluda.  |Crude~: ^Par.~ XI,
+103: ^A conversione acerba~, la gente non disposta alla fede. 
+Hor. ^Carm.~ III, 11: ^Nuptiarum expers, et adhuc... Cruda
+marito.~
+
+	|49-51.  Dove~: in Treviso.  |Sile~: [Ant.] Osserveremo:
+1+o~. Che per la confluenza del Sile e del Cagnano @e inteso
+Treviso.  2+o~. Che il piccol fiume, il quale mette in Sile alle
+mura di questa citt@a, non pi@u Cagnano ma appellasi Botteniga. 
+3+o~. Che per Malta intendesi una torre ad uso d'aspra carcere,
+fatta fabbricare dal Governo Pontificio sulle rive del lago di
+Bolsena dove forse ha principio il fiume ^Marta~, per chiudervi
+gli ecclesiastici rei di grave delitto.  |Tal~: Riccardo da
+Camino.  |Carpir~: prendere.  |Ragna~: Tramarono ucciderlo, nel
+1312 mentre giuocava agli scacchi.  Il macchinatore fu un
+Attinesi de' Calzoni trivigiano.  L'Ottimo lo fa ucciso da Cane
+<per mano d'uno villano col trattato di certi gentiluomini del
+paese>.  Il Boccaccio dice che a tavola per mano di un pazzo, di
+cui si valsero i signori a lui confinanti per torgli la signoria. 
+Il Muratori nella nota al Mussato (VI, rub. 10) vuole la congiura
+tramata dai Ghibellini, e lo fa ucciso con un ronco da un
+contadino, e l'uccisore fatto in pezzi dalle guardie o da'
+congiurati.  Ma Dante, cred'io, non credeva complice lo
+Scaligero.
+
+	|52-54.  Diffalta~: il mancar di fede.  ^Inf.~ XXVIII, 83:
+^Fallo~, un misfatto orribile.  |Pastor~: Giuliano.  Novello di
+Piacenza, uomo guelfo (altri dice Gaza di Luscia feltrino). 
+Rifuggiti in Feltre tredici Ferraresi guerreggianti col papa, il
+vescovo, allora signore di Feltre, li prese e diede al
+governatore di Ferrara per re Roberto, M. Pino della Tosa, che li
+fece morire.  Il vescovo mor@i nel 1320 in esilio.  Al dir
+dell'Anonimo, <fu tanto battuto con sacchi di rena, che, corrotto
+dentro tutto il sangue, le interiora ne mand@o per la egestione. 
+Questi fu molto guelfo ed aveva giurisdizione nello spirituale e
+nel temporale>.  Tra' Ferraresi eran due de' Fontana, parenti di
+Dante; e un priore.  Tormentati, palesarono altri amici; e ne fu
+morti trenta.  I loro fautori uscirono; e fecero parte, col
+titolo di Fontanesi.  Anon.: <Il vescovo di Feltre tutta la sua
+giurisdizione che aveva, civile e spirituale, condusse ad essere
+sotto la tirannia di quelli da Cammino, e la cittade di Feltro;
+per@o che, ripugnando con loro, e sempre operando male, M.
+Riccardo il fece uccidere: per la cui morte tanta paura ebbero li
+elettori, che a volontade di M. Riccardo il seguente e li altri
+seguenti vescovi furono eletti>.  |Malta~: Torre sul lago di
+Bolsena, detta anche ^Marta~, dove i papi chiudevano i chierici
+per grave misfatto; che quivi morissero.  Celestino essendo
+fuggito da Monte Cassino, dov'era sotto custodia dell'Abate,
+l'Abate fu da Bonifazio VIII chiuso in Malta, dove pochi d@i
+visse (Pipin. ^Chr.~ c. 39).  |Malta~ rammentava a Dante la
+creduta colpa d'un suo nemico.
+
+	|58-60.  Che~: il qual sangue.  |Parte~: devoto alla
+parte sua.
+
+	|61-63.  Su~: nell'empireo.  |Specchi~: Nel ^Par.~ XXI, 18,
+cos@i chiama un pianeta.  |Dicete~: dite.  |Troni~: (Greg.)
+Troni dall'inabitazione divina.  Terzo ordine degli angeli, pe'
+quali Dio giudica i suoi giudizii; e in quelli splende come in
+ispecchio la giustizia divina (^Som.~).  Psal. IX, 5: ^Sedisti
+super thronum, qui judicas justitiam.~  Dan. VII, 9: ^Throni
+positi sunt, et antiquus dierum sedet.~  Ad Coloss. I, 16. 
+^Par.~ XXVIII, 103-105.  |Buoni~: giusti.  Reg. II, XV, 3:
+^Videntur mihi sermones tui boni et justi.~
+
+	|64-66.  Sembiante~: ^Inf.~ IX, 101-102: ^Fe' sembiante
+D'uomo cui altra cura stringa e morda.~  |Ruota~: del girare.
+
+	|67-69.  Altra~: Folchetto.  |Letizia~: Siccome gioia
+dall'effetto fu detta la pietra preziosa; e dal prezzo di questa,
+^gioia~ la persona cara; cos@i |letizia~ qui l'anima. 
+|Balascio~: pietra preziosa.  Nel ^Par.~ II, 34, il pianeta della
+Luna, ^margherita.~  Nel ^Purg.~ XXXI, 116, ^smeraldi~ gli occhi
+di Beatrice.  ^Vivo topazio~ l'anima di Cacciaguida (^Par.~ XV,
+85): altre, ^fiammette~ e ^gemme~ (^Par.~ XX, 148; XVIII, 115).
+
+	|70-72.  Per~: in grazia di.  |Qui~: nel mondo. 
+|Abbuia~: si fa men lucente.  Ottimo: <Quando l'uomo piange
+abbuia nel viso>.  Ma dal dolore dei mali della Chiesa le potenze
+celesti si ecclissano (^Par.~ XXVII, 28-36).
+
+	|73-75.  S'inluia~: penetra a lui.  Simile
+all'^imparadisare~, ^insinuare~, ed esprime l'unione intima.  In
+certe lingue, e de' pronomi e delle particelle fannosi verbi. 
+|S@e~: Dio.  |Fuia~: oscura.  ^Inf.~ XII, 90.
+
+	|76-78.  Trastulla~: In senso non leggiero.  ^Purg.~ XIV,
+93: ^Del ben richiesto al vero e al trastullo.~  |Fuochi~:
+Serafini.  ^Aen.~ II {153}: ^AEterni ignes.~  ^Seraph~ vale
+^ardente.~  |Sei~: Isai. VI, 1-3: <Vidi il Signore sedente in
+soglio eccelso...  Serafini erano in alto: sei ale all'uno, e sei
+all'altro: con due velavano la faccia, con due i piedi, e con due
+volavano; e dicevano l'un con l'altro: Santo, Santo, Santo>. 
+Dan. III, 55: <Che riguardi gli abissi, e siedi sopra i Cherubi>. 
+|Cuculla~: cocolla, velo al capo.  Nel ^Purg.~ XXVI, 128-129, fa
+Cristo abate del chiostro celeste: ma qui |cuculla~ nessuno dir@a
+che sia bello.
+
+	|79-81.  Intuassi~: se vedess'io il tuo pensiero come tu 'l
+mio.
+
+	|82-84.  Maggior~: Dall'Oceano che circonda la terra
+imagina il Poeta diffondersi l'acque nelle valli e formare i
+mari.  Stat. ^Achill.~ I {223}: ^Pelagi sub valle sonora.~  Cic.
+^Somn. Scip.~ {6.21}: ^Omnis... terra... parva quaedam insula
+est, circumfusa illo mari, quod Atlanticum, quod Magnum, quem
+Oceanum appellatis in terris; qui tamen, tanto nomine, quam sit
+parvus, vides.~  |Valle~: il Mediterraneo.  |Mar~: Oceano. 
+^Som.~: <L'Oceano cinge intorno la terra>.  ^Aen.~ VI  {58-59}:
+^Magnus obeuntia terras... maria.~  |Inghirlanda~: ^Inf.~ XIV,
+10.  Una selva @e ^ghirlanda~ a un campo arenoso, un fosso alla
+selva.  ^Purg.~ XIII, 80-81: ^Cornice... che da nulla sponda
+s'inghirlanda.~
+
+	|85-87.  Tra~: tra Europa e Africa.  |Liti~: D'Europa e
+d'Africa discordanti per fede, per costumi, per armi.  ^Aen.~ IV
+{627}: ^Litora litoribus contraria.~  |Contra~: d'occidente in
+oriente.  Dallo stretto di Gibilterra dove il Mediterraneo
+comincia, verso Palestina ove termina.  ^Par.~ VI, 2: ^Contra 'l
+corso del ciel.~  |Merid,iano~: Il cerchio che serve di meridiano
+all'una estremit@a del Mediterraneo, @e orizzonte all'altra. 
+(^Inf.~ XX, 124-126; ^Purg.~ XXVII, 1-5).
+
+	|88-90.  Fu'~: nacqui a Marsiglia.  |Littorano~: Figlio
+d'un ricco mercante di Genova, nacque in Marsiglia (Nostradamo). 
+Di Marsiglia lo fa Dante stesso nella ^Volgare Eloquenza~ (II, 6
+{6}).  Ott.: <Seguia li nobili uomini... e trov@o in provenzale
+coble, serventesi ed altri diri per rima: fu molto onorato dal re
+Riccardo d'Inghilterra, e dal conte Ramondo di Tolosa, e da
+Barale di Marsiglia: nella cui corte conversava.  Fu bello del
+corpo, ornato parladore, cortese donatore, ed in amare acceso, ma
+coperto e savio: am@o per amore Adalagia moglie di Barale suo
+signore: e per ricoprirsi facea segno d'amare Laura di S. Giulia,
+e Bellina di Pontevese, sirocchie di Barale> (in ci@o l'imitava
+il Nostro: di che vedasi la ^Vita Nuova~); <ma pi@u si copriva
+verso Laura, di che Barale li diede congio; ma, morta la moglie
+di Barale, doglia maravigliosa ne prese, e rend@e s@e con la
+moglie e due suoi figliuoli nell'Ordine di Cestello; poi fu fatto
+abate di Toronello, e poi vescovo di Marsilia d'onde cacci@o
+molti eretici>.  Fu caro a Riccardo d'Inghilterra e ad Alfonso
+IX.  |Ebro~: A ponente, in Ispagna; sbocca nel Mediterraneo in
+Catalogna.  Lo nomina Virgilio (^Aen.~ I).  |Macra~: A Levante. 
+Confine tra la Toscana e il Genovese.  Marsiglia @e in mezzo tra
+Magra ed Ebro.  |Corto~: la Magra corre per diritto canale.
+
+	|91-93.  Buggea~: Bugia in Barberia.  Marsiglia e Bugia
+sono quasi sotto al medesimo meridiano: differisce di longitudine
+d'un grado circa.  |Siede~: ^Inf.~ V, 97-98: ^Siede la terra dove
+nata fui, Sulla marina...~  |Terra~: Marsiglia assediata da
+Bruto, quando Cesare andava in Ispagna, s'insanguin@o (Caes.
+^de Bello Gall.~ II).  Lucan. III {572-573}: ^Cruor altus in
+undis, Spumat.~  Fu sangue sparso per la libert@a.  |Caldo~:
+^Aen.~ IX {453-454}: ^Tepidumque recenti Coede locum~; XII {35-
+36}: ^Recalent nostro Tyberina fluenta Sanguine.~
+
+	|94-96.  Noto~: L'Ariosto d'un cavallo: <Chi lo conosce
+Rabican l'appella>.  Forse accenna al poco spazio di questa poca
+terra al qual si stende la fama.  |Imprenta~: Venere splende
+della mia luce, com'arsi io della sua.
+
+	|97-99.  Arse~: ^Aen.~ IV {101}: ^Ardet amans Dido~; {IV,
+68} ^Uritur infelix Dido~; {IV, 2} ^Caeco carpitur igni.~ 
+|Figlia~: Didone.  |Belo~: ^Aen.~ I {621}: ^Genitor Belus.~ 
+|Sicheo~: ^Aen.~ I {720-722}: ^Paulatim abolere Sichaeum
+Incipit, et vivo tentat praevertere amore Jampridem resides
+animos~; IV {551}: ^Non servata fides cineri promissa Sichaeo.~ 
+|Creusa~: N'accenna anco nella ^Monarchia.~  In Virgilio non @e
+toccato di ci@o, ch'anzi @e detto ^lacrymas dilectae pelle
+Creusae~; e soltanto: ^nati serva communis amorem~ (^Aen.~ II
+{788}).  Ma Dante che pensa alla morta moglie d'Enea, avr@a alla
+sua, viva, pensato pi@u che certi comentatori non vogliono. 
+|Me~: che arsi d'Adalagia.  |Pelo~: giovanile.
+
+	|100-102.  Quella~: Fillide.  |Rodopea~: Rodope monte di
+Tracia.  Ovid. ^Her.~ II {1}: ^Hospita, Demophoon, tua te,
+Rhodope,ia Phyllis.~  E promise tornare: manc@o: ella mor@i
+sospesa ad un albero.  Qui Pietro cita Virgilio (^Buc.~ V {10}):
+^Phyllidis ignes.~  |Delusa~: ^Aen.~ I {352}: ^Lusit amantem.~ 
+|Alcide~: Ovid. ^Her.~ IX.  Semint.: <Ercole ritenuto dallo amore
+di Joles>.  |Richiusa~: ^Purg.~ XVI, 40: ^Dio m'ha in sua grazia
+richiuso.~
+
+	|103-105.  Pente~: Qui ^pentere~ all'antica, sta senza il
+^si~, come in latino: altrimenti, due ^si~ sarebbero pi@u
+richiesti.  |Torna~: spenta in Lete.  ^Purg.~ XXVIII, 127-128. 
+|Valor~: divino.  ^Purg.~ XI, 4: ^Laudato sia... 'l tuo valore.~ 
+^Par.~ X, 3: (di Dio) ^Ineffabile Valore.~  |Ordin@o~: Cant.
+Cantic. II, 4: ^Ordinavit in me charitatem.~  |Provvide~: a
+nostro bene.
+
+	|106-108.  Arte~: Le influenze superne fanno simile al
+cielo la terra.  ^Conv.~ {3.14.2}: <Discendere la virt@u d'una
+cosa in altra, non @e altro che ridurre quella in sua
+similitudine>.  |Adorna~: dispone bellamente.  Ai Latini vale e
+^apparecchiare~ ed ^ornare.~  |Perch'~: onde il bene terreno
+torna in onore de' beni celesti.  |Torna~: Non vale ^ritorna~,
+che sarebbe la parola della precedente terzina, nella medesima
+rima: si reca ^cade sotto~, come in Virgilio {^Geo.~ II, 351}:
+^Quaque redit medium Rhodope porrecta sub axem.~  Cos@i dicesi
+^tornare il conto~ e, assolutamente, ^tornare.~  Non chiaro a
+noi, ma potente in s@e perch@e dice come dall'apparente sviarsi e
+disordinare mondano la Provvidenza faccia da ultimo tornare il
+suo conto, il grand'ordine dell'universo; come il mondo
+inferiore, anco negli enti liberi e abusanti della libert@a,
+rimanga pure suddito del superno; come le leggi dell'inferiore
+non s'intendano se non recate a pi@u alto.
+
+	|115-117.  Tranquilla~: ^Pace~ pi@u volte la beatitudine in
+Dante.  |Raab~: Josue, II, 1.  Meretrice di Gerico: salv@o gli
+esploratori di Giosu@e, ond'e' la tolse a morte nel sacco; ed
+ella credette al Dio vero.  Paolo, Hebr. XI, 31.  |Grado~: tra'
+primi splende.  |Sigilla~: vv. 95-96: ^Questo cielo Di me
+s'imprenta.~
+
+	|118-120.  Appunta~: L'ombra della terra va fino al cielo
+di Venere.  |Cristo~: escito del Limbo.  |Assunta~: ^Som.~: <Le
+anime de' beati sono assunte agli ordini superiori dagli angeli>.
+
+	|121-123.  Palma~: segno di vittoria.  |Acquist@o~: fitto
+in croce.  |Palma~: Act. Apost. XX, 28: <La Chiesa di Dio la
+quale egli acquist@o col suo sangue>.  Pare che dica |l'una e
+l'altra palma~ accennando al modo usitato e frequente in
+Virgilio, della ^destra~, che indica la potenza e della battaglia
+e della vittoria.  Ma qui la mano confitta @e che vince e che
+libera.  ^Par.~ XX, 105: ^De' passuri... e de' passi piedi.~
+
+	|124-126.  Favor@o~: favor@i.  |Gloria~: espugnazione di
+Gerico.  |Tocca~: per liberarla da' Turchi.  Virg. {^Aen.~ XII,
+57}: ^Tangit honos animum.~  E qui |memoria~ @e per il meno; come
+dire: non se ne ricorda, nonch@e averla a cuore.
+
+	|127-129.  Citt@a~: Firenze.  |Colui~: Satana. 
+Nell'^Inf.~ X, 26, la chiama ^nobil patria.~  |Invidia~: ^Som.~:
+<I demonii per invidia si sforzano impedire di perfezionarsi gli
+uomini nel bene>.  Iren. IV, 78; Lact. II, 8; Greg. Nyss. ^Cat.~
+VI; ^Method. ap. Epiph. heraes.~ LXIV; Tertull. ^de Patient.~
+V.
+
+	|130-132.  Fiore~: fiorino gigliato.  Di qui si vede
+quanta potenza sui costumi d'Italia avesse la Toscana d'allora. 
+Armannino nella ^Fiorit@a~ dice: <Di questo, la Toscana d'ogni
+male n'@e cagione per la sua malizia, la quale li ha fatti per lo
+mondo pi@u graziosi alle genti che null'altra nazione, per la
+loro malizia, e non per natura>.  |Agni~: Joan. XXI, 15, 16, 17:
+<Pasci le mie pecore, pasci gli agnelli miei>.  E i provetti e i
+novelli.  |Lupo~: Parola solenne nel Poeta a denotar l'avarizia. 
+^Inf.~ XIX, 104: ^Vostra avarizia il mondo attrista.~
+
+	|133-135.  Decretali~: Libri delle leggi ecclesiastiche. 
+Bonifazio ai cinque che v'erano compilati nel 1234, aggiunse il
+sesto.  ^Monarch.~ {3.3.9}: <Sono certuni che chiamano
+decretalisti, d'ogni teologia e filosofia digiuni, con le loro
+decretali (che del resto io stimo da venerare) sperando ogni cosa
+dal prevalere di quelle, derogano con ogni sforzo alla dignit@a
+imperiale>.  |Vivagni~: margini de' libri unti dallo svolgerli;
+oppure: ai lembi de' lor panni fini.  Rammenta le fimbrie
+farisaiche.  De' ricchi manti ^Par.~ XXI, 130-134.
+
+	|136-138.  Cardinali~: Nel 1314 scrisse Dante una lettera
+latina a' cardinali: ma pare che indarno.  |Ali~: Luc. I, 26, 27:
+<Fu mandato l'angelo Gabriello alla Vergine nella citt@a di
+Nazaret>.
+
+	|139-142.  Milizia~: a' Cristiani seguaci di Pietro. 
+|Seguette~: ^Aen.~ VI {612}: ^Arma secuti.~  |Tosto~: Altri
+intende la gran mutazione, adombrata nell'^Inf.~ I, 101-111;
+altri la traslazione della sede: io sto al primo.  |Libere~:
+Ezech. XXXIV, 10: ^Liberabo gregem meum de ore eorem.~ 
+|Adult$ero~: adulterio.  ^Inf.~ XIX, 2-4: ^Le cose di Dio... Per
+oro... adulterate.~  Jer. IX, 2: ^Omnes adulteri sunt, caetus
+praevaricatorum.~  Ogni bene torto a male @e prostituzione di
+bellezza.  Ezech. XVI, 38: ^Judicabo te judiciis adulterarum, et
+effundentium sanguinem.~  XX, 30: ^In via patrum vestrorum vos
+polluimini, et post offendicula eorum vos fornicamini.~  IX, 1:
+^Fornicatus es a Deo tuo: dilexisti mercedem.~  Sophon. III, 4:
+^Sacerdotes ejus polluerunt sanctum.~  ^Conv.~ I, 9 {5}: <Per
+malvagia disusanza del mondo hanno lasciata la letteratura a
+coloro che l'hanno fatta, di donna, meretrice: e questi nobili
+sono principi, baroni, cavalieri>.  Bonifacio era, secondo Dante,
+doppiamente adultero con la Chiesa, poich@e ne aveva cacciato lo
+sposo legittimo, Celestino.
+
+	|Conclusione.~  Se gli accenni, quasi a modo d'indovinello,
+a Didone e a Fillide; se l'annotazione inserta nel testo, sopra
+l'abbujarsi del viso nella tristezza e lo schiarirsi nella gioia,
+annotazione men che inutile dopo le luminose pitture del gaudio
+raggiante che abbiamo gi@a viste; se queste cose e altre tali non
+pajono da ammirare, tanto pi@u corre debito d'avvertire le
+bellezze vere del Canto: tra le quali noter@o, come una delle
+meno apparenti ma pur vere bellezze, l'ombra della terra che
+^s'appunta~ nel pianeta di Venere {118-119}, e quasi si
+prolunga, ma indarno, per velarne la luce.  E non a caso, credo
+io, dice che la donna di Gerico in quel pianeta alla fine ^si
+tranquilla~ scintillando come raggio di sole in acqua limpida
+{113-115}, si tranquilla dall'irrequieto dibattere delle fiamme e
+degli amori suoi vaghi.  La sorella d'Ezzelino @e trattata con
+misericordia; e pare che verso i congiunti di coloro ai quali
+giustizia lo fa severo o passione lo fa acre, e' si compiaccia di
+dimostrarsi o riverente o pio, a scusa, e forse talvolta ad
+ammenda.  E per@o non @e maraviglia se nella famiglia stessa
+degli Scaligeri e' trova persone e cose da rimproverare; n@e di
+qui deve arguirsi ch'e' non pregiasse quello di loro in cui
+mostra fidanza con parole cos@i manifeste.  Anche da questo Canto
+apparisce l'importanza che aveva il Veneto ne' pensieri di lui; e
+gli stessi raffacci a Firenze provano l'importanza di questa
+repubblica nel mondo d'allora.  Notisi il rapido, non per@o
+brusco, passaggio alla digressione da ultimo.  Raab lo conduce di
+lancio ai prelati avidi, e Gerico a Roma.  E notisi il ^tosto~
+{142}, che abbiam sentito nel XXXIII, 49, del ^Purgatorio~, e
+sentiremo ancora nel XXVII, 63, del ^Paradiso.~  Anzich@e credere
+che, tante volte deluso ne' suoi vaticinii cos@i asseveranti,
+l'infelice esule ritornasse imprudentemente, quasi rimbambito,
+con le stesse parole a rifarli; a me piace congetturare che,
+quando scriveva il XXVII del ^Paradiso~ e pi@u gli apparivano
+prossime al termine le sue speranze, e' ritoccasse e il presente
+e l'ultimo del ^Purgatorio~, e forse quello che @e proemio del
+Poema.
+

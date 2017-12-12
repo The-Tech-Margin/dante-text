@@ -1,0 +1,240 @@
+	|8-15.~  The |mal~ and the |antica lupa~ are, of
+course, Avarice (see ^Inf.~ i. 49-60; 94-101); while the
+deliverer anxiously alluded to in ^v.~ 15 corresponds to the
+^veltro~ of ^Inf.~ i. 101-111, though the indication here is less
+definite than in the earlier passage -- perhaps because Dante was
+beginning to lose hope at the time of the composition of the
+present Canto?
+
+	|13-14.~  See above, Canto xvi. 67 ^sqq.~
+
+	|19-24.~  "And she brought forth her first-born son, and
+wrapped him in swaddling clothes, and laid him in a manger;
+because there was no room for them in the inn" (^Luke~ ii. 7).  --
+With ^vv.~ 19-21, ^cf. Par.~ xv. 133-135, and ^note.~
+
+	|25-27.~  Caius Fabricius, the Roman Consul (B.C. 282)
+and Censor (275), refused the gifts of the Samnites on settling
+terms of peace with them, and, subsequently, the bribes of
+Pyrrhus, King of Epirus, when negotiating with him concerning an
+exchange of friends.  Virgil's words in this connection --
+^parvoque potentem Fabricium~ (^AEn.~ vi. 844) are quoted in
+the ^De Mon.~ ii. 5: 90-99; and in the ^Conv.~ iv. 5: 107-110,
+there is a further allusion to Fabricius' refusal of the bribes
+(here he is mentioned together with Curius Dentatus; as by Lucan,
+^Phars.~ x. 151, who quotes the pair for their simplicity of
+manners and contempt of luxury -- ^et nomina pauperis aevi
+Fabricios Curiosque graves~).
+
+	|31-33.~  Nicholas (fourth century, Bishop of Myra in
+Lycia) saved the three daughters of a fellow-townsman, who was in
+dire straits of poverty, from leading lives of shame, by secretly
+throwing into their window at night bags of gold, which served
+them as dowries and enabled them to marry (see the ^Legenda
+Aurea~ and ^Brev. Rom.~ ad 6 Decemb.).  
+
+	|40.~  ^sqq.~  The speaker is Hugh Capet, King of France
+(987-996); but as some of the details given by Dante can apply only to
+his father, Hugh the Great (Duke of the Franks, etc., and Count of
+Paris, d. 956), it is Plain that the poet has confused these two
+personages.  In ^v.~ 52 we find a legend very generally accredited in
+those days, but always referred to the father, never to the son.  Verses
+53-59 state that when the Carlovingian dynasty came to an end (with
+Louis V. d. 987), the speaker's son succeeded, whereas in reality it
+was Hugh Capet himself who succeeded.  And it was Hugh Capet who
+founded the Capetian dynasty (^vv.~ 59, 60), not his son and successor,
+Robert I.
+
+	|46-48.~  The treachery of Philip the Fair and his
+brother Charles of Valois towards the Count of Flanders in 1299
+(Villani, viii. 32) was avenged three years later at the battle
+of Courtrai, in which the French were completely routed by the
+Flemish (Villani, viii. 55-58).
+
+	|50-51.~  Between the years 1060 and 1300, the French
+throne was occupied exclusively by four Philips (I.-IV.) and four
+Louis (VI.-IX.).
+
+	|54.~  When Louis V. died in 987 without children there
+was only one formidable Carlovingian left -- Charles, Duke of
+Lorraine, the son of Louis IV.  Hugh Capet, seeing the danger,
+promptly had him put into prison, where he died in 991.  Dante is
+wrong in saying that Charles was a monk; there is probably a
+confusion with Childeric III., the last of the Merovingians, who
+was deposed in 752 and ended his days in a monastery.
+
+	|61.~  After the death of Count Raymond Berengar of
+Provence, Charles I. of Anjou married, in 1246, his daughter,
+Beatrice, who had inherited the county (see above Canto vii. 128,
+and ^Par.~ vi. 127-142, ^notes~).
+
+	|65.~  Note the irony of the ^per ammenda~, thrice
+repeated.
+
+	|66.~  A reference to the English chronicles and
+histories will show that Dante does not adhere strictly to the
+correct chronology in this line, and that the origin of the
+differences between the French and English Kings alluded to goes
+back to a date earlier than that of the |gran dote provenzale.~
+However, he is right in all the essential facts, which held good.
+as stated by him, for many years.  Thus, Villani says that Edward
+III., when on the point of invading France in 1346, told his
+barons that the French King "was wrongfully occupying Gascony,
+and the county of Ponthieu, which came to him [Edward] with the
+dowry of his mother, and that he was holding Normandy by fraud"
+(xii. 63).
+
+	|67-68.~  For Charles of Anjou's expedition to Italy,
+see above, Canto iii. 103-145, ^note~; and for the battle of
+Tagliacozzo, in which he defeated Conradin, the last of the
+Swabians, see ^Inf.~ xxviii. 17, 18, ^note.~  On Oct. 29, 1268,
+two months after his defeat, Conradin, who was in his seventeenth
+year, was beheaded by Charles'orders.
+
+	|69.~  Dante here follows a popular but erroneous
+tradition (see Villani, ix. 218), according to which Thomas
+Aquinas, while proceeding to the Council of Lyons in 1274, was
+poisoned in the Abbey of Fossanuova, at the instigation of
+Charles of Anjou.
+
+	|70-78.~  Charles of Valois, the brother of Philip the
+Fair, entered Florence, with some nobles and 500 horsemen (^v.~
+73), on November 1, 1301, and left the city on April 4 of the
+following year.  For the success of the Blacks over the Whites,
+which was solely due to the favour he treacherously (^vv.~ 73,
+74) showed to the former party (at the instigation of Boniface
+VIII., who had sent him to Florence ostensibly as "peacemaker").
+see ^Inf.~ vi. 64-69, ^note~, and Gardner, ^pp.~ 21-23.  Charles
+was nicknamed |Senzaterra~ = "Lack-land" (^v.~ 76), perhaps because
+of the ignominious failure of his expedition to Sicily in 1302 or
+because he was a younger son.
+
+	|79-84.~  While Charles the Lame (see above, Canto vii.
+124-129; ^Par.~ vi. 106-108, ^notes~, etc.) was assisting his
+father, Charles I. of Anjou, in his futile attempt to recover
+Sicily, he was defeated by Roger di Loria, the admiral of Peter
+III. of Aragon, and taken prisoner (June 1284).  In 1305 he
+married his youngest daughter, Beatrice, to Azzo VIII. of Este,
+who was her senior by many years.  We have no record of the
+monetary transaction which excited Dante's wrath.
+
+	|85-90.~  For Boniface VIII. (the cause of most of Dante's
+troubles, whom the poet invariably condemns, but whose death is
+in the present passage treated as an outrage on the Holy See) see
+^Inf.~ vi. 69, xix.  52-57, xxvii. 70-111; ^Purg.~ viii. 131 (?),
+xxxii. 150, xxxiii. 44; ^Par.~ xiii. 25-27, 90, xvii. 49-51
+xxvii. 22-24, xxx. 146-148.  
+
+	"Sciarra Colonna and William de Nogaret [the |vivi ladroni~,
+^v.~ 90], in the name of Philip the Fair [the |fiordaliso~, ^v.~ 86],
+seized Boniface VIII. at Anagni [the Pope's birthplace, about forty
+miles S.E. of Rome] and treated the old Pontiff with such barbarity
+that he died at Rome in a few days, October 11th, 1303" (Gardner, ^p.~
+26; see Villani, viii. 63).
+
+	|91-93.~  Philip the Fair (who is called |nuovo Pilato~
+because he delivered Boniface to his enemies, the Colonnesi, even
+as Pilate delivered Jesus to the will of the Jews) caused the
+Order of the Templars to be persecuted, from the year 1307.
+According to Villani (viii. 92), many people held that the
+accusations levied against them were unjust, and prompted only by
+the desire to obtain their treasure.
+
+	|94-96.~  ^Cf. Par.~ xxii. 16-18.  
+
+	|97-99.~  Hugh is answering Dante's question contained in ^vv.~
+35, 36 and relating to the example drawn from the life of Mary (^v.~ 19
+^sqq.~), among others.
+
+	|103.~  ^sqq.~  As noted by Dr Moore (see above, Canto xii.
+25-27, ^note~), the groups of the examples of vice are on this fifth
+terrace, marked off by "putting ^together~ two or more instances from
+Profane and Sacred History respectively, instead of making the
+instances alternate."
+
+	|103-105.~  Pygmalion, the brother of Dido, and murderer
+of her husband (their uncle), Sichaeus: "He, impious, and blinded
+with the love of gold, having taken Sichaeus by surprise,
+secretly assassinates him before the altar, regardless of his
+sister's great affection" (^AEn.~ i. 350 ^sqq.~).
+
+	|106-108.~  Bacchus was so grateful to Midas, King of
+Phrygia, for the kindness he had shown to his friend Silenus,
+that he promised to grant him any request.  Midas wished
+everything he touched to be turned to gold, but soon begged
+Bacchus to relieve him of this privilege, when he found that
+even his food changed into the precious metal.  It is somewhat
+strange that Dante should consider this incident laughable; the
+only really funny thing about Midas (which, however, has nothing
+to do with greed of gold) being the asses' ears that were
+bestowed on him by Apollo, for presuming to decide against him
+and in favour of Pan after a singing contest.  (See Ovid, ^Met.~
+xi. 100 ^sqq.~)
+
+	|109-111.~  At the capture of Jericho, Joshua ordered all
+the treasure to be consecrated to the Lord; which decree having
+been disregarded by Achan, he and his family were stoned and
+burned (^Josh.~ vi. 19, and vii.).
+
+	|112.~  After the Apostles had preached to the people,
+"the multitude of them that believed were of one heart and of one
+soul: neither said any of them that aught of the things which he
+possessed was his own; but they had all things common...and great
+grace was upon them all.  Neither was there any among them that
+lacked: for as many as were possessors of lands or houses sold
+them, and brought the prices of the things that were sold, and
+laid them down at the apostles' feet: and distribution was made
+unto every man according as he had need.  And Joses...having
+land, sold it, and brought the money, and laid it at the apostles'
+feet.  But a certain man named Ananias, with Sapphira his wife,
+sold a possession, and kept back part of the price, his wife also
+being privy to it, and brought a certain part, and laid it at the
+apostles' feet."  Ananias and his wife were rebuked by Peter for
+their hypocrisy, and fell down dead.  (See ^Acts~ iv. 32-37; v.
+1-11.)
+
+	|113.~  Heliodorus, the treasurer of King Seleucus,
+having gone with his guard to the Temple of Jerusalem, to remove
+the treasure, "there appeared unto them an horse with a terrible
+rider upon him, and adorned with a very fair covering, and he ran
+fiercely, and smote at Heliodorus with his forefeet, and it
+seemed that he that sat upon the horse had complete harness of
+gold" (2 ^Macc.~ iii. 25).  
+
+	|115.~  "This Polydore unhappy Priam had formerly sent in
+secrecy, with a great weight of gold, to be brought up by the King of
+Thrace [Polymnestor], when he now began to distrust the arms of Troy,
+and saw the city with close siege blocked up.  He, as soon as the power
+of the Trojans was crushed, and their fortune gone, espousing
+Agamemnon's interest and victorious arms, breaks every sacred bond,
+assassinates Polydore, and by violence possesses his gold.  Cursed
+thirst of gold, to what dost thou not drive the hearts of men!"
+(^AEn.~ iii. 49 ^sqq.~)
+
+	|116-117.~  Marcus Licinius Crassus, surnamed ^Dives~,
+the Wealthy, was triumvir with Caesar and Pompey, B.C. 60.  He
+was so notorious for his love of gold, that when he had been
+slain in a battle with the Parthians, their King, Hyrodes, had
+molten gold poured down his throat.  Florus (^Epitome~, iii. 11)
+says that his head ...^ludibrio fuit, neque indigno.  Aurum enim
+liquidum in rictum oris infusum est, ut cujus animus arserat
+auri cupiditate, ejus etiam mortuum et exsangue corpus auro
+ureretur.~
+
+	|118-123.~  Hugh is answering Dante's question contained in
+^vv.~ 35, 36 and relating to the example drawn from the life of Mary
+(^v.~ 19 ^sqq.~), among others.
+
+	|128.~  See the following canto, ^vv.~ 40-72.
+
+	|130-132.~  Juno, being jealous of Jupiter's love for
+Latona, drove the latter from place to place, till she reached
+Delos, which had been a floating island, tossing about in the
+sea, till Jupiter made it fast in order to receive her.  Here she
+bore him two children -- Apollo and Diana -- the sun and the moon
+(^cf. Par.~ x. 67, xxii. 139, xxix. 1).  See Ovid, ^Met.~ vi.
+189 ^sqq.~
+
+	|136-140.~  ^Gloria in excelsis Deo, pax hominibus
+bonae voluntatis.~  ("Glory to God in the highest, and on
+earth peace, good will toward men.")  See ^Luke~ ii. 8-14.

@@ -1,0 +1,630 @@
+	|1-3.  Forse~ ecc.: quando manca circa un'ora al sorger
+del sole, le prime stelle cominciano ad offuscarsi, e poi tutte
+ad una ad una, fino alla pi$u luminosa, si spengono, a mano a mano
+che l'aurora s'inoltra nel cielo; cos$i a poco a poco si
+dileguarono alla mia vista i cerchi angelici trionfanti.  --
+L'indicazione oraria del primo termine del paragone @e precisata
+da Dante in due modi: indirettamente, collo stabilire l'ora di un
+punto della terra situato a circa 6000 miglia di distanza;
+direttamente, con la posizione rispetto all'orizzonte del cono
+d'ombra che il globo terrestre proietta.  Entrambi i riferimenti
+sono approssimativi, come risulta dalle parole stesse di cui si
+serve il poeta (|forse~..., |quasi~); ma solo il secondo esprime
+un concetto determinabile con esattezza scientifica.  Poich$e
+infatti il cono d'ombra proiettato dalla terra si muove in modo
+che la sua punta si trova sempre in posizione diametralmente
+opposta al cammino del sole; allorch$e quest'ultimo <@e di pochi
+gradi al di sotto dell'orizzonte dalla parte d'oriente, l'asse
+del cono ombroso della terra deve essere di altrettanto, cio@e di
+poco, elevato sul piano orizzontale dalla parte d'occidente>
+(Antonelli), |quasi al letto piano~, e cio@e quasi adagiato sul
+piano dell'orizzonte.  Il primo riferimento invece risulta assai
+incerto e vago, perch$e il calcolo di una distanza temporale in
+rapporto a una distanza spaziale varia secondo la latitudine del
+luogo di osservazione (col variare della lunghezza dei gradi di
+longitudine a mano a mano che ci si allontana dall'Equatore), e
+varia, quanto alle condizioni di luminosit@a, a parit@a di ora,
+secondo le stagioni.  Siccome dal ^Convivio~, III, v, 11; IV,
+viii, 7, risulta che Dante valutava (sulla scorta di Alfragano)
+in circa 20.400 miglia la circonferenza delle terra, si deve
+supporre che con |seimila miglia~ egli abbia voluto indicare una
+distanza pari a poco pi$u della quarta parte di essa (che,
+misurata sull'Equatore, corrisponde a 5100 miglia circa); sicch$e
+tutta la frase verrebbe a significare: "il mezzogiorno (|l'ora
+sesta~) ferve lontano da noi, dalla parte d'oriente, poco pi$u di
+un quadrante di sfera; mancano circa sette ore perch$e sia da noi
+mezzogiorno".  -- |ci~: @e anche qui avverbio di luogo, riferito a
+|ferve~, ma in rapporto con |lontano~.  Intendi: "ferve in un
+luogo (volutamente lasciato impreciso) lontano da quello in cui
+si trova l'immaginato spettatore quasi 6000 miglia".
+
+	|4.  il mezzo del cielo~: lo spazio trasparente che
+s'interpone fra il nostro sguardo e l'oggetto della visione (cfr.
+^Purg.~, I, 15; XXIX, 45; ^Par.~, XXVII, 74); qui l'atmosfera e
+tutto lo spazio celeste fino al cielo stellato, |a noi profondo~,
+alto rispetto a noi.  Il |mezzo del cielo~ non pu@o essere, come
+molti intendono, la parte mediana del cielo, o il meridiano
+celeste, perch$e le prime stelle a scomparire non sono quelle che
+vediamo al centro del cielo, bens$i quelle che si trovano ad
+oriente pi$u vicine all'orizzonte.
+
+	|5-6.  alcuna stella~: di quelle pi$u piccole, e meno
+luminose; |perde il parere~: cessa di esser visibile, di
+apparire, |infino a questo fondo~, fino alla terra, che @e la
+<parte ima>, il fondo dell'universo.
+
+	|7.  la chiarissima~ ecc.: l'aurora, luminosa ancella del
+sole (cfr. ^Purg.~, XII, 81; XXII, 118).          
+
+	|8.  si chiude~: <parsi chiudere, come se appiattasse
+dentro di s$e le stelle> (Buti).
+
+	|9.  di vista in vista~: una stella dopo l'altra.  Cfr.
+^Par.~, II, 115; XIV, 71.  -- |infino alla pi$u bella~: alla pi$u
+grande e fulgente.
+
+	|10-12.  il triunfo~ ecc.: lo spettacolo dei cori
+angelici festanti (cfr. ^Par.~, XXVIII, 126) intorno
+all'abbagliante punto luminoso, che in apparenza si presenta come
+|inchiuso~, circondato, da essi, mentre in realt@a li |inchiude~,
+li circonda e li comprende dentro di s$e, insieme con tutto
+l'universo.  Cfr. ^Purg.~, XI, 2; ^Par.~, XIV, 30; ^Conv.~, IV,
+ix, 3.
+
+	|13.  si stinse~: si cancell@o (cfr. ^Purg.~, XII, 122);
+o, si spense (^Inf.~, XV, 36).
+
+	|14-15.  per che~ ecc.: per la qual cosa il |nulla
+vedere~, il venir meno dello spettacolo che prima mi aveva
+attirato a s$e, e l'|amore~, mi spinsero a rivolgere nuovamente
+gli occhi verso Beatrice.  Il verbo singolare |costrinse~ @e
+retto, come altre volte, da un doppio soggetto.
+
+	|16-18.  Se quanto~ ecc.: se tutto ci@o che fin qui @e
+stato detto da me della bellezza di Beatrice (della donna
+mortale, prima, nelle rime e nella ^Vita nuova~, e poi della
+santa aureolata di una luce via via pi$u splendente, nel poema)
+fosse |conchiuso~, adunato a formare una sola lode, comprensiva
+di tutte le altre; questa sarebbe sempre insufficiente ad
+assolvere l'ufficio di esprimere qui in maniera degna
+l'ineffabile grado di bellezza in cui ora mi appariva.  --
+|Fornire~ sta per "adempiere" (cfr. ^Purg.~, XII, 132); e |vice~,
+per "compito" (cfr. ^Par.~, XXVII, 18); tutta la frase |fornir
+questa vice~ @e calco del lat. <explere vicem>.
+
+	|19-21.  si trasmoda~ ecc.: <non solamente passa il modo
+e la misura dell'intelletto umano, ma certo passa l'intelletto
+dei pi$u alti angeli, in forma che nessuna creatura la possi
+comprendere tutta, ma solamente esso Iddio> (Landino).
+
+	|22.  mi concedo~: mi dichiaro, mi confesso.
+
+	|23-24.  pi$u~ ecc.: pi$u di quanto non sia stato mai
+sopraffatto (|soprato~), da un punto particolarmente arduo del
+suo tema, nessuno scrittore di poemi.  |Comico o tragedo~ @e
+formula comprensiva degli autori di componimenti poetici
+narrativi in genere, in ogni grado di materia e di stile (cfr. le
+note a ^Inf.~, XVI, 128 e XX, 113).
+
+	|25.  come sole~ ecc.: il ricordare soltanto la dolcezza
+del suo riso basta ad annullare tutte le facolt@a della mia mente,
+a quel modo che la luce del sole opera, abbagliandola, su una
+vista debole: <nella vista che pi$u lo teme e |che pi$u trema~ e
+dibattesi, perch$e non lo pu@o patire per lo suo eccessivo
+splendore>, come spiega il Buti.  La stessa immagine era gi@a in
+^Vita nuova~, XLI, 6 e in ^Conv.~, III, vv. 55-62 e VIII, 14
+(cfr. II, iv, 17); nei quali luoghi essa @e chiarita con
+riferimento a una frase di Aristotele, ^Metaf.~, II, 1:
+<intellectus noster se habet ad manifestissima rerum, sicut se
+habet oculus vespertilionis ad lucem solis>.  Accennando al |viso
+che pi$u trema~, Dante vuol dire insomma che l'intelletto umano @e
+del tutto soverchiato e sopraffatto dalla contemplazione di
+talune realt@a che lo trascendono e di fronte ad esse si comporta,
+non gi@a come di fronte ai raggi solari una vista sana e forte,
+che fino ad un certo segno li sostiene, bens$i come un organo
+visivo indebolito per malattia ovvero naturalmente imperfetto,
+qual @e quello di certi animali notturni.
+
+	|28.  il suo viso~: gli occhi di lei.
+
+	|29.  in questa vita~: sulla terra, a nove anni.  --
+|infino~ ecc.: fino a questa visione estrema di insostenibile
+luce, nell'Empireo.
+
+	|30.  non m'@e~ ecc.: non era stato mai posto nel mio
+cammino un ostacolo cos$i forte, tale da impedirmi affatto di
+proseguire nel mio canto; come ora son costretto a fare.  E
+veramente la confessione d'impotenza dell'artista risuona qui con
+un'intensit@a e un'insistenza di gran lunga superiori a quelle di
+altre confessioni non dissimili nella sostanza (cfr. ^Par.~, XIV,
+79-81; XVIII, 8-12; XXIII, 22-24); tanto pi$u calda e persuasiva
+quanto pi$u, a questo punto, l'artista sembra chiamare a raccolta
+tutte le sue virt$u, le pi$u raffinate risorse della sua eloquenza:
+nota la scelta delle immagini dotte e preziose (vv. 24, 30,
+34-35), i latinismi rari (|preciso~, "troncato"; ^tuba~ {v.35},
+"tromba, facolt@a poetica"), il gioco squisito delle replicazioni
+e allitterazioni ai vv. 28-29 (^vidi~, ^viso~, ^vita~, ^vista~).
+
+	|31-33.  che mio~ ecc.: che io rinunci a tener dietro,
+poetando, all'immagine della sua bellezza (a sforzarmi cio@e di
+adeguarla con le mie parole), come artista giunto all'estremo
+limite delle sue possibilit@a espressive (|all'ultimo suo~).
+
+	|34-36.  Cotal~ ecc.: tale dunque nell'aspetto, quale io
+rinuncio a descriverla, abbandonando il tema a una voce poetica
+pi$u potente e robusta (cfr. ^Par.~, I, 35-36) di questa mia, che
+ormai s'affretta verso il porto, protesa nello sforzo di
+concludere l'esposizione dell'ardua materia prescelta.  |Deduce
+terminando~ @e modo enfatico, che esprime appunto lo sforzo; dove
+|deduce~ @e latinismo, nel senso di "ricava, trae fuori", o
+fors'anche di "elabora, plasma" (cfr. ^Par.~, XIII, 73).
+
+	|37.  di spedito duce~: <di guida o conduttore, che si
+sente |spedito~, o spacciato del suo carico [cfr. ^Par.~, XVII,
+100]...; e per@o in atto allegro, baldo, contento> (Cesari).
+
+	|39.  del maggior corpo~: dal Primo Mobile, il pi$u vasto
+dei cieli materiali (cfr. ^Par.~, XXVIII, 64).  -- |al ciel~
+ecc.: all'Empireo, che @e pura luce intellettuale e fuoco di
+carit@a: <celum supremum... a nulla corporali substantia virtutem
+recipiens...; celum igne sui ardoris flagrans; non quod in eo sit
+ignis vel ardor materialis, sed spiritualis, quod est amor
+sanctus sive caritas> (^Epist.~, XIII, 67-68).
+
+	|40-42.  luce intellettual~ ecc.: l'Empireo @e <luce e
+amore>, e pi$u precisamente la luce della <Mente divina, in che
+s'accende L'amor>, che muove e ordina il tutto (cfr. ^Par.~,
+XXVII, 110-12); e questo amore @e fonte di beatitudine, perch$e per
+esso l'anima si innalza alla visione del Divino e assapora una
+|letizia~ che trascende tutte le gioie terrene.  Esso dunque
+<s'identifica collo splendore della Mente divina e col raggio che
+visibile face lo Creatore alla creatura [cfr. qui sotto, vv.
+100-102], ossia col ^lumen gloriae~ dei teologi> (NARDI, ^Saggi
+di filosofia dantesca~, pp. 230-31).  -- |dolzore~: provenzalismo
+frequente nel linguaggio della lirica.
+
+	|43-45.  l'una e l'altra milizia~: <due cori: uno delli
+angioli, l'altro delle anime beate> (Ottimo).  |Milizia~
+intendono alcuni, sulla scorta del Landino, perch$e <gli angeli
+militorono in cielo contro agli angeli rei, come l'anime beate
+militorono in terra contro alla carne e contro all'avversario>;
+ma |milizia~ era anche termine cavalleresco (cfr. ^Par.~, XV,
+140), e qui, come pure in ^Par.~, XVIII, 124; XXXI, 2, potrebbe
+significare semplicemente "nobilt@a, corte": <ambo le corti del
+ciel>, come dir@a al v. 96.  -- |e l'una~ ecc.: una di queste
+|milizie~, quella umana, ti si mostrer@a in quell'aspetto
+medesimo, in cui tu la vedrai nel giorno del giudizio finale,
+quando ogni anima <ripiglier@a sua carne e sua figura> (^Inf.~,
+VI, 98); vedrai cio@e i santi rivestiti dei loro corpi risorti e
+trionfanti, ciascuno con la <vesta che al gran d$i sar@a s$i chiara>
+(^Purg.~, I, 75).  -- La distesa e trepidante similitudine
+iniziale, che, spegnendo ad una ad una le luci dei cori angelici,
+suscita una pausa vuota nello spettacolo e nel ritmo del racconto
+e isola in uno stato di assorta e sospesa aspettazione la figura
+del protagonista (vv. 1-15); l'umanissima commemorazione della
+nuova trascendente bellezza di Beatrice, venata di una
+malinconia, che gi@a ne preannunzia la prossima dipartita (vv.
+16-33); il trionfale annunzio della guida celeste, che si appunta
+in una definizione lirica, dove le parole derivano un'accresciuta
+intensit@a dal loro ripercuotersi e dilatarsi e rarefarsi in un
+ritmo crescente di ondose vibrazioni (vv. 38-45); preparano
+l'improvvisa fulgurazione del lume di grazia e la ripresa della
+rappresentazione, tutta intonata ora in un clima di sensibilit@a
+ardente e sublimata, senza digressioni ragionative, risolta in un
+crescendo vertiginoso di immagini, che suggeriscono via via con
+approssimazione sempre maggiore il nucleo emotivo dell'esperienza
+spirituale, senza mai esaurirlo, e di pause ammirative e
+contemplative, in cui la fantasia sembra di volta in volta
+ritemprarsi e riprendere nuova lena al suo volo.
+
+	|46.  discetti~: disperda, sbaragli (dal lat.
+^disceptare~).
+
+	|47-48.  li spiriti visivi~: gli organi che presiedono
+alla facolt@a della vista (cfr. ^Par.~, XXVI, 71).  -- |s$i che
+priva~ ecc.: il senso @e: "rende l'occhio incapace di percepire
+altri oggetti visibili, diventati ora troppo |forti~ per esso,
+eccedenti la sua facolt@a", e cio@e lo abbaglia temporaneamente. 
+Non intenderei per@o l'|atto~ riferito a |di forti obietti~, come
+fanno i pi$u, spiegando: "impedisce all'occhio di subire l'azione
+di luci anche pi$u vive"; |privare l'occhio dall'atto~ non pu@o
+significare se non: "privarlo della sua naturale capacit@a di
+tradurre in atto la potenzialit@a visiva"; e perci@o tutta la frase
+andr@a spiegata piuttosto, come fa il Buti: <priva l'occhio umano
+dall'atto dei pi$u forti obietti, che avanzano la virt$u visiva;...
+imper@o che, debilitata, la virt$u visiva non pu@o esercitare l'atto
+del vedere in quelle cose che prima, se non fusse divisa, arebbe
+potuto vedere>.          
+
+	|49.  mi circunfulse~: mi rifulse tutto intorno.  @E
+latinismo biblico, sulle orme del racconto di Paolo negli ^Atti
+degli Apost.~, XXII, 6: <subito de coelo circunfulsit me lux
+copiosa; cum non viderem prae claritate luminis illius...>.
+
+	|52.  l'amor~ ecc.: Dio, che, appagando di s$e
+perfettamente questo cielo, lo mantiene in uno stato di assoluta
+quiete e immobilit@a.  L'Empireo @e il <divinissimo cielo... quieto
+e pacifico> (^Conv.~, II, iii, 9-10; cfr. ^Par.~, I, 122; II,
+112; XXII, 64-66).
+
+	|53-54.  accoglie~ ecc.: riceve sempre le anime, al loro
+primo entrarvi, con cosiffatto saluto; avvolgendole cio@e in un
+fulgore di luce cos$i intensa che da principio le abbaglia, ma ha
+pure il compito di prepararle a sostenere l'incendio della
+visione divina.  Il <lampo> di luce viva @e figura della speciale
+grazia, che Dio infonde nell'anima beata per renderla disposta a
+contemplarlo, quasi candela che prima viene acconciata a ricever
+la fiamma e poi @e accesa.  <Nam est opinio sanctorum doctorum,
+quod, ut anima vadat ad coelum et videat Deum, datur sibi a
+divina gratia quaedam lux elevativa, qua mediante anima sic
+elevata fit disposita ad videndum> (Serravalle).  -- |salute~: ha
+il doppio significato di "saluto" e di "virt$u beatificante", con
+cui il vocabolo @e adoperato nella ^Vita nuova~, III, 4, XI, 1; e
+in ^Rime~, L, 12 e 53; LXIX, 9: la <luce viva> @e segno di
+salutazione e, al tempo stesso, principio di salute.  --
+|candelo~: cfr. ^Par.~, XI, 15.
+
+	|56-57.  me sormontar~ ecc.: <me supercrescere..., ultra
+virtutem solitam> (Benvenuto).  Intendi: "sentii (|compresi~) che
+le mie virt$u erano salite ad un grado pi$u alto, accresciute in
+potenza e in letizia".  |Sormontare~ @e intransitivo, come in
+^Inf.~, I, 68; ^Purg.~, XVII, 119.
+
+	|58-60.  di novella~ ecc.: riacquistai la vista, che
+avevo temporaneamente perduta, ma diventata pi$u acuta e pi$u
+forte; ^tale~ che non esiste luce tanto fulgente (|mera~: cfr.
+^Par.~, XI, 18; XVIII, 55), che i miei occhi non sarebbero stati
+in grado di resistere al suo confronto e uscirne vittoriosi.  
+
+	|61.  lume~ ecc.: una luce che scorreva a guisa di fiume
+(|rivera~: cfr. ^Inf.~, XII, 47; ^Purg.~, XIV, 26; XXVIII, 47). 
+Cfr. ^Apocal.~, XXII, 1: <Et ostendit mihi fluvium aquae vivae,
+splendidum tamquam cristallum, procedentem de sede Dei et Agni>;
+e il commento di san Bonaventura: <Flumen aeternae gloriae est
+flumen Dei, plenum congregatione sanctorum...  Aeterna gloria
+dicitur fluvius, propter abundantiam; aquae vivae, propter
+indeficientiam; splendidus, propter munditiam; tamquam
+cristallum, propter transparentiam>.
+
+	|62.  fluvido di fulgore~: luce fluente (lat.
+^fluvidus~).  Riprende e rafforza, in forma pi$u densa, l'immagine
+del verso precedente.  -- Ho accolto la lezione del Vandelli;
+altri (Casella, Petrocchi) preferiscono leggere ^fulvido~, che
+potrebbe significare: "fulgente come oro" (dal lat. ^fulvus~;
+cfr. v. 124).
+
+	|63.  primavera~: fioritura primaverile (cfr. ^Purg.~,
+XXVIII, 51).
+
+	|65.  d'ogni parte~: sull'una e sull'altra riva.
+
+	|66.  quasi~ ecc.: simili a rubini (le faville accese)
+incastonati in aurei monili (i fiori).  Cfr. ^Eccl.~, XXXII, 7:
+<gemmula carbunculi in ornamento auri>; e Virgilio, ^Aen.~, X,
+134: <qualis gemma micat, fulvum quae dividit aurum>.  -- <Per
+istud lumen decurrens ad modum fluminis, auctor figuraliter
+manifestat divinam gratiam.  Sicut enim aqua fluminis descendit a
+monte ad vallem, ita divina gratia descendit et fluit a Deo ad
+mentes hominum.  Per duas ripas intelligit duos choros beatorum
+Veteris et Novi Testamenti, quos irrigat aqua dicti fluminis. 
+Flores sunt ipsi sancti et beati, qui virent humore dictae aquae. 
+Favillae volantes sunt angeli ardentes, qui ministrant et portant
+istam gratiam> (Benvenuto).
+
+	|68.  riprofondavan~ ecc.: tornavano a inabissarsi nel
+mirabile gorgo, nell'infinita profondit@a di quelle acque
+luminose.  |Gurge~, per "onda, fiume", @e latinismo che Dante
+riprende da Virgilio (^Aen.~, I, 118; VI, 296); e ^gorgo~, nello
+stesso senso, usa anche il Petrarca.
+
+	|69.  e s'una~ ecc.: l'avvicendarsi delle faville dal
+gorgo alle rive fiorite, e da queste al gorgo, era incessante.
+
+	|70.  alto~: profondo.  -- |urge~: preme, incalza (cfr.
+^Par.~, X, 142).          
+
+	|71.  notizia~: cognizione piena e chiara.  -- |vei~:
+vedi.  Forma frequente nell'antico toscano, anche in prosa (cfr.
+PARODI, ^Bull. soc. dant.~, III, 130).
+
+	|72.  quanto pi$u turge~: <idest, quanto plus intumescit
+et excrescit [cfr. ^Par.~, X, 144]; quia quanto intensior erit
+sitis; tanto dulcior erit potus> (Benvenuto).
+
+	|73-74.  ma di~ ecc.: ma prima che tanta |sete~, l'<alto
+disio>, sia saziata, @e necessario che tu beva ancora di
+quest'acqua, che i tuoi occhi s'immergano in questo fiume di
+luce.  <Haec est illa aqua de qua loquitur auctor in
+^Purgatorio~, [XXI, 1-3], ubi dicit: -- La sete natural che mai
+non sazia, Se non con l'acqua onde la femminetta Samaritana
+domand@o la grazia -- haec ergo aqua est divina gratia>
+(Benvenuto).  Perch$e a Dante si apra il senso reale dello
+spettacolo che ora gli @e apparso, occorre che prima la sua vista
+intellettuale sia fortificata dalla grazia illuminante. 
+L'indeterminata <luce viva>, che l'ha accolto sulla soglia
+dell'Empireo, si @e precisata dapprima in una fiumana luminosa;
+ora questa si tramuter@a in un'immensa rosa di spiriti
+specchiantisi in un lago di luce: momenti successivi di una
+rivelazione, approssimazioni graduali di una realt@a che la
+fantasia non pu@o circoscrivere, e si limita a suggerire inventando
+e avvicendando senza posa le sue <figure>.
+
+	|75.  il sol~ ecc.: Beatrice (cfr. ^Par.~, III, 1).
+
+	|76.  li topazii~: le <faville vive>, gi@a paragonate a
+rubini.
+
+	|77.  'l rider dell'erbe~: i fiori che dipingono di
+mirabile primavera le due rive.
+
+	|78.  son di lor vero~ ecc.: sono prefigurazioni della
+verit@a che in essi si racchiude velata.  |Prefazii~ (da un basso
+latino ^praefatium~) implica l'idea di anticipazione;
+|umbriferi~, di velamento, adombramento.
+
+	|79-81.  Non che da s$e~ ecc.: <io non dico questo perch$e
+|da s$e~, cio@e per sua natura, sian queste cose |acerbe~, cio@e
+difettuose, come sono le cose acerbe...; ma @e lo contrario, cio@e
+che queste cose |da s$e~ sono perfette> (Buti).  Intendi: "per se
+stesse queste cose sono nella pienezza del loro essere, compiute;
+e se ora ti appaiono in una forma che le preannunzia e le adombra
+solo imperfettamente, il |difetto~ @e in te, che non hai occhi
+(|viste~) tanto potenti (|superbe~) da vederle quali sono in
+realt@a".
+
+	|82.  rua~: si precipiti (lat. ^ruat~; cfr. ^Inf.~, XX,
+33). 
+
+	|84.  molto tardato~ ecc.: molto in ritardo sull'ora
+consueta della poppata.
+
+	|85-87.  per far~ ecc.: per fare dei miei occhi specchi
+meglio capaci di riflettere il vero (cfr. ^Par.~, XXI, 17);
+|chinandomi~ (secondo il consiglio di Beatrice: cfr. vv. 73-74)
+ad abbeverarmi in quel fiume luminoso, che scorre (|si deriva~)
+eternamente dal fonte divino, perch$e le creature ne attingano
+stimolo e virt$u a perfezionarsi.  -- |vi s'immegli~: <vi si
+diventi migliore> (Buti).  |Immegliare~ @e ancora un neologismo
+dantesco, del tipo ^insemprare~, ^insusarsi~, ^indovarsi~
+(^Par.~, X, 148; XVII, 13; XXXIII, 138); adoperato qui in forma
+neutra, cui fa da soggetto impersonale la particella |si~; altri
+intende ^immegliarsi~ come un riflessivo, con un soggetto
+sottinteso: la vista, l'uomo, o simile.
+
+	|88-90.  e s$i come~ ecc.: non appena i miei occhi
+(letteralmente: le ciglia, |gronda delle palpebre~) cominciarono
+a dissetarsi in quell'onda (|di lei~), a immergersi in quella
+fiumana luminosa; subito, da lunga che essa mi appariva prima
+(estendentesi in |lunghezza~ al modo appunto di un corso
+d'acqua), parve essersi trasformata in figura circolare.  -- Per
+la qualit@a del procedimento analogico, al tempo stesso prezioso e
+vigoroso (non per affinit@a di significato metaforico), l'immagine
+della |gronda~ richiama alla mente l'altra del ^coppo sotto il
+ciglio~ di ^Inf.~, XXXIII, 99.  Qui poi essa deriva una
+particolare intensit@a, dal suo innestarsi sull'altra metafora
+lungamente continuata del "bere", che assimila l'atto del
+contemplare ad un mistico nutrimento e assorbimento di sostanza
+luminosa.
+
+	|91-96.  come gente~ ecc.: come persone, apparse dapprima
+in maschera (|sotto larve~: cfr. ^Purg.~, XV, 127), allorch$e
+depongono la finta sembianza sotto cui si era celato il loro
+aspetto vero, ci rivelano la loro figura reale del tutto
+differente da quella contraffatta che avevano assunto
+mascherandosi; cos$i quelli, che gi@a mi si eran mostrati come
+fiori e faville, si cambiarono ai miei occhi in aspetti pi$u
+festosi, e li vidi dispiegarsi dinanzi a me nel loro essere e
+nella loro forma propria, rispettivamente di santi e di angeli:
+le due |corti~, o <milizie>, del paradiso.
+
+	|97.  O isplendor~ ecc.: sul punto di toccare l'estremo
+vertice della sua esperienza umana e poetica, implora il soccorso
+della grazia illuminante, senza la quale <non pu@o l'animo umano
+trascendere a queste speculazioni> (Landino).  Lo |splendore di
+Dio~ @e lo stesso che il ^lume~ dell'Empireo (cfr. vv. 61, 100),
+in cui si sazia la sete dell'uomo e per cui il Creatore si rende
+visibile alla creatura.  -- La triplice replicazione della
+parola-rima esprime l'orgoglio della condizione privilegiata e
+insieme la consapevolezza della qualit@a mistica di quel ^vedere~
+trascendente.
+
+	|98.  verace~: esso solo vero, nella sua perfezione.
+
+	|100.  Lume~: <illud lumen divinum, quod primo videbatur
+extendi in longum,... nunc rotundum; et hoc est quod vocatur
+coelum empyreum, quod non est corporale sicut ceteri coeli, immo
+spirituale, immobile, nec est aliud quam ipsa lux divina et amor
+divinus> (Benvenuto).
+
+	|101.  a quella creatura~: dotata di ragione: uomini ed
+angeli.
+
+	|102.  la sua pace~: il suo perfetto appagamento.  Cfr.
+^Purg.~, XXX, 9; ^Par.~, III, 85.  <Appetere beatitudinem nihil
+aliud est quam appetere ut voluntas satietur; quod quilibet vult>
+(Tommaso, ^Summa theol.~, II, i, q. v, 8); <Inquietum est cor
+nostrum donec requiescat in te> (Agostino, ^Confess.~, I, 1).
+
+	|103-105.  circular figura~: simbolo di perfezione,
+perch$e @e immagine di un movimento che non ha principio n$e termine
+e ritorna perpetuamente su se stesso.  -- |in tanto~: va unito
+con |si distende~: "si dilata tanto che la sua circonferenza
+sarebbe una cintura troppo larga anche per il sole"; <quasi
+dicat: quamvis sol sit maius corpus coeleste..., tamen esset
+centrum et punctum intra illud coelum empyreum, et minimum
+punctum> (Benvenuto).
+
+	|106-108.  Fassi~ ecc.: tutto ci@o che appare di questo
+lume, tutta la sua estensione visibile, si forma da un raggio
+emanante dalla luce stessa di Dio e riflesso dalla superficie
+convessa (il |sommo~) del Primo Mobile, il quale deriva da esso
+raggio la virt$u vitale (|vivere e potenza~) che trasmette col suo
+moto alle sfere sottostanti.  Meglio di tutti ha inteso il senso
+esatto di questa terzina Benvenuto: <sicut lumen solis efficitur
+nobis visibile per reverberationem et refractionem radiorum in
+terram, ita illud lumen divinum per reflexionem suorum radiorum
+super speram nonam>.  -- |prende ecc.~: cfr. ^Par.~, XXVII,
+109-111.
+
+	|109-110.  come clivo~ ecc.: come il declivio di un colle
+si rispecchia in un lago collocato ai suoi piedi.
+
+	|111.  quando~ ecc.: nella stagione in cui @e pi$u
+rigoglioso (|opimo~: cfr. ^Par.~, XVIII, 33).
+
+	|112-113.  s$i, soprastando~ ecc.: cos$i vidi tutte le
+anime sante, disposte in pi$u di mille gradini circolari, tutto
+intorno e sopra a quel lago di luce, specchiarsi in esso.  Come
+in una mutevole coreografia, lo spettacolo si svolge in una serie
+di immagini; le quali non hanno la pretesa di definirlo di volta
+in volta in una rappresentazione compiuta, s$i piuttosto di
+suggerirne la vastit@a incommensurabile e l'inesauribile
+ricchezza.  Qui i beati forman di s$e una sorta di immenso
+anfiteatro (come i <gradi nell'arena di Verona>, dice il Buti);
+pi$u sotto diventano i petali di una enorme rosa candida e
+sfolgorante.  -- |soglie~: scalini.  Cfr. ^Par.~, III, 82; XVIII,
+28.
+
+	|114.  quanto~ ecc.: tutte le anime ritornate dall'esilio
+terrestre al cielo, loro patria.  <L'anima... viene da Dio per
+creazione [cfr. ^Purg.~, XVI, 85 ss.], e ritorna a Dio per
+beatificazione> (Buti).
+
+	|115-117.  se l'infimo~ ecc.: se il gradino pi$u basso pu@o
+contenere in s$e un lume cos$i grande che il sole stesso sembra
+piccolo al suo confronto, si immagini quanto ampia si estenda la
+circonferenza delle ^soglie~ {v.113} pi$u alte e pi$u lontane, dei
+petali estremi di questa rosa.          
+
+	|118-120.  La vista~ ecc.: nell'immensit@a e nella
+profondit@a di tale spettacolo, la mia vista non si smarriva; anzi
+era in grado di percepire quella beatitudine (|allegrezza~) in
+tutta la sua estensione e la sua intensit@a (|il quanto e 'l
+quale~: cfr. ^Par.~, II, 65).  
+
+	|121-123.  Presso~ ecc.: nell'Empireo, che @e fuori dello
+spazio, non ha pi$u alcun senso discorrere di vicino e lontano; la
+vicinanza non favorisce la visibilit@a degli oggetti, come la
+distanza non la diminuisce; le leggi della natura perdono
+qualsiasi validit@a, dove Dio governa direttamente (|sanza mezzo~:
+senza la mediazione delle cause seconde: cfr. ^Par.~, VII, 142).
+
+	|124.  Nel giallo~ ecc.: <nello splendore che descendeva
+da Dio, che era in mezzo delle sedie de' beati, come lo giallo
+sta in mezzo della rosa> (Buti).
+
+	|125-126.  digrada~: <gradatim extenditur> (Benvenuto). 
+Vandelli e Casella leggono: ^si dilata ed ingrada~.  -- |redole
+odor~ ecc.: spande da tutti i suoi petali incensi di lode a Dio,
+eterno sole, che la fa fiorire in una perenne primavera.  --
+|Redolere~, "olezzare", @e latinismo raro (da Virgilio, ^Aen.~, I,
+436; ^Georg.~, IV, 169); e ad esso |odor~ si unisce, a guisa di
+accusativo dell'oggetto interno, formando una sorta di figura
+etimologica, (complicata da un pi$u largo effetto di
+allitterazione: |digrada~, |redole~, |odor~, |lode~); altro
+latinismo non comune @e |vernare~, "far primavera" (da non
+confondere con il ^vernare~, da ^hibernare~, "passar l'inverno",
+di ^Inf.~, XXXIII, 135; ^Purg.~, XXIV, 64).
+
+	|127-128.  qual @e colui~ ecc.: Beatrice trasse me, che
+ero come colui che vorrebbe parlare, e pur tace, compreso di alta
+meraviglia.  La pseudo-similitudine del v. 127 va riferita senza
+dubbio a Dante, come intendevano tutti i commentatori pi$u
+antichi; e non a Beatrice, come @e piaciuto a qualche moderno.
+
+	|129.  quanto~ ecc.: quanto grande (eccelso e numeroso) @e
+il collegio (|convento~: cfr. ^Purg.~, XXI, 62; ^Par.~, XXII, 90;
+XXIX, 109) dei beati (le |bianche stole~; con riferimento alla
+descrizione dell'^Apocalisse~, VII, 9, citata in ^Par.~, XXV,
+95).
+
+	|130.  nostra citt@a~: la Gerusalemme celeste.  Cfr.
+^Apocal.~, XXI, 9-10: <Et venit unus de septem Angelis...  Et
+sustulit me in spiritu in montem magnum et altum, et ostendit
+mihi civitatem sanctam Ierusalem, descendentem de caelo a Deo>. 
+-- |quant'ella gira~: per quanto spazio si estende.
+
+	|132.  poca~ ecc.: pochi spiriti beati si attendono
+ancora qui, a riempire i pochi scanni rimasti liberi.  Il numero
+degli eletti @e limitato ^ab aeterno~; da quando la natura umana
+fu creata per restaurare quella decima parte degli angeli che si
+ribell@o a Dio (cfr. ^Conv.~, II, v, 12, cit. in nota a ^Par.~,
+XXIX, 49): riparata l'angelica ruina, l'ordine del Paradiso sar@a
+compiuto (cfr. Agostino, ^Enchir.~, XI; Gregorio Magno, ^Homil.~,
+XXXIV, 6).  D'altronde Dante riteneva, d'accordo con i suoi
+contemporanei, che la fine del mondo, entrato ormai nella sua
+sesta ed ultima et@a, fosse relativamente vicina: <noi siamo gi@a
+ne l'ultima etade del secolo, e attendemo veracemente la
+consumazione del celestiale movimento> (^Conv.~, II, xiv, 13). 
+<Deus scit numerum electorum; ideo auctor non nominat determinate
+deficientiam; sed caute dicit |poca gente~, quia sumus in ultima
+aetate, in qua finiturus est mundus> (Benvenuto).
+
+	|134.  per la~ ecc.: a causa della corona.
+
+	|135.  prima che~ ecc.: <ante quam moriaris et venias ad
+istam gloriam, ubi etiam tu expectaris divina gratia et meritis
+tuis> (Benvenuto).  Per l'immagine del celeste banchetto nuziale,
+cfr. ^Purg.~, XXXII, 75; ^Par.~, XXIV, 1-3.
+
+	|136.  fia~ ecc.: sulla terra sar@a augusta, perch$e
+assunta all'ufficio e alla dignit@a dell'impero.  |Agosta~ @e
+l'esito normale (cfr. <agosto>, <Agostino>), di fronte alla forma
+dotta <augusta>, pi$u tardi invalsa (cfr. PARODI, ^Bull. soc.
+dant.~, III, 96).
+
+	|137.  Arrigo~: di Lussemburgo, eletto imperatore nel
+1308, sceso in Italia nel 1310 per restaurarvi l'autorit@a
+imperiale, morto improvvisamente a Buonconvento nell'agosto 1313,
+dopo aver invano tentato di abbattere l'accanita resistenza dei
+Guelfi e soprattutto di Firenze.  Dante ne accompagn@o l'impresa
+con parole di ardente e appassionata esaltazione (^Epist.~,
+V-VII), e non solo, come altri Bianchi fuorusciti e Ghibellini
+(cfr. Compagni, ^Cron.~, III, 23-36; Sennuccio del Bene, in
+^Poeti minori del '300~, ed. Sapegno, pp. 49-52), sper@o per un
+momento di potere con il suo aiuto ritornare in patria, s$i anche
+in lui vide incarnarsi, al di l@a di ogni ragione personale e
+municipale, il suo concetto di rinnovamento politico della
+societ@a cristiana.  Scrivendo queste terzine dopo la morte
+dell'imperatore, riconosce quanto le speranze allora accarezzate
+fossero premature, ma riconferma ancora una volta l'intatta
+vitalit@a del suo ideale e lo corrobora con la profezia del
+castigo divino che colpir@a il principale nemico di Arrigo. 
+L'invenzione, di un sapore cos$i medievale, del gran seggio munito
+di corona non significa ossequio ai simboli di un'autorit@a e di
+un prestigio che sono esclusivamente terrestri (secondo una
+dottrina pi$u volte affermata: ^Purg.~, XIX, 134-38; ^Par.~, VI,
+10, e ribadita anche qui rapidamente al v. 136); sta piuttosto a
+rappresentare il valore religioso dell'istituto imperiale, che,
+di fatto vacante sulla terra, mantiene fermo nel cospetto di Dio
+il suo carattere di elemento necessario nel quadro dell'ordine
+prestabilito alla storia umana dalla provvidenza.
+
+	|138-141.  disposta~: preparata ad accogliere la sua
+opera di riforma e ad assecondarla.  Prematura dunque l'impresa
+d'Arrigo e destinata a fallire per l'opposizione attiva delle
+forze politiche corrotte e per l'incomprensione dei popoli sviati
+dalla cieca cupidigia e fatti simili a bambini irragionevoli, che
+respingono il soccorso di chi vuole il loro bene.  -- |La cieca~
+ecc.: cos$i in ^Epist.~, VI, 12 e 22, ai Fiorentini: <O mira
+cupidine obcecati!...  Nec advertitis dominantem cupidinem, quia
+ceci estis, venenoso susurrio blandientem..., nec non captivantem
+vos in lege peccati ac sacratissimis legibus, que iustitie
+naturalis imitantur ymaginem, parere vetantem>.  -- |ammalia~:
+abbaglia, priva di senno (cfr. MAGGINI, ^Studi dant.~, I, 144).
+
+	|142-148.  fia~ ecc.: sar@a allora capo della Chiesa un
+pontefice, che non camminer@a nello stesso modo, riguardo ad
+Arrigo, palesemente e in segreto: in pubblico, gli si mostrer@a
+favorevole; segretamente, si sforzer@a in ogni modo di
+ostacolarlo.  Allusione a Clemente V e ai suoi inganni a danno
+dell'imperatore (cfr. ^Par.~, XVII, 82): Dio lo castigher@a,
+gettandolo nella bolgia dei simoniaci, dove andr@a ad occupare il
+posto tenuto prima di lui da Bonifacio VIII (cfr. ^Inf.~, XIX,
+76-87).  -- |sofferto~: tollerato.  Clemente V mor$i solo otto
+mesi dopo Arrigo VII.  -- |detruso~: precipitato, sprofondato. 
+Latinismo raro.  -- |quel d'Alagna~: l'oltraggiato di Anagni
+(cfr. ^Purg.~, XX, 85-90). 
+
+	|Conclusione.~  Vedi anche W. BINNI, ^Il canto XXX del
+Paradiso~, Firenze 1966.

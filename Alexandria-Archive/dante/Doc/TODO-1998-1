@@ -1,0 +1,40 @@
+This file contains Campbell's list of tasks that we need to do in
+order to complete a reload of the database. This document was
+written Aug 30, 1998, and updated later as needed.
+
+I'm assuming the following strategy for this reload: The primary
+purpose of the reload is to correct errors in the 1991 load and to
+add some new commentaries. Making changes in the database to support
+a better user interface is a desirable but secondary goal, meaning
+that we will make these changes along the way if possible, but we
+will not allow them to delay the reload.
+
+1. Assemble "best available" text of all comms into Commentaries.ng
+(aka C.ng). This means copying into C.ng all of the '91 comms text
+as modified by any subsequent editing and copying into C.ng all
+comms acquired after the '91 load. This will require a lot of
+careful comparisons against the actual running database to be sure
+we have the right text in C.ng and are not introducing new errors.
+
+This step will tell us if we have lost the text of any comms. If we
+have, we will need to dump them from the running '91 database.
+
+2. Modify the C.ng text by fixing all the errors documented in the
+email messages, notes, typo files, and TODO files. This will
+probably be the most time-consuming part of the process.
+
+3. Make technical preparations for reloading:
+   a. Determine location of new database.
+   b. Create BRS files for new database.
+   c. Review preload and load scripts. Update and test as needed.
+
+4. Do a trial load of poem and several comms. See if the current
+user interface works with it.
+
+5. Fix problems found in 4 and repeat until done.
+
+A secondary issue which I would like to settle is how to represent
+non-English characters in the texts. As we have already noted, the
+problem is representing the characters while still making the text
+searchable. Before we get to step 4, I will propose some options for
+this problem.

@@ -1,0 +1,289 @@
+	|Proemio.~  Nel presente capitolo intende l'Auttore
+trattare della pena di quelli che nella prima vita furono polluti
+nel peccato contro a natura, et fa brievemente cinque cose.  La
+prima introduce messer Guido Guinizelli a parlare con lui, per
+che trasse ammirazione che l'Auttore facea ombra, come apparir@a;
+la seconda si @e ch'egli discrive uno singulare esercito, nel
+quale stanno i predetti peccatori; la terza cosa si @e ch'egli
+introduce il detto messer Guido a parlare, et nominare alcuni
+dicitori, i quali si purgono con lui; la quarta cosa poetando
+mostra come l'anime del Purgatorio non ponno pi@u peccare, n@e da
+proprio movimento meritare, se non sostenendo pena; la quinta et
+ultima cosa si @e ch'egli introduce a parlare Arnaldo provenzale,
+il quale disse molto bene et sentenzioso in lingua provenzale: et
+cos@i compie suo capitolo.  Circa il quale vizio @e da sapere
+ch'egli dispiace molto a Dio, et gi@a ne furono subissate cinque
+cittadi, delle quali fu l'una Sodoma et l'altra Gomorra: et la
+ragione @e che l'uomo non offende solo quella persona con chi egli
+fa tale vizio, ma eziandio egli offende et ingiuria contro
+all'ordine naturale: il quale vizio @e contra Dio ch'@e creatore
+della natura.  Le quali cose che tocca l'Auttore, appariranno nel
+testo esposte, salvoch@e a declarazione @e a dire contro la quarta
+cosa alcuna cosa.  S@i come pruova S. Tommaso nel IV ^Contra
+Gentiles~, l'anima separata dal corpo s@i ha immutabile volont@a;
+s@i che, se l'uomo muore in buono proposito et caritativo, sempre
+rimane con lui; et questo gli avviene che, s@i come il fine si ha
+nelli appetitivi, cos@i li primi principj si ha nelli speculativi,
+et ogni orrore che s'ha ne principj, si @e per difetto di natura:
+quando s'ha dirittamente uno primo principio non si pu@o mutare in
+falso, salvo se non si mutasse, che la parte fusse maggiore che
+'l tutto.  Ora avviene molte volte che l'uomo non ha vera
+cognizione d'alcuno principio; ma elli si rimuove dal detto
+dubbio quando egli vede et @e certificato di quello.  Or, s@i come
+@e detto, avuta certezza del primo principio, @e impossibile a
+rimuoversi: cos@i nello appetito volontario, poi che cognosce et @e
+certo del fine, @e impossibile che da quello si rimuova o che
+abbia o possa acquistare falso in quello.  Or l'anima, rimossa et
+partita dal corpo, cognosce et ha verit@a dell'ultimo fine, et @e
+impossibile ch'ella possa mutare volont@a; et s'ella non pu@o
+mutare volont@a, seguesi ch'ella non pu@o di nuovo peccare.  Per la
+qual cosa appare che l'anime che sono in Paradiso non posson pi@u
+peccare, imper@o che il suo appetito @e quieto in quello fine, che
+non ha fuor di s@e nessuna cosa appetibile; et similmente l'anime
+che sono in Purgatorio s@i hanno il suo appetito in quello
+perfetto fine ch'@anno quelle di Paradiso; et non sono differenti
+da quelle, se non che per alcuno tempo conviene purgarsi delle
+sue colpe et stare in alcune pene; poi ascendono alla gloria di
+vita eterna.  La immutabilit@a dell'anime delli dannati si @e per
+un'altra cagione, imper@o che, s'elle potessono mutare di male
+volere in buono, non arebbono pena eterna; et eziandio la detta
+inordinazione di volont@a gli @e pena.  Ancora mutare mala volont@a
+in buona non pu@o essere senza Dio, imper@o che l'uomo caduto nel
+peccato, per s@e stesso, senza grazia non si pu@o levare, manifesto
+@e che l'anime de' dannati sono disgiunte et rimosse dalla grazia
+di Dio; s@i che hanno immutabile volont@a etc.
+
+	|1-3.  Mentre che su per l'orlo~: Ci@o @e che andavano per
+schifare la fiamma in orlo di quella via, et per occupare meno
+per larghezza, andava l'uno innanzi l'altro.
+
+	|4-6.  Feriami il Sole~: Qui mostra che in quello
+emisperio ch'elli andava, s@i era suo viaggio verso il monte, s@i
+che il Sole facea la plaga occidentale tutta bianca, imper@o che
+di suo colore @e l'aere cilestro; e quando il Sole @e senza nuvole,
+s@i lo biancheggia per la luce de' suoi razzi.
+
+	|7-9.  Et io facea~: Ci@o @e che l'ombra sua andava verso
+la montagna per la fiamma: et per che l'ombra si @e pi@u scura che
+l'altra parte dell'aere, s@i parea in quello contrasto la fiamma
+pi@u buja, et per consequens pi@u iniqua e fummosa et dolente.  Ma
+in alcuno testo dice: ^Pi@u recente.~  Recente secondo il volgare
+nostro vuol dire pi@u fresca, per@o che la fiamma percotendovi,
+l'ombra pare meno chiara et per consequens meno focosa.  |Vidi
+molte ombre~: Vuole dire che l'ombra ch'egli facea col corpo
+molte anime si maravigliavono.
+
+	|12.  Fittizio~: Ci@o @e fantastico et similitudinario.
+
+	|13-15.  Poi verso me~: Dice che certi di quelli si fero
+infino alla fiamma, s@i come termine che per suo volere non
+sarebbe voluto esser passato, acci@o che sua pena non fosse
+mancata.
+
+	|20-21.  Che d'acqua fredda~: India @e cos@i confinata:
+India @e nelle parti d'Asia dinominata dal fiume Indo, ch'esce di
+monte Caucaso: dalla parte d'occidente e da mezzo d@i @e mare
+infino alla parte del Sole.  India dura dalle montagne di Media
+infino al mare Mediterano; ha in s@e V milia terre bene popolate:
+ha tre grandissimi fiumi Ganges, Indo, Ipano.  Gambardi sono gli
+ultimi popoli d'India.  Avvi CXLIIIJ province, selve et $albori
+che pajono toccare i nuvoli; e 'l paradiso terrestre etc. 
+|Etiopia~: Due sono l'Etiopie; l'una @e orientale chiamata Etiopia
+Indica; l'altra occidentale appellata Tingitema, nella quale
+nascono i minori elefanti.  Etiopia @e dirietro a Egitto, dove per
+soperchio calore del Sole gli uomini et le femmine sono neri; et
+per@o dice l'Auttore che gli uomini abitanti in India et in
+Etiopia, per lo calore del Sole, hanno bisogno d'acqua fredda.
+
+	|40.  La nuova gente~: Questa di cui parla.  |Sodoma et
+Gomorra~: Questa storia, che appresso diremo, @e scritta nel
+Genesis capitolo XVIIJ: ^Venerunt duo Angeli Soddomam.~  Poi che
+i duo Angioli si furono partiti da Abraam, se n'andorono verso
+Sodoma; et essendo presso alla citt@a, Lotto gli vidde: venne loro
+incontro, et preg@ogli che dovessono con lui albergare, et elli
+v'andorono; et entrati nella citt@a, quelli di Sodoma, veggendoli
+s@i belli, pensorono loro mala volont@a.  Entrati in casa Lot, et
+credendo che fossono pellegrini, gli onor@o.  I cittadini di
+Sodoma, venuti a casa Lotto, gli dissono che egli gli spacciasse
+et mettessegli fuori di casa; egli conobbe la loro mala volont@a
+et preg@ogli che gli lasciassono stare, et correggessono
+l'appetito loro vizioso; et non rimovendosi, proferse loro due
+sue belle figliuole ch'egli avea, et lasciassono stare i giovani. 
+Essi ancora non lasciando per questo, gli Angioli dissono a Lot:
+Non temere, noi siamo messi di Dio, venuti per disfare questa
+terra; et tu n'esci fuori, et due tue figliuole, et tua donna, et
+tutte tue cose.  Et come Lot si fu partito della citt@a, una
+grande moltitudine di cittadini entrorono in casa Lot per
+prendere gli Angioli; ma s@i tosto come egli entrorono in casa
+egli avocolorono: gli Angioli uscirono fuori della citt@a et
+maladissono la citt@a, et maladetta la citt@a, incontanente
+cominci@o a piovere fuoco ardente et zolfo, et arse tutta la
+citt@a, et similmente Gomorra et altre tre citt@a.
+
+	|41-42.  Et l'altra: Nella vacca~: Com'@e stato tocco
+nell'^Inferno~ XII, Androgeo figliuolo del re Minos dell'isola di
+Creti fu morto nella citt@a d'Atene dall'Ateniesi, onde Minos suo
+padre, per vendicarlo, si mosse con tutto suo sforzo, et si pose
+a oste et assedi@o la citt@a d'Atene, et in effetto, doppo alcun
+tempo, prese la citt@a.  In questo mezzo ch'egli stette a oste, la
+reina Pasife, moglie del re Minos, avea uno prato di rietro al
+suo palagio, nel quale fra gli altri armenti v'era uno bellissimo
+toro, del quale la Reina s'accese di disusitata lussuria; et per@o
+che non sapea da s@e trovare il modo, ebbe consiglio con uno
+ingegnoso maestro chiamato Dedalo, il quale fe una vacca di
+legno, et copersela d'uno cuojo di vacca et missevi dentro la
+Reina; onde il toro, credendo questa essere vacca, la mont@o; onde
+Pasife, ingravidata, partor@i uno il quale era bue dalla cintola
+in gi@u, e da indi in su uomo ferocissimo, et fu chiamato
+Minotauro.  Onde Minos, tornato, trovato questo mostro, fe' fare
+a Dedalo una prigione a volte chiamata Laberinto, et missevi il
+Minotauro, nella quale essendo rinchiuso etc.  Et per che questa
+storia @e nell'^Inferno~ XII distesa, nolla distendo pi@u innanzi:
+basta questo alla intenzione del presente capitolo, per@o che
+questa fu la infamia di Creti.
+
+	|52.  Io che due volte~: Ci@o @e ora vidi il grado loro,
+ci@o @e che volean sapere di mia condizione, et prima quando
+dissono ^Dinne com'@e che fai~ (v. 22).
+
+	|76-82.  Di ci@o perch@e gi@a Cesar trionfando~: Poi che
+Cesare ebbe vinta l'ultima battaglia contro a' figliuoli di
+Pompeo appresso a Monda, oggi detta Gironda, torn@o a Roma, dove
+gli furon fatti cinque triunfi; et per@o che lecito era a ciascuno
+di rimproverare al triunfatore ogni suo vizio, et villaneggiarlo
+di parole et d'alcuno atto, uno grid@o contro a Cesare: <O regina
+di Bitinia, come se' oggi onorato!> rimproverandogli il vizio di
+sodomita, il quale avea usato in lui il re di Bitinia, nel tempo
+che Cesare, come sospetto per la congiura di Catellino, se n'and@o
+in Bitinia.  Cesare fu molto viziato in lussuria, s@i come narra
+Svetonio nel libro di XIJ Imperadori romani, et di loro virt@u et
+vizj.  Ancora dice che il peccato loro fu ermafrodito; et qui @e
+da sapere che ermafroditi sono appellati tutti quelli che hanno
+ciascuno istrumento cos@i d'uomo come di femmina; et per@o quelle
+persone che peccono nel vizio della lussuria s@i in femmine come
+in maschj, ch'@e peccato contro a natura, s@i sono appellati
+ermafroditi.  Et per@o che questo messer Guido et sua brigata
+erono costretti sotto tal titolo, per@o dice: |Nostro peccato~
+etc., ci@o @e che usammo cos@i contra la natura umana come Pasife
+predetta, che avea lo istrumento femminino et ebbe lo taurino.
+
+	|87-88.  Che s'imbesti@o~: Ci@o @e si fece vacca.  |Le
+imbestiate schegge~: Fu quello istrumento ligneo, nel quale ella
+entr@o, coperto della pelle del vitello.  |Or sai i nostri atti~:
+Chiaro appare.
+
+	|91-93.  Farotti ben~: Qui palesa messer Guido suo nome,
+et dice per che si purga qui, per che si dolse di suo vizio
+innanzi che allo stremo fosse di sua vita: quasi vuol dire; se io
+non mi fussi pentuto innanzi lo estremo della mia vita, io non
+sarei ancora tanto suso questo monte salito.  Et qui @e da sapere
+che messer Guido, di cui parla l'Auttore, fu de' Guinizelli da
+Bologna; et fu valente uomo in scienzia, et grande et pulito et
+famoso dicitore in rima; et fu quelli che innov@o il modo et lo
+stilo del dire in rima, et recollo al modo d'oggi; ch@e prima a
+lui si parlava con pi@u grosso stilo et pi@u materiale; et fu
+quelli a cui scrisse ser Buonagiunta Orbiciani da Lucca,
+riprendendolo, per che gli paressi, o per invidia, d'avere tratte
+le cose in rima fuori dell'uso antico, et per forza di scrittura
+et di scienzia parlare in rima: come dicemmo nel ^Purgatorio~
+XXI, che ser Buonagiunta gli avea scritto quello sonetto che
+narrammo che comincia: ^Poich@e avete mutata la maniera~ etc. 
+Fece messer Guido molte cose in rima, di grande ingegno et di
+gran sentenzia; fece una canzona morale, che l'Auttore in una sua
+opera ch'egli fece commenda forte, che comincia: <Al cor gentil
+ripara sempre amore Come alla selva augello alla verdura; N@e fu
+amore anzi che gentil core> etc.
+
+	|94-96.  Quali nella tristizia~: Qui, volendo l'Auttore
+mostrare singulare modo d'allegrezza mista con piet@a, che vide
+messer Guido essere a tal pena, et sperare di venire tra' Beati,
+tocca la letizia la quale ebbe Isifile quando rividde due suoi
+figliuoli, recitata per Stazio nel ^Tebaidos~ libro V, et
+nell'^Inferno~ XX, et nel precedente canto, et nel canto XXII. 
+L'oste de' VIJ Re che andorono assediare Tebe, giunta nelle terre
+del Re, dico Ligurgo re di Menia, et venuti Tideo et Campaneo nel
+giardino del Re cercando per acqua, per@o che l'oste patia gran
+sete, sperando di trovare acqua, viddono ivi sedere Isifile,
+balia del figliuolo di Ligurgo, nome Ofelte, tenendolo in
+braccio, la quale avendo compassione a loro, lasci@o il fanciullo
+nel giardino, e tornata trov@o il fanciullo morto da uno serpente;
+il dolore et la disperazione prese costei, et cominci@o nel suo
+compianto a raccontare tutte sue disavventure.  Questa fu Isifile
+ingannata da Giasone, del quale rimase gravida, et nacquonne due
+figliuoli, Conio et Toante; et per@o fugg@i dell'isola di Leno, et
+fu presa da' corsari, et venduta a Ligurgo; onde raccontando
+queste disavventure, nella detta oste erono i detti suoi
+figliuoli: vedendola et cognoscendola, corsono ad abbracciare la
+madre con quella smisurata letizia che concepere si pu@o: et per
+lei et per loro, i Greci impetrorono perdonanza da Ligurgo per la
+morte del figliuolo, onde dice l'Auttore etc.
+
+	|100-105.  Et senza udir~: Ci@o @e in tutto attento a sua
+vista; et soggiugne com'era presto al suo comandamento, et
+eziandio fermandolo con sacramento.
+
+	|106-111.  Et egli a me~: Or, dice messer Guido, io
+veggio spiritualmente che tu lassi tal vestigio che durer@a molto
+tempo, tal che nulla oblivione il far@a dimenticare.  Quasi vuol
+dire: io veggio che tu m'ami tanto che, per che tu passi Lete,
+ch'@e fiume di dimenticanza, non dimenticherai l'amore che tu
+m'ami; ma dimmi la cagione per che tanto m'ami.
+
+	|112-114.  Et io a lui~: Ci@o @e per lo bel dire in rima,
+che quanto durer@a questo uso di dire in rima tanto saranno cari
+gl'inchiostri co' quali sono scritte le cose vostre.
+
+	|115-123.  O frate, disse~: Mostr@o una anima innanzi a
+lui, del quale fa menzione essere stato migliore di s@e.  Questo
+che fu mostrato da messer Guido fu Arnault Daniel provenzale, il
+quale in fare prose di romanzi in lingua francesca, o vuo' dire
+in rima, avanz@o gli altri; et all'Auttore piacquono molto le cose
+sue, tanto ch'egli @e fama che le canzoni morali di Dante fossono
+ritratte et pigliassono forma da quelle d'Arnault di Daniel
+provenzale; et chi legge l'une et l'altre in molti luoghi il
+comprende.  |Et lascia dir gli stolti~: Guido Brunello del Messo
+fu similmente gran maestro di dire in rima, et ebbe gran fama
+innanzi a Arnaldo; tanto che poi Arnaldo che disse doppo lui era
+tanta la fama di Guido corsa innanzi, che, ben che Arnault
+dicesse meglio di lui, pure il grido antico dava fama e nome a
+Guido Brunello, et massimamente per quelli che non guardavono n@e
+arte n@e ragione, n@e distintamente le cose dette in rima et
+dell'uno et dell'altro; ma Dante conferma qui esser stato Arnalt
+migliore dicitore di Guido Brunello, che diede fede al fatto, che
+'l vide, et non al dire delle genti et alla fama.
+
+	|124-126.  Cos@i fer molti~: Frate Guittone d'Arezzo fu
+antico et valente dicitore in rima, et fece molte canzone morali
+et sonetti et ballate, et al suo tempo avanz@o ogni altro
+trovatore; et dur@o tanto la fama antica, che, ben che poi ne
+fossono di quelli che dicessono meglio di lui, come fu notaro
+Jacopo da Lentino, ser Buonagiunta Orbiciani da Lucca, messer
+Guido Guin{i}zelli da Bologna, pur la fama di frate Guittone tenea
+il campo, infino a tanto che 'l vero fu conosciuto di quelli che
+dissono meglio di lui.  Poi questa verit@a fu confermata per Guido
+Cavalcanti, per messer Cino da Pistoja, et per Dante Alleghieri,
+et per molti altri valenti uomini et buoni rettorici et morali.
+
+	|127-132.  Or se tu hai~: Ancora dice messer Guido
+Guin{i}zelli: da che tu vai infino al Paradiso, di' per me, quando
+sarai innanzi alla Trinit@a, uno Paternostro; et non ti curare di
+dirlo se non infino a ^ne nos inducas in tentationem~, imper@o che
+tale orare non appartiene a noi, che non potemo esser tentati n@e
+mutare volont@a; della quale immutazione @e detto di sopra.
+
+	|133-135.  Poi forse per dar~: Dice come sparve dentro la
+fiamma ch'egli nol vidde pi@u; tutto a simile al pesce che nel
+profondo dell'acqua s'asconde.
+
+	|136-138.  I' mi fe' al~: Ci@o @e verso quella anima che
+per messer Guido gli era mostrata, et lui dimanda di suo nome.
+
+	|140-147.  Tan m'abelis votre~: Gli piace tal dimanda;
+secondo che disse che gli @e Arnault, che piange et canta; terzo
+che purga la follia, ovvero peccato che fe nella prima vita;
+quarto che gi@a spera grazia; quinto che priega per quello valore
+che 'l mena su per la scalina del Purgatorio, che, quando sar@a in
+luogo di potere pregare per lui, ch'elli il faccia.
+
+	|148.  Poi s'ascose~: Ci@o @e che dispar$io nella fiamma. 
+Et qui compie il capitolo.

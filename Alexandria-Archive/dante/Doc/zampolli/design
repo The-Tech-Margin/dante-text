@@ -1,0 +1,179 @@
+.sh 1 "Database Design"
+.pp
+The Dartmouth Dante Project will load the entire text of 
+60 commentaries, a quantity of text equal to about
+150,000 printed pages.
+The organization and structure of the commentaries, given the goal of
+creating a computerized text retrieval database, is critical
+if scholars are to be able to search and display this volume of
+text effectively.
+.sh 2 "Database Terminology"
+.pp
+Text retrieval databases use common words like \*(lqdocument\*(rq and
+\*(lqparagraph\*(rq in specific ways that are sometimes different from their
+usage in normal conversation.
+Here are some of these terms as we use them in the project.
+.ip document
+A document is the smallest piece of text that can be loaded into the
+database or retrieved from it.
+It can be as small as a single word or as large as an entire book or
+article.
+The documents in a database are numbered sequentially,
+but the document number is
+used only for maintenance purposes and is not seen in most user
+sessions.
+.ip paragraph
+Each document in the database is divided into one or more
+paragraphs.
+A paragraph can be any amount of text that has meaning in terms of
+the nature of the documents.
+It could be a single item such as a date, or it could be a lengthy section of
+text such as a chapter.
+The paragraphs in a document have names such as COMMENTATOR or TEXT.
+.ip subparagraphs
+Paragraphs that contain longer sections of text can be divided into
+subparagraphs.
+A database subparagraph corresponds to a standard paragraph of text in
+printed documents.
+.lp
+The terms
+.i sentence
+and
+.i word
+are used in their conventional sense.
+.pp
+All of these terms are significant when the database is searched.
+A computer program called the database manager searches for
+occurrences of words.
+Complex searches can be performed by looking for combinations of
+words within a certain proximity.
+Proximity is measured in terms of documents, paragraphs, sentences, and
+words.
+Thus a simple single-word search will retrieve all documents in
+which the word occurs at least once.
+Other searches can be more complex.
+For example, a search might retrieve all documents in which a given
+word occurs in a specific paragraph, or in which two words occur in
+the same sentence, or in which two words occur adjacent to each
+other and in a particular order.
+.sh 2 "Organization of Commentary Text"
+.pp
+The DC, which we often call simply \*(lqthe poem,\*(rq comprises three major sections
+called CANTICAS.
+The three CANTICAS are named INFERNO, PURGATORY, and PARADISO.
+Each CANTICA is divided into numbered sections called CANTOS.
+There are 34 CANTOS in INFERNO and 33 each in PURGATORY and
+PARADISO.
+Each CANTO contains between 115 and 163 lines of text, arranged in tercets.
+In the entire poem there are 14,233 lines of text.
+Since most commentary text refers to specific lines or groups of lines
+in the poem,
+it is easily keyed to the corresponding text of the poem.
+A few commentators also wrote overviews of entire CANTOS or CANTICAS;
+these are called PROEMIOS or CONCLUSIONS.
+.pp
+For the purpose of loading the commentaries into our database, we
+divide the texts into sections that refer to a single part of the poem.
+The part referred to may be a single line, a range of lines,
+or an entire CANTO or CANTICA in the case of a PROEMIO or
+CONCLUSION.
+This division of commentary texts produces database documents that
+range in size from a few words up to several hundred lines.
+The average size, however, is less than 20 lines.
+Each piece of commentary text becomes the core of a single database
+document.
+The text is placed into a database paragraph named, appropriately, TEXT.
+If that paragraph is long, it may be divided into subparagraphs.
+.pp
+Each document has other paragraphs in addition to TEXT.
+These paragraphs are generally quite short and contain
+identification and bookkeeping information.
+The name of the commentator, the language in which the commentary is written,
+and the CANTICA, CANTO, and verses
+referred to, all have their own paragraph in each document.
+These paragraphs are searchable by the database manager in exactly
+the same way as the text paragraph,
+and it is through such searches that a user of the database can,
+for example, retrieve all comments about a particular line of the poem.
+.pp
+In addition to searching for words, the database manager can sort
+retrieved documents using the value of any paragraph as the sort key.
+Each document has a paragraph containing the
+year in which the commentary was first published.
+In this way a user can have his search results presented in
+chronological -- or reverse chronological -- order.
+.pp
+Finally, each document contains bookkeeping paragraphs that are of
+interest primarily to the project staff.
+Examples of these are the name of the project editor who worked on
+the commentary, the data entry technique used for this
+commentary, and the date on which the commentary was loaded into the
+database.
+There is also a paragraph that identifies what type of document each
+is: PROEMIO, CONCLUSION, or regular commentary text.
+This paragraph, which consists of a single letter, tells the
+database manager how to format the document for display on the
+user's terminal.
+.sh 2 "Stopwords and Abbreviations"
+.pp
+Not all words of text are useful in searching the database.
+Common words such as articles and prepositions occur so frequently
+that a search for them is useless.
+Furthermore, every occurrence of every word requires a certain
+amount of storage space in the database indices and increases search
+time.
+For these reasons the database is designed to ignore certain words
+when it builds its indices.
+These words are called stopwords
+since they are stopped from being indexed.
+For the DDP we created lists of stopwords for each language we were
+dealing with: Italian, Latin, and English.
+.pp
+We have also drawn up a list of abbreviations that occur frequently in
+the commentaries.
+The database manager uses this list when text is loaded into the
+database.
+It prevents an abbreviation from being misinterpreted as the end of
+a sentence.
+This is important for proper formatting of the text, but 
+it also means that a user can accurately search
+for words that occur in the same sentence.
+.sh 2 "Character Sets and Terminals"
+.pp
+Most of the commentary text is in Italian or Latin, and there are
+occasional citations in Greek.
+These languages contain accents and characters that are not part of
+the English-oriented ASCII standard character set found on most computer
+terminals.
+Many terminals can display only the standard set, yet the DDP must
+allow a user to enter search words and must display results.
+On the other hand, many newer terminals have extended character sets
+that include the non-English characters.
+Some even allow customized character sets to be loaded into the
+terminal from the computer.
+We also want to take full advantage of these newer terminals.
+.pp
+Our solution has been to use special 1- or 2-character sequences
+(called escape sequences) to
+represent the non-standard, non-ASCII characters.
+For example we use the two characters \*(lq@a\*(rq
+to represent \*(lqa\*`\*(rq (an \*(lqa\*(rq with
+a grave accent), and the character \*(lq<\*(rq to represent a left European
+quotation mark.
+Non-standard characters in the original commentary text are replaced
+with their escape sequence before the text is loaded into the
+database, so that it is the escape sequence that is actually saved.
+When the text is retrieved from the database, the escape sequence is
+translated into whatever character the present terminal can generate that
+best represents the original text character.
+To make sure that the escape characters do not interfere with
+searching -- the escape characters often occur in the middle of a
+word -- the database manager is instructed to ignore the escape
+characters when indexing a word.
+Thus the word \*(lqfelicita\*`\*(rq
+would be loaded as \*(lqfelicit@a\*(rq in the database text file, but
+the word \*(lqfelicita\*(rq would be placed into the index.
+When displayed on a terminal that can generate the accented \*(lqa,\*(rq
+the word would
+appear as \*(lqfelicita\*`,\*(rq while on a standard terminal it would be
+simply \*(lqfelicita.\*(rq

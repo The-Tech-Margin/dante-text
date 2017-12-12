@@ -1,0 +1,34 @@
+{GETPD_HD}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Document Select Help\f2\n~
+
+:PRINT ~#HEADING
+     A  number  of  entries  are  valid  at  the document number prompt.
+     Typically,  you  will  enter the particular document number(s) that
+     you  wish  to  print.  These numbers are relative to the previously
+     specified  result  set,  and  should  not be confused with document
+     accession numbers automatically assigned by BRS/SEARCH.
+
+     You  may  print  any  or  all  of the documents from the designated
+     result set.  For example:
+
+       3          selects document number 3 for printing;
+
+       3,5        selects documents 3 and 5 for printing;
+
+       1-5,9,12   selects  documents  1  through  5  plus  9  and 12 for
+                  printing.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     The  RETURN  cancels  the print request and returns you to the main
+     search screen.
+
+     In  the  following  example,  you  instruct  the  system  to  print
+     documents  1  through  3,  8, 15 through 18, and 10.  The documents
+     will print in the order specified:
+
+     Enter document numbers for print; H for Help [Cancel]: 1-3,8,15-18,10\n~
+
+:PAUSE BOTTOM
+:RETURN

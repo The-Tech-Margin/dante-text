@@ -1,0 +1,1207 @@
+|PURGATORIO CANTO 24~
+
+	|1-3.  N@e 'l dir... facea~: The first "dir" is the
+subject of "facea," and "andar" is the object; then "andar"
+becomes the subject and "lui" (i.e., |dir~) the object.
+
+	|andavam forte... vento~: Cf. ^Purg.~ IV, 88-93.
+
+	|forte~: "Rapidly."  Cf. ^Purg.~ XI, 19.
+
+	|pinta~ = ^spinta.~
+
+	|4.  parean~ = ^parevano.~ 	|cose rimorte~: Cf. Iudas
+12: "arbores... bis mortuae" ("trees... twice dead").
+
+	|5-6.  ammirazione traean~ = ^traevano ammirazione.~ 
+^Trarre~ can mean either "to draw" or "to shoot."  The latter
+meaning seems to fit the context better, the object being
+"ammirazione... di me."  For ^trarre~ in this sense, cf. ^Purg.~
+III, 69.
+
+	|7.  continuando al mio sermone~: I.e., continuing the
+talk with Forese.
+
+	|8-9.  Ella sen va... cagione~: The observation regarding
+Statius suggests that, liberated as he is from this realm, as the
+closing words of the preceding canto stated, he could move
+instantly -- or at least very fast (the "forse" leaves this dark)
+-- to the summit of the mountain, where, as we shall see, he must
+pass through the water of two streams before he may ascend to
+Paradise.  Thus the fact that he delays this great moment in
+order to walk along with Virgil registers, in its own way, his
+great affection for him and his desire to be with him as long as
+possible.  Cf. ^Purg.~ XXI, 100-102.
+
+	|Ella~: The shade of Statius.  His reference to Statius
+in the third person registers very clearly the fact that Dante's
+words to Forese continue directly.    |sen~ = ^se ne.~   |tarda~:
+I.e., ^lentamente.~
+
+	|per altrui cagione~: Because of Virgil, who, because of
+Dante, is also going more slowly than he would have to do
+otherwise.  "Altrui" here is the possessive.
+
+	|10.  Piccarda~: Dante will meet Piccarda, the sister of
+Forese, in the heaven of the moon (^Par.~ III, 34-123), among
+those who failed to keep their religious vows.  In their accounts
+of Piccarda the early commentators state that being devoutly
+disposed in her girlhood she entered a convent in Florence, but
+was forced thence by her brother Corso (see Dante's mention of
+him in vss. 82-87) in order that he might marry her to a
+Florentine named Rossellino della Tosa; they add that very
+shortly after her marriage she fell ill and died, in answer, it
+is presumed, to her prayer that she might be saved from violating
+her vow of virginity.  Benvenuto points out that of the three --
+Corso, Forese, and Piccarda -- Dante places one in Hell, one in
+Purgatory, and one in Paradise.
+
+	|15.  ne l'alto Olimpo~: Cf. "o sommo Giove" in ^Purg.~
+VI, 118.  	|di sua corona~: See II Tim. 4:7-8: "Bonum
+certamen certavi, cursum consummavi, fidem servavi; in reliquo
+reposita est mihi corona iustitiae, quam reddet mihi Dominus in
+illa die, iustus iudex."  ("I have fought the good fight, I have
+finished the course, I have kept the faith.  For the rest, there
+is laid up for me a crown of justice, which the Lord, the just
+Judge, will give to me in that day.")
+
+	|16-18.  Qui non si vieta... dieta~: Torraca comments:
+"Pi@u che a Dante, fa l'osservazione a s@e stesso, come per
+giustificarsi o scusarsi, e mostra la gentilezza dell'animo suo." 
+("He [Forese] is making this observation not so much to Dante as
+to himself, as if to justify or excuse himself; and he is showing
+the gentleness of his soul.")
+
+	|munta... via~: "Milked dry."  Cf. ^Inf.~ XII, 133-136
+and ^Purg.~ XIII, 57, and see "conquiso" in ^Purg.~ XXIII, 45.
+
+	|dieta~ = ^digiuno~ (see vs. 23).
+
+	|20.  Bonagiunta da Lucca~: Torraca observes that
+Bonagiunta was a fairly common name in Florence, hence the
+special need to specify "da Lucca."  Bonagiunta Orbicciani degli
+Overardi, the son of Perfetto di Orbicciano of Lucca, was a
+notary and poet of the latter half of the thirteenth century.  A
+considerable number of his poems have been preserved.  See A.
+Parducci (1905), pp. xv-xxx, 3-64, and G. Contini (1960), vol. I,
+pp. 257-282.  Benvenuto, in his gloss on vs. 34, says that
+Bonagiunta was more addicted to wine than to versifying, but was
+a facile writer and addressed some of his poems to Dante, who had
+been acquainted with him:
+
+     Iste autem fuit Bonagiunta de Urbisanis, vir honorabilis, de
+     civitate lucana, luculentus orator in lingua materna, et
+     facilis inventor rhythmorum, sed facilior vinorum, qui
+     noverat autorem in vita, et aliquando scripserat sibi.  Ideo
+     autor fingit eum ita familiariter loqui secum de ipso et de
+     aliis inventoribus modernis.
+
+     This was Bonagiunta Orbicciani, an honorable man, of the
+     city of Lucca, a brilliant orator in the mother tongue, with
+     a great facility in finding rhymes but more adept at
+     [finding] wines.  He knew the author while he was alive and
+     sometimes wrote to him.  Hence, the author portrays him as
+     conversing with him in friendly fashion about himself and
+     other modern poets.
+
+	|20-24.  quella faccia... vernaccia~: This pope is not
+named, but is easily recognized as Martin IV (Simon de Brie or
+Brion), who was born ^ca.~ 210 and was a native of Montpinc$e in
+Brie.  He was treasurer of St. Martin of Tours and was appointed
+chancellor of France by Louis IX in 1260; in 1261 Urban IV made
+him a cardinal, and in 1264 he acted as legate in France for
+Urban and for his successors Clement IV and Gregory X and was
+entrusted with the negotiations as to the offer of the crown of
+Naples and Sicily to Charles of Anjou.  Six months after the
+death of Nicholas III (August 22, 1280) he was elected pope at
+Viterbo, through the influence of Charles of Anjou, on February
+22, 1281, and was crowned at Orvieto on March 23, the Romans
+having refused to admit him within their walls.  In the first
+year of his pontificate, at the bidding of Charles, Martin IV
+excommunicated the Greek emperor, Michael VIII Palaeologus,
+thereby destroying the possibility of a union between the Eastern
+and Western Churches.  After the Sicilian Vespers in 1282 and the
+loss of Sicily by the house of Anjou, he vainly endeavored to
+compel Pedro III of Aragon, who had taken possession of the
+island, to restore it to Charles.  Among the cardinals created by
+him was Dante's bitter enemy, Benedetto Caetani, afterward Pope
+Boniface VIII.  Martin IV died on March 28, 1285, after a reign
+of four years.  The cause of his death is said to have been a
+surfeit of eels from Lake Bolsena, which, according to Francesco
+Pipino (^Chronicon~ IV, 21), a contemporary of Dante, he used to
+keep in milk and then stew in wine.
+
+	|Torso~: Tours.
+
+	|Bolsena~: Lake Bolsena (the ^lacus Volsiniensis~ of the
+Romans), in Latium, a few miles north-northwest of Viterbo, is
+one of the largest lakes in central Italy.  It was, and is,
+famous for its eels.      |vernaccia~: Torraca comments: "^La
+vernaccia~: vino bianco, detto cos@i da Vernaccio, ora Vernazza, a
+pochi chilometri da Spezia.  'Vicino a Chiavari...  si fa molto
+vino di vernaccia, e il vino di quella terra @e ottimo';
+Salimbene."  ("La Vernaccia: a white wine, so called because it
+came from Vernaccio, now Vernazza, a few kilometers from La
+Spezia.  'Near Chiavari... a great deal of Vernaccia wine is
+produced; and the wine from that land is excellent'
+[Salimbene].")
+
+	|26.  del nomar parean tutti contenti~: All are pleased
+to be named, because then Dante can report to the living that
+they are here in Purgatory among the elect-to-be and so can ask
+that their speedier advance here be prayed for.
+
+	|27.  per@o~ = ^per ci@o~, "on that account." 	|un atto
+bruno~: A scowl.
+
+	|28.  per fame a v@oto usar li denti~: Cf. Ovid's
+description of Erysichthon (^Metam.~ VIII, 824-827):
+
+     ...petit ille dapes sub imagine somni,
+     oraque vana movet dentemque in dente fatigat,
+     exercetque cibo delusum guttur inani
+     proque epulis tenues nequiquam devorat auras.
+
+     And in his sleep he dreams of feasting, champs his jaws on
+     nothing, wearies tooth upon tooth, cheats his gullet with
+     fancied food; for his banquet is nothing but empty air.
+
+	|29.  Ubaldin da la Pila~: Ubaldino degli Ubaldini dalla
+Pila (La Pila is a castle in the Mugello, or upper valley of the
+Sieve, a tributary of the Arno, north of Florence) was a member
+of the powerful Ghibelline family of the Ubaldini, to which
+belonged the famous Cardinal Ottaviano degli Ubaldini (mentioned
+in ^Inf.~ X, 120) and Ugolino d'Azzo (see ^Purg.~ XIV, 105). 
+Ubaldino was the father of Archbishop Ruggieri degli Ubaldini of
+Pisa (see ^Inf.~ XXXIII, 14).  It seems that he died in 1291. 
+Benvenuto gives the following account of him:
+
+     Iste fuit quidam nobilis miles de clara familia Ubaldinorum,
+     de qua fuerunt multi valentes viri; et ipse fuit liberalis
+     et civilis, frater cardinalis Octaviani magnifici, qui semel
+     duxit papam cum tota curia in montes Florentiae ad domum et
+     castellum istius Ubaldini, et ibi stetit pluribus mensibus. 
+     Modo poeta posuit cardinalem in inferno, tamquam epicureum,
+     et istum posuit in purgatorio pro guloso....  Ubaldini fuerunt
+     florentini, quibus datae sunt Alpes Florentiae sub
+     gubernatione et defensione, sed ipsi sciverunt continuare
+     possessionem per longa tempora: et diebus istis sunt
+     destructi per commune Florentiae....  [Iste Ubaldinus] fuit
+     prodigi ingenii ad omnia irritamenta gulae.  Ipse enim de
+     more suo quotidie inquirebat ab expensore suo quid
+     ordinasset pro prandio vel coena; et illo respondente hoc et
+     illud, respondebat: facias etiam sic; nec umquam ille
+     poterat tam varia ordinare, quin iste semper adderet
+     aliquid.
+
+     This man was a noble soldier of the famous family of the
+     Ubaldini, which produced a number of worthy men; he was
+     generous and patriotic, and his brother was the eminent
+     Cardinal Ottaviano who had once invited the pope and his
+     curia to the home and castle of the Ubaldini in the hills
+     near Florence where they stayed for several months.  Here
+     the poet places the cardinal in Hell as an epicurean and the
+     brother in Purgatory as a glutton....  The Ubaldini were
+     Florentines who were charged with the rule and defense of
+     the Florentine Alps, and they were able to maintain control
+     for a long time; however, in those days they were overthrown
+     by the commune of Florence....  (Ubaldino] was of remarkable
+     ingenuity in catering to his gluttony.  Every day he would
+     consult with his steward as to what was planned for dinner
+     or supper; when he was told that such and such was on the
+     menu, he would say: "Let us have thus and so, too."  The
+     steward was never able to plan a dinner to which his master
+     would not always add some special dish.
+
+Ubaldino forms the subject of one of Sacchetti's stories
+(^novella~ CCV).
+
+	|Bonifazio~: A bishop who is identified by modern
+commentators with Bonifazio de' Fieschi of Genoa, archbishop of
+Ravenna from 1274 to 1295 and nephew of Innocent IV.  He was
+appointed archbishop of Ravenna by Gregory X in 1274, during the
+second Council of Lyons, and was sent to France by Honorius IV in
+1285 to help Edward I of England in his efforts to bring about a
+reconciliation between Alfonso III of Aragon and Philip the Fair
+and to negotiate for the release of Charles II of Naples.  He
+died February 1, 1295.  He is known to have been immensely
+wealthy and to have possessed a great collection of plate and
+rich embroideries.  See E. Levi (1921), pp. 20-23, 78-89, and
+especially pp. 80-81 for the text of a letter from Bonifazio to
+the commune of Savignano dated October 29, 1281.
+
+	|30.  che pastur@o col rocco molte genti~: With reference
+to the term |rocco~ used by Dante here of the pastoral staff,
+Lana says that Boniface "fu arcivescovo di Ravenna, lo quale non
+porta lo pastorale cos@i ritorto come li altri arcivescovi, ma @e
+fatto di sopra al modo di rocco delli scacchi."  ("He was
+archbishop of Ravenna.  The archbishop of Ravenna does not have
+his crosier as curved at the end as other archbishops; his is
+made at the top like the rook in a chess set.")  The ancient
+pastoral staff of the archbishops of Ravenna, which is still
+preserved, bears at the top an ornament shaped like a chess rook,
+answering to the description given by Lana.  See the
+illustrations given by C. Ricci (1921), p. 613.
+
+	The whole clause is probably ironically ambiguous, as
+Ricci points out (1891, p. 121): "Il verbo ^pasturare~ presenta
+in questo caso due tagli e con l'ambiguit@a determina l'epigramma
+fra il ^pasturare~ il gregge cristiano con la parola evangelica e
+la piet@a, e il ^pasturare~ o sfamare il gregge dei cortigiani
+che gli si addensavano intorno."  ("In this case, the verb
+^pasturare~ -- to pasture or feed -- has a double meaning, and
+the ambiguity determines the epigram between feeding the
+Christian flock with the evangelical word and with piety and
+feeding the hungry flock of courtiers who crowded around him.")
+
+	|31-33.  Vidi messer Marchese... sazio~: The reference to
+Messer Marchese here is to his having been an insatiable
+winebibber during his lifetime, in illustration of which
+Benvenuto relates a story of how one day he sent for his cellarer
+and asked him what people said of him in the city, to which the
+cellarer replied, "Master, everybody says that you do nothing but
+drink," whereupon Messer Marchese rejoined with a smile, "Why
+don't they say that I am always thirsty?"  Messer Marchese, who
+was ^podest@a~ of Faenza in 1296, appears to have been a member of
+the Argogliosi family of Forl@i.
+
+	|ebbe spazio~: There is clearly a touch of the same irony
+here as is felt in vs. 30.
+
+	|e si fu tal~: Some editors place an accent on "s@i" here. 
+Although this is certainly a possible reading, it seems better to
+consider the "si" as the familiar pleonastic reflexive, in its
+specifying function.
+
+	|34-35.  s'apprezza pi@u d'un che d'altro~: The expression
+^apprezzarsi di~ means "to take note of," "to pay attention to."
+
+	|fei~ = ^feci.~
+
+	|36.  di me aver contezza~: To wish to know about me, my
+story.  It is clear that Bonagiunta knows who Dante is.
+
+	|37.  Gentucca~: Nothing certain is known of the meaning
+of the word here.  According to the most probable interpretation,
+Gentucca is the name of a Lucchese lady who befriended Dante in
+exile.  Curiously enough, however, several of the earlier
+commentators understand the word "Gentucca" to be not a proper
+name but a pejorative of ^gente.~  The ^Ottimo Commento~, for
+example, says: "E dicea: ^io non so che gente bassa~...  cio@e la
+Parte Bianca di Firenze." ("And he said: 'I know not what low
+people'... that is, the White party of Florence.")  The ^Anonimo
+fiorentino~'s interpretation is: "Ci@o @e, secondo il vulgare
+lucchese, dicea che gentucca, ci@o @e che genticella @e questa?" 
+("That is, according to the Lucchese dialect, he was saying what
+little people, i.e., what small folk is this?")  The first to
+take the word as the name of a lady, and to identify her with the
+"femmina" of the obscure prophecy that begins in vs. 43, appears
+to have been Buti:
+
+     Finge l'autore ch'elli nol sapesse intendere, perch@e
+     secondo la sua fizione non era anco stato quello ch'elli
+     predicea et annunziava; cio@e ch'elli dovea essere confinato
+     di Fiorensa a Lucca, e quive si dovea innamorare d'una
+     gentil donna che sarebbe nominata Gentucca, e cos@i era
+     avvenuto innanti che l'autore scrivesse questa parte che
+     l'autore, essendo a Lucca non potendo stare a Fiorensa,
+     puose amore ad una gentil donna chiamata madonna Gentucca,
+     che era di Rossimpelo, per la virt@u grande et onest@a che
+     era in lei, non per altro amore.
+
+     The author pretends he does not understand, because,
+     according to the fiction he has created, the things
+     predicted and announced here have not yet taken place, i.e.,
+     that he would be banished from Florence to Lucca and that he
+     would fall in love there with a gentle lady called Gentucca. 
+     This had happened before the author wrote this part: the
+     author, in Lucca because he was unable to remain in
+     Florence, fell in love with a gentle lady called Madonna
+     Gentucca, of the Rossimpelo family.  He loved her for the
+     great virtue and honesty that were in her, not with any
+     other love.
+
+The view adopted by the majority of modern commentators is that
+an unidentified lady by this name in Lucca showed kindness and
+hospitality to the exiled Dante, the exact time of this sojourn
+unfortunately being undocumented.  See F. Novati (1908), pp.
+198-202; E. Levi (1921), pp. 30-33, 99-105.
+
+	|38-39.  l@a~: In the mouth.
+
+	|la piaga de la giustizia~: The fasting and the
+consequent torment of hunger and the wasting away.
+
+	|li~: For this shift to a plural pronoun, see ^Purg.~
+VII, 65-66.  	|pilucca~: "Plucks," as if it picked bits from
+them all the while.  Literally, ^piluccare~ denotes the plucking
+of grapes, one by one, from a bunch of grapes.  The image of
+eating and consequently the ^contrapasso~ turn of phrase are
+surely not unintentional.  Cf. "sfoglia," ^Purg.~ XXIII, 58.
+
+	|40.  vaga~: "Desirous."
+
+	|41.  fa s@i ch'io t'intenda~: "Speak so that I may
+understand you."
+
+	|42.  appaga~: Imperative, with a double object, "te" and
+"me."
+
+	|43.  Femmina~: "Femmina" is used for ^donna~ here.  The
+term in general does not necessarily have a pejorative sense and
+certainly does not in this case.        |e non porta ancor
+benda~: Del Lungo comments: "E ancora giovinetta nubile: la
+benda, copertura della testa con sogg@olo, era di donna o maritata
+(la benda nera) o vedova (la benda bianca; cf. ^Purg.~ VIII,
+74.)"  ("She is still young and single; the wimple, a head cover
+with a chinstrap, was for married women -- a black wimple -- or
+for widows -- a white wimple; cf. ^Purg.~ VIII, 74.")
+
+	|45.  come ch'om la riprenda~: Dante himself has already
+blamed Lucca in ^Inf.~ XXI, 41-42.
+
+	|46.  con questo antivedere~: Cf. ^Purg.~ XXIII, 109.
+
+	|47.  prendesti errore~: If you have misconstrued,
+conceived a mistaken idea.
+
+	|48.  dichiareranti~ = ^ti dichiareranno.~ 	|ancor~:
+"Finally." 		|le cose vere~: "The real events."
+
+	|49-51.  Ma d@i s'i' veggio... d'amore~: Bonagiunta has
+already recognized Dante.  In his commentary (p. 233) Porena
+comments: "La sua domanda @e dunque una di quelle che non
+esprimono se non una meraviglia gioconda di aver dinanzi proprio
+quella persona: come quando Dante aveva esclamato ^Or sei tu quel
+Virgilio e quella fonte~ ecc. ecc., senza menomamente dubitare
+che l'autore dell'Eneide sia Virgilio."  ("His question, then, is
+one of those that express joyous amazement, at having precisely
+that person before him: just as Dante had exclaimed 'Are you that
+Virgil, that source, etc.' without having the slightest doubt
+that the author of the ^Aeneid~ is Virgil.")
+
+	|fore trasse~: Produced.
+
+	|nove~ = ^nuove.~ 	|rime~: The word here signifies a
+poem or poetry, as it often does in Dante's usage.
+
+	|Donne ch'avete intelletto d'amore~: The first verse of
+the first ^canzone~ of the ^Vita nuova~, a canzone which
+represents a new beginning and new style in Dante's poem to and
+about Beatrice.  See ^Vita nuova~ XIX, 1-2:
+
+     Avvenne poi che passando per uno cammino lungo lo quale sen
+     gia uno rivo chiaro molto, a me giunse tanta volontade di
+     dire, che io cominciai a pensare lo modo ch'io tenesse; e
+     pensai che parlare di lei non si convenia che io facesse, se
+     io non parlasse a donne in seconda persona, e non ad ogni
+     donna, ma solamente a coloro che sono gentili e che non sono
+     pure femmine.  Allora dico che la mia lingua parl@o quasi
+     come per se stessa mossa, e disse: ^Donne ch'avete~
+     ^intelletto d'amore.~
+
+     It then befell, that passing by a way along which there
+     coursed a river of most clear waters, so great a desire to
+     speak possessed me, that I began to ponder on the style I
+     should use, and I thought that it was not fitting to speak
+     of her except I spake to ladies in the second person, and
+     not to every lady but to such only as are gentle and not
+     mere women.  Then I say that my tongue spake as if moved by
+     itself and said: ^Ladies, that have intelligence of love.~
+
+	|52-54.  I' mi son un che... significando~: The pronoun
+"mi" is a clear example of the so-called pleonastic reflexive,
+and in this context it adds a touch that amounts to saying: "As
+for myself, I am one who...."  Later it is evident from the use
+of the plural "pens," vs. 58, that Bonagiunta thinks of Dante as
+initiating a new style with this poem, one that was then followed
+by other poets, and the "mi" here seems to register Dante's
+awareness of this imputed honor and to serve as a modest
+disclaimer to speak for anyone but himself in formulating his
+^credo.~  On the whole much-debated conception, see C. S.
+Singleton (1949), pp. 92-94.
+
+	|ditta~ = ^detta.~  	|vo~= ^vado.~ 	   |vo
+significando~: A progressive construction.
+
+	|55.  O frate~: For the tone, see n. to ^Purg.~ IV, 127. 
+|issa~: For the form ^issa~, see ^Inf.~ XIII, 7 and the note.  E.
+G. Parodi (1957, p. 261) points out that some early commentators
+characterize the word as being specifically the speech of Lucca. 	
+|il nodo~: "The impediment."
+
+	|56.  'l Notaro~: Giacomo da Lentini, commonly called
+"the Notary," of Lentini, in Sicily.  He belonged, in the first
+half of the thirteenth century, to the Sicilian school of poetry
+that flourished under the Emperor Frederick II (encountered in
+^Inf.~ X, 119) and his son Manfred (see ^Purg.~ III, 112).  There
+is reason to believe that he studied at Bologna and afterward
+lived in Tuscany, where his reputation was such that he was
+regarded as the chief of the lyric poets before Guittone
+d'Arezzo.  A great many of his ^canzoni~ and sonnets, which
+exhibit marked traces of Proven$cal influence, have been
+preserved (see G. Contini, 1960, vol. I, pp. 49-90).  The first
+line of his ^canzone~ beginning "Madonna, dir vo voglio" (see G.
+Contini, 1960, vol. I, p. 51) is quoted by Dante in ^De vulg.
+eloqu.~ I, xii, 8, as an example of polished diction, though the
+author's name is not given.
+
+	^Guittone~: Fra Guittone d'Arezzo, one of the early
+Italian poets, was born ^ca.~ 1230 at Santa Firmina, near Arezzo. 
+Little is known of the details of his life, a great part of which
+was spent in Florence, where Dante may have known him.  His
+father, Michele, held the position of chamberlain of the city of
+Arezzo, in which office he was assisted by his son.  About the
+year 1266, or perhaps earlier, Guittone, who was married and had
+a family, entered the order of the Frati Gaudenti (which included
+married men and even women), his previous life having been more
+or less given up to worldly pleasures.  In 1285 he was at Bologna
+on business connected with his order.  In 1293 he helped to found
+the monastery of Santa Maria degli Angioli at Florence, in which
+city he appears to have died in the following year.  See A.
+Pellizzari (1906); G. Contini (1960), vol. I, pp. 189-255.  Dante
+mentions Guittone again in ^Purg.~ XXVI, 124.
+
+	|57.  di qua dal dolce stil novo~: Literally, "this side
+of the sweet new style." ^dolce stil novo~: This is the origin of
+the phrase which has become a chapter heading in so many
+histories of Italian literature.        |ch'i' odo~: Bonagiunta
+recognizes the definition of the style, the program of it, as it
+were.
+
+	|58.  le vostre penne~: With this shift to the plural,
+imputing to several poets, who are not named, the program or
+creed that Dante the wayfarer has claimed for himself (see n. on
+vss. 52-54), Dante the poet bequeathed to literary history a
+problem that is still debated, namely, whether there actually was
+any such school of poetry.
+
+	|59.  di retro al dittator sen vanno strette~: Following
+Love's dictation.  Cf. vss. 52-54.     |sen~ = ^se ne.~ 
+|sen vanno strette~: This extends to the plural what was said of
+Dante alone in vs. 54: "vo significando."  "Sen vanno" represents
+the same progressive sense.     |strette~ = ^strettamente~, i.e.,
+exactly according to his (Love's) dictation.
+
+	|61-62.  e qual pi@u a gradire oltre si mette~ = ^e qual
+si mette a gradire pi@u oltre.~  Petrocchi has ably defended the
+reading "gradire," according to the early MSS.  |Gradire~ would
+thus be a Latinism (based on ^gradior~).  Several examples of its
+use in early Italian are given by Petrocchi (see his long note on
+this)."  E qual pi@u a gradire oltre si mette" thus comes to mean,
+freely, "and whosoever would venture to go further."
+
+	|qual pi@u... stilo~: Whoever seeks to go more deeply into
+the difference between the two schools beyond what I have just
+stated will see no better than I do now.
+
+	|63.  quasi contentato~: "As one who is content."
+
+	|64-68.  Come li augei... passo~: Compare Lucan, ^Phars.~
+V, 711-716:
+
+     Strymona sic gelidum bruma pellente relinquunt
+     Poturae te, Nile, grues, primoque volatu
+     Effingunt varias casu monstrante figuras;
+     Mox, ubi percussit tensas Notus altior alas,
+     Confusos temere inmixtae glomerantur in orbes,
+     Et turbata perit dispersis littera pinnis.
+
+     Thus, when cranes are driven by winter from the frozen
+     Strymon to drink the water of the Nile, at the begin-
+     ning of their flight they describe various chance-taught
+     figures; but later, when a loftier wind beats on their
+     outspread wings, they combine at random and form disordered
+     packs, until the letter is broken and disappears as the
+     birds are scattered.
+
+Cranes normally fly in single file (cf. ^Inf.~ V, 46-47).  Thus
+the figure fits the situation here with respect to the souls who
+first altered the order of their movement along the terrace,
+making a band as they paused to wonder at the living Dante, and
+now hurry on and go in file, like cranes.
+
+	|augei~ = ^augelli~ (^uccelli~).       |vernan~ =
+^svernano.~
+
+	|in filo~ = ^in fila.~  Cf. ^Inf.~ V, 47.
+
+	|volgendo 'l viso~: They face toward their path ahead.
+
+	|69.  per voler~: The desire to hasten their purgation.
+
+	|70.  trottare~ = ^correre.~  In early Italian the verb
+was commonly used of a man's running.  Cf. Boccaccio, ^Decam.~
+II, 2 (vol. I, p. 80, l. 22).
+
+	|71.  e si passeggia~: Some editors prefer to interpret
+the "si" here as "s@i," the adverb, but it seems a clear instance
+of the pleonastic reflexive in its separating, distancing
+function.  Porena so interprets it, calling it a pseudo-relexive:
+"'Passeggia (va di passo) per suo conto' lasciando che altri
+corra."  ("He strolls along -- he walks along -- at his own pace,
+letting the others run.")  But he admits that "s@i" is possible. 
+And Del Lungo observes: "'Si,' pleonastico, di usuale propriet@a
+presso gli antichi; ma che qui segna distacco fra lo aver corso
+('trottare') e, ora, il passeggiare."  ("The pleonastic ^si~, as
+it was properly used by the ancient writers.  Here, though, it
+indicates the change from having run (|trottare~) to walking
+now.")  See n. to vs. 33.
+
+	|72.  l'affolar~:  The verb is based on the Latin
+^follis~, meaning "bellows," and refers to the heaving of the
+chest and panting of one who has been running.  Cf. ^Purg.~ XV,
+51.  	|casso~: Cf. ^Inf.~ XII, 122 and ^passim.~ 
+
+	|74.  sen veniva~ = ^se ne veniva.~  Again the "se" (si)
+has something of the same distancing function as in vs. 71.
+
+	|75.  fia~ = ^sar@a.~ 	|riveggia~ = ^riveda.~
+
+	|76.  lui~ = ^a lui.~ 	|mi viva~: Again the pleonastic
+reflexive.  Cf. vs. 52.  It is most common after ^non sapere.~
+
+	|77.  il tornar mio~: The subject of "fia" (^sar@a~).
+
+	|78.  ch'io non sia col voler prima a la riva~: No matter
+how soon Dante may return here after death, it will not be soon
+enough.  Some interpreters would understand "riva" to mean either
+the shore near Ostia whence the souls depart for Purgatory (see
+^Purg.~ II, 100-102) or that of Purgatory where they arrive. 
+Either of these interpretations is possible, but this is more
+probably only a metaphor, as in ^Purg.~ XXV, 54, and ^Par.~ XXVI,
+63.  In any case Dante once again expresses his belief that he is
+to be among the elect, even as Charon had predicted (^Inf.~  III,
+91-92), and so will pass through Purgatory after death.  But will
+Forese still be here?
+
+	|79.  per@o che~ = ^perci@o che.~		|'l loco u' fui a
+viver posto~: Florence.       |'u~ = ^ove.~ 		|a viver
+posto~: Almost despite himself, as Porena notes.
+
+	|80.  si spolpa~: The verb belongs to the semantic field
+of the ^contrapasso~, as do ^sfogliare~ and ^piluccare.~
+
+	|81.  ruina~: Cf. ^Purg.~ XII, 55; XVII, 39.   
+|disposto~: "Inclined to," "on the point of."  Porena comments:
+
+     Questo @e uno dei pochissimi luoghi del poema in cui il
+     Dante scrittore si sostituisce al Dante personaggio del
+     poema stesso: giacch@e non @e verosimile che il Dante della
+     primavera del 1300, ancora in piena attivit@a nella vita
+     politica della sua patria, fosse gi@a cos@i distaccato dalle
+     cose terrene, nutrisse gi@a un simile sconforto, un simile
+     desiderio di morte.
+
+     This is one of the very few places in the poem where Dante
+     the writer substitutes himself for Dante the character in
+     the poem itself.  For it is hardly likely that in the
+     spring of 1300, Dante, still fully active in the political
+     life of his city, would already be so detached from earthly
+     things, or that he would be nourishing such anguish, or such
+     a desire for death.
+
+	|82.  Or va~: Cf. ^Purg.~ VIII, 133, where the expression
+also serves to introduce a prophecy.  Porena suggests the meaning
+"sta tranquillo." 		|quei che pi@u n'ha colpa~: Corso
+Donati, Forese's and Piccarda's brother, who became the leader of
+the Neri faction in Florence.  In the summer of 1300 the priors
+of Florence, of whom Dante was one, in order to put an end to the
+disturbances occasioned by the Bianchi and Neri feud, decided to
+exile the heads of both parties.  Corso, counting on the
+sympathies of Boniface VIII, repaired to Rome and urged the pope
+to send Charles of Valois to Florence to pacify the city in his
+name.  Villani (VIII, 43) writes:
+
+     Informato papa Bonifazio del male stato e dubitoso della
+     citt@a di Firenze... con loro procaccio e studio, e di messer
+     Corso Donati che seguiva la corte, si prese per consiglio il
+     detto papa Bonifazio, di mandare per messer Carlo di Valos
+     fratello del re di Francia... [e] gli di@e titolo di paciario
+     in Toscana, per recare colla sua forza la citt@a di Firenze
+     al suo intendimento.
+
+     Pope Boniface was informed of the evil and dubious condition
+     of the city of Florence... as a result of their urging and
+     their scheming, as well as that of Messer Corso Donati, who
+     was following the court, the said Pope Boniface took counsel
+     to send for Messer Charles of Valois, brother of the king
+     of France... [and] he gave him the title of pacifier of
+     Tuscany, so that he might use his forces to get the city
+     of Florence to do his bidding.  
+
+Charles entered Florence on November 1, 1301, and was followed
+not long after by Corso Donati and a band of exiled Neri, who
+forced their way into the city, broke open the prisons, and at
+the head of the rabble attacked the houses of the Bianchi,
+pillaging, burning, and murdering for five days and nights,
+without any attempt being made by Charles to check them.  After
+the departure of the latter, the Neri were left in possession of
+Florence, and Corso now attempted to get the supreme power into
+his own hands.  But his pretensions soon rendered him an object
+of detestation and suspicion, and at length he was formally
+charged by the priors with conspiring against the liberties of
+the commonwealth in concert with his father-in-law, the
+Ghibelline captain Uguccione della Faggiuola, and was summoned to
+appear before the ^podest@a.~  On his refusal to comply he was
+condemned to death as a traitor.  Villani (VIII, 96) gives the
+following account:
+
+     Nel detto anno 1308, essendo nella citt@a di Firenze
+     cresciuto scandolo tra' nobili e potenti popolani di parte
+     nera che guidavano la citt@a, per invidia di stato e di
+     signoria... erano partiti in setta; e dell'una era capo
+     messer Corso de' Donati con seguito d'alquanti nobili e di
+     certi popolani... e dell'altra parte erano capo messer Rosso
+     della Tosa... [con] pi@u altri casati grandi e popolani, e la
+     maggiore parte della buona gente della cittade, i quali
+     aveano gli uffici e 'l governamento della terra e del
+     popolo.  Messer Corso e' suoi seguaci parendo loro esser
+     male trattati degli onori e ofici a loro guisa parendogli
+     essere pi@u degni, perocch'erano stati i principali
+     ricoveratori dello stato de' neri, e cacciatori della parte
+     bianca; ma per l'altra parte si disse, che messer Corso
+     volea essere signore della cittade e non compagnone; quale
+     che si fosse il vero o la cagione, i detti, e quegli che
+     reggeano il popolo l'aveano in odio e a grande sospetto,
+     dappoi s'era imparentato con Uguccione della Faggiuola,
+     ghibellino e nimico de' Fiorentini; e ancora il temeano per
+     lo suo grande animo e podere e seguito... e massimamente
+     perch@e trovarono [ch'avea] fatta lega e giura col detto
+     Uguccione della Faggiuola suo suocero, e mandato per lui e
+     per suo aiuto.  Per la qual cosa, e per grande gelosia,
+     subitamente si lev@o la cittade a romore, e... fu data una
+     inquisizione ovvero accusa alla podest@a... incontro al detto
+     messer Corso, opponendogli come dovea e volea tradire il
+     popolo, sommettere lo stato della cittade, faccendo
+     venire Uguccione da Faggiuola co' ghibellini e nimici del
+     comune.  E la richesta gli fu fatta, e poi il bando, e poi
+     la condannagione.
+
+     In that year, 1308, hostility arose in the city of Florence
+     between the nobles and the powerful commoners, both of the
+     Black party, which was in control of the city.  Because they
+     were envious of each other's power and dominion... they had
+     formed factions: the one was headed by Messer Corso Donati,
+     whose following included a good many noblemen and certain
+     commoners... and the head of the other was Messer Rosso
+     della Tosa... with some families of noblemen and commoners
+     behind him, as well as the majority of the good people of
+     the city -- men who held offices and were responsible for
+     the administration of the city and its population.  Messer
+     Corso and his followers believed they were not getting
+     enough honors and offices in the city.  Indeed, they
+     believed they were more deserving than those other men,
+     because they had been mainly responsible for putting the
+     Blacks back in power and for having expelled the Whites. 
+     But the other side said that Messer Corso wanted to become
+     lord of the city, and not merely to be an equal.  Whatever
+     the truth or the reasons may have been, these people (Messer
+     Rosso's faction] and those who controlled the government
+     hated him and were very suspicious of him, especially since
+     he had become related by marriage to Uguccione della
+     Faggiuola, who was a Ghibelline and an enemy of Florence. 
+     Moreover, Messer Corso was feared because of his great
+     bravery, power, and following... and especially because it
+     was discovered that he had made an alliance and covenant
+     with this Uguccione della Faggiuola, his father-in-law, and
+     that he had sent for him and his men.  For this reason, and
+     because of the great rivalry, the city was soon in an
+     uproar, and... the ^podest@a~ was ordered to make an
+     investigation, or rather an accusation... against Messer
+     Corso, charging him with wanting to betray the people and to
+     destroy the city by calling in Uguccione della Faggiuola
+     and the Ghibellines and enemies of the commune.  He was
+     ordered to appear; then the proclamation against him was
+     issued, and then he was condemned.
+
+Besieged in his own house, Corso was eventually slain while
+attempting to escape, October 6, 1308.  Villani (VIII, 96) tells
+of his capture and death:
+
+     Messer Corso tutto solo andandosene, fu giunto e preso sopra
+     a Rovezzano da certi Catalani a cavallo, e menandolne preso
+     a Firenze, come fu di costa a san Salvi, pregando quegli che
+     'l menavano, e promettendo loro molta moneta se lo
+     scampassono, i detti volendolo pure menare a Firenze,
+     siccom'era loro imposto da' signori, messer Corso per paura
+     di venire alle mani de' suoi nemici e d'essere giustiziato
+     dal popolo, essendo compreso forte di gotte nelle mani e ne'
+     piedi, si lasci@o cadere da cavallo.  I detti Catalani
+     veggendolo in terra, l'uno di loro gli diede d'una lancia
+     per la gola d'uno colpo mortale, e lasciaronlo per morto. 
+
+     Messer Corso, who had fled alone, was overtaken and captured
+     at Rovezzano by certain Catalan horsemen.  They were taking
+     him prisoner to Florence and were near San Salvi, when he
+     begged them to let him go, promising large sums of money in
+     return.  But those men were determined to take him back to
+     Florence, as they had been ordered to do by the priors. 
+     Because he was so afraid of falling into the hands of his
+     enemies and being executed by the people, Messer Corso,
+     being badly afflicted with gout in his hands and feet, let
+     himself fall from his horse.  Seeing him on the ground, one
+     of the Catalans thrust a lance through his throat, dealing
+     him a mortal blow; and they left him for dead.
+
+	|83-84.  vegg'io a coda d'una bestia... scolpa~: I.e.,
+dragged at the tail of a beast toward the valley of Hell.  Some,
+taking the words literally, think Dante means that Corso was
+dragged to death at his horse's heels.  This, however, does not
+agree with the account of his death given by Villani (quoted in
+n. to vs. 82), who states that Corso, having been overtaken in
+his flight from Florence by some Catalan mercenaries, threw
+himself from his horse, and while on the ground was speared in
+the throat by one of his captors.  As Villani was on the spot and
+must have known the facts, we must assume either (with
+Scartazzini-Vandelli) that a distorted account of the incident
+reached Dante in exile, or (with Butler) that Forese's language
+is metaphorical, the ^bestia~ being "the popular party, of which
+Corso once thought himself the head, while he was really being
+dragged on by them, and by which he was ultimately destroyed." 
+Benvenuto, who wrote with Villani's description before him, takes
+Dante's words literally and tries to reconcile the two accounts:
+
+     Et fugiens solus, cum non posset flectere precibus vel
+     promissis milites catalanos persequentes eum... permisit
+     sponte se cadere ab equo, vel casu cecidit, ut aliqui
+     volunt.  Et cum equus traheret eum retento pede in stapite,
+     percussus est lethaliter in gutture ab uno milite.
+
+     Fleeing alone, and not being able to ward off, either by
+     entreaties or by promises, the Catalan soldiers who were
+     pursuing him... he intentionally allowed himself to fall from
+     his horse, or he fell accidentally, as some would have it. 
+     While the horse was dragging him by one foot still in the
+     stirrup, he was mortally wounded in the throat by a soldier.
+
+The version in Dino Compagni's ^Cronica~ (III, 21), which agrees
+in the main with that of Villani, is as follows:
+
+     Messer Corso, infermo per le gotti, fuggia verso la badia di
+     San Salvi, dove gi@a molti mali avea fatti e fatti fare. 
+     Gli sgarigli il presono, e reconobberlo: e volendolne
+     menare, si difendeva con belle parole, s@i come savio
+     cavaliere.  Intanto sopravenne uno giovane cognato del
+     mariscalco.  Stimolato da altri d'ucciderlo, nol volle fare;
+     e ritornandosi indietro, vi fu rimandato: il quale la
+     seconda volta li di@e d'una lancia catelanesca nella gola, e
+     uno altro colpo nel fianco; e cadde in terra.  Alcuni
+     monaci ne 'l portorono alla badia; e quivi mor@i... e fu
+     sepulto.
+
+     Messer Corso, who was afficted with gout, was fleeing toward
+     the abbey of San Salvi, where he himself had committed many
+     misdeeds and had caused others to commit them as well.  The
+     Catalan soldiers took him and recognized him.  They wanted
+     to take him back, but he defended himself with fine words,
+     as befits a wise knight.  Then a young brother-in-law of the
+     stable master arrived.  The others tried to incite him to
+     kill Messer Corso, but he refused.  He went back, but they
+     made him return.  This second time, he put a Catalan lance
+     through Messer Corso's throat and gave him another blow in
+     the side, so that he fell to the ground.  Several monks
+     carried him back to the abbey, where he died... and was
+     buried.
+
+Grandgent observes that Dante appears to have recast the literal
+event into the story of a death-ride on a Hell-horse and refers
+to E. Levi (1921, pp. 50-51), who calls attention to a
+twelfth-century carving on the church of San Zeno in Verona, in
+which Theodoric in a wild hunt is precipitated into Hell by a
+horse.  It seems important to note also that traitors and
+murderers were sometimes condemned to be tied to the tail of a
+horse and dragged to the place of execution.  Cf. M. Barbi
+(1934b), p. 250: "Dante trasforma il particolare della caduta di
+Corso da cavallo in un vero trascinamento alla coda d'una bestia,
+per assegnargli la pena dei traditori e dei micidiali."  ("Dante
+transforms the detail about Corso's fall from the horse into a
+true dragging at the tail of an animal, in order to mete out to
+him the punishment assigned to traitors and murderers.")  Barbi
+cites examples of this punishment.  
+
+	|86.  il percuote~ = ^lo percuote.~  This implies that he
+was either kicked by the horse or knocked against some object in
+the road.
+
+	|88.  Non hanno molto a volger quelle ruote~: I.e., the
+heavenly spheres will not have turned many years.
+
+	|89-90.  che ti fia chiaro... puote~: The events referred
+to by Forese will be clear in eight years, in fact, since Corso
+was to meet his death on October 6, 1308.
+
+	|puote~ = ^pu@o.~
+
+	|91.  Tu~: Emphatic use of a subject pronoun.   |ti
+rimani~ = ^rimanti~, imperative.
+
+	|94-99.  Qual esce... valchi~: Forese's departure recalls
+that of Brunetto Latini (^Inf.~ XV, 121-124).  		|Qual
+esce... marescalchi~: The use of this military figure, which
+finally ends in referring to Virgil and Statius as "marshalls,"
+is very curious.
+
+	|gualoppo~ = ^galoppo.~
+
+	|di schiera che cavalchi~: Del Lungo comments: "Intendi,
+in faccia al nemico: e propriamente, schiera di cosiddetti
+'feditori,' che erano avanguardia di cavalleria, cio@e in
+condizione di 'ferire' i primi colpi, 'farsi onor del primo
+intoppo,' del primo scontro col nemico."  ("Read: confronting the
+enemy.  Properly, a company of so-called ^feditori~ [those who
+deal the blows], who were the avant-garde of the cavalry; that
+is, they were in a position to 'deal' the first blows, 'to have
+the honor of overcoming the first obstacle,' the honor of the
+first encounter with the enemy.")
+
+	|con maggior valchi~: Buti comments: "cio@e con maggiori
+passi che non andavamo noi" ("that is to say, with greater steps
+than we were taking").    |valchi~ = ^valichi.~
+
+	|con esso i due~: Virgil and Statius.  For this emphatic
+use of ^esso~, cf. ^Purg.~ IV, 27.
+
+	|fuor~ = ^furono.~	 |marescalchi~: Leaders.  The
+term continues the military figure.  
+
+	|100.  E quando innanzi a noi intrato fue~: ^Tanto~ is
+understood, either before "innanzi" or after "fue."  For the
+expression ^intrare innanzi~, see Boccaccio, ^Decam.~ V, 7 (vol.
+I, p. 384, ll. 18, 21-22): "Pietro, che giovane era, e la
+fanciulla... essendo gi@a tanto entrati innanzi alla donna ed agli
+altri, che appena si vedevano" ("Pietro, who was young, and a
+girl... having gone on ahead of the lady and the others, who were
+almost out of sight").     |fue~ = ^fu.~
+
+	|101-102.  li occhi miei... sue~: I.e., my eyes could no
+longer follow his person any more than my mind could follow the
+obscure words of his prophecy.  Since Forese apparently soon
+disappears from sight -- perhaps around a sharp bend in the
+terrace, Dante must not be able to follow him with his eyes for
+very long.  		|fero~ = ^fecero.~
+
+	|103-104.  parvermi~ = ^mi parvero.~
+
+	|i rami gravidi e vivaci d'un altro pomo~: Compare the
+chorus' description of the torment of Tantalus in Seneca's
+^Thyestes~, vss. 152-157:
+
+     Stat lassus vacuo gutture Tantalus;
+     impendet capiti plurima noxio
+     Phineis avibus praeda fugacior;
+     hinc illinc gravidis frondibus incubat
+     et curvata suis fetibus ac tremens
+     alludit patulis arbor hiatibus.
+
+     Weary, with empty throat, stands Tantalus; above his guilty
+     head hangs food in plenty, than Phineus' birds more elusive;
+     on either side, with laden boughs, a tree leans over him
+     and, bending and trembling 'neath its weight of fruit, makes
+     sport with his wide-straining jaws.
+
+No more than two trees are described as being on this terrace
+(for the first, see ^Purg.~ XXII, 130-135).  But any symmetrical
+spacing would require that there be others, since the wayfarers
+have turned only a comparatively short distance around the
+circle.  Moreover, what is said of the first tree is surely to be
+understood of this second one, i.e., that it is turned upside
+down and that the tempting liquid falls over its leaves from the
+terrace wall.  The "vivaci" may refer to the bright green color
+of the leaves or to the vigorousness of the branches. 
+
+	|105.  per esser pur allora v@olto in laci~: Some
+interpreters take this to mean not that Dante has come into sight
+of the tree by rounding a rather sharp bend at this point,
+turning in the direction of the tree in that sense, but that he
+has held his eyes so fixed on the figure of Forese that he has
+not noticed the tree and becomes aware of it only now.  Either
+meaning seems possible.  See n. to vss. 101-102.  |laci~ = ^l@a.~ 
+Cf. "lici" for l@i in ^Inf.~ XIV, 84, and ^Purg.~ VII, 64.  Such
+forms were used in early Italian prose.  See E. G. Parodi (1957),
+p. 261.
+
+	|106-108.  Vidi gente... vani~: Cf. Seneca's verses,
+continuing the description of the torment of Tantalus
+(^Thyestes~, vss. 162-168):
+
+     sed tunc divitias omne nemus suas
+     demittit propius pomaque desuper
+     insultant foliis mitia languidis
+     accenduntque famem, quae iubet irritas
+     exercere manus.  has ubi protulit
+     et falli libuit, totus in arduum
+     autumnus rapitur silvaque mobilis.
+
+     But then the whole grove lets its riches down nearer still,
+     and the mellow fruits above his head mock him with drooping
+     boughs and whet again the hunger, which bids him ply his
+     hands in vain.  When he has stretched these forth and gladly
+     has been baffled, the whole ripe harvest of the bending
+     woods is snatched far out of reach.  
+
+	|vani~: "Fond," implying that they do this over and over
+again and always in vain.
+
+	|109-111.  e 'l pregato non risponde... nasconde~: The
+image suggested by the simile is of an adult person who dangles
+some fruit before a child, but holds it well out of its reach. 
+Cf. ^Purg.~ XXVII, 45.
+
+	|disio~: The object of desire, the fruit.
+
+	|112.  ricreduta~: This, too, happens over and over
+again.
+
+	|116.  legno~: I.e., ^albero.~
+
+	|118.  non so chi diceva~: Again the source of the voice
+is a mystery.  Cf. ^Purg.~ XXII, 140.
+
+	|119.  ristretti~: Pressing in close to the inner wall of
+the terrace to keep as far away from the tree as possible.
+
+	|121-123.  Ricordivi~ = ^vi ricordi~, the impersonal use
+of the verb in the subjunctive.  Cf. ^Purg.~ V, 133: "ricorditi
+di me."
+
+	|d'i maladetti... petti~: Centaurs, a mythical race of
+creatures, half horse and half man.  With the exception of
+Chiron, they are said to have been the offspring of Ixion, king
+of the Lapithae, and Nephele, a cloud-born woman -- hence Dante
+refers to them as "formed in the clouds."  The reference to their
+gluttony and the "miseri guadagni" ("wretched gains") thereof
+(vs. 129) concerns their fight with the Lapithae and Theseus at
+the wedding of Pirithous, their half-brother, and Hippodamia. 
+Dante got the story from Ovid, who tells how during the wedding
+feast the centaur Eurytus, inflamed with wine, attempts to carry
+off the bride, while his companions seize the other women; see
+^Metam.~ XII, 210-212, 215-225:
+
+     Duxerat Hippodamen audaci Ixione natus
+     nubigenasque feros positis ex ordine mensis
+     arboribus tecto discumbere iusserat antro.
+     . . . . . . . . . . . . . . . . . . . . .
+     ecce canunt Hymenaeon, et ignibus atria fumant,
+     cinctaque adest virgo matrum nuruumque caterva,
+     praesignis facie; felicem diximus illa
+     coniuge Pirithoum, quod paene fefellimus omen. 
+     nam tibi, saevorum saevissime Centaurorum,
+     Euryte, quam vino pectus, tam virgine visa
+     ardet, et ebrietas geminata libidine regnat. 
+     protinus eversae turbant convivia mensae,
+     raptaturque comis per vim nova nupta prehensis. 
+     Eurytus Hippodamen, alii, quam quisque probabant
+     aut poterant, rapiunt, captaeque erat urbis imago.
+
+     Bold Ixion's son had wed Hippodame and had invited the
+     cloud-born centaurs to recline at the tables, set in
+     order in a well-shaded grotto....  Behold, they were singing
+     the nuptial song, the great hall smoked with the fires, and
+     in came the maiden escorted by a throng of matrons and young
+     wives, herself of surpassing beauty.  We congratulated
+     Piritho,us upon his bride, an act which all but undid the
+     good omen of the wedding.  For your heart, Eurytus, wildest
+     of the wild centaurs, was inflamed as well by the sight of
+     the maiden as with wine, and it was swayed by drunken
+     passion redoubled by lust.  Straightway the tables were
+     overturned and the banquet in an uproar, and the bride was
+     caught by her hair and dragged violently away.  Eurytus
+     caught up Hippodame, and others, each took one for himself
+     according as he fancied or as he could, and the scene looked
+     like the sacking of a town.
+
+Theseus rescues Hippodamia, and the fight becomes general.  Ovid
+(^Metam.~ XII, 227-231) writes:
+
+     ...primus "quae te vecordia," Theseus
+     "Euryte, pulsat," ait, "qui me vivente lacessas
+     Pirithoum violesque duos ignarus in uno?"
+     [neve ea magnanimus frustra memoraverit ore,
+     submovet instantes raptamque furentibus aufert.]
+
+     Theseus first cried out: "What madness, Eurytus, drives you
+     to this, that while I still live you dare provoke Piritho,us
+     and, not knowing what you do, attack two men in one?"  The
+     great-souled hero, that he might justify his threat, thrust
+     aside the opposing centaurs and rescued the ravished maid
+     from their mad hands.
+
+	|combatter~ = ^combatterono.~
+
+	|124-126.  li Ebrei ch'al ber... colli~: The Hebrews of
+Gideon's army who, not being able to restrain their desire for
+water, "showed themselves weak at the drinking," i.e., bowed down
+on their knees to drink.  See Iudic. 7:4-8:
+
+     Dixitque Dominus ad Gedeon: Adhuc populus multus est; duc
+     eos ad aquas et ibi probabo illos, et de quo dixero tibi ut
+     tecum vadat, ipse pergat; quem ire prohibuero, revertatur. 
+     Cumque descendisset populus ad aquas, dixit Dominus ad
+     Gedeon: Qui lingua lambuerint aquas sicut solent canes
+     lambere, separabis eos seorsum; qui autem curvatis genibus
+     biberint, in altera parte erunt.  Fuit itaque numerus eorum
+     qui manu ad os proiiciente lambuerant aquas, trecenti viri;
+     omnis autem reliqua multitudo flexo poplite biberat.  Et
+     ait Dominus ad Gedeon: In trecentis viris qui lambuerunt
+     aquas liberabo vos et tradam in manu tua Madian; omnis autem
+     reliqua multitudo revertatur in locum suum.  Sumptis itaque pro
+     numero cibariis et tubis, omnem reliquam multitudinem abire
+     praecepit ad tabernacula sua; et ipse cum trecentis viris se
+     certamini dedit.  Castra autem Madian erant subter in valle.
+
+     The Lord said to Gedeon, "There are still too many soldiers. 
+     Lead them down to the water and I will test them for you
+     there.  If I tell you that a certain man is to go with you,
+     he must go with you.  But no one is to go if I tell you he
+     must not."  When Gedeon led the soldiers down to the water,
+     the Lord said to him, "You shall set to one side everyone
+     who laps up the water as a dog does with its tongue; to the
+     other, everyone who kneels down to drink."  Those who lapped
+     up the water raised to their mouths by hand numbered three
+     hundred, but all the rest of the soldiers knelt down to
+     drink the water.  The Lord said to Gedeon, "By means of the
+     three hundred who lapped up the water I will save you and
+     will deliver Madian into your power.  So let all the other
+     soldiers go home."  Their horns, and such supplies as the
+     soldiers had with them, were taken up, and Gedeon ordered
+     the rest of the Israelites to their tents, but kept the
+     three hundred men.  Now the camp of Madian was beneath him
+     in the valley.
+
+	|mostrar~ = ^mostrarono.~
+
+	|Gedeon~: Gideon, one of the judges of Israel who
+delivered the Jews from the Midianites.  The passage quoted in
+the n. to vss. 124-126 continues (Iudic. 7:9): "Eadem nocte dixit
+Dominus ad eum: Surge et descende in castra, quia tradidi eos in
+manu tua."  ("That night the Lord said to Gedeon, 'Go, descend on
+the camp, for I have delivered it up to you.'")
+
+	|Madian~: Midian, ancient region of northwest Arabia,
+east of the Gulf of Aqaba, here used for the Midianites
+themselves, who were descended from Midian, the son of Abraham
+and Keturah (see Gen. 25:1-2).
+
+	|127.  a l'un d'i due vivagni~: The inner margin.  For
+"vivagno" in the sense of "edge," see ^Inf.~ XXIII, 49.
+
+	|129.  guadagni~: "Wages," in the sense the English has
+in "the wages of sin is death."  The adjective "miseri" turns the
+meaning "gain" to "punishment," retribution.
+
+	|130.  rallargati~: "Spread out" again, with Dante
+following behind the two ancient poets.   |sola~: No souls and no
+trees in sight.  Cf. vs. 133.
+
+	|131.  mille passi~: The subject of "portar." 	
+|portar~ = ^portarono.~
+
+	|132.  contemplando ciascun~: An absolute construction,
+"ciascun" being the subject of the participle.
+
+	|133.  voi sol tre~ = ^voi tre soli.~  For this kind of
+rhyme (made up of two words), cf. ^Inf.~ VII, 28; XXX, 87; and
+^passim.~  The three are alone in the sense that they do not
+come, as do the souls of this terrace, in a larger group.
+
+	|135.  poltre~: The adjective may mean either "sluggish"
+or "coltish" (cf. ^puledre~ and OFr ^poultre~), but the term is
+probably intended to signify Dante's being aroused from the inner
+quiet of contemplation (see vs. 132), which, in the case of the
+beast in simile, would mean one that was going along peacefully
+and a bit drowsily.  Del Lungo conceives of the "s@ubita voce" as
+part of the simile, this being, in the case of the beast, the
+voice of the driver.
+
+	|136.  fossi~ = ^fosse.~ 
+
+	|137-139.  non si videro... vidi un~: Cf. Apoc. 1: 14-16:
+
+     Caput autem eius et capilli erant candidi tamquam lana alba
+     et tamquam nix, et oculi eius tamquam flamma ignis, et pedes
+     eius similes aurichalco, sicut in camino ardenti, et vox
+     illius tamquam vox aquarum multarum.  Et habebat in dextera
+     sua stellas septem, et de ore eius gladius utraque parte
+     acutus exibat, et facies eius sicut sol lucet in virtute
+     sua.
+
+     But his head and his hair were white as white wool, and as
+     snow, and his eyes were as a flame of fire; his feet were
+     like fine brass, as in a glowing furnace, and his voice like
+     the voice of many waters.  And he had in his right hand
+     seven stars.  And out of his mouth came forth a sharp
+     two-edged sword; and his countenance was like the sun
+     shining in its power.
+
+	|140.  dar volta~ = ^svoltarsi.~  In this instance, as
+before, the turn into the passageway is to the left.
+
+	|141.  quinci~ = ^di qui.~ 	|per pace~: "For peace"
+as the goal.  See ^Purg.~ V, 61.  Peace is especially significant
+as such a term here, since the sins of concupiscence are without
+peace.  Cf. ^Inf.~ I, 58, and V, 99, and see n. to ^Inf.~ V, 99.
+
+	|143.  mi volsi dietro a' miei dottori~: Dante turns
+toward the place from where the angel's voice comes, and although
+he cannot see Virgil and Statius, he knows that they must have
+responded to the invitation and turned toward the stairs.  
+
+	|145-147.  E quale... fiori~: The ^Anonimo fiorentino~
+comments: "Vuole dire che, innanzi che si lievi l'alba, comincia
+a trarre uno venticello, che si chiama aura, et questa aura, ci@o
+@e questo venticello, che si lieva da' fiori et dall'erbe
+odorifere, rende odore et soavit@a."  ("It means that, before the
+sun rises, a little wind begins to blow, and it is called ^aura.~ 
+This ^aura~, that is, this little wind, which rises from the
+odoriferous flowers and grass, brings fragrance and mildness.") 
+Cf. ^Purg.~ XXVIII, 7.  
+
+	|movesi~ = ^si move.~ 	   |olezza~: "Wafts fragrance."
+
+	|148-149.  dar~: "Strike."
+
+	|per mezza la fronte~ = ^in mezzo alla fronte.~
+
+	|150.  d'ambrosia l'orezza~: The "breath" or "fragrance"
+of ambrosia.  Cf. Virgil, ^Aen.~ I, 402-404:
+
+     Dixit et avertens rosea cervice refulsit,
+     ambrosiaeque comae divinum vertice odorem
+     spiravere...
+
+     She spake, and as she turned away, her roseate neck flashed
+     bright.  From her head her ambrosial tresses breathed
+     celestial fragrance.
+
+See also Virgil, ^Georg.~ IV, 415: "Haec ait et liquidum
+ambrosiae diffundit odorem."  ("She spake, and shed abroad
+ambrosia's fragrant stream.")
+
+	|151-154.  Beati cui alluma... giusto~: Cf. Matt. 5:6:
+"Beati qui esuriunt et sitiunt iustitiam, quoniam ipsi
+saturabuntur."  ("Blessed are they who hunger and thirst for
+justice, for they shall be satisfied.")  Already at the exit of
+the preceding circle of the avaricious this beatitude had served
+in part; see ^Purg.~ XXII, 6: "con '^sitiunt~,' sanz'altro."  Now
+"sitiunt" is omitted and "esuriunt" is cited in the paraphrase,
+this applying more appropriately to gluttony, even as thirst to
+desire for riches.
+
+	|cui~: I.e., ^coloro i quali.~ 		|alluma~ =
+^illumina.~  "Tanto di grazia" is the subject.  Cf. "allumati" in
+^Purg.~ XXI, 96.
+
+	|amor del gusto~: Love of the palate, i.e., of that which
+pleases the palate.
+
+	|non fuma~: "Amor del gusto" is the subject and "troppo
+disir" the object of "fuma."
+
+	|esuriendo sempre quanto @e giusto~: This is perhaps
+deliberately ambiguous and is the richer in meaning for being so. 
+It can mean either hungering as much as is right (observing
+temperance in eating) or hungering after all that is just, i.e.,
+after justice, as the beatitude has it.
+
+

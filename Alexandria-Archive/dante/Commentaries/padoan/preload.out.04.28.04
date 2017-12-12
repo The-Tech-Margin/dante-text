@@ -1,0 +1,108 @@
+
+Document parameters:
+	Doc. type  = Description
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante        432 Apr 28 13:18 staging/desc
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Padoan
+	Language   = Italian
+	Pub. Year  = 1967
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/01
+
+Filtering 01.e...
+Verifying ../staging/inf/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     126255 Apr 28 13:18 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/02
+
+Filtering 02.e...
+Verifying ../staging/inf/02...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     106532 Apr 28 13:18 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/03
+
+Filtering 03.e...
+Verifying ../staging/inf/03...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      97246 Apr 28 13:18 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/04
+
+Filtering 04.e...
+Verifying ../staging/inf/04...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     148900 Apr 28 13:18 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/05
+
+Filtering 05.e...
+Verifying ../staging/inf/05...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     141600 Apr 28 13:18 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/06
+
+Filtering 06.e...
+Verifying ../staging/inf/06...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     102451 Apr 28 13:18 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/07
+
+Filtering 07.e...
+Verifying ../staging/inf/07...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     122153 Apr 28 13:18 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file ../staging/inf/08
+
+Filtering 08.e...
+Verifying ../staging/inf/08...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      97924 Apr 28 13:19 ../staging/inf/08

@@ -1,0 +1,348 @@
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Vellutello
+	Language   = Italian
+	Pub. Year  = 1544
+	Cantica    = 10-Inferno
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 01.e...
+Verifying ../staging/inf/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      52976 Jan  4 15:30 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 02.e...
+Verifying ../staging/inf/02...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      52224 Jan  4 15:30 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 03.e...
+Verifying ../staging/inf/03...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      47873 Jan  4 15:30 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 04.e...
+Verifying ../staging/inf/04...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      49250 Jan  4 15:30 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 05.e...
+Verifying ../staging/inf/05...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      52814 Jan  4 15:30 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 06.e...
+Verifying ../staging/inf/06...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      34152 Jan  4 15:30 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 07.e...
+Verifying ../staging/inf/07...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      51297 Jan  4 15:30 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 08.e...
+Verifying ../staging/inf/08...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      35151 Jan  4 15:30 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 09.e...
+Verifying ../staging/inf/09...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      53742 Jan  4 15:30 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 10.e...
+Verifying ../staging/inf/10...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      30696 Jan  4 15:30 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 11.e...
+Verifying ../staging/inf/11...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      31057 Jan  4 15:30 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 12.e...
+Verifying ../staging/inf/12...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      49320 Jan  4 15:30 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 13.e...
+Verifying ../staging/inf/13...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      41858 Jan  4 15:30 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 14.e...
+Verifying ../staging/inf/14...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      43831 Jan  4 15:30 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 15.e...
+Verifying ../staging/inf/15...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42550 Jan  4 15:30 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 16.e...
+Verifying ../staging/inf/16...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      39583 Jan  4 15:30 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 17.e...
+Verifying ../staging/inf/17...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      41221 Jan  4 15:30 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 18.e...
+Verifying ../staging/inf/18...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      32049 Jan  4 15:30 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 19.e...
+Verifying ../staging/inf/19...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42591 Jan  4 15:30 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 20.e...
+Verifying ../staging/inf/20...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      38634 Jan  4 15:30 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 21.e...
+Verifying ../staging/inf/21...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      33518 Jan  4 15:30 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 22.e...
+Verifying ../staging/inf/22...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      27098 Jan  4 15:30 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 23.e...
+Verifying ../staging/inf/23...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      43943 Jan  4 15:30 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 24.e...
+Verifying ../staging/inf/24...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      49915 Jan  4 15:31 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 25.e...
+Verifying ../staging/inf/25...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      37457 Jan  4 15:31 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 26.e...
+Verifying ../staging/inf/26...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      41762 Jan  4 15:31 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 27.e...
+Verifying ../staging/inf/27...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42510 Jan  4 15:31 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 28.e...
+Verifying ../staging/inf/28...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42915 Jan  4 15:31 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 29.e...
+Verifying ../staging/inf/29...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      30966 Jan  4 15:31 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 30.e...
+Verifying ../staging/inf/30...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      33822 Jan  4 15:31 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 31.e...
+Verifying ../staging/inf/31...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      39084 Jan  4 15:31 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 32.e...
+Verifying ../staging/inf/32...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      34382 Jan  4 15:31 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 33.e...
+Verifying ../staging/inf/33...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      30439 Jan  4 15:31 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 34.e...
+Verifying ../staging/inf/34...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42742 Jan  4 15:31 ../staging/inf/34

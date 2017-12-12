@@ -1,0 +1,156 @@
+	|Proemio.~  <Non era ancor di l@a Nesso arrivato>.  Hoc
+capitulum dividitur in duas partes.  In prima tractat de poena
+violentorum in se ipsosmet; et hoc usque ibi: <Noi eravamo
+ancora al tronco attesi>.  Ibi secunda, in qua tractat de
+violentis de rebus suis; et hoc usque in finem.
+
+	|1-9.~  Ad primam igitur auctor, dicto de violentia, quae
+committitur circa proximos et eorum res, procedit ad narrandum
+poetica figuratione de secunda violentia, quae committitur per
+nos aliquando in nobis ipsis et in rebus nostris; fingendo se
+devenisse ad quoddam nemus asperius quam sint illa nemora
+silvestria nostra, quae sunt inter Cecinam et Cornetum in
+Patrimonio.  Illud nemus figurat statum hominum se desperantium
+et occidentium; et merito.  Nam sicut nemus est status et
+collectio rerum animatarum solum in anima vegetabili, ut plantae,
+et homines abjicientes a se animam rationabilem et sensitivam, ut
+faciunt homines se desperantes, quasi ut insensibiles possunt et
+lignum et arbor censeri.  Et quia mortui plus non vegetantur,
+fingit dictum nemus et ejus plantas desiccatas.  Ad hoc inducatur
+quod dicit Philosophus in 2.+o~ de anima, scilicet, quod ^vivere
+est esse viventium, et quia vivere est diversis modis, sicut in
+plantis vegetare et sublevare, nutrire et augere, in brutis
+vegetare et sentire, in homine et rationari et intelligere; et
+quia res debent denominari a nobiliori parte, sic si homo absque
+ratione recedit a suo esse, potest dici non esse.~  Et in eodem
+libro Aristoteles ait: quod ^potentiae animae ita supra se
+stant,~ ut jam alias supradixi, ^sicut figurae trianguli et
+pentanguli,~ idest sicut figura quinque angulorum est super
+quadrangulum; et sic de aliis.  Ita anima intellectiva stat supra
+sensitivam, et sensitiva supra vegetativam.  Unde sicut levando
+unum angulum de pentangulo remanet quadrangulus, et removendo
+alium remanet triangulus; et sicut non est pentangulus neque
+quadrangulus, ita homo elevando sibi rationem non remanet homo,
+sed animal sensitivum, et elevando sibi sensibilitatem remanet
+vegetabilis, ut planta.  Nam velle non esse, ut volunt homines se
+necantes, contra rationem et sensibilitatem est.  Unde Boetius in
+3.+o~ ait: ^nam ne in animalibus quidem manendi amor ex animae
+voluntatibus, verum ex naturae principiis venit.~  Et sic
+metaphorice, intransitive ac tropologice loquendo auctor fingit
+tales in plantis esse.  Ad quod ait Salomon Ecclesiaste 6.+o~ ^Non
+extollas te in cogitationibus animae tuae velut taurus, ne forte
+elidatur virtus tua per stultitiam, et relinquaris velut lignum
+aridum in eremo.~  Et Mathei 21.+o~ ^Figura hominis absque gratia
+est sicut ficus maledicta.~  Unde Bernardus: ^homo absque gratia
+ut desperans est velut arbor silvestris, ferens fructus, quibus
+porci infernales, ut Harpyiae hic, pascuntur.~  Et idem Salomon
+Proverbiorum primo etiam de talibus ait: ^ipsi contra sanguinem
+suum insidiantur, et moliuntur fraudes contra animas suas~:
+subaudi, rationalem et sensitivam.  Huic desperationi
+contrariatur timor secundum Philosophum in 4.+o~ Metaphysicae.  Sed
+ita desperatio praesupponit desiderium, ut spes, et non importat
+solum privationem spei, sed quemdam recessum a re desiderata
+propter aestimatam impossibilitatem adipiscendi.  Item non
+respicit malum sub ratione mali, sed per accidens, quandoque
+respicit malum in quantum facit impossibilitatem adipiscendi.  Et
+dicitur peccatum in Spiritum sanctum desperatio, si fiat ex
+contemptu et malitia, quod non remittitur in hoc saeculo, subaudi
+de facili, neque in futuro, ut in Juda.  Dicendo, tale nemus,
+idest statum et famam horum desperatorum, non habere viam, idest
+quia nostrum cogitamen non potest ambulare cognoscendo talem
+casum: et frondes siccae sunt, quia eorum sunt memoriae
+extinctae.  Item dicit quomodo ibi plantae efficiuntur, et causam
+quare corpora non habebunt.  Ad quod dicitur in Decretis: ^Judas
+omnium redemptorem vendidit, mox laqueo suspensus eamdem
+redemptionis gratiam non obtinuit; et merito, quia nemo potest
+retinere quod vendidit.~
+
+	|10-12.~  Subdendo de Harpyis ibi se collocantibus et
+pascentibus: circa quod est sciendum quod poetae fingunt, quod
+quidam nomine Phineus filios suos de incestu a noverca accusatos
+caecavit, propter quod Jupiter ipsum Phineum etiam caecavit, et
+Harpyias misit ad ejus cibaria faedandum, ut canes infernales.
+Unde Lucanus: ^...stygiasque canes in luce superna Destituam.~  
+Et Virgilius: ^Silvarum visaeque canes ululare per umbras.~  Sed
+Zetus et Calais filii Boreae dictum Phineum liberaverunt ab eis,
+et dictas Harpyias fugaverunt in quasdam insulas in Romania, quae
+dicuntur Strophades.  Ad quas insulas Aeneas, cum sua comitiva
+applicans, eas etiam fugavit.  Et scias quod dictae Harpyiae
+dicuntur fuisse tres, scilicet Aello, Ocypete et Celaeno: quae
+Celaeno tunc praenuntiavit magnam famem Aeneam cum sua gente
+passurum antequam Italiam ingrediatur, adeo ut propter famem
+cisoria comederent.  Et haec fuit ^nuntiatio futuri damni.~  Et
+ita evenit, ut notat Virgilius in VII.  De quibus etiam Harpyis
+notat Virgilius in III.+o~ ^Servatum ex undis Strophadum~ etc. 
+Figura vero harum talis esse potest.  Harpiyae, idest ^rapinae~;
+nam ^arpa~ graece, latine ^rapina~ sonat.
+
+	|13-15.~  Habent virgineos vultus, quia rapina arida et
+sterilis et sine fructu, ut virgo.  Item habent plumas, idest
+jaculationes rerum raptarum: et ungulatas, seu unguatas manus,
+scilicet ad cito rapiendum et retinendum.  Et ideo prima dicitur
+Aello, idest alienum capiens: secunda Ocypete, idest rapiens:
+tertia Celaeno, idest abscondens ablatum.  Et dicuntur filiae
+Neptuni allegorice.  Sic Phineus a foenerando dicitur, et ponitur
+in modum avaritiae, quae se ipsam et nos caecat, cum avarus sua
+non videat, nec acquisita respiciat, sed habenda; et ideo
+Harpyiae, idest rapinae, faedant sua cibaria.  Et quia undique
+avari et cupidi rapiunt, si possunt, has rapinas, idest certos
+piratas sub figura Harpyiarum Aeneas expulit de dictis insulis. 
+Modo ad propositum, quia se ipsum homo occidendo, et sua bona
+fundendo, rapit sibi vitam et bona, ideo sic Harpyias fingit
+depascere tales desperatos in cespitibus figuratos.
+
+	|31-33.~  Fingendo invenire Petrum de Vineis de Capua,
+Cancellarium Imperatoris Frederici, qui se ipsum occidit, et illa
+verba, quae in textu recitantur; faciendo suis frondibus auctor
+inconsulte prout dicit Virgilius fecisse Aeneam ramis Polydori,
+dicens: ^Quid miserum, Aenea, laceras? jam parce sepulto~ etc.
+
+	|64-66.~  Et quod dicit de meretrice, quae numquam ab
+hospitio Cesaris etc. intelligit invidiam.  Unde Seneca in
+tragoediis: ^simul ista mundi conditor posuit Deus, odium atque
+regnum.~  Sola miseria caret invidia secundum Tullium.  Et haec
+pro ista parte.
+
+	|115-123.~  Ad secundam auctor venit ad tractandum de
+specie illorum desperatorum, qui non se occidunt propriis
+manibus, sed causam invenerunt moriendi propter defectum
+facultatum, exemplificando de illo Lano Senensi, qui de divite
+factus est pauper, et ut desperatus se moriturum inter inimicos
+praecipitavit in contrata, quae dicitur Toppo.  Ideo tales fingit
+ibi ut homines, quia in considerationibus nostris non ut plantae,
+sed ut homines remanserunt; et dicit eos nudos, scilicet
+facultatibus.
+
+	|124-129.~  Canes vero persequentes eos et devorantes
+sunt creditores, seu indigentiae supervenientes post lapsum
+facultatum, unde ut desperati fugiunt homines et se occultant, ut
+facit iste Dominus Jacobus de Sant'Andrea de Padua, qui fusis
+omnibus suis bonis ut desperatus obiit.  De quibus Salomon:
+^projecit in vita sua intima sua.~  Ac etiam de hujusmodi pulcre
+Ovidius fabulizat de Actaeone venatore converso in cervum a
+Diana, et a suismet canibus lacerato, quamvis clamaret: ^Actaeon
+ego sum, dominum cognoscite vestrum~; cujus fabulae figura et
+intellectus est.  Actaeon iste dudum dives adeo institit
+venationibus, quod depauperatus est in totum.  Et ideo Diana,
+idest venatio, convertit eum in cervum, idest in personam timidam
+et fugacem; in nemus, idest in statum desperationis; et a canibus
+consumtus, idest a necessitatibus annichilatus.  Ad quod facit
+quod scribit Innocentius Papa quarto libro de contemptu mundi
+dicens: ^heu quam perfida est conditio mendicantis, quia si
+petit, necessitate compellitur, et dum petit, rubore compescitur,
+et si non petit, necessitate consumitur.~  Et Seneca ad Lucilium:
+^O onerosum verbum vultuque demisso dicendum, rogo.~
+
+	|139-151.~  Faciendo loqui illum spiritum in cespite
+laceratum, dicendo quod est Florentinus: loquendo auctor hic a
+communiter accidentibus.  Nam saepe accidit in illa civitate
+homines se ipsos suspendentes; et ratio, quia sub ascendente
+Martis constituta est Florentia, qui est planeta bellicosus et
+mortifer, conducens etiam ad tales desperationes.  Modo quia
+tempore Paganesmi Florentiae adorabatur Mars, modo non, sed
+sanctus Joannes Baptista, ideo sic ibi facit: de cujus statua
+tunc erat adhuc super quodam ponte Arni in dicta terra.  Ex quo
+in totum non est iratus dictus Mars contra eos.  Et haec
+sufficiant.

@@ -1,0 +1,452 @@
+	|Proemio.~  L'Auttore, poi che ser Brunetto si part@i da
+lui correndo per giugnere suoi compagni, com'@e detto nel
+precedente capitolo, and@o tanto, Virgilio et elli, su per
+l'argine del fiume, ch'egli pervennono dove l'acqua scendea del
+fiume, et cadea dal VIJ cerchio nello ottavo.  Dividesi questo
+canto in nove parti.  La seconda comincia quivi: ^Quando tre
+ombre~ {v. 4}; la terza quivi: ^Et se miseria~ {28}; la quarta
+segue: ^Poi cominciai~ {52}; la quinta appresso: ^Se lungamente~
+{64}; la sesta soggiugne: ^La gente nuova~ {73}; la settima poi:
+^Io il seguiva~ {91}; tocca l'ottava: ^Io avea una corda~ {106};
+la nona et ultima: ^Ch'io vidi per quel~ {130}.  Nella prima
+parte dice l'Auttore ch'egli era tanto innanzi ito ch'egli udiva
+il romore dell'acqua del fiume che scendea; et mostra quel romore
+per una similitudine come nel testo si chiama.  Nella seconda
+dice che tre anime si partirono della schiera dell'altre, et
+venivono verso loro, et pregavono l'Auttore ch'egli aspettasse,
+per@o che all'abito parve loro essere da Firenze; i quali Virgilio
+conforta l'Auttore che gli aspettasse, et intendesse quello che
+li volevono dire.  Nella terza queste tre anime pregono l'Auttore
+che, per amore della fama ch'egli ebbono nel mondo, gli piaccia
+di manifestarsi loro; et appresso l'uno nomina gli altri et se
+stesso: delle quali anime l'Auttore mostra d'avere compassione. 
+Nella quarta si manifesta l'Auttore a questi con cui parla, et
+dice che sempre con grande amore cerc@o l'opere loro, et ud@i la
+fama ch'era di loro nel mondo: et dice ch'egli avea lasciate le
+cose del secolo, et andava cercando le virtuose, promesse a lui
+per la ragione demostrativa.  Nella quinta dimandono l'Auttore
+dello stato della citt@a di Firenze, et se dentro a essa v'erono
+degli uomini virtuosi come gi@a ebbe.  Nella sesta l'Auttore
+risponde et dice che i nuovi uomini, i quali sono fatti cittadini
+di Firenze, non hanno amore alla patria come gli antichi; et
+ancora i subiti et inopinati guadagni ch'egli hanno fatti hanno
+generato nella terra oltraggi et dismisura.  Nella settima
+discrive il fiume et il luogo che truova, con alcuna
+similitudine.  Nell'ottava, fatta alcuna allegoria, dimostra come
+la ragione umana, la quale intende per Virgilio, come pi@u volte @e
+detto, discerne et dirizza ogni cosa.  Dice adunque in questa
+ottava parte et nell'ultima l'Auttore ch'egli avea cinta una
+corda, la quale, come Virgilio gli comand@o, la si scinse, et
+annodata et avvolta, gliele pose in mano; onde Virgilio la gett@o
+dalla sponda nell'acqua, et subito apparve notando una cosa
+maravigliosa et fiera, come pi@u distesamente nel seguente
+capitolo si mosterr@a.  Ma qui intende l'Auttore per Virgilio la
+ragione umana: la corda, la quale egli gett@o avviluppata et
+ravvolta, s'intende per la froda, per@o che l'uomo frodolente,
+acci@o che gli venga fatto il suo pensiero, il quale egli ha
+sempre teso per offendere altrui, non parla mai schiettamente;
+per@o che, s'elli parlasse quello ch'egli ha nell'animo, altri si
+guarderebbe da lui; ma parla suffisticamente, con nuovi colori et
+con nuove volte, et con nuovi nodi di parole, non parlando mai
+disteso, ma sempre ritenendo et sostegnendo il dire suo.  Dice
+ancora che per questa corda incontanente venne la fiera.  Per
+questo vuole mostrare che la ragione umana assai volte piglia
+colla corda la frodolenza, ci@o @e colla froda si piglia la froda:
+verbi grazia uno uomo pieno di ragione umana, volendo vedere la
+intenzione d'uno uomo frodolente, le pi@u delle volte la veder@a
+con frode, per@o che, se l'uomo si mosterr@a buono, incontanente il
+reo et il frodolento si guarder@a da lui; et mai non li paleser@a
+la sua intenzione; ma quando gli parr@a reo come egli, allora
+s'assicura di palesarsi a lui.  Et per questo modo assai
+trattati, fatti per sudditi contro a' loro signori, si sono
+manifestati in questo modo, che alcuno cortigiano, di cui il
+Signore si fida, s'@e mostrato stare male col Signore; et
+accozzatosi cogli altri che gli vogliono male, mostrando di
+volere tradire il Signore, hae saputa la intenzione de'
+traditori, i quali per questo inganno a lui si sono palesati. 
+Ancora, perch@e ne' due precedenti capitoli, et in questo et nel
+seguente, l'Auttore ha trattato et tratter@a di tre maniere di
+peccatori, i quali dice essere tormentati da etternale fuoco;
+cos@i l'una generazione come l'altra, in questo capitolo
+convenevolmente, perch@e tiene il mezzo, @e da trattare della loro
+allegoria.  Dice che le tre qualit@a de' peccatori sono puniti da
+etternale fuoco, il quale continuamente con dilatate falde piove
+addosso a queste anime: et queste stanno in sulla rena calda. 
+Sono queste tre qualit@a di peccatori divise per tre maniere di
+peccati.  I primi sono quelli che offendono Iddio, bestemmiando
+et negando la deit@a: i secondi sono quelli che hanno peccato
+contro a natura; et questi sono soddomiti: i terzi sono quelli
+che hanno offeso la natura, la quale noi diciamo essere figliuola
+di Dio; et per conseguente l'arte, la quale @e figliuola della
+natura: et questi sono usuraj.  Sono questi adunque tormentati
+dal fuoco, per@o che, come l'opere loro furono sterile et non
+produttive di veruna cosa, cos@i il fuoco @e sterile et non
+generativo, ma distruttivo: et per tanto feciono i Romani uno
+tempio a onore della deit@a del fuoco, il quale chiamavono il
+tempio della dea Vesta, et in questo tempio, a volere mostrare
+che 'l fuoco non era generativo ma distruttivo, rinchiudeono
+vergini, quali dovevono stare al servigio della deit@a; et per
+questo era loro manifesto ch'elle doveano stare vergini, et non
+doveono avere figliuoli.  Sono posti questi peccatori ancora in
+sulla rena per simile ragione, per@o che chi seminasse o piantasse
+veruno arbore, o veruna sementa facesse, in sulla rena, non
+nascerrebbe, et per conseguente non farebbe alcun frutto.  Stanno
+in sulla rena supini i peccatori, i quali hanno per suberbia
+bestemmiato et negata la deit@a: et per questo vuole mostrare
+l'Auttore che la giustizia di Dio gli abbatte, et come egliono
+tennono il capo alto nel mondo, bestemmiando et dispregiando
+Iddio, cos@i stanno per contrario abbattuti in terra, et non a
+modo che gli umili, i quali, umiliando, si gettono bocconi in
+terra; costoro stanno supini a modo di quelli che vuole pure
+risistere col petto innanzi, tanto che finalmente egli @e
+abbattuto et cade rovescio prostrato.  Gli altri, i quali
+peccorono contro a natura, ci@o @e i soddomiti, vanno
+continuamente: et per questo vuole mostrare l'Auttore la qualit@a
+del peccato loro, il quale discorse nello appetito loro con
+sfrenata lussuria, senza veruno freno et senza veruno ordine;
+cos@i a simile senza mai posarsi, senza veruna misura, per lo
+'nferno discorrono.  I terzi, i quali peccorono offendendo l'arte
+et prestando a usura (Usura @e detta ab ^usu~ ci@o @e da prestare il
+tempo a uso), costoro stanno raccolti a sedere; et per questo
+vuole mostrare l'Auttore la loro vilt@a et la loro miseria, i
+quali, senza veruna buona imaginazione d'acquistare mai veruna
+virt@u, se non solamente acquistando et accumulando danari, si
+stettono pigri et miseri.  Sono trovati assai, i quali sono stati
+continui in uno posto senza mai indi partirsi, et X et XV anni
+raccolti in uno picciolo luogo; et cos@i la giustizia di Dio
+miseramente gli fa stare in inferno raccolti.
+
+	|1-3.  Gi@a era in loco ove s'udia il rimbombo~: Chiaro
+appare per quello ch'@e stato detto.  |Simile a quel~: Per@o che
+questo romore dell'acqua che cade non ha proprio vocabolo,
+l'assomiglia l'Auttore, et dice ch'elli @e simile a quello rombo
+che fanno l'api all'arnie, ci@o @e loro casse, ov'elle fanno il
+miele.
+
+	|4-6.  Quando tre ombre insieme~: Mostra che queste anime
+non fossero pure in una schiera, ma in pi@u: onde dell'una di
+queste schiere si partirono queste tre ombre, sotto quelle
+fiammelle che piovevono.
+
+	|8-9.  Sostati tu, che all'abito~: Ci@o @e, hai il
+vestimento che a quel tempo usavono i Fiorentini.
+
+	|16-18.  Et se non fosse il foco~: Virgilio conobbe
+costoro che chiamorono l'Auttore essere uomini di grande
+autorit@a; et per@o dice all'Auttore che, se non fosse che la
+natura del loco ove egli erano saettava il fuoco, ci@o @e quelle
+fiammelle, ch'elli arebbe confortato l'Auttore d'essere loro ito
+incontro.  Et qui si pu@o comprendere che gli spiriti, con ci@o sia
+cosa che elli sieno spogliati della carne, ch'elli conoscono et
+comprendono le cose per piccioli segni come fece Virgilio.
+
+	|19-21. Ricominciar come ristemo, ei~: Ci@o @e elli. 
+|L'antico verso~: Ricominciorono a dire: Sostati tu che a l'abito
+n'assembri.  |Fero una rota di s@e~: Giraronsi attorno, per@o
+ch'era loro vietato di star fermi, et per schermirsi meglio dal
+fuoco.
+
+	|22-24.  Qual soleono i campioni~: Solevasi anticamente
+fare certi giuochi che si chiamavono i giuochi della palestra,
+dove gli uomini si spogliavono ignudi, et qual si vestia di cuojo
+assettatissimo, et ugnevonsi o di sevo o di sapone, et poi si
+pigliavono alle braccia, et sforzavasi di gettare in terra l'uno
+l'altro: et per@o ch'egli erono unti, facevono grande resistenzia. 
+Ora, innanzi ch'elli venissono alle mani, avvisava in prima
+ciascuno, volgendosi attorno, d'avere migliore presa.  Chiamali
+l'Auttore a modo taliano questi combattitori Campioni.
+
+	|25-27.  Sicch@e contrario al collo~: Per@o che, volgendosi
+costoro a ruota, non potevono tuttavia essere rivolti col viso
+verso l'Auttore, si sforzavono et rivolgevonsi addirietro; et
+pertanto dice che i pi@e andavono verso una parte et il viso verso
+un'altra.
+
+	|28-33.  La nostra fama il tuo~: L'uno di costoro
+incominci@o a parlare a l'Auttore et dire: Se 'l nostro aspetto
+unto et brollo, ci@o @e povero, ci fa dispettosi, la nostra fama ti
+muova a volere parlare con noi.
+
+	|34-36.  Questi l'orme~: Chiaro appare.
+
+	|37-39.  Nipote fu della buona Gualdrada~: Egli @e da
+sapere che negli anni di Cristo VIIIJ cento LV, Otto I+o~ fu eletto
+imperadore, et coronato et consecrato in Roma da papa Leone. 
+Questo Otto fu di Sansognia, et regn@o imperadore dodici anni. 
+Questo Otto amend@o molto Italia, et missela in pace et in buono
+stato, et abbatt@e le forze de' tiranni: et al suo tempo assai de'
+suoi baroni rimasono signori in Toscana et in Lombardia, in fra'
+quali fu il cominciamento de' Conti Guidi; de' quali il primo
+ebbe nome Guido, che il fe conte paladino, et diegli Modigliano
+et il suo contado in Romagna; et poi i suoi discendenti furono
+quasi signori di tutta Romagna, infino che furono cittadini di
+Ravenna, et tutti furono morti dal popolo di Ravenna per li loro
+oltraggi, salvo che uno piccolo fanciullo che avea nome Guido,
+sopranominato ^sangue~ (et chi dice ^Besangue~, per che i suoi
+furono tutti morti in sangue), il quale per lo imperadore Otto
+quarto fu fatto signore in Casentino.  Per@o che Otto imperadore,
+tornando da Roma et ricevuto onorevolmente nella citt@a di
+Firenze, fecesi in quel tempo, forse per onorarlo, una bella
+festa in san Giovanni Battista, alla qual festa vennono tutte le
+donne belle et orrevoli di Firenze; onde lo 'mperadore, sentendo
+questa festa, venne co' suoi baroni in san Giovanni, et per@o che
+messer Bellincione Berti de' Ravignani era il maggiore cittadino
+di Firenze, lo 'mperadore, per onorare lui et la terra, l'aveva
+sempre al lato; et ancora per dimandarlo delle condizioni della
+terra.  Menollo adunque seco in santo Giovanni; et guardando ora
+una giovane et ora un'altra, vidde la figliuola di messer
+Bellincione, ch'era una delle pi@u belle giovani di Firenze et
+costumata et accorta, la quale ebbe nome Gualdrada.  Piacque
+costei forte allo 'mperadore: non cognoscendola dimand@o messer
+Bellincione chi ell'era: messer Bellincione disse: <Costei @e una
+che io ne posso fare a mio senno>; dice alcuno ch'egli disse:
+<Questa vi posso io fare baciare, quando vi piacessi>.  La
+fanciulla era s@i presso ch'ella intese il padre; disse, arrossita
+tutta per vergogna: <Padre mio, non profferite cos@i di largo le
+cose che non sono vostre: voi avete poco cara l'onest@a mia; e'
+non @e veruno che di me potesse fare a suo senno, se non colui che
+fosse mio marito>.  Allo 'mperadore piacque questa risposta, che
+fu bella et notabile.  Incontanente disse: <E' conviene che,
+innanzi che io mi parta, io ti dia uno che di te possa fare a suo
+senno>.  Chiam@o il conte Guido Besangue, et fece ch'elli spos@o
+questa giovane, et fecelo signore in Casentino: di costui et
+della giovane poi sono discesi i conti Guidi.  Fu adunque il
+conte Guido Guerra nipote del conte Guido Besangue, et di questa
+Gualdrada, figliuolo del figliuolo, il quale fu valoroso uomo et
+in senno et in arme; che rade volte sogliono queste due virt@u
+regnare insieme, le quali compiutamente furono in costui.  Fu
+questo conte Guido del consiglio del re Carlo vecchio; et per lo
+senno suo et per lo suo valore, ebbe il re Carlo vittoria contro
+al re Manfredi, et venne al di sopra d'ogni sua impresa.
+
+	|40-42.  L'altro che appresso a me~: Fue costui Teghiajo
+Aldobrandi degli Adimari, il quale fu notabile et valoroso uomo. 
+Trovasi nella vecchia cronaca intitolata in Giovanni Villani,
+che, avendo mandato il re Manfredi, a petizione degli usciti
+Ghibellini di Firenze, VIIJ cento uomini a cavallo Tedeschi col
+conte Giordano loro capitano, et i detti Tedeschi non erano
+pagati per pi@u di tre mesi, et giunti a Siena, et passato gi@a un
+mese et mezzo, n@e il re Manfredi non arebbe pi@u speso, n@e gli
+usciti aveano pi@u danari; et compiuto il termine di tre mesi, si
+tornavono in Puglia, et i Sanesi et gli usciti da Firenze
+rimaneano in male stato, non adoperando niente.  Fu commessa la
+faccenda che con alcuna maestr$ia di guerra si facesse di trarre a
+campo fuori i Fiorentini in messer Farinata degli Uberti et in
+messer Cherardo Chioccia de' Lamberti.  Costoro sottilmente
+ordinorono due savj et saputi Frati minori loro messaggi al
+popolo di Firenze, et innanzi gli accozzorono con otto cittadini
+i pi@u possenti di Siena, i quali fintamente feciono veduto a
+questi frati come spiacea loro la signor$ia di messer Provenzano
+Salvani, ch'era il maggiore del popolo di Siena, et che
+volentieri darebbono la terra a' Fiorentini: di che per questa
+cagione si raun@o uno consiglio in Firenze.  Sposta i Frati la
+loro commessione, dove si propose che parea agli Anziani che si
+facesse oste per fornire Montealcino, i nobili delle gran case
+Guelfi di Firenze, non parendo loro che oste si facesse,
+commissono in messer Teghiajo Aldobrandi la loro intenzione, et
+ch'egli rispondesse per tutti con quelle ragioni che appresso si
+diranno, il quale disse che, cagnoscendo la masnada de' Tedeschi
+ch'era venuta a Siena, et la mala vista che avea fatto il popolo
+di Firenze l'anno passato a santa Petronilla, non parea loro la
+'mpresa senza gran pericolo, et che Montalcino si potea fornire
+per gli Orbetani, et che, compiuto il termine di tre mesi, i
+cavalieri Tedeschi s'avevono a partire.  Lo Spedito il riprese,
+mentre dicea, dicendo ch'egli si cercassi le brache, s'egli avea
+paura.  Messer Teghiajo rispose che al bisogno non ardirebbe di
+seguirlo nella battaglia.  Ora per questo che l@a dove innanzi
+trattammo della tornata de' Ghibellini in Firenze, ne facemmo
+menzione, non @e da estendersi pi@u innanzi: et basti questo ch'@e
+detto per memoria di messer Teghiajo.
+
+	|43-45.  Et io che posto sono... in croce~: ci@o @e
+tormentato.  Fu costui uno popolare di Firenze di picciol sangue,
+cavaliere, chiamato messer Jacopo Rusticucci, il quale fu
+valoroso uomo et piacevole.  Ebbe costui una sua moglie, diversa
+et spiacevole tanto, che costui la divise et seperolla da s@e, et
+mandolla a casa i parenti suoi.  Ora, per che egli era giovane et
+onesto uomo, credendo potere meglio coprire colla usanza de'
+giovani che delle femmine, us@o questo peccato, come che rade
+volte.
+
+	|46-48.  S'io fossi stato dal foco~: Qui mostra l'Auttore
+l'amore et l'affezione ch'egli avea a costoro; et per questo
+comprende alcuno, l'Auttore essere stato maculato di questo
+vizio, per@o che sua usanza @e che quante volte egli trova
+peccatori essere puniti d'alcuno vizio di che egli abbia sentito,
+se ne duole et hanne compassione, pensando similmente essere
+punito elli.
+
+	|52-57.  Parole per le quali~: Com'io senti' da Virgilio
+di vostro essere, incontanente ebbi compassione di voi.
+
+	|58.  Di vostra terra sono~: Ci@o @e da Firenze.
+
+	|61-63.  Lascio lo fele~: Il fele, ci@o @e l'amaritudine de
+vizj.  |E vo pe' dolci pomi~: Ci@o @e per le virt@u teologiche et
+per la beatitudine a lui promessa per Virgilio nel principio del
+libro, dove disse: ^Alle qua' poi se tu vorrai salire~ {^Inf.~ I,
+121}; ma pria ch'io vada lass@u convien ch'io vadia infino al
+centro dello 'nferno.
+
+	|67-72.  Ch@e Guiglielmo Borsiere~: Questi fu uno uomo di
+corte che ricevette l'altrui cortesia, et disse loro che tutta
+quella condizione che a loro tempo era in Firenze al tutto era
+mutata, onde costoro se ne dolgono, et per@o ne dimandono.  Fu
+Guiglielmo di quello medesimo vizio lordo: us@o con valenti
+uomini, et da loro portava fama et pregio: visse molto tempo per
+la sua buona complessione, tanto che ogni buono costume era
+mutato in Firenze quando elli mor@i.
+
+	|73-75.  La gente nuova e i subiti~: La cagione, dice
+l'Auttore, perch@e la citt@a di Firenze ha mutata condizione, per@o
+che i contadini et altri d'attorno a Firenze sono venuti di fuori
+a essere cittadini; et per@o che sono nuovi nella citt@a, non hanno
+tanto amore alla terra quanto gli antichi cittadini; et per@o
+hanno generata dismisura in Firenze: et ancora per guadagni
+subiti sono montati in superbia, et sono diventati orgogliosi, et
+sono cagione d'ogni male della terra.  @E vero che pare che alcuno
+senta che questo che dice l'Auttore egli intenda solo della
+famiglia de' Cerchi, i quali furono nuovi cittadini, et montorono
+in tanto orgoglio, sentendosi subitamente esser grandi et d'avere
+et di persone, ch'elli missono quella divisione in Firenze, della
+quale @e stato trattato nel sesto capitolo di questo libro, quando
+l'Auttore dimand@o Ciacco.
+
+	|76.  Cos@i gridai colla faccia~: Dice l'Auttore che
+questa risposta fece loro alzando il capo al cielo come fanno
+coloro o che priegono Iddio, o che contro a lui s'adirono.
+
+	|77-78.  E i tre che ci@o inteser~: Dice l'Auttore che
+avea diritto il parlare suo verso la citt@a di Firenze, di che
+questi tre, quello ch'elli avea detto avevono ricevuto per
+risposta alla dimanda loro.
+
+	|82-85.  Quando ti gioverr@a dicere io fui~: Coloro che di
+strano paese sono tornati a casa loro, giova loro di dire: <Io
+fui in tale luogo, et nel tale>; et fanno novelle.  Cos@i dicono
+all'Auttore: Quando tu sarai tornato, fa che parli bene di noi
+alla gente.
+
+	|88-89.  Uno amen~: |Amen~ @e nome ebreo, et tanto vuole
+dire quanto ^Sia~ in latino.
+
+	|91-93.  Che 'l suon dell'acqua~: Avicinavansi dove
+l'acqua cadea dal sesto cerchio nell'ottavo, et eran s@i presso
+che per parlare non sarieno stati intesi.
+
+	|94-96.  Come quel fiume ch'@a proprio~: Egli @e da sapere
+che sopra Monferrato et Canavese @e uno monte chiamato Veso, il
+quale divide la Provenza da Italia, et @e il principio di monte
+Appennino, come che ancora pare che monte Appennino, partendosi
+dal monte abbia il principio suo pi@u innanzi, ci@o @e tra Varo, che
+@e uno fiume, et Tunizi.  Ora questo monte Appennino, partendosi
+da monte Veso si stende verso la Lombardia per Frigoli sopra la
+riviera di Genova, per Carfagnana, per le montagne di Modana et
+di Pistoja sopra Bologna, et per Romagna, et per la Marca
+d'Ancona, per Abruzzo, per Puglia, infino al Faro di Messina: ivi
+divide uno piccolo braccio di mare, questo monte di monte Pelloro
+ch'@e in Sicilia; et questo monte Appennino, partendosi da monte
+Veso, onde esce il Po, il quale corre per Lombardia, ricogliendo
+assai fiumi in s@e, et finalmente mette in Romagna nel mare
+Adriano, sempre si dirizza questo monte verso Ponente; poi,
+quando viene pi@u oltre verso Romagna, si dirizza verso il
+Levante.  Ora il fiume di che parla l'Auttore, poi che questo
+monte @e verso il Levante volto, @e 'l primo fiume doppo il Po, che
+ha proprio cammino, et mette nel mare Adriano in Romagna. 
+Proprio cammino si dice avere quel fiume che va infino al mare
+senza mettere in altro fiume.  |Dalla sinistra costa~: Esce
+questo fiume dalla parte sinistra del monte, la quale @e verso
+Romagna, et la destra verso Toscana, per@o che questo monte
+Appennino, cominciandosi dal suo principio, ha sempre la sua
+dritta parte verso il mare Mediterrano, ovvero Tirreno, et la
+sinistra verso il mare Adriano.
+
+	|97-99.  Che si chiama Acqua~: Questo fiume, che ha il
+principio suo dall'Alpe di san Benedetto, per tutta l'Alpe,
+infino ch'egli discende giuso al piano, @e chiamato Acqua cheta:
+poi per Romagna muta nome, et chiamasi Montone, per@o che corre
+con grandissimo impeto.  Forl@i in grammatica @e detto Forum Livii:
+la cagione @e ch'e' Consoli romani aveano divise le province, alle
+quali aveano a tenere ragione; et per@o che molte province
+concorrevono in Romagna, stavono ivi alcuno de' Consoli a tenere
+ragione alle loro province; et facevono al luogo il tribunale,
+ci@o @e il banco dove sedeano in quello luogo; et per@o che a Forl@i
+stette uno Romano che ebbe nome Livio, fu poi la citt@a che ivi si
+edific@o chiamata per la gente che vi ven$ia, chi per suoi fatti et
+chi per guadagnare, che poi vi s'accasaro et rimasorvi, Forum
+Livii, com'@e detto.  Per questo modo assai citt@a di Romagna
+ebbono principio, come Fossumbrone, ci@o @e Forum Bruni et altre
+assai.
+
+	|100-101.  Rimbomba l@a~: San Benedetto, dove cade questo
+fiume in valle molto da alto, et fa grandissimo romore, @e una
+badia di Monaci, et per quella badia si chiama quello Alpe di san
+Benedetto.
+
+	|102.  Ove dovr$ia per mille~: Uno conte di quelli da
+Monte Granello, che fu de' conti Guidi, avendo in quella Alpe di
+san Benedetto assai suoi fedeli sparti in qua et in l@a, per avere
+pi@u utile de' suoi fedeli, et per avere a fare minore guardia,
+ordin@o di fare uno castello presso a san Benedetto, dove questa
+acqua scende, et fece tale impresa che mai n@e elli n@e altri nol
+compi@e; et per@o dice l'Auttore: dove si dovea fare ricetto per
+mille famiglie; o veramente che dica che 'l letto del fiume @e s@i
+largo che ricetto et luogo sarebbe per mille tali fiumicelli.
+
+	|103.  Cos@i gi@u d'una~: Chiaro appare la similitudine.
+
+	|106-108.  Io avea una corda~: Quello che s'intende per
+la corda @e detto nel principio et allegoria del presente
+capitolo.  Dice qui l'Auttore che colla corda, ci@o @e cogl'inganni
+et frodolenza, pens@o alcuna volta ingannare alcuna giovane
+ch'egli amava, per@o che le giovani sono assai credule et disposte
+a essere ingannate.
+
+	|111.  Porsila a lui aggroppata et avvolta~: Per@o che la
+fraudolenza @e aggroppata, ci@o @e annodata et avvolta di molti
+pensieri.
+
+	|115-117.  Et pur convien che~: Pens@o l'Auttore, per che
+Virgilio aveva gettata quella corda nel fossato, pens@o che ci@o
+non fosse senza cagione, et per@o disse: E' conviene che novit@a
+apparisca.
+
+	|118-120.  Ahi quanto cauti~: Sono di molti uomini tanto
+savj che, non solamente operando cosa che apparisce di fuori, ma
+veggendo pensare alcuno sopra quella cosa, stimeranno quello
+ch'elli debba voler fare: onde dice l'Auttore che con questi
+cotali si vuole essere cauto.
+
+	|121-123.  Et cominci@o~: Ci@o @e Virgilio.  |Et che 'l tuo
+pensier~: Per@o che l'Auttore non vedea quello che dovea essere. 
+Dice Virgilio che questo cotale immaginare @e uno sognare, per@o
+che quando @e vero et quando no, come sono i sogni.
+
+	|124-128.  Ma pur tacer~: Poi che l'Auttore ha detto come
+il vero che ha faccia di bugia non si dee dire; qui dice, et
+scusasi ch'egli non pu@o tacere ch'egli non dica cosa incredibile,
+costretto dall'ordine della sua poesia.  |Et per le note~: I
+cantori hanno con certi punti segnati i loro canti, i quali punti
+chiamono note, et secondo che queste note sono alte et basse,
+cos@i chinono et alzono le voci, onde rendono a' loro canti dolci
+concordanze; cos@i a simile l'Auttore chiama le rime di questa sua
+commedia |note~, per@o che quelle rime fanno sonare i versi et
+rendongli accordanti insieme.
+
+	|130-132.  Venir notando una~: Questa @e la Frodolenzia,
+come appresso si tratter@a.
+
+	|133-136.  S@i come torna colui~: Come colui che scende
+dalla nave per spiccare l'$ancora.  Ancora sono certi ferri
+uncinuti con certo anello, i quali si gettono in mare ognora che
+i marinaj per loro medesimi vogliono pigliare porto; et queste
+@ancore, appiccate a uno canape, il quale s'accomanda alla nave,
+stanno in sulla rena; et per la gravezza loro tengono ferma la
+nave; ch@e, come ch'ella si muova o qua o l@a, poco si pu@o
+dilungare.  Ora avviene alcuna volta che il mare ove @e gettata
+l'ancora ha cattivo fondo; onde l'ancora s'appicca a qualche
+scoglio; onde, per riavere l'$ancora, uno si spoglia et va gi@u per
+lo canape cogli occhi aperti, et spicca l'$ancora, et poi tornando
+suso alla nave, distende le braccia et ratrappa et strignesi
+dirietro, ci@o @e recandosi i pi@e verso le cosce: et cos@i simile la
+fiera.

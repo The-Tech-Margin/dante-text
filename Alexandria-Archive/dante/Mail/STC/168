@@ -1,0 +1,54 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id JAA31597
+	for <steve@avalon.dartmouth.edu>; Tue, 5 Jan 1999 09:23:07 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id JAA27543
+	for <Steve.Campbell@dartmouth.edu>; Tue, 5 Jan 1999 09:23:05 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 53496 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67811-20562>; Tue, 5 Jan 1999 09:22:13 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id JAA12588;
+	Tue, 5 Jan 1999 09:22:11 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup74.Princeton.EDU [128.112.71.74])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id JAA03823;
+	Tue, 5 Jan 1999 09:22:10 -0500 (EST)
+Message-ID: <3692202A.C7162ECA@princeton.edu>
+Date: 	Tue, 05 Jan 1999 09:22:34 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>, emme <emme@mail.dada.it>,
+        Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: information for DDP users
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Conversation with Chiamenti about Pietro3 reminds me that we really need
+a disclaimer for many of the early comms., as follows:
+
+Several of the texts of the early commentaries (Pietro di Dante is a
+particularly significant case in point) not only were not written or
+published with line indications, but fairly often move from one text to
+another without regard for the order normally followed by later
+commentators.  Users are warned that editors have on occasion moved
+blocks of text out of the order in which they appeared in the original
+published versions in order to have them correspond to the specific
+texts in Dante's poem which they address so that they can be searched in
+the most useful way.
+
+Users should also be aware that the purpose of this database is not to
+reflect questions concerning the authoritative texts of the
+commentaries.  As all acknowledge, editorial work, especially on the
+earlier commentaries, is work in progress.  The DDP has taken existing
+texts and reproduced them without attempting to reproduce the various
+apparata that often accompany modern editions of these texts.  Those
+interested in such questions will still need to consult these editions.
+
+
+I am not sure where this announcement should go, but it should be
+somewhere, perhaps in a screen after the two welcome screens. 
+Massimiliano, please feel free to offer further suggestions before Steve
+and I proceed with a final version.  RH

@@ -1,0 +1,60 @@
+%{
+/*
+ *	ddp2html - a filter to convert DDP markup to HTML markup
+ *
+ *	Compile with 'make LDLIBS=-ll ddp2html' and move the executable to ~/bin.
+ */
+char	*font = "";	/* remembers what type of font we are in */
+%}
+%%
+@[A-Za-z]	{
+		printf("&%cgrave;", yytext[1]);
+		}
+\$[A-Za-z]	{
+		printf("&%cacute;", yytext[1]);
+		}
+,[A-Za-z]	{
+		printf("&%cuml;", yytext[1]);
+		}
+#[A-Za-z]	{
+		printf("&%ccirc;", yytext[1]);
+		}
+\%[A-Za-z]+	{
+		if (!strcmp(yytext,"%o")) {
+			printf("&omicron;");
+		} else if (!strcmp(yytext,"%O")) {
+			printf("&Omicron;");
+		} else if (!strncmp(yytext,"%var",4)) {
+			printf("&%s;", yytext+4);
+		} else {
+			printf("&%s;", yytext+1);
+		}
+		}
+&		{
+		printf("&amp;");
+		}
+\"		{
+		printf("&quot;");
+		}
+\<		{
+		printf("&laquo;");
+		}
+\>		{
+		printf("&raquo;");
+		}
+\|		{
+		printf("<b>");
+		font = "b";
+		}
+\^		{
+		printf("<i>");
+		font = "i";
+		}
+\+		{
+		printf("<sup>");
+		font = "sup";
+		}
+~		{
+		printf("</%s>", font);
+		font = "";
+		}

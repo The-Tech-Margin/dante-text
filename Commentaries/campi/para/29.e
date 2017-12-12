@@ -1,0 +1,1474 @@
+	|1-3.  Quando i due figli di Latona, cio@e il Sole e la
+Luna, sono tenuti in equilibrio dal zenit, trovandosi la Luna
+su l'orizzonte orientale, ed il Sole su l'occidentale.  BENV.  --
+Beatrice, venuta all'ultima parola, dipinta di celeste riso,
+s'affissa un istante a quel lucentissimo punto, onde si rimouve
+per parlare a Dante.  E questa brevissima vista @e ci@o che dal
+verso 1 al 9 si dipinge con forma di nuova creazione.  BIAGIOLI.
+-- ^Li figli di Latona~, Diana ed Apolline, gemelli di Latona,
+secondo le favole.  -- ^Coperti~ ecc., esistenti in due segni del
+Zodiaco opposti, quali, p. es., sono l'^Ariete~ e la ^Libra.  --
+Fanno~ ecc., intendi, ^a se medesimi; -- Zona~, cintura; --
+^dell'orizzonte~, per ^coll'orizzonte~, sono dal medesimo
+orizzonte circondati.  LOMB.  -- Varianti.  ^Ambendue~, 52. 53;
+-- ^ambodui~, quattro; -- ^amendue~, sei; -- ^ambo doi~, il 6; --
+^ambedue~, undici, Nid., le prime quattro ediz., -- ^ambidue~,
+27. 24.  Fer. Benv., lettera pi@u regolare, e che preferisco; --
+^Quanto~, il 24, err.; -- ^Quando ambo e due~, W.; -- ^amendun
+li~, il 30; -- ^amendui~, il 36; -- ^ambeduoe~, il 37; --
+^Converti dal~, 12. 41; -- ^Coperti~, parecchi, W. (M.); --
+^Coverti~, i pi@u, (F.).  (I.).  (N.).  Crusca; -- ^Fanno
+dell'oriente~, il 14; -- ^nell'orizzonte~, il 15; --
+^all'orizzonte~, il 21; -- ^Sono dell'orizzonte~, il 37; --
+^Quando ambedui~, Roscoe.
+
+	|4-6.  Quant'@e dal~ ecc.  Tanto quant'@e dal punto dello
+zenit, nel tempo che tiene in equilibrio il Sole e la Luna,
+ovvero che la Luna sorge sull'orizzonte ed il Sole tramonta,
+Beatrice in quel punto si tacque.  -- ^Zenit~ @e quel punto che
+perpendicolarmente dal cielo cade sul nostro capo.  ^Infin che~
+ecc., infin che il Sole e la Luna escono dall'equilibrio ^dal
+quel cinto~, dall'orizzonte, ^cambiando l'emisperio~, quando
+Ariete ascende, la Luna tosto discende in Libra.  Breve, vuol
+dire: che Beatrice poco si tenne fissa in quel punto.  BENV.  --
+Gli Accademici lessero: ^Quant'@e dal punto che 'l zenit
+inlibra~, dichiarando: <Noi crediamo il Poeta volea dir questo:
+^Beatrice riguard@o in Dio per tanto spazio di tempo, per quanto
+il Sole e la Luna opposti stanno in uno stesso orizzonte~, che
+non @e altro che un punto, il quale il zenit ^inlibra~, cio@e
+^aggiusta~, bilanciandogli in un sol momento, facendo egli con
+essi un triangolo isoscele, quando gli ha equidistanti da s@e>.
+-- Il Lombardi col Daniello, con parecchi mss. veduti dagli
+Accademici, con la Nidob.  ed altre ediz. lesse: ^Quant'@e dal
+punto che li tiene in libra.~ -- Il Torelli, con molt'altri
+testi, sta con la Cr., riporta la suddetta chiosa degli Accad.,
+notando: che s'ingannano quegli Interpreti, i quali prendono
+^punto~ non per ^tempo~, e spiegano ^inlibrare il punto.~ -- Qui
+per ^punto che il zenit inlibra~, vuolsi intendere col Venturi il
+^punto di mezzo dell'emisferio; -- inlibra~, mantiene in libra
+cio@e ugualmente da s@e distanti i due pianeti nominati.  -- Il
+Perazzini difese la lettera ^che li tiene in libra~, ch'@e pur
+quella d'Aldo e del Daniello, della Nid. e di venti testi degli
+Accad.  -- Il Biagioli la riprov@o, e tennesi alla Crusca.  -- Il
+Viviani ci offerse la vera lettera di questo verso, quale sta nel
+Bartoliniano: ^Quant'@e dal punto che il zenit i libra~, preso il
+verbo ^librare~ per ^bilanciare.~  D@a senso chiarissimo e verso
+tutto dantesco; ed io la preferisco, confortato dall'esempio del
+Bianchi e del Fraticelli, che chiosano: ^Quanto corre di tempo
+dal punto in cui lo zenit tiene in equilibrio il Sole e la Luna~;
+e sta bene.  -- ^Infin che l'uno e l'altro~ ecc., infin che l'uno
+e l'altro cambiando emisfero, ^si dilibra~, esce d'equilibrio.
+BIANCHI.  -- Varianti.  ^Che il centro inlibra~, tre; --
+^cienit~, il 52 (di 2+a~ mano); -- ^che 'l cenith~, sette; --
+^illibra~, tre; -- ^il libra~, il 41; -- ^in libra~, tre; -- ^che
+cenit~, il 9; -- ^che li tiene illibra~, alcuni; -- ^in libra~,
+Pad. 1859; -- ^del punto~, 12. 27.  (V.); -- ^c'ha il zenit in
+libra~, il 17; -- ^Quanto del primo~, (M.); -- ^che il zenit @e
+in libra~, il 26; -- ^che li tiene in libra~, Marc. [55], molti;
+-- ^che il zenit i libra~, 9.  10.  Bartol. Fer. Bianchi,
+Fraticelli; -- ^che 'l zenit inlibra~, molti, Cr. Benv. Fosc. W.
+Scarab.; -- ^di quel cinto~, tre, (I.); -- ^da quel~, (F.).
+(M.).  (N.).  Cr. ecc.; -- ^Cangiando~, parecchi; --
+^l'emispero~, Nid. Fer.; -- ^delibra~, quattro, tra' quali il 7,
+con la chiosa: ^i. egreditur a Libra~, non buona.
+
+	|7-9.  Tanto, col volto~ ecc.  Beatrice, raggiando il
+viso suo d'un riso, si tacque, fiso guardando nel punto tanto
+splendente e folgorante, ch'io non aveva potuto sostenere; e fu
+l'opera di un istante.  BENV.  -- ^Tanto~, vale ^per altrettanto
+brevissimo tempo.  -- Fiso~, il Lomb. con la Nid.; il Biagioli
+gli rimprovera di fare tra ^Fiso~ e ^Fisso~ una differenza che
+non esiste.  -- Il Parenti per altro not@o: <Potr@a essere
+effetto di opinione preoccupata, ma parmi che l'una maniera
+(^fiso~) serva meglio alle operazioni della mente, e l'altra
+(^fisso~) a soggetti materiali.  Per ci@o sar@a ^fisso~ un
+chiodo, ^fiso~ uno sguardo, un pensiero> (^Ann. Diz.~).  --
+Sempre mi piacque questa distinzione, sebbene non osservata dagli
+Scrittori; e veggo con piacere qui dallo Scarabelli rimproverato
+al W. di non avere ^tenuto conto del finissimo avviso del
+Parenti.~  V. la sua Nota.  -- ^Fisso nel punto~, lesse il Lami,
+postillando: <E dice ^Fisso nel punto~ ecc., perch@e Iddio @e
+vero punto, cio@e %K4entpon, a cui tutto si riferisce e ritorna,
+e da cui tutto si parte.  Egli non ha parti, non occupa luogo, e
+come punto s'intende, ma non cade sotto sensi>.  E. F.  -- ^Che
+m'avea vinto~, che m'avea fatto chiuder gli occhi impotenti a
+tanto lume.  LOMB.  -- Il punto, in cui il Sole e la Luna sono
+nel medesimo orizzonte, quasi bilanciati dallo zenit, @e un
+istante; e un istante appunto Beatrice tacendo guard@o; poi
+cominci@o ecc.  La lezione ^che il zenit i libra~, @e del testo
+Viv.  e de' Pat. 9. 67, ed @e pi@u regolare e pi@u chiara della
+com. ^che il zenit inlibra.~  BIANCHI e FRATICELLI.  -- Varianti.
+^Tanto che 'l volto~, tre; -- ^con volto d'un riso~, il 21; --
+^di rose dipinto~, il 33; -- ^Fissa nel punto~, 8. 21; -- ^che
+avea vinto~, il 14; -- ^Fiso~, quindici, Nid. Fer. Fior. 1854 e
+1864, Fer. e Scarab.; -- ^che me avea vinto~, (F.).  (I.).  (N.).
+(V.); -- ^Forse nel punto~, 25. 31; -- ^Fiso nel volto~, il 34;
+-- ^Fisso~, molti, le prime cinque ediz., Viv.; -- ^Fixo~, Benv.;
+-- ^perch'io ho visto~, l'8; -- ^Quel che tu vuoli~, le pr. sei
+ediz., Fer. W.; -- ^Quel che tu vogli~, il 21; -- ^Quello che
+vuogli~, il 24; -- ^Quello che vuoli~, il 32; -- ^vuo' veder~, il
+38.
+
+	|10-12.  Poi cominci@o~: ecc.  Poi Beatrice cominci@o: Io
+ti dico, e non ricero quanto desideri, perch@e io l'ho gi@a visto
+in Dio, nel quale @e presente ogni luogo ed ogni tempo.  BENV.
+-- ^Dico, e non dimando~, dicoti, senza che tu me lo dimandi.  --
+^Quel che tu vuoi udir~, principalmente dove, quando e come
+furono gli Angeli creati.  V. verso 46 e seg.  -- ^Ove
+s'appunta~, vale ^l@a ove s'appunta~, e significa ^in Dio, in cui
+si segna, rendesi presente; -- ogni~ ubi, ogni luogo: -- ^ogni
+quando~, ogni tempo.  LOMB.  -- Questo verso, dice il Venturi,
+basta a qualificarlo una brava mente.  -- ^Ove s'appunta~ ecc.,
+cio@e ove si riuniscono tutti gli spazj e tutti i tempi, e dove
+si scorgono tutte le esistenze, come in uno specchio terso e puro
+(Canto XXVI, v. 106).  Principio generalizzato da poi da
+Malebranche, che fa attingere agli Spiriti creati tutte le loro
+percezioni e tutte le loro idee, nella contemplazione del mondo
+intelligibile e nell'intendimento divino.  E. F.  -- Varianti.
+^Dico, e non~, Nidobeatina, Aldina, Roscoe, Foscolo; -- ^dico,
+non~ i pi@u; -- ^Dove s'appunta~ quattro, Witte; -- ^L@a ove~,
+dieci, Roscoe; -- ^L@a du~, il 28; -- ^ogne~, (bis) il 40; -- ^ed
+ogni~, molti, (F.).  (I.).  (N.).
+
+	|13-15.  Non per avere~ ecc.  Dio non cre@o l'universo
+per avere maggior bene, lo che non pu@o essere, ma affinch@e il
+suo raggio risplendendo in altre sussistenze potesse dire: io
+sussisto in quelle.  BENV.  -- Ragiona la creazione dell'universo
+con parlare, alla cui sapienza e grandezza puossi appena col
+pensiero arrivare.  Aggiungi a questo i fiori poetici sparsi fra
+tanto sapere a piene mani; aggiungi la sublimit@a dei concetti;
+aggiungi in fine quel maschio stile che sente ognora delle divine
+cose che si discorre; e se non temi fatica di studio e contrasti
+di passi malagevoli e forti, sii pur sicuro che tanto gusterai di
+queste delizie ineffabili, quanto ti dispose natura ed arte a
+sentire.  BIAGIOLI.  -- ^Per avere~, per ottenere; -- ^Ch'esser
+non pu@o~, che @e cosa impossibile che in Dio manchi o scarseggi
+bene alcuno; -- ^ma perch@e suo splendore~ ecc.  Il Venturi
+spiega: <Affinch@e la sua divinit@a, comunicando ^ad extra~ le
+sue perfezioni, potesse con ci@o dire ^subsisto~, essendosi gi@a
+comunicata ^ad intra~ nella produzione della Trinit@a>.  -- Il
+Volpi invece per ^suo splendore~ intese la creatura, qual raggio
+derivante da quel Sole infinito; e se ^splendore~ vuol dire la
+^creatura~, il Poeta in sostanza avr@a voluto dire: Iddio volle
+creare per comunicare il suo bene alle sue creature.  Altri
+prendendo ^splendore~ per lo stesso ^Iddio~, e ^risplendendo~ per
+^creando~, spiegano ^subsisto~ per ^sostento~ e ^sottogiaccio~,
+come fondamento e sostegno di tutte le cose create.  Altri
+riferiscono il ^subsisto~ all'Incarnazione del Verbo, splendore
+del Padre, che prese umana natura, sicch@e dovrebbe intendersi
+che tal mistero fu il fine ancora della creazione, secondo la
+sentenza Scotistica.  Questa quarta sposizione parve al Venturi
+troppo ricercata, e assai lontana dalla mente del Poeta.  -- Il
+Lombardi, considerando che Dante pone le creature, e
+precipuamente gli Angeli, come tanti specchi riflettenti
+l'immagine di Dio (V., tra gli altri, gli ultimi tre versi di
+questo Canto), voglia per ci@o dire: che non per altro fine
+producendolo Dio, se non perch@e avesse il suo splendore in chi
+risplendendo sussistere effigiato.  -- Il Biagioli s'accosta a
+questo intendimento.  Nella E. B. fu dichiarato: <Non per
+ottenere alcun bene (che ci@o non pu@o essere, avendo Iddio
+perfettissimo tutti i beni in s@e), ma affinch@e il suo
+splendore, riflettendosi dalle cose create, d@esse alle creature
+ragionevoli dimostrazioni che esso Dio e sostegno, fondamento,
+cagione di tutte le cose>.  -- Parve al Parenti che questa
+chiosa, sebbene ingegnosa, divaghi alquanto dai termini del
+soggetto; e riflettendo egli che le creature sono ^splendore
+della divina Idea~ (^Par.~, XIII, 55 e seg.), e ^lume del divin
+raggio~ (Ivi, XXVI, 33), s'accost@o all'intendimento del Landino,
+il quale in sostanza @e lo stesso abbracciato dal Lomb., e pensa
+che il v.  58 o seg., del XIII di questa Cantica, facciano chiosa
+la pi@u diretta del passo presente.  -- ^Ma perch@e suo
+splendore~ ecc., ma affinch@e il suo raggio risplendendo in altre
+sussistenze potesse dire: io sussisto quelle.  Gli Angeli e le
+minori nature sono specchi della divina bont@a.  BIANCHI.  --
+Varianti.  ^Non per recare a s@e~, il 3; -- ^in s@e di bene~, il
+20; -- ^spiendore~, quattro; -- '^l suo splendore~, 12.  30; --
+^Ch'esser non pu@o mai~, il 35; -- ^non pu@o, perch@e suo~, il
+37; -- ^rispiendendo~, il 3; -- ^respiendendo~, tre; --
+^rispondendo~, il 12; -- ^dir sussisto~, 42. 53.  Fer. Lomb.
+Bianchi, Frat. Scar., e li seguito; -- ^Subsisto~, Bart. Benv.
+Cr. ecc.  Nidobeatina.
+
+	|16-18.  In sua eternit@a~, ecc.  Prima che fosse il
+tempo, e fuori d'ogni comprendere umano, ma in modo comprensibile
+da Dio solo, come a lui piacque, l'infinito amore si manifest@o
+nelle creature; e pu@o intendersi anche estensivamente ai nove
+ordini angelici.  BENV.  -- A questi versi il Torelli dichiar@o:
+<Il mondo (dicono i Teologi) fu creato ^non in tempo e non in
+luogo.~  Quindi considera se ^Fuor d'ogni altro comprender~
+voglia dire ^fuor d'ogni altro contenuto~, intende il Poeta che,
+come Iddio cre@o il mondo nella sua eternit@a, cos@i lo creasse
+ancora nella sua immensit@a.  Laonde sarebbe lo spazio, secondo
+Dante, come secondo Newton, cosa reale, e non altro che
+l'immensit@a divina.  Pare lo accenni anche in quel verso: ^Ove
+s'appunta ogni~ ubi ^ed ogni quando~; e pi@u chiaramente in
+questi di sotto: ^Or sai tu dove e quando questi Amori -- Furon
+creati, e come~ ecc.>.  -- ^Di tempo fuore.~  Il tempo sendo
+cominciato coi mondani movimenti e mutazioni, necessariamente
+dobbiamo intendere che Dio cominciasse l'opera della creazione
+del mondo ^In sua eternit@a di tempo fuore.  -- Fuore~, per
+^fuori~, antitesi in grazia della rima.  -- ^Fuor d'ogni altro
+comprender~, in maniera non ad altra mente che a Dio solo
+comprensibile.  -- Il Daniello rifer@i il ^Fuor d'ogni altro
+comprender~ al solo ^di tempo fuore~, dicendo: che niuno
+intelletto creato pu@o comprendere come il tempo fuor di tempo
+incominciasse; ma pu@o ben esso riferirsi anche all'^aprirsi
+l'eterno Amore in novi Amori~, alla creazione cio@e fatta da Dio
+degli Angeli, appellati gi@a ^Amori~ nel Canto prec., v. 103.  --
+^In nove amor~, le Romane 1816 e 1820, confortate dall'autorit@a
+de' codici Cass. a Caet., e dalla chiosa del Postill. del primo,
+che spiega: ^Idest novem ordinibus Angelorum~; e a quegli Editori
+parve chiaro che Dante parli qui della prima creazione, cio@e
+degli Angeli.  Aggiungono in prova la seguente Nota del Postill.
+Caet.: ^Scilicet Deus non necessitate, sed suo amore et
+benignitate, ut ostenderet splendorem suum in aliis, manifestavit
+se in novem ordinibus Angelorum.~  -- Questa lezione fu preferita
+nella E. B., e disapprovata dal Parenti, 1+o~ per personificare i
+nove ordini angelici, il che non suona bene; 2+o~ perch@e la
+frase ^novi amori~ si estende generalmente, e nello stesso tempo
+singolarmente, a tutta la moltitudine di quelle beate sostanze;
+3+o~ perch@e il ^novi~ si contrappone acconciamente all'^eterno~,
+nel mentre che il ^nove~ insterilisce il concetto e ripete una
+numerazione gi@a fatta nel Canto precedente.  Cita poi la
+seguente chiosa autografa di Benv.: ^Potest intelligi tam de
+novis creaturis, quam de 9 ordinibus Angelorum.  Ideo bene potest
+dicere~ in novi amori, ^vel~ in nove amori.  ^Tamen secunda
+litera est melior, quia est de intentione Auctoris, ut ipse
+tangit in fine huius partis.~  Qui @e adunque mozza ed infedele
+la versione del Tamburini, e chi sa in quant'altri luoghi!  -- Il
+Parenti poi conclude trovarsi d'accordo con Benv., sendoch@e
+leggendo ^novi amor~ non intende le creature in generale, ma
+sibbene gli Angeli tutti.  -- Non per essere pi@u felice Iddio
+produsse gli Angeli, che chiama ^nuovi amori~, per essere effetti
+primi dell'eterno amor suo.  Gli Angeli e le nature minori sono
+specchi della divina bont@a.  Altri legge ^nove amor~, lettera
+men buona di ^novi~ o ^nuovi amor~; e nondimeno parmi confortata
+dai vv. 58-60 del XIII di questa Cantica: ^Per sua bontade il suo
+raggiare aduna -- Quasi specchiato, in nove sussistenze, --
+Eternalmente rimanendosi una~, prese ^sussistenze~ per le
+Intelligenze montrici de' nove cieli.  Considera.  -- L'Ottimo,
+sotto questi versi, rifer@i la seguente sentenza di san Tomaso:
+<Nulla cosa mosse Dio nella produzione delle creature, se non la
+sua bont@a, la quale volle comunicare con l'altre cose, secondo
+un modo d'assimigliazione ad esso>.  -- ^Fuori di tempo~, prima
+che esistesse il tempo, sendoch@e Dio creasse il mondo in uno col
+tempo; e questa seconda parte del verso fa commento alla prima.
+-- ^S'aperse.~  La voce con la propriet@a dell'origine stessa la
+creazione; onde ^aperio~ e ^pario~ hanno un principio comune; --
+^nuovi amori~, nuove anime innamorate chiama gli Angeli.  FRAT.
+-- Varianti.  ^Di tempo fore~, parecchi, e le prime quattro
+ediz.; -- ^come piacque~, otto, (M.).  Nid. Ald., -- ^come i
+piacque~, sedici almeno de' m. s., (F.).  (I.).  (N.); -- ^come
+ei piacque~, i pi@u, lettera erronea, e va letto ^come i
+piacque~, siccome sta ne' migliori testi. ^I~, detto per ^a lui.~
+V. Note ^Inf.~, V, 78.  ^Purg.~, XII, 83.  PARENTI.  -- ^Fuor
+d'ogni altro intender~, il 21; -- ^come~, tre; -- ^com' gli
+piacque~, Pad. 1859, forse arbitraria; -- ^S'aperse in mio amor~,
+il 3; -- ^in nove amor~, tredici de' m.  s., Cass. Caet., Romane
+1816 e 1822, Viv.  E. B.; -- ^in novi amor~, i pi@u, Scarab.  V.
+la sua Nota; -- ^Sparsene novi amor~, l'8; -- ^in voi amor~, 15.
+21; -- ^in noi~, 18. 32; -- ^in nuovo~, il 30; -- ^in novo~,
+(M.).  Nid.; -- ^in nuovi~, 5. 6.  (F.).  (I.).  (N.).  Ferranti.
+
+	|19-21.  N@e prima~, ecc.  N@e prima della creazione si
+stette Iddio quasi inerte; -- ^Ch@e n@e prima~ ecc., ch@e l'atto
+della creazione operato quando il tempo non era, oss$ia
+nell'eternit@a, non pu@o dirsi che fosse operato n@e ^prima~, n@e
+^poscia~, perch@e esprimono tempo che non ha luogo nella
+eternit@a.  Dio fin dall'eternit@a ebbe in mente l'universo
+esemplare, che poi ridusse ad atto; imperocch@e il tempo @e
+misura di moto, ed il moto non pu@o essere senza corpo; quindi
+senza corpo o materia @e impossibile il tempo.  BENV.  --
+^Prima~, intendi, ^di creare; -- torpente~, intorpidito, inerte;
+-- ^Ch@e n@e prima, n@e poscia~ ecc.  Prende il Poeta per
+sineddoche una parte dell'operare fatto da Dio nella creazione
+del mondo, che fu il ^ferebatur super aquas~ (^Gen.~, I), per
+l'intera creazione; e vuol dire in sostanza, che questa creazione
+operata nell'eternit@a non pu@o dirsi operata n@e ^prima~ n@e
+^poscia~, sendo termini che suppongono tempo.  LOMB.  -- Sotto il
+verso 20 il Torelli not@o che forse va letto ^precedette~; e
+sotto l'altro che sequita: ^Lo discorrer di Dio~ ecc., pose: Vedi
+S. Agostino nelle ^Confessioni~; poi in altro luogo sotto i versi
+stessi: <Non si pu@o dire che ^spiritus Dei ferebatur super
+aquas~ prima o poi, perch@e ^ante tempus non erat tempus~>.  --
+Anche l'antico Estense legge ^precedette~, e parve al Parenti che
+con tal lettera il sentimento riesca pi@u chiaro e sia: <Il
+^prima~ ed il ^poscia~, cio@e la divisione e successione del
+tempo non precedettero la creazione, perch@e da questa, cio@e dal
+principio del moto, si comincia a dir tempo>.  Poi conclude: che
+leggendo ^procedette~ @e forza capovolgere il costrutto, e il
+^discorrere~ diventa nominativo.  Ma qual pleonasmo, e direm
+quasi compenetrazione di sensi: ^Il discorrere che procede~!  --
+Il Bianchi prefer@i questa lezione, avvisandola pi@u chiara e
+pi@u semplice, e la preferirono il Ferranti e lo Scarabelli; @e
+confortata da undici de' miei spogli, dalla Padovana 1859, e dal
+gran codice della Critica, e l'ho preferita.  -- Varianti.
+^Procedette~, Bartoliniano, Benvenuto, le prime quattro edizioni,
+Cr. Witte, ecc.  -- ^N@e quasi prima~, il 28; -- ^Lo discerner di
+Dio~, il 3; -- ^sor a quest' acque~, il 5; -- ^Il discorrer~, il
+37; -- ^Lo discoter~, (M.).; -- ^sopra~, (M.).  W.; -- ^sovra~,
+(F.).  (I.).  (N.).  Crusca.
+
+	|22-24.  Forma~ ecc.  Forma e materia insieme unite senza
+mescolamento di eterogeneo ^Usc$iro ad esser che non avea fallo~,
+in forza dell'atto libero del volere divino, che non falliva ne'
+suoi effetti, uscirono nello stesso tempo, come da una balestra
+di tre corde, tre dardi.  La successione @e moto da un punto ad
+un altro, come nella generazione, nella quale si move la materia
+dal luogo ^a quo~, e va a terminare in luogo ^ad quem~; ma la
+creazione non pot@e avere il luogo ^a quo~, perch@e non
+proveniente da luogo, e non potendo aver moto, dunque neppur
+successione.  BENVENUTO.  -- ^Forma e materia~ ecc.  Ragionato
+della creazione degli Angeli, dopo breve digressione, prosegue a
+dire della materia creata e della sua forma, di tutti i tempi.
+-- Forma intende le sostanziali forme, che, unite alla materia
+prima, formano le varie forme de'corpi.  Cos@i gli Aristotelici,
+che Dante seguita; mentr'altri filosofi dicono al contrario; non
+essere le ^forme~ che una varia disposizione della materia; --
+^materia~, la materia prima ad ogni corpo comune, e subbietto di
+tutte le sostanziali forme; -- ^congiunte e purette~, congiunte
+s@i, ma pure, cio@e senza mescolamento d'un corpo con l'altro.
+-- ^Usc$iro ad atto~ (^ad~ per ^da~).  V. Cinonio.  Queste tre
+cose: ^Angeli, materia~ e ^forma~, uscirono insieme da
+quell'unico infallibile atto della divina volont@a, espresso
+nella ^Genesi~ con la voce ^fiat.~  Queste tre cose, in sentenza
+del Lombardi, sono ^il triforme effetto~, che segue Dante a dire
+uscite da Dio ^insieme tutto -- Senza distinz,ion nell'esordire.~
+-- Altri chiosano nella ^Forma e materia congiunte e purette~
+contenersi il triplice divino effetto, e che la forma e materia
+congiunte ne sieno uno, e la forma e materia ^purette~, separate,
+sieno gli altri due effetti; e che le forme separate sieno gli
+Angeli, e la materia separata sieno gli elementi.  Ma chi mai
+(soggiunge il Lomb.) appell@o gli Angeli ^forme~?  e come Dante
+appellar qui stravagantemente ^forme~ gli Angeli, che poco prima
+e poco dopo chiama ^Amori~?  -- Il Daniello, cercando il
+^triforme effetto~ in questa sola terzina, con gli Aristotelici
+alla materia e forma aggiunse per terzo effetto l'atto creativo
+operato da Dio; e malamente; ch@e quest'atto altro non @e che lo
+stesso increato ed eterno volere divino: ^Ad opus novum
+sempiternum adhibet Deus consilium~, insegna sant'Agostino (^De
+Civit. Dei~, Lib. XXII, cap. 22).  Fin qui il Lombardi.  --
+^Congiunte~, contemporanee alle dette sostanze angeliche; -- ^e
+purette~, nella loro verginit@a; -- ^congiunte~, potrebbe anche
+intendersi della congiunzione della forma e della materia,
+inquantoch@e la materia prima non pu@o essere senza una forma
+qualunque.  -- ^Usc$iro ad atto~: questi tre effetti della
+creazione: Angeli, forma sostanziale e materia prima, uscirono da
+un atto dell'infallibile divino volere, com'@e scritto: ^Vidit
+Deus quod esset bonum~ (^Gen.~, cap. I).  -- Molti testi leggono
+^Usc$iro ad esser~, cio@e ad un'esistenza ^che non avea fallo~,
+che era quale avea Dio voluta, buona e perfetta; ma anche alla
+locuzione ^Uscire ad atto~, si pu@o dare lo stesso senso.
+BIANCHI.  -- Varianti.  ^Congiunte, purette~, il 3; -- ^Forma,
+materia, congiunte e porette~, tre; -- ^mat$era~, dieci, e le
+prime quattro ediz.; -- ^e pi@u rette~, (M.); -- ^e purecte~,
+(N.); -- ^Usc$iro ad esser~, trentacinque almeno de' m. s., le
+prime cinque ediz., Benv.  Bart. Cass., trentacinque testi veduti
+dagli Accad. e tutti quelli del Varchi, Flor. Vat. 3199, Antald.
+Ang. Caet. Frat. Scarab. con altri testi, e con la chiosa de
+Lana, che dice: <A differentia delle cose che per generazione
+vegnono in essere, in le quali o per mezzi o per difetto di
+cagione efficiente o materiale hanno difetto, siccome appare
+nelli mostri>.  -- Il Viv. propugna questa lezione, non gi@a per
+dispiacergli l'altra ^ad atto~, ma per considerare che Dante,
+anche nella similitudine, usa la stessa locuzione, dicendo ne'
+versi 26 e 27: ^Che dal vedere -- All'esser tutto non @e
+intervallo~; e ne' versi susseguenti, richiamando il soggetto,
+narra che ^il triforme effetto -- Nell'esser suo raggi@o~ ecc.
+-- Le due lezioni tengo per buone del pari, e forse entrambe
+uscite dalla penna di Dante.  Se mi si domanda quale fu l'atto di
+ultima sua volont@a, direi che fosse ^Usc$ire ad atto~, parendomi
+pi@u poetico; e per ci@o m'astengo da mutamento.  -- ^Usc$ino ad
+esser~, la Nid.; -- ^che non avean fallo~, Fer.; -- ^av$ian~, il
+37; -- ^av$ien~, il 42; -- ^av$en~, 20. 21; -- ^Usc$iro ad esse~,
+il 34; -- ^av$ia fallo; -- Come in arco tricorde~, il 17; --
+^tricordo~, i pi@u, Scar. Bart. Vat. Rosc.; -- ^Usc$iro ad atto~,
+Ald. Crusca, ecc.
+
+	|25-27.  E come in vetro~, ecc.  E come raggio di Sole
+illumina nello stesso istante il vetro, l'ambra ed il cristallo,
+senza lasciar distinguere intervallo tra il venire della luce ed
+il suo illuminare i corpi diafani.  BENVENUTO.  -- Siccome
+l'illuminazione che in vetro, ambra o cristallo si fa non ammette
+distinzione di tempo dal venire del raggio all'essere
+l'illuminazione interamente compiuta, cos@i ecc.  LOMB.  --
+Breve, vuoi dire che la propagazione della luce @e, riguardo a
+noi, istantanea.  -- Non dice che la luce non metta tempo a
+venire; dice che il raggio, come fu venuto, in un istante c'@e
+tutto.  FRAT.  -- Varianti.  ^In ambro~, quattro; -- ^ed in
+cristallo~, sette, Fer.; -- ^E come vetro in ambra~, il 14, (I.).
+(V.), -- ^rispiende~, quattro; -- ^Razzo~, l'8; -- ^Raggio
+discende~, il 17; -- ^del venire~, il 37, -- ^E l'esser suo~, il
+6; -- ^A l'esser tutto~, molti, e le prime quattro ediz. -- ^non
+n'@e intervallo~, (F.).  (N.); -- ^non gli @e~, Roscoe.
+
+	|28-30.  Cos@i il triforme~ ecc.  Cos@i la creazione
+degli Angeli, della materia e della forma usciti ad un tempo da
+Dio, fu tutta ad un tempo e nello stesso momento operata, senza
+veruna distinzione.  BENV.  -- Cos@i il detto triforme effetto
+^raggi@o~, usc@i dal suo Creatore, senza distinguersi nel
+principiare diversit@a di tempo dal proseguire e dal compiersi.
+LOMB.  -- Il triplice effetto usc@i dal Creatore nella pienezza
+del proprio essere; ch@e il cominciare ad esistere e l'essere
+perfetto, fu una cosa, e senza distinzione di principio, mezzo e
+fine.  BIANCHI.  -- Cos@i quel triforme effetto (cio@e ^materia,
+forma ed esistenza~) fu istantaneo dal suo principio al suo
+essere perfetto.  Cos@i il Fraticelli.  -- Varianti.  ^Affetto
+del suo Sire~, sei, Vat. Rosc.; -- ^Cos@i triforme~, 25. 37; --
+^del suo Sire~, 37. 42.  W. Benv., disapprovata dallo Scar.  V.
+la sua Nota; -- ^dal suo~, le pr. quattro ediz., Cr. ecc,; --
+^effecto~, (I.).  (N.); -- ^razzoe~, l'8; -- ^razz@o~, l'11; --
+^Dall'esser suo~, tre, -- ^Ne l'esser suo~, le pr. quattro ediz.;
+-- ^tucto~, (N.); -- ^Sanza distinz,ion in contradire~, il 3; --
+^Sanza~, le prime quattro ediz.; -- ^in esordire~, otto; --
+^Senza distens,ione in~, sette, Bart.; -- ^nello exordire~, 6. 7.
+12.  (I.); -- ^in esordire~, Roscoe; -- ^in exordire~, otto; --
+^discens,ion~, il 15; -- ^distianzione~, il 24; -- ^destinc,ion
+in~, il 42; -- ^distens,ion in~, altri tre de' m. s., Viv. Flor.
+-- Il Viviani la disse ^variante importantissima, e gravida di
+riposta ed alta sapienza.~  <L'effetto triforme (soggiunge) era
+dunque in Dio, prima che la divina virt@u si distendesse pei
+cieli.  Tornisi col pensiero al verso 67 e seg. del precedente
+capitolo: ^Li cerchj corporai sono ampi ed arti -- Secondo il
+pi@u e il men della virtute -- Che si distende per tutte lor
+parti.~  L'espressione del Poeta nell'uno e nell'altro luogo @e
+tutta Scritturale: ^Qui~ extendit ^caelos solus~ (JOB, cap. IX),
+e David: ^Magnificatus es vehementer...~ extendens ^caelum sicut
+pellem~ (^Ps.~ CIII).  Il pensiero di Dante che Dio avesse
+primitivamente le cose in ispirito, risponde all'altro passo
+Scritturale: ^Qui fecit caelos in intellectu~ (^Ps.~ CXXXV).
+Concorda il codice Fl.>.  -- Niuno, ch'io mi sappia, seguit@o
+dopo di lui questa lezione; e sono di parere che si stia con la
+Vulgata.
+
+	|31-33.  Concreato~ ecc.  Dio, volendo l'opera della sua
+creazione varia e perfetta, distinse le cose create (in sentenza
+di san Tomaso d'Aquino) in tre classi: intellettuali soltanto, e
+queste sopra i cieli; corporali semplicemente, e trovansi al
+centro della Terra nell'infima regione; corporali ed
+intellettuali insieme, e queste sono nel mezzo.  Fa poi altre
+suddivisioni d'ogni classe, e conclude: Che tutte hanno pi@u o
+meno di bont@a, secondo che pi@u o meno loro s'apr@i ^l'eterno
+Amore.  -- Concreato~ ecc., insieme a queste sostanze fu creato e
+stabilito l'ordine loro; e ^quelle~, le sostanze semplicemente
+intellettuali, ^furon cima del mondo~, potenziate ad esercitare
+azione sull'altre; furono collocate in cima del mondo, cio@e
+sopra i cieli; e queste sono gli angeli, ne' quali fu produtto un
+atto puro, fu infuso un atto puro, cio@e senza materia e senza
+potere a far qualche cosa, od a patire.  BENV.  -- ^Concreato~
+ecc., fu tra le create sostanze prodotto e disposto ordine; e in
+quelle a cui fu conferita virt@u di agire nell'altre sostanze, e
+di comunicar loro, e non potenza alcuna di ricevere, furono poste
+sopra tutti i cieli, e questi furono gli Angeli.  LOMB.  -- ^E
+quelle furon cima~ ecc., e quelle sostanze, ordinate a solo atto,
+cio@e per esercitare azione sull'altre, furono messe sopra i
+cieli.  BIANCHI.  -- <^Puro atto~, secondo l'Ottimo, @e ci@o non
+@e in potenza a divenire altra cosa; e per@o gli Angeli sono
+incorruttibili>.  Citazione del Fraticelli.  -- ^Concreato.~
+Questa voce ricorre pi@u volte nell'Ecclesiastico, not@o mons.
+CAVEDONI (V. ^Opusc. Rel.~ ecc., XII, pagina 179.).  -- Varianti.
+^Construtto~, quattro, le prime cinque ediz., ecc.; --
+^constructo per@o~, la (N.); -- ^substantie~, il 3, Benv.; -- ^e
+quelle furon prima~, il 21; -- ^A le substanze~, (F.).  (M.).
+(N.); -- ^Del mondo~, ventidue, (V.).  Benv. Bartol. Bianchi e i
+codici A. C. D. del W. Frat. con l'Ang.  e Caet. Roscoe, diciotto
+degli Acc., e la seguito; -- ^Nel mondo~, la Vulgata, ecc.; --
+^in cui pur atto~, il 6; -- ^pur atto~, 7. 41; -- ^Di modo in che
+pi@u ratto~, il 21; -- ^in chi~, cinque; -- ^fu perdutto~, But.
+(M-a); -- ^Nel mondo~, W.; -- ^acto fu producto~, parecchi, ecc.
+
+	|34-36.  Pura potenza~ ecc.  Nella pi@u bassa parte del
+mondo, nel mezzo furono collocate le sostanze prodotte con la
+sola potenza di ricevere l'azione altrui, e sono i corpi
+sublunari; e tra la cima e la parte pi@u bassa del mondo, tal
+legame strinse la potenza con l'atto, che mai non si discioglie;
+e sono: le intelligenze motrici, il mondo e l'uomo.  BENVENUTO.
+-- I corpi sublunari ebbero la potenza unica di ricevere dai
+cieli superiori.  -- ^Nel mezzo strinse~ ecc., nel mezzo del
+mondo strinse tal legame la potenza con l'atto, che mai non si
+discioglie.  Furono cio@e nel mezzo collocate le sostanze dotate
+d'atto e di potenza, e sono i cieli, de' quali disse gi@a nel II
+di questa Cantica: ^Che di su prendono e di sotto fanno~ (v.
+123).  -- Gli altri Spositori intendono qui le sostanze, le pure
+forme angeliche, e per la ^pura potenza~, la pura materia, e per
+la ^potenza con l'atto~, i cieli uniti alle rispettive loro
+Intelligenze.  LOMB.  -- ^Pura potenzia~, dichiara l'Ottimo:
+<Cio@e: che sempre @e acconcia a transmutazione, e per@o continuo
+genera nuova forma, e corrompe la precedente>.  Tali sono i corpi
+sublunari.  -- ^Tal vime~ ecc., tal legame indissolubile.  FRAT.
+-- Varianti.  ^Potenza~, 3. 11, le pr. cinque ediz., W. ed altri;
+-- ^potencia~, 9. 10; -- ^tiene la parte ima~, il 37; -- ^yma~,
+(F.).  (N.); -- ^si strinse potencia~, il 3; -- ^potentia~, (I.).
+Benvenuto; -- ^cum acto~, Benvenuto; -- ^non si disvima~,
+parecchi, Ferranti; -- ^che gi@a mai~, i pi@u antichi; --
+^desvima~, l'8; -- ^non si dilima~, il 29; -- ^Tal lume~, 29. 33;
+-- ^Tal vimine che mai~, Bartoliniano; -- ^non si disvima~,
+Roscoe.
+
+	|37-39.  Jeronimo vi scrisse~ ecc.  San Girolamo scrisse
+a voi mortali, intorno agli Angeli creati tanti secoli prima
+della creazione del mondo materiale.  Egli dice: Seimila anni non
+sono ancora compiti del mondo nostro; e quanto tempo fosse
+trascorso dalla origine de' secoli, si pu@o fissare ad arbitrio,
+nel qual tempo gli Angeli, i Troni, le Dominazioni e gli altri
+ordini fossero creati; sicch@e pare che ammetta fossero scorsi
+moltissimi secoli dalla loro creazione a quella del mondo.  Ma
+ben tutt'altra @e la verit@a.  San Tomaso lo scusa col dire: Che
+san Girolamo parl@o secondo l'opinione de' Greci; ma tale scusa,
+oltre l'essere spregievole, porterebbe che sempre potessero o
+dovessero scusarsi gli errori i pi@u gravi.  BENV.  -- ^Jeronimo~
+ecc.  ^Scripsit de Angelis creatis multa saeula ante quam~ etc.,
+equivalente all'italiana: ^Scrisse che creati furono gli Angioli
+molti secoli innanzi che~ ecc.  Tale sentenza di S. Girolamo
+(aggiunge il Venturi), che fu ancora di pi@u Padri greci:
+Origene, Basilio, Damasceno, ecc., vien riferita con rispetto, e
+rejetta con efficacia da san Tomaso (I. ^par. qu.~ 61, ^art.~ 3).
+LOMB.  -- Ecco il passo di S. Girolamo (^Epist.~ I): ^Sex millia
+nondum nostri temporis complentur annorum; et quantas prius
+aeternitates quanta tempora... fuisse arbitrandum, in quibus
+angeli... caeterique ordines Deo servierunt absque temporis
+vicissitudinibus, atque mensuris~?  Citazione del Fraticelli.  --
+Varianti.  ^Ne scrisse~, tre; -- ^inscripse~, il 24; -- ^vi
+scripse~, il 26, (I.).  (V.).  Benv.; -- ^lungo tracto~, Benv.
+(N.); -- ^Geronimo~, sette, Bartol. Rosc. (F.).  (N.); --
+^Gironimo~, 27. 36.  (V.); -- ^Gerolimo~, il 42; -- ^Jeronimo~, i
+pi@u, (I.); -- ^Hieronimo~, (M.); -- ^longo~, (I.).  (V.); --
+^dagli angeli~, tredici, (M.).  (N.).  (V.): -- ^Di secoli
+degli~, sei, W.; -- ^de li angeli~, i pi@u ant.  Benv.; -- ^Di
+secoli~, quattro, (M.).  (V.).  Fer. W. Benv.; -- ^Dei secoli~,
+il 28; -- ^e degli angeli~, il 33; -- ^angeli beati~, But.  (M-a),
+non preferita; -- ^De' secoli~, (F.).  (N.); -- ^di seculi~,
+(I.); -- ^da li angeli~, (F.).  (N.); -- ^dagli~, (M.).  undici
+degli Acc.; -- ^De li angioli~, (I.); -- ^delli Angeli~, Fer.; --
+^fusse facto~, (I.); -- ^fosse facto~, (N.); -- ^mondo~, i pi@u,
+le pr. quattro ediz., Benvenuto, ecc.
+
+	|40-42.  Ma questo vero~ ecc.  Ma questa verit@a che ti
+ho detta, cio@e che gli angeli furono creati nello stesso tempo
+che il mondo materiale, sta scritto in pi@u luoghi della sacra
+Scrittura, e dei santi Dottori; e ne avrai prove se leggerai
+l'opere loro.  BENVENUTO.  -- ^Questo vero~, questa verit@a; --
+^in molti lati~, in molti luoghi dagli Scrittori de' Libri
+canonici, dettati dallo Spirito Santo, dell'Ecclesiastico, p.
+es., il quale nel Cap. XVIII scrive: ^Qui vivit in aeternum
+creavit omnia simul.~  LOMBARDI.  -- Anche san Tomaso dice nella
+^Somma~: <Poich@e gli Angeli fanno parte dell'universo, dovettero
+essere creati con esso>.  FRAT.  -- La prerogativa singulare de'
+Libri ispirati~, trovasi da Dante cos@i espressa; con le quali
+parole mostra accennare a quelle del ^Psal.~ XLIV, 2: ^Lingua mea
+calamus scribae velociter scribentis~ (cf. JEREM., XXXVI, 4. 18).
+CAVEDONI (^Opusc. Rel.~ ecc., X, pag. 163).  -- Varianti.  ^@E
+scripto~, parecchi, (F.).  (I.).  (N.); -- ^ee scripto~, Benv.;
+-- ^Dello scriptor~, 3. 6; -- ^Da li Scriptori~, 12. 14.  (F.).
+(N.).  (V.); -- ^d'esso scritto santo~, il 15; -- ^ed allo
+scrittor santo~, il 21; -- ^Dagli Scripturi~, (I.); -- ^Da li
+Scrittori de lo~, (M.); -- ^Scriptori de lo~, Benv.; -- ^sancto~,
+(I.).  (N.); -- ^te ne avvedrai~, trentuno almeno de' miei
+spogli, le pr. sei ediz.; -- ^se bene agguati~, ventitr@e de'
+miei spogli, (F.).  (M.).  (N.).  (V.).  Nid. Fer. il W.; --
+^agguati~, disapprovato dallo Scarabelli.  V. la sua Nota; --
+^aguati~, Patavani, Benv. e molt'altri; -- ^adguati~, il 32; --
+^s@i ben vi guati~, (I.); -- ^se ben raguati~, il 40; -- ^se ben
+ci guati~, il 42; -- ^se ben ne guati~, Crusca, ecc.; -- ^te ne
+vedrai~, 35. 37; -- ^E tu lo vederai, se bene aguati~, 52. 53; --
+^aguati~, i pi@u autorevoli, Benv. ecc.; -- ^te ne avvedrai, se
+bene guati~, Viv. Flor. Torr.; -- ^se ben vi guati~, Vaticano
+3199, Ang. Antaldino; -- ^agguati~, il 52, e Caet.; -- ^E tu lo
+vederai, se ben vi guati~, Rosc.: -- ^E tu te ne avvedrai se bene
+guati~, Bartoliniano.
+
+	|43-45.  Ed anche~ ecc.  Ed anche la ragione naturale lo
+pu@o rilevare, perch@e essa non potrebbe persuadersi che i motori
+de' cieli stessero tanto tempo privi del loro atto, e quindi
+della loro perfezione.  BENV.  -- ^Vede alquanto~, scorge in
+parte questa verit@a.  LOMB.  -- ^Senza sua perfezion.~
+L'operazione, cio@e lo svolgersi delle facolt@a proprie per
+isvolgere le altrui, @e la perfezione dell'ente.  FRAT.  --
+Varianti.  ^Ed anco~, tre; -- ^rason~, tre, Benv.; -- ^ragione il
+vede~, diciotto de' m. s., le prime quattro ediz.; -- ^el vede~,
+il 32; -- ^il vide~, (V.); -- ^Ed anche~, W.; -- ^Et anco la
+ragione il vede~, i pi@u antichi; -- ^E anche la ragion lo vede~,
+Cr. ecc.; -- ^che motori~, sei, Vat. 3199, (I.); -- ^che i
+motori~, i pi@u, (F.).  (M.).  (N.); -- ^fesser cotanto~, sei; --
+^fosse cotanto~, il 15; -- ^fusser~, 21. 37; -- ^fusson~, il 25;
+-- ^fosson~, il 30; -- ^Senza~ e ^Sanza~, var.; -- ^perfez,ion
+fosser~, i pi@u; -- ^perfection~, le pr. quattro ediz., e
+parecchi mss.; -- ^Ed anco la ragione il vede~, Bart. Rosc.
+Nidobeatina.
+
+	|46-48.  Or sai tu dove~ ecc.  Or sai tu dove e quando
+questi Amori prima che fosse il tempo, e ^come~ per un puro atto
+del volere di Dio in un istante ^furono creati~, sicch@e
+rimangono sciolti i tre gravissimi dubbj che ti agitavano.  BENV.
+-- ^Dove~, cio@e in cima del mondo (v. 32 e seg.); -- ^quando~,
+nell'eternit@a ^di tempo fuore~ (v. 16); -- ^come~ vale ^perch@e~
+(V. Cinonio) perch@e lo splendore divino ^Potesse, risplendendo,
+dir sussisto~ (v. 14 e seg.).  LOMB.  -- Questa sposizione @e
+rejetta dal Biagioli, osservando: ^Che per quanta sia la
+dipendenza tra la cagione e la maniera, @e pur impossibile che
+l'una sia l'altra~; quindi interpreta: ^dove~, in sua eternit@a;
+-- ^quando~, di tempo fiori; -- ^come~, come ei piacque.  -- Il
+Parenti dichiar@o: <^Come~, corrisponde qui al ^quomodo~
+de'Latini.  Benvenuto ne particolarizza la forza al nostro caso,
+dicendo: = ^Come~, scilicet, ^in instanti, ut patuit ex prima
+quaestione~ =>.  -- ^Spenti -- Nel tuo des$io~ ecc., soddisfatte
+gi@a sono tre brame del desiderio tuo.  LOMBARDI.  -- ^Dove~,
+cio@e sopra tutti i cieli; -- ^quando~, prima che fosse il tempo;
+-- ^Furon creati e come~, per un puro atto del volere di Dio,
+ovvero in un istante; -- ^tre ardori~, tre motivi di cocente
+brama.  BIANCHI.  -- Varianti.  ^Quando e dove~, il 17; -- ^Or
+satti dove~, il 27; -- ^e quanto questi~, il 28; -- ^Furono
+eletti~, tredici, (F.).  (M.).  (I.); -- ^Funno~, (M.).  (V.).
+Nid. W.; -- ^e come e s@i che spenti~, cinque; -- ^Fuorno~, il
+38; -- ^Fuoro~, tre; -- ^e como e s@i che~, il 32; -- ^s@i che
+ispenti~, il 37; -- ^furono allotta~, (N.).  (^electi~, ediz. di
+Londra); -- ^son gi@a li tre~, 6. 15; -- ^gi@a non son~, l'8,
+err.; -- ^disir~, il 21; -- ^sono tre ardori~, il 37, W.; -- ^son
+gi@a~, (I.); -- ^Furono eletti~, Bart. Vat. Ang. Antaldino.
+
+	|49-51.  N@e giugner$iasi~, ecc.  N@e s@i presto contar
+potresti sino al venti, quanto presto una parte degli Angeli
+turb@o il vostro globo, composto di quattro elementi.  BENV.  --
+Gli Angeli ribelli precipitati dal cielo sulla Terra, la
+sconvolsero, aprendovi nelle viscere l'Inferno (^Inf.~, Canto
+ult., v. 121 e seg.).  -- Gli Accademici, con pochi testi,
+preferirono ^alimenti~, col dire: ^Pare che la Terra si dica pi@u
+acconciamente soggetto degli alimenti.~  -- Gli antichi usarono
+indifferentemente l'una per l'altra voce; ma qui ^alimenti~ non
+pu@o significar ^cibo~, ma turbamento meramente locale, cagionato
+dalla caduta di Lucifero.  -- Il Biagioli legge ^elementi~ coi
+pi@u, con l'Aldina, col suo Stuardiano.  -- Il Redi dimostr@o
+l'uso fatto dagli Scrittori dell'una voce per l'altra.  -- Il
+Lami postill@o: <^Alimenti~ dissero gli antichi per ^elementi.~
+V. il Voc. e Redi, ^Ann. Ditir.~  Dante qui parla della caduta
+degli Angeli nell'aria inferiore e crassa, dove sono rilegati
+fino al d@i del giudizio, come insegna san Pietro, san Paolo e i
+santi Padri, e dove @e creduto che turbino lo stato degli
+elementi, e molti mali facciano>.  E. F.  -- Tengasi ^alimento~
+per ^elemento~, idiotismo antico, e da farne cenere di sepoltura.
+-- Il nostro globo, secondo gli Aristotelici, consta
+dell'aggregato dei quattro noti elementi.  BIANCHI.  -- Questo
+pronto peccare degli Angeli @e creduto da san Tomaso (^Somma~, I,
+63), e da Ugo da San Vittore.  Inoltre la Terra, secondo la falsa
+scienza d'allora, @e soggetto dei quattro elementi, cio@e si
+compone d'aria, di fuoco, d'acqua e di terra.  FRAT.  --
+Varianti.  ^N@e giugnerasi~, il 15; -- ^noverando~, il 28; --
+^alli venti~, il 37; -- ^giugnereasi~, (M.); -- ^giugneriasi~, i
+pi@u, (F.).  (N.).  (V.); -- ^giungeriasi~, (I.); -- ^a venti~,
+Rosc.; -- ^S@i come tosto~, il 21; -- ^Tosto come degli angeli
+s@i parte~, 33. 42; -- ^dagli angeli parte~, 12. 38.  (V.); --
+^da li angeli~, (F.).  (N.); -- ^de li angeli~, (M.).  molti
+mss.; -- ^degli angioli~, (I.); -- ^subgetto~, sette; --
+^sujetto~, il 21; -- ^subjetto~, cinque, Bart. Caet. Cass. (M.);
+-- ^suggetto~, il 52, (M.).  (I.).  Fer. W. But. (M-a); --
+^subjecto~, Benv. (F.).  (N.); -- ^elimenti~, cinque; --
+^elementi~, i pi@u, le prime ediz., Benv. Bart., sotto il qual
+verso il Viv. not@o: che il Vossio alla voce ^Elementum~
+dichiara: <ELEMENTUM ^quibusdam dictum videtur quasi~ ALIMENTUM,
+^quia homines aluntur iisdem, ex quibus componuntur, ac in quae
+resolvuntur~>.  -- Lo Scarab. dice che il W. legge ^alimenti~ con
+la Cr. e con la Fiorentina del 1837, e s'inganna, sendoch@e il
+Witte legga ^elementi~, lettera accattata dal Bianchi e dal
+Fraticelli, di nove testi degli Acc., di alcuni del Varchi, ecc.;
+-- ^alimenti~, Nid. Ald. Bart. Cr.; -- ^di vostri elementi~, il
+24, e il Cass. e (I.); -- ^de' nostri~, il 42; -- ^Muto 'l
+suggetto~, Buti (M-a); -- ^de' vostri~, i pi@u.
+
+	|52-54.  L'altra rimase~, ecc.  L'altra parte degli
+Angeli tennesi fedele a Dio, e cominci@o il canto e la letizia
+che tu vedi, con tanto diletto, che mai non lasciano di girare
+veloci intorno a quel punto.  BENVENUTO.  -- ^E cominci@o
+quest'arte~ ecc., e ricevendone in premio la beatifica
+comprensione di Dio.  Che questa comprensione non ottenesse
+Angelo veruno, se non data prova di sua fedelt@a a Dio, veggasi,
+tra gli altri, il ^Maestro delle Sentenze~ (Lib. II, dist.  4);
+-- ^quest'arte~, questo aggirarsi intorno al lucidissimo punto.
+V. Canto preced., v. 26 e seg.  LOMB.  -- ^Con tanto diletto~,
+che mai non cessa dal ^circuir~, di volgersi in cerchio, dando
+cos@i moto ai cieli.  FRAT.  -- Var.  ^L'altro rimase~, il 28,
+err.; -- ^quell'arte~, il 30; -- ^dilecto~, (I.).  (N.); --
+^disparte~, il 3; -- ^dal circuir~, il 6, Fer.; -- ^d'annoghiar~,
+il 21; -- ^di circuir~, tre.
+
+	|55-57.  Principio del~ ecc.  La detestabile superbia di
+Lucifero fu la prima cagione di sua caduta nel centro della
+Terra, oppresso da tutti i gravi che tendono al centro.  BENV.
+-- Imperocch@e Lucifero, rendutosi sconoscente a Dio delle
+sublimi ricevute doti, e caduto nella rea pretensione di
+uguagliarsi a Dio, tir@o nella medesima reit@a moltissimi altri
+Angeli.  LOMBARDI.  -- ^Principio~, la primaria ^cagione; -- il
+maledetto -- Superbir~ ecc., la maledetta superbia di Lucifero,
+che tu vedesti nel centro della Terra oppresso da tutti i pesi
+che gravitano verso esso centro.  BIANCHI.  -- Varianti.  ^Di
+cader~, quattro; -- ^il maladetto~, alcuni, (F.).  (M.).  Cr.,
+lettera rejetta dai moderni, dopo l'osservazione del Parenti che
+i testi pi@u autorevoli leggono ^maledetto~, e che ^maladetto~ @e
+un idiotismo (^Ann. Diz.~ e ^Catal. Sprop.~ 1842); -- ^maldetto~,
+(I.); -- ^maledecto~, (N.); -- ^cui tu vedesti~, 8. 15.  (I.); --
+^Di tutti i pesi~, tre; -- ^Da tutti pesi~, tre de' miei spogli,
+le prime cinque edizioni; -- ^constretto~, tre, (F.).  (I.).
+(V.); -- ^constrecto~, (N.).
+
+	|58-60.  Questi, che vedi qui~, ecc.  Quelli che vedi qui
+furono umili ed obbedienti a riconoscere il loro essere dalla
+divina bont@a, che li aveva ammoniti a non lasciarsi sedurre.
+BENV.  -- ^Che vedi qui~, in questi festosi cerchj; -- ^furon
+modesti~, furono rispettosi, umili; -- ^A riconoscer s@e~, nel
+riconoscere s@e opera della divina bont@a.  Della particella ^a~
+per ^in~, V. Cinonio; -- ^a tanto intender presti~, a tanta
+intelligenza disposti, pronti.  LOMB.  -- ^A riconoscer s@e~
+ecc., a riconoscersi, essere riconoscenti della bont@a divina.
+Anche nella Vita di santa Maria Maddalena si legge: ^Vogliendosi
+gl'Imperatori riconoscere della sua bontade.~  BIANCHI.  -- ^A
+riconoscer s@e~ ecc., nel riconoscere se stessi opera della
+divina bont@a, che li aveva creati disposti a tanta intelligenza.
+Anco gli Angeli (e fu detto pure altrove), prima di essere
+degnati alla somma comprensione di Dio, sostennero un tempo di
+prova.  FRAT.  -- Varianti.  ^Quei che tu vedi, quei furon~, l'8;
+-- ^Color che vedi, che furon~, il 37; -- ^dalla bontate~, dieci;
+-- ^della bontate~, molti, (I.).  Crusca; -- ^de la bontade~, il
+6, e Benv., che poi legge ^exaltate~ nella rima corrispondente;
+-- ^s@e alla bontate~, il 24; -- ^A riconoscersi della~, il 41;
+-- ^de la bontate~, (F.).  (M.).  (N.).  Fer.; -- ^Che i avea
+fatti~, l'8; -- ^a intender tanto presti~, il 34; -- ^Che li
+avea~, il 53, (M.).  Ferranti; -- ^Che gli have facti~, (I.); --
+^facti~, (N.); -- ^da la bontate~, Ang. Antald. Roscoe.
+
+	|61-63.  Per che le viste~ ecc.  Perch@e furono ajutati
+dalla grazia illuminante e preveniente destinata ai meriti loro;
+il perch@e hanno ferma e piena volont@a confermata nella
+beatitudine loro.  BENV.  -- ^Per che~, vale qui ^laonde, per la
+qual cosa.~  V. Cinonio.  LOMB.  -- ^Le viste lor furo~ ecc., le
+vedute loro furono esaltate con illuminante grazia, meritaron
+dopo quella la cooperante e consumante, per le quali furono in
+grazia confermati; onde dice che hanno piena e ferma volont@a; ed
+altro non vogliono, n@e possono volere se non quello che vuole
+Dio.  VELLUTELLO.  -- Il Lami qui not@o: Il merito nasce dal
+libero arbitrio, che segue la grazia illuminante e traente; e
+bench@e non possano pi@u peccare, pure hanno il libero arbitrio,
+perch@e sono costanti nell'amare Iddio, per dono di Dio.  E. F.
+-- ^Le viste lor~, la loro capacit@a di vedere; -- ^e con lor
+merto~, quello di avere accettata liberamente la prima grazia,
+per cui meritarono la seconda; -- ^S@i c'hanno piena~ ecc., tanto
+che, in virt@u della seconda grazia, hanno ora una volont@a
+perfetta e ferma, per cui @e loro impossibile il prevaricare.
+BIANCHI.  -- ^Piena e ferma volontate.~  Pu@o il volere essere
+buono ed intero, ma non fermo; e queste tre condizioni fanno la
+perfezione suprema.  FRAT.  -- Varianti.  ^Furo esaltade~, il 6;
+-- ^exaltate~ i pi@u ant. e le pr. quattro ediz.; -- ^Per che le
+viste~, i pi@u, (M.).  (I.).  Lomb. Fer. W.; -- ^fuoro~, (F.).
+(N.); -- ^furon~, (I.).  erronea; -- ^alluminante~, l'11; --
+^alluminate e collo merto~, 21. 24; -- ^illuminate~, il 28; --
+^Di grazia~, il 37; -- ^Con grazia~, le prime quattro edizioni;
+-- ^forma e pura~, il 3, erronea; -- ^ferma e piena~, nove, e
+(V.); -- ^voluntade~, il 6.
+
+	|64-66.  E non voglio~ ecc.  L'Angelo ebbe la grazia
+prima di essere beato, per la qual grazia merit@o poi la
+beatitudine; quindi Dante vuol significare: che il ricevere la
+grazia da Dio fu meritorio della beatitudine, nella quale gli
+Angeli si trovano, in ragione dell'affetto con che si accoglie.
+BENVENUTO.  -- ^E non voglio che dubbi~ ecc.  Dice san Tomaso
+(^Part.~ I, ^quaest.~ 60, ^art.~ 3) che l'Angelo ebbe grazia anzi
+ch'ei fosse beato; per la qual grazia egli merit@o poi
+beatitudine.  Onde diremo che fosse l'intenzione dell'Autore: che
+ricevere grazia da Dio fu merito di beatitudine, nella quale essi
+sono per la sua visione; la quale fu tanta quanta piacque al
+Creatore di manifestare.  ANONIMO.  E. F.  -- ^Secondo che
+l'affetto~, ecc., ascrivesi cio@e a merito maggiore o minore, a
+misura dell'^affetto~, dell'amore pi@u o men grande, col quale
+viene essa grazia ricevuta.  LOMB.  -- E il Bianchi: In ragione
+dell'affetto che si apre alla grazia, o con che la grazia si
+accoglie.  -- ^@E meritorio~, @e opera meritoria delle creature
+intelligenti.  FRAT.  -- Varianti.  ^E non vuo'che tu dubbi~, il
+17; -- ^sii certo~, quattro, Bart.; -- ^sia certo~, il 29. 36.
+Benv. ed altri; -- ^meritorio~, ventiquattro de' miei spogli,
+quattro delle prime sei ediz., Cass. Caet. Bartol. Fl.  Fer. W.
+Benv. Rosc. e tutti i moderni; -- ^meritoro~, (M.).  Cr. Lomb.
+con la Nidob. biasimata dal Parenti, che legge ^meritorio~
+co'testi pi@u autorevoli, e cos@i ^l'@e aperto; -- Ch@e ricever
+la gloria @e meritorio~, Bart,; -- ^Ch@e ritener la gracia~, il
+37; -- ^gratia~, le prime quattro ediz.; -- ^l'affetto l'@e
+aperto~, i pi@u Nid. Ald.  Bartol. W. ecc.; -- ^le @e aperto~,
+Benv. Fer.; -- ^gli @e aperto~, la Crusca con pochi testi, dando
+a ^gli~ il senso di ^a loro~, ed il Lombardi ne rimprover@o gli
+Accademici, sendoch@e non si parli qui dell'aprirsi l'affetto
+agli Angeli, ma sibbene dell'aprirsi dagli Angeli e dagli uomini
+l'affetto alla grazia.  -- Anche il Poggiali disapprov@o il
+^gli~, lesse ^le~ con l'Aldina, riferendo questo dativo a
+^grazia.~  -- Il Fraticelli spiega: <^Gli~ per ^le~, cio@e alla
+grazia; ma come si possa usare ^gli~ per ^le~ non capacita; --
+^effetto~, tre; (F.); -- ^effecto~, (I.).  (N.); -- ^li @e
+aperto~, Scarab. con testi autorevoli; -- ^gli @e~, molti.
+
+	|67-69.  Omai d'intorno~ ecc.  Omai puoi vedere in questa
+unione d'angeli, e contemplare senza bisogno d'altro ajuto, se le
+parole mie sieno ritratte da buone autorit@a e dimostrazioni.
+BENV.  -- Se le mie parole sono ben intese, ora puoi senz'altro
+ajuto comprendere molt'altre cose appartenenti a questa angelica
+assemblea.  -- ^Concistoro~, in senso proprio significa
+^Assemblea del Papa e Cardinali~; ma qui figuratamente sta per
+^consesso d'angeli.~  -- Varianti.  ^Ormai dintorno~, il 37; --
+^Intorno omai~, (M.).  (ma nell'ediz. di Londra leggesi ^Omai
+intorno~); -- ^consistorio~, diecisette de' miei spogli, (F.).
+(N.).  (V.).  Cass. Caet. Bart. Fl. Fer. W. ecc.; --
+^concistorio~, cinque, (I.).  Benv.; -- ^consistorio~, Bart.
+Rosc. Cass. Caet. Fosc.; -- altri ^consistoro; -- consistoro~,
+(M.).  Cr.; -- ^sanza~ e ^senza~, var.; -- ^loro agiutorio~, 3.
+37; -- ^sanza altrui aitoro~, il 4; -- ^adjutorio~, quattro,
+Benvenuto; -- ^ajutorio~, diecisette, Cassinese, Caetani,
+Bartoliniano, Fl. (F.).  (I.).  (N.).  (V.).  Ferranti, Witte; --
+^senz'altro lavoro~, Buti (M-a), ma preferisce ^ajutoro; -- Mi
+son raccolte~, l'8; -- ^Mei son ricolte~, il 32; -- ^Mie son
+raccolte~, il 37; -- ^aiutoro~, (M.).  Crusca e seguaci.
+
+	|70-75.  Ma, perch@e in terra~ ecc.  Ma perch@e tu vegga
+la verit@a in tutto il suo lume, aggiugner@o ancora, affinch@e tu
+possa confutare gli errori, che laggi@u nel mondo si prendono,
+equivocando nell'interpretazione di s@i fatta scrittura; sendo
+che in terra dalle cattedre s'insegni: che gli angeli abbiano
+intelletto, memoria e volont@a.  Ma nell'angelo non @e intelletto
+agente n@e possibile come nell'uomo, mentre l'intendere @e su noi
+qualche volta in potenza e qualche volta in atto; dunque
+l'intelletto non pu@o ritenersi negli Angeli che per
+similitudine, avendo innata l'intelligenza; ed in questo senso
+deve interpretarsi Dante.  L'uomo vuole il bene, cui va dietro
+per mezzo di raziocinj, de'quali l'Angelo non abbisogna.  E
+neppure la memoria, che @e potenza per mezzo di un organo
+corporeo, e non pu@o trovarsi nell'Angelo, che @e sostanza
+spirituale.  La memoria inoltre @e soltanto del passato, e
+l'Angelo vede in Dio presenzialmente le cose anche future.  Fin
+qui Benvenuto.  -- ^Equivocando~, per ^isbagliando; -- in s@i
+fatta lettura~, dice in cambio di ^dottrina~, inerentemente ad
+avere della medesima dottrina detto ^che per le vostre scuole si
+legge.~  LOMB.  -- ^Si legge~, si insegna dalla cattedra; -- ^@E
+tal che intende~, ecc., le si attribuiscono le stesse facolt@a
+dell'anima umana.  BIANCHI.  -- Varianti.  ^Scole~, il 12, e le
+prime cinque ediz.; -- ^iscuole~, il 21; -- ^per le nostre
+scole~, il 37; -- ^in terra~, i pi@u, (N.).  Fer. W. Benv.; -- ^e
+si ritorna e vuole~, dieci, (M.); -- ^e vole~, il 52, Benv.
+Nidob.; -- ^che intende~, Fer. W.  Benv.; -- ^che 'ntende~, le
+prime quattro ediz.; -- ^intende, si ricorda~ ecc., (I.); --
+^Ancor dico, perch@e tu veggia~, il 37; -- ^Amor dir@o~, (I.); --
+^che l@a gi@u~, i pi@u antichi, le prime quattro edizioni,
+Ferranti, Benvenuto; -- ^E qui invocando~, il 33; -- ^E qui
+vocando~, le prime cinque edizioni; -- ^in s@i facta lectura~,
+(I.).  (N.).
+
+	|76-78.  Queste sustanze~, ecc.  Queste sostanze
+angeliche, dacch@e furono beatificate dalla vista di Dio, non
+volsero mai gli occhi da lui, al quale nulla @e occulto.  BENV.
+-- ^Della faccia.  Della~ vale ^Per la.~  V. Cinonio.  -- ^Faccia
+di Dio~, ellissi, a vece di: ^Poich@e fur gioconde per la veduta
+faccia di Dio.~  LOMBARDI.  -- ^Poi che fur gioconde~, quando,
+dopo la prova, videro Dio.  FRAT.  -- Varianti.  ^Substanzie~, 6.
+(M.); -- ^fur joconde~, 6. 21; -- ^e puoi che fuor~, il 37; --
+^substanze~, (F.).  (I.).  (N.).  (V.); -- ^sustanze~, Fer.; --
+^substantie~, Benv.; -- ^Dalla faccia~, nove, (F.).  (M.).  (N.).
+(V.).  Rosc.; -- ^Da la faccia~, molti; -- ^Della faccia~, (I.).
+Cr.; -- ^De la faccia~, Benv.; -- ^l@a gi@u si nasconde~, il 20.
+
+	|79-81.  Per@o non hanno~ ecc.  Quindi non hanno vedere
+interrotto da nuovo oggetto sopravveniente; la loro mente @e
+continua nell'atto, e quindi la facolt@a della memoria, per
+richiamare un concetto diviso ed allontanato dalla mente.  BENV.
+-- ^Non hanno vedere~ ecc., non hanno esse, come noi, un
+intendere interrotto da sopravvegnente nuovo obbietto, che rimova
+il concetto dell'anteriore obbietto; -- ^e per@o non bisogna~
+(intendi ^a loro~), -- ^Rimemorar~ ecc., non hanno esse, come
+noi, bisogno di rammemorare, riducendosi presente un concetto
+^gi@a diviso~, gi@a allontanato dalla mente.  LOMB.  -- Varianti.
+^Volere interciso~, il 9; -- ^oggetto~, 15. 37; -- ^Di nuovo~, il
+17; -- ^De nuovo~, (M.); -- ^Da un nuovo~, (I.); -- ^obbiecto~,
+(F.).  (I.).  (N.); -- ^Rememorar~, quattro, (V.); -- ^per
+concepto~, quattro, (F.).  (I.).  (N.); -- ^Remunerar~, tre.
+
+	|82-84.  S@i che l@a gi@u~ ecc.  Ecco perch@e nel mondo
+si sogna ad occhi aperti, tanto che gli Angeli si ricordino alla
+maniera degli uomini, quanto tenendo l'opposta dottrina.  Alcuni
+sognano, credendo dire la verit@a, altri sognano, credendo di non
+dirla, ed in questi ultimi @e pi@u colpa e pi@u vergogna.  BENV.
+-- Alberto Magno, ricercando ^utrum insit Angelis memoria~ (^De
+quatuor coaevis, Tratt.~ IV, ^qu.~ 27, ^art.~ 1), riferite prima
+le ragioni di chi la  nega assolutamente, passa a stabilire che
+l'abbiano bens@i gli Angeli, ma che sia differente dalla nostra.
+Emerge da ci@o che divise furono in ci@o le opinioni dei teologi,
+gli uni negando memoria agli Angeli, gli altri attribuendogliela
+somigliante alla nostra, due estremi condannati da Dante.
+LOMBARDI.  -- In coloro che negano memoria agli Angeli, @e pi@u
+colpa e pi@u vergogna, perch@e e mal ragionano, e tolgono
+all'angelica perfezione.  BIANCHI.  -- Nella ^Somma~ si dice: che
+quanto il movimento del peccato @e pi@u proprio della volont@a,
+tanto il peccato @e pi@u grave.  FRAT.  -- Varianti.  ^Per che
+laggi@u~, l'11; -- ^S@i che l@a gi@u~, le prime quattro ediz.,
+Fer.; -- ^se insogna~, l'8; -- ^credendo di cor vero~, il 42; --
+^e men vergogna~, 8. 41; -- ^Ma nell'una~, il 14, (F.).  (I.).
+(N.); -- ^ee pi@u colpa~, Benv.; -- ^@e pi@u cura~, il 21; -- ^Ma
+l'ultimo @e pi@u colpa che vergogna~, l'Antaldino.
+
+	|85-87.  Voi non andate~ ecc.  Voi gi@u in terra
+filosofando non tenete una medesima via, cio@e quella che conduce
+al vero; -- ^tanto vi trasporta~ ecc., tanto vi sv$ia la smania
+di comparire, pi@u presto che essere filosofi, pi@u presto per
+far pompa di dottrina, che essere veramente dotti.  BENVENUTO.
+-- ^Voi non andate gi@u~, per ^Voi gi@u~ (in terra) non andate;
+-- ^per un sentiero~, per quello della verit@a; -- ^L'amor
+dell'apparenza.~  Come ^apparere~ si us@o in senso di ^comparire
+orrevole~, V. il Voc., qui intendo che ^apparenza~ valga
+^orrevole comparsa~, e ^suo pensiero~, il pensiero, la cura che
+vi prendete di lei.  LOMB.  -- ^L'amor dell'apparenza~, che @e
+quell'occupazione che un uomo vano si d@a per apparire, o anche
+quella secreta illusione d'immaginata gloria, in cui tanti
+letterati e filosofi si beano.  BIANCHI.  -- ^L'amor~ ecc., la
+smania e la vanit@a d'apparire sapienti ed ingegnosi.  FRAT.  --
+Dante rispett@o le regole risguardanti la retta interpretazione
+delle Scritture; e siffatta predisposizione, pi@u d'ogni altra
+necessaria, @e l'umilt@a della mente e del cuore, come insegnano
+S. Agostino, S. Girolamo ed altri Padri.  CAVEDONI (^Opusc. Rel.~
+ecc., X, pag. 166).  -- Var.  ^Sentero~, tre, (F.).  (N.).  (V.);
+-- ^Philosophando~, (M.).  (I.); -- ^L'amor de la parvenza e 'l
+so~', l'8; -- ^apparenza in pensiero; -- L'amor della speranza~,
+31. 34; -- ^de la parenza~, (M.); -- ^e suo pensiero~, Benvenuto,
+il 7; -- ^L'amore d'apparenza~, (F.).  (N.); -- ^dell'appaienza~,
+(I.); -- ^e il suo pensiero~, Fer. W.; -- ^e 'l suo~, le prime
+quattro edizioni.
+
+	|88-90.  Ed ancor questo~ ecc.  E questa smania di
+comparire eccita meno lo sdegno di Dio, de quello che quando si
+pospone la Sacra Scrittura, o viene stortamente applicata.
+Alcuni moderni predicatori pare in fatti che si vergognino di
+citare san Matteo, san Marco ecc., mentre ad ogni parola citano
+Aristotele, Averoe, Platone ecc.  Altri poi storpiano il testo,
+dandogli strana interpretazione, con dispregio dei santi Dottori,
+che tanto scrissero per farne conoscere il vero senso.  BENV.  --
+^Posposta~, messa in non cale; -- ^torta~, stiracchiata al falso.
+LOMB.  -- Varianti.  ^Ed anche~, 4. 28; -- ^quasi si comporta~,
+il 10; -- ^qua su~, il maggior numero; -- ^anco~, 21. 35.  (M.).
+(I.); -- ^si conforta~, il 36; -- ^disdegno, quando @e posposta~,
+(I.); -- ^desdegno~, (N.); -- ^Scriptura~, tre, (F.).  (I.).
+(N.); -- ^o quando~, quindici, le pr. quattro ediz., Nidob. W.
+Bartol. Fosc.  Fer. Viv.; -- ^e quando~, Cr. ecc.; -- ^ee torta~,
+il 41, Benv.; -- ^e quando torta~, il 38.
+
+	|91-93.  Non vi si pensa~ ecc.  Non pensano costoro
+quanto prezioso sangue fu sparso per propagarla nel mondo; e non
+sanno quanto sia accetto a Dio chi umilmente la rispetta e la
+segue.  BENVENUTO.  -- ^Quanto caro costa~, legge il Caet., ed il
+suo Postill. chiosa: ^Non cogitatur quanto sanguine martyrum
+diffusa est in mundum ista sacra Scriptura, et quantum gratum sit
+Deo quando bene exponitur, ut fideles humiliter adhereant.  --
+Seminarla~, spargerla; -- ^s'accosta, si unisce.~  LOMB.  --
+^Quanto sangue costa~, vuol dire del sangue sparso per la
+propagazione delle verit@a rivelate per la Scrittura; --
+^s'accosta~, conforma ad essa le prorie opinioni, sommettendo
+umilmente l'intelletto alle sue decisioni.  BIANCHI.  --
+^Seminarla.~  Cos@i nel XXII del ^Purgatorio~, verso 77 e seg.:
+^Seminata -- Per li messaggi dell'eterno regno~, citazione del
+Fraticelli.  -- Varianti.  ^Quanto caro costa~, il 17 in margine,
+ed il 36; -- ^Seminando nel mondo~, il 36; -- ^e quando piace~,
+l'8; -- ^A chi umilmente con essa~, 22.  37.  (F.).  (N.).
+
+	|94-96.  Per apparer~ ecc.  Per far pompa di dottrina e
+d'ingegno, s'inventa, ed i predicatori seguono tali invenzioni, e
+si lasciano indietro, per simili baje, le verit@a del Vangelo.
+BENVENUTO.  -- ^Per apparer~ ecc.  Ecco il verbo ^apparere~ nel
+senso detto poc'anzi di ^comparire orrevole.~  LOMB.  -- Il
+Biagioli, per abitudine, gli contraddice, affermando che
+<^apparere~ @e lo stesso che ^parere~, salvo la differenza che
+pone nel primo la proposizione ^a~, che @e di mettere il termine
+in riguardo>.  -- Il Parenti difese l'opinione del Lomb.,
+avvert@i che quella del Biagioli ci gittava nell'astruso, e
+richiederebbe commento di commento, indi soggiunse: <Ma s'egli
+(il Biagioli) ammette che qui ^apparere~ valga ^comparir dotto~,
+perch@e sar@a falso affatto il ^comparire orrevole~ del
+Lombardi?>  Ricorda poi la chiosa originale di Benvenuto, che
+risponde nella versione a ^far pompa di dottrina e d'ingegno.~
+-- L'^apparere~ di Dante non @e diverso dall'^apparire~ nel
+seguente passo del Barberino: ^Ed un parla a piacere~ ecc.  ^E
+l'altro sol perch@e vuol apparere~, dalla Crusca spiegato per
+^far pompa~, e sta bene.  -- ^Face~, per ^fa~, adoperato anche
+fuori di rima da Scrittori approvati.  V. Mastrofini.  -- ^Son
+trascorse~, si trattano.  BIANCHI.  -- Qui vale ^trattate,
+discusse.~  FRAT.  -- Var.  ^Figura e face~, il 4; -- ^Per
+apparar~, 31. 38; -- ^se 'ngegna~, (F.).  (N.); -- ^transcorse~,
+il 3; -- ^e queste son~, cinque, Fer.; -- ^inventioni~, parecchi,
+e le pr. quattro ediz., Benv.; -- ^Da predicante~, il 14; -- ^e
+il Vangelio~, Fer.  Witte.
+
+	|97-99.  Un dice~ ecc.  Alla morte, p. es., di Ges@u
+Cristo accadde una terribile eclissi.  Ora alcuni opinarono che
+la Luna, ch'era allora in XXV+a~, scorresse per segni, e si
+frapponesse in linea retta al Sole, coprendone l'intera luce.  La
+Luna era piena.  BENV.  -- Un dice che la Luna, opposta in
+quell'ora al Sole, retrocedendo, s'interpose tra il Sole e la
+Terra.  Celebrandosi da' Giudei la Pasqua nel giorno del
+plenilunio a Sole in Ariete, ed essendo il Redentore morto nel
+giorno susseguente alla Pasqua, dovea la Luna essere piena ed al
+Sole opposta.  LOMB.  -- E vuol notare qui la sciocchezza di
+molti predicatori a' suoi tempi, che, a comparir dotti,
+proponevano dal pulpito questioni inopportune e del tutto vane.
+-- Varianti.  ^La Luna si richorse~, il 15; -- ^Benedice che la
+Luna~, il 21; -- ^ricorse~, 22. 34; -- ^Hom dice~, il 40; -- ^Uno
+dice~, (F.).  (I.).  (N.); -- ^e sentir pose~, il 9; -- ^Ne la
+passion~, Benv., i pi@u antichi, (F.).  (N.); -- ^Perch@e lume
+del ciel~, il 3; -- ^lume del Sol~, il 36; -- ^luce del Sol~, il
+15; -- ^gi@a non si porse~, il 35; -- ^Per che il lume~, (I.).
+Fer. W.; -- ^Per che lume~, (N.); -- ^Per che 'l lume~, (F.).
+(M.).
+
+	|100-102.  E mente; ch@e la luce~ ecc.  Cos@i lesse
+Benvenuto, Bart. e Rosc.; lettera egregiamente difesa dal
+Parenti, e seguitata dal Viviani, autenticata dalla seguente
+chiosa di Benvenuto: ^Ille talis sic dicens mentitur per gulam,
+nec scit quid dicat.~  -- Accettai questa lettera nella Padovana
+del 1822, e la rispetto anche qui, meravigliando che non fosse
+ricevuta dagl'Interpreti posteriori.  Sono quindi in dovere di
+ripetere l'egregia chiosa del Parenti: <Io tengo per fermo
+(dic'egli) che s'abbia a leggere: ^E mente; ch@e la luce si
+nascose~, il che si far@a chiaro con una piccola parafrasi
+dell'intero costrutto, La tumida scienza e la filosofica
+tracotanza sono subentrate alla schietta dottrina ed alla sublime
+semplicit@a dell'Evangelo.  Ne vuoi un esempio?  Havvi perfino
+chi, raccontando l'oscuramento avvenuto nella morte del
+Salvatore, per far pompa di cognizioni astronomiche, ne assegna
+per causa l'interposizione della Luna fra la Terra ed il corpo
+solare; e non s'accorge che parla da ignorante e da bugiardo;
+imperocch@e s@i fatta eclissi non avrebbe potuto essere che
+parziale; ed il vero si @e che la luce si nascose, per modo, che
+ogni paese, il quale avrebbe dovuto essere illuminato dal Sole,
+rimase ottenebrato in quel tempo; ^e fu notte nel mondo
+universale~, siccome gli Storici sacri apertamente ci dicono:
+^Obscuratus est Sol...  Et tenebrae factae sunt super universam
+terram~>.  -- L'incauto (continua il Parenti) che sostitu@i la
+lezione ^Ed altri~ (qui ponga ben mente lo Scarabelli, che
+prefer@i questa bugiarda lezione), non s'avvide che veniva in
+questo modo a riporre tra le ^favole~ una sentenza corrispondente
+alla narrazione del sacro testo; n@e s'avvide punto che Dante
+avrebbe qui proposta una questione senza darne lo scioglimento,
+il che sarebbe contrario al metodo osservato in questo medesimo
+canto, dove oppone sempre il suo parere alle opinioni da lui
+credute insussistenti.  -- E qui pone la chiosa originale di
+Benv., poi soggiunge: <N@e faccia caso il trovare in molti
+antichi testi ^E mentre.~  Questa @e una di quelle corruzioni che
+provano la vera lettera.  Benvenuto stesso ce ne aveva posti in
+guardia: = ^Nec dicatur~ Mentre, ^sicut textus multi habent quia
+tunc esset litera penitus superflua et imperfecta~ =>.  -- Questa
+lezione fu poi da me e da altri riscontrata in altri testi, fu
+notata dal Foscolo ed accettata dal Viviani e dal Cesari.  -- Il
+Torri fece conoscere che l'Ottimo non doveva aver letto
+diversamente, chiosando: <^La quale posizione~ (della Luna) ^per
+lo modo ch'eglino favoleggiano non @e vera~, che @e quanto dire
+^che mentono~>.  -- La lettera ^E mentre~ fece poi dire al
+Commentatore della Vindellina: ^Queste sono parole male
+componute, ma hanno l'apparenza di voler dire qualche cosa.~  Non
+mancarono le opposizioni al Parenti, e in parecchie ristampe si
+@e seguita la lezione ^Ed altri~ della Crusca.  Egli rinnov@o la
+questione nelle sue ^Esercitazioni filologiche~ (n+o~ 8, pag.
+64-66), affinch@e sia freddamente discussa da giudici competenti.
+-- Intanto mi convien notare che la lettera ^E mente~ ricorre nel
+migliore de' Patavini, ne' miei spogli 7, 14, 11 in prima
+lettera, e 26 e 52.  Noter@o, da ultimo, che il Postill. del cod.
+41 segn@o un punto sotto la ^r~ di ^mentre~, ad accennarla
+lettera da tor via da tal voce.  -- Ignoro al momento le ragioni
+che addussero gli Editori posteriori a rimetter nel testo ^Ed
+altri~, e penso che saranno importanti, niuno di loro (trattone
+il Viviani) avendo accennata la lezione preferita dal Parenti.
+Dirabbesi che la spegiarono.  Chiarir@o il fatto con giunta
+marginale.  -- Varianti de' m. s.  ^E mentre~, ventotto almeno
+de' miei spogli, cinque delle prime sei ediz., Vaticano, lettera
+che potrebbe stare; -- ^E l'altro~, il 17; -- ^che la Luna~, tre,
+(F.).  (N.); -- ^Ed altri~, (V.).  Cr. Fer. ecc.; -- ^Da s@e,
+agl'Ispani ed~, il 3; -- ^agli Spani~, cinque; -- ^per@o a'
+Persiani~, il 38; -- ^a l'ispani et a l'indi~, (F.).  (N.); -- ^a
+li hispani et a li~, (M.); -- ^eclipsi~, nove, e le prime cinque
+ediz.; -- ^eclipse~, l'8; -- ^a Giuda~, il 24.  Intorno a questo
+miracoloso oscuramento del Sole, durato da sesta a nona,
+gioverebbe la testimonianza di qualche scrittore sincrono,
+storico od astronomo che fosse e non cristiano.  L'oscuramento
+del Sole fu creduto da Tertulliano, da Teodoreto, da S. Girolamo
+e da altri esimj Dottori.  Il diligentistissimo Benvenuto cita la
+testimonianza de Dionisio Areopagita, allora il primo de'
+filosofi, che esclam@o: ^O il Dio della natura soffre, o la
+macchina del mondo si scioglie.~ -- <Ed avvert@i che lo stesso
+Dionisio, prima della sua conversione, seguiva opinione
+contraria, come lo confessa egli stesso nelle lettere a
+Policarpio.  Un'eclissi non pu@o essere, per leggi di natura,
+universale>.  -- Continuando in proposito le mie ricerche, trovai
+confermate le ultime parole di Benvenuto in certi ^Sermoni
+sacri~, che sospettai, spogliandoli in Parigi, essere quelli di
+mons. Musso, per l'identicit@a degli esempj.  Nel ^Serm.~ XXIII
+sta scritto: <Quando fu quella stupenda eclissi, disse Dionisio
+ad Apollofane: O sacrario di gran perizia, el Sole pate molestia!
+Non sapemo el misterio di tanta cosa!>  Ma anche questa autorit@a
+@e sospetta ai miscredenti; e per confonderli importerebbe
+citarne una almeno di Scrittore pag@ano, che accertasse un tanto
+prodigio.  L'astronomo Barone de Zach suppone che un'enorme
+cometa s'intrammettesse allora tra la Terra ed il Sole; ma il
+sig. G. Bianchi, professore d'astronom$ia in Modena, s'ingegn@o
+di mostrare l'insufficienza di un'ipotesi fisica, a spiegare la
+miracolosa oscurazione durata da sesta a nona sulla universa
+terra.  Aggiunge: che la Storia non ricorda una s@i straordinaria
+cometa.  -- ^In pergolo~, in Ricc. Laneo in margine.
+
+	|103-105.  Non ha Fiorenza~ ecc.  Lapa @e un'erba che si
+arrampica intorno ad altra pianta; e di qui venne il nome di
+^Lapo~, in senso di ^avaro, loquace, importuno, rapace.~  --
+Fiorenza non ha tanti Lapi e Bindi, quante dal pergamo si
+proclamano annualmente di siffatte favole.  BENV.  -- ^Lapi~ e
+^Bindi~, corruzioni di nomi assai frequenti in Firenze al tempo
+del Poeta.  <Lapo (dice il Venturi) @e il corrotto di Jacopo,
+come Cencio di Lorenzo, Meo di Bartolomeo, Titta di Gio.
+Battista.  Bindo, nessuno sa rinvenire da che nome si deduca;
+onde io stimo che sia intero, e molto usato in Firenze ai tempi
+del Poeta; e tanto pi@u che anche ai tempi nostri il primogenito
+del sig. Barone Ricasoli, per nome proprio, senza peggiorativo,
+si chiama Bindaccio>.  -- Fu opinione del Lombardi che ^Bindo~
+venga da ^Albino~; e poich@e siamo costretti a congetture, direi
+^Bindo~ venire da ^Bernardo.~  -- Che ^Lapo~ e ^Bindo~ fossero
+nomi molto usati in quel tempo in Firenze, vedine una prova
+nell'^Indice della Cronaca~ di Gio. Villani, sotto le lettere B.
+L.  LOMB.  -- ^Bindo~, @e creduto da alcuni (tra questi il
+Salvini) una corruzione di ^Aldobrandino.~  BIANCHI e FRAT.  -- Il
+fu marchese Antaldi opin@o che Dante, coi nomi di ^Lapi~ e
+^Bindi~ volesse significare due specie di malvagj, e come se
+avesse scritto: ^Non ha Firenze tanti malvagj pronti per denari a
+vendere la giustizia.~  Dante vituper@o ^Lapo Saltarelli~ nel XV
+di questa Cantica, ma il dotto signore non riusc@i a trovare qual
+gen$ia di viziosi intendesse Dante ferire sotto il nome di
+^Bindi.~  Questa Nota non capacita.  -- Varianti.  ^Lapi o Bindi~,
+sei; -- ^Fiorenza~, sei, (F.).  (I.).  (N.).  (V.).  Witte, che
+seguito, avvisandola originale; -- ^in Firenze~, tre, (M.).
+Crusca, ecc., Bartoliniano, Benvenuto e i testi moderni; --
+^Quante se fanno favole~, il 21; -- ^s@i facte~, (I.).  (N.); --
+^gridando~, il 21; -- ^si grida~, (I.); -- ^In bergamo~, (N.); --
+^In pergolo~, Ferranti.
+
+	|106-108.  S@i che le pecorelle~, ecc.  E cos@i le
+pecorelle ignare, ^Tornan dal pasco~ ecc., metaforicamente per
+^pasciute di favole; -- E non le scusa~ ecc., e non le scusa la
+loro ignoranza, per esser questa superabile.  BENV.  -- ^Pasciute
+di vento~, pasciute di ciance; -- ^E non le scusa~ ecc., il non
+vedere il danno loro non le scusa, per essere ignoranza crassa,
+alla quale dovriano cercare di rimediare, e di meglio voler
+intendere la salute loro.  VELLUTELLO.  -- ^Pasciute di vento~,
+si tornano dalla predica senza alcun profitto spirituale, vuote
+d'istruzione nella mente, e d'ogni santo affetto nel cuore.
+BIANCHI.  -- Var.  ^Le pecorelle~, l'8; -- ^del pasco pasciute
+del vento~, 5. 41; -- ^del pasco~, cinque; -- ^e pasciute~, il
+33; -- ^dal pasto~, il 37; -- ^E non la @e scusa~, il 3; -- ^lo
+danno~, ventidue, Bart. Rosc., le pr. quattro ediz., Nid. W.; --
+^lu danno~, il 32; -- ^il non veder~, il 9 e il 37; -- ^lor
+danno~, 26.  37; -- ^E non le iscusa~, il 37.
+
+	|109-111.  Non disse Cristo~ ecc.  Non disse Cristo alli
+suoi Apostoli: Andate per lo mondo a predicare favole, ciance e
+menzogne, ma diede loro il Vangelo.  BENV.  -- ^Diede lor~
+(intendi ^a predicare~); -- ^verace fondamento~, la sua dottrina,
+il suo Vangelo: ^Praedicate Evangelium~, comand@o loro (S. MARC.
+I, 6).  LOMB.  -- ^Al suo primo convento~, al collegio degli
+Apostoli; -- ^verace fondamento~, fondamento di verit@a e di
+salute, il suo Vangelo.  BIANCHI.  -- ^Fundamentum enim aliud
+nemo potest ponere praeter id quod positum est, quod est Christus
+Jesus~ (S. PAOLO, cit.).  CAVEDONI.  -- Var.  ^Al mondo~, i pi@u;
+-- ^al mundo~, (N.); -- ^Ma diede a lor~, tre; -- ^fundamento~,
+il 35, ed altri.
+
+	|112-114.  E quel tanto~ ecc.  E soltanto il Vangelo fu
+dagli Apostoli predicato, sicch@e a pugnare contro gl'increduli e
+gli eretici, per accender la Fede ne' cuori freddi e duri, si
+fecero lance e scudi dello stesso Vangelo.  Oh quante volte io
+stesso, invece dell'Evangelio, sent$ii dal pergamo spiegarsi e
+predicarsi alle donnicciuole la fisica, l'astrolog$ia,
+l'astronom$ia, la medicina!  BENV.  -- ^E quel tanto~, per ^E
+quello solamente~, il Torelli ed il Lombardi; -- ^son@o ne le sue
+quance~, e quella fondamentale dottrina evangelica da essi fu
+predicata.  LOMB.  -- ^Son@o~, mostra il vigore dell'animo
+ond'era la parola di quei predicanti avvalorata.  BIAGIOLI.  --
+^Nelle sue guance~, si ud@i suonare energico in bocca loro, s@i
+che il solo Vangelo valse ad essi per tutt'arme a pugnare per la
+propagazione della Fede.  -- Il Costa per ^sue guance~ intese
+quelle di Ges@u Cristo; e male.  BIANCHI.  -- La parola ^sue~,
+aggiunta a ^guance~, pu@o intendersi anche di Cristo, ma forse
+non bene ugualmente; -- ^scudi e lance.~  Nella Scrittura: ^Qui
+per fidem vicerunt regna... fortes facti sunt in bello~ (^Hebr.~
+XI).  FRAT.  -- Var.  ^E quel canto son@o~, 28.  41; -- ^E quel
+tanto sonoe~, il 29; -- ^nelle lor guancie~, Pad. 1859.  Ma con
+quale autorit@a?  -- ^Scudo e lance~, pi@u di trenta de' m s., le
+pr. sei ediz., Benv. Vat. Chig., e la seguito; -- ^Dello
+Vangelio~, tre; -- ^fero iscudo~, 15. 33; -- ^fecier~, 26. 42; --
+^ferro e stato e lance~, il 37; -- ^feno~, il 40; -- ^fecer~, il
+41; -- ^De l'evangelio~, (F.).  (I.).  (N.); -- ^De lo~, (M.).
+
+	|115-117.  Ora si va~ ecc.  Ora si predica con arguzie e
+con buffonerie, e basta che si rida, perch@e sia satisfatta la
+vanit@a del predicatore.  BENV.  -- ^E con iscede, iscede~ per
+^scede~, protesi per agevolamento della pronuncia ed interezza
+del verso.  LOMB.  -- ^Aliis verbis truffatoriis~, nota il
+Postill. dell'Ang.  -- ^Gonfia il cappuccio.~  Il Daniello ed
+altri qui intendono accennati i Frati, ma non pensarono che a
+quel tempo ogni persona usava il cappuccio invece del cappello;
+ed in grandezza distinguevasi quello de' preti.  -- Il Boccaccio
+(^Nov.~ 65): ^Con un cappuccio grande a gote, come noi veggiamo
+che i preti portano... si mise a sedere in coro.~  Non convenendo
+adunque il ^becchetto~ al ^cappuccio de' frati~, come ne
+accertano le antiche sculture e pitture, rimane che pi@u tosto
+agli oratori preti tirasse Dante questa sferzata.  LOMB.  -- ^Pur
+che ben si rida~, dagli ascoltanti; purch@e alla predica si
+divertano.  E di tali predicatori che studiano il divertimento
+degli spiriti frivoli, per uno stile spruzzato di tutti gli
+odori, e svenevole quanto una meretrice, non @e penuria anche a'
+nostri d@i.  -- ^Gonfia il cappuccio~, @e soddisfatta la loro
+vanit@a.  BIANCHI.  -- ^Scede~, fors'anco negli atti; -- ^Gonfia
+il cappuccio~, per la boria soddisfatta.  FRAT.  -- Var.  ^E con
+scede~, il 28; -- ^Ora si va commoti~, (F.).  (N.); -- ^con
+moti~, (M.); -- ^con motti~, (I.).  Crusca, ecc.; -- ^A predicar,
+ch@e pur che ben~, il 15; -- ^il cappuccio~, molti, Fer. W.
+Benv.; -- ^ed altro non si chiede~, l'8.
+
+	|118-120.  Ma tale uccel~ ecc.  Ma tale uccello ha il
+nido nella punta del cappuccio (il diavolo cio@e), che se
+l'uditorio lo potesse vedere, non si fiderebbe di tal razza di
+predicatori.  BENVENUTO.  -- ^Ma tale uccel~ ecc.  Allusivamente
+al detto di S. Pietro: ^Spiritu sancto inspirati locuti sunt
+sancti Dei homines~ (^Ep.~ II, cap. I).  E vuol dire che non
+ispira a costoro le parole lo Spirito Santo, ma il Diavolo.  --
+Il Varchi, descrivendo le parti del cappuccio, dice: ^Il
+becchetto @e una striscia doppia del medesimo panno, che va fino
+in terra, e si ripiega in su la spalla destra, e bene spesso si
+avvolge al collo, e da coloro che vogliono essere pi@u destri e
+pi@u spediti, intorno alla testa~ (^Stor.~, Lib. IX).  Questa
+descrizione fu ignorata dal Venturi, per la qual cosa si dolse
+che per ^becchetto~ gli Spositori spiegassero ^fascia di
+cappuccio~; e pretese che ^becchetto~ dovesse significare ^la
+punta del cappuccio~, e come intese Benvenuto.  -- ^Ma tale
+uccel~ ecc.  Intendi, il Demonio; -- ^nel becchetto~, il
+becchetto @e parte del cappuccio; -- ^vederebbe -- La perdonanza~
+ecc., vedrebbe che bella perdonanza, o indulgenza, aspettar si
+potesse da un uomo, che @e pieno dello spirito del diavolo, non
+di quello di Ges@u Cristo.  FRAT.  -- Varianti.  ^Nel benherro
+s'annida~, il 35; -- ^si annida~, molti, Fer.; -- ^s@e annida~,
+Benv.; -- ^e' vederebbe~, tutti i testi, meno la Nid., che ha
+^non torrebbe~, e alcuni mss.  Fer. Pad. 1859, e Scarab. che la
+dichiara lettera pi@u logica, pi@u propria, accettata dal Fosc.;
+-- ^il vulgo~, parecchi, Fer. W.; -- ^di ch'el si confida~,
+ventitr@e almeno de' m. s., le prime sei ediz., e la seguito; --
+^di che ei si~, Fer.; -- ^di ch'el~, 25. 26; -- ^non torrebbe --
+La perdonanza~ ecc., non riceverebbe da costoro quella
+indulgenza, che anche, senza richiedere pentimento del peccato, e
+proposito di abbandonarlo, spacciano di concedere, e che il volgo
+confida di ottenere.  Fin qui il Lombardi, leggendo con la Nid.
+^non torrebbe~ al v. 119, a vece di ^vederebbe~ della Vulgata,
+parendogli migliore.
+
+	|121-123.  Per cui tanta~ ecc.  Fu per questo che l'umana
+stoltezza allarg@o ed estese il suo regno, che ad ogni predicante
+ciecamente fosse creduto, e senza alcuna prova di loro facolt@a,
+si largissero offerte, ecc.  BENVENUTO.  -- ^Per cui~ ecc., per
+la qual perdonanza conseguire, tant'@e la foll$ia degli uomini,
+che ad ogni promissione la pi@u assurda, ^si converrebbe~, per
+^si conviene, si concorre~, enallage di tempo, in grazia della
+rima.  LOMB.  -- Tanto negasi dal Biagioli; e parmi con ragione;
+e tengo per vera la seguente dichiarazione della E. B.: <Per le
+quali indulgenze @e oggi cresciuta in terra tanto la foll$ia, che
+si darebbe piena fede a qualsivoglia promessa, circa le dette
+indulgenze, senza richiedere prova della facolt@a necessaria per
+dispensarle>.  -- In certi tempi alcuni furbi, profittando della
+dabbenaggine de' popoli, imposturavano le pi@u larghe indulgenze,
+e quelle barattavano in denari, scialando e ridendo alle spalle
+de' semplici.  Bisogna ricordarsi a questo proposito della famosa
+Novella di Fra Cipolla, con tanto spirito narrata dal Certaldese.
+BIANCHI.  -- ^Per cui~, per le quali assoluzioni; -- ^sanza
+prova~ ecc., senza alcuna prova autentica di privilegio o di
+Bolla pontificia, ^si converrebbe~, la gente accorrerebbe in
+folla.  FRATICELLI.  -- Varianti.  ^Stultizia~, nove, (V.).
+Nid.; -- ^stoltizia~, cinque, W.; -- ^istoltezza~, il 21; --
+^stultitia~, (F.); -- ^stolticia~, (M.).  (N.); -- ^stoltitia~,
+(I.); -- ^stulticia~, Benv.; -- ^prova~, i pi@u; -- ^senza~ e
+^sanza~, var.; -- ^Ad ogni concession~, il 3; -- ^profession~, il
+4; -- ^profection~, il 34; -- ^Ad onne~, parecchi; --
+^promission~, molti, Fer. Witte; -- ^si correrebbe~, diciotto de'
+miei spogli, Buti, che spone: ^Si correrebbe~, cio@e ^dal
+popolo~, nove degli Accademici ed alcune stampe; -- ^si
+convirebbe~, il 37; -- ^promess,ion~, il 53.
+
+	|124-126.  Di questo ingrassa~ ecc.  Di questo ingrassa
+il porco sant'Antonio ed altri Frati molti, che sono peggio che
+porci, che pagano con moneta non coniata.  BENV.  -- Ai tempi di
+Dante era in voga la divozione per la chiesa di sant'Antonio di
+Vienna, e que'Canonici regolari si diff@ondevano pel mondo, e
+facevano il fatto loro.  Qui prende una regola per tutte.  LAMI.
+-- S. Antonio abate si rappresenta col porco ai piedi (simbolo
+del Demonio da lui vinto) (MOLAN., ^De Picturis~, Lib. III, cap.
+5), @e probabile, e pare che il Poeta nostro lo accenni, che da
+qualche impostore si questuasse, per ingrassare il porco di
+sant'Antonio.  E il sentimento @e: Con queste imposture, ^Pagando
+di moneta senza conio~, cio@e di false indulgenze, si fa che
+sant'Antonio (ponelo per tutte le cose sacre) ingrassi il porco
+suo, cio@e l'ingordo simoniaco impostore.  LOMB.  -- I venditori
+delle false indulgenze furono aboliti dal Concilio di Trento,
+^Sess.~ XXV, cap. 9, siccome annotasi nella E. F.  -- Il Postill.
+Cass. dice che quegl'impostori erano detti ^Fratres a
+campanellis.~  -- Varianti.  ^Di questa inguisa il porco~, l'8;
+-- ^Di questo ingrassa il porco~, i pi@u, le prime quattro ediz.,
+W.; -- ^Di questa~, il Fer.; -- ^che sono ancor pi@u porci~,
+diecisette, Bart. Rosc.; -- ^che sono assai pi@u porci~,
+quattordici, Ald. Vat. Antald. (M.).  Nidob. Witte, disapprovato
+dal Gregoretti e dallo Scarabelli; -- ^pi@u porci, i.
+meretrices~, il 7; -- ^peggio di porci~, il 14; -- ^che sono
+ancora porci~, il 28; -- ^che son peggio che porci~, Buti, (F.).
+(I.).  (N.).  i pi@u, Crusca, ecc., Scarabelli; -- ^senza~ e
+^sanza~, variamente.
+
+	|127-129.  Ma perch@e siam~ ecc.  Ma perch@e abbiamo
+fatta troppa digressione dal proposito nostro, rimettiamoci tosto
+sul diritto cammino, sicch@e affrettando il passo, si faccia
+breve la via, siccome breve @e il tempo che ci rimane.  BENV.  --
+^Sem digressi~, siam molto dal proposito dipartiti, dal latino
+^digredior~, onde comunemente diciamo ^digressione.  -- Manco
+male~ (borbotta il Venturi), ^lo conosce Dante da s@e, e lo
+confessa, d'essere uscito fuori di strada pi@u del dovere~!
+Critica insulsa, a cui il Lombardi risponde: che gli assurdi
+erano molti e gravi, e che lodevole @e lo zelo del Poeta per
+averli combattuti.  -- ^Ritorci -- Gli occhi~ ecc., bada oramai a
+passare innanzi.  -- ^S@i che la via~ ecc., sicch@e s'accorci il
+cammino che ti rimane a fare, breve essendo il tempo che ti fu
+assegnato, sposizione pienamente concorde a quella del Torelli.
+-- Varianti.  ^Ma perch@e siam~, cinque, W.; -- ^sem~, i pi@u; --
+^sian~, il 53, (V.); -- ^siem~, il 12, (M.); -- ^sieno assai
+digressi, torci~, (N.); -- ^disgressi~, il 20; -- ^digesti~, il
+25; -- ^degressi~, il 28; -- ^disgressi~, (V.); -- ^digessi~,
+(F.).  (I.); -- ^S@i che la vista col tempo s'accorci~,
+Antaldino, (M.); -- ^S@i che la vita~, Vat.  (F.).  (I.).  (N.);
+-- ^verso la dritta~, il 52; -- ^in ver la dritta~, 11. 21; --
+^ver la diritta~, cinque; -- ^Li occhi~, (F.).  (I.).  (N.).
+Fer.; -- ^ormai~, (N.).
+
+	|130-132.  Questa natura~ ecc.  La natura angelica si va
+cos@i moltiplicando di grado in grado, d'ordine in ordine, che il
+numero non si pu@o da mortale n@e esprimere, n@e immaginare.
+BENV.  -- ^Ingradarsi~, dee valere ^innoltrarsi ne' gradi~, ne'
+scaglioni di scala, e Dante qui lo piglia per ^innalzarsi in
+numero -- che mai non fu loquela~ ecc., che niuna espressione,
+niun concetto umano pu@o arrivare fin dove quel numero arriva.
+LOMB.  -- Varianti.  ^Si rigrada~, il 3, (F.).  (N.); -- ^N@e 'l
+concetto~, il 15; -- ^Non concepto~, 18. 32; -- ^N@e concepto~,
+(F.).  (I.).  (N.).
+
+	|133-135.  E se tu guardi~ ecc.  E se tu bene consideri
+quanto fu scritto da Daniele nel Cap. VIII: ^Mille millia
+ministrabant ei, et decem centena millia assistebant ei~, vedrai
+che nelle parole sue non si manifesta numero determinato.
+Daniele pone un numero determinato per esprimerne uno
+indeterminato.  BENV.  -- E se bene consideri il suddetto passo
+di Daniele, ti accorgerai che per cotali migliaja ^si cela~, non
+si manifesta il loro numero determinato.  LOMB.  -- Cos@i prima
+di lui chiosava il Torelli.  -- Il Biagioli cita un lungo passo
+del ^Convito~, nel quale Dante, parlando degli Angeli, dice: <Per
+che manifesta a noi quelle creature ^in lunghissimo numero~;
+perocch@e la sua sposa e secretaria, santa Chiesa... dice, crede
+e predica: quelle nobilissime creature ^quasi innumerabili~>.  --
+Il Poeta seguita il Dottor Massimo, che scrive (^Com. in Daniel.~
+VII, 10): ^Non quo iste ministrorum Dei numerus definitus sit,
+sed quo majorem multitudinem humanus sermo explicare nequiverit.~
+CAVEDONI.  -- Var.  ^Guardi a quel~, tre; -- ^E se riguardi ben
+ci@o che si rileva~, il 35, err.; -- ^che sue migliaja~, 3. 38;
+-- ^che suo~', il 12; -- ^che su~', (M.); -- ^che in sue~, molti,
+Fer. W.; -- ^in su' migliaja~, Benv.; -- ^D'interminato~, il 5;
+-- ^Diterminato~, 21. 22. le pr. cinque ediz.; -- ^E se
+riguardi~, il Vaticano.
+
+	|136-138.  La prima luce~, ecc.  Iddio, che tutto irradia
+di splendore tutta l'angelica natura, per tante maniere @e da
+essi Angeli ricevuto, quanti sono i raggi diretti da Dio, e cos@i
+la beatitudine @e maggiore o minore.  BENV.  -- ^La prima luce~,
+Iddio; -- ^che tutta la raja~, che illumina l'angelica natura; --
+^per tanti modi~ ecc., @e ricevuta in essa con tanta diversit@a
+di modi, quanti sono gli angelici individui, ai quali ^s'appaja~,
+si congiunge.  LOMB.  -- <Adunque @e diverso fra gli Angeli
+l'essere loro, diversa la grazia, diversa la beatitudine,
+accidenti meravigliosi, che nella moltiplice diversit@a del loro
+sfavillamento si mostrano aperto agli occhi di Dante; il che
+moltiplica la meraviglia di quell'ineffabile spettacolo>.
+BIAGIOLI.  -- ^Ricepere~, per ^Ricevere~, usato anche da altri.
+V. il Voc.  RECEPERE e RICEPERE.  LOMB.  -- Irradia l'^angelica
+natura~, tutti gli Angeli, e in vario modo ciascuno.  Dal vario
+intendere, il vario amare.  La voce ^s'appaja~ denota l'unione
+quasi d'uguaglianza, che fa la grazia con le anime, ed il suo
+proporzionarsi a ciascuna.  FRATICELLI.  -- Varianti.  ^Che tutto
+gli nraja~, il 3; -- ^che tanto li raja~, cinque; -- ^recepe~, il
+5, W.; -- ^in essa ivi ricepe~, il 15: -- ^Per tanti medii in
+essa~, Fer.; -- ^a chi s'appaja~, undici; -- ^spienduri, in cui~,
+l'8; -- ^spiendori~, tre; -- ^in che~, il 21; -- ^Quanti son li~,
+molti, (F.).  (M.).  (N.).  Fer. Benv. ecc.; -- ^Quanti son i
+splendori~, (I.); -- ^che tanto la raja~, Aldina, Vaticano.
+
+	|139-141.  Onde, per@o~ ecc.  E cos@i la beatitudine @e
+maggiore o minore, perch@e la volont@a di amore viene all'istante
+dell'irradiamento; il perch@e i Serafini in atto di carit@a si
+accendono di amore divino, e sono pi@u supremi; i Cherubini in
+atto di sapienza, i Troni in atto di giudizio, e cos@i degli
+altri.  BENV.  -- ^All'atto che concepe~, all'atto che
+concepisce, della divina visione, effetto dell'anzidetta
+irradiazione.  -- ^Segue l'affetto~, corrisponde l'intensit@a
+dell'amore in ciascun Angelo; -- ^d'amor la dolcezza~ ecc., per
+ci@o negl'individui d'essa angelica natura rendesi ove pi@u
+fervida, ove pi@u tepida la dolcezza di amore.  ^Fervere~ e
+^Tepere~, per ^Essere fervido e tiepido~, verbi presi dal latino.
+LOMBARDI.  -- Essendo in ciascun Angelo diversa la visione
+beatifica, consequita che sia ancora in ciascuno di essi diverso
+il fervore e il tepore della carit@a, che n'@e l'effetto.
+BIANCHI.  -- Varianti.  ^Onde per@o con l'atto~, il 6; -- ^per@o
+che a l'atto~, le prime quattro ediz.; -- ^Onde per@o che
+l'atto~, tre; -- ^Segue l'effetto~, quattro, (I.).  (N.); --
+^affectto, ad amar~, il 28; -- ^Segue~, (I.); -- ^d'amar la
+dolcezza~, venticinque de' miei spogli, le prime sei ediz., tre
+testi del Witte (A. B. C.), Ang. Chig. Vat. Rosc., e
+potrebb'essere l'originale; -- ^Divisamente~, 3. 21; -- ^ferve e
+repe~, 3. 38; -- ^in s@e ferve~, il 4; -- ^in esse si concepe~,
+variante del verso 141, accennata dal Bernardoni, ed accenna
+inoltre che il Buti dichiara: ^Ferve~, cio@e riscalda; ^tepe~,
+cio@e raffredda; -- ^l'affetto~, Benv. ed altri; -- ^per@o
+all'atto~, Roscoe.
+
+	|142-145.  Vedi l'eccelso~ ecc.  Ormai sei in grado di
+conoscere ^lo excelso e la longhezza~, l'altezza e l'immensit@a
+^de l'eterno valore~, della potenza di Dio, ^poscia che ha fatti
+tanti speculi in che si spezza~, specchi dice gli Angeli, come
+quelli che da s@e riflettono i raggi della luce divina, ne' quali
+si divide, si spezza per la riflessione dell'immagine sua in
+ciascuno di essi; -- ^Uno manendo~ ecc., rimanendo egli sempre
+nella sua unit@a ed indivisibilit@a, com'era prima che creasse
+gli Angeli.  BENV.  -- ^Vedi l'eccelso~ ecc., a vece di dire:
+^Vedi omai la grandezza dell'eterno valore~, della divina
+onnipotenza.  -- ^Speculi~, dal latino ^speculum~, appella gli
+Angeli, perocch@e fa Iddio in essi sussistere sua immagine, come
+sopra, al verso 14, si @e dichiarato; -- ^si spezza~, per ^si
+moltiplica; -- manendo~, per ^rimanendo~, dal latino ^manere.~
+LOMB.  -- Qui ^eccelso~ antonomasticamente significa lo stesso
+Dio; e nel Vocabolario domanda  separato.  PARENTI (^Ann. Diz.~).
+-- Mons. Cavedoni qui nota: ^Ut possitis comprehendere cum
+omnibus Sanctis quae sit latitudo et longitudo, sublimitas et
+profundum~ (^ad Ephes.~, III, 18).  -- ^Vedi l'eccelso omai~ ecc.
+Dante (^De Vulg. Eloq.~, cap. I), chiama Iddio ^illud
+fulgentissimum speculum, in quo cuncti~ (Angeli) ^repraesentantur
+pulcherrimi atque avidissimi speculantur.~  E nella dedica a Can
+Grande: ^Patet quod omnis essentia et virtus procedit a prima, et
+intelligentiae inferiores recipiant, quasi a radiante, et reddant
+radios superiores ad suum inferius, ad modum speculorum.~
+Citazioni della E. F.  -- ^Uno manendo~ ecc.  Nel XIII ha gi@a
+detto: ^Per sua bontate il suo raggiare aduna, -- Quasi
+specchiato in nove sussistenze, -- Eternalmente rimanendosi una.~
+BIANCHI.  -- Ivi parla della luce del Verbo.  -- Varianti.  ^Vedi
+l'excesso~, quattro, Nidob.; -- ^eccesso~, tre, Buti, che
+dichiara ^avanzamento~, e cos@i leggono altri testi accennati
+dallo Scarab. e cinque degli Accademici; -- ^e la durezza~, il
+15; -- ^e la lunghezza~, il 21; -- ^larghezza~, Benv.; -- ^Ve'
+l@i~, il 28; -- ^excelso~, parecchi, le prime quattro ediz.; --
+^ormai~, il 37; -- ^mai~, il 53; -- ^Dell'eterno piacer~, 12. 38.
+Fer.; -- ^posti che nanti~, il 21; -- ^posti che tanti~, il 36;
+-- ^De l'eterno~, parecchi, e le prime quattro edizioni, Benv.;
+-- ^Ispeculi~, il 21; -- ^onde si prezza~, il 29; -- ^fatti ci
+ha~, il 37; -- ^facti~, (I.).  (N.); -- ^Uno movendo~, sei; --
+^manendo siccome~, il 14; -- ^Una manendo~, il 38; -- ^Un huom
+movendo s@i~, il 42; -- ^@U non movendo s@e~, il 53; -- ^come da
+avanti~, Ferranti. 

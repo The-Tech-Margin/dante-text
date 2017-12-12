@@ -1,0 +1,1058 @@
+	|Proemio.~  ^Incipit VIII' cantus prime cantice Comedie.~ 
+In isto octavo cantu autor sequitur quod incepit in fine
+superioris cantus tractare, scilicet de V+o~ circulo, quod
+incepit superius, ibi: <Noi ricidemo 'l cerchio a l'altra riva>,
+et finit infra in isto, ibi: <venimo in parte dove 'l nocchier
+forte: / <Usciteci>, grid@o: <qui @e l'entrata>.  Et tractat in
+isto circulo de quatuor peccatis, scilicet de accidia, ira,
+invidia, et superbia, et de pena que optime competit eis.  Figure
+autem istorum quatuor peccatorum sunt iste: Stix tenet figuram
+accidie; Flegias tenet figuram ire; fumus paludis tenet figuram
+invidie; limus vero paludis tenet figuram superbie.
+
+	Iste cantus continet duas comparationes {*vv. 13-15;
+22-24*} et V notabilia {*vv. 34; 47; 49-50; 106-107; 111*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Ut in superiori cantu patet, postquam autor de quarto
+circulo, in quo puniuntur avari et prodigi, pertractavit, dicit
+se per unum fossatum de quarto in quintum circulum descendisse. 
+Qui quidem V+o~ circulus non est aliud nisi una palus obscura,
+livida, fetida, et lymosa, iuxta quam dum animas contemplando
+transirent, devenit ad quandam turrim que in ripa istius paludis
+erat.  In cuius cachumine antequam ad ipsam turrim appropinquaret
+vidit duas faculas accensas, sicut in processu istius cantus
+declarat, et etiam unam aliam tertiam, que respondit istis, vidit
+tam a longe demonstrari quod vix poterat eam oculus contemplari. 
+Tunc ait autor ad Virgilium: <Iste ignis quid dicit, et qui sunt
+illi qui eos fecerunt?>  Et Virgilius ad eum: <Iam>, inquit,
+<super sucidas undas discernere potes id quod ab istis faculis
+expectatur, si fumus paludis illud non tibi celat>.  Et statim
+facta responsione Virgilii, dicit autor se vidisse versus eos
+unam naviculam venientem sub gubernaculo unius solummodo galeoti,
+qui veniendo clamabat: <Or se' giunta, anima fella>.  Cui
+Virgilius ait: <O Fregias, o Fregias, {^Br.~ (^correctly~)
+Flegias} tu clamas in vacuum ista vice, quia nil aliud habebis
+nisi quod lutum transibis>.  Et his dictis, descendit in barcam,
+et post ipsum secutus est Dantes; et statim fuit propter
+gravidinem corporis onerata.  Ideo dicit: <et sol quando fui
+dentro parve carca>.  Et quia tunc magis onerata erat, ideo magis
+de aqua secabat.  Hoc videtur de VI+o~ libro ^Eneydorum~
+extractum, ubi de descensu Enee in barcam loquitur Mantuanus
+dicens: <Gemuit sub pondere cimba / {text has ^cumba~} subtilis
+et multam accepit rimosa paludem> {^Aeneid~ VI, 413-414}.  Natura
+enim navium est quod quando non sunt onerate modicum secant
+aquas, quando vero sunt onerate tunc magis, propter honera,
+demerguntur et aquas secant; et sic cum navicula Fregias portat
+solummodo animas, tunc leviter transit aquas; sed cum portavit
+Dantem, quia in anima et corpore erat, ideo navicula aquas
+dicitur secuisse.  Unde in textu dicitur: <Tosto che 'l duca et
+io nel legno fui, / secando se ne va l'antica prora / dell'acqua
+pi@u che non fa con altrui>.  Et dum sic per illam aquam mortuam
+navigarent, unus qui erat in illa palude submersus surrexit et
+ait ad Dantem: <Quis es qui ante horam -- supple mortis --
+venis?>  Et Dantes ad eum: <Si ego venio, non remaneo.  Sed tu
+quis es, qui factus es ita turpis?>  Cui ille respondit: <Sicut
+tu vides, sum unus qui plango>.  Et cum Dantes sibi respondisset
+dicens: <Cum planctu et luctu, spiritus maledicte, remaneas>,
+ille ut naviculam submergeret ambas manus ad ipsam extendit. 
+Quod ut Virgilius perpendit, statim illum in aquam reiecit
+dicens: <Vade istac cum aliis canibus>.  Et postea cum brachiis
+amplexatus est sibi collum, et dans sibi osculum ait: <O anima
+que abhorres et dedignaris superbos, benedicta sit illa que te
+concepit.  Iste enim, sicut fuit in mundo persona arrogans et
+superba, et nullum bonum memoriam suam ornat, sic sua umbra est
+hic furiosa.  Et dico tibi quod multi superius, hoc est in mundo,
+se reputant magnos reges, qui in ista palude stabunt sicut porci
+in volutabro suo>.  Tunc Dantes ait ad Virgilium: <Magister,
+multum delectarer videre istum in ista aqua lymosa submergi>.  Et
+Virgilius ad eum: <Antequam aliam ripam videas, erit de hoc tuus
+animus satiatus>.  Et ecce non multo post ab aliis damnatis iste
+damnatus capitur, deridetur, et in aqua submergitur, clamantis
+omnibus: Ad Phylippum Argenti de Florentia, spiritum bizarrum,
+idest inconversabilem ac iracundum.  Et ille, iracundia ductus,
+semetipsum dentibus attrettabat.
+
+	His omnibus visis, dicit autor quod illum spiritum in
+tali pugna derisoria dereliquit, et ad quamdam civitatem ferro
+ignito muratam, que dicitur Ditis, sic navigando pervenit.  Ad
+quam cum appropinquassent, Fregias ad eos alta voce clamavit
+dicens: <Exite de navi.  Hic est introitus civitatis>.  Et tunc
+illi ambo, scilicet Virgilius et Dantes de navicula descenderunt. 
+Et hic finitur quintus circulus.
+
+	Quo finito, facit autor preambulum ad sextum, dicens quod
+ad clamorem Fregias vidit super portas civitatis plus quam mille
+demones, qui superstitiose dicebant: Quis est iste qui sine
+morte, hoc est antequam moriatur, vel sine morte, idest sine
+peccato, vel sine morte, idest sine pena Inferni, vadit per
+regnum mortue gentis[?]  Virgilius autem fecit signum quod
+secrete alloqui vellet eos.  Tunc illi dixerunt ei: <Veni tu
+solus et ille recedat, qui tam audaciter per istum regnum
+intravit.  Solus revertatur per fatuam stratam.  Probet si per
+eam scit reverti, quia tu hic remanebis, qui eum per tam obscuram
+duxisti contratam>.  Quod audiens, autor tanto fuit timore ac
+pavore simul arreptus, quod nunquam inde credidit ad propria
+remeare, et totus pavidus ad Virgilium ait: <O mi care dux, qui
+plus quam septem vicibus me in periculis securasti, et de eisdem
+me protinus extraxisti, noli me hic dimittere, queso, taliter
+desolatum; et si transire nobis ulterius est negatum,
+reinveniamus statim vestigia nostra simul>.  Cui Virgilius ait:
+<Noli timere, quod nostrum iter non potest nobis quisquam
+auferre, a tali nobis domino est concessum.  Sed hic me expecta,
+et spiritum tuum fessum conforta et ciba spe bona, quod ego te in
+mundo infimo non relinquam>.  Et his dictis, a Dante recedit et
+versus ianuam civitatis, demonibus locuturus, accedit.  Qui cum
+eis modicum loquendo stetisset, et nichil cum eis profecisset,
+quia in faciem eius portas clauserunt, melancolia plenus reversus
+est ad autorem, dicens: <Licet ego irascar, tu fili, noli timere,
+quia ego vincam pugnam, malis gratibus quorumcumque qui intus ad
+defensionem se volvant.  Non enim est nova michi ista eorum
+superbia, quia iam usi sunt ea michi in illa porta sacrata que
+adhuc sine clavibus aperitur.  Super quam portam tu vidisti
+mortuam scripturam, et iam citra eam per descensum descendit
+transeundo per circulos sine duce unus talis, quod per eum
+aperietur nobis civitas, iuxta votum.  Unde ait autor in textu:
+<tal che per lui ne fi' la terra aperta>.
+
+	|1-4.~  Continuatio est ad precedentem cantum.  Superius
+nanque dixit: <Venimo al pi@e d'una torre al da sezzo>.  Nunc vero
+continuando dicit quod antequam ad pedem turris venissent, vidit
+in cacumine ipsius turris duas accensas faculas elevari.  Quem
+quidem ignem ideo demones qui ibi habitant ostenderunt, ut signum
+darent demonibus civitatis que in medio paludis est sita, ut
+barcam mitterent, que eos ad ripam aliam transportaret.  Duas
+autem ideo faculas ostenderunt, ad ostendendum quod due anime
+veniebant, quia quot anime veniunt, tot facule accenduntur.  Illi
+vero demones qui super portas habitant civitatis, visis faculis,
+unam faculam elevarunt ad respondendum quod navicula veniebat.
+
+	|7.  Et i' mi volsi al mar di tutto 'l senno.~  Magistrum
+suum mare totius sapientie autor appellat, quia, re vera, in omni
+mundana scientia profundissimus homo fuit.  Unde Macrobius, super
+Somnio Scipionis {^Commentariorum in somnium Scipionis~ I. 6.
+36-44 (^adapted~)} de Virgilio ait: Virgilius nullius discipline
+expers plene per omnia beatos exprimere volens ait: <O terque
+quaterque beati>: quam quidem autoritatem sic exponit ipse
+Macrobius: Anima, inquit, constat ex tribus potentiis: prima
+dicitur rationalis, secunda concupiscibilis, tertia vero
+irascibilis, idest animositas.  Corpus autem constat ex quatuor
+elementis, scilicet terra, aqua, aere, et igne.  Volens itaque
+ipse Virgilius beatitudinem anime simul et corporis ponere ait:
+<O terque quaterque beati>.  Et beatus Augustinus vocat ipsum
+Virgilium egregium poetarum.
+
+	|13-15.~  ^PRIMA COMPARATIO.~  Lictera plana est.
+
+	|19.  Fregias, Fregias~, etc.  Iste Fregias, qui cum
+navicula animas descendentes portat a turri usque ad civitatem
+Ditis, interpretatur <ira fremens>, vel <conturbatio mentis>.  Et
+ponitur hic ab autore quasi punitor sive executor quatuor
+peccatorum, scilicet accidie, ire, invidie, et superbie.  Ad
+quorum omnium evidentiam clariorem est sciendum quod, postquam
+autor in superioribus circulis de peccatis carnalibus, que sunt
+tria, scilicet luxuria, gula, et avaritia, pertractavit, nunc in
+isto V+o~ circulo de peccatis spiritualibus que sunt quatuor,
+scilicet accidia, ira, invidia, et superbia, compendiose
+pertractat.  Et quoniam ista quatuor vitia dolorem et tristitiam
+inducunt in animum, ideo ipsa in uno loco concludit.  Quod vero
+dolorem et tristitiam gignant, patet: nam accidia nil aliud est
+quam dolor et tristitia de bono spirituali inquantum bonum
+impedit corporale.  Ira autem, secundum Philosophum, est
+appetitus vindicte; sed talis appetitus continua tristitia
+noscitur esse mixtus.  Similiter invidia est dolor proveniens ex
+felicitatibus alienis, de qua poeta: Invidus invidia comburitur
+intus et extra.  Et Socrates: Utinam, inquit, omnes invidi in
+omnibus locis oculos et aures haberent, ut de omnium
+prosperitatibus torquerentur.  Superbia vero, quia est appetitus
+proprie excellentie, Philosopho attestante, et semper appetit
+altiora, in quibus ruina maxime continetur, sine dolore vel
+timore mixta continuo esse non potest.  Nam, pagina divina
+docente, didicimus quod inter superbos semper iurgia sunt.  In
+peccatis autem carnalibus aliqua delectatio reperitur, ut patet
+in luxuria, gula, et aggregatione pecunie.  Quod enim in duobus
+primis delectatio sit annexa ad sensum, manifeste videmus.  Quod
+autem in aggregatione bonorum temporalium animus delectetur,
+patet quia multas tribulationes sustinent homines pro
+temporalibus congregandis, in quibus, nisi esset delectatio,
+minime laborarent.  Unde Lucanus:
+
+     Impiger extremos currit {text has ^curris~} mercator ad Indos
+     Per mare pauperiem fugiens, per saxa, per ignes.
+
+              {Not from Lucan, but from Horace, ^Ep.~ I. i. 45-46}
+
+	Cum igitur illa quatuor vitia ad tristitiam pergant,
+merito autor iste homines his vitiis laborantes in palude Stygia
+ponit esse submersos.  Nam secundum beatum Ysidorum, XIIII
+^Ethymologiarum~ {^Etym.~ XIV. ix. 6}, Stix a tristitia dicitur
+esse dicta, eo quod tristes faciat vel quod tristitiam gignat. 
+Quod autem ista quatuor genera hominum autor in ista palude
+submergat, patet: Peccata enim capitalia, a quibus multa alia
+derivantur, sunt VII.  Primum est, descendendo dico deorsum,
+luxuria, secundum gula, tertium avaritia, quartum accidia, 
+quintum ira, sextum invidia, septimum vero superbia.  De primo 
+peccato egit autor secundo circulo, cantu V+o~; de secundo egit
+circulo tertio, cantu VI+o~; de tertio egit circulo IIII+o~,
+cantu VII+o~ et octavo.  Postquam vero de V+o~ circulo, hoc est
+de palude Stigia exit, civitatem ingreditur, in qua ponit 
+sepultam hereticam pravitatem.  Patet ergo quod, ex quo ad illa
+peccata que non sunt capitalia sed ex capitalibus oriuntur,
+progreditur, quod in isto V+o~ circulo alia quatuor poetando
+concludat.  Quod autem hic ea concludat patet per textum: et
+primo de accidiosis, ibi: <Fitti nel limo dic{*o*}n tristi fummo
+/ nel aer dolce che dal sol s'allegra, / portando dentro
+accidioso fummo> {*^Inf.~ VII. 121-123*}.  Secundo, de iracundis,
+ibi: <Figlio, or vedi, l'anime di color cu' vinse l'ira> {*^Inf.~
+VII, 115-116*}.  Tertio, de invidis [^sic~] habetur ibi: In eo
+quod dominus Phylippus Argenti, tactus dolore cordis quod autor
+per penas Inferni sine pena transibat, navem submergere conatus
+fuit, et in eo quod Virgilius vocavit eum canem, dicens: <Via
+cost@a con li altri cani> {*v. 42*}.  Nam canes naturaliter sunt
+invidi; unde unus non suffert quod alius rodat ossa.  Quarto, de
+superbis habetur ibi: <Quanti si tengon or l@a s@u gran regi / che
+qui staranno come porci in brago, / di s$e lasciando orribili
+dispregi> {*vv. 49-51*}.  Et ideo istius paludis Fregias ponitur
+gubernator, qui in lingua Greca, ut dictum est, dicitur <ira
+fremens> vel <conturbatio mentis>, quia ista peccata mentem
+hominis dolore conturbant.
+
+	Et quia in toto isto loco de quatuor peccatis capitalibus
+pertractatur, ideo de ipsis hic aliqua ad utilitatem legentium
+videamus.  Et primo de accidia, circa quam quatuor consideranda
+occurrunt: Primo, eius quiditatem; secundo, eius damnabilitatem;
+tertio, remediorum oportunitatem; quarto, spetierum
+multiplicitatem.  Circa primum nota quod accidia multipliciter
+diffinitur.  Est enim accidia, secundum Damascenum, quedam
+tristitia aggravans animum, et secundum hanc diffinitionem,
+accidia importat in se quoddam tedium operandi, ut patet per hoc
+quod dicitur in glosa super illud Psalmista: Omnem escam
+abominata est anima eorum.  A quibusdam etiam dicitur quod
+accidia est torpor mentis negligentis bona inchoare.  Et secundum
+hanc diffinitionem, accidia semper est mala, quia nullum bonum
+attentare presummit.  Vel accidia est tedium boni, secundum
+Augustinum, vel anime nausea et vite fastidium, et secundum hanc
+diffinitionem accidia habet odio omne bonum.  Unde dixerunt filii
+Israel, ut habetur Numerorum XI {actually ^Num.~ 21.5}: Anima
+nostra na[u]seat super cibo isto levissimo: quia accidia est de
+cibo levissimo fastidita.  Vel accidia est dolor de bono
+spirituali inquantum bonum impedit corporale.  Et secundum hanc
+diffinitionem accidia includitur in quolibet capitali peccato,
+quod sic patet: nam luxuriosus dolet de castitate inquantum suam
+impedit improbam voluptatem; et gulosus dolet de ieiunio et
+abstinentia inquantum suam impedit ingluviem et ebrietatem; et
+sic de aliis.  Circa secundum est notandum quod accidia est
+damnabilis, spetialiter propter quatuor: primo, quia Deo
+iniuriatur; secundo, quia saluti anime adversatur; tertio, quia
+vite corporali insidiatur; quarto et ultimo, quia pene eterne
+assimilatur.  Deo quidem iniuriatur, quia aufert ei debitum
+cultum et famulatum ad quem creatus est homo.  Ysaye LX {^Isaias~
+60.21}: Germen plantationis mee ad glorificandum; idest ad hoc
+plantatus est homo in terra ut Deum coleret, idest laudaret. 
+Preterea, Deo debet homo servire cum diligentia, 2+o~
+Paralipomenon 9 {actually II ^Par.~ 19.7}: Omnia facite cum
+diligentia.  Sed accidia omnia facit cum tedio et desidia.  Unde
+et accidia maledictionem incurrit, Ieremie VIII+o~ {actually
+^Ieremias~ 48.10}: Maledictus homo qui facit opus Domini
+negligenter.  Preterea, debet homo Deo servire cum letitia;
+Psalmista: Servite Domino in letitia.  E contra: accidia facit
+omnia cum tristitia.  Hoc ostendunt eius signa in gestu,
+scilicet, et vultu; quia accidiosus semper habet tristem vultum
+et tristem incessum.  Saluti anime adversatur secundum omnem
+statum hominis, cum sit status eius triplex: scilicet innocentie,
+gratie, et culpe.  In statu innocentie tenebatur homo ad opus,
+quia ad laudem Dei et cultum eius, Genesis II+o~ {^Gen.~ 2.15}:
+Posuit Deus hominem in Paradiso ut operaretur et custodiret
+illud.  In statu culpe pene est subditus et labori.  Genesis
+tertio {^Gen.~ 3.19}: In sudore vultus tui vesceris pane tuo.  In
+statu gratie tenetur ad opera penitentie, et maxime post lapsum,
+Apokalipsis II+o~ {^Apoc.~ 2.5}: Memor esto unde excideris et age
+penitentiam; sed his omnibus accidia adversatur.  Vite corporali
+insidiatur, quia cum accidia sit tristitia, quedam est vite
+corporalis consumptiva et mortificativa, iuxta illud
+Proverbiorum: Sicut tynea vestimento et vermis ligno, sic
+tristitia nocet cordi.  Assimilatur enim accidia aque quiescenti;
+manifestum est enim quod aqua currens non corrumptitur, sed aqua
+in fovea quiescens.  Unde Oratius {verse not found in Horatius}: Et
+vitium capiunt ni moveantur aque.  Sic homo accidiosus et
+tediosus in suis otiis conputrescit.  Item accidia assimilatur
+salicibus iuxta aquas, que nullum afferunt fructum, quamquam
+frondose existant.  Sic accidiosi, quamvis membra habeant quibus
+valeant operari, fructuosa opera non producunt.  Ideo dicitur in
+Psalmo: In salicibus in medio eius suspendimus organa nostra
+{^Ps.~ 136.2}.  Accidiosus enim organa divine laudis suspendit
+cum a bono spirituali propter carnis quietem recedit.  Item
+accidiosus comparatur turdo: dicitur enim turdus a tarditate
+volatus.  Avis enim pinguis et ponderosa est, et eius stercus
+viscus est; unde sepe suo proprio stercore inviscatur.  Sic
+accidiosus sua desidia et tristitia ab omni bono retardatur et
+requiescit cum Moab in fecibus suis, ut habetur Ieremie XLVIII
+{^Ieremias~ 48.11}.  Unde Dominus conminatur accidioso, Sophonie
+primo {^Proph. Soph.~ 1.12}: Visitabo super viros [et] defixos in
+fecibus suis.  Pene eterne assimilatur; nam accidia videtur in se
+habere damnatorum pigritiam et ponderositatem.  Mathei XXII:
+Ligatis manibus et pedibus, mittite eum in tenebras exteriores
+{^Matth.~ 22.13}.  Ubi dicit glosa: Ille habet manus ligatas qui
+bonum operari negligit; ille vero pedes, qui bonum velle abicit. 
+Ecce quam similes sunt damnatis accidiosi.  Accidia enim est
+spiritualis paralisis, que totum hominem dissolvit et tollit usum
+membrorum, unde impedit meritum et aufert premium; secundo
+Machabeorum, 9: Alchimus percussus est paralisi {II ^Machab.~
+9.5; text has ^Antiochus~}.
+
+	Circa tertium nota quod remedia contra accidia sunt
+considerationes creaturarum tam superiorum quam inferiorum, que
+continue suis laboribus debitis occupantur.  Superiora enim sicut
+est firmamentum, sol, luna, et stelle, eundem tenent ordinem
+atque motum quem a principio a divina obedientia acceperunt; et
+in hoc nec deficiunt nec languescent.  Unde primo Regum 31+o~
+{actually ^Ieremias~ 31.35}: Hec dicit Dominus qui dat solem in
+lumine diei, ordinem lune et stellarum in lumine noctis: non
+deficient leges iste coram me.  Unde continuus motus et
+obedientia eorum excitare debet tarditatem pigrorum.  Sed nota
+quod licet Saturnus situ sit altior, natura tamen est superior et
+motu tardior.  Sic est in Ecclesia, que est Dei celum, ubi
+maiores quandoque magis gravat accidia, ut negligentes fiant in
+sua et suorum custodia.  Sepe est in eius vita prava et sedes
+iniqua sermo multus et fructus nullus, lingua magniloqua et manus
+otiosa, ut dicit Bernardus.  Sed nota quod etiam minima
+negligentia in prelatis grave reputatur peccatum, i[m]mo quod
+plus est, ea que sunt minima in laicis maxima sunt in ipsis. 
+Unde Ieronimus: Nuge in ore secularium nuge sunt, in ore vero
+sacerdotum blasphemie.  Inferiora autem debent humanam accidiam
+excitare, ut sunt arbores, plante, semina et alia terre
+nascentia; que multas patiuntur et sustinent tempestates, ut
+gelu, nives, glacies, grandines, pluviam, ventum et estum, et
+singulis annis spoliantur foliis et fructibus; nec tamen cessant
+crescere, frondes, flores et fructus producere.  Talis est vir
+sanctus circa salutem suam solicitus et attentus, cuius folium,
+idest propositum sive desiderium, semper est viride, nec
+aliquando deficit facere fructum, eo quod ipse sit lignum super
+aquas gratie transplantatum, ut habetur Ieremie XVII {^Ieremias~
+17.8}.  A minutis etiam animalibus humana pigritia summat
+exemplum.  Seneca: Erubescant homines ab exiguis animalibus non
+trahere mores.  Unde precipit Salomon, Proverbiorum VI {^Prov.~
+6.6 (^adapted~)}: Vade ad formicam, o piger, et disce semitas
+eius; que cum non habeat ducem cuius scilicet exemplum imitetur,
+nec preceptorem cuius doctrina instruatur, nec principem cuius
+sententia eius negligentia puniatur, preparat tamen sibi in
+estate necessaria.  Et nota quod cum formica sit minimi corporis,
+portat tamen pondus maius se.  Piger vero cum sit magni corporis,
+nec vult digito onera tangere, nec minima adimplere, ut dicitur
+Mathei 13 {actually ^Matth.~ 23.4}.  Apis etiam, licet sit parva
+et modica musca, tamen mirabilia operatur, ut patet in
+compositione domorum, discursione locorum, et in confectione
+mellis et cere.  Ecclesiastici XI {^Ecclesiasticus~ 11.3}: Brevis
+in volatilibus apis, et tamen initium dulcoris habet fructus
+eius.  Dicitur etiam de apibus quod nulla inter eas potest vivere
+otiosa.  Valet etiam ad excitationem huius humane pigritie quod
+legitur in ^Vitis Patrum~, quod cum quidam sanctus vidisset
+ornatum cuiusdam mulieris, flens ait: Ignosce michi omnipotens
+Deus, quia unius diei huius meretricis ornatus superavit totius
+vite mee industrie ornamenta.  Et abbas Pannutius, videns
+mulierem in Alexandria, flevit; et causam querentibus sic
+respondit: Fleo propter duo: primum est perditio istius mulieris;
+secundum est quia non habeo tale studium placendi Deo, quale ut
+placeat hominibus habet ista.  Circa quartum vero et ultimum,
+nota quod de accidia multiplices filie oriuntur, et spetialiter
+novem: quarum prima est tepiditas sive remissio, per quam homo
+languet ab opere bono; et quia tepidus est, ab ore Dei est
+totaliter evomendus; Apocalipsis tertio: Utinam calidus esses aut
+frigidus; sed quia tepidus es, evomam de ore meo {actually
+^Apoc.~ 6.15-16}.   Que quidem autoritas est taliter secundum
+veros expositores catholice exponenda.  Ille est enim calidus,
+qui divino amore fervescit; ille vero est frigidus, qui a divino
+calore elongatus frigescit; ille autem tepidus dicitur qui, licet
+non sit malus, tamen in divino obsequio tepide operatur.  Sed
+quia talis ex quadam fiducia de suis bonis posset confidere,
+aliquando suam negligentiam non curaret.  Idcirco Deus talem
+volens corrigere, sibi tam terribiliter comminatur.  Secunda est
+mollities sive pigritia, que non vult pati aspera nec aggredi
+ardua.  Circa que duo, scilicet pati aspera et aggredi ardua,
+fortitudo versatur.  Tertia est timor servilis qui penam habet,
+sed non meretur palmam, ut dicit Gregorius.  Hic vero, quia
+presummit mala et difficiles circumstantias circa bonum, ideo non
+audet aggredi illud.
+
+	Quarta est desperatio, que est relaxatio mentis ad
+peccandum, ut dicit Augustinus; et hec est valde periculosa, quia
+qui desperat de venia, non est scelus quod facere abhorreat; 2+o~
+Regum secundo: An ignoras quod periculosa res sit desperatio {II
+^Reg.~ 2.26}.  Est etiam periculosa corpori desperatio, quia
+quandoque homo per ipsam incidit in mortem corporalem, ut patet
+in Iuda, qui laqueo se suspendit, ut patet Mathei XXVII {^Matth.~
+27.5} et 2+o~ Regum XVII {II ^Reg.~ 17.23}: Dicitur quod
+Achitofel, sciens regnum redditurum ad David, ascendit in domum
+suam, in gilo et laqueo se suspendit.  Quinta est somnolentia,
+que corpus et animam gravitate premit, et usum sensuum tollit. 
+Sic somnus dicitur a quadam potentia que dicitur sensus, licet
+minus improprie, et gignitur somnolentia ex pigritia, quandoque
+vero e converso pigritia nascitur de somnolentia, sicut contigit
+{^Br.~ contingit} de nube et aqua, quia ex aqua oritur nubes et
+ex nube funditur aqua; Proverbiorum XIX {^Prov.~ 19.15}: Pigredo
+immittit soporem, etc.  Sexta est negligentia, que non curat
+facere ea ad que quis de iure tenetur.  Unde Petrus Apostolus,
+^In Itinerario Clementis~, ait: Omnium malorum mater est
+ignorantia, nutrix vero negligentia; ex quo apparet quod
+negligentia est malorum nutrix.  Sed Ecclesiastes VII {7.19}
+dicitur: Qui timet Deum nichil negligit.  Septima est
+pusillanimitas, que a pusillo animo dicitur, et mediam habet
+fiduciam aggrediendi bonum.  Ieronimus: Pusillanimis aut non
+incipit, aut ab incepto desistit.  Ideo Ad Corinthios 9+o~
+{actually I ^Ad Thess.~ 5.14 (^misquoted~)} confortat Apostolus
+ipsos dicens: Reformamini pusillanimes; quasi dicat, ne pre
+debilitate animi deficiatis.  Octava est otiositas, que fugit
+opus, sicut e converso negotiatio fugit otium.  Hec filia est
+ianua ad omnia mala; Ecclesiastici XXIII+o~ {actually
+^Ecclesiasticus~ 32.29 (^misquoted~)}: Multa mala docuit
+otiositas.  Et poeta: Sempter variam dant otia mentem.  Istud
+enim vitium, cum abundantia rerum temporalium conciunctum,
+peccatum pessimum adinvenit, scilicet masculum in masculum
+exardescere; Ezechielis XVI+o~: Hec fuit iniquitas Sodome,
+saturitas panis et otium {^Ez.~ 16.49}.  Nona est torpor que
+gelidum facit affectum, et totum hominem vere pigrum, ut fiat
+quasi uter in pruina, idest gelidus et strictus, et ad omne opus
+bonum inutilis.
+
+	Secundo loco tractandum est de ira, circa quam quatuor
+sunt videnda: primo, quid est ira; secundo, si in sapientem
+potest cadere ira; tertio, que mala infert homini ira; quarto, de
+spetiebus ire.  Quantum ad primum, sciendum quod ira tripliciter
+diffinitur.  Prima diffinitio est talis: Ira est impetus
+concitati spiritus, idest anime rationalis que per iram
+inflammata precipitatur in furorem.  Hec diffinitio patet per
+Salomonem, Proverbiorum XXVI {cf. ^Prov.~ 27.4}.  Cum hac
+diffinitione concordare videntur Philosophus ac etiam Damascenus. 
+Dicunt enim ambo quod ira est accensio sanguinis circa cor, ex
+cuius calore anima inflammatur.  Inflammatur enim et accenditur
+ex contumeliis atque minis.  Nam sicut ex collisione lapidis et
+ferri gignitur ignis, sic ex contumeliis receptis anima
+exardescit.  Sed nota quod est quedam materia que ad ignem non
+consumitur, sicut hebanus, que est arbor quam nullus devorat
+ignis.  Talis est vir patiens, qui iracundie igne non superatur
+nec iniuria frangitur, quia non contristabit iustum quicquid
+acciderit ei, ut habetur Proverbiorum VII {actually ^Prov.~ 27}. 
+Alia est materia que de levi accenditur et de levi extinguitur,
+sicut candela.  Hec est ira que de facili mitigatur, super quam
+sol non occidit, quia talis iratus cum ipsa ira noctem non
+ingreditur, implens illud Apostoli ad Ephesios IIII+o~: Sol non
+occidat super iracundiam vestram {^Ep. ad Ephesios~ 4.26}.  Alia
+est materia conservativa ignis, ut sunt ligna et maxime
+iuniperus, qui dicitur quasi <iuvans pirum>, idest ignem.  Dicit
+enim Ysidorus quod eius carbo succensus et cinere reconditus
+servat ignem per annum.  Talis est iratus, cuius ira non de
+facili aboletur nisi prius se vindicet; et tales vocantur a
+Philosopho in quarto ^Ethycorum~ difficiles.  Ponit enim ibi
+Philosophus tria genera iracundorum, videlicet acutos, amaros,
+difficiles, sive graves, que quidem distinctio sic exponitur a
+Thoma de Aquino {cf. ^Comm. in X. Libros Ethicorum ad
+Nichomachum~ IV. xiii}.  Potest enim secundum eundem ira ex
+duobus attendi: Primo quidem ex ipsa ire origine, et hoc pertinet
+ad acutos, qui nimis cito irascuntur, et ex qualibet levi causa. 
+Alio modo potest attendi ex ipsa ire duratione, eo scilicet quod
+ira nimis perseverat, quod quidem potest esse dupliciter: Uno
+modo quia causa ire, scilicet illata iniuria, nimis in memoria
+hominis perseverat; unde ex hoc homo diutinam tristitiam
+concipit, et ideo sunt sibi ipsis graves et amari.  Alio modo
+contingit ex parte ipsius vindicte quam aliquis ostinato querit
+appetitu, et hoc pertinet ad difficiles sive graves, qui non
+dimittunt iram quousque puniant.  Ideo dicit idem Philosophus
+quod punitio quietat impetum ire.  In fornace autem ire tres
+fabri operantur: primus est superbia, que exsufflat folles
+tumidorum verborum; secundus est invidia, que tenet ferrum
+duritie cordis cum forcipe inveterati rancoris; tertius est
+contumelia, que assidue cundit nimis opprobiis et contumeliis. 
+Isti tres fabri uno versiculo continentur: Flat forcipes
+rectusque tenet cunditque piragmon.
+
+	Secunda diffinitio est talis: Ira est perturbatio mentis. 
+Circa quam diffinitionem nota quod triplex est perturbatio: una
+meritoria, secunda prohibita, tertia permissa; de quibus supra
+habetur cantu V.  Tertia diffinitio talis est secundum Augustinum
+XIII, ^De Civitate Dei~: Ira est ulciscendi libido.  Cum quo
+concordat etiam Philosophus dicens: Ira est appetitus vindicte. 
+Circa quam diffinitionem nota quod triplex est appetitus sive
+libido vindicte: una remissa, alia inordinata, tertia ordinata. 
+Remissa enim tepide corrigit.  Hanc habuit Hely sacerdos Dei qui,
+ut habetur in primo Regum {I ^Regum~ 2.24 ff.}, filios suos
+peccantes tepide arguebat, et in peccato perseverantes non
+corrigebat; propter quam remissionem ablatum est sacerdotium a
+domo sua; et tandem cadens de sella retrorsum, fractis cervicibus
+expiravit.  Inordinata autem nimis et indebite contra
+delinquentes irascitur.  Unde tali ire a sapienti viro est frenum
+sagaciter apponendum, sicut fecit Architas Tarentinus qui, ut
+scribit Valerius libro quarto, capitulo de moderatione, {^Fact.
+et dict.~ IV. 14. Ext. I} cum iratus esset villico suo ait:
+Summerem a te supplicium, nisi nimis iratus essem.  Et subdit
+Valerius: Maluit enim impunitum dimittere quam propter iram {text
+inserts ^iusto~} gravius punire.  Ordinata autem ira que nobis ad
+corrigendum male facta conceditur habet suas circunstantias
+observare, videlicet tempus, modum, et locum.
+
+	Quantum ad secundum, queritur utrum ira et cetere
+passiones possint cadere in hominem sapientem.  De qua questione
+aliter sentiunt ystoyci, aliter peripatetici, aliter vero
+christiani.  Ystoyci enim dicunt huiusmodi passiones non cadere
+in sapientem; quantumcunque enim ipsi sustineant adversa, ipsi
+tamen tenent animum firmum atque constantem.  Unde refert
+Galienus de Socrate quod potionem accepit et, diu de
+immortalitate anime disputans, potionem illam letus hauxit. 
+Peripatetici vero dicunt has passiones in sapientem cadere, sed
+moderatas et rationi subiectas.  Et ponit exemplum Seneca de rege
+qui, audita filii sui morte, dolens coronam de capite deposuit;
+et audiens quod fortiter pugnando obcubuisset, coro{*n*}am
+resumpsit, dicens se magis gaudere de filii virtute, quam dolere
+de morte ipsius.  Narrat Tullius quod dum Catoni nuntiata fuisset
+mors filii ait: Satisfecit nature filius meus, quia mortalis
+erat.  Unde ipse Tullius in libro ^De Amicitia~ in laudem Catonis
+ait: <Aut enim nemo, quod quidem magis credo, aut si quisquam
+est, ille sapiens fuit.  Quomodo, ut alia omittam, mortem filii
+tulit?> {^De Amicitia~ II. 9}.  Quam ob rem cave ne Catoni
+anteponas Socratem, quem Apollo, ut ait, sapientissimum
+iudicavit.  Huius enim dicta, illius vero facta laudantur.  In
+disciplina autem christiana, ut ait Augustinus, ^De Civitate
+Dei~, non queritur utrum prius animus irascatur aut tristetur,
+sed unde.  Nam, ut idem dicit in lictera {^Retractiones~ I. 19.
+4}: Aliud est irasci fratri, aliud culpe fratris.  Non enim
+fratri irascitur qui peccato fratris irascitur, nec sine causa
+irascitur.
+
+	Quantum ad tertium, nota quod secundum Gregorium ira
+infert homini VIII mala: Primum est quod per ipsam sapientia
+perditur; Ecclesiastes VII+o~: Ira in sinu stulti requiescit
+{^Ecclesiastes~ 7.10}.  Secundum est quod non solum vita
+temporalis diminuitur, sed spiritualis sepe amittitur;
+Ecclesiastici 30: Zelus et iracundia minuunt dies
+{^Ecclesiasticus~ 30.25}.  Tertium est quod mansuetudo amittitur,
+que est custos anime; Ecclesiastici quarto: Fili in mansuetudine
+serva animam tuam {^Ecclesiasticus~ 4.8 (^adapted~)}.  Quartum
+est quod iustitia relinquitur; Iacobi primo: Ira viri iustitiam
+Dei non operatur.  Gregorius: Dum turbatus animus iudicium
+rationis sue exasperat, omne quod furor suggerit rectum putat. 
+Quintum est quod socialis vita perditur; Ecclesiastici VIII: Cum
+iracundo non facias rixam {^Ecclesiasticus~ 8.19}.  Gregorius:
+Qui ex humana ratione iram non temperat, necesse est ut
+bestialiter solus vivat.  Sextum est quod concordia rumpitur;
+Proverbiorum XV: Vir iracundus provocat rixas {^Prov.~ 14.18}. 
+Septimum est quod lux veritatis absconditur; Gregorius: Cum
+iracundia menti confusionis tenebras incutit, huic Deus radium
+sue cognitionis abscondit.  Octavum, quod Spiritus Sancti
+splendor excluditur.  Gregorius: Cum ira quietem menti subtrahat
+Spiritui Sancto, suam inhabitationem claudit.
+
+	Quantum ad quartum et ultimum est sciendum quod ab ira VI
+filiarum speties oriuntur, videlicet rixa, tumor mentis,
+contumelia, clamor, indignatio, et blasphemia.  Que isto ordine
+distinguntur [^sic~]: quia ira aut est in corde, aut profertur ex
+ore, aut demonstratur in opere.  Si in corde tantum, tunc est
+indignatio et tumor mentis; indignatio quidem inquantum irascitur
+contra aliquem quem reputat indignum quod talem iniuriam intulit
+contra eum; tumor autem mentis est inquantum iratus cogitat
+diversas vias vindicte, et talibus cogitationibus animum suum
+replet.  Item ex ira, secundum quod progreditur ex ore, tres
+filie oriuntur: Prima est clamor, qui est confuse vocis
+immoderantia.  Gregorius: Iratus ore sue clamorem format, sed
+quid sensus loquatur ignorat.  Alia est secundum quod aliquis
+prorumpit in verba iniuriosa, et hoc dupliciter: vel contra Deum,
+vel contra proximum.  Si contra Deum, sic est blasphemia; et est
+blasphemia verborum contra Deum sordidata prolatio.  Dicit enim
+Ieronimus super Matheum quod blasphemare est de Deo inordinata
+verba proferre.  Si contra proximum, sic est contumelia, qua quis
+alicui inordinate minatur; Sapientie VII {reference not in
+^Sapientia~ 7}: In voce malorum contumelia est.  Item ex ira
+secundum quod est in opere nascitur una filia, scilicet rixa, per
+quam intelliguntur omnia nocumenta que infert proximo iracundus,
+propter quod dicitur in Proverbiorum {Prov. {*15*}.18}: Vir
+iracundus provocat rixas.  Ubi dicit glosa: Iracundia est ianua
+omnium vitiorum, qua clausa virtutibus extrinsecus aperta ad omne
+facinus armabitur animus.
+
+	Tertio loco sequitur de invidia, circa quam tria {Guido
+proceeds to make four points} breviter videamus: primo, eius
+diffinitionem; secundo, eius transgressionem; tertio, eius
+conditionem; quarto, ipsius parturitionem.  Circa primo queritur
+utrum invidia sit peccatum, et videtur quod non.  Scribit enim
+Ieronimus cuidam nobili viro pro instructione filie sue: Habeat,
+inquit, socias cum quibus adiscat, a quibus invideatur, quarum
+laudibus mordeatur: et sic non videtur esse peccatum; dicendum
+quod invidia est tristitia de bono alterius inquantum est
+diminutivum proprii boni.  Et ideo homines qui sunt amatores
+glorie et honoris sunt invicem invidi, et maxime in illis bonis
+in quibus homines amant honorari; de quibus dicit sapiens in
+secundo ^Rethorice~: Hec quidem bona sunt aut secundum genus, aut
+secundum conditionem, aut secundum statum, aut secundum habitum,
+aut secundum opinionem.  Et ideo ad illos tantum invidia habetur
+in quibus homo vult se equare, vel in aliquo istorum preferre. 
+Et ideo non est invidia respectu multum a se distantium; puta
+plebeius homo non studet se equare regi, quoniam rex multum eum
+excedit, et ideo hiis qui multum distant loco, vel tempore, vel
+statu, homo non invidet.  Et ratio huius est quia nullus conatur
+ad ea in quibus est multum deficiens.  Et ideo cum aliquis in hoc
+eum excedat non invidet, sed si modicum deficiat, videtur quod ad
+hec pertingere possit, et ideo ad hoc conatur.  Iterum
+pusillanimes sunt invidi, quia quicquid boni alicui accidit,
+reputant se in magno superari.  Et ideo dicitur in Iob {^Iob~
+5.2}: Parvulum occidit invidia.  Secundo, videndum est de ipsius
+transgressione utrum sit mortale peccatum.  Et dicendum quod cum
+invidia sit tristitia de alienis bonis, hoc contingit quatuor
+modis: Uno modo quando aliquis dolet de bono alicuius, inquantum
+ex eo timetur nocumentum vel sibi vel aliis sibi astrictis, et
+talis tristitia non est invidia; et potest esse sine peccato,
+iuxta quod Gregorius in ^Moralibus~ dicit: Evenire plerumque
+solet ut non amissa caritate, inimici nos ruina letificet, et
+rursum eius gloria sine invidie culpa nos contristet; ut cum,
+ruente eo, quosdam bene erigi credimus et proficiente illo
+plerosque iniuste opprimi formidamus.  Alio modo potest
+contristari quis de bono alterius, non ex eo quod ille habet
+bonum, sed ex illo quod ei deest; et hoc proprie vocatur zelus,
+ut sapiens dicit in secundo ^Rethorice~; et si iste zelus sit
+circa bona honesta, laudabilis est; iuxta id quod habetur ^Ad
+Corinthios~: Emulami spiritualia.  Sed si sit de bonis
+temporalibus, potest esse cum peccato et sine peccato.  Tertio
+modo tristatur aliquis de bono alterius, eo quod indignus est
+ille cui accidit bonum.  Et est intelligendum de bonis
+temporalibus que proveniunt interdum dignis et indignis, et hec
+tristitia, secundum quod dicit sapiens in secundo ^Rethorice~,
+vocatur nemesis, que est quedam medietas, ut ipse sapiens narrat. 
+Nam invidus qui est in uno extremo tristatur de bonis concessis
+dignis et indignis; alius autem qui est in alio extremo non
+tristatur, sive bona concedantur dignis sive indignis.  Nemesicus
+vero, qui consistit in medio, gaudet de bonis concessis dignis et
+tristatur de bono concesso indignis.  Sed hec tristitia
+prohibetur in divina scriptura: Noli emulari in malignantibus
+neque zelaveris facientes iniquitatem.  Et ratio huius est quia
+sapiens moralis considerat ista bona temporalia secundum se,
+prout possunt magna videri non respicientibus ad eterna.  Sed
+secundum doctrinam fidei, ista temporalia proveniunt indignis ex
+iusta Dei ordinatione, vel ad eorum correctionem, vel ad eorum
+damnationem; huius autem bona nichil sunt in comparatione ad bona
+futura que servantur bonis et dignis.
+
+	Quarto tristatur aliquis de bonis alicuius in quantum
+alter ipsum excedit in bonis, et hec proprie est invidia; et hoc
+est semper pravum, sicut sapiens dicit in secundo ^Rethorice~,
+quia dolet de eo de quo esset gaudendum; et secundum suum genus
+est peccatum mortale; quod patet ex suo genere.  Mortale enim
+dicitur quod vitam aufert et mortem inducit.  Cum igitur invidia
+contrarietur caritati, per quam est vita anime spiritualis, iuxta
+illud Iohannis in canonica: Nos scimus quoniam translati sumus de
+morte ad vitam, quoniam diligimus fratres {^Ep. Cath. Beati
+Iohannis Apostoli Prima~ 3.14}.  Manifestum est quoniam est
+peccatum mortale, nam caritas gaudet de bono proximi; invidia
+autem tristatur nisi excusetur propter imperfectionem actus, quia
+in quolibet genere peccati mortalis sunt aliqui actus imperfecti,
+qui sunt peccata venialia.  Circa tertium nota quod conditio
+invidie est valde turpis et periculosa, quia invidia est fel
+diaboli infusum cordi humano.  Unde in Actibus Apostolorum VII
+{*actually 8.23*} dixit Petrus ad Symonem: In felle amaritudinis
+video te esse.  Fel enim est principium putrefactionis in corpore
+mortuo, quia cum frangitur cista fellis noxius humor diffunditur,
+qui est causa putrefactionis.  Et invidia omnia interiora bona
+corrumpit in ipso momento; Proverbiorum XVIII {*actually 14.30*}:
+Putredo ossium invidia.  Item invidia comparatur urso qui ad
+pelvim candentem excecatur; sic invidus ad bonum proximi
+obfuscatur, ut de eo dicatur illud Ecclesiastici XXV+o~
+{^Ecclesiasticus~ 25.24}: Excecavit vultum suum quasi ursus. 
+Ursus enim diebus festivis magis torquetur, quia per vicos
+trahitur, verberatur, a pueris lapidatur, et a canibus laceratur. 
+Sic invidus magis affligitur videns honorem et decorem proximi. 
+Unde Socrates: Quanta sunt felicium hominum gaudia, tanti sunt
+invidorum gemitus.  Item invidia similatur talpe, que lumen solis
+sine morte diu ferre non potest.  Habet enim oculos sub pelle
+debiles valde.  Sic ipse invidus bonum proximi sine morte anime
+nequit aspicere.  Gregorius: Invidus dum de alieno bono
+affligitur, quasi de radio solis excecatur.  Item invidia est
+fera pessima, de qua ait Iacob patriarcha: Fera pessima devoravit
+filium meum {^Genesis~ 37.20}.  Est enim sevior leone, qui cum
+sit sevissimus inter omnia animalia, tamen predam suam
+inferioribus comunicat tanquam a natura edoctus, quod omne bonum
+in comuni est comuniter deducendum.  Nam sine socio, teste Seneca
+et Boetio, nullius rei est iocunda possessio.  Exemplum de quodam
+rege, qui concessit uni avaro et uni invido quod eligerent unum
+munus, ita tamen quod donum eius qui posterior peteret
+duplicaretur; et cum uterque differret petere, precepit rex ut
+prius petenti alter oculus erueretur.  Statim petiit invidus ut
+sibi erueretur oculus unus, ut socio suo eruerentur duo.  Et nota
+quod apparent exterius signa invidie que poeta Ovidus ponit in
+libro ^Methamorphoseos~, libro 2+o~:
+
+     Pallor in ore sedet, macies in corpore toto.
+     Nusquam recta acies, liventque rubigine dentes,
+     Pectora felle virent, lingua est suffusa veneno;
+     Risus abest, nisi quem visi fecere dolores;
+     Nec fruitur somno, vigilantibus excita curis.
+
+                        {^Met.~ II. 775-779}
+
+	Hiis signis poeticis consonat Gregorius dicens: Invidia
+est arbor cuius radix est superbia, truncus malivolentia, rami
+rancor et odium, folia detractio et mendacium, flores pallor et
+macies, fructus dolor et gaudium; dolor quem non extorquet nisi
+gaudium alterius, gaudium quod non provocat nisi dolor alienus.
+
+	Quantum ad quartum nota quod invidia parturit V pravas
+filias, scilicet odium, sussurrum, detractio, exultatio, et
+afflictio.  Odium quidem, quia cum homo videt proximum suum in
+bonis temporalibus prosperari, incipit eum odire.  Item aliquis
+diminuit gloriam et famam alicuius, et hoc dupliciter: vel
+scilicet in occulto, et sic est sussurrum; si vero in manifesto,
+sic est detractio.  Et est sussurrum quasi occultum murmur. 
+Sussurrare enim proprie est apum; translative vero, sussurrare
+est occulte detrahere.  Detractio vero est quando quis malitiose
+diffamat absentem.  Sed nota quod detractionis V sunt speties:
+prima, simpliciter malum de aliquo dicere, sicut Pharisei
+dicebant de Christo: Nequaquam bonus est sed seducit turbas;
+Iohannis VII+o~ {^Ioannes~ 7.12}.  Secunda est pervertere
+intentionem agentis vel dicentis; Ysaie V+o~ {^Isaias~ 5.20}: Ve
+qui dicitis bonum malum et malum bonum, ponentes lucem tenebras
+et tenebras lucem.  Tertia est minuere bonum etiam si omnino
+appareat bonum; Iob XI {*actually ^Ecclesiasticus~ 11.33*}: In
+electis ponit maculam -- subaudi detractor.  Quarta est
+comparatione melioris alium deprimere, ut in Psalmo {*^Ps.~
+88.45*}: Destruxisti eum ab emundatione, idest emendando unum,
+idest conmendando eum destruxisti reliquum, idest depressisti
+illum de quo fiebat sermo prius.  Quinta est assentire
+murmurationibus.  Augustinus: Qui libenter detrahit vel
+detractores audit, uterque diabolum habet; ille in ore, iste in
+aure.  Et iterum Augustinus: Detractio tres interficit uno ictu:
+detrahentem, audientem, et illum de quo fit detractio.
+
+	Sequitur quarto loco de superbia, quam beatus Gregorius
+in libro ^Moralium~ inter vitia capitalia non assignat, sed dicit
+ipsam esse reginam et matrem omnium vitiorum.  Est autem
+superbia, secundum Augustinum, XIIII+o~ libro ^De Civitate Dei~,
+perverse celsitudinis appetitus.  Et ideo homines de solis
+excellentiis superbire videntur; nam quidam superbiunt de
+scientia, que est excellentissimum bonum.  Taliter autem
+superbienti dicit Dominus, Luce XI+o~ {^Lucas~ 11.35}: Vide ne
+lumen quod in te est tenebre sint, ut patet in Lucifero, qui pro
+luce invenit tenebras.  Sed nota quod propter duo spetialiter
+nullus debet in scientia gloriari, nec de ipsa inaniter
+superbire.  Primo, quia pauca scimus; Ecclesiastes 93 {perhaps
+^Ecclesiasticus~ 43.36 {*or 34.10*} (^misquoted~); there is no
+^Ecclesiastes~ 93}: Pauca novimus.  Paulo autem dictum est, ut
+habetur in Actibus Apostolorum XXVI: {^Act. Apost.~ 26.24
+(^adapted~)} Multe lictere te faciunt insanire.  Secundo, quia
+nichil perfecte scimus.  Intellectus enim humanus sic se habet ad
+manifesta nature sicut ad lumen solis oculus noctue, ut dicit
+Philosophus.  Ideo bene Plato aiebat: Hoc solum scio, quod
+nescio.  Ieronimus: Nec etiam naturam unius culicis perfecte
+cognoscimus.  Unde Symon magus quesivit a beato Petro, ut ^In
+Clementis Itinerario~ continetur, quare culex cum sex pedibus
+habet alas, camelus vero cum quatuor non habet.  Nec est nobis
+alia ratio nisi voluntas creatoris, qui sicut voluit fecit. 
+Quidam superbiunt de pulcritudine, que est excellens donum, quia
+per pulcritudinem corporalem devenimus in pulcritudinem
+spiritualem, et maxime creatoris.  Dicitur enim quod dum quidam
+hereticus diceret quid est anima? et audientes nil respondere
+scirent, unus puer ait ad eum: Anima, licet videri non possit,
+tamen considerari potest eius essentia ac etiam pulcritudo, quia
+anima resoluta a corpore, corpus remanet quasi nichil, et tota
+eius perditur pulcritudo.  Sed talis pulcritudo, quia inde
+homines inaniter gloriantur, vana protinus iudicatur.  Unde
+Salomon: Fallax gratia et vana est pulcritudo {^Prov.~ 31.30}. 
+Vana ideo dicitur quia non diu manet; Ysidorus: Vanum est quod
+statum suum diu servare non potest.  Ideo comparatur flori et
+nivi.  Comparatur enim primo flori, qui ad tempus virescit et
+statim transit et marescit, deinde vanescit.  Ideo monet poeta:
+
+     O formose puer, nimium ne crede colori;
+     Alba ligustra cadunt, vaccinia nigra leguntur.
+
+                        {Virgil, ^Eclogue~ II. 17-18}
+
+	Secundo comparatur nivi super fimum, quia dum nix operit
+fimum, totum videtur album, sed ad solis calorem nix liquescit et
+fimus magis putrescit.  Boetius: Quid est pulcritudo corporis
+nisi velamen turpitudinis?  Boetius in libro ^De Consolatione~
+{^De Cons. Phil.~ III. viii. pr. (^adapted~)}: Si linceis oculis
+homines uterentur, ut visus queque obstacula penetraret,
+Alchibiadis corpus superficie pulcerrimum nonne turpissimum
+videretur?  Et concludit: Te igitur pulcrum videri, non tua
+natura, sed spectantium oculorum reddit infirmitas.  Hoc apparet
+in noctiluca, que in tenebris videtur aurea, in luce vero vermis. 
+Adsili hominibus carnalibus, quia in tenebris sunt, pulcritudo
+venerea videtur incomparabiliter pretiosa.  Sed non considerant
+quod pulcritudo veneris est excecatio mentis.  Exemplum de
+Holoferne, qui dum vidit pulcritudinem et ornatum Iudith et
+maxime pedum, statim mente captus, ab ipsa fuit capite
+detruncatus.  Unde Iudith X {^Iudith~ 10.17}: Sandalia eius,
+idest calciamenta, Iudith rapuerunt oculos eius, scilicet
+Holofernis.  Et ideo, secundum Gregorium, non licet intueri quod
+non licet concupisci.  Impudicus enim oculus impudici cordis est
+nuntius, ut dicit A{*u*}gustinus.  Magna est enim vicinitas inter
+oculos et cor.  Dicunt enim naturales quod in formatione hominis
+primo effigiatur cor, postmodum oculi.  Ideo Augustinus, in VII
+^Confessionum~ {cf. ^Conf.~ VII. i. 2}: Per quales, inquit,
+ymagines ibant oculi mei, per tales ibat et cor meum.  David
+autem, nisi vidisset Bersabee nudam, nec adulterium cum illa
+perpetrasset, nec virum eius morti per suas licteras destinasset. 
+Quidam superbiunt de veste pretiosa, quod est valde vanum, quia
+vestis non est homini concreata, sed aliunde mutuo acquisita. 
+Nam ab ove habemus lanam, a terra linum, a vermibus siricum, et a
+bestiis corium; et hoc quia nudi ingredimur in hunc mundum. 
+Damnatur autem vestis propter V, que arguuntur et inducunt
+peccatum in luxu vestium: Primum est pretiositas vel
+sumptuositas, quando tantum in uno vestimento expenditur de cuius
+superfluo possent vivere multi pauperes.  Luce VIII {actually
+^Lucas~ 7.25}: Ecce qui in pretiosa veste sunt, in domibus regum
+sunt.  De nimio ornatu reprehendit Apostolus Timothi 2 {^Ep. ad
+Timotheum prima~ 2.8-9}: Mulieres dicens volo vos orare in omni
+loco, levantes puras manus sine ira et disceptatione.  Similiter
+et mulieres in habitu ornato -- glosa decenti -- cum verecundia
+et sobrietate -- glosa mentis ornantes se, non in tortis crinibus
+aut auro aut margaritis aut veste pretiosa.  Secundum est
+multiplicitas, ut quando pertice pendent onerate vestibus et
+pauperes moriuntur frigore.  Iob XXIV {^Iob~ 24.7}: Nudos
+dimittunt homines, indumenta tollentes quibus non est operimentum
+in die frigoris.  Ieronimus: Alicam rapere convincuntur qui ultra
+necessitate sibi retinere probantur.  Tertium est curiositas
+quando nimis accurate sunt, etiam si sint viles.  Augustinus:
+Nemo putet in luxu et studio vestium deesse peccatum, alioquin de
+asperitate vestium non laudaretur.  Iohannis, Mathei VII. 
+Quartum est indecentia, que respicit ordinem et statum persone:
+non enim decet clericum vestiri veste militari, vel hystrionica
+vel meretrica.  Deuteronimi XXII {^Deut.~ 22.5}: Non induetur
+mulier veste virilem, nec vir vestem muliebrem.  Sophonias primo
+{^Sophonias~ 1.8}: Visitabo super omnes qui induti sunt veste
+peregrina, idest qui nova genera vestimentorum procurant ad vanam
+gloriam.  Quintum est ostensio, que respicit vanitatem et laudem,
+cum potius sit vituperium.  Oportet enim ovem gloriari de lana,
+non te, et verme de sirico; Ecclesiastici XI {^Ecclesiasticus~
+11.4}: In vestimento ne glorieris unquam.  Item nota quod purpura
+sanguine tingitur.  Purpura ergo utuntur qui vestimenta sua
+multiplicant de sanguine crucifixi, ut clerici maxime, vel de
+sanguine pauperum, ut avari, raptores, et huiusmodi.  Quidam
+superbiunt de dignitate, que terminatur in deiectione et
+vilitate.  Exemplum de rege Anthioco, qui, ut habetur 2+o~
+Machabeorum V {cf. II ^Machab.~ 5.5 ff; 9.7 ff.}, videbatur sibi
+pre superbia imperare fluctibus maris, montes in statera
+appendere, et tandem consumptus vermibus et fetore expiravit. 
+Pessima igitur est conditio superbie que facit hominem sui status
+protinus oblivisci.  Nam homines positi in sublimi in principio
+quidem sunt mansueti, sed in fine feroces: et hoc totum superbia
+operatur.  In figura huius habemus exemplum de Nabuchodonosor,
+qui elatus in superbiam effectus est divino iudicio in parte
+anteriori bos, qui est animal mansuetum; in parte vero posteriori
+factus est leo, qui est animal ferox.  Et ideo homo superbus nec
+Deo obedit, nec consortio humano consentit, nec rationis regulis
+acquiescit.  Dico primo quod homo superbus Deo non obedit, quia
+sicut dicitur in Iob: Ambulant adversus Deum erecto collo.  Et
+Boetius dicit quod cum omnia vitia fugiant a Deo, sola superbia
+se Deo opponit, quia cum in quolibet peccato sint duo, scilicet
+aversio et conversio, alia peccata dicuntur per respectum ad
+conversionem, superbia vero principaliter per aversionem.  Et
+ideo in omni peccato superbia includitur, per quam homo a Deo
+avertitur.  Secundo, homo superbus humano consortio non
+consentit.  Videmus enim quod omnia secundum quendam ordinem sunt
+disposita et ad invicem consortia habentia. Sed superbia istum
+ordinem dissipat; et hoc sic patet, que secundum conditionem res
+nobilitatem recipiunt et locum altiorem sortiuntur.  Unde
+animalia que conditionem sensibilem habent sunt semper
+vegetabilia, herbas, et plantas.  Et quia homo habet cognitionem
+intellectualem, constituitur super omnia alia, et super ea
+dominium habet iuxta id ut presit volatilibus, celi, et piscibus
+maris.  Et quia Deus nobilissimam habet conditionem super omnia
+exaltatur, et istum ordinem invenimus in humana natura, quia,
+sicut dicit sapiens in sua ^Politica~, homo qui intellectu viget
+naturaliter aliis dominatur, et qui deficit intellectu et
+prevalet robore naturaliter est servus.  Et hoc est quod dicitur
+in Scriptura Divina: Qui stultus est, serviet sapienti.  Sed hunc
+ordinem subvertit superbus.  Unde dicitur in Ecclesiastico
+{^Ecclesiastes~ 10.5-6}: Vidi aliud malum sub sole quasi per
+errorem egrediens a facie principis, scilicet stultum positum in
+sublimi.  Sed ratio huius est quia iusto iudicio Deus hoc
+permittit, quia quanto superbus altius elevatur, tanto profundius
+demergitur.  Unde dicitur in Psalmo {cf. ^Ps.~ 37.35}: Vidi
+impium superexaltatum et elevatum.  Et sequitur: Transivi et ecce
+non erat.  Tertio, homo superbus non acquiescit regulis rationis:
+unum quodque enim habet aliquod bonum per quod aliquam
+excellentiam assequitur, et quanto magis aliquid est bonum, tanto
+maiorem excellentiam habet.  Et ideo, cum aliquis attribuit sibi
+maius bonum quam habeat, consequens est quod eius appetitus ultra
+modum sibi convenientem in propriam excellentiam tendat.  Et ideo
+quandocunque homo recedit a regulis rationis, sive per excessum
+sive per defectum, oportet quod peccatum incurrat, et moraliter
+loquendo, a propria natura recedat.  Et huius exemplum habemus a
+sapiente in numeris.  Accipiamus enim ternarium: si ei unitas
+auferatur, mutatur ipsius ternarii speties et remanet binarius;
+et si ternario addatur unitas, resultat quaternarius.  Et simile
+est in proposito: si enim homo sequatur regulam rationis vere,
+dicitur homo; si autem a ratione defluat per luxuriam, iam non
+erit de eo iudicium sicut de homine, sed sicut de bruto animali. 
+Si autem excederet regulam rationis per superbiam, tunc de eo
+erit iudicium sicut de dyabolo, qui fuit pater superbie.  Unde
+fit, secundum Boetium, quarto ^De Consolatione~, ut qui probitate
+deserta homo esse desierit, cum in divinam conditionem transire
+non possit, vertatur in belvam.  Quidam superbiunt de stemate
+{from ^Br.~ Cha has ^scemate~} idest de nobilitate generis, quod
+est valde fatuum triplici consideratione: prima consideratio est
+quia omnes facti sumus ab uno Deo, et omnes descendimus ab uno
+homine, scilicet Adam.  Non enim factus est unus ab uno Deo et
+alius ab alio, nec unus descendit ab uno homine et alius ab alio,
+sed omnes habemus unum Deum qui nos fecit et unum patrem a quo
+processimus.  Nec etiam Adam habuit nisi unam uxorem, quod homo
+possit dicere ego sum natus de una et illa erat nobilis, et tu de
+alia et illa erat ignobilis.  Unde Boetius, tertio ^De
+Consolatione~ {^De Cons. Phil.~ III. vi. verse (^adapted~)}: Omne
+hominum genus simili surgit ab ortu: unus enim pater est.  Quid
+genus et proavos strepitis?  Si primordia vestra autoremque Deum
+spectes, nullus degener extat, ni vitiis peiora fovens proprium
+deserat ortum.  Secunda consideratio est quia omnes facti sumus
+ex una et eadem materia, scilicet de terra lymosa.  Non enim
+fecit Deus unum hominem aureum vel argenteum, ex quo nascerentur
+nobiles, et alium terreum sive luteum, ex quo nascerentur
+ignobiles, sed omnes sumus ex eadem massa creati.  Ideo de
+nobilitate generis superbire non decet.  Versus:
+
+     Cum fex, cum lymus, cum res vilissima simus,
+     Unde superbimus? ad terram terra redimus.
+
+	Tertia consideratio est quia omnes nudi in hunc mundum
+intramus et nichil nobiscum, preter culpam, portamus.  Non enim
+rex Francie, aut soldanus Babilonie, nascitur indutus vel
+coronatus.  Unde Salomon {*^Sap.~ 7.5*}: Nemo ex regibus habuit
+aliud nativitatis exordium.  Ideo beatus Iob, qui fuit rex,
+dicebat: Nudus egressus sum de utero matris mee, nudus illuc
+revertar {^Iob~ 1.21}.  Si autem dicis, et si omnes intramus in
+hunc mundum uniformiter pauperes et mendici et similiter inde
+eximus, tamen multi in vita sunt divites et potentes.  Audi quid
+dicat de eis propheta, Baruch 3+o~ {^Baruch~ 3.16-19}: Ubi sunt
+principes gentium qui dominantur in bestiis terre? qui in avibus
+celi ludunt, qui argentum et aurum thesaurizant, in quo confidunt
+homines?  Et respondet: Exterminati sunt.  Idest extra terminos
+celi et mundi positi sunt et ad inferos descenderunt, et alii
+loco eorum surrexerunt.  Et poeta: Quo pater Eneas, quo dives
+Tullius Anchus?  Pulvis et umbra sumus.  Preterea, si omne quod
+nascitur ex nobili viro est nobile, pediculi nobilium debent dici
+nobiles, quod falsum est.  Sic simili modo filii nobilium qui non
+sunt in vita et moribus generosi, non nobiles sed degeneres sunt
+dicendi.  Unde Boetius: Si malus es, incipit contra te ipsorum
+parentum stare nobilitas.  Et Iuvenalis, satira VIIIM+a~: Malo
+pater tibi sit Tersites, dum modo tu sis / Eachidi similis
+vulcanaque arma capescas / quam te Thersite similem producat
+Achilles {Iuvenal, ^Satyra~ VIII. 269-271 (^misquoted~)}: Si
+autem queris que sunt filie superbie respondeo quod omnia peccata
+et omnia scelera ac etiam omnia mala ab ipsa procedunt.  Et sic
+patent quatuor vitia capitalia que in ista palude Stigia sunt
+submersa.
+
+	|22-24.~  ^SECUNDA COMPARATIO.~  Lictera plana est.
+
+	|34.  S'i' vengo, non rimango.~  ^PRIMUM NOTABILE.~ 
+Interrogatus autor a domino Phylippo Argenti dicente: <Chi se' tu
+che vieni anzi ora?>  Hoc est, quis es tu qui ante horam mortis
+ad inferna descendis? ait: <S'i' vengo, non rimango>.  In qua
+responsione unum pulcerrimum notabile et valde morale breviter
+continetur.  Homo enim sapiens, licet peccet, non tamen in illo
+peccato perseverare proponit.  Ideo ait: <Si ego venio, non
+remaneo>.  Vel aliter, multotiens accidit quod homo sapiens atque
+bonus aliorum peccata considerat, scrutatur, et videt, non ut
+peccet, sed ut ab ipsis caveat, vel peccantes ab eisdem peccatis
+erigat ad salute[m].
+
+	|44-45.~  Verba sunt Virgilii ad autorem.  In quibus
+verbis duo facit ipse Virgilius; nam primo commendat autorem cum
+dicit ipsum habere naturam contra vitium arrogantie dedignantem,
+in eo quod Dantes dedignatus fuit contra arrogantiam illius anime
+paludose.  Ideo ait: <Alma sdegnosa>.  Secundo, benedicit et
+laudat illam que talem fructum gestavit in utero, ibi: <benedecta
+colei che 'n te s'incinse>; idest, benedicta sit illa que tui
+gravida fuit.  Et est istud <incingere> vocabulum Romanorum; nam
+cum volunt dicere: <Illa mulier est gravida, sive pregnans>,
+dicunt: <Illa mulier est incincta>.
+
+	|47.  Bont@a non @e che sua memoria fregi.~  ^SECUNDUM
+NOTABILE.~  In hoc notabili demonstratur quam sit vilis conditio
+hominis arrogantis, in hoc quod nulla memoranda memoria de ipso
+remanet in hoc mundo.  Ideo ait, ubi loquitur de domino Phylippo:
+<Nulla bonitas memoriam suam ornat>.
+
+	|49-50.~  ^TERTIUM NOTABILE.~  Quam sit dispar in Inferno
+superborum et arrogantium conditio sive status, a conditione et
+statu quem habent et obtinent in hac vita in hiis duobus rithimis
+a Virgilio demonstratur; in quibus ponit quod omnes illi qui se
+superbe et arroganter retinent vel reputant esse magnos, erunt in
+Inferno velut porci in volutabro involuti.  Et istud concordat
+cum sententia Salvatoris, qui ait in Evangelio beati Mathei,
+XXIII capitulo: Qui se exaltat humiliabitur {^Matth.~ 23.12}.
+
+	|61.~  Tutti gridavano: <A Phylippo Argenti>.  Iste fuit
+quidam miles de Adimaribus de Florentia, totus accidiosus,
+iracundus, invidus, et superbus.  Et dicitur quod vocabatur
+Phylippus Argenti quia equum suum faciebat ferris {from ^Br.~ Cha
+has ^ferreis~} argenteis ferriari.
+
+	|64-66.~  In ultimis quando autor dimisit istum Phylippum
+in illa derisione ab illis peccatoribus taliter derideri, ille
+Phylippus quibusdam verbis autorem in aure percussit, que quidem
+verba, quia ipse autor non bene intellexit, ideo ipsa non
+scribit; sed ut moris est in illo dolore quem in aure recepit,
+oculos aperuit et extra produxit.  Ideo ait: <perch'io avanti
+intento l'occhio sbarro>; |sbarrare~, idest <aperire>.
+
+	|67-69.~  Ditis est quedam civitas in medio Inferni
+posita, in cuius circuitu est illud pantanum obscurum, turbidum
+et nubilosum, quod dicitur Stix.  Que civitas ideo Ditis a poetis
+appellatur, quia in ea et subter eam sunt thesauri Inferni
+absconditi, idest peccatores maximi collocati, ut sunt heretici,
+tyranni, raptores, desperati, blasphemi, sodomite, usurarii,
+fraudulenti, et proditores.  Ideo sequitur in textu: <co' gravi
+cittadin, col grande stuolo>.  De hac civitate ait Ovidius,
+IIII+o~ libro ^Methamorphoseos~: <Mille capax aditus et apertas
+undique portas / urbs habet> {^Met.~ IV. 439-440}.  Mille autem
+portas habere dicitur, quia per mille vias itur ad Infernum.
+
+	|70-71.  Meschite~ proprie lingua sarracenica sunt phana
+et templa ipsorum.  Hic autem ponuntur pro turribus et meniis
+civitatis.
+
+	|106-107.~  ^QUARTUM NOTABILE.~  Licet, secundum
+sententiam Salomonis, spes que differtur affligat animam,
+nichilominus tamen spes habet animam cibare et confortare,
+propter premium quod expectat.  Unde videmus in homine militari
+quod, propter spem quam habet de premio, audacter aggreditur non
+solum ardua, sed etiam ipsam mortem.
+
+	|111.  Che 'l s@i e 'l no nel capo mi tenciona.~  ^QUINTUM
+NOTABILE.~  In hoc notabili ostenditur causa quare spes dilata
+habet animam tormentare; quia sic et non in capite altercantur.
+
+	|124-125.~  Ista porta sacrata [^sic~] est illa prima
+porta Inferni super quam scripti sunt novem rithimi qui
+incipiunt: <Per me si va ne la citt@a dolente>, etc.  <Sacrata>
+autem dicitur propter duo, secundum quod res dicitur sacrata
+duabus de causis, dico quantum ad presentem materiam.  Nam res
+dicitur <sacrata>, primo propter immunitatem, sicut sunt templa
+sive ecclesie sacre, que ab imperatoribus sunt dotate et
+privilegiate ut nullus malefactor intrans illud templum, vel
+illam ecclesiam, possit inde extrahi vel moveri; secundo modo res
+dicitur <sacra> quando violari non licet, sicut quedam leges vel
+statuta civitatum sacra dicuntur quia violari non possunt.  Et
+secundum istos duos modos porta Inferni dicitur sacrata: Primo,
+quia nulli intrare negatur accessus.  Ideo autor ait in textu:
+<la qual senza serrame ancor si trova>; et similiter nulli
+intranti exitus condonatur. Secundo, quia leges Inferni violari
+non possunt.  Unde infra, secunda cantica, cantu primo, dixit
+Cato Virgilio et autori quando vidit eos de Inferno exire:
+
+     Son le leggi d'abisso cos@i rotte?
+     o @e mutato in ciel nuovo consillio,
+     che, dannati, venite a le mie grotte?
+
+                        (^Purg.~ I. 46-48)
+
+Et propter ista duo dicitur ibi in textu: <Lasciat'ogni speranza
+voi ch'entrate>.
+
+	|127.  Sopr'essa vedest@u la scritta morta.~  Ista
+scriptura mortua est illa de qua dicit superius autor tertio
+cantu {*vv. 10-11*}: <Queste parole di colore obscuro / vid'io
+scritte al sommo d'una porta>.
+
+	|128-130.  Et gi@a di qua da lei discende l'erta.~  Quando
+demones in faciem Virgilii clauserunt ianuas civitatis, statim
+missus fuit de celo unus Angelus ut, malis gratibus illorum
+spirituum malignorum, civitatem aperiret, et eis liberum
+introitum exhiberet.  

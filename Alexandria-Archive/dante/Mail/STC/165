@@ -1,0 +1,136 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id TAA29390
+	for <steve@avalon.dartmouth.edu>; Mon, 4 Jan 1999 19:31:57 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id TAA08665
+	for <Steve.Campbell@DARTMOUTH.EDU>; Mon, 4 Jan 1999 19:31:56 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 61032 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67471-22838>; Mon, 4 Jan 1999 19:30:49 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA29229
+	for <Steve.Campbell@dartmouth.edu>; Mon, 4 Jan 1999 19:30:47 -0500 (EST)
+Received: from phoenix.princeton.edu (phoenix.Princeton.EDU [128.112.131.153])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA04160;
+	Mon, 4 Jan 1999 19:30:46 -0500 (EST)
+Received: (from bobh@localhost)
+	by phoenix.princeton.edu (8.8.8/8.8.8) id TAA27369;
+	Mon, 4 Jan 1999 19:30:46 -0500 (EST)
+Message-Id: <199901050030.TAA27369@phoenix.princeton.edu>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Mon, 4 Jan 1999 19:30:46 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: Graziolo
+Cc: bobh@phoenix.Princeton.EDU
+
+I've always said that the brighter one is, the worse
+one proofreads.  I must be an effin genius.  I have
+just revisited all of Graziolo, with some considerable
+embarrassment.  I tried to edit some in the files, but
+found it didn;t like my editing, and so I quit w/o
+saving.  They should be (proem and 01) just as they
+were.  So here comes a list of wonkers.  I can redo the
+files here and send them again.  Or you can teach me
+how to edit up there.  I feel particularly guilty about
+this.
+
+A stylistic change, just for the first screen of the
+Proemium.  I know we use "Nota." for all stuff that
+isn't text of partic. cantos.  No problem.  But, as was
+the case for Pietro3, we need to indicate that the
+Preom is one, and to all Inferno.  Can you put in a
+floating header simply saying "Proemio."?  Just over
+the whole thing, not on each screen.
+
+Here are the errors:
+
+Proem
+
+spi- ritu = spiritu
+ed.  Mazzantini = ed. Mazzantini (1 sp.-- it looked
+        right in the text up there)
+Inf.~  1 = Inf.~ 1 (1 sp.)
+
+CAnto I
+
+Tim.~ 1 5,6 = 5, 6 (add space)
+M P. Dall' = M P.  Dall' (add space -- this is the one
+that looked OK at D'mth, not Mazzantini, above. Sorry.)
+
+14,14 = 14, 14 (space)
+compare pi = compare pi@u
+perch (twice in first line) = perch$e
+ Colligitur =  Colligitur (2 spaces before "C")
+6,13 = 6, 13 (space)
+QUERY: at screen 32 (and again in Inf. VII, screen 91)
+our usual sign for superscript is replaced by an 'o'
+with a line through it.  I can live with this --
+easily.  I kinda like it.  Will it show up OK for all
+users?
+l@a s@a = l@a s@u
+
+Canto II
+
+1,544 = 1, 544 (space)
+L a q u a l e  = La quale
+
+III
+
+Thom.  ^Summa = Thom. ^Summa (cut one space)
+
+IV, document 65: UNbold opening bolded passage (2nd one
+is OK)
+
+V
+
+C a y n = Cayn
+
+VII
+
+v e l o c e = veloce (close spaces)
+
+IX
+
+passage for vv. 46-57 NOT separated from passage for
+16-27.  It should be a separate entry.
+
+XI
+
+doc. 124        91096 is bolded: DE bold it.
+doc. 124 (above one = 122: Sorry): Ma...L'orizzonta:
+BOLD this bit.
+
+XVI
+
+l' a r n i e = l'arnie (close spaces)
+
+XVIII
+67- 90 = 67-90
+
+XIX
+
+opp.  ^Isai = opp. ^Isai (cut space)
+
+XXVI
+
+doc. 297: BOLD should STOP after "miso" in 1st line
+(1) Piangevisi = Piangevisi (cut "(1)")
+
+XXIX
+
+doc. 335        Di Valdichiana: BOLD, please.
+
+XXXI
+
+doc. 363        up to "perizoma": BOLD
+
+XXXII
+doc. 377        after "lo mezzo" italics should STOP
+
+
+That's not very good editing at my end.  Best, Bob
+
+PS WHen do you get out of the cold?  And is Tortola too
+long a haul?  I guess it is pretty far from the
+Grenadines.  We were at the beginning of them once.
+Nice.  Have a wonderful time.

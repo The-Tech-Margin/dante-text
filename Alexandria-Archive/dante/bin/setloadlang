@@ -1,0 +1,51 @@
+#! /bin/sh
+
+#	Select a database form file for a particular combination of
+#	languages.
+#
+#	Usage:		setloadlang  [-d database] language-spec
+#
+#		where language-spec is the suffix of the database form
+#			file to be used. The different form files contain
+#			stopword settings for different languages.
+#
+#	$Header$
+
+FORMLIB=$Dante/lib
+FORMROOT=form.db
+DB=NDDP
+USAGE="Usage: $0  [-d database]  language-spec"
+
+[ $# -gt 1 -a $1X = -dX ] && {
+	DB=$2
+	shift
+	shift
+}
+
+DIR=$Dante/$DB
+[ -d $DIR ] || {
+	echo Directory $DIR does not exist.
+	exit 1
+}
+
+[ $# -eq 1 ] || {
+	echo $USAGE
+	exit 1
+}
+
+# See if a form file with the requested suffix exists.
+
+FORMFILE=$FORMLIB/$FORMROOT.$1
+
+[ -r $FORMFILE ] || {
+	echo $FORMFILE: file not found.
+	exit 1
+}
+
+DBFORMFILE=$DIR/form.db
+
+rm -f $DBFORMFILE
+ln -s $FORMFILE $DBFORMFILE || exit 1
+	
+brsload $DB -info
+chmod 664 $DIR/info.db

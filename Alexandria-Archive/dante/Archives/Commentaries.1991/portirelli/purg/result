@@ -1,0 +1,341 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Portirelli
+	Language   = Italian
+	Pub. Year  = 1804
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       28017 Apr 14 09:30 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13914 Apr 14 09:30 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       17059 Apr 14 09:30 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       16881 Apr 14 09:30 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       10791 Apr 14 09:30 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       17807 Apr 14 09:30 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       20072 Apr 14 09:31 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15063 Apr 14 09:31 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23643 Apr 14 09:31 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12718 Apr 14 09:31 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13296 Apr 14 09:31 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15699 Apr 14 09:31 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       18831 Apr 14 09:31 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26566 Apr 14 09:32 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/purg/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13793 Apr 14 09:32 ../staging/purg/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23265 Apr 14 09:32 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14583 Apr 14 09:32 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15472 Apr 14 09:32 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15966 Apr 14 09:32 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/purg/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       24332 Apr 14 09:33 ../staging/purg/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       11619 Apr 14 09:33 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15026 Apr 14 09:33 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/purg/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12117 Apr 14 09:33 ../staging/purg/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       18359 Apr 14 09:33 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/purg/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       26543 Apr 14 09:33 ../staging/purg/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/purg/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       15857 Apr 14 09:33 ../staging/purg/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12636 Apr 14 09:34 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13537 Apr 14 09:34 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14451 Apr 14 09:34 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14254 Apr 14 09:34 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14476 Apr 14 09:34 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       23914 Apr 14 09:34 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Portirelli...
+Verifying Portirelli...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32076 Apr 14 09:35 ../staging/purg/33

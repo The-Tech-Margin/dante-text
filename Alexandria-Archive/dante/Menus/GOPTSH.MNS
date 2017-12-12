@@ -1,0 +1,22 @@
+{GOPTS_H}
+
+:SET #HEADING ~\cDDP\t\t\t\o2General Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The  preceding  option  screen allows you to select one of the many
+     functions  available through BRS/SearchMate.  To access the desired
+     function  simply  enter the appropriate letter at the "Enter Option
+     Letter"  prompt.   You  can  then enter "H" for more information on
+     each SearchMate function.
+
+     Note  that any single letter typed following a search prompt (i.e.:
+     a number-bar-colon, like 1_:) is interpreted as a SearchMate option
+     selection.   This  allows  the  more  experienced  user  to  bypass
+     selection menus and enter the chosen option directly.
+
+     In order to search on a single letter, enclose the letter in double
+     quotes  (e.g.: "S"); this forces the system to interpret the letter
+     as a searchable "word", rather than as a Searchmate command.\n~
+
+:PAUSE BOTTOM
+:RETURN

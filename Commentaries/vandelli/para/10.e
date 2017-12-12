@@ -1,0 +1,576 @@
+	|Proemio.~  1-27.  ORDINE SAPIENTISSIMO DEL CREATO.  ^Lo
+primo ed ineffabile Valore~, dice D., cio@e Dio padre, guardando
+nel divin Figliuolo, ossia nel Verbo Suo, nell'Idea di s@e, nella
+quale @e l'idea od archetipo di tutte le cose, e guardandovi con
+l'Amore, cio@e collo Spirito Santo, il quale con eterna spirazione
+procede dall'uno e dall'altro, cre@o l'universo visibile e
+invisibile con tanto ordine, che chiunque lo consideri, non pu@o
+non gustare di codesto Valore.  Perci@o il P. ci esorta <a levar
+seco la vista alle sfere superiori e appunto a quella parte dove
+percuotonsi i due movimenti opposti, il diurno o equatoriale da
+levante a ponente, e il planetario o zodiacale da ponente a
+levante; e per tal modo fissa la nostra attenzione ai punti
+equinoziali, ove lo scontro, per la opposizione de' due moti, si
+fa.  Da quei punti vuole che abbia principio la nostra
+considerazione rispetto all'arte del divino Maestro nella
+architettura del mondo: ci viene ricordando come da esso diramasi
+l'obliquo cerchio che porta i pianeti, cio@e lo zodiaco, e intanto
+con altezza di concetto, giusta lo stato dell'astronomia di quel
+tempo, manifesta il suo pensiero circa la ragione per la quale da
+questa obliqua zona sono portati i pianeti, supponendola nella
+convenienza di soddisfare al mondo che li chiama, cio@e alla terra
+e a ci@o che vive sulla superficie di lei, creduto abbisognare
+delle influenze varie che a quei corpi celesti, in quella inversa
+direzione recati in giro, si attribuivano [vv. 7-15].  Passa indi
+a farci ammirare l'altissima importanza, che quella zona sia
+obliqua, e di quella determinata obliquit@a ch'ella ha rispetto
+all'equatore, o al movimento dell'alte spere; accennando con
+rettissimo giudizio alle infelici condizioni in cui saremmo
+quaggi@u se quella strada planetaria o non fosse torta, o fosse
+pi@u o meno di quel ch'ell'@e.  Infatti se l'eclittica coincidesse
+con l'equatore, e quindi corresse parallelo al medesimo lo
+zodiaco, pel solo fatto della costante permanenza del sole a
+perpendicolo sulla linea equinoziale terrestre, anco senza tener
+conto delle credute influenze degli altri pianeti, sarebbe
+davvero quasi ^ogni potenzia quaggi@u morta~; perciocch@e nelle
+regioni prossime all'equatore avremmo un'estate perpetua e un
+accumulamento eccessivo di calore, che le renderebbe incapaci di
+vegetazione e inabitabili; le zone che ora diciamo temperate,
+avrebbero una continua primavera incipiente, e quindi non
+vedrebbero maturazione di biade e di frutti; le polari sarebbero
+immerse perennemente in un rigido inverno, e cos@i tutta la terra,
+nella eguaglianza tra i giorni e le notti, offrirebbe un
+miserabile soggiorno, improprio allo svolgimento di quei germi
+preziosi che il Creatore amantissimo ha posto quaggi@u negli
+uomini e nelle cose [vv. 16-18].  Quando poi l'obliquit@a dello
+zodiaco fosse notevolmente maggiore o minore di quella che di
+presente si osserva, in ambedue i casi verrebbe alterato tutto
+ci@o che ai climi si riferisce; e quindi avverrebbe grave
+cambiamento nella distribuzione della luce e del calore, delle
+ore notturne e diurne, dei vapori e delle rugiade, delle pioggie
+e dei venti, dei ghiacci e delle nevi, per non parlare che di
+fatti reali e solenni, a' quali poteva accennare il Poeta [vv.
+19-27]> (^Antonelli~); e manchevole sarebbe da dire anche
+l'ordinamento ^di su~, cio@e del cielo.
+
+	28-63.  SALITA AL CIELO DEL SOLE E LUMINOSIT@A DEI BEATI
+IVI APPARSI.  RINGRAZIAMENTO A DIO.  Senza che D. s'accorga di
+salire, si trova con B., e per virt@u di lei, nel Sole.  Confessa
+di non saper porgere un'immagine adeguata di quel che ivi gli
+apparve: le cose vi si discernevano non gi@a per colore diverso da
+quello del Sole, ma solo per la luminosit@a loro, superiore a
+quella solare ch'@e la massima per noi.  Esortatone da B., D.
+ringrazia Dio con tanto fervore e concentrazione di spirito, che
+per un momento dimentica la stessa B.  Di ci@o ella sente tale
+letizia, che se ne accresce il fulgore de' suoi occhi; e questo
+accresciuto fulgore riscuote D. da quel fervido raccoglimento in
+Dio.
+
+	64-81.  FESTOSO CONTEGNO DELL'ANIME DEL QUARTO CIELO. 
+Gli spiriti apparsi sono di sapienti, e specie di sapienti in
+divinit@a.  Avvolti in vivissimo splendore, cantano con ineffabile
+dolcezza.  Girano in tempo di danza per tre volte intorno a D. e
+B.; quindi sospendono il canto e si fermano, pronti a sodisfare
+le giuste curiosit@a del Poeta.
+
+	82-138.  PRESENTAZIONE DEI SAPIENTI.  Una delle anime,
+quella di Tommaso d'Aquino, assicura D. che egli e i suoi
+compagni sono pronti ad appagare ogni sua curiosit@a, vedendolo
+cos@i privilegiato da Dio.  E sapendo gi@a, perch@e in Dio legge
+quel che passa nell'animo di D., che questi desidera conoscere
+lui ed i suoi compagni, accenna prima solo genericamente a s@e,
+poi nomina il suo maestro, che gli @e vicino, e anche s@e stesso;
+quindi ad uno ad uno altri dieci spiriti, che compongono insieme
+col maestro e con lui la ghirlanda che circonda D. e B.
+
+	139-148.  NUOVA DANZA E NUOVO CANTO DELLE ANIME.  Appena
+S. Tommaso ha finito di presentare i 12 dottori, questi si
+rimettono a danzare e a cantare con una dolcezza che non si
+conosce n@e si pu@o gustare se non in Paradiso.  Cfr. ^Par.~ XXIV
+13 sgg.
+
+	|1.  Guardando~ ecc.: Qui si parla della creazione, opera
+di tutta la Trinit@a, ma pi@u particolarmente del Padre.  <Creare
+convenit Deo secundum suum esse, quod est eius essentia, quae est
+communis tribus personis; unde creare non est proprium alicui
+personae, sed commune toti Trinitati>.  Ma <sicut natura divina,
+licet sit communis tribus personis, ordine tamen quodam eis
+convenit in quantum Filius accipit naturam divinam a Patre et
+Spiritus Sanctus ab utroque; ita etiam et virtus creandi, licet
+sit communis Tribus personis, ordine tamen quodam eis convenit;
+nam Filius habet eam a Patre et Spiritus Sanctus ab utroque. 
+Unde ^creatorem esse attribuitur Patri ut ei qui non habet
+virtutem creandi ab alio.~  De Filio autem dicitur (^Ioan.~ I, 3)
+`per quem omnia facta sunt, in quantum habet eandem virtutem, sed
+ab alio; nam haec praepositio ^per~ solet denotare causam mediam,
+sive principium de principio.  Sed Spiritui Sancto, qui habet
+eandem virtutem ab utroque, attribuitur quod dominando gubernat
+et vivificat quae sunt creata a Patre per Filium'>; Thom. Aq.,
+^Sum. theol.~ I, xlv, 6; dove si continua che pi@u proprimamente
+ancora al Padre si attribuisce la ^Potentia, quae maxime
+manifestatur in creatione~; al Figlio la ^Sapienzia per quam
+agens per intellectum operatur~; allo Spirito Santo la ^Bonitas
+ad quam pertinet gubernatio deducens res in debitos fines et
+vivificatio.~
+
+	|2.  L'uno e l'altro~: nominativo: lo Spirito Santo
+procede dal Padre e dal Figlio: cfr. Aug., ^De Trin.~ IV, 20; V,
+11, 14, 15; Thom. Aq., ^Sum. theol.~ I, 36, 4.
+
+	|4-6.  Per mente e per loco si gira~: si estende
+<intellettivamente e localmente>; ^Ott.~  |Esser non puote~ ecc.:
+non pu@o non godere di quel Valore (|di lui~) che cre@o l'universo
+con tanto ordine, chiunque questo consideri bene, dovendone
+apprezzare e ammirare la potenza, la sapienza e la bont@a.
+
+	|7-9.  Alte ruote~: sfere celesti rotanti; cfr. ^Purg.~
+VIII, 18; XI, 36; XIX, 63; ^Par.~ I, 64, 76, ecc.; Boet., ^Cons.
+phil.~ III, pr. 8.  |A quella parte... percuote~: a quel punto
+del cielo, dove equatore e zodiaco s'incrocicchiano, e dove
+perci@o il moto diurno, o equatoriale, e il moto annuo, che
+avviene secondo la linea dello zodiaco, s'incontrano.  In questo
+punto il sole arriva negli equinozii.  <Accenna... al moto del
+cielo stellato da oriente in occidente; il quale @e massimo
+all'equatore; ed all'altro moto dei pianeti sul zodiaco verso
+l'uno e l'altro polo andando obliquamente sempre verso
+all'oriente>; ^Ponta.~
+
+	|10-12.  E l@i~ ecc.: e di l@i principia a figgere
+l'attenzione della mente nel creato, opera dell'arte di Dio, il
+quale dentro di s@e, nella sua idea, l'ama tanto che da lei non
+distacca mai l'occhio suo, provvedendo alla buona conservazione
+di ci@o che con tant'ordine ha creato; cfr. ^Par.~ XXXIII, 124
+sgg.
+
+	|13-15.  Da indi~: dalla parte accennata ne' vv. 8-9. 
+|Si dirama... porta~: esce da esso, come ramo dell'albero,
+l'obliquo (|oblico~ arc.; @e da ^obliquus~ come ^antico~ da
+^antiquus~) cerchio zodiacale che <contiene in s@e le orbite, o
+vie circolari, dei pianeti: entro quel cerchio obliquo si muovono
+il sole e gli altri pianeti>; ^Pol.~  |Per sodisfare~ ecc.: per
+la interpretazione di questo e dei seguenti sei versi vedansi le
+dichiarazioni dell'^Antonelli~ nella nota 1-27.
+
+	|16.  Strada~: lo zodiaco.  |Torta~: obliqua, cfr. Ovid.,
+^Met.~ II, 130.
+
+	|19-21.  Se dal dritto... 'l partire~: se il divergere
+dello Zodiaco dall'equatore fosse maggiore o minore di quel che
+@e.  |Manco~: manchevole, imperfetto.  |Gi@u e su~: in terra e in
+cielo, cos@i come di cielo e di terra si @e parlato nei v. 17 sg. 
+Altri, non bene, rifer@i il ^su e gi@u~ ai due emisferi terrestri
+tra i quali il sole <continuamente sale e discende>.
+
+	|22-24.  Ti riman... preliba~: raccogliti in te stesso, e
+da solo seguita a meditare su ci@o di cui si d@a qui solamente un
+piccolo assaggio.  |Lieto~: <quasi dicat: quamvis labor huius
+investigationis sit maximus, tamen tanta est delectatio, quod non
+permittit animum fatisci; nam continuo magis et magis accenditur
+appetitus; nam admirabiles delectationes affert inquisitio
+veritatis potentibus causas rerum cognoscere>; ^Benv.~
+
+	|26-27.  Torce~ ecc.: la materia di che scrivo (|scriba~
+@e nome latino = scrivano) esige per s@e tutta la tensione di mia
+mente e la mia diligenza.
+
+	|28-36.  Lo ministro~ ecc.: il Sole, <luminare maius>;
+^Gen.~ I, 16.  |Del valor... imprenta~: imprime nei corpi del
+mondo a lui sottoposti la virt@u sua celeste; cfr. ^Conv.~ III,
+xiv, 3 e ^Rime~ LXXXIII (^Poscia ch'Amor~), str. 6.  |Il tempo ne
+misura~: dal girare di lui, dal suo lume misuriamo il tempo; cfr.
+Petr., ^Son.~ I, 9, 1: <il pianeta che distingue l'ore>.  |Con
+quella parte~ ecc.: congiunto con la costellazione di Ariete
+implicitamente indicata nei v. 8 sg. di questo canto con
+l'accenno agli equinozii.  |Spire~: <nel sistema Tolemaico
+seguito da Dante, il Sole andando da un tropico all'altro si
+aggira in ispire.  Qui si accenna al venire del Sole verso di
+noi, cio@e dal tropico del Capricorno [^solstizio invernale~] a
+quello del Cancro [^solstizio estivo~] nel qual viaggio crescono
+a mano a mano i giorni e nasce ognora pi@u tosto il Sole>; ^Corn.~ 
+<Spirae dicuntur revolutiones orbitatis Solis quibus volvitur et
+revolvitur, ut rota funis putei>; ^Pietro di D.~  |Io era~ ecc.:
+ero gi@a salito ed entrato nel Sole senza essermi accorto di
+ascendere: cfr. Thom. Aq., ^Sum. theol.~ III, ^Suppl.~ 84, 3,
+dove si dichiara come i ^sancti~ si muovono <in tempore sed
+^imperceptibili propter brevitatem~>.  <Dice che in essa spera
+del Sole era venuto, ma non se n'accorse del venire, s@i fu in
+prima giunto; a guisa del pensiero [primo] che viene nell'uomo,
+del cui venire il pensante non si accorge, ma bene il sente
+quando @e in lui: li primi movimenti non sono in nostra
+potestade>; ^Ott.~
+
+	|37-39.  @E Beatrice~ ecc.: non s'era accorto del suo
+salire, perch@e lo guidava B., che conduce da ciascun cielo al
+superiore in un attimo, cosicch@e l'atto di lei non si distende
+(|si sporge~) punto nel tempo.  Al. leggono: |oh~ (^e~, ^eh)
+|Beatrice~, e, con una sintassi che troppo si allontana dalla
+consueta di D., prendendo |scorge~ nel senso di ^vede~, e
+collegando con questi tre il 1+o~ verso della terzina seguente, e i
+vv. 2+o~ e 3+o~ di questa unendo poi alla terzina successiva,
+spiegano: `Oh quanto dovea esser lucente per s@e medesima
+Beatrice, che si vede passare di bene in meglio, farsi pi@u bella,
+s@i repentinamente, che tale passaggio non si distende nel tempo! 
+E quel che era dentro al sole... per quanto io chiami... non lo
+potrei dire cos@i ecc.'.
+
+	|41-42.  Quel che~ ecc.: le anime beate.  |Entra'mi~: mi
+entrai.  |Non per color~ ecc.: essendo quelle anime visibili
+(|parventi~) non per colore diverso da quello del Sole, ma per
+luminosit@a superiore a quella di lui.
+
+	|43-45.  Perch'io~: per quanto io.  Senso della terzina:
+`Invano, pur chiamando in aiuto la forza del mio ingegno, la mia
+arte e la mia pratica nel descrivere cose straordinarie del mondo
+ultraterreno, tenterei di descrivere lo splendore di quelle
+anime; ma se non pu@o essere descritto in modo che altri se lo
+possa figurare, ben deve ciascuno credere che esso @e, e
+desiderare di vederlo da s@e in Par.; ossia operare e pensare cos@i
+da essere un d@i accolto lass@u'.
+
+	|46-48.  E se~ ecc.: N@e @e meraviglia se l'immaginazione
+di noi mortali non pu@o figurarsi questa luce maggiore di quella
+del Sole.  La ^fantasia~, o potenza immaginativa nostra, pu@o
+formare immagine solo da ci@o che cade sotto i sensi; ma nessun
+occhio vide mai luce pi@u vivida e possente di quella del Sole.
+
+	|49-51.  Tal~: tanto lucente.  |La quarta famiglia~: la
+schiera dell'anime beate apparse nel Sole.  |Sazia~: <Satiabor
+cum apparuerit gloria tua>; ^Ps.~ XVI, 15.  |Come spira~ ecc.:
+come ^ab aeterno~ Egli generi il Figlio e da ambedue proceda lo
+Spirito Santo; cio@e il mistero della Trinit@a: nella visione e
+contemplazione di Dio e de' suoi misteri sta la beatitudine.
+
+	|53-54.  Il sol delli angeli~: Dio, sole spirituale e
+intelligibile.  |A questo sensibil~: a questo Sole sensibile, che
+delle cose sensibili @e la pi@u degna <di farsi esemplo di Dio>;
+^Conv.~ III, xii, 7.  <Il Sole, perch'@e la pi@u nobil creatura del
+cielo e il pi@u nobile corpo che Iddio creasse, perci@o dicono i
+santi che 'l Sole rappresenta pi@u Iddio e la sua deitade pi@u
+perfettamente e pi@u chiaramente che nullo corpo di questo mondo
+in due cose, cio@e nella luce sua e nella sua virtude, e
+massimamente nella luce, per@o che Iddio @e luce vera, come disse
+Cristo: ^Ego sum lux mundi~>; Fra Giord., ^Pred.~, ediz. Moreni,
+II, 20.
+
+	|55-60.  Digesto~: disposto, acconcio.  Senso: `Cuore
+umano non fu mai s@i disposto a divozione, n@e tanto pronto a darsi
+a Dio con tutto il piacere, come del mio cuore feci io, appena
+udite le parole di B.; e tutta la mia potenza d'amore si raccolse
+in lui per modo, che B. si ecliss@o nella mia anima che allora la
+obbli@o'.
+
+	|61.  Dispiacque~: di vedermi s@i assorto coll'anima in
+Dio da non pensare pi@u a lei.  |Rise~: di compiacenza.
+
+	|62-63.  Lo splendor~: la letizia di B. si risolse ed
+espresse in un pi@u vivo corruscar degli occhi (^Par.~ V, 125
+sg.), il quale valse, dice D., a riscuotermi e fece s@i che la mia
+mente, prima |unita~, cio@e tutta concentrata in Dio, si
+rivolgesse anche ad altro, e anzi tutto di nuovo a lei, che
+<donna e simbolo, @e ben degna di dividere con Dio la mente di
+D.>; L. Fass@o, ^Lect. D.~, p. 22.  Nello stesso senso che qui,
+`unito' si ha, per es., in Fra Giord., ^Pred.~, ediz. Manni, 209:
+<Quando io voglio vedere una verit@a, e' mi conviene essere
+^unito~ e morto ai sensi>.
+
+	|64-66.  Fulgor... vincenti~: lumi fulgidissimi,
+|vincenti~ quello del sole e per@o |vincenti~ la potenza nostra
+visiva.  Cfr. vv. 40-48.  <Certi [corpi] sono tanto ^vincenti~ ne
+la purit@a del diafano, che divegnono s@i raggianti, che ^vincono~
+l'armonia de l'occhio, e non si lasciano vedere senza fatica del
+viso>; ^Conv.~ III, vii, 4.  |Far di noi centro~: disporsi in un
+circolo di cui io e B. stavamo al centro.  <Consedere duces, et
+vulgi stante ^corona~ surgit... Aiax>; Ovid., ^Met.~ XIII, 1 sg. 
+|Pi@u dolci~ ecc.: pi@u possente dello splendore era la dolcezza
+del canto.
+
+	|67-69.  La figlia~ ecc.: la Luna (= Diana, figlia di
+Latona) col suo alone; cfr. ^Purg.~ XX, 131.  Cos@i talvolta
+vediamo formarsi, a mo' di cintura, l'alone attorno alla luna,
+quando l'aere @e tanto saturo (|pregno~) di vapori, che ritenga in
+s@e i raggi luminosi (|il fil~) che formano tale zona o cintura.
+
+	|71-72.  Care~: preziose.  |Trar del regno~: descrivere e
+far comprendere quaggi@u in terra col linguaggio umano; cfr.
+^Par.~ I, 6.  La metafora @e tolta <da certe merci pi@u rare, come
+pitture, statue, ed altri lavori di celebri artefici, le quali
+per la loro preziosit@a non @e lecito esportare fuori di paese>;
+cos@i ^Land.~ ed altri.
+
+	|74-75.  S'impenna~: si fornisce di penne; quindi anche
+di ali.  <Qui sperant in Domino, assument pennas sicut aquilae>;
+^Isaia~ XL, 31.  Cfr. Thom. Aq., ^Sum. theol.~ III, ^Suppl.~ 84,
+2.  Chi non si dispone, colla vita virtuosa, a salire un d@i in
+Paradiso, non potr@a mai avere un'idea di siffatto canto; e se
+l'aspettasse da chi, come D., salito vivo lass@u, <di lass@u, per
+istraordinaria grazia, ritorni> (^Fass@o~, l. c.), far@a come chi
+aspettasse notizie da un muto.
+
+	|76-81.  Poi~: poich@e; cfr. ^Purg.~ X, 1.  |Ardenti
+soli~: non pure |soli~, ma soli |ardenti~, poich@e vincono lo
+splendore del Sole (vv. 40-42).  |Poli~: intorno a noi, |fermi~,
+come intorno ai |fermi~ poli le stelle.  <... ne la... girazione
+[del cielo] conviene di necessit@a essere due ^poli fermi~>;
+^Conv.~ III, v, 8.  |Non da ballo sciolte~: non ancora
+definitivamente ferme, non essendo ancora terminato il ballo. 
+Bene spieg@o il fatto accennato nella terzina il Borghini (cfr.
+^Bull.~ IV, 180): <Dimostra l'uso delle ballate, nelle quali
+quella che guida il canto dice la prima stanza stando ferma: la
+qual finita, il ballo tutto, volgendosi, la replica cantando, e
+finita, si ferma: e la madonna della canzone, pur ferma, dice la
+stanza nuova, la quale finisce nella rima della prima, e, subito
+finito, il ballo si muove in cerchio, cantando pur la stanza che
+si chiama il ritornello>.
+
+	|82-87.  All'un~: dentro all'uno dei detti splendori. 
+|Quando~ ecc.: Poich@e il raggio della grazia divina dal quale
+(|onde~) @e acceso in noi l'amore vero, cio@e quello di Dio, raggio
+che cresce via via con l'amare, in te risplende cos@i moltiplicato
+che ti guida su su per i cieli, scala per cui risale sempre pi@u
+tardi chiunque ne discenda (e tale @e il caso tuo) ecc.  <Chi gi@a
+@e stato in Paradiso, se torna in terra, non sar@a mai vinto dalle
+lusinghe terrene a meritar dannazione, tanto la memoria delle
+cose veduto sar@a efficace>; ^Corn.~  |Il vin~: <Sapientia...
+miscuit vinum>; ^Prov.~ IX, 1-2 e 5; cfr. ^Isaia~ LV, 1. 
+|Fiala~: ampolla.  Senso della frase: `chi non ti comunicasse le
+cognizioni ch'ei possiede e di cui tu senti il desiderio'.  |In
+libert@a~ ecc.: dovrebbe avere la propria libert@a impedita, cos@i
+come, solo se impedita da ostacoli, l'acqua non scorre all'ingi@u
+verso il mare.
+
+	|91-93.  Piante s'infiora... ghirlanda~: le anime
+circondanti B. e il P. sono fiori di una ghirlanda. `Tu vuoi
+sapere chi sono i beati di questa viva corona la quale vagheggia,
+cingendola, la bella donna che |t'avvalora~, ti d@a la virt@u per
+la quale puoi salire al cielo'.  Il ^vagheggiare~ che fanno
+questi sapienti B., @e vero nel senso letterale in quanto le fanno
+festa intorno, ma @e vero altres@i nel senso allegorico di lei.
+
+	|94-96.  Agni~: agnelli.  Dice S. Tommaso: Fui frate
+dell'ordine dei Predicatori, fondato da San Domenico (cfr. ^Par.~
+XII, 46 sgg.) con una regola grazie alla quale si acquista ogni
+d@i pi@u della perfezione cristiana (|s'impingua~), se non si esce
+dalla via che la regola traccia, per correr dietro a beni vani. 
+Cfr. ^Par.~ XI, 22 sgg.  L'immagine dell'ingrassare @e
+convenientissima, essendosi parlato di agnelli.
+
+	|97-98.  Questi~: sebbene abbia gi@a principiato a parlar
+di s@e, pure, prima di nominarsi, Tommaso, con delicato riguardo
+presenta il proprio maestro.  |Alberto~: Alberto Magno, dei conti
+di Bollst,adt, n. 1193 a Lavingen nella Svevia, m. a Colonia il 25
+novembre 1280.  Fattosi domenicano nel 1222 o 1223, verso il 1244
+insegnava a Colonia, dove gli fu discepolo prediletto Tommaso di
+Aquino che lo accompagn@o nel 1245 a Parigi.  Nel 1254 fu eletto
+Provinciale dell'Ordine a Worms, e nel 1260 vescovo di
+Regensburg.  Fu uno dei pi@u dotti e profondi teologi e filosofi
+del suo tempo.  Per il suo vasto sapere fu soprannominato ^Doctor
+Universalis.~
+
+	|99.  Thom@as d'Aquino~: @e Tommaso dei conti d'Aquino n.
+nel 1226 a Roccasecca presso Montecassino, dove s'inizi@o agli
+studi; domenicano dal 1243; m. mentr'era in via per recarsi al
+concilio di Lione, il 7 marzo 1274 (cfr. ^Purg.~ XX, 69).  Fu
+maestro di teologia a Colonia (dove aveva studiato sotto Alberto
+Magno), a Parigi ed a Napoli, e scrisse un gran numero di opere,
+alle quali, e in particolare, alle due ^Summae~ (^theologica~ e
+^contra Gentiles~) e ai ^Commenti~ ad Aristotele D. attinse
+largamente.  Tali opere formano una grande, compiuta enciclopedia
+filosofica e teologica.  Non a torto Tommaso @e stato assomigliato
+ad Aristotele.  Fu chiamato ^Doctor Angelicus~, e santificato nel
+1323.
+
+	|101-102.  Col viso~: cogli occhi.  |Beato serto~:
+ghirlanda di beati.  Senso: `guarda via via quelli che io
+nominer@o ordinatamente cominciando dalla destra di Alberto di
+Colonia sino a colui che sta alla mia sinistra'.
+
+	|103-105.  Fiammeggiare~: fiamma.  |Esce del riso~:
+esprime la gioia.  |Graz,ian~: Graziano, celebre canonista,
+fiorito nel secolo XII, nato a Chiusi in Toscana, fu benedettino
+camaldolense e compil@o verso il 1150 in Bologna, dove insegn@o, la
+^Concordia discordantium canonum~, ordinariamente detta ^Decretum
+Gratiani~, compilazione di testi della Bibbia, Canoni degli
+Apostoli e dei Concilii, Decretali di papi ed estratti dai SS.
+Padri, in cui l'autore s'ingegna di mostrare la concordanza delle
+leggi ecclesiastiche con le civili.  |L'uno e l'altro~: il civile
+e l'ecclesiastico; secondo altri, l'esterno o giudiziale e
+l'interno o penitenziale (^St. dant.~ XIII, 119).
+
+	|107-108.  Pietro~: Pietro Lombardo, il celebre ^Magister
+Sententiarum~, n. sul Novarese da parenti poveri ed oscuri nei
+primi anni del secolo XII, m. nel 1164 a Parigi, dove era dal
+1140 maestro di teologia e da pochi anni anche vescovo.  La sua
+opera ^Sententiarum libri IV~ fu il modello di tutte le
+successive ^Somme~ teologiche e filosofiche.  @E qui nominato
+accanto a Graziano, avendo fatto per la Dommatica ci@o che
+Graziano fece per il Diritto canonico.  |Con la poverella~ ecc.:
+s'allude alle parole del Lombardo nel prologo alla sua opera:
+<Cupientes ^aliquid~ de penuria ac tenuitate nostra ^cum
+paupercula in gazophylacium Domini mittere~, ardua scandere et
+opus supra vires nostras agere praesumpsimus>; dove lo scrittore
+ricorda evidentemente ci@o che scrive ^Luca~ XXI, 1, 4; cio@e, che
+quando Cristo vide i ricchi ^qui mittebant munera sua in
+gazophylacium~ (= tesoro) e ^quandam viduam pauperculam mittentem
+aera minuta duo~, disse che la ^paupercula~ aveva dato pi@u di
+tutti perch@e aveva dato non del superfluo, ma `^omnem victum quem
+habuit~'.
+
+	|109-114.  La quinta luce~: Salomone.  |Amor~: come
+autore del ^Cantico dei cantici~, poema d'amore, che pel Medioevo
+era l'inno nuziale della Chiesa di Cristo.  |Ne gola... novella~:
+@e avido di averne notizia, giacch@e i teologi disputavano se fosse
+salvo o dannato, a motivo di ci@o che della sua lussuria si
+racconta in III ^Reg.~ XI, 1-9.  |Se 'l vero @e vero~: se @e vera
+la verit@a della Scrittura, dove si legge (^ibid.~ 12) che Dio
+disse a Salomone: <Ecce...^dedi tibi cor sapiens et intelligens
+in tantum ut nullus ante te similis tui fuerit nec post et
+surrecturus sit~>.  Questo esprime San Tommaso con le parole |a
+veder... secondo~, le quali susciteranno in D. un dubbio (^Par.~
+XI, 22-26) risolto poi da San Tommaso stesso in ^Par.~ XIII, 34
+sgg.
+
+	|115-117.  Cero~: luminare della Chiesa.  @E Dionigi
+l'Areopagita, convertito da S. Paolo al Cristianesimo (cfr.
+^Atti~ XVII, 34) e creduto, erroneamente, autore del celebre
+libro ^De coelesti hierarchia~, dove si palesa la pi@u profonda
+conoscenza circa la natura e l'ufficio (|ministero~) degli
+angeli.
+
+	|119-120.  Avvocato~ ecc.: per i pi@u, e anche per noi, @e
+Paolo Orosio, prete spagnuolo del 5+o~ secolo, la cui opera
+principale ^Historiarum libri VII adversus Paganos~ (si notino
+queste due ultime parole) fu scritta per invito di S. Agostino,
+secondo che l'Autore stesso dice nel proemio dell'opera.  Gi@a
+per@o alcuni antichi intesero di S. Ambrogio <il quale>, cos@i
+l'^Ott.~ che dice per@o altri non senza ragione opinare che si
+tratti di Orosio, <il quale sottilissimamente parl@o della fede
+cristiana per cui S. Agostino ricevette battesimo>.  Modernamente
+@e stata sostenuta dal ^Boffito~ (e con lui s'accorda il Fass@o,
+^Lect. D.~, p. 30) l'identificazione dell'|avvocato dei tempi
+cristiani~ con Lattanzio, mentre il ^Filomusi-Guelfi~ propone S.
+Paolino di Nola e il ^Busnelli~ il retore Mario Vittorino: cfr.
+^Bull.~ XXII, 33.  |Augustin~: Sant'Agostino; cfr. ^Par.~ XXXII,
+35.  |Si provide~: <fecendolo [^il libro di Orosio~] fare innanti
+[^che scrivesse il `De Civitate Dei'~], per avere poi meno fatica
+a ritrovare le storie>; ^Buti.~
+
+	|121-123.  Trani~: muovi oltre.  ^Tranare~ = ^trainare~;
+franc. ^tra#iner~, provenz. ^trahinar.~  |Lode~: pl. di ^loda~;
+cfr. ^Inf.~ II, 103.  |Ottava~: luce.
+
+	|124-126.  Per vedere ogni ben~: per la visione di Dio,
+sintesi di tutti i beni.  |Vi gode~: in essa luce sta beata. 
+|L'anima~ ecc.: @e l'anima di Anicio Manlio Torquato Severino
+Boezio, che, a chi ne conosca e consideri bene la vita e le opere
+(|di lei ben ode~), insegna la fallacia del mondo.  Boezio, n. a
+Roma verso il 470, m. in prigione a Pavia nel 524 o 525, fu nel
+510 console di Roma.  Sospettato di tramare per la liberazione di
+Roma dai Goti, fu da Teodorico incarcerato e dopo sei mesi fatto
+uccidere.  Prigioniero, scrisse il celebre libro, formato di
+prose e di poesie, ^De consolatione philosophiae~, che D., come
+mostrano molti passi delle sue opere, ebbe familiarissimo.  A
+quest'opera D. allude qui in particolare, poich@e in essa si
+mostra che fuori dei beni materiali va cercato conforto nella
+vita.  Non @e certo che Boezio fosse cristiano, ma nulla di
+contrario alle dottrine cristiane trovasi ne' suoi scritti; e
+cristiano e santo egli fu ritenuto nel Medioevo.
+
+	|128-129.  Cieldauro~: la chiesa di S. Pietro in Ciel
+d'Oro in Pavia, dove fu sepolto Boezio.  |A questa pace~: cfr.
+^Par.~ XV, 148.
+
+	|131.  Isidoro~: ^Isidorus Hispalensis~, cio@e di
+Siviglia, n. verso il 560, m. 4 aprile 636.  Fu vescovo di
+Siviglia e uno de' pi@u dotti uomini del tempo.  Scrisse opere
+assai pregiate, delle quali la maggiore sono i venti libri di
+^Etymologiae~ o ^Origines~, vera enciclopedia a cui molto e da
+molti si attinse lungo il Medioevo.  |Beda~: ^Beda Venerabilis~,
+n. 674 a Weremouth in Inghilterra, m. a Jarrow 26 maggio 735.  Fu
+celebre per piet@a e dottrina.  Prete a trent'anni, dedic@o tutta
+la sua vita alla preghiera e agli studi.  Le principali sue opere
+sono: ^Hist. Eccles. gentis Britonum~, compiuta nel 731; ^De
+ratione temporum~; ^De nat. rerum~, ecc.  |Riccardo~: Riccardo da
+San Vittore, il ^Magnus Contemplator~, teologo mistico del secolo
+XII, dal 1162 in poi priore del Chiostro di San Vittore presso
+Parigi, m. verso il 1173, autore di parecchie opere teologiche.
+
+	|132.  Viro~: lat. ^vir~, uomo; cfr. ^Inf.~ IV, 30. 
+Nello speculare o contemplare mostr@o mente superiore all'umana;
+fu simile agli angeli, ^spiriti contemplativi~ come si dimostra
+in ^Conv.~ II, v, 7-11.
+
+	|133-138.  Questi onde~ ecc.: che mi @e a sinistra pi@u
+vicino, v. 97, e dal quale pertanto il tuo |riguardo~, cio@e il
+tuo sguardo, ritorna a me.  |Sigieri~: @e Sigieri di Brabante,
+celebre filosofo averroista, anzi <il rappresentante principale
+che l'averroismo ebbe tra i cristiani nel secolo XIII>; Fass@o,
+^Lect. D.~ 33.  N. verso il 1226, professore nello Studio di
+Parigi, mor@i di morte violenta per mano di un chierico, suo
+segretario, tra il 1282 e il 1284, a Orvieto, dove si trovava
+allora insieme con la Curia Romana, alla quale Sigieri era
+ricorso in appello contro le accuse mossegli per le sue ardite
+dottrine (tra cui la negazione della creazione ^ex nihilo~, della
+immortalit@a dell'anima, del libero arbitrio) dall'Inquisizione di
+Parigi, e pi@u precisamente dal Vescovo di quella citt@a nel 1277. 
+Scolpatosi, pare, col dichiarare che accettava colla fede le
+opinioni negate con la filosofia, era stato obbligato a vivere
+quind'innanzi nella Curia stessa sotto rigorosa vigilanza.  Posto
+ci@o, i |pensier gravi~ in che gli parve venir tardo a morire,
+possono bens@i essere le meditazioni sulla vanit@a del mondo, ma
+anche <i pensieri del povero professore costretto dalla dura
+vigilanza della corte romana a meditare sul suo passato e a
+desiderare d'uscir per sempre di travaglio>; ^Fass@o~, o. c., p.
+36 sg.  @E ormai provato ch'egli @e quel ^mastro Sighier~ di cui
+nel ^Fiore~, il noto poema in sonetti che fu giudicato
+attribuibile a D. (e fu pubblicato criticamente dal ^Parodi~,
+Firenze, Bemporad, 1922), si dice che mor@i ^a ghiado~ (= di
+spada, lat. ^gladius~) <nella Corte di Roma, ad Orbivieto>.  Tra
+altre opere, dett@o: ^Quaestiones naturales~ ed ^Impossibilia.~ 
+Cfr. ^Fass@o~, o. c., pp. 32-39.  |Leggendo~: insegnando.  |Vico
+delli strami~: la ^rue du Fouarre~ a Parigi, dove erano le scuole
+di filosofia in cui anche Sigieri insegn@o.  |Sillogizz@o~:
+dimostr@o coi suoi sillogismi (^Par.~ XXIV, 77) |invidiosi veri~,
+verit@a atte a suscitargli contro, come di fatto avvenne, invidia
+e odio; donde le accennate accuse e processi; e, poich@e fra le
+219 proposizioni condannate nel 1277 dal vescovo di Parigi, una
+parte erano sostenute dallo stesso Aquinate, gl'|invid,iosi veri~,
+di cui questi fa cenno, potrebbero essere, pi@u precisamente, <le
+^verit@a~ aristoteliche che egli sosteneva in comune con Sigieri>;
+^Fass@o~, o. c., p. 38.  Intorno alla posizione che D. assume di
+fronte a Sigieri, esaltandolo per bocca di S. Tommaso non ostante
+le accuse e condanne subite dalle dottrine del Brabantino, @e da
+vedere B. Nardi, ^Sigieri di Br. nella D. C. e le fonti della
+filosofia di Dante~, e gli scritti polemici successivi: cfr.
+^Bull.~ XXVI, 141; ^Nuovo Giorn. Dantesco~ I, pp. 123 sgg.
+
+	|139-144.  Orologio~: cfr. ^Comm. Lips.~ 269 sg. 
+|Nell'ora~: all'alba.  |La sposa di Dio~: la Chiesa: cfr. ^Par.~
+XI, 31; XII, 43; XXVII, 40, ecc.  |A mattinar~: a dire il
+Mattutino, spiegano i pi@u.  |Mattinare~ @e propriamente ^far
+mattinata~, cio@e il cantare e sonare che fanno gli amanti in sul
+mattino davanti alla casa della donna amata.  La Chiesa, dunque,
+col cantar mattutino fa la ^mattinata~ al suo sposo Cristo, perch@e
+le conservi il suo amore.  Dante sostituendo <all'espressione
+ecclesiastica ^dir mattutino~ l'espressione popolare,
+etimologicamente identica, |mattinare...~ vi aggiungeva un
+elemento fantastico di mirabile efficacia e freschezza>; Parodi,
+^Bull.~ XII, 328.  |Tira~: nel congegno dell'orologio le parti si
+tirano e spingono a vicenda, s@i da far sonare il campanello. 
+|Tin tin~: <Tinnitusque cie et Matris quate cymbala circum>;
+Virg., ^Georg.~ IV, 64.  |Turge~: (dal lat. ^turgeo~ = mi gonfio)
+propriamente si gonfia, inturgidisce; traslato per dire che ^si
+riempie~ di amor divino lo spirito del credente, chiamato da
+quella |dolce nota~ a pregare.  Cfr. ^Par.~ XXX, 72.
+
+	|145-148.  Cos@i vid'io~ ecc.: allo stesso modo, cio@e
+quasi tirandosi e spingendosi l'un l'altro, vidi muoversi,
+danzando intorno a me e B. gli spiriti luminosi di quella
+gloriosa |rota~ (cfr. v. 65 e 92) e cantare in accordo perfetto
+di voci (|render voce a voce~) con una modulazione dolce e
+piacente (|in tempra ed in dolcezza~; cfr. ^dolci tempre~ di
+^Purg.~ XXX, 94), quale solo pu@o essere udita e quindi conosciuta
+(|nota~) in Paradiso dove la gioia |s'insempra~, cio@e @e continua
+e indefettibile.  ^Insemprarsi~ @e verbo foggiato dal P. dall'avv.
+^sempre~, cos@i come ^insusarsi~ dall'avv. ^suso~ (^Par.~ XVII,
+13), e ^indovarsi~ da ^dove~ (^Par.~ XXXIII, 135); neologismi non
+meno chiari che potenti.

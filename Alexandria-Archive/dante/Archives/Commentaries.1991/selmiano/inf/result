@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Selmiano
+	Language   = Italian
+	Pub. Year  = 1337
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8502 Mar 22 20:57 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6533 Mar 22 20:57 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7209 Mar 22 20:57 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6957 Mar 22 20:57 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9200 Mar 22 20:57 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6850 Mar 22 20:57 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        4554 Mar 22 20:57 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        3455 Mar 22 20:58 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5439 Mar 22 20:58 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6241 Mar 22 20:58 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5300 Mar 22 20:58 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8652 Mar 22 20:58 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7245 Mar 22 20:58 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6608 Mar 22 20:58 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6831 Mar 22 20:58 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        3731 Mar 22 20:58 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8605 Mar 22 20:59 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7280 Mar 22 20:59 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5975 Mar 22 20:59 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8233 Mar 22 20:59 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5938 Mar 22 20:59 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        2871 Mar 22 20:59 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5551 Mar 22 20:59 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        5884 Mar 22 21:00 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6871 Mar 22 21:00 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.f into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante       10234 Mar 22 21:00 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8610 Mar 22 21:00 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9686 Mar 22 21:00 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        4886 Mar 22 21:00 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7306 Mar 22 21:00 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante       10041 Mar 22 21:00 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante       11959 Mar 22 21:01 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7426 Mar 22 21:01 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.f into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Selmiano...
+Verifying Selmiano...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7804 Mar 22 21:01 ../staging/inf/34

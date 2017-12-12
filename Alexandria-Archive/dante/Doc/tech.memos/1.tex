@@ -1,0 +1,160 @@
+\input dantemacs
+\documentstyle[11pt]{article}
+\begin{document}
+\begin{titlepage}
+	\begin{center}
+		\vspace{1in}
+		{\LARGE \it The Dartmouth Dante Project} \\
+		\vspace{.3in}
+		{\large Technical Memorandum} \\
+		\vspace{2in}
+		{\large \bf DDP Standard Escape Sequences} \\
+		\vspace{.2in}
+		{\it Stephen Campbell} \\
+		\vfill
+		\today
+	\end{center}
+\end{titlepage}
+
+\pagestyle{headings}
+\section{Introduction}
+This memo describes the character escape sequence that will be used in
+the Dartmouth Dante Project (DDP) database.
+This revision of the memo reflects the shift from the troff text
+processing system to the \TeX\ system.
+The most significant effect of this change is the new handling of
+Greek characters.
+
+An escape sequence is a sequence of special characters that appears within a
+file of printable text such as the Dante commentaries.
+The escape sequence characters are special in that they do not appear in
+the final displayed version of the text.  Instead they indicate the
+occurrence of unusual characters or of changes in the character font.
+In order to have their intended effect, escape sequences must be recognized
+by a program and converted into the intended character representation.
+Standard escape sequences are used because the intended representation -
+{\bf boldface}, for example -
+is produced differently for different terminals and printers.
+Further, there is no guarantee that a given escape sequence will produce
+the desired result on all display devices;
+some devices cannot generate all the special characters.
+
+In the Dante Project, 
+we will use these sequences in the text that we load into the database.
+When we retrieve text from the database for display
+on terminals or for typesetting, the software will derive
+the needed special characters from these standard sequences.
+
+To the greatest extent possible, the Kurtzweil Data Entry Machine
+(KDEM) should generate the standard character sequences.
+Where the KDEM cannot conveniently generate them, we will
+provide Unix programs to translate KDEM characters into the standard
+sequences.
+
+\section{Escape Sequences for Special Characters}
+Currently all escape sequences fall into one of two categories.
+One type is used to represent unusual characters such as accented European
+characters and Greek characters.
+The other type is used to cause a change in font.
+
+\subsection{Diacritics}
+The following table lists the Dante standard diacritic
+character escapes.
+These special characters should be followed
+by a regular character that is to receive the diacritic mark.
+\begin{center}
+  \begin{tabular}{lll}
+    {\em Character} & {\em Effect} & {\em Example} \\ \hline
+    At Sign (@)     & Accent grave & {\tt @a} gives \`{a} \\
+    Dollar sign (\$) & Accent acute & {\tt \$a} gives \'{a} \\
+    Comma (,)       & Umlaut       & {\tt ,u} gives \"{u} \\
+    Pound (\#)	    & Circumflex   & {\tt \#o} gives \^{o} \\
+    Dollar (\$)     & Cedilla      & {\tt \$c} gives \c{c} \\
+  \end{tabular}
+\end{center}
+
+\subsection{European Quotes}
+The following table shows the escape sequences we will use to generate
+European quote marks.
+\begin{center}
+  \begin{tabular}{lll}
+    {\em Character} & {\em Effect} & {\em Example} \\ \hline
+    Less than ($<$)   & Left quote   & {\tt $<$} gives \< \\
+    Greater than ($>$) & Right quote & {\tt $>$} gives \> \\
+  \end{tabular}
+\end{center}
+
+\subsection{Ligatures}
+The following table lists Dante ligature escapes.
+These marks are used before the letters {\it ae} or {\it oe}
+(or the capitalized equivalent)
+to represent the ligature form of those letters.
+\begin{center}
+  \begin{tabular}{lll}
+    {\em Character} & {\em Effect} & {\em Example} \\ \hline
+    Double At Sign (@@) & Ligature & {\tt @@ae} gives \ae \\
+  \end{tabular}
+\end{center}
+
+\subsection{Greek Letters}
+Greek letters are represented by a percent sign (\%)
+followed by the name
+of the letter.
+For an uppercase Greek letter, capitalize the first letter of the name.
+If the uppercase Greek letter is the same as its Roman equivalent, as in
+the uppercase alpha, then there is no special representation; we just use
+the Roman letter.
+We also use a plain ``o'' for omicron.
+
+The following table lists all the Greek letters that we can
+represent.\footnote{These names are the ones used in the \TeX\ typesetting
+system.
+See Donald E. Knuth, {\it The \TeX book,}  Addison-Wesley, 1984.}
+Some are variants of other letters, and their names begin with {\it var}.
+\begin{center}
+  \begin{tabular}{llll}
+    \multicolumn{4}{c}{\em Lowercase} \\
+    $\alpha$ {\tt \%alpha} & $\theta$ {\tt \%theta} &
+	o o & $\tau$ {\tt \%tau} \\
+    $\beta$ {\tt \%beta} & $\vartheta$ {\tt \%vartheta} &
+	$\pi$ {\tt \%pi} & $\upsilon$ {\tt \%upsilon} \\
+    $\gamma$ {\tt \%gamma} & $\iota$ {\tt \%iota} &
+	$\varpi$ {\tt \%varpi} & $\phi$ {\tt \%phi} \\
+    $\delta$ {\tt \%delta} & $\kappa$ {\tt \%kappa} &
+	$\rho$ {\tt \%rho} & $\varphi$ {\tt \%varphi} \\
+    $\epsilon$ {\tt \%epsilon} & $\lambda$ {\tt \%lambda} &
+	$\varrho$ {\tt \%varrho} & $\chi$ {\tt \%chi} \\
+    $\varepsilon$ {\tt \%varepsilon} & $\mu$ {\tt \%mu} &
+	$\sigma$ {\tt \%sigma} & $\psi$ {\tt \%psi} \\
+    $\zeta$ {\tt \%zeta} & $\nu$ {\tt \%nu} &
+	$\varsigma$ {\tt \%varsigma} & $\omega$ {\tt \%omega} \\
+    $\eta$ {\tt \%eta} & $\xi$ {\tt \%xi} \\ \\
+    \multicolumn{4}{c}{\em Uppercase} \\
+    $\Gamma$ {\tt \%Gamma} & $\Lambda$ {\tt \%Lambda} &
+	$\Sigma$ {\tt \%Sigma} & $\Psi$ {\tt \%Psi} \\
+    $\Delta$ {\tt \%Delta} & $\Xi$ {\tt \%Xi} &
+	$\Upsilon$ {\tt \%Upsilon} & $\Omega$ {\tt \%Omega} \\
+    $\Theta$ {\tt \%Theta} & $\Pi$ {\tt \%Pi} & $\Phi$ {\tt \%Phi} \\
+  \end{tabular}
+\end{center}
+
+\section{Font Changes}
+This section lists escape sequences that we will use to cause changes
+in the font in which characters are displayed.
+Currently we have four possible fonts: Roman (plain), italics, boldface, and
+superscript characters.
+Roman font is used for normal text, for example this sentence.
+The escapes can be used to change to another font and then
+change back to Roman.
+\begin{center}
+  \begin{tabular}{lll}
+    {\em Character} & {\em Effect} & {\em Example} \\ \hline
+    Vertical bar ($|$) & Start Boldface &
+	{\tt $|$Bold\tilde} gives {\bf Bold} \\
+    Caret (\caret) & Start Italics &
+	{\tt \caret Italics\tilde} gives {\it Italics} \\
+    Plus (+) & Start Superscript & {\tt 1+st.\tilde} gives $1^{st.}$ \\
+    Tilde (\tilde) & Return to Roman & See above. \\
+  \end{tabular}
+\end{center}
+\end{document}

@@ -1,0 +1,124 @@
+	|1-3.~  S'IO TI FIAMMEGGIO: avea detto di sopra ^mi guard@o con gli 
+occhi pieni di faville d'amor~; DI L@A DAL MODO, perch@e nelle vostre 
+scuole terrene non sete cos@i illuminati da' miei occhi come qui sei.
+
+	|6.~  MOVE 'L PIEDE, idest, va innanzi e s'innamora di pi@u intendere.
+
+	|9.~  SOLA: @e adverbio qui, idest, tantum.
+
+	|11.~  ALCUN VESTIGIO: non @e la vera luce, idest, la vera 
+intelligenza.
+
+	|14.~  PER MANCO VOTO, idest, imperfetto: questo @e il dubbio che 
+dimanda.
+
+	|19.~  LO MAGGIOR DON, e certo il maggior don ch'abbia l'omo e 
+l'angelo da Dio @e il libero arbitrio; LARGHEZZA, idest, liberalitade.
+
+	|23-24.~  CREATURE INTELLIGENTI, chiama gli angeli e gli omini a 
+differenza dell'altre creature.  TUTTE: s@i gli angeli come gli omini; 
+SOLE, a differenza de l'altre creature che non hanno intelletto.  
+^Tutte~ risponde a le ^intelligenti, sole~ alle ^creature~ ad un certo 
+modo.
+
+	|26-27.~  SE @E S@I FATTO CHE DIO CONSENTA: ch@e, se farai un voto 
+turpe e crudele, Iddio non vi consente.
+
+	|28.~  CHE NEL FERMAR TRA DIO E L'OMO IL PATTO, che @e quel consentir 
+che fanno amendui.
+
+	|29.~  TESORO, che @e la volont@a tua libera che tu consacri, quasi 
+^victima~, a Dio.
+
+	|30.~  E FASSI COL SU' ATTO, idest, per se stesso.
+
+	|32.~  QUEL C'HAI OFFERTO, che @e la volunt@a, e dice ^offerto~ avendo 
+detto ^vittima~.
+
+	|33.~  DI MAL TOLLETTO, idest, di cosa mal tolta, perch@e gi@a hai 
+promessa la volunt@a a Dio.
+
+	|38.~  IL CIBO, avendo detto ^mensa~.
+
+	|41.~  CHE NON FA SCIENZA: bella sentenza.
+
+	|43-45.~  A L'ESSENZA, idest, ad hoc ut valeat.  SACRIFICIO, chiama, 
+avendo detto ^vittima~ e ^offerto~.  L'UNA @E QUELLA DI CHE SI FA, e 
+questa @e la materia; L'ALTRA @E LA CONVENENZA, che @e quel prometter 
+che fai, che @e quasi forma al voto.
+
+	|47.~  E INTORNO DI LEI: bel modo di dire, idest, circa quello.
+	|52.~  PER MATERIA, che @e quella cosa di che si fa, perch@e si pu@o 
+tramutar il voto di una cosa ad altra, ma dispensar che tu sii libero 
+di non farlo, aliquo modo non si pu@o.
+
+	|53.~  PUOTE BEN ESSER TALE: dice ci@o il Poeta che ha oppenione che 
+il voto di virginit@a non si possa dispensar, perch@e non si pu@o 
+transmutar in cosa equivalente ad essa.
+
+	|55.~  A LA SUA SPALLA, avendo detto ^carco~.
+
+	|57.~  E DE LA CHIAVE BIANCA, che @e la scienza, E DE LA GIALLA, che 
+@e l'auctorit@a, come nel Purgatorio al suo loco vedemmo.
+
+	|60.~  COME IL QUATTRO NEL SEI NON @E RACCOLTO: vuole che de maggior 
+prezzo sia la cosa che volemo dar per permutatione, che non @e la gi@a 
+promessa.
+
+	|61.~  PER@O QUALUNQUE etc.: qui tocca come disse che non si potea 
+dispensar il voto di virginit@a in Gostanza.
+
+	|62.~  OGNI BILANZA, che avea detto nel fin de l'altro canto ^ch'a la 
+vostra statera~.
+
+	|73.~  GRAVI, idest, pigri.
+
+	|74.~  PENNA, che risponde a quel ^gravi~.
+
+	|76.~  AVETE IL NUOVO E 'L VECCHIO TESTAMENTO, che risponde a quello 
+ch'avea detto della chiave bianca.
+
+	|77.~  IL PASTOR DELLA CHIESA, che @e in quanto alla chiave gialla.
+
+	|80.~  PECORE, dice, avendo detto ^pastore~.
+
+	|82.~  COME AGNEL, avendo detto ^pecore~.
+
+	|87.~  OVE 'L MONDO @E PI@U VIVO, che @e l'oriente.
+
+	|91.~  E S@I COME SAETTA: non poteva meglio esprimer la velocit@a de 
+l'ascendere.
+
+	|98.~  QUAL MI FEC'IO: argomento de minori ad maius.
+
+	|99.~  TRANSMUTABILE, il che non @e la stella.
+
+	|105.~  CHE CRESCER@A LI NOSTRI AMORI: quelli che sono posti in 
+carit@a, hanno a caro il ben degli altri, e l'allegrezza, che 
+dall'altrui bene prendono, vince quella del loro: propria natura del 
+mio gentil maestro messer Trifone.
+
+	|107.~  OMBRA, cio@e anima.
+	|111.~  CARITIA, idest, caro.
+
+	|113.~  ERA IN DESIO: bel modo di dire <desiderava>.
+
+	|115.~  BEN NATO, idest, felice.
+
+	|117.~  PRIMA CHE LA MILITIA S'ABBANDONI, idest, prima che lasci la 
+Chiesa militante, idest, prima che mori.
+
+	|124.~  ANNIDI: ha accordato con la rima ^di' di'~, strana cosa!
+
+	|125.~  NEL PROPRIO LUME, che @e Dio; CHE DAGLI OCCHI, idest, che per 
+lo mezzo d'i tuoi occhi, e intende degli occhi de l'inteletto.
+
+	|129.~  CHE SI VELA A' MORTAI etc.: descrive Mercurio per 
+circumlocutione.
+
+	|135.~  TEMPERANZE, chiama il vapore che, opponendosi al sole, tempra 
+la sua luce.
+
+	|138.~  CHIUSA CHIUSA, idest, tutta chiusa e ascosa.
+
+	|139.~  CANTO CANTA: agnominatio.

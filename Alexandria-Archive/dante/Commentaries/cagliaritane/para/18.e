@@ -1,0 +1,48 @@
+	|1.~  Gi@a se godeva solo del suo verbo.  et io gustava temperando el 
+mio acerbo pensiero col lo mio dolce.  cio@e acerbo m'era udire la mia 
+furtuna ma pensando al mio fine ch'io av@ia udito m'era s@i dolce che 
+temperava col dolce l'amaro.
+
+	|28.~  ^Et cominci@o~.  in questa quinta pianeta de marte che vive da 
+colui che mai non @a n@e anc'aver@a fine spiriti sono beati (^om.~).
+
+	|37.~  I' viddi per la croce.  a questa croce pone dante che vedesse 
+molti spirti beati andando balenando de la letizia ch'essi avieno de 
+l'onorare quello venerabile segnio de la fede nostra crhistiana en fra 
+i quali ud@io nominare dei santissimi conducitori et combactetori 
+contra et pagani et saracini (^om.~).
+
+	|61.~  ^Si m'acors'io~.  qui pone dante ch'entroe salendo nel cielo de 
+giove.  et nota che tra ciello et cielo non @e spacio che sia da l'uno 
+a l'altro.  ma sono continui et qui d@a una simiglianza d'una donna che 
+per vergognia diventi rossa.  rasecurata remane bianca.  cos@i feci' 
+ella.  che la stella di marte onde dante era uscito era rossa.  ed elli 
+entrando el la spera de giove vide la stella de giove bianca.  simile a 
+la similitudine decta de la donna.
+
+	|82.~  O diva.  ci@o vol dire o riccha fontana de sapienzia et de 
+justizia che fai l'ingiegni gloriosi e rendelo viventi de perpetua et 
+longa fama.
+
+	|94.~  Poscia.  sopra le ^m~ ch'@e fine de iusti[ti]am remasaro 
+ordenate s@i che giove ch'@e decto de colore bianco s@i come mart'@e 
+rosso pareva giove argiento destinto de oro.
+
+	|100.~  ^Poi chome~ nel percotare.  onde li stolti sogliono agurarsi.  
+solio[no] molti che quando uno cieppo @e molto ardente @anno uno tizone 
+de fuoco aceso et fregallo el lo cepo [a]ceso et a quello frega[re] 
+sfavilla el cepo faville senza numero et collui che percote col lo 
+tizone di' a le faville.  conto grano cotanto.  cotanti fiorini etc.
+
+	|109.~  Quei che depignie.  @e colui da chui la natura se ramenta et 
+fa come el somo fatore li fa fare.
+
+	|127.~  Gi@a se sol@ia fare guerra col le spade.  mo' fa col le 
+lemosine che sono date ai sacerdoti et che dia[no] exere dei povari.
+
+	|130.~  Ma tu.  papa che scrivi per cancellare et cancelli per avere 
+denari et cus@i fermo @e 'l tuo dissidero a essi che per amore del 
+batista ch'@e segniato en sul fiorino che non conosci n@e pietro n@e 
+paulo.  [s@i che le guerre che se sol@ieno fare col le spade ora se 
+fanno col le lemosine robbate ai povarelli.  etc. ^d'altra m.~]
+

@@ -1,0 +1,17 @@
+Return-Path: bobh@alexandria.dartmouth.edu
+Received: from alexandria.dartmouth.edu (alexandria.dartmouth.edu [129.170.16.15])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id RAA24249
+	for <steve@avalon.dartmouth.edu>; Tue, 3 Jun 1997 17:40:54 -0400
+Received: (from bobh@localhost)
+	by alexandria.dartmouth.edu (8.8.5/8.8.5) id RAA08972
+	for steve; Tue, 3 Jun 1997 17:38:47 -0400 (EDT)
+Date: Tue, 3 Jun 1997 17:38:47 -0400 (EDT)
+From: Robert Hollander - DDP PI <bobh@alexandria.dartmouth.edu>
+Message-Id: <199706032138.RAA08972@alexandria.dartmouth.edu>
+
+Just checked Porena (I forgot he was already "up"), and we
+do indeed have a problem.  The "nota finale" appears as a separate
+entity.  Just removing the signals "|" and "~" that surround it will
+put it into the preceding text, right?  That's what we will need to do.
+
+Best, Bob

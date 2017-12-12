@@ -1,0 +1,35 @@
+\<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN"
+        "http://www.w3.org/TR/REC-html40/strict.dtd"\>
+\<HTML\>
+\<HEAD\>
+\<meta http-equiv="Content-Type" content="text/html;charset=ISO-8859-1"\>
+\<TITLE\>character set tests\</TITLE\>
+\</HEAD\>
+\<BODY\>
+\<P\>
+Some more tests involving character sets:
+\</p\>\<p\>
+e-acute: $e
+\</p\>\<p\>
+A-acute: $A
+\</p\>\<p\>
+i-grave: @i
+\</p\>\<p\>
+O-grave: @O
+\</p\>\<p\>
+e-circ: #e
+\</p\>\<p\>
+double quotes: "Hello, world."
+\</p\>\<p\>
+angle quotes: <Hello, world.>
+\</p\>\<p\>
+Bold: Be |bold~ if you can.
+\</p\>\<p\>
+Italics: That ^really~ rocks.
+\</p\>\<p\>
+Superscript: 2+ary~ consideration.
+\</p\>\<p\>
+Greek: %alpha%beta%gamma
+\</p\>
+\</BODY\>
+\</HTML\>

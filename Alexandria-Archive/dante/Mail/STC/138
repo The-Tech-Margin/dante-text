@@ -1,0 +1,63 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id RAA29476
+	for <steve@avalon.dartmouth.edu>; Mon, 9 Nov 1998 17:39:00 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id RAA12438
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 9 Nov 1998 17:39:00 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 55408 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67493-19060>; Mon, 9 Nov 1998 17:38:04 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA25716
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 9 Nov 1998 17:37:51 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA27968
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 9 Nov 1998 17:37:51 -0500 (EST)
+Message-ID: <36476C38.B11298EF@phoenix.princeton.edu>
+Date: 	Mon, 09 Nov 1998 17:27:04 -0500
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: message #28
+References: <199811081832.NAA22584@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I've typed out your first tow messages and will gret to
+them when I can....
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> In archived message #28, concering Vellutello, you say:
+> 
+> > ... (2) the problem of Euro. quotes [<<...>>].  These all
+> > show in the text as they are resolved by FW, i.e., taking up a
+> > single byte.  95% of these or more were already in the text.  But I have
+> > added some myself, using the FW convention [insert key, compose
+> > character key, double strike on either "<" or ">"]. ....
+> >  (4) Ligated vowels "ae"
+> > and "oe": I have got rid of many of these; but you will find some
+> > in the early cantos of Inferno; globals should clean this up in
+> > seconds (and those are the only two ligatures involved).  That's
+> > all you need be conscious of.
+> 
+> Taking each item:
+> 
+> (2) What exactly is "the problem of Euro. quotes?" I see a good many in the texts, but I don't recall what the problem is. Again, I need to know what I have to do to fix it.
+
+I _think_ what I mean is that some are only single '<'
+or '>' and need to be mnade double.
+> 
+> (4) I see a fair number of these ligatures in the text. You say you've gotten rid of some. Did we decide to remove all the ligatures and just go with two separated characters. eg "ae"? If so, I will de-ligature them. Are we doing this in *all* commentaries?
+
+No, we have left a few as they are.  I'm not concerned
+about that.
+
+> 
+>                                                                 Steve
+
+Best, Bob

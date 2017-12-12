@@ -1,0 +1,35 @@
+From steve@avalon.dartmouth.edu Mon Mar 11 08:12:11 1996
+Received: from avalon.dartmouth.edu (avalon [129.170.18.5]) by baker.dartmouth.edu (8.7.4/8.7.3) with ESMTP id IAA27386 for <bobh@baker.dartmouth.edu>; Mon, 11 Mar 1996 08:12:10 -0500
+Received: from avalon (localhost [127.0.0.1]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id IAA02505; Mon, 11 Mar 1996 08:12:08 -0500
+Message-Id: <199603111312.IAA02505@avalon.dartmouth.edu>
+To: Robert Hollander - DDP PI <bobh@baker.dartmouth.edu>
+cc: malcolm.brown@dartvax.dartmouth.edu
+Subject: Re: DDP revision 
+In-reply-to: Your message of "Sat, 09 Mar 1996 10:32:08 EST."
+             <199603091532.KAA26236@baker.dartmouth.edu> 
+Reply-To: Stephen.Campbell@dartvax.dartmouth.edu
+Date: Mon, 11 Mar 1996 08:12:01 -0500
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+Status: R
+
+
+> 
+> Further discussions with the CETH folks suggests that it is not
+> worth the time/money to put DDP data into SGML (since it works
+> fine the way it is) nor to put a new front end on it (since that
+> works fine too).  Suggestion is to wait for the next generation
+> of engines and change over then.  Does that make sense to both
+> of you?
+> 
+> Best, Bob
+
+Frankly, no, it doesn't make sense.  That's because I disagree that the
+DDP data or the front end work fine the way they are now.  The data format
+is non-standard and works only on VT200-compatible and PC-compatible displays;
+SGML would be a far more universal representation.  The user interface is very
+difficult for novice users to understand.  It was put together quickly from a
+BRS menuing system of dubious quality.  Finally, what do they mean by the
+"next generation of engines?"  
+
+							Steve
+

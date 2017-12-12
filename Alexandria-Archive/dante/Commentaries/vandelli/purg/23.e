@@ -1,0 +1,452 @@
+	|Proemio.~  1-36.  I GOLOSI E LA LORO PENA.  Mentre i tre
+P., dopo una breve sosta del solo D. interrotta da un affettuoso
+richiamo di V., vanno oltre, sono raggiunti da una schiera di
+Golosi, spaventosamente magri, che contemplano bramosi l'albero
+carico di frutti e spruzzato da fresche acque, senza poter
+gustare n@e quelli n@e queste.  Poich@e camminano veloci, i Golosi
+sfilano oltre, fissando man mano gli occhi meravigliati su quei
+tre.  Gi@a intemperanti nel mangiare e nel bere, soffrono ora la
+pena di Tantalo, e cantano piangendo: <Signore, aprirai le mie
+labbra; e la mia bocca bandir@a la tua lode> (^Salm.~ L, 17); cio@e
+chiedono la grazia di volgere a sola lode di Dio labbra e bocca
+che in vita servirono ad appagare la gola.
+
+	37-60.  FORESE DONATI.  Una delle ombre, a un tratto,
+vedendo Dante, manda un grido di gioia.  D. dalla voce riconosce
+che @e il fiorentino, suo amico (e lontanissimo parente) Forese
+Donati.  Questi chiede a D. come mai sia potuto venir l@i, e chi
+siano i suoi due compagni; ma D., prima di rispondere a tali
+domande, prega Forese di spiegare come e perch@e egli e i suoi
+compagni siano ridotti in quello stato.  Forese Donati fu figlio
+di Simone e fratello del famoso Corso (cfr. ^Purg.~ XXIV, 82
+sgg.) e di Piccarda (cfr. ^Purg.~ XXIV, 10 sgg.; ^Par.~ III, 34
+sgg.) e mor@i il 28 luglio 1296.  Fu rimatore, come si ha dalla
+nota Tenzone di sonetti sboccati e trivialucci, tra burleschi e
+satirici, scambiati tra lui e D. (Barbi, ^La Tenzone di D. con
+Forese~ in ^Studi dant.~, IX, pp. 5-149).  Gi@a in questi sonetti
+@e rinfacciata a Forese la golosit@a.
+
+	61-75.  RAGIONE DEL DIMAGRAMENTO DEI GOLOSI.  Forese
+risponde che quando egli e i suoi compagni, girando in quel
+cinghio, giungono alla pianta che hanno test@e oltrepassata, una
+segreta potenza che per volont@a divina ha la fragranza dei
+bellissimi frutti e dell'acqua che scende su le foglie, accende
+in essi un forte bisogno di mangiare e di bere; e questa fame e
+questa sete inappagate li tormentano e consumano.  E questo
+fatto, soggiunge ancora Forese, si avvera pi@u di una volta lungo
+ciascun giro.
+
+	76-114.  PERCH@E FORESE GI@A SI PURGA.  NELLA DONATI E
+L'ALTRE DONNE FIORENTINE.  Ma D. ha ancora una curiosit@a: come
+mai Forese, morto da pochi anni e pentitosi de' suoi peccati e
+riconciliatosi con Dio solo in fin di vita, si trova gi@a in quel
+girone e non nell'Antipurgatorio coi negligenti a pentirsi? 
+<M'hanno liberato> risponde Forese <e dall'Antip. e dai gironi
+sottostanti a questo le accorate preghiere della mia cara Nella,
+la vedova mia, le cui virt@u sono tanto pi@u care a Dio, e per@o
+tanto pi@u accette a lui anche le sue preghiere, quanto pi@u son
+divenute rare nelle donne fiorentine.  Ma a queste,
+incorreggibili con mezzi umani, infligger@a presto il cielo
+meritati quanto inaspettati castighi.  Ed ora tu, Dante, spiega,
+finalmente, a me e a' miei compagni, maravigliati della cosa al
+pari di me, come mai ti trovi qui vivo>.
+
+	115-133.  CONFESSIONE DI D. E PRESENTAZIONE DI V. E
+STAZIO.  Rispondendo finalmente alla domanda di Forese (fatta gi@a
+nel v. 52), D. prima richiama alla memoria sua e dell'amico un
+periodo comune di vita scioperata (quello in cui si scambiarono i
+sonetti sboccati della Tenzone); quindi narra come V. lo traesse
+da tal vita, lo guidasse attraverso l'Inf. sin qui, e prometta
+guidarlo oltre fino al luogo in cui troveranno Beatrice.  Dopo di
+che presenta anche Stazio, indicandolo come l'anima per la cui
+liberazione aveva tremato il monte.
+
+	|1-3.  Fronda~: dell'albero strano trovato in ^mezza
+strada.~  |Ficcava ,io~: tentando di vedere chi mai gridasse gli
+esempi di temperanza.  |Perde~: in questa parola @e gi@a espresso
+il rimprovero che V. far@a a D. nei versi seguenti.
+
+	|4-6.  Pi@u che padre~: pi@u affettuoso e premuroso di un
+padre al figlio.  |Figliuole~: figliuolo: forma di vocat. lat.,
+rimasta, in ant., anche per altre parole: per es., `cattive' per
+`o cattivo' (^Bull.~ III, 120).  |Imposto~: assegnato per salire
+il Purg.
+
+	|8-9.  S@ie~: s@i, cos@i.  |Che l'andar~ ecc.: che non mi
+costava nulla, non mi era di nessuna fatica il camminare. 
+Concetto antico e comune.
+
+	|10-12.  Ud@ie~: ud@i, come |partur@ie~ per `partur@i' (arc.,
+= partor@i).  |^Lab,ia~: <Domine, labia mea aperies; et os meum
+annuntiabit laudem tuam>.  @E il vers. 17 del ^Miserere~ (^Salmo~
+L).  |Diletto e doglia~: il canto, dolce e devoto, dava a chi
+l'udiva diletto; ma il pianto ond'era accompagnato destava
+dolorosa compassione.
+
+	|13-15.  Che @e~ ecc.: ancora non vedeva alcuno, n@e sapeva
+chi potesse cos@i piangere e cantare.  |Forse~: lo stesso V. non @e
+ben certo del fatto.  |Di lor dover~ ecc.: soddisfacendo al
+debito loro verso la divina giustizia, che le tien legate qui. 
+Cfr. ^Purg.~ XVI, 22-24.
+
+	|16-18.  Pensosi~: assorti ne' loro pensieri. 
+|Giugnendo... nota~: se per via raggiungono gente sconosciuta. 
+Le anime camminavano nello stesso senso che i P.  |Non restanno~:
+non ristanno, non si fermano, vogliosi di continuare e compiere
+il pellegrinaggio.
+
+	|19-21.  Pi@u tosto mota~: mossa, cio@e camminante, con
+passo pi@u veloce del nostro.  |Tacita~: o si supponga, come fanno
+pi@u commentatori, che le anime cantino solo presso e sotto i
+mistici alberi, o si ammetta che il canto loro sia continuo, @e
+naturale in ogni modo che qui le anime, pur conservando
+l'espressione loro devota, guardino i P. ^in silenzio~, essendo
+comprese di maraviglia (|ci ammirava~) nel vedere que' nuovi
+viandanti; n@e meno naturale ed umano @e che una di esse, Forese,
+rivolga la parola a D., e, per intrattenersi con l'amico, resti
+anche indietro da' suoi compagni (XXIV, 70 sgg.).
+
+	|22-24.  Oscura e cava~: aveva gli occhi non pi@u lucenti,
+ma smorti, languidi, e per di pi@u infossati; cfr. Ovid., ^Met.~
+VIII, 803 sgg.  |Scema~: di carne, dimagrata.  |S'informava~:
+prendeva la forma delle ossa che copriva.
+
+	|25-27.  A buccia strema~: dipende da ^secco.~ 
+|Eresitone~: figlio di Triopa, re di Tessaglia, avendo voluto
+abbattere una quercia d'una selva sacra a Cerere, fu punito con
+una fame insaziabile.  Consum@o prima ogni sua sostanza, poi
+vendette sua figlia, e finalmente cominci@o a mangiar s@e stesso;
+Ovid., ^Met.~ VIII, 726-881.  D. dice dunque: `Non credo che
+Eresitone per il digiunare, cio@e per la fame insaziabile per la
+quale, pur mangiando a tutto potere, si sentiva sempre digiuno,
+si fosse rinsecchito quanto costoro, fino |a buccia strema~, cio@e
+fino ad aver su le ossa la sola pelle, allorquando di codesto
+singolar digiunare ebbe pi@u paura, in quanto, non restandogli pi@u
+altro, cominci@o a mangiare il proprio corpo'.  <Vis tamen illa
+mali postquam consumpserat omnem Materiam, dederatque gravi nova
+pabula morbo, Ipse suos artus lacero divellere morsu Coepit, et
+infelix minuendo corpus alebat>; Ovid., l. c.
+
+	|29-30.  La gente~ ecc.: sono i Giudei, che, assediati in
+Gerusalemme (70 d. C.), soffersero la fame a tal segno, che una
+donna, di nome Maria, uccise il figliuoletto per cibarsi delle
+sue carni; cfr. Joseph. Flav., ^Bell. Jud.~ VI, 3.  |Di@e di
+becco~: la bocca della madre opera come becco d'uccellaccio
+rapace e vorace: che cosa di pi@u orribile ed inumano?
+
+	|31.  L'occhiaie~: le cavit@a degli occhi somigliavano ad
+anelli da' cui castoni siansi tolte le gemme: gli occhi son s@i
+fondi e smorti, che non si distinguono.
+
+	|32-33.  Chi~ ecc.: fu opinione di molti nel medioevo,
+potersi nel volto dell'uomo leggere la parola |`omo'~; <nam>
+scrive ^Pietro di D.~ <unus oculus est ^O~; supercilia cum naso
+faciunt dictam literam ^M~; alius oculus ^O~, et sic habes
+^OMO~>; alla quale spiegaz. le ^Chiose~ edite dal ^Luiso~
+(Firenze, 1904, p. 106) aggiungono: <^h~ vero non ponitur [lat. 
+^homo~] quia non est litera, sed aspiracionis nota>.  Ma si trov@o
+anche l'^h~, e persino si riusc@i a leggervi addirittura ^homo di~
+= ^homo dei!~  Cfr. ^Comm. Lips.~  Si noti che l'emme dobbiamo
+pensarla di tipo epigrafico, e le due vocali inserite (come si
+vede spesso in epigrafi specie medioevali) negli spazii interni
+della ^M.~
+
+	|34-36.  Chi~ ecc.: Costr. e int.: `Chi, non sapendo
+(|sappiendo~, @e arc.) come (|como~, arc.) il fatto avvenga,
+crederebbe che l'odor d'un pomo e quel d'un'acqua, generando
+brama di mangiare e di bere, facessero tal governo delle ombre,
+cio@e le deformassero cos@i?'.
+
+	|37-39.  Gi@a era~ ecc.: io gi@a pensavo, pieno di
+maraviglia, qual mai potesse essere la cosa che li affama,
+ignorando la causa della magrezza loro e della pelle squamosa;
+cfr. ^Purg.~ XXV, 20 sgg.  |Squama~: la pelle dei Golosi @e a
+squame, quasi croste asciutte di ^scabbia~ (v. 49, e cfr. anche
+v. 58 e ^Inf.~ XXIX, 82).
+
+	|40-42.  Del profondo della testa~: dal fondo delle
+occhiaie, cfr. v. 22 e 31.  |M'@e questa?~: @e questa che a me @e
+concessa, di vederti qui?
+
+	|45.  Ci@o...conquiso~: Nel son. `^Voi, donne~' leggiamo
+(v. 9 sg.) <Se nostra donna conoscer non puoi / ch'@e s@i
+^conquisa~, non mi par gran fatto>; dove si ridice altrimenti
+quel che gi@a @e detto ne' vv. 5 sgg: <Ben ha le sue sembianze s@i
+^cambiate~ e la figura sua mi par s@i spenta ecc.>.  ^Conquisa~
+vale qui `trasformata o deformata', in quanto il ^conquidere~
+importa `guasto e rovina'.  Il v. nostro significher@a dunque:
+`ci@o che le sembianze avevano deformato e guasto in s@e stesse',
+cio@e l'impronta, i tratti della fisionomia personale.  Cfr.
+^cangiata labbia~ del v. 47.
+
+	|46-47.  Favilla~: la voce.  La voce fu la |favilla~ che
+^riaccese~ in me tutta la conoscenza di quel volto (|labbia~),
+cos@i cambiato per la magrezza e per la pelle squamosa.  |Alla~:
+rispetto alla, circa la.
+
+	|49-51.  Non contendere~: non badare alla mia pelle secca
+e scabbiosa.  Di |contendere~ per `por mente, badare' si hanno
+altri esempi: <le donne amministravano le necessitadi degli
+Apostoli, i quali non poteano |contendere~ alle cose mondane>;
+Fra Giord., ^Pred.~, ediz. Manni. p. 59.  |Scabbia~: cfr. v. 39. 
+|Difetto di carne~: mancanza di carne, cio@e magrezza estrema.
+
+	|52-54.  Il ver~: come mai sei potuto venir qui vivo. 
+Forese e gli altri spiriti si sono gi@a accorti che D. @e vivo dal
+suo corpo che fa ombra (vv. 112-114).  |Non rimaner~ ecc.: non
+trattenerti dal parlarmi.
+
+	|55-57.  La faccia tua~ ecc.: Il tuo volto, nel vederlo
+cos@i deformato (|veggendola s@i torta~), mi fa piangere ora (|mo~)
+non meno dolorosamente di quel che piansi allorch@e vidi il tuo
+cadavere.  E quelle ombre hanno veramente tutte l'aspetto di
+cadaveri ambulanti; cfr. ^Purg.~ XXIV, 4.
+
+	|58-60.  Vi sfoglia~: vi strugge, vi consuma, nel qual
+senso ^sfogliare~ fu usato in antico anche da altri.  |Non mi far
+dir~ ecc.: non farmi parlare fin che sono s@i compreso di
+maraviglia; ch@e mal pu@o ragionare di una cosa chi ha l'animo
+occupato dal pensiero d'un'altra di cui vuole la spiegazione.
+
+	|61-63.  Dell'etterno consiglio~ ecc.: dal divino volere
+@e infusa nell'acqua e nell'albero il potere (|vert@u~, arc. per
+`virt@u') per cui dimagro nel modo che tu vedi.
+
+	|64-66.  Esta~: questa.  |Piangendo canta~: cfr. v. 10 e
+la n. al v. 21.  |Per seguitar~: per la colpa di assecondar
+troppo la gola.  |Oltre misura~: <Hoc solum pertinet ad gulam
+quod aliquis propter concupiscentiam cibi delectabilis scienter
+^excedat mensuram in edendo~>; Thom. Aq., ^Sum. theol.~ II, ii,
+148, 1.  |Si rif@a santa~: soffrendo fame e sete torna pura e
+santa quale Iddio la cre@o.
+
+	|67-69.  Cura~: desiderio; cfr. n. 61-75.  |Pomo~: cfr.
+^Inf.~ XVI, 61; ^Purg.~ XXVII, 115 sgg.; XXXII, 73 sgg. 
+|Sprazzo~: l'acqua cadente dall'alta roccia; ^Purg.~ XXII, 137
+sg.  |Si distende~ ecc.: si sparge su per tutte le verdi foglie
+dell'albero, ma, ahim@e!, non giunge, sembra voler dire Forese,
+alle nostre labbra riarse.
+
+	|70-71.  Spazzo~: il suolo, il piano di questo girone;
+cfr. ^Inf.~ XIV, 13 e Borghini, ^Studi~, ediz. Gigli, 248.  |Si
+rinfresca~: si rinnova.  Le anime girano senza requie, e quante
+volte esse arrivano presso l'albero, altrettante si rinnova il
+supplizio.  Da questi versi alcuni inferirono, esservi in questo
+girone non pur due, come esplicitamente D. ci far@a sapere (XXIV,
+100 sgg.), ma pi@u alberi consimili.  Come questo sia <un eccesso
+d'argomentazione>, ha dimostrato il D'Ov., ^N. St.~ I, p. 206.
+
+	|72.  Sollazzo~: le anime purganti sopportano non solo
+volonterose, ma con intima gioia le pene imposte dalla giustizia
+di Dio, alle quali seguir@a la beatitudine.  Ci@o che @e fisicamente
+pena, @e per l'anima |sollazzo.~  <Illi qui sunt in Purgatorio,
+sciunt se non posse pervenire ad gloriam, nisi prius puniantur:
+^ergo volunt puniri~>; Thom. Aq., ^Sum. theol.~ III, ^Suppl.~,
+App. 2, 2.  <Non credo che si possa trovare contentezza da
+comparare a quella d'un'anima del Purg., eccetto quella de' santi
+nel Par.>; S. Cat. di Gen., ^Tratt. del Purg.~, c. 2.
+
+	|73-75.  Quella voglia~ ecc.: ci mena agli alberi donde
+viene la nostra sofferenza, quella stessa volont@a di subire la
+pena che fece lieto Cristo di essere menato alla crocifissione,
+durante la quale, e fu questo il momento pi@u doloroso della
+passione, si sent@i abbandonato da Dio, e pronunzi@o (^Matt.~
+XXVII, 46; ^Marco~ XV, 34) le parole: <^Eli, Eli~, lamma
+sabacthani; hoc est, Deus meus, Deus meus, ut quid dereliquisti
+me?>.  |Con la sua vena~: col suo sangue.
+
+	|76-78.  Da quel... vita~: dal d@i nel quale morendo
+passasti a miglior vita.  |Cinqu'anni~ ecc.: non sono ancora
+passati cinque anni; che @e vero, essendo morto Forese il 28
+luglio 1296 e figurandosi D. di trovarlo in Purg. nella primavera
+del 1300.  Avrebbe D. potuto dir `quattro'; ma l'arrotondamento
+della cifra nulla ha di strano.
+
+	|79-82.  Se prima~ ecc.: Senso: `Se indugiasti il
+pentimento, che riconcilia noi peccatori con Dio, a quando eri
+ormai impotente a pi@u peccare, cio@e agli estremi di tua vita,
+come mai sei di gi@a (|ancora~, cfr. ^Inf.~ XXXIII, 121) venuto in
+questo alto girone?'  <E queste cose sa bene l'Autore per la
+conversazione continova ch'elli aveva col detto Forese; ed esso
+Autore fu quegli che, per amore che aveva in lui e familiaritade,
+lo indusse alla confessione; e confessossi a Dio anzi l'ultimo
+fine>; ^Ott.~
+
+	|83-84.  L@a gi@u~ ecc.: nell'Antipurg., dove si rimette o
+ripara il tempo della vita, trascorso peccando e senza pentirsi,
+con altrettanto tempo che ivi si @e obbligati a restare prima
+d'essere ammessi al vero Purg. (^Purg.~ IV, 130 sgg.).
+
+	|86.  A ber~ ecc.: a gustare quei patimenti che, in s@e
+stessi amari (|assenzo~, arc. per `assenzio', nota bevanda
+amara), a noi riescono dolci, perch@e salutari.  @E un caso di
+^callida iunctura.~
+
+	|89-90.  Della costa ove s'aspetta~: dall'Antip., ch'@e
+quella parte, la pi@u bassa, del pendio del sacro monte, nella
+quale stanno i negligenti al pentimento (n. 83-84).  |Delli altri
+giri~: dei primi cinque gironi del Purg.  Oltre quello della
+gola, D. rinfaccia a Forese, ne' sonetti della Tenzone accennata,
+anche altri vizii.
+
+	|91-93.  Tanto @e~ ecc.: Nella, la vedova mia che amai
+tanto, @e tanto pi@u cara e diletta a Dio, quanto pi@u per le sue
+virt@u ella non ha altra donna che la somigli nella sua Firenze. 
+Con le parole messe qui in bocca a Forese, D. fa ammenda
+dell'accusa che nel primo sonetto della Tenzone egli aveva
+rivolta all'amico, di essere marito disamorato e incurante della
+propria donna, tanto da rendere e malcontenta lei e dolentissima
+la suocera d'aver data la figliuola a un uomo di tal fatta.  Ecco
+il sonetto, delle cui oscurit@a @e fatta una dichiarazione
+esauriente nello studio di ^M. Barbi~ citato nella n. 37-60: <Chi
+udisse tossir la mal fatata Moglie di Bicci, vocato Forese,
+Potrebbe dir ch'ell'ha forse vernata Ove si fa 'l cristallo in
+quel paese.  Di mezzo agosto la truove infreddata; Or sappi che
+de' far d'ogni altro mese!  E non le val perch@e dorma calzata
+Merz@e del copertoio c'ha cortonese.  La tosse, 'l freddo e
+l'altra mala voglia Non l'addovien per omor ch'abbia vecchi, Ma
+per difetto ch'ella sente al nido.  Piange la madre, c'ha pi@u
+d'una doglia, Dicendo: `Lassa, che per fichi secchi Messa l'avre'
+'n casa del conte Guido!'>.  Di questa Nella nulla sappiamo che
+sia storicamente certo: quel che dicono delle sue virt@u i pi@u
+vecchi comm. non @e se non parafrasi delle parole di Dante.
+
+	|94-96.  Barbagia~: regione alpestre della Sardegna
+centrale intorno al Gennargentu, dei cui abitanti gi@a S.
+Gregorio, al tempo del quale soltanto si convertirono al
+cristianesimo, ebbe a dire (^Ep.~ III, 26, 27) che vivevano tutti
+come animali insensati.  E fama de' costumi barbari di queste
+popolazioni doveva durare anche ai tempi di D., come
+attesterebbero gli antichi comm., se questi non facessero se non
+ripetere con altre parole la generica affermazione di D.  Osserva
+argutamente il ^Torraca~ che il freddo clima di quei paesi
+montani non avrebbe consentito alle donne di andar eccessivamente
+scollacciate, come afferma ^Benv.~, o addirittura nude, come dice
+^Pietro di D.~  Cfr. ^Bass.~ 127 e ^Trabalza~, o. c., 54 sg.  |La
+Barbagia~: Firenze, Barbagia novella per l'impudicizia femminile,
+dove io morendo lasciai la Nella mia.
+
+	|97-99.  Che vuo'... dica~: modo del parlar famigliare e
+ben naturale, se cerchiamo ricostruire la scena.  D. deve
+ascoltare la grave asserzione dei vv. 91-96 con volto serio e con
+espressione di rincrescimento; sicch@e Forese, prima di aggiungere
+cose ancor pi@u gravi (vv. 98 sgg.), si interrompe, e, compreso
+della non lieta impressione delle sue parole sull'amico, gli
+dice: <Fratello caro, che t'ho a dire?  Cos@i @e: @e questa la
+brutta realt@a>; e prosegue coll'annunzio del pi@u brutto futuro,
+che gi@a gli ^@e nel cospetto~, cio@e che gi@a prevede per il dono
+che le anime hanno della prescienza (v. 109).  |Cui non sar@a~
+ecc.: poco lontano; cfr. ^Purg.~ XX, 70; ^Par.~ XVII, 118-120.
+
+	|100.  Interdetto~: proibito in pubblico dal pulpito. 
+Dalla terz. seg. risulta che non si accenna qui solo a prediche,
+come dicono ant. comm., contro lo scandaloso vestir delle
+femmine, ma altres@i a decreti vescovili e pene canoniche, bandite
+anch'esse dal pulpito, oppure a provvisioni della Signoria
+(quali, per es., gli ordini fatti nel 1324; cfr. ^G. Vill.~ IX,
+245).  Ma a che speciali ordinanze di anni prossimi al 1300 D.
+qui intenda alludere, noi non sappiamo.
+
+	|103-105.  Quai barbare~ ecc.: <questo dice in infamia e
+vituperio delle dette donne; dicendo che il primo atto e il pi@u
+popolesco e volgare della onestade della femmina @e il tenere
+coperte quelle membra che la natura richiede che sieno chiuse; e
+per@o quello che @e naturale in ogni luogo @e uno medesimo.  Onde
+dice: le Barbare, le quali sono s@i partite da' nostri costumi, e
+le Saracine, che sono cos@i date alla lussuria, che dovunque la
+volont@a giunge, quivi per l'Alcorano di Maometto si dee
+soddisfare alla lussuria, s@i vanno coperte le mammello e 'l
+petto; e voi, che dovete vivere per legge Romana, avrete bisogno
+d'essere scomunicate e piuvicate [= pubblicate] in piazza?  E
+dice che bisogner@a non solamente il comandamento del Diocesano
+[^vescovo~], ma ancora che il Comune faccia sua legge
+proibitiva>.  Cos@i l'^Ott.~, fiorentino e contemporaneo del P., e
+per ci@o autorevole testimone e delle sfacciate costumanze
+muliebri e delle |discipline~ cos@i |spiritali~ come d'altro
+genere.
+
+	|107-111.  Di quel~ ecc.: delle sventure che il cielo
+prepara (|ammanna~) loro in tempi prossimi.  Dopo il 1300 Firenze
+fu colpita da molte sciagure: dalle ruberie, incendii ed omicidi
+che tennero dietro alla venuta di Carlo di Valois (^G. Vill.~
+VIII, 49), e da molti altri eventi dolorosi e dannosi, interni ed
+esterni, degli anni seguenti fino alla sconfitta a Montecatini
+nell'agosto 1315, nella quale <di Firenze vi rimasono quasi di
+tutte le grandi case e di grandi popolari>; ^G. Vill.~ IX, 72. 
+Notevole per@o @e la somiglianza d'intonazione tra questa e la
+predizione di sciagure alla citt@a di Firenze che leggiamo nella
+^Lettera ai Fiorentini~ (^Lett. VI~) scritta il 31 marzo 1311 per
+la venuta di Arrigo VII: <^Si praesaga mens mea non fallitur [=
+se l'antiveder qui non m'inganna~],... urbem diutino moerore
+confectam in manus alienorum tradi finaliter, plurima vestri
+parte seu nece seu captivitate deperdita, perpessuri exilium
+pauci cum fletu cernetis>.  E vien fatto di pensare che la
+profezia di Forese e quella dell'Epistola siano state da Dante
+scritte in uno stesso periodo di tempo e che i versi alludano
+alle stesse punizioni che nella lettera egli asseriva imminenti
+a' suoi protervi concittadini.  |Prima fien triste~ ecc.: saranno
+dolenti prima che i fanciullini, ora (nel 1300) lattanti,
+comincino a metter la barba; la quale iudicazione non
+disconverrebbe, se si alludesse a fatti del 1311 o che, scrivendo
+nei 1311, D. fermamente credeva prossimi ad avverarsi.  |Nanna~:
+la ^ninna nanna~ che si canta per chetare e addormentare i
+bambini.
+
+	|112-114.  Or fa~ ecc.: ora che t'ho soddisfatto, non
+indugiar pi@u a dichiararmi per quale nuova concessione tu, vivo,
+sei venuto qui nel regno della morta gente; cfr. v. 52 sg.  |Non
+pur io~ ecc.: non solo io, ma anche tutti questi altri spiriti [i
+quali hanno intanto al pari di Forese rallentato il passo]
+guardano maravigliati l'ombra che fa il tuo corpo, velando il
+sole: segno che tu sei vivo.
+
+	|115-117.  A mente~: a memoria.  |Qual fosti meco~ ecc.:
+quale vita tu conducesti con me, ed io con te.  Che si alluda non
+pure a relazioni tra D. e Forese, a contegno non bello dell'uno
+verso l'altro, ma a vita viziosa, condotta da entrambi insieme; @e
+provato dal v. 118 `^Di quella vita~ ecc.'; e ne sono documento i
+sei sonetti, che il ^Del Lungo~ giustamente dice ^scapestrati~,
+della Tenzone pi@u volte ricordata.  |Fia grave~ ecc.: riuscir@a
+molesto il ricordo che io ora ne faccio.
+
+	|118-120.  Vita~: la vita viziosa che D. identifica poi
+colla ^selva oscura~, dal tornar nella quale V. (|costui che mi
+va innanzi~) lo salv@o conducendolo per i regni oltremondani. 
+|L'altr'ier~: pochi giorni fa; e qui sono cinque.  |Tonda~: cfr.
+^Inf.~ XX, 127.  |La suora di colui~: la luna o Diana, che si
+favoleggiava essere sorella del sole o Apollo; cfr. ^Purg.~ XX,
+130 sg.
+
+	|121-123.  Profonda notte~: l'Inf.; cfr. ^Purg.~ I, 44. 
+|Di veri morti~: |di~ per `dei', come spesso nell'ant. tosc.  I
+dannati sono detti veri morti, perch@e non pure sciolti del corpo,
+ma esclusi ormai in eterno dalla vita vera, ch'@e la beatitudine
+celeste.  |Vera carne~: con questo corpo reale che fa ombra e va
+dietro (|seconda~) a V.
+
+	|124-126.  Indi m'han~ ecc.: Di l@a, dalla ^profonda
+notte~, confortato da V., il P. @e uscito e venuto quass@u,
+|salendo~ su su per la montagna e |rigirandola~ via via nei
+successivi ^cinghii~, di ciascuno dei quali i P. percorrono via
+via una parte.  |Che drizza voi~ ecc.: che vi raddrizza delle
+storture mondane; ossia vi purifica del tutto dalle macchie de'
+vizii terreni.
+
+	|127-129.  Dice~: cfr. ^Inf.~ I, 112-123; ^Purg.~ VI,
+46-48.  |Compagna~: arc. per `compagnia'; come in ^Inf.~ XXVI,
+101; ^Purg.~ III, 4 e come in molti testi ital. antichi.  |Quivi
+convien~: cfr. ^Purg.~ XXX, 43-54.
+
+	|130-133.  Virgilio~ ecc.: D. qui completa la risposta
+alla domanda di Forese: <Chi son quelle due anime che l@a ti fanno
+scorta?> v. 52 sg.  |Quest'altro~: non nomina Stazio, ma dice
+solo che quest'altra scorta @e l'anima la cui liberazione fu
+annunziata test@e dal terremoto.  Se V. era di certo noto anche a
+un uomo di mediocre cultura quale dov@e essere Forese, sicch@e il
+nome bastava a fargli conoscere il personaggio, non cos@i questi
+aveva il dovere di conoscere anche Stazio, sicch@e dirne il nome,
+e non altro consentiva qui l'atto di presentazione, era cosa
+vana.  Opportuno invece @e far sapere a Forese che quella @e
+l'anima santa test@e liberata, una indicazione che deve sonar
+gradita a Stazio stesso.  |Regno~: il Purg.; cfr. ^Purg.~ I, 4. 
+|Sgombra~: allontana, dovendo egli salire al cielo.

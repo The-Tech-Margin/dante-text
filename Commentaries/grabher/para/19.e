@@ -1,0 +1,428 @@
+	|1-6.  Parea~ ecc.  Appariva dinanzi a me, |con l'ali
+aperte~ -- la venerata figura qui si apre trionfale --, la bella
+immagine dell'Aquila celeste (^C. pr.~ 107 sgg.) immagine che le
+anime, insieme unite (|conserte~), formavano; liete nel dolce
+godimento -- letteral.: nella dolce fruizione (|frui~: inf. lat.
+sostantivato) --: della loro beatitudine; e ciascuna di esse
+pareva rubino in cui raggio di sole ardesse in modo cos@i acceso,
+che nei miei occhi riflettesse il sole stesso.  La ricorrente
+ebbrezza del fulgore come luce di letizia qui serve a dare
+maggior rilievo alla |bella image~ disegnata dalle anime.
+
+	|7-9.  E quel~ ecc.  E quel che debbo ora descrivere --
+|testeso~, test$e, qui si riferisce a un immediato futuro; invece
+che a un recente passato come in ^Purg.~, XXI, 113 -- |voce non
+port@o mai~ ad umano orecchio, cio@e non fu mai detto, n$e
+inchiostro (|incostro~: ^Purg.~, XXVI, 114) mai lo scrisse, |n$e
+fu gi@a mai compreso~ -- contenuto e quindi "immaginato" -- da
+(|per~) umana |fantasia.~  @E variante di un motivo pi@u volte
+accennato; che qui torna con una particolare concitazione con cui
+si d@a rilievo al prodigio: |non port@o voce mai, n$e scrisse~...
+|n$e fu~... |gi@a mai.~
+
+	|10-12.  ch'io vidi~ ecc.: poich$e |io vidi e anche udii~
+-- il ^vedere~ oltre che l'^udire~ rileva tutta la concretezza
+della incredibile cosa -- il becco che parlava, e udii nella sua
+voce risuonare il discorso in 1+a~ persona (|io~.... |mio~) mentre
+nel suo concepimento era di tutti gli spiriti (|noi~... |nostro~)
+che formavano l'Aquila.  Insomma qui i beati spiriti si fondono
+per formare una personalit@a sola che @e quella dell'Aquila; la
+quale parla in 1+a~ persona.
+
+	|13-18.  Per esser~ ecc.  Per aver avuto giustizia e
+piet@a ho meritato l'esaltazione |a quella gloria~ -- del Paradiso
+-- |che non si lascia vincere~, superare, da alcun |disio~, non
+resta mai inferiore ad alcun |disio~, perch$e appaga pienamente
+ogni desiderio.  Questa la spiegazione dei pi@u dagli antichi ai
+moderni; e ci sembra la pi@u ovvia.  Come nota il ^Del Lungo~, <la
+Giustizia e la Piet@a sono gli attributi dell'Impero (^Ep.~, V,
+ii-iii)>, oltre che <essenziali attributi di Dio (^Purg.~, XI,
+37)>.  -- |ed in terra~ ecc.: e in terra lasciai tale memoria di
+me, che perfino i malvagi esaltano |lei~ -- tale memoria -- anche
+se |non seguono~ ci@o che di me narra |la storia~, non
+conformandosi al mio operare.
+
+	|19-21.  Cos$i un sol calor~ ecc.  Come molti carboni
+ardenti fanno sentire |un solo calore~, cos@i |molti amori~ -- le
+anime ardenti di carit@a, che formavano l'Aquila -- facevano
+uscire |solo un suon~, una unica voce, da |quella image~:
+l'immagine dell'Aquila.  Il paragone @e aderentissimo per
+l'effetto unitario che deriva (cfr. 23-4) e dalle |molte brage~ e
+dai |molti amori.~
+
+	|22-27.  O perpet,ui~ ecc.  I fulgori delle anime beate
+irradiantisi dalla loro intima |letizia~ sono come |fiori~
+(^Par.~, X, 91-2) sbocciati da essa e sono |perpetui~, come
+|eterna~ @e tale letizia nella imperitura vita del Cielo.  Gli
+|odori~ che emanano da questi spiriti paragonati a |fiori~ sono
+qui le loro voci; che si fondono in un solo "odore" (|pur uno~):
+in una sola voce.  -- |solvetemi~: scioglietemi, appagatemi.  --
+|spirando~: <col vostro fiato, con la vostra parola> (^Torraca~). 
+Cfr. ^Par.~, XXIV, 32 n.  -- |digiuno~: insaziato desiderio
+(^Par.~, XV, 49-52 n.).  -- |in fame~ ecc.: |in fame~ di verit@a,
+|fame~ a cui |in terra~ non ho potuto naturalmente trovare |cibo~
+adeguato: cio@e soluzione che soddisfacesse s@i lungo e tormentoso
+"dubbio" (33).  |Gran digiuno~... |fame~... rilevano l'intensa
+brama.
+
+	|28-33.  Ben so~ ecc.  Io so bene che se in Cielo la
+divina giustizia si specchia in |altro reame~ -- l'ordine
+angelico dei ^Troni~ che sono ^specchi onde refulge Dio
+giudicante~ (^Par.~, IX, 61 sg.) -- essa @e manifesta senza velo
+anche |al vostro~ "reame", alle anime che hanno il vostro grado
+di beatitudine, a voi che in terra perseguiste la giustizia.  Al
+v. 30 si ripete il |che~ del v. 28; antica costruz. segu$ita
+specialmente quando la proposizione iniziata col |che~ restava
+interrotta da una condizionale.  -- |sapete~ ecc.: sapete quale
+sia quel dubbio che da tanto tempo mi tormenta come fame da
+saziare (25-7).
+
+	|34-39.  Quasi falcone~...  Al |falcone~ si metteva una
+specie di cuffietta di cuoio (|cappello~) perch$e, privato
+temporaneamente della vista, stesse quieto; e gli si toglieva
+prima di lanciarlo alla caccia.  Dante lo rappresenta nel momento
+in cui, liberato del "cappello", |move la testa~ e, con la gioia
+d'aver riacquistato la vista e la certezza d'esser lanciato come
+di consueto alla caccia, si prepara al volo, |voglia mostrando~
+appunto di volare e cacciare.  Il Poeta per@o parla solo della
+|voglia~, sottintendendo particolari facilmente intuibili; e la
+|voglia~, il gioioso desiderio che lo ravviva tutto, la vedi in
+|move la testa~ e in |con l'ali si plaude~, dove |plaude~ --
+usato nel duplice senso lat. di ^plaudere pennis~ e ^sibi
+plaudere~ -- rappresenta e lo sbatter dell'ali e la festa che il
+falcone fa quasi a se stesso: sentimento fissato nell'atto.  Ma
+il falcone nel riprender "l'usato orgoglio" (^Purg.~, II, 126 n.)
+|si fa~ anche |bello~: con la vivacit@a e la baldanza di moti e
+atteggiamenti propri di certi uccelli; di cui il Poeta -- come
+per i colombi (^Purg.~, ^cit.~) o simili -- sente "l'animo" nelle
+pi@u semplici manifestazioni esteriori.  Naturalmente qui l'Aquila
+corrisponde al falcone, non proprio nei singoli atti, ma nella
+gioia dimostrata soprattutto con |canti~ quali |si sa~ -- pu@o
+sapere, cio@e comprendere e gustare -- solo |chi l@a su gaude~:
+nella schiera delle anime beate.  -- |falcone~: cfr. ^Inf.~,
+XVII, 127 sgg.; ^Purg.~, XIX, 64 sgg.  -- |segno~ ecc.: l'Aquila
+(^Par.~, VI, 32 n.) formata (|contesto~) |di laude~ ecc.: di
+anime "lodanti" la divina grazia.  |Laude~ @e plur. di ^lauda~ e
+pu@o valere come, al v. 20, ^"amori"~ per ^"amanti".~  Ma c'@e chi
+intende che le anime beate siano esse stesse ^lodi~ della grazia
+divina, in quanto ne sono la pi@u viva dimostrazione (^Inf.~, II,
+103).
+
+	|40-45.  Colui~ ecc.  Dio che, nel creare, |volse il
+sesto~, fece girare il compasso, tracciando |lo stremo del
+mondo~, l'estremo confine dell'universo (^Proverbi~, VIII, 27;
+^Giobbe~, XXXVIII, 4-5), |e dentro ad esso distinse~, dispose
+distinguendole, tante cose occulte e manifeste, |non pot$e in
+tutto l'universo~ imprimere il |suo valore~ -- la sua virt@u che @e
+infinita -- in modo tale che |il suo verbo~, il suo concetto
+(^Par.~, XVIII, 1 n.), |non rimanesse in infinito eccesso~,
+infinitamente superiore a tutto ci$o che creava.
+
+	|46-51.  E ci@o~ ecc.  E ci@o @e provato dal fatto |che il
+primo superbo~, Lucifero (^Inf.~, XXXIV, 34-5; ^Par.~, XXIX,
+55-6), |che fu la somma~, la pi@u perfetta, |d'ogni creatura~
+(^Purg.~, XII, 25-7), fu anch'esso imperfetto, dato che aveva
+bisogno di quel maggiore |lume~ della grazia che gli angeli non
+ribelli ottennero dopo che Dio li ebbe provati (^D. V. E.~, I,
+ii, 4; ^Bull.~, V, 67; XVII, 95) ma che egli superbamente non
+volle |aspettare~, contando di conseguirlo per virt@u propria;
+onde, folgorato da Dio (^Purg.~, ^cit.~), |cadde acerbo~,
+immaturo: senza essere arrivato a vera perfezione.  -- |e quinci~
+ecc.: e di qui, da ci@o, |appare~ chiaramente che ogni altra
+|natura~, creatura -- necessariamente inferiore (|minore~) a
+Lucifero che fu |la somma~ -- |@e corto recettacolo~, ricettacolo
+insufficiente, ad accogliere in s$e |quel bene~, Dio, |che non ha~
+ecc.: che @e infinito e che <con niuno altro bene si pu@o misurare,
+se non con s$e medesimo: imper@o che ogni altro bene @e minore di
+lui... e com'elli @e infinito, ^cos$i l'opere sue sono
+investigabili~ [= non vestigabili, ininvestigabili] ^et
+incomprensibili da l'omo e da ogni altra creatura~> (^Buti~).
+
+	|52-57.  Dunque~ ecc.  Dunque |nostra veduta~, quella di
+tutte le creature e quindi anche dell'umano intelletto, che di
+necessit@a (|convene~) @e soltanto uno (|alcun~) |dei raggi de la
+mente~ divina che riempie di s$e |tutte le cose~ (^Par.~, I, 1
+sgg.), non pu@o per |sua natura esser tanto possente~, aver tale
+potenza, |che~ il |suo principio~ -- la mente divina -- |non
+discerna~ molto al di l@a di ci@o che appare all'umano intelletto
+(|l'@e parvente~), che cio@e non veda tanto pi@u di quel che vediamo
+noi.  ^M. Barbi~ (^Probl.~, ^I~, 290) invece intende che la
+|nostra veduta~ non pu@o tanto <che non debba riconoscere che la
+mente divina le resta in gran parte nascosa al di l@a dei limiti a
+cui ella pu@o giungere con le sue forze naturali>.
+
+	|58-63.  Per@o~ ecc.  Perci@o |la vista~ intellettuale,
+|che il vostro mondo~ -- cio@e voi uomini -- |riceve~ da Dio (52
+sgg.), |entro s'interna~ (^Par.~, XXXIII, 85), si addentra, |ne
+la sempiterna giustizia~ di Dio, non diversamente da quel che
+|per lo mare~ fa l'|occhio; che~, sebbene quand'@e presso alla
+riva giunga a vederne il fondo, non lo vede pi@u quando @e |in
+pelago~, in alto mare (^Par.~, II, 5); eppure il fondo |@eli~ (=
+evvi; ^li~ = vi), c'@e anche l@i, ma @e celato ad occhio umano da
+una profondit@a abissale, che ben pu@o paragonarsi all'<abisso del
+consiglio> divino (^Purg.~, VI, 121-3); il quale si svela solo in
+alcuni fatti di cui la mente umana giunge a vedere la ragione, ma
+non in quelli che la trascendono e che hanno un |fondo~, una
+ragione inattingibile a noi: come accade riguardo a ci@o che si
+dir@a poi (70 sgg.).  Il magnifico paragone del mare fa concreto
+ed evidente il prodigioso abisso della mente divina.
+
+	|64-66.  Lume~ ecc.  Per l'intelletto umano non v'@e altro
+|lume~ -- a rischiarare le profonde verit@a di Dio -- all'infuori
+di quello della rivelazione proveniente dal lume di Dio che @e
+eternamente |sereno~ e |non si turba~, non si offusca, |mai~;
+ogni altro che alla nostra mente appaia come lume o |@e tenebra~
+che niente lascia vedere, |od ombra de la carne~, che "aggravando
+lo spirito" (^Sap.~, IX, 15) lo offusca, o |veleno~ che vien pure
+dalle passioni della carne e corrompe addirittura l'intelletto e
+la visione del vero.
+
+	|67-69.  Assai t'@e mo~ ecc.  Ora ti @e abbastanza
+(|assai~: ^Purg.~, V, 35; ^Par.~, I, 17) manifesta la |latebra~
+-- lat.: il nascondiglio -- che ti teneva celato il carattere
+della vera (|viva~) giustizia di Dio; argomento intorno a cui ti
+ponevi cos@i frequente (|crebra~: lat.) il quesito (|question~).
+
+	|70-78.  Un uom nasce a la riva de l'Indo~...  Il dubbio
+@e questo: "Ammettiamo che un uomo nasca in luogo remoto, per
+esempio |a la riva de l'Indo~, dove nessuno ragioni, insegni
+(|legga~: ^Par.~, X, 137 n.) o scriva di Cristo, s@i che egli
+nulla ne sappia; se per@o |voleri e atti~ di quest'uomo sono
+buoni, per quanto l'umana ragione pu@o discernere, e senza peccato
+in opere o in parole (|in vita o in sermoni~), @e giusto che,
+morendo |non battezzato e sanza~ la vera |fede~, sia dannato?".
+
+	|79-84.  Or tu~ ecc.  Risposta a tale dubbio (cfr. n.
+finale al C. sg.) @e l'invito a rimettersi alla Scrittura e a Dio
+che @e somma bont@a e giustizia.  -- |scranna~ = seggio; qui: di
+giudice.  Chi sei tu che vuoi impancarti a giudice, per giudicare
+ci@o che tanto trascende il tuo intelletto, ci@o che va |mille
+miglia~ lontano da esso, la cui vista non giunge pi@u in l@a di un
+palmo? (|spanna~: ^Inf.~, VI, 25).  Qui e al v. 85 -- ^Oh terreni
+animali~ ecc. -- hai un severo e sdegnato richiamo alle
+<stoltissime e vilissime bestiuole> di ^Conv.~, IV, v, 9 e
+ricordi i passi di ^Par.~, XIII, 130-142 e XX, 133 sgg.  --
+|Certo~ ecc.  Certo per |colui che s'assottiglia meco~, ci
+sarebbe da dubitare oltre il credibile (|a maraviglia~: ^Par.~,
+XI, 90), |se sovra voi~, al di sopra del vostro corto intelletto,
+non ci fosse, a farvi certi, la Sacra |Scrittura~ (^Par.~, V, 76)
+che @e ispirata da Dio.  La difficolt@a @e in |colui che meco
+s'assottiglia~ e specialmente in |meco.~  Seguendo con molti il
+^Benvenuto~ si pu@o intendere: "per colui -- tale il caso di Dante
+-- che si sforza d'investigare sottilmente la ragione della mia
+giustizia e cio@e della giustizia divina che in me -- l'Aquila --
+soprattutto risplende".  Ma il senso di |meco~ @e un po' sforzato:
+Si potrebbe forse intendere: "per chi si sforza d'investigare la
+sottile questione con me che l'ho esposta ora" (70 sgg.).
+
+	|85-90.  menti grosse~: menti grossolane, ottuse (^Inf.~,
+XXXIV, 92; ^Par.~, I, 88).  -- |La prima~ ecc.  La volont@a di
+Dio, che @e |buona~ in s$e e di per s$e stessa, non si @e mai
+allontanata |da s$e ch'@e sommo ben~, cio@e @e restata sempre tale. 
+Ed @e |giusto~ tutto ci@o (|cotanto~) che @e conforme (|consona~) ad
+essa (^Mon.~, II, ii, 4-6): nessun |bene creato~ pu@o attirare a
+s$e la divina volont@a, ma anzi @e |essa~ che, irradiando da s$e la
+sua bont@a, |cagiona~ ogni "bene creato".  Dunque @e giusto solo
+ci@o che @e conforme alla volont@a divina ed @e anche buono, perch$e
+tale volont@a @e somma bont@a da cui deriva ogni bene.  Nei versi 70
+sgg. @e implicito il dubbio se <certe genti non abbiano, sopra
+altre, prerogative e meriti per cui alle prime sia offerta la
+grazia di Dio in Cristo, all'altre no.  Cos@i non @e.  Lungi
+dall'essere attirato dal bene delle creature, @e Iddio -- dice
+l'Aquila a Dante -- che, irradiando la sua luce, cagiona esso
+bene> (^Vandelli~).
+
+	|91-96.  sovresso il nido~...  |Quale la cicogna, poi che
+ha pasciuti i figli, si rigira~ a volo (cfr. v. 97) sopra |il
+nido, cotal si fece la benedetta imagine~ -- "l'uccel di Dio",
+l'Aquila -- |che movea l'ali sospinte da tanti consigli~, da
+tante volont@a: quelle perfettamente concordi degli spiriti che la
+formavano; |e come quel~ -- dei "figli" della "cicogna" -- |ch'@e
+pasto~, pasciuto (lat. ^pastus~), rimira amorosamente lei, la
+cicogna, la madre, cos@i anch'io levai gli occhi verso l'Aquila
+(|e s$i levai i cigli~).  L'Aquila dunque che ha saziato "il gran
+digiuno" di Dante (25-6) s'aggira amorosamente intorno a lui come
+la cicogna sul nido dopo aver |pasciuti i figli~; e Dante la
+guarda con filiale amore simile a cicognino che ha ricevuto il
+cibo dalla madre.  Prima il bellissimo paragone del falco (34-9,
+ora questo della cicogna che ha la stessa aderenza e lo stesso
+amoroso spirito di penetrazione.
+
+	|97-99.  Roteando~: ^rigirandosi~ (91) a volo.  --
+|Quali~ ecc.  Come @e incomprensibile a te ci@o che io canto
+(^Par.~, XVIII, 99 n.) cos@i voi mortali non potete penetrare le
+ragioni del |giudicio~ di Dio.
+
+	|100-105.  Poi~ ecc.  Dopo che quelle anime beate, che
+erano fuochi divampanti di divino amore (|lucenti incendi~ ecc.),
+|si quetaron~ -- ebbero posa: cessando di roteare -- e restando
+|ancor nel segno che fe'~ ecc., cio@e sempre disposte in figura
+d'Aquila, che @e l'insegna (|segno~) che fece i Romani degni di
+ottener reverenza da tutto il mondo (|al mondo reverendi~: forma
+e costruz. alla latina), |esso~ "segno", l'Aquila, ricominci@o:
+<|A questo regno~ -- dei Cieli -- non sal@i mai nessuno che non
+avesse creduto |in Cristo~ venturo o venuto; e cio@e, per usare le
+parole di Dante, |vel~ (congiunz. lat.) |pria~, o prima, |vel
+poi~, o poi, |ch'el si chiavasse~ (^Inf.~, XXXIII, 46), ch'egli
+fosse inchiodato, |al legno~ della croce.  Per |Cristo~ in rima
+cfr. ^Par.~, XII, 71-75 n.
+
+	|106-111.  molti gridan~ ecc.: molti, che hanno di
+continuo il nome di Cristo sulle labbra -- senza per@o attuare con
+opere gli ammaestramenti di Lui --, nel giorno del Giudizio (|in
+giudicio~) saranno assai men vicini (|prope~: prep. lat. =
+presso) a Lui, di tanti che non hanno segu$ito la fede di Cristo,
+per non averla conosciuta (70-2); |e l'Eti@ope~ -- che indica in
+genere chi ignora Cristo -- |danner@a~ lui stesso |tai~, certi,
+|Cristiani~ -- di nome non di fatto -- quando |si partiranno~, si
+divideranno, |i due collegi~ -- le due schiere (^Inf.~, XXIII, 91
+n.): dei beati e dei dannati (^Matt.~, XXV, 31 sgg.) --: |l'uno~,
+quello dei beati, |in eterno ricco~ della beatitudine, e
+|l'altro~, quello dei dannati, eternamente privo di essa
+(|inope~; lat. ^inops~: povero).  Il che richiama vari passi del
+^Vangelo~, tra cui ^Matt.~, VIII, 11-12, e un poco il ^furare~ e
+^l'offerere~ da cui esteriormente tanti giudicano gli uomini
+(^Par.~, XIII, 139 sgg.).  In |molti gridan "Cristo, Cristo!"~
+riecheggiano, con amarezza contro |tai~ Cristiani, le parole di
+|Cristo~ nel discorso della montagna: <Non chiunque mi dice
+^"Signore, Signore"~ entrer@a nel regno dei cieli; ma chi fa la
+volont@a del Padre mio che sta nei cieli, e solo costui, entrer@a
+nel regno del cieli> (^Matt.~, VII, 21; e cfr. ^Luc.~, XII,
+42-48).  E l'evangelico ^dice~ diventa in Dante |gridan~: a
+rilevar meglio la fede altamente celebrata solo a parole.
+
+	|112-114.  Che potran~ ecc.  Ma oltre a tanti Cristiani
+che non attuano i precetti di Cristo, ci sono dei reggitori
+cristiani, dei |regi~ -- che ^son molti e i buon son rari~:
+^Par.~, XII, 108 -- i quali non attuano la giustizia dell'Aquila
+"uccel di Dio", macchiandosi invece delle pi@u spregevoli colpe. 
+Si compie qui la rassegna dei pr$incipi di ^Purg.~, VII, 91 sgg. 
+-- |li Perse~: i Persi, i Persiani.  Designa in genere chi ignora
+Cristo; come ^Un uom~... ^Indo~ (70 sg.) e ^l'Eti@ope~ (109).  --
+|quel volume~: @e il ^volume du' non si muta mai bianco n$e bruno~
+(^Par.~, XV, 50 sg.) e dove da Dio @e registrato anche tutto il
+bene e il male (128 sg.) di ogni uomo (cfr. ^Apocalisse~, XX,
+12).  -- |suoi dispregi~: le loro spregevoli azioni.  Cfr.
+^Inf.~, VIII, 51.
+
+	|115-117.  L$i~: in detto ^volume~ {v.113}.  In tutto il
+passo c'@e una simmetria costruttiva che ricorda ^Purg.~, XII, 25
+sgg. (cfr. ^ivi~, n. 25-63).  Infatti tre terzine cominciano con
+|L$i si vedr@a~ (vv. 115, 118, 121), tre con ^Vedrassi~ (vv. 124,
+127, 130), tre con ^E~ (vv. 133, 136, 139). -- |Alberto~:
+d'Austria (^Purg.~, VI, 97 sgg.) -- |quella~ ecc.: quella che
+|tosto mover@a la penna~ di Dio a registrarla nel detto "volume"
+(113).  Si allude all'abusiva e ingiustificata invasione e
+devastazione |del regno~ di Boemia -- detto |di Praga~ dalla sua
+capitale -- dove regnava Venceslao cognato di Alberto.  Ci@o fu
+|tosto~: nel 1304.
+
+	|118-120.  il duol~ ecc.: il dolore arrecato a Parigi --
+che sta |sovra Senna~ -- e a tutta la Francia da Filippo il Bello
+che, facendo coniare monete di valore inferiore a quello nominale
+e quindi "false", con lo scopo di provvedere alla guerra di
+Fiandra, <guast@o e disert@o il paese> (^G. Vill.~, VIII, 58). 
+Filippo mor@i nel 1314 in seguito a una caduta da cavallo,
+causata, mentre era a caccia, da un cinghiale che gli attravers@o
+la strada.  Ma quel cinghiale, quel <porco salvatico> (^G.
+Villani~, IX, 66), Dante lo designa con la sua |cotenna~, la
+pelle propria del porco, perch$e in |colpo di cotenna~ meglio
+appaia la vile fine di uno che ben la meritava.
+
+	|121-123.  ch'asseta~ ecc.: che d@a agli uomini sempre
+maggior sete -- di possesso e potenza -- e |che fa folle lo
+Scotto~, lo Scozzese, e |l'Inghilese~, l'Inglese, in modo tale
+che l'uno e l'altro |non pu@o soffrir~ -- tollerare, rassegnarsi
+-- di restare |dentro a sua m@eta~: entro i suoi confini (^Purg.~,
+XIV, 144 n.).  Allusione ai re di Scozia e d'Inghilterra in lotta
+fra loro, ma se c'@e allusione particolare, questa non @e certa;
+tanto pi@u che Dante non ebbe forse perfetta notizia delle vicende
+dei due paesi.
+
+	|125-126.  quel di Spagna~ ecc.: Ferdinando IV, re di
+Castiglia dal 1295 al 1312 e Venceslao IV (^Purg.~, VII, 101 n.)
+re di Boemia (|Boemme~).  -- |valor~: virt@u.
+
+	|127-129.  Ciotto~: zoppo.  Tale fu Carlo II re di Napoli
+(^Purg.~, VII, 127; XX, 79; ^Par.~, VI, 106; VIII, 82) onde fu
+soprannominato |il Ciotto.~  Da Carlo I eredit@o anche il titolo
+di re ^di Gerusalemme.~  -- |segnata~ ecc.: la sua |bontate~ si
+vedr@a |segnata~ nel "volume" di Dio (113 sg.) col segno
+dell'unit@a, laddove le malvagit@a saranno annotate col segno del
+migliaio, con |emme~ -- |I~ ed |M~ naturalmente come numeri
+romani -- e cio@e <per ognuna bontade, malizie mille> (^Lana~).
+
+	|131-135.  di quel che guarda~ ecc.: del nipote di
+Manfredi, Federico II re di Sicilia (^Purg.~, III, 116; VII, 119
+nn.), il quale |guarda~, governa, appunto quest'|isola~; detta
+|del foco~ con riferimento all'Etna (^Inf.~, XIV, 56).  In
+Sicilia mor@i il vecchio Anchise, padre d'Enea (^En.~, III, 707
+sgg.).  -- |e a dare~ ecc.: e, a far capire quanto Federico sia
+dappoco, la sua partita nel "volume" di Dio sar@a registrata con
+|lettere mozze~, con abbreviature, che |in parvo loco~, in
+piccolo spazio, |noteranno molto~: i molti suoi vizi.  Sebbene i
+suoi falli siano molti, un uomo cos@i dappoco non meriter@a che si
+perda con lui spazio e tempo: <poche abbreviature stenografiche,
+e sar@a presto finita col fastidio di dover occuparsi della sua
+nullit@a> (^Parodi~, ^Bull.~, XXIII, 63).  Nulla forse poteva
+avere la forza demolitrice di queste |lettere mozze.~
+
+	|136-138.  parranno~: appariranno: nel "volume" di Dio
+(113 sg.).  -- |sozze~: qui e altrove senti come trabocchi la
+nausea di Dante espressa dal "sacrosanto segno".  -- |del barba~:
+dello zio (|barba~: voce ancor viva in alcuni dialetti) di
+Federico II, cio@e Giacomo re di Maiorca, |e del fratel~ -- cio@e
+Giacomo II: prima re di Sicilia, poi d'Aragona (^Purg.~, VII,
+119) -- |che han fatte bozze~, disonorate, |due corone~ -- di
+Maiorca e d'Aragona -- e |tanto egregia nazione~: nascita,
+prosapia, stirpe.  Nota che ^bozza~ fu detto l'uomo vituperato
+dall'infedelt@a della moglie; onde bene l^'Ottimo~: <hanno
+^adontata e adulterata~ la casa ecc.>.
+
+	|139-141.  quel di Portogallo~: Dionisio l'Agricola, re
+di Portogallo dal 1279 al 1325, <tutto dato ad acquistare avere,
+quasi come uno mercatante...: nulla cosa reale, nulla cosa
+magnifica si puote scrivere di lui> (^Ottimo~).  Meglio @e
+giudicato dalla storia.  -- |di Norvegia~: Acone VII Gambalunga,
+re di Norvegia dal 1299 al 1319; di cui Dante dovette aver vaghe
+notizie.  -- |Rascia~: comprendeva parte della Serbia, della
+Bosnia, della Croazia e della Dalmazia.  Si allude qui a Stefano
+Urosio II Milutino, re |di Rascia~ dal 1276 al 1321, il quale
+alter@o <la lega dei suoi "grossi" che, per la loro somiglianza,
+erano ricevuti dappertutto al medesimo tasso dei "matapan" veneti
+d'argento fine> (^St. dant.~, III, 161).  Ma per suo |male~
+(^Purg.~, IV, 72) egli |ha visto~ -- e contraffatto -- |il conio
+di Vinegia~, di Venezia, poich$e oltre alla mala fama s'@e forse
+acquistata anche la dannazione.
+
+	|142-144.  se non~ ecc.: |se non si lascia pi$u
+malmenare~, come la malmenarono re anteriori ad Andrea III, che
+fu re dal 1290 al 1301 e l'ultimo della stirpe di Santo Stefano.
+Mentre Dante scriveva questi versi era re d'ungheria Carlo
+Roberto d'Angi@o (1301-1342) <signore di grande valore e prodezza>
+(^G. Villani~, XII, 6), figlio di quel Carlo Martello cos@i caro a
+Dante (^Par.~, VIII, 46 sgg.).  -- |e beata~ ecc.: e beata la
+Navarra |se del monte che la fascia~, i Pirenei, |s'armasse~ come
+d'un baluardo a difesa!  La signoria francese che la minacciava
+si estese di fatto poco dopo il 1300 sulla Navarra, poich$e
+Giovanna, figlia ed erede di Enrico I, spos@o nel 1284 Filippo il
+Bello e alla morte di lei (1304), che aveva continuato a
+governare il suo regno, le successe il figlio Luigi che fu cos@i
+re di Navarra e, alla morte di Filippo il Bello, anche re di
+Francia col titolo di Luigi X.
+
+	|145-148.  E creder~ ecc.  E ognuno deve ritenere, come
+sicura anticipazione (|arra~: ^Inf.~, XV, 94 n.) |di questo~ --
+di ci@o che la Navarra dovr@a soffrire dalla signoria francese --,
+il ^lamentarsi~ e il ^garrire~ (qui: gridare, stridere per
+dolore) che |gi@a~ fanno |Nicos$ia e Famagosta~ -- citt@a principali
+dell'isola di Cipro -- per il crudo governo della |lor bestia~,
+Arrigo II di Lusignano re di Cipro dal 1285 al 1324; il quale,
+d'origine francese come Luigi che dominer@a la Navarra (n. prec.),
+|non si scosta dal fianco de l'altre~ "bestie"; e cio@e, nel fare
+il male, va di pari passo con gli altri mali reggitori cristiani,
+sferzati nella presente invettiva e tutti fieramente bollati come
+^bestie~ in quest'ultimo verso.  @E sempre l'Aquila che parla e si
+noti lo sdegno suscitato dalla loro corruttela; che, vergognosa
+di per s$e, impedisce alla santa Giustizia dell'Aquila di attuarsi
+nel mondo.

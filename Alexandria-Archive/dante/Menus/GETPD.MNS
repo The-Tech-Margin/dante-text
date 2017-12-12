@@ -1,0 +1,345 @@
+{GETPD}
+
+:COMPARE @SELECTION
+     TO "Signoff!"
+	:SET #EPVLG ~0~
+	:PAUSE
+	:SET @SELECTION ~S~
+     TO "S"
+	:RETURN
+     TO "m|r|p"
+	:PARSE @SELECTION UPPER
+	:RETURN
+:DONE
+
+; See if a selection of print options is already set in @PRESELECT. 
+; If so, use that.
+
+:SET @TMP ~@PRESELECT~
+
+:COMPARE @TMP
+     TO ""
+	:PRINT ~@HEADING_Query selected for @STEXT:\n\n~
+
+	:COMPARE @BR
+	     TO "0"
+		:PRINT ~      \o2ALL @MXDOCS DOCUMENTS IN DATABASE\f2\n~
+		:SET #DOCS ~@MXDOCS~
+		:SET @DOC ~?~
+	     TO "1-999"
+		:BRS QUERIES USING ~@BR~
+	:DONE
+
+	:PRINT ~\n@PTEXT~
+
+	:COMPARE @PTEXT
+	     TO "*"
+		:SET @P1 ~~
+		:SET @M1 ~~
+	     TO ""
+		:SET @P1 ~\o2O\f2 to Order paragraphs for @STEXT_ing\n\t~
+		:SET @M1 ~O|o|~
+	:DONE
+
+	:SET @DEFAULT ~#ZD~
+
+	:COMPARE @BAVAIL
+	     TO "No"
+		:SET @P2 ~~
+		:SET @M2 ~~
+		:COMPARE @DEFAULT
+		     TO "B"
+		     	:SET @DEFAULT ~F~
+		:DONE
+
+	     TO "Yes"
+		:SET @P2 ~\o2B\f2 to @STEXT Brief output\n\t~
+		:SET @M2 ~B|b|~
+	:DONE
+
+	:COMPARE @CAVAIL
+	     TO "0"
+		:SET @P3 ~~
+		:SET @M3 ~~
+		:COMPARE @DEFAULT
+		     TO "C"
+		     	:SET @DEFAULT ~F~
+		:DONE
+
+	     TO "1"
+		:SET @P3 ~\o2C\f2 to @STEXT terms in Context (hits)\n\t~
+		:SET @M3 ~C|c|~
+	:DONE
+
+	:PRINT ~Selections for @STEXT are:\n
+	\o2F\f2 to @STEXT Full output
+	@P2@P3\o2E\f2 to @STEXT specific paragraphs
+	@P1\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+	:GET @TMP -
+	     ~Enter your selection [@DEFAULT]: ~ -
+	     "F|f|H|h|E|e|S|s|@M1@M2@M3"
+
+	:PARSE @TMP UPPER
+
+     TO ""
+	:SET @TMP ~@DEFAULT~
+
+     TO "S"
+	:COMPARE @SELECTION
+	    TO "M|R"
+		:SEND ~RC~
+		:SHOW BEFORE "*"
+	:DONE
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "H"
+	:SET @TMP ~~
+	:MENU ~GETPD_HP~
+
+     TO "O"
+	:SET @PRESELECT ~O~
+	:MENU ~ORDER_~
+
+     TO "M"
+	:SET @PARS ~UPDATE,ALL~
+	:SET @FMT ~No~
+
+     TO "B"
+	:SET @PRESELECT ~B~
+	:SET @PARS ~ALL~
+	:SET @FMT ~@FFMT~
+	:REQUEST ~FF,#CP_DANTB.fmt~
+
+     TO "F"
+	:SET @PRESELECT ~F~
+	:SET @PARS ~ALL~
+	:SET @FMT ~@FFMT~
+	:REQUEST ~FF,#CP_DANT.fmt~
+
+     TO "C"
+	:SET @PRESELECT ~C~
+	:SET @PARS ~ALL~
+	:SET @FMT ~@FFMT~
+	:REQUEST ~FF,#CP_DNTE.fmt~
+
+     TO "E"
+	:PRINT ~\c@HEADING_Options for paragraph specification are:\n
+	\o2L\f2 to List paragraphs
+	\o2Q\f2 to return to previous selection screen
+	\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+	:GET @PARS ~Specify paragraphs to @STEXT [@PSPEC]: ~
+
+	:PARSE @PARS UPPER
+	:COMPARE @PARS
+	     TO "#1:L"
+		:SET #HEADING ~@HEADING_Paragraph Labels (continued):\n\n~
+		:PRINT ~@HEADING_Paragraph Labels:\n\n~
+
+		:SEND ~GE~
+
+		:SET #PPROMPT ~Specify paragraphs to @STEXT [Continue]: ~
+		:SHOW
+
+		:GET @PARS ~\n#PPROMPT~
+		:SET #PPROMPT ~~
+
+		:COMPARE @PARS
+		     TO ""
+			:MENU
+		:DONE
+
+		:PARSE @PARS UPPER
+
+	     TO "#1:Q"
+		:SET @TMP ~~
+		:MENU
+
+	     TO "#1:H"
+		:MENU ~GETPD_HE~
+
+	     TO "#1:S"
+		:COMPARE @SELECTION
+		     TO "M|R"
+			:SEND ~RC~
+			:SHOW BEFORE "*"
+		:DONE
+		:SET @SELECTION ~S~
+		:RETURN
+
+	     TO "#3:ALL"
+		:SET @PARS ~-ALL~
+
+	     TO "*"
+		:SET @PSPEC ~@PARS~
+
+	     TO ""
+		:SET @PARS ~@PSPEC~
+	:DONE
+
+	:SET @FMT ~No~
+:DONE
+
+:BRS PRINT PARAGRAPHS ~@PARS~
+
+:COMPARE #RESULT
+     TO "*"
+	:PRINT ~\n\o5 Invalid paragraph specification (#LEFTOVER) \f5\n~
+	:PAUSE
+
+	:SET @PSPEC ~SHRT,HITS~
+	:SET @TMP ~~
+
+	:MENU
+:DONE
+
+:COMPARE @SELECTION
+     TO "D"
+	:COMPARE @TMP
+	     TO "C"
+		:SET @PSTAT ~PRINT~
+		:MENU ~CNTXT_~
+	     TO "B"
+		:SET @PSTAT ~ENTER~
+		:MENU ~BRIEF_~
+	:DONE
+	:COMPARE @DOC
+	     TO "?"
+		:COMPARE #DOCS
+		     TO "1"
+			:SET @DOC ~1~
+		:DONE
+	     TO "1"
+		:COMPARE #CSFLAG
+		     TO "Y"
+			:GET @TMP
+		:DONE
+	     TO "?"
+		:GET @DOC ~
+Enter Document number (max is #DO); \o2H\f2 for Help; \o2S\f2 to Search [1]: ~-
+	MATCH "H|h|S|s|1-#DOCS|"
+
+		:COMPARE @DOC
+		     TO "H|h"
+			:SET @DOC ~?~
+			:MENU ~GETPD_HD~
+		     TO ""
+			:SET @DOC ~1~
+		     TO "S|s"
+			:SET @SELECTION ~S~
+			:RETURN
+		:DONE
+	:DONE
+
+	:COMPARE #EPVLG
+	     TO "0"
+		:SET @M1 ~~
+	     TO "1"
+		:SET @M1 ~M|m|~
+	:DONE
+
+	:BRS PRINT DOCUMENT ~@DOC~
+	:SET @M2 ~@FMT~
+	:SET @FLAG ~~
+	:SET @TMP ~~
+
+	:MENU ~OUTPT_~
+
+     TO "P|R|M"
+	:PRINT ~\n~
+
+	:GET @P1 -
+	~Enter documents for @STEXT; \o2H\f2 for Help [Cancel]:\n   --> ~
+
+	:PARSE @P1 UPPER
+
+	:COMPARE @P1
+	     TO "#1:H"
+		:MENU ~GETPD_HD~
+	:DONE
+
+	:SET #RESULT ~@P1~
+
+	:COMPARE #RESULT
+	     TO "*"
+		:BRS PRINT DOCUMENT ~@P1~
+		:COMPARE #RESULT
+		     TO "*"
+			:SET #RESULT ~Repeat~
+		     TO ""
+			:SET #RESULT ~Good~
+		:DONE
+
+	     TO "Repeat"
+		:PRINT ~\n\o5 Invalid document list \f5\n~
+
+		:COMPARE @SELECTION
+		    TO "P|R"
+	     		:PAUSE
+			:SET @TMP ~~
+		:DONE
+
+		:MENU
+
+	     TO ""
+		:PARSE @STEXT UPPER
+		:PRINT ~\n\o5 @STEXT has been cancelled \f5\n~
+		:PARSE @STEXT LOWER
+
+		:COMPARE @SELECTION
+		     TO "M|R"
+			:SEND ~RC~
+			:SHOW BEFORE "*"
+		:DONE
+
+		:PAUSE
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+     TO "P"
+	:COMPARE #ZH
+	     TO "No"
+		:SEND ~X8-~
+		:SHOW BEFORE "*"
+	:DONE
+
+	:SEND ~YP,@RECEIPT~
+	:SHOW BEFORE "*"
+
+	:COMPARE #LEFTOVER
+	     TO "0*"
+		:PARSE @RECEIPT EXTRACTING @TMP USING ~,~
+		:PRINT ~\nOutput assigned receipt number @TMP\n~
+		:SET #LEFTOVER ~~
+	     TO "*"
+		:PRINT ~\n\o5 Unable to queue output \f5\n~
+	:DONE
+
+	:COMPARE #ZH
+	     TO "No"
+		:SEND ~X8+~
+		:SHOW BEFORE "*"
+	:DONE
+
+     TO "M|R"
+	:PRINT ~\nCollecting data in progress ...\n~
+	:SEND ~P~
+	:SHOW BEFORE "*"
+	:SEND ~RE~
+	:SHOW BEFORE "*"
+	:PRINT ~Data collection complete\n~
+
+     TO "M"
+	:PAUSE
+	:SET @FLAG ~12~
+	:MENU ~EDVFY_~
+:DONE
+
+:PAUSE
+:SET @SELECTION ~S~
+:RETURN

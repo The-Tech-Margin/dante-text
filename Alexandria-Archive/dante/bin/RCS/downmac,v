@@ -1,0 +1,46 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.12.19;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@shell script to prepare .s files for macintosh dowloading.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh -f
+
+# downmac-shell script to prepare .s files for macintosh dowloading.
+# Accepts multiple files as argument, labelling the output files
+# with the filename, plus the suffix ".m".
+#	Usage: "tomac file ...
+# Written by Jonathan Altman
+
+if ($#argv == 0) then
+	echo Usage: $0 "file ..."
+	exit 1
+endif
+
+umask 002
+set RTFDOWN=$Dante/lib/rtfdown.sed
+set RTFHEAD=$Dante/lib/rtfdown.head
+foreach FILE ($argv)
+echo Preparing $FILE
+set OUTPUT=$FILE:r.m
+sed -f $RTFDOWN $FILE | cat $RTFHEAD - | text2mac -n $FILE > $OUTPUT
+echo File $FILE ready to download.  Run Darterminal download of $OUTPUT.
+end
+@

@@ -1,0 +1,101 @@
+	|2.~ |(ed.  Rosini)~
+Verso di noi.  [richiamo marginale] [Sessa]
+
+	|4-6.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+Dificio.  [richiamo marginale] [Sessa]
+
+	|12.~ |(ed.  Rosini)~
+^Trasparean~, per il diaccio, ^come festuca in vetro~.  Comparazione.  
+[Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+Inverte.  [richiamo marginale] [Sessa]
+
+^Inverte~, volge.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+Lucifero.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+^Gelato e fioco~, stupido e muto.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+Fior d'ingegno.  [richiamo marginale] [Sessa]
+
+	|28.~ |(ed.  Rosini)~
+Lucifero.  [Da Fino]
+
+	|35.~ |(ed.  Rosini)~
+Elocuzione Lucreziana:
+
+	<^...  mortales tollere contra~
+^	Est oculos ausus~> [Sessa]
+
+	|41.~ |(ed.  Rosini)~
+Sovresso.  [richiamo marginale] [Sessa]
+
+	|45.~ |(ed.  Rosini)~
+^Avvalla~, sbocca.  [Da Fino]
+
+	|50.~ |(ed.  Rosini)~
+^Quelle svolazzava~.  Svolazzar l'ali.  [Sessa]
+
+	|56.~ |(ed.  Rosini)~
+^Maciulla~, gramola.  [Da Fino]
+
+	|60.~ |(ed.  Rosini)~
+^Brulla~, nuda.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+^Avvinghiai~, cinsi.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^Appigli@o s@e~.  ^S@e~, senza contraposizione.  [Sessa]
+
+	|75.~ |(ed.  Rosini)~
+Del diaccio.  [Da Fino]
+
+	|90.~ |(ed.  Rosini)~
+^Burella~, via stretta.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^Divella~, parta.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+Erro.  [richiamo marginale] [Sessa]
+
+	|105.~ |(ed.  Rosini)~
+Tragitto.  [richiamo marginale] [Sessa]
+
+	|108.~ |(ed.  Rosini)~
+Lucifero.  [Da Fino]
+
+	|110.~ |(ed.  Rosini)~
+^Punto~, centro.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+Le cose gravi.  [Da Fino]
+
+	|113.~ |(ed.  Rosini)~
+La gran secca.  [richiamo marginale] [Sessa]
+
+^Secca~, terra.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+Cristo.  [Da Fino]
+
+	|116.~ |(ed.  Rosini)~
+^Spera~, sfera.  [Da Fino]
+
+	|117.~ |(ed.  Rosini)~
+^Giudecca~ Jerusalem.  [Da Fino]
+
+	|118.~ |(ed.  Rosini)~
+Antipodi.  [Da Fino]
+
+	|137.~ |(ed.  Rosini)~
+^Tanto, ch'io vidi delle cose belle~.  Elocuzione.  [Sessa]
+

@@ -1,0 +1,54 @@
+**The Dartmouth Dante Project database combines computer
+technology with more than 600 years of commentary 
+tradition on Dante's major poem, the _Divina Commedia_.  
+This gives scholars easier access to the full texts of 
+many rare, important and difficult to obtain critical works. 
+
+**The Dante Project has combined these commentaries with a 
+search program, called BRS/Search(TM).  BRS/Search(TM) 
+performs very rapid textual searches.  Consultations of 
+text taking many days to complete in a library can be 
+performed in minutes using the Dartmouth Dante Database.
+
+**By reducing the time and effort required by preliminary
+research, the Dartmouth Dante Database allows scholars to 
+spend more time actively working out ideas. In addition, 
+the speed and flexibility of the searches may enhance 
+scholars' insight into their material.
+
+**Subscription accounts for access to the Dante Project 
+database are available to any person or institution.  
+Currently, there is no subscription fee.  (The Dante Project 
+hopes to be able to continue this policy for as long as 
+possible.  Should subscription fees become necessary, 
+they will be minimal and announced well in advance of 
+their inception.)
+
+**The Dartmouth Dante Project is an ongoing effort to put 
+the entire texts of over 60 commentaries into a searchable 
+database which anyone can access via computer.  We 
+currently have 31 of these commentaries on-line.  More will 
+be added as they become ready for inclusion.  We constantly 
+are seeking to improve our searching program, so you may 
+notice small changes in the database from time to time.  All 
+major changes will be announced in advance.
+
+The database is available on a Dartmouth College central computer which
+is accessible by several methods including:  direct connection by
+modem, the Telenet network, and the Internet network.  Our Internet
+address is eleazar.dartmouth.edu
+
+The database is normally available every day, all day except 
+Monday mornings 4:15-6:30 Eastern Time.
+
+To obtain further information, open an account, or ask questions, our
+address is:
+
+   Dartmouth Dante Project 
+   1 Reed Hall HB 6087 
+   Dartmouth College
+   Hanover, NH 03755
+
+   Phone:(603)646-2633 
+   Electronic mail to 
+   dante@dartmouth.edu

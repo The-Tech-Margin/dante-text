@@ -1,0 +1,863 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS NONUS, ^in quo ponit
+falsatores coniorum, et de~ ^omnibus in facto et dicto, qui omnes
+sunt leprosi; et de modo~ ^poenae eorum sub titulo magistri Adami
+de Romena, et aliorum~ ^multorum ad eamdem poenam existentium.~
+
+	|PROEMIO~  ^La molta gente e le diverse piaghe.~ 
+Postquam in superiori capitulo proxime praecedenti autor noster
+tractavit et determinavit de poena scismaticorum, qui puniuntur
+in nona bulgia, diversis vulneribus; nunc consequenter in
+praesenti capitulo XXVIIII agit et tractat de poena falsatorum,
+qui puniuntur in decima bulgia variis morbis.  Et praesens
+capitulum potest breviter dividi in quatuor partes generales; in
+quarum prima autor retangit aliquid de materia praecedenti
+faciens mentionem de uno spiritu suae stirpis, qui fuit de numero
+scismaticorum.  In secunda describit poenam et supplicium
+falsatorum in generali, ibi: ^Quando noi fummo.~  In tertia
+tractat de una specie falsationis, quae vocatur Alchimia, in
+duobus spiritibus alchimistis qui fuerunt tempore suo moderni,
+ibi: ^Passo passo.~  In quarta et ultima facit unam exclamationem
+digressorie contra gentem senensium vanissimam, de qua incidenter
+facta erat mentio, ibi: ^Et io dissi.~
+
+	|1-3.~  Ad primum ergo veniens dico, quod autor adhuc
+insistens materiae praedictae facit mentionem de quodam
+scismatico de domo sua damnato inter superiores; et continuans se
+ad praecedentem materiam dicit, quod erat ita abstractus ad
+considerandum multitudinem et multiplicitatem poenarum, quod
+nesciebat recedere inde.  Dicit ergo: |La molta gente~, idest,
+multitudo scismaticorum nonae bulgiae, |e le diverse piaghe~,
+idest, diversitas vulnerum, |avean s@i inebriate le mie luci~,
+idest, ita gravaverant meos oculos intellectuales, |che eran
+vaghe de lo star a piangere~: quia quanto magis scrutabatur inter
+istos, tanto magis invitabatur ad planctum ex compassione humana,
+videns tot vulnera et tantum sanguinem humanum fusum saepe vitio
+pravae linguae, et specialiter occurrebat sibi unus de sua
+stirpe, super cuius mortem violentam lacrymabatur.  Et hic nota,
+quod per verbae praedicta autor vult dicere in effectu: ego eram
+adhuc totus intentus cum animo circa dictam materiam, et multa
+restabant dicenda propter magnitudinem materiae; sed Virgilius
+retraxit eum, quia liber non patitur quod plus dicatur,
+potissime, quia autor tam multa comprehendit in uno capitulo. 
+Unde est valde dignum notatione, quod autor in praecedenti
+capitulo in uno genere vitii posuit tot species poenarum
+diversarum, quia posuit Macomethum totum divisum omnibus
+visceribus horribiliter apparentibus; Aly in facie scissum;
+Petrum de Medicina foratum in gutture sine naso et auribus;
+Curionem sine lingua; Muscam sine manibus; Bertramum sine capite.
+
+	|4-6.  Ma.~  Hic autor ostendit quomodo Virgilius
+arguerit eum de mora et invitaverit eum ad celeritatem.  Unde
+dicit: |Ma Virgilio mi disse: che pur guate~? idest, quid amplius
+frustra respicis? |perch@e la vista tua~, idest, speculatio tua,
+|pur si soffolge l@a gi@u~, scilicet in fundo bulgiae nonae, |tra
+l'ombre triste smozzicate~? scilicet, scismaticorum privatorum
+diversis membris; ideo bene tristes, quia nullus est integer
+corpore, ut jam ostensum est discurrendo per multos.
+
+	|7-12.~  Et tangit causam suae petitionis, quia scilicet
+autor non consuevit sic facere in aliis poenis.  Unde dicit: |tu
+non hai fatto s@i all'altre bolgie~: et quia posset dicere Dantes:
+hoc ideo facio hic, quia vellem alia videre; dicit Virgilius:
+nimis haberes facere; unde statim tangit magnitudinem loci,
+dicens: |pensa che la valle~, idest, ista bulgia nona, |volge
+miglia ventidue.~  Et hic nota quod aliqui dicunt quod autor vult
+per hoc innuere, quod unaquaeque bulgia sit maior duplo sua
+sequenti, unde decima bulgia sequens continet undecim milliaria,
+sicut infra dicetur; et octava, quadraginta quatuor, et ita
+gradatim ascendendo vel descendendo; sed forte, secundum istam
+computationem infernus ascenderet ad nimis magnam quantitatem; tu
+vero videas: et tacta magnitudine loci, Virgilius tangit
+parvitatem temporis, dicens: |e gi@a la luna @ee sotto i nostri
+piedi.~  Per hoc autor dat intelligi quod erat quasi meridies,
+ita quod steterant duobus diebus et duabus noctibus, et medietate
+tertiae diei in inferno, ita quod sol, secundum dispositionem
+dictam XX capitulo, transiverat mediam diem tanto, quanto luna
+transcurrebat in quarta parte diei, ita quod largo modo poterat
+esse plusquam meridies per viginti minuta.  Ideo bene dicit: |Lo
+tempo @ee poco omai che n'@ee concesso~, quia habemus stare in
+inferno solum mediam diem, et unam noctem; quod est dicere:
+materia est longa, sed tempus breve, quia cito oportet perficere
+istum primum tractatum Inferni, |et altro @ee da veder che tu non
+vedi~, quia aliae fraudes restant describendae, scilicet falsatio
+et proditio, quae multum nos occupabit, quia est materia
+difficilis ad describendum.
+
+	|13-15.  Se tu.~  Hic autor facit suam excusationem,
+respondens Virgilio, et dicens: |rispos'io dappresso~, idest,
+statim post reprehensionem Virgilii, |forse m'avresti ancor
+dimesso lo star~, idest, forte concessisses mihi, quod ego adhuc
+remansissem ibi aliquandiu, |se tu avessi atteso a la cagion
+perch'io guardava.~  Et hic adverte quod Dantes loquitur hic ad
+modum passionati, quia non videtur recordari quod Virgilius
+noverit omnem intentionem suae mentis, quamvis secretissimam, ut
+jam saepe dixit, et dicet.
+
+	|16-21.~  Et intersecat autor artificiose quod Virgilius
+continuo recedebat, ipso sic loquente; ideo ordina sic literam
+quae videtur intricata: |lo duca~, scilicet Virgilius, |sen g$ia
+parte~, idest, interim, ita quod |parte~ non est hic nomen, imo
+adverbium, et est vulgare florentinum, quasi dicat: Virgilius
+ibat continuo dum responderem sibi; hoc ideo fingit quia nolebat
+amplius expendere tempus circa rem de qua non erat facienda
+mentio, nisi leviter in transitu; unde dicit: |et io li andava
+dietro gi@a facendo la risposta~, scilicet, de causa speciali quae
+me detinebat ad respiciendum adhuc ibi, unde dicit: |e
+sogiugnendo: credo ch'un spirto del mio sangue~, idest, quidam de
+genere Aldigheriorum, |pianga la colpa~, idest, crimen
+detractionis, |che tanto costa l@a gi@u~, idest, quae tam gravi
+poena punitur in fundo, |dentro a quella cava~, idest, intra
+illam bulgiam nonam cavatam, quam modo dimisimus, |dov'io tenea
+or gli occhi~, scilicet intellectuales, |s@i a posta~, idest, tam
+fixos de industria, cum tanto studio.  Et hic adverte, lector,
+quod autor non pepercit proprio sanguini in dicenda veritate,
+minus ergo mirari potes si non parcit aliis.
+
+	|22-24.  Allor.~  Hic autor ponit consilium Virgilii
+circa istam materiam, dicens: |allor disse il maestro~, scilicet
+Virgilius, qui dabat mihi bonam doctrinam in omnibus, |lo tuo
+pensier non si franga~, idest, non fatigetur, |da qui innanzi
+sovr'ello~, quasi dicat: non expendas amodo tempus circa ipsum,
+quia aliud est dicendum; unde dicit: |attendi ad altro~, scilicet
+ad novam poenam falsatorum, |et ei l@a si rimanga~, quasi dicat:
+remaneat in poena sua, quam bene promeruit;
+
+	|25-27.~  et ad quietandum animum autoris Virgilius dicit
+se vidisse hominem, et qualiter se habebat; unde dicit: |ch'io
+vidi lui a pi@e del ponticello~, idest, juxta pontem nonae
+bulgiae, ubi erat Bertramus del Bornio, |mostrarti e minacciar
+forte col dito~; iste enim quamvis fuisset juste trucidatus,
+tamen appetebat vindictam; et specificat ipsum per nomen, dicens:
+|et ud@i' nomar Geri del Bello.~  Ad cognitionem istius nominati
+est sciendum, quod Gerius iste vir nobilis fuit frater domini
+Cioni del Bello de Aldigheriis; qui homo molestus et scismaticus
+fuit interfectus ab uno de Sacchettis nobilibus de Florentia, de
+quibus fiet mentio capitulo XVI Paradisi, quia seminaverat
+discordiam inter quosdam; cuius mors non fuit vindicata per
+spatium triginta annorum.  Finaliter filii domini Cioni et
+nepotes praefati Gerii, fecerunt vindictam, quia interfecerunt
+unum de Sacchettis in ostio suo.
+
+	|28-30.~  Et respondet Virgilius quaestioni tacitae, quia
+enim Dantes dicere posset: et quomodo ego non vidi ipsum? dicit
+Virgilius: |tu eri allor s@i del tutto impedito~, idest, penitus
+occupatus cum oculis defixis, |sovra colui~, scilicet Bertramum
+del Bornio, |che gi@a tenne Altaforte~, quod est unum oppidum in
+Anglia quod olim Bertramus tenuit, ut jam dixi in capitulo
+praecedenti.  Et nominat istam terram nunc incidenter, quia non
+nominaverat eam supra, ubi agebatur de principali materia: |che
+non guardasti in l@a; s@i fu partito.~  Et bene dicit, quia de rei
+veritate autor debuit esse valde abstractus in fictione profunda,
+quam superius fecit in descriptione illius poenae mirabilis; ideo
+menti suae occupatae circa illam speculationem non occurrit
+Gerius del Bello, qui videbatur nominandus inter istos
+scismaticos vulneratos et laceratos; qui iti vita fuit truncatus
+ferro ob istam culpam, et post mortem caeditur a diabolo, sicut
+et alii.  Et forte autor nominat ipsum post Bertramum del Bornio,
+quia ipse detractaverat inter consanguineos; et ideo autor vult
+dicere tacite, quod ipse voluit potius facere fictionem
+pulcerrimam, utilem et fructuosam lectori de Bertramo viro probo,
+quam occupare cartam inutiliter de consorte suo Gerio del Bello,
+de quo non erat pulcrum facere sermonem longum, licet amor
+consanguinitatis stimularet eum.
+
+	|31-36.  O duca.~  Hic autor assignat causam Virgilio
+unius quod dixerat.  Virgilius enim dixerat quod viderat illum
+Gerium del Bello minilri fortiter cum digito; dicit ergo autor
+quod attinens suus hoc fecit ex indignatione mortis inultae. 
+Unde dicit: |diss'io: o duca mio~, idest, o Virgili, qui non
+permisisti me videre eum, |la violenta morte che non gli @ee ancor
+vindicata per alcun che sia consorte de l'onta~, idest, ad quem
+spectet ultio, quasi dicat: nec per alium consanguineum, nec per
+me.  Et hic dicunt aliqui quod Dantes fuit ille qui finaliter
+fecit vindictam de ista morte; sed istud non videtur verisimile,
+quia si ista vindicta nondum erat facta in MCCC, Dantes non
+potuit postea vacare talibus, qui habuit dare operam tanto operi,
+ut alias curas omittam; ideo dicit: |fece lui disdegnoso~,
+scilicet requirendi me, sicut feccrant multi alii socii eius,
+|ond'el sen g@io senza parlarmi~, ideo dicit: |e falto m'ha a se
+esser pi@u pio in ci@o~, quasi dicat: in hoc magis doleo et
+compatior, quia pulcrum et pium videtur facere vindictam de
+parentibus in isto mundo.  Et hic volo te notare, quod cum omnes
+homines naturaliter tendant ad vindictam, florentini maxime ad
+hoc sunt ardentissimi et publice et privatim; quod bene
+ostenderunt his temporibus ecclesiae romanae, cui fecerunt
+rebellare magnam partem Italiae, cum magna desolatione omnium
+terrarum et excidio multorum.  Unde credo quod signanter autor
+fecerit hic istam fictionem singulariter ista de causa, in qua
+ostendit, istum spiritum florentinum adeo indignari de vindicta
+non facta de eo, et se assentire illi.  Unde audivi optimos
+florentinos maxime damnantes genus florentinorum a nimio appetitu
+vindictae; ideo bene autor introducit Virgilium virum sapientem,
+qui dissuadet sibi hoc.  Nota etiam quod, licet pulcrum videatur
+facere vindictam, tamen multo pulcrius est remittere; quoniam
+pulcrum genus vindictae est parcere cum possis ulcisci.  Hoc
+autem est proprium magnanimi, quod bene magnanimus Caesar
+ostendit, qui raro vel numquam fecit vindictam de offensoribus,
+imo omnibus clementer pepercit, sicut patet apud Julium Celsum,
+Plinium, Svetonium et multos, de quo dicetur plene Paradisi
+capitulo VI.
+
+	|37-39.~  Et concludit autor in hac materia, dicens:
+|cos@i parlammo~, de dicta materia, |infino al loco primo~, idest,
+usque ad principium pontis decimi, scilicet ad ripam, quae
+dividit nonam bulgiam a decima, |che~, idest, qui locus primus,
+|mostra l'altra valle~, scilicet decimam et ultimam bulgiam, |de
+lo scoglio~, idest desuper ponte; et vult breviter dicere, quod a
+medio culmine noni pontis iverunt loquendo simul usque ad
+introitum alterius pontis decimi.  Et dicit: |se pi@u lume vi
+fosse tutto ad imo.~  Vult dicere, quod de isto ponte decimo, ad
+quem noviter appulerant, posset videri quidquid est in fundo
+illius vallis subiectae, si ibi esset plus luminis quam sit; et
+bene fingit, quia ista decima bulgia est maxime obscura, quia in
+ea puniuntur falsatores, sicut statim dicetur.
+
+	|40-45.  Quando noi fummo.~  Ista est secunda pars
+generalis, in qua autor tractat de generali poena falsatorum,
+quorum multae sunt species.  Ad cuius rei evidentiam est
+notandum, quod autor dat meritam poenam istis falsatoribus. 
+Fingit enim quod omnes sunt affecti variis morbis, languoribus et
+passionibus, sicut lepra, hydropisi, ethica, furia, febre; et sic
+omnes sunt corrupti in carne sua in dissolutionem suae naturae,
+per quod figurat quod isti falsatores corrupti mente, corruperunt
+omnia in destructionem naturae ipsarum rerum; et ex
+infirmitatibus et corruptionibus istis emanant magni foetores,
+quia isti corrumpentes naturalia et artificialia dicta et facta
+inficiunt alios, et eorum labes contagiosa polluit aerem vicinum,
+idest, gentes vicinas; et saepe pestis se extendit ad bene
+longinquos, sicut videmus de facto, quod una ars vel mercantia
+corrupta ultra montes, cito transit citra montes, et similiter
+corrupta citra mare, cito transit ultra mare, et e converso. 
+Magni etiam dolores audiuntur hic, quia tales falsatores
+communiter incurrunt magna mala, pericula, et damna, quibus non
+est remedium nisi dolor, planctus, lacrymae, suspiria, querelae,
+sicut patebit infra in singulis speciebus istorum.  Et sicut
+genera aegritudinum et species passionum sunt innumerabilia,
+infinita in corporibus humanis, ita quod tot libri physicorum
+adhuc non potuerunt comprehendere omnes, ita incomprehensibilia
+et inexplicabilia sunt genera fraudium et species falsitatum
+corrumpentia animas huminum, sicut est videre in omni minima arte
+mundi.  Nunc ad literam veniendo dico, quod autor designat primo
+causam per effectum, idest poenam per dolorem, dicens: |i versi~,
+idest, dura et dolorosa lamenta, |lor~, idest, illorum
+falsatorum, |che~, idest, qui versus, |avean li strali~, idest,
+sagittas et tela, |ferrati di piet@a~, idest, pungentia hominem ad
+pietatem et compassionem; ideo bene dicit: |ferrati~, quia illa
+lamenta erant efficacia ad penetrandum corda dura, et inhumana,
+|saettarmi la mente~, idest, sagittaverunt et vulneraverunt
+animam meam ad compassionem et misericordiam, |quando noi fummo
+sull'ultima chiostra~, idest, in ponte qui est super decimum
+claustrum, |di Malebolgie~, et appellat decimam bulgiam, quae est
+ultima, claustrum metaphorice; quia sicut claustrum continet
+religiosos ad ferendam poenitentiam, ita bulgia continet damnatos
+inclusos ad ferendam poenam.  Ideo dicit: |si che i suoi
+conversi~, idest, falsatores, qui sunt conversi istius falsae
+religionis; et conservat metaphoram: quia enim locum appellaverat
+claustrum, ideo habitatores talis claustri appellat conversos;
+|potean parere a la veduta nostra~, idest poterant apparere
+speculationi nostrae; et quia isti versus erant ita horribiles,
+dicit: |ond'io copersi l'orecchie con le mani~, scilicet ne
+audirem tam terribilem sonum, quia auditus humanus non poterat
+pati.
+
+	|46-51.  Qual.~  Hic autor explicat dolorem et foetorem
+praedictum, utrumque per comparationem; et vult sententialiter
+dicere, quod si omnis dolor procedens ex tribus locis
+pestilentibus esset simul collectus in una fovea, esset talis
+qualis est dolor qui procedebat hic ex una cavea, scilicet ex
+bulgia decima.  Dicit ergo primo de dolore: |il dolor era tal
+quivi~, idest, tam miserabilis, |qual esce fuor degli ospitali di
+Valdichiana.~  Ad hoc est sciendum, quod Chiana est quaedam
+vallis palustris, mortua et marcida in Tuscia inter Clusium,
+Aretium et Cortonam, in territorio civitatis Senarum, quae reddit
+aerem pestilentem in aestate, quando est intensus calor; de qua
+etiam fit mentio in capitulo Paradisi.  Juxta autem vallem istam
+erat illo tempore hospitale de Altopassu, ubi solebant esse multi
+pauperes infirmantes, et per consequens magnus dolor, |tra 'l
+luglio e 'l settembre~, idest, de mense augusti.  Sicut enim
+locus est causa infirmitatis, ita et tempus; maxime autem
+augustus est infirmus mensis etiam in locis sanis.  Et dicit: |e
+i mali~, idest, qualia mala exeunt, |di Maremma~, idest, de
+Maritima: in Maritima etiam romana solent multi infirmari dicto
+tempore, |e di Sardegna~, quia in Sardinia similiter multi
+infirmantur.  Et hic nota, quod in praedictis locis causae
+infirmitatum est corruptio aeris et aquae propter ventos
+meridionales et excessum caloris: unde insula Sardiniae habet
+aerem pestilentem, maxime circa extrema litora sua; non sic in
+mediterraneis montibus et locis; et tamen sardi magis habitant
+litora ad defensionem insulae quae est exposita barbaris.  Unde
+medici et mercatores accedentes de Italia in Sardiniam, cito
+infirmantur et moriuntur; |fossero tutti insembre in una fossa~,
+quasi dicat: si omnia mala narrata, quae sunt in his diversis
+locis et similibus, essent omnia aggregata in unum, talis esset
+dolor in tali fossa, qualis erat hic in una bulgia.  Et explicat
+foetorem post dolorem per unam comparationem communem et claram,
+dicens: e |tal puzzo n'usciva~, idest, tam horribilis et
+abhominabilis, |qual suol venir dalle membre marcide~; intellige
+vivorum potius quam mortuorum, quia comparatio est convenientior. 
+Et hic nota quod utraque comparatio est propria: sicut enim in
+praedictis locis palustribus et planis sunt multi et diversi
+planctus infirmorum laborantium diversis morbis propter humores
+corruptos ex aere pestilentiali; ita erant hic multi et diversi
+gemitus falsatorum laborantium diversis falsitatibus propter
+voluntatem animi corruptam ex aere infernali, idest inspiratione
+diabolica; et talis foetor imo multo peior tanto quanto morbus
+animi est peior quam morbus corporis.
+
+	|52-53.  Noi.~  Nunc autem praemissis signis indicantibus
+poenam, describit ipsam poenam; et primo ostendit, quomodo
+declinaverit ad ipsam poenam cernendam, dicens: |noi discendemmo
+in su l'ultima riva~, idest, transivimus totum pontem usque ad
+extremum ubi terminatur, ut sic de loco bassiore possemus melius
+videre poenas istorum, |del lungo scoglio~, idest, recte, in
+recta linea pontis, |pur da man sinistra~, quia semper in inferno
+itur ad sinistram; talis enim est via vitiorum.
+
+	|54-57.~  Et dicit: |ed allor la vista mia fu pi@u
+viva~, idest, vivacior et acutior ad videndum, |gi@u per io fondo~,
+idest, illius bulgiae, ubi erat poena, quam venabatur cum oculis,
+|l@a ove la giustizia infallibil~, quia justitia Dei non est
+fallibilis, sicut humana, |ministra de l'alto Sire~, scilicet
+omnipotentis Domini, |punisce i falsatori che registra qui~,
+idest, quos punit in ista bulgia decima; quando enim sententia
+datur contra reum, tunc registrari solet.
+
+	|58-66.  Non credo.~  Nunc autor volens describere poenam
+falsatorum praemittit unam comparationem, cuius haec est breviter
+sententia: quod ita erat tota gens istius bulgiae corrupta et
+infirma, sicut olim populus civitatis Eginae tempore cuiusdam
+pestis.  Ad intelligentiam autem claram istius comparationis,
+quam autor valde aperte tangit, est utile praescire fabulam, quam
+diffuse scribit Ovidius VII maioris.  Est ergo sciendum quod olim
+in Graecia in regione Athica, tempore quo rex Minos venit contra
+Athenas ob indignam mortem filii sui Androgei, regnavit quidam
+rex nomine Eacus pater Pelei et avus Achillis, in civitate quae
+vocata est Egina; quo regnante, pessima pestis invasit hanc urbem
+opera Junonis iratae.  Nam aer primo corruptus est spiratione
+ventorum calidorum australium, qui regnaverant per quatuor
+menses.  Deinde corruptae sunt aquae, et multa millia serpentum
+vagabantur per terras inficientia aquas venenis suis; et vis
+morbi primo invasit aves, canes et boves, nec pepercit nobilibus
+et fortibus equis; nec lupi audebant tangere cadavera.  Deinde
+pestis coepit serpere ad agricolas, deinde intravit ipsam urbem,
+et cives moriebantur morbo igneo cum facie inflammata rubore, nec
+medicamina proderant aliquid, imo pestis citius prosternebat eos;
+et ardore impellente recurrebant ad flumina, fontes et puteos,
+nec sitis extincta prius est quam vita bibendo; fugiebant lectum
+velut igneum, et debiles trahebant corpus per terram deserentes
+singuli domos suas, quia omnis locus videbatur infectus: et
+breviter terra erat repleta mortuis, qui cadebant sicut glandes
+de quercu, quando quatitur, nec poterat turba defunctorum
+sepeliri, imo multi cremabantur uno rogo, et multi remanebant
+insepulti.  Tunc rex Eacus attonitus tanta strage omnium, rogavit
+Jovem, ut vel redderet sibi suos, vel redderet eum numero
+aliorum.  Deinde videns quercum magnam consecratam Jovi, per quam
+ascendebant et descendebant formicae portantes grana longa acie,
+quarum multitudinem Eacus miratus rogavit Jovem ut daret sibi
+totidem cives.  Adveniente vero nocte cum rex obdormisset vidit
+in somnis praedictam quercum in prima forma plenam formicis, quae
+mota excutiebat formicas a se, quae cadentes in terram videbantur
+subito consurgere et paulatim crescere in rectum assumentes novam
+figuram, deponentes maciem et pedes et colorem nigrum.  Rex
+tandem excitatus, dum crederet somnium fuisse vanum, reperit in
+veritate viros renatos ex formicis, qui primo salutaverunt Eacum
+regem.  Rex vero divisit civitatem novo populo, et cives suos
+vocavit Mirmidones; nam Mirmidon graece, latine  formica.  Haec
+est breviter fictio, quae pro magna parte continet historiam
+veram.  Et primo quidem ista pestis fuit olim magna, quae
+spoliavit quasi totam dictam civitatem habitatoribus primis;
+sicut simile vidimus diebus nostris in multis terris, et de
+aliquibus audivimus, sicut in MCCCXLVIII quae orta in partibus 
+Orientis, ita fatigavit humanum genus, quod multae terrae
+desertae sunt etiam in Occidente nostro; et praecipue Sicilia
+fuit vexata ista epidemia, et Sardinia multo plus, quia ex decem,
+novem periisse dicuntur.  Postea in MCCCLXII fuit alia pestis
+magna; et pridie alia tertia.  Haec autem pestis Eginae venit ex
+mala corruptione aeris; ideo bene fingitur, quod fuerit causata
+ex ira Junonis, quia Juno dicitur Dea aeris a poetis; quod autem
+rex optaverit sibi mortem, satis videtur credibile visa tanta
+amissione suorum, sed quod invenerit magnam multitudinem
+formicarum sub quercu ferentium fruges, credo ego quod figurat
+quod rex, spoliata civitate civibus, collegit ex agris novos
+habitatores, quorum officium et exercitium erat circa fruges
+colligendas, et victum quaerendum sub quercu, cuius fructu olim
+vixerunt homines.  Ideo bene fingit, quod ex formicis reformatum
+est genus perditum; quia isti erant parvi corpore, fortes
+viribus, patientes laborum, parci, sobrii, solliciti ad
+acquirendum, tenaces ad conservandum, sicut sunt formicae, quales
+olim fuerunt rustici.  Unde Virgilius describens hanc vitam
+rusticanam, quam vocat beatam, dicit: ^Hanc olim vitam veteres
+coluere Sabini~: et antiqui Romani qui habuerunt ortum a
+pastoribus fuerunt tales.  Isti ergo deposuerunt primam formam et
+colorem nigrum, quem contraxerant stantes ad solem, et induerunt 
+novam figuram, scilicet humanam, quia facti sunt civiles ex
+rusticis.  Nunc ad literam; dicit autor: |non credo che maggior
+tristizia fosse~, imo vere minor fuit, quia corruptio quae fuit
+in Egina fuit a natura, hic vero a malitia mentis, |a vedere il
+popol tutto infermo in Egina~; de ista civitate facit frequentem
+mentionem Titus Livius, |quando fu l'aer s@i pien di malizia~,
+idest, mala pestilentia contagiosa, |che gli animali cascaron
+tutti~, scilicet, maiora et minora, |infino al picciol vermo~; et
+tacta dissolutione, tangit reformationem istius generis, dicens:
+|e poi le genti antiche~, scilicet, primi incolae civitatis
+Eginae, |si ristorar di seme di formiche.~  Et ut videas quantum
+comparatio sit propria est notandum, quod formica vermis parvus
+habet hoc proprium, quod in maiori aetate crescit in maiori
+virtute, et providus quaerit sibi escas, non faciens ut apis, sed
+congregans et recondens grana sicca  colligit, et si sint maiora
+ultra vires earum scindunt illa; vias autem ordinate observarit,
+ne exeuntes impediant intrantes obviando; grana humida siccant ne
+putrescant; pronosticantur ventos, quia ante tempus tempestatis
+reducunt se ad domos, et dicuntur ferre mortuas ad sepulturam; et
+dicit, |secondo che i poeti hanno per fermo~, quia licet fingant
+non mentiuntur; poeta enimn quantum est ex officio suo dicit
+verum, nam mendacium est falsa vocis significatio cum intentione
+fallendi: poeta autem non intendit fallere, sed potius instruere. 
+Non ergo erat maior tristitia videre populum infirmum in Egina,
+|ch'era a veder li spiriti languire~, scilicet falsatorum, |per
+quella oscura valle~, idest, bulgiam decimam, quae est valde
+obscura, ut jam dictum, |per diverse biche~, idest, diversas
+species.  Et hic nota quod pestilentia istius vallis est maior
+quam pestilentia Eginae, quia pestis Eginae corrumpebat solum
+corpora morientium; ista vero animas operantium.  Unde autor per
+istam corruptionem corporalem, quam hic fingit, dat intelligi
+spiritualem.  Unde anima peccatrix facit carnem corruptibilem,
+non caro corruptibilis facit animam peccatricem, ut ait
+Augustinus in libro de Civitate Dei;
+
+	|67-69.~  et specificat diversas poenas falsatorum,
+dicens: |qual~, idest, aliquis, |giacea sopra 'l ventre~,
+scilicet resupinate et extense per terram, |qual sopra le spalle
+l'un dell'altro~, idest, quod aliqui stabant unus super tergum
+alterius, |e qual~, idest, aliquis, |si trasmutava~, idest,
+falsificabat se, |carpon~, idest, eundo cum pedibus et manibus,
+|per lo tristo calle~, idest, per istam bulgiam tristem; et sic
+tetigit tres diversitates falsatorum.  Est et quarta species
+falsatorum, qui stant sedentes adhaerentes unus alteri, de qua
+dicit statim immediate; ideo forte non tetigit ipsam sub ista
+generali explicatione et distinctione.
+
+	|70-72.  Passo passo.~  Ista est tertia pars generalis,
+in qua autor agit et tractat de prima specie falsitatis quae
+appellatur Alchimia; et primo ostendit processum ipsorum ad istam
+materiam, dicens: |andavam~, scilicet, nos ambo, |passo passo~,
+quasi dicat: lento passu, |senza sermone.~  Et hic nota quod
+autor fingit quod hic ibant tarde et tacite, ubi supra ibant cito
+et continuo loquendo, ad indicandum quod modo tendebat ad
+materiam subtilem et occultam, ideo cum magna praemeditatione et
+abstractione; ideo dicit: |guardando et ascoltando~, idest,
+speculando attente, |gli ammalati~, idest, falsatores infirmos,
+|che non potean levar le lor persone~; licet enim aliqui
+moverentur, non tamen levabant corpus sursum, quia discurrebant
+cum manibus et pedibus more bestiarum.
+
+	|73-75.  Io vidi.~  Hic autor describit ipsam poenam
+Alchimistarum, quae quia obscura est, ad illius claritatem volo
+te notare cum tota attentione et intentione animi, quod numquam
+per Virgilium vel alium fuit inventa poena curiosior ista.  Est
+ergo poena Alchimistarum talis, quod stant simul sociati et
+appodiati unus alteri, sicut tegula coniuncta cum tegula, et sunt
+toti scabiosi et leprosi habentes squamas et maculas ad modum
+squamarum piscis; et continuo habent ardentissimum pruritum, et
+continuo se scalpunt cum tanto fervore quod continuo excutiunt a
+se maculas et bullas.  Imo ad propositum considera quomodo ista
+figura debeat intelligi: primo isti Alchimici stant sicut tegulae
+appodiati, quia tota die stant inclusi ad insufflandum in
+cineracium; et stant sociati simul, quia de rei veritate
+Alchimistae communiter colloquuntur, conversantur simul.  Unde
+sicut videmus de facto, nulli sunt artifices ita inter se
+familiares sicut Alchimici: nam si duo sunt in una terra, statim
+unus invenit alterum, et contrahit societatem secum.  Ulterius
+isti habent maximum pruritum, idest, insatiabilem appetitum,
+sicut vidi in multis; et continuo se scalpunt quia continuo se
+exercent ut possint adimplere appetitum suum, et excutiunt sibi
+crustas magnas et parvas, quia scilicet florenos anconitanos,
+bononinos et alios nummos expendunt et consumunt, et sic se
+expoliant, et denudant et pauperantur infeliciter.  Et adverte
+quod recte accidit Alchimistae sicut scalpenti.  Homo enim
+scalpit se cum delectatione, et quanto magis se scalpit, tanto
+magis intenditur, et incenditur pruritus, et ultimo quando est
+bene fatigatus, quid consequitur ex hoc? certe dolorem, et
+brusorem; ita recte est de Alchimista, quia post omnes labores,
+curas, impensas et damna, nihil lucratur nisi dolorem, angustiam,
+anxietatem; quia vivit in paupertate et calamitate, et efficitur
+ludibrium omnium.  Nunc ad literam: dicit autor: |io vidi duo
+seder poggiati a s@e~; idest, adhaerentes unus alteri, |come
+tegghia se poggia a tegghia a scaldar~, sicut quando fiunt
+adipata, sive herbulata; ita Alchimistae quotidie calefiunt ad
+ignem, et saepius sudant calore interiori quam exteriori, quando
+ars non respondet eis ad votum, |maculati di schianze~, idest,
+maculis malae scabiei, |dal capo ai pei~, idest, per totum
+corpus.
+
+	|76-81.~  Et explicat furiosam scalpedinem istorum per
+unam comparationem domesticam, dicens: |e non vidi giamai menare
+stregghia s@i~, idest, cum tanta festinantia, |dal ragazzo
+aspettato dal signorso~; tunc enim stabularius festinat multum
+strigilare equum quando expectatur a domino suo, qui vult
+equitare, |o da colui che mal volentier vegghia~, idest, vel a
+famulo pigro, qui vult cito ire dormitum, et ideo festinanter
+ducit strigilim, |come ciascun menava spesso el morso de l'unghie
+sopra s@e~, scalpendo se furiose et quasi mordendo, |per la gran
+rabbia del pizzicore~, idest, pruritus magni, |che non ha pi@u
+soccorso~, scilicet, quam solam scalpedinem unguium, quia nunquam
+consequuntur fructum, nisi quod habent delectationem in
+operatione, sicut scabiosus in scalpsione.  Et hic nota quantum
+comparatio ista, quae videtur grossa, est subtilissima.  Nam
+sicut ragatius in dies est pauperior et infamior, ita Alchimista;
+et sicut ragatius vult purgare animal brutum, nam strigilat equum
+ut excutiat ab eo superfluitatem accidentalem, quam acquisivit in
+sterquilinio; ita Alchimista vult purgare metallum immundum, unde
+plumbum est argentum leprosum, ut dicit philosophus.  Ad quod est
+hic sciendum, quod metalla sunt differentia inter se solum per
+accidentalem formam, non per substantialem, quoniam omnia metalla
+generantur ex argento vivo et sulphure.  Natura autem in suo
+principio intendit adducere perfectionem metalli, quia agit
+propter finem, ut dicitur secundo Physicorum.  Manifestum est
+ergo, quod si adducit aliquid aliud quam perfectionem, hoc est
+praeter intentum, et sic est per accidens.  Igitur in generatione
+auri concurrit sulphur rubeum mundum, et argentum vivum
+purificatum; in generatione argenti sulphur album mundum et
+argentum vivum purificatum; in generatione caeterorum concurrit
+sulphur album vel rubeum corruptum et argentum vivum putrefactum
+in vena putrida terrae.  Unde inter omnia metalla duo sunt
+solummodo perfecta, scilicet aurum et argentum.  Et ista
+producuntur secundum intentum naturae; caetera propter
+corruptionem suarum partium sunt insana et imperfecta.  Quam
+malitiam si Alchimista intendit sanare, reducendo illa in suas
+primas partes, scilicet in sulphur et in argentum vivum, cum
+calcinatione vel distillatione, non peccat.  Et ista purgata
+refrigere simul cum certis aquis vel succis herbarum.  Verumtamen
+licet ars ista forte sit vera, tamen non videtur possibilis apud
+modernos.  Unde videmus de facto, quod omnes veniunt consumti; et
+si reperitur aliquis antiquorum, nullus tamen modernorum, quem
+adhuc scire potuerim, consequitur finem suum.  Et sic loquendo de
+inferno morali, omnis Alchimista, sive licite sive illicite
+operetur, habet poenam suam, quia semper frustra laborat, ut
+acquirat inopiam et egestatem, ut supra demonstratum est.
+
+	|82-84.~  Et ostendit excussionem crustarum per
+comparationem claram et propriam squamarum piscis, dicens: |e
+l'unghie traevan s@i la scabbia gi@u~, idest, maculas scabiei, quas
+supra vocavit schiancias, |come coltello~, supple trahit, |le
+scaglie di scardova.~  Est enim |scardova~ quidam piscis vallinus
+albus, amplus, brevis, habens magnas squamas et spinas spissas,
+et est piscis sanus inter vallinos, |o d'altro pesce che l'abbia
+pi@u~ |larghe~, sicut forte est alius piscis vallinus maior
+praedicto, qui vocatur ^regina~ apud quosdam, apud alios vocatur
+^scarpa.~
+
+	|85-90.  O tu.~  Nunc autor ostensa poena Alchimistarum
+vult manifestare qui sunt isti duo Alchimistae ita certatim se
+scalpentes; et primo ostendit quomodo Virgilius allocutus fuerit
+alterum illorum exordiendo, dicens: |el duca mio cominci@o~,
+idest, Virgilius incoepit dicere, |a l'un di loro: O tu che ti
+dismaglie~, idest, spolias te maglis, idest maculis, |con le
+dita~, idest, cum unguibus digitorum, |e che fai talvolta
+tenaglie d'esse~, idest, de ipsis unguibus, quibus uteris tamquam
+tenaculis mordacibus et tenacibus, quasi dicat: o tu qui laboras
+ita valenter ducendo continuo manus; et petit dicens: |dimmi
+s'alcun latino @ee tra costoro~, idest, si aliquis italicus est
+inter istos se scalpentes, |che son quincentro~, et adiurat eum,
+dicens: |se l'unghia ti basti eternalmente a cotesto lavoro~;
+delectabile enim videtur scabioso scalpere; ideo optat sibi
+instrumentum indeficiens quo possit semper delectari, quasi
+dicat: si Deus det semper tibi ad laborandum.  Hoc enim summe
+appetit Alchimista, unde totum aes mundi consumeret, ut
+satisfaceret isti appetitui canino.
+
+	|91-93.~  Et subdit autor responsionem illius spiritus
+interrogati, dicens: |l'un~, scilicet ille interrogatus, |rispose
+piangendo: noi che tu vedi s@i guasti qui~, idest, ita excoriatos,
+|siam ambi dui latini~; et quia videtur respondisse quaesito,
+ideo statim sine alio exordio petit quis sit qui interrogavit,
+dicens: |ma tu chi se' che di noi dimandasti~? quasi dicat
+tacite: et an tu es latinus, qui petis de latinis? videtur quod
+sic.
+
+	|94-96.~  Et ponit responsionem Virgilii, dicens: |el
+duca disse: Io son un che discendo con questo vivo~, quasi dicat:
+sum unus mortuus qui olim in vita ostendi istam viam, et nunc
+intendo ostendere uni vivo per omnia loca.  Unde dicit: |di balzo
+in balzo~, idest, de gradu in gradum, et de circulo in circulum,
+et dicit: |e intendo di mostrar l'inferno a lui~, quasi dicat:
+non venio huc, ut doceam istum alchimiam, vel tamquam puniendus
+hic pro alchimia, imo potius ut ostendam isti poenam
+Alchimistarum, et aliorum damnatorum, ut discat expensis vestris
+cavere tam vana et damnosa studia.
+
+	|97-99.  Allor.~  Hic autor ponit effectum responsionis
+Virgilii, et breviter dicit, quod praedicti duo spiritus, audito
+quod ibi erat unus vivus de quo non perpenderant, quia erant
+nimis occupati ad scalpendum, convertunt se ambo statim versus
+eos.  Unde dicit: |il comun rincalzo si ruppe allor~, quia isti
+qui primo stabant simul appodiati sustentantes alter alterum,
+disiuncti et dissociati fuerunt ab invicem ad respiciendum
+autorem; unde dicit: |e ciascun si volse a me tremando~, quia non
+poterat unus se substinere sine adhaesione alterius socii, et
+dicit: |con altri che l'udiron di rimbalzo~, idest, ex
+transverso, ex superventione, quia scilicet non erat
+principaliter dictum eis: et nota quod isti affectuose verterunt
+se moti novitate rei mirabilis, scilicet quod vivus venerat ad
+infernum.
+
+	|100-106.~  Et ostendit quomodo Virgilius moverit eum ad
+loquendum istis, dicens: |lo buon maestro tutto s'accolse a me
+dicendo: di' a lor ci@o che tu vuoli~, quasi dicat: vide quomodo
+facti sunt avidi, et audient te libenter, ideo potes secure
+petere; ideo dicit: |et io cominciai~, supple dicere in
+infrascripta forma, |poscia ch'ei volse~, idest, postquam ille
+Virgilius concessit mihi licentiam loquendi, et dixi, sic petens:
+|ditemi chi voi siete e di che genti~, idest, de qua natione vel
+patria; et captat benevolentiam, dicens: |se la vostra memoria
+non s'imboli da le menti umane~, idest, si vestra fama non
+auferatur, non perdatur apud homines viventes, |nel primo mondo~,
+scilicet vivorum, in quo prius fuistis et meruistis; involare
+enim idem est quod furari, |ma s'ella viva sotto molti soli~;
+
+	|107-108.~  et facit confutationem, dicens: |la vostra
+pena sconcia e fastidiosa non vi spaventi di palesarvi a me.~ 
+Hoc dicit, quia est vere turpe et abhorrendum videre unum
+scabiosum, excoriatum, sanguinatum; et sic nota quod infirmitas
+corporalis inepta saepe pohibet homini propalare se; sed
+allegorice loquendo Alchimistae communiter erubescunt cognosci,
+et laborant in occulto, nec aperiunt artificium suum alteri, nisi
+Alchimistae socio.
+
+	|109-111.  Io fui.~  Hic autor ostendit, quomodo unus
+illorum duorum responderit, specificans se per nomen, et causam
+suae mortis, et aliam causam suae damnationis.  Ad cuius
+cognitionem est breviter sciendum rem jocosam: fuit igitur in
+nobili civitate Senarum circa tempora autoris quidam magister
+Grifolinus de Aretio, magnus naturalis et alchimicus, qui
+astutissimus contraxit familiaritatem magnam cum quodam filio
+episcopi senensis, cui nomen erat Albarus, a quo sagaciter
+emungebat pecuniam et munera multa, quia ille cum lingua sua
+mirabili promittebat illi simplici et fatuo facere mirabilia
+magna.  Inter alia, dum Albarus iste levissimus miraretur et
+laudaret Grifolinum, dicens: o quale est ingenium tuum! dixit
+Grifolinus: certe scirem facere impossibilia per naturam.  Quid
+diceres, si videres me patenter volare more avis per aerem? 
+Albarus pinguis et pecuniosus expensis Crucifixi, coepit rogare,
+ut doceret eum artem volandi artificialiter, qui tamen erat per
+naturam levissimus ad volandum cum sua mente vanissima.  Multa
+ergo dicebat, et plura promittebat.  Sed Grifolinus ludificabatur
+eum, et dabat illi verba in solutum.  Tandem Albarus videns se
+delusum et deceptum, conquestus est episcopo patri suo; qui
+accensus indignatione magna fecit formari unam inquisitionem
+contra eum, qualiter exercebat magicam, quam tamen ille
+ignorabat; et sub isto colore fecit eum digne cremari.  Nunc ad
+literam; dicit autor: |l'un~, scilicet, magister Grifolinus,
+|rispose~, scilicet petitioni meae: |io fui d'Arezzo~, et est
+argumentum a loco, quia Aretium communiter habet acuta ingenia,
+|et Alberto da Siena~, quae civitas aliquando producit gentem
+vanam, |mi fe' metter al fuoco~; et hoc dicit ad extenuandam suam
+infamiam quod alia fuit causa, qua fuit combustus in mundo, alia
+qua est damnatus in inferno; unde dicit: |ma quel perch'io
+mori'~, scilicet, culpa artis magicae, |qui non mi mena~,
+scilicet, ad istam poenam.
+
+	|112-117.~  Et ecce causam veram, quare fecit me mori;
+|Ver @ee ch'io dissi a lui~, scilicet, illi Albaro, |parlando a
+gioco~, quia habebam solatium de eius fatuitate: |io mi saprei
+levar per l'aere a volo~; quasi dicat: tantum scio, quod scirem
+volare per aerem, si vellem; et statim avis inescata est ad
+blandum sonum aucupis; unde dicit: |e quei~, scilicet, Albarus,
+vere arbor magna sine sensu, |ch'avea vaghezza e senno poco~,
+quasi dicat: qui habebat multum lasciviae et nihil prudentiae,
+|volle, ch'io gli mostrassi l'arte~, scilicet, volandi, |e mi
+fece ardere a tal~, scilicet, episcopo senensi, |che l'avea per
+figliuolo~, idest, qui habebat ipsum Albarum pro filio, licet
+forte non esset, quia genitus ex meretrice; et si erat, non
+audebat dicere, quia saepe sacerdotes filios dixere nepotes,
+|solo perch'io nol feci Dedalo~, idest, solummodo propter istam
+vanissimam causam, quia non feci eum volatilem, sicut fuit olim
+Dedalus; quasi dicat, quia non feci istam pecudem volare. 
+Dedalus enim magnus artifex ingeniosus dicitur volasse cum filio
+suo Icaro quando venit de Creta in Italiam, sicut jam expositum
+est supra capitulo XVII.
+
+	|118-120.~  Et ultimo Grifolinus tangit veram causam suae
+damnationis, dicens: |ma Minos~, judex inferni, de quo jam
+totiens dictum est, |a cui non lece fallare~, quia nullus potest
+fallere conscientiam suam, quae figuratur per Minos, |dann@o me
+per alchimia che usai nel mondo, nell'ultima bolgia delle diece~,
+idest in ista ultima bulgia, in qua puniuntur Alchimistae et
+caeteri falsatores.
+
+	|121-123.  Et io dissi al poeta.~  Ista est quarta et
+ultima pars generalis, in qua autor gratia praemissae vanitatis
+facit unam digressionem, in qua facit unam invectivam mordacem et
+irrisoriam contra senenses, vanissimos omnium.  |Et io~, idest,
+et ego poeta Dantes considerans dementiam illius Albari senensis
+et patris eius, qui vanior filio non erubuit tradere hominem
+flammis igneis pro una buffa, de qua debebat potius ridere, et
+dissimulare, si volebat consulere honori suo; ubi sic
+praecipitanter agendo, incurrit perpetuam infamiam, ne dicam
+poenam; |dissi al poeta~, scilicet Virgilio: |or fu giamai gente
+s@i vana come la sanese~? quasi dicat: nulla gens fuit tam vana in
+aliquo tempore vel in aliquo loco: et continuo specificat
+vanitatem senensium per comparationem ad gentem gallorum; unde
+respondens sibi ipsi dicit: |certo non la francesca s@i d'assai.~ 
+Quasi dicat: licet galli  sint communiter vanissimi omnium
+nationum, non tamen sunt tam vani, sicut senenses.  Ad cuius rei
+intelligentiam est sciendum, quod galli sunt genus vanissimum
+omnium ab antiquo, sicut patet saepe apud Julium Celsum, et hodie
+patet de facto; videmus enim, quod omni die adinveniunt novos
+habitus, et novas formas vestium.  Unde non est membrum in eis,
+quod non habeat suam fogiam; portant enim catenam ad collum,
+circulum ad brachium, punctam ad calceum, pannos breves, ita quod
+ostendant culum, partem obscenam corporis occultandam, et
+caputium ante faciem ad tegendam partem corporis honestam potius
+manifestandam; et ita de multis vanitatibus.  Unde multum miror,
+et indignor animo, quando video italicos et praecipue nobiles,
+qui conantur imitari vestigia eorum, et discunt linguam gallicam,
+asserentes quod nulla est pulcrior  lingua gallica: quod nescio
+videre; nam lingua gallica est bastarda linguae latinae, sicut
+experientia docet.  Nam cum non possint bene proferre
+^cavaliero~, corrupto vocabulo, dicunt ^chevalier.~  Similiter
+cum nesciant dicere ^signor~ dicunt ^sir~, et ita de caeteris. 
+Huius rei testimonium habemus, quod adhuc quando volunt dicere:
+^loquere vulgariter~, dicunt: ^loquere romancie~; et eorum
+vulgaria appellant ^romancia.~  Non ergo deberent italici sponte
+subiicere suam nobilitatem ignobilioribus.  Nota etiam quod
+aliqui dicunt, quod autor merito comparat senenses gallis, quia
+ab eis originem habuerunt.  Scribit enim Johannes Anglicus in suo
+Policrato libro VI quod senones galli urbem condiderunt Senarum
+ex senioribus et debilioribus suis.  Et dicit, quod hoc arguit
+adhuc similitudo, quia senenses et lineamentis membrorum et
+formositate faciei, et gratia coloris, et moribus ipsis, videntur
+appropinquare ad gallos, licet vetustas temporis, plaga orbis,
+situs regionis, conversatio vicinorum, quibus sanguine et moribus
+permixti sunt, mutaverint eos pro magna parte.  Verumtamen
+quidquid dicatur de senensibus non videtur verum, quia civitas
+illa non est tam antiqua, nec est nominata apud Titum Livium, vel
+alium historicum antiquum, quod invenerim.  Sed credo, quod autor
+iste in hoc fallitur sub aequivoco, sicut et in aliquibus aliis. 
+Nam galli senones bene condiderunt Senogalliam in litore maris
+Adriaci, quae prius vocata est Sena, sicut clare scribit Titus
+Livius, quod Claudius Nero consul romanus veniens cum exercitu in
+subsidium Livii Salinatoris collegae sui contra Asdrubalem
+pervenit Senam, deinde vicit Asdrubalem prope fluvium Metaurum,
+ut dictum est in capitulo praecedenti.  Qui Metaurus distat a
+Senogallia forte per duodecim milliaria.
+
+	|124-132.  Onde.~  Hic autor introducit secundum socium
+confirmantem dictum eius, dicens: |Onde l'altro~, scilicet,
+alchimista, |lebroso~, quia habebat scabiem incrustatam ad modum
+leprae, |che m'intese~, idest, qui intellexit me ita loquentem
+vera de vanitate senensium.  Iste alter spiritus alchimista fuit
+quidam magister Capochius florentinus, vir ingeniosus ad omnia,
+maxime ad transnaturandum metalla; qui ob hoc, ut quidam dicunt,
+fuit combustus in civitate Senarum; ideo autor bene dat ipsum in
+socium magistro Grifolino praedicto, quia fuit sibi par in arte,
+in culpa et poena, |rispose al detto mio.~  Ad intelligendam
+autem istam responsionem obscuram, volo te scire, quod autor non
+contentus narrasse unam singularem vanitatem unius senensis,
+fingit alium ex transverso narrare aliam magis memorabilem et
+dignam censoria nota, quae breviter est talis.  In civitate
+Senarum facta est per tempora moderna quaedam societas vanissima,
+quae voluit appellari nobilis vel curialis, et vulgo vocata est
+Spendaritia.  Fuerunt enim, ut audivi, duodecim juvenes
+ditissimi, qui convenerunt concorditer inter se de facienda re,
+de qua omnium linguae loquerentur cum risu, ad quorum notitiam
+perveniret.  Posuerunt ergo singuli decem et octo millia
+florenorum, videlicet in summa ducenta sexdecim millia in
+cumulum: et statuerunt, quod quicumque expenderet aliquid parce,
+statim tamquam indignissimus expelleretur de tam liberali
+sodalitio.  Conduxerunt ergo datis legibus inter se pulcerrimum
+palatium, in quo quilibet habebat cameram commodissimam cum
+ordinatissimis arnesiis, mensis, et supellectilibus; ubi
+conveniebant omnes semel vel bis in mense epulantes splendide et
+sumptuose; et, ut tangam breviter generales observantias, ad omne
+convivium apponebant tria mensalia.  Quorum primum colligebatur
+per domicellos, discumbentibus conviviis nobilibus, et cum
+omnibus jocalibus, vasis, cultellis aureis et argenteis,
+projiciebatur per fenestram.  Secundum mensale, in quo comederant
+epulas, conservabatur; similiter et tertium, quo tergebant manus. 
+Faciebant autem cibaria varia, insolita et incognita humanis
+usibus, numero et qualitate; quamvis audiverim narrari multa de
+eis, quae vel ficta sunt, vel aliorum dicta fuerunt.  Explorabant
+autem diligenter, quando veniebat aliquis magnificus dominus, vel
+vir magnae nobilitatis; et euntes illi in occursum, deducebant
+illum cum magna celebritate ad commune eorum palatium, et cum
+magna pompa honorabant eum, donantes munera plura et cara.  Et
+hoc unum potissime imposuit finem insanissimae vanitati eorum,
+quae duravit solum per viginti menses; nam cito devenerunt ad
+inopiam, et facti sunt fabula gentium, paritura semper risum
+posteris audientibus.  Unde factae sunt duae cantiones placibiles
+de eis; quarum altera continet delicias et delectationes eorum;
+altera vero calamitates et miserias, quas habituri erant; nam de
+rei veritate aliqui eorum iverunt ad hospitale.  Ideo autor
+voluit dimittere memoriam aliis in exemplum, ut considerato fine
+non abiiciant sponte suum.  Haec tetigi breviter hic de vanitate
+quorundam senensium in particulari; sed de vanitate eorum in
+communi dicetur capitulo XIII Purgatorii.  Nunc ad literam: dicit
+autor, quod magister Capochius respondit sibi, adiurans eum
+contra senenses; |tranne lo Stricca~, idest, excipe mihi, et
+excipere debes |Stricca~, nomen unius senensis, |che seppe far le
+temperate spese~; et loquitur ironice et irrisive, ac si dicat:
+qui fecit immensas et vanas expensas.  Et nominat alium, dicens:
+|e Niccol@o~, supple: et excipe mihi Nicolaum; iste fuit unus de
+Bonsignoribus de Senis, quem describit a nova inventione mali
+moris, dicens: |che prima discoperse~, quia primus reperit, |la
+costuma ricca del garofano.~  Et hic nota, quod aliqui dicunt,
+quod iste Nicolaus faciebat famulum assistentem mundare sibi
+gariofilum, sed istud est vanius dicere, quam fuerit facere. 
+Alii dicunt, quod faciebat poni gariofilos in assatis; sed ista
+non fuisset nova inventio, nec expensa magna.  Alii dicunt, quod
+faciebat assari phasianos et capones ad pruinas factas ex
+gariofilis; et hoc credo verum, quod ista fuit expensa maxima
+vanissima, novissime adinventa, sicut et aliae similes narrantur,
+quia faciebant coqui florenos in sapore, et illos apponentes ori
+sugebant et abiiciebant.  Et dicit signanter: |nell'orto dove tal
+seme s'appicca~, idest, in civitate Senarum, ubi vana gulositas
+seminata cito pullulat et germinat; et de rei veritate haec
+civitas est velut hortus, florida et amoena.  Et subdit
+Capochius: et ut cito dicam, |tranne la brigata~, quasi dicat:
+excipere non debes a regula vanitatis, |in che~, idest, in qua
+societate vana, |Caccia~, nomen proprium viri, |d'Asciano~;
+Ascianum est nobile castrum, unde fuit oriundus iste Caccia, qui
+ita expulit a se squamas suas more Alchimistarum, sed vanius et
+ridiculosius; unde dicit: |disperse la vigna e la gran fronda.~ 
+Habebat iste pulcerrimam et praeclaram possessionem, quam
+vendidit et consumpsit in ista brigata fatua; ideo dicit: |e
+proferse~, idest, propalavit |el suo senno abbagliato~, idest,
+ablucinatus; quia post istud factum apparuit eius dementia, cum
+primo reputaretur prudens.
+
+	|133-137.  Ma.~  Hic prudens Capochius manifestat se
+ipsum a nomine, ab ingenio, a vitio, dicens: |ma aguzza
+l'occhio~, scilicet speculationis tuae, |ver me~, ut cognoscas
+hominem valde acutum, |s@i che la faccia mia ben ti risponda~, ut
+scilicet, possis melius cognoscere me: hoc dicit, quia erat totus
+scabiosus et fumigatus; unde dicit: |s@i vedrai ch'io son l'ombra
+di Capocchio~, quem tu bene vidisti in vita, |che falsai li
+metalli con l'alchimia~; et sic vide, quod iste fuit usus
+alchimia illicite, quia dicit |falsai~; et hoc dico, |perch@e
+sappi, chi s@i ti seconda~: idest, quia scias, quis est qui te ita
+sequitur confirmando dictum tuum, |contra i senesi.~
+
+	|138-139.~  Hoc dicit, quia libenter loquitur male de
+eis, quia fuit ibi combustus; et concludit tangens acumen ingenii
+sui; |e ti de' ricordar, se ben t'adocchio~, idest, si cum oculo
+bene te respicio, quasi dicat, si bene te recognosco, quia fui
+tibi notus in vita; nam semel die quodam Veneris sancti cum
+staret solus abstractus in quodam claustro, effigiavit sibi totum
+processum passionis Domini in unguibus mira artificiositate; et
+cum Dantes superveniens quaereret: quid est hoc quod fecisti?
+iste subito cum lingua delevit quidquid cum tanto labore ingenii
+fabricaverat.  De quo Dantes multum arguit eum, quia istud opus
+videbatur sibi non minus mirabile, quam opus illius, qui totam
+Iliadem tam subtiliter descripsit, quod intra testam nucis
+claudebatur; et alius fecit formicas eburneas.  Ideo dicit:
+|com'io fui di natura buona scimia~, scilicet, contrafaciendo
+omnia, sicut simia facit.  Et hic ultimo nota, lector, quod
+Dantes qui appellat istum simiam naturae, vere mihi videtur
+fuisse nobilior simia, quam unquam aliquis alius, cum sciverit
+tam mirabiliter et subtiliter cognoscere naturas hominum
+cuiuscumque conditionis, professionis et fortunae, et eorum
+mores, actus, et proprietates, tam utiliter, quam delectabiliter
+repraesentare.
+
+

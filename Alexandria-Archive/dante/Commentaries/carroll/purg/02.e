@@ -1,0 +1,540 @@
+	|1-9.~  In the opening lines of the Second Canto Dante tells us 
+the time of day in his peculiar astronomic fashion: it was sunset 
+at Jerusalem, midnight on the Ganges, and therefore sunrise on 
+Mount Purgatory, which was the exact antipodes of Jerusalem.  The 
+hues of early dawn were deepening: 
+ 
+         The white and vermeil cheeks 
+       Of beautiful Aurora, where I was, 
+       By too great age were changing into orange. 
+ 
+	|10-12.~  The two Pilgrims were still standing beside the ocean,
+where Dante had just been guided with the rush, uncertain of their path
+upward, and pondering like men 
+ 
+       Who go in heart, and with the body stay. 
+ 
+Cato, when he sent them down to the shore, forbade them to return 
+by the same path -- the sun would show them an easier ascent. 
+
+	|13-26.~  Suddenly, while they still stand in doubt, far across
+the waters their eyes are arrested by a strange light, coming with a 
+marvellous swiftness, in colour red like Mars as seen through 
+thick morning mists.  (In ^Conv.~ ii. 14, Mars represents Music [1]
+because of the beauty of its relation to the other spheres, being the
+central of the nine; and [2] because the kindling of its red vapours
+signifies the death of kings, etc.  Similarly Music `consists in
+relations,' and `so draweth to itself the spirits of men... that they
+wellnigh cease from every operation' -- just as in Casella's song in
+this Canto.)  When Dante, after a momentary questioning glance at
+Virgil, looks again, he finds it has undergone a change.  On each side
+of the central red `a something white' appeared; and then, between
+these and lower down, a third whiteness came slowly into view.  It
+turns out to be the Angel-Pilot of Purgatory, standing on the stern of
+his boat: the two white objects first seen are his outspread wings, the
+third his body, or, more probably, the freight of white souls beneath. 
+Though they number `more than a hundred', they cannot weight down the
+vessel in the water.  The Angel is the celestial counterpart of Charon,
+the Ferryman of Hell, and unlike him, `he scorns human instruments' of
+oar or sail: his white unwearied wings suffice for the long voyage. 
+When `the Bird Divine' drew near the shore, Dante's eye, unable to bear
+the brightness, was forced to bend to the ground.  The band of
+penitents were singing `with one voice' Psalm cxiv.: `In ^exitu Israel
+de ^AEgypto~'; when the Angel made on them the sign of the cross, they
+cast themselves ashore, while their Pilot returned as swiftly as he
+came.  Dante is rejoiced to find among the new arrivals his old friend
+Casella, who at his request sings one of the poet's own `songs of love'
+with such sweetness that the whole company forget for the moment that
+they have come for the more serious purpose of purifying their souls
+from the stains of earth.  While they stand entranced, they are
+suddenly surprised by Cato, who administers a severe rebuke for their
+negligence, and scatters them toward the Mountain like a flock of
+startled doves. 
+ 
+	|27-40.~  The first point suggested by this narrative is the
+poet's faith in the existence of a world of angelic spirits intensely
+interested in the working out of human destiny.  At first Virgil 
+watched the approaching whiteness in silence; 
+ 
+       Then when he clearly recognised the helmsman 
+       He cried: `Make haste, make haste, to bend the knee! 
+       Behold the Angel of God! fold thou thy hands! 
+       Henceforward shalt thou see such officers.' 
+ 
+Since from this point onward Dante is in constant contact with 
+the Angels, we may take the opportunity of enquiring more 
+particularly what was his conception of them and their function 
+in the work of salvation.  To the mind of modern Christians, 
+Angels are virtually as non-existent as elves or fairies; but to 
+the men of the Middle Ages the spirits of the invisible world 
+were so close that they almost saw the shining of their garments 
+and heard the beating of their wings.  Cimabue, Giotto, Fra 
+Angelico and many others set them visibly before men's eyes, not 
+as mere creations of imagination, but as the living Presences by 
+whom mankind is at every moment encompassed.  Their ministry to 
+`them that shall be heirs of salvation' does not end with the 
+earthly life.  Just as at death the souls of the wicked are met 
+on the threshold of the other world and conducted to their doom 
+by demonds, so Angels await the souls of the righteous and lead 
+them through every stage of purification to the final vision of 
+God.  They stand therefore in contrast to the demons of the 
+^Inferno~ who torture the lost.  `The Bird Divine' whose wings 
+waft the boat-load of penitents `between shores so distant' is, 
+as we have seen, the obvious antithesis of Charon, the Ferryman 
+of Acheron.  All up the Mountain this angelic ministry surrounds 
+the soul to protect and strengthen and guide from grace to grace. 
+Even in the Celestial Paradise itself and in the very light of 
+God's own countenance, this ministry is not withdrawn.  In the 
+Ninth Heaven Dante sees the Nine Orders of Angels which govern 
+the nine spheres, wheeling in nine concentric circles of fire 
+round a central point of intensest light -- symbol of their 
+burning love of God and joy in His service.  And finally, when 
+the snow-white Rose of the Redeemed is unfolded to his eyes, he 
+sees the Angels like a swarm of bees ascending and descending in 
+the heart of the flower, carrying `peace and ardour' from rank to 
+rank of the blessed souls.  There is nothing more beautiful in 
+the whole poem than the pictures of the Angels in this 
+unspeakable union of perfect peace and fiery ardour in their 
+ministry of service to the heirs of salvation: some with a quaint 
+bright beauty as if they had stepped out of Fra Angelico's 
+Paradise, and others with the solemn and majestic presence which 
+Dante must have seen looking down upon him from the mosaics of 
+Ravenna (see Didron's ^Christian Iconography~, ii. 89-91 [Bohn].  His
+imagination invested them with a touch of human love by assigning to
+Beatrice a special symoblic association with them, as is she belonged
+to their number.  Before her death he saw in dream a multitude of
+Angels carrying her soul to Heaven and singing ^Hosanna~; and when his
+dream was fulfilled he tells us how he drew her in form of an Angel:
+`On that day which fulfilled the year since my lady had been made of
+the citizens of eternal life, remembering me of her as I sat alone, I
+betook myself to draw the resemblance of an angel upon certain tablets'
+(^Vita Nuova~, xxiii, xxix [Rossetti's Translation]).  And in the Ninth
+Heaven it is Beatrice he assigns the task of explaining the Nine
+Angelic Orders and their functions as mediators between God and the
+entire universe.  He no more doubted their existence than he did that
+of Beatrice herself (^Par.~ xxviii, xxix; for the guardianship of
+Angels, compare the beautiful passage in Spenser's ^Faerie Queene~ [Bk.
+II, canto viii] beginning, `And is there care in heaven?'). 
+ 
+     In this place also we may note the symbolism of colour in 
+relation to the Angels which runs through the poem.  In early art 
+this symbolism was carefully observed.  The wings of the 
+Seraphim, for example, are red in token of their burning, adoring 
+love of God; while those of the Cherubim, in symbol of their rapt 
+contemplation of God, are painted blue, the colour of the clear 
+unclouded firmament (Mrs. Jameson's ^Sacred and Legendary Art~, i. 47-
+49: `The distinction of hue in the red and blue angles we find wholly
+omitted towards the end of the fifteenth century').  It would be
+strange if Dante had not availed himself of this familiar symbolism,
+and the first example of it is probably the Angel-Pilot.  As we saw, he
+appears first as a ruddy glow like Mars seen through morning mists;
+then, as he drew nearer, on each side of this redness the white wings
+grew visible.  Whether the reference to Mars has any symbolic
+significance, it is difficult to say; but we need have less 
+hesitation about the colours.  The ruddy glow of the face may be 
+compared with the description of the Angels who minister to the 
+souls of the White Rose (^Par.~ xxxi. 13): 
+ 
+       Their faces had they all of living flame. 
+ 
+The colour represents in both cases the glow of love with which 
+they fulfill their ministry.  The whiteness of the wings is 
+probably symbolic of the purity of heart without which such 
+loving service is impossible; or since they emerge from the red, 
+the purity which springs from love alone.  This symbolism of 
+colour will meet us all through this Cantica at almost every 
+turn. 
+ 
+     Before passing from the subject we may clear up one 
+slight difficulty.  In bowing before the Angel Dante seems to 
+disobey several passages of Scripture.  In Col. ii. 18, St. Paul 
+forbids the worship of angels; and twice in the Book of 
+Revelations St. John is rebuked when he falls down before an 
+angel in worship: `See thou do it not' (Rev. xix. 10; xxii. 9.  Aquinas
+suggests that the angel declined the honour in order to show John that
+through Christ he was now equal to the angels [^Summa~, ii-ii. q. ciii.
+a. 2].  `The angel refused the homage out of respect to the honour
+which human nature has received from the Incarnation and to the
+apostolic dignity; just as a bishop might out of humility decline the
+homage of one whom, although inferior to himself in ecclesiastical
+rank, he venerated for his great virtue' [^A Catholic Dictionary~ by
+Addis and Arnold, Article `Angel'].)  We may be certain Dante was
+neither ignorant of these passages nor had any intention of disobeying
+them.  The Church carefully discriminates between worship and
+veneration, and Dante could not fail to preserve the distinction.  The
+command to bow the knee comes from Virgil, the personification of
+Reason.  Certaintly if such great and holy Intelligences exist,
+reverence is not only the dictate of Reason, but also a necessary moral
+condition of being able to avail ourselves of their aid and guidance in
+the purifying of the soul. 
+ 
+	|45-48.~  We turn now to the boat-load of penitent souls wafted 
+across the ocean by the Angel's wings: 
+ 
+       More than a hundred spirits sat within 
+       ^In exitu Israel de AEgypto~ 
+       They chanted all together in one voice, 
+       With whatso of that psalm is after written. 
+ 
+The suggestion has been made that Dante wishes to indicate the 
+number of the penitent as compared with the crowd he saw on the 
+banks of Acheron; but this is doubtful.  Their boat-song is 
+Psalm cxiv. which from very early times was sung by the priests 
+as the dead were carried into the church.  `Dante may have heard 
+it,' says Plumptre, `at the death of father or mother, or in the 
+Church of S. Lucia by the grave of Beatrice.'  It has an 
+additional interest because in his ^Epistle to Can Grande~ Dante 
+gives his own exposition of the opening words.  The ^Commedia, he 
+says has two principal senses -- the literal and the 
+^allegorical~ or ^mystical~, the latter being broken up into 
+several sub-divisions. `That this method of expounding may be 
+more clearly set forth, we can consider it in these lines: "When 
+Israel went out of Egypt, the house of Jacob from a barbarous 
+people, Judah was His sanctuary, and Israel His dominion."  For if 
+we consider the ^letter~ alone, the departure of the children of 
+Israel from Egypt in the time of Moses is signified; if the 
+^allegory~, our redemption accomplished in Christ is signified; 
+if the ^moral meaning~, the conversion of the soul from the 
+sorrow and misery of sin to a state of grace is signified; if 
+the anagogical, the departure of the sanctified soul from the 
+bondage of this corruption to the liberty of eternal glory is 
+signified' (^Ep.~ x. 7 [Latham's Translation slightly altered]; cf.
+^Summa~, i, q. i, a. 10).  The sense of the Psalm as sung by these
+spirits is the ^anagogical.~  The word means `leading up,' and was 
+applied to the method of interpretation by which the facts or 
+types of Scripture led up to the heavenly and eternal realities 
+of which they were the earthly symbol.  The literal Sabbath, for 
+instance, was anagogically the Sabbath of eternal rest in Heaven; 
+and the Exodus from Egypt the symbol of the deliverance of 
+penitent souls at death from the bondage of earth and sin to `the 
+liberty of the eternal glory.'  Dante draws attention to the 
+singing of the Psalm to the end, perhaps to indicate the ^moral~ 
+interpretation of the last verse as the conversion of the stony 
+heart into `a well of water springing up unto eternal life': 
+ 
+       `Which turned the rock into a pool of water, 
+       The flint into a fountain of waters.' 
+ 
+	|58-60.~  The new-comers now beg the poets to show them the path
+up the Mountain, but are told by Virgil that they are `strangers and 
+pilgrims' like themselves.  The moral idea, of course, is that a 
+life-time of sin unfits the soul for the great task of
+self-purification: even Virgil, the highest natural wisdom, cannot 
+tell how to begin.
+
+	|67-69.~  And then suddenly the spirits crowd together 
+and grow pale with astonishment, having noticed by his breathing 
+that Dante is still alive.  This surprise and shrinking happen so 
+frequently that probably they have some special significance. 
+Are they surprised, for instance, that any man repents before the 
+last hour of life?  Does their shrinking mean that the dead fear 
+the living as the living fear the dead?  It would almost seem so. 
+Each state, embodied and disembodied, is natural to itself, but 
+each is supernatural to the other.  Again and again the spirits 
+grow pale and shrink away from Dante because he breathes and 
+casts a shadow.
+
+	|76-81.~  And then occurs the beautiful incident of the 
+meeting of Dante and his old friend Casella, which shows how this 
+instincitive fear is conquered by love.  Out of the crowd of 
+shrinking astonished ghosts, one starts forward to clasp Dante 
+with so warm a show of affection that he is moved to return the 
+embrace.  The effort, alas, is in vain.  As AEneas thrice 
+attempted to embrace his father's shade in the Elysian Fields (^Aen.~
+vi. 700-702; similarly in the Eleventh of the ^Odyssey~, Ulysses thrice
+essayed in vain to embrace his mother's shade), so three times Dante's
+arms returned empty to his breast.  It is not altogether easy to
+understand why, when we remember how he was able to seize and tear out
+the hair of Bocca degli Abati in Antenora (^Inf.~ xxxii. 97).  In Canto
+xxv., as we shall see, the nature of the Purgatorial body is explained
+by Statius, and it is evident that it is composed of much more
+spiritual elements than the souls of the lost; the gross material
+nature of the latter being probably symbolic of `the flesh,' which is
+the home and stronghold of sin.  It is to be noticed too that the
+spirits in Purgatory can touch spirits from Limbo, for Sordello is able
+to embrace Virgil; and also that they can touch those still in the
+flesh, for Matelda draws Dante through the waters of Lethe: unless,
+indeed, she does this only in her symbolic character of the Active
+Life.  However this is to be explained, the meeting of Dante and
+Casella has the beautiful motive of showing that friendship survives
+the shock and estrangement of death, and forms one of the joys of the
+new life.
+
+	|88-90.~  Cato had just told the poets that the law which was made
+when he was drawn from Limbo rendered him indifferent to his wife
+Marcia, once so tenderly beloved.  Dante may well have feared that some
+similar law might unfellow the living and the dead; and Casella gives
+him the glad assurance that no such estrangement is to be feared: 
+ 
+                    `Even as I loved thee 
+       In the mortal body, so do I love thee freed.' 
+ 
+	|91-102.~  Little is known of the friend Casella save that he was
+a Florentine musician who had probably set to music some of Dante's own
+songs (Milton in his Sonnet to Henry Lawes refers to this incident:
+`Dante shall give Fame leave to set thee higher / Than his Casella,
+whom he wooed to sing, / Met in the milder shades of Purgatory').  He
+had evidently died a considerable time before for Dante asks him how he
+has so long delayed beginning the task of his purification.  Casella
+informs him that the souls detained for Purgatory assemble at the mouth
+of the Tiber -- doubtless to indicate the connection of their salvation
+with the Church of Rome -- and that the Angel-Pilot, who takes of these
+souls whom he will, had many times denied him passage, but in no
+arbitrary spirit: 
+ 
+       `For of a righteous will his will is made.' 
+ 
+This, it will be noticed, is an additional delay to that in 
+Ante-Purgatory, and can only signify a deeper paralysis of the 
+will.  It was cut short, however, by an important event in Rome (vv.
+98-102; compare Charon's refusal to allow some shades to cross Styx,
+^Aen.~ vi. 313-330): 
+ 
+       `He verily for three months past has taken 
+       Whoever wished to enter, with all peace, 
+       When I who now was turned to the shore 
+       Where salt the water of the Tiber grows, 
+       Benignantly by him was gathered in.' 
+ 
+The reference is believed to be to the institution of the famous 
+Jubilee in 1300, which drew vast multitudes to Rome, Dante, it is 
+thought, among the number.  `The immense processions of pilgrims 
+to S. Peter's,' writes Gregorovius, `had ceased during the 
+Crusades; the Crusades ended, the old longing re-awoke among the 
+peoples and drew them again to the graves of the apostles.  The 
+pious impulse was fostered in no small degree by the shrewdness 
+of the Roman priests.  About the Christmas of 1299 (and with 
+Christmas, according to the style of the Roman Curia, the year 
+ended), crowds flocked both from the city and country to St. 
+Peter's.  A cry promising remission of sins to those who made 
+pilgrimage to Rome resounded throughout the world and forced it 
+into movement.  Boniface gave form and sanction to the growing 
+impulse by promulgating the Bull of Jubilee on February 22, 1300, 
+which promised remission of sins to all who should visit the 
+basilicas of SS. Peter and Paul during the year' (^Rome in the Middle
+Ages~, v. 557: `The pilgrimage of Italians,' continues Gregorovius,
+`was to last for thirty days, that of foreigners for fifteen.  The
+enemies of the Church were alone excluded.  As such the Pope designated
+Frederick of Sicily, the Colonna and their adherents, and, curiously
+enough, all Christians who held traffic with Saracens.  Boniface
+consequently made use of the jubilee to brand his enemies and to
+exclude them from the privileges of Christian grace').  The curious
+thing here is that the `three months' of which Casella speaks does not
+harmonize with the date on which the Bull of Jubilee was 
+published -- February 22, 1300 -- since it does not leave this 
+space of time to the Easter of that year, the ideal date of the 
+poem.  The solution of the apparent discrepancy shows, as Dr. 
+Moore points out, `Dante's unflinching belief in the binding and 
+loosing power committed to the Pope.'  Although the above is the 
+actual date of the Bull, Boniface `^antedated~ the privileges 
+offered so as to take effect from the Christmas Day last 
+preceding, ^i.e.~ according to Roman usage from the ^first day~ 
+of the year 1300, the "centesimo anno," as Dante calls it.... 
+Observe that he represents the Angel's conduct [in accepting all who 
+come] as having been affected and regulated by it from the 
+actual period to which Boniface ^antedated~ its effects.  The 
+Angel therefore conforms to its conditions ^by anticipation~, 
+about two months before it was proclaimed upon earth, because it 
+was going to be thus antedated.  It would be impossible for Dante 
+to give a stronger proof of his belief in the absolute validity 
+of acts of Papal authority even when exercised by a Boniface 
+VIII., whom as a man he both hated and despised' (Moore, ^Studies in
+Dante~, 2nd Series, 67).  It is to be noted too that the Indulgence
+avails for dead and livng alike.  It is difficult to understand this in
+view of Dante's attitude to Indulgences elsewhere.  He was vividly
+conscious of the possiblity of their abuse.  In the Heaven of the Fixed
+Stars St. Peter protests indignantly against his head being used on the
+seal affixed to `privileges venal and mendacious' (^Par.~ xxvii. 52-54;
+xxix. 118-123).  Yet here Dante seems to speak of the Jubilee
+Indulgence as if it acted in a mechanical and ^ex opere operato~
+manner, even though promulgated by a Pope whom elsewhere he consigns to
+the Inferno.  The solution is probably to be sought, as Dr. Moore
+argues, in the direction of a more careful understanding of what Dante
+believed an Indulgence could accomplish.  The fundamental 
+conception of the poem from the first line to the last is that, 
+in Scriptural language, without holiness no man shall see the 
+Lord (Heb. xii. 14).  The vision of God from its very nature is
+possible only to the pure in heart.  But this purity cannot be given by
+any mechanical arrangement whatever.  It comes only by the penitent
+will embracing its punishment and undergoing the moral discipline by
+which alone sin can be expelled.  There is no instance of any soul upon
+the Mountain being relieved of the need to undergo the process of
+self-purification in virtue of indulgences or prayers 
+of others.  The one thing which these can accomplish is the 
+hastening and ripening of the process, by producing in the 
+penitent greater eagerness for final emancipation from sin.  Take 
+the case before us.  The Jubilee Indulgence did not relieve these 
+souls of the necessity of facing the severe task of self-purification
+on the Seven Terraces: it simply enabled them to begin it sooner.  It
+shortened the period of detention at the mouth of the Tiber; but when
+they land on the shores of the Mountain, the whole purgatorial process
+lies before them precisely as it would have done had they come later. 
+Whatever Dante's idea of Indulgences was, we are not at liberty to give
+it a mere mechanical interpretion which would contradict the
+fundamental spiritual conception of the poem as a whole.  (In his
+^Studies in Dante~, 2nd Series, 43-48, Dr. Moore has a very interesting
+discussion of Dante's attitude to the question of Indulgences.  The
+chapter on Indulgences in Principal Lindsay's ^History of the
+Reformation~ [vol. i. 216ff.] is of the utmost value for the
+understanding of the changes in the doctrine which grew up in the
+beginning of the thirteenth century.  It seems certain that while
+Aquinas accepted the new conceptions [^Summa~, iii. ^Suppl.~ q. xxv.
+1], Dante held to the older view.  To take only one point.  The
+original idea of Satisfaction was that of giving a proof of repentance,
+and as such it ^followed~ Confession and ^preceded~ Absolution.  This
+is the order followed by Dante -- the Satisfaction on the Seven
+Terraces comes immediately after his Confession, and not until it has
+been made is the Absolution given by Beatrice on the Mountain-top.  The
+new theory changed this.  The Absolution was given immediately after
+the sinner's confession, with the result that `Satisfaction lost its
+old meaning.  It was no longer the outward sign of sorrow and the
+necessary precedent of pardon or absolution.  According to the new
+theory, the absolution which immediately followed confession had the
+effect of removing the whole guilt of the sins confessed, and with the
+guilt the whole of the eternal punishment due.'  But a temporal
+punishment remained, here or in Purgatory; and the penance imposed by
+a priest for this temporal element became the Satisfaction.  An
+Indulgence now meant the transference from the treasury of merits of an
+equivalent of this Satisfaction.  It seems certain that Dante never
+accepted this new doctrine.  There is no trace of it in his
+^Purgatorio.~  Satisfaction is to him a thing with moral contents, and
+must be made by the sinner himself.)
+ 
+	|106-117.~  The memory of Casella's singing, `which used to quiet
+all his longings,' rose up in Dante's mind so strongly that he begged
+for a `song of love' of the old days, if some `new law' had not
+deprived him of the power; and the musician thereupon sang so 
+sweetly that Dante, Virgil, and the whole company stood 
+enraptured, forgetful for the moment of their sins, the Mount, 
+everything.  Dean Plumptre finds in the incident the suggestion 
+that a `song of love' may carry purifying power as surely as a 
+song of the Church: `It is, I think, impossible not to recognize 
+in this something more than the memory of the pleasant days of 
+youthful friendship.  There is the distinct recognition of the 
+fact that the mysterious, religious, purifying power of music is 
+not limited to that which we commonly call "sacred"; that a "song 
+of love," such as ^Canzone~ xv., may touch that which is most 
+essentially spiritual in us, and may stir to thoughts that lie 
+too deep for tears.  This, however,' he admits, `stands as a 
+solitary episode, the exception which proves the rule, and the 
+rule was that it was not from minstrels or troubadours, 
+Proven$cal or Italian, but from the singers and choristers of the 
+Church that Dante had heard the melodies which chased away the 
+evil phantasms of his soul' (^Dante~, ii. 386; `^Canzone~ xv.' is the
+second in the ^Convito~).  However true this may be in other
+connections, it is in obvious contradiction to the present 
+context.  If Dante meant to say that a `song of love' has this 
+purifying spiritual power, it is impossible to account for Cato's 
+rebuke and Virgil's shame.
+
+	|118-123.~  While the crowd stand entranced by the music, `the old
+man venerable' suddenly swept down upon them: 
+ 
+       `What is this, ye laggard spirits? 
+       What negligence, what standing still is this? 
+       Run to the mountain to strip off the slough, 
+       That lets not God be manifest to you.' 
+ 
+Since the four cardinal virtues shone full on Cato's face, we 
+cannot fail to see in this the rebuke of natural morality, a 
+rebuke which shames Reason itself in the person of Virgil (^Purg.~ iii.
+7-9): 
+ 
+       He seemed to me within himself remorseful; 
+       O noble conscience and without a stain, 
+       How sharp a sting is trivial fault to thee! 
+ 
+Plumptre's view makes the rebuke of Virtue and the remorse of 
+Reason alike inexplicable. 
+ 
+     The truth is it is more than doubtful whether what 
+Casella sang was meant to be understood as a `song of love' at 
+all, in the sense of the words suggest to our minds -- an amorous 
+ditty of ministral or troubadour.  The song is the Second Canzone 
+in the ^Convito~, which begins as follows: 
+ 
+       Love, who doth often with my mind converse, 
+       In eager longing, of my Lady fair, 
+       Often of her doth utter things so rare, 
+       That all my reason does thereon astray. 
+       His speach such strains of sweetness doth rehearse, 
+       That my weak soul that listens and doth hear, 
+       Doth say, `Ah me!  for I no power do bear 
+       To tell what he doth of my Lady say. 
+       'Tis certain it behoves I put away, 
+       If I would treat of what I hear of her, 
+       That which my mind fails utterly to reach, 
+          And much of clearer speech; 
+       For want of knowledge then would me deter.' 
+                              (Plumptre's ^Dante~, ii. 279.)
+
+Now, it is possible that if we had nothing but the song itself, 
+we might understand `Love' in the mere troubadour sense.  But the 
+third Book of the ^Convito~ is a long prose commentary on the 
+poem, in which Dante expressly declares that the Lady is 
+Philosophy, the daughter of God, and denies with some heat that 
+his love of her is a mere `sensuous delight.'  It is a pure 
+intellectual passion, and therefore he says it is in his ^mind~ 
+Love discourses of her.  Read thus in the light of the ^Convito~, 
+what Cato rebukes is the Philosophy whose sweet music once held 
+Dante in captivity.  This may seem to corroborate the view of 
+those writers who hold that the unfaithfulness of which Beatrice 
+convicts Dante on the Mountain-top was simply his devotion at one 
+period of his life to Philosophy in preference to herself, the 
+Heavenly Wisdom (^Purg.~ xxx, xxxi).  Without committing ourselves to
+this as the full explanation, it must be acknowledged that it is at
+least a fragment of the truth.  For all his rhapsodies in the
+^Convito~, Dante is discovering that when it comes to the great
+critical work of conquering indwelling sin and climbing one's painful
+way back to purity, the speculations of Philosophy are not only 
+useless and out of place, but positively injurious.  Cato strikes 
+the true keynote of the danger when he demands: `What is this, ye 
+laggard spirits?'  Penitence and the purifying of one's soul from 
+sin is obviously an intensly personal thing, involving the 
+concentration of the man upon himself for the time being. 
+Philosophy, on the other hand, by carrying the mind abroad into a 
+world of general speculation, dissipates the sense of personal 
+urgency and throws the soul back into the inaction of thought. 
+Speculate about sin in general -- its origin, nature, and cure -- 
+and our own individual share in it is apt to turn into a mere 
+abstract question with no importunate demand for a solution.  It 
+is indeed a far cry from the Philosophy of Dante to that of 
+Hamlet, yet if we take the word `conscience' in its old sense of 
+knowledge and reflection, the familar passage well describes the 
+danger, though of course from an entirely different side (^Hamlet~, Act
+III. sc. 1): 
+ 
+       Thus conscience does make cowards of us all; 
+       And thus the native hue of resolution 
+       Is sicklied o'er with the pale cast of thought, 
+       And enterprises of great pith and moment 
+       With this regard their currents turn awry, 
+       And lose the name of action. 
+
+(`Conscience' is not to be taken here for the moral faculty.  `In this
+soliloquy,' as Professor Bradley says, `Hamlet is not thinking of the
+duty laid upon him at all.  He is debating the question of suicide.  No
+one oppressed by the ills of life, he says, would continue to bear them
+if it were not for speculation about his possible fortune in another
+life....  Such speculation or reflection makes men shrink like cowards
+from great actions and enterprises.  "Conscience" does not mean moral
+sense or scrupulosity, but this reflection on the ^consequences~ of
+action.  It is the same thing as the "craven scruple of thinking too
+precisely on the event" of the speech in IV. iv.' [^Shakespearean
+Tragedy~, 98 note]). 
+
+The meaning, then, seems to be that Cato refuses to allow Dante 
+to listen to the love songs of a Philosophy which used to `quiet 
+all his longings.' 
+ 
+     So far from being quieted, his longings must be stirred 
+and excited in the direction of God and goodness.  The conviction 
+of his sin must not be lulled to sleep by the old melody of the 
+world.  A Diviner music must drive the conviction home, and urge 
+his soul on in the great struggle: the penitential chant of the 
+^Miserere~; the joyful benediction of the Beatitudes, as the 
+purified heart grows worthy to receive it; and at last on the 
+Mountain-top, when the long discipline has done its work, 
+Matelda's song of pardon and peace: `Blessed is he whose 
+transgression is forgiven, whose sin is covered.'
+ 

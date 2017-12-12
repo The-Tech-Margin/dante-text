@@ -1,0 +1,207 @@
+	|RUBRICHE.~  Nel primo C.o @e lla storia chome mor@i il savio Chato 
+romano.
+
+	Nel secondo di Moises e di Faraone e chome Idio insegni@o a Moises 
+champare il popolo suo.
+
+	Nel terzo del re Manfredi e di Churradino e chi di loro naque e chome 
+il re Manfredi fu morto e fu trovato da uno ribaldo.
+
+	Nel quarto chome Davit per usar con Bersab@e fecie morire Urias.  E 
+chome i Fiorentini ischonfissono gli aretini.
+
+	Nel sexto di Ghino di Taccho d'Arezzo.  Item di messer Marzucho degli 
+Scornigiani.
+
+	Nel settimo di cierte vettorie ch'ebbe il re Filippo.
+
+	Nell'ottavo chome dom Piero re di Raona ebbe la Cicilia.
+
+	Nel nono chome l'aquila di prima fu presa per arme.  Item chome 
+Ciesare rub@o e spogli@o la turpea e lla sua condizione.
+
+	Nel diecimo dicie molte chose e prima di Pulicreto il pi@u sommo 
+intagliatore.  Item di messer Provenzano da Siena.
+
+	Nell'undecimo di Niobe moglie d'Anfione re di Tebe ch'ebbe sette 
+figliuoli maschi e sette femine e lla storia d'Aragnie di Roboam 
+d'Anfiarao e d'Almeone suo figliuolo detta di sopra.
+
+	Nel dodecimo di Tamiris e d'Oloferne e di Iuditta e pi@u altre come 
+finse le vedesse ischolpite.
+
+	Nel tredecimo la novella di Sapia sanese e di messer Provenzano.  Item 
+della Diana.
+
+	Nel quatordecimo il corso d'Arno e di Circie figliuola del Sole.
+
+	Nel 5° decimo della Vergine Maria e d'Ioseppe e di Pisistrato Re 
+d'Atene e altre.
+
+	Nel 6° dec.o d'uno iniquo Jiudicie.  Item di Progne e di Tereo.  Item 
+del re Ansuero et de Ester e d'Issa [sic] re d'oriente.
+
+	Nel X° ottavo chome Melano fu disfatto e seminato a sale.
+
+	Nel ventesimo del buono Fabrizio e di cierte isconfitte.  Item di 
+Pigmaleon fratello di Dido e di Sicheo.  Item del re Mida e di pi@u 
+altre bellixime istorie contro l'avarizia.
+
+	Nel 21.esimo di Stazio e di Tito e lla vendetta di Cristo
+
+	Nel 23.esimo del re Erisitone e di Cierere dea Annonae.
+
+	Nel 24.esimo pi@u belle storie chome ti mostra si debba rafrenare il 
+vizio della ghola e una quistione che Dante muove a Virgilio ed egli la 
+solve.  E lla storia di Meleagro e de[l] bellissimo chapitolo e pi@u 
+piacie questo chapitolo che pochi altri.
+
+	Nel venticinquesimo @e una quistione che Dante muove a Virgilio e a 
+Stazio.
+
+	Nel ventisei del re Lighurgho di Pasife detta altrove.
+
+	Nel ventisette di Pirramo e di Tisbe.
+
+	Nel trentadue di Jupiter ch'ebbe a fare con Jo filia Inachi e chome 
+ella si convert@i in vaccha.
+
+	 Expliciunt Chapitula inferni.  Et incipiunt close purghatorj per 
+dominum Johannem Boccacci.
+
+	|Proemio.~  Incomincia il primo Capitolo della canticha del 
+purghatorio.
+
+	|1-27.~ 
+
+   ^Per correre miglior aqua alza le vele~
+   ^Omai la naviciella del mio ingiegnio~
+   ^Che lascia dietro a ss@e mar s@i crudele~
+
+   ^Et chanteren di quel divino regno~
+   ^Dove l'umano spirito si purga~
+   ^E di salire Al ciel diventa degnio.~
+
+Poi che 'l nostro altore hae trattato di tutte le pene che ssi 
+patischono in inferno pe' pecchatori.  Et usciendo di quello cio@e esso 
+altore uscito de' pecchati e richognosciuto di quegli e tornato avere 
+contrizione e pentimento viene ora al purghatoro ove si purghano i 
+pecchati.  E dividesi tutto questo purghatorio in tre parti gienerali.  
+La prima si chiama antipurghatorio cio@e purgharsi i suoi pecchati anti 
+alla sua fine e dura questa prima parte infino al nono chapitolo di 
+purgatorio.  La seconda parte di questo purghatorio si chiama 
+purghatoro e chomincia al nono chapitolo e dura infino al ventesimo.  
+La terza parte si chiama postpurghatoro.  E questa parte comincia dal 
+ventesimo chapitolo e dura per tutta questa canticha.  E dividesi 
+questo primo Capitolo in quatro parti gienerali.  In questa prima parte 
+continuando il suo detto al passato prepone e invocha e narra cos@i 
+chominciando chome comincia il chapitolo.  Invocha e chiama aiuto alle 
+muse cio@e la prima @e Clio.  La seconda Euterpe.  La terza Melpomene.  
+La quarta Talia.  La quinta Polinnia.  La sesta Eratho.  La settima 
+Tersichore.  L'ottava Urania.  La nona e ultima Chaliope.  Dicie la 
+loro istoria ch'ell'abitavono insieme in Grecia in sul monte Parnasso 
+al tempio d'Appollo.  Avenne chaso che uno ch'ebbe nome Piero re di 
+Tesaglia mor@i e rimasene di lui nove figliuole.  Ed essendo elleno 
+grande maestre di musica e di chanto e d'altre arti il di che elleno 
+mosse a superbia contro alle dette muse venendo a questo luogho cio@e 
+monte Parnaso dov'elle abitavano e riprendendole con gran villania 
+diciendo loro ch'elle non sapeano niente appo loro e questo voleano 
+provare e disputare chon esso loro.  E ci@o veggiendo e udendo le dette 
+muse e scienzie e lla pazzia di costoro mal parea loro di rispondere 
+loro e peggio di lasciarsi vituperare.  Il di che si diedono a 
+disputare insieme e si fu detto che Chaliope disputasse con esso loro e 
+Pallas desse la sentenzia di chi vinciesse.  Il di che queste nove 
+esendo vinte da Chaliope e pur gridando che non era vero Palla diede la 
+sentenzia alle nove picche ch'elle avessino perduto.  E per questo 
+sentenzi@o ch'elle diventassono nove picche cio@e nove chornacchie 
+overo ghazze s@i cche si convertirono a uciegli.  E questo @e secondo i 
+poeti.  La vera istoria si @e questa che di queste ghazze n'@e pieno 
+tutto il mondo imper@o che sono assai che con un poco di loicha e di 
+loro scienzia c'hanno si mettono a contastare coi valenti huomini il di 
+che adrieto rimanghono beffati e ischerniti e i lor detti nel fine si 
+convertono in versi di ghazze chome feciono chostoro inverso Chaliope.  
+E questa @e quella scienza che ll'altore chiama in questo luogo per 
+aiuto.  E dicie Dante colui volgiendosi e ghuardando giuso inverso 
+l'altro polo il quale non si pu@o vedere imper@o che sono due poli i 
+quali reghono e ghovernano tutto il mondo.  Cio@e il polo Articho e 
+questo si @e settentrione.  E l'altro si @e il polo Antarticho ed @e 
+diritto a quello ed @e s@i basso che per noi che abitiamo questa terra 
+non si pu@o vedere.  E dicie l'altore ch'egli vedesse quatro nobilixime 
+stelle non viste mai salvo che lla prima giente.  Queste si deono 
+intendere per le quatro virt@u chardinali cio@e justizia prudentia e 
+temperanza e fortezza le quali si soleano usare per le [per le] prime 
+gienti antiche ma ora non s'usano e non si sognano queste virt@u e 
+per@o non sono viste s@i cche per@o dicie bene il nostro altore poeta 
+Dante.
+
+	|28-81.~ 
+
+   ^Com'io di loro isghuardo fu' partito~
+   ^un poco me volgiendo all'altro polo~
+   ^L@a onde il carro gi@a era sparito.~
+
+In questa seconda parte l'altore discrive ch'egli truovi una ghuardia e 
+lla ghuardia che truova dicie che ffu Chatone.  E lla chagione perch@e 
+l'altore fingie che truovi Cathone si @e per cinque ragioni e chagioni. 
+ E parla qui l'altore di questo purghatorio morale e non dello 
+esenziale.  Imper@o che assai volte parla in questo libro del 
+purghatorio di questo mondo.  E assai volte parla del purghatorio 
+esenziale e chom'egli ha fatto nello inferno in assai parti che se ttu 
+intendessi la lettera del testo chom'ella suona tu intenderesti male.  
+Imper@o che Chatone fu paghano e uccise s@e medesimo con sua propia 
+mano per non venire sottoposto alla signioria di Julio Ciesare 
+conciosiachosach@e Cathone fu suo mortale nimicho.  Ma perch@e il 
+nostro altore il mette qui sono cinque chagioni.  La prima perch@e 
+Cathone fu gientile huomo di sanghue per sua origine.  La seconda per 
+grande antichit@a di tempo.  La terza perch@e fu savio in tutte le 
+scienzie.  La quarta perch@e fu consolo e senatore di Roma ed ebbe ogni 
+degnit@a e uficio in Roma.  La quinta e ultima perch@e fu savissimio in 
+guerra e in pace e fu gagliardissimo e alla fine s'uccise in questo 
+modo.  Che essendo egli amicho di Pompeo Magnio e nimicho di Ciesare e 
+per una ghotata che Ciesare gli avea dato e Ciesare seguendo Pompeo e 
+avendolo isconfitto in Tesaglia Catone si part@i con tutti i rimasi 
+valenti huomini d'arme e fecie la via d'Africha e venne i[n] Libia e 
+ivi s'acost@o col re Giubba e ei fecie festa grossa.  Et ci@o sentendo 
+Ciesare venne i[n] Libia e combatt@e co rre Giubba e con Cathone e ffu 
+Ciesare vincitore e mor@i il re Giubba alla battaglia e Cathone fugg@i 
+nella citt@a e and@o in una chamera e serratosi dentro si volle con un 
+coltello uccidere e dessi nel petto.  Cosentendo il figliuolo con altri 
+baroni tratti alla chamera e per forza entrati dentro gli levarono il 
+coltello di mano e fasciarogli la piagha confortandolo il missono nel 
+letto di che allora disse al figliuolo dovesse essere amico di Ciesare 
+imper@o che ti perdoner@a e poi Cathone si lev@o e serr@o l'uscio e 
+isfasciatosi misse mano nella piagha s@i e in tal modo l'anima dolorosa 
+si part@i.  E questa fu la morte del savio e buon Cathone.  Et per sua 
+grande nobilt@a l'altore il mette qui portinaio et lucie di questo 
+purghatorio mondano e moderno s@i cche di ci@o lettori non vi 
+maravigliate.
+
+	|82-84.~ 
+
+   ^Lassane andare per li tuo sette regni~
+   ^grazia riporter@o di te a llei~
+   ^se d'essere mentovato laggi@u degni.~
+
+L'altore fingie che Virgilio prieghi Cathone che gli piaccia dovere 
+loro insegniare il chamino per lo quale debbono andare e iscongiuralo 
+per parte di Marzia la quale fu donna d'esso Cathone valorosa e da bene 
+e abita in quel luogho in inferno dov'abita Virgilio cogli altri 
+ispiriti magni e valenti huomini e donne dannate secondo che il nostro 
+altore pone.
+
+	|85-136.~ 
+
+   ^Marzia piacque tanto agli occhi miei~
+   ^mentre ch'i' fu' di l@a diss'egli allora~
+   ^che quante grazie volle da mme fei.~
+
+Qui parla Cathone e dicie a Virgilio per Dante che a volere entrare 
+Dante per questa via della penitenzia s@i si gli vuole cingniere il 
+giuncho e lavagli il volto.  Cio@e per lo giuncho dei intendere 
+l'umilt@a e lla semplicit@a perch@e al tutto umilit@a si vuole pigliare 
+e avere a volersi partire da' vizii e da' pecchati e chi non @e umile 
+non se ne puote partire n@e anche entrare a purgharsi degli altri vitii 
+e pecchati.  Et per lo lavarsi del viso cio@e lavarsi e purgharsi colla 
+confessione de' suoi pecchati e in questo modo si viene a lucie di bene 
+e di virt@u.  Et dinanzi al ministro di purghatorio cio@e all'angiolo 
+d'Idio il quale t'invia poi alla divina corte del paradiso.

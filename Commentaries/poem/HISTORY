@@ -1,0 +1,12 @@
+-------------------------------------------------
+Entered on 16 Dec 2004 by dante:
+DDP moved from alexandria to webapp
+-------------------------------------------------
+Entered on 11 Jan 2005 by dante:
+Broke inf/inf, purg/purg, and para/para into separate .e files
+just like the commentaries. Also removed the now-unneeded "CANTO"
+label lines and the "|nnn" line numbers.      -stc
+-------------------------------------------------
+Entered on 01 Nov 2010 by dante:
+This year we have fixed a couple of typos found for us by Carol Chiodo of the 
+Italian Language & Literature Department at Yale. Boola, boola!   -stc

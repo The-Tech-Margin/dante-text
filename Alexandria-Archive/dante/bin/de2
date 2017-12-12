@@ -1,0 +1,11 @@
+#!/bin/sh
+
+# Remove the first 2 lines from a file. This gets used to remove
+# the "INFERNO CANTO 5" lines from text files.
+
+TMP=/tmp/de2.$$
+
+for FILE
+do
+	sed '1,2d' $FILE > $TMP && cp $TMP $FILE
+done

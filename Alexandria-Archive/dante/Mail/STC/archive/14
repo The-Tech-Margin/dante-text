@@ -1,0 +1,75 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.6.11/8.6.9) with ESMTP id JAA15703 for <steve@avalon.Dartmouth.EDU>; Wed, 9 Aug 1995 09:18:13 -0400
+Received: from Princeton.EDU (root@Princeton.EDU [128.112.128.1]) by dartvax.dartmouth.edu (8.6.12-DND/8.6.12) with SMTP id JAA08434 for <Stephen.Campbell@Dartmouth.EDU>; Wed, 9 Aug 1995 09:18:14 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.122/princeton)
+	id AA04898; Wed, 9 Aug 95 09:12:27 -0400
+Received: from tucson.Princeton.EDU by ponyexpress.princeton.edu (8.6.12/1.11/newPE)
+	id JAA18565; Wed, 9 Aug 1995 09:12:24 -0400
+Received: by tucson.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA13347; Wed, 9 Aug 95 09:12:23 EDT
+Message-Id: <9508091312.AA13347@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Wed, 9 Aug 1995 09:12:23 EDT
+In-Reply-To: Stephen Campbell <steve@avalon.dartmouth.edu>
+       "" (Aug  8,  4:05pm)
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Stephen.Campbell@Dartmouth.EDU
+Cc: bobh@phoenix.Princeton.EDU
+
+Next step is to prepare as much material as we think
+wise in order to develop an efficient word supply.
+This is not a simple business.  E.g., all comms.
+contain such things as Roman numerals, Latin words,
+Hebrew transliterations, Greek words, etc., etc., that
+will not show up in the Pisan word list of Italian
+forms lemmatized.  Thus we will get more things than we
+want to get as "erroneaos," and I imagine there's a
+point where this really starts wasting a lot of time.
+
+In any case, we would not use any comms. that were done
+before 1790 in order to avoid checking ITALIAN that is
+diff. in many instances from modern Italian.  So, we
+could either do EVEY comm. starting with Lombardi
+(1794) OR we could pick an assortment of those.  It's a
+tough call.  E.g., the most voluminous comm. among the
+moderns is one by Scartazzini.  It is filled with
+hundreds of abbreviations (technical philological
+terms, names of authors, etc.) and so would probably
+give us some weird results.
+
+You have lots more sense of what will be a useful
+compromise than I.  Please remember one thing: Toby and
+I are almost done with OUR wordlist of correct forms,
+drawn from a large and important contemp. comm.  Two
+things: Since that one is filled with error (there must
+be 600 or so [!]) I'd not include it; second, we ought
+to use THAT list to run our own check on the data we
+produce for Pisa to check.  Does that make sense?
+
+Once you tell me what you think about the completeness
+issue (how many is too many; what sort of comm. to
+leave out), I will draw up a list of comms. to include
+and you can (easily I hope, for your sake) produce a
+list of words coming from that number of comms.
+
+One last issue: is it worth my checking the raw list
+"by hand" before we send it out?  Or is that just a
+time-waster?  E.g., ystdy by chance I found three words
+in the database with three "m"s in a row in them.
+Since we know them, should we cut them from the list
+that goes to Italy (that is only one of hundreds of
+examples we'd have)?  Taking that step further, should
+we cut from your list all the many hundred that I've
+already found before we send it?
+
+Sorry for all the questions. I'm new at this.
+
+AS for reloading the DDP, as more and more use it, it
+becomes more and more desirable.  But it sure ain't
+gonna happen this summer.  However, it is the sort of
+work that I can do in odd hours that I get when I'm
+under the University's work-week; maybe we can get that
+done this winter.
+
+We're still due in NH 23 August for a week and hope to
+see you two for more than computer business.  Bob

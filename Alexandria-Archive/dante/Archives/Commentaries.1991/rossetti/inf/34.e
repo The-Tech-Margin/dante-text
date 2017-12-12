@@ -1,0 +1,790 @@
+|INFERNO CANTO 34~
+
+	|Introduzione.~  Le allusioni nascoste in questo canto
+son senza numero, ma s@i complicate e accatastate che sar@a pregio
+lasciarne moltissime per non produrre confusione; e di non leve
+sforzo sar@a mestieri per trarne alcune di mano a quella tremante
+diffidenza che si @e protestato fin dal principio del canto, che
+^con paura le mise in metro.~  Estinto il magnanimo Arrigo, s@i
+Dante che gl'imperiali tutti, scoverti di ogni scudo, si videro
+grandeggiare incontro il Guelfismo nemico, dominatore assoluto ed
+irresistibile.  Nel comune scoraggiamento restarono gl'infelici
+quasi senza carattere deciso.  Non si fecer Guelfi, perch@e
+l'abbominavano; non rimaser Ghibellini, perch@e non l'osavano:
+poich@e il primo gli avrebbe degradati, il secondo, rovinati. 
+Onde, mancando di ogni esser politico, furon poco diversi da
+quegli ^sciaurati che mai non fur vivi~, i quali ^non hanno
+speranza di morte~ {III 64, 46}: in somma in quel miserabile
+stato di nullit@a di chi non ardisce mostrarsi qual @e, e sdegna
+apparire qual non @e.  E che vale il darsi animo in tal caso di
+desolazione e periglio?  Questo @e il luogo in cui potrei
+richiamare i precedenti lampi dal poeta vibrati e quegli altri
+che furon da noi prodotti; lampi che si spiccarono da questo suo
+maliziosissimo concetto; ma a che appoggiarsi a tai puntelli,
+quando saldissime colonne massicce mi son davanti?  Non v'ha
+dubbio alcuno: i morti di questo Inferno sono i Guelfi, e perci@o
+il capo di questo Inferno non pu@o esser altro che il capo de'
+Guelfi.  Il Dio del poema @e un tipo dell'Impero; e perci@o il
+Lucifero del poema non pu@o essere assolutamente che un tipo
+dell'Ant-Impero: Ci@o io prometto di dimostrare (udite che
+prometto) quasi sino all'evidenza matematica.  Datemi tempo e lo
+vedrete; e per ora poniamo in mezzo una delle solide colonne. 
+Dante f@e gran profitto dell'Apocalisse, e vedremo pi@u tardi sino
+a qual punto.  Per quel santo libro potremo quindi scorgere
+meglio chi @e questo Satana.  Rammentiamoci prima che nel C. XIX
+(dove osservammo i Simoniaci coi pi@e in aria) la corrotta potest@a
+Guelfa fu dal poeta rassomigliata alla donna dell'Apocalisse
+ch'ei confuse col drago mostruoso.  Ecco quel luogo Dantesco: ^Di
+voi Pastor s'accorse il Vangelista, Quando colei che siede sopra
+l'acque Puttaneggiar coi regi a lui fu vista; Quella che con le
+sette teste nacque, E dalle diece corna~ ecc. {XIX 106-110}.  Or
+se il Vangelista ci dir@a che quel drago vermiglio con sette teste
+e dieci corna si chiama Satana, e Dante in quello stesso vide un
+immagine dei cattivi Pastori (^Di voi Pastor~) potremo pi@u
+dubitare chi sia questo Satana, che ha tre spiriti immondi,
+pendenti dalle tre bocche?  E S. Giovanni che parla, uditelo:
+<Draco magnus rufus habens capita septem et cornua decem... 
+Draco ille magnus, serpens antiquus, qui vocatur Diabolus et
+Satanas, qui seducit universum orbem>: cap. xii, 3 e 9.  <Et vidi
+de ore draconis, et de ore bestiae, et de ore pseudoprophetae
+spiritus tres immundos>: xvi, 13.  Non senza perch@e Dante disse
+col@a al suo Virgilio, ^e sai quel che si tace~ {XIX 39}.  Dalle
+allusioni generali intorno a Satana passiamo ora alle parziali,
+anzi alle personali.  Gi@a dicemmo altrove con istorica
+testimonianza, ch'era assai conosciuto a que' tempi un ritratto
+di Clemente V, che avea tre vessilli sul dorso innanzi alla
+faccia: <Supra cujus dorsum tria sunt ante faciem ejus erecta
+vexilla>; cos@i lo storico Pipino; e Dante pose a Lucifero tre
+paja d'ali sul dorso, ripartite innanzi a ciascuni faccia, e
+quell'ali le chiam@o vessilli del Re dell'Inferno, ^Vexilla Regis
+prodeunt Inferni~: e fa soggiunger dal suo Virgilio ^verso di
+noi~ cio@e si avanzano contro di noi: e fa dirsi di pi@u, ^per@o
+dinanzi mira se tu il discerni~ {1-3}; quasi che il suo
+Ghibellinismo lo invitasse a ravvisare un nemico celato sotto la
+nebbia della fraude e nascosto nella notte del tradimento; un
+avversario che cominci@o con essere amico, e poi volubile si gir@o
+come un mulino a vento: ^Come quando una grossa nebbia spira, O
+quando l'emisperio nostro annotta, Par da lungi un mulin che il
+vento gira, Veder mi parve un tal dificio allotta~ {4-7}.  Il
+soffio, che da quello incostante eman@o, gel@o tutti gli animi ai
+nobili affetti, e gli indur@i contro Arrigo e il vero bene
+dell'Italia.  Cento e cento ribelli a quel soffio si suscitarono;
+col consiglio prima i Fiorentini, con l'opera poi i Cremonesi, i
+Bresciani, i Padovani, i Bolognesi, i Pavesi ecc. ecc. prima
+celati e poi manifesti: e quando la mal opra nascosta chiara
+trasparve, tremarono i poveri Ghibellini, e cercarono a quel
+fiato di tradimento farsi scudo del loro partito medesimo: ^Poi
+per lo vento mi restrinsi retro al duca mio, ch@e non v'era altra
+grotta.  Gi@a era, e con paura il metto in metro, l@a dove l'ombre
+tutte eran coperte~ {8-11}.  Udite ora indicare i varj modi di
+dar opera al tradimento; qual consigliando, qual pensando, qual
+camminando ecc.  ^Altre stanno a giacere, altre stanno erte;
+questa col capo e quella con le piante~ {13-15} ecc.  <Philosophi
+antiquiores ponunt esse in anim#a pedes, affectus voluntarios>:
+Pierio Valer.  Sembiante d'amico ebbe da prima Clemente verso il
+buon Arrigo, e gran maraviglia dov@e produrre ne' Ghibellini il
+ravvisare poscia in lui pi@u d'un aspetto e diverse facce.  Onde
+il maestro, nel mostrare a Dante la verit@a delle cose, gli dice:
+ecco colui ch'@e la cagione di tutt'i mali che contemplasti, ecco
+il Lucifero di questo Inferno; ed ecco il loco dove conviene
+armarti di fortezza d'animo: ^Quando noi fummo fatti tanto avante
+Che al mio maestro piacque di mostrarmi La creatura ch'ebbe il
+bel sembiante: ^Ecco Dite, mi disse, ed ecco il loco Ove convien
+che di fortezza t'armi... Oh quanto parve a me gran maraviglia,
+Quand'io vidi tre facce alla sua testa!~ {20-21, 37-38}.  Poco
+dopo la morte di Arrigo segu@i quella di Clemente col solo divario
+di mesi 8, ed anche meno; essendo Arrigo mancato ai 23 di Agosto
+1313 e Clemente ai 20 di Aprile 1314.  <Questi fu un uomo molto
+cupido e Simoniaco, ch@e ogni beneficio per moneta in sua corte si
+vendea>, scrive G. Villani (ix, 58).  E racconta lo storico che
+la morte di lui, preceduta da quella d'un Cardinal nipote non men
+di lui simoniaco, fu affrettata dalla paura; poich@e il Papa
+superstizioso <costrinse uno grande maestro in negromanzia> a
+rivelargli <che fosse dell'anima del nipote>.  E il negromante f@e
+dai diavoli suoi valletti portare in carne ed ossa un cappellano
+del Papa all'altro mondo, per assicurarsene con gli occhi suoi. 
+Il prelato tornando narr@o aver veduto Sua Eminenza fra i
+simoniaci, e preparato un luogo assai grandioso e distinto
+nell'Inferno dove dovea passare Sua Santit@a: di che l'intimorito
+Guascone cadde in tal mestizia, che poco dopo pass@o.  Or Dante si
+trov@o nella selva oscura la mattina del Gioved@i Santo, prima del
+20 d'Aprile, dietro un calcolo da varj gi@a fatto.
+
+	|1-9.~  ^I vessilli del Re dell'Inferno gi@a compajono~
+incontro a noi; per@o mira dinanzi, se tu lo discerni: cos@i disse
+il maestro a Dante.  Come indistinto appare da lungi un mulino
+che il vento gira, allorch@e, per aura che spira, una grossa
+nebbia si spande, o quando il nostro emisferio annotta, un tale
+edificio parve allora a Dante vedere fra quelle ombre.  Poi, a
+cagione del vento impetuoso, si ristrinse dietro al suo duca,
+perch@e non vi era altro schermo (|grotta~).  Que' vessilli stessi
+producono questo vento, poich@e il poeta intende per essi le ali
+di Lucifero che svolazzano da lungi: e le ha indicate con le
+prime parole di quell'inno sacro (|Vexilla~ ecc.) con cui la
+chiesa esalta il vessillo di nostra redenzione, per fare
+opposizione fra i due capi, questo della perdizione quaggi@u, e
+quello della salvazione lass@u.
+
+	|10-15.~  Le anime sono in questo luogo intieramente
+coverte dal ghiaccio, e traspajono di sotto come le festuche
+traspajono nel vetro.  Esse sono in varie strane posizioni; altre
+stanno a giacere supine, altre stanno erette; e tra queste ultime
+quella sta erta col capo, e quella con le piante in su; ed altra
+finalmente, quasi in forma d'arco, inverte il volto ai piedi. 
+Dante di sopra il ghiaccio sta osservandole a fronte china,
+camminando dietro a Virgilio.  Siamo gi@a nel quarto ed ultimo
+spartimento dell'area ghiacciata, ov'@e la quarta classe de'
+traditori, fra i quali @e compreso Giuda che di@e il nome al luogo,
+e Lucifero che lo ingoja; poich@e s@i l'uno che l'altro commisero
+nefanda prodizione al divin loro benefattore e signore.
+
+	|19-27.~  Povero Dante!  Invano il suo maestro gli dice:
+|ecco Dite~, ecco il loco dove conviene che t'armi di fortezza;
+poich@e in faccia al gran nemico ei ^non mor@i e non rimase vivo~;
+e prega noi lettori di pensare per noi stessi, se abbiamo fiore
+d'ingegno, qual ei rimase privo dell'esser vivo e dell'esser
+morto: frasi che parver sinora quasi vote di senso; ma adesso ne
+hanno uno bello e buono, e pi@u in l@a ne sentiremo la forza.
+
+	|16-27 {Nota Finale}.~  E qui, giunto in faccia a
+Lucifero, Dante ch'erasi posto a riparo dietro a Virgilio, dice:
+Il mio maestro |dinanzi mi si tolse e f@e restarmi~: ci@o ne indica
+il suo rimanere privo di scudo: |Ecco Dite, dicendo, ed ecco il
+loco, dove convien che di fortezza t'armi.~  E Dante s'arm@o di
+fortezza?  udiamolo da lui: |Qual io divenni allor gelato e fioco
+Nol dimandar, lettor, ch'io non lo scrivo, Per@o ch'ogni parlar
+sarebbe poco: Io non MORII, e non rimasi VIVO: Pensa oramai per
+te, s'hai fior d'ingegno, Qual io divenni, d'uno e d'altro
+privo~: Ecco quello stato di nullit@a politica che accennammo, in
+cui l'uom retto e sventurato resta senza speranza alcuna, e col
+solo interno sentimento di aver voluto e tentato il bene, di non
+averlo potuto ottenere, e di aver tratto da ci@o lo scherno de'
+potenti nemici, e la sua ruina irreparabile.  Seguiamo ad udire
+il poeta.
+
+	|28-33.~  Dividiamo quest'essere colossale in due parti,
+e l'ombelico sia il punto medio che coincida giustamente col
+centro della Terra.  La parte superiore, che riguarda il nostro
+emisfero, suddividiamola anche in due: dall'ombelico alla met@a
+del petto, tutto nel gran masso di ghiaccio; il resto fuori,
+talch@e le ali svolazzino libere sul campo gelato.  La parte
+inferiore, che riguarda l'emisfero opposto, suddividiamola anche
+in due: dall'ombelico alle ginocchia entro un masso di pietra, il
+resto fuori in un vacuo, talch@e le gambe guizzino sciolte. 
+Questa @e la situazione di quel traditore che regge ed impera sui
+morti; ed @e colossale di modo che Dante dice: |Pi@u con un
+gigante~ ecc.: Cio@e, mi adeguo e convegno pi@u io con un gigante,
+che non si adeguino i giganti con le sue braccia.  Ci@o vuol dire
+che vi @e minor differenza di grandezza tral corpo di Dante e 'l
+corpo di uno di que' giganti gi@a veduti, di quella che vi sia tra
+due di coloro e le braccia di Satanno.  Indicazione finissima che
+mette in relazione coloro con costui.
+
+	|28-36 {Nota Finale}: L'imperador del doloroso regno di
+mezzo il petto uscia fuor della ghiaccia~: ecco l'assoluta
+dominazione, senza contrasto.  |E pi@u con un gigante io mi
+convegno che i giganti non fan con le sue braccia: Pensa oramai
+qual esser dee quel tutto che a cos@i fatta parte si confaccia~:
+colossale potere del partito avverso.  Mi sarebbe assai difficile
+il far mostra in questo luogo delle pi@u forti pruove che valgono
+ad assodare sempre pi@u la vera essenza di questo Lucifero
+Dantesco, senz'aver prima svelato segreti di altissimo momento. 
+Onde null'altro qui far@o se non iniziar la materia, per
+isvilupparla poi meglio nel seguente Trattato.  Stabilir@o le idee
+principali; alcune particolarit@a le scrutiner@o pi@u gi@u.
+
+	|34-38.~  Fu Lucifero il pi@u bello de' Serafini, onde
+senza misura avrebbe dovuta essere la sua gratitudine verso Dio
+che tale il cre@o; pure il malizioso si rivolt@o contro il suo
+fattore: il che ne fa scorgere tutta la perversit@a sua; poich@e
+quanto maggiore @e il beneficio ricevuto, tanto pi@u grande @e la
+malizia dello sconoscente.  Giusto @e dunque che, per effetto del
+suo peccato, sia divenuto tanto deforme quanto vago si fu: onde
+il poeta nel vederlo esclama: |S'el fu s@i bello~ ecc.: Cio@e, s'ei
+fu s@i bello come egli ora @e brutto, o sia immensamente bello,
+eppure os@o levare le superbe ciglia contro il suo fattore cui
+tanto dovea, uopo @e supporre in lui tanta nequizia che ben ogni
+lutto e male da lui proceder dee.  Quasi dica: non mi fa pi@u
+maraviglia che s@i gran danno arrechi al mondo, al riflettere che
+di s@i enorme sconoscenza fu capace.
+
+	|39-45.~  Vermigli di volto son gli Europei; giallicci
+gli Asiatici; neri gli Africani: cio@e, la sinistra faccia era a
+vedere tale, quali vengono le umane facce di l@a, ove il Nilo dai
+monti d'Etiopia si avvalla e stende ad irrigar l'Egitto.  E
+Lucifero @e situato di modo che ha l'Europa innanzi, l'Asia a
+destra, e l'Africa a sinistra, per ricevere il tributo delle
+anime delle tre parti del mondo allor cognite; poich@e ^Quelli che
+muojon nell'ira di Dio tutti convengon qui d'ogni paese~ {III
+122-123}.  Quindi il poeta ha immaginato che Lucifero ha tre
+facce dei tre indicati colori: e quella di prospetto e le due
+laterali, che si elevano sovra (|sovresso~) ciascuna spalla,
+vanno a congiungersi sul vertice del capo, detto |luogo della
+cresta~, poich@e la cresta @e simbolo della superbia; da che la
+frase latina <cristas tollere> (Giov.) <levar la cresta>; e
+diciam anche <bassar la cresta, fiaccar la cresta>, ecc.
+
+	|39-45 (Nota Finale}.~  E pria di tutto avviciniamoci a
+guardar ben bene quelle tre facce di Lucifero.  Roma, Francia e
+Firenze ci comparvero da principio nelle tre fiere; Roma Francia
+e Firenze ci si mostreranno ancora in queste tre facce: e nel
+loro complesso scorgeremo l'essenza del Guelfismo astratto con
+alcune allusioni personali.  Il tergemino Gerione ci present@o
+anche quella triplice lega dolosa; ma pi@u distinta ce l'offrirono
+le tre Furie di Dite.  ^Tesifone~ che vuol dire ^uccisione~ fu in
+mezzo, e simboleggi@o Roma, cagion principale di tante stragi. 
+^Megera~ che significa ^invidia~ fu a sinistra; ^Aletto~ che
+suona ^senza pace~ fu a destra: e figurarono l'invida Firenze, e
+la superba Francia.  Or io dico che in Lucifero la faccia media
+adombra Roma; la sinistra Firenze; la destra Francia: |Vermiglia~
+@e la media, ^nera~ @e la sinista, |tra bianca e gialla~ @e la
+destra: esaminiamo.  Gi@a dicemmo che il color distintivo del
+partito Guelfo era il ^vermiglio~, onde vermiglio fu Flegetonte
+che ne adombr@o l'ardore: ecco dunque Roma in mezzo, centro del
+partito Guelfo.  Sappiamo che ^Nera~ era Firenze, e nera @e la
+faccia sinistra.  Ma come Francia sar@a dipinta in quella ch'@e a
+destra, |tra bianca e gialla?~  ^O Simon Mago, o miseri seguaci~
+(e la casa di Francia era la prima seguace de' seguaci di Simon
+Mago) ^che le cose di Dio per oro e per argento adulterate! 
+Fatto v'avete Dio d'oro e d'argento; ma Piero non chiese n@e oro
+n@e argento~ (XIX 1-4, 112); e l'arma della casa di Francia era
+appunto il giglio d'oro, detto da Dante ^giglio giallo~ (^Pd~ VI
+100), e il giglio d'argento, ^la fleur de lis~, detto da Dante
+^lo fiordaliso~ (^Pg~ XX 86); dunque parmi che i gigli bianchi e
+gialli di Francia, de' quali Dante parla, abbian prodotta quella
+faccia tra bianca, e gialla.  Chi di ci@o non s'appaga, altro
+s'attenda da quel poetico genio che allusioni sopra allusioni
+aggueffava.  Di pi@u, per far vedere che Roma era il fondamento di
+quella lega, e le altre due erano ad essa congiunte, si serve di
+un modo assai accorto.  Dopo aver detto che Lucifero ha tre
+facce, e dopo aver nominata la prima, non segue a dire ^le altre
+due~, ecc. ma bens@i |l'altre eran due che s'aggiungeano a
+questa~; quasi volesse dire le altre eran due potenze che
+s'aggiungeano a questa prima.  E finalmente per far sentire che i
+principi Guelfi eran come le braccia di quel Lucifero, per le
+quali braccia i Ghibellini furon ridotti a zero, fa quel paragone
+fra le braccia di Lucifero e i giganti, e fra questi e lui; nel
+qual paragone ei resta di quasi impercettibile dimensione.
+
+	|46-52.~  <Impetuosi venti I nostri affetti sono>, e
+venti terribili son quelli che spirano dalla superbia, detta dai
+Latini <ventosa superbia>; venti che gelano tutt'i santi affetti
+della natura, venti s@i forti che rovesciarono ben sovente le
+cittadi e i regni.  Sotto ciascuna faccia di Lucifero uscivano
+due ali, tanto grandi quanto si convenivano a s@i immenso
+uccellaccio.  E ben vi ha spazio a situar ali in s@i vasta mole,
+quantunque sien esse s@i ampie da vincere in larghezza le vele de'
+maggiori navigli. Adunque tre facce, tre paja d'ali, le quali ci
+ricordano che questo tristo uccello, che tropp'alto volar volle,
+fu dell'ordine de' Serafini, ciascun de' quali vien nella Bibbia
+dipinto con sei ali.  Ma quelle di costui perdetter le penne,
+arse dai fulmini, onde sono a modo delle ali di pipistrello, nude
+cartilagini, e flessibili membrane; ed ei le svolazza e le batte
+s@i, che tre venti in tre direzioni si muovon da lui (|da ello~);
+ed han tal forza, che si fecer sentire fin dal viso di Dante,
+reso insensibile come un callo; e son s@i freddi che tutto il
+vastissimo lago di Cocito ne aggel@o.
+
+	|46-52 {Nota Finale}.~  Per significarci poi che
+l'insurger de' popoli, e il loro agghiadarsi ad ogni senso di
+fraterno amore, nasceva appunto dall'influenza per ampia sfera
+estesa di Roma Giudesca, di Francia Cassiesca e di Firenze
+Brutesca, ei f@e che tre paja d'ali movessero intorno tre gelidi
+venti, onde |Cocito tutto s'aggelava.~
+
+	|53-57.~  Pianga pure il superbo, che anche sei occhi son
+pochi a scontare quel delitto che del pi@u bel Serafino lo f@e il
+pi@u orrendo Demonio, quel delitto, fra i massimi il sommo, che
+produsse l'Inferno: <Superbia ex angelis daemones facit; ipsa est
+omnium peccatorum initium, et finis, et causa>: S. Agost.  Al
+pianto <mixtum spumis vomit ore cruorem> (Virg.); anzi non da un
+mento, ma ben da tre goccia quel miscuglio di pianto e sanguinosa
+bava, poich@e da ognuna delle tre bocche dirompe continuamente co'
+denti un peccatore, a guisa che farebbe una maciulla, strumento
+da frangere lino o canape: s@i che tre ne fa |cos@i dolenti.~
+
+	|58-67.~  A quello ch'@e nella bocca dinanzi il mordere @e
+un nulla appetto al graffiare, tanto che, al lacerar di quegli
+artigli, la schiena del misero maciullato rimane tutta spoglia
+(|brulla~) della pelle; e ci@o mostra ch'egli @e il pi@u colpevole
+dei tre, ch'egli @e colui che di@e il nome di ^Giudecca~ a questa
+ultima parte del lago; colui che or si sente rendere dattero per
+fico nel ricevere dalla bocca di Lucifero baci ben diversi da
+quello ch'ei diede al suo tradito signore.  Giuda, volto di
+schiena col capo dentro e il resto fuori, pende dal ceffo
+vermiglio ch'@e in mezzo; Bruto, con le gambe sopra e il capo
+sotto, pende dal ceffo nero ch'@e a sinistra; e cos@i Cassio dal
+ceffo giallastro a destra.  L'indomabile Bruto, stoico fin
+nell'Inferno, si torce e non fa motto; Cassio @e di gran forma e
+grosse membra.  |Quell'anima lass@u~: espressione che ne fa vedere
+l'altezza dello smisurato serafino ribelle, quantunque ei non
+esca dalla ghiaccia se non dalla met@a del petto in alto.
+
+	|61-67 {Nota Finale}.~  Di pi@u: Giuda pende dal ceffo
+vermiglio; Bruto dal ceffo nero; Cassio dal ceffo tra bianco e
+giallo: consideriamoli ora in ordine inverso.  Il poema dipinger@a
+nel Purgatorio Filippo il Bello sotto forme gigantesche; la
+storia dice che Firenze non rivel@o mai i segreti istigamenti che
+ricev@e; e la storia stessa narra che il Papa si sti@e sempre
+nemico nascosto, sino al termine.  Onde quel gigante di Francia
+f@e che Cassio sia |s@i membruto~; il silenzio di Firenze f@e che
+Bruto ^si torca e non faccia motto~; e quell'esser celato del
+Papa f@e che il venditor di Cristo tenga ^il capo dentro e fuor le
+gambe meni~, quasi a tirar calci da traditore; poich@e esso
+presenta il tradimento sepolto di colui ch'era ^L@a dove Cristo
+tutto d@i si merca~ {^Pd~ XVII 51}, al dir di Dante.  Francia si
+svel@o finalmente con la ribellion di Roberto; Firenze con la sua
+propria ribellione; ma il Papa non os@o mai appalesare
+sfrontatamente ci@o ch'ei si era: e perci@o Cassio e Bruto mostran
+la faccia, e Giuda la schiena.  L'allusione di Bruto e Cassio che
+ucciser Cesare @e chiarissima a chi si rammenta di quanto dicemmo
+intorno ad Arrigo; non cos@i quella di Giuda; ma lo diverr@a in
+appresso, per altre parole del poeta.
+
+	|68-69.~  Virgilio segue: |Ma la notte risurge~: Siamo al
+sorgere della terza notte, cio@e alla sera del Sabato Santo,
+giorno in cui il divin maestro risuscit@o dai morti; e il poeta,
+visto il mal effetto de' vizj, anch'egli, dietro la scorta del
+saggio maestro suo, <tertia die resurrexit a mortuis>.  Con
+questo disegno apr@i la scena del suo poema giusto col mattino del
+Gioved@i Santo, come altrove riflettemmo.
+
+	|70-75.~  Ricordiamoci che Ser Brunetto scrisse nel
+^Tesoro~ che la Terra @e rotonda, circondata intorno intorno dal
+Cielo; soggiungendo: <Se fosse una cosa possibile che l'uomo
+potesse cavar la Terra, e fare un pozzo che andasse dall'un lato
+all'altro, e per questo pozzo gittasse poi una grandissima
+pietra, o altra cosa grave, io dico che quella non andrebbe pi@u
+oltre; anzi si terrebbe nel mezzo, cio@e nel punto del compasso
+della Terra, s@i che non andrebbe n@e innanzi n@e indietro.  Tutte
+le cose si traggono e vanno via al pi@u basso; e la pi@u bassa cosa
+e pi@u profonda che sia nel mondo si @e il punto della Terra, cio@e
+il mezzo interno ch'@e appellato Abisso; quanto la cosa @e pi@u
+pesante, tanto pi@u si trae verso l'Abisso>.  Il pi@u enorme di
+tutt'i peccati fu quello di Lucifero (<superbia delictum maximum
+est>, S. Bern.) e quindi giunse al centro, e si arrest@o nel punto
+dell'universal gravitazione, senza poter andare n@e innanzi n@e
+indietro.  Lucifero dunque non resta l@i immoto perch@e sia
+compresso e stretto dal ghiaccio, ma solo per fisica forza
+centripeda.  Anzi dal masso di gelo e di pietra, che gli son
+perizoma al ventre ed alle cosce, egli @e circondato ma non @e
+tocco; talch@e rimane un bel v#oto intorno intorno, fra lui e 'l
+ghiaccio, fra lui e la pietra: e per questo vacuo Virgilio e
+Dante or passan oltre: e il passaggio accade cos@i.  Dante
+avvincola con le braccia il collo di Virgilio dalla parte del
+dorso; e questi, presa opportunit@a (|poste~) di tempo e luogo,
+appostato cio@e in convenevol sito e approfittandosi del
+contrattempo, quando vede le ali di Lucifero aperte assai, si
+appiglia fortemente alle pelose (|vellute~) coste del gran
+nemico; e cos@i, con Dante alle reni, scende gi@u di vello in vello
+tral fianco di Lucifero e la parete di ghiaccio, e giunge al
+centro della Terra.
+
+	|76-81.~  Quando ambo i poeti furono l@a dove la coscia di
+Lucifero si volge ed eleva in sul grosso dell'anca, il duca per
+superare la forza ch'@e nel punto della universal gravitazione,
+con gran fatica ed angoscia volse la testa ov'egli avea prima le
+gambe; e, passato il terrestre centro, cominci@o a dirigersi
+all'emisfero opposto.  Per far ci@o, aggrappossi al pelo delle
+cosce di Satanno, avanzandosi verso il ginocchio, com'uom che
+sale; s@i che Dante, vedendolo poggiare in su, credea tornar per
+anche nell'Inferno, risalendo per dove era sceso.
+
+	|82-87.~  Il maestro, ansando come uom lasso, gli disse
+allora: Attienti bene a me, che per cotali scale si convien
+dipartir da tanto male.  Poi usc@i di l@a per l'ampio foro di quel
+circolare sasso, che cingea le cosce di Lucifero, e pose Dante a
+sedere sull'orlo petroso.  Appresso ci@o, stese verso lui con
+molta cautela il passo (porse a lui |l'accosto passo~) e sal@i pur
+esso.  <Revocare gradus, superasque evadere ad auras Hoc opus,
+hic labor est>, Virg.  Tutto lo spazio che siegue, il quale @e
+interposto fra 'l centro della Terra e la superficie dell'altro
+emisfero, spazio che divide la sede di Lucifero dal monte del
+Purgatorio, @e quello che chiamammo altrove {...}.
+
+	|68-87 {Nota Finale}.~  Dante ha misteriosamente espressa
+parte della sua storia in questo canto; e giover@a vederne alcun
+tratto.  E perch@e altri si persuada che ogni espressione di
+questo poema include un senso nascosto, oltre l'apparente, non
+isdegner@o essere alquanto minuto nel rimanente di queste Rifless. 
+Mancato il comun sostegno al suo partito, gli fu forza aver molto
+coraggio per sostenere quello stato in cui, non osando pi@u
+mostrarsi Ghibellino n@e tornar Guelfo; e facendo tacere quel suo
+Virgilio che s@i ardite voci per sua bocca prima mandava, altro
+mezzo non vide a tirare innanzi la vita che attaccarsi agli
+stessi principi Guelfi, passando da questo a quello, e da una
+corte ad un'altra.  Onde siccome prima erasi ricoverato presso i
+Marchesi Malaspini, ch'eran Guelfi, cos@i f@e anche poscia.  Egli
+accenna ci@o quasi con istorica successione; e per non arrestarci
+poi in mezzo al corso premetteremo che siccome i Fiorentini
+Bianchi e Neri divennero i peli di quella Lonza ^che di pel
+maculato era coperta~, cos@i i Guelfi potenti divennero i lunghi
+velli di Lucifero.  Poich@e dunque ^ei non mor@i e non rimase vivo,
+privo dell'uno e dell'altro~ esser politico, e poich@e vide che
+^l'Imperador del doloroso regno di mezzo il petto uscia fuor
+della ghiaccia~ a dominar senza contrasto, e che l'ignoranza
+risorgea, Virgilio gli disse: |Ma la notte risurge ed oramai @e da
+partir, ch@e tutto avem veduto~ {68-69}.  La sua saggezza politica
+gli f@e invito a stringerle il meato della voce, cio@e a tacersi:
+|Come a lui piacque il collo gli avvinghiai.~  E quando il
+Guelfismo dominatore era nella sua maggiore elevazione, l'accorto
+Ghibellinismo di Dante, misurato il tempo e il luogo, si appigli@o
+agli stessi Guelfi.  |Ed ei prese di tempo e luogo poste; E,
+quando l'ali furo aperte assai, Appigli@o s@e alle vellute coste.~ 
+Quindi pass@o da un sostegno all'altro fra gli spessi Guelfi e 'l
+gentame ribelle: |Di vello in vello gi@u discese poscia, Tral
+folto pelo e le gelate croste.~  Con angoscia dell'animo suo il
+suo Ghibellinismo si cangi@o di attivo in contemplativo; e,
+cessato dall'operare, si rivolse a meditare: |Lo duca con fatica
+e con angoscia Volse la testa ov'egli avea le zanche.~  Cominci@o
+cos@i a rialzarsi per la protezione de' potenti Guelfi, il che lo
+f@e quasi riconfondere col Guelfismo: |Ed aggrappossi al pel
+com'uom che sale, S@i che in Inferno io credea tornar anche.~  Ma
+non v'era altro mezzo per evitar male maggiore, anzi, cos@i
+operando, scamp@o dal doversi far Guelfo realmente, e pot@e accorto
+riunirsi in segreto ai suoi compagni, e riaderire al suo diviso
+partito: |Attienti ben, che per cotali scale, Disse il maestro
+ansando come uom lasso, Conviensi dipartir da tanto male.  Poi
+usc@i fuor per lo foro d'un sasso, E pose me in sull'orlo a
+sedere; Appresso porse a me l'accorto passo~ {70-87}.  Quel
+^porlo a sedere~ indica chiaramente la nuova vita contemplativa;
+e quell'^uscir fuori pel foro d'un sasso~ parmi che altro non
+indichi se non il mezzo che trov@o di evadere da tanta angustia, e
+da tanta durezza.
+
+	|88-93.~  Dante supponea esser tornato sul lago di gelo
+(^in Inferno io credea tornar anche~, 81), e intanto trovasi
+assiso rimpetto al ginocchio di Lucifero.  Ei lev@o gli occhi e
+credette vedere quell'immenso colosso cos@i dritto come l'avea
+lasciato; e videgli in vece tener le gambe in su.  E s'ei divenne
+allora confuso e travagliato di mente, la gente grossolana il
+pensi che non vede qual era il punto ch'egli avea passato, cio@e
+il punto centrale del Globo.
+
+	|88-93 {Nota Finale}.~  Ci@o posto, ecco un colpo da
+malandrino in questa terzina: ^Io levai gli occhi e credetti
+vedere Lucifero, com'io l'avea lasciato, E vidili le gambe in su
+tenere~ {88-90}: Volendo dire che avea lasciato quel suo Lucifero
+sulla Terra dritto e in piedi, e lo trov@o nell'Inferno rovescio a
+gambe in su, com'egli ha posti i Simoniaci nel c. XIX.  Qui
+possiam capire un'altra sentenza di parlar doppio, nella quale il
+poeta espresse tutta la costernazione sua nel passar s@i presso al
+suo formidabil nemico: ^E s'io divenni allora travagliato, La
+gente grossa il pensi che non vede Qual era il punto ch'io avea
+passato~ {91-93.  Ei chiama gente grossa coloro che non capivano
+il suo linguaggio in gergo poich@e la sua gente fina lo comprendea
+di sicuro.  A chi volesse opporre che questo Lucifero non pu@o
+esser altro che il vero Lucifero, perch@e Dante dice che quel
+ribelle ^contra il suo fattore alz@o le ciglia~ far@o riflettere
+che il capo de' Guelfi era successor di coloro che furon creati
+principi dai capi dell'Impero, cio@e da Costantino, da Carlo Magno
+ecc. e poi insurse contro quel potere che principe lo avea fatto;
+dunque ^contra il suo fattore alz@o le ciglia~ {35}.  Che poi
+questo Lucifero ^cadde gi@u dal Cielo~ {121} diverr@a chiaro tra
+poco, quando Dante dichiarer@a che cosa intende egli per Cielo.
+
+	|94-99.  La via @e lunga~, perch@e deggion trascorrere
+tutto il semidiametro della Terra.  |Il cammino @e malvagio~,
+perch@e tale verr@a descritto.  Rammentiamo che il tempo di questo
+viaggio @e l'equinozio in cui il giorno solare @e di ore 12; il
+poeta considera questo spazio diviso in quattro parti di 3 ore
+ciascuna.  Le prime 3 ore forman dunque la terza; e perci@o mezza
+terza contiene un'ora e mezzo.  Rammentiamo ancora che poc'anzi,
+mentre eran sul lago ghiacciato, Virgilio disse a Dante, ^la
+notte risurge.~  Passati all'emisfero opposto, or gli dice, ^il
+sole riede a mezza terza~ di giorno; il che @e chiarissimo poich@e
+quando il Sole cade di qua, comincia ad alzarsi di l@a.  Dante
+per@o finger@a di non capirlo per udirselo spiegare dal maestro. 
+|Il cammino @e malvagio~ gli ha detto poc'anzi Virigilio, ed ei
+vede di fatto che l@a ov'erano non era agevol camminata di
+palagio, ma |natural burella~ che avea suol scabroso e mancanza
+di lume.  Qeusta @e la via per la quale al monte della virt@u si
+passer@a.  <Aspera primo et pene invia est via quae ad virtutem
+ducit>: Boez.  ^Buro~ per bujo (come ^paro~ per pajo ecc.)
+diceasi anticamente.  |Burella~ dunque (detta in gergo ^bujosa~)
+@e prigione buja o bura; e |natural burella~ qui vale <buja
+caverna, fatta dalla natura>.
+
+	|94-96 {Nota Finale}.~  Suol per@o avvenire che, cessato
+il primo impeto d'un turbine politico, gli animi de' perseguitati
+si vanno a poco a poco rassicurando, e quelli de' persecutori
+stessi illuminando; poich@e nella presenza d'un male che
+stoltamente sostennero, cominciano a comprendere quel bene che
+pi@u stoltamente oppugnarono.  Ci@o allora avvenne.  Ripreso fiato
+dal loro smarrimento, cercarono i ben volenti filosofi di
+preparare nella segreta istruzione della giovent@u il risorgimento
+di un bene futuro; talch@e il loro patriottismo si cangi@o di
+attivo in istruttivo; ma procedevano in ci@o di soppiatto, con
+precauzione, e lentamente.  E cos@i ivan ravvivando coi precetti
+salutari lo spirito del quasi estinto partito, talch@e Firenze
+stessa giunse pi@u tardi a detestare apertamente Roberto, cagion
+di mille danni.  Tutto ci@o diverr@a pi@u manifesto nella seconda
+Cantica, ma fin da questo luogo comincia a farsene cenno.  E
+perch@e si scorga, premetter@o che l'emisfero di qu@a, ov'@e terra, @e
+per Dante figura della vita attiva ed operante; quello di l@a,
+ov'@e mare, @e figura della vita contemplativa ed instruttiva,
+poich@e l'acqua @e per lui il simbolo della educazione, come gi@a
+vedemmo altrove, e come le peculiari metafore d'<innaffiare le
+tenere piante>, di <aprire al popolo le fonti della istruzione,
+d'irrigare gl'ingegni, di attingere le cognizioni>, e molte altre
+simili possono farci agevolmente comprendere; laonde leggiamo ne
+Proverbj che le parole ch'escono dalla bocca del saggio son acque
+di profonda vena, e che il fonte della sapienza @e un torrente che
+ridondi e sgorga sulle menti altrui: <Aqua profunda, verba ex ore
+viri, et torrens redundans fons sapientiae>.  I sapienti <sono
+quasi fonte vivo dalla cui acqua si refrigera la natural sete>
+(^Convito~) quella cio@e d'istruirsi.  Un tal fonte per@o dovea
+scorrere ben nascosto ed esiguo, e con assai lento moto dalla
+bocca di que' tremanti filosofi, in un momento di tanto periglio. 
+Veniamo ora all'applicazione.  Poich@e Virgilio mise la testa
+ov'egli avea le piante (ecco il cangiarsi della vita attiva in
+contemplativa); e poich@e Dante gli sciolse il collo che pria
+stretto gli avea presso a Lucifero dominatore (ecco il suo
+riprender fiato e parola) ei che posto era stato a sedere (ecco
+adombrata anche pi@u la meditazione) ud@i dirsi dal suo maestro:
+|Levati su in piede; la via @e lunga e il cammino @e malvagio~, ma
+pur non bisogna arrestarsi (ecco il principio del suo nuovo
+viaggio d'instruzione).  |E gi@a il Sole a mezza terza riede~;
+cio@e la ragione torna a mezza terza faccia di Lucifero, o sia
+della parte Nera.
+
+	|97-99 {Nota Finale}.~  Ben affannoso punto dovette esser
+quello della vita di Dante, vita tenebrosa e disigiata, in balia
+de' suoi nemici; e il povero poeta il disse: |Non era camminata
+di palagio L@a 'v'eravam, ma natural burella Ch'avea mal suolo e
+di lume disagio.~  Con quella parola |burella~ fa proprio scorger
+ch'egli era quasi prigione, stando nelle corti de' Guelfi.
+
+	|100-105.  Abisso~ @e detto il centro della Terra, come
+Ser Brunetto c'insegn@o.  Onde, poich@e Virgilio disse a Dante
+^levati su in piede~, questi, |quando fu dritto~, disse: Maestro
+mio, prima ch'io mi divella dall'Abisso, a trarmi di errore
+(|erro~) favellami un poco.  E gli chiede tre cose: 1.  Ov'@e la
+ghiaccia di Cocito?  2.  Come va che Lucifero @e posto cos@i
+sottosopra?  3.  Come accade che il Sole ha fatto tragitto da
+mane a sera in s@i poc'ora?
+
+	|106-111.~  <Omne enim grave tendit naturaliter ad
+centrum>: Macrob.  |Verme reo che il monde fora~ @e detto Lucifero
+per disprezzo.
+
+	|112-117.~  Cio@e, tu hai i piedi in su la pi@u picciola
+area circolare (|picciola sfera~) che fa la faccia opposta
+dell'ultimo spartimento di Cocito, detta |Giudecca~ da Giuda. 
+Prima risposta.  ^Arida~ o sia |secca~ @e chiamata la Terra dalla
+Bibbia: <Vocavit Deus aridam, Terram; congregationesque aquarum
+appellavit Mare>.  Or Dante credeva che l'emisfero opposto al
+nostro fosse tutto mare, eccetto una montagna; quindi l'emisfero
+abitato @e da lui detto la |gran secca~, o la ^grand'arida~, sul
+cui colmo immagin@o essere Gerusalemme dove fu consunto in croce
+quell'uomo che nacque senza il peccato originale, e senza neppure
+veniale pecca visse.  Onde Virgilio dicegli: Tu sei or giunto
+sotto l'emisfero celeste ch'@e opposto a quell'altro celeste
+emisfero che come una volta copre la grand'Arida, sul colmo della
+quale mor@i l'immacolato uomo.
+
+	|118-120.~  Questa terzina contiene le due altre
+risposte.  A ben comprender l'ultima che sar@a pi@u estesamente
+particolarizzata, esporremo una portentosa immaginazione del
+poeta.  Ei suppone che Lucifero fosse caduto con la testa in gi@u
+da quell'emisfero ove or si dirige; suppone che quella parte
+antartica era prima tutta di terra elevata ed abitabile, essendo
+ivi il Paradiso terrestre; e che questa nostra artica era tutta
+coperta dal mare; ed immagin@o che solo per la caduta di quel
+primo colossal peccatore s'invertesse il sito di queste grandi
+masse componenti il globo terracqueo; ed ecco come concep@i che
+avvenisse tal cambiamento.  Nella veemenza con cui dall'altezza
+del sommo Empireo Lucifero piomb@o, e nella gravezza di tanto
+peccato, sprofondandosi nelle viscere della Terra, and@o sino al
+centro ove si arrest@o, per quella forza che ivi @e.  La Terra,
+inorridita alla vista ed al tocco di quel mostro abbominevole, f@e
+allora due operazioni, una per non vederlo, l'altra per rifuggir
+da lui.  1.  Per non vederlo, cerc@o coprirsi d'acque da quella
+parte ove quegli cadde; e, per far letto alle acque, mise in moto
+monti, colli, isole ecc. che fuggirono di l@a e vennero al nostro
+emisfero; onde i mari ch'eran di qua, corsero in furia col@a per
+riempire quel vuoto.  E da ci@o avvenne che questo emisfero @e ora
+di terreno elevato ed abitato, e quello tutto ingombro del magno
+Oceano, e senza abitante alcuno.  2.  Per rifuggir da lui, le
+interne viscere della Terra per le quali il caduto mostro pass@o,
+prese da tremito e ribrezzo, corsero tutte per sopra; e cos@i
+accumulandosi le une sulle altre in quel sito ov'era il Paradiso
+terrestre che solo non si era mosso, formarono la montagna del
+Purgatorio.  Da che deriv@o che il luogo ove i due poeti or sono @e
+rimasto tutto vuoto, s@i ch'essi possono uscire dall'altro lato. 
+Udiamolo ora da Virgilio con la solita mirabile brevit@a.
+
+	|121-126.~  Il superbo cadde capovolto gi@u dal cielo da
+questa parte; e la Terra che pria in monti e colli si sporgea di
+qua, per paura di lui venne all'emisfero nostro e f@e qui velo del
+mare nel luogo che lasci@o vacuo.  E forse quella terra che appare
+elevata di qua sopra, per fuggir lui lasci@o qui vuoto il luogo
+che vedi e ricorse su in forma di conico monte.
+
+	|100-126 {Nota Finale}.~  Quando Dante ^fu dritto~
+(rilevato dal suo abbattimento) chiese a Virgilio: |Maestro mio,
+prima che dall'Abisso mi divella~ (prima ch'io m'allontani dal
+Guelfismo, cui per necessit@a mi son raccostato) |A trarmi di
+errore favellami un poco: Ov'@e la ghiaccia?~ (lo spirito a noi
+avverso?) |E questi com'@e fitto cos@i sotto sopra?~ (Come va che
+il Guelfismo non @e pi@u dritto e dominatore?) |E come in s@i
+poc'ora da sera a mane ha fatto il Sol tragitto?~ (come va che la
+ragione ch'era declinata @e s@i tosto risorta?).  E Virgilio
+rispose: |Tu immagini ancora d'esser di l@a dal centro ov'io mi
+presi al pel del verme reo che il mondo fora?~ (Credi essere
+ancora nella vita attiva, ov'io fui per avversit@a costretto ad
+attaccarmi allo stesso mio nemico che il mondo perverte?) |Di l@a
+fosti cotanto quanto io scesi~ (in tutto lo spazio che fosti meco
+in vita attiva, io declinai sempre).  |Quando mi volsi, tu
+passasti il punto al qual si traggon d'ogni parte i pesi~ (Quando
+di vita attiva mi volsi in scientifica, tu meco ti allontanasti
+da quel punto ove tutt'i vizj tendono; o sia nel cessar di operar
+e nel cominciare a meditare, ti sei totalmente discostato da
+quello ch'@e il centro di ogni disordine); |Ed or sei sotto
+all'emisperio giunto Ched @e opposto a quel che la gran Secca
+coverchia~ (ed or sei nella vita scientifica in cui lo spirito si
+raffina, la quale @e opposta a quella operante, che per disordini
+@e depravata) |e sotto il cui colmo consunto Fu l'uom che nacque e
+visse senza pecca~ (di ci@o altrove).  |Tu hai li piedi in su
+picciola sfera Che l'altra parte fa della Giudecca~ (Tu sei su
+quella ristretta sfera di sapienti che formano la parte
+diametralmente opposta a quella del Guelfisimo traditore).  |Qui
+@e da man, quando di l@a @e sera~ (Qui risplende la ragione quando
+l@a s'offusca l'errore).  |E questi, che ne f@e scala col pelo
+Fitto @e ancora s@i come prima era~ (E questi, ai cui seguaci ci
+attaccammo per rialzarci, sta ancora a dominare su gl'ignoranti
+come pria domin@o); |Da questa parte cadde gi@u dal Cielo.~  <Dico
+che per ^Cielo~ intendo la Scienza, e per Cieli le Scienze... 
+Come ciascuno Cielo illumina le cose visibili, cos@i ciascuna
+Scienza illumina le intelligibli>, ^Convito.~  Cio@e le Scienze
+spargon lume metaforico alle menti, come i Cieli spargon lume
+fisico ai corpi.  Dunque l'ultimo verso vuol dire che quel
+Lucifero dalla parte della vita scientifica era caduto gi@u, o sia
+che dov'era scienza il Guelfismo non si sostenea in alto, e cadea
+rovescio, il che non era dal lato opposto ov'era ignoranza
+produttrice di vizj; poich@e ivi quello stea dritto e dominava. 
+Sicuramente il ^Convito~ fu scritto dopo la ^Commedia~, e cento
+pruove ne recher@o: <Io (dice ivi Dante) fuggito dalla pastura del
+volgo conosco la misera vita di quelli che dietro m'ho lasciati;
+per li miseri alcuna cosa ho riservata la quale agli occhi loro
+gi@a @e pi@u tempo ho dimostrata>: quelli che si avea lasciati
+dietro son sicuramente que' miseri dannati; e le cose che
+riserbava per altrui ammaestramento ce le dar@a nel Purgatorio. 
+Seguiamo l'esame.  |E la Terra che pria di qua si sporse Per
+paura di lui fe del mar velo, E venne all'emisferio nostro~: (E
+la parte attiva che pria surse dalla scientifica, com'era Dante
+stesso, per paura del potente Guelfismo si vel@o con linguaggio
+metaforico, siccome f@e Dante, e si mescol@o coi Guelfi).  |E
+forse, Per fuggir lui, lasci@o qui il luogo voto Quella che appar
+di qua, e su ricorse~ (E forse per fuggir il Guelfismo si ritir@o
+al sommo della vita contemplativa quella parte scientifica ch'@e
+l@a dove si avvieranno anch'essi, allontanandosi totalmente dalla
+vita attiva).
+
+	|127-132.~  Lucifero @e detto |Belzeb@u~ in S. Matteo XII,
+24.  Luogo vuoto @e laggi@u ch'@e per tanto spazio lungi da Belzeb@u,
+per quanto si distende la intera tomba de' morti infernali, cio@e
+per tutto il semidiametro della Terra.  Un tal vacuo che va da
+Lucifero sino alla base del Purgatorio, nel disagio totale di
+lume, non @e noto per vista ma solo per suono d'un mormorante
+ruscelletto che quivi discende per la buca d'un sasso ch'egli ha
+roso col perenne suo corso; il qual corso egli avvolge
+serpeggiando lentamente, poich@e poco pende nella sua tortuosa
+discesa.  Il senso apparente di questo ruscelletto par che possa
+essere che quanto di peccaminoso @e espiato nel Purgatorio
+discende a scolare e a depositarsi nel regno del peccato.  Di
+modo che questo rivolo prende di qua la stessa direzione (ma in
+linea opposta) che le acque dei fiumi infernali, come raggi al
+centro dirigentisi da opposti emisferi.  Quelle son copiose
+perch@e derivano da vizj multiplici; questo @e un ruscelletto
+perch@e @e lo spurgo delle poche macchie che rimangono alla virt@u
+che si deterge per salire al Cielo.
+
+	|133-139.~  Dante e il suo duca entrarono per quel
+cammino ascoso per tornare nel chiaro mondo; e, quantunque
+stanchi, pur senza aver cura d'alcun riposo salirono sopra,
+Virgilio innanzi e Dante dietro.  E montarono tanto che il
+nostro poeta vide finalmente, per l'apertura rotonda fatta dal
+caduto Satanno, alcune delle cose belle che il Cielo porta in
+perenne giro; e di l@a uscirono a riveder le stelle.  Alla mezza
+terza del giorno si partirono da Lucifero, ed ora veggono le
+stelle.  Nel principio della cantica seguente si dir@a che furono
+a pi@e del Purgatorio all'alba: dunque impiegarono tutto il resto
+del giorno gi@a incominciato, e quasi tutta la notte seguente, nel
+trascorrere il semidiametro della Terra.  Ora facciamo il conto
+di tutto il tempo corso dall'apertura del poema sino a che furono
+a pi@e del Purgatorio.  Dalla selva oscura sino a Lucifero, cio@e
+dalla mattina del Gioved@i Santo, due giorni e mezzo; Da Lucifero
+al Purgatorio, poco meno di un giorno intero; Totale: quasi tre
+giorni e mezzo.
+
+	|127-139 {Nota Finale}: Luogo @e laggi@u da Belzeb@u rimoto
+Tanto quanto la tomba si distende~ (il corso della scienza si
+allontana tanto dal Guelfismo vizioso, per quanto la catena de'
+vizj a quello gradatamente si avvicina di anello in anello) |Che
+non per vista ma per suono @e noto D'un ruscelletto che quivi
+discende Per la buca d'un sasso ch'egli ha roso Col corso ch'egli
+avvolge e poco pende.~  Questo ruscelletto @e appunto il simbolo
+di quella segreta educazione che proveniva dalla meditazione de'
+saggi, e nascosamente serpeggiava a farsi strada in quel politico
+Inferno.  Ma tutta la forza di queste espressioni non potr@a ben
+sentirsi se non nel corso del seguente Trattato, dal quale
+diverr@a manifesto che ^per fama~, ma non ^per vista~, quella
+furtiva scuola era nota in quel tempo.  |Lo duca ed io per quel
+cammino ascoso Entrammo a ritornar nel chiaro mondo~ ecc.  Il
+resto @e chiaro.
+
+	|Conclusione.~  Altro non aggiunger@o se non che tutto il
+gergo allegorico di Dante era a lui imposto da imperiosa
+necessit@a, piuttosto che dettato da genio spontaneo.  Or che
+capiamo in parte quel che ha voluto dire, capiamo ancora che non
+potea dirlo altrimenti: o starsi muto, o parlar cos@i.  Egli avea
+altronde concetti troppo arditi.  In ogni et@a avrebbe trovato
+anime mal disposte ad ascoltarlo, se avesse usato meno enigmatici
+modi: or pensate che debba dirsi del suo secolo sommamente
+ignorante e superstizioso.  Ma questo medesimo esasper@o di pi@u
+l'animo suo ulcerato.  Ei vedevasi esule e povero senz'averne
+colpa; incalzato da persecuzioni senz'averle meritate; di mente
+altera, pi@u sent@i l'umiliazione; di cuore retto, pi@u s'indign@o
+all'ingiustizia.  In tale stato spunt@o una bell'alba che
+promettea giorni men tristi.  Egli sper@o di trovare nel comun
+bene il bene proprio, e nella grandezza dell'Italia quella di
+Firenze ch'ei tanto amava.  Ma per le frenesie di Firenze, che
+instigata divenne instigatrice, tutto and@o fallato.  E qual
+riparo poteva egli recarvi?  Quella pecora inferma avea tutte le
+altre contaminato.  Ella salt@o in quel pozzo infernale che
+poc'anzi vedemmo, e tutte le altre le corsero dietro.  E indarno
+il sollecito Arrigo, ch'era il vero ^pastor bonus~, cerc@o far
+riparo con le braccia e col petto, a tanta volontaria ruina. 
+Rotto era ogni freno, una vertigine generale avea fatto quasi
+impazzire le genti.  Ognuno gridava (direbbesi nel linguaggio
+Dantesco) ^Viva la Morte~, e ^muoja la Vita.~  Noi chiuderemo con
+riprodurre poche parole del poeta a Cesare, per soggiungervene
+poche altre del ^Convito~; nelle prime sclama contro Firenze,
+nelle seconde deplora l'ignoranza del secol suo: <E forse tu non
+sai Firenze?  Questa @e la pecora inferma la quale col suo
+appressamento contamina le greggie del suo Signore... e le pecore
+vicine e strane s'infermano, mentrech@e ella, allacciando con
+false lusinghe e con fingimenti, raguna con seco i suoi vicini, e
+quelli ragunati fa impazzire> (Lett. ad Arr.).  <Dell'abito di
+questa luce discretiva (cio@e della ragione che sa distinguere il
+bene dal male) massimamente le popolari persone sono orbate. 
+Perch@e incontra che molte volte gridano VIVA LA LOR MORTE, e
+MUOJA LA LOR VITA, purch@e alcuno cominci.  Questi son da chiamare
+pecore e non uomini.  Ch@e se una pecora si gettasse da una ripa
+di mille passi, tutte le altre le andrebbono dietro.  E io ne
+vidi gi@a molte ^in un pozzo saltare~ per una che dentro vi salt@o,
+forse credendo ^saltare un muro~; non ostante che il pastore,
+piangendo e gridando, con le braccia e col petto dinanzi si
+parava>: ^Convito.~  Mal creata plebe, tu ruinasti l'Italia! 
+meglio sarebbe stato che fossi nata torma di pecore, alle quasi
+il poeta ti rassomigli@o!  Di te ei sicuramente gridava allo
+scender che fece nel pozzo ov'@e Lucifero; in quel pozzo di cui
+saltasti l'alto muro; in quel pozzo onde a lui fu s@i duro e s@i
+periglioso il parlare; di te ei gridava: ^O sovra tutte mal
+creata plebe, Che stai nel loco onde parlare @e duro, Me' foste
+state qui pecore o zebe!  Come noi fummo gi@u nel pozzo scuro....
+Ed io mirava ancora all'alto muro~ ecc. (XXXII 13-18).  Quanto ho
+finora esposto parr@a forse ben poco in faccia a quello che mi
+accingo a svelare nella seguente Disamina.  Oh quai cose rimasero
+finora ignote!

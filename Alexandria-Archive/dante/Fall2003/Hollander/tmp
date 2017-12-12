@@ -1,0 +1,10 @@
+:::::::::::::::::::::::::::::::::::::::::::
+Warning: overwriting existing output file staging/desc
+Verifying staging/desc...
+Sorry, the program was unable to open the database form file.
+Sorry, there is a form file error on, or before, line 0.
+Remainder of bad form line is ><
+-rw-r--r--   1 dante    dante        549 Dec  5 16:10 staging/desc
+Using descriptive data from ../desc.
+ 
+

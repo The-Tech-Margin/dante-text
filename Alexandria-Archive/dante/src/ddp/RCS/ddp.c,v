@@ -1,0 +1,1049 @@
+head	1.14;
+access;
+symbols;
+locks;
+comment	@ * @;
+
+
+1.14
+date	98.12.22.22.10.21;	author dante;	state Exp;
+branches;
+next	1.13;
+
+1.13
+date	96.08.19.14.38.06;	author dante;	state Exp;
+branches;
+next	1.12;
+
+1.12
+date	95.09.21.14.08.44;	author dante;	state Exp;
+branches;
+next	1.11;
+
+1.11
+date	91.08.01.08.08.25;	author dante;	state Exp;
+branches;
+next	1.10;
+
+1.10
+date	91.06.06.07.49.01;	author dante;	state Exp;
+branches;
+next	1.9;
+
+1.9
+date	88.11.08.17.09.42;	author dante;	state Exp;
+branches;
+next	1.8;
+
+1.8
+date	88.10.13.13.56.32;	author dante;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	88.10.11.16.40.55;	author dante;	state Exp;
+branches;
+next	1.6;
+
+1.6
+date	88.09.28.10.01.48;	author dante;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	88.08.31.12.10.28;	author dante;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	88.08.17.15.34.39;	author dante;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	87.05.14.17.25.33;	author dante;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	87.02.02.15.30.49;	author dante;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	86.10.10.17.19.48;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@C interface for running BRS - handles terminal characteristics.
+@
+
+
+1.14
+log
+@converted to openpty()
+@
+text
+@/*
+ *	ddp - interface to BRS for the Dartmouth Dante Project
+ *
+ *	Usage:	ddp [-x] [-t term] [-u user]
+ *
+ *	If the user's terminal can not accept the escapes, then ddp just
+ *	execs BRS as if it were invoked directly.  Otherwise ddp sets itself
+ *	up as a filter between the user and BRS, so it can translate escape
+ *	sequences that come out of the database into the appropriate chars.
+ */
+
+#include <stdio.h>
+#include <sys/types.h>
+#include <sys/file.h>
+#include <sys/stat.h>
+#include <sys/errno.h>
+#include <sys/ioctl.h>
+#include <termios.h>
+#include <sys/wait.h>
+#include <sys/resource.h>
+#include <sgtty.h>
+#include <signal.h>
+#include <string.h>
+#include "map.h"
+
+#define	USAGE	"Usage: ddp  [-x] [-t term] [-u user]\n"
+#define DFLTBRS	"/1g/BRS"
+#define BRSMAIN	"Bin/brsmain"
+
+char	*menu = "MAIN_";
+int	child;
+char	*uflag, *username;
+char	brspgm[100];
+void	onsusp();
+void	deadchild();
+
+int	masterfd, slavefd;
+
+main(argc, argv)
+	int argc;
+	char **argv;
+{
+	extern	char *optarg;
+	extern	int  optind;
+	char *getenv();
+	int c;
+	char *termname = NULL;
+	char *brsdir;
+
+	while ((c = getopt(argc,argv,"xt:u:")) != EOF)
+		switch (c) {
+		case 'x':
+			/*
+			 * -x means use the experimental main BRS MNS menu.
+			 */
+			menu = "XMAIN_";
+			break;
+		case 't':
+			termname = optarg;
+			break;
+		case 'u':
+			username = optarg;
+			uflag = "-log";
+			break;
+		default:
+			fputs(USAGE,stderr);
+			exit(1);
+			/*NOTREACHED*/
+		}
+	if (!termname)
+		termname = getenv("TERM");
+
+	if ((brsdir = getenv("Brs")) == NULL)
+		brsdir = DFLTBRS;
+	(void)sprintf(brspgm,"%s/%s",brsdir,BRSMAIN);
+
+	/*
+	 * figure out if this terminal can take special characters,
+	 * and if so, which set.  See /etc/termcap for terminal names.
+	 */
+	if (termname && *termname) {
+		/*
+		 * VT2XX or VT3XX or VT4XX?
+		 */
+		if (!strncmp(termname,"vt2",3) ||
+		    !strncmp(termname,"vt3",3) ||
+		    !strncmp(termname,"vt4",3) ||
+		   (termname[0] == 'd' &&
+		    termname[1] >= 'l' &&
+		    termname[1] <= 'o')) {
+			termtype = MAP_VT200;
+		} else
+		/*
+		 * IBM PC?
+		 */
+		if (!strcmp(termname,"pc") || !strcmp(termname,"ibmpc")) {
+			termtype = MAP_IBMPC;
+		}
+	}
+
+	if (termtype == MAP_NOMAP) {
+#ifdef notdef
+		fprintf(stderr,"exec (no filter): %s %s %s %s %s %s %s\n",brspgm,"-dir","DDP","-menu",menu,uflag,username);
+#endif
+		execl(brspgm,"brsmns","-dir","DDP","-menu",menu,uflag,username,0);
+		perror(brspgm);
+		exit (1);
+		/*NOTREACHED*/
+	}
+
+	if (openpty(&masterfd,&slavefd,NULL,NULL,NULL) < 0) {
+		perror("openpty");
+		exit(1);
+		/*NOTREACHED*/
+	}
+
+	(void) signal(SIGCHLD, deadchild);
+	if ((child = fork()) < 0) {
+		perror("first fork");
+		exit(1);
+		/*NOTREACHED*/
+	}
+	if (child == 0) {
+		if ((child = fork()) < 0) {
+			perror("second fork");
+			exit(1);
+			/*NOTREACHED*/
+		}
+		if (child == 0) {
+			(void) close(masterfd);
+			dobrs();
+		} else {
+			signal(SIGINT,SIG_IGN);
+			dooutput(masterfd);
+		}
+	} else {
+		fixtty();
+		signal(SIGINT,SIG_IGN);
+		signal(SIGTSTP,onsusp);
+		doinput(masterfd);
+		restoretty();
+	}
+	exit(0);
+	/*NOTREACHED*/
+}
+
+doinput(master)
+	int master;
+{
+	char ibuf[BUFSIZ];
+	int cc;
+
+	while ((cc = read(0, ibuf, BUFSIZ)) > 0) {
+		if (ibuf[cc-1] == '\n')
+			if (write(1, "\r", 1) < 0)	/* compensate for LITOUT */
+				break;
+		if (write(master, ibuf, cc) < 0)
+			break;
+	}
+	(void) close(master);
+}
+
+dooutput(master)
+	int master;
+{
+	char abuf[BUFSIZ], bbuf[BUFSIZ];
+	register char *ap, *bp;
+	int cc;
+
+	/*
+	 * Read into only a portion of abuf to allow room for expansion.
+	 */
+	while ((cc = read(master, abuf, (sizeof abuf) / 2)) > 0) {
+		*(abuf + cc) = '\0';
+		lexinp = abuf;
+		lexoutp = bbuf;
+		yylex();
+		for (ap = abuf, bp = bbuf; bp < lexoutp; ) {
+			if ((*ap++ = *bp++) == '\n') {
+				*ap++ = '\r';
+			}
+		}
+		if (write(1, abuf, (int)(ap - abuf)) < 0)
+			break;
+	}
+}
+
+dobrs()
+{
+	dup2(slavefd, 0);
+	dup2(slavefd, 1);
+	dup2(slavefd, 2);
+	(void) close(slavefd);
+#ifdef notdef
+	fprintf(stderr,"exec (filter): %s %s %s %s %s %s %s\n",brspgm,"-dir","DDP","-menu",menu,uflag,username);
+#endif
+	execl(brspgm,"brsmain","-dir","DDP","-menu",menu,uflag,username,0);
+	perror(brspgm);
+	exit(1);
+	/*NOTREACHED*/
+}
+
+
+
+void
+deadchild()
+{
+	union wait status;
+
+	if (wait3(&status, WNOHANG, (struct rusage *)0) != child)
+		return;
+	restoretty();
+	exit(0);
+	/*NOTREACHED*/
+}
+
+int lword;
+
+fixtty()
+{
+	int newlbits = LLITOUT;
+
+	if(ioctl(1,TIOCLGET, (char *)&lword) < 0) {
+		perror("fixtty: TIOCLGET");
+		exit(1);
+		/*NOTREACHED*/
+	}
+	if(ioctl(1,TIOCLBIS, (char *)&newlbits) < 0) {
+		perror("fixtty: TIOCLBIS");
+		exit(1);
+		/*NOTREACHED*/
+	}
+	if (write(1,terminit(),strlen(terminit())) < 0) {
+		perror("fixtty: write failed");
+		exit(1);
+		/*NOTREACHED*/
+	}
+}
+
+restoretty()
+{
+	if (write(1,termdeinit(),strlen(termdeinit())) < 0) {
+		perror("restoretty: write failed");
+		exit(1);
+		/*NOTREACHED*/
+	}
+	if(ioctl(1,TIOCLSET, (char *)&lword) < 0) {
+		perror("restoretty: TIOCLSET");
+		exit(1);
+		/*NOTREACHED*/
+	}
+	if (write(1,"\n",1) < 0) {
+		perror("restoretty: write failed");
+		exit(1);
+		/*NOTREACHED*/
+	}
+}
+
+
+
+void
+onsusp ()
+{
+	/*
+	 * ignore SIGTTOU so we don't get stopped if csh grabs the tty
+	 */
+	signal(SIGTTOU, SIG_IGN);
+	restoretty();
+	fflush (stdout);
+	signal(SIGTTOU, SIG_DFL);
+	/*
+	 * Send the TSTP signal to suspend our process group
+	 */
+	signal(SIGTSTP, SIG_DFL);
+	sigsetmask(0);
+	kill (0, SIGTSTP);
+	/*
+	 * Here is where we stop, and then restart...
+	 */
+	signal (SIGTSTP, onsusp);
+	fixtty();
+return;
+}
+@
+
+
+1.13
+log
+@minor fixes, done on the occasion of porting to OSF.
+@
+text
+@d18 1
+d37 1
+a37 2
+char *ptyname = "/dev/ptyXX";
+#define	MAXPTY	'z'
+a42 1
+	int master;
+d111 2
+a112 2
+	if ((master = getmaster()) < 0) {
+		perror("getmaster");
+d130 1
+a130 1
+			(void) close(master);
+d134 1
+a134 1
+			dooutput(master);
+d140 1
+a140 1
+		doinput(master);
+d190 4
+a193 11
+	int slave;
+
+	if ((slave = getslave()) < 0) {
+		perror(ptyname);
+		exit(1);
+		/*NOTREACHED*/
+	}
+	dup2(slave, 0);
+	dup2(slave, 1);
+	dup2(slave, 2);
+	(void) close(slave);
+a256 31
+}
+
+
+getmaster()
+{
+	int master;
+	char c;
+	struct stat stb;
+	int i;
+	extern int errno;
+
+
+	for (c = 'p'; c <= MAXPTY; c++) {
+		ptyname[strlen("/dev/pty")] = c;
+		ptyname[strlen("/dev/ptyp")] = '0';
+		if (stat(ptyname, &stb) < 0)
+			break;
+		for (i = 0; i < 16; i++) {
+			ptyname[strlen("/dev/ptyp")] = "0123456789abcdef"[i];
+			if ((master = open(ptyname, O_RDWR)) >= 0)
+				return(master);
+		}
+	}
+	errno = EBUSY;
+	return(-1);
+}
+
+getslave()
+{
+	ptyname[strlen("/dev/")] = 't';
+	return(open(ptyname,O_RDWR));
+@
+
+
+1.12
+log
+@added -user option.  cleanup.
+@
+text
+@d19 1
+d22 1
+d26 1
+a26 1
+#define DFLTBRS	"/1g/BRS6.0"
+d33 5
+a43 1
+	int deadchild();
+d84 1
+a84 1
+		 * VT200?
+d86 3
+a88 2
+		if (!strcmp(termname,"vt200") ||
+		    !strcmp(termname,"vt300") ||
+d103 3
+a137 2
+		int onsusp();
+
+d156 4
+a159 2
+			write(1, "\r", 1);	/* compensate for LITOUT */
+		write(master, ibuf, cc);
+d184 2
+a185 1
+		(void) write(1, abuf, (int)(ap - abuf));
+d194 1
+a194 1
+		perror("getslave");
+d202 3
+d213 1
+d218 1
+a218 1
+	if (wait3(&status, WNOHANG, (char *)0) != child)
+d241 5
+a245 1
+	write(1,terminit(),strlen(terminit()));
+d250 5
+a254 1
+	write(1,termdeinit(),strlen(termdeinit()));
+d256 6
+a261 1
+		perror("fixtty: TIOCLSET");
+a264 1
+	write(1,"\n",1);
+a267 3
+char *ptyname = "/dev/ptyXX";
+#define	MAXPTY	'w'
+
+d300 1
+d321 1
+@
+
+
+1.11
+log
+@temporary version for baker.  Experimented with ways around the BRS bug
+in determining the userid.  Updated pty limits.
+@
+text
+@d4 1
+a4 1
+ *	Usage:	ddp [-x] [-t term]
+d24 2
+a25 1
+#define BRSMNS	"/1g/BRS5.1/Bin/brsmain"
+d29 2
+a31 3
+extern	char *getlogin();
+char	loginname[32];
+
+d43 1
+d57 2
+a58 1
+			strcpy(loginname,optarg);
+d63 1
+d68 4
+a94 3
+	if (loginname[0] == '\0')
+		strcpy(loginname,getlogin());
+
+d96 2
+a97 2
+		execl(BRSMNS,"brsmns","-dir","DDP","-menu",menu,"-log",loginname,0);
+		perror(BRSMNS);
+d99 1
+d105 1
+d112 1
+d118 1
+d137 1
+d185 1
+d191 2
+a192 2
+	execl(BRSMNS,"brsmain","-dir","DDP","-menu",menu,"-log",loginname,0);
+	perror(BRSMNS);
+d194 1
+d207 1
+d219 1
+d224 1
+d235 1
+@
+
+
+1.10
+log
+@production version on eleazar the VAX.
+@
+text
+@d23 2
+a24 2
+#define	USAGE	"Usage: ddp  [-x] [-t term]\n"
+#define BRSMNS	"/usr/appls/brs/Bin/brsmns"
+d29 3
+d44 1
+a44 1
+	while ((c = getopt(argc,argv,"xt:")) != EOF)
+d55 3
+d74 1
+d88 3
+d92 1
+a92 1
+		execl(BRSMNS,"brsmns","-d","DDP","-m",menu,0);
+d181 1
+a181 1
+	execl(BRSMNS,"brsmns","-d","DDP","-m",menu,0);
+d227 1
+d238 1
+a238 1
+	for (c = 'p'; c <= 's'; c++) {
+@
+
+
+1.9
+log
+@major rewrite.  simplified many parts.
+@
+text
+@d24 1
+a24 2
+#define BRSMNS	"/usr/appls/brs3.0/Bin/brsmns"
+#define BRSCONFIG	"/usr/lib/brssearch3.0"
+a28 3
+extern	char *getlogin();
+char	loginname[32];
+
+a80 4
+	if (setenv("BRSConfig",BRSCONFIG,0) < 0 ) {
+		fprintf(stderr,"Internal error: cannot set environment\n");
+		exit(1);
+	}
+a85 2
+	
+	strcpy(loginname,getlogin());
+d171 1
+a171 1
+	execl(BRSMNS,"brsmns","-d","DDP","-m",menu,"-log",loginname,0);
+d182 1
+a182 1
+	if (wait3(&status, WNOHANG, (struct rusage *)0) != child)
+@
+
+
+1.8
+log
+@added BRSConfig to environment internally, simplified envp handling.
+@
+text
+@a12 1
+#include <signal.h>
+d14 1
+d16 1
+d18 1
+d20 1
+d27 1
+a27 2
+int	master;
+int	slave;
+a28 1
+int	finish();
+a29 8
+struct	sgttyb b;
+struct	tchars tc;
+struct	ltchars lc;
+int	lb;
+int	l;
+char	*line = "/dev/ptyXX";
+char	*menu = "MAIN_";
+
+d37 2
+a95 2
+	getmaster();
+	fixtty();
+d97 3
+a99 5
+	(void) signal(SIGCHLD, finish);
+	child = fork();
+	if (child < 0) {
+		perror("fork");
+		fail();
+d101 6
+d108 3
+a110 4
+		child = fork();
+		if (child < 0) {
+			perror("fork");
+			fail();
+d112 2
+a113 3
+		if (child)
+			dooutput();
+		else
+d115 12
+d128 1
+a128 1
+	doinput();
+d131 2
+a132 1
+doinput()
+d137 6
+a142 3
+	while ((cc = read(0, ibuf, BUFSIZ)) > 0)
+		(void) write(master, ibuf, cc);
+	done();
+d145 2
+a146 3
+#include <sys/wait.h>
+
+finish()
+a147 9
+	union wait status;
+
+	if (wait3(&status, WNOHANG, 0) != child)
+		return;
+	done();
+}
+
+dooutput()
+{
+d150 1
+a150 1
+	register int cc;
+d152 4
+a155 3
+	(void) close(0);
+	write(1,terminit(),strlen(terminit()));
+	while ((cc = read(master, abuf, sizeof abuf)) > 0) {
+d161 1
+a161 1
+			if ((*ap++ = *bp++) == '\n')
+d163 1
+a166 2
+	(void) close(master);
+	exit(0);
+d171 1
+a171 2
+#ifdef notdef
+	int t;
+d173 3
+a175 4
+	t = open("/dev/tty", 2);
+	if (t >= 0) {
+		ioctl(t, TIOCNOTTY, (char *)0);
+		(void) close(t);
+a176 3
+#endif
+	getslave();
+	(void) close(master);
+d183 1
+a183 1
+	fail();
+d186 3
+a188 1
+fixtty()
+d190 1
+a190 1
+	struct sgttyb sbuf;
+d192 4
+a195 4
+	sbuf = b;
+	sbuf.sg_flags |= RAW;
+	sbuf.sg_flags &= ~ECHO;
+	ioctl(0, TIOCSETP, (char *)&sbuf);
+d198 3
+a200 1
+fail()
+d202 1
+d204 9
+a212 2
+	(void) kill(0, SIGTERM);
+	done();
+d215 1
+a215 1
+done()
+a216 2
+
+	ioctl(0, TIOCSETP, (char *)&b);
+d218 5
+a222 1
+	exit(0);
+d225 3
+d230 1
+d234 1
+d236 1
+d238 3
+a240 3
+		line[strlen("/dev/pty")] = c;
+		line[strlen("/dev/ptyp")] = '0';
+		if (stat(line, &stb) < 0)
+d243 3
+a245 10
+			line[strlen("/dev/ptyp")] = "0123456789abcdef"[i];
+			master = open(line, 2);
+			if (master >= 0) {
+				ioctl(0, TIOCGETP, (char *)&b);
+				ioctl(0, TIOCGETC, (char *)&tc);
+				ioctl(0, TIOCGETD, (char *)&l);
+				ioctl(0, TIOCGLTC, (char *)&lc);
+				ioctl(0, TIOCLGET, (char *)&lb);
+				return;
+			}
+d248 2
+a249 2
+	fprintf(stderr, "Out of pty's\n");
+	fail();
+d254 3
+a256 1
+	int slb;
+d258 22
+a279 12
+	line[strlen("/dev/")] = 't';
+	slave = open(line, 2);
+	if (slave < 0) {
+		perror(line);
+		fail();
+	}
+	ioctl(slave, TIOCSETP, (char *)&b);
+	ioctl(slave, TIOCSETC, (char *)&tc);
+	ioctl(slave, TIOCSLTC, (char *)&lc);
+	slb = lb | LLITOUT;
+	ioctl(slave, TIOCLSET, (char *)&slb);
+	ioctl(slave, TIOCSETD, (char *)&l);
+@
+
+
+1.7
+log
+@deleted query about terminal types - either do it or don't
+@
+text
+@d22 1
+a23 1
+char 	**brsenvp;
+d40 1
+a40 1
+main(argc, argv, envp)
+d42 1
+a42 1
+	char **argv, **envp;
+d90 4
+d95 1
+a95 1
+		execle(BRSMNS,"brsmns","-d","DDP","-m",menu,0,envp);
+a100 1
+	brsenvp = envp;
+d185 1
+a185 1
+	execle(BRSMNS,"brsmns","-d","DDP","-m",menu,"-log",loginname,0,brsenvp);
+@
+
+
+1.6
+log
+@Revised character mapping code and recognition of terminal types.
+@
+text
+@a86 35
+		} else
+		/*
+		 * deliberately dumb?
+		 */
+		if (!strcmp(termname,"dumb")) {
+			termtype = MAP_NOMAP;
+		} else {
+			printf("Not familiar with a %s terminal.\n\n",termname);
+			goto ask_term;
+		}
+	} else {
+		char response[50];
+ask_term:
+		printf("What type of special characters can your terminal accept?\n");
+		printf("\t1 for DEC VT200\n");
+		printf("\t2 for IBM PC\n");
+		printf("\t3 for NO special characters (always safe)\n");
+		printf("\nEnter a number from 1 to 3 for the right type of characters: ");
+		if (gets(response) == NULL) {
+			printf("\n");
+			exit(1);
+		}
+		switch (response[0]) {
+		case '1':
+			termtype = MAP_VT200;
+			break;
+		case '2':
+			termtype = MAP_IBMPC;
+			break;
+		case '3':
+			termtype = MAP_NOMAP;
+			break;
+		default:
+			printf("\nSorry, don't understand that answer.\n\n");
+			goto ask_term;
+@
+
+
+1.5
+log
+@converted to using map.l.  This version still only does VT200 or nothing.
+@
+text
+@d4 1
+a4 1
+ *	Usage:	ddp	[-yn]
+d6 1
+a6 5
+ *		where the optional -y or -n answers the question which
+ *		otherwise the program will ask: is this terminal VT-200
+ *		compatible, i.e. can it display DEC's European characters?
+ *
+ *	If the user's terminal is not VT200-compatible, then ddp just
+d9 1
+a9 1
+ *	sequences that come out of the database into the appropriate DEC chars.
+d20 1
+a20 1
+#define	USAGE	"Usage: ddp  [-yn]\n"
+a23 1
+int	vt200 = -1;
+d35 1
+d37 1
+a37 2
+extern	char	*terminit(), *termdeinit();
+extern	char 	*getlogin();
+d46 1
+d48 1
+d50 1
+a50 5
+	if (argc > 2) {
+		fputs(USAGE,stderr);
+		exit(1);
+	}
+	while ((c = getopt(argc,argv,"yn")) != EOF)
+d52 5
+a56 2
+		case 'y':
+			vt200 = 1;
+d58 2
+a59 2
+		case 'n':
+			vt200 = 0;
+d65 58
+a122 6
+	if (vt200 == -1) {
+		fputs("Is this terminal VT200-compatible? [yn] ",stdout);
+		if ((c = fgetc(stdin)) == 'y' || c == '\n')
+			vt200 = 1;
+		else
+			vt200 = 0;
+d125 2
+a126 2
+	if (vt200 == 0) {
+		execle(BRSMNS,"brsmns","-d","DDP","-m","MAIN_",0,envp);
+a130 1
+	termtype = MAP_VT200;
+d217 1
+a217 1
+	execle(BRSMNS,"brsmns","-d","DDP","-m","MAIN_","-log",loginname,0,brsenvp);
+@
+
+
+1.4
+log
+@changed to use real login name of user
+@
+text
+@d22 1
+a39 2
+char	*terminit = "\033[62\"p";		/* initialize the terminal */
+char	*termdeinit = "\033[61\"p\033[?7h";	/* de-initialize the terminal */
+d41 1
+a41 1
+extern	char	*lexinp, *lexoutp;
+d83 1
+d137 1
+a137 1
+	write(1,terminit,strlen(terminit));
+d196 1
+a196 1
+	write(1,termdeinit,strlen(termdeinit));
+@
+
+
+1.3
+log
+@*** empty log message ***
+@
+text
+@d43 2
+d79 1
+a79 1
+		execle(BRSMNS,"brsmns","-d","DDP","-m","MAIN_","-log","dante",0,envp);
+d84 1
+d170 1
+a170 1
+	execle(BRSMNS,"brsmns","-d","DDP","-m","MAIN_","-log","dante",0,brsenvp);
+@
+
+
+1.2
+log
+@refinements
+@
+text
+@d2 12
+a13 1
+ * ddp - interface to BRS for the Dartmouth Dante Project
+d15 1
+d23 3
+d27 1
+d39 2
+a40 2
+char	*terminit = "[62\"p";		/* initialize the terminal */
+char	*termdeinit = "[61\"p[?7h";	/* de-initialize the terminal */
+d42 1
+a42 1
+char	*brs = "/usr/appls/brs3.0/Bin/brsmns";
+d48 6
+a53 2
+	if (argc != 1) {
+		fprintf(stderr,"usage: %s\n", *argv);
+d56 26
+d129 3
+a131 3
+	char ibuf[BUFSIZ], obuf[BUFSIZ];
+	int ic;
+	register int op, ip;
+d134 11
+a144 5
+	while ((ic = read(master, ibuf, sizeof (ibuf))) > 0) {
+		for (op = ip = 0; ip < ic; )
+			if ((obuf[op++] = ibuf[ip++]) == '\n')
+				obuf[op++] = '\r';
+		(void) write(1, obuf, op);
+d167 2
+a168 2
+	execle(brs,"brsmns","-d","DDP","-m","MAIN_","-log","dante",0,brsenvp);
+	perror(brs);
+a175 1
+	write(1,terminit,strlen(terminit));
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d2 1
+a2 1
+ * ddp interface to BRS for the Dartmouth Dante Project
+d23 2
+a31 2
+	int f;
+
+d47 2
+a48 2
+		f = fork();
+		if (f < 0) {
+d52 1
+a52 1
+		if (f)
+d83 3
+a85 2
+	char obuf[BUFSIZ];
+	int cc;
+d88 5
+a92 2
+	while ((cc = read(master, obuf, sizeof (obuf))) > 0) {
+		(void) write(1, obuf, cc);
+d100 1
+d108 1
+d124 1
+d142 1
+d176 1
+d187 2
+a188 1
+	ioctl(slave, TIOCLSET, (char *)&lb);
+@

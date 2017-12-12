@@ -1,0 +1,22 @@
+	|55.~  ^Che dove l'argomento~.  El li maladecti giganti erano queste 
+condizioni le quali non sono el li alifan[t]i n@e 'l le balene.  el le 
+balene no li @e altro che la grandeza e la forteza.  et cos@i el li 
+alifanti.  ma el li giganti li era la grandeza et la forteza.  pi@u li 
+era el malvolere la malitia l'argomento dei sutili modi d'operare male. 
+ contra e' quali quando s'agiugnie la forza et avole[r] de farlo nisuno 
+reparo se trova.  et per@o dice che la natura li @a desfati dicendo che 
+s'ella non @a desfate le balene n@e li alifanti che n'@e pi@u bella.  
+che non sono de tanto pericolo.  pi@u giusta et pi@u discreta la ne 
+tene.
+
+	|112.~  ^Noi procedemmo~ e venimmo ad anteo che ben cinque alle 
+(^om.~) l'alla @e misura de doi braccia.  si che Anteo gigante era 
+tucto lungo senza la testa.  respondendo da quello che era sopra terra 
+ch'era da la forcella de la gola infine a l'inguinaia ch'erano cinque 
+alle.  et de la 'nguinaia en gi@u ch'ei non ne ved@ia ch'era socto 
+terra erano altre cinque alle.  si che era lungo fore che la testa deci 
+alle che montano vinti braccia.  si come el testo dice (^om.~).
+
+	|136.~  ^Qual pare la carisenda~.  @e un'alta torre altissima ed @e 
+molto piegata im bolognia che fa come qui el testo dice.
+

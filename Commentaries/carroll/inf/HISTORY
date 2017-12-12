@@ -1,0 +1,18 @@
+-------------------------------------------------
+Entered on 20 Jun 1995 by dante:
+Uploaded RHs edited Intro (PROINF.DOS) and dedos'd it into intro.e.
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #199. -stc
+-------------------------------------------------
+Entered on 09 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 02 Feb 2005 by dante:
+Fixed bad character on line 86 of 10.e in the word "provencal." Made the "c" a UTF-8 cedilla.

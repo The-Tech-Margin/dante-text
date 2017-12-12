@@ -1,0 +1,354 @@
+	|3.  Canzon~: Altrove (^Purg.~, XXXIII, 140) adopera la 
+parola ^Cantica~; e Cantiche si prefer$i poi chiamate le tre 
+parti in cui il Poema @e diviso, perch$e, se ai tempi di Dante 
+il nome di ^Canzone~ poteva riferirsi anche alla poesia 
+narrativa, come la ^Chanson de geste~, la ^Chanson de Roland~, 
+oggi si appropria solamente a una specie di breve canto lirico. 
+ 
+	|Sommersi~: I reprobi sprofondati nel baratro infernale. 
+ 
+	|7-9.  E vidi gente~ ec.: Sono gl'indovini o 
+fattucchieri, <chi affattura> (C. XI, 58), che col viso 
+travolto camminano a ritroso, a lunga schiera silenziosa e 
+lenta, come le sacre processioni in questo mondo. -- |Letane~ 
+(Letan$ie o Litanie, parola greca, Supplicazioni) furono anche 
+dette le processioni salmodianti. -- Si noti il ritmo lento, 
+solenne, cadenzato dei due versi 8 e 9. 
+ 
+	|10.  Come 'l viso~ ec.: Non, come altri spiega. -- 
+Quando essi furono pi$u presso, pi$u sotto a me --, ma -- Quando 
+mi volsi a guardare la altre parti del corpo --; poich$e @e 
+naturale che Dante, come si suol fare sempre di una persona, 
+guardasse da prima i loro volti lagrimosi; oltre di che 
+l'espressione |scese in lor~, cio@e verso loro, apertamente lo 
+dice. 
+ 
+	|11-15.  Mirabilmente apparve~ ec.: Lo sguardo di Dante 
+trascorre rapido da uno agli altri per s$ubita maraviglia da 
+sbalordire: @e il travolgimento di tutte le membra rispetto al 
+viso che si manifestava tra il mento e il principio del busto 
+(|casso~: propriamente la parte ricoperta dalle costole), 
+poich$e il volto si era contorto dalla parte delle reni in modo 
+che essendo tolto loro il vedere dalla parte del petto, ciascuno 
+era forzato a camminare all'indietro, a fare <ritroso calle> (v. 
+9).  In ci@o abbiamo la ragione del loro andare lento, e nel 
+contorcimento del collo e della testa quella delle lagrime: pena 
+materiale, non disgiunta per@o dalla pena avvilitiva di cos$i 
+orribile deformazione della figura umana. 
+ 
+	Questi miseri sono gl'indovini.  La pena a cui sono 
+condannati non appartiene al primo genere delle pene dell'Inferno 
+dantesco, che @e quella del taglione o contrapasso, ma al 
+secondo genere, cio@e a quelle che sono l'antitesi della colpa: 
+<Il veder dinanzi> era lor tolto. 
+ 
+	|16-18.  Forse per forza~ ec.: Pare che qui accenni a 
+racconti che si facevano di scontorcimenti consimili prodotti da 
+violenta paralisi (|parlas$ia~ o paralis$ia); ma poi si affretta 
+a dichiarare che egli mai ne avea veduti e non ci credeva.  Ci 
+ricorda il Boccaccio nella sua graziosa e pittoresca novella di 
+Martellino, che infingendosi d'essere attratto rishcia d'essere 
+appiccato per la gola (^Decamerone~, Giornata II, Nov. I). 
+ 
+	|19-24.  Se Dio ti lasci~ ec.: Ma dimmi tu, o lettore, 
+che Dio ti conceda di trar profitto da' miei versi, dimmi, 
+potevo io non piangere dinanzi a s$i misera deformazione 
+dell'immagine umana? 
+ 
+	|La nostra immagine~ <@e espressione piena d'affanno, e viene
+ad essere come la giustificazione del pianto che gli sc$orse
+spontaneo dagli occhi.  Innanzi a certi pervertimenti fisici o
+morali noi sentiamo pi$u vivamente il vincolo della comune natura
+che ci lega a tutti gli uomini, sentiamo l'umana solidariet@a, per
+dirla con una maniera tutta moderna> (D'OVIDIO, ^Esposizione~ del
+C. XX; Sandron, Palermo, 1902).  A questo poi s'aggiunga la vista
+del pianto, che, come pure osserva il D'Ovidio, veniva dagli occhi
+s$i, ma scorreva su le spalle e su le reni formando uno sconcio
+rigagnolo. 
+ 
+	|25.  Certo io piangea~: Vero @e ch'io piangeva. 
+ 
+	|Rocchi~: cos$i ^Ronchioni~ (C. XXIV, 28 e XXVI, 44), 
+Massi sporgenti.  Ambedue queste voci son derivate da ^roccia.~ 
+ 
+	|27.  Ancor se' tu~ ec.: Gi@a a proposito di un giudizio 
+di Dante poco riguardoso verso la Fortuna, Virgilio aveva 
+esclamato pacatamente e in tono di compassione: <O creature 
+sciocche, Quanta ignoranza @e quella che v'offende!> (C. VII, 
+70-71); qui invece direttamente investe il suo alunno, e in 
+tono concitato e di rampogna: -- Ah tu ancora sei della turba 
+degli sciocchi che s'impietosiscono per cose che non meritano?  
+Oppure, e meglio: Dopo tanti ammaestramenti e tanta esperienza 
+tu seguiti ancora ad appartenere alla turba ec. 
+ 
+	|28-30.  Qui vive la piet@a~ ec.: Qui @e piet@a il non 
+aver piet@a; poich@e si conviene esser pietosi con chi merita, 
+spietati con gl'indegni; e San Girolamo scriveva: <Il pi$u alto 
+genere di piet@a @e in questo caso esser crudeli>.  Cos$i pure 
+talvolta @e cortesia l'essere scortese, come quando Dante nel 
+Cerchio nono, dopo aver promesso a un traditore di staccargli 
+dagli occhi i duri veli del gelo a patto che gli dicesse il suo 
+nome, non solo non mantiene la promessa, ma se ne vanta 
+dicendo: <E cortesia fu lui esser villano> C. XXXIII, 150), e 
+ci@o, trattandosi d'uno scellerato di quella fatta che avrebbe 
+meritato anche peggio.  Qui poi si tratta d'indovini, 
+d'impostori, grandi scellerati anch'essi perch$e offesero Dio, 
+portando le umane passioni, un desiderio sfrenato di penetrare 
+nell'abisso del suo consiglio <in tutto da l'accorger nostro 
+scisso> (^Purg.~, VI, 123). 
+ 
+	Un'altra interpretazione si suol dare del secondo e terzo 
+verso di questa terzina: -- Qual maggiore empiet@a che portar 
+compassione a un castigo voluto da Dio? -- Questa 
+interpretazione, sostenuta con molta arte e dottrina dal 
+D'OVIDIO (Op. cit. {^Esposizione~ del C. XX; Sandron, Palermo, 
+1902}), quantunque ottima considerata in s$e, nel suo concetto
+sostanziale, non mi sembra preferibile per varie ragioni.  Innanzi
+tutto quelli che Virgilio precedentemente ha detto ^sciocchi~, tra
+cui Dante, per un sentimento di piet@a fuori di posto, ora
+nientemeno diventerebbero scellerati, il che sarebbe eccessivo; in
+secondo luogo, come si spiegherebbe tanta severit@a nel volere qui
+applicato un principio generale che dovrebbe essere applicato a
+tutto l'Inferno, se Virgilio avea pi$u volte lasciato che Dante
+sentisse la guerra della piet@a e ne mostrasse gli effetti, come
+dinanzi a Francesca, a Ciacco, a Pier della Vigna, a Brunetto
+Latini, ad altri tre Fiorentini, e questo senza fargliene mai
+rimprovero, non solo, ma talvolta anche assecondandolo, come per i
+tre Fiorentini (C. XVI, 13-18), e partecipando lui stesso al
+sentimento di riverente piet@a, come per Pier della Vigna, per
+Diomede e Ulisse? (C. XIII e XXVI).  Da ultimo questi due versi
+molto bene valgono a confortare l'ammonimento severo dato da
+Virgilio al suo alunno che piangeva: -- Non mi far lo sciocco anche
+tu!  ogni piet@a convien che qui sia morta, perch$e si tratta di 
+scellerati: e chi pi$u scellerato di colui che osa percorrere 
+l'infinita via del giudizio divino? -- E ci@o serve anche a 
+stabilire fin dal principio la specie dei ^sommersi~ in quella 
+bolgia, innanzi di scendere ai particolarei.  Ma, si osserva: 
+Virgilio qui pi$u che altrove si mostra giustamente severo per 
+una ragione personale: dovea vendicare la sua fama, come 
+vedremo fare a Dante, riguardo a se stesso, nella bolgia dei 
+barattieri (C. XXI).  Nel medioevo la leggenda avea fatto di 
+Virgilio un gran mago, donde qui la sua concitazione, 
+l'intolleranza, il disdegno quale fiera protesta contro la 
+bugiarda leggenda.  E appunto anche questa ci sembra una forte 
+ragione perch$e i due versi debbano riferirsi agli indovini; 
+sono essi il marchio con cui Virgilio li bolla. 
+ 
+	|31-36.  Drizza la testa~ ec.: Drizza la testa, 
+drizzala, e poni mente a qual razza di malviventi eran rivolte 
+le tue lagrime: vedi colui che dinanzi a Tebe fu ingoiato con 
+tutto il suo cocchio e le armi dalla terra a un tratto 
+spalancatasi, mentre i Tebani dalle mura gli gridavano tutti: 
+ -- Anfiarao, dove precipiti (|rui~ dal lat. ^ruere~), perch$e 
+lasci di combattere? -- Ed egli non ristette di ruinare fino a 
+Minos che <guidica e manda secondo che avvinghia> (C. V. 6). 
+ 
+	|Anfiarao~ fu uno <de' sette regi Ch'assiser Tebe> (C. 
+XIV, 68-69).  Come indovino aveva preveduto la sua morte a 
+quell'assedio, e per@o, quantunque valoroso, si era nascosto, 
+ma tradito dalla moglie, allettata dal dono d'una collana (vedi 
+^Purg.~, XII, 50-51), fu costretto a andare.  Apollo per piet@a 
+del suo vate, non volendo che fosse ucciso per mano nemica, 
+cos$i come si trovava pugnante dal cocchio, lo fece sprofondare 
+nel baratro fino all'Averno, dove Plutone, commosso al racconto 
+di lui, lo accolse tra le Ombre innocenti.  Cos$i racconta 
+Stazio nella ^Tebaide~ (Lib. VII, 819-823: VIII, 1-33), donde 
+Dante tolse la notizia adattandola al suo fine, morale-religioso. 
+ 
+	|40-45.  Tiresia~ ec.: Celebre indovino dei Greci alla 
+guerra di Troia, il quale, avendo percosso due serpenti 
+amorosamente uniti, fu trasformato in femmina, e solo dopo 
+sette anni, essendosi imbattuto novamente nei due serpenti che 
+si erano azzuffati, percossili, torn@o maschio (OVIDIO, 
+^Metamorfosi~, Lib. III, 324 e segg.). 
+ 
+	|E prima, poi~ ec.: E |poi~ gli convenne ecc., |prima~ 
+che riavesse ecc. 
+ 
+	|Le maschili penne~: Come le <oneste piume> di Catone 
+(^Purg.~, I, 42), la barba, l'onor del mento, caratteristica 
+propria dell'uomo. 
+ 
+	|46-51.  Aronta~ ec.: Arunte, aruspice etrusco, che ai 
+tempi di Cesare e Pompeo vaticin@o la guerra civile e la vittoria 
+di quello (LUCANO, ^Farsalia~, Lib. I, 585 e segg.).  Lucano 
+dice che Arunte abitava nella citt@a di Luni, laddove Dante, ad 
+avvolgere pi$u nel mistero la magica arte, immagina che avesse 
+la sua dimora in una spelonca tra i biancheggianti marmi dei 
+monti di Luni (antichissima citt@a, distrutta), su i quali i 
+Carraresi, che abitano al basso vanno a scavare e spezzare i 
+massi di marmo.  Lass$u Arunte, tra cielo e terra, potea 
+liberamente guardar le stelle e il mare e far la sua arte.  Il 
+paesaggio @e qui ritratto dal vero e anima il racconto 
+leggendario. 
+ 
+	|Atterga~: <Il verbo ^attergare~, coniato forse apposta 
+da Dante, ma che era riserbato nell'avvenire a gloriosi destini 
+burocratici, giova alla rapida energia della frase.> (D'OVIDIO, 
+op. cit. {^Esposizione~ del C. XX; Sandron, Palermo, 1902}). 
+ 
+	|Ronca~ non @e qui nel significato di coltivare il 
+terreno o di andare a far legna o frasche, come intendono i pi$u 
+dei Commentatori, perch$e non si pu@o supporre che Dante il 
+quale ben conosceva quei luoghi intendesse che i monti dei marmi 
+fossero coltivati o vi si potesse far legna.  I Carraresi poi non 
+sono un popolo di agricoltori, ma di cavatori.  Quindi |roncare~ 
+deve prendersi in senso largo di scavare, spezzare. 
+ 
+	|54.  Ed ha di l@a~: Da quella parte dove le trecce 
+sciolte ricoprono le mammelle, cio@e dalla parte del petto. 
+ 
+	|55-60.  Manto~ ec.: Profetessa, figlia di Tiresia, 
+che, dopo la morte del padre, per fuggire la tirannide del 
+tebano Creonte, dopo aver molto errato per il mondo, venne in 
+Italia, e ferm@o sua stanza nei luoghi dove poi sorse Mantova, 
+che da lei prese il nome. 
+ 
+	|La citt@a di Baco~: Tebe, dove nacque Bacco da Semele, 
+figlia del re Cadmo, e da Giove.  Tebe dopo la morte di Eteocle 
+e Polinice fu tiranneggiata da Creonte. 
+ 
+	|61-81.  Suso in Italia bella~ ec.: Virgilio a un tratto 
+interrompe il racconto delle peregrinazioni di Manto, 
+trasportato dalla visione dei luoghi che furono sua patria.  @E 
+una digressione puramente descrittiva, ma palpitante di vita, 
+non ostante i molti particolari topografici; vi si sente la 
+nostalg$ia di che ne vive lontano e sa di non poterli pi$u 
+rivedere, e per@o li va ricercando a falda a falda, e pare che 
+dal ricordo di essi non sappia staccarsi. -- Su, in Italia 
+bella, ai piedi delle Alpi che serrano Lamagna, che cio@e 
+dividono questa dall'Italia al di l@a del Tirolo (|Tiralli~, 
+forma antica, cos$i detta dal castello di Tiralli) giace un lago 
+detto anticamente Benaco (^Benacus~), oggi Garda da una 
+cittadina di questo nome, su la riva orientale nel Veronese. 
+Esso @e formato da gran numero di sorgenti, che, tra Garda a 
+sud-est e Val Camonica a nord-ovest, bagnano la parte montuosa a 
+cui il Poeta d@a il nome di |Pennino~, seguendo Tolomeo, il 
+quale in questa parte rassegna le ^Alpe Poenae~, cio@e le Alpi 
+Pennine, che fanno triangolo con Garda a Valcamonica. 
+ 
+	Lunga la riva sinistra del lago, nel mezzo, dove il 
+fiume Tigualga sbocca in esso era il punto che antichemente 
+serviva di confine alle tre diocesi, di Trento alla sinistra del 
+Tigualga, di Brescia alla destra, quella di Verona dalla parte 
+del lago; e per@o il Poeta dice che i tre Pastori avrebbero 
+potuto ugualmente dare in quel luogo la benedizione (|segnar~), 
+cio@e esercitare il sacro ufficio, se col@a si fossero recati. 
+ 
+	Su la riva meridionale del lago, che si abbassa, siede 
+la fortezza di Peschiera costruita dai Signori di Verona, bella 
+a fronteggiare i Comuni di Brescia e di Bergamo.  ^Ivi~ l'acqua del 
+lago che sovrabbonda s'interna tra due poderosi e massicci muri 
+delle fortificazioni, e gi$u pei verdi pascoli diventa fiume.  
+Dove comincia a correre (|mette co~: <Dal co del ponte>. C. 
+XXI, 64; <In co del ponte> (^Purg.~, III, 128) il Benaco 
+prende il nome di Mincio, che presso Governolo sbocca nel Po.  
+Durante il suo corso trova una bassura (|lama~), dove si allarga 
+e impaluda la sua acqua, che nell'estate suol essere |grama.~ 
+La parola |grama~ non accenna qui soltanto alla scarsit@a e 
+magrezza dell'acqua, ma anche all'insalubrit@a, ai dolorosi 
+miasmi che ne derivano; e Dante spesso la us@o nel senso di 
+Misero, dolente: <Molte genti fe' gi@a viver grame> C. I, 
+51; <Turba grama> C. XV, 109; <Nel mondo gramo> C. XXX, 59 
+ec. 
+ 
+	|82.  La vergine cruda~: Manto crudele nei suoi 
+incantesimi (nelle |sue arti~), perch$e, come racconta Stazio 
+(^Teb.~, IV, 163 e seg.) beveva il sangue delle vittime e ne 
+spargeva intorno le membra ancora spiranti. 
+ 
+	|87.  Corpo vano~: cio@e Privo dell'anima. 
+ 
+	|93.  Sanz'altra sorte~: Gli antichi quando volevano dare 
+il nome a una nuova citt@a solevano trarre le sorti, cio@e 
+consultare gli oracoli. 
+ 
+	|95-96.  La mattia da Casalodi~: Pinamonte dei 
+Bonaccorsi, della seconda met@a del secolo decimoterzo, mirando 
+alla signoria di Mantova, consigli@o il conte Alberto da 
+Casalodi, che ne teneva il primato, di cacciare tutti i nobili 
+per farsi amico il popolo, e cos$i assicurarsi il dominio.  
+Questi balordamente segu$i il consiglio, ma essendosi suscitata 
+grande ira contro di lui, Pinamonte ne approfitt@o, e col 
+favore del popolo si fece signore di Mantova, che allora rimase 
+per la cacciata dei nobili con minor numero di abitanti. 
+ 
+	|99.  La verit@a~ ec.: Nessuna menzogna rechi offesa 
+alla verit@a, che @e quella che ti ho detta. 
+ 
+	|103-105.  Ma dimmi~ ec.: Dante, dopo aver assicurato 
+il suo Maestro che egli credeva s$i fermamente al suo racconto su 
+le origini di Mantova che qualunque altra cosa fosse detta da 
+altri non avrebbe potuto fare alcun effetto su lui, s'affretta a 
+richiamare l'attenzione di lui su i dannati della bolgia, ai 
+quali soltanto la sua mente tornava a fermarsi con vivo 
+interesse.  Si noti l'espressione |Ma dimmi~ e pi$u ancora 
+l'altra |Che solo a ci@o~, le quali ci dimostrano una certa 
+impazienza.  <In lingua povera e caricando un po' le tinte, @e 
+come se dicesse: -- Va bene, va bene, signor s$i, non 
+dubitare, ti credo perfettamente, non dar@o retta a nessun 
+altro racconto; ma se la facessi un po' finita con cotesta tua 
+Mantova mi faresti grazia: siam qui per vedere costoro, e il 
+mio pensiero ad essi ritorna sempre, non riesce a distrarsene; 
+dunque spicciati, e additami altri indovini celebri, se ne 
+riconosci.> (D'OVIDIO, op. cit. {^Esposizione~ del C. XX; Sandron,
+Palermo, 1902}). 
+ 
+	|106-114.  Quel che da la gota~ ec.: Virgilio ne addita 
+uno dalle cui gote scendeva la barba su l'abbronzate spalle, 
+a$ugure al tempo che in Grecia rimasero appena i bambini in 
+culla, cio@e al tempo della guerra di Troia.  Esso @e Euripilo 
+che insieme col sacerdote Calcante indic@o ai Principi greci il 
+momento opportuno di salpare per Troia.  E Virgilio di Euripilo 
+parla nell'^Eneide~, che Dante sapeva tutta a memoria, e come 
+a$ugure lo ricorda (^con il canto~) (Lib. II, v. 113 e seg.). 
+ 
+	|Alta tragedia~ @e detto qui il Poema dell'^Eneide~, e 
+per l'argomento eroico, e per l'alto stile. 
+ 
+	|115-117.  Quell'altro~ ec.: Michele Scotto, (Scozzese) 
+dall'esile persona, medico e astrologo, vissuto alla Corte di 
+Federico II, ove tradusse dall'arabo alcune Opere d'Aristotile. 
+ 
+	|118-120.  Guido Bonatti~, forlivese, compagno e 
+consigliere del conte Guido da Montefeltro nella difesa di Forli 
+ghibellina contro papa Martino IV (C. XXVII, 43-45), e autore 
+di alcuni Trattati di Astronomia, che gli acquistarono il nome 
+di principe degli astrologi. 
+ 
+	|Asdente~: <Il calzolaio di Parma> (^Conv.~, Tratt. IV, 
+cap. 16) vissuto nella prima met@a del secolo XIII, 
+rinomatissimo a' suoi tempi per le sue profezie. 
+ 
+	|123.  Con imago~: Con l'immagine della persona da 
+incantare, fatta di cera o d'altro. 
+ 
+	|124-126.  Ma vienne omai~ ec.: Ma @e tempo omai di 
+proseguire il cammino, poich$e la Luna sta tramontando nel mare 
+sotto Siviglia (|Sibilia~), a occidente del nostro emisfero, e 
+punto di confine con l'altro emisfero. 
+ 
+	|Caino e le spine~: Con questa immagine @e qui indicata 
+la Luna per le sue macchie, <li segni bui Di questo corpo, che 
+l@a giuso in terra Fan di Cain favoleggiare altrui> (^Par.~, II, 
+49-51); perch$e si credeva che quelle macchie figurassero Caino 
+con una focata di spini.  Qui nella bolgia degli indovini non @e 
+senza ragione l'accenno a questa credenza superstiziosa. 
+ 
+	|127-129.  E gi@a iernotte~ ec.: A proposito della 
+circostanza di fatto accennata anche nel ^Purgatorio~ (C. XXIV, 
+119-120) che la notte precedente al primo giorno della Visione la 
+Luna fosse piena si veda l'^Introduzione~, pag. LXXXVI-IX. 
+ 
+	|Ch@e non ti nacque~: cio@e Ti fu d'auito una volta, 
+nella notte tra il 24 e il 25 marzo per uscire dalla profonda 
+Selva. 
+ 
+	|Alcuna volta~, per Una volta, l'abbiamo anche nel Canto 
+XVI, v. 107. 
+ 
+	|130.  Introcque~: Intanto, Frattanto.  @E una di quelle 
+brutte parole dialettali che Dante censur@o nel ^De Vulgari 
+Eloquentia~ (Lib. I, cap. 13), qui tollerata certamente per la 
+rima. 
+ 

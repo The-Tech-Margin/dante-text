@@ -1,0 +1,38 @@
+In recent years most of the new commentary text we receive has
+been in the form of Word documents.  What follows is a description
+of how to convert these Word docs into DDP markup language.
+
+The short answer is: Use LibreOffice to save the doc as HTML. Use
+html2ddp to convert the HTML into a rough DDP format. Then use vi(1)
+to clean up the rough file.
+
+In LibreOffice open preferences and go to the Load/Save and HTML
+Compatibility section. Set the character set to Western Europe
+(ISO-8859-1). This is the character set the DDP uses. With this
+setting special characters like accented letters will be saved using
+their HTML entity names.
+
+Open the Word document version of the commentary text with LibreOffice.
+If there are page numbers in the document (or any other header or
+footer material), remove them by going to the Insert dropdown menu,
+then unchecking "Default Style" under Footer or Header. Then do a
+Save As... and choose "HTML Document" as the file type.
+
+Next use html2ddp to clean up the html and convert it to DDP markup.
+[It may seem silly to convert HTML into DDP when it is going to
+reconverted into HTML by the load scripts. But it is best to keep
+all the .e files in pure (mostly) DDP format for ease of editing.]
+Html2ddp is a lex(1) program I wrote for this purpose. Its source
+should be in the ~/src directory. It is a traditional filter:
+
+html2ddp < Par01.html > 01.e
+
+Then use cat(1), sed(1), and vi(1) to clean up the resulting .e
+file.  Use 'cat -s' to remove extra blank lines. Use sed with the
+file cleanup.sed to remove some extraneous font changes. Then use
+vi to removing some HTML text at the beginning, invoking fmt(1) to
+format the paragraphs, and indenting each paragraph. Check for any
+HTML entities that may remain, e.g. &sect;, and escape the ampersand
+with a backslash.
+
+					Steve Campbell, Feb. 2015

@@ -1,0 +1,65 @@
+{GETPD_HP}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Paragraph Select Help\f2\n~
+
+:COMPARE @SELECTION
+     TO "D"
+	:PRINT ~#HEADING
+     From  this  menu,  you  can specify the paragraphs that you wish to
+     display. The possible selections are:\n~
+
+     TO "P"
+	:PRINT ~#HEADING
+     From  this  menu,  you  can specify the paragraphs that you wish to
+     print. The possible selections are:\n~
+
+     TO "R"
+	:PRINT ~#HEADING
+     From  this  menu,  you  can specify the paragraphs that you wish to
+     redirect. The possible selections are:\n~
+:DONE
+
+:PRINT ~
+     F) selects the  entire  (full)  document;  the document will appear
+        formatted if formatting is enabled.
+
+     B) selects  documents  in  a  pre-defined  "brief" format (the SHRT
+        paragraph  equivalency is used for the brief format; if there is
+        no  SHRT  equivalency  for  the present database, this selection
+        will not appear).
+
+     C) selects  only paragraphs (or subparagraphs) that contain keyword
+        occurrences.  This  "in-context"  format  is also referred to as
+        HITS.  If  it  is impossible to determine these (sub)paragraphs,
+        this selection will not appear.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING     
+     E) produces  another  menu  that allows you to select precisely the
+        paragraphs  you  desire.   Additional  help is available at this
+        menu.
+
+     O) produces  another  menu  that  allows  you  to  order,  or sort,
+        documents by any paragraphs.  (e.g.: alphabetically by Title, or
+        chronologically   by  Publication  Date).   After  the  ordering
+        process  is  complete, you will be prompted to select paragraphs
+        for output.
+
+     S) cancels the request and returns to Search Mode.
+     
+     The  default  paragraph  selection  is indicated in brackets at the
+     prompt.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     Note  that  if  a  print  formatting file is enabled on the current
+     database,  the  FULL  specification automatically formats documents
+     according  to  the  specifications  of  that  file.   Give the -ALL
+     specification  at  the E menu to override this format and print the
+     full document(s) in standard paragraph-labeled style.
+
+     Contact  your  System  Administrator  for more information on print
+     formatting capabilities.\n~
+     
+:PAUSE BOTTOM
+:RETURN

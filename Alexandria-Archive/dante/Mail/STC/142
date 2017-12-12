@@ -1,0 +1,65 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id KAA22981
+	for <steve@avalon.dartmouth.edu>; Mon, 23 Nov 1998 10:09:25 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id KAA31174
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 23 Nov 1998 10:09:22 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 34925 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <69638-15927>; Mon, 23 Nov 1998 10:08:33 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id KAA09314
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 23 Nov 1998 10:08:20 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup52.Princeton.EDU [128.112.70.52])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id KAA22677
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 23 Nov 1998 10:08:19 -0500 (EST)
+Message-ID: <36597A7D.E3152E1E@princeton.edu>
+Date: 	Mon, 23 Nov 1998 10:08:45 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: message #28
+X-Priority: 3 (Normal)
+References: <199811081832.NAA22584@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> In archived message #28, concering Vellutello, you say:
+> 
+> > ... (2) the problem of Euro. quotes [<<...>>].  These all
+> > show in the text as they are resolved by FW, i.e., taking up a
+> > single byte.  95% of these or more were already in the text.  But I
+> have
+> > added some myself, using the FW convention [insert key, compose
+> > character key, double strike on either "<" or ">"]. ....
+> >  (4) Ligated vowels "ae"
+> > and "oe": I have got rid of many of these; but you will find some
+> > in the early cantos of Inferno; globals should clean this up in
+> > seconds (and those are the only two ligatures involved).  That's
+> > all you need be conscious of.
+> 
+> Taking each item:
+> 
+> (2) What exactly is "the problem of Euro. quotes?" I see a good many
+> in the texts, but I don't recall what the problem is. Again, I need to
+> know what I have to do to fix it.
+> 
+> (4) I see a fair number of these ligatures in the text. You say you've
+> gotten rid of some. Did we decide to remove all the ligatures and just
+> go with two separated characters. eg "ae"? If so, I will de-ligature
+> them. Are we doing this in *all* commentaries?
+> 
+>                                                                 Steve
+
+Steve, I don't think I answered this previously, at least not
+decisively.  (2) I think we should resolve all "unresolved" Euro. quotes
+in Vellutello (<< OR >> taking TWO spaces rather than one).  That should
+be easy, right? (4) Just de-ligate "ae" and "oe" for Vellutello.  Some
+others have ligated vowels.  Don't worry about that.  We'll just be
+consistent within each comm.  OK?  Best, Bob

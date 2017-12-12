@@ -1,0 +1,487 @@
+Gigantes
+
+	|1-6.~ 
+
+   ^Una medesma lingua pria mi morse,~
+   ^s@i che mi tinse l'una e l'altra guancia,~
+   ^e poi la medicina mi riporse;~
+
+   ^coss@i od'io che sollea la lancia~
+   ^de Achille e de suo padre esser cagione~
+   ^prima di trista e poi di bona mancia.~
+
+	In questo capitulo D. fa 3 cosse.  A la prima, continuando con la fine 
+del precedente, fa una comparatione multo agiacente a la materia dove 
+se trova mo D. con V.  A la 2a tracta de l'ultima bolgia, ne la qual 
+figura li giganti.  A la 3a nomina li dicti giganti, e li modi e li 
+atti loro como li trova, narrando de li lor fati passati al mondo 
+quando foron ne la loro alta superbia e vita insanguinata.
+
+	^UNA MEDESMA LINGUA ETC.~  Qui fa D. una comparatione de la lengua de 
+V. a s@e, como facea la lanza de Achille e di Pelleo so patre che, 
+quando feria e se non se remetia ne la ferita, mai non posseva guarire. 
+ E questo toca Ovidio.  E per@o dice: ^PRIMA DI TRISTA~, a ferire, ^E 
+POI DI BONA~, a guarire; ^MANCIA~ @e strena, quando l'omo dona qualche 
+cossa e dice: <F@acessi bon signale: danci bona mancia>.
+
+	|7-15.~ 
+
+   ^Noi demmo il dosso al misero valone~
+   ^su per la ripa che 'l cinge dintorno,~
+   ^atraversando senz'alcun sermone.~
+
+   ^Quivi era men che note e men che giorno,~
+   ^s@i che 'l viso m'andava inanci poco;~
+   ^ma io senti' sonar un alto corno,~
+
+   ^tanto ch'avrebe ogni tuon fato fioco,~
+   ^che, contra s@e la soa via seguitando,~
+   ^driz@o li ochi mei tuti ad un loco.~
+
+	Qui dice D. che denno ^EL DOSSO~, ^idest~ volt@anno le spalle al 
+vallone.  ^QUIVI ERA MEN CHE NOTE E MEN CHE GIORNO~: questo pote essere 
+a l'alumare de le candelle la sera; ^CHE 'L VISO ME ANDAVA INANCI 
+POCO~, ^idest~ che poca cossa potea vedere 'nanti ad esso, ma esso 
+sent@i sonar tanto alto che avrebe ^FATO FI[O]CO~, ^idest~ 
+aff[i]ocato ogni altro tono.  E sequitando la via soa, ^LI OCHI MEI~ 
+se driz@ano ^TUTI AD UN LOCO~.
+
+	|16-18.~ 
+
+   ^Doppo la dolorosa rota, quando~
+   ^Carlo Magno perd@e la santa gesta,~
+   ^non son@o s@i terribilmente Orlando.~
+
+	D. fa qui una comparatione de questo corno a quello de Orlando quando 
+Carlo Magno perdea la gente soa: che Orlando suon@o s@i forte el corno, 
+che se sent@i oto miglia.  E questo fo a Roncivallo in Spagna.  E 
+'nanti ch'io proceda pi@u, D. fa qui una similianza de questo corno, 
+per@o che trova qui Nebr@ot, referendossi al testo del ^Genesi~: 
+<Nebrot fuit robustus venator coram Domino>.  E per@o che era caciator, 
+D. lo pone sonar lo corno como @e modo de' caciatori.
+
+	Ma or ti voglio chiaramente contare questa istoria de Orlando perch@e 
+tu la possi meglio comprendere.  Nel tempo de Carlo Magno, lo soldano 
+de Babilonia s@i ordin@o con Marsilio, e cum Belliguardo so frate e cum 
+multi altri Saracini de Spagna che restassero contr'a Carlo Magno e a 
+li XII pari de Franza.  E intra multe bataglie divenne una volta che 
+Carlo, lassando la gente soa in Roncivallo, pass@o al porto de Cesarco. 
+ Sentendo Marcillio la partita de Carlo, con tuto lo sforzo so venne a 
+Roncivallo contra Orlando e contra l'altra gente cristiana, e combatero 
+molto vigorosamente, per modo che sconfixero tuta la gente cristiana.  
+Orlando, dubitando de Carlo, lo qual dovea venir con poca gente, se 
+misse a li boschi e comenz@o a sonar lo corno s@i duramente, che Carlo 
+lo od@i oto milia per lo camino venendo.  E ad Orlando crep@o le vene, 
+e per l'afano de la sete mor@i e per il sangue che li era uscito.
+
+	|19-24.~ 
+
+   ^Poco portai in l@a volta la testa,~
+   ^che mi parve veder molt'alti torri;~
+   ^ond'io: <Maestro, d@i, che terra @e questa?>.~
+
+   ^Ed elli a me: <Per@o che tu trascorri~
+   ^per le tenebre troppo da la lungi,~
+   ^avien che poi ne l'imaginar aborri>.~
+
+	D. domanda V. ^CHE TERRA @E QUESTA~, per@o che li parea veder da lungi 
+torre.  V. responde: ^PER@O CHE TU TRASCORRI PER LE TENEBRE TROPO~ da 
+la lunga, ^idest~ riguardi, ^AVEN CHE POI NE L'IMAGINARE ABORRI~, 
+^idest~ che tu temerai.
+
+	|25-27.~ 
+
+   ^Tu vedrai ben, se tu l@a ti congiungi,~
+   ^quanto 'l senso s'inganna di lontano;~
+   ^per@o alquanto pi@u te stesso pungi.~
+
+	V. dice ancora a D.: <Aproximandote a quisti che tu vidi tore, secondo 
+che tu credi, tu vederai ^QUANTO EL SENSO~, ^idest~ del viso, ^SE 
+INGANA DE LONTANO~: e per@o non iudicare da la longa>.
+
+	|28-30.~ 
+
+   ^Puo' caramente mi prese per mano~
+   ^e disse: <Pria che noi siam pi@u avanti,~
+   ^a ci@o che 'l fato men ti paia strano...>.~
+
+	V., como ragione che comprende che D. ragionevelmente debia avere 
+pagura, lo previde dicendoli como vederiti apresso.
+
+	|31-33.~ 
+
+   ^Sappi che non son torri, ma giganti,~
+   ^e son nel pozo intorno da la rippa~
+   ^da l'umbelico in giuso tuti quanti.~
+
+	Or, como te tocai poco sopra nel capitulo, questa @e la 3a parte, ove 
+D. trova el pozo profondo de abisso e intorno da la boca trova giganti, 
+li quali sono DA ^L'UMBELICO IN GIUSO~.
+
+	|34-39.~ 
+
+   ^Come quando la nebia si disippa,~
+   ^lo sguardo a poco [a poco] raffigura~
+   ^ci@o che cella el vapor che l'aere stippa,~
+
+   ^coss@i forando l'aura grossa e scura,~
+   ^pi@u e pi@u appressando ver' la sponda,~
+   ^fugimmi errore e crescemmi paura.~
+
+	Qui D. fa una comparatione de la nebia quando se sparge, che l'omo 
+comenza a vedere chiaro quello che lo vapore de la nebia li ha celato, 
+^COSS@I FORANDO~, ^idest~ col viso, ^L'AURA GROSSA ETC.~, incomenzava 
+esso a intrare in paura e fugir de errore.
+
+	|40-45.~ 
+
+   ^Per@o che, come su la cerchia tonda~
+   ^Montereggion di torri si corona,~
+   ^coss@i la prora che 'l pozo circonda~
+
+   ^torregiavano di mezo la persona~
+   ^li orribili giganti, a cui minacia~
+   ^Giove dal cielo ancora quando tona.~
+
+	Qui D. fa una comparatione de le torre le quale sono nel circuito de 
+Monte Rigione nel contato de Sena: coss@i ^TORREGIAVANO DA MEZO LA 
+PERSONA~ quisti giganti, a li quali Iove ^MINACIA~ dal cielo.  E qui 
+toca quello che dice V. VI ^Eneidos~: <Hic genus anticum Terre, titania 
+proles, / fulmine deiecti fondo volvuntur in ymo>.  E per@o dice che, 
+quando Iove trona, minacia a li dicti giganti per farli pagura.
+
+	|46-48.~ 
+
+   ^E io scorgea gi@a d'alcun la facia,~
+   ^le spalle, il petto e del ventre gran parte,~
+   ^e per le coste gi@u ambo le bracia.~
+
+	Questo @e chiaro.
+
+	|49-51.~ 
+
+   ^Natura certo, quando lass@o l'arte~
+   ^de s@i fatti animali, assai f@e bene~
+   ^per t@ore tali executori a Marte.~
+
+	Qui parla D. comendando Dio, il qual se pent@i de fare s@i fata gente, 
+per@o che Marte, dio de le bataglie, averia troppo possenti combatitori.
+
+	|52-57.~ 
+
+   ^E s'ella de elefanti e di balene~
+   ^non si pente, chi guarda sotilmente,~
+   ^pi@u giusta e pi@u discreta la ne tiene;~
+
+   ^ch@e dove l'argumento de la mente~
+   ^s'agionge al mal voler e a la possa,~
+   ^nessun riparro vi pu@o far la gente.~
+
+	Qui dice D. che, ^SE ELLA~, ^idest~ natura, ^NON SI PENTE~ de creare 
+balene ed elefanti, ^PI@U GIUSTA E PI@U DISCRETA~, ^idest~ arte, ^LA NE 
+TENE~.  E rende la ragione che, quando ^L'ARGOMENTO DE LA MENTE~ umana 
+se congionge col mal volere e col potere, non vi se p@o far alcuno 
+riparo per la gente.
+
+	|58-60.~ 
+
+   ^La facia soa mi parea lunga e grossa~
+   ^come la pigna di San Pietro a Roma,~
+   ^e a sua proporcion eran l'altre ossa.~
+
+	Mo D. mostra quanto erano grandi, e comenza ad afigurare la faza de 
+quisti giganti a la pigna di San Pietro a Roma, la qual @e de metallo 
+ed @e in la corte.  E le ossa de quisti giganti erano a quella 
+proportione de la pigna suprascripta.
+
+	|61-66.~ 
+
+   ^S@i che la ripa, ch'era perizoma~
+   ^dal mezo in gi@u, ne mostrava ben tanto~
+   ^di sopra, che di iunger a la coma~
+
+   ^tre Fresoni s'averia dato mal vanto;~
+   ^per@o ch'io ne vedea trenta gran palmi~
+   ^dal luogo in gi@u dove afibia 'l manto.~
+
+	Qui dice D. che la ripa era perizoma, coss@i como feceno Adam ed Eva: 
+<Fecerunt sibi perizomata de foliis ficorum>.  ^Et dicit[ur] quod~ 
+<fuerunt gigantes statura magna, scientes bella; hos non elegit Dominus 
+neque viam discipline invenerunt et propterea perierunt>: e per@o se 
+conforma col dicto de D.  E dice che dal pecto, dove se afibia el 
+manto, infin a terra erano trenta palmi.  E per@o dice che, per 
+giongere ^A LA CHIOMA~, ^idest~ a la barba, se daria mal vanto ^TRE 
+FRESONI~, ^idest~ tre omini grandi.
+
+	|67-69.~ 
+
+   ^<Raph@el ma@i am@ech cab@i e almi>,~
+   ^cominci@o a gridar la fiera boca,~
+   ^cui non se convenia pi@u dolci salmi.~
+
+	Questo importa niente, e D. el dice ch@e, coss@i como al dicto Nebr@ot 
+@e ignoto ciascuno linguagio, coss@i lo so @e ignoto ad altri: e questa 
+@e la significatione di queste parole le quale non hanno 
+signific[at]o alcuno.
+
+	|70-78.~ 
+
+   ^E 'l duca mio ver lui: <Anima scioca,~
+   ^tienti col corno, e con quel ti disfoga~
+   ^quando ira o altra passion ti toca!~
+
+   ^C@ercati al collo, e troverai la soga~
+   ^che ti tien ligato, o anima confusa,~
+   ^e vedi lui che 'l gran petto ti doga>.~
+
+   ^Poi disse a me: <Elli stessi s'acusa;~
+   ^questi @e Nembr@ot per lo cui mal coto~
+   ^pur un linguagio nel mondo non s'usa>.~
+
+	Qui V., como ha fato ne l'altri lochi, coss@i dice a questo Nembr@ot 
+como capo de li giganti.  E per@o V. li dice: ^O ANIMA SCIOCA ETC. 
+COTO~, ^idest~ cogitatione, s@i che per la mal cogitatione de Nebr@ot 
+Dio confuse le lengue, per@o che esso ordin@o de fare una torre che 
+atingesse fin al cielo; e per@o Dio disperse quella opera, per@o che 
+una lingua fo mutata in infinite, s@i como scrive el ^Genesi~.
+
+	|79-81.~ 
+
+   ^Lassalo stare e non parlamo a v@oto;~
+   ^che coss@i @e a lui ciascun linguagio~
+   ^come 'l suo ad altrui, ch'a nullo @e noto.~
+
+	Questo @e chiaro.
+
+	|82-84.~ 
+
+   ^Facemmo adunque pi@u longo viagio,~
+   ^volti a sinistra; e al trar d'un balestro~
+   ^trovammo l'altro assai pi@u fero e magio.~
+
+	Qui V. dice che D. vada pi@u oltre, ^idest~ verso la sinistra mano, 
+<l@a ove troveremo uno gigante ^ASSAI PI@U FERO~ e magiore che non sia 
+questo Nembr@ot>.  E dice: ^TROVAMO L'ALTRO~ al trar d'un balestro, 
+^idest~ questo gigante, ^PI@U FERO E MAGIO~ che Nembr@ot.
+
+	|85-90.~ 
+
+   ^A cinger lui qual che fosse 'l maestro,~
+   ^non so io dir, ma el tenea succinto~
+   ^dinanci l'altro e dietro el bracio destro~
+
+   ^d'una catena che 'l tenea avinto~
+   ^dal collo in gi@u, s@i che in sul scoperto~
+   ^si ravolgea infin al giro quinto.~
+
+	Qui D. dice che esso non poria dire qual fosse il maestro de cingere 
+questo gigante che tenea incatenato l'un bracio, ^idest~ lo sinistro, e 
+di dietro lo bracio destro.  La qual catena li avolgea tuto lo 
+^SCOPERTO~, ^idest~ quello che stava fuor de la terra, cinque volte per 
+la persona.
+
+	|91-96.~ 
+
+   ^<Questo superbo volle esser experto~
+   ^di sua potentia contra summo Iove>,~
+   ^disse 'l mio duca, <ond'elli ha cotal merto.~
+
+   ^Fialte ha nome, e fece le gran prove~
+   ^quando i giganti fer paura a' d@ei;~
+   ^le bracia ch'el men@o, gi@a mai non move>.~
+
+	Qui V. nomina lo dicto gigante chiamato Fialte, il qual fo contra li 
+dei ne la pugna di Felegra, dicendo che mai non mena la mane la qual 
+men@o contra Iove.  La qual favola tocher@o io apresso nel presente 
+capitulo.
+
+	|97-99.~ 
+
+   ^E io a lui: <Se esser pote, io vorrei~
+   ^che de lo smisurato Briareo~
+   ^experienza avesser li ochi mei>.~
+
+	Qui D. domanda V. che li mostre Briareo, ^idest~ un altro gigante.
+
+	|100-102.~ 
+
+   ^Ond'ei rispuose: <Tu vedrai Anteo~
+   ^presso de qui che parla ed @e disciolto,~
+   ^che ne porter@a al fondo d'ogni reo>.~
+
+	V. rispuose: ^TU VEDRAI ANTEO~, ^idest~ un altro gigante, il qual 
+^PARLA ED @E DISCIOLTO~; il qual ^NE PORTER@A AL FONDO D'OGNI REO~, 
+^idest~ al fondo de l'inferno.  De li quali giganti dice Lucano libro 
+IIII: <Nondum post genitos tellus effecta gigantes / terribile[m] 
+Libiis partum concepit in antris; / nec tamen iusta fuit terrarum 
+gloria Tiphon / aut Titios Briareusque ferox etc.>.
+
+	|103-105.~ 
+
+   ^Quel che tu vuoi vedere, pi@u l@a @e molto~
+   ^ed @e ligato e fatto come questo,~
+   ^salvo che pi@u feroce par nel volto.~
+
+	Qui dice V.: <Briareo @e ^PI@U L@A MOLTO ED @E LIGATO ETC.~>.
+
+	|106-108.~ 
+
+   ^Non fu tremoto gi@a tanto rubesto,~
+   ^che scotesse una torre coss@i forte,~
+   ^como Fialte a scotersi fu presto.~
+
+	Questo @e chiaro.
+
+	|109-111.~ 
+
+   ^Allor temet'io pi@u che mai la morte,~
+   ^e non v'era mester pi@u che la dotta,~
+   ^s'io non avesse visto le ritorte.~
+
+	D. mostra qui temere forte de questo Fialte, perch@e non avesse rote 
+le ^RITORTE~, ^idest~ lo legamme che l'avea legato.  Questo Fialte fo 
+figlio de Aloi e f@e le gran prove contra Iove in la dicta pugna di 
+Felegra.  Queste ritorte sonno una generation de ligammi molto duri; 
+strambe sono pi@u forte da essogliere.
+
+	|112-114.~ 
+
+   ^Noi procedemmo pi@u avanti allotta,~
+   ^e venimmo ad Anteo, che ben cinque alle,~
+   ^senza la testa, uscia fuor de la grotta.~
+
+	Qui dice D. che gionsero ad Anteo, lo qual uscia for de la grota, 
+senza la testa, ^CINQUE ALE~.  <Ala> s@i @e una misura de pani, la qual 
+@e in Fiandra e in Anglia, la qual @e parmi 3 1/2, ^sive~ palmi tre e 
+mezo, s@i che, facta ragione, venia XVII palmi e mezo.  Or mo @e da 
+considerare lo resto de questo gigante Anteo: e per@o D. lo scrive per 
+maraviglia.
+
+	|115-123.~ 
+
+   ^O tu che ne la fortunata valle~
+   ^che fece Scipione di gloria ereda,~
+   ^quando Anib@al con soi diede le spalle,~
+
+   ^recasti gi@a mille leoni per preda,~
+   ^e che, se fossi stato a l'altra guerra~
+   ^de' toi fratei, ancor par che si creda~
+
+   ^ch'avrebber vinti i figli de la terra:~
+   ^metine gi@u, e non ti vegna schiffo~
+   ^dove Cocito la freddura serra.~
+
+	Qui V. parla al dicto Anteo in parole losenghevolle, ricordandoli 
+alcune prodeze le qual esso fece nel tempo so, in quella valle onde 
+combateo Scipione con Anibal in Etiopia intra Cartagine ed Edipea.  Ne 
+la qual bataglia Scipione fo facto erede de gloria, per@o che esso 
+vinceo Anibal.  Ne la qual valle Anteo una volta pigli@o mille leoni, 
+s@i como scrive Lucano libro 4°: <Rupe fuerunt epulas raptos habuisse 
+leones etc.>.  ^E CHE, SE FOSSI STATO A L'ALTRA GUERA~, ^idest~ a 
+quella di Felegra, con li altri ^TOI FRATELLI~, ^idest~ altri giganti, 
+^ANCOR PAR CHE SI CREDA~ che ^LI FIGLI DE LA TERRA~, ^idest~ li 
+suprascripti giganti, avrebero vinti li dii.  E toca qui una favola che 
+sono figli de la terra, la qual mete Ovidio ^De faustis~ V: <Terra 
+ferox partus, inmania monstra, gigantes>.  ^METINE ETC.~
+
+	^DOVE COCITO~, ^idest~ a la fine del cupo de questo inferno, l@a ove 
+Cocito, ^idest~ lo fiume ch'io te dissi capitulo [XIIII], ^LA FREDURA 
+SERA~, ^idest~ se agiacia.  E questo @e l'ultimo loco ove se punisse lo 
+vitio di tradigione.
+
+	|124-132.~ 
+
+   ^<Non ci far ire a Ticio n@e a [Tiffo]:~
+   ^questi pu@o dar di quel che qui se brama;~
+   ^per@o ti china e non torcer lo griffo.~
+
+   ^Ancor ti pu@o nel mondo render fama,~
+   ^ch'el vive, e longa vita ancor aspetta~
+   ^se 'nanci tempo gratia a s@e nol chiama>.~
+
+   ^Coss@i disse 'l maestro; e quelli in fretta~
+   ^le man distese, e prese 'l duca mio,~
+   ^onde Ercule sent@i gi@a grande stretta.~
+
+	Qui dice ancor V.: ^NON CI FAR IRE A TICIO N@E A TIFFO~ per passarne, 
+quasi dica: <Passene tu>.  V., VI ^Eneidos~, de questo Ticio dice: <Nec 
+non et Ticium, Terre omnipotentis alumpnum>; et Ovidio 
+^Metamorphoseos~: <Emissumque yma de sede Tiphea terre>.
+
+	^QUESTI~, ^idest~ D., ti p@o dar ^DE QUEL CHE QUI SI BRAMA~, ^idest~ 
+ne l'inferno.  E quale @e questa cossa?  @E la vanagloria del mondo, la 
+qual @e pecato mortalle.  ^PER@O TE CHINA ETC.~  E sequita che ^ANCOR 
+TI PU@O NEL MONDO RENDER FAMA~, per@o ^CH'EL VIVE ETC.~, se ^GRATIA~, 
+^idest~ Dio, ^NOL CHIAMA~ 'nanti el so tempo, ^idest~ che esso passi da 
+quello vicio mortalle.
+
+	^COSS@I DISSE 'L ETC.~, ^idest~ al modo 'nanti dicto, ed esso, ^idest~ 
+Anteo, distese in fretta la mano, e prese V., ^ONDE~, ^idest~ de la 
+qual mano, ^ERCULE SENT@I GI@A GRANDE STRETTA~.  Questa @e una favola 
+la qual toca Lucano libro 4°: <Alcydes medium tenuit a pectora pigro / 
+stricta gelu etc.>.  Questa favola se alegoriza per questo modo: 
+Ercules se interpetra lo omo virtuoso e Anteo lo omo pecatore il qual, 
+quanto pi@u se acosta a le cosse terrene, tanto pi@u @e forte a 
+vincere, per@o che multiplica la forza a far male; e lo omo virtuoso, 
+figurato in Ercule, pigliandoli le bracia, senza far tocar la terra 
+l'occise.  E questo vol dir che, como Ercules and@o in Libia e 
+pr@esesse a le bracia col dicto Anteo, e ogni volta che Ercule gitava 
+per terra Anteo, lo dicto Anteo riprendeva molto pi@u possanza che 
+prima; ultimo Ercule, acorgendossi de questo, lo alz@o in aere e tanto 
+lo astrinxe che lo occise.
+
+	|133-141.~ 
+
+   ^Virgilio, quando prender si sentio,~
+   ^disse a me: <Fate in qua, s@i ch'io ti prenda>;~
+   ^poi fece s@i che un fascio era elli e io.~
+
+   ^Qual pare a riguardar la Carissenda~
+   ^sotto 'l chinato, quando un nuvol vada~
+   ^sovr'essa s@i, che de ella incontro prenda:~
+
+   ^tal parve Anteo a me che stava a bada~
+   ^di vederlo chinar, e fu tal ora~
+   ^ch'io avrei voluto ire per altra strada.~
+
+	Questo @e chiaro.  E fa una comparatione de una torre altissima -- la 
+qual @e in Bologna, la qual sta inclinata che par pur che cada, e 
+spitialmente quando un nugolo passa sopra essa, s@i che prenda incontro 
+lo nuvolato -- che, essendo alcuno da la parte del nugolo, par che 
+cada.  La qual torre @e chiamata Carissenda.  ^TAL PARVE ANTEO ETC. E 
+FU TAL ORA CH'IO AVREI VOLUTO IRE PER ALTRA STRADA~, tanta grande 
+pagura avea.
+
+	|142-145.~ 
+
+   ^Ma lievemente al fondo che divora~
+   ^Lucifero con Giuda, ci possoe;~
+   ^n@e, s@i chinato, l@i fece dimora,~
+
+   ^e come albero in nave si levoe.~
+
+	Qui dice D. como questo Anteo li men@o ^AL FONDO~ il qual ^DIVORA 
+LUCIFERO CON IUDA~, lo qual trad@i Cristo.  Ne ^POSSOE~, ^idest~ 
+allogoe, l@a dove se puniscono li traditori, il qual @e l'ultimo loco 
+de l'inferno.  ^N@E, S@I CHINATO [L@I ETC.]~, ^idest~ in quel loco, 
+che si lev@o como albero da nave.  E questo dice per la inmensa soa 
+grandeza.
+
+	Or, per darti intendere D. perch@e induce quisti giganti qui, quisti 
+sonno li grandi e potenti signor del mondo, li quali in potentia e in 
+vivere vogliono passare ogni termine de natura, coss@i como fecero 
+quisti giganti.  E per@o dice Sallamone: <Qui erraverit in via recta in 
+cetu gigantum commorabitur>.  E per@o D., sequitando questo dicto de 
+Salamone, figura quisti omini potenti del mondo, li quali sono disposti 
+far forze e sono desiderosi del sangue umano, a li dicti giganti, li 
+quali non bastava a loro tollere per forza li beni altrui, ma occidere 
+con odio e con superbia e con dispregio de Dio e del mondo.  E de la 
+inmensa grandeza de li dicti giganti e forza ne sonno assai aperte 
+prove, ch@e ne li anni MCCCLVII nel monte de Trapani fo trovato uno 
+corpo umano de s@i gran statura, che la soa mola i pesava rotole doe e 
+ancora pi@u.  La qual mola fo presentata a madamma la regina Ioanna al 
+Castello de l'Ovo, portata da Scicilia, ne li anni MCCCLXXIII.  E io 
+l'abbi ne le mie mane.  E secondo li signi del loco ove fo trovata, 
+questa fo di quel gigante che fo occiso da Ercule chiamato Eris, s@i 
+como dice V. V ^Eneidos~: <Hec germanus Eris quondam tuus arma gerebat, 
+/ sanguine cernis adhuc etc.>

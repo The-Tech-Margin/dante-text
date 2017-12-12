@@ -1,0 +1,30 @@
+{DISPLAY}
+
+;
+; Display a document on the Macintosh screen
+;
+
+:REQUEST ~FF,#CP_DANT.fmt~
+
+:PARSE @LINE EXTRACTING @BR USING ~/~
+
+:COMPARE @BR
+
+     TO "1-#MAXQUERY"
+        :SET #QUERY TO ~@BR~
+
+        :COMPARE @LINE
+
+             TO "1-#DOCS"
+                :BRS PRINT BACKREF ~@BR~ DOCUMENT ~@LINE~
+                :BRS PRINT
+                :RETURN
+
+        :DONE
+
+        :PRINT ~document error~
+        :RETURN
+
+:DONE
+
+:PRINT ~backref error~

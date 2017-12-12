@@ -1,0 +1,16 @@
+{GOPTS_HV}
+
+:SET #HEADING ~\cDDP\t\t\t\o2SaveSearch Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The  V  option  produces  the  SaveSearch Menu, which allows you to
+     store  search strategies  for  later  use, or to execute previously
+     stored  stategies on the current database.  Saved searches are most
+     useful   for  performing  frequently  executed  search  strategies.
+     SaveSearch  Menu  options  allow  you  to create, refine, or remove
+     saved searches at any time.
+
+     Additional Help is available after entering the SaveSearch Menu.\n~
+
+:PAUSE BOTTOM
+:RETURN

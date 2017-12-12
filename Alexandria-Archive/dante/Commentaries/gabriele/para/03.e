@@ -1,0 +1,155 @@
+	|1.~  QUEL SOL, chiama Beatrice, cio@e la Teologia che le nostre menti 
+alluma.
+
+	|2.~  DI BELLA VERIT@A M'AVEA SCOVERTO: @e modo di dire, idest, m'avea 
+chiarito.
+
+	|3.~  IL DOLCE ASPETTO, cio@e di Beatrice, e piglia l'aspetto, che @e 
+parte, per lo tutto, cio@e lei.
+
+	|4.~  PER CONFESSAR, che era dir di s@e.
+
+	|8.~  PER VEDERSI, idest, per essere veduta.
+
+	|12.~  CH'E' FONDI SIAN PERSI, idest, che per la profundit@a i fundi 
+sian perduti, e nota che di rado si truova <persi> pro `perduti'.
+
+	|13.~  POSTILLE, idest, imagine e apparenze.
+
+	|15.~  ALLE NOSTRE PUPILLE: ha tolto parte per lo tutto, ^pupille~ per 
+gli ochi.
+
+	|17-18.~  TRA L'OMO E 'L FONTE: Narciso era in errore credendo che 
+l'imagine, repercossa dalla fonte, di s@e fusse corpo, e Dante credea 
+il contrario, che quelli corpi, che erano l@i, fussero ombre.
+
+	|26.~  QUOTO: si d@a al numero, ma Dante il d@a alla qualit@a 
+impropriissimamente, e forse non era ben noto a quel tempo il poter di 
+questa parola.
+
+	|28.~  A VOTO, idest, indarno.
+
+	|30.~  PER MANCO, idest, per mancamento, DI VOTO, idest, di 
+promissione fatta a Dio.
+
+	|40-41.~  SE MI CONTENTI DEL NOME TUO: bella locutione <contentar del 
+nome>, idest, se mi dici il tuo nome.
+
+	|44.~  COME QUELLA, che @e Dio, il quale mai ^serra porte~; adunque, 
+n@e questi spiriti.
+
+	|46.~  VERGINE SORELLA: `sorelle' si chiamano tutte le monache, ma 
+monache sole veramente si chiamano quelle di santo Benedetto; e cos@i 
+tutti si debbeno chiamar `frati' fuor che quelli di san Benedetto, 
+cio@e di quell'ordine che sono monaci, e <monaco> @e greco e significa 
+`solitario'.
+
+	|49.~  PICCARDA: e questo in quanto al nome.
+
+	|51.~  NE LA SPERA PI@U TARDA, che @e la luna, e ancor che strano paia 
+ad odir che la luna, che fa il suo corso in 28 giorni, vada pi@u tardi 
+che il ciel di Saturno, ch'el fa in trenta anni, dico che, avuto 
+riguardo alla maggior circunferenza che ha da far Saturno che la luna, 
+chiaro appare la luna esser pi@u tarda.
+
+	|52.~  LI NOSTRI AFFETTI: risponde a quella altra parte ^e della 
+vostra sorte~.
+
+	|57.~  E V@OTI, idest, scemi, e sta sul significato della parola 
+ambigua, che vuol dir `v@oti', idest, promissioni, e `v@oti', idest, 
+scemi.  IN ALCUN CANTO: in alcuna parte e non in tutto scemi.
+
+	|63.~  M'@E PI@U LATINO, idest, pi@u facile, e non vien da `lato', 
+come vuole il Landino, ma @e traslato che, s@i come il parlar latino, 
+cio@e nostro volgare col quale parliamo in Italia, ne @e facilimo 
+rispetto al parlar tedesco o franzese, cos@i quinci dicemo <questa cosa 
+m'@e latina>, cio@e facile, come dicemo della lingua; e di qui per 
+aventura se deriva quello che delli cavalli se dice: <l'@e 
+l\<a\>d\<o\>>, idest, facile.
+
+	|66.~  PER PI@U VEDERE E PER PI@U FARVI AMICI.  Tocca in questo solo 
+verso il Poeta una bella e profunda cosa, cio@e che per l'un di duoi 
+modi l'omo discende alla contemplatione de Dio, o per via di dottrina e 
+di scienza, e intendendo quid sit Deus etc., e perci@o dice ^per pi@u 
+veder~, ch@e per lo mezzo della intelligenza e della scienza vedemo; o 
+per mezo de l'amore potemo venir a questa contemplatione, e perci@o 
+soggiunge ^o per pi@u farvi amici~, e altrove di ci@o in questa opra 
+n'abian parlato.
+
+	|68.~  DA INDI, idest, dapoi.
+
+	|70.~  QUIETA: @e verbo qui.
+
+	|75.~  DAL VOLER DI COLUI CHE QUI NE CERNE: Dio l'ha elette ad abitar 
+quel cielo della luna e, se esse desiassero di esser pi@u in su, saria 
+il lor desio contrario alla volunt@a di Dio.
+
+	|76.~  CHE VEDRAI NON CAPER IN QUESTI GIRI: dice che ne' cieli non 
+stanno chi non si contenta di quello che loro ha dato Dio, e ci@o @e 
+vero perch@e, essendo ivi tutto somma bont@a, somma felicit@a e sommo 
+bene, non pu@o star discordia che privi di questa quietezza niuno.
+
+	|79.~  ANZI, questo voler se non quanto vuole Dio, @e forma della 
+beatitudine.
+
+	|85-87.~  ELLA, cio@e ^sua volunt@a~.  AL QUAL TUTTO SI MOVE, perch@e, 
+s@i come tutti i fiumi movono al mar, cos@i tutte le cose movono alla 
+volunt@a di Dio, che @e il lor sommo bene.  CI@O CH'ELLA CRIA, che sono 
+l'anime, E CHE NATURA FACE, che sono tutte l'altre cose fatte dalli 
+quattro elementi.
+
+	|88-90.~  OGNI DOVE, idest, ogni loco, IN CIELO @E PARADISO, cio@e che 
+per tutto @e beatitudine ivi, ETSI, idest, licet, LA GRATIA DEL SOMMO 
+BEN D'UN MODO etc.  Il che, acci@o sia pi@u chiaro, poniamo per 
+essempio che siano in una camera pi@u vasi, de' quali alcun ne sono 
+maggiori l'un de l'altro, e tutti sieno pieni di acqua: non si potr@a 
+gi@a dir che uno sia men pien de l'altro, ancor che l'un pi@u n'abia de 
+l'altro, ma tanto in suo grado sar@a pien il picciolo quanto nel suo il 
+grande; e cos@i qui tutti sono beati, perch@e tanto sentono di 
+beatitudine quanto ne sono capevoli, ancor che alcuni ne sentano pi@u 
+che alcuni altri.
+
+	|93-94.~  <Ringratiar con atti e con parole>: bel modo; il Petrarca 
+disse nella canzon ^Quando il soave mio fido conforto~: <in atto e in 
+parole la ringratio>.
+
+	|95.~  QUAL FU LA TELA: avea detto Piccarda che per mancamento di voto 
+era qui; questo vuol saper il Poeta, qual voto fusse questo, e dicendo 
+^tela~, disse ^spuola~, che @e parola lombarda.
+
+	|97-98.~  INCIELA, idest, tiene in cielo, DONNA, che @e santa Chiara.
+
+	|99.~  SI VESTE E VELA, idest, si prende abito.
+
+	|101.~  CON QUELLO SPOSO, e perci@o dice ^vegghi e dorma~.
+
+	|102.~  CHE CARITATE A SUO PIACER CONFORMA: bisogna adunque che 'l 
+voto sia fatto da zelo di carit@a e non sforzato o per altra cagione, e 
+cos@i che sia conforme a Dio, cio@e che sia giusto voto e non di cosa 
+empia.
+
+	|103-104.~  PER SEGUIRLA, idest, per seguir quella donna.  E NEL SUO 
+ABITO MI CHIUSI: <chiudersi ne l'abito>, idest, prender il suo abito.
+
+	|105.~  E PROMISI LA VIA, ch'or dicemo `far professione', e ha narrato 
+per lo suo ordine, perch@e si prende prima l'abito e si sta cos@i un 
+anno e, quello finito, piacendoli quella vita, promette la castit@a e 
+giura, e quello @e far professione.
+
+	|108.~  FUSI: per la rima lo scrisse per un ^s~, ma l'accento ne 
+chiama dui.
+
+	|113-114.~  SORELLA FU, idest, monaca a nostro parlare; L'OMBRA DELLE 
+SACRE BENDE, idest, le sacre bende; il Petrarca: <l'ombra del dolce e 
+mansueto viso>.
+
+	|116.~  GRADO, idest, volunt@a e piacere.
+
+	|117.~  DAL VEL DEL COR, idest, dalla profession che fece col core, 
+perch@e col core sempre fu casta.
+
+	|118.~  LA LUCE, dice, avendo detto di sopra ^splendore~.
+
+	|119.~  VENTO, chiama il fasto e la superbia.
+
+	|129.~  IL VISO, idest, la veduta.

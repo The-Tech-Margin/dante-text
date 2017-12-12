@@ -1,0 +1,743 @@
+	Testo e Commento.  -- Questo Canto che descrive il
+passaggio dall'VIII al IX Cerchio, @e costruito quasi con gli
+stessi elementi del Canto XVII, cio@e la sicurezza di Virgilio e
+la paura di Dante in mezzo a mostri fantastici.  A molti critici
+per@o parve che questi elementi qui non siano stati cos@i
+felicemente fusi insieme come nel Canto di Gerione.  Sia che
+nella riproduzione dei Giganti il genio dantesco non si trovasse
+libero come nella creazione di Gerione, anzi inceppato da tanti
+precedenti esempi classici, sia perch@e qui manchi la variet@a
+dell'episodio realistico, come quello degli Usurai nel Canto
+XVII, il nostro Canto fu generalmente giudicato troppo decorativo
+e troppo carico di reminiscenze tradizionali e dottrinarie a
+scapito della drammaticit@a.
+
+	Ma cos@i volle, forse ad arte, il Poeta.  Tra i grandi e
+variamente pietosi quadri di Malebolge e quelli ancor pi@u
+terribili di Cocito, forse, egli volle frapporre un Canto che, 
+pur destando la fantasia del lettore, ne lasciasse in riposo lo
+spirito; prefer@i una materia che facesse pensare, pi@u che
+commuovere, e la scelse tra le favole che erano famigliari ai
+lettori del tempo suo e che sono di significato quasi
+esclusivamente simbolico.  Cos@i nacque questo Canto che ha nome
+dai Giganti: figure troppo prive di vita interiore perch@e le loro
+orribili membra ci spaventino, troppo note perch@e ci stupiscano;
+simboli delle fatali conseguenze che porta seco l'indurimento nel
+male, come ben vide il De Sanctis; i Giganti che rappresentano
+l'ultimo Cerchio dell'Inferno e preannuncian Lucifero, sono
+appunto l'immagine delle ultime conseguenze del male, <che prima
+mette in movimento tutte le passioni, le quali a lungo andare
+diventano vizi ed abitudini, insino a che l'anima logorata
+istupidisce e rimbambisce.  L'umanit@a nel suo corso ideale va da
+Inferno a Paradiso, da carne a spirito; l'inferno @e il mondo
+della carne e il suo progresso @e il regresso, cio@e a dire un
+continuo offuscarsi dello spirito, infino a che in ultimo si
+spegne del tutto>.  Gli antichi pagani avevano rappresentato
+questa fatale degenerazione colla favola dei Giganti; gli antichi
+ebrei colla storia di Nembrotte: questa e quella ugualmente
+significanti la sconoscenza e la ribellione a Dio, principio del
+bene, che si vendica abbattendoli col fulmine o immiserendoli
+nella confusione.  Mitologia e Bibbia concordano nella medesima
+idea morale che il Poeta volle esprimere nel nostro Canto; e
+l'antica duplice storia gli cade a pennello per farci uscire un
+momento dall'umano reale, e farci spaziare serenamente, 
+giocondamente, come vedremo, nei campi dell'immaginazione e della
+filosofia, con intermezzi di critica letteraria e di comici
+spunti.
+
+	L'ultima Bolgia del Cerchio VIII ci aveva fatto
+discendere a vedere l'ultima bassezza a cui pu@o giungere l'uomo;
+il principio del nostro Canto ci richiama alla mente quella
+scena; ma contemporaneamente una lancia che piaga e guarisce ad
+un tempo, come non s'@e mai visto qua gi@u, e subito dopo un corno
+non mai udito, se non dagli eroi di fantasiosi Poeti, ci
+trasportano di colpo in un mondo nuovo, il mondo delle
+ispirazioni romanzesche, gi@a frequenti ai tempi di Dante nei
+Poemi cavallereschi, che pi@u tardi dovevano esser condotti a
+perfezione dall'Ariosto.
+
+	|1-6.~  Come vedremo dalla seguente terzina, Dante e
+Virgilio non hanno ancora dato ^il dosso al misero vallone~
+{v.7}, ma sono ancor rivolti verso l'ultima Bolgia; il rimprovero
+acerbo di Virgilio li ha lasciati entrambi ^senza sermone~ {v.9};
+Dante pensa ancora a questo rimprovero che gli fece sembrar
+mordace la lingua del maestro, alla vergogna che sent@i, al
+conforto che poi lo stesso Virgilio gli porse, e tutto ci@o gli
+ricorda la lancia che Achille avrebbe ereditato da Peleo, suo
+padre, e poi portata seco all'assedio di Troia.  Durante il
+viaggio, Telefo, figlio di Ercole, re di Misia, neg@o ai Greci
+l'approdo al suo territorio, sicch@e fu da Achille ferito con
+quella lancia, e non pot@e guarire finch@e, per consiglio
+dell'oracolo, non ottenne di raccostare la piaga al ferro che
+l'aveva aperta; allora <Vulneris in Herculeo quae quondam fecerat
+hoste, Vulneris auxilium Pelias hasta tulit> (Ovidio, ^Ar. am.~, 
+47-48; Orazio, ^Eq.~, XII, 8).  Il racconto ovidiano era popolare
+ai tempi di Dante, e i poeti paragonavano volentieri alla lancia
+di Peleo lo sguardo e il bacio della donna amata, come si vede da
+due esempi, uno di Chiaro Davanzati, e l'altro di Giovanni
+Dall'Orto, riportati dal Casini.  Questi Poeti, come Dante, 
+credevano che ^Pelias hasta~ significasse l'asta di Peleo, mentre
+significa la lancia del monte Pelion, dimora di Chirone centauro, 
+che della lancia stessa fece dono ad Achille.
+
+	La parola |mancia~ aveva allora significato pi@u nobile
+che non abbia oggi, ossia di dono, regalo in genere, tutto ci@o
+che si offre o si d@a volontariamente, senza richiesta, e i versi
+di Dante giustamente ricordano allo Scartazzini i passi dei testi
+sacri <Ego occidam et ego vivere faciam; percutiam et ego sanabo>
+(^Deuteronomio~, XXXII, 39), e <^Tu flagellas et salvas~>
+(^Tobia~, XIII, 2).
+
+	|7-11.~  La |ripa~ dal |misero vallone~ alla ^proda~ o
+sponda del pozzo, @e assai larga, come appare dai versi 24-26 e
+38.  I due Poeti l'attraversano direttamente, taciti, sopra
+pensieri, mentre le voci degli ultimi peccatori si spengono in
+lontananza.  Dinanzi |poco~ si vede.  Non v'@e qui un'oscurit@a s@i
+profonda come gi@a vedemmo altrove, ad esempio nella Bolgia dei
+Barattieri, ^orribilmente oscura~, o in quella dei Ladri, dove
+dal ponte il Poeta ^neente~ affigurava: al contrario di quel che
+ci saremmo aspettati, qui non v'@e che un chiaroscuro da
+crepuscolo: |men che notte e men che giorno.~  Forse per ragion
+fisica, avvicinandosi il biancore della gran ghiaccia, opposto al
+nero della Bolgia IV; forse allusione alla serenit@a
+dell'argomento che si tratter@a in questo Canto.  Silenzio adunque
+e semioscurit@a d'ore vespertine o di nebbia; ^ma~ {v.12} a un
+tratto un fragorosissimo suono, pi@u potente d'un tuono, rompe il
+silenzio e fa acuire la vista, in avanti, verso il punto donde
+quel suono giungeva, cio@e verso l'estremo della |ripa~, verso la
+proda del pozzo, che vedremo torno torno contornata dagli
+orribili giganti, come un loggiato da statue colossali.
+
+	|12-15.~  Tacevano, |ma~ il silenzio @e a un tratto
+interrotto da un suono di corno |alto~ di tono, tanto che avrebbe
+fatto fioco, al paragone, |ogni tuon~: e quel suono di corno come
+rumoreggia per quattro versi! rompe negli ^a~ di |sonare~ e di
+|alto~, si ripercuote in |tuon~ tronco e accentuato, romba nelle
+vocali cupe dei monosillabi ugualmente in ^a~ di |sua~ e di |via~
+per tutto quel verso, e si ripercuote a distanza nelle rime in
+^ando~, mentre fa drizzare |tutti~, interamente, ad un loco gli
+occhi di Dante che ricorrono la via del suono fino al suo
+principio.
+
+	Questo corno, lo sapremo poi, @e suonato da Nembrotte, di
+biblica reminiscenza; ma non si trova nella Bibbia, n@e tra le
+favole classiche; @e tolto dai romanzi del ciclo cavalleresco, che
+il Poeta ricorda nella terzina seguente.
+
+	|16-18.~  Si allude alla famosa rotta di Roncisvalle, 
+dove Carlo Magno, pel tradimento di Ganellone di Magonza, che
+s'era inteso con Marsilio, re di Spagna, perd@e la |Santa gesta~, 
+ossia, secondo il significato classico della parola, la <schiera>
+dei 20.000 francesi della retroguardia, comandata da Orlando e
+distrutta dai pagani.
+
+	Quel |terribilmente~ traduce la singolarit@a del suono, la
+gravit@a del pericolo, la forza dell'eroe.  Il corno d'Orlando, , 
+tutto d'avorio, tempestato di pietre preziose, come dice la
+^Chanson de Roland~, suonava come 60.000 corni uniti, e Orlando
+in quella giornata lo suon@o con tanta forza che, rottesigli le
+vene del collo, mor@i; Carlo Magno ud@i il richiamo da trenta leghe
+di distanza e accorse; ma quando giunse sul luogo della battaglia
+non v'era pi@u un solo vivente della |santa gesta~, di quei suoi
+paladini.
+
+	|19-21.  Poco~, cio@e per poco tempo procede Date con la
+testa volta in avanti, quando gli par di vedere |molte alte
+torri~: parole che par la forte arsi e per i tre ^t~ fra tante
+consonanti ci obbligano quasi ad alzare il viso per pronunziarle. 
+La vista di queste torri ricordano al Poeta la cinta e le
+^meschite~ della citt@a di Dite, l'opposizione delle Furie e dei
+pi@u di mille ^da ciel piovuti~, e, temendo una nuova e pi@u feroce
+resistenza, si rivolge al Maestro con quella subita e breve
+domanda: |di', che terra @e questa~?
+
+	|22-27.~  Chi non osserva diligentemente, e si lascia
+trasportare dall'immaginazione troppo presto, ^abborra~ (^Inf.~, 
+XXV, 144), cio@e abberra, erra o confonde nel giudicare, per
+<conoscenza difettiva>, come dice il Poeta nel ^Convivio~, (I, 
+VI, 6).  L'osservazione @e filosofica e giusta, come logica ne @e
+la conseguenza che ne trae Virgilio: aspetta dunque di esser pi@u
+vicino e d'aver meglio veduto, e, se vuoi affrettarti a
+conoscere, affretta il passo.  Ma con tutto ci@o il Maestro non ha
+soddisfatto la curiosit@a di Dante, n@e acquietato il suo nascente
+timore.  Dicendogli: t'inganni, lo saprai, affrettati, ha
+risposto come un precettore che, dopo aver fatto un predicozzo
+allo scolaro, conserva un certo sussiego, perch@e l'altro non
+dimentichi cos@i presto la lezione.  Ma Dante, convinto com'era
+d'aver ormai scontato il suo errore; Dante che s'era volto al
+maestro con tanto ficucia, al sentirlo parlare cos@i, torna a
+turbarsi; forse gli @e spuntata una lagrima sulle ciglia; per cui
+Virgilio, commosso, riprende il suo aspetto e gli accenti
+paterni, anzi pi@u paterni che mai.
+
+	|28-33.~  Non vuol dargliela vinta del tutto, o
+confessare d'esser stato nuovamente troppo severo; finge di non
+essersi accorto della paura di Dante, e cerca un pretesto: perch@e
+poi |il fatto men ti paia strano~; ma intanto gli dice tutto
+quello che il discepolo era impaziente di sapere, tenendogli
+|caramente~ la mano nella sua.
+
+	Si direbbe che con questa scenetta patetica e domestica
+il Poeta abbia voluto dissipare le ultime nebbie di Malebolge, 
+per prepararci a riflessioni filosofiche.
+
+	Intanto noi sappiamo gi@a che |molti giganti~ posano coi
+piedi sul ghiaccio di Cocito, che qui prende nome di |pozzo~ per
+la sua profondit@a, e che questi giganti, pur essendo
+|dall'umbelico in giuso~ tutti quanti nascosti dalla ripa che
+cinge il pozzo, ne sporgono ancor tanto, con la testa, col busto
+e mezzo il ventre che il Poeta li aveva presi per torri, ^alte
+torri~ {v.20}.
+
+	L'immagine di pozzo @e forse d'origine biblica: <neque
+urgeat super me puteus os suum> (^Salmo~ LXVIII, 16); ma il nome
+di Giganti suggerisce piuttosto il ricordo delle favole pagane, 
+bench@e Nembrotte riaffermi l'ispirazione biblica.
+
+	Abbiamo gi@a osservato che questo riavvicinamento dei
+Testi Sacri e delle favole pagane, mostra l'accordo delle due
+antiche credenze, nel raffigurare cos@i mostruosamente l'ultimo
+pervertimento della creatura umana, avviata sulla strada del male
+dall'incontinenza.  Anche Virgilio aveva collocato i Giganti nel
+fondo del suo Inferno, come la Bibbia, oltre i fabbricatori di
+Babele, aveva riconosciuto l'esistenza di questi esseri, 
+spaventosi all'aspetto, nel gigante Golia.  Una tradizione
+giudaica, raccolta da San Tommaso (^Somma Teol.~, I, LI), faceva
+discendere i Giganti dall'unione dei figli del cielo ribelli con
+le figlie di Caino, come la paganit@a, secondo Esiodo, li diceva
+figli della Terra, fecondata di sangue di Urano, quando fu
+mutilato da Saturno.  Ma soprattutto uguale @e il delitto loro
+attribuito e il significato morale: i Giganti pagani mossero
+guerra a Giove per vendicare i Titani, loro affini; Nembrotte e i
+suoi osarono tentare la scalata del cielo, e gli uni e gli altri
+conobbero la potenza della divinit@a offesa.  Che cosa significano
+adunque, nell'allegoria del Poema, i Giganti?  Il tradimento
+umano, nella sua forma pi@u abbietta, di ribellione dell'uomo a
+Dio, come Lucifero rappresenta la ribellione a Dio della creatura
+angelica.
+
+	|34-39.~  Similitudine ammirata dal Biagioli <per la
+naturalezza e la semplicit@a, ma pi@u ancora per le espressioni>;
+dove la nebbia @e definita |vapor che l'aere stipa~; ossia, 
+facendo l'|aere~ soggetto, l'aria condensa i vagori in nebbia per
+effetto del freddo, come un freddo maggiore li converte in
+pioggia (^Purg.~, V, 109) e il Sole al contrario li dissolve
+(^Conv.~, II, XV, 5).
+
+	Avvicinandosi |pi@u~ e |pi@u~ alla proda, riuscendo a
+vincer l'oscurit@a, Dante riconosce il suo errore e la verit@a
+delle parole di Virgilio; ma sente crescere la sua paura, perch@e
+gli orribili Giganti sono ancor pi@u spaventosi che le torri d'una
+fortezza nemica.  Una nuova similitudine ci dice che l'aver
+scambiato i Giganti per torri non era poi senza una certa scusa
+di rassomiglianza.
+
+	|40-45.~  Montereggioni (^castrum Montis regionis~) @e un
+castello a sei miglia da Siena, fuor di porta Camula, in Val
+d'Elsa, che fu costruito nel 1213.  Pi@u tardi, fra il 1260 e il
+1270, i Senesi ne fecero un baluardo contro i Fiorentini, 
+munendolo, per un perimetro di oltre mezzo chilometro, d'una
+cerchia di mura, alte venti metri da terra e sormontate chi dice
+da 12 e chi da 14 torri, a ugual distanza l'una dall'altra.  Il
+castello dur@o quanto la libert@a senese, fino al 1554, nel quale
+anno divenne propriet@a dei Medici: oggi le torri si vedono
+spianate all'altezza delle mura.  Sorgendo sopra un colle
+isolato, e non essendovi alcuna torre interna, Montereggioni ben
+si prestava per la similitudine dantesca.  Solo che i Giganti che
+|torreggiavano~, sopravanzavano come torri, la proda della ripa, 
+la quale non volgeva per meno di tre miglia di circonferenza, 
+essendo a distanza d'un getto di balestro l'uno dall'altro, 
+dovevano esser pi@u numerosi delle torri di quel castello; e per
+simmetria architettonica, piacerebbe pensare che ogni Gigante
+fosse all'ultimo sbocco, in linea con ciascun ordine dei ponti di
+Malebolge, che sarebbero pertanto anch'essi assai numerosi.
+
+	Vinti e costretti nell'Inferno, i Giganti sono ancora
+orribili a vedersi e conservano la ^possa~ {v.56} e il ^mal
+volere~ {v.56}; ma il tuono di Giove che ricorda loro il fulmine
+dei campi di Flegra, @e sufficiente minaccia per quelle anime
+confuse.
+
+	|46-48.  E io scorgeva gi@a d'alcun la faccia~: si veda il
+verso 58, dove il discorso continua cos@i: ^la faccia sua~, e sar@a
+chiaro che qui |alcun~ non @e sincope di ^alcuni~, ma si riferisce
+ad uno dei tanti, Nembrotte.  Dante lo scruta con paurosa
+attenzione dall'alto al basso: prima la |faccia~, dove appare
+l'animo; il Poeta tuttavia non ci dice nulla della sua
+espressione e ne vedremo tosto il perch@e; poi le |spalle~, il
+|petto~, e |del ventre gran parte~, fino all'ombelico; infine le
+|braccia~ che pendono inerti gi@u per le coste, non perch@e siano
+legate, come quelle di Fialte; ma forse perch@e Nembrotte stesso
+si @e impaurito di quel suono di corno a cui egli medesimo aveva
+dato fiato.  Anche questa considerazione @e taciuta da Dante e per
+la medesima Ragione per cui fu taciuta l'espressione della faccia
+di Nembrotte: cio@e per lasciare per ultima la descrizione della
+sua scempiaggine, che non @e elemento da incuter paura.
+
+	E infatti, volendo descrivere il suo spavento dinanzi ai
+Giganti, perch@e questo non sembrasse puerile, il Poeta doveva
+lasciare per ultima la descrizione della loro idiozia e fermarsi
+anzitutto sui caratteri fisici: per ci@o stesso non volle poco
+prima che Virgilio si accorgesse del suo terrore e lo
+confortasse, perch@e il conforto doveva appunto fondarsi sulla
+dimostrazione dell'impotenza psichica di quei colossi.  Tuttavia
+un leggiero cenno di comicit@a sarcastica non si poteva del tutto
+escludere da questa situazione, e il Poeta stesso ne sorride
+nella seguente inaspettata riflessione sulla saggezza della
+natura.  @E questo, dice il Parodi, <uno scherzo assai fine, e se
+si vuole, leggermente umoristico nella sua gravit@a dottrinale>;
+per cui in Dante, che <vive nella realt@a della sua finzione con
+profonda sincerit@a e serenit@a, con intera dedizione>, noi
+sentiamo <la soddisfazione di esser lontano ormai da cos@i brutti
+momenti>, tanto da poter riflettere sicuramente, liberamente su
+fatti che gi@a furono cagione di soverchio timore.
+
+	|49-57.~  <Raccontando, ricorda la paura provata e manda
+una specie di respiro, perch@e qui, sulla terra, animali siffatti
+non s'incontrano pi@u, e ne ringrazia la Provvidenza della natura>
+(Pietrobono).  Notisi il |discreta~ detto della natura, @e
+definita la virt@u d'apprendere razionalmente <^la differenza de
+le cose in quanto sono ad alcuno fine ordinate~>.  E i Giganti
+che univano l'|argomento de la mente~, ossia la potenza
+intellettiva, alla |volont@a~ ed alla |possa~, e di tutte e tre
+fecero mal uso, a qual fine naturale potevano servire? risponda
+Cicerone (^De Senectute~), citato da Piero di Dante: <quid est
+aliud gigantum modo bellare cum Diis, nisi naturae repugnare?>
+
+	I Giganti <sono mostri della malizia, e quindi devono
+presentare in s@e la triplice corruzione dell'appetito, della
+volont@a e dell'intelletto, e Dante, non volendoli fare
+tricorpori, ha voluto notare che in essi l'|argomento de la mente
+s'aggiunge al mal volere ed alla possa~: intelletto, appetito e
+volont@a corrotti> (Valli).
+
+	Meglio adunque gli elefanti e le balene, che all'appetito
+ed alla forza non congiungon l'intelletto; e giustissima
+punizione quella dei Giganti privati d'intelletto e fatti idioti;
+ma prima di giungere a veder questo, il Poeta si sfferma ancora
+sulla mostruosit@a fisica.  Aveva dato appena uno sguardo a
+Nembrotte per vederne le parti scoperte; ora torna da capo a
+guardare pi@u attentamente per dircene le misure per mezzo
+d'altrettanti confronti.
+
+	|58-60.~  Comincia col paragonare la faccia di Nembrotte
+alla celebre pigna di San Pietro a Roma: questa, checch@e ne
+dicano i commentatori, non fu mai sulla mole Adriana a Castel
+Sant'Angelo, dove era invece la quadriga; ma sulla cupola della
+Rotonda o Pantheon, come testimoniano Benvenuto e il Landino: <fu
+gi@a in sulla cupola della Rotonda, ma, gittatane gi@u da una
+saetta, nei tempi miei era sui gradi di San Pietro> (Landino). 
+Su questi gradi l'aveva fatta porre il Santo Pontefice Simmaco
+(498-514), e l@a dovette vederla Dante.  Pi@u tardi Giulio II la
+fece trasportare nei giardini Vaticani, presso il palazzetto del
+Belvedere; e fu poi posta nell'abside del Bramante.
+
+	Oggi, restaurata, misura metri 4, 23; ma quando la vide il
+Poeta e quando la misur@o Galileo, non era alta che metri 3, 21, 
+corrispondenti a braccia cinque e mezzo.  E poich@e un uomo, 
+continua il Galilei, ha l'altezza di otto teste, ne consegue che
+Nembrotte era alto 44 braccia, o metri 25, 68.  Vedremo pi@u tardi
+come da questa misura il Manetti abbia dedotto l'altezza di
+Lucifero e quindi la larghezza di Cocito.
+
+	|61-66.~  Un periodo che toglie il respiro, come avviene
+davanti a uno spettacolo che incute maraviglia e spavento! tanto
+pi@u che senza commento sarebbe difficile comprendere questi
+paragoni.
+
+	|Perizoma~ @e voce dal greco che Dante tolse dalla Bibbia
+(^Genesi~, III, 7) e che significa grembiule; i Frisoni, 
+abitatori della Frisia, tra la Mosa e il Weser, erano ritenuti
+altissimi; il palmo era una misura di cui si conoscon quattro
+tipi diversi, dal romano, che era il pi@u piccolo, 
+all'architettonico che era il maggiore: a questo par riferirsi
+Dante dicendo |gran palmi~; sicch@e i nostri versi ripetono in
+altra forma quel che gi@a sappiamo: che la ripa nascondeva il
+corpo di Nembrotte, come un grembiule, dall'ombelico in gi@u, e
+che la parte scoperta era tuttavia ancor tale da superare
+l'altezza di tre uomini d'eccezionale statura sovrapposti, o
+trenta palmi architettonici; fatti i calcoli, l'Antonelli
+conchiude che l'altezza di Nembrotte era su per gi@u quale fu
+giudicata dal Manetti e da Galileo, cio@e metri 26 e centimetri
+806.
+
+	|67-69.~  Perch@e i disarmonici suoni emessi dalla bocca
+di Nembrotte si avvicinino in qualche modo all'armonia d'un
+endecasillabo, bisogna pronunciare ^ma-y~ come bisillabo non
+dittongato, secondo la pronuncia semitica, e non fare alcuna
+elisione di vocali tra una parola e l'altra; e allora sentiremo
+meglio che queste voci, tutte tronche, sembrano piuttosto latrati
+e guaiti che accenti umani.
+
+	Hanno un significato queste parole?  No certo, e ce lo
+dir@a Dante stesso; ma altra cosa @e il significato, altra il
+colorito delle parole; non per nulla Dante le deve aver
+riportate, diremmo, testualmente; e se noi possiamo ormai
+sorridere di tutti gli sforzi dei dantisti che, ciascuno di s@e
+sicuro, e tutti discordanti tra di loro, da Giuseppe Venturi in
+poi, vollero dare a questo verso una traduzione nei pi@u variati
+linguaggi, non @e senza utilit@a il conoscere che le parole di
+Nembrotte hanno rassomiglianza con altre parole di lingue
+orientali, ritrovandosi le radicali degli strani vocaboli nel
+dialetto ebraico, siriaco, caldaico, ecc.
+
+	Dante dunque, non ha soltanto inteso infilzare, come dice
+il Del Lungo <sillabe che non facessero senso e non costituiscano
+parole di nessuna lingua, per dar concretezza poetica al concetto
+biblico e compiere con drammatica convenienza la figura dello
+strano personaggio>; ma ha fatto di pi@u: egli che, come vedremo
+da altro episodio (^Par.~, XXVI, 124), si affaticava in studi
+comparativi di lingue orientali per risolvere il problema delle
+origini del linguaggio umano, non ha costruito a casaccio aspre
+parole enimmatiche; anzi, formandole con radicali di lingue
+semitiche, e interpretando a modo suo la storia biblica della
+confusione dei linguaggi, volle riprodurre con questo verso il
+momento solenne del morir d'una lingua e del sorgere di lingue
+nuove; sicch@e queste parole hanno un fondo di ebraico primitivo
+che ormai svanisce, e un principio di arabo, siriaco, caldaico e
+degli altri nuovi dialetti orientali che sorgono, senza
+appartenere propriamente n@e alla lingua madre, n@e pi@u a questa
+che a quella delle lingue nate dall'ebraico primitivo.
+
+	E ancora: se l'inatteso prorompere di s@i chioccio salmo
+dalla bocca del colosso non suscita pi@u in noi quell'effetto
+comico e quell'ilarit@a che forse suscitava nei contemporanei di
+Dante, perch@e a simili facezie ci ha ormai abituato, anche
+troppo, il teatro, a noi resta in cambio l'ammirazione <della
+straordinaria e strana complessit@a della mente di Dante, che
+poteva sull'ispirazione poetica innestare tali germogli di
+riflessioni dottrinali> (Parodi).
+
+	|70-75.  Anima sciocca! anima confusa~!  Nembrotte fu
+punito di smemorataggine, osserva il Lombardi, e Virgilio lo
+tratta appunto nel modo che si conviene parlando ad uno
+smemorato; come se, dopo aver suonato il corno con tanta ira o
+altra passione, se lo fosse gi@a dimenticato: cercati il collo, vi
+trovarai la corda; poi segui la corda e lungo quella ti sar@a
+facile trovare il corno, |che il gran petto ti doga~, cio@e te lo
+adorna come una striscia o una lista.
+
+	|76-81.~  Avendo prima parlato a Nembr@ot, e dicendo ora
+che @e inutile parlare a lui, Virgilio sembrerebbe contraddirsi;
+ma si deve intendere <che le sue parole siano state dette in modo
+che dalla concitazione, e non dal senso, Nembrotte comprenda che
+Virgilio gli impone di tacere; mentre in realt@a le parole
+virgiliane sono piuttosto una spiegazione fatta a Dante>
+(Casini).
+
+	|Elli stesso s'accusa~ con le inintelligibili sue parole. 
+@E Nembrotte, il colpevole della confusione, o meglio, come qui e
+nel ^De Vulgari Eloquentia~ (I, VII, 4) dice Dante, della
+divisione delle lingue fra gli uomini, ^multis diversificati
+loquelis~; l'ideatore del mal |coto~ o pensiero di edificare la
+torre di Babele.
+
+	La Bibbia per@o non dice che Nembrotte abbia, nonch@e
+ideata la torre di Babele, preso neppur parte alla sua
+costruzione; non lo dipinge neppure come un gigante.  Ne fa
+invece un gran cacciatore al cospetto di Dio, e il primo uomo, 
+come parafrasa Fazio degli Uberti, che <usurpando l'altrui
+prendesse imperio>: <Nemrod coepit esse potens in terra, fuit
+autem principium regni eius Babylon> (^Genesi~, X, 8-10).
+
+	Ma Dante segue l'interpretazione del passo biblico che
+risaliva a Sant'Agostino e ad Orosio, e che @e riportata anche da
+Isidoro di Siviglia e da Brunetto Latini.  Sant'Agostino (^De
+civitate Dei~, XVI, 12) aveva attribuito a Nembrotte una famiglia
+di 72 linguaggi, e questo numero si fiss@o fra gli esegeti dei
+Testi sacri; e poich@e l'autorit@a di chi impera si esercita per
+mezzo del linguaggio, Nembrot fu ritenuto il primo sovrano di
+Babilonia, anzi sinonimo di tiranno: <Nembrot>, dice il Buti, 
+<tanto viene a dire quanto tiranno>.  Essendo poi la torre famosa
+sorta in Babilonia, ne scaturiva naturalmente il pensiero che
+fosse stata edificata per ordine del tiranno, e l'immensit@a della
+mole, suggeriva l'immagine del gigante (Vedi ^De Vulgari
+Eloquentia~, I, VII).  Fu quella opera di presunzione, e si
+comprende perci@o come Nembrot trovi il suo posto nell'Inferno
+dantesco, privato d'intelligibil linguaggio per la legge del
+contrappasso.  <Quale contrasto fra l'ombra immane del gigante, 
+stupidamente inerte, e la piccola statura di Virgilio, tutto
+ardore e moto!>  (Torraca).
+
+	|82-84.~  Fin qui i Poeti eran venuti attraverso la ripa;
+ora circondan la proda, volgendo, al solito, a mano sinistra, e
+|al trar d'un balestro~, ^quanto un buon gittator trarria con
+mano.~  (^Purg.~, III, 69), <quantum jactus est lapidis>
+(^Eneide~, XI, 608), trovano un altro gigante pi@u feroce
+all'aspetto e pi@u colossale di Nembrotte.  A destra forse erano
+tutti i giganti biblici; a sinistra Dante non trova che giganti
+pagani; pi@u colossali perch@e non soprapposero pietra a pietra, 
+bens@i monte a monte; pi@u feroci, perch@e meno puniti
+d'abbrutimento.
+
+	Fra i giganti pi@u celebrati dai poeti pagani, Encelado, 
+Tifeo, Mina, Porfirio, Alcione, Efialte, Oto, Reto, Eurile, 
+Briareo ecc.  Dante ne sceglie tre.  Primo Fialte o Efialte, 
+forse a lui noto specialmente da un passo del Commento di Servio
+all'^Eneide~ (VI, 776): Efialte, secondo Omero (^Odissea~, XI), 
+fu figlio di Nettuno e di Ifimedia, e col fratello Oto, 
+sovrappose l'Ossa all'Olimpo e il Pelio all'Ossa.  Per questo @e
+forse il primo nominato, bench@e il Poeta si guardi dal riferire
+l'impresa della sovrapposizione dei monti, perch@e, come osserva
+il Parodi, e come vedremo meglio a proposito di Briareo, <tra i
+principali motivi che ispirarono Dante @e senza dubbio quello di
+ridurre le smisurate e smoderate immaginazioni altrui, 
+specialmente dei poeti classici, dentro i confini del verosimile, 
+e questo motivo informa di s@e tutto il Canto.  Il Poeta umanizza
+i giganti>.
+
+	|85-90.~  La locuzione |a cinger lui qual che fosse il
+maestro, non so io dir~, ricorda l'altra degli argini di
+Flegetonte (^Inf.~, XV, 12), ma, come dice Benvenuto, <hoc non
+est aliud dicere, nisi quod fuit Deus incognoscibilis, 
+incomprehensibilis auctor>.  Efialte ha dunque le braccia
+|succinte~, sottocinte o legate da una catena: dietro il braccio
+destro che simboleggia le opere dritte e buone che il gigante
+sempre pospose, e innanzi il sinistro che simboleggia le opere
+ree e corporali che <sempre ebbe dinanzi, le elesse e seguitolle>
+(Buti).  La catena poi in su lo scoperto si ravvolgeva infino al
+giro quinto, cio@e cinque volte intorno al corpo dall'ombelico al
+collo, il che d@a un'idea della grossezza degli anelli.
+
+	|91-96.~  Giove @e qui chiamato sommo perch@e personifica
+il concetto antico della divinit@a; lo stesso superlativo non si
+ripete che in un solo altro passo del ^Purgatorio~ (VI, 118), 
+dove per@o l'espressione si riferisce al Dio cristiano; in tutto
+il resto del Poema il re degli dei pagani @e sempre chiamato col
+solo nome.
+
+	Va notata la frase |quando i giganti fer paura a' dei~, 
+che ricorda Ovidio (^Metam.~, I, 151 e V, 354), e Orazio <Magnum
+illa terrorem intulerat Iovi, Fidens iuventus> (^Odi~, III, IV, 
+47); e che serve a far risaltare l'inferiorit@a della favola
+pagana che intorno al Dio degli Dei congregava a difesa tutti gli
+altri celesti armati, di fronte alla semplicit@a della frase
+biblica <dispersit eos Dominus>.
+
+	|97-99.~  Oramai rassicurato, dopo aver sentito Virgilio
+parlar con tanta forza davanti a quei due giganti, Dante vorrebbe
+vedere coi suoi occhi il pi@u spaventoso di tutti, Briareo, uno
+dei tre centimani, figli di Urano e della Terra.  Stazio l'aveva
+chiamato <immenso>; Virgilio, ponendolo all'ingresso del suo
+Inferno, <centigeminus>, che il Caro traduce di ^cento doppi~; lo
+stesso Virgilio, in altro passo, l'aveva descritto con cento
+braccia e cento mani, e cinquanta bocche vomifanti fiamme, sicch@e
+portava cinquanta scudi e cinquanta spade (^Eneide~, X, 565).  Ma
+ora, ed ecco la prova di quanto sopra dicemmo circa la critica
+dell'inverosimiglianza delle favole antiche che ispira questo
+Canto, Virgilio sar@a costretto a confessar che Briareo non @e
+molto diverso da Efialte: al pi@u lo supera nella ferocia del
+volto.  Anzi Virgilio non vuol neppure che Dante veda Briareo: a
+che pro, se @e fatto come Anteo?  Briareo non aveva adunque cento
+braccia!
+
+	@E notevole che questa critica delle favole antiche
+raccontate con tanta seriet@a e venerazione da Esiodo nella
+Teogonia e dagli antichissimi poeti greci, si affacciava gi@a alla
+mente dei poeti latini studiati da Dante, perch@e Virgilio fa
+precedere la descrizione di Briareo da un <dicunt> e Stazio da
+<si fas est credere> (^Tebaide~, II, 595).  Si direbbe che il
+Poeta cristiano noti qui il buon senso dei suoi maestri di poesia
+e renda loro giustizia.
+
+	Ci@o non ostante nella terzina dantesca i due
+quadrissillabi |smisurato Briareo~ e la dieresi che separa le
+vocali centrali di questo nome, allungano il verso quanto @e
+possibile e gli danno epico suono.
+
+	|100-105.~  Anteo, secondo la mitologia, figlio di
+Nettuno e della Terra, alto sessanta braccia, da Lucano (^Fars.~, 
+III, 590) era stato fatto abitatore della valle di Bagrada, 
+presso Zama; si cibava di leoni, dormendo nudo sulla terra, al
+contatto della quale, come da madre, riceveva sempre nuove forze. 
+Infine, venuto a lotta con Ercole, fu da lui strangolato.
+
+	Egli |parla~, non grida, come Nembrotte, ed @e
+|disciolto~, non legato come Efialte, perch@e, essendo nato dopo
+la pugna di Flegra, non prese parte alla lotta contro gli dei.  A
+lui spetter@a di porre Dante e Virgilio al |fondo d'ogni reo~, 
+cio@e nell'ultimo Cerchio dell'Inferno.
+
+	|106-111.~  Fialte non aveva detto parola, non si era
+mosso alla vista dei due Poeti: sembrava una vera statua o torre. 
+Ma d'un tratto quella statua si anima, mostra di possedere una
+vita interiore.  Il gigante comprende l'altrui linguaggio:
+aspettava una di quelle parole d'ammirazione che i poeti gi@a gli
+avevano rese care; udendosi invece posposto a Briareo, sia pur
+nella ferocia che ^par~ {v.105}, apparisce dal volto, si adira
+nella sua superbia, ed ha un fremito quale si conviene a tanta
+mole: si scuote e Dante crede vicina la morte; se non che
+rivolgendo gli occhi al colosso vede che le ritorte non han
+ceduto e si rasserena.
+
+	|Dotta~, ^dottanza~, ^dottare~ erano nel trecento
+sinonimi comuni di sospetto o paura, e noi gi@a sappiamo che cosa
+significhi la paura di Dante: @e la paura del male, del trionfo
+del male, e dell'ira divina, la virt@u del <timor Dei>, dono dello
+Spirito Santo: ma a quel timore il cristiano congiunge la fiducia
+in Dio la cui infinita misericordia e potenza salva dal male chi
+ha retta volont@a.  Cos@i quand'anche nel mondo sembri predominare
+la prepotenza e la ribellione raffigurata nei Giganti, il
+virtuoso volge il pensiero a Dio e confida.
+
+	|112-114.~  L'^alla~, secondo il Landino e la Crusca, 
+come l'^ell~ inglese, era la misura di due braccia; sicch@e le
+|cinqu'alle~ di Anteo corrisponderebbero ai trenta gran palmi di
+Nembrotte, essendo il palmo la terza parte d'un braccio.
+
+	Il discorsetto che ora Virgilio rivolger@a ad Anteo, per
+persuaderlo a rendere ai Poeti lo stesso servizio che aveva reso
+loro Gerione altrove, @e pieno di <vis comica>, e cos@i va
+considerato per ben comprenderlo.  Come aveva preso alla rete
+Gerione, vestendo le sembianze frodolente, cos@i Virgilio attira
+Anteo con una lusinghiera promessa di fama; ma nello stesso tempo
+imbastisce il suo discorso di parole cos@i magniloquenti e strane
+che soltanto un bestione poteva prenderle per moneta buona. 
+Anteo per@o di tutta l'orazione retorica di Virgilio non comprende
+che questo: che gli si offre l'opportunit@a di esser ricordato con
+lode nel mondo, e che, se non la coglie, tanto privilegio ricadr@a
+su altri suoi compagni, e ubbidisce; mentre il lettore sorride
+con Dante alle spalle del gigante, quando vede l'enfasi veramente
+retorica del discorso di Virgilio, terminare in quell'insolente
+vocabolo ^grifo~ {v.126} che annulla il valore di tutte le
+precedenti parole apologetiche.
+
+	|115-123.~  Virgilio comincia col paragonare la gloria di
+Anteo, bella gloria che rifulge nell'Inferno!, con quella verace
+di Scipione, ben esaltata dal verso volutamente ambiguo, per cui
+pu@o intendersi tanto che Scipione abbia fatto erede della propria
+gloria la valle, quanto che la valle abbia fatto erede della
+propria gloria Scipione; il che @e un dire che in quella valle
+Scipione coron@o la sua grande opera con la vittoria di Zama, e
+che senza di lui quella valle non sarebbe s@i nota.
+
+	In tutti questi versi Dante imita, forse parodiandolo, 
+Lucano; il quale nella Farsaglia, contrariamente a Plinio (^Hist.
+nat.~ V, I) e o Solino (^Polyhistor~, XXVII), aveva posto la sede
+di Anteo nell'Africa vicino al luogo della vittoria di P.
+Cornelio Scipione che pose fine alla seconda guerra punica, 
+debellando definitivamente Annibale.  E appunto in ricordo di
+Lucano quel luogo @e detto |valle~, per il fiume Bagrada: <qua se
+Bagrada lentus agit>, ed @e chiamato |fortunata~ valle per l'onore
+d'aver ospitato due tali eroi, Scipione... ed... Anteo.
+
+	Poscia, ricordata ad Anteo, per inciso, la preda, 
+esageratamente portata a |mille~ leoni, mentre Lucano aveva detto
+soltanto <ferunt epulas raptos habuisse leones>, Virgilio adula
+il gigante con quella supposizione, molto arrischiata, ma anche
+espressa in modo molto dubitativo, |ancor par che si creda~, che
+se Anteo fosse stato presente alla guerra dei suoi fratelli i
+Giganti, contro gli dei |avrebber vinto i figli de la terra.~  E
+anche questo @e uno spunto suggerito da Lucano, il quale molto
+seriamente aveva scritta: <coeloque pepercit quod non Phlegraeis
+Anteum sustulit arcis>.
+
+	Ma a tutta quest'erudizione Anteo doveva fare le smorfie;
+per cui Virgilio cambia tono: va! non fare lo schifiltoso, ch@e
+avrai la tua mercede! non voler che la fortuna che ti capita vada
+a cader su Tizio o su Tifo: verso che al Parodi parve ^il pi@u
+felice~ dell'ironico discorso.
+
+	|124-129.~  Tizio fu saettato da Apollo perch@e aveva
+tentato di violare Latona, e nell'Averno un avvoltoio gli rodeva
+il fegato sempre rigenerantesi (^Eneide~, VI, 594); Tifo o Tifeo
+fu fulminato da Giove e sepolto sotto l'Etna, ed erroneamente
+Claudiano l'aveva detto centimane, scambiandolo con Briareo.
+
+	Dopo aver suscitato l'invidia di Anteo, che, secondo
+Lucano, era pi@u forte di Tizio e di Tifo, Virgilio riprende il
+suo discorso.  Aveva detto ^non ten vegna schifo~ {v.122}, cio@e
+di veder noi cos@i piccoli o d'un'impresa troppo umile per un par
+tuo, come quella che chiediamo; ora la minaccia di rivolgersi ad
+altri ha fatto effetto e Anteo @e gi@a prossimo ad acconsentire;
+sicch@e Virgilio, ripetutogli quel magnifico e insolente
+consiglio, come si fa coi bambini caparbi, |non torcer lo grifo~, 
+da porco, s'intende, ritorna al dire cattedratico e solenne che
+ad Anteo doveva far l'effetto del latino del dottor
+Azzeccagarbugli al povero Renzo; ma frammischiandovi la parola
+comprensibile e vincitrice: |fama~!
+
+	|130-132.~  Virgilio ha appena finito di parlare che
+Anteo, |in fretta~, con la precipitazione propria degli esseri
+brutali, distende le mani ed afferra Virgilio; le mani
+^ond'Ercule sent@i la grande stretta~ (^Farsaglia~, IV, 617), 
+quando lottarono insieme, e <tutte volte che lo gigante era
+stanco , e elli ponea lo suo corpo sopra la terra disteso o per
+sua volont@a o per forza d'Ercole, forza e vigore interamente de
+la terra in lui resurgea, ne la quale e de la quale era esso
+generato.  Di che accorgendosi Ercole, a la fine prese lui; e
+stringendo quello e levatolo da la terra, tanto lo tenne senza
+lasciarlo a la terra ricongiungere, che lo vinse per soperchio e
+l'uccise>.  (^Convivio~, III, III; 7).
+
+	|133-135.~  Non c'@e tempo da perdere: una breve frase, e, 
+poich@e Dante @e pieno di paura ed incerto, alla parola segue
+l'atto: Virgilio stesso afferra Dante e ne fa un fascio con s@e. 
+Al solito i due Poeti scendono uniti e stretti l'un contro
+l'altro l'ultimo scalino del baratro; scalino men alto e pi@u
+brevemente descritto del precedente, perch@e l@a si passava dal
+regno della Violenza a quello della Frode, e qui dall'una
+all'altra divisione della Frode.
+
+	Come ci descriver@a ora Dante la scesa? ricorrendo ad una
+similitudine suggerita dall'osservazione d'una torre.  Si direbbe
+che inutilmente Virgilio l'abbia ammonito in principio del Canto
+che intorno a la proda ^non son torri, ma giganti~ {v.31}, e che
+Dante non possa guardare ai giganti senza unirne l'immagine a
+quella d'una torre, seguendo la prima impressione ricevuta:
+Fialte s'era scosso come una torre per terremoto; Anteo si piega
+come torre che crolla o sembra crollare: tanto si ravvicinava
+nella mente del Poeta l'idea di quei mostri ribelli alla divinit@a
+con quella delle torri medievali, terribili arnesi di guerra e di
+odio tra gli uomini.
+
+	|136-141.~  La torre pendente della Garisenda di Bologna, 
+a chi la guarda stando sotto |il chinato~, cio@e dal lato della
+pendenza, che @e da levante, quando le nuvole corrono sovr'essa in
+senso inverso, cio@e verso ponente, sembra che si muova e caschi
+addosso all'osservatore: un'illusione ottica che non sfugg@i al
+Poeta.  Innalzata da Filippo e Oddo dei Garisendi nel 1110 e
+tenuta dai loro discendenti fino al 1418, quella torre gi@a dal
+1286 era stata isolata nella piazza di Porta Ravignana, essendosi
+demolite a spese publiche le case che la circondavano.  Oggi @e
+alta metri 47, 50; ma ai tempi di Dante lo era ancor pi@u, perch@e, 
+come ricorda Benvenuto, fu mozzata da Giovanni Visconti da
+Oleggio, signore della citt@a, tra il 1351 e il 1360.  La sua
+compagna, la torre degli Asinelli, era invece pi@u bassa che oggi
+non sia, essendole stato aggiunto posteriormente il coronamento
+coi modiglioni ed i merli.  La pendenza della Garisenda fu dovuta
+ad abbassamento del terreno, e il suo strapiombo @e di metri 2, 37.
+
+	A questa similitudine Dante congiunge il ricordo della
+sua paura, s@i che avrebbe voluto |ir per altra strada.~  Vana
+paura! perch@e Anteo, quantunque sembri una torre, conserva
+l'agilit@a dei suoi movimenti; inconscio strumento di bene, si
+piega e si rialza senza punto nuocere ai due viaggiatori.
+
+	|142-145.~  Le rime tronche, rare nel poema, cadono qui
+efficacissime per farci sentire prima la leggerezza di quel
+^sposare~ gi@u i due Poeti, e poi la magnificanza di quel
+sollevarsi del colosso.  Del paragone con l'albero della nave
+dice il Leynardi: <La proporzione mai vista di quelle immense
+membra, convenienti a tanta profondit@a, ci impedirebbe
+d'immaginare Anteo che si drizza, per riprendere la sua posizione
+normale, se un paragone, che deve esser nato genuino
+dall'osservazione del Poeta, con l'idea sua, non ce lo mostrasse
+con somma evidenza>.  E il Pietrobono: <Bella l'immagine che ci
+fa veder Anteo nell'atto di chinarsi; pi@u bella forse questa che
+ce lo descrive nell'atto di levarsi.  Nella nostra fantasia
+appariscono insieme Anteo e l'albero maestro nel momento che
+l'uno dal fondo della nave, l'altro dal fondo del pozzo, alti, 
+robusti, si levano su descrivendo un grande arco, e, come al
+cenno d'un dito invisibile, si posano diritti e gravi, senza dar
+pi@u una scossa>.
+
+	Il Canto si chiude cos@i in modo solenne e pacato, come
+per riconoscimento di ci@o che d'artistico e di morale pur
+veramente racchiude la classica favola dei Giganti; e per questo
+forse il Poeta volle lasciare per ultima la figura d'Anteo, che, 
+di fronte a Nembrotte, a Fialte, a Briareo, conserva una certa
+nobilt@a, ritratta in questa sua ultima <azione d'un solo gesto, 
+senza parole, di largo movimento, compreso tra l'illusorio
+chinarsi della Garisenda e il sollevarsi dell'albero d'una nave>
+(Enrico Corradini).

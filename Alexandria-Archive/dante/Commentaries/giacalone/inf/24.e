@@ -1,0 +1,699 @@
+	|1-5.  parte~: in quel periodo dell'anno nuovo, che
+ricomincia (^iuvenes annos~, Ov. ^Metam.~, VII, 295; |giovinetto~
+in D.) tra il 21 gennaio e il 21 febbraio, quando il sole
+tempera, rendendoli pi@u tepidi, i suoi raggi (|crin~) e gi@a le
+notti si avviano a durare la met@a del giorno, avvicinandosi
+l'equinozio di primavera, quando la brina sulla terra riproduce
+l'immagine (|assempra~; assemplare in ^V.N.~ I = imita) della
+neve (|sua sorella bianca~), ma la tempera della penna (della
+brina che ha imitato la neve) dura poco, resiste poco (perch$e col
+calore del sole scomparir@a; oppure con la luce, v. P$ezard, ^Bull.
+{de la Soci$et$e d'Etudes Dantesques, VI}~, Nice, 1957, p. 6).
+
+	|6.  dura~: si sente l'eco di un verso di Lucano,
+^Phars.~, IV, 53; <non duraturae conspecto sole pruinae>, come al
+v. 2 c'era l'eco di un verso di Stazio, ^Silvae~, I, ii, 14-15;
+<crinem temperat> o di Virgilio, ^Aen.~, IX, 638 <crinitus
+Apollo>.  Questi sono i segni di un certo preziosismo letterario
+con cui @e stilizzata la lunga similitudine.
+
+	|7-10.  villanello~: non @e un diminutivo, ma un
+miserativo per indicare il contadino povero e bisognoso (come ha
+detto il Del Lungo), come @e precisato dal fatto che gli manca
+l'erba (|la roba~) e dalla preoccupazione, scandita con un ritmo
+vivace e drammatico (|e... e... e... e~), la cui disperazione per
+s$e e per le sue bestie, si concretizza in un gesto spontaneo <|si
+batte l'anca~>, che @e un elemento descrittivo popolare consacrato
+da una lunga tradizione letteraria; cfr. J. Camus, in ^G.S.L.I.~,
+XLIII, p. 166.  Nei gesti e nei movimenti del villanello D. ha
+cercato di fissare tutti gli elementi psicologici e realistici,
+col dar forza alla struttura miniaturistica trecentesca del
+paesaggio invernale della brina e delle pecorelle; cfr. L.
+Dimier, ^Bull. S.N. des antiquaires de France~, 1924, p. 114. 
+Nella prima parte della similitudine D. trasferisce i suoi
+sentimenti di smarrimento e di disperazione negli atteggiamenti e
+nello stato d'animo del villanello che non potr@a pascolare le sue
+bestie, per la brina che a perdita d'occhio ha invaso la
+campagna.  Nella seconda, invece, la rinnovata fiducia per il
+mutato volto di Virgilio, in perfetta rispondenza con la speranza
+rimessa dentro l'animo del contadino, dopo aver constatato che la
+brina si @e gi@a sciolta.  Dal punto di vista psicologico e
+rappresentativo la similitudine @e ben rispondente nei suoi
+termini comparativi, diversamente da come hanno affermato
+autorevoli critici, dal Tommaseo al Momigliano.  La dispersione
+analitica dei particolari @e dovuta ad una tipica tecnica
+stilistica, che ricalca in gran parte i miniaturisti.
+
+	|11.  tapin~: come il poveretto (|tapin~) che non sa come
+possa fare a nutrire le sue bestie.  L'espressione, dopo la
+concitata sequenza del battersi l'anca, del ritornare a casa e
+del lagnarsi, fissa l'estremo limite della sua disperazione in
+una nota di grazia preziosa, gi@a evidenziata nelle rime difficili
+(^empra, anca~ {vv. 2-9}) e nell'uso di verbi rari (^assempra~
+{v.4}, ^ringavagna~ {v. 12}) e di parole in metafora (^tempra~
+{v. 6} in rima, con ^tempra~ {v. 2} verbo).  Indubbiamente
+l'influsso della lirica trobadorica qui ha dato un risultato
+descrittivo e realistico, che finisce col creare, attraverso
+questo squarcio di luce, una specie di contrappunto narrativo e
+di chiaroscuro pittorico, rispetto all'atmosfera tenebrosa,
+funerea, che avvolgeva di malinconia la rappresentazione degli
+ipocriti (cfr. E. Chiarini, ^Il c. XXIV dell'Inf.~ in <Giornale
+Dantesco>, N.S. XL).  Il che darebbe torto a quei critici che
+hanno parlato di similitudine impropria (Momigliano) o di piccola
+lirica a s$e stante (Croce) o di un momento di pausa obliosa e
+serena del poeta dopo l'opprimente atmosfera e la tensione
+psicologica delle due bolge precedenti (Sapegno).  Infatti essa
+ha la funzione intrinseca di strutturare la continuit@a del
+racconto itinerale col canto precedente, di variare in
+chiaroscuro tonale il tema di quel paesaggio e di preludere a
+quell'atmosfera di movimento e di ansia itinerale, che
+caratterizza i canti dei ladri.
+
+	|12-15.  ringavagna~: torna sull'uscio (|riede~) per
+vedere di nuovo, e accoglie di nuovo nel suo animo (|ringavagna~:
+ha il senso, in gergo contadinesco, di mettere nel cesto, nel
+paniere, quindi insaccare, not@o l'^An. fior.~), vedendo che la
+brina @e scomparsa in poco tempo, e prende il suo bastone
+(|vincastro~: termine contadinesco (cfr. ^Rime~, LXII, 1; e
+Poliziano, ^Stanze~, I, 19).  Questa mescolanza di termini
+classici, di elementi realistici e naturalistici, la sequenza del
+villanello, scandita nel suo crescente ritmo psicologico e
+fissata in immagini concrete e veristiche, vengono come
+alleggerite da una grazia gentile in cui <si rivela una
+componente dell'arte di D., la quale ha qui una manifestazione
+oltremodo interessante, ossia la sapienza letteraria, intesa come
+decoro di rappresentazione, secondo la sua poetica espressa nel
+^De Vulg. eloq.~, II, iv, 3, in cui i classici son tali <quia
+magni sermone et arte regulari poetati sunt...  Idcirco accidit
+ut, quantum illos proximius imitemur, tantum rectius poetemur>.
+(B. Maier, ^Il c. XXIV dell'Inf.~, L. scalig. Firenze, 1962, p.
+24).  Che la similitudine faccia parte integrante del canto e
+risponda al gusto dell'ornato e naturale, secondo la tecnica
+dell'esordio da D. esposta nella ^Epist.~, XIII, 45, e, quindi,
+sia dovuta pi@u ad una sua necessit@a retorica (della ^fictio~; ^De
+Vulg. el.~, II, ii, 2), anzich$e ad un momento
+idillico-descrittivo, @e stato dimostrato anche dal Vallone
+(^Studi su D. medievale~, Firenze, 1965, p. 209).
+
+	|16-17.  Cos@i~: allo stesso modo della brina per il
+villanello, mi fece sbigottire Virgilio (|mastro~: maestro)
+quando io mi accorsi che si era turbato nel viso.  Il poeta, qui,
+cerca di riannodare il racconto itinerale, inserendovi il nesso
+logico della similitudine anche sul piano psicologico; infatti l@i
+era <un piccolo mondo di sentimenti elementari, ma degni nella
+loro semplicit@a di ogni rispetto; degni che anche l'uomo
+superiore vi partecipi, giacch$e anch'essi nascono dalle radici
+pi@u fonde e nobili della vita> (Bosco, ^l.c.~ {^L'Inferno~,
+Torino, E.R.I., 1958}, p. 173-74).
+
+	|18.  e cos@i~: e con la stessa rapidit@a con cui il
+villanello si era rinfrancato, giunse il rimedio (|impiastro~:
+gen. medicina), il conforto di Virgilio al mio sbigottimento (|al
+mal~).  Ora i due segmenti della similitudine sono stati
+riassorbiti del tutto nel tessuto narrativo del canto.
+
+	|19.  ponte~: al luogo dove era rotto il ponte.  Col dato
+geografico di Malebolge vien ripresa l'unit@a del racconto
+itinerale.
+
+	|20-21.  piglio~: Virg. mi si rivolse con
+quell'espressione (|piglio~) affettuosa e dolce, che io gli vidi
+per la prima volta ai piedi del ^dilettoso monte~, ^Inf.~, I, 61,
+quando mi si era offerto alla vista improvvisamente per salvarmi
+dalle tre fiere.  Anche allora Virgilio era apparso a D. come
+conforto e salvezza.  Ma dell'espressione non si era fatto cenno;
+a meno che ^chi per lungo silenzio~ {^Inf.~ I, 63} non voglia
+esser una perifrasi per indicare la speranza della salvezza, che
+da tempo era spenta in D.
+
+	|22-24.  Le braccia~: dopo aver attentamente considerato
+la difficolt@a (|riguardando~) della frana (|ruina~), scelto tra
+s$e e s$e il miglior partito da prendere (|consiglio~), apr@i le
+braccia e mi prese, mi sostenne (|diedemi di piglio~) per
+aiutarmi a salire.
+
+	|25-28.  E come~: e come fa chi opera e, mentre agisce,
+riflette (|estima~) su quel che deve fare dopo, cos@i che appare
+(|pare~) sempre che provveda (|proveggia~) in anticipo a quel che
+dovr@a fare in seguito, cos@i egli, aiutandomi a salire (|levando
+me~) su verso la cima di un masso sporgente (|ronchione~)
+adocchiava (|avvisava~) un'altra roccia (|scheggia~).  @E un passo
+stentato, come avverte il Momigliano.
+
+	|31.  di cappa~: la maggior parte dei commentatori
+intende riferire il termine alle cappe degli ipocriti, ma @e pi@u
+esatto intendere come un vestito lungo che dia impaccio ai
+movimenti per una salita ripida come quella della frana.
+
+	|33.  chiappa~: parola di origine mediterranea, der. da
+^klappo~ sec. Hubschmied (^Alpenw,orter~, 1951, p. 12 e 48) che
+sopravvive in vari dialetti italiani con il significato di
+^lastra di pietra~, in siciliano indica addirittura un masso
+tufaceo da costruzione.  Dal lat. medievale ^clapa~, da cui
+|chiappa~ (cfr. Pagliaro, ^Ulisse~ {Messina-Firenze, 1966}, 327);
+dal prov. ant. ^clapier~: mucchio di massi.  Qui il senso @e di
+scheggia in scheggia, poich$e si tratta di sporgenze della roccia,
+a cui D. si pu@o aggrappare.
+
+	|34-36.  se non fosse~: e se non fosse che il pend@io
+(|costa~), dalla parte di quell'argine (|precinto~: prop.
+cintura), tra la 6+a~ e la 7+a~ bolgia, era pi@u basso (|pi@u
+corta~) che dalla parte del precedente argine, io certamente
+sarei stato sopraffatto (|vinto~) dalla fatica, non so di lui. 
+<Risorgono cos@i, entro l'arco descritto, le consuete
+determinazioni (^ronchione, chiappa, precinto, costa~ {vv.
+28-35}), risorge il senso chiuso dello spazio etico, non pi@u
+drammaticamente risolutivo, come al canto XXIII, ma secondo la
+disposizione particolare del testo... temi che riaffiorano
+composti nella nuova prospettiva del racconto, nel nuovo e
+faticoso ritmo itinerale> (Sanguineti {^Interpretazione di
+Malebolge~, Firenze, 1961}, 180-81).  Infatti la stanchezza di D.
+in rapporto alla difficolt@a del cammino serve a giustificare
+l'ammonimento di Virgilio, che non sar@a affatto una digressione.
+
+	|37-40.  Ma perch$e~: spiega meglio la topografia
+precedente.  Ma per il fatto che Malebolge @e tutta in pendenza
+verso l'apertura (|porta~) del pozzo dei giganti, che @e il pi@u
+basso (|bassissimo~) dell'Inferno in quanto il suo fondo @e il
+nono e ultimo cerchio, la posizione (|lo sito~) di ciascuna
+bolgia fa s@i che (|porta~) ogni argine (|costa~) esterno sia pi@u
+alto (|surge~) e quello interno (|l'altra~) sia pi@u basso
+(|scende~).
+
+	|41-42.  noi pur~: finalmente (|pur~ rafforza |alfine~ in
+un identico significato) giungemmo sulla sommit@a (|punta~), sulla
+testa dal ponte, da cui sporge staccata (|si scoscende~) l'ultima
+pietra del ponte rovinato.
+
+	|43-45.  La lena~: il fiato mi era stato cos@i spremuto
+dai polmoni per la fatica, quando io arrivai su, che non potevo
+andare pi@u oltre per la stanchezza, anzi mi sedetti, appena
+giunto (|ne la prima giunta~: alla prima tappa) sull'argine.
+
+	|46-50.  convien~: ormai @e necessario e doveroso
+(|convien~) che tu ti spoltrisca in tal modo, superando le
+fatiche (|cos@i~), perch$e adagiandoti sulle piume o rimanendo a
+poltrire sotto le coperte del letto, non si pu@o giungere alla
+fama.  Cfr. Or{azio} ^Epist.~, II, iii, 412 <Qui studet optatam
+cursu contingere metam Multa tulit fecitque puer, sudavit et
+alsit>.  <L'introdursi qui di una siffatta nota (l'ambizione del
+poeta il quale persegue un suo ideale di valentia e di fama) si
+coordina palesemente con la intenzione letteraria, cui si ispira
+l'impegnativo confronto sul tema delle metamorfosi.  Certo il
+principio che, senza travaglio e sacrificio, l'uomo anzi
+l'artista, non consegue fama, costituisce un anticipo di
+concezioni rinascimentali; non per nulla alla formulazione del
+principio concorrono sicure reminiscenze classiche> (Pagliaro,
+^Ulisse~ {Messina-Firenze, 1966}, 328); a questa istanza si
+aggiunge il fatto che lo sforzo del poeta, qui, @e anche il
+processo della liberazione e purificazione della sua anima.  Cos@i
+il monito pagano si colora di spiritualit@a cristiana.
+
+	|51.  fummo~: fumo, cfr. ^Sapienza~, V, 15: <Tamquam
+spuma gracilis ecc.: trad. come tenue schiuma che @e disfatta
+dalla procella e come il fumo che @e disperso dal vento>, ed altri
+passi biblici.  Al monito pagano della fama, si aggiunge quello
+morale e religioso che riguarda l'esperienza dello spirito di D.
+un esempio del suo umanesimo cristiano.  Le sentenze di D.
+rispondono ad un gusto tipicamente medievale, secondo la poetica
+del tempo, che insegnava, offrendo veri repertori di proverbi, di
+sentenze, di aforismi, il modo di adornare i componimenti
+poetici.  Ma egli riusc@i a trasformare questo, che era un
+semplice ornato retorico, in un abile gioco sintattico e metrico,
+in cui si rivela la sua potente vena di ragionatore e di poeta. 
+<Vediamo come una sentenza nasca dall'altra, e come questo sia
+una cosa sola col nascere di una terzina dall'altra; la tensione
+di una terzina chiama l'altra, il fatto della rima del secondo
+verso raccolta dalla terzina seguente non @e pi@u un espediente
+mnemonico o meccanico, ma esprime un legame genetico: la rima @e
+gi@a un appello a quel che segue...  Il periodo si snoda in due
+parti, prima la sentenza e poi lo sviluppo della sentenza:
+dapprima una considerazione di ordine generale (^Omai convien~
+{v. 46}), poi una sentenza (^ch$e seggendo in piuma~ {v. 47}), da
+cui ne sgorga un'altra (^sanza la qual~ {v. 49}) e da ultimo un
+^per@o~ {v. 52}.  Intanto @e enunciata un'altra rima difficile,
+^lascia-ambascia-s'accascia~ {vv. 50-54}; @e come un triplice
+rimbalzo della rima; tre sentenze che si snodano in tre terzine. 
+Poi il discorso si va placando, in versi che si allineano, senza
+interruzioni al mezzo> (Fubini, ^l.c.~ {^Metrica e poesia~,
+Milano, 1962}, 205-206).
+
+	|52-54.  Per@o~: perci@o vinci l'affanno del respiro (ma vi
+@e implicito anche il senso di: oppressione dell'animo) con la
+forza dell'animo, che riesce a superare ogni difficolt@a, se non
+si accascia sotto il peso del corpo.  <L'agg. |grave~ non @e una
+semplice qualifica, ma esprime la funzione in atto del pesare;
+quindi sotto il peso> (Pagliaro {^Ulisse~, Messina-Firenze,
+1966}).
+
+	|55.  scala~: @e necessit@a religiosa e fatale (|convien~),
+perch$e lo vuole Dio, che da noi sia salita una scala ben pi@u
+lunga e alta, che dall'Inferno porta al Purgatorio.  In tal senso
+il viaggio di D. @e il segno di una profonda sofferenza morale e
+di arricchimento della sua umanit@a (cfr. Maier {^Il c. XXIV
+dell'Inf.~, <Lett. scalig.>, Firenze, 1962}, 16; Barbi, ^Per un
+nuovo commento alla D.C.~ {Firenze, 1956}).
+
+	|56-57.  non basta~: non basta esserti allontanato dagli
+ipocriti (|costor~) e attraversare l'Inferno: occorre purificarti
+e con grave fatica; se tu comprendi bene il senso delle mie
+parole (che alludono alla tua purificazione che ti permetter@a di
+congiungerti con Beatrice), ti giovi (|vaglia~) il mio monito a
+darti forza e coraggio in questa ascesa di purificazione e di
+espiazione.
+
+	|58-59.  Leva'mi~: mi levai da sedere, mostrandomi
+fornito meglio di lena, pi@u di quanto non mi sentissi.
+
+	|61-63.  ronchioso~: riprendemmo il cammino (|via~) sul
+ponte (|scoglio~) che era formato di sassi sporgenti
+(|ronchioni~), stretto e difficile, e ripido (|erto~) pi@u di
+quello precedente, cio@e di quello che li aveva portati alla
+bolgia dei barattieri.
+
+	|64.  Parlando~: pur camminando, io parlavo per non
+mostrare di esser spossato (|fievole~: ^flebilis~, ma il senso di
+^debole~ @e derivato dal riferimento alla voce).
+
+	|65-66.  onde~: per il fatto che parlavo (|onde~, con
+val. causale) una voce si lev@o da dentro dell'altra (la settima)
+bolgia, ma non abbastanza forte, disadatta (|disconvenevole~) a
+formare parole chiare e comprensibili, distinte.  |Onde~: @e
+inteso dal Torraca nel senso di <^quanto~>; dal Witte e dal
+Sapegno ^ed una voce~; quand'ecco una voce; ma il Barbi ha
+precisato: <Il poeta, anche se non ha inteso le parole del
+dannato, pu@o per@o aver capito o arguito che erano state
+indirizzate a lui; e di qui l'uso dell'|onde~> (^St. dan.~,
+XVIII, 29).
+
+	|67.  ancor~: sebbene fossi sopra la sommit@a del ponte
+(|dosso dell'arco~), che in quel punto valica la bolgia.
+
+	|69.  ad ire~: per coloro che accettano questa ^lectio
+difficilior~, il senso @e: ma colui che parlava appariva (|parea~)
+che si movesse a camminare (|ad ire~), camminante.  Cos@i
+intendeva anche Pietro di Dante (^ad iter~), il Foscolo; e cos@i
+intendono il Barbi e il Pagliaro.  Ma il Casella, il Porena, il
+Vallone, e il Grabher, intendono ^ad ira~ (^lectio facilior~)
+sull'autorit@a del landino e trivulziano, perch$e le anime sono
+devastate dall'ira e l'ira non produce un discorso composto; e
+per evitare la ripetizione ^ire~ subito dopo a v. 71.  Ma
+quest'ultima obbiezione @e giudicata pedante dal Maier {^Il c.
+XXIV dell'Inf.~, <Lett. scalig.>, Firenze, 1962}, che accetta |ad
+ire~; come anche, autorevolmente, il Sapegno.  La voce, che D. ha
+intesa, non @e quella di Vanni Fucci (come sostenne anche il Del
+Lungo), bens@i @e di un anonimo, e consente a D. un accenno rapido
+alla condizione e alla pena dei ladri, il cui strazio impedisce
+loro di pronunziare parole articolate e distinte.
+
+	|70-71.  occhi vivi~: i miei occhi di uomo vivo: oppure i
+miei occhi, per quanto aguzzati, non potevano penetrare nel fondo
+per l'oscurit@a.  Il Rossi, invece, intende: i miei occhi non
+potevano giungere |vivi~, con la loro forza visiva, al fondo
+della bolgia.  Come prima D. non era riuscito a distinguere la
+^voce~ {v. 65} udita, ora non riesce a vedere e a distinguere
+quel che succede nella bolgia.  Due motivi che spiegano la
+discesa, vivificando il colloquio e il racconto itinerale.
+
+	|73-75.  cinghio~: all'altro argine che cinge
+internamente la settima bolgia (|cinghio~) e discendiamo la testa
+del ponte (|muro~) che, all'incrocio con l'argine, si eleva quasi
+come un muro, perch$e, come io odo di qui, dal ponte (|quinci~), e
+non riesco a percepire le parole cos@i vedo gi@u nella bolgia, ma
+non riesco a distinguere (|affiguro~) nulla di quel che vedo.
+
+	|76-78.  rendo~: non ti rispondo altrimenti che col
+farlo, perch$e una domanda giusta (|onesta~) deve esser attuata
+con l'azione, senza parole.  |Seguire~, nel senso di eseguire,
+qui, risponde ad un diffuso proverbio del tempo, cfr. Barbi,
+^Probl.~, I, 214.
+
+	|79-81.  il ponte~: discendemmo il ponte dall'estremit@a
+(|testa~) fin dove esso si congiunge (|s'aggiunge~: fa corpo
+insieme) con l'argine (|ripa~) ottavo, che divide la settima
+dalla ottava bolgia, e dopo essere giunti a questo estremo punto
+(|poi~), da l@i mi fu visibile la bolgia.
+
+	|82.  e vidivi~: dopo la breve pausa narrativa, pi@u
+orribile si rivela allo sguardo curioso e ansioso del
+poeta-personaggio lo spettacolo della bolgia, evidenziato ancor
+meglio da quella congiunzione e dall'allungamento del verbo
+|vidivi~, che sembra sostituire un'esclamazione di meraviglia e
+di terrore.  |Stipa~: moltitudine confusa e ammassata (cfr.
+D'Ovidio, ^L'ultimo volume dantesco~, Roma, A.P.E., 1926, p.
+251).
+
+	|83-84.  mena~: e di cos@i strana, orribile (|diversa~)
+specie, qualit@a (^mena~, ^Inf.~, XVII, 39), che la memoria, il
+ricordo di quei serpenti mi altera (|scipa~) la circolazione del
+sangue; mi fa rabbrividire fermandomi la circolazione del sangue. 
+Il Pagliaro {Messina-Firenze, 1966} qui vi nota un legame col v.
+13 del c. XXVI, dove ^iborni~ significherebbe ^pallidi~ per la
+paura, confortato dalla spiegazione del Buti: <la ricordanza di
+quelli serpenti ancora mi divide il sangue da' luoghi suoi e
+fallo tornare al cuore, come fa la paura>.
+
+	|85.  non si vanti~: la Libia (gi@a nota presso Ovidio e
+Lucano per i suoi serpenti) con il suo deserto (|rena~) non vanti
+pi@u il primato dei serpenti, rispetto a questa bolgia.  D. qui
+accosta nomi esotici di serpenti, il cui tessuto stilistico
+stesso, evocando quel mondo di animali terribili e paurosi,
+contribuisce ad accentuare ulteriormente la suggestione di
+orrore, che ne consegue, dopo il richiamo alle terre africane, la
+cui favolosa lontananza gi@a di per s$e fissa indubbiamente nella
+mente del lettore una natura popolata di mostri terrificanti. 
+Questo passo deve esser letto nella medesima misura medievale
+della conoscenza geografica del tempo, ove favola, magia e
+ricordi letterari di Lucano e di Ovidio si confondevano, creando
+un mitologico catalogo di bestiari e di mostri esotici.
+
+	|86.  chelidri~: serpenti velenosi che possono stare
+tanto in terra che in acqua; il termine ricorre in Lucano,
+^Phars.~ IX, 711 <tractique via fumante ^chelydri~>.  |Iaculi~:
+sono serpenti-giavellotto (lat. ^iaculum~), che da sotto gli
+alberi volano come un giavellotto; anche questo ricorre in Lucano
+al v. 720 <^iaculique volucres~>.  |Faree~: serpenti che
+camminano solcando la strada con la coda; anche questo in Lucano
+al v. 721 <contentus iter cauda sulcare ^phareas~>.
+
+	|87.  cencri~: serpenti dal cammino tortuoso; in Lucano
+v. 712 <semper recto lapsurus limite ^cenchris~>.  |Anfisibena~:
+serpente a due teste, di cui una al posto della coda; anche in
+Lucano al v. 719 <in geminum vergens caput ^amphisbaena~>.  @E una
+vera gara stilistica col poeta latino; ma quello che in Lucano @e
+un pedante elenco di serpenti, qui ha una concisione psicologica,
+che mira a creare l'atmosfera di orrore e di ripugnanza morale
+del poeta nella bolgia dei ladri.  Il giuoco delle rime difficili
+(^mena-rena-anfisibena~ {vv. 83-87}) contribuisce a potenziare la
+suggestione dello stupore di D., il quale ad ogni costo e con
+ogni mezzo stilistico vuole rilevare la superiorit@a della bolgia
+dei ladri rispetto alle terre dell'Africa.  <Si pensi alla forte
+pausa che segue il verbo |produce~ e a quella che tien dietro al
+termine raro |anfisibena~, e al martellare delle negazioni (^n$e
+tante... n$e s@i ree~ ecc. {v. 88}), volte a ribadire
+l'eccezionalit@a inaudita di quanto egli ha visto nel suo viaggio
+tra la morta gente> (Maier, ^l.c.~ {^Il c. XXIV dell'Inf.~,
+<Lett. scalig.>, Firenze, 1962}, 27).
+
+	|88-90.  n$e tante~: la Libia non mostr@o mai, compresa
+l'Etiopia e l'Arabia (questa regione nelle carte medievali veniva
+a trovarsi sopra il mar Rosso; cfr. Casella ^Questioni di
+geografia dantesca~, in <Stud. dan.> XII, 1927, p. 65; Lepore,
+^D. e l'Etiopia~, Portici, 1933), tanti animali pestiferi e
+velenosi (|ree~).  Lucano dice <^lybicae pestes~>.  D. ha assunto
+i serpenti al ruolo di custodi della bolgia dei ladri, non
+soltanto per l'analogia dell'agire insidioso e nascosto di tali
+peccatori, ma anche per dare, attraverso il richiamo di un certo
+gusto medievale dell'orrido, la misura della sua ripugnanza
+morale per quel peccato, che imbestia terribilmente le anime.  Il
+protagonista Vanni Fucci sar@a, infatti, presentato bestia tra le
+bestie.
+
+	|91-93.  Tra questa... copia~: tra quest'abbondanza di
+serpenti crudeli e ripugnanti correvano peccatori nudi (indifesi
+dai morsi; la nudit@a serve ogni volta ad accentuare lo strazio
+dei dannati) e terrorizzati, senza speranza di trovare un buco,
+una tana (|pertugio~) ove nascondersi o erba (ma anche pietra) a
+cui si attribuiva la virt@u di rendere invisibile chi la portasse
+addosso (^Dec.~ VIII, 3).  Nel caso dell'erba, si riteneva che
+avesse la virt@u di guarire il morso dei serpenti velenosi. 
+L'intreccio dinamico, che avvolge in una commistione di nessi
+uomini e serpenti offre una sequenza drammatica e spettacolare,
+che costituisce come il motivo di fondo di tutto il canto.
+
+	|94-96.  le man~: avevano le mani legate dietro: le serpi
+(|quelle~) ficcavano, spingevano la coda e la testa attraverso le
+reni e poi si annodavano sul ventre dei dannati.  I ladri, come
+in vita ebbero le mani libere e sciolte per i loro furti, cos@i
+ora avranno in eterno le mani legate.  Il contrappasso @e seguito
+nei limiti della rappresentazione.
+
+	|97.  proda~: dalla parte della sponda (|proda~) dove
+eravamo noi.
+
+	|99.  s'annoda~: alla nuca (o, secondo altri, alla gola),
+punto in cui il collo si congiunge alle spalle.  Ha inizio la
+rappresentazione dell'incenerimento e del risorgere del dannato. 
+Ma il poeta mantiene il racconto su di un piano oggettivo e
+distaccato con una frase <ed ecco> {v. 97}.  @E probabile che
+l'incenerimento di Vanni Fucci sia in rapporto diretto col furto
+sacrilego.  Ma molti credono che, qui, sia da ravvisare il
+contrappasso generale dei ladri, i quali, avendo in vita rubato i
+beni degli altri, ora son derubati del loro corpo, della loro
+personalit@a umana, scambiandosi l'un l'altro la figura con quella
+di serpente.
+
+	|100-104.  N$e O s@i tosto~: <il pregio della metamorfosi
+si accresce dalla sua celerit@a, la quale @e espressa con uno dei
+modi schiettamente proverbiali della lingua toscana: non si
+scrisse cos@i presto n$e |o~ n$e |i.~  Infatti noi toscani diciamo
+comunemente: non sai fare un ^o~, oppure c'@e mancato un ^i.~  Ma
+veramente noi diciamo cos@i perch$e quelle due vocali sono tra le
+lettere dell'alfabeto pi@u semplici nel disegno e non pi@u rapide
+nella scrittura.  Ora a me pare che, anche tenendo conto della
+scrittura semigotica del tempo di D., un ^v~ si scriva pi@u presto
+di un ^o~ e che pi@u presto di un ^i~ si scriva un ^c~, cosicch$e
+credo che il poeta abbia piuttosto pensato alle due lettere per
+rappresentare due segni grafici di quella rapida decomposizione e
+ricomposizione> (Rosadi, ^Il c. XXIV dell'Inf.~, Firenze, 1917,
+p. 18).  Il Vallone {Il c. XXIV dell'Inf.~, Torino, 1959 [?]},
+invece, crede che i due versi siano costruiti secondo il gusto
+retorico del tempo.
+
+	|105.  di butto~: di botto, per la rima, come in ^Purg.~,
+XVII, 40.
+
+	|106.  Cos@i~: cos@i @e attestato (|si confessa~) dai poeti
+e dagli scienziati (|per~: ^par~ franc. usato nell'ital. antico). 
+Cio@e da Ovidio, Plinio, Lattanzio e Brunetto Latini.
+
+	|107-109.  la fenice~: che la fenice muore e poi rinasce
+quando si avvicina al cinquecentesimo anno.  D. ha presente un
+passo di Ovidio: <C'@e un solo uccello che da s$e si riproduce e
+risemina; gli Assiri lo chiamano |fenice.~  Non vive di |biada~
+n$e di |erbe~, ma di ^lagrime d'incenso~ e succo ^d'amomo~ {v.
+110}.  Questa non appena ha compiuto cinque secoli di vita...>
+(^Metam.~, XV, 392-400), anche se la notizia era trascritta nelle
+varie enciclopedie medievali, specialmente nel ^Tesoro~, VI, 26. 
+In Ovidio @e magia, in D. dramma morale.
+
+	|110.  lagrime~: gocce d'incenso e di amomo (una resina
+aromatica).  L'immagine della ^fenice~ @e un ^topos~ figurativo
+assai frequente nella lirica provenzale e provenzaleggiante, come
+ha documentato il Contini (^Poeti del Duecento~, Milano-Napoli,
+1960), che <trova nella pagina dantesca una eccezionale,
+incredibile applicazione: un ^topos~ di natura lirica e la cui
+assunzione erotica, nella cultura dell'et@a di D., era senza
+dubbio la pi@u frequente e insistita> (Sanguineti, ^l.c.~
+{^Interpretazione di Malebolge~, Firenze, 1961}, 191).
+
+	|111.  nardo~: prima di morire, si avvolge nel nardo e
+nella mirra, come se fossero le sue bende estreme.  Trascrive dal
+testo di Ovidio <sparsevi spighe di nardo... con mirra, si
+distende e finisce la vita in mezzo ai profumi>.  L'incenerimento
+in seguito a morso di serpente @e, invece, ripreso da Lucano,
+^Phars.~, IX, 761-88, che descrive la morte del soldato Sabello,
+annichilito, senza lasciar traccia, da un piccolo ^seps.~  Ma la
+descrizione di Lucano ha un'analisi minuta dei particolari
+anatomici, che supera il gusto di certi veristi francesi, mentre
+D. coglie soltanto i due momenti essenziali della metamorfosi
+(cfr. Scarano, ^Saggi danteschi~, Livorno, 1905, p. 211; Ussani,
+^Dante e Lucano~, Firenze, 1917).
+
+	|112-117.  E qual @e~: e come @e l'epilettico, che cade a
+terra e non sa rendersene conto (|como~: ^quomodo~, qui us. in
+rima; anche in ^Purg.~, XXIII, 36), per forza demoniaca che lo
+trascina a terra o a causa di una qualche ostruzione del circolo
+vitale (|oppilazion~), che impedisce all'uomo di esercitare le
+sue funzioni coscienti, quando si rialza da terra, si guarda
+intorno tutto smarrito dal travaglio fisico (|angoscia~) che egli
+ha sofferto.  <Non si tratta della mera registrazione d'un
+fenomeno: le ragioni della scienza sono abbinate a quelle della
+psicologia, e l'ideale partecipazione umana dell'autore alla
+scena raffigurata attesta il raggiunto risultato poetico> (Maier,
+^l.c.~ {^Il c. XXIV dell'Inf.~, <Lett. scalig.>, Firenze, 1962},
+p. 37).  Il poeta ha usato due similitudini: la prima della araba
+fenice, la cui leggendaria metamorfosi egli cita col conforto dei
+grandi savi per spiegare lo straordinario incenerimento e il
+subitaneo ritorno alla vita del dannato; la seconda
+dell'epilettico, indicata nella leggenda popolare che ne riferiva
+la causa al demonio, ma ancor pi@u nella precisione dei termini
+tecnici-scientifici (|oppilazione~), per rappresentare con
+marcata evidenza lo stramazzare per terra e riportare il dato
+fisiologico della sofferenza fisica al piano psicologico della
+sorpresa, in cui viene a trovarsi il dannato.  Anche qui nessuna
+digressione.  Tutto rientra nell'economia del narrato (cfr. Y.
+Batard, ^Minerve et Apollon, les images de la D.C.~, Paris, 1952,
+p. 142).
+
+	|119-120.  vendetta~: l'apostrofe alla giustizia divina @e
+un espediente tecnico, di cui D. si serve per richiamare
+l'attenzione del lettore al valore paradigmatico e morale del suo
+racconto.  Qui segna anche il limite del segmento narrativo, da
+quello ambientale, tipico dell'atmosfera generale della bolgia, a
+quello particolare del personaggio.  Il senso @e: che scaglia con
+violenza (|croscia~) tali colpi per giustizia punitiva
+(|vendetta~).
+
+	|122-123.  poco tempo @e~: io caddi, precipitai dalla
+Toscana in questa crudele bolgia, da poco tempo, nei primi mesi
+del 1300.  Il dannato @e Vanni Fucci, figlio illegittimo di Fuccio
+de' Lazzari, nobile pistoiese.  Ebbe parte notevole nelle lotte
+civili di Pistoia, come fazioso dei Neri.  Assai noto per atti di
+violenza e di saccheggio a danno dei Bianchi, verso cui fu
+spietato.  Tra le sue vittime, le cronache del tempo (^Storie
+pistoresi~, rubr. 3) annoverano Marcovaldino di Jacopo e Gaudino,
+priore di S. Lorenzo e Montalbiolo.  Nel febbraio del 1295 fu
+condannato in contumacia per delitti, commessi nel territorio di
+Pistoia, e nel 1295 era in quella citt@a per combattere e mettere
+a fuoco le case dei Bianchi.  D. lo conobbe personalmente forse
+nel 1292, quando era al servizio di Firenze nella guerra contro
+Pisa.  L'Anonimo fiorentino dice di lui <perch$e egli era
+bestiale, fu chiamato Vanni bestia>.  Il dannato, pur presentando
+tutti i caratteri di un violento, @e collocato fra i ladri per
+aver rubato il tesoro della cappella di S. Iacopo nel Duomo di
+Pistoia, di cui pag@o il fio un certo Vanni della Monna, suo
+complice, che venne condannato a morte.  La sua colpa fu
+accertata dopo la sua morte.  E D. qui se ne rende interprete
+presso i posteri, infamando questo crudele nemico della sua
+parte.  |Gola~ @e virgilianismo: ^atrae fauces~ (^Aen.~, VI, 240).
+
+	|124.  bestial~: <quando si dice l'uomo vivere, si dee
+intendere l'uomo usare la ragione, che @e sua speziale vita e atto
+de la sua nobile parte.  E per@o chi da la ragione si parte, e usa
+la parte sensitiva, non vive uomo, ma vive bestia> (^Conv.~, II,
+vii, 3-4).  Perci@o l'aggettivo non ha quel valore satanico che
+alcuni vi hanno voluto vedere.
+
+	|125-126.  tana~: nella breve ed epigrafica
+autobiografia, Vanni Fucci mette in risalto con insistenza i
+termini che ne fissano in una sicura confessione la <|vita
+bestial~>, in rapporto diretto con il suo esser <|mulo~>, con la
+sua personalit@a di <|bestia~>, e col denominare <|degna tana~> la
+sua Pistoia.  Una coerenza linguistica che @e anche un riflesso
+della sua coerenza psicologica di uomo sprezzante.  Anche se il
+linguaggio ricorda certi toni dell'Angiolieri, il suo cinismo non
+@e iperbolico, la sua parola non suona paradossale; troppo sicura
+ne risulta la coerenza fra la sua espressione e la sua azione. 
+Del resto ad un attento esame semantico i termini qui usati non
+hanno tutto quel peso, che ad essi si attribuisce oggi.  Dice il
+Barbi: <Facilmente, anche per minor grado di bestialit@a, o per
+semplice stoltezza, s'appiccava ai nomi personali l'epiteto di
+bestia ne' tempi di D., tanto per dire che in questa o
+quell'occasione alcuno non s'era portato da uomo: cfr. G.
+Villani, ^Cronaca~, XII 20 (^messer Andrea bestia~); Bocc.
+^Decam.~, VII, 4 (^Tofano bestia~); Sacchetti, ^Novelle~, LXX
+(^il fante bestia~), CIII (^il prete bestia~).  Ma qui, nel caso
+di Vanni Fucci, pu@o ben essere che si tratti di un vero
+soprannome> (^Probl.~, I, 274).  E cos@i |mulo~ vale ^bastardo~ e
+|tana~ vale per patria, in continuazione dell'epiteto precedente. 
+Il dannato denuncia con franchezza il suo stato di bestialit@a,
+per occultare il peccato del furto e mettere in evidenza quello
+di uomo di sangue.  Questa interpretazione elimina molti elementi
+romantici dalla sua figura, dato che D., secondo la sua
+concezione figurale, tende a dare al dannato una certa continuit@a
+psicologica tra la personalit@a storica e quella che @e la ^figura~
+completa nell'aldil@a.
+
+	|127.  non mucci~: non cerchi di nascondersi, secondo
+antichi commentatori e ora anche secondo il Pagliaro {^Ulisse~,
+Messina-Firenze, 1966}, che ha riscontrato l'uso nei dialetti
+siciliani <^ammuciari~ = nascondersi> (io ne confermo l'uso nel
+dialetto di Marsala).  Molti, per@o, intendono nel senso di: non
+fugga, non scappi (cfr. Parodi, ^Bull.~, III, 153)
+
+	|130-131.  s'infinse~: il peccatore, che sent@i le parole
+di D., non finse di esser diverso da quello che era (Pagliaro
+{^Ulisse~, Messina-Firenze, 1966}, 339).  Il Barbi, seguito dai
+pi@u, intende: il peccator, che intese, non finse di non aver
+inteso, ma drizz@o... (^Probl.~, I, 214).  Il Parodi, invece: non
+esit@o, rimandando al franc. ant. ^se feindre~ da cui ^infingersi~
+e ^infingardo.~  Si preferisce la prima interpretazione, perch$e
+risponde meglio al contesto; infatti D. aveva detto per mezzo di
+Virgilio, di non cercar di nascondersi ed ora Vanni, di rimando
+non finge, non dissimula di essere quello che @e: un ladro
+sacrilego.
+
+	|132.  trista vergogna~: arross@i dalla vergogna nata
+dalla rabbia di dover ammettere una azione cos@i avvilente per lui
+uomo di violenza.  Finch$e si trattava di confessare la sua vita
+bestiale non ha avuto vergogna, ora, invece, che deve ammettere
+di essere stato un ladro di cose sacre, si dipinge di |trista
+vergogna.~  La condanna divina lo ha fissato in eterno per una
+colpa ben pi@u infamante e vile, di quella che egli voleva far
+credere, e di cui si compiaceva, considerandosi e facendosi
+stimare un violento.
+
+	|133-135.  Pi@u mi duol~: maggiore @e il mio dolore per
+esser stato colto da te in questa bolgia, ove si rivela la mia
+miseria, la mia vera pena di ladro, che non quello che provai
+quando morii.  L'espressione <|dell'altra vita tolto~> non vuole
+indicare la sua presunta morte violenta per vendetta, cosa che ha
+fatto supporre ad alcuni altra nota romanzesca della figura del
+dannato; bens@i soltanto il dolore del morire, comune a tutti gli
+uomini.  L'espressione figurata, per@o si addice all'indole
+violenta di lui.  Comunque l'espressione, nel suo complesso, vuol
+rivelare che quanto pi@u infamante @e il peccato, tanto pi@u i
+dannati cercano di nasconderlo, magari evidenziandone uno
+diverso.
+
+	|136.  Io non posso~: nella sua confessione precedente
+c'era stata una franchezza, senza reticenze, intorno alla sua
+vita bestiale di uomo di sangue, ora in questa si sente la
+inevitabile necessit@a di non poter negare la verit@a, accertata e
+punita gi@a infallibilmente da Dio.  Perci@o l'accento amaro del v.
+139, in cui dice che il furto fu falsamente imputato ad altri (fu
+^apposto altrui~).
+
+	|138.  sagrestia~:  ladro del tesoro (|belli arredi~)
+alla sagrestia.  Altri: ladro alla sagrestia de' belli arredi
+(come per. di tesoro sacro).  <^Tu~ m'hai colto; ^tu~ mi vedi;
+^tu~ chiedi; e quel ^tu~, tre volte {vv. 133-136} ripetuto con
+tutto l'odio selvaggio d'un fazioso del secolo decimoterzo, @e
+come il martello che picchia sulla vergogna di chi lo proferisce. 
+La prima parola ch'aveva pronunziata era stata ^io~ {v. 122}; ed
+era stata affermazione di personalit@a; ora ripete: ^io~ {v. 136},
+ma sdrucciola via su di esso, e sdrucciola sul non ^posso~, per
+fermarsi un momento su: ^negar~> (Cosmo, ^Il c. XXIV dell'Inf.~
+in ^Lett. Dant.~ del Getto {Firenze, 1964}, 460, Fallani, ^Poesia e
+teologia nella D.C.~, Milano, 1961, p. 123-28).
+
+	|140-142.  Ma perch@e~: @e l'ultima rivalsa del disperato:
+umiliare quel vivo, a cui non ha potuto nascondere la verit@a,
+predicendogli le sventure dei Bianchi.  Ma affinch$e tu non goda
+di avermi visto qui fra i ladri (|tal vista~), semmai ti sar@a
+concesso di uscire dall'inferno, apri gli orecchi alla mia
+profezia (|annunzio~).  Vanni Fucci, in fondo, resta sempre un
+uomo ^di crucci e di sangue~ {v. 129}, la cui <malvagit@a @e
+smisuratamente accresciuta dalla disperazione> (Auerbach,
+Mimesis~ {Milano, 1964}, I, 249).  Coerentemente con la sua
+indole bestiale e violenta, le parole della sua profezia suonano
+come una maledizione.  I verbi al presente vogliono evidenziare
+meglio questo quadro macabro di vendetta e di sangue, come se
+egli vedesse e assaporasse la gioia di tante sventure.
+
+	|143-144.  Pistoia~: in un primo tempo (|in pria~)
+Pistoia si spopola dei Neri (cacciati nel 1301), poi Firenze
+caccer@a i Bianchi nel novembre del 1301, rinnovando il potere ai
+Neri, che rientreranno con l'appoggio di Carlo di Valois entro i
+primi del 1302.
+
+	|145-151.  Tragge~: Marte (dio della guerra) trae fuori
+dalla Val di Magra (dalla Lunigiana) un vapore igneo (un fulmine)
+avvolto di nuvoli minacciosi (|torbidi~); e si combatter@a fra
+loro (cio@e tra il vapore e le nubi) molto aspramente sopra Campo
+Piceno; in seguito a questa battaglia esso, il vapore, con molta
+vigoria (|repente~; Barbi, ^Probl.~, I, 215) romper@a la nebbia
+che lo avvolge e gli resiste, in modo che tutti i Bianchi ne
+saranno feriti.  Nel simbolismo della profezia il vapore @e
+Moroello Malaspina che, come capitano dei Lucchesi, alleati dei
+Fiorentini di parte nera, ebbe un ruolo importante contro i
+Bianchi (|nuvoli~), conquistando Pistoia (1306); e la sconfitta
+dei Bianchi di quella citt@a fu anche la rovina per gli esuli
+Bianchi di Firenze (cfr. Pagliaro, ^Ulisse~ {Messina-Firenze,
+1966}, 341-43).  Per Marte alcuni intendono il pianeta, in senso
+astrologico.  |Campo Picen~: al tempo di D. l'Ager Picenus, di
+cui parla Sallustio (^Catilin.~, LII), s'identificava
+erroneamente con una localit@a presso Pistoia.  Il tono e le
+parole di Vanni Fucci, qui, ricalcano lo stile dei <vituperia>
+dei rimatori borghesi del tempo di Dante.

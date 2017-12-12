@@ -1,0 +1,16 @@
+Checking file junk
+Error at line 2: Multiple blank lines
+>>>
+>>>
+Error at line 7: tabs used for indenting
+>>>	This line has an error-tab as indenting 2
+>>>	This line has an error-tab as indenting 2
+Error at line 12: Spaces/Tabs used in paragraph
+>>>   This line has an error-2nd line of para w/spaces 3
+Error at line 16: Spaces/Tabs used in paragraph
+>>>   This line has an error-middle of para w/spaces 4
+Error at line 18: Spaces/Tabs used in paragraph
+>>>	This line has an error-tab in middle of para 5
+Error at line 21: Spaces used at head of paragraph
+>>>        This line has an error-starts para w/8 spaces 6
+>>> that starts with spaces, not a tab.

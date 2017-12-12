@@ -1,0 +1,126 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.22.30;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Format a DDP file for printing.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+#
+#	troff Dante files for the laser printer 
+#
+#	Usage: laser [ -p ]  [ -b  [ -t title ] ]  [ file | - ] ...
+
+TYPE=N
+TITLE=""
+INFO=/tmp/dante$$
+LIB=$Dante/lib
+MAILDEST=mailitroff@@dartmouth.EDU
+
+while [ $# -gt 0 ]
+do
+	case $1 in
+
+	-)
+		break
+		;;
+
+	-p)
+		TYPE=P
+		shift
+		;;
+
+	-b)
+		TYPE=B
+		shift
+		;;
+
+	-t)
+		shift
+		if [ $# -eq 0 ]; then
+			echo "The -t option requires a value."
+			exit 1
+		else
+			TITLE="$1"
+			shift
+		fi
+		;;
+
+	-*)
+		echo Unknown flag $1
+		exit 1
+		;;
+
+	*)
+		break
+		;;
+
+	esac
+done
+
+if [ $# -eq 0 -o "$*" = "-" ]; then
+	echo '.ds FN' stdin > $INFO
+	echo '.ds TL' $TITLE >> $INFO
+	case $TYPE in
+	P)
+		sed -f $LIB/sq.sed | \
+		cat $INFO $LIB/proof.me - | \
+		Mail -s -me $MAILDEST
+		;;
+	N)
+		sed -f $LIB/sq.sed -f $LIB/stdtome.sed | \
+		cat $LIB/tmac.E $INFO $LIB/header.me - | \
+		Mail $MAILDEST
+		;;
+	B)
+		sed -f $LIB/stdtome.sed | \
+		cat $LIB/tmac.E $INFO $LIB/book.me - | \
+		Mail $MAILDEST
+		;;
+	esac
+else
+	PWD=`pwd`
+	for f
+	do
+		echo Processing $f
+		SUF=`basename $f`
+		echo '.ds FN' $PWD/$SUF > $INFO
+		echo '.ds TL' $TITLE >> $INFO
+		case $TYPE in
+		P)
+			sed -f $LIB/sq.sed $f | \
+			cat $INFO $LIB/proof.me - | \
+			Mail -s -me $MAILDEST
+			;;
+		N)
+			sed -f $LIB/sq.sed -f $LIB/stdtome.sed $f | \
+			cat $LIB/tmac.E $INFO $LIB/header.me - | \
+			Mail $MAILDEST
+			;;
+		B)
+			sed -f $LIB/stdtome.sed $f | \
+			cat $LIB/tmac.E $INFO $LIB/book.me - | \
+			Mail $MAILDEST
+			;;
+		esac
+	done
+fi
+rm -f $INFO
+exit 0
+@

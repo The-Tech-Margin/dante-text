@@ -1,0 +1,3 @@
+The two files named Comm.idtable and LoadOrder are obsolete files from an eariler generation of the
+project. They have been replaced by the structure of Makefiles in the commentary directory. We keep
+them here for historical reasons only.					stc, August 2007

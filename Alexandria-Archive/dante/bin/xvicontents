@@ -1,0 +1,2 @@
+#! /bin/sh
+exec vi '+/currently contains' $Dante/DANT/Menus/XMAIN.MNS

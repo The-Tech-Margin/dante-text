@@ -1,0 +1,91 @@
+	|1.~  ^Gi@a era il sole~ -- Hic vult describere horam temporis et 
+certe ibi, ubi erat Dantes, erat prope ortum solis, quando nobis 
+incipit nox.  Nam spera, idest tota rotunditas celi, habet duas partes: 
+unam nobis visibilem supra terram, aliam infra terram.  Et vocatur 
+quelibet pars emisperium, idest medietas spere, inter quas est linea 
+circumcirca que vocatur orizon, idest orientalis zona, in qua sol 
+oritur et occidit et terminatur in ea undique visus emisperii 
+superioris.
+
+	|2.~  ^Cerchio~ -- Item dicitur circulus meridianus in celo qui 
+procedit a polo artico, idest tramontana nostra septentrionali, versus 
+meridiem ad aliam tramontanam equaliter distans ab oriente et 
+occidente.  Et quilibet locus secundum quod distat ab oriente habet 
+suum condiversum meridianum et diversum orizonta, quia citius oritur 
+sol in Cipro quam in Sardinia.
+
+	|3.~  ^Ierusalem~ -- Dicitur esse in medio terre, quia quando sol est 
+in Ariete et tunc est equinocium in vere, ortum solis et Arietis in 
+occasu, Ierusalem est sub meridiana distantia ab oriente et occidente.  
+^Alto~ -- In meridie.
+
+	|4.~  ^Opposita~ -- Quando, sole existente in Ariete in occasu, nox 
+incipit et Libra, que est signum oppositum Arieti, surgit in oriente et 
+noctem aducit.
+
+	|5.~  ^Gange~ -- Fluvius est orientalis ex quo nobis oritur sol, tunc 
+equatur nox et dies.
+
+	|6.~  ^Man~ -- Diei.  ^Soverchia~ -- Quando Libra superat fauces 
+Gangis fluvii versus nos veniens, sole in Ariete opposito existente, 
+est causa noctis nobis et in alio emisperio, in quo erat poeta, causa 
+diei erat.  Et per hec vult astrologice demostrare formam spericam celi 
+et zodiaci.
+
+	|9.~  ^Rance~ -- Propter radios solis appropinquantes magis aurora 
+primo albet, secundo rabet, tertio citrinatur.
+
+	|23.~  ^Un non sapeva che bianco~ -- Una dictio est et est 
+determinatio verbi et est textus sic in gramatica: apparuit michi unum 
+nescio quid album.
+
+	|46.~  ^In exitu Israel~ -- Quelibet lictera potest quadrupliciter 
+exponi, unde versus: <Lictera gesta docet, quid queras allegoria.  / 
+Morale quid agas, quid speres anagogia>.  Salmi istius istoria fuit 
+quando populus Israel fuit liberatus de manibus Pharaonis.  Allegoria 
+est quod similitudinarie anime dampnatorum redimende erant et genus 
+humanum liberandum de manibus inimici.  Moralitas elicitur quod 
+quilibet debet appetere libertatem et presertim a vitiis, quia maior 
+est libertas anime quam corporis.  Anagogia est spes retributionis in 
+eterno gloria paradisi.  Similiter est ystoria templi Salamonis; 
+allegoria, corpus Christi solvite et cetera; morale, Ecclesia militans; 
+anagogia, Ecclesia triumphans.
+
+	|55.~  ^Saectava~ -- Radiis suis per valles et montes.  ^Giorno~ -- 
+Sole elevato per duas horas supra orizonta, Capricornus recesserat de 
+medio celi in quo erat quando sol erat in oriente, ut patet in figura 
+supra.
+
+	|80.~  ^Tre volte~ -- Loquitur iuxta Virgilium in fine II ^Eneidos~: 
+<Ter conatus ibi collo dare brachia circum; / ter frustra compresa 
+manibus effugit ymago>.
+
+	|86.~  ^Conobbi~ -- Per loquelam que non decipit sicut quando Iacob, 
+simulans se esse Esau fratrem suum primogenitum, petebat benedictionem 
+ab Isaac patre eorum, qui ait: <Man[us], manus sunt Esau, vox autem 
+Iacob>.  De hoc latius habes cantu III ^Inferni~.
+
+	|91.~  ^Casella~ -- Bonus cantor fuit.
+
+	|97.~  ^Giusto~ -- Iudicia Dei vera, iustificata in semet ipsa.
+
+	|101.~  ^S'ensala~ -- Rome in portu Hostie.
+
+	|103.~  ^L'ala~ -- Quia erat annus iubilei et indulgentie.  Iubileus 
+annus hebrayce, latine interpetratur remissio qui septem de dogmatibus 
+annorum XLVIIII annis texitur, in quo tube clangebant et ad omnes 
+revertebatur antiqua possessio, debita absolvebantur, confirmabantur 
+libertates.  Et habuit initium tempore Abrae quando habuit victoriam 
+contra Codolaomor et alios qui captivaverunt Loth, et fuit institutus 
+quinquaginta quia Loth tunc erat quinquaginta annorum; vel quia tunc 
+erat L annis ex quo locutus est sibi Deus, vel ex quo egressus erat de 
+Duran; vel Abraam, peritus astrorum, cognovit in L annis planetas ad 
+temperiem pervenire et sic voluit in terris etiam limitare.
+
+	|105.~  ^Acharonte~ -- Flumen inferni.
+
+	|112.~  ^Amor~ -- Cantilena quam Dantes composuit.
+
+	|119.~  [^Vellio honesto~] -- Cato.  Hic notatur primus gradus 
+vestibuli in quo vanas delectationes sectantes remorantur.
+

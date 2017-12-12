@@ -1,0 +1,152 @@
+	|2.~ |(ed.  Rosini)~
+^Forbendola~, nettandola.  [Da Fino]
+
+	|5.~ |(ed.  Rosini)~
+Disperato dolor.  [richiamo marginale] [Sessa]
+
+	|6.~ |(ed.  Rosini)~
+Simile: ^Che nel pensier rinnova la paura~.  (In. c. I v. 6).  [Da Fino]
+
+	|7.~ |(ed.  Rosini)~
+Fruttare.  [richiamo marginale] Nota, che Ugolino risponde non per 
+desiderio di sua fama, ma d'altrui infamia.  [Sessa]
+
+	|9.~ |(ed.  Rosini)~
+Parlare dalla parte del Conte, e lacrimare dallo Arcivescovo.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+Sie.  [richiamo marginale] [Sessa]
+
+	|13.~ |(ed.  Rosini)~
+Fu 'l Conte Ugolino.  [richiamo marginale] [Sessa]
+
+	|22.~ |(ed.  Rosini)~
+Dentro da.  [richiamo marginale] [Sessa]
+
+^Muda~, traslazione dal luogo, dove si mettono li sparvieri a mudare.  
+[Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+^Pi@u lumi~, pi@u giorni; ^sonno~, della morte.  [Da Fino]
+
+	|27.~ |(ed.  Rosini)~
+Velame.  [richiamo marginale] [Sessa]
+
+	|29.~ |(ed.  Rosini)~
+^Il lupo e i lupicini~, esso e li figli; ^al monte~, S. Giuliano.  [Da 
+Fino]
+
+	|35.~ |(ed.  Rosini)~
+Scane.  [richiamo marginale] [Sessa]
+
+^Scane~, denti.  [Da Fino]
+
+	|37.~ |(ed.  Rosini)~
+Dimane.  [richiamo marginale] [Sessa]
+
+	|45.~ |(ed.  Rosini)~
+Avendo sognato che si mor@ia di fame.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+^Impietrai~, senza il si.  [Sessa]
+
+	|54.~ |(ed.  Rosini)~
+^Sol~, giorno.  [Da Fino]
+
+	|60.~ |(ed.  Rosini)~
+Levorsi.  [richiamo marginale] [Sessa]
+
+	|61-63.~ |(ed.  Rosini)~
+Mirabile.  ^Spogliare~ con l'accusativo.  Altera Dante qui la istoria, 
+facendo che tutti questi fossero figliuoli, perocch@e parte ve n'era di 
+nepoti; ma forse ci@o fece per muover maggior compassione.  [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+^Ch@e non m'ajuti?  Ch@e~, posto invece di perch@e.  [Sessa]
+
+	|75.~ |(ed.  Rosini)~
+Qui lascia di dir la morte, ma la suppone.  [Da Fino]
+
+	|79.~ |(ed.  Rosini)~
+Esclamazione.  [Da Fino]
+
+	|80.~ |(ed.  Rosini)~
+^Dove 'l s@i suona~.  Si conforma con la distinzione fatta da lui nel 
+libro della Volgare Eloquenza.  [Sessa]
+
+Il s@i e no, in Toscana.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Annegare~, attivo.  [Sessa]
+
+	|88-89.~ |(ed.  Rosini)~
+^Novella, novella~, ripetizione.  [Da Fino]
+
+	|92.~ |(ed.  Rosini)~
+^Fascia~, contiene.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+L@i.  [richiamo marginale] [Sessa]
+
+	|95.~ |(ed.  Rosini)~
+^Rintoppo~, riscontro.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+^Ambascia~, affanno.  [Da Fino]
+
+	|99.~ |(ed.  Rosini)~
+Coppo.  [richiamo marginale] [Sessa]
+
+^Coppo~, concavo dell'occhio.  [Da Fino]
+
+	|102.~ |(ed.  Rosini)~
+Stallo.  [richiamo marginale] [Sessa]
+
+	|106.~ |(ed.  Rosini)~
+Avaccio.  [richiamo marginale] [Sessa]
+
+	|108.~ |(ed.  Rosini)~
+Piove fiato.  ^Piove~, posto attivamente.  [Sessa]
+
+^Il fiato piove~, soffia, traslazione.  [Da Fino]
+
+	|109.~ |(ed.  Rosini)~
+^Fredda crosta~, diaccio.  [Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+Le frutta.  [richiamo marginale] [Sessa]
+
+	|120.~ |(ed.  Rosini)~
+^Riprendo dattero per figo~, piglio una pena maggiore dell'altre.  [Da 
+Fino]
+
+	|123.~ |(ed.  Rosini)~
+^Nulla scienzia porto~, non lo so.  [Da Fino]
+
+	|128.~ |(ed.  Rosini)~
+^Invetriate~, diacciate.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+L'ombra verna.  [richiamo marginale] [Sessa]
+
+^Verna~, fredda.  [Da Fino]
+
+	|136-141.~ |(ed.  Rosini)~
+Considerisi come questo possa stare.  [Da Fino]
+
+	|142-147.~ |(ed.  Rosini)~
+Come questo possa essere, vedasi.  [Da Fino]
+
+	|150.~ |(ed.  Rosini)~
+^Fu lui~.  ^Fu lui~, senza l'^a~.  Nota quattro gradi di peccatori.  
+Dei primi ha compassione Virgilio ancora, dei secondi Dante, de' terzi 
+Dante, ma n'@e ripreso da Virgilio.  Verso i quarti Dante ancora @e 
+crudele, se crudele vi pu@o esser contra loro.  [Sessa]
+
+A non gliene aprire.  [Da Fino]
+
+	|151.~ |(ed.  Rosini)~
+Uomini diversi.  [richiamo marginale] [Sessa]
+
+^Diversi~, lontani.  [Da Fino]
+

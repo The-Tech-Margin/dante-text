@@ -1,0 +1,201 @@
+.sh 1 "Examples from a User Session"
+.pp
+This section presents some excerpt from an actual user session with
+the Dartmouth Dante Project database.
+The excerpts illustrate some of the capabilities of the database
+manager program and show how search results are formatted.
+The exact appearance of the session would vary depending on the type
+of computer terminal.
+.pp
+These examples employ a user interface -- a set of menus and a
+query language -- that are based on a general-purpose interface
+provided by the vendor of the database manager.
+This is our developmental interface;
+it has not yet been optimized for searching the Dante database.
+.sh 2 "Starting the Session"
+.pp
+Users of the DDP connect to the computer using standard procedures
+for their terminals and the type of communications they use.
+They start the DDP session by issuing the \*(lqddp\*(rq command,
+and the interface first displays a list of the material currently
+loaded into the database.
+This list changes whenever a new commentary is loaded.
+.(b L
+.(c
+        The database currently contains:
+
+              The Divine Comedy
+                     &
+  Full commentaries by the following authors:
+
+  Daniello     Pietro di Dante   Bosco/Reggio
+                Casini/Barbi
+.)c
+.)b
+The next screen is the main screen of the interface.
+.(b
+Current queries:
+  None outstanding.
+
+Enter a search request or option letter (eg \fBQ\fRuit, \fBH\fRelp, \fBL\fRist of options):
+  1: 
+.)b
+The user always returns to this screen between searches and before
+ending the session.
+The \*(lqCurrent queries\*(rq list shows the most recent query requests
+during the session.
+At the numbered prompt the user can enter a single letter special
+request such as \*(lqH\*(rq for HELP screens and \*(lqQ\*(rq
+to QUIT the session,
+or the user can enter a search request.
+.pp
+A search request or query is a single word or several words that are
+combined with positional and Boolean operators.
+The positional operators are words such as ADJACENT, NEAR, WITH, and
+SAME.
+They specify the positional requirement of the text words that are
+their operands.
+For example, the query \*(lqPOSITIONAL WITH WORDS\*(rq
+would search for all documents
+in which the words \*(lqpositional\*(rq and \*(lqwords\*(rq occur in the same
+sentence.
+Searches are case insensitive.
+The Boolean operators are the usual AND, OR, NOT, and so forth.
+The query can be an arbitrarily complex combination of these
+operators.
+.pp
+Here is a search query consisting of a single word, \*(lqVirgilio.\*(rq
+.(b
+Enter a search request or option letter (eg \fBQ\fRuit, \fBH\fRelp, \fBL\fRist of options):
+  1: Virgilio
+
+Results are:
+  1: VIRGILIO                                1640 document(s)
+
+Enter \fBS\fR to Search; \fBD\fR to Display [D]:
+.)b
+The display shows that 1640 documents were found that contained the
+word \*(lqVirgilio\*(rq.
+The user has the choice of displaying any or all of those
+documents or \*(lqhits\*(rq or of returning to the main search menu to
+perform another search.
+For our example we will perform another search.
+.(b
+Enter \fBS\fR to Search; \fBD\fR to Display [D]: s
+
+Current queries:
+  1: VIRGILIO                                1640 document(s)
+
+Enter a search request or option letter (eg \fBQ\fRuit, \fBH\fRelp, \fBL\fRist of options):
+  2: pliny
+
+Results are:
+     PLINY                             Not in Dictionary 
+  2: PLINY                                    0 document(s)
+
+Enter \fBS\fR to Search; \fBE\fR to Expand [E]: 
+.)b
+The display reminds us that the Virgilio search is still remembered.
+We search for \*(lqPliny,\*(rq but find it does not occur in any document.
+The choices now include expanding on the unsuccessful search word.
+An expansion is a list of several words that would be lexicographically
+adjacent to the word that did not occur.
+An expansion often shows alternate spellings that do occur in the
+database.
+.(b L
+.(c
+Expansion on PLINY ...
+
+Reference   1 --> PLIN			 4 document(s)
+Reference   2 --> PLINIO			17 document(s)
+Reference   3 --> PLINIUM			 2 document(s)
+Reference   4 --> PLINIUS			 2 document(s)
+Reference   5 --> PLOIA			 8 document(s)
+Reference   6 --> PLOJA			 1 document(s)
+Reference   7 --> PLOR			 2 document(s)
+Reference   8 --> PLORA			 2 document(s)
+Reference   9 --> PLORABITIS		 1 document(s)
+
+Enter Reference Number(s); \fBH\fR for Help; \fBS\fR to Search [S]:
+.)c
+.)b
+The expansion shows four other spellings for Pliny.
+.pp
+In the next example we will combine the two previous searches.
+The query is for all documents that contain, in the same paragraph,
+\*(lqVirgilio\*(rq and any of the 4 different spellings of Pliny.
+The search query uses a dollar sign to indicate \*(lqany of the Pliny
+spellings.\*(rq
+.(b L
+.(c
+Current queries:
+  1: VIRGILIO                                1640 document(s)
+
+Enter a search request or option letter (eg \fBQ\fRuit, \fBH\fRelp, \fBL\fRist of options):
+  2: Plin$ same Virgilio
+
+Results are:
+      PLIN				\ \ \ 4 document(s)
+      PLINIO				\ \ 17 document(s)
+      PLINIUM				\ \ \ 2 document(s)
+      PLINIUS				\ \ \ 2 document(s)
+      VIRGILIO				1640 document(s)
+  2: PLIN$ SAME VIRGILIO		   2 document(s)
+
+Enter \fBS\fR to Search; \fBD\fR to Display [D]: 
+.)c
+.)b
+The display includes intermediate search results.
+There were 25 documents with at least one of the spellings of Pliny
+and (from the previous search) 1640 documents with Virgilio.
+Requiring that the two words appear
+in the same paragraph reduces this set to just two documents:
+.(b
+Enter \fBS\fR to Search; \fBD\fR to Display [D]: d
+
+
+Bosco/Reggio (1979), \fIPur\fR. 26.34                           Doc 1, Screen  1
+
+[Copyrighted Material]  \fBschiera bruna\fR: cfr. \fInigrum...  agmen\fR, di \fBVirgilio,\fR
+\fIAen.\fR IV 404; ma in genere per tutta la similitudine si suole rimandare a
+Ovidio, \fIMet.\fR VII 624-626 e addirittura a \fBPlinio,\fR \fIN. H.\fR XI 39.  La
+comparazione dantesca ha pero\*` un tono diverso, \*(lqpoggia...  sull'elemento
+affettivo\*(rq (Roncaglia), e indulge meno a effetti descrittivi.
+
+
+Enter document number, \fBH\fRelp, \fBS\fRearch [Next document]: 
+
+Casini/Barbi (1921), \fIInf\fR. 24.106                          Doc 2, Screen  1
+
+\fBCosi\*' per li gran savi\fR ecc.: Dante accenna a quello che favoleggiarono della
+fenice i poeti e i dotti dell'antichita\*` e del medioevo (p. es.  \fBPlinio,\fR \fIH.
+N.\fR X 2, Claudiano, \fIIdil.\fR  XLII; rimatori italiani in D'Anc.,  I 115, 510,
+516 e Val.,  I 137, 290, 297, II 24, 210, 510; B. Latini, \fITesoro\fR VI 26
+ecc.), ma nella sua descrizione egli segue massimamente Ovidio, \fIMet.\fR XV 392:
+\*(lqUna est, quae reparet seque ipsa reseminet, ales: Assyrii phoenica vocant.
+\fINon fruge neque herbis, Sed turis lacrimis et succo vivit amomi.  Haec ubi
+quinque suae complevit saecula vitae\fR, Ilicet in ramis tremulaeque cacumino
+palmae Unguibus et puro nidum sibi construit ore, Quo simul ac casias \fIet
+nardi lenis aristas Quassaque cum fulva substravit cinnama myrrha, Se super
+imponit\fR, finitque in odoribus aevum\*(rq.  \fBsavi\fR: ha detti gia\*` Omero e
+\fBVirgilio,\fR Orazio, Ovidio e Lucano (\fIInf.\fR IV 110).  \fBSi confessa\fR: si
+dichiara, si attesta.
+
+.)b
+These displays show the formatting of commentary text and also
+illustrate the DDP style of citations.
+The first document is from the Bosco/Reggio commentary, published in
+1979, commenting on PURGATORY CANTO 26, line 34;
+the second is from the Casini/Barbi commentary, published in 1921,
+commenting on INFERNO CANTO 24, line 106.
+The occurrences of the searched-for words are highlighted.
+.pp
+The session ends by returning to the main menu and choosing the QUIT
+option:
+.(b
+Enter a search request or option letter (eg \fBQ\fRuit, \fBH\fRelp, \fBL\fRist of options):
+  5: q
+
+Enter \fBNo\fR to cancel signoff [Signoff]: 
+% 
+.)b

@@ -1,0 +1,44 @@
+	|7.~  Che pi@u non s'apareggia mo et issa.  mo et issa sono uno 
+medesmo tempo che l'aretino dice mo del tempo presente e 'l lucchese 
+dice issa di quello che l'aretino dice mo et de converso.  E nota che 
+come mo s'acorda enn uno tempo con issa cos@i inn uno punto s'acorda el 
+fine col lo principio et de converso che sempre el fine @e a uno tempo 
+col lo principio e 'l principio col lo fine.  etc.
+
+	|46.~  ^Non corse~.  simillitudine che 'l testo dice assai 
+chiaramente.  che quanto pi@u l'acqua cade pi@u d'alto tanto pi@u 
+veloce @e presso al suo fine del lo[co] en chui essa cade no i corre.
+
+	|61.~  ^Elli av@iano~ cappe dorate de fore.  et dentro de piombo gravi 
+tanto che fedderigo.  el re federico de cicilia fac@ia morire i sui 
+condannati vestiti de cappe de piombo tanto gravi che morivano 
+stentando.  etc. a questi ipocriti dice che sono dorate de fore s@i che 
+li abaglia.  per dimostrare la loro falset@a che dentro son pieni de 
+gravissimi peccati et mostrano d'esare santi abagliando prima se 
+medesmi poi coloro che vegono de fore.
+
+	|80 [chiose latine].~  [^interlineare~] quasi dicat.  expecta eos et 
+postea vadas simul cum eis.
+
+	|103.~  ^Frati gaudenti~.  Questi fuoro doi frati li quali erano 
+tenuti santi et per la loro buona vita el lo parere de fore fuoro 
+chiamati dai ghibellini et dai ghelfi di firenza in concordia che 
+questi frati avessaro autorit@a a pacifficarli ensiemi.  questi come 
+falsi corrocti per denari presaro l'una parte onde i ghibellini foro 
+cacciati di firence et feciero s@i che anco se pare intorno dal 
+gardingho.  ci@o @e quel luogo cos@i chia[ma]to nel quale erano li 
+casamenti de i l'uberti alora desfacti dove se dice ch'@e 'l palagio 
+dei priori de firenze.  l'uno de questi frati av@ia nome catalano et 
+l'altro loderingho.
+
+	|115.~  ^Me disse quel conficto~.  chostui fu caifasso che consigli@o 
+essendo sommo pontefice quello anno el lo tempio dei giuderi.  disse 
+contra iesu christo che convenia che uno omo morisse a ci@o che 'l 
+popolo non perisse tucto.  dicendo se christo vive tucto el popo[lo] li 
+vir@a derietro.  e convertirebbe alla sua falsa doctrina.  questo 
+consiglio fu per li giuderi la mala semente per@o che ne fuoro tucti al 
+fine diserti cacciati de jerusalem et sparsi per lo mondo.  Et nota che 
+lo spirito santo li fece cos@i profetare.  ma nol lo intese ch'elli era 
+de necessit@a che jesu christo morisse per ricomperare l'umana 
+generazione.
+

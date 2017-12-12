@@ -1,0 +1,107 @@
+	|7.~ |(ed.  Rosini)~
+^Canto~, ripigliamento.  [Da Fino]
+
+	|9.~ |(ed.  Rosini)~
+^Rifuse~, riflett@e.  [Da Fino]
+
+	|10.~ |(ed.  Rosini)~
+Tenera nube.  [richiamo marginale] [Sessa]
+
+	|10-16.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|13.~ |(ed.  Rosini)~
+^Quel di fuori~, Iride.  [Da Fino]
+
+	|14.~ |(ed.  Rosini)~
+^Vaga~, Eco.  [Da Fino]
+
+	|16.~ |(ed.  Rosini)~
+^Presaga~, indovina.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+^S'allaga~, per il Diluvio.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+Tripudio.  [richiamo marginale] [Sessa]
+
+^Tripudio~, ballo.  [Da Fino]
+
+	|23.~ |(ed.  Rosini)~
+^S@i del cantare, e s@i del fiammeggiarsi.  S@i~ e ^s@i~: ^S@i del 
+cammino, e s@i della pietate.~  (Inf. c. II v. 5).  [Sessa]
+
+	|26.~ |(ed.  Rosini)~
+I move.  [richiamo marginale] [Sessa]
+
+Comparazione.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+Come si volge l'ago alla stella con la calamita.  [Da Fino]
+
+	|32.~ |(ed.  Rosini)~
+^Duca~, S. Domenico.  [Da Fino]
+
+	|35.~ |(ed.  Rosini)~
+Ad una.  [richiamo marginale] [Sessa]
+
+	|38.~ |(ed.  Rosini)~
+^Riarmar~, salvare.  [Da Fino]
+
+	|46.~ |(ed.  Rosini)~
+Descrive il luogo di Spagna.  [Da Fino]
+
+	|50.~ |(ed.  Rosini)~
+^Foga~, cammino.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+Drudo.  [richiamo marginale] [Sessa]
+
+	|56.~ |(ed.  Rosini)~
+Atleta.  [richiamo marginale] [Sessa]
+
+	|61.~ |(ed.  Rosini)~
+Sponsalizie.  [richiamo marginale] [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+Si nominava Domenico.  [Da Fino]
+
+	|83.~ |(ed.  Rosini)~
+^Taddeo~, Dottore.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Verace manna~, la scienza legale.  [Sessa]
+
+	|92.~ |(ed.  Rosini)~
+^Primo vacante~, benefizio.  [Da Fino]
+
+	|96.~ |(ed.  Rosini)~
+Santi.  [Da Fino]
+
+	|100-108.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+Il bene @e guasto.  [Da Fino]
+
+	|117.~ |(ed.  Rosini)~
+Vanno alla rovescia.  [Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+^Loglio~, zizania.  [Da Fino]
+
+	|127.~ |(ed.  Rosini)~
+^Io son la vita di Bonaventura.  Vita~, in questo senso.  [Sessa]
+
+	|129.~ |(ed.  Rosini)~
+^Sinistra cura~, l'azione.  [Sessa]
+
+	|135.~ |(ed.  Rosini)~
+^Libelli~, libri.  [Da Fino]
+
+	|142.~ |(ed.  Rosini)~
+Inveggiare.  [richiamo marginale] [Sessa]
+
+	|144.~ |(ed.  Rosini)~
+^Latino~, sermone.  [Da Fino]
+

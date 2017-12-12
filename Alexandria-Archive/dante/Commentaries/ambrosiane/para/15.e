@@ -1,0 +1,81 @@
+	|1.~  ^Benigna~ -- Scilicet caritativa.  ^Se liqua~ -- Scilicet 
+liquescit.
+
+	|14.~  ^Foco~ -- Vapor siccus accensus in aere.
+
+	|17.~  ^S'acende~ -- Hic probat quod non est stella que moveatur de 
+loco suo, sed ille vapor accensus.
+
+	|20.~  ^Astro~ -- Spiritus lucens ex beatitudine sua.
+
+	|22.~  ^Nastro~ -- Frigium sive bendella.
+
+	|24.~  ^Alabastro~ -- Lapis clarior marmore, transparens et lucidus.
+
+	|25.~  ^L'ombra~ -- Effigies anime.  ^Anchise~ -- Patris Enee.
+
+	|26.~  ^Musa~ -- Virgilii VI ^Eneidos~.
+
+	|27.~  ^Elisio~ -- Campus purgatorii secundum poetas.  ^Fillio~ -- 
+Scilicet Enee.
+
+	|28.~  ^O sanguis~ -- Quasi dicat: nulli umquam contingit ut bis ianua 
+celi pateret, scilicet in carne existenti et morienti.  Et est textus 
+sic: <O sanguis meus, o superinfusa / gratia Dei> admirative, et redit 
+causam admirationis interrogative sic: <Cui bis celi ianua reclusa 
+sicut tibi?>, et respondet aprobative: <Numquam>, idest numquam 
+contingit alicui nisi tibi.
+
+	|40.~  ^Election~ -- Scilicet studiose.
+
+	|43.~  ^Affecto~ -- Scilicet gratitudinis in Deum.
+
+	|49.~  ^Degiuno~ -- Verbe Anchise ad Eneam VI ^Eneidos~ sunt hec 
+videlicet: <Venisti tandem tuaque expectata parenti / vicit iter durum 
+pietas? datur ora tuere, / nate, tua>.
+
+	|50.~  ^Volume~ -- Scilicet libro prescientie Dei.
+
+	|55.~  ^Mei~ -- Scilicet veniat, procedat.
+
+	|56.~  ^Primo~ -- Scilicet cognitione divina.
+
+	|79.~  ^Ma vollia et argomento~ -- Scilicet singulares cause, sed 
+contra in beatis in quibus est communitas caritatis.
+
+	|93.~  ^Cornice~ -- Scilicet purgatorii.
+
+	|94.~  ^Bisavo fue~ -- Scilicet vocatus Aldechierius.
+
+	|95.~  ^Fatiga~ -- Quia in primo vestibulo purgatorii in quo sunt illi 
+qui fuerunt negligentes confiteri peccata; vel erat inter superbos sub 
+pondere saxi.
+
+	|97.~  ^Cerchia~ -- Murorum iuxta domum de Riccis citra sanctum 
+Iohannem.
+
+	|98.~  ^Terza et nona~ -- Ab ecclesia Sancte Marie Ughi, cuius campane 
+sono alie ecclesie Florentine pulsantur ad horas.
+
+	|107.~  ^Sardanapalo~ -- Ostentuosus in supellectilibus et apparatu 
+quod Deo displicet.  Sic de Ezechia rege Iude dicitur quod ostendit 
+nunctiis regis cameram aromatum, propterea redarguto.
+
+	|109.~  ^Monte malo~ -- Prope Romam, ubi delectabantur lascivire 
+Romani.
+
+	|110.~  ^Ucellatoio~ -- Mons supra Florentiam.
+
+	|128.~  ^Cianghella~ -- De Tosinghis domina loquacissima et 
+curiosissima in apparatu et ornatu.  ^Lapo~ -- Doctor valens in 
+politica et apparens in civitate.
+
+	|129.~  ^Cincinnato~ -- Consul Rome modestissimus celebriter 
+memorandus.  ^Cornillia~ -- Uxor Scipionis modestissima.
+
+	|139.~  ^Corrado~ -- Tertium Corradum imperatorem anno Domini MC.
+
+	|143.~  ^Popol~ -- Sarracenorum.
+
+	|144.~  ^Pastor~ -- Ecclesiam negligentis.
+

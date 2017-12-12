@@ -1,0 +1,74 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.29.03;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Does a rough clean up and formatting of .k files.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+:	reform   input  output
+:
+:		Does a rough clean up and formatting of .k files.
+
+if
+	test $# -ne 2
+then
+	echo "Usage: reform  input  output"
+	exit 1
+fi
+if
+	test ! -r $1
+then
+	echo "$1 does not exist"
+	exit 1
+fi
+if
+	test -s $2
+then
+	echo -n "$2 already exists.  Type y to continue - "
+	if
+		read REPLY
+		test "$REPLY" != "y"
+	then
+		exit 1
+	fi
+fi
+
+echo -n "Additional sed script file (RETURN for none) - "
+read OPTSED
+if [ $OPTSED. != . ]
+then
+	if [ ! -r $OPTSED ]
+	then
+		echo $OPTSED is not a valid file.
+		exit 1
+	fi
+	OPTSED="-f $OPTSED"
+fi
+
+LIB=$Dante/lib
+
+echo re-formatting $1
+sed -f $LIB/cleank2.sed $1 |
+nroff $LIB/cleank.nr - |
+uniq |
+sed -f $LIB/cleank3.sed > $2 
+wc $1 $2
+@

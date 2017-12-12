@@ -1,0 +1,24 @@
+..COMM:
+Guido
+..DTYP:
+D
+..LANG:
+Latin
+..AUTH:
+Guido da Pisa
+..PUBD:
+1327-28[?]
+..PUBL:
+[^Inferno only~]
+Guido da Pisa's Expositiones et Glose super Comediam Dantis,
+or Commentary on Dante's Inferno.  Edited with Notes and an
+Introduction by Vincenzo Cioffari.  Albany, N.Y., State University
+of New York Press, 1974.
+..ATTR:
+copyright
+..DENT:
+KDEM
+..EDTR:
+Vincenzo Cioffari.
+Text checked by Robert Hollander with assistance from Kyung Han.
+..LODD:

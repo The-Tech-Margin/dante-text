@@ -1,0 +1,282 @@
+	|Proemio.~  Canto XX+o~ dove tracta de l'indovini et
+sortilegi encantatori et de l'origine de Mantua -- di che
+tractare diede cagione Manto in Cartagine -- et di llor pene et
+misera condicione ne la quarta bolgia, in persona di Michele
+Scocti et de pi@u altre.
+
+	In hoc capitulo auctor tractat de quarta specie fraudis,
+scilicet de divinatione, et de pena quam anime delinquentium in
+ea in hoc mundo vivendo patiuntur in Inferno.  Nam fingit hic
+auctor eas habere vultum revolutum ad renes sive ad dorsum et ire
+plorando ita retrorsum, ut dicit textus.  Et, ut partim
+procedamus, dicam et instabo primum circa allegoricum sensum
+dicte pene, secundo dicam quod sint specie divinationis, tertio
+et ultimo que recitanda sunt ystorice narrabo circa personas hic
+per ipsum auctorem nominatas.
+
+	|10-15.~  Ad primum igitur veniendo ita premicto.
+^Solius Dei est prescire futura, qui in sua contemplatione etiam
+angelos illa prescire facit~, ut ait Gratianus in ^Decretis.~
+Igitur volendo homo in hoc mundo vivendo futura ex se prescire,
+vult se per consequens Deum facere.  Unde Ysaias ait contra
+tales: ^Priora et novissima annuntiate michi, et dicam, quia Dii
+estis.~  Et sic homo, recedendo a terminis sue nature humane, que
+talia nequit prescire -- unde Virgilius: ^Nescia mens hominum
+fati sortisque future~; et Lucanus in III+o~: ^Sortisque deorum/
+ignarum mortale genus~ -- obliquatur in visu intellectus ad
+impossibile, revolvendo talem visum ad id, quod est nobis retro
+et videre non possimus, ab hic que sunt ante nostrum visum,
+scilicet preterita et presentia, possibilia nobis ad videndum.
+Ad quod etiam Gualfredus in sua ^Poetria~ ait: ^Attamen istud --
+scilicet quid futurum -- / unde scies?  Quid ages?  volucrum
+rimaberis aure/ murmura?  vel motus oculo?  vel Apolline fata?/
+tolle mathematicos!  Est augur surdus et aruspes cecus et ariolus
+amens.  Presentia scire/ fas homini, solique Deo prescire
+futura.~  Quem etiam talem allegoricum sensum forte traxit auctor
+ab eo quod ait Ysaias, sic dicens in capitulo XLIIII+o~: ^Deus
+irrita facit signa divinorum, et ariolos in furorem vertit./
+Convertens retrorsum tales sapientes:....~  Et hoc quantum ad
+primum.
+
+	|28-30.~  Modo ad secundum veniamus, querendo scilicet
+quid sit divinatio et quod sint eius species.  Divinatio idem est
+quod falsa prophetia.  Nam Augustinus in libro ^De natura
+demonum~ inquit: ^Divini dicti sunt, quasi deo pleno.  Nam
+divinitate se esse plenos stimulant, et astutia quadam
+fraudolentia hominibus futura coniectant.~  Species vero
+divinationis premisse multe sunt, quarum due non proprie sed
+accidentaliter contingunt, videlicet astrologia et sortilegium.
+Nam tunc est species divinationis astrologia, cum astrologus
+excedit eius terminos qui consistunt inter necessarium et
+contingens, secundum Tholomeum, predicendo futura et asserendo
+que se habent adesse et non esse, non que se habent adesse
+tantum, ut sunt eclipses solis et lune.  Unde dicit Glosa, super
+quodam ^Decreto~ ita incipiente: ^Non licet Christianis observare
+et colere elementa, aut lune vel stellarum cursus, aut inanem
+signorum fallaciam pro domo facienda, vel propter segetes vel
+arbore plantandas, vel coniugia socianda~: ^Numquid reprehenditur
+astrologia, numquid per ventos et dispositionem lune licitum est
+rusticis considerare tempus seminandi et medicis tempus potionum
+et minutionum certe sit, sed ille actus reprobus est, cum
+creditur inesse necessitatem superioribus: nam non est dicendum
+superiora esse causas rerum, licet rerum sint signa.~
+Concludendo inde textus dicti ^Decreti~ cum Paulo dicente:
+^Omnia, que facitis aut in verbo, aut in opere, omnia in nomine
+Christi facite, in quo vivimus, movemur et sumus.~ Et alibi:
+^Idem Apostolus ait illis, qui constellationes et futurorum signa
+custodiunt: 'Dies observatis, et menses, et tempora, et annos.
+Unde timeo, ne forte sine causa laboraverim in vobis'.~  Et per
+hoc Augustinus ^in libro Psalmorum~ ait: ^Astrologia apud
+catholicos in desuetudinem abiit, quia, dum propria curiositate
+his homines nimis erant intenti, minus vacabant hiis, que pro
+salute animarum erant accomodata.~  Quem excessum astrologorum
+lex ^Digestorum~ respiciens ita decrevit: ^Si quis astrologus vel
+qui aliquam illicitam divinationem pollicetur, consultus aliquem
+furem dixerit, capite puniantur si non erat.~ Sors autem sive
+sortilegium tunc est etiam species divinationis, cum fit per
+magicas incantationes vel ad exercendas vanitates vel ad
+inquirendum aliqua occulta.  Nam ex ^Penitentiali~ Theodori
+tracta est decretalis dicens: ^In tabulis vel codicibus vel
+astralabio sorte futura non sunt inquirenda.~  Ad hoc etiam
+Ysidorus ^Etymologiarum~ ait: ^Sortilegi sunt qui sub nomine
+ficte religionis per quasdam, quas sanctorum seu Apostolorum
+vocant sortes, divinationis scientiam profitentur, aut
+quaruncumque scripturarum inspectione futura promictunt.~  Tamen
+sors tunc non est species divinationis nec in se mala est, cum
+causa necessitatis fit: nam ubi abest humanum auxilium, possumus
+recurrere ad divinum, ut dicitur in ^Decretis.~  Unde Beda ^super
+Actibus Apostolorum~ ait: ^Si qui aliqua necessitate compulsi
+Deum putant sortibus esse consulendum exemplo Apostolorum qui
+Mathiam sorte eligerunt in apostolum, videant hoc ipsos Apostolos
+non nisi collecto fratrum coetu et precibus fusis ad Deum hoc
+egisse.~  Nam et legitur ^Iosue~ capitulo VII+o~ Deum precepisse
+ipsi Iosue ut sortibus exquireret; quo peccante populus cadere in
+manibus hostium meruerat et sic sorte Achor inventus est furator
+et lapidatus est.  Item legitur primo ^Regum~ capitulo XIIII+o~
+scilicet quod Saul sorte invenit Ionatam, eius filium, comedisse
+ante occasum solis contra edictum eius et ad preces populi ei
+morte remisit.  Idem et in Testamento Novo factum est de Mathia,
+ut modo dixi, ut legitur ^Actum Apostolorum~ capitulo primo.  Ad
+hoc Augustinus ^in libro ^Psalmorum~ predicto suo etiam ait:
+^Sors non est aliquid mali: sed res in humana dubietate divinam
+indicans voluntatem.~  Tamen dicit Gratianus quod prohibita est
+sors, ne sub hac specie divinationis ad antiquos ydolatrie cultus
+redeatur.  Inter alias vero species vere divinationis sunt
+incantatores, ita dicti quia artem verbis peragunt ac sine ullo
+veneni haustu, violentia tamen carminis, interimunt.  Unde
+Lucanus: ^Mens hausti nulla sanie polluta veneni,/ incantata
+perit~ etc. Sunt et malefici, scilicet qui, artem magicam
+exercendo, vitas innocentum insidiantur et animum mulierum ad
+libidinem provocant.  Sunt et auruspices, qui in aura
+divinationes suas faciunt -- quam artem primo fertur invenisse
+ille Tages, qui, arante quodam rustico, subito ex glebis exiluit
+et dictavit hanc artem et eadem die mortuus est.  De quo tangit
+Lucanus in fine primi libri ibi: ^Sed fibris sit nulla fides; sed
+conditor artis/ finxerat ista Tages~ etc. -- Item sunt et
+auspices et augures, dicti ab augerio quod aves gerunt, ut
+faciebat ille Ramnes occisus a Niso, qui augur Turni erat.  De
+quo et de cuius artis fallacia tangit Virgilius ibi: ^Rex idem et
+regi Turno gratissimus augur,/ sed non augurio potuit depellere
+pestem.~ Sunt et arioli, qui circa aras hoc faciunt ut
+piromantici in igne, ydromantici in aqua, geomantici in terra,
+eromantici in aere, nigromantici cum mortuis, qui omnes et alii,
+quos omicto nominare quia longum esset dicere, a potentia dyaboli
+hoc agunt.  Nam Augustinus ^De civitate Dei~ in hoc ait: ^Hec
+potestas demonibus datur, ut perversos sibi aptent, hoc est
+pravos homines, seducant illos qui spernunt veritatem et credunt
+mendacio.  Et permissionem etiam Dei, qui omnia, que fiunt, aut
+iusto iudicio facit, aut suo permissu ita fieri sinit, ut qui
+vident ab huiusmodi mathematicis et divinatoribus que dicuntur
+evenire et egrotis prebere medelam et sanis immictere
+egritudinem, non tamen debent eis credere.~  Nam hoc fit et
+permictitur ut probentur homines et appareant quali fide vel
+devotione erga Deum sint.  Unde in ^Deutronomio~ capitulo XIII+o~
+inquit Moyses populo ex verbo Domini: ^Si surrexerit in medio tui
+propheta, aut si per sompnium se vidisse dicat,/ et predixerit
+signum atque portentum,/ et venerit quod locutus est,/ (...):/
+Non audies verba prophete...:/ quia temptat vos Deus,/ ut palam
+fiat an diligatis Deum nec non....~ Unde in capitulo XVIII+o~
+eodem libro concludendo dicitur: ^Ne sis maleficus, nec
+incantator,/ ne phitones consulas, nec divinos.~  Et ^Levitico~:
+^Non declinetis ad magos,/ nec ab ariolis aliquid sciscitemini.~
+Item etiam et Tullius in libro ^De divinatione~ hos improbat
+etiam ut Gentilis.  Et hoc quantum ad secundum.
+
+	|34-36.~  Ad tertium et ultimum veniendo, dico quod iste
+Amphiaraus, nominatus hic primo per auctorem, ut scribit Statius
+in VII+o~ et Ovidius in VIIII+o~, summus vates et vaticinator
+fuit et rex Grecus, qui in obsidionem Thebarum, facta per
+Adrastum regem ad instantiam Polinicis eius generi -- de quo
+scripsi supra in capitulo XIIII+o~ et in Purgatorio in capitulo
+XII+o~ -- una die cum toto curru suo absortus est a terra, ut
+fuit ille Datan, de quo ait Psalmista dicens: ^Aperta est terra,
+et deglutivit Datan:/ et operuit super congregationem Abyron.~
+
+	|40-45.~  Inde tangit de Tiresia Thebanus, qui, dum
+semel, ut fabulose recitat Ovidius in III+o~, duos serpentes
+coeuntes cum sua virga dirimet eos percutiendo, effectus de
+masculo femina et ita mansit per VII annos; postea ab ipso etiam
+percussit hisdem serpentibus, iterum effectus est masculo de
+femina.  Unde iocose semel disputando Iuppiter cum Iunone eius
+coniuge, quis scilicet maiorem voluptatem et delectationem
+perciperet in coeundo, an homo an feminam, compromiserunt se in
+hunc Tiresiam, ex eo quod utrumque sexus expertus esset, qui
+breviter sententiavit quod femina.  Quam oppinionem tenebat
+Iuppiter: unde dicta Iuno, ad hoc indignata, cecari fecit dictum
+Tiresiam.  Iuppiter vero, ut dicit Ovidius ibi, ipsum
+remunerando, ipsi Tiresie ^scire futura dedit penamque levavit
+honore.~  Et Oratius in ^Sermonibus~, dirigendo in persona
+Ulixis, qui et Laertiades dicitur a Laerte suo patre, Tiresiam,
+sic ait: ^'Nam furis?  an prudens ludis me obscura canendo?'/  ^O
+Laertiade, quicquid dicam, aut erit aut non:/ divinare etenim
+magnus michi donat Apollo~ etc.  Ad quod Fulgentius ait: ^Grecia
+quantum est stupenda mendacio, tantum est admiranda commento.~
+Dicit enim Lactantius quod poete non mendacia sed vera
+cecinerunt, si eorum dicta cum intentione librentur.  Nam hunc
+Tiresiam finxerunt pro cursu temporis et anni, qui in vere ut
+masculus gignit, inde in extate ut femina parit; duo dicti
+serpentes calidum et humidum important, quibus mediantibus
+percussis, idest separatis et coniunctis, annus id facit.
+
+	|46-51.~  Item tangit de Aronta, summo augure olim
+morante in montibus illis marmoreis Lune, qui supersunt ville
+Carrarie, qui Romanis dubiis et eventu Cesaris de Gallia contra
+Pompeium per intestina cuiusdam vituli sinistrum presagium
+prebuit. De quo sic ait Lucanus in fine primi libri: ^Hec propter
+placuit Tuscos de more vetusto/ acciri vates.  Quorum qui maximus
+evo/ Arons incoluit deserte menia Luce,/ fulminis edoctus motus
+venasque calentes/ fibrarum et monitus errantis in aera penne.~
+
+	|52-57.~  Item tangit de Mantos, filia dicti Tiresie, que
+ivit errando per mundum, ut dicit hic auctor, mortuo dicto eius
+patre et facta serva civitate Bacchi, scilicet civitate Thebarum
+in qua Bacchus colebatur et unde dicta Mantos oriunda erat.  Nam,
+occisis ad invicem in singulari bello Etheocle et Polinice
+fratribus ert regibus, ut scribit Statius in XI+o~, Thebarum
+dicte civitatis, Creons tyrampnus quidam dictam civitatem
+accepit.  In qua crudelissime se gerendo Evagnes, uxor olim
+Capanei, egit ut Theseus, dux Athenarum, dictam civitatem
+Thebarum abstulit de manibus dicti Creontis et facta est
+tributaria sibi.  Demum fundavit civitatem Mantuanam ipsa Mantos,
+et ab ipsa est ita nominata, ut dicit auctor hic.
+
+	|58-93.~  Ex qua sumit scribendi causam lacum Garde, qui
+Benacus dicitur, quomodo scilicet iacet iuxta montes dirimentes
+Lombardia ab Alamania iuxta comitatum Tirali, vocando dictos
+montes sub nomine Apenini, ut vocantur alii montes dirimentes
+ipsam Lombardiam a Tuscia, ex eo quod quilibet dictorum montium
+protrahuntur a montibus unde Annibal cum Penis transivit in
+Ytaliam: nam a dictis Penis, idest ab Affricanis, dicitur
+Apeninus.  Item dicit quomodo dictus lacus in parte est in
+diocesi tridentina, in parte in diocesi Brixiensi, in parte in
+diocesi veroniensi.  Et ideo episcopi dictarum civitatum per eum
+lacum navigantes possent signare benedicentes ibi diversimode cum
+manu gentes, ut faciunt per alia loca eorum diocesum.  Dicendo
+quomodo de dicto lacu iuxta castrum Pischerie exit quidam fluvius
+dictus Mincius, qui circa Mantuam facit lacum; inde iterum ut
+fluvius manat quidam usque ad Villam Governi que est in ripa
+Padi.  Item tangit id quod ait Virgilius in X+o~ de iam maiori
+populata gente Mantuana dicens: ^Ille etiam patriis agmen ciet
+Ocnus ab horis,/ fatidice Mantos et Tusci filius amnis,/ qui
+muros matrisque dedit tibi, Mantua, nomen/ Mantua, dives avis;
+sed non genus omnibus unum:/ gens illi triplex, populi sub gente
+quaterni,/ (...)./  Hinc quoque quingentos in se Mezentius
+armat,/ quos patre Benaco velatus arundine glauca/ Mincius
+infesta ducebat in equora pinu.~
+
+	|94-96.~  Tangendo quomodo olim Dominus Pinamontus de
+Bonacolsis de Mantua sua astutia tractavit cum comitibus de
+Casalodi de dicta civitate expellere de Mantua omnes alios
+magnates, faciendo eis credere quod inde dominium dicte civitatis
+esset comune inter eos.  Quo ita facto, dictus Dominus Pinamontus
+postea dictos comites etiam expulit de dicta civitate Mantue.
+
+	|106-114.~  Inde tangit de Euriphilo, augure de Grecia.
+De quo Virgilius in sua tragedia, idest in II+o Eneidos~, eius
+poematis, in persona Synonis proditoris, recitantis falso et
+ficte Troyanis de ficto equo ligneo dimisso a Grecis in castris
+eorum ait: ^Suspensi Euriphilum scitantem oracula Phebi/
+mictimus, isque aditis hec tristia verba reportat:/  'Sanguine
+placastis ventos et virgine cesa' ~ etc.  Scribit enim Dictis
+quod Calcas, augur Troyanorum, ivit ad Delphos insulam
+scisciturus ab Apolline de eventu obsidionis Troyane future et,
+cum responsum accepisset infaustum pro Troyanis, divertit ab
+illis et ivit ad Grecos.  Unde subdit testualiter prefatus Dictis
+ystoricus: ^Achivi gaudent, Calcantem secum recipiunt, classem
+selvunt.  In terra Aulide cum eos tempestates tenerent, Calcas
+respondit ex augurio ut redirent in Aulidem.  Profecti veniunt
+ubi immolata Polisena, filia Menelai, Diane, habito puncto ab
+istis Euriphilo et Calcante versus Troyam prospere vadunt.~
+
+	|115-120.~  Fingendo inter tales auctor etiam umbram
+Michelis Scocti, qui in arte magica fuit summus; item umbram
+Guidonis Bonacti de Forlivio et Asdentis Cedronis de Parma,
+divinatorum.
+
+	|121-123.~  Ultimo ostendit quomodo multe mulieres, dum
+deberent instare feminicis ministeriis texendo et filando,
+instant maliis, idest maleficiis, cum erbis et ymaginibus cereis.
+Contra quas ita scribitur in quodam ^Decreto~ ex Concilio Martini
+pape: ^Nec in collectionibus erbarum, que medicinales sunt,
+aliquas incantationes liceat actendere, nisi cum simbolo et
+oratione dominica.~  Et subditur idem: ^Mulieribus quoque
+Christianis non licet in suis lanificiis vanitatem observare, sed
+Deum invocent adiutorem, qui eis sapientiam texendi donavit.~
+Contra quas tales etiam muliercolas ita dicitur in quodam
+^Decreto~: ^Illud etiam non est commictendum, quod quedam
+scelerate mulieres retro post Sathanam converse, demonum
+illusionibus seducte, profitentur, se cum Diana nocturnis horis
+dea paganorum, vel cum Herodiade, et innumera multitudine
+mulierum equitare super bestias, et circuire spatia multa...  Sed
+utinam hee sole in perfidia sua perissent, et non multos secum
+infidelitatem traxissent.~
+
+	|124-130.~  Dicendo in fine auctor: ^Tunc iam ortus erat
+sol in isto emisperio nostro~ per illa verba que Chaim et spine,
+idest luna, ut etiam dicit iste auctor in capitulo secundo infra
+in Paradiso, iam erat in Occidente sexta decima, sequendo in hoc
+idiotas et pueros fabulose dicentes nigredinem illam, quam
+videmus in luna, esse Chaym ardentem ibi in spinis.  Quam falsam
+opinionem auctor aperit et declarat in dicto secundo capitulo
+Paradisi.
+

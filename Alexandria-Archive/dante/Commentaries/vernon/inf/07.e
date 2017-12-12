@@ -1,0 +1,184 @@
+	|Proemio.~  Incomincia il settimo C.o
+
+	|1-21.~ 
+	^Pape satan pape ssatan aleppe~
+^Cominci@o Pluto colla vocie chioccia~
+^E quel savio gientile che tutto seppe.~
+
+Poi che 'l nostro altore ha trattato nel chapitolo paxato del vizio 
+della ghola ora in questo chapitolo intende trattare del pecchato della 
+avarizia e della prodighalit@a.  Et divide questo C.o in quatro parti 
+gienerali.  E nella prima parte pone che llui disciende in questo 
+circhulo infernale e tratta della pena degli avari.  Nella terza parte 
+fa una dichiaragione che chosa @e fortuna.  Nella quarta tratta del 
+quinto circhulo infernale.  In questa prima parte l'altore continuando 
+alla materia passata fa chom'egli disciendesse a questo circhulo 
+infernale e tanto vuol dire ^pape ssatan~ quanto amirazione cio@e o 
+diavolo e che quelle simile parole vuol dire ^aleppe~.  E lla ragione 
+@e questa che choloro cio@e ebrei che scrissono la prima lettera si era 
+^aleppe~ la seconda eta e i Greci iscrissono la prima Alpha.  E noi 
+chiamiamo la prima A s@i cche altro none importa questa parola cio@e 
+^Pluto colla vocie chioccia~ cio@e che ll'avaro non ti parla mai chiaro 
+ma doppio o schuro per potere rivochare le sue parole con ogni suo 
+utile e vantaggio e rapire e rubare imper@o che i[n] llor quore ist@a 
+sempre atto a rapire e rubare.  E questa parola che dicie ^E 'l savio 
+gientile che tutto sepe~ o vuogli t#orre per Virgilio o vuogli t#orre 
+per Dante e dicie che questo Pluto per forza ch'egli abbia nogli torr@a 
+l'isciendere di questa rocca dicie che ora @e mortifichato i[n] mme 
+questo vizio i[n] mme d'avarizia il quale regnia universalmente in 
+tutta la giente e dicie che questo egli @e procieduto da dDio di volere 
+mortifichare questo vizio.  E questo dice dove l'altore dicie nel testo 
+^Vuolsi cos@i chol@a dove Michele fe' lla vendetta del superbo strupo~.
+
+	|22-60.~ 
+	^Come fa ll'onda l@a sopra Charriddi~
+^che ss'infrangie con quella in chui s'intoppa~
+^chos@i convien che qui la giente riddi.~
+
+In questa seconda parte l'altore tratta della pena che hanno que' tali 
+pecchatori d'avarizia e di prodighalit@a e danne una similitudine che 
+chi gli mette in un tondo overo cierchio infernale fa Dante sia partito 
+per mezzo cio@e che gli avari vadino insieme a questo mezzo sempre 
+volvendo e voltando gravissimi sassi pesi.  E ' prodighi venghono 
+dall'altra parte del mezzo cierchio e \<venghono dall'altra parte del 
+mezzo cierchio\> incontro agli altri con simile pena diciendo 
+\<diciendo\> i prodighi agli avari in atto di rimprovero perch@e tieni 
+e gli avari dichono a' prodighi perch@e gittasti e gitti via il tuo 
+dicie il prodigho all'avaro che farai di questo avere che nollo lasci 
+ghodere altrui e nollo ghodi tu.  E ll'avaro dicie al prodigho e fanne 
+beffe dicie no' vedi cholui chome ispende il suo e gitta via ma poco 
+tempo far@a chos@i ch'egli andr@a alla merci@e altrui e poi morr@a allo 
+spedale.  E per@o dicie bene un savio che ciaschuno di queste due 
+gienerazioni @e da spergiere ma pi@u l'avaro che 'l prodigho.  La prima 
+ragione @e che 'l prodigho s'achosta pi@u alla virt@u della allegrezza 
+overo larghezza che non fa l'avaro che al tutto se ne schosta.  La 
+seconda ragione @e che bench@e il prodigho gitti via il suo pure 
+alchune volte ne pu@o dare a persone bisognievoli ma ll'avaro non d@a 
+n@e a ss@e n@e altrui.  E puossi somigliare l'avaro al porcho che 
+mentre che 'l porcho vive non se n'ha se no' male danno puzzo e 
+fastidio e quando il porco s'uccide ogni chosa @e buona infine alle 
+setole.  Simile incontra dell'avaro che mentre che vive a ogni persona 
+@e in odio e alla morte sua assai hanno bene del suo i quali non erano 
+suoi.  La terza si @e che 'l prodigho si pu@o amendare ma ll'avaro no' 
+mai che quanto pi@u arricchiscie tanto pi@u diventa giovane nella 
+avaritia.  E che fa l'avaro amalato la moglie gli d@a un uovo e poi 
+dicie i' ho mangiato una ghallina l'affetto d'una similitudine di chani 
+e perch@e Dante mette questa similitudine di scontrarsi si @e questa.  
+Tu dei sapere che Italia de' essere tutta in terra insieme choll'isola 
+di Cicilia e per terra si poteva andare insino nell'isola di Cicilia.  
+Ora battendo il mare dall'uno de' llati di monte Tuscho Appennino e 
+dall'altro il mare Adriano per ispazio di tempo ruppono la montagnia in 
+quel luogho ove si chiama lo stretto di Sibilia s@i cche questi mari 
+s'aggiunghono qui insieme l'uno correndo inverso l'altro.
+
+	|61-96.~ 
+	^Or puoi vedere figliuolo la corta buffa~
+^de' beni che son commessi alla fortuna~
+^tutta l'umana giente si rabbuffa.~
+
+In questa terza parte l'altore fa una distinzione la qual toccha a 
+diterminare che chosa @e fortuna e assegnia sopra cci@o quattro belle 
+ragioni.  La prima dicie Democrito che ffu quegli che puose il mondo a 
+chaso chome adietro si racconta in questo libro che ci@o che nascie e 
+viene in questo mondo @e fortuna e questa fu sua oppenione e ffu 
+fallacie.  La seconda disse Aristotile che disse che fortuna era uno 
+enpito naturale e una virt@u la quale viene all'inpito dell'animo.  La 
+terza disse Tolomeo che disse che fortuna @e nelle istelle e ne' 
+pianeti e questa oppenione s'achosta assai alla fortuna e ventura e 
+secondo il pianeto che tti gieneroe e che tti ghoverna ma non ti pu@o 
+t#orre n@e tenere il tuo libero arbitrio secondo nostra fede 
+chattolicha e questa fu sua oppenione.  E assai possiamo comprendere 
+per le chose che tutto d@i veggiamo e rinuovansi e rimuovonsi da un d@i 
+a un altro e veggiamolo per l'impery.  Il primo imperio che fu mai fu 
+in oriente e poi si tramut@o e venne in Persia e poi i[n] Media e poi 
+in Grecia di Grecia a Chartagine in Africha e d'indi a Roma e sempre di 
+bene i[n] meglio venne crescendo infino che dur@o Roma.  E poi anco in 
+Ghallie e di Ghallia in Inghilterra e queste tramutazioni e altre se ne 
+fa tutto d@i e in assai chasi e modi e tutto questo aviene per la 
+influenza del volgiere de' pianeti e lle fami e lle mortalit@a 
+prociedono da' pianeti.  La quarta oppenione @e questa ed @e perfetta 
+che ffu di santo Aghostino e degli altri santi e dottori.  E dicie che 
+fortuna e ventura @e solo la divina provedenza cio@e Idio creatore del 
+cielo e della terra e a questa oppenione s'achost@o Dante e confess@o e 
+predicie chos@i.
+
+	^Colui il cui saper tutto trasciende~
+^fecie li cieli e di@e lor chi conducie~
+^s@i ch'una parte ad ogni parte splende.~
+
+Il nostro creatore cre@o i cieli e ordinogli e simile i pianeti e di@e 
+loro che conduciessono tutte le chose che ffurono mai e che sono e che 
+saranno quanto a llui piacier@a ci@o sono le intelligienzie degli 
+angieli.  Nota quod illud quod antiqui philosophi vocabant fatum i. 
+fortunam nos dicimus divinam providentiam ut dicit Aghustinus versus 
+qui supra est fortuna fattum Dei est providentia fattum.
+
+	|97-120.~ 
+	^Or disciendiamo omai a magior pieta~
+^gi@a ogni stella chade che saliva~
+^quando mi mossi e 'l troppo istar si vieta.~
+
+In questa quarta e ultima parte tratta l'altore di questo quinto 
+circhulo infernale e assai ha diterminato di questo dov'egli vuole 
+trattare dell'ira e degli accidiosi e comincia di qui inanzi di questa 
+canticha a mettere i pecchati alle punizioni di quelli da uno capitolo 
+a un altro.
+
+	^Noi ricidemo il cierchio all'altra riva~
+^sopra una fonte che bolle e riversa~
+^per un fossato che da llei deriva.~
+
+In questa fa in parte l'altore ch'egli truovi una fonte e pozza la qual 
+bolle e di quella acqua che n'escie si fa un fossato e il fossato fa un 
+padule.  Questa @e una bella similitudine a questi versi.  E 'l nostro 
+altore mette prima la fonte e pozza che bolle e non persona dentro.  E 
+lla chagione @e questa che l'ira ch'escie della fonte \<della fonte\> 
+del quore ed escie fuori a llucie chol bollore e poi non seghue pi@u 
+innanzi non peccha per questo mortalmente perch@e il primo movimento 
+della nostra volont@a non @e i[l] nostro albitrio anzi @e di Dio che 
+cie l'ha dato ma il perseverare in bene @e i[l] nostro arbitrio.  E rio 
+che nascie di questo fonte cio@e dal quore e ll'ira pi@u macchiata @e 
+pi@u di pecchato ma lasciandola alla fine gli @e perdonata e per@o non 
+ci mette persona dentro.  Fa u[n] rio la fonte e 'l padule e questo 
+bolle insieme tutto nerissimo e in questo padule truova giente assai e 
+questi sono quelli a' quali @e l'ira loro invecchiata addosso e muoiono 
+chonn essa e qui fa che sieno puniti in questa Istigia la quale @e da' 
+poeti appellata tristizia.  E v#oti dare per questo vizio dell'ira 
+questo exempro in Alexandro imperadore che questo vixio regn@o i[n] 
+lui.  Dicie Senacha ch'essendo una volta Allesandro in oriente e 
+avendolo acquistato tutto ed essendo una volta a mangiare a ttavola 
+cho' suoi baroni inchominciossi a vantare della sua prosperit@a e 
+ventura e ch'egli avea conquistati assai regni i quali il re Filippo 
+suo padre non avea mai potuto conquistare.  Un balio il quale avea 
+nudrito Alessandro in oriente il quale si chiam@o Clito si llo riprese 
+dicendogli ch'egli ghuardasse quello ch'egli diciea per@o che re 
+Filippo era stato savio e valentissimo huomo e questo non si 
+apparteneva a dire a llui.  Allexandro mosso a ffuria gitt@o la tavola 
+per terra e pigli@o uno spedie ch'avea i[n] mano un famiglio e 
+chacciollo per lo fiancho a Glito su' balio e ucciselo.  E stando 
+Allexandro un pezzo che ll'ira chominci@o a ciessare e chogniosciendo 
+il gran fatto ch'egli aveva fatto si rech@o sopra di s@e e pensando si 
+gitt@o con furia sopra quel chorpo morto piangiendo e lamentandosi del 
+suo fallo.  Et crebbegli tanto l'ira che llui si volle uccidere lui 
+istesso con uno coltello.  Ma i suoi baroni ci@o nollo lasciarono fare. 
+ E dopo molte parole e conforti i[l] levarono da ddosso a quel corpo 
+morto e istette tre d@i che mai non volle mangiare n@e bere per volere 
+morire s@i cche cos@i incontra all'iroso che quando e' si ricorda del 
+suo fallo dell'ira auta contro altrui si rivolgie a ss@e medesimo e 
+per@o dicie bene il proverbio dell'ira ^ira sorea e orghogliosa e 
+graffio \<e graffio\> e troncho e mordo chi tronchar posso.  
+Proverbio~.  Come detto @e di sopra l'altore mette qui gli accidiosi e 
+poco si stende a pparlare di loro perch@e @e un pecchato forte e 
+abominevole simile agli sciaghurati e mettegli in questo luogho sotto 
+il pantano il quale fa questa acqua chiara Stigie cio@e sotto tristizia.
+
+	|121-123.~ 
+	^Fitti nel limo dicon tristi fumo~
+^nell'aire dolcie che dal sol s'allegra~
+^portando dentro accidioso fumo.~
+
+Per queste tocchate parole l'altore dicie ch'altro non vogliono dire se 
+non che noi fumo tristi vivendo nel mondo e nel dolcie aire e sole.  
+Ora sian pieni d'ogni male e tristizia sotto questo pantano e mota.  Et 
+questa pena di loro considerando ch'eglino nel mondo mai si 
+rallegrarono e qui facian fine a questo capitolo.

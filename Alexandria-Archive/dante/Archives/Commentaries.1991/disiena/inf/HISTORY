@@ -1,0 +1,9 @@
+Fri Jun 29 10:19:12 EDT 1990 jvs catenated 28.k and 28end.k to 28.kk
+Mon Jul 9 14:14:24 EDT 1990 jvs deleted fragments of 28 and renamed 28.kk to 28.k
+Mon Aug 6 14:05:39 EDT 1990 jvs completed data entry
+Sat Nov 17 22:16:23 EST 1990 jvs deleted old 01.k.Z 02.k.Z 03.k.Z 04.k.Z 05.k.Z 06.k.Z 07.k.Z 08.k.Z 09.k.Z 10.k.Z 11.k.Z 12.k.Z 13.k.Z 14.k.Z 15.k.Z 16.k.Z 17.k.Z 18.k.Z 19.k.Z 20.k.Z 21.k.Z 22.k.Z 23.k.Z 24.k.Z 25.k.Z 26.k.Z 27.k.Z 28.k.Z 29.k.Z 30.k.Z 31.k.Z files
+Mon Dec 10 16:58:21 EST 1990 jvs deleted old 03.kk 04.kk 05.kk 06.kk 07.kk 08.kk 09.kk 10.kk 11.kk 12.kk 13.kk 14.kk 15.kk 16.kk 17.kk 18.kk 19.kk 20.kk 22.kk 23.kk 24.kk 25.kk 26.kk 27.kk 28.kk 29.kk 30.kk 31.kk files
+Thu Mar 28 20:53:26 EST 1991 30 'n 31 have been spliced together
+from their component a 'n b files.  They are OK.
+Tue Apr 23 20:43:03 EDT 1991 jvs deleted old .s.Z files
+Tue Apr 23 21:10:49 EDT 1991 jvs deleted @@ from all .e files

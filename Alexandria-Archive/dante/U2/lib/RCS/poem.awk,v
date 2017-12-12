@@ -1,0 +1,120 @@
+head     1.2;
+access   ;
+symbols  ;
+locks    ;
+comment  @@;
+
+
+1.2
+date     91.06.03.16.37.57;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     87.11.19.09.42.41;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@reformats the Poem from prose to BRS into.
+This is the first version, used on the so called old version of the poem.
+@
+
+
+1.2
+log
+@production version for load of May 1990.
+@
+text
+@##########################################################################
+#
+#	Reformat Divine Comedy for BRS loading
+#
+#  "last" counts the three lines in a triplet: 1,2,3,1,2,3,etc.
+#
+#  "lineno" and "endl" and the beginning and ending line number
+#   of each triplet
+#
+##########################################################################
+#
+#  Skip blank lines
+#
+/^ *$/	{ next }
+#
+# Canto title lines
+#
+$2 ~ /CANTO/	{
+	if ($1 ~ /INF/)
+		CTCA = "10-Inferno"
+	else if ($1 ~ /PURG/)
+		CTCA = "20-Purgatorio"
+	else if ($1 ~ /PARA/)
+		CTCA = "30-Paradiso"
+	CNTO = $3
+	lineno = 1
+	last = 0
+	next
+	}
+#
+#  Last line of triplet.  These have |<line number> on them.
+#
+/\|[0-9]*$/	{
+	split($0,field,"|")
+	line[++last] = field[1]
+	endl = field[2]
+	print "..COMM: Divina Commedia"
+	print "..AUTH: Dante Alighieri"
+	print "..LANG: Italian"
+	print "..DTYP: P"
+	print "..PUBD: 1320"
+	print "..ATTR: copyright"
+	print "..LODD:"
+	print "..CTCA: " CTCA
+	print "..CNTO: " CNTO
+	print "..LINE: " lineno
+	print "..ENDL: " endl
+	print "..TEXT:"
+	for (i = 1; i<=last; i++)
+		print line[i]
+	lineno = endl + 1
+	last = 0
+	next
+	}
+#
+#  Plain text lines
+#
+	{ line[++last] = $0 }
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d1 13
+a13 1
+BEGIN	{ FS = "|"; last = 0; lineno = 1 }
+d15 5
+a19 2
+$1 ~ /^$/	{ split($2,header," ")
+	if (header[1] ~ /INF/)
+d21 1
+a21 1
+	else if (header[1] ~ /PURG/)
+d23 1
+a23 1
+	else if (header[1] ~ /PARA/)
+d25 3
+a27 1
+	CNTO = header[3]
+d30 9
+a38 3
+	{ line[++last] = $1 }
+NF == 2	{ endl = $2
+	print "..COMM: Dante"
+d42 1
+d53 1
+d55 4
+@

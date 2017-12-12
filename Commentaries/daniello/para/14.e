@@ -1,0 +1,349 @@
+	|Proemio.~  Dimostra nel presente canto il Poeta, come
+poi che san Tomaso gli hebbe risoluto il dubbio, & che si tacque,
+Beatrice dimanda @a gli spiriti beati di quelle due ghirlande, che
+gli solvino un dubbio; & dopo molta festa fatta da quelle anime,
+per allegrezza di poter sodisfare alla richiesta, per esser loro
+data occasion d'essercitarsi nelle opere di carit@a, Salamone
+risolve il dubbio proposto da Beatrice al Poeta; poscia come le
+due corone prime furono circondate & rinchiuse da un'altra terza
+corona; & finalmente come con Beatrice si ritrov@o salito al
+quinto giro di Marte, dove pone tutte l'anime di coloro che per
+zelo di Dio, & per la fede, & nel vecchio, & nel nuovo testamento
+havevano combattuto con gli infedeli; & finge che esse anime
+siano in quel cielo dentro una croce, & che per quella si vadano
+movendo s@u & gi@u, & dolcemente cantando, perche il segno della
+croce @e l'insegna de i soldati Cristiani.
+
+	|1-3.~  DAL CENTRO AL CERCHIO.  @E cosa naturale & propria
+dell'acqua posta in un rotondo vaso, muoversi dal centro alla
+circonferenza; & dalla circonferenza al centro, secondo che
+fuori, @o dentro del vaso si percuote.
+
+	|4-8.~  Et questo che egli dice hora del muoversi
+dell'acqua dal centro al cerchio, & da questo @a quello, fece
+subito caso nella sua mente, cio@e gli cadde in mente ci@o, perche
+la sua mente imagin@o questa cosa, tosto che san Tomaso si tacque,
+per la similitudine che nacque del parlar di Tomaso, & di quel di
+Beatrice: & ci@o dice perche il parlar di san Tomaso si mosse dal
+cerchio, ove era detto Santo, & and@o verso il centro ov'era esso
+Poeta; & all'oncontro il parlar di Beatrice movendosi dal centro
+ov'ella era, and@o verso il cerchio, ove era quell'anima beata,
+che il dubbio risolse.
+
+	|9.~  Adunque piacque @a Beatrice dopo NOI, cio@e dopo il
+parlar di Tomaso, & il mio, di cominciar cos@i.
+
+	|10-12.~  @A COSTUI, mostrando loro il Poeta, fa MISTIERI,
+& @e bisogno d'andar @a la radice d'un'altro VERO, cio@e penetrar
+alla cognition della cagione d'un'altra verit@a, perche Scire est
+rem per causam cognoscere; ma non ve lo dice, N@e con la VOCE,
+cio@e non solamente non ve lo esprime in parole; ma n@e PENSANDO,
+cio@e ma non lo pensa ancora.
+
+	|13-15.~  Diteli se la LUCE, se lo splendore, ONDE, della
+qual luce S'INFIORA, per haver detto radice, s'adorna la vostra
+SOSTANZA; l'anima vostra, rimarr@a con voi ETERNAMENTE, cio@e se
+sarete cosi lucide & luminose sempre, come sete al presente:
+
+	|16-18.~  Et se RIMANE, eternamente con voi, intendi; dite
+come poi che voi sarete rifatti VISIBILI, cio@e atti @a poter esser
+veduti, potr@a esser che tal luce non vi NOI, come potr@a essere
+che voi non vi abbagliate, quando harete dopo il gran d@i, ripreso
+la vostra corporea spoglia, & sarete d'invisibili, che hora
+siete, divenuti visibili.
+
+	|19-24.~  Come da piu letitia pinti e tratti Spesse fiate
+quei che vanno @a ROTA, quelli che vanno @a ballo tondo Muovon la
+VOCE, cantano, & cantando & danzando rallegransi: Cosi @a la
+oratione di Beatrice, li santi cerchi mostrar nuova GIOIA, che
+risponde @a quel che disse, rallegrano gli atti; TORNEARE, @a
+quello che vanno @a rota: mira NOTA, risponde poi @a quel Muovon la
+voce.
+
+	|25-27.~  Qual si lamenta perche qu@i si moia Per viver
+col@a S@U, in cielo, non vide quive Lo refrigerio de l'eterna
+PLOIA, cio@e colui che per dover vivere in cielo si lamenta &
+duole di morire qu@a gi@u in terra, non vide quive Lo refrigerio de
+l'eterna ploia, cio@e la felicit@a, & beatitudine sempiterna, che
+se veduta ve l'havesse, volontieri morrebbe per fruirla.
+
+	|28-29.~  QUEL UNO, DUE, E TRE, Padre, Figliuolo, &
+Spirito santo, che sempre VIVE, in numero singulare, & tempo
+presente, perche in Dio non ha luogo n@e preterito n@e futuro.
+
+	|30.~  Non CIRCONSCRITTO, non contenuto da alcun luogo, e
+tutto CIRCONSCRIVE, & tutto in se contiene; onde la Chiesa, Cuius
+supernus artifex Mundum pugillo continens.
+
+	|33.~  giusto MUNO, conveniente guiderdone & merc@e.
+
+	|34-36.~  Et io ud@i ne la luce piu DIA, piu divina del
+minor CERCHIO, cio@e di quello di dentro, che era minor di quello
+di fuori, una voce, forse tale, qual f@u quella di Gabriello
+Arcangelo @a nostra Donna, quando le disse, Ave Maria piena di
+gratia, & cio che segue.
+
+	|37-39.~  & era questa voce quella di Salamone, che disse,
+quanto durer@a la FESTA, la gioia & l'allegrezza di Paradiso,
+tanto il nostro AMORE, tanto l'amore che noi @a DIO portiamo, &
+quello che Iddio @a noi porta, si ragger@a d'intorno cotal VESTA,
+cotal luce, onde noi siamo vestite & fasciate, RAGGER@A, d'intorno
+@a se medesima.
+
+	|40.~  onde soggiugne che la sua Chiarezza, questo
+splendore, seguita l'ARDORE, seguita l'amore & la carit@a, che
+haviamo @a Dio.
+
+	|41-42.~  La VISIONE, cio@e la cognitione di esso Dio
+seguita l'ardore; conciosia che tanto vegniamo @a conoscere Dio,
+quanto noi l'amiamo, dal quale amore nasce detta cognitione di
+lui, in noi, e QUELLA, cio@e visione @e tanta, quanta ha di gratia
+sopra suo VALORE, percioche per i nostri quantunque grandissimi
+meriti non possiamo pervenire @a questa cognitione di Dio, ma la
+sua gratia vincendo l'impossibilit@a nostra ce ne fa habili, &
+rende capaci.
+
+	|43-45.~  Adunque come la carne gloriosa e SANTA, perche
+i corpi de' beati saranno glorificati & santificati in cielo, fia
+rivestita da noi, sar@a ancora pi@u grata, per esser tutta QUANTA,
+perche sar@a ancora piu perfetta; onde nell'Inferno il medesimo,
+Che vuol quanto la cosa @e piu perfetta Piu senta il bene, e cosi
+la doglienza [Dante ^Inf.~ 6.107-108].  Et il maestro delle
+Sentenze dice, che peracto iudicio ampliorem gloriam suae
+claritatis Deus monstrabit in electos [Petr. Lomb. ^Sent.~
+4.49.5].  & nella Sapienza, Fulgebunt iusti & tanquam scintillae
+in arundineto discurrent [Sap. 3:7].
+
+	|46-48.~  onde soggiugne che s'accrescer@a quanto di
+gratuito LUME, cio@e della gratia sua il sommo BENE, Iddio ne
+dona, LUME, per bellissima repetitione, che ne CONDITIONA, cio@e
+che ne fa capaci @a vedere & conoscere LUI, esso sommo bene.
+
+	|49-51.~  Onde la vision crescer conviene, Crescer
+l'ardore, e crescer lo RAGGIO, ci@o dice perche quanto piu amiamo
+Iddio, piu lo conosciamo, & piu conoscendolo, ci facciamo ancora
+molto piu belle, & piu lucenti diveniamo.
+
+	|52-57.~  Ma si come carbon che fiamma RENDE, cio@e cosi
+come il carbone che habbia fiamma, soverchia quella per vivo
+candore; cosi la rivestita carne vincer@a la nostra chiarezza;
+cio@e che la nostra chiarezza non ci torr@a, che noi non siamo
+veduti, cosi questo fulgor che qu@i ne CERCHIA, che ne circonda, &
+fascia intorno, fia vinto in apparenza da la CARNE, cio@e dal
+corpo nostro che hora @e sotterra rinchiuso.
+
+	|58.~  N@e potr@a tanta luce AFFATICARNE, esser molesta &
+grave, & affaticarne la vista, che risponde @a quel che disse di
+sopra, Esser potr@a ch'al veder non vi noi.
+
+	|59.~  E ci@o avverr@a, perche gli ORGANI, li instrumenti
+del corpo saran piu forti, & per conseguenza piu perfetti.
+
+	|61-66.~  Havendo parlato Salamone della resurrettione
+de' corpi nella guisa che veduto habbiamo, tutti quei spiriti
+cominciarono @a dire, AMME, cio@e, cosi sia; cosi dimostrando il
+gran desiderio, che essi haveano de i loro morti corpi, & ci@o non
+tanto per loro, quanto per amor de' padri, delle madri, & de gli
+altri parenti, CHE, @a i quali essi beati spiriti erano stati
+cari, avanti che di qu@a gi@u partendo diventassero in cielo
+sempiterne fiamme; perche desideravano vederli perfetti come
+speravano d'essere essi, dovunque si ritrovassero.
+
+	|67-69.~  Finge il Poeta che dopo che Salamone si tacque,
+vide venire un nuovo splendore sopra quello che vi era avanti,
+che pareva Orizonte, ilquale si rischiarasse.
+
+	|70-72.~  E si come al salir di prima SERA, cio@e nella
+prima parte della sera, quando il mondo per la sopra vegnente
+notte comincia @a divenire oscuro & bruno, Comincian per lo ciel
+nuove PARVENZE, nuove vedute, cio@e stelle, lequali allora si
+vedono & non si vedono; onde soggiugne, che la VISTA, cio@e la
+cosa veduta pare, & non par vera.
+
+	|73-75.~  Parvemi LI, in quel nuovo lustro e serto novelle
+SUBSISTENZE, nuove & non piu vedute sostanze, e far un GIRO, un
+terzo cerchio di fuor dall'altre due CIRCONFERENZE, fuor de gli
+altri duo cerchi, che vi erano prima.
+
+	|76-78.~  onde esclamando dice, Overo sfavillar del santo
+SPIRO, dello Spirito santo, come si fece subito & CANDENTE,
+lucido & risplendente, tanto che gli occhi miei non lo poteron
+soffrire.
+
+	|79-81.~  che tra l'altre vedute Si puo lasciar per non
+seguir la MENTE, cio@e perche la mia mente, non potette in se
+ritenere quanto Beatrice fossi bella & lucente divenuta; simile @a
+quello, Veramente quant'io del regno santo Ne la mia mente puote
+far tesoro, Sar@a hora materia del mio canto [Dante ^Par.~
+1.10-12].
+
+	|83-84.~  & vidimi translato SOL, per rispetto di que' tre
+serti di spiriti beati, che haveva lasciato, ma accompagnato da
+Beatrice @a pi@u alta SALUTE, @a piu alto cielo, ilquale per esser
+piu propinquo che gli altri sotto lasciati, @a Dio, era ancora piu
+vicino alla vera salute.
+
+	|85-86.~  Ben m'accorsi io ch'io era piu LEVATO, piu in
+alto asceso, per l'affocato riso de la STELLA, di esso Marte,
+ilquale ha colore di fuoco, onde @e da Greci chiamato Pyrois,
+perche pyr, in loro lingua fuoco significa; & M. Tullio nel Sonno
+di Scip. dice; Tum rutilis horribilis$que terris, quem Martem
+dicitis [Cic. ^De Re Pub.~ 6.17].
+
+	|87.~  Che mi parea piu ROGGIO, piu rosso che L'USATO,
+cio@e piu di quello ch'io era usato di veder di qu@a gi@u;
+overamente piu rosso, piu infiammato per rispetto di Beatrice,
+che gli accrebbe lume con la sua bellezza, perche havea detto di
+sopra, che piu lucente se ne fe il Pianeta.
+
+	|88-89.~  Con tutto il cuore e con quella FAVELLA, cio@e
+con quella intentione & pensiero, ch'@e il parlare interno della
+mente, ilqual parlar non varia, come soglion variar le lingue, &
+per@o dice esser una in tutti, fece HOLOCAUSTO, sacrificio @a Dio,
+nelquale sacrificio tutta s'ardeva la vittima che @a Dio si
+offeriva; & vien dal Greco, perche OLON, significa tutto, &
+CAUSTON, arso.
+
+	|90.~  Qual conveniasi @a la gratia NOVELLA, come era
+quella che gli havea conceduto Iddio novellamente di salire alla
+stella di Marte.
+
+	|93.~  LITARE.  @e questo verbo Latino, & significa
+sacrificare; onde Virg. Sanguine quaerendi reditus anima$que
+litandum Argolica [Virg. ^Aen.~ 2.118-119].
+
+	|94.~  LUCORE, splendori, ROBBI, rubei alla Latina, cio@e
+rossi.
+
+	|96.~  @O HELIOS, @o eccelso & grande Iddio, come gli
+ADDOBBI.  addobbare, val quello che adornare, & pulirsi.
+
+	|97-99.~  Dimostra che come la Galassia, cio@e la via
+lattea distinta da pi@u stelle picciole & grandi biancheggia tra
+il polo Artico, & l'Antartico, cosi nella stella di Marte
+risplendevano quelle chiare & beate anime, che ivi erano quella
+croce sortite.  La Galassia come il Poeta medesimo afferma nel
+suo Convivio, @e quel bianco cerchio, che il vulgo chiama via di
+san Iacopo, & mostraci l'uno de' poli, l'altro ci tiene ascoso, &
+mostraci un suo movimento da Oriente ad Occidente: & un'altro che
+fa da Occidente in Oriente quasi ci tiene ascoso [Dante ^Conv.~
+2.14.1]; che fa dubbiar ben SAGGI, perche (come dice nel
+preallegato luogo Dante istesso) i Filosofi hanno havuto di lei
+diverse opinioni, che li Pittagorici dissero che il Sole alcuna
+volta err@o nella sua via, & passando per altre parti non
+convenienti al suo fervore, arse il luogo per loquale pass@o, &
+rimasevi quella apparenza della arsura; & credo che si mossero
+dalla favola di Fetonte, laquale narra Ovidio nel principio della
+sua Metamorfosi [Ovid. ^Met.~ 1.748-2.400].  Altri dissero, si
+come f@u Anassagora & Democrito, che ci@o era lume di Sole
+ripercosso in quella parte.  & queste opinioni con ragioni
+dimostrative ritrovarono.  Quello che Aristotele si dicesse, non
+si pu@o ben sapere, di ci@o; per@o che la sua sentenza non si trova
+cotale nell'una translatione, come nell'altra; & credo che fusse
+l'errore delli translatori, che nella nuova par dire, che ci@o sia
+uno ragunamento di vapori sotto le stelle di quella parte, che
+sempre traggono quelli; & questa non pare havere ragione vera. 
+Nella vecchia dice che la Galassia non @e altro che moltitudine di
+stelle fisse in quella parte tanto piccole che di qu@a gi@u
+distinguere non le possiamo, ma di loro apparisce quello albore,
+loquale noi chiamiamo Galassia.  & pu@o esser che il cielo in
+quella parte @e pi@u spesso, & per@o ritiene & ripresenta quello
+lume.  Et questa opinione par haver con Aristotele, Avicenna, &
+Tolomeo [Dante ^Conv.~ 2.14.5-7].
+
+	|100-102.~  CONSTELLATI, cosi uniti insieme quei RAI, que'
+beati spiriti facean nel profondo Marte, nella profondit@a di tal
+pianeta, il venerabil SEGNO, quello della croce, che @e da noi
+Cristiani (ma non gi@a tanto quanto si conviene) venerato, &
+adorato; CHE, ilqual segno, & @e quarto caso; giunture di
+quadranti in tondo, soglion formare, in questa maniera, & pone il
+segno della croce in questo Pianeta, ilquale si dice esser sopra
+le guerre, percioche quello soglion portare i soldati Cristiani
+nel petto, quando contra gli infideli combatteno; @o forse allude
+@a quel che dice nel suo Convivio, che @e che in Firenze nel
+principio della sua destruttione f@u veduta nell'aere in figura
+d'una croce grandissima quantit@a di vapori, seguaci della stella
+di Marte [Dante ^Conv.~ 2.13.22].
+
+	|103-108.~  Qu@i vince la memoria mia l'INGEGNO, cio@e io mi
+ricordo bene come in quella croce lampeggiava Cristo; ma come, @o
+in che modo vi si lampeggiasse, non saprei bene ridirlo, n@e
+trovar similitudine, che se gli confacesse, @o quadrasse bene
+giamai, & per@o dice l'ingegno suo esser vinto & superato dalla
+memoria, soggiugnendo, che colui che prender@a la sua croce, &
+seguir@a Cristo, onde @e scritto, Qui vult venire post me, abneget
+semetipsum, & tollat crucem suam & sequatur me [Matt. 16.24],
+vedendolo in quello ALBORE, in quella chiarezza balenare &
+risplendere, come lo haveva veduto egli, lo scuser@a, se non
+haver@a saputo ritrovare degno essempio & similitudine da poterlo
+dar ad intendere altrui.
+
+	|109-111.~  Di corno in CORNO, cio@e dalla destra & dalla
+sinistra della croce si movevano LUMI, cio@e lucidi spiriti, &
+andavano discorrendo s@u & gi@u SCINTILLANDO, perche havea detto
+lumi; percioche d'ardente fuoco di carit@a erano infiammati, Nel
+congiungersi insieme, e nel TRAPASSO, cio@e nel trapassar oltre
+che facevano.
+
+	|112-114.~  Cosi si veggion qu@i diritte e torte Le minutie
+de' CORPI, cio@e quelle minime particelle che attomi altramente
+s'appellano; quando si vedono andar s@u & gi@u per lo raggio del
+Sole, hora veloci, hora tarde, & quando lunghe, & quando corte,
+rinovando VISTA, cio@e l'apparenza loro, che dritte, torte;
+veloci, tarde; & lunghe, & corte le fa parere.
+
+	|115-117.~  ONDE, del qual raggio si lista Tal volta
+l'OMBRA, cio@e la casa, laquale la gente acquista per ingegno &
+per arte, affine d'habitarvi dentro, & difendersi da molti
+incommodi, i quali non havendo casa, li potrebbono avenire.
+
+	|118-119.~  E COME GIGA ET ARPA IN TEMPRA TESA, cio@e
+temprata & accordata l'una & l'altra fan dolce TINTINNO, soave
+suono; onde il medesimo nella medesima Cantica, Tintin sonando
+con si dolce nota Che ben disposto spirto d'amor turge [Dante
+^Par.~ 10.143-144].
+
+	|120.~  @A tal da cui la nota non @e INTESA, cio@e @a tal
+persona che non s'intende di Musica, & non conosce le note.
+
+	|121-123.~  Cosi da quei LUMI, che m'apparinno L@I, cio@e in
+quella croce, s'accoglieva per essa croce una melodia che mi
+RAPINA, che toglieva me @a me stesso, & tirava @a se, senza ch'io
+intendessi L'HINNO, il canto che esse facevano;
+
+	|124-126.~  & tutto che io non lo intendessi
+espressamente, ben m'accorsi che il ditto hinno era di alte lode;
+conciosia che @a me VENIA, cio@e mi si facevano @a gli orecchi
+queste parole, Risurge, e VINCI, lequali parole, erano tante
+volte state da i Profeti pronunciate @a Cristo, Resuscita, & vinci
+l'adversario tuo ch'@e il Diavolo, ilquale esso Cristo con la
+passione, morte, & resurettion sua vinse & super@o, trahendo delle
+sue mani que' santi Patriarchi & Profeti, che di ci@o lo
+pregavano:
+
+	|127-129.~  ma il Poeta dice che se bene quelle due parole
+udiva, non intendeva per@o il significato loro, e che tanto
+s'innamorava QUINCI, cio@e di tal melodia & dolcissimo canto, che
+mai per lo adietro alcuna cosa non lo haveva legato con si dolci
+VINCI, con si soavi vincoli & legami.
+
+	|130-134.~  Ma perche pareva che si contradicesse @a quel
+che pi@u volte havea detto del piacer che sentiva, nel mirar gli
+occhi di Beatrice posponendo @a quelli ciascun'altra dilettevol
+cosa; correge hora se medesimo, perche havea detto, niuna cosa
+haverli recato mai tanto piacere, quanto riceveva di quel canto,
+dicendo che chi s'AVEDE, che s'accorge che i vivi SUGGELLI, cio@e
+gli occhi di Beatrice vere forme & imagini d'ogni bellezza pi@u
+FANNO, pi@u operano pi@u SUSO, cio@e che quanto pi@u suso andavano di
+cielo in cielo ascendendo, pi@u belli divenivano;
+
+	|135-137.~  e che L@I, in quel cielo di Marte, non mi ero
+ancora rivolto @a QUELLI, cio@e belli occhi di Beatrice, mi pu@o
+escusare di quello ch'io medesimo per scusarmi mi vengo ad
+accusare.
+
+	|138-139.~  Che il piacer SANTO, cio@e del mirar que' begli
+occhi non @e DISCHIUSO, non @e aperto QU@I, in questo mio scrivere;
+perche MONTANDO, percioche andando pi@u s@u di giro in giro insino
+@a Dio, pi@u si faceva sincero & maggiore esso suo santo piacere,
+conciosia ch'ella s'andava ogni hora facendo pi@u bella.

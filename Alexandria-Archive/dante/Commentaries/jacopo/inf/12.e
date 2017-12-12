@@ -1,0 +1,158 @@
+	|12-15.~  In questo cominciamento del capitolo dal sesto
+al settimo grado, il disciedere si mostra, nel quale, diviso in
+tre, come sopra si conta, la bestial..... qualit@a dell'operazione
+umana si contiene, per la cui similitudine nel suo cominciamento
+il Minotauro si pone, a significare l'abito umano congiunto e col
+bestial unito.  Il quale, secondo i poeti, cos@i si figura
+togliendo alcun principio in cotal modo di lui, che alcuna reina,
+nominata Pasiphe, moglie de' re Minos di Creta, per sua lussuria
+con un vitello istare carnalmente s'accese, la quale alcuno
+ingiegnioso, nominato Dedalo, che in sua corte si riducea, di ci@o
+pregando richiese, e come a lui parve, in uno cuoio di vacca,
+ignuda si mise, nel quale col detto vitello usando s'incinse, di
+cui finalmente una criatura nacque, dal petto in su uomo e
+l'altro busto d'un toro.  Onde maravigliandosi i' re di cotale
+nazione e per suo figliuolo riputandolo, di doppio nome nominarlo
+volle, siccome era di doppia natura, cio@e Minotauro; per lo quale
+s'intende Minos e Taurus.  Del quale crescendo con furioso e
+crudele abito, finalmente agli orecchi de' re la verit@a di lui
+pervenne, per lo quale isdegno e per sua furia raffrenare al
+detto Dedalo un luogo per lui determinato ingegnosamente far
+fece; nel quale chi v'entrasse uscire non ne sapesse, nominandolo
+laberinto; al quale essendovi rinchiuso, a ciascuna citt@a del
+detto re signoreggiata, in ogni capo di tre anni una pulcella
+vergine in luogo di tributo mandare convegna, la qual finalmente
+divorava: con patto che chi v'entrasse il detto Minotauro
+uccidesse, che d'ogni tributo libera fosse sua patria.  Fra le
+quali per la citt@a d'Atene il suo, nominato Teseo, per liberarla
+si mosse.  Al quale essendo giunto nel sopradetto paese, e nella
+corte dimorando, alcuna figliuola de' re, nominata Arianna,
+innamorata di lui, sentir di se per cotal modo gli fece, che se
+per moglie la togliesse menandolane in suo paese, che del
+laberinto uscire e uccidere il Minotauro gl'insegnerebbe. 
+Ond'egli acci@o consentendo con gli ammaestramenti di lei, che
+delle sette arti sapea, ad entrarvi si mise, nel quale finalmente
+la morte gli diede, tornandosi poi nel suo paese colla vittoria e
+colla detta Adriana.  Onde cos@i in lui figurata qui la bestial
+qualit@a si conchiude.
+
+	|37-43.~  Siccome per la nostra fede @e manifesto, anzi
+che 'l suo principio, cio@e Cristo, morendo, l'umana generazione
+ricomperasse, egualmente il giusto come il peccatore, nel primo
+grado infernale, cio@e ne 'l limbo era dannato.  Onde vogliendosi
+dimostrare che nella vittoria di lui, cio@e nella resurrezione,
+ciascun grado avesse sua via, e spezialmente quegli che in prima
+di colpa non ne aveano soggetto di cotale tremare,
+figurativamente, qui si ragiona, affigurandolo a una certa
+opinione d'alcuno filosofo, nominato Empedocles, il quale si come
+per molti altri filosofi diverse credenze dell'universo
+s'intendero, cos@i questa per lui cos@i fatta si tenne, che
+solamente per gli alimenti il mondo si reggesse, e che tra loro
+si prendesse due diversi principii, cio@e odio e amore, per li
+quali insieme in odio regnando che 'l mondo ben si reggesse e in
+amore il contrario, si come confusione di molte cose unite che
+niente non fosse, chiamando cotale amore caos, cio@e confusione di
+molti e diversi uniti effetti.  Onde cotal dire, per tal modo
+figurato, qui si conchiude.
+
+	|55-57.~  Entrandosi nella dimostrazione bestiale del
+presente settimo grado, la quale in tre qualitadi divisa si pone,
+della prima cio@e di coloro che sforzano altrui in avere e in
+persona, figurativamente, cos@i si ragiona che nella circunferente
+stremit@a del grado presente una fossa di sangue bogliente
+immaginata permagna, nella quale ciascun cotale operante, secondo
+la sua facult@a, ladentro pi@u e meno sia sortito.  La cui
+allegoria apertamente s'intende che s@i come la lor voglia di
+torre l'altrui e di dare morte s'infiamma, cos@i qui il
+somigliante significa.  E che da molti centauri, cio@e uomini dal
+petto in su, e l'altro busto cavallo, correndo sopr'essa sien
+vicitati, i quali significano i correnti pensieri bestiali e
+voglie di loro che in ci@o fargli conservano, approvandogli per
+esempio i molti che di tale qualit@a anticamente pi@u furono
+impressi de' quali, poeticamente favoleggiando, di loro essere
+cos@i si ragiona, che alcuno uomo nominato Ixion per alcuno tempo
+sforzandosi di congiungersi carnalmente con Junone, moglie di
+Giove, e non possendo perch@e era iddea, tra' nuvoli sua
+corruzione sparta trascorse, della quale diversi animali in due
+nature formati si generarono, cio@e, di natura umana dal petto in
+su, e da indi in gi@u di cavallo.  La cui allegoria, come di sopra
+si conta, la bestial qualit@a delle genti significa, d'i quali
+umana forma e abito bestiale si discerne.
+
+	|67-72.~  Tra' quali [centauri] per pi@u conoscenza di lor
+simili qui d'alquanti si fa ricordanza, incominciandosi ad un
+grande di Grecia, nominato Aschiro, il quale, secondo Omero, fu
+crudelissimo e bestiale in tutte sue operazioni, nella cui
+signoria principalmente Achille figliuolo del re Peleo crebbe, e
+seguentemente d'un altro nominato Folo, il quale tra gli altri
+con pi@u ira si resse, co' quali di Nesso, che per la bella
+Dianira fu morto cos@i si ragiona.  La cui vendetta e storia in
+cotale modo permane, che alcuna volta, in compagnia d'Ercole e
+Dianira sua moglie, andando, ad uno gran fiume pervennero, per lo
+quale temendo Ercole di Deianira che passar nol potesse, in sulla
+groppa di Nesso, fidandosi di lui finalmente la puose; il quale,
+sentendosi sopra colei di cui egli era vago, con l'intenzione
+d'averlasi dinanzi ad Ercole correndo a fuggire si mise, dal
+quale cos@i fuggendo fu mortalmente lanciato.  Ond'egli
+incontanente a Dianira si volse dicendo come per lei moriva; e
+perch'ella in amor d'Ercole ritornasse partendosi dall'amore
+ch'era tra lui e Giunone moglie di Giove, che la sua sanguinosa
+camicia togliesse, e celatamente alcuna volta ad Ercole la
+facesse vestire, per@o che tal virt@u in s@e ritenea, e cos@i il
+detto Nesso morto, ella col marito, cio@e con Ercole permanendo,
+credendo quel che Nesso insegnato l'avea, la detta camicia
+nascosamente ad Ercole mise, per la quale, essendone in su la
+carne vestito, incontanente fu morto.  Cos@i di se stesso il detto
+Nesso ingannando la sua vendetta si fece.
+
+	|106-108.~  Significata la qualit@a de' centauri qui
+l'essenza degli altri operanti, nominandone certi si contiene,
+incominciandosi al grande Alessandro di Macedonia, il quale
+tiranneggiando signioreggi@o le due parti del mondo, cio@e Asia e
+Africa, e seguentemente al feroce Dionisio, per lo quale con
+grandissimo furore e forza l'isola di Cicilia lungo tempo si
+resse.
+
+	|109-112.~  Tra' quali antichi modernamente di messer
+Azolino da Romano della Marca trivigiana con la testa bruna per
+sembianza si vede, il quale, ferocemente tiraneggiando Trivigio,
+Padoa, Vicenzia e Verona, signioreggiandole resse, e
+simigliantemente con la testa bionda il marchese Obizzo da Este
+in cotal colpa si vede, il quale signioreggiando Modona e Ferrara
+dal....., finalmente fu morto.
+
+	|118-120.~  Digradandosi la vista, secondo il pi@u e 'l
+meno dell'operazione per la presente qualit@a di coloro che infino
+alla gola nel sangue sortiti sono, qui d'alcuno, nominato conte
+Guido di Monforte d'Inghilterra, cos@i si ragiona.  Il quale
+essendo nimico della casa de' re d'Inghilterra uno di loro,
+nominato Messer Arrigo d'Inghilterra, nella citt@a di Viterbo,
+levandosi il corpo di Cristo, finalmente uccise, con
+consentimento de' re Carlo Vecchio, essendo collui, del quale
+secondo l'usanza, il cuore del corpo fu tolto e in sua terra
+portato, il quale in un calice d'oro coperchiato in mano ad
+alcuna statua in una chiesa sopra il fiume de Londre, nominato
+Tamigio, ancora onorato si china.
+
+	|133-134.~  Ancor della presente qualit@a nel pi@u profondo
+per maggior colpa alcuno Unghero, Attila nominato si concede, il
+quale sanza alcun titolo di ragione ferocemente anticamente si
+mosse, e nelle parti d'Italia con grandissimo esercito venne
+rubando e ardendo le terre che a le mani gli venivano, tra le
+quali Padova e Firenze per lui diserte rimasero.  E cos@i operando
+e finalmente essendo ad assedio ad una terra di Romagna nominata
+Rimino, e sconosciutamente entratovi per novelle di suo stato
+sentire, e conosciuto da alcuno giucandovisi a scacchi collo
+scacchiere in sul capo percosso, incontanente fu morto.
+
+	|135.~  E simigliantemente in cotal colpa Pirro,
+figliuolo d'Achille, si considera, il quale, la marina rubando,
+corse nel tempo del maggior dominio di Roma, e Sesto figliuolo di
+Pompeo, il quale, dietro alla morte del padre, la marina
+simigliantemente rubando, gran tempo con suo legno corse.
+
+	|137-138.~  Co' quali antichi ancor modernamente di due
+ragionar si concede.  De' quali l'uno fu de' Pazzi di Valdarno,
+nominato Rinieri, e l'altro da Corneto di Maremma,
+simigliantemente chiamato; per li quali le strade gran tempo di
+Toscana furono corse e rubate.

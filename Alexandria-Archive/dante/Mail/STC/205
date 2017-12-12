@@ -1,0 +1,105 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id KAA11964
+	for <steve@avalon.dartmouth.edu>; Sun, 21 Mar 1999 10:49:03 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id KAA27300
+	for <Steve.Campbell@DARTMOUTH.EDU>; Sun, 21 Mar 1999 10:49:02 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 57099 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67501-27778>; Sun, 21 Mar 1999 10:48:32 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id KAA25603
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Mar 1999 10:48:26 -0500 (EST)
+Received: from pdp (comserv8-dialup72.Princeton.EDU [128.112.70.72])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id KAA07952
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Mar 1999 10:48:25 -0500 (EST)
+Message-ID: <36F514E4.388B8BFD@princeton.edu>
+Date: 	Sun, 21 Mar 1999 10:48:52 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: credits for DDP
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="------------1FA3B4163615A0A279BDD41B"
+
+This is a multi-part message in MIME format.
+--------------1FA3B4163615A0A279BDD41B
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------1FA3B4163615A0A279BDD41B
+Content-Type: text/plain; charset=us-ascii; name="credits.dos.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="credits.dos.txt"
+
+Steve, here are drafts of two documents I think should be
+added to the DDP, I would suggest under the "Dante functions"
+(or whatever it's called), NOT as part of the welcome screens. 
+This is a bit different from what I sent you in January, so
+please discard that message.  Bob
+
+
+CREDITS
+
+The welcome screen of the DDP gives notice of the
+organizations that have supported the project, which began in
+1982 and opened in 1988.  The current version, containing the
+text of the poem and 59 commentaries, was put on line in March
+of 1999.  During most of the life of the DDP Stephen Campbell
+has served as the chief technical adviser to the project and
+supervised data entry and methods of retrieval (1986-1999). 
+His contribution has been essential; we could not have done
+without him.  The first steps toward the realization of the
+project were aided in particular by two people then at
+Dartmouth, Raymond Neff (now at Carnegie Mellon) and Stephen
+Nichols (now at Johns Hopkins).  The first "team" of scholars
+at Dartmouth who designed and helped to implement the first
+version of the database included Kevin Brownlee (now at the
+University of Pennsylvania), Jeffrey Schnapp (now at
+Stanford), and Nancy Vickers (now president of Bryn Mawr). 
+Schnapp in particular made an essential contribution to
+getting DDP off the ground, and it is gratefully acknowledged
+here.  Those who did the lion's share of editing texts were
+Margherita Frankel and Antonia Rossi; they were joined by
+several others.  The Societ@a Dantesca Italiana and its
+President, Francesco Mazzoni, have helped with editing several
+commentaries; there is a continuing collaboration between the
+SDI and the DDP.  The organization of the daily life of a
+rather large project fell first to Janet Stephens and then to
+Jonathan Altman.  To all those named and to others whose names
+can be found in the various descriptions of commentaries, as
+well as to the small army of Dartmouth students who typed in
+commentaries or supervised the operation of the Kurzweil Data
+Entry Machine, go the thankful thoughts of the project's
+director.
+
+Robert Hollander
+9 January 1999
+
+_______________________________________________
+
+SOME SUGGESTIONS FOR USERS:
+
+(1) In order to put the full text of a given commentary into
+memory, at the SEARCH prompt type:
+
+          commentator's name[comm] (with no space), e.g.,
+
+          benvenuto[comm]
+
+(2) In order to put the full text of the poem into memory,
+type:
+
+          p[dtyp]
+
+(3) In order to review bibliographical information about the
+commentaries type:
+
+          d[typ]
+
+{Steve: any other suggestions we should offer?}
+--------------1FA3B4163615A0A279BDD41B--
+

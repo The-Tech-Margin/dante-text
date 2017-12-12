@@ -1,0 +1,328 @@
+head     1.4;
+access   ;
+symbols  ;
+locks    ;
+comment  @\" @;
+
+
+1.4
+date     87.02.23.10.48.37;  author dante;  state Exp;
+branches ;
+next     1.3;
+
+1.3
+date     86.03.18.14.47.36;  author dante;  state Exp;
+branches ;
+next     1.2;
+
+1.2
+date     86.03.18.14.42.22;  author dante;  state Exp;
+branches ;
+next     1.1;
+
+1.1
+date     86.03.18.14.41.24;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Dante Technical Memo 1 - Escape Sequences
+@
+
+
+1.4
+log
+@Revision c
+@
+text
+@.sc
+.m3 3v
+.fo 'Dartmouth Dante Project''Technical Memo 1C'
+.(b C
+.sp 8
+.sz +3
+.i "The Dartmouth Dante Project"
+.sz -2
+.sp
+Technical Memorandum
+.sz -1
+.sp 6
+.)b
+.(l M
+Subject: Memo 1C - Revised Dante Standard Escape Sequences
+.sp
+From: Steve Campbell
+Date: March 25, 1986
+.sp 2
+.)l
+.he ''%''
+.sh 1 Introduction
+.pp
+This memo describes the character escape sequence that will be used in
+standard Dante Project files.
+This revision includes some new escape sequences and reflects
+the foreign language capability of Version 3.0 of the BRS system.
+.pp
+An escape sequence is a sequence of special characters that appears within a
+file of printable text such as the Dante commentaries.
+The escape sequence characters are special in that they do not appear in
+the final displayed version of the text.  Rather they indicate the
+occurrence of unusual characters or of changes in the character font.
+In order to have their intended effect, escape sequences must be recognized
+by a program and converted into the intended character representation.
+Standard escape sequences are used because the intended representation -
+.b boldface ,
+for example - is produced differently for different terminals and printers.
+Note that there is no guarantee that a given escape sequence will produce
+the desired result on all display devices;
+some devices cannot generate all the special characters.
+.pp
+In the Dante Project, 
+we will use these sequences as the \*(lqofficial\*(rq definition of
+what constitutes the text.
+All other representations of commentary text, including
+database files, and presentation files for display
+on terminals and for typesetting are derived from these
+standard sequences.
+This means that the KDEM should, to the greatest extent possible,
+generate these sequences.
+Where the KDEM cannot conveniently generate these sequences, we will
+provide Unix programs to translate KDEM characters into the standard
+sequences.
+.sh 1 "Special Character Escapes"
+.pp
+Currently all escape sequences fall into one of two categories.
+One type is used to represent unusual characters such as accented foreign
+characters or Greek characters.
+The other type is used to indicate a change in font, such as
+.i "begin boldface"
+or
+.i "begin italics"
+or
+.i "begin plain."
+.sh 2 "Escape Sequences for Special Characters"
+.pp
+The following table lists the Dante standard diacritic character escapes.
+These special characters should be 
+.i followed
+by a regular character that is to receive the diacritic mark.
+.(b
+.i
+Character			Effect				Example
+.r
+.hl
+At Sign (@@)			Accent grave			@@a gives a\*`
+Dollar sign ($)			Accent acute			$a gives a\*'
+Comma (,)			Umlaut			,u gives u\*:
+.)b
+.sp 2
+The following table lists Dante special character escapes.
+These marks are used before or after words to represent certain unusual
+characters.
+.(b
+.i
+Character			Effect				Example
+.r
+.hl
+Less than (<)			Left quote\**			< gives \*(lq
+Greater than (>)		Right quote			> gives \*(rq
+Plus sign (+)			Degree mark			+ gives \ \*o
+.)b
+.(f
+\**European quote marks, shown here, are obtained by using the troff option -mE
+rather than -me.
+The latter will generate traditional American double quotes.
+.)f
+.sp 2
+The following table lists Dante ligature escapes.
+These marks are used before the letters
+.i ae
+or
+.i oe
+to represent the ligature form of those letters.
+.(b
+.i
+Character			Effect				Example
+.r
+.hl
+Double At Sign (@@@@)		Ligature			@@@@ae gives ae\**
+.)b
+.(f
+\**Ligatures can be represented by some terminals but are not
+available in the character set used to print this memo.
+.)f
+.sh 1 "Font Changes"
+.pp
+This section lists escape sequences that we will use to represent changes
+in the font in which characters are displayed.
+Current we have four possible fonts: plain (Roman), italics, boldface, and
+Greek characters.
+Plain font is used for normal text, for example this sentence.
+The escapes can be used to change to another font and then change back to
+plain.
+.(b
+.i
+Character			Effect				Example
+.r
+.hl
+Vertical bar (|)			Go to boldface			|Bold~ gives \fBBold\fR
+Caret (^)			Go to italics			^Ital~ gives \fIItal\fR
+Percent (%)			Go to Greek			See below.
+Tilde (~)			Go back to plain		See above.
+.)b
+.bp
+.sh 2 "Greek Characters"
+.pp
+A sequence of Greek characters is represented by the percent
+character followed by a sequence of Roman characters that correspond to the
+Greek characters and ending with a tilde.
+This section lists the correspondence.
+.(l C
+A  gives  \(*A			a  gives \(*a
+B  gives  \(*B			b  gives \(*b
+G  gives  \(*G			g  gives \(*g
+D  gives  \(*D			d  gives \(*d
+E  gives  \(*E			e  gives \(*e
+Z  gives  \(*Z			z  gives \(*z
+Y  gives  \(*Y			y  gives \(*y
+H  gives  \(*H			h  gives \(*h
+I  gives  \(*I			i  gives \(*i
+K  gives  \(*K			k  gives \(*k
+L  gives  \(*L			l  gives \(*l
+M  gives  \(*M			m  gives \(*m
+N  gives  \(*N			n  gives \(*n
+C  gives  \(*C			c  gives \(*c
+O  gives  \(*O			o  gives \(*o
+P  gives  \(*P			p  gives \(*p
+R  gives  \(*R			r  gives \(*r
+S  gives  \(*S			s  gives \(*s
+T  gives  \(*T			t  gives \(*t
+U  gives  \(*U			u  gives \(*u
+F  gives  \(*F			f  gives \(*f
+X  gives  \(*X			x  gives \(*x
+Q  gives  \(*Q			q  gives \(*q
+W  gives  \(*W			w  gives \(*w
+				j  gives \(pd
+				v  gives \(es
+.)l
+.pp
+As an example of the use of the Greek escape sequence, the sequence
+"%abgd~" would produce "\(*a\(*b\(*g\(*d".
+@
+
+
+1.3
+log
+@Revision b
+@
+text
+@d3 1
+a3 1
+.fo 'Dartmouth Dante Project''Technical Memo 1B'
+d15 1
+a15 1
+Subject: Memo 1B - Revised Dante Standard Escape Sequences
+d18 1
+a18 1
+Date: July 22, 1985
+d25 3
+a27 3
+"standard" Dante Project files.
+This revision describes escape sequences for representing a-e and o-e
+ligatures.
+d37 2
+a38 2
+boldface, for example - is produced differently for different terminals
+and printers.
+d41 1
+a41 1
+some devices simply cannot generate all the special characters.
+d44 6
+a49 2
+these sequences will be the ones used in the database-resident version
+of the commentaries.
+a54 4
+All other representation of commentary text, including those displayed
+on the Rainbow micro-computers and those used for typesetting
+subsystems such as the laser printer, are by definition derived from these
+"standard" sequences.
+a67 13
+The escape characters that we use to indicate accented characters must
+of necessity occur 
+.i within
+words.
+For this reason they must be transparent to the BRS search engine.
+This means that the search engine must be able to locate a word even though
+it contains extra characters - the escape characters.
+Since we are given a set of such transparent characters by BRS, we are
+forced to use those characters - and only those characters - for accent
+escapes.
+Known BRS-transparent characters include the at sign (@@), the dollar
+sign ($), and the comma (,) when it immediately precedes a letter.
+.pp
+d101 5
+a105 2
+These marks are used before the letter "ae" or "oe" to represent the
+attached form of the letters.
+d111 1
+a111 1
+Double At Sign (@@@@)		Ligature			@@@@ae gives ae
+d113 4
+d123 1
+a123 1
+Text is normally displayed in plain font.
+d139 1
+a139 1
+A sequence of Greek characters is represented by the underbar escape
+d141 1
+a141 1
+Greek characters.
+@
+
+
+1.2
+log
+@Revision a
+@
+text
+@d3 1
+a3 1
+.fo 'Dartmouth Dante Project''Technical Memo 1A'
+d15 1
+a15 1
+Subject: Memo 1A - Revised Dante Standard Escape Sequences
+d18 1
+a18 1
+Date: \*(td
+d26 2
+a27 2
+This revision has a new escape character for indicating the start of
+Greek characters.
+d112 11
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d3 1
+a3 1
+.fo 'Dartmouth Dante Project''Technical Memo 1'
+d15 1
+a15 1
+Subject: Memo 1 - Dante Standard Escape Sequences
+d18 1
+a18 1
+Date: 12 April 1985
+d26 2
+d128 1
+a128 1
+Underbar (_)			Go to Greek			See below.
+d131 1
+d168 1
+a168 1
+"_abgd~" would produce "\(*a\(*b\(*g\(*d".
+@

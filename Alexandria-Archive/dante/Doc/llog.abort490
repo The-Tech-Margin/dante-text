@@ -1,0 +1,1010 @@
+
+Load started from  /dante/poem/staging on Thu Jan 18 08:27:58 EST 1990
+Files to be loaded:
+desc
+Start of BRS Load Process for NDDP -- Thu Jan 18 08:27:59 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added      1,  Dropped      0,    Total in DB      1
+	    Words:  Added     82,  Dropped      0,        Stopped     57
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added       71,  Deleted        0
+	 Occurrences:  Added       82,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 08:28:08 1990
+documents loaded: 1, of 1
+
+Load started from  /dante/poem/staging/inf on Thu Jan 18 08:28:39 EST 1990
+Files to be loaded:
+inf
+Start of BRS Load Process for NDDP -- Thu Jan 18 08:28:41 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1562,  Dropped      0,    Total in DB   1563
+	    Words:  Added  49000,  Dropped      0,        Stopped  13263
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     6371,  Deleted        0
+	 Occurrences:  Added    49000,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 08:39:57 1990
+documents loaded: 1562, of 1562
+
+Load started from  /dante/poem/staging/purg on Thu Jan 18 08:41:38 EST 1990
+Files to be loaded:
+purg
+Start of BRS Load Process for NDDP -- Thu Jan 18 08:41:39 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1574,  Dropped      0,    Total in DB   3137
+	    Words:  Added  49297,  Dropped      0,        Stopped  13088
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3414,  Deleted        0
+	 Occurrences:  Added    49297,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 08:52:44 1990
+documents loaded: 1574, of 1574
+
+Load started from  /dante/poem/staging/para on Thu Jan 18 08:54:29 EST 1990
+Files to be loaded:
+para
+Start of BRS Load Process for NDDP -- Thu Jan 18 08:54:30 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1575,  Dropped      0,    Total in DB   4712
+	    Words:  Added  48464,  Dropped      0,        Stopped  13296
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     2776,  Deleted        0
+	 Occurrences:  Added    48464,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 09:05:59 1990
+documents loaded: 1575, of 1575
+
+Load started from  /dante/jacopo/staging on Thu Jan 18 09:47:20 EST 1990
+Files to be loaded:
+desc
+Start of BRS Load Process for NDDP -- Thu Jan 18 09:47:23 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added      1,  Dropped      0,    Total in DB   4713
+	    Words:  Added     39,  Dropped      0,        Stopped     16
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added       18,  Deleted        0
+	 Occurrences:  Added       39,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 09:48:11 1990
+documents loaded: 1, of 1
+
+Load started from  /dante/jacopo/staging/inf on Thu Jan 18 09:49:43 EST 1990
+Files to be loaded:
+proem 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22
+23 24 25 26 27 28 29 30 31 32 33 34
+Start of BRS Load Process for NDDP -- Thu Jan 18 09:49:46 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added    275,  Dropped      0,    Total in DB   4988
+	    Words:  Added  18530,  Dropped      0,        Stopped  10172
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     1830,  Deleted        0
+	 Occurrences:  Added    18530,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 09:57:21 1990
+documents loaded: 275, of 275
+
+Load started from  /dante/lana/staging on Thu Jan 18 10:07:39 EST 1990
+Files to be loaded:
+desc
+Start of BRS Load Process for NDDP -- Thu Jan 18 10:07:42 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added      1,  Dropped      0,    Total in DB   4989
+	    Words:  Added     34,  Dropped      0,        Stopped      8
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added       13,  Deleted        0
+	 Occurrences:  Added       34,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 10:09:42 1990
+documents loaded: 1, of 1
+
+Load started from  /dante/lana/staging on Thu Jan 18 10:14:05 EST 1990
+Files to be loaded:
+proem inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03
+purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12
+purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21
+purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30
+purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06
+para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15
+para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24
+para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Thu Jan 18 10:14:06 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   4351,  Dropped      0,    Total in DB   9340
+	    Words:  Added 286234,  Dropped      0,        Stopped 153256
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    17415,  Deleted        0
+	 Occurrences:  Added   286234,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Jan 18 11:34:06 1990
+documents loaded: 4351, of 4351
+
+Load started from  /dante/guido/staging on Fri Jan 19 10:44:05 EST 1990
+Files to be loaded:
+desc inf/prolo inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+Start of BRS Load Process for NDDP -- Fri Jan 19 10:44:08 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added    898,  Dropped      0,    Total in DB  10238
+	    Words:  Added 153668,  Dropped      0,        Stopped  43256
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    23965,  Deleted        0
+	 Occurrences:  Added   153668,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Fri Jan 19 11:36:17 1990
+documents loaded: 898, of 898
+
+Load started from  /dante/ottimo/staging on Mon Jan 22 11:30:02 EST 1990
+Files to be loaded:
+desc
+Start of BRS Load Process for NDDP -- Mon Jan 22 11:30:05 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added      1,  Dropped      0,    Total in DB  10239
+	    Words:  Added     41,  Dropped      0,        Stopped     11
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added       16,  Deleted        0
+	 Occurrences:  Added       41,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Jan 22 11:31:57 1990
+documents loaded: 1, of 1
+
+Load started from  /dante/ottimo/staging on Mon Jan 22 11:32:48 EST 1990
+Files to be loaded:
+inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09 inf/10
+inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19 inf/20
+inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29 inf/30
+inf/31 inf/32 inf/33 inf/34
+Start of BRS Load Process for NDDP -- Mon Jan 22 11:32:50 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1071,  Dropped      0,    Total in DB  11310
+	    Words:  Added  98752,  Dropped      0,        Stopped  56520
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5322,  Deleted        0
+	 Occurrences:  Added    98752,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Jan 22 12:36:08 1990
+documents loaded: 1071, of 1071
+
+Load started from  /dante/ottimo/staging on Tue Jan 23 08:51:02 EST 1990
+Files to be loaded:
+purg/01 purg/02 purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09
+purg/10 purg/11 purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18
+purg/19 purg/20 purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27
+purg/28 purg/29 purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03
+para/04 para/05 para/06 para/07 para/08 para/09 para/10 para/11 para/12
+para/13 para/14 para/15 para/16 para/17 para/18 para/19 para/20 para/21
+para/22 para/23 para/24 para/25 para/26 para/27 para/28 para/29 para/30
+para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Jan 23 08:51:04 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   2322,  Dropped      0,    Total in DB  13632
+	    Words:  Added 212366,  Dropped      0,        Stopped 114660
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7860,  Deleted        0
+	 Occurrences:  Added   212366,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jan 23 09:44:44 1990
+documents loaded: 2322, of 2322
+
+Load started from  /dante/selmiano/staging on Wed Jan 24 10:58:46 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34
+Start of BRS Load Process for NDDP -- Wed Jan 24 10:58:48 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added    462,  Dropped      0,    Total in DB  14094
+	    Words:  Added  24451,  Dropped      0,        Stopped  13638
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added      788,  Deleted        0
+	 Occurrences:  Added    24451,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Wed Jan 24 11:11:39 1990
+documents loaded: 462, of 462
+
+Load started from  /dante/pietro/staging on Tue Jan 30 15:47:59 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Jan 30 15:48:03 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1241,  Dropped      0,    Total in DB  15335
+	    Words:  Added 107406,  Dropped      0,        Stopped  33412
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    11271,  Deleted        0
+	 Occurrences:  Added   107406,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Jan 30 17:15:37 1990
+documents loaded: 1241, of 1241
+
+Load started from  /dante/boccaccio/staging on Mon Feb 12 10:42:26 EST 1990
+Files to be loaded:
+desc inf/access inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+Start of BRS Load Process for NDDP -- Mon Feb 12 10:42:29 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added    900,  Dropped      0,    Total in DB  16235
+	    Words:  Added 174099,  Dropped      0,        Stopped 104692
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     6231,  Deleted        0
+	 Occurrences:  Added   174099,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Feb 12 13:06:15 1990
+documents loaded: 900, of 900
+
+Load started from  /dante/benvenuto/staging on Tue Feb 20 08:09:49 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Feb 20 08:09:51 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   3703,  Dropped      0,    Total in DB  19938
+	    Words:  Added 551900,  Dropped      0,        Stopped 187173
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    25166,  Deleted        0
+	 Occurrences:  Added   551900,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Feb 20 10:41:52 1990
+documents loaded: 3703, of 3703
+
+Load started from  /dante/fiorentino/staging on Wed Feb 21 10:37:14 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Wed Feb 21 10:37:17 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+The 65,000 character limit for a single paragraph has been exceeded.
+   Document Number 22440,   Paragraph Label TEXT,   Input Line Number 84609.
+Error cannot be avoided -- aborting process.
+
+   Load terminated ABNORMALLY.  Correct problems reported above!
+End of BRS Load Process  for  NDDP -- Wed Feb 21 11:14:34 1990
+documents loaded: 58408 of 3727
+
+Load started from  /dante/fiorentino/staging on Mon Feb 26 19:36:12 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33
+Start of BRS Load Process for NDDP -- Mon Feb 26 19:36:14 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   2301,  Dropped      0,    Total in DB  22239
+	    Words:  Added 214349,  Dropped      0,        Stopped 124099
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5413,  Deleted        0
+	 Occurrences:  Added   214349,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Feb 26 22:30:08 1990
+documents loaded: 2301, of 2301
+
+Load started from  /dante/fiorentino/staging on Tue Feb 27 01:15:06 EST 1990
+Files to be loaded:
+para/01 para/02 para/03 para/04 para/05 para/06 para/07 para/08 para/09
+para/10 para/11 para/12 para/13 para/14 para/15 para/16 para/17 para/18
+para/19 para/20 para/21 para/22 para/23 para/24 para/25 para/26 para/27
+para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Feb 27 01:15:09 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1426,  Dropped      0,    Total in DB  23665
+	    Words:  Added 114266,  Dropped      0,        Stopped  66422
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     1539,  Deleted        0
+	 Occurrences:  Added   114266,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Feb 27 02:17:31 1990
+documents loaded: 1426, of 1426
+
+Load started from  /dante/serravalle/staging on Thu Mar  1 23:45:05 EST 1990
+Files to be loaded:
+desc inf/pream inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/pream purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/27 purg/28 purg/29 purg/30
+purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06
+para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15
+para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24
+para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Thu Mar  1 23:45:08 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+Maximum number of words for a sentence has been exceeded.
+   Document Number 26970,   Paragraph Label TEXT,   Input Line Number 121185.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added   3442,  Dropped      0,    Total in DB  27107
+	    Words:  Added 366534,  Dropped      0,        Stopped 111096
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    13921,  Deleted        0
+	 Occurrences:  Added   366534,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Fri Mar  2 04:06:00 1990
+documents loaded: 3442, of 3442
+
+Load started from  /dante/daniello/staging on Sun Mar  4 23:00:07 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Sun Mar  4 23:00:09 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   4094,  Dropped      0,    Total in DB  31201
+	    Words:  Added 248215,  Dropped      0,        Stopped 102695
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     8643,  Deleted        0
+	 Occurrences:  Added   248215,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Mar  5 01:08:03 1990
+documents loaded: 4094, of 4094
+
+Load started from  /dante/castel/staging on Wed Mar 14 08:39:10 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+Start of BRS Load Process for NDDP -- Wed Mar 14 08:39:13 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1269,  Dropped      0,    Total in DB  32470
+	    Words:  Added  92184,  Dropped      0,        Stopped  49198
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     2014,  Deleted        0
+	 Occurrences:  Added    92184,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Wed Mar 14 09:17:39 1990
+documents loaded: 1269, of 1269
+
+Load started from  /dante/venturi/staging on Thu Mar 22 08:36:03 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Thu Mar 22 08:36:05 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   5694,  Dropped      0,    Total in DB  38164
+	    Words:  Added 170976,  Dropped      0,        Stopped  53980
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5398,  Deleted        0
+	 Occurrences:  Added   170976,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Mar 22 09:43:50 1990
+documents loaded: 5694, of 5694
+
+Load started from  /dante/lombardi/staging on Mon Mar 26 11:00:07 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Mon Mar 26 11:00:10 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   7304,  Dropped      0,    Total in DB  45468
+	    Words:  Added 383801,  Dropped      0,        Stopped 152381
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     9612,  Deleted        0
+	 Occurrences:  Added   383801,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Mar 26 13:45:28 1990
+documents loaded: 7304, of 7304
+
+Load started from  /dante/portirelli/staging on Tue Mar 27 09:00:04 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Mar 27 09:00:06 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1888,  Dropped      0,    Total in DB  47356
+	    Words:  Added 160654,  Dropped      0,        Stopped  74737
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     2660,  Deleted        0
+	 Occurrences:  Added   160654,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Tue Mar 27 10:46:09 1990
+documents loaded: 1888, of 1888
+
+Load started from  /dante/costa/staging on Wed Mar 28 11:00:05 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Wed Mar 28 11:00:07 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   6090,  Dropped      0,    Total in DB  53446
+	    Words:  Added 171519,  Dropped      0,        Stopped  46333
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     1361,  Deleted        0
+	 Occurrences:  Added   171519,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Wed Mar 28 12:29:44 1990
+documents loaded: 6090, of 6090
+
+Load started from  /dante/tommaseo/staging on Thu Mar 29 10:30:05 EST 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Thu Mar 29 10:30:07 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   4613,  Dropped      0,    Total in DB  58059
+	    Words:  Added 267173,  Dropped      0,        Stopped  91567
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     7105,  Deleted        0
+	 Occurrences:  Added   267173,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Mar 29 14:51:48 1990
+documents loaded: 4613, of 4613
+
+Load started from  /dante/bianchi/staging on Mon Apr  2 11:15:09 EDT 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Mon Apr  2 11:15:13 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   7351,  Dropped      0,    Total in DB  65410
+	    Words:  Added 267095,  Dropped      0,        Stopped  93478
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     2910,  Deleted        0
+	 Occurrences:  Added   267095,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Mon Apr  2 16:13:11 1990
+documents loaded: 7351, of 7351
+
+Load started from  /dante/scartazzini/staging on Tue Apr  3 18:00:06 EDT 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Tue Apr  3 18:00:09 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+Maximum number of words for a sentence has been exceeded.
+   Document Number 71113,   Paragraph Label TEXT,   Input Line Number 164854.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73541,   Paragraph Label TEXT,   Input Line Number 250570.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73541,   Paragraph Label TEXT,   Input Line Number 250599.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73780,   Paragraph Label TEXT,   Input Line Number 259017.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73780,   Paragraph Label TEXT,   Input Line Number 259062.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73780,   Paragraph Label TEXT,   Input Line Number 259108.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 73862,   Paragraph Label TEXT,   Input Line Number 262210.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 74129,   Paragraph Label TEXT,   Input Line Number 271701.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 76207,   Paragraph Label TEXT,   Input Line Number 348927.
+New sentence has been started for paragraph to avoid termination.
+Maximum number of words for a sentence has been exceeded.
+   Document Number 76342,   Paragraph Label TEXT,   Input Line Number 354249.
+New sentence has been started for paragraph to avoid termination.
+
+	Documents:  Added  11614,  Dropped      0,    Total in DB  77024
+	    Words:  Added 945812,  Dropped      0,        Stopped 391780
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added    21444,  Deleted        0
+	 Occurrences:  Added   945812,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Wed Apr  4 03:18:30 1990
+documents loaded: 11614, of 11614
+
+Load started from  /dante/berthier/staging on Wed Apr  4 16:45:06 EDT 1990
+Files to be loaded:
+desc inf/intro inf/pro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+Start of BRS Load Process for NDDP -- Wed Apr  4 16:45:10 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   1323,  Dropped      0,    Total in DB  78347
+	    Words:  Added 226361,  Dropped      0,        Stopped 109613
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5371,  Deleted        0
+	 Occurrences:  Added   226361,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Wed Apr  4 19:03:22 1990
+documents loaded: 1323, of 1323
+
+Load started from  /dante/ruskin/staging on Thu Apr  5 18:00:06 EDT 1990
+Files to be loaded:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/24 inf/25 inf/26 inf/27 inf/28 inf/30
+inf/31 inf/32 inf/33 inf/34 purg/proem purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/16 purg/17 purg/18 purg/19 purg/21 purg/22 purg/24 purg/26
+purg/27 purg/28 purg/29 purg/30 purg/31 purg/32 purg/33 para/proem
+para/01 para/02 para/06 para/10 para/11 para/15 para/16 para/18 para/19
+para/20 para/21 para/28 para/30 para/31
+Start of BRS Load Process for NDDP -- Thu Apr  5 18:00:09 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added    195,  Dropped      0,    Total in DB  78542
+	    Words:  Added  18776,  Dropped      0,        Stopped  11290
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     3340,  Deleted        0
+	 Occurrences:  Added    18776,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Thu Apr  5 18:28:50 1990
+documents loaded: 195, of 195
+
+Load started from  /dante/barbi/staging on Fri Apr  6 18:00:05 EDT 1990
+Files to be loaded:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+Start of BRS Load Process for NDDP -- Fri Apr  6 18:00:08 1990
+
+Copyright (c) 1989 by BRS Information Technologies.  All rights reserved.
+Use by unauthorized persons is a violation of applicable laws.
+
+Revision 5.0 (001-1073-AT)
+
+Distributed By: BRS Information Technologies
+   Licensed To: Dartmouth College
+
+
+	Documents:  Added   9417,  Dropped      0,    Total in DB  87959
+	    Words:  Added 486106,  Dropped      0,        Stopped 183960
+	Unchanged words dropped from sort process:      0
+
+	Unique Words:  Added     5355,  Deleted        0
+	 Occurrences:  Added   486106,  Deleted        0,  Unchanged      0
+
+   Load terminated normally.
+End of BRS Load Process  for  NDDP -- Fri Apr  6 21:46:34 1990
+documents loaded: 9417, of 9417

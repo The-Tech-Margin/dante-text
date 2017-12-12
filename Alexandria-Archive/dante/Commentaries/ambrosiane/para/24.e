@@ -1,0 +1,76 @@
+	|1.~  ^Sodalitio~ -- Societas in mensa sodalium, unde versus: <In 
+bello socii, comites in calle feruntur.  / Officium collega facit, 
+discusve sodales>.  ^Cena~ -- Scilicet ad cenam agni providi.  Ista 
+sunt verba Beatricis.
+
+	|4.~  ^Preliba~ -- Scilicet ante tempus gustat.
+
+	|12.~  ^Comete~ -- Scilicet stelle caudate apparentes, significantes 
+mutationes regnorum iuxta illud: <Mutantem regna cometem>.
+
+	|13.~  ^Cerchi~ -- Horologi.  Et licet videatur inconveniens quod 
+circulus minor et maior simul perficiant circulationes eorum, tamen 
+procedit hoc, quia uno motu et instrumento moventur.
+
+	|26.~  ^Pieghe~ -- Similitudinem capit ab arte pingendi in qua 
+requiritur quod pictor, volens plicas vestium ostendere, utatur colore 
+nigro et non claro, quia plice sunt concave et ubi concavitas, ibi 
+nigredo.  Unde similando dicit quod non solum loquela sed ymaginatio 
+humana esset color nimis lucidus, idest non ydoneus.
+
+	|28.~  ^O santa~ -- Verba beati Petri ad Beatricem.  ^Sora~ -- Quia 
+theologia est soror pontificis ad tutandam fidem.
+
+	|35.~  ^Lasci@o~ -- Quando dixit ibi: <Dabo claves regni celorum> et 
+cetera.
+
+	|36.~  ^Port@o gi@u~ -- Quando descendit et incarnatus est.
+
+	|39.~  ^Andavi~ -- Quando dixit: <Domine, iube me venire ad te> et 
+cetera.
+
+	|46.~  ^Bacellier~ -- Bacalarius vocatur qui aptus est et preparatur 
+ad recipiendum magisterium.
+
+	|52.~  ^D@i buon cristiano~ -- Beatus Petrus incipit examinare Dantem 
+in fide Christiana.
+
+	|53.~  ^Fede que @e~ -- Interrogat sic eum: <Fides quid est?>
+
+	|59.~  ^Primipilo~ -- Primipilus est ille qui portat primum 
+imperatoris vexillum, sic beatus Petrus, vel a pila que est petra 
+substinens pontem, sicut Petrus Ecclesiam.
+
+	|62.~  ^Tuo caro frate~ -- Scilicet Pauli apostoli Ad Corinthios XI.
+
+	|63.~  ^Filo~ -- Fidei Christiane.
+
+	|64.~  ^Fede @e sustanza~ -- Respondendo recitat diffinitionem Pauli 
+apostoli que sic dicit: <Fides est sperandarum \<substantia\> rerum et 
+argomentum non apparentium>.  Sed quia opponitur circa dictam 
+diffinitionem hoc modo: <Fides est virtus; virtus est qualitas; ergo 
+fides est qualitas et non substantia>, ideo subdit: <Tra le sostanze>.  
+Ad quod respondet quod fides non in ratione comprehensibili nobis sed 
+in credulitate consistit, in qua spes fundatur, ideo substantia 
+appellatur.  Et quia ab ista credulitate soligizatur, ideo dicitur 
+argumentum; vel dicendum quod substantia rei est omne illud per quod 
+res est; merito ergo substantia est per quam fidei prolixitas redditur 
+et trinitas et unitas catenatur.  Idcirco prophete non audierunt verbum 
+substantie, idest verbum Patris, \<nisi\> voce Christi qui ex paterna 
+substantia loquebatur.
+
+	|81.~  ^Sofista~ -- Est qui arguit ex fallatiis, cuius argumenta 
+apparent et non subsistunt.
+
+	|85.~  ^Se tu l'ai~ -- Quia fides sine operibus mortua est.
+
+	|93.~  ^Coia~ -- In Veteri et Novo Testamento.
+
+	|125.~  ^Vincesti~ -- Quando Petrus et Iohannes audierunt Christum 
+resurrexisse, Petrus currendo prevenit Iohannem ad sepulcrum.
+
+	|141.~  ^Sono~ -- Tres persone sunt.  ^Este~ -- Est verbum numeri 
+singularis.  Per hec verba dicit quod trinitas et deitas una in tribus 
+personis, unde Iohannes quinto: <Tres sunt qui testimonium dant in 
+celo: Pater, Filius et Spiritus Sanctus.  Et hii tres unum sunt>.
+

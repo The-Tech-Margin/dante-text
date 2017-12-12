@@ -1,0 +1,258 @@
+	|Proemio.~  [Incomincia il ventesimonono Capitolo del Purgatorio]
+
+	|1-30.~ 
+
+   ^Cantando chome donna innamorata~
+   ^continov@o col fin di sue parole~
+   ^beati quorun tetta sunt pecchata.~
+
+Poi che nel chapitolo proximo paxato l'altore ha descritto il paradiso 
+terresto per lo quale significha la filicit@a temporale ora in questo 
+C.o l'altore vuole discrivere la chiesa militante di Dio.  E discrivesi 
+per gli santi due chiese cio@e la militante e lla trionfante.  E 
+discrive l'altore della militante e puotesi dividere questo chapitolo 
+in quatro parti gienerali.  In questa prima parte l'altore continuando 
+la sua materia alla paxata discrive la disposizione del luogho e 
+dell'aria cholle lumiere che vanno dinanzi al charroccio.  E quella 
+contessa Matelda cantando inanzi un salmo del saltero di Davit cio@e 
+Beati quorum remisse sunt iniquitates et quorum tetta sunt pecchata 
+etc.  E fingie l'altore l'andare di questa donna a ssignifichazioni e 
+modi che scrissono i poeti delle ninfe cio@e quelle ninfe ch'andavano 
+chacciando e saettando per le selve e ' boschi chome pienamente si @e 
+detto in questo libro e per quelle ninfe che ll'altore iscrive che 
+vanno quelle innanzi al sole e quelle dietro dei 'ntendere per le 
+stelle.  E per@o dicie il nostro altore poeta chos@i
+
+   ^Non eran ciento tra ' sue passi e ' miei~
+   ^quando le ripe eghualmente dier volta~
+   ^per modo ch'a llevante mi rendei.~
+
+Per queste parole dicie l'altore che subito in questo luogo dov'egli 
+era di@e volta dall'occidente in oriente.  E per questo non vuol dire 
+altro che per insino a qui egli ha scritto chose di poeti ora vuole 
+iscrivere la filicit@a eterna nella quale non si puote entrare per 
+poesia anzi conviene ch'egli attenda di scrivere questo luogho e 
+chom'altre fighura per la santa teologia e non per filoxofia.
+
+   ^Ed eccho u[n] lustro subito trascorse~
+   ^da tutte parti per la gran foresta~
+   ^tal che di balenar mi misse in forse.~
+
+Qui incomincia a scrivere l'altore il lustro che gli apparve dell'aria 
+cio@e quel lume grande ch'egli vide.  E altro per questo non vuol dire 
+per questo lustro se none i[l] lume grande il quale prociede dalla 
+chiesa di Dio cio@e per choloro che ll'hanno alluminata chome sono 
+stati dottori e confessori vangielisti profeti e patriarchi e gli altri 
+santi e appostoli i quali hanno scritto e detto sopra cci@o e di ci@o e 
+in ci@o.
+
+   ^E una melodia dolcie chorreva~
+   ^per l'aire luminoso onde buon zelo~
+   ^mi fe' riprender l'ardimento d'Eva.~
+
+Dicie l'altore che dietro al lume ud@i un grande e dolcie chanto e per 
+questo chanto non vuole dire altro se none i libri e lle scritture 
+c'hanno fatto questi santi profeti e altri dottori di santa chiesa.  E 
+fingie ch'allora si ricord@o d'Eva e della sua grande pazzia pensando 
+chom'ella volle abandonare quel santo luogho e bello per volere 
+pecchare e rompere il comandamento di Dio.  E dicono i santi che questo 
+fu gran fatto per tre chagioni.  La prima chom'ebbe ardire a rompere il 
+comandamento di Dio essendo femmina perch@e tutte sono paurose e 
+timide.  La seconda perch'era sola imper@o che per le compagnie assai 
+volte si mette la persona a ffare delle cose isconcie.  La terza 
+perch'era fanciulla e giovane ma dicono i savi che per lo comandamento 
+che non dovesse mangiare del pomo vietato gliele venne voglia che il 
+diavolo ne la confort@o diciendole che ss'ella ne mangiasse ella 
+sarebbe simile a dDio di sapere il bene e il male e allora ne mangi@o.  
+Altro non vuolle dire per queste parole di costei ch'essendo chostei 
+fatta per le mani di Dio pura e netta chome dappoi noi siamo nati 
+quanto maggiore debono essere l'altre femine che poi sono seghuite com 
+pocha fede e istabilit@a.  Cierto assai meno.  E per@o dicie cos@i per 
+costei l'altore chome detto @e di sopra.
+
+	|31-60.~ 
+
+   ^Mentr'io m'andava fra tante primizie~
+   ^dell'etterno piacier tutto sospeso~
+   ^e disioso ancor di pi@u letizie.~
+
+In questa seconda parte l'altore discrive le 'nsegnie di questa grande 
+oste e primamente fa ll'altore la sua invochazione alle muse cio@e alle 
+scienzie e spezialmente ad Urania la quale @e una delle nove muse ed @e 
+quella che @e a prestare e discrivere delle chose cielestiali 
+preghandole l'altore che gli prestino di grazia di potere iscrivere 
+questo santo luogho chos@i diciendo e preghandole
+
+   ^Or convien ch'Elicona per me versi~
+   ^e Urania m'aiute col suo coro~
+   ^forte chosa a pensare mettere in versi.~
+
+Elicona si @e e ffu la fonte la quale era nel monte Parnaso dove i 
+poeti s'inchoronavano e beevano di quell'acqua e lla fonte era 
+appellata Elichona.
+
+   ^Pocho pi@u oltre i sette arbori d'oro~
+   ^falsava nel parere il lungo tratto~
+   ^del mezzo ch'era ancor tra noi e loro.~
+
+Quinci discrive l'altore le 'nsegnie che dalla lungi gli parea vedere e 
+per lo lungho tratto dicie gli parea vedere sette grandi arbori d'oro.  
+Et per questi sette gli occhorse sette chandelieri i quali discrive 
+santo Giovanni Vangelista in Appochalissi e per questo dei intendere 
+per gli sette doni dello Spirito Santo i quali doni vanno dinanzi chome 
+candellieri a questa chiesa militante.  E dicie l'altore ch'egli 
+chantavano Osanna che viene a ddire salvazione alla quale debbono 
+chantare e preghare i pastori di santa chiesa e cholle buone 
+predichazioni e operazioni e sante opere tirare a dDio le gienti 
+mondane e chi 'l fa di loro si ffa gran bene.
+
+	|61-105.~ 
+
+   ^La donna mi sgrid@o perch@e pure ardi~
+   ^s@i nell'effetto delle vive luci~
+   ^e ci@o che vien di retro a llor non ghuardi.~
+
+In questa terza parte intende l'altore discrivere questo cos@i grande e 
+nobile hoste ch'egli vedesse in quella torma.  E prima di quegli 
+ch'egli fa menzione che sono questi cos@i diciendo il nostro altore 
+Dante
+
+   ^Sotto chos@i bel cielo chom'io diviso~
+   ^ventiquatro signiori a due a due~
+   ^choronati venien di fiordaliso.~
+
+E a questo modo discrive l'altore ciaschuno in disparte incominciando a 
+questi XXIIII vecchi antichi cio@e dei intendere i libri della Bibbia 
+che sono XXIIII e fingie l'altore che questi XXIIII vecchi chantavano 
+un salmo a comendazione della santa teologia ch'apartiene alla nostra 
+fede cristiana.
+
+   ^Poscia che ' fiori e l'altre fresche erbette~
+   ^a rinpetto di me dall'altra sponda~
+   ^libere fur da quelle gienti elette.~
+
+Anchora dicie l'altore che a llui gli parea vedere fra quella giente 
+quatro animali ciaschuno con sei ali e per questi dei intendere i 
+quatro Vangielisti di santa chiesa cio@e sa[n] Marcho sa[n] Mateo san 
+Giovanni e santo Lucha.  E perch@e l'altore gli scrive con sei ali.  E 
+perch@e questi IIII.° Vangielisti iscrissono il tempo della grazia e 
+delle divine virt@u sopra la nostra fede profondamente pi@u che 
+scrivesse mai veruno altro.  E per chostoro d@a l'altore una 
+comperazione cos@i diciendo
+
+   ^Ognuno era pennuto di se' ali~
+   ^le penne piene d'occhi e gli occhi d'Argho~
+   ^se fosser vivi sarebbon cotali.~
+
+Questa comparazione che ffa qui l'altore si @e d'Argho la quale @e una 
+storia poeticha che Argho avea ciento occhi.  Ancora dicie l'altore no' 
+gli puote discrivere tanto quanto si converrebbe appieno questi 
+vangielisti perch@e dicie ch'egli avea ad attendere ad altra materia ma 
+se ttu lettore te ne vuogli pi@u pienamente ciertifichare leggi i[l] 
+libro d'Ezacchielle profeta dov'egli discrive pienamente l'apparizione 
+di questi quatro vangielisti in questo modo cio@e
+
+	|106-154.~ 
+
+   ^Lo spazio dentro a llor quattro contenne~
+   ^un charro in su duo ruote trionfale~
+   ^ch'al chollo d'un grifon tirato venne.~
+
+In questa quarta parte l'altore discrive l'apparizione d'uno charroccio 
+trionfale il quale fingie che vedesse tirare a uno grifone il quale 
+grifone @e mezzo ucciello cio@e aquila e mezzo animale cio@e lione e 
+per questo charroccio dei 'ntendere la chiesa militante di Cristo in 
+questo modo.  La chiesa @e charroccio ed @e con due ruote a reggiella e 
+a ghuidarla e per le due ruote dei 'ntendere le due leggie cio@e la 
+vecchia e lla nuova che amendue son perfette a chi lle 'ntende.  E per 
+lo grifone che ghuida il charro di santa chiesa dei intendere Ihes@u 
+Cristo il quale ghuida questa chiesa.  E affighura l'altore al grifone 
+per due ragione che chome il grifone @e ucciello cio@e aquila e lione 
+cos@i lo fighura in significhazione di Dio per l'ucciello per la 
+divinit@a e per la bestia per la umilit@a.  Inper@o che 'l Nostro 
+Signiore prese charne humana per salvare l'umana gienerazione.  Ancora 
+dicie l'altore che questo grifone era chiazzato di vermiglio e questo 
+si de' intendere per la sua paxione e morte.  E per questo ti d@a 
+l'altore una similitudine che il charroccio di Scipione Affrichano 
+Maggiore n@e quello d'Aghosto n@e quello del Sole fu mai s@i bello 
+quant'era questo anzi erano un niente apresso quello cos@i diciendo
+
+   ^Non che Roma di charro chos@i bello~
+   ^rallegrasse Africhano o vero Aghusto~
+   ^ma quel del Sol saria pover con ello.~
+
+Seghue il testo diciendo il nostro poeta Dante.  Per questo detto di 
+sopra l'altore toccha di tre storie trionfali d'allegrezza.  La prima 
+fu quando Iscipione Africhano Magiore figliuolo di Publio Cornelio 
+Scipione raquist@o la Spagna ch'era stata vinta per Aniballe di 
+Chartagine e poi egli and@o e vinse e sotto puose a Roma Chartagine con 
+tutto il suo regnio e per questo sottoporre i Chartaginesi liberorono 
+Italia conciosiachosach@e Aniballe era stato in Italia XVI anni o pi@u 
+c'avea date assai ischonfitte a' Romani.  E avendo Iscipione raquistata 
+la Spagnia tolta per Aniballe e sottoposta Chartagine poi e Aniballe 
+s@i ssi part@i d'Italia per socchorrere la sua patria e in questo modo 
+Iscipione liber@o Italia.  E giunto Aniballe a cChartagine s'abbocch@o 
+con Iscipione e combatterono e Scipione il vinse e per queste tre 
+grandi vittorie quando torn@o i[n] Roma in sul charro trionfale fu 
+molto addorno e pieno d'ogni magnificienzia.  Il secondo trionfo fu 
+quello d'Ottaviano il secondo imperadore di Roma il quale fu huomo 
+valentissimo ed ebbe assai vittorie ma sopra tutte fu quella che 
+chognobbe Cristo che pass@o tutte l'altre perch@e era allora paghano.  
+E dicie l'altore che 'l charroccio del sole sarebbe povero a questo 
+ch'egli vide cos@i addorno.  E dicie l'altore che 'l charro del sole 
+quando Fetonte figliuolo del sole chiese un d@i di grazia che gli 
+lasciasse menare il charro del sole laonde il sole si llo aconsent@i e 
+menando Fetonte il charro del sole e per paura e per lo pocho senno 
+nollo seppe ghuidare per la sua via.  E per questa chagione il sole 
+arse ed e' bruci@o tutto il mondo questa @e storia poeticha e morale 
+alleghoria e questo basti.
+
+   ^Tre donne in giro della dextra rota~
+   ^venir danzando l'una tanto rossa~
+   ^ch'a ppena fora dentro al foco nota.~
+
+Ancora iscrive l'altore che dal dextro lato del charro gli apparvono 
+tre donne l'una di colore rosso l'altra di colore verde e l'altra di 
+colore biancho.  Per la rossa dei 'ntendere la carit@a e per la verde 
+la speranza e per la biancha la fede cristiana e queste sono le tre 
+virt@u teologiche le quali il nostro altore co brevit@a t'ha dimostrate.
+
+   ^Dalla sinistra quatro facien festa~
+   ^di porpore vestite dietro al modo~
+   ^d'una di lor ch'ave' tre occhi in testa.~
+
+Dal lato sinistro di quel charro dicie l'altore che vide quatro altre 
+donne.  Per queste dei intendere le quatro virt@u chardinali cio@e fede 
+fortezza prudenza e temperanza.
+
+   ^Apresso tutto il pertrattato nodo~
+   ^vidi duo vecchi in abito dispari~
+   ^ma pari in atto con onesto modo.~
+
+Per questi due vecchi ci ha di quegli che credono che ll'altore 
+diciesse che l'uno fosse Mois@e e ll'altro fusse Aron per la loro 
+antichit@a imper@o che Mois@e diede le leggi e ffu huomo solo disposto 
+al servigio di Dio e Aron fu huomo d'arme e disposto al mondo e per@o 
+dicie l'altore che l'uno facieva la piagha e ll'altro la sanava.  Altri 
+fanno altra disposizione e dicie l'uno fu santo Lucha Evangielista il 
+quale sanava le piaghe de' pecchatori coi suoi vangieli.  Ancora 
+sanamente parlando santo Lucha fu prima medicho che fusse vangielista.  
+Altri dichono fu san Paolo il quale prima fosse convertito 
+perseghuitava i cristiani cholla spada i[n] mano e poi che fu 
+convertito colla spada della sua iscienzia trapass@o insino al cielo.  
+Ancora iscrive l'altore che dietro a questi quatro ne venghono altri 
+quatro.  Per costoro dei 'ntendere i quatro dottori di santa chiesa 
+cio@e santo Aghostino che ffu barbero il quale in disputazione valich@o 
+tutti gli altri.  L'altro san Girolamo che ffu greco il quale fu in 
+istorie il maggiore e vinse tutti gli altri.  L'altro fu santo 
+Ambruogio il quale fu romano che in predichazioni avanz@o tutti gli 
+altri.  L'altro fu san Grighorio il quale fu romano il quale iscrisse 
+i[n] moralit@a pi@u che veruno altro.  Ancora dicie l'altore che dietro 
+a tutti chostoro veniva un vecchio solo.  Alquanti intendono di san 
+Bernardo altri di san Giovanni Vangielista ch'essendo addormentato nel 
+grembo di Cristo vide tutta la divinit@a.  E per@o dicie chos@i bene il 
+nostro altore fiorentino poeta Dante per questo
+
+   ^Poi vidi quatro in umile paruta~
+   ^di dietro da tutti un vecchio solo~
+   ^venir dormendo colla faccia arghuta.~

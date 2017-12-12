@@ -1,0 +1,676 @@
+	|Proemio.~  1-78.  LA MORTE D'UGOLINO.  Il peccatore, a
+cui D. ha parlato, solleva la bocca e dice chi @e lui e chi il suo
+compagno di buca; poi si accinge a raccontare la propria fine
+straziante, facendo forza a s@e stesso e piangendo, perch@e spera
+che il racconto, riferito da quel vivente tra gli uomini su nel
+mondo, accrescer@a l'infamia del traditore che egli sta rodendo,
+colpevole di codesta fine.  Ne espone dunque i tragici, orribili,
+commoventissimi particolari; ma tosto che ha finito il racconto,
+riaddenta quel teschio con rinnovato, sempre bestiale furore.
+
+	79-90.  IMPRECAZIONE CONTRO PISA.  Come ha terminato di
+riferire la narrazione fattagli da Ugolino stesso della
+straziante morte sua e de' suoi, D. impreca a Pisa e a' suoi
+cittadini lo sterminio.  Egli crede che non sia stata se non una
+^voce~ che il Conte fosse colpevole del tradimento appostogli;
+ma, posto pure ch'ei fosse colpevole, i Pisani non dovevano far
+morire cos@i barbaramente anche i figli giovani e ^innocenti.~  E
+D. considera colpevole tutto il popolo, perch@e tutto era insorto
+contro Ugolino e aveva tollerata e voluta, con l'Arcivescovo,
+quell'infamia: tutti dunque, anche gl'^innocenti~, subiscano lo
+sterminio.  @E una applicazione molto feroce del ^contrapasso~: Il
+^De Sanctis~ lo dice `furore biblico'.
+
+	91-108.  TOLOMEA.  LA ZONA DEI TRADITORI DEGLI OSPITI.  I
+Poeti passano nella 3a zona di Cocito, riserbata ai traditori
+degli ospiti.  @E chiamata Tolomea, probabilmente da quel Tolomeo
+ebreo, che a splendido convito uccise proditoriamente il suocero
+e due cognati (I, ^Maccab.~ XVI, 11-16).  [Secondo altri, da
+Tolomeo, re d'Egitto, l'uccisore di Pompeo].  Questi traditori
+sono confitti nel ghiaccio ma stanno distesi supini e con la
+faccia scoperta.  Non possono avere nemmeno lo sfogo, che @e pure
+conforto, del libero piangere; poich@e le prime lagrime si sono
+congelate, e le altre che seguitano a formarsi ne' loro occhi,
+ritornano in dentro ad accrescere l'angoscia.  Qui D. comincia a
+sentir vento, e chiede a D. come questo si formi; e V.: `Lo
+vedrai fra poco da te'.
+
+	109-150.  FRATE ALBERIGO E BRANCA D'ORIA.  Un dannato,
+credendo i P. anime dannate che passino per andare, come in loro
+sede, nell'ultimo giro di Cocito, li prega di togliergli dagli
+occhi il velo di ghiaccio: potr@a cos@i aver per un momento un po'
+di sollievo dando sfogo al pianto.  D. risponde che far@a ci@o, se
+il dannato gli dir@a chi @e.  <Sono Frate Alberigo>, ei dice, e
+aggiunge un particolare che lo fa riconoscere.  <Tu, sei gi@a
+morto?>.  <Del mio corpo io non so nulla.  Appena compiuto un
+tradimento quale compiei io, l'anima piomba quaggi@u, e il corpo,
+che nel mondo pare ancor vivo, @e animato da un diavolo.  Cos@i qui
+vicino a me @e da pi@u anni l'anima di Branca d'Oria, il cui corpo
+su nel mondo ha per anima un diavolo>.  D. stenta a credere la
+cosa; ma il dannato lo assicura con nuovi particolari circa
+Branca d'Oria, e rinnova quindi la preghiera di aprirgli gli
+occhi.  D. non lo esaudisce, e si dichiara convinto d'aver agito
+come doveva.
+
+	151-157.  INVETTIVA CONTRO I GENOVESI.  Come dopo
+l'episodio di Ugolino ha inveito contro i Pisani (v. 70 sgg.),
+cos@i dopo quello di Branca d'Oria, D. inveisce contro i Genovesi
+augurando anche a loro, come a gente aliena da ogni buon costume,
+l'annientamento.  Dello stato e dei costumi di Genova verso il
+1300 ^Iacopo d'Oria~ scrive: <Quamvis his temporibus civitas
+Ianuae in tanta esset sublimitate, potentia, divitiis et honore,
+nihilominus tamen in civitate et extra homicidae, malefactores et
+iustitiae contemtores multiplicare coeperunt.  Nam tempore dicti
+Potestatis malefactores quamplurimi gladiis et iaculis ad invicem
+die noctuque percutiebant ac etiam perimebant>; Murat., ^Script.~
+VI, 608.  Gi@a Virg., ^Aen.~ XI, 700 sg., parla dei Liguri come di
+gente fallace, e Servio commenta: <Ligures omnes fallaces, sicut
+ait Cato secundo libro Originum>.
+
+	|4-6.  Vuoi~ ecc.: <Infandum, Regina, iubes renovare
+dolorem... quamquam animus meminisse horret, luctuque refugit>;
+Virg., ^Aen.~ II, 3 e 11; ma D., pur ricordando le frasi
+virgiliane, le rinnova fondendole in una sola, pi@u potente per la
+sua stessa unit@a e perch@e ai generici `infandum' e `animus
+meminisse ecc.' sostituisce il forte aggettivo |disperato~ e la
+frase |il cor mi preme~, che ci mette innanzi in forma viva tutto
+il peso e tormento di quel dolore.  |Rinovelli... pensando~:
+faccia rivivere e risenta quel dolore senza speranza di conforto,
+che gi@a mi tortur@o e di cui mi pesa sul cuore tutta la gravezza
+solo a ripensarlo.  @E il contrario d'^Inf.~ V, 121 sgg.
+
+	|7-9.  Dien~: dienno, arc. per `denno, devono' (Nann.,
+^Verbi~ 592).  Devono, giusta la promessa fatta ^Inf.~ XXXII, 135
+sgg.  |Seme~: <le parole sono quasi seme d'operazione>; ^Conv.~
+IV, ii, 8.  |Parlare~ ecc.: Cfr. ^Inf.~ V, 126.
+
+	|10-12.  Io non so~: Ugolino non si cura di chiedere a D.
+chi egli sia: chiunque sia, udito ci@o che Ugolino gli dir@a, potr@a
+e vorr@a, attenendo la promessa fatta, infamare il traditore ch'ei
+rode: questo solo a Ugolino importa.  |Fiorentino~: tale lo
+riconobbe alla favella; cfr. ^Inf.~ X, 25 sgg.
+
+	|13-14.  Dei~: = devi.  |I' fui... questi @e~: `fui, ma
+pi@u ormai non sono il |conte~ famoso', dice Ugolino conscio della
+sua condizione di dannato (cfr. ^Par.~ VI, 10); ma nel presentare
+il suo compagno di pena che ^@e l@i~ con lui, pur usando il
+presente |@e~, unisce al nome di Ruggieri il titolo di
+|arcivescovo~, che, mentre serve a individuare subito il
+personaggio, quasi si dicesse `il famoso arcivescovo Ruggieri',
+acquista in bocca ad Ugolino una tinta fieramente sarcastica:
+`questi, che vedi cos@i malconcio da' miei denti @e proprio
+l'|arcivescovo~, il potente e crudele arcivescovo Ruggieri!'. 
+Solo e sempre @e questo il suo avversario.  Quale il tradimento di
+cui ciascuno dei due si macchi@o?  Quale la colpa speciale di
+Ruggieri, per la quale Ugolino, dannato come lui e con lui, @e per
+lui anche esecutore di giustizia?  Ugolino, conte di Donoratico,
+figlio di Guelfo della Gherardesca, nato nella prima met@a del
+sec. XIII, fu signore di molte terre nei piani della Maremma di
+Pisa, vicario di re Enzio in Sardegna e signore di terre nel
+cagliaritano.  Dalla moglie Margherita de' Pannocchieschi,
+contessa di Montingegnoli, ebbe pi@u figliuoli: Guelfo, Lotto,
+Matteo, ^Gaddo~, ^Uguiccione~, Emilia, ecc.  Il primogenito
+Guelfo II spos@o Elena, figlia naturale del re Enzo, e n'ebbe
+Lapo, Enrico, Nino, detto ^il Brigata~ ed ^Anselmuccio~, i tre
+primi dei quali ereditarono i diritti materni su la Sardegna, la
+Lunigiana ed altri paesi.  I Della Gherardesca erano, come la
+loro citt@a, di Parte Ghibellina; ma Ugolino, quando vide
+prevalere in Toscana la Parte Guelfa, tradendo la parte sua, si
+di@e a parteggiare per i Guelfi, e nel 1274-75, d'accordo col
+genero Giovanni Visconti, tent@o di rendere guelfo il reggimento
+della repubblica pisana.  Fallito il tentativo, Ugolino fu prima
+imprigionato, poi esigliato; ma nel 1276 pot@e con l'aiuto dei
+Guelfi rientrare in Pisa insieme col nipote Ugolino, detto Nino,
+Visconti (cfr. ^Purg.~ VIII, 53), figliuolo di Giovanni Visconti
+che frattanto era morto.  Seppe allora cattivarsi in Pisa stima e
+benevolenza, e acquist@o vera preminenza, sicch@e nel 1284, nella
+guerra contro Genova, ebbe il comando della flotta che purtroppo
+fu sconfitta il 10 agosto alla Meloria.  Tornato in citt@a,
+divenne vero capo di questa con titolo di podest@a e anche di
+capitano, nei quali uffici troviamo sulla fine del 1285 associato
+a lui il nipote Nino.  Intanto essendosi Genova collegata con
+Lucca e Firenze, vecchie rivali di Pisa, Ugolino ruppe la
+pericolosa lega concedendo a queste due citt@a alcuni castelli dei
+Pisani (quali, non @e ben certo); il che a torto gli fu imputato a
+tradimento.  Ma Ugolino e il nipote non andavano d'accordo.  Nino
+era guelfo schietto anche per tradizione di famiglia; non cos@i
+Ugolino che mirava a divenire ^signore~ di Pisa e a cui dava
+ombra il nipote, che discordava da lui anche circa la pace con
+Genova, che Nino favoriva e l'avo osteggiava.  Conclusa
+finalmente nel 1288, tra l'aprile e il maggio, la pace con
+Genova, la Parte Ghibellina in Pisa riprese ardire, favorita
+dall'arcivescovo Ruggieri (era arcivescovo dal 1278), ghibellino
+fervido al pari di tutta la sua casata.  Anche Ugolino, sempre in
+poca concordia con Nino, riprese a ghibellineggiare.  Ruggieri,
+fingendosi personalmente benevolo a Ugolino, di@e opera a cacciar
+Nino da Pisa, ci@o che avvenne il 30 giugno dello stesso anno; poi
+subito richiam@o il conte (che stava nascosto a Settimo e a cui
+invano aveva ricorso Nino per aiuto), fingendo di voler trattare
+con lui un amichevole accordo.  Torn@o il conte in Pisa; ma il
+popolo, per istigazione di Ruggieri che dov@e favorire la voce del
+tradimento ^delle castella~, insorse e imprigion@o lui insieme coi
+figli Gaddo e Uguiccione, i nipoti Nino, detto il Brigata, e
+Anselmuccio.  Dai primi del luglio del 1288 furono tenuti in
+carcere per pi@u mesi, e nel marzo dell'anno seguente lasciati ivi
+morir di fame.  Ugolino dunque @e laggi@u come traditore di Parte
+Ghibellina e poi di Parte Guelfa e anche del nipote Nino;
+l'arcivescovo come traditore politico del conte; se non che,
+avendo il prelato fatto, per giunta, morire o tollerato che fosse
+fatto morire di fame il suo avversario, e non lui solo, oltre a
+quella del ghiaccio gli @e inflitta la pena di essere cibo di chi
+mor@i per colpa di lui privo di cibo: il ^contrapasso~ (c. XXVIII,
+142) @e evidente.  Notiamo subito che D., come gi@a antichi
+cronisti (cfr. n. 38), credette tutti e quattro i compagni di
+prigione del conte figliuoli suoi e in et@a pi@u giovanile di
+quella che fu la loro et@a reale; e, come giovani figli dobbiamo
+considerarli per intendere e sentire tutta la poesia ch'@e nel
+racconto di Ugolino.  (^G. Vill.~ VII, 98, 121, 128; ^Sforza,
+Dante e i Pisani~ 85-132; U. Dorini, ^Il tradim. del conte
+Ugolino~ in ^St. dant.~ XII, pp. 31 sgg.).
+
+	|15.  I~: gli, a lui.  Ora ti dir@o perch@e gli sono vicino
+siffatto (|tal~), cio@e non ^amico~, ch'@e la prima idea suscitata
+(^De Sanctis~) dalla parola ^vicino~, ma spietatamente crudele.
+
+	|16-18.  Mai~: mali, malvagi.  |Fidandomi di lui~: epper@o
+anche l'arcivescovo @e traditore; cfr. n. 13-14.  |Non @e
+mestieri~: poich@e la fama dell'avvenimento sar@a di certo
+pervenuta anche a te, fiorentino.  Si sa che le vicende di Pisa
+erano attentamente seguite e anche, e spesso, contrastate dalla
+rivale Firenze; e il conte Ugolino e Nino nipote ebbero pi@u volte
+rapporti diretti politici con essa.
+
+	|19-21.  Per@o~: perci@o: poich@e i precedenti D. li deve
+conoscere.  |Quel che... offeso~: Ugolino non si ferma a parlare
+<di quello che la storia ha oramai fermato nelle sue pagine>; ma
+<la storia @e obbligata ad arrestarsi davanti alla porta
+inchiodata della Torre... solo il poeta ci potr@a dire, per averlo
+sentito dalla bocca stessa del Conte, il dramma che si svolse
+dentro le tetre mura di quella Torre dal momento che fu
+^chiavato~ l'uscio di sotto, fino alla morte di quegl'infelici. 
+La poesia cos@i compie la storia e ne riempie e adorna le pagine
+bianche con le sue visioni meravigliose>; F. Romani, ^Lect.
+Dantis~, p. 25.
+
+	|22-24.  Pertugio~: buco; il finestrino del carcere. 
+|Muda~: la torre de' Gualandi alle Sette Vie, dove le infelici
+vittime, incarceratevi nel luglio del 1288 (dopo essere state
+tenute venti e pi@u giorni nel palazzo del popolo) morirono l'anno
+seguente.  Sorgeva suil'odierna piazza dei Cavalieri.  <^Muda~ @e
+luogo chiuso ove si tengono li uccelli a mudare; |muda~ chiama
+l'autore quella torre, o forse perch@e cos@i era chiamata [come
+affermano ^Bambgl.~, ^Ott.~, ^An. Fior.~, ecc.] perch@e vi si
+tenessono l'aquile del Comune a mudare, o per transunzione [=
+^metafora~] che vi fu rinchiuso il conte e li figliuoli come li
+uccelli nella muda>; ^Buti.~  |Per me~: per esservi io morto di
+fame.  <E da inde inansi la dicta pregione si chiam@o Pregione e
+Torre della fame>; Murat., ^Script.~ XXIV, 655.  |Altrui~: si us@o
+per `altri' anche come nominativo.  Solo nel 1318 la Torre della
+Fame cess@o di essere adibita a carcere, parendo essa tanto
+angusta e incomoda da accelerare la morte dei prigionieri
+(^Torraca~).
+
+	|26-27.  Pi@u lune~: pi@u volte il ritorno della nuova
+luna; ero in prigione da pi@u mesi.  |Feci 'l mal sonno~ ecc.:
+vidi in sogno la sorte spaventevole che mi aspettava.
+
+	|28-30.  Maestro~: della caccia.  |Donno~: ^dominus~,
+signore della brigata.  |Lupo~: Ugolino.  |Lupicini~: i figli. 
+|Monte~ ecc.: Se non fosse il monte pisano [^San Giuliano~] in
+mezzo tra Pisa e Lucca, sono tanto presso, che l'una citt@a
+vedrebbe l'altra>; ^Buti.~
+
+	|31-33.  Cagne~: i Pisani seguaci dell'Arcivescovo, per
+contrapposto ad Ugolino e a' suoi.  <Questi sono lo popolo minuto
+che comunemente @e magro e povero>; ^Buti.~  Certo @e per@o che nel
+senso letterale la magrezza, segno di denutrizione e di fame,
+esprime la bramosia con che le cagne cacciano, confermata da
+|studiose~, che dice come intentamente mirassero alla preda. 
+|Conte~: avvezze, esperte della caccia in quei luoghi. 
+|Gualandi~ ecc.: <Queste sono tre case di gentiluomini della
+citt@a di Pisa, di grande onore e di grande potenzia nell'antico>
+(^Buti~), casate Ghibelline e amiche dell'Arcivescovo.  |S'avea~
+ecc.: l'Arcivescovo li aveva posti innanzi agli altri.  <Di loro
+avea fatto bolcione contro il conte>; ^Buti.~  L'Arcivescovo
+aveva aizzato contro Ugolino e i suoi cos@i i grandi come il
+popolo minuto.
+
+	|34-36.  In picciol corso~: dopo breve inseguimento.  @E
+il presentimento della morte vicina.  <Il sogno @e un velo, dietro
+al quale @e facile vedere le agitazioni della veglia: il reale si
+rivela sotto al fantastico.  Ruggiero, Gualandi, Sismondi,
+Lanfranchi stanno presenti innanzi al prigioniero, crudeli in s@e
+e nei figli, e ora gli appariscono in sogno cacciando il lupo e i
+lupicini; l'occhio vede animali, ma l'anima sente confusamente
+che si tratta di s@e e de' suoi figliuoli, e quel lupo e quei
+lupicini si trasformano con vocabolo umano in |padre e figli~>;
+^De Sanctis.~  |Scane~: <|scane~ sono li denti pungenti del cane,
+ch'elli ha da ogni lato coi quali elli afferra>; ^Buti.~  |Lor~:
+al padre ed ai figli, al lupo ed ai lupicini.
+
+	|37.  Dimane~: in ant. signific@o `mattina' (^Bull.~ III,
+151).  Dunque un sogno presso il mattino; quando i sogni si
+credeva rispondessero alla realt@a; cfr. ^Inf.~ XXVI, 7 e ^Purg.~
+IX, 13-18.
+
+	|38-39.  Fra 'l sonno~: piangono e domandan pane
+sognando.  Non dice che tutti facessero lo stesso sogno; ma tutti
+sognavano in quell'ora, e a ciascheduno il suo sogno annunziava
+morte, e morte di fame.  |Figliuoli~: due soli, Gaddo e
+Uguiccione, erano figli: il Brigata ed Anselmuccio erano nipoti
+d'Ug., figli del suo primogenito Guelfo II; cfr. n. 13-14.  Il
+^Buti~, che leggeva il suo commento a Pisa nel 1375, chiosa:
+<presono il detto conte ^con quattro suoi figliuoli~, e
+rinchiusonli in una torre che oggi si chiama la torre della
+fame>.  E un anonimo cronista Pisano del sec. XIV: <Nel 1288
+Ruggieri delli Ubaldini, e i Gualandi, e Lanfranchi, e certi
+delli Orlandi, e quelli di Ripafratta, e molti altri cittadini
+cacciarono lo conte Ugolino di signoria, e presono lui ^e li
+figliuoli~, e missenli in pregione, e fecenli morire tutti di
+fame in una Torre in sulla Piazza degli Anziani, che poi @e
+chiamata la Torre della fame, e mor@i ^con quattro figliuoli di
+fame~, e furno seppelliti nella chiesa di San Francesco>; Murat.,
+^Script.~ XV, 979; cfr. Romani, o. c., 19.  |Domandar del pane~:
+nel sonno sognano di soffrire la tortura della fame che li
+aspetta, e di chiedere pane al padre loro, che prova a quella
+richiesta uno strazio indicibile ben sapendo che nulla pu@o n@e
+potr@a dar loro.
+
+	|40-42.  Gi@a~: prima d'udire la parte pi@u terribile e
+dolorosa del mio racconto, cio@e come la morte fu cruda (v. 20). 
+|Che 'l mio cor~: <sentimento vero, profondo del cuore che
+annunzia a s@e i suoi dolori>; ^Fosc.~, il quale per altro
+accettava la var. |ch'al m. c.~, perch@e <qui richiedesi
+semplicit@a di discorso>.  Ma se |che 'l~ @e conforme a un
+sentimento vero e profondo, apparisce espressione semplice e
+naturale, mentre poi ha per s@e la testimonianza de' codici.  D.,
+pur essendo commosso, non piange; e ad Ugolino, che si esprime
+non solo con parole, ma con lagrime (v. 9), tale contegno par
+cos@i freddo e duro, ch'egli prorompe nell'acerbo rimprovero
+contenuto ne' vv. 40-42; Cfr. Romani, o. c., 30.
+
+	|43-48.  Gi@a eran desti~: anch'essi come il padre. 
+|Dubitava~: temeva, pi@u o meno, quel che stava per accadere. 
+|Chiavar~: dal lat. ^clavus~ = ^chiavo~ (^Par.~ XXXII, 129) =
+chiodo, vale `inchiodare'; cfr. ^Purg.~ VIII, 137 sg.; ^Par.~
+XIX, 105.  Altri vuole che |chiavare~ valga qui ^serrare con
+chiave~, come se solo allora l'uscio fosse chiuso a chiave.  Il
+|chiavare~ che atterrisce gli sventurati doveva essere un
+chiavare del tutto nuovo per loro.  ^G. Vill.~ VII, 128: <Feciono
+chiavare la porta della detta torre e le chiavi gittare in Arno>. 
+Se questa notizia @e storica, si pu@o pensare che <inchiodata la
+porta, gi@a prima chiusa a chiave, que' feroci le chiavi
+gittassero in Arno per ultimo sfogo di vendetta, a significare
+che Ugolino e i suoi di l@a non sarebbero usciti pi@u mai>; ^Pol.~ 
+|Guardai~ ecc.: <Vorrebbe dire: ^Poveri figli!~  E nol dice: lo
+dice il suo sguardo.  Lo strazio @e tale che gli toglie la parola
+e le lacrime.  Tutta la sua vita @e raccolta in quello sguardo>;
+^De Sanctis.~
+
+	|49-51.  Dentro~: <Emortuum est cor eius intrinsecus, et
+factus est quasi lapis>; I ^Reg.~ XXV, 37.  |Impetrai~: una frase
+simile ^G. Vill.~ VIII, 63: <il dolore impetrato nel core di papa
+Bonifazio>.  E nell'^Aiolfo del Barbicone~, II, 78: <gli
+abbracci@o e benedisse, e tanto impetr@o dentro per tenerezza,
+ch'ella non parl@o guari pi@u>.  |Anselmuccio~: @e il pi@u giovane di
+tutti.  |S@i~: cos@i atterrito e disperato.  <Anselmuccio non sa
+definire, n@e spiegare quel modo di guardare: quel |s@i~ significa
+^in modo cos@i fuori del naturale e dell'ordinario.~  |Che hai?~ 
+domanda il fanciullo.  Lo strazio @e tutto nella coscienza di
+quello sguardo senza parola e nell'innocenza di quello |che hai?~ 
+accompagnato con lacrime>; ^De Sanctis.~
+
+	|52-54.  Perci@o non~ ecc.: non per questo, cio@e per il
+loro pianto e la loro domanda, piansi o parlai, tanto era
+impetrato dentro!  Pi@u terribile l'impetrare che non lo sfogare
+il dolore con pianto e parole.  |Infin~ ecc.: fino all'alba del
+giorno seguente: ventiquattro ore di cupo silenzio!
+
+	|55-58.  Come~: tosto che.  |Un poco~: quanto poteva
+entrare per il ^breve pertugio.~  <In quella notte di silenzio la
+fame avea lavorato e trasformato il viso del padre e dei figli, e
+quando, fatta un po' di luce, quella vista lo coglie impreparato,
+in un momento naturale d'obbl@io l'uomo si manifesta e prorompe in
+un atto di rabbia tanto pi@u feroce e bestiale, quanto la
+compressione fu pi@u violenta, e pi@u inaspettata e pi@u viva @e
+l'impressione di quella vista>; ^De Sanctis.~  |Per quattro~:
+dalle facce de' quattro giovinetti, trasfigurate da fame,
+sgomento, terrore, comprese, anzi ^scorse~, come in uno specchio,
+quale dovesse essere il volto suo.  |Mi morsi~: <Quest'uomo che
+in um impeto istantaneo di furore d@a di morso alle sue mani, @e
+gi@a in anticipazione colui che nell'inferno @e fissato ed eternato
+co' denti nel cranio nemico, come d'un can, forti>; De Sanctis,
+o. c.  E cfr. D'Ovidio, ^N. St.~ II, pp. 46-48.
+
+	|59-63.  Manicar~: mangiare; fiorentinismo.  <Loquuntur
+Florentini et dicunt: ^Manichiamo introque~>; ^De Vulg. El~ I,
+xiii, 2.  |Levorsi~: si levorono, arc. per `si levarono'.  |Di
+noi~: della nostra carne.  <Il padre che per fame si mangia le
+mani @e tal cosa, li percuote di tale spavento, che ad un attore
+intelligente farebbe comprendere tutto ci@o che si chiude in quel
+grido: |Padre!~  accompagnato col subitaneo levarsi in pi@e di
+tutti e quattro, essi che stavano a terra esausti per fame.  Quel
+grido, quel levarsi in pi@e ha virt@u di arrestare il padre, di
+restituirgli la padronanza di s@e, tolto per forza a quell'istante
+di obbl@io, di fargli ricordare che @e padre, e non gli @e permesso
+di essere uomo.  Quel loro offrirsi in pasto al padre non @e gi@a
+sublime sacrificio dell'amor filiale, sentimento troppo virile
+ne' teneri petti: @e un'offerta trasformata immediatamente in una
+preghiera, come di cosa desiderata e invocata>; ^De Sanctis.~ 
+|Ne vestisti~: a noi desti.  |Le spoglia~: ritoglile.
+
+	|64-66.  Queta'mi~ ecc.: mi quetai per non accrescere il
+loro dolore.  |Lo d@i~: arc. per `quel d@i'; il 2+o~
+dall'inchiodamento della porta.  |L'altro~: il 3+o.~  |Tutti muti~:
+anche i figli, che nel primo giorno non erano stati muti (v. 50
+sg.).  Silenzio spaventevole!  <Quegli ^u~ del secondo verso [v.
+65] ti fanno venire il freddo: tanto il suono @e cupo.  Nel padre
+un silenzio di compressione, ne' figli @e un silenzio d'agonia>;
+^De Sanctis.~  |Dura~: crudele; ch@e, se non eri crudele, dovevi
+aprirti e inghiottirci tutti per sottrarci a tanto strazio; cfr.
+Virg., ^Aen.~ X, 674 sg.
+
+	|68-70.  Gaddo~: il figlio maggiore di Ugolino.  |Come tu
+mi vedi~: insiste sulla verit@a e realt@a del martirio che il suo
+cuore di padre dov@e soffrire.
+
+	|71.  Li tre~: Uguiccione, Brigata ed Anselmuccio.  |Ad
+uno ad uno~: <quello spettacolo di morte si ripete quattro volte,
+e a lunghi intervalli, entro tre giorni, e fu possibile che un
+padre vedesse questo, e starsi quieto, tener chiuso in s@e il
+martirio, snaturarsi, disumanarsi>; ^De Sanctis.~  <Come tu vedi
+me qui, cos@i io li ho veduti, capisci, con questi occhi cadere
+uno alla volta.  E quel |vid'io~, proprio |io~, @e un grido acuto
+di spasimo>; D'Ov., ^N. St.~ II, 53.
+
+	|73-75.  Cieco~: indebolito e gi@a moribondo. 
+|Brancolar~: andare a tastone; cfr. Ovid., ^Met.~ VI, 277 sg.,
+dove si dice che Niobe, mortile i figli, <corporibus gelidis
+incumbit et ordine nullo Oscula dispensat natos suprema per
+omnes>.  |Due~: il 7+o~ e l'8+o.~  |Poscia~: passati i due d@i, |il
+digiuno~ pot@e ci@o che non aveva potuto il dolore: mi uccise. 
+Ormai @e abbandonata da quasi tutti l'interpretazione: `La fame fu
+pi@u forte del dolore e m'indusse a cibarmi delle carni de'
+figli'.  Di tale antropofagia si fa cenno gi@a in un'antica
+cronaca (Villari, ^I primi due secoli d. storia di Firenze~, II,
+p. 250); ma che il cenno corrisponda alla realt@a, non @e sicuro;
+eppoi non proprio d'Ugolino, ma di tutti e cinque i prigionieri
+si dice che <si trov@o che l'uno mangi@o delle carni all'altro>,
+dopo aver detto che tutti e cinque morirono di fame.  Circa la
+controversia sulla tecnofagia del Conte cfr. G. Sforza, ^Dante e
+i Pisani~, 75 sg. e D'Ov., ^St.~ 25 e 571; e ^N. St.~ II, 64 sgg. 
+Per il ^Pol.~, Ugolino vuol dire <non gi@a che abbia mangiato la
+carne de' suoi, ma che, tratto dall'istinto e come fuor di s@e,
+n'abbia fatto come un tentativo>.  No: Ugolino vuol raccontare
+^come la morte sua fu cruda~; epper@o, descritte le tragiche
+sofferenze degli ultimi giorni, tocca del momento supremo di sua
+vita dicendo che pi@u potente del dolore, da cui attingeva ^la
+forza di muoversi e gridare~ (D'Ov., ^N. St.~ II, 115), e che
+quasi lo nutriva, fu su di lui il digiuno: questo solo ebbe forza
+d'ucciderlo.  Come ha detto della morte di ognuno dei quattro
+figli, cos@i egli parla qui in fine della sua.  <Dopo li 8 d@i ne
+furono cavati [dalla muda] e portati inviluppati nelle stuoie al
+luogo de' Frati minori a San Francesco e sotterrati nel monimento
+che @e allato alli scaloni a montare in chiesa alla porta del
+chiostro coi ferri in gamba; li quali ferri vid'io, cavati dal
+detto monimento>; ^Buti.~
+
+	|76-78.  Torti~: biechi.  Il ricordo della terribile
+morte sua e de' suoi, se ha rinnovato in lui il disperato dolore,
+ha pure acuito tutta l'ira e l'odio contro chi n'@e stato
+l'autore.  |Misero~: <ch'egli avea diretro guasto>, v. 3. 
+^Misere~ le carni de' figli, v. 63; ma |misero~ anche quel
+teschio perpetuamente roso.  |Che furo~ ecc.: <Aspra, vigorosa,
+possente @e tutta la terzina, ma in ispecie l'ultimo verso. 
+L'energia dell'atto @e mirabilmente espressa dal ritmo, spezzato
+in mezzo con il paragone canino; da quel davvero forte bisillabo
+che resta isolato in fin del verso; dallo scontro dei due accenti
+della nona e decima sillaba; dalla languidezza dell'accento
+principale (|c$ome~), mentre la vera enfasi accentuale @e sulla
+quarta e sulla nona sillaba; da quei due monosillabi tronchi,
+tronchi tutti e due in nasale (|un can~); dal trovarsi il secondo
+tronco innanzi alla pausa e doversene sentire tutta l'asprezza. 
+Dell'intero verso tre sole parole richiamano a s@e l'enfasi,
+|osso~, |can~, |forti~, e il resto non @e che il loro corteo>;
+D'Ov., ^N. St.~ II, 54 sg.
+
+	|79-81.  Ahi~: <La tenerezza e la piet@a paterna diventano
+ferocia e rabbia, le lagrime diventano morsi, con infinito
+terrore e orrore degli spettatori.  Lo stesso sentimento guadagna
+D.  @E inferocito anche lui; diresti quasi, che se li avesse
+innanzi, li prenderebbe a morsi quei Pisani, |vituperio delle
+genti~>; De Sanctis, o. c.  |Paese~: Italia.  |Il s@i~: la lingua
+italiana; cfr. ^De Vulg. El.~ I, viii, 6.  |Vicini~: Fiorentini e
+Lucchesi.
+
+	|82-84.  Muovasi~ ecc.: Cavrara o Caprara o Capraia, e
+Gorgona sono due isolette nel mar Tirreno, ambedue ai tempi di D.
+soggette a Pisa e non lungi dal litor. pisano sebbene non di
+fronte alla bocca dell'Arno.  Cfr. ^Bass.~ 120.  |Siepe~:
+chiusura, s@i che l'Arno, che traversa Pisa poco prima di versarsi
+nel mare, traboccando la allaghi e vi sommerga ogni persona.
+
+	|85-87.  Voce~: fama.  |Delle castella~: cedute ai
+Lucchesi e ai Fiorentini: cfr. n. 13.  |Dovei~: dovevi.  |A tal
+croce~: a un supplizio cos@i crudele.
+
+	|88.  Novella~: giovanile; cfr. ^Conv.~ IV, xix, 9: <^in
+et@a novella~, cio@e in giovani>.  <Di questa crudelt@a furono i
+Pisani per lo universo mondo, ove si seppe, forte biasimati, non
+tanto per lo conte, che per li suoi difetti e tradimenti era per
+avventura degno di s@i fatta morte, ma per li figliuoli e nipoti,
+ch'erano giovani garzoni e innocenti>; ^G. Vill.~ VII, 128.
+
+	|89-90.  Tebe~: <Quasi dicat tacite: O natio viperea! 
+Nam primi, ex quibus Cadmus condidit Thebas, finguntur nati ex
+serpentibus, qui semper gesserunt bella civilia inter se nimis
+crudeliter>; ^Benv.~  <Imper@o che di Tebe, citt@a di Grecia,... fu
+l'edificatore di Pisa, cio@e Pelope, figlio del re Tantalo, re di
+Tebe...  E come quelli Tebani furono crudeli tra loro,... cos@i
+sono stati i Pisani intra loro, e fanno e sono nel detto caso>;
+^Buti.~  Comunque, il senso @e che le atrocit@a commesse a Pisa
+contro Ugolino e la sua schiatta ricordano quelle commesse a Tebe
+contro la schiatta di Cadmo.  Cfr. ^Inf.~ XXVI, 53 sg.; XXX, 4
+sgg.  |Uguiccione~: figlio di Ugolino, ancor giovane nel 1288. 
+|Brigata~: Nino, nipote di Ugolino e, in realt@a, non pi@u
+giovanissimo quando mor@i.  |Due~: Gaddo, figlio, e Anselmuccio,
+nipote, il quale non aveva forse pi@u di 15 anni.  |Suso~: vv. 50
+e 68.  |Appella~: nomina.
+
+	|91-93.  Oltre~: dall'Antenora nella Tolomea.  |Gelata~:
+acqua gelata o ghiaccio; altrove ^gelatina~ (^Inf.~ XXXII, 60). 
+|Ruvidamente~: aspramente, epper@o in modo tormentoso.  |Fascia~:
+avvolge.  |Volta in gi@u~: come nella Caina; cfr. ^Inf.~ XXXII,
+37, 52.  |Riversata~: supina, e per@o anche colla faccia all'ins@u.
+
+	|94-99.  Pianger non lascia~: versar fuori il pianto: la
+cosa @e spiegata nei vv. 97-99.  |Duol~: lagrime; la causa per
+l'effetto; cfr. ^Inf.~ XVII, 46.  |Rintoppo~: urto in contrario;
+qui vale `impedimento'.  |A far~ ecc.: a render maggiore
+l'angoscia del dannato.  |Prime~: primieramente formatesi. 
+|Groppo~: unendosi e congelandosi fanno come un nodo di ghiaccio. 
+|Visiere~: `visiera' @e la parte anteriore, mobile dell'elmo, la
+quale serve a riparare il viso e specialmente gli occhi; e con lo
+stesso nome fu chiamata in antico anche la `buffa' o cappuccio
+chiuso che ricopre col capo tutto il viso.  Qui, per facile
+traslato, @e cos@i chiamato il ^velo~ di ghiaccio (cfr. v. 112) che
+si forma sugli occhi di questi dannati e impedisce loro di
+vedere.  |Coppo~: la cavit@a dell'^occhiaia.~  <Propriamente
+dicesi coppo, in Toscana, un vaso di terra cotta da riporvi
+liquidi.  La cavit@a dell'occhio @e come un coppo o una coppa, che
+tien dentro di s@e e conserva gli umori dell'occhio>; ^Caverni.~
+
+	|100-105.  E avvegna che~ ecc.: e quantunque per il
+freddo ogni sensibilit@a se ne fosse andata ormai dal mio volto
+come se esso fosse una parte callosa, pure gi@a mi pareva di
+sentire un po' di vento.  |Stallo~: (basso lat. ^stallum~),
+dimora.  ^Cessare stallo~ = cessare di stare in un luogo. 
+|Alquanto vento~: @e il vento prodotto dallo ^svolazzare~ dell'ali
+di Lucifero; cfr. ^Inf.~ XXXIV, 51.  |Questo~: vento; caso
+accusativo.  |Non @e~ ecc.: come pu@o essere vento in questo fondo
+dove non @e sole che formi e sollevi vapori e possa dare origine
+ad esso?
+
+	|106-108.  Avaccio~: in breve, presto; cfr. ^Inf.~ X,
+116; ^Par.~ XVI, 70.  |Ti far@a~ ecc.: l'occhio dar@a risposta alla
+tua domanda, giacch@e vedrai da te la cagione che fa soffiare
+dall'alto il vento (|fiato~): cfr. ^Inf.~ XXXIV, 8 e 49-52.
+
+	|109-114.  Crosta~: crosta ghiacciata di Cocito; cfr.
+^Inf.~ XXXIV, 75.  |O anime... ultima posta~: O anime crudeli,
+scellerate di traditori, s@i crudeli che siete condannate alla pi@u
+profonda regione dell'Inferno, cio@e alla zona della Giudecca, che
+segue alla Tolomea.  |I duri veli~: le prime lagrime ghiacciate,
+paragonate a <visiere di cristallo> nel v. 98; cfr. v. 128. 
+|Sfoghi~: coll'uscita del pianto.  |M'impregna~: mi gonfia.  |Un
+poco~: da unire a |sfoghi.~  |Si raggeli~: si congeli di nuovo.
+
+	|116-117.  Ti disbrigo~: ti levo dagli occhi i ^duri
+veli~ che ti danno ^briga~, cio@e impedimento, impaccio; cfr.
+^Purg.~ VII, 55.  |Mi convegna~: D. doveva infatti pervenire sino
+al |fondo della ghiaccia~, al centro dove sta Lucifero, ma non
+per restarvi.  Il dannato, che crede parlare con un dannato,
+prende le parole per un giuramento: `sia io obbligato a andare a
+star presso Lucifero!'.  Nelle parole di D. c'@e, poco o tanto,
+nascosta una restrizione mentale; esse sono <anzi giuramento di
+non mantenere la promessa, e l'equivoco cui resta preso il
+peccatore, @e degno contrapasso al tradimento che lo danna
+laggi@u>; ^Rossi~, e cfr. n. 150.
+
+	|118-120.  Adunque~: allora; cfr. ^Inf.~ XXIII, 133. 
+|Alberigo~: figlio di Ugolino dei Manfredi, frate gaudente sin
+dal 1267, uno dei capi di Parte Guelfa a Faenza.  <@E fama che
+frate Alberico de' Manfredi, cavaliere gaudente, ardentissimo
+partigiano di Chiesa,... venuto a contesa per gara di dominio col
+consanguineo Manfredo, nel calore di quella riportasse dal costui
+figliuolo, nomato Alberghetto, una solenne ceffata.  Concep@i
+Alberico per quell'onta odio s@i mortale contro l'offensore, che,
+malgrado degli uffici adoperati dagli amici, giammai s'indusse
+nel cuor suo a perdonargli, e solo scorso alcun tempo fe' mostra
+di arrendersi e di piegarsi a' consigli di pace, mentre a meglio
+colorire l'iniquo disegno, che andavagli per la mente, invit@o
+Manfredo e Alberghetto ad un pranzo che segu@i a' 2 maggio del
+1285 nella villa o castello di Francesco Manfredi, posto nella
+pieve di Cesato, e detto la Castellina; ove, secondoch@e Alberico
+erasi indettato con alcuni sicari, quando il convito fu in sul
+terminare, disse: ^Vengano le frutta~; ed ecco in un subito
+Ugolino, figliuolo di lui, e il prenominato Francesco, ad una coi
+nascosi scherani, scagliarsi co' pugnali addosso a que' due
+miseri e barbaramente ucciderli>; ^Valgimigli.~  Cfr. ^Ferraz.~
+V, 368-371; ^G. Vill.~ X, 27.  |Dalle frutta~: <Dicitur
+proverbium: de le frutta di Fra Alberigo>; Murat., ^Script.~
+XVIII, 131.  In ^Rime ant. senesi~ (^Miscell. della Soc. Filol.
+Rom.~ I, 19) leggesi: <Se ci stai, avrai del frutto D'Alberigo di
+Romagna>.  La poesia @e del 1321.  Il fatto ebbe dunque larga e
+durevole eco, e D. doveva capir subito chi era quell'Alberigo. 
+|Mal orto~: cresciute nell'orto del male, perch@e furono segnale
+di omicidio.  Altri intese di Faenza che produce mala gente. 
+|Riprendo~ ecc.: mi @e reso il male che ho fatto largamente.  Il
+dattero ha assai pi@u pregio del fico.  |Figo~: fico (cfr. Parodi,
+^Bull.~ III, 103).
+
+	|121-123.  Oh~: nella primavera del 1300 Alberigo viveva
+ancora; quindi la meraviglia che D. esprime con |oh!~  |Ancor~:
+di gi@a.  |Stea~: arc. per `stia' come poi ^dea~ per `dia'. 
+|Nulla sc,ienza porto~: non so.  I dannati ignorano le cose
+presenti del mondo nostro (^Inf.~ X, 103 sgg.); e Alberigo del
+corpo suo, rimasto vivo in terra, nulla sa.
+
+	|124-126.  Vantaggio~: privilegio; ch@e gli altri cerchi
+infernali accolgono le anime sol dopo la loro separazione dal
+corpo.  |Ci cade~: qui, nella Tolomea.  |Atrop@os~: la Parca che,
+recidendo lo stame della vita di ciascuno, d@a la mossa all'anima
+perch@e esca dal corpo.
+
+	|127-132.  Rade~: raschi via, tolga.  |Sappie~: forma
+comune nell'ant. tosc. per ^sappi.~  |Trade~: tradisce; cfr.
+^Inf.~ XI, 66.  |Come fec'io~: cio@e in una delle forme pi@u
+abbiette di quel tradimento ch'@e punito nella Tolomea.  Ecco
+perch@e non sempre, ma solo ^spesse volte~ (v. 125) si avvera lo
+strano fatto.  Se, come alcuno crede, D. avesse presa questa
+immaginazione da ^San Giovanni~, XIII, 27: <Et post buccellam
+[^il boccone offertogli da Cristo~], tunc introivit in illum
+[^Giuda~] Satanas>, anche la ^Giudecca~ avrebbe ^cotal
+vantaggio~; e ci@o non @e.  Che spiriti demoniaci potessero entrar
+in un uomo era ed @e credenza diffusa: la novit@a tutta dantesca,
+(cos@i, e bene, il ^Torraca~), @e che uno di siffatti spiriti non
+pure entri in corpo umano, ma ne cacci l'anima gi@u all'Inferno,
+e, sostituitosi ad essa, compia egli l'ufficio di reggere il
+corpo (|il governa~).  |Mentre~ ecc.: finch@e sia compiuto tutto
+il periodo di tempo che il corpo deve vivere.  <Breves dies
+hominis sunt, numerus mensium eius apud te est; constituisti
+terminos eius, qui praeteriri non poterunt>; ^Job~, XIV, 5.
+
+	|133-138.  Cisterna~: pozzo.  |Forse~: cfr. n. 121-123. 
+|Pare~: appare.  |Suso~: nel mondo.  |Verna~: passa l'invernata
+infernale, ch'@e eterna; allusione al gelo di quella regione. 
+|Pur mo~: solo ora; cfr. ^Inf.~ X, 21; XXVII, 20.  |Branca
+d'Oria~: Doria, cavaliere genovese, genero di Michele Zanche,
+signore di Logodoro in Sardegna (^Inf.~ XXII, 88).  <Avendo
+diritto l'occhio alla signoria di Logodoro, invit@o a mangiare
+seco a uno suo castello questo suo suocero, e ivi finalmente il
+fe' tagliare per pezzi lui e tutta sua compagnia>; ^An. Fior.~ 
+Il fatto avvenne nel 1275.  Secondo ant. tradiz., D. avrebbe
+scritto questi versi per vendicarsi di un'ingiuria fattagli dai
+d'Oria, o l'ingiuria sarebbe stata vendetta di questi versi; cfr.
+^Papanti~, 151-53.  |Pi@u~: venticinque.
+
+	|140-141.  Unquanche~: (lat. ^unquam~ = mai) ancor mai;
+non @e ancor morto.  Visse assai dopo il 1300; pare, fino al 1325. 
+|Mangia... panni~: @e vivo e sano: mangiare, bere e vestirsi sono
+operazioni di persona viva e non colpita da malattia.  Ma la
+frase dovette essere dell'uso comune.  Dice Fra Giord. (^Pred. s.
+Genesi~, p. 99): <Come fu quell'apparizione dell'angelo... che
+stette con lui [Tobia]...^e mangi@o e bebbe e dorm@i e favelloe?~ 
+Conciossiacosach@e l'angiolo ^non mangi, n@e bea, n@e dorma~, n@e
+cotali cose che s'appartengono a' sensi corporali?>.  E la frase
+@e ripetuta anche poco dopo.  Altrove scrive lo stesso Fra Giord.
+(^Pred.~, ediz. Narducci, p. 10): <Se [l'usuraio] ^mangia o bee o
+dorme o veste~, tutto @e peccato>.
+
+	|142-147.  Fosso~: bolgia de' barattieri, ^Inf.~ XXII. 
+L'anima di Branca d'Oria fu soppiantata da un diavolo all'Inf.
+prima che quella del suocero da lui ucciso arrivasse al posto suo
+d'Inferno.  |Un suo prossimano~: nipote (^An. Fior.~, ^Benv.~) o
+cugino (^Ott.~): |prossimano~ signific@o `congiunto'.  |Un
+prossimano~ @e 2+o~ sogg. di |lasci@o un diavolo~ ecc.
+
+	|148-149.  Ma~ ecc.: Ma ora che ho fatto quanto chiedesti
+e pi@u ancora, stendi la mano e aprimi gli occhi, levandomi dal
+viso i duri veli, v. 112.  |Lile~: cos@i gli ant., dove secondo
+che gi@a si @e osservato, ^le~ vale anche ^lo~, ^la~, ^li.~
+
+	|150.  Cortesia~: atto di cortesia, cio@e di ossequio
+verso Dio; cfr. ^Inf.~ XX, 28.  <Questo si intende, che il non
+far cortesia a frate Alberigo fu cortesia: imper@o che non si dee
+fare villania al maggiore per fare cortesia al minore che non la
+merita: aprir li occhi a colui era, secondo la finzione di D.,
+fare contro alla giustizia di Dio, la qual cosa sarebbe stato
+grande villania, e per@o non farlo fu cortesia>; ^Buti.~  Mostr@o
+poi con pi@u esempi il ^Torraca~ essere stata in antico diffusa
+opinione, esser cosa buona, anzi doverosa, mancare di lealt@a coi
+traditori.  ^Fatti di Aless.~ 90: <Anche li nostri antichi dicono
+che a traditore non si de' tenere leanza>.  |Lui~: a lui, verso
+di lui.  |Villano~: villania fu non mantenere la promessa
+contenuta ne' vv. 115 sgg.
+
+	|151-153.  Diversi d'ogne costume~: alieni da ogni buono,
+onesto costume.  <Alieni ab omnibus aliis hominibus in moribus,
+praecipue in cupiditate quaerendi et parcitate servandi.  Nulli
+enim italici vivunt miserius, licet in apparatu et ornatu
+exteriori sint splendidi>; ^Benv. ~  |Magagna~: vizio.  <Uno
+Noffo Dei... pieno d'ogni magagna>, ^G. Vill.~ VIII, 92; cfr.
+^Purg.~ VI, 110.  |Del mondo spersi~: dispersi, sterminati dal
+mondo, voi che per tutto il mondo siete disseminati: poich@e, come
+dice l'ant. rimatore genovese, citato ben a proposito dal
+^Torraca~, <tanti son li Zenoesi / E per lo mondo s@i destesi /
+Che unde li van o stan, / Un'altra Zenoa ge fan>.  Per |spersi~,
+cfr. la Ball. per la rotta di Montecatini (^Rime di Cino~, ecc.,
+ediz. Carducci, p. 607): <Di lor, sie certo, non si avr@a mercede;
+/ Che fien venduti e ^spersi~ di Toscana>.
+
+	|154-157.  Spirto~: Alberigo, v. 118.  |Di voi un tal~:
+uno di voi, tale, cio@e tanto reo.  |Sua opra~: di traditore.  |Si
+bagna~: non senza ironia si accenna cos@i alla pena di chi sta
+confitto nel ghiaccio di Cocito: fa un bagno freddo!  |Par~:
+appare.  |Di sopra~: su, nel mondo dei viventi.

@@ -1,0 +1,7 @@
+#! /bin/sh
+
+for FILE
+do
+	echo $FILE "..."
+	brsvfy -log dante -file $FILE DANT
+done

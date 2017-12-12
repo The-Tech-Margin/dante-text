@@ -1,0 +1,503 @@
+	|Proemio.~  1-45.  VANA PAURA DI D. E SPIEGAZI0NI DI V. 
+Mentre i P. camminano veloci verso il monte, V. @e punto da
+rimorso per il breve indugio.  Dopo un po' maestro e alunno
+allentano il passo, e D. alza l'occhio all'altissima montagna. 
+Splende il sole; e D., vedendo dinanzi a s@e la sola sua ombra, si
+volge verso la parte dov'@e V. per timore che questi lo abbia
+abbandonato.  Ma V. pronto lo avverte che il corpo suo non pu@o
+far ombra perch@e, come tutte le anime dei regni oltremondani,
+egli ha un corpo diafano, ancorch@e capace d'ogni sensazione. 
+Come ci@o sia, lo sa solo Dio che cos@i vuole.  Noi uomini,
+soggiunge V. con certa solennit@a, non possiam presumere di
+spiegare con la sola ragione i procedimenti infiniti e i motivi
+dell'operare di Dio: teniamoci contenti, per tante cose, di
+sapere che sono come sono, senza voler indagare pi@u in l@a.
+
+	46-102.  SCHIERA DI ANIME.  I P. sono intanto arrivati
+appi@e dell'erta montagna, e vedendo impossibile tentar la salita
+l@i dove sono, per il troppo ripido pendio, sostano incerti, e V.
+medita sul da farsi.  Ma ecco venir da sinistra lentamente una
+schiera d'anime alle quali i P. vanno incontro, e dimandano dove
+sia la salita.  Dall'ombra che il corpo di D. produce, le anime
+si accorgono ch'egli @e vivo, e si ritirano stupefatte alquanto
+indietro; ma V. prontamente le rassicura dicendo che D. @e vivo, e
+che per grazia di Dio e col Suo aiuto si propone salire il sacro
+monte.  Le anime allora rispondono ai P. che tornino indietro, e
+troveranno la via per cui si sale.
+
+	103-145.  MANFREDI E LA PENA DEI CONTUMACI.  I P. si
+voltano e s'incamminano, secondo che le anime han detto loro; ma
+subito una di quelle dice a D.: <Volgi gli occhi in qua e guarda
+se mi vedesti mai>.  D. la fissa con attenzione, poi risponde che
+non la conosce.  Allora l'altra dichiara di essere l'anima di re
+Manfredi, e prega il P. di annunziare, come sar@a tornato nel
+mondo, a sua figlia Costanza che egli @e in luogo di salvazione,
+checch@e nel mondo si pensi e si dica.  Come fu ferito a morte a
+Benevento cos@i poi racconta si pent@i di sue colpe; e Dio nella
+sua misericordia infinita gli perdon@o.  Alla possibilit@a di ci@o
+non pensarono i suoi avversarii quando incrudelirono contro il
+suo cadavere, tenendosi certi della dannazione di lui
+scomunicato.  Egli per@o e quanti al pari di lui muoiono in istato
+di scomunica, devono, prima di cominciare la espiazione nel
+Purg., restare l@i nell'Antipurgatorio per un periodo di tempo
+pari a trenta volte quello passato su in terra nella condizione
+di scomunicati; ma tal periodo pu@o essere abbreviato per buone
+preghiere di viventi.  Anche questo faccia saper D. alla sua
+buona Costanza, affinch@e si preghi nel mondo per lui.  Manfredi,
+figlio naturale, poi legittimato, dello svevo Federigo II,
+diciottenne quando nel 1250 il padre moriva, govern@o il regno di
+Puglia (Italia meridionale) e di Sicilia, finch@e nel 1252 venne
+di Germania il duro e feroce Corrado IV, suo fratello, legittimo
+erede del regno.  Ma, morto Corrado nel 1254, Manfredi, che s'era
+cattivato nel regno largo favore per le sue qualit@a di uomo e per
+l'abilit@a politica, pot@e soppiantare il vicario del fanciullo
+Corradino, figlio ed erede di Corrado, e vincere ogni altra
+opposizione specialmente della Chiesa; sicch@e nel 1258, sparsasi
+la voce che Corradino era morto, fu incoronato re in Palermo. 
+Tenne da allora il regno non senza gravi contrasti con la Chiesa
+che lo colp@i di scomunica, fintantoch@e non venne di Francia,
+chiamato dal papa Clemente IV, Carlo I d'Angi@o, che, accordatosi
+pienamente con esso papa, mosse col suo esercito contro il re
+Svevo, e il 25 febbraio 1266 lo vinse presso Benevento: in quella
+battaglia Manfredi fu ucciso.  D. lo ricorda con alte lodi anche
+altrove, ^De Vulg. Eloq.~ I, xii, 4.  Di lui ^G. Vill.~ VI, 46:
+<Il re Manfredi... fu bello del corpo, e, come il padre e pi@u,
+dissoluto in ogni lussuria; sonatore e cantatore era; volentieri
+si vedea intorno giocolari e uomini di corte, e belle concubine,
+e sempre vest@io di drappi verdi; molto fu largo e cortese e di
+buon aire, sicch@e egli era molto amato e grazioso; ma tutta sua
+vita fu epicuria, non curando quasi Iddio n@e santi, se non a
+diletto del corpo.  Nimico fu di Santa Chiesa e de' cherici e de'
+religiosi, occupando le chiese come il suo padre; e pi@u ricco
+signore fu, s@i del tesoro che gli rimase dello 'mperadore e del
+re Currado suo fratello, e s@i per lo suo regno ch'era largo e
+fruttuoso; e egli, mentre che vivette, con tutte le guerre
+ch'ebbe con la Chiesa, il tenne in buono stato, sicch@e el mont@o
+molto di ricchezze e in podere per mare e per terra>.
+
+	|1-5.  Avvegna... compagnia~: Senso: `Sebbene per i
+rimproveri di Catone gli spiriti si fossero dispersi chi qua chi
+l@a per quella campagna, tutti per@o in direzione del monte della
+purgazione, io mi feci pi@u presso a V.'.  |Subitana~: repentina;
+cfr. ^Purg.~ II, 124 sgg.  |Ragion~: la divina giustizia.  |Ne
+fruga~: ci punge e tormenta s@i con pene materiali, e s@i con
+l'interno dolore per i peccati commessi: cfr. ^Inf.~ XXX, 70. 
+|Mi ristrinsi~: mi accostai pi@u di prima.  |Fida compagna~: V.,
+mia fedele compagnia.  Per ^compagna~ = ^compagnia~ cfr. ^Inf.~
+XXVI, 101; ^Purg.~ XXIII, 127.  |Corso~: per quei luoghi ignoti. 
+Come gli spiriti, D. e V., dopo la rampogna di Catone, corrono;
+cfr. v. 10.
+
+	|7.  Parea~: appariva.  |Da s@e~: dalla sua coscienza: i
+rimproveri di Catone, ^Purg.~ II, 120 sgg., non erano rivolti ai
+P., ma ai soli spiriti.  |Rimorso~: per il breve indugio (^Purg.~
+II, 115 sgg.), da lui tollerato e gradito cedendo, @e vero, a un
+sentimento squisito di schietta umanit@a, ma contro il rigido
+dovere di guida e di maestro per gustare insieme con gli altri il
+canto dell'amico di Dante.
+
+	|8-9.  Dignitosa e netta~: che vuol serbare tutta la sua
+dignit@a, e per@o mantenersi pura da colpe.  |Amaro morso~: <la
+rimorsione del peccato @e riprender s@e medesimo del peccato fatto,
+e dolersi d'averlo fatto>; ^Buti.~
+
+	|10-15.  Quando... fretta~: quando V. ebbe rallentato il
+passo e ripresa la normale andatura.  |L'onestade~: il decoro. 
+|Dismaga~: indebolisce, diminuisce.  Cfr. ^Purg.~ XIX, 20 e
+XXVII, 104.  <Nel movimento e nell'andare e negli atti si debbe
+tenere onest@a.  Il superbo si diletta dello svariato andare;
+l'uomo disonesto nell'andare si mostra>; Bart. da S. Conc.,
+^Amm.~ VII, 1, 5, 16, 18.  |Ristretta~: raccolta nel pensiero di
+Casella e de' rimproveri di Catone; e a ristretta ben corrisponde
+il |rallarg@o~ del v. sg.  Cfr. ^Purg.~ XVII, 22 e ^Par.~ VII, 52. 
+|Lo 'ntento... vaga~: prese a pensare anche ad altro, desiderosa
+(|vaga~) di vedere e apprendere quanto di nuovo si offriva nel
+viaggio al suo sguardo.  |Diedi~ ecc.: alzai gli occhi al monte. 
+|Si dislaga~: di mezzo al gran lago, al mare, si eleva pi@u alto
+di qualsiasi altro monte terrestre; cfr. ^Par.~ XXVI, 139.
+
+	|16-18.  Dietro~: alle nostre spalle.  L'avevan visto
+sorgere dal mare: ora al mare avevan volte le spalle per
+accostarsi al monte.  |Roggio~: rosso; ^Inf.~ XI, 73.  Era rosso
+come suol essere quando si leva e finch@e non @e un po' alto
+sull'orizzonte.  |Rotto~: dall'ombra.  |Alla figura~: <Lo sole mi
+era rotto dinanzi con figura simile alla figura che l'appoggio
+de' suoi raggi aveva in me>; ^Biag.~ e cos@i altri; ma anzich@e in
+questo modo, stiracchiato e contorto, @e pi@u semplice intendere
+`figura' nel senso di `persona' che ebbe spesso in antico, e
+interpretare: `il sole era rotto davanti alla mia persona, perch@e
+esso aveva in me l'appoggio de' suoi raggi, cio@e un ostacolo che
+impediva ai raggi di spingersi ed illuminare pi@u oltre'.  Cos@i
+intesero gi@a ^Benv.~ e ^Buti~; cfr. ^Bull.~ XXV, 58.
+
+	|19-21.  Mi volsi~ ecc.: D. vede l'ombra sua e non anche
+quella di V.; e non pensando l@i per l@i come V., ch'@e spirito, non
+fa ombra, preso dal timore d'essere abbandonato, si volge
+istintivamente a destra per vedere se ancora la cara guida gli
+sia vicina.
+
+	|22-24.  Conforto~: Virgilio; cfr. ^Purg.~ IX, 43.  |Pur
+diffidi~: seguiti a diffidare, come altre volte gi@u per
+l'Inferno.  |Tutto rivolto~: rivoltosi a me con tutta la sua
+persona: atto di amorevole, paterna premura nel veder la faccia
+spaurita (v. 19) di D.; cfr. ^Inf.~ XXIX, 100: <Lo buon maestro a
+me tutto s'accolse>.
+
+	|25-27.  Vespero~ ecc.: @e l'ora del vespero a Napoli dove
+@e sepolto il mio corpo che faceva ombra.  Se al Purg. da non
+molto @e sorto il sole, questo sar@a da altrettanto tempo
+tramontato a Gerusalemme; ma a Napoli sar@a l'ora del ^vespro~,
+che comincia dopo la ^nona~ che termina a mezzo il pomeriggio. 
+Cfr. n. a ^Inf.~ XXXIV, 94-96.  |Brandizio~: forma d'origine
+francese (^Brandis~) con la latineggiante finale ^-zio~: si trova
+gi@a nell'^Intelligenza~ e nei ^Fatti di Cesare.~  In lat. era
+^Brundisium~ e ^Brundusium~, oggi Brindisi (^Bull.~ XXIII, 38). 
+Ivi mor@i V. l'anno 19 a. C.; ma per ordine di Augusto il suo
+corpo fu trasportato a Napoli e deposto in una tomba sulla via di
+Pozzuoli; cfr. Comparetti, ^Virg. nel medio evo~ II+o~2 45 sg.
+
+	|28-30.  S'aombra~: @e in ombra.  |Che l'uno~ ecc.:
+essendo diafani, i cieli lasciano trapassare i raggi luminosi; e
+aerei e diafani sono i corpi degli spiriti sino alla risurrez.
+della carne; cfr. Thom. Aq., ^Sum. Theol.~ III, ^Suppl.~ 75 sg.
+
+	|31-33.  A sofferir~ ecc.: Intendi: `Corpi simili a
+questo mio forma e rende atti (|dispone~), bench@e diafani e
+impalpabili, a soffrire tormenti e caldi e geli (cfr. ^Inf.~ III,
+87) quella Virt@u onnipotente, cio@e Dio, che non vuole siano
+rivelati a noi i modi del suo operare (|come fa~)'.  <Non enim
+cogitationes meae, cogitationes vestrae, neque viae vestrae, viae
+meae, dicit Dominus>; ^Isaia~ LV, 8.  <O altitudo divitiarum
+sapientiae et scientiae Dei: quam incomprehensibilia sunt iudicia
+eius et investigabiles viae eius!>; ^Rom.~ XI, 33.
+
+	|34-36.  Nostra ragione~: la nostra virt@u razionale, il
+nostro intelletto, ch'@e limitato.  <Animalis homo non percipit ea
+quae sunt Spiritus Dei>; I ^Cor.~ II, 14.  |Trascorrer~:
+percorrere tutta, e cos@i vedere e comprendere pienamente ogni
+cosa.  |Che tiene~ ecc.: che (oggetto) tiene o segue nell'operare
+quel Dio che alla ragione nostra @e esso stesso incomprensibile,
+essendo uno nella sostanza e trino nelle persone; cfr. ^Conv.~
+II, v, 7.
+
+	|37.  Al quia~: al ^che~ (|quia~ = %oti~ = che);
+contentatevi di sapere ^che~ le cose sono, senza presumere di
+scoprire di tutte, con la mente vostra, il come e il perch@e del
+loro essere.  Pigliano della sapienza, dice Fra Giord. (^Pred.~,
+ediz. Manni, p. 19), <pi@u che non @e uopo quelli i quali vogliono
+cercare profondamente le cose segrete di Dio, ch'errano e non
+vanno diritti.  Vogliono sapere per ragione la fede, e vogliono
+aggiugnere a cose che non si fa a loro.  Costoro fiaccano il
+collo e acciecano, e diventano ^matti.~  E ci@o @e che dice Santo
+Paolo: `Non plus sapere quam oportet sapere, sed sapere ad
+sobrietatem'>.  (Cfr. ^Comm. Lips.~).
+
+	|38-39.  Possuto~: arc. per `potuto'.  |Mestier~ ecc.:
+non sarebbe stato necessario che Cristo venisse nel mondo. 
+Giacch@e se Dio avesse concesso agli uomini di |vedere~, cio@e
+comprendere, |tutto~, non avrebbe imposta ad Adamo la limitazione
+famosa proibendogli gustare dell'albero della scienza del bene e
+del male, e Adamo non avrebbe commesso il suo peccato; sicch@e non
+sarebbe stata poi necessaria la venuta di Cristo per redimere
+l'umanit@a dalla colpa originale che da Adamo si trasmise a tutti
+i suoi discendenti, escludendoli dalla beatitudine eterna.
+
+	|40-45.  Dis,iar... Plato~: <Si possibile esset per
+rationem naturalem et scientiam acquisitam cognoscere divinitatem
+et ordinem illius in creaturis, certe maxime novissent haec et
+alia antiqui excellentissimi philosophi; sed nos videmus quod
+Aristoteles et Plato, qui noverunt plus caeteris illud quod sciri
+potest per intellectum humanum, non noverunt omnia etiam in puris
+naturalibus, et multo minus in divinis, quia non intellexerunt
+creationem, non incarnationem, non resurrectionem>; ^Benv.~ 
+|Sarebbe... quetato~: cfr. ^Inf.~ IV, 41 sg.  |D'Aristotile o di
+Plato~ (Platone): cfr. ^Inf.~ IV, 131 sgg.  |Turbato~: ripensando
+ch'egli stesso @e uno dei |molti altri~, V. si turba e tace, e
+china pensoso la fronte.
+
+	|46-48.  Divenimmo~: arrivammo; cfr. ^Inf.~ XIV, 76, ecc. 
+|Indarno~ ecc.: poich@e ivi occorrerebbero le ali per andar in su,
+tanto @e ripido il pendio.  D. si @e figurata cadente a picco o
+quasi la parte pi@u bassa del pendio di quel monte: cfr. v. 99.
+
+	|49-51.  Lerice~: ora `Lerici', antico castello sulla
+costa tirrenica, ad un'estremit@a del golfo della Spezia, presso
+la destra del fiume Magra.  |Turbia~: villaggio nel territorio di
+Nizza a poca distanza dalla costa.  Il tratto di paese costiero
+che si estende tra Lerici e Turbia (riviera ligure), @e coperto di
+monti aspri e scoscesi, e ai tempi di D. il camminare per tali
+monti era certamente, per difetto di vie, difficilissimo, se il
+P. ne trasse questo paragone; cfr. ^Bass.~, 346 sg.  |Verso~: al
+confronto, come ^Inf.~ XXXIV, 59.  ^Purg.~ VI, 142; XXVIII, 30. 
+|Quella~: roccia s@i erta del v. 47. |Agevole e aperta~: comoda a
+salire, formata di gradini regolari e non alti, e anche larga.
+
+	|52.  Chi sa~: V. per il Purg. non @e ancora stato.  |Da
+qual man~: se a destra o a sinistra del luogo dove i P. sostano. 
+|Cala~: si abbassa, allenta il suo pendio.
+
+	|55-57.  Il viso basso~: chinati gli occhi in atto di
+concentrata meditazione.  Senso: `mentre V. a capo chino meditava
+entro di s@e, nella sua mente, sul modo di tentar la salita, e io
+guardava in su intorno all'erta roccia, che pur bisognava salire,
+per vedere se ci fosse un luogo per cui ci si potesse avviare'.
+
+	|58-60.  Gente d'anime~: schiera di anime: sono le anime
+che uscirono dal corpo riconciliate solo ^in extremis~ con Dio,
+ma non colla Chiesa; cfr. v. 136 sgg.  |Non parea~ ecc.: non
+sembrava che movessero i piedi, tanto si avanzavano lente;
+simbolo, forse, del ritardo loro al convertirsi.
+
+	|61-63.  Leva~: V., che tiene ancora il viso basso, non
+ha veduto la schiera.  |Ne dar@a~ ecc.: ci sapr@a consigliare per
+dove possiamo salire, se tu non riesci a veder ci@o da te.
+
+	|64-66.  Guard@o~: alz@o gli occhi e guard@o anch'egli ^la
+gente d'anime.~  |Con libero piglio~: col fare franco e sicuro
+proprio di chi si sente finalmente libero da un'incertezza
+penosa.  |In l@a... piano~: verso quell'anime, le quali vanno s@i
+piano che perderemmo gran tempo, se aspettassimo che giungessero
+qui.  |Ferma~ ecc.: abbi certa speranza di avere il consiglio
+desiderato.
+
+	|67-69.  Ancora~ ecc.: Senso: `come noi avemmo fatto un
+migliaio di passi, quelle anime erano ancor lontane da noi un
+buon tiro di sasso'.  D. indica due distanze: quanto egli e V. si
+erano gi@a avanzati verso le anime allorch@e furono da esse
+osservati; e quanto esse in quel momento distavano da loro. 
+|Quanto... mano~: <quantum iactus est lapidis>; ^Luc.~ XXII, 41.
+
+	|70-72.  Si strinser~: maravigliati di vedere i due P.
+camminare in direzione contraria alla loro, e camminar lesti
+mentre essi procedevano lentissimi, si stringono alla roccia come
+per dar libero il passo a quei due, e si fermano, stretti l'uno
+all'altro, come, per guardare, si fermano persone che vedano cosa
+che desti dubbii nell'animo loro.
+
+	|73-78.  Ben finiti~: morti bene, nella grazia di Dio. 
+|Gi@a... eletti~: all'eterna salute (cfr. ^Inf.~ I, 120): V. vuol
+propiziarsi quelle anime.  |Per... s'aspetti~: vi prego per la
+pace dell'eterna beatitudine, certo da voi tutti aspettata. 
+(^Purg.~ V, 61).  |Giace~: ^cala~, v. 52, @e poco erta, sicch@e sia
+possibile salirvi (cfr. ^Inf.~ XXIII, 31 sg.).  |Pi@u spiace~: ch@e
+pi@u ne conosce il grande valore.  <Tutte le nostre brighe, se
+bene veniamo a cercare li loro principii, procedono quasi dal non
+conoscere l'uso del tempo>; ^Conv.~ IV, ii, 10.  Cfr. Virg.,
+^Aen.~ X, 467 sg.
+
+	|79-84.  Chiuso~: luogo serrato tutt'intorno da un
+riparo.  <|Chiuso~ nel Valdarno significa uno spazio cinto di
+palizzata, ove si tiene raccolto a cielo scoperto il bestiame, e
+^giaccio~ chiamano l'area del ^chiuso~>; ^Caverni.~ 
+|Atterrando~: abbassando e accostando alla terra.  |E l'altre~:
+anche le altre.  <Se una pecora si gittasse da una ripa di mille
+passi, tutte l'altre l'andrebbero dietro; e se una pecora per
+alcuna cagione al passare d'una strada salta, tutte le altre
+saltano, eziandio nulla veggendo da saltare.  E io ne vidi gi@a
+molte in uno pozzo saltare per una che dentro vi salt@o, forse
+credendo di saltare uno muro; non ostante che 'l pastore,
+piangendo e gridando, con le braccia e col petto dinanzi a esse
+si parava>; ^Conv.~ I, xi, 10.  La descrizione non potrebbbe
+essere pi@u perfetta, ed @e meritamente famosa.
+
+	|85-87.  Muovere a venir~: muoversi per venire verso di
+noi.  |La testa~: i primi d'essa schiera, qui detta mandra, cio@e
+gregge, con immagine biblica (^Gerem.~ XIII, 17; ^Luc.~ XII, 32;
+^Giov.~ X, 1-18; ^Atti~ XX, 28; I ^Petr.~ V, 2, 3, ecc.), che
+viene spontanea dopo la similit. delle pecorelle.  |Fortunata~:
+cfr. ^Purg.~ II, 74.  |Allotta~: allora (^Inf.~ V, 53). 
+|Pudica~: cfr. ^semplici e quete~ del v. 84.  |Nell'andare
+onesta~: con dignitosa compostezza ne' movimenti.
+
+	|88-90.  Color dinanzi~: i primi, ^la testa~, v. 85. 
+|Rotta~: dalla mia persona.  |Destro~ ecc.: i P., voltatisi a
+sinistra per andare incontro alle anime, avevano a destra il
+monte e a sinistra, dalla parte del mare, il sole; epper@o l'ombra
+di D. si stendeva alla sua destra tra la sua persona e la
+|grotta~, cio@e la roccia del monte (cfr. ^Purg.~ I, 48).
+
+	|91-93.  Restaro... alquanto~: stupiti e quasi timorosi,
+ristettero e diedero un passo addietro.  |Non sappiendo il
+perch@e~: erano dietro, e per questo non avendo veduto l'ombra del
+corpo di D., non capivano la ragione di quella fermata e
+dell'indietreggiare (|sappiendo~ arc. per `sapendo').  |Fenno
+altrettanto~: proprio come le pecorelle dei vv. 82-84.
+
+	|95-96.  Questo~ ecc.: costui che voi guardate con tanta
+maraviglia, @e uomo vivo, in carne ed ossa, e perci@o fa ombra. 
+|Fesso~: rotto, v. 88 sg.
+
+	|97-99.  Non vi maravigliate~: <licet res sit valde
+mirabilis, quae numquam alias fuit, quia iste venit ex speciali
+gratia data sibi a Deo>; ^Benv.~  |Non... vegna~: cos@i ha detto
+anche a Catone in ^Purg.~ I, 68.  |Soverchiar questa parete~:
+superare questo pendio, ch'@e ritto come una parete; cfr. n.
+46-48.
+
+	|100.  Degna~: eccellente; cfr. ^Purg.~ XXII, 126 e XXIX,
+152; ^Par.~ V, 128.
+
+	|101-102.  Tornate~ ecc.: rivoltatevi indietro e
+procedete innanzi a noi.  |Coi dossi~ ecc.: accennando, col
+rivolgere a noi i dossi delle mani, la direzione nella quale
+dovevamo andare.  |Insegna~: segno; cfr. ^Purg.~ XXII, 124.
+
+	|104-106.  Cos@i andando~: senza fermarti e perdere tempo. 
+|Di l@a~: nel mondo dei vivi.  |Unque~: lat. ^unquam~, mai.  D.,
+nato nel 1265, aveva pochi mesi quando Manfredi moriva.  N@e
+occorre immaginare che D. sembrasse assai pi@u vecchio che non
+fosse, o che Manfredi si scordasse di essere morto gi@a da 34
+anni; la distanza (cos@i S. Ferrari in ^Lect. Dantis~, 21 sg.) tra
+i due poeti e la schiera d'anime poteva trarre in inganno
+Manfredi circa l'et@a di quel vivente, il quale, del resto, quando
+M. gli parla, ha a lui volte le spalle, sicch@e per osservarlo |si
+volge~, v. 106.
+
+	|107-108.  Biondo... aspetto~: <homo flavus, amoena
+facie, aspectu placibilis, in maxillis rubeus, oculis sidereis,
+per totum niveus, statura mediocris>; cos@i lo descrive ^Saba
+Malaspina~ (Murat., ^Script.~ XXIV, 830).  |Ma~ ecc.: ma un colpo
+di spada avea spaccato un de' cigli, e la cicatrice deturpava il
+bel volto.
+
+	|109.  Mi fui... disdetto~: ebbi negato.  ^Disdire~ nel
+senso di ^negare~ us@o D. anche in ^Conv.~ IV, viii, 12:
+<^disdicere~ l'uomo s@e essere del tutto mortale, @e ^negare~,
+propriamente parlando>.  |Umilmente~: per la naturale espressione
+d'alta nobilt@a che era in quella bella figura.
+
+	|111.  Piaga~ ecc.: @e un altro contrassegno utile al
+riconoscimento di Manfredi, che suppone nota la sua morte per
+^due punte mortali~ (v. 118 sg.).
+
+	|112.  Sorridendo~: e per l'umile espressione assunta
+davanti a lui da D. pur senza conoscerlo, e perch@e gi@a pensa alla
+impressione di sorpresa che a D. vivo potr@a dare il sapere in
+luogo di salvezza lui, Manfredi, del quale nel mondo dei vivi si
+tiene per certo dai pi@u che sia in Inferno.
+
+	|113.  Costanza~: fu figlia di Ruggieri I, re di Sicilia
+e di Puglia, sorella di Guglielmo II, ultimo re della casa
+Normanna, moglie dell'imperadore Arrigo VI e madre di Federigo
+II; cfr. ^Par.~ III, 118 sgg.  <Perch@e fu figliuolo naturale, non
+volle torre il sopranome del padre, ma fassi nipote di sua ava>;
+^Lan.~  Oltre a ci@o Federigo @e dannato (^Inf.~ X, 119); Costanza
+@e beata (^Par.~ III, 118).
+
+	|114-117.  Riedi~: ritorni, nel mondo de' viventi. 
+|Figlia~ ecc.: si chiamava essa pure Costanza e fu l'ultima del
+sangue degli Svevi.  Questa Costanza, fu moglie di Pietro III re
+d'Aragona e di Sicilia, dal quale ebbe tre figliuoli: Alfonso,
+morto giovane nel 1291, Federigo, che fu poi re di |Cicilia~, e
+Iacopo che successe al padre nel regno d'Aragona.  Dunque |l'onor
+di Cicilia~ (= Sicilia) @e Federigo, |l'onor d'Aragona~ @e Giacomo. 
+Come mai, si @e detto, pu@o parlar cos@i D. che altrove biasima
+Federigo e Giacomo?  Cfr. ^Purg.~ VII, 115 sgg.; ^Par.~ XIX, 130
+sg.; ^Conv.~ IV, vi, 20 e ^De Vulg. Eloq.~ I, xii, 5.  Ma qui
+parla Manfredi, e ben pu@o accennare con compiacenza ai nipoti che
+tennero la Sicilia contro gli Angioini.  Altri, fra i quali ^S.
+Ferrari~, pensano che la frase |onor di Cicilia e d'Aragona~
+significhi semplicemente, nella intenzione del P., ^i reali di
+Sicilia e d'Aragona~, in quanto (^Bull.~ VIII. 52) |onore~, che
+signific@o anche ^signoria~ su di un paese, pot@e essere tirato a
+significare il ^signore.~  C'@e chi pensa, finalmente, ma @e
+opinione mal sostenibile, che dal c. III al VII del ^Purg.~ D.
+mutasse il suo giudizio sopra Federigo.  |Il vero~: che io son
+salvo.  |Altro~: cio@e ch'io, per, essere morto scomunicato, sia
+stato dannato.
+
+	|118-120.  Rotta~ ecc.: ferito il corpo di due ferite
+(|punte~) mortali; cfr. v. 108-111.  |Piangendo~: contrito e
+pentito.  |Quei che volontier perdona~: Dio; che a misericordia @e
+sempre disposto; ci@o che ne' v. 122 sg. @e detto con una stupenda
+immagine; cfr.^Isaia~ XLV, 22; ^Ezech.~ XXXIII, 11.
+
+	|121.  Orribil~: cfr. il passo del Villani riportato
+nella n. 103-145.
+
+	|124-132.  Se 'l pastor di Cosenza~ ecc.: il cadavere di
+Manfredi, scomunicato, non pot@e essere portato a seppellire in
+luogo sacro, ma venne sotterrato sul campo di battaglia presso
+l'estremit@a (|co~ = capo) di un ponte del vicino fiume Calore; e
+sopra la fossa i soldati gittarono sassi s@i da formare una |mora~
+(antica parola toscana significante `cumulo, ammasso di pietre'). 
+Se non che, essendo quella localit@a terreno di demanio
+ecclesiastico, il pastor di Cosenza, stromento del papa contro
+Manfredi, fece dissotterrare il cadavere, che fu trasportato, e
+trasportato a lumi spenti come si soleva per gli scomunicati,
+fuor dei confini del regno, e gittato insepolto sulla nuda terra
+poco lungi dal Garigliano, che fu anche chiamato |Verde.~  Il
+Poeta dunque vuol dire: `Se il vescovo di Cosenza [Bartolomeo
+Pignatelli col@a vescovo dal 1254 al 1266], fattosi mio
+persecutore per ordine di papa Clemente IV, avesse allora
+considerato in Dio non solo l'aspetto del punitore giusto e
+severo dei peccati, ma anche quello del padre misericordioso,
+avrebbe pensato che da Lui potevo avere ottenuto il perdono con
+un atto di sincero pentimento in punto di morte; e, cos@i
+pensando, avrebbe lasciato dormir in pace le mie ossa sotterra,
+protette dalla |grave mora~ in capo del ponte presso a Benevento. 
+Ora sono bagnate dalla pioggia e portate qua e l@a dal vento fuori
+del regno che fu mio ecc.'.
+
+	|133-135.  Lor~: dei pastori: per le scomuniche
+ecclesiastiche non si perde tanto, che l'amore divino, la grazia
+di Dio, non possa ancora volgersi (|tornar~) al peccatore.  <Ma
+scomunicazione d@a pur pene temporali, non altro; non l@ega a
+ninferno, e non ti pu@o torre Paradiso>; Fra Giord., ^Pred.~, ed.
+Manni, p. 3.  |Ha fior del verde~: ha un po' di verde, non @e
+ancora disseccata, ossia @e viva, ch'@e quanto dire finch@e l'uomo
+vive e pu@o convertirsi a Dio.  Dum spiro, spero.  Per |fior~ cfr.
+^Inf.~ XXV, 144 e XXXIV, 26.
+
+	|136.  Quale~: chi.  |In contumacia... di Santa Chiesa~:
+fu@ori della comunione della Chiesa.
+
+	|138-141.  Star... fore~: @e un'eco virgiliana: <Nec ripas
+datur horrendas et rauca fluenta Transportare prius quam sedibus
+ossa quierunt: Centum errant annos volitantque haec litora
+circum; Tum demum admissi stagna exoptata revisunt>; ^Aen.~ VI,
+327 sgg.  Su quel che da V. deriv@o D. nell'episodio di Manfredi,
+vedasi D'Ov., ^N. St.~ I, 391 sgg.  Questi giustamente osserva
+che <l'episodio di Manfredi appar s@i spontaneo; @e cos@i bene
+organato in s@e, cos@i pieno d'ispirazioni storiche e politiche,
+cos@i passionato; sembra cos@i d'un getto, che additarne le
+scaturigini latine pare una profanazione, una pedanteria>; ma D. 
+<s'era reso cos@i familiari e cos@i trasformate in succo e in
+sangue le reminiscenze letterarie, da esser queste tanto vive nel
+suo animo quanto le impressioni della realt@a, i ricordi della
+vita, le passioni contemporanee, i rimpianti o i rancori pei
+grandi uomini o pei grandi fatti della storia, le fervide
+speranze dell'avvenire>.  |Da questa ripa in fore~: dunque a pi@e
+della montagna, ossia deve tardare l'inizio della punizione
+espiatoria che si compie ne' gironi della montagna.  |Per ogni
+tempo... presunz,ion~: trenta volte il tempo ch'egli, lo
+scomunicato pentitosi solo ^in extremis~, @e stato duro nella
+superba ostinazione (|presunz,ion~) di non umiliarsi e sommettersi
+alla Chiesa.  |Per buon prieghi~: per le preghiere di persone che
+vivano nella grazia di Dio; cfr. ^Purg.~ IV, 133-134.
+
+	|142-144.  Far lieto~: lieto io sar@o, viene a dir
+Manfredi, sol quando io mi possa tener sicuro che la mia buona
+figliuola non @e pi@u tormentata da dubbii penosi sulla mia
+salvazione; e pi@u lieto ancora potr@o essere, se i ^prieghi~ di
+lei e di altri buoni mi accorceranno il lungo periodo che dovrei
+passare fuori del Purgatorio.  Nel 1300 Costanza, figlia di
+Manfredi, viveva in Barcellona, dove mor@i nel 1302. 
+Probabilmente D. non la vide mai; cfr. Vigo, ^D. in Sicilia~, 53
+sg.  |Come m'hai visto~: in quale condizione hai veduto ch'io
+sono; cio@e come io sia tra le anime ormai perdonate da Dio e
+sicure della beatitudine eterna.  |Divieto~: proibizione di
+salire e cominciar la purificazione, prima che sia trascorso il
+lungo tempo indicato nei vv. 139 sgg., se questo <pi@u corto per
+buon prieghi non diventa>.
+
+	|145.  Qui... s'avanza~: nel regno della purificazione si
+guadagna molto per mezzo delle preghiere de' vivi: cfr. ^Purg.~
+IV, 133-134; VI, 26 sg., ecc.  <Suffragia vivorum mortuis
+dupliciter prosunt sicut et vivis, et propter charitatis unionem,
+et propter intentionem in eis directam.  Non tamen sic eis valere
+credenda sunt vivorum suffragia, ut status eorum mutetur de
+miseria ad felicitatem vel e converso; sed ^valent ad
+diminutionem poenae~, vel aliquid huiusmodi quod statum mortui
+non transmutat>; Thom. Aq., ^Sum. theol.~ III, ^Suppl.~ LXXI, 2 e
+cfr. anche art. 6.

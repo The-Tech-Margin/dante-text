@@ -1,0 +1,555 @@
+	|SUMMARIUM.~  CANTUS TRIGESIMUS PRIMUS, ^ubi coram
+Beatrice confessus est pro omnibus suis culpis ab eo factis
+contra Beatricem, et quomodo domina, quam prius invenit, eum
+duxit et transire fecit flumen, et ipsum taliter arsit quod
+bibit de ea aqua: et in fine ductus est per illam et alias
+quatuor dominas coram Beatrice rogantes eam pro Dante.~
+
+	|Proemio.~  ^E TU che se' di l@a dal fiume sacro.~ 
+Postquam in superiori capitulo poeta noster descripsit mordacem
+increpationem Beatricis ad se in generali, nunc consequenter in
+isto capitulo XXXI ponit increpationem eiusdem mordaciorem in
+speciali.  Et praesens capitulum potest breviter dividi in
+quatuor partes generales.  In prima quarum Beatrix compellit
+Dantem ad confitendum suum errorem et erroris causas.  In secunda
+arguit et convincit eum quod non debuerit sic errasse, ibi:
+^Tuttavia.~  In tertia poeta ostendit qualiter poenitens fuerit
+lotus in flumine, et assignatus dominabus, ibi: ^E come.~  In
+quarta et ultima ostendit quomodo pervenerit in perfectiorem
+cognitionem Beatricis, ibi: ^Cos@i cantando.~  
+
+	|1-6.~  Ad primum veniens, dico, quod Beatrix requirit a
+poeta confessionem sui erroris et causas; et primo faciens
+continuationem ostendit dispositionem Beatricis contra se.  Ad
+quod notandum, quod sicut patet ex praecedenti capitulo, dum
+poeta deplorasset recessum Virgilii, Beatrix minata est sibi quod
+ploraret per aliam spatam, quod factum est, quando ipsa respondit
+angelis; sed tunc exercuit spatam, idest linguam, caesim, nunc
+vero coepit exercere illam punctim, quod est durius.  Unde nota
+ulterius, quod melius et tutius est pugnanti ferire punctim quam
+caesim, teste Vegetio in suo de re militari: primo, quia feriens
+punctim habet incidere minus de armis: secundo, quia invenit
+minorem resistentiam in corpore: tertio, quia adversarius non ita
+bene vitat ictum: quarto, quia feriens minus laborat: quinto,
+quia minus se detegit.  Ergo vide quam pulcra sit metaphora,
+dicendo quod Beatrix nunc coepit percutere punctim.  Dicit ergo:
+et illa Beatrix, |volgendo il suo parlar a me per punta~,
+increpando me acrius, |che m'era paruto acro~, idest, satis
+acerbum, |pur per taglio, ricominci@o~, scilicet, dicere,
+|seguendo~, idest, continuando dictum suum, |senza cunta~, idest
+sine mora, quia statim sine dilatione convertit dictum suum ab
+angelis ad Dantem, dicens: |e tu~, scilicet, Dantes; et debet
+dicere |e~ et non ^o~; |che se'di l@a dal fiume sacro~, scilicet,
+Lethaeum, et optas transire citra ad me, |di', di', se questo @e
+vero~, de quo accusavi te angelis, quia |tua confession convien
+esser congiunta a tanta accusa~, ut promerearis absolutionem. 
+
+	|7-9.  Era.~  Hic poeta ponit effectum petitionis
+Beatricis, scilicet suam confusionem, dicens: |La mia vert@u~,
+idest, potentia animae, |era tanto confusa~, timore et pudore
+praecedenti et praesenti, |che la voce si mosse~, pro
+respondendo, |e si spense~, idest, et mortua est, quia defecit,
+|pria che dagli organi suoi~, quae sunt labia, lingua, dentes,
+palatum, guttur et pulmo, |fosse dischiusa~, idest, exclusa et
+expressa.  
+
+	|10-12.~  Et subdit replicationem Beatricis, dicens:
+|poco sofferse~, idest, expectavit; |poi disse: che pense~? quasi
+dicat: hic non est opus cogitatione, quia non habes nisi dicere
+sic; |rispondi a me~; et ne Dantes possit dicere sicut communiter
+dicunt homines quando increpantur: ego non recordor; dicit
+Beatrix, hoc non accidit in eo ex oblivione.  Unde dicit: |ch@e le
+memorie triste~, scilicet, praeteritorum malorum, quae
+contristant animum recordantis, |non sono ancor offense
+dall'acqua~, scilicet, Lethaea, |in te~; quasi dicat, nondum
+gustasti de fluvio oblivionis, de quo paulo post gustare habes.  
+
+	|13-21.  Confusione.~  Hic poeta ostendit suam
+confusionem quam tandem fecit cum difficultate et anxietate,
+dicens: |Confusione e paura~, verecundiae et poenae, |insieme
+miste~, invicem sociatae, |mi pinsero un tal s@i~, idest, tam
+debile, |fuor della bocca, al qual intender fur mestier le
+viste~, quasi dicat: quod oculi Beatricis fuerunt necessarii ad
+intelligendum; sicut, ut faciam comparationem propriam, videmus
+saepe de facto, quod virgo novitia tempore sponsaliorum
+interrogata utrum velit talem in virum; confusa timore et pudore,
+respondet ita tam plane, quod auris non posset judicare de
+affirmatione eius, nisi oculus videret nutum illius respondentis. 
+Et declarat istum actum debiliter loquentis per pulcram
+comparationem sagiptantis, quae de se patet, dicens: |s@i scoppia'
+io sotto esso grave carco~, idest, pondere confusionis et
+timoris, |fuori sgorgando~, idest, ex gutture emittendo, |lagrime
+e sospiri~, et sic vide quod satisfactum est justitiae prout
+Beatrix praedixerat in fine praecedentis capituli; |e la voce
+allent@o per lo suo varco~, idest, transitu per medium aeris,
+|come balestro frange la corda e l'arco da troppa tesa~, quia
+stetit prius tensa, |quando scocca; e come l'asta~, idest,
+sagipta, |tocca il segno con men foga.~  Et sic vide quod
+comparatio est propria; nam verbum recte assimilatur sagiptae,
+quia volat irrevocabiliter.  Sicut autem sagipta lente volat cum
+frangitur arcus in emissione, et debiliter venit quo tendit; ita
+nunc verbum poetae emissum a fracto ore debiliter et tarde
+pervenit ad audientes expectantes.  
+
+	|22-30.  Ond'ella.~  Hic poeta ponit qualiter Beatrix
+petiverit de causa sui erroris cum nulla fuerit justa quae
+debuerit ipsum revocare ab amore eius ad amorem aliorum; et primo
+petit de causis impedientibus accessum ad eam et de trahentibus
+ad accessum aliarum.  Dicit ergo: |Ond'ella a me~, scilicet,
+Beatrix petivit, et dixit: |quai fosse attraversate o quai catene
+trovasti~, quasi dicat: quae obstacula, quae impedimenta
+invenisti tu in via, |per entro i miei desiri~, idest, inter
+desideria quae habebas ad me in pueritia tua, quando semper me
+sequebaris, |che ti menavano ad amar lo bene~, scilicet, summum,
+scilicet Deum, ad quod theologia ducit hominem, |di l@a dal
+quale~, scilicet bonum, |non @e a che s'aspiri~, idest, non est
+aliud bonum ad quod tendatur, |perch@e dovessiti cos@i spogliar la
+spene~, idest, abiicere spem, |del passeggiar innanzi~, idest,
+procedendi ulterius in via recta, in quam te duxeram, quasi
+dicat: nullae fossae, nullae catenae debuissent interrumpere tuum
+iter optimum.  Et hic nota, lector, quod Beatrix arguit hic
+multum subtiliter et fortiter.  Vult enim dicere tacite sive
+implicite, licet sacra scriptura videatur multum difficilis et
+habeat fortes passus, quia cogit hominem credere quae non sunt
+nota per naturam vel ad sensum, et quia praecipit multa quae dura
+videntur; tamen considerato fine optimo quia sola docet summum
+bonum et ducit in cognitionem Dei, debet videri facilis, et omnis
+labor pro ea acquirenda debet videri levis.  Et e contra petit
+quae commoda traxerunt eum ad amorem aliarum, dicens: |e quali
+agevolezze~, idest, facilitates, |o quali avanzi~, idest, et quae
+praerogativae, |si mostraro nella fronte~, idest, facie et
+pulcritudine, |dell'altre~, aliarum dominarum, idest,
+scientiarum, |perch@e dovessi anzi~, idest, potius, |passeggiar
+loro~, idest, sequi eas?  Et similiter vult dicere sub ista
+petitione, quod licet scientiae saeculares videantur summe
+delectabiles, tamen effectus earum saepe est vanus, quia non ad
+usum verae virtutis, sed ad superbam gloriam, imo quod vilius
+videtur ad miseram cupiditatem.  
+
+	|31-36.  Dopo.~  Hic ponit suam responsionem ad duplicem
+petitionem Beatricis, in qua confitetur suum errorem, et tangit
+erroris causas, et praemittit difficultatem suae responsionis,
+dicens: |A pena ebbi la voce che rispose~, quia timor et pudor
+invaluerat ipsa feriente punctim, |dopo la tratta d'un sospiro
+amaro~, quia tangebat me ad vivum, |e le labbra a fatica la
+formaro.~  Et sic vide quod poeta satisfecit Beatrici, quae
+dixerat supra quod confessio erat sibi necessaria.  Et ecce,
+|piangendo dissi: le presenti cose~, sicut honores, dignitates,
+gloria et artes liberales et poetica, quae habentur ad sensum et
+per rationes et non promittunt futura et invisibilia, sicut
+Beatrix, |volser miei passi~, idest, averterunt gressus meos a
+via vera recta, |col falso lor piacer~; quia adulantur homini. 
+Adulator enim est apparens amicus; sed Beatrix potius rigida
+increpat et minatur, sicut verus amicus, et dicit: |tosto che 'l
+vostro viso si nascose~, scilicet, adveniente pubertate, quando
+deseruit eam, ut dictum est capitulo praecedenti; in illa enim
+incipit homo dare se artibus et scientiis.  
+
+	|37-42.  Et ella.~  Hic poeta ostendit quod Beatrix
+audiens confusionem eius dixit sibi quare requisiverit ab eo
+confessionem, et assignat confessionis causam.  Unde dicit: |Et
+ella~, scilicet, Beatrix respondit: |la colpa tua non fora men
+nota~, idest, non esset magis patens et manifesta, |se tacessi, o
+se negassi ci@o che confessi~, et ecce quare: |da tal giudice
+sassi~, quia scitur ab aeterno Judice, qui non habet sicut
+confessor terrenus scrutari conscientiam peccatoris, sicut
+medicus vulnus, et judex causam.  Et vult dicere Beatrix: Deus
+scit tuam culpam, et angeli sciunt et ego scio.  Et quia forte
+poeta videbatur dicturus: quid ergo quaeris? ideo subdit: |ma la
+ruota rivolge s@e contra'l taglio~, quasi dicat, contemperatur
+divina ira, |in nostra corte~, scilicet, coelesti, |quando
+l'accusa del peccato~, quae fit per confessionem, |scoppia dalla
+propria gota~, idest, erumpit ex proprio ore hominis contritione
+extrudente.  Est autem confessio legitima coram sacerdote
+peccatorum declaratio; et iste nunc confitetur coram sacra
+scientia quae informat omnes confessores terrenos.  Et nota quod
+contrarium accidit in mundo nostro, quia quando homo confitetur
+sponte peccatum ab humano judice citius condemnatur, sed uberius
+remittitur sibi a Domino Judice.
+
+	|43-48.  Tuttavia.~  Ista est secunda pars generalis
+huius capituli, in qua Beatrix nunc arguit contra Dantem, et pro
+salute eius convincit eum de errore suo ut reddat eum cautum in
+futurum.  Et primo facit poetam attentum ad dicenda, dicens:
+|Tuttavia~, idest, nihilominus, |pon gi@u il seme del piangere~,
+quia tempus est medicinae, non querelae, |perch@e me' vergogna
+porte del tuo errore~, cum recognoveris ipsum esse maiorem, |e
+perch@e sii pi@u forte~, periculo tuo factus providus, |udendo le
+sirene~, quae incautos mergunt in medio tempestatum, idest, artes
+liberales, et poetica praecipue, quae dulciter cantant et sua
+delectatione abducunt homines a sacra scriptura.  Unde Hieronymus
+hoc expertus dicit: daemonum cibus sermo poeticus, saecularis
+scientia rhetoricorum pompa verborum.  Et hic nota, quod
+Hieronymus hoc dicit, quia ad tempus amoratus pulcritudine
+dictarum scientiarum fastidiebat sacram scripturam, cuius sermo
+videbatur sibi incultus; unde postea cum animum convertit ad
+divina, sermo poeticus factus est cibus angelorum, sicut patet in
+epistolis et in aliis libris suis purpuratis floribus poetarum,
+rhetorum et oratorum.  Unde Ruffinus obiicit sibi: Iste doctor
+noster qui fatetur se abrenuntiasse poetis, nescit dicere verbum,
+cum dicat: Virgilius meus, et Horatius noster.  Licet enim poetae
+scripserint multa vana et lasciva, sicut de amore et similibus,
+quia non solum homines fuerunt, sed pagani, sicut dicit Petrarcha
+in quadam epistola, quam ad me scribit; tamen poetria aeque bene
+potest cadere in bonam mentem, quae materiam describat honestam,
+sicut fecerunt Martianus Capella, Boetius, Rabanus, Juvencius,
+Sedulius, Arator et alii multi.  Et dicit: |et ascolta: s@i udirai
+come mia carne sepolta~, postquam fui mortua, |doveati muover in
+contraria parte~, scilicet, ad deserendum alias et sequendum me;
+et tu tunc dedisti te vanis honoribus et amoribus, et tunc sacra
+scientia apud te mortua est et sepulta.  
+
+	|49-54.  Mai.~  Hic Beatrix probat quod amor suus erat
+praeferendus amori caeterarum ratione excellentiae suae, quam
+nulla alia potest attingere; unde dicit: |Natura ed arte~, idest,
+aliqua forma naturalis vel artificialis, sicut mulier pulcerrima
+vivens in carne vel picta, vel sculpta, quae maxime solet
+allicere oculos hominis, |mai non t'appresent@o piacer~, tantum
+supple, |quanto le belle membra~, debite proportionata, |in ch'io
+rinchiusa fui~, in vita, |e che son terra sparte~, quia resoluta
+in terram sparsa sunt.  Et nota quod ista litera potest intelligi
+historice pro muliere carnea quae visa est sibi pulcerrima
+omnium, et anagogice pro sacra scientia pulcerrima scientiarum,
+sicut dicit Cassiodorus ^quod omnis~ etc. et tunc dicatur quod
+pulcra membra sunt pulcri libri qui constituunt corpus
+theologiae, et sunt sparsi in terra ubique locorum.  Quanto ergo
+fuit maior amor tuus erga me, tanto maior error; unde petit cum
+indignatione: |qual cosa mortale~, scilicet, temporalis, sive
+mulier, sive dignitas, sive scientia, |dovea poi trarre te nel
+suo disio~, idest, desiderium et amorem, |se 'l sommo piacere~,
+quod de me habebas, |s@i ti fall$io per la mia morte~, quando facta
+sum mortua et neglecta tibi.  
+
+	|55-57.  Ben.~  Hic Beatrix aggravat delictum poetae, qui
+semel deceptus debebat resipiscere et non permittere se amplius
+decipi.  Dicit ergo procedens in sua increpatione: |Ben ti dovevi
+levar suso~, idest, erigere te a terrenis infimis ad coelestia
+alta, |diretro a me~, idest, exemplo mei, veniendo post me quae
+ascenderam a carne ad spiritum, |che non era pi@u tale~, quia
+facta eram immortalis.  Aliqui tamen exponunt: quae non eram
+amplius Thales, qui fuit primus de septem sapientibus, quod puto
+ridiculum; |per lo primo strale~, idest, ictum et percussionem,
+|delle cose fallaci~, quae non servant quod promittunt, ut jam
+dictum est; et ita e contra amor aliarum mulierum non debebat
+trahere te deorsum.  
+
+	|58-60.~  Unde dicit: |o pargoletta~; ista fuit juvencula
+virgo de civitate Lucana, cuius amore captus est aliquando post
+mortem Beatricis.  Et potest intelligi de scientia poetica quae
+maxime pulcra et delectabilis competit juvenilibus: |o altra
+vanit@a~, idest, alia mulier vana, vel dignitas vana, vel scientia
+vana, |con s@i breve uso~, quia parum durat omnis gloria humana
+etiam quae videtur durabilior, |non ti dovea gravar le penne in
+giuso~, idest, non debebat deprimere alas tuas ad inferiora ad
+ponendum spem in illis, |ad aspettar pi@u colpi~, quia una
+adversitas et fallacia debuisset sufficere ad reddendum te
+cautum.  
+
+	|61-63.~  Et confirmat dictum suum exemplo avis quae
+parvula non cito vel statim vitat insidias, sed avis matura sic. 
+Dicit ergo: |nuovo augelletto~, inexperta, quae habet parvas
+pennas, |aspetta due otte~, scilicet, percussiones antequam
+fugiat vel evadat, |ma rete si spiega indarno~, ad capiendum, |o
+si saetta~, ad interficiendum, |dinanzi dagli occhi de' pennuti~,
+idest, magnarum avium.  Et hic nota quod Beatrix sub similitudine
+avis respondet quaestioni tacitae, ne poeta posset dicere ad
+excusationem suam: ego eram purus et simplex in talibus.  Hoc
+excludit ipsa, quia jam Dantes erat legitimae aetatis quando
+mortua est Beatrix; et bene assimilat eum avi, quia erat aptus
+natus ad volandum ad alta, sicut postea apparuit.  
+
+	|64-69.  Quali.~  Hic poeta ponit effectum istius
+argumentationis, quia scilicet recepit verecundiam magnam
+secundum quod sibi promiserat Beatrix, per unam comparationem
+pulcram et claram, dicens: |Tal mi stav'io~, scilicet, mutus cum
+erubescentia respiciens terram, |quali i fanciulli stannosi muti
+vergognando~, de fallo suo, |con gli occhi a terra ascoltando~,
+increpantem, |e ricognoscendo s@e~; idest, errorem suum, |e
+ripentuti~, idest, poenitentiam agentes de errore commisso cum
+pudore et dolore.  Et subdit poeta quod Beatrix ex hoc provocavit
+eum ad multo maiorem verecundiam, quia videns ipsum stare cum
+oculis defixis in terram mandavit ut levaret faciem et respiceret
+eam ut magis confunderetur.  Dicit ergo: |et ella~, scilicet,
+Beatrix, volens addere afflictionem afflicto, |disse: quando~,
+pro quia vel postquam, |se' dolente per udire~, idest, ex solo
+auditu verborum meorum, |alza la barba~, quasi dicat: leva vultum
+et vide pulcritudinem meam, |e prenderai pi@u doglia~, idest,
+maiorem dolorem ultra pudorem, |riguardando~, quia tunc cognosces
+turpitudinem aliarum.  
+
+	|70-75.  Con men.~  Hic poeta ostendit quod difficulter
+erexerit oculos in faciem Beatricis per unam comparationem
+pulcram; et vult dicere, quod magna arbor facilius spoliatur
+foliis suis, quam ipse erexerit oculos in Beatricem.  Dicit ergo:
+|Robusto cerro~, idest, fortis quercus, |si dibarba~, idest,
+defoliatur, |ovvero a nostral vento~, idest, a borea, qui venit a
+nostro polo septentrionali, |ovvero a quel~, scilicet, vento
+austro, qui venit a polo meridionali, qui ventus transit per
+Africam; unde dicit: |della terra di Jarba~; Jarbas enim fuit rex
+Libyae tempore Didonis, ut dicetur Paradisi capitulo IX, |con men
+di resistenza~, idest, minori labore, |ch'io non levai il mento~,
+idest, faciem, |al suo comando~; et sic bene recepi dolorem mihi
+promissum.  Et hic nota quod comparatio est propria: quercus enim
+arbor fortis bene convenit huic viro forti, et sermo Beatricis
+bene convenit vento boreali et australi, quia nunc serenat, nunc
+turbat aerem.  Et sicut violentia boreae vel austri non faciliter
+spoliat arborem, ita nunc rigiditas sermonis Beatricis vix
+compulit poetam attollere faciem, ita quod facilius fuisset
+depilare sibi barbam.  Et ostendit quid maxime turbaverit eum,
+scilicet, vocabulum barbae, dicens: |e ben conobbi il venen
+dell'argomento~, quasi dicat, venenatum mottum, |quando chiese il
+viso~, scilicet, meum, |per la barba~, quasi dicat: bene
+intellexi, quod volebat dicere: ah senex delire, qui es barbatus
+jam per multos annos!
+
+	|76-81.  E come.~  Ista est tertia pars generalis huius
+capituli, in qua poeta ostendit quomodo poenitens et confessus
+fuerit lotus in Lethaeo et traditus virtutibus: et primo quidem
+ostendit qualiter angeli dederunt sibi locum videndi Beatricem,
+quia cessaverunt ab opere suo.  Dicit ergo: |E quelle prime
+creature~, scilicet, angeli, qui primo rogaverant pro eo,
+|posarsi~, ab aspersione florum, sub quorum nube Beatrix latebat,
+ut dictum est praecedenti capitulo; |e l'occhio comprese di lor
+apparsion~, idest, apparitione, |come la mia faccia si distese~,
+versus faciem Beatricis.  Et tangit quomodo viderit eam, dicens:
+|e le mie luci~, idest, oculi, |ancor poco sicure~, licet angeli
+reddidissent sibi satis audaciae et spei cum favore suo, |vider
+Beatrice volta in su la fiera~, scilicet, gryphum, |ch'@e sola una
+persona~, scilicet, Christus, |in due nature~, scilicet, humana
+et divina.  
+
+	|82-84.~  Et describit Beatricem quam tunc vidit ab
+excellentia pulcritudinis eius; et sententialiter vult dicere
+quod Beatrix nunc ostendit magis excellere se ipsam in
+pulcritudine antiqua, quam excelleret alias dominas dum viveret
+in mundo: quanto ergo in vita excellebat pulcritudinem
+caeterarum, tanto nunc excedebat pulcritudinem illam antiquam. 
+Construe ergo sic: illa Beatrix, |pareami vincer pi@u se stessa
+antica~, cum olim erat in mundo, |che vincer l'altre qui~, in
+mundo isto, |quand'ella ci era~, idest, erat hic in vita, |sotto
+suo velo~, quasi dicat: licet esset latens sub illo velo albo,
+|et oltra la rivera~, idest, et quamvis esset ultra flumen in
+altera ripa.  
+
+	|85-90.  Di pentir.~  Hic poeta ponit effectum visionis
+Beatricis, quae fuit tantae virtutis et efficaciae, quod subito
+convertit amorem quem habebat ad alias in crudele odium.  Dicit
+ergo: |L'ortica di pentir~, idest, stimulum poenitudinis, |mi
+punse s@i~, idest, ita penetravit cor meum, |ivi~, idest, in illa
+ripa mea, |che qual~, idest, quaecumque res, |di tutte altre pi@u
+mi torse~, idest, traxit, |nel suo amor~, propter pulcritudinem,
+|pi@u mi si fe' nimica~; et per consequens, |tanta riconoscenzia~,
+idest, recognitio erroris, |mi morse il cuor~, idest, remordit
+conscientiam meam, |ch'io caddi vinto~, idest, convictus
+rationibus suis cecidi ad terram; nam visa tanta excellentia
+pulcritudinis cognovi quod verum dixerat.  Et dicit, quod non
+potest describere tantam consternationem suam, quia perdidit
+sensum et intellectum.  Dicit ergo: |e qual allora femmi~, idest,
+quam alienatus, |salsi colei~, idest, Beatrix scit sibi hoc non
+ego, quia ipsa me videbat non ego, |che mi porse la cagion~, quod
+fierem talis.  
+
+	|91-93.  Poi.~  Nunc poeta ostendit quomodo post dictam
+debitam poenitudinem ipse fuerit mersus et lotus in flumine. 
+Dicit ergo continuative: |Poi, quando il cor rendemmi vert@u di
+fuori~, scilicet, sensitivam, quasi dicat: postquam virtute
+cordis recuperavi sensus perditos, quia nihil prius videbam vel
+sentiebam, |vidi sopra me la donna~, scilicet, Mathildim
+comitissam, |ch'io avea trovata sola~, in introitu istius
+paradisi cantantem et colligentem flores, ut supra patuit; |e
+dicea: tiemmi, tiemmi~: per hoc praesupponit quod Mathildis
+ceperat eum et trahens in aquam dicebat: tene me, tene me, ne
+mergaris.  
+
+	|94-96.~  Et subdit modum trahendi et eundi illius
+dominae, dicens: |tratto m'avea nel fiume~, scilicet Lethaeum,
+|infin a gola e tirandosi me dietro, sen giva sovresso l'acqua~,
+cum plantis ita quod non mergebatur; quod declarat per
+similitudinem propriam, dicens: |lieve come scola~: est enim
+scola, prout hic accipitur, genus navigii longum, leve, aptum ad
+bella navalia, et talis fuit haec mulier longa, levis, apta ad
+bella.  
+
+	|97-99.~  Et describit orationem quae cantata fuit in
+ista lotione sua, quae multum competit materiae, dicens: |quando
+fui presso alla beata riva~, scilicet, ad alteram ripam, ubi erat
+tota militia sancta cum curru super quo erat Beatrix, |udissi~,
+idest, auditum fuit cantari ab angelis et beatis, qui erant ibi,
+illud dictum prophetae, scilicet: ^Asperges me, Domine, hyssopo
+et mundabor~, ^lavabis me et super nivem dealbabor~, quae verba
+quantum conveniant nunc nostro poetae in isto casu, quilibet
+videre potest.  Et dicit: |s@i dolcemente~, quia illa erat vox
+divina non humana, |ch'io nol so rimembrar~, idest recordari,
+|non ch'io lo scriva~, idest, nedum quod nunc describam reversus
+ad terram nostram.  
+
+	|100-105.  La bella.~  Hic poeta ostendit qualiter fuerit
+potatus aqua oblivionis et assignatus virtutibus.  Dicit ergo:
+|La bella donna~, scilicet, Mathildis, |aprissi~, idest, aperuit
+se, |nelle braccia~, faciens eum dignum gratia et amore suo
+familiariter, |abbracciommi la testa~, ubi viget memoria, |e mi
+sommerse~, usque ad os, |ove convenne ch'io l'acqua
+inghiottissi~, idest, imbiberem de aqua illa; et subdit: |indi mi
+tolse~, scilicet, Mathildis postea extraxit me de aqua illa, |e
+m'offerse bagnato~, idest, lotum et mundatum in illa aqua
+purissima ab omni impuritate vitiorum, |dentro alla danza~,
+idest, tripudium et festum, |delle quattro belle~, scilicet,
+virtutum moralium, quae erant a rota sinistra; et dicit: |e
+ciascuna del braccio mi coperse~, quia recepit me in amicum et
+servitorem suum.  
+
+	|106-111.  Noi.~  Hic poeta describit orationem quam
+cantabant illae quatuor pulcrae, quae dicebant: |Noi siam qui
+ninfe~, idest, deae fontium in ista sylva, quasi dicant: sumus
+peregrinantes in ista ecclesia militante, |e nel ciel siamo
+stelle~, illuminantes mundum.  Unde poeta finxit se videre istas
+quatuor stellas lucentes in principio purgatorii; et fuimus ab
+initio praedestinatae.  Unde dicit: |pria che Beatrice
+discendesse al mondo~, scilicet ante incarnationem verbi Dei,
+|fummo ordinate a lei per sue ancelle~, quasi dicant: fuimus in
+genere hominum ab antiquo per multa saecula ante Christum, sed
+imperfecte, quia expectabamus alias tres theologicas; unde dicit:
+|menerenti~, idest, ducemus te, |agli occhi suoi~, quasi dicat:
+praesentabimus te coram ea: et bene dicit: quia prima pars
+theologiae est de rebus humanis, sicut de virtutibus et moribus,
+sed alia pars nobilior est de divinis.  Unde dicit: |ma le tre di
+l@a~, scilicet, aliae tres pulcriores, |che miran pi@u profondo~,
+quia vident occulta divinitatis, |aguzzeranno i tuoi~, scilicet,
+oculos tuos, |nel giocondo lume~, scilicet, oculorum eius, quod
+nunc videre non potes, quia habet oculos velatos, |ch'@e dentro~,
+idest, quod lumen est intra oculos, et nondum pervenit ad tuos.
+
+	|112-117.  Cos@i cantando.~  Ista est quarta et ultima
+pars generalis, in qua poeta noster describit quomodo pervenerit
+in perfectiorem cognitionem Beatricis; et primo ostendit quomodo
+illae quatuor inviaverint eum versus Beatricem et invitaverint ad
+ipsam videndam.  Dicit ergo continuative: |Cos@i cantando~, illae
+dominae, |cominciaro~, supple, dicere, sicut jam dictum est, |e
+poi menarmi seco al petto del grifon~, qui stabat revolutus ad
+currum, tamquam ad suam pacem, ut jam dictum est supra, |ove
+Beatrice stava volta a noi~; et tamen non poteramus bene videre
+eam propter velum.  Ideo subdit exhortationem illarum ad
+respiciendum bene illam cum se ostendet, dicens: |dissero: fa'
+che non risparmi le viste~, idest, nunc intende et exacue
+virtutem visivam, quia, |posto t'avem dinanzi alli smeraldi~,
+idest, ante oculos pretiosos Beatricis, |onde~, idest, a quibus,
+|Amor~, scilicet, Cupido filius Veneris, |gi@a ti trasse le sue
+armi~, idest, olim immisit sua tela in te, quia percussit te
+utraque sagipta, primo aurea in pueritia, quando primo amoratus
+es de ea, deinde plumbea, quando postea deseruisti eam. 
+
+	|118-120.  Mille.~  Hic poeta ponit effectum
+exhortationis dictarum dominarum, quia scilicet statim
+ardentissime defixit intuitum in oculos smeragdinos lucentes. 
+Unde dicit: |Mille desiri~, idest, desideria videndi, |caldi pi@u
+che fiamma~, quia nullus ignis adeo ardens, sicut flamma amoris,
+|strinsermi gli occhi~, scilicet, meos, |agli occhi rilucenti~,
+scilicet, Beatricis, |che stavan saldi~, idest, firmi, |pur sovra
+'l grifone~, et non respiciebant me; nam speculatio theologiae
+maxime respicit Christum.  
+
+	|121-126.~  Et subdit quid viderit in illis oculis per
+nobilem comparationem, dicens: |la doppia fiera~, scilicet,
+gryphus, qui est aquila et leo, idest, Deus et homo, |vi
+raggiava~, per reflexionem, |dentro~, scilicet, intra oculos
+Beatricis, |non altrimenti~, idest, similiter, |come il sol in
+specchio~, supple, radiat; et est propriissima comparatio de sole
+ad Christum, qui est sol justitiae, et de oculis Beatricis ad
+speculum, quia oculus est de natura speculi.  Et dicit: |or con
+uni, or con altri reggimenti~, idest, variis et diversis
+comparationibus, quia nunc humanis, nunc divinis, vel nunc
+literaliter, vel nunc figuraliter, quod videbatur mirabile oculis
+suis; ideo apostrophat invitans auditorem ad considerationem rei
+mirabilis, dicens: |o lettor, pensa s'io mi travagliava~, in
+mente, |quando vedea la cosa~, scilicet, gryphonem, |star queta
+in se~, quia non mutabatur, |e si transmutava nell'idolo suo~,
+apparente in oculis Beatricis: est enim idolum forma apparens in
+aqua vel speculo ex reverberatione in obiectum; nam ydos graece,
+latine forma: fiebat enim transmutatio in speculo, quia videmus
+in sacra scriptura quod Christus aliquando habebat actus humanos,
+scilicet, cum famebat, sitiebat; aliquando divinos, sicut cum
+pavit quinque millia hominum etc.  
+
+	|127-132.  Mentre.~  Hic poeta describit intercessionem
+aliarum trium virginum ad Beatricem, ut ostendat se plenius amico
+suo; et primo apparat eas ad orandum ostendens earum
+excellentiam.  Dicit ergo: |L'altre tre~, scilicet, dominae,
+|dimostrandosi di pi@u alto tribo~, quia videbantur de nobiliori
+genere, quia aliae sunt humanae, istae vero divinae, |negli
+atti~, quantum ad operationes earum; quanto enim tribus Judae, de
+qua fuit David et de qua descendit Christus, fuit altior aliis,
+tanto istae tres sunt altiores illis quatuor; |si fero avanti~,
+idest, traxerunt se ante conspectum Beatricis, |danzando al lor
+angelico caribo~, idest, ad gratulationem et cantionem angelicam
+ipsarum, vel ad cantum angelorum, ita quod conformabant motum
+suum voci suae, vel voci angelorum, sicut solent facere
+tripudiantes et cantantes simul; |mentre che l'anima mia piena di
+stupore e lieta~, spectaculo tam admirandae rei, |gustava di quel
+cibo~, idest, tam dulci contemplatione, |che, saziando di s@e, di
+s@e asseta~, quia quanto magis reficitur mens hominis tali victu,
+tanto magis crescit fames et sitis eius.  Et bene dicit, quia
+delectatio novem musarum nulla est in comparatione ad istas
+dominas novem honorantes currum triumphalem: erant enim septem
+virtutes, Mathildis et Beatrix. 
+
+	|133-138.  Volgi.~  Hic Beatrix explicat formam
+cantilenae ipsarum dominarum, dicens: |La sua canzon~, illarum
+trium, |era, o Beatrice, volgi gli occhi santi~, hoc dicebant,
+quia Beatrix tenebat tantum oculos fixos super gryphum, et non
+videbatur dignari respicere Dantem, |al tuo fedele~, qui est
+amicus virtutis et non fortunae, sicut tu dixisti Virgilio
+{^Inf.~ II, 61}, et qui est fidelis christianus, et pro fide
+laboravit plusquam unquam aliquis poeta, |che, per vederti, ha
+mossi passi tanti.~  Et hic nota quod istud est verum tam
+historice quam allegorice, quoniam hic poeta cum concepisset
+accedere ad gloriam, ubi erat ista Beatrix, idest describere
+istud gloriosum opus, sentiens se satis habere philosophiae et
+poetriae, ivit Parisius jam factus pauper et exul, et magno
+ingenio et studio quaesivit theologiam: deinde cum mente
+descendit ad infernum, et inde ascendit ad purgatorium, in cuius
+summitate reperit eam in paradiso isto deliciarum; ideo bene post
+tot et tantos labores corporis et animi meretur amodo quietem
+felicitatis.  Et petunt: |per grazia fa' noi grazia~, quasi
+dicant: ex gratia speciali supplicamus tibi, quia etiam multum
+nos coluit, |che disvele~, idest, detegas, |la vista tua a lui~;
+sicut enim patuit supra Beatrix erat velata velo albo supra
+vultum, et cincta corona olivae circa caput; ideo rogant eam
+fides, spes et caritas, ut detegat visum suum, ita ut Danti
+pateat plenitudo et splendor faciei suae, idest, profunditas
+sacrae scripturae.  Unde dicit: |s@i che discerna~, idest,
+discernere possit, |la seconda bellezza che tu cele~, idest tegis
+sub velo.  Et hic nota quod Beatrix habet duplicem pulcritudinem;
+nam primo tractat de rebus humanis, scilicet de vitiis et
+virtutibus, et istam primam pulcritudinem jam vidit poeta
+describendo infernum et purgatorium: secundo tractat de divinis
+et altissimis sicut de Deo et angelis, et istam pulcritudinem
+secundam statim ostendit hic Beatrix in confuso, quam paulo post
+videbit specialiter et gradatim semper crescentem in paradiso. 
+
+	|139-145.  O splendor.~  Hic ultimo poeta ostendit
+qualiter Beatrix mota precibus illarum dominarum ostendit sibi
+pulcritudinem secundam oris sui, scilicet divinitatem: et volens
+ostendere excellentiam istius pulcritudinis facit pulcram
+exclamationem cum admiratione ad excusandum se si non facit hic
+descriptionem huius pulcritudinis admirandae.  Et dicit
+sententialiter, quod nullus fuit unquam tam studiosus poeta et
+acutus, qui non videretur rudis et ignarus si praesumeret
+describere pulcritudinem quam nunc meruit videre.  Dicit ergo: |O
+splendor di viva luce eterna~, idest, o Beatrix, quae es quidam
+radius divinae lucis, qua tota ista militia irradiatur, |chi~,
+idest, quis unquam poeta magnus, |si fece s@i pallido~, prae nimio
+studio quod maxime macerat corpus poetarum, ut patet apud Persium
+et multos, |sotto l'ombra di Parnaso~, qui est mons poetarum, ubi
+coronabantur poetae, |o bevve pi@u in sua cisterna~, et qui poeta
+plus hausit de fonte Parnasi, qui dictus est Helicon, de quo
+dixit supra cum invocaret musas, |che non paresse aver la mente
+ingombra~, idest, impeditam, |tentando a render te~, idest,
+referre et repraesentare te Beatricem, |qual tu paresti~, in
+pulcritudine faciei, |l@a dove~, idest, in illo loco ubi, |il ciel
+t'adombra~, sub nube florum, |armonizzando~, cum eius dulci
+harmonia, quam sequuntur angeli cantando, ut jam supra patuit,
+|quando ti solvesti~, idest, detexisti faciem tuam, quae prius
+erat ligata, cum vitta, |nell'aere aperto~, idest, puro,
+luminoso?
+
+

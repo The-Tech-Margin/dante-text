@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.04.09;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Cleanup KDEM files.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh 
+
+# Do several cleanup operations as needed by (for example) barbi.
+
+foreach f ($*)
+	echo "Starting canto $f..."
+	mv $f.k $f.o
+	chmod 444 $f.o
+	sed -e 's/\*`/`*/' -e 's/\*\\'/\\'*/' $f.o | \
+	sedf oldktostd > $f.k
+	cleank $f.k $f.s
+end
+@

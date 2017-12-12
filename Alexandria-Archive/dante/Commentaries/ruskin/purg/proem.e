@@ -1,0 +1,46 @@
+	|Proemio.~  WHEN we pass with Dante from the Inferno to
+Purgatory, we have indeed more light and air, but no more liberty;
+being now confined on various ledges cut into a mountain side, with a
+precipice on one hand and a vertical wall on the other; and, lest here
+also we should make any mistake about magnitudes, we are told that the
+ledges were eighteen feet wide [^Pur.~ x. 24], and that the ascent from
+one to the other was by steps, made like those which go up from
+Florence to the church of San Miniato [^Pur.~ xii. 104].
+
+      ^Modern Painters~, vol. iii. ch. xiv. sec. 31.
+
+The flat ground and embanked trenches are reserved for the
+Inferno: . . . the entire territory of the Purgatory is a mountain,
+thus marking the sense of that purifying and perfecting influence
+in mountains which we saw the mediaeval mind was so ready to
+suggest [^Inf.~ i. 2].
+
+      ^Modern Painters~, vol. iii. ch. xiv. sec. 32.
+
+The place of the soul's purification, though a mountain, is yet
+by Dante subdued, wherever there is any pleasantness to be found
+upon it, from all mountainous character into grassy recesses, or
+slopes to rushy shore; and, in his general conception of it,
+resembles much more a castle mound, surrounded by terraced walks,
+--- in the manner, for instance, of one of Turner's favourite
+scenes, the bank under Richmond Castle (Yorkshire); or, still
+more, one of the hill slopes divided by terraces, above the
+Rhine, in which the picturesqueness of the ground has been
+reduced to the form best calculated for the growing of costly
+wine, than any scene to which we moderns should naturally attach
+the term `mountainous.'
+
+      ^Modern Painters~, Vol. iii. ch. xv. sec. 3.
+
+[In his general division] the poet thus implying in opposition,
+and describing in various instances, the seven virtues of
+Humility, Kindness, Patience, Zeal, Poverty, Abstinence, and
+Chastity, as adjuncts of the Christian character, in which it may
+occasionally fail, while the essential group of the three
+theological and four cardinal virtues are represented as in
+direct attendance on the chariot of the Deity; and all the sins
+of Christians are in the seventeenth canto traced to the
+deficiency or aberration of Affection.
+
+      ^Stones of Venice~, vol. ii. ch. viii. sec. lxi.
+

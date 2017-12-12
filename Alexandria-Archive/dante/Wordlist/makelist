@@ -1,0 +1,15 @@
+#! /bin/sh
+
+# Generate a list of the words in some commentaries
+
+COMMHOME=/amber/Dante/Commentaries
+
+cd $COMMHOME
+
+FILELIST=`
+for COMM in giacalone bosco momigliano pasquini padoan pietrobono sapegno steiner
+do
+	echo $COMM/inf/??.e* $COMM/purg/??.e* $COMM/para/??.e*
+done`
+
+wordlist.sh $FILELIST

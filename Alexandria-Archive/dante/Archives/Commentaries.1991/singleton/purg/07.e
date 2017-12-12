@@ -1,0 +1,823 @@
+|PURGATORIO CANTO 07~
+
+	|1.  oneste~: "Courteous."  See ^Conv.~ II, x, 8, where
+Dante says: "Cortesia e onestade @e tutt'uno."  ("Courtesy and
+honour are all one.")
+
+	|2.  furo~ = ^furono.  |iterate~ = ^ripetute.~  "Iterate" is
+from the Latin ^iterare.~  |tre e quattro volte~: See Virgil, ^Aen.~
+I, 93-96:
+
+     ingemit et duplicis tendens ad sidera palmas 
+     talia voce refert: "O terque quaterque beati, 
+     quis ante ora patrum Troiae sub moenibus altis 
+     contigit oppetere!..."
+
+     He groans and, stretching his two upturned hands to heaven,
+     thus cries aloud: "O thrice and four times blest, whose lot
+     it was to meet death before their fathers' eyes beneath the
+     lofty walls of Troy!"
+
+Also see ^Aen.~ IV, 589: "Terque quaterque manu pectus Percussa
+decorum" ("thrice and four times she struck her comely breast
+with her hand") and ^Georg.~ I, 410-11: "Tum liquidas corvi
+presso ter gutture voces / aut quater ingeminant."  ("Then the
+rooks, with narrowed throat, thrice or four times repeat their
+soft cries.")  Clearly the expression is an established one,
+suggesting a small but indefinite number of times.
+
+	|3.  si trasse~: "Stood back," i.e., from Virgil, whom he
+has just embraced.  ^Voi, chi siete?~ Sordello asks the question
+in the plural; but he has only to hear that this is Virgil and he
+does not ask further about Dante.  Later he will be much
+surprised to learn that Dante is a living man.  Sordello, also
+addressing both Dante and Virgil, previously asked about the
+origin and condition of these two wayfarers (^Purg.~ VI, 70-71).
+
+	|4.  Anzi che~ = ^prima che.~
+
+	|4-5.  fosser volte l'anime degne di salire a Dio~: See
+^Inf.~ IV, 62-63: "dinanzi ad essi, / spiriti umani non eran
+salvati" ("essi" are the souls which Christ harrowed from Limbo).
+Thus Adam and the others there named as being taken from Limbo
+were directed ("volte") to Purgatory, which, from the time of
+Satan's fall, had stood as an empty mountain (see ^Inf.~ XXXIV,
+124-26).  These were made worthy of salvation by their faith in
+the Redeemer, and through the power of His Passion they were
+delivered (see Thomas Aquinas, ^Summa theol.~ III, q. 52, a. 5).
+
+	|6.  fur~ = ^furono.~  |per~ = ^da.~  |Ottavian~: Octavian,
+	i.e., Augustus, the first Roman Emperor, was born in 63 B.C.
+and died in A.D. 14.  His original name was Gaius Octavius, which,
+after his adoption by his great-uncle Julius Caesar, was changed to
+Gaius Julius Caesar Octavianus.  Augustus was a title of veneration
+conferred upon him by the Roman senate and people, 27 B.C., eight years
+before Virgil's death in 19 B.C.
+
+	|7.  rio~: "Wickedness."
+
+	|8.  per non aver f$e~: I.e., for not having had implicit
+faith in the Redeemer.  See ^Inf.~ IV, 37-42.  This verse is a
+^verso tronco~, as are also vss. 10 and 12.
+
+	|15.  abbracci@ol~ = ^lo abbracci@o.~  |l@a 've 'l minor
+s'appiglia~: The exact nature of this second and more respectful
+embrace by Sordello is not clear.  While some early commentators
+understand the embrace to be about the knees or feet, the
+^Anonimo fiorentino~ comments: "ci@o @e dal petto in gi@u, sotto
+le braccia di Virgilio, dov'@e d'usanza ch'abbracci il minore in
+dignit@a o in tempo" ("that is, below the chest, under Virgil's
+arms, where one who is of lesser dignity or age is wont to
+embrace").  Cf. ^Purg.~ XXI, 130-31; ^Inf.~ XVI, 46-48.
+
+	|16.  O gloria di Latin~: The glory of the ancient
+Romans, whose language was Latin, and of modern Italians and
+other Romance peoples, whose languages are the living survivors
+of Latin (Sordello wrote in Proven$cal).  |per cui~:
+"Through whom," i.e., through whose achievement in poetic
+language.
+
+	|17.  la lingua nostra~: "Lingua nostra," as here used by
+Sordello, embraces Latin and all its Romance derivatives and
+regards them as one language -- to which a patriotic "nostra"
+attaches.
+
+	|18.  del loco ond' io fui~: Mantua or its territory.
+Both poets were born near Mantua.
+
+	|19.  qual merito o qual grazia~: Any merit would be
+Sordello's, the grace would be from God.
+
+	|21.  chiostra~: Circle (cf. ^Inf.~ XXIX, 40).
+
+	|23.  lui~ = ^a lui.~  |di qua~ = ^qua.~
+
+	|24.  virt@u del ciel mi mosse~: Cf. ^Inf.~ II, 52-54;
+^Purg.~ I, 68-69.  |con lei~: With this heaven-sent power.
+
+	|25.  Non per far~: Not through the commission of any
+actual sin.  |ma per non fare~: I.e., because he did not
+worship God worthily, as was said in ^Inf.~ IV, 37-41.  For such
+a "defect" he is lost.
+
+	|26.  a veder~ = ^di vedere.~  |l'alto Sol che tu disiri~:
+God, as seen by the blessed in that beatific vision which all
+souls desire, but which souls in Limbo desire in vain, without
+hope; this is their only torment (see ^Inf.~ IV, 40-42).  Compare
+the sun as the symbol of God's light in ^Inf.~ I, 17-18 and
+^passim~, as well as an established symbol of Christ in medieval
+thought.  Virgil did not know Christ, since he died nineteen
+years before His Advent, and so he knew of the true God only
+after his death when Christ came to Limbo in the harrowing
+(^Inf.~ IV, 52-63) -- too late for Virgil's salvation.
+
+	|28-30.  Luogo @e l@a gi@u... sospiri~: Limbo.  Cf.
+^Inf.~ IV, 25-30.
+
+	|28.  non tristo di mart@iri~ = ^non attristato da
+martiri.~
+
+	|29.  ma di tenebre solo: Tristo~ is understood ("ma
+tristo di tenebre soltanto").
+
+	|30.  guai~: Outcries of pain.  Cf. ^Inf.~ V,
+48.      |ma son sospiri~: The souls, in vain longing, sigh for
+the beatific vision, which is forever denied them.
+
+	|31.  Quivi sto io~: Virgil makes no mention of the
+special privilege that he and the other virtuous pagans enjoy,
+namely, the hemisphere of light and the noble castle which is
+their abode.  |coi pargoli innocenti~: Dante has made the ^Limbus
+puerorum~ (recognized in theology) and the ^Limbus~ of the
+virtuous pagans one and the same place.  The "pargoli" are
+children innocent of any actual or personal sin (^Inf.~ IV, 34:
+"ei non peccaro").  See ^Inf.~ IV, 34-36.
+
+	|32.  dai denti morsi de la morte~: Cf. Osee 13:14: "De
+manu mortis liberabo eos, de morte redimam eos; ero mors tua, o
+mors, morsus tuus ero, inferne."  ("I will deliver them out of
+the hand of death.  I will redeem them from death.  O death, I
+will be thy death; O hell, I will be thy bite.") 33 ^da l'umana
+colpa essenti~: I.e., before they were exempted, through baptism,
+from the guilt of original sin.  Cf. ^Inf.~ IV, 35-
+36.       |essenti~ = ^esenti.~
+
+	|34-36.  con quei... quante~: These must be the souls of
+adults; in fact, Virgil means virtuous pagans of antiquity, his
+companions in Limbo.
+
+	|34-35.  le tre sante virt@u~: The three theological
+virtues -- faith, hope, and charity -- which are ^infused~
+virtues given only with sanctifying grace.  It did not generally
+lie within the power of pagans to "clothe" themselves in such
+grace and virtues, for such a possibility was established by
+Christ's coming and His death for mankind upon the Cross.  This
+"defect" of virtue (referred to in ^Inf.~ IV, 40) informs the
+notion of "non fare" (vs. 25, above), for without the infused
+theological virtues and sanctifying grace, which unite men to God
+(as His sons), no man can do the good that is above human powers
+and merits salvation.
+
+	|35.  vestiro~ = ^vestirono.~
+
+	|35-36.  e sanza vizio conobber l'altre~: The "other"
+virtues are in general all the moral and intellectual virtues
+known to the pagans, but especially the four cardinal virtues --
+prudence, temperance, justice, and fortitude.  Virgil draws no
+fine line here between these four as the ^acquired~ virtues, as
+distinguished from the four ^infused~ cardinal virtues.  He and
+his pagan companions in Limbo were all denied the infused virtues
+and could attain and follow only the acquired.
+
+	|36.  seguir~ = ^seguirono.~
+
+	|37.  Ma se tu sai e puoi~: The coupling of these two
+verbs in such cases is common, and "puoi" need not be taken to
+mean that permission might be required (as some commentators
+understand it).  Cf. ^Par.~ I, 6: "n$e sa n$e pu@o chi di l@a
+s@u discende."
+
+	|38.  noi~ = ^a noi.~
+
+	|39.  l@a dove purgatorio ha dritto inizio~: I.e., where
+Purgatory (as distinguished from Antepurgatory) has its true and
+proper beginning.  See Belacqua's reference to this point in
+^Purg.~ IV, 127-29.
+
+	|40.  Loco certo non c'@e posto~: Cf. Virgil, ^Aen.~ VI,
+672-75:
+
+     atque huic responsum paucis ita reddidit heros:
+     "nulli certa domus; lucis habitamus opacis
+     riparumque toros et prata recentia rivis
+     incolimus...."
+
+     And to her the hero thus made brief reply: "Fixed home hath
+     none.  We dwell in shady groves, and live on cushioned
+     river-banks and in meadows fresh with streams."
+
+And soon now Sordello is to lead Dante and Virgil to the meadows
+of the princes.  Remembering this, we may suppose that the
+princes have wandered about on the slope during the day, but have
+now gathered in their little valley for the night, as is their
+wont.  It is never made clear to which group Sordello belongs, if
+any.  It is perhaps implied that, like the princes, he also was
+too much absorbed in worldly cares; but since he is not a prince,
+but a judge of princes, he is seen as dwelling apart and alone,
+"sola soletta" (^Purg.~ VI, 59).  ^posto~ = ^imposto.~
+
+	|41.  suso~: That is, as far up the slope as the entrance
+to Purgatory proper, but no farther.  |intorno~: Going round
+about the slope of Antepurgatory, as we have seen other souls
+doing, group after group.
+
+	|42.  a guida~ = ^come guida.~
+
+	|43.  dichina~ = ^declina.~
+
+	|44.  puote~ = ^pu@o.~
+
+	|45.  per@o~ = ^per ci@o.~
+
+	|46.  a destra~: To proceed in this direction means to
+circle the mountain in the proper direction, i.e.,
+counterclockwise.  |qua~: The adverb implies a gesture: Sordello
+points.  |remote~: As a group.
+
+	|47.  merr@o~ = ^mener@o.~
+
+	|48.  fier~ = ^saranno.~
+
+	|50.  fora~ = ^sarebbe.~
+
+	|50-51.  impedito d'altrui~: I.e., prevented from
+climbing by someone else.
+
+	|51.  sarria~ = ^salirebbe.~  |ch$e non potesse~: "Because he
+had not the power [himself]."  The question thus admits of two
+possibilities, of either external or internal hindrance.
+
+	|52-54.  E 'l buon Sordello... partito~: Cf. Ioan. 8:6, 8:
+"Iesus autem inclinans se deorsum, digito scribebat in terra.  ...Et
+iterum se inclinans, scribebat in terra."  ("But Jesus, stooping down,
+began to write with his finger on the ground.  ...And again stooping
+down, he began to write on the ground.")  Sordello draws the line above
+them on the slope.
+
+	|54.  partito~ = ^tramontato.~
+
+	|55.  non per@o ch'~ = ^non perci@o che.~  |desse~: The
+imperfect subjunctive form of the verb is determined by the
+conditional "varcheresti" of the preceding verse.  |briga~:
+"Hindrance," "opposition."
+
+	|57.  nonpoder~: Cf. "nonpossa," ^Purg.~ V,
+66.  |intriga~: "Entangles," "impedes."
+
+	|58.  poria~ = ^potrebbe.~  |lei~: The "notturna tenebra" of
+vs. 56.
+
+	|60.  mentre che~ = ^finch@e.~  |l'orizzonte il d@i tien
+chiuso~: Cf. ^Aen.~ I, 374: "ante diem clauso componet Vesper
+Olympo" ("sooner would heaven close and evening lay the day to
+rest").  The horizon is said to lock out the sun for the night.
+
+	|61.  quasi ammirando~: "As one who marvels."  The fact
+continues to be stressed that Virgil is a complete stranger here
+in Purgatory.  Cf. ^Purg.~ II, 61-63.
+
+	|62.  Menane~ = ^menaci~ (pronounced ^m@enaci~).
+
+	|64.  allungati~ = ^allontanati.~  Cf. ^Purg.~ XIII,
+32. |di lici~ = ^di l@i.~  Cf. E. G. Parodi (1957), p. 261, who
+points to corresponding forms ^laci~ and ^quaci~ in early prose
+texts.
+
+	|66.  vallon: Vallone~ is used to denote the ^bolge~ of
+the eighth circle of Hell: see ^Inf.~ XIX, 133; XXIII, 135. |li~:
+^I monti.~  |quici~ = ^qui~, in the northern hemisphere, the world of
+the living.  For the form, see E. G. Parodi (1957), p. 261.
+
+	|70.  Tra erto e piano era un sentiero schembo~: The
+path, neither steep nor level, leads obliquely across the slope.
+
+	|71.  ne~ = ^ci.~  |lacca~: Cf. ^Inf.~ VII, 16; XII, 11.
+
+	|72.  l@a dove pi@u ch'a mezzo muore il lembo~: The banks
+of the valley merge finally with the slope, hence they are said
+to "die."
+
+	|73-75.  Oro e argento... fiacca~: The colors here named
+must all be such as might be seen in some beautiful flowery
+meadow, but are also (at least in part) pigments used by artists
+-- hence the appropriateness of "dipinto," vs. 79.
+
+	|73.  fine~: Pure.  |cocco~: "Cochineal" (from the
+Latin ^coccum~) or "chermes," from which a scarlet pigment was
+commonly made.  |biacca~: "White lead," used as a white pigment.
+
+	|74.  indaco legno lucido e sereno~: As pointed out by M.
+P. Cook (1903, p. 356), several interpretations of this verse
+have been proposed: one is that "indaco" and "legno" are two
+different colors, and "indaco," taken by itself, means "indigo";
+another is that the words "indaco legno" taken together mean
+"amber," the tree gum that sometimes comes from India.  The most
+persuasive interpretation advanced so far is that "legno" means
+^lychnis~ (or ^lignis~), termed ^lignus~ in medieval Latin,
+mentioned as a bright purple gem by Pliny, Solinus, and Isidore
+of Seville (see H. D. Austin, 1922).  "Indaco" in the present
+translation is construed as an adjective modifying "legno," and
+accordingly Petrocchi's punctuation, which places a comma after
+"indaco," has been removed.  The passage in Pliny (^Nat. hist.~
+XXVII, xxix, 103) is as follows:
+
+     Ex eodem genere ardentium est lychnis appellata a lucernarum
+     accensu, tum praecipuae gratiae.  nascitur circa Orthosiam
+     totaque Caria ac vicinis locis, sed probatissima in Indis.
+     quidam remissiorem carbunculum esse dixerunt, secundam
+     bonitate quae similis esset Iovis appellatis floribus.  et
+     alias invenio differentias: unam quae purpura radiet,
+     alteram quae cocco.
+
+     To the same class of fiery red stones belongs the "lychnis,"
+     so called from the kindling of lamps, because at that time
+     it is exceptionally beautiful.  It is found around Orthosia
+     and throughout Caria and the neighbouring regions, but
+     occurs at its finest in India.  "Mild carbuncle" is the term
+     sometimes applied to "lychnis" of the second grade
+     resembling the so-called "Flower of Jove."  I find that
+     there are other varieties as well, one of which has a purple
+     and the other a scarlet sheen.
+
+	|76-78.  da l'erba... meno~: Each of the above-named
+colors, if placed within that valley, would be surpassed by the
+grass and the flowers there, as the less is surpassed by the
+greater.  It seems better to construe "posti" as referring to the
+colors and not to the grass and flowers, particularly because of
+the verb ("saria") in the conditional tense.
+
+	|78.  il meno~: "The lesser thing," i.e., the inferior.
+
+	|79-81.  Non avea pur natura... indistinto~: The stress
+falls on "pur" and "dipinto" (on "dipinto" here, see n. to vss.
+73-75); that is, nature has not only painted all these bright
+colors, but has also made of the many different scents of flowers
+a single blended and mysterious fragrance.
+
+	|82.  Salve, Regina~: This well-known antiphon, which is
+a prayer to the Virgin Mary, our advocate in Heaven, is recited at
+dusk and is thus appropriately sung here, since now it is that
+time of evening in Purgatory.  Moreover, as a prayer it is
+addressed to Mary by those who are exiles in this "vale of tears"
+-- and indeed these souls in Purgatory have in fact gathered in a
+vale for the night.  On the figure of the Exodus which thus
+emerges here, see C. S. Singleton (1965).  The text of the hymn,
+with a translation, may be found in M. Britt (1955),p. 67:
+
+     Salve, Regina, mater misericordiae;
+     Vita, dulcedo et spes nostra, salve.
+     Ad te clamamus exsules filii Hevae.
+
+     Ad te suspiramus gementes et flentes in hac
+         lacrimarum valle.
+     Eia ergo, advocata nostra,
+     Illos tuos misericordes oculos ad nos converte.
+
+     Et Iesum, benedictum fructum ventris tui,
+     Nobis post hoc exsilium ostende.
+     O clemens, o pia, o dulcis Virgo Maria.
+
+     Hail, Holy Queen, Mother of Mercy; our life, our sweetness,
+     and our hope.  To thee we cry, poor banished children of
+     Eve.  To thee we send up our sighs, mourning and weeping in
+     this valley of tears.  Turn then, most gracious Advocate,
+     thine eyes of mercy upon us and after this our exile show
+     unto us the blessed fruit of thy womb, Jesus.  O clement, o
+     loving, o sweet Virgin Mary.
+
+Aeneas also saw shades chanting in chorus, but theirs was a
+joyous song.  See Virgil, ^Aen.~ VI, 656-58:
+
+     conspicit ecce alios dextra laevaque per herbam
+     vescentis laetumque choro paeana canentis
+     inter odoratum lauri nemus...
+
+     Lo! others he sees, to right and left, feasting on the
+     sward, and chanting in chorus a joyous paean within a
+     fragrant laurel grove...
+
+It may be noted that the words from the ^Aeneid~ quoted in the n.
+to vs. 40 come soon after these verses.
+
+	|83.  quindi~: Connects with "vidi" in the same verse,
+thus referring to the place from which Dante observes the scene.
+
+	|84.  di fuori~ = ^dal di fuori.~  The little valley is
+deep enough to hide the souls until Dante comes to the edge and
+can look down into it.
+
+	|85.  Prima che 'l poco sole omai s'annidi~: The sun is
+about to set, hence is termed "poco"; and its setting is called a
+settling into its nest.
+
+	|86.  ci avea v@olti~: "Had turned us," "had directed us"
+thither, around the mountain slope.
+
+	|89.  tutti quanti~: Each and every one.
+
+	|90.  che ne la lama gi@u tra essi accolti~: Better than
+Dante might see them, were he down among them on the floor of the
+little dale.  See "lama" in this sense in ^Inf.~ XX, 79; XXII,
+96.
+
+	|92.  d'aver negletto ci@o che far dovea~: These, like
+the other souls already encountered in Antepurgatory, are guilty
+of negligence; and this emperor particularly is guilty of having
+neglected to come into Italy and rule her, as was his duty.
+
+	|94.  Rodolfo~: Rudolf I, emperor from 1273 to 1291.  He
+was born in 1218 and was the son of Albert IV, count of Habsburg,
+and the founder of the imperial house of Austria.  In 1273 he was
+elected emperor, in preference to Ottokar, king of Bohemia, and
+to Alfonso X of Castile.  Ottokar refused to acknowledge him as
+emperor; but Rudolf, supported by powerful allies, made war upon
+him and compelled him to sue for peace, which was granted only
+upon condition that he should cede Austria, Styria, Carinthia,
+and Carniola.  A few years later Ottokar again rebelled, and was
+finally defeated and slain near Vienna in August 1278.  Villani
+(VII, 55) says of him: "Questo re Ridolfo fu di grande affare, e
+magnanimo, e pro' in arme, e bene avventuroso in battaglie, molto
+ridottato dagli Alamanni e dagl'Italiani; e se avesse voluto
+passare in Italia, sanza contasto n'era signore."  ("This King
+Rudolf was a man of great deeds.  He was magnanimous, skilled in
+arms, and very brave in battle, so that he was much feared by the
+Germans and by the Italians.  If he had wanted to invade Italy,
+he could have become its lord without opposition.")  Villani
+(VII, 146) continues:
+
+     Sempre intese a crescere suo stato e signoria in Alamagna,
+     lasciando le 'mprese d'Italia per accrescere terra e podere
+     a' figliuoli, che per suo procaccio e valore di piccolo
+     conte divenne imperadore, e acquist@o in proprio il ducato
+     d'Osterich, e gran parte di quello di Soavia.
+
+     Since he was always intent upon increasing his power and
+     lordship in Germany, he abstained from any Italian
+     enterprise, so that he might increase the lands and the
+     power of his sons.  By his energy and valor he rose from a
+     petty count to become emperor.  He acquired for himself the
+     duchy of Austria and a large part of the duchy of Swabia.
+
+	^potea~ = ^avrebbe potuto.~
+
+	|95.  le piaghe c'hanno Italia morta~: The many divisions
+and the internal strife (see ^Purg.~ VI, 106-26).  ^Morire~ has
+the transitive meaning here, "to slay."
+
+	|96.  s@i che tardi per altri si ricrea~: Present tense
+for the future: "she will not soon be revived."  For such a use
+of the present, common in prophecies, see ^Purg.~ XIV, 66.
+|tardi~: ^Troppo~ is understood ("troppo tardi").  |per altri~: Some
+commentators see this as a reference to the Emperor Henry VII,
+who first crossed the Alps into Italy in 1310.
+
+	|97.  L'altro~: Ottokar, named in vs. 100, who in life
+was Rudolf's enemy, now appears to comfort him here.  So it was
+with former enemies in Virgil's Elysian fields (^Aen.~ VI, 824-
+27):
+
+     Quin Decios Drusosque procul saevumque securi
+     aspice Torquatum et referentem signa Camillum.
+     illae autem, paribus quas fulgere cernis in armis,
+     concordes animae nunc...
+
+     Nay, see apart the Decii and Drusi, and Torquatus of the
+     cruel axe, and Camillus bringing home the standards.  But
+     they whom thou seest gleaming in equal arms, souls
+     harmonious now...
+
+	|98-99.  la terra... porta~: Bohemia, in the southwest
+part of which rises the "Molta," the river Moldau (Czech Vltava),
+which, after flowing southeast for some distance, turns north
+and, passing through Prague, enters the "Albia," the Elbe (Czech
+Labe), about twenty miles north of Prague.  The Elbe then flows
+west-northwest through Germany into the North Sea.
+
+	|100.  Ottacchero~: Ottokar II was king of Bohemia from
+1253 to 1278.  He refused to recognize Rudolf I as emperor, and
+the latter in consequence made war on him and defeated him at
+Marchfeld near Vienna, Ottokar being slain in the battle, on
+August 26, 1278.  He was succeeded by his son Wenceslaus II.
+Villani (VII, 55) gives the following account of his defeat by
+Rudolf and of the humiliation of his son:
+
+     Negli anni di Cristo 1277, essendo grande guerra tra 'l re
+     Ridolfo della Magna e lo re di Boemia per cagione che nol
+     volea ubbidire n@e fare omaggio, per la qual cosa il re
+     Ridolfo eletto imperadore con grandissima oste and@o sopra
+     il detto re di Boemia, il quale gli si fece incontro con
+     grandissima cavalleria, e dopo la dura e aspra battaglia che
+     fu tra cos@i aspre genti d'arme, come piacque a Dio il detto
+     re di Boemia nella detta battaglia fu morto, e la sua gente
+     sconfitta, nella quale innumerabile cavalleria furono morti
+     e presi, e quasi tutto il reame di Boemia Ridolfo ebbe a sua
+     signoria.  E ci@o fatto, col figliuolo del detto re di
+     Boemia fece pace, faccendolsi prima venire a misericordia: e
+     stando il re Ridolfo in sedia in uno grande fango, e quello
+     di Boemia stava dinanzi a lui ginocchione innanzi a tutti i
+     suoi baroni; ma poi riconciliato, il re Ridolfo gli diede la
+     figliuola per moglie, e rend@egli il reame.
+
+     In the year of Christ 1277 there was a great war between
+     King Rudolf of Germany and the king of Bohemia, who did not
+     want to obey him or do him homage.  For this reason, when
+     King Rudolf was elected emperor, he went with a large army
+     to attack the king of Bohemia, who came to meet him with a
+     very large force of cavalry.  After a hard and bitter battle
+     between these two fierce armies, the king of Bohemia was
+     slain in battle, as it pleased God, and his army was
+     defeated.  Innumerable knights were killed or captured, and
+     Rudolf gained possession of nearly the entire kingdom of
+     Bohemia When that was done, he made peace with the son of
+     the king of Bohemia; but first he made him come to ask for
+     mercy.  King Rudolf was seated on a throne in a quagmire,
+     and the king of Bohemia kneeled there before him and all his
+     barons.  But later, when they were reconciled, King Rudolf
+     gave him his daughter in marriage and restored the kingdom
+     to him.
+
+	|100-102.  ne le fasce... pasce~: Ottokar, the father,
+is said to have been better when he was a child in swaddling
+clothes than is his son as a grown ("bearded") man.
+
+	|101.  Vincislao~: Wenceslaus II, son and successor of
+Ottokar and son-in-law of the Emperor Rudolf, was king of Bohemia
+from 1278 to 1305.  In the heaven of Jupiter he is referred to as
+"quel di Boemme" (^Par.~ XIX, 125) and as one "who never knew
+valor nor wished it."
+
+	|102.  cui lussuria e ozio pasce~: The verb in the
+singular serves a dual subject: both lust and idleness nurture
+Wenceslaus.
+
+	|103.  quel nasetto~: This "small-nosed" one is Philip
+III, the Bold, born in 1245 and king of France from 1270 until
+his death in 1285.  He was the son and successor of Louis IX and
+nephew of Charles of Anjou.  In 1262 Philip married Isabella,
+daughter of James I of Aragon, by whom he had, among other
+children, Philip, who succeeded him as Philip IV, the Fair,
+termed "il mal di Francia" in vs. 109.  After the Sicilian
+Vespers in 1282 and the loss of Sicily by his uncle, Charles of
+Anjou, Philip, with the assistance of James of Majorca, made war
+upon Pedro III of Aragon, whose crown had been offered him for
+his son by Pope Martin IV.  After a long siege he captured
+Gerona, but, his fleet having been destroyed in the Gulf of Rosas
+by Ruggiero di Loria, Pedro III's admiral, and his supplies being
+thus cut off, he was forced to retreat.  Sick with fever and
+vexation at this reverse, he was carried as far as Perpignan,
+where he died in October of 1285.  A few days later Gerona was
+recaptured by Pedro of Aragon, who himself died before the close
+of the year.
+
+	|104.  colui c'ha s@i benigno aspetto~: Henry I, surnamed
+the Fat, king of Navarre from 1270 to 1274.  He was the son of
+Thibaut I and brother of Thibaut II ("il buon re Tebaldo," ^Inf.~
+XXII, 52), whom he succeeded.  His daughter Jeanne married Philip
+the Fair; hence he is styled (vs. 109) "fatherin-law of the
+plague of France," which causes his melancholy and his sighs here
+in Purgatory, as vss. 110-11 make clear.
+
+	|105.  il giglio~: The royal emblem of France, three
+lilies or on a field azure.
+
+	|107.  L'altro~: Henry of Navarre.
+
+	|107-108.  ha fatto a la guancia... letto~: A standard
+posture expressing grief.  Cf. G. L. Hamilton (1921).
+
+	|109.  del mal di Francia~: Philip IV, the Fair, king of
+France from 1285 to 1314, was the son of Philip III, whom he
+succeeded, and brother of Charles of Valois.  Philip is not
+mentioned by name in the ^Divine Comedy.~  He was referred to by
+Pope Nicholas III, in the third ^bolgia~ of the eighth circle of
+Hell, as "chi Francia regge" (^Inf.~ XIX, 87), and he is bitterly
+denounced elsewhere in the poem for his relations with the papal
+see (imprisonment of Boniface VIII), his persecution of the Order
+of the Templars, his debasement of the French coinage, and many
+another misdeed.
+
+	|112-114.  Quel che par s@i membruto... corda~: Pedro III,
+king of Aragon from 1276 to 1285.  He married (in 1262)
+Constance, daughter of King Manfred of Sicily, and thus had a
+claim on the crown of Sicily, which he assumed after the massacre
+of the Sicilian Vespers in 1282 and retained until his death in
+1285, in spite of all the efforts of Charles of Anjou (including
+even a challenge of his rival to a duel), backed by Pope Martin
+IV (who excommunicated Pedro), to regain his lost kingdom.
+Dante's estimate of Pedro of Aragon is borne out by Villani (VII,
+103): "Il sopraddetto Piero re d'Araona fu valente signore e pro'
+in arme, e bene avventuroso e savio, e ridottato da' cristiani e
+da' saracini altrettanto o Pi@u, come nullo re che regnasse al
+suo tempo."  ("The above-mentioned Pedro of Aragon was a worthy
+lord, skilled in arms, very brave and wise.  He was more feared
+by Christians than any king of that time, and as much or more by
+Saracens.")
+
+	|113.  colui dal maschio naso~: Charles I, king of Naples
+and Sicily, count of Anjou and Provence, son of Louis VIII of
+France and Blanche of Castile, and brother of Louis IX (St.
+Louis), was born in 1226.  In 1246 he married Beatrice, youngest
+daughter of Count Raymond Berenger IV of Provence, in whose right
+he became count of Provence; after the death of Beatrice in 1267,
+he married Margaret of Burgundy, daughter of Eudes, duke of
+Burgundy, in 1268.  In 1266, after the defeat of Manfred at
+Benevento, he became king of Naples and Sicily; he died January
+7, 1285.  Charles and Pedro of Aragon were bitter foes in life,
+but now sing in harmony together in Purgatory.
+
+	Villani (VI, 89) speaks of him in the most glowing terms:
+"Il pi@u sofficiente principe di prodezza d'arme e d'ogni virt@u
+che fosse al suo tempo."  ("In his time he was the prince who
+excelled in feats of arms and in every virtue as well.")  Villani
+(VII, 95) continues: "Il pi@u temuto e ridottato signore, e il
+pi@u valente d'arme e con pi@u alti intendimenti, che niuno re
+che fosse nella casa di Francia da Carlo Magno infino a lui, e
+quegli che pi@u esalt@o la Chiesa di Roma."  ("He was the most
+feared and redoubtable lord, the most valiant in arms, and the
+most lofty in his aims of any king of the house of France, from
+Charlemagne down to him.  And he was the one who most exalted the
+Church of Rome.")  In describing his person, the chronicler (VII,
+1) mentions his large nose: "Grande di persona e nerboruto, di
+colore ulivigno, e con grande naso, e parea bene maest@a reale
+pi@u ch'altro signore."  ("He was large and strong limbed, of
+olive complexion, and with a large nose, and he was more regal in
+aspect than any other lord.")  In vs. 124 Dante again refers to
+Charles by his nose, as "il nasuto."
+
+	|114.  d'ogne valor port@o cinta la corda~: Cf. ^Inf.~
+XVI, 106.  The metaphor is biblical in origin.  See Isa. 11:5:
+"Et erit iustitia cingulum lumborum eius, et fides cinctorium
+renum eius."  ("And justice shall the the girdle of his loins:
+and faith the girdle of his reins.")  Also see Prov. 31: 17:
+"Accinxit fortitudine lumbos suos."  ("She is girt about with
+strength.")  Torraca comments: "L'imagine fa pensare alla cintura,
+che si cingeva al nuovo cavaliere, simboleggiante 'ogni nettezza
+e ogni cortesia, tutte virt@u e tutte buone opere.' " ("The image
+makes one think of the belt that was put on a new knight,
+symbolizing `every purity, every courtesy, all virtues, and all
+good deeds.'")
+
+	|116.  lo giovanetto~: The reference is probably to
+Pedro, the last-born son of Pedro III of Aragon.  See M. Amari
+(1886), p. 442.  Some commentators have understood the reference
+to be to Alfonso III of Aragon, the eldest son of Pedro III.  But
+Alfonso did actually become king after his father, reigning from
+1285 to 1291.
+
+	|117.  ben andava il valor di vaso in vaso~: Cf. Ier.
+48: 11: "nec transfusus est de vase in vas" ("and hath not been
+poured out from vessel to vessel").  Porena comments: "Quanto
+all'^andava di vaso in vaso~ ecc. non pu@o intendersi come un
+`passava di padre in figlio,' perch@e tale passaggio di virt@u
+c'era realmente stato; sar@a dunque da intendere `passava di
+sovrano in sovrano.'"  ("So far as the `passing from one vessel to
+another' is concerned, it cannot be interpreted as 'passing from
+father to son,' because there really had been just such a
+transferral of virtue.  It must be interpreted, then, as 'passing
+from one sovereign to another.'") Porena continues: "Invece
+questo passaggio non c'@e stato con gli altri eredi: Jacopo
+d'Aragona e Federigo di Sicilia."  ("That transferral did not
+take place with the other heirs: James of Aragon and Frederick of
+Sicily.")
+
+	|118.   rede~ = ^eredi.~
+
+	|119.  Iacomo~: James II, the Just, king of Sicily from
+1285 to 1295 and king of Aragon from 1291 to 1327, was the second
+son of Pedro III of Aragon.  On the death of Pedro III, king of
+Aragon and Sicily, in 1285, his eldest son, Alfonso III, became
+king of Aragon, while James succeeded to the crown of Sicily.
+When Alfonso died in 1291, James succeeded him in Aragon, leaving
+the government of Sicily in the hands of his younger brother
+Frederick II.  A few years later, however, James, ignoring the
+claims of Frederick, agreed to cede Sicily to the Angevin
+claimant, Charles II of Naples, whose daughter Blanche he married
+(1295).  The Sicilians, on learning of this agreement, renounced
+their allegiance to James, and proclaimed his brother Frederick
+king in his stead (1296).  Charles and James thereupon made war
+upon Frederick, but in 1299 James withdrew his troops, and in
+1302 his brother was confirmed in possession of the kingdom of
+Sicily, under the title of king of Trinacria.  James, who by his
+own subjects was surnamed the Just, died at Barcelona, November
+2, 1327.
+
+	^Federigo~: Frederick II, king of Sicily from 1296 to
+1337, was born in 1272, the third son of Pedro III of Aragon.
+For additional details, see the preceding section of this note.
+Frederick is alluded to by his grandfather Manfred in ^Purg.~
+III, 116 as "l'onor di Cicilia" even as his brother James is
+styled "l'onor... d'Aragona."  From this fond judgment Dante
+differs notably.
+
+	|120.  del retaggio miglior nessun possiede~: Neither
+James nor Frederick possesses the better heritage, i.e., the
+goodness of their father, Pedro.
+
+	|121-123.  Rade volte... chiami~: Cf. ^Conv.~ IV, xx, 5,
+where Dante writes: "Ch@e 'l divino seme non cade in ischiatta,
+cio@e in istirpe, ma cade ne le singulari persone, e... la stirpe
+non fa le singulari persone nobili, ma le singulari persone fanno
+nobile la stirpe."  ("For the divine seed [of nobility] falls not
+upon the race, that is the stock, but falls upon individuals
+and... the stock does not ennoble individuals, but individuals
+ennoble the stock.")  Dante continues (^Conv.~ IV, xx, 7): "Dio
+solo porge questa grazia a l'anima di quelli cui vede stare
+perfettamente ne la sua persona, acconcio e disposto a questo
+divino atto ricevere."  ("God alone gives this grace to the soul
+of that man whom he sees perfectly balanced in his person and
+ready and disposed to receive this divine act.")  Thus worthiness
+is not transmitted by heredity, but is God-given only, in order
+that it may be prayed for from Him.  Cf. Chaucer, ^The Wife of
+Bath's Tale~, vs. 1117: "Crist wole we clayme of hym oure
+gentillesse."  See Iac. 1:17: "Omne datum optimum et omne donum
+perfectum desursum est, descendens a Patre luminum."  ("Every
+good gift and every perfect gift is from above, coming down from
+the Father of Lights.")
+
+	|121.  risurge~: A. D'Ancona (1901, p. 33) observes: 
+"[Dante] dice ^risurge~, risale, dacch@e negli alberi genealogici
+si and@o per lungo tempo di sotto in su, mentre ora nel figurarli
+si comincia dall'alto."  ("[Dante] says ^risurge~ [rises], 'comes
+up again,' because it was long the custom to draw genealogical
+trees as proceeding from the bottom to the top, whereas nowadays
+they are drawn to be read from the top down.")
+
+	|124.  Anche al nasuto~: I.e., to Charles of Anjou,
+"colui dal maschio naso," vs. 113.  Torraca comments: "Ha del
+dispregiativo; ed @e degno di nota che Sordello, il quale visse
+nella corte di Carlo d'Angi@o... non lo indichi a nome, n@e la
+prima volta, n@e ora, che nomina ^Pier~, il nemico di lui."  ("It
+contains a derogatory note.  It is noteworthy that Sordello, who
+lived at the court of Charles of Anjou... does not mention him by
+name, either the first time or now, when he names his enemy
+Pedro.") ^vanno mie parole~: I.e., my words are to be understood
+as referring to Charles of Anjou as well, who did not transmit
+his worth to his successor, Charles II.
+
+	|126.  Puglia e Proenza gi@a si dole~: Again a plural
+subject with the verb in the singular.  Apulia and Provence are
+said to lament having passed under the rule of Charles' son,
+Charles II, who on his father's death (in 1285) became king of
+Naples (Apulia) and count of Provence ("Proenza"); but being at
+the time a prisoner in Spain, where he was detained until 1288,
+he was not crowned until May 29, 1289.  He died in May of 1309.
+He was mentioned in ^Purg.~ V, 69, and will be referred to in
+^Par.~ XIX, 127, as the "Ciotto di Ierusalemme" (Cripple of
+Jerusalem) -- he being lame, and the title of Jerusalem being
+attached to the crown of Naples -- and as being very degenerate.
+He is also denounced in ^Conv.~ IV, vi, 20; see ^De vulg. eloqu.~
+I, xii, 5.
+
+	|127-129.  Tant' @e del seme... vanta~: Grandgent offers
+the following explanation: "Charles II is as much inferior to
+Charles I as Charles I is to Peter III.  Beatrice of Provence and
+Margaret of Burgundy were the successive wives of Charles I,
+Constance (daughter of Manfred) was the wife of Peter."
+Grandgent goes on to paraphrase these verses: "The plant (the
+son) is inferior to the seed (the father) to the same extent that
+Constance boasts of her husband (Peter) more than Beatrice and
+Margaret boast of theirs (Charles)."  |ancor~: Constance
+and Margaret were both living in 1300, hence "ancor."  Cf.
+^Purg.~ III, 115.
+
+	|131.  Arrigo d'Inghilterra~: Henry III, who was king of
+England from 1216 to 1272, succeeded his father John and reigned
+for fifty-six years.  He married Eleanor, daughter of Raymond
+Berenger IV, count of Provence.  Eleanor's sister Sancha married
+Henry's brother, Richard of Cornwall.  Villani, who makes Henry
+the son of Richard Coeur de Lion (in which error he is followed
+by Benvenuto), describes him (V, 4) as "semplice uomo e di buona
+f@e e di poco valore" ("a simple man of good faith, but of little
+worth") and (VII, 39) "uomo di semplice vita, sicch@e i baroni
+l'aveano per niente" ("a man of simple life, so that the barons
+considered him nil").  Henry III is one of the princes mentioned
+by Sordello in his celebrated lament for Blacatz, in which he
+reproaches the sovereigns of Europe for their degeneracy.
+
+	|133-136.  Quel che pi@u basso... Canavese~: Guglielmo VII
+(or V), surnamed Spadalunga ("Longsword"), was marquis of
+Montferrat from 1254 to 1292.  Shortly after his accession to
+power Guglielmo took advantage of internal dissensions in several
+of the independent Lombard cities to reduce them to subjection.
+In 1264 he made an alliance with Charles of Anjou and aided him
+in his descent into Italy (Villani, VII, ^4~); but he vigorously
+opposed him later, when Charles, after the defeat of Manfred and
+the conquest of the kingdom of Naples, attempted the subjugation
+of Lombardy.  In 1281 Guglielmo was at the head of a powerful
+Ghibelline league which included Milan, Vercelli, Novara,
+Tortona, Alessandria, Asti, Como, and Pavia; in consequence,
+however, of the expulsion of his vicar from Milan, in 1282, by
+Ottone Visconti, archbishop of Milan, several of these towns,
+Vercelli, Tortona, and Pavia, seceded from the league and joined
+the Guelphs.  By the help of his son-in-law, the emperor of
+Constantinople, he reduced Tortona; and Vercelli and Pavia
+submitted to him soon after.  In 1290 he marched against
+Alessandria to quell a rising which had been fostered by the
+people of Asti, but he was taken prisoner by the Alessandrians,
+and placed in an iron cage, in which he died in February of 1292,
+after having been exhibited like a wild beast for seventeen
+months.  In order to avenge his death, his son and successor,
+Giovanni I, declared war against Alessandria, but the
+Alessandrians, with the help of Matteo Visconti, invaded the
+territory of Montferrat and took possession of Trino, Pontestura,
+Moncalvo, and several other places.  It is to this war that Dante
+alludes here.
+
+	|135-136.  Alessandria e la sua guerra... Canavese~: The
+phrase "Alessandria e la sua guerra is the subject of the "fa,"
+and "Monferrato" and "Canavese" are objects of that verb.
+
+	|136.  Monferrato e Canavese~: Montferrat, extending from
+the Ligurian Apennines to the river Po, and Canavese, stretching
+from the Pennine and Graian Alps to the Po, constituted the
+marquisate of Guglielmo VII.

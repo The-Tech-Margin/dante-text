@@ -1,0 +1,1838 @@
+	|1-5.~  [LEZIONE QUINTA CAPITOLO XI DELL'INFERNO DI DANTE]
+
+   ^In su l'estremit@a d'un'alta ripa,~
+   ^Che facevan gran pietre rotte in cerchio,~
+   ^Venimmo sopra a pi@u crudele stipa.~
+
+   ^E quivi per l'orribile soperchio~
+   ^Del grave puzzo, che l'abisso gitta,~
+   ^Ci ritirammo dietro a un coperchio~
+
+   ^D'un grande avello.....~
+
+Da poi che i nostri poeti ebber girato tanto del sesto cerchio de 
+l'Inferno, che a Virgilio parve che Dante potesse aver molto ben 
+conosciuto il peccato, e le anime che son punite in quello, Virgilio 
+prese (come voi sentiste nella lezione passata) il cammino verso il 
+mezzo, attraversandolo a ricisa. Laonde arrivarono in su l'orlo del 
+restante del vano, ov'ei furon forzati, per il gran puzzo che usciva di 
+quello, ascondersi (come dice il testo) dietro a un coperchio d'una di 
+quelle sepolture. Da la narrazion della qual cosa incominciando il 
+Poeta questo undicesimo capitolo, dice: noi arriviamo ^in su la 
+estremit@a~ e in su la sponda d'un'^alta~, cio@e profonda, ^ripa~, e 
+scoscesa; perci@o che ^ripa~ non vuol dire altro, secondo che scrive in 
+questo luogo il Boccaccio, che una scesa o di pietre o di terra da un 
+luogo a un altro, tanto ritta e repente, ch'ei non si possa andarvi, o 
+vi si vadia con difficult@a grandissima; nel qual modo figura il Poeta 
+che fusse questa, fatta da pietre grandissime, che essendo rotte 
+facevan cerchio e sponda al resto del vano. A la quale sponda arrivati, 
+dice il Poeta, venimmo sopra a pi@u crudele ^stipa~, cio@e massa e 
+moltitudine d'anime racchiuse dentro a quella. Perci@o che questa voce 
+^stipa~ (quando ella @e nome, com'ella @e qui) significa una massa di 
+sterpi, come sono i pruni, ginestre e altre cose simili, tagliate e 
+inviluppate insieme a caso, e fattone fastella per la comodit@a del 
+portarle, per arderle dipoi nelle fornaci, o adoperarle a riempiere 
+fosse, o bastioni, o altre simili macchine. Onde @e presa qui questa 
+tal voce, metaforicamente e per traslazione, da 'l Poeta per la 
+multitudine delle anime racchiuse in questo baratro infernale; e la 
+esposizione del Boccaccio sopra questo luogo lo dimostra chiaramente, 
+dicendo egli cos@i: <Intende qui l'autore per ^stipa~ le cose stipate, 
+cio@e accumulate insieme, s@i come fanno i navicanti, chiamando le cose 
+poste ne' loro legni strette insieme, ^stipate~ o vero ^stivate~.> E da 
+questo modo del parlare prendendo l'autore quasi forma, vuole ch'ei 
+s'intenda che sotto il luogo dov'ei pervennero erano stivate 
+grandissime moltitudini di peccatori in pi@u crudeli e maggiori pene, 
+che non eran quegli che fino a quel luogo veduti aveva. E ^quivi~, 
+cio@e in su l'orlo di questa ripa, dice il Poeta (tornando al testo) 
+che arrivati ch'ei furono, ei furon constretti, ^per l'orribile 
+soperchio~, cio@e eccessivo sopravanzamento, del puzzo (^orribile~ per 
+la qualit@a, e ^soverchio~ per la quantit@a che getta e manda fuori di 
+s@e ^il profondo abisso~, cio@e cupo e gran burrato, ch@e cos@i 
+chiamer@a di sotto esso Inferno), di ritirarsi dietro al ^coperchio~ e 
+a la lapida d'un ^grande avello~ e di una gran sepoltura. Il quale male 
+odore, per il quale i nostri poeti si ebbero a cansare, @e chiamato da 
+lui ^puzzo~, per denotare ch'ei non era naturale di quel luogo, ma 
+nasceva accidentalmente da le pene che sono in quello; come da lo 
+sterco nel quale son puniti i barattieri, da la corruzione delle piaghe 
+con le quali son puniti quei che senton male della religione, e da 
+molte altre brutture che voi vedrete di mano in mano di sotto, ch'ei 
+mette che sieno nel restante dell'Inferno. E questa tal cosa non @e 
+tanto finta da lui per far verisimile la favola (per parlar secondo la 
+lettera), o per mostrare quanto puzzino appresso a Dio e appresso a gli 
+uomini da bene questi simili peccati enormi e brutti, quanto per 
+pigliare un poco di tempo, e cattare una occasione per fare il 
+ragionamento che voi udirete poco disotto, per la cagione che io vi 
+dir@o. Scrive Aristotile nel proemio della sua ^Filosofia naturale~, 
+parlando della via e del modo come si acquistino le scienze e le 
+cognizioni perfette delle cose, ch'egli @e congenita e innata in noi 
+una via e uno ordine, nello acquistar le scienze e le discipline, 
+d'incominciarsi e procedere sempre da quel che ci @e pi@u noto e pi@u 
+certo a quel che ci @e manco noto e manco certo; dimostrando che quelle 
+cose che ci son pi@u note sono le pi@u universali, e che quelle che ci 
+son manco note son le manco universali. E questa conclusione @e provata 
+quivi da lui e per ragione e per esemplo. Per ragione, dimostrando che 
+essendo lo intender nostro, com'egli @e, simile al sentire, come al 
+senso @e pi@u noto e prima conosce il tutto e il composto, che le parti 
+che lo constituiscono, cos@i @e ancor similmente pi@u noto a 
+l'intelletto nostro lo universale, che non son le parti ch'egli 
+contiene e comprende dentro di s@e; onde gli @e prima noto, per causa 
+di esempio, nella cognizion dell'uomo, questo universale, ^corpo~ o 
+^animale~, che ^terreste~ e ^bipede~ e ^capace di ragione~, che son le 
+parti che lo constituiscono, e con le quali ei si diffinisce e si 
+dichiara. E per esempio, dimostrando che i fanciulli chiamon 
+primieramente tutti gli uomini e le donne, ^padri~ e ^madri~; e dipoi, 
+quando la cognizione diventa in lor pi@u perfetta, ei chiamono 
+solamente ^padre~ e ^madre~ quegli che son lor padri e lor madri; il 
+che @e segno manifestissimo (soggiugne in quel luogo il Filosofo), che 
+la cognizion nostra comincia e conosce prima in universale, e dipoi va 
+al particulare, cio@e incomincia da 'l pi@u noto, e dipoi descende al 
+manco noto. E per@o ei tien sempre in tutte le cose ch'egli scrive, 
+come vi si @e detto altra volta, per il pi@u certo e per il miglior 
+modo di generare in noi scienza questo, di cominciare dagli universali 
+e dipoi discendere a' particulari. N@e sia alcun che dubiti che questa 
+sia la vera via e il vero modo d'acquistar le scienze e le cognizioni 
+delle cose, dicendo per il contrario, che avendo ogni nostra cognizione 
+intellettiva origine dal senso, e non conoscendo il senso se non 
+particulari, bisogna di necessit@a che l'intelletto nostro abbia ancora 
+egli similmente prima cognizion de' particulari, e dipoi passi a gli 
+universali. Ch@e a questo si risponde, che se bene il senso non conosce 
+se non particulari, ch'ei procede ancora egli similmente, in questa 
+cognizione de' particulari, da quel ch'@e in loro pi@u universale, che 
+@e il tutto che gli @e pi@u noto, al manco universale e pi@u distinto, 
+che sono le sue parti. Onde disse Aristotile nel luogo medesimo, ch'ei 
+ci son prima note le cose composte, e di poi le semplici, cio@e il 
+tutto, che non @e altro che un composto, che le sue parti, che son 
+semplici e non composte. E che il senso proceda ancora egli, come voi 
+avete inteso che fa l'intelletto nelle cognizioni sue, da 'l pi@u noto 
+e pi@u universale al distinto e al particulare, e in quanto al tempo e 
+in quanto al luogo, si vede (dice San Tommaso) manifestamente per lo 
+esempio detto disopra de' fanciulli che chiamono primieramente tutti 
+gli uomini e le donne padri e madri, e di poi in processo di tempo gli 
+distinguono e conoscon particularmente. E uno che vede da lunge uno 
+uomo conosce prima ch'egli @e corpo; dipoi, nel vederlo muovere, 
+ch'egli @e animale; dipoi, appressandosegli pi@u, ch'egli @e uomo; e 
+dipoi finalmente, ch'egli @e Socrate o Platone. E a chi opponesse, che 
+questa cognizion di conoscer prima ch'egli @e corpo e animale e uomo, 
+che Socrate o Platone, nasce da la distanza ch'@e in fra l'occhio e la 
+cosa ch'egli ragguarda, la quale @e fuor della debita proporzione; e 
+che s'ei fussero in debita proporzione, l'occhio: comprenderebbe 
+ch'egli @e corpo e animale e uomo e Socrate e Platone in uno instante 
+di tempo medesimo; si risponde, che se bene tutte queste cognizioni si 
+farebbero allora, o parrebbero (per parlar pi@u rettamente) che si 
+facessero, nel medesimo instante di tempo, ei non sarebbe per@o che 
+quelle pi@u universali, come sono verbigrazia ^corpo~ e ^animale~, non 
+precedessero almanco di ordine quella de' pi@u particulari e pi@u 
+distinti, che sono ^uomo~ e ^Socrate~ e ^Platone~. Questo modo e questo 
+ordine volendo osservare similmente Virgilio nel dare cognizione al 
+nostro Poeta di questa citt@a di Dite, gliela dimostr@o di fuori da 
+discosto; e gli parl@o primieramente di quella come d'uno uiversale e 
+d'un tutto, quando egli gli disse nel capitolo passato {VIII.67-69}:
+
+   ^........... omai, figliuolo,~
+   ^S'appressa la citt@a, che ha nome Dite,~
+   ^Co' gravi cittadin, col grande stuolo.~
+
+Ch@e queste due son le principali parti che constituischino e faccino 
+le cittati, il sito circundato di mura, e una moltitudine di cittadini 
+che l'abitino. E ora ch'egli lo ha introdotto dentro a quella, egli 
+(come voi vedrete disotto) gli parler@a delle sue parti, e descender@a 
+a' particulari, e circa a i luoghi che sono in quella, e circa gli 
+abitatori, che son l'anime che l'abitono.
+
+	|6-9.~  E per aver maggior commodit@a a far questo ragionamento, e 
+parer ch'ei venga a proposito, ei piglia questa occasione di aversi 
+avuto a fermare cos@i alquanto, rispetto al puzzo grande che gittava 
+fuor di s@e il vano dell'Inferno, in su la estremit@a della ripa del 
+quale eglino erano arrivati. Per il che fare egli dice che si 
+ritirarono, come voi vedeste disopra, dietro al coperchio d'un grande 
+avello; ^ove~, e nel quale avello, racconta il Poeta che vide una 
+^scritta~, e un breve,
+
+   ^Che diceva: Anastasio Papa guardo,~
+   ^Lo qual trasse Fotin della via dritta.~
+
+Questo Anastasio, papa ed eretico, il quale mette il Poeta ch'era in 
+questo sepolcro, fu Anastasio secondo; il quale fu per nazione romano, 
+figliuolo d'un patrizio il quale ebbe nome Fortunato, e tenne il papato 
+sotto Teodorico re de' Goti, circa a gli anni 500 del Signore. Nel qual 
+tempo trovandosi egli in un concistoro ch'egli aveva ragunato, ove 
+alcuni volevano, ancor che il clero non se ne contentassi, ribenedirlo, 
+perch@e era di gi@a stato notato per eretico; egli, sentendosi gravare 
+da 'l peso delle superfluit@a naturali del corpo, se ne and@o a la 
+sedia ordinaria, e postosi sopra di quella gitt@o fuori tutte 
+l'interiora, e mor@i miseramente, come scrivono il Sabellico, il 
+Volterrano e il Platina; e questo non ha dubbio alcuno. Ma egli @e bene 
+per il contrario dubbioso chi fusse questo Fotino, che lo ^trasse~ e 
+tir@o fuora della ^via dritta~, cio@e della verit@a cristiana, e fecelo 
+diventare eretico: ch@e questo @e il vero senso di queste parole, se 
+bene elle son poste da 'l Poeta con uno ordine tanto anfibologico, 
+ch'ei si potrebbe ancora intendere che Anastasio traessi egli Fotino 
+fuor della dritta via, non Fotino Anastasio. Perci@o ch'ei non potesse 
+essere, come intendono comunemente gli espositori, quel Fotino 
+Gallogreco, vescovo Smirnense, da 'l quale presero il nome gli eretici 
+Fotiniani, per essere stato suscitatore e innovatore della eresia 
+Ebionitica, la quale teneva che Cristo fusse nato di Maria e di Giosef 
+secondo la via e il modo ordinario della natura; onde fu cacciato in 
+esilio da Valentiniano Imperadore. Perci@o che questo fu circa a gli 
+anni del Signore 367; e Anastasio, che noi abbiamo detto, fu creato 
+papa dipoi l'anno 500, secondo i tempi di Matteo Palmieri e di Giovanni 
+Lucido; onde fu da l'uno a l'altro anni circa a 133. E se qualcuno 
+dicesse ch'ei si ha intendere per questo Fotino la eresia Fotiniana, 
+dicendo che quella, seguitandola egli, lo traesse fuor della via 
+dritta, questo non @e vero; perci@o che Anastasio non cadde, secondo 
+che si legge, nella eresia Fotiniana, ma cadde in quella di Acazio, 
+Patriarca di Costantinopoli, e di Eutichio abate, i quali negavano in 
+Cristo la natura umana, e lasciavangli solamente la divina. Per la qual 
+cosa, o ei bisogna che questo fusse un altro Fotino, diverso da quello 
+che noi abbiamo detto; e questo potrebbe molto bene essere, nominando 
+Graziano nel Decreto fra gli eretici un altro Fotino, il quale ei dice 
+che fu diacono Tessalonicense; o ei bisogna che il testo stia male, e 
+abbia a dire, in cambio di Fotino, Plotino; il che io pi@u tosto credo, 
+scrivendo il Platina nella vita di Anastasio cos@i:
+
+	<Anastasio, secondo alcuni scrittori, scomunic@o Anastasio Imperadore, 
+fautore di Acazio eretico; avvenga che, persuaso ancor dipoi egli da 
+esso Acazio, mentre ch'ei tentava di liberarlo da la censura, 
+s'inimicasse tutto il clero; il qual si sottrasse interamente dalla 
+comunione e obbedienza di esso Pontefice, perch@e egli si era senza 
+consentimento de' cattolici communicato e intrigato con Plotino, 
+diacono Tessalonicense, che seguitava l'errore e la eresia di Acazio.>
+
+	|10-12.~  Era adunque in questa sepoltura, dietro al coperchio della 
+quale si ritirarono i nostri poeti, questo Anastasio papa secondo, 
+morto (come voi intendeste) per permissione divina, senza spazio di 
+penitenza. E nel sepolcro finge il Poeta che fusse scritto il suo nome 
+(il che non si ritrova nel testo che fusse in alcuno altro di quelli 
+degli altri eretici), per dimostrare che la eresia pu@o stare occulta 
+in ogni altra persona, eccetto che in un papa. Nel qual luogo riferisce 
+il Poeta che Virgilio gli disse:
+
+   ^Lo nostro scender convien che sia tardo,~
+   ^Sinch@e ei si ausi un poco in prima il senso~
+   ^Al tristo fiato, e poi non fia riguardo.~
+
+Tre sono, come voi potete aver inteso pi@u volte, le parti che si 
+ricercon principalmente a un poema, a voler ch'egli sia bello e 
+approvato; la invenzione, la disposizione e la elocuzione ovver 
+descrizione. E queste son tali e tanto belle in questo Inferno del 
+Poeta nostro, ch'elle lo fanno, non che bello, bellissimo e 
+maraviglioso. Ma ei ce n'@e ben dipoi un'altra, che lo fa non manco 
+bello e manco maraviglioso, che si faccino queste tre; la quale non @e 
+cos@i conosciuta e considerata, come quelle, da ciascuno. E questo @e 
+il modo che usa il Poeta qualunche volta se gli offerisce, nel 
+descriver le cose particulari ch'egli finge e mette in questo suo 
+Inferno, la occasione di trattar di cose naturali e che appartenghino 
+alla filosofia; e la dottrina e l'arte ch'egli usa in trattarle. E ne 
+avete l'esempio particularmente in questo luogo; ove occorrendogli 
+trattare de' mali odori, per descrivere pi@u verisimilmente ch'ei 
+poteva questo resto della voragine e del vano dell'Inferno (nel quale 
+ei mette che sieno puzzi di fuochi sulfurei e sotterranei, acque 
+torbide e sudice, animali schifi e puzzolenti, infermit@a e piaghe 
+putride e corrotte, e molte altre cose simili), egli ci ammaestra 
+dottissimamente come noi dobbiamo governarci circa a quegli, quando 
+altrui non pu@o fuggirgli. Per pi@u chiara notizia della qual cosa @e 
+da sapere, ch'ei non si ritrova animale alcuno, se non l'uomo, che 
+prenda diletto degli odori, in quanto odori, cio@e che gli piaccino le 
+cose odorifere, solamente perch@e elle sono odorifere. E la cagione @e, 
+secondo che scrive Aristotile e ne' libri ^De anima~ e in quello ^Del 
+senso e de' sensibili~, perch@e gli odori sono stati posti nelle cose 
+principalmente da la natura per un mezzo e per uno indizio, mediante il 
+qual gli animali, che non hanno il discorso della ragione, possin 
+conoscere quali cose sien quelle che sono a proposito per lor cibo e 
+quali no, e dipoi per confortar quelle parti pi@u nobili che fussin 
+troppo fredde, e mediante tal freddo non potessin far perfettamente 
+l'operazioni loro, essendo gli odori, o per meglio dire participando 
+gli odori, per natura, di caldo e di secco. E che gli odori sien caldi 
+e secchi si conosce manifestamente da questo, che tutti si aumentono e 
+si accrescono col caldo e col secco, e per il contrario si diminuiscono 
+e spengono col freddo e con l'umido; onde son sempre pi@u odorifere 
+quelle cose, ancor che le sien della medesima spezie, che nascon ne' 
+luoghi caldi e secchi, che quelle che nascon ne' freddi e umidi. Per 
+ci@o diceva Teofrasto che i fiori dello Egitto, per le spesse 
+inundazioni del Nilo, son manco odoriferi che quei de gli altri paesi. 
+Della prima di queste due cose per le quali la natura ha fatti gli 
+odori, cio@e, acci@o che gli animali per mezzo di quegli conoschino i 
+cibi convenienti a la natura loro, hanno eglino bisogno universalmente 
+tutti; perch@e tutti hanno bisogno di nutrirsi, e di conservare e 
+mantener col cibo la vita. Ma della seconda non ha bisogno se non 
+l'uomo, per confortar e in certo modo riscaldare il cervello. E questo 
+nasce, perch@e l'uomo ha maggior quantit@a di cervello a proporzione di 
+qual sia altro animale; il che gli @e stato dato da la natura per le 
+molte e varie operazioni de' sensi suoi interiori, che si fanno 
+^effettivamente~ in quello; onde @e assegnata da Avicenna e da 
+Albertomagno la parte dinanzi alla fantasia e al senso comune, quella 
+del mezzo a la estimativa, e quella di dietro a la memoria. Io ho detto 
+^effettivamente~, perch@e cos@i accordon molti Aristotile che dice che 
+le sensazioni si fanno nel cuore, e Galeno che dice ch'elle si fanno 
+nel capo, dicendo ch'elle si fanno nel cuore ^originaliter~, e nel capo 
+^effective~. Avendo avuto adunque l'uomo, per le cagioni dette, bisogno 
+di s@i gran quantit@a di cervello, ed essendo il cervello per sua 
+natura frigido; onde quel sangue e quegli spiriti, che son per quelle 
+vene che sono sparse per esso cervello per mantenerlo vivo, pu@o 
+facilmente esser tanto raffreddato, che l'operazioni che si hanno a 
+fare in esso cervello si farebbon pi@u tarde e pi@u imperfette, e oltre 
+a di questo ne potrebbe patir la vita, mediante le distillazioni che 
+potrebbon cadere in molte parti del corpo per cagion di questo 
+raffreddamento de' sangui; la natura per soccorrere a questo pericolo 
+ha ordinati gli odori, che con la lor siccit@a e con la lor caldezza lo 
+confortino e riscaldino, e posto in loro quel diletto e quel piacere 
+ch'ei porgono al senso dell'odorato, acci@o che l'uomo gli cerchi e gli 
+usi. E per@o si dice, come voi sentiste disopra, che solamente l'uomo 
+prende diletto degli odori, come odori, infra gli animali. Perci@o che 
+gli altri animali, se voi avvertite bene, non prendono piacere d'altri 
+odori, che di quei delle cose ch'ei si cibano. Onde non vedrete mai 
+ch'ei cerchino di fiori o d'altre cose odorifere, come fa l'uomo; che 
+ha ritrovato per tal cagione insin al musco, il quale ei dicono ch'@e 
+la sanie e la marcia d'una apostema di non so che animale, e l'ambra, 
+la quale ei dicono ch'@e la sperma della balena, e il zibetto, che @e 
+un sudiciume che genera intorno a le parti, onde ei si purga il ventre, 
+un animale chiamato ancora egli similmente ^zibetto~. E se qualcuno si 
+opponesse, dicendo ch'ei non @e verisimile che la natura abbia fatte le 
+cose odorifere e gli odori solamente per l'uomo, trovandosi degli 
+animali che hanno il senso dello odorato migliore e pi@u acuto di lui, 
+come @e il cane (il che parrebbe stato fatto da la natura vanamente, ed 
+ella non suol per@o far mai nulla invano, s'ei non prendesse piacere 
+degli odori, obbietto di tal senso), e veggendosi degli animali che 
+fuggono alcuni odori particulari, come fanno per grazia di esempio le 
+serpi quello delle corna o de' cuoi arsicciati, onde si pu@o far 
+coniettura (tenendo i filosofi, che dato un contrario si dia di 
+necessit@a l'altro) ch'ei si truovino degli odori che per il contrario 
+piaccino loro e dien loro diletto; a questo si risponde, che il senso 
+dell'odorato pu@o considerarsi in quanto al sentir gli odori pi@u da 
+lunge, e in quanto al conoscergli e giudicargli meglio. In quanto al 
+primo modo del sentir gli odori pi@u da lontano non @e dubbio alcuno 
+che il cane supera e vince l'uomo; perci@o che l'uomo non odora molto 
+da discosto; e la cagione @e, come scrive il Filosofo nel quinto ^Della 
+generazione degli animali~, perch@e egli ha molto piccolo il sensorio e 
+lo strumento de l'odorato, rispetto a gli altri animali. E per@o dice 
+Aristotile nel medesimo luogo, che i cani di Laconia senton pi@u da 
+lunge gli odori, che gli altri, perch@e eglino hanno il muso pi@u lungo 
+degli altri; laonde andando l'odore per pi@u lungo spazio per tal 
+sensorio, va manco interrotto, e arriva pi@u unito al luogo ove si fa 
+la sensazione; ed ogni virt@u quanto ella @e pi@u unita, tanto pi@u 
+opera. In quanto dipoi al sentire e discernere e conoscere le 
+differenze degli odori, l'uomo lo fa meglio di ciascuno altro animale; 
+perch@e egli ha lo strumento e l'organo del sentire (dice Aristotile 
+nel luogo medesimo) manco terreo e pi@u purgato, e di pi@u temperata 
+complessione, che nessuno altro animale. Laonde, dove gli altri animali 
+piglion diletto solamente degli odori che son nelle cose delle quali ei 
+si cibono, e di questi anche non sempre, ma solamente quando eglino 
+hanno voglia di mangiare (onde non vedrete mai, quando ei son satolli, 
+star dipoi a fiutarle), l'uomo prende diletto, non solamente de l'odore 
+de' cibi e del vino, ma di tutte le cose odorifere, e sempre. Da la 
+qual cosa nasce ch'ei cerca bene spesso, per maggior diletto, di 
+mescolare i cibi con gli odori, mescolando con le cose che ha fatto la 
+natura per mangiare, quelle ch'ella ha fatte per odorare, per sentire, 
+o con un senso solo quegli obbietti che son di due, o in un medesimo 
+tempo il piacer del gusto e dell'odorato; il qual diletto @e pi@u tosto 
+adulterino e accidentale, che vero e naturale, e nato e ricerco pi@u 
+tosto da una lasciva consuetudine di costumi, che da un retto giudicio 
+di mente. Quanto al dir dipoi che le serpi fuggono e dispiace loro 
+l'odore delle corna e del cuoio arso, si risponde che tale odore non 
+dispiace loro e non lo fuggono in quanto odore, ma come un fummo che le 
+offende apportando loro con l'acutezza sua un certo travaglio e una 
+certa alterazione, come fa il fummo e i vapori, che escono da carboni 
+male accesi in una stanza ov'ei non abbia esito, a gli uomini; che n'ha 
+di molte volte privi di vita, non con l'odore, ma con una esalazione e 
+con un vapore, che riempiendo loro il capo e i meati donde hanno a 
+passar gli spiriti che escon dal cuore, fanno che il cuore resta 
+soffocato in essi spiriti, e spegnesi e manca in lui la vita. Per il 
+che si conchiude finalmente che solamente l'uomo, come noi dicemmo 
+disopra, prende piacere degli odori, come odori. Ma tanto quanto gli 
+porgono diletto e piacciono gli odori, intendendo per ^odori~ i buoni, 
+tanto gli danno fastidio e dispiacciono per il contrario i cattivi, 
+cio@e i puzzi e i tristi fiati. Al che volendo rimediare la natura il 
+pi@u ch'ella poteva, gli fece il ^sensorio~, cio@e il luogo donde hanno 
+a passare detti odori al cervello e al luogo ove noi gli sentiamo, 
+turato; per il che l'uomo non odora, o pochissimo, s'ei non scuopre, 
+tirando a s@e l'aria, quel buco; il quale, subito ch'egli ha restato di 
+ritirare a s@e l'aria, nel modo detto, si riserra e ricuopre come prima 
+da una certa cartilagine, che la natura ha fatto in quel luogo per 
+questo officio e a questo effetto. E in questo modo l'uomo pu@o fuggire 
+in gran parte, se non in tutto, quegli odori che gli dispiacciono; io 
+dico ^in gran parte~, e non ^in tutto~, perch@e ei pu@o star gran pezzo 
+da l'una volta a l'altra a tirare a s@e il fiato, ma non gi@a sempre; 
+perci@o ch'egli @e animale che ha sangue e polmoni, e gli animali cos@i 
+fatti non posson viver lungamente, per le cagioni ch'io vi ho altra 
+volta dette, senza respirare. Veggendo adunque Virgilio (per tornare al 
+testo) che il nostro Poeta non poteva fuggire di non sentire l'orribil 
+puzzo ch'era in questo Inferno, avendo egli a camminar per quello, 
+piglia questo altro modo (fondato in su quel detto de' filosofi, ^quod 
+ab assuetis non fit passio~, cio@e ch'ei non si patisce di quelle cose 
+a le quali altrui @e avvezzo), di farlo assuefare appoco appoco a tal 
+puzzo, avanti ch'egli lo faccia scender dentro a esso burrato, onde 
+egli usciva. E cos@i egli ci ammaestra primieramente del modo col quale 
+noi dobbiamo governarci circa a' tristi odori, quando noi non gli 
+possiamo fuggire; onde dice: ei conviene che noi scendiamo un poco pi@u 
+tardamente questa ripa, insino a tanto che il ^senso~, cio@e l'odorato, 
+si avvezzi e assuefaccia al ^tristo fiato~, cio@e reo e malvagio, che 
+esce di questo abisso; perci@o che fatto questo poco dell'abito, non 
+far@a pi@u di mestieri che noi ci riguardiamo. E dipoi piglia questo 
+tempo, per avere occasione di fare il ragionamento che voi udirete 
+disotto, distinguendo i luoghi principali ch'ei mette che sieno in 
+questa citt@a di Dite.
+
+	|13-15.~  E per far la cosa pi@u verisimile, e cader meglio in su 
+questo proposito, il Poeta nostro racconta com'ei preg@o Virgilio, che 
+in quel mentre ch'ei si stavan cos@i ritirati dietro a quello avello, 
+che pensasse a qualche ragionamento da ricompensare il tempo ch'ei 
+consumavano standosi quivi, dicendo:
+
+   ^...... ed io: alcun compenso,~
+   ^Dissi lui, truova, che il tempo non passi~
+   ^Perduto; ed egli: vedi che a ci@o penso.~
+
+Onde incominci@o il bellissimo e utilissimo ragionamento che noi vi 
+esporremo, concedendolo Dio, nella lezione che verr@a.
+
+	|16-21.~  [LEZIONE SESTA]
+
+   ^Figliuol mio, dentro da cotesti sassi,~
+   ^Cominci@o poi a dir, son tre cerchietti~
+   ^Di grado in grado, come quei che lassi.~
+
+   ^Tutti son pien di spirti maladetti;~
+   ^Ma perch@e poi ti basti pur la vista,~
+   ^Intendi come e perch@e son costretti.~
+
+Procedendo Virgilio nel voler dare a Dante cognizione e notizia della 
+citt@a di Dite, secondo quella via e quella regola che noi vi 
+dimostrammo nella lezion passata che ne insegna il Filosofo, di andare 
+a le scienze procedendo da 'l confuso e universale al distinto e 
+particulare; e avendogli dato nell'ottavo capitolo, ritrovandosi fuora 
+di essa citt@a, cognizion di lei in confuso e in universale, con dirgli:
+
+   ^....... omai, figliuolo,~
+   ^S'appressa la citt@a, che ha nome Dite,~
+   ^Co' gravi cittadin, col grande stuolo;~
+
+incomincia, oggi ch'ei si ritrovon dentro a quella, a dargli cognizion 
+di lei distintamente e in particulare. Onde gli dice: figliuolo, dentro 
+a cotesti sassi, cio@e a quelle pietre che il Poeta disse disopra, che 
+rotte in cerchio facevan la grande e spaventevol ripa del vano 
+dell'Inferno, sono tre cerchietti ^di grado in grado~, cio@e posti di 
+mano in mano l'un sotto l'altro, nella maniera di quegli ch'egli aveva 
+lasciati a dietro. E questi sono il resto de' nove cerchi, ne' quali il 
+Poeta divide, come noi v'abbiamo pi@u volte detto, questo suo Inferno; 
+cinque fuori della citt@a di Dite; uno immediatamente dentro a le mura 
+di quella, nel quale ei si trovavano; e questi tre, de' quali ei parla 
+chiamandogli ^cerchietti~, perch@e ei giron tanto manco che quei di 
+sopra, rispetto al sito e a la forma del vano che va sempre 
+ristringendo di mano in mano, ch'ei si posson chiamare meritamente 
+^cerchietti~, a rispetto a gli altri che son disopra, ov'il vano ha 
+maggior circunferenza e maggior diametro. E tutti a tre, dice Virgilio, 
+son pieni di ^spiriti maladetti~, cio@e di anime dannate, chiamate da 
+lui cos@i per quell'autorit@a dell'Evangelio: ^ite maledicti in ignem 
+aeternum~; soggiugnendo a questo: e perch@e ei ^ti basti~ dipoi, quando 
+tu arriverai a loro, solamente ^la vista~, cio@e accertarti col 
+sentimento del vedere di quel che tu arai compreso con quel dell'udire, 
+^intendi~, cio@e ascolta, ch'io ti dir@o ^come~, cio@e in che modo, e 
+con che pene e per qual cagione ei sien constretti e ritenuti in tal 
+luogo.
+
+	|22-24.~  Per il che fare egli dice:
+
+   ^D'ogni malizia, che odio in cielo acquista,~
+   ^Ingiuria @e il fine, ed ogni fin cotale~
+   ^O con frode o con forza altrui contrista.~
+
+Nelle quali parole ei fa, per principio del suo parlare, questo 
+fondamento, che infra i vizii, i quali dispiacciono a Dio 
+universalmente tutti (il che egli dimostra chiamandogli ^malizie~, 
+cio@e mali, perci@o che ogni male gli dispiace), ne sono e se ne 
+ritruovano alcuni, che non solamente gli dispiacciono, ma che gli sono 
+in ^odio~. E questi sono quegli, il fine de' quali @e la ^ingiuria~, 
+cio@e qualche operazione e qualche effetto contrario a la iustizia; 
+ch@e cos@i significa questa parola ^ingiuria~, essendo ella composta di 
+^in~, dizione privativa, e ^iura~ che vuol dire iustizia o ragione; 
+onde dice Aristotile nella ^Rettorica~, parlando della ingiuria, 
+ch'ella non @e altro che quei nocimenti e quelle offese che si fanno 
+volontariamente contro a l'ordine e a la disposizione della giustizia. 
+E la ragione per la quale questi peccati, che hanno per fine la 
+ingiuria, non solo dispiacciono a Dio, ma gli sono in odio, @e perch@e 
+ei son dirittamente contro a la natura di Dio; perci@o che Dio, essendo 
+sommo bene, giova, e porge ben sempre; e questi per il contrario 
+offendon sempre e fanno sempre male. E questo tal fine d'ingiuriare e 
+offendere dice il Poeta che contrista e perturba sempre ^con frode o 
+con forza~; cio@e si consegue e si manda sempre a effetto, o per mezzo 
+di qualche frode e di qualche inganno, o per mezzo della forza, cio@e 
+con usar forza e violenza contro a chi si fa ingiuria.
+
+   ^Ma perch@e frode @e de l'uom propio male,~
+   ^Pi@u spiace a Dio; e per@o stan di sotto~
+   ^Gli fraudolenti, e pi@u dolor gli assale.~
+
+   ^De' violenti il primo cerchio tutto.~
+
+	|25-27.~  Da poi che Virgilio ha fatto questo fondamento, che i vizii, 
+che hanno per fine ingiuriare o con frode o con forza, non solamente 
+dispiacciono a Dio, ma sono odiati da lui, egli dice che quegli che 
+ingiuriono per mezzo della ^frode~ gli sono ancor molto pi@u in odio, 
+che quegli che lo fanno con la ^forza~. Ed assegnandone la ragione, 
+dice che ci@o @e per esser la ^frode male propio~ e peculiar 
+^dell'uomo~ cio@e usata solamente da lui. La cagione della qual cosa 
+@e, perch@e essendo la frode una operazione la quale non apparisce e 
+non si dimostra mai come ella @e, ma tutto in contrario (perci@o 
+ch'ella @e sempre rea e cerca d'offendere, e dimostrarsi per il 
+contrario buona e di voler giovare), non la pu@o usar se non l'uomo; il 
+quale avendo il discorso della ragione, pu@o mediante quello celare 
+astutamente l'intenzion sua, e ancor ch'ella sia mala e cattiva, 
+ricoprirla e asconderla sotto qualche velame e qualche ombra di bene. 
+Dove gli altri animali, non avendo altra cognizion che la sensitiva, 
+non possono celare o mutare quegli indizii, che dimostrano i sensi, di 
+quel ch'eglino appetiscono o cercon di fare. N@e osta a questo il veder 
+qualche animale, o per difendersi e scampar la vita (come fa quel pesce 
+che noi chiamiam vulgarmente ^calamaio~, che sparge quel licor nero, 
+quando ei sente chi vuol pigliarlo, per intorbidar l'acqua onde ei non 
+sia veduto), o pigliare altri animali (come fa il granchio marino, che 
+vedendo l'ostriche aperte, mette lor fra l'un nicchio e l'altro uno 
+sassolino, acci@o che non potendosi elleno riserrare, ei possa metter 
+le branche dentro e pigliarle), usar modi tanto astuti, ch'ei par ch'ei 
+si possin chiamar fraude; ch@e questo @e in lor un instinto e una 
+propriet@a naturale, non @e fraude che sia usata da loro per elezione. 
+E ch'ei sia il vero, vedete che tutti gli altri della sua spezie 
+useranno di far il medesimo; onde non pu@o tale astuzia chiamarsi 
+^fraude~, s@i come non si pu@o chiamare ^arte~, verbigrazia, nelle 
+rondini il sapere elleno fabricarsi s@i bene i nidi, facendogli elleno 
+tutte nella maniera medesima. Per questa ragione adunque, e per aver 
+l'uomo nella forza molti animali che lo superono e vincono, e nella 
+fraude nessuno, non solamente che lo equipari, ma sappia o possa 
+imitarlo, il Poeta dice che la ^frode~ @e ^mal propio de l'uomo~; e per 
+tal cagione ella @e pi@u in odio a Dio e pi@u gli dispiace, che non fa 
+la ^forza~. Al che si potrebbe aggiugnere ancora quest'altra ragione, 
+che avendo Dio dato a l'uomo l'intelletto e la ragione, perch@e egli 
+avanzi e superi d'eccellenza e di perfezione tutti gli altri animali, e 
+facendosi la fraude con discorso e con operazion della ragione, a Dio 
+dispiace grandemente ch'egli usi cos@i degna e nobil potenza, datagli 
+da lui perch@e egli operi bene, in offesa e danno e di s@e e d'altri. E 
+per tal cagione, dice il Poeta nel testo, ^stanno di sotto~ nell'ottavo 
+e nel nono cerchio, che sono gli ultimi dell'Inferno, e sono 
+^assaliti~, cio@e tormentati da maggior pena e dolore, i ^fraudolenti~, 
+cio@e quegli che ingiuriono e offendono con fraude; e il primo cerchio, 
+ch'@e il settimo, @e tutto de' ^violenti~, cio@e di quegli che 
+ingiuriono e offendono per forza e per violenza.
+
+   ^Ma perch@e ei si fa forza a tre persone,~
+   ^In tre gironi @e distinto e construtto.~
+
+   ^A Dio, a s@e, al prossimo si puone~
+   ^Far forza, dico in loro ed in lor cose,~
+   ^Come udirai con perfetta ragione.~
+
+   ^Morte per forza e ferite dogliose~
+   ^Nel prossimo si danno, e nel suo avere~
+   ^Rovine, incendi e tollette dannose.~
+
+   ^Onde omicide e qualunche mal fiere,~
+   ^Guastatori e predon, tutti tormenta~
+   ^Lo giron primo per diverse schiere.~
+
+	|28-39.~  Lascia il Poeta da parte i fraudolenti e il luogo ov'ei son 
+puniti; e seguita di parlare de' violenti e del primo cerchio, cio@e 
+del settimo, ov'ei mette ch'ei sieno. Il qual ei dice ch'^@e distinto 
+in tre gironi~, cio@e che il suolo e il pian suo @e diviso in tre 
+circunferenze, abbracciate e contenute l'una da l'altra, che ciascuna 
+ha di diametro e di larghezza la terza parte del suo piano. Il che 
+dimostra esser fatto, perch@e potendosi fare violenza a tre sorti di 
+persone, cio@e a s@e stesso, al prossimo e a Dio, sono ancor di tre 
+maniere i violenti, cio@e violenti contro a lor medesimi, contro al 
+prossimo e contro a Dio. De' quali ei mette che sia punita la violenza 
+usata nel prossimo nel primo cerchietto, subito che si scende in sul 
+piano del settimo cerchio, come peccato manco grave; la violenza contro 
+a s@e stesso, come pi@u grave, nel secondo, che viene a esser quel del 
+mezzo; la violenza contro a Dio, come gravissima, ne l'ultimo. Il che 
+@e fatto da 'l Poeta secondo l'ordine della giustizia, devendo noi 
+secondo l'ordine della carit@a amar primieramente sopra a ogni altra 
+cosa Dio, dipoi noi medesimi, e dipoi il prossimo. E perch@e ei si pu@o 
+(seguita il testo) far forza e usar violenza contro a Dio, contro a s@e 
+stesso e contro al prossimo, e in loro e nelle lor cose, egli 
+incominciandosi da 'l prossimo dice ch'ei si pu@o, in quanto a lui, 
+torgli la vita o ferirlo e batterlo con battiture che gli dieno dolore, 
+e in quanto a la roba, rovinargli le sue possessioni, ardergli le sue 
+case, e spogliarlo del suo avere con ^tollette dannose~, cio@e con 
+ruberie e rapine; ch@e cos@i significa questa voce, la quale era in 
+quei tempi assai bene in uso, e si truova nel Villano. Egli dice che 
+nel primo cerchio son tormentati, per diverse schiere, quegli ch'hanno 
+usato violenza contro al prossimo nella persona, e quegli che l'hanno 
+usata nella roba, cio@e micidiali e ^qualunche mal fiere~, cio@e 
+fedisce e batte, e i ^guastatori e predoni~, cio@e rovinator di 
+possessioni e di case, e predatori. Nella qual cosa, cominciandosi egli 
+da i violenti contro al prossimo, egli viene non solamente a osservar 
+l'ordine della giustizia e della carit@a che noi dicemmo di sopra, ma 
+ei viene ancora a osservare l'ordine che noi dicemmo della dottrina e 
+de l'acquistar la cognizion delle cose, incominciandosi da le pi@u 
+note, e procedendo a le manco note. Con ci@o sia ch'ei sien molto pi@u 
+note e pi@u palesi l'offese che si fanno nella persona e nell'aver del 
+prossimo, che quelle che si fanno a s@e stesso e ne' suoi beni; e pi@u 
+note ancor quelle che si fanno a s@e stesso o nelle facult@a sue, che 
+quelle che si fanno a Dio e a le cose sue.
+
+	|40-45.~  Dopo questo seguita il testo:
+
+   ^Puote avere uom in s@e man violenta~
+   ^E ne' suoi beni; e per@o nel secondo~
+   ^Giron convien che senza pro' si penta~
+
+   ^Qualunche priva s@e del vostro mondo,~
+   ^Biscazza e fonde la sua facultate,~
+   ^E piange l@a dove esser dee giocondo.~
+
+Trattato che ha Virgilio de' violenti contro al prossimo, ei passa a 
+trattar de' violenti contro a lor medesimi. De' quali, potendosi 
+offender s@e stesso medesimamente e nella persona e nello avere, egli 
+dimostra come e il modo; dicendo che l'uomo pu@o usar ^man violenta~ in 
+s@e stesso, togliendosi od offendendosi la vita, e ne' suoi beni, 
+mandandogli male e consumandogli biasimevolmente. E questi dice che ^si 
+pentono~, per rispetto del dolor ch'ei sentono (ma in vano, perch@e 
+nello inferno non @e redenzione alcuna) nel ^secondo girone~, cio@e son 
+tormentati e puniti nel giron del mezzo. E dichiarando meglio la lor 
+condizione e il loro peccato, dice che in quel luogo @e tormentato 
+^qualunche priva s@e del vostro mondo~, cio@e che si toglie da s@e 
+stesso la vita, e ^qualunche~, cio@e ciascuno che, ^biscazza e fonde la 
+sua facultate~. Questo @e uno di quei luoghi, ascoltatori 
+ingegnosissimi, ov'il Poeta ha usato in esprimere il suo concetto 
+parole tanto proprie, e modo di dire tanto a proposito, ch'ei si pu@o 
+certamente chiamar bellissimo e artificiosissimo. E nientedimanco ci 
+sono stati di quegli che non hanno solamente [non] conosciuto la sua 
+bellezza, n@e intesa la sua arte, ma che l'hanno biasimato e tenuto per 
+brutto, dicendo ch'egli arebbe fatto molto meglio a dire ^consuma e 
+sperde~, che ^biscazza e fonde~; il che @e nato, come voi vedrete, per 
+non avere inteso bene la forza delle parole, n@e considerato il modo 
+del dire. Per il che far voi avete a sapere, che questa voce ^biscazza~ 
+significa nella nostra lingua un luogo nel quale si ritenga il giuoco, 
+ma non cos@i publicamente come nelle ^baratterie~; perci@o che nelle 
+^baratterie~ va a giuocare chiunche vuole, senza esservi conosciuto e 
+senza avere conoscenza di quei che vi giuocono, e nelle ^bische~ vanno 
+a giuocar solamente quei che vi hanno pratica e conoscenza; e oltre a 
+di questo vi vanno ancor con qualche riguardo e con qualche rispetto, 
+il che non avvien nelle baratterie. Da la qual cosa nasce che molti, 
+che si dilettano e sono vaghi del giucar meramente per avarizia, e 
+hanno qualche rispetto, o per essere figliuoli di famiglia o per dare 
+opera alla mercatura o per avere in custodia danari d'altri, s'inducono 
+a giucare in queste bische, come in luoghi pi@u segreti, dove molte 
+volte avviene che uno si ar@a prima giucato ci@o ch'egli ha, ch'ei si 
+sappia fuori quasi per persona. E cos@i si viene comunemente a far 
+maggior disordini, e pi@u persone rovinano per mezzo del giuoco in 
+queste bische, che in altri luoghi. Trovasi oltre a questi un'altra 
+sorte d'uomini che mandon male il loro, spendendolo senza regola 
+alcuna, e si pu@o dir violentemente; perci@o ch'ei lo gettan via 
+prodigalissimamente ad ogni occasione, senza considerazione o rispetto 
+alcuno, e lo spendon, come noi diciamo vulgarmente, e non sanno in che. 
+Queste due sorti d'uomini volendo descrivere il Poeta, dice della 
+prima, ^biscazza~, cio@e manda male per mezzo del giuoco bruttamente, 
+come voi avete sentito, ^per le bische~ il suo avere. Il che non arebbe 
+significato a dir, ^giuoca~; con ci@o sia ch'ei si possa giucare, e per 
+piacere, publicamente a giuochi di passatempo, ove non corra molti 
+danari, come facevan gli antichi nostri per le loggie publiche, che voi 
+vedete in Firenze, a tavole e a scacchi; e con persone onorate per le 
+case a' trattenimenti, dove gli uomini non si giuocon e mandon mai male 
+tutto il loro, come si fa in quei luoghi segreti, ove non si va, come 
+si @e detto, se non per giucare. Il che quando volessi ben dire alcuno 
+che non possa esser senza vizio, e ch'ei sia contro a la carit@a 
+cristiana, e conseguentemente pecca, ei non par che meriti di esser 
+chiamato usar violenza ne' suoi beni, n@e d'esser punito in luogo cos@i 
+basso e con pene cos@i gravi, com'il Poeta pone che sien puniti questi 
+violenti contro a lor stessi. E parlando dipoi de' secondi, che mandon 
+male il loro avere senza saper in certo modo come (onde non si pu@o 
+veramente dire ch'eglino spendino le loro ricchezze, ma piuttosto ch'ei 
+le distrugghino e se le lascino, come noi usiamo dir proverbialmente, 
+cader di mano o uscir fra le dita), egli usa questo verbo ^fonde~, 
+pigliando la traslazione de la natura de' metalli (perch@e per il pi@u 
+si giuoca argento o oro), i quali, quando si fondono, passano per ogni 
+minima fessura, e perdonsi, e vanno agevolmente male. Questa 
+traslazione di questo verbo ^fonde~ non considerando il Bembo, n@e 
+manco intendendo la propriet@a di quell'altro ^biscazza~, e volendosi 
+far censore, come dice il nostro Carlo Lenzoni in quella sua difensione 
+di Dante, d'una lingua che, non essendo sua natia, ei non intendeva ben 
+la forza delle sue parole, biasim@o (come io vi dissi di sopra) questo 
+luogo, e disse che Dante arebbe fatto molto meglio a dire, in luogo di 
+^biscazza~ e ^fonde~, ^consuma~ e ^sperde~. Il che, come dice il 
+Lenzoni, non sarebbe stato vero; con ci@o sia che ^consuma~ e ^sperde~ 
+sieno due parole generali, che non posson muovere altrui con alcuna 
+particular similitudine o esempio, come muove il significato della 
+metafora del verbo ^fonde~. Seguita dopo questo il testo: ^E piange l@a 
+dove esser dee giocondo.~ Questo verso, secondo me, @e molto difficile 
+a intendere. E tutti quei che lo espongono, che sono gli antichi 
+(perci@o che il Landino non ne parla, e il Vellutello dice quel 
+medesimo che il Boccaccio), riferiscon questo ^e piange~ a colui che 
+biscazza e manda male il suo; il che io non appruovo, e non mi par che 
+sia la mente del Poeta. Per la qual cosa, essendo di contraria opinione 
+a loro, e volendo portar loro quella riverenza che si conviene, e usar 
+quella modestia che conviene a me, io reciter@o l'opinion loro con le 
+propie parole loro; dopo quella io vi dir@o la mia, e poi lascer@o 
+liberamente nel giudicio di ciascuno il pigliare quella che pi@u gli 
+piace e che gli par che quadri pi@u al testo. Quello espositore, ch'io 
+ho senza nome, il quale io vi ho detto che fu contemporaneo di Dante, e 
+che scrive che gli parl@o pi@u volte, dice esponendo questo luogo (per 
+cominciarsi da lui come pi@u antico): <Quello che manda male giucando 
+il suo avere, quando ha perduto, piange; e doverebbe esser lieto. Per@o 
+che sapendo male usare le sue ricchezze, commetteva con esse molti 
+peccati. Dove, tolta la cagione, tolto @e l'effetto; s@i ch'ei si 
+doverebbe allegrare di non poter pi@u peccare, e di aver perdute le 
+cose che, da che egli gli usava in mala parte, gli erano materia di 
+peccare.> Il Boccaccio lo espone in quest'altra maniera: <Egli piange 
+d'aver cos@i fatto, dove egli sarebbe giocondo avendo fatto il 
+contrario, cio@e conservato e non mandato male il suo.> E Benvenuto da 
+Imola dice: <Ei piange e s'attrista e si duole nella vita dov'ei doveva 
+allegrarsi; perch@e si ha da s@e tolto il bene essere, cio@e lo avere, 
+senza il qual non pu@o l'uomo vivere bene e acconciamente.> E queste 
+sono le opinioni degli antichi, le quali io non biasimo; ma io sento 
+bene al contrario di loro. Con ci@o sia ch'ei referischino tutti, come 
+io dissi disopra, quel ^piangere~ a colui che ha mandato male il suo, 
+dicendo che tal cosa gli @e di poi sempre cagione del pianto; non 
+essendo il ^maggiore dolore che ricordarsi del tempo felice nella 
+miseria~, come disse altrove il Poeta nostro; n@e sia cosa alcuna pi@u 
+dura a incominciarla a provare nuovamente, n@e pi@u difficile a imparar 
+a sopportare, che la povert@a, come disse il Poeta lirico. E io tengo 
+ch'ei si abbia a riferire a un'altra sorte di violenti contro a s@e 
+stesso; perch@e a me pare che l'uomo possa usar violenza contro a s@e 
+stesso, e in quanto al corpo, togliendosi la vita, e in quanto 
+all'anima, affigendosi o dandosi maninconia di molte cose ch'ei non 
+doverebbe, e pi@u ch'ei non doverebbe; il che guasta la complessione, 
+accorcia la vita e genera ne l'uomo infiniti altri mali. E quello che 
+mi fa aver questa openione @e la prima cosa in fatto, avendo veduti 
+molti ch'hanno lo stato loro di sorte ch'ei doverrebbono guidar 
+lietamente la vita loro, e nientedimanco si danno tanto pensiero d'ogni 
+minima cosa, non solamente loro, ma che vadia attorno pel mondo, e 
+d'ogni minimo travaglio che ne apporti il tempo e la fortuna, ch'ei 
+vivon sempre mal contenti e afflitti e tormentati da la maninconia; e 
+di poi il modo del dire che usa il Poeta, mettendo quello ^e~ [a] 
+l'ultimo verso. Perci@o che quando noi mettiamo uno ^e~ a l'ultima cosa 
+di molte che noi abbiamo dette (e cos@i usa la lingua nostra), ei 
+mostra ch'egli ha ancora a essere a tutte l'altre; come sarebbe 
+verbigrazia dire: Virgilio fu poeta, Orazio fu poeta e Dante fu poeta. 
+Avendo dunque detto il Poeta: ^qualunque si ammazza da s@e, qualunche 
+manda male il suo~, e dicendo poi: ^E piange l@a dove esser dee 
+giocondo,~ s'intende: ^e qualunche piange l@a dov'ei doverebbe esser 
+lieto~; che son quegli che, com'io v'ho detto, stando maninconosi e 
+affligendosi senza averne giusta cagione, vengono a usar violenza 
+contro a di loro stessi nell'anima, come fanno quegli che si ammazzono 
+nel corpo. E se alcun dicessi: O che vuol dire ch'ei non usa dipoi 
+questo medesimo modo ne' violenti contro al prossimo, cio@e non gli 
+divide in chi usa violenza contro a la lor persona, e in chi l'usa 
+contro a la loro anima? si risponde ch'ei lo fa, perch@e nell'anima del 
+prossimo non pu@o usarsi violenza; perch@e fagli che mal tu vuoi o 
+nella persona o nell'avere, se ben tu lo contristi, tu non puoi per@o 
+far voler a l'anima sua, se non quel che vuole ella volere. E per@o noi 
+diciamo e tegnamo che questo ternale si abbia a esporre cos@i: che nel 
+primo girone de' tre, ne' quali @e diviso il settimo cerchio 
+dell'Inferno, son puniti i violenti contro a loro medesimi, che son 
+quegli che si tolgono la vita da loro stessi; quegli che mandon male 
+bruttamente le loro fecult@a; e quegli che si danno maninconia e 
+dolore, dovendo stare allegri, cio@e senza cagione e a torto. E questa 
+@e l'oppenione nostra sopra questo luogo. Pigli or ciascun di voi 
+liberamente quella che pi@u gli piace; ch@e a noi basta avervela detta.
+
+	|46-51.~  Dopo questo seguita il testo, parlando della terza spezie 
+de' violenti, che son quegli che la usono verso Dio:
+
+   ^Puossi far forza nella Deitate,~
+   ^Col cuor negando o bestemmiando quella,~
+   ^E spregiando natura e sua bontate.~
+
+   ^E per@o lo minor giron suggella~
+   ^Del segno suo e Sodoma e Caorsa~
+   ^E chi, spregiando Dio, col cuor favella.~
+
+Seguitando il Poeta il medesimo ordine nel parlar de' violenti contro a 
+Dio, ch'egli ha fatto nel trattar de' violenti contro a lor stessi e 
+contro al prossimo, dimostra primieramente qual sia la violenza che 
+pu@o usarsi contro a Dio, dicendo ch'ella @e negare la Deit@a sua col 
+cuore, o bestemmiarla. Ove dicendo ^col cuore~, ei mostra che la 
+violenza inverso Dio @e diversa e contraria da quella del prossimo e di 
+s@e stesso; perci@o che queste trapassano da l'agente nel paziente, e 
+appariscon e rimangon nell'ingiuriato, cos@i quella che si usa in s@e 
+stesso, come quella che si usa contro al prossimo (perci@o che chi fa 
+violenza a s@e stesso @e in tal caso agente e paziente, agente in 
+quanto ei fa l'ingiuria, e paziente in quanto ei la riceve e sopporta); 
+e la violenza e l'ingiuria che si fa contro a Dio e rimane totalmente 
+nell'agente e in colui che la fa, e non trapassa in modo alcuno in Dio. 
+Il che accenna il Poeta, dicendo ch'ella si fa ^col cuore~, cio@e riman 
+nel cuore di chi la fa; perci@o che Dio da la parte sua non pu@o essere 
+offeso in alcun modo dagli uomini, n@e con fatti n@e con parole; co' 
+fatti, perch@e egli non @e sottoposto a la potenza umana, e con le 
+parole, perch@e essendo egli somma purit@a e somma perfezione, non si 
+pu@o dir di lui cosa alcuna in disonore e diminuzione della divinit@a e 
+bont@a sua; ma si pu@o ben (come dice il testo) da la parte nostra 
+negare la deit@a sua, o bestemmiarla, cio@e attribuirgli cose che non 
+se gli convengono, o torgli di quelle che se gli convengono, ma 
+solamente, come si @e detto, dentro a' cuori e a gli animi nostri, e 
+non realmente. E puossi oltre a di questo, dice il testo, usar violenza 
+contro a le sue cose, intendendo per quelle la natura e l'arte. Ove @e 
+da notare, che se ben tutte le cose sono di Dio, onde si posson chiamar 
+universalmente ^sue~, il Poeta chiama particularmente ^sue~ e la natura 
+e l'arte; perch@e la ^natura~ essendo quella legge e quella regola, con 
+la quale egli ha ordinato che si faccino e si governino e mantenghino 
+le cose, depende immediatamente da lui; e l'^arte~ essendo quella 
+prudenza fattiva (per chiamarla per ora cos@i), che Dio ha dato a 
+l'uomo, con la quale ei possa supplire a' bisogni della natura, 
+imparando e imitando lei, depende di poi da essa natura; onde chiama 
+disotto il Poeta la natura ^figliuola~ di Dio, e l'arte sua ^nipote~. 
+Contro a le quali due cose dice il Poeta che si pu@o usar violenza in 
+questi modi: contro a la natura, con impedire la generazione umana, 
+sfogando quel prurito della carne, ch'ella ha dato a l'uomo perch'ei 
+dia opera a essa generazione, in modi ch'ei non ne abbia a seguitar tal 
+effetto; e contro a l'arte, cercando di acquistare avere, di 
+accrescerlo con modi contrarii a essa natura, come voler far 
+multiplicar per lor stesse quelle cose che non posson farlo, come fanno 
+gli usurai i danari; e non di far multiplicar quelle, con la fatica 
+delle nostre mani, che per loro non multiplicherebbero, o poco, come 
+sono i frutti della terra, o aiutare l'uomo con sopperire di fargli di 
+quelle cose ch'egli ha di bisogno, e non gli son fatte da la natura 
+come agli altri animali, come son le veste, le abitazioni e altre cose 
+simili, che tutto si fa con l'arte. E per@o dice il testo che il minor 
+cerchio, cio@e quel che @e rasente il vano del restante dell'Inferno, 
+ch'@e minore per essere abbracciato e contenuto da gli altri due, 
+^suggella~ della sua stampa, cio@e punisce con le sue pene, questi 
+violenti contro a la natura e contro a l'arte; ponendo pei violenti 
+contro a natura la citt@a di Soddoma, nella qual multiplic@o tanto 
+questo peccato de l'impedire e guastar la generazione, ch'ella fu per 
+tal cagione rovinata e disfatta da Dio; e per gli usurai, Caorsa citt@a 
+di Provenza, o veramente nel Tolosano, nella quale era in quei tempi 
+tanto in uso l'usura, e tal abito ne avevano fatto gli abitatori di 
+quella, che il Boccaccio riferisce, che quando ei si diceva a uno ch'ei 
+fusse Caorsino, ei s'intendeva ch'ei fusse usuraio. E suggella, seguita 
+il testo, chi ^spregiando Dio favella col cuore~, cio@e lo niega e 
+bestemmia dentro a la mente e al pensiero suo. E lui ponendo 
+ultimamente fine il Poeta al parlar de' violenti, porremo ancor noi 
+insieme con lui fine a questa lezione.
+
+	|52-54.~  [LEZIONE SETTIMA]
+
+   ^La frode, onde ogni coscienza @e morsa,~
+   ^Pu@o l'uomo usare in colui che si fida,~
+   ^Ed in quel che fidanza non imborsa.~
+
+Due sono i modi, come voi sentiste di sopra nel principio delle parole 
+di Virgilio, co' quali si nuoce e fa ingiuria al prossimo. Del primo 
+de' quali, ch'@e la forza, avendo egli parlato a bastanza, dimostrando 
+in quanti modi e contro a quante maniere di persone ella pu@o usarsi, 
+parla oggi del secondo, il quale @e la fraude. E perch@e ei si truova 
+di due sorti fraude; una che non @e peccato, come sarebbe per grazia di 
+esempio fuggirsi di man de' Mori un che fusse lor prigione, con usare 
+qualche fraude; e un'altra ch'@e peccato, e questa @e quella che si usa 
+ingiustamente contro al prossimo; ed egli intende parlar di questa, 
+dice: ^La frode onde ogni coscienza @e morsa,~ cio@e quella frode che, 
+per esser contro a la giustizia, quando l'uom la commette si sente 
+mordere e riprender da la conscienza. Ove @e da notare, che dicendo il 
+Poeta che ogni uomo, quando ei frauda o inganna il prossimo, se ne 
+sente rimorder la conscienza, dimostra che se ei si truova pure alcun 
+che non abbia tal rimorso, ch'egli non @e uomo. E la cagione @e, 
+perch@e ei convien ch'egli abbia perduto quel che lo fa essere uomo; il 
+che @e la ragione. Perci@o che la conscienza non @e altro, secondo 
+ch'io so cavar da' nostri teologi e particularmente da S. Tommaso 
+(dicendo egli che il rimorso della conscienza conseguita a qualche 
+applicazion della cognizion nostra di qualcosa che noi abbiamo fatta, o 
+che noi discorriamo fare, contro al giusto e al dovere), che la ragione 
+che ce ne riprende. Chi non ha adunque conscienza non ha ragione; e chi 
+non ha ragione non @e uomo, ma @e trapassato in natura di fiera e di 
+bestia, in quel modo che voi intenderete di sotto che fanno quegli che 
+il Poeta chiama ^bestiali~. Questa frode ch'@e ingiuria e peccato, dice 
+il Poeta che puote usarsi e in chi ^si fida~, cio@e ha qualche 
+confidenza particulare in colui da 'l quale gli @e usato frode, e in 
+chi non si fida, cio@e non ha in colui, dal quale gli @e usato frode, 
+confidanza alcuna altra che quella che pare che apporti naturalmente a 
+gli uomini l'essere d'una specie medesima. E in questo modo viene il 
+Poeta a aver diviso la frode in due specie; l'una delle quali egli 
+chiama, come si cava pi@u gi@u da 'l testo, ^inganno~, e l'altra 
+^tradimento~.
+
+   ^Questo modo di dietro par ch'uccida~
+   ^Pur lo vincol d'amor che fa natura;~
+   ^Per@o nel cerchio secondo s'annida~
+
+   ^Ipocrisia, lusinghe e chi affattura,~
+   ^Falsit@a, ladroneccio e simonia,~
+   ^Ruffian, baratti e simile lordura.~
+
+	|55-60.~  Divisa che ha Virgilio la frode in queste due specie, 
+^tradimento~ e ^inganno~, egli lascia la prima, e parla della seconda, 
+dicendo che questo modo ultimo, de l'usare frode in chi ^fidanza non 
+imborsa~, uccide e spezza ^solamente~ il vincol d'amore naturale; ch@e 
+cos@i significa quella dizione ^pure~, onde disse il Petrarca:
+
+   ^Ferir me di saetta in quello stato,~
+   ^E a voi armata non mostrar pur l'arco.~
+
+Con la qual ragione egli pruova, la frode esser molto men grave 
+peccato, che non @e lo inganno. E lo argomento si forma cos@i: Quella 
+specie di frode, che ingannando gli uomini rompe solamente il vincolo 
+d'amor della natura, @e manco grave de l'altre; l'inganno rompe 
+solamente il vincol d'amor ch'@e da natura; adunque l'inganno [etc.]. 
+Per perfetta notizia della qual cosa @e da sapere che la natura ha dato 
+a ciascuno animale una inclinazione di amare e aiutare sempre gli altri 
+della sua specie. E questo @e stato fatto da lei, acci@o ch'ei si 
+conduca ciascuno a la perfezione che conviene a la natura sua, acci@o 
+ch'ei possa generar degli altri, onde venghino a mantenersi le specie; 
+della qual cosa ella @e, per conservazione e ornamento dell'universo, 
+studiosissima. N@e osta a questo il vederne talvolta qualcuno nimico de 
+gli altri, e che cerchi di offendergli; perch@e chi ricercher@a bene la 
+cagione troverr@a ch'ella sar@a accidentale. E questo amor naturale @e 
+stato dato da lei ancor pi@u a la specie umana, che ad alcuna altra; 
+perch@e l'uomo, essendo offeso in quanto al corpo, per cagion della 
+complessione sua tanto temperata, da infinite pi@u cose; e avendone 
+bisogno di pi@u, come sono di chi lo allievi, di casa, di veste, di 
+cibi e d'altre cose; ha molto pi@u bisogno de l'altro uomo, che animale 
+alcuno altro degli altri animali della sua specie. Per il che egli fu 
+fatto, dice il Filosofo nel primo della ^Politica~, da la natura animal 
+gregario e sociabile, cio@e inclinato a vivere in compagnia e in 
+schiera, come fanno i gru, e non solivago e che si diletti di viver da 
+s@e stesso, come fanno le passere solitarie. E per questa cagione disse 
+Platone che l'uomo era nato per l'altro uomo. Chi adunque, in cambio di 
+giovare e aiutar gli altri uomini, nuoce loro e gl'inganna, uccide, 
+dice il Poeta, questo vincolo e questo legame d'amor ^naturale~, cio@e 
+che ha ordinato la natura, ch@e tenga gli uomini insieme in unione e in 
+pace, aiutandosi e giovando l'uno a l'altro; anzi gli @e tanto propio, 
+che Aristotile disse nel 14 capitolo dell'ottavo dell'^Etica~, ch'egli 
+@e cosa ^umana~, cio@e conveniente a l'uomo, non negare l'aiutar chi ne 
+ha bisogno, senza esserne ricerco da l'amicizia. Non violando adunque e 
+non spegnendo l'inganno fra gli uomini altro amor che il naturale, son 
+puniti gl'ingannatori (dice Vergilio) nel secondo de' tre cerchietti 
+ch'egli disse disopra, cio@e nel penultimo de l'Inferno. Il quale 
+cerchio egli divide in dieci bolge, perch'ei si ritruovon dieci specie 
+d'ingannatori; e in ciascuna @e punita, come voi vedrete al suo luogo, 
+una specie di loro. Delle quali dieci specie ei ne nomina nel testo 
+otto per i loro nomi proprii, e questi sono gl'ippocriti, lusinghieri, 
+maliardi, falsi consiglieri, ladri, simoniaci, ruffiani e barattieri; e 
+due sotto questo nome generale ^e simile lordura~, cio@e bruttezza e 
+scelerit@a, e questi sono i seminatori di scandoli e i falsatori.
+
+	|61-66.~  E detto ch'egli ha questo, ei passa a ragionar de l'altra 
+specie della frode, cio@e del ^tradimento~, e dice:
+
+   ^Per l'altro modo quell'amor si oblia~
+   ^Che fa natura, e quel ch'@e poi aggiunto,~
+   ^Di che la fede special si cria.~
+
+   ^Onde nel cerchio minore, ove @e il punto~
+   ^Dello universo, in su che Dite siede,~
+   ^Qualunche trade in eterno @e consunto.~
+
+Nelle quali parole volendo dimostrar Virgilio che l'altra specie della 
+frode (che @e quella che si usa ^in chi si fida~, onde lo chiama 
+^tradimento~) @e peggiore e pi@u ingiusta che l'altra, ch'@e usar frode 
+in chi non si fida (chiamata da lui ^inganno~), lo fa con questo mezzo, 
+ch'ella ^uccide~ e spegne, e l'amor ^naturale~ ch'@e in fra gli uomini, 
+e l'^accidentale~ che nasce dipoi oltre a questo fra loro, ch'@e l'amor 
+d'amicizia. Onde si potrebbe formare con tal mezzo l'argomento, nel 
+modo che noi facemmo l'altro: Quella frode che spegne infra gli uomini 
+l'amor naturale e l'accidentale, @e peggior che quella che spegne 
+solamente il naturale, come fa l'inganno; il tradimento spegne il 
+naturale e l'accidentale; adunque il tradimento @e peggiore che la 
+frode. Ove @e da notare che Virgilio chiama l'amor [nato oltre al] 
+naturale, ^amore aggiunto~; non perch'ei sia accidentale, ma perch'egli 
+@e aggiunto al naturale, e perch'ei non nascerebbe mai amor d'amicizia 
+intrinsica e vera, dove non fusse prima principio e inclinazione d'amor 
+naturale. E questo avviene perch@e la cagion donde nasce l'amicizia, e 
+il fondamento principale ove ella si crea e che dipoi la nutrisce e la 
+mantiene, @e la conversazione; onde disse Aristotile: ^quod proprium 
+munus amicitiae est convivere~. E per@o voi non vedrete mai nascere 
+amicizie intrinsiche infra quei che non piace loro e non diletta la 
+conversazione l'uno de l'altro; onde dice ancor Aristotile, che infra 
+gli uomini severi e infra i vecchi si generano tanto manco amicizie, 
+quanto ei son pi@u fastidiosi e manco amon la compagnia. E quando pure 
+ei nasca infra simil sorte d'uomini amicizie, Aristotile dice (perch@e 
+ei conversono e vivono poco insieme) ch'elle son pi@u tosto 
+benevolenze, che amicizie. Non potendo adunque nascere amicizie in fra 
+quei che non piace il conversare insieme l'un con l'altro, ne avviene 
+(come noi dicemmo disopra) ch'ei non si fa mai amicizie, se non con 
+quei a' quali l'uomo @e inclinato da natura a portar un certo amor 
+particulare. E per@o chiama il Poeta l'amore dell'amicizia ^amore 
+aggiunto~; e questo pu@o conoscer ciascun che vuole in s@e stesso, 
+perci@o che l'uomo ha in fra l'altre propriet@a sue questa, ch'egli gli 
+piace ed @e inclinato pi@u inverso uno che un altro naturalmente, senza 
+averne cagione alcuna e senza saper perch@e. E questo si conosce 
+manifestamente nello star a veder quei che altrui non conosce, o non ha 
+pi@u veduti, negoziare, ragionare, o far qual si voglia cosa insieme, e 
+particularmente giucare, ch@e subito t'inclina l'animo a pigliar la 
+parte pi@u d'uno che d'uno altro. Della qual cosa tengono alcuni che 
+sia cagione la similitudine della temperatura e della complessione, 
+dicendo ch'egli avviene loro come avviene a due strumenti di corde, che 
+quando ei son temperati in sul tuono medesimo appunto, se tu ne suoni 
+uno, si muovono nel medesimo tempo per loro stesse le corde dell'altro. 
+E altri dicono che ei procede da l'avere i medesimi ascendenti o 
+aspetti de' cieli amici, e in qualche parte simili. Ma proceda da quel 
+ch'ei vuol, ch@e questo non @e il luogo da disputa tale; basta che 
+quando altrui pratica (il che si fa il pi@u delle volte per necessit@a) 
+con chi non ti piace per natura, ei si pu@o ben fare, ch@e ei non ne 
+nasce mai amicizia; perch@e si conversa e si sta l'un con l'altro 
+solamente quel tanto che altrui ha di bisogno. E quando si pratica con 
+quegli che ti piacciono per natura, si accresce e si aggiugne sempre 
+l'amore. E la cagione @e, perch@e ei si conversa e si vive il pi@u che 
+altrui pu@o insieme; e il conversare insieme apporta a questi cos@i 
+fatti diletto e piacere, non essendo manco grato, come dice Aristotile, 
+l'aspetto de l'un amico a l'altro, che si sia l'aspetto dell'amata a 
+l'amante, onde accresce sempre amore; s@i come per il contrario il non 
+conversare, e discostarsi l'uno amico a l'altro, diminuisce e 
+finalmente lo spegne. E per queste cagioni chiama il Poeta l'amore 
+dell'amicizia ^amore aggiunto~, dicendo (per mostrar quanto sia grave 
+ed empio il peccato del tradimento) ch'egli ^oblia~, cio@e fa 
+dimenticare, e ^uccide~, e l'amor che fa natura e quel ch'@e, ne' modi 
+che si son detti disopra, dipoi ^aggiunto~ a quello. E per questa 
+cagione soggiugne il testo che nel cerchio minore, cio@e nel nono (il 
+quale, per essere l'ultimo, viene aver manco diametro e circunferenza 
+degli altri, andando il sito e il vano dell'Inferno sempre restringendo 
+di mano in mano), ove @e ^il punto dell'universo~, cio@e il centro 
+della terra, e conseguentemente de l'acqua, dell'aria, della sfera del 
+fuoco, delle sfere de' sette pianeti e degli altri cieli che ci si 
+aggiron continovamente attorno (le quali cose fanno tutto questo 
+aggregato che noi chiamiamo vulgarmente ^mondo~, in sul centro del qual 
+mondo ^siede~, cio@e @e posta, Dite), @e ^consunto~ e tormentato 
+^qualunche trade~, cio@e fa tradimento a chi si fida di lui, cio@e ha 
+fede speziale, mediante l'amore aggiunto al naturale; e sia chi vuole. 
+Perci@o ch'ei pu@o essere amicizia infra tutte le sorti di uomini, ma 
+di diversa natura; onde @e altra amicizia la regia, come mostra 
+Aristotile, altra la paterna, altra la fraterna, altra la equale, altra 
+quella ch'@e fra la moglie e il marito, altra quella ch'@e fra il 
+padrone e il servo, fra il ricco e il povero, fra il felice e il mal 
+fortunato, e fra' buoni e fra i malvagi. Sono adunque tormentati i 
+traditori nel centro dell'Inferno, ma chi pi@u e chi manco, secondo la 
+persona la qual eglino hanno tradita; ma tutti ^eternamente~, come dice 
+il testo. Per il che quel ^consunto~ si ha a intendere tormentato, e 
+non ^consumato~, cio@e logorato, come @e il suo significato propio; 
+perci@o ch'ei non si pu@o trovar cosa alcuna che si vadia consumando e 
+logorando di mano in mano, che durassi sempre; e logorassisene tanto 
+poco per volta, quanto si possa imaginare. E qui pon fine Virgilio a la 
+risposta sopra la dubitazione mossagli da Dante; e noi porremo 
+similmente fine a la nostra lezione.
+
+	|67-75~  [LEZIONE OTTAVA[
+
+   ^Ed io: Maestro, assai chiaro procede~
+   ^La tua ragione, ed assai ben distingue~
+   ^Questo baratro e il popol che 'l possiede.~
+
+   ^Ma dimmi: quei de la palude pingue~
+   ^Che mena il vento e che batte la pioggia,~
+   ^E che s'incontron con diverse lingue,~
+
+   ^Perch@e non dentro da la citt@a roggia~
+   ^Sono ei puniti, se Dio gli ha in ira?~
+   ^E se ei non gli ha, perch@e son a tal foggia?~
+
+Ritruovasi infra le piante, non solamente infruttifere e sterili, ma 
+venenose e nocive, che fanno oscura e aspra la selva della sapienza 
+umana, nella quale si ritrov@o smarrito il Poeta nostro ^Nel mezzo del 
+cammin di nostra vita,~ cio@e infra le opinioni erronee e false, 
+contrarie a la verit@a cristiana, una opinione che ha grandemente 
+offeso e offende la sincerit@a e bont@a de l'animo di molti di quegli 
+che, tirati dal desiderio di sapere, sono iti per varii tempi e vanno 
+continovamente passeggiando e vagando per essa selva. Laonde allettati 
+da la bellezza, che dimostrono nelle foglie e ne' rami alcuna di esse 
+piante, si ritruovono poi, per non conoscer la malignit@a della natura 
+loro, in cambio di prender qualche diporto e diletto, offesi, smarriti, 
+e, come fece il Poeta nostro, tutti perturbati e confusi nell'animo. E 
+questa @e quella opinione che referisce M. Tullio che tenevan gli 
+Stoici, che tutti i peccati fossero pari ed equali, dicendo ch'ei non 
+@e altro il peccare, che uscire gli uomini d'una strada e d'una linea 
+ordinata e determinata da la ragione e da la giustizia, in fra quel 
+ch'ei mancon di fare e doverebbonlo fare, o eglino nel farlo eccedono e 
+trapassono nel troppo. Nel qual modo dimostra ancor, come voi sapete, 
+Aristotile nell'^Etica~, che si commetton da gli uomini tutti i vizii e 
+gli errori. Stando adunque cos@i, dicevano gli Stoici, l'uomo pecca 
+solamente ne l'uscir di quel termine e di quella linea, e non nel 
+discostarsi pi@u o manco da quella. E secondo questa ragione i peccati 
+vengono a essere tutti pari ed equali, e non maggiori o minori l'un de 
+l'altro; perci@o che chiunche esce di tal via pecca, cos@i come chi se 
+ne discosta poco, come chi se ne allontana assai. Da 'l che nasce che 
+chi approvasse questa sentenza terrebbe quel medesimo conto di torre a 
+un uomo un pome, che torgli tutto il suo avere, e di dargli una minima 
+percossa, che d'ucciderlo o tagliargli qualche membro. Da questa 
+opinione erronea e falsa, e contraria a la religion cristiana, 
+molestato e confuso ancora alquanto il Poeta nostro, e parendogli 
+nell'aver sentito distinguere a Virgilio i peccati in pi@u o manco 
+gravi avere occasione di chiarir l'animo suo, come voi vedete nel 
+testo, ne lo domanda. E per ottener con maggior facilit@a l'intento suo 
+egli usa nel principio del suo parlare due bellissimi colori retorici. 
+Il primo de' quali @e mostrargli ch'ei domanda d'una cosa, la quale @e 
+in certo modo suo obligo il farla; e questo @e fatto da lui chiamandolo 
+^maestro~, perci@o che a chi @e maestro si appartien insegnare. E il 
+secondo @e ingegnarsi di renderselo benevolo, acci@o ch'egli gli paia 
+manco fatica il solvergli la sua dubitazione; il che @e fatto da lui, 
+lodandolo ch'ei proceda bene e con grande arte nelle cose sue; non 
+essendo cosa che acquisti maggior grazia appresso la maggior parte 
+degli uomini, che il lodargli. Onde dice: ^Maestro, assai~ chiaramente 
+e bene ^procede la tua ragione~. Ove per la ^ragione~ si ha a intendere 
+il ^discorso~, che @e un'operazione della ragione, e non essa ragione; 
+perci@o che la ^ragione~, propriamente parlando, @e il medesimo 
+realmente ne l'uomo, che l'intelletto; ma @e ben diversa di 
+considerazione; perci@o che quando l'intelletto sta nella 
+considerazione de' primi principii, egli si chiama ^intelletto~, e 
+quando ei va acquistando, mediante la cognizion d'essi primi principii, 
+scienza o cognizione alcuna, ei si chiama ^ragione~. Il che @e fatto da 
+lui con una operazione, chiamata da i filosofi e da' nostri teologi 
+^raziocinare~, e da noi vulgarmente ^discorrere~. La qual potenza gli 
+fu data da la natura, perch@e, non essendo egli per s@e stesso tanto 
+perfetto ch'ei possa intender le conclusioni e le cose per proprio 
+lume, ei potessi intenderle al manco per mezzo di tal operazione, 
+raziocinando e discorrendo. E perch@e tal operazione @e, come io so 
+ch'io vi ho detto altra volta, propia e peculiare de l'uomo (perci@o 
+che l'intelletto de l'angelo non ha tale operazione, perch@e egli 
+intende le cose per propia virt@u e per propio lume), l'uomo @e da essa 
+operazione del raziocinare e discorrere, perch@e egli acquista mediante 
+lei la perfezion sua, chiamato ^razionale~, e l'angelo, che l'acquista 
+mediante l'intelletto solo, ^intellettuale~. Dice adunque il Poeta 
+nostro a Virgilio: assai bene procede il discorso tuo nella distinzione 
+di questo ^baratro~, cio@e inferno (perci@o che ^baratro~ @e una parola 
+greca, che vuol dir profondit@a e voragine, come @e propiamente 
+l'inferno; e cos@i scrive il Celio nelle sue lezioni antiche, che 
+chiamavano gli Ateniesi una buca e un luogo, ov'ei gittavano i 
+malfattori e gli scelerati, il quale era tanto profondo, ch'ei non si 
+sentiva pi@u di loro cosa alcuna), e ^il popolo che il possiede~, cio@e 
+i peccatori, e l'anime che son punite dentro a quello. E in questa 
+maniera parendogli aver dimostro a Virgilio ch'egli @e suo ufficio 
+solvere la dubitazione che gli era occorsa a la mente, e rendutoselo di 
+sorte benigno, ch'ei non gli avessi a parer fatica il farlo, egli 
+gliela scuopre, domandandolo della cagione perch@e quelle anime 
+ch'eglino avevan trovate fuori della citt@a (che son quelle degl'irosi 
+e degli accidiosi, ch'ei trov@o nella palude ^pingue~, cio@e crassa e 
+fangosa; quelle ^che mena il vento~, che son quelle de' peccatori 
+carnali; quelle ^che batte la pioggia~, che sono quelle de' golosi; e 
+quelle ^che s'incontran con diverse lingue~, che son quelle degli avari 
+e de' prodighi), non son punite ancora elleno dentro alla citt@a di 
+Dite. La qual egli chiama ^la citt@a roggia~, per esser le mura sue, 
+com'ei disse disopra, di ferro infocato, apparendo il ferro, quando 
+egli @e fatto fuoco, molto simile al color rosso, e massime ne' luoghi 
+bui, com'ei pone che sia l'inferno, non gli dando egli altro lume che 
+quel del fuoco ch'@e dentro a quello. E per dimostrargli che questa sua 
+dubitazione non @e di poco momento e di poca importanza, egli gli fa 
+quest'argomento e questa ragione: O Dio gli ha in ira, cio@e gli 
+dispiaccion tanto i vizii di quei che son puniti fuori della citt@a di 
+Dite, ch'ei dimostra in loro quegli effetti, ch'ei fa in punirgli, 
+d'ira; o no. S'egli gli ha in ira, perch@e non gli punisce egli, come 
+questi altri, nella citt@a? e s'egli non gli ha in ira, perch@e gli 
+tratta in tal foggia e in tal maniera?
+
+	|76-84.~  Al che seguita il testo:
+
+   ^Ed egli a me: perch@e cos@i delira,~
+   ^Disse, lo ingegno tuo da quel che ei suole?~
+   ^Ovver la mente dove altrove mira?~
+
+   ^Non ti rimembra di quelle parole,~
+   ^Con le quai la tua Etica pertratta~
+   ^Le tre disposizion che il ciel non vuole,~
+
+   ^Incontinenza, malizia e la matta~
+   ^Bestialit@a e come incontinenza~
+   ^Men Dio offende e men biasimo accatta?~
+
+Questa ^Etica~ della quale fa qui menzione il Poeta @e, come sa la 
+maggior parte di voi, un'opera che fa Aristotile ^De' costumi~ a 
+Nicomaco suo figliuolo, per insegnargli il modo di acquistare la 
+felicit@a umana. Nella quale, da poi ch'egli ha preposto nel primo 
+libro l'ultimo fine de l'uomo, e dimostro ch'egli lo desidera come 
+bene, come desiderano ancor, come fine loro, tutte l'altre cose un 
+certo bene, egli tratta, ne' cinque libri che seguitono, delle virt@u 
+morali e speculative, che sono i mezzi a conseguire tal fine. E per dar 
+pi@u perfetta notizia di loro tratta ancor de' vizii che son lor 
+contrarii; e dipoi, inanzi ch'ei passi a trattar della felicit@a, ei 
+tratta nel settimo di tre affetti, ovver disposizioni, che si debbon 
+circa a i costumi fuggire (le quali non son propiamente vizii, ma hanno 
+grandissima similitudine con quegli), e conseguentemente delle virt@u 
+che son lor contrarie. Le quali tre male disposizioni ei dice che si 
+debbon con grandissima diligenza fuggire, perci@o che da loro procedono 
+e hanno origine tutti i vizii; e dice esser queste: ^incontinenza~, 
+^malizia~, ovvero ^vizio~, (ch@e ne l'un modo dice la traslazione 
+antica, e ne l'altro quella di Lionardo Aretino, bench@e amendue 
+significono il medesimo), e ^bestialit@a~, secondo l'antica; secondo 
+Lionardo Aretino, ^immanit@a~; e secondo l'Argiropolo, ^ferit@a~; ch@e 
+ancor queste tutte significono il medesimo. Da queste tre male 
+disposizioni mostra il Filosofo, com'io vi ho detto disopra, che 
+nascono e procedono tutti i vizii. Nientedimanco ei sono manco gravi 
+quei che nascon da ^incontinenza~, che quei che nascon da ^vizio~ o da 
+^bestialit@a~. E questo @e perch@e il vizio e la bestialit@a son 
+peggior disposizioni, che non @e l'incontinenza; ed essendo peggior la 
+causa, seguita di necessit@a ch'ei sia ancor peggiore similmente 
+l'effetto. E che il vizio e la bestialit@a sien peggiori disposizioni 
+che la incontinenza, @e dimostro dal Filosofo con dire che 
+^incontinente~ si chiama colui nel quale combatte l'appetito 
+concupiscibile con la ragione; nientedimanco vince al fine l'appetito, 
+onde egli fa quel ch'ei conosce che non @e bene, e ch'egli non vorrebbe 
+fare, non si sapendo contenere di non compiacere a' sensi; s@i che fa 
+male, si pu@o dire, quasi sforzato; e l'avete dal Petrarca, quando 
+disse:
+
+   ^Quel che io fo veggio, e non m'inganna il vero~
+   ^Mal conosciuto, ma mi sforza amore.~
+
+A questa ^incontinenza~ dice il Filosofo ch@e @e contraria la 
+^continenza~; perci@o che, come nell'incontinente, combattendo 
+l'appetito con la ragione, resta vincitor l'appetito, nel continente 
+resta in tal pugna vincitrice la ragione. La ^malizia~ ovvero ^vizio~, 
+e la ^efferit@a~ e ^bestialit@a~, dice il Filosofo che son peggiori 
+disposizioni che l'^incontinenza~; perch@e nel vizioso domina e vince 
+subito l'appetito, senza farsi in lui combattimento o difesa alcuna 
+della ragione, mediante l'abito fatto da lui nel peccare; come per il 
+contrario nel virtuoso domina e vince subito la ragione, mediante 
+l'abito fatto da lui di vivere virtuosamente; onde @e dato da lui la 
+virt@u per contrario al vizio. E nella ^bestialit@a~ @e di maniera 
+soffocata la ragion da l'appetito, ch'ella apparisce estinta del tutto. 
+A la qual bestialit@a d@a per contrario il Filosofo una virt@u, la qual 
+non ha nome propio, ma @e chiamata da lui virt@u ^eroica~, cio@e pi@u 
+che umana, e quasi divina; perci@o che ^eroi~ chiamavan gli antichi 
+quegli ch'eran nati d'uomini e di Dei. Onde d@a per esempio Ettore, del 
+quale ei referisce che Omero scrive che usava dire Priamo:
+
+   ^Non @e certo costui di mortal seme~
+   ^Nato, ma sceso da' celesti scanni.~
+
+Ed @e questa virt@u o disposizione, che il Filosofo chiama ^eroica~, 
+cio@e sopra umana e divina, quella, secondo me, che chiamiamo noi 
+^santit@a~; la quale fa medesimamente gli uomini santi e divini, non 
+perch'ella gli faccia Dii, ma perch@e ella gli fa in certo modo simili 
+a Dio; s@i come si chiama ancor la ^bestialit@a~ e la ^ferit@a~ cos@i, 
+non perch@e ella faccia gli uomini fiere e bestie (perci@o che nelle 
+fiere non son propiamente n@e vizii n@e virt@u), ma perch@e ella gli fa 
+in certo modo simili a le fiere. Di queste due qualit@a e disposizioni 
+peggiori facendo ancora comparazione in fra loro il Filosofo, dice che 
+la ^bestialit@a~ @e manco male e manco nociva che il ^vizio~, ma 
+ch'ella @e ben pi@u terribile e pi@u spaventosa. E la ragione, ch'ei ne 
+d@a, @e ch'ei son maggiori mali e pi@u nocivi quei che si fanno con 
+ragione e con discorso, che quei che si fanno senza; onde disse il 
+Filosofo nel primo della ^Politica~, che cos@i come l'uomo ch'@e nella 
+sua perfezione @e il migliore di tutti gli animali, cos@i parimente 
+l'uomo che @e privo di giustizia @e di tutti gli altri il peggiore, 
+essendo in vero insopportabilissima quella ingiuria, che ha l'arme per 
+mezzo della prudenza; e nel settimo dell'^Etica~, ch'ei pu@o molto pi@u 
+nuocere uno uomo mediante la prudenza, che non pu@o un animale. E 
+nell'efferato essendo spenta la ragione, e nel vizioso no, egli pu@o 
+far molto maggiori mali e commettere maggiori scandoli, essendo propio 
+(dice il Filosofo) quella differenza nel nuocere in fra il vizioso e 
+l'efferato, che @e in fra le cose inanimate e le animate, o fra 
+l'ingiustizia e l'ingiusto; ch@e nella ingiustizia, se ben ella @e 
+male, non @e principio n@e facult@a di poter nuocere, e nell'ingiusto 
+s@i. Cade adunque l'uomo in queste tre male disposizioni (dice Donato 
+Acciaiuoli, dottissimo commentatore di questa opera), per aver 
+similitudine, mediante la parte sua sensitiva, con gli animali, e 
+mediante la ragionevole, con le sustanze divine. Perci@o che, quando si 
+lascia vincere in lui combattendo la ragione da l'appetito, ei diventa 
+^incontinente~; quando ei domina in lui l'appetito liberamente, senza 
+essergli fatto repugnanza alcuna da la ragione, ^vizioso~; e quando la 
+ragione @e estinta in lui affatto ^bestiale~. E quando la ragione vince 
+combattendo in lui l'appetito, ei diventa ^continente~; quando la 
+ragione domina assolutamente, ^virtuoso~; e quando egli @e spento in 
+lui ogni concupiscenza, ^santo~ e ^divino~. Perci@o che la similitudine 
+ch'egli ha mediante il senso con gli animali lo fa, s'ei vive secondo 
+il senso, simile a loro; e quella ch'egli ha mediante l'intelletto e la 
+ragione con le sustanze divine lo fa, s'ei vive secondo la ragione, 
+simile a esse sustanze divine. E quanto ei si discosta pi@u da le cose 
+del mondo ne l'operare, e accostasi a le divine, pi@u diventa divino; e 
+quanto pi@u si accosta a le terrestri, pi@u diventa terreno. E cos@i 
+viene a essere per tal cagione molto manco degno di biasimo, secondo 
+Aristotile, l'^incontinente~, che non @e il ^vizioso~ e il ^bestiale~. 
+Di questa opera dell'^Etica~, ove si tratton le cose dette, essendo 
+stato molto studioso, secondo che si vede nel suo ^Convivio~, il Poeta 
+nostro, finge, perch@e la favola apparisca pi@u verisimile, che 
+Virgilio lo sappia (essendo cosa ragionevole, che quando Beatrice lo 
+mand@o a trarlo della selva, ch'ella gli dicesse quali fussero i suoi 
+studii, e come ei non aveva bisogno ch'ei gli fussin insegnate le 
+virt@u morali, ma solamente di essere inluminato, con la fede, della 
+certezza della religion cristiana), e ch'ei si maravigli per tal 
+cagione che in lui sia nata tal dubitazione; onde gli dice: ^perch@e 
+tanto delira~, cio@e esce lo ingegno tuo della via retta? Il che @e 
+detto metaforicamente; perci@o che ^delirare~ @e un verbo latino, il 
+qual nasce da ^liro~, che significa appresso di loro quello spianar la 
+terra che fanno i contadini sopra i solchi, seminati ch'eglino gli 
+hanno, il che chiamon oggi i nostri ^erpicare~ o ^imporcare~: e questo 
+nasceva, perch@e quello strumento col quale si fa tale officio, che @e 
+un quadro di pi@u legni fatto a guisa di graticcio, ma da la parte 
+disotto dentato, sopra del qual sta ritto il bifolco per aggravare, e 
+in parte guidar i buoi, si chiama appresso de' Latini ^lira~, e 
+appresso di noi ^erpice~; laonde dicevan ^delirare~ colui che guidava i 
+buoi, ogni volta ch'egli usciva del solco sopra del quale egli aveva 
+andare. E da questa operazione si @e dipoi transferito per metafora tal 
+verbo a quegli che escon, discorrendo, di proposito nel parlare, come 
+quegli che farneticono, o che per vecchiezza rimbabiscono. Veggendo 
+adunque Virgilio che il Poeta nostro usciva dell'opinione di Aristotile 
+nell'^Etica~, ov'ei tratta tanto dottamente tal materia, gli dice: 
+perch@e ^delira~ cos@i, cio@e esce del vero cammino, l'ingegno ed il 
+discorso tuo? ovvero, perch@e ^mira~, cio@e ragguarda, la mente e 
+l'intelletto tuo ^altrove~, che in quel che ha scritto di tal materia 
+Aristotile, maestro di color che sanno? Non ti ricordi tu, e non ti 
+sovvengono a la mente, le parole con le quali l'Etica ^tua~, cio@e 
+della quale tu sei tanto vago e studioso, ^pertratta~, cio@e tratta 
+molto e a lungo, delle ^tre disposizioni~ e affetti, le quali ^il cielo 
+non vuole~, ma le aborrisce, cio@e ^incontinenza~, ^malizia~ (ovvero 
+^vizio~), onde disse poco disopra: ^D'ogni malizia che odio in cielo 
+acquista;~ e la ^matta bestialit@a~, chiamata cos@i da lui perch@e ella 
+fa perdere a l'uomo, nel modo che voi sentiste disopra, la ragione? E 
+come la incontinenza ^offende manco Dio~, cio@e fa i peccati pi@u 
+scusabili e pi@u degni di venia, e ^accatta manco biasimo~ cio@e @e 
+manco ripresa e vituperata appresso a gli uomini, che la bestialit@a e 
+la malizia? Ove io non voglio, avanti che noi passiamo pi@u l@a, 
+mancare di dire a quei che non l'hanno veduto, che il testo il quale @e 
+commentato da 'l Boccaccio, dove gli altri dicono ^e men biasimo 
+accatta~, dice ^e pi@u biasimo accatta~. Onde @e da lui esposto in 
+questa maniera, e queste son le parole sue propie: <La incontinenza 
+^accatta pi@u biasimo~, che l'altre due disposizioni, da gli uomini; 
+perch@e il pi@u di loro giudicono da le cose esteriori e apparenti. 
+Perci@o che le intrinsiche e nascose son loro occulte, e non le possono 
+cos@i biasimare e dannare. E i peccati che noi commettiamo per 
+incontinenza son quasi tutti ne gli occhi de gli uomini, dove gli altri 
+che si commetton per mezzo delle altre due, il pi@u del tempo stanno 
+serrati nelle menti di color che gli commettono, quantunque poi pur 
+finalmente apparischino. E sono oltre a ci@o pi@u di rado commessi, che 
+quegli degli appetiti carnali, i quali continovamente stanno avanti.>
+
+	|85-90.~  Seguita dipoi il testo:
+
+   ^Se tu riguardi ben questa sentenza,~
+   ^E rechiti a la mente, chi son quelli~
+   ^Che su di fuor sostengon penitenza;~
+
+   ^Tu vedrai ben, perch@e da questi felli~
+   ^Sien dipartiti, e perch@e men crucciata~
+   ^La divina giustizia gli martelli.~
+
+Ove Virgilio fa a Dante questa conclusione: che s'ei considera bene 
+quel che sente Aristotile in quel luogo, cio@e la sua ^sentenza~, ch'ei 
+conoscerebbe che quegli che sostengono la ^penitenza~ e la pena de' lor 
+falli fuor della citt@a di Dite, son quegli che hanno peccato per 
+incontinenza. Per il che ei vedr@a la cagione per la quale ei non son 
+puniti insieme con quei dentro a la citt@a, che hanno peccato per 
+malizia e per bestialit@a; onde la divina giustizia, crucciata e 
+adirata manco per tal cagione contro a di loro, che contro a questi, 
+punisce manco quegli che questi. E qui pone Virgilio fine al suo 
+parlare; e noi porremo fine a la lezion nostra.
+
+	|91-96.~  [LEZIONE NONA]
+
+   ^O Sol che sani ogni vista turbata,~
+   ^Tu mi contenti s@i, quando tu solvi,~
+   ^Che, non men che saper, dubbiar m'aggrata.~
+
+   ^Ancora indietro un poco ti rivolvi,~
+   ^Dissi io, l@a dove di' che usura offende~
+   ^La divina bontate, e il gruppo svolvi.~
+
+Questa dubitazione, che referisce il testo che aveva nella mente il 
+Poeta nostro, @e uno di quei luoghi, il quale ci dimostra chiaramente 
+ancora egli che la selva, nella quale egli era smarrito, non era altro 
+che, come noi tegnamo, una confusion di dubitazioni di cose 
+appartenenti a la religione cristiana, nella quale egli era incorso per 
+seguitare il lume della sapienza umana, non credendo a le sacre 
+scritture, come debbe fare il cristiano. Perci@o che se egli si fusse 
+esercitato in quelle e avesse creduto, egli arebbe trovato come l'usura 
+@e proibita dalle divine leggi, e che avendo comandato Dio ch'ei non si 
+dia al suo prossimo la pecunia a usura, chi fa il contrario l'offende. 
+E chiunque vuole esser cristiano, dove ei trova la autorit@a della 
+sacra scrittura, debbe creder semplicemente a quella, senza ricercarne 
+la cagione, come fa qui il Poeta nostro; che non gli bastando che 
+Virgilio, che gli era in luogo della sacra scrittura (perci@o che egli 
+era mandato da Beatrice, che egli pone per la Teologia), gli avesse 
+detto della usura, ch'ella offende Dio, egli ne ricerca, come voi 
+vedete, la ragione: ed acciocch@e ei non paia fatica a Virgilio il 
+dirgliela, egli, per renderselo benevolo, lo loda con s@i bella 
+metafora di chiamarlo ^Sole che sana ogni vista turbata~, cio@e 
+illumina ogni vista inferma e che non vede. Perci@o che ^sanare~ si 
+dice delle cose inferme; e la infermit@a non @e altro, come io vi dissi 
+gi@a con l'autorit@a di Galeno, che uno abito accidentale, mediante il 
+quale quel subbietto ch'@e infermo non pu@o fare perfettamente 
+l'operazioni sue; s@i come per il contrario ei non @e altro la sanit@a 
+che uno abito, per il quale ciascuno pu@o produrre immediatamente 
+l'operazioni sue naturali; ch@e cos@i la diffinisce Galeno nel libro 
+^De differentiis morborum~. Chiama adunque il Poeta Virgilio ^Sole~, 
+perch@e il sole togliendo via, mediante la luce sua, la oscurit@a 
+dell'aria e illuminandola, d@a facult@a alla vista di scorger quel 
+ch'ella non poteva scorger prima. Cos@i la dottrina e le parole di 
+Virgilio illuminavan di mano in mano lo intelletto di Dante di maniera 
+ch'egli scorgeva nelle cose la verit@a, il che egli non faceva prima: 
+onde soggiugne che egli lo contentava e lo sodisfaceva nel solvere i 
+dubbii, de' quali egli lo domandava, di maniera ch'ei non gli era manco 
+grato dubitar d'una cosa, che saperla; volendo inferire che non sapeva 
+s@i bene una cosa da s@e, che se Virgilio gnene dichiarava nuovamente, 
+ei non gli paresse poi saperla meglio ed esserne pi@u chiaro. Con il 
+qual modo del parlare egli dichiara con grandissima dottrina il valore 
+e la perfezione delle sacre scritture; il quale @e di render molto pi@u 
+certo delle cose chi si esercita in quelle col lume della fede, che non 
+fa tutta la sapienza umana con tutti i suoi silogismi, entimemi e 
+demonstrazioni, chiunche la seguita col lume naturale e con la ragione. 
+Onde gli dice: ^svolgimi questo gruppo~, il che @e proprissimamente 
+detto della soluzione de' dubbi. Con ci@o sia che chi dubita sia simile 
+a uno che @e inviluppato, e chi solve, a uno che lo sciolga e liberilo. 
+^Rivolgiti~ adunque ^un poco indietro~, dice il Poeta, e chiariscimi 
+questo dubbio, come lo usuraio offenda la bont@a divina; il qual dubbio 
+nacque in me, quando tu mi dicesti, parlandomi de' violenti contro a 
+natura, ch'eglino offendevano mediante quella Dio.
+
+	|97-105.~  Al che seguita il testo:
+
+   ^Filosofia (mi disse) a chi la attende~
+   ^Nota non pure in una sola parte,~
+   ^Come natura lo suo corso prende~
+
+   ^Da il divino intelletto e da sua arte;~
+   ^E se tu ben la tua Fisica note,~
+   ^Tu troverai dopo non molte carte,~
+
+   ^Che l'arte vostra quella quanto puote~
+   ^Segue, come il maestro fa il discente,~
+   ^S@i che vostra arte a Dio quasi @e nipote.~
+
+Considerando Virgilio ch'egli era impossibile ridurre cos@i di subito 
+Dante, ch'era solito a camminare per la via del lume naturale e secondo 
+l'autorit@a de' savi del mondo, a lasciar tal via, e camminar per 
+quella del lume divino e delle scritture sacre (per esser contro 
+all'ordine della natura il passar da l'un contrario all'altro 
+subitamente e senza qualche mezzo, e la sapienza mondana e la divina 
+par che abbino i principii contrarii), gli solve primieramente tal 
+dubbio per via della sapienza del mondo. Per dichiarazione della qual 
+cosa voi avete a sapere che due sono, secondo che scrive Aristotile nel 
+settimo capitolo del primo libro della ^Politica~, i modi da guadagnare 
+i danari, avendo per@o prima dimostro che i danari son necessarii 
+all'uso umano, perci@o ch'ei servono per ricompensazione delle cose 
+necessarie agli uomini. I quali, dove a voler vivere @e necessario 
+ch'ei barattino l'un con l'altro di quelle cose ch'eglino hanno 
+(perci@o ch'ei non @e alcuno, si pu@o dire, che abbia di tutte le cose 
+ch'egli ha bisogno, ma chi ha del grano lo d@a per aver del vino), 
+trovorono, per facilitare tai baratti, il danaio; perci@o che molte 
+volte quelle cose, di che altrui ha bisogno, son tanto lontane, ch'egli 
+@e difficile mandarvi di quelle che altrui ha, dove si manda in tai 
+luoghi per ricompensa il danaio; e per questa cagione egli fu 
+introdotto dagli uomini, ed @e grandemente utile e necessario. 
+Ricercando, come ho detto, il Filosofo ed esaminando i modi da 
+guadagnare detto danaio, dice ch'ei sono due; il primo de' quali @e 
+chiamato da lui ^naturale~, e il secondo ^usuraio~. Il naturale dice il 
+Filosofo ch'@e quello dove il danaio serve per ricompensa e 
+permutazione delle cose necessarie alla natura; onde @e da 'l Filosofo, 
+come necessario, sommamente lodato: e l'usuraio @e quello, dove il 
+danaio non serve solamente per fare altro che danaio, e accrescere s@e 
+stesso; onde @e meritamente biasimato, come quello che non acquista per 
+via di natura, ma acquista per via di torsi gli uomini le facult@a 
+l'uno all'altro. Onde non essendo usato il danaio nella usura a quel 
+fine ch'ei fu trovato (il quale fu, come si @e detto, per facilitare il 
+barattare), ma solamente per accrescere s@e stesso, viene a essere tal 
+modo di guadagnare grandemente contro a natura; onde fu riputato da lui 
+nella ^Etica~ il guadagno de' feneratori e degli usurai simile a quel 
+de' barattieri e de' ladri, turpe e biasimevole. Per questa cagione 
+adunque risponde Virgilio al Poeta nostro che l'usuraio offende Dio, 
+perch@e egli opera contro a natura; perci@o che la natura fa 
+multiplicare le cose per via di generazione, nella qual generazione 
+quel che si genera di nuovo si genera di qualche altra cosa che si 
+corrompe; e lo usuraio multiplica il danaio senza corruzione di cosa 
+alcuna; perci@o che il capitale suo sta fermo, e non si diminuisce o 
+corrompe in parte alcuna, non essendo uso alcuno nel danaio onde ei si 
+logori o peggiori, come avviene di quelle cose che usandole si 
+peggiorono, onde @e lecito pigliare premio del prestarle. Non offende 
+adunque l'usuraio ^immediatamente~ Dio, ma ^mediante la natura~, la 
+quale egli chiama, per le parole del testo, figliuola di Dio; perci@o 
+ch'ella non @e altro che quello ordine e quella regola, con la quale 
+Dio ha disposto ab eterno che si produchino, mantenghino e governino le 
+cose. E questo ordine debbono imitare l'arti, se elle vogliono essere 
+veramente arti; perci@o che, facendo altrimenti, elle meritono pi@u 
+tosto di essere chiamate fallacie o astuzie, o modi da votar la borsa 
+d'altri ed empiere la sua, che arti. Il nipote del Poeta, esponendo 
+questo luogo, divide la natura in ^natura naturante~, e in ^natura 
+naturata~; ch@e questi sono i suoi termini; e la ^natura naturante~ 
+dice essere Dio, prima causa e creatore e governatore e mantenitore di 
+tutte le cose; e la ^natura naturata~, quello ordine col quale ei d@a 
+loro l'essere, e dipoi le mantiene e le governa, mediante i cieli e le 
+altre cause seconde. E questa ^natura naturata~ dice questo espositore 
+che si chiama l'arte di Dio, perci@o che con questa egli opera e 
+procede nelle cose. Ora, perch@e lo usuraio non tiene, nello accrescere 
+e multiplicare il danaio, l'ordine della ^natura naturata~, ei dice 
+ch'egli offende ed opera contra alla natura naturata: e cos@i vuole che 
+s'intenda questo espositore, allegando l'autorit@a di Seneca nel libro 
+^De' benefici~, che quando ei si dice d'imitare la natura, ei non si ha 
+intendere Dio, ma l'ordine con il quale egli ha disposto che procedino 
+le cose. Dice adunque Virgilio a Dante (tornando al testo), per 
+solvergli la sua dubitazione con le ragioni naturali: la filosofia, 
+cio@e la scienza naturale, dimostra in pi@u d'un luogo che la natura, 
+cio@e quell'ordine con il quale procedono ordinariamente le cose, 
+^prende il suo corso~ e la sua regola ^da 'l divin intelletto~, e ^da 
+l'arte~ ch'egli ha determinata e posta nel successo delle cose; e ^se 
+tu ben noti la tua Fisica~ (che @e quel libro dove Aristotile tratta 
+de' principii delle cose naturali, cio@e della materia e della forma e 
+degli accidenti conseguenti alla generazione delle cose, come sono la 
+privazione, il luogo, il tempo, e le cause e ^finale~ e ^agente~), tu 
+troverrai, poco dopo il principio, che ^l'arte~ vostra imita sempre 
+essa natura, in quel modo che imita il discepolo il suo maestro, il 
+pi@u ch'ella pu@o. Da la qual cosa ei cava questo corollario, che 
+l'arte nostra viene a essere (essendo per tal cagione come figliuola 
+della natura, ch'@e figliuola di Dio) ^quasi nipote~ di esso Dio. Ove 
+ei pose questa limitazione ^quasi~, perch@e le vere successioni sono 
+quando il successore @e del tutto simile a colui al quale ei succede e 
+dal quale ei procede; e questo non si verifica mai totalmente nella 
+successione dell'arte alla natura; perci@o che l'arte non arriva mai 
+alla perfezione della natura, e oltre di questo la natura per s@e 
+stessa non erra mai, e non @e mai defettuosa; e l'arte erra infinite 
+volte, ed @e quasi sempre defettuosa.
+
+	|106-111.~  Dopo questo seguita il testo:
+
+   ^Da queste due, se tu ti rechi a mente~
+   ^Lo Genesi dal principio, conviene~
+   ^Prender sua vita, ed avanzar la gente.~
+
+   ^E perch@e l'usuraio altra via tiene,~
+   ^Per s@e natura, e per la sua seguace~
+   ^Dispregia, poi che in altro pon la spene.~
+
+Da poi che Virgilio ha soluto a Dante la sua dubitazione con le ragioni 
+e con l'autorit@a della filosofia naturale, egli gliene solve (come 
+ammaestrato, e mandato a trarlo di simili errori da Beatrice, cio@e 
+dalla Teologia cristiana) con l'autorit@a delle sacre scritture, 
+tenendo quel modo che tengono in molte cose quei teologi che hanno 
+avuto cognizione della filosofia naturale, cio@e di dimostrare ch'essa 
+filosofia @e in tutte le verit@a sue conforme alla teologia. Onde gli 
+dice: se tu ^ti rechi a mente~, cio@e vai ben considerando, il 
+principio del Genesi, scritto da Moses per illuminazione dello Spirito 
+Santo, tu vedrai che alla generazione umana ^conviene~, cio@e debbe, 
+^prendere~ e cavare il suo vitto ^da queste due~, cio@e da la natura e 
+dall'arte. Questo luogo esponendo il Landino, dice ch'egli @e scritto 
+nel principio del Genesi cos@i: ^oportuit ab initio saeculi humanum 
+genus sumere vitam et excedere unum alium per naturam et artes~. Le 
+quali parole non @e dubbio alcuno che non posson esprimere meglio la 
+mente del Poeta; ma il fatto @e ch'elle non vi sono in luogo alcuno; 
+per il che io dubito che questo non fusse nel Landino uno error di 
+penna o di memoria, perch@e, se bene mi ricordo, questa @e un'autorit@a 
+di Lattanzio Firmiano. Onde il Landino err@o con la penna, ponendo per 
+Lattanzio il Genesi, o egli err@o con la memoria, pensandosi ch'ella 
+fusse del Genesi, ed ella @e di Lattanzio. Egli @e ben vero che il 
+senso di tali parole si cava nel principio del Genesi da la istoria di 
+Adam, primo nostro padre, e di Cain e di Abel suoi figliuoli, e di 
+Lamec suo nipote, leggendosi che Dio disse a Adam, discacciato ch'egli 
+lo ebbe del Paradiso terrestre: la terra, maladetta per il peccato 
+della tua disubbidienza, non ti produrr@a per s@e stessa se non triboli 
+e spine; nientedimanco tu viverai de' frutti di quella, mangiando il 
+pane nel sudore del volto tuo. Perci@o che queste parole non voglion 
+dire altro, se voi le notate bene, se non che se Adam voleva vivere, ei 
+bisognava ch'ei traessi il suo vitto, mediante l'arte, da i frutti 
+della natura, che sono le biade, i pomi, e gli animali e domestichi e 
+salvatichi. Onde voi vedete che i descendenti di Adam si dettono 
+subitamente all'arti che fanno produrre con fertilit@a frutto a la 
+natura, e a trar frutto degli animali e salvatichi e domestichi; onde 
+Abel fu cultivatore di campi, Cain pastore e governatore di armenti, e 
+Lamec cacciatore; ch@e queste sono solamente l'arti naturali, e con le 
+quali l'uomo debbe nutrirsi e avanzare, come dice il testo. N@e avete 
+solamente questo da 'l lume divino e da la Scrittura; ma voi lo avete 
+ancor da 'l lume della ragione e da la filosofia naturale, scrivendo 
+Aristotile (che non cammin@o con altro lume che col naturale) nel primo 
+libro della ^Politica~, nel quinto capitolo, che tre son solamente 
+l'arti, con le quali gli uomini si procacciono naturalmente il vitto; 
+l'agricultura, [la pastorizia, e la caccia]. Perci@o che (come egli 
+dice) la maggior parte degli uomini vivon di frutti domestichi; 
+soggiugnendo ch'essi frutti domestichi son prodotti da la natura, con 
+l'aiuto dell'arte umana, principalmente pell'uomo, e i salvatichi e le 
+piante per gli animali; e gli animali domestichi per uso e per 
+nutrimento dell'uomo; e i salvatichi, se non tutti, almeno la pi@u 
+parte, e per nutrimento e per altri bisogni, cio@e per trarne 
+vestimenti e altri servigi. E queste son le parole propie del Filosofo 
+in quel luogo, secondo la traduzione del nostro Bernardo Segni, la 
+perdita del quale non fu certamente piccola alla nostra Accademia. Non 
+@e adunque nel Genesi l'autorit@a che allega il Landino; ma ei vi @e 
+bene, come voi vedete, il senso. E per@o Virgilio, se voi avvertite, 
+non dice a Dante: se tu ti arrechi a mente e ti ricordi il tuo Genesi, 
+ei dice cos@i, o egli vi @e scritto cos@i; ma dice: tu vi troverrai che 
+^la gente~, cio@e la generazione, ^conviene~, cio@e debbe, cavare il 
+suo vitto e ^avanzare~, cio@e guadagnare, ^da queste due cose~, da la 
+natura e dall'arte. Per il che egli conclude, in soluzione del dubbio 
+mossogli da Dante, che l'usuraio, perch@e ei tiene ^altra via~ e altri 
+modi ne l'avanzare e nel guadagnare, che questi ordinati da la natura, 
+disprezza ^per s@e~, cio@e prima e principalmente, essa natura (non 
+tenendo quel conto e non facendo quella stima ch'egli doverrebbe di 
+lei), e dipoi Dio, mediante la ^sua seguace~, cio@e essa arte usuraia, 
+la quale le @e, per le ragioni dette disopra, contraria; perci@o 
+ch'egli ^pone la speme~, cio@e cerca di avanzare con altri modi che 
+quei che ha ordinati essa natura. E in tal modo avendo soluto Virgilio 
+il dubbio di Dante, si partiron di quivi, come voi intenderete nella 
+lezione seguente.
+
+	|112-115.~  [LEZIONE DECIMA]
+
+   ^Ma seguimi ormai, che il gir mi piace;~
+   ^Ch@e i pesci guizzan su per l'orizzonta,~
+   ^E tutto il Carro sopra il Coro iace,~
+
+   ^E il balzo via l@a oltre si dismonta.~
+
+Grande arte e gran diligenza usa il Poeta per tutto questo suo Inferno 
+nella narrazione e descrizione del tempo. Io non parlo solamente di 
+quello nel quale egli finge essergli avvenuta questa visione. Il qual 
+termine di tempo @e chiamato dal Filosofo ne' suoi ^Predicamenti~ il 
+^quando~, dicendo ch'egli @e simile a l'^ove~. Con ci@o sia che, come 
+tutte le cose che sono in luogo, sono in qualche parte particulare di 
+quello, e questa @e chiamata da lui ^ove~, cos@i ancor similmente tutte 
+le cose che sono in tempo, sono in un termine particular di quello, il 
+quale @e chiamato da lui ^quando~. Perci@o che di questo ^quando~ 
+tratta ordinariamente ciascun che piglia a scriver cose avvenute, come 
+pu@o veder ciascuno; e il Poeta nostro lo fece nel principio, quando ei 
+dimostr@o tal visione essergli apparsa ^Nel mezzo del cammin di nostra 
+vita;~ s@i che io non parlo di questo ^quando~, e di questo termine di 
+tempo particulare; ma parlo di tutto il tempo ch'egli consum@o nel 
+viaggio ch'egli fece da s@e, smarrito nella selva, e dipoi seguitando 
+Virgilio per il cammino alto e silvestro che arriva alla porta de 
+l'Inferno. E ci@o @e fatto da lui, come io ho detto, non solamente con 
+diligenza, ma con arte e dottrina grandissima; perci@o che tutti i 
+tempi ch'egli narra son descritti da lui, o sotto qualche finzione 
+poetica, come @e per grazia di esempio quello:
+
+   ^La concubina di Titone antico~
+   ^Gi@a s'imbiancava al balzo d'oriente;~
+
+o per via e mezzo di qualche termine di astrologia, come questo:
+
+   ^I pesci guizzan su per l'orizzonta,~
+   ^E tutto il Carro sopra il Coro iace.~
+
+La quale descrizion de' tempi, chiamata ancor da i Latini, nel modo che 
+la chiamano i Greci, ^cronografia~, fa certamente oltre a modo 
+dottissimo e bellissimo questo suo poema. E chi vuol vedere quanto tal 
+cosa sia osservata ordinatamente da lui, consideri come, cominciando 
+egli a narrare, da poi ch'egli ebbe detto il ^quando~ nel quale gli 
+avvenne questa sua visione, egli descrive primieramente l'ora nella 
+quale egli si ritrov@o smarrito nella selva, dicendo ch'ei fu in su 
+l'apparir del giorno; il che @e dimostro da lui, dicendo che poi ch'ei 
+fu appi@e d'un colle giunto,
+
+   ^Guard@o in alto, e vide le sue spalle~
+   ^Vestite gi@a de' raggi del pianeta,~
+   ^Che mena dritto altrui per ogni calle.~
+
+E perch@e, se bene egli aveva racconto l'anno e l'ora del giorno nel 
+quale tal cosa gli avvenne, egli non aveva detto n@e il mese n@e il 
+giorno, egli, per non ne mancare, dimostra primieramente il mese che 
+tal cosa fu, dicendo: il sole montava e ascendeva sopra il nostro 
+orizzonte con quelle stelle,
+
+   ^Ch'eran con lui, quando l'amor divino~
+   ^Mosse da prima queste cose belle,~
+
+cio@e quando il sole @e in Ariete; nel qual tempo tengono comunemente 
+(come noi vi dicemmo allora) i teologi che ^fusse mosso~, cio@e creato, 
+da Dio il cielo e la terra, e avesse principio il mondo. E dipoi, 
+perch@e da tal descrizione non si pu@o cavare il giorno particulare nel 
+quale gli occorse tal cosa, stando il sole in tal segno da i tredici di 
+marzo a i tredici d'aprile, egli, per dimostrare qual ei fusse, fa dire 
+pi@u gi@u a Malacoda demonio:
+
+   ^Ier, pi@u oltre cinque ore che questa otta,~
+   ^Milledugento con sessantasei~
+   ^Anni compi@er, che qui la via fu rotta.~
+
+Le quali parole mostrando il Poeta, come noi vi dimostrammo gi@a, che 
+Malacoda dicesse il giorno del sabato santo, dimostrano chiaramente che 
+il giorno ch'egli si smarr@i fu il venerd@i santo dell'anno 1300; che 
+fu, secondo che si ritruova per le scritture, quell'anno a' d@i VIIII 
+d'aprile. Questo giorno del venerd@i santo avendo consumato il Poeta, 
+smarrito nella selva, parte schermendo con quelle tre fiere, da le 
+quali egli scrive che gli fu impedito il cammin del salire al monte, e 
+parte ragionando con l'ombra di Virgilio che gli apparse, se gl'invi@o 
+finalmente dietro. Nel narrare della qual cosa, che fu (come si @e 
+detto), in su il fine del giorno, egli descrive poeticamente l'ora, 
+dicendo:
+
+   ^Lo giorno se ne andava, e l'aer bruno~
+   ^Toglieva gli animai, che sono in terra,~
+   ^Dalle fatiche loro,~
+
+e quel che segue. Entrando dipoi il Poeta, seguitando Virgilio, 
+nell'Inferno, e ritrovandosi nello scendere nel cerchio degli avari in 
+su le sei ore di notte, egli medesimamente descrive per via 
+d'astrologia il tempo, dicendo:
+
+   ^Gi@a ogni stella cade, che saliva~
+   ^Quando mi mossi.~
+
+Perci@o che, girando il cielo stellato la terra in ventiquattro [ore], 
+tutte le stelle mutono ogni sei ore, rispetto a noi, cammino; onde 
+quelle che sono ascese al nostro meridiano cominciono a descendere 
+all'orizzonte. Per la qual cosa, cominciando a scender quelle che 
+salivano quando Virgilio mosse il passo, che fu in sul far della sera, 
+bisognava ch'ei fusse in su le sei ore; che in quel tempo era circa a 
+mezza notte, essendo circa allo equinozio, nel quale @e dodici ore il 
+giorno e dodici la notte. E ora finalmente, volendo il Poeta partirsi 
+dal cerchio degli eretici per scender in quel de' violenti, egli 
+descrive medesimamente il tempo, mostrando con un bel modo astrologico 
+come egli era in su lo apparir dell'alba; onde dice:
+
+   ^I pesci guizzan su per l'orizzonta;~
+   ^E il Carro tutto sopra il Coro iace.~
+
+E cos@i va sempre facendo di mano in mano per tutto l'Inferno; ma non 
+gi@a poi nel Purgatorio, n@e manco nel Paradiso. La qual cosa, se bene 
+ella non @e stata notata da espositore alcuno, non @e da pensare che 
+sia stata fatta da 'l Poeta senza considerazione e arte, ma 
+pensatamente, e per ammaestramento e dottrina de' lettori, come si vede 
+ch'egli ha fatte tutte l'altre cose sue. Al che pensando io, mi son 
+risoluto finalmente che l'intenzion del Poeta, e quel ch'egli abbia 
+voluto significare, sia quello ch'io vi dir@o, fatto ch'io ar@o 
+(perch@e voi m'intendiate meglio) prima questi tre presuppositi. Il 
+primo presupposito necessario da farsi @e, che il tempo non @e 
+realmente altro che il moto del cielo; ma chiamato ^tempo~ (come io vi 
+dissi esponendo gi@a quel sonetto del Petrarca: ^O tempo, o ciel 
+volubil, che fuggendo~), quand'ei non si considera come moto solo, ma 
+come misura degli altri moti, in quel modo che si chiama una aste di 
+legno, di lunghezza di quattro braccia, quando ella si considera come 
+misura delle longitudini, ^canna~, e non ^mazza~ o ^aste~. Il secondo 
+@e, che i corpi nostri, per essere composti di materia elementare, sono 
+ancora eglino, come tutte l'altre cose elementari, governati e alterati 
+e mossi da i moti celesti, secondo gli aspetti e gl'influssi loro. E il 
+terzo (e questo @e di Galeno) @e, che l'anime nostre seguitono il pi@u 
+delle volte, per la unione e legamento maraviglioso ch'elle hanno co' 
+corpi, le passioni e le inclinazioni loro. Queste cose cos@i 
+considerate da noi ci dimostron manifestamente, che lo aver trattato 
+tanto il Poeta nostro del tempo nell'Inferno, e poco nel Purgatorio, e 
+non punto nel Paradiso, non vuole significare altro, se non che l'uomo 
+@e alterato e travagliato totalmente dal cielo, solamente quando ei si 
+esercita, e d@a luogo a quelle passioni che son fondate totalmente nel 
+corpo e nella parte nostra sensitiva, delle quali nascono dipoi in noi 
+i vizii, e quelle azioni che ci conducono in una confusione, simile 
+alle pene infernali; e che quanto egli pi@u se ne purga e se ne 
+spoglia, pi@u diventa libero ed @e manco travagliato da le inclinazioni 
+e influssi celesti, e conseguentemente da 'l tempo. E quando egli ne 
+resta purgato e spogliato, di maniera ch'ei non desideri pi@u se non il 
+bene (onde resti in lui, come dice il Poeta, libero, dritto e sano 
+l'arbitrio suo), egli ascende a quella quiete e a quella tranquillit@a 
+celeste, nella quale vivono, senza esser sottoposte e travagliate da 'l 
+tempo, in sempiterna pace l'anime beate. E questa dottrina cav@o, 
+secondo me, il Poeta da quel detto di San Tommaso, quando, dividendo ei 
+tutti gli enti in ^corruttibili~ e ^generabili~, come sono tutte le 
+cose sublunari, e in ^perpetue~, cio@e che son prodotte, ma duron dipoi 
+sempre, come sono gli angeli e l'anime nostre, ed in ^eterne~ come @e 
+Dio, il quale non ebbe mai principio n@e manco ar@a fine, pone per 
+misura delle corruttibili il ^tempo~, cio@e il moto del cielo, delle 
+perpetue l'^evo~, il quale ei mette che sia un mezzo fra l'eternit@a e 
+il tempo, e dell'eterne la ^eternit@a~. Onde mette sempre nell'Inferno 
+il tempo, perch@e ei tratta de' vizii, che son passioni dell'anime 
+congiunte col corpo in vita; e nel Purgatorio non parla se non di quel 
+tempo che vi ha a stare chi si purga, perch'ei parla delle anime in 
+quanto elle camminano alla eternit@a; e in Paradiso non parla del tempo 
+in modo alcuno, perch@e quivi non ha luogo in modo alcuno trasmutazione 
+n@e tempo, non essendo altro la ^eternit@a~, come dice Boezio, ^nisi 
+interminabilis vitae tota simil et perfecta possessio~. Per questa 
+cagione adunque, tornando al proposito nostro, procede il Poeta per 
+tutto questo suo Inferno secondo il tempo, e lo descrive cos@i spesso, 
+e particularmente in questo luogo; ove volendosi partire, come si disse 
+disopra, del cerchio degli eretici per descendere pi@u al basso in quel 
+de i violenti, che gli @e, si pu@o dire, contiguo, ed essendo in su 
+l'apparir dell'alba, egli dice:
+
+   ^I pesci guizzan su per l'orizzonta,~
+   ^E il Carro tutto sopra il Coro iace.~
+
+Ove per intendere come il Poeta dimostri con questo termine 
+d'astrologia, che guizzando i pesci su l'orizzonte, e iacendo tutto il 
+Carro sopra il Coro, ch'ei fusse in su lo apparir dell'aurora nello 
+emispero nostro, @e necessario sapere che i Pesci, segno celeste, sono 
+una di quelle dodici parti, nelle quali gli astrologi hanno divisa 
+quella striscia del cielo stellato chiamata il Zodiaco, sotto la quale 
+camminon continuamente i sette pianeti con il lor moto naturale, cio@e 
+da ponente verso levante, girando il cielo chi in pi@u e chi in manco 
+tempo (come verbigrazia il sole in un anno, e la luna in ventinove 
+giorni, per parlar de' pi@u noti), ancor che ciaschedun di loro, mentre 
+ch'ei bada a fare il suo cammino, sia tirato e fatto girare da esso 
+cielo stellato, ogni giorno una volta, da levante a ponente. Ed @e 
+quella parte di detto Zodiaco, sotto la quale cammina ogni anno il sole 
+da i nove di febraio a i dieci di marzo in circa; ed @e fatto dagli 
+astrologi questo segno di trentanove stelle, come pu@o vedere in Igino 
+ciascun che vuole, e con questa figura di due pesci, per rispetto alla 
+umidit@a della stagione e della primavera che incomincia allora. Onde 
+fingono i poeti, per detta cagione, che tali pesci furon posti in cielo 
+da Venere e da Cupido, principii d'ogni nuova generazione; e ne @e 
+trattato a lungo da 'l Landino e dagli altri espositori. Di questo 
+segno de' Pesci parlando adunque il Poeta nostro, e volendo dimostrare 
+come egli era appunto in su l'orizzonte, dice, per non uscir della 
+metafora, ch'ei ^guizzavano~; il che @e proprio de' pesci; con ci@o sia 
+che ^guizzare~ sia quel dibattersi e muover frequentemente l'ali e la 
+coda, andando in qua e in l@a, che fanno i pesci, quand'ei si vanno 
+trattenendo per l'acqua. Perci@o che, essendo eglino allora sopra il 
+nostro orizzonte, veniva a esser appunto l'aurora, e come noi usiamo 
+dir vulgarmente, ad apparir l'alba. Imper@o che, penando tal segno a 
+salir tutto sopra il nostro orizzonte un'ora e circa a sei minuti, e 
+altanto similmente il segno dello Ariete che lo seguita, e ritrovandosi 
+allora il sole (come si @e detto disopra) ne' ventiquattro o 
+venticinque gradi dello Ariete, veniva a essere almanco pi@u d'una 
+mezza ora inanzi allo apparire del sole, e conseguentemente l'alba, e 
+presso al cominciar del giorno. Il che dimostra anco medesimamente il 
+Poeta con questo altro termine d'astrologia, dicendo: ^E il Carro tutto 
+sopra il Coro iace.~ Il Carro, o veramente l'Orsa maggiore secondo 
+alcuni altri, @e una di quelle figure e di quelle immagini che fingono 
+e pongono gli astrologi in cielo, per aver mediante quelle notizia 
+delle stelle fisse; ed @e fatta e composta da loro questa figura di 
+sette stelle assai chiare e belle, le quali si girono ogni giorno 
+naturale, e ogni ventiquattro ore, una volta intorno alla nostra 
+tramontana, o per me' dire, intorno al nostro polo. Perci@o che ov'@e 
+propiamente il nostro polo, non @e stella alcuna, secondo che si prova 
+per gl'instrumenti astronomici; ma la pi@u pressa che sia a quel punto 
+@e quella che noi chiamiamo vulgarmente Tramontana, la quale @e 
+discosto da detto polo, cio@e da 'l punto, circa a due gradi. E perch@e 
+di queste sette stelle quattro ne sono poste in figura quadrata, e tre 
+son dipoi distese fuori di esso quadro, onde figurano un carro col 
+timone, o vero antenna, elle son chiamate (come fa ancora qui il Poeta 
+nostro) ^Carro~; ancor che alcuni altri figurano con tali stelle uno 
+animale, facendo delle quattro il corpo, e delle tre la coda, e ponendo 
+nel fine della coda quella che noi chiamiamo Tramontana; il quale 
+animale @e chiamato dipoi da loro ^Orsa maggiore~, a differenza 
+d'un'altra ^Orsa~ che le @e appresso, come pu@o vedere chi vuole nelle 
+figure settentrionali di Benvenuto da la Golpaia e d'altri. Questo 
+Carro essendo tanto appresso, quanto si @e detto, al nostro polo, non 
+viene a tramontar mai n@e a perdersi mai ne' paesi nostri di veduta, 
+essendo il polo nostro di Firenze elevato sopra il nostro orizzonte 
+quarantatr@e gradi e circa a due terzi. Per il che, non tramontando 
+egli mai, ma aggirandosi, come si [@e] detto, ogni ventiquattro ore una 
+volta intorno al polo, si pu@o cavar da lui, a ogni parte della notte e 
+del giorno (se le stelle si scorgesser di giorno, come si fa di notte), 
+che ora sia, secondo ch'egli @e volto inverso questa o quella parte del 
+nostro cielo. E Pietro Appiano ne insegna nel suo ^Oroscopio generale~ 
+la regola infallibile e certa; secondo la quale camminando chi vuole 
+ritrovar tal cosa, vedr@a che questo segno del Carro non @e mai volto, 
+quando il sole @e circa il fine dello Ariete, verso quella parte del 
+cielo onde viene a noi il vento ^Coro~, chiamato da' Latini ^Argeste~, 
+e da' moderni ^Maestro~ (la qual parte @e tra settentrione e ponente), 
+se non in su quel punto che apparisce l'aurora. E per@o il Poeta 
+nostro, volendo dimostrare come egli era l'alba, dice che il ^Carro~, 
+cio@e la figura della quale noi abbiamo parlato, ^iaceva~ ed era volta 
+(perch@e non si ha a intendere ch'ella si posasse, avendo noi detto 
+ch'ella gira sempre, bench@e quasi insensibilmente, rispetto a le 
+piccole circulazioni ch'ella fa per esser s@i presso al polo), ^sopra 
+il Coro~, cio@e inverso quella parte da la quale ha origine e viene 
+inverso di noi il vento Coro, o vero Maestro, che noi abbiamo detto. 
+Dopo la quale descrizione del tempo, Virgilio gli dimostra ancora il 
+luogo, donde eglino hanno camminando a descender nello altro girone, 
+dicendo: ^E il balzo via l@a oltre si dismonta;~ dicendo: ^e via l@a 
+oltre~, cio@e lontano alquanto da questo luogo ove noi siamo, ^si 
+dismonta~ e si scende ^il balzo~, cio@e da questo cerchio in quello che 
+ci @e disotto; chiamando questo di sopra ^balzo~, perch@e egli 
+s'inalzava da quel di sotto, in quel modo che fa una palla, quando @e 
+percossa e battuta in terra; ch@e da questa similitudine si chiama 
+^balzo~ ogni costa di monte, che s'inalza ed eleva quasi che per lo 
+ritto e perpendicularmente da le sue radici. E qui pone il Poeta 
+ultimamente fine, per non affaticar pi@u le orecchie de' lettori, a 
+questo capitolo.
+
+LETTURA SESTA SOPRA LO INFERNO FATTA ALL'ACCADEMIA FIORENTINA NEL 
+CONSOLATO DI M. LIONARDO TANCI MDLX
+
+AL SUO MOLTO CARO TOMMASO BARONCELLI IN ANVERSA GIOVAMBATISTA GELLI
+
+	Io ho sentito infinite volte dire, Tommaso mio amatissimo, che il 
+fuoco, nobilissimo fra gli elementi, e l'amicizia, utilissima fra le 
+virt@u, mancono e finiscono nel modo medesimo. Perci@o che il fuoco 
+manca, come egli gli manca l'esca che lo nutrisce; e l'amicizia, come 
+gli mancon le cagioni che la mantengono. La qual cosa non voglio io per 
+ora ricercare se ella @e del tutto vera o no. Ma io vo' ben dir questo, 
+che come ei si truova del fuoco che non vien mai meno; e questo @e quel 
+che, standosi nella sua sfera, @e in materia, la quale @e tanto 
+appropriata alla natura sua, ch'ella lo mantien sempre; cos@i si 
+truovano ancor similmente delle amicizie che non mancon mai. E queste 
+sono tutte quelle che son fondate in su la virt@u. La quale @e, ancora 
+ella, materia tanto propia dell'amicizia, ch'ella la conserva sempre. 
+Non @e adunque maraviglia, se avendo avuto la nostra per fondamento 
+essa virt@u, ella non @e mai n@e per mancamento di conversazione e di 
+faccende, n@e per lontananza di tempo, o qual si voglia altra cagione, 
+non solamente mancata, ma diminuita punto di quel ch'ella @e stata 
+sempre. Laonde non @e mai mancato pure un sol voltar di luna, che noi 
+non ci abbiamo, gi@a tanti anni sono, scritto l'un all'altro, solamente 
+per sapere almeno quel che fusse di noi. Nel qual mentre avendomi voi 
+per liberalit@a e gentilezza vostra usate molte cortesie, e desiderando 
+io rendervene qualche contracambio, vi mando questa mia Sesta Lettura 
+di Dante, con quel medesimo desiderio di far cosa che vi sia grata, 
+ch'io feci gi@a similmente la prima opera che fusse mai data da me alla 
+stampa. Accettatela adunque ancor voi col medesimo animo che voi 
+faceste quella, tenendola per certa testimonianza che io non vi ami 
+manco or che io vi son lontano, che io mi facessi quando io conversava 
+continuamente con voi. E vivete felice.
+
+	Di Firenze, l'anno MDLXI.

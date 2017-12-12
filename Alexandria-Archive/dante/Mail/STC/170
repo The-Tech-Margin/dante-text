@@ -1,0 +1,53 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id NAA17620
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 13:06:07 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id NAA26196
+	for <Stephen.Campbell@DARTMOUTH.EDU>; Sat, 9 Jan 1999 13:06:07 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 60119 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68073-1450>; Sat, 9 Jan 1999 13:05:52 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA22126
+	for <Stephen.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 13:05:49 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA20903;
+	Sat, 9 Jan 1999 13:05:47 -0500 (EST)
+Message-ID: <36979A8F.568AB959@princeton.edu>
+Date: 	Sat, 09 Jan 1999 13:06:07 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+CC: bobh@phoenix.Princeton.EDU
+Subject: Re: graziolo
+X-Priority: 3 (Normal)
+References: <199901052207.RAA22207@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Check doc 416 (Inf. 34.61-62). Looks like there's an unmatched ".
+
+It only looks that way.  The editor, Rossi, used his own method, and
+I've let him (it's his text).  E.g., quotation starts "offstage," as it
+were: "blblblblblblah |and here comes our text:| blblblblbah."  
+Got it?  This will apply once more in my Graziolo responses.  In fact
+there are TONS of these in him.
+ 
+> Check doc 418 (Inf. 34.68-69). Looks like an unmatched [ in the text
+> "[Inf. 1,
+> 105a}, cum..."
+
+Now this one is a Bob error: you're right.  It should go "[Inf. 1,
+105a]}, cum..."  ADD that final square bracket
+> 
+> The desc file for him has "<Inferno>" in it, which renders as Euro
+> quotes. Is
+> that what you want?
+
+Yes.  Is there a problem?
+
+All for this one, Bob

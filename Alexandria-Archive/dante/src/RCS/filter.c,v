@@ -1,0 +1,113 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @ * @;
+
+
+1.1
+date     85.07.18.12.40.59;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@A skeleton program for filtering dante text.
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@/*
+ *	This file is a skeleton for a filter program.  Modify as needed.
+ *
+ *	Usage
+ *		<name>  [flags]	[ <infile>  [ <outfile> ] ]
+ *
+ *		File names default to stdin and stdout respectively.  If
+ *		<infile> is "-", stdin is used.
+ *
+ */
+
+
+#include <stdio.h>
+#include <signal.h>
+#include <sgtty.h>
+
+int cleanup();
+struct sgttyb ttybuf;
+int filedes;
+
+main(argc,argv)
+	int argc;
+	char *argv[];
+{
+	char *pgmname = argv[0];
+	char errmsg[100];
+
+	while (--argc > 0 && **++argv == '-' && *((*argv)+1)) {
+		switch (*(++*argv)) {
+			case 'p':
+				pflag++;
+				break;
+			default:
+				fprintf(stderr,"%s: bad arg: %s\n",pgmname,*argv);
+				exit (1);
+		}
+	}
+
+	switch (argc) {
+	case 1:				/* no file names */
+		break;
+	case 2:				/* inputfile only */
+		goto openin;
+	case 3:
+		if (freopen(argv[2],"a",stdout) == NULL) {
+			sprintf(errmsg,"%s: %s", pgmname, argv[2]);
+			perror(errmsg);
+			exit (1);
+		}
+openin:
+		if (strcmp(argv[1],"-")) {
+			if (freopen(argv[1],"r",stdin) == NULL) {
+				sprintf(errmsg,"%s: %s", pgmname, argv[1]);
+				perror(errmsg);
+				exit (1);
+			}
+		}
+	}
+
+	if (isatty(filedes = fileno(stdout))) {
+		if (ioctl(filedes,TIOCGETP,&ttybuf) == -1) {
+			perror("filter: ioctl TIOCGETP");
+			exit(1);
+		}
+		ttybuf.sg_flags |= RAW;
+		if (ioctl(filedes,TIOCSETP,&ttybuf) == -1) {
+			perror("filter: ioctl TIOCSETP");
+			exit(1);
+		}
+	}
+	if (signal(SIGINT, SIG_IGN) != SIG_IGN)
+		(void)signal(SIGINT, cleanup);
+
+	while (fgets(...)) {
+	}
+
+	cleanup();
+}
+
+
+cleanup()
+{
+	if (filedes) {
+		ttybuf.sg_flags &= ~RAW;
+		(void)ioctl(filedes,TIOCSETP,&ttybuf);
+	}
+	exit(0);
+}
+@

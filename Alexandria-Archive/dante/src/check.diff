@@ -1,0 +1,3 @@
+< 	int tootildes = 0;
+< 			else ++tootildes;;
+< 	fprintf(stderr,"Warning: %d extra tildes\n", tootildes);  

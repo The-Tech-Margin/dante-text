@@ -1,0 +1,188 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id TAA12821
+	for <steve@avalon.dartmouth.edu>; Sun, 21 Feb 1999 19:21:56 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id TAA04058
+	for <Steve.Campbell@Dartmouth.edu>; Sun, 21 Feb 1999 19:21:55 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 35736 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67534-2924>; Sun, 21 Feb 1999 19:21:17 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id TAA02088
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Feb 1999 19:21:03 -0500 (EST)
+Received: from flagstaff.Princeton.EDU (flagstaff.Princeton.EDU [128.112.131.154])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id TAA17272
+	for <Steve.Campbell@dartmouth.edu>; Sun, 21 Feb 1999 19:21:02 -0500 (EST)
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.9.1/8.9.1) id TAA21890
+	for Steve.Campbell@dartmouth.edu; Sun, 21 Feb 1999 19:21:01 -0500 (EST)
+Message-Id: <199902220021.TAA21890@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sun, 21 Feb 1999 19:21:01 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+
+Additional errors to be added to list "errata.99" sent to Steve
+2/19/99:
+
+LOMBARDUS
+		PURG.
+25.43-45	ssfongo		sfongo
+
+BENVENUTO
+		PURG.
+ 1.4-6		oethera		aethera
+
+CODICE CASSINESE
+		INFERNO
+ 2.Nota		virgillii	virgilii
+
+BUTI
+		INFERNO
+21.88-139	Virigilio	Virgilio
+23.58-72	Virglio		Virgilio
+
+VELLUTELLO
+		INFERNO
+12.100-102	Virglio		Virgilio
+15.100-102	Virglio		Virgilio
+
+PORTIRELLI
+		INFERNO
+20.54-57	Virigilio	Virgilio
+
+LOMBARDI
+		PURG.
+24.129		aaccordano	accordano
+
+		PARADISO
+ 1.28		Tthesaur.	Thesaur.
+26.105		eerta		certa
+
+TOMMASEO
+		INFERNO
+ 2.76-78	oeterna		aeterna
+ 4.67-69	oether		aether
+
+BIANCHI
+		PARADISO
+16.10		Virigilio	Virgilio
+
+ROSSETTI
+		INFERNO
+34.94-99	Virigilio	Virgilio
+
+SIENA
+		INFERNO
+ 2.61		cc.		ec.
+11.73		cc.		ec.
+26.94-96	Eeser		Esser
+
+CAMPI
+		PURG.
+13.31-33	Mmambelli	Mambelli
+
+SCARTAZZINI
+		PURG.
+ 9.28		oethra		aethra
+21.41		oetheris	aetheris
+28.148		Virglio		Virgilio
+"  "		uud		und
+
+		PARADISO
+ 1.78		oetherio	aetherio
+ " "		oeternis	aeternis
+18.35-36	oether		aether
+21.6		oetherios	aetherios
+23.40		oether		aether
+24.118-120	eec.		ecc.
+26.85-87	oetherias	aetherias
+28.41		a@alpha		alpha
+
+BERTHIER
+		INFERNO
+Inf.Nota	Eent.		Sent.
+ 7.72-76	cc		cc.
+
+COSTA
+		PURG.
+ 4.14		cc.		ec.
+
+POLETTO
+		PURG.
+21.130-132	Virgillo	Virgilio
+
+		PARADISO
+30.133-138	ccommento	commento
+
+CARROLL
+		PARADISO
+6 {unparsed}	Ceasar		Caesar
+
+TOZER
+		PURG.
+21.40-42	Ccsa		Cosa
+
+TORRACA
+		INFERNO
+ 2.19-21	Virigilio	Virgilio
+12.31-45	Virigilio	Virgilio
+34.12		ttraverso	traverso
+
+		PARADISO
+27.64-66	ccmandi		comandi
+30.??		caz. II		canz. II
+
+GRANDGENT
+		PURG.
+ 1.Nota		aabatis		abbatis
+
+MESTICA
+		PURG.
+13.73-78	Virglio		Virgilio
+14.86-87	Virglio		Virgilio
+26.76-78	Ceasar		Caesar
+
+CASINI
+		INFERNO
+ 5.80		oolui		colui
+
+		PURG.
+22.112		oontro		contro
+
+STEINER
+		PURG.
+ 8.133-135	ui		di
+
+DELLUNGO
+		PURG.
+12.97-99	ccn		con
+
+VANDELLI
+		INFERNO
+13.70-72	uua		una
+
+		PURG.
+20.52		Ttalie		Italie
+
+GRABHER
+		INFERNO
+ 1.8-9		Virgllio	Virgilio
+ 6.36		oome		come
+20.19-30	Virgllio	Virgilio
+
+TRUCCHI
+		INFERNO
+ 6.13-15	virgliano	virgiliano
+17.79-81	Virglio		Virgilio
+
+		PURG.
+ 8.43-45	Virglio		Virgilio
+
+MATTALIA
+		PARADISO
+31.58		Ccsari		Cesari
+
+FALLANI
+		PARADISO
+23.136-139	Cearea		Cesarea
+

@@ -1,0 +1,694 @@
+	|Proemio.~  ^Incipit XXXIII' cantus prime cantice Comedie.~ 
+
+	In isto XXXIII+o~ cantu autor tractat de duabus partibus
+Cociti, videlicet de Anthenora, de qua etiam in precedenti cantu
+tractavit, et de Ptolomea, que post Anthenoram sequitur
+immediate.  Incipit autem Ptholomea ibi:
+
+     Noi passam'oltre, l@a 've la gelata, etc.
+
+                        (^Inf.~ XXXIII. 91)
+
+et finit ibi:
+
+     et in corpo par vivo ancor di sopra.
+
+                        (^Inf.~ XXXIII. 157)
+
+	In isto cantu continentur unum vaticinium {*vv. 22-24*},
+due comparationes {*vv. 97-99; 100-102*}, et duo notabilia {*vv.
+40-42; 150*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Autor in fine superioris cantus descripsit quomodo
+invenit duos peccatores in quodam foramine Anthenore insimul
+congelatos, et quomodo unus illorum alterum dentibus lacerabat. 
+Quorum conditionem et nomina scire volens, ait illi qui socio
+inferre iniuriam videbatur: <O tu, qui demonstras per tam
+bestiale signum odium super illum quem manducas, dic michi
+causam, et ego promitto tibi quod si scivero qui vos estis, et
+peccatum illius propter quod tu illum corrodis, quod ego de vobis
+in mundo nova portabo, si illa cum qua loquor non siccetur>.  Ad
+que verba ille qui socium corrodebat caput elevavit ad Dantem, et
+sic ipse Dantes cum precedenti continuat istum cantum.  Os
+removit a fero pastu ille peccator, tergendo illud ad capillos
+capitis quod ex parte posteriori devastaverat, et postea sic
+incepit: <Tu vis quod ego renovem desperatum dolorem qui cor meum
+premit, iam solummodo cogitando, prius quam eloquar inde.  Sed si
+verba mea debent esse semen quod producant infamiam proditori
+quem rodo, loqui et lacrimari insimul me videbis.  Ego certe
+nescio quis tu sis, neque per quem modum huc inferius veneris;
+sed michi videris vere, quando te audio, florentinus.  Tu debes
+scire -- ex quo subaudi es florentinus -- quod ego fui comes
+Ugolinus, et iste est archiepiscopus Rogerius.  Nunc ergo tibi
+dicam quare sibi talis vicinus existo.  Verumtamen non est
+necesse tibi dicere quomodo et qualiter, per effectum suarum
+malarum cogitationum, ego confidendo in eum fuerim captus et
+morti postea adiudicatus; quia ista -- subaudi duo, captio
+scilicet et mors -- manifesta existunt.  Et ideo illud quod
+audire non potuisti, hoc est quomodo mors mea fuit crudelis,
+audies illam, et postea scies si me iste offendit.  Breve
+pertusium quod est intra mutatorium, quod per me titulum habet
+famis, et quod convenit quod adhuc alteri recludatur,
+monstraverat michi per suum foramen magis leve iam quando feci
+malum somnium quod de futuro michi scripsit [^sic~] velamen. 
+Iste videbatur michi magister et dominus, venando lupum et
+lupicinos ad montem propter quod Pisani Lucam videre non valent. 
+Cum canibus macris, studiosis, et comptis, Gualandos cum
+Sismondis et cum La{*n*}franchis sibi miserat ante frontem.  In
+modico cursu michi videbantur fessi pater et filii, et cum acutis
+dentibus videbatur michi ipsorum latera, seu ylia, lacerari. 
+Quando fui excitatus a somno ante mane, plorare sentii in somnio
+filios meos, qui erant mecum, et petere panem.  Bene es crudelis
+si iam inde non doles, cogitando quicquid cor meum sibi
+annuntiabat; et si non plangis, de quo plangere soles?
+
+	Iam erant excitati, et hora appropinquabat in qua solitum
+erat quod cibi nobis apportabantur, et per suum somnium quilibet
+dubitabat.  Et ego sentii clavari inferius hostium horribilis
+turris; et tunc respexi sine loquela in faciem filiorum meorum. 
+Ego certe non plangebam, ita interius induravi.  Plangebant ipsi,
+et Anselmuccius meus dixit: <Tu respicis ita, pater.  Quid
+habes?>  Nec propter hoc fui lacrimatus, nec respondidi ego tota
+illa die et nocte sequenti, quosque alius sol in mundum exivit. 
+Sed statim quod unus modicus radius in dolorosum carcerem
+introivit, ego vidi per quatuor facies qualis meus erat aspectus. 
+Tunc ambas manus pre dolore momordi.  Et illi, cogitantes quod
+hoc facerem pre voluntate sive desiderio comedendi, subito
+surrexerunt atque dixerunt: <Pater, satis inferes nobis minorem
+dolorem si tu nos manducas.  Tu nos induisti istas miseras
+carnes, et tu nos ipsis, si placet, expolia>.  Quievi tunc, ne
+ipsos facerem tristiores.  Illo die et alio stetimus omnes muti:
+Ha dura terra, quare non te aperuisti?  Postquam vero ad quartum
+diem devenimus, Gaddus michi se proiecit ad pedes dicendo: <Pater
+mi, ut quid me non adiuvas?>  Ibi obiit, et quomodo tu me vides,
+ita vidi ego cadere alios tres, unum post alium.  Unde inter
+quintum diem et sextum ego me dedi, iam cecum et pronum, manibus
+et pedibus super ipsos, et duobus diebus eos vocavi postquam
+fuerunt mortui.  Ex quo plus quam dolor potuit ieiunium.
+
+	Quando vero sua verba complevit, cum oculis tortuosis
+iterum dentibus cepit caput; qui quidem dentes fuerunt illi
+capiti, sive osso, sicut unius canis fortes.  Et in ista parte
+invehit autor contra civitates ytalicas, que tam generosum
+sanguinem tali morte damnatum tanquam tepide vindicare hucusque
+non curant.  Invehit etiam contra civitatem Pisanam, que
+innocentes filios pro peccato patris tam crudeli morte damnavit. 
+De primo sic ait: Ha Pisa, vituperium gentium, pulcre patrie in
+qua -- subaudi patria -- tale facinus insonuit, ex quo vicini ad
+te puniendum tepidi cognoscuntur.  De secundo vero: Moveant se
+Capraria et Gorgona et faciant in faucibus Arni sepem, ita quod
+in te -- subaudi civitate Pisana -- persona quelibet demergatur. 
+Quia si comes Ugolinus habebat vocem, idest famam, te prodendi,
+tua castra inimicis tuis largiendo, non debebas tu propter hoc
+ponere suos filios ad talem crucem.  Innocentes enim faciebat, o
+nova Thebe, nova etas Uguicionem, et Brigatam, et alios duos --
+subaudi Anselmuccium et Gaddum -- quos iste cantus superius
+nominavit.  Et hic finitur secunda pars Cociti, que dicitur
+Anthenora.
+
+	Sequitur de tertia, de qua sic procedit: Nos transivimus
+ultra ad quendam, scilicet locum, ubi congelata glacies unam
+aliam gentem frigidissime fasciat, vel involvit; non quidem
+inferius revolutam, sed totaliter resupinam.  Plantus autem eos
+plorare non sinit, quia dolor qui invenit super oculos oppositum
+se revolvit interius, et facit crescere anxietatem, quia lacrime
+in oculis congelantur, et sicut visiere cristalli rumpunt sub
+cilio in circuitu totam pellem.  Postquam vero posuit autor
+conditionem proditorum tertie partis Cociti, dicit quod licet
+nichil quasi, pre nimia frigiditate, sentiret, sicut non solet
+sentire caro callosa, tamen aliquantulum venti sibi videbatur
+sentire.  Unde ait ad Virgilium: <Magister mi, istud quis movet? 
+Non est huc inferius omnis vapor extinctus?>  Et Virgilius ad
+eum: <Cito eris ubi de hoc tibi faciet oculus responsivam,
+videndo causam que flatum movet>.  Et unus tristium proditorum
+clamavit ad eos: <O anime>, inquit, <crudeles, quibus interim
+dabitur ultima pena, elevate a facie mea dura vela, ita quod
+dolor qui cor michi gravat aliquantulum exaletur, prius quam
+planctus, sicut est solitus, congeletur>.  Cui Dantes ait: <Si
+vis quod tibi subveniam, dic michi quis es.  Et si hoc non
+fecero, ad fundum glaciei michi ire contingat>.  Ille autem
+respondens ait: <Ego sum frater Albericus.  Ego sum ille de
+fructibus mali orti, qui hic recipio dactilum pro ficu>.  Tunc
+ait Dantes: <Es tunc adhuc mortuus?>  Et ille ad eum: <Quomodo
+corpus meum stet in mundo superius, nullam scientiam vere porto. 
+Tale nanque habet ista preconium, sive privilegium, Tholomea,
+quod multotiens anima cadit in ipsam antequam Antropos ipsam
+moveat more suo.  Et ad hoc ut tu libentius radas vitreas
+lacrimas ab oculis meis, scias quod statim quod anima tradit,
+idest proditionem aliquam facit, sicut feci ego, corpus suum sibi
+aufertur ab uno demone, qui postea illud corpus gubernat, interim
+quod totum suum tempus volvatur, sive decurrat.  Ipsa vero anima
+ruit in sic factam cisternam et forte videtur adhuc corpus
+superius umbre, que post me hyemat.  Tu debes scire, si tu venis
+modo inferius, quod ipse est Ser Branca Aurie, et sunt plures
+anni postea transacti quod ipse fuit ita reclusus>.  Tunc Dantes
+ait ad illum: <Ego credo quod tu me decipis, quia Branca Aurie
+non est mortuus adhuc, et comedit, et bibit, et dormit, et
+vestibus operitur>.  Ad quem ille: <In fossato>, inquit,
+<Malebranche, in quo bullit tenax pix, nondum venerat Micheri
+Zanche, quod iste dimisit unum demonem in corpore suo, et etiam
+unus suus propinquus qui proditionem cum ipso similiter fecit. 
+Sed extende versus me admodo tuam manum et aperi michi oculos>. 
+Sed Dantes sibi oculos aperire contempsit, immo dicit quod
+curialitas fuit se erga illum rusticum extitisse.
+
+	In hac autem parte invehit ipse Dantes contra Ianuenses;
+et sic Cociti tertiam partem finit.  <Ha>, inquit, <Ianuenses,
+homines diversi ab omni more, et pleni omni nequitia, quare non
+estis vos de mundo submoti?>  Et hoc dico quia cum peiori spiritu
+Romandiole inveni de vobis unum talem qui, suo opere, in Cocito
+iam in anima balneatur, et in corpore videtur superius adhuc
+vivus.  Ideo ait in textu:
+
+     Ch$e col pegiore spirto di Romagna
+     trova' di voi un tal, che per su' opra,
+     in anima in Cocito gi@a si bagna,
+     et in corpo par vivo ancor di sopra.
+
+                        (^Inf.~ XXXIII. 154-157)
+
+	|1.  La bocca si lev@o dal fiero pasto, etc.~  Iste
+peccator, de quo hic loquitur autor, fuit quidam maximus baro
+pisanus, Ugolinus videlicet, comes de Domnoratico, et tempore sue
+mortis dominus civitatis Pisane.  Hic itaque comes ideo inter
+proditores in Anthenora poetice collocatur quia fuit proditor sue
+patrie ac partis.  Quod sic patet: Iste namque comes Ugolinus
+erat natione Pisanus, animo vero Guelfus.  Cum autem esset
+capitaneus Pisanorum et suus nepos ex filia, Ninus scilicet,
+iudex galluritanus, esset eorundem Pisanorum potestas, iste comes
+cum Rogerio archiepiscopo pisano, qui erat natione florentinus,
+germanus scilicet cardinalis Octaviani, de quo habitum est supra,
+cantu X {*v. 120*}, sed animo Gibellinus, et cum quibusdam aliis
+Gibellinis coniuravit ad destructionem et mortem sui nepotis et
+sue partis.  Nam dictum iudicem galluritanum cum multitudine
+magna Guelforum fecit per manus archiepiscopi et aliorum
+Gibellinorum, cum quibus coniuraverat, expelli de Pisis nobilem
+comitem Anselmum, magnum principem inter Guelfos, veneno
+extinxit, dominum Ganum de Scornigianis, militem strenuum nobilem
+et innocentem, gladio interfici iussit.  Et de isto habetur infra
+in secunda scilicet cantica, cantu [^Purg.~ VI. 17-18], ibi: <et
+quel da Pisa, / che f$e parer lo buon Marzucco forte>.  Multa
+etiam castra et terras Pisanorum prodidit inimicis.  Sed sicut
+ipse fuit proditor sue partis et patrie, ita fuit proditus ab
+illo in quem principiliter confidebat, videlicet ab archiepiscopo
+supradicto.  Nam dictus archiepiscopus promiserat isti comiti
+quod, expulso iudice galluritano, cum suis ipse comes esset solus
+dominus civitatis.  Sed cum ipsum debebat una cum Gibellinis in
+dominio confirmare, ab ipsis fuit captus et diro carceri cum
+duobus filiis et duobus nepotibus mancipatus, et tandem crudeli
+fame peremptus. 
+
+	|22-24.~  ^VATICINIUM.~  Hic vaticinatur comes Ugolinus
+autori dicens quod illa turris, que causa sue mortis titulum
+habet famis, quia vocata est postea <turris famis>, oportet quod
+adhuc alteri recludatur.  Et re vera istud vaticinium iam videmus
+ex parte impletum.  Nam reclusi fuerunt ibi omnes nobiles et
+magnates qui capti fuerunt in bello Montis Catini, ex quibus
+multi in ea turri mortui sunt; et specialiter Bolgaruccius, comes
+de Marciana.  Postea, tempore Henrici Septimi serenissimi
+Romanorum imperatoris, ex sententia dicti principis fuit in ea
+reclusus unus ex ducibus Austrie, qui scilicet predecessorum suum
+Rodulfum {corrected to ^Albertum~ in a different hand}, videlicet
+regem Romanorum, gladio interfecerat; et in ea ultimum clausit
+diem.  Utrum autem ex vindicta illius famis quam passus est ipse
+comes cum suis, in ea turri debeat aliquis recludi et fame
+similiter cruciari, nescimus.  Cum autem illud tempus venerit, si
+venerit, videbitur vaticinium clarius adimpletum.
+
+	|25-36.~  Idcirco exemplariter autor ponit quod iste
+comes ipsi archiepiscopo rodat caput.  Sed, quia sua captio atque
+mors manifesta fuerunt, modus autem mortis non, ideo de captione
+et morte breviter transit autor.  Circa vero modum mortis,
+poetice se extendit.  Et circa hoc principaliter duo facit: Nam
+primo fingit quoddam somnium quod fuit vaticinium, sive
+presagium, sue mortis.
+
+	In hiis enim {*XII*} rithimis texitur unum somnium quod
+removit ipsi comiti velamina que occultant futura.  Ideo dicitur
+in textu: |che del futuro mi squarci@o 'l velame.~
+
+	Somniavit enim una nocte predictus comes Ugolinus quod
+archiepiscopus pisanus in quem, tanquam in singulare refugium,
+confidebat, venabatur versos illos montes qui sunt medii inter
+Pisanos et Lucanos, unum lupum et suos lupicinos, cum quibusdam
+canibus macilentis, studiosis, et comptis.  Ipse autem lupus et
+lupicini in modico cursu efficiebantur lassi, et sic in manus
+deveniebant venatoris et canum.  Iste itaque lupus erat ipse
+comes, lupicini erant filii et nepotes; canes vero cum quibus
+archiepiscopus venabatur erant tres nobiles domus Pisarum,
+videlicet Gualandi, Sismundi, et Lanfranchi.  Nam iste tres
+familie dictos comites ceperunt, et in quadam turri, que hodie
+titulum habet <famis>, recluserunt et fame finaliter occiderunt. 
+Secundo ponit modum et ordinem quomodo isti quinque comites
+defecerunt.
+
+	|37-45.~  In his XXXVIIII rithimis texitur modus et ordo
+crudelis mortis comitis Ugolini ac etiam filiorum.  Quando vero
+comes fuit excitatus a somno, audivit filios qui in somno panem
+petebant.  In illa vero hora in qua erat solitum ipsis comitibus
+cibaria portari, Pisani hostium carceris clavis ferreis
+clavaverunt et claves in fluvium proiecerunt.  Et sic illa die
+sine cibo steterunt.  Sequenti vero die, orto iam sole, comes in
+facies filiorum aspexit et vidit ipsos pre debilitate nimia
+pallidos et consumptos.  Tunc comes, dolore commotus, ambas manus
+sibi ipsi momordit.  Et illo die atque sequenti sine loquela,
+tanquam muti, steterunt.  Et ecce quod iam tribus diebus sine
+cibo steterunt.  Quarto autem die obiit comes Gaddus.  Iste
+Gaddus fuit filius ipsius comitis Ugolini.  Mortuo vero primo,
+alii tres unus post alium obiverunt, videlicet Uguicio, qui erat
+etiam filius comitis, Brigata, qui erat filius comitis Guelfi, et
+Anselmuccius, qui erat filius comitis Lotti, filiorum ipsius
+comitis Ugolini.  Mortuis vero filiis et nepotibus, ipse comes
+duobus diebus supervixit, tamen pre debilitate iam cecus
+effectus.  Et ne alicui hoc impossibile videatur, quod sex diebus
+vivere potuerit sine cibo, audiant Macrobium ^Super Somnio
+Scipionis.~  Dicit enim quod vita hominis ultra VII dies sine
+cibo durare non potest.  Patet ergo quod usque ad diem potest
+septimum protelari.  Dicit etiam ibi quod homo sine haustu
+spiritus ultra VII horas vivere iam non valet.
+
+	|40-42.~  ^PRIMUM NOTABILE.~  Quia homo est naturaliter
+compassibilis, ideo compati debet miseriis iniuste et inique
+inflictis.  Et si ipsius non compatitur, non habet animum bene
+ordinatum.  Nam secundum Tullium, proprium est animi bene
+dispositi gaudere bonis rebus et dolere contrariis.
+
+	|79-81.~  Hic invehit autor contra ytalicas civitates,
+dicens quod ex quo ipse non vindicant, seu puniunt, talem mortem,
+quod ipsa civitas Pisana est vituperium ipsarum.
+
+	|82-84.~  Iste sunt due insule propinquiores litoribus
+Pisanorum.  Hic invehit autor contra Pisanos, optans divinam
+vindictam ut submergat in ipsam civitatem Pisanam aquis diluvii
+omnem carnem.  Sed hic oritur una questio, que talis est.  Ipse
+autor condemnat Pisanos, qui filios et nepotes comitis Ugolini,
+qui erant innocentes, pro peccato patris condemnaverunt ad tam
+crudelem mortem, et hic optat submersionem omnium Pisanorum, cum
+non omnes consenserint in hanc mortem.  Respondeo: Iuste et
+rationabiliter optat autor destructionem et mortem omnium
+Pisanorum, et hoc quia omnes peccaverunt in comites memoratos. 
+Nam principes et maiores peccaverunt quia ipsos occiderunt;
+populus etiam peccavit quia ipsos non defendit.  Si vero dicis
+quomodo desiderat sive optat submersionem parvulorum, qui omnino
+erant innocentes, cum ipse damnet peccatum commissum in filios
+dicti comitis innocentes, respondeo: hoc optat in confusionem et
+maiorem penam patrum; ut sicut ipse comes Ugolinus fuit plus
+cruciatus in morte filiorum atque nepotum, quos fame suis oculis
+vidit mori, quam in morte sua, ita optat quod ipsi Pisani in suis
+filiis cruciantur morte, scilicet temporali non eterna.  Et nota
+quod hoc optat ordine divino, qui aliquando punit filios pro
+peccatis patrum et e converso -- pena scilicet temporali, non
+autem eterna.  Unde ipse ait: Ego sum Deus zelotes, qui iudico
+peccata patrum in filios usque in tertiam generationem et quartam
+{^Exodus~ 20.5}.  Hoc dicit quia patres multotiens tantum vivunt
+quod vident tertiam et quartam generationem.  Maximam namque
+penam debemus credere quod habuit iste comes quando vidit,
+propter peccatum suum filios fame mori.  Quod autem alibi dicit
+Deus: Filius non portabit iniquitatem patris, et pater non
+portabit iniquitatem filii {^Prophetia Ezechielis~ 18.20}, hoc
+dicit quia nullus pro peccato alieno eterna pena damnatur.
+
+	|89-90.~  Verba sunt autoris contra civitatem Pisanam,
+quam vocat novas Thebas.  Nam sicut civitas Thebana, propter
+civiles discordias, de libertate et statu regio devenit in
+servitutem, et de servitute postea ad nichilum est redacta, ita
+Pisana civitas a magno et quasi regio statu, propter discordias
+civium, in statum infimum iam devenit.  Regnum enim Sardinee,
+quod de manibus Sarracenorum potenter abstulerat, et quod multis
+temporibus in manu valida rexerat, propter discordias civium
+suorum viliter prodidit et dannose.  Dominium maris, in quo
+regnare et triumphare solebat, non solum amisit, sed per illud
+sua vexilla transire non possunt.  Nobilitatem illam egregiam qua
+in nobilibus civibus suis ubique pollebat ac etiam resplendebat,
+et propter quam nobilis predicabatur in orbe, cum sui
+destructione perdidit et amisit.  Et, ut manifeste videmus, in
+manus devenit novorum civium advenarum, qui ipsam omni suo
+antiquo honore et alto statu privarunt, ita quod de ipsa possumus
+dicere quod dixit Christus in Evangelio de illo qui descendebat a
+Ierusalem in Ierico, quod incidit in latrones qui eum
+expoliaverunt, vulneraverunt, et semivivum reliquerunt.  Simili
+modo Pisana civitas incidit in latrones, videlicet novos cives,
+qui eam omni suo honore, statu, divitiis, et gloria
+expoliaverunt; cives suos nobiles et antiquos, tam Guelfos quam
+Gibellinos, aut fame peremerunt aut in carceribus mori
+permiserunt, aut in exilium miserunt, aut diversis mortis
+generibus occiderunt.  Et sic a capite usque ad pedes undique
+vulnerata heu nunc iacet, quasi semiviva relicta.  Cuius statum
+tam miserum et confusum nec sacerdos respicit nec levita.  Sed
+placeat nostro pio Samaritano ipsam oculo sue pietatis respicere,
+sibi per compassionem appropinquare, sua vulnera opportunis
+remediis alligare, vinum correctionis et oleum miserationis
+infundere, in iumentum sue longanimitatis ipsam imponere, et ad
+stabulum pristinum temporum antiquorum ad laudem et gloriam
+nominis Christiani cito deducere; ut ego, qui sum oriundus ex
+ipsa, ante tempora mee mortis possim ex reformatione sui status,
+tanquam civilis filius, gratulari.
+
+	|91-93.~  Hic incipit tertia pars Cociti, que dicitur
+Tholomea, in qua puniuntur proditores amicorum et novorum
+parentum.  Et dicitur Tholomea vel a Tholomeo, duce Iericho, vel
+a duobus Tholomeis, patre et filio, qui fuerunt reges Egypti,
+quorum duo suos amicos et novos parentes dolose occiderunt, et
+tertius amicum suum beneficum decapitari mandavit.  Quarum
+proditionum nefandas istorias per ordinem videamus.  Fuit enim in
+populo Iudeorum, sicut legitur in primo libro Machabeorum, ultimo
+capitulo {I ^Machab.~ 16.11}, quidam nomine Tolomeus, filius
+Abobi, qui fuit constitutus dux in campo Iericho, et habebat
+argentum et aurum multum.  Erat enim gener Symonis, summi
+sacerdotis.  Et exaltatum est cor eius, et volebat obtinere
+regionem, et cogitabat dolum adversus Symonem socerum suum et
+filios eius {^Br.~ suos} ut tolleret eos.  Simon autem,
+perambulans civitates que erant in regione Iudee, et
+solicitudinem gerens earum, descendit in Ierico ipse et duo filii
+eius, Mathatias et Iudas.  Et suscepit eos Tholomeus filius Abobi
+cum dolo, et fecit eis convivium magnum, et abscondit illic
+viros.  Et cum inebriatus esset Symon et filii eius, surrexit
+Tholomeus cum suis et sumpserunt arma sua, et intraverunt in
+convivium, et occiderunt eum et duos filios eius, et quosdam
+pueros eius.  Et fecit deceptionem magnam in Israel, et reddidit
+mala pro bonis.
+
+	Fuit et alius Tholomeus, rex Egypti, de quo habetur in
+eodem libro Machabeorum, XI+o~ capitulo {I ^Machab.~ 11.1}, quod
+ipse dedit filiam suam Cleopatram in uxorem Alexandro regi Syrie;
+qua parentela peracta, congregavit Tholomeus exercitum sicut
+arenam maris et naves multas.  Et querebat obtinere regnum
+Alexandri dolo, et addere illud regno suo.  Et intravit Syriam
+verbis pacificis, et aperiebant ei civitates, et occurrebant ei,
+quia mandaverat rex Alexander exire obviam ei, eo quod socer suus
+esset.  Cum autem intraret Tholomeus in civitates, ponebat
+custodias militum in civitatibus singulis.  Postquam vero multas
+civitates Asye tali dolo obtinuisset, cogitabat in generum
+consilia mala.  Sed et Cleopatram abstulit sibi, et dedit eam in
+uxorem Demetrio, et intravit Anthiochiam civitatem Alexandri. 
+Quod audiens Alexander, venit contra eum in bello; sed Tholomeus
+fugavit eum.  Et fugit Alexander in Arabiam, ut ibi protegeretur. 
+Rex autem Arabie abstulit caput Alexandri et misit illud
+Tholomeo.  Tunc exaltatus est Tholomeus, et imposuit duo
+diademata capiti suo, ut regnaret super duo regna, scilicet
+Egypti et Asie.  Et mortuus est die tertia.
+
+	Ab istis itaque duobus Tholomeis nefandis tertia pars
+Cociti merito appellatur, quia isti duo dolosis ingeniis
+amicitias contraxerunt, et insuper parentele copulas addiderunt;
+et hoc ut melius possent, primus in socerum, secundus in generum,
+dolosas et fraudulentas nequitias operari.  Potest etiam ista
+pars Cociti a quodam alio Tholomeo, filio suprascripti secundi
+Tholomei et fratre Cleopatre, nominari.  Nam iste tertius
+Tholomeus, dum esset obses Rome, magna fuit a Pompeio tutela
+nutritus; et dum esset adultus, corona sui paterni regni fuit ab
+ipso egiptiaca coronatus, et sic in regnum transmissus.  Ad quem
+Tholomeum, tanquam ad filium et amicum, post bellum Pharsalicum
+confugit ipse Pompeius.  Quem ut Tholomeus Nilum intrasse
+cognovit, statim baronum suorum consilium convocavit, petens ab
+eis utrum Pompe[i]um fugatum et debellatum a Cesare deberet
+expellere vel tenere.  Tunc unus miles Egypti, nomine Fotinus,
+dedit consilium Tholomeo ut non haberet respectum nec ad virtutes
+Pompei, nec ad humanitates ab ipso receptas, et neque ius et fas,
+seu fidem, erga eum audeat observare.  Unde Lucanus in VIII+o~ de
+isto nefando consilio inquit:
+
+     Ausus est Pompeium leto damnare Fotinus
+     <Ius et fas multos faciunt, Tholomee, nocentes>.
+
+                        {^Phars.~ VIII. 483-484}
+
+Quasi dicat: O Tholomee, si secundum ius divinum et fas humanum
+humaniter receperis istum, eris nocens Cesari.  Et sequitur:
+
+     <Dat penas laudata fides cum sustinet>, inquit.  
+     <Quos fortuna premit, fatis accede deisque, 
+     Et cole felices, miseros fuge>.
+
+                        {^Phars.~ VIII. 485-487}
+
+Quasi dicat: O Tholomee, si fidem Pompe[i]o quam sibi teneris
+servare volueris, laudaberis inde, sed Cesar veniet et dabit tibi
+penam.  Et ideo quos fortuna premit, sustinere noli.  Sed accede
+ad fata, et quos fata deique exaltant, cole; quos vero deprimunt,
+fuge, quia nulla fides unquam miseros elegit amicos.  Tunc omnes
+Fotini consilio assenserunt, et deliberato consilio, ab ipso fuit
+rege nefario ordinatum atque sancitum, ut statim quod Pompeius
+applicaret ad terram, capite privaretur.  Hic exclamat Lucanus
+contra Tholomeum, libro ut supra:
+
+                     Nescis, puer improbe, nescis
+     Quo tua sit fortuna loco: iam iure sine ullo
+     Nili sceptra tenes; cecidit civilibus armis
+     Qui tibi regna dedit.
+
+                        {^Phars.~ VIII. 557-560}
+
+Quasi dicat: Non fuit ab hostibus debellatus, quia semper et
+ubique vincebat in mundo, sed pietate et dulcedine patrie sue
+ductus, se ipsum debellare permisit.
+
+	De nequitia istius Tholomei habes supra, secundo circulo,
+cantu V+o~ {*comm. ad v. 63*}.  Pompeius vero, intrans Nilum,
+invenit satellites Tholomei ad scelus nefarium perpetrandum. 
+Ipse autem, ut vidit cominus enses nudos, sicut ait Lucanus:
+
+     Involvit vultus atque, indignatus apertum
+     Fortune prebere, caput; tunc lumina pressit
+     Continuitque animam, ne quas effundere voces
+     Vellet, et eternam fletu corrumpere famam.
+
+                        {^Phars.~ VIII. 614-617}
+
+	Tunc unus ex satellitibus qui vocabatur Achillas funesto
+mucrone primo Pompei latera perforavit, et postea illud
+venerabile caput, quod tribus fuerat coronis triumphalibus
+coronatum, crudeli cede mactatum a Tholomeo cum anulo ipsius
+Pompei portavit.  Quidam autem miles Pompei, nomine Codrus,
+corpus sine capite in ripa Nili paupere rogo cremavit, et cineres
+sepeliens locum modico saxo signavit, dicens:
+
+     <Hic situs est Magnus>.  Placet hoc, Fortuna sepulcrum.
+
+                        {^Phars.~ VIII. 793}
+
+	Tholomeus vero Pompei caput, ne putresceret, aromatibus
+condi mandavit et illud Cesari reservavit.  Cesar autem, ut
+Emathia satiatus cede recessit, cetera pondera curarum proiecit
+ad terram, intentus solummodo insequi vestigia Pompeiana.  Et cum
+intraret Egyptum, nesciens aliquid de morte Pompei, venit sibi
+obviam, a rege transmissus, crudelis satelles, gestans in manibus
+dira dona, caput scilicet Magni Pompei, egyptiaco velamine
+coopertum, et anulum quem solitus erat in manu gestare, et ait ad
+Cesarem, iuxta Lucanum, libro VIIII+o~:
+
+     <Terrarum domitor, romane maxime gentis,
+     Rex tibi pelleus terre pelagique labores
+     Donat>.
+
+                        {^Phars.~ IX. 1014; 1016-1017}
+
+Et hoc dicto, caput discooperuit.  Quod cum Cesar illud vidisset,
+licet letitiam haberet in corde, tristitiam tamen ostendit in
+vultu.  Lucanus, libro ut supra:
+
+                  Lacrimas non sponte cadentes
+     Effudit gemitusque expressit pectore leto.
+
+                        {^Phars.~ IX. 1038-1039}
+
+Et ait ad milites Tholomei: <Vos autem condite busto tanti caput
+ducis, cineresque in litore fusos colligite, atque sparsis date
+manibus urnam.  Sentiat adventum soceri, vocesque mei audiat
+lacrimantis> {^Phars.~ IX. 1089-1094 (^adapted~)}.  Cato vero,
+audita morte Pompei, ait ut scribit Lucanus, ut supra:
+
+     O felix cui summa dies fuit obvia victo,
+     Et cui querendos Pharium scelus obtulit enses.
+     Forsitan in soceri potuisset vivere regno.
+
+                        [^Phars.~ IX. 208-210}
+
+Glosa: sed non sine pudore.  Sequitur:
+
+     Scire mori, sors prima viris, sed proxima cogi.
+     Et michi, si fatis aliena in rura venimus,
+     Fac talem, fortuna, Iubam; non deprecor hosti
+     Servari, dum me servet cervice recisa.
+
+                        {^Phars.~ IX. 211-214}
+
+	|97-99.~  ^PRIMA COMPARATIO.~  Lictera plana est.
+
+	|100-102.~  ^SECUNDA COMPARATIO.~  Lictera plana est.
+
+	|104-108.~  Ab istis itaque Tholomeis, qui amicitias et
+novas parentelas dolosis proditionibus violarunt, tertia pars
+Cociti, in qua eorum similes puniuntur, iuste et merito
+appellatur.  In qua quidem parte et loco ponit autor tres maximos
+proditores: unum Romandiolum et duos Ianuenses, quorum duo
+vivebant quando autor istam condidit comediam.  De primo poetice
+sic pertractat: Dicit enim quod dum appropinquaret ad centrum,
+ambulans per Tholomeam, sentiit aliquantulum venti, et ait ad
+Virgilium: <Istum ventum quis movet? non est huc inferius omnis
+vapor extinctus?>  Sentiens enim autor ventum in centro terre,
+miratus est; et hoc quia, per suam soliditatem et compactam
+naturam, ventum creare non potest.  In cavernis autem ipsius
+terre bene generatur ventus, scilicet in hunc modum, secundum
+Bedam: Aer enim labilis est nature, et ideo subintrat cavernas
+terre et exit.  Cum autem una pars nititur exire et alia
+subintrare, fit conflictus inter aerem intrantem et aerem
+exeuntem; et ex tali conflictu ventus taliter generatur.  Et ideo
+insule Eolie dicuntur regiones esse ventorum, quia sunt totaliter
+cavernose.  Centrum vero terre, quia ibi est terra solida, et
+compacta et ab aere multum distans, ventum, nisi fictione
+poetica, habere non potest.  Fingit autem hic autor Luciferum in
+centro terre infixum, oculis lacrimantem, tres peccatores
+dentibus corrodentem, et motu suarum alarum ad penam proditorum
+Cociti glaciem congelantem.  Ex tali igitur motu alarum ventus
+ibidem sentitur.  Unde poeta ait ad poetam:
+
+                       <Avaccio sarai dove
+     di ci@o ti far@a l'occhio la risposta,
+     vegendo la cagion che 'l fiato piove>.
+
+	|118-120.~  Et hoc dicto unus ex proditoribus ibi fixis
+clamavit ad eos ea que habentur in textu.  Iste itaque fuit
+quidam miles de fratribus Gaudentibus de provincia Romandiole,
+frater scilicet Alberigus, qui quandam parentelam cum quibusdam
+suis civibus dolose contraxit.  Qua parentela contracta, post
+longum tempus omnes de illa prosapia ad convivium invitavit; quos
+omnes, tam parvos quam magnos, postquam fuerunt cibo vinoque
+repleti, occidi per suos satellites taliter ordinavit.  Postquam
+enim cuncta essent fercula iam comesta, frater Alberigus
+servitoribus ait: <Veniant fructus>.  Ad quam vocem satellites
+armati, nudis ensibus, in convivium intraverunt et omnes, sicut
+ille proditor per longum ante tempus premeditaverat, occiderunt. 
+Ideo ipse proditor ait autori, ut habetur in textu:
+
+     		    <I' son frat'Alberigo; 
+     i' son quelli de' frutti del mal orto, 
+     che qui riprendo dattero per figo>.
+
+Hoc dicit ad insinuandum maximam penam quam sustinet in inferno,
+quia pro ficu recipit dactilum.  Quasi dicat: Ego dedi amicis et
+novis consanguineis meis, quos occidi mandavi, dulces ficus
+respectu pene qua in hac glacie iuste meritoque tormentor.  Quia,
+quantum dactilus excedit ficum, tantum pena mea excedit illam
+quam proditorie intuli in illos quos occidi mandavi. 
+
+	|121-123.~  Audiens autem Dantes quod iste qui sibi
+loquebatur erat frater Alberigus, quem vivum esse sciebat, ait
+admirative ad eum: <Es tunc adhuc mortuus?>  Et ille: <Qualiter>,
+inquit, <corpus meum stet in mundo superius, nullam scientiam
+porto>.  Tamen unum tibi dico, quod statim quod anima talem
+proditionem ordinat qualem ordinavi ego, contrahere scilicet
+amicitias ac etiam parentelas ut sic in confidentes posset
+inferre mortem, corpus suum ab uno demone aufertur, qui illud
+tanto tempore gubernat et regit quanto illa misera anima cum suo
+corpore habitare debebat. 
+
+	|124-126.~  Antropos [^sic~] est unum ex tribus Fatis,
+que pagani cursui et statui humane vite a diis esse data
+dicebant.  Nam statum et cursum humanum a tribus Fatis ordinatum
+esse credebant {^Br.~ dicebant}.  Et dicitur primum Fatum Cloto,
+secundum Lachesis, tertium vero Antropos.  Cloto ponebatur ab
+ipsis super generationem humanam; Lachesis super vitam; Antropos
+vero super mortem.  Unde ad modum trium dominarum antiquitus
+pingebantur.  Prima colum portabat; secunda nebat; sed tertia
+occabat.  Unde versus: Cloto colum baiulat Lachesis attrahit
+{^Br.~ net}, Antropos occat.  Prima habet producere de non esse
+ad esse.  Ideo Cloto interpretatur <evocatio>, quia habet evocare
+id quod non erat, sicut in generatione apparet, in qua fetus
+producitur, qui non erat.  Secunda habet protrahere de tempore ad
+tempus, sicut de infantia ad pueritiam, de pueritia ad
+adolescentiam, de adolescentia ad iuventutem, et de iuventute ad
+senectutem.  Ideo Lachesis interpretatur <protractio>, quia vitam
+protrahit et extendit.  Tertia habet vitam per mortem finire;
+ideo Antropos interpretatur <sine conversione>, quia post mortem
+homo non redit ad prima.
+
+	|137-141.~  Facta mentione de fratre Alberigo, autor ad
+Brancam de Auria et suum consortem pariter se extendit, ponens
+ipsius animam pro peccato proditionis in Cocito puniri et suum
+corpus in mundo ab uno demone gubernari.  Cuius proditionis
+ystoria ista est: Branca enim de Auria, natione Ianuensis, per
+XIIII annos quandam proditionem mente concepit antequam illam
+operibus propalaret.  In regno nempe Sardinee erat unus prepotens
+homo qui dicebatur Micheri Zancari, de quo habetur supra cantu
+XXII {*v. 88*}, malabulgia V.  Cum isto itaque Sardo Branca de
+Auria et unus suus consors dolose amicitiam contraxerunt, et
+insuper ei sororem dicti Branche in uxorem ipsi dederunt.  Qua
+amicitia et parentela contracta, isti duo de Auria dictum Sardum,
+ut suum possiderent dominium, in quodam convivio occiderunt.
+
+	Sed circa istam partem, ista poetica narratio seu fictio,
+quam de descensu animarum in hanc partem Tholomee ante mortem
+corporum poetice [ista] fingit autor, videtur inconveniens et
+absurda, quod homo scilicet damnatus quam diu vivit esse dicatur,
+cum beatus Augustinus in libro ^De Verbis Domini~ dicat quod de
+nullo desperandum est quam diu patientia Dei ad penitentiam ipsum
+expectat.  Sed Deus expectat hominem usque ad mortem.  Et glosa
+super illud Psalmi {*^Ps.~ 102.3*}, qui sanat omnes infirmitates
+tuas, dicit quod omnipotenti medico nullus insanabilis langor
+occurrit.  Sed beatus Thomas de Aquino, in secunda serie,
+questione XIIII+a~ {^Summa Theol.~ Secunda Secundae, quaestio
+XIV, art. ii}, verbis Agostini respondet dicens quod de nemine
+disperandum est in hac vita, considerata omnipotentia et
+misericordia Dei.  Sed considerata conditione peccati, dicuntur
+aliqui filii diffidentie, ut habetur Ad Ephesios, secundo. 
+Boetius autem in libro ^De Consolatione,~ glose super Psalmum,
+respondere videtur: <Si opera>, inquit, <medicantis expectas,
+oportet ut vulnus detegas> {^De Cons. Phil.~ I, pr. 4. 5}.  Sed
+quia obstinati nec Dei misericordiam attendunt nec medico vulnus
+ostendunt, ideo ante mortem iam damnati non immerito esse
+dicuntur.  Unde peccatum obstinationis est una sex speciarum
+peccati in Spiritum Sanctum, sicut ponit Magister, XL
+distinctione secundi libri ^Sententiarum.~  Species autem peccati
+in Spiritum Sanctum sunt iste: Desperatio, Presumptio,
+Impenitentia, Obstinatio, Impugnatio agnite veritatis, et
+Invidentia superne gratie.  Cum itaque isti proditores ex eorum
+operibus obstinati in malo esse videantur, merito statim quod
+tales proditiones ordinant, damnati finguntur.  Nam sicut homo
+sanctus et bonus, cum ad summum culmen perfecte vite pervenerit,
+a terrenis dicitur elevatus et in Deum totaliter transformatus,
+unde licet sit in terra, tamen in celum dicitur habitare; ut
+Apostolus, qui dicebat nostra conversatio in celis est {^Ep. ad
+Galateos~ 2.20}; ita homo malus et nequam, dum in profundum
+malorum venerit et Dei misericordiam contemnit, potest dici,
+licet sit in mundo, in inferno dannatus et in dyabolum quodammodo
+transformatus.  Et sicut opera boni viri non humana sed divina
+esse censentur, sicut exemplum ponit beatus Bernardus de ferro
+ignito, quod totum transit de ferro in ignem, ita opera malorum
+hominum, et maxime proditorum, possunt dici opera non virorum,
+immo demonum.  Unde, sicut Apostolus dicebat: Vivo ego, iam non
+ego; vivit vero in me Christus; ita homo obstinatus in malo
+potest dicere: <Vivo ego, iam non ego; vivit vero in me demon>. 
+Isto itaque modo ponit Dantes quod anime talium proditorum in
+dyabolum transformate, ante mortem suorum corporum, sint damnate. 
+Nam mala conscientia, dum in malo est totaliter obstinata, est
+quasi sepulcrum anime iam damnate; et quia eius opera sunt omnino
+diabolica, ideo tale corpus a demone dicitur gubernari; quia
+licet ibi sit anima, tamen per obstinationem in penis dicitur
+cruciari, et per desperationem quicquid suggerit dyabolus non
+desinit operari.  Et hoc manifeste apparet in morte talium qui de
+peccatis suis conpungi et ad Deum converti non possunt, sicut
+patet in isto Branca de Auria, qui in obstinatione et
+desperatione ultimum clausit diem.  Nam cum sui nepotes et alia
+sua familia sibi dicerent: <Domine, ecce tu moreris; que iura
+possumus nos ostendere de castris, terris, et villis, quas tu
+usque hodie possidisti et nobis post tuam mortem possidenda
+relinquis?>  Quibus ille: <Videte>, inquit, <cartas et
+instrumenta in quibus sunt iura mea, cum quibus possedo et tenui
+ea que vobis possidenda relinquo>.  Et elevata manu, ostendit eis
+ensem, qui ad caput lecti in camera dependebat.  Et subiunxit:
+<Vos autem, exemplo mei, utamini iure isto.  Si quis autem
+petierit vobis cartas, ostendite eis ensem, et sic tenebitis que
+vobis tenenda dimitto>.
+
+	|150.  et cortesia fu lui esser villano.~  ^SECUNDUM
+NOTABILE.~  In hoc notabili admonemur quod curialitas et
+humanitas omnibus exhibenda non est.  Nam, quia frater Alberigus
+fuit crudelis erga suos consanguineos et amicos, ideo autor sibi
+humanitatem quam petebat noluit exhibere.  Crudelibus enim et
+obstinatis in malo, compati de eorum miseriis non debemus, nec in
+eis in aliquo subvenire, imo facere eis contrarium, curialitas
+est et virtus.  Ideo ait: ^cortesia fu lui esser villano.~  Et
+vulgare proverbium ait: <Chi fa honore al villano fa onta a Dio>. 

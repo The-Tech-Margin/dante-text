@@ -1,0 +1,70 @@
+Return-Path: Robert.J.Brentrup@Dartmouth.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id RAA09895
+	for <steve@avalon.dartmouth.edu>; Tue, 1 Sep 1998 17:01:28 -0400 (EDT)
+Received: from vixen.Dartmouth.EDU (vixen.dartmouth.edu [129.170.208.15])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with SMTP id RAA14077
+	for <steve@avalon.Dartmouth.EDU>; Tue, 1 Sep 1998 17:01:28 -0400 (EDT)
+Message-id: <8058662@vixen.Dartmouth.EDU>
+Date: 01 Sep 98 17:01:27 EDT
+From: Robert.J.Brentrup@Dartmouth.EDU (Robert J. Brentrup)
+Subject: extra field in the Dante database?
+To: steve@avalon.dartmouth.edu (Stephen Campbell)
+Cc: Robert.J.Brentrup@Dartmouth.EDU (Robert J. Brentrup)
+MIME-Version: 1.0
+Content-Type: text/enriched
+Content-Disposition: inline
+
+Steve,
+
+	Here's my idea.  The DCIS interface was designed to interact directly with the
+various BRS fields.  For the Dante project database we had to therefore rely on
+some of the other fields which are present in the records to do look ups of the
+commentaries citing a particular line range in the poem.
+
+
+For example a record citing line 1 of canto 3 of Inferno (in Italian) presently
+contains the following coded data:
+
+IT-A10-03-L1 IT-A10-03-L2 IT-A10-03-L3
+
+
+To do the equivalent of a line search in your interface, the following DCIS
+search can be specified:
+
+
+cantica inferno and canto 3 and coded *L1  (where "coded" is connected to the
+field whose contents are shown above)
+
+
+This locates comments on line 1 of canto 3 of Inferno, by matching the strings
+for the cantica name, canto number and an odd truncated search for the line
+number.  (the truncation trick really kills the performance too)
+
+
+However, the DCIS expression could be simplified to:
+
+cantica inferno and canto 3 and line 1
+
+
+if we added another field to list just line number references derived from the
+existing data, ie.
+
+1 2 3
+
+
+as the target of the "line" field.  This is admittedly far less efficient than
+what you are doing, but avoids having to write a special input encoder.  The
+database searching seems fast enough for this method to be acceptable. 
+Comments?
+
+
+--Bob
+
+
+
+
+
+
+
+	

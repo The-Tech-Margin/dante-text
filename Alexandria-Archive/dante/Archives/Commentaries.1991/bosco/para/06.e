@@ -1,0 +1,1098 @@
+|PARADISO CANTO 06~
+
+	|Introduzione.~  {Alle due domande di Dante, V 124-129,
+Giustiniano risponde} rispettivamente ai vv. 1-27 e 112-126; nel
+centro del canto, una lunga ^giunta~ (28-96) in cui si esalta,
+con linguaggio sostenuto appropriato all'altezza dell'argomento,
+il portentoso processo, cui non sarebbero bastate forze solo
+umane, di unificazione del mondo operata da Roma, e si mostra
+cos@i l'origine e la legittimit@a divina dell'Impero romano. 
+L'esaltazione @e la premessa d'un solenne e dolente rimprovero
+(97-111) ai guelfi e ai ghibellini; non solo ai primi, che lo
+combattono, ma anche ai secondi, per cui esso @e solo un pretesto
+per i loro interessi di partito, mentre, emanazione diretta della
+volont@a di Dio, @e al di sopra di ogni partito e di ogni
+discussione.  A questa parte altamente politico-religiosa, segue
+la rievocazione commossa (127-142), per bocca dello stesso
+Giustiniano, d'una ^persona umile e peregrina~, Romeo di
+Villanova.  Dobbiamo chiederci perch$e Dante scelga come suo
+portavoce, nell'esaltazione-rampogna, Giustiniano, un imperatore
+d'Oriente, la cui sede dunque non era Roma, e per giunta non
+cospicuo, a quello che dice lo stesso poeta, per vittoriose
+imprese belliche, da lui affidate al generale Belisario, mentre
+tutta la seguente esaltazione dell'Impero @e basata su imprese di
+tal genere.  Pu@o darsi che sulla scelta abbia influito la
+suggestione dei mosaici ravennati glorificanti Giustiniano
+(Bacci); ma, a prescindere dal dubbio se Dante possa averli
+conosciuti al momento in cui scrisse questo canto, la
+suggestione, se ci fu, ag@i solo come primo incentivo; la scelta @e
+certo dovuta a solide ragioni positive.
+
+	|1-9 {Nota Bosco}.~  Per tracciare il volo unificatore
+dell'aquila romana, dalle ^genti vicine~ al mondo intero, Dante
+prende le mosse dalla traslazione operata da Costantino della
+sede imperiale da Roma a Bisanzio: |Poscia che Costantin l'aquila
+volse / contr'al corso del ciel, ch'ella seguio / dietro a
+l'antico che Lavina tolse~ (1-3).  Tutti i commentatori antichi e
+moderni hanno visto in questi versi un rimprovero a Costantino:
+mentre l'aquila, al seguito di Enea, era venuta nel Lazio da
+Troia, cio@e da est a ovest, secondo il cammino dei cieli,
+Costantino le aveva fatto percorrere il cammino inverso, da ovest
+a est: |contr'al corso del ciel~ sarebbe espressione equivalente
+quasi a `contro natura'.  Storicamente, la traslazione della sede
+signific@o la sanzione d'un processo, gi@a da tempo in atto, di
+degradazione di Roma e di divisione dell'Impero in due tronchi,
+che Dante certo non approvava: era proprio quella divisione che
+Giustiniano aveva tentato di sanare.  Ma pu@o darsi che a Dante
+tutto ci@o non fosse chiaro; tuttavia, per condannare Costantino
+bastava per lui il fatto che, a suo parere, Costantino aveva
+agito cos@i per cedere Roma al pontefice.  Dice l'aquila del cielo
+di Giove: ^con le leggi e meco, /... per cedere al pastor si fece
+greco~ (^Pd~ XX 55-57); cio@e Dante connetteva strettamente la
+traslazione della sede imperiale alla deprecata `donazione'
+costantiniana, origine del temporalismo della Chiesa e quindi di
+tutti i mali del mondo.  Che Dante la condanni non par dubbio. 
+Ma egli ribadisce qui tale condanna?  Il Mariotti ha avanzato dei
+dubbi.  In effetti, Costantino, primo imperatore cristiano,
+facendo del cristianesimo la religione dello stato, cio@e del
+mondo, aveva raccolto il frutto dell'unificazione operata
+dall'aquila, in preparazione dell'incarnazione di Cristo.  E
+infatti Dante, considerando la donazione un gran male, s@i, ma
+fatto con ^buona intenzione~, colloca Costantino non solo in
+Paradiso, ma tra i ^sommi~ degli spiriti giusti e pii formanti
+l'occhio dell'aquila del cielo di Giove; pu@o sembrare dunque
+strano che il rimprovero, in altra sede giustificato, sia
+ribadito, e in maniera cos@i dura (`contro natura') qui, nel
+momento in cui il poeta si accinge a esaltare il processo
+storico-religioso dell'unificazione e conseguente
+cristianizzazione del mondo.  Inoltre, il trasporto o il volo
+dell'aquila verso Oriente non poteva essere considerato da Dante
+contrario all'ordine naturale, dal momento che da l@i si era
+mossa, e |vicino a' monti de' quai prima usc@io~ era rimasta per
+pi@u di duecento anni, prima di giungere nelle mani di
+Giustiniano, come Dante dice (4-6) senz'ombra di giudizio
+negativo.  Del resto, se Cristo aveva voluto incarnarsi proprio
+in Oriente, questa parte del mondo non poteva essere ritenuta
+inferiore all'Occidente; se Giustiniano @e l'erede di Augusto, la
+continuit@a dell'Impero, pur nella sede orientale, @e da Dante
+pienamente accettata.  Infine, il ritorno dell'aquila nella
+Troade (67-68), in una sorta di omaggio alle origini, @e da lui
+vista <con simpatia> (Mariotti).  Difficile, forse impossibile,
+scegliere tra le due interpretazioni, ambedue fondate.  Forse,
+ferma restando la condanna dantesca della traslazione, prevale su
+questa l'idea dell'universalit@a dell'Impero, e quindi
+nell'espressione prevale il valore astronomico-topografico; il
+poeta ci fa vedere subito all'inizio del canto, destinato a
+seguire il prodigioso volo, che esso spazia per tutto il cielo,
+da est a ovest, e poi da ovest a est, nello |stremo d'Europa.~ 
+Al momento culminante, quando l'aquila @e tenuta da Cesare e
+l'Impero sta per essere propriamente fondato, son dedicate sei
+concitate terzine (55-72), nelle quali i nomi di fiumi e localit@a
+numerosi e lontani tra loro s'inseguono: sembra che l'aquila sia
+contemporaneamente o quasi nei luoghi pi@u diversi, come fulmini
+che scoppiano contemporaneamente in ogni punto dell'orizzonte. 
+Forse i versi iniziali sono da mettere in relazione con lo
+spaziare di Cesare, assai bene messo in luce dal Mariotti, da un
+punto cardinale all'altro.  Si consideri solo un passo: ^Inver'
+la Spagna rivolse lo stuolo, / poi ver' Durazzo, e Farsalia
+percosse / s@i ch'al Nil caldo si sent@i del duolo~ (64-66): la
+Spagna era per Dante l'estremo occidentale del mondo abitato, e
+tale era anche per Lucano (^Phars.~ III 454-455), che Dante ha
+qui presente: <versus ad Hispanas acies extremaque mundi / iussit
+bella geri>: Durazzo e Farsalo sono Oriente: un guizzo
+dell'aquila da ovest a est, e subito a sud, al ^Nil caldo.~
+
+	|1-9.  Poscia... pervenne~: l'ampia e solenne
+introduzione di Giustiniano a tutto il suo discorso, che occupa,
+cosa unica nel poema, l'intero canto, indica subito chiaramente
+l'altezza del tono lirico di esso, l'importanza e la gravit@a
+della materia trattata.  Nel suo discorso infatti, che pur
+procede, secondo una logica conseguenza, come risposta alle due
+domande formulate dal poeta nel canto precedente, l'accento
+lirico passa evidentemente sulla lunga ed ampia digressione
+centrale (vv. 28-111), sull'imprescindibile necessit@a dell'Impero
+e sulla sua storia ordinata e sviluppata dalla Provvidenza
+divina.  Si noti infatti come, fin da questi primi versi
+introduttivi, l'aquila, simbolo dell'Impero, diventi non solo il
+soggetto grammaticale (|ella~ del v. 2 e poi |uccel di Dio~ del
+v. 4), ma quello logico di tutto il discorso.  Anche Beatrice
+tace: si suol dire che @e perch$e il discorso @e di politica e non
+di teologia.  Ma intanto esso @e, in certa guisa, anche teologico,
+e poi nel Paradiso Beatrice non parla solo di teologia.  Dante
+evidentemente ha voluto qui evidenziare la figura di Giustiniano,
+quasi simbolo, a un tempo, dell'Impero e della Legge.
+
+	|1.  Costantin~: Costantino I, il Grande (274-337 d. C.),
+imperatore dal 306 alla morte, trasfer@i nel 330 la sede imperiale
+a Bisanzio.  Della sua donazione, che per il poeta fu l'inizio
+della cupidigia di beni temporali da parte della Chiesa, si parla
+spesso nel poema.  Costantino verr@a incontrato da Dante nel cielo
+di Giove.  Costantino e Giustiniano sono accoppiati anche in
+Brunetto Latini (^Tresor~, I xvii 2): <Mais li empereres
+Costantius recommen$ca a fere naviele loi, et autresi firent li
+autre empereour jusques au tens l'empereour Justinien, ki toutes
+les adre$ca et ordena mieus et plus enterinement, si come il est
+encore> (<Ma l'imperatore Costantino cominci@o a fare nuove leggi,
+e cos@i fecero gli altri imperatori fino all'imperatore
+Giustiniano, che le compil@o e ordin@o meglio e pi@u compiutamente,
+come lo sono ancora>).  Notizie di Giustiniano Dante attinse
+certamente dal ^Tresor~ (cfr. I lxxxvii 4-5).
+
+	|1-3.  l'aquila... ciel~: port@o il simbolo dell'Impero da
+Occidente a Oriente (|contr'al corso del ciel~); cio@e in senso
+contrario al movimento del cielo che @e invece da oriente a
+occidente.  |Ch'ella seguio~: lezione preferibile a quella pure
+largamente diffusa ^che la seguio~, perch$e oltre all'indicazione
+dei testi fa soggetto |l'aquila~ rendendo anche pi@u comprensibile
+il v. seguente (l'aquila segue Enea dall'oriente all'occidente). 
+Con l'altra lezione, meno persuasiva, il verso verrebbe a
+significare che il cielo segu@i, cio@e fu favorevole all'aquila,
+quando essa venne insieme con Enea.  |L'antico... tolse~: Enea,
+che giunto nel Lazio dopo molte peripezie, prese in moglie
+(|tolse~) Lavinia, figlia del re Latino.
+
+	|4-6.  cento... usc@io~: l'aquila rimase in oriente, a
+Bisanzio, vicino a quei monti da cui si era mossa dietro ad Enea
+(i monti della Troade in Asia Minore) per pi@u di duecento anni. 
+In realt@a tra il trasporto della capitale a Bisanzio, per opera
+di Costantino, e l'avvento al trono di Giustiniano, passarono
+meno di 200 anni e precisamente dal 330 al 527.  Ma @e probabile
+che Dante seguisse una diversa, ed errata, cronologia, per
+esempio quella del ^Tresor~ di B. Latini in cui il trasferimento
+della sede a Bisanzio @e posto nell'anno 333 e l'assunzione del
+trono da parte di Giustiniano nel 539; vi @e quindi tra le due
+date un intervallo di 206 anni.  Qualcuno, per far quadrare il
+conto, pose come termine la riconquista dell'Italia, ma ci@o @e
+inesatto, perch$e Dante indica chiaramente il periodo trascorso
+tra il trasferimento della sede e il momento in cui l'aquila
+pervenne in mano di Giustiniano.  D'altronde dopo la conquista
+dell'Italia la capitale rest@o a Bisanzio-Costantinopoli. 
+|L'uccel di Dio~: l'aquila (^l'uccel di Giove~, ^Pg~ XXXII 112)
+come simbolo dell'Impero voluto da Dio.  |Stremo~: estremit@a. 
+Bisanzio @e al confine dell'Europa e vicino all'Asia Minore, dove
+@e situata la Troade, da cui era partito Enea, dopo la distruzione
+di Troia.  |Usc@io~: usc@i, con epitesi gi@a vista.
+
+	|7-9.  sotto... penne~: immagine e linguaggio biblico che
+danno solennit@a al discorso (cfr. ^Ps.~ XVI 8).  |L@i~: in
+Oriente.  |Di mano in mano~: passando da imperatore a imperatore. 
+|Cangiando~: ripetizione del concetto gi@a espresso nel verso
+precedente.
+
+	|10-27 {Nota Bosco}.~  L'opera di Giustiniano come
+restauratore dell'unit@a imperiale fu per Dante triplice: quella
+bellico-territoriale, con il ricongiungimento all'Impero
+dell'Africa settentrionale e dell'Italia, compresa Roma: alla
+restaurazione integrale dell'Impero nell'area occidentale
+mancavano soltanto la Spagna, la cui conquista fu da Giustiniano
+tentata, e la Gallia; l'azione di lui, sia pure attraverso i suoi
+generali, era un esempio e un monito per gli imperatori del suo
+tempo, prima e dopo Enrico VII, che si disinteressavano di unire
+tra loro le varie regioni e in particolare di estendere la loro
+sovranit@a sull'Italia e su Roma, che sola poteva conferire
+autorit@a universale alla loro corona.  In secondo luogo,
+Giustiniano cerc@o di raggiungere l'unit@a religiosa.  Il ripudio
+dell'eresia monofisita, alla quale pure aderiva con tutta la sua
+energia l'imperatrice Teodora, significava accedere alla fede che
+aveva a Roma il suo centro; Giustiniano tendeva dunque anche per
+questa via alla riunione dei due Imperi, d'Oriente e d'Occidente,
+anche se la capitale restava a Costantinopoli.  L'unificazione
+religiosa era il presupposto di quella politica.  Ma nel canto di
+Dante questi due tentativi di unificazione sono appena accennati
+(13-21; 25-27): forse il poeta non ebbe piena consapevolezza
+della loro portata, e comunque essi non approdarono ad alcun
+risultato duraturo; al centro della sua attenzione @e invece la
+terza opera sua, destinata a durare, quella del ^Corpus iuris
+civilis~, cio@e la raccolta unificata delle leggi romane: il
+fondamento del diritto di tutto il mondo.  Si ricordi che
+l'aquila, oltre che dell'Impero, @e simbolo anche di giustizia, e
+in questa doppia simbologia apparir@a agli occhi di Dante nel
+cielo di Giove.  Spezzatasi l'unit@a politica del mondo, l'unit@a
+giuridica sopravvive in grazia al ^Corpus~, e questa era la
+premessa perch$e l'unit@a politica potesse essere tentata di nuovo,
+come Dante con tutte le sue forze auspicava.  In ^Pd~ VII 6 @e
+detto che su Giustiniano ^doppio lume s'addua~; cio@e, secondo una
+delle interpretazioni possibili del v., in lui alla gloria delle
+armi si aggiungeva quella delle leggi.  Il ^Corpus~ fu
+effettivamente opera d'una commissione di giuristi, capeggiata da
+Triboniano; ma Dante ne attribuisce tutto il merito
+all'imperatore, che del resto, oltre a promuoverlo, influ@i su di
+esso in misura determinante e replicatamente nel corso della sua
+elaborazione; e del resto a Giustiniano era universalmente
+attribuito.  Gi@a al ^Corpus~ Dante aveva alluso in ^Pg~ VI 88-89:
+Giustiniano, @e detto col@a, aveva fabbricato lo strumento
+necessario per effettuare l'universalit@a dell'Impero; ma gli
+imperatori tedeschi non perseguivano tale universalit@a, donde lo
+scempio delle fazioni e delle ingiustizie.  Si noti che il
+^Corpus~ @e promosso da Giustiniano per diretta ispirazione
+divina, dice Dante (|a Dio per grazia piacque di spirarmi /
+l'alto lavoro...~, 23-24): cos@i come direttamente Dio rende
+vittoriosa l'unificazione territoriale di Belisario, cui |la
+destra del ciel fu... congiunta~ (26).  Allo stesso modo, e
+soprattutto, la costituzione dell'Impero non @e opera di uomini,
+ma di Dio, che si serve per essa dei Romani, moralmente cos@i
+nobili.
+
+	|10.  Cesare... Iustin,iano~: dopo l'ampia premessa, in
+questo verso solenne si compendia la sostanza della prima
+risposta.  Si noti intanto la posizione chiastica delle parole
+che vengono a porre in risalto, al principio e alla fine del
+verso, l'epiteto imperiale ed il nome.  Poi i due tempi diversi
+|fui~, |son~ in antitesi, perch$e dopo la morte resta l'individuo
+ma spariscono gli attributi terreni (cfr. ^Pg~ V 88). 
+Giustiniano, nato nel 482 e morto nel 565, fu imperatore
+d'Oriente dal 527 alla morte.  La sua fama @e affidata soprattutto
+alla sua opera legislativa, e la raccolta delle leggi, che ancora
+porta il suo nome, fu ed @e tuttora la base di ogni legislazione
+presso i popoli civili.  Le conoscenze storiche sull'imperatore
+erano, al tempo di Dante, lacunose, e, o per ignoranza o
+volutamente, il poeta nascose le scelleratezze che non mancarono
+durante il suo regno.  Ne fece quindi una figura esemplare, quasi
+una specie di perfetto monarca, in pieno accordo con la funzione
+spirituale della Chiesa, anzi ne fece quasi il simbolo
+dell'Impero stesso, governato da sagge leggi.
+
+	|11-12.  per... amor~: per ispirazione dello Spirito
+Santo (|primo amor~).  |D'entro... vano~: Giustiniano sfrond@o
+quanto vi era di ormai superato nella legislazione romana, perch$e
+riferito a costumi ed usi del passato, e tolse anche quanto di
+contraddittorio vi era nell'accumularsi delle disposizioni
+giuridiche col passare del tempo.  <Dante ha colto e reso assai
+bene il concetto fondamentale della riforma giustinianea>
+(Casini).  Il Favati (in <Cultura e Scuola>, IV 13-14, p. 552)
+richiama le ^Novellae Constitutiones post Codicem, VIII Praep.~
+dove @e detto che @e stata volont@a del legislatore <una complecti
+lege quae priores omnes et renovet et emendet et ^quod deest~
+adiciat et ^quod superfluum est~ abscindat> (<di raccogliere in
+un'unica legge tutte quelle anteriori, innovando e correggendo e
+aggiungendo ci@o che manca e togliendo ci@o che @e superfluo>).  Per
+il critico a ^superfluum~ corrisponde |troppo~, mentre |vano~
+corrisponde a ^quod deest~, citando per |vano~ = <vuoto> ^If~ XX
+87; ^Pg~ V 97; X 22; ecc.  Ma come fa Giustiniano a togliere
+quello che non c'@e?  Il Favati intende: <colmando le lacune>, che
+va bene per ^quod deest~, ma non per il |vano.~  Non si tratta
+quindi, come pensa il Favati, di una <citazione testuale>; Dante
+ha interpretato il senso generale della riforma di Giustiniano.
+
+	|13-15.  prima... attento~: prima di dedicarmi all'opera
+(|ovra~) legislativa.  |Una natura... contento~: credevo che in
+Cristo ci fosse solo una natura ed ero contento di tale credenza. 
+Questa eresia, a cui le fonti storiche medievali credevano
+erroneamente avesse aderito Giustiniano, @e quella cos@i detta
+^monofisita~ (che significa appunto ^una sola natura~) predicata
+da Eutiche, che sosteneva esserci in Cristo solo la natura divina
+e non anche quella umana, perch$e quest'ultima veniva annullata
+congiungendosi alla prima.  Anche qui la <fonte> @e forse Brunetto
+(^Tresor~, I lxxxvii 5): <... il fust au comencement en l'erreur
+des erites, a la fin reconut il son erreur de par le conseil
+Agapite> (<inizialmente fu nell'errore degli eretici, infine
+riconobbe il suo errore seguendo l'ammaestramento di Agapito>). 
+|Pi@ue~: pi@u; con epitesi gi@a vista, come poi ^fue~ (fu) al v. 16.
+
+	|16-18.  Agapito~: Agapito I fu papa dal 533 al 536;
+recatosi a Costantinopoli per trattare la pace con Teodato, re
+dei Goti, e l'imperatore d'Oriente, Giustiniano, avrebbe, secondo
+le fonti storiche del Medioevo (e Dante, come s'@e visto, attinge
+a Brunetto, vedi nota prec.), convinto questi del suo errore e lo
+avrebbe riportato all'ortodossia.  |Fede sincera~: alla fede
+vera, pura.  Si osservi la retorica ripetizione della parola
+^fede~ nei vv. 15-17-19, che conferma questa lezione contro altre
+proposte.  <La triplice ripetizione... ha lo scopo di segnare i
+gradi di un'ascesa: dalla fede erronea (13-15) alla fede vera
+(16-18) alla fede confermata e glorificata (19-21).  Le tre
+terzine costituiscono un `trittico' sul tema `Giustiniano e la
+fede'> (S. MARIOTTI, in ^Nuove letture~, V 381 n. 2).
+
+	|19-21.  e ci@o... vera~: quella verit@a che da lui aveva
+appreso in materia di fede ora qui in Paradiso, vedo chiaramente,
+come tu con evidenza comprendi che in un giudizio contraddittorio
+necessariamente uno dei termini @e falso, e vero @e l'altro. 
+Questa affermazione era uno dei basilari postulati della logica
+aristotelica e si denomina <principio di non contraddizione>.  @E
+da respingere l'interpretazione: <ci@o che era il contenuto della
+retta fede di Agapito>, sostenuta, ad es., dallo Scartazzini-
+Vandelli.  Cfr. Benvenuto: <quidquid tenebam de fide per solam
+credulitatem> (<quanto di fede avevo per sola credenza>).
+
+	|22-24.  mossi i piedi~: immagine figurata per dire
+<procedetti in accordo con la Chiesa>.  |A Dio... lavoro~: come @e
+errata la notizia dell'eresia di Giustiniano, cos@i lo @e anche la
+cronologia.  Infatti l'opera legislativa iniziata nel 528 fu
+terminata nel 533, anno in cui venne eletto papa Agapito I. 
+L'errore @e delle fonti a cui Dante attingeva.
+
+	|25-27.  e al mio... posarmi~: affidai il comando al mio
+generale Belisario e il cielo fu cos@i favorevole alle sue imprese
+che dimostr@o chiaramente che io dovevo dedicarmi solo ad opera di
+pace, cio@e all'opera legislativa.  |Belisar~: il pi@u famoso
+generale  di Giustiniano, nato al confine tra la Tracia e
+l'Illirico intorno al 500, mor@i a Costantinopoli nel 565.  La sua
+fama @e raccomandata alle sue vittorie sui Vandali in Africa, alla
+riconquista dell'Italia contro i Goti e alla fondazione
+dell'Esarcato di Ravenna, dopo la caduta del dominio goto.  La
+sua fortuna e la sua gloria gli suscitarono contro l'invidia dei
+cortigiani e ci furono momenti in cui gli onori sembravano
+mutarsi in tristi lutti.  Una leggenda posteriore addirittura
+narr@o che gli sarebbero stati confiscati i beni da Giustiniano,
+sarebbe stato fatto accecare, e avrebbe terminato la sua vita in
+completa miseria.  Anche se ci@o non @e vero, non mancarono certi
+momenti di sfavore e gravi torti dell'Imperatore nei suoi
+confronti, ma Dante non ne fu, forse, a conoscenza e come fece di
+Giustiniano la figura quasi emblematica dell'Impero governato
+dalle leggi, cos@i di Belisario fece l'esempio del condottiero
+protetto dalla provvidenza divina per l'attuazione dei suoi
+piani.  Si noti l'affettuoso |mio~ quasi dicesse <il mio fedele>;
+che potrebbe confermare l'ignoranza di Dante sui torti subiti da
+Belisario, ma potrebbe anche essere un pentimento postumo. 
+|Commendai~: affidai; unica volta che il verbo ^commendare~,
+frequente in Dante, ha questo significato.  |La destra del ciel~:
+il favore del cielo.  Cfr. ^Cv~ IV v 17.  |Posarmi~: cessare la
+guerra, fermarmi.
+
+	|28-30.  qui~: a questo punto.  |La question prima~: la
+prima domanda (^Pd~ V 127).  |S'appunta~: finisce, fa punto. 
+|Sua condizione~: la qualit@a, la natura di questa risposta.  |Mi
+stringe... giunta~: mi obbliga, mi costringe a far seguire
+(|seguitare~) una aggiunta, come chiarimento.  Tale |giunta~ che
+occuper@a i vv. 37-96, @e la storia dell'aquila imperiale; essa
+rappresenta pure la parte pi@u importante del canto.
+
+	|31-33.  perch$e... s'oppone~: affinch$e tu possa renderti
+conto con quanta ragione operino contro il |sacrosanto segno~
+(l'aquila imperiale) sia coloro che se ne appropriano l'emblema
+(i Ghibellini), sia coloro che lo avversano (i Guelfi). 
+Naturalmente |con quanta ragione~ @e detta ironicamente e vale
+<con quanto torto>, <con quanta offesa al segno imperiale>. 
+Qualcuno, proponendo di porre il punto fermo dopo il v. 30,
+vorrebbe legare questa terzina con la terzina seguente ( ^Vedi
+quanta virt@u~, ecc.), evidentemente interpungendo con una virgola
+dopo il v. 33 e terminando il pensiero al v. 35 con ^reverenza~
+segnato dal punto esclamativo.  Ma <non persuade che l'apodosi
+venga congiunta ad una protasi ove si afferma cosa differente (la
+|ragione~, e cio@e il `torto', che muove partiti diversi ad
+appropriarsi del pubblico |segno~ o a combatterlo, spiega la
+necessit@a della ^giunta~, non chiarisce come e quanto il
+|sacrosanto segno~ sia veramente ^degno di reverenza~)>
+(PETROCCHI, IV 87).
+
+	|34-78 {Nota Bosco}.~  Non sempre Dante era stato
+dell'opinione che le strepitose vittorie dei Romani fossero
+dovute alla mano di Dio; c'era stato un tempo in cui, come
+confessa in ^Mn~ II i 2, considerando <superficialmente> le cose,
+credeva (secondo la tesi guelfa, quella fatta valere da Roberto
+d'Angi@o contro Enrico VII) che il popolo romano avesse avuto il
+dominio del mondo non per suo diritto divino ma solo per la
+violenza delle armi (<nullo iure sed armorum tantummodo
+violentia>); ma poi per gradi (Ricci) s'era convinto del
+contrario: prima che nella ^Monarchia~, lo aveva affermato in
+questo canto.  La questione era ai tempi di Dante dibattuta e
+variamente risolta.  Eccellente argomento dei sostenitori della
+sacert@a dell'Impero era, secondo la mitografia tradizionale,
+l'inflessibile rigore morale, tutt'uno col valore militare, degli
+antichi Romani; l'argomento @e fatto proprio da Dante in ^Cv~ IV v
+17, qui (43-48), e sviluppato in ^Mn~ II v 8 ss.  Non ci
+meravigliamo, pertanto, che Dante taccia sugli aspetti negativi
+dell'Impero, per es. sulle persecuzioni dei cristiani (Mariotti)
+e su altri eventi riprovevoli.  Essenziale @e partire dal
+principio che, come tutti ammettono, religione e politica sono in
+Dante inseparabili tra loro: la sua non era, come sintetizza
+egregiamente il Barbi, la piccola politica che raggiunge fini
+particolari, ma quella che conduce a un ordinamento generale,
+voluto dalla Provvidenza perch$e tutta l'umanit@a raggiunga la
+felicit@a in questo e nell'altro mondo.
+
+	|34-36.  Vedi~: nota, considera.  |Cominci@o~: il soggetto
+@e la |virt@u~ che ha reso degno di reverenza il ^sacrosanto
+segno.~  Qualcuno invece volle finire le parole di Giustiniano
+con |reverenza~ ed intendere i vv. 35-36 come discorso indiretto,
+facendo riprendere il discorso diretto col v. 37: ^Tu sai~ ecc. 
+Ma ci@o immiserisce e turba la straordinaria grandiosit@a di questo
+discorso che, solo, occupa tutto il canto senza interruzioni. 
+Prosaica la congettura del Debenedetti che volle leggere
+^comincio~ facendo soggetto `Io Giustiniano'.  |Che... regno~: la
+virt@u del ^sacrosanto segno~ comincia dall'epica lotta di Enea
+contro Turno e gli altri avversari; risale quindi alle mitiche,
+lontane origini di Roma, cantate da Virgilio nell'^Eneide~, da
+Dante credute eventi storici.  Cos@i questa storia mirabile
+dell'aquila romana cessa di essere cronaca di avvenimenti per
+innalzarsi nella sfera solennemente religiosa di un disegno
+provvidenziale, che fece di Roma il centro dell'unit@a spirituale
+e materiale dell'umanit@a.  Il ^volo~ dell'aquila non conosce
+ostacoli n$e remore, gli uomini della storia non sono che gli
+strumenti in mano alla provvidenza divina, che ha stabilito ^ab
+aeterno~ la storia dell'umanit@a, incentrata sul mistero della
+Redenzione.  Pallante, figlio di Evandro, alleato di Enea, mor@i
+combattendo contro Turno, come @e narrato nell'^Eneide.~  Pallante
+@e quindi come il simbolo del primo caduto per il trionfo del
+futuro Impero Romano.  Mai, come qui, Dante @e il continuatore di
+Virgilio.
+
+	|37-39.  Tu sai... ancora~: si noti l'anafora del verbo
+^sapere~ quasi a ribadire (^Tu sai... E sai... Sai~) questi
+momenti della storia come momenti essenziali del disegno
+provvidenziale.  La terzina sintetizza la preistoria immediata di
+Roma, cio@e la fondazione di Albalonga da parte di Ascanio, figlio
+di Enea e il regno dei suoi discendenti fino al combattimento fra
+Orazi e Curiazi (|i tre a' tre~), che mise fine al regno di
+Albalonga e diede inizio alla supremazia di Roma.  Secondo il
+Toynbee (^Dante Studies and Researches~, Londra, 1902, p. 299) la
+fonte di Dante @e Brunetto, per il Mariotti, Virgilio.  Anzi,
+quest'ultimo afferma che non c'@e da meravigliarsi che l'aquila
+risieda per circa un secolo contemporaneamente ad Albalonga e a
+Roma, dato che Albani e Romani derivavano ^ex ipsa Troyana
+radice~ (^Mn~ II ix 15).  Il soggetto @e sempre il ^sacrosanto
+segno~, come lo sar@a per tutta la ^giunta~ di Giustiniano. 
+|Infino al fine~: fino al giorno che l'aquila pose fine alla
+dimora in Albalonga e cominci@o quella in Roma soltanto.  Come
+Pallante @e caduto per ^dar regno~ al ^sacrosanto segno~, cos@i
+|per lui~ combattono sia gli Orazi che i Curiazi.
+
+	|40-42.  E sai... vicine~: la terzina sintetizza la
+storia del periodo regio da Romolo, sotto il cui regno avvenne il
+ratto (|mal~) delle Sabine, a Tarquinio il Superbo, la cui
+cacciata fu originata dall'offesa fatta a Lucrezia.  Qui il |che~
+(v. 40) ha valore interrogativo, differentemente dal v. 37 dove @e
+congiunzione dichiarativa e dal v. 43 dove @e pronome relativo
+(cfr. DURO, s. v. ^che~, in ^E. D.~, I 948).  |Le genti vicine~:
+i popoli confinanti.  Si veda ^Cv~ IV v 12.
+
+	|43-45.  Sai... collegi~: questa e le tre strofe seguenti
+sintetizzano la storia dell'aquila romana nel periodo
+repubblicano: sono ricordati i grandi romani e le imprese contro
+i Galli guidati da Brenno, contro i Tarentini aiutati da Pirro,
+re dell'Epiro, e le altre conquiste che resero famosi i nomi di
+T. Manlio Torquato e di Cincinnato, P. Decio Mure e la famiglia
+dei Fabi, Scipione vincitore dei Cartaginesi e Pompeo.  @E una
+rapida rassegna in cui semplici nomi dei grandi condottieri
+sottolineano ancora una volta l'azione dell'aquila, la vera
+protagonista della storia provvidenziale dell'Impero Romano. 
+Cfr. ^Cv~ IV v 13-15.  |Principi e collegi~: monarchi e
+repubbliche.  |Collegi~ @e evidentemente plurale di ^collegio~ e
+sta ad indicare governo formato da vari individui, cio@e
+impersonale (cfr. l'odierno <governo collegiale>), in
+contrapposizione a |principi~, ovviamente <regni>, cio@e governi
+personali.
+
+	|46-47.  Torquato~: T. Manlio Torquato, vincitore dei
+Galli e dei Latini.  |Quinzio... nomato~: Lucio Quinzio
+Cincinnato, il celebre dittatore, vincitore degli Equi, tornato
+al lavoro dei campi, deposta la dittatura dopo la vittoria sui
+nemici di Roma.  Cfr. ^Mn~ II v 9.  Il ^cognomen~ Cincinnato
+deriva da ^cincinnatus~ = <ricciuto>, non dal <ricciolo
+arruffato> (|cirro negletto~), come quasi tutti i commentatori
+ripetono.  Fa notare il Mariotti che l'origine dell'errore
+(presente anche nel Petrarca: <e Cincinnato con l'inculta
+chioma>, ^Tr. Famae~, redazione anteriore, 70) sar@a stata la
+spiegazione di ^cincinnus~ data dal lessico di Uguccione.  |I
+Deci~: P. Decio Mure, padre e figlio, entrambi caduti in
+battaglia e vincitori rispettivamente dei Latini e dei Sanniti;
+cfr. ^Mn~ II v 15.  |E' Fabi~: i trecento membri della famiglia
+Fabia, caduti nella guerra contro i Veienti e Q. Fabio Massimo il
+Temporeggiatore.
+
+	|48.  mirro~: qui: onoro.  Di questo verbo sono state
+date due interpretazioni dagli antichi commentatori: <Ungo di
+mirra> nel senso di <conservare per il futuro>, perch$e come
+spiega il Lana, con la mirra si ungevano i cadaveri per
+imbalsamarli e preservarli dalla corruzione; oppure |mirro~
+varrebbe <miro> col raddoppiamento della ^r~ per ragioni di rima. 
+Forse la migliore @e la prima, tenendo presente che il verbo
+^mirrare~ @e costruito sul sostantivo ^mirra~, come ^incensare~ da
+^incenso~; qui potrebbe, dunque, valere pi@u esattamente <onorare>
+(cfr. PARODI, ^Lingua~, 238, 264).
+
+	|49-51.  Esso... labi~: il sacrosanto segno (|esso~)
+atterr@o l'orgoglio dei Cartaginesi (|Ar@abi~) che passarono,
+dietro ad Annibale, le Alpi (|l'alpestre rocce~) da cui tu, o Po,
+scorri, discendi (|labi~); cfr. ^Cv~ IV v 19.  Si noti
+l'anacronismo nel designare i Cartaginesi col nome di Arabi (gli
+Arabi occupavano, ai tempi di Dante, la costa africana ove un
+tempo erano i Cartaginesi).  @E anacronismo analogo a quello di
+^If~ I 68, dove i genitori di Virgilio eran detti ^lombardi~ e di
+^Cv~ IV v 18, dove i Galli son detti ^Franceschi.~  Il latinismo
+|labi~, da un verbo ^labere~, coniato su analogo verbo latino,
+serve con gli altri latinismi nel corso del canto, a dare il tono
+solenne al linguaggio di Giustiniano.  In quanto all'|orgoglio~
+dei Cartaginesi, il Mariotti ricorda il compito di Roma di
+^debellare superbos~ (^Aen.~ VI 853), oltre a passi biblici ove
+Dio umilia l'orgoglio dei nemici (e l'aquila @e l'arma di Dio).
+
+	|52-54.  Scip,ione e Pompeo~: P. Cornelio Scipione
+cominci@o giovanissimo la carriera militare: poco pi@u che
+trentenne vinse Annibale a Zama.  Gneo Pompeo Magno ottenne il
+primo trionfo a 25 anni; perci@o @e detto che entrambi trionfarono
+(|tr,iunfaro~) quando erano ancora giovani (|giovanetti~).  |A
+quel... amaro~: riferimento alla leggenda della distruzione di
+Fiesole (|quel colle sotto 'l qual tu nascesti~) durante la
+guerra contro Catilina, dove con i generali dell'esercito romano
+era anche Pompeo, come racconta il Villani (^Cron.~ I 36 ss.). 
+Per tale distruzione il ^sacrosanto segno~ parve amaro a Fiesole,
+che, come @e noto, @e un colle sopra Firenze, patria del poeta.
+
+	|55-57.  presso... sereno~: comincia a delinearsi, ancora
+pi@u chiaramente, la funzione provvidenziale dell'Impero: la
+pacificazione del mondo per permettere l'avvento e la diffusione
+del Cristianesimo.  I versi significano: all'avvicinarsi del
+tempo stabilito dal cielo per rendere tutto il mondo simile a s$e,
+cio@e unito, sereno e ordinato; @e appunto la preparazione
+all'avvento del Cristianesimo (cfr. ^Cv~ IV v 4).  Cesare @e
+considerato da Dante come l'iniziatore dell'Impero e con lui
+comincia quindi quello che era il sogno politico del poeta: il
+mondo unito sotto un solo monarca.  |Tutto~: @e da unire a |lo
+mondo~ del verso successivo, non a |ciel.~  |A suo modo~: com'era
+esso stesso.  |Il tolle~: lo prende.  Anche qui il latinismo ha
+la funzione di innalzare il linguaggio allo stile sublime.
+
+	|58-60.  E quel... pieno~: la terzina sintetizza le
+imprese di Cesare in Gallia, indicata qui col nome di suoi fiumi
+principali.  Il Varo e il Reno ne indicano i confini occidentale
+e settentrionale.  |F$e~: il soggetto @e sempre il ^sacrosanto
+segno.~  |Isara~: l'Is@ere.  |Era~: forse la Loira, ma alcuni
+intesero l'^Arar~ latina, cio@e la Sa#one.  |E ogne... pieno~:
+tutti i fiumi che alimentano il Rodano.  Si cita solitamente
+Floro (I 37 [III 2]), anche se riferito ad altri avvenimenti, nel
+testo che poteva leggere Dante non nella lezione oggi accreditata
+(cfr. ^E. D.~, s. v. ^Floro~).  Fonte probabile Lucano (^Phars.~
+I 395-434) in cui compaiono tutti i fiumi nominati da Dante, ma
+in ordine sparso.
+
+	|61-63.  Quel... penna~: ci@o che l'aquila romana fece
+uscita da Ravenna e passato il Rubicone fu un volo tale, cos@i
+rapido, che nessuna lingua e nessuna penna potrebbe descriverlo. 
+Si allude alla guerra civile tra Cesare e Pompeo, che seppur
+deplorevole, fu necessaria per l'affermazione finale dell'Impero. 
+Le imprese di Cesare nella guerra civile sono sintetizzate nelle
+terzine seguenti.  @E da notare per@o che Dante non conosceva i
+^Commentarii~; la sua fonte principale @e Lucano.  Anche se il
+poeta non esita a menzionare la guerra civile (Rubicone, Spagna,
+Farsalo, ecc.) forse volutamente evita di menzionare lo scontro
+diretto tra Cesare e Pompeo, lodato anzi quest'ultimo come
+trionfatore giovinetto (vv. 52-53).  Si ricordi che Cesare e
+Pompeo erano, secondo ^Aen.~ VI 826 ss., vicini negli Elisi. 
+Forse quella contro Pompeo non era propriamente per Dante guerra
+civile, dal momento che Cesare aveva assunto il potere <per
+volere di Roma>, al quale Pompeo ebbe il torto di riluttare:
+l'assunzione del potere da parte di Cesare, che significa in
+sostanza la fondazione dell'Impero, non fu frutto di un atto di
+violenza, ma atto legittimo.  |Rubicon~: piccolo fiume tra
+Ravenna e Rimini.  Segnava il confine tra l'Italia e la Gallia
+Cisalpina (l'odierna Italia settentrionale) ed era vietato ai
+capi militari di oltrepassarlo con l'esercito, pena l'esser
+dichiarati nemici della patria.  A indurre Cesare a passare il
+Rubicone fu Curione (^If~ XXVIII 97-99; vedi ^91-102 {Nota
+Bosco}~ a ^If~ XXVIII), che Dante condanna nella bolgia dei
+seminatori di discordie.
+
+	|64-66.  Inver' la Spagna~: l'aquila romana guid@o
+l'esercito (|lo stuolo~) verso la Spagna, dove stavano i legati
+di Pompeo: Petreio, Afranio e Varrone.  |Durazzo~: sulla costa
+dalmata, dove Cesare sbarc@o per inseguire direttamente Pompeo,
+rifugiatosi in Tessaglia.  |Farsalia~: Fars@alo, in Tessaglia, ove
+avenne lo scontro decisivo tra gli eserciti di Cesare e di
+Pompeo.  |S@i... duolo~: s@i che se ne sentirono i dolorosi effetti
+(|duolo~) fin nell'Egitto (|al Nil caldo~).  Dopo la battaglia di
+Fars@alo, Pompeo fugg@i in Egitto, rifugiandosi presso la corte di
+Tolomeo, dove venne ucciso proditoriamente.
+
+	|67-69.  Antandro... si cuba~: narra Lucano che dopo la
+vittoria di Fars@alo, Cesare, nell'inseguire Pompeo, fece una
+deviazione in Asia Minore, nella Troade, per visitare le rovine
+di Troia (^Phars.~ IX 950 ss.).  Dante afferma quindi che
+l'aquila con Cesare rivide Antandro (il porto della Frigia donde
+salp@o Enea), e il Simoenta (|Simeonta~ nella grafia medievale),
+il fiume che scorre vicino a Troia, e la tomba ove giace (|si
+cuba~, latinismo) Ettore, l'eroe troiano (cfr. Virg. ^Aen.~ V
+371: <tumulum quo maximus occubat Hector>, <la tomba in cui giace
+il grande Ettore>).  Il Parodi (^Lingua~, II 272) pensa che |si
+cuba~ possa anche non essere un pretto latinismo: |cuba~ in
+provenzale e catalano valeva <cassa>, <vasca>, ecc. e in qualche
+testo dialettale si trova proprio con il senso di <tomba>.  |E
+mal... si scosse~: l'aquila riprese il suo volo (|si scosse~)
+sfortunatamente per Tolomeo, che venne deposto dal regno e
+sostituito con Cleopatra.
+
+	|70-72.  Da indi~: di qui, cio@e dall'Egitto.  |A Iuba~:
+l'aquila piomb@o come un fulmine (|folgorando~) su Giuba, re della
+Mauritania, sostenitore di Pompeo, che fu privato del regno e
+mor@i dopo la battaglia di Tapso.  Il senso del verso @e per@o solo
+apparentemente chiaro.  Infatti la Mauritania @e a occidente
+dell'Egitto e Cesare non doveva quindi <scendere>: o Dante non
+aveva nozioni geografiche precise, o qui non allude allo
+spostamento tra un luogo e un altro, ma al piombare dell'aquila
+dal cielo, come folgore: una ripresa, come altre, dell'immagine
+dell'aquila come uccello e non come <segno>.  Inoltre |a~ o vale
+^ad~ lat. e indica <in direzione di Iuba>, o Dante vuol designare
+la regione su cui regnava e non la persona del re.  |Onde~: di
+dove.  |Nel vostro occidente~: in Ispagna, dove Cesare port@o
+l'esercito per distruggere le ultime resistenze dei Pompeiani,
+che vennero annientate a Munda.  |Tuba~: la tromba di guerra.
+
+	|73-75.  col baiulo seguente~: con Ottaviano Augusto. 
+|B@aiulo~ @e latinismo e vale propriamente <portatore>, per
+estensione <reggitore, governatore> (cfr. i termini medievali
+^balio, bailo~).  Qui per@o va inteso nel suo stretto significato
+di <portatore>, in quanto i vari imperatori, sentiti come
+semplici strumenti (il protagonista @e sempre il ^sacrosanto
+segno~), sono coloro che ^portano~ l'insegna dell'aquila. 
+Ottaviano @e considerato il secondo imperatore, dopo Cesare. 
+|Bruto... latra~: si @e voluto vedere una contraddizione, perch$e
+in ^If~ XXXIV 64-67, Bruto ^non fa motto.~  Ma @e chiaro che qui
+il vb. ha significato pi@u generico e forse vale la chiosa di
+Pietro Alighieri nel suo commento, che lo interpreta nel senso di
+<attesta>, sia pure intendendo che tale attestazione @e fatta con
+sfoghi di rabbia e di dolore.  |Modena e Perugia~: sotto le mura
+di Modena venne sconfitto Marco Antonio e Perugia fu orribilmente
+saccheggiata dalle truppe di Ottaviano.
+
+	|76-78.  Cleopatra~: regina d'Egitto (cfr. ^If~ V 63);
+dopo la sconfitta di Azio e la morte di Marco Antonio si uccise
+facendosi mordere da un aspide (|col@ubro~).  |Fuggendoli
+innanzi~: fuggendo davanti all'aquila che avanzava, portata da
+Ottaviano.  |Subitana e atra~: subitanea, repentina e atroce.
+
+	|79-96 {Nota Bosco}.~  In sostanza, il volo dell'aquila
+romana comincia per Dante da Enea e giunge sino ad Augusto, a
+colui che |puose il mondo in tanta pace, / che fu serrato a Giano
+il suo delubro~ (80-81); questa pace, che segnava la ^plenitudo
+temporis~ di S. Paolo (cfr. ^Mn~ I xvi 2), era la meta ultima del
+volo.  Dante non traccia la storia intera di Roma, ma la
+fondazione dell'Impero universale, con le importantissime
+conseguenze immediate: Cristo, volendo espiare col suo sacrificio
+il peccato universale, si fece condannare da un potere universale
+rappresentato localmente da Pilato; tutta la storia passata
+tendeva a questo, che ci fosse un'autorit@a alta e legittima, e,
+per cos@i dire, rappresentativa dell'intera umanit@a, che potesse
+farsi strumento della punizione in Cristo di tutti gli uomini, e
+quindi della salvazione.  Salvo che, a conclusione della
+conclusione, lo stesso Impero, con Tito, provvide, con la
+distruzione di Gerusalemme e la diaspora ebraica che ne segu@i, a
+punire i punitori (contraddizione proposta in questo c., 91-93, e
+risolta nel seguente, 19-51).  Raggiunta questa meta, imposto da
+Costantino il cristianesimo nel mondo, comincia, cos@i Dante
+probabilmente pensava, un lento deprecabile processo centrifugo:
+infatti, degli imperatori seguenti il poeta non nomina che
+Giustiniano, appunto, e Carlo Magno, i due che tentarono la
+ricostituzione di esso, cio@e il ritorno allo ^status~ augusteo. 
+Sia anche avvertito che con la menzione di questi due imperatori,
+Dante stabilisce fermamente la continuazione dell'Impero da
+Augusto, attraverso Carlo Magno e successori, agli imperatori del
+suo tempo.
+
+	|79-81.  costui~: Ottaviano.  |Lito rubro~: il Mar Rosso
+(lat. ^ruber~), perch$e Ottaviano, sconfiggendo Cleopatra,
+conquist@o all'Impero di Roma anche l'Egitto.  Forse @e ricordo
+virgiliano (^Aen.~ VIII 686).  |Che... delubro~: la chiusura del
+tempio (|del@ubro~) di Giano avveniva quando Roma si trovava in
+pace con tutti i popoli.  Cos@i infatti avvenne sotto l'impero di
+Augusto.
+
+	|82-90.  Ma ci@o... ira~: tutte le imprese compiute
+dall'aquila fino a quel momento e tutte quelle che avrebbe
+compiuto nel futuro in tutto il mondo, sottomesso per volont@a
+divina all'Impero, diventano cosa da poco se si guarda, con mente
+priva di pregiudizi e di passioni, ci@o che essa comp@i in mano di
+Tiberio (il |terzo Cesare~) perch$e in mano di costui la giustizia
+divina, che ispira le mie parole, gli concesse la gloria di
+vendicare, con il sacrificio di Cristo, l'ira divina per il
+peccato di Adamo.  Sono visibili qui alcuni aspetti fondamentali
+del pensiero medioevale in genere e di Dante in specie.  Tutta la
+storiografia del Medioevo considerava la storia dell'umanit@a come
+facente perno sulla Redenzione: il sacrificio di Cristo @e quindi
+il centro ideale di questa storia.  La morte di Cristo poi,
+sanzionata dall'autorit@a imperiale attraverso il suo legato,
+Ponzio Pilato, conferma solennemente la legalit@a e la legittimit@a
+dell'Impero universale, come Dante stesso afferma perentoriamente
+nel ^Monarchia~ (II xii 5): <Si ergo sub ordinario iudice
+Christus passus non fuisset, illa pena punitio non fuisset.  Et
+iudex ordinarius esse non poterat nisi supra totum humanum genus
+iurisdictionem habens, cum totum humanum genus in carne illa
+Christi... puniretur...  Et supra totum humanum genus Tiberius
+Cesar, cuius vicarius erat Pilatus, iurisdictionem non habuisset,
+nisi Romanum Imperium de iure fuisset> (<Se dunque la passione di
+Cristo non fosse avvenuta in seguito a giudizio di giudice
+ordinario, la pena che lo colp@i non sarebbe stata una punizione. 
+E giudice ordinario non poteva essere se non chi aveva
+giurisdizione su tutto il genere umano, perch$e tutto il genere
+umano fu punito allora nella carne di Cristo...  E Tiberio Cesare
+di cui Pilato era vicario, non avrebbe avuto giurisdizione su
+tutto il genere umano se l'Impero Romano non fosse stato di
+diritto>).  Le terzine hanno una particolare grandiosit@a,
+sottolineata da un linguaggio aulico e da un periodare complesso
+(si noti il crudo latinismo |fatturo~); nella grandiosa solennit@a
+di tutto il discorso di Giustiniano, queste terzine fanno spicco
+per la loro particolare struttura stilistica.
+
+	|83-84.  prima e poi~: prima e dopo Tiberio.  |Era
+fatturo~: avrebbe fatto in futuro (lat. ^facturum erat~).  |A
+lui~: al ^sacrosanto segno~, all'aquila imperiale.
+
+	|85-87.  poco e scuro~: di poca importanza, cosa quasi da
+nulla.  |Con... chiaro... puro~: con l'occhio della mente
+illuminato dalla fede e con sentimento schietto.
+
+	|88-90.  la viva giustizia~: la giustizia di Dio.  |Viva~
+vale forse <vera>, come l'espressione scritturale ^Dio vivente~
+vale <vero Dio> (Porena).  |A quel ch'i' dico~: a Tiberio, il
+terzo Cesare, sotto il cui regno mor@i Cristo.  |Vendetta~:
+<giusta punizione> come quasi sempre in Dante.  |Ira~: l'ira di
+Dio per il peccato di Adamo.  La vendetta dell'ira divina @e la
+morte di Cristo, la redenzione dal peccato: <si de illo peccato
+non fuisset satisfactum per mortem Christi, adhuc essemus filii
+ire> (<se con la morte di Cristo non si fosse data soddisfazione
+per quel peccato, saremmo ancora figli dell'ira>, ^Mn~ II xii 2).
+
+	|91.  Or... repl@ico~: merav@igliati e ammira ci@o che ora
+ti r@eplico, cio@e ti spiego.  Tale meraviglia e tale ammirazione
+(in |t'ammira~ ci sono entrambe le cose) dovrebbe derivare dal
+fatto che Giustiniano ha definito <giusta punizione> (^vendetta~
+al v. 90) la morte di Cristo e <giusta punizione> (^vendetta~ al
+v. 92) la distruzione di Gerusalemme, punizione della punizione. 
+L'apparente contraddizione verr@a chiarita nel canto seguente
+(^Pd~ VII 19-51).
+
+	|92.  Tito~: Tito, figlio dell'imperatore Vespasiano,
+distrusse nel 70 d. C. Gerusalemme.  Tale distruzione venne
+considerata da Dante come giusta punizione della morte di Cristo,
+anche se tale morte, come uomo che prende su di s$e tutti i
+peccati dell'umanit@a, @e a sua volta giusta punizione del peccato
+di Adamo.  Non c'@e dubbio che Dante pensi che Tito era imperatore
+quando distrusse Gerusalemme, mentre invece allora imperava
+ancora Vespasiano, suo padre.  Dante segue una versione dei fatti
+cronologicamente un po' sfasata, seguita anche da suo figlio
+Pietro nel suo commento, secondo la quale Vespasiano cominci@o
+l'assedio di Gerusalemme e Tito condusse a termine l'impresa,
+distruggendo la citt@a quando era diventato imperatore (vedi ^Pg~
+XXI 82-84).  Ai tempi di Dante alcuni pensavano che Tito avesse
+la consapevolezza di vendicare la crocifissione; ma altri
+negavano ci@o con forza.  Si noti che la ^vendetta~ non
+consistette soltanto nella distruzione di Gerusalemme, ma anche
+nella diaspora degli Ebrei che ne consegu@i.
+
+	|94-96.  E quando... soccorse~: quando i Longobardi
+perseguitarono la Chiesa, Carlo Magno, re dei Franchi, la
+soccorse combattendo sotto il segno dell'aquila.  Dante, con
+l'esempio di Carlo Magno, stabilisce una continuit@a di diritto
+tra l'antico Impero Romano e il rinnovato Sacro Romano Impero:
+<rovesciando in certo modo la tesi guelfa, che dall'incoronazione
+di Carlo Magno traeva argomento per far derivare ogni potest@a
+imperiale dal pontefice, fa invece quasi dipendere
+dall'assunzione dell'insegne dell'Impero per parte del re franco,
+la vittoria sua sui Longobardi e la salvezza della chiesa>
+(Sonnino).  |Dente~: espressione biblica (cfr. ^Ps.~ III 8; LVI
+5; CXXIII 6).
+
+	|97-111 {Nota Bosco}.~  I commentatori unanimi
+sottolineano una simmetria strutturale `in crescendo' tra i sesti
+canti delle tre cantiche: Firenze, Italia, Impero.  La simmetria
+va precisata nel senso che nei tre canti omologhi quel che sta a
+cuore a Dante @e il lamentare energicamente il male prodotto dalle
+fazioni: nella ^citt@a partita~ che @e Firenze (^If~ VI 58-75); in
+un'Italia i cui cittadini, in ogni citt@a, ^l'un l'altro si rode~
+(^Pg~ VI 79-84); e ora in un'Italia dilaniata dalle lotte tra
+guelfi e ghibellini (^Pd~ VI 97-111): nel secondo e nel terzo
+caso il poeta addita come unico rimedio l'autorit@a dell'Impero. 
+Il `crescendo', dunque, effettivamente non c'@e: l'esaltazione
+storica di Roma, come del resto hanno gi@a visto studiosi egregi,
+@e in funzione della rampogna, anche se per la sua ampiezza e
+solennit@a possa sembrare autonoma.
+
+	|97-99.  quei cotali~: i Guelfi e i Ghibellini; @e detto
+con forte disprezzo.  |Di sopra~: nei vv. 31-33.  |Di tutti
+vostri mali~: tutte le lotte, le guerre, tra citt@a e citt@a e tra
+i vari stati, che tormentano gli uomini.
+
+	|100-102.  L'uno... oppone~: i Guelfi contrappongono al
+segno dell'Impero, che @e universale (|pubblico segno~), l'emblema
+dei gigli d'oro della casa di Francia (|i gigli gialli~).  Gli
+Angioini di Napoli erano il fulcro delle forze guelfe in Italia. 
+|L'altro... parte~: i Ghibellini si appropriano del simbolo
+dell'Impero e ne fanno un simbolo di partito (|parte~).  |S@i...
+falli~: cos@i che @e difficile (|forte~) vedere chi erri (|si
+falli~) di pi@u.
+
+	|103-105.  lor arte~: le loro azioni, le loro imprese. 
+Ma si intende, da ci@o che segue, che si tratta di azioni e
+imprese malvagie e ingiuste.  |Ch$e... diparte~: non pu@o essere
+seguace dell'Impero chi disgiunge (|diparte~) la giustizia
+dall'insegna imperiale.
+
+	|106-108.  non l'abbatta~: non creda, non s'illuda di
+abbatterlo.  |Esto Carlo novello~: Carlo II d'Angi@o, re di Napoli
+(1248-1309).  @E detto |novello~ cio@e <giovane, nuovo> per
+distinguerlo dal padre omonimo, Carlo I.  |Artigli~: dell'aquila
+imperiale.  |Ch'a... vello~: che fiaccarono signori ben pi@u forti
+e potenti di loro.  Letteralmente per@o, in armonia con l'immagine
+dell'aquila e degli artigli, il v. significa: che strapparono il
+pelo (il |vello~) a leone ben pi@u forte.
+
+	|109-111.  Molte... del padre~: molte volte (|f,iate~) i
+figli hanno dovuto piangere e scontare le colpe dei genitori.  @E
+da intendere come massima generale, non come riferimento
+specifico alle sventure di Filippo di Taranto o di Carlo
+Martello, figli di Carlo II, ipotesi da respingere come, credo a
+ragione, fa il Porena.  Le sventure di Carlo Martello (c. VIII)
+sono per Dante motivo di dolore, mentre qui sarebbero presentate
+come giusta punizione di Dio.  Che i figli piangano le colpe dei
+padri, @e concetto biblico (^Exod.~ XX 5; ^Lam.~ V 7; ecc.).  |E
+non... gigli~: non s'illuda che Dio cambi il simbolo della sua
+arma (l'aquila) con l'emblema della casa di Francia (i gigli
+d'oro).  E fuori di metafora: che Iddio permetta che i diritti
+dell'autorit@a universale dell'Impero passino alla casa di Angi@o. 
+Con queste parole perentoriamente minacciose, Giustiniano
+conclude la ^giunta~, e risponder@a coi versi successivi alla
+seconda domanda di Dante.  |Non si creda~: non @e impersonale; il
+sogg. @e Carlo novello.
+
+	112-126 {Nota Bosco}.~  Nella seconda parte del canto
+(112-142) il discorso di Giustiniano continua, ma cambia due
+volte tonalit@a.  Alla vibrazione dello sdegno, che invoca e
+minaccia la misteriosa ma certa punizione divina (come gi@a in
+^Pg~ VI 100-102; 118-123) contro i guelfi e il loro capo re Carlo
+II, segue (112-126) senza pausa di sorta (|Questa picciola
+stella...~), la piana risposta alla seconda domanda che Dante
+aveva posto allo spirito, sull'identit@a degli spiriti mercuriali
+e il grado della loro beatitudine.  Come qui @e appunto spiegato,
+gli spiriti scesi in Mercurio sono quelli che in terra furono
+|attivi / perch$e onore e fama li succeda~ (113-114); il loro
+amore a Dio, pur forte tanto da far meritare il Paradiso, fu men
+vivo del desiderio di onore: da qui la minore beatitudine. 
+Naturalmente Giustiniano chiarisce, come gi@a Piccarda (^Pd~ III
+70-87), che questo non diminuisce la beatitudine stessa: anzi
+questa consiste nel godere della giustizia divina che commisura
+perfettamente le ricompense ai meriti.  Sappiamo (^67-111 {Nota
+Bosco}~ a ^If~ IV) che per Dante, come per Aristotele e per S.
+Tommaso, @e caratteristica dei magnanimi non solo desiderare gli
+onori terreni ma considerarsene degni: la rinuncia ascetica alla
+vita terrena non @e per Dante attributo degli uomini superiori. 
+Egli spinge dunque all'azione: l'agire (per ottenere, s'intende,
+risultati moralmente positivi), anche se @e determinato dall'amor
+di gloria, non pu@o essere da lui considerato colpa; e del resto
+anche S. Tommaso aveva affermato che esso @e, s@i, peccato, ma
+veniale.  Sulla stessa linea @e Dante, per il quale l'^onrata
+nominanza~ terrena aveva costituito (^If~ IV 76-78) ragione di
+discriminazione positiva anche nell'Inferno; anzi, questi spiriti
+umanamente attivi son da lui collocati addirittura in Paradiso,
+sia pure in un grado minore di beatitudine.  Importante @e non
+fare della gloria (da non confondere comunque col fatuo ^romore~:
+^Pg~ XI 100) l'unico scopo della vita; rispettare i limiti posti
+da Dio non solo alla conoscenza, ma anche all'operare, alla
+^virt@u~ degli uomini: quel che Ulisse non fece, e perci@o la sua
+azione pur magnanima fin@i nel naufragio (^If~ XXVI).  In sostanza
+in questo VI canto, Dante trova un modo nuovo di prospettare il
+suo insegnamento fondamentale, sulla necessit@a di obbedire
+energicamente all'impulso al bene, rispettando tuttavia la remora
+religiosa.  Qui aggiunge qualcosa: esaltando uno dopo l'altro
+Giustiniano e Romeo, egli ci insegna che anche l'osservanza dei
+modesti doveri della vita quotidiana, verso gli altri e verso se
+stesso, @e premiata da Dio; se il riconoscimento manca in terra,
+non mancher@a in cielo.
+
+	|112-114.  picciola stella~: Mercurio @e il pi@u piccolo
+dei pianeti del sistema solare.  |Si correda~: si orna. 
+|Perch$e... succeda~: l'operosit@a di questi spiriti @e stata
+condizionata dal loro desiderio di onore e di fama, perci@o, come
+spiegher@a nei vv. seguenti, l'amore rivolto a Dio @e stato meno
+intenso.  |Succeda~ vale <segua>, <consegua> loro (|li~).
+
+	|115-117.  e quando... vivi~: quando i desideri che
+spingono l'uomo all'azione si rivolgono alle cose terrene
+(|poggian quivi~), come l'onore e la fama, deviando dal vero
+scopo, avviene sicuramente (|pur~) che l'amore per le cose divine
+(|i raggi del vero amore~) si dirigano (|poggin~) con minore
+intensit@a (|men vivi~) verso il cielo (|in s@u~).
+
+	|118-120.  Ma nel... maggi~: ma nel commisurare i nostri
+premi (|gaggi~) con il nostro merito, poich$e non li vediamo n$e
+minori n$e maggiori (|maggi~), @e parte della nostra beatitudine. 
+In altri termini Giustiniano addita nella consapevolezza della
+perfetta giustizia divina, che premia secondo i meriti, un
+aspetto della beatitudine celeste, come Piccarda l'aveva indicata
+nel totale adeguamento della propria volont@a con quella di Dio. 
+L'Imperatore esalta la giustizia divina, la monaca sente il
+fascino dell'annullamento in Dio.
+
+	|121-123.  Quindi... nequizia~: per questo, la giustizia,
+che vediamo nell'assegnazione dei premi celesti, purifica
+(|addolcisce~) i nostri sentimenti a tal punto che essi non si
+torcono a nessun male (|nequizia~): ribadisce qui Giustiniano ci@o
+che gi@a aveva detto Piccarda (cfr. ^Pd~ III 70-87): che gli
+spiriti beati non hanno alcuna invidia per i pi@u alti gradi di
+beatitudine.
+
+	|124-126.  Diverse... note~: voci diverse producono
+armonie dolcissime.  C'@e il ricordo qui della polifonia vocale,
+che proprio in questa et@a comincia ad affermarsi, contro
+l'omofonia del canto gregoriano, che aveva imperato per tutto
+l'alto Medioevo.  |Cos@i... rote~: allo stesso modo i diversi
+gradi di beatitudine formano l'armonia del Paradiso.  |In nostra
+vita~: nella vita celeste.  |Rote~: cieli.  Fa notare il Chimenz
+che l'espressione @e inesatta, perch$e i beati sono tutti
+nell'Empireo.  L'espressione andr@a perci@o intesa in senso lato.
+
+	|127-142 {Nota Bosco}.~  Quindi, non solo senza pausa, ma
+addirittura legata alla precedente spiegazione con |E~ (|E dentro
+a la presente margarita...~), la rievocazione di Romeo di
+Villanova (127-142).  Il tono da esaltante e veemente si era
+fatto prima discorsivamente didascalico; diventa ora dolente.  Il
+posto d'un imperatore @e preso da una |persona um@ile e peregrina~,
+solo personaggio, accanto a Giustiniano, nel cielo di Mercurio;
+un vittorioso sul piano mondiale rievoca un vinto sul piano
+privato: l'epica cede all'elegia.  L'episodio di Romeo, dopo
+l'intermezzo didascalico, ha nell'economia del canto funzione di
+stacco narrativo; ma il poeta ha anche voluto certo dirci, come
+abbiamo accennato, che tutti, anche gli umili, hanno doveri da
+compiere; e non importa se i meriti, come quelli di Romeo, non
+sono in terra riconosciuti, anzi sono ricompensati con
+l'ingratitudine.  Si noti: storicamente, Romeo fu un potente
+ministro del conte di Provenza e gli sopravvisse, ma correva ai
+tempi di Dante una leggenda, alla quale egli si attiene, come vi
+si attiene Giovanni Villani, indipendentemente da Dante perch$e d@a
+particolari assenti nella ^Commedia.~  @E probabile che il poeta
+ignorasse la realt@a storica; comunque, giova al suo attuale
+proposito attenersi alla leggenda, secondo la quale Romeo era
+stato un semplice amministratore, saggio e onesto, che aveva
+aumentato le ricchezze del suo signore; tutt'al pi@u un oculato
+diplomatico, che era riuscito a far concludere alle quattro
+figlie del conte vantaggiosi matrimoni con quattro re: siamo
+sempre nel campo quasi del privato, non certo dell'alta politica. 
+Secondo il Villani, Romeo, ripresi il muletto, il bastone e la
+sacca con i quali era giunto alla corte (@e un modulo della
+novellistica tradizionale), e rifiutato ogni compenso per i
+servigi resi, scomparve: <non si seppe onde si fosse n$e dove
+andasse; avvisossi per molti che fosse santa anima la sua>.  Il
+cronista fa dunque di Romeo un'apparizione misteriosamente sacra,
+o almeno prospetta la possibilit@a che lo fosse.  Nulla di
+soprannaturale in Dante: Romeo @e una concreta persona di questa
+terra: ci@o solo permette l'evidente sfondo autobiografico
+dell'episodio.  Dante sembra ignorare, per quel che riguarda
+Giustiniano, un'altra leggenda: quella del generale Belisario
+che, invece di avere onori dal suo imperatore, era stato
+costretto a mendicare l'obolo.  Leggenda quanto all'obolo; ma
+essa nasce dall'effettiva ingratitudine di Giustiniano, o quanto
+meno rispecchia l'alterna fortuna del generale; comunque, anche
+se non l'ignorava, essa non poteva certo trovar posto
+nell'esaltazione dell'imperatore, inteso ad assicurare con lo
+strumento delle leggi la giustizia al mondo.  C'@e chi ha visto,
+forse non a torto, in questa rievocazione di Romeo in bocca a
+Giustiniano, una segreta ammenda di questo per il suo
+atteggiamento verso Belisario; e la tesi pu@o essere confermata
+dall'intensa affettivit@a che @e possibile avvertire nel possessivo
+che accompagna il suo nome (^al mio Belisar commendai l'armi~,
+25).  Pi@u certa la parentela di Romeo con Pier della Vigna
+(^82-84 {Nota Bosco}~ a ^If~ XIII): anche lui |giusto~, innocente
+verso il suo signore, e benemerito di lui: calunniato dagli
+invidiosi, e sospettato: il ^disdegnoso gusto~ che lo spinse al
+suicidio corrisponde allo sdegnoso andarsene di Romeo dalla
+corte, affrontando, ormai vecchio, la povert@a.  Certa altres@i la
+parentela di Romeo e di Piero con Dante stesso.  Questi, geloso
+della sua dignit@a, non volle giustificarsi, neppure con atto solo
+formale, delle ingiuste accuse, anche a costo di rimanere
+esiliato (^73-81 {Nota Bosco}~ a ^If~ X); fu cio@e ricompensato
+con l'esilio delle sue benemerenze (il popolo fiorentino, gli
+aveva preannunciato Brunetto, ^ti si far@a, per tuo ben far,
+nimico~, ^If~ XV 64): era stato costretto a subire pena
+<ingiustamente, pena, dico, d'essilio e di povertate> (^Cv~ I iii
+3).  Il mondo conosceva il dignitoso coraggio con cui Dante-Romeo
+aveva lasciato Firenze e la Provenza, e li lodava per questo; ma
+se avesse saputo anche quale coraggio c'era voluto per sopportare
+l'umiliazione del mendicare li loderebbe maggiormente.  Si
+ricordi la figura di Provenzano Salvani, che mendicando trema
+interiormente: anche in essa Dante aveva visto se stesso (^Pg~ XI
+133-142).  Dante aveva dissimulato a tutti la sua sofferenza;
+Romeo l'aveva celata, secondo la leggenda, scomparendo.  I
+colpevoli Provenzali |non hanno riso~ della disgrazia di Romeo,
+sono stati puniti: anche i Fiorentini sconteranno l'ingiustizia
+commessa (^Pd~ XVII 97-99 e altrove).  Se si veda, come si deve
+vedere, nell'episodio finale del canto VI, oltre che la figura di
+Romeo, anche quella di Dante esiliato dai suoi nemici politici,
+si scorger@a meglio il legame tra questo episodio e la precedente
+rampogna contro i partiti.
+
+	|127.  a la presente margarita~: nel cielo di Mercurio. 
+|Margarita~ @e latinismo e vale <perla> o, genericamente, <gemma>
+(cfr. ^Pd~ II 34).
+
+	|128-129.  luce~: l'anima luminosa (|luce~) risplende
+(^luce~).  C'@e bisticcio tra |luce~ verbo e |luce~ sostantivo. 
+|Romeo~: Romieu d@i Villeneuve, ministro e gran siniscalco di
+Raimondo Berengario IV, conte di Provenza, nacque verso il 1170 e
+mor@i in patria nel 1250.  Alla morte di Raimondo, divenne tutore
+della di lui figlia Beatrice, che and@o poi sposa a Carlo I
+d'Angi@o, e amministr@o la contea fino alla sua morte.  Ma al tempo
+di Dante correva una leggenda, che ci @e riferita come storia vera
+dal Villani e da antichi commentatori e che, come si vedr@a, Dante
+accoglie.  Essa narrava che Romeo, umile ed oscuro pellegrino
+(^romeo~), fermatosi alla corte di Berengario, in breve tempo
+seppe ingraziarsi il suo signore e ne divenne ministro.  Oper@o
+sempre con probit@a, raddoppiando le rendite dello Stato e
+riuscendo ad ottenere per le quattro figlie di Raimondo onorevoli
+nozze.  Ma l'invidia dei cortigiani spinse il signore a chiedere
+a Romeo conto del suo operato, per cui questi, ripresa la sua
+veste di pelligrino, povero come era venuto, si allontan@o dalla
+Provenza e nessuno seppe poi pi@u nulla di lui.  La somiglianza
+tra la condizione di Romeo e quella di Dante, esule immeritevole,
+ha fatto fermare il poeta con tanto malinconico affetto su questa
+figura.  (Si vedano in particolare gli ultimi versi del canto). 
+|Fu... gradita~: comincia a delinearsi la simiglianza di
+condizioni tra Romeo e il poeta: entrambi hanno agito con
+generosit@a e amore verso la patria e ne sono stati ripagati con
+ingiustizia e cattiveria.
+
+	|130-132.  i Provenzai~: coloro che lo calunniarono
+ingiustamente presso Berengario: si allude evidentmente ai
+signori della Provenza, cortigiani del conte, che poi dovettero
+scontare la loro malvagit@a passando dal mite e buon governo di
+Raimondo alla tirannia degli Angioini.  |Che fecer contra lui~:
+che agirono con malvagit@a nei suoi confronti.  |Non hanno riso~:
+perch$e hanno scontato amaramente la loro malvagit@a.  Vedi nota
+precedente.  |E per@o... altrui~: percorre una cattiva strada
+l'invidioso, cio@e colui che ritiene danno a se stesso il ben fare
+degli altri: pare l'interpretazione pi@u probabile.
+
+	|133-135.  Quattro figlie~: Margherita divenne moglie di
+Luigi IX il Santo, re di Francia; Eleonora fu sposata ad Arrigo
+III, re d'Inghilterra; Sancia fu moglie di Riccardo, conte di
+Cornovaglia, che fu proclamato re dei Romani nel 1257, e infine
+Beatrice, erede della Contea di Provenza, fu moglie di Carlo I
+d'Angi@o.  |Ramondo Beringhiere~: Raimondo Berengario IV, conte di
+Provenza.  Figlio di Alfonso II d'Aragona, nacque nel 1198 e mor@i
+ancor giovane nel 1245.  Fu uno dei pi@u giovani sovrani del
+tempo, lodato sia per le sue doti di uomo politico, sia per la
+sua attivit@a amministrativa e legislativa.  Nonostante ci@o,
+sembra lecito pensare che Dante coinvolga anche Berengario nel
+biasimo rivolto ai Provenzali.  |E ci@o... peregrina~: queste
+nozze regali furono opera di Romeo povero e straniero
+(|peregrina~).
+
+	|136-138.  E poi~: ci stacchiamo qui dalla punteggiatura
+del testo, e di conseguenza, dall'interpretazione data a questi
+vv. dal Debenedetti (<Studi d.> VII 92-94), seguito dal Casella e
+ora dal Petrocchi.  Per questi critici |poi~ varrebbe <poich$e>;
+essi quindi, ponendo una virgola alla fine del v. 138, saldano
+alla terzina seguente il v. 139.  Ma il Mariotti (^Nuove letture~
+V 402-403) ha dimostrato che nell'uso del tempo |poi~ congiunz.
+col valore di <poich$e> @e usata solo davanti a consonante, mai, o
+solo eccezionalmente, davanti a vocale.  La lezione e
+l'interpretazione quindi del Debenedetti va respinta.  |Biece~:
+bieche, calunniose.  |Dimandar ragione~: chiedere rendimento dei
+conti: ed @e termine tecnico del linguaggio mercantile.  |Questo
+giusto~: per il Mariotti Dante avrebbe visto riapparire nel
+dramma di Romeo un momento della passione di Cristo; e quindi
+Cristo sarebbe di controluce anche nel dramma personale di Dante. 
+Suggestiva ipotesi, ma forse ha basi filologiche deboli (cfr.
+^Nuove letture~, V 403-404).  |Che... diece~: che accrebbe il
+patrimonio della contea rendendo dodici (|sette e cinque~) per
+dieci.
+
+	|139-142.  Indi~: di l@i, dalla Provenza.  |Vetusto~:
+ormai vecchio.  |Il cor ch'elli ebbe~: la magnanimit@a e la forza
+d'animo nel sopportare cos@i malvagia ricompensa dei suoi servizi,
+e nel mendicare.  |A frusto a frusto~: a tozzo a tozzo. 
+|Assai... loderebbe~: solo chi ha conosciuto la malvagit@a degli
+uomini ed ha saputo conservare la fronte alta in mezzo alle
+disgrazie e alle miserie pu@o comprendere appieno la magnanima
+grandezza di Romeo.  E Dante ben sapeva che cosa significasse
+l'amara ricompensa di una patria ingrata e la dignitosa fermezza
+nel chieder l'aiuto altrui.  Cos@i il canto dell'aquila imperiale,
+simbolo della giustizia, si chiude con questo amaro e malinconico
+accenno al proprio esilio.

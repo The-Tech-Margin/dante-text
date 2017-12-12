@@ -1,0 +1,60 @@
+Return-Path: LBIANCHI@Sol.YorkU.CA 
+Received: from sol.yorku.ca by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA21911; Fri, 12 Feb 1993 12:09:31 -0500
+Received: from Sol.YorkU.CA by Sol.YorkU.CA (PMDF #12410) id
+ <01GUMTB1OUW08YBA8D@Sol.YorkU.CA>; Fri, 12 Feb 1993 11:57 EDT
+Date: Fri, 12 Feb 1993 11:57 EDT
+From: Luigi M Bianchi <LBIANCHI@Sol.YorkU.CA>
+Subject: Comments and Thanks
+To: steve@avalon.dartmouth.edu
+Cc: bobh@baker.dartmouth.edu
+Message-Id: <01GUMTB1OUW08YBA8D@Sol.YorkU.CA>
+X-Envelope-To: steve@avalon.dartmouth.edu
+X-Vms-To: IN%"steve@avalon.dartmouth.edu"
+X-Vms-Cc: IN%"bobh@baker.dartmouth.edu"
+Status: OR
+
+
+Dear Steve,
+
+	I have started using your generous list.  It is really of great help
+especially because it enriches the one I am putting together with material
+I wouldn't be able to find elsewhere: literary, scholarly, 'danteschi' terms
+that will make it useful perhaps also for checking scholarly texts.
+
+	There is a bit of editing to do: Latin and German words which I must
+eliminate.  Luckily I know enough of both languages to make the task easy.
+
+	I also realize I found some misprints, but they may have crept in
+from other 'ingredients' I merged with your list.  In case however they are
+from your list (and I'll check the 'original' first), I'll send you a list
+of them when I'm done, so that you may use it to touch up the texts stored
+at Dartmouth.
+
+	My project is going ahead, although not as speedily as I was dreaming.
+It's a long process.  I forgot to tell you that I have set up an anonymous
+FTP area on two machines at York, where I upload the work in progress, so
+that it may be freely available to everybody as it gradually reaches its
+'final' form.  Here is the FTP address:
+
+			SOL.YORKU.CA  or ORION.YORKU.CA
+
+(usual anonimous login applies).  The letters already finished are: A, B, C,
+D, E, F, G, H, J, K, Q, U, W, X, Y, Z.  So far only 'G' benefits from your
+list.  The other letters where finished earlier (and will be updated at the
+end).  The format is either UNIX (tarred-compressed) or MSDOS (pkzipped).
+Although the filenames are not as smart as I would like (the VAX system
+does not like '.' or '_' in filenames), small DOC files describe the
+contents of the various items available.  Please feel free to help yourself
+and to let others know.  When the work is finished I will submit it to
+SIMTEL-20, GARBO, and possibly other well-known sites.
+
+	Thank you again for your invaluable help and support.  Full, formal
+acknowledgment of it will appear with due prominence in the final version.
+I have already taken the liberty of doing so informally on the Italian
+newsgroup.
+
+	Cordially yours,
+
+--Luigi
+

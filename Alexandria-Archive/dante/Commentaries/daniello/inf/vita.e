@@ -1,0 +1,62 @@
+	         VITA, E COSTUMI DEL POETA
+
+	NACQUE Dante d'antichissima & nobilissima famiglia ne gli
+anni del signore MCCLX. & fu nella sua pueritia liberalmente
+nutrito, & messo alla scuola.  apparve subito in lui gravissimo
+ingegno, & attissimo @a cose eccellenti.  Perd@e nella sua pueritia
+il padre nomato Alighieri; nondimeno confortato da' parenti & da
+messer Brunetto Latini huomo dottissimo, non solo alle lettere,
+ma @a tutti gli altri studi liberali si diede, nulla lasciando @a
+dietro che appartenga alla eccellentia dell'huomo.  di modo che
+fu di s@i generoso animo, che in una memoratissima battaglia, che
+fu @a Capaldino, si trov@o con l'arme virilmente @a combattere nella
+prima schiera.  Dopo questa battaglia ritornato @a casa, pi@u
+ferventemente si dette alli studi, conversando sempre con huomini
+eccellenti; & cosi nella sua giovent@u tolse donna, che fu della
+nobile famiglia de' Donati, chiamata Madonna Gemma, dellaquale
+hebbe piu figliuoli.  Tolto adunque Dante donna, & vivendo in
+honesta, virtuosa, & civil vita, fu molto adoperato nella
+Republica.  Et ultimamente pervenuto alla debita et@a, fu nel
+MCCC. creato de' Priori, ilqual officio era sommo nella Republica
+Fiorentina.  Da questo suo Priorato, nacque (com'egli stesso
+riferisce in una sua epistola) il suo esilio, & tutte le cose
+adverse che prov@o nel rimanente di sua vita.  Imperoche gi@a era
+infetta la citt@a di Firenze delle parti Bianche & Nere.  &
+tentando indarno metter pace fra i suoi cittadini, crescevano
+ogni di pi@u le discordie.  talmente che i prencipi de' Neri
+vennero in tale audacia, che vedendo prevalere i Bianchi, si
+ragunarono nel tempio della Trinit@a: & dop@o lunga consultatione
+determinarono, che si mandassi @a Bonifacio Papa per impetrare che
+mandassi uno di stirpe reale per sedare le discordie de'
+cittadini.  Questo f@u tanto molesto @a Dante, che persuase @a
+quelli ch'eran suoi collegi, che si dovesse castigare tanta
+temerit@a.  & tanto valse la sua autorit@a, che furono mandati in
+esilio i principali delle due sette; che furon dalla parte de'
+Neri, Corso Donati, Geri Spina, Giachinotto de' Pazzi, Rosso da
+la Tosa, & altri con loro, che furono mandati @a Castel della
+Pieve in quel di Perugia.  Dalla parte de' Bianchi furon mandati
+@a Serezzana Gentile, e Torrigiano de' Cochi, Guido Cavalcanti,
+Baschera della Tosa, Baldinaccio Adimari, Naldo di Latino
+Ghirardini, & altri.  non molto dop@o tali esilij Dante fu creato
+legato @a Bonifacio, perche non cessavano ancor le discordie, ma
+egli fu molto dubio in tal legatione, perche gli parea lassar la
+citt@a in gran pericolo partendosi, n@e vedeva @a chi commodamente
+tal legation commettesse.  & stando molto pensoso disse: S'io vo,
+chi st@a? & s'io st@o, chi va? laqual cosa fu giudicata @a grande
+arrogantia: come quello che in se solo giudicava esser riposto il
+publico governo.  And@o finalmente, & fra questo mezo Corso Donati
+ritorn@o, & tanto fece con la sua fattione, che Dante con molti
+altri furono confinati, & i lor beni publicati.  Havendo dipoi
+Dante tentato per molte vie & modi di ritornare alla patria, &
+non succedendoli pass@o in Francia & Alemagna.  poi tornato in
+Italia visse sotto l'aiuto di molti signori.  Finalmente si
+ridusse @a Ravenna con Guido da Polenta, ove fin@i la vita, l'anno
+MCCCXXI. del mese di Luglio.  F@u di commune statura, di grato
+aspetto, & pieno di gravit@a: parlava di rado; ma nelle sue
+risposte era sottilissimo.  Dilettossi di Musica, di suoni, & di
+sua mano disegnava, & perfettamente scriveva.  Convers@o nella sua
+giovent@u con gioveni innamorati, & egli ancora di simile passione
+f@u oppresso per la sua Beatrice, non per lascivia, ma per
+gentilezza, & generosit@a d'animo.  Il principal suo studio f@u
+Poesia, & scrisse molte opere volgari, & latine: lequali mostrano la
+grande felicit@a, & sottigliezza d'ingegno ch'era in esso.

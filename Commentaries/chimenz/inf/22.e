@@ -1,0 +1,331 @@
+	|1-3.  Muover campo~: levar l'accampamento (lat. ^castra
+mov$ere~), mettersi in marcia.  |Stormo~: (tedesco, ^Sturm~)
+combattimento.  |Far lor mostra~: <disporsi per esser passati in
+rivista>, o, meglio, <eseguire le loro evoluzioni durante le
+riviste>.  |Partir~: in ritirata.
+
+	|4-6.  Corridor~: scorridori, soldati a cavallo adibiti a
+scorrerie, esplorazioni e simili.  |Aretini~: Dante prese parte
+alla guerra contro Arezzo, e fu alla battaglia di Campaldino del
+1289.  |Gualdane~: scorrerie per guastare e predare.  |Fedir
+torneamenti~: combattere (|fedir~, ferire) di squadre nei tornei. 
+|Correr giostra~: combattere di cavalieri in singolar torneo.
+
+	|7-9.  Campane~: probabile allusione specifica alla
+campana detta ^Martinella~, appesa al <carroccio> fiorentino. 
+|Cenni di castella~: segnali dati con fumi o con fuochi da
+fortezze.  |Istrane~: straniere, introdotte da milizie straniere.
+
+	|10-12.  N$e gi@a~: ma non mai.  |Diversa~: insolita e
+strana.  |Cennamella~: zufolo, ciaramella: qui, genericamente,
+rozzo strumento da suono.  |Mover~: intr., muoversi.  |A segno~
+ecc.: alla direzione indicatale, di giorno, da terra che sia in
+vista, di notte, dalla posizione delle stelle.
+
+	|15.  Ghiottoni~: probabilmente nel senso, che anche
+aveva in antico, di <furfanti>.
+
+	|16-18.  Pur~: pu@o valere <soltanto>, ma @e forse pi@u
+opportuno intenderlo nel senso, frequente nel poema, di
+<continuamente>: Dante avr@a tenuto d'occhio non soltanto la
+pegola, ma un po' anche i diavoli.  |Intesa~: attenzione. 
+|Contegno~: condizione.  |Incesa~: bruciata dalla pece.
+
+	|19-21.  Fanno segno~: d@anno avvertimento.  |Con l'arco~
+ecc.: venendo alla superficie con la schiena fuori. 
+|S'argomentin~ ecc.: s'ingegnino di mettere in salvo la loro nave
+(|legno~), perch$e @e imminente la tempesta.  Dante qui accoglie
+una diffusa credenza marinara.
+
+	|22-24.  Alleggiar~: alleviare.  |Il dosso~: dipende sia
+da |mostrava~ e sia da |nascondea.~
+
+	|26-27.  Pur~: soltanto.  |L'altro grosso~: il resto del
+corpo che @e la parte grossa.
+
+	|28-30.  S@i~: col muso fuori ma |d'ogni parte~ non solo
+all'orlo.  |Cos@i~: non sembra necessario riferirlo
+all'espressione ^in men che non balena~ (v. 24): il valore di
+<subitamente> deriva naturalmente dalla correlazione con |come~
+(appena, appena che).  |Bollori~: pece bollente.
+
+	|31-33.  Anco~: ancora.  |Com'egl'incontra~: come avviene
+(|egli~, sogg. neutro pleonastico).  |Spiccia~: salta nell'acqua.
+
+	|34-36.  Di contra~: di fronte.  |Arruncigli@o~: prese coi
+roncigli.  |Che mi parve~: tale, nella figura, che mi sembr@o una
+|lontra~ (anfibio, dal corpo allungato come un gatto, dalla pelle
+untuosa e nerastra).
+
+	|38-39.  S@i~: cos@i bene.  |Li notai~: notai nella mente i
+loro nomi.  Altri intendono: <osservai le figure de singoli
+diavoli>: interpretazione meno probabile, per ci@o che diremo qui
+appresso.  |Eletti~: scelti da Malacoda (^Inf.~ XXI, 118-123). 
+|E poi~ ecc.: e poi che furono chiamati (|si chiamaro~, come
+spesso, @e rifl. apparente, in luogo del passivo), stetti attento
+come ai singoli nomi rispondessero le figure dei singoli diavoli
+che si facevano avanti, all'appello.  Generalmente s'interpreta:
+<e dopo, quando essi si chiamavano, parlando tra loro, stetti
+attento al modo in cui si chiamavano>.  Ma il nesso |e poi che~
+non pare possa correttamente risolversi in <e, poi, quando>; e
+inoltre non c'@e il minimo accenno nel testo che i diavoli si
+chiamassero e parlassero tra loro.  Riteniamo pi@u probabile che
+Dante abbia semplicemente distinto e sottolineato i due elementi
+e momenti sui quali si fondava la sua perfetta conoscenza dei
+diavoli: dapprima, i nomi, pronunziati prima che comparissero le
+singole figure (|quando furono eletti~); poi, le singole figure
+venute fuori, ad una ad una, dopo che ciascun diavolo era
+chiamato.  Alla memoria di Dante, rappresentata nel poema sempre
+come prontissima e tenace, non occorreva che le nozioni fossero
+ripetute per apprenderle e fissarle.
+
+	|40.  Rubicante~: cfr. nota ^Inf.~ XXI, 118-123, in fine. 
+|Fa che~ ecc.: ors@u, mettigli (|metti~, congt., metta).
+
+	|45.  A man~: nelle mani, in bal@ia.  |Avversari~: nemici;
+ma ^avversario~ @e detto nelle Scritture appunto il diavolo (cfr.
+^Pietro~ I, v, 8): sicch$e il termine avr@a il significato
+pregnante di <diavoli suoi nemici>.
+
+	|48.  Nato~: nativo.  Di lui non si sa nulla: gli antichi
+commentatori gli d@anno il nome di Ci@ampolo o Giamp@olo (^Iean
+Paul?~).
+
+	|49-51.  Che~: si riferisce a |mia madre.~  |Ribaldo~: in
+antico signific@o anche <carnefice>, o <di condizione sociale
+barattiere>, oltre che <uomo tristo e disonesto>: quale di questi
+significati abbia qui non pu@o stabilirsi con certezza: l'ultimo
+sembra pi@u probabile.  |Distruggitore~ ecc.: scialacquatore
+(aveva, dunque, un patrimonio) e suicida.
+
+	|52-54.  Famiglia~: famiglio, cortigiano.  |Buon~:
+valente.  |Tebaldo~: probabilmente Tebaldo II, re di Navarra dal
+1253, genero di Luigi IX re di Francia, ch'egli segu@i nella
+spedizione contro Tunisi, morto, ritornando da essa, nel 1270,
+lasciando fama di prodezza e di bont@a; a meno che non si tratti
+del padre, Tebaldo I, lodato nel ^De vulg. el.~  per le sue
+canzoni in provenzale.  |Quivi~: nella corte del re.  |Rendo
+ragione~: pago il fio (cfr. ^Matteo~ XII, 36: <renderanno ragione
+nel giorno del giudizio>).
+
+	|56-57.  D'ogni parte~: dalle due parti della bocca. 
+|Porco~: cinghiale.  |Sdrucia~: scuciva, squarciava.
+
+	|58-60.  Sorco~: sorcio.  |Chiuse~: circond@o. 
+|Mentr'io~: finch$e.  |Lo 'nforco~: ^inforcare~ propriamente @e
+stringere con le gambe il dorso della cavalcatura: dunque
+Barbariccia ha circondato il dannato per di dietro, lasciandogli
+il viso rivolto ai due poeti, sicch$e sembra quasi a cavallo sul
+suo dorso.
+
+	|63.  Altri~ ecc.: qualcuno de diavoli (e pu@o alludere
+anche a s$e stesso) ne faccia strazio.
+
+	|64-65.  Rii~: rei, peccator.  |Latino~: italiano, come
+spesso.
+
+	|67.  Di l@a vicino~: delle vicinanze dell'Italia, di
+Sardegna, come dir@a (vv. 81-82).  Nel ^De vulg. el.~ I, xi, 7,
+Dante considera i Sardi <non italici, ma da aggregarsi agli
+italici>.
+
+	|70-72.  Sofferto~: pazientato.  |Lacerto~: lat.
+^lacertus~, propriamente @e la parte muscolosa superiore del
+braccio: un pezzo di carne del braccio.
+
+	|73-75.  I~: gli.  |Decurio~: latinismo, decurione, capo
+della ^decina~, Barbariccia (cfr. ^Inf.~ XXI, 120).  |Mal
+piglio~: aspetto adirato, cipiglio.
+
+	|76-78.  Elli~: plur., Barbariccia con gli altri
+diavoli.  |Ferita~: sing. per plur., del braccio e delle gambe. 
+|Dimoro~: dimora, indugio.  Per l'assunzione a sostantivo della
+I+o~ persona sing. del pres. ind. attivo, cfr. nota a ^curro~,
+^Inf.~ XVII, 61.
+
+	|79-80.  Mala partita~: sventurata partenza.  |A proda~:
+a riva: propriamente non vi era venuto, ma vi era stato tirato da
+Graffiacane, vv. 31-36.
+
+	|81-87.  Frate Gomita~: ufficiale, dicono gli antichi
+commentatori, di Nino Visconti, signore del giudicato di Gallura
+dal 1275 al 1296 (cfr. nota ^Purg.~ VIII, 53).  |Vasel~: vaso,
+ricettacolo.  |Donno~: signore (lat. ^dominus~): voce d'uso
+comune tra i Sardi, e perci@o intenzionalmente, qui e al v. 88,
+usata da Dante.  |Fe' s@i lor~ ecc.: li tratt@o cos@i che ciascuno @e
+rimasto soddisfatto del suo trattamento.  |Lasciolli di piano~:
+li mand@o liberi con giudizio sommario: ^de plano~ (sardo, ^di
+pianu~) @e termine della procedura giuridica del tempo, indicante
+siffatto giudizio.  |S@i com'e' dice~: cio@e, usando appunto il
+termine cancelleresco.  |Sovrano~: sommo, grandissimo (cfr.
+^Inf.~ XVII, 72).
+
+	|88.  Usa~: pratica, discorre.  |Michel Zanche~: pare
+fosse ufficiale di re Enzo, figlio di Federico II, nel giudicato
+di Logudoro, di cui era signora la moglie di Enzo, Adelasia. 
+Alla morte del re egli si sarebbe fatto signore del giudicato, o
+usurpando il potere o sposando Adelasia; ma non si hanno notizie
+certe.  Mor@i ucciso a tradimento dal genero Branca d'Oria (cfr.
+^Inf.~ XXXIII, 137).
+
+	|91-93.  L'altro~: Farfarello, come appare dal v. 94. 
+|Anche~: ancora.  |Temo ch'ello non~: costruzione latineggiante,
+^timeo ne~, <temo che>.  |Grattarmi la tigna~: <modo famigliare
+[ma volgare] di celia, pettinare uno, per maltrattarlo bene bene>
+(Tommaseo).
+
+	|94-95.  'L gran proposto~: il capo, Barbariccia,
+qualificato <grande> probabilmente per canzonatura dell'aria che
+si d@a di voler fare il capo sul serio.  |Fedire~: ferire.
+
+	|98-99.  Sparuto~: impaurito, il Navarrese.  |Toschi o
+Lombardi~: Virgilio gli aveva chiesto di qualcuno che fosse
+latino (v. 65); ma @e evidente che il dannato ha capito dalla
+parlata che dei due viandanti uno @e toscano e l'altro lombardo,
+sicch$e, riferendosi a Toschi e Lombardi, pensa di <interessarli
+di pi@u alla sua proposta> (Porena).
+
+	|100-105.  In cesso~: in disparte.  |Ei~: piuttosto che
+specificamente a ^Toschi o Lombardi~ si riferir@a genericamente a
+tutti i dannati nella pece.  |Seggendo~: stando fermo.  |Sette~:
+indeterminato, parecchi.  |Suffoler@o~: zufoler@o, far@o un fischio. 
+|@E nostro uso~: potrebbe esser vero, ma forse @e soltanto
+<un'astuta invenzione> (Venturi) del Navarrese, non tanto perch$e
+una solidariet@a di tal genere tra compagni di pena non sia
+ammissibile, quanto per la reazione che desta in Cagnazzo (vv.
+106-108), la quale dimostra che il fatto riesce del tutto nuovo
+ai diavoli.  |Allor ch'~ ecc.: quando alcuno di noi sporge la
+testa fuori e vede che non ci sono diavoli in quel punto.
+
+	|106-107.  Lev@o 'l muso~: come cane, fiutando l'inganno. 
+|Malizia~: astuzia.
+
+	|109.  Lacciuoli~: espedienti fraudolenti, raggiri. 
+|Divizia~: dovizia, abbondanza.
+
+	|110-111.~  La mia malizia @e davvero straordinaria (detto
+con finta ironia verso s$e stesso), dal momento che procuro ai
+miei compagni di pena |maggior~ tormento (|tristizia~), cio@e lo
+strazio degli uncini dei diavoli, |maggiore~ di quello della pece
+(o, meno probabilmente, <in aggiunta a quello della pece>).
+
+	|112-115.  Non si tenne~: non si trattenne, non resse
+alla voglia di mostrare al dannato che, se avesse tentato di
+^gittarsi giuso~, egli l'avrebbe raggiunto prima che si
+immergesse nella pece.  |Di rintoppo~: in opposizione.  |Non...
+di galoppo~ ecc.: non galoppando, ma volando fin sulla pece.
+
+	|116-117.  Lascisi 'l collo~: |collo~ (colle)
+propriamente @e tutta la sommit@a dell'argine, costituita dalla
+strada su cui la comitiva ha camminato e si trova; e in tal senso
+@e usato in ^Inf.~ XXIII, 43.  Ma, tenendo presente che <Malebolge
+tutta pende> verso il pozzo che si apre al centro (^Inf.~ XXIV,
+37-38), @e da supporre che anche il piano della strada abbia una
+certa pendenza, dall'orlo sovrastante la 5+o~ bolgia, a quello
+sovrastante la 6+o~; e poich$e i diavoli non lasciano il piano della
+strada (n$e lo potrebbero, essendovi, al di qua, la parete
+invischiata di pece, e, al di l@a, la parete della 6+o~ bolgia, su
+cui @e ad essi vietato di scendere [cfr. ^Inf.~ XXIII, 55-57]),
+|collo~ qui significher@a non tutta la sommit@a dell'argine, ma la
+parte pi@u elevata di essa, che @e appunto l'orlo sulla 5+o~ bolgia. 
+L'espressione, dunque, sar@a da intendere: <lasciamo il ciglio
+superiore della strada, questo che occupiamo, e passiamo al
+ciglio opposto>.  |Sia la ripa scudo~: Non @e chiaro se |la ripa~
+debba essere |scudo~, riparo, tra i diavoli e i dannati
+(sottraendo i diavoli alla vista dei dannati), come generalmente
+s'intende, in riferimento ai vv. 100-105, oppure tra i diavoli e
+il Navarrese (nell'ipotesi ch'egli tenti di gittarsi nella pece,
+secondo il sospetto di Cagnazzo, vv. 106-108), come piuttosto
+parrebbe suggerire tutto il discorso di Alichino e specialmente
+il verso seguente (|a veder se tu sol~ ecc.), che precisa lo
+scopo della manovra proposta da Alichino, e suona come sfida dei
+diavoli al dannato.  Incerto @e anche se il termine |ripa~
+indichi, come di solito, la parete inclinata della bolgia, dal
+collo al fondo, o, come alcuni intendono, la pendenza, ora
+accennata, della sommit@a dell'argine, dall'uno all'altro orlo; ma
+non sembra necessario attribuire al termine un'indicazione
+diversa dal solito.
+
+	|118.  Novo~: di un genere non mai visto o sentito. 
+|Ludo~: lat. ^ludus~, gioco.
+
+	|119-120.  Ciascun~: tutti i diavoli, compreso (come noi
+crediamo: cfr. la nota seg.) Barbariccia.  |Da l'altra costa~:
+dall'altra parte del collo, verso il ciglio sovrastante la 6+o~
+bolgia.  |Quel~: Cagnazzo per primo.  |A ci@o fare~: ad accettare
+la proposta del dannato (v. 100).  |Crudo~: restio.
+
+	|121-123.  Suo tempo~: cio@e il momento preciso in cui
+ciascuno aveva volto gli occhi, avviandosi, dall'altra parte. 
+|Ferm@o~: punt@o.  |In un punto~: <in un attimo>, o, meglio, <in un
+solo punto>.  |Salt@o~ ecc.: I pi@u intendono: <si liber@o dal
+cerchio delle braccia del loro ^proposto~ (v. 94; e cfr. v. 59),
+cio@e di Barbariccia, che aveva anch'egli volto gli occhi altrove,
+e forse anche allargato di pi@u le braccia, distratto dal giuoco,
+e salt@o>.  Poich$e il testo dice prima |salt@o~ e poi |si sciolse~,
+bisogna supporre che qui, come qualche altra volta (cfr. ^Inf.~
+V, 59 e 61-62), sia anticipata nel discorso l'azione posteriore,
+di maggiore importanza, in luogo della costruzione normale <si
+sciolse e salt@o>.  Ma, anzitutto, anche volendo ammettere un tale
+eccesso di distrazione in Barbariccia, da lasciarsi sfuggire il
+dannato di tra le braccia, resta inspiegabile come mai egli, che
+sarebbe il maggior responsabile della fuga e il pi@u beffato, non
+gli voli immediatamente appresso per raggiungerlo, pur essendo il
+pi@u vicino a lui; in secondo luogo, se anche il solo Barbariccia
+restasse sul ^collo~, verrebbe meno la condizione alla quale il
+Navarrese si @e impegnato di dare il segnale per fare emergere i
+compagni (vv. 100-105).  Sembra perci@o pi@u ragionevole pensare
+che anche Barbariccia si sia mosso per nascondersi con gli altri,
+liberando il dannato dalla circuizione delle sue braccia; sicch$e
+sar@a da intendere |proposto~ nel senso di <proposta> o
+<proposito>: <salt@o, e cos@i si liber@o dalla proposta fatta ad
+essi, di far venir fuori i suoi compagni>, oppure <dal proposito
+dei diavoli, di straziare lui e i compagni>.
+
+	|124-126.  Di colpa~ ecc.: fu punto dal rimorso della
+colpa, si sent@i colpevole.  |Quei~ ecc.: pi@u |compunto~ Alichino,
+che era stato cagione dell'errore (|difetto~) commesso da tutti. 
+|Per@o~: perci@o.  |Se' giunto~: sei raggiunto, preso.
+
+	|127-128.~  Non gli (|i~) giov@o nulla, ch$e la velocit@a
+delle ali non pot$e superare (|avanzar~) quella data al dannato
+dalla paura (|sospetto~).
+
+	|132.  Rotto~: spossato (cfr. ^lasso~, ^Inf.~ XVII, 130). 
+Il Porena preferisce intendere <sconfitto>, e spiega
+l'espressione |crucciato e rotto~ come un'endiadi <crucciato
+della sua sconfitta>, ma @e assai pi@u probabile che Dante, ben
+esperto di questo genere di caccia, abbia tenuto presente la
+fatica a cui era sottoposto il falcone nella caccia alle anitre,
+come pu@o vedersi dal seguente brano del trattato sulla Falconeria
+(^De arte venandi cum avibus~) di Federico II: <Il falcone...
+discender@a, facendo fuggire le anitre nell'acqua, e dopo che esse
+si sono immerse per paura del falcone, questo risalir@a in su, e
+appena avr@a visto le anitre riemergere per nuotare, di nuovo
+scender@a a ghermirle, e, sommersesi quelle, di nuovo risalir@a, e
+far@a ci@o tante volte che spossato andr@a a posarsi>.
+
+	|133-135.  Buffa~: beffa.  |Invaghito~: incapricciatosi,
+voglioso.  |Quei~: il Navarrese.  |Campasse~: si salvasse. 
+|Zuffa~: con Alichino.
+
+	|138.  Fu con lui... ghermito~: pass. per reciproco, si
+gherm@i: ^ghermirsi con~ sembra fosse dell'uso per indicare
+l'azzuffarsi tra uccelli.
+
+	|139.  Bene~: veramente.  |Grifagno~: cos@i dicevasi lo
+sparviero adulto, animoso ala caccia.
+
+	|142-144.  Sghermitor... fue~: li fece sghermire,
+separare.  |Ma~ ecc.: ma non per questo (|per@o~: per l'essersi
+sghermiti) era loro possibile levarsi su dalla pece (cfr. nota a
+^nulla sarebbe del~, ^Inf.~ IX, 57).  |Sue~: loro.
+
+	|145-150.  Dolente~: probabilmente, sia della beffa del
+Navarrese, e sia dell'incidente toccato ai due compagni.  |Da
+l'altra costa~: dall'opposta parete della bolgia.  |A la posta~:
+al posto conveniente, assegnato da Barbariccia (cfr. ^Inf.~ XIII,
+113).  |Gl'impaniati~: i due diavoli invischiati nella pece. 
+|Dentro da la crosta~: la cottura non solo aveva formato, della
+pelle, una crosta, ma era penetrata sotto la crosta, dentro la
+carne.

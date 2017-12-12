@@ -1,0 +1,284 @@
+{GSRCH}
+
+:SET #QMASK ~#ZQ~
+
+:SET @TMP ~Current top #ZM queries:~
+:COMPARE #MAXQUERY
+     TO "0-#ZM"
+	:SET @TMP ~Current queries:~
+:DONE
+
+:PRINT ~@HEADING@TMP\n~
+
+:BRS QUERIES USING ~T#ZM~
+:COMPARE #MAXQUERY
+     TO "0"
+	:PRINT ~  None outstanding.\n~
+:DONE
+
+:COMPARE @HAVEHITS
+     TO "No"
+	:SET @HAVEHITS ~Yes~
+	:COMPARE #DOCS
+	     TO "0"
+		:SET @HAVEHITS ~No~
+	:DONE
+     TO "Yes"
+	:SET @TMP ~@BDEFAULT~
+	:SET @BDEFAULT ~#MAXQUERY~
+	:COMPARE #DOCS
+	    TO "0"
+		:SET @BDEFAULT ~@TMP~
+	:DONE
+:DONE
+
+:SET @TMP ~#NEXTQUERY~
+:COMPARE #NEXTQUERY
+     TO "1-9"
+	:SET @TMP ~ @TMP~
+     TO "1-99"
+	:SET @TMP ~ @TMP~
+:DONE
+
+:GET @SELECTION ~\nEnter search or option letter (eg \o2L\f2ine search, \o2H\f2elp, \o2O\f2ption list, \o2Q\f2uit):\n@TMP__: ~
+:PARSE @SELECTION UPPER
+
+:COMPARE @SELECTION
+     TO "0-#MAXQUERY"
+	:SET @BR ~@SELECTION~
+	:SET @SELECTION ~D~
+	:SET @DOC ~1~
+	:SET @PRESELECT ~~
+	:MENU ~GOPTS_~
+
+     TO "#1:H"
+	:MENU ~GSRCH_H~
+
+; Here begins the special stuff for the Dante Project's "line search."
+
+     TO "#1:L"
+	:COMPARE @LANGUAGE
+	     TO ""
+		:SET @LANGUAGE ~Any~
+	:DONE
+
+	:GET @TSTRING ~\nCommentary language: \o2I\f2talian, \o2L\f2atin, \o2E\f2nglish, \o2A\f2ny or \o2S\f2 to Search [@LANGUAGE]: ~ -
+	     MATCH "I|i|L|l|E|e|A|a|S|s|"
+	:PARSE @TSTRING UPPER
+
+	:COMPARE @TSTRING
+	     TO "S"
+		:MENU
+	     TO "I"
+		:SET @LANGUAGE ~Italian~
+		:SET @LKEY ~It~
+	     TO "L"
+		:SET @LANGUAGE ~Latin~
+		:SET @LKEY ~La~
+	     TO "E"
+		:SET @LANGUAGE ~English~
+		:SET @LKEY ~En~
+	     TO "A"
+		:SET @LANGUAGE ~Any~
+		:SET @LKEY ~~
+	:DONE
+
+	:COMPARE @CTCA
+	     TO "*"
+		:SET @RMATCH ~I|i|PU|Pu|pu|PA|Pa|pa|S|s|~
+	     TO ""
+		:SET @RMATCH ~I|i|PU|Pu|pu|PA|Pa|pa|S|s~
+	:DONE
+
+	:GET @TSTRING ~Cantica: \o2I\f2nferno, \o2Pu\f2rgatorio, \o2Pa\f2radiso, or \o2S\f2 to Search [@CTCA]: ~ -
+	     MATCH "@RMATCH"
+	:PARSE @TSTRING UPPER
+
+	:COMPARE @TSTRING
+	     TO "S"
+		:MENU
+	     TO "I"
+		:SET @CTCA ~Inferno~
+		:SET @AKEY ~A10~
+	     TO "PU"
+		:SET @CTCA ~Purgatorio~
+		:SET @AKEY ~A20~
+	     TO "PA"
+		:SET @CTCA ~Paradiso~
+		:SET @AKEY ~A30~
+	:DONE
+
+	:COMPARE @CNTO
+	     TO "*"
+		:SET @RMATCH ~1-34|S|s|~
+	     TO ""
+		:SET @RMATCH ~1-34|S|s~
+	:DONE
+
+	:GET @TSTRING ~Canto number (1-34) or S to Search [@CNTO]: ~ -
+	     MATCH "@RMATCH"
+	:PARSE @TSTRING UPPER
+
+	:COMPARE @TSTRING
+	     TO "S"
+		:MENU
+	     TO "1-34"
+		:SET @CNTO ~O@TSTRING~
+	:DONE
+
+	:COMPARE @DLINE
+	     TO "*"
+		:SET @RMATCH ~1-160|S|s|~
+	     TO ""
+		:SET @RMATCH ~1-160|S|s~
+	:DONE
+
+	:GET @TSRING ~Line number (1-160) or S to Search [@DLINE]: ~ -
+	     MATCH "@RMATCH"
+	:PARSE @TSRING UPPER
+
+	:COMPARE @TSRING
+	     TO "S"
+		:MENU
+	     TO "1-160"
+		:SET @DLINE ~L@TSTRING~
+	:DONE
+
+	:COMPARE @LKEY
+	     TO "*"
+		:SET @SELECTION ~@LKEY-@AKEY-@CNTO-@DLINE~
+	     TO ""
+		:SET @SELECTION ~@AKEY-@CNTO-@DLINE~
+	:DONE
+
+     TO "#1:O"
+	:SET @SELECTION ~L~
+
+; Here endeth the DDP stuff
+
+     TO "#1|"
+	:SET @BR ~?~
+	:SET @DOC ~?~
+	:MENU ~GOPTS_~
+:DONE
+
+:COMPARE @SELECTION
+     TO "*$*|*?*|*!*"
+	:SET @SINDEX ~~
+	:SET @ICONTINUE ~No~
+:DONE
+
+:PRINT ~\nResults are:\n~
+
+:SET @TMP ~#PGLEN~
+:SET #PGLEN ~0~
+
+:SET #TERM ~~
+:BRS SEARCH ~@SELECTION~
+
+:SET #PGLEN ~@TMP~
+
+:COMPARE #RESULT
+     TO "*"
+	:CLEAR STACK
+
+	:PARSE #RESULT EXTRACTING @TYPE
+
+	:COMPARE @TYPE
+	     TO "ERROR"
+		:PRINT ~\t\o5 #RESULT \f5\n~
+
+	     TO "EQUALS"
+		:PRINT ~\tExpression equals #RESULT\n~
+	:DONE
+
+	:PAUSE
+	:MENU
+:DONE
+
+:COMPARE #PICKUP
+     TO "*"
+	:PRINT ~\n\o5 (WARNING: Truncation overflow occurred) \f5\n~
+:DONE
+
+:SET @BR ~#MAXQUERY~
+:SET @DOC ~1~
+:SET @EON ~#ZE~
+
+:COMPARE #DOCS
+     TO "0"
+	:COMPARE #CSFLAG
+	     TO "YES"
+		:CLEAR STACK
+		:PRINT ~\n\o5 Nothing found for @SELECTION \f5\n~
+	:DONE
+
+	:COMPARE @EON
+	     TO "Yes"
+		:COMPARE #TERMS
+		     TO "* *|*	*"
+			:SET @EON ~No~
+		:DONE
+	:DONE
+
+	:COMPARE #ZP
+	     TO "Yes"
+		:SEND ~U#MAXQUERY~
+		:SHOW BEFORE "*"
+		:CLEAR QUERIES COUNT ~1~
+	:DONE
+
+	:COMPARE @EON
+	     TO "No"
+		:PAUSE
+		:MENU
+	:DONE
+
+	:PRINT ~\n~
+	:GET @EON ~Enter \o2S\f2 to Search; \o2E\f2 to Expand [E]: ~ "S|s|E|e|"
+	:COMPARE @EON
+	      TO "E|e|"
+		:SET @EXPAND ~Yes~
+		:MENU ~XPAND_~
+	:DONE
+	:MENU
+:DONE
+
+:COMPARE @PRESELECT
+     TO ""
+	:SET @TYPE ~~
+     TO "F"
+	:SET @TYPE ~Full~
+     TO "C"
+	:SET @TYPE ~Context~
+     TO "B"
+	:SET @TYPE ~Brief~
+     TO "O"
+	:SET @TYPE ~Ordering~
+:DONE
+:PRINT ~\n~
+:GET @SELECTION -
+     PROMPT ~Enter \o2S\f2 to Search; \o2D\f2 for @TYPE Display; \o2E\f2 for Extra Display Options [#ZF]: ~ -
+     MATCH "S|s|D|d|E|e|"
+:PARSE @SELECTION UPPER
+
+:COMPARE @SELECTION
+     TO ""
+	:SET @SELECTION ~#ZF~
+
+;
+; @PRESELECT is used to pre-select the print option to be used later.
+; If it is null, then GETPD will do its usual thing of asking for the 
+; print options.  Cf. GETPD.MNS.
+;
+     TO "D"
+	:MENU ~GOPTS_~
+
+     TO "E"
+	:SET @PRESELECT ~~
+	:SET @SELECTION ~D~
+	:MENU ~GOPTS_~
+
+:DONE
+
+:MENU

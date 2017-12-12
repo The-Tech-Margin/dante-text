@@ -1,0 +1,525 @@
+	|Proemio.~  ^Se mai continga che 'l poema sacro~ ec.  Questo @e lo XXV 
+di questa terza cantica, nel quale l'autore introduce santo Iacopo che 
+lo esamin@o della speranza, et oltra introduce santo Ioanni che nel 
+seguente canto lo esaminer@a della carit@a.  E dividesi questo canto 
+principalmente in due parti: imper@o che prima introduce santo Iacopo 
+che lo esamin@o della speranza; nella seconda compie l'esaminazione 
+della speranza et introduce santo Ioanni evangelista, dicendo alcune 
+cose notabili, et incominciasi quine: ^Mentr'io dicea~ ec.  La prima, 
+che sar@a la prima lezione, si divide in parti sei: imper@o che prima 
+finge com'elli visse in isperanza di ritornare in Fiorenza e di 
+poetarsi in Santo Ioanni; nella seconda finge come santo Iacopo uscitte 
+della ruota e venne in verso Beatrice e lui, et incominciasi quine: 
+^Indi si mosse un lume~ ec.; nella terza parte finge come Beatrice 
+preg@o lo spirito che era venuto a loro, che finge che fusse santo 
+Iacopo, che dimandasse Dante della speranza, e come confort@o lui, et 
+incominciasi quine: ^Ridendo allora~ ec.; nella quarta parte finge come 
+santo Iacopo lo dimand@o che cosa @e speranza e come elli l'avea, et 
+incominciasi quine: ^Poich@e per grazia~ ec.; nella quinta parte finge 
+come Beatrice risponde al secondo dimando e lasci@o a lui la risposta 
+al primo, et incominciasi quine: ^E quella pia~ ec.; nella sesta parte 
+finge com'elli rispose pienamente a la dimanda prima, et incominciasi 
+quine: ^Come 'l discente~ ec.  Divisa ora la lezione, @e da vedere lo 
+testo coll'esposizioni letterali, allegoriche e morali.
+
+	|1-12.~  In questi quattro ternari lo nostro autore descrive come 
+visse in speranza di ritornare in Fiorenza e di poetarsi in Santo 
+Ioanni, e per@o dice cos@i: ^Se mai continga~; cio@e se per alcuno 
+tempo avvegna, ^che 'l poema~; cio@e questa opera di poes@i, ^sacro~: 
+imper@o che tratta di materia santa, cio@e della iustizia d'Iddio che 
+distribuisce a chi passa di questa vita quello che si debbe, cio@e ai 
+peccatori e scelerati pene eterne, et ai penitenti indulgenzia, ai 
+buoni vita felice et eterna, ^Al qual~; cio@e poema, ^@a posto mano~; 
+cio@e, dato opera, ^e Cielo~: per@o che in esso @e trattato delle cose 
+celesti, ^e Terra~: imper@o che in esso @e trattato delle cose 
+terresti: imper@o che in esso @e stato trattato del paradiso che @e in 
+cielo, e dello inferno e del purgatorio che @e in terra, ^S@i che m'@a 
+fatto~; cio@e per s@i fatto modo, che @a fatto me Dante, ^macro per 
+pi@u anni~: imper@o che @e stato bisogno che l'autore abbia studiato le 
+materie occorse, che sono state alte, e lo studio e ' pensieri fa 
+l'uomo magro, ^Vinca la crudelt@a~; cio@e dei citadini fiorentini che 
+erano inimici al nostro autore, perch'elli ostava a le loro tirannie, 
+come @e stato detto in pi@u parti di questo poema, ^che~; cio@e la 
+quale crudelt@a, ^fuor mi serra Del bello ovile~; cio@e serra me Dante 
+fuori di Fiorenza, la quale chiama ^ovile~: imper@o che, come l'ovile 
+@e ricettaculo delle pecore e difendimento di loro da' lupi; cos@i la 
+cit@a @e defensione dei citadini, che vogliano ben vivere e civilmente, 
+dai rubbatori e da' rei uomini che sono come lupi; e dice ^bello~: 
+imper@o che Fiorenza @e pi@u bella citt@a che abbia Italia, da Pisa in 
+fuora, ^ov'io~; cio@e nella quale io Dante, ^dormi' agnello~; cio@e 
+dormitti, quando io era garzone et infante et adolescente e giovano, 
+^Nimico ai lupi~: imper@o che sempre fui inimico dei ri' cittadini, che 
+vogliano tiranneggiare la cit@a li quali si chiamano ^lupi~ --, ^che li 
+danno guerra~; cio@e li quali lupi danno a la citt@a di Fiorenza 
+guerra: imper@o che non lasciano la citt@a posare in concordia et 
+unit@a, ^Con altra voce~; cio@e con altra fama, ^omai~; cio@e da quinci 
+innanzi, ^con altro vello~; cio@e con altro ornamento, che non @o avuto 
+infine a qui, ^Ritorner@o poeta~; cio@e fatto poeta nella mia citt@a, 
+^et in sul fonte Del mio battismo~; cio@e in Santo Ioanni, dove io fui 
+battizato, ^prender@o 'l cappello~; cio@e laurea della poes@i, come 
+pigliano li Poeti quando s'incoronano.  ^Per@o che nella Fede~; ecco 
+che assegna la cagione, per che assegna che sar@a la sua tornata con 
+migliore voce, o vero ^con altra voce e con altro vello~; cio@e imper@o 
+che ^nella Fede~; cio@e che lo cristiano debbe portare a Dio, ^che~; 
+cio@e la quale fede, ^fa conte~; cio@e fa manifeste, ^L'anime a Dio~; 
+cio@e l'anime che l'@anno: imper@o che quell'anime, che sono fedeli, 
+Iddio @ae per sue et accettale, ^quivi~; cio@e in quello luogo, cio@e 
+in Santo Ioanni, ^entra'io~; cio@e io Dante entrai in Santo Ioanni 
+nella fede, quando fui battezzato: quello @e l'entramento che l'anima 
+fa nella fede, cio@e lo battismo, ^e poi~; cio@e in cielo, come detto 
+@e di sopra, ^Pietro~; cio@e santo Piero, ^per lei~; cio@e per la fede 
+nella quale me esamin@o, come detto @e, ^s@i mi gir@o la fronte~; cio@e 
+tre volte rote@o sopra me, come fu detto di sopra, che signific@o uno 
+confermare et approvare Dante per fidele cristiano.
+
+	|13-27.~  In questi cinque ternari lo nostro autore finge come poi si 
+part@i santo Iacobo del cerchio, nel quale era, e venne a lui; e come 
+Beatrice liel mostra e fallielo manifesto; e come si congratul@o con 
+santo Piero, che prima era venuto, come detto fu di sopra, dicendo 
+cos@i: ^Indi~; cio@e poi che san Piero mi gir@o intorno tre volte, ^si 
+mosse un lume~; cio@e di quelli, che erano in cerchio, ^verso noi~; 
+cio@e verso Beatrice e me, ^Di quella spera~, cio@e di quel tondo, o 
+vero cerchio, ^unde~; cio@e del quale, ^usc@i la primizia~; cio@e colui 
+che fu primo de li vicari, che Cristo lasci@o dopo s@e; e per@o, ^Che~; 
+cio@e la quale primizia, cio@e autorit@a e maggioria, ^lass@o Cristo~; 
+cio@e lo nostro Signore Iesu Cristo, ^nei vicari suoi~; cio@e in coloro 
+che sono vicari di Cristo, che portano l'ufficio del papato.  ^E la mia 
+donna~; cio@e Beatrice, ^piena di letizia~; per@o che godeva della 
+beatitudine de' santi, ^mi disse~; cio@e disse a me Dante: ^Mira, 
+mira~; cio@e guarda, guarda chi viene, ^ecco 'l Barone~; cio@e santo 
+Iacopo, ^Per cui~; cio@e per lo quale, ^laggi@u~; cio@e nel mondo, ^si 
+visita Gallizia~; cio@e si va a la chiesa sua che @e in Gallizia, e 
+questo fu santo Iacopo maggiore.  ^Siccome quando 'l colombo si pone 
+Presso al compagno~; ecco che fa una similitudine che, come l'uno 
+colombo fa festa a l'altro, quando si pognano presso l'uno a l'altro; 
+cos@i feceno li due beati spiriti, cio@e santo Piero e santo Iacopo; e 
+per@o dice: ^Siccome quando 'l colombo si pone Presso al compagno, 
+l'uno all'altro pande, Girando e mormorando~; insieme l'uno a l'altro, 
+^l'affezione~; cio@e l'amore, che @a l'uno a l'altro.  ^Cos@i~; cio@e 
+per s@i fatto modo, ^vidd'io~; cio@e Dante, ^l'uno~ Principe 
+^glorioso~; cio@e santo Iacopo, ^essere accolto~; cio@e essere 
+ricevuto, ^dall'altro grande Principe~; cio@e da santo Piero che fu lo 
+primo papa, sicch@e ben fu grande principe, ^Laudando 'l cibo~; cio@e 
+lodando Iddio, che @e lo cibo de' beati, ^che lass@u li prande~; cio@e 
+lo quale cibo, cio@e Iddio, in vita eterna li sazia.  ^Ma poi che 'l 
+gratular~; cio@e lo rallegrarsi insieme, ^si fu asciolto~; cio@e fu 
+finito e come compiuto, ^Tacito coram me~; cio@e innanzi a me Dante, 
+^ciascun~; cio@e di questi due Apostoli, cio@e santo Piero e santo 
+Iacopo, ^s'affisse~; cio@e si ferm@o, ^Ignito~; cio@e affocato, ^s@i~; 
+cio@e per s@i fatto modo, ^che vincea 'l mio volto~; cio@e la mia 
+vista: imper@o che io nolli poteva ragguardare.
+
+	|28-39.~  In questi quattro ternari lo nostro autore finge che 
+Beatrice confortasse santo Iacopo che dimandasse Dante, et esaminasse 
+sopra la seconda virt@u teologica, cio@e sopra la speranza; e come 
+santo Iacopo confort@o Dante che levasse suso lo capo et attendesse a 
+quello che voleva dire, dicendo cos@i: ^Ridendo allora~; cio@e quando 
+amenduni quelli spiriti s@i affocati s'affissero innanzi a me Dante, 
+^Beatrice~; cio@e la mia guida, ^disse~; a quello spirito, che di nuovo 
+era venuto, cio@e a santo Iacopo: ^Inclita vita~; cio@e o gloriosa 
+anima, che fusti vita del tuo corpo quando fusti coniunta con lui, et 
+ora sei tutta separata, ^per cui~; cio@e per la quale, ^l'allegrezza 
+Della nostra Basilica~; cio@e lo gaudio della nostra Chiesa triunfante: 
+altro testo dice ^la largezza~: imper@o che santo Iacopo nella sua 
+Epistola canonica dimostra de la larghezza d'Iddio, quando dice: ^Omne 
+datum optimum, et omne domum perfectum desursum est, descendens a patre 
+luminum~; e basilica tanto viene a dire, quanto casa reale, ^si 
+scrisse~; quando scrisse le sue Epistole canoniche, ^Fa risonar la 
+spene in questa altezza~; cio@e fa che qui in cielo si dica di costui, 
+che @e qui meco, la speranza che cosa sia.  Ben procede l'autore nella 
+sua fizione: imper@o che santo Piero, che tiene figura di fede, fece 
+essere esaminatore di s@e sopra la fede; e santo Iacopo, che tiene 
+figura di speranza, induce esaminatore sopra la speranza; e cos@i 
+inducer@a santo Ioanni evangelista, che tiene figura di carit@a, che 
+fia esaminatore di carit@a.  ^Tu~; cio@e santo Iacopo, ^sai~; questo 
+cio@e, ^che tante volte la figuri~; cio@e la speranza pi@u, che gli 
+altri Apostoli, ^Quante Iesu~; cio@e lo nostro Salvatore, ^ai tre~; 
+cio@e discepoli suoi et Apostoli, ^fe pi@u chiarezza~; cio@e 
+manifestamento di s@e, che agli altri: imper@o che, come appare 
+nell'Evangelio di santo Mateo cap. XVII: ^Assumit Iesus Petrum, et 
+Iacobum et Ioannem fratrem eius, et ducit illos in montem excelsum 
+seorsum.  Et transfiguratus est ante eos.  Et resplenduit facies eius 
+sicut sol~.  Ecco che Iesu ai detti tre discepuli fece ^pi@u chiarezza~ 
+di s@e, che agli altri: imper@o che alli altri non manifest@o la sua 
+divinit@a come a costoro; e Piero s'interpreta fermezza di fede; 
+Iacopo, supplantazione che n'@e cagione di speranza; e Giovanni, pieno 
+di grazia; e tanto ciascuno di questi tre eccede li altri in queste 
+virt@u, quanto ebbono maggiore notizia di Cristo, che gli altri che non 
+viddono quella transfigurazione.  ^Leva la testa~; queste sono parole, 
+che finge l'autore che santo Iacopo parlasse a lui: imper@o che per lo 
+troppo splendore, come detto @e di sopra, Dante aveva inchinato lo 
+volto; e per@o finge che santo Iacopo li disse che tenesse alto la 
+testa, ^e fa che t'assiguri~; cio@e tu, Dante.  ^Ch@e~; cio@e imper@o 
+che, ^ci@o, che vien quass@u~; cio@e in cielo, ^del mortal mondo~; 
+cio@e del mondo, che @e caduco e mortale, ^Convien ch'ai nostri raggi 
+si maturi~; cio@e convien che diventi abile a sostenere lo nostro 
+splendore; e questo dice sotto figura: imper@o che ciascuno fidele 
+cristiano, che innalza lo intelletto suo a considerare le cose celesti, 
+convien che, intendendo a ci@o, elli diventi abile a tale 
+considerazione e diventi perfetto.  ^Questo conforto del foco secondo 
+Mi venne~; cio@e questo conforto, che detto @e, venne a me Dante da 
+quello beato spirito che venne poi, cio@e da santo Iacopo, ^ond'io~; 
+cio@e per la qual cosa io Dante, ^levai li Occhi~; miei, cio@e a l'alte 
+cose; e per@o dice: ^ai monti~; @a 'l Psalmista, che dice: ^Levavi 
+oculos meos in montes, unde veniet auxilium mihi~; e questi sono li 
+monti, cio@e li santi Apostuli, che sono posti in alto per eccellenzia 
+di dottrina, come li monti.  E qui si dimostra che l'autore, 
+ragguardando prima la dottrina apostolica, fu soperchiato da essa per 
+la sua grandezza che @ae in s@e; ma poich@e l'omo s'avanza ad essa, 
+diventa abile ad intenderla e seguitarla; e per@o dice: ^Che~; cio@e li 
+quali monti, ^l'incurvaron~; cio@e piegorno loro, cio@e li miei occhi, 
+^pria col troppo pondo~; cio@e colla troppa gravit@a della dottrina sua.
+
+	|40-48.~  In questi tre ternari lo nostro autore finge come santo 
+Iacopo lo incominci@o a dimandare della speranza che li dicesse quello 
+che ella era, dicendo cos@i: ^Poi che per grazia~; cio@e data da Dio, 
+^vuol che tu t'affronti~; cio@e vuole che tu, Dante, guardi a fronte a 
+fronte, ^Lo nostro Imperador~; cio@e Iddio, ^ansi la morte~; cio@e 
+innanzi che tu muoi, ^Ne l'aula pi@u secreta~; cio@e nella magione pi@u 
+secreta, che l'altre, ^de' suoi Conti~; cio@e de' suoi santi: imper@o 
+che li conti si diceno compagni dei signori, e li beati sono compagni 
+d'Iddio: imper@o che con lui stanno, come li conti stanno co li regi et 
+accompagnalli, ^Sicch@e~; cio@e acci@o che, ^veduto 'l ver di questa 
+Corte~; cio@e poi che arai vedulo lo vero di paradiso, ^La spene~; 
+cio@e speranza, ^che~; cio@e, la quale speranza, ^laggi@u~; cio@e nel 
+mondo, ^bene innamora~: imper@o che dalla speranza nasce la carit@a, 
+come alla fede nasce la speranza, ^In te~; cio@e Dante, ^et in altrui~; 
+cio@e in coloro, che leggeranno lo libro tuo, ^di ci@o~; cio@e tu, 
+Dante, di quello che sperano, ^conforte~; cio@e affermando la loro 
+speranza.  ^Di'~; cio@e tu, Dante, ^quel ch'ell'@e~; cio@e quello, che 
+@e la speranza, ^e come se ne 'nfiora La mente tua~; cio@e e come se 
+n'adorna la tua mente di te Dante, cio@e come tu l'@ai nella tua mente, 
+^e di'~; cio@e tu, Dante, ^onde a te venne~; cio@e unde ebbe principio 
+in te la speranza.  ^Cos@i segu@i 'l secondo lume ancora~; cio@e santo 
+Iacopo, che fu lo secondo lume che venne dopo san Piero, cos@i segu@i 
+lo suo parlare ancora com'@e detto, oltra quello che detto era; sicch@e 
+tre questioni @a proposto santo Iacopo a Dante; prima, che cosa @e 
+speranza; la seconda, com'elli l'avea nella mente; la terza, unde li 
+venne.  Et a queste questioni finge di sotto che si rispondesse per 
+Beatrice a la seconda, e per lui a l'altre due; unde seguita lo testo.
+
+	|49-63.~  In questi cinque ternari lo nostro autore finge come 
+Beatrice prevenne lui a rispondere a seconda questione, et a Dante 
+lascia lo rispondere a li altri due, dicendo cos@i: ^E quella pia, che 
+guidava le penne Delle mie ali~; cio@e e Beatrice, che figura la santa 
+Scrittura, la quale @e pietosa: imper@o che per pieta, che Iddio ebbe 
+dell'umana natura, la mand@o di cielo in terra ne le menti umane dei 
+santi che la produsseno poi fuora; e questa era quella che ^guidava le 
+penne~ dell'^ali~ sue; le quali ^penne~ sono le virt@u intellettuali, e 
+l'^ali~ sono lo suo intelletto et ingegno, ^a cos@i alto volo~; come @e 
+questo di paradiso; a la quale altezza lo intelletto dell'autore s'era 
+levato co le virt@u sue intellettuali guidate dalla santa Scrittura, ^A 
+la risposta~; cio@e che io m'apparecchiava di fare a le questioni 
+dimandate, ^cos@i~; cio@e come io dir@o di sotto, ^mi prevenne~; cio@e 
+introe innanzi, dicendo a la seconda.  E questo finge l'autore, perch@e 
+non voleva che li fusse reputato a vantamento sopraponendosi agli 
+altri, o vero appareggiandosi nella speranza; et ancora, perch@e la 
+santa Scrittura @e quella che accresce e fortifica continuamente la 
+nostra speranza; e per@o dice Beatrice: ^La Chiesa militante~; cio@e la 
+Chiesa terrena, che si pone per la congregazione di tutti li fideli 
+cristiani, che sono nel mondo che tuttavia combatteno col mondo, col 
+dimonio e co la carne, e per@o si chiama ^militante~ --, ^alcun 
+figliuolo~; cio@e alcuno suo suddito: li cristiani si diceno figliuoli 
+della santa Chiesa, et ella @e detta madre, ^Non @a con pi@u speranza~; 
+cio@e che Dante, ^com'@e scritto~; cio@e come si vede scritto, ^Nel 
+Sol~; cio@e in Dio, ^che raggia tutto 'l nostro stuolo~; cio@e infonde 
+li suoi raggi sopra tutta la terrena congregazione.  ^Per@o li @e 
+conceduto~; cio@e a Dante, ^che d'Egitto~: cio@e del mondo pieno di 
+peccati, ^Vegna 'n Ierusalem~; ch'@e interpretata visione di pace, che 
+significa vita eterna, ^per vedere~; cio@e la beata vita, ^Anzi che 'l 
+militar~; cio@e lo vivere: imper@o che, mentre che viviamo, militiamo, 
+^li sia prescritto~; cio@e li sia tolto, che si toglie nella morte, e 
+per@o vuole dire inanzi ch'elli muoia; e moralmente s'intende che gli 
+@e conceduto dipartirsi dal peccato e venire a la virt@u.  ^Li altri 
+du' punti~; cio@e che cosa @e speranza et unde li venne, ^che~; cio@e 
+li quali due punti, ^Son dimandati~; cio@e a Dante, ^non per sapere~: 
+imper@o tu, santo padre, li sai, ^ma perch@e rapporti~; cio@e giuso nel 
+mondo, ^Quanto questa virt@u~; cio@e della speranza, ^t'@e~; cio@e @e a 
+te santo Iacopo, ^in piacere~; cio@e quanto ella ti piace, ^A lui~; 
+cio@e a Dante, ^lasc'io~; cio@e io Beatrice: ^ch@e non li saran forti~; 
+cio@e imper@o che a lui non saranno forti a rispondere, ^N@e di 
+iattanza~; cio@e di vantamento, come sarebbe stato quello a che io 
+rispuosi.  ^et elli~; cio@e Dante, ^a ci@o~; cio@e a quelli due dubbi, 
+^risponda~; colla sua bocca, ^E la grazia di Dio ci@o li comporti~; 
+cio@e li conceda ci@o, cio@e lo rispondere.
+
+	|64-78.~  In questi cinque ternari lo nostro autore finge com'elli 
+rispuose a li altri due dubbi in questa forma, ponendo la similitudine 
+del discepulo, dicendo cos@i: ^Come 'l discente~; cio@e lo discepolo, 
+^ch'al dottor segonda~; cio@e lo quale risponde al dottore suo: 
+segondare @e rispondere, ^Pronto e libente~; cio@e sollicito et 
+apparecchiato e volontaroso, ^in quel, ch'elli @e esperto~; cio@e in 
+quello, di che egli @ae esperienzia, ^Perch@e la sua bont@a si 
+disnasconda~; cio@e a ci@o che la sua bont@a si palesi.  ^Spene~; cio@e 
+speranza, ^diss'io~; cio@e dissi io Dante, ^@e uno attender certo Di 
+gloria futura~; cio@e @e una fermezza della gloria di vita eterna et 
+uno certo aspettamento, ^il qual~; cio@e attender, ^produce Grazia 
+divina~; ecco ch'@e risposto prima al primo dimando, cio@e che cosa @e 
+speranza, siccome appare quando dice: ^Spene, diss'io~.  Risponde poi 
+al secondo dimando, dicendo che questo attendere produce grazia divina: 
+imper@o che da Dio viene, ^e precedente merto~; e merito che @e ito 
+inanzi; e questo dice, a differenzia de la grazia preveniente che si 
+chiama ^gratum faciens~, che quella si chiama grazia data.  ^Da molte 
+stelle~; poi che @a manifestato la cagione prima unde li veniva 
+speranza, manifesta la cagione seconda, cio@e la influenzia dei corpi 
+celesti, e per@o dice: ^Da molte stelle mi vien questa luce~; cio@e 
+questa verit@a che riluce nel mio intelletto, che mi dice che cosa @e 
+speranza, mi viene, cio@e a me Dante, da la influenzia di molte stelle. 
+ ^Ma quel~; cio@e colui, ^la distill@o~; cio@e la misse, ^nel mio cuor 
+pria~; cio@e nel cuore di me Dante prima, ^Che~; cio@e lo quale, ^fu 
+sommo cantor~; cio@e lodatore; e questo fu David, ^del sommo Duce~; 
+cio@e d'Iddio.  ^Sperino in te~; ecco che assegna la cagione e 
+l'autorit@a di David, che dice: ^Sperent in te qui noverunt nomen tuum~ 
+ec., parlando a Dio dice: ^Sperino in te, nella tua Teodia~; cio@e 
+nella tua deit@a, ^Dice~; cio@e David, ^a color~; cio@e a tutti coloro, 
+^che sanno 'l nome tuo: E chi nol sa~; quasi dica, dice l'autore: 
+Ogniuno lo sa, ^s'elli @a la Fede mia~; cio@e la fede di Cristo?  La 
+quale io Dante @one: imper@o che fede @e sustanzia delle cose da essere 
+sperate ec.; sicch@e chi @a la fede, @a la speranza.  ^Tu~; cio@e santo 
+Iacopo, ^mi stillasti~; cio@e stillasti e mettesti in me la speranza, 
+^co lo stillar suo~; cio@e co l'ammaestramento e dottrina sua, che tu 
+mettesti nella tua Epistola canonica, che prima l'avesti da lui e poi 
+la stillasti in me, ^Ne la epistola~; cio@e tua canonica, ^poi~; cio@e 
+che fusti stillato da lui, ^s@i ch'io son pieno~; cio@e per s@i fatto 
+modo, che io Dante son pieno de lo stillamento d'amenduni voi; del 
+Profeta e di te Apostolo.  ^Et in altrui~; cio@e in colui, che legger@a 
+questo mio poema, ^vostra pioggia~; cio@e la vostra dottrina del 
+Salmista e di te santo Iacopo, che @e stillata in me come la pioggia 
+sopra colui sopra 'l quale piove, ^ripluo~; cio@e rinfondo e rimetto: 
+imper@o che quello, che io @one imparato da voi, lo scrivo, et altri 
+dal mio scritto lo imparer@a.  E qui finisce la prima lezione del canto 
+XXV, et incominciasi la seconda.
+	^Mentr'io dicea~, ec.  Questa @e la seconda lezione del canto XXV 
+della terza cantica, nel quale l'autore nostro finge come santo Iacopo 
+introduce santo Ioanni evangelista per trattare con lui de la carit@a, 
+siccome appare nel seguente canto; ma prima dice di lui alquante 
+notabili cose in questo canto.  E dividesi questa lezione in parti 
+cinque: imper@o che prima finge come ancora lo detto apostolo santo 
+Iacopo l'esamin@o, dicendo che elli manifestasse che li prometteva la 
+speranza; nella seconda finge come gli rispuose, et incominciasi quine: 
+^Et io: Le nuove~ ec.; nella terza finge come apparitte santo Ioanni 
+evangelista, et incominciasi quine: ^Possa tra esse~ ec.; nella quarta 
+finge come egli si sforzava di vederlo se era in corpo, e come li fu 
+risposto che no, et incominciasi quine: ^Quale colui~ ec.; nella quinta 
+finge come quietato lo giro delli Apostoli, elli volse vedere Beatrice, 
+e bench@e l'avesse allato, nolla pot@e vedere, et incominciasi quine: 
+^A questa voce~ ec.  Divisa adunque la lezione, ora @e da vedere lo 
+testo co le esposizioni letterali, allegoriche e morali.
+
+	|79-87.~  In questi tre ternari lo nostro autore finge come santo 
+Iacopo lo dimand@o che promette a l'omo la speranza, dicendo cos@i: 
+^Mentr'io~; cio@e in mentre, che io Dante, ^dicea~; quello che @e detto 
+di sopra, ^dentro al vivo seno Di quello incendio~; cio@e dentro al 
+lume, in che era la beata anima di santo Iacopo, ^tremulava un lampo~; 
+cio@e dibattevasi uno fulgure, come vegnano li lampi, ^Subito e 
+spesso~; cio@e lo detto lampo, ^a guisa di baleno~: lampo s'intende uno 
+ardente splendore durabile come dura la lampana, e baleno si dice lo 
+fulgore che subito viene e spesso, e non dura; sicch@e l'autore fa 
+comparazione del lampo a lo baleno, ne la subitezza e ne la 
+spessitudine quanto al tremulare che @ae detto; e lampo dice quanto a 
+la grandezza e durabilit@a dello splendore.  ^Indi~; cio@e di quello 
+lume, che detto @e, ^spir@o~; cio@e uscitte fuori questa voce, cio@e: 
+^L'amore~; cio@e l'ardente carit@a, ^ond'io~; cio@e per la quale io 
+beato spirito, ^avvampo~; cio@e ardo, cio@e risplendo, ^Ancor ne la 
+virt@u~; cio@e della speranza, ^che mi seguette~; cio@e seguit@o me 
+beato spirito, ^Insin la palma~; cio@e infin che io venni a la vittoria 
+del martirio, ^et all'uscir del campo~; cio@e et infine a la morte, ne 
+la quale s'esce del campo: imper@o che infine a quella stiamo nel campo 
+a combattere coi nostri avversari, ^Vuol ch'io~; cio@e che io beato 
+spirito, cio@e santo Iacopo, ^respiri a te~; cio@e parli a te Dante, 
+^che ti dilette~; cio@e lo quale Dante ti diletti d'essa virt@u; e 
+per@o dice: ^Di lei~; cio@e della speranza, ^et emmi~; cio@e et @e a me 
+beato spirito, ^a grato~; cio@e grazioso et in piacere, ^che tu diche~; 
+cio@e che tu, Dante, dichi a me, ^Quello, che la Speranza ti promette~; 
+cio@e che @e quello, che tu speri.  E cos@i finge l'autore ch'elli 
+fusse indutto da santo Iacopo a manifestare quello, ch'elli aspettava e 
+sperava d'avere.  Seguita.
+
+	|88-99.~  In questi quattro ternari lo nostro autore finge com'elli 
+rispuose al dimando fatto di sopra da santo Iacopo; cio@e che cosa 
+prometteva la speranza, dicendo cos@i: ^Et io~: cio@e Dante rispuosi al 
+dimando fatto di sopra da santo Iacopo.  ^Le nuove e le Scritture 
+antiche~; cio@e lo nuovo Testamento e 'l vecchio, ^Pongono 'l segno~; 
+cio@e di quello, che la speranza promette a coloro che l'@anno, ^et 
+esso~; cio@e segno, ^lo m'addita~; cio@e mi dimostra col dito, cio@e 
+manifestamente quello che promette la speranza, ^Dell'anime, che Dio 
+s'@a fatto amiche~; cio@e di quelli che sono amici d'Iddio; e dice che 
+Iddio se gli @a fatti amici, perch@e nessuno pu@o essere amico d'Iddio, 
+se Iddio non sel fa.  ^Dice Isaia~; profeta nel LXI ca.o, ^che 
+ciascuna~; cio@e dell'anime amiche d'Iddio, ^vestita Ne la sua terra~; 
+cio@e in vita eterna, ^s@i di doppia vesta~; cio@e di bianca vesta che 
+significa mondezza e purit@a, e di vermiglia che significa carit@a, ^E 
+la sua terra~; cio@e dell'anime, che Iddio s'@a fatto amiche, ^@e 
+questa dolce vita~; cio@e vita eterna, come dice santo Paulo: ^Non enim 
+habemus hic manentem civitatem; sed futuram inquirimus~ --, ^E 'l tuo 
+fratello~; cio@e santo Ioanni evangelista, che fu fratello di santo 
+Iacopo, ^assai via pi@u digesta~; cio@e assai via pi@u distinta e 
+determinata, ^L@a, dove tratta delle bianche stole~; cio@e 
+nell'Apocalissi: imper@o che dice che vidde una turba grande, vestita 
+di bianchi vestimenti, che seguitava Cristo dovunque andava.  ^Questa 
+revelazion~; cio@e di quello, che la speranza promette, ^ci manifesta~; 
+cio@e fa manifesta a noi che promette a noi la speranza.  ^E prima~; 
+cio@e inanti che si finissono queste parole, ^e presso al fin d'este 
+parole~; cio@e presso quando io finia lo mio parlare, dice l'autore ora 
+al lettore, ^Sperent in te~; che @e lo Psalmo XXI, ^di sopra noi 
+s'ud@i~; cio@e nel cielo sopra lo luogo dove eravamo noi, cio@e 
+Beatrice, santo Piero, santo Iacopo et io Dante; et in questo Psalmo 
+appare che Iddio @e quello, che la speranza ci promette.  ^A che~; 
+cio@e al qual Psalmo, ^rispuoser tutte le carole~: cio@e tutti li 
+cerchi de' beati, li quali @ae finto l'autore che si volgeno in 
+cerchio; e dice che rispuoseno quello, che seguita nel canto del detto 
+Psalmo.  E cos@i appare che la speranza ci promette Iddio, e questo @e 
+quello che l'anima nostra desidera.  Seguita.
+
+	|100-117.~  In questi sei ternari lo nostro autore finge come 
+apparitte poi, e venne ai due detti di sopra santo Ioanni evangelista, 
+dicendo cos@i: ^Possa~; cio@e che cantata fue: ^Sperent in te~ --, ^tra 
+esse~; cio@e tra le dette carole, ^un lume~; cio@e uno beato spirito, 
+lo quale era vestito di lume, come sono tutti li altri, ^si schiar@i~; 
+cio@e fece maggiore chiarore, che gli altri e che prima, ^Tal~; cio@e 
+per s@i fatto modo, ^che se 'l Cancro~; cio@e se quel segno 
+settentrionale, che si chiama Cancro che @e uno de' dodici segni, 
+^avesse un tal cristallo~; cio@e avesse una stella tanto fulgida; e 
+dice ^cristallo~, a denotare che li corpi celesti sono lucidi come lo 
+cristallo, e non @anno lume da loro; ma sono ricettivi del lume del 
+Sole, ^Lo verno arebbe un mese d'un sol d@i~; cio@e che sarebbe uno 
+mese tuttavia d@i senza notte: imper@o che lo Sole illuminerebbe lo d@i 
+lo nostro emisperio, e 'l Cancro lo illuminerebbe la notte, e cos@i non 
+cesserebbe da noi lo d@i: imper@o che il verno @e lo Sole in Capricorno 
+che @e segno contrario a Cancro; e per@o, quando Capricorno va sotto, e 
+Cancro esce fuora a noi.  E perch@e ogni segno @e trenta gradi, e lo 
+Sole passa un grado ogni d@i in 24 ore, seguita che 30 d@i pena a 
+passare lo Sole in Capricorno; e cos@i seguita che 30 d@i, quando lo 
+Sole va gi@u, lo Cancro viene su, e cos@i 30 d@i sarebbono senza avere 
+in mezzo notte; e questo sarebbe da mezzo dicembre, o vero circa, 
+infine a mezzo gennaio, o vero circa.  ^E come surge~; cio@e da sedere, 
+^e va, et entra in ballo Vergine lenta~; cio@e va piano, levasi 
+pianamente et entra in ballo pianamente, ^sol~; cio@e solamente, ^per 
+fare onore A la novizia~; cio@e a la novizia sua: imper@o che a la 
+vergine s'appartiene d'essere piana e moderata, ^non per alcun fallo~; 
+cio@e e non per fallo e colpa di lentezza, che sia in lei, ^Cos@i~; 
+cio@e pianamente, ^vidd'io~; cio@e viddi io Dante, ^lo schiarato 
+splendore~; cio@e lo spirito che schiaritte, del quale fu detto di 
+sopra; e questo finge l'autore che fusse santo Ioanni evangelista, 
+^Venir ai due~; cio@e venire a san Piero et a santo Iacopo, de' quali 
+fu detto di sopra, ^che~; cio@e li quali, quando erano con Beatrice e 
+meco, ^si volgeano a rota~: per@o che giravansi e roteavansi sopra noi, 
+^Qual~; cio@e circulazione e roteazione, o vero come ^conveniva al loro 
+ardente amore~; cio@e a la loro ardente carit@a, che avevano a Dio et a 
+noi.  ^Missesi l@i~; cio@e misse s@e in quello luogo lo detto spirito, 
+che venne, ^nel canto e nella rota~; cio@e a cantare e roteare co li 
+detti due spiriti, cio@e Piero et Iacopo.  ^E la mia donna~; cio@e 
+Beatrice, ^in lor~; cio@e in quelli tre Apostoli, ^tenea l'aspetto~; 
+cio@e li ragguardava, ^Pur come sposa tacita et immota~; cio@e come fa 
+la sposa tacita, che non si muove per onest@a.  ^Questi @e colui~; ecco 
+che dimostra a Dante santo Ioanni, che era quello terzo spirito che era 
+venuto, ^che~; cio@e lo quale, ^giacque sopra 'l petto Del nostro 
+Pellicano~; che sopra 'l petto di Cristo nella cena che Cristo fece 
+cogli Apostoli suoi, siccome dice l'Evangelio di santo Ioanni ca.o 
+XIII: ^Erat ergo recumbens unus ex discipulis eius in sinu Iesu~: lo 
+pellicano @e uno uccello che nasce nell'Egitto, bianco, lo quale poi 
+che @ae allevato li figliuoli e sono cresciuti, si levano contra lo 
+padre e la madre, e perquotelli ine 'l volto et ellino percuoteno loro 
+et uccidelli, e poi lo padre sta sopra li figliuoli e dassi del becco 
+nel petto, intanto che n'esce lo sangue, e cade sopra li figliuoli e 
+cos@i risuscitano.  E cos@i fece Cristo, che col sangue del suo costato 
+risuscit@o a la grazia l'uomo che, per lo insurgere contra Iddio, era 
+morto e dannato a lo inferno, sicch@e bene si conviene la similitudine 
+del pellicano a Cristo; e, dormendo santo Ioanni in sul petto di 
+Cristo, vidde le cose secrete della divinit@a.  ^e questi~; cio@e santo 
+Ioanni, ^fue Di su la Croce al grande officio eletto~: imper@o che 
+Cristo, essendo in su la croce disse a la madre: Ecco lo figliuolo tuo, 
+dimostrandoli santo Ioanni; et a lui disse: Ecco la madre tua; e da 
+quella ora la prese per sua madre, sicch@e bene l'elesse Cristo a 
+^grande officio~; cio@e ad essere in suo scambio a la sua madre.  ^La 
+donna mia~; cio@e Beatrice, ^cos@i~; cio@e come io Dante @one detto, 
+disse a me di santo Ioanni; e questa @ene ragionevile fizione: imper@o 
+che la santa Scrittura dice le dette parole, ^n@e per@o piue Mostr@o la 
+vista sua~; cio@e della mia donna, cio@e di Beatrice, ^di stare 
+attenta~; cio@e per udire, ^Possa~; cio@e che ebbe detto le dette 
+parole, ^che prima~; cio@e che innanzi, che le dicesse, ^alle parole 
+sue~; cio@e alle parole di santo Ioanni, cio@e cos@i stette attenta ad 
+aspettare quel che dicesse santo Ioanni, come stava prima, e cos@i 
+mostr@o.  E questo finge l'autore a quello, che @anno scritto li 
+Apostoli e li Evangelisti.
+
+	|118-129.~  In questi quattro ternari lo nostro autore finge com'elli, 
+volendo vedere se santo Ioanni evangelista era col corpo in vita 
+eterna, aballi@o; e come santo Ioanni li dichiar@o che col corpo in 
+vita eterna non era, se non Cristo e la Vergine Maria; e per@o dice 
+cos@i, faccendo una similitudine: ^Quale colui~; cio@e chente diventa 
+colui, ^ch'adocchia~; cio@e avvisa colli occhi, ^e s'argomenta~; cio@e 
+s'ingegna e forza, ^Di veder eclissar~; cio@e oscurare, ^lo Sole~; 
+siccome oscura quando la Luna vi s'interpone tra la nostra vista e lui, 
+^un poco~: imper@o che molto non si potrebbe sostenere; et anco dice 
+^un poco~: imper@o che poco dura l'eclissi del Sole: imper@o che, come 
+lo corpo de la Luna comincia apparere, lo raggio del Sole a poco a 
+poco, infine che iunge a l'altro lato, incomincia a scoprire dal lato 
+che @ae incominciato a coprire; e questo @e perch@e la Luna @e via pi@u 
+minor corpo che 'l Sole, ^Che per veder~; cio@e lo quale, per vedere 
+l'eclissi del Sole, ^non vedente diventa~; cio@e che diventa 
+abbagliato, ^Tal mi fec'io~; cio@e s@i fatto, cio@e s@i abbagliato 
+diventai io Dante, ^a quell'ultimo foco~; cio@e a quello ultimo lume e 
+splendore, in che era l'anima di santo Ioanni evangelista, che era 
+l'ultimo de' tre che quine era venuto, ^Mentre~; cio@e in quel mezzo, 
+^che detto fu~; cio@e a me Dante, cio@e dal detto santo Ioanni: 
+^Perch@e t'abballi~; cio@e perch@e offuschi li tuoi occhi, ragguardando 
+nel mio splendore, ^Per veder cosa~; cio@e lo mio corpo, ^che qui non 
+@a loco~; cio@e che qui non @e?  ^In Terra~; cio@e gi@u nel mondo, ^@e 
+terra~; cio@e che @e incenerato e fatto polvere, ^il mio corpo~; dice 
+santo Ioanni a Dante, ^e saralli~; cio@e in terra lo mio corpo, ^Tanto 
+colli altri~; cio@e morti e che morranno, ^che 'l numero nostro~; cio@e 
+di noi beati, ^Coll'eterno proposito s'aggualli~; cio@e infine a tanto 
+che sar@a lo numero de' beati, secondo che Iddio eterno @ae ordinato.  
+E questo finge l'autore: imper@o che santo Ioanni ne l'Apocalissi VI 
+ca.o: ^Et dictum est illis ut requiescerent adhuc tempus modicum, donec 
+compleantur conservi eorum, et fratres eorum, qui interficiendi sunt, 
+sicut illi~ ec.; e per@o @ane finto l'autore che santo Ioanni abbia 
+detto le dette parole, perch'elli fece l'Apocalissi.  Et anco finse che 
+santo Ioanni dicesse che lo corpo suo era ^In Terra~, perch@e ne 
+l'ultimo ca.o del suo Evangelio dice che, dicendo san Piero a Cristo, 
+poich@e Cristo aveva detto: ^Sequere me~, vidde santo Ioanni stare e 
+disse a Cristo: ^Hic autem quid?~  Disse allora Iesu a san Piero: ^Sic 
+eum volo manere, donec veniam.  Quid ad te?  Tu me sequere.  Exiit 
+sermo iste inter fratres, quia discipulus ille non moritur.  Et non 
+dixit Iesus non moritur, sed: Sic eum volo manere, donec veniam~; e 
+per@o perch@e pare che santo Ioanni in quello testo corregga tale 
+opinione, per@o finge che queste parole fusseno dette da lui a s@e.  
+^Co le sue stole~; cio@e co li suoi corpi: come la stola @e vestimente 
+del corpo; cos@i lo corpo @e vestimento dell'anime, o per@o ^stola~ si 
+pone per lo ^corpo~ --, ^nel beato chiostro~; cio@e nel cielo empireo, 
+^Son le due luci sole~; cio@e Cristo e la sua madre, e non altri, ^che 
+saliro~; cio@e le quali tu vedesti sallire dinanzi suso in cielo.  ^E 
+questo porterai~; cio@e tu, Dante, ^nel mondo vostro~; cio@e giuso tra' 
+mortali; e bene l'@a fatto che l'@a scritto qui, perch'altri lo sappia; 
+cio@e chiunqua legger@a lo suo poema.  Seguita.
+
+	|130-139.~  In questi tre ternari et uno versetto lo nostro autore 
+finge come, dette le parole scritte, tutto l'esercito delli Apostoli 
+cantorno e risonorno allegrezza; e poi si quietorno, dicendo cos@i: ^A 
+questa voce~; la quale @e detta di sopra, ^l'infiammato giro~; cio@e 
+delli Apostoli, lo quale era nel luogo santo, ^Si quiet@o~; cio@e si 
+ripos@o e ferm@o, ^con esso 'l dolce mischio~; cio@e co la mistura del 
+canto che faceano li detti tre Apostoli, che era dolcissimo; e per@o 
+dice: ^Che si facea nel suon del trino spiro~; cio@e nel sono di quelli 
+tre Apostoli, che detti sono di sopra, ^Siccome, per cessar fatica o 
+rischio~; ecco che adduce una similitudine, cio@e che, siccome in 
+galea, o per riposarsi un poco, o per schifare alcuno secco o scoglio, 
+in sul quale la galea scorrerebbe, se non restasse la voga e 
+s'ergessono lo ferro, per@o lo gomito fischia perch@e restino li 
+marinai la voga, ^Li remi pria ne l'acqua ripercossi Tutti si posano al 
+sonar d'un fischio~; cio@e quando lo gomito suona lo fischio.  ^Ahi 
+quanto ne la mente~; cio@e mia, ^mi commossi~; cio@e io Dante, ^Quando 
+mi volsi~; cio@e io Dante, ^per veder Beatrice~; cio@e la guida mia, 
+^Per non poter vederla~: imper@o che io era s@i abballiato, che io non 
+la poteva vedere; e questo finge, per dimostrare che nelle cose alte e 
+sottili, che scrive santo Ioanni ne l'Apocalissi e nel suo Evangelio, 
+lo ingegno umano abaglia e non pu@o vedere, cio@e intendere la santa 
+Scrittura, ^bench'io~; cio@e Dante, ^fossi Presso di lei~; cio@e di 
+Beatrice: allora @e l'uomo presso a la santa Scrittura, quando intende 
+e studia in essa, ^e nel mondo felice~; cio@e in vita eterna et in 
+cielo, secondo la lettera; ma secondo l'allegoria si debbe intendere 
+che l'autore v'era co la mente e con lo intelletto, che corporalmente 
+era in terra!  E qui finisce lo canto XXV, et incominciasi lo XXVI 
+della terza cantica.
+

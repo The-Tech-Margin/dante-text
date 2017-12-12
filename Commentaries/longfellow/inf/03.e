@@ -1,0 +1,338 @@
+	|1.~  This canto begins with a repetition of sounds like
+the tolling of a funeral bell: ^dolente...dolore!~ Ruskin,
+^Modern Painters~, III. 215, speaking of the Inferno, says: --
+
+     "Milton's effort, in all that he tells us of his Inferno, is
+     to make it indefinite; Dante's, to make it ^definite.~
+     Both, indeed, describe it as entered through gates; but,
+     within the gate, all is wild and fenceless with Milton,
+     having indeed its four rivers, -- the last vestige of the
+     mediaeval tradition, -- but rivers which flow through a
+     waste of mountain and moorland, and by `many a frozen, many
+     a fiery Alp.'  But Dante's Inferno is accurately separated
+     into circles drawn with well-pointed compasses; mapped and
+     properly surveyed in every direction, trenched in a
+     thoroughly good style of engineering from depth to depth,
+     and divided, in the `^accurate~ middle' (^dritto mezzo~) of
+     its deeper abyss, into a concentric series of ten moats and
+     embankments, like those about a castle, with bridges from
+     each embankment to the next; precisely in the manner of
+     those bridges over Hiddekel and Euphrates, which Mr.
+     Macauley thinks so innocently designed, apparently not aware
+     that he is also laughing at Dante.  These larger fosses are
+     of rock, and the bridges also; but as he goes further into
+     detail, Dante tells us a various minor fosses and
+     embankments, in which he anxiously points out to us not only
+     the formality, but the neatness and perfectness, of the
+     stonework.  For instance, in describing the river
+     Phlegethon, he tells us that it was `paved with stone at the
+     bottom, and at the sides, and ^over the edges of the
+     sides~,' just as the water is at the baths of Bulicame; and
+     for fear we should think this embankment at all ^larger~
+     than it really was, Dante adds, carefully, that it was made
+     just like the embankments of Ghent or Bruges against the
+     sea, or those in Lombardy which bank the Brenta, only `not
+     so high, nor so wide,' as any of these.  And besides the
+     trenches, we have two well-built castles; one like Ecbatana,
+     with seven circuits of wall (and surrounded by a fair
+     stream), wherein the great poets and sages of antiquity
+     live; and another, a great fortified city with walls of
+     iron, red-hot, and a deep fosse round it, and full of `grave
+     citizens,' -- the city of Dis.
+
+     "Now, whether this be in what we moderns call `good taste,'
+     or not, I do not mean just now to inquire, -- Dante having
+     nothing to do with taste, but with the facts of what he had
+     seen; only, so far as the imaginative faculty of the two
+     poets is concerned, note that Milton's vagueness is not the
+     sign of imagination, but of its absence, so far as it is
+     significative in the matter.  For it does not follow,
+     because Milton did not map out his Inferno as Dante did,
+     that he ^could~ not have done so if he had chosen; only it
+     was the easier and less imaginative process to leave it
+     vague than to define it.  Imagination is always the seeing
+     and asserting faculty; that which obscures or conceals may
+     be judgment, or feeling, but not invention.  The invention,
+     whether good or bad, is in the accurate engineering, not in
+     the fog and uncertainty."
+
+	|18.~  Aristotle says: "The good of the intellect is the
+highest beatitude"; and Dante in the ^Convito~: "The True is the
+good of the intellect."  In other words, the knowledge of God is
+intellectual good.
+
+	"It is a most just punishment," says St. Augustine, "that
+man should lose that freedom which man could not use, yet had
+power to keep, if he would, and that he who had knowledge to do
+what was right, and did not do it, should be deprived of the
+knowledge of what was right; and that he who would not do
+righteously, when he had the power, should lose the power to do
+it when he had the will."
+
+	|22.~  The description given of the Mouth of Hell by
+Frate Alberico, ^Visio~, 9, is in the grotesque spirit of the
+Mediaeval Mysteries.
+
+     "After all these things, I was led to the Tartarean Regions,
+     and to the mouth of the Internal Pit, which seemed like unto
+     a well; regions full of horrid darkness, of fetid
+     exhalations, of shrieks and loud howlings.  Near this Hell
+     there was a Worm of immeasurable size, bound with a huge
+     chain, one end of which seemed to be fastened in Hell.
+     Before the mouth of this Hell there stood a great multitude
+     of souls, which he absorbed at once, as if they were flies;
+     so that, drawing in his breath, he swallowed them all
+     together; then, breathing, exhaled them all on fire, like
+     sparks."
+
+	|36.~  The reader will here be reminded of Bunyan's town
+of Fairspeech.
+
+     "^Christian.~  Pray who are you kindred there, if a man may
+     be so bold.
+
+     "^By-ends.~  Almost the whole town; and in particular my
+     Lord Turnabout, my Lord Timeserver, my Lord Fairspeech, from
+     whose ancestors that town first took its name; also Mr.
+     Smoothman, Mr. Facing-both-ways, Mr. Any-thing, -- and the
+     parson of our parish, Mr. Two-tongues, was my mother's own
+     brother by father's side.....
+
+     "There Christian stepped a little aside to his fellow
+     Hopeful, saying, `It runs in my mind that this is one By-
+     ends of Fair-speech; and if it be he, we have as very a
+     knave in our company as dwelleth in all these parts.'"
+
+	|42.~  Many commentators and translators interpret
+^alcuna~ in its usual signification of ^some~: "For some glory
+the damned would have from them."  This would be a reason why
+these pusillanimous ghosts should not be sent into the profounder
+abyss, but not reason why they should not be received there.
+This is strengthened by what comes afterwards, l. 63.  These
+souls were "hateful to God, and to his enemies." They were not
+good enough for Heaven, nor bad enough for Hell.  "So then,
+because thou art lukewarm, and neither cold nor hot, I will spew
+thee out of my mouth."  ^Revelation~ iii.~ 16.
+
+	Macchiavelli represents this scorn of inefficient
+mediocrity in an epigram on Peter Soderini: --
+
+     "The night that Peter soderini died
+     He was at the mouth of Hell himself presented.
+     `What, you come into Hell? poor ghost demented,
+     Go to the Babies' Limbo!' Pluto cried."
+
+	The same idea is intensified in the old ballad of ^Carle
+of Kelly-Burn Brees~, Cromek, p. 37: --
+
+     She's nae fit for heaven, an' she'll ruin a'
+     hell."
+
+	|52.~  This restless flag is an emblem of the shifting
+and unstable minds of its followers.
+
+	|59.~  Generally supposed to be Pope Celestine V. whose
+great refusal, or abdication, of the papal office is thus
+described by Boccaccio in his ^Comento~: --
+
+     Being a simple man of a holy life, living as a hermit in the
+     mountains of Morrone in Abruzzo, above Selmona, he was
+     elected Pope in Perugia after the death of Pope Niccola
+     d'Ascoli; and his name being Peter, he was called Celestine.
+     Considering his simplicity, Cardinal Messer Benedetto
+     Gatano, a very cunning man, of great courage and desirous of
+     being Pope, managing astutely, began to show him that he
+     held this high office much to the prejudice of his own soul,
+     inasmuch as he did not feel himself competent for it; --
+     others pretend that he contrived with some private servants
+     of his to have voices heard in the chamber of the aforesaid
+     Pope, which, as if they were voices of angels sent from
+     heaven, said, `Resign, Celestine!  Resign, Celestine!' --
+     moved by which, and being an idiotic man, he took counsel
+     with Messer Benedetto aforesaid, as to the best method of
+     resigning."
+
+	Celestine having relinquished the papal office, this
+"Messer Benedetto aforesaid" was elected Pope, under the title of
+Boniface VIII.  His greatest misfortune was that he had Dante for
+an adversary.
+
+	Gower gives this legend of Pope Celestine in his
+^Confessio Amantis~, Book II., as an example of "the vice of
+supplantacion." He says: --
+
+     "This clerk, when he hath herd the form,
+     How he the pope shuld enform,
+     Toke of the cardinal his leve
+     And goth him home, till it was eve.
+     And prively the trompe he hadde
+     Til that the pope was abedde.
+     And midnight when he knewe
+     The pope slepte, than he blewe
+     Within his trompe through the wall
+     And tolde in what manner he shall
+     His papacie leve, and take
+     His first estate."
+
+	Milman, ^Hist. Latin Christianity~, VI. 194, speaks thus
+upon the subject: --
+
+     "The abdication of Celestine V. was an event unprecedented
+     in the annals of the Church, and jarred harshly against some
+     of the first principle of the Papal authority.  It was a
+     confession of common humanity, of weakness below the
+     ordinary standard of men in him whom the Conclave, with more
+     than usual certitude, as guided by the special interposition
+     of the Holy Ghost, had raised to the spiritual throne of the
+     world.  The Conclave had been, as it seemed, either under an
+     illusion as to this declared manifestation of the Holy
+     Spirit, or had been permitted to deceive itself.  Nor was
+     there less incongruity in a Pope, whose office invested him
+     in something at least approaching to infallibility,
+     acknowledging before the world his utter incapacity, his
+     undeniable fallibility.  That idea, formed out of many
+     conflicting conceptions, yet forcibly harmonized by long,
+     traditionary reverence, of unerring wisdom, oracular truth,
+     authority which it was sinful to question or limit,
+     strangely disturbed and confused, not as before by too
+     overweening ambition, or even awful yet still unacknowledged
+     crime, but by avowed weakness, bordering on imbecility.  His
+     profound piety hardly reconciled the confusion.  A saint
+     after all made but a bad Pope.
+
+     "It was viewed, in his own time, in a different light by
+     different minds.  The monkish writers held it up as the most
+     noble example of monastic, of Christian perfection.
+     Admirable as was his election, his abdication was even more
+     to be admired.  It was an example of humility stupendous to
+     all, imitable by few.  The divine approval was said to be
+     shown by a miracle which followed directly on his
+     resignation; but the scorn of man has been expressed by the
+     undying verse of Dante, who condemned him who was guilty of
+     the baseness of the `great refusal' to that circle of hell
+     where are those disdained alike by mercy and justice, on
+     whom the poet will not condescend to look.  This sentence,
+     so accordant with the stirring and passionate soul of the
+     great Florentine, has been feebly counteracted, if
+     counteracted, by the praise of Petrarch in his declamation
+     on the beauty of a solitary life, for which the lyrist
+     professed a somewhat hollow and poetic admiration.
+     Assuredly there was no magnanimity contemptuous of the Papal
+     greatness in the abdication of Celestine; it was the
+     weariness, the conscious inefficiency, the regret of a man
+     suddenly wrenched away from all his habits, pursuits, and
+     avocations, and unnaturally compelled or tempted to assume
+     an uncongenial dignity.  It was the cry of passionate
+     feebleness to be released from an insupportable burden.
+     Compassion is the highest emotion of sympathy which it would
+     have desired or could deserve."
+
+	|75.~  Spencer's "misty dampe of misconceyving night."
+
+	|82.~  Virgil, ^AEneid~, VI., Davidson's translation:
+--
+
+     "A grim ferryman guards these floods and rivers, Charon, of
+     frightful slovenliness; on whose chin a load of gray hair
+     neglected lies; his eyes are flame: his vestments hang from
+     his shoulders by a knot, with filth overgrown. Himself
+     thrusts on the barge with a pole, and tends the sails, and
+     wafts over the bodies in his iron-colored boat, now in
+     years: but the god is of fresh and green old age.  Hither
+     the whole tribe in swarms come pouring to the banks, matrons
+     and men, the souls of magnanimous heroes who had gone
+     through life, boys and unmarried maids, and young men who
+     had been stretched on the funeral pile before the eyes of
+     their parents; as numerous as withered leaves fall in the
+     woods with the first cold of autumn, or as numerous as birds
+     flock to the land from deep ocean, when the chilling year
+     drives them beyond sea, and sends them to sunny climes.
+     They stood praying to cross the flood the first, and were
+     stretching forth their hands with fond desire to gain the
+     further bank: but the sullen boatman admits sometimes these,
+     sometimes those; while others to a great distance removed,
+     he debars from the banks."
+
+	And Shakespeare, ^Richard~ III., I. 4: --
+
+     "I passed, methought, the melancholy flood
+     With that grim ferryman which poets write of,
+     Unto the kingdom of perpetual night."
+
+	|87.~  Shakepeare, ^Measure for Measure~, III. I: --
+"This sensible warm motion to become A kneaded clod; and the
+delighted spirit To bathe in fiery floods, or to reside In
+thrilling regions of thick-ribbed ice; To be imprisoned in the
+viewless winds, And blown with restless violence round about The
+pendent world; or to be worse than worst Of those that lawless
+and incertain thoughts Imagine howling."
+
+	|89.~  Virgil ^AEneid~, VI.: "This is the region of
+Ghosts, of sleep and drowsy Night; to waft over the bodies of the
+living in my Stygian boat is not permitted."
+
+	|93.~  The souls that were to be saved assembled at the
+mouth of the Tiber, where they were received by the celestial
+pilot, or ferryman, who transported them to the shores of
+Purgatory, as described in ^Purg.~ II.
+
+	|94.~  Many critics, and foremost among them Padre Pompeo
+Venturi, blame Dante for mingling together things Pagan and
+Christian. But they should remember how through all the Middle
+Ages human thought was wrestling with the old traditions; how
+many Pagan observances passed into Christianity in those early
+days; what reverence Dante had for Virgil and the classics; and
+how many Christian nations still preserve some traces of Paganism
+in the names of the stars, the months, and the days.  Padre
+Pompeo should not have forgotten that he, though a Christian,
+bore a Pagan name, which perhaps is as evident a ^brutto
+miscuglio~ in a learned Jesuit, as any which he has pointed out
+in Dante.
+
+	Upon him and other commentators of the Divine Poem, a
+very amusing chapter might be written. While the great Comedy is
+going on upon the scene above, with all its pomp and music, these
+critics in the pit keep up such a perpetual wrangling among
+themselves, as seriously to disturb the performance.  Biaglioli
+is the most violent of all, particularly against Venturi, whom he
+calls an "infamous dirty dog," ^sozzo can vituperato~, an epithet
+hardly permissible in the most heated literary controversy.
+Whereupon in return Zani de' Ferranti calls Biagioli "an inurbane
+grammarian," and a "most ungrateful ingrate." -- ^quel grammatico
+inurbano...ingrato ingratissimo.~
+
+	Any one who is desirous of tracing out the presence of
+Paganism in Christianity will find the subject amply discussed by
+Middleton in his ^Letter from Rome.~
+
+	|109.~  Dryden's ^Aene,is, B. VI.: --
+
+     "His eyes like hollow furnaces on fire."
+
+	|112.~  Homer, ^Iliad~, VI.: "As is the race of leaves,
+such is that of men; some leaves the wind scatters upon the
+ground, and others the budding wood produces, for they come again
+in the season of Spring.  So is the race of men, one springs up
+and the other dies."
+
+	See also Note 82 of the canto.
+
+	Mr.  Ruskin, ^Modern Painters~, III. 160, says: --
+
+     When Dante describes the spirits falling from the bank of
+     Acheron `as dead leaves flutter from a bough,' he gives the
+     most perfect image possible of their utter lightness,
+     feebleness, passiveness, and scattering agony of despair,
+     without, however, for an instant losing his own clear
+     perception that ^these~ are souls, and ^those~ are leaves:
+     he makes no confusion of one with the other."
+
+	Shelley in his Ode to the West Wind inverts this image,
+and compares the dead leaves to ghosts: --
+
+     "O wild West Wind! thou breath of Autumn's being!
+     Thou from whose presence the leaves dead
+     Are driven like ghosts, from an enchanter fleeing,
+     Yellow, and black, and pale, and hectic red,
+     Pestilence-stricken mulititudes."
+

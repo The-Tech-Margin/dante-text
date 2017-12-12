@@ -1,0 +1,27 @@
+	|1.~  Gi@a era el sole.  quando el sole e' se colca a noi, da l'altra 
+faccia de l@a da noi de la terra alora se leva el sole a quei de l@a 
+dove dante era uscito d'inferno da quella parte.  ed era dante tanto da 
+lungi a gierusalemme che sopra gierusale[mme] era l'orizonte a[l] loco 
+du' era dante.  el chui meridiano quando el sole viene a quel cierchio 
+a lora fa mezo d@i sopra gieru[salem]me.  s@i che a lui si levava 
+l'aurora del sole a lui.  la nocte usc@ia a di gangi.  cio@e di quel 
+segnio che ssi chia[ma] gangi.  oposito s@i a dante dov'elli era che la 
+nocte passava di qua e 'l d@i di l@a esciva fuore col le bilance.  le 
+bilance caggion di mano al segnio di gangie quando la nocte comincia 
+d'avanzare et sciemare il d@i ch'e a mezo sectembre.  poi l'altro d@i.
+
+	|94.~  ^Ed elli a me~.  se quei che leva quando et chui li piace.  
+cio@e dio.
+
+	|100.~  ^Ond'io ch'era ora~ a la marina.  el lo tempo che fu a roma 
+del centesimo questo casella esc@io de questa vita.  per@o che tucte 
+l'annime che se partiro quello anno tucte se rasegnaro al porto dove 'l 
+tevare mecte in mare.  et che quivi da un angielo fuorono passate in 
+una navicella et poste.
+
+	|112.~  ^Amore che nella mente~ mi ragiona.  @e una canzone che dante 
+av@ia facta de la sua donna che comincia cos@i.  la quale esso casella 
+av@ia entonata.  ci[o]@e facto el suono.  cantandola s@i dolce come 
+comprendere se po' per lo testo quando dicie che la dolceza ancora 
+dentro mi sona.
+

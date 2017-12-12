@@ -1,0 +1,698 @@
+	|1.  al sommo de la scala~: Dante and Virgil have come to
+the topmost step of the stairway and stand facing the wall of the
+bank of the second terrace.
+
+	|2.  si risega~: "Is cut back" or "is sliced" to form
+another terrace.
+
+	|3.  salendo altrui dismala~: "Salendo" is to be
+understood as a participle with the indefinite pronoun "altrui"
+as its implied subject; "altrui" in turn becomes the object of
+"dismala."  The meaning is that the ascent of the mountain
+purifies, cleanses of evil, whosoever ascends it.  ^Dismalare~
+seems to be a verb coined by Dante (see E. G. Parodi, 1957, pp.
+215, 266).
+
+	|4.  lega~: The terrace "binds," as if it were a belt
+around the mountain.
+
+	|5.  primaia~: An archaic form of ^prima.~  Cf. ^Inf.~
+V, 1 and ^passim.~
+
+	|6.  l'arco suo pi@u tosto piega~: Since the mountain is
+coneshaped, each successive terrace in the ascent is smaller in
+circumference than the preceding, and so it is said that "its
+curve bends more sharply."
+
+	|7-9.  Ombra non...petraia~: These verses focus upon the
+absence of what Dante at once came upon when he entered upon the
+first terrace: though seemingly deserted, that terrace showed
+first a bank of white marble with the carvings we know and then
+later the "tomb" carvings in its floor, in connection with which
+the terms ^ombra (Purg.~ XII, 65) and ^segno (Purg.~ XII, 47)
+were used.  Accordingly "ombra" here does not seem to mean
+"shade" (i.e., soul), but "figure," even as "segno" means
+"image."  Thus the verses focus on the "ripa" and the "via
+schietta" as not containing what the ^ripa~ and the ^via~ of the
+first terrace contained.  Here only the livid color of the stone
+is seen, and in such a focus "livido" stands out the more by way
+of the absence of all else and anticipates (since it is envy's
+color) what is to be found on this second cornice.
+
+	|7.  li~ = ^vi.~  Petrocchi interprets this "li" as a "li,"
+but the emphatic adverb seems out of place in this position and
+in the rhythm of the verse.  The choice is entirely an editor's
+in this case.  |si paia~: "Si" here is the familiar pleonastic
+reflexive, which is twice repeated in the next verse, in its
+common function of distancing, distinguishing, or setting off the
+subject.  See n. to ^Inf.~ VII, 94.
+
+	|8.  parsi~ = ^si pare.~  |schietta~: "Smooth."  Neither the
+bank nor the roadbed contains carvings on its surface, as on the
+first terrace.  Cf. ^Inf.~ XIII, 4-6; see "schietto" in ^Purg.~
+I, 95.
+
+	|9.  col livido color de la petraia~: Torraca comments:
+"La prima cornice (^Purg.~ X, 31) era 'di marmo candido'!  La voce
+d@a rilievo a ^livido~, s'indugia e fa uno sforzo a ^petraia~ --
+propriamente massa di pietre -- che qui pare un dispregiativo."
+("The first cornice [^Purg.~ X, 31] was `of white marble.'  The
+voice sets off 'livido,' to emphasize, then makes an effort with
+'petraia'-- properly speaking, a mass of stones, which here
+sounds pejorative.")  For "livid" as envy's color, see ^Purg.~
+XIV, 84.
+
+	|10-12.  Se qui per dimandar...eletta~: Virgil concludes
+that no souls move about on this terrace, a fact which is soon to
+be confirmed.
+
+	|12.  eletta~: The "choice" between proceeding to the
+right or to the left in order to reach the next stairway.  As he
+says this, Virgil is still facing the bank at the top of the
+stairs.
+
+	|13.  li occhi porse~: Cf. ^Inf.~ XVII, 52.
+
+	|14-15.  fece del destro lato...torse~: Virgil, as he
+stands at the head of the stairs and faces the bank of the
+terrace, is facing west or southwest.  It is now a little after
+noon, and the sun, which is in the north, is to Virgil's right.
+Then Virgil and Dante proceed in what is the proper direction in
+Purgatory, around to the right or counterclockwise, which, in
+this segment of the circling way at least, means that they go
+toward the sun.  Its rays are therefore guides to them, as Virgil
+prays they may be.
+
+	|16.  a cui fidanza~ = ^fidandomi del quale.~
+
+	|17.  ne conduci~ = ^ci conduci~ (imperative).
+
+	|18.  si vuol~: "As is needful."  |quinc' entro~: On this
+terrace.
+
+	|19.  Tu...tu~: The repetition sustains the tone of
+praise.
+
+	|20.  ponta~: "Press."  Petrocchi grants that "pronta"
+("prompt") here, as allowed by other editors, is possible.
+
+	|21.  dien~ (pronounced ^di@en~) = ^devono.~
+
+	|22.  di qua~: In the world of the living.  |migliaio~
+= ^miglio.~  In Latin ^miliarium~ denotes a milestone, i.e., a
+stone that marks the distance of a thousand paces; it was also
+used for the number one thousand.  "Migliaio" counts as two
+syllables in this verse.  Cf. "primaio" in ^Purg.~ XIV, 66.
+
+	|26.  spiriti~: These spirits are not further explained,
+and since they are invisible to the shades, as we come to
+understand, even if they are visible to the visitors, they remain
+simply voices.  As will become clear, the voices declare the
+examples of charity, the virtue which opposes the vice of envy.
+
+	|26-27.  parlando a la mensa...inviti~: The normal word
+order would be "parlando cortesi inviti a la mensa d'amore." The
+metaphor anticipates the "vinum non habent" ("They have no wine,"
+Ioan. 2:3) of Mary's words at the table, as it were, of the
+wedding feast of Cana, the first example of charity.
+
+	|29.  Vinum non habent~: The first example of charity is
+represented by the words of loving solicitude which Mary
+addressed to Jesus at the feast of Cana.  See Ioan. 2:1-7:
+
+     Et die tertia nuptiae factae sunt in Cana Galilaeae, et erat
+     mater Iesu ibi.  Vocatus est autem et Iesus et discipuli
+     eius ad nuptias.  Et deficiente vino, dicit mater Iesu ad
+     eum: Vinum non habent.  Et dicit ei Iesus: Quid mihi et tibi
+     est mulier?  Nondum venit hora mea.  Dicit mater eius
+     ministris: Quodcumque dixerit vobis, facite.
+
+     Erant autem ibi lapideae hydriae sex positae secundum
+     purificationem Iudaeorum, capientes singulae metretas binas
+     vel ternas.  Dicit eis Iesus: Implete hydrias aqua.  Et
+     impleverunt eas usque ad summum.
+
+     And on the third day a marriage took Place at Cana of
+     Galilee, and the mother of Jesus was there.  Now Jesus too
+     was invited to the marriage, and also his disciples.  And
+     the wine having run short, the mother of Jesus said to him,
+     "They have no wine."  And Jesus said to her, "What wouldst
+     thou have me do, woman?  My hour has not yet come."  His
+     mother said to the attendants, "Do whatever he tells you."
+
+     Now six stone water-jars were placed there, after the Jewish
+     manner of purification, each holding two or three measures.
+     Jesus said to them, "Fill the jars with water." And they
+     filled them to the brim.
+
+Whereupon Jesus turned the water to wine.
+
+	|30.  e dietro a noi l'and@o reiterando~: Apparently the
+"spiriti" fly round the circle in a clockwise direction, since
+they come toward the wayfarers here; the reiteration of the
+utterance behind them suggests that the voice continues to utter
+the words all the way round the terrace, as do the other voices.
+It is not clear that any symbolic meaning is intended in this
+reversal of the correct direction for movement in Purgatory; the
+voices that declare the examples of envy will also move in this
+same "reversed" disection (see ^Purg.~ XIV, 132).
+
+	|32.  Oreste~: When Orestes, the son of Agamemnon and
+Clytemnestra, was in danger of being slain for having avenged the
+murder of his father, his friend Pylades pretended that he was
+Orestes in order to save his life.  Orestes, however, would not
+allow Pylades to risk his life for him and persisted in declaring
+who he was.  Dante perhaps derived his knowledge of the incident,
+which he uses as the second example of charity, from the allusion
+of Cicero in the ^De amicitia~ (VII, 24) to a scene from the
+play of Pacuvius on the subject.  See also Cicero, ^De fin.~ I,
+xx, 65; V, xxii, 63; Ovid, ^Ex Ponto~ III, ii, 69-96.
+
+	|33.  anco non~ = ^neanche.~  |anco non s'affisse~: Neither
+did this voice stop.
+
+	|36.  Amate da cui male aveste~: The word ^coloro~ is
+understood as the object of the verb "amate": "amate coloro da
+cui male aveste."  By summarizing the familiar text in these few
+words, this voice would remind the envious of Christ's words
+enjoining charity.  See Matt. 5:43-48:
+
+     Audistis quia dictum est: Diliges proximum tuum, et odio
+     habebis inimicum tuum.  Ego autem dico vobis: Diligite
+     inimicos vestros, benefacite his qui oderunt vos, et orate
+     pro persequentibus et calumniantibus vos; ut sitis filii
+     Patris vestri qui in caelis est, qui solem suum oriri facit
+     super bonos et malos, et pluit super iustos et iniustos.  Si
+     enim diligitis eos qui vos diligunt, quara mercedem
+     habebitis? nonne et publicani hoc faciunt?  Et si
+     salutaveritis fratres vestros tantum, quid amplius facitis?
+     nonne et ethnici hoc faciunt? Estote ergo vos perfecti,
+     sicut et Pater vester caelestis perfectus est.
+
+     You have heard that it was said, "Thou shalt love thy
+     neighbor, and shalt hate thy enemy."  But I say to you, love
+     your enemies, do good to those who hate you, and Pray for
+     those who persecute and calumniate you, so that you may be
+     children of your Father in heaven, who makes his sun to rise
+     on the good and the evil, and sends rain on the just and the
+     unjust.  For if you love those that love you, what reward
+     shall you have?  Do not even the Publicans do that? And if
+     you salute your brethren only, what are you doing more than
+     others?  Do not even the Gentiles do that?
+
+	You therefore are to be perfect, even as your heavenly
+Father is perfect.
+
+	|37.  Questo cinghio~: This second terrace.  Cf. "cinghio"
+used in ^Purg.~ IV, 51.  |sferza~: "Punishes," literally "lashes."
+
+	|38.  per@o~ = ^perci@o.~
+
+	|38-40.  per@o sono tratte...sono~: The scourge, which
+goads the sinners toward the virtue that opposes envy, is made up
+of three thongs, three examples of love, of charity.  The curb,
+which deters the sinners from envy and is opposed in its function
+to the scourge, is comprised of examples of envy and must be of a
+"contrary sound."  Following the pattern established on the first
+terrace, these examples will be heard later, as Virgil surmises.
+
+	|39.  ferza~ = ^sferza.~
+
+	|40.  Lo fren~ = ^il freno.~  |vuol esser~: "Needs must be."
+
+	|42.  giunghi~ = ^giunga. al passo del perdono~: At the
+entrance to the way up to the next circle, where the angel will
+erase another P.
+
+	|45.  la grotta~: The bank of the terrace.  Cf. ^Purg.~
+I, 48.
+
+	|46.  li occhi apersi~: Cf. ^Purg.~ IX, 79.
+
+	|47-48.  con manti...non diversi~: The envious wear
+cloaks that are of the color of envy, even as is the stone on and
+against which they sit.  For this reason it is more difficult to
+make them out, hence Virgil's urging Dante to "direct your sight
+steadily."
+
+	|50.  udia~ = ^udiva~ (^udivo~).
+
+	|50-51.  udia gridar..."Tutti santi"~: These souls seem
+to be reciting the Litany of the Saints, which begins with "Kyrie
+eleison," passes to "Sancta Maria, ora pro nobis" (Mary is
+invoked thrice), then to "Sancte Michael," on to "Sancte Petre"
+among other angels and saints, and eventually to "Omnes Sancti."
+
+	|52.  per terra~: Among the living.  |ancoi~: From the
+Latin ^hanc hodie~, "this very day."  See E. G. Parodi (1957),
+pp. 261, 289.  Dante uses "ancoi" only twice elsewhere (^Purg.~
+XX, 70; XXXIII, 96) and always in rhyme.
+
+	|56.  li atti loro~: Their demeanor and condition.  |certi~:
+"Clear."  Cf. ^Inf.~ VIII, 71.
+
+	|57.  per li occhi fui di grave dolor munto~: Dante weeps
+for compassion, but this may also be seen as his token
+participation in the purgatorial punishment of this
+terrace.  |munto~: Past participle of ^mungere~, "to milk."  For
+this verb and the notion of milking tears as a punishment, see
+^Inf.~ XII, 135-36.
+
+	|58.  ciliccio~: Haircloth, made of horsehair, as Buti
+explains: "Si fa di setole di cavallo annodate; li quali nodi
+pungeno continuamente la carne, ed @e freddissimo a tenere in
+dosso: imper@o che @e fatto a mallie come la rete."  ("It is made
+of knotted horsehair, and the knots prick the skin continuously.
+It is a very cold thing to wear, because it is knit like a net.")
+
+	|59.  sofferia~ = ^sofferiva~, "was holding up."
+
+	|60.  sofferti~: The souls lean back against the bank,
+along the base of which they sit (vs. 45) in single file.
+
+	|61.  a cui la roba falla~: "To whom sustenance is
+lacking."  Cf. ^Inf.~ XIV, 7.  |falla~: Cf. ^Purg.~ X, 129.
+
+	|62.  stanno a' perdoni a chieder lor bisogna~: In
+Dante's time it was a familiar sight to see the blind begging at
+churches and shrines on the days when crowds gathered for special
+indulgences (pardons) granted to the faithful.  Fairs, also
+attracting many people, were held in these places on those
+occasions.  |perdoni~: Cf. the French ^pardon.~
+
+	|63.  avvalla~: Cf. ^Purg.~ VI, 37.
+
+	|64.  altrui~: Possessive.  |si pogna~ = ^si ponga.~
+
+	|66.  la vista~: "The sight," but especially the
+expression on the face, with the sightless eyes.  |agogna~:
+Cf.  ^Inf.~ VI, 28.
+
+	|67.  li orbi~: ^Orbo~ is a synonym of ^cieco~, "blind."
+Cf. the Latin ^orbus~, "deprived." ^non approda~: Literally,
+"does not arrive."  "Approda" is from ^approdare~ ("to arrive at
+the shore"), based on ^proda~, "shore."  Thus even as the sun is
+"denied" to the blind among the living, so is the light of Heaven
+denied to these blinded souls in Purgatory.  It is possible to
+understand "approda" as a form of ^approdare~ (from ^prode~,
+deriving from the Latin ^prodesse~), meaning ^giovare~, "to
+help," "to please," but such a meaning does not fit the simile so
+well.  The early commentators are divided in the matter, some
+holding for one meaning and some for the other.
+
+	|69.  luce del ciel~: This is ambiguous, "ciel" having
+both a physical sense (the heavens) and a spiritual sense
+(Heaven), but the spiritual meaning of the phrase (God's light
+shed from Heaven) is the dominant one.  |di s$e largir~: "To
+give generously of itself."
+
+	|70-72.  un fil di ferro...dimora~: The reference is to
+falcons that were taken in the woods when already grown and were
+therefore harder to domesticate.  Their eyelids were stitched
+shut (were ^cigliati~, as the sewing shut was termed) to force
+them to be quiet in the presence of their trainers.  A wire, of
+course, would be more painful than a thread.  The falcon's eyes
+were sewn with thread, not with wire.
+
+	|71.  come a sparvier selvaggio~: Cf. "sparvier grifagno"
+in ^Inf.~ XXII, 139.
+
+	|73-74.  A me pareva...veduto~: Dante's compassion and
+solicitude at this point, his empathy, is notable as a feeling
+that is the opposite of envy.
+
+	|75.  per ch'io mi volsi al mio consiglio saggio~: Dante
+turns to Virgil to ask his permission to speak with the souls.
+^consiglio~ = ^consigliere.~
+
+	|76.  lo muto~: Dante, who does not speak.
+
+	|77.  per@o~ = ^per ci@o.~
+
+	|78.  sie~ = ^sia.~  |arguto~: "Clear," "precise."  It is
+particularly important that Dante speak clearly since these souls
+are blind and must depend entirely on the spoken word for
+communication.
+
+	|79.  ven@ia~ = ^veniva.~  The verb suggests that Dante is
+now a little ahead of Virgil.
+
+	|79-80.  da quella banda...si puote~: On Dante's right or
+toward the outside rim of the terrace, over which one could fall.
+Thus Virgil has taken a position that would protect his living
+charge, even as he did in Inferno, when he placed himself between
+Dante and Geryon's dangerous tail (^Inf.~ XVII, 83-84).
+
+	|81.  da nulla sponda s'inghirlanda~: The terrace is not
+"crowned," i.e., girded, by any parapet along its outer edge.
+
+	|82.  da l'altra parte~: Along the bank, on Dante's left.
+
+	|82-83.  le divote ombre~: The shades show their
+devoutness by reciting the Litany of the Saints and by submitting
+so patiently to the purgation of their stain of envy.
+
+	|83-84.  per l'orribile costura premevan s@i: Le lagrime~
+is understood as the object of "premevan."  They are said to
+squeeze out their tears between their sewn eyelids.  
+
+	|83.  costura~: I.e., ^cucitura.~
+
+	|85.  Volsimi~ = ^mi volsi.~
+
+	|85-87.  O gente sicura...cura~: A clear instance of
+^captatio benevolentiae~ (see n. to ^Inf.~ II, 58-60), affirming
+that these souls, to whom now "the light of Heaven wills to deny
+its bounty" (vs. 69), shall one day see the high sun of the
+Empyrean and the light of glory which streams forth from God and
+makes it possible for the creature to see Him "face to face."
+This only do these souls now desire, the light of that sun; and
+in penance now they willingly endure privation of the light of
+the sun in the physical sense.
+
+	|88-90.  se tosto grazia...il fiume~: The familiar
+hortatory formula, adjuring by that which is most dear or most
+desired (cf. ^Inf.~ X, 82 and ^passim~), which is here stated as
+the completion of purgation for these souls.  Envy has left a
+scum on their minds, over their mental vision, a residue
+resulting from sin, which is elsewhere referred to as "note"
+(^Purg.~ XI, 34) or as a "scoglio" to be put off (^Purg.~ II,
+122).  Envy is a spiritual blindness.  This metaphor suggests
+purification, clarification of vision, by grace; even so, it is a
+rather curious figure.
+
+	|91.  fia~ = ^sar@a.~  |grazioso~ = ^gradito.~
+
+	|92.  latina~ = ^italiana.~  Cf. ^Inf.~ XXII, 65 and
+^passim.~
+
+	|93.  lei~ = ^a lei~ (i.e., to the "anima,"
+feminine).  |lei sar@a buon s'i' l'apparo~: Cf. ^Purg.~ XII,
+5.  It will be well for such a soul, since Dante, on returning to
+Italy, can ask the living there to pray for this soul in
+Purgatory and thus hasten its purgation.  |l'apparo =
+l'apprendo.~  See ^Rime~ L, 25.  
+
+	|94-96.  O frate mio...peregrina~: One notes a striking change
+of outlook on the part of souls, as registered by this reaction to
+Dante's question.  These souls, being already elect and inside the gate
+of Purgatory proper now, have their conversation in Heaven and no
+longer indulge in those lingering attachments to the world of the
+living that were characteristic of souls in Antepurgatory, outside the
+gate, who were as pilgrims.  See C. S. Singleton (1965).
+
+	|95.  una vera citt@a~: The City of God.  Cf. ^Inf.~ I,
+126.  See Eph. 2:17-22:
+
+     Et veniens evangelizavit pacem vobis qui longe fuistis, et
+     pacem iis qui prope; quoniam per ipsum habemus accessum ambo
+     in uno Spiritu ad Patrem.
+
+     Ergo iam non estis hospites et advenae, sed estis cives
+     sanctorum et domestici Dei, superaedificati super
+     fundamentum apostolorum et prophetarum, ipso summo angulari
+     lapide Christo Iesu; in quo omnis aedificatio constructa
+     crescit in templum sanctum in Domino, in quo et vos
+     coaedificamini in habitaculum Dei in Spiritu.
+
+     And coming, he announced the good tidings of peace to you
+     who were afar off, and of peace to those who were near,
+     because through him we both have access in one Spirit to the
+     Father.  Therefore, you are now no longer strangers and
+     foreigners, but you are citizens with the saints and members
+     of God's household: you are built upon the foundation of the
+     apostles and prophets with Christ Jesus himself as the chief
+     corner stone.  In him the whole structure is closely fitted
+     together and grows into a temple holy in the Lord, in him
+     you too are being built together into a dwelling place for
+     God in the Spirit.
+
+	|96.  peregrina~: See n. to ^Purg.~ II, 63 and Heb.
+11:13-16.
+
+	|99.  ond' io mi feci ancor pi@u l@a sentire~: Dante now
+moves on toward the soul that has spoken and thus makes himself
+heard, i.e., makes his steps heard on the stone floor of the
+terrace.  The particular turn of phrase keeps the blindness of
+the souls in mind, "feels" with them, since only by hearing Dante
+come forward can they know of his approach.
+
+	|100-101.  aspettava in vista~: "Was expectant in its
+look," an image that is rendered especially graphic by the
+following verse, "lo mento a guisa d'orbo in s@u levava."  As
+Buti notes, "cotale atto fanno li cechi, quando aspettano."
+("That is what blind men do when they are waiting for
+something.") 
+
+	|101.  se volesse alcun dir "Come?"~ On this
+phrase and similar postulations of a question from some imagined
+interlocutor, see M. Barbi (1934b), pp. 248-49.
+
+	|103.  ti dome~ = ^ti domi.~  The verb connects with the
+image of the falcon, which is ^domato~ ("domesticated") by the
+cruel means referred to in vss. 70-72.  See "doma" in ^Purg.~ XI,
+53.
+
+	|105.  conto~ = ^cognito.~  |o per luogo~: I.e., by your place
+of origin.  The soul accordingly begins: "Io fui sanese."
+
+	|107.  rimendo~: Petrocchi has "rimendo" ("I mend");
+other editors have "rimondo" ("I purge," "I cleanse").
+
+	|108.  lagrimando a colui che s$e ne presti~:
+Supplicating God with tears of contrition that He manifest (show,
+give) Himself to us.  Porena notes that "s$e ne presti" is the
+Latin ^praestet se nobis.~  Cf. "di s$e largir," vs. 69, and the
+"Light above" which is all that these souls desire to see (vss.
+86-87).  |ne~ = ^ci.~
+
+	|109.  Savia...Sap@ia~: The soul who speaks is indulging
+in a customary play on the etymology (apparent etymology at
+least) of names that is expressed in the dictum "nomina sunt
+consequentia rerum" ("names are the consequences of things")
+mentioned by Dante in ^Vita nuova~ XIII, 4.  On the medieval
+predilection for such conceits, see E. G. Parodi (1957), pp.
+388-90.  See also ^Vita nuova~ XXIV, 4, where "Primavera" is
+construed as "prima verr@a," thus showing the same indifference
+to accent as in "savia" and "Sap@ia."  |Sap@ia~: Sienese lady of
+the Salvani family, aunt of Provenzan Salvani, and wife of
+Ghinibaldo Saracini.  Born ^ca.~ 1210, she was married ^ca.~ 1230
+and became the mother of five children.  At the time of the
+battle of Colle (June 17, 1269), to which she refers in vss.
+115-19, she was a widow (her husband having died in 1268), living
+possibly at the family castle of Castiglioncello, close to the
+plain on which the battle of Colle was fought.  Sapia was still
+living in 1274, as witnessed by a document of that year in which
+she made a donation to a hospital founded by her and her husband
+in 1265.  Her death must have preceded that of Pier Pettinaio,
+whom she mentions in vss. 127-29 as having prayed for her and who
+died in 1289.  See A. Lisini (1920); I. Sanesi (1923).
+
+	|110-111.  de li altrui... mia~: In ^Purg.~ XVII,
+118-20, envy is defined as chagrin at the good fortune of others.
+Here Dante apparently turns the matter around, in having
+Sapia say that she rejoiced more at the misfortunes of others
+than at her own good fortune.
+
+	|112.  E perch$e tu non creda ch'io t'inganni~: This
+amounts to saying "and to prove it to you."
+
+	|113.  folle~: Here, as elsewhere in the poem, the term
+implies hubris.  Cf. Ulysses' "folle volo" (^Inf.~ XVI, 125).
+
+	|114.  gi@a discendendo l'arco d'i miei anni~: Sapia
+means by this that she was well past the "mezzo del cammin di
+nostra vita," i.e., the age of thirty-five.  She was, in fact,
+about sixty (see n. to vs. 109) and thus had reached a time when
+one should turn one's thoughts to God.  See ^Inf.~ XVII, 79-81.
+Ulysses and his companions were also old when they dared to sail
+into the unknown (^Inf.~ XXVI, 106-7).  On the "arco de la vita,"
+see ^Conv.~ IV, xxiii, 6-11.
+
+	|115.  Colle~: Town (modern Colle di Val d'Elsa) in
+Tuscany, in the Val d'Elsa, situated on a hill near San
+Gimignano, on the left bank of the Elsa, about fourteen miles
+northwest of Siena.  It was the scene of a battle (June 17, 1269)
+in which the Sienese Ghibellines, with a mixed force of Germans
+and Spaniards, under Provenzan Salvani and Count Guido Novello,
+were defeated by the Florentine Guelphs with the help of some of
+the French troops of Charles of Anjou.
+
+	|117.  e io pregava Iddio di quel ch'e' volle~: The
+Sienese suffered defeat in this battle because it was God's will,
+not because God granted Sapia's "envious" prayer that this should
+happen.
+
+	|118.  fuor~ = ^furono.~
+
+	|119.  veggendo la caccia~: Since Sapia's husband was
+lord of Castiglioncello, near Montereggioni (see n. to vs. 109),
+Sapia may have been at this castle when the rout took place and
+could actually have witnessed some part of it.
+
+	|120.  letizia presi a tutte altre dispari~: Sapia's joy
+shows clearly how "folle" she was, rejoicing at the disastrous
+defeat of her fellow-citizens in this battle, in which her own
+nephew, Provenzan Salvani, was slain.
+
+	|122.  Omai pi@u non ti temo~: Porena paraphrases this as
+follows: "Ho avuto tale gioia, che non m'importer@a nulla di
+qualunque male tu possa mandarmi."  ("I have known such joy that
+I don't care what you do to me.")
+
+	|123.  come f$e 'l merlo~: Buti comments:
+
+     Questo @e uno uccello che teme molto lo freddo, e mal tempo,
+     e quando @e mal tempo sta appiattato; e come ritorna lo bono
+     tempo, esce fuora e par che faccia beffe di tutti li altri,
+     come si finge che dicesse ne la faula di lui composta;
+     cio@e: "Non ti temo, Domine, che uscito son del verno."
+
+     This bird is very afraid of the cold and of bad weather.
+     When the weather is bad, it goes into hiding; then, when
+     fair weather returns, it comes forth and seems to make fun
+     of every other bird.  As in the fable about this bird, it is
+     made to say: "I do not fear you, Lord, for winter's over!"
+     
+See Sacchetti, ^novella~ CXLIX. |per poca bonaccia~: At the
+slightest sign of good weather.  See G. Agnelli (1895).
+
+	|124-129.  Pace volli...increbbe~: Sapia repented only at
+the end of her life; and, for having waited so long, she would
+have been confined in Antepurgatory and would still be there with
+Belacqua and the others who similarly Put off repentance to the
+end had Pier Pettinaio not prayed so effectively for her.
+
+	|125-126.  e ancor non sarebbe...scemo~: I.e., even by
+serving out the time equal to her life, as the other negligent in
+this respect (see ^Purg.~ IV, 130-32).
+
+	|126.  scemo~: "Emptied," "annulled."
+
+	|128.  Pier Pettinaio~: Peter the comb-maker (or comb-
+seller) was a native of Campi in the Chianti district northeast
+of Siena.  According to the commentators he was a hermit of the
+Franciscan order and dwelt in Siena, where he was renowned for
+his piety and miracles.  In his calling as comb-seller he was
+characterized by unusual honesty, refusing to sell any comb which
+had the smallest defect in it.  He died in December of 1289
+(documents suggest that he was 109 years old) and was buried at
+Siena in a handsome tomb erected at public expense.  In 1328 the
+senate of Siena passed a resolution (the record of which is still
+extant) for the official commemoration of his annual festival.
+See A. Lisini (1920), pp. 80-81; E. G. Gardner (1913), pp. 214-
+15.  See F. Ageno (1957), pp. 212-15, who gives a bibliography of
+studies on Pier Pettinaio and calls attention to a Sienese
+document of 1246 (in the ^Libri della Biccherna~) which mentions
+a certain "Ventura Pieri pectinarius," who perhaps may be
+identified with Sapia's holy man.
+
+	|129.  increbbe~: Past absolute of ^increscere~, modern
+^rincrescere.~
+
+	|131.  sciolti~: Not sewn shut.
+
+	|132.  spirando~: Sapia, with the sharp hearing of the
+blind, has heard that Dante breathes as he speaks.
+
+	|133.  fieno~ = ^saranno.~
+
+	|136.  Troppa...pi@u~: I.e., ^molto pi@u.~  |sospesa~:
+"Apprehensive," "fearful."
+
+	|136-138.  Troppa @e pi@u...mi pesa~: Villani (IX, 136)
+comments on Dante's pride: "Questo Dante per lo suo savere fu
+alquanto presuntuoso e schifo e isdegnoso, e quasi a guisa di
+filosafo mal grazioso non bene sapea conversare co' laici."
+("This Dante, because of his learning, was somewhat presumptuous,
+haughty, and disdainful, and being rude, as philosophers are,
+knew not how to speak with the unlearned.") Dante was aware, at
+least, that such was his most besetting sin.
+
+	|138.  lo 'ncarco di l@a gi@u~: The heavy weight of
+stone.
+
+	|139-140.  Chi t'ha dunque condotto...credi?~ Sapia is
+puzzled, since she has not yet understood that a living man is
+speaking to her, although she has sensed that he breathes as he
+speaks (thus Dante must declare to her, "E vivo sono," vs. 142).
+Accordingly, she cannot understand how the man who speaks to her
+has come here, if he has yet to return below, to the first
+terrace.  Clearly she has no inkling of the presence of Virgil,
+who does not breathe and did not make himself heard by his steps
+as he came forward with Dante, since he is a spirit.  Dante, of
+course, speaks here of the purgation of pride which he will have
+to undergo when he passes this way again after death.
+
+	|142.  per@o~ = ^perci@o.~  |mi richiedi~: Imperative,
+"request of me."
+
+	|143.  spirito eletto~: Cf. ^Purg.~ III, 73.
+
+	|143-144.  se tu vuo'...piedi~: Dante is offering to seek
+out those close to Sapia and urge them to pray for her, in order
+to speed her on her way through Purgatory.
+
+	|144.  mortai~ = ^mortali.~
+
+	|145-147.  Oh, questa @e a udir...giova~: Sapia, seeing
+that God loves Dante so much, now urges him to pray for her.
+
+	|148.  cheggioti~ = ^ti chiedo.~  |per quel che tu pi@u
+brami~: This something is left indefinite.  It is simply that
+which Dante most desires, the usual basis for such adjuration.
+
+	|149.  se mai calchi la terra di Toscana~: Curiously
+enough, Sapia seems not to have noticed from Dante's speech that
+he is Tuscan, or she would surely assume that he would return to
+that region.
+
+	|150.  propinqui~: Kinsfolk, perhaps especially the
+Salvani, her own immediate family.  |mi rinfami~: Sapia asks
+Dante to restore her fame by telling her kinsfolk that she is
+among the ^spiriti eletti~ of Purgatory, despite her envious life
+and her tardy repentance.
+
+	|151.  quella gente vana~: The Sienese.  See ^Inf.~ XXIX,
+121-32.
+
+	|152.  Talamone~: Small seaport on the Tyrrhenian Sea,
+situated on a promontory in the southwestern extremity of the
+Sienese Maremma, in Tuscany, about ten miles southeast of the
+mouth of the Ombrone.  It possesses a convenient anchorage,
+sheltered from the southwest gales by the island of Giglio and by
+Monte Argentario, but the creek is liable to become silted up.
+In 1303 the harbor of Talamone was purchased by the Sienese from
+the abbot of San Salvatore for 8,000 gold florins.  The deed of
+purchase, dated September 10 in that year, is still preserved at
+Siena.  The Sienese were eager for an outlet to the sea, but the
+enterprise was a failure on account of the expense entailed by
+the constant dredging operations to keep the entrance clear, and
+also because of the unhealthiness of the situation, the place
+being infected with malaria from the Maremma.  |perderagli~ =
+^vi perder@a.~ Cf. "li" (or ^gli~) used for ^vi~ in ^Purg.~ VIII,
+69; XIII, 7; and ^passim.~  The "gli" here corresponds to the
+"vi" of vs. 154.
+
+	|153.  la Diana~: The name of a river which the Sienese
+believed to exist beneath their city and in the search for which
+they spent large sums of money.  At the time Dante wrote, their
+search had been unsuccessful.  The name of Diana was given to the
+supposed subterranean river because of a tradition that a statue
+of that goddess had once stood in the market place of Siena,
+just as that of Mars had stood on the Ponte Vecchio in Florence.
+
+	|154.  ma pi@u vi perderanno li ammiragli~: Thus, by this
+jibe at her fellow-townsmen, it is clear that Sapia can still be
+malicious and still has time to serve on this terrace, purging
+away such feelings.  Though some early commentators understand
+"ammiragli" to mean "contractors," i.e., in the building of the
+port, it seems likely that Sapia intends the term in its proper
+sense of "admirals," as if the Sienese had, or hoped to have, a
+vast fleet of ships, a navy, and these who aspire to be its
+"admirals" will lose more hope than those who place their hope in
+Talamone as an eventual port, since to be "admiral" is a special
+and personal ambition.  Thus "pi@u" of vs. 154, modifying an
+understood ^speranza~, connects with "spera" of vs. 152, but has
+"speranza" of vs. 153 to refer to as a noun and the basis of
+comparison.  

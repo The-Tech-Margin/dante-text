@@ -1,0 +1,1899 @@
+	|1-21.~  ^Il grido dei contemplanti spiegato.~  L'alto
+grido simile al tuono fece stupire il Poeta che, come il
+fanciullo alla madre, si volge ansioso a Beatrice.  Costei gli
+ricorda che egli @e in cielo, e il cielo @e tutto santo, e ci@o che
+vi si fa vien da buon zelo.  Quindi lo schiarisce intorno a quel
+grido.  Se tu avessi udito ci@o che esso diceva, gi@a sapresti la
+vendetta la quale vedrai innanzi di morire.  Iddio non punisce
+mai n@e prima n@e dopo del giusto tempo, se non nell'opinione di
+colui che o per desiderio vorrebbe affrettare o per paura
+indugiare la divina punizione.  Ma rivolgiti adesso verso altri
+di questi spiriti.  Vedrai spiriti molto illustri, se guardi
+col@a, come io ti dico.
+
+	|1.  Oppresso~: ^Vat.~, ^Berl.~, ^Caet.~, ^Cass.~, ^Fram.
+Pal.~, ^Vien.~, ^Stocc.~, ^Cort.~, ecc.; ^Jesi~, ^Mang.~,
+^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~, ecc.;
+^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Petr. Dant.~, ^Falso Bocc.~,
+^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ecc.  Il ^S.
+Cr.~ ha ^Appresso~; le antiche ediz. ^Folig.~ e ^Nap.~ ^Appreso~,
+lezione accettata dal ^Dion.~, il quale osserva: <Non |Oppresso~,
+ch'@e troppo; ma bens@i ^Appreso~, com'@e ne' Testi migliori.> 
+Quali sono quei <Testi migliori>?  L'autorit@a dei codd. e di
+tutti quanti gli antichi espositori mostra che |oppresso~ @e la
+vera lezione.  Per soprappi@u, l'espressione @e tolta di peso da
+Boezio, ^Philos. Cons.~ I, pr. 2 (ed. ^Peiper~, p. 7): ^Sed te ut
+video stupor oppressit.~  Dunque |Oppresso~ non sar@a mica troppo. 
+Il ^Mart.~: <Vi ha due ^stupori~>: uno della mente, l'altro del
+cuore.  Dante qui parla del secondo; e veramente porta l'esempio
+del pargoletto in cui l'uso della ragione manca tuttavia. 
+S'aggiungono il pallore, l'anelito, la paura, e di pi@u paura
+senza giusta cagione.  Tutti argomenti di ^affetto~ e non di
+^meditazione.~>  -- |Guida~: Beatrice.
+
+	|2-3.  Come parvol~: la stessa similitudine ^Purg.~ XXX,
+43 e seg.  L@a Virgilio, qu@i Beatrice, simboli l'uno della guida
+di cui, secondo Dante l'uomo abbisogna per conseguire la felicit@a
+di questa vita, l'altra della guida a lui necessaria per giungere
+alla felicit@a della vita eterna.  ^Omero~, di Teucro difeso dallo
+scudo di Aiace (^Il.~ VIII, 368 e seg.  Trad. ^Monti~):
+
+     Come fanciullo della madre al manto
+     Ricovrava al fratel, che alla grand'ombra
+     Dello splendido scudo il proteggea.
+
+L'^Ariosto~, ^Orl. fur.~ XLIV, 92:
+
+     Come bambin, sebben la cara madre
+     Iraconda lo batte, e da s@e caccia,
+     Non ha ricorso alla sorella, o al padre,
+     Ma a lei ritorna, e con dolcezza abbraccia.
+
+	|4.  Come madre~: cfr. ^Inf.~ XXIII, 37 e seg. ^Parad.~
+I, 100 e seg.  Affetto materno riconosce il Poeta e in Virgilio e
+in Beatrice.
+
+	|5.  Pallido ed anelo~: due segni esteriori che dipingono
+lo sbigottimento.  |Pallido~ hanno ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Vien.~, ^Stocc.~, ^Cort.~, ^Landian.~, ecc.; prime 4 edd.,
+^Nidob.~, ^Vindel.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~,
+^Crus.~, ecc.; ^Lan.~, ^Benv. Ramb.~, ^Buti~, ecc.  Il cod.
+^Pogg.~ e qualche altro cod. ^Pavido~; cos@i pure ^Anon. Fior.~;
+lezione accettata e difesa da ^Scarab.~, ma troppo sprovvista di
+autorit@a.  Il ^Ces.~: <c'@e chi legge ^pavido~, e va bene; ma
+forse Dante scrisse |pallido~, volendo non nominar la paura, ma
+farla intendere a' segni di fuori: al pallore ed all'ansare.>
+
+	|6.  Disporre~: non solo fargli cuore, ma indurre ogni
+disposizione buona nell'animo suo.  ^Tom.~
+
+	|7-9.  Sei in cielo~: dunque di che temi?  ^Lan.~, ^Anon.
+Fior.~: Quasi a dire: qui @e libero da ogni corruzione, s@i che non
+ci si fa cosa che possa ledere, vel offendere, a quelli che sono
+quie.  ^Buti~: Se tu hai a mente queste tre cose: cio@e, che tu
+se' in cielo, e ch'elli @e tutto santo, e che ci@o che ci si fa
+viene da buono amore e desiderio, come temi o ti meravigli tu? 
+Queste sono tre cose che moralmente si debbono attendere in ogni
+cosa, cio@e lo luogo, li abitatori e l'opere che nel luogo si
+fanno: imper@o che queste danno e tolliono ogni sospetto.  Lo
+luogo santo, li abitatori santi, l'opere piene tutte di carit@a
+tollieno ogni timore et ammirazione; e cos@i per contrario lo
+luogo maladetto, li abitatori scelerati, l'opere viziosissime
+danno ragionevilmente timore e meraviglia.
+
+	|10-12.  Il canto~: dei Beati; cfr. ^Parad.~ XXI, 58 e
+seg.  -- |Ridendo~: col mio ridere; cfr. ^Parad.~ XXI, 4 e seg.
+62 e seg.  -- |Mo~: ora, adesso; cfr. ^Inf.~ X, 21; XXIII, 7, 28,
+e spesso altrove.  Senso: Ora puoi pensare quale sconvolgimento
+avrebbero in te prodotto il canto di questi spiriti e il mio riso
+in questo pianeta, poich@e un solo grido ti ha tanto sopraffatto. 
+^Lan.~, ^Anon. Fior.~: Fino che 'l tuono, degli quali tu se' uso
+d'udire, t'ha cos@i alterato, come t'avrebbe alterato lo canto di
+quass@u e 'l mio ridere! quasi a dir massime.  ^Ott.~: Le quali
+parole sono esposizione e dichiarazione del perch@e essa non rise
+in questa spera come nell'altra, e perch@e qu@i non fu il cantare
+come per gli altri cieli.  Cos@i pure ^Benv. Ramb.~ (^Petr.
+Dant.~, ^Postill. Cass.~, ^Falso Bocc.~, ecc. non danno veruna
+interpretazione), ^Vell.~, ^D'Aq.~, ^Vent.~, ^Lomb.~, e tutti i
+moderni, tranne il ^Tom.~  La ^Crus.~ leggendo:
+
+     |Come t'avrebbe trasmutato il canto~,
+     (|Ed io, ridendo: Mo pensarlo puoi.~)
+     |Poscia che 'l grido t'ha mosso cotanto~?
+
+ritiene le parole del v. 11 interposte da Dante in persona sua,
+il quale con un sorriso avrebbe risposto a Beatrice: <Mo lo puoi
+pensare quanto il canto mi avrebbe trasmutato.>  Cos@i ^Buti~,
+^Land.~, ^Dol.~, ^Dan.~, ^Viv.~, ^Tom.~, ecc.  Ma: 1+o~- Come gli
+spiriti beati non avevano cantato, cos@i Beatrice non aveva riso
+in questo pianeta, perch@e la mortale vista e udito di Dante
+troppo ne avrebbero sofferto.  @E quindi naturale che Beatrice
+rammenti qu@i i due fatti.  2+o~- Le parole del v. 11 si collegano
+troppo con quelle dei v. 4 e seg. del C. antec. per ritenerle
+dette non da Beatrice, ma da Dante.  3+o~- La disposizione d'animo
+del Poeta, oppresso di stupore e simile al figlio pallido ed
+anelo, non era certo tale in questo momento, da permettergli di
+rispondere ridendo.  4+o~- Il ridere di Dante in questa circostanza
+sarebbe un ridere da sciocco.  Cfr. ^Perazz.~ ed. ^Scolari~, p.
+162.
+
+	|13-14.  I prieghi suoi~: la preghiera che esso grido
+conteneva.  ^Lan.~, ^An. Fior.~: Ci@o @e ch'esso tuono domandava
+alla divina possanza vendetta del sopradetto peccato commesso per
+gli mali pastori; e per@o chi l'avesse inteso avrebbe certezza di
+tal vendetta, imper@o che gli gloriosi non domandon se non quello
+ch'@e piacer di Dio; ch@e siccom'@e detto, egli vivono in amore che
+gli tiene congiunti colla volontade di Dio, n@e da essa mai
+discrepono.  ^Ott.~: In questa lettera manifesta quello che nel
+grido di quelli beati si contenne; quasi gridassero: Iddio, fanne
+vendetta di coloro che commaculano li spirituali reggimenti in
+terra.  La quale vendetta, dice Beatrice, ch'elli vedr@a anzi
+ch'elli muoja.  Tutto d@i, chi guata con la mente sana, si vede di
+queste vendette e giustizie di Dio.
+
+	|15.  Che tu vedrai~: ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Vien.~, ^Stocc.~, ^Corton.~, ^Filipp.~, ecc.; prime 4 edd.,
+^Benv. Ramb.~, ^Buti~, ecc.  La comune (sull'autorit@a di quali
+codd.?): ^La qual vedrai~; ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~,
+^Crus.~, ecc.  -- |Muoi~: muoia.  Allude forse alla cattura di
+Bonifazio VIII in Anagni; cfr. ^Purg.~ XX, 86 e seg. nt. (^Benv.
+Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ^Vent.~, ^Lomb.~,
+ecc.); o all'avvilimento della curia romana in seguito del
+trasferimento della Corte papale in Avignone; cfr. ^Purg.~ XXXII,
+151 e seg. (^Witte~, ecc.); o allo sperato messo di Dio che
+doveva uccidere la lupa; cfr. ^Purg.~ XXXIII, 40 e seg. (^Tom.~,
+^Andr.~, ^Filal.~, ecc., nel qual caso la vita del poeta sarebbe
+finita prima che la pazienza di Dio.  ^Buti~: <Ecco che finge
+l'autore che Beatrice dica che Dante debbe vedere la vendetta dei
+prelati dela Chiesa innanzi che muoia, siccome vidde in papa
+Bonifazio, e de' cardinali che preseno li Pisani in mare, quando
+fu la discordia tra la Chiesa e lo imperatore Federico (1241).> 
+Ma qui non si accenna che a fatti posteriori all'epoca della
+visione, dunque posteriori all'anno 1300.
+
+	|16.  La spada~: frequentissimo nella Bibbia: ^Gladius
+Domini.~  Sopra questa terzina cfr. ^Salv. Betti~, ^Sopra alcuni
+versi del Paradiso~, nel ^Giorn. Arcad.~ XLVI, 336 e seg.  ^Petr.
+Dant.~: <^Dicit, quomodo dictum fuit in praecedenti clamatu, quod
+spatha, idest justitia Dei, non percutit festine ad judicium,
+idest ad voluntatem eorum, qui eam percutere desiderant, nec
+tarde judicio percussorum.  Ad quod Valerius in primo dicit~:
+lento enim gradu ad vindictam sui divina procedit ira,
+tarditatemque supplicii gravitate compensat.  ^Et Seneca in libro
+de providentia~: hos itaque Deus, quos probat, quos amat,
+indurat, recognoscit, exercet: eos autem, quibus indulgere
+videtur quibus parcere, molles venturis malis servat.  ^Et
+Josephus in libro 2+o~ Antiquitatum ait~: discant homines observare
+et facere ea, in quibus non possit offendi divinitas, ne ad
+iracundiam conversus Deus in eorum iniquitatibus ulciscatur.  ^Et
+Chrysostomus~: quid ergo turbamur? nemo videns malignos
+prosperitate gaudere, turbetur.  Non est enim hic retributio
+malignitatis, neque virtutis; et si aliquando est, non secundum
+quod dignum est, sed simpliciter quodam gustu judicii.>
+
+	|17-18.  Ma' che~: fuorch@e; cfr. ^Inf.~ IV, 26 nt. XXI,
+20 nt. XXVIII, 66; ^Purg.~ XVIII, 53.  -- |Ma' che al parer~: ^S.
+Cr.~, ^Berl.~, ^Caet.~, ^Stocc.~, e molti altri codd.; ^Ald.~,
+^Burgofr.~, ^Giol.~, ^Rovill.~, ^Crus.~, e quasi tutte le
+edizioni posteriori; ^Buti~, ^Land.~, ^Vell.~, ^Dan.~, ^Vol.~,
+^d'Aq.~, ^Vent.~, ^Lom.~, e quasi tutti i moderni.  ^Mai, al
+piacer~: ^Marc. 33, 50~, ^Pat. 2~, ^Riccard. 1004, 1027~ ecc.;
+^Lan.~, ^Ott.~, ^Anon. Fior.~, ^Viv.~, ecc.  ^Mai al parer~:
+^Cass.~, ^Vienn.~, ecc.; ^Folig.~, ^Mant.~, ^Nap.~ ecc.  ^Mai
+ch'al piacer~: ^Vat.~, ^Fram. Pal.~, parecchi ^Trivulz.~,
+^Flor.~, ^Torr.~, ^Pat. 9, 67~, ecc.; ^Vindel.~, ^Benv. Ramb.~,
+ecc.  ^Ma che al piacer~: ^Pat. 316~, ecc.  ^Mai col piacer~:
+^Corton.~, ^Chig. 251~, ecc.; ^Jesi~, ecc.  Sulle lezioni di
+questo verso cfr. ^Barlow~, ^Contrib.~, p. 502-505.  Di 60 codd.
+esaminati dal ^Barlow~ 27 hanno ^Al parer~, 33 ^Al piacer.~ 
+Accettando |Parer~, si dovr@a leggere colla comune |Ma' che al
+parer~, ed il senso @e: La giustizia di Dio non @e mai precipitosa
+e non @e mai tarda, se non al parere di chi la brama o l'aspetta
+tremando.  Accettando invece ^Piacer~, si dovr@a leggere: ^Mai, al
+piacer~, e il enso sar@a: La spada di Dio non si muove mai a
+tagliare in fretta n@e tardo, a seconda del desiderio di chi
+aspetta o desiando o temendo.  Pu@o stare l'una e l'altra lezione. 
+Meglio la prima.  L'umano desiderio fa parere tardi i giudizii di
+Dio, e il timore ratti: ma e' vengono a tempo.  ^Mart.~: L'uomo
+aggravato dalla carne riferisce gli atti di Dio a quelle cagioni
+per cui egli ne farebbe di simiglianti.  Perci@o i giudizii sono
+diversi, secondoch@e diverse sono le posizioni dell'anima in
+ciascheduno.  L'uno dice che la vendetta di Dio @e presta, perch@e
+la teme; e l'altro dice che @e tarda, perch@e la desidera.  ^Buti~:
+Due sono le condizioni delle persone alle quali la giustizia
+punitiva di Dio non pare che venga a modo debito.  L'una, di
+coloro che la desiderano in altri, che per lo desiderio che
+n'hanno non viene s@i tosto, che non paja loro che troppo indugi;
+l'altra @e di coloro che la temono in s@e, che per la paura che ne
+hanno non viene s@i tardi, che non paja loro troppo tosto; e
+questo intende di quelli che sono nel mondo, che chi la desidera
+e chi la teme: desiderandola i buoni e temonla li rei; o di
+quelli che sono nello inferno che la temano; li altri, cio@e li
+beati e quelli che sono in grazia, stanno contenti a la volunt@a
+di Dio.  Ed anco pu@o essere che uno medesimo uomo alcuna volta la
+desideri, ed alcuna volta la tema, secondo le condizioni sue con
+s@e medesimo; imper@o che, se l'uomo @e bene disposto, desidera
+d'essere tosto punito del suo peccato; e s'elli @e male disposto,
+n'ha paura.  Ed anco uno medesimo uomo la desidera in altrui, e
+temela in s@e.  -- Tra le chiose di chi legge ^Piacer~, baster@a
+riferire la primitiva.  ^Lan.~, ^An. Fior.~: La vendetta di Dio
+non taglia in fretta, a piacer di colui che disiando l'aspetta,
+imper@o che sempre gli pare ch'ella tardi troppo; |n@e tardo~, ci@o
+@e al piacer di colui che temendo l'aspetta, imper@o che sempre gli
+pare ch'ella prevegna.  -- Cos@i all'incirca anche l'^Ott.~ ed
+altri.
+
+	|21.  L'aspetto~: ^W. 4~, ^Cass.~, ^Fram. Pal.~, ^Vien.~,
+^Stocc.~, ^Corton.~, ^4 Patav.~, ^Vincent.~, ^Cagliar.~, ^Rosc.~,
+ecc.; prime 4 edd., ^Nidob.~, ^Sessa~, ^De Rom.~, ^Ed. Pad.~,
+^Viv.~, ^Sicca~, ^Mauro Ferr.~, ^Witte~, ecc.; ^Falso Bocc.~,
+^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Lomb.~, ecc.  ^La
+vista~ hanno (con quali e quanti codd.?) ^Ald.~, ^Burgofr.~,
+^Giol.~, ^Rovill.~, ^Crus.~, ^Missir.~, ^Comin.~, ^Dion.~,
+^Quattro Fior.~, ^Fosc.~, ^Fanf.~, ^Giul.~, ecc.  -- |Ridui~:
+riduci, conduci, rivolgi.
+
+	|22-51.~  ^San Benedetto di Norcia.~  All'invito di
+Beatrice Dante rivolge nuovamente gli sguardi suoi alla scala
+celeste e vede cento globetti che insieme pi@u s'abbellivano coi
+mutui splendori.  Il maggiore e pi@u lucente si fa innanzi; @e san
+Benedetto che gli parla di s@e, e nomina Macario e Romualdo.  --
+Sulla vita di s. Benedetto cfr. ^Gregorius M. in dialogorum~,
+lib. II (^opp. ed. Bened.~ T. II, p. 207-276; ^Acta Sanctorum
+mens. Mart.~ T. III, p. 274-357; ^Jo. Mabillonii Acta SS. ord. S.
+Bened.~ Sec. I, p. 3 e seg.  ^Ejusd. Annales ordinis S. Bened.~
+T. I, p. 1-117; ^Mege~, ^Vie de St. Benoist~, Par. 1696.  ^L.
+Tosti~, ^Storia di Monte Cassino~, 2 vol. Nap. 1842.  --
+Benedetto nacque nell'anno 480 da onorevole famiglia (^liberiori
+genere exortus~) in Norcia nell'Umbria.  A quattordici anni (494)
+abbandon@o il mondo e si nascose in una grotta presso Subiaco, ove
+dimor@o molto tempo ignoto a tutti, eccettuato un certo monaco
+Romano, che di quando in quando gli calava il vitto da una rupe. 
+Sparsasi la fama della sua santit@a, i monaci di Vicovaro tra
+Subiaco e Tivoli lo vollero a superiore (510), ma egli introdusse
+disciplina si rigida, che essi stanchi tentarono di avvelenarlo. 
+Benedetto allora li abbandon@o e torn@o alla sua spelonca, ove i
+discepoli si affollarono in modo, che fu costretto a fondare
+molti monasteri.  Di questi riteneva la suprema autorit@a, ma a
+ciascuno dava un superiore.  Perseguitato da un malvagio prete
+Fiorenzo, and@o (528) a Monte Cassino, ove distrusse il tempio di
+Apollo e fond@o il pi@u gran monastero d'Occidente, che divenne la
+culla dell'Ordine.  Quivi egli mor@i il 21 marzo dell'anno 543. 
+-- ^Brev. Rom.~ ad 21 Mart. (I, 637): ^Benedictus, Nursiae nobili
+genere ortus,Romae liberalibus disciplinis eruditus, ut totum se
+Jesu Christo daret, ad eum locum, qui Sublacus dicitur, in
+altissimam speluncam penetravit; in qua sic per triennium
+delituit, ut unus id sciret Romanus monachus, quo ad vitae
+necessitatem ministro utebatur.  Dum igitur ei quodam die
+ardentes ad libidinem faces a diabolo subjicerentur, se in
+vepribus tamdiu volutavit, dum, lacerato corpore, voluptatis
+sensus dolore opprimeretur.  Sed jam erumpente ex illis latebris
+fama ejus sanctitatis, quidam monachi se illi instituendos
+tradiderunt; quorum vivendi licentia cum ejus objurgationes ferre
+non posset, venenum in potione ei dare constituunt.  Verum
+poculum ei praebentibus, Crucis signo vas confregit, ac relicto
+monasterio in solitudinem se recepit.  Sed cum multi ad eum
+quotidie discipuli convenirent, duodecim monasteria aedificavit,
+eaque sanctissimis legibus communivit.  Postea Cassinum migravit,
+ubi simulacrum Apollinis, qui adhuc ibi colebatur, comminuit,
+aram evertit, et lucos succendit; ibique sancti Martini sacellum,
+et sancti Joannis aediculam extruxit; oppidanos autem et incolas
+Christianis praeceptis imbuit.  Quare augebatur in dies magis
+divina gratia Benedictus, ut etiam prophetico spiritu ventura
+praediceret.  Quod ubi accepit Totila Gothorum rex, exploraturus,
+an res ita esset, spatharium suum regio ornatu et comitatu
+praemittit, qui se Regem simularet.  Quem ut ille vidit: Depone,
+inquit, fili, depone quod geris: nam tuum non est.  Totilae vero
+praedixit adventum ejus in urbem, maris transmissionem, et post
+novem annos mortem.  Qui aliquot mensibus, antequam e vita
+migraret, praemonuit discipulos, quo die esset moriturus; ac
+sepulchrum, in quo suum corpus condi vellet, sex diebus, antequam
+eo inferretur, aperiri jussit, sextoque die deferri voluit in
+Ecclesiam, ubi, sumpta Eucharistia, sublatis in coelum oculis
+orans, inter manus discipulorum efflavit animam; quam duo monachi
+euntem in coelum viderunt pallio ornatam praetiosissimo, circum eam
+fulgentibus lampadibus, et clarissima et gravissima specie virum
+stantem supra caput ipsius dicentem audierunt: Haec est via, qua
+dilectus Domini Benedictus in coelum ascendit.~  Gregorio Magno
+racconta molti miracoli operati da San Benedetto, e pi@u ne
+raccontano gli scrittori successivi che della sua vita
+ragionarono.
+
+	|23.  Cento~: il determinato per l'indeterminato:
+moltissime.  -- |Sperule~: piccole sfere di luce; anime
+circondate di raggi.
+
+	|24.  S'abbellivan~: radiando l'una nell'altra.  ^Lan.~,
+^Anon. Fior.~  Oltre esser bella ciascuna pel proprio splendore,
+pi@u tutte insieme, per lo splendore che vicendevolmente si
+communicavano, divenivano belle.  ^Lomb.~  Figura Dante con tale
+invenzione che que' santi contemplativi s'informassero a vicenda,
+e facessero profitto dei mutui consigli e soccorsi, come abbiamo
+per certo dalle loro vite.  ^Benv. Ramb.~
+
+	|25.  Ripreme~: reprime, come ^Parad.~ IV, 112 ^espreme~
+per ^esprime.~  Alcuni codd. ed ediz. leggono ^Repreme~; semplice
+diversit@a di grafia.  La similitudine, con la pi@u semplice forma,
+accenna lo stimolo acuto del desiderio, ma raffrenato dal timore. 
+Cfr. ^L. Vent.~ ^Simil.~ 276.
+
+	|26.  La punta~: l'acuto stimolo del desiderio.  ^Lucan.~
+^Phars.~ I, 262 e seg.: ^Dubioeque in proelia menti Urgentes addunt
+stimulos.~
+
+	|27.  Del dimandar~: ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Vien.~,
+^Stocc.~, ecc.; ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~,
+ecc.  ^Di
+dimandar~: ^Corton.~, ^4 Patav.~, ecc.; prime 4 edd., ^Nidob.~, ^Benv.
+Ramb.~, ^Buti~, ecc.  -- |Si teme~: il |si~ @e riempitivo.  Tanto ei
+teme di eccedere ed esser molesto col troppo dimandare.  ^Fazio
+degli Uberti~, ^Dittam.~ V, 12:
+
+     Sospeso i' andava, com'uom che dis$ia
+     Cosa fra s@e, e che non la dimanda
+     Per tema o riverenza che 'n lui sia.
+
+^Petrar.~ I, son. 97:
+
+     Che gran temenza gran desire affrena.
+
+	|29.  Margherite~: altrove chiama ^margherita~ la Luna,
+^Parad.~ II, 34 e il pianeta Mercurio, ^Parad.~ VI, 127.  Qu@i le
+anime beate; cfr. ^Parad.~ XX, 16.  -- |Fessi~: si fece.  @E
+l'anima beata di san Benedetto; cfr. chiosa generale ai v. 22-51.
+
+	|30.  Di s@e~: di quello ch'io desiderava di sapere
+intorno a lei.  ^Buti.~  Per contentare circa s@e la mia voglia di
+saper chi fosse.
+
+	|31.  Dentro~: la luce non @e l'anima, ma il manto, un
+corpo etereo di lei.  -- |Udi'~: udii.  -- |Vedessi~: conoscessi.
+
+	|33.  Espressi~: li diresti, sicuro di farci piacere. 
+^Buti~: I tuoi pensieri sarebbero manifestati da te a noi, e non
+avresti lasciato per dubitanza di non addimandare troppo; imper@o
+che avresti veduto che noi siamo s@i desiderosi del bene del
+prossimo e s@i contenti, che c'@e diletto di poterti fare contento.
+
+	|34-35.  Tarde~: tardi; non indugi l'alto fine del tuo
+viaggio, ch'@e di salire a Dio.
+
+	|36.  Pure~: ^W. 4~, ^Cass.~, ^Fram. Pal.~, ^Vien.~,
+^Stocc.~, ^Corton.~, ^Chig.~, ^Antal.~, ^4 Patav.~, ecc.; prime 4
+edd., ^Ald.~, ^Rovil.~, ^Crus.~, ecc.  Il ^Lomb.~ colla ^Nidob.~
+ecc.: ^Pria al pensier~, spiegando: Pria che tu dimandi,
+risponder@o all'interno desiderio del tuo animo (di saper ch'io mi
+sia), di espormi il quale tu sei tanto ritenuto.  Ma |Pure~ @e
+lezione di quasi tutti i codd.  Intendi: Risponder@o anche al solo
+pensiero, di manifestare il quale s@i poco ti fidi.
+
+	|37-38.  Cassino~: K%alpha%sigma%iota%nu%o%nu\, ^Strab.~
+V, 237; ^Casinum~, cfr. ^Forbiger~, ^alte Geogr.~ III, 480.  --
+|Nella costa~: non sulla vetta, come asserirono alcuni; cfr.
+^Lomb.~ ad h. l.  Ma il ^Lomb.~ spiega a rovescio, dicendo che il
+Poeta <colloca Cassino nella costa del monte, e sulla cima del
+medesimo accenna da san Benedetto fondato il monastero.>  Dicendo
+che i pagani frequentavano quel monte |in su la cima~, Dante
+colloca sulla cima di esso anche il tempio di Apollo e di Diana. 
+^Greg. M.~ loc. cit. cap. 2: ^Castrum, quod Casinum dicitur, in
+excelsi montis latere situm est~ (^qui videlicet mons distenso
+sinu hoc idem castrum recipit, sed per tria milia in altum se
+subrigens velut ad a,era cacumen tendit~), ^ubi vetustissimum
+fanum fuit, in quo ex antiquorum more gentilium a stulto
+rusticorum populo Apollo celebrabatur.  Circumquaque in cultu
+doemonum luci excreverant, in quibus adhuc eodem tempore
+infidelium insana multitudo sacrificiis sacrilegis insudabat. 
+Illuc itaque vir Dei perveniens contrivit idolum, subvertit aram,
+succendit lucos atque ipso in templo Apollinis oraculum Mariae
+Virginis, ubi vero ara ejusdem Apollinis fuit, oraculum S.
+Joannis construxit, et commorantem circumquaque multitudinem
+praedicatione continua ad fiden vocabat.~  Traducendo liberamente
+^Lan.~ e ^Anon. Fior.~: La detta montagna s@i hae lo suo cacume
+molto alto, e rimosso dalla superficie della terra; sopra lo qual
+cacume s@i era consacrato uno tempio ad Apollo; l@i in circustanzie
+s@i avea molti idoli e molti luoghi dove quegli pagani
+sagrificavano; s@i pu@o dire che quello luogo era tutto disposto a
+sacrificazioni di demoni.  Andovvi suso santo Benedetto, e
+predicovvi lo Evangelio, e miracolosamente fece cadere quegli
+Idoli e templi, e redusse tutta quella gente alla fede cattolica,
+e fecevi Ecclesie et altari.  ^Benv. Ramb.~ osserva: San Gregorio
+scrisse un libro: ^Dialoghi, vita e virt@u di san Benedetto~
+(sic?), e le poche cose qu@i dette vengono da tal libro.
+
+	|39.  Ingannata~: cio@e da' dimoni che parlavano
+negl'idoli, e cos@i ingannavano la gente e facevano credere che
+fussono iddii, |e mal disposta~, imper@o che erano disposti tutti
+al culto degl'idoli.  ^Buti.~  Meglio: |Ingannata~ dalle sue
+false credenze |e mal disposta~ a ricevere la fede in Cristo. 
+^Tom.~: |Ingannata~ riguarda la mente, |disposta~ il cuore.
+
+	|40.  E quel son io~: ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Vien.~, ^Stocc.~, ^Corton.~, ^Filipp.~, ^Vicent.~, ecc.; prime 4
+edd., ^Sessa~, ^Dion.~, ^Viv.~, ^Witte~, ecc.; ^Lan.~, ^Anon.
+Fior.~, ^Buti~, ^Land.~, ecc.  ^E quel son io~: ^Mauro Ferr.~,
+ecc.  ^Ed io son quel~: ^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovill.~, ^Crus.~, ^Missir.~, ^Comin.~, ^De Rom.~, ^Ed. Pad.~,
+^Pezzana~, ^Sicca~, ^Quattro Fior.~, ^Fanf.~, ^Giul.~, ecc.,
+^Benv. Ramb.~, ^Vell.~, ^Dan.~, ^Vent.~, ^Lomb.~, ecc.  ^Ed  io
+son quei~: ^Fosc.~ ecc.  Quasi tutti i codd. avendo |E quel son
+io~, tale lezione non dovrebbe essere disputabile.
+
+	|42.  Verit@a~: evangelica.  Cristo ai Giudei, ^Joan.~
+VIII, 32: ^Et cognoscetis veritatem, et veritas liberabit vos.~ 
+Il ^Lomb.~: <Verit@a non si pu@o qu@i intendere contrariamente ad
+errore, poich@e in questo senso vi era la verit@a anche nel vecchio
+Testamento, prima dell'incarnazione del divin Verbo; ma
+contrariamente a figura ed ombra.  Onde al particolare proposito
+di quella figura della santissima Eucaristia, che era nel vecchio
+Testamento il mangiar dell'agnello pasquale, ^Umbram fugat
+veritas~ canta la Chiesa con san Tommaso.>  -- |Ci sublima~:
+facendoci figliuoli di Dio.  ^Joan.~ I, 12: ^Quotquot autem
+receperunt eum, dedit illis potestatem filios Dei fieri, his qui
+credunt in nomine ejus.~  I, Joan. III, 1: ^Videte qualem
+caritatem dedit nobis pater ut filii Dei nominemur et simus.~  Il
+^Buti~: Cio@e tanto c'innalza, che ci fa montare in cielo in vita
+eterna.
+
+	|43-45.  Rilusse~: e tanta grazia m'infuse lo Spirito
+Santo che potei togliere dall'idolatria, che aveva sedotto
+l'intero mondo, tutte le genti dei luoghi d'intorno.  Fu pi@u
+difficile a san Benedetto togliere quelle genti dal culto
+d'Apollo ossia del Sole, perch@e l'influsso del dio adorato era
+pi@u sensibile di ogni altro, e per questo il culto era durato
+varie centinaia d'anni dopo la venuta di Cristo.  ^Benv. Ramb.~ 
+Il Poeta traduce in questa terzina le parole di s. Gregorio: ^Et
+commorantem circumquaque multitudinem praedicatione continua ad
+fidem vocabat.~  S. Gregorio continua (loc. cit. trad. del
+^Cavalca~): <Onde turbandosi molto lo nemico non per sogno e
+occultamente lo molestava, ma palesemente venivagli insino agli
+occhi, e con grande grida si lamentava di lui, dicendo che gli
+faceva forza, cacciandolo dalla sua abitazione; le quali grida li
+monaci di san Benedetto udivano, avvegnach@e lo nemico non
+vedessono.>  -- |Culto~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Vien.~,
+^Stocc.~, ecc.  ^Colto~: ^Vat.~, ^Cass.~, ^Fram. Pal.~,
+^Corton.~, ecc.  I ^Quattro Fior.~, II, 279: <Ognun vede che
+|culto~ s'accosta pi@u di ^colto~ alla sua latina derivazione.> 
+Ma ^colto~ us@o Dante anche ^Parad.~ V. 72, dove la lezione non
+pu@o essere disputabile, perch@e in rima.
+
+	|47.  Caldo~: della divina carit@a, fecondatrice delle
+anime.  Cfr. ^Parad.~ XXXIII, 7-9.  ^Psl.~ XXXVIII, 4: ^Concaluit
+cor meum intra me; et in meditatione mea exardescet ignis.~  Luc.
+XXIV, 32: ^Nonne cor nostrum ardens erat in nobis, dum loqueretur
+in via et aperiret nobis scripturas~?
+
+	|48.  Fiori~: parole.  -- |Frutti~: opere.
+
+	|49.  Maccario~: la storia ecclesiastica ricorda tre
+personaggi di questo nome: 1+o~- ^Macario il Grande~,
+%Pi%alpha%iota%delta%alpha%rho%iota%o%gamma%$varepsilon%rho%o%nu\,
+o l'^egiziano~, discepolo di sant'Antonio, nato l'anno 300, and@o
+nell'anno 330 nel deserto di Sceti, parte del gran deserto
+libico, ove condusse durante 60 anni vita s@i austera, da meritare
+il nome di ^giovine attempato.~  Al tempo della persecuzione dei
+monaci suscitata da Valente fu bandito per breve tempo.  Mor@i
+nell'anno 391.  A questo Macario si attribuiscono parecchi
+scritti, che per@o diedero luogo a non poche contenzioni.  Cfr.
+^Gildemeister~, ^Fragmente des Marcarius~, Elberf. 1867.  -- 2+o~-
+^Macario il cittadino~,
+%pi%o%lambda%iota%tau%iota%kappa%$o%varsigma\, o
+l'^alessandrino~, anch'egli discepolo di sant'Antonio, esercitava
+da prima il mestiere di confettiere in Alessandria sua patria,
+quindi, lasciate tutte le cure mondane, si dette alla vita
+monastica.  Ordinato prete visse principalmente in quella parte
+del deserto di Nitria, la quale dal gran numero de' solitarii che
+vi dimoravano prese il nome di ^Celle~, ma frequent@o pure le
+solitudini tra il Nilo e il Mar Rosso.  Mor@i il 2 gennaio
+dell'anno 404.  Anche a costui si attribuiscono parecchi scritti;
+ad ambedue molti miracoli.  -- 3+o~- ^Macario d'Antiochia~,
+condannato dal sesto Concilio ecumenico (680) come monoteleta e
+bandito da Antiochia.  Questi non pu@o essere quello menzionato
+qu@i da Dante.  Quale dei due primi?  Gli antichi sino al ^Dan.~
+non ne parlano, tranne l'^Ott.~ che chiosa: <Di santo Maccario si
+legge, che essendo egli abate discendea della sua cellola al
+cimiterio, lasciava il letticiuolo, e venia a dormire al
+monumento; e venne al luogo dove erano seppelliti li corpi de'
+Pagani, e trassene uno corpo, e poseselo sotto il capo suo in
+luogo di guanciale.  Molte battaglie ebbe col diavolo, e tutte le
+vinse, s@i come appare nella sua leggenda.>  Il ^Dan.~ lo dice
+erroneamente monaco dell'Ordine di san Benedetto.  ^Vol.~ si
+contenta di avvertire che <di tal nome furono due uomini
+santissimi>, senza decidere di quale dei due parla il poeta. 
+Cos@i anche ^Lomb.~, ^Port.~, ^Cost.~, ecc.  Il ^Pogg.~ credette
+che <il solitario e contemplativo S. Macario, al quale allude S.
+Benedetto, @e l'^Alessandrino~, che ebbe sotto la sua direzione
+quasi 5000 monaci.>  Questa opinione fu accettata dai pi@u
+(^Biag.~, ^Ed. Pad.~, ^Wagn.~, ^Borg.~, ^Tom.~, ^Br. B.~,
+^Frat.~, ^Greg.~, ^Andr.~, ^Triss.~, ^Bennas.~, ^Franc.~,
+^Bocci~, ^Kanneg.~, ecc.), mentre altri opinano invece che Dante
+abbia inteso parlare di Macario il Grande o l'Egizio (^Blanc~,
+^Witte~, ecc.).  Il ^Filal.~, che dei due Macari (1 e 2) ne fa
+tre, crede che Dante non distinse forse l'uno dall'altro.  Questa
+@e pure la nostra opinione.  Nessun antico distinse Macario
+l'Alessandrino dall'Egiziano, ed anche tra' moderni troviamo chi
+li confonde l'uno con l'altro. Cos@i ^Br. B.~ che scrive: <Qu@i
+pare si debba intendere l'Alessandrino, detto ^il giovane~ (ma
+l'Alessandrino fu detto
+%pi%o%lambda%iota%tau%iota%kappa%$o%varsigma\, e l'Egiziano fu
+detto
+%pi%alpha%iota%delta%alpha%rho%iota%o%gamma%$varepsilon%rho%omega%nu\)
+che fra il IV e V secolo dirigeva da 5000 monaci.>  E il
+^Bennas.~ che dice Macario l'Alessandrino morto nel 394 o 395
+(invece di 404) sembra pure averlo confuso coll'Egiziano, morto
+nel 391.  Non pu@o quindi recar meraviglia se anche L'Alighieri
+non distinse i due personaggi.
+
+	|Romoaldo~: il fondatore dell'Ordine dei Camaldolensi. 
+Cfr. ^Petr. Damiani~, ^Vita Romualdi~ (in ^P. Dam. opp.~ ed.
+^Cajetani~, II, 205 e seg. ^Mabill. act. SS. ord. Bened. soec.
+VI~, I, 247 e seg.  Nacque in Ravenna verso il 956; fond@o verso
+il 1018 il monastero di Camaldoli in Toscana, onde i suoi monaci
+ebbero nome di Camaldolensi.  Mor@i nel 1027 presso Val di Castro. 
+^Brev. Rom.~ ad 7 Febr. (I, 615): ^Romualdus Ravennae, Sergio
+patre, nobili genere natus, adolescens in propinquum monasterium
+Classense poenitentiae causa secessit; ubi, religiosi hominis
+sermone ad pietatis studium vehementius incensus, viso etiam
+semel et iterum per noctem in ecclesia beato Apollinari, quod Dei
+servus illi futurum promiserat, Monachus efficitur.  Mox and
+Marinum, vitae sanctitate ac severiore disciplina in finibus
+Venetorum eo tempore celebrem, se contulit, ut ad arctam et
+sublimem perfectionis viam eo magistro ac duce uteretur.  Multis
+satanae insidiis et hominum invidia oppugnatus, tanto humilior se
+assidue jejuniis et orationibus exercebat, et rerum coelestium
+meditatione, vim lacrymarum profundens, fruebatur; vultu tamen
+adeo laeto semper erat, ut intuentes exhilararet.  Magno apud
+principes et Reges in honore fuit, multique ejus consilio, mundi
+illecebris abjectis, solitudinem petierunt.  Martyrii quoque
+cupiditate flagravit; cujus causa dum in Pannoniam proficiscitur,
+morbo, quo afflictabatur cum progrederetur, levabatur cum
+recederet, reverti cogitur.  In vitam et post mortem miraculis
+clarus, spiritu etiam prophetiae non caruit.  Scalam a terra coelum
+pertingentem, in similitudinem Jacob Patriarchae, per quam homines
+in veste candida ascendebant et descendebant, per visum
+conspexit; eoque Camaldulenses monachos, quorum instituti auctor
+fuit, designari mirabiliter agnovit.  Denique cum annos centum et
+viginti ageret, et centum ipsos in summa vitae asperitate Deo
+servisset, ad eum migravit anno salutis millesimo vigesimo
+septimo.  Ejus corpus, quinquennio postquam sepultum fuerat,
+integrum repertum, Fabriani in ecclesia sui Ordinis
+honorificeconditum est.~
+
+	|50.  Frati~: fratelli.  ^Tom.~  I miei monaci santi e
+buoni e contemplativi.  ^Buti.~
+
+	|51.  Il cuor~: non soltanto i piedi, come poi.  ^Benv.
+Ramb.~: Qu@i sono i miei fratelli che chiusero ogni affetto umano
+nel chiostro, e furono sempre costanti nel proposito di santa
+contemplazione.  Come il pesce muore fuori dell'acqua, cos@i muore
+alla santit@a il monaco fuori della cella.  -- Il ^Rohrbacher~,
+^Stor. Eccles.~ XIII, p. 216, racconta: <Sergio, padre di
+Romualdo, mosso anch'egli dalla grazia di Dio e dall'esempio del
+proprio figliuolo, si rend@e monaco a san Severo, vicin di
+Ravenna, ma indi ad alcun tempo, pentitosene, volle far ritorno
+al mondo.  I monaci ne diedero tosto avviso a Romualdo, il quale
+risolv@e di correre in aiuto del padre......  Part@i dal cuore
+delle Gallie a pi@e nudi, e con null'altro che un bastone, e
+giunse a Ravenna, ove, trovato il padre determinato di tornarsene
+al secolo, gli strinse i piedi fra ceppi, lo caric@o di catene, e
+si di@e a batterlo aspramente, finch@e, maltrattandolo nel corpo,
+l'ebbe guarito nell'anima e tornato alla prima risoluzione, nella
+quale stette fermo e mor@i santamente alcun tempo dappoi.>  Prova
+forse quanto Romualdo stimasse la perseveranza nell'amore alla
+vita monastica; ma non @e prova troppo bella di santit@a.
+
+	|52-72.~  ^La dimanda intempestiva.~  Dice Dante: L'amore
+che mi mostri mi fa ardito a pregarti di mostrarti a me con
+immagine scoverta del lume che ti cela.  Qu@i no, risponde san
+Benedetto; il tuo desiderio sar@a saziato pi@u in alto,
+nell'Empireo, dove tutti i desiderj sono saziati e sin dove
+arriva questa scala.  La scena descritta in questi versi rammenta
+ci@o che si racconta di Mois@e, ^Exod.~ XXXIII, 18 e seg.: ^Qui
+ait: Ostende mihi gloriam tuam.  Respondit~:..... ^Non poteris
+videre faciem meam non enim videbit me homo et vivet.~  Giova
+osservare: al cielo di Saturno Dante non dedica che poco pi@u di
+un canto; in esso Beatrice non lo bea del suo riso, n@e i Beati
+del loro canto; il dubbio che propone non gli viene sciolto, un
+grido lo conturba, il desiderio che egli esprime non @e appagato. 
+Si direbbe che in questo cielo pi@u che negli altri egli deve
+esperimentare la differenza che passa tra i Beati e lui ancor
+mortale.  Perch@e? e perch@e qu@i?  -- --
+
+	|53-54.  Sembianza~: d'amore.  ^Benv. Ramb.~: Il
+singolare affetto che mi dimostri parlandomi, e l'aspetto di voi
+tutti ardenti di carit@a che io scorgo o distinguo.
+
+	|55-56.  La rosa~: il cuore del Poeta si dilata ai raggi
+dell'amor celeste, come le foglie della rosa ai raggi del Sole. 
+^Conv.~ IV, 27: <E conviensi aprire l'uomo quasi com'una rosa che
+pi@u chiusa stare non pu@o, e l'odore ch'@e dentro generato
+spandere.>
+
+	|57.  Quant'ell'ha di possanza~: quant'ella si pu@o
+aprire.  Ecco che fa similitudine vera; cio@e che, come lo caldo
+del Sole fa aprire la rosa, quanto aprire si pu@o: cos@i la vostra
+carit@a ha ampliato la mia fede e la mia credenza, cio@e di potere
+essere dichiarato da te, se io posso avere tanto di grazia, che
+io vegga la tua imagine senza lo velame della luce.  ^Buti.~
+
+	|58-59.  M'accerta~: Prima d'avere la grazia, chiede con
+umile affetto se possa averla.  ^Tom.~  Ma tra il chiedere una
+grazia, ed il chiedere se si possa averla, non c'@e altra
+differenza che della forma della dimanda.
+
+	|60.  Scoverta~: Qu@i si pu@o muovere dubbio, perch@e lo
+nostro autore finge, perch@e pi@u qu@i che altrove gli venisse
+questa voglia di vedere le anime nella loro propria immagine.  A
+che si pu@o rispondere, perch@e lo luogo ne fa cagione; imper@o che
+s'egli era salito alla spera de' contemplativi, degno era ch'egli
+avesse pi@u altri pensieri che per le altre spere; imper@o che li
+contemplativi pensano tutte le alte cose di Dio, contemplando la
+creatura s'innalzano a contemplare il creatore; e perch@e l'anima
+umana @e fatta a similitudine sua, per@o hanno desiderio li
+contemplativi di vedere l'essenzia dell'anima umana pi@u che di
+niuna altra cosa creata; e per@o finse l'autore che tale pensieri
+gli venisse in questo luogo.  ^Buti.~  Cos@i anche ^Land.~ 
+Allegoria forse soverchiamente ingegnosa.
+
+	|61.  Frate~: fratello.  Il ^Tom.~: <La gloriosa anima
+del gran fondatore chiama Dante fratello, ch@e carit@a richiede
+uguaglianza.>  Ma cos@i sogliono chiamarlo tutti i Beati; cfr.
+^Parad.~ III, 70; VII, 58, 130.  E cos@i lo chiaman pure le anime
+del Purgatorio.
+
+	|62.  L'ultima~: nell'Empireo, dove realmente sono tutti
+i Beati.  Si mostrano nei diversi pianeti per redere sensibili i
+diversi gradi della loro beatitudine; cfr. ^Parad.~ IV, 28-48. 
+^Postill. Caet.~: ^In ipsis planetis nulla anima est, sed est
+forma et influentia planetarum quae faciunt tales viros.~  San
+Benedetto trovasi in fatto nell'Empireo; cfr. ^Parad.~ XXXII, 35.
+
+	|63.  Il mio~: desiderio; qu@i forse: il mio desiderio di
+mostrarmiti con immagine scoverta.
+
+	|64.  Perfetta~: ^Torel.~: <Considera la forza di questi
+tre aggiunti.>  ^Pogg.~: <Ivi ogni desiderio @e |perfetto~, perch@e
+il principale oggetto ne @e Iddio; @e |maturo~, perch@e ai
+precedenti meriti @e dovuto l'adempimento; @e |intero~, perch@e vien
+da Dio esaudito in tutta la sua pienezza.>  ^Tom.~: <Non ben si
+vede la gradazione de' tre aggiunti, che l'uno pare comprenda
+l'altro.  Nondimento |intera~ par che dica pi@u espressamente la
+semplice unit@a dell'oggetto desiderato; |matura~ la dolcezza e
+pienezza della perfezione.>  Il ^Buti~ legge:
+
+     Ivi @e perfetta natura, et intera
+     Ciascuna disianza;
+
+e spiega: <Imper@o che quine @e Iddio, che d@a perfezione alla
+natura naturata umana ed angelica, e per@o s'intende: Quine @e
+perfetta nostra natura umana, |et intera~), cio@e compiuta,
+^Ciascuna disianza~ {v.65}, cio@e ciascuno desiderio umano.> 
+Potrebbe stare.  E veramente ^Scarab.~ (^cod. Lambert.~ III, 439)
+difende questa lezione.  Ma leggendo quasi tutti i codd., tutte
+le ediz. e tutti gli espositori |matura~, e vendendosi lo stesso
+^Scarab.~ costretto a confessare che |natura~ @e <rarissima
+lezione>, conviene attenersi alla comune.
+
+	|65-66.  In quella~: spere ultima, le cui parti non
+mutano mai luogo.  Il solo Empireo @e immobile.  ^Conv.~ II, 4:
+<Veramente, fuori di tutti questi, li Cattolici pongono lo Cielo
+Empireo, che tanto vuol dire, quanto ^cielo di fiamma~ ovvero
+^luminoso~; e pongono, esso essere immobile, per avere in s@e,
+secondo ciascuna parte, cio@e che la sua materia vuole.  E questo
+@e cagione al primo Mobile per avere velocissimo movimento; ch@e
+per lo ferventissimo appetito che ha ciascuna sua parte d'esser
+congiunta con ciascuna parte di quello decimo Cielo divinissimo e
+quieto, in quello si rivolve con tanto desiderio, che la sua
+velocit@a @e quasi incomprensibile.  E questo quieto e pacifico
+Cielo @e lo luogo di quella somma Deit@a che s@e sola compiutamente
+vede.  Questo @e lo luogo degli spiriti beati, secondo che la
+santa Chiesa vuole, che non pu@o dir menzogna: ed anco Aristotile
+pare ci@o sentire, chi bene l'intende, nel primo ^di Cielo e
+Mondo.~  Questo @e il sovrano edificio del Mondo, nel quale tutto
+il Mondo s'inchiude, e di fuori dal quale nulla @e; ed esso non @e
+in luogo, ma formato fu solo nella prima Mente, la quale li Greci
+dicono ^Protonoe.~>  Cfr. ^Bartoli~, nelle ^Lettioni d'Accademici
+Fiorentini sopra D.~, ed. ^Doni.~ Fir. 1547, p. 69-81.
+
+	|67.  In luogo~: lo cielo empireo non @e locato in luogo
+alcuno, sicch@e non @e contenuto da luogo, come sono le nove spere,
+|e non s'impola~,, ci@o @e non si ferma in su' poli, come l'altre
+spere.  ^Buti.~  Luogo dicesi il termine contenente i corpi: e la
+mancanza di luogo importa mancanza di movimento, perciocch@e moto
+dicesi appunto la mutazione di luogo.  ^And.~  Vedi il passo del
+^Conv.~ citato nella nt. antec.  -- |Non s'impola~: non ha poli,
+sopra i quali giri.  ^Conv.~ II, 4: <Ed @e da sapere che ciascuno
+cielo, di sotto del Cristallino, ha due poli fermi, quanto a s@e;
+e lo nono gli ha fermi e fissi e non mutabili, secondo alcuno
+rispetto.>
+
+	|68.  Scala~: lo scaleo descritto ^Parad.~ XXI, 28 e
+seg., e che, come dice qu@i, sale fino all'Empireo.
+
+	|69.  Viso~: lat. ^visus~, vista.  La sua cima sfugge
+alla tua vista.  ^Parad.~ XXI, 29, 30: <Eretto in suso Tanto, che
+nol seguiva la mia luce.>
+
+	|70.  La vide~: in sogno; vedi la chiosa generale sopra
+^Parad.~ XXI, 25-42.
+
+	|71.  Porgere~: innalzar la sua cima.  |Jacob porgere~
+hanno ^W. 4~, ^Fram. Pal.~, ^Vien.~, ^Stocc.~, ^Corton.~, ecc.;
+prime 4 edd., ^Benv. Ramb.~, ^Buti~, ecc.  Il ^Cass.~ legge:
+^Jacobo porger~; la comune: ^Jacob isporger~ (^Ald.~, ^Burgofr.~,
+^Giol.~, ^Rovil.~, ^Sessa~, ^Crus.~, ecc.).  Il ^Dion.~ pretende
+che si debba leggere: ^Jacobe porger~ (cfr. ^ejusd.~ D. C. Parma
+1796, III, Append. p. X e seg.), lezione priva di autorit@a.
+
+	|73-96.~  ^Corruzione de' monasteri.~  Continua san
+Benedetto, lamentandosi de' suoi frati.  Non vi @e pi@u chi dal
+mondo salga su per la celeste scala.  La mia regola @e rimasta nel
+mondo per consumare inutilmente la carta dove si scrive e
+trascrive.  Ne' monasteri tutto @e degenerato; l'avarizia e la
+rilassatezza fan guasto de' cuori.  Soltanto un miracolo pu@o
+allontanare tanta corruzione.  Cfr. ^L. Tosti~, ^Gli ordini
+religiosi nella D. C.~, in ^Dante e il suo secolo~, p. 429 e seg. 
+Ejusd. ^Ragionamento su quella parola di Dante~: <E la regola
+mia> ecc. nella sua ^Storia della Badia di Montecassino~, Nap.
+1843, III, p. 92-99.
+
+	|73.  Mo~: adesso.  ^Buti~: Nessuno s'ingegna di partire
+li piedi da terra, per montare la detta scala delle virt@u; et
+allegoricamene s'intende: Nissuno diparte l'affezione da le cose
+terrene.  ^Dan.~: Nessuno si d@a alla contemplazione.
+
+	|74.  Regola~: monastica.  Cfr. ^Regula Benedicti~, in
+^Gallandi bibl. PP.~ XI, 298 e seg.
+
+	|75.  Rimasa~: nel mondo.  -- |Per danno~: per consumare
+inultimente la carta, copiandola e ricopiandola, non essendo chi
+l'osservi.  A questo luogo ^Benv. Ramb.~ racconta: <Il
+rispettabile mio maestro Boccaccio da Certaldo, mentre girava per
+la Puglia, preso dalla celebrit@a del luogo, volle visitare il
+nobile monastero di Monte Cassino di cui si parla; e specialmente
+in desiderio di vedere la scelta libreria di quel luogo, chiese
+rimessamente ad un monaco, che in grazia gliela volesse aprire e
+mostrare.  Quel monaco rozzamente lo prese per un braccio e gli
+mostr@o la scala che conduceva alla biblioteca sempre aperta. 
+Boccaccio con gran velocit@a montava, non parendogli d'essere mai
+troppo presto per trovare il bramato tesoro, e giunto alla
+sommit@a della scala trov@o che la porta della biblioteca era non
+solo aperta, ma senza chiave, e sul limitare cresciuta l'erba; e
+l'erba era altissima sulle fenestre per trascuraggine collabenti
+e sempre aperte esse pure.  I libri sparsi, e variamente svolti
+ed ammonticchiati sui panchi mostravano tutti il colore della
+polvere che erasi alzata su d'essi per lungo tempo. 
+Compassionando a tanta jattura, si mise ad aprire ora questo ora
+quel volume, e trov@o opere peregrine di peregrini autori con
+quinterni staccati, o stracciati, con margini o sporcati, o
+tagliati, o con inchiostro deformati.  Piangendo allora sulle
+fatiche e le veglie di tanti ingegni preclari venuti alle mani
+d'uomini perduti, con dolore e con alti sospiri se ne part@i; e ad
+altro frate che nel partire incontr@o, richiese, perch@e que'
+preziosissimi volumi fossero in tal modo guasti e malconci: cui
+quel frate.  ^Alcuni miei fratelli per bisogno hanno tagliati
+quinterni, e formati psalteri da vendere ai ragazzi, servendosi
+de' margini per far brevi pei divoti.~  Ora, o uomo di studio,
+suda, gela, astienti dal vino e dalle donne per comporre libri di
+scienze!>  Ci@o nonostante l'Imolese crede che Dante parli qu@i
+<troppo largamente, perch@e anche oggi trovansi monaci sotto
+l'abito e regola di san Benedetto che vivono santamente, come io
+stesso ne conobbi fra quei di monte Oliveto; ovvero dovr@a
+ritenersi che san Benedetto abbia rispetto solo ai primi
+contemplativi, od al solo Monte Cassino di cui qu@i si parla e che
+ora @e deserto.>  -- Sulla corruzione dei Benedettini nel secolo
+XII cfr. ^Nigellus Wineker~, ^Speculum stultorum~, in ejusd.
+^Delectus poeseos medii aevi~ fasc. I, Lond. 1836, ^Honorii P.
+III, Epist.~ in ^Fejer~, ^Cod. dipl. Hungar.~ III, II, 19.  Vedi
+pure la chiosa generale sopra ^Parad.~ XXI, 127-142.
+
+	|76.  Mura~: dei monasteri.  -- |Badia~: stanza di uomini
+buoni e devoti.
+
+	|77.  Spelonche~: ^Matt.~ XXI, 13: ^Domus mea domus
+orationis vocabitur: vos autem fecistis illam speluncam
+latronum.~  Jerem. VII, 11: ^Numquid ergo spelunca latronum facta
+est domus ista, in qua invocatum est nomen meum, in oculis
+vestris~?  -- Verso l'anno 1160 ^Petrus Blesensis~ (^ep. 68 ad
+Alexandrum III~, in ^Bibl. PP. Lugd.~ XXIV, 988) scriveva:
+^Evacuatum est obedientiae jugum, in qua erat unica spes salutis,
+et praevaricationis antiquae remedium.  Detestantur Abbates habere
+suorum excessuum correctorem, vagam impunitatis licentiam
+amplectuntur, claustralisque militiae jugum relaxant in omnem
+desiderii libertatem.  Hinc est, quod monasteriorum fere omnium
+facultates datae sunt in direptionem et praedam.  Nam Abbates
+exterius curam carnis in desideriis agunt, non curantes, dummodo
+laute exhibeantur, ut fiat pax in diebus eorum: claustrales vero,
+tamquam acephali, otio vacant et vaniloquio: nec enim praesidem
+habent, qui eos ad frugem vitae melioris inclinet.  Quodsi
+tumultuosas eorum contentiones audiretis, claustrum non multum
+differre crederetis a foro.~  -- |Cocolle~: vesti monacali; lat.
+^cucullus~, cfr. ^Parad.~ IX, 78 nt.
+
+	|78.  Piene~: in sostanza: Le cappe monacali ricuoprono
+dei bricconi.  ^Buti~: Le cappe de' monaci son piene di malvage
+anime e peccatrici, piene di mali pensieri e di mala volont@a.  E
+come dalla mala farina esce mal pane; cos@i de le male volontadi,
+che sono nei monaci, escono male operazioni; li quali monaci per
+l'abbondanzia dei beni temporali diventano oziosi e viziosi.  E
+per@o il pigliare pi@u che non @e bisogno al viver virtuosamente, @e
+loro grave pi@u, che non @e l'usura che si piglia contra 'l piacere
+di Dio.
+
+	|79-81.  Tolle~: insorge contro, si ribella.  Sulla forma
+|tolle~ cfr. ^Inf.~ XXIII, 57; ^Parad.~ VI, 57; XVIII, 33;
+^Nannuc.~ ^Anal. crit.~, p. 701 e seg.  Il senso di questa
+terzina @e indubbio: <Tanto non dispiace a Dio la grave usura,
+ch'@e peccato contro a natura, quanto gli dispiace la vita moderna
+dei monaci>, come parafrasa l'^Ott.~, seguendo il ^Lan.~  Sul
+costrutto ^Todesch.~ (^Scritti su D.~, II, 431 e seg.): <Spiega
+il ^Lomb.~ (e noi aggiungeremo che dal ^Lomb.~ in poi molti
+spiegano essenzialmente cos@i): ^Quanto quel reo frutto, che il
+cuore de' monaci~ s@i folle, ^s@i impervertito~, fa, ^cio@e
+produce.~  Costruzione e sposizione false.  Dovea dire
+l'interprete, che cosa fosse questo frutto, che viene prodotto
+dal cuore de' monaci.  Ma il fatto @e, che il |frutto~ @e il
+nominativo della proposizione, e |il folle cuore de' monaci~ @e
+l'accusativo.  L'usura, dice Dante, non dispiace tanto a Dio,
+quanto gli @e discaro quell'interesse, quell'amor degli averi, che
+rende s@i folle il cuore de' monaci.  Perch@e poi sia detto, che
+l'amor della roba conduca i monaci fuori affatto del senno, ne
+spiega la ragione il terzetto seguente, dov'@e dichiarato, che
+quanto possedono i monasteri (soddisfatto il bisogno della Chiesa
+e de' monaci) @e cosa de' poveri; d'onde ne viene, che i monaci
+sieno folli nell'attaccare l'animo loro a ci@o, che loro non
+appartiene....  |Frutto~ @e sinonimo d'^interesse~ nel significare
+il merito, che si ritrae dai denari prestati.  E posto, che le
+due parole si scambiano talvolta l'una con l'altra, Dante in
+questo luogo pose |frutto~ in cambio d'^interesse~, preso nel
+significato di amor dell'avere, di attaccamento alla roba.>  Del
+resto questa @e essenzialmente l'antica interpretazione (^Buti~,
+^Land.~, ^Vell.~, ^Dan.~, ecc.).  Alessandro III in una sua
+decretale: ^Quod monachi, abbates et priores accipiunt, gravius
+est usura.~
+
+	|82-84.  Guarda~: tiene in deposito.  Senso: Perciocch@e
+tutto ci@o che la Chiesa serba, appartiene ai poveri, non gi@a ai
+parenti degli ecclesiatici, od ai loro bastardi, meretrici e
+simili.  San Bernardo, ^Declamat.~ XVII: ^Sane patrimonia sunt
+pauperum facultates ecclesiarum, et sacrilega eis crudelitate
+surripitur quicquid sibi ministri et dispensatores, non utique
+domini vel possessores, ultra victum accipiunt e vestitum.~ 
+Sant'Agostino, De correct. Donat. ad Bonifac. Epist. 185: ^Quae
+tamen, si pauperum compauperes sumus, et nostra sunt et illorum;
+si autem privatim, quae nobis sufficiunt, possidemus, non sunt
+illa nostra sed pauperum, quorum procurationem quodammodo
+gerimus, non proprietatem nobis usurpatione damnabili
+vindicamus.~  Il ^Lan.~ e l'^Anon. Fior.~: L'avere che possiede
+la Chiesa s@i @e degli poveri elemosinanti, e non dei parenti de'
+pastori, n@e di femmine del mondo, ch @e pi@u brutto.  Ond'@e da
+notare che non senza peccato i pastori ecclesiastici molte volte
+distribuiscono gli beni della Chiesa a' proprj parenti, o in
+disonesto modo.  ^Benv. Ramb.~: Questo passo riguarda il cos@i
+detto Nepotismo: e di certo in ci@o non seguono le vestigia di
+Cristo, il quale non ebbe parenti che non fosser santi,
+somigliano essi le macchine che da vicino scagliano enormi massi,
+da lontano piccolissimi.  Cfr. ^Parad.~ XII, 93: Non ^decimas quae
+sunt pauperum Dei~ Addomand@o.  -- |D'altro~: non allude alle
+<disordinate spese nelli bruti animali> (^Ott.~), ma a tali
+altri, dei quali il tacere @e bello.
+
+	|85.  Blanda~: arrendevole alle seduzioni e lusinghe. 
+^Buti~: tanto lusinghevole alla ragione, che la inganna.
+
+	|86.  Non basta~: non dura.  La pianta germogliata
+inaridisce prima che metta frutto.  ^Lan.~ e ^Anon. Fior.~: Qu@i
+redargue san Benedetto gli mondani, gli quali si lasciano tanto
+vincere alle sensualitadi, che a loro non fa prode alcuno
+ammaestramento; e mostralo in questo modo: che non @e giovato a
+molte regole avere avuto buon pastore e principio, imper@o che
+sono rimossi per alterazioni tanto da esso, che hanno essere
+tutto lo contrario; ed @e tal diversit@a in picciol tempo; e dicelo
+nel testo, ch'@e in men tempo che non @e dal nascere di quello
+$albore nome quercia, infino al suo fruttare che @e anni venti.
+
+	|88.  Pier~: non, Pier Damiano (^Benv. Ramb.~, ^Vell.~,
+ecc.), ma Pietro l'Apostolo (^Lan.~, ^Ott.~, ^Buti~, ^Land.~,
+^Vent.~, ^Lomb.~, ecc.).  Allude alle parole di Pietro, ^Act.~
+III, 6: ^Argentum et aurum non est mihi~, dette per l'appunto
+quando l'Apostolo |cominci@o~ a predicare il Vangelo.  Inoltre,
+osserva ^Lomb.~, il buon ordine di parlare importa che, siccome
+san Benedetto fu anteriore a san Francesco, cos@i il Pietro in
+primo luogo menzionato anteriore fosse a san Benedetto, e non
+posteriore, come lo fu di molti secoli Pier Damiano.  --
+|Cominci@o~: il suo uffizio, cio@e la predica del Vangelo di
+Cristo.
+
+	|90.  Convento~: adunanza.  Voce e profana e sacra, di
+senso allora pi@u ampio: ora s'@e chiusa ne' chiostri, e neppure di
+tutti i frati.  ^Tom.~
+
+	|91.  Il principio~: ^S. Cr.~, ^Berl.~, ^Caet.~, ^Cass.~,
+^Fram. Pal.~, ^Vien.~, ^Stocc.~, ecc.; prime 4 edd., ^Witte~,
+ecc.; ^Benv. Ramb.~, ecc.  ^Al principio~: ^Vat.~, ^Cort.~, ecc.;
+^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Sessa~, ^Crus.~, ecc.  --
+|Di ciascuno~: dei tre santi personaggi or'ora nominati.
+
+	|92.  Trascorso~: nei successori e discepoli.
+
+	|93.  Fatto bruno~: le virt@u trasmutate nei contrarj
+vizii.  ^Lan.~, ^An. Fior.~: Li prelati, che seguono a santo
+Piero, hanno tutto loro intento a possedere ricchezze mondane;
+gli monaci, che seguono a santo Benedetto, sono disposti ad ogni
+disordinata vita; de' frati dell'ordine di santo Francesco @e
+notorio la sua umiltade, che, secondo la sentenza, vel opinione,
+di papa Bonifazio, in essi regna superbia e ipocrisia.  ^Ott.~:
+Qu@i mostra li buoni principj e li mali seguiti, dicendo: san
+Piero, primo papa, cominci@o senza oro; li successori sono
+tesaurizzanti in terra.  Io Benedetto con orazioni e con digiuno,
+voi neri e bianchi monaci seguitate con ozio e con ghiottornie, e
+delettazioni mondane.  San Francesco con umiltade, li successori
+con superbia.
+
+	|94-96.  Veramente~: sopra questa terzina ci vorrebbe una
+lunga dissertazione, disputabile essendone la lezione ed il
+senso.  Astrazion facendo da alcune differenze subordinate, come
+^fatto retrorso~ invece di |v#olto retrorso~ in questo verso, ed
+altre nei due seg., abbiamo due lezioni diverse, che vogliono
+essere prese in considerazione e che danno un senso tutto
+diverso.  La lezione da noi accettata @e dei codd. ^Cass.~,
+^Vien.~, ^Stocc.~, ^Ang.~, ^Pat. 9, 67~, tutti i ^Puccian.~ meno
+5 e 6, ^Riccard. 1025, 1027, 1031~, 4 ^Corsin.~, ecc.; ^Folig.~,
+^Jesi~ (nel v. 95: ^Pi@u fu il mar fuggir~, come ^Sessa~, ^De Rom.
+1810~, ed altri; lezione derivata dall'aver letto l'^El~ dei
+codd.  -- ^il~ invece di |e 'l~) ^Nap.~, ^Nidob.~, ^Sessa~, ^De
+Rom. 1816 e 1822~, ^Ed. Pad.~, ^Viv.~, ^Sicca~, ^Quattro Fior.~,
+^Fosc.~, ^Mauro Ferr.~ (fatto retrorso), ^Fanf.~, ^Giul.~, ecc.;
+^Lan.~, ^Anon. Fior.~, ^Post. Cass.~, ^Falso Bocc.~, ^Benv.
+Ramb.~, ^Vell.~, ^Lomb.~, ^P. A. di Costanzo~, ^Portir.~,
+^Parenti~, ^Ces.~, ^Borghi~, ^Tom.~, ^Frat.~ (volger retroso),
+^Brunet.~, ^Greg.~, ^Andr.~, ^Triss.~, ^Bennas.~, ^Cam.~,
+^Franc.~ (volger retroso), ^Cappel.~, ^L. Vent.~, ecc. 
+Gl'interpreti citati vanno d'accordo nel prendere |Veramente~ al
+senso del lat. ^verumtamen~ -- nondimeno ecc., come pi@u volte nel
+Poema.  Ma essi differiscono poi nella spiegazione del senso, chi
+vedendo accennato un solo fatto, chi due.  Leggendo al v. 95:
+^Pi@u fu il mar fuggir~ il ^Vell.~ ordina e spiega: <Siccome il
+Giordano correva prima al mare, voltando il suo corso a ritroso,
+lo venne a fuggire.  Per@o ordina cos@i: Veramente fu pi@u mirabil a
+veder Giordano, volto retroso fuggir il mare, quando volse Dio,
+che qu@i il soccorso; volendo inferire, che maggior miracolo fu a
+veder tornar questo fiume a dietro, che non sar@a a veder il
+soccorso che verr@a da Dio per rimediare alla scellerata vita de'
+religiosi.>  Cos@i ^Lomb.~, ^Costa~, ^Wagn.~, ecc.  La gran
+maggioranza degli editori ed espositori citati legge al v. 95
+^Pi@u fu, e il mar fuggir~, intendendo di due fatti e spiegando:
+Vero @e, che fu cosa pi@u mirabile a vedere il Giordano rivolto
+all'indietro ed il Mar Rosso quindi e quinci ritrarsi al comando
+di Dio, che non sarebbe il veder recato soccorso a questi mali
+della Chiesa.  Giova riferire le principali chiose degli antichi. 
+^Lan.~ e ^Anon. Fior.~: Or qu@i vuole mostrare come Iddio ha gi@a
+fatti maggior miracoli e vendette, che non sarebbe a punire
+questi peccati, s@i come fue quando s'aperse lo mare, e anneg@o
+Faraone e gli Egizj, s@i com'@e scritto ^Exodos XIV~; e quando fece
+Jordan, ci@o @e quello fiume, correre in suso; ^Josue~ III.  |Che
+qu@i 'l soccorso~, ci@o @e la vendetta.  Nota che la vendetta @e
+soccorso al mondo del peccato; ch@e, se non si soccorresse colle
+vendette, monterebbe tanto lo peccato che 'l furor di Dio e la
+sua ira annichilirebbono lo mondo.  ^Post. Cass.~: Arguit hic
+contra dictos pravos religiosos dicendo: Si Jordanum fecit Deus
+regredi ad suum fontem, et si Deus divisit Mare rubrum, quod fuit
+valde miraculosum, quanto magis miraculose poterit adhibere
+succursum in praedictis.  ^Falso Bocc.~: Fu ancora maggior fatto,
+quando Iddio aperse il Mar Rosso quando Mois@e pass@o col popolo di
+Dio, e Faraone seguendo gli si richiuse il mare addosso e anneg@o
+con tutta la sua gente, cio@e quattro cento migliaja.  Ancora fu
+maggior fatto, quando Iddio fece tornare il fiume Giordano in
+suso di Giosu@e.  Dice san Benedetto che questi furono maggior
+miracoli che non sarebbe a far profondare tutti questi rei
+pastori di santa Chiesa.  ^Benv. Ramb.~: Vult dicere Benedictus,
+quod miraculosius fuit Jordanem converti retrorsum, et mare
+rubrum aperiri per medium, quam si Deus succurreret et provideret
+istis malis.  Ratio est quod utrumque praedictorum miraculorum
+fuit contra naturam: sed punire reos et nocentes naturale est et
+usitatum, quamvis Deus punierit peccatores Aegyptios per modum
+inusitatum supernaturaliter.  |Veramente Jordan~, sic nominatur a
+duobus fontibus, quorum unus vocatur ^Jor~, et alius vocatur
+^Dan.~; inde ^Jordanus~, ut ait Hyeronimus, locorum orientalium
+persedulus indagator; |el mare fuggire~, idest, et mare rubrum
+fugere hinc inde quando fecit viam populo Dei, qui transivit
+sicco pede: |fu pi@u mirabile a vedere~, idest miraculosius |che
+'l soccorso qu@i~, idest, quam esset mirabile succursum divinum
+hic venturum ad puniendos perversos.  Essenzialmente cos@i: ^P. A.
+di Costanzo~, ^Portir.~, ^Parenti~, ^Ed. Pad.~, ^Ces.~, ^Borg.~,
+^Tom.~, ^Br. B.~, ^Frat.~, ^Brunet.~, ^Greg.~, ^Andr.~, ^Triss.~,
+^Bennas.~, ^Cam.~, ^Franc.~, ^Cappel.~, ^L. Vent.~, ecc.  Cos@i
+pure l'antico traduttore ^Febrer~, il quale tradusse:
+
+     E verament Jordan tornar retor$c
+     El mar fugir fo mes, quand Deu volgu$e,
+     Miracle $a veure, que a$ci lo soccors.
+
+Altri poi leggono la terzina nel modo seguente:
+
+     Veramente Giordan v#olto @e retrorso!
+     Pi@u fu il mar fuggir, quando Dio volse,
+     Mirabile a veder, che qui il soccorso.
+
+Cos@i ^W. 4~ (?), ^Pat. 2, 316~, ecc.; ^Mant.~, ^Ald.~,
+^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~, ^Missir.~, ^Comin.~,
+^Dion.~, ^Pezzana~, ^Witte~, ecc.; ^Ott.~ (?), ^Buti~, ^Land.~,
+^Dan.~, ^Dol.~, ^Vol.~, ^D'Aq.~, ^Vent.~, ^Pogg.~, ^Biag.~,
+^Mart.~, ^Giober.~, ecc.  Udiamone l'interpretazione.  ^Ott.~:
+Reca qu@i la Scrittura del Salmo (CXIII,3), la quale dice: ^E tu,
+fiume Giordano, se' convertito col diritto corso tuo indietro.~ 
+E soggiugne, che pi@u maravigliosa cosa fu a vedere aprire il mare
+rosso dinanzi a Mois@e conducente il popolo di Dio, e fuggente
+d'Egitto dinanzi a Faraone, che non fia vedere il soccorso che
+Dio mander@a a questa perdente gente.  Non dice il modo; alcuno
+dice, vendicando; alcuno dice, con migliori pastori correggendo. 
+^Buti~: Tanto sono mutati dal suo principio li prelati della
+Chiesa, li monaci e li frati minori, che veramente si pu@o dire
+che siano volti a drieto, come 'l fiume Jordano, quando pass@o lo
+popolo di Dio in terra di promissione si ritorn@o verso la sua
+fonte e lasci@o lo fondo asciutto al passaggio del popolo di
+Dio.....  Ed aggiunge la speranza del rimedio, che Iddio porr@a a
+questi cos@i rivolti, ecc.  Cos@i pure ^Land.~  Il ^Dan.~: Ci@o @e,
+che tutte le cose vanno al contrario di quello, che elle
+doverebbero andare; et risponde a quel detto di sopra: ^Tu
+vederai del bianco fatto bruno~ {v.93} ecc.  ^Vent.~: Tutte le
+cose vanno al contrario di quello, che andar dovrebbono; pone qu@i
+il Giordano per il popolo cristiano, o per il Clero e Stato
+ecclesiastico, e per gli Ordini regolari.  ^Pogg.~: Tutte le cose
+in questi infelici tempi vanno a rovescio di quello dovrebbero
+andare; perocch@e, laddove il fiume Giordano torn@o un giorno
+indietro per dar libero passaggio pel suo alveo al popolo di Dio,
+al contrario le sante instituzioni sono oggi intese, e praticate
+a rovescio, per dar libero sfogo alle passioni.  Per dare un
+simil libero passo agl'Israeliti anche il Mar rosso si ritir@o; ma
+per i suoi imperscrutabili fini fu pi@u Iddio allora liberale de'
+suoi prodigj col far ritirare il mare, di quello che lo sia
+oggid@i nel dar soccorso alla Chiesa da tanti abusi, e disordini
+sconcertata.  ^Biag.~, dopo avere premessa, secondo il suo
+solito, una bambinata contro il ^Lomb.~: A noi pare che adoperi
+il Poeta a modo di proverbio questa sentenza: ^Vermente Giordan
+v#olto @e retrorso~, in senso di: ^Veramente le cose vanno a
+rovescio~! ovvero, ^Veramente quel dinanzi va a quel dirietro~! 
+Il sentimento del rimanente s'ordina cos@i: Ma sappi che il mar
+fuggire, quando Dio cos@i volle, fu cosa pi@u mirabile a vedere,
+che non sar@a mirabil cosa a veder qu@i il soccorso.  ^Witte~ va
+d'accordo, pur concedendo che la terzina ha le sue difficolt@a e
+che la lezione da noi accettata ha altrettanto fondamento che
+quella da lui preferita.  Dal canto nostro ci avvisiamo che basta
+leggere le diverse interpretazioni per convincersi che la nostra
+lezione @e la migliore.  Inquanto all'autorit@a essa ha il sostegno
+di moltissimi ottimi codd., della maggioranza delle antiche
+edizioni e di quasi tutti i primitivi espositori.  Tranne
+l'^Ott.~, del quale per altro @e difficile dire come leggesse,
+tutti gli antichi lessero come leggiamo noi (^Petr. Dant.~
+osserva silenzio; cos@i anche il ^Postill. Fram. Pal.~ che legge:
+<Veramente Giordan volto e ritrorso Pi@u fu il mar a fuggir quando
+Dio volse>), ed il ^Buti~ @e il primo espositore nel quale
+troviamo la lezione della Crusca.  L'autorit@a del ^Lan.~, ^Anon.
+Fior.~, ^Postill. Cass.~, ^Falso Bocc.~, ^Benv. Ramb.~, ecc.
+dovrebbe pur valere qualche cosa.  Tanto pi@u nel nostro caso,
+dove il contesto esige apparentemente la interpretazione data da
+questi antichi interpreti e dai loro seguaci.  Il concetto @e: Nei
+monasteri le cose vanno a rovescio (v. 91 e seg.): ma quel Dio
+che fece ritornare indietro le acque del Giordano verso la sua
+sorgente @e forte da ricondurre i traviati alla pristina povert@a,
+austerit@a ed umilt@a; il male, la corruzione @e grande: ma quel Dio
+che fece fuggire il mare @e potente per distruggere il male. 
+Accettando invece la lezione della Crusca ne nascono parecchi
+inconvenienti.  Che le cose vanno a rovescio @e detto con tutta
+chiarezza nel v. 93; quindi se nel v. 94 il Poeta vuol dire lo
+stesso, questo verso non sarebbe che una inutile ripetizione.  E
+sarebbe un modo un po' bizzarro di esprimersi, per dire che le
+cose vanno a rovescio di quello che dovrebbero andare, il dire:
+Il Giordano @e veramente v#olto retrorso!  Proprio da Dante!  N@e si
+dica che il Poeta fa qu@i un paragone: Come il Giordano si rivolse
+all'indietro, cos@i gli Ordini monastici hanno preso una direzione
+opposta a quella de' loro fondatori (^Witte~).  Il paragone
+sarebbe infelicissimo; poich@e, dicendo il Poeta espressamente
+che, rivolgendosi all'indietro, il Giordano ubbidi al volere di
+Dio, si potrebbe, anzi dovrebbe inferirne, che anche la
+corruzione dei monasterii era voluta da Dio!  E quanto
+stravagante deve sembrare l'applicazione dei due miracoli
+menzionati dal Poeta, qu@i alla degenerazione del monachismo, l@i
+alla divina potenza!  Non sono ambedue prove manifeste della
+potenza di Dio?  I ^Quattro Fior.~, II, 280 aggiungono: <Oltre a
+ci@o @e a considerarsi col ^Lomb.~, che leggendosi come la ^Crus.~
+e l'edizioni seguaci della medesima: ^Veramente Giordan v#olto @e
+retrorso~ ecc. non solo ne nasce l'inconveniente di rimanersene
+affatto staccati ed in aria i due seguenti versi, ma vi si
+aggiunge anche l'altro, che superfluamente e stucchevolmente,
+dopo toccato il retrocedere del Giordano, tralascerebbesi questo,
+e ricercherebbesi il mirabile in altro non maggiormente mirabile
+prodigio, ecc.>  -- Ma come si fa dunque a spiegare la lezione
+della ^Crus.~, che @e pure di ottimi codd.?  In modo assai
+semplice.  Qualche amanuense prese il secondo |o~ di |volto~ per
+un ^e~, e lesse ^uolte~ -- ^volt'@e~; nel v. 95 poi e' trovava nel
+suo cod. ^el mar~, e prese ^el~ per articolo, invece di leggere
+|e 'l mar.~  @E verissimo che la cosa potrebbe anco essere ita
+viceversa; ma le ragioni accennate mostrano che quella da noi
+accettata @e la vera lezione; quindi da essa deve essere derivata
+l'altra.  Sui due fatti ai quali accenna il Poeta cfr. ^Esodo~
+XIV, 21-29; ^Giosu@e~ III, 14-17.  Di |volse~ per ^volle~ cfr.
+^Purg.~ VIII, 66; ^Nannuc.~, ^Anal. crit.~, p. 770.  La lezione
+^udir~ nel v. 96 (^Vat.~, ecc.; ^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovil.~, ^Sessa~, ecc. ma non ^De Rom.~, come asseriscono gli
+edit. del ^Cod. Cass.~ e lo ^Scarab.~) @e da considerarsi come
+errore di chi, copiando, scrisse ^udir~ invece di ^ueder.~
+
+	|97-111.~  ^Salita da Saturno al Cielo stellato.~  Dopo
+aver deplorata la corruzione dei monasterii ed accennato alla
+divina potenza che, volendo, pu@o rimediarvi miracolosamente,
+l'anima di san Benedetto si riunisce alla sua compagnia, e questa
+rapidamente s'invola, levandosi in alto.  Dietro a quei Beati
+spinge Beatrice con un cenno il Poeta su per la mirabile scala. 
+In un batter d'occhio e' si trova esser salito nel cielo delle
+Stelle fisse.  Del qual Cielo cos@i discorre nel ^Conv.~ II, 15:
+<Il Cielo stellato si pu@o comparare alla ^Fisica~ per tre
+propriet@a, e alla ^Metafisica~ per altre tre; ch'ello ci mostra
+di s@e due visibili cose, siccome le molte stelle, e siccome la
+Galassia, cio@e quello bianco Cerchio, che il vulgo chiama la ^Via
+di Santo Jacopo~; e mostraci l'uno de' poli, e l'altro ci tiene
+ascoso: e mostraci un solo movimento da Oriente a Occidente, e un
+altro, che a da Occidente a Oriente, quasi ci tiene
+ascoso........  Per lo Polo che vedemo significa le cose
+sensibili, delle quali, universalmente pigliandole, tratta la
+Fisica; e per lo Polo che non vedemo significa le cose senza
+materia, che non sono sensibili, delle quali tratta la
+Metafisica; e per@o ha il detto Cielo grande similitudine coll'una
+scienza e coll'altra.  Ancora per li due movimenti significa
+queste due scienze; ch@e per lo movimento pel quale ogni d@i si
+rivolve, e fa nuova circulazione di punto a punto, significa le
+cose naturali corruttibili, che cotidianamente compiono lor via,
+e la loro materia si muta di forma in forma; e di queste tratta
+la Fisica.  E per lo movimento quasi insensibile, che fa da
+Occidente in Oriente per un grado in cento anni, significa le
+cose incorruttibili, le quali ebbero da Dio cominciamento di
+creazione, e non averanno fine; e di queste tratta la Metafisica. 
+E per@o dico che questo movimento significa quelle, ch@e essa
+circulazione cominci@o, e non potebbe aver fine; ch@e fine della
+circulazione @e redire a uno medesimo punto, al quale non torner@a
+questo Cielo, secondo questo movimento.  Ch@e dal cominciamento
+del mondo poco pi@u che la sesta parte @e v#olto; e noi siamo gi@a
+nell'ultima etade del secolo, e attendemo veracemente la
+consumazione del celestiale movimento.  E cos@i @e manifesto che 'l
+Cielo stellato, per molte propriet@a, si pu@o comparare alla Fisica
+e Metafisica.>
+
+	|98.  Collegio~: compagnia, riunione; cfr. ^Inf.~ XXIII,
+91; ^Purg.~ XXIV, 129; ^Parad~, XIX, 110.  -- |Si strinse~: si
+riun@i.
+
+	|99.  Come turbo~: roteando come vento turbinoso.  O
+forse per |turbo~ il Poeta intese qu@i al modo latino il paleo,
+conforme a quel di Virgilio ^Aen.~ VII, 379:
+
+     ^Ceu quondam torto volitans sub verbere turbo.~
+
+La stessa immagine ^Parad.~ XVIII, 41. 42.  -- |Tutto in su
+s'accolse~: ^S. Cr.~, ^Cass.~, ^Landian.~, ^Witte~, ecc.  ^In su
+tutto s'accolse~: ^Nidob.~, ^Crus.~, ^Comin.~, ^Dion.~, ^De
+Rom.~, ^Ed. Pad.~, ^Pezz.~, ^Sicca~, ^Quattro Fior.~, ^Fosc.~,
+^Mauro Ferr.~, ^Fanf.~, ^Giul.~, ecc.; ^Dol.~, ^D'Aq.~, ^Vent.~,
+^Lomb.~, e quasi tutti i moderni.  ^Tutto in s@e s'accolse~:
+^Vat.~, ^Berl.~, ^Caet.~, ecc.; ^Mant.~, ^Ald.~, ^Burgofr.~,
+^Giol.~, ^Rovil.~, ^Sessa~, ^Missir.~, ^Dan.~, ecc.  ^In s@e tutto
+s'accolse~: ^Fram. Pal.~, ecc., ^Folig.~, ^Jesi~, ^Nap.~, ^Buti~,
+^Land.~, ^Vell.~, ecc.  ^In su tutto s'avvolse~: ^Vien.~,
+^Stocc.~, ^Cort.~, ^Pat. 2, 9, 67~, ^Pucc. 1, 2, 3, 10~, ecc.;
+^Benv. Ramb.~, ^Viv.~, ^Scarab.~, ecc.  Gli Accademici del 1595:
+Ci pare che 'l Poeta esprima tre azioni, dicendo: ^Indi si
+ricolse al collegio; e 'l collegio si strinse insieme; e poi
+roteando si sollev@o tutto insuso~; e le parole seguenti lo ci
+dimostrano. ^Viv.~: ^S'avvolse~ specifica di pi@u la natura del
+turbine che non |s'accolse~; per lo che assai pi@u pittoresca @e
+l'immagine che si risveglia colla nostra lettura.  Il ^Febrer~
+traduce:
+
+     Puys, com un trob, en si tot se 'n volgu$e.
+
+Il ^s@e~ non ci sembra che possa stare; |s'accolse~ e ^s'avvolse~
+la scelta non @e facile.
+
+	|100.  Donna~: Beatrice.  ^Biag.~: La chiama |dolce~ a
+dimostrare ch'@e tutto dolcezza e soavit@a l'imperio di lei.
+
+	|102.  Natura~: la natural gravit@a del mio corpo.  ^Benv.
+Ramb.~: elev@o, sublim@o la mia natura per s@e stessa incapace. 
+^Buti~: E per questo d@a ad intendere che egli per sua natura non
+sarebbe potuto montare la detta scala dirieto ai detti beati
+spiriti, se non fusse la virt@u de la santa Teologia che ammaestr@o
+lo ingegno suo, sicch@e con esso mont@o di rieto a loro,
+immaginando e contemplando tale montamento (?).
+
+	|103-104.  N@e mai~: molti punteggiano:
+
+     N@e mai quaggi@u, dove si monta e cala,
+     Naturalmente fu s@i ratto moto, ecc.
+
+e spiegano: N@e mai quaggi@u in terra tra noi, dove si sale e
+discende, fu moto naturalmente s@i veloce che si potesse
+agguagliare al mio volo.  Meglio gli antichi; ^Benv. Ramb.~: N@e
+mai cos@i veloce movimento si vide nel mondo, dove si sale o
+scende secondo le norme di gravit@a, che potesse uguagliarsi al
+mio volo.  ^Buti~: Nel mondo, dove si sale e scende
+|naturalmente~, cio@e secondo natura; imper@o che in Cielo si monta
+per grazia, che @e cosa sopra natura.  ^Fanf.~ (^Stud. ed
+Osserv.~, p. 133 e seg.): La virgola, a senno mio, non va dopo
+|cala~ ma dopo |naturalmente~: e allora vien ben ben aperto il
+concetto di Dante: <La donna mi pinse su per quella scala con un
+sol cenno; n@e quaggi@u dove si monta e cala naturalmente, vi fu
+mai e non si ha idea di moto s@i ratto.>  Altrimenti che suona
+quel |dove si monta e cala~? e se il moto non ci @e si ratto
+|naturalmente~ ci pu@o egli esser tale ^soprannaturalmente~?  --
+^L. Vent.~ ^Simil.~ p. 302: Sale il Poeta con Beatrice al cielo
+delle stelle fisse; e questa ascensione egli spiega con una
+similitudine levata anch'essa dall'idea del volo; bene
+appropriata, inquanto, uscito fuor de' pianeti, ei muove al cielo
+stellato pei campi sublimi della contemplazione.
+
+	|105.  Ala~: al mio volare.  ^Buti~: E bene dice |a la mia
+ala~, imper@o che l'ale con che si monta mentalmente sono due,
+cio@e la ragione che @e l'ala sinistra, e lo intelletto che @e l'ala
+destra: al cielo stellifero, ottava spera, non si pu@o montare
+coll'ala della ragione, che non apprende se non natural
+montamento; ma coll'ala dello intelletto, che apprende per grazia
+data da Dio le cose sopra natura.
+
+	|106.  S'io torni~: ottativo: cos@i possa io ritornare. 
+-- |Lettore~: Dante interpella spesso il suo lettore per eccitare
+la sua attenzione; cinque volte nell'^Inferno~ VIII, 94; XVI,
+128; XX, 19; XXV, 46; XXXIV, 23; sette volte nel ^Purgatorio~,
+VIII, 19; IX, 70; X, 106; XVII, 1; XXIX, 98; XXXI, 124; XXXIII,
+136; quattro volte nel ^Paradiso~, qu@i e V, 109; X, 7 e 22. 
+Questa @e l'ultima volta che al lettore si volge, quasi per fare
+dialogo anche con lui nel ^Poema sacro.~
+
+	|107.  Trionfo~: a quelle allegrezze del Paradiso. 
+^Lan.~, ^Anon. Fior.~  Al Cielo dove trovasi la Chiesa
+trionfante.  ^Benv. Ramb.~  Triunfo @e allegrezza di vittoria
+avuta sopra i nimici; e veramente la gloria di Paradiso si pu@o
+chiamare triunfo; imper@o che triunfano li beati della vittoria
+avuta contra 'l dimonio, contra 'l mondo e contra la carne. 
+^Buti.~  -- |Per lo qual~: per conseguirlo.
+
+	|108.  Peccata~: peccati; cfr. ^Inf.~ V, 9; ^Purg.~XVI,
+18; ^Parad.~ XVII, 33 nt.  -- |Percuoto~: segno di penitenza:
+cfr. ^Luc.~ XVIII, 13.
+
+	|109.  Tratto~: la celerit@a dell'ascensione @e espressa
+con una similitudine non meno semplice che originale.  Si noti
+come il Poeta dice prima |tratto~, e poi |messo~, il dito.  Non @e
+senza avvedimento questa inversione di atto naturale, perch@e egli
+@e cos@i istantaneo che il prima e il poi sono un punto solo: anzi,
+se fosse possibile l'immaginarlo, il mettere @e pi@u rapido del
+trarre.  Cfr. ^L. Vent.~ ^Simil.~ 486, p. 298.
+
+	|110.  Il segno~: la costellazione de' Gemini, che @e
+prima dopo quella del Tauro.  Cfr. ^Philalethes~, Appendice al
+presente Canto.
+
+	|112-123.~  ^Allocuzione al segno dei Gemini.~ 
+Ricordandosi di esser nato sotto quella costellazione, e
+riconoscendo dall'influenza di lei quanto ha d'ingegno,
+egualmente che quanto di bene gli accade, Dante ne invoca la
+sperimentata virt@u perch@e gli giovi a descrivere la parte pi@u
+difficile che del ^Poema sacro~ gli resta.  Cfr. ^Barlow~,
+^Contrib.~, p. 505 e seg.  Questo passo @e di qualche importanza
+per istabilire approssimativamente il giorno della nascita di
+Dante.  Da parecchi luoghi delle sue opere, come pure per
+testimonianza degli antichi suoi biografi e commentatori,
+sappiamo che e' nacque a Firenze nell'anno 1265.  Cfr.
+^Scartazzini~, ^Abhandlungen ,uber D. A.~ I, 1, p. 54-97.  Ejusd.
+^Dante in Germania~, P. I, Mil. 1881, p. 298 e seg.  Qu@i egli ci
+dice, che nel giorno della sua nascita il Sole trovavasi nella
+costellazione de' Gemelli.  Or quando entrava il Sole ne' Gemelli
+l'anno 1265?  L'opinione universale @e, che vi entrasse nel d@i 14
+di maggio; cfr. ^Pelli~, ^Memorie~, p. 57; ^Fraticelli~, ^Vita di
+D.~, p. 53 e seg., ecc.  Ultimamente ^Francesco Labruzzi~
+(^Quando nacque Dante Alig.~ nel ^Propugnatore~ di Bologna, Tom.
+X, P. II, p. 6 e seg.) combatt@e questa opinione.  Noi non abbiamo
+modo di decidere la quistione, n@e qu@i @e il luogo di esaminarla. 
+Bens@i vogliamo riferire le parole del ^Labruzzi~, perch@e
+illustrano in pari tempo i presenti versi.  Il ^Labruzzi~ dunque
+scrive: <Chiunque abbia qualche cognizione, anche leggerissima,
+di astronomia, non pu@o ignorare come fin dai tempi d'Ipparco,
+astronomo greco del primo secolo avanti Cristo, si conoscesse la
+precessione degli equinozi, cio@e il movimento generale degli
+astri, i quali pur conservando la posizione rispettiva, si
+avanzano del continuo d'occidente in oriente; donde viene che i
+segni dello Zodiaco non corrispondono pi@u alle loro
+costellazioni.  Che l'Alighieri sapesse benissimo di questo
+avanzare delle costellazioni mi si conceder@a facilmente; poich@e
+non @e a supporsi, senza fare grandissima onta a quel sommo
+ingegno, ch'egli ignorasse cosa da parecchi secoli gi@a cognita, e
+che si atteneva a scienza di cui egli sapeva quanto ne era. 
+Oltre questa ragione generale fanno fede di ci@o parecchi passi
+del Poema, e meglio anche di essi, quello in sul principiare
+della ^Vita Nuova~, in cui volendo egli indicare l'et@a ch'aveva
+Beatrice quando prima apparve a' suoi occhi, dice che <ella era
+gi@a in questa vita stata tanto, che nel suo tempo lo cielo
+stellato era mosso verso la parte d'oriente l'una delle dodici
+parti di un grado.>  Prova questa certa, positiva, diretta
+ch'egli conosceva perfettamente il movimento della <stellata
+spera da occidente ad oriente> come dichiara egli stesso nel tr.
+II del ^Conv.~  Ora mi si permetta dimandare: Con i presenti
+versi, a chi dobbiamo credere noi che Dante accennasse? alla
+costellazione de' Gemini ovvero al segno di essa?  Credo che la
+risposta, venisse pure da cento diverse persone, non potrebbe
+essere varia; credo che tutti, senza punto di dubbio,
+concordemente risponderebbero che non al segno ma ad essa proprio
+la costellazione si rivolgesse il Poeta.  Infatti, per essa egli
+allora transitava, continuando il suo celeste pellegrinaggio; con
+lei si volgeva; la luce di lei lo illuminava, e da lei, e non da
+un punto dello spazio ov'essa erasi trovata tanti anni prima,
+doveva egli senza dubbio riconoscere, secondo l'opinione di quel
+tempo, la potenza del proprio ingegno.  Dicendoci dunque lo
+stesso Dante di essere nato mentre il Sole trovavasi in compagnia
+de' Gemelli, per sapere se la nascita sua avvenisse veramente di
+maggio.... pare a me che occorra ricercare in qual mese il Sole,
+nel secolo XIII, si congiungeva con quella costellazione. 
+Ipparco, il quale fiss@o i segni dello Zodiaco sopra le
+costellazioni di cui portano il nome, stabil@i l'entrata del Sole
+in Gemini ai 21 di maggio.  Ma siccome ogni anno le costellazioni
+precedono di 50" 3'", per@o dal tempo d'Ipparco, vissuto verso il
+108, avanti l'era volgare, all'anno 1200 essendo scorsi 1308
+anni, le costellazioni avevano preceduto di oltre a 18+o~, 10', che
+corrispondono a 18 giorni e 4 ore.  @E chiaro quindi che sin dal
+principiare del secolo XIII il Sole non trovavasi pi@u in
+compagn@ia de' Gemelli nel mese di maggio, bens@i in quello di
+Giugno.>  Altri, non solo commentatori di Dante, ma astronomi di
+professione, affermano ch nel 1265 il Sole entrava in Gemini il
+18 maggio e ne usciva il 17 Giugno.  Cfr. ^Witte~,
+^Dante-Forschungen~, II, 29; ^Piper~, ^Evang. Kalender~, 1865, p.
+29.
+
+	|113-114.  Virt@u~: ^Lan.~, ^An. Fior.~: S@i come negli
+Introduttorj, s@i d'Albumasar come d'Alcabici, in Astrolog$ia
+chiaro appare che Gemini si @e casa di Mercurio, lo quale si @e
+significazione di scritture, e di scienzia, e di conoscibilit@a; e
+per@o, secondo la scienzia, vel arte predetta, colui che ha Gemini
+per ascendente, naturalmente si @e ingegnoso ed adatto a scienzia
+litterale, e maggiormente quando lo Sole si trova essere in esso
+segno, imper@o che 'l Sole conferisce alla vita mortale ed alla
+generazione, secondo ordine naturale, secondo quel detto: ^homo
+generat hominem~ etc.  S@i che l'Autore, palesando lo detto Gemini
+esser suo ascendente, seguendo suo Poema, entra nella ottava
+spera per quel segno, quasi vogliendo figurare, s@i come alla
+prima vita tal segno mi fu porta, cos@i alla seconda la scienzia,
+per la quale io la merito, m'@e porta.  Cos@i pure ^Ott.~  ^Falso
+Bocc.~: Questo segno fa gli uomini virtuosi, ed eccellenti, e
+sommi in parlare e in tutte le scienze.  Cfr. ^Inf.~ XV, 55 e
+seg. ^Purg.~ XXX, 109 e seg.
+
+	|115.  S'ascondeva~: tramontava.  -- |Vosco~: con voi
+(^vobiscum~); cfr. ^Purg.~ XI, 60; XVI, 141.
+
+	|116.  Quegli~: il Sole.  ^Aristotile~ (ap. ^Post.
+Cass.~, ^Dan.~, ecc.): ^Homo hominem generat et sol.~  Il ^Buti~:
+Lo Sole @e generativo d'ogni vita che muore; e questo dice a dare
+ad intendere che non @e generativo dell'anime umane, che sono
+immortali e generate senza mezzo da Dio.  ^Mart.~: Dante
+riconosce il suo ingegno dagli astri; la quale sentenza per@o
+vuole essere benignamente interpretata: e' riguardava l'influsso
+del cielo come semplicemente disponente.  Il Sole @e detto padre
+d'ogni vita mortale: cos@i pure lo chiamarono gli antichi.
+
+	|117.  Senti'~: sentii; nacqui.  -- |Tosco~: di Toscana;
+cfr. ^Inf.~ XXIII, 76; XXVIII, 108.
+
+	|118.  E poi~: essendo salito al Paradiso.  -- |Largita~:
+largamente accordata; ^Inf.~ XIV, 92; ^Purg.~ XI, 132; XIII, 69,
+ecc.
+
+	|119.  Ruota~: nel Cielo stellato, col quale voi girate. 
+-- |Vi gira~: ^Buti~: imper@o che 'l detto Cielo girando s@e tutto,
+gira ci@o che in esso @e.  ^Biag.~: perch@e girano col circolante
+lor Cielo.
+
+	|120.  Sortita~: mi fu dato per sorte di passare per quel
+tratto di cielo che voi occupate.  ^Greg.~: <Il Poeta vuol far
+conoscere il perch@e delle tante stelle che popolano l'ottavo
+Cielo ebbe in sorte di entrare nel segno di Gemini, ed @e che il
+Sole si trovava in Gemini quando egli nacque.>  Gli antichi
+(^Lan.~, ^Ott.~, ^Anon. Fior.~, ecc.) credono loro dovere di
+scusare Dante a motivo della presente invocazione al segno de'
+Gemelli.  <@E da sapere>, dicono, <che l'Autore fa invocazione al
+detto segno, come appar nel testo, la quale se al senso letterale
+si tollesse, sarebbe idolatria, imper@o che al solo Creatore si
+conviene tal culto....  Or @e da torre per allegor$ia che, quando
+l'Autore fa tale invocazione, intende per quello segno la volont@a
+di Dio, che tanto lo sublima, la quale intende essere esso Iddio:
+e per@o, se invoca e rende grazia per tal modo di culto, quello
+intende essere a quello Creatore, a cui tale atto @e proprio.>  E
+il ^Buti~: <Finge che facesse l'autore la detta deprecazione a'
+Gemini, intendendo di farla principalmente a Dio, siccome a prima
+cagione, sapendo che le seconde cagioni non operano, se non sono
+mosse da la prima cagione, che @e Iddio.>  Pare che questi
+interpreti si scordassero che Dante @e ^poeta~, e che abbiamo in
+questi versi poesia vera, sublime.
+
+	|121.  Ora sospira~: ^W. 4~, ^Cass.~, ^Fram. Pal.~,
+^Vien.~, ^Corton.~, ecc.; prime 4 edd., ^Ald.~, ^Burgofr.~,
+^Rovil.~, ^Crus.~, ecc.; ^Benv. Ramb.~, ^Buti~, ecc.  ^Ora e
+sospira~: ^Stocc.~, otto codd. fiorentini e parecchi altri. 
+^Perazzini~ (ed. ^Scolari~, p. 162) difende questa lezione, che
+gli sembra ^dulcissima et ceteris praeferenda.~  Il ^Parenti~ (ap.
+^Ed. Pad.~) trova buona l'osservazione del ^Peraz.~,
+soggiungendo: <Non parmi per@o che ci@o basti a mutare il testo. 
+Anche l'avverbio |ora~ ci conviene benissimo, perch@e si
+contrappone alle cose passate, che il Poeta accenna di sopra, e
+perch@e mostra maggiormente l'attuale necessit@a di conforto.> 
+Aggiungeremo che la lezione ^ora e sospira~ non occorre che in
+pochi e poco autorevoli codd., e che @e ignota a tutti gli antichi
+espositori.
+
+	|122-123.  Al passo~: gli antichi (^Lan.~, ^Ott.~, ^Anon.
+Fior.~, ^Postil. Cass.~, ^Petr. Dant.~, ^Falso Bocc.~, ^Land.~,
+ecc. e parecchi moderni (^Pogg.~, ^Filal.~, ecc.) non dicono cosa
+sia questo |passo forte.~  Il ^Buti~ chiosa: <A passare e montare
+alla contemplazione di Dio, e dire di lui quanto a me fia
+possibile, la quale cosa tira l'anima mia a s@e.>  E il ^Dan.~:
+<All'alta e difficile impresa, come @e questa da passar
+(scrivendo) dal sensibile mondo ^ad ea quae oculus non vidit, nec
+auris audivit, nec in cor hominis ascendit~, il qual passo forte
+tira la sua anima a s@e cio@e tutta la sua mente a ci@o fare.>  Cos@i
+anche ^Vent.~  Ma, facendo questa invocazione, Dante era gi@a
+passato da un pezzo, scrivendo, dal sensibile mondo al
+celestiale.  Il ^Vell.~ <Intende del passo, per lo quale l'anima
+si debbe dividere dal corpo, ch'@e molto forte, perch@e ^ultimum
+terribilium est mors~; e la virt@u che da loro per tal passo vuol
+acquistare, si @e la cognizione della vanit@a mondana, acci@o che
+tal passo gli abbia a parer dolce, che agli animi infermi suol
+essere tanto amaro.>  Cos@i ^Dol.~, ^Perazz.~ (il quale, ^loc.
+cit.~ dice che il |Passo forte~ ^procul dubio est mors~), ^Blanc~
+(^Voc. Dant.~ s. v. |passo~) ecc.  Ma non si vede qual mai motivo
+avesse il Poeta in questo momento che potesse indurlo ad invocare
+dai Gemini forza alla morte.  ^Biag.~: <Questo arduo passo, ove
+di tutta la possanza celeste pare che abbisogni, certo non @e
+altro che quello che nel seguente Canto da lui si descrive, cio@e
+il maraviglioso trionfo di Cristo,.... il quale tira a s@e tutta
+l'anima sua.>  Non basta intendere del solo Canto seguente. 
+Meglio: Alla difficile impresa di descrivere quanto ancora gli
+resta a dire delle cose del Paradiso; cio@e, alla conclusione del
+Poema, dove si riserbano le cose pi@u alte e sublimi; alla quale
+impresa, che tira a s@e tutta l'anima sua, ora si accinge.  Cos@i
+^Benv. Ramb.~, ^Lomb.~, ^Portir.~, ^Cost.~, ^Ces.~, ^Wagn.~,
+^Borg.~, ^Tom.~, ^Br. B.~, ^Frat.~, ^Greg.~, ^And.~, ^Triss.~,
+^Bennass.~, ^Cam.~, ^Franc.~, ^Cappel.~, ^Kanneg.~, ^Witte~,
+^Nott.~, ecc.  Di |forte~ per Difficile, Faticoso, cfr. ^Purg.~
+II, 65; XXIX, 42; XXXIII, 50; ^Parad.~ VI, 102; VII, 49; IX, 36;
+XVI, 77; XXI, 76 ecc.  -- |Tira~: la difficolt@a trae a s@e le
+menti e le anime forti con forza degna di loro; sole le deboli
+respinge.  ^Tom.~  Cfr. ^Parad.~ X, 26, 27: ^A s@e torce tutta la
+mia cura Quella materia ond'io son fatto scriba.~
+
+	|124-154.~  ^Uno sguardo dal Cielo alla Terra.~  A
+consiglio di Beatrice, Dante rivolge gli occhi e vede quanto
+mondo gli sta sotto i piedi, vede tutti e sette i pianeti quanto
+son grandi quanto sono veloci, vede questa Terra che @e s@i piccola
+e fa l'uomo tanto superbo; poi torna a fissar gli sguardi suoi
+negli occhi della sua Donna.  -- Fu gi@a avvertito che, dettando
+questi versi, il Poeta ebbe l'occhio al ^Sogno di Scipione~ di
+Cicerone.  Giova recarne il passo relativo, e lo rechiamo nella
+versione di ^Zanobi da Strada~ (morto 1361), che il ^Tom.~ chiama
+infedele per troppa fedelt@a.
+
+	-- -- -- -- <Ed ora costui con una bianchezza
+splendidissima, rilucente tra le fiamme, il quale voi, come da'
+Greci avete udito, chiamate cerchio latteo, overo ^Galaxia~; per
+lo quale a me, questa casa veggente, tutte le altre parevano
+preclare e maravigliose; e queste erano stelle, le quali mai
+avevamo vedute di quaggi@u, e tutte di tale grandezza, della quale
+non avevamo mai pensato che cos@i fussero, e' globi di quelle
+agevolmente vincevano la grandezza di tutta la Terra; e gi@a essa
+Terra mi pareva s@i piccola, che mi faceva pentere dello imperio,
+al quale noi eravamo venuti, come a un punto.  La quale forte
+ragguardando io, i' ti domando, disse l'Affricano, il fino quando
+sar@a la tua mente defissa nella Terra.  Non vedi tu in che Templi
+se' venuto?  E ne' nove cerchi, o vogli globi, sono tutte queste
+cose connesse, de' quali l'uno ultimo @e il celestiale cerchio di
+fuori, il quale abbaccia tutti gli altri; el sommo Iddio
+contenente e ordinante tutti gli altri, nel quale sono infissi
+quelli sempiterni corsi delle stelle, che si volgono; al quale
+sette ne sono soggetti, che si volgono a dietro per contrario
+movimento al Cielo.  Tra' quali l'uno cerchio possiede quella
+stella che in terra si chiama Saturno.  Di poi @e quello fulgore
+prospero e salutare alla generazione degli uomini, che si chiama
+Giove; poi quello risplendente ed orribile alle terre, che voi
+chiamate Marte; poi, di sotto, quasi alla mezza regione, abita il
+Sole, duca e principe e moderatore di tutti gli altri lumi, mente
+e temperamento del mondo; con tanta grandezza che egli illumini e
+compia tutte le cose con sua luce.  A costui seguitano gli altri
+corsi, come compagni, l'uno di Venere, e l'altro di Mercurio. 
+Nel basso cerchio si rivolge la Luna accesa dei raggi del Sole. 
+Di sotto a quella, niuna cosa @e, se non mortale e caduca, fuori
+delle anime date alla generazione degli uomini per dono degli
+Iddii.  Sopra la Luna sono tutte le cose eterne, e quella che,
+mezza tra questi cerchi, @e nona, cio@e la Terra, non si muove, ed
+@e infima a tutte; ed a quella caggiono per la loro natura tutte
+le cose gravi.  -- Le quali cose tutte ragguardando, tornato in
+me dissi: Che @e questo s@i dolce e s@i grande suono, il quale
+riempie i miei orecchi? ed egli a me: Questo @e quello suono che
+congiunto per diseguali intervalli, ma pure per determinata parte
+ragionevolmente distinti, si fa per lo movimento e grande empito
+de' detti cieli, e le gravi cose, colle acute ordinate, fa questi
+canti igualmente; per@o che tanti e s@i grandi movimenti, niente si
+possono movere con silenzio, che naturalmente, qual pi@u tardo,
+qual meno, suonano; quale gravemente, quale agutamente; per la
+quale cagione quello sommo stellato cielo, il cui movimento pi@u
+veloce si move agutamente e con suono pi@u desto.  E questo
+cerchio lunare infimo si move con un suono gravissimo; per@o che
+la Terra nona, immobile sempre, ha la sedia pi@u bassa, la quale
+tiene il pi@u basso luogo del mondo, ma quelli otto cerchi e
+corsi, ne' quali @e quella medesima virt@u, fanno sette suoni di
+due intervalli, il qual numero @e quasi nodo di tutte le cose. 
+Queste cose io riguardando, rivolgeva gli occhi pure alla Terra. 
+Allora disse l'Affricano: Io sento che tu guardi ancora la sedia,
+e la casa degli uomini; la quale se ti pare piccola, come ella @e,
+queste cose celesti sempre spera, e quelle umane dispregia; per@o
+che tu, che allegrezza hai di parlare d'uomini, o che gloria da
+cercare puoi acquistare? vedi che vi s'abita in luoghi radi e
+stretti, e in quelle macule, dove s'abita, vedi interposte grandi
+solitudini; e ancora, costoro che abitano la Terra, non solamente
+essere distanti tanto, che niente tra loro e gli altri possa
+essere; ma parte vi sono per torto, parte avversi, da' quali
+niuna gloria potete aspettare.>
+
+	|124.  Ultima salute~: alla visione in che @e felicitade. 
+^Lan.~, ^An. Fior.~  All'empireo, ultimo e pi@u alto luogo di
+salvazione.  ^Benv. Ramb.~, ^Lomb.~, ^Port.~, ^Pogg.~, ^Cost.~,
+^Wagn.~, ^Br. B.~, ^Frat.~, ^Triss.~, ^Bennas.~, ^Cam.~,
+^Franc.~, ecc.  Ma |ultima salute~ chiama altrove Iddio, ^Parad.~
+XXXIII, 27; e di Dio vuolsi intendere anche in questo luogo. 
+Dunque: Tu sei s@i presso a Dio (o, alla visione di Dio), che @e
+l'ultima nostra salute.  Cos@i ^Ott.~, ^Buti~, ^Land.~, ^Vell.~,
+^Dan.~, ^Vol.~, ^Vent.~, ^Biag.~, ^Tom.~, ^Andr.~, ecc.  Il
+termine @e biblico: ^Pls.~ XXVI, 1: ^Dominus est salus mea~,
+espressione ripetuta molte volte nei Libri sacri.
+
+	|126.  Le luci~: ^Buti~: degli occhi corporali, secondo
+la lettera; ma, secondo l'allegoria, le luci mentali, cio@e la
+ragione e lo intelletto; |chiare~, cio@e non turbate da passione;
+|ed acute~, cio@e sottili a discernere e vedere le vilt@a del
+mondo, sicch@e bene ti puoi rivolgere a guardare lo mondo, senza
+timore che lo suo sguardo t'inganni e tiriti a s@e.  ^Tom.~: La
+chiarezza riceve l'oggetto, l'acume va a lui e lo penetra. 
+^Mart.~: |Chiara~, con dissipar la caligine delle cure mondane;
+|acuta~, cio@e perfezionata con lo studio.  ^Ces.~: Montando su,
+dal veder cose sempre pi@u alte, ricevea il Poeta vigore, da poter
+affisarsi nelle maggiori che gli restavano.
+
+	|127.  T'inlei~: da |in~ e |lei~, verbo Dantesco, come
+^immiarsi~, ^Parad.~ IX, 81; ^inluiarsi~, ^Parad.~ IX, 73;
+^intuarsi~, ^Parad.~ IX, 81, ecc.  Senso: Prima che tu ti
+profondi di pi@u con la meditazione nell'^ultima salute~ {v.124},
+o, Prima che tu entri in lei.  -- L'^Ott.~: Prima che tu pi@u
+entri in Dio.  ^Buti~: Prima che tu pi@u t'approssimi a lei, cio@e
+a la salute ultima, cio@e Iddio.
+
+	|129.  Ti fei~: ti ho gi@a fatto trascendere.  ^Dan.~: Non
+senza ragione esorta la Teologia l'intelletto umano (il quale
+levato alla contemplazione del sommo Bene, incomincia ad avere
+alcuna cognizione e lume di quello) a riguardare le cose mortali,
+perch@e veda quanto acquisto abbia fatto a levarsi da quelle basse
+caduche, ed alle alti e divine alzarsi, affinch@e esso quelle
+disprezzando, queste pi@u allegramente abbracci.  Pi@u
+semplicemente ^Ott.~: Guata in gi@u, e vedrai il mondo e le sue
+cose transitorie; s@i che tu d'essere cotanto salito t'allegri, e
+cotale allegrezza dimostri alli cori beati, li quali vegnono.
+
+	|130.  Quantunque pu@o~: quanto pi@u gli @e possibile. 
+^Psl.~ XCIX, 2: ^Servite Domino in laetitia; introite in conspectu
+ejus in exultatione.~
+
+	|131.  S'appresenti~: si mostri.  -- |Alla turba~: non,
+alla moltitudine che triunfa in Paradiso (^Buti~, ecc.), ma alle
+schiere del trionfo di Cristo, ^Parad.~ XXIII, 19 e seg., che gli
+si mostreranno tra breve.
+
+	|132.  Etera~: etere; cfr. ^Nannuc.~ ^Teor. dei Nomi~, p.
+216.  Quasi tutti intendono: Per questo cielo tondo (^Lan.~,
+^Ott.~, ^Buti~, ecc.).  Il ^Lombardi~: <Per questo etereo rotondo
+tratto; perifrasi invece di ^per questo cielo.~  Intendendosi
+colla comune degli Espositori che sia qu@i |etera~ puro sinonimo
+di ^cielo~, riesce l'epiteto |tondo~ di una stucchevole
+superfluit@a; quasi cio@e gli altri Cieli non fossero tondi.>  Non
+vediamo altra differenza tra la chiosa della <comune degli
+Espositori> e quella del ^P. Lomb.~, da quella assai irrilevante
+infuori, che questi osserva espressamente |Etera tondo~ essere
+^perifrasi.~  Ma non occorreva dirlo; s'intende da s@e.
+
+	|133.  Col viso~: colla vista.  Sui versi 133-154 di
+questo Canto cfr. la lezione del ^Varchi~, nelle ^Lezioni sul
+Dante e Prose varie~, ed ^Aiazzi~ e ^Arbib~, Fir. 1841, I,
+505-531, che per altro @e una lezione di cosmografia piuttosto che
+un commento.
+
+	|134.  Le sette spere~: i sette Cieli percorsi.  --
+|Globo~: terrestre, da noi abitato.
+
+	|135.  Tal~: cos@i piccolo.  ^Somn. Scip.~ 3: ^Iam ipsa
+terra ita mihi parva visa est, ut me imperii nostri poeniteret.~ 
+Vedi sopra, chiosa generale ai v. 124-154.  -- |Sembiante~:
+apparenza.
+
+	|136.  Approbo~: lat. ^approbo~, approvo.  Anche qu@i il
+^Lomb.~ vien fuori colla sua solita frase: <Antitesi in grazia
+della rima.>  @E invece il solito scambio di ^v~ con ^b~, e di
+|approbo~ non mancano esempi anche in prosa; cfr. ^Voc. Crus.~
+
+	|137-138.  L'ha per meno~: che lo tiene da meno, ne fa
+minore stima.  -- |Ad altro~: alle cose celesti, spirituali.  La
+lezione di questi versi da noi accettata @e dei pi@u codd. (^S.
+Cr.~, ^Vat.~, ^Berl.~, ^Cass.~, ^Fram. Pal.~, ^Corton.~), di
+pressoch@e tutte le antiche e moderne ediz. (prime 4 edd.,
+^Nidob.~, ^Ald.~, ^Crus.~, ecc., ecc.), e di quasi tutti gli
+antichi e moderni espositori (^Benv. Ramb.~, ^Buti~, ^Land.~,
+^Vell.~, ecc.).  Il senso @e chiaro: Giudico di pi@u senno chi meno
+stima le cose terrene; e quegli pu@o dirsi veramente uom di senno,
+retto e sapiente, che si rivolge tutto alle cose celesti.  Il
+^Viv.~, col ^Flor.~, ^Patav. 67~, ecc. legge:
+
+     E quel consiglio per migliore appr@obo
+     Che l@a pon mente, e chi ad altro pensa
+     Chiamar si puote veramente improbo,
+
+la qual lezione darebbe questo significato: Io approvo per
+migliore quel consiglio che pon mente l@a (al Cielo, all'eterna
+salute), e chi ad altro pensa (alle cose terrene) si pu@o chiamare
+veramente improbo.  Potrebbe stare; ma questa lezione @e troppo
+sprovvista di autorit@a.  ^Che l@a pon mente~ @e pure dello
+^Stocc.~, il quale poi ha ^probo~ al v. 138, il che non d@a verun
+senso.  |Improbo~ hanno ^Caet.~, ^Vien.~, ^Ott.~, ecc.  -- ^Somn.
+Scip~ 6: ^Si tibi parva~ (^sedes hominum~) ^ut est videtur, haec
+coelestia semper spectato, illa humana contemnito.~  Si pu@o
+eziandio ricordare l'ammonizione apostolica, ^Colos.~ III, 2:
+^Quae sursum sunt sapite, non quae super terram.~
+
+	|139.  Figlia~: la Luna.  Sopra questa terzina cfr.
+l'opuscolo del ^Mancini~, cit. nella nt. generale sopra ^Parad.~
+II, 46-148.  -- |Latona~: madre di Apollo e di Diana; cfr.
+^Purg.~ XX, 131 nt. ^Parad.~ X, 67 nt.  -- |Incensa~: infiammata,
+illuminata.
+
+	|140.  Ombra~: macchie lunari.  Perch@e, guardando la Luna
+dall'alto al basso, la vide senza macchie?  I pi@u non danno
+veruna risposta.  ^Ott.~: Per@o che ora considerava ogni cosa in
+sua propria essenza.  ^Buti~: Per questa fizione, che l'autore fa
+ora qu@i, appare ch'elli voglia tenere che quelle ombre siano
+l'ombre della terra, che @e divisa in tre parti divise: per
+l'acqua si rappresenta in essa come in uno specchio, e nella
+parte chiara si rappresenti l'acqua: imper@o che non @e altro a
+dire che, quando @e volta inverso la terra, abbia l'ombre; e
+quando @e volta in su, non l'abbia, se non che la terra ne sia
+cagione.  ^Tom.~: Dalla parte di su i cieli operano in lei pi@u
+forte.  ^Bennas.~: Dante da Gemini vide la Luna nel disco
+superiore, che riman sempre nascosto a noi che vediamo la Luna da
+sotto in su.  Ma egli la vide senza macchie, perch@e le macchie
+provengono dalla virt@u mista, ossia dalla Intelligenza motrice
+della Luna mista alla natura lunare.  L'intelligenza @e pura luce,
+la natura lunare @e ombra.  Di qu@i viene il chiaro e l'oscuro
+della Luna.  Il misto chiaro -- oscuro @e per la terra a cui la
+Luna @e deputata ad influire imperfettamente; ma dalla Luna in su
+essa non ha influenze da tramandare, e perci@o la Intelligenza
+mostrice della Luna non fa vedere che la sua luce.  ^Filal.~: ^Am
+einfachsten erkl,art sich die Sache, wenn man annimmt, Dante habe
+gewusst, dass der Mond uns immer nur eine Seite seiner Oberfl,ache
+zeigt, wo es dann auf der Hand liegt, dass die Mondflecken, die
+wir hier sehen, dem Beschauer von oben her nicht sichtbar sind.~
+
+	|141.  Per che~: per la qual cagione (^Buti~, ^Andr.~,
+ecc., non gi@a, Per la quale ombra (^Br. B.~ ecc.).  Cfr. ^Ronch.~
+^Appun.~, p. 174.  -- |Gi@a~: prima che Beatrice confutasse la
+vecchia ed erronea mia opinione; cfr. ^Parad.~ II, 46-148.
+
+	|142.  Nato~: figlio; il Sole.  |Nato~ per ^figlio~, come
+^Inf.~ IV, 59; X, 111.  ^Hyperione natus~ chiama il Sole anche
+Ovidio, ^Metam.~ IV, 192, 241.  -- |Iperione~:
+%Upsilon%pi%varepsilon%rho%$iota%omega%nu\, figlio di Urano e
+della Terra, e padre del Sole.  Cfr. ^Lindemann~, ^ad Ovid.
+Metam.~ I, 10.  Dante d@a qu@i al Sole il nome datogli da Ovidio.
+
+	|143.  Sostenni~: senza abbagliare, pel vigore novello
+della mia virt@u visiva.  -- |Com'~: come; ^Inf.~ XXVI, 12, cfr.
+^Purg.~ XI, 92 nt.  Tuttor vivente in Toscana; cfr. ^Caverni~,
+^Voci e Modi~, p. 44.
+
+	|144.  Circa~: |circa~ il Sole, Mercurio figliuolo di
+Maia; |vicino~ al Sole, Venere figliuola di Dione.  -- |Maia~:
+M%alpha%iota%alpha\, una delle Pleiadi, figlia di Atlante e madre
+di Mercurio.  ^Virg.~ ^Georg.~ I, 225: ^Multi ante occasum Maiae
+coepere.~  Ejusd. ^Aen.~ I, 297: ^Haec ait et Maia genitum demittit
+ab alto.~ VIII, 138 e seg.:
+
+     ^Vobis Mercurius pater est, quem candida Maia~
+     ^Cyllenae gelido conceptum vertice fudit~;
+     ^At Maiam, auditis si quicquam credimus, Atlas~,
+     ^Idem Atlas generat coeli qui sidera tollit.~
+
+Cfr. ^Ovid.~ ^Metam.~ I, 669 e seg. II, 685 e seg. XI, 303 ecc. 
+^Lindemann~, ^ad Ovid. Metam.~ I, 669 ecc.  -- |Dione~: madre di
+Venere; cfr. ^Parad.~ VIII, 7 nt.  Anche Ovidio, ^Fast.~ II, 461,
+d@a a Venere il nome di Dione.  Indicando il pianeta Mercurio col
+nome di |Maia~ sua madre, pare che Dante procedesse per analogia. 
+^Parenti~: Ovidio adopera pi@u d'una volta |Dione~ per Venere. 
+Forse alcun altro avr@a posta |Maia~ per Mercurio.  In ogni modo
+poteva il nostro Poeta compiere giudiziosamente anche in questa
+parte siffatta sineddoche.  ^Tom.~: Nomina il padre e le madri;
+perch@e nel generante @e la vita, nella fecondit@a della famiglia @e
+la vera unit@a.  Scostandosi dagli altri interpreti, ^Bennas.~:
+<Prendete il verbo ^muove~ {v.143} per impersonale passivo, e non
+per personale, come lo prendono tutti, quasi che Maia e Dione
+sieno soggetti del verbo: ^si muove~ {v.143}.  Dunque vuol dire cos@i:
+Come si muove dai corpi tra la Luna e il Sole, ossia quali moti
+vi sieno.  Sopra la Luna gira Mercurio figlio di Maia, e sopra
+Mercurio gira Venere figlia di Dione.  Sopra Venere gira il Sole. 
+Dunque leggete cos@i: Vidi, o Maia e Dione, come si muove circa e
+vicino al Sole.>  Troppo bizzaro e contro natura.
+
+	|145-146.  Quindi~: di quivi, dal Sole in su.  -- |Il
+temperar~: Giove, tra Marte suo figlio e Saturno suo padre,
+temperando il troppo caldo del primo e il troppo freddo del
+secondo.  ^Conv.~ II, 14: <Giove muove tra due cieli repugnanti
+alla sua buona temperanza, siccome quello di Marte, e quello di
+Saturno.  Onde Tolommeo dice, che Giove @e stella di temperata
+complessione, in mezzo della freddura di Saturno, e del calore di
+Marte.>  Cfr. ^Parad.~ XVIII, 68.
+
+	|147.  Il variar~: la ragione del variar che fanno di
+luogo, or pi@u or men distanti dal Sole, ed ora innanzi ora dietro
+di questo.  Di |dove~ usato a maniera di nome, per Il luogo, Il
+posto ove alcuno si trova, cfr. ^Parad.~ III, 88; XII, 30.
+
+	|148.  Tutti e sette~: gli accennati pianeti: Luna, Sole,
+Mercurio, Venere, Marte, Giove, Saturno.  Trovandosi nei Gemelli
+il Poeta era nel meridiano di Gerusalemme, nel quale erano pur
+giunti i sette pianeti trasportativi nel tempo stesso dal moto
+delle sfere celesti da oriente in occidente (cfr. ^Della Valle~,
+^Senso geogr. astron.~, ecc. p. 117 e seg. ^Supplem.~, p. 52 e
+seg. ^Nuove Illustr.~, p. 86 e seg.); ci@o che del resto @e una
+conseguenza della finzione del Poeta, in quanto suppone che i
+pianeti gli servono di scala per salire da una sfera all'altra, e
+in fine all'Empireo.  Sotto i suoi piedi egli vedeva il Sole, ^un
+segno e pi@u partito~, cio@e separato dal poeta medesimo (cfr.
+^Parad.~ XXVII, 86 e seg. ^Della Valle~, ^Senso geogr. astron.~,
+p. 130 e seg.).  Ora si domanda, in qual maniera egli potea
+vedere tutti i pianeti, se tutti essi col Sole stavano nel
+meridiano di Gerusalemme, dove si trovava pur egli coi Gemelli, e
+se ad un tempo erano sotto i suoi piedi?  Ma Saturno non gli
+copriva Giove, e questi Marte?  E il Sole non gli veniva coperto
+da tutti e tre questi pianeti, almeno in parte e massime da Giove
+(essendo pi@u grande) stante che erano pi@u alti di esso?  E il
+Sole medesimo non gli nascondea Venere e Mercuro, e da tutti
+insieme non gli era tolta la veduta della Luna, e da tutti e
+sopratutto dai pi@u grandi, Saturno, Giove e il Sole, non gli
+veniva impedita la veduta della Terra?  Perch@e gli apparissero
+posti sotto i suoi piedi mostra a questo modo.  Imaginiamoci
+l'intervallo che separa Saturno dalla Terra, e quello che separa
+la sfera ottava dalla Terra stessa.  Il primo, bench@e sia
+grandissimo, nondimeno dee comparire una cosa molto piccola,
+quando si paragona al secondo, il quale giusta i compiti di
+Alfagrano seguito da Dante @e immenso.  Ora segue da ci@o, che se
+quel tratto o distanza, in cui da Saturno alla Terra erano
+collocati i pianeti, gli dovea apparire un'estensione assai
+piccola, @e chiaro che potea dire con verit@a di aver veduti tutti
+i pianeti sotto i suoi piedi.  Mostriamo ora, come Dante vedesse
+tutti i pianeti, non ostante l'impedimento test@e detto, ma che @e
+solo apparente.  I pianeti coi Gemelli si ritrovavano nel
+meridiano di Gerusalemme prolungato sino alla sfera ottava. 
+Sebbene il centro della Terra fosse il centro comune a tutte le
+orbite dei pianeti secondo il sistema di Tolomeo, nondimeno
+queste orbite non giacevano nello stesso piano, ma in piani
+diversi.  Se fossero giaciute nello stesso piano, stante che
+avevano un centro comune, @e manifesto che i varii punti
+d'intersezioni coi loro rispettivi meridiani si sarebbero trovati
+nello stesso piano del gran meridiano, che si estendeva sino ai
+Gemelli; e in questo caso i detti punti d'intersezione si
+sarebbero trovati in una stessa linea retta, talch@e i pianeti pi@u
+bassi sariano rimasti coperti dai pi@u alti, a chi li guardava dai
+Gemelli nella direzione stessa di detta linea.  Ma le orbite
+planetarie non giaceano gi@a nel medesimo piano, ma in piani
+diversi, e per conseguenza i pianeti poteano vedersi anche dal
+punto stesso, cio@e dai Gemelli.  Siccome poi tutti quei pianeti
+son collocati nella faccia del Zodiaco, e perci@o si trovano fra i
+due tropici, ne procede quindi che Dante li potea vedere dai
+Gemelli sotto i suoi piedi, in quanto la sfera ottava, dove sono
+i Gemelli, si trova ad un immensa distanza; s@i che le distanze, a
+cui dalla Terra si trovavano i pianeti, ancorch@e siano pur
+grandi, nondimeno al paragone di quella @e, come se fossero una
+cosa di poco momento, e quindi al Poeta dovea parere, che i
+pianeti si trovassero sotto i suoi piedi.  Ma come potea Dante,
+da una sola porzione illuminata dell'emisfero dei pianeti
+giudicare della loro grandezza?  Potea ottimamente formare questo
+giudizio, considerando la grandezza del segmento illuminato
+ch'egli vedeva.  Data la corda di un segmento circolare e la sua
+altezza si pu@o col mezzo di una semplice proporzione continua
+trovare il raggio del cerchio, di cui quel segmento @e parte, e
+quindi anche la grandezza del cerchio e della sfera che ha questo
+raggio.  Imperocch@e la met@a della corda @e media proporzionale tra
+l'altezza del segmento e la porzione del diametro che a lei manca
+per compiere il diametro stesso.  Quindi noto il diametro o il
+raggio, divien noto tutto il disco, e per@o anche la grandezza del
+globo o della sfera.  Cfr. ^Della Valle~, ^Nuove Illustrazioni
+sulla D. C.~, p. 86-93.
+
+	|150.  In distante riparo~: ^Lan.~, ^Anon. Fior.~:
+Quantit@a di corpo, velocit@a di corso, e distanza di luogo gli fu
+per tal vista nota.  ^Ott.~: In distanza l'uno dall'altro. 
+^Benv. Ramb.~: In situ distange.  Quasi dicat: ostenderunt se
+mihi omnes in quantitate, cursu et distantia.  ^Buti~: In
+differente ritornamento al principio del suo moto.  ^Dan.~:
+Quanta distanza @e dall'uno all'altro di questi sette pianeti. 
+^Lomb.~ (prendendo |riparo~ per ^alloggiamento~): Alloggiati in
+cielo tra di loro distanti.  ^Biag.~: In riparo o sito l'uno
+dall'altro distante.  I moderni: E nella propria distanza ch'@e
+tra le dimore dei singoli pianeti, le quali gli astronomi
+chiamano ^case~, e Dante |ripari.~  ^Bennas.~: E come hanno
+orbite o corsi distanti gli uni dagli altri in guisa che l'uno
+non @e mai all'altro d'impedimento.
+
+	|151-153.  Aiuola~: piccol'aja; chiama cos@i l'emisfero
+terrestre da noi abitato; piccol'aja rispetto al cielo.  Senso:
+Dal segno di Gemini (|eterni~ perch@e incorruttibili, cfr.
+^Parad.~ VII, 130 nt.), col quale ormai mi volgevo, scoprii,
+dalle maggiori altezze del suole fino al livello del mare dove i
+fiumi hanno lor foci, tutto quant'@e l'emisfero da noi abitato, --
+una piccola aja, che ci fa tanto feroci per disputarcene il
+possesso.  ^Punctum est in quo bellatis~, dice Seneca.  Anche nel
+^De Monarch.~ III, 16 chiama ^areola~ la terra.  ^Boet.~ ^Cons.
+phil.~ lib. II, pr. 7 (ed. ^Peiper~, p. 44): ^Omnem terrae
+ambitum, sicuti astrologicis demonstrationibus accepisti, ad coeli
+spatium puncti constat optinere rationem, id est ut, si ad
+coelesti globi magnitudinem conferatur, nihil spatii prorsus
+habere judicetur.  Hujus igitur tam exiguae in mundo regionis
+quarta fere portio est, sicut Ptolomoeo probante didicisti, quae
+nobis cognitis animantibus incolatur.  Huic quartoe, si quantum
+maria paludesque premunt quantumque siti vasta regio distenditur
+cogitatione subtraxeris, vix angustissima inhabitandi hominibus
+area relinquetur.  In hoc igitur minimi puncti quodam puncto
+circumsoepti atque conclusi de pervulganda fama de proferendo
+nomine cogitatis? ut quid habeat amplum magnificumque gloria tam
+angustis exiguisque limitibus artata~?
+
+	Questo luogo @e di grande importanza per intendere le
+salite di Dante nelle varie sfere celesti.  Dal fatto, che
+guardando dai Gemelli al globo terrestre, apparve al Poeta tutta
+la superficie sua abitata, risulta: 1+o~- Che i Gemelli, dov'egli
+era, si trovavano nel meridiano di Gerusalemme, dal quale
+soltanto egli potea colla vista dominare l'emisfero stesso,
+giacch@e, secondo il Poeta, Gerusalemme si trova nel mezzo della
+terra abitata e nota al suo tempo.  2+o~- Che il Sole doveva
+anch'esso trovarsi in quel meridiano; poich@e, se Dante vide tutto
+l'emisfero abitato, ci@o mostra che il Sole lo illuminava tutto, e
+che per conseguenza era giunto allo stesso meridiano.  Or se
+Dante nei Gemelli giunse nel meridianto di Gerusalemme, e vi
+giunse anche il Sole, ci@o mostra che le sue circolazioni sino a
+quel punto sono le circolazioni stesse, che compie la volta
+celeste da levante a ponente.  Che se poi ad ogni salita, che
+egli vi fa da una sfera all'altra, trova i varii pianeti, nei
+quali entra di mano in mano, @e chiaro da una parte, che tutti
+devono nascere e tramontare nello stesso tempo insieme col Sole,
+essendo ci@o una conseguenza del moto impresso ad essi dalle loro
+sfere da levante a ponente; e dall'altro @e chiaro parimente, che
+il luogo, dove il Poeta li trova, @e al tutto arbitrario, e serve
+soltanto a lui per salire di sfera in isfera.  Il pianeta che
+Dante trova nel vero suo luogo @e il Sole, perch'egli pur circola
+ne' cieli corrispondentemente al giro del Sole da levante a
+ponente; talch@e si trova con lui e coi pianeti nello stesso
+meridiano, orizzonte e in qualunque altro punto corrispondente
+della volta celeste.  Dunque se egli dice di aver veduti sotto di
+s@e i sette pianeti, ei li vide in quell'ora sullo stesso
+meridiano di Gerusalemme.  Il Segno dei Gemelli si trova
+anch'esso nello stesso meridiano, non per legge astronomica, ma
+solo per arbitrio e finzione del Poeta al pari dei pianeti.  Le
+salite di Dante nei pianeti inferiori, Luna, Mercurio e Venere,
+sono perpendicolari alle loro sfere, le sue salite nei pianeti
+intermedii, Marte, Giove e Saturno, perpendicolari alle loro
+orbite.  Essendo il Sole nel meridiano di Gerusalemme, erano
+appunto le ore dodici.  Cfr. ^Della Valle~, ^Senso geogr.
+astron.~, p. 117-120; ^Suppl.~, p. 52, 53; ^Nuove Illustrazioni~,
+p. 86-100; ^Ponta~, ^Orologio Dantesco~, Roma 1843, p. 21; Ejusd.
+^Opere su Dante~, Novi 1846, p. 215.
+
+	|154.  Occhi~: di Beatrice; <per sapere quel che dovessi
+fare>.  ^Benv. Ramb.~

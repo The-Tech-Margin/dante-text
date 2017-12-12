@@ -1,0 +1,204 @@
+	|1.~  In this Canto the subject of the preceding is
+continued.
+
+	|4.~  Guidoguerra, Tegghiajo Aldobrandi, and Jacopo
+Rusticucci.
+
+	|37.~  The good Gualdrada was a daughter of Bellincion
+Berti, the simple citizen of Florence in the olden time, who used
+to walk the streets "begirt with bone and leather," as mentioned
+in the ^Paradiso~, XV. 112.  Villani, I. 37, reports a story of
+her with all the brevity of a chronicler.  Boccaccio tells the
+same story, as if he were writing a page of the Decameron.  In
+his version it runs as follows.
+
+     "The Emperor Otho IV., being by chance in Florence and
+     having gone to the festival of St. John, to make it more gay
+     with his presence, it happened that to the church with the
+     other city dames, as our custom is, came the wife of Messer
+     Berto, and brought with her a daughter of hers called
+     Gualdrada, who was still unmarried.  And as they sat there
+     with the others, the maiden being beautiful in face and
+     figure, nearly all present turned round to look at her, and
+     among the rest the Emperor.  And having much commended her
+     beauty and manners, he asked Messer Berto, who was near him,
+     who she was.  To which Messer Berto smiling answered: `She
+     is the daughter of one who, I dare say, would let you kiss
+     her if you wished.'  These words the young lady heard, being
+     near the speaker; and somewhat troubled by the opinion her
+     father seemed to have of her, that, if he wished it, she
+     would suffer herself to be kissed by any one in this free
+     way, rising, and looking a moment at her father, and
+     blushing with shame, said: `Father, do not make such
+     courteous promises at the expense of my modesty, for
+     certainly, unless by violence, no one shall ever kiss me,
+     except him whom you shall give me as my husband.'  The
+     Emperor, on hearing this, much commended the words and the
+     young lady.....  And calling forward a noble youth named
+     Guido Beisangue, who was afterwards called Guido the Elder,
+     who as yet had no wife, he insisted upon his marrying her;
+     and gave him as her dowry a large territory in Cassentino
+     and the Alps, and made him Count thereof."
+
+	Amp@ere says in his ^Voyage Dantesque~, page 242: "Near
+the battle-field of Campaldino stands the little town of Poppi,
+whose castle was built in 1230 by the father of the Arnolfo who
+built some years later the Palazzo Vecchio of Florence.  In this
+castle is still shown the bedroom of the beautiful and modest
+Gualdrada."
+
+	Francesco Sansovino, an Italian novelist of the sixteenth
+century, has made Gualdrada the heroine of one of his tales, but
+has strangely perverted the old tradition.  His story may be
+found in Roscoe's ^Italian Novelists~, III. p. 107.
+
+	|41.~  Tegghiajo Aldobrandi was a distinguished citizen
+of Florence, and opposed what Malespini calls "the ill counsel of
+the people," that war should be declared against the Sienese,
+which war resulted in the battle of Monte Aperto and the defeat
+of the Florentines.
+
+	|44.~  Jacopo Rusticucci was a rich Florentine gentleman,
+whose chief misfortune seems to have been an ill-assorted
+marriage.  Whereupon the amiable Boccaccio in his usual Decameron
+style remarks: "Men ought not then to be over-hasty in getting
+married; on the contrary, they should come to it with much
+precaution."  And then he indulges in five octavo pages against
+matrimony and woman in general.
+
+	|45.~  See Macchiavelli's story of ^Belfagor~, wherein
+Minos and Rhadamanthus, and the rest of the infernal judges, are
+greatly surprised to hear an infinite number of condemned souls
+"lament nothing so bitterly as their folly in having taken wives,
+attributing to them the whole of their misfortune."
+
+	|70.~  Boccaccio, in his ^Comento~, speaks of Guglielmo
+Borsiere as "a courteous gentleman of good breeding and excellent
+manners"; and in the ^Decameron~, Gior. I. Nov.8, tells of a
+sharp rebuke administered by him to Messer Ermino de' Grimaldi, a
+miser of Genoa.
+
+     "It came to pass, that whilst by spending nothing he went on
+     accumulating wealth, there came to Genoa a well-bred and
+     witty gentleman called Gulielmo Borsiere, one nothing like
+     the courtiers of the present day; who, to the great reproach
+     of the debauched dispositions of such as would now be
+     reputed fine gentlemen, should more properly style
+     themselves asses, brought up amidst the filthiness and sink
+     of mankind, rather than in courts.....
+
+     "This Gulielmo, whom I before mentioned, was much visited
+     and respected by the better sort of people at Genoa; when
+     having made some stay here, and hearing much talk of
+     Ermino's sordidness, he became desirous of seeing him.  Now
+     Ermino had been informed of Gulielmo's worthy character, and
+     having, however covetous he was, some small sparks of
+     gentility, he received him in a courteous manner, and,
+     entering into discourse together, he took him, and some
+     Genoese who came along with him, to see a fine house which
+     he had lately built: and when he had showed every part of
+     it, he said: `Pray, sir, can you, who have heard and seen so
+     much, tell me of something that was never yet seen, to have
+     painted in my hall?'  To whom Gulielmo, hearing him speak so
+     simply, replied: `Sir, I can tell you of nothing which has
+     never yet been seen, that I know of; unless it be sneezing,
+     or some thing of that sort; but if you please, I can tell
+     you of a thing which, I believe, you never saw.'  Said
+     Ermino (little expecting such an answer as he received), `I
+     beg you would let me know what that is.'  Gulielmo
+     immediately replied, `Paint Liberality.'  When Ermino heard
+     this, such a sudden shame seized him, as quite changed his
+     temper from what it had hitherto been; and he said: `Sir, I
+     will have her painted in such a manner that neither you, nor
+     any one else, shall be able to say, hereafter, that I am
+     unacquainted with her.'  And from that time such effect had
+     Gulielmo's words upon him, he became the most liberal and
+     courteous gentleman, and was the most respected, both by
+     strangers and his own citizens, of any in Genoa."
+
+	|95.~  Monte Veso is among the Alps, between Piedmont and
+Savoy, where the Po takes its rise.  From this point eastward to
+the Adriatic, all the rivers on the left or northern slope of the
+Apennines are tributaries to the Po, until we come to the
+Montone, which above Forl@i is called Acquacheta.  This is the
+first which flows directly into the Adriatic, and not into the
+Po.  At least it was so in Dante's time.  Now, by some change in
+its course, the Lamone, farther north, has opened itself a new
+outlet, and is the first to make its own way to the Adriatic.
+See Barlow, ^Contributions to the Study of the Divine Comedy~, p.
+131.  This Comparison shows the delight which Dante took in the
+study of physical geography.  To reach the waterfall of
+Acquacheta he traverses in thought the entire valley to the Po,
+stretching across the whole of Northern Italy.
+
+	|102.~  Boccaccio's interpretation of this line, which
+has been adopted by most of the commentators since his time, is
+as follows: "I was for a long time in doubt concerning the
+author's meaning in this line; but being by chance at this
+monastery of San Benedetto, in company with the abbot, he told me
+that there had once been a discussion among the Counts who owned
+the mountain, about building a village near the waterfall, as a
+convenient place for a settlement, and bringing into it their
+vassals scattered on neighboring farms; but the leader of the
+project dying, it was not carried into effect; and that is what
+the author says, ^Ove dovea per mille~, that is, for many, ^esser
+ricetto~, that is home and habitation."
+
+	Doubtless grammatically the words will bear this meaning.
+But evidently the idea in the author's mind, and which he wished
+to impress upon the reader's, was that of a waterfall plunging at
+a single leap down a high precipice.  To this idea, the
+suggestion of buildings and inhabitants is wholly foreign, and
+adds neither force nor clearness.  Whereas, to say that the river
+plunged at once bound over a precipice high enough for a thousand
+cascades, presents at one a vivid picture to the imagination, and
+I have interpreted the line accordingly, making the contrast
+between ^una scesa~ and ^mille.~  It should not be forgotten
+that, while some editions read ^dovea~, others read ^dovria~, and
+even ^potria.~
+
+	|106.~  This cord has puzzled the commentators
+exceedingly.  Boccaccio, Volpi, and Venturi, do not explain it.
+The anonymous author of the ^Ottimo~, Benvenuto da Imola, Buti,
+Landino, Vellutello, and Daniello, all think it means fraud,
+which Dante had used in the pursuit of pleasure, -- "the panther
+with the painted skin."  Lombardi is of opinion that, "by girding
+himself with the Franciscan cord, he had endeavored to restrain
+his sensual appetites, indicated by the panther; and still
+wearing the cord as a Tertiary of the Order, he makes it serve
+here to deceive Geryon, and bring him up."  Biagioli understands
+by it "the humility with which a man should approach Science,
+because it is she that humbles the proud."  Fraticelli thinks it
+means vigilance; Tommaseo, "the good faith with which he hoped to
+win the Florentines, and now wishes to deal with their fraud, so
+that it may not harm him"; and Gabrielli Rossetti says, "Dante
+flattered himself, acting as a sincere Ghibelline, that he should
+meet with good faith from his Guelf countrymen, and met instead
+with horrible fraud."
+
+	Dante elsewhere speaks of the cord in a good sense.  In
+^Purgatorio~, VII.114, Peter of Aragon is "girt with the cord of
+every virtue."  In ^Inferno~, XXVII. 92, it is mortification,
+"the cord that used to make those girt with it more meagre"; and
+in ^Paradiso~, XI. 87, it is humility, "that family which had
+already girt the humble cord."
+
+	It will be remembered that St. Francis, the founder of
+the Cordeliers (the wearers of the cord), used to call his body
+^asino~, or ^ass~, and to subdue it with the ^capestro~, or
+halter.  Thus the cord is made to symbolize the subjugation of
+the animal nature.  This renders Lombardi's interpretation the
+most intelligible and satisfactory, though Virgil seems to have
+thrown the cord into the abyss simply because he had nothing else
+to throw, and not with the design of deceiving.
+
+	|12.~  As a man does naturally in the act of throwing.
+
+	|131.~  That Geryon, seeing the cord, ascends, expecting
+to find some ^moine d$efroqu$e~, and carry him down, as Lombardi
+suggests, is hardly admissible; for that was not his office.  The
+spirits were hurled down to their appointed places, as soon as
+Minos doomed them.  ^Inferno~, V.15.
+
+	|132.~  Even to a steadfast heart.
+

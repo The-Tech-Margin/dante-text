@@ -1,0 +1,119 @@
+	|Proemio.~  Incomincia il chapitolo decimo di Paradiso.
+
+	|1-27.~ 
+
+   ^Ghuardando nel suo figlio chon amore~
+   ^Che ll'uno e ll'altro etternalmente spira~
+   ^Lo primo e inefabile valore.~
+
+Trattato l'altore dell'anime beatifichate nella spera di Venere ora 
+intende trattare della quarta spera del cielo cio@e della spera del 
+Sole la quale chome pi@u perfetta ist@a nel mezzo dell'altre sei spere. 
+ E puotesi dividere questo capitolo in quatro parti gienerali.  In 
+questa prima parte di questo chapitolo l'altore iscrive esordiando 
+l'ordine del cielo.
+
+	|28-48.~ 
+
+   ^Lo ministro maggior della natura~
+   ^che del valor del cielo il mondo inprenta~
+   ^e chol suo lume il tempo ne misura.~
+
+In questa seconda parte l'altore descrive chom'egli sal@i nella quarta 
+spera del cielo cio@e nella spera del Sole la quale @e signiore di 
+tutte l'altre.  E lui tutte l'altre hanno a seghuire questa.  O vuogli 
+uno re e ghuarda quanti ordini e ministri conviene avere a volere 
+ghovernare il suo regnio.  Simile il Sole @ene re e signiore di tutti 
+gli altri pianeti e tutti hanno a ministrare secondo la sua volont@a 
+etc. ymo a solem tamquam a principe omnes alii planete chapiunt e nomen 
+e lumen he home [sic] generat e sol.  Altro.  et sol dat vitam e 
+medicus conservat eam e sol est oculus mundi e cor cieli etc.
+
+	|49-81.~ 
+
+   ^Tal era quivi la quarta famiglia~
+   ^dell'alto padre che sempre la sazia~
+   ^mostrando chome spira e come figlia.~
+
+In questa terza parte l'altore fa menzione in gieneralit@a dell'anime 
+poste in questa spera del Sole e mettele in similitudine d'una grilanda 
+di stelle e istieno intorno al sole e d@a per esempro questa 
+similitudine cos@i diciendo
+
+   ^Cos@i cingier la figlia di Latona~
+   ^veden talvolta quando l'aere @e pregno~
+   ^s@i cche ritegnia il fil che fa la zona.~
+
+Cio@e la Luna questa si @e una comperazione che tti d@a l'altore della 
+Luna quando molte volte la sera per offuschamento d'alchuna nebbia per 
+freddura.  O tu la vedi dintorno a un circhulo simili dicie che queste 
+anime in fighura di stelle istavano intorno dal sole e grande chopia e 
+quantit@a erano.
+
+	|82-148.~  Or narra l'altore d'alquanti in partichularit@a 
+incominciando cos@i
+
+   ^E dentro all'un sent@i chominciar quando~
+   ^lo raio della grazia onde s'acciende~
+   ^veracie amore e che po' crescie amando.~
+
+In questa quarta parte l'altore fa menzione in partichulare d'alquanti 
+spiriti posti in quella spera del Sole per le loro virtudi e santit@a 
+chome il Sole @e lume sopra tutti gli altri lumi chos@i chostoro so' 
+lume e specchio della nostra santissima fede.  E 'l primo che ll'altore 
+pone ch'egli vedesse o a lui parlasse dicie che fu lo spirito di san 
+Tomaso d'Aquino e pollo per lo primo per la sua sentita i[n] scienzia e 
+virt@u e si dicie chom'egli fu dell'ordine di san Domenicho nel quale 
+chi v'entra ciaschuno si pu@o fare salvo attendendo all'ordine 
+naturalmente chome si dee.  Ancora fa l'altore che san Tomaso gli 
+mostra un altro ispirito cio@e 'l secondo nominandogliele e si gli 
+dicie che quello che gli @e allato @e frate Alberto il Grande di 
+Colognia.  Costui si ffu frate predichatore sommo e valentissimo huomo 
+in iscienzia.  Ancora fa che gli mostri uno spirito d'un Graziano il 
+quale fu lombardo e ffu monacho di san Filicie in Bolognia huomo di 
+santa vita povero e valentissimo in iscienzia intanto ch'egli fu cholui 
+che fecie i decretali.  Il quarto spirito si fu Pietro Lombardo il 
+quale fu valentissimo huomo nelle scritture e ffu chiamato chostui il 
+maestro Piero delle storie.  E ffu fatto veschovo di Parigi e ffu 
+cholui che fecie i[l] libro delle sentenzie.  Il quinto spirito fu 
+quello di Salamone il quale vide pi@u adentro che huomo terreno.  
+Grandi quistioni son fatte e state tra i valenti huomini s'egli @e 
+salvo o no ma Dante il mette per salvo in questa spera del Sole.  Il 
+sesto spirito fu quello di Dionigio Aryopagita il quale fu grande 
+astrologho e valentissimo huomo in tutte le scienzie e ffu al tempo di 
+Cristo quando fu paxionato e crocifisso.  Egli vide per astrologia che 
+'l sole ischuro e disse chos@i a' suoi disciepoli.  O veramente Iddio 
+sostiene pene o 'l mondo si disfa e poi ivi a ppoco tempo ud@i le 
+prediche di san Paolo e per quello si convert@i alla fede cristiana e 
+fecie poi molti libri in aiuto della fede di Cristo e ffu costui della 
+citt@a d'Attene grecho.  Il settimo ispirito fu santo Ambruogio e ffu 
+arciveschovo di Melano e ffu molto utile e buono alla chiesa di Dio e 
+perseghuit@o molto gli eretici i[n] lloro distruzzione ed essendo una 
+volta fra ll'altre a Roma e predicando del Nostro Signiore s@i ssi 
+convert@i alla sua predica santo Aghostino il quale era huomo infedele 
+e molto iscienziato ed era venuto di Grecia ad abitare a Roma il quale 
+Aghostino convertito fu il pi@u eciellente dottore che mai avesse la 
+chiesa di Dio e questo fu ll'ottavo.  Santo Aghostino fu barbero 
+d'Africha.  Santo Girolamo fu di Dalmacia quasi unghero.  Santo 
+Ambruogio e san Greghorio furono romani.  Il nono spirito fu quello di 
+Boezio il quale fu sommo in tutte le scienzie e nobile e gientile huomo 
+romano d'una chasa chiamati i Mally Torquati ed ebbe tutti gl'ufici e 
+degnit@a di Roma e poi fu incarcierato in povert@a e fecie u[n] libro 
+di consolazione e di trinitate e di vita iscolasticha e in ogni 
+iscienza iscrisse sommo musicho e poi il fecie morire Teodorigho re de' 
+Ghotti e questo fecie perch@e Boezio il predichava volendolo ridurre 
+alla fede cristiana e per risistere alla sua tirannia e mala signioria 
+e ruberie e rapine.  Il decimo fu lo spirito di santo Sidero il quale 
+fu arciveschovo di Sibilia e ffu gran dottore e filosafo e storico 
+nella santa chiesa di Dio e si fecie que[l] libro il quale si chiama la 
+Etimologia ed @e imagine mundi e cieli e croniche assai e ffu maximo 
+macrocosmo del mondo.  L'undecimo fu lo ispirito di santo Beda di Santo 
+Vittore chostui fu sacierdote al tempo che llo studio si part@i da 
+Roma.  Il duodecimo fu lo spirito di Ricciardo il quale fu secondo a 
+Beda confermatore dello studio di Parigi e Beda era stato il primo che 
+llo cre@o.  Il tierzo decimo si fu lo spirito d'uno Sigieri del Camante 
+il quale era valentissimo in tutte le scienze ed era infedele.  Questo 
+e molti altri pone in questo cierchio del Sole a simile che chome egli 
+il pi@u isplendiente di tutti cos@i mette tutti dentro i pi@u 
+splendienti huomini istati al mondo di tutti gli altri istati in virt@u 
+e in acrescimento alla nostra santa fede cristiana.

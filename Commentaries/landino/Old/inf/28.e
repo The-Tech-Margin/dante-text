@@ -1,0 +1,489 @@
+	|1-6.~  [c.146v] Ne' due precedenti canti ha tractato el nostro 
+auctore de' fraudulenti consiglieri puniti nell'octava bolgia.  Hora 
+pone e' seminatori di scandali et di cisme et heresie: e' quali perch$e 
+chon loro fraude hanno distructi et seperati quegli che prima vivevono 
+congiunti: et in concordia / meritamente pone havere e' loro membri 
+seperati et divisi et stracciati pi@u et meno secondo che maggiori o 
+minori discordie hanno seminato: Et in questo luogho quadra el decto 
+del Psalmista: ^Filii hominum dentes eorum arma et sagitte: Lingue 
+eorum gladius acutus~.  |Chi porria mai~.  Come optimo poeta havendo a 
+tractare chose grandi: et tragiche usa tal principio che faccia 
+l'auditore attento dimostrando che alla grandeza delle cose non si pu@o 
+trovare parole convenienti.  Similmente Virgilio: ^Non michi si lingue 
+centum sint: oraqu[e] centum Ferrea vox omnes scelerum comprendere 
+formas.  Omnia penarum percurrere nomina possem.~  Imita adunque 
+Virgilio: et Virgilio imita Homero.  Adunque |Chi porria mai~: Quasi 
+dica nessuno.  |Dicere del sangue et delle piaghe~.  La quantit@a del 
+sangue: et la crudelt@a delle piaghe.  |Appieno~ / assuficientia.  |Pur 
+chon parole sciolte~.  Con oratione soluta et in prosa: Imper@o che chi 
+scrive in versi usa parole con legate con certa misura.  Ma chi scrive 
+in prosa usa parole libere et sciolte da ogni misura et rima: Et la 
+sententia @e questa Nessun potrebbe dire abastanza l'orribile stratio 
+quando bene scrivessi in prosa dove @e pi@u facile a exprimere ci@o che 
+voglamo che in versi: O veramente |Per narrar pi@u volte~.  in due modi 
+si pu@o ordinare questo texto: O veramente chi porria narrare le 
+piaghe: le quali io vidi per narrar pi@u volte.  Cio@e io le vidi con 
+proposito di narrarle pi@u volte.  O veramente diremo Chi porria mai 
+narrare appieno per narrare pi@u volte: cio@e bench$e non una volta: ma 
+pi@u le narrassi.  |Ogni lingua per certo verria meno~: A narrare: Et 
+assegna la ragione |Per lo nostro sermone~: insufficiente: |Et per la 
+mente~: insufficiente: |Hanno~: e' quali sermone et mente hanno: 
+|Piccol seno~: cio@e piccolo riceptacolo sono poco capaci.  |A 
+comprenhendere tanto~: cio@e ad intendere s@i gran chosa.
+
+	|7-21.~  La sententia @e che le ferite date in tutte le battaglie 
+facte in diversi tempi ne' paesi: che lui pone sarebbono nulla a 
+comperatione delle ferite che havevono quegli e' quali erono in questa 
+// c.147r nona bolgia: Et per@o dice |Se s'adunasse~ Cio@e se insieme 
+si ragunassi tutta la gente: che gi@a fu dolente del suo sangue sparto 
+in su la fortunata terra di Puglia in Puglia: la qual chiama fortunata: 
+perch$e la fortuna in quella dimostr@o molta variet@a: Et pone cinque 
+guerre.  La prima che fu tra Enea et Turno: la quale scrive 
+elegantissimamente Virgilio negl'ultimi sei libri: et dimostra strage 
+et occisione terribile.  |O per la lunga guerra / che dell'anella f$e 
+s@i alte spogle~.  Intende el conflicto facto a Canne in Puglia: et la 
+grandissima ropta che Hanibale capitano de' cartaginesi decte a' romani 
+per la temerit@a di Marco Varrone consolo el quale contro al consiglo 
+di Paolo Emilio suo collega volle appiccare la battagla potendo 
+schifarla: et a poco a poco consumare gl'exerciti d'Hanibale: el quale 
+non poteva ogni giorno rinnovare nuovi soldati: et entr@o in battagla 
+in quella hora del d@i: nella quale el sole percotea gl'occhi a' romani 
+soldati: Et similmente el vento gl'offendea grandissimamente portando 
+da' luoghi arridi la polvere contro alle lor faccie.  Furono uccisi in 
+quel giorno ottanta senatori.  Due questori.  Ventuno tribuni di 
+militi.  Alchuni huomini suti gi@a o consoli o pretori o edili.  
+Quaranta miglaia di pedoni.  Duomila septecento cavalieri.  Di tanti 
+corpi fece fare Hanibale un ponte col quale pass@o l'exercito.  Onde 
+tanto extenuo le forze romane che se havessi saputo usare si prospera 
+fortuna: et di subito venire a Roma prima che gl'animi sbigottiti si 
+rihavessino o ad ad (sic) alchuno riparo provedessino harebbe preso 
+Roma.  Ma lo 'ndugio suo gli tolse la victoria.  Onde Maharbal 
+cartaginese per isdegno grid@o <Tu sai vincere Hanibale Ma non sai usar 
+la victoria.>  Il perch$e saviamente dixe el Petrarcha: <Vinse Hanibal 
+ma non seppe usar poi / Ben la victoriosa sua ventura.> |Con quella che 
+sent@i de' colpi dogla~.  Fu antico duca di Normandia Riccardo et 
+chostui hebbe due figluoli Riccardo el quale successe al padre: et 
+Ruberto Guiscardo: el quale nell'anno della salute mille septanta venne 
+in Puglia a Ruberto puglese in quel tempo ivi duca: et a chostui decte 
+grande aiuto nelle guerre contro al principe di Salerno: Et finalmente 
+Ruberto non havendo figluoli maschi se lo fece genero et successore del 
+ducato.  Il perch$e Guiscardo per militare virt@u vinse la Puglia la 
+Calabria et tutto el reame di Sicilia el quale havea occupato Alexo 
+imperadore de' greci: Et di poi fu in favore di Gregorio octavo contra 
+Arrigho tertio.  E' suoi successori regnorono insino a' tempi d'Arrigho 
+padre di Federigho secondo.  |Et l'altra el cui ossame anchor 
+s'accogle~.  Pone la guerra et la sconficta che Carlo primo decte 
+Manfredi non sanza prompta opera de' guelfi fiorentini chome altrove fu 
+decto.  |Et l@a da Taglacozzo~.  Questa @e l'altra battagla che Carlo 
+gi@a decto fece contro a Curradino nipote di Manfredi nel piano di 
+sancto Valentino presso a Taglacozzo.  |Alardo~.  Questo fu franzese: 
+el quale in que' tempi veniva di Terra Sancta barone non di piccola 
+auctorit@a et gi@a vecchio.  Ma vedendo le poche forze di Carlo contro 
+a Curradino lo consigl@o che si fidassi pi@u nel consiglo che 
+nell'armi.  Il che hebbe tanta auctorit@a appresso di Carlo: che lui 
+gli commisse la cura del tutto.  Et per sua prudentia quasi vincto 
+nella battagla ricuper@o la victoria amplissimamente.  Ma non sanza 
+grande occisione da ogni parte.  Fu la battagla nell'anno della salute 
+mille dugento sexantotto nel vigesimo quarto d@i d'agosto.  Et Carlo di 
+poi memoria della chosa: et per salute dell'anime degl'uccisi edific@o 
+una excellente badia chiamata Victoria.
+
+	|22-36.~  Pone conveniente pena Imper@o che meritamente @e aperto et 
+diviso cholui el quale ha diviso o tra huomo et huomo: o tra Dio et 
+l'huomo la carit@a et l'amore seminando scandolo et discordia et 
+scisma: et alleghoricamente interviene questo in simili huomini.  
+Imper@o che sempre hanno la mente distracta et divisa.  Finge adunque 
+che gl'heretici sieno divisi per mezo insino al capo: perch$e hanno 
+diviso la chiesa di Dio la quale debba essere un corpo del qual corpo 
+Christo sia capo.  Pone adunque prima uno aperto dalle coscie al mento: 
+et fa comperatione a una botte della qual sia tracta o la doga del 
+mezo: la quale si chiama mezule: o la collaterale: la quale chiamano 
+lulla: et altri tulla.  Et dice |Veggia~: cio@e // c.147v botte la 
+quale in latino @e decta ^veges~.  |Non si pertugia~: non si fora et 
+apre.  Chos@i per perdere mezule o lulla chome io vidi uno ropto dal 
+mento insino dove si trulla: cio@e insino al fine del busto dove @e 
+l'uscita alle bructure del ventre: et onde escie fetido vento: el quale 
+quando viene fuori con suono et strepito alchuni chiamano trulla 
+bench$e non doctamente.  |Le minugia~: cio@e le budella.  |Trangugia~ 
+s'inghiottisce.  |Mentre che lui veder tutto m'attaccho~: tutto 
+m'appicco: cio@e sto tutto intento.  |Mi dilacco~: Mi straccio et apro 
+Habbiamo decto di sopra che l'auctore pon qui le pene della nona spetie 
+della fraude che si chiama scandolo overo scisma: e' quali peccati sono 
+spetie d'invidia.  Imper@o che s'oppone all'amore che si contiene sobto 
+la carit@a: alla quale @e contraria la invidia.  Questi seminatori di 
+scandolo et di scisma sobto spetie di bene commettono fraude in danno 
+del proximo.  Ma sono tra loro differenti.  Infedelit@a.  Scisma: et 
+Heresia.  Infedelit@a @e opposita alla fede: et @e non creder quello: 
+che crede la fede in ogni parte et chosa.  Heresia @e partirsi dalla 
+fede in alchuna parte o fare alchuno mutamento in quella.  Scisma @e 
+parti[r]si in tutto dalla fede et dall'unione di quella.  Et perch$e 
+questo @e maggior che e' due primi: per@o finge el poeta che sia punito 
+in questa pi@u bassa parte.  Scisma adunque @e divisione et seperamento 
+dell'unit@a della fede et della carit@a.  Ma anchora la divisione nelle 
+citt@a tra parte et parte di cittadini: et anchora tra huomo et huomo 
+si comprende sobto questo peccato.  Adunque chi ha commessa heresia 
+nella fede @e diviso tutto dal mento in gi@u: perch$e ha diviso el 
+corpo della chiesa della quale @e capo Christo: et chi ha commesso 
+scandolo tra' principi che sono capo de' popoli hanno le loro piaghe 
+nel capo: et chi ha diviso e' parenti hanno taglato le mani: et quegli 
+che hanno diviso figluolo da padre / hanno taglato el capo et portanlo 
+in mano.  Ma perch$e la historia di Mahometto non @e al tutto da 
+pre[f]erire Noteremo chome nell'anno della nostra salute secentesimo 
+decimo Sedente Bonifatio tertio et imperante Honorio fu in Arabia 
+Mahometto mago et di somma callidit@a et cupido d'honore / non humano 
+ma divino: et in sua giovent@u vide varie terre et nationi: et in 
+Hierusalem intese la mosaicha: et altrove la christiana legge: et 
+chos@i instruct@o con miracoli che facea con arte magica persuadecte 
+alla imperita moltitudine d'Arabia che lui fussi Messia venuto da 
+cielo: Et decte nuove leggi mescolandovi molte chose voluptuose: per le 
+quali facilmente tirava a sua devotione la turba: Et chon questo favore 
+acquist@o la signoria: et maxime fingendosi di sanctissima vita et 
+chostumi: et con somma callidit@a havea avezo una colomba bianca a 
+pascersi ne' suoi orecchi ne' quali furtivamente poneva panico et 
+simile esca In forma che quando era a predicare al popolo facea aprire 
+alla colomba et di subito quella gli veniva agl'orecchi: et affermava 
+epsa essere lo Spirito Sancto el quale gli mostrava quello fussi bene a 
+fare.  Arrosesi a tanta astutia un'altra peste molto pernitiosa.  
+Imper@o che Sergio monaco cadendo nella heresia nestoriana fu cacciato 
+dagl'altri monaci.  Il perch$e passo in Arabia et aggiunsesi a 
+Mahometto: Et perch$e era molto versuto: et pieno di callidit@a gli 
+somministrava molti sagaci consigli: et Mahometto lo teneva racchiuso 
+affermando lui esser l'angelo Gabriel el quale la maestrava di tutte le 
+cose che utili all'anima.  Alchuni dicono che Sergio fu mandato da Roma 
+a predicare agl'arabi et a volgergli alla nostra religione: Et 
+promissongli che portandosi virilmente harebbe el capello: Et di poi 
+non essendogli observata la promessa Torn@o in Arabia et cant@o la 
+palinodia cio@e predic@o el contrario di quello che prima havea 
+predicato: et fu a grandissimo aiuto a Mahometto in forma che non solo 
+in Arabia ma in tutto l'Egypto fu reputato vero Messia.  Institu@i che 
+e' suoi popoli fussino chiamati Sarraini o Sarraceni da Sara legitima 
+mogle d'Abraham Quasi legitimi successori della divina successione.  
+Era di tale ingegno che ^etiam~ gl'incomodi suoi usava a suo proposito. 
+ Imper@o che essendo spesse volte oppresso dal morbo caducho ogni volta 
+che poi tornava in s$e fingeva che gli fussi apparito Gabriel angelo: 
+et che lui cadessi per non potere sopportare tanto splendore.  Rimase 
+sanza padre da pueritia: et povero: et fu nutrito dal zio Mor@i di 
+luglo nell'anno della nostra salute sexcentesimo vigesimo primo.  Altri 
+pongono nel secentotrentadue dopo el quale obtenne el suo principato 
+Calypha: et a Calypha successe Achaly el quale cacciato del principato 
+regno Al@i.  Ma essendo lui molto superstitioso / gl'egyptii gli 
+creoron contro Calypha nuovo principe.  |Che merda fa~.  Bench$e spurca 
+sia questa narratione: Nientedimeno non l'us@o el poeta solamente per 
+monstrare la chosa naturale: Ma allegoricamente significa che ci@o che 
+entra in bocca allo scismatico diventa sterco ^id est~ ci@o ^~che 
+impara di doctrina diventa corruptela agl'altri huomini Et certo lui fu 
+grandissima corruptela negl'huomini: la qual non solamente non @e 
+spenta: Ma permette Dio giusto giudice per vendicarsi et punire e' suoi 
+nemici cho' suoi nimici: che tale religione allarghi e' confini.  Onde 
+in questo anno con somma infamia del nome christiano: et non picchola 
+pernitie della misera Italia ha preso Otranto antichamente decto 
+hydrunto in Calabria: Non so quello seguir@a: ma e' peccati de' 
+principi di questa et@a: de' quali quasi tutti sono infecti Et le 
+italiche discordie ci ponghono pi@u timore che speranza.  ^Misereatur 
+nostri deus et illuminet vultum suum super nos~.  Al@i: Alquanti 
+credono che fussi zio di Mahometto et aiutatore in tutte le sue imprese.
+
+	|37-63.~  Dimostra che e' dannati a tale pena girono del continuo 
+intorno a quella bolgia: et un diavolo ogni volta che tornano dallui di 
+nuovo con la spada gli rifa le ferite.  Il che significha // c.148r che 
+lo scismatico sempre s'avvolge nel medesimo errore: et un diavolo cio@e 
+la sua diabolica pertinacia del continuo lo tiene diviso.  |N$e morte 
+el giunse anchor~.  Manifesta a dolcino che si fornisca di vettovagle 
+innanzi che le nevi venghino: perch$e poi non ve ne potrebbe portare 
+essendo in s@i aspra montagna.  |Che non cerchi victoria~: cio@e che 
+non si lasci vincere al Noarese suoi cittadini.  Fu frate Dolcino al 
+tempo di Bonifatio octavo di Noara in Lombardia: et a Vercelli lo 
+nutr@i un prete decto Augusto dal quale dopo alchun tempo trovato in 
+furto si fugg@i a Trento: et nelle montagne a questa citt@a propinque 
+essendo eloquente et di grande ingegno sobto habito di fraticello a 
+quelle genti roze et imperite persuase nuova secta affermando s$e 
+essere vero apostolo mandato da Dio: voleva che ogni chosa per carit@a 
+fussi comune: et maxime le donne excepto la madre et la figluola.  Il 
+che udendo el vescovo di Trento le fece cacciare Dolcino vedendo ogni 
+d@i pi@u crescer la moltitudine che lo sequitava credette essere 
+inexpugnabile se riducendosi nelle montagne di Brescia di Bergamo et di 
+Como non scendessi al piano essendo quelle per natura del luogo et per 
+le nevi molto munite.  Ma finalmente cacciato indi si riduxe in monte 
+Asprissimo tra Noara et Vercelli dove havea seco pi@u di tre mila 
+huomini da portare arme si perch$e potevono apresso di lui adempiere 
+ogni sua volupt@a: si perch$e con la eloquentia sua ogni huomo 
+dilectava.  Ma perch$e Dio non volle che s@i grave scellerateza 
+rimanessi impunita finalmente fu assediato dallo exercito congregato di 
+lombardi savoini provenzali et franzesi.  Et finalmente per fame e' 
+suoi s'arrenderono et lui preso fu condocto a Noara.  Dove mai bench$e 
+da molti fussi stimolato volle ridursi alla vera legge.  Il perch$e fu 
+attanaglato per tutta la citt@a et crudelmente morto huomo sanza fallo 
+se non fussi caduto in tale errore degno di mortale fama: perch$e mai 
+in tanti tormenti mut@o faccia: n$e mai filamento: Ma del continuo 
+confortava e' suoi che perseverassino ne' suo' precepti: N$e di minore 
+francheza d'animo fu Margherita trentina sua mogle: la quale et bella 
+et molto riccha trovando nobili mariti volle piutosto e' medesimi 
+supplicii che ella volessi rinnegare la cisma.  Dur@o l'obsidione uno 
+anno et lo cisma due.
+
+	|64-90.~  Dimostra che Piero da Medicina rimaso con gl'altri chome 
+stupefacto a veder Danthe el quale era in quel luogo non solamente gli 
+parl@o: ma gl'impose ambasciata.  Chostui fu da Medicina posta nel 
+contado di Bologna: Et per molti scandali et discordie che semin@o fra 
+gentili huomi del contado di Bologna e e' cittadini bolognesi.  
+^Preterea~ tra' bolognesi et tyranni di Romagna merit@o qui esser 
+punito: et haver taglato la gola perch$e havea errato con le parole: le 
+quali si formano nella gola et anchora taglato el naso ornamento grande 
+del capo: perch$e divise el contado ornamento della citt@a che @e capo: 
+et havea taglato uno orecchio per havere diviso e' gran cittadini e' 
+quali sono e' sensi del capo.  Chostui admonisce chi vive che si guardi 
+dagli scandoli non perch$e chi @e in Inferno non volessi che tutti 
+gl'altri v'andassino.  Ma perch$e lui era stato principio ad tanti mali 
+temea che quanto pi@u male sequiva tanto // c.148v pi@u gli crescessi 
+la pena.  Discrive el piano di Lombardia per insino in Romagna.  
+Mercab@o e in sul Po et nella fine di Romagna in su lito diverso 
+Vinegia hedificato da' vinitiani di poi preso da Ruberto da Polenta Fu 
+disfacto quando e' vinitiani nel mille trecentocto furono ropti a 
+Ferrara.  Adunque pone tutto el piano di Lombardia: et di Romagna che 
+comincia da Vercelli et viene insino ad Mercab@o.  |A' due miglor da 
+Fano~ Malatestino signor di Rimini sobto spetie di convito ordin@o a 
+Catholica che due principali cittadini di Fano venissino a desinar seco 
+fingendo volere tractare con loro gran chose.  Questi venendo per mare 
+per ordine suo furono sobmersi da messer Guido del Cassero et Angelello 
+da Cagnano |Fuori di lor vasello~.  Questo dice perch$e l'anime loro 
+saranno cacciate fuori del corpo el quale @e chome vasello dell'anima.  
+|Mazarare~: @e legare l'huomo in un sacco: et con una pietra 
+appiccatavi gittarlo in mare.  |Da un tyranno fello~.  Chostui fu 
+messer Malatestino del quale dicemmo di sopra.  |Tra l'isola di Cipri 
+et di Maiolica~ Dimostra che in tutto el mare Mediterraneo non fu mai 
+facto pi@u crudel chosa.  Imper@o che pone Cipri chome isola molto 
+orientale: et molto distante da Maiolica la quale @e a occidente.  
+Cipri fu gi@a congiunta alla Syria chome Sicilia a Italia: et chome 
+Euboea a Boeotia.  @E questa isola posta da oriente nel golfo 
+Pamphilio: et da occidente @e opposita alla Sicilia et alla Syria Isola 
+molto effeminata: et nella quale fu anticha legge che comanda che ogni 
+donna una volta nella vita sua vada al tempio di Venere: n$e prima 
+n'esca che conosca un forestiero.  Maiolica Sono due isole propinque a' 
+liti di Spagna da' greci decte Gymnasie: perch$e gl'habitatori di 
+quelle la state stanno quasi nudi et ^gymnos~ in greco significa nudo: 
+E' latini le chiamano Baleare: perch$e artificiosamente usono le 
+frombole.  La maggiore di queste @e decta Maiolica: et @e presso alla 
+Spagna quanto si navica in uno giorno.  Adunque essendo Cipri molto 
+orientale: et Maiolica occidentale / Dicendo Danthe tra l'isola di 
+Cipri et Maiolica comprendere vuole tutto el mare da levante a ponente. 
+ |Neptunno~: el quale essendo iddio del mare ragionevolmente debba 
+haver veduto ci@o che mai si fece in mare.  @E nella ^Geneologia de' 
+gentili idii~ che Saturno fu signore del cielo: della terra: et del 
+mare: Et di lui restorono quattro figluoli tre maschi Iove Neptunno et 
+Plutone: una femina decta Iunone.  A Iove tocch@o per sorte nella 
+divisione el cielo.  Et Iunone la quale lui tolse per mogle hebbe per 
+dote l'aria.  Neptunno fu contento al mare: et Plutone allo 'nferno.  
+L'allegoria della favola @e che essendo l'universo creato da Dio @e 
+posto nel tempo: Et Saturno niente altro significa che el tempo.  Onde 
+in greco @e decto ^cronos~ da ^chronos~ cio@e tempo: et dicono che lui 
+divor@o tutti e' figluoli che gli nacquono excepto che e' quattro: la 
+cui allegoria di sopra dimonstrammo: Et @e nel verso Neptunno per 
+semplice ^enim~ et non Neptunno per due ^enim~ per rispecto delle rime 
+che sequitano.  |Non di pyrati~: di corsali di mare.  |Non di gente 
+argolica~: gente greca perch$e e' greci son decti ^argolici~ da Argos 
+principal citt@a di Grecia: e' quali furono lungo tempo quasi signori 
+de' mari.  O veramente dixe gente argolica gente che navicassi: et 
+chiama e' navicanti argolici da Argos prima nave: della quale altrove 
+diremo.  |Quel traditore~: cio@e Malatestino.  |Che vede pur con 
+l'uno~: cio@e vede con uno occhio perch$e era cieco dall'altro.  |Et 
+tien la terra~.  Intendi Arimini [Rimini].  |Che tale @e qui mecho / 
+che vorrebbe esser digiuno di vederla~: et intende di Curione: Chostui 
+fu romano oratore molto eloquente del quale scrive Cicerone.  Fu 
+inquieto et factioso et molto favor@i le parti di Cesare nella guera 
+civile contra a Pompeo: Et riducendo gi@a Cesare l'exercito di Gallia a 
+Roma si ferm@o ad Arimini: perch$e secondo le leggi non potea passare 
+con l'exercito Rubicone fiume: Venne Curione da Roma el quale allora 
+era tribuno della plebe: Et in forma commosse con sua eloquentia Cesare 
+che dove era anchora dubiose passassi o no diliber@o di passare.  
+Debitamente adunque essendo Curione grande cagione delle civili 
+dissensione maxime per la sua eloquentia el poeta lo pone sanza lingua. 
+ Adunque non vorrebbe haver mai veduto Arimini: perch$e in quella 
+commisse lo scandolo pel quale qui @e dannato.  |Far@a venirgli la 
+parlamento seco~ et poi gl'uccider@a: et per questo non bisogner@a che 
+si botino o faccino prieghi |al vento di Focara~.  Focara @e luogho in 
+mare fra Pesaro et la Catholica s@i pericoloso per la tempesta de' 
+venti: che tutti e' navicanti che vi passano fanno voti et prieghi a 
+Dio per loro scampo.  Ma costoro essendo morti non haranno pi@u a 
+navighare per questo luogho per tornare a casa.
+
+	|91-102.~  Domanda danthe chi @e colui della veduta amara: cio@e chi 
+@e quello a chui pare amaro haver veduto Arimini: perch$e havea decto 
+che vorrebbe essere digiuno di vederlo.  Et Piero // c.149r allhora con 
+sua mano aperse la bocca a Curione: el quale in quel luogo gl'era 
+compagno: et mostra che lui havea taglato la lingua.  Questa pena era 
+conveniente in lui: perch$e meritamente havendo peccato con la lingua 
+dovea in quella essere punito.  |Questi~ / Curione: |Scacciato~ / Da 
+Roma da' pompeiani.  |Sommerse~ / Rimosse et lev@o via el dubitare di 
+Cesare.  Imper@o che essendo giunto Cesare al fine della sua provincia: 
+bench$e la cupidit@a del signoreggiare lo pignessi a passare el fiume 
+di Rubicone: et a fare guerra a' pompeiani: Nientedimeno la reverentia 
+delle leggi lo ripremea.  Ma Curione l'accese al passare affermando che 
+el fornito sempre con danno l'attendere sofferse.  Questo @e verso 
+tolto di Lucano.  Imper@o che lui induce Curione che persuade a Cesare 
+al fare impresa contro a Pompeo Maxime essendo lui instructo et 
+preparato et d'exerciti et d'ogn'altra chosa che bisognassi alla 
+guerra.  Onde dice: ^Tolle moras semper nocuit differre paratis~.  
+Adunque afferm@o Curione a Cesare |Che 'l fornito~: che 'l preparato.  
+|Sempre sofferse con danno l'attendere~: cio@e l'aspectare.  Il che 
+significa sempre nocette a chi @e preparato differire et indugiare.  
+|Oh quanto mi parea sbigottito / Curio~.  Convenientissima pena che chi 
+havea peccato con la eloquentia et con l'audacia fussi punito co' suoi 
+contrarii che sono silentio et sbigottimento.
+
+	|103-111.~  Se Curione per haver nociuto con la lingua era stato 
+privato della lingua conveniente era che 'l Mosca havessi perduto le 
+mani: perch$e con le mani et chon la forza havea nociuto.  Habbiamo 
+posto nel .xvi. del Paradiso le 'nfelicissime noze alla nostra 
+repubblica di messer Buondelmonte della nobile famigla de' Buondelmonti 
+N$e accade ripeterle.  Fu adunque ne' medesimi tempi Mosca degl'Uberti 
+nobile famigla: et quasi principale nella ghibellina septa: Chostui 
+pi@u temerario che savio si trov@o nella consultatione che facevano 
+Uberti.  Lamberti.  Amidei: et altri della factione ghibellina contro a 
+messer Buondelmonte: el quale poco avanti rifiutata la sposa datagli 
+degl'Amidei / havea sposata una de' Donati: Et essendo consiglato 
+prudentemente da alchuni vecchi che si procedessi con maturit@a et 
+considerassi s@i el fine.  Lui pel contrario consiglo che di subito 
+s'uccidessi: dicendo cosa facta capo ha: Et dopo el consiglo con huomi 
+simili allui l'uccise.  Onde nacquono infinite discordie: et lo exilio 
+hora de' ghibellini hora de' guelfi.  |Levando e' moncherini~: cio@e 
+alzando le braccia sanza mani Perch$e moncherino si chiama la fine del 
+braccio privato della mano: et alzando le braccia el sangue che usciva 
+de' moncherini imbractava el volto.  |Che dixe lasso capo ha chosa 
+facta~: chome di sopra exponemmo.  |Che fu mal seme~: perch$e da questo 
+consiglo infinite discordie et guerre procedectono Non solo tra e' 
+nostri cittadini ma anchora per tutta Toscana.  |Et io~: Danthe.  
+|Aggiunsi~ alle sue parole |Et morte di tua stiatta~: Quasi dica tu ti 
+glorii che le tue parole furono mal seme per la gente tosca: Et io 
+aggiungo che furono anchora distructione della tua schiatta et 
+progenie: Et le parole di Danthe gl'arrosono duolo al duolo della pena 
+in forma che confuso |Sen gio~ / se n'and@o chome huomo tristo et 
+vitioso: |Et matto~: et sanza prudentia.  Il che dice: perch$e in vero 
+el consiglio del Mosca fu di pessimo cittadino: et d'huomo che al tutto 
+abbondassi di malignit@a: et fussi vacuo d'ogni prudentia.
+
+	|112-126.~  Havea taglato la lingua Curione: perch$e con quella havea 
+seminato le discordie.  Havea taglate le mani el Mosca: perch$e el 
+consiglo suo era stato de menare et la forza: Et per la medesima 
+ragione induce Beltramo havere seperato el capo dal resto del corpo: la 
+qual pena finge esser preparata a quegli e' quali seminano discordia 
+tra' congiunti di sanque: perch$e hanno diviso quegli e' quali erono 
+chome membri che doveano essere congiunti in un chorpo.  Et moralmente 
+// c.149v possiamo intendere che tali huomini habbino diviso el capo 
+dal busto: perch$e hanno una cosa nella lingua et un'altra nel cuore.  
+|Lo stuolo~ / La moltitudine proprio stuolo @e la schiera armata in 
+battagla.  |Et vidi chosa ch'io harei paura~ di contarla sanza 
+testimonio.  Imper@o che chi narra chose incredibili: et non vuole 
+esser tenuto bugiardo cerca testimonii.  Qui chome optimo poeta 
+dimostra che conosce esser difficile a persuadere quello che narra: 
+accioch$e non sia tenuto vano o improvido: et dimostrando conoscerlo 
+gl'acquista auctorit@a et fede.  Chos@i Ovidio: ^Saxa quis hoc credat 
+nisi sit pro teste vetustas~.  |Se non che conscientia m'assicura~.  
+Temerebbe l'huomo di dire chose che l'havessino a tenere bugiardo 
+perch$e paiono impossibili: Ma essendo vere la conscientia la quale @e 
+pura d@a ardire: perch$e la conscientia @e buona scorta a fare l'animo 
+ardito et franco: Et come l'huomo d'arme difeso dallo 'sbergo overo 
+coraza non teme di mettersi tra le spade de' nimici: cos@i quando 
+l'huomo si sente Puro et sa che dice el vero prende sicurt@a di dire 
+bench$e la chosa paia impossibile: Et certamente la conscientia non 
+solo nel dire.  Ma in ogni humana operatione da gran francheza.  |Io 
+vidi certo~.  Due chose fanno dire le bugie: la prima quando per 
+qualche cagione di nostra volont@a diciamo quello che sappiamo esser 
+falso.  Secondo quando bench$e non volessimo dire el falso: 
+Nientedimeno lo diciamo credendo quello esser vero: o per errore preso: 
+o per simplicit@a: o per mala informatione.  Adunque el poeta ha 
+dimostro di sopra che non pecca per malitia in dire el falso.  Hora 
+dimostra che n$e anchora per ignorantia mentiscie: conciosiach$e narra 
+non quel che ud@i dove potrebbe essere ingannato.  Ma quel che lui 
+vide: Et vide s@i certo che anchora glel pare vedere.  |Et anchor par 
+ch'io veggia~.  Dimostra tanto havere in fixo nella memoria quello che 
+vide allhora che anchora glel pare vedere.  Et per transito dimostra 
+che la memoria ritiene assai le chose che hanno dato admiratione o 
+pavento: o altra grande perturbatione: perch$e tal chose fanno pi@u 
+profonda impressione di s$e.  |Un busto~: perch$e in latino ^busto~ 
+significhi el luogo dove ardevono e' corpi humani per riponer poi la 
+cenere in piccol sepolcro: et pongasi anchora per sepolcro: 
+Nientedimeno in nostra lingua diciamo busto tutto el corpo humano 
+excepto che el capo.  |E 'l capo tronco tenea per le come~: teneva pe' 
+capegli.  |Pesol~ ^id est~ sospeso et pendente: chome in latino dicono 
+^pensilis~.  |A guisa~.  Ad similitudine et in forma |Di lanterna~: 
+chos@i si portava el capo innanzi per vedere con gl'occhi di quello: 
+chome portiamo la lanterna quando nelle tenebre voglamo vedere.  |Et 
+quei~: Quel capo ci guatava et diceva: |O mei.  / di s$e facea ad s$e 
+stesso lucerna~: chon gl'occhi suoi bench$e separati dal busto faceva 
+lume ad s$e cio@e al suo busto.  |Et era due in uno~.  Imper@o che el 
+capo era separato dal busto.  |Et uno in due~.  Perch$e una medesima 
+anima era nel busto et nel capo: |Chom' esser pu@o quel sa chi su 
+governa~.  Che una medesima anima sia nel capo et nel busto congiunti 
+insieme @e naturale et facilmente s'intende.  Ma che sia nell'uno et 
+nell'altro seperati @e impossibile secondo la natura dell'animale.  
+Imper@o che bench$e l'anima nel corpo sia tutta in tutto: et tutta in 
+ciaschuna parte.  Nientedimeno l'origine et el fonte degli spiriti: e' 
+quali sono el veicolo che porta le forze dell'anima @e nel cuore: et el 
+luogho dove da' predecti spiriti si genera o almancho si d@a 
+perfectione a' sensi et al moto: Et onde nascono e' nervi motivi et 
+sensitivi @e el capo.  Adunque non potendo n$e el cuore per s$e: n$e el 
+capo dare perfectione n$e al senso n$e al moto non pu@o in nessun pacto 
+vivere l'animale quando el capo @e seperato dal resto del corpo.  Se 
+non per potentia sopranaturale.  Adunque cholui che governa lassu che 
+@e sommo et unico Iddio sa chome questo pu@o essere.  Ma l'huomo che 
+non pu@o conoscer l'anima et el corpo se non secondo la natura di 
+quello Non intende chome questo @e contro a sua natura possi addivenire.
+
+	|127-142.~  Giunto lo spirito al luogo ove era Danthe appress@o 
+Appress@o (sic) el suo capo a Danthe: perch$e meglo intendessi el suo 
+parlare.  Di poi dixe che era Beltramo dal Bornio.  Costui fu Beltramo 
+dal Bornio d'Inghilterra.  Altri dicono di Guascogna diputato alla 
+custodia di Giovanni: El cui sopranome fu giovane figluolo d'Arrigho re 
+d'Inghilterra.  Fue nutrito in corte del re di Francia: Et intervenne 
+che un giorno el re dinegh@o una gratia chiestagli: et el giovane che 
+l'haveva chiesta se ne partiva confuso di vergogna.  Il perch$e 
+voltossi el re a' circunstanti domandando qual fussi pi@u mo- // c.150r 
+lesto o el domandare gratia o el dinegarla: Rispose Giovanni che a uno 
+animo generoso era pi@u molesto el dinegare: la qual sententia giudic@o 
+el re si savia che prese congectura che Giovanni havessi a riuscire 
+sapientissimo et di grande animo: et riusc@i nella virile et@a tanto 
+liberale che 'l padre non poteva sostenere s@i grave spesa: et forse si 
+sarebe regholato el giovane se Beltramo non l'havessi confortato alla 
+prodigalit@a.  Finalmente fu constrecto el padre a muovergli guerra: et 
+in battagla fu ferito a morte: Et domandandogli la compagnia de' Bardi 
+di Firenze cento miglaia di fiorini fece testamento et in quello un 
+legato nel quale lasciava l'anima al diavolo se 'l padre non 
+satisfaceva a' Bardi.  |Tu che spirando vai~: cio@e tu che sei vivo.  
+Spirare significa alitare: n$e pu@o vivere chi non alita.  Adunque 
+significa tu che vivo vieni tra' morti.  |Achitophel non f$e pi@u 
+d'Absalone~.  Nel secondo libro de' Re @e scripto che Amon primogenito 
+di David innamor@o di Tamar sua sorella: et di consiglo d'un fidato 
+amico preg@o David che gli mandassi Tamar a preparargli el cibo.  And@o 
+Tamar et Amon per forza bench$e la fanciulla sempre contradicessi la 
+conobbe: et di poi parendogli che epsa fussi stata dura verso di lui la 
+cacci@o: Epsa rivel@o la scellerateza ad Absalone fratello: et di poi 
+per suo consiglo tacette el facto.  Dopo due anni Absalone chiam@o a 
+convito in una sua villa el padre David: et tutti e' frategli: et nella 
+fine del convito fece uccidere Amon et fuggissi in Syria.  Ma dopo tre 
+anni Ioab principe della militia di David lo riconcili@o al padre: Onde 
+torn@o in Hierusalem: bench$e due anni stessi che David non volle che 
+venissi nel suo conspecto: El terzo anno gli perdon@o absolutamente et 
+parlogli.  Ma Absalone con varie arti molte trib@u si concili@o: et 
+fecele inimiche al padre: et chiamoronlo re: Et tyr@o ad s$e Achitophel 
+consigleri di David nella sua congiura.  David ordin@o che un altro suo 
+consigleri chiamato Cusi fingessi di ribellarsi ad Absalone chome 
+Achitophel: et ordin@o tantoch$e e' consigli d'Achitophel non furono 
+pi@u accepti ad Absalone.  Il perch$e Achitophel s'impicc@o: Et 
+Absalone credendo a' consigli fraudulenti da Cusi finalmente fu ropto 
+in Effrain: Et di poi nella fuga passando sobto u[n]a quercia rimase 
+apiccato a' rami per la chioma: Et da Ioab uno de' capitani di David fu 
+morto.  |Perch' io part@i s@i congiunte persone~: Divisi padre et 
+figluolo.  |El mio cerebro~ @e diviso dal suo principio dal cuore el 
+quale @e principio degli spiriti.  |Che @e in questo troncone~ in 
+questo busto: perch$e el cuore @e nel pecto.  |Chos@i s'observa in me 
+lo contrapasso~.  @E in iure civile ordinato la pena del talione: la 
+quale @e che chi ha facto ingiuria sia punito in quel medesimo.  Come 
+verbi gratia chi tagla la mano a uno vuole tal legge che allui 
+similmente sta taglato la mano: Et questo chos@i punito in latino @e 
+^contra passus~: perch$e ha patito allo 'ncontro quello che havea 
+inferito ad altri.  Adunque dixe el poeta lo contrapasso cio@e patire 
+allo 'ncontro di quel ch'io ho facto s'observa in me.  Imper@o che 
+havendo io diviso el figluolo dal padre che sono un corpo: perch$e 
+^pater et filius censetur per eadem~: et per@o el mio corpo allo 
+'ncontro di questo @e diviso.
+

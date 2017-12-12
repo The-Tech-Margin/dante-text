@@ -1,0 +1,98 @@
+{CNTXT}
+
+;This is a special menu for displaying hits in context.  Written by
+; JMA 2/1/89 using BRS' example on how to imitate the native ..pc
+; command from within MNS as a starting kernel
+;	MODIFICATION HISTORY
+;	5/4/89 JMA fixed to handle complex searches (where hits occur
+;		in both text and bibliographic fields in each document
+;		so that only the textual hit appears.  Thanks to Andy
+;		Chillrud at BRS for the help.
+
+:REQUEST ~XG16~   ; turns off display of subpara #'s
+:REQUEST ~XG1~    ; turns off display of paragraph names
+:REQUEST ~X16-~   ; turns off display of document #
+		  ; This is sloppy programming-we should remember the old
+		  ; values, but this is a difficult task.  Actually, it
+		  ; might be just as efficient to SET the values as I did
+		  ; here as a permanent matter, since what they tag is
+		  ; unnecessary in our db.
+		  ; actually-this NEEDS to be moved to GETPD.MNS just before
+		  ; the jump to this menu
+:COMPARE @PSTAT
+     TO "OCCURRENCE"
+	:REQUEST ~TON,1~ ;1=#sentences.  We can increase later
+	:COMPARE #LEFTOVER
+	     TO "0*"
+		:REQUEST ~TD~ USING @DOC
+		:SET @PSTAT ~PRINT~
+	     TO "5*"
+		:SET @PSTAT ~DOCUMENT~
+	:DONE
+
+     TO "DOCUMENT"
+	:REQUEST ~TDN~
+	:COMPARE #LEFTOVER
+	     TO "0*"
+	  	:SET @PSTAT ~PRINT~
+		:REQUEST ~TD~ USING @DOC
+		:PARSE @DOC EXTRACTING @SELECTION
+	:DONE
+
+     TO "PRINT"
+	:PRINT ~\c~
+	:BRS PRINT PARAGRAPHS ~@PARS~ DOCUMENT ~@DOC~
+	:BRS PRINT 
+	:BRS PRINT PARAGRAPHS ~TEXT~ DOCUMENT ~@DOC~
+	:SEND ~L1~  ;it seems that the #sentences could be put in
+	    	;in a user variable which the user then could set.
+	    	;This is a feature to add later
+	:SHOW
+	:SET @P1 ~Enter document number, \o2F\f2 to see full document, \o2S\f2earch ~
+	:SET @M1 ~Next occurrence~ 
+	:COMPARE @DOC
+	     TO "#DO"
+		:SET @P1 ~\02No more documents\f2~
+		:SET @M1 ~Search~
+	:DONE ; again, sloppy fall-through programming
+	:SET @PSTAT ~DOPROMPT~
+
+     TO "DOPROMPT"
+	:GET @SELECTION PROMPT ~@P1 [@M1]: ~ "F|f|S|s|1-#DOC|" BOTTOM
+	:COMPARE @SELECTION
+	     TO ""
+		:COMPARE @M1
+		     TO "Search"
+			:SET @SELECTION ~S~
+		:DONE
+		:SET @PSTAT ~OCCURRENCE~	;this is the nastiest fall 
+						;through programming I've 
+						;ever seen
+	     TO "S|s"
+		:SET @SELECTION ~~
+		:REQUEST ~XG128~   ; these three requests reset the changes
+		:REQUEST ~XG4~    ; made on entering the menu.  It would be
+		:REQUEST ~X16+~   ; better form to save the old values when
+				  ; when we entered, and restore them here,
+				  ; but this would be much harder and so is
+				  ; left for later
+		:MENU ~GSRCH_~
+	     TO "F|f"
+		:REQUEST ~FF,#CP_DANT.fmt~
+		:PRINT ~\c~
+		:BRS PRINT PARAGRAPHS ~@PARS~ DOCUMENT ~@DOC~
+		:SET #PPROMPT ~Strike \o2RETURN\f2 to continue; \o2C\f2 to go back to Context display: ~
+		:BRS PRINT 
+		:SET #PPROMPT ~~
+		:REQUEST ~FF,#CP_DNTE.fmt~
+		:SET @PSTAT ~DOPROMPT~
+	     TO "1-#DOCS"
+		:REQUEST ~TD,@SELECTION~
+		:PARSE #LEFTOVER EXTRACTING @SELECTION
+		:SET @DOC ~#LEFTOVER~
+		:SET @PSTAT ~PRINT~
+		:SET @SELECTION ~~
+	:DONE
+
+:DONE
+:MENU

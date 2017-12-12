@@ -1,0 +1,1004 @@
+	|Proemio.~  ^In quella parte~ ec.  In questo canto XXIV
+l'autor nostro intende di trattare della VII bolgia ov'elli finge
+che si punisca il peccato del ladroneggio, e non si compie di
+trattare d'esso in questo canto; e dividesi questo canto
+principalmente in due parti, perch@e prima pone come uscirono della
+sesta bolgia, in sul ponte della settima pervenendo; nella seconda,
+come discesono in su la ripa, quivi: ^Noi discendemmo il ponte~ ec.
+
+	|1-78.~  La prima, che far@a la prima lezione, si divide in
+sette parti: imper@o che prima fa l'autore una similitudine; nella
+seconda adatta la similitudine, quivi: ^Cos@i mi fece~ ec.; nella
+terza dimostra come Virgilio lo pose fuori della sesta bolgia,
+quivi: ^E come quei che adopera~ ec.; nella quarta manifesta
+l'abilit@a dell'uscire, quivi: ^E se non fosse~ ec.; nella quinta
+si pone una bella riprensione con esortazione f{a}tta a lui da
+Virgilio, quivi: ^Omai convien~ ec.: nella sesta, come usciti
+della bolgia, presono il cammino, quivi: ^Leva'mi allor~ ec.;
+nella settima priega Virgilio di discendere in dell'altra ripa,
+per veder meglio la continenzia di quella bolgia, quivi: ^Io era
+volto in gi@u~ ec.  Divisa dunque la lezione, @e da vedere la
+sentenzia litterale, la quale dice cos@i:
+
+	Come nel mese di gennaio, quando il sole @e sotto quel
+segno che si chiama Aquario, e gi@a le notti cominciano a mancare
+a noi e crescere a coloro che sono di l@a dal circulo meridiano,
+quando la brinata in sulla terra assomiglia la imagine della sua
+sorella bianca; cio@e della neve; ma poco dura; lo contadino, a
+cui manca la roba, si lieva e guarda e vede la campagna tutta
+biancheggiare, ond'elli si batte l'anca dolendosi, e ritorna in
+casa lamentandosi, come tapino che non sa che si faccia; e poi
+tornato fuori piglia buona speranza, vedendo il mondo aver
+cambiato faccia in poco d'ora, perch@e la brinata @e sparita e
+strutta per lo sole, e piglia suo bastone e caccia fuori le
+pecorelle a pascere; cos@i mi fece sbigottire Virgilio, quando li
+vidi s@i turbare la fronte, e cos@i tosto venne, o vero e' giunse
+lo conforto allo sbigottimento: imper@o che come noi venimo
+al guasto ponte, Virgilio si volse a me con quella faccia dolce,
+ch'io Dante vidi prima al pi@e del monte.  E poi ch'ebbe presa
+alcuna deliberazione, aperse le braccia e presemi, guardando bene
+prima la ruina; e come colui ch'adopera et estima e sempre pare
+che innanzi si provegga; cos@i levando me Dante in ver la cima
+d'uno ronchione, avvisava un'altra scheggia dicendo: Poi
+t'agrappa sopra quella; ma tenta prima, s'ella @e tale che ti
+reggia.  Certo quella non era via de' vestiti della cappa detta
+di sopra, che noi appena; cio@e Virgilio lieve ch'era spirito, et
+io Dante sospinto da lui, potavamo montar su di pietra in pietra.
+E se non fosse che quella ripa non era s@i alta, come le altre
+passate, io non so di Virgilio; ma io Dante sarei ben vinto;
+ma perch@e lo cerchio ottavo, nel quale sono le male bolgie,
+inchina tutto in verso il nono che @e come un pozzo: tanto
+strigne, ciascuna bolgia @e situata a questo modo, che la ripa
+d'entro sempre @e pi@u bassa che quella d'intorno.  Et aggiugne
+che con questa fatica elli giunsono in sulla punta della ripa,
+onde si scende poi nell'argine; e dice che quando fu sue, la lena
+del polmone gli era s@i monta, che non potea ire pi@u oltre, anzi
+si pose a sedere nella prima giunta.  Et allora Virgilio li
+disse: Oggimai convien che tu ti spoltronischi a questo modo:
+imper@o che, sedendo in piuma o sotto coltre, non si viene in
+fama, sanza la quale chi consuma la vita sua, lascia in terra
+cotale vestigio di s@e, quale lascia lo fummo nell'aere e la
+schiuma nell'acqua; e per@o lieva su, vince l'ambascia con
+l'animo che vince ogni battaglia, se non si pone gi@u col suo
+grave corpo; e' ti convien salire scala pi@u lunga: non basta
+essere partito da costoro; se tu m'intendi, or fa s@i che ti
+vaglia.  Allora dice Dante che si lev@o, mostrandosi fornito
+meglio di lena, che non si sentia; e disse a Virgilio: Or va,
+ch'io sono forte et ardito; e dice che presono la via su per lo
+scoglio, che valicava la settima bolgia e dice che lo scoglio era
+ronchioso, erto, stretto e malagevole, et era pi@u assai che
+quel di prima.  Et aggiugne Dante che andava parlando per non
+parere fievole, onde dice ch'usc@i una voce dell'alto fosso, a
+formar parole sconvenevoli; e dice che non sa ci@o che dicesse,
+bench@e fosse sopra il dosso dell'arco che valicava quivi; ma ben
+parea che chi parlava fosse mosso da ira; et aggiugne ch'era
+volto in gi@u; ma li occhi non poteano andare al fondo per lo
+scuro; per la qual cosa disse a Virgilio: Fa che tu arrivi
+dall'altro cinghio, e dismontiamo lo muro: che com'io odo quinci
+e non intendo; cos@i gi@u veggio e niente affiguro.  Et allora
+disse Virgilio: Altra risposta non ti do, se non il fare: ch@e la
+domanda onesta si vuole seguire con l'opera tacendo.  E qui
+finisce la sentenzia litterale: ora @e da vedere lo testo con
+l'allegorie e moralitadi.
+
+	|1-15.~  In questi cinque ternari l'autor
+nostro finge, incominciando il XXIV canto, una bella similitudine
+con descrizione del tempo secondo l'astrologia, dicendo cos@i: ^In
+quella parte del giovanetto anno~; parla qui l'autore dell'anno
+a similitudine dell'etadi dell'uomo, non di tutte; ma di
+quattro tempi; cio@e in primavera, estate, autunno e verno,
+ponendo che la primavera sia simile alla adolescenzia: per@o che
+come l'uomo cresce; cos@i le cose che produce la terra escono
+fuori e crescono; cos@i li giorni ancora cominciano a crescere: e
+come l'adolescenzia @e et@a calda et umida; cos@i @e la
+primavera: e la state si @e simile alla giovanezza: l'uomo @e
+forte; cos@i tutte l'erbe e le piante uscite fuori della
+tenerezza vegnano nella durezza: e come l'uomo dura e consiste
+nelle sue vigorosit@a e pone fine al crescere; cos@i la state
+quasi li di' stanno in uno essere di grandezza infino al
+solstizio estivale: e come la giovanezza @e calda e secca; cos@i
+la state: e l'autunno si @e simile alla virilit@a: imper@o che
+come l'uomo @e venuto nella virilit@a et intende ai guadagni,
+onori et amistadi et alle cose fruttuose; cos@i l'autunno d@a li
+frutti delli arbori e gitta gi@u le frondi, come l'uomo gitta
+gi@u li giuochi e li trastulli: e come la virilit@a @e fredda e
+secca; cos@i @e l'autunno: e lo verno @e simile alla vecchiezza:
+imper@o che come il vecchio @e inabile all'opere; cos@i lo verno
+@e spogliato di tutti i frutti: e come il vecchio s'inchina e
+manca del suo corpo; cos@i lo verno mancono li giorni: e come il
+vecchio @e freddo et umido; cos@i @e il verno; e per@o volendo
+l'autor nostro intendere del principio della primavera, dice del
+giovenett'anno; cio@e adolescente; cio@e la fanciullezza
+dell'anno, chiamandolo giovanetto, a differenzia della giovanezza
+compiuta: et @e qui da notare che l'autore parla de' tempi
+dell'anno, incominciando secondo li astrologi la primavera dal
+solstizio di Capricorno, e la state d{a}ll'equinozio d'Ariete,
+e l'autunno dal solistizio di Cancro, e il verno dall'equinozio
+della Libra; e per confermar quello, aggiugne: ^Che il Sole i
+crin sotto l'Aquario tempra~; cio@e sotto quel segno che si
+chiama Aquario tempra li suoi raggi, pigliando i crini per li
+raggi, sotto il quale e nel quale segno il sole entra a mezzo
+gennaio o circa, e stavvi infino a mezzo febraio o circa; nel
+qual tempo incomincia la primavera.  Ogni segno @a 30 gradi et
+ogni di' naturale lo sole ne passa uno, sicch@e in 30 di' @a
+passato tutto uno segno; e dice ^tempra~, cio@e tempera; i crini;
+cio@e i capelli.  Li poeti fingono che il sole sia uno idio che
+lo chiamano Febo, e fingonlo con una bella capellatura,
+intendendo per quella capellatura li raggi suoi, li quali
+incomincia lo sole a temperare sotto l'Aquario: imper@o che si
+parte dal tropico iemale e viene verso l'equinoziale, et
+incomincia l'aere a noi a lasciare la rigidit@a del freddo e
+mitigarsi per l'approsimamento del sole, incominciandosi gi@a ad
+alzare sopra noi.  E per dichiarare ancora meglio, dice: ^E~
+^gi@a le notti a mezzo di' sen vanno~; cio@e gi@a incominciano a
+mancare le notti e crescere li di', che il sole @e stato in
+Capricorno insino al suo mezzo, sono cresciute le notti e li di'
+mancati.  E perch@e tal mezzo innanzi si parte dal tropico iemale
+e viene di grado in grado verso l'equinoziale, incominciano a
+mancare le notti infino che viene all'equinoziale ove si pareggia
+la notte col d@i, poi ch'@a passato l'equinoziale e viene verso
+lo tropico estivale, crescono li di' infino che viene in Cancro
+ov'@e lo solistizio estivale; cio@e la maggior altezza che possa
+essere appo noi; e per@o @e allora lo maggior di' e la minor
+notte che sia in tutto l'anno, come quando @e in Capricorno, che
+@e al tropico iemale verso lo polo antartico, @e la maggior notte
+e il minor di' che sia in tutto l'anno, perch@e appo noi
+nella maggior bassezza che possa essere; e perch@e quando va
+verso l'antartico, viene all'equinoziale, quando @e in Libra @e
+pari lo di' con la notte; e quando ritorna in verso lo polo
+artico, partendosi dall'antartico viene all'equinoziale, quando
+@e in Ariete ove @e pari ancora il d@i con la notte s@i, che due
+equinozi sono l'anno e due solistizi; li solistizi sono in
+Capricorno et in Cancro, e li equinozi in Ariete et in Libra; e
+perch@e quindi onde si parte il sole si crescono le notti,
+per@o dice che quando lo sole @e in Aquario, che incomincia a
+partirsi dal polo antartico e venire in verso il nostro polo
+artico, che le notti se ne vanno a mezzo di'.  Et a maggiore
+evidenzia di quello che @e detto, doviamo sapere che l'ottava
+spera; cio@e il cielo del fermamento ove sono le stelle fisse, @a
+due poli; cio@e due capi d'uno piano, in sul quale si volge
+come noi veggiamo, una volta in 24 ore; e l'uno capo di questo
+piano @e veduto da noi, et @e quivi dove @e la tramontana e
+chiamasi polo artico; l'altro capo @e opposito a quello e
+chiamasi antartico, e non si pu@o vedere da noi, perch@e @e di
+sotto opposito al nostro.  E doviamo ancora sapere che tutto lo
+spazio del cielo, che @e tra l'uno e l'altro polo, li astrolagi
+@anno diviso in cinque spazi iguali, nelle fini de' quali
+dicono essere cerchi lineari, li quali chiamano paralelli, cio@e
+cerchi igualmente distanti, e sono cinque in tutto.  Lo primo @e
+quello che @e intorno al polo artico e chiamasi paralello artico.
+Lo secondo @e quello che si chiama tropico estivale: imper@o che
+quando lo sole @e venuto per la linea eclittica, che @e sempre
+sotto il mezzo del zodiaco infino a questo paralello, @e lo
+maggiore di' che sia in tutto l'anno, perch@e @e nella maggiore
+altezza che possa essere appo noi; e perch@e incomincia poi a
+discendere, e per@o si chiama tropico; cio@e conversivo.  Lo
+terzo si chiama equinoziale: per@o che quando lo sole @e
+ritornato a quello descendendo, @e pari lo di' con la notte, come
+fu quando, venendo a noi, venne al punto opposito che @e in
+Ariete, come questo @e in Libra; li quali due segni sono nel
+zodiaco oppositi, intersecati dall'equinoziale paralello.  Lo
+quarto paralello @e detto tropico iemale, perch@e quando lo sole
+@e venuto quivi, @e il verno et @e lo minor di' che sia in tutto
+l'anno, perch@e @e nella maggior bassezza che possa essere appo
+noi, e quindi incomincia dall'altro lato a ritornare
+all'equinoziale e per@o si chiama tropico; cio@e conversivo,
+perch@e si converte a noi.  Lo quinto paralello si chiama
+antartico, perch@e intorno al polo contrario al nostro.  Ma
+secondo li nostri poeti sono questi sei spazi ridotti a cinque, e
+chiamansi da loro zone: imper@o che pongono per una zona lo
+spazio tutto quivi, ove @e lo corso del sole, quanto tiene lo
+zodiaco; cio@e dal tropico estivale in fino al tropico iemale che
+sono tre paralelli, perch@e @e in mezzo l'equinoziale.  E questa
+zona dicono che sotto s{@e} fa la terra inabitabile per lo
+troppo caldo; e dal tropico estivale al paralello artico dicono
+che @e la zona temperata, perch@e in mezzo tra la calda e la
+fredda, e fa abitabile la terra sotta s@e; e dal polo artico in
+fino al suo paralello dicono essere l'altra zona fredda, la quale
+fa inabitabile la terra sotto di s@e, per lo troppo freddo; e
+cos@i dall'altra parte dal tropico iemale al paralello antartico
+dicono essere l'altra zona: cio@e la quarta temperata, perch@e
+viene in mezzo tra la fredda del polo antartico e la calda del
+mezzo; e questa dicono che fa la terra abitabile sotto s@e.
+Ma per quello che dicono li astrolagi la terra sotto quella zona
+@e occupata dall'acqua, e dal polo antartico al suo paralello @e
+la quinta fredda, la quale per lo suo freddo rende la terra
+inabitabile sotto s@e; la qual parte della terra si dice ancora
+essere occupata dall'acqua; adunque una sola zona @e quella che
+s'abita.  E doviamo ancor sapere che il zodiaco @e uno cerchio
+ampio, nel quale sono XII segni; cio@e Aries, Taurus, Gemini,
+Cancer, Leo, Virgo, Libra, Scorpion, Sagittarius, Capricornus,
+Aquarius, Pisces; e ciascuno di questi segni {lacuna da integrare
+con la lezione dei mss. in apparato: segni @a trenta gradi, et ogni
+di'; cio@e in ventiquattro ore} in
+24 ore, o poco pi@u, il sole passa uno grado, sicch@e in 365 di' et
+alquante ore lo sole passa tutto, et allora @e compiuto l'anno; e
+questo zodiaco cigne lo cielo per traverso s@i, che l'uno lato
+del zodiaco, dove il Cancro, tocca lo paralello tropico estivale;
+e l'altro lato, ove @e Capricorno opposito a Cancro, tocca
+l'altro paralello tropico iemale, e divide intersecando lo
+paralello equinoziale in due luoghi, oppositi l'uno all'altro,
+sicch@e nell'uno @e Ariete e nell'altro @e Libra; e tutti li
+pianeti vanno sotto questo zodiaco obliquando qua e l@a, salvo
+che il sole, che sempre va per lo diritto mezzo per la linea
+eclittica e va da occidente a oriente, secondo lo suo movimento
+sempre acquistando in 24 ore, o poco pi@u, uno grado del segno;
+bench@e lo movimento del fermamento lo ruoti seco da oriente ad
+occidente.  E per@o secondo che passa sotto li segni, s'approssima
+e dilunga da noi; e cos@i accresce e manca lo di' e la
+notte, e questo si pu@o meglio mostrare con la Spera materiale,
+che scrivere con la penna o dire con la lingua, e per@o chi lo
+vuol vedere, ricorra quivi.  Aggiugne poi l'autore: ^Quando la
+brina~; cio@e la brinata, ^assempra~; cio@e t'appresenta ^in su
+la terra~; sopra la quale @e caduta, ^L'imagine~; cio@e la
+similitudine, ^di sua sorella bianca~; cio@e della neve, la quale
+@e detta sua sirocchia, perch@e si genera d'una medesima
+materia; cio@e di vapori umidi: imper@o che i vapori umidi
+elevati su nell'aere infino allo interstizio, lo quale @e termine
+dell'aere oltra il quale non possono passare, secondo vari luoghi
+a che ascendendo, si convertono; e per@o quando si convertono
+in acqua, quando in grandine e quando in neve e quando in
+brinata; et aggiugne: ^Ma poco dura alla sua penna tempra~; cio@e
+poco dura la brinata, come dura poco la temperatura della penna
+allo scrittore, quando scrive con essa: e cos@i @e qui
+similitudine, dicendo: ^Lo villanello~; cio@e lo povero villano,
+^a cui la robba manca~; perch@e @e dilungato dalla ricolta, et
+allora sono pi@u care le biade che in tutto l'anno; o vogliamo
+intendere lo strame per pascere le pecore: imper@o nel testo fa
+menzione di ci@o, ^Si leva~; del letto o di casa, ^e guarda~;
+cio@e fuor di casa uscito, pone mente, ^e vede la campagna~;
+cio@e la latitudine de' campi, ^Biancheggiar tutta~; per la
+brinata, ^ond'ei~; cio@e ond'elli, ^si batte l'anca~; per lo
+dolore, ^Ritorna in casa~; poi lo villanello, ^e qua e l@a si
+lagna~; cio@e si lamenta, ^Come il tapin~; cio@e lo misero, ^che
+non sa che si faccia~; delle pecore che @a nella stalla, ^Poi~
+^riede~; cio@e ancora ritorna a vedere, ^e la speranza il
+ringavagna~; cio@e lo conforta; o vogliamo dire ^e la speranza
+ringavagna~; cio@e ripiglia la speranza che avea perduta,
+^Veggendo il mondo aver cangiata faccia~; cio@e apprenzia, ^In
+poca d'ora~; cio@e in piccolo spazio di tempo, perch@e la brinata
+@e strutta et ita via per lo caldo del sole, ^e prende suo
+vincastro~; cio@e suo bastone, ^E fuor~; cio@e della stalla, ^le~
+^pecorelle~; sue, ^a pascer caccia~; cio@e alla pastura; e questo
+dice perch@e usanza @e de' villani di tenere delle pecore, capre
+et altro bestiame.
+
+	|16-24.~  In questi tre ternari lo nostro
+autore adatta la detta similitudine a s@e, dicendo: ^Cos@i mi
+fece sbigottir lo Mastro~; cio@e Virgilio fece dubitar me Dante
+e perdere la speranza, come la brinata lo contadino, ^Quand'io li
+vidi~; io Dante, ^s@i turbar la fronte~; come detto fu di sopra
+cap. XXIII, quando disse: ^Lo Duca stette un poco a testa
+china.~  -- ^E cos@i tosto al mal giunse lo impiastro~; cio@e al
+mio temere lo confort,o come al temere del villanello, ^Che come
+noi~, cio@e Virgilio et io Dante, ^venimo al guasto ponte~;
+cio@e ch'era caduto sopra quella sesta bolgia, sopra la quale
+tutti erano caduti li ponti, come detto @e di sopra nel canto XXI
+che comincia: ^Cos@i di ponte in ponte~ ec.; et assegna la
+cagione, perch@e cos@i finge l'autore, ^Lo Duca~; cio@e Virgilio,
+^a me~; cio@e Dante, ^si volse con quel piglio Dolce~; cio@e con
+quella dolce faccia e non turbata, come prima, ^ch'io~; cio@e
+Dante, ^vidi in prima a pi@e del monte~; quando per le tre bestie
+impedito torn@o a dietro, come appare nel primo canto di questa
+cantica, quando Virgilio lo soccorse e prima li apparve.  ^Le
+braccia aperse~; cio@e Virgilio, ^dopo alcun consiglio~; cio@e
+dopo alcuna deliberazione, ^Eletto seco~; dice: imper@o che la
+discrezione @e quella che discerne, e lo libero arbitrio @e
+quello che elegge, secondo che la ragione detta, ^riguardando
+prima Ben la ruina~; di quel ponte guasto, ^e diedemi di~
+^piglio~; cio@e m'abbracci@o e presemi con le braccia.
+
+	|25-33.~  In questi tre ternari l'autor
+nostro dichiara a che fine Virgilio l'abbracci@o, dicendo con una
+similitudine: ^E come quei che adopera et estima~; cio@e stima
+prima e poi adopera, et usa qui l'autore una figura che si chiama
+^isteron proteron~, ^Che sempre par che inanzi si proveggia~;
+cio@e ch'elli adoperi, ^Cos@i, levando me su per la cima
+D'un ronchione~; cio@e d'un pezzo di scoglio; et adatta la
+similitudine posta di sopra, ^avvisava un'altra scheggia~;
+cio@e un altro pezzo di scoglio; e cos@i si pu@o intendere quel
+di sopra; cio@e ch'adopera quel ch'@a stimato, et operando
+stima quel che dee operar poi, ^Dicendo~; Virgilio: ^Sopra
+quella~; scheggia, ^poi t'aggrappa; Ma tenta pria se @e tal ch'ella
+ti reggia~; cio@e tu, Dante, t'afferra inanzi, che tu ti li affidi.
+^Non era via da vestito di cappa~; dimostra la malagevolezza
+della via, dicendo che non era via da quell'ipocriti; e per
+questo allegoricamente vuol dimostrare che li ostinati non si
+possono partire dal peccato, e litteralmente dimostra che,
+bench@e elli e Virgilio n'uscissono, non era possibile alli
+ipocriti d'uscirne, ^Che noi a pena~; cio@e Virgilio e Dante,
+che non eravamo ostinati in tale peccato, ^ei lieve~; cio@e
+Virgilio che era spirito sanza carne, ^et io sospinto~; cio@e da
+lui come appar di sopra; e per questo dimostra che malagevolmente
+la ragione e la sensualit@a sospinta dalla ragione pu@o uscire di
+tal peccato, ^Potavam su montar di chiappa in chiappa~; cio@e
+di pietra in pietra: montasi suso, quando s'esce del peccato
+e della sua considerazione con gradi di costanzia, e questo
+intende l'autore nelle parole dette.
+
+	|34-45.~  In questi quattro ternari l'autor
+nostro finge che con fatica uscissono della sesta bolgia,
+dicendo: ^E se non fosse, che di quel procinto~; cio@e
+circuito, cio@e della ripa d'entro della sesta bolgia, ^Pi@u che
+dell'altro~; cio@e di quel di fuori, ^era la costa corta~; s@i
+che la salita era minore, ^Non so di lui~; cio@e di Virgilio quel
+che si fosse stato, ^ma io sarei ben vinto~; io Dante dalla
+malagevolezza dell'uscire.  Et assegna la cagione, perch@e la
+ripa d'entro @e pi@u bassa che quella di fuori.  ^Ma perch@e
+Malebolge~; cio@e l'ottavo cerchio, che cos@i lo nomin@o
+l'autore di sopra cap. XVIII, ^in ver la porta Del bassissimo
+pozzo~; cio@e del nono cerchio che tanto stringe, perch@e @e al
+centro della terra che pare un pozzo, ^tutta pende~; inverso la
+porta del nono cerchio, ^Lo sito~; cio@e la locazione, ^di
+ciascuna valle~; di quelle X bolgie dette di sopra, ^porta~;
+questo che seguita, ^Che l'una costa surge~; cio@e quella di
+fuori alza, ^e l'altra scende~; cio@e quella di d'entro
+abbassa, ^Noi~; cio@e Virgilio et io Dante, ^pur venimo al fine~;
+cio@e all'ultimo, ^in su la punta~; della ripa, ^Onde l'ultima
+pietra~; ch'era la fine del ponte, ^si scoscende~; in su
+l'argine.  Aggiugne l'autore la sua debolezza, dicendo: ^La lena
+m'era del polmon s@i munta~; qui dimostra secondo la Fisica come
+l'uomo viene meno per la troppa fatica.  Et @e da notare che il
+polmone @e uno membro interiore del corpo umano, che sempre batte
+e fa vento al cuore, e quando l'uomo pi@u si fatica, pi@u batte:
+imper@o che il cuore @a bisogno di maggiore esaltazione per la
+fatica che prima; e battendo molto si secca per lo continuo
+movimento, intanto che non pu@o battere pi@u et allora l'uomo
+spasima, perch@e il cuore non @a pi@u esaltazione; et avendo
+l'uomo bere, non spasimerebbe, e per@o dice l'autore che la lena
+del polmone; cio@e il raccoglimento del fiato, era s@i venuto
+meno, ^Quand'io~; cio@e Dante, ^fui su~; in su l'argine,
+^ch'io non potea pi@u oltre~; cio@e andare, ^Anzi m'assisi~;
+cio@e mi posi a sedere, ^nella prima giunta~; cio@e com'io
+giunsi su.
+
+	|46-57.~  In questi quattro ternari
+finge l'autor nostro come Virgilio li fece una bella esortazione,
+dicendo: ^Omai~; cio@e oggimai, ^convien che tu cos@i ti
+spoltre~; cio@e ti spoltronischi per s@i fatto modo ^Disse il
+Maestro~; cio@e Virgilio: ^ch@e seggendo in piuma~; cio@e per
+sedere ad agio in guanciale o piumaccio, ^In fama non si~
+^vien~; cio@e in nominanza laudabile, ^n@e sotto coltre~;
+giacendo ancor non si viene in fama, n@e in pregio; potrebbe
+ancor dire lo testo dinanzi: ^ch@e giacendo in piuma~; et intende
+l'autore per questo, che per istare in dilicatezze non
+s'acquista fama, ^Sanza la qual~; cio@e fama: et @e fama, secondo
+che si piglia in bene, chi avr@a notizia con loda, ^chi sua vita
+consuma~; cio@e chi passa sua vita, che non acquista fama per le
+buone opere, ^Cotal vestigio in terra di s@e lascia~; cio@e
+memoria: imper@o che vestigio @e la pedata del pi@e, che
+dimostra che quivi @e stato il pi@e e cos@i ne fa memoria, e per@o
+vestigio si pu@o porre per la memoria, ^Qual fummo in aere~; che
+non vi lascia alcuna memoria di s@e, ^et in acqua la schiuma~; che
+similmente niuna apparenzia di s@e lascia, poi che @e disfatta.
+^E per@o~; ora conchiude, ^leva su~; da sedere, ^vinci
+l'ambascia~; cio@e la fatica, ^Con l'animo che vince ogni
+battaglia~; l'animo libero ogni cosa vince; e ponsi qui l'animo
+per la volont@a e per la libert@a dell'arbitrio, che ogni cosa,
+fatica e battaglia vince, e tentazione, quando vuole, ^Se col
+suo grave corpo non s'accascia~; cio@e non si pone gi@u, come
+si dice: ^Infelix anima trahitur per corpus ad ima.~  -- ^Pi@u
+lunga scala convien che si saglia~; questo s'intende
+litteralmente della scala del purgatorio e del paradiso, come
+appare nel processo dell'opera; et allegoricamente intende che
+convenia purgarsi da questo peccato della ipocresia, nella quale
+mostra che fosse caduto l'autore, quando disse di sopra cap.
+XVI: ^Io avea una corda intorno cinta~, con la contrizione,
+confessione e satisfazione; le quali cose intende per lo
+purgatorio: e finge che si salga: imper@o che venire al peccato
+per opera o per considerazione @e discendere, e partirsi da
+quello @e montare, ^Non basta da costoro esser partito~; cio@e
+non basta, quanto alla lettera, d'essere uscito della materia
+della ipocresia, ch'ancora ci @e a trattare altro, secondo il
+tuo proposito; et allegoricamente non basta essersi partito dal
+peccato: imper@o che @e necessario che li uomini si purghino da
+esso con quelli tre modi, che si richieggono alla purgazione, e
+poi @e necessario che l'uomo salga alla virt@u, volendo venire al
+desiderato fine, ^Se tu m'intendi~; Dante, ^or fa s@i che ti
+vaglia~; d'avermi inteso; sforzati di procedere oltre e d'andare
+a purgarti.
+
+	|58-69.~  In questi quattro ternari
+l'autor nostro finge che pervennono in sul ponte della settima
+bolge, dicendo: ^Leva'mi allor~; io Dante per lo conforto di
+Virgilio, ^mostrandomi fornito Meglio di lena~: che cosa sia la
+lena gi@a @e detto e dichiarato di sopra, ^ch'io non mi sentia~:
+alcuna volta l'uomo mostra pi@u forte che non si sente, per
+compiacere al suo maggiore, ^E dissi~; io Dante a Virgilio: ^Va,
+ch'io son forte et ardito~; ecco che si mostra con le parole quel
+che non sentia con l'opera.  Et in questo si nota quanto li fosse
+malagevole uscire del peccato della ipocresia, nel quale fu
+irretito altra volta, come detto fu di sopra cap. XVI.  ^Su per
+lo scoglio~; cio@e del ponte settimo ch'era sopra la settima
+bolgia, ^prendemmo la via~; Virgilio et io Dante, ^ch'era
+ronchioso~; cio@e aspro et ineguale e pieno di ronchi, ^stretto e
+malagevole~; per questo si nota che la fraude era pi@u stretta e
+malagevole in questo peccato, che finge l'autore che si punisca
+qui, che in altro peccato passato, ^Et erto pi@u assai che quei
+di pria~; quanto alla lettera finge che pi@u alto fosse assai et
+avesse la salita maggiore, che quelli altri passati, intendendo
+allegoricamente che in questa fraude era maggior grado di
+superbia, come apparir@a di sotto.  ^Parlando andava~; io Dante,
+^per non parer fievole~; cio@e debile, ^Et una voce usc@i
+dell'alto fosso~; cio@e della settima bolgia molto profonda,
+mentre ch'io andava parlando, ^A parole formar disconvenevole~;
+cio@e non conveniente a formar parole, che si potessono
+intendere.  ^Non so~; io Dante, ^che disse~; quella voce, ^ancor
+che~; cio@e bench@e ^sopra al dosso Fossi dell'arco gi@a~; io
+Dante venuto di quel ponte, ^che varca quivi; Ma chi parlava ad
+ira parea mosso~; e questo si conoscea per lo suono della voce,
+bench@e le parole non s'intendessono.  Et @e qui da notare che
+conviene essere conveniente distanzia tra il senso e la cosa
+sensibile, altrimenti il sentimento non la pu@o comprendere.
+
+	|70-78.~  In questi tre ternari l'autor
+nostro finge come, non potendo comprendere d'in sul ponte,
+discese in su l'ottava ripa, dicendo, ^Io~; cio@e Dante, ^era
+volto in gi@u~; cio@e verso lo fondo della bolgia settima, ^ma li
+occhi vivi~; cio@e corporali: questo dice a differenzia delli
+occhi mentali, che veggono pi@u di lungi et ancor nell'oscuro,
+^Non potean ire al fondo~; della bolgia, ^per l'oscuro~; aer che
+v'era; e questo si dee notare che il mezzo, che @e tra il viso e
+la cosa visibile, conviene essere luminoso, altrimenti la vista
+corporale non pu@o comprendere, ^Perch'io~; cio@e Dante a
+Virgilio dissi: ^Maestro, fa che tu arrivi Dall'altro cinghio~;
+di questa settima bolgia; cio@e in su l'ottava ripa, ^e dismontiam
+lo muro~; cio@e questo ponte che, bench@e sia d'un pozzo, sta
+come muro, ^Che come io odo quinci, e non intendo~; io Dante
+quel ch'io odo, ^Cos@i gi@u veggio, e niente affiguro~; cio@e
+discerno, ovver conosco.  E fa qui l'autore similitudine da
+l'udire al vedere: imper@o che l'uno e l'altro sentimento
+richiede distanzia proporzionata a s@e, altrimenti aopera
+disutilmente.  ^Altra risposta, disse~; Virgilio a Dante, ^non ti
+rendo Se non lo far~; questo fia la mia risposta, dice Virgilio;
+l'opera, et assegna la cagione: ^ch@e la domanda onesta Si dee
+seguir con l'opera, tacendo~; e questa @e nobile parola e
+notabile.  E qui si nota che la giusta domanda si dee esaudire
+con l'opera da colui, a cui @e domandato potendo, altrimenti @e
+scusato.  E qui finisce la prima lezione.
+
+	|79-151.~  ^Noi discendemmo~ ec.  Qui si comincia la
+seconda lezione nella quale l'autor tratta del peccato, che finge
+che si punisce nella settima bolgia; e dividesi questa lezione in
+sei parti: ch@e prima pone come discesono del ponte, e della pena
+che vide nella settima bolgia; nella seconda, com'era fatta una
+delle tre spezie delle pene, che quivi si sostengono, descrive,
+quivi: ^Et ecco ad un~, ec.; nella terza manifesta con esempli e
+conferma quel ch'@a detto, quivi: ^Cos@i per li gran savi~ ec.;
+nella quarta, come Virgilio parl@o a uno di quelli peccatori della
+settima bolgia, domandando chi era, e come Dante solicita Virgilio
+che domanda ancor della colpa, quivi: ^Lo Duca il domand@o~ ec.;
+nella quinta pone quel che finge che il peccatore da s@e
+rispondesse, quivi: ^E il peccator, che intese~, ec.; nella sesta
+pone come annunzi@o a lui malo stato della sua parte, quivi{:}
+^Apri li orecchi~ ec.  Divisa la lezione, @e da vedere la sentenzia
+litterale la quale @e questa.
+
+	Poich@e Dante disse a Virgilio che come d'in sul ponte
+non intendea; cos@i non discernea guardando nella bolgia, che li
+piacesse di discendere in su la ripa ottava.  Virgilio s'invi@o
+in gi@u dal ponte, e Dante lo seguit@o e giunsono in su l'ottava
+ripa, et allora Dante vide ci@o che in essa era, e vide
+grandissima copia di serpenti e di s@i diverse maniere, che
+ancora la memoria lo spaurisce.  E dice che non si vanti pi@u
+Libia con sua arena, che @e una delle parti del mondo ove sono
+assai serpenti, come appare per Lucano, quando dice che Catone
+and@o per le parti arenose, e nominane assai di quelle spezie di
+serpenti, delle quali ancor fa menzione l'autor nel testo.  N@e
+ancora l'Etiopia e l'Asia, che @e di sopra al mare rosso,
+mostr@o giammai tante pestilenzie, n@e s{@}i rie come quelle
+ch'erano nella settima bolgia: e dice che tra quella cruda e
+tristissima copia di serpenti erano gente nude e spaventate
+sanza sperar pertugio, o vero occultamento, per appiattarsi: et
+aveano legate con serpi le mani di rietro, e ficcavano la coda e
+il capo per le reni, e d'inanzi s'aggroppavano.  E mentre che
+Dante ragguardava questo, uno serpente s'avvent@o ad uno ch'era
+dalla sua banda e trafisselo in sul nodo del collo, e subitamente
+costui s'accese et arse e divenne cenere, e poi la cenere per
+s@e stessa si raccolse e ritorn@o nella figura di prima, come
+dicono li savi che fa l'uccel Fenice, che dopo cinquecento anni
+s'accende nel suo nido fatto di nardo e di mirra e d'altre cose
+odorifere, e poich@e @e arso e fatto cenere, rinasce della cenere
+un altro Fenice e dice che non pasce, se non incenso et amomo.  E
+fa un'altra similitudine che, come colui che cade e non sa come,
+o per malo spirito che lo spaventi, o per gotta, quando si leva
+si mira d'intorno tutto smarrito per la grande ambascia, che @a
+avuto, e guardando sospira; cos@i si rilev@o quel misero
+peccatore.  Et esclama l'autore per questo, dicendo: O potenzia
+di Dio, quanto se' vera; cio@e giusta che croscia cotali colpi
+per vendetta!  Et allora Virgilio lo domand@o chi elli era; et
+elli rispose ch'elli discese di Toscana in quella bolgia, ch'elli
+chiama fiera gola, poco tempo era, e ch'elli era Vanni Fucci di
+Pistoia lo quale era vivuto bestialmente, e come a bestia Pistoia
+gli era stata degna tana.  Et allora Dante disse a Virgilio:
+Dilli che non mucci, domandalo per qual colpa @e dannato in
+questo luogo, ch'io vidi gi@a uomo di sangue e di corrucci,
+sicch@e dovrebbe essere tra' violenti.  Et allora quel peccatore
+che intese Dante, non s'infinse; ma dirizz@o verso Dante l'animo
+e il volto, e vergognandosi disse: Pi@u mi duole che tu m'@ai
+colto in questa miseria, che quand'io fu' tolto dell'altra vita:
+io non posso negar quel che tu chiedi: sappi ch'io sono messo
+qui, perch'io fui ladro alla sagrestia di Pistoia, e falsamente
+fu gi@a apposto ad altrui; ma perch@e tu non goda d'avermi qui
+veduto, odi quello che io t'annunzio: Pistoia prima si dimagra
+de' Neri, e Fiorenzia rinnuova gente e modi, e Marte tragge
+vapore di Val de Magra che @e involuto da turbidi nuvoli, e
+combatterassi con violenzia impetuosa et agra sopra campo
+Piceno; onde subitamente si spezzer@a la nebbia e gitter@a la
+saetta s@i, che ogni Bianco ne sar@a ferito; e questo t'@o detto,
+perch@e te ne dolga, perch@e se' de' Bianchi.  E qui finisce la
+sentenzia litterale e il canto: ora @e da vedere lo testo con le
+allegorie e moralitadi.
+
+	|79-96.~  In questi sei ternari l'autor
+nostro finge che, secondo ch'avea domandato a Virgilio,
+discesono del ponte settimo e vennono in su la ripa ottava, per
+vedere quel ch'era nella bolgia settima, onde dice: ^Noi~; cio@e
+Virgilio et io Dante, ^discendemmo il ponte~; cio@e settimo in
+sul quale eravamo, ^dalla testa, Dove s'aggiugne con l'ottava
+ripa~; questo dice, per mostrare che uscirono della ripa di l@a,
+^E poi mi fu la Bolgia manifesta~; cio@e settima a me Dante: ^E
+vidivi entro~; in quella settima bolgia, ^terribile stipa~; cio@e
+congregazione e stivamento, ^Di serpenti, di s@i diversa mena~;
+cio@e di s@i diversa spezie, ^Che la memoria il sangue ancor mi
+scipa~; cio@e la ricordanza di quelli serpenti ancora mi divide
+il sangue da' luoghi suoi, e fallo tornare al cuore come fa la
+paura, come mostrato @e di sopra in alcuno luogo.  Questi
+serpenti, che l'autore finge qui, sono li demoni ch'@anno a
+tentare del peccato che qui si punisce, et ancora li uomini che
+di ci@o @anno tentato, come apparir@a di sotto: imper@o che
+spesse volte li uomini sono strumento del demonio.  ^Pi@u non
+si vanti Libia con sua rena~; afferma l'autore con tre
+similitudini quello, ch'@a detto della copia e della diversit@a
+de' serpenti, dicendo che pi@u ve n'era che nel deserto di Libia
+e nell'Etiopia e nell'Asia; e per@o dice che ^Pi@u non si vanti
+Libia con sua arena~; cio@e col suo diserto arenoso: Libia @e una
+parte dell'Africa, la quale Africa @e una delle tre parti del
+mondo, et @e la Libia vicina alla torrida zona, che @e
+inabitabile in alcuna parte per lo troppo caldo; e per@o @e
+troppo arenoso, o vero tutta: @e ivi uno diserto arenoso ove
+@e grande copia di serpenti di diverse spezie, come dice Lucano
+quando descrive la via che fece Catone col suo esercito, delle
+quali alcune ne nomina l'autore nostro nel testo, dicendo:
+^Ch@e, se chelidri~; questa @e una specie di serpenti, che stanno
+in terra et in acqua e fa fumare la via onde passa, e sempre va
+diritto, che se torcesse creperebbe, ^iaculi~; questa @e un'altra
+spezie che si lancia, e trafora quel che percuote, come una
+lancia o una saetta, ^e faree~; questa @e una spezie che va ritta
+e solamente strascina la coda per terra, ^Produce~; cio@e Libia
+detta di sopra, ^e chencri~; questa @e una specie di serpenti,
+che sempre va torcendosi e non va mai dritto, ^con anfisibena~;
+questa @e una spezie di serpenti che @a due capi, uno d'inanzi, e
+l'altro di rietro ove dovrebbe essere la coda; e di questi e
+d'altri fa menzione Lucano nel nono libro, ^N@e tante
+pestilenzie, n@e s@i ree Mostr@o~; Libia, come quelle
+dell'inferno, ^gi@a mai con tutta l'Etiopia~; Etiopia @e ancora
+una parte d'Africa, ove sono li uomini neri per lo caldo del
+sole, et @e in due luoghi in verso levante et in verso ponente,
+perch@e in mezzo di queste due Etiopie @e lo diserto di Libia ove
+sono li serpenti: sono ancora nell'Etiopia serpenti assai e di
+diverse maniere, ^N@e con ci@o che di sopra al mar rosso ee~;
+cio@e nella sommit@a dell'Asia, ove dice Solino che @e grande
+copia d'oro e di gemme preziose, che @e guardata da dragoni e
+da' serpenti di diverse spezie: lo mar rosso divide, andando per
+mezzo, l'India e l'Arabia, et @e rosso quel mare per lo terreno e
+non per l'acqua, et @e un braccio di mare che esce del mare
+oceano dalla parte d'oriente, et entra nella terra e dividela
+infino all'Egitto.  ^Tra questa cruda e tristissima copia~; di
+serpenti che detta @e, ^Correvan genti nude e spaventate~; da
+questi serpenti, ^Sanza sperar pertugio~; cio@e di trovare buco,
+ove si potessino appiattare, ^o elitropia~; questa @e una pietra,
+che secondo che dice il Lapidario, vale contro a' veleni, sicch@e
+questi miseri peccatori non sperano rimedio alle morsure e
+punture dei serpenti.  Qui comincia l'autore a trattare del
+peccato ch'elli finge, che si punisca in questa settima bolgia,
+e della pena che per convenienzia adatta al detto peccato; e
+per@o innanzi che andiamo pi@u oltre, @e da sapere che l'autore
+finge che in questa settima bolgia si punisca lo peccato del
+furto; e perch@e, secondo lo comune parlare non si diversifica
+furo e ladro, per@o di sopra lo chiam@o ladroneccio, bench@e il
+Grammatico e molti altri ne fanno differenzia, dicendo che ladro
+@e quello che toglie con violenzia, e questo parrebbe da essere
+punito nel settimo cerchio de' violenti, se si commettesse con
+violenzia solo.  Ma con lo inganno prima lo ladro viene alla
+violenzia et alla forza: imper@o che sta appiattato nel bosco, e
+quando vede lo mercatante, esce in su la strada a fare la forza,
+e per@o non lo pone l'autore nel settimo cerchio; ma ponlo
+nell'ottavo insieme col furo: et @e furo colui che toglie con
+inganno tanto; e costui @e da essere punito nell'ottavo cerchio
+della settima bolgia di quello, del quale ora si tratta, ove si
+puniscono li fraudulenti del furto e del ladroneccio; e per@o @e
+da vedere che cosa @e ladroneccio, o vero furto, e come @e
+peccato, e quali sono le sue spezie, o vero figliuole, e le sue
+compagne, e li rimedi contra tal peccato, e che pene moralmente
+l'autor v'adatta, a ci@o che allegoricamente s'intenda de'
+mondani.  E prima, furto, o vero ladroneccio, @e uso e traffico
+della cosa altrui contra la volont@a del proprio signore, s@i che
+quando l'uomo usa la cosa del suo prossimo contra la volont@a
+sua, @e furto e similmente ladroneccio; ma questo uso si pu@o
+venire in tre modi; cio@e con la forza tanto, et allora si chiama
+ruberia, e di questo non si tratta qui; e puoccisi venire con
+l'inganno, et allora si chiama furto; e puoccisi venire con
+l'inganno e con la forza insieme, et allora si chiama ladroneccio:
+e questi due modi comprende la detta diffinizione, e di questi si
+tratta qui.  Furono alquanti che diceano lo furto e lo
+ladroneccio non esser peccato, perch@e le cose del mondo furono
+fatte da Dio ad uso comune dell'uomo, adunque @e licito di
+pigliarne; ma costoro s'ingannano: imper@o che, bench@e Idio le
+facesse dal principio comuni, poi che l'uomo pecc@o, volle
+ch'elli se l'acquistasse con fatica licita et onesta s@i, che non
+s'offenda Idio, n@e lo prossimo.  E perch@e lo furo non
+l'acquista con fatica licita et onesta, pecca contro a Dio e contro
+il prossimo; contra Dio, in quanto fa contra la giustizia,
+che la giustizia vuole che ciascuno abbia quel ch'@e
+suo: per@o che s'io @o acquistato con fatica licita et onesta
+l'uso d'una cosa, se tu me la togli, fai contra giustizia,
+perch@e levi a me quel che @e mio, e dai a te quello che non @e
+tuo; e fai contra il prossimo, perch@e fai contra la carit@a, che
+mi lievi quel ch'@e mio contra la mia volont@a, e fai scandalo e
+turbazione a me, e cos@i appare che @e peccato mortale.  E
+distingue l'autore tre spezie di furi, o vero ladroni: l'una @e
+di coloro che non sono abituati ad esser furi; ma alcuna volta
+furano, trovando la contezza del furare: altri sono abituati
+ad essere furi, e sempre pensano di furare; ma in ci@o usano
+alcuna discrezione, non furando ogni cosa, n@e in ogni luogo, n@e
+a ogni persona: altri sono che sono abituati ad essere furi, e
+sempre pensano di furare e non ci usano alcuna discrizione; ma ad
+ognuno, et ogni cosa e a ogni tempo furerebbono: e queste tre
+spezie intende di trattare lo nostro autore; ma in questo canto
+tratta pur della prima, e nel seguente tratter@a dell'altre due.
+E pone in prima per congruenzia del peccato alcune pene generali;
+cio@e che sono nudi, che corrono, che sono spaventati, che @anno
+legate le mani con serpi di dietro, e che non sperano
+appiattamento, e che le serpi ficcano per le reni loro la coda e
+il capo, e d'inanzi erano aggroppate.  E queste pene moralmente
+si convengono alli furi: imper@o che coloro che @anno, per
+vestirsi, tolto l'altrui, degna cosa @e che sieno spogliati e
+nudi: e come sono stati flussibili e trascorsi a fare lo male;
+cos@i corrano sanza riposo: che sieno spaventati @e conveniente
+cosa, che sempre lo furo sta spaventato: che le mani sieno legate
+con le serpi di dietro si conviene: per@o che nel mondo non @anno
+voluto operare le loro mani all'opere licite; ma s@i alle
+inlicite e disoneste: e per@o che @anno operati l'inganni del
+furto, per@o si conviene che sieno legate con serpi, che
+significano fraude: imper@o che il serpente si dice essere
+animale fraudolentissimo: che non truovino appiattamento si
+conviene: imper@o che da Dio non si pu@o il furo appiattare,
+bench@e si sia appiattato nel mondo: e che non truovi rimedio al
+veleno conviensi, poi che non @a voluto nel mondo porre rimedio
+alla fraude sua, bench@e nel mondo abbi cercato appiattamento:
+che le serpi li ficchino la coda e il capo per le reni e stieno
+aggroppate dinanzi si conviene: imper@o che la fraude @e stata
+fermata dinanzi nel cuore, quando s'@e deliberato l'arbitrio di
+furare.  E notantemente dice lo capo e la coda, perch@e lo furo
+nel principio, mezzo e fine sempre @e involto nello inganno del
+prossimo; et allegoricamente, o vero moralmente, queste
+condizioni si truovano per pena conveniente a tal peccato ne'
+furi che sono nel mondo: imper@o che sono nudi di virt@u e di
+fama, e corrono nelli atti del furto, et ancor corrono quanto
+all'ultima dannazione: e sono spaventati, come si vede
+chiaramente che sempre lo furo sta in paura d'essere scoperto:
+cercano sempre li furi appiattamenti e rimedi, ad occultare la
+loro fraude che non appaia, e quando non l'@anno, @anno
+gravissima pena, e quanto a Dio non lo sperano aver mai: le mani
+che significano l'opere sempre stanno legati con serpi, perch@e
+tutte sono piene d'inganni, e sono di rietro perch@e ogni opera
+viziosa va a dietro e non innanzi: sono legati con serpi che
+passano loro le reni col capo e con la coda, e sta l'uno con
+l'altro aggroppato, perch@e l'opera fraudulenta del furo @a capo e
+coda; cio@e principio e fine, da la volont@a che si pone nel
+cuore, involta e non separata: imper@o che il furo
+indistintamente nel principio, mezzo e fine usa inganno
+implicito, l'uno con l'altro; e per@o
+@a detto quel che detto @e di sopra nel testo.  E
+seguita: ^Con serpi le man dietro avien legate~; quelli miseri
+peccatori ch'erano nella settima bolgia, ^Quelle~; cio@e serpi,
+con ch'erano legate le mani di rietro, ^ficcavan per le ren~; che
+significano la concupiscenzia: per@o che lo fine della fraude del
+furo @e adempiere le sue concupiscenzie, ^la coda~; che
+significa lo fine, ^E il capo~; che significa il principio: per@o
+che il principio e il fine s'accorda insieme, intendendo a quel
+che detto @e, ^et eran dinanzi aggroppate~; questo significa che
+il fine, et il principio nel libero arbitrio del cuore si legano
+insieme, e consente a volont@a per adempiere le sue
+concupiscenzie.  Seguita ora a vedere quello ch'aviano lasciato;
+cio@e le compagne e le figliuole di questo peccato; e li suoi
+rimedi.  E prima le compagne del furto sono cinque; cio@e fraude
+che sempre va seco, anzi lo guida; la paura che viene dalla
+coscienzia, che sa che fa male; la vilt@a dell'animo, che non li
+dice l'animo d'altrimenti vivere; pigrezza di non volere
+lavorare; e la simulazione che sempre mostra una cosa per
+un'altra. E le sue figliuole sono sei; cio@e infamia: imper@o che
+questo peccato fa molto l'uomo infame; dissoluzione: imper@o che
+fa l'uomo dissoluto, quando viene la roba di rimbalzo che non vi
+si dura fatica, l'uomo la spende nella golosit@a e diletti
+carnali; odio: imper@o che il furo @e odiato da ogni uomo;
+scacciamento: per@o che ognuno lo scaccia; et all'ultimo la morte
+vituperosa, se @e giunto nel peccato; e la morte eterna, se si
+muore sanza finale penitenzia.  Li rimedi contra s@i fatto vizio
+sono tre; cio@e esercitamento della persona ad onesto esercizio,
+sicch@e abbia le sue necessit@a; temperamento delle
+concupiscenzie; pensamento della infamia e della pena, e
+conversazione coi buoni.
+
+	|97-105.~  In questi tre ternari l'autor
+nostro tratta della prima spezie de' furi, che non @anno
+proposito di furare e non sono abituati ad essere furi; ma quando
+sono in luogo dove possono furare, vedendosi tempo e luogo,
+furano: imper@o che si dice: ^Saepe occasio furem facit~; e
+quando @anno fatto e' non vorrebbono averlo fatto; ma per
+vergogna, o altra cagione, non si sanno recare a restituirlo, e
+per@o finge l'autore che sieno dannati e per congruenzia finge
+che abbino nell'inferno questa pena; che uno serpenti
+trasfori loro la gola; e che subitamente incenda et arda e
+diventi cenere, e poi la cenere si raccolga per s@e stessa e
+ritorni nella figura di prima, e questa pena si conviene a coloro
+che sono stati furi per s@i fatto modo nel mondo: imper@o che
+come la fraude del furto @a occupato lo loro appetito; cos@i lo
+serpente ferisce la gola: e come @e arso per avarizia; cos@i arda
+quivi: e come @a abbandonata la ragione quando @a furato, per@o
+diventi cenere: e perch@e @a conosciuto che @a fatto male, e non
+@a per@o satisfatto al peccato, finge che ritorni a simili pene,
+perch@e le pene de' dannati deono essere infinite.  Et
+allegoricamente intese di cos@i fatti che sono nel mondo, volendo
+mostrare le lor condizioni; cio@e che sono uomini in quanto non
+sono abituati a furare, n@e @anno proposito, n@e volont@a di
+furare; e poich@e uno serpente li trafigge in sul collo @a a
+dimostrare, che quando si truovano tra li tesori, subitamente la
+fraude del furto significata per lo serpente entra nell'appetito
+significato per la gola; ma finge l'autore che ferisca di rietro,
+perch@e tale suggestione diabolica latentemente entra: e che arda
+subitamente s'intende per l'ardore della cupidit@a che incende
+l'anima: e che diventi cenere, s'intende che in quanto commette
+il furto, si parta dalla ragione: e che ritorni uomo significa
+che si riconosce aver mal fatto; ma pur non si ammenda del
+peccato; e per@o dice lo testo: ^Et ecco ad un, ch'era da nostra
+proda~; cio@e ch'era dalla ripa di l@a, ov'erano Virgilio e
+Dante: chi fosse si dir@a di sotto, ^S'avvent@o un serpente, che
+il trafisse~; cio@e lo fur@o in fin dinanzi, ^L@a dove il
+collo alle spalle s'annoda~; cio@e in sul ceppicon del collo:
+sempre per lo serpente s'intende la fraude, e per lo collo la
+gola che @e dinanzi, come @e sposto.  ^Ne O s@i tosto mai, n@e I
+si scrisse~; dimostra la subita mutazione, facendo comperazione
+dicendo che per li scrittori mai non si scrisse n@e ^o~, n@e ^i~,
+che sono due lettere che si scrivono pi@u tosto, che tutte
+l'altre in una tratta, s@i tosto, ^Com'ei s'accese et arse, e
+cener tutto Convenne che cascando divenisse~; quel peccator
+trafitto dal serpente: ^E poi che fu a terra s@i destrutto~; quel
+peccatore; e questo significa lo cadimento nel peccato ove si
+perde la ragione, e per consequente l'umanit@a, ^La polver si
+raccolse per s@e stessa~: per@o che s@e medesimo riconosce, ^E
+in quel medesmo ritorno di butto~; cio@e tosto ritorn@o quello
+che prima era; cio@e uomo ragionevole, e conoscendo lo suo
+peccato et errore.
+
+	|106-120.~  In questi cinque ternari
+l'autor nostro conferma quel che fu detto di sopra per una
+similitudine dell'uccel Fenice, che vive cinquecent'anni e
+pascesi in sua vita d'incenso e d'amomo, et al suo fine si fa
+nido di nardo e di mirra e d'altre cose odorifere, e per lo suo
+caldo incende lo nido et arde, e torna in cenere, e di quel
+cenere per lo caldo del sole ne rinasce un altro nuovo Fenice; e
+per@o dice: ^Cos@i per li gran savi~; cio@e per li filosofi
+naturali ch'@anno scritto della natura delli animali, ^si
+confessa~; cio@e si manifesta, ^Che la Fenice muore~; cio@e
+quello animale, o vero uccello, del quale fu detto di sopra, lo
+quale vive solo, e vive 5OO anni, ^e poi rinasce~; del cenere
+suo, ^Quando al cinquecentesimo anno appressa~; questo dice,
+perch@e presso a 500 anni fa la detta innovazione di s@e, come
+detto @e di sopra.  ^Erba, n@e biado in sua vita non pasce~;
+questo uccello Fenice, come pascono molti altri uccelli, n@e
+ancora vive di preda come li uccelli feridori; ^Ma sol d'incenso
+lagrime et amomo~; ecco l'esca di che vive, ^E nardo e mirra son
+l'ultime fasce~; cio@e lo nido in che muore et onde rinasce.  Et
+aggiugne un'altra similitudine, dicendo che quel peccatore
+ritornato stava stupefatto, come fa colui che @e caduto per la
+gotta, o vero per altra infermit@a; quando si rileva, e per@o
+dice: ^E quale @e quei che cade~; in terra, ^e non sa como~; elli
+cade perch'esce di s@e; et aggiugne le cagioni: ^Per forza di
+demon ch'a terra il tira~; ecco l'una cagione, come quelli
+facea morire e poi risuscitare Simon Mago, ^O d'altra opilazion~;
+cio@e ragunamento d'omori che entrano ellino, o li loro grossi
+vapori, nelli meati che sono dal cuore al cerebro e, chiusi
+quelli meati, cade l'uomo e diventa insensibile, ^che lega
+l'uomo~; cio@e li umani sentimenti, ^Quando si leva~, quel
+caduto, ^che intorno si mira~; ragguardando ov'elli sia, ^Tutto~
+^smarrito della grande angoscia Ch'elli @a sofferta~; in quel
+cadimento et in quella insensibilit@a, ^e guardando sospira~; per
+esaltazione del cuore; ^Tale era il peccator~; del quale fu detto
+di sopra, ^levato poscia~; che il serpente l'avea trafitto et
+arso, e tornato in cenere.  Et aggiugne una esclamazione,
+parlando della severit@a della potenzia di Dio, dicendo: ^O
+potenzia di Dio quanto @e severa~; cio@e questa severit@a @e
+giustizia pura sanza misericordia.  Potrebbe dire il testo:
+^quanto se' vera~; cio@e se' diritta e giusta e vera; e parla qui
+l'autore in terzia persona, e parla qui l'autore, secondo la
+sentenzia di santo Agostino che dice: ^Si omnes homines simul
+consideremus, quorum alii misericordia salvi fiunt, alii
+veritate, damnantur universae viae Domini; idest misericordia
+et veritas suo fine distinctae sunt.~  ^Si autem solos sanctos
+intueamur, non discernuntur hae viae~ ec.  -- ^Che cotai
+colpi~; come questo che @e detto del peccatore; e ponsi qui lo
+colpo per la pena, che riceve il peccatore per lo suo peccato,
+^per vendetta~; cio@e per debito di giustizia, ^croscia~; cio@e
+danna i peccatori nel mondo, secondo che sposto fu di sopra
+allegoricamente; e nell'altro, secondo la fizione litterale!
+
+	|121-129.~  In questi tre ternari l'autor
+nostro finge come Virgilio domanda quello cos@i trasmutato chi
+elli era e com'elli rispose dicendo: ^Lo Duca~; cio@e Virgilio,
+^il domand@o poi~; quello ritornato, ^chi egli era~; ^Perch'el~;
+cio@e egli, ^rispuose~; a Virgilio: ^Io piovi~; cio@e caddi, ^di
+Toscana, Poco tempo @e~; non @e molto tempo che era morto, ^in
+questa gola fiera~; cio@e in questa fiera bolgia, che come gola
+inghiottisce qualunque ci cade; e manifesta le sue condizioni;
+cio@e ^Vita bestial mi piacque, e non umana~; ecco che manifesta
+che visse bestialmente, e non umanamente, ^S@i come a mul ch'io
+fui~; ecco che manifesta che non nacque di legittimo matrimonio,
+e biasima qui tale nazione, perch@e comunemente sono rei, bench@e
+gi@a sieno e sono stati di virtuosissimi uomini delli cos@i nati:
+^son Vanni Fucci Bestia~; ecco che si nomina per lo nome, in
+quanto dice Vanni; e per lo soprannome, in quanto dice Fucci; e
+per lo nomignuolo, in quanto dice bestia, ^e Pistoia mi fu degna
+tana~; cio@e abitazione: l'abitazione della bestia si chiama
+tana; ma dice ^degna~, in vituperio della citt@a, che s@i fatta
+citt@a ben si convenia a s@i fatto cittadino.  Questo Vanni fu
+figliuolo di messer Fuccio de' Lazari da Pistoia e non fu
+legittimo, et era chiamato ^Bestia~ per nomignuolo, perch'era
+molto dileggiato e vivea bestialmente, e pi@u volte per omicidi
+fu sbandito di Pistoia; e perch@e lo casato suo era grandissimo
+nella citta, per la parte pi@u e pi@u volte fu ribandito; et
+ancora, bench@e fosse sbandito, vi si stava non curandosi
+d'officiali che vi fossono, e questo addiviene nelle citt@a che
+vivono a parte; e per@o ben disse di sopra che tale citt@a era
+degna di tale cittadino.  ^Et io~; cio@e Dante, ^al Duca~; cio@e
+a Virgilio dissi: ^Dilli~; tu, Virgilio, a Vanni, ^che non
+mucci~; cio@e che non si parta, ^E domanda~; tu, Virgilio, ^qual
+colpa qua gi@u il pinse~; finge Dante ch'elli si maravigli che
+Vanni Fucci sia in questo luogo dell'inferno, che quanto alla
+fama era tenut{o} omicida, sicch@e a lui si convenia lo cerchio
+de' violenti, e non de' fraudulenti; e per@o aggiugne: ^Ch'io il
+vidi~; cio@e io Dante, ^uom gi@a di sangue e di corrucci~;
+cio@e perch@e uomo di brighe e d'omicidi vivette a tempo di
+Dante; e per@o dice che lo vidde.
+
+	|130-141.~  In questi quattro ternari
+l'autor nostro finge come il peccator manifesta la sua colpa, et
+apparecchiasi a predire quello che dee avvenire della parte di
+Dante, per darli dolore.  E quanto alla prima parte @e da sapere
+che questo Vanni Fucci fu uomo scelleratissimo, et essendo una
+sera a una cena nella quale erano anche de' suoi pari, et ancor
+com'addiviene v'erano de' buoni uomini di Pistoia, che non erano
+di sua condizione, intorno di 18 uomini, tra' quali era uno
+notaio che si chiamava ser Vanni e stava presso al Vescovado,
+onde costoro quando ebbono cenato, dissono: Vogliamo andarci
+trastullando un poco di notte; et accordati presono liuti et
+altri stormenti, et andarono cantando e sonando per la
+terra.  Et ultimamente vennono a casa del detto notaio, e quivi
+sonarono e cantarono un pezzo per amore della donna sua, ch'era
+bellissima; ma in quel mezzo si part@i Vanni Fucci con alcuni
+suoi compagni, et andaronsi trastullando in verso la chiesa
+maggiore; e trovando la porta aperta, entrarono dentro; et andando
+in verso la sacrestia, trovando anche la porta aperta, lasciata
+disavvedutamente aperta, entrarono dentro e venne loro in
+pensieri subitamente di prendere de' belli fornimenti di quella
+sacrestia, che n'era molto ben fornita pi@u che tutte l'altre,
+essendovi fra l'altre cose l'altare fornito tutto d'ariento.  E
+prese di queste cose quante ne poterono portare, se ne vennono
+alli compagni che ancor sonavano e cantavano, e mostrarono quello
+che aveano furato; di che molti di loro stavano tutti smarriti,
+dicendo: Che avete fatto voi?  Non potrete mai vendere queste
+cose, che non si sappia.  Rispose allora il detto Vanni: Ben
+troveremo modo di cavarle fuori e venderemole: che fate?
+Pigliatele ora e portatele in qualche luogo in fino che pensiamo
+altro; e deliberarono di portarle a casa del detto ser Vanni
+notaio, perch'era pi@u presso.  La mattina quando li canonaci
+s'avvidono del furto, si lamentarono a' signori, e i signori
+commisono al podest@a la investigazione del detto furto, dandoli
+piena balia.  Allora lo podest@a, fatto sbandire che chi sapesse
+di questo furto, lo palesasse sotto grave pena, non trovandone
+nulla incominci@o ad investigare delle persone di mala fama, e
+poneali al tormento: e non confessando di questo, che non v'erano
+colpevoli; ma d'altri malifici, ne fece giustiziar molti s@i, che
+dur@o bene sei mesi, che ogni settimana ne facea giustiziare
+alquanti.  Et in fine avendosi posto in cuore pur di ritrovare
+questo furto, venne alli orecchi del detto podest@a che Rappino
+figliuolo di messer Francesco de' Foresi era giovane di mala
+condizione, e ch'era colpevole in questo fatto, onde lo fece
+prendere e tormentarlo; e non confessando niente di questo furto,
+siccome colui che in ci@o non av@e colpa, il podest@a fece
+uno comandamento a questo giovane, che se in fra tre di' non
+confessasse di questo furto e manifestasse chi era colpevole, lo
+farebbe appiccare per la gola, onde di questo era grande dire per
+la terra.  Et il padre et i parenti del giovane s'andavano
+raccomandando a' cittadini, e non potendosi rimuovere lo podest@a
+di questo, si diliberarono i parenti di mettersi a pericolo et
+ardere il palagio del podest@a.  Innanzi a quel di' venuta questa
+novella alli orecchi di Vanni Fucci, ch'era nel contado di
+Fiorenza a monte Carelli: era molto amico di questo Rappino, et
+increscendoli che dovesse morire non avendoci colpa, segretamente
+fece dire a messer Francesco ch'egli andasse a parlare con lui,
+ch'elli farebbe campare il figliuolo.  E per@o andatovi
+prestamente, disse che dicesse al podest@a, se volea trovare lo
+furto facesse trovare ser Nanni predetto, notaio.  Allora
+messer Francesco subito n'and@o, e fu al podest@a e disseli il
+fatto.  Il podest@a mand@o cercando questo ser Nanni, e fu
+trovato alla chiesa de' frati predicatori a uno sermone che si
+facea lo primo lunedi' di quaresima; et essendone menato questo
+ser Nanni, tutta la citt@a mormorava del podest@a, et ancora
+tutti quelli del sermone, dicendo che non facea bene ad infamare
+li buoni uomini.  Questo ser Nanni, come fu dinanzi al podest@a,
+confess@o ogni cosa sanza alcuno tormento, e manifest@o tutti i
+compagni, e disse che pi@u e pi@u volte solo et accompagnato
+vollono portare le dette cose fuori di Pistoia, et ogni volta che
+appressavano alla porta, parea loro vedere l'officiale del
+podest@a, che cercasse qualunque uscia fuori; e questo li facea
+tornare a dietro s@i, che mai non poterono trarre nulla fuori
+della citt@a.  Allora lo podest@a, trovato lo furto e li
+malefattori, mand@o cercando per loro e non ne pot@e giugnere
+alcuno, perch@e tutti fuggirono, quando vidono preso ser Nanni;
+onde fatto restituire lo furto alla sacrestia, di lui fu fatto
+quello che giustizia richiedea; e per@o dice: ^E il peccator~;
+cio@e Vanni Fucci, ^che intese~; ci@o ch'io Dante dicea, ^non
+s'infinse~; per non esser conosciuto; ^Ma drizz@o verso me~;
+Dante ^l'animo e il volto~; suo, ^E di trista vergogna si
+dipinse~: imper@o che divent@o rosso; la qual cosa li diede
+tristizia.  ^Poi disse~; a me Dante: ^Pi@u mi duol, che tu
+m'@ai colto Nella miseria dove tu mi vedi, Che quando fui
+dell'altra vita tolto.~  Qui si pu@o intendere che morisse di
+morte violenta, in quanto dice ^tolto~; et ancor si potrebbe
+intendere di naturale: imper@o che, quando piace a Dio, l'anima
+@e tolta dal corpo; ma propiamente non si dee dire ^tolto~,
+se non quando @e morte violenta: imper@o che, quando @e morte
+naturale, se n'esce per legge di natura, e rade volte addiviene
+che ne campino li suoi pari.  ^Io non posso negar quel che tu
+chiedi~; dice Vanni Fucci a Dante; cio@e ch'io non ti dica la
+colpa, che qua gi@u mi mena: imper@o che tacendo, la verit@a si
+dimostra per s@e medesimo, e lo luogo n'@e dimostratore.  ^In
+gi@u son messo tanto~; cio@e tra li furi e non nel settimo tra li
+violenti, ^perch'io fui~; cio@e io Vanni Fucci, ^Ladro alla~
+^sacrestia de' belli arredi~; cio@e de' bellissimi adornamenti,
+che sono a Pistoia alla chiesa maggiore, ^E falsamente gi@a fu
+apposto altrui~; cio@e al detto Rappino, narrato di sopra.  ^Ma
+perch@e di tal vista tu non godi~; cio@e tu, Dante, d'avermi
+veduto in questo luogo, che sono contrario alla parte tua, ^Se
+mai sarai di fuor de' luoghi bui~; cio@e di questo inferno:
+imper@o che sapea bene che nell'inferno non potea godere; et
+aggiugne uno annunzio che dee dispiacere a Dante.
+
+	|142-151.~  In questi tre ternari e un verso
+l'autor nostro finge che Vanni Fucci li annunzi che li Neri di
+Fiorenza, ch'erano cacciati da Fiorenza e venuti a Pistoia,
+perch@e i Bianchi signoreggiavano in Firenze, della qual parte
+era Dante, ritorneranno in Fiorenza e cacceranno li Bianchi, e
+per@o dice: ^Apri li orecchi~; tu, Dante, ^al mio annunzio~;
+cio@e a quello ch'io ti predico, ^et odi~; quello ch'io ti dir@o:
+^Pistoia pria de' Negri si dimagra~: per@o che si partiranno
+quindi; ^Poi Fiorenza rinnuova genti e modi~: per@o che saranno
+cacciati li Bianchi, e ritorneranno li Neri.  E parlando sotto
+allegoria, dice: ^Tragge Marte~; cio@e li Fiorentini, alli quali
+signoreggia Marte, come detto fu di sopra; e questo dice per li
+Bianchi ch'erano allora in Fiorenza, ^vapor~; cio@e accendimento
+di battaglia, ^di Val di Magra~; cio@e di Lunigiana, ove sono li
+marchesi Malespini: imper@o che i Bianchi, vedendo che li
+Neri coi Pistolesi si faceano forti, presono per capitano messer
+Maruello marchese delli Malespini; e perch@e tali marchesi
+@anno loro tenute al lato ad un fiume, che si chiama la Magra che
+@e fine della Toscana et @e di l@a da Serezana, per@o dice: ^di~
+^Val di Magra, Che di torbidi nuvoli @e involuto.~  Seguitando
+allegoria dice ch'a questo accendimento di battaglia saranno
+molte involuzioni di diverse parti et ancora di diversi effetti,
+che avverranno nella battaglia s@i, che accenderanno pi@u li
+animi, ^E con tempesta impetuosa et agra~; cio@e con questo
+grande accendimento d'ira, che d@a grandi tempestadi e forti,
+^Sopra campo Picen fia combattuto.~  Questo campo @e nella Marca,
+o ancor @e in quello di Pistoia, del quale fa menzione Sallustio,
+quando tratta della congiura e battaglia di Catellina: ^Ond'ei
+repente~; cio@e subitamente, ^spezzer@a la nebbia~; cio@e
+l'oscurit@a dell'avvenimento e riuscita della battaglia, che @e
+cosa oscura et incerta ad ogni uomo infino che non viene il fine,
+^S@i ch'ogni Bianco ne sar@a feruto~; e per questo manifesta
+che i Bianchi denno essere sconfitti in quella battaglia, ^E
+detto l'@o~; io Vanni Fucci a te Dante, ^perch@e doler ti debbia~;
+questo mostra che li dica per lo peggio che pu@o, come suo
+nimico.  E qui finisce il XXIV canto: seguita il vigesimo quinto.

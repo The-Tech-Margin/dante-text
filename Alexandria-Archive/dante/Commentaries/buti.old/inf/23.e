@@ -1,0 +1,798 @@
+	|Proemio.~  ^Taciti, soli~ ec.  In questo XXIII canto
+l'autor nostro intende di trattare della ipocresia la quale finge
+che si punisca nella sesta bolgia; e principalmente fa due cose:
+imper@o che prima pone il lor processo e come pervennono nella VI
+bolgia; nella seconda parte, com'elli sollicita Virgilio che li
+faccia notizia d'alcuno di quella turba ch'elli truova nella VI
+bolgia, e quella incomincia, quivi: ^Perch'io al Duca~ ec.
+
+	|1-72.~  La prima si divide in
+V parti, perch@e prima pone lo cammino che fece elli e
+Virgilio poich@e si partirono da' demoni, e il pensier ch'elli di
+loro avea; nella seconda pone quel che per lo suo pensiero disse
+a Virgilio e la risposta che Virgilio li fe, quivi: ^Gi@a mi
+sentia~ ec.; nella terza, com'elli e Virgilio pervennono nella VI
+bolgia, e come i demoni li perseguitarono, quivi: ^S'egli @e, che
+s@i la destra~ ec.; nella quarta, come discesono nella sesta
+bolgia, quivi: ^Non corse mai~; nella quinta manifesta quel che
+trovarono nella sesta bolgia, quivi: ^L@a gi@u trovammo~ ec.
+Divisa adunque la lezione, principalmente @e da vedere la
+sentenzia litterale che @e questa.
+
+	Poi che Virgilio e Dante si furono partiti da' demoni,
+che erano impacciati a ripigliar que' due ch'erano impegolati,
+dice Dante, ch'elli e Virgilio n'andavano taciti soli e sanza
+compagnia, l'uno dinanzi e l'altro retro come' frati minori vanno
+per cammino: e dice ch'elli avea volto il suo pensieri in su la
+favola d'Isopo per la rissa delli demoni, nella quale Isopo
+tratt@o della rana e del topo, aggiugnendo che non si pareggia la
+favola d'Isopo con la rissa de' dimoni, sebben si aggiugne il
+principio e il fine dell'una e dell'altra insieme con la mente
+ferma.  E dice che come l'uno pensiere scoppia dell'altro, cos@i
+nacque di quel pensiere un altro, che li fe doppia la prima
+paura; e dice ch'elli pensava cos@i: Questi demoni per noi; cio@e
+per Virgilio e per me, sono scherniti con danno e con beffa s@i
+fatta, ch'assai credo che noi loro: se l'ira s'aggiugne col mal
+volere, e' ci verranno dietro pi@u crudeli, che quel cane a
+quella lievre ch'elli acceffa.  Et aggiugne che gi@a si sentia
+arricciare i peli per la paura, e stava attento di dietro,
+e per@o disse a Virgilio: Maestro se non celi te e me tostamente,
+io @o paura di Malebranche: noi li aviamo gi@a di dietro, io
+l'imagino s@i, che gi@a li sento.  Et allora Virgilio disse: Se
+io fossi uno specchio, non tirerei a me l'imagine tua esteriore
+corporale pi@u tosto, ch'io @o quella dell'animo dentro: pur ora
+li tuoi pensieri si congiunsono co' miei con simile atto e simile
+apparenzia, s@i ch'io @o fatto uno consiglio d'amendue.  Se gli
+@e che la destra costa giaccia s@i, che noi possiamo scendere
+nell'altra bolgia, noi fuggiremo la caccia che noi aviamo
+imaginato.  E non compie Virgilio di dir questo, che Dante li
+vide venire con l'alie tese, per volere pigliare non molto di
+lungi; et allora Virgilio prese Dante di subito, come la madre
+che si sveglia al romore del fuoco e vede presse a s@e le
+fiamme accese, che non s'arresta pur tanto che si metta la
+camizia; ma avendo pi@u cura del figliuolo che di s@e, lo
+piglia e fuggesi ignuda; e cos@i Virgilio si lasci@o riverto gi@u
+della ripa ch'era mezzo tra la quinta bolgia e la sesta.  Et
+aggiugne una similitudine ch'elli corse piuttosto gi@u, che non
+corre l'acqua per la doccia del mulino terragno, portandosene
+sopra il petto gi@u dalla ripa Dante, non come compagno; ma come
+figliuolo: e dice ch'appena furono giunti li pi@e di Virgilio
+gi@u al fondo, che i demoni erano giunti in sul colle sopra loro:
+ma non v'era paura, che l'alta Providenzia che li volle porre
+ministri della quinta bolgia, @a tolto loro la potenzia di
+partirsi quindi.  Et aggiugne che nel fondo della sesta bolgia
+trovarono una gente dipinta, ch'andava intorno con assai lenti
+passi, piangendo assai miseramente, e parea alla vista stanca e
+vinta et aveano costoro cappe con cappuzzi bassi dinanzi alli
+occhi, fatti a quel modo che portano li monaci di Colognia; e
+queste cappe eran dorate e splendienti di fuori, sicch@e
+abbagliava tutta la gente, e d'entro erano di piombo e tanto
+gravi, che quelle che facea mettere lo imperador Federigo alli
+giudicati e condannati eran di paglia a rispetto di quelle.  E
+per@o facendo esclamazione dice l'autore: O faticoso mantello,
+che @e quello in eterno!  E dice che si volsono a man manca, ad
+andare per lo fondo della bolgia al loro cammino insieme andando
+con quella gente, et andavano intesi al loro tristo pianto; ma
+quella gente stanca veniva s@i piano per lo peso, che Virgilio e
+Dante trovavono nuova compagnia ad ogni passo.  E qui finisce
+la sentenzia litterale di questa prima lezione: ora @e da vedere
+il testo con le moralit@a et allegorie.
+
+	|1-18.~  In questi sei ternari dimostra
+l'autore come se n'andarono, poi ch'ebbono lasciati li demoni; e
+li pensieri che li vennono nella mente, dicendo: ^Taciti~,
+perch@e non parlavano, ^soli~, perch@e l'uno andava innanzi e
+l'altro poi, ^e sanza compagnia~, perch@e niun altro era pi@u con
+loro, se non essi poi ch'aveano lasciata la compagnia de' dimoni,
+^N'andavam~; cio@e Virgilio et io Dante ^l'un dinanzi~; cio@e
+Virgilio, ^e l'altro dopo~; cio@e Dante: imper@o che la guida va
+innanzi e lo guidato seguita; et aggiugne la similitudine, ^Come~
+^i frati minor~; cio@e quelli di san Francesco, ^vanno per via~;
+cio@e per lo lor cammino: consuetudine @e de' frati minori,
+quando vanno per cammino d'andare taciti, soli e sanza
+compagnia, e l'uno innanzi e l'altro dietro: imper@o che vanno
+contemplando o nelle cose divine o nelle scienzie, e per@o non
+sono taciti quanto alla mente; ma s@i al parlare corporalmente; e
+non sono soli, quanto al pensieri: imper@o che @e sentenzia di
+Catone, che la pone Tullio nel libro delli Offici, che mai non fu
+meno solo che quando era solo, e mai non fu meno ozioso che
+quando era ozioso.  E Seneca nelle sue Epistole ancora dice che
+l'uomo savio non @e mai solo; e forse per questo disse l'autore
+^soli~, perch@e lo loro pensieri non era allora accompagnato con
+li uomini virtuosi.  E puossi intendere che quel ^come~ faccia
+similitudine a quello ultimo; cio@e l'uno dinanzi e l'altro dopo;
+et aggiugne: ^Volto era in su la favola d'Esopo Lo mio pensier~;
+cio@e di me Dante, ^per la presente rissa~; cio@e briga de'
+dimoni.  Et intorno a questo @e da sapere che Isopo @e uno
+libello che si legge a' fanciulli che imparano Grammatica, ove
+sono certe favole moralizzate per arrecarli a buoni costumi,
+tralle quali ve n'@e una che dice che, andando lo topo per lo
+contado, pervenne a una fossa d'acqua ov'erano molti
+ranocchi; e stando il topo alla riva e dubitando di passare, uno
+ranocchio lo venne a vedere con animo di farlo affogare in quella
+fossa, mostrando di volerlo aiutare; e dubitando il topo
+dell'acqua, disse il ranocchio: Lega il tuo piede col mio e non
+potrai cadere.  E fidatosi il topo del ranocchio si leg@o con
+lui, e montato in su le spalle del ranocchio il ranocchio il
+port@o insino al mezzo dell'acqua e poi cominci@o a ire sotto per
+tirarsi il topo dietro; lo topo s'argomentava con le branche di
+stare a galla.  In questo mezzo uno nibbio volando per l'aere,
+vide il topo nell'acqua e calossi, ghermillo e portollo via; e
+perch@e lo ranocchio era legato con lui, port@o l'uno e l'altro
+et amendue li si becc@o.  E per@o dice: ^Dov'ei~; cio@e nel quale
+Isopo, ^parl@o della rana e del topo~; come detto fu di sopra:
+^Ch@e pi@u~; cio@e imper@o che pi@u, ^non si pareggia mo~;
+questo ^mo~ @e vocabolo lombardo et @e a dire avale o vuogli al
+presente, ^et issa~; questo ^issa~ @e vocabolo romaniuolo et
+anche @e a dire aguale et al presente, s@i che sono simili in
+significato, bench@e sieno diversi in voce, ^Che l'un con l'altro
+fa~; cio@e la favola detta del topo e della rana con la rissa
+d'Alichino e Calcabrina, ^se ben s'accoppia~; cio@e se ben
+s'accosta lo ^Principio~; della favola col principio della rissa;
+e per@o dice: ^principio e fine~; dell'una e dell'altra, ^con la
+mente fissa~; cio@e con la mente ferma.  E fa l'autore quivi lo
+lettore attento a notare la similitudine, e per@o veggiamo come
+s'accordano insieme lo principio della favola e lo inganno del
+ranocchio che volea tirare sotto lo topo e per@o s'era legato con
+lui; e cos@i Calcabrina avea ghermito Alichino, per farlo
+cadere nella pegola e sospignervelo sotto.  Lo fine della favola
+@e che l'uno e l'altro fu preso dal nibbio per lo legamento
+fatto; e cos@i per lo ghermire che Calcabrina avea fatto ad
+Alichino, Alichino si volse verso lui e gherm@i bene lui s@i,
+ch'amendu' caddono nella pegola; e per@o come cominci@o l'uno con
+inganno a volere nuocere, il nuocimento alla fine per lo inganno
+torn@o a lui, cos@i come all'altro.  ^E come l'un pensier
+dell'altro scoppia~; cio@e nasce, ^Cos@i nacque di quello~;
+cio@e pensieri della favola d'Isopo, ^un altro poi~; pensiere
+dopo quello, ^Che la prima paura~; cio@e quella ch'i' ebbi quando
+ci fu data la loro compagnia, come si contiene nel canto XXI, ove
+dice: ^Oim@e!  Maestro, che @e quel ch'io veggio?  Diss'io: Deh
+sanza scorta andianci soli~ ec.  -- ^mi fe doppia~; cio@e quello
+pensieri, ch'i' ebbi poi, m'adoppi@o la prima paura detta di sopra.
+Ecco che manifesta lo suo pensieri: ^Io pensava cos@i~; cio@e io
+Dante: ^Questi~; cio@e li demoni, ^per noi~; cio@e per Virgilio e
+per me Dante, ^Sono scherniti~; cio@e sono beffati: imper@o che il
+Navarrese fugg@i loro per lo ragionamento che Virgilio facea con
+lui per cagione di Dante, e per lasciar fare quel ragionamento li
+demoni non feciono al Navarrese quel che voleano; e cos@i rimasono
+beffati.  Ma perch@e la beffa alcuna volta non @e con dispiacere di
+chi la riceve, per@o aggiugne: ^e con danno e con beffa S@i fatta,
+ch'assai credo che lor noi~; cio@e a' demoni faccia rincrescimento:
+imper@o che v'@e lo danno; cio@e d'essere impegolati.  ^Se l'ira~;
+che li demoni @ann'ora presa per la beffa e per lo danno, ^sopra il
+mal voler~; lo quale li demoni sempre @anno: imper@o che
+sempre vogliono male: imper@o che non possono
+voler bene, perch@e sono ostinati nel male, ^s'aggueffa~;
+cio@e s'aggiugne: aggueffare @e filo a filo aggiugnere, come si fa
+ponendo lo filo dal gomito alla mano, o innaspando con l'aspo,
+^Ei~; cio@e li demoni, ^ne verranno dietro~; cio@e a noi; cio@e a
+Virgilio et a me, ^pi@u crudeli, Che il cane~; non va dietro,
+s'intende, ^a quella lievre, ch'elli acceffa~; cio@e piglia col
+ceffo: la lievre @e uno animale salvatico, piccolo, velocissimo, e
+perch@e @a le gambe d'inanzi pi@u corte che quelle di rietro, corre
+pi@u velocemente all'erta, che alla china, e dorme con li occhi
+aperti; questo animale @e preso spesse volte dai cani levrieri.
+
+	|19-30.~  In questi quattro ternari
+l'autor nostro dimostra come l'imaginazione fece il caso, e come
+dice sua intenzione a Virgilio, e come Virgilio li risponde,
+dicendo cos@i: ^Gi@a mi sentia~; a me Dante, ^tutti arricciar li
+peli~; cio@e del capo e del corpo, ^Della paura~; cio@e per la
+paura.  E questo @e perch@e la natura sempre soccorre alle parti
+pi@u deboli, e perch@e nella paura lo cuore viene meno, lo
+sangue di tutto il corpo corre al cuore per confortarlo, e per@o
+rimane lo corpo tutto pallido e freddo; e cessato lo sangue del
+capo o d'altra parte dove sono li peli, li capelli e li peli si
+levano suso per l'aridit@a che viene cessandosi l'umidit@a del
+sangue, e la sua caldezza, e cos@i sente l'uomo rigore per tutto
+lo corpo nelle parti esteriori, ^e stava dietro intento~; cio@e
+sollicito, perch@e temea che li demoni lo perseguissono, ^Quando
+io dissi~; io Dante: ^Maestro~; chiama Virgilio per questo
+vocabolo usato, ^se non celi~; cio@e appiatti, ^Te e me
+tostamente, io @o pavento~; cio@e paura, ^Di Malebranche~; cio@e
+de' dimoni cos@i chiamati: ^noi li avem gi@a dietro~; et aggiugne
+la cagione, perch@e dice cos@i: ^Io l'imagino s@i, che gi@a li
+sento.~  Dice Aristotile che la imaginazione fa venire lo caso; e
+per questo par che la mente alcuna volta s'indovini quel che li
+avvien poi.  ^E quei~; cio@e Virgilio: ^S'io fossi di piombato
+vetro~; cio@e s'io fossi uno specchio: lo specchio @e vetro coperto
+dall'un lato di piombo, e congiugnesi lo piombo al vetro con certi
+licori e sughi d'erbe artificiosamente; ma prima si batte lo piombo
+e fassi sottilissimo come l'oro, e questo sono pochi che il sappino
+fare, e par che vegna tal vetro piombato della Magna.  Et @e da
+notare che lo specchio rappresenta ci@o che gli @e posto innanzi,
+perch@e il vetro @e corpo diafano; cio@e trasparente, e per@o
+quando dall'un lato @e posto lo piombo, la figura posta innanzi non
+pu@o passare di l@a, e per@o la rappresenta nel lato aperto,
+^L'imagine di fuor tua~; cio@e la esteriore imagine tua corporale,
+^non trarrei Pi@u tosto~; questo dice, perch@e lo specchio tira a
+s@e l'imagine della cosa che li @e posta innanzi et in s@e la
+rappresenta altres@i tosto, come li @e posta innanzi, ^a me~; come
+fa lo specchio a s@e, ^che quella d'entro~; cio@e l'imagine
+interiore dell'animo, ^impetro~; cio@e contengo, et abbo.
+Potrebbe ancor dire il testo: ^Se fossi~; cio@e tu Dante fossi
+come uno specchio, io Virgilio non trarrei a me di fuor da te
+l'imagine che in te si rappresentasse, come fa nello specchio,
+pi@u tosto ch'io @o quella imaginazione che tu @ai d'entro da te:
+imper@o che altres@i, tosto come l'uomo guarda nello specchio,
+tira a s@e l'imagine che vi si rappresenta d'entro con la sua
+fantasia.  Et @e da notare che la imagine @e una virt@u che
+@a asservire all'intelletto, siccome l'apprensativa e memorativa;
+et @anno queste virt@u luogo appropriato nel capo umano; cio@e
+nel cerebro; cio@e l'apprensiva, o vero fantasia che si chiami,
+nella parte dinanzi, cio@e nella fronte; l'immaginativa, o vero
+estimativa nel zuccolo; e la ritentiva, o vero memorativa, nella
+cottola; e l'una di queste serve all'altra: imper@o che
+l'apprensiva quello che apprende d@a all'imaginativa a pensare, e
+quel che la imaginativa @a imaginato d@a alla ritenitiva a
+ritenere: e come nello specchio riluce ci@o che se gli pone
+innanzi; cos@i nella imaginativa riluce ci@o ch'ella si
+rappresenta, s@i veramente ch'ella non si pu@o rappresentare
+cosa che non sia appresa prima.  E se s'opponesse che l'uomo
+imagina lo monte dell'oro, che mai non l'apprese col sentimento,
+debbasi rispondere ch'elli @a appreso monte et oro, e di queste
+due cose apprese l'imaginativa fa composizione e rappresentale e
+fa rilucere in s@e uno monte d'oro, s@i che chi lo imaginer@a
+tutta via gliel parr@a vedere.  E per lo componere e dividere @e
+differente l'umana natura da quella de' bruti animali, che non
+possono ci@o fare; e per@o si pu@o intendere che Virgilio dicesse
+a Dante: Se nel corpo tuo rilucesse la tua imaginazione che tu
+@ai d'entro, come fa nello specchio la cosa che innanzi li si pone,
+io non la comprenderei di fuori pi@u tosto, ch'io comprendo quella
+imaginazione che @ai d'entro da te. Et @e da notare che ^di fuori~
+si pu@o rendere al ^trarrei~, e puossi rendere all'^imagine tua
+di fuori.~  -- ^Pur mo~; cio@e pur test@e, ^venian i tuoi pensier~;
+cio@e quel che tu pensavi et imaginavi, ^tra' miei~; cio@e
+nella mia imaginazione, ^Con simil atto~; cio@e temendo come tu,
+^e con simile faccia~; cio@e parendo a me quel ch'a te, ^S@i
+che d'intrambi~; pensieri, cio@e del tuo e del mio, ^un sol
+consiglio fei~; cio@e una deliberazione, e dimostra la
+deliberazione in quel che seguita.
+
+	|31-45.~  In questi cinque ternari l'autor
+nostro dimostra la deliberazion di Virgilio, e la sua esecuzione,
+dicendo: ^S'egli @e~; dice Virgilio, ^che s@i la destra costa~;
+cio@e la ripa che venia da man ritta: per@o ch'erano volti a man
+sinistra, ^giaccia~; cio@e sia scesa, ^Che noi~; cio@e tu
+Dante et io Virgilio, ^possiam nell'altra bolgia scendere~;
+cio@e nella sesta, ^Noi fuggirem l'imaginata caccia~; cio@e
+quella che aviamo imaginata tu et io.  ^Gi@a non compie~;
+Virgilio, ^di tal consiglio rendere~; qual detto @e di sopra:
+per@o che inanzi ch'avesse compiuto di dire, Dante li vide e
+per@o dice: ^Ch'io~; cio@e Dante ^li vidi venir con l'alie
+tese~; in verso noi, ^Non molto lungi~; da noi, ^per volerne
+prendere~; cio@e per volerci pigliare.  ^Lo Duca mio~; cio@e
+Virqilio, ^di subito mi prese~; cio@e me Dante; e fa una
+similitudine, ^Come la madre, ch'al romor~; cio@e del fuoco,
+^si desta~; cio@e si sveglia.  Potrebbe dire lo testo: ^@e
+desta~; cio@e svegliata, ^E vide presso a s@e le fiamme accese,
+Che prende il figlio~; per la paura del fuoco, ^e fugge~; con
+esso, ^e non s'arresta~; cio@e non si regge, ^Tanto che solo una
+camicia vesta~; anzi fugge nuda, ^Avendo pi@u di lui~; cio@e del
+figliuolo, ^che di s@e cura~: per@o che non cura d'essere veduta
+ignuda, pur che campi lo figliuolo: ^E gi@u dal colle della ripa
+dura~; cio@e dalla bolgia sesta, ^Supin~; cio@e riverso, ^si
+diede~; co' piedi innanzi, ^alla pendente roccia~; cio@e ripa di
+pietra, ^Che l'un de' lati all'altra bolgia tura~; cio@e lo lato
+di qua alla bolgia sesta.
+
+	|46-58.~  In questi quattro ternari
+l'autor nostro finge lo discenso suo e di Virgilio nella sesta
+bolgia, facendo una similitudine, e finge l'avvenimento
+de' dimoni, dicendo cos@i: ^Non corse mai s@i tosto acqua per
+doccia~; cio@e per canale, ^A volger ruota di molin terragno~:
+lo mulino terragno @e quello che @a la ruota piccolina sotto,
+come lo mulino francesco l'@ae grande e da lato, et @a bisogno di
+pi@u acqua che il francesco, e per@o conviene che la sua doccia
+abbia maggior corso, ^Quand'ella~; cio@e l'acqua, ^pi@u verso le
+pale approccia~; cio@e discende: le pale sono quelle che
+ricevono l'acqua e fanno volgere la ruota; et adatta la
+similitudine, dicendo: ^Come il Maestro mio~; cio@e Virgilio corse
+giuso, ^per quel vivagno~; cio@e per quella ripa: vivagno @e lo
+canto della tela, e cos@i le ripe sono li vivagni della bolgia,
+^Portandosene me~; Dante, ^sopra il suo petto~, perch@e io non mi
+facessi male allo scendere, ^Come suo figlio, non come compagno.~
+E questo allegoricamente s'intende come la ragione superiore guida
+la inferiore a considerare della sesta bolgia, lasciando la
+intenzione de' dimoni; e notantemente dice sopra lo suo petto,
+perch@e l'animo, a cui si d@a l'uso della ragione, pare avere
+sua propia sedia nel petto.  ^A pena fuor li suoi pi@e~; cio@e di
+Virgilio, ^giunti al letto~; cio@e al fondo piano, ^Del fondo
+gi@u~; della sesta bolgia, ^ch'ei~; cio@e li demoni, ^giunser in
+sul colle~; della ripa sesta, o ver bolgia, ^Sovresso noi~; cio@e
+sopra noi; ^ma non gli era sospetto~; cio@e paura o dubbio, et
+aggiugne la cagione: ^Ch@e~; cio@e imper@o che, ^l'alta
+Providenzia~; cio@e di Dio, che ogni cosa @a proveduto et
+ordinato, ^che lor volle~; cio@e quelli dimoni, ^Porre ministri
+della fossa quinta~, perch'avessono a guardare che i peccatori
+non si cessassono da i loro tormenti, che sono posti nella quinta
+bolgia, ^Poter di partirsi indi a tutti tolle~; cio@e che niuno
+si possi partire della fossa, o bolgia ove sia posto; e per
+questo mostra che li ufici de' dimoni e le loro potenzie sono
+tutte limitate da Dio.
+
+	|58-72.~  In questi cinque ternari
+l'autor nostro comincia a trattar della sesta bolgia, dimostrando
+lo peccato che quivi si punisce e la pena ch'elli finge ordinata
+a tal peccato.  E prima doviamo sapere che qui intende l'autore
+nostro trattare della ipocrisia, la quale @e infingimento e
+simulazione di santit@a e di verita nelli atti di fuori,
+nascondendo la nequizia e il vizio che @e d'entro; et @e
+contenuto questo peccato sotto la fraude: imper@o l'ipocrita
+inganna li uomini, mostrandosi loro santo e buono, ov'elli @e reo
+nel cuor dentro; e secondo li fini che si costituisce l'ipocrita,
+s'arreca questo peccato a diversi peccati mortali: imper@o che
+alcuno lo fa per esserne onorato, et allora s'arreca a superbia;
+alcuno per guadagnar danari, et allora s'arreca ad avarizia;
+alcuni per esserne pasciuti, e cos@i s'arreca alla gola; e cos@i
+delli altri; e dicesi ipocrita quasi di sopra dorato, o vero falso
+giudizio, perch@e di s@e fa falsamente giudicare.  E finge
+l'autore che l'ipocriti abbiano nell'inferno questa pena, ch'elli
+sieno in continuo circulare movimento e che vadano lentamente e
+piangendo, e sieno dipinti di fuori e nella vista stanchi e
+vinti; e ch'abbino in dosso cappe con cappucci grandissimi in
+fino alli occhi, dorate di fuori e d'entro di piombo gravissime a
+portare.  E questa pena debitamente risponde a tal peccato:
+imper@o che come nel mondo non puosono fine alli loro inganni; ma
+sempre andarono d'inganno in inganno; cos@i di l@a continuamente
+vadino e non abbino mai riposo: e come ebbino lentezza nel mondo
+alle virt@u et ancor nelli atti di fuori, per mostrarsi ben
+modesti; l'abbiano di l@a ancora al lor tormento.  E come di qua
+alcuna volta piansono simulatamente per mostrarsi compassivi;
+cos@i veramente piangono di l@a per le pene e per li tormenti.  E
+come nel mondo si sono mostrati di fuor con le cappe grosse e
+stracciate, per mostrarsi stracciatori et ancora sprezzatori
+delle cose del mondo, e di sotto @anno portate le cose dilicate;
+cos@i per lo contrario nell'inferno le portano dipinte et
+indorate di fuori, e d'entro di piombo coi cappuzzi nelli occhi,
+perch@e cos@i sono iti nel mondo: grandi per maggior pena in
+vendetta delli cappuzzetti ch'anno portati nel mondo, per
+infignersi e simularsi dispregiatori delli apparati e pompe del
+mondo; stanchi e vinti sono nell'inferno per la pena s@i, come di
+qua nel mondo si sono mostrati per parere uomini di gran
+penitenzia.  Et allegoricamente tutte queste pene vuole
+dimostrare essere nelli uomini del mondo, che sono ipocriti:
+imper@o che sono tre spezie d'ipocriti, che l'una @e pi@u grave
+dell'altra.  La prima @e di coloro che si mostrano buoni di
+fuori, e sono rei d'entro: per@o che mostrano nelle viste di
+fuori virtuosi, mostrando d'amare e temere Idio, e nell'opere
+occulte sono viziosi e mondani.  Alcuni si mostrano nelli
+atti esteriori et interiori; ma fannolo per esser lodati dal
+mondo, non per piacere a Dio.  Et alcuni sono ipocriti per non
+parere ipocriti, come se tu domandassi a questi cos@i fatti:
+Digiuni tu oggi?  Et elli non digiunando, risponda: Idio il sa;
+ecco che usa doppia ipocresia: imper@o che non digiunando, vuole
+mostrare che digiuni; e perch@e tu gliele creda meglio per
+mostrare che non sia ipocrita, usa l'altra ipocresia, dicendo:
+Idio il sa.  E de' primi si pu@o dire ch'abbino le cappe d'oro
+di fuori, e d'entro di piombo, perch@e mostrano di fuori buoni, e
+d'entro sono rei; e sono gravati nella loro coscienzia dallo
+inganno che fanno, che tuttavia sono rimorsi dalla coscienzia.
+De' secondi si pu@o dire che sieno dipinti: imper@o che ci@o che
+fanno lo fanno per piacere al mondo.  E de' terzi si pu@o dire
+che sieno l'altre condizioni; cio@e piangolosi e stanchi e
+vinti, perch@e cos@i mostrano per mostrare che non sieno
+ipocriti; coi cappuzzi nelli occhi, per non lasciarsi vedere,
+acciecano loro medesimi usando l'ipocresia per appiattare
+l'ipocresia; e fanno movimento circulare con passi lenti, perch@e
+dello inganno della ipocresia ritornano nella ipocresia; e
+vannovi lentamente, perch@e l'uomo non se ne avveggia; e per@o
+dice lo testo: ^L@a gi@u~; cio@e nel fondo della sesta bolgia,
+^trovammo~; cio@e Virgilio et io Dante, ^una gente dipinta~;
+quanto all'abito di fuori, ^Che giva intorno~; per lo fondo della
+sesta bolgia, ^assai con lenti passi, Piangendo~; per la pena,
+^e nel sembiante~; cio@e nella vista, ^stanca e vinta~; per lo
+peso che portavano; e rende la cagione: ^Elli avien cappe~;
+quelli detti di sopra, ^con cappuzzi bassi Dinanzi alli occhi~;
+s@i che coprivano loro li occhi, ^fatti a quella taglia~; cio@e
+a quel modo, ^Che in Cologna pe' monaci fassi~; che vi sono.
+Cologna @e una citt@a nella Magna nella quale @e uno grande e
+ricco monasterio, nel quale fu una volta uno abbate tanto superbo,
+ch'ebbe ardimento d'impetrare dal Santo Padre di potere elli e i
+suoi monaci vestire cappe di scarlatto e portare cinture
+d'ariento inorato e sproni a modo di cavalieri, lo quale il
+papa riprese molto della sua stoltizia e superbia, e comandolli
+che dovessono portare cappe nere con capuzzi grandi s@i, che vi
+capesse una grande misura di biada, et alle cintole portassono
+fibbia e puntale di legno, e cos@i le staffe; e per@o ne fa
+similitudine l'autore.  ^Di fuor dorate son~; le dette cappe
+dell'ipocriti, ^s@i ch'elli abbaglia~; le viste delli
+riguardanti, come fanno li atti dell'ipocriti, ^Ma d'entro tutte
+piombo~; le dette cappe, ^e gravi tanto~; per lo piombo, ^Che
+Federigo~; secondo, che fu imperadore, ^le mettea di paglia~;
+alli gudicati per lui.  Per respetto di questo @e da sapere che
+lo imperadore Federigo secondo coloro, ch'egli condannava a morte
+per lo peccato dell'offesa maest@a, li facea spogliare ignudi e
+vestire d'una veste di piombo grossa un dito, e faceali mettere
+in una caldaia sopra il fuoco, e facea fare grande fuoco tanto,
+che si struggea lo piombo addosso al misero condannato, e cos@i
+miseramente e dolorosamente lo faceva morire.  Onde l'autor dice:
+Bench@e le cappe del piombo, che facea mettere lo imperador
+Federigo ai dannati, fossono di piombo grosso un dito; ell'erano
+di paglia per rispetto di quelle che per Divina Giustizia
+vestivano l'ipocriti; e per@o esclamando, aggiugne l'autore: ^O
+in eterno~; questo dice, perch@e non dee mai venire meno,
+^faticoso manto~; cio@e pieno di fatica e d'angustia, ben
+conveniente a tal peccato s@i, che come @anno simulata gravit@a
+per parere santi e buoni in questa vita; cos@i portino quella di
+l@a in vendetta della Divina Giustizia: e come sono stati freddi
+di carit@a; cos@i vestono lo piombo che @e freddissimo
+metallo!  ^Noi~; cio@e Virgilio et io Dante, ^ci volgemo ancor pur
+a man manca~; come sempre @a finto l'autore che sieno iti per
+l'inferno, ^Con loro insieme~; cio@e con li ipocriti, ^intenti
+al tristo pianto~; che faceano quelli dannati ipocriti.  ^Ma per
+lo peso quella gente stanca~; cio@e quelli dannati, ^Venian s@i
+pian~; per lo circuito della bolgia, ^che noi~; cio@e Virgilio et
+io Dante, ^eravam nuovi Di compagnia ad ogni muover d'anca~;
+cio@e a ogni passo mutavano compagnia.  E qui finisce la
+prima lezione.
+
+	|73-148.~  ^Perch'io al Duca~ ec.  Poich@e l'autore @a
+manifestato come discesono nella VI bolgia, e li peccatori e le
+pene che sosteneano in essa, nomina alquanti di quella gente che vi
+trov@o; e dividesi questa parte in sette parti: imper@o che prima
+Dante priega Virgilio, che ragguardi se ne conosce alcuno, e come
+alcuno di quelli incappati si proferse, e come Virgilio fe
+restare Dante; nella seconda, come Dante s'arresta, e giugnendo
+coloro parlano con loro, quivi: ^Ristetti, e vidi~ ec.; nella
+terza, come Dante risponde loro e domanda chi elli sono, e come
+rispondono, quivi: ^Et io a loro~ ec.; nella quarta Dante mostra
+loro compassione, e come truova uno posto in croce, quivi: ^Io
+cominciai: O Frati~, ec.; nella quinta pone come Virgilio si
+maraviglia, e domanda dell'uscita della bolgia, quivi: ^Allor
+vid'io maravigliar~ ec.; nella sesta pone come l'addomandato
+risponde, quivi: ^Rispose adunque~ ec.; nella settima, come lo
+incappato risponde ad uno detto di Virgilio, e come Virgilio
+si parte da loro e Dante seguita, quivi: ^E il Frate: Io udi'~
+ec.  Divisa la lezione, @e da vedere la sentenzia litterale.
+
+	Dice adunque: Poi che noi; cio@e Virgilio e Dante, fumo
+aggiunti a questi incappati, et ad ogni passo mutavamo compagnia:
+s@i andavamo piano, io Dante dissi a Virgilio: Fa, che tu truovi
+alcuno ch'o'l fatto, il nome si conosca; e cosi andando
+muovi li occhi intorno s@i, che ne trovamo alcuno.  Et allora uno
+che intese lo parlare toscano, guard@o diritto a noi e disse:
+Tenete li passi voi, che correte s@i per questo aere scuro, forse
+che avrai da me quel che tu credi.  Onde Virgilio si volse
+a me Dante, e disse: Aspetta, e poi procedi secondo lo suo
+passo; et allora Dante si rest@o, e vide due mostrare gran
+fretta, quanto all'atto del volto, d'essere con Dante; ma
+tardavali s@i lo carco e la via stretta, che poco si moveano.  E
+quando furono giunti a lui, lo guardavano con l'occhio in
+traverso sanza parlargli, e volti poi a s@e, tra loro e'
+diceano: Questi pare vivo all'atto della gola ch'elli batte e
+spira; e se amenduni sono morti, per qual privilegio vanno
+scoperti della grave cappa?  Poi dissono a Dante: O Toscano, che
+se' venuto al collegio de' tristi ipocriti non avere in
+dispregio di dire chi tu se'.  Et allora Dante rispuose: Io fui
+nato e cresciuto nella gran citt@a che @e in su l'Arno, e sono
+vivo ancora; ma voi chi siete che avete tanto dolore, quant'io
+veggio al piangere e che pena @e in voi che si sfavilla?  E l'uno
+rispuose: Om@e le cappe rosse di fuori sono di piombo d'entro s@i
+grosse, che li pesi fanno cigolar le loro bilancie!  Noi fummo
+frati Godenti da Bologna, et io fui chiamato Catalano e
+quest'altro Lodorigo, e fummo eletti della tua citt@a come
+uomini di mezzo a conservare lo suo stato pacifico e fummo s@i
+fatti che ancora si pare in Fiorenza in uno luogo che si chiama
+il Gardingo.  Allora Dante cominci@o la risposta dicendo: O
+Frati, li vostri mali...  e non and@o pi@u innanzi: imper@o che
+li occorse alli occhi uno, crocifisso in terra con tre pali; e
+dice che quello crocifisso, quando vide Dante, tutto si distorse
+soffiando con sospiri nella sua barba.  Et allora frate Catalano
+che s'avvide di ci@o, disse a Dante: Quel confitto, che tu miri,
+fu Caifas che consigli@o li Farisei che convenia che uno uomo
+morisse per lo popolo, et @e nudo, attraversato nella via come tu
+vedi, et @e mestieri ch'elli senta quanto pesa qualunque passa;
+et a questo modo sta Anna suo suocero e tutti li altri che furono
+in quel consiglio, ove si diliber@o della morte di Cristo che fu
+mal seme per li Giudei.  Allora vide Dante maravigliar Virgilio
+sopra colui, ch'era disteso in croce tanto vilmente nell'eterno
+sbandeggiamento.  Poi parl@o Virgilio al Frate, dicendo: Non vi
+dispiaccia di dirci, se potete, se a man ritta c'@e alcuna foce,
+che noi ne potessimo uscire sanza costrignere de' dimoni, che ci
+venghino a cavare quinci.  Rispose allora lo Frate: Pi@u presso
+che tu non credi @e uno sasso, che si muove dal cerchio primo, e
+passa facendo ponte sopra tutte le bolgie, salvo che sopra
+questa, che c'@e rotto: voi potete montare su per la rottura, che
+giace nella costa e sopra sta nel fondo.  Allora Virgilio stette
+un poco col capo chino, e poi disse: Mal contava lo fatto nostro
+lo demonio, che uncina nell'altra bolgia li peccatori; cio@e
+Malacoda.  E il Frate rispose: non @e maraviglia ch'io udi
+dire a Bologna che il demonio @a vizi assai tra' quali @ae ch'egli
+@e bugiardo e padre di menzogna.  Allora Virgilio si part@i
+turbato un poco nella vista, andando con grandi passi; et allora
+Dante si part@i da quelli caricati, dietro seguitando le pedate
+di Virgilio.  E qui finisce la sentenzia litterale: ora @e da
+vedere lo testo con l'allegorie e moralitadi.
+
+	|73-81.~  In questi tre ternari l'autor
+nostro finge, come pregando Virgilio che li mostrasse alcuno di
+quelli miseri peccatori, che si conoscesse per fama, vide due li
+quali nomina poi che si profersono.  Dice dunque cos@i:
+^Perch'io~; cio@e Dante, ^al Duca mio~; cio@e Virgilio, dissi,
+s'intende, ^Fa, che tu truovi Alcun~; di questi peccatori, ^che~;
+cio@e del quale, ^il fatto o il nome si conosca~; cio@e sia nota
+la specialit@a del suo peccato e nome suo s@i, che sia persona di
+fama: imper@o che tutti i pi@u sogliono essere uomini abietti,
+vili et oscuri, ^E li occhi, s@i andando, intorno muovi~; cio@e
+per vedere, se alcuno ce n'@e.  ^Et un~; di quelli peccatori,
+^che intese la parola fosca~; cio@e la loquela di Toscana, ^Di
+rietro a noi grid@o~; qui mostra che fosse di quelli di rietro,
+non d'inanzi a loro; e parlasse allora cos@i: ^Tenete i piedi~;
+cio@e fermatevi, ^Voi, che correte s@i per l'aura fosca~, cio@e
+oscura: ^Forse ch'avrai da me~; cio@e uno delli due
+accompagnati: per questo mostra ch'andassono a coppia, bench@e
+pi@u coppie andassono di pari, perch@e cos@i sogliono andare
+l'ipocriti quando sono nel mondo sotto abito di qualche religione,
+^quel che tu chiedi~; cio@e quel che tu domandasti di sopra alla
+guida tua.  ^Onde il Duca~; cio@e Virgilio, ^si volse~; a vedere
+chi era, ^e disse~; cio@e a me Dante: ^Aspetta~; cio@e colui
+ch'@a parlato acci@o che ti giunga, ch'altrimenti non ti potrebbe
+giugnere, ^E poi secondo il suo passo procedi~: imper@o ch'elli
+non pu@o star fermo; e tu andando pi@u ratto, non lo potresti
+intendere.  Per questo si pu@o intendere che l'ipocresia di
+molti @e si occulta, che non si pu@o conoscere se non da chi @e
+insieme con loro.
+
+	|82-93.~  In questi quattro ternari l'autor
+nostro finge che, quando si fu restato, giunti quelli due a
+lui si maravigliavano di lui che era vivo, e domandaronlo chi
+elli era; onde dice cos@i: ^Ristetti~; io Dante, secondo lo
+comandamento di Virgilio, ^e vidi due~; di quelli incappuzzati,
+^mostrar gran fretta Dell'animo, col viso~; che altrimenti non la
+poteano mostrare, che non poteano uscire del passo conceduto
+loro, ^d'esser meco~; secondo che detto avea l'uno di loro, di
+sopra; ^Ma tardavali il carco~; delle cappe del piombo che li
+faceva andar pianamente; in vendetta dell'allegrezza ch'ebbono
+nel mondo, che per piacere al mondo si mostrarono d'essere
+quel che non erano, ^e la via stretta~; questo dice, per
+mostrare la moltitudine che v'era, che la bolgia era bene ampia;
+ma eravi s@i grande moltitudine di peccatori, che non vi si
+poteva andare se non pianamente e lentamente.  ^Quand'ei fur
+giunti~; quelli due a noi che li aspettammo, ^assai con l'occhio
+bieco~; cio@e in traverso ragguardando, che per lo peso convenia
+lor portare lo capo basso; e questo rispondea loro in pena
+debita, perch'elli aveano avuto nel mondo, simulando,
+santit@a, ^Mi rimiraron~; cio@e me Dante e non Virgilio, ^sanza~
+^far parola~; cio@e sanza parlare, ^Poi si volsero in s@e~; questi
+due che erano venuti, che si maravigliavano cos@i di Dante, ^e
+dicean seco~; cio@e con seco medesimi: ^Costui~; cio@e Dante,
+^par vivo all'atto della gola~; cio@e nello spirare: imper@o
+che certe arterie sono nella gola che, quando l'uomo tira il
+fiato a s@e, gonfiano; e quando lo manda fuori, calano.  Et
+aggiugneano: ^E s'ei~; cio@e Virgilio e Dante, ^son morti~; come
+sono li altri che sono qui, ^per qual privilegio~; cio@e
+autorit@a: privilegio @e autorit@a conceduta da chi pu@o; e per@o
+si dice beneficio conceduto da principe a privata persona,
+^Vanno scoperti~; questi due, cio@e Virgilio e Dante, ^della grave
+stola~; cio@e grave cappa?  ^Poi disse a me~; Dante l'uno di
+loro: ^O Tosco~; cio@e o Toscano: Tosco @e secondo la Grammatica,
+ch'elli chiama ^Tuscos~ quelli di Toscana, ^ch'al
+collegio~; cio@e alla congregazione dell'ipocriti tristi, che
+cos@i li chiama lo Evangelio ove dice: ^Nolite fieri sicut
+hipocritae tristes~: tristi sono in effetto, e tristi si mostrano
+per parer santi et uomini di penitenzia.  Molto disse Cristo
+nell'Evangelio contro l'ipocriti, perch@e sono molto in
+dispiacere di Dio. ^se' venuto~; questo sermone si dirizza pur a
+Dante, e per@o dice: ^se' venuto~; in singulare, ^Dir chi tu
+se'~; a noi, e manifestarti, ^non avere in dispregio~; cio@e non
+abbi a vile.
+
+	|95-108.~  In questi cinque ternari
+l'autor nostro finge com'elli ebbe avvicendevole parlamento con
+quelli due incappati, dicendo cos@i: ^Et io~; cio@e Dante, dissi,
+s'intende, ^a loro~; cio@e a quelli due: ^Io fui nato e cresciuto
+Sopra il bel fiume d'Arno~; questo @e quel fiume che passa per
+Fiorenza e Pisa, et entra nel mare di Pisa, ^alla gran villa~;
+cio@e Fiorenza: parla al modo di Francia che chiamano le cittadi
+ville; e dice ^grande~, perch@e Fiorenza @e la maggior citt@a di
+giro che sia in Toscana, e lo maggior popolo di suo' cittadini,
+^E son col corpo ch'i'@o sempre avuto~; cio@e sono vivo; e dice:
+^ch'i'@o sempre avuto~, a differenzia di loro ch'erano col corpo
+aereo, lasciato quel della carne: per@o che Dante finge nella
+seconda cantica che, quando l'anima si parte dal corpo, ella si
+veste di uno corpo aereo et in quello si rappresenta e pate e
+parla, et @a l'altre passioni che si danno a quelli che sono
+morti.  ^Ma voi chi siete~; domanda Dante a loro, ^a cui~; cio@e
+a' quali, ^tanto distilla, Quant'io veggio, dolor gi@u per le
+guance~; cio@e gocciolano lagrime gi@u per le gote, che sono
+cagionate dal dolore, ^E che pena @e in voi che si sfavilla~;
+cio@e si mostra per li occhi sfavillanti e per le faccie rosse?
+^E l'un rispose~; di quelli due addimandati: ^O me le cappe
+rance~; cio@e dorate di fuori, di che noi siamo vestiti, ^Son di
+piombo s@i grosse~; dal lato d'entro, ^che li pesi Fanno s@i
+cigolar~; cio@e cigulare, ^le lor bilance~, cio@e noi che siamo
+bilancie di queste gravissime cappe!  Et usa qui colore
+retorico che si chiama significazione, quando si fa per
+similitudine: imper@o che come le bilancie cigolano, quando
+pesano grave peso; cos@i cigolano ellino, piangendo e
+sfavillando: bilancia @e instrumento da pesare le cose che si
+vendono a peso.  E per questo @a gi@a risposto all'una parte
+della domanda; cio@e della pena, e risponde poi all'altra parte
+della domanda, dicendo chi elli sono.  ^Frati Godenti fumo~;
+noi due, de' quali tu domandi, ^e Bolognesi~; cio@e della citt@a
+di Bologna, che @e una buona citt@a di Lombardia, ^Io Catalano~;
+dice quelli, che parla, di s@e ch'avea nome Catalano, ^e questi
+Loderingo~; cio@e quest'altro che @e meco, ^Nomati~; cio@e
+nominati cos@i nel mondo amendu' noi; ^e da tua terra insieme
+presi~; cio@e da Fiorenza tua citt@a, ^Come suol esser tolto un
+uom solingo~; cio@e solitario e di buona vita, cio@e uno
+eremito, ^Per conservar sua pace~; cio@e della tua citt@a; ^e
+fummo tali~; noi due alla tua citt@a, ^Che ancor si par d'intorno
+dal Gardingo~; chenti, noi fummo alla tua citt@a in quel
+luogo che si chiam@a il Gardingo anticamente, che @e una
+contrada in Fiorenza che oggi si chiama Capaccio.  E per@o @e qui
+da sapere che nel MCCLX, o circa, si mossono due cavalieri da
+Bologna et andarono al Padre Santo ch'era allora, e manifestatoli
+la loro intenzione; cio@e che erano disposti a servire a Dio
+nello stato della cavalleria, operandosi con l'arme e con le loro
+forze al servigio di Dio, combattendo per le vedove e per li
+pupilli, e piatire per loro e difendere la ragione e la
+giustizia, ottennono grazia che il papa ordin@o loro l'abito e la
+regola, e diede loro molte grazie, e nominogli li frati cavalieri
+della Vergine Maria.  E puose ordine che niuno potesse entrare in
+quell'ordine, se prima non fosse o non si facesse cavalieri; e
+tornati costoro con la regola a Bologna, piacque questa regola a
+molti, et entrarono in quest'ordine se non ricchi uomini, che
+potessono mantenere stato di cavalleria; e stavansi in casa loro
+con le loro donne e figliuoli e famiglie, con cavalli fanti e
+famigli et aveano in monizione; cio@e franchigia et esenzione
+dalle fazioni delli loro comuni, come religiosi.  Scorse la fama
+per tutto, e furono chiamati cavalieri gaudenti; et essendo
+intorno a quel tempo grande discordia in Firenze tra' guelfi e
+ghibellini, et avendo molte volte combattuto insieme e molto
+danneggiatosi, vennono finalmente a questa composizione che si
+eleggesse uno uomo per parte e commettessonsi in questi due tutte
+loro questioni; e dessesi loro autorit@a d'acconciarle, come
+meglio paresse loro, et in fine alla sentenzia diffinitiva questi
+due dovessono governare la citt@a per l'una parte e per l'altra.
+E cos@i li guelfi elessono messer Catalano de' Catalani da Bologna
+lo quale era guelfo, e li ghibellini elessono messer Loderingo
+de' Lambertacci di Bologna lo quale era ghibellino; e seppono s@i
+ben fare questi due, che poi che furono nell'uficio, furono
+corrotti da' guelfi con moneta, e lasciarono cacciare da' guelfi
+li ghibellini e disfare loro le case ch'erano in Fiorenza in una
+contrada gi@a detta, che si chiama il Gardingo.  E perch@e furono
+uomini ipocriti, che mostravano buoni nelli atti di fuori; e
+d'entro furono con mala volont@a e intenzione come fu l'effetto,
+per@o l'autore finge che fussono in questo luogo.
+
+	|109-123.~  In questi cinque ternari
+l'autor nostro finge, che volendo rispondere al detto de' frati
+Gaudenti, prevenuto da un'altra cosa che vide, incominci@o e non
+and@o innanzi con la risposta, dicendo cos@i: ^Io~; cio@e Dante,
+^cominciai: O Frati, i vostri mali...~; ecco qui manca
+l'orazione, e per@o disse: ^Ma pi@u non dissi~; io Dante, che
+quello che detto @e; et usa qui uno colore retorico che si chiama
+^precisio~, et @e quando l'uomo incomincia alcuno dire; ma poi
+nol compie, occupato da altri pensieri e da alcuna passione.
+Voleva l'autore in questo luogo mostrare forse loro compassione,
+s@i come mostr@o di sopra, capitolo VI a Ciacco, quando disse:
+^Ciacco, il tuo affanno Mi pesa s@i, ch'a lagrimar m'invita~; e
+con simile sentenzia avrebbe seguito qui; ma volle l'autore usare
+lo predetto colore.  In che modo si debba o possa avere
+compassione ai dannati, in pi@u luoghi @e stato dichiarato di
+sopra, e per@o non si replica qui. ^ch'alli occhi mi occorse~;
+cio@e imper@o che alli occhi miei, disse Dante, occorse a vedere:
+ecco la cagione, per che non compie l'orazione incominciata di
+sopra, occupata da questa nuova visione, ^Un, crocifisso in
+terra con tre pali~; cio@e ch'era disteso in terra, l'uno
+braccio con uno palo confitto per la mano, e l'altro con un'altro
+e li piedi amenduni con un altro palo, come Cristo nostro
+Salvatore fu crocifisso con tre chiodi in su la croce, come
+dimostra lo testo che seguita.  Et aggiugne: ^Quando mi vide~;
+cio@e Dante quel confitto, ^tutto si distorse, Soffiando nella
+barba coi sospiri~; e la cagione, perch@e si storse e soffi@o
+vedendo Dante, possiamo imaginare che fosse, perch@e vedea Dante
+cristiano, salvato per la passione di Cristo, per la quale egli
+era dannato, ^E frate Catalan~; del quale fu detto di sopra,
+^ch'a ci@o s'accorse~; cio@e ch'io lasciai il dire, per
+considerare colui ch'io vedea, ^Mi disse~; cio@e a me Dante:
+^Quel confitto, che tu miri, Consigli@o i Farisei, che convenia
+Porre un uom per lo popolo a' martiri~; questo fu Caifas principe
+de' sacerdoti, che nel consiglio che feciono li sacerdoti di
+Cristo, disse: ^Vos nescitis quiquam.~  ^Nec cogitatis quia expedit
+vobis ut unus moriatur homo pro populo, et tota gens pereat.~
+--  ^Attraversato e nudo nella via~; per la quale passiamo
+tutti, ^Come tu vedi~; cio@e tu, Dante; ^et @e mestier, che
+senta~; cio@e Caifas, ^Qualunque passa~; di noi, ^com'ei pesa
+pria~; cio@e innanzi che passi, perch@e tutti li montino a
+dosso: ^Et a tal modo~; come questo, ^il suocero~; cio@e Anna che
+fu suocero di Caifas, ^si stenta~; cio@e si stende attraversato,
+confitto con tre pali; o vogliamo dire ^si stenta~; cio@e fa
+stento e patisce pena Anna cos@i, come Caifas, ^In questa fossa~;
+cio@e in questa sesta bolgia, ^e li altri del Concilio~; cio@e
+della concordevole congregazione, che fu fatta lo lunedi' dopo la
+domenica d'olivo, per consigliar sopra i fatti di Cristo, ^Che fu
+per li Giudei mala sementa~; cio@e lo quale fu male seme per li
+Giudei, che non si vollono o non vogliono o non si vorranno
+convertire: imper@o che dar@a loro frutto di morte eterna; ma
+per coloro che si vollono convertire e verranno alla fede di
+Cristo fu buona sementa: imper@o che a tutti far@a frutto di
+salute eterna.  E notantemente finge l'autore che costoro sieno
+puniti in questo luogo: per@o che tutti li pontefici, sacerdoti,
+scribi e farisei a quel tempo erano ipocriti, de' quali disse
+Cristo nell'Evangelio: ^Nolite fieri sicut hipocritae tristes:
+dilatante enim~ ec.
+
+	|124-132.~  In questi tre ternari
+l'autor nostro finge come Virgilio si maraviglia della pena di
+Caifas e delli altri, e domanda della via, dicendo: ^Allor~;
+cio@e allotta, ^vid'io~; Dante, ^maravigliar Virgilio~; lo
+qual non avea veduto maravigliar per ancora, ^Sopra colui, ch'era
+disteso in croce~; cio@e sopra Caifas, ^Tanto vilmente ne
+l'eterno esilio~: cio@e nell'inferno dove doveano stare in
+perpetuo, sbanditi da Dio: maravigliasi la ragione della
+grandezza della giustizia di Dio, la quale avanza la possibilit@a
+del nostro intelletto; e per@o finge Dante che si maravigli
+Virgilio, il quale significa la ragione, come mostrato @e stato
+di sopra in pi@u luoghi.  ^Poscia~; cio@e dopo l'ammirazione
+^drizz@o~; Virgilio, ^a' Frati~; cio@e a messer Catalano et a
+Loderingo, ^cotal voce~; cio@e cos@i fatto parlare: ^Non vi
+dispiaccia, se vi lece~; cio@e se a voi @e licito, ^dirci~;
+cio@e a me Virgilio e Dante: sempre la ragione giustifica la sua
+domanda: per@o che non domanda, se non giusto et onesto, ^Se alla
+man destra~; questo dice, perch@e necessario era, essendo volti in
+verso man sinistra, che volendo uscire della bolgia per andare
+nell'altra pi@u bassa, ch'uscissono in verso man destra, ^giace
+alcuna foce~; cio@e @e rovinata la ripa in alcun luogo s@i, che
+noi possiamo uscire di questa bolgia, della quale non poteano
+uscire perch@e la ripa era alta, ^Onde noi amendu' possiamo
+uscirci~; cio@e io Virgilio e Dante di questo fondo della
+bolgia, ^Sanza costringer degli angeli neri~; cio@e de' dimoni,
+^Che vegnan d'esto fondo a dipartirci~; cio@e a cavarci quinci;
+e questo finge, per mostrare che alla potenzia di Dio ogni cosa
+@e sottoposta; cio@e li demoni, li angeli, li uomini e tutte le
+creature.
+
+	|133-141.~  In questi tre ternari l'autor
+nostro finge come frate Catalano rispose alla domanada di
+Virgilio, dicendo: ^Rispose adunque~; frate Catalano, il quale
+@a introdotto a parlare di sopra: ^Pi@u che tu~; cio@e Virgilio,
+^no speri, S'appressa un sasso, che dalla gran cerchia~; cio@e
+da quella che circunda tutte le bolgie, ^Si muove~; quel gran
+sasso che detto @e, e continuasi sopra tutte le bolge s@i, come
+ponte, ^e varca~; cio@e valica, ^tutti i vallon feri~; cio@e
+tutte le bolge che sono X, come detto fu di sopra cap. XVIII,
+dall'ottavo cerchio infino al pozzo che @e lo fondo dell'inferno,
+sono prodotti alcuni scogli che valicano e fanno ponti sopra
+tutte le bolge, salvo che sopra questa bolgia, perch@e si ruppono
+nel tempo della passione di Cristo, secondo la fizione
+dell'autore; e per@o seguita: ^Salvo che questo @e rotto~; questo
+sasso che detto @e, ^e nol coperchia~; cio@e non fa ponte sopra
+lo sesto vallone: ^Montar potrete~; tu Virgilio e Dante, ^su per
+la ruina~; di questo sasso, ^Che giace in costa~; s@i che v'@a
+fatto la via, ^e nel fondo~; della bolgia, ^soverchia~, perch@e
+v'@e alzato per la rottura del sasso.  ^Lo Duca~; cio@e Virgilio,
+^stette un poco a testa china~; come fa colui che pensa, ^Poi
+disse~; Virgilio in verso frate Catalano, e dice: ^Mal contava la
+bisogna~; cio@e mal diceva lo bisogno nostro, ^Colui, che i
+peccator di qua uncina~; cio@e Malacoda, che piglia coi raffi e
+con li uncini li peccatori della quinta bolgia: per@o che disse
+di sopra capitolo XXI, ^Presso @e un altro scoglio, che via
+face~, e come mostrato @e, non ve n'era veruno, e per questo si
+mostra che il dimonio con bugie e falsitadi s'ingegna d'ingannare
+ciascuno.
+
+	|142-148.~  In questi due ternari et
+uno versetto finge l'autore come il frate rispose a Virgilio,
+quanto all'inganno del dimonio, dicendo: ^E il Frate~; cio@e
+messer Catalano, disse, s'intende: ^Io udi' gi@a dire a
+Bologna~, perch'elli fu Bolognese, per@o dice che udi' dire a
+Bologna, ^Del diavol vizi assai~; anzi @e tutto vizioso, ^tra'~
+^quali~; cio@e vizi, ^udi'~; io frate Catalano, ^Che gli @e
+bugiardo, e padre di menzogna~; questo s'accorda con la Santa
+Scrittura che dice: ^Diabolus mendax est, et pater mendacii~;
+s@i che non ti maravigliare, Virgilio, s'egli t'@a detto bugia.
+^Apresso~; cio@e dopo le dette parole, ^il Duca~; cio@e Virgilio,
+^a gran passi sen g@i~; cio@e se n'ando, ^Turbato un poco d'ira
+nel sembiante~; cio@e nella vista: questo dice, perch@e la ragione
+non si turba mai in effetto; ^Ond'io~; cio@e Dante,
+^dall'incarcati~; cio@e da' caricati peccatori di piombo:
+potrebbe ancor dire il testo ^dall'incappati~, cio@e da coloro
+che aveano le cappe dorate di fuori, e d'entro di piombo, ^mi
+parti'~; seguendo Virgilio, e per@o dice: ^Dietro alle poste~;
+cio@e dietro alle pedate, ^delle care piante~; cio@e de' piedi di
+Virgilio, lo quale era caro duca a Dante, come deve essere la
+ragione cara a ciascuno uomo.  E qui finisce il vigesimoterzio
+canto.

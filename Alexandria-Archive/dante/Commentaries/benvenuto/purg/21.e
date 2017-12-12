@@ -1,0 +1,617 @@
+	|SUMMARIUM.~  CANTUS VIGESIMUS PRIMUS, ^in quo tractat
+sicut invenerunt aliquem vocatum Statium in medio itineris, qui
+cum Virgilio multa receptavit non ipsum cognoscens; et postea
+sicut interrogavit Dantem quis esset Virgilius et Dantes ex verbo
+Virgilii dixit ei omnia.~
+
+	|Proemio.~  ^LA sete natural che mai non sazia.~ 
+Postquam in praecedenti capitulo poeta noster docuit
+multipliciter vitare vitium avaritiae, nunc consequenter in
+praesenti capitulo XXI agit et tractat de purgatione
+prodigalitatis, quae punitur eadem poena simul cum avaritia et in
+eodem circulo.  Et istud capitulum potest dividi in quatuor
+partes principales; in prima quarum introducit unam animam
+illustrem antiquam nuper purgatam vitio prodigalitis, cui
+Virgilius narrat in generali conditionem sui et Dantis.  In
+secunda Virgilius inquirit a dicto spiritu de causa terraemotus
+et clamoris praedicti, ibi: ^Ma dimmi.~  In tertia Virgilius
+inquirit ab eodem quis fuerit, et de causa suae diuturnae poenae,
+ibi: ^E'l savio duca.~  In quarta et ultima poeta manifestat
+Virgilium dicto spiritui, ibi: ^Volser Virgilio.~  
+
+	|1-6.~  Ad primum ergo dico quod poeta introducit animam
+illustrem antiqui poetae prodigi; sed primo praemittit suam
+continuationem ad praecedentia: quia enim in fine capituli
+praecedentis concluserat quanto ardore desiderabat scire causam
+illius terraemotus, ideo nunc replicans idem ostendit suam
+dispositionem; et dicit, quod appetitus sciendi nimis molestabat
+eum.  Sed ad pleniorem intelligentiam literae est primo sciendum,
+quod cum Christus de Judaea iret in Galilaeam transiens per
+Samariam pervenit ad locum ubi erat fons Jacob, et fatigatus ex
+itinere coepit sedere ibi.  Et ecce mulier samaritana venit ad
+hauriendam aquam; discipuli enim iverant in civitatem ad emendum
+cibos.  Dixit ergo Jesus: da mihi bibere.  Cui mulier respondit:
+quomodo cum sis judaeus petis a me samaritana bibere? non enim
+coutuntur judaei samaritanis.  Respondit Jesus: si scires donum
+Dei quanti valoris sit petisses ab eo, et dedisset tibi aquam
+vivam; et subdit: omnis qui biberit ex aqua hac sitiet iterum;
+qui autem biberit ex aqua quam ego dabo tibi non sitiet unquam. 
+De ista aqua dicetur Paradisi capitulo XXX.  Nunc erit litera
+clara quam expone sic: |La sete natural~, idest, desiderium
+sciendi; nam omnes naturaliter scire desiderant; cuius ratio
+videtur quia unusquisque appetit naturaliter perfici.  Scientia
+autem est perfectio animae, licet talis perfectio non habeatur in
+via ad plenum, sed solum in patria; ideo dicit: |che mai non
+sazia~, appetitum animi, |se non con l'acqua~, scilicet viva,
+quae est gratia Spiritus sancti, |onde~, idest, aqua, |la
+femminetta samaritana adimand@o la grazia~, cum dixit: ^Domine, da
+mihi de hac aqua ut non sitiam in aeternum~, sicut scribitur
+Joannis IV capitulo.  Et hic nota quod samaritani differunt a
+judaeis, sicut graeci a latinis, quia sunt scismatici in fide;
+nam quando videbant judaeos florere appellabant eos cogna quasi
+de Joseph nati, cum tamen venerint olim de Persia.  Quando vero
+videbant eos deletos non communicabant secum.  Ista ergo sitis,
+|mi travagliava~, idest, turbabat et fatigabat mihi mentem, |e
+pungeami la fretta~, idest, festinantia stimulabat me ut irem
+cito, |per la impacciata via~, occupatam ab illis spiritibus
+jacentibus, |dietro al mio duca~, quia ibat multum expedite, |e
+condoleami a la giusta vendetta~, idest, compatiebar poenae
+avarorum, licet meritae: et vere poena istorum est amarissima,
+quia sunt privati magnis bonis, scilicet luce, quia non vident
+nisi terram, et libertate omnium membrorum.  Et sic tria erant
+vexantia autorem, scilicet, aviditas sciendi, velocitas eundi et
+misericordia alienae poenae.  
+
+	|7-13.  Et ecco.~  Hic poeta describit apparitionem unius
+illustris poetae per unam nobilem comparationem.  Et ad
+intelligentiam huius peregrinae et artificiosae comparationis est
+primo sciendum, quod multi mirantur quare poeta noster
+christianissimus facit Statium non christianum hic stare,
+nescientes videre causam: ideo primo dico quod poeta potuit
+coniecturare ex multis indiciis Statium fuisse christianum.  Nam
+si Virgilius qui fuit ante Christum sensit aliquid de illo per
+carmina sybillae, ut testatur Augustinus, quanto magis Statius,
+qui vidit tempore suo crudele exterminium et inauditum antea quod
+fecit Titus de judaeis, et tot miracula facta per martyres quos
+Domitianus frater Titi crudelissime persecutus est, cum
+christianum nomen semper magis cresceret.  Fuit etiam Statius
+ausus dicere in maiori: ^Primus in orbe Deos fecit timor.~  Fuit
+et honestissimus et moralissimus in omnibus suis dictis; sed sive
+fuerit christianus, sive non, non facio vim in hoc, quoniam
+subtiliter et necessario poeta hoc fingit, quia multa erant
+tractanda per eum quae non poterat sine poeta christiano, ut
+patebit in XXV capitulo et alibi.  Sed poeta potius introducit
+eum hic, quia constat ipsum vixisse in summa egestate et inopia;
+quod non videtur potuisse contingere viro tantae excellentiae in
+urbe, in qua dicitur rhetoricam docuisse, nisi ex errore prodigae
+largitatis.  Introducit autem hunc clarissimum poetam per
+nobilissimam comparationem, dicens: |Et ecco un'ombra~, idest,
+illustris anima Statii, |ci apparve~, nobis duobus, |s@i come ne
+scrive Luca~, XXIIII et ultimo capitulo, |che Cristo gi@a surto~,
+idest, levatus per resurrectionem, |fuor della sepulcral buca~,
+idest extra os sepulcri, |apparve a' duo~, scilicet, discipulis,
+|ch'erano in via~, euntes ad castellum Emmaus; et dicit: |e
+dietro a noi venia~, illa umbra, |da pi@e guardando la turba che
+giace~, scilicet, multitudinem avarorum magnam jacentium per
+terram, in quorum numero et supplicio ipse erat paulo ante; et
+dicit: |n@e ci addemmo di lei~, idest, non perpendimus de illius
+subita apparitione, |s@i parl@o pria, dicendo: O frate' miei, Dio
+vi dia pace~, scilicet, aeternam, ad quam ego tendo.  Et hic nota
+quantum dicta comparatio est propria.  Sicut enim Christus post
+resurrectionem de sepulcro apparuit duobus apostolis ignotus,
+quos salutavit; ita nunc Statius post liberationem suam ex
+carcere apparuit ignotus duobus poetis quos similiter salutavit. 
+
+	|14-18.  Noi.~  Hic poeta ponit responsionem Virgilii qui
+reddidit illi vicem vultu et verbo; unde dicit: |Noi~, ambo, |ci
+volgemmo subito~, ad rem novam, quia nondum viderant in toto
+circulo isto animam liberam, solutam et laetam nisi istam.  Et
+hic nota quod poeta noster cum fecerit tam longum tractatum de
+avaris in isto circulo, nunc introducit unum solum prodigum, quia
+avari sunt infiniti, et prodigi rari, et sunt magis clari.  Dicit
+ergo: |e Virgilio rend@e lui il cenno ch'a ci@o si conface~; quia
+pari reverentia inclinavit caput illi, et resalutavit illum. 
+Unde dicit: |poi cominci@o~, supple, dicere: |la verace corte~,
+scilicet divina, in qua non regnat invidia, non valet adulatio,
+|che me rilega~, idest, confinat, |nell'eterno esilio~, scilicet,
+in limbo inferni, ubi sum exul aeternaliter a curia illius regis,
+|ti ponga in pace~, quam nuntiasti nobis, |nel beato concilio~,
+idest, in concistorio beatorum.  Et sic vide, quomodo Virgilius
+captat benevolentiam optando illi illud bonum quod pro se numquam
+sperat.  
+
+	|19-24.  Come~!  Hic poeta ponit petitionem quam fecit
+Statius ex admiratione, dicens: |diss'egli~, scilicet, Statius:
+|Come~! idest, quomodo est istud factum mirabile, |se voi siete
+ombre che Dio su non degni~, idest, quas Deus non faciat dignas
+ascensione superna, sicut tu dicis quod relegaris in inferis,
+|chi v'ha tanto scorte~, jam per tot gradus, |per la sua scala~,
+idest, per montem purgatorii qui ducit ad coelum?  Et facit unam
+parenthesim, dicens: (|e parte andavam forte~), idest, et interim
+ibamus velociter, nec tardabamus illis loquentibus, ita quod hic
+^parte~ non denotat portionem, nec est nomen, imo adverbium, et
+tantum valet quantum in isto medio, et est vulgare florentinum. 
+Et subdit responsionem Virgilii ad Statium dicens: |e 'l dottor
+mio~, scilicet, Virgilius dixit: |se tu riguardi i segni~,
+scilicet, P nigra, |che questi porta~, scilicet, iste poeta novus
+gerit in fronte, |e che l'angel profila~, idest, quae signa
+angelus describit cum ense unicuique intranti purgatorium, quorum
+quatuor jam delevit, et tria adhuc restant delenda, |ben vedrai
+che convien ch'e' regni coi buoni~, idest, quod sit de numero
+salvandorum, licet ego sim damnatus.  
+
+	|25-30.  Ma.~  Hic Virgilius assignat causam, quare ex
+inferno venerit ad purgatorium; et sic respondet quaestioni
+tacitae.  Poterat enim Statius dicere: quomodo ergo vel quare
+venisti cum salvando? respondet Virgilius: quia Dantes adhuc
+vivus per se non poterat ascendere.  Dicit ergo: |Ma l'anima
+sua~, idest, istius Dantis, qui dedit se isti speculationi, |ch'@e
+mia e tua sorocchia~, idest soror, quia sumus tres fratres
+amantissimi et tres poetae maximi ab uno patre Deo, |non potea
+venir sola~, quia sociata erat a carne; et reddit causam: |per@o
+ch'al modo nostro non adocchia~, idest, quia anima coniuncta
+corpori non videt acute, nec speculatur sicut separata.  Et
+tangit quare iste vivit sub verbis occultis.  Ad quod est
+notandum, quod poetae fingunt tria fata, quorum officia figurant
+sub specie trium mulierum, quarum una portat colum, secunda
+trahit filum, tertia vero truncat filatum.  Prima vocatur Clotho
+quae interpretatur productio de non esse ad esse; et per hanc
+dant intelligi nativitatem hominis.  Secunda vocatur Lachesis,
+quae interpretatur sors; et significat cursum humanae vitae quae
+sub sorte laborat.  Tertia vero vocatur Atropos quae est deductio
+ab esse ad non esse, et interpretatur sine conversione, quia a
+morte ad vitam est impossibile fieri regressum.  Dicit ergo:
+|perch@e colei~, scilicet, Lachesis, |che d@i e notte fila~, quia
+paulatim dum non sentimus subtrahitur semper aliquid vitae
+nostrae; unde vivendo morimur, et stando currimus, |non gli avea
+tratta ancora la conocchia~, idest, stuppam, quasi dicat: nondum
+consumpserat calidum naturale et humidum radicale, |che Cloto
+impone a ciascuno e compila~; quia a principio datus est homini
+terminus vivendi.  Hoc autem totum non vult aliud dicere nisi
+quod iste adhuc vivus non poterat solus huc ascendere, quia more
+nostro non poterat contemplari.  
+
+	|31-33.~  Et concludit: |ond'io fui tratto fuor de
+l'ampia gola d'inferno~, idest, de limbo, qui est primus magnus
+circulus in introitu inferni, |per mostrarli~, scilicet, poenas
+damnatorum; |e mostrerolli oltre~, scilicet, poenas purgatorum,
+|quanto 'l potr@a menar mia scuola~, idest, mea doctrina.  Bene
+dicit, quia ratio naturalis per scientiam humanam cognoscit, quod
+vitiis debentur supplicia; et omnis lex hoc jubet et omnis
+philosophia hoc sentit.
+
+	|34-39.  Ma dimmi.~  Ista est secunda pars principalis,
+in qua Virgilius quaerit a Statio de causa terraemotus et cantus
+facti.  Dicit ergo: |Ma dimmi se tu sai~, verisimiliter enim
+debes scire cum steteris hic per tot secula annorum, |perch@e 'l
+monte di@e dianzi tai crolli~, idest, quare mons dedit paulo ante
+tam terribiles motus et agitatus, |e perch@e tutti ad una~, et
+quare omnes spiritus simul, |parver gridar~, scilicet, gloria in
+excelsis Deo etc., |infino a' suoi pi@e molli~? idest, usque ad
+radices montis, ubi sunt junci et limus mollis, ut patuit primo
+capitulo huius libri.  Et subdit poeta, quod ex sola petitione
+Virgilii satis quietatus est animus eius, quia, scilicet,
+concepit spem certam sciendi quod optabat.  Unde dicit: |s@i mi
+di@e dimandando~, ille Virgilius de praedictis; |per la cuna del
+mio disio~, idest, cunabulum desiderii, quia expectabam velut
+puer in cunabulo expectat lac a nutrice cum acuto appetitu, |che
+la mia sete~, idest, desiderium sciendi, |si fece men digiuna~,
+idest, appetens, |pur con la speranza~, ante responsionem. 
+
+	|40-45.  Quei.~  Hic poeta ponit responsionem Statii qui
+exorditur parum a longe; et dicit, quod nulla ratione naturali
+potest fieri terraemotus vel alia alteratio in monte illo, sed
+ratio divina est causa talis motus.  Dicit ergo: |quei~,
+scilicet, Statius, |cominci@o~, supple, dicere in generali: |cosa
+non @e~, aliquid non est, |che senta la religione della montagna~;
+religio est idem erga Deum quod reverentia apud parentes vel
+maiores, |senza ordine~, quo nihil est pulcrius in rerum natura,
+|o che sia fuor d'usanza~; quia consuetudo est altera natura,
+quasi dicat: nihil fit hic fortuitum vel casuale, sed tamen quod
+fit non fit ratione naturali, sicut in mundo vestro.  Unde dicit:
+|libero @e qui da ogni alterazione~, quae fit in terris vel
+montibus vestris; sed bene, |esserci puote di quel che il ciel
+riceve da se in se~, quasi dicat: non per viam naturae, |e non
+d'altro, cagione~; quia non eo modo quo coelum attrahit a terra
+et aqua.  Unde nota quod sol suo calore attrahit vapores, fumos
+et humores quos condensat in nubes, et sic condensatos resolvit
+nunc in pluvias, nunc in rores, nunc in nives, nunc in pruinas,
+et sic de aliis. 
+
+	|46-51.  Perch@e.~  Hic Statius breviter colligit
+generales impressiones, quae naturaliter fiunt in aere, quarum
+nulla fit ab introitu purgatorii supra.  Et ad intelligendam
+literam est primo notandum quod sol ab inferioribus elementis
+elevat vaporem ad locum frigidum, ubi inspissatur in nubem; et
+frigidum loci incipit expellere calidum, et si expellit subito
+fit pruina, quae est dura; si non subito fit nix quae est mollis
+de facili compressibilis.  Materia enim humidarum impressionum
+est una, licet differenter; materia enim pluviae est nubes
+frigida; materia nivis est nubes calida; materia roris est vapor
+temperatus et subtilis; materia grandinis est nubes calidissima,
+a qua totum simul egreditur frigidum, sed a nube nivis egreditur
+paulatim; vapor etiam nivis, multum habet de terrestri admixto;
+unde aqua nivis non est pura, imo perniciosa, sed fecundat multum
+terras.  Dicit ergo Statius: vere hic nulla est alteratio,
+|perch@e non pioggia, non grando, non neve, non rogiada, non brina
+cade pi@u su che la scaletta breve, de' tre gradi~, quae ducit ad
+portam purgatorii, ut infra dicit.  Et hic nota quod sicut aliqui
+volunt, vapores qui elevantur a sole, ex quibus pluvia, nix,
+grando, et omnis aerea impressio generatur, ad plus tendunt in
+altum per octo milliaria, et ab inde supra non fit generatio
+aliqua.  Et tangit materiam dictarum impressionum, dicens:
+|nuvole spesse non paion~, idest, non apparent nobis, |n@e rade,
+n@e corruscare~, quia ignis fulguris fit inclusus in humido aqueo. 
+Et tangit subtilius aliam impressionem, dicens: |n@e figlia di
+Taumante~, idest, Iris, quae vocatur arcus pluvialus.  Ad quod
+nota quod Iris est nubes soli opposita, radiis solis
+multipliciter informata.  Poetae autem fingunt Iridem fuisse
+filiam Thaumantis; nam Thaumas graece, latine interpretatur
+mirabilis; et sine dubio res mirabilis est, et mirabilis apparet
+oculis nostris; et dicit: |che di l@a~, idest, quae Iris in mundo
+vestro, |cangia sovente contrade~, idest, mutat saepe regiones. 
+Hoc ideo dicit, quia si Iris apparet in mane, videtur ab
+occidente, si in vesperis in oriente.  
+
+	|52-60.  Secco.~  Hic Statius tangit rationem naturalem
+venti et terraemotus: nam ventus est vapor siccus et subtilis
+elevatus a sole; et terraemotus fit quando ventus intrat viscera
+terrae et incarceratus non potest exire: ideo violenter commovet
+terram et tremere facit.  Dicit ergo: |Secco vapor non sorge pi@u
+avante~, idest, magis sursum, |ch'al sommo de' tre gradi~, illius
+brevis scalae, |ch'io parlai~, supra capitulo IV, et glosat
+dictum suum, dicens: |dove ha il vicario di Pietro le piante~;
+quia angelus Domini qui figurat sacerdotem sedet in limine portae
+et tenet pedes in summo gradu.  Dicit ergo: |trema forse pi@u
+gi@u~, infra dictum gradum, |poco o assai~; quia fit terraemotus
+parvus vel magnus; et tangit causam terraemotus, dicens: |ma, per
+vento che 'n terra si nasconda, non so come~, quasi dicat:
+qualitercumque; sed, |quass@u non trem@o mai~, scilicet, per viam
+venti.  Et finaliter Statius assignat veram causam illius
+terraemotus spiritualem et moralem, dicens: |tremaci quando
+alcuna anima monda~, idest, perfecte purgata, |si sente, s@i che
+surga~, sicut avari jacentes, |o che si muova~, sicut alii non
+jacentes, vel non ligati; |per salir su~, ad alium gradum
+superiorem, |e tal grido~, qualem audivisti, scilicet, gloria in
+excelsis Deo, |seconda~, idest, sequitur immediate tremorem.  
+
+	|61-66.  Della mondizia.~  Hic Statius respondet
+quaestioni tacitae: poterat enim Virgilius statim petere: ad quid
+vel quomodo cognoscitis vos quod aliqua anima sit purgata?
+respondet Statius: |il sol voler~, idest, sola voluntas, |fa
+pruova che, tutto libero~, sine aliqua necessitate, |l'alma
+sorprende a mutar convento~, scilicet, ascensum ad altiorem
+gradum purgatorii, |e di voler le giova~, idest, et tunc delectat
+ipsam animam velle mutare conventum.  Et continuo Statius facit
+aliam antipophoram necessario; quia Virgilius erat statim
+dicturus: quomodo, nonne vult semper exire poenam? respondet
+Statius, quod vult, sed non libere, quia anima sponte subiicit se
+culpae exigente divina justitia.  Dicit ergo: |prima vuol bene~,
+scilicet, mutare gradum illa anima antequam recedat a poena, |ma
+il talento non lascia~, idest, appetitus non permittit; quasi
+dicat, quod licet velit, tamen non desiderat ascendere ante
+debitam satisfactionem; et ecce causam: |che~, idest, quia, |la
+divina giustizia pone al tormento~, ipsam animam peccantis, |con
+tal voglia~, eadem voluntate libera, |come fu al peccar~: de tali
+voluntate dicetur infra capitulo XXIII.  
+
+	|67-72.  Et io.~  Hic Statius confirmat quod dixit
+exemplo sui, et sic manifestat suam liberationem.  Dicit ergo:
+|Et io che son giaciuto a questa doglia~, idest, ego qui subiacui
+huic dolorosae poenae avarorum, |cinquecento anni e pi@u~, ultra
+quartum centesimum annum quo steterat pro accidia in quarto
+circulo, ut dicetur infra, |pur mo sentii libera volont@a di
+miglior soglia~, idest, ascendendi ad meliorem et superiorem
+gradum.  Et concludit Statius, quod ille tremor montis et clamor
+spirituum factus est propter eum.  Dicit ergo: |per@o sentisti il
+tremoto, e li pii spiriti~, scilicet, avarorum, qui fuerunt in
+vita impii et alios spiritus, |per lo monte render lode a quel
+Signor~, dicentes: Gloria in excelsis Deo, |che tosto su
+gl'invii~, idest, dirigat ad superiores gradus sicut me inviavit. 
+Et ultimo poeta ponit effectum responsionis factae a Statio, quia
+remansit quietatum desiderium eius omnino.  
+
+	|73-75.~  Dicit ergo continuative: |cos@i gli disse~,
+Statius Virgilio; |e non saprei dir quanto mi fece prode~; quasi
+dicat: nimis profecit siti meae naturali, de qua dictum est in
+principio capituli.  Hoc autem declarat per metaphoram
+propriissimam, dicens clare: |per@o che si gode tanto del bere
+quanto @e grande la sete.~  Et hic nota quod potio est grata non
+tam ex qualitate vini, quam ex dispositione bibentis; sicut
+gratia exempli Xerses potentissimus rex persarum, qui cum
+innumerabili exercitu invasit Graeciam dum viliter debellatus
+turpiter et trepide fugeret, visa in via aqua turbida, foetida,
+statim declinavit ad terram et coepit avidissime bibere; de quo
+increpatus a milite socio dixit se numquam melius bibisse, quia
+numquam habuerat sitim.
+
+	|76-81.  E 'l savio.~  Ista est tertia pars principalis
+huius capituli, in qua Virgilius inquirit a Statio quis fuerit;
+et primo asserit se clarum de responsione facta ad captandam
+benevolentiam; unde dicit: |E 'l savio duca~, scilicet,
+Virgilius, supple, dixit Statio: |omai veggio la rete~, scilicet,
+peccatum avaritiae, |che qui vi piglia~, idest, tenet vos hic
+captos et ligatos, |e come si scalappia~, idest, et video quomodo
+aperitur illud rete quando liberamini; et similiter video,
+|perch@e ci trema~, idest, qua de causa fit hic terraemotus, |e di
+che congaudete~, idest, congratulamini invicem regratiantes
+Domino de liberatione alicuius animae.  Et petit duo, dicens:
+|ora piacciati ch'io sappia chi fosti~, ea placibilitate qua jam
+usus es mecum placidissime virorum, |e perch@e sie' giaciuto qui~,
+sicut et alii avari, |per tanti secoli~, idest, per tot
+centenaria annorum, scilicet, quinque; quasi dicat: bene potest
+esse purgata avaritia in te, si fuisset avaritia Midae vel
+Crassi.  Et dicit: |nelle parole tue mi cappia~, sicut avari sunt
+capti hic, et alios capiunt in vita; quasi dicat: loquere mihi
+clare, rogo te, sicut ego locutus sum tibi.  
+
+	|82-87.  Nel tempo.~  Hic poeta ponit responsionem Statii
+ad primam petitionem Virgilii, qui primo describit se ab optimo
+principe sub quo claruit.  Et ad intelligendam istam literam
+sane, quam multi ignoranter pervertunt, est attente sciendum,
+quod sicut potest colligi ex multis autoribus, Nero imperator ad
+refraenandum furores hebraeorum, qui facti erant rebelles romano
+imperio, misit Vespasianum virum sapientissimum et strenuissimum
+armorum, qui ferro et igne primo vastavit Galilaeam, deinde
+reliquas provincias Judaeae; sed certus factus quod omnis
+multitudo judaeorum convenerat Hierosolymam ad offerenda
+sacrificia Deo suo secundum morem antiquorum patrum, motis signis
+cinxit totam urbem obsidione; sed quia civitas nobilissima
+regalis erat inexpugnabilis munitione murorum et multitudine
+virorum, vetus perseverantia romanorum plus potuit quam
+obstinata, inaudita pertinacia judaeorum.  Civitas ergo ab extra
+hostium viribus quassabatur; intus vero crudelius dissensionibus
+vexabatur.  Nam tres tyranni, scilicet Joannes, Simon, Eleazarus
+occupaverant tres regiones urbis, qui licet viderentur concordes
+contra hostes tamen saepe bellis lacerabant: sed nec discordia
+civium, nec ruina murorum, nec occisio virorum, nec suasio romani
+principis, qui eos ad pacem invitabat, potuerunt flectere gentem
+durae cervicis, ut non potius vellent omnia extrema tollerare. 
+Interim, Nerone sublato, Vespasianus, licet invitus et omnino
+recusans, factus imperator a militibus rediit Romam, et Titus
+filius eius juvenis omnium laudatissimus remansit dux belli, qui
+ipsam Jerusalem, cognita pertinacia perfidae gentis, magis
+arctavit et ad tantam inopiam deduxit, quod omnia incognita
+usibus humanis in suos cibos converterunt.  Tandem obsidione
+continuata urbs capta est et in turres praecipuas, in arcem, in
+templum saevitum est; et civitas muris nudata, et undecim centena
+millia judaeorum fame, ferro, incendio, et omni genere pestis
+consumpta sunt: caetera multitudo in captivitatem et servitutem
+gentium deducta est.  Ex quo tempore misera gens Deo et omnibus
+gentibus odiosa per universum orbem dispersa serviliter vivit et
+durat in sua miseria.  Nunc ordina sic literam: |Quello spirito~,
+scilicet, Statius, |rispose~, Virgilio: |io era di l@a~, in mundo
+viventium, |famoso assai~, loquitur verecunde in laudem sui, |ma
+non con fede ancora~, scilicet, christiana; sed audacter laudat
+nomen suae professionis, dicens: |col nome~, scilicet, poetico,
+|che pi@u dura~, et plus durare facit nomen aliorum: ideo bene
+dixit Lucanus: ^O sacer et magnus vatum labor, omnia fato Eripis
+et donas populis mortalibus aevum~ etc.  Et si dicis mihi de
+Aristotele, et multis philosophis antiquissimis, dicam tibi de
+Homero et aliis multis qui fuerunt diu ante, quos ipse
+philosophus frequenter allegat, et praecipue Homerum, |e pi@u
+onora~, scilicet, hominem; nomine enim poetae sicut nullum
+durabilius, ita nullum honorabilius, ut dicetur plene primo
+capitulo Paradisi.  Et ecce quando: |nel tempo~, scilicet, anno
+ab urbe condita DCCXXV, |che 'l buon Tito~, qui considerata
+aetate et imperii brevitate excessit cunctos principes in
+clementia, liberalitate et omni bonitate, de cuius laudibus
+dicetur VI Paradisi, |vendic@o le fora~, idest, foramina, seu
+vulnera Christi, |onde usc@i il sangue per Giuda venduto~,
+scilicet, Annae et Cayphae, |con l'aiuto del sommo rege~, idest,
+juvante et permittente Deo, sicut ipse Titus fertur dixisse cum
+intravit urbem clarissimam.  Et hic nota, lector, quod multi
+perverse intelligunt et exponunt istam literam, quia non est
+verum, quod Titus vel Vespasianus fecerint vindictam Christi cum
+intentione, cum non crediderint Christum et fuerint penitus
+pagani, sicut patet per Svetonium; et si testimonium eius non
+placet tibi, quia fuit gentilis infidelis, certe Josephus
+hebraeus et nobilis civis Jerusalem, quem beatus Hieronymus
+enumerat in catalogo sanctorum, hanc historiam luculento stylo
+describit.  Et Egisippus compendiosius eo, et beatus Ambrosius
+qui Josephum sequitur, et, ut breviter dicam, Augustinus,
+Hieronymus, Rufinus, Horosius, et caeteri in hoc concordant.  Sed
+bene divina maiestas sic statuit propter peccata judaeorum, quia
+de inimicis meis vindictam faciam.  
+
+	|88-90.  Tanto.~  Hic Statius quia descripserat se a
+nobili scientia, describit se a suavi eloquentia, dicens: |Tanto
+fu dolce mio vocale spirto.~  Hic capit spiritum prout accidens
+syllabae, quasi dicat: sonus vocis meae et pronuntiationis cum
+magna eloquentia, quae patet ex operibus eius, de qua dicit
+Juvenalis in Satyra: ^Curritur ad vocem jucundam et carmen amicae
+Thebaidos, laetam cum fecit Statius urbem, Promisitque diem;
+tanta dulcedine captos Afficit ille animos~ etc.  |Che, Roma
+trassemi Tolosano a se.~  Fuit enim Statius origine de nobili
+Tolosa, quae est civitas in provincia Narbonensi, unde venit
+Romam tempore Vespasiani, et usque in tempora Domitiani pervenit,
+ubi enituit fulgor eloquentiae suae.  Unde dicit: |dove mertai le
+tempie ornar di mirto.~  Quasi dicat: fui coronatus merito fronde
+myrti, quae est arbor calida multum, ad denotandum ardorem
+ingenii poetici.  Multae tamen erant olim coronae de quibus
+dicetur primo capitulo Paradisi.  
+
+	|91-93.~  Deinde describit se a nomine proprio dicens:
+|la gente ancor mi noma di l@a~, scilicet, in mundo viventium: et
+sic loquitur Statius, quia Dantes erat ibi vivus; |Stazio.~  Hoc
+nomen sonat effectum, quia stetit diu occultus christianus in
+vita et post mortem stetit per tot secula; et sicut Virgilius
+dictus est a virga, ita Statius dictus est surculus a surculo,
+quia idem sonat.  Deinde Statius describit se a duplici materia
+de qua scripsit, dicens: |cantai di Tebe~, idest, poetice
+descripsi materiam thebanam: nam Statius videns dissensionem esse
+inter Titum et Domitianum fratres assumpsit ad instructionem
+eorum hanc memorandam historiam duorum fratrum describendam, de
+qua multa dicta sunt in Inferno et dicentur in isto Purgatorio. 
+Et tangit secundam historiam dicens: |e poi del grande Achille~,
+quia deinde fecit librum minorem, in quo tractavit de juvenilibus
+gestis Achillis, de quibus jam plene scripsi Purgatorii IX
+capitulo.  Et subdit: |ma caddi in via con la seconda soma.~  Et
+hic nota, lector, quod circa istam literam multi multa dixerunt,
+alii pro poeta nostro, alii calumniantes istud dictum, quia
+dicunt quod Statius non est mortuus secundo libro imperfecto. 
+Quibus respondendum est breviter et clare, quod vere secundum
+opus est completum, nec Dantes hoc negat: sed vult dicere, quod
+cecidit cum secunda salma, quia debebat subire tertiam historiam,
+scilicet, gesta Domitiani, sicut ipse protestatur in prohemio sui
+Thebaidos, et in prohemio Achilleidos.  Unde videtur Statius
+satis excusandus si videatur nimis adulari Domitiano.  Unde nota
+quod, sicut scribit Josephus, Domitianus audito rumore de
+defectione germanorum cum esset valde adolescens, tantam rei
+magnitudinem non recusavit, sicut alii fecissent; sed a patre
+habens ingenitam fortitudinem supra aetatem, statim tendebat in
+barbaros.  Illi belli fama territi sine ullo damno romano jugo se
+subiecerunt.  Domitianus ergo clarus et insignis, aetatem
+superantibus factis et patri honorem afferentibus, Romam reversus
+est; qui et antequam pater veniret Romam Capitolium viriliter
+defenderat ab hostibus.  Ideo juventae indoles potuit decipere
+Statium commendando Domitianum ab iis.  
+
+	|94-99.  Al mio.~  Hic Statius describit se a nobilissimo
+poeta quem semper studuit imitari.  Et ista litera ambigua habere
+potest duplicem intellectum; unum, quod Statius sit factus poeta
+per Virgilium; alium quod sit factus christianus per ipsum. 
+Secundum primum litera est sic exponenda: |Le faville~, idest,
+dicta Virgilii tamquam vivae scintillae, |onde sono allumati~,
+idest, illuminati, |pi@u di mille~, quia multa millia latinorum
+didicerunt poetriam et eloquentiam mediante dogmate Virgilii,
+|che mi scaldar della divina fiamma~, idest, accenderunt mentem
+meam eius doctrina divina, |fu seme~, idest, sementis et radix,
+|al mio ardore~, idest, ardenti ingenio meo ad poetandum. 
+Secundum alium intellectum litera sic exponatur: ^Le faville che
+mi scaldar della divina fiamma~, scilicet, caritate fidei
+christianae, ^fur sceme~, idest, fuerunt tunc diminutae, ^al mio
+ardore~, idest, meo amori; quasi dicat Statius: licet a te
+habuerim credulitatem fidei verae, tamen amor meus fuit simus et
+lentus diu, et sic peccavi per accidiam, sicut testatur paulo
+post.  Sed hic nota, quod licet poeta velit quod Statius habuerit
+a Virgilio utrumque bonum, scilicet, poetriae et fidei, tamen
+prima expositio fuit melior; quia si Statius fuit illuminatus
+lumine fidei per Virgilium, non mille alii, sicut litera dicit:
+praeterea litera sequens declarat expresse quod loquitur secundum
+primum modum.  Unde subdit: |dell'Eneida dico~, qui liber potest
+dici speculum humanae vitae, sicut dicit Aristoteles de Odyssea
+Homeri in Rhetoricis; |la qual fummi mamma~, idest, mamilla
+dulcis, vel ^mamma~, idest, mater, propinans mihi primum lac
+poetriae; unde dicit: |e fu mia nutrice poetando~, ideo studui
+totis viribus imitari ipsum opus; unde dicit: |senz'essa non
+fermai peso di dramma~, quasi dicat, non firmavi minimum punctum
+vel passum.  Est enim drachma parvulum pondus, quo utuntur
+medici: et bene, quoniam Statius in suo Thebaidos semper nititur
+imitari Eneida Virgilii, non solum in numero librorum, sed etiam
+in omnibus, ut non immerito sit appellatus simia Virgilii.  
+
+	|100-102.~  Et concludit Statius immensitatem amoris quem
+habuit semper ad Virgilium, dicens: |e assentirei un sole~,
+idest, unum annum solarem, |pi@u ch'io non deggio~, plusquam
+debeam justae poenae meae, |al mio uscir di bando~, idest, de
+exilio purgatorii, |per esser vivuto di l@a~, scilicet, in mundo
+istius viventis, |quando visse Virgilio~; quasi dicat Statius:
+ego vellem de pacto stare adhuc per annum in purgatorio, et
+fuisse illo tempore felici sub Augusto, quo claruit Virgilius.
+
+	|103-108.  Volser.~  Ista est quarta et ultima pars
+capituli, in qua poeta ostendit qualiter ipse manifestavit
+Virgilium Statio, qui tam multa contulerat cum Virgilio de ipso
+Virgilio non cognoscens eum.  Et primo ostendit qualiter
+Virgilius imposuerit sibi silentium, sed ipse non potuit
+continere se a risu.  Et ad declarandam istam literam fortem est
+primo notandum, quod appetitus, alius est intellectivus, alius
+sensitivus: et sensitivus, alius est irascibilis, alius
+concupiscibilis: et sic gaudium, quod ostenditur per risum
+procedit ab appetitu concupiscibili; et planctus qui movetur per
+iniuriam procedit ab irascibili: et ambo isti appetitus sunt de
+potentia sensitiva, et alter sequitur alterum.  Et appetitus
+intellectivus qui est voluntas, et per quem regulatur appetitus
+sensitivus, non semper est potens supra sensitivum, quia non
+semper irascibile et concupiscibile obedit rationi, sive
+rationali voluntati, quae est suum fundamentum in intellectu.  Et
+hoc est quod vult dicere litera hic quando poeta ostendit quod
+contra velle Virgilii, idest rationis, sensualitas sua risit: et
+dicit quod imitans naturam secundum complexionem naturalem,
+appetitus sensitivus minus obedit intellectivo, quia tunc plus
+operatur in eis virtus eorum.  Nunc ad literam; dicit poeta:
+|Queste parole~, dicta per Statium, |volser Virgilio a me con
+viso che tacendo~, amiccando, |dicea: taci~, scilicet, cum nutu
+faciei.  Et dicit ad excusationem suam; |ma la vert@u che vuole~,
+idest, voluntas vel appetitus intellectivus, |non pu@o tutto~,
+supra passionem: et assignat rationem cum subdit: |ch@e riso e
+pianto~, qui sunt passiones animae, |son tanto sequaci alla
+passion~, idest, virtuti concupiscibili, |da che ciascun si
+spicca~, idest, exciduntur, |che men seguon voler~, idest,
+voluntatem, |nei pi@u veraci~, idest, etiam in sapientioribus,
+quia etiam viros sapientes et veridicos oportet aliquando ridere
+et plorare invite, secundum laetitiam et tristitiam quibus
+afficiuntur. 
+
+	|109-120.  Io.~  Hic poeta ostendit qualiter se tacente
+cum lingua, locutus fuit cum visu; ex quo Statius suspicione
+capta adiuravit eum ut diceret causam sui risus.  Dicit ergo: |Io
+pur sorrisi, come l'uom ch'ammicca~, idest, qui inclinat faciem
+connivendo vel affirmando aliquid: |perch@e l'ombra~, scilicet,
+Statii, |si tacque e riguardommi negli occhi, ove 'l sembiante
+pi@u si ficca.~  Et ponit petitionem eius dicens: |disse~, ille
+Statius, |deh~! loquitur admirative: |perch@e la faccia tua~, quae
+videtur mihi rigida honesta, |dimostrommi un lampeggiar di riso
+testeso~, idest, nunc nunc, |se assommi tanto lavoro inseme~? 
+Quasi dicat: si Deus det tibi tantam gratiam, quod feliciter
+perficias tam laboriosum opus, ita quod simul totum aggreges?  Et
+poeta deinde loquitur et ostendit suam perplexitatem ex contrario
+voto duorum poetarum, quia praecepto unius non poterat contraire,
+et adiurationi alterius non audebat.  Unde dicit: |Or son io
+d'una parte e d'altra preso~; quasi dicat: loqui prohibeor, et
+tacere non possum: |l'una~, scilicet, Virgilius, |mi fa tacere,
+l'altra~, scilicet, Statius, |scongiura ch'io dica; ond'io
+sospiro, e sono inteso dal mio maestro~, scilicet, a Virgilio,
+quem plus reverebar qui videbat meam aviditatem loquendi nunc,
+qualem habebam superius sciendi; ideo dedit sibi licentiam
+dicendi, unde dicit: |e disse~, ille Virgilius, |non aver paura
+di parlar~; propter me, |ma parla e digli quel che dimanda con
+cotanta cura~, scilicet, causam tui risus.  
+
+	|121-126.  Ond'io.~  Hic poeta ponit responsionem suam ad
+petitionem Statii, dicens: |Ond'io~, licentiatus a Virgilio,
+dixi: |o spirto antiquo~, qui poetasti jam mille annis elapsis;
+|forse che tu ti maravigli del rider ch'io fei~, quia forte
+videor tibi derisisse magnificas laudes quas fecisti de Virgilio,
+et singularissimum amorem quem ostendisti te habere ad illum
+celeberrimum poetam; |ma vo'che ti pigli pi@u d'ammirazion~; et
+ecce rem stupendam: |questi che guida in alto~, ad summum
+virtutis, |gli occhi miei~, idest, speculationem intellectualem,
+|@e quel Virgilio~, numquam satis laudatus, |dal qual tu togliesti
+forza a cantar~, idest, alte describere, |degli uomini e de'
+Dei.~  Quasi dicat: imitationem Virgilii cum poetice descripsisti
+bella Thebarum introducendo hinc inde homines et deos in arma,
+sicut tu Virgilius fecisti et accepisti ab Homero.  
+
+	|127-129.~  Et concludit omnem aliam causam, dicens:
+|s'altra cagion credesti al rider mio, lasciala per non vera, ed
+esser credi quelle parole~, supple, esse vera, |che di lui
+dicesti~; quia et ego credo illud quod dixisti in commendationem
+Virgilii; ideo non risi in contemptum eius, cum ego fuerim
+illuminatus et inviatus ab eo ad poetandum, licet habuerim maius
+lumen gratiae, quam tu vel ipse.  
+
+	|130-136.  Gi@a.~  Hic ultimo poeta concludit finem suae
+responsionis, quia Statius repletus stupore et amore cum summa
+reverentia et veneratione inclinavit se ad gratulandum Virgilio. 
+Dicit ergo: |Gi@a s'inchinava~, ille Statius urbanus et gratus,
+|ad abbracciar li piedi al mio dottore~, cuius se discipulum
+profitetur.  Et hic nota quod poeta bene fingit Statium voluisse
+procumbere ad pedes Virgilii, quia ipse Statius hoc testatus est
+in vita; nam perfecto opere maiori circa quod laboraverat
+duodecim annis, sicut Virgilius in suo undecim, dicit in fine
+libro suo: ^Nec tu divinam Eneida tempta Sed longe sequere et
+vestigia semper adora.~  Et subdit, quomodo Virgilius remiserit
+Statium, dicens: |ma elli~, scilicet, Virgilius, |disse: o frate,
+non far~, rem vanam, |ch@e tu se' ombra e ombra vedi~: quasi
+dicat: uterque nostrum est anima separata intangibilis,
+insensibilis.  Deinde dicit, quod Statius urbane excusavit
+errorem suum; unde dicit: |et ei~, scilicet, Statius respondit:
+|surgendo, or puoi comprender la quantitate dell'amor~, ardenti,
+|ch'a te mi scalda~, ad amandum te, |quando dismento nostra
+vanitate~, idest, obliviscor naturae mortuorum, qui sunt vani,
+vacui corpore, |trattando l'ombre~, idest, animas licet
+visibiles; |come cosa salda~, idest, corpoream, sensibilem.
+
+

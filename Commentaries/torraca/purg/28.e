@@ -1,0 +1,530 @@
+	|1-6.~  Dante @e tutto pieno di desiderio, |vago gi@a~ di
+vedere, di conoscere a parte a parte il luogo delizioso, piantato
+dalle mani stesse di Dio, assegnato da Dio per dimora al primo
+uomo; il luogo famoso, al quale con incessante sospirare s'eran
+volte e si volgevano tutte le menti, del quale correvano per le
+bocche le pi@u maravigliose descrizioni.  Perci@o non deve parere
+strano che, non appena il maestro cessa di parlare, senza nemmeno
+rispondergli una parola di gratitudine o di rincrescimento, egli,
+|sanza pi@u aspettar~, gli volti le spalle e si metta in via.  --
+|Vago gi@a~ suona gagliardo e lieto.  -- |Cercar dentro e
+d'intorno~: col desiderio grande si congiunge il proponimento di
+usar attenzione, di guardare con cura dappertutto; cfr. ^Inf.~,
+XX, 55 n.  -- |La divina foresta~: stimola l'attenzione nostra. 
+Virgilio (^Purg.~, XXVII, 134) aveva detto soltanto: ^l'erbetta,
+i fiori e gli arboscelli.~  Ecco ora un'imagine meno
+indeterminata, |foresta~, alla quale |divina~ d@a anticipato
+risalto; e, subito dopo, altre determinazioni, |spessa e viva~ --
+folta e rigogliosa -- e l'effetto della foltezza e del rigoglio
+su i raggi del sole, incontro al quale Dante andava: ^Purg.~,
+XXVII, 133.  -- |La riva~: la sponda, cfr. ^Purg.~, X, 22.  --
+|Lento lento~ perch@e nuovo alla libert@a, perch@e sa dove tendere,
+perch@e vorrebbe tutto esaminare e ammirare.  L'andatura riflette
+la condizione dell'animo.  -- |D'ogni parte~: cfr. ^Inf.~, XIII,
+22 n.  L'^a~ di |parte~ chiude, la serie di ^a~ accentate --
+|v@ago, gi@a, cerc@ar, temper@ava, aspett@ar, lasci@ai, camp@agna,
+p@arte~ -- alle quali si deve principalmente l'armonia grave e
+dolce di questi versi, degno preludio di musica stupenda.  --
+|Oliva~: olezzava, cfr. ^Purg.~, VII, 80-81.
+
+	|7-21.~  Ad ogni cosa, che vede o sente, porge attenzione
+via via, e tutto osserva.  |Un'aura dolce lo fer@ia per la
+fronte~, un'aura, che |non aveva mutamento in s@e~, sempre eguale,
+sempre la stessa; ma |feria~ -- par che rifletta il poeta --
+forse dice un po' troppo, perch@e, in verit@a, il |colpo~ di essa
+non era pi@u forte di quello di |soave vento~ terrestre.  E
+quell'aura, facendo |tremolar pronte le fronde~, le piegava
+|tutte quante~ verso occidente; ma non le toglieva dal loro
+naturale |esser dritto, tanto~ da costringere |per le cime gli
+augelletti~ a lasciare |ogni loro arte~; anzi, |con piena
+letizia~, essi la |ricevevano intra le foglie, cantando.~  E le
+foglie |tenev@an bordone alle sue rime~, accompagnavano i loro
+canti, con quel suono basso, che fanno i rami |per la pineta~ di
+Ravenna, |quando~ spira |Scirocco.~  Tremolare e piegare di
+fronde, cantar lieto di uccelletti, stormir di rami tutto
+insieme; e ciascuna cosa con proprio rilievo: |pronte tutte
+quante le fronde, operanti per le cime ogni lor arte con piena
+letizia~ gli uccelletti, |di ramo in ramo~ raccolto lo stormire. 
+-- |Alla parte~ ecc.  Co' primi raggi del sole dall'oriente, le
+|prime #ore, l'aura dolce.~  -- |Esser dritto~: cfr. ^Purg.~, X,
+30.  |Sparte~: rimosse.  -- |Per le cime~ ecc.  Al tempo di Dante
+non eran conosciute le ^Puniche~ di ^Silio Italico~, nelle quali
+(V, 504 segg.) si legge: <Quando Zefiro spira per gli antichi
+boschi su la cima tremolante della fronda, tenendosi a pena,
+l'uccello @e scosso e ciondola al pari del nido>.  -- |Ogni lor
+arte~: ^A. Daniel~, ^Autet~: <Ciangotta e canta ciascuno alla sua
+maniera>; ^Cavalcanti~, ^Fresca rosa~: <E cantinne gli augelli
+Ciascuno in suo latino Su li verdi arbuscelli>.  -- |Bordone~:
+propriamente il tono del basso continuo.  -- |Sue~: loro.  |Alle
+sue rime~: cfr. ^R. d'Aquino~, ^Ormai~: <Quando lo giorno appare
+Sento li dolci amori E li versi novelli>.  ^Intelligenza~, 1:
+<Quando li augelli fan versi d'amore>.  -- |Qual, di ramo in
+ramo, si raccoglie~: concorrendo ogni |ramo~ a formarlo.  |In sul
+lito di Chiassi~: ^il lito adriano~ (cfr. ^Par.~, XXI, 123),
+presso il luogo dove sorgeva Classe, porto di Ravenna.  Il
+^Byron~ nel ^Don Giovanni~: <Dolce l'ora del crepuscolo nella
+solitudine della foresta di pini e su la spiaggia silenziosa, che
+limita l'antichissimo bosco di Ravenna, sorto dove una volta
+ondeggiavano le acque dell'Adriatico, e di contro s'innalzava
+l'ultima fortezza de' Cesari; sempre verde foresta!>  --
+|Quand'Eolo~ ecc.  Eolo, il re de' venti, li tenea chiusi in un
+antro e incatenati; cfr. ^Virgilio~, ^En.~, I, 52 segg.  Dobbiamo
+imaginare la forza di |Scirocco~ (sud-est) attenuata dal lungo
+viaggio su pel mare Ionio e l'Adriatico (cfr. ^Par.~, VIII, 69)
+prima che giunga alla pineta di Ravenna; ma il suono del v. la
+ritrae al primo uscire dall'antro, impetuosa e fragorosa.  Cfr.
+^Ovidio~, ^Metam.~, XV, 601-602: <Qual @e il mormorar delle alte
+pinete quando fischia il truce Euro>.
+
+	|22.  Gi@a~: dunque, dopo ch'ebbe camminato ^lento lento~
+{v.5} per un pezzo.
+
+	|23-24.  Selva antica~: anteriore, alla creazione
+dell'uomo.  <Il Signore aveva piantato da principio un paradiso
+di delizia, dove colloc@o l'uomo, che aveva formato>; ^Genesi~,
+II, 8.  -- |Tanto ch'io non potea~ ecc.  Cfr. ^Inf.~, XV, 13-15,
+dove quella, che non rivede pi@u, @e una selva.
+
+	|25-27.  Ed ecco~: annunzia novit@a.  -- |L'andar mi
+tolse~: cfr. ^Inf.~, II, 120.  -- |Un rio~: tenue il suono;
+conforme all'impressione, che se ne riceve, @e, poi, quello di
+|picciole onde.~  -- |Inver sinistra~: cfr. vv. 127-129.  --
+|Piegava~ ecc.  Cfr. ^Ecl.~, I, 14-16: <Un umile rivoletto,
+coperto dalle fronde de' salici, irrora con onde perenni le rive
+dal margine estremo>.  -- |Usc@io~: usc@i, germogli@o; cfr. ^Inf.~,
+X, 28.
+
+	|28-30.~  Forte |tutte~ al principio, forte |nulla~ quasi
+alla fine del terzetto: nessun paragone @e possibile tra
+|quell'acqua~ limpidissima e le pi@u |monde~ acque della terra;
+cfr. ^Par.~, III, 11.  -- |Verso di quella~: cfr. ^Purg.~, III,
+51.
+
+	|31-33.~  La ripetizione |bruna bruna~, l'accento di
+|ombra~ alla terza sillaba, il suono cupo e rallentato di
+|perpetua~, l'energia di |mai~, la pausa dopo |ivi~, che,
+brevissima com'@e, pare abbia dato al poeta il tempo di cercare e
+trovare e aggiungere prestamente |n@e luna~, danno un senso vivo
+di quiete nella penombra fresca e misteriosa.  Cfr. ^Ovidio~,
+^Metam.~, V, 387-390: <Una selva corona le acque (del lago di
+Enna) cingendole da ogni parte; e, con le sue fronde, come con un
+velo, allontana i dardi di Febo: i rami danno fresco; il terreno
+@e umido, i fiori diversi.  Primavera v'@e eterna>.
+
+	|34-36.~  Tutto spezzato il primo v., pi@u uniti gli
+altri, specialmente l'ultimo.  |Per mirare la gran variazion~:
+par di vedere il poeta volger lenti intorno intorno gli occhi
+ammirando.  -- |Variaz,ion~: diversit@a.  ^Ristoro~, VIII, 23:
+<Troviamo grandissima variazione nell'erbe e negli alberi ecc. 
+Variazione non pu@o essere nello simile: adunque @e mestieri
+ch'ella sia nello dissimile>.  -- |Mai~: plur. di maio maggio; i
+fiori, la fioritura delle piante.  ^Faba~, ^Parlamenti~, 84:
+<L'arbore, lo mese d'aprile, mostra lo bello maio e la fresca
+verdura>.  Il primo di maggio (calendi maggio) si soleva, ed
+ancora in alcuni luoghi si suole, cogliere rami fioriti, per
+danzarvi intorno cantando, per ornar di essi le finestre, per
+piantarli innanzi alle case delle fanciulle; e i rami stessi si
+chiamarono e si chiamano <maggio>.
+
+	|37-39.  E l@a~: ^di l@a dal fiumicello~ {v.35}.  --
+|Subitamente~ imprime grande rapidit@a al racconto, cfr. ^Inf.~,
+X, 28 n.  -- |Che disvia~ ecc.  Cfr. ^Purg.~, IV, 1-4.
+
+	|40-42.~  ^G. Cavalcanti~, ^In un boschetto~: <sola sola
+per lo bosco g@ia>.  Antica ballata: <Era tutta soletta In un
+prato d'amore... fior giva cogliendo>.  Cfr. ^Purg.~, XXVII,
+98-99.  Qui son messe in rilievo due circostanze: che la |donna~
+era |soletta~ in quel mirabile luogo fresco, ombroso, misterioso;
+che la |sua via era tutta pinta di fiori~, Lia, nel sogno di
+Dante, <andava cogliendo fiori>, e questa va, con maggior cura,
+|iscegliendo fior da fiore.~  Dante non ci dice, ora, il nome di
+lei, che sar@a chiamata a nome da Beatrice nell'ultimo canto del
+^Purgatorio~, 119: Dante vuole che impariamo prima a conoscerla
+da ci@o, che ella dir@a e far@a.  Cfr. ^V. N.~, son. ^Morte
+villana~: <Pi@u non vo' discoprir qual donna sia Che per le
+propriet@a sue conosciute>.
+
+	|43-45.  Deh, bella donna~: il racconto @e interrotto a un
+tratto; a un tratto la voce di Dante si leva alta e sonante a
+chiamare e pregare la |donna.~  Dalle parole di lui apprendiamo
+che @e |bella~, che |ne' sembianti~ appare piena d'amore: le
+impressioni, che suscita in lui la vista di lei, precedono la
+preghiera.  Ognuno sente l'impeto di |bella donna~: dopo la
+pausa, quasi abbia ripreso forze.  Dante prosegue con maggior
+vigore: |ch'ai raggi d'amore ti scaldi.~  -- |S'io vo' credere~:
+non dubita punto; usa una forma, che tempera alquanto, con garbo,
+l'ardimento dell'asserzione precedente.  -- |Soglion esser~ ecc. 
+<Lo viso mostra lo color del core>, ^V. N.~, son. ^Ci@o che
+m'incontra~: <Voi le vedete amor pinto nel viso>, ivi, canz.
+^Donne che avete.~
+
+	|46.~  Cos@i preparata, giunger@a pi@u gradita la preghiera,
+che Dante esprime delicatamente.  Non: ^Tratti avanti~ (cfr.
+^Inf.~, XXI, 118), ma: |vegnati in voglia di trarreti avanti.~ 
+L'accento di |vegnati~ d@a l'inflessione della voce, che invita
+con desiderio.
+
+	|47-48.  Verso questa rivera~: la riviera, il ^rio~ (v.
+25) impediva a lui di avvicinarsi.  -- |Tanto ch'io possa~ ecc. 
+Udiva il canto, ma non l'intendeva; cfr. ^Inf.~, XXIV, 74.  La
+donna era, dunque, lontana un buon tratto.
+
+	|49-51.  Tu mi fai rimembrar~: cos@i accade; uno
+spettacolo naturale, una scena, che si svolge sotto i nostri
+occhi, ci richiama a mente spettacoli e scene simili, di cui
+abbiamo letto o udito la descrizione.  |Dove~: nel bosco di Enna
+(cfr. n. ai vv. 31-33): |qual~: giovinetta e bella, intenta a
+coglier fiori; |Proserpina~ (^Inf.~, IX, 44, X 80), la figliuola
+di Cerere (^Purg.~, XXIII, 26 n.); |nel tempo che la madre
+perdette lei, ed ella~ perdette |primavera~: quando Plutone la
+rap@i e port@o all'Inferno.  ^Ovidio~, ^Metam.~, V, 392 segg.:
+<Perpetua ivi @e primavera.  Nel qual bosco, mentre Proserpina si
+trastulla ed ora coglie viole, ora candidi gigli, e, con la
+fanciullesca cura, ne empie i canestri e il seno, cercando
+superar a gara le compagne; non s@i tosto veduta, @e amata e rapita
+da Dite>.  -- |Perdette primavera~: primavera, ^perpetua~ {v.32}
+su le rive del lago d'Enna, non fu mai <nelle tenebre eterne>,
+dove Proserpina fu portata dal dio rapitore.  Solo molto tempo
+dopo, la desolata madre ottenne di averla con s@e, fuor
+dell'Inferno, per una met@a dell'anno.
+
+	|52-57.~  Negli atti e ne' movimenti, la ^bella donna~
+{v.43} appare tutta leggiadria; cfr. ^Purg.~, XXVI, 99 n.  Il
+poeta felicemente la paragona a |donna, che balli~, perch@e nel
+ballo si manifestano meglio le grazie della persona.  Un'antica
+ballata provenzale: <Chi la vedesse danzare e divertire il suo
+corpo gentile, bene potrebbe dire, in verit@a, che il mondo non
+abbia sua pari>; e un'antica ballata italiana: <A la danza la
+vidi danzare...  Vestut'era d'un drappo di Soria, La donna mia, e
+stevale bene; Rallegrava la gente tuttavia; Chi la vedia, traea
+lor di pene>.  I movimenti, che Dante descrive, sono brevi, lenti
+e composti: la |donna~, che non balla in compagnia di altre,
+carolando (cfr. ^Purg.~, XXIX, 127-129, ^Par.~, XXIV, 16), ma
+sola, ha |le piante~ fortemente spinte, |strette a terra~, e
+strette |intra s@e~, una accanto all'altra; |si volge~ pian piano
+sopra s@e stessa, quasi non cambiando posto, |e piede innanzi
+piede a pena mette~, lentissima.  |A pena~ rallenta il verso.  --
+|In su' vermigli~ ecc.  Cfr. ^Guinizelli~, ^Voglio del ver~:
+<Tutti colori e fior, giallo e vermiglio>.  -- |Fioretti~: cfr.
+^Inf.~, II, 127.  -- |Non altrimenti~ ecc.  Altro garbatissimo
+paragone.  Cfr. ^Conv.~, IV, 85: Le <vergini pallide e rubiconde
+si fecero, e li loro occhi fuggiro da ogni altro sguardo>.  --
+|Avvalli~: abbassi, cfr. ^Purg.~, VIII, 43.
+
+	|58.~  Cfr. ^Purg.~, IX, 120.
+
+	|59-60.  Il dolce suono~, il canto, veniva a me col suo
+senso, in modo che potevo intendere.  Cfr. v. 48.  ^V. N.~, XIX;
+<A pi@u aprire lo intendimento di questa canzone>.
+
+	|61-62.  Dove l'erbe son bagnate~ ecc.  Proprio al
+margine del |bel fiume~, cfr. vv. 26-27.
+
+	|63.~  Il v. esprime il compiacimento di Dante, alla
+degnazione della ^bella donna~ {v.43}, col rilievo di |levar~ e
+di |suoi~, con quel gentilissimo |mi fece dono.~
+
+	|64-66.~  Gli occhi di lei sono luminosissimi: splendono
+assai pi@u di quelli di |Venere~ poi che fu |trafitta dal figlio~,
+in modo affatto insolito.  Per trafiggere, Amore adoperava
+l'arco: quando trafisse Plutone perch@e amasse Proserpina, sciolse
+la faretra, vi scelse la freccia pi@u acuta, curv@o al ginocchio il
+flessibile corno, poi scocc@o; ^Ovidio~, ^Metam.~, V, 379 segg. 
+Ma un giorno che il fanciullo, non avendo deposto la faretra,
+baciava la madre, senz'addarsene (^inscius~), le punse il petto
+con una freccia.  Allora fu che Venere am@o Adone di amore
+ardentissimo.  <Non cur@o pi@u i lidi di Citera, non torn@o pi@u a
+Pafo cinta dal mare, n@e a Gnido pescosa, n@e ad Amatunta ricca di
+metalli; neanche al cielo non sal@i pi@u: al cielo preferiva
+Adone>.  ^Ovidio~, ^Metam.~, X, 525 segg.  -- |Fuor di tutto suo
+costume~: cfr. ^Par.~, XXIII, 42.  |Suo~: di Amore.
+
+	|67-69.  Ella ridea dall'altra riva~: con lo splendore
+degli occhi, lo splendore del riso.  <E che @e ridere, se non una
+corruscazione della dilettazione dell'anima, cio@e un lume
+apparente di fuori, secondo che sta dentro?>  ^Conv.~, III, 8. 
+-- |Dritta~: non si chinava pi@u a scegliere fiori (cfr. ^Purg.~,
+XIX, 132); teneva nelle mani i fiori gi@a colti.  |Dritta~ ci
+mostra tutta la bella persona, e ci avverte che @e pronta a
+parlare.  Ella s'@e fermata, e cos@i ferma non appare meno
+leggiadra di quando era in moto -- diritta ridente, gli occhi
+lucenti, le mani piene di fiori variopinti.  -- |L'alta terra~:
+alta davvero in cima al monte, e singolarmente favorita da Dio. 
+-- |Sanza seme, gitta~: <Sol da s@e produce>, ^Purg.~, XXVII, 135.
+
+	|70-75.  Tre passi~: tre soli; ma era come |li facesse
+lontani l'Ellesponto~, che, |per mareggiar~, perch@e mareggiava
+|intra Sesto ed Abido~, teneva separato |Leandro~ da Ero; e
+quanto |Leandro~ odi@o |Ellesponto~, tanto Dante odiava il
+|fiume~, che gl'impediva di esser pi@u vicino alla ^bella donna~
+{v.43}.  Non largo l'|Ellesponto~; ma <Che mi giova?> diceva
+|Leandro~, costretto a dimorare ad |Abido~: <che mi giova?  Forse
+che questo breve tratto d'acqua ci @e meno contrario?>  ^Ovidio~,
+^Epistola~, XVII, 173-174.  -- |La 've pass@o Serse~: una
+reminiscenza storica s'innesta sopra una poetica.  <Serse, figlio
+di Dario e re di Persia, invase il mondo con tanta moltitudine di
+gente, con tanta potenza, da imporre un ponte allo stretto, che
+separa l'Asia dall'Europa, tra Sesto ed Abido...  E dalla
+cominciata impresa fu miserabilmente respinto>.  ^Mon.~, II, 9. 
+-- |Ancora freno~ ecc.  Esempio memorando di orgoglio punito;
+cfr. ^Purg.~, XIII, 40; XIV, 143.  Dante costringe in un verso le
+riflessioni di ^Orosio~, II, 10: <Essendo il ponte ruinato per le
+piene del verno, con una scafa di pescatore, con grande paura
+(Serse) pass@o.  Era, chi costui avesse guardato; da maravigliarsi
+della misera condizione dell'uomo e da dolersi, considerando
+specialmente per costui la mutazione delle cose: essere ora
+questi contento d'una vilissima scafa, sotto il cui navilio parea
+addietro che tutto il mare si nascondesse>.  -- |Quel~: il fiume. 
+-- |Non s'aperse~: per darmi passaggio, cfr. ^Purg.~, XVIII, 134.
+
+	|76-79.~  Pregata da Dante, il quale desiderava intendere
+che cosa ella cantasse, la ^bella donna~ {v.43} s'@e avvicinata; e
+Dante ha ^inteso~ il canto (v. 60).  Ora, spontaneamente informa,
+istruisce lui e i compagni di lui: primo suo uffizio @e quello di
+illuminare le menti e l'adempie graziosamente, perch@e <la grazia
+s'acquista per soavi reggimenti, che sono dolce e cortesemente
+parlare, dolce e cortesemente servire e operare>.  ^Conv.~, IV,
+25, cfr. II, 11: <Nulla cosa in donna sta pi@u bene che cortesia>. 
+-- |Nuovi~: del luogo; cfr. ^Purg.~, II, 52-53.  -- |Il luogo~ fu
+|eletto per nido all'umana natura~ (cfr. v. 142); ma il primo
+uomo vi pecc@o e ne fu scacciato, e il suo peccato fu cagione di
+tutt'i mali ai discendenti: perci@o pu@o far maraviglia che,
+proprio l@i, ella si mostri cos@i lieta; pu@o parere che rida delle
+sventure umane.  Ma ben altra @e la cagione del suo riso.
+
+	|80-81.~  Splendono di luce gli occhi della bella donna,
+e le sue parole |disnebbiano l'intelletto~ illuminandolo.  Per
+cominciare le basta a spiegar perch@e rida la citazione d'un
+versetto del salmo, XCI, 4: -- <Mi hai letificato, o Signore, con
+le cose fatte da te; e nelle opere delle tue mani esulto>.  Alla
+felicit@a perfetta, a veder Dio, non si pu@o giungere
+<perfettamente> in questa vita; ma <l'intelletto considera lui e
+mira lui per i suoi effetti>.  Cfr. ^Conv.~, IV, 22.
+
+	|82-84.  Venni presta ad ogni tua question~: alla riva
+del fiume @e venuta pronta ad ogni domanda di Dante.  |Tanto che
+basti~: quanto pu@o bastare.
+
+	|85-87.~  <Libero @e qui da ogni alterazione>, aveva
+insegnato Stazio (^Purg.~, XXI, 43); nuvole, pioggia e le altre
+<alterazion>, che avvengono nell'aria, non salgono pi@u su <che la
+scaletta de' tre gradi breve>.  |L'acqua~ del fiumicello e |il
+suono della foresta~, lo stormir delle fronde mosse dall'<aura>
+|impugna~ nella mente di Dante, mette in dubbio la |novella
+fede~, la fede recentemente prestata alle parole di Stazio,
+costringendolo a pensare: Avvengon, dunque, <alterazioni> nel
+Paradiso terrestre, su la cima del <santo monte?>.
+
+	|88-90.~  Certo, scorre l'acqua e stormiscon le fronde;
+ma di ci@o non @e |cagione~ l'alterazione degli elementi.  -- |Onde
+procede~: cfr. ^Inf.~, XXXIV, 36.  -- |Purgher@o la nebbia~: aveva
+gi@a detto (v. 81) ^disnebbiar~; cfr. ^Purg.~, XI, 30.  -- |Ti
+fiede~: ti ferisce, t'impedisce di veder il vero.
+
+	|91-93.  Lo sommo Ben~: cfr. ^Purg.~, XV, 67.  -- |Che
+solo~ ecc.  Cfr. ^Conv.~, II, 6: <Luce che sola s@e medesima vede
+compiutamente>.  -- <Nessun bene Dio vuole pi@u della sua bont@a... 
+Dio non vuole in alcun modo il male della colpa>.  ^Somma t.~, I,
+19.  Perci@o |fece buono l'uomo~, e lo fece |a bene~, perch@e bene
+operasse.  -- |E per arra~, per caparra (cfr. ^Inf.~, XV, 94) di
+|eterna pace~, della pace del cielo (cfr. ^Purg.~, III, 74 n.),
+del <contentare, che in Paradiso @e perpetuo> (^Conv.~, III, 8),
+gli |diede questo loco~, lo colloc@o in questo luogo di delizie.
+
+	|94-96.  Diffalta~: mancanza, difetto; franc. ^d$efaut.~ 
+-- La celeste creatura non pu@o non dolersi della colpa dell'uomo. 
+Ripete |per sua diffalta~, fermando la voce a |sua~; di contro
+alle conseguenze della colpa, richiama la felicit@a anteriore,
+|l'onesto riso~ di contro al |pianto, il dolce gioco~ di contro
+all'|affanno.~  -- |Onesto riso~: dimostrazione di moderata
+letizia, cfr. ^Purg.~, IV, 122 n.  |Dolce gioco~: moderato
+sollazzo, cfr. ^Purg.~, XIV, 93 n.  <Nel ^Genesi~, II, (15) @e
+detto: Il Signore Dio prese l'uomo e lo colloc@o nel paradiso di
+delizie, affinch@e lo coltivasse e lo custodisse...  Quel lavoro
+non sarebbe stato faticoso, come dopo il peccato, ma sarebbe
+stato giocondo per l'esperienza della virt@u della natura: anche,
+quella custodia non sarebbe stata contro invasore, ma a ci@o
+l'uomo custodisse il Paradiso per non perderlo: e tutto questo
+riusciva a bene dell'uomo>.  ^Somma t.~, I, 102.
+
+	|97-101.~  Questo monte sal@i tanto verso il cielo, perch@e
+le turbazioni, prodotte al disotto di esso dal calore nell'acqua
+e nella terra, non facessero alcun danno all'uomo.  |Sal@io tanto~
+non contraddice all'ipotesi esposta altrove da Virgilio intorno
+alla formazione del monte (^Inf.~, XXXIV, 124 segg.); la compie. 
+-- |L'esalazion~ ecc.  <Lo sole riscalda e apre li pori della
+superficie della terra, ed esalano ed escono fuori li vapori
+caldi;> ^Ristoro~, VII, 3, 7.  <La terra @e tutta piena di diverse
+acque e coperta; e quando il caldo del sole, che @e capo e
+fondamento di ogni calore, ferisce nell'umidit@a della terra o
+delle cose bagnate, le asciuga e ne toglie gli umori, come fosse
+un panno molle; e allora se n'esce un vapore come fumo e se ne va
+in alto nell'aria>; ^Latini~, ^Tesoro~, I, iii, 107.  <E se 'l
+calore del sole lieva su il vapore, @e mestieri ch'egli sia forte,
+s@i che il possa bene levare su alto... e quanto lo lever@a pi@u in
+alto, tanto di ragione pi@u l'assottiglier@a.  Quando
+l'assottiglia, fallo diventare aere, lo quale @e caldo;
+assottigliando l'aere, fallo diventare fuoco>; ^Ristoro~, VII, 1.
+
+	|102.  Libero n'@e~: dalle esalazioni e dal loro ^turbare~
+{v.97}; |d'indi~: di l@a, dove @e la porta.
+
+	|103-108.~  Ci@o posto, come si spiega lo stormire della
+^divina foresta~ {v.2}?  Ecco: i quattro elementi son disposti a
+sfere l'un dentro all'altro, al modo stesso de' cieli de'
+pianeti: le sfere della terra e dell'acqua, elementi <pi@u gravi>,
+stanno <ferme di sotto>; le sfere dell'aria e del fuoco, <le
+quali sono pi@u lievi e sottili,> stanno di sopra e <si muovono e
+si volgono>.  La <gibbosit@a>, la parte convessa della sfera del
+fuoco, aderisce <a punto a punto> con |la prima volta~, con la
+concavit@a della sfera della luna (cfr. ^Purg.~, XVIII, 28-32 n.);
+<onde, movendosi lo punto della spera della luna, per ragione si
+dee muovere lo punto della spera del fuoco, lo quale si continua
+con esso; e cos@i si volger@a per ragione a punto a punto la spera
+del fuoco con la spera della luna, e la spera dell'aere colla
+spera del fuoco>.  ^Ristoro~, VIII, 1.  Dunque, non vento, ma il
+|moto~ della sfera dell'aria |percuote~ la cima del monte, e,
+quindi, la selva, la quale appunto su la cima s'innalza, |e la fa
+sonare in circuito~, in giro, circolarmente.  -- |Con la prima
+volta~: non col primo mobile, ^che tutto gira~ (^Inf.~, IX, 29),
+ma col primo cielo, ossia col cielo della luna (cfr. ^Par.~, II,
+30); il passo citato di ^Ristoro~ lo dimostra chiaramente.  Qui e
+altrove, ma non sempre (cfr. ^Purg.~, XXX, 1), Dante conta i
+cieli dal primo rispetto a noi; perci@o, in una canzone famosa,
+chiam@o <terzo cielo> quello di Venere.  Cfr. ^Par.~, VIII, 37,
+^Conv.~, II, 4: <E l'ordine del sito @e questo, che il primo
+(cielo), che numerano, @e quello dov'@e la luna, lo secondo @e
+quello dov'@e Mercurio ecc.>.  -- |Se non gli @e rotto~ ecc.  Se
+non incontra impedimento alcuno, l'aria si muove tutta
+circolarmente.  Il moto circolare @e proprio de' corpi celesti e
+de' quattro elementi, cfr. ^Macrobio~, ^Saturn.~, VII, 9.  --
+|Disciolta~: libera; |nell'aer vivo~: nella sfera stessa
+dell'aria, dove l'aria @e assolutamente pura.  -- |Percuote e fa
+sonar la selva~: si badi a non disgiungere i due verbi. 
+^Macrobio~, ^S. di Scip.~, I, 1; <L'aria percossa, pel solo fatto
+della percossa, emette grande fragore, perch@e la natura vuole che
+la violenta colli sione di due corpi finisca in suono>.  Dante
+suppone che l'aria percuota la selva, la quale, |perch@e @e folta~,
+le oppone resistenza, onde il suono, con cui pare che ^le fronde
+tengan bordone~ al canto degli uccelli (v. 18).
+
+	|109-111.~  La ^bella donna~ {v.43} non si restringe a
+esporre la cagione del ^suon della foresta~ {v.85}; aggiunge
+parecchi importanti <corollari>.  |La pianta~ percossa dall'aria
+|puote tanto~, ha tal potere, che effonde la |sua virt@u~
+nell'|aura~; e, questa, poi, girando ^con la prima volta~
+{v.104}, |scuote intorno~ la virt@u, onde la pianta l'ha
+impregnata, la diffonde tutt'attorno.  |Virt@u~ non ha senso
+generico; Dante non parla qui della <virt@u vegetativa>, ma della
+particolar virt@u di ciascuna pianta; cfr. ^Purg.~, XXIII, 61-63
+n.  -- |Impregna~: cfr. ^Purg.~, XXIV, 147.  ^Ristoro~, VI, 3:
+<Lo cielo colla sua virt@u e colla sua intelligenza... le quali
+egli ha in s@e, di potere dare e ingravidare la terra ecc.>.
+
+	|112-114.~  ^Ristoro~, VII, ii, 2: <E troviamo nate di
+molte erbe variate e contrarie l'una dall'altra in poco spazio di
+terra.  E questa operazione diversa fa la nobilit@a del cielo e la
+sua intelligenza>.  Ma Dante non attribuisce la produzione delle
+piante alla sola virt@u del cielo; presuppone che l'aria porti la
+virt@u di ciascuna pianta dal Paradiso terrestre su |l'altra
+terra~, la quale secondo la maggiore o minore fertilit@a naturale,
+e secondo l'influsso del |suo cielo~, dalle |virt@u diverse
+concepe e figlia~, germina e produce |legna diverse.~  --
+|Degna~: adatta, conveniente.  -- |Per suo ciel~: cfr. ^Purg.~,
+XIV, 38-39 n.
+
+	|115-117.  Poi~ che |questo~, che io dico, fosse |udito
+di l@a~, in terra, |non parrebbe maraviglia~ vedervi nascer piante
+senza sapere donde o come ne fosse venuto il |seme.~  Tra le
+maraviglie dell'et@a dell'oro, ^Ovidio~ (^Metam.~, I, 108) poneva
+questa, che <i zefiri carezzavan fiori nati senza seme>.
+
+	|118-120.~  <E il Signore Dio avea prodotto dalla terra
+(del Paradiso) ogni sorta di piante belle a vedersi e di frutto
+dolce a mangiare, e l'albero eziandio della vita in mezzo al
+paradiso, e l'albero della scienza del bene e del male>. 
+^Genesi~, II, 9, cfr. n. ai vv. 23-24.  Secondo ^S. Agostino~,
+Dio, nel terzo giorno, dette alla terra soltanto la virt@u di
+produrre le erbe (cfr. ^Somma t.~, I, 69); perci@o Dante pot@e
+credere che effettivamente i semi di tutte le piante fossero
+stati posti da Dio nel <Paradiso di delizie>.  -- |E frutto ha in
+s@e~ ecc.  Par bene alludere a' due alberi della vita e del bene e
+del male.  -- |Non si schianta~: cfr. ^Purg.~, XX, 45.
+
+	|121-126.~  Ed ora passa a dire la ^cagione~ {v.89}
+dell'|acqua.~  |Non surge~, come i fiumi della terra, |di vena~
+alimentata dalle piogge; |esce di fontana~ inesauribile, alla
+quale il |voler di Dio~ rifonde continuamente tant'acqua, quanta
+essa ne |versa da due parti.~  -- |Di vena~: canz. ^Io son
+venuto~, st. 5a: <Versan le vene le fumifere acque> (d'inverno):
+^F. di Ces.~, 93: <Ha intorno quattordici fiumi di dolci acque, e
+queste nascono di fontane e di vene d'alpi>.  -- |Che ristori~
+ecc.  Il vapore, convertito in acqua dal |gelo~, rifornisce le
+|vene~: cfr. ^Purg.~, V, 109-111, e 118; XIV, 34.  -- |Acquista~
+e |perde lena~, vigore (respiro), secondo che le sue acque
+crescono o scemano; cfr. ^Inf.~, I, 22.  -- |Salda e certa~:
+perenne e immutabile, cfr. ^Inf.~, XIV, 33.  -- |Dal voler di
+Dio~ ecc.  Cfr. ^Purg.~, XXIII, 61.  -- |Da due parti~: questo
+non sapeva ancora Dante, e non sapevamo noi; due sono i fiumi,
+non uno.
+
+	|127.  Con virt@u~: ^Purg.~, ivi, 62.
+
+	|129.  D'ogni ben fatto~: d'ogni buona azione.  -- |La
+rende~: la memoria.
+
+	|130-132.~  Cos@i: per questa ragione, perch@e toglie
+^memoria del peccato~ {v.128}, |quinci~, di qua, si chiama
+|Let@e~; e perch@e la rende, |dall'altro lato si chiama Euno@e.~ 
+|Lete~ era per gli antichi fiume infernale (cfr. ^Inf.~, XIV,
+131, 136), che toglieva interamente la memoria; cfr. ^Virgilio~,
+^En.~, VI, 749 segg.  |Euno@e~ pare nome foggiato dal poeta unendo
+insieme ^eu~, bene, e ^nous~, mente o memoria, parole greche non
+ignote al Medio Evo; cfr. ^Grecismo~, VIII, 119, 225.  ^Conv.~,
+II, 4: <La Prima mente... li Greci dicono ^Protonoe~>.  -- |Non
+adopra~: non opera (cfr. ^Inf.~, XXIV, 25), non fa effetto. 
+Bisogna bere all'uno e all'altro fiume.
+
+	|133.~  Breve l'annunzio, perch@e Dante ne dovr@a
+<gustare>; ma grande la promessa nell'affermazione gagliarda;
+|esto @e di sopra~, supera tutti.
+
+	|134-138.~  ^Apocalisse~, XXI, 6: <Io, a chi ha sete,
+dar@o gratuitamente della fontana di acqua di vita>.  Cfr.
+^Purg.~, XXI, 1 segg.  Crede d'aver detto quanto basti a
+soddisfare Dante, senza bisogno d'altre dichiarazioni; pure, |per
+grazia~, di sua spontanea volont@a gli dar@a |ancora un
+corollario~, una giunta.  -- |N@e credo~ ecc.  Garbatissima forma
+di pensiero gentile; se Dante avesse osato, avrebbe interrotto
+dicendo: Tutt'altro!  -- |Oltre promission~: in pi@u della
+promessa, cfr. vv. 88-90.  -- |Si spazia~: si estende.
+
+	|139.  Poetaro~: cantarono.
+
+	|140.  L'et@a dell'oro~ ecc.  Cfr. ^Inf.~, XIV, 96 n. e
+^Purg.~, XXII, 148.
+
+	|141.  Forse sognaro~: un qualche barlume della vera
+credenza non manc@o ai Pagani.  -- |In Parnaso~: cfr. ^Purg.~,
+XXII, 65, ^Par.~, I, 16.  -- |Esto loco~: un altro |esto~ (cfr.
+v. 133), al quale d@a rilievo la voce.
+
+	|142-144.~  Che et@a dell'oro?  Che |primavera~ eterna? 
+Che ruscelli di |nettare~?  |Qui~... |qui~... |@e questo~... 
+Opponendo la verit@a ai sogni, ^la bella donna~ {v.43} si esalta. 
+Cfr. ^Ovidio~, ^Metam.~, I, 89 segg.: <Prima fu l'et@a dell'oro,
+che, senza giudici, spontaneamente, senza legge, osservava la
+fede e la rettitudine...  Primavera era eterna...  La terra...
+dava da s@e ogni cosa...  Scorrevano fiumi di latte e fiumi di
+nettare>.  -- |L'umana radice~: il primo uomo, cfr. ^Purg.~, XX,
+43.  -- |Di che ciascun dice~: tutti ne parlano come della
+bevanda degli Dei.
+
+	|145-147.~  Or, di quelli, ^che anticamente poetaro~
+{v.139}, erano i due, che, fermi alla <riva>, stavano ascoltando:
+che pi@u naturale del rivolgersi di Dante, del |rivolgersi tutto~
+addietro, per vedere nei loro volti l'impressione delle parole
+della ^bella donna~ {v.43}?  E che pi@u spontaneo del loro riso? 
+Per essi, pi@u che per lui, erano state dette le parole.  Certo,
+quelli furon sogni; questa @e la verit@a maravigliosamente bella. 
+-- |L'ultimo costrutto~: l'ultimo periodo.

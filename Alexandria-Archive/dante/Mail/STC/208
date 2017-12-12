@@ -1,0 +1,55 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id KAA09686
+	for <steve@avalon.dartmouth.edu>; Sun, 17 Oct 1999 10:05:02 -0400 (EDT)
+Received: from Princeton.EDU (outbound2.Princeton.EDU [128.112.129.120])
+	by mailhub.dartmouth.edu (8.9.3+DND/8.9.3) with ESMTP id KAA16260
+	for <Steve.Campbell@dartmouth.edu>; Sun, 17 Oct 1999 10:05:02 -0400 (EDT)
+Received: from mailserver.Princeton.EDU (mailserver.Princeton.EDU [128.112.129.65])
+	by Princeton.EDU (8.9.3/8.9.3) with ESMTP id KAA18986
+	for <Steve.Campbell@dartmouth.edu>; Sun, 17 Oct 1999 10:05:01 -0400 (EDT)
+Received: from princeton.edu (comserv7-dialup24.Princeton.EDU [128.112.71.24])
+	by mailserver.Princeton.EDU (8.9.3/8.9.3) with ESMTP id KAA08988;
+	Sun, 17 Oct 1999 10:05:00 -0400 (EDT)
+Message-ID: <3809D62E.9201DC82@princeton.edu>
+Date: Sun, 17 Oct 1999 09:59:10 -0400
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.5 [en] (Win95; I)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>, kirk <kirk@Princeton.EDU>
+Subject: PDP/DDP problem
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Hi, Steve.   One of my students reported problems using
+PDP to connect with DDP. Here is Kirk Alexander's
+response after he checked out the situation.  Can you
+shed light on what happened?
+
+> > Looks like we have a problem on our hands with the DDP search.
+> > The folks at dartmouth have changed their search engine and
+> > the syntax we are transmitting is no longer valid.  I will
+> > look at it a bit and try and figure out what changed but
+> > we may need some inside help on this one.  If I need to
+> > fire off a question or two to whom should they be directed
+> > now (an email would help).
+> > Thanks,
+> > Kirk
+> > --
+> > Kirk Alexander,
+> > Manager
+> > Multimedia Engineering Computation Atelier (MECA)
+> > School of Engineering and Applied Science
+> > E-430 Engineering Quadrangle
+> > Princeton University
+> > Princeton, N.J. 08544-5263
+> > (609) 258-5420 (tel)
+> > (609) 258-6744 (fax)
+> > kirk@princeton.edu (email)
+> > http://www.princeton.edu/~kirk
+
+
+All the best, Bob

@@ -1,0 +1,588 @@
+	|SUMMARIUM.~  In capitulo decimoctavo, quod incipit:
+^Locus est in Inferno dictus~, sive vocatus, ^Malibolgie~, auctor
+describit penam duplicis fraudis, scilicet lenocinii et
+blandimenti, quia sunt iste due species plurimum similes.  Primo
+describit istos decem circulos, sive Malibolgias, in quos
+dividitur iste secundus circulus Inferni murati, qui in ordine
+totali est septimus circulus quantum ad totum Infernum.  Istud
+tamen vocabulum Malibolgie nunquam inveni in aliquo auctore, nisi
+in isto.  Iste locus est concavus et capax multum, et est una
+magna vallis que continet in se decem valles, sicut circulus
+superior violentorum continebat tres circulectos.  Vocat tales
+decem valles auctor Malibolgias, quia sunt replete valde malis
+spiritibus.  Ista vallis cum omnibus convallibus circuit unum
+putheum profundissimum, de quo dicetur postea, quando erit
+expedita materia istarum decem fraudum.  De una valle istarum
+decem ad aliam est unus pons, per quem transitur de una ad aliam. 
+^Ora~, in isto loco descendentes de dorso Gerionis ad manum
+dexteram, auctor vidit nova tormenta, novos tormentatores et
+novos tormentatos.  Ipsi autem, scilicet Virgilius et auctor,
+ibant ad manum sinistram, sicut continue itur per Infernum.  Sed
+ad manum dexteram erant tormenta.  Tormentum, sive pena, lenonum
+est tale.  Nam per istam primam vallem, sive primam Malibolgiam,
+in fundo currunt quasi innumerabiles anime nude, post quas
+currunt demones cornuti cum flagellis in manibus, flagellantes
+ipsas animas lenonum, et percutientes tam fortiter, quod nulla
+illarum, recepto uno ictu, expectat secundum; sed quelibet fugit. 
+Et inter illas animas auctor recognovit animam Venedici
+Caccianimici de Bononia, qui fuit maximus leno, in tantum quod
+propriam sororem, nomine Guisolambellam, conduxit ad faciendum
+voluntatem marchionis Ferrarie et ad consentiendum ipsi marchioni
+Ferrariensi.  Et in eodem capitulo ponit penam blandientium, que
+pena talis est.  Nam in fundo vallis, in aliqua parte, erant
+stercora fetentia et putredines fetidissime, in quibus
+involvuntur isti blandientes.  Inter lenones recognovit etiam
+Iasonem, qui decepit Ysiphilem.  Inter blanditores invenit et
+recognovit Allexium de Interminellis de Lucca, et Taydem
+meretricem, etc.
+
+	|Proemio.~  ^Loco @e in Inferno.  Locus est in Inferno~:
+istud est decimumoctavum capitulum huius Inferni, in quo auctor
+ad speculationem decem vallium, sive decem Malibolgiarum,
+accedit, in quibus puniuntur decem species fraudis in generali;
+tamen etiam in eo tractatur de prima specie fraudis, scilicet de
+lenocinio, sive de ruffiania.  Quod quidem capitulum dividitur in
+quatuor partes.  In quarum prima describit in generali totum
+circulum decem vallium, et situm et penam generalem prime speciei
+fraudisque levior est, saltem minus gravis.
+
+In secunda, que incipit ibi:
+
+     Mentre io;
+     Dum ego irem,
+
+facit mentionem de uno spiritu moderno bononiensi.
+
+In tertia, que incipit ibi:
+
+     Io me raggiunsi;
+     Ego me reunivi,
+
+facit auctor mentionem de uno notabili spiritu antiquo, qui etiam
+fuit involutus in hoc vitio.
+
+In quarta parte, que incipit ibi:
+
+     Gi@a eravamo;
+     Iam eramus ubi strictus callis,
+
+tangit aliam speciem fraudis, adulationem scilicet.  Primo,
+igitur auctor vult describere circulum fraudis, sive
+fraudulentie, qui continet in se decem, quos auctor vocat
+Malibolgias.  Hoc vocabulum, Malibolgie, est proprie vocabulum
+auctoris, quia nunquam tale vocabulum in aliquo loco, nec in
+auctoribus poetis, nec in philosophis, inveni, nec in Chronicis,
+nec in sacra Scriptura.  Depingit auctor sic istum circulum
+fraudis, quod ipse contineat in se decem vallones circulares,
+sive circulos, vocatos Malibolgias, ita quod primus circulus
+istorum decem, continet secundum: secundus, tertium; tertius,
+quartum; quartus, quintum; et sic usque ad decem: et semper est
+latior maior; secundus, minor primo; tertius, minor secundo;
+quartus, minor tertio; quintus, minor quarto: et sic de aliis. 
+Postea quando devenitur ad decimum, tunc in medio eius, idest
+decimi, est unus putheus profundus, de quo, et de eius ordine,
+dicetur suo loco et tempore.  Demum de circulo in circulum, sive
+de vallone in vallonem, sive de Malibolgia in Malibolgiam, est
+unus pons, per quem itur de uno circulo in alium; et sic sunt
+decem circuli: ita oportet quod sint ad minus novem pontes ad
+transeundum.  Et ad describendum tales vallones, sive circulos,
+ponit auctor talem figuram.  Ymaginemur unum castrum in planitie,
+bene rotundum et muratum; et extra murum habeat, tale castrum,
+decem fossata, que circuant castrum.  Et de porta castri, super
+primum circulum, sive vallonem, sit unus pons; et sic, postea,
+sit alius pons de primo circulo ad secundum; et sic de secundo ad
+tertium; similiter de tertio ad quartum: ita quod a porta castri,
+procedendo usque ad ultimum circulum, sive vallonem, est quasi
+unus pons longus, qui transit omnes illos circulos, sive
+vallones.  Sic hic, in isto loco, ponit auctor.  Tunc sic ad
+textum.
+
+	|1-3.  Locus [est] Inferni, dictus Malibolgie, totus de
+petra et coloris ferrigni~, idest de ferro, sive ferrei, sicut
+circulus, qui in circulum volvit, idest continet in circum.  Iste
+locus est concavus, capax vascis Malibolgie, quia per
+excellentiam sunt male; idest sunt mali illi, qui in hiis
+cruciantur, quia maiores malefactores debent habere fortiores
+carceres et acerbiores penas.  Moraliter denotat difficultatem
+huius materie et duritiem eius.
+
+	|4-9.  In recto medio campi maligni vanegiat~ (idest
+vanus est) unus putheus largus et profundus, de quo suo loco et
+suo tempore dicetur ordo eius.  Ille circulus, qui remanet, ergo,
+est tondus, idest rotundus, inter putheum et pedem, idest
+principium, ripe dure, erat distinctus in decem valles in fundo.
+
+	|10-12.~  Nunc ponit comparationem talem, dicens:
+Qualiter ubi, pro custodia murorum, plures et plures fosse, idest
+fossata, cingunt, idest circumdant, castella, in partem, scilicet
+illa[m], ubi reddunt se minus secura, idest ubi facilius possent
+expugnari.
+
+	|13-18.~  Modo aptat comparationem ad propositum, dicens:
+Talem ymaginem hic faciebant illi, scilicet vallones.  Et sicut a
+talibus fortelitiis, ab ipsorum scioliis, idest portis, sive
+ianuis, ad ripam de foris sunt |ponticelli~, idest ponticuli,
+sive pontes parvi; ita ab ymo ripe, |roccie~, idest circuli,
+|scoli~, idest scopuli, movebantur, idest protendebantur, qui
+recidebant, idest pertransibant, argines et fossata usque ad
+putheum, qui truncat, idest dividit, et recolligit, idest
+readiungit; idest intercedit et readiungit.
+
+	|19-21.  In isto loco~: nunc continuat auctor finem
+capituli precedentis cum isto textu, dicens: In isto loco
+|scossi~, idest depositi, ab humeris Gerionis, invenimus nos: et
+poeta tenuit, idest ivit, ad sinistram; et ego retro ipsum me
+movi, idest secutus sum ipsum.
+
+	|22-27.~  Nunc auctor vult depingere et describere penam
+lenonum, que est talis.  Per vallem istam primam, dictam
+Malibolgiam, currunt velocissime anime lenonum, et diaboli
+cornuti cum flagellis ferreis currunt post eas, et percutiunt eas
+fortissime, et sepe continue sic demones flagellant tales animas. 
+Modo una pars vallis est a medio citra; alia pars a medio ultra:
+illa pars animarum, que deceperunt mulieres, faciendo lenocinium,
+causa suimet, vadit per unam partem; alia pars animarum, que
+deceperunt mulieres ad petitionem aliorum, vadit et currit per
+aliam partem.  Istud est vitium lenocinii.  Ponitur hic in isto
+primo circulo Malibolgiarum, quia est minus malum vitium, et
+tamen maioris culpe et verecundie; et loquitur hic auctor de
+Inferno morali.  Dat eis istam penam, que predicta est.  Ad manum
+dextram vidi novam pietam, idest compaxionem, idest vidi penam
+diversam ad aliis, novum tormentum et novos frustatores, idest
+tormentatores, de quibus prima bolgia erat repleta in fundo. 
+Erant nudi peccatores.  A medio citra veniebant versus vultum,
+scilicet nostrum; et ultra nobiscum, cum passibus maioribus,
+idest velocioribus.
+
+	|28-36.~  Cursum istorum describit per comparationem
+talem.  Pro qua intelligenda, nota, quod in millesimo
+trecentesimo fuit annus Iubilei, idest generalis remissionis; et
+tantus populus ivit Romam, quod erat difficile transire per
+pontem Sancti Petri.  Hic est notandum: per civitatem Rome
+transit et fluit unus pulcher et amenus fluvius, qui vocatur
+Tiberis, sive fluvius Tiberinus.  Hic fluvius antiquo tempore
+vocabatur Albula; sed quia postmodum suffocatus fuit in eo unus
+rex Albanus, vocatus Tiberinus, ideo sic fuit vocatus.  Vel
+aliter: in montibus, qui vocantur montes Cutuli, ubi oritur, sive
+nascitur, iste fluvius, sunt tres fontes, qui stant insimul
+propinqui, sic dispositi sicut unum T, idest sicut littera T; et
+quia fluit ab illis tribus fontibus, dicitur Tiberinus.  Modo
+super Tiberim fluvium est unus pulcherrimus pons, qui dicitur
+pons Sancti Petri; et in capite pontis est illud castrum, tam
+nobile, quod vocatur castrum Sancti Angeli, quia, tempore Sancti
+Gregorii pape, dum fuit et urgebat tam magna pestis, apparuit
+unus Angelus cum ense et vagina; et tunc castrum illud vocatum
+fuit castrum Sancti Angeli.  Modo tempore Iubilei, propter
+multitudinem transeuntium super pontem, multi cadebant de ponte. 
+Fuit facta una divisio pontis: fuit factus paries in medio
+pontis, dividens pontem per medium in longitudinem; ita quod illi
+[qui] descendebant de Roma, et volebant ire ad Sanctum Petrum,
+timebant vultum et faciem versus castrum Sancti Angeli; illi qui
+veniebant de burgo Sancti Petri, tenebant vultum et faciem versus
+montem Capitolii: nam, ultra pontem predictum, est burgum Sancti
+Petri, et est una bona civitas.  Iam iste describit iter istorum
+currentium, idest animarum istarum, per hanc vallem, sic: Sicut
+Romani, propter exercitum multum, idest multitudinem gentium, in
+anno Iubilei super pontem fecerunt, ad transeundum gentem, modum
+toltum, idest avisatum.  Illi qui volunt transire pontem, ab uno
+latere, |tutti~, idest omnes, habent frontem versus Castellum, et
+vadunt ad Sanctum Petrum; ab alia sponda, idest lateraliter,
+vadunt versus montem.  Citra et ultra, super saxum thetrum, idest
+obscurum, vidi demones cornutos, idest cornua habentes, cum
+magnis |ferzis~, idest flagellis ferreis, qui percutiebant
+crudeliter retro.  Demones cornuti, sunt illi, qui tentaverunt
+illos lenones, qui fuerunt causa, quod mariti illarum, quas
+inducebant ad opus inhonestum, essent |cornuti.~  Nota, quod
+castrum, de quo dictum est, fuit factum fieri per Adrianum
+imperatorem et per Traianum; et sic usque ad tempus Beati
+Gregorii fuit vocatum castrum Adriani imperatoris.
+
+	|37-39.~  Admodo auctor exclamat truphatice contra
+lenones, dicens: Ay, quomodo faciebant eos levare |berzas~, idest
+calcaneos, ad primas percussiones!  Iam nemo secundas expectabat,
+nec tertias.  Vult dicere auctor, quod isti demones tam atrociter
+percutiebant istos lenones, quod quisquis erat semel percussus,
+tam velociter currebat fugiendo, ut nunquam expectaret iterum
+percuti.
+
+	|40-45.  Mentre io andava.  Dum ego ibam~: ista est
+secunda pars huius capituli, in qua auctor tractat de uno spiritu
+moderno, qui fuit magnus leno.  Hic vocatus fuit Venedicus
+Caccianimicus.  Caccianimici est nomen magne domus de Bononia. 
+Fuit bononiensis miles, et magnus amicus Opizi, domini marchionis
+Ferrarie.  Hic dominus Venedicus Caccianimicus, bononiensis, unam
+habebat sororem carnalem, nomine Guisolambellam, qui propter
+excellentiam pulchritudinis, dicebatur antonomastice
+Guisolabella, de qua dominus Opizo, marchio Ferrarie, erat
+philocaptus.  Iste, ad complacendum marchioni, et propter donaria
+magna, que ipse marchio donavit isti domino Venedico, sic
+ordinavit, sicut leno miser, quod marchio habuit voluntatem suam
+et rem egit cum ista Guisolabella.  Hunc dominum Venedicum Dantes
+noverat Bononie, dum esset ibi scolaris.  Demum nota, quod super
+Bononiam est unus mons, super quem una ecclesia est Sancte Marie,
+que est in maxima devotione in populo bononiensi; super quem
+montem est unus locus, qui vocatur Salse, in quo campo solebant
+seppelliri illi, qui se suspendebant, et ubi seppelliebantur
+usurarii et excomunicati.  Et quando quis vellet improperare uni
+in Bononia, diceret: Utinam tu seppelliaris ad Salsas, idest in
+illo campo, etc.  Et tunc ad textum.  |Mentre, dum, ibant oculi
+mei, in uno obviaverunt~, idest unum viderunt; et ego subito
+dixi: Iam vidisse istum non sum ieiunus.  Idest, iam vidi istum
+(dum fuerunt simul sotii in scholis Bononie).  Ideo ad affigendum
+eum, idest ad recognoscendum figuram eius, pedes fixi, idest
+steti.  |Et dulcis dux meus restitit~, idest expectavit, et
+asensit quod aliquantulum retro irem, quia ille percussus ibat
+velociter.
+
+	|46-51.~  Fingit auctor, quod iste nolebat cognosci.  Per
+hoc notatur, quod hoc vitium est turpe et magne infamie et
+verecundie; ideo ille inclinabat faciem ad terram, ne auctor
+recognosceret eum.  Et ille frustatus, idest percussus, se celare
+credidit, dimictendo, idest inclinando, visum: sed modicum
+profuit sibi.  Multi credunt facere turpia multum occulte: quod
+tamen [non] evenit; ymo sepissime talia veniunt ad lucem.  Quare
+ego dixi: Tu qui oculos ad terram |gettas~, idest inclinas, si
+factiones, idest effigies, vel lineamenta, quas portas, non sunt
+false, Venedicus es tu Caccianimicus: sed qui te conducit ad sic
+pungentes Salsas? idest, quod vitium per peccatum commisisti tu,
+quod te conducat ad locum tantarum penarum et tanti obbrobrii,
+sicut sunt Salse?  De quibus satis dictum est.
+
+	|52-54.  Et ille michi~, supple dixit: Male libenter
+dico, supple quia verecundor; sed cogit me tua clara loquela
+(quia non loqueris velate, sed aperte, et video quod tu me
+nosti), que me facit subvenire, idest recordari, dummodo de mundo
+antiquo, idest quando eramus simul.
+
+	|55-57.  Ego fui ille~ (modo declarat quod fuit peccatum,
+quod conduxit eum huc), qui Guisolambellam, idest pulchram,
+conduxi ad faciendum voluntatem marchionis, idest ad
+consentiendum marchioni; qualiter sonet, dicatur, |sconcia~,
+idest turpis novella, idest turpe novum.  Nam, quia multi
+dixerunt variis modis, quomodo marchio Ferrarie habuit sororem
+meam, et egit rem cum ea, et commisit adulterium; aliqui dicunt,
+quod marchio venit Bononiam occulte, et intravit domum, et
+violentavit eam: sed quidquid dicatur, rei veritas est, quod fui
+conscius et leno, et induxi eam ad illud malum faciendum.  Novum
+non potest esse nisi turpe, quando dicitur de una nobili, quod
+commisit adulterium.
+
+	|58-59.~  Modo vult se excusare cum excusatione
+miserorum, dicendo: Ego [non] sum solus; sed quasi omnes de
+Bononia sumus lenones.
+
+	|60-63.~  Ad intelligendum textum sequentem, nota quod
+prope Bononiam, extra civitatem, per duo milliaria versus
+orientem, est unus parvus fluvius, qui vocatur Savona; alius
+similiter est versus occidentem, qui vocatur Renus de Bononia,
+qui etiam distat per duo milliaria versus Mutinam.  Inter istos
+duos fluvios est sita Bononia.  Secundo nota, quod |sipa~ est
+vocabulum proprie bononiense: ^sipa~, idest sic.  Quando
+Bononienses volunt dicere: Deus velit quod ego sim bonus, dicunt:
+^Sipa.~  Et est vocabulum valde usitatum in ydiomate bononiense;
+et sepissime, eundo per civitatem Bononie, audies homines et
+mulieres dicentes: ^Sipa.~  Modo vult ostendere iste dominus
+Venedicus, quot Bononienses lenones sint hic in isto loco,
+dicens: Et non solum ego hic ploro bononiensis; ymo iste locus
+est tam plenus, quod tot lingue non sunt nunc |apperse~, idest
+aperte, ad dicendum ^sipa~ inter Savonam et Renum; idest illum
+fluvium, qui est ultra Bononiam versus Romandiolam per duo
+milliaria, et Renum, idest alium fluvium, qui [est] citra
+Bononiam versus occidentem.  Idest: non sunt tot lingue, dicentes
+^sipa~ in civitate Bononie, quot Bononienses sunt hic in hoc
+loco.  Et dat causam, unde posset credere, dicens: Et si de hoc
+probationem, vel testimonium hoc queris, reduc tibi ad mentem
+nostrum avarum sinum.  Quasi velit dicere: Propter avaritiam
+sumus omnes Bononienses lenones.  Non sunt Bononienses avari; non
+pro certo; ymo sunt naturaliter prodigi, et propter
+prodigalitatem veniunt pauperes: et tunc forsan, commictunt talia
+vitia, etc., quia veniunt ad paupertatem; tunc, forte, propter
+paupertatem et donaria, que fiunt eis, aliquando commictunt hoc
+vitium lenocinii.  Et utinam non alibi!
+
+	|64-66.~  Sic loquendo, eum percussit unus demon de suo
+flagello, et dixit: Vade vias, ruffiane, idest leno: hic non sunt
+femine de |conio~, idest de denariis; idest, hic, in hoc loco,
+non sunt mulieres meretrices, que pro denariis, qui cuniantur,
+etc.
+
+	|67-69.  Io me ragiunsi.  Ego me reunivi~: hec est tertia
+pars huius capituli, in qua auctor tractat de lenonibus, qui
+conduxerunt feminas ad faciendum sibi ipsis lenonibus, et non
+aliis.  Adhuc non ascenderant aliquem de istis archubus, idest in
+pontibus; sed erant in ripa, que continet omnes bolgias.
+
+	|70-72.~ Ego me reunivi cum scorta mea, idest cum
+magistro meo: postea cum paucis passibus devenimus ubi unus
+scopulus de ripa exibat, satis leniter; illum, scilicet scopulum,
+|salivimus~, idest ascendimus.  Et versi ad dexteram super
+|scheggiam~, idest summitatem, idest super circulum, huius
+pontis, ab istis circulis, |cie[r]chiis~, qui circumdant totum,
+eternis, recessimus.
+
+	|73-81.~  Quando nos fuimus ubi |vaneggiat~, idest ubi
+est locus vacuus, quia sub ponte est locus vacuus deorsum, ad
+dandum passum, idest transitum |inferzatis~, idest percussis cum
+|ferza~, idest flagello, idest unde possunt transire illi qui
+percutiuntur, quia transeunt sub ponte, dux dixit: |Attende~,
+idest expecta, et fac quod |fegias~, idest, figas, visum in te de
+istis aliis male natis, idest dampnatis (quia omnes dampnati male
+sunt nati), quibus adhuc tu non vidisti faciem, idest quorum,
+quia ipsi nobiscum venerunt (quia, eundo, homo non videt eos qui
+se sequuntur): respice fixe eos.  A veteri ponte (quia a
+principio mundi fuit factus) respiciebam |tracciam~, idest turbam
+frustatam, que veniebat versus nos ab alia |banda~, idest parte,
+et quam |ferza~, idest flagellum, similter |scacciat~, idest
+expellit, sive fugere facit.
+
+	|82-99.~  Modo ponitur hic unus spiritus antiquus.  Hic
+spiritus fuit Iason, qui, audita fama de vellere aureo, quod erat
+in Cholchis (est enim una insula in Archipelago de numero
+Cicladarum, que vocatur Cholchis, in qua erat unus aries, qui
+faciebat vellus aureum), tunc Iason fecit fieri unam navem, et
+cum multis, scilicet cum Hercule, cum Theseo, et multis aliis
+probis viris, intravit mare, tendens versus Cholchis. 
+Transiverunt prope unam insulam, que vocatur Lenno (est etiam in
+Archipelago); in qua insula acciderunt ea, que infra scribuntur,
+que Statius scribit.  Illi homines de insula Lenno, ante
+dextructionem Troye, iverunt contra insulam Tracie et regem eius,
+et steterunt pugnantes bene per tres annos; quos sepe uxores
+eorum revocaverunt.  Nunquam voluerunt redire.  Ista[m]
+hystoria[m] de hiis, qui iverunt contra Traciam, Oratius bene
+ponit, hystoriam esse veram.  Poete tamen fingunt, quod isti
+homines de Lenno non volebant colere Venerem deam, sed colebant
+Martem.  Demum, post tres annos, redibant isti de Lenno victores. 
+Tunc Venus inspiravit omnibus mulieribus de Lenno, quia masculi
+spreverunt Venerem, ut venientes masculos et redeuntes victores
+interficerent omnes eos; et facto consilio, quelibet iuravit
+interficere suum maritum redeuntem, vel germanum, ita quod nullus
+masculus remaneret.  In quo consilio interfuit Ysiphile, filia
+regis Thoantis, regis Lenni, qui erat iam antiquus, quem Ysiphile
+promisit aliis mulieribus etiam interficere.  Et omnia que
+deliberaverunt, omnes fecerunt, preter Ysiphilem, que compassa
+patri, non interfecit eum.  Et quomodo mulieres interfecerunt
+omnes masculos?  Ecce: quia venientes et redeuntes cum victoria
+de Tracia susceperunt letanter, facientes solempnem cenam, dando
+eis optima vina et inebriaverunt eos; et tunc de nocte, sopitos
+sompno et vino, omnes interfecerunt.  Modo ista insula erat sine
+masculis; prope quam navigando Iason cum sotiis, applicuit ei
+insule Lenni.  Mulieres, videntes navem, et nullam aliam
+viderant, posuerunt se super muros civitatis ad propugnacula pro
+defensione: quod videns Iason, subito extraxit ramum ulive et
+ostendit signum pacis et amicitie.  Quod videntes mulieres,
+aperuerunt eis portas et intraverunt, et steterunt ibi diu, et
+quilibet habebat bonam amasiam.  Iason, qui erat filius regis,
+pulcherrimus corpore, astutus et prudens, strenuus in armis,
+recepit in amasiam Ysiphilem, filiam regis Thoantis, regis Lenni,
+qui disponsavit eam, et promisit sibi semper tenere in suam
+uxorem; et volens complere iter suum cum sotiis, dimictens
+Ysiphilem gravidam et pregnantem de duobus filiis, recessit inde,
+et applicuit ad Cholchis indulam pro vellere aureo acquirendo. 
+Tunc fuit ibi rex Cholchis, qui habebat filiam pulcherrimam,
+nomine Medeam, que erat litterata, prudens, incantatrix demonum,
+magica; noverat omnes virtutes erbarum, ut habetur in alia
+Tragedia Senece.  Hec Medea, viso Iasone, et audita fama eius,
+subito fuit philocapta de ipso Iasone, et habuit secretum
+colloquium cum eo, et dixit sibi: Tu vis vellus aureum?  Qui
+respondit, quod sic.  Tunc dixit Medea: Tu nunquam posses
+acquirere, nisi tu scires modum, per quem; sed si tu vis
+promictere michi recipere me in uxorem, ego docebo te viam, etc. 
+Iason promisit sibi omnia, que ipsa Medea petebat.  Tunc ipsa
+docuit eum, quomodo oportebat eum primo preliari cum uno maximo
+serpente; et illo devicto (quod erat magnus labor ad faciendum),
+tunc oportebit ipsum ire ad silvam, et capere duos tauros
+feroces, indomitos, et illos coniungere iugo, et cum aratro arare
+cum ipsis duobus tauris, et recipere dentes serpentis interfecti
+et seminare eos in terra arata; et subito de dentibus illis
+orirentur et nascerentur homines armati, feroces in armis; et cum
+quolibet illorum oportebat ipsum Iasonem pugnare et vincere omnes
+eos: quo facto, obtineret vellus aureum, et nullo modo aliter
+posset obtinere.  Et subiunxit: Et ego docebo cum carminibus meis
+et incantationibus sic et taliter facere, quod omnia succedent
+tibi ad nutum, si observaveris michi promissa.  Quod et fecit. 
+Omnibus feliciter expeditis, propter timorem patris Medee
+oportuit eos recedere occulte, et Medea portavit secum unum suum
+germanum parvunculum, octo annorum, hac de causa, dicens: Quia
+pater meus insequetur nos, ego interficiam hunc puerum germanum
+meum, et proiiciam frusta eius ad terram.  Pater meus, videns
+mortuum filium, vacabit circa planctum et sic nos fugiemus.  Et
+ita, sicut ipsa dixit, omnia evenerunt.  Tamen, intrantes in
+mari, navigaverunt, nec redierunt per insulam Lenni, ubi ipse
+Iason promiserat Ysiphile, quam dimiserat pregnantem; sed rediit
+ad Argos, ad civitatem suam, et habuit in uxorem istam Medeam, ex
+qua genuit quatuor filios: quam in processu temporis etiam
+decepit, volens accipere aliam uxorem, ut narrat septima Tragedia
+Senece.  Et sic Iason decepit Ysiphilem, et etiam decepit Medeam. 
+Hic in isto loco tormentatur, quia fuit maximus leno ad
+decipiendum feminas, et ad inducendum eas ad faciendum voluntatem
+eius.
+
+	Modo auctor describit Iasonem.  Et bonus magister, sine
+mea petitione, idest absque quod ego interrogarem eum, michi
+dixit: Intuere illum magnum, qui venit et propter dolorem non
+videtur quod lacrymam expandat: quantum aspectum regalem adhuc
+retinet!  Iason fuit rex Argos.  Ille est Iason, qui per cor et
+per sensum, idest corde audax, et prudens sensu, Colchis, idest
+insulam Colchis, de montone, idest vellere aureo, privavit, idest
+expoliavit.  Ipse transivit per insulam Lenni, postquam |ardite~,
+idest audaces, femine, |spietate~, idest pietate private, omnes
+masculos earum morti tradiderunt.  Ibi, cum signis ulive rami et
+cum verbis ornatis, Ysiphilem decepit (quia promisit eam tenere
+in uxorem, et impregnavit eam; quod non fecit); iuvenculam, que
+primitus omnes alias deceperat (quia promiserat interficere
+patrem suum, quem, pietate mota, non interficit) dimisit,
+scilicet Iason, hic, scilicet in Lenno insula, gravidam et solam:
+talis culpa ad tale martyrium ipsum condempnat; et etiam de Medea
+fit vindicta.  Cum ipso vadit qui a tali parte decepit.  Hec
+sufficiant de prima valle scire, et de illis quos in se
+|assannat~, idest commictunt tale vitium.
+
+	|100-105. Gi@a eravamo.  Iam eramus ibi~: ista est quarta
+pars huius capituli, in qua auctor vult tractare de adulatione et
+simul de lenocinio: et hoc facit artificiose, quia ex hoc
+notatur, quod sunt duo vitia turpia; ideo vult cito se expedire a
+blanditiis et lenocinio.  Hec duo vitia habent magnam affinitatem
+ad invicem: nec u[ll]ibi auctor utitur isto modo, quo utitur hic;
+ymo [de] diversis speciebus vitiorum facit diversa capitula: de
+duobus istis facit tantum unum, et ponit penam istorum
+adulatorum, que est.  Illa vallis est plena stercoribus
+fetidissimis, et in hiis stercoribus sunt isti adulatores
+involuti et submersi.  Ista vallis est plena lenonibus, idest
+ruffianis, ioculatoribus et meretricibus: quia comuniter lenones,
+ioculatores et meretrices sunt adulatores.  De meretricibus dicit
+Salomon: Ecce mulier ornatu meretricio, preparata ad capiendum
+animas; garrula et vaga; quietis impatiens; nec valens in domo
+consistere pedibus suis; nunc hic, nunc intus, nunc foris;
+apprensumque deosculatur iuvenem, et procaci vultu blanditur,
+dicens: Victimas pro salute [vovi], hodie reddidi vota mea,
+intexui funibus lectum meum, [stravi] tapeibus pictis ex Egipto:
+veni, inebriemur uberibus et fruamur cupitis amplexibus, donec
+illucescat dies.  Commune proverbium solet dicere, quod
+adulatores vendunt oleum, iuxta dictum Psalmi: Oleum autem
+peccatoris non impinguet caput meum.  Iste autem auctor vult,
+quod in turpiori materia involvantur adulatores quam in oleo,
+scilicet in stercore putrido.  Sequitur satis bene Salomonem
+dicentem: Omnis mulier fornicaria est illa, que luxuriatur
+blandiendo, inducendo homines ad luxuriandum.  Tunc ad textum. 
+|Iam eramus ubi strictus callis cum argine secundo~, idest cum
+aggere secundo, |se 'ncrocicchia~, idest connectitur, sive
+coniungitur, quia connectitur agger primus cum secundo propter
+pontem, qui procedit ab uno in alium aggerem, et facit de illo,
+idest aggere, ad unum alium spatulas, idest substentamentum.  Hic
+sensimus gentem, que |s'imiccat~, idest planimode dolet, quia non
+emictit vocem expressam, idest altam, in altera bolgia, et que
+cum |muso~, idest vultu, |scuffat~, idest sufflat, sicut facit
+porcus quando sufflat, in ceno tenendo |musum~, idest os in
+voluptatibus.  Et semet cum palmis, idest manuum, |picchat~,
+idest sonat, sive pulsat.  Blanditie adulantium fiunt cum muso,
+idest ore.
+
+	|106-108.  Ripe erant grommate~, idest accasate.  Grumma
+est illa pellicula, quam producit vinum in dolio, quando diu
+stetit in ipso, sicut grumma circum circa dolium ad intra stat. 
+Ita stabant iste ripe; quia sicut vinum producit illam grummam;
+ita alitus, idest flatus, qui ascendit quasi fumus de stercore,
+producit illam brummam in ripis.  |De una muffa~: muffa proprie
+est, quando in doliis, maxime in quibus stetit aqua, nascitur
+quasi una barba de pilis albis, et putridum odorem generat ad
+nasum. |Propter alitum~, idest fumum ascendentem de deorsum ad
+superius, |qui ibi s'appastat~, idest per modum paste se
+coniungit.  |Que cum oculis et naso faciebat zuffam~, idest
+rissam et guerram; quia ipsa muffa erat ingrata, displicibilis et
+orribilis, tam sensui visus, quam naso, idest sensui olfatus.
+
+	|109-111.~  Fundus est cupus, idest profundus, ita quod
+non sufficiat ivi ad videndum, nisi ascendatur deorsum arcus. 
+Ecce quod adulatio est cupa et profunda, quia semper tendit ad
+deceptionem in fine; ideo, qui vult cavere se a deceptionibus,
+oportet quod ascendat dorsum, idest ad summitatem; quod cognoscat
+ad quid tales blanditie porriguntur.  Sicut hic oportebat
+ascendere ad summitatem arcus propter clare videre desuptus,
+idest que deorsum erant, ubi scopulus plus |superstat.~
+
+	|112-114.~  Huc venimus, et hinc deorsum in fossum, idest
+fossatum, vidi gentem |atufactam~, idest submersam in uno
+stercore, quod ab humanis privatis, idest latrynis, videbatur
+motum, idest portatum.  Stercus hominis est fetidius quasi omni
+alio stercore; ideo signanter dixit: ab humanis latrynis. 
+Preterea non est aliquod animal, faciens blanditias et
+adulationes, nisi homo.
+
+	|115-126.~  Modo vult facere mentionem de uno spiritu
+moderno, qui fuit de Lucca, et de una meretrice maxima.  Primus
+spiritus fuit dominus Allexius de Interminellis, de nobili domo
+de Lucca, de qua domo fuit ille probus homo Castrutius.  Iste
+dominus Allexius de Interminellis fuit adeo involutus in vitio
+adulationis, quod omnes urgebat, idest, adulando, decipiebat; quo
+nemo fuit magis vel maior adulator.  Iste in hoc stercore est ita
+submersus cum capite et involutus, et suum caput est circumdatum
+stercore, quod homo qui videret eum, non cognosceret, si esset
+clericus vel laycus, idest si haberet clericam, vel non, quia
+caput cum capillis est totum plenum stercore.  Et dum illuc cum
+oculo perquiro, idest contemplor, quem possem hic locare,
+occurrit fantasie mee.  Vidi unum cum capite sic de stercore
+|lordum~, idest fedatum, qui non apparebat si erat laycus, vel
+clericus, idest, si erat capillatus, vel non.  Ille michi
+|sgridavit~, idest clamorose dixit: Quare tu es ita ingordus,
+idest avidus, respicere plus me, quam alios fedatos, |brutti?~ 
+Et ego illi: Quia, si bene recordor, iam vidi te cum capillis
+|asciutis~, idest siccis; et es Allexius de Interminellis de
+Lucca; ideo te |adocchio~, idest te intueor, plusquam alius
+omnes.  Et ille, scilicet Allexius, tunc, idest dixit,
+percutiendo sibi |zuccam~, idest caput: Huc me submerserunt
+adulationes, unde nunquam habui linguam |stuccam~, idest satiam:
+idest nunquam fui satius, sive satiatus, de blanditiis, quibus
+semper usus fui.
+
+	|127-136.~  Et hiis dictis, prope hec dixit: Fac ut
+|pingas~, michi dixit, aliquantulum visum plus ante, idest
+intuearis ulterius longius, sic, idest in tantum, quod faciem
+bene cum oculis attingas illius |sozze~, idest turpis,
+escapillate famule, idest habentis capillos incompositos,
+solutos, deturpatos, stercore involutos, quia ipsam se
+|sgriffat~, idest, dilacerat cum ungulis merdosis, idest
+stercorizatis; et nunc se |accosciat~, idest restringit, sedendo;
+et nunc in pedibus stante, idest stando.  Iste est secundus
+spiritus, de quo auctor hic facit mentionem.  Hic spiritus fuit
+una speciosissima mulier Thebana, idest de Thebis, que fuit adeo
+pulchra, quod de eius pulchritudine omnes admirabantur, et
+plurimi amore ipsius capiebantur.  De ista femina scribit
+Valerius Maximus, et etiam Terentius in secundo suo libro, qui
+vocatur Eunuchus.  Dicit Valerius quod propter pulchritudinem
+istius mulieris, que vocabatur Thays, Demostenes, tam sapiens
+homo, ivit ad domum istius femine, et in ostio invenit servam
+ipsius Thaydis, que dixit Demosteni: Quid queris?  Qui dixit:
+Volo concubere cum domina tua.  Tunc famula retulit Thaydi domine
+sue, verba Demostenis.  Cui Thays: Vade, et dic sibi, quod sum
+contenta; sed oportet quod solvat centum talenta.  Sic retulit
+famula Demosteni.  Tunc Demostenes: Nolo unquam emere tanti
+penitere; idest nolo tantum expendere, nec tantum pretium dare,
+pro uno penitere.  Quasi dicens: Si hanc rem egero, oportebit me
+penitere de malo acto perpetrato: ideo nolo emere illud penitere
+tanto pretio.  Terentius vero, in Eunucho, idest in secundo suo
+libro, qui vocatur Eunuchus, dicit quod hec Thays, meretrix
+Thebana, habebat duos amasios, idest dilectores; et ipsa illos
+diligebat, propter donaria que isti duo largiebantur sibi Thaydi. 
+Horum unus vocabatur Fedria; alter vocabatur Traso.  Videbatur
+etenim Trasoni, quod Fedria plus amaretur a Thayde quam ipse. 
+Cogitavit facere unum magnum donum ipsi Thaydi, ad removendum eam
+a tam intenso amore, quo videbatur diligere Fedriam; et dixit
+iste Traso Thaydi: Si vis me perfecte diligere, et plusquam
+Fedriam, donabo tibi unam pulchram puellam virginem.  Dixit: Si
+hoc donum feceris michi, te plusquam Fedriam diligam.  Et tunc
+Traso vocavit unum suum amicum, maximum adulatorem, qui vocabatur
+Gnatus, cui tradidit istam virginem, dices: Vide, amice; hac vice
+servias michi: vade cum tua pulchra et ornata loquela, et duc
+hanc virginem tecum; et ex parte mea presenta, dona, et da, eam
+Thaydi, et interroga eam, si propter hoc donum habeo gratiam
+magnam coram ea, et reporta.  Hec omnia fecit Gnatus.  Demum
+dixit: Bene, Thays, habet ne Traso gratiam apud te magnam propter
+donum?  Respondit illa: Nedum magnam, sed maximam; maximas et
+ingentes gratias habet Traso apud me.  Propter hec ultima verba
+dicit textus: Habeo ego gratias apud te magnas?  Ymo mirabiles. 
+Tunc ad textum: Thays est meretrix, que respondidit drudo suo,
+idest lenoni, scilicet Gnato, quando dixit, scilicet ex parte
+Trasonis: Habeo gratias apud te magnas?  Ymo mirabiles, idest
+respondit.  Et ex hinc sint nostre |viste~, idest visiones,
+|satie~, idest simus saturi et bene satiati.  De ista materia
+vidisse illa que vidimus, iam satis est.

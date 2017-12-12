@@ -1,0 +1,8 @@
+#! /bin/sh
+
+# Unlock anonymous logins.  Run this from cron late at night.
+
+BRSConfig=/usr/lib/brssearch6.0
+BRSLOCK=/1g/BRS6.0/Bin/brslock
+
+$BRSLOCK -user `$BRSLOCK -report | grep DANT | awk '{print $1}'`

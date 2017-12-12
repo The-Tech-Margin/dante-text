@@ -1,0 +1,966 @@
+|PARADISO CANTO 10~
+
+        |Proemio.~  ^Guardando nel suo Figlio~ ec.  Questo @e lo canto 
+X\, nel quale l'autore nostro finge ch'elli si trovasse sallito al 
+quarto pianeto\, cio@e al Sole\, e dentro in esso.  E dividesi 
+principalmente in due parti: imper@o che prima finge come si trov@o 
+entrato nel quarto pianeto\, cio@e nel Sole\, e come vi trov@o molti 
+beati spiriti; nella seconda parte\, che ser@a la seconda lezione\, 
+finge come uno di quelli beati spiriti entr@o a parlamento con lui e 
+dimostrogli e nominogli molti altri beati spiriti\, et incominciasi 
+quine: ^Poi s@i cantando~ ec.  La prima\, che sar@a la prima lezione\, 
+si divide in sei parti: imper@o che prima l'autore induce lo lettore a 
+considerare lo moto uniforme del primo mobile e di tutte le spere e lo 
+moto disforme dei pianeti\, laudando la bont@a infinita del creatore che 
+cos@i ordin@o ogni cosa; nella seconda parte induce lo lettore a 
+considerare lo luogo nel quale lo moto diritto dell'ottava spera e 'l 
+moto obliquo dei pianeti si perquoteno et intersecansi\, quine: ^Vedi 
+come da indi~ ec.; nella terza descrive lo tempo\, et incominciasi 
+quine: ^Lo ministro maggior~ ec.; nella quarta parte finge come Beatrice 
+divent@o nella spera del Sole pi@u rilucente che 'l Sole\, come erano li 
+spiriti che in quella spera erano\, et incominciasi quine: ^O Beatrice\, 
+quella che si scorge~ ec.; nella quinta parte finge che Beatrice lo 
+incitasse a ringraziare Iddio che l'avea levato al quarto pianeto\, et 
+incominciasi quine: ^E Beatrice cominci@o~; ec.\, nella sesta parte 
+finge come molti di quelli beati spiriti facessono cerchio intorno a 
+loro\, et incominciasi quine: ^Io viddi pi@u fulgor~ ec.  Divisa la 
+lezione\, ora @e da vedere lo testo co l'esposizione litterale\, 
+allegorica e morale.
+
+        |1-12.~  In questi quattro ternari lo nostro autore finge come 
+levato nel quarto pianeto\, cio@e nel Sole\, egli si meravigli@o 
+dell'ordine che Iddio @a posto nel moto del cielo uniforme\, e del moto 
+erratico dei pianeti\, e per@o induce lo lettore a considerare quel 
+medesimo\, commendando prima la divina potenzia\, sapienzia e clemenzia 
+che ci@o @ae fatto\, dicendo cos@i: O lettore\, vuoi tu sapere come 
+Iddio fece questa composizione mondana cos@i ordinata?  Io tel dir@o: Tu 
+dei sapere che la divina essenzia @e indistinta in tre parti et in tre 
+persone\, cio@e Padre\, Figliuolo e Spirito Santo\, sicch@e sono tre 
+persone per numero distinte e divise; ma una @e la essenzia di tutte e 
+tre et una divinit@a\, sicch@e tre persone sono una sustanzia et una 
+divinit@a; e bench@e al Padre s'attribuisca la potenzia\, al Figliuolo 
+la sapienzia\, et allo Spirito Santo la clemenzia\, l'opere de la 
+Trinit@a sono individue: imper@o che cos@i @e onnipotente lo Figliuolo 
+come lo Padre\, e lo Spirito Santo come lo Padre e lo Figliuolo\, e 
+cos@i somma sapienzia @e lo Padre e lo Spirito Santo come 'l Figliuolo\, 
+e cos@i @e somma clemenzia lo Padre e lo Figliuolo\, come @e lo Spirito 
+Santo.  Questa Divina Essenzia che @e eterna\, quando li piacque\, cre@o 
+di niente la prima materia\, e quando volse\, la cre@o in quella forma 
+che @e\, et a questa creazione furno tutte le dette tre persone; cio@e 
+Padre\, Figliuolo e Spirito Santo: imper@o che vi fu l'onnipotenzia del 
+Padre\, la sapienzia del Figliuolo\, e la clemenzia dello Spirito Santo: 
+per@o che Iddio mosso dalla sua bont@a\, volendo participare lo suo bene 
+co la creatura\, cre@o e fece questa composizione con tanto ordine\, che 
+@e impossibile a dire et immaginare.  E cos@i appare che ci 
+concorresseno l'opere della Trinit@a\, cio@e la potenzia del Padre in 
+quanto cre@o del niente; la sapienzia del Figliuolo in quanto redusse in 
+forma cos@i bella; la clemenzia dello Spirito Santo\, in quanto si mosse 
+per sua somma bont@a\, e questo tocca l'autore nel testo\, dicendo: ^Lo 
+pri
+mo et ineffabile Valore~; cio@e Iddio padre\, lo quale @e principio 
+senza principio: imper@o che da lui @e ogni cosa\, et egli @e da nullo\, 
+^et~ @e ^ineffabile~: imper@o che la sua natura @e s@i alta\, che non si 
+pu@o dire\, n@e pensare per la bassezza del nostro intelletto\, e ben 
+dice ^Valore~: imper@o che ogni cosa pu@o\, ^Guardando nel suo Figlio~; 
+cio@e ponendo mente nel suo Figliuolo\, cio@e la divina potenzia che @e 
+attribuita al Padre\, quando li piacque\, ragguard@o nella sua increata 
+sapienzia che @e attribuita al Figliuolo\, ^co l'amore~; cio@e colla sua 
+perfetta carit@a che @e attribuita allo Spirito Santo; e per@o adiunge: 
+^Che l'uno e l'altro eternalmente spira~; cio@e lo quale amore lo Padre 
+e lo Figliuolo sempre da s@e spira\, cio@e produce: per@o che lo Spirito 
+Santo sempre procede dal Padre e dal Figliuolo\, dice ^eternalmente~: 
+imper@o che tale produzione fue ab eterno.  E per questo d@a ad 
+intendere che a la creazione della creatura fu la potenzia del Padre\, 
+la sapienzia del Figliuolo\, e l'amore dello Spirito Santo\, sicch@e 
+tutte e tre le persone divine vi concorseno: imper@o che s@i grande 
+cosa\, come @e lo mondo\, non si serebbe potuto fare di niente\, se non 
+da chi fusse stato onnipotente e non si sarebbe fatto con tanto ordine 
+se non avesse avuto perfetta sapienzia\, e non l'arebbe fatto se a ci@o 
+non si fusse mosso per sua infinita carit@a e benivolenzia; e per@o dice 
+Boezio nel terzo della Filosofica Consolazione: ^Quem non externae 
+pepulerunt fingere causae Materiae fluitantis opus\, verum insita summi 
+Forma boni\, livore carens~.  — E per@o dice l'autore che la Divina 
+Potenzia\, guardando ne la sapienzia del Figliuolo co l'amore dello 
+Spirito Santo\, che non @e altro a dire se non che Iddio quando volse\, 
+mosso da niuna cagione se non da la sua somma et infinita bont@a\, fece 
+lo mondo cos@i ordinato e cos@i perfetto\, che nulla ci manca e nulla ci 
+si potrebbe iungere che non guastasse lo fatto; e per@o dice: ^Con 
+tanto~; cio@e con s@i grande\, ^ordine fe~; cio@e con ordine incompr
+ensibile et inenarrabile\, e qui si dimostra la sapienzia sua\, ^Quanto 
+per mente o per occhio si gira~; cio@e tutto ci@o che per mente umana si 
+pu@o pensare del mondo: imper@o che anco n'@e pi@u a che la mente non 
+adiunge e co l'occhio non pu@o vedere: imper@o che anco tutto non si 
+vede co l'occhio corporale cioe che si vede coll'occhio mentale\, ^che 
+esser non puote Senza gustar di lui~; cio@e senza assaggiare di Dio\, 
+^chi~; cio@e colui lo quale\, ^ci@o~; cio@e quello del mondo\, che per 
+occhio si pu@o vedere e per mente comprendere\, ^rimira~; cio@e ripensa 
+co la mente e riguarda co l'occhio: imper@o che per le cose create si 
+cognosce lo creatore\, poich@e cos@i @e.  ^Leva dunque\, Lettor~; ecco 
+che conchiudendo invita lo lettore a la contemplazione del moto dei 
+cieli\, dove si vede l'ordine che Iddio @a dato a la natura naturata\, 
+^a l'alte rote~; cio@e dei cieli\, ^Meco la vista~; cio@e con me Dante 
+lo tuo vedere mentale\, ^dietro a quella parte~; ecco che lo ristringe a 
+quella parte che vuole\, cio@e a quella parte del Zodiaco che si chiama 
+Aries\, ^Dove~; cio@e ne la qual parte\, ^l'un moto~; cio@e del primo 
+mobile che @e diritto\, ^e l'altro~; cio@e moto erratico de li pianeti 
+che @e obliquo\, ^s@e percuote~: imper@o che l'obliquo dei pianeti 
+perquote lo moto ritto dell'ottava spera in due punti oppositi; cio@e al 
+punto che @e in su l'Equatore in mezzo tra la fine di Pisces e la 
+incominciata d'Aries\, et a l'opposito che @e ancora nella parte 
+opposita dell'Equatore in mezzo tra Virgo e Libra: di questo cerchio\, 
+che si chiama Equatore\, @e stato detto di sopra.  E quando li pianeti 
+sono a quelli due punti\, allora girano per lo mezzo insieme col 
+movimento diritto del cielo\, usciti fuora di quelli; girano fuora del 
+mezzo o pi@u su o pi@u gi@u\, secondo ch'elli sono.  E quando lo Sole @e 
+in quelli due punti\, allora @e pari lo d@i co la notte come @e stato 
+dichiarato nelle parti precedenti; ma qui intende di quel punto che @e 
+tra Pisces et Aries: per@o che quinde cominci@o lo moto dei pianeti\, 
+quando Id
+dio fece lo mondo.  E dice che ragguardi ^a quella parte~\, non a quel 
+punto: imper@o che lo Sole non era ne l'entrata d'Aries; ma era ito 
+alquanti gradi: imper@o che erano passati pi@u giorni che lo Sole era 
+intrato in Ariete\, quando finge che cercasse lo paradiso come @e detto 
+di sopra.  ^E l@i~; cio@e et in quel luogo dei detti due pianeti\, 
+^comincia~; cio@e tu lettore\, ^a vageggiar ne l'arte~; cio@e nella 
+revoluzione dei cieli\, che @e l'arte e l'esercizio che fanno 
+ordinariamente li cieli\, secondo che Iddio gli @a costretti: col suo 
+ordine e col suo girare mandano gi@u le sue influenzie\, ^Di quel 
+Maestro~; cio@e d'Iddio che @e sommo maestro\, ^che~; cio@e lo quale 
+maestro\, ^dentro a s@e l'ama~; cio@e nella mente sua: imper@o che nella 
+mente divina @e l'idea\, cio@e la forma di tutte le cose create e che 
+sono a creare\, e l'esemplare onde si formano tutte le cose\, siccome 
+dice Boezio nel preallegato luogo: ^Tu cuncta superno Ducis ab exemplo\, 
+pulchrum pulcherrimus ipse mundum mente gerens\, similique in imagine 
+formans~ ec.  — ^Tanto~; cio@e ama Iddio l'arte che fa la natura 
+naturata nella sua mente divina\, cio@e esemplare\, unde si pigliano le 
+forme di tutte le cose create e che sono a creare\, lo quale @e nella 
+detta Mente Divina\, ^che mai da le'~; cio@e da la detta arte 
+esemplare\, ^l'occhio~; cio@e la sua intelligenzia comprendente ogni 
+cosa: l'occhio d'Iddio @e la intelligenzia d'Iddio\, ^non parte~; cio@e 
+non muove n@e sepera: Iddio nella sua mente ragguarda sempre: imper@o 
+che sempre s@e medesimo intende et in s@e vede ogni cosa: Iddio non 
+apprende suo sapere da sensato come fanno gli uomini; ma da la sua mente 
+nella quale sono le forme di tutte le cose che sono state\, sono e 
+saranno; et in essa ragguardando co la sua intelligenzia infinita\, ogni 
+cosa vede et ogni cosa fa o immediatamente o mediatamente\, come @e 
+stato detto di sopra\, che la creazione de l'anime umane\, la loro 
+beatificazione Iddio fa senza mezzo\, l'altre cose per mezzo degli 
+angeli e dei corpi celesti e della natura tut
+ta obediente a lui; ne le quali cose egli @ane posto virt@u informativa 
+a ciascuno\, secondo lo suo essere\, e di questo @e stato detto di 
+sopra.  Et a dichiaragione di quello che @e stato detto de l'Astrologia 
+debbiamo sapere\, come @e stato detto altra volta\, gli Astrologi diceno 
+l'ottava spera divisa tutta in due met@a per uno cerchio che lo chiamano 
+Equatore\, sicch@e l'una met@a @e in verso lo polo artico\, e l'altra in 
+verso l'antartico; e di lungi da quello per gradi 24 diceno essere uno 
+cerchio in verso l'artico lo quale chiamano Tropico estivale; e cos@i in 
+verso l'antartico da la parte opposita di lungi dal detto Equatore per 
+gradi 24 diceno essere uno cerchio lo quale chiamano Tropico iemale e 
+diceno che @e uno cerchio largo gradi 12\, lo quale chiamano Zodiaco che 
+cinge lo cielo da l'uno Tropico all'altro per traverso\, s@i che l'una 
+parte tocca lo Tropico estivale\, e l'altra lo Tropico iemale\, e questo 
+interseca l'Equatore in due punti oppositi\, l'uno in verso l'oriente e 
+l'altro in verso l'occidente.  Et in questo Zodiaco sono li 12 segni; 
+Aries\, Taurus\, Gemini ec.; e sotto questo Zodiaco @e la via dei 
+pianeti\, sicch@e mai non esceno di quello\, sicch@e lo Sole sempre va 
+per lo mezzo de la sua latitudine per la linea elittica\, s@i che sei 
+gradi sono di verso l'una estremit@a e sei in verso l'altra\, e la Luna 
+cerca col suo moto tutti questi dodici gradi che sono nella latitudine 
+del Zodiaco da l'uno canto a l'altro; e cos@i gli altri pianeti vanno 
+sempre sotto lo detto Zodiaco tra l'uno canto e l'altro\, bench@e 
+alquanti Astrologi diceno che Venus n'esce fuora uno grado\, adunqua la 
+via de' pianeti @e dall'uno Tropico all'altro.  Et incominciano gli 
+Astrologi lo moto dei pianeti dall'Equatore da quel punto che @e in 
+mezzo tra Pisces et Aries: imper@o che quinde incominci@o lo moto de' 
+pianeti quando Iddio fece lo mondo e vanno in verso lo Tropico estivale 
+di segno in segno\, sicch@e quando lo Sole entra in Aries\, che @e 
+presso al mezzo di marzo\, allora dice incominciare l'anno; e d'Aries 
+passa in Tauro in 30 d@i\, come ogni segno @e 30 gradi; e poi di Tauro 
+in Gemini\, et all'ultimo grado di Gemini @e iunto al Tropico estivale\, 
+et allora @e lo maggiore d@i e la minore notte di tutto l'anno; poi 
+entra in Cancro\, et incomincia a scendere; e di Cancro in Leone\, e di 
+Leone in Vergine\, e cos@i @e a l'ultimo grado di Vergine tornato a 
+l'Equatore\, et @e pari lo d@i co la notte; poi entra in Libra et 
+incomincia a mancare lo d@i e crescere le notti; poi di Libra in 
+Scorpione; e di Scorpione in Sagittario\, et a l'ultimo di Sagittario @e 
+iunto al Tropico iemale\, et @e la maggiore notte dell'anno e lo minore 
+d@i; poi entra in Capricorno\, et incominciano a mancare le notti et a 
+crescere li d@i; e di Capricorno in Aquario; e d'Aquario in Pisces\, et 
+a l'ultimo grado di Pisces @e tornato a l'Equatore\, et @e pari lo d@i 
+co la notte; e poi incomincia da capo quando entra in Aries a crescere 
+lo d@i e mancare la notte\, et incominciasi la prima parte dell'anno\, 
+cio@e la primavera\, e cos@i vanno gli altri pianeti.  E per questo 
+appare che lo moto dei pianeti @e attraverso al moto del primo mobile 
+che si gira in 24 ore\, e cos@i fa girare l'ottava spera et ogni suo 
+contento\, et anco attraversa lo moto dell'ottava spera che gira 
+incontro al primo mobile in 100 anni uno grado.  E questo @e quello che 
+l'autore @ae dimostrato nella parte detta di sopra\, e che dir@a 
+appresso per descrivere lo tempo\, cio@e che lo Sole\, quando si trov@o 
+sallito in esso\, era in Ariete alquanti gradi; e cos@i appare che fusse 
+di marzo quando incominci@o ad avere questo pensieri.  E sopra 
+l'esquisizioni dello inferno finge che stesse due notti et uno d@i\, e 
+sopra l'esquisizioni del purgatorio tre notti e tre d@i\, e sopra 
+l'esquisizioni dei cieli e del paradiso non assegna tempo determinato: 
+per@o che l'ombra della terra non adiunge se non infine al cielo di 
+Venere co la sua punta\, et insin quine salitte uno d@i: da inde in su 
+non pu@o essere notte.
+
+        |13-27.~  In questi cinque ternari lo nostro autore finge\, come 
+@e detto\, come tornato a scrivere quello che avea veduto montando al 
+cielo del quarto pianeto e nel corpo di quel pianeto\, cio@e del Sole\, 
+in prima volendo descrivere lo tempo ponesse una esortazione al lettore 
+che levasse la mente a considerare la potenzia\, sapienzia e la 
+clemenzia d'Iddio nelle sue creature e massimamente nei cieli li quali 
+elli fece s@i belli e con tanto ordine e con tanto effetto nelle cose di 
+gi@u\, continuando la detta esortazione adiungesse alcune belle 
+sentenzie d'Astrologia e ritorn@o a la materia\, dicendo cos@i: ^Vedi~; 
+cio@e tu lettore\, guardando in cielo al cerchio che si chiama 
+Equatore\, ^come da indi~; cio@e da esso cerchio\, ^si dirama~; cio@e 
+esce da esso come fa lo ramo dell'albore\, e torce in verso lo Tropico 
+estivale l'uno ramo del Zodiaco e l'altro ramo in verso lo Tropico 
+iemale\, e cos@i di quinde torce l'altra quarta del Zodiaco e ritorna a 
+l'Equatore\, e dall'Equatore torce e va al Tropico iemale l'altra quarta 
+s@i\, che tutto @e diviso in quattro quarte\, de le quali le due si 
+coniungono nel nostro emisperio al Tropico estivale\, cio@e Aries\, 
+Taurus\, Gemini\, che @e l'una quarta; e Cancer\, Leo\, Virgo\, che @e 
+l'altra\, et incomincia dall'Equatore\, la prima di verso oriente\, e la 
+seconda di verso occidente termina all'Equatore; e l'altre due quarte\, 
+cio@e la terza che incomincia dall'Equatore di verso occidente che 
+termina al Tropico iemale\, nell'altro emisperio\, cio@e Libra\, 
+Scorpio\, Sagittarius; e la quarta incomincia di quine e torna a 
+l'Equatore di verso oriente e continuasi co la prima che @e 
+Capricornus\, Aquarius\, Pisces\, e cos@i @e finito lo Zodiaco in 
+quattro modi; e per@o ben dice: ^L'obliquo cerchio~; cio@e lo Zodiaco 
+che va per traverso nell'ottava spera\, ^che i Pianeti porta~; cio@e lo 
+quale Zodiaco porta li pianeti: imper@o che li pianeti fanno lo suo moto 
+circulare sotto lui incominciando d'Ariete e tornando a lui\, e cos@i 
+ciascuno compie suo corso in diversi tem
+pi\, come @e stato detto di sopra\, ^Per sodisfare al mondo~; cio@e a la 
+materia piacente che @e li elementi e le cose elementate\, le quali cose 
+significano e corrompeno secondo la influenzia che viene da la virt@u 
+informativa dei detti pianeti\, ^che~; cio@e lo qual mondo\, ^li 
+chiama~; cio@e li detti pianeti.  ^E se la strada lor non fusse torta~; 
+cio@e s'ella non andasse per traverso\, com'ella va\, ^Molta virt@u~; 
+cio@e informativa che @e nel cielo ottavo\, ^nel Ciel~; cio@e ne 
+l'ottava spera che @a ad influere nei pianeti e li pianeti gi@u\, come 
+dichiarato @e stato nel primo canto di questa cantica\, ^serebbe in 
+vano~: imper@o che non sarebbe chi la disponesse ad operare come fanno 
+li pianeti che disporrebbono pur quella\, sotto la quale fusseno e 
+quelle sopra le quali fusseno a riceverla\, e non sarebbe tanta quanta 
+@e questa: imper@o che si stendeno da l'uno Tropico a l'altro\, ^E quasi 
+ogni potenzia~; cio@e tutti quasi li elementi e le cose elementate che 
+ricevono impressione di generarsi e corrompersi\, serebbeno invano\, se 
+non quine dove fussono li pianeti\, che serebbe piccolo luogo\, e per@o 
+dice ^quasi ogni potenzia quaggi@u~; cio@e nel mondo\, ^morta~; cio@e 
+senza mutamento: nel mutamento che la natura naturata fa\, appare che 
+sia viva; che se non avesse mutamento parrebbe morta\, come l'animale 
+quando si muove par vivo\, quando non si muove pare morto; e cos@i se 
+gli elementi e le cose elementate non avessono mutamento per generazione 
+e corruzione\, parrebbono morti: potenzia @e negli elementi\, e nelle 
+cose elementate d'essere alterate\, la quale sarebbe in vano se la 
+virt@u alterante non fusse\, e ben dice ^quasi~: imper@o che sarebbe 
+questo mutamento pure in quello luogo dove fusseno e non altro'.  E 
+dimostra l'autore che Iddio ogni cosa facesse con peso e con misura e 
+con ordine\, com'elli fe dicendo: ^E se dal dritto~; cio@e cerchio che 
+@e l'Equatore\, ^pi@u o men lontano Fusse 'l partire~; cio@e se lo 
+dipartimento dei detti pianeti fusse o pi@u dilungi o meno 
+dall'Equatore\, che @e diritt
+o et @e a punto nel mezzo del cielo dal quale sono dilungi l'uno Tropico 
+e l'altro 24 gradi\, ^assai serebbe manco~; cio@e sarebbe assai 
+defetto\, ^E su e gi@u~; cio@e in cielo et in terra\, ^dell'ordine 
+mondano~; cio@e dell'ordine che Iddio @a posto al mondo.  E sotto questo 
+spazio del cielo diceno li Poeti e li Astrologi che @e la zona torrida 
+inabitabile se non alle sue estremit@a per lo troppo caldo\, come sono 
+amenduni l'Etiopie\, l'orientale e l'occidentale\, et allato a questa 
+torrida di verso lo polo artico n'@e una abitabile temperata\, perch@e 
+@e in mezzo di questa torrida e della fredda settentrionale\, e cos@i 
+dall'altro Tropico iemale @e un altra temperata\, perch@e in mezzo tra 
+la torrida e la fredda antartica che sarebbe abitabile se non che 
+coperta @ene dall'acqua\, secondo che si crede.  E se altri opponesse 
+che nella torrida s'abita\, s@i come appare di quelli che sono a 
+l'equinoziale\, puoi rispondere che s'abita con malagevilezza: li autori 
+inteseno di quelle che siano commode senza malagevilezza.  ^Or ti 
+riman\, Lettor\, sovra 'l tuo banco~; ecco che l'autore si parte da la 
+materia toccata e torna a la materia sua incominciata\, confortando lo 
+lettore che sopra le cose dette ripensi\, s'elli vuole essere lieto: 
+imper@o che di niuna cosa si rallegra tanto l'animo\, quanto delle cose 
+d'Iddio; e per@o dice: ^Lettor\, Or~; cio@e ora\, ^ti riman sovra 'l tuo 
+banco~; nello quale tu stai a studiare questo mio libro\, ^Dietro 
+pensando~; co la mente tua\, ^a ci@o che si preliba~; cio@e a la materia 
+che io @one messo inanti\, che @e materia da essere pensata con diletto; 
+e per@o dice: ^S'esser vuoi lieto~; cio@e se tu vuoi essere lieto\, 
+^assai~: imper@o che questa @e materia che fa assai lieto chi la pensa\, 
+^prima che stanco~: imper@o che inanzi che l'uomo si stancasse sopra 
+tale materia serebbe molto lieto\, considerando l'opere d'Iddio.  ^Messo 
+t'@o innanzi~; cio@e la materia da essere pensata\, ^omai~; cio@e 
+oggimai\, ^per te~; cio@e per te medesimo\, ^ti ciba~; cio@e pasce te 
+lettore sopra la de
+tta materia\, ^Ch@e a s@e~; cio@e imper@o che a s@e\, ^torce tutta la 
+mia cura~; cio@e tutta la mia sollicitudine\, ^Quella materia~; cio@e la 
+materia di questa ultima cantica che @e della gloria de' beati\, 
+^ond'io~; cio@e della quale io Dante\, ^son fatto scriba~; cio@e sono 
+fatto scrittore.  Seguita.
+
+        |28-36.~  In questi tre ternari lo nostro autore\, ritornato 
+alla materia sua\, finge come elli si trov@o sallito nel corpo del Sole 
+senza avvedersi del sallire\, dicendo: ^Lo ministro maggior~; cio@e lo 
+Sole\, che @e maggiore di tutti li pianeti e de la terra\, e di tutti li 
+corpi celesti\, salvo che dei cieli: imper@o che\, come dice Alfragano 
+capitolo XXI\, lo Sole @e maggiore che la terra cento sessanta sei 
+volte\, essente equale a la terra\, e la terra @e 132 mila di miglia\, e 
+600 millia\, et @e lo miglio 4 millia gommiti\, dunqua ben @e lo Sole 
+maggiore che ogni altro corpo celeste; e dicesi ancora ^ministro~ 
+maggiore: imper@o che\, come Albumasar nel suo Introduttorio differenzia 
+terza dice\, lo Sole @e temperamento de li elementi e della natura e 
+della composizione delli individui elementati per la participazione 
+degli altri pianeti: e dice ^Lo ministro~: imper@o ch'egli @a a 
+ministrare e servire\, ^de la Natura~; cio@e naturante\, et allora 
+s'intenderebbe d'Iddio al quale lo sole obedisce; e pu@osi intendere 
+della natura naturata: imper@o che a la natura naturata cagiona li suoi 
+effetti\, et @a pi@u a cagionare che gli altri pianeti\, e per@o si pu@o 
+chiamare maggiore ministro della Natura\, ^Che~; cio@e lo quale 
+ministro\, ^il mondo imprenta~; cio@e le cose del mondo suggella\, cio@e 
+in esse la trasfunde\, et esse dispone a riceverla\, ^E col suo lume~; 
+cio@e lo Sole con lume suo fa lo d@i e la notte\, e li d@i e le notte 
+sono misura del tempo; lo Sole @e cagione di tutti gli animali e di 
+tutti li frutti della terra\, et @e cagione de la luce che illumina lo 
+mondo\, ^Con quella parte~; cio@e del Zodiaco che @e lo segno d'Ariete\, 
+^che~; cio@e la quale parte d'Ariete\, ^su~; cio@e nel principio del 
+canto\, ^si rammenta~; cio@e si ricorda quando disse: ^Leva dunque\, 
+Lettor~ ec.\, ^Coniunto~; cio@e lo Sole: imper@o che allora era in 
+Ariete lo Sole\, ^per le spire~; cio@e per quelle revoluzioni che fa in 
+24 ore\, rotato dal primo mobile\, e perch@e ogni d@i va uno grado del 
+segno\, ogni d@i muta 
+spira; e per@o 128 spire fa lo Sole montando dal Tropico iemale a 
+l'estivale\, e quelle medesime fa descendendo da l'estivale a l'iemale: 
+imper@o che gira per quelli medesimi luoghi: spira tanto vale quanto 
+revoluzione\, come fa lo serpente quando si ripiega in giro\, che 
+bench@e ritorni colla volunt@a sua non torna lo fine al principio; ma 
+torna lungo esso e d@a l'altro giro\, e cos@i fa lo Sole: imper@o che 
+ogni d@i acquista uno grado del Zodiaco\, ^in che~; cio@e ne le quali 
+revoluzioni\, ^pi@u tosto~; che non suole negli altri segni\, ^ogni ora 
+s'appresenta~; cio@e ogni ora parimente si rappresenta pi@u tosto nelle 
+spire d'Ariete e di Vergine che degli altri segni: imper@o che in questi 
+due segni\, cio@e in Ariete incomincia ad avanzare lo d@i la notte\, et 
+in Vergine incomincia a tornare lo d@i pari a la notte.  E ben che in 
+Ariete incominci ad avanzare lo d@i la notte\, et in Vergine incominci a 
+tornare pari lo d@i co la notte\, @e s@i poco l'accrescimento e lo 
+mancamento che a pena l'omo se n'avvede\, e per@o l'ore tutte parimente 
+si rappresentano tosto in quelle revoluzioni di questi due sopradetti 
+segni pi@u\, che ne le spire di quattro segni che sono in mezzo; cio@e 
+Taurus\, Gemini\, Cancer e Leo: imper@o che in essi l'ore de la notte si 
+rappresentano pi@u tosto che quelle del d@i; e cos@i nei segni vicini\, 
+cio@e Pisces e Libra\, ogni ora parimente si rappresenta pi@u tosto che 
+nelle spire di 4 segni che sono in mezzo\, cio@e Scorpius\, 
+Sagittarius\, Capricornus et Aquarius: imper@o che in essi l'ore del d@i 
+si rappresentano pi@u tosto che quelle della notte.  E questo @e secondo 
+gli Astrologi che diceno d'ogni tempo che dodici ore @e lo d@i e dodici 
+la notte: imper@o che sei segni si levano di d@i e sei la notte; e per@o 
+quando li d@i sono maggiori che le notti\, convegnano l'ore del d@i 
+penare pi@u a rappresentarsi che quelle de le notti\, e cos@i e 
+contrario; e quando li d@i sono pari a le notti\, allora ogni ora si 
+rappresenta parimente tosto.  E questo @e quello che l'autore @ane 
+voluto dimostrar
+e.  ^Et io~; cio@e Dante\, ^era con lui~; cio@e col Sole\, che era in 
+Ariete: imper@o che io era sallito in esso\, ^ma del salire~; cio@e nel 
+detto pianeto fatto da me\, ^Non m'accorsi io~; cio@e io Dante\, bench@e 
+la distanzia fusse grande: imper@o che la pi@u bassa lunghezza della 
+spera del Sole che @e la pi@u alta di Venere\, come @e detto di sopra\, 
+@e tre milia migliaia e secento quaranta migliaia di miglia\, e la pi@u 
+alta lungezza del Sole che @e la pi@u bassa di Marte\, @e tre milia 
+volte mille e novecento sessanta cinque migliaia di miglia\, e la misura 
+del corpo del Sole @e cento e sessantasei volte equale a la misura del 
+corpo della Luna\, sicch@e 185 volte l'avanza.  E questo finge secondo 
+la lettera\, per mostrare che li cieli sono coniunti\, e non @ene vacuo 
+tra loro; e moralmente vuole dimostrare quanto sia veloce lo nostro 
+pensieri\, che subitamente passa d'una materia ad una altra quantunqua 
+distante\, senza avvedersi l'uomo\, e per@o adiunge la similitudine: ^se 
+non com'om~; cio@e se non come l'uomo\, ^s'accorge~; cio@e s'avvede\, 
+^Ansi 'l primo pensier~; cio@e innanti che venga lo primo pensieri omo 
+non s'avvede che debbia venire: imper@o che subitamente viene o 
+inspirato da Dio o impresso dai corpi celesti o persuaso dal dimonio; ma 
+degli altri descendenti da quello omo se ne pu@o avvedere: imper@o che 
+lo primo li genera\, e per@o dice: ^del suo venire~; cio@e del primo 
+pensieri\, cio@e come vegna et unde vegna.
+
+        |37-48.~  In questi quattro ternari lo nostro autore finge che 
+nel quarto pianeto; cio@e nel Sole\, vedesse Beatrice pi@u lucente che 
+'l Sole; e scusasi che non potrebbe dire quanto era la luce dei beati 
+che erano in esso\, e per@o dice: ^O Beatrice~; questo ^O~ @e ora 
+interiezione che significa ammirazione e rendesi a quello verbo che 
+seguita poi; cio@e: ^Quant'esser convenia da s@e lucente~; cio@e 
+Beatrice; quasi dica: Eccessivamente tanto\, che @e da meravigliarsene: 
+tanto convenia essere da s@e lucente\, acci@o che si vedesse lo suo 
+splendore e la sua chiarezza che era dentro dal Sole: convenia fusse 
+maggiore che 'l Sole\, e dichiara qual Beatrice\, cio@e: ^quella che si 
+scorge~; cio@e si dimostra\, ^Di bene in meglio~: imper@o che quanto 
+pi@u si ragguarda la Santa Scrittura\, tanto pi@u si vede la sua altezza 
+e la sua bont@a\, ^s@i subitamente~; questo dice: imper@o che lo 
+intendimento de la bont@a e della altezza della Santa Scrittura @e dono 
+dello Spirito Santo\, e per@o @e inspirato subitamente: imper@o che 
+Iddio lo 'nfunde ne la mente umana\, che in ci@o pensa et umilmente ci@o 
+dimanda\, senza mezzo e senza distanzia di tempo; e per@o dice: ^Che 
+l'atto suo~; cio@e dell'altezza e bont@a della Santa Scrittura che 
+appare di bene in meglio\, ^non si porge per tempo~: imper@o che la 
+Santa Scrittura non acquista di tempo in tempo maggiore altezza ch'ella 
+s'abbia: imper@o che Iddio\, cos@i fatta com'ella @e\, la inspir@o nelle 
+menti umane\, et in s@e medesimo ella @e perfettissima\, dunqua lo 
+nostro comprenderla pi@u l'una volta che l'altra @e ispirazione divina 
+che viene senza distanzia di tempo subitamente.  E poi che @a dimostrato 
+che lo suo splendore conveniva avanzare lo Sole\, scusasi che quanto 
+fusse lo suo splendore di quello che era nel Sole\, cio@e dei beati\, 
+che quine si rappresentavano\, non potrebbe dirsi per lui\, e per@o 
+dice: ^Ch@e~; cio@e imper@o che ben conveniva Beatrice essere lucente: 
+imper@o che\, ^quel\, ch'era~; cio@e li beati spiriti\, ^entro al Sol~; 
+cio@e come erano fatti li
+ beati spiriti li quali erano dentro nel corpo del Sole\, che convenia 
+avanzare lo Sole acci@o che si comprendesseno: imper@o che se fussono 
+stati meno splendidi che 'l Sole o altrettanto\, non si sarebbono potuti 
+vedere perch@e lo splendore del Sole gli arebbe celati.  E questo @e 
+secondo la lettera; ma secondo l'allegoria si debbe intendere che li 
+beati spiriti\, che si rappresentano nel Sole che sono del quarto 
+grado\, sono stati uomini scientifici e studiosi nel mondo pi@u lucenti 
+che 'l Sole: imper@o che a distinguere e cognoscere le cose d'Iddio\, 
+che sono sopra natura e le cose de la natura\, conviene la mente essere 
+d'eccessivo lume di scienzia e conviene eccessivamente essere lucente; e 
+per@o dice a dire quel ch'erano li beati spiriti dentro al Sole\, 
+^dov'io~; cio@e nel quale io Dante\, ^entra'mi~; cio@e entrai non 
+sapendo come\, se non che mi ritrovai dentro col pensieri\, secondo 
+l'allegoria; e col corpo\, secondo la lettera\, per la grazia d'Iddio\, 
+^Non per color~; ecco che dimostra in che modo erano quelli spiriti 
+beati nel corpo solare\, cio@e non colorati; ma solamente coperti e 
+fasciati di lume\, e per@o dice: ^ma per lume parvente~; cio@e ma per 
+lume che appariva e che si vedeva avanzante lo lume del Sole; ecco che 
+si scusa che non lo pu@o dire\, dicendo: ^Perch'io~; cio@e bench'io 
+Dante\, ^l'ingegno~; cio@e mio\, ^e l'arte~; cio@e la Retorica e la 
+Poesi\, ^e l'uso~; cio@e l'esercizio che fa l'uomo pronto a dire\, e 
+l'arte insegna\, e lo ingegno assottiglia a trovare nuovi modi: 
+^chiami~; cio@e in mio aiuto\, ^S@i nol direi~; cio@e per s@i fatto modo 
+nol potrei dire\, ^che mai s'imaginasse~; cio@e per li lettori; e la 
+cagione @e questa: imper@o che la imaginazione apprende dai sentimenti\, 
+e lo splendore @e obietto del vedere\, e lo vedere non @a mai appreso 
+maggiore splendore che 'l Sole\, e cos@i non lo pu@o imaginare.  ^Ma 
+creder possi~; cio@e come erano splendidi pi@u che 'l Sole\, bench@e non 
+si possa imaginare come erano fatti\, ^e di veder si brami~; cio@e si 
+desideri dai lettori come s
+ono fatti quelli beati spiriti pi@u lucenti che 'l Sole.  Et ora rende 
+la cagione\, per che non si pu@o imaginare\, dicendo: ^E se le 
+fantasie~; cio@e le nostre apprensioni\, ^nostre~; cio@e di noi uomini\, 
+^son basse~; cio@e che non possono adiungere\, ^A tanta altezza~\, cio@e 
+a s@i eccessivo splendore\, ^non @e meraviglia~; ecco ch'@e la cagione: 
+^Ch@e~; cio@e imper@o che\, ^sopra 'l Sol~; cio@e oltra la luce del 
+Sole\, ^non fu~; cio@e mai in questa vita\, ^occhio~; cio@e umano\, 
+^ch'andasse~; cio@e che potesse vedere: imper@o che Iddio nulla luce 
+sensibile @ae fatto maggiore che 'l Sole: imper@o che\, bench@e Iddio 
+sia senza comparazione pi@u lucente che 'l Sole\, non @e luce sensibile; 
+ma @e intelligibile et incomprensibile pienamente del nostro 
+intelletto\, bench@e quando @e beato n'abbia quanto in lui ne cape.  
+Seguita.
+
+        |49-63.~  In questi cinque ternari lo nostro autore finge\, come 
+@e detto\, come erano fatti li beati spiriti che quine si 
+rappresentavano\, Beatrice lo confort@o che dovesse ringraziare Iddio 
+della sua elevazione\, e com'egli lo ringrazi@o ardentissimamente datosi 
+a Dio con tutto lo cuore\, dicendo cos@i: ^Tal'era~; cio@e s@i 
+splendiente\, come detto @e\, che dire non si pu@o s@i che si possa 
+imaginare; ma bene credere\, ^la quarta famiglia~; cio@e lo quarto 
+ordine dei beati di vita eterna\, e per@o dice\, ^De l'alto Padre~; 
+cio@e d'Iddio che @e vero padre per creazione di tutte le cose e per 
+conservazione e governazione: li beati sono la famiglia d'Iddio\, et 
+elli @e loro padre\, ^che~; cio@e lo qual padre\, cio@e Iddio\, ^sempre 
+li sazia~; cio@e di s@e: come al padre s'appartiene di notricare la sua 
+famiglia de la sua sustanzia; cos@i Iddio vero padre sazia tutti li 
+beati di s@e\, ^Mostrando~; cio@e loro quello che gli omini del mondo 
+non possono pienamente intendere\, cio@e: ^come spira~; cio@e lo Padre e 
+lo Figliuolo l'eterno amore dai quali procede lo Spirito Santo\, che @e 
+l'amore eterno che spira l'uno e l'altro\, come fu detto nel principio 
+del canto\, ^e come figlia~; cio@e come lo Padre ab eterno genera lo suo 
+Figliuolo.  E per questo d@a ad intendere che Iddio manifesta ai beati 
+la sua Trinit@a delle persone e l'unit@a della sustanzia\, cio@e come lo 
+Padre genera lo Figliuolo e come dall'uno e dall'altro procede lo 
+Spirito Santo; le quali tre persone sono una sustanzia et uno Iddio; la 
+qual cosa li beati vedeno chiaramente\, ragguardando in Dio.  ^E 
+Beatrice~; ecco che pone lo conforto di Beatrice\, ^cominci@o~; cio@e a 
+dire a me Dante: ^Ringrazia\, Ringrazia 'l Sol degli Angeli~; cio@e tu\, 
+Dante\, ringrazia\, ringrazia Iddio\, che @e lo Sole che illumina li 
+angeli e li beati; et usa conduplicazione che @e colore retorico per 
+meglio confortare\, ^ch'a questo Sensibil t'@a levato~; cio@e lo quale 
+Iddio\, che @e Sole intellettuale\, t'@a levato\, cio@e te Dante a 
+questo Sole sensibile\, cio@e 
+che si comprende col sentimento del vedere.  La grazia d'Iddio aveva 
+inalzato lo intelletto di Dante a considerare lo quarto pianeto\, cio@e 
+lo Sole\, e la fizione che secondo la sua poes@i intendea fare d'esso; e 
+di questo finge che Beatrice lo confortasse che ringraziasse Iddio che 
+l'aveva levato colla sua grazia illuminante\, e per@o dice: ^per sua 
+grazia~; cio@e d'Iddio.  ^Cuor di mortal~; cio@e d'uomo: imper@o che 
+l'uomo @e mortale mentre che @e nel mondo\, poi non @e pi@u mortale; e 
+per@o intende solamente di quelli del mondo\, ^non fu mai s@i digesto~; 
+cio@e s@i disposto: imper@o che lo cibo digesto si dice disposto al 
+notrimento del corpo\, e cos@i digesto si dice lo cuore umano quando @e 
+disposto\, ^A divozione~; cio@e a donazione a Dio: devozione @e 
+donazione e promissione che l'uomo fa di s@e a Dio; e per@o adiunge: ^et 
+a rendersi a Dio~; et @e questo espositivo di quel dinanzi\, et @e qui 
+colore retorico quando quello che seguita interpreta quello che va 
+innanti\, e per@o si chiama interpretazione\, ^Con tutto suo gradir~; 
+cio@e con tutto suo compiacergli\, ^cotanto presto~; quanto fu lo mio 
+cuore per lo conforto di Beatrice; e per@o adiunge: ^Come a quelle 
+parole~; cio@e di Beatrice\, ^mi fec'io~; cio@e Dante\, ^E s@i~; cio@e 
+per s@i fatto modo\, ^tutto 'l mio amore~; cio@e tutta la mia carit@a e 
+'l mio fervore\, ^in lui~; cio@e in Dio\, ^si mise~; cio@e entrai s@i 
+fortemente col fervore di ringraziare Iddio\, ad amare Iddio\, ^Che 
+Beatrice ecliss@o~; cio@e oscur@o: s@i come oscura la minor luce per la 
+maggiore\, come veggiamo che\, venendo lo Sole\, la mattina le stelle 
+spariscono; cos@i vuole dire che\, venendo nella mente sua la grazia 
+d'Iddio\, elli discende in lei e riempiela della sua grazia et allora 
+ogni altro lume a la mente @e nulla per rispetto di quello; e per@o dice 
+che Beatrice oscur@o nella mente sua\, essendovi venuto maggior lume\, 
+^ne l'obblio~; cio@e nella dimenticagione che io ebbi di Beatrice\, per 
+l'oscurazione del suo lume nella mia mente per lo lume divino che v'era 
+venuto.  
+^Nolli dispiacque~; cio@e a Beatrice\, ^ma s@i se ne rise~; ai Teologi 
+non dispiace quando l'uomo s'innamora s@i d'Iddio\, che ogni altra cosa 
+dimentica qualunqua gli @e pi@u cara; ma ridene e fanne festa; e per@o 
+dice: Ma per s@i fatto modo ne rise Beatrice\, ^Che lo splendor de li 
+occhi suoi ridenti~; che s'intenda per li occhi di Beatrice @e stato 
+detto di sopra; e per@o dice che lo splendore de li occhi ridenti di 
+Beatrice fu s@i fatto\, che divise la sua mente unita in pi@u cose\, e 
+per@o dice: ^Mia mente~; cio@e di me Dante\, ^unita~; come detto @e di 
+sopra a ringraziare Iddio et amare lui\, ^in pi@u cose~; cio@e altre da 
+quella\, ^divise~; cio@e distrasse la mente sua a pi@u altre cose.  E 
+per questo d@a ad intendere l'autore\, secondo l'allegoria\, come elli\, 
+indutto per la Santa Scrittura a levare la mente a Dio\, lev@ola et 
+unittela a Dio per s@i fatto modo che dimentic@o e lasci@o allora lo 
+studio della santa Teologia; ma guardando poi lo suo gaudio ch'ella 
+dimostra che sia a tutti i santi et a tutti i beati della conversione 
+del peccatore a Dio\, mostratoli lo lume dell'uno e dell'altro 
+intelletto litterale e morale per l'una parte\, et allegorico et 
+anagogico per l'altra parte\, divise la mente sua\, che era unita a Dio 
+a considerare diversi uomini virtuosi stati nel mondo et illuminati di 
+scienzia\, de' quali doveva dimostrare in questo canto\, come apparr@a 
+di sotto.
+
+        |64-75.~  In questi quattro ternari lo nostro autore finge come 
+vidde spiriti beati et uditte cantare nel corpo del Sole\, li quali 
+venneno ad udire lui e Beatrice e feceno cerchio intorno a loro\, e 
+per@o dice: ^Io~; cio@e Dante\, ^vidi pi@u fulgor~; cio@e splendori: 
+imper@o che l'anime beate non sono in altra spezie che di lumi e 
+splendori\, ^vivi e vincenti~: imper@o che finge che fussono spiriti 
+beati\, dice ^vivi~; e perch@e finge che fussono beati\, per@o dice\, ^e 
+vincenti~; cio@e col suo splendore lo splendore del Sole\, ^Far di noi~; 
+cio@e di Beatrice e di me\, ^centro~; cio@e mezzo: lo centro @e lo punto 
+del mezzo del tondo\, ^e di s@e far corona~: imper@o che si recorno in 
+cerchio in torno a noi\, ^Pi@u dolci in voci~; cio@e pi@u dilettevili 
+nel canto\, ^che 'n vista lucenti~; cio@e che risplendenti a la vista 
+delli occhi.  E per questo ad intendere d@a che lo loro splendore 
+dilettava la vista; ma anco lo loro canto pi@u dilettava l'audito; e 
+questo dice\, per dare ad intendere questa moralit@a che\, bench@e 
+l'opere virtuose dilettino coloro che le vedono\, anco dilettano pi@u le 
+parole sante e virtuose che passano dentro e muoveno lo cuore.  E 
+perch@e questi\, dei quali parla qui\, finge che siano quelli che sono 
+stati scientifichi nel mondo e dottori et ammaestratori ch'@anno 
+composti libri\, li quali suonano dolcemente ne li orecchi del corpo e 
+del cuore dei lettori\, per@o finge che questi cantino pi@u dolcemente 
+che li altri.  ^Cos@i~; ecco che arreca la similitudine\, ^cinger la 
+fillia di Latona~; cio@e la Luna la quale\, secondo la fizione poetica\, 
+fu figliuola di Latona e nacque d'uno parto insieme con Febo\, come @e 
+stato detto di sopra XII canto del Purgatorio\, la quale alcuna volta 
+@ae uno cerchio in torno a s@e; e questo addiviene quando @e tonda e 
+vapori si levino la notte\, nei quali radi\, sicch@e non cuoprono la 
+Luna\, ella gitta lo suo splendore\, e ne' pi@u spessi che sono presso a 
+lei non si vede; ma nei pi@u radi\, che sono distanti da lei forse uno 
+braccio\, fa lo suo sp
+lendore uno filo a modo come uno cerchio\, come veggiamo che fa la 
+lampana quando @e accesa: imper@o che di sotto a s@e che v'@e l'olio e 
+l'acqua non gitta splendore; ma intorno a s@e gitta a modo d'uno cerchio 
+s@i come lo lume ripercuote nel vetro che @e di sopra all'olio\, e cos@i 
+gitta lo suo splendore in terra\, e perch@e @e tonda lo gitta tondo\, e 
+cos@i fa la Luna\, e per@o dice: ^Cos@i cinger la fillia di Latona 
+Vedem~; cio@e veggiamo\, ^tal volta~; noi uomini in questo mondo\, 
+^quando l'aire @e pregno~; cio@e di vapori rari: imper@o che\, se 
+fussono spessi\, la coperrebbono e convegnano essere rari per ritto la 
+Luna e di lungi da lei intorno per distanzia\, forse d'uno braccio o 
+poco meno\, e poscia spessi\, altremente non si vedrebbe lo cerchio: 
+imper@o che se tutti parimente fusseno rari non farebbe cerchio\, o se 
+tutti parimente spessi non si vedrebbe la Luna nel cerchio\, ^S@i\, 
+che~; cio@e per s@i fatto modo pregno\, ^ritenga~; cio@e l'aire pregno\, 
+^il fil~; cio@e lo filo dello splendore\, ^che fa la zona~; cio@e lo 
+quale splendore fa lo cerchio e lo cinto intorno: zona @e vocabulo in 
+Grammatica che viene a dire cintura.  ^Nella corte del Ciel~; cio@e 
+nella corte di paradiso\, ^ond'io~; cio@e da la quale io Dante\, 
+^rivegno~; cio@e torno\, ^Si trovan molte gioie care e belle~: imper@o 
+che in paradiso ogni cosa @e cara e bella\, ^Tanto~; cio@e son care e 
+belle\, ^che non si posson trar~; cio@e cavare\, ^del regno~; cio@e non 
+si possono cavare di paradiso: imper@o che altre che quine non si 
+possono trovare con quella perfezione.  ^E 'l canto di quei lumi~; cio@e 
+di quelli beati spiriti lucenti pi@u che 'l Sole\, ^era di quelle~; 
+cio@e care gioie e belle di paradiso; e per@o seguita questo\, ^Chi~; 
+cio@e colui lo quale\, ^non s'impenna~; cio@e non si veste di penne di 
+virt@u\, ^s@i~; cio@e per s@i fatto modo\, ^che lass@u~; cio@e in 
+paradiso\, ^voli~; cio@e si levi con quelle virt@u\, ^Dal muto~; cio@e 
+da colui che non pu@o parlare\, ^aspetti quindi le novelle~; cio@e 
+aspetti di saperle da chi non gli
+ele potr@a dire\, cio@e non aspetti di saperle.
+        Non si trova che niuno abbia mai potuto dire delle cose di vita 
+eterna\, tornato in questa vita se non generalmente\, n@e santo Paolo\, 
+n@e santo Lazero\, e cos@i degli altri.  E qui finisce la lezione prima 
+del canto X\, et incominciasi la seconda.
+        ^Poi s@i cantando~ ec.  Questa @e la seconda lezione del canto 
+X\, nella quale l'autore finge come venne a parlamento con uno di quelli 
+beati spiriti che erano venuti loro intorno\, e come quello li dimostr@o 
+e nomin@o molti altri beati spiriti di quelli.  E dividesi questa 
+lezione in cinque parti: imper@o che prima finge come uno delli 
+spiriti\, che s'erano girati intorno a lui\, incominci@o a parlamentare 
+con lui; ne la seconda finge come lo detto spirito incominciato a 
+parlare li manifesta lo desiderio suo\, e secondo quello l'incomincia a 
+nominare di quelli beati spiriti e nomina s@e e lo suo maestro\, e 
+promette di nominare degli altri\, et incominciasi quine: ^Tu vuoi 
+saper~ ec.; nella terzia parte finge che girando intorno li nominasse 
+degli altri che erano stati scientifichi infine in sette\, et 
+incominciasi quine: ^Quell'altro fiammeggiar~ ec.; nella quarta parte 
+finge come\, seguendo lo parlare suo\, li manifesta l'ottavo con tre poi 
+insieme adiunti\, et incominciasi quine: ^Or\, se tu~ ec.; ne la quinta 
+parte finge come li manifest@o lo duodecimo spirito e fu compiuto lo 
+giro.  E divisa la lezione\, ora @e da vedere lo testo colla esposizione 
+litterale\, allegorica e morale.
+
+        |76-90.~  In questi cinque ternari lo nostro autore finge come 
+uno di quelli spiriti che erano venuti intorno a loro\, cio@e santo 
+Tomaso d'Aquino\, come appare nella parte seguente\, incominci@o a 
+parlare con lui dicendo cos@i: ^Poi~; cio@e poi che\, ^s@i cantando~; 
+cio@e per s@i fatto modo\, come fu detto di sopra\, ^quelli ardenti 
+Soli~; cio@e quelli spiriti risplendenti pi@u che 'l Sole\, ^Si fur 
+girati intorno a noi~; cio@e a me Dante e Beatrice\, ^tre volte~; questo 
+numero finge l'autore\, per dimostrare che li beati spiriti si girano 
+intorno a la mente umana in tre modi; primo\, secondo la sua memoria; 
+secondo\, secondo lo suo intelletto; terzio\, secondo la sua volunt@a; e 
+questo s'intende cos@i da la parte delli spiriti beati considerati da la 
+mente umana\, come da la mente considerante: imper@o che la memoria 
+della mente apprendente s'arricorda della memoria delli spiriti appresi 
+quanto fu ferma al sommo bene\, unde era discesa et aveva avuto origine; 
+e lo intelletto intende quanto fu eccellente\, alto e sottile lo 
+'ntelletto loro in intendere le cose d'Iddio; e la volunt@a vuole e 
+desidera che la loro volunt@a sia stata diritta e ferma in el suo fine\, 
+cio@e nel sommo Bene.  E cos@i fu nell'autore nostro questo pensieri\, 
+quando pens@o sopra questi beati spiriti che erano stati di tanta 
+scienzia nel mondo\, e per@o n'@a fatto questa fizione che tre volte 
+girassono intorno a lui e Beatrice; et iunge a s@e Beatrice: imper@o che 
+quando pensava queste cose non era senza la dottrina della Santa 
+Scrittura; ma con essa\, e per@o dice che girorno intorno a lui et a 
+Beatrice tre volte\, ^Come stelle vicine~; ecco che arreca la 
+similitudine\, dicendo che cos@i si giravano parimente distanti\, come 
+si girano le stelle vicine\, cio@e prossimane\, ^ai fermi poli~; cio@e 
+ai fermi perni loro\, cio@e come lo carro e lo corno al polo artico\, e 
+cos@i al polo antartico quelle che vi sono\, ^Donne mi parven~; cio@e a 
+me Dante quelli spiriti beati che erano in cerchio intorno a noi come 
+donne; e dice ^Donne~: imp
+er@o che massimamente @e loro lo ballare\, ^non da ballo sciolte~; cio@e 
+seperate e partite\, ^Ma che s'arrestin~; cio@e ma che si fermino\, 
+^tacite ascoltando~; cio@e con tacere udendo\, ^Fin che le nove note~; 
+cio@e di colui che canta\, ^@anno ricolte~; per seguitare lo canto; 
+perch@e l'autore finga che girino in tondo e cantino renduta @e stata la 
+ragione di sopra.  ^E dentro all'un~; cio@e dentro all'uno di quelli 
+splendori: imper@o che detto @e che li beati spiriti sono fasciati di 
+lume\, ^senti'~; cio@e io Dante\, ^cominciar~; cio@e a parlare in questa 
+forma: ^Quando~; cio@e poi che\, ^Lo raggio della grazia~; cio@e 
+divina\, ^onde~; cio@e dalla quale\, ^s'accende Verace amore~; cio@e 
+vero fervore d'amore in verso Iddio e lo prossimo\, ^e che~; cio@e lo 
+quale fervore\, ^poi cresce amando~: imper@o che\, durando tale amore\, 
+sempre cresce\, ^Multiplicato~: cio@e lo detto fervore\, ^in te~; cio@e 
+Dante\, ^tanto risplende~; cio@e rende splendore\, ^Che ti conduce su~; 
+cio@e in vita eterna\, ^per quella scala~; cio@e per quello montamento\, 
+cio@e de la virt@u\, ^U'~; cio@e al qual luogo\, ^senza risalir~\, cio@e 
+senza ritornare poi a l'ultimo quando l'anima @e seperata dal corpo\, 
+^nessun descende~; cio@e nessuno torna a contemplazione della vita 
+beata\, a la quale @e montamento co la scala di virt@u mentre che @e 
+stato in questa vita\, che non vi torni dopo questa vita: imper@o che 
+senza grande grazia da Dio conceduta non si fa s@i fatto montamento\, e 
+per@o non pu@o essere che chi @a gustato s@i fatti diletti\, che non 
+ritenga sempre lo desiderio d'essi\, lo quale tenendo si conviene che la 
+sua vita sia santa e buona\, ^Qual~; cio@e di noi\, poi che tu se' in 
+tanta carit@a in verso Iddio e lo prossimo\, ^ti negasse~; cio@e negasse 
+a te Dante\, ^il vin de la sua fiala~; cio@e lo fervore de la sua 
+carit@a\, cio@e che ferventemente non amasse te\, ^Per la tua sete~; 
+cio@e per sodisfare al tuo desiderio\, ^in libert@a non fora~; cio@e non 
+sarebbe libero\, cio@e sarebbe impedito da qualche vizio: tanto @e 
+l'uomo l
+ibero\, quanto @e senza vizio e peccato; et arreca la similitudine 
+dicendo: ^Cos@i com'acqua\, che 'n mar non si cala~; ogni acqua\, se non 
+@a ritenimento o impaccio\, tanto corre che viene in mare\, e come @e in 
+mare si riposa: chi nega al prossimo di dichiaragli quello che 
+onestamente desidera di sapere\, mostra che non abbia carit@a; e se egli 
+l'@a\, ch'ella sia impacciata; la quale cosa non pu@o essere nei beati.  
+Seguita.
+
+        |91-102.~  In questi quattro ternari lo nostro autore finge che 
+lo spirito che @ae incominciato a parlare\, continuando lo suo parlare\, 
+li manifesta lo suo desiderio et a quello sodisfa dicendo e narrando chi 
+sono quelli beati spiriti che sono in giro intorno a lui\, e prima 
+manifesta s@e e lo compagno che gli era allato\, dicendo cos@i: ^Tu~; 
+cio@e Dante\, ^vuoi saper~; cio@e questo @e lo desiderio tuo\, cio@e di 
+sapere\, ^di quai piante s'infiora~; cio@e di fiori di quali piante @e 
+composta\, ^Questa ghirlanda~\, e per consequente di quali piante 
+perch@e non sono li fiori durabili senza le piante: imper@o che quine 
+erano le piante e li fiori: per@o che secondo la fizione dell'autore 
+quine\, eretti in cerchio intorno a Dante et a Beatrice a modo d'una 
+ghirlanda\, erano alquanti beati spiriti scientifichi nel mondo\, li 
+quali si rappresentano quine colle loro virt@u; e per@o ben finge 
+l'autore che dicessono a Dante: Tu vuoi sapere di quai piante 
+s'infiora\, cio@e di quali uomini virtuosi\, ^Questa ghirlanda~; cio@e 
+questo cerchio che sta tondo\, come ghirlanda\, ^che~; cio@e la quale\, 
+^in torno~; cio@e a la tonda\, ^vagheggia~; con desiderio ragguarda: 
+vagheggiare @e con desiderio d'avere la cosa amata ragguardare\, ^La 
+bella donna~; cio@e Beatrice la quale @e vaga e desiderosa di s@i fatte 
+ghirlande\, la quale ben si pu@o dire ^bella~\, perch'ella @e sopra 
+tutte l'altre scienzie\, ^ch'al Ciel t'avvalora~; cio@e la quale ti d@a 
+valore e conforto di montare al cielo.  Ecco che incomincia a nominare 
+le piante\, e prima s@e dicendo: ^Io~; cio@e che parlo\, ^fui degli agni 
+della santa greggia~; cio@e io fui delli agnelli della santa mandra\, 
+^Che~; cio@e la quale\, ^Domenico~; cio@e santo Domenico\, ^mena per 
+cammino~; cio@e mena per la via diritta della religione e della regula 
+di santo Domenico\, ^U'~; cio@e nel qual cammino\, ^ben s'impingua~; 
+cio@e ben s'ingrassa\, cio@e ne le virt@u\, ^se non si vaneggia~; cio@e 
+se l'uomo non si d@a alle cose vane del mondo.  Ecco che @ane detto che 
+fu frate predicato
+re; ma non @a anco detto chi fu\, dirallo poi; et ora dice del compagno 
+che gli era allato.  ^Questi~; ecco che dimostra lo spirito che gli era 
+a lato\, ^che m'@e a destra~; cio@e che m'@e a mano diritta\, ^pi@u 
+vicino~; cio@e pi@u prossimano che niuno degli altri: imper@o che li era 
+allato senza mezzo\, ^Frate e maestro f@umi~; cio@e fu a me fratello: 
+imper@o che tutti si chiamano in segno di carit@a frati; e ^maestro~: 
+imper@o che l'insegn@o\, ^et esso~; cio@e et egli\, ^fu Alberto di 
+Cologna~; ecco lo nome suo\, cio@e del compagno\, ^et io~; che ti 
+parlo\, fui\, s'intende\, ^Tomas d'Aquino~; questi fu santo Tomaso 
+d'Aquino dottore novello\, del quale fu detto nella seconda cantica nel 
+canto XX: Aquino @e in Italia unde fu ancora Iuvenale; e maestro Alberto 
+fu de la Magna: Cologno @e una citt@a de la Magna\, et amenduni furno 
+dell'ordine di santo Domenico dei frati predicatori.  ^Se tu~; cio@e 
+Dante\, ^di tutti li altri esser vuoi certo~; cio@e se vuoi essere 
+certificato di tutti questi altri\, che sono qui intorno\, di sapere chi 
+sono\, ^Di rieto al mio parlar~; dice santo Tomaso\, ^ti vien col viso~; 
+cio@e tu\, Dante\, col tuo vedere\, ^Girando su per lo beato serto~; 
+cio@e girando intorno su per questa ghirlanda\, cio@e di questi beati 
+che stanno in tondo intorno a noi\, come una ghirlanda.
+
+        |103-120.~  In questi sei ternari lo nostro autore finge che 
+quello spirito beato\, cio@e santo Tomaso\, che di sopra @ae parlato\, 
+li dimostra e nomina li altri che sono in quel giro ad uno ad uno\, e 
+nominane qui\, cio@e in questa parte cinque; cio@e Graziano\, Salomone\, 
+Piero\, Dionisio et Orosio\, dicendo: ^Quell'altro fiammegiar~; cio@e 
+quello altro splendore che fiammeggia\, ^esce del riso~; cio@e delle 
+allegrezze e del piacere\, ^Di Grazian~; questi fu Graziano che fece lo 
+Decreto\, fu di Chiusi citt@a antica di Toscana; ma ora @e quasi tutta 
+disfatta\, e fu monaco di santo Felice da Bologna; e perch@e nel Decreto 
+dimostra come si convegna e concordi la legge civile colla ecclesiastica 
+et e contrario\, per@o adiunge: ^che l'uno e l'altro Foro~; cio@e la 
+corte civile e la corte ecclesiastica\, ^Aiut@o s@i~; dimostrando come 
+l'una s'accorda coll'altra nel suo Decreto\, ^ch'ei piace~; cio@e lo 
+detto Graziano; et anco si pu@o intendere dell'aiuto\, cio@e che piacque 
+e piace quello aiuto\, ^in Paradiso~\, dove non pu@o piacere se non la 
+virt@u e la iustizia; e perch'elli fu virtuoso et iusto\, come mostr@o 
+nella sua opera\, per@o piace in Paradiso.  ^L'altro\, ch'appresso 
+adorna il nostro coro~; cio@e l'altro fulgore che @e allato a lui\, che 
+adorna la nostra congregazione colla sua virt@u\, ^Quel Piero fu~; cio@e 
+Piero lombardo vescovo di Parigi\, che nel 1172 fioritte\, lo quale fece 
+lo libro delle sentenzie in Teologia\, e fu valentissimo e 
+sufficentissimo uomo come dimostra la sua opera\, ^che~; cio@e lo 
+quale\, ^Offerse co la poverella~; cio@e fece la sua offerta della sua 
+facult@a\, come la poverella della quale dice l'Evangelio di santo 
+Ioanni che offerse poco\, perch@e poco aveva; ma con buono cuore\, e 
+per@o Iddio accett@o pi@u la sua offerta che quella del ricco\, che 
+bench@e offerisse molto non offerse con s@i buono animo; e per@o dice: 
+^a santa Chiesa suo Tesoro~: imper@o che offerse lo libro delle 
+sentenzie\, nel quale si vidde l'altezza del suo ingegno\, a la chiesa 
+militante; e fa menzi
+one della vedova dell'Evangelio\, perch@e esso Piero nel libro 
+predetto\, cio@e nel proemio fa menzione di questa vedova\, dove elli 
+dice: ^Cupientes aliquid de penuria ac tenuitate nostra cum paupercula 
+in gazophylacium domini mittere~ ec.  — ^La quinta luce~; cio@e lo 
+quinto beato spirito che lucea pi@u che 'l Sole\, che era allato al 
+maestro delle sentenzie et avanza tutti gli altri\, e per@o dice: ^ch'@e 
+tra noi~; cio@e li beati spiriti che io t'@one contati\, ^pi@u bella~: 
+imper@o che avanzava gli altri in sapere et in virt@u\, e per@o finge 
+che sia pi@u bella che l'altre che erano quine\, ^Spira~; cio@e ulimisce 
+e rende odore\, ^di tale amor~; cio@e di s@i fatto fervore d'amore in 
+verso Iddio: imper@o che mostr@o tanto d'amare Iddio\, e per conseguente 
+d'essere amato da Dio: tanta eccellenzia li diede\, ^che tutto 'l 
+mondo~; cio@e che ogni persona del mondo\, che cognosce la sua 
+condizione de la quale fu in questa vita\, ^Laggi@u~; cio@e nel mondo; e 
+questo dice avendo rispetto che\, quando finge che quello spirito li 
+parlasse\, fusse lass@u in el corpo del Sole\, ^n'@a gola~; cio@e n'@a 
+desiderio\, ^di saper novella~; cio@e di sapere in che condizione sia\, 
+cio@e s'elli @e beato\, o dannato; ma lo nostro autore finge pur che sia 
+beato\, come appare nel testo.  Questi fu lo re Salamone Figliuolo del 
+re David; ma nacque di Bersabe di quella che fu donna d'Uria\, lo quale 
+Iddio dot@o di tanta sapienzia naturale et accidentale\, che non si 
+trov@o pari a lui\, lo quale l'autore finge che fusse cogli altri beati 
+spiriti dotati di sapienzia\, li quali @ae finto che si rappresentino 
+nella spera del Sole\, bench@e la Chiesa niente ne determini\, e per@o 
+lo mondo ne dubita.  E per dimostrare la sua eccellenzia in sapere\, 
+dice: ^Dentro nell'alta mente~; cio@e sua\, che Dio cre@o s@i alta et 
+eccellente\, ^un s@i profondo~; cio@e uno s@i alto sapere: quel che @e 
+di lungi dal fondo @e alto\, profondo viene a dire di lungi dal fondo\, 
+e cos@i viene a dire alto\, ^Saper fu messo~; cio@e da Dio fu ispirato 
+in lui tanto s
+apere naturale et accidentale\, ^che se 'l vero @e vero~; cio@e che se 
+la verit@a @e cognosciuta per verit@a\, cio@e questo @e vero ch'elli fu 
+pi@u savio che altro uomo\, e se questa verit@a ser@a tenuta vera 
+sequitr@a appresso questa conclusione tutti\, ^A veder tanto~; quanto 
+vidde elli\, cio@e Salomone predetto\, ^non surse 'l secondo~; cio@e non 
+si lev@o lo secondo\, cio@e suo pari\, cio@e non se ne trov@o un altro 
+s@i savio.  Ora adiunge che li mostrasse un altro\, cio@e quel che 
+seguitava dopo Salomone\, e per@o dice: ^Appresso~; cio@e dopo il 
+predetto\, ^vedi 'l lume di quel cero~; cio@e di quello splendore\, che 
+arde come uno cero\, ^Che~; cio@e lo quale\, ^gi@u in carne~; cio@e 
+quando l'anima fu unita col corpo\, ^pi@u addentro~; cio@e che gli altri 
+uomini\, essendo in carne\, ^vide L'angelica natura e 'l ministero~; 
+questi fu Dionisio lo quale fece libro delle tre gerarchie degli angeli 
+e dei nove ordini\, dichiarando l'officio di ciascuno ordine\, 
+dichiarando bene ogni cosa\, come appare nel libro suo che di ci@o fece. 
+ Et ora dimostra l'altro che seguita\, dicendo santo Tomaso: ^Nell'altra 
+piccioletta luce~; l'autore finge che tra beati sia grado com'@e stato 
+detto di sopra\, e per@o finge che chi @e stato di maggior virt@u pi@u 
+risplenda; e chi di meno\, meno; e per@o finge che lo spirito del quale 
+dir@a ora sia minor luce\, perch@e non fu di tanto sapere\, e per@o 
+dice: ^ride~; cio@e gode e rallegrasi\, essendo beato e felice\, ^Quello 
+avvocato dei tempi cristiani~; cio@e Paolo Orosio che fu Spagnolo\, che 
+fece libro nel quale raccolse tutti li mali che erano stati nel mondo 
+dal diluvio infine ai suoi tempi\, dimostrando che minori sono stati li 
+mali nel mondo\, nel tempo dei cristiani e tra i cristiani\, che nel 
+tempo dei pagani e tra i pagani; e questo libro scrisse a santo Agostino 
+che ne l'aveva pregato\, perch@e li fusse ad aiuto al libro che santo 
+Augustino voleva fare ^De Civitate Dei~; e per@o dice che Orosio fu 
+avvocato dei tempi cristiani\, cio@e difenditore: come l'avvocato che 
+difende l
+a parte sua e del clientulo suo; cos@i difese Paulo Orosio li tempi 
+della cristianit@a che passorno con meno mali che quelli dei pagani\, 
+^Del cui latino~; cio@e del parlar del quale e delle sue ragioni\, 
+ch'elli puose nel suo libro\, ^Augustin~; cio@e santo Augustino quando 
+fece lo libro ^De Civitate Dei~ —.  ^si provide~; faccendolo fare 
+innanti\, per avere poi meno fatica a ritrovare le storie.  Seguita.
+
+        |121-132.~  In questi quattro ternari finge l'autore che santo 
+Tomaso\, seguitando lo suo parlare\, li dimostr@o Boezio romano\, 
+Isidoro\, Beda e Ricciardo\, dicendo: ^Or~; cio@e ora\, ^se tu~; cio@e 
+Dante\, ^l'occhio della mente~; cio@e lo 'ntelletto tuo\, ecco che ben 
+dimostra ch'elli intenda allegoricamente ch'elli vedesse queste anime 
+mentalmente\, e non corporalmente\, ^trani~; cio@e tiri\, ^Di luce in 
+luce~; cio@e di spirito beato in spirito beato che sono contenuti in 
+queste luci\, secondo la fizione dello autore\, che stavano in giro 
+intorno a loro\, ^dietro a le mie lode~; cio@e di rietro a me\, che vo 
+lodando ciascheduno di costoro\, dice santo Tomaso\, ^Gi@a dell'ottava~; 
+cio@e luce\, ^con sete~; cio@e con desiderio\, ^rimani~; cio@e tu\, 
+Dante\, che @ai voglia di sapere chi sono: io t'@o detto insine a la 
+settima\, ora resta che tu sappi de l'ottava chi ella @e.  Ecco che 
+dichiara chi @e questa luce ottava\, dicendo: ^Per veder ogni ben dentro 
+vi gode L'anima santa~; cio@e dentro in quella luce ottava gode l'anima 
+santa\, cio@e di Boezio romano che fu della famiglia di Mallio 
+Torquato\, che fu valentissimo uomo in tutte e sette le scienzie\, come 
+dimostrano l'opere sue e lo libro della Filosofica Consolazione\, nella 
+quale dimostra li beni del mondo essere fallaci et ingannevili e non 
+durativi per la loro mutazione\, e dimostra qual sia vero e sommo bene\, 
+cio@e Iddio.  E perch@e vi gode?  ^Per veder ogni ben~: imper@o che nel 
+mondo vidde ogni bene\, lo mondano come @e ingannevile\, et Iddio com'@e 
+sommo bene e vero; e lui seguit@o e lo mondano dispregi@o\, come appare 
+nel detto libro\, ^che 'l mondo fallace~; cio@e la quale anima di Boezio 
+che @e nell'ottava luce\, ^Fa manifesto~; lo mondo ingannevile\, ^a 
+chi~; cio@e a colui lo quale\, ^ode il ben di lei~; cio@e ode quello 
+ch'ella scrisse nel libro della Filosofica Consolazione essere lo suo 
+bene\, cio@e Iddio\, lo quale @e sommo e perfetto bene\, e lo bene 
+mondano @e bene falso et ingannevile\, e cos@i dimostra in el detto 
+libro.  ^Lo corp
+o~; cio@e del detto Boezio\, ^und'ella~; cio@e del qual corpo\, cio@e la 
+detta anima\, ^fu cacciata~; questo dice\, perch'elli fu morto in Pavia 
+in Lombardia\, dove elli era relegato e posto in esilio dal re Teodorico 
+che era a quello tempo re dei Romani\, perch@e resistea a la sua 
+tirannia\, e per@o andando una mattina a la chiesa a la volta d'uno 
+cantone li fu dato uno colpo tra 'l capo e 'l collo dai suoi emuli che 
+ne mand@o il capo; lo quale capo elli ricev@e nelle sue mani e 
+ripuoseselo in sul collo et and@o a la chiesa\, e tanto visse ch'elli si 
+confess@o\, e rimissesi ne le mani del sacerdote\, e fu sotterrato nella 
+chiesa di santa Maria in Cieldauro\, che @ene dei frati; e per@o dice: 
+^giace Giuso~; cio@e nel mondo\, ^in Cieldauro~; cio@e nella chiesa di 
+santa Maria Cieldauro in Pavia\, ^et essa~; cio@e anima di Boezio\, ^da 
+martiro~: imper@o che\, per dire la verit@a e per risistere a la 
+tirannia del re\, fu morto\, ^E da esilio~; cio@e da sbandeggiamento: 
+imper@o che quine l'avea lo detto re relegato\, ^venne a questa pace~; 
+cio@e a la beatitudine che tu vedi\, dice santo Tomaso a Dante.  Et 
+oltra li dimostra tre altri spiriti che seguitavano\, dicendo: ^Vedi 
+oltre~; cio@e a la beatitudine pi@u l@a tu\, Dante\, ^fiammeggiar~; 
+risplendere e rendere fulgore\, ^l'ardente spiro~; cio@e l'ardente 
+spiramento\, cio@e lo spirito\, ^D'Isidoro~; questi fu santo Isidoro che 
+fece molti libri\, tra gli altri quello de l'Etimologie\, ^di Beda~; 
+questi fu prete e fu grande teologo\, ^e di Ricciardo~; questi fu anco 
+grande teologo\, ^Che~; cio@e lo quale Ricciardo\, ^fu pi@u che viro a 
+considerar~; cio@e fu pi@u che uomo a considerare le sentenzie della 
+Santa Scrittura\, et in questo avanz@o la possibilit@a umana\, cio@e in 
+comprendere collo intelletto e pensare li motivi e le ragioni delle cose 
+comprese nella Santa Scrittura.  Seguita.
+
+        |133-148.~  In questi cinque ternari et uno versetto lo nostro 
+autore finge che santo Tomaso predetto compia lo suo ragionamento e lo 
+circulo di quelli spiriti che erano in cerchio\, e come ritornorno poi a 
+girare al modo usato\, dicendo: ^Questi~; cio@e questo ultimo spirito 
+de' dodici\, ^unde~; cio@e dal quale partendosi\, ^a me~; cio@e Tomaso 
+d'Aquino\, ^ritorna il tuo riguardo~; cio@e lo tuo ragguardamento\, 
+cio@e di te Dante\, perch'elli @e l'ultimo et io sono lo primo\, ^@E il 
+lume d'uno spirto~; lo quale @e dentro in esso\, ^che 'n pensieri 
+Gravi~; venuto\, si debbe intendere\, ^a morire li parve esser tardo~; 
+cio@e gli parve troppo indugiare a morire: imper@o che arebbe voluto 
+morire pi@u tosto.  ^Essa @e la luce eterna di Sigeri~; ecco che 
+manifesta chi fu\, cio@e maestro Sigeri che lesse Dialettica in Parigi\, 
+^Che leggendo nel vico de li strami~; @e una contrada in Parigi che si 
+chiama la contrada de li strami\, perch@e quine si vende lo strame per 
+li cavalli\, e quine lesse Loica lo detto maestro Sigeri\, 
+^Sillogizz@o~; cio@e\, leggendo li Elenci d'Aristotile\, fece certi 
+silogismi a provare alquante verit@a s@i bene et artificialmente\, che 
+gliene fu portato invidia.  ^Inde~; cio@e da poi che santo Tomaso ebbe 
+detto; e fa la similitudine\, ^come orologio~; cio@e come l'oriuolo che 
+@e istrumento che segna l'ore\, rotando le sue rote e percotendo le 
+campanelle che vi sono appiccate co' martellini\, ^che ne chiami~; cio@e 
+li religiosi e li sacerdoti\, ^Nell'ora~; cio@e del mattino\, ^che la 
+sposa d'Iddio~; cio@e nella quale ora la sposa di Dio\, cio@e la santa 
+Chiesa che @e sposa d'Iddio\, ^surge~; cio@e del letto e da dormire si 
+leva\, ^A mattinar~; cio@e a dire lo mattino\, e dicendolo a lodare\, 
+^lo sposo~; cio@e Iddio padre\, ^perch@e l'ami~; cio@e a ci@o che lo 
+detto sposo ami la detta sua sposa\, ^Che l'una parte~; cio@e delle roti 
+che sono nell'orologio\, ^l'altra tira~; cio@e parte delle ruoti di 
+rieto a s@e\, ^et urge~; cio@e spinge quella che va inanzi\, ^Tin tin 
+sonando~; le campanel
+le delli uorioli quando suonano tin\, tin?  Quando sono percosse dai 
+loro martellini\, ^con s@i dolce nota~; cio@e suonano le campanelle 
+dell'oriuolo\, ^Che 'l ben disposto spirto~; cio@e dei religiosi e dei 
+cherici\, ^d'amor turge~; cio@e gonfia e cresce dell'amore e della 
+carit@a di Dio\, ^Cos@i~; ecco che adatta la similitudine\, ^vidd'io~; 
+cio@e Dante\, ^la gloriosa rota~; di quelli dodici beati spiriti\, 
+^Muoversi~; cio@e in giro\, ^e render voci a voci in tempra~; cio@e in 
+temperanza\, rispondendo l'una voce a l'altra\, ^Et in dolcezza~; cio@e 
+s@i fatta\, ^che esser non pu@o nota~; cio@e non si pu@o manifestare: 
+imper@o che l'anima\, mentre che @e in carne\, non @e capace della 
+dolcezza del canto di vita eterna; e per@o adiunge: ^Se non col@a~; 
+cio@e in quel luogo\, ^dove 'l gioir~; cio@e nel quale lo godere e lo 
+dilettarsi\, ^s'insempra~; cio@e s'imperpetua: imper@o che la 
+beatitudine dei beati mai non debbe venire meno.  Et in questa parte 
+potrebbe lo lettore dubitare\, perch@e lo nostro autore @ae finto che 
+questi cos@i fatti beati spiriti si rappresentino nel corpo solare.  A 
+che si pu@o rispondere\, come @e stato detto di sopra della 
+rappresentazione finta da lui essere fatta dai beati spiriti nelli altri 
+pianeti\, cio@e imper@o che questi cos@i fatti beati spiriti ebbono 
+influenzia dal detto pianeto\, et in quella seguitorno; e perch@e la 
+loda di tale influenzia si rende a quello pianeto\, finge che in esso si 
+rappresentino.  Et acci@o che veggiamo le influenzie che cagiona lo 
+Sole\, attenderemo quello che dice Albumasar nel trattato settimo del 
+suo Introduttorio differenzia nona\, dicendo delle nature dei pianeti\, 
+lo quale dice che lo Sole significa anima vitale\, lume e splendore\, 
+ragione et intelletto\, scienzia e la meta della vita: significa re\, 
+principi e duci\, nobili e magnati e congregazioni d'omini\, fortezza e 
+vittoria\, volutt@a\, bellezza e grandezza\, sottigliezza d'animo\, 
+superbia e loda\, buona appetizione di regno e di sudditi e grandezza 
+d'amore in oro\, e moltitudine di parlame
+nti e dilezione di nettezza e di bellezza: significa fede e culto 
+d'Iddio\, iudici e savi\, padri e fratelli e mezzani\, iungesi alli 
+uomini e mettesi tra loro\, d@a quello che si dimanda\, et @e forte a 
+vendetta\, cio@e che punisce li ribelli\, e li mali fattori.  E perch@e 
+@ane a dare influenzia di ragione e d'intelletto di scienzia e di fede e 
+di culto d'Iddio\, per@o @ane finto l'autore che li predetti beati 
+spiriti e gli altri\, dei quali dir@a di sotto\, si rappresentasseno 
+quine.  E qui finisce lo canto X\, et incominciasi lo XI.

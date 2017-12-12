@@ -1,0 +1,939 @@
+	|1-3.  Mentre che~ ecc.  Mentre Dante ficcava li occhi
+tra li rami di quell'albero misterioso per iscoprire chi parlava,
+imitando colui che perde il tempo dietro ad uccellino che vola di
+ramo in ramo.  BENV.  -- Di tanti modi quanti poteva esprimere
+questo concetto, ha scelto il pi@u opportuno perch@e pi@u
+naturale; n@e meglio poteva dimostrare la fissazione e il
+travaglio degli occhi, e l'occupazione dell'animo da quella
+novit@a cagionata.  BIAGIOLI.  -- ^Qui nititur mendaciis, hic
+pascit ventos; idem autem ipse sequitur aves volantes~ (^Prov.~,
+X, 4).  CAVEDONI (^Opusc. Rel.~ ecc., XI, 327).  -- Varianti.
+^Li occhi~, i pi@u, (F.).  (I.).  (N.).  Fer.; -- ^Ficcava io
+s@i, come~, quindici de' m. s., (I.).  Benv. Caet. Fil. Vill.
+Berl. Fer.; -- ^Ficcava io siccome~, (F.).  (N.); -- ^come ei
+far~, il 21; -- ^Chi retro~, W.; -- ^agli uccellin~, nove de'
+miei spogli, tra' quali il 3 copia di un sincrono, e la direi
+migliore lezione.  Fuggitogli un uccello, il cacciatore ne
+perseguita un altro ecc.; -- ^agli uccellin~, la (V.).  e Witte;
+-- ^a li uccellin~, Ferranti, lettera che preferisco; -- ^sua
+vista~, l'8; -- ^suo tempo~, il 17; -- ^a uccellin~, il 21; --
+^sua via~, il 28.
+
+	|4-6.  Lo pi@u che~ ecc.  Intendi Virgilio, mi diceva:
+Figlio mio, seguimi, ch@e non @e pi@u tempo da rimanerci qui; e
+quello che ci @e concesso vuolsi spendere pi@u utilmente.  BENV.
+-- Gli antichi nel vocativo scrissero ^filiole~, alla latina; --
+^tempo imposto~, per ^tempo assegnato a viaggiare.~  LOMB.  --
+^Si vuole~, italianismo equivalente a ^si dee~, perciocch@e ci@o
+che da dovere, da necessit@a ecc. @e voluto, si deve fare.
+BIAGIOLI.  -- ^Figliuole.~  Molti nomi, presso gli antichi,
+avevano doppia terminazione in ^o~ e in ^e.~  Cos@i ^vaso~ e
+^vase, pomo~ e ^pome~, e ^figliuole~ trovasi scritto anche in
+prosa.  BIANCHI.  -- ^Lo pi@u che padre~, non mai cos@i dolce
+titolo e a proposito di non perdere il tempo.  FRAT.  -- Var.
+^Patre~, il 3, copia di un sincrono; -- ^figliuole~, il 12; --
+^filiole~, il 21; -- ^figliole~, Fer.  Tengasi per vocativo, come
+provano gli esempj citati nel Voc.  -- ^Figliuole~, @e vocativo
+lat. ^filiole~, e ricorda il ^Filioli~ vocativo plurale, le tante
+volte ripetuto nell'Epistole di S. Giovanni.  Arroge che
+^filiolus~ ne' tempi di mezzo dicevasi il ^figlioccio~, da chi lo
+tenne a battesimo o cresima.  CAVEDONI (l. c.); -- ^disse:
+Figliuole~, Aldina; -- ^Vienne oggimai~, tredici, (M.).  Bart.;
+-- ^Vieni oggi mai~, Benv. Bart. Rosc. ed otto de' miei spogli;
+-- ^Vieni oramai ch@e il tempo che n'@e imposto~, Nidob. Pogg.;
+-- ^n'@e posto~, Rosc.; -- ^Veni~, il 41; -- ^Omai~, 6. 22. 24.
+(F.).  (I.).  (N.).  (V.); -- ^che n'@e posto~, diciotto,
+Benvenuto, e le pr. cinque edizioni; -- ^ch'enne posto~, 22. 27;
+-- ^che ci @e posto~, tre, Padovana 1859; -- ^che il termine
+ch'@e posto~, il 33; -- ^ch@e il termin~, il 20; -- ^che c'@e
+imposto~, Witte, Ferranti, Viviani, ecc.; -- ^Vienne omai~, (F.).
+(I.).  (N.); -- ^Pi@u utilemente~, il 12, e Benvenuto.
+
+	|7-9.  Io volsi 'l viso~ ecc.  Io mi voltai con gli occhi
+e con la mente a Virgilio ed a Stazio, i cui colloquj erano a me
+tanto cari, che non mi recava la menoma fatica il tenere lor
+dietro.  -- Io volsi tosto il viso, e non men tosto anche il
+passo.  TORELLI.  -- Varianti.  ^Io volsi~, i pi@u, (M.).  Witte,
+Ferranti ecc.; -- ^il viso al passo~, il 21; -- ^il viso e il
+passo~, (M.).  Witte, Ferranti, ecc.; -- ^Appresso i savj~, tre,
+(F.).  (I.).  (N.).  (V.); -- ^mi facea~, undici, Rosc.; -- ^mi
+facean~, tre, le pr. cinque ediz.; -- ^mi fac@en~, molti; -- ^mi
+parea~, 15. 40; -- ^di nulla costo~, il 36, Benv.; -- '^l passo
+el viso~, Vaticano 3199.
+
+	|10-12.  Ed ecco pianger~ ecc.  ^Labia mea, Domine~,
+parole di un salmo conveniente ai golosi, per mondare la gola dal
+vizio d'ingordigia; -- ^diletto e doglia~, diletto pel canto,
+doglia per la pena.  BENV.  -- ^s$ie, ud$ie, partur$ie~, per
+^s@i, ud@i, partor@i~, paragogi toscane, come ^piue, fue~ ecc.,
+per ^pi@u, fu~ ecc.; -- ^piangere e cantar~, piangevano per
+contrizione del peccato commesso; cantavano per la speranza di
+poterlo purgare, e, purgatolo, andare alla salute.  LANDINO.  --
+^Labia mea, Domine~, @e nel profetico salmo 50, v. 17; ^Domine,
+labia mea aperies, et os meum annunciabit laudem tuam; --
+diletto~, forse per quella dolce, religiosa sensazione, che nel
+suo ben disposto spirito quel canto produceva.  BIAGIOLI.  --
+^Partur$ie~, intendi, ^cagion@o in me.~  LOMBARDI.  --
+^Partur$ie~, latinismo noto.  Albertano: ^Parturisce peccato.~
+FRAT.  -- Var.  ^Cantar sent$ie~, il 3, copia d'un sincrono; --
+^partor$ie~, quattro; -- ^partur$ie~, i pi@u, le pr. quattro
+edizioni, ecc.
+
+	|13-15.  O dolce Padre~, ecc.  Io cominciai a dire: O
+dolce padre Virgilio, che @e ci@o che ascolto?  Ed egli mi
+rispose: Sono ombre che forse vanno pagando il debito della loro
+golosit@a.  BENV.  -- ^Solvendo il nodo~, vanno sciogliendosi da
+quel debito alla divina giustizia che qui le lega.  LOMB.  -- @E
+bella maniera figurata e ben giusta, perch@e chi @e dal dovere
+costretto, @e come legato sinch@e nol compia.  BIAGIOLI.  --
+Forse, ^sciogliendosi dal debito loro, purgandosi dal loro
+peccato~; od anche: ^soddisfacendo pel loro peccato alla divina
+giustizia.  -- Nodo.~  La colpa @e un vincolo (^Purg.~, XVI, 24).
+^E d'iracondia van solvendo il nodo.~  FRAT.  -- Var.  ^O dolce
+padre mio, che @e ch'i' odo~, il 53; -- ^quel che odo~, il 22; --
+^Padre~, Bianchi, W. Fer. ecc.; -- ^e quelli: ombre~, l'8; --
+^son elle ombre~, il 37; -- ^ed elli~, i pi@u, (M.).  (I.).
+Ferranti, ecc.
+
+	|16-18.  S@i come~ ecc.  Come i pellegrini stanno pensosi
+e sospesi nell'incontrare gente sconosciuta, che la guardano, ma
+non soffermansi.  BENV.  -- ^Peregrin pensosi~, quelli cio@e che
+viaggiano pensando ed andando anelanti al termine prefisso, non
+quelli che viaggiano per semplice divertimento, i quali ad ogni
+minimo obbietto si fermano.  -- ^Giugnendo~ ecc., raggiungendo,
+pel suo pi@u veloce cammino, altra gente sconosciuta, tiran di
+lungo senza soffermarsi, lo che non farebbero con loro
+conoscenti.  LOMB.  -- ^Pensosi~, occupati dal pensiero dei loro
+affari.  BIANCHI.  -- ^Pensosi~, perch@e tutti intenti al loro
+viaggio.  FRATICELLI.  -- Varianti.  ^I pellegrin~, undici,
+Roscoe; -- ^Siccome pellegrin~, il 17; -- ^Siccome peregrin; --
+Giugnendo~ e ^Giungendo~, variamente; -- ^se volgano~, 14. 41; --
+^ad esse~, il 25; -- ^ad issa~, il 42; -- ^restanno~, cinque de'
+m. s. e cinque delle prime edizioni, esclusa la (M.).
+
+	|19-21.  Cos@i diretro~ ecc.  Cos@i dietro da noi
+affrettava il passo una turba d'anime tacite e devote, e nel
+trapassare ci riguardava con meraviglia.  BENV.  -- ^Pi@u tosto
+mota~, prestamente pi@u di noi mossa; -- ^mota~, lat. in grazia
+della rima.  LOMB.  -- Il Vellutello e il Daniello non sanno
+conciliare il ^piangere~ e ^cantare~ del v.  10 col ^tacita~ del
+v. 21, se non con l'intendere che qui sospendessero il ^piangere~
+e il ^cantare~ per la novit@a dei tre soggetti raggiunti.  Il
+Lombardi dice, errare i detti Spositori nel supporre che
+quell'anime non interrompessero il piangere ed il cantare.  Tanto
+facevano soltanto alla vista degli alberi misteriosi; e cita
+versi di questo Canto e del seguente, che francheggiano in certo
+modo la sua opinione.  Il Biagioli vuole che si st$ia col
+Vellutello e col Daniello, e cita passi che non concludono; per
+l'opposito il ^Talor cantiam~ del v.  118 Canto XX, accenna
+interruzione, non continuit@a di azione.  -- Qui l'anime purganti
+andavano tacitamente; poich@e piangevano e cantavano quando
+nell'aggirarsi pel balzo giugnevano presso l'albero misterioso.
+BIANCHI.  -- Cos@i il Fraticelli, che ne rimanda al Canto
+seguente, vv. 106-114.  -- Var.  ^Cos@i d,ietro~, il 14; --
+^d$ireto~, il 22; -- ^di dietro~, 29. 33; -- ^Vedemmo, e
+trapassando camminava~, il 4; -- ^n'ammirava~, il 5; --
+^trapassava e ci~, l'8; -- ^Vegnendo~, l'11; -- ^divota~, (M.);
+-- ^devota~, l'altre ant. ediz., Cr. ecc.; -- ^dell'ossa~,
+Antald.; -- ^si sformava~, Roscoe.
+
+	|22-24.  Ne li occhi~ ecc.  Ciascun'ombra per fame e sete
+era oscura e cava negli occhi; ^pallida~, per difetto di sangue,
+che la pelle riceveva la forma dell'ossa ch'essa ricopriva.
+BENV.  -- ^Negli occhi~, ecc., aveva ciascuna gli occhi posti
+all'oscuro, in fondo cio@e alla cavit@a delle occhiaje.
+LOMBARDI.  -- Descrive mirabilmente la presenza dell'uomo
+afflitto e per lungo digiuno attenuato, ad imitazione di Ovidio,
+quando descrivendo la Fame nell'VIII dell ^Metamorf.~, disse:
+^Hirtus erat crinis, cava lumina, pallor in ore -- Labra incana
+situ, scabri rubigine dentes, -- Dura cutis, per quam spectari
+viscera possent, -- Ossa sub incurvis extabant arida lumbis.~
+DANIELLO.  -- @E bello, dice il Biagioli, paragonare il passo del
+poeta latino con l'imitazione di Dante, per conoscere dalla
+differenza il nerbo maggiore e la grandezza del Poeta nostro; --
+^scema~, per ^dimagrata assai.~  VOLPI.  -- ^Che dall'ossa.~
+Vuol dire che la pelle prendeva la forma dell'ossatura.  ^Pellis
+super ossibus una~ (Lucr.).  TORELLI.  -- Ai riscontri allegati
+dal ch. Tommaseo (dice mons. Cavedoni), aggiungasi quello di
+Giobbe (XIX, 20): ^Pelli meae, consumptis carnibus, adhaesit os
+meum~ (l. c.).  E ^Psal.~ 101, v. 6: ^Adhaesit os meum carni
+meae.~  -- Varianti.  ^Obscura~, (F.).  (I.).  (N.).  (V.); --
+^Nelli occhi~, Fer.; -- ^Ne li occhi~, i pi@u antichi; --
+^Pallida, e nella faccia tanto~, il 21; -- ^tutto scema~, il 31;
+-- ^sciema~, il 38, (M.); -- ^s'inforcava~, l'11; -- ^Che
+dell'ossa~, quattro; -- ^Che l'ossa dalle penne si sformava~, il
+15, erronea; -- ^Che dell'osso~, il 29; -- ^Che l'ossa della
+pelle~, il 40; -- ^da l'ossa~, (M.).  (I.); -- ^dall'osso~,
+Ferranti.
+
+	|25-27.  Non credo~ ecc.  Erisitone di Tessaglia
+sprezzava Cerere e coloro che la adoravano; viol@o il bosco a lei
+sacro; e la Dea dest@o nel sacrilego una fame tanto canina e
+fiera, che lo condusse all'ultima miseria, e sino a divorare se
+stesso.  BENVENUTO.  -- Non poteva Dante scegliere pi@u acconcio
+paragone, dice il Portirelli, a significare la magrezza
+dell'anime purganti, e ricorda i versi d'Ovidio (^Metam.~, Lib.
+VIII): ^Ipse suos artus lacero divellere morsu -- Coepit, et
+infelix minuendo corpus alebat.  -- Quando pi@u n'ebbe t#ema~,
+quando si trov@o nella maggiore angustia, quando non ebbe altro
+in che dare i denti, se non le proprie membra.  LOMB.  -- Quando
+pi@u ne ebbe cagione, argomento, non ^timore; -- t#ema~, per
+^argomento~, usa Dante ^Inf.~, IV, v. 146; ^Par.~, XXIII, v. 64,
+XXX, v. 23.  TORELLI.  -- Quando cominci@o a divorare se stesso.
+BENV.  -- Il Poggiali prende ^tema~ per ^timore~, e cos@i il
+Bianchi ed il Fraticelli, dichiarando il primo: <Quando, vedutosi
+privo di tutto, ebbe a temere maggiormente gli orrori del
+digiuno>; ed il secondo: <Quando, consumata ogni sostanza, ebbe
+maggior timore di digiunare>.  L'una e l'altra interpretazione
+pu@o stare; ma io inclino a quella del Torelli.  -- Varianti.  ^A
+buccia estrema~, il 5, Witte; -- ^a buccia scema~, (F.).  (V.);
+-- ^strema~, (M.).  Cr.; -- ^Erisitone fosse fatto secco~,
+diecisette de' m. s., (M.).  (I.).  (V.).  W. ed altri citati
+dallo Scarabelli, il quale per@o preferisce la comune; -- ^fusse
+s@i fatto~, undici, (N.).  (V.); -- ^facendosi secco~, 12. 38; --
+^s@i secco~, il 27; -- ^Eresithon~, il 9; -- ^Erisitone~, i pi@u;
+-- ^Cresiton fosse~, il 38 ed altri; -- ^Eresito fosse s@i
+fatto~, (F.).  (N.); -- ^pi@u ebbe tema~, 8. 43; -- ^quanto pi@u
+n'ebbe~, il 35; -- ^quand'e' pi@u n'ebbe~, il 36; -- ^Per
+degiunar~, il 43; -- ^Erisitone fusse fatto cieco~, il Chig.; --
+^Eris$itone fosse fatto secco~, Roscoe.
+
+	|28-30.  Io diceva fra me~ ecc.  Nell'assedio di
+Gerusalemme, al tempo di Tito, una ricca e nobile matrona per
+nome Mar$ia, rimasa strema d'ogni cosa, malediceva agli ebrei,
+provocandoli affinch@e la uccidessero; ma ognuno ne avea piet@a,
+e nonpertanto niuno la confortava di cibo.  Vinta da rabbiosa
+fame, prese il figliuoletto lattante, e, sollevandolo, disse: <O
+di misera madre, pi@u misero figliuolo, perch@e dovr@o io
+serbarti agli stenti, alla strage, alle rapine de' nemici?  E
+dato che tu campassi la vita, non avresti tu a soffrire la
+servit@u dei Romani?  Ah, piuttosto sii cibo a tua madre;
+piuttosto morire che farmi il colmo alle sventure del popolo
+ebreo>.  Ci@o detto, lacer@o il bambino e se ne cib@o, ecc.
+Questo fatto @e da molti tenuto per favoloso.  FRATICELLI.  --
+Giuseppe Flavio scrive: Che niuna citt@a sofferse mai maggiori
+calamit@a di Gerusalemme; ma ben anco che niun'altra nazione fu
+di pi@u feroce malizia.  BENVENUTO.  -- ^Ecco -- La gente~ ecc.,
+ellissi, invece di ^ecco com'era la gente.~  Parla degli abitanti
+di Gerusalemme, assediati e presi da Tito.  -- ^Quando Mar$ia~,
+ecc.  Vedi ^Giuseppe Ebreo~, Lib. VII, cap. 15; -- ^dar di
+becco~, traslato ^poco grazioso~, che piglia il Poeta dagli
+uccelli di rapina.  VENTURI.  -- Il Lombardi gli contraddice,
+dicendo ^grazioso~ questo traslato, e in senso proprio comune a
+tutti gli uccelli; -- ^di@e di becco~, ad accennare per metafora
+l'impeto di quella donna, divenuta cieca e bestiale per fame.
+BIANCHI.  -- Varianti.  ^Jerusalemme~, cinque, (F.).  (I.).
+(N.).  Witte, Viviani, Roscoe; -- ^Hierusalem~, Benvenuto; --
+^che perdeo~, il 40, (F.).  (I.).  (N.).  (V.).  Fer.; -- ^nel
+figliuol~, cinque; -- ^Quando la madre nel figlio~, il 40; --
+^nel figliol~, Ferranti.
+
+	|31-33.  Parean l'occhiaje~ ecc.  Le occhiaje parevano
+anella scassate; chi legge ^omo~ nel volto umano, bene vi avrebbe
+riconosciuto l'^emme.~  Le due occhiaje formano i due OO, la M
+formasi dalle ciglia, dal naso e dai zigomatici; lettere che
+appariscono ne' volti scarni.  BENVENUTO.  -- ^Occhiaje~, cavit@a
+che ricevono entro a s@e i bulbi degli occhi; -- ^anella~ ecc.,
+anelli rimasti al castone vuoto.  -- ^Chi nel viso~ ecc.  <Queste
+sono di quelle cose (dice il Volpi), che la poes$ia abborrisce,
+non essendo capaci d'alcun ornamento>, e ne rimanda a quel
+precetto d'Orazio: ^et quae desperas tractata nitescere posse --
+Relinque~ (^Art. poet.~, v. 149 e seg.).  Il Venturi poi fece
+mala giunta alla derrata, col dire: ^Cosa veramente insulsa, che
+per@o giustamente il P. d'Aquino ha sdegnato di tradurre.~  Il
+Lombardi difende Dante, col dire ch'egli trasse un lampo dalle
+altrui volgari osservazioni, che fa una forte immagine della
+magrezza, lampo che merita per l'opposito, d'essere molto
+encomiato.  -- Varianti.  ^Parean li occhi~, il 3, copia di un
+sincrono; -- ^Parean~, dieci, (I.).  Fer. Witte, Bart.  --
+^Parea~, quattro; -- ^gli occhiaj~, tre; -- ^occhiare~, 14. 42;
+-- ^anelli~, il 22; -- ^Parea l'occhiaja~, (F.).  (N.); -- ^li
+occhiaie~, (M.); -- ^sanza~, (F.).  (N.); -- ^senza~, (M.).
+(I.); -- ^Chi nel volto~, il 12; -- ^Che nel viso~, tre, (M.).
+(I.); -- ^delli omini~, 27. 55.  Bartoliniano; -- ^delli uomini~,
+Ferranti; -- ^cognosciuta~, 5. 12; -- ^conosciuta~, sette; --
+^qui conosc,iuto~, il 18; -- ^Ben avr$ia qui~, il 26; --
+^conosciuto~, le prime quattro edizioni, il 52, Crusca, ecc.; --
+^Paren~, molti; -- ^omo~', Bartoliniano, Roscoe.
+
+	|34-36.  Chi crederebbe~ ecc.  Chi potrebbe mai credere
+che l'odore di un pomo cos@i riducesse que' peccatori, da produrre
+in essi tanta magrezza, e l'odore dell'acqua tanto crescesse la
+sete, ignorandosene la cagione?  BENV.  -- ^S@i governasse~, s@i
+malamente conciasse, intendi ^quelle anime; -- como~, per ^come~,
+dice il Volpi per la rima, ma fu usato anche molto fuori di rima,
+e fu prima forma tratta dal ^quomodo~ de' Latini.  -- Varianti.
+^E qual d'un' acqua non sapendo~, il 52; -- ^L@i governasse~, il
+3, copia d'un sincrono; -- ^S@i governando generasse brama~, sei,
+(N.).  Buti; -- ^Signoreggiasse generando~, il 32; -- ^non
+sapiando~, 10. 41; -- ^non sapendo~, sette, (F.).  (M.).  (N.).
+Ferranti, Witte, Benvenuto, Bartoliniano; -- ^E quello dunque~,
+il 29, (F.).  (N.); -- ^Et quel dunque~, il 36; -- ^non
+sapiendo~, (I.); -- ^Sappiendo~, molti; -- ^E questi dunque non
+sapiendo como~, Vaticano 3199.
+
+	|37-39.  Gi@a era~ ecc.  Gi@a io stava pensando
+all'ignota cagione dell'estrema fame e sete di quegli spiriti; --
+^squama~, per traslato, ^trista pelle, trista apparenza.~
+BENVENUTO.  -- ^Squama~, catacresi, per ^pelle; -- s@i affama~,
+detto per enallage, invece di ^s@i affamava.~  LOMB.  -- Il
+Tassoni dice che ^Affamare~ sta al senso di ^levare il cibo,
+smagrare~; e il Parenti vi aggiunse: <Pare infatti che il Poeta
+la cagione per l'effetto abbia posta, cercandosi a prima vista da
+lui (per valermi delle sue espressioni) qual cosa tanto ^scemi,
+sfogli, assottigli~ quella turba, che intende poi essere cos@i
+punita ^in fame e in sete, -- Per seguitar la gola oltre
+misura~>.  -- Io mi stava pieno di meraviglia, e curioso di
+sapere che tanto affamasse quegli spiriti.  BIANCHI.  --
+Varianti.  ^Gi@a eran in amirar~, (F.).  (N.).  err.; -- ^chi
+s@i~, (M.).  (I.); -- ^li affama~, i pi@u, (F.).  (M.).  (N.).
+Fer. Viv.; -- ^li affanna~, Benv., forse err.  di stampa o di
+amanuense; -- ^s@i l'affama~, il 52; -- ^casone~, tre; -- ^che @e
+ancor non~, il 37; -- ^cagion~, (F.).  (N.); -- ^cagione~, (M.).
+(I.).  Crusca, ecc.; -- ^macrezza~, il 52, e come Dante us@o
+^macro~ per ^magro.~
+
+	|40-42.  Ed ecco del~ ecc.  Ed ecco dalle occhiaje
+profondamente incavate nella testa, un'ombra a me volse gli occhi
+e mi guard@o fiso, poi altamente sclam@o: qual prodigio @e di
+vederti qui sano e ancora vivente?  BENV.  -- ^Del profondo della
+testa -- Volse a me gli occhi~ ecc.  Corrisponde al passato v.
+22: ^Negli occhi era ciascuna oscura e cava.~  LOMB.  -- ^Del
+profondo~ ecc., dalla profonda cavit@a, ove stanno le pupille.
+-- ^Qual grazia~ ecc.  queste parole dimostrano che lo ha gi@a
+ravvisato.  BIANCHI.  -- Varianti.  ^Dal profondo~, il 25, (F.).
+(N.); -- ^e guat@o fiso~, il 4, e il codice Poggiali; --
+^Volsemi~, tre; -- ^Un'ombra a me volse gli occhi~, il 24; -- ^e
+guard@o viso~, (F.).  (N.).  err.; -- ^li occhi~, Fer. e molti
+de' miei spogli.
+
+	|43-45.  Mai non l'avrei~ ecc.  Mai non l'avrei
+riconosciuto al volto, tanto era trasformato; ma lo riconobbi
+alla voce; -- ^aspetto conquiso~, guasto, deformato.  La gola
+altera pi@u degli altri vizj i lineamenti del volto.  Domiziano
+era bellissimo giovane, e per gola si rese deforme; -- ^la voce
+sua~, la voce di quell'ombra non erasi mutata come la faccia.
+BENV.  -- Dante vuol dire che quell'ombra era tanto sformata
+dalla magrezza, che mai non l'avrebbe riconosciuta se non si
+fosse palesata parlando.  -- ^Mi fu palese~ -- ^Ci@o~ ecc., mi
+risovvennero quei caratteri individuali della persona, che
+l'aspetto portava guasti in se stesso.  LOMB.  -- ^Ma nella voce~
+ecc.  Ma la voce mi fe' palese la persona, l'individuo, che io
+non aveva potuto riconoscere al viso, dov'erano ^conquisi~,
+cancellati, distrutti tutti i lineamenti primitivi.  BIANCHI.  --
+Ma nel suono della voce mi si fe' palese ci@o ecc.  -- Quanto
+affetto in codesto riconoscere la voce!  FRAT.  -- Varianti.  ^Io
+non l'avrei~, il 3, copia di un sincrono; -- ^riconosciuta~, il
+9; -- ^Io non avei~, il 31; -- ^recognosciuto~, il 35; --
+^cognosciuta~, il 5; -- ^Ma la vocie sua mi fe~', il 15; -- ^boce
+sua~, il 36; -- ^Ma nella faccia sua~, (F.).  (N.).  (V.).
+erronea; -- ^Ma nella vocie~, (I.); -- ^a s@e avea conquiso~, il
+5; -- ^s@i avea~, quattro, Ferranti; -- ^che l'aspetto suo~, sei,
+e Chigiani; -- ^avea in s@e~, il 31; -- ^aspetto suo~, Roscoe.
+
+	|46-48.  Questa favella~ ecc.  Per traslato di ^favilla
+meravigliosa~, in quanto fa conoscere gli uomini anche non visti,
+mi fece sovvenire d'averlo conosciuto, quantunque fosse
+sfigurato; e questa voce mi ajut@o a ravvisare la faccia di
+Forese.  Costui fu un nobile fiorentino, fratello di Cursio
+Donati, amico e parente di Dante, e con cui visse qualche tempo
+in molta dimestichezza.  Forese in sua vita era stato molto
+goloso.  BENV.  -- Questo picciolo lume di conoscenza datomi
+dalla voce dell'ombra, rese intera la conoscenza mia, anche ^alla
+cambiata labbia~, alla sformata faccia, facendomi cio@e
+riconoscere in lei quei caratteri che ancora v'erano residui, e
+ch'io da prima non riconobbi; -- ^alla cambiata labbia~, intendi
+^alla~ per ^circa la.~  V. il Cinonio; e di ^labbia~ per ^faccia~
+V. il Voc.  Gli Spositori antichi (parlo dei consultati dal
+Lomb.) dissero Forese fratello di Francesco Accursio, il
+giurisconsulto, gi@a ricordato nel XV dell'^Inf.~, e
+s'ingannarono di grosso.  Forese stesso, al v. 13 del Canto
+seguente, dicesi fratello di Piccarda, e quindi fratello ancora
+di Corso Donati.  Vedi Cionacci, ^Storia della B. Umiliana~
+(Part. IV, cap. 1).  Jacopo dalla Lana, il Postill. del Cass. e
+quello del Caetani concordano con Benvenuto.  -- ^Questa
+favilla~, il suono della voce dell'ombra fu una ^favilla~ che
+bast@o a riaccendere tutta la mia conoscenza verso quel volto
+(^labbia~) sformato.  Forese fu anche parente di Dante, avendo
+questi in moglie una Gemma dei Donati.  BIANCHI.  -- Varianti.
+Il De Romanis prefer@i di leggere col Caet.  ^Questa favella~,
+parendogli propria e naturale cosa che venga riconosciuta, dalla
+inflessione e tono di voce, una persona che, per circostanze,
+abbia cangiato d'aspetto.  Il Biagioli sentenzi@o tale letter una
+^guasto imperdonabile.~  Nell'edizione di Pad. 1822, rispettai la
+Vulgata, che gode di maggiore autorit@a, e che dichiarai ^pi@u
+poetica.~  Parve altrimenti al Viviani, e mi contraddisse, e
+resuscit@o la lettera ^favella~, dichiarandola ^di@u poetica,
+pi@u propria e pi@u naturale~, e confortata dal Bartol. e dal
+Flor.; -- ^favella~, leggono undici de' miei spogli, tra' quali
+il 3, copia di un sincrono, la (I.), e tre dei testi fondamentali
+del Witte, e forse Dante cos@i scrisse in pr. lettera; forse
+^favilla~ fu l'opera d'un sciolo, suggerita dal ^mi raccese.
+Questa favella~ legge il 7, con questa chiosa che credo di
+Benvenuto: ^Mirabile est quod loquela indicat de homine etiam cum
+non videtur.~  Preferisco questa lettera per vederla
+francheggiata dai mss. pi@u antichi, pi@u autorevoli, e per
+essere pi@u semplice, pi@u naturale, Bart. Cr. ecc.; -- non
+disapprovo ^favilla~, che veggo seguitata in tutti i testi
+posteriori a quello del Viv.; -- ^tutto si raccese~, sette;
+^tutta si~, il 28; -- ^tutta me raccese~, il 41; -- ^favilla~,
+cinque, Chig.  Vat. 3199, Cr. ecc.  -- Jacopo dalla Lana spiega:
+^favilla~, per ^viso scabbioso~, e lo Scarab. ne loda la chiosa
+intera, ^che disdice quello che altri spiegarono di Forese.~
+Considera.  -- ^Mia conscienza~, quattro, (F.).  (M.).  (N.).
+Vat.; -- ^cognoscenza~, il 43 in margine; -- ^conoscienza~, (I.);
+-- ^e la cambiata~, tre; -- ^a la cambiata~, i pi@u; -- ^alla
+cangiata~, (F.).  (I.).  (N.).  (V.).  e il 53; -- ^mia
+conosentia a le cambiate labia~, Benvenuto.
+
+	|49-54.  Deh!  non contender~ ecc.  E Forese pregava me,
+dicendo: Deh!  non contendere alla secca scabbia che mi fa
+squallido, n@e alla mia magrezza estrema, e narrami il come
+venisti qui, e le novit@a del primo mondo, e chi sono le due
+ombre che ti guidano; parlami in cortes$ia.  BENVENUTO.  -- Di
+^contendere~ al senso di ^attendere~, vedine altri esempj nel
+Voc.; -- ^asciutta scabbia~, @e dal Daniello interpretato per
+^asciutta crosta~; il Lombardi meglio dichiara ^aridezza della
+pelle~, per catacresi.  -- Il Venturi intese: <Deh!  non voler
+contendere la riconoscenza, col rimanerti dubbioso se io son
+Forese>; oppure: <Deh non volere negarmi quello che ora sono per
+richiederti>.  -- Il Poggiali dichiar@o: <Deh!  non voler essere
+tu scortese meco, per abborrimento di quella aridit@a>, ecc.  --
+Il Biagioli, non persuaso che ^contendere~ qui st$ia per
+^attendere~, chiosa: <Dante ha riconosciuto Forese; questi nol
+sa, e lo crede tuttav$ia inteso a ricercare con l'occhio le
+confuse sue forme.  Adunque Forese vuol dire: Deh!  non stare
+pi@u a contendere la conoscenza mia a ci@o che ha lo aspetto
+conquiso, e ti nega essere me quel desso.  -- Se questa
+sposizione non piace a qualcheduno, pigli quella alla quale d@a
+luogo la preghiera che fanno al Poeta le tre ombre famose
+(^Inf.~, XVI, 28 e seg.)>.  -- Il Bianchi dichiara: ^non
+contendere~, non badare cos@i meravigliato, ^all'asciutta
+scabbia~, alla secchezza che mi deforma la pelle.  --
+^Contendere~, vale ^tendere con tutte le forze~, e qui esprime lo
+sforzo dell'attenzione per ravvisare la persona in quello strano
+mutamento.  Chiama poi ^asciutta scabbia~ le arsicce rughe della
+pelle aderente alle ossa, e che parevan tante squame.  -- Il
+Fraticelli legge invece ^Deh non intendere~, e spiega: non porre
+attenzione, e dice ^intendere~, nel caso nostro pi@u proprio di
+^contendere.~  -- Jacopo dalla Lana legge ^contender~, e chiosa:
+^Deh!  non tenere pur mente al mio viso s@i stramutato.~  -- Il
+Vellutello dichiar@o: ^Contender~, cio@e, ^stare ammirativo~; e
+il Volpi: ^contendere~, per ^attendere, por mente.~  M'astengo
+dall'immutare, ma l'^intendere~ del Chig. e del Rosc. mi pare da
+preferirsi per maggiore chiarit@a e per riuscire il modo pi@u
+elegante.  -- Varianti.  ^All'uscita scabbia~, dodici, (M.).
+Nid.; -- ^alla sciutta~, tre; -- ^Deh!  non attender~, cinque,
+ottima lezione; -- ^all'usata scabbia~, cinque; -- ^non
+intender~, il 17, Chig. Pad. 1859, e Fraticelli; -- ^Di noi
+contender~, il 37; -- ^pregove, la pelle~, il 32; -- ^difetto di
+la carne~, il 24; -- ^di' chi son quelle~, sedici, (F.).  (M.).
+(N.).  Fer. Pad. 1859, Benv., e la seguito per rendere il verso
+pi@u energico, pi@u dantesco; -- ^Ma dimme il vero, dimme chi~,
+il 32; -- ^il vero di te, chi~, 33. 35.  (V.); -- ^e cui son
+quelle~, il 37; -- ^Due anime~, quasi tutti i m s., le pr.
+quattro ediz., Fer. W. Benv. Viv. e tutti i testi moderni; --
+^Du' anime~, Cr.; -- ^Non remaner~, (M.).
+
+	|55-57.  La faccia tua~, ecc.  Dante risponde a Forese:
+Il tuo volto, che io piansi morto, ora non mi d@a minor voglia di
+piangere, scorgendolo tanto trasformato.  BENV.  -- ^Mo~', ora,
+dal latino ^modo; -- s@i torta~, s@i diformata; -- ^doglia~, per
+^dolorosa cagione.~  LOMB.  -- ^Ch'io lagrimai gi@a morta~, che
+morta io bagnai di lagrime.  @E noto il costume degli antichi, di
+piangere sul volto dei cari estinti; -- ^non minor doglia~, che
+allora che moristi.  BIANCHI.  -- Pare strano ^doglia di
+piangere~, ma vale ^tanta da piangere~, come nel V dell'^Inf.~,
+verso 3, ^dolor che punge a guajo~; -- e verso 117: ^A lagrimar
+mi fanno tristo e pio.~  FRATICELLI.  -- Varianti.  I codici
+Chig. e Vat. 3199 leggono: ^Mi d@a di pianger mo minor la
+doglia~; e il Betti s'ingegn@o di propugnarla, ma non attecch@i;
+-- ^mo minor la doglia~, leggono per@o quattro de' miei spogli;
+-- ^di pianger ora minor~, il 52; -- ^Mi d@a a pianger~, il 15;
+-- ^Mi d@a da pianger; -- non minor voglia~, tre; -- ^di pianger
+gi@a~, cinque; -- ^Risposi io lui~, dieci de' m. s., (F.).  (N.).
+(I.).  Nid. W.  Rosc.; -- ^Rispuosi a lui~, 25. 38; -- ^a lui,
+vedendola~, tre, Fer.  e il 3, copia d'un sincrono.
+
+	|58-60.  Per@o mi di~', ecc.  Per@o mi di', per amore di
+Dio, qual @e la cagione che vi rende tanto magri; non tenerti in
+forse, per meravigliarmi d'una tanta trasformazione; ch@e male
+pu@o esprimersi chi @e immerso in pi@u interessante pensiero.
+BENV.  -- ^Che~, per ^qual cagione -- s@i vi sfoglia~, adopera
+^sfogliare~ metaforicamente per ^ispogliare di carne, e ridurre
+all'ossa~, come si riduce al legno albero per isfogliarlo.  --
+^Non mi far dir~, ecc.  La magrezza di quelle anime invogliava
+Dante di saperne la cagione, sino al punto d'interrompere la sua
+risposta a Forese.  LOMB.  -- ^Per Dio~, @e qui preghiera, non
+giuramento.  BIANCHI.  -- Varianti.  ^Che s@i vi spoglia~, (F.).
+(I.).  (N.).  e il 7, con questa dichiarazione, presa, credo, da
+Benvenuto: ^Quid est illud, quod ita spoliat vos carne, -- chi
+s@i vi spoglia~, tre, (I.); -- ^mi meraviglio~, Bartolin., il 41
+ed altri; -- ^@e pien d'altra doglia~, tre; -- ^chi preme d'altra
+voglia~, il 5; -- ^chi @e punto~, il 42; -- ^pu@o dire~,
+Nidobeatina.
+
+	|61-63.  Ed elli a me~: ecc.  @E un influsso della divina
+giustizia nell'acqua e nell'albero, rimaso a dietro, che mi rende
+tanto estenuato.  BENVENUTO.  -- ^Del~, per ^dal -- eterno
+consiglio~, per ^divino stabilimento.  -- Cade~, s'infonde,
+^virt@u~ ecc. una certa attivit@a, per forza della quale io a
+questo segno mi dimagro.  LOMB.  -- Dalla divina giustizia, che
+s@i dispone, scende ecc.  BIANCHI.  -- ^Sottiglio~, l'Ottimo: <La
+vista acuisce il desiderio, il desiderio dissecca le membra>.
+Nota del Fraticelli.  -- Varianti.  ^Dall'eterno~, sette; -- ^da
+l'eterno~, il 53, e il testo del Daniello; -- ^Ed ello a me~, il
+35; -- ^Et elli~, i pi@u, (I.).  Fer.; -- ^De lo eterno~, (M.).
+Fer.; -- ^Cade virt@u, la quale @e nella pianta~, il 17, err.; --
+^Rimasa dietro~, tre, (M.); -- ^di retro, per ch'io
+m'assottiglio~, il 3, copia di un sincrono; -- ^s@i
+m'assottiglio~, diecinove, (F.).  (N.).  Nid. W. Bart. Caet. Cr.;
+-- ^in dietro~, 5. 21.  (F.).  (N.).; -- ^und'io~, il 7; --
+^adrieto, adietro, retro~, variamente; -- ^mi sottiglio~,
+l'Ottimo, Cr. e seguaci; -- ^Rimasa addietro, ond'io s@i mi
+sottiglio~, Scar.  Vedi la sua Nota.
+
+	|64-66.  Tutta esta gente~ ecc.  Tutta questa gente che
+piangendo canta: ^Signore, apri le mie labbra~, riesce santa
+soffrendo fame e sete, cos@i purgando il peccato della gola.
+BENV.  -- ^Per seguitar~, enallage, invece ^per avere seguitato;
+-- piangendo canta~, intendi ^giugnendo all'acqua ed alla
+pianta~, come @e detto di sopra al v.  21; -- ^In fame~, ecc., si
+rif@a qui santa, si purga dal peccato di gola, per fame e per
+sete che qui soffre.  LOMB.  -- Varianti.  ^Cotesta gente~, il 4;
+-- ^Tutta sta gente~, tre, Benv. Nid.; -- ^che piangendo tanta~,
+(V.); -- ^oltra misura~, nove, (M.).  (I.).  W. Benv. ecc.; --
+^mesura~, 29. 41; -- ^ultra~, il 41; -- ^qui si fa santa~, 2. 4;
+-- ^In fame e sete~, tre.
+
+	|67-69.  Di bere~ ecc.  L'odore ch'esce del frutto e
+dello sprazzo d'acqua, che si sparge lungo i rami dell'albero
+allo in su, genera in noi l'appetito di bere e di mangiare.
+BENV.  -- ^Sprazzo~ e ^Sprazzare~, adoperarono molto gli antichi
+a vece di ^Spruzzo~ e di ^Spruzzare.~  Non faccia caso che Dante
+attribuisca odore ad un'acqua pura; ch@e ^odorem aquae~ ricorre
+nel Libro di Giobbe (Cap. XIV, verso 9).  LOMB.  -- ^N'accende
+cura~, move desiderio, appetenza; -- ^dello sprazzo~, dello
+spruzzo, dello zampillo dell'acqua che della roccia cadendo si
+spargeva sopra le foglie del verdeggiante albero.  BIANCHI.  --
+Varianti.  ^M'incende cura~, il 5; -- ^L'odor ch'usc$ie~, il 34;
+-- ^de lo sprazzo~, molti, (M.).  Fer.; -- ^spracio~, il 41; --
+^e de lo spazzo~, (F.).  (N.).  err.; -- ^Che si discende su~,
+diciotto; -- ^discende gi@u~, il 6; -- ^descende~, l'8; --
+^disciende pi@u su la~, il 33; -- ^distende~, i pi@u, le prime
+quattro ediz.; -- ^per sua verdura~, ventotto, Caet. Vaticano
+3199 Chig. Benv., le prime sei ediz., Viv. Fer., tre de' mss. del
+Witte, e la restituisco al testo; -- ^per la verdura~, Cr. e
+seguaci, e i testi moderni; -- ^su per sua~, Vat. Caet. Bart.
+Roscoe.
+
+	|70-72.  E non pure~ ecc.  N@e gi@a una volta sola,
+girando questo suolo, ci rinnova questa pena della fame e della
+sete, io dico ^pena~ e dovrei dire pi@u presto sollazzo.
+BENVENUTO.  -- Non pure una volta, ma tante, quante giungono a
+questo arbore.  VELLUTELLO.  -- ^Spazzo~, per ^suolo~, molto
+usato dai nostri antichi.  V. il Voc.; -- ^dovr$ia dir solazzo.~
+Vuol significare che il piacere di satisfare alla divina
+giustizia era in quell'anime superiore alla pena che soffrivano.
+LOMB.  -- ^E non pure~ ecc.  Accenna che altri alberi incontrano,
+girando attorno ^lo spazzo~, oss$ia il suolo del cerchio.
+BIANCHI.  -- Varianti.  ^E non pur che una volta~, il 21; -- ^E
+non pur va a volta questo~, il 33; -- ^spacio~, il 41; --
+^spatio, solatio~, ecc., Benv.; -- ^questa pena~, 5. 25; -- ^ci
+rinfresca~, 6. 52; -- ^Gridando, si~, sei, Nid.; -- ^rafresca~,
+il 36; -- ^rimfresca~, (F.).  (N.); -- ^rinfrisca~, (M.); -- ^e
+dovr$ia dir~, quattordici, (N.).  Benvenuto, Bartoliniano; --
+^dovrie dir~, il 25, Nidobeatina, Roscoe; -- ^dovrei~, tre; --
+^devr$ia dir~, il 41, Bartoliniano; -- ^solacio~, il 41.
+
+	|73-75.  Ch@e quella voglia~ ecc.  ^...agli @albori~,
+parla in plurale, perch@e altri alberi aveva gi@a veduti in quel
+girone; -- ^Che men@o Cristo~ ecc., quando pendente dalla croce
+nella sua agon$ia sclam@o: ^Eli Eli~ ecc., voci che equivalgono a
+^Deus, Deus meus, quare dereliquisti me~?  quando redense il
+genere umano col suo sangue.  BENV.  -- ^Ch@e quella voglia~
+ecc., conciossiach@e ci mena all'albero quel desiderio che men@o
+Cristo lieto a dire: ^Eli lammasabacthani~, cio@e, ^Dio mio,
+perch@e mi hai abbandonato~?  quando col prezioso suo sangue ci
+liber@o dal Demonio.  Cristo, qual uomo, temette la morte, ma per
+redimerci la pat@i lietamente; cos@i quell'anime temono la fame e
+la sete nell'appressarsi all'albero, ma per purgarsi vi ritornano
+volontieri.  DANIELLO.  -- ^El@i, El@i, lamma sabacthani~, parole
+di Cristo su la croce, poco avanti di spirare; -- ^con la sua
+vena~, col suo sangue.  BIANCHI.  -- Varianti.  ^Alli alberi ci
+mena~, dodici de' miei spogli, (F.).  (N.).  (V.).  Benv.; --
+^agli arbori~, tre, (I.); -- ^a li alberi~, il 53, e la seguito,
+per le molte autorit@a che la confortano, e per essere parecchi
+quegli alberi in quel girone, siccome vedremo nel Canto seguente.
+Il Com. del Z., che credo non diverso da quello di Benv., dice:
+<^agli arbori~, Hoc dicit, quia invenit aliam arborem in eadem
+via, ut patebit in capitulo sequenti>; -- ^all'albero~, nove,
+(M.).  Fer.; -- ^all'arbore ne mena~, il 32; -- ^E quella
+voglia~, tre; -- ^mi mena~, il 21; -- ^Che men@o lieto Cristo~,
+12. 38; -- ^Che men@o Cristo a dire hel@i, hel@i~, il 32; -- ^a
+dire hely~, il 41; -- ^a dire hel@i~, (F.).  (I.).  (N.); --
+^Quando liber@o noi~, il 4; -- ^Quando noi liber@o~, il 33; --
+^arbore~, molti.
+
+	|76-78.  Ed io a lui~: ecc.  O Forese, disse Dante,
+cinque anni non sono ancora che tu moristi.  Era morto nel 1296.
+BENVENUTO.  -- ^A miglior vita~, a differenza di coloro che si
+dannano, i quali mutano mondo a vita peggiore.  LOMBARDI.  --
+^Non son volti~, cio@e, non sono scorsi o passati insino a
+quest'ora.  BIAGIOLI.  -- Varianti.  ^Forese, di quel d@i~, il
+36; -- ^modi a miglior~, il 3, copia di un sincrono; -- ^e
+miglior~, l'8; -- ^modo a miglior~, quattro; -- ^modo e miglior~,
+il 31; -- ^mutasti 'l mondo~, (I.); -- ^Cinque anni non son volti
+in fin a qui~, le pr. quattro ediz.; -- ^infino a qui~, il 53,
+Witte.
+
+	|79-81.  Se prima fu~ ecc.  Se tu tardasti a pentirti del
+vizio della gola fin al punto di morte, in cui ti riconciliasti
+con Dio ecc.  BENV.  -- Se la mortale ultima malatt$ia t'imped@i
+di esercitare il vizio, a cui eri dedito, della gola prima che ti
+sopravvenisse il pentimento del vizio, quel pentimento con
+dolore, che ne riunisce a Dio.  ^Maritare~ al senso di
+^congiungere~, fu usato anche dai Latini.  Orazio, ^Epod.~ 2.
+^Ergo aut adulta vitium propagine -- Altas~ maritat ^populos.~
+LOMB.  -- ^Ne rimarita~, l'anima @e detta nelle Sacre Carte sposa
+di Dio; ma da lui @e divisa dal peccato, che la rende adultera; e
+il pentimento la torna all'antica unione.  BIANCHI.  -- Varianti.
+^Se pr$ia non fu~, il 17; -- ^Se prima in te fu la possa~, il 43;
+-- ^che se venisse l'ora; -- sovenisse~, ventisei, (F.).  (N.);
+-- ^sovvenesse~, la Nid.; -- ^sovenesse~, (I.); -- ^Del buon
+voler~, 12. 15; -- ^che a Dio vi~, il 17. 22.  (F.).  (I.).
+(N.).  (V.); -- ^Nel buon dolor~, il 33; -- ^ve rimarita~, Nid.;
+-- ^vi rimer$ita~, (I.).
+
+	|82-84.  Come se' tu~ ecc.  Vuol dire: Se tu indugiasti
+il pentimento sino al punto di morte, come hai potuto entrare s@i
+presto in Purgatorio, mentre i negligenti a pentirsi deggiono
+vagar fuori tanto tempo quanto ne vissero impenitenti?  Io mi
+pensai di doverti trovare nell'antipurgatorio.  Dante fa questa
+domanda per cogliere poi il destro d'imprecare contro le
+scostumate Fiorentine.  BENV.  -- Il Torelli chios@o: <Non appare
+qual forza abbia qui l'avverbio ^ancora~ (intendi con
+l'interpunzione della Vulgata).  Forse deve leggersi: ^Come se'
+tu di qua venuto?  ancora -- Io ti credea~ ecc.>.  L'arguta
+osservazione non isfugg@i al Lombardi, il quale, al suo solito,
+non si fece scrupolo di appropriarsela.  Il Biagioli, nel suo
+impegno di contraddir sempre al Lombardi, volle difendere la
+Vulgata, con l'attribuire all'avv. ^ancora~ il senso di ^a
+quest'ora~ (^ad hanc oram~), intendimento che non fece fortuna; e
+trattine i testi della E. B. e del Viviani, tutti i moderni (non
+escluso il Fanfani) accettarono l'interpunzione proposta dal
+Torelli.  -- ^Dove tempo~ ecc., dove il tempo che indugiarono i
+pigri a pentirsi ^si ristora~, si risarcisce, si emenda con
+altrettanto tempo di penosa esclusione dal Purgatorio.  LOMB.  --
+Var.  ^Quass@u venuto ancora~?  i pi@u; -- ^di qua venuto~, Ald.
+Rosc.; ^di qua venuto~?  pi@u di venti de' miei spogli, (M.).
+Nid. Vat. 3199, Chig. Padovane, Fer. W. e tutti i moderni; --
+^Como se' tu venuto qui~?  il 32, e il 38; -- ^sie tu~, il 41; --
+^quaggi@u di sotto~, tre, (F.).  (I.).  (N.).  (V.); -- ^Ove
+tempo~, otto, (M.).  Nid.; -- ^L@a dove tempo~, il 4; -- ^per
+tempo ristora~, il 12; -- ^L@a ove~, tre, (N.); -- ^L@a 've~, 18.
+43; -- ^L@a ove tema per tema~, (F.).  (I.).  (N.).
+
+	|85-87.  Ond'elli a me~: ecc.  Forese risponde di essere
+stato graziato per le preghiere della sua moglie Anella, che
+visse tanto pudica e temperata, quanto fu intemperante e goloso
+il marito.  Morto ch'ei fu, non cess@o mai di pregare Iddio per
+lui; -- ^lo dolce assenzio~, dolce per la speranza dell'eterna
+salute.  BENV.  -- ^Dolce assenzio~ ecc., metaforicamente per le
+^bramate pene del Purgatorio.~  LOMB.  -- Le quali pene sono amare
+per se medesime, e dolci perch@e fanno le purganti anime degne
+della beatitudine eterna.  E. B.  -- Si faccia attenzione a tutto
+questo colloquio, che spira una meravigliosa soavit@a di
+domestici affetti.  Nella, quantunque giovine, morto Forese,
+serb@o casta vedovanza, e fece molte opere buone a pro dell'anima
+di lui.  BIANCHI.  -- Var.  ^Ond'elli a me~, quasi tutti i miei
+spogli, le pr. sei ediz., Benv., e la seguito; -- ^Ond'egli~,
+parecchi, Vat.  Chig. Witte; -- ^Ed egli~, Crusca, ecc.; -- ^Ed
+elli~, il Fer.; -- ^el dolce~, il 3; -- ^assenzo~, cinque, e le
+pr. cinque ediz.; -- ^di mart$iri~, nove; -- ^La Anella mia~, il
+9, e Benv.; -- ^con suo pianger~, i pi@u, e le pr. cinque ediz.;
+-- ^Nella~, i pi@u, accorciamento di ^Annella~ o ^Giovannella~, o
+simili; -- ^piangere~, per ^supplicare piangendo.~  LOMB.; --
+^piagner~ e ^pianger~, variamente; -- ^con suo pianger~,
+Bartoliniano.
+
+	|88-90.  Co' suoi preghi~ ecc.  Anella, col suo continuo
+lagrimare e pregare, mi ha fatto presto giugnere qui, traendomi
+dalla costa dell'antipurgatorio, dove le anime stanno aspettando
+tanto tempo, quanto indugiarono il pentimento, e m'ha liberato
+dagli altri gironi inferiori dei superbi e degl'invidiosi.  BENV.
+-- ^Degli altri giri~, cio@e, della pena che avrei dovuto patire
+in altri gironi per altri peccati.  FRATICELLI.  -- Varianti.
+^Con suoi prieghi~, quattro, (N.).  Benv. W. Fer.; -- ^Co' suoi
+preghi~, parecchi; -- ^Con suoi~, le prime quattro edizioni; --
+^devoti, con sospiri~, il 14; -- ^e suoi sospiri~, Pad. 1859; --
+^divoti~ e ^devoti, preghi~ e ^prieghi~, variamente; -- ^onde
+s'aspetta~, quindici, (M.).  Nidobeat. Ferranti; -- ^dalla
+costa~, 5. 26.  (I.); -- ^della valle ove~, il 30, Vaticano 3199,
+Chigiani; -- ^Tratto m'ha alla costa~, (F.).  (N.); -- ^dagli
+altri~, sette, (I.); -- ^degli altri~, (F.).  (N.); -- ^de li
+altri~, (M.).  Ferranti.
+
+	|91-93.  Tant'@e a Dio~ ecc.  La vedovella mia, che tanto
+amai riamato, @e a Dio tanto pi@u cara, quanto @e pi@u sola nel
+ben operare.  BENVENUTO.  -- ^Soletta~, cio@e, ^quasi sola sola.~
+V.  il Voc.  Qui non vuolsi intendere che a Dio sembri pi@u
+grande la virt@u quanto @e in pi@u pochi, ma perch@e in mezzo
+agli empj deve il giusto adoperare maggior virt@u per reggere
+nella dritta via.  LOMB.  -- Il serbarsi buono ed intero nella
+universale corruzione, come @e pi@u difficile per la seduzione
+dell'esempio, cos@i @e anche pi@u meritorio davanti a Dio.
+BIANCHI.  -- Varianti.  ^Tanto @e~, tre e le prime quattro ediz.;
+-- ^Tanto a Dio @e pi@u~, Padovana 1859; -- ^che molto amai~,
+pi@u di trenta de' miei spogli, (M.).  Nid. But.  Fer. Padovane
+1822 e 1859, W. e Scarab. con altri testi.  V. la sua Nota.  --
+Il Biagioli grida al guasto, ingiuria villanamente, e vuol che si
+legga ^che tanto amai~ con la Crusca.  L'una e l'altra lettera @e
+buona; il ^tanto~ ha pi@u enfasi, il ^molto~ gode di maggiori
+autorit@a, e toglie l'equivoco che il ^Quanto~, che seguita,
+risponda a questo ^tanto~, mentre risponde al ^Tant'@e a Dio.~
+Seguito quindi i pi@u; -- ^che molto amai~, Fosc. con la Cr.; --
+^che tanto amai~, Vat. Caet.  Rosc. ed altri molti.
+
+	|94-96.  Ch@e la Barbagia~ ecc.  Barbagia @e luogo
+montuoso in Sardegna, in cui vive gente selvaggia, senza leggi,
+senza religione, che si vuole ivi lasciata dai barbari
+dell'Africa; le donne dei quali sono lascive, e si vendono col
+consenso dei mariti.  Vestono tele bianche di lino, e cos@i
+sciolte, che lasciano scoperto il petto; -- ^assai -- Ne le
+femmine sue~ ecc., pi@u pudica assai nelle sue femmine, ^Che la
+Barbagia~, cio@e Fiorenza, novella Barbagia, per disonesti
+costumi e per l'inverecondo vestire delle donne.  BENVENUTO.  --
+Chiamasi in Sardegna quel paese Barbagia, quasi Barbarico.
+LANDINO.  -- Una Nota del Postill. del cod. Caetano dice: che
+quando i Genovesi tolsero la Sardegna agl'Infedeli, non
+riuscirono a sottomettere que' montanari, le donne de' quali
+vestivano di un sottile ^pirgolato~, che lasciava trasparire le
+membra.  -- Questo pirgolato dovea in sostanza essere un velo
+molto rado e trasparente; -- ^la Barbagia dov'io la lasciai~,
+cio@e, Firenze, novella Barbagia pei lascivi costumi e per la
+pessima usanza d'un vestire inverecondo.  BIANCHI.  -- Var.
+^Sardegna~, quattro, e (I.); -- ^Sardigna~, i pi@u, (F.).  (M.).
+(N.).  Cr.; -- ^barbaza~, quattro; -- ^barbasgia~, il 17, (F.).
+(N.); -- ^Barbagia~, con iniziale majuscola, tutti i testi
+moderni; -- ^pi@u @e pudica~, quattordici, Bart. (M.).  Pad.
+1859; -- ^@e propudica~, il 33; -- ^Barbargia~, Vat. Roscoe
+(bis).
+
+	|97-99.  O dolce frate~, ecc.  Carissimo fratello, che
+vuoi ch'io dica delle femmine del tempo nostro?  Ho gi@a dinanti
+agli occhi un non lontano avvenire.  BENV.  -- Il Lombardi
+rimosse l'interrogante alla fine del v. 97, per togliere
+(diss'egli) una ^insignificante e stucchevole riempitura~, e
+chiosa: O dolce frate, da che vuoi ch'io dica (scongiurandomi
+^per Dio~), o di (quasi aggiunga) anche ci@o ch'io preveggo.  --
+Il Biagioli propugn@o la Vulgata, trovando naturalissima la frase
+^che vuoi tu ch'io dica~?  e propria di un'anima che, compresa da
+subito e forte pensiero che l'attrista, rimane per un istante
+irresoluta.  E volendola esprimere in altro modo (soggiunge il
+Biagioli), potrebbe dirsi: ^O dolce frate, che cosa mi fai dire?
+che cosa m'impegni a dire~?  Niuno, che io sappia, accett@o
+l'intendimento del Lombardi; -- ^antica~, per ^anteriore~, forse
+dall'aggettivo latino ^anticus~, e con la stessa persuasione di
+Nicol@o Perotti, che ^omnia quae post nos sunt~, postica
+^dicuntur, sicut quae ante nos sunt, appellantur~ antica
+(^Cornucop. ad epigr.~ 2).  LOMBARDI.  -- ^Che vuoi tu ch'io
+dica~?  @E naturalissima espressione di chi, turbato da un subito
+pensiero, rimane per poco irresoluto nel dire.  -- ^Cui non
+sar@a~ ecc.  Al qual tempo non sar@a molto anteriore l'ora
+presente.  ^Anticus, qui est ante.~  BIANCHI.  -- ^M'@e gi@a nel
+cospetto~, nell'intelletto.  Altrove (^Purg.~, XIV, 58) ^Io
+veggio~ ecc.  Modi di vaticinio.  FRAT.  -- Varianti.  ^Che vuo'
+tu ch'io dica~?  29. 52. le prime quattro ediz.; -- ^hor che vuoi
+tu~, il 30; -- ^O dolce padre~, (F.).  (I.).  (N.).  (V.); --
+^n'@e gi@a nel cospetto~, il 5; -- ^conspetto~, 12.  17.  (M.).
+(I.).  Aldina, Roscoe; -- ^Cui non ser@a~, (M.); -- ^quest' ovra
+molto amica~, il 20.
+
+	|100-102.  Nel qual~ ecc.  Nel qual tempo verr@a proibito
+dal pulpito alle sfacciate Fiorentine il lasciar nudo il petto.
+BENV.  -- ^Pergamo~, @e lo luogo alto, dove stanno li predicatori
+ad annunciare la parola di Dio al popolo.  BUTI.  -- Var.  ^Nella
+qual~, 15. 21; -- ^fia in pergamo~, tre; -- ^nel pergamo~, il 4,
+-- ^fie~, 10. 41; -- ^lo pergamo~, il 35; -- ^in pergamo
+indiretto~, il 43, che reca in m. (al. ^interdetto~); --
+^D'andar~, il 4; -- ^con le polpe il petto~, il 5; -- ^Andar~,
+18. 40.
+
+	|103-105.  Quai Barbare~ ecc.  Quando mai fra li popoli
+barbari o fra Saraceni fu d'uopo prescrivere alle donne l'andar
+coperte, sotto minaccia di pene civili o canoniche?  Eppure le
+donne fiorentine ebbero bisogno di tanto!  Gerio Aretino imit@o
+Apulejo nel fare la satira de' costumi delle donne fiorentine,
+satira per@o che sarebbe applicabile ad ogni paese.  BENVENUTO.
+-- ^Discipline spiritali~, riprension di parole, che spirando si
+formano, chiosa il Vellutello con soverchia stiracchiatura.  --
+Intendi invece ^pene spirituali~, come sono l'interdetto o la
+scomunica; ^od altre~, come sono le multe, il carcere, la frusta,
+ecc.  LOMB.  -- ^Quai Saracine.~  Nel medio evo si chiamavano
+indistintamente Saraceni tutte le nazioni (tranne gli Ebrei) che
+non professavano il cristianesimo.  FRAT.  -- Varianti.  ^Qual
+barbare fuor mai~, tre; -- ^formai~, il 41; -- ^coperte~, dodici,
+le prime cinque ediz., W.  Viv. Rosc. ecc.; -- ^O spiritale~, 7.
+26; -- ^O spiritaglie~, il 14, che ha ^spiritali~ nel Com.; -- ^o
+altre medicine~, il 26; -- ^disciprine~, il 33; -- ^per fal ir
+coperte~, il 35.
+
+	|106-108.  Ma se le~ ecc.  Ma se le sfrontate avessero
+novella certa de' castighi che Dio loro prepara (stragi di mariti
+e di figliuoli, dispersioni di beni, esigli, incendj, ecc.) per
+gridare piet@a avriano le gole aperte.  BENV.  -- ^Ammanna~,
+ammanisce, prepara, o raccoglie, aduna insieme.  ^Ammannare~,
+cio@e, ^far manne~, che sono que' fascetti di paglia che si fanno
+dai mietitori, e che diconsi anche ^covoni.~ VENTURI.  -- Ma
+^Covone~ non @e sinonimo di ^manna~ o ^mannella~, sibbene
+accrescitivo di ^Covo~, il quale @e un grosso fascio di paglia
+composto d'una certa quantit@a di ^manne~, oss$ia di manipoli
+mietuti.  Nota del Parenti (^Ann. Diz.~); -- ^fosser certe~,
+sapessero; -- ^il ciel veloce~, intendi ^a compiere i suoi giri,
+a volger gli anni.~  BIANCHI.  -- Varianti.  ^Ma se le
+sventurate~, tre; -- ^fusser~, (M.); -- ^Di ci@o~, ventidue,
+(F.).  (N.).  Pad. 1859, (M.).  (I.); -- ^Gi@a per gridar~, il
+21; -- ^Gi@a per urlar avvien~, il 41, e le pr. quattro ediz.; --
+^Gi@a per velare avrian~, 3. 4; -- ^le quance aperte~, Vat. 3199,
+erronea.
+
+	|109-111.  Ch@e, se l'antiveder~ ecc.  Che se non falla
+la previdenza mia, saranno punite prima che giunga a pubert@a chi
+ora @e lattante.  BENV.  -- Forse la profez$ia allude alla strage
+del 1315, presso Monte Catini, per opera di Uguccione della
+Faggiuola; -- ^con nanna~, con quella cantilena con la quale
+sogliono le madri o le nudrici far addormentare i bambini.  LOMB.
+-- Accenna alle fazioni, alle frequenti cacciate de' cittadini,
+alle morti, alle confische, alle diverse guerre esterne onde fu
+in questo tratto di tempo travagliata Firenze.  BIANCHI.  -- La
+battaglia di cui sopra accennammo, fu combattuta il 20 agosto del
+1315.  FRAT.  -- Varianti.  ^L'anteveder~, il 14; --
+^l'antivedere non m'inganna~, il 34; -- ^E se l'antiveder~,
+parecchi, Viv. Fer.; -- ^qui no m'inganna~, (F.).  (N.); --
+^Prima fier triste~, dodici, (F.).  (N.).  (V.); -- ^Pr$ia~, 26.
+34; -- ^emp@eli~, il 10; -- ^e' impeli~, il 43; -- ^Colui che
+ora~, il 3, copia d'un sincrono; -- ^si concilia~, il 5; --
+^consola con vanna~, 7. 14, che hanno nel Com.; ^idest, qui vagit
+in cunabulo, et gestatur ad cantum mulieris, quae dicitur~ vana,
+^alita ninna; -- per nanna~, quattro, Roscoe; -- ^con manna~, 11.
+37; -- ^con anna~, 40. 52.  (M.); -- ^con la nanna~, Padovana
+1859.
+
+	|112-114.  Deh!  frate~, ecc.  Forese soggiunge poi: Deh,
+fratello, non pi@u nascondermi cosa alcuna, e palesati com'ho
+fatto io; tu vedi che tutti questi spiriti tengono gli occhi fisi
+nella tua persona, che fa ombra ai raggi del Sole.  BENV.  --
+^Rimira l@a dove il Sol veli~, rimira l@a dove col tuo corpo fai
+ombra.  LOMB.  -- ^Non mi ti celi~, intorno alla cagione e al
+modo onde sei venuto qui.  BIANCHI.  -- Var.  ^Deh!  frate, fa
+che pi@u~, il 40; -- ^De, frate~, le prime quattro ediz.; --
+^Tutti rimiram l@i~, il 17.
+
+	|115-117.  Per ch'io a lui~: ecc.  Per la quale preghiera
+io, Dante, risposi a Forese: Se ti richiami alla memoria qual
+fosti meco in patria e fra quelle donne, e qual io fui teco,
+ancor ti sar@a molesto il presente ricordo; perch@e la memoria
+del passato non pu@o essere senza vergogna e dolore.  BENV.  --
+^Se ti riduci a mente~, ecc.  Se ti richiami alla memoria qual
+viziosa vita insieme menammo, deve esserci di dolore il farne
+menzione.  LOMB.  -- La nostra conversazione di l@a, che sentiva
+della vanit@a e dei disordini del secolo; o semplicemente quali
+ci mostrammo l'uno all'altro.  -- ^Ancor fia grave~ ecc., la
+stessa memoria de' passati errori e pericoli ne dar@a tormento.
+BIANCHI e FRATICELLI.  -- Var.  ^Se tu riduci~, sette; -- ^Se tu
+reduci~, dodici, (F.).  (I.).  (N.); -- ^Qual meco fosti~, 12.
+38; -- ^fusti~, il 41, (I.); -- ^Non ti fia grave~, 17. 30.
+(M.).  Nid.; -- ^fie grave~, (I.).  Fer.; -- ^mormorar~, (I.).
+
+	|118-120.  Di quella vita~ ecc.  ^...costui, -- Che mi va
+innanzi~, Virgilio, ^mi volse~ ecc., mi volse dalla viziosa vita,
+^l'altr' jeri~, circa sei giorni prima; -- ^la Sora di colui~, la
+Luna, sorella del Sole, la quale @e tonda ai 14 di marzo, essendo
+il Sole in Ariete.  BENV.  -- ^Di quella vita~, intendi ^viziosa;
+-- l'altr' jer~, qui esprime tempo indeterminato, e vale ^pochi
+giorni fa.~  TORELLI.  -- Il Biagioli vuole che ^Di quella vita~
+non s'abbia a sottintendere ^peccaminosa, viziosa~, e vuole che
+s'abbia ad intendere ^di quell'altra vita.~  Vuol Dante
+impeccabile, un sant'uomo, mentre altrove lo rappresenta gran
+peccatore.  Rimando i pi@u curiosi alla risposta ch'io gli feci
+in proposito nel Dante della Minerva di Padova 1822.  -- ^Di
+quella vita~, da quella misera condizione mi trasse ^costui~,
+Virgilio, simbolo della ragione e della filosof$ia, facendomi
+conoscere da prima l'infelicit@a del mio stato, quindi
+spaventandomi con la vista dell'Inferno, e facendomi poi purgare
+de' vizj per la penitenza e l'esercizio delle contrarie virt@u.
+BIANCHI.  -- Varianti.  ^Da quella vita~, il 14; -- ^mi tolse~,
+il 17, (F.).  (N.); -- ^va nanzi~, il 41; -- ^l'altrer~, il 52;
+-- ^Ci si mostr@o~, 5. 52; -- ^la suoro~, il 5; -- ^se mostr@o la
+sora~, il 41; -- ^Et Sol mostrai~, (F.).  (I.).  (N.); -- ^E 'l
+Sol mostrava~, il 18.
+
+	|121-123.  (E il Sol mostrai).~  ecc.  E additai il Sole;
+-- ^costui~, Virgilio mi ha guidato sano e salvo a traverso del
+nero Inferno, dove sono i dannati senza speranza, ^con questa
+vera carne~, col suo vero corpo che gli tien dietro.  BENV.  --
+^Che 'l seconda~, che unitamente all'anima gli va appresso.
+LOMB.  -- Varianti.  ^Costui per la fonda~, cinque; -- ^e costui
+per la fronda; -- di veri morti~, ventidue, Scarab.  V. la sua
+Nota; -- ^di neri morti~, parecchi, (F.).  (N.).  (V.); -- ^de'
+veri morti~, dodici, (M.).  Nid.; -- ^da' veri~, l'11, Vat. 3199,
+Viv. (I.).  Crusca; -- ^vedere i morti~, il 32; -- ^Nocte~, (F.).
+(I.).  (N.); -- ^Con queste vere carni~, il 15; -- ^carne mi
+seconda~, 2. 20; -- ^che 'l secunda~, (F.).  (N.); -- ^che il
+seconda~, molti, W. ecc.; -- ^che seconda~, Roscoe.
+
+	|124-126.  Indi m'han tratto su~ ecc.  Indi co' suoi
+conforti mi ha tratto su questo monte col girarlo e rigirarlo;
+questo monte che purga voi che vi macchiaste di peccati
+nell'altro mondo.  BENVENUTO.  -- ^Che drizza~, ecc., che con le
+sue pene raddrizza in voi le storture del peccato, che nel mondo
+contraeste.  LOMBARDI.  -- Che rifa giusti e retti voi, che il
+mondo aveva corrotti e traviati.  BIANCHI.  -- ^Rigirando~, qui
+non vuol dire ^Circondare, andare in giro~, ma @e iterativo di
+^girare~, siccome in Dante era un ^circuire con pi@u giramenti~
+quella montagna.  PARENTI (^Eserc. fil.~ n+o~ 10, p 67).  --
+Varianti.  ^Indi m'ha tratto su co' suoi~, 5. 37; -- ^m' han
+tratti su~, il 33; -- ^Salendo e riguardando~, cinque, (F.).
+(I.).  (N.).  (V.); -- ^raguardando~, il 17; -- ^Che drizza noi~,
+quattro, (F.).  (N.).  Rosc.; -- ^cui il mondo~, il 26; -- ^che
+il mondo~, molti, Witte.
+
+	|127-129.  Tanto dice~ ecc.  E Virgilio dice che mi
+accompagner@a finch@e sar@o dove sia Beatrice, dove converr@a
+ch'io rimanga senza di lui.  BENV.  -- ^Compagna~ per
+^compagn$ia~, dissero gli antichi anche in prosa.  V. il Voc.; --
+^rimagna~, per ^rimanga~, metatesi in voci di simile
+composizione, molto usata dagli antichi.  V. il Cinonio.  Dante,
+^Purg.~ III, v. 4: ^Io mi ristrinsi alla dolce compagna~; e
+^compagna~ per ^compagn$ia~, l'usarono anco Gio Vill. ed il
+Petrarca.  -- Varianti.  ^Di farmi su compagna~, otto, Pad. 1859,
+Ald. Rosc.; -- ^di [--?]'ne sua~, il 14; -- ^Ch'io sar@o dove~,
+3. 18; -- ^Che sar@o l@a~, il 4; -- ^dove sar@a~, cinque, Caet.
+Nid.; -- ^dove fia~, Caet. can. Dionisi, Cr.; -- ^dove sia~,
+Benv.; -- ^dove fie~, quattro; -- ^ch'io sanza~, quattro; -- ^che
+sanza~, 29.  (F.).  (M.).  (N.); -- ^Ivi convien~, il 42; -- ^qui
+convien~, Roscoe.
+
+	|130-133.  Virgilio @e questi~ ecc.  Questi @e Virgilio,
+che tanto mi fa intendere, e lo accennai col dito, e l'altro @e
+l'ombra di Stazio, per cui poco fa ogni parte di questo monte si
+scosse, liberandola da queste pene, e manda purgata al cielo.  Il
+tremito del monte indica che l'anima purgata si @e resa degna di
+Dio.  BENV.  -- ^Scosse dianzi~, trem@o poco fa da ogni lato.
+LOMB.  -- ^Pendice~, rupe, fianco di monte, sponda.  E. B.; --
+^la sgombra~, la diparte, lasciala salire al cielo.  LOMB.  -- ^E
+quest' altro~, cio@e Stazio.  Non lo nomina, perch@e
+probabilmente ignoto a Forese; -- ^ogni pendice~, figuratamente
+ogni sua parte.  FRAT.  -- Varianti.  ^Virgilio @e questo~, 9.
+10; -- ^@e quello~, alcuni m. s.; -- ^E questo altro~, il 5. 53;
+-- ^altra~, il 10; -- ^e quell'altro @e quel~, 12. 38; --
+^Diss'io a lui, e quest'altro~, il 28; -- ^E additallo~, il 37, e
+parecchi altri, e la Nidob. e Roscoe, lettera che ho preferita;
+-- ^additolo, addita'lo, additailo~, variamente ne' manoscritti;
+-- ^si scosse dianzi~, 33. 40; -- ^Per cui scosse deanzi~, il 41;
+-- ^Del vostro regno~, quattro, Roscoe, (N.); -- ^Lo nostro
+regno~, il 21; -- ^lo sgombra~, ventidue, Benv. (M.).  Nidob.
+Fer. W.; -- ^la sgombra~, (F.).  (I.).  (N.).  Cr.; -- ^lo
+'ngombra~, il 5; -- ^il vostro monte~, il Chig.; -- ^Per cui lo
+scosse~, il 24, err.; -- ^lo sgombra~, Aldina. 

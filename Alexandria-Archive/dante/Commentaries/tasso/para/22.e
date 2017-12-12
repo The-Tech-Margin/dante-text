@@ -1,0 +1,132 @@
+	|2.~ |(ed.  Rosini)~
+Parvol.  [richiamo marginale] [Sessa]
+
+	|5.~ |(ed.  Rosini)~
+Anelo.  [richiamo marginale] [Sessa]
+
+^Anelo~, che sospira.  [Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+Muoi.  [richiamo marginale] [Sessa]
+
+	|17.~ |(ed.  Rosini)~
+Mache.  [richiamo marginale] [Sessa]
+
+	|21.~ |(ed.  Rosini)~
+^Ridui~, riduci.  [Da Fino]
+
+	|23.~ |(ed.  Rosini)~
+^Sperule~, anime.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+Abbellivan.  [richiamo marginale] [Sessa]
+
+	|25-27.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|43.~ |(ed.  Rosini)~
+Rilusse.  [richiamo marginale] [Sessa]
+
+	|46.~ |(ed.  Rosini)~
+^Fuochi~, anime.  [Da Fino]
+
+	|48.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^Dilatata mia fidanza~, fatto confidente.  [Da Fino]
+
+	|56-57.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Sempre era~, non vi @e moto.  [Da Fino]
+
+	|67.~ |(ed.  Rosini)~
+^S'impola~, si muove col polo.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+^Ti s'invola~, t'@e tolta.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+^Ma per salirla.  Salire~, col quarto.  [Sessa]
+
+	|75.~ |(ed.  Rosini)~
+Perch@e non si eseguia.  [Da Fino]
+
+	|76-78.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+Sacca.  [richiamo marginale] [Sessa]
+
+	|79-80.~ |(ed.  Rosini)~
+^Ma grave usura tanto non si tolle~
+^Contra 'l piacer di Dio~,
+non dispiace tanto l'usura.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Altro pi@u brutto~, di meretrici.  [Da Fino]
+
+	|87.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+^Volto @e retrorso~, vanno a contrario.  [Da Fino]
+
+	|99.~ |(ed.  Rosini)~
+^Turbo~, vento.  [Da Fino]
+
+	|106.~ |(ed.  Rosini)~
+^S'io torni mai, Lettore.  Se~, imprecativo.  [Sessa]
+
+	|108.~ |(ed.  Rosini)~
+^Le mie peccata~: e poteva dir ^peccati~.  [Sessa]
+
+	|109-110.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|116.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+^Padre d'ogni mortal vita~, Sole.  [Da Fino]
+
+	|121-122.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|127.~ |(ed.  Rosini)~
+Inlei.  [richiamo marginale] [Sessa]
+
+^Inlei~, ti faccia sua: ^S'io m'intuassi, come tu t'immii.~  (Par. c. 
+IX v. 81).  [Da Fino]
+
+	|128.~ |(ed.  Rosini)~
+Quanto mondo.  [richiamo marginale] [Sessa]
+
+	|132.~ |(ed.  Rosini)~
+Etera.  [richiamo marginale] [Sessa]
+
+	|133-135.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+	|135.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|136-138.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|139-153.~ |(ed.  Rosini)~
+Astrologia.  [Da Fino]
+
+	|144.~ |(ed.  Rosini)~
+^Maja~ e ^Dione~, per Mercurio e Venere.  [Sessa]
+
+	|150.~ |(ed.  Rosini)~
+Quanto sia dall'uno all'altro.  [Da Fino]
+
+	|151.~ |(ed.  Rosini)~
+L'ajuola.  [richiamo marginale] [Sessa]
+
+	|154.~ |(ed.  Rosini)~
+^Occhi belli~, di Beatrice.  [Da Fino]
+

@@ -1,0 +1,23 @@
+--
+-- The SQL*Loader control file for loading poem text (tercets)
+-- or commentary text into the database.
+--
+-- The /dev/null in the INFILE line gets overwritten by the DATA= command line
+-- argument, but the "str '###\n'" remains in effect.
+--
+OPTIONS (SILENT=FEEDBACK)
+LOAD DATA
+  CHARACTERSET 'WE8ISO8859P1'
+  INFILE '/dev/null' "str '###\n'"
+  APPEND INTO TABLE ddp_text_tab
+  (
+  doc_id		CHAR TERMINATED BY ',' ENCLOSED BY '"',
+  comm_id		CHAR TERMINATED BY ',' ENCLOSED BY '"',
+  cantica_id		INTEGER EXTERNAL TERMINATED BY ',',
+  canto_id		INTEGER EXTERNAL TERMINATED BY ',',
+  start_line		INTEGER EXTERNAL TERMINATED BY ',',
+  end_line		INTEGER EXTERNAL TERMINATED BY ',',
+  text_language		CHAR TERMINATED BY ',' ENCLOSED BY '"',
+  source_path		CHAR TERMINATED BY ',' ENCLOSED BY '"',
+  text			CHAR (200000) ENCLOSED BY '"'
+  )

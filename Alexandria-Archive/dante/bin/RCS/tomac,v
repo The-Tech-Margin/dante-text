@@ -1,0 +1,43 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.31.00;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@prepare files for macintosh dowloading.
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh -f
+
+# tomac-shell script to prepare files for macintosh dowloading.
+# Accepts multiple files as argument, labelling the output files
+# with the filename, plus the suffix ".m".
+#	Usage: "tomac file ...
+# Written by Jonathan Altman
+
+if ($#argv == 0) then
+	echo Usage: $0 "<filename>"
+	exit 1
+endif
+
+umask 002
+foreach FILE ($argv)
+set OUTPUT=$FILE.m
+text2mac $FILE -n $FILE > $OUTPUT
+echo File $FILE ready to download.  Run Darterminal download of $OUTPUT.
+end
+@

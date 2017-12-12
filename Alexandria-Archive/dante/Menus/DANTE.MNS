@@ -1,0 +1,94 @@
+{DANTE}
+
+:COMPARE @PTEXT
+    TO "S"
+	:COMPARE @SELECTION
+	     TO "S"
+		:RETURN
+	:DONE
+
+	:SET @P1 ~Search~
+	:SET @M1 ~S|s|~
+
+    TO "Q"
+	:SET @TMP ~List Available Databases~
+	:SET @P1 ~Return to SearchMate Selection Menu~
+	:SET @M1 ~Q|q|~
+:DONE
+
+:PRINT ~@HEADING_Available Dante Utility Functions are:\n
+	\o2M\f2 - Send or Read Electronic Mail\n
+	\o2L\f2 - List Commentators on database\n
+	\o2P\f2 - Change Account Password\n
+	\o2H\f2 - Display Help\n
+	\o2@PTEXT\f2 - @P1\n\n~
+
+:GET @SELECTION ~Enter your selection [@PTEXT]: ~ "L|l|M|m|H|h|P|p|@M1@M2"
+
+:COMPARE @SELECTION
+     TO ""
+	:SET @SELECTION ~@PTEXT~
+
+     TO "H|h"
+	:SET @SELECTION ~~
+	:MENU ~DANTE_H~
+
+     TO "P|p"
+	:SET @SELECTION ~~
+	:PRINT ~@HEADING_\n\t***WARNING***
+Choosing this option will permanently alter your account password.  When you
+alter your password, you must remember what the new password is.  Lost
+passwords are not easy for the system administrators to recover.  Use this
+option with great care.\n\n~
+	:GET @SELECTION ~Enter \o2Yes\f2 to change password[Cancel]: ~
+	:PARSE @SELECTION UPPER
+	:COMPARE @SELECTION
+	     TO "YES"
+		:RUN ~/bin/passwd #USER ~
+	:DONE
+	:SET @SELECTION ~~
+	:PAUSE 
+
+     TO "M|m"
+	:SET @SELECTION ~~
+	:MENU ~MEMOS_~
+
+     TO "S|s"
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "L|l"
+	:SET @SELECTION ~U~
+	:PRINT ~@HEADING~
+	:FILE DISPLAY ~sys(/people/dante/lib/author.list.1)~
+	:PAUSE BOTTOM
+	:PRINT ~@HEADING~
+	:FILE DISPLAY ~sys(/people/dante/lib/author.list.2)~
+	:PAUSE BOTTOM
+	:PRINT ~@HEADING~
+	:FILE DISPLAY ~sys(/people/dante/lib/author.list.3)~
+	:PAUSE BOTTOM
+	:RETURN
+
+     TO "Q|q"
+	:SET @SELECTION ~~
+	:RETURN
+
+     TO "!"
+	:PARSE @SELECTION EXTRACTING @TMP USING ~!~
+
+	:CLEAR STACK
+
+	:COMPARE @SELECTION
+	     TO ""
+		:PRINT ~\cType \o2exit\f2 to return to DDP\n\n~
+		:RUN ~sh -i~
+	     TO "*"
+		:PRINT ~\n~
+		:RUN ~@SELECTION~
+		:PAUSE
+	:DONE
+
+	:SET @SELECTION ~S~
+	:MENU
+:DONE

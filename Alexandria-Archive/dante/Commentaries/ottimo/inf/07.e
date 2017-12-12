@@ -1,0 +1,818 @@
+	|Proemio.~  Chiosa generale sopra il VII [canto] della
+prima cantica.  Trattato di sopra del peccato della gola, intende
+nel presente VIJ capitolo trattare della pena del vizio
+dell'avarizia, la qual'@e uno delli stremi di liberalitade; e del
+vizio della prodigalitade, ch'@e l'altro stremo.  Conciosiacosach@e
+di ciascuna operazione il mezzo sia virt@u, dunque le stremitadi,
+cio@e il troppo e il poco, sono vizii: liberalitade, cio@e
+larghezza ch'@e 'l mezzo intra 'l mal tenere, ch'@e avarizia, e il
+disordinato spendere, ch'@e prodigalit@a, @e virt@u; punendo l'uno
+vizio, fue convenevole cos@i, e ivi medesimo punire l'altro: cos@i
+quivi punisce li avari, e' prodighi, e in questo medesimo
+capitolo punisce il vizio dell'ira; e nel fine del capitolo tocca
+alquanto del vizio dell'accidia, e della pena delli accidiosi.  E
+per@o che avarizia, e prodigalitade sono circa li beni temporali,
+molti reputano che sieno dati e tolti da Fortuna, in questo
+capitolo tocca di Fortuna.  Dividesi addunque questo capitolo
+principalmente in IIIJ parti: nella prima parte pone l'ofiziale
+preposto a questo luogo, e sua contenenza, e idioma: nella
+seconda parte descrive le pene delli avari e delli prodighi, e
+qui inesta questa quistione della Fortuna: nella terza tocca di
+quelli, che sono puniti nel V circulo, dove discrive la pena
+dell'iracundi: nella quarta in quello medesimo circulo pone
+quella delli accidiosi; e quivi finisce suo capitolo.  La IJ
+parte comincia quivi -- ^Qui vid'io gente~ ec.; la terza comincia
+quivi -- ^Noi ricidemmo il cerchio~ ec.; la IIIJ quivi -- ^Che
+sotto l'acqua~ ec.  E innanti che pi@u oltre si passi, si
+soddisfaccia qui a colui, che domanda come @e che in questo
+circulo punisce IIIJ generazioni di peccatori, e nel due una, e
+nel primo una.  E puotesi dire, che questi vizii procedano dal
+peccato spirituale, che nell'anima si concepe, per@o che avarizia
+non @e altro che indebito amore di pecunia; questo amore
+s'ingenera nella potenzia concupiscibile.  Ira @e appitito di
+vendetta; accidia @e uno fastidio che l'animo prende per non
+operare; prodigalitade @e uno scialacquamento [e] spendio delle
+proprie facultadi.  Per queste diffinizioni appare, che questi
+vizii s'ingenerano in quelle potenze dell'anime irascibili, e
+concupiscibili; e qui d'avarizia si scriver@a alquante cose: delle
+spezie dell'avarizia, di quelle cose che per alcuno modo
+nutricano l'avarizia, le quali sono di tre generazioni; poi li
+rimedj contra il detto vizio; ultimo della prodigalitade.  A
+vitiperazione dell'avarizia fa imprimamente questo, che la natura
+ne disconforta questo vizio, e quasi @e contra la natura: vuolle
+la natura che la terra fosse inferma pi@u che tutte l'altre
+creature, e ch'ella fosse calcata da' piedi di tutti, sanza
+dubbio amaestrandoci per questo, che noi dovemo colli piedi della
+mente calcare queste cose terrene, e disprezzarle.  Perch@e dunque
+@e questo, che l'uomo antipone a Dio, e a tutte le creature quella
+creatura, la quale la natura vuole che sia messa drieto a tutte? 
+In secondo luogo a vitiperazione dell'avarizia fanno le
+maladizioni, che la Santa Scrittura fa alli avari, delle quali
+ne porremo queste XIJ che seguitano.  Isaia, capitolo V, dice:
+guai a voi che congiugnete casa a casa.  A capitolo XXXIJ dice:
+guai a te che rubi, per@o che tu sarai anche rubato tu. 
+Abacuccho, capitolo due, dice: guai a colui che raguna le cose
+non sue; e capitolo X dice: guai a colui che raguna l'avarizia
+rea [n]ella sua casa.  E Amos profeta dice, capitolo V: guai a
+voi che siete ricchi in Sion; ed elli medesimo dice: guai a voi
+che dormite ne' letti dell'avorio.  E Santo Iacopo, capitolo V,
+dice: or piagnete ricchi, urlate nelle miserie che vi avvegnono;
+e nella IJ sua epistola dice: guai a coloro che se n'andaro per
+la via de' cani.  Il principio della malizia de' cani fue
+l'avarizia, onde per la via de' cani se n'andaro quelli che
+seguitaro l'avarizia.  E nell'Apocalis, capitolo VIIJ, @e scritto:
+guai, guai, guai a quelli che abitano in terra; li abitanti in
+terra a modo di talpe sono li avari.  Santo Agostino dice: guai a
+coloro che vivono per accrescere le cose, che debbono perire, per
+perdere l'etternali; elli medesimo dice: maladetto lo spenditore
+avaro, al quale @e Idio largo.  Se tu, o lettore, sapessi che
+alcuno Santo avessi maladetto alcun cibo da mangiare, appena
+ardiresti a mangiare quello: come adunque l'avaro ardisce di
+toccare le riccheze, conciosiecosach@e la Scrittura Santa, ch'usc@i
+della bocca de l'Altissimo, maladica coloro che l'amano, di tante
+maladizioni?  In terzo luogo fa a vitiperazione dell'avarizia, in
+ci@o ch'ella @e una servitudine d'Idoli, per@o che l'avaro fa suo
+Iddio le ricchezze.  In IIIJ luogo a vitiperazione di questo
+vizio fa, che intra le inf[e]rmitadi spirituali ella @e pessima, o
+almeno una delle piggiori.  Ecclesiastico, V capitolo, dice: @e
+infermitade pessima, la quale io viddi sotto il Sole, le
+ricchezze consumare in male del Signore ec.  Le spezie
+dell'avarizia sono usura, rapina, male tolt[o], frodolenti
+mercatanzia, ritenimenti di presenti; avarizia d'avocadi,
+avarizia de' ministeri della Chiesa; simonia; il peccato di
+quelli che edificano Sion in sangue, cio@e che quello de' poveri
+acolgono per dare agli parenti; il peccato di coloro, che per
+violenzia entrono nelle Chiese; l'avarizia de' prelati mercenarj;
+il giuoco de' dadi.  VI cose sono che danno materia all'avarizia;
+la prima @e la famigliaritade de' cupidi, e avari; la siconda la
+considerazione della avarizia; la terza che l'uomo atende nella
+ricchezza quelle cose sole, le quali possono parere care; la
+quarta @e l'amore della vanagloria; la quinta @e l'amore de'
+figliuoli; la sesta che l'uomo spera d'avere lunga vita.  [VI]
+sono li rimedj contro all'avarizia; il primo la considerazione
+della morte; il secondo la considerazione della povert@a di
+Cristo; il terzo la considerazione del pericolo dove noi siamo;
+il quarto la considerazione di quella miseria che hanno dato alla
+ricchezza; il quinto che l'uomo si dilunghi dalli cupidi, e
+avari, e familiari dell'avarizia.  Il VI la considerazione delle
+ricchezze etter[n]e.  Della prodigalitade diremo, che la
+prodigalitade si puote distinguere dalla larghezza in pi@u modi.
+Il primo, che 'l prodigo d@a il suo per vanagloria, il largo per
+virt@u di liberalitade; il IJ @e, che 'l prodigo non d@a le sue
+cose, anzi le perde; il largo d@a, e non getta.  E diremo de' mali
+che seguitano la prodigalitade; dell'ira alcune cose si
+tratteranno nella chiosa particulare di questo capitolo, sopra
+quella parte che comincia: ^Noi ricidemmo~ ec.  E 'l rimanente si
+scriver@a sopra il XV capitolo del Purgatorio, dove l'iracundi si
+purgano dall'accidia; alquanto tratter@a il chiosatore, quasi
+nella fine del capitolo, sopra quella parola: ^Che sotto
+l'acqua~; e 'l rimanente, che fia poco, scriver@a sopra il
+capitolo XVII del Purgatorio, dove li accidiosi purgano loro
+macchie.  Chiosa particulare sopra il VII canto della prima
+cantica ec.
+
+	|1-2.  Pape Satan~,... |Cominci@o Pluto~ ec.  In questo
+primo del digradamento al quarto circulo, d[o]ve l'avarizia si
+punisce, pone alla guardia della mal ragunata muneta uno
+Infernale, che i poeti pagani appellaron |Pluto.~  Pluton @e
+vocabolo greco, e viene a dire, secondo Isidero, ^Diespiter~, o
+^Dorispiter~, i[l] qual altri chiamano Orco, cio@e ricevitore di
+morti: elli @e padre di Dite, cio@e padre delle ricchezze: apo li
+Pagani, costui fu detto Dio d'Inferno.  E per@o che questo @e il
+primo loro Iddio, che ne oc[cor]re un poco a dichiarare, di
+questa materia sporremo qui l'oppenione paganica delli Idii, la
+quale pi@u pienamente ne verr@ae in fra pi@u, e diversi capitoli di
+questa Comedia.  Dice Santo Ysidero nel libro delle Etimologie,
+libro X, capitolo XI: [quelli] li quali li Pagani affermano
+essere stati Idii, sono manifestati essere essuti gi@a uomini, e
+dopo la lor morte cominciarono ad essere adorati secondo li loro
+meriti di ciascuno, o vita; onde in Egitto fu adorata Isis; in
+Creti, Jove; in Morroco Juiba; nelle terre del re Latino, Fauno;
+apo li Romani, Romolo Quirino; ad Atena, Minerva; a Samo, Junio;
+all'Isola di Cipri [e di] Panfo, Venus; a Lemno, Vulcano; a
+Nasso, Bacco; a D[elfo], Appollo.  In laude d'essi li poeti con
+loro versi gli levarono in Cielo; questo deificamento
+atribuiscono elli a loro, perch@e fu alcuno trovatore d'alcune
+arti, s@i come Esculapio la medicina, Vulcano la fabrica: ad
+alcuno delli loro atti pigliano la deitade, s@i come a Mercurio le
+merci, onde @e Idio de' mercatanti; ad alcuni, perch@e furono
+uomini forti edificatori di cittadi, come fu Ne[m]brotto, poi
+chiamato Beel, poi Belzabuz, il padre del re Nino; ed Ercules; e
+infin sono li antichi una gene[a]logia, cio@e generazione di Dii,
+e d'uomini, e di femine, in questo modo che dimostra la
+infrascritta figura, che vole, che Demog[o]r[g]on sia il primo
+Iddio.  Onde tornando a nostra materia, Pluto @e Iddio delle
+mondane riccheze, figliuolo di Saturno e ^Vesta~ sua moglie; s@i
+che contrariamente si conf@a in questo luogo, per@o che avarizia,
+alla quale @e preposto Pluto, nulla @e altro che adunamento di
+ricchezze.  E dice che quando Pluto vide la ragione conducere
+l'umanit@a, si maravigli@o molto; per@o che quivi suole essere
+menata l'umanitade dalla potenzia concupiscibile, non razionale;
+e per@o con voce non chiara (ch@e l'avaro non ha cio@e chiara voce,
+n@e lieto viso) cominci@o a dire: |Pape~, ch'@e a dire una parte di
+gramatica, che ha a dimostrare quella afezione de l'animo, che @e
+con stupore, e maravigliarsi; e due vuolte il disse, per pi@u
+spriemere quello maravigliarsi: |Satan~ @e il grande Demonio:
+|Aleppe~ @e una dizione, che ha a dimostrare l'afezione de l'animo
+quando si duole; s@i che in somma puoti dire, che questo Padre di
+richezza gridasse, maravigliandosi, e chiamandosi, [e] dolendosi,
+l'aiutorio del suo maggiore.
+
+	|3-4.  E quel Savio~ ec.  Queste parole confortative da
+Virgilio a l'Autore son chiare.
+
+	|7-12.  Poi si rivolse~ ec.  Questo testo @e aperto, nel
+quale Virgilio dice a Pluto: o divoratore delli avari, consumati
+dentro con l'avarizia insaziabile.  Nella quale, secondo che
+Senaca dice, l'una cupidit@a nasce da l'altra; e bene dice
+|lupo~, il quale @e bestia rapace, cupido di sangue, e ci@o che co'
+piedi tocca, non vive; molto digiun[a], ed @e molto divoratore:
+tutte queste propietadi sono ne l'avaro.  Soggiugne: non @e sanza
+cagione nostro viaggio; elli @e diliberato in Cielo; laonde tu, e
+'l superbio adultero, il quale tu invochi in tuo aiutorio, fusti
+gittati quagi@u dagli Angioli buoni, de' quali fue capitano Santo
+Michele.  E dice superbio st[r]upo, a denotare che come strupo @e
+inlicito disfioramento di vergini; cos@i costui quan[t]o fu in
+lui, vuolle rapire, e disverginare il vergine regno di Dio;
+manc@oe solamente la possa al volere.  Costui prima vuole
+corrompere, violare la virginit@a di Dio, per la qual cosa @e
+tenuto a tutto il danno, che poi per quello @e....: e come colui
+che disfiora la virgine, le toglie quello bene che mai non pu@o
+raquistare; cos@i costui fece inreparabile male, e da non potere
+compensare: e come il boto de la verginitade non riceve
+dispensazione, [n@e] ricompensazione, per@o che non riceve
+riconciliazione; cos@i questi, che volle avolterare il regno di
+Dio, non puote avere dispensazione, n@e ricompensazione.
+
+	|16.  Cos@i scendemmo~ ec.  Prosegue suo poema, ed @e
+chiaro.
+
+	|22-24.  Come fa l'onda~ ec.  In questa parte l'Autore
+scrive le pene inflitte a questi peccatori dell'avarizia, e
+della prodigalitade; e antimette questa similitudine, come intra
+Cicilia e Calavr[i]a in uno pericoloso passo di mare chiamato
+Cariddi, che @e per uno scontramento d'acqua; che l'acqua che
+viene da levante si percuote e frange con quella che viene da
+ponente, della quale ripercussione, quando si congiungono
+insieme, surgono tanto, che pare che salgano in Cielo, e quando
+ritornano a drieto, pare che scendano in abisso; cos@i qui quelli
+peccatori, correndo l'uno contro a l'altro, urtano, cozzansi, e
+percuotonsi; ma la favola, che di questo Cariddi pone Ovidio, che
+fu una femina vecchia, la quale imbol@oe ad Ercole una vacca; la
+qual cosa Ercule sappiendo, la gitt@o in mare: li Dii la
+convertirono in uno scoglio, il quale come qui imbolava il
+bestiame, cos@i quivi con l'acqua atrae le trapassanti navi: di
+quello scoglio si form@o la favola, s@i che non ha bisogno
+allegoria.
+
+	|25.  Qui vid'io gente~ ec.  L'Autore in questa parte
+fa due cose, nell'una acresce il numero, ne l'altra la pena, a
+dare ad intendere che per questo peccato pi@u che per alcuno
+altro ne vanno a danazione; e questo peccato trae a s@e cherici e
+laici, uomini e femine; e delli cherici s@i li prelati, come gli
+altri minori, li quali sono ministri delle Chiese; e delli laici,
+cos@i li governatori delli regni, e ocupatori delle province,
+come li sudditi; e de' sudditi, come de' cavalieri, come giudici,
+come mercatanti, come artefici; onde per avarizia de' prelati
+commettono simonia, e li minori comperando da loro la grazia de'
+beni spirituali, sono simoniachi, e vendendo ellino alli laici
+cose, che 'l tacere @e bello.  Li principi laici, per ragunare
+pecunia, con diverse generazioni di taglie e di gravamenti
+affogano il suddito.  Li occupatori delle province e delle
+cittadi rubano, predano, e tolgono, e stracciano, e ogni male
+fanno per far sacco di muneta.  I cavalieri in guerra colle
+ruberie, con le prede, con le violenze, uccisione, arsure, e
+guasti; e nella pace con occupare li minori ne' loro servigi, o
+nelle loro cose, cagiono in questo seno de l'avarizia.  Li
+giudici con false sentenzie date per danari, falsi consigli per
+pecunia, confortano nell'ingiusti piati e cause, false
+advocazioni, per li salarj, anzi prezzi dati.  I mercatanti, e li
+artefici in vendere pi@u caro, che possono, in mentire dello
+valere della cosa; o vizio in furti, i quali sono in difettivi
+pesi, numero, e misura, quando vendono, e in soperchj quando
+comperano.  In vendere a termine, ch'@e spezie d'usura; trovare
+luoghi nelli quali la cosa pi@u bella e migliore, o meno
+difettiva mostrano; in prestare a usura, e comperare innanzi, e
+in questo peccato caggiono li giovani, e maggiormente li vecchi,
+e li uomini, e grandemente le femine, la quale generazione delle
+femine @e massimamente avara.
+
+	|26-30.  E d'una parte~... |Voltando pesi~ ec.  Quivi
+dinota la loro pena, e poco pi@u gi@u dice gridando: |perch@e tieni,
+e perch@e burli?~ per@o che qui sono punite due contrarie colpe,
+cio@e avarizia, ch'@e in tenere, e prodigalit@a, ch'@e in gittare il
+suo.  Dice che questi peccatori, rimproverando l'uno a l'altro il
+suo peccato, dicea il prodigo a l'avaro: perch@e tenesti dove tu
+dovevi dare, e togliesti il suo naturale alla moneta, che @e
+spendersi nelle cose di che l'uomo ha bisogno, e tu la
+inchiedesti, e ogni difetto sostenesti per acumulare quella? E
+l'avaro dice: tu perch@e la gittasti? n@e in essa usare avesti
+ordine, n@e misura? gittastila in bocca de' buffoni, de' cani,
+degli uccelli, in disordinati ornamenti, e cose materiose a
+peccare.
+
+	|36-39.  Ed io, ch'avea lo cor~ ec.  Qui domanda l'Autore
+che gente @e quella; e a ci@o il muove, per@o che infra costoro avea
+molti con cherica, ne' quali si mostra come avarizia pu@o in loro;
+e nota ch'erano dal lato sinistro, per@o che maggiore vizio @e
+l'avarizia (la quale a molti fa danno, e a neuno bene per@o, se
+non nella morte), che prodigalitade, che a molti giova, e a s@e
+nuoce.
+
+	|40-48.  Ed egli a me~ ec.  Qui denota la condizione di
+questa gente, e trala da pi@u nobile membro delli uomini, ch'ella
+corrompe.  Dice Gualtieri: nobilissima parte degli uomini sono
+gli cherici, della ragione ch'elli sono ministri delle cose
+divine, le quali sanza comparazione sono maggiori, che le umane;
+e dice, ch'elli furono s@i guerci in questa vita, cio@e che come
+il guerci[o] per difetto ch'@e nell'occhio non guata diritto,
+cos@i costoro per l'avarizia, ch'@e vizio dell'anima, non
+guatarono diritto al fine, al quale da Dio [furon] prestati li
+usi de' beni temporali; e dice: questi furono cherici, li quali
+non hanno in su la cherica copertura di capelli, e sono Papi e
+Cardinali, ne' quali questo vizio mette tutte le sue forze.  Per@o
+che s@i come la febre meno di forza mostra in uno debile, per@o che
+la natura non ha da risistere; cos@i in uno forte mette tutta sua
+potenza.  E per@o che le grande pecunie per simonia pervegnono a'
+grandi Pontefici, e maestri della Chiesa, s@i usa l'avarizia in
+loro, per@o che della sua materia li truova abondevoli in suo
+soperchio.
+
+	|49-66.  Ed io: Maestro~ ec.  In questa risposta di
+Virgilio tocca tre cose il testo: l'una @e della condizione del
+peccato di coloro, quanto al presente loro tormento, ch'@e di ci@o
+che la bruttura di quello vizio li cela, s@i che nullo li conosce.
+Credo che questo parlare usa l'Autore per confonderli sotto il
+generale vocabolo de' cherici, anzi che sotto il propio nome
+d'alcuno, a guisa che dice Tolomeo Astrolago, che l'astrolago dee
+pi@u tosto rispondere per generali parole, nelle quali @e pi@u vero
+e meno repugnanza, che per particulari, nelle quali di leggieri
+si falla.  L'altra @e della forma nella quale risurgeranno con li
+corpi al die del giudicio questi avari, e questi prodighi; ch@e li
+avari surgeranno col pugno chiuso, a dimostrare che sempre
+serraro; e li prodighi co' crini mozzi, a denotare per li capelli
+le loro facultadi mozze dalle loro prodigalitade.  La terza tocca
+della ministra de' beni temporali, secondo i filosofi chiamata
+Fortuna, e della viltade d'essi per lo effetto loro piccolissimo,
+dicendo: or vedi come @e corta la bugia, che 'n s[@e] hano li beni
+temporali, li quali falsamente promettono quello che dare non
+possono, li quali tutti adunati, non che filicitade, ma un poco
+di posa non potrebbono dare ad un'anima partita del corpo.
+
+	|67-69.  Maestro, dissi lui~ ec.  Per@o che Virgilio nella
+sua risposta tocca questo nome Fortuna, e delli beni che sono
+commessi a lei, qui l'Autore si vole certificare che cosa @e
+fortuna, perch@e tra mortali n'@e s@i grande dubitazione, che
+alcuni dicono che fortuna nullo @e altro, che un vano nome, come
+volle sentire Lucano quivi dove dice, che li cavalieri che
+mormoravano contro a Cesere, diceano: andiamne, e lasciamo Cesere
+alla fortuna, il quale dice ch'ella conduce il principe, e il
+principe l'oste; e vedr@a se noi siamo noi la fortuna di che elli
+parla, o se ella @e alcuna cosa fuori di noi, e perch@e ella d@a
+cos@i questi beni, e ritraeli, e spargeli.
+
+	|70-72.  E quegli a me~ ec.  In questa sua risposta
+Virgilio fa due cose; in prima riprende la ignoranza de' mortali
+circa questa fortuna; nella seconda dichiara che @e fortuna, e
+quale @e il suo offizio: la siconda comincia qui:
+
+	|73-76.  Colui, lo cui saver~ ec.  In questa parte fa due
+cose; prima manifesta l'ordine, il quale @e dato da Dio a
+conferire la bont@a divina nelle creature; la seconda si stringe a
+quella essecuzione, ch'@e proposta da Dio a distribuire li beni
+temporali alli mortali; quivi:
+
+	|77-81.  Similemente~ ec.  Nella prima parte dice che la
+infinita sapienzia di Dio onnipotente fece li Cieli: nel
+cominciamento del Genesi dice: ^In principio creavit Deus coelum
+et terram~; e lo movimento di quelli Cieli dispose, e ordin@o le
+intelligenzie, ci@o sono Agnoli, per la cui virt@u li Cieli
+risplendessono di varj lumi, e volle che avessino varj moti: per
+la quale inaccessibile sapienzia in questi celistiali circuli fue
+la luce igualmente distribuita, cio@e per diritta aguaglianza,
+secondo che a ciascuno si conviene; e qui aducer@o una chiosa per
+l'Autore medesimo circa a questa materia de' Cieli sopra quella
+sua canzona, che incomincia: ^Voi che 'ntendendo il terzo Ciel
+movete~; per@o che in questa meglio apparir@a lo intendimento suo,
+che s'io conducessi l'altrui chiose, o mia chiosa.  Dice Dante in
+quella chiosa cos@i: {E avvegnach@e quelle cose per rispetto della
+veritade assai poco sapere si possano, quelle cotanto che l'umana
+ragione ne vede, dir@o: dico che del numero de' Cieli, e del sito
+diversamente @e sentito da molti.  Aristotile, seguitando
+solamente l'antica grossezza delli astrologi, credette ch'elli
+fussero pure otto, de' quali lo stremo, e che contenesse tutto
+fosse quello dove le stelle fisse sono, cio@e l'ottava spera, e
+che di fuori ad esso non ne fosse alcuno altro.  Questa credenza
+ripruova Aristotile medesimo nel secondo ^de Coelo, et Mundo.~ 
+Tolommeo, accorgendosi che la ottava spera si movea per pi@u
+movimenti, vedendo il circulo suo partire dal diritto cerchio che
+volge tutto da Oriente in Occidente, costretto dalli principj di
+filosofia che di necessitade vuole un primo mobile,
+semplicissimo, puose un altro Cielo essere di fuori dallo
+stellato, lo quale facesse questa revoluzione da Oriente in
+Occidente, lo quale si compie quasi in ventiquattro ore, e delle
+quindici parti le XIIII d'un'altra ora.  Sono dunque secondo lui
+nove Cieli mobili, de' quali lo primo @e lo Cielo della Luna, lo
+secondo quello dov'@e Mercurio, lo terzo quello dove @e Venus, lo
+quarto quello dove @e lo Sole, lo quinto dove @e Marte, lo sesto
+dove @e Giove, lo settimo dov'@e Saturno, l'ottavo @e quello delle
+stelle, lo nono @e quello che che non @e sensibile, per questo
+movimento ch'@e detto di sopra, lo quale molti chiamano
+cristallino, cio@e diafano, o vero tutto trasparente.  Veramente
+di fuori da tutti questi Cieli, li Cattolici pongono lo Cielo
+Empireo, che @e a dire Cielo di fiamma, o vero luminoso, e pongono
+esso essere immobile, per avere in s@e secondo ciascuna parte ci@o
+che la sua materia vuole; e questo @e cagione del primo moto, per
+avere velocissimo movimento, che per lo ferventissimo appetito
+che ha ciascuna parte di quello nono Cielo ch'@e immediato, (e
+quello dee essere congiunto con ciascuna di quello decimo Cielo
+divinissimo e quieto) in quello si rivolge con tanto desiderio,
+che la sua velocit@a @e quasi incomprensibile; e quieto e pacifico
+@e lo luogo di quella somma Deitade, che sola compiutamente vede. 
+Cos@i ricogliendo ci@o che ragionato @e, si pare che dieci Cieli
+sieno.  Li movitori di quelli Cieli sono sustanze separate da
+materia, cio@e intelligenze, le quali la volgar gente chiamano
+Angeli: e di quelle creature, siccome delli Cieli diversi,
+diversamente hanno sentito alcuni filosofi, siccome Aristotile
+nella sua Metafisica; e credetter quelle essere solamente quante
+circulazioni fossero nelli Cieli, e non pi@u, dicendo che l'altre
+sarebbero state eternalmente indarno senza operazione, ch'era
+impossibile, conciosiacosach@e il loro essere sia loro operazione. 
+Altri furono, siccome Plato, uomo eccellentissimo, che posero non
+solamente tante intelligenze quanti sono i movimenti del Cielo,
+ma eziandio quante sono le spezie delle cose, siccome una spezie
+tutti li uomini, un'altra tutto l'oro, un'altra tutte le
+ricchezze, e cos@i di tutte.  E vollero, che siccome le
+intelligenze delli Cieli sono generatrici di quelli, ciascuna del
+suo, cos@i queste fossero generatrici dell'altre cose ed esempli,
+ciascuna della sua spera; e chiamale Plato idee, cio@e forme, e
+nature universali; li Pagani le chiamano Dij e Dee, e adoravano
+le loro immagini.  La veritade, che @e di molto innumerabile
+maggiore quantit@a, rimanga in suo luogo.  Il nostro Salvatore
+disse, che 'l padre li potea dare molte legioni d'Angeli, li
+quali sono divisi in tre gerarchie, e ciascuna gerarchia in tre
+ordini, come scriver@a sopra 'l capitolo vigesimo ottavo del
+Paradiso.  Sono questi detti ordini, il primo Angeli, il secondo
+Arcangeli, il terzo Troni, il quarto Dominazioni, il quinto
+Virtudi, il sesto Principati, il settimo Potestati, l'ottavo
+Cherubini, il nono Serafini; perch@e ragionevole @e a credere che
+li movitori del Cielo della Luna, secondo l'ordine degli Angeli,
+quello di Mercurio degli Arcangeli, quello di Venus de' Troni,
+quello del Sole delle Dominazioni, quello di Marte delle Virtudi,
+quello di Giove delli Principati, quello di Saturno delle
+Potestati, quello delle stelle delli Cherubini, poi sieno li
+Serafini; e questi movitori movono solo intendendo la
+circulazione in quello subietto proprio che ciascuno muove.} 
+Tutte queste sono parole di Dante.  Dice dunque che ciascuna
+persona, o vero Cielo, si muove e governa per una intelligenzia;
+ma il moto del primo mobile si causa della divina mente.  Onde il
+Filosofo dice: bisogno @e che la virt@u, che muove il Cielo, abia
+potenzia infinita.  Nella IJ parte dice, che similemente Idio
+diede essecutore, e motore delli beni mondani, il quale com'elli
+sono temporali, cos@i a tempo li distribuisce; per@o che s@i come
+Iddio tutte le cose celestiali governa e regge, o per s@e o per
+suo' Angeli, cos@i ordinasse alli beni temporali rettore e
+governatore.  Questo rettore e governatore non @e altro che la
+voglia sua, e questa sua volont@a d@a, divide, e permuta li beni
+mondani.  Onde Santo Agostino dice: la volont@a di Dio @e la prima,
+e somma grazia di tutti li moti spirituali, e corporali; nulla
+cosa si fa sensibilemente, e visibilemente in questa ampissima, e
+smisurata replubica, che non si comandi e permetta dalla
+invisibile, e [in]intelligibile sala imperiale del sommo
+Imperadore, secondo la inneffabile giustizia delli meriti e delle
+pene, delle grazie e delle ritribuzioni.  Questa dispensazione
+delli beni temporali dell'umana cechit@a, che non vede oltre dalli
+sensi, @e chiamata Fortuna, o vogli ventura; ma fortuna non @e
+altro, che temporale disposizione delle cose provedute, o vero @e
+mutabilitad[e] delle cose temporali; o fortuna @e uno effetto
+particulare non conosciuto dalla scienzia umana, o fortuna @e una
+scienzia delle cose particulari non saputa dall'intelletti umani,
+e per@o non se ne pu@o fare elezione; e per@o dice: oltre alla
+difensione de' senni umani.  Questi beni temporali atribuiti al
+governo della fortuna sono signorie, ricchezze, e fama; le
+ricchezze sono in avere reditaggi, servi, e pecunia; e nelli
+ereditaggi si contiene casamenti, e posessioni; in pecunia si
+contengono danari e tesoro, e ornamenti, e tutto mobile; signorie
+sono di pi@u maniere, delle quali la pi@u degna @e quella del re, e
+di governare cittadi e gente; e seguita:
+
+	|82-84.  Perch'una gente impera~ ec.  Cio@e signoreggia
+nella prosperit@a di questi beni della fortuna; l'altra langue,
+cio@e piangesi e duole, perch@e di questi beni o hanne pochi, o
+quasi neuno; e dice: seguendo il giudicio di costei, cio@e la
+volont@a sua, la quale @e giudicio di Dio occulto, come in erba
+angue, cio@e il serpente il quale sta nascoso, e prima trafigge
+che uomo il veggia.  Oh come sono profondi, e da non potere
+cercare, li giudicj tuoi, Signore] A molti sarebbono, e sono
+state pericolose le potenzie, a molti li onori, a molti le
+ricchezze, a molti la fama: le quali cose come con fatica
+s'aquistano, le pi@u cos@i con pena si ritegnono, e con dolore si
+lasciano.  Oh a quanti fue utile, e salutifero la povert@a, il non
+essere conosciuto, e l'essere privato, e sanza dignitade!  Ma,
+secondo che dice Boezio nel libro della Consolazione, nullo si
+contenta di suo stato; questi piange ch'ha ricchezza e non
+figliuoli; questi si duole ch'ha figliuoli, e non ha che lasciare
+loro; questi si duole che non ha parenti, per li quali sia
+gradito e temuto; questi si contrista ch'@e nato di nobile
+schiatta, per la quale non vorrebbe essere conosciuto per la sua
+povert@a; e seguita:
+
+	|85.  Vostro saver~ ec.  Per@o che fortuna @e una scienzia
+ignorata, non saputa dall'intelletti umani, seguita che 'l senno
+delli uomini non pu@o riparare al suo giudicio; e questo @e
+ragionevole anche in ci@o, che lo libero albitro non @e se non
+quivi, dove la volont@a e lo intelletto puote eleggere; e la
+elezione non si pu@o fare se none in quelle cose, o vero di quelle
+cose che si fano: se fortuna @e, com'egli @e detto, ignota e non
+saputa, per conseguente non si pu@o fare elezione; s@i che albitro
+non le puote contastare: e procede:
+
+	|86-87.  Ella provvede, giudica~ ec.  In queste parole
+pone l'Autore tre atti di fortuna, [con] che ne mostra che quanto
+a s@e, fortuna ella procede da chi ha mero e puro imperio con ogni
+giurisdizione.  Dice ch'ella provvede, con lo quale atto d@ae ad
+intendere che le sue operazioni non sono a caso, ma con somma
+diliberazione, per@o che providenzia @e conoscimento presente, il
+quale ordina di quello che dee seguire; dunque in questo
+provedere usa due uffizj: per l'uno guarda, e considera le cose
+spirituali; per l'altro antiguarda ci@oe che ne puote avvenire, e
+qual puote essere il fine o di bene, o di male.  Poi seguita il
+secondo atto, cio@e giudicare; poi che ha proveduto il fine, si
+ditermina a giudica[re]; onde si schiude che non trabocca, ma
+ottimamente essamina la causa, anzi ch'ella ditermini per
+giudicio.  Salamone dice: il giudicio ditermina le quistioni,
+impone allo stolto silenzio, e mitiga l'ire; il quale atto
+discende da giustizia, la quale secondo Tulio @e donna regina di
+tutte le virtudi.  Senaca dice: giustizia @e virt@u conservatrice
+dell'umana compagnia; e la legge dice: giustizia @e ferma, e
+perpetua volontade, la quale d@a a ciascuno suo diritto.  Il terzo
+atto @e perseguire, per@o che poco varrebe la sentenzia, e 'l
+giudicio, se non si mandasse ad essecuzione; e dice: suo regno;
+cio@e quanto ella distrigne, cio@e d'intorno alli beni temporali,
+ricchezze, signorie, e glorie, come detto @e di sopra; e poi
+procede, e dice: come il loro gli altri Dei; dove poeticamente
+parla l'Autore.  E s@i come detto fue di sopra, li Pagani chiamano
+questi corpi celestiali Dei, e secondo le loro influenzie, cos@i
+denominarono le loro deitadi, s@i come Marte, ch'@e a dire
+influenzia di guerre e di battaglie, Mercurio chiamarono Idio
+d'eloquenzia, perch'@e Idio de' mercatanti, li quali con savitade
+di parlare vendono, e comperano.  E per@o dice, che come questi
+pianeti usano la loro giuridizione in queste cose, ch'elli hano
+a0 ffare operazione; cos@i questa fortuna fa nelle cose a lei
+subiette.  Di costei dice Boezio, nel libro della Consolazione,
+in sua persona: perch@e sola io fortuna delli uomini sono vietata
+usare mia ragione? Or non @e elli licito al Sole di dare li chiari
+d@i, e alla Luna quelli medesimi ricoprire con tenebros[e] notti? 
+Or non @e licito a l'anno d'adornare il volto della terra ora con
+fiori, ora con biade, ora confondere quel viso con piogge e con
+freddi, [e con] baleni la r[e]gione del mare; e ora lusingare con
+abonacciare acque, ora incrudelirsi con marosi e tempeste? Perch@e
+dunque la infinita avarizia delli uomini ci vole legare alla
+fermezza, la quale @e straniera alli nostri costumi?  e soggiugne:
+
+	|88-90.  Le sue permutazion~ ec.  E bene dice che non
+hanno triegue, per@o che sempre sono in moto, e in battaglie; e
+sogiugne: |Necessit@a~ ec.  Il Cancelliere di Bologna Ser
+Graziuolo chios@oe sopra queste parole: cos@i dice il testo, che
+questa fortuna mai non cessa, mai non posa di trasmutare d'uno in
+altro questi beni temporali; che di necessitade ell'@e veloce
+nelle sue influenzie e permutazioni: ma avegna che queste parole
+cos@i suonino, che la fortuna cos@i meni, e faccia influenzia in
+questi beni temporali, e che il senno umano non possa provedere,
+riparare contra l'operazioni e permutazioni di questa fortuna;
+nientemeno sicondo la discrezione della mia giovanezza io
+dichiarer@o alcuna cosa sopra questa materia per difensione, e
+conservazione dell'onore, e della fama di questo venerabile
+Autore, acci@o che per la infamia delli male parlanti, e invidiosi
+non si possa ditrarre, n@e dirogare alla sua vera scienzia, e
+virtude.  Da vedere, e da sapere @e, che Dio, ch'@e la prima causa
+della quale tutte le cose hanno a causarsi per le influenzie e
+delle spere, e circuli del Cielo, s@i come per cause secundarie,
+in queste cose di sotto adopera, e fa influenzie alcuna volta per
+necessit@a, alcuna volta per disposizione e qualitade; per
+necessitade adopera la celestiale spera nel generare, e producere
+qualunque nascente: per@o che necessario @e, secondo naturale
+necessitade causando le virt@u della materia celestiale, che uomo
+ingeneri uomo, bue bue, erba erba ec.; n@e 'n ci@o che dopo il d@i
+venga la notte, e dopo le tenebre notturne si spanda il raggio
+della luce in terra, secondo il na[tu]rale corso e ordine del
+grande lume; se non facesse il contrario miracolosamente e
+supernalmente la infinita potenzia di Dio.  Questa natura del
+Cielo d@a influenzia e disposizione, qualificando e disponendo li
+uomini razionali ad abitare, operare, e perseguire a cotale
+pensiero, cosa, o disiderio, quale in esso infonde la celestiale
+materia: verbi grazia, se il feto, o fanciullo nascer@a
+signoregiante il pianeta di Giove, conciosiacosach@e sotto Jove
+sieno ricchezze e onori, e ciascuno pianeto abbia a dare
+influenzia di quelle cose, di che @e la sua natura, quello
+fanciullo per la influenzia del suo pianeto non si necessiter@a,
+ma disporassi, e innanimerassi volontariamente a ricevere, e
+amare onori, e ricchezze.  Per simile essemplo dir@ae quello
+infante nato sotto Marte, che di sua volontade s'inanimer@ae, e
+disporr@ae, e attender@ae a guerre, e a romori, scandoli, divisioni
+di battaglie.  E che per la influenzia del Cielo non si causi
+necessitade nelli uomini, questa @e la ragione: la incessabile
+sapienza dell'onnipotente nostro Creatore in operazione, e somma
+perfezione di tutti li beni opera nelle creature, e nelle sue
+operazioni perfettissimamente; lo quale quando perfettamente ebbe
+creato l'uomo, diede e spir@oe in lui tre cose: ragione,
+volo[n]t@a, e libero albitrio.  La libertade dello arbitrio sta
+nell'eleggere da operare bene, e male; l'appitito che per s@e @e
+mosso, seguita quello che li piace; la ragione hae a regolare
+l'appitito e fargli seguire virtude; e questo @e secondo che si
+pruova quivi.  Idio fece l'uomo simplice, e diritto, e lasciollo
+nelle mani del suo consiglio; questo @e quello che pruova Santo
+Agostino, quando elli dice: colui che fece te, non giustificher@a
+te sanza te; per@o che Dio, che fece noi sanza nullo nostro
+aiutorio, non giustificher@a, e non dar@a li meriti di vita etterna
+sanza nostri meriti e virtudi; n@e saremo tormentati in Inferno
+se non @e per lo peso, e opere, e meriti delle nostre malizie.  E
+per@o, avegnach@e quella celistiale influenzia di Saturno, o di
+Marte, o d'altro pianeto malvagio di sua natura disponga, e
+chiami li uomini a furto, o povert@a, o guerre, o altri difetti; e
+avegnach@e la influenzia di qualunque pianeto benivolo disponga
+l'uomo a ricchezze, a virtudi, ad onori; niente meno lo pianeto
+benivolo e felice a bene ricevere e a fare non ci conduce, o
+mena, o qualifica, ma dispone[ci].  Per le quali influenzie non
+necessitade sono in portare, ma qualitade, e abito, e
+disposizione, che per lo pi@u sono differenti dalla necessitade:
+ch@e, posto che Piero nato sotto Mercurio, per la influenzia di
+Mercurio sia disposto ad eloquenzia e ricchezze, mai non sarebbe
+bello parlatore, se per ragione, e intelletto con belli
+parlatori, e savi non vorr@a conversare; mai non sar@ae ricco,
+s'elli s'asterr@a di procurare ricchezze e mercatanzie; mai non
+avr@a onori, s'elli dispreger@a onori; mai non verr@a alle predette
+cose influsse da pianeto, s'elli si diletter@ae nel contrario: e
+cos@i diremo di Martino, nato sotto Marte, disposto a battaglia,
+guerre, e scandoli per la influenzia del suo pianeto; il quale se
+si vor@a regere per ragione e per intelletto, allora non seguir@a
+l'apitito e l'abito disposto alle battaglie e mali, ma regoler@ae
+la qualitade e la disposizione per sano giudicio di ragione
+conceduta a lui per la podest@a del libero arbitro.  E cos@i, non
+[o]stante che per alcuni scellerati movimenti di stelle, n@e per
+influenzia rea d'alcuno corpo di pianeto, n@e per disposizione,
+qualitade, o abito alcuno influss[o] da esse (dalle quali sono
+mossi) [sieno] tratti li uomini per necessario moto del Cielo;
+niente meno ciascuno uomo per senno e ragione, e per intelletto
+potr@ae rafrenare, e del tutto rimuovere da s@e li suoi malvagi
+desideri, e volontadi, e intendimenti mali, quantunque procedano
+per influenzia di pianeto, o di stelle.  E questo far@a per
+elezione di migliore consiglio, e per la libertade dello arbitro
+umano; s@i che non perverr@a alle sconcie operazioni; la qual cosa
+s'elli la far@ae, s@i fia degno di laude, e dovr@a essere chiamato
+uomo vero, e razionale, per@o che allora si governa collo imperio
+della ragione.  Ma se elli per suo difetto di debilit@a d'animo, o
+per alcuna subita volont@a, lui traente a cose sconcie, non vorr@a
+vincere, e raffrenare quelli cotali pensieri, qualitadi,
+disposizioni perverse; allora non dovr@a essere appellato uomo, ma
+bestia, per@o che si conduce a modo di bestia per passione d'animo
+e per appitito; e questo si dee alla sua inscusabile negligenzia,
+e malizia volontaria, per@o che non volle schifare le iniquitadi,
+e perversioni, e fellonie, le quali elli pot@e cessare per
+sapienzia.  E quest[o] assai pruova, e verifica quella boce del
+grande Astrolago Tolomeo: il savio signoregger@ae le stelle.  E
+pruovalo Boezio nel IIIJ libro di Consolazione, quando elli dice:
+nella vostra mano @e posto quale fortuna voi vogliate edeficare a
+voi; per la qual cosa seguita, che della influenzia de' corpi di
+sopra non causa necessitade, ma disposizione, e abito, e qualit@a. 
+Ancora, s'elli addivenissi che per movimento di pianeto li uomini
+di necessitade si movessino a male, o a bene operare,
+seguiterebbesi allora cosa sconvenevole, e da non dire; cio@e che
+l'umano arbitrio perissce.  Questo @e falso; e cos@i indarno alli
+buoni meriti, e alli rei pene si darebbono, per@o che a loro non
+si dovrebono dare, perch@e le loro operazioni non procederebbono
+da libero arbitro, n@e da volontario movimento d'animo, ma da
+necessitade; e cos@i si darebbe materia agli uomini di peccare, e
+anche non dovesse loro giovare la semplicezza della virt@u, e
+della buona operazione, da che futura necessitade e da non
+potersi schifare allora ordinasse delli uomini.  E seguirebbe
+altres@i quella fallace iniquissima cosa, cio@e che li uomini
+invano contemplerebbono, e speculerebbono la bont@a e sapienzia
+divina; e indarno amerebbono lui per caritade, e perdarebonsi li
+prieghi, e l'orazioni; e indarno sarebbero scritti li
+comandamenti della divina legge, e che si osservasse caritade,
+fede, speranza, giustizia, fortezza, e l'altre virtudi; e
+amerebbesi a fine di perdere quello che l'uomo facesse: di che
+alli buoni, e alli mali tutte le cose divenissono di necessitade;
+la quale cosa @e contro alla fede, e in tutto e per tutto da
+abominare, e da riprendere, considerata la somma e perfettissima
+giustizia del sa[ntissi]mo, e increato principio, lo quale per lo
+giudicio della sua perfettissima ragione dona alli buoni
+meritandoli grazia, e alli rei pena.  E per@o sopra la materia
+delle premesse parole s[i] conchiude per necessaria ragione, che
+della influenzia delle stelle, che noi comunemente chiamiamo
+fortuna, non si infonde necessit@a di bene e di male, ma veramente
+disposizione, qualitade, e abito a bene e a male; la qual cosa
+pienamente pruova Boezio nella fine del V libro di Consolazione,
+dove dice: sta ferma non corrotta la libert@a dello arbitro alli
+uomini, e sta Dio fermo sopra le menti di tutti, che dispensa
+alli buoni meriti, e alli mali pena.  Ma a vera disposizione, e
+difensione del testo, che dice -- |Le sue permutazion non hanno
+triegue; Necessit@a la fa esser veloce; S@i spesso vien chi
+vincendo consegue~ -- s@i @e da dire, ed @e vero, che la fortuna,
+cio@e il moto suo mai non posa, ma sempre d@a influenzia e di
+muovere, e di necessitade.  Che 'l Cielo continovo si muova, e
+dea influenzia, ma non ch'elli necessiti, come di sopra @e
+provato, e dice -- ^Vostro saver non ha contasto a lei~ {v.85},
+^Oltre la difension de' senni umani~ {v.81} -- si pu@o rispondere
+in due modi: puotesi rispondere, ed @e vero, che l'umana prudenzia
+non pu@o fare, n@e contrariare che 'l Cielo non si muova, e di[a]
+influenzie secondo sua natura; e puotesi rispondere che, dato che
+'l testo dica -- ^Vostro saver non ha contasto a lei~ {v.85};
+cio@e vostro senno non contasta alla influenzia del Cielo, che per
+questo non si toglie via; n@e seguita, che la prudenzia di
+ciascuno uomo non possa infrenare le inlicite, e perverse
+cogitazioni, e disposizioni causate dalla influenzia del Cielo:
+ch@e, posto che Piero ch'@e potente a correre non corra, non
+seguita ch'elli non possa correre; e cos@i posto che 'l senno
+umano non contradica, n@e si opponga alla mala disposizione del
+pianeto, per@o non si toglie, n@e dice il testo che contradicere
+non si possa: di che seguita, che l'umana ragione potrebbe per la
+libert@a del suo arbitro rafrenare li movimenti, e le
+disposizioni, e le qualitadi ree, che disendono dalla influenzia
+del Cielo.
+
+	|91-93.  Quest'@e colei~ ec.  Ancora dice il testo: questa
+fortuna @e quella ch'@e tanto biasimata, vitiperata, e maladetta
+dalli uomini, e pi@u da quelli, li quali de' suoi beni pi@u hanno
+avuto.  In cui persona della fortuna Boezio dice alli uomini:
+quando la natura produsse te, uomo, del ventre della madre, io te
+nudo di tutte le cose ricevetti e bisognoso, colle mie ricchezze
+ti nutricai, e con quello favore ti crebbi (io inchinevole pi@u
+benignamente), il quale ti fa ora impaziente di noi, ed
+intorneati con abondanzia e splendore di tutte quelle cose, le
+quali sono di mia ragione.  Ora mi piace di ritrarne la mano; abi
+grado quello ch'hai auto, s@i come usato l'altrui cose, e non hai
+ragione di dolerti di me, s@i come tu al postutto avessi perduto
+tue cose.  Perch@e dunque piangi? nulla violenza t'@e fatta da noi;
+le ricchezze, e li onori, e tutte altre cotali cose sono di mia
+ragione; e le serviziali conoscono meglio lor donne; meco
+vegnono, me partendomi se ne vanno ec.  Questi si dogliono per@o
+ch'ella non li prospera, e abonda secondo il loro desidero
+perverso, e disordinato, dalli quali degnamente dovrebe essere
+lodata, e onorata s@i per li beni d'essa ch'hanno auto a uso; s@i
+per@o, che conciosiacosach@e in loro sia ragione e intelletto,
+dovrien conoscere e giudicare, che li moti, e la 'nfluenzia della
+fortuna sono necessarj in se medesimo, per@o che di necessitade @e
+che 'l Cielo si muova, e dia influenzia; e in ci@o lodarli, e non
+biasimarli: e seguita:
+
+	|94-96.  Ma ella s'@e beata~ ec.  Per quello ch'@e detto di
+sopra chiaro appare questo testo, cio@e che questa fortuna @e
+beata, cio@e perch@e il Cielo, s@i come una intelligenzia con
+l'altre intelligenzie, le quali furono le prime creature, non
+cura vostre maladizioni e reprensioni, e gode nel suo Cielo, e
+quello muove secondo la provedenzia e disposizione di Dio.
+
+	|97-99.  Or discendiamo~ ec.  Poi che Virgilio ha
+sodisfatto alla domanda dell'Autore in difinire fortuna, e
+mostrare la sua influenzia e moto, qui perseguita il suo
+processo, e in questo testo dinota due cose.  L'una @e l'ora che
+dice, ch'ogni stella, che saliva allora quando elli si mosse al
+soccorso di Dante, va ora ad occidente; perch@e si dimostra in
+ci@o, ch'elli si mosse nel principio della notte, come dice quivi
+-- ^Lo giorno se n'andava, e l'aer bruno~ ec., capitolo IJ di
+questa; [e] mostra che gi@a la mezza notte corresse, s@i che in sei
+ore hae corso [un] quarto [di] ciclo, per@o che ogni stella
+s'intende salire da l'orientale orizzonte al meridiale cerchio, e
+poi scendere infino all'occidentale orizzonte.  E pugnelo
+Virgilio con dire: il troppo stare @e vietato.  La IJ cosa si @e,
+ch'elli d@a ad intendere a l'Autore alquanto della qualitade del
+quinto grado, o vero circulo dello Inferno, nel quale
+presentemente debbono discendere; cio@e ch'elli hanno li peccatori
+maggiore tormento che in questo IIIJ circulo: ed @e processo
+ragionevole, per@o che quanto pi@u si discende al centro, tanto pi@u
+sono gravi li peccatori de' vizj degni di maggiore pena.
+
+	|100-103.  Noi ricidemmo il cerchio~ ec.  Detto di sopra
+del IIIJ circulo d'Inferno, e delli peccatori della avarizia, qui
+discende a trattare del V circulo, e delli peccatori dell'ira, e
+di quelli dell'accidia; e cos@i si divide questo rimanente del
+capitolo in due parti: nella prima parte tratta delli iracundosi,
+e di loro pene; nella IJ delli accidiosi e di loro tormenti; la
+IJ quivi -- ^Che sotto l'acqua~ {v.118} ec.  Dice dunque in
+questa prima parte, che essi ricisono il cerchio, discendendo nel
+V grado sopra una fonte d'acqua bogliente, la quale @e il
+cominciamento della seguente colpa.  Significa, ed @e il secondo
+fiume infernale; e dice che rovescia per un fossato, gi@u lungo il
+quale fossato se n'andarono infino che pervennero ad una palude,
+che si fa di quell'acqua, che discende gi@u per lo fossato, l[a]
+quale ha nome ^Stige~ {v.106}, che viene a dire tristizia.  Poi
+discrive la pena ch'hanno l'anime in quello pantano, che morirono
+nel peccato dell'ira, cio@e che in questa melma, e acqua
+puzzolente e nera si percuotono, e dibattono, e fierono se
+stessi, e mordonsi, e dilaceransi: tutti questi sono segni
+d'iracundi[a].  Ira @e disiderio di vendetta d'alcuna riceuta
+ingiuria; e nasce da aroganza, della quale pi@u pienamente si
+tratter@ae nel XV, e XVI capitolo del Purgatorio.  Ed @e da sapere
+che, s@i come il Filosofo tratta nel IJ de l'Etica, iracundia si @e
+in considerare li mali esteriori, per li quali l'uomo @e provocato
+a ira.  Se l'uomo in cotale considerazione s@e hae debitamente, e
+ragionevolmente, si @e detto mansueto, che li dispiacciono i vizj;
+s'ello s@e hae pi@u in disiderare vendetta, che non @e la ragione,
+si @e detto iracundio; se meno, si @e detto irascibile.  E per@o si @e
+da disiderare quella vendetta delle malfatte cose, ch'@e
+conformevole, e consonante alla ragione: a Dio dispiace molto
+l'iracundio; poich@e l'ira nasce d'aroganza.  Aroganza @e riputarsi
+pi@u degno e maggiore che uomo non @e; d'aroganza nasce ira in due
+modi: l'uno, ira semplice, o vero dispetta; ch'@e quando
+l'arogante vede uno da cui elli non fu mai offeso, e reputalo
+nulla, e di neuno valore: l'altro @e ira contumeliosa, la qual'@e
+contra costoro ch'hanno alcuna volta offeso; e questa ira ha
+appetito di vendetta, sanza alcuna caritade; e per@o che questa
+arroganza disparte l'uomo da amore di caritade, s@i @e in
+dispiacere di Dio.  Contra ira sono i rimedj: silenzio;
+considerazione della passione di Cristo; considerare la divina
+disposizione in ci@o che le fatiche, che li uomini hanno qui, e le
+tribulazioni, Dio le dispensa alli figliuoli suoi, come a lui
+pare che si convegna; considerare l'utilitade ch'hae la
+tribulazione, chi pazientemente soffera, cos@i qui come nell'altra
+vita; considerare li propri difetti; considerare il fine nostro,
+cio@e la morte.
+
+	|104.  In compagnia dell'onde bige~ ec.  Mostra che 'l
+suo viagio era pure verso il centro.
+
+	|109-111.  Ed io che di mirar~ ec.  Qui tocca
+dell'iracundiosi, che sono per la giustizia di Dio posti in quel
+pantano, e discrive lor pena, nella quale assai chiaro @e ogni
+atto d'ira.
+
+	|115.  Lo buon Maestro~ ec.  Chiaro @e il testo.
+
+	|118.  Che sotto l'acqua~ ec.  Qui tratta del vizio
+dell'accidia, e delle pene delli accidiosi; onde nota che quegli
+che sormonta in ira, sormonta per accidia.  Accidia @e un
+fastidio, e tedio d'animo; le spezie di questo vizio sono
+tepiditade, molleza, sonnolenza, oziositade, tardanza, indugio,
+negligenzia, imperfezione, o vero non perseveranza, stracuranza,
+disoluzione, dissollicitudine, pigrizia, non devozione,
+tristizia, fastidio di vita, disperazione.  VIIJ spezialmente
+sono li rimedj contro l'accidia: il primo, essere occupato
+intorno a molte cose; il secondo, la considerazione della futura
+pena; il IIJ, la considerazione dello etterno merito; il IIIJ, la
+compagnia de' buoni; il quinto, l'essemplo del non pigro, ma
+veloce; onde dice il Profeta: ma essultossi come gigante a correr
+via; lo VJ, la considerazione de' pericoli, dove noi siamo qui;
+lo VIJ, quello che n'amaestra il Signore nel Levitico, capitolo
+VIJ, dove dice: il fuoco nell'Altare ec.; l'VIIJ, il sovrano
+rimedio @e la grazia di Dio.
+
+	|121-124.  Fitti nel limo~ ec.  Dice l'Autore, che 'l
+canto delli accidiosi era questo: noi ora f[i]tti nel fango,
+(dicesi tristo pantano) quando eravamo al mondo fumo accidiosi,
+ora ci atristiamo in Stige (che @e a dire tristizia) che ha la sua
+belletta nera; e raguarda, come propriamente l'Autore parla,
+limo, e ogni feccia, e residenzia; e dice: tristi fummo; per@o che
+questo pantano ha nome tristizia (Stige @e interpetrato
+tristizia): or ogni pantano mette di s@e fummo infermo, e tristo;
+dice: ne l'aere dolce; rispetto della trista dov'elli sono, per@o
+che il sole letifica, dove le tenebre fanno il contradio; e dice
+-- |Portando dentro accidioso fummo~; per@o che l'accidia @e
+nell'anima quella propietade, che 'l fumo agli occhi; o vero, ed
+@e pi@u proprio: noi fumo nel mondo fitti nel fango dell'accidia, e
+per@o ci atristiamo ora qui in questo tristo pantano.
+
+	|130.  Venimmo appi@e~ ec.  Cio@e a pi@e dell'aroganza,
+d'onde muove ira, e accidia; e qui finisce suo capitolo ec.
+

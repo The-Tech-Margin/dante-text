@@ -1,0 +1,67 @@
+Return-Path: steve@avalon.dartmouth.edu
+Received: from avalon (localhost [127.0.0.1])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id LAA14399;
+	Mon, 19 Jan 1998 11:23:22 -0500
+Message-Id: <199801191623.LAA14399@avalon.dartmouth.edu>
+To: bobh@phoenix.Princeton.EDU
+cc: steve
+Subject: sorting search results
+Reply-To: Stephen.Campbell@Dartmouth.EDU
+Date: Mon, 19 Jan 1998 11:23:16 -0500
+From: Stephen Campbell <steve@avalon.dartmouth.edu>
+
+Bob,
+
+This user has a good point. It would be handy to have your search results
+displayed in poem order rather than chronological order. BRS has this
+capability. You can even use it if you use the raw BRS interface to the DDP.
+(Just say "..sort ctca,cnto,line" after your search and before the ..print.)
+But our current menu interface does not implement it. It's something we should
+consider if we ever get to redesigning the interface. I'll save this note.
+
+							Steve
+
+------- Forwarded Message
+
+Date:    Mon, 19 Jan 1998 10:46:53 -0500
+From:    Steve Nguyen <snguyen@freenet.toronto.on.ca>
+To:      Stephen.Campbell@Dartmouth.EDU
+Subject: Re: your mail
+
+Example:
+I searched for lucano and i get
+doc#
+3	jacopo	(1322), inf. nota
+4	jacopo	(1322), inf.25.94-99
+
+37	L'Ottimo (1333), inf.25.94-99
+38	L'Ottimo (1333), inf.25.100-102
+
+76	benvenuto (1373), inf.4.90
+81	Benvenuto (1373), inf.21.94-96
+82	Benvenuto (1373), inf.25.94-96
+
+103	Fiorentino (1400), inf.25.94-96
+
+This list of results from the search is in chronological order.  I would 
+like to have the same list that starts with the first of the poem and 
+then the date in which they appear, so my brief list would look like this:
+
+doc#
+3	jacopo	(1322)		inf.nota
+76	benvenuto (1373)	inf.4.90
+
+81	benvenuto (1373)	inf.21.94-96
+
+38	l'ottimo (1333)		inf.24.100-102
+
+4	jacopo	(1322)		inf. 25.94-99
+37	l'ottimo (1333)		inf.25.94-99
+82	benvenuto (1373)	inf.25.94-99
+103	fiorentino (1400)	inf.25.94-99
+
+thank you,
+Hoang Truong 
+
+------- End of Forwarded Message
+

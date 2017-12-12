@@ -1,0 +1,10 @@
+{GOPTS_HQ}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Quit Option Help\f2\n~
+
+:PRINT ~#HEADING
+     This  selection signs you off DDP and returns you to  the  Unix
+     shell.  All results from the current search session are erased.\n~
+
+:PAUSE BOTTOM
+:RETURN

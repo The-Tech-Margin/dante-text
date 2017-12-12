@@ -1,0 +1,92 @@
+Return-Path: lorenzo@ilc.PI.CNR.IT
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.6.11/8.6.9) with ESMTP id DAA16740 for <steve@avalon.Dartmouth.EDU>; Fri, 18 Aug 1995 03:45:29 -0400
+Received: from icnucevx.cnuce.cnr.it (icnucevx.cnuce.cnr.it [131.114.1.30]) by dartvax.dartmouth.edu (8.6.12-DND/8.6.12) with ESMTP id DAA13376 for <Stephen.Campbell@Dartmouth.EDU>; Fri, 18 Aug 1995 03:45:07 -0400
+Received: from pisailc.ilc.pi.cnr.it by mailsrv.cnuce.cnr.it
+ (PMDF V5.0-4 #9955) id <01HU7PWKDTOYIDR41T@mailsrv.cnuce.cnr.it> for
+ Stephen.Campbell@Dartmouth.EDU; Fri, 18 Aug 1995 09:44:49 +0100 (MET)
+Received: from [131.114.41.95] by pisailc.ilc.pi.cnr.it (4.1/SMI-4.1)
+ id AA01007; Fri, 18 Aug 1995 09:45:23 +0200
+Date: Fri, 18 Aug 1995 09:45:23 +0200
+From: lorenzo@ilc.PI.CNR.IT (Lorenzo Moretti)
+Subject: Re: Dartmouth Dante Project test
+X-Sender: lorenzo@pisailc.ilc.pi.cnr.it
+To: Stephen.Campbell@Dartmouth.EDU
+Message-id: <9508180745.AA01007@pisailc.ilc.pi.cnr.it>
+MIME-version: 1.0
+X-Mailer: Windows Eudora Version 2.0.3
+Content-type: text/plain; charset="us-ascii"
+Content-transfer-encoding: 7BIT
+
+>Hello, Lorenzo,
+>
+>This is Steve Campbell, associate of Bob Hollander of Princeton University
+>in the US and technical person for the Dartmouth Dante Project.  Bob tells
+>me that we are going to send you lists of Italian words from the DDP
+>database, and you will check them against your Italian dictionary.
+>
+>Before we spend lots of time and effort to generate large word lists, I
+>would like to run a test using s smaller list.  This will be a "proof of
+>concept," a way to make sure all our procedures work together.
+>
+>Is it possible to transfer the word lists directly to your computer via the
+>Internet? The sample word list I have is only about 200 words totalling
+>about 3K bytes.
+>
+>If direct Internet transfer is not possible and we have to use magnetic
+>tape, I would like to send you a test tape to be sure the format I am using
+>is correct for your machine. I propose to write a QIC-150 tape containing
+>one tar-format archive containing the word list file.  Is that the format
+>you would like?  Can you give me the correct mailing address to which I
+>should send the tape?
+>
+>I look forward to hearing from you.
+>
+>						Regards,
+>						   Steve
+>
+>
+Hello Steve,
+it's OK for your proposal. I agree to test this sample, you can send the
+file to the IP address 131.114.41.95 using ftp anonymous access -- this is
+my personal ftp server. The QIC-150 tape and tar format it's OK - we have
+here Sparc  workstations.
+
+My mailig address is (it is present also in my Signature at the end of this
+msg) :
+
+                        Moretti Lorenzo
+
+Istituto di Linguistica Computazionale - CNR
+
+Via della Faggiola n. 32
+
+                        56126 PISA (ITALY)
+
+you can send here the tape.
+
+                        Best regards,
+
+                                                Lorenzo
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * *
+*                Lorenzo Moretti
+*
+*     Organization: Istituto di Linguistica Computazionale - CNR
+*
+* Correspondance Address:     Via della Faggiola n. 32
+*
+*               City:        Pisa
+*
+*               Zip:         56126
+*
+*               Country:     Italy
+*
+*               Phone:       +39 50 560481
+*
+*               Fax:         +39 50 589055
+*
+*               E.Mail:      lorenzo@ilc.pi.cnr.it
+*
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* * * * * *
+

@@ -1,0 +1,132 @@
+	|Proemio.~  Incomincia il sesto C.o dello inferno.
+
+	^Al tornare della mente che ssi chiuse~
+^dinanzi alla piat@a di due congiunti~
+^che di tristitia tutto mi confuse.~
+
+Poi che 'l nostro altore hae trattato nel passato chapitolo del 
+pecchato della luxuria ora in questo chapitolo vuole trattare del 
+pecchato della ghola e dividesi questo capitolo in cinque parti 
+gienerali.  E prima tratta e ditermina del vizio della ghola.  Secondo 
+fingie che truovi uno conosciente il quale fu nel mondo involto in tal 
+vizio e contalo per nome.  Nella terza l'altore fa una domanda al detto 
+spirito ed egli l'assolve.  Nella quarta muove allo spirito una 
+quistione e llo spirito risponde.  Nella quinta e ultima parte l'altore 
+gli muove un'altra quistione.  In questa prima parte continuando alla 
+sua passata materia tratta del vizio della ghola esso che @e detto di 
+quello in parte nel chapitolo paxato in questo luogho dove sono puniti 
+i ghiotti trov@o una pena nel terzo girone d'inferno.
+
+	|10-12.~ 
+	^Grandine grossa acqua tinta e neve~
+^per l'air tenebrosa si rinversa~
+^pute la terra che questo ricieve.~
+
+Per le dette parole mostra l'altore che 'l pecchato della ghola @e de' 
+pi@u abbominevoli che ssia e il pi@u fastidioso per@o che di lui non se 
+ne vede altro che perdita e danno e infermit@a grandissime e non volere 
+cierchare altro inferno n@e altra pena che hanno questi gholosi se non 
+quella di questo mondo.  Per la ghola nascono infermit@a di rognia 
+ghotti e ogni altro male.  La terra pute del fastidio ch'escie di loro 
+e questa @e lla grandine la neve e ll'acqua che piove sopra questi tali 
+gholosi e ghiotti.  Che per la disordinata vita naschono le varie 
+passioni chalde e fredde le quali consumano il corpo dell'uomo.  E 
+fighura l'altore questo vizio a Cierbero con tre ghole perch@e @e 
+propio vizio di ghola.  E dicie ch'egli ha gli occhi vermigli questo @e 
+per la ebriet@a e lla lebra venuta per la gholosit@a pone la barba unta 
+e atra per la inghordigia.  E 'l ventre largho per lo divorare ci@o 
+cche pu@o giugniere.
+
+	|19-21.~ 
+	^Urlare li fa la pioggia chome chani~
+^dell'un de' lati fanno all'altro schermo~
+^volghonsi ispesso i miseri profani.~
+
+Per questo urlare della pioggia si de' 'ntendere gl'urli e lle strida e 
+i grandi ramarichy che fanno questi gholosi nelle loro infermit@a.  
+Ancora si fanno beffe questi chotali l'uno dell'altro e se non credi 
+ghuarda i ghottosi.  Ancora dicie si volghono spesso.  Questo @e vero 
+perch@e stanno nel letto voltandosi cho ramarichio non trovando posa.  
+E fingie che questo Cierbaro ist@a in questa entrata e che giugniendo 
+Virgilio a llui gittasse della terra e gittassenegli in ghola e subito 
+fu rachetato cio@e che cci@o che ttu mangi si sodisfa la volont@a della 
+fame sanza volere i dilichati cibi e lle ghiotte e diverse vivande.  
+Questo Cierbero che pone l'altore fu un chane e ffu del di Mologia 
+overo di Molosia e ffu il maggiore e 'l pi@u forte secondo che ponghono 
+li altori che mai fosse veduto.  E scrissono che questo chane divora le 
+bestie e gl'uomini.  E diciesi che atterr@o una volta uno chavallo s@i 
+cche antichamente volendo trattare i poeti del pecchato e del vizio 
+della ghola misono questo Cierbaro in fighura di chane perch@e tanto 
+viene a dire Cierbaro quanto divoratore di charne.  Eziandio per la 
+dirivazione del suo nome ci@o i[n] latino quasi viene a dire carobaros 
+cio@e charne divorare.
+
+	|34-51.~ 
+	^Noi passavan su per l'onda ch'adona~
+^la greve pioggia e ponavam le piante~
+^sopra lor vanit@a che par persona.~
+
+In questa seconda parte fingi ch'egli truovi uno spirito chogniosciente 
+il quale fu huomo al mondo vizioso della ghola diciendo all'altore 
+ghuardami se ttu mi cognosci.  E Dante gli dicie per la pena che ttu 
+hai se' s@i trasfighurato ch'io non ti ricognoscho.  E per queste 
+parole non vole dire altro l'altore che questi gholosi per le loro 
+infermit@a s@i ssi trasfighurano in tal modo che se ll'amicho noll'ha 
+veduto per ispatio di tempo nonch@e lo strano avendolo veduto da ssano 
+e none in quel mezo vegiendol poi chos@i amalato e travagliato nollo 
+richognioscie simile disse Dante a questo spirito perch@e era per le 
+pene s@i disfatto che nollo richognosciea e llo spirito si manifest@o 
+cos@i diciendo.
+
+	|52-75.~ 
+	^Voi cittadini che mi \<che mi\> chiamasti Ciaccho~
+^per la dannosa colpa della ghola~
+^chome tu vedi alla pioggia mi fiaccho.~
+
+In questa terza l'altore fa una domanda a questo spirito e llo spirito 
+risponde alla domanda e llo spirito risponde e alla domanda che gli fa 
+Dante si @e se i Bianchi ritorneranno mai in Firenze imper@o che Dante 
+era di quella parte e ffu de' chacciati di Firenze.  E non @e vero che 
+Dante fusse ghibellino imper@o che i Ghibellini erano chacciati inanzi 
+ma fra i Ghuelfi naque poi discordia e fessi tra lloro pi@u parti cio@e 
+due l'una era chiamata parte bianca e ll'altra parte nera.  E si era 
+per chapo di parte biancha messer Vieri de' Cierchi e di questa era 
+Dante e suoi consorti.  Di parte nera fu chapo messer Corso Donati.  E 
+avenne che lla parte biancha chacci@o di Firenze la parte nera.  E 
+stando messer Corso colla sua parte nera tanto fecie con senno e con 
+danari ch'eglino ritornarono in Firenze cholle spalle e aiuto di Charlo 
+ducha di Firenze.  E allora regniava papa Bonifatio.  E esso messer 
+Corso ist@a in Firenze per cierto spatio egli e lla sua parte nera 
+chacciarono parte bianca co messer Vieri loro chapo e Dante fu di 
+quelli chacciati e mai non torn@o.  Ma nondimeno messer Vieri con sua 
+parte chacciata cierch@o di tornare coll'aiuto di Charlo Sanza Terra 
+nogli venne fatto.  Ma ultimamente per queste parole ne fu messer Corso 
+morto chome a tempo udirai.  E per questa chagione s'achost@o parte 
+biancha con parte ghibellina chacciati di Firenze.  E per potere 
+tornare in Firenze e feciono lor chapo i Pisani e mai non venne lor 
+fatto di tornare e per@o @e appellato Dante ghibellino.  E @e vero che 
+ogni chacciato pot@e tornare ma non poterono avere niuno uficio di 
+chomune ma facievano i fatti loro per questi chacciati.  Dante pone 
+parte ghuelfa per parte selvaggia perch@e l'uno ghuelfo chacci@o 
+l'altro di Firenze.
+
+	|76-99.~ 
+	^Qui puose fine al lagrimabil suono~
+^e io a llui ancor vo' che mmi insegni~
+^e cche di pi@u parlar mi facci dono.~
+
+In questa quarta parte l'altore fa un'altra domanda al detto ispirito 
+ed egli risponde.  E lla domanda @e questa s'egli sa niente di cierti 
+ispiriti ed egli risponde che choloro di chui egli domanda sono tra 
+ll'anime pi@u nere cio@e pi@u al cientro dello inferno chome al luogho 
+e a tempo si parler@a di que' tali che ll'altore voleva sapere.
+
+	|100-115.~ 
+	^S@i trapassamo per sozza mistura~
+^dell'onbra e della pioggia a ppassi lenti~
+^tocchando un poco la vita futura.~
+
+In questa quinta e ultima parte Dante fa una domanda ed @e questa che 
+domand@o che essendo poi la gran sentenza che ddar@a Iddio che sar@a 
+poi dopo il d@i del giudicio e se queste pene infernali isciemeranno o 
+crescieranno o saranno pur cos@i chome sono.

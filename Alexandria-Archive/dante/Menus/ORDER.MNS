@@ -1,0 +1,95 @@
+{ORDER}
+
+:PRINT ~@HEADING_Ordering Selections are:\n
+	\o2L\f2 to List paragraph labels
+	\o2Q\f2 to return to previous menu
+	\o2H\f2 to display Help
+	\o2S\f2 to Search\n\n~
+
+:GET @PARS ~Enter paragraphs to order by [Q]:\n   --> ~
+
+:PARSE @PARS UPPER
+
+:COMPARE @PARS
+     TO "#1:H"
+	:MENU ~ORDER_H~
+
+     TO "#1:L"
+	:SET #HEADING ~@HEADING_Paragraph Labels (continued):\n\n~
+	:PRINT ~@HEADING_Paragraph Labels:\n\n~
+
+	:SEND ~GE~
+
+	:SET #PPROMPT ~Specify paragraphs to @STEXT [Continue]: ~
+	:SHOW
+
+	:GET @PARS ~\n#PPROMPT~
+	:SET #PPROMPT ~~
+
+	:COMPARE @PARS
+	     TO ""
+		:MENU
+	:DONE
+
+	:PARSE @PARS UPPER
+
+     TO "#1:Q|"
+	:SET @TMP ~~
+	:RETURN
+
+     TO "#1:S|"
+	:COMPARE @SELECTION
+	     TO "M|R"
+		:SEND ~RC~
+		:SHOW BEFORE "*"
+	:DONE
+	:SET @SELCTION ~S~
+	:RETURN
+:DONE
+
+:BRS PRINT PARAGRAPHS ~@PARS~
+
+:COMPARE #RESULT
+     TO "P"
+	:PRINT ~\n\o5 Invalid paragraph specification (#LEFTOVER) \f5\n~
+	:PAUSE
+	:MENU
+:DONE
+
+:SET @PTEXT ~Ordered by:  @PARS\n\n~
+
+:BRS PRINT DOCUMENT ~ALL~
+
+:COMPARE @SELECTION
+     TO "D|R"
+	:PRINT ~\nOrdering in progress ...\n~
+	:SEND ~N~
+	:SHOW BEFORE "*"
+
+	:PARSE #LEFTOVER EXTRACTING @TMP
+	:COMPARE @TMP
+	     TO "1-99"
+		:PRINT ~\o5 Unable to Order Query \f5~
+		:PAUSE
+		:SET @PTEXT ~~
+		:SET @SELECTION ~S~
+		:RETURN
+	:DONE
+
+	:PARSE #LEFTOVER EXTRACTING @TMP
+	:COMPARE #LEFTOVER
+	     TO "0"
+		:PRINT ~Ordering Complete\n~
+		:SET #LEFTOVER ~~
+	     TO "*"
+		:PRINT -
+~Ordering Complete: @TMP documents ordered, #LEFTOVER documents discarded\n~
+		:SET @PTEXT ~(@TMP documents) @PTEXT~
+	:DONE
+	:SET @PRESELECT ~~
+	:PAUSE
+:DONE
+
+:SET @TMP ~~
+
+:RETURN

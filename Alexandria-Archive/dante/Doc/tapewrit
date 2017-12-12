@@ -1,0 +1,52 @@
+This note describes how to transfer data files from DCTS to Unix
+using the TAPEWRIT background job on DCTS and the readtape shell
+script on U2.
+
+In the P08000 user catalog on D1 is a DCTS background job called
+TAPEWRIT.  It's generic format is this:
+
+	write filename
+	 format ascii;crlf;delete
+	to tape dante
+	   position 1
+	   using 9track
+	   format nlabel;data;byte;crlf;ascii
+	end
+
+Use this background job to write one or more data files onto a 9-track
+tape.  Essentially any tape will do.  Use any DCTS editor to change
+"filename" into one or more DCTS file names, separated by semicolons.
+If you want to write more files than will conveniently fit on the
+"write" line, use one or more "and" subcommands.  Refer to the DCTS
+Background Reference Manual for details.  The data files will be
+written sequentially on the tape.  Note that the names of the files are
+NOT written on the tape; you must keep track of which files you have
+written and use the appropriate file names when you read the tape on
+Unix.
+
+On U2, the dante userid has a shell script named readtape, which
+is located in dante's private bin directory and can be run from any
+directory.  Here is a copy of the shell script:
+
+  #! /bin/sh
+  
+  # Read a DCTS-generated tape containing multiple files of commentary text
+  
+  for FILE
+  do
+  	dd if=/dev/rmt4 ibs=2048 of=$FILE
+  	ls -l $FILE
+  done
+  mt off
+
+To use readtape, simply mount the tape on U2 and issue the command
+
+	readtape filename [...]
+
+where filename [...] is a list of Unix filename into which the
+script will write the files from the tape.  These file names will
+correspond to the files written on DCTS.  As each file is written on
+Unix, an ls(1) command is done to verify that the file is there.
+
+					Steve Campbell
+					19 Feb 1986

@@ -1,0 +1,1419 @@
+	|Proemio.~  ^Special Note~: For a clearer understanding 
+of the advent and triumph of Beatrice, which is the central 
+event of ^Purg.~ XXIX, XXX, and XXXI, the reader is invited to 
+read C. S. Singleton (1954), pp. 45-60.  The event unfolding 
+through these three cantos bears a complex burden of symbolic 
+meanings and takes place in and through a subtle succession of 
+scenes which together make up the whole play of these cantos.  It
+is no accident, for instance, that there are precisely three 
+cantos involved here and that the central canto of this trio,  in
+which Beatrice finally appears on the chariot, is numbered 
+thirty (XXX).  Even the verses of the tercet in which she emerges 
+to view, vss. 31-33, bear the number three, and "donna m'apparve"
+falls central to this trio, in ^Purg.~ XXX, 32.
+
+	It is most important for the reader to understand that in
+broadest outline Beatrice's advent and Dante's attaining to her
+complete a pattern of justification so broad as to reach back, in
+its beginning, to the start of this journey (^Inf.~ I); and this
+pattern, in its several lines of meaning, is the main object of
+study in C. S. Singleton (1958).
+
+	|1.  Cantando come donna innamorata~: This opening verse
+serves to focus again on the lady in the role in which she was
+first seen, thus bringing over into this canto a major theme of
+the preceding one, a theme concerning love, the pastoral, and the
+lady encountered alone.  The continuing presence of the
+^pastorella~ theme is made the more evident by the fact that the
+opening verse here clearly echoes Guido Cavalcanti's "cantava
+come fosse 'namorata" ("singing as though she were in love"), vs.
+7 of "In un boschetto trova' pasturella," in G. Contini (1960),
+vol. II, p. 555.  But this theme of profane love is fused here
+with that of charity, love of a higher order.
+
+	|3.  Beati quorum tecta sunt peccata~: Although the lady
+sings these words immediately after ending her words of ^Purg.~
+XXVIII, 144, this "beatitude," dealing as it does with the
+removal of sin, represents an abrupt change in outlook, for it
+concerns not ancient poets or their dreams of a Golden Age, but
+the "covering of sins" as through Christ that became possible. 
+The words look, therefore, to what is now to come.  We may take
+the blessing to apply to both Dante and Statius, but primarily to
+the living man, since what comes now comes for him alone,
+although Statius, like Dante, must cross through Lethe, which
+perhaps we are to understand as "covering his sins."  Insofar as
+the words of the psalm do also apply to Statius, i.e., to his
+drinking of Lethe, they connect with the end of the lady's words
+in ^Purg.~ XXVIII, 144, which speak of the streams flowing with
+nectar in the Golden Age.
+
+	For the source of Dante's words, see Ps. 31 [32]:1:
+"Beati quorum remissae sunt iniquitates, et quorum tecta sunt
+peccata."  ("Happy is he whose fault is taken away, whose sin is
+covered.")  By shortening the "beatitude" Dante has made it more
+like those of the Sermon on the Mount that were heard through the
+ascent of Purgatory.  This psalm, it should be noted, is one in
+praise of justice and of the righteous of heart, its closing
+verse (which Dante would have expected his reader to remember)
+being: "Laetamini in Domino et exultate iusti, et gloriamini
+omnes recti corde."  ("Be glad in the Lord and rejoice, you just;
+exult, all you upright of heart.")  Paul saw its main theme as
+justice, as is evident from Rom. 4:3-8:
+
+     Credidit Abraham Deo, et reputatum est illi ad iustitiam. 
+     Ei autem qui operatur, merces non imputatur secundum
+     gratiam, sed secundum debitum; ei vero qui non operatur,
+     credenti autem in eum qui iustificat impium, reputatur fides
+     eius ad iustitiam secundum propositum gratiae Dei.  Sicut et
+     David dicit beatitudinem hominis, cui Deus accepto fert
+     iustitiam sine operibus: Beati quorum remissae sunt
+     iniquitates, et quorum tecta sunt peccata; beatus vir cui
+     non imputavit Dominus peccatum.
+
+     "Abraham believed God and it was credited to him as
+     justice."  Now to him who works, the reward is not credited
+     as a favor but as something due.  But to him who does not
+     work, but believes in him who justifies the impious, his
+     faith is credited to him as justice according to the plan of
+     God's grace.  Thus David declares the blessedness of the man
+     to whom God credits justice without works: "Blessed are they
+     whose iniquities are forgiven, and whose sins are covered;
+     blessed is the man to whom the Lord will not credit sin."
+
+Now since the attainment of justice and justification is
+precisely the guiding theme of the allegory here, this
+"beatitude" is especially appropriate in its present context.
+
+	|4-6.  E come ninfe... sole~: The simile may seem
+inappropriate at first, until we see that its function is to
+bring over into this canto something of the focus of the lady's
+last words of the preceding canto, which touched on ancient poets
+and their myths, ^their~ pastoral themes corresponding to those
+of modern poets. The lady, "singing like an enamored lady" (with
+the echo of Cavalcanti pointed out in n. to vs. 1), is like a
+figure in some modern ^pastorella~, while the simile suggests a
+correspondence between the modern and that which the ancient
+poets dreamed of in Parnassus.
+
+	|si givan sole~: The pleonastic reflexive is used here in
+its isolating function.  In ^Purg.~ XXVIII, 40, the lady is first
+seen to wander alone, and we recall Cavalcanti's "sola sola per
+lo bosco gia" ("she was walking through the wood, all alone"),
+vs. 12 of "In un boschetto trova' pasturella," in G. Contini
+(1960), vol. II, p. 555.
+
+	|qual di veder, qual di fuggir lo sole~: The verse evokes
+the vastness of the forest (cf. vs. 17) with its patchwork of sun
+and shade, "wild" shade, as it is called.
+
+	|7.  contra 'l fiume, andando~: Upstream, against the
+current, which means, at this point, toward the south, since
+Lethe here flows north.
+
+	|8-9.  e io pari di lei... seguitando~: Dante walks
+opposite the lady, on his side of the stream, keeping pace with
+her dainty steps.
+
+	|10.  Non eran cento tra ' suoi passi e ' miei~: Not only
+is "cento" a good round number, but to reckon the distance in
+terms of how far both have gone is to keep the two figures, Dante
+and the lady, in the picture and so keep the two banks in view.
+
+	|11-12.  le ripe igualmente... rendei~: The stream turns
+a right angle without changing in width.  This is presented as
+simply a physical feature of the stream, but the symbolic
+necessity of having the stream run from east to west is clearly
+what determines the bend.  Dante and the lady (and Virgil and
+Statius, for that matter, lest they be forgotten!) will now be
+facing east as they follow along the banks of Lethe.
+
+	|igualmente~ = ^ugualmente.~ 	|dier~ = ^diedero.~  For
+^dar volta~, cf., for example, ^Purg.~ V, 41; XXIV, 140.
+
+	|per modo ch'a levante mi rendei~: The direction is
+explicitly indicated, that we may realize its symbolic import. 
+The faithful Christian faces east when he prays facing the altar
+in most "oriented" churches, because, according to ^Il libro di
+Sidrach~ CCCXLI, "the grace of God comes from there" (cf. ^Purg.~
+IV, 53-54).  In fact, God's grace is soon to come here as a
+rising sun, as a sun of justice.  See ^Purg.~ VIII, 11, on which
+Benvenuto comments: "Orantes convertunt se ad orientem... ut sol
+iustitiae oriatur super eos." ("Those who pray turn to the
+east... that the sun of justice may shine upon them.")  The
+Advent of Christ at the Last Judgment will also become part of
+the meaning of the whole event here at the summit, and
+accordingly the coming of the procession out of the east will
+take on yet another dimension of meaning.  See the quotations
+from ^Il libro di Sidrach~ and Bonaventura in n. to ^Purg.~ VIII,
+11, as well as the notes to Bonaventura's ^Comm. Sapien.~ XVI,
+28, in which the editors quote John of Damascus.
+
+	Thus the right-angle turn of the stream is the first of
+many signs which serve to change the scene, to set the stage, as
+it were, for another act.  Momigliano appropriately terms it a
+kind of curtain.  And there will be other such curtains raised
+and lowered in the action, the total enactment, here at the
+summit.
+
+	|13.  cos@i~: In the new direction, eastward.
+
+	|14.  si torse~ = ^si volse.~  Cf. ^Purg.~ XXVIII, 145.
+
+	|15.  Frate mio~: This manner of address registers a
+change of tone, dropping it to a more familiar, intimate level. 
+Beatrice will do something of the same (^Purg.~ XXXIII, 23) when
+the procession, with the frame of meaning which it provides, is
+dissolved.  In short, the change of tone also signals a change of
+acts.
+
+	|16.  lustro~: Glowing light.  Cf. ^Par.~ XIV, 68.    
+|s@ubito~ = ^subitaneo.~
+
+	|18.  di balenar mi mise in forse~: Left me in doubt as
+to whether it was lightning or not.  Cf. ^Inf.~ VIII, 110.  On
+the symbolic significance of lightning in the present context,
+see the quotation from Bonaventura in n. to vs. 12.
+
+	|19.  come vien, resta~: Ceases almost as soon as it
+comes, instantaneously.  For ^restare~ in this sense, cf. ^Inf.~
+XV, 135.
+
+	|20.  quel~: The "lustro" of vs. 16.
+
+	|23-24.  buon zelo... Eva~: For righteous zeal, cf.
+^Purg.~ VIII, 83.  In his thoughts Dante reproves "Eve's daring,"
+that is, the act of pride that was her sin, and then Adam's, and
+brought about their expulsion from Eden.
+
+	|25.  l@a dove ubidia la terra e 'l cielo~: "Terra" and
+"cielo" form the dual subject.  "Cielo" in this case must mean
+primarily the angels (since at the time that Eve was in Eden
+Satan and his rebellious band had fallen), and "terra" denotes
+especially the creatures of the Garden of Eden, as well as the
+things and forces of nature generally.  	|ubidia~ =
+^ubbidiva.~
+
+	|26.  femmina, sola~: One sole woman.   |pur test$e
+formata~: Formed only a short while before.  Eve had been
+"formed" very recently indeed, if she and Adam were expelled from
+Eden after being there only some six hours (see n. to ^Purg.~
+XXVIII, 94).  It should be noted moreover that Eve was judged to
+be more to blame than Adam for their sin.  See I Tim. 2:14: "Et
+Adam non est seductus, mulier autem seducta in praevaricatione
+fuit."  ("And Adam was not deceived, but the woman was deceived
+and was in sin.")  Thomas Aquinas, quoting Augustine's ^De Genesi
+ad litteram~ (XI, xlii, 59), writes in ^Summa theol.~ II-II, q.
+163, a. 4, resp.:
+
+     Sed quantum ad speciem superbiae gravius peccavit mulier,
+     triplici ratione.  Primo quidem quia maior elatio fuit
+     mulieris quam viri; mulier enim credidit verum esse quod
+     serpens suasit, scilicet quod Deus prohibuerit ligni esum,
+     ne ad eius similitudinem pervenirent; et ita dum per esum
+     ligni vetiti Dei similitudinem consequi voluit, superbia
+     eius ad hoc se erexit quod contra Dei voluntatem aliquid
+     voluit obtinere.  Sed vir non credidit hoc esse verum: unde
+     non voluit consequi divinam similitudinem contra Dei
+     voluntatem; sed in hoc superbivit, quod voluit eam consequi
+     per seipsum.  Secundo, quia mulier non solum ipsa peccavit,
+     sed etiam viro peccatum suggessit: unde peccavit et in Deum
+     et in proximum.  Tertio, in hoc quod peccatum viri diminutum
+     est ex hoc quod in ^peccatum consensit amicabili quadam~
+     ^benevolentia, qua plerumque fit ut offendatur Deus, ne~
+     ^homo ex amico fiat inimicus, quod eum facere non~
+     ^debuisse divinae sententiae iustus exitus indicavit~, ut
+     Augustinus dicit, 11 super Gen. ad litt. (cap. ult. a med.). 
+     Et sic patet quod peccatum mulieris fuit gravius quam
+     peccatum viri.
+
+     But as regards the species of pride, the woman sinned more
+     grievously, for three reasons.  First, because she was more
+     puffed up than the man.  For the woman believed in the
+     serpent's persuasive words, namely that God had forbidden
+     them to eat of the tree, lest they should become like to
+     Him; so that in wishing to attain to God's likeness by
+     eating of the forbidden fruit, her pride rose to the height
+     of desiring to obtain something against God's will.  On the
+     other hand, the man did not believe this to be true;
+     wherefore he did not wish to attain to God's likeness
+     against God's will: but his pride consisted in wishing to
+     attain thereto by his own power. -- Secondly, the woman not
+     only herself sinned, but suggested sin to the man; wherefore
+     she sinned against both God and her neighbor. -- Thirdly,
+     the man's sin was diminished by the fact that, as Augustine
+     says (^Gen. ad lit.~ xi. 42), ^he consented to the sin~
+     ^out of a certain friendly good-will, on account of which a~
+     ^man sometimes will offend God rather than make an enemy of~
+     ^his friend.  That he ought not to have done so is shown~
+     ^by the just issue of the Divine sentence.~  It is therefore
+     evident that the woman's sin was more grievous than the man's.
+
+	^test$e~: See the longer form "testeso" in ^Purg.~ XXI,
+113.
+
+	|27.  non sofferse di star sotto alcun velo~: Cf. the
+serpent's promise to Eve if she would eat of the fruit of the
+forbidden tree (Gen. 3:5): "Scit enim Deus quod in quocumque die
+comederitis ex eo, aperientur oculi vestri, et eritis sicut dii
+scientes bonum et malum."  ("For God knows that when you eat of
+it, your eyes will be opened and you will be like God, knowing
+good and evil.")  Thus Eve's veil was the veil of ignorance, its
+removal through sin the equivalent of opening the eyes.  
+
+	|28.  divota~: Obedient to God's command.
+
+	|29-30.  avrei quelle ineffabili delizie... fiata~: Adam
+and Eve, before sin, were endowed with original justice, which
+gave them immortality, and we, their progeny, were each to
+receive such a gift at birth.  We were to enjoy life in the
+Garden of Eden until such time as God should uplift each to his
+eternal reward in Heaven, of which the delights of Eden were an
+anticipation; see "arr'" (^arra~) in ^Purg.~ XXVIII, 93, and
+"primizie" in vs. 31, below.  Augustine draws the following
+picture of what our life in Eden would have been if we had not
+been exiled from that delightful place through the sin of our
+first parents (^De civ. Dei~ XIV, 26):
+
+     Vivebat itaque homo in paradiso sicut volebat, quamdiu hoc
+     volebat quod Deus iusserat: ^vivebat fruens Deo~, ex quo
+     bono erat bonus: vivebat sine ulla egestate, ita semper
+     vivere habens in potestate.  Cibus aderat, ne esuriret;
+     potus, ne sitiret; lignum vitae, ne illum senecta
+     dissolveret.  Nihil corruptionis in corpore vel ex corpore
+     ullas molestias ullis eius sensibus ingerebat.  Nullus
+     intrinsecus morbus, nullus ictus metuebatur extrinsecus. 
+     Summa in carne sanitas, in anima tota tranquillitas.  Sicut
+     in paradiso nullus aestus aut frigus, ita in eius habitatore
+     nulla ex cupiditate vel timore accedebat bonae voluntatis
+     offensio.  Nihil omnino triste, nihil erat inaniter laetum:
+     ^guadium verum perpetuabatur ex Deo~, ^in quem flagrabat~
+     ^charitas de corde puro et conscientia bona et fide non~
+     ^ficta~ (I ^Tim.~ I, 5).  (Italics added.)
+
+This passage is translated as follows in the Loeb Classical
+Library:
+
+     Accordingly, man lived in paradise just as he chose for as
+     long a time as his choice coincided with God's command.  He
+     lived in the enjoyment of God, whose goodness ensured his
+     goodness.  He lived without any want and had it in his power
+     always to live such a life.  He had food at hand against
+     hunger, drink against thirst and the tree of life against
+     the decay of old age.  There was no deterioration in the
+     body or arising from it to cause any discomfort to any
+     of his senses.  There was no fear of disease from within or
+     of injury from without.  He had perfect health in his flesh
+     and complete tranquility in his soul.
+
+     Just as in paradise it was neither too hot nor too cold, so
+     in its occupant there was no interference from desire or
+     fear to thwart his good will.  There was no depressing gloom
+     at all, no unreal gaiety.  True joy emanated continuously
+     from God, for whom there glowed "love from a pure heart and
+     a good conscience and sincere faith."
+
+Dante's thought, therefore, in reproving Eve (see the lament over
+the loss of the four stars, ^Purg.~ I, 26-27) is that, but for
+her sin, he would have been born in Eden (in 1265 one wonders?)
+and would have lived a long life here, before rising to eternal
+blessedness.
+
+	|fiata~: I.e., ^tempo.~
+
+	|31-32.  m'andava~: The familiar isolating reflexive
+again.  See n. to vs.4.
+
+	|primizie de l'etterno piacer~: Cf. ^arra d'etterna pace~
+in ^Purg.~ XXVIII, 93.  The "eternal happiness" will consist in
+seeing God face to face and in loving and praising Him forever. 
+Concerning "primizie," i.e., first tastes, see Thomas Aquinas,
+^De veritate~ q. 18, a. 1, ad 1:
+
+     Homo igitur in statu post peccatum indiget ad cognoscendum
+     Deum medio, quod est quasi speculum, in quo resultat ipsius
+     Dei similitudo; oportet enim ut per ea quae facta sunt, in
+     invisibilia eius veniamus, ut dicitur Rom. 1.  Hoc autem
+     medio non indigebat homo in statu innocentiae; indigebat
+     autem medio quod est quasi species rei visae; quia per
+     aliquod spirituale lumen menti hominis influxum divinitus,
+     quod erat quasi similitudo expressa lucis increatae, Deum
+     videbat.  Sed hoc medio non indigebit in patria, quia ipsam
+     Dei essentiam per se ipsam videbit, non per aliquam eius
+     similitudinem vel intelligibilem vel sensibilem, cum nulla
+     creata similitudo adeo possit perfecte Deum
+     repraesentare, ut per eam videns ipsam Dei essentiam
+     cognoscere aliquis possit.  Indigebit autem lumine gloriae
+     in patria, quod erit quasi medium sub quo videtur, secundum
+     illud Psalm. 35, 10: ^In lumine tuo videbimus lumen~, eo
+     quod ista visio nulli creaturae est naturalis, sed soli Deo;
+     unde nulla creatura in eam ex sua natura potest pertingere;
+     sed ad eam consequendam oportet quod illustretur lumine
+     divinitus emisso.  Secunda autem visio, quae est per medium,
+     quod est species, est naturalis Angelo, sed est supra
+     naturam hominis.  Unde ad eam indiget lumine gratiae.
+
+     Therefore, to know God, man, as he is after the fall, needs
+     a medium which is like a mirror, in which there arises a
+     likeness of God himself.  For we must reach "the invisible
+     things of him... by the things that are made," according to
+     Romans (1:20).  Man in the state of innocence, however, did
+     not need this medium, but he did need a medium which is
+     somewhat like the species of the thing seen, because he saw
+     God through a spiritual light which was given to the human
+     mind by God, and which was a kind of expressed likeness of
+     the uncreated light.
+
+     But he will not need this medium in heaven, because he will
+     see the essence of God in itself and not through any
+     intelligible or sensible likeness of it, since no created
+     likeness can so perfectly represent God that one who sees
+     through it can know the essence of God.  Yet, he will need
+     the light of glory [in heaven], which will be a kind of
+     medium under which God is seen, according to Psalms
+     (35:10 [36:9]): "In thy light we shall see light." The reason
+     for this is that this sight is not natural to any creature,
+     but only to God.  As a result, no creature can reach it by
+     his own natural power, but to acquire it one must be
+     enlightened by a divinely given light.
+
+     The second sight, through a medium which is an intentional
+     likeness, is natural to the angels, but above human nature.
+     Accordingly, for it man needs the light of grace.
+
+See C. S. Singleton (1958), pp. 18-19.
+
+	|tutto sospeso~: In greatest suspense and amazement.
+
+	|33.  e disioso ancora a pi@u letizie~: Among which
+anticipated delights must be the expectation that he is to see
+Beatrice at any moment now, for her coming here has been promised
+him. 
+
+	|34.  dinanzi a noi~: I.e., in the east.  The fact that
+Dante in facing east should not be forgotten, for much of the
+symbolism of what comes now is framed by this fact.        |un
+foco acceso~: What seemed like lightning before now grows so
+bright as to seem a blazing fire; and the color of fire or flame
+or lightning is the color of love or charity.
+
+	|35.  ci~ = ^a noi.~
+
+	|36.  e 'l dolce suon per canti era gi@a inteso~: And what
+was first heard simply as a melody is now made out to be
+chanting.  The gradual disclosure of what comes is thus begun and
+will continue throughout the canto.
+
+	|37-42.  O sacrosante Vergini... versi~: A strategy of
+gradual disclosure involves withholding, quite as much as
+showing, and thereby suspense is generated.  These two tercets do
+serve to withhold and at the same time to stress the awesomeness
+of what is to come.  Such minor invocations (they are frequent in
+classical poetry) serve a different purpose from that served by
+the principal ones at the beginning of ^cantiche~, as in ^Inf.~
+II, 7-9; ^Purg.~ I, 7-12; ^Par.~ I, 13-36.  Compare ^Inf.~ XXXII,
+10-11, and ^Par.~ XVIII, 82-87.
+
+	|37-38.  fami, freddi 0 vigilie mai~: See ^Par.~ XXV,
+1-3, and II Cor. 11:27: "in labore et aerumna, in vigiliis
+multis, in fame et siti, in ieiuniis multis, in frigore et
+nuditate" ("in labor and hardships, in many sleepless nights, in
+hunger and thirst, in fastings often, in cold and nakedness").
+
+	|39.  ch'io merc$e vi chiami~: "That I call upon you for
+my reward," the "premio dell'amore portato" ("the reward for the
+love I bore you"), as Buti glosses it.
+
+	|40.  Elicona~: Helicon, famous mountain range of Boeotia
+believed sacred to Apollo and the Muses.  The fountains of the
+Muses, Aganippe and Hippocrene, were located there.  See Virgil,
+^Aen.~ VII, 641, "pandite nunc Helicona, deae, cantusque movete"
+("now fling wide Helicon, ye goddesses, and wake your song"), a
+good example of the lesser kind of invocation to the Muses that
+is common to Virgil and classical style, which Dante is doubtless
+imitating in this case.  See n. to vss. 37-42.  It is possible,
+of course, that Dante misunderstood these verses in the ^Aeneid~
+and took Helicon to be a fountain, but it is not necessary to
+assume this.  Clearly Helicon is called upon to pour forth the
+water of its fountains, that the poet may drink of them.
+
+	|41.  Uran@ie~: Muse of Astronomy.  At the beginning of
+the ^Purgatorio~ it is Calliope, the Muse of Epic Poetry, who is
+singled out as chief among the nine Muses, following an episode
+from Ovid (see n. to ^Purg.~ I, 9-12).  Now the ^cantica~ is
+coming to a close, and this special invocation of Urania
+signifies the advent of high things of supranatural origin.  For
+the form ^Uranie~, instead of ^Urania~, see Petrocchi's
+justification.
+
+	|42.  forti cose a pensar~: Things hard for the poet to
+rethink (in memory), and for others to conceive through his
+words.  Certainly the meaning is not that these things are hard
+"to think" in the sense of "to invent," in poetizing, for Dante
+will never undermine the basic fiction of his poem, which is that
+it is not a fiction.    |mettere in versi~: Depends on "m'aiuti."
+
+	|43-45.  Poco pi@u oltre~: I.e., when I had gone forward a
+little farther.
+
+	|sette alberi d'oro... loro~: The intervening space makes
+what will soon appear to be candlesticks seem to be golden tree
+trunks.  The candlesticks are massive, as is clearly suggested by
+these verses, and, as will be evident later, they are borne by no
+visible hands but come forward of themselves, which fact, along
+with many another feature, clearly signifies the supranatural
+character of what now appears.  "Il lungo tratto del mezzo ch'era
+ancor tra noi e loro" is the subject of "falsava," the object of
+this verb being "sette alberi d'oro." The falseness of the
+appearance is evident to Dante moments later, and the judgment
+made here is made from that later awareness.
+
+	|46.  ma quand'i' fui s@i presso di lor fatto~: Cf. the
+expression ^farsi verso qualcosa~ in ^Purg.~ XXVII, 29 ("fatti
+ver' lei").
+
+	|47.  l'obietto comun~: The ^sensibile commune~ of
+scholastic philosophy, an object of perception that is not the
+proper object of any one sense but common to several or all.  The
+conception and terminology derive primarily from Aristotle; see
+^De anima~ II, 6, 418+a~:
+
+     Dico autem proprium quidem, quod non contingit altero sensu
+     sentiri, et circa quod non contingit errare, ut visus
+     coloris, et auditus soni, et gustus saporis.  Tactus autem
+     plures habet differentias.  Sed unusquisque sensus iudicat
+     de his, et non decipitur, neque visus, quoniam color, neque
+     auditus, quoniam sonus sit; sed quid est coloratum, aut ubi,
+     aut quid sonans.  Huiusmodi igitur dicuntur propria
+     uniuscuiusque sensus obiecta.
+
+     Communia autem sunt motus, quies, numerus, figura,
+     magnitudo: huiusmodi enim nullius sensus sunt propria, sed
+     communia omnibus.  Tactu enim motus aliquis sensibilis, et
+     visu: per se igitur sunt sensibilia haec.  
+
+     Now I call that the ^proper~ object of each sense which
+     does not fall within the ambit of another sense, and about
+     which there can be no mistake, -- as sight is of colour,
+     and hearing of sound, and taste of savour; while touch has
+     several different objects.  Each particular sense can
+     discern these proper objects without deception; thus sight
+     errs not as to colour, nor hearing as to sound; though it
+     might err about ^what~ is coloured, or ^where~ it is, or
+     about what is giving forth a sound.  This, then, is what
+     is meant by the proper objects of particular senses.
+
+     Now the sense-objects ^in common~ are movement, rest,
+     number, shape, dimension.  Qualities of this kind are proper
+     to no one sense, but are common to all; thus a movement is
+     perceptible both by touch and by sight.  These, then, are
+     the essential objects of sensation.
+
+This quotation from the ^De anima~ may be found in Thomas
+Aquinas, ^Opera omnia~, vol. XX, p. 69, or in A. M. Pirotta
+(1936), p. 134.  That this passage was well known to Dante is
+witnessed by ^Conv.~ III, ix, 6.  Thus Dante's "obietto comun" is
+the ^sensibile commune.~  In the present instance it is plainly
+shape, movement, and perhaps dimension, as applied to the
+candlesticks, which at a distance appear to be tree trunks.   
+|che 'l senso inganna~: Thomas Aquinas (^De anima expositio~ II,
+lect. 13, n. 385) comments on the above-cited passage from
+Aristotle: "Sed circa sensibilia per accidens vel communia,
+decipiuntur sensus."  ("But the senses ^can~ be deceived both
+about objects only incidentally sensible and about objects common
+to several senses.")  The sense that is deceived in this case is
+sight.
+
+	|48.  non perdea per distanza alcun suo atto~: Every
+feature of the "obietto comun" can now be made out, and Dante
+sees that the seven things are in motion (and so can hardly be
+tree trunks).  "Atto" is used to include the motion which is now
+perceived, but it can refer to other features as well.  Cf.
+^Purg.~ XIII, 55-56.
+
+	|49.  la virt@u ch'a ragion discorso ammanna~: This
+faculty is known in scholastic philosophy as the ^vis estimativa~
+or ^vis cogitativa.~  It is also termed ^ratio particularis~, a
+faculty capable of sorting out and distinguishing individual
+objects as perceived by the senses (as in the present instance),
+but it is not the ^ratio intellectiva~ which deals with such
+objects as universal "intentions."  See Thomas Aquinas, ^Summa
+theol.~ I, q. 78, a. 4, resp.:
+
+     Considerandum est autem quod quantum ad formas sensibiles
+     non est differentia inter hominem et alia animalia;
+     similiter enim immutantur a sensibibus exterioribus; sed
+     quantum ad intentiones praedictas, differentia est.  Nam
+     alia animalia percipiunt huiusmodi intentiones solum
+     naturali quodam instinctu, homo autem per quamdam
+     collationem.  Et ideo quae in aliis animalibus dicitur
+     ^aestimativa naturalis~, in homine dicitur ^cogitativa~,
+     quae per collationem quamdam huiusmodi intentiones
+     adinvenit.  Unde etiam dicitur ^ratio particularis~, cui
+     medici assignant determinatum organum, scilicet mediam
+     partem capitis.  Est enim collativa intentionum
+     individualium, sicut ^ratio intellectiva~ est collativa
+     intentionum universalium.
+
+     Now, we must observe that as to sensible forms there is no
+     difference between man and other animals; for they are
+     similarly immuted by the extrinsic sensible.  But there is a
+     difference as to the above intentions: for other animals
+     perceive these intentions only by some natural instinct,
+     while man perceives them by means of collation of ideas. 
+     Therefore the power which in other animals is called the
+     natural estimative, in man is called the ^cogitative~, which
+     by some sort of collation discovers these intentions. 
+     Wherefore it is also called the ^particular reason~, to
+     which medical men assign a certain particular organ, namely,
+     the middle part of the head: for it compares individual
+     intentions, just as the intellectual reason compares
+     universal intentions.
+
+For the faculty of perception, which presents the impression to
+the reason, see ^Purg.~ XVIII, 22-23.  The verb "apprese" (vs.
+50) bears the suggestion of this function here.    |ammanna~:
+"Prepares" (by way of the collation referred to above).  Dante
+uses the verb in ^Purg.~ XXIII, 107, to mean "prepare," "make
+ready."
+
+	|50.  s@i com'elli eran candelabri apprese~:
+Candlesticks, instead of tree trunks, make a considerable
+symbolic difference, being distinctly reminiscent of the
+prophetic vision of John in the Apocalypse, in the strikingly
+similar context of seven spirits.  Compare Apoc. 1:4 and
+^passim~, but particularly 1:12-13: "Et conversus vidi septem
+candelabra aurea, et in medio septem candelabrorum aureorum
+similem filio hominis."  ("And having turned, I saw seven golden
+lampstands; and in the midst of the seven lamp-stands One like to
+a son of man.")  Thus, for a reader who begins now to sense the
+symbolic value of the seven golden candlesticks, their coming
+here amounts to a prophetic signal of an advent, even as in the
+Apocalypse.        |s@i com'~: "That." 	   |apprese~: "Ascertained."
+
+	|51.  e ne le voci del cantare "Osanna"~: "Apprese" is
+again understood as the verb, i.e., "apprese 'Osanna' ne le voci
+del cantar."  "Hosanna," of course, makes another clear
+suggestion of a coming, being the cry with which the crowds
+welcomed Jesus in His entry into Jerusalem (Matt. 21:9).  A
+reader familiar with the ^Vita nuova~ will recall that when
+Beatrice is seen (in a vision) to depart this life and rise to
+heaven just such a cry attends the event (XXIII, 7 and 25).  Can
+it be that Beatrice will now ^return~ to the call of "hosanna,"
+and that it is for her, and not for the Son of Man?
+
+	|52.  Di sopra fiammeggiava il bello arnese~: The seven
+candlesticks each bear a light at the top, where the lighted
+candle would normally be placed.        |fiammeggiava~: Again
+flame and the color of flame are stressed.  Cf. n. to vs. 34.
+
+	|arnese~: The term, making a unit of the seven
+candlesticks, views them as one object, one ensemble.  This
+proves to be significant, symbolically, when the seven lights are
+seen to represent the seven spirits of God as well as the
+sevenfold Spirit of God; cf. Isa. 11:2: "Et requiescet super eum
+spiritus Domini."  ("And the spirit of the Lord shall rest upon
+him.")  See Apoc. 4:5, "et septem lampades ardentes ante thronum,
+qui sunt septem spiritus Dei" ("and there are seven lamps burning
+before the throne, which are the seven spirits of God"), where
+the plural is so used in a context rich with other features which
+surround these lamps here.  It becomes clear later that the seven
+candlesticks are actually seven and separate, not joined in any
+visible way (hence we are not to think of them as forming a kind
+of seven-branched menorah), yet they are, by this touch, viewed
+as being ^one~ spirit.  The comparison with the brightness of the
+moon (vs. 53) reinforces the conception of them as a single
+luminous body.
+
+	|53-54.  per sereno... mese~: When the moon is brightest.
+
+	|55.  ammirazion~: "Amazement" (cf. "stupor," vs. 57).
+
+	|56.  al buon Virgilio~: This is not the first time this
+adjective has been used of Virgil (cf. ^Purg.~ XIX, 34), but it
+is far more commonly used when he is called ^maestro~ or ^duca.~ 
+Virgil, however, is no longer master, guide, or teacher, but
+is now only the ^good~ Virgil.
+
+	|57.  carca di stupor non meno~ = ^carca di stupore non
+inferiore al mio.~  Virgil is quite as amazed as Dante at this
+supernatural spectacle.		|stupor~: See ^Conv.~ IV, xxv, 5,
+where Dante defines ^stupore~: "Lo stupore @e uno stordimento
+d'animo, per grandi e maravigliose cose vedere o udire o per
+alcuno modo sentire."  ("Bemazement is bewilderment of mind on
+seeing or hearing, or in any wise perceiving, great and wonderful
+things.")
+
+	|58.  rendei l'aspetto~: "I turned back my gaze."
+	
+	|l'alte cose~: The candlesticks, which are carried by no
+one but come forward of themselves, are wonderfully ablaze "di
+sopra," i.e., ^in alto.~  Cf. the "vive luci" (vs. 62).
+
+	"Alte cose" should not be taken to include other features
+of the procession, for these are not yet admitted to view, even
+though it is scarcely possible that they are not already within
+Dante's field of vision.  It will be noted that the poet has thus
+begun to focus on the various elements or units of the procession
+in the strict order of their coming, one after another.  We see
+only the first group or part of the procession as Dante gazes at
+it to the exclusion of all else, turning to Virgil and then back
+to it, so that the lady chides him for this, urging him to look
+at that which comes after.  The poet's strategy in this is quite
+clear, and the final effect of such a gradual disclosure will be
+that of a ^revelation.~
+
+	|59.  movieno~ = ^movevano.~ 	|tardi~ = ^tardamente.~
+
+	|60.  foran~ = ^sarebbero state.~ 	|da novelle
+spose~: The bride on her way to the bridegroom's house must walk
+slowly as in a solemn procession.  See Federigo Frezzi,
+^Quadriregio~ I, xvi, 64-65: "e, come va per via sposa novella / 
+a passi rari e porta gli occhi bassi" ("just as the bride walks
+with slow steps and eyes downcast").
+
+	|61-62.  Perch$e pur ardi... luci~: "Why are you so ardent
+only [|pur~] at the sight of the living lights?"  Given the
+present context of flames and fire and love, the verb ^ardere~ is
+especially appropriate.
+
+	|64-65.  Genti vid'io allor... bianco~: As he looks at
+the people following after the candlesticks, Dante again sees
+only one single unit of the procession at a time.  The gradual
+disclosure proceeds thus in strict order.
+
+	|come a lor duci~: The seven-fold Spirit of God, or (now
+in the plural) the seven spirits, are guiding the people, who
+follow after.
+
+	|vestite di bianco~: In the pattern of the whole
+procession, color will be seen to be significant, of course, and
+when these people turn out to be twenty-four elders, the allusion
+to the Apocalypse (Apoc. 4:4) is clear.
+
+	|66.  e tal candor di qua gi@a mai non fuci~: Cf. Mar. 9:2
+[3], describing Jesus' transfiguration: "Et vestimenta eius facta
+sunt splendentia et candida nimis velut nix, qualia fullo non
+potest super terram candida facere."  ("And his garments became
+shining, exceedingly white as snow, as no fuller on earth can
+whiten.") 		|di qua~: In our part of the world, among
+the living.       |fuci~ = ^ci fu.~  For the single consonant
+(^c~ in this case), where a doubling of the consonant would be
+expected, see "parl@omi," ^Purg.~ XIV, 76 and ^passim~, and E. G.
+Parodi (1957), p. 236.
+
+	|67-69.  L'acqua imprendea... anco~: Dante has the stream 
+on his left, and it is gleaming with reflected light, now that
+the  seven lights are so near, approaching downstream on the
+opposite  bank.  On the reading "imprendea" as justified by the
+early MSS, see Petrocchi.
+
+	|rendea~: "Reflected." 	     |me~ = ^a me.~
+
+	|70.  posta~: "Posta" suggests a post of observation,
+from which to await the coming of something (cf. "posta" in
+^Inf.~ XIII, 113, and the verb ^appostare~), and the place where
+Dante halts proves to be just that, for he will see the
+procession now, as each unit passes before him on the opposite
+side of the stream, which he now faces.  This is plainly another
+strategical procedure to insure that the procession is watched as
+a gradual disclosure (see C. S. Singleton, 1954, pp. 48-49), for
+the reader sees only what Dante sees, of course, and in the order
+in which he sees it.
+
+	|71.  solo il fiume mi facea distante~: A very short
+distance indeed, since the river is only three paces wide (see
+^Purg.~ XXVIII, 70).
+
+	|73.  andar davante~: Advance past Dante on the other
+bank.
+
+	|74.  lasciando dietro a s$e l'aere dipinto~: The
+candlesticks are termed "sublime things" in vs. 58.  We should
+imagine them as being high enough to leave the air above the
+procession painted as described.  This "sky" is then called a
+"bel ciel" in vs. 82. 
+
+	|75.  e di tratti pennelli avean sembiante~: The image is
+precise.  The flame at the top of each candlestick and the
+candlestick itself are aptly compared to a painter's brush, the
+flame corresponding to the tuft of bristles and the candlestick
+to the shaft or handle.  Then, since the candlesticks are moving
+forward leaving the air above "painted" with bands of color, they
+can be compared to brushes which, after being dipped into the
+paint, are moving or being drawn across a surface (here, as it
+were, a ceiling), each leaving a strip or band of color behind
+it.  And the flame is bent back, as it is drawn through the air,
+as a brush pressed against the surface of a ceiling would be. 
+The fact that these lights leave behind them such streamers,
+which continue to hang back over the procession like a canopy, is
+symbolic.  Such a figure, once we recognize that the seven lights
+represent the seven-fold Spirit of the Lord (see n. to vs. 52),
+should call to mind the familiar passage in Isaiah (11:1-2) where
+the prophet foresees that the "virga de radice Iesse" ("rod out
+of the root of Jesse"), the Christ who is to come, shall blossom
+and the seven-fold Spirit of the Lord shall rest upon him.  Here,
+then, is yet another prophetic signal of an advent.  Cf. n. to
+vs. 51.
+
+	|76.  l@i sopra~: The adverbial phrase serves as a kind of
+subject of the verb "rimanea," indicating the space above, the
+ceiling or "sky," as it is then called (vs. 82).  For the
+construction, cf. ^Purg.~ X, 79.     |distinto~: "Marked."
+
+	|77-78.  tutte in quei colori... Sole~: The seven bands
+taken together contain all the colors of the rainbow, the bow the
+sun makes.  This may also be an image drawn from the Apocalypse. 
+Cf. Apoc. 4:3: "Iris erat in circuitu sedis."  ("There was a
+rainbow round about the throne.")
+
+	|Delia~: Surname of Diana, goddess of the Moon, who was
+born on the island of Delos; hence the moon.  	|il cinto~: The
+lunar halo.
+
+	|79-80.  ostendali~: The image of the bands of color
+stretching out behind and the lights on candlesticks as paint
+brushes now changes to that of banners or standards, and these,
+of course, would head a procession, possibly of some king or
+other royal personage.  The chariot soon to be named makes this
+clearly a triumphal procession, and the changed image of banners
+anticipates this.  Benvenuto, commenting on "in dietro,"
+explains: "Ostendalia enim appellantur in mundo signa
+imperatoris, quae ostenduntur quando vadit in expeditionem, et
+ista sunt signa summi imperatoris qui veniebat cum suo exercitu." 
+("For, in the world, the standards of an emperor are termed
+banners, which are displayed when he goes off on a campaign, and
+these are the standards of the highest Emperor, who was coming
+with his army.")
+
+	|in dietro... vista~: These banners are much longer than
+banners ever were, for they stretch back farther than the eye can
+see.
+
+	|81.  diece passi distavan quei di fori~: The outer bands
+of this rainbow are ten paces apart, i.e., the width of the group
+of seven bands is ten steps.  The symbolism of the perfect number
+ten, in this case, is uncertain.  Inevitably, many interpreters
+think of the Ten Commandments.
+
+	|82.  Sotto cos@i bel ciel~: The streaks of color, or the
+rainbow-colored standards, are now termed a "sky" which covers
+the procession.  This image should be kept in mind for a proper
+understanding of ^Purg.~ XXXI, 144, where a harmonizing heaven
+will be referred to.     |diviso~: "Recount."  Cf. the French
+^deviser.~
+
+	|83.  ventiquattro seniori~: A clear echo of Apoc. 4:4:
+"Et in circuitu sedis sedilia viginti quattuor, et super thronos
+viginti quattuor seniores sedentes circumamicti vestimentis
+albis."  ("And round about the throne are twenty-four seats; and
+upon the seats twenty-four elders sitting, clothed in white
+garments.") 	  |a due a due~: The elders walk two by two and
+close enough together, surely, to be beneath the "canopy," which
+is ten paces wide.
+
+	|84.  coronati venien di fiordaliso~: As will be clear,
+the color of the crowns in each unit of the procession is a very
+important feature.  Here that color is white, these being crowns
+of the fleur-de-lis, or lily (cf. "gigli," vs. 146).  The lily
+is, of course, a significant symbol in itself in this case, being
+a token of the faith in the Redeemer who is to come, and these
+elders prove to be the twenty-four books of the Old Testament, as
+Jerome, in his preface to the Latin translation of the Bible,
+reckons them, comparing them precisely to the twenty-four elders
+of the Apocalypse.  Jerome divides the books of the Old Testament
+into three groups -- the first comprises the five books of Moses;
+the second comprises eight prophetical books; and the third
+comprises nine hagiographical books, to which he adds Ruth and
+Lamentations, making twenty-four in all.  P. Toynbee (1968, p.
+100) provides the following quotation from Jerome:
+
+     Primus liber, quem nos Genesim dicimus; secundus, qui Exodus
+     appellatur; tertius, Leviticus; quartus, quem Numeros
+     vocamus; quintus, qui Deuteronomium praenotatur.  Hi sunt
+     quinque libri Moysi, quos proprie {Hebrew} Thora is est. 
+     Secundum, prophetarum ordinem faciunt: et incipiunt ab Iesu
+     filio Nave; deinde subtexunt Iudicum librum et in eum
+     compingunt Ruth: quia in diebus Iudicum facta narratur
+     historia; tertius sequitur Samuel, quem nos Regum primum et
+     secundum dicimus; quartus Regum, qui tertio et quarto Regum
+     volumine continetur; ...quintus Isaias; sextus, Ieremias;
+     septimus, Ezechiel; octavus, liber duodecim Prophetarum. 
+     Tertius ordo, Hagiographa possidet: et primus liber incipit
+     a Iob; secundus a David; tertius est Salomon, tres libros
+     habens Proverbia; quartus, Ecclesiasten; quintus, Canticum
+     Canticorum; sextus est Daniel; septimus, ...qui liber apud
+     nos Paralipomenon primus et secundus inscribitur; octavus,
+     Esdras; nonus, Esther.  Atque ita fiunt pariter veteris
+     legis libri viginti duo: id est, Moysi quinque, prophetarum
+     octo, Hagiographorum novem.  Quamquam nonnulli Ruth et
+     Cinoth (i.e., Lamentationes) inter Hagiographa scriptitent,
+     et hos libros in suo putent numero supputandos, ac per hoc
+     esse priscae legis libros viginti quatuor: quos sub numero
+     viginti quatuor seniorum Apocalypsis Ioannis inducit
+     adorantes Agnum.
+
+     The first book is the one we call Genesis; the second,
+     Exodus; the third, Leviticus; the fourth, Numbers; and the
+     fifth, Deuteronomy.  These are the five books of Moses which
+     the Hebrews call the Law.  Next, the prophets follow in
+     order: they begin with the book of Jesus, son of Nave
+     [Joshua, son of Nun]; they work in the book of Judges, and
+     to it they add Ruth, which together with Judges forms the
+     history; third follows Samuel, which we call I and II Kings;
+     fourth they place Kings, which we call III and IV
+     Kings... Isaiah is fifth; Jeremiah, sixth; Ezekiel, seventh;
+     and the eighth is the book of the twelve [minor] prophets. 
+     The third group contains the hagiographies: of these the
+     book of Job comes first; followed by David; Solomon, third,
+     containing three books of Proverbs; Ecclesiastes is fourth;
+     Canticle of Canticles, fifth; the sixth, Daniel; the seventh
+     ... the book we call Paralipomenon I and II [I and II
+     Chronicles]; Esdras is eighth; and Esther, ninth.  Hence, in
+     the Old Law there are twenty-two books, that is, five books
+     of Moses, eight of prophets, and nine of the hagiographies. 
+     Some would place the books of Ruth and Qinoth (i.e.,
+     Lamentations) among the hagiographies and add them to their
+     count; thus, for them, the Old Law had twenty-four books;
+     and it is the number of twenty-four elders that John, in the
+     Apocalypse, mentions as adoring the Lamb.
+
+	|85-87.  Tutti cantavan: "Benedicta tue... d'Adamo~": The
+words of Gabriel to Mary are clearly echoed here.  See Luc. 1:28:
+"Et ingressus angelus ad eam dixit: Ave, gratia plena, Dominus
+tecum, benedicta tu in mulieribus."  ("And when the angel had
+come to her, he said, 'Hail, full of grace, the Lord is with
+thee.  Blessed art thou among women.'")  Dante has changed "in
+mulieribus" to "ne le figlie d'Adamo," not inappropriately, since
+this now is the Garden of Eden, where Adam was first placed.  See
+also Elisabeth's words to Mary in Luc. 1:42.
+
+	|Benedicta~: The Latin form renders the biblical echo
+very distinctly.        |tue~ = ^tu.~
+
+	|e benedette sieno... tue~: This additional blessing goes
+quite beyond the words addressed to Mary; and since we are
+expecting Beatrice to come, could these words not be a welcoming
+salutation to her?  Again the poet is guiding his reader into a
+deliberate ambiguity (see C. S. Singleton, 1954, pp. 50-52).  The
+salutation to Mary which is heard in the chant of the elders, who
+are the books of the Old Testament, amounts to a prophetic call,
+not for Beatrice's appearance here, but for the Advent of the Son
+of Man (see the signal in the seven-fold Spirit of God that was
+to rest upon Him who was to come, and the signal of hosanna
+above); but these latter words now seem to herald some lady for
+her beauty.
+
+	|88.  l'altre fresche erbette~: "Altre" here is probably
+another instance of the redundant use of this adjective.  Cf.
+^Purg.~ XX, 81.
+
+	|90.  fuor~ = ^furono.~
+
+	|91.  come luce luce in ciel seconda~: The image is that
+of one constellation (made up of several stars) replacing another
+in the sky, as the sphere of the stars turns about the earth. 
+Thus, in the space directly in front of Dante across the stream,
+a second group replaces the first, and the focus of attention is
+held strictly on this spot.  Benvenuto comments: "Et est propria
+comparatio, quia sicut in coelo una stella oritur post aliam ad
+illuminandum mundum tempore noctis, ita primo libri antiqui
+luxerunt in mundo in tempore tenebrarum; postea venerunt maiores
+luces in tempore gratiae, scilicet libri evangelistarum."  ("And
+the comparison is proper, since just as in the heavens one star
+rises after another to illumine the world at night, so first the
+ancient books shed light upon the world in the hour of darkness;
+afterwards, there came greater lights in the era of grace, that
+is, the books of the Evangelists.")
+
+	|92.  quattro animali~: See the description in Ezech.
+10:4-14:
+
+     Et elevata est gloria Domini desuper cherub ad limen domus,
+     et repleta est domus nube, et atrium repletum est splendore
+     gloriae Domini.  Et sonitus alarum cherubim audiebatur usque
+     ad atrium exterius, quasi vox Dei omnipotentis loquentis.
+
+     Cumque praecepisset viro qui indutus erat lineis, dicens:
+     Sume ignem de medio rotarum quae sunt inter cherubim,
+     ingressus ille stetit iuxta rotam; et extendit cherub manum
+     de medio cherubim ad ignem qui erat inter cherubim, et
+     sumpsit, et dedit in manus eius qui indutus erat lineis; qui
+     accipiens egressus est.  Et apparuit in cherubim similitudo
+     manus hominis subtus pennas eorum, et vidi, et ecce quattuor
+     rotae iuxta cherubim; rota una iuxta cherub unum, et rota
+     alia iuxta cherub unum, species autem rotarum erat quasi
+     visio lapidis chrysolithi, et aspectus earum similitudo una
+     quattuor, quasi sit rota in medio rotae.  Cumque ambularent
+     in quattuor partes, gradiebantur et non revertebantur
+     ambulantes, sed ad locum ad quem ire declinabat quae prima
+     erat, sequebantur et ceterae nec convertebantur.  Et omne
+     corpus earum et colla et manus et pennae et circuli plena
+     erant oculis in circuitu quattuor rotarum; et rotas istas
+     vocavit volubiles audiente me.  Quattuor autem facies
+     habebat unum: facies una facies cherub, et facies secunda
+     facies hominis, et in tertio facies leonis, et in quarto
+     facies aquilae.
+
+     And the glory of the Lord was lifted up from above the
+     cherub to the threshold of the house: and the house was
+     filled with the cloud, and the court was filled with the
+     brightness of the glory of the Lord.
+
+     And the sound of the wings of the cherubims was heard even
+     to the outward court as the voice of God Almighty speaking.
+
+     And when he had commanded the man that was clothed with
+     linen, saying: Take fire from the midst of the wheels that
+     are between the cherubims: he went in and stood beside the
+     wheel.
+
+     And one cherub stretched out his arm from the midst of the
+     cherubims to the fire that was between the cherubims: and he
+     took and put it into the hands of him that was clothed with
+     linen.  Who took it and went forth.
+
+     And there appeared in the cherubims the likeness of a man's
+     hand under their wings.
+
+     And I saw, and behold ^there were~ four wheels by the
+     cherubims: one wheel by one cherub, and another wheel by
+     another cherub: and the appearance of the wheels was to the
+     sight like the chrysolite stone.
+
+     And as to their appearance, all four were alike: as if a
+     wheel were in the midst of a wheel.
+
+     And when they went, they went by four ways: and they turned
+     not when they went: but to the place whither they first
+     turned the rest also followed and did not turn back.
+
+     And their whole body and their necks and their hands and
+     their wings and the circles were full of eyes, round about
+     the four wheels.
+
+     And these wheels he called Voluble, in my hearing.
+
+     And every one had four faces: one face ^was~ the face of a
+     cherub: and the second face, the face of a man: and in the
+     third was the face of a lion: and in the fourth the face of
+     an eagle.
+
+All details here are clearly relevant, and Dante's procession
+owes much to this passage, as his reference to it (vs. 100)
+clearly indicates.  See also Apoc. 4:6-8:
+
+     Et in conspectu sedis tamquam mare vitreum simile
+     crystallo, et in medio sedis et in circuitu sedis quattuor
+     animalia plena oculis ante et retro; et animal primum simile
+     leoni, et secundum animal simile vitulo, et tertium animal
+     habens faciem quasi hominis, et quartum animal simile
+     aquilae volanti.  Et quattuor animalia singula eorum
+     habebant alas senas, et in circuitu et intus plena sunt
+     oculis, et requiem non habebant die ac nocte dicentia:
+     Sanctus, sanctus, sanctus Dominus Deus omnipotens, qui erat
+     et qui est et qui venturus est.
+
+     And before the throne there is, as it were, a sea of glass
+     like to crystal, and in the midst of the throne, and round
+     the throne, are four living creatures, full of eyes before
+     and behind.  And the first living creature is like a lion
+     and the second like a calf, and the third has the face, as
+     it were, of a man, and the fourth is like an eagle flying. 
+     And the four living creatures have each of them six wings;
+     round about and within they are full of eyes.  And they do
+     not rest day and night, saying, "Holy, holy, holy, the Lord
+     God almighty, who was, and who is, and who is coming."
+
+According to a long and well-founded tradition the four animals
+symbolize the Evangelists, which means that in the procession
+they are the corresponding Four Gospels
+
+	|93.  coronati ciascun di verde fronda~: Again it is the
+color of the crown which is significant.  The elders of the first
+group are crowned in white, the color of faith.  These animals of
+the second and central group (called a "nodo," "knot," in vs.
+133) are crowned in green, the color of hope as especially
+connected with Christ, our hope (I Tim. 1:1).  The color green
+will be re-affirmed in the crown Beatrice will wear when she
+appears at the center of this central group.
+
+	|94.  Ognuno era pennuto di sei ali~: This is the point
+on which the accounts in Ezekiel and the Apocalypse differ (see
+vss. 104-105), that of the latter agreeing with Dante's
+experience.
+
+	|95.  le penne piene d'occhi~: As both Ezekiel and the
+Apocalypse have it (see n. to vs. 92).  	|Argo~: Argus,
+surnamed Panoptes ("all-seeing") because he had a hundred eyes,
+was, according to one account, the son of Arestor.  Juno, jealous
+of Jupiter's love for Io, set Argus to watch over her after she
+had been metamorphosed into a cow, but Jupiter commanded Mercury
+to slay him.  Mercury therefore descended to earth in the guise
+of a shepherd and, having beguiled Argus to sleep with stories
+and songs, cut off his head.  Juno thereupon transplanted his
+eyes into the tail of her favorite bird, the peacock.  See Ovid,
+^Metam.~ I, 622-723.
+
+	|96.  se fosser vivi~: This touch makes it clear that the
+eyes in the wings are not as they are in the peacock's tail, but
+are living as the eyes of Argus were when he was alive.
+
+	|97-99.  pi@u non spargo rime~: "I do not expend
+[literally, scatter] more rhymes [i.e., verses]."  In "spargo"
+there is the suggestion of waste or lavishness, which is
+reinforced by the opposing phrase "non posso esser largo" of vs.
+99. 
+
+	|1OO.  ma leggi Ezechiel~: Ezekiel has already been cited
+in vss. 92 and 95.
+
+	|102.  con vento e con nube e con igne~: See the
+quotation from Ezekiel in n. to vs. 92.
+
+	|103.  i~ = ^li.~
+
+	|105.  Giovanni @e meco e da lui si diparte~: Cf. the
+quotation from the Apocalypse in the n. to vs. 92.  Ezekiel is
+far more detailed in the description of the four animals.
+
+	|106.  contenne~: Another instance of a past definite
+tense in a rhyme position where the imperfect (^conteneva~) would
+be normal.  The requirement of the rhyme has forced the poet's
+hand.  Cf. "pose" in ^Inf.~ XXXII, 128.
+
+	|107.  un carro, in su due rote, triunfale~: The kind of
+two-wheeled chariot used by the ancient Romans in war and in
+triumphal processions.  As will become evident in the symbolism
+of the procession, this chariot represents the Church.  But it is
+also, in this instance, a triumphal chariot, and as such it is
+strangely empty!  Whose triumph is this?
+
+	|108.  al collo d'un grifon~: The griffin symbolizes
+Christ in His two natures, human and divine (see ^Purg.~ XXXI,
+80-81, and XXXII, 96).  Isidore of Seville (^Etym.~ XII, ii, 17)
+describes the animal, half eagle and half lion, and (VII, ii,
+43-44) compares Christ both to a lion and to an eagle.  
+|tirato venne~: With the symbols of the Church and Christ, Dante
+has now begun to draw upon the Song of Solomon, Canticle of
+Canticles, traditionally interpreted as a dialogue between the
+two.  See Cant. 1:3 [4]: "Trahe me, post te curremus."  ("'Draw
+me!'  Chorus: 'We will follow you.'")  He also refers to this
+biblical passage in ^De mon.~ III, iii, 12: "Hoc enim est quod
+dicit Ecclesia loquens ad sponsum: 'Trahe me post te.'"  ("For
+this is what the church means when she says to the Bridegroom,
+'Draw me after thee.'")
+
+	|109.  ale~: This is an archaic singular form of ^ala.~
+
+	|110.  tra la mezzana e le tre e tre liste~: The image is
+quite precise.  The wings of the griffin, upstretched, pass on
+either side of the middle band of light and thus have on either
+side three bands, symbol of the Trinity.  If to either of these
+groups the middle band be added, the result is four, the symbol
+of humanity, and the numbers so divided equal 3 \+ 1 \+ 3.
+
+	|111.  s@i ch'a nulla, fendendo,, facea male~: The wings
+in no way disturb the bands in this 3 \+ 1 \+ 3 arrangement,
+which would seem to signify that the two natures of Christ
+represented by the wings are in harmony with the divine and the
+human as represented by the streamers of light arranged in
+combinations of three and four.
+
+	|112.  Tanto salivan che non eran viste~: This no doubt
+symbolizes the resurrected Christ, who rose to Heaven, beyond our
+sight.  See n. to vs. 108 for a passage from Isidore of Seville
+in which Christ is compared to an eagle.
+
+	|113.  le membra d'oro avea~: Cf. Cant. 5:11: "Caput eius
+aurum optimum."  ("His head is pure gold.") 	|quant'era
+uccello~: I.e., the head, neck, and wings, this being the divine
+part, as it were.
+
+	|114.  e bianche l'altre, di vermiglio miste~: The rest
+of the body of the strange animal is that of a lion, symbolizing
+the human part, which is white because pure and is mingled with
+crimson, to symbolize Christ's Passion.  Thus Benvenuto comments:
+"Ideo bene dicit: et ille gryphus, ^le membra d'oro avea,
+quant'era uccello~, quantum ad divinitatem, quae est
+incorruptibilis, immortalis, ^e bianche l'altre~, quantum ad
+carnem humanam puram.  Et dicit: ^di vermiglio miste~, quia
+sanguine rubricata in ipsa passione."  ("Therefore he well says:
+that griffin 'had his members of gold in so far as he was bird,'
+in respect to his divinity, which is incorruptible and immortal,
+'and the others white,' in regard to his purely human flesh.  And
+he says: 'mixed with red' because colored by the blood of His
+Passion.")  Here Dante is again drawing on the Canticle of
+Canticles.  Cf. Cant. 5:10: "Dilectus meus candidus et
+rubicundus."  ("My lover is radiant and ruddy.")
+
+	|115-116.  Non che Roma... rallegrasse~: A second ^non~
+might have been expected after "bello," and one such is
+understood.  The chariot, as noted in vs. 107, is the two-wheeled
+type used in wars and triumphs by the ancient Romans.
+
+	|Affricano~: Publius Cornelius Scipio Aemilianus
+Africanus Numantinus, known as Scipio the Younger, was born ^ca.~
+185 B.C. and died in 129 B.C.  He was the adopted son of Publius
+Cornelius Scipio, the son of Scipio Africanus the Elder, the
+conqueror of Hannibal.  He took and burned Carthage, for which he
+was honored with a triumph at Rome and with the surname
+Africanus, which he had already inherited, by adoption, from the
+conqueror of Hannibal.  	|0 vero~ = ^ovvero.~  	   
+|Augusto~: Augustus, the first Roman Emperor.  See n. to ^Purg.~
+VII, 6.  Augustus' triumphs are mentioned by Virgil, ^Aen.~ VIII,
+704-715, "at Caesar, triplici invectus Romana triumpho / moenia"
+("but Caesar, entering the walls of Rome in triple triumph"), and
+by Suetonius, ^De vita Caesarum~ II, xxii, 1: "Curulis triumphos
+tris egit, Delmaticum, Actiacum, Alexandrinum."  ("He celebrated
+three regular triumphs for his victories in Dalmatia, at Actium,
+and at Alexandria.")
+
+	|117.  quel del Sol~: The chariot of the Sun is described
+by Ovid, ^Metam.~ II, 107-110:
+
+     aureus axis erat, temo aureus, aurea summae
+     curvatura rotae, radiorum argenteus ordo;
+     per iuga chrysolithi positaeque ex ordine gemmae
+     clara repercusso reddebant lumina Phoebo.
+
+     Its axle was of gold, the pole of gold; its wheels had
+     golden tyres and a ring of silver spokes.  Along the yoke
+     chrysolites and jewels set in fair array gave back their
+     bright glow to the reflected rays of Phoebus.
+
+	|saria~ = ^sarebbe.~ 	|pover con ello~: "Poor compared
+with it."
+
+	|118-120.  quel del Sol... giusto~: The story of
+Pha,ethon's ill-fated driving of the chariot of the Sun has been
+referred to already in ^Inf.~ XVII, 106-108, and ^Purg.~ IV,
+71-72 (see n. to ^Inf.~ XVII, 107).  Because Pha,ethon was too
+weak to hold the horses, they rushed out of their usual track and
+approached so near the Earth that they almost set her on fire. 
+Jupiter, thereupon, in answer to the prayer of Earth, killed
+Pha,ethon with a thunderbolt.
+
+	|per l'orazion de la Terra devota~: See Ovid's version of
+Earth's plea in ^Metam.~ II, 272-300.  Earth is indeed "devout,"
+for she speaks to Jove in complete submission to his will.  See
+^Metam.~ II, 279-281:
+
+     si placet hoc meruique, quid o tua fulmina cessant,
+     summe deum?  liceat periturae viribus ignis
+     igne perire tuo clademque auctore levare!
+
+     If this is thy will, and I have deserved all this, why, 0
+     king of all the gods, are thy lightnings idle? If I must die
+     by fire, oh, let me perish by thy fire and lighten my
+     suffering by thought of him who sent it.
+
+	|quando fu Giove arcanamente giusto~: In his letter to
+the Italian cardinals (^Epist.~ XI, 5) Dante alludes to the
+incident in connection with their neglect of the Church: "Vos
+equidem, Ecclesie militantis veluti primi prepositi pili, per
+manifestam orbitam Crucifixi currum Sponse regere negligentes,
+non aliter quam falsus auriga Pheton exorbitastis."  ("But ye, as
+it were the officers of the first rank of church militant,
+neglecting to guide the chariot of the spouse along the manifest
+track of the Crucified, have gone astray no otherwise than the
+false driver Phaeton.")  No doubt this concordance of pagan
+mythology, the "scriptura paganorum" ("scripture of the pagans")
+of ^Epist.~ XIII, 63, and events connected with the Church
+underlies the notion here that Jove was mysteriously just when he
+struck down Pha,ethon.  The mystery lies precisely in that sense
+of concordance.
+
+	|121-123.  Tre donne~: The three theological virtues.      
+|da la destra rota~: "At the right wheel" is a position of higher
+dignity than at the left, where the lower order of the cardinal
+virtues will be seen dancing. 
+
+	|in giro... danzando~: The three dance a round ("in
+giro").
+
+	|l'una tanto rossa... nota~: Charity, named first because
+she is the highest virtue of the three and the leader of the
+others.  Fire and the color of fire further point up the fact
+that this is charity or love.
+
+	|fora~ = ^sarebbe stata.~
+
+	|124-125.  l'altr'era come se... fatte~: Hope, symbolized
+by her emerald color.  Green was the established color for that
+virtue, as already noted in regard to the crowns of the four
+animals.  Cf. ^Purg.~ VIII, 28, 106.  For |smeraldo~, see ^Purg.~
+VII, 75, and XXXI, 116, where it is used for Beatrice's eyes.  It
+is not that this maiden is simply robed in green, but she is
+green to the bone, green through and through.
+
+	|126.  la terza parea neve~: Faith, who is pure white. 
+The white crowns of the twenty-four elders have already
+symbolized this virtue.     |test$e mossa~: "Newly fallen"
+("moved" from above).
+
+	|127-129.  e or parean... rossa~: Now faith leads the
+other two in the dance, and now charity.  For the point of
+doctrine symbolized in this, see Thomas Aquinas, ^Summa theol.~
+II-II, q. 17, a. 7, where we read that faith precedes (hence
+"leads") hope.
+
+	|e dal canto di questa... ratte~: Charity leads the other
+two in setting the tempo of the dance, by which is denoted the
+superiority of charity among the three virtues.  On this point
+theological doctrine agrees with Paul (I Cor. 13:2, 13).  Cf.
+Thomas Aquinas, ^Summa theol.~ II-II, q. 23, a. 6, resp.: "Et
+ideo charitas est excellentior fide et spe, et per consequens
+omnibus aliis virtutibus; sicut etiam prudentia, quae attingit
+rationem secundum se, est excellentior quam aliae virtutes
+morales quae attingunt rationem secundum quod ex ea medium
+constituitur in operationibus, vel passionibus humanis."  ("Hence
+charity is more excellent than faith or hope, and, consequently,
+than all the other virtues, just as prudence, which by itself
+attains reason, is more excellent than the other moral virtues,
+which attain reason in so far as it appoints the mean in human
+operations or passions.")  For prudence in this role, see vs.
+132.
+
+	|toglien~ = ^toglievano.~ 	|e tarde e ratte~:
+Dancing now more slowly and now faster.
+
+	|130.  Da la sinistra~: The lesser side; see n. to vs.
+121.  	  |quattro facean festa~: The four moral or cardinal
+virtues, prudence, temperance, justice, and fortitude, also known
+as the virtues of the active life.  See C. S. Singleton (1958),
+pp. 160-164.
+
+	|131-132.  in porpore vestite~: A most significant touch,
+as E. Moore (1903, pp. 184-186) points out, for in the Middle
+Ages the term "purple" was actually used for deep red, and
+Dante's use of that color here symbolizes the fact that these are
+the cardinal virtues that partake of charity, hence are the
+^infused~ cardinal virtues, as distinguished from the ^acquired~
+cardinal virtues, which bear the same names and were known and
+accessible to the pagans.  Infused cardinal virtues, according to
+Thomas Aquinas (^Summa theol.~ I-II, q. 65, a. 2), cannot be
+without charity.  See C. S. Singleton (1958), pp. 160-161.
+
+	|dietro al modo... testa~: This is prudence, acknowledged
+to be the chief of the moral virtues (see n. to vs. 130 and cf.
+Aristotle, ^Eth. Nicom.~ VI, 13, 1144+b~).  The rather grotesque
+feature of three eyes set in her head symbolizes her vision of
+past, present, and future.  In ^Conv.~ IV, xxvii, 5, Dante
+writes: "Conviensi adunque essere prudente, cio@e savio: e a ci@o
+essere si richiede buona memoria de le vedute cose, buona
+conoscenza de le presenti e buona provedenza de le future."  ("It
+is fitting, then, to be prudent, that is wise; and to be so
+demands a good memory of things formerly seen, and good knowledge
+of things present, and good foresight of things to come.")  See
+Cicero, ^De inventione~ II, liii, 160; Thomas Aquinas, ^Summa
+theol.~ I-II, q. 57, a. 6, ad 4.
+
+	|133.  il pertrattato nodo~: See "pertratta" in ^Inf.~
+XI, 80.  The second group (and the central one, as it turns out)
+is wider than the rest of the procession, which consists of a
+line of figures walking two by two.  White, green, and red, all
+the colors of the whole line (except the rainbow colors of the
+canopy), are present in the virtues in this central knot, and
+these will be Beatrice's colors, when she appears there on the
+chariot.  But the principal color of the middle group, as an
+element of the whole, is the green of the crowns of the four
+animals.
+
+	|134.  due vecchi in abito dispari~: The two old men are
+unlike in dress, as vss. 136-141 indicate.
+
+	|135.  ma pari in atto~: "But alike in mien." 	  
+|sodo~: "Staid."
+
+	|136-138.  L'un si mostrava... Ipocr@ate~: Wearing the
+robes of a physician, one of the men shows himself to be a
+follower of Hippocrates.  He is the Acts of the Apostles and
+resembles their author, Luke, the beloved physician (Col. 4:14),
+and when we see that the figure who walks beside him is the
+Epistles of Paul, we understand that those who follow the central
+knot and constitute the third group are, in fact, the remaining
+books of the New Testament.
+
+	|Ipocr@ate~: The most famous physician of antiquity,
+already named as being among the virtuous pagans of Limbo (see
+^Inf.~ IV, 143).
+
+	|che natura... cari~: Nature holds man dearest among the
+animals, since he is the most noble.  We recall God's delight at
+Nature's work in forming the human creature as an animal (^Purg.~
+XXV, 70-71).  And Aristotle agrees with Nature, as Dante reminds
+us in the ^Convivio~ (II, viii, 10): "Ciascuno @e certo che la
+natura umana @e perfettissima di tutte l'altre nature di qua gi@u;
+e questo nullo niega, e Aristotile l'afferma, quando dice... che
+l'uomo @e perfettissimo di tutti li animali."  ("Everyone is
+assured that human nature is the most perfect of all other
+natures here below; and this is denied of none; and Aristotle
+averreth it when he saith... that man is the most perfect of all
+the animals.")
+
+	|139-140.  mostrava l'altro... aguta~: The concern
+contrary to that of the physician, which is to heal, is to wound;
+hence this old man bears a bright, sharp sword.  The figure
+represents the Epistles of Paul and (as in the case of Luke for
+Acts) resembles the author himself, who is often represented in
+art with a sword, i.e., the sword of the word of God.  See Isa.
+49:2; Heb. 4:12; and Eph. 6:17: "gladium spiritus, quod est
+verbum Dei" ("the sword of the spirit, that is, the word of
+God").  The sword is also, iconographically, the symbol of Paul's
+martyrdom.
+
+	|142.  quattro in umile paruta~: These four of humble
+mien are the minor or canonical Epistles of James, Peter, John,
+and Jude.  For "paruta" in this sense, cf. ^Purg.~ XXV, 100.
+
+	|143.  un vecchio solo~: The old man who brings up the
+rear and walks alone is the last book of the Scriptures, the
+Apocalypse, the vision of John while he was "in spiritu" ("in the
+spirit"), Apoc. 1:10.  Grandgent comments: "In art John is often
+depicted asleep.  It was commonly believed that he was sleeping
+in Ephesus, not to wake until the Judgment Day."
+
+	|145-148.  E questi sette... vermigli~: Their crowns of
+red distinguish these seven as the third group.  Thus the colors
+of the three groups prove to be white, green, and red, in that
+order, which are the colors of the three theological virtues,
+faith, hope, and charity; or, in "chronological" order, faith
+precedes Christ, the Gospels follow and, crowned in green, are
+our hope; and charity follows His coming.
+
+	|brolo~: "Garland."  Originally the word meant a "closed
+wood" or "garden" and is probably of French origin.  See E. G.
+Parodi (1957), p. 278.
+
+	|149.  avria~ = ^avrebbe.~ 	|poco lontano aspetto~:
+"A gaze [spectator] from not far off."  This is the subject of
+"avria."
+
+	|150.  che tutti ardesser~: Again the color of charity is
+given as that of fire, here at the end of the procession as at
+the beginning (cf. vss. 34-35).        |di sopra da' cigli~:
+I.e., around the head, where garlands are worn.
+
+	|151.  quando il carro a me fu a rimpetto~: Dante has
+chosen an excellent post (cf. vs. 70) from which to view the
+whole spectacle, since its center stops directly opposite him on
+the other bank of the stream.  But this is quite understandable,
+since, as we are to see, the procession comes for him alone.
+
+	|152.  un tuon~: Obviously a signal of supernatural
+origin here.
+
+	|153.  pi@u~: I.e., ^oltre.~
+
+	|154.  fermandosi ivi con le prime insegne~: The seven
+lights and candlesticks, called standards in vs. 79, are now
+termed ensigns.  They are also styled "duci" or guides in simile
+in vs. 64, and the phrasing here suggests that they do indeed
+bring the whole procession to a halt in halting themselves.  In
+this way our attention is brought back to them, at the head of
+the whole array, where we should see them miraculously suspended
+in midair, their streamers hanging back over the whole procession
+like a "fair sky" (vs. 82), which means, back over a triumphal
+chariot at the center -- but the chariot is still empty!
+
+

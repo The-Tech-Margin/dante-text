@@ -1,0 +1,54 @@
+Return-Path: bobh@outbound.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id LAA16706
+	for <steve@avalon.dartmouth.edu>; Tue, 8 Sep 1998 11:00:53 -0400 (EDT)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id LAA07514
+	for <Steve.Campbell@dartmouth.edu>; Tue, 8 Sep 1998 11:00:52 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 43988 [128.112.128.88]) by outbound.Princeton.EDU with ESMTP id <541872-28322>; Tue, 8 Sep 1998 10:19:44 -0400
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id KAA29939
+	for <Steve.Campbell@dartmouth.edu>; Tue, 8 Sep 1998 10:19:18 -0400 (EDT)
+Received: from pdp.remote.princeton.edu (comserv7-dialup87.Princeton.EDU [128.112.71.87])
+	by mail.Princeton.EDU (8.8.8/8.8.8) with ESMTP id KAA00193
+	for <Steve.Campbell@dartmouth.edu>; Tue, 8 Sep 1998 10:19:11 -0400 (EDT)
+Message-ID: <35F53CDF.810A6E2B@princeton.edu>
+Date: 	Tue, 08 Sep 1998 10:19:11 -0400
+From: Robert Hollander <bobh@princeton.edu>
+Reply-To: bobh@princeton.edu
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: ascii file of stopwords
+X-Priority: 3 (Normal)
+Content-Type: multipart/mixed; boundary="------------85201BAFFCB69558637BF1B6"
+
+This is a multi-part message in MIME format.
+--------------85201BAFFCB69558637BF1B6
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------85201BAFFCB69558637BF1B6
+Content-Type: text/plain; charset=us-ascii; name="stopword.dos.txt"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="stopword.dos.txt"
+
+DDP: WORDS TO REMAIN STOPWORDS FROM THOSE ON OUR LAST LISTS:
+
+ITALIAN:
+
+& A AD AGLI AL ALL ALLE CE CI COL CON DEL DELL DELLA DELLE
+DELLO DI E IL IN L LA LE LO MA NEL NELLA NELLE SE SI UN UNA
+UNO
+
+LATIN:
+
+&C & AT AD AC AB A DE EX ETC ET E IN
+
+ENGLISH:
+
+A AN AND IF IN OF ON OR THAT THE THESE THIS THOSE TO 
+--------------85201BAFFCB69558637BF1B6--
+

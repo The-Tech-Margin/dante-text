@@ -1,0 +1,39 @@
+							April 25, 1985
+Dear Bob,
+
+	As you asked, I have read the draft of your paper.  I have only
+one or two comments on its technical content.
+
+	Page 7.  BRS's address is 1200 Route 7, Latham, New York 12110.
+
+	Page 9.  Footnote to you: When you start considering computer-
+generated indices of citations or other manuscript-processing tasks,
+check with me.  There are several such tools on Unix.
+
+	Page 12.  The BRS search engine (their term) looks for whole
+words, and only recognizes parts of words when the part being searched
+is the base word and the occurence is a plural, participle, or some other
+standard variant.  So you could search for the words GYGES or GIGES,
+but the word fragments GYG or GIG could be found ONLY because they
+happen to look like the base of a plural.
+
+	Page 13.  Your use of the word "consultation" is interesting.
+Of course one consults a text.  A technical word for what you are
+describing might be "access".   In technical parlance, a "consultation"
+connotes a person-to-person exchange, while one accesses or just searches
+a database.  I have no problem with "consultation" though.
+
+	Page 14.  Since the total size of our database is still not
+known, and since optical disk technology is so new, I would avoid
+"... about ten times..."  Why not just say " a single disk could hold
+our entire database."  I think that's safe.
+
+	Page 15.  This is not strictly a technical observation, but it was
+I who brought up the ACM article, so for what it's worth, I think your
+paragraph containing the reference is overly cautious, and stands out
+from the rest of the paper as a sort of advance apologia.  You are correct
+that this database is different from the legal database used in the
+Blair and Maron study, and we don't really know yet what the usage patterns
+of this database will be.  We are aware of studies such as this, and we
+will bear them in mind as we proceed.  I think that's enough.
+

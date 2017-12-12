@@ -1,0 +1,24 @@
+As of this writing, our technique for propagating changes from the DDP to DanteLab is to create
+a tarball of the entire DDP database and transfer it to Charles Forcey of DanteLab. He will
+then do a total reload the the DanteLab database.
+
+The tarball will include all the cdat, pdat, and tdat files from the database. Creating the
+tarball is a 2-step process. Step one is to create a file containing all the ?dat filenames.
+From the Commentaries directory, do
+
+find . -name '*.[cpt]dat' -print > dat-files
+
+Step 2 is to generate the tarball. From the same directory, do
+
+tar --create --gzip --file ~/dantelab.tar --files-from dat-files
+
+This can take several minutes to execute. The resulting tarball will be about 75MB. 
+
+We have gotten this file to Charles through DropBox. I have transferred the file to my laptop
+using sftp, then moved it into my DropBox folder and waited while DropBox syncs. Then open the
+DropBox website and use the sharing function to generate a link to the file that you can email
+to Charles.
+
+Steve Campbell
+March 2015
+

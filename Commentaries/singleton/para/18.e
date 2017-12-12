@@ -1,0 +1,423 @@
+	|1.  verbo~: "Word", i.e., thought.  See Thomas Aquinas,
+^Summa theol.~ I, q. 34, a. 1, resp.: "Ex hoc ergo dicitur
+verbum vox exterior, quia significat interiorem mentis conceptum. 
+Sic igitur primo et principaliter interior mentis conceptus
+verbum dicitur."  ("Wherefore the exterior vocal sound is called
+a word from the fact that it signifies the interior concept of
+the mind.  Therefore it follows that, first and chiefly, the
+interior concept of the mind is called a word.")
+
+	|2.  specchio~: Cacciaguida is called a "mirror" because
+he reflects God's mind.
+
+	|3.  lo mio~: My inner thoughts.  |temprando col dolce
+l'acerbo~: The "sweet" are the consoling parts of the prophecy,
+the "bitter" are the harsh: exile and the hardships thereof.
+
+	|6.  colui~: God.  |colui ch'ogne torto disgrava~: Cf.
+Deut. 32:35: "Mea est ultio, et ego retribuam in tempore." 
+("To me belongs the vengeance, and I will make recompense in due
+time.")
+
+	|8-9.  mio conforto~: Beatrice.  Virgil is so termed in
+^Inf.~ IV, 18; ^Purg.~ III, 22; and elsewhere.  |qual io
+allor~... |l'abbandono~: "At this point I renounce any attempt to
+express it", i.e., the love I saw in the holy eyes of Beatrice. 
+|Qual~ modifies |amor~ in this construction, |amor~ being the
+direct object of |vidi.~
+
+	|10.  non perch' io pur del mio parlar diffidi~: "Not only
+[|pur~] because I have no confidence in my [powers of]
+expression."
+
+	|11.  ma per la mente che non pu@o redire~: For the
+concept, see ^Par.~ I, 9.  |mente~: "Memory."  |redire~:
+"Return."  Cf. ^Par.~ XI, 105.
+
+	|12.  altri~: God.  Cf. ^Inf.~ V, 81; IX, 9.
+
+	|13.  Tanto~: "This much only."  Cf. ^Inf.~ XV, 91;
+^Par.~ II, 67.
+
+	|16-18.  fin che~: "As long as."  |piacere etterno~:
+Divine beauty.  |fin che~... |aspetto~: The "secondo aspetto" is
+the reflected light of beauty.  Such expressions continue to
+underscore the allegory of Beatrice, by and through whose
+guidance the pilgrim sees by reflected light.  Cf. ^Par.~ I, 49,
+64-66.
+
+	|20.  Volgiti e ascolta~: I.e., turn back to Cacciaguida
+and listen to him.
+
+	|21.  non pur ne' miei occhi @e paradiso~: "Beatitude
+consists not only in acceptance of the demonstration of divine
+truth, but also in the companionship of the blessed and the
+comprehension of their state as a manifestation of divine grace. 
+This idea is conveyed by Beatrice in a figure as appropriate as
+it is sweet and modest" (Gr).
+
+	|22.  qui~: On earth.
+
+	|23.  vista~: "Eyes."
+
+	|24.  tolta~: "Rapt."
+
+	|25.  folg$or santo~: Cacciaguida.
+
+	|28-29.  quinta soglia~... |cima~: "The `tree' of the
+heavens, which derives all its sustenance from above, is
+conceived as a fir, whose branches grow in rings or `tiers'
+around the trunk.  The fifth ring is the heaven of Mars" (Gr). 
+|soglia~: "Tier."  Cf. ^Par.~ XXX, 113; XXXII, 13.
+
+	|30.  e frutta sempre e mai non perde foglia~: This
+"tree" produces beatitude, which never "falls away."
+
+	|32.  fuor~ = ^fuorono.~  |voce~: "Fame."
+
+	|33.  musa~: "Poet."  Cf. ^Par.~ XV, 26.  |opima~:
+"Rich."
+
+	|34.  Per@o~ = ^perci@o.~  |corni~: The term doubtless
+applies now to all the four arms of the cross, lateral and
+vertical.
+
+	|35-36.  l@i far@a l'atto~... |veloce~: We are to conceive
+that each spirit (light), as it is named, darts through the cross
+like lightning in a cloud.  The ruddy background of the planet
+itself provides the element that corresponds, in the simile, to
+the cloud.  It should be remembered, throughout this review, that
+all those named were warriors for the faith.
+
+	|38.  dal nomar~: "By the mention of."  |Iosu@e~: Joshua,
+successor of Moses and conqueror of the promised land.  Cf.
+^Purg.~ XX, 111; ^Par.~ IX, 124-125.  |com' el si feo~: "When it
+[the mention] was made."  |feo~ = ^fece.~
+
+	|39.  n$e mi fu noto il dir prima che 'l fatto~: The
+response by the light named is instantaneous.
+
+	|40.  Macabeo~: Judas Maccabaeus, the great Jewish
+warrior.  First under the leadership of his father, Mattathias,
+and, after his death (ca. 166 B.C.), as leader himself, he
+carried on the war against Antiochus IV Epiphanes, king of Syria,
+and his successor Demetrius and successfully resisted their
+attempts to destroy the Jewish religion.  After having gained a
+series of victories over the generals of both kings, and having
+restored and purified the Temple at Jerusalem (165 or 164 B.C.),
+Judas was defeated and slain by the Syrians under Bacchides at
+Elasa (160 B.C.).  His valor is glorified in the book of
+Maccabees (I Mach. 3:3-4).
+
+	|42.  e letizia era ferza del paleo~: "`And joy was the
+whip of the top,' i.e., it was joy that made it (the light) spin. 
+Several times in the ^Paradiso~ Dante makes a swift rotary motion
+the symbol of keen delight" (Gr).
+
+	|43.  per~: "At the naming of."  |Carlo Magno~:
+Charlemagne (Charles the Great), restorer of the Empire of the
+West, was born at Salzburg in 742, the eldest son of P$epin le
+Bref, king of the Franks.  On his father's death (in 768)
+Charlemagne became joint king with his brother Carloman, and on
+the death of the latter (in 771) he became sole king of the
+Frankish empire.  After his defeat of Desiderius (773-774), he
+assumed the title of king of Lombardy, and on Christmas Day 800,
+he was crowned Emperor of the West at Rome by Pope Leo III.  He
+died on January 28, 814 and was buried at Aix-la-Chapelle.  He
+was canonized in 1165.  |Orlando~: Roland, the French epic hero
+who was represented as the nephew of Charlemagne and one of the
+twelve peers.  According to the poetical account, he was slain at
+Roncesvalles by the Saracens in league with the traitor Ganelon. 
+See n. to ^Inf.~ XXXI, 18.
+
+	|44.  due ne~: I.e., ^due lumi.~  |Due~ is the object of
+|segu@i.~
+
+	|46.  Guiglielmo e Rinoardo~: "William, count of Orange,
+is the hero of a group of Old French epics, of which the best
+known is the ^Aliscans.~  He combatted the Saracens in southern
+France, as Charlemagne and Roland fought against them in Spain. 
+Associated with him is the gigantic Renoart, of Saracen birth but
+baptized" (Gr).  |Guiglielmo~ and |Rinoardo~ are subjects of
+|trasse.~
+
+	|47.  'l duca Gottifredi~: Godfrey of Bouillon, leader of
+the first Crusade (1096), battled with the Saracens in the Holy
+Land and became first Christian king of Jerusalem.  |vista~: The
+object of ^trasse~ {v.46}.
+
+	|48.  Ruberto Guiscardo~: Robert Guiscard, a Norman
+conqueror of the second half of the eleventh century, took a
+large part of southern Italy and Sicily from the Saracens.  If
+the reader glances back over the list of the warriors thus named,
+he will note that a certain chronological order is observed and
+that some examples are from B.C. and some from A.D. times.
+
+	|49.  mota e mista~: "Going and mingling."  |mota~ =
+^mossa.~
+
+	|50-51.  mostrommi l'alma~... |artista~: Cacciaguida,
+having returned to his place in this great heavenly "choir",
+shows his great-great-grandson what an artist (singer) he is
+there.
+
+	|55.  luci~: "Eyes."  |mere~: "Pure."
+
+	|56-57.  la sua sembianza~... |solere~: Beatrice is now
+seen to be more beautiful than Dante has ever seen her before. 
+|li altri e l'ultimo solere~: The verb |solere~ is used as a
+noun, meaning her wonted appearance (|sembianza~).  ^Soleri~, in
+the plural, is understood ("li altri soleri e l'ultimo
+solere"), thus referring to the many times Dante has looked upon
+Beatrice, including the very last (vss. 8-18).
+
+	|58-60.  E come~... |avanza~: See Aristotle, ^Eth.
+Nicom.~ II, 3, 1104b.  |per sentir~: "Through feeling."  |bene
+operando~: "Through virtuous conduct."
+
+	|61-63.  s@i m'accors'io~... |addorno~: "Thus from an
+increase of Beatrice's loveliness I inferred that I had risen to
+a greater and swifter sphere.  Since all the heavens revolve
+together from east to west, the outer must move faster than the
+inner, just as the tire of a wheel moves quicker than the hub;
+and as Dante proceeds from the center to one heaven after
+another, each successive sphere he reaches must, in a given time,
+cover a greater arc than its predecessor.  As long as Dante
+remains in a sphere, he of course revolves with it" (Gr). 
+|miracol~: Beatrice.  See Dante, ^Vita nuova~, XXI, 4; XXIX, 3.
+
+	|64-66.  E qual @e~... |carco~: The change from the red
+light of Mars to the whiteness of Jupiter is compared to the
+change in a pale lady's face when a blush suddenly passes from
+it.  For the simile, cf. Ovid, ^Metam.~ VI, 46-49.  |vergogna~:
+The meaning should be understood as "modest shame."
+
+	|68-69.  temprata stella sesta~: The "temperate sixth
+star", Jupiter, is between hot Mars and cold Saturn.  See
+^Conv.~ II, xiii, 25, where Dante writes: "Onde Tolomeo dice...
+che Giove @e stella di temperata complessione, in mezzo de la
+freddura di Saturno e de lo calore di Marte.  L'altra si @e che
+intra tutte le stelle bianca si mostra, quasi argentata." 
+("Wherefore Ptolemy saith... that Jove is a star of temperate
+composition betwixt the cold of Saturn and the heat of Mars.  The
+other is that he shows white among the stars, as though of
+silver.")  Cf. ^Par.~ XXII, 145.  |ricolto~ = ^raccolto~,
+"received."
+
+	|70.  giovial facella~: "Torch of Jove," the planet
+Jupiter, but in |giovial~ there is doubtless a play on the
+adjective in its more common sense of "jovial," since the planet
+Jove (Jupiter) was thought to make those born under it to be of
+joyful and merry disposition.
+
+	|72.  nostra favella~: "Our human language," here
+actually letters of the alphabet.
+
+
+	|73.  surti~: Past participle of ^surgere.~  |surti di
+rivera~: "Which have flown up from a riverbank."
+
+	|74.  congratulando~: "Rejoicing together."  |pasture~:
+"Food."
+
+	|76-77.  s@i dentro~... |cantavano~: Each soul within its
+own light sings as it flies about.  |faciensi~ = ^si facevano.~ 
+The word is pronounced ^fac@iensi.~
+
+	|79.  a sua nota~: "To their own tune."  |sua~ = ^loro.~ 
+|moviensi~ = ^si movevano.~  The pronunciation is ^mov@iensi.~
+
+	|81.  taciensi~ = ^si tacevano.~  |Taciensi~ is pronounced
+^tac@iensi.~
+
+	|82.  Pegasea~: I.e., Muse.  The Muses are associated
+with the winged horse, Pegasus.  It is not clear whether Dante
+had in mind any special Muse; nor is it clear, if he was thinking
+of a particular Muse, whether the one invoked is Calliope
+(^Purg.~ I, 9), Urania (^Purg.~ XXIX, 41), or Euterpe (who
+presided over the sphere of Jupiter).  This brief invocation here
+serves to indicate that some most remarkable thing is about to be
+recounted.  Cf. ^Purg.~ XXIX, 37-39.
+
+	|83.  rendili~ = ^li rendi.~  |longevi~: "Long-lived"
+(through fame).
+
+	|84.  ed essi teco~: ^Rendono longevi~ is understood:
+"renders them long-lived."  |Essi~ stands for ^li 'ngegni~
+{v.82}.  |teco~ = ^con te~, "with your aid."
+
+	|85.  illustrami~ = ^illuminami~, "shed your light [of
+inspiration] upon me."  |Illustrami~ is an imperative.  |rilevi~:
+"Set forth."
+
+	|86.  concette~ = ^concepite~ (from the Latin
+^conceptae~), "beheld."
+
+	|87.  paia~ = ^apparisca.~  |possa~ = ^possanza.~
+
+	|88.  Mostrarsi~ = ^si mostrarono.~  |in cinque volte
+sette~: Thirty-five.
+
+	|90.  le parti~: The single letters.  |come mi parver
+dette~: In the order in which they were traced out to me, as if
+spoken.
+
+	|91-93.  ^Diligite Iustitiam~... |sezzai~: "Diligite
+iustitiam qui iudicatis terram" ("Love justice, you who judge the
+earth") is from the first verse of the book of Wisdom.  Justice
+is a product of the heaven of Jupiter, and the soul of the just
+appear in this planet.  |primai~: "First."  Cf. ^Inf.~ V, 1. 
+|fur~ = ^furono.~  |sezzai~: An archaic form meaning "last."  Cf.
+^da sezzo~ in ^Inf.~ VII, 130.
+
+	|94.  emme~: The Italian name of the letter is |emme~,
+and the reader is to conceive the "sky-written" letter here to be
+the type illustrated in Fig. 2a {p. 310}.
+
+	|96.  d'oro distinto~: "Patterned with gold."  The planet
+looked like a silver background with a golden ^M~ embroidered on
+it.  For the silvery hue of Jupiter, see n. to vss. 68-69.
+
+	|97-98.  E vidi scendere~... |quetarsi~: For this second
+formation, see Fig. 2b {p. 310}.  The shape is now not unlike
+that of a lily.  This second moment in the transformation will be
+referred to later (vss. 112-113).
+
+	|99.  cantando, credo, il ben ch'a s$e le move~: Dante
+cannot hear clearly the words of their song, hence |credo.~  |il
+ben~: God, who moves them "to Himself" in love of Him.
+
+	|100.  percuoter~: "Stirring."  |ciocchi~: "Logs."
+
+	|102.  onde li stolti sogliono augurarsi~: The reference
+is to the superstitious practice of drawing omens from the many
+sparks that would rise from the log thus struck.  Benvenuto
+observes: "Est enim de more in partibus Italiae, quod pueri
+stantes in hyeme de sero iuxta ignem percutientes stipitem
+augurantur sibi, dicentes: tot civitates, tot castella, tot
+agnelli, tot porcelli; et ita transeunt tempus."  ("For it is the
+custom in some parts of Italy, that on a winter's evening when
+they are sitting by the fire, children will strike the burning
+log and draw omens therefrom, saying [according to the quantity
+of the sparks]: `So many cities, so many towns, so many lambs, so
+many little pigs.'  And thus they pass the time.")  |agurarsi~ =
+^augurarsi.~
+
+	|103.  quindi~: From the body or lower parts of the
+letter ^M.~
+
+	|105.  'l sol~: God.  |sortille~ = ^le sort@i~,
+"distributed them," allotting to each its place.  Cf. ^Par.~ IV,
+37, and ^passim.~
+
+	|107.  la testa e 'l collo d'un'aguglia~: See Fig. 2c {p.
+310} for the third and last stage in the changes of shape assumed
+by the spirits.  The reader must bear in mind that it is an
+heraldic eagle that is "figured" here by the many lights, and
+accordingly it is seen only in profile.  Thus later only one eye
+of the bird will be noted, for in profile only one is seen.  By
+this remarkable transformation, the capital ^M~, already standing
+for monarchy, has become the symbol of the Roman Empire, the
+eagle which every reader of ^Par.~ VI recalls.
+
+	|108.  a~: "By."  |distinto~: "Patterned."  Cf. vs. 96.
+
+
+	|109-111.  Quei che dipinge l@i~: God.  |non ha chi~...
+|nidi~: "`He (God) who paints there has no one to direct him, but
+he himself directs; and from him we recognize that power which is
+the essence of nestbuilding.'  The instinct of the little bird,
+which is able to build its nest without having any need of a
+pattern, comes from God, and, in its own small way, serves as an
+image of the creative activity of God, who constructs solely from
+his inner conception" (Gr).  Cf. Thomas Aquinas, ^Summa theol.~
+I, q. 19, a. 4, resp.
+
+	|112-113.  L'altra beatitudo~... |emme~: The rest of the
+blessed souls that had seemed content to form a lily in the ^M~
+(see Fig. 2b {p. 310}).  Some commentators have thought that
+these souls might symbolize Guelphs, who, as Grandgent observes,
+"though seemingly reluctant at first to give up their own
+standard [the lily], readily conform to the Imperial design [the
+^imprenta~ {v.114} of the eagle]."  Yet others would hold to
+quite another view, that the group which temporarily, in the
+second shape, makes the heraldic ^M~ into a lily thus alludes to
+the French monarchy, whose heraldic device is the lily.  Though
+momentarily attempting to stand alone, as seemed to happen in
+1300, the French monarchy was to yield and merge with the Empire,
+or in all justice ^should~ have done so, for the ^M~ and the
+eagle are one, and, in Dante's well-known view, as expressed in
+the ^De monarchia~, there is no place for another shape or sign,
+such as a lily, another separate power.  |beatitudo~ =
+^beatitudine.~
+
+	|114.  seguit@o la 'mprenta~: The group fits itself
+perfectly into the figure of the eagle which began as an ^M~,
+this ^M~ being the last letter of the scriptural exhortation to
+love justice.  Thus the symbolic configuration is complete in all
+its details and transformations, and the poet can end his canto
+with a prayer for order and justice and with a bitter
+denunciation of the corrupt papacy.
+
+	|115.  O dolce stella~: The planet Jupiter.
+
+	|116.  nostra giustizia~: Human justice on earth.
+
+	|117.  effetto sia del ciel che tu ingemme~: See n. to
+vss. 91-93.
+
+	|118.  la mente~: God.
+
+	|120.  ond' esce il fummo che 'l tuo raggio vizia~: The
+smoke that obstructs the downpouring influence of Jupiter for
+justice is chiefly avarice, as the following verses make clear.
+
+	|121-123.  s@i ch'un'altra fiata~... |mart@iri~: Cf.
+Matt. 21:12: "Et intravit Iesus in templum Dei; et eiiciebat
+omnes vendentes et ementes in templo, et mensas numulariorum et
+cathedras vendentium columbas evertit."  ("And Jesus entered the
+temple of God, and cast out all those who were selling and buying
+in the temple, and he overturned the tables of the moneychangers
+and the seats of those who sold the doves.")  |che si mur@o di
+segni e di mart@iri~: Cf. Actus, 20:28: "ecclesiam Dei, quam
+acquisivit sanguine suo" ("the Church of God, which he has
+purchased with his own blood").
+
+	|124.  milizia del ciel~: See Luc. 2:13: "multitudo
+militiae caelestis" ("a multitude of the heavenly host").  |cu'~
+= ^cui~, accusative.
+
+	|125.  adora~: "Pray."
+
+	|126.  tutti sviati dietro al malo essemplo~: See Rom.
+3:12: "Omnes declinaverunt."  ("All have gone astray together.") 
+For the notion of misguidance by a corrupt papacy and the "bad
+example" set by it, cf. ^Purg.~ XVI, 100-111; ^Par.~ IX,
+127-132.
+
+	|129.  lo pan~: The sacraments.  |che 'l pio Padre a
+nessun serra~: Cf. Thomas Aquinas, ^Summa theol.~ III, q. 80,
+aa. 3-6.  "Nowadays wars are waged by means of excommunications
+and interdicts" (Gr).  |serra~: "Locks up," "withholds."
+
+	|130.  Ma tu che sol per cancellare scrivi~: "John,
+XXII, who was Pope when Dante was writing, issued and revoked
+many excommunications.  He amassed a large fortune.  In 1317 he
+excommunicated Can Grande della Scala, who remained under the ban
+until his death" (Gr).
+
+	|131.  moriro~ = ^morirono.~
+
+	|132.  per la vigna che guasti~: See Isa. 3:14: "Vos
+enim depasti estis vineam."  ("For you have devoured the
+vineyard.")  The "vineyard" is, traditionally, the Church.  Cf.
+^Par.~ XII, 86-87.
+
+	|133-136.  Ben puoi~... |Polo~: "My heart is so set on
+John the Baptist (i.e., on the gold florin bearing his image)
+that I have forgotten Peter and Paul" (Gr).  Villani (IX, 171)
+relates how John XXII had a gold coin minted in Avignon that was
+very similar to the florin of Florence.  |volle viver solo~: See
+Luc. 1:80.  |salti~: The dance of Herodias' daughter.  See
+Matt. 14:1-12.  |il pescator~: Peter.  |Polo~: Paul.  |Polo~
+is another form of ^Paolo.~

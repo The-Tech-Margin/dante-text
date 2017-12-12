@@ -1,0 +1,434 @@
+	|4-6.~  <Vedi che a sinistra di colui che @e di sotto>
+(salgono, e poich@e Virgilio precede, Dante @e pi@u basso), <non si
+vede rilucere il raggio del Sole>; Dante gitta ombra verso la
+sinistra, e ci@o perch@e essi salgono voltando le spalle al
+levante, e quindi hanno il Sole di mezzogiorno a destra, come
+prima, guardando il levante, lo avevano a sinistra.  |Si
+conduca~: <si comporti, abbia il contegno>.  Quali siano gli
+altri caratteri che qui annunziano un vivo, non @e detto, ma sar@a,
+come altrove, il respirare o lo smuovere il terreno coi piedi.
+
+	|7-9.  motto~: come prima ^parola~ (IV, 97), significa
+frase, discorso.  |Pur~: indica continuit@a e ripetizione.
+
+	|12.~  Quanto disprezzo in quel non menzionare neppure
+quegli spiriti, e accennare ad essi con un |quivi!~  E poco dopo
+{v. 13} li chiamer@a indeterminatamente |le genti.~
+
+	|16-18.~  <Ch@e l'uomo in cui da pensiero nasce pensiero
+(che non perdura costante in un solo pensiero) allontana da s@e la
+meta cui deve tendere, perch@e il vigore (|la foga~) dell'un
+pensiero ammollisce (|insolla~: cfr. ^Inf.~ XVI, 28) quella
+dell'altro>.  Che cosa c'entri qui il pensiero non si vede
+troppo, e tutta la ramanzina di Virgilio ha un che di strano e
+sproporzionato alla causa.  Vedi di ci@o la nota finale {qui di
+seguito}.
+
+	NOTA FINALE: VIRGILIO E DANTE DI FRONTE A BELACQUA E
+COMPAGNI.  La riprensione di Virgilio a Dante, con cui questo
+canto s'inizia, ha, lo ho gi@a notato, un che di eccessivo.  Che
+cosa ha fatto Dante?  Si @e voltato a guardare quel gruppo di
+anime che se lo additavano, meravigliandosi dell'ombra da lui
+proiettata e dell'aspetto di vivente ch'egli ha.  Ebbene, una
+consimile meraviglia dinanzi a qualche segno che palesasse Dante
+esser vivo, hanno mostrato tante anime dell'Inferno, e
+recentemente, allo stesso indizio dell'ombra da lui proiettata,
+gli scomunicati.  E Virgilio non se n'@e punto stizzito, ha
+permesso a Dante di dare spiegazioni, qualche volta le ha date
+egli stesso.  E in questo medesimo canto abbiam visto, poco dopo,
+darle lui proprio alla turba che si aggira per quella medesima
+costa ove sono i pigri.  Perch@e dunque in quel punto solo egli
+s'inalbera, se la prende con Dante, e parla di quelle anime,
+giustamente meravigliate, con un senso di fastidio e quasi di
+disprezzo, come di pettegole a cui non si deve dare ascolto,
+traendone argomento per una lezione di alta morale?  E, a ben
+guardare, il malumore di Virgilio era gi@a cominciato per
+l'indugio di Dante con Belacqua e aveva dato segno di s@e con quel
+^vienne omai!~ e con quell'avviarsi a salire mentre Dante ancora
+conversava, senza chiamarlo prima: proprio come aveva fatto nella
+nona bolgia, quando aveva capito l'interessamento di Dante per
+Geri del Bello, da lui riprovato.  Insomma, Virgilio vorrebbe che
+con quella famiglia di pigri Dante fosse spiccio e brusco, mentre
+Dante @e messo da Belacqua in una disposizione benevola ed ilare. 
+Anche qui credo che questo lieve dissidio simboleggi un doppio
+punto di vista di Dante stesso, e propriamente di Dante in quanto
+scrittore.  Col raffigurare la schiera dei pigri quali essi sono,
+persistenti in quel difetto di cui si erano pur pentiti, Dante
+pone un contrasto stridentissimo fra essi e tutte le altre anime
+che popolano la montagna: le quali dall'antica loro colpa, una
+volta pentite, sono corse con zelo alla virt@u opposta, e cercano
+esercitarla in tutti i modi.  Il che non solo @e fonte di begli
+effetti poetici, ma @e perfettamente naturale, @e quasi direi
+necessario e doveroso, dato che il perdono @e stato da Dio
+accordato a un pentimento sincero, che deve permanere eterno se
+eterna @e quella salvazione che per esso le anime hanno ottenuto. 
+Le anime dei pigri dovrebbero dunque, non solo per coerenza con
+le altre schiere, ma per intima ragionevolezza, esser divenute
+zelantissime, impazienti di essere ammesse alla purificazione,
+spiritualmente e corporalmente irrequiete.  E invece Dante non ha
+saputo resistere alla tentazione di presentarci quella macchietta
+comicissima di Belacqua cos@i com'era in vita.  Poco dopo
+l'incontro con l'amico che lo aveva in vita consolato col canto e
+che serba intatta quella stupenda virt@u, vuole l'incontro con
+l'altro amico che avr@a regalato alla sua vita profonda e inquieta
+qualche momento d'ilarit@a, serbandogli intatta la sua comicit@a. 
+Ma tutto ci@o dal punto di vista della ragione @e strano, e Dante
+non pu@o non comprenderlo, ch@e l'artista non uccide in lui il
+ragionatore.  Orbene, il dissidio @e simboleggiato, credo, nel
+diverso atteggiamento di lui e di Virgilio verso Belacqua e i
+suoi compagni: Dante indulge, Virgilio riprova.
+
+	|20-21.  del color~ ecc.: del rossore della vergogna. 
+|Tal volta~: ch@e non sempre basta arrossire e vergognarsi per
+esser perdonati.
+
+	|22-24.  di traverso~: in direzione trasversale a quella
+dei poeti, cio@e girando attorno al monte.  |Miserere~: il famoso
+Salmo 50+o~.  |Verso a verso~: per non essere indicazione
+superflua deve significare che cantavano in due gruppi
+alternatamente, un verso ciascuno, come cantano i religiosi in
+coro.  Ecco un'altra schiera d'anime che, dopo quelle della
+barca, recita preghiere.  Gli scomunicati non ne recitano, forse
+perch@e @e negata loro tale consolazione, in ricordo della loro
+scomunica.  I pigri non ne recitano, verosimilmente per pigrizia. 
+Tutte le altre schiere che incontreremo, meno gli accidiosi, ne
+reciteranno.  E Dante suole mettere un rapporto fra la qualit@a
+delle anime e la preghiera che esse cantano, come abbiam gi@a
+visto per quelle che arrivano nella barca angelica (v. nota a II,
+46).  La presente schiera vedremo che @e composta di morti di
+morte violenta, pentitisi anch'essi in punto di morte.  Morire di
+morte violenta @e una circostanza esteriore, non un carattere
+della persona, onde non era possibile che il poeta trovasse una
+preghiera che avesse un rapporto intimo col carattere di questi
+spiriti.  Sceglie il |Miserere~ forse perch@e esso non fu cantato,
+come suole, al loro letto di morte.
+
+	|27.~  Espressione della solita meraviglia sgomenta nei
+morti che vedono un vivo.
+
+	|28-30.  in forma~: in qualit@a.  |Messaggi~: messaggeri. 
+|Fatene saggi~: istruiteci.
+
+	|34-36.  per veder~: @e causale: <perch@e hanno visto>. 
+|Esser pu@o lor caro~: perch@e Dante potr@a procurare a loro
+suffragi.
+
+	|37-40.~  <Non vidi mai vapori accesi... tanto rapidi,
+che questi spiriti non fossero ancor pi@u rapidi nel tornare in
+s@u>; in s@u, perch@e essendo avanti ai due poeti, che salgono un
+erto pend@io, sono pi@u in alto.  |Vapori accesi~: era
+denominazione che nella fisica del tempo si dava cos@i ai fulmini
+come alle stelle cadenti.  Qui Dante ricorda gli uni e le altre. 
+Le stelle cadenti si vedono fendere il sereno del cielo: |di
+prima notte~ non perch@e non si vedano anche a notte fonda, ma
+perch@e quella @e l'ora in cui solitamente si guarda il cielo.  I
+fulmini si vedono solcare con le loro saette rapidissime le
+nuvole caratteristiche dei violenti temporali estivi, pi@u
+frequenti in agosto.  |Solcando~ @e gerundio accordato con
+l'oggetto: uso frequente in Dante.  Avverto che la lezione
+|solcando le nuvole~ @e mia.  La comune @e |Sol calando, nuvole.~ 
+Ma non pu@o assolutamente accettarsi pel senso, ch@e i temporali
+con fulmini, caratteristici dell'agosto, sono fenomeno
+esclusivamente diurno, connesso col forte riscaldamento delle
+prime ore pomeridiane, e non avvengono mai al tramonto.  N@e pu@o
+trattarsi dei remoti lampeggiamenti che talora si vedono di sera
+(temporali lontanissimi di altre regioni climatiche), perch@e
+allora son lampi diffusi, senza saetta visibile, e vi manca
+affatto l'immagine del |fendere~ e quella della velocit@a.  Altri
+intende <n@e vidi mai il Sole calante d'agosto fender s@i tosto le
+nuvole (coi suoi raggi)>.  Ma i raggi solari che filtrano
+attraverso le nuvole non d@anno punto l'impressione del moto e
+della velocit@a.  N@e si capirebbe perch@e il fenomeno fosse
+limitato all'ora del tramonto e al mese d'agosto!
+
+	|46-48. per esser lieta~: per acquistare con la
+purificazione la letizia del Paradiso.  |Queta~: ferma.  Il
+contegno di queste anime @e strano.  Il loro itinerario @e tale da
+attraversare quello dei due poeti, i quali salgono lentamente
+data l'ertezza del pend@io; onde non c'era nessun bisogno di
+quella furia dei messaggi nel correre loro incontro e nel tornar
+s@u, n@e di questo correre sfrenatamente verso di loro di tutta la
+schiera: bastava si fermassero ad attender Dante al varco.  E
+cos@i non si spiega la supplica ansiosa a Dante di fermarsi.  Chi
+impediva loro di accompagnarsi con lui?  Hanno insomma questi
+spiriti un che d'impetuoso e quasi di violento, che vedremo
+riaffacciarsi di nuovo, e pi@u spiccatamente ancora, dopo i loro
+colloqui con Dante.  Che in ci@o possa esservi una ragione intima,
+inerente alla loro condizione di esser morti uccisi, non pare
+ragionevole pensarlo.  Certo @e che essi formano un contrasto
+spiccatissimo col gruppo apatico e immobile dei pigri, e forse
+Dante si compiacque artisticamente di tale contrasto.  Di che,
+vedi anche il {secondo paragrafo della nota ai vv. 135-136}.
+
+	|52.  per forza morti~: uccisi violentemente.
+
+	|54.~  <Quivi (all'ultima ora) la luce della grazia
+divina ci rese consapevoli delle nostre colpe>.
+
+	|55-57.  perdonando~: agli uccisori.  |N'accora~: <ci
+addolora>: il desiderio @e tale da esser doloroso.  Anche qui,
+quale differenza dalla supina rassegnazione con cui aspetta
+Belacqua!
+
+	|58-60.  Perch@e~: per quanto.  |Guati~: guardi
+fissamente, con attenzione.  |Ben nati~: nati per loro bene
+perch@e destinati alla salvazione; come <malnati> sono chiamati
+pi@u volte gli spiriti infernali, nati per loro male.
+
+	|61-63.  per quella pace~: @e formula di giuramento (cfr.
+il v. 65).  |Di mondo in mondo~: dal mondo della dannazione a
+quello dell'espiazione, e da questo al Paradiso.
+
+	|64.  uno~: Dante non dir@a nominatamente chi sia; ma il
+fatto cui quello spirito accenner@a fu ai suoi tempi cos@i
+clamoroso, che ogni lettore lo riconosceva.  Per indicazione
+concorde di commentatori e d'altre fonti del tempo, egli @e Jacopo
+del Cassero, di antica e illustre famiglia di Fano, nipote del
+famoso giureconsulto Martino del Cassero.  Podest@a a Bologna nel
+1296-97, venne in urto con Azzo VIII d'Este, marchese di Ferrara
+(cfr. ^Inf.~ XII, 112), e si comport@o un po' imprudentemente
+sparlando di lui.  Eletto podest@a a Milano per l'anno seguente,
+ad evitare il territorio ferrarese and@o per mare a Venezia, e di
+l@i s'avvi@o a Milano.  Ma colto da sicari di Azzo ad Oriago, in
+territorio padovano, fra Venezia e Padova, fu ucciso.
+
+	|65.  senza giurarlo~: <senza che tu lo giuri>. 
+L'infinito non riferito secondo la norma al soggetto del verbo
+reggente, @e per@o ancor vivo in locuzioni familiari toscane.
+
+	|66.~  <solo che la tua volont@a non sia recisa, (cio@e
+tronca, impedita) dal tuo non potere>.
+
+	|67-69.  che solo innanzi a gli altri parlo~: sono parole
+inutilissime.  Non lo vede Dante che egli parla solo, innanzi
+agli altri?  N@e @e notizia destinata dal poeta al lettore, ch@e
+anche questo lo vede ugualmente.  Dobbiam credere che quelle
+parole ci siano solo per la rima?  |Quel paese~ ecc.: le Marche,
+poste fra la Romagna e il regno di Puglia, che nel 1300 era retto
+da Carlo II d'Angi@o.
+
+	|70-72.~  <che tu mi sii largo nel pregare che si preghi
+bene (con preghiere efficaci: cf. IV, 133-134) per me, affinch@e
+io sia ammesso a espiare le gravi offese fatte a Dio>.
+
+	|73-75.  Quindi~: da Fano.  |Il sangue~ ecc.: <il sangue
+in cui io anima avevo sede>.  Cos@i si credeva ai tempi di Dante. 
+|Gli Anten@ori~: (@e come dire ^Antenorii~), sono i Padovani, ch@e
+secondo un'antica leggenda Padova si diceva fondata dal troiano
+Ant@enore.  Che @e il traditore da cui prende nome la ^Anten@ora~
+(cfr. ^Inf.~ XXXII, 88); onde il chiamar cos@i i Padovani @e forse
+allusivo a complicit@a loro con Azzo d'Este, mentre Jacopo si
+fidava interamente di loro (cfr. il v. 76).
+
+	|77-78.~  Jacopo ammette che Azzo potesse avere ragioni
+di rancore con lui, per quel ch'egli aveva detto e fatto contro
+Azzo durante la podesteria di Bologna; ma non era giusto che per
+ci@o lo facesse uccidere.  S'@e voluto trarre questo verso ad altre
+interpretazioni: che l'uccisione avvenne dove Azzo non aveva
+diritto di farlo uccidere, cio@e fuori de' suoi dominii; o che
+(facendo soggetto di |non volea~ le parole |quel da Esti~, e
+intendendo |dritto~ come avverbio) i sicari non lo uccisero dove
+propriamente Azzo aveva voluto.  Ma non @e quasi ridicolo ridurre
+il delitto a una questione di luogo, e abbandonare una
+interpretazione tanto naturale?
+
+	|79.  la Mira~: localit@a prossima a Oriago, verso Padova. 
+Perch@e Jacopo pensi che fuggendo alla Mira si sarebbe salvato,
+non sappiamo.
+
+	|82.  cannucce~: piante palustri.  |Il braco~: il
+pantano.  La strada da Fusina (sulla laguna di Venezia) a Padova
+corre in un terreno bassissimo, su fondo rialzato, e di qua e di
+l@a dalla strada vi sono, e pi@u v'erano, frequenti impaludamenti.
+
+	|84.  de le mie vene~: cio@e <del mio sangue>.  Dal
+traslato ne risulta un'espressione efficacissima pel doloroso
+contrasto tra il sangue vitale raccolto normalmente nelle vene, e
+il suo spandersi a terra e formare una pozza.
+
+	|85-87.  se quel disio~ ecc.: @E il solito |se~ di
+augurio, che prepara una domanda: l'augurio @e che Dante veda
+compiuto il desiderio da lui stesso espresso nei vv. 61-63.  |Con
+buona pietate~: con preghiere efficaci (cfr. IV, 133-134).  |Il
+mio~: di essere ammesso alla purificazione.
+
+	|88.  Buonconte~: figlio di Guido (cfr. ^Inf.~ XXVII),
+ghibellino come il padre, era a capo degli Aretini nella famosa
+battaglia di Campaldino (11 giugno 1289) in cui le milizie di
+Firenze guelfa (nelle quali quasi certamente combatteva Dante) si
+scontrarono coi ghibellini d'Arezzo uniti ai fuorusciti
+ghibellini di Firenze, e riportarono una grande vittoria. 
+Buonconte rest@o ucciso e non fu ritrovato il suo cadavere.  Oggi,
+con le dimensioni delle battaglie e la qualit@a dei mezzi di
+distruzione, una simile scomparsa non farebbe troppa meraviglia. 
+A quei tempi, la cosa dov@e avere del sorprendente.  Campaldino @e
+un tratto di pianura nel Casentino (alta valle dell'Arno), fra
+Poppi e Porrena, presso la badia di Certomondo.
+
+	|89-90.~  N@e Giovanna (la sua vedova) n@e altra persona
+cura di pregare per lui, onde egli si sente mortificato in mezzo
+ad altri suoi compagni, pei quali invece c'@e chi prega.
+
+	|91.  ventura~: @e il caso; |forza~: per contrapporsi a
+ventura deve significare forza non cieca, forza cosciente; ch@e
+anche il caso @e una forza.
+
+	|94-95.  Oh~: @E difficile stabilire che cosa propriamente
+voglia esprimere questa interiezione, tanti sono i sentimenti che
+pu@o suscitare in Buonconte la storia che ora si accinge a
+narrare.  |L'Archiano~: principale affluente dell'Arno nel
+Casentino, nasce sopra l'Eremo dei Camaldoli, e con un corso
+convergente, che nell'ultimo tratto diviene trasversale, si gitta
+nell'Arno sotto Bibbiena, dove il suo nome si perde, perch@e esso
+diviene Arno.  Oggi la denominazione di Casentino si estende fino
+ad Arezzo; allora giungeva solo fino a Bibbiena, onde Buonconte
+pu@o dire |a pi@e del Casentino.~
+
+	|100-102.~  <Quivi mi s'annebbi@o la vista (per lo
+sfinimento prodotto dalla perdita del sangue), e come mia ultima
+parola invocai il nome di Maria>.  Altri intende <perdei la
+parola> e mette di conseguenza una virgola alla fine del v. 100. 
+Ma Buonconte era solo, e certo non andava parlando: come avrebbe
+potuto accorgersi di perdere la parola?  |La mia carne sola~: il
+mio corpo esanime.
+
+	|104-108.~  Si ripete per l'anima di Buonconte la lotta
+fra un essere celeste e un demonio che era avvenuta per l'anima
+del padre (cfr. ^Inf.~ XXVII, 112-120); ma questa volta con la
+vittoria del Paradiso.  Vittoria che ribadisce quanto Dante ha
+gi@a voluto fermare con l'episodio di Manfredi: bastare un
+pentimento sincero in fin di vita per salvare l'anima.  Ci@o
+riesce tanto pi@u significativo pel confronto del caso di
+Buonconte con quello di suo padre, cui un lungo periodo di
+espiazione e di santa vita era stato reso vano da un solo peccato
+non pentito.  Osserver@o come nel caso di Buonconte, morto lontano
+da ogni uomo, non possa assolutamente dubitarsi che la
+conversione all'ultimo momento sia un'invenzione del poeta: il
+che pu@o illuminare di riflesso la questione della conversione di
+Manfredi.
+
+	|104-105.  quel d'Inferno~: l'angelo infernale: il
+demonio.  |Mi privi~: Il diavolo si sente defraudato d'un suo
+diritto!
+
+	|106-108.~  Notare il contrasto fra l'immensit@a
+dell'eterno e la piccolezza di quel |lagrimetta~: contrasto da
+cui al diavolo sembra risultare un assurdo, perch@e non comprende
+la grandezza spirituale che pu@o avere una lagrimetta!  |De
+l'altro~: del corpo.  |Altro governo~: altro trattamento.
+
+	|109-111.  si raccoglie~ ecc.: <@e contenuto il vapor
+d'acqua, che ritorna in acqua (sotto forma di pioggia) quando
+sale in alto, dove @e colto dal freddo>.  In ci@o @e additata una
+delle cause che producono la pioggia; ma questo preambolo resta
+come staccato dal resto del racconto, che correrebbe benissimo
+anche senza di esso.
+
+	|112-114.~  <(Il demonio) congiunse il suo malvolere, che
+desidera soltanto il male, con la sua intelligenza (mise
+l'intelligenza a servizio del suo malvolere), e in forza di quel
+potere (|virt@u~) che gli proveniva dalla sua natura diabolica,
+provoc@o nebbia e vento>.  Fra i poteri che la teologia
+attribuisce al diavolo c'@e appunto anche quello di provocare
+fenomeni meteorologici.
+
+	|115-117.  la valle~: il Casentino.  |Pratomagno~: @e la
+diramazione dell'Appennino che chiude il Casentino a ponente, il
+|gran giogo~ @e quel tratto della catena principale che lo chiude
+a levante (v. fig. 23).  |Intento~: addensato (di vapor d'acqua).
+
+	|118-120.  pregno~: saturo.  |Non sofferse~: <quel che la
+terra non sopport@o (non fu capace di assorbire), venne ai
+fossati>, cio@e form@o i primi rigagnoli.
+
+	|121-122.  rivi grandi~: le correnti in cui si raccolgono
+quei fossati.  |Si convenne~: conflu@i.  |Fiume real~: l'Arno, non
+tributario di alcun altro fiume perch@e sbocca nel mare.
+
+	|125.  rubesto~: gonfio e impetuoso.
+
+	|126-127.  la croce~ ecc.: Quando Buonconte fu vinto dal
+dolore dei suoi peccati, in segno di contrizione aveva incrociato
+le mani sul petto.
+
+	|129.  di sua preda~: di tutto ci@o che l'Archiano
+trascina con s@e quando @e gonfio: sassi, sabbia, legni e cespugli
+strappati nel suo corso.  Quando l'Archiano @e basso (e cos@i @e il
+pi@u del tempo) esso corre fra due alte sponde formate da detta
+|preda~, in cui, sepolti fra i sassi e la terra, si vedono
+materiali eterogenei d'ogni specie.  Vedendo ci@o, si capisce che
+a Dante possa esser venuto in mente che un corpo umano potrebbe
+subire la stessa sorte ed esser nascosto per sempre: onde la sua
+invenzione; in cui non c'@e di storico se non la scomparsa di
+Buonconte e il fatto del gran temporale che segu@i la battaglia. 
+Per raccontare la fine del suo corpo Buonconte fa un lungo
+discorso pieno di particolari scientifici del tutto superflui. 
+Che con esso Dante si sia compiaciuto di mostrare la sua dottrina
+meteorologica si comprende; ma nella finzione obiettiva, tanto un
+discorso di quel genere sarebbe naturale e caratteristico in uno
+scienziato, quanto esso sembra singolare in un uomo d'arme. 
+Quale la ragione artistica, obiettiva, di tale singolarit@a?  Io
+non so vederla, se non fosse anche qui (cfr. la nota ai vv.
+46-48) una ragione di contrasto: e precisamente con la sobriet@a
+di parola dello spirito che parler@a poi: di che vedi la nota ai
+vv. 135-136.
+
+	|133.  la Pia~: Per antica tradizione, non sicuramente
+contraddetta da documenti storici ma non accettata da tutti gli
+studiosi di Dante (e del resto la precisa identificazione storica
+non ha qui importanza per la poesia), fu dei Tolomei di Siena. 
+And@o sposa a Nello dei Pannocchieschi vivo ancora nel 1322, che
+la rinchiuse nel suo castello della Pietra, presso Massa
+Marittima, e quivi la fece uccidere: dicono alcuni per infedelt@a
+da lei commessa, altri perch@e Nello desiderava riammogliarsi
+(come effettivamente fece) a Margherita degli Aldobrandeschi,
+vedova di Guido di Monforte (cfr. ^Inf.~ XII, 119); e i due
+motivi poterono anche andare insieme.  Il modo dell'uccisione @e
+incerto.
+
+	|134.  disfecemi Maremma~: pu@o essere semplicemente, con
+espressione antitetica a |Siena mi fe'~, un <morii in Maremma>; e
+non @e necessario vedere nel |disfecemi~ un accenno a lenta morte
+di consunzione per malaria o altro (^disfare~ in Dante pu@o
+indicare la morte pura e semplice: cfr. ^Inf.~ VI, 42);
+quantunque ci@o non sia addirittura escluso dall'esser la Pia tra
+i morti ^per forza~; ch@e questa formula generica potrebbe ben
+comprendere qualsiasi morte provocata da altri, se pure
+lentamente.
+
+	|135-136.~  <Lo sa, nella sua coscienza, colui che prima,
+sposandosi a me, mi aveva inanellata con la sua gemma>.  Quel
+|pria~, che pone semplicemente il contrasto fra il tempo
+dell'amore e quello dell'odio che port@o all'uccisione, ha dato
+luogo alle pi@u bizzarre escogitazioni biografiche circa la Pia e
+suo marito, che mi risparmio di riferire.  La Pia @e una delle
+figure pi@u femminilmente soavi della nostra poesia: tutta
+discrezione, delicatezza, gentilezza.  Prega Dante di pregar per
+lei, ma nel modo pi@u discreto, dicendo solo di ricordarsi di lei,
+usando anzi non l'imperativo ^ricordati~, ma il semplice timido
+esortativo |ricorditi~ (ti sovvenga): e come se ci@o le paresse
+ancor molto, fa precedere la preghiera dal pensiero delicato che
+Dante lo faccia solo dopo essersi riposato del lungo viaggio. 
+Vela la sua uccisione in quel |disfecemi Maremma~ e accenna
+all'uccisore non apertamente, come a colui che la fece morire, ma
+come a colui che @e consapevole della sua morte.  Ed ha anche la
+discrezione di parlare pochissimo, di richieder per s@e un
+brevissimo tempo e una brevissima attenzione.  Questi suoi
+caratteri spiccano tanto di pi@u nel contrasto coi compagni della
+sua schiera: invadenti, insistenti, richiedenti apertamente
+preghiere e di quelle buone, descriventi la loro morte con
+immagini cruente; e, soprattutto Buonconte, abbondantemente
+loquaci.  E il vivo contrasto si accentuer@a alla ripresa del
+canto seguente.  A un simile effetto di contrasto ho gi@a
+accennato, come all'unica spiegazione che io sappia dare del
+carattere di questi morti violentemente, e della loquacit@a
+scientifica di Buonconte.  La figura della Pia @e cos@i soave, che
+si finisce col non vedere in lei la peccatrice e solo compiangere
+la vittima.  Ma non bisogna dimenticare che ella @e tra i
+peccatori che si pentirono all'ultimo momento della vita:
+^peccatori fino all'ultim'ora~ (v. 53).  E un peccato durato fino
+all'ultimo momento della sua prigionia in Maremma, che altro pu@o
+essere se non un peccato d'amore, sia pure ridotto a mero
+ricordo, rimpianto e desiderio?  @E dunque probabile assai che fra
+le cause della sua reclusione, e della sua morte, vi fosse una
+sua infedelt@a.

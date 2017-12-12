@@ -1,0 +1,832 @@
+	|1.  Malebolge~: termine da Dante composto da ^male~ --
+triste, e ^bolge~, plur. di ^bolgia~, specie di bisaccia, o di
+tasca.  Bene l'^An Fior.~: <Questo luogo dello inferno @e chiamato
+Malebolge, che tanto vuole dire quanto Male sacco, o veramente
+Male valige.>  ^Bolge~ chiama per similitudine i dieci fossi che
+compongono il cerchio ottavo, nei quali sono ^insaccati~ (cfr. C.
+VII, 17) coloro che peccarono per ^malizia~
+(%chi%alpha%chi%iota%alpha\), ossia ^frode.~  Vedi nt. Inf. XI,
+81).  I frodolenti sono divisi nel modo seguente:
+
+     Bolgia  1- Seduttori............. Canto XVIII
+     Bolgia  2- Adulatori.............   "   XVIII
+     Bolgia  3- Simoniaci.............   "   XIX
+     Bolgia  4- Indovini..............   "   XX
+     Bolgia  5- Barattieri............   "   XXI-XXII
+     Bolgia  6- Ipocriti..............   "   XXIII
+     Bolgia  7- Ladri.................   "   XXIV-XXV
+     Bolgia  8- Mali consiglieri......   "   XXVI-XXVII
+     Bolgia  9- Seminatori di scandali   "   XXVIII-XXIX
+     Bolgia 10- Falsatori.............   "   XXIX-XXX
+
+La frode commessa contro colui che si fida (Inf. XI, 52), ossia
+il tradimento, @e punita nel nono ed ultimo cerchio, del quale
+trattano i canti XXXI a XXXIV.
+
+	|2.  Di pietra~: assolutamente sterile ed inoltre orrido
+alla vista.  La natura del luogo corrisponde al carattere de'
+suoi abitanti, i quali hanno il cuore duro come selce.  --
+|Ferrigno~: nel colore simile al ferro, dunque grigio nerastro
+come il ferro non travagliato.
+
+	|3.  Cerchia~: cerchio.  ^E dico cerchio largamente ogni
+ritondo, o corpo o superficie~; ^Conv.~ II, 14.  Per |cerchia~
+intende qu@i la ripa che |volge d'intorno~ questo luogo, cio@e gli
+gira intorno, -- la ^stagliata rocca~, Inf. XVII, 134.  Nel
+Parad. XV, 97 la ^cerchia antica~ -- le mura che circondavano
+Firenze.  -- |Volge~: attivo e neutro assoluto, come ^girare.~
+
+	|4.  Nel dritto mezzo~: nel centro; -- precisamente nel
+mezzo.  -- |Maligno~: essendo ^tutto di pietra e di color
+ferrigno~ {v.2} ed inoltre ripieno d'anime fraudolenti e maligne.
+
+	|5.  Vaneggia~: @e cavato, s'apre vuoto.  -- |Pozzo~: cosi
+chiama il nono ed ultimo cerchio per la sua strettezza rispetto
+agli altri.
+
+	|6.  Suo loco~: frase tutta tutta latina -- ^a suo
+luogo.~  Al. ^in suo loco~ (^luogo~), e ^a suo loco.~  --
+|Dicer@o~: dir@o della struttura e del congegno di questo pozzo a
+suo loco, quando tratter@o del nono cerchio.  Al. ^conter@o~, e
+^dicer@a~, ^conter@a.~  Ma chi ^dir@a~? chi ^conter@a~?  Dante
+stesso. Dunque |dicer@o.~  -- |Ordigno~: l'ordine e la forma.  Il
+^Tom.~: dir@o a suo luogo com'@e fatto.
+
+	|7.  Cinghio~: quella fascia di terreno che rimane tra il
+pozzo e il pi@e dell'alta ripa dura, ossia della ^stagliata
+rocca~, Inf. XVII, 134, e che forma il cerchio ottavo, @e adunque
+tonda.
+
+	|9.  Valli~: @e il plurale di ^valle~ e non di ^vallo~,
+come alcuni pretendono; perch@e |valli~ o ^fosse~ sono appunto le
+^bolge~, e perch@e le paragona alle fosse di una fortezza. 
+^Quelli~ nel v. 13 si riferisce evidentemente a fossi.  Se il
+Poeta avesse inteso ^bastioni~, avrebbe dovuto dire ^nove valli~
+e non ^dieci~, perch@e difatti sono solo nove gli argini che con
+le due ripe esteriori formano le bolge.  ^Bl.~  (Vedi:
+^Todeschini~: ^Interpretazione letterale di tre luoghi
+dell'Inferno di Dante.~ Pad. 1856) Che del resto |valli~ sia qu@i
+plurale di ^valle~ lo prova gi@a a sufficienza il v. 98 del
+presente canto: ^E questo basti della prima valle.~  --
+|Distinto~: scompartito.
+
+	|10.  Quale~: Quale aspetto presenta la parte dove sono i
+fossi che cingono il castello, tale imagine presentavano quei
+fossi, ossia quelle bolge infernali.
+
+	|12.  Rende figura~: porge aspetto, imagine.  La frase
+|render figura~ @e usata pi@u volte dal Poeta anche in prosa. 
+<Rende similitudine, come molti fossi l'uno innanzi all'altro
+cingono uno castello, cos@i quelli cerchietti, era l'uno innanzi
+all'altro; et come i ponticelli sono sopra i fossi per poter
+passare, cos@i uno scoglio si movea che attraversava quegli
+cerchietti infino al pozzo.>  ^An Fior.~  La lezione ^rendon
+sicura~ ci sembra evidentemente falsa.
+
+	|13.  Quelli~: quei ^fossi~ che ha chiamati ^valli~ nel
+v. 9.
+
+	|14.  Sogli~: soglie.  Anticamente si disse ^soglio~ e
+^soglia~ per ^lo soliare~ o ^la porta.~
+
+	|15.  Ripa di fuor~: a quella dell'ultimo fosso e pi@u
+lontana dalla fortezza.  -- |Ponticelli~: sopra di ciascuna
+fossa.
+
+	|16.  Da imo~: dal basso della balza ond'erano stati
+calati da Gerione.  ^Lomb.~  -- |Scogli~: sassi che servono di
+ponti.  Sembra che vi fossero pi@u ordine di ponti alle dieci
+bolge, come risulta non tanto dal v. 18 del presente canto,
+quanto da Inf. XXIII, 133 e seg.  Il ^March. Dionisi~ vuole
+all'incontro non esservi che un solo ordine di ponti, ed
+argomenta: <Dante finge all'Inferno un solo ingresso, una sola
+porta, e anche una via guardata da Cerbero, dal Minotauro, da
+Pluto, e a' traghetti la sola barchetta di Caronte e di Flegias;
+e una sola porta di Dite; e un solo Gerione a calar nel profondo.
+Dunque, dico io, anche un solo ordine di ponti alle bolge.  A che
+farne di tanti, a' quali non era n@e passaggio, n@e discesa, n@e
+traghetto, n@e via?>  (^Serie di Aneddoti.~ ^Num. V~ ^Verona~
+1790, pag. 60 e seg.)  L'argomento sembra giustissimo; ma che
+fare? Arrivati alla sesta bolgia i Poeti non ponno continuare il
+lor viaggio per quello scoglio, Inf. XXI, 106 e seg., si volgono
+per l'argine a sinistra, Inf. XXI, 136, scesi nella sesta bolgia
+continuano ad andare a sinistra, Inf. XXIII, 68, e trovano non
+molto lungi un nuovo ^scoglio~, o ^gran sasso~ il quale ^varca
+tutt'i vallon feri~, Inf. XXIII, 135.  Dunque, diremo noi,
+diversi ordini di ponti alle bolge.  E quanti sono questi ordini? 
+^Filalete~ vuole che siano dieci, come dieci sono le bolge.  Pu@o
+darsi; ma Dante stesso nol dice.
+
+	|17.  Movien~: muovevano, prendeano origine, si
+partivano.  <Dal fondo, dal pi@e del masso si partono scogli che
+quasi ponti accavalcian le bolge e le tagliano a traverso, e
+mettono al pozzo il qual pare li tronchi e raccolga.>  ^Tom.~
+
+	|18.  I~: li.  -- |Racc#ogli~: composto da ^racc@o~ per
+^raccoglie~ e ^gli~ -- ^li raccoglie.~  Gli scogli o ponti
+convengono alla circonferenza del pozzo, al quale giunti non
+vanno pi@u in l@a.  Malebolge ci presenta la figura d'una ruota; il
+pozzo @e come l'asse che raccoglie i raggi e quasi li tronca. 
+^Racco~ per ^raccoglie~ @e dal verbo ^raccoere~ o ^raccoire~ (Vedi
+^Nannucci~: ^Analisi critica de' Verbi ital.~ Fir. 1843, pag. 788
+e seg.).
+
+	|19.  Scossi~: deposti; e vuol forse esprimere il
+dispetto con cui Gerione li pos@o.
+
+	|20.  Il poeta~: Virgilio.
+
+	|21.  A sinistra~: come d'ordinario.  -- |Retro~: dietro
+a lui.
+
+	|22.  Destra~: tenevano a sinistra; dunque le bolge erano
+alla loro destra.  -- |Nuova~: non pi@u veduta.  -- |Pi$eta~: cosa
+de arrecar dolore e compassione.
+
+	|23.  Nuovi frustatori~: un nuovo genere di frustatori,
+cio@e demoni.  Soltanto da ora in poi i dannati vengono tormentati
+dai diavoli, ch@e tali non erano n@e Cerbero, n@e la Arpie.
+
+	|24.  Repleta~: ripiena; latinismo usato anche dal
+^Bocc.~
+
+	|25.  Ignudi~: Sebbene Dante non ci abbia mai detto se le
+ombre fosser nude o vestite, par presumibile che i dannati
+generalmente sian nudi; ma le ombre del Limbo, ^Cesare~
+(^armato~) e ^Virgilio~, dobbiam figurarcele vestite; almeno cos@i
+l'intesero tutti gli artisti che rappresentarono qualche scena
+della Div. Com.  Per gl'ipocriti la cosa varia; poich@e nel
+faticoso manto sta il modo della lor pena.  Cos@i avviene dei
+suicidi, incarcerati nei tronchi e ne' cespugli, e de' falsi
+consiglieri avvolti nelle fiamme.  Dante accenna la nudit@a delle
+ombre sol quando le voglia dipingere nel pi@u miserando abbandono,
+prive d'ogni schermo, p.e. III, 65, 100; VII, 111; XIII, 116;
+XIV, 19 ecc. ecc.  ^Bl.~
+
+	|26.  Dal mezzo~: del fondo.  Questo bolgia @e divisa in
+due zone concentriche; nella zona ^di qu@a~, cio@e dalla parte
+dell'argine superiore dove sono i Poeti, corrono i mezzani nella
+direzione |verso il volto~ de' Poeti, dunque a destra, giacch@e
+questi ultimi tenevano a sinistra, v. 21; nella zona |di l@a~
+corrono i seduttori nella direzione opposta, cio@e a sinistra.  --
+|Verso il volto~: incontro di noi.
+
+	|27.  Con noi~: nella medesima direzione.  -- |Maggiori~:
+correvano molto pi@u velocemente.
+
+	|28.  Esercito~: moltitudine.  <Gran parte de' cristiani
+che allora viveano feciono il pellegrinaggio cos@i femmine come
+uomini, di lontani e diversi paesi, e di lungi e d'appresso.  E
+fu la pi@u mirabile cosa che mai si vedesse, che al continuo in
+tutto l'anno durante, avea in Roma oltre al popolo romano,
+duecentomila pellegrini, sanza quelli ch'erano per gli cammini
+andando e tornando, e tutti erano forniti e contenti di
+vittuaglia giustamente, cos@i i cavalli come le persone, e con
+molta pazienza, e sanza romori o zuffi; ed io il posso
+testimoniare, che vi fui presente e vidi.>  ^G. Vill.~ l. VIII,
+c. 36.
+
+	|29.  L'anno~: 1300.  Vogliono alcuni che anche Dante
+andasse a Roma al Giubileo.  (Vedi ^Balbo~: ^Vita di Dante.~ Fir.
+1853, pag. 137 e seg.) Probabilmente egli era a Roma in
+quell'anno come ambasciadore della repubblica fiorentina a
+Bonifazio VIII.  -- |Ponte~: di Castel Sant'Angelo.
+
+	|30.  Modo colto~: hanno preso spediente per l'ordinato
+passaggio della gente.  Al. ^modo tolto.~  <Concorse tanta gente a
+Roma, che la gente ch'andava a Santo Pietro di Roma su per lo
+ponte sopra il Tevero era assai volte tanta che molti, per le
+strette, nello scontrarsi insieme, sarebbono morti; se non che si
+provvidde che certi, sopra ci@o diputati, stavono in sul ponte; et
+quei che venivono da san Piero mandavono da una parte del ponte,
+et quei che v'andavono... dall'altra parte.>  ^An Fior.~  Secondo
+altri il ponte fu diviso per lungo in due parti.
+
+	|32.  Castello~: Sant'Angelo.
+
+	|33.  Monte~: secondo gli uni il ^Gianicolo~, secondo
+altri il ^Monte Giordano.~  (Vedi ^A. v. Reumont~: ^Rom in
+Dante's Zeit~, nel ^Jahrbuch der deutschen Dante-Gesellschaft~,
+Lipsia 1871 Vol. 3, pag. 398 e seg.)
+
+	|34.  Di qu@a, Di l@a~: in ambedue le zone nelle quali
+questa bolgia @e divisa, cfr. v. 26 nt.  -- |Sasso tetro~: per lo
+fondo della bolgia.  Lo spazio di Malebolge @e ^tutto di pietra e
+di color ferrigno~, v. 2.
+
+	|35.  Cornuti~: sono questi i soli diavoli dell'Inferno
+dantesco che hanno corna.  <Questi demoni son cornuti appunto per
+rammentare tremendamente a' dannati le fedi tradite de' mariti
+cui una volta sbeffeggiarono, chiamandoli ^becchi cornuti.~ 
+^Bl.~  -- |Ferze~: sferze, fruste.
+
+	|37.  Berze~: ^berza~ @e la parte della gamba dal
+ginocchio al pi@e (Vedi ^Fanfani~: ^Vocabol. it.~ ^F. Diez~: ^Diz.
+etimolog.~ 3+o~ ediz. Vol. I, pag. 442); |levar le berze~ vuol dire
+alzar le gambe onde correre.  Cos@i pure ^Lan.~, ^An. Fior.~,
+^Buti~, ^Benv. Ramb.~, ^Barg.~ e quasi tutti i moderni. 
+All'incontro ^Dan.~: <Essi Demoni faceano levar loro le |berze~,
+le bolle, et vesciche per su le carni.>  Cos@i pure ^Lami~, ^Di
+Siena~ ecc.  Ma tal interpretazione non regge.  Le parole del
+Poeta ci presentano semplicemente l'imagine di persone che gi@a
+alle prime percosse la danno a gambe onde non riceverne delle
+seconde e terze; tutte correvano a pi@u non posso.
+
+	|41.  Furo scontrati~: i miei occhi si scontrarono in uno
+di quei peccatori ^dal mezzo in qu@a~ {v.26} della bolgia, i quali
+^ci venian verso il volto~, v. 26.  -- |Dissi~: a Virgilio,
+affinch@e si fermasse un po'.
+
+	|42.  Digiuno~: l'ho gi@a veduto, lo conosco.  Dante usa
+non di rado il termine |digiuno~ in senso figurato.  Chi non ha
+ancora assaggiato un cibo ^ne @e digiuno~, non lo conosce ancora. 
+Cos@i dicesi anche ^esser digiuno di qualche cosa~ per ^non averla
+fatta, non conoscerla.~  All'incontro ^non esserne digiuno~ per
+^averla fatta, conoscerla.~  Se Dante in sua giovent@u fu allo
+studio di Bologna, come alcuni vogliono, vi avr@a forse conosciuto
+costui.  Per altro non era mica necessario di stare a studiare a
+Bologna onde conoscere un qualche Bolognese.
+
+	|43-44.  A figurarlo~: onde raffigurarlo, per ridurmi a
+memoria chi egli fosse.  -- |I piedi affissi~: mi fermai.  Al.
+^gli occhi affissi~; ma la lezione |i piedi~ @e del maggior numero
+dei codd.  Inoltre il ^Lomb.~ ha gi@a detto: <Il seguente verso:
+
+     ^E il dolce duca meco si ristette~
+
+richiede che i piedi, e non gli occhi ^affiggesse~, cio@e fermasse
+Dante; imperocch@e tener fissi gli occhi in quell'ombra poteva
+anche andando.>
+
+	|45.  Indietro gissi~: tornassi un po' indietro e mi
+avvicinassi a colui, onde parlargli.  <Se correvano, come il
+Poeta ritorna egli addietro per parlare a costui?  Forse per
+celarsi a Dante, e non gli passare innanzi, il dannato s'era
+fermato abbassando il viso per pi@u celarsi; a costo di toccare
+altre sferzate de' diavoli.>  ^Tom.~  Ma se il dannato non gli
+fosse ^passato innanzi~ Dante non avrebbe dovuto ^gire indietro~;
+Dante dovendo ^gire indietro~, ne segue che il dannato gli era
+gi@a ^passato innanzi.~  Il Poeta poteva tuttavia raggiungerlo
+perch@e l@a vicino era una stazione di diavoli colla frusta, dove
+si suppone che quei dannati si debbano arrestare un momento per
+ricevere la loro sferzata.  Giunto dove quel dannato veniva
+^frustato~, v. 46.  Dante si arresta a ragionar secolui, essendo
+legge nell'Inferno dantesco che ai dannati @e concesso di ragionar
+un momento coi due viandanti.  Cfr. Inf. V, 96 e seg. XV, 40 e
+seg. ecc.
+
+	|46.  Celar~: credette nascondersi abbassando il viso.  @E
+costui il primo dannato che cerca nascondersi.  <Il peccato di
+costoro era s@i abbominevole ch'egliono si celavono volentieri per
+non esser conosciuti.>  ^An Fior.~
+
+	|47.  Poco gli valse~: non gli giov@o molto, ch@e io lo
+riconobbi nonostante egli cercasse di ascondersi.  <Non basta
+l'arte a nascondere tal vizio, per la molta infamia che lo
+segue.>  ^Benv. Ramb.~
+
+	|48.  Gette~: getti; -- tu che per non esser da me
+riconosciuto abbassi gli occhi a terra.
+
+	|49.  Fazion' che porti~: le fattezze del tuo volto.  --
+|False~: fallaci, somigliando un po'troppo alle altrui.
+
+	|50.  Venedico Caccianimico~: della possente famiglia
+guelfa dei Caccianimici di Bologna, il quale sembra non essersi
+reso famoso che per la rea opera qu@i menzionata.  L'^An. Fior.~:
+<fu costui provigionato uno tempo del marchese Azzo (?) da Esti,
+signore di Ferrara.  Avea messer Venedico una sua sorella,
+bellissima donna, detta madonna Ghisola, et antonomastice, per
+eccellenzia, per@o che avanzava in bellezza tutte le donne
+bolognesi a quello tempo, fu chiamata la Ghisola bella.  Il
+marchese Azzo, udendo parlare della bellezza di costei, et
+avendola alcuna volta veduta per l'amist@a di messer Venedico,
+ultimamente, sotto questa fidanza, si part@i da Ferrara
+sconosciuto, et una sera di notte picchi@o all'uscio di messer
+Venedico, et... sotto gran fidanza, et perch@e conoscea l'animo di
+messer Venedico, gli disse ch'egli volea meglio alla sua
+sirocchia, a madonna Ghisola, che a tutto il mondo; et ch'egli
+sapea ch'ell'era in quella casa: et pertanto, dopo molti prieghi,
+messer Venedico consent@i et discese alla volont@a del Marchese;
+partissi della casa et lasci@o lui dentro; onde il Marchese,
+giunto a costei, doppo alcuna contesa, ebbe a fare di lei.>  Il
+^Lana~ Bolognese: <Avea una sua sorella nome Ghisola bella;
+roffianolla a messer Opizzo marchese da Esti di Ferrara,
+promettendo a lei che l'arebbe signoria e grandezza: dopo lo
+fatto ella si trov@o a nulla delle promesse.>  ^Benv. Ramb.~: ^Vir
+quidem nobilis, liberalis et placibilis.  Qui tempore suo fuit
+valde potens in Bononia, favore Marchionis Estensis~ ecc. 
+Secondo ^Carlo Troya~ (^Del Veltro allegorico di Dante~, Fir.
+1826, p. 30 e seg.).  Dante <aveva usato in Bologna col fazioso
+Venedico dei possenti Caccianemici; la di cui sorella chiamossi
+la bella Ghisola, ed ebbe in marito Nicol@o degli Alighieri,
+nipote di Aldigerio Fontana.>  In tal caso il Poeta avrebbe
+potuto essere benissimo istruito del fatto.  Peccato soltanto che
+il Troya non rechi i documenti sui quali i suoi asserti si
+fondano!  Un ^Venetico Caccianimico~ che uccise un suo cugino si
+trova citato in un'antica ^Cronica di Bologna~ come vivente nel
+1268 (^Murat. Script. Rer. Ital.~ ^Vol.~ XVIII, p. 279).  Forse
+costui @e appunto quegli di cui Dante parla.  In ogni caso quel
+Venedico di cui parla il Poeta viveva ancora nel 1289 e sembra
+morisse fra il 1290 e 1300.  Nel 1286 dovette difendersi
+dell'accusa d'aver dato ricetto ad un malfattore (Vedine il
+documento ^Mazz. Toselli~, ^Voci e passi~, ecc. p. 124 e seg.). 
+Fu Podest@a in Milano nello stesso anno, ed anche in Imola.  Fu
+posto in bando il 14 Agosto 1289.  Ci vien descritto come
+cavaliere nobile, probo e valoroso, n@e si hanno indizi del
+misfatto appostogli qu@i, tranne appo Dante ed i suoi
+commentatori.
+
+	|51.  Che~: qual colpa.  Il fatto si raccontava
+diversamente, come attesta il ^Lana~ Bolognese.  <Altri vuol dire
+che 'l fue non con saputa del ditto, ed altri dice che non fu
+nulla.>  Perci@o la domanda di Dante.  -- |Salse~: secondo alcuni
+metafora cavata dal senso del gusto, per ^pena acerba, tormento~;
+cos@i ^Buti~, ^Barg.~, ^Lomb.~, ^Bl.~, ecc.  Secondo ^Mazzoni
+Toselli~ (^Voci e passi di Dante.~  Bol. 1871, pag. 22-25) il
+significato di |salse~ non @e molto dissimile da quello del lat.
+^salebra~ -- luogo aspro e rovinoso, con questa differenza che
+|salse~ erano dette le pietrucce o ciottoli di selce poste e
+quasi germoglianti in un terreno sterile, aspro e rovinoso, cui
+la pioggia quasi lavandole lascia discoperte.  Ci@o si
+accorderebbe alla descrizione che Dante, v. 2 fa di questo luogo. 
+Ma ^Benv. Ramb.~ dice: SALSA ^est quidam locus bene concavus et
+declivus extra Civitatem, et prope Sanctam Mariam in Monte, in
+quem solebant projici corpora desperatorum, foeneratorum, et
+aliorum infamatorum; unde aliquando audivi pueros Bononiae
+dicentes unum alteri ad improperium: Tuus pater fuit projectus ad
+salsas~......  ^Qui ducit te ad vallem tam infamem sicut est
+vallis Salsarum apud patriam tuam?  Non ergo capias hic~ SALSAS
+^pro sapore, sicut communiter omnes exponunt, quia metaphora
+esset alia a proposito.~  Cos@i pure l'^An. Fior.~, il falso
+^Bocc.~, ^Tom.~, ^Br. B.~ ecc. e noi non vediamo il motivo che
+induca a scostarsi da questi antichi, tanto pi@u che la loro
+opinione si pu@o benissimo accordare con quella del ^Mazzoni
+Toselli~, da lui con molti documenti comprovata.  Quel ^locus
+bene concavus~ era probabilmente pieno di ciottoli, sterile ecc.
+e si chiamava appunto per questo |salse.~
+
+	|52.  Tel dico~: Al. ^lo dico.~
+
+	|53.  Chiara favella~: la precisione e chiarezza del tuo
+parlare.  Cfr. Inf. XXIV, 127-140.
+
+	|54.  Fa sovvenir~: ricordandomi le ^salse~ {v.51}, e
+chiamandomi per nome.
+
+	|55.  Ghisola bella~: forse convien scrivere
+^Ghisolabella.~  Vedi ^Mazz. Toselli~ (^Voci e passi~ ecc. p. 119
+nt.): <Alcuni dicono che costei fu cos@i nominata per essere stata
+bella: io per@o ne dubito perch@e undici anni dopo il suo
+matrimonio ella dett@o il suo testamento nominandosi ^Ghisolabella
+quondam Alberti de Cazzanemicis~ mentre forse non era pi@u bella.>
+
+	|56.  Marchese~: da Este; probabilmente Obizzo II, che
+anche ^G. Vill.~ chiama semplicemente |Marchese.~  Altri con
+minor probabilit@a Azzo VIII Vd. nt. al v. 50.
+
+	|57.  Come~: checch@e se ne dica.  La cosa si narrava
+allora in pi@u modi, cfr. nt. al v. 51.  O che Dante ne era ben
+informato, o che, come vuole il ^Tom.~, l'affermasse
+asseverantemente in odio de' Guelfi Estensi.  Il primo @e pi@u
+verisimile.  -- |Suoni~: si racconti su nel mondo.  -- |Sconcia~:
+turpe, scandalosa; ma anche ^guasta, corrotta, falsa~, giacch@e o
+non si ardiva, o non si voleva dire il vero, trattandosi di una
+famiglia potente.
+
+	|58.  Non pur~: non solo.  Anche costui cerca qualche
+conforto nel pensiero ch'egli ha compagni, come Ciacco, Inf. VI,
+55 ed altri.  Misera consolazione.
+
+	|60.  Apprese~: ammaestrate.  Il numero de' Bolognesi che
+sono in questa bolgia @e maggiore di quello de' Bolognesi viventi. 
+Il ^Lana~ Bolognese: <Universalmente i Bolognesi sono
+caritatevoli di tali doni, cio@e di roffianare parenti e
+cognoscenti chi meglio meglio.>  ^Benv. Ramb.~ che pure leggeva
+il suo commento a Bologna: <Oggigiorno per altro Bologna ha molto
+scemato tale infamia, mentre in Italia tutta ha gettate estese e
+profonde radici.>
+
+	|61.  Dicer~: dire, pronunziare, proferire -- |Sipa~: i
+due antichi Bolognesi, ^Lan.~ e ^Benv. Ramb.~: <I Bolognesi usano
+|sipa~ in luogo di ^sia.~>  Cos@i anche l'^An. Fior.~  Il
+^Tassoni~, ^Secchia rapita~ XII, 50, fa dire al Bolognese
+^Sprangon da la Palata~:
+
+     ^Fra tanti poltronzon j n'@e neguno~
+     ^Ch'apa ardimento de vegnir qua fora~
+     ^A far custion con mi, fina che l'uno~ 
+     |Sipa~ ^vittorios, e l'altro mora~?
+
+dove |sipa~ significa evidentemente ^sia.~  Moltissimi altri, e
+antichi e moderni, dicono che |sipa~ voglia dir ^s@i.~  Ma qu@i ci
+pare che bisogni stare coi Bolognesi.  -- |Savena e Reno~: La
+Savena @e un torrente che parte dall'Apennino in vicinanza di
+Pietramala e Loiano, attraversa la via Emilia vicino a Bologna, e
+versa le sue acque nel cavo Benedettino per poi ingrossare il Po
+di Primaro.  Il Reno @e una riviera che trae le sue sorgenti nella
+Toscana alle falde degli Apennini, entra nella Romagna passando
+da Porreta, ove s'ingrossa per vari suoi imittenti, scorre nelle
+vicinanze di Vergato, Arcognana, Casalecchio, e Tizzano, passa
+sotto un ponte non lungi da Bologna ecc.  ^Loria~ (^L'Italia
+nella Div. Com.~ Mant. 1868, pag. 265.)  Tra i due fiumi |Savena~
+e |Reno~ siede Bologna con parte del suo territorio.
+
+	|63.  Avaro seno~: per ^avarizia.~  Ottimamente il
+^Tom.~; |seno~, quasi vuoto voraginoso che inghiotte.  ^Benv.
+Ramb.~: Qu@i Dante prende l'avarizia in senso lato; imperocch@e i
+Bolognesi non sono avari, invece prodighi pel lusso oltre le
+forze, ed ecco il perch@e vanno in traccia di guadagni, siano pur
+turpi, giochi, furti, lenocini, esponendo le figlie, le sorelle,
+le mogli per soddisfare alla gola, ed alle altre vergognose
+passioni.>  All'incontro il ^Lana~ dice i Bolognesi
+<naturalmente> avari.
+
+	|64.  Cos@i parlando~: Come ebbe detto questo.
+
+	|65.  Della~: colla.  -- |Scuriada~: frusta, da ^scutica~
+(^Tom.~ ^Diz. dei Sin.~ 5+o~ ediz. Mil. 1867 No. 488).  |Scuriada~
+e ^scuriata~ dicesi propriamente la sferza di cuojo, colla quale
+si frustano per lo pi@u i cavalli.
+
+	|66.  Da conio~: da vendere onde cavarne metallo coniato,
+cio@e denari; cos@i i commentatori.  Ma il |conio~ e la ^moneta~
+son cose un po' diverse.  ^Benv. Ramb.~ non commenta questo verso
+onde non offendere le caste orecchie.  Infatti non c'@e bisogno di
+commento; bisogna essere ben innocentino per non conoscere la
+metafora.  Bene l'^An. Fior.~: <Qu@i non ha femmine da poterle
+coniare.>  E il ^Fanfani~ nel ^Vocab.~  <^Qu@i non c'@e femmine da
+ingannare e condurre alla mazza~, come di fatto egli ci avea per
+inganno condotto la Ghisola bella.>  Vedi pure: ^Mazzoni
+Toselli~: ^Voci e passi~ ecc. pag. 116 e seg.
+
+	|67.  Mi raggiunsi~: ritornai a Virgilio.  Questi s'era
+fermato, v. 44 mentre Dante era tornato alquanto indietro, v. 45.
+
+	|68.  Con pochi~: dopo aver fatto pochi passi -- in
+breve.  -- |Divenimmo~: arrivammo, giungemmo.
+
+	|69.  L@a ove un~: Al ^dove uno.~  -- |Scoglio~: uno di
+quegli che ^movi@en della roccia, recidean gli argini e i fossi~
+v. 16, 17 e servivano di ponte.  -- |Ripa~: costeggiarono finora
+l'alto muro a sinistra, guardando a destra: ora trovano un ponte
+che si parte dal muro, e accavalcia il fosso, lo salgono, e si
+partono dalla stagliata rocca.  ^Tom.~
+
+	|70.  Leggeramente~: facilmente, senza fatica.
+
+	|71.  A destra~: andavano a sinistra; la bolgia, e
+conseguentemente anche lo scoglio che la accavalcia, era alla
+loro destra; dunque volendo montare su quella spezie di ponte
+dovevano volgersi a destra.  -- |Scheggia~: scoglio scheggiato o
+scosceso.  <Bastava  una striscia del masso per far da ponte.> 
+^Tom.~
+
+	|72.  Eterne~: il ^Dan.~: continove; perch@e abbracciava a
+torno a torno tutte le bolge; che se |eterne~ volesse dir
+perpetue in questo luogo, parrebbe che solamente quelle cerchie,
+et non l'altre parti d'Inferno fosser tali.>  La critica @e
+fondata, ma la spiegazione non quadra.  Leggendo ^esterne~ ogni
+difficolt@a svanirebbe, ch@e la prima delle dieci bolge
+concentriche, dalla quale i Poeti si partono @e infatti ^esterna~,
+mentre all'incontro ^tutte~ le bolge e ^tutti~ i cerchi infernali
+sono ^eterni~ e nel senso di ^non interrotti~ e nel senso di
+^perpetui.~  Se avessimo potuto appoggiarci sull'autorit@a di un
+solo codice avremmo pertanto accettato ^esterne~ nel testo; ma
+non avendola non possiamo che conghietturare.  Aggiungiamo del
+resto che ^Benv. Ramb.~ sembra aver letto ^esterne~ poich@e egli
+chiosa: <Ci allontanammo da quel cerchio, ^Che chiude tutte le
+bolge~, cio@e ci togliemmo dalla ^Riva esteriore del cerchio.~>
+
+	|73.  Ei~: lo scoglio.  -- |Vaneggia~: fa arco e lascia
+sotto di s@e un vano, per dar passo ai frustati gi@u nella bolgia.
+
+	|75.  Attienti~: fermati.  Al. ^attendi.~  -- |Feggia~:
+ferisca, vd. Inf. XV, 39, e ^Nann.~ ^Anal. crit.~ p. 336 nt. 4. 
+Procura di guardar in faccia a questi altri.
+
+	|76.  Lo viso~: la faccia, cfr. v. 128, 129.  -- |Altri~:
+la masnada de' seduttori i quali corrono nella direzione opposta
+e quella dei mezzani, vd. v. 26. nt.  -- |Mal nati~: ^l'uomo
+nasce a perversit@a~ {versi ebraici} Giobbe V, 7 cfr. Inf. V, 7
+nt.
+
+	|77.  Non vedesti~: perch@e andavano nella medesima
+direzione, quantunque ^con passi maggiori~, v. 27, i Poeti non
+avean loro potuto guardare in faccia.
+
+	|79.  Vecchio~: antico.  ^Dinanzi a me non f#ur cose
+create~, Inf. III, 7.  -- |Guardavam~: ci fermammo sul ponte
+volgendo il viso in dietro e riguardando nella direzione dove
+eravamo venuti lungo la ripa.  -- |Traccia~: la schiera di quei
+^di l@a~, v. 27.  Sopra |traccia~ vd. Inf. XII, 55 nt. XV, 33 nt.
+ecc.
+
+	|81.  Similmente~: nella stessa guisa come i ruffiani che
+corrono nella direzione opposto.  -- |Scaccia~: Al. ^schiaccia~;
+ma i diavoli colle loro sferze ^facean levar le berze~ a quelle
+anime, v. 37 cosicch@e esse fuggivano senza ^aspettar le seconde
+n@e le terze~ percosse, v. 39 dunque le ^scacciavano.~
+
+	|82.  Senza mia dimanda~: il ^Tom.~: <Glielo mostra,
+perch'era un'antico.  Virgilio gl'insegna sempre i chiari nomi
+de' secoli pi@u remoti.>  Sicuramente, poich@e Dante non li avrebbe
+potuto conoscere da s@e.  Ma perch@e gli mostra Virgilio Giasone
+senza esserne chiesto, mentre invece un'altra volta lo lascia
+dimandare: ^chi @e quel grande~ (Inf. XIV, 46)?  Risposta: Capaneo
+^giace~ sul suolo, e Dante pu@o considerarlo a suo bell'agio;
+Giasone all'incontro ^corre~, e Dante non lo distinguerebbe dagli
+altri se non ne fosse avvertito dalla sua guida.
+
+	|83.  Quel grande~: cos@i di Capaneo, Inf. XIV, 46-49:
+
+     ^Chi @e quel grande, che non par che curi~
+     ^L'incendio, e giace dispettoso e torto~
+     ^S@i, che la pioggia non par che il maturi~?
+
+	|84-85.  Per dolor~: per quanto grande sia il dolore che
+egli sente, non versa per@o una lagrima, tanto magnanimo @e il cuor
+suo.  Altri: il dolore eccessivo gli sopprime le lagrime, cfr.
+Inf. XXXIII, 49.  Ma Dante lo ha gi@a detto ^grande~ {v.83};
+dunque Giasone non piange per grandezza di cuore.  Ed anche
+l'|aspetto reale~ del verso seguente denota magnanimit@a.  --
+|Ancor~: anche qu@i in mezzo al dolore.  -- |Ritiene~: conserva.
+
+	|86.  Quelli~: per ^quegli~, come ^elli~ per ^egli.~  --
+|Jason~: figlio di Esone re di Tessaglia; duce degli Argonauti. 
+-- |Core~: coraggio, fortezza, valore.  -- |Senno~: saviezza,
+ingegno, prudenza.  Di Giasone tocca pure Parad. II, 16.
+
+	|87.  Monton~: il Vello d'oro.  -- |F$ene~: fece, f@e; come
+^ene~ per ^@e~, ^hane~ per ^ha~, ^fane~ per ^fa~, ^vane~ per ^va~
+ecc.  Cfr. ^Nann.~ ^Anal. crit.~ pag. 621.
+
+	|89.  Ardite~: perch@e uccisero i maschi, v. 90.  --
+|Spietate~: perch@e uccisero padri, sposi e figli.  -- Venere,
+irata contro le donne dell'isola di Lemno perch@e non la
+veneravano pi@u (^Apollod.~ I, 9, 17), le pun@i terribilmente
+facendo che spargessero un nauseante lezzo caprino (^odor
+hircinus~, ^Apollod.~ l. c.).  A motivo di questo lezzo i loro
+mariti le evitarono (^Schol. ad Pindar. Pyth.~ IV, 499;
+^Apollon. Rhod.~ 302 e sg.); irate le donne congiurarono insieme
+ed uccisero tutti i maschi dell'isola (^Apollod.~ l. c. ^Hygin.~
+Fab. 15).
+
+	|90.  Maschi~: tutto il sesso.  -- |Dienno~: diedero (--
+uccisero).  Cfr. ^Nann.~ ^Anal. crit.~ p. 558.
+
+	|91.  Segni~: cenni, atti significativi di amore.  --
+|Ornate~: cfr. Inf. II, 67. qu@i: ^lusinghevoli.~
+
+	|92.  Isifile~: %Upsilon%psi%iota%pi%upsilon%lambda%eta\,
+figlia di Toante re di Lemno (^Apollod.~ l. c. ^Hygin.~ l. c.);
+era regina di Lemno dopo l'uccisione de' maschi (cfr. ^Hom. Il.~
+VII, 461).
+
+	|93.  Ingannate~: non potendosi risolvere ad ucciderlo
+(^Apollod.~ III, 6, 4), avea con pietoso inganno sottratto Toante
+suo padre alla strage comune favorendone la fuga (^Apollon.~
+^Argon.~ I, 623), o, secondo un'altra tradizione, nascondendolo
+in una cassa, che fu poi gettata dal mare alle piagge della
+Scizia (^Apollon.~ ^Rhod.~ I, 623; ^Hygin. Fab.~ 15).  Alle altre
+donne dell'isola ella fece credere di aver ucciso il genitore.
+
+	|94.  Lasciolla~: dopo averla sposata (^Pindar.~ ^Pyth.~
+IV, 252; ^Simonid. Schol.~ IV, 450), e dopo che essa gli ebbe
+partorito due figli (^Apollod.~ I, 9, 17; ^Stat.~ ^Theb.~ VI,
+336).  Secondo un'altra tradizione, che Dante sembra seguire,
+Giasone la lasci@o dopo circa un'anno, gravida di due figli (vd.
+^Barg.~).
+
+	|96.  Medea~: la bella figlia di O,eta re de' Colchi
+(^Ovid.~ ^Metam.~ VII).  Giasone la lasci@o per amor di ^Creusa.~ 
+Qu@i egli paga il fio del doppio inganno.
+
+	|97.  Da tal parte~: in tal modo, seducendo per conto
+proprio.
+
+	|98.  Valle~: bolgia.  Cfr. v. 9 nt.
+
+	|99.  Assanna~: afferra colle sanne, e stringe.  Qu@i sta
+per ^contiene.~
+
+	|100.  Stretto calle~: lo scoglio che formava un ponte
+sopra le bolge e serviva di |calle~ onde attraversarle.  <Il
+ponte sul fosso s'incrocicchia coll'argine perch@e il medesimo
+scoglio traversa gli argini tutti, e fa sovr'essi tanti archi. 
+L'argine @e spalla che regge gli archi.>  ^Tom.~
+
+	|101.  Argine secondo~: che separa la prima bolgia dalla
+seconda.
+
+	|102.  Spalle~: sostegno.
+
+	|103.  Nicchia~: si duole, si rammarica.  |Nicchiare~
+significa propriamente quel cominciarsi a rammaricare pianamente
+che fanno le donne gravide, quando comincia ad accostarsi l'ora
+del partorire.  Non @e qu@i voce scelta a caso, ma piuttosto a
+bella posta trattandosi di uomini vili ed infemminiti.  In alcuni
+luoghi si usa pure |nicchiare~ per ^puzzare~, e specialmente di
+cadaveri.  Di puzzo non ne hanno penuria nemmeno questi dannati.
+
+	|104.  Muso~: termine anche questo adoperato con
+intenzione; muso si dice propriamente dei cani e gli adulatori
+^leccano~ a mo' di cani.  -- |Sbuffa~: soffia colla bocca e colle
+narici, per nausea che crea loro quel puzzo.  ^Lomb.~  Come il
+porco nel pantano, l'adulazione esercitandosi colle labbra. 
+^Benv. Ramb.~
+
+	|105.  Picchia~: batte, percuote.  Il ^Biag.~: <Questo
+verbo fa sentir il suono delle percosse.>  Ma a ci@o risponda
+^Benv. Ramb.~: <Il batter delle mani non si udiva, perch@e erano
+verniciate di sterco, e non facean gran suono.
+
+	|106.  Ripe~: interne della seconda bolgia.  --
+|Grommate~: incrostate.  ^Gromma~ propriamente @e quella crosta
+che fa il vino dentro alla botte.  Qu@i la bolgia @e la botte e lo
+sterco il vino.
+
+	|107.  Alito~: esalazione puzzolente.  -- |Si appasta~:
+si appiastriccia alle ripe.
+
+	|108.  Facea zuffa~: offendeva gli occhi colla sua
+laidezza ed il naso col fetore; era nauseante a vedere e ad
+odorare.  <Dicesi urtar l'odorato, offender la vista, percuoter
+l'udito.  S. Gregorio pone in Inferno, ^fetore intollerabile,
+flagelli di percuotenti, orribile veduta di Demonii.~  In queste
+parole pare sia come il germe del canto.>  ^Tom.~
+
+	|109.  Cupo~: come il cuore dell'adulatore.  ^Le
+pronfondit@a di Satana.~  Apoc. II, 24.  -- |Ci~: ivi.
+
+	|110.  Dosso~: il sommo dell'arco dello scoglio o
+ponticello.  Per vedere gi@u al fondo di questa bolgia bisognava
+montare al sommo dell'arco, perch@e se il raggio visuale si fosse
+scostato alcun po' dalla perpendicolare non sarebbe ito a ferire
+il fondo, ma l'una o l'altra delle schifose ripe.  Gli adulatori
+convien guardarli dall'alto al basso.
+
+	|111.  Pi@u sovrasta~: ove @e pi@u alto, nel suo mezzo.
+
+	|112.  Quivi~: nel mezzo dello scoglio.
+
+	|113.  Sterco~: ^egli perir@a in perpetuo come lo sterco
+suo~, Giobbe XX, 7;  ^Quelli ch'erano stati allevati sopra lo
+scarlatto abbracciano lo sterco~, Thren. IV, 5.
+
+	|114.  Privati~: agiamenti, cessi, luoghi comuni.  Le
+inezie Scarabellesche a questo luogo sono proprio roba da
+privati.  Vuol che si legga ^privadi~ costui!  Dica almeno
+^privadas~, e far@a credere che egli sappia di Spagnuolo!  O non @e
+nemmen capace di distinguer lo Spagnuolo dall'Italiano costui? 
+-- |Mosso~: calato laggi@u.  Le lagrime del mondo van gi@u e
+formano i fiumi infernali; le immondezze del mondo van gi@u a
+riempir la bolgia degli adulatori.
+
+	|115.  Cerco~: per riconoscere alcuno.
+
+	|116.  Merda~: Su questi termini lasceremo parlare il
+^Mazzoni (Della difesa della Comedia di Dante.~  Vol. II, Cesena
+1688, pag. 539): <Quanto alle voci sporche dico, che le ha usato
+per rappresentare pi@u la bruttura del vizio, ch'egli riprendeva,
+e per usar parole convenevoli al soggetto di che trattava
+conforme alle regole de' Rhetori.  Per questo.... volendo
+dimostrare la bruttura del vizio dell'adulazione dipingendoci
+innanzi agli occhi la brutezza della pena conveniente a quelli
+disse
+
+     ^Vid'un col capo s@i di merda lordo.~
+
+Dove a bello studio us@o una parola sporca, che fu prima usata non
+solo da Martiale, come si vede in quel verso (Lib. IV, epig. 17):
+
+     ^Sed nemo potuit tangere, merda fuit.~
+
+Ma anco da Horatio, che cos@i scrisse, ^Lib. p. Sat.~ 8 (^Sat.~
+lib. I, ^Sat.~ VIII, v. 37, 38:
+
+     ^Mentior at si quid, merdis caput inquiner albis~
+     ^Corvorum, atque in me veniat mictum atque cacatum.~
+
+E fu medesimamente usata da Aristophane, e dagl'altri Poeti
+comici.>
+
+	|117.  Parea~: appariva.  Era cos@i lordo, che non si
+poteva distinguere se avesse chierica o no.
+
+	|118.  Ingordo~: avido.  Ecco una nuova zannata
+Scarabellesca!  Riuscitogli, Dio sa come, a compitare in un
+qualche codice ^sigordo~, che evidentemente st@a per ^s@i 'ngordo~
+come scrive il ^Tom.~, costui crede che si possa leggere ^s@i
+gordo~ e che sia questa <giustissima dizione>.  Eppure si crede
+Dantista!
+
+	|119.  Brutti~: smerdati.
+
+	|121.  Asciutti~: non imbrattati.
+
+	|122.  Interminei~: sincope voluta dal verso per
+^Interminelli.~  Alessio Interminelli o Antelminelli visse ai
+tempi di Dante.  <Esso comparisce in varj strumenti, l'ultimo dei
+quali @e una cartapecora per ser Bartolommeo di Lupardo Guidolini
+de' 27 di dicembre 1295.  Nacque di un Antelminello, e lasci@o pi@u
+figliuoli, l'un dei quali detto pure Antelminello dal nome
+dell'avo fu ambasciatore a Clemente V, come si legge in ser
+Orlando Ciapparoni sotto il 22 settembre del 1306, e di poi
+eletto ad uno dei consiglieri di Uguccione della Faggiuola, come
+da pubblico atto per ser Federigo Callianelli de' 13 di luglio
+1314.  Fu di lui anche un Chello o Michele, il quale sentendosi
+grave la coscienza d'indebiti guadagni, testando per ser Rabbito
+Torringhelli il 25 luglio 1323, ordina sia restituito il mal
+tolto...  Del resto questo Alessio non lasci@o nome di s@e, n@e
+forse sarebbe stato mai pi@u ricordato senza i versi
+dell'Alighieri.>  (^Carlo Minutoli~: ^Gentucca e gli altri
+Lucchesi nominati nella D. C.~ nel vol. ^Dante e il suo secolo~,
+pag. 209, 210).  Gli Interminelli erano di parte bianca (^G.
+Vill.~ l. VIII, c. 46), e furono per questo cacciati da Lucca. 
+Come ognun sa Castruccio Castracani era della famiglia degli
+Antelminelli.  Del vizio di questo Alessio n@e la storia
+contemporanea, n@e gli atti pubblici lucchesi fanno menzione (Cfr.
+^Minutoli~, l. c.).  Gli antichi espositori della Div. Com. lo
+dicono all'incontro grande adulatore ed ingannatore di femmine
+(^Lan.~, ^Buti~, ^Dan.~, ^Jac. Dantis~, ecc.).  Le ^Chiose anon.
+ed. Selmi~: <tenne un bordello di puttane.>  ^Benv. Ramb.~:
+<Alessio tanto si piaceva di adulazione, che non sapeva aprir
+bocca senza adulare.  Ungeva tutti, leccava tutti, anche i pi@u
+vili servitori.>
+
+	|124.  Battendosi~: come fanno tutti di quella masnada,
+v. 105.  Si batte per rabbia di esser stato riconosciuto
+nonostante i bei ornamenti del suo capo, v. 116, 117.  --
+|Zucca~: capo.  Secondo l'^Ott.~ voce del dialetto lucchese.  Qu@i
+per disprezzo.
+
+	|126.  Stucca~: infastidita, annojata, sazia.
+
+	|127.  Appresso~: dopo che Alessio ebbe dette tai parole. 
+-- |Pinghe~: pinga, (Cfr. ^Nann.~ ^Anal. crit.~ p. 284) spinga --
+mira un po' pi@u avanti.
+
+	|129.  Attinghe~: attinga, lat. ^attingas.~  Acciocch@e tu
+giunga cogli occhi tuoi a vedere la faccia di quella sozza.
+
+	|130.  Fante~: donna vile, bagascia (^Monti~, ^Prop.~ II,
+1 pag. 65).
+
+	|131.  Graffia~: per dolore.  Di Anna, sorella di Didone
+^Virg.~ ^En.~ IV, 671:
+
+     ^Unguibus ora soror foedans, et pectora pugnis~,
+     ^Per medios ruit.~
+
+	|132.  S'accoscia~ ecc.: atti meretrici.  <La pena del
+lussurioso ornato de' capelli @e, che ora fusse scapigliata.  E la
+pena della ritrosa superbia inverso gli amatori suoi (?), che sia
+fante e schiava del tormento.  E l'unghia lorde di feccia
+puniscono i troppo esquisiti odori che in vita cercava.  E che
+ora s'accosciasse, e ora stesse in pi@e ha la sua allegoria: ma
+meglio @e lasciare inviluppato nella sua oscurit@a, quello che
+onestamente non si pu@o esplicare.>  ^Land.~  -- |@E stante~: sta.
+
+	|133.  Taide~: La meretrice rappresentata da Terenzio
+nella commedia ^l'Eunuco.~  -- |Rispose~: Le parole non sono
+propriamente di Taide, ma del parasito Gnatone, che faceva da
+mezzano.  Ma Dante avea il diritto di porre in bocca a Taide
+stessa le parole che furon dette nel di lei nome.
+
+	|134.  Drudo~: Trasone, giovane soldato,
+appassionatissimo per Taide.  Le avea mandato in dono una
+schiava; Gnatone dicendogli che il dono le era stato assai caro,
+egli dimanda:
+
+     Thr.  ^Magnas vero agere gratias Thais mihi?~
+     Gn.   ^Ingentes.~
+     Thr.  ^Ain' tu laeta est~?
+     Gn.   ^Non tam ipso quidem dono, quam abs te datum esse.~
+           ^Terenz.~ ^Eunuchus~ A. III, sc. 1.
+
+	|136.  Quinci~: di qu@i.  ^Basti di quanto abbiam veduto
+di questa bolgia sporca.~  A chi il linguaggio tenuto in
+descriverla non garbasse osserveremo con Quintiliano: ^Sed ne
+inornata sunt quaedam, nisi cum sunt infra rei, de qua loquendum
+est, dignitatem; excepto si obscaena nudis nominibus enumerantur,
+quod viderint qui non putant esse vitanda, quia nec sit voce ulla
+natura turpis, et si qua est rei deformitatis alia quoque
+appellatione quacunque ad intellectum eundem nihil hominibus
+perveniat, ego Romani pudoris more contentus, ut jam respondi
+talibus verecundiam silentio vindicabo.~  Ed altrove: ^Omnia
+verba suis locis optima; etiam sordida dicuntur proprie.~ E a chi
+nemmen questo basta, diremo colla Scrittura Sacra:
+%Pi%alpha%nu%tau%alpha\ %mu%varepsilon%nu\
+%chi%alpha%vartheta%alpha%rho%alpha\ %tau%o%iota%varsigma\
+%chi%alpha%vartheta%alpha%rho%o%iota%zeta\ %tau%o%iota%varsigma\
+%o%varepsilon\
+%mu%varepsilon%mu%iota%alpha%sigma%mu%varepsilon%nu%o%iota%varsigma\
+%chi%alpha%iota\ %alpha%pi%iota%sigma%tau%o%iota%varsigma\
+%o%upsilon%o%varepsilon%nu\ %chi%alpha%vartheta%alpha%rho%o%nu\
+%alpha%lambda%lambda%alpha\
+%mu%varepsilon%mu%iota%alpha%nu%tau%alpha%iota\
+%alpha%upsilon%tau%varpi%nu\ %chi%alpha%iota\ %o\
+%nu%o%upsilon%varepsilon\ %chi%alpha%iota\ %eta\
+%sigma%upsilon%nu%varepsilon%iota%o%eta%sigma%iota%varsigma\. 
+^Epist, a Tito~ c. II, v. 15.

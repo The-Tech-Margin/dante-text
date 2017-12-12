@@ -1,0 +1,206 @@
+	|1.~  IMAGINI.  CUPE, idest, desidera.
+
+	|2.~  IMAGE: ha questa lingua <image>, <imagine> e <imago>.
+
+	|3.~  COME FERMA RUPE: troppo dura translatione.
+
+	|4.~  QUINDECI STELLE: tante sono quelle di prima magnitudine.
+
+	|6.~  DE L'AERE OGNI COMPAGE: @e difficile questo loco, n@e il Landino 
+n@e l'Imolese lo 'ntende.  Vol dir egli che sono tanto lucide queste 
+stelle, che vincono quelle che fanno la Via Lattea, che, come vedi, @e 
+molto serena e lucida quella parte del cielo ove sono quelle; e piglia 
+^aere~ per lo cielo e ^compage~ per la Via Lattea secondo l'oppenione 
+di Aristotele, la quale referisce Macrobio nel ^Sonno di Scipione~.
+
+	|7.~  IL SENO, idest, lo spacio di questo nostro cielo.
+
+	|9.~  NON VIEN MENO, perch@e sempre gira sopra la terra.
+
+	|11.~  STELO, chiama ove @e il ponto fisso a la tramontana, sopra 'l 
+qual si voglie il cielo.
+
+	|12.~  LA PRIMA, dice, ancor che tutte le vadino intorno, che @e pi@u 
+vicina.
+
+	|14.~  QUAL, che @e la corona di Ariadna.
+
+	|16.~  E L'UN NE L'ALTRO AVER GLI RAGGI, idest, esser illuminata l'una 
+da l'altra.
+
+	|18.~  CH'UN ANDASSE AL PRIMO E L'ALTRO AL POI, idest, ch'una seguisse 
+l'altra nel girar.
+
+	|20.~  COSTELLATIONE, chiama quei giri de quell'anime; perch@e ha 
+fatto la comparatione di costellatione, e perci@o, dichiarandosi, 
+soggiunge ^e de la doppia danza~.
+
+	|22.~  DA NOSTRA USANZA, idest, da quello che solemo veder noi qui 
+gi@u.
+
+	|24.~  IL CIEL, che @e quello che fa il moto diurno.
+
+	|26-27.~  MA TRE PERSONE, che @e il <Gloria Patri et Filio et Spiritui 
+Sancto>; ^tre persone~: sono tre in persone, Padre, Figlio e Spirito 
+Santo, \<in\> una NATURA, che @e divina, E IN UNA PERSONA, che @e 
+Cristo, ESSA, cio@e divina, E L'UMANA, natura: che differenza @e da 
+natura a persona, vedremo al suo luogo, ove si ragioner@a di Trinit@a.
+
+	|28.~  E SUA MISURA ^compi@e il volgere~.
+
+	|30.~  DI CURA IN CURA: di pensier in pensier.
+
+	|32.~  LA LUCE, che fu san Tomasso.
+
+	|34.~  QUANDO, idest, perch@e e quoniam.
+
+	|37.~  TU CREDI: vien al dubbio che disse di Salamon che ^mai surse il 
+secondo~; NEL PETTO: descrive Adam per circumlocutione.
+
+	|39.~  IL CUI PALATO: ha posto l'instrumento per la cosa, il palato 
+per la gola.
+
+	|40.~  E IN QUAL, che fu Iesu Cristo.
+
+	|43.~  QUANTUNQUE: in quantum.
+
+	|45.~  DA QUEL VALOR, che @e Dio.
+
+	|51.~  COME CENTRO IN TONDO, idest, che quel che tu credi @e compreso 
+nel mio dire, come @e compreso il centro nel tondo.
+
+	|52.~  CI@O CHE NON MORE, che sono le cose eterne, come gl'angeli, i 
+cieli, l'anime nostre, la prima materia e la prima forma delle cose, E 
+CI@O CHE P@O MORIRE, che sono tutte l'altre cose corrottibili.
+
+	|53-54.~  SE NON SPLENDORE, che s'attribuisce al Figlio, DI QUELLA 
+IDEA, che @e quella mente di Dio, ch'@e il Figlio, perch@e, come vuole 
+Platone, ogni cosa, innanzi che sia fatta da Dio, @e prima formata 
+nella mente divina, e chiamala `idea'; AMANDO, ch'@e attribuito al 
+Spirito Santo, IL NOSTRO SIRE, che @e il Padre.
+
+	|55-57.~  VIVA LUCE, che risponde al Figlio, c'ha detto ^se non 
+splendore~, CHE S@I, idest, s@i fattamente, MEA, idest, `viene' in 
+latino, DAL SU' LUCENTE, che @e il Padre, e avea detto ^il nostro 
+Sire~; DISUNA, idest, divide e separa, DA LUI, cio@e Padre, N@E DA 
+L'AMORE che @e 'l Spirito Santo; S'INTREA, idest, si fanno tre in 
+persona.
+
+	|59.~  QUASI SPECCHIATO, idest, quasi per reverberatione che fussero 
+molti specchi che reverberassero percossi da un istesso lume, che, 
+ancor che il reverberio si divida in tanti specchi, il lume, che loro 
+il d@a, sta per@o unito; IN NOVE SUBSISTENTIE, che sono nove cori 
+angelichi.
+
+	|61.~  QUINDI, da questi angeli e prime intelligenze, A L'ULTIME 
+POTENTIE: chiama i cieli.
+
+	|63-65.~  CHE PI@U NON FA CHE BREVI CONTINGENTIE, che sono le cose 
+produtte in questo mondo elementare; ^contingentie~ sono cose che ponno 
+essere e non essere, e non sono a necessit@a.  Che io sia nato, non @e 
+necessit@a: potea cos@i non nascere; ma che 'l sole non luca e che i 
+cieli non girino, non potea essere, e per@o questo @e di necessit@a, e 
+perci@o di sopra, parlando di essi, disse ^potentie~, et esso stesso si 
+dichiara che sono ^contingentie~.
+
+	|66.~  CON SEME E SENZA, perch@e sono molte cose che i cieli producono 
+senza seme, come nel Purgatorio vedemmo di molti alberi; IL CIEL 
+MOVENDO, che, se non movesse, non averia virt@u di produrre tutto in 
+tutte le parti tutte le cose.
+
+	|67-69.~  LA CERA, chiama la materia de le cose elementale, DI 
+COSTORO, di queste contingentie, E CHI LA DUCE, che sono i cieli, NON 
+STA D'UN MODO, perch@e il cielo continuamente si volge e la materia 
+continuamente si corrompe; E PER@O SOTT'IL SEGNO IDEALE: dice ^segno~ 
+perch@e ha detto ^cera~; ^segno ideale~ chiama ogni stella che forma il 
+corpo secondo la sua virt@u; PI@U E MEN, secondo che se trova 
+proportionata col suo pianeta ^la cera~.
+
+	|70-71.~  UN MEDESMO LEGNO SECONDO SPETIE, idest, in due alberi d'una 
+medesma qualit@a, tutt'e due pomi, uno @e bono e l'altro @e rio.
+
+	|73.~  A PONTO, idest, perfettamente, perch@e ha detto ^la cera di 
+costoro non sta ad un modo~.
+
+	|74.~  E FUSSE IL CIEL IN SUA VIRT@U SUPREMA, che @e questo che ha 
+detto ^e chi la duce non sta ad un modo~.  Vol dire che, se la materia 
+fusse trovata ben disposta del padre e della madre a produrre un figlio 
+armigero, e aspettasse di generarlo a tempo che Marte fusse nella parte 
+del cielo ove @e la sua maggior virt@u, quello tale valerebbe in arme 
+secondo la virt@u che pu@o infonder Marte tutta in uno, e cos@i 
+d'ogn'altra cosa.
+
+	|75.~  DEL SUGGEL, dice per star nella metafora.
+
+	|76.~  LA NATURA, che sono i cieli.
+
+	|79-81.~  IL CALDO AMOR, che @e lo Spirito Santo, LA CHIARA VISTA, 
+ch'@e il Figlio, DELLA PRIMA VIRT@U, ch'@e il Padre: due altre volte ha 
+ripigliata la Trinit@a; SEGNA, per star nella metafora.  TUTTA LA 
+PERFETTIONE, perch@e egli non @e mutabile come sono i cieli.  DI TUTTA 
+L'ANIMAL PERFETTIONE, idest, de' primi animali, produtti da Dio, e per 
+questo risponde a quel che @e detto di Adam che @e perfetto.
+
+	|82.~  COS@I FU FATTA LA VERGINE PREGNA, che risponde a quel che ha 
+detto di Cristo.
+
+	|92.~  PENSA CHI ERA, cio@e re, E LA CAGION, che fu per governar il 
+regno suo.
+
+	|93.~  FU DETTO, da Dio, CHIERE, idest, demandi: @e imperativo e vien 
+da la lingua spagnola; il Petrarca disse: <ti chier merc@e>, e per 
+esser inteso dichiar@o Dante la forza del vocabulo con la voce 
+seguente, ^a dimandare~.
+
+	|95-96.~  CH'EI FU RE, che risponde a quel che disse ^pensa chi era~, 
+CHE CHIESE SENNO, ACCI@O CHE RE SUFFICIENTE FUSSE, che @e quello che 
+disse ^e la cagion che 'l mosse~.
+
+	|97.~  NON PER SAPER, che sono cose pertinenti al teologo; ENNO, 
+idest, sono.
+
+	|98~.  LI MOTOR, che sono quelle intelligentie che movono i cieli; O 
+SE NECESSE, che sono, come ho detto, le cose celeste, ch@e il volgersi 
+de' cieli, il lucer del sole e il levar e tramontar sono necessarie 
+cose.
+
+	|99.~  CONTINGENTE, che sono le cose del mondo elementale.
+
+	|100.~  NON SI EST DARE PRIMUM MOTUM ESSE, perch@e secondo l'oppinione 
+d'Aristotele il cielo e il moto di esso non ha principio, e cos@i vuole 
+che 'l mondo non abbia  principio, ch'@e contra l'oppinione cristiana e 
+platonica.
+
+	|106~.  E SE AL SURSE, perch@e disse ^mai par non sorse~.
+
+	|111.~  DEL PRIMO PADRE, che @e Adam, E DEL NOSTRO DILETTO, ch'@e 
+Cristo,
+
+	|112.~  E QUESTO, cio@e il distinguere.
+
+	|118.~  EGLI 'NCONTRA, idest, adviene.
+
+	|121-123.~  VIE PI@U, idest, molto pi@u, e ci@o dice perch@e il 
+pescatore, tornando, torna senza peze, ma questo torna avendo preso 
+l'oppenion falsa, che @e peggio.
+
+	|125.~  PARMENIDE etc., che sono filosofi.
+
+	|127.~  S@I F@E SABELLO etc., e questi furon teologi.
+
+	|128.~  SPADE, perch@e le guastarono e ruper, come fanno le spade.
+
+	|129.~  IN RENDER TORTI LI DERITTI VOLTI: avendo detto ^spade~, sta su 
+la metafora; se una spada percote il viso d'uno, lo fa torto che prima 
+era deritto: cos@i questi teologi, che scrissero male, feron parere le 
+scritture sante, ch'eran bone e vere, false; male l'intese il Landino.
+
+	|130-131.~  NON SIAN LE GENTE: risponde ora a quelle parole ch'avea 
+detto nel canto X di Salamone pure, ^che tutto il mondo l@a gi@u n'ha 
+gola di saper novella~.
+
+	|139.~  DONNA BERTA E SER MARTINO, idest, il vulgo.
+
+	|142.~  PU@O SURGER, ch'@e il ^furar~; QUEL PU@O CADERE, ch'@e l'altro 
+^offerire~: vuol dire che, ancor che Salamone avesse peccato, potea al 
+fin salvarsi.

@@ -1,0 +1,1893 @@
+	|1.  Vergine~: nella preghiera-inno alla Vergine,
+universalmente celebrata come <l'ultimo suo> raggiunto dalla
+lirica italiana nel campo dell'innografia religiosa e nell'ambito
+di un certo gusto e di una certa tradizione, e che si leva a voce
+trionfalmente sonora e piena sull'ultima curvatura dell'ardua
+spirale lungo cui si @e svolto l'ideale itinerario, Dante ha
+rifuso e stretto in compatta sinfonia, l'^Ave Maria~ e il ^Salve
+Regina~, nonch$e i motivi-chiave, si vuol dire dottrinalmente
+stabilizzati e immutabili, della innografia liturgica, e cio@e
+ufficiale, che fa capo al tema della Vergine.  Tema classico, per
+cos@i dire, e particolarmente caro ai mistici (come conferma,
+appunto, l'orante San Bernardo) e intorno al quale era fiorita
+non solo un'abbondante innografia non-ufficiale (abbiamo un inno
+alla Vergine, ad es., di San Bonaventura), ma anche una vasta
+letteratura dottrinale <De Virgine> o mariologica che da
+Sant'Ambrogio, attraverso Riccardo di San Vittore e San Bernardo,
+arriva ai tempi di Dante.  La preghiera-inno @e stata tanto, e
+tanto dottamente illustrata nei suoi raccordi e substrato
+teologici e biblico-liturgici, ed esteticamente analizzata
+(Pistelli, Momigliano, Chimenz, ecc.), che abbiamo francamente,
+ritegno ad insistere in tema.  Osserveremo semplicemente, e in
+margine, che se la preghiera alla Vergine, posta in bocca a San
+Bernardo per le ragioni da questo addotte alla fine di ^Par.~,
+XXXI, e per quei titoli di ardente <fedele> (cfr. ^Par.~, XXXI,
+100-102) che lo facevano presumere <oratore> particolarmente
+autorevole presso la <Regina del cielo>, da un lato risponde ai
+postulati della dottrina mistica; esclude, dall'altro, e
+rigorosamente gli straripamenti affettivi e le abbondanti
+smarginature esclamative che caratterizzano i mistici in genere,
+e la citata ^Meditatio~ e altri sermoni in tema dello stesso San
+Bernardo.  Il suo stile, al pari del suo svolgimento, fiammante
+ma lucidamente ordinato e concatenato, @e quello di una sicura e
+dominata utilizzazione degli elementi <classici>, dottrinali
+compresi, del tema, disposti in una succensione razionalmente e
+oratoriamente calcolata, per cui dall'iniziale, e quasi
+trionfale, messa in campo dei titoli pi@u arcanamente misteriali
+si passa, gradatamente, alla rassegna degli altri e luminosi
+titoli di perfezione e misericordiosa potenza della Vergine,
+stringendosi poi l'inno nella dichiarazione del suo scopo, e per
+questa via risolvendosi in preghiera e in oratoria perorazione. 
+La serrata e vigorosa economia della preghiera-inno risulter@a
+tanto pi@u evidente quando la si confronti con la studiosamente
+elegante e sinuosa orchestrazione della canzone alla Vergine con
+cui il Petrarca ha voluto chiudere il suo ^Canzoniere.~  Viene
+poi spontaneo il richiamo al ^Padre nostro~ recitato dai superbi
+nell'undicesimo del ^Purg.~, preghiera maturata, sar@a bene tener
+presente, in tutt'altro clima psicologico e morale, e di men
+compatta fusione, essendovi pi@u nettamente tracciate, e visibili,
+le linee che dividono la preghiera dal commento o sua
+integrazione dottrinale.  -- |madre~: l'uso di esaltare, e
+definire, la Vergine per via di antitesi concettuali fissate in
+diadi verbali di gusto scopertamente concettoso, era comune e
+quasi di rigore nella letteratura mariologica, e larghe tracce ne
+son rimaste nel linguaggio liturgico.  In esse @e toccato
+l'aspetto misteriale del tema: predicare infatti delle antitesi
+assiomaticamente conciliate, l'umanamente impossibile come
+naturale e normale, significa collocare la Vergine al di fuori
+delle condizioni della comune umanit@a, e postulare l'idea di
+miracolo o di arcano intervento.  Maria, sar@a appena necessario
+spiegare, avendo concepito <ex Spiritu Sancto>, in deroga dalle
+leggi naturali, rimase Vergine pur generando da s@e Cristo, il
+Dio-Uomo: del quale, in quanto uomo, era madre; ma in quanto Dio
+era figlia, creatura.  Le diadi, si pu@o facilmente osservare:
+sono tre (|vergine-madre~; |figlia-figlio~; ^umile-alta~ {v.2}):
+la prima pone il mistero, generando da s$e e integrandosi nella
+seconda; la terza chiarisce la causa e insieme l'effetto della
+scelta privilegiata della Vergine a madre del Dio-Uomo.  <Dei
+genitrix Virgo>... <genuisti qui te fecit> canta la Chiesa; <Deum
+et hominem... nec non eandem Matrem et Virginem profitemur>
+scrive Dante nell'^Epist.~ ai Cardinali; e Cavedoni e Poletto
+citano alcuni passi dei ^Sermoni~ di San Bernardo (tra cui ^In
+Adventum~ e ^In Assumptionem B. Mariae V.~) in cui ricorrono
+espressioni affini, del resto assai vulgate: <Virgo Mater...
+Matris Pater (^Cristo~)... humilitas... sublimitas> ecc.  L'idea
+di un concepimento e di una generazione <verginali>, ai tempi di
+Dante, appartenevano al novero delle verit@a sostanzialmente <de
+fide>, ma non nettamente definite nei loro vari e complessi
+aspetti dottrinali: la proclamazione formale del dogma
+dell'Immacolata Concezione, com'@e noto, avvenne solo nel 1854.
+
+	|2.  umile e alta~: nell'umilt@a davanti a Dio la
+grandezza (^Luca~, XIV, 11), e nella prima la condizione della
+seconda.  La Vergine, nell'atto di pronunziare <ecce ancilla
+Dei>, rappresenta l'esempio massimo di umilt@a, nei bassorilievi
+di ^Purg.~, X; e cos@i canta nel suo <canticum> dopo
+l'annunciazione dell'angelo: <Magnificat anima mea Dominum...
+quia respexit humilitatem ancillae suae: -- ecce enim ex hoc
+beatam me dicent omnes generationes -- quia fecit mihi magna qui
+poteas est>.  -- |creatura~: <eccedente la condizione di
+creatura, perocch$e innalzata a esser madre di Dio> (Lombardi);
+^recettacolo~ dell'Essere al quale, per definizione, ogni
+creatura @e recettacolo infinitamente inadeguato (^Par.~, XIX,
+49-51).
+
+	|3.  termine~: l'oggetto-scopo dell'azione <consigliata>
+idest pensata e deliberata, che in esso |termine~-scopo ha pure
+il suo |termine~-limite, o fine, in senso proprio.  Cos@i secondo
+la definizione di San Tommaso citata dal Tommaseo e dal
+Fraticelli, e nella dottrinale sequenza con cui si definisce il
+perfetto <procedere>: pensiero-atto-fine.  -- |fisso~: nel pi@u
+pregnante significato del termine: immutabile perch$e <fissato> da
+Dio, nei cui deliberati non @e mutamento, e da lui ab aeterno
+preconosciuto come termine di un atto anch'esso gi@a preconosciuto
+ab aeterno.  E quindi, poich$e a Dio non pu@o esser <mozzo> il fine
+(^Inf.~, IX, 95), e il conseguimento del fine avviene <ex
+necessitate>: necessario termine di un atto che, in quanto
+deliberato, si verificher@a, e in relazione a quel (e non altro)
+previsto fine.  -- |etterno~: di Dio solo, e in assoluto
+predicabile, e quindi; divino, di Dio.  <La essecuzione de lo
+etterno consiglio>, in ^Conv.~, IV, 5; e ^Proverbi~, VIII, 22-30:
+<Dominus possedit me in initio viarum suarum...  Ab aeterno
+ordinata sum>.  Ma in tutto il verso, dottrinalmente pregnante,
+si addensano echi di espressioni scritturali e liturgiche.  --
+|consiglio~: ^nell'abisso~ -- ^del tuo consiglio~ in ^Purg.~, VI,
+121 sg.; ^nello abisso~ -- ^dell'etterno statuto~ in ^Par.~, XXI,
+94 sg.
+
+	|5-6.  nobilitasti~: nobilt@a @e perfezione, e nella
+Vergine fu il massimo di perfezione dell'umana natura ond'essa
+potesse accogliere degnamente l'infinitamente perfetto, com'@e
+spiegato, in termini pi@u formalmente dottrinali, da San Tommaso
+in ^Par.~, XIII, 51-84: dove la perfezione della ^Vergine pregna~
+@e dedotta, consequenziariamente, dalla perfezione del Dio-Uomo. 
+-- |fattore~... |fattura~: equivalenti di ^creatore-creatura~, e
+in diade, come gi@a in ^Purg.~, XVII, 102 e ^Par.~, XXVI, 83. 
+Cristo si fece |fattura~ dell'|umana natura~ in quanto,
+assumendosi il grave carico dell'umanit@a, volle esser figlio di
+donna, com'@e ogni comune mortale, concepito e formato in seno di
+donna.  Per questo, -- cos@i in ^Giov.~, I, 14 -- <Verbum caro
+factum est>.  -- |non disdegn@o~: si cita da un inno di
+Sant'Ambrogio: <Tu ad liberandum suscepturus hominem, non
+horruisti virginis uterum>.  <Disdegnare> richiama <degna>,
+l'esser degna dell'umana natura nella perfezione della Vergine. 
+-- |farsi~: <factum est> nel testo di Giovanni citato qui sopra:
+il verbo esprime iniziativa, volont@a di fare una cosa.  -- |sua
+fattura~: |sua~ dell'umana natura; donde il nobilitarsi di
+questa, assunta, consustanzialmente assunta nella <divina> natura
+del Verbo?  Questo il senso, certamente, e cos@i s'interpreta in
+genere; ma ne viene una ripetizione di |suo-sua~, e senza
+variazione di significato, che non @e nel gusto di Dante; e va
+anche perduto il concettoso conio di |sua fattura.~  Il primo
+|suo~ @e dell'^umana natura~ {v.4}, ma il secondo |sua~ @e del
+|fattore~ stesso, che fa s$e |sua~ (propria) |fattura~ (cosa
+creata): ch'@e appunto, e con tutta precisione tecnica,
+definizione di uomo: fattura di Dio.  |Sua fattura~, nello stesso
+significato, in relazione a |fattore~, in ^Purg.~, XVII, 102.
+
+	|7.  ventre~: il |ventre~ -- ^che fu albergo del nostro
+desiro~ (^Par.~, XXIII, 104-105); <albergo... mondissimo e
+purissimo... dove il celestiale rege intrare dovea... a fare
+questa concordia (tra Dio e l'uomo) ...camera del Figliuolo di
+Dio> (^Conv.~, IV, 5).  Dalla parola, di origine scritturale e
+rimasta nella preghiera comune (<benedictus fructus ventris
+tui>), va espunto il gravame ch'essa porta seco nell'uso
+corrente: @e usata, si vuol dire, nel suo significato sacrale. 
+Cfr. ^Par.~, XXIII, 104-105; XXI, 84. -- |si raccese~: si
+riaccese.  La creazione del primo uomo era stata un atto di
+amore, ma dopo il peccato originale incombeva sull'uomo, triste
+retaggio, l'ira di Dio (cfr. ^Par.~, VI, 90): e nuovo sublime
+atto d'amore fu l'Incarnazione (cfr. ^Par.~, VII, 33), che
+realiazz@o le condizioni per la riconciliazione di Dio con l'uomo. 
+In San Paolo, ^Ef.~, II, 3: <eramus natura filii irae>.
+
+	|8.  caldo~: con valore intensivo, deducibile
+dall'effetto: intenso, fecondante calore: ^quel caldo~ -- ^che fa
+nascere i fiori e' frutti santi~ (^Par.~, XXII, 142; e ^caldo
+d'amore~, infine, ^Par.~, XXXI, 140; |caldo~, come estremo
+contrapposto a ^gelo~, in ^Inf.~, III, 87; |caldo~, della pece
+bollente, ibid. XXII, 142; e ^caldo d'amore~, infine, in ^Par.~,
+V, 1.  -- |etterna~: divina, celeste; cos@i in ^Purg.~, XXVIII,
+93; ^la divina pace~ in ^Par.~, II, 112 ecc.  E cfr. v. 3.  --
+|pace~: usitato nei Vangeli e nel linguaggio rituale.  Applicato
+al Paradiso -- e usitatissimo nella terza cantica -- designa
+comprensivamente la condizione del vivere in Dio: felicit@a,
+appagamento, serenit@a ecc.  La pace -- nella definizione di
+^Mon.~, I, 4 -- @e <optimum corum que ad nostram beatitudinem
+ordinantur>.
+
+	|9.  cos@i~: richiama l'idea parallela e sottintesa: come
+al calore dei raggi solari, in terra, il germe si svolge a
+|fiore~; |cos@i~ il divino germe maturato nel seno -- della
+Vergine ecc.  Ma @e pur segnata la mistica e prodigiosa
+differenza: campo, giardino terrestre (^ventre~ {v.7} di donna);
+fiore celeste, e <perpetuo> (cfr. ^Par.~, XIX, 22).  -- |@e
+germinato~: il |fiore~ non germina propriamente, ma @e prodotto
+dallo svolgersi del germe: nel verbo, di conseguenza, Dante ha
+condensato concettosamente l'idea del fecondo svolgersi del
+processo vitale dal germe (l'Incarnazione) al fiore (benefici
+effetti dell'Incarnazione).  -- |questo~: specificante: veramente
+prodigioso fiore.  -- |fiore~: la metafora del |fiore~, a parte
+il fatto che i beati erano apparsi a Dante ^in forma di candida
+rosa~ (cfr. ^Par.~, XXXI, 1-3), @e un po' un leit-motiv della
+letteratura mariana.  Si citano, tra i tanti: <in Virginis
+utero... lilii floris gratia germinabat> (dal sermone ambrosiano
+^De iust. Virg.~, 91); e <Virginis alveus floruit... inviolata...
+Mariae viscera... florem protulerunt> dal sermone ^In Adv. Dom.~,
+II, 4 di San Bernardo.  Ma gi@a in un passo di ^Isaia~ (XI), cit.
+in ^Conv.~, IV, 5, <egredietur virga de radice Iesse, et flos de
+radice eius ascendet>.  E ^Par.~, XXVIII, 115 sg.: ^germoglia~ --
+^in questa primavera sempiterna.~
+
+	|10.  Qui~: nell'Empireo.  -- |meridiana face~: fiaccola
+(massimamente) ardente; come pi@u arde e brilla il sole quando si
+trova sul ^cerchio di merigge~ o meridiano di un luogo, cio@e a
+mezzogiorno (cfr. ^Purg.~, XXV, 2; XXXIII, 104).  Anche una
+stella brilla al massimo trovandosi allo zenith: ma il paragone
+sottinteso sar@a con l'astro massimo.  In San Bernardo, ^Serm. in
+Assumpt. B. V.~, II, 9: <gloriosa Virgo, cuius lampas
+ardentissima, ipsis quoque angelis miraculo fuit>.  L'appellativo
+|face~ ne richiama altri, affini, e gi@a applicati agli angeli e
+ai beati: ^fiamme~... ^incendi~... ^fuochi~... ^facelle~...;
+^ardenti soli~, in ^Par.~, X, 76.
+
+	|12.  di speranza~: <Vita, dulcedo, spes nostra>, nel
+^Salve Regina.~  -- |fontana vivace~: sorgente abbondante e
+vivificatrice: <fons vivus> nell'inno della Chiesa: <aqua viva...
+fons aquae salientis in vitam aeternam> in ^Giov.~, IV, 10-14
+(nell'episodio della Samaritana).  |Fontana~, sorgente in
+^Purg.~, XXXIII, 113; ^etterna fontana~, Dio in ^Par.~, XXXI, 93:
+<fonte vivo> in ^Conv.~, I, 1.
+
+	|13.  Donna~: signora: appellativo aulico, dal lat.
+<domina>; e ^Nostra Donna~ alla francese (^Par.~, XXI, 123).  --
+|vali~: puoi, sei potente: potenza conseguente alla <grandezza>,
+nobilt@a di rango e grandezza di meriti.  <Virgo potens>,
+litaniando.
+
+	|14.  grazia~: poich$e la |grazia~ @e ci@o che Dio concede
+in soprappi@u rispetto al merito, e non @e strettamente dovuto
+(secondo giustizia), la richiesta abbisogna di un appoggio
+autorevole e potente presso Dio: e tradizionalmente vantata come
+potentissima, la Vergine.  Il Cavedoni cita ancora da San
+Bernardo: <Nihil nos Deus habere voluit, quod per Maria manus non
+transiret...  Quaeramus gratiam, et per Mariam quaeramus>.  --
+|vuol~: desidera, brama; e cos@i <voglia>, desiderio: qui un
+<volere> sfumato in idea di scarsa ragionevolezza.
+
+	|15.  sua~... |sanz'ali~: vuol l'impossibile, non otterr@a
+nulla.  Modo proverbiale, frequente negli scrittori ducenteschi,
+come ampiamente illustrato dal Barbi, ma di ben pi@u lontane
+ascendenze letterarie e popolari.  Plauto: <sine pennis volare
+haud facile> (^Poenulus~, 741), <Age sis, tu sine pennis vola>
+(^Asinaria~, 79).  Il termine |disianza~, nota il Campi, nobilita
+il tono popolaresco: e il giro proverbioso, aggiungiamo, @e
+segnato dallo stacco sintattico: ^qual vuol~ {v.14}... |sua
+disianza.~
+
+	|16.  benignit@a~: <benignus> -- nella definizione
+isidoriana (^Etim.~, X) -- <est vir ad beneficiendum paratus, et
+dulcis alloquio>: e alla <benignitas>, attinente <ad
+beneficientiae executionem>, @e associata idea o atto d'amore o
+benevolenza, secondo San Tommaso, ^S. T.~, I, II, 70, 3; II, II,
+80.  Si ricordino la ^benigna~... ^sedia~ pontificale di ^Par.~,
+XII, 88; la ^gente~... ^benigna~ come madre a figlio di ^Par.~,
+XVI, 58 sgg.; la ^benigna letizia~ di San Bernardo (^Par.~, XXXI,
+62); e il ^benigno riguardo~ dello Scaligero (^Par.~, XVII, 73). 
+-- |pur~: solamente.  -- |soccorre~: nel senso etimologico: si
+fa, viene incontro; cfr. ^Par.~, XXII, 4.
+
+	|18.  liberamente~: liberalmente; come in ^Par.~, XXXII,
+2.  Liberalit@a, spiega il Buti, <@e larghezza di donare da s$e
+medesma mossa>.  -- |al~... |precorre~: pre-corre, corre innanzi,
+previene.  E questa, secondo ^Conv.~, I, 8, @e <pronta
+liberalitate... sanza essere domandato lo dono, dare quello...>
+atto virtuoso se <lieto nel dare e nel ricevere... e utile... e
+libero...>; atto libero avendosi <quando una persona va
+volentieri ad alcuna parte, che si mostra nel tener volto lo viso
+in quella...>.  Dante cita Seneca, ma il motivo, riferito a Dio,
+ricorre largamente nella Bibbia: <Antequam clament ego exaudiam>
+(^Isaia~, LXV, 24); <Praevenisti eum in benedictionibus
+dulcedinis>, <Misericordia eius praeveniet me> (^Salmo~, XX, 4 e
+LXXVIII, 8, ecc.).
+
+	|19-20.  misericordia~... |pietate~: nelle litanie e nel
+^Salve Regina~: <Mater misericordiae...  Virgo potens, Virgo
+clemens> ecc.  |Misericordia~, definisce Dante in ^Conv.~, I, 1,
+<@e madre di beneficio> e perci@o <sempre coloro che (hanno)
+porgono de la loro buona ricchezza a li veri poveri...>. 
+L'esatto significato del termine, distinto da <piet@a>, si ricava
+meglio da un altro passo di ^Conv.~, (II, 10): <Non @e pietade
+quella che crede la volgar gente, cio@e dolersi de l'altrui male,
+anzi @e questo uno suo speziale effetto, che si chiama
+misericordia ed @e passione; ma pietade non @e passione, anzi @e una
+nobile disposizione d'animo, apparecchiata di ricevere amore,
+misericordia e altre caritative passioni>.  I tre vocaboli, di
+conseguenza, risultano disposti in ordine ascendente, culminando
+nel pi@u nobilmente regale |magnificenza~, che Dante, nota il
+Pistelli, ha riservato ai tre elogi pi@u solenni: di Cangrande
+(^Par.~, XVII, 85), di Beatrice (ibid. XXXI, 88), e qui, in
+vetta, della Vergine.  -- |magnificenza~: cfr. ^Par.~, XVII, 85 e
+XXXI, 88.  -- |s'aduna~: @e adunato, concentrato; si trova (il
+molto nell'<uno>).
+
+	|21.  quantunque~: con valore intensivo: tutto quanto di
+|bontate~, perfezione (@e pensabile e reperibile) in |creatura~,
+essere creato da Dio; escludendosi cos@i quest'ultimo dal
+confronto, e conservandosi invece il rapporto tra l'uomo e la
+Vergine, perfettissima, ma pur essa |creatura.~  Cfr. ^Par.~,
+VIII, 103.  -- |bontate~: nella stretta di chiusa, rapidamente
+riassuntiva, l'inno si muta in preghiera, dichiarando il proprio
+fine e l'oggetto della richiesta.  <Et quia finis proximus>,
+commenta Benvenuto, <non permittit discurrere per singulas
+virtutes Mariae, ideo beatus Bernardus colligit omnes sub
+vocabulo bonitatis>.
+
+	|22-24.  Or~: razionalmente consequenziale e per una
+doppia ragione: Dante, per bocca di San Bernardo, si rivolge alla
+Vergine per le ragioni contenute nell'inno; ma n$e inno n$e
+preghiera sono razionalmente pensabili senza un movente e un
+fine, la razionalit@a di una cosa o atto definendosi nel rapporto
+causa-fine.  Nella necessit@a del richicdente, inoltre, la liceit@a
+della preghiera o del chiedere; e nell'<utile>, sempre secondo il
+gi@a citato passo di ^Conv.~, la <virt@u, del donare.  E si noti,
+infine, che l'inno ha preceduto la preghiera, conformemente alle
+pi@u classiche norme dell'oratoria, condizionanti l'accoglimento
+della richiesta con la <captatio benevolentiae> (cfr. ^Epist.~ a
+Cangrande).  -- |questi~: Dante.  -- |dall'infima lacuna~:
+dall'Inferno, genericamente, il cui fondo coincide con
+l'<infimo>, col punto pi@u basso o centro dell'universo fisico
+(cfr. ^Inf.~, IX, 29; ^Quaestio~, III, ecc.).  |Lacuna~,
+tuttavia, come rilevarono gi@a il Monti (^Proposta~, III, 1) e il
+Cesari, @e usato nel senso proprio del vocabolo, che in latino
+(dalla stessa radice di <lacus>) aveva il doppio significato di
+pozza d'acque morte e di cavit@a o vuoto: significato,
+quest'ultimo, passato nel lessico architettonico latino, e
+rimasto nell'uso corrente.  ^Fondo a tutto l'universo~, in
+^Inf.~, XXXII, 8; ^bassissimo pozzo~, ibid. XXIV, 38: cos@i @e
+probabile che Dante abbia usato il vocabolo nel significato di
+voragine o cavit@a o abisso (cfr. ^Inf.~, IV, 24), indicando con
+<infimo> la sua parte pi@u bassa, corrispondente al centro del
+mondo, segnando il punto-limite estremo, perch$e pi@u significativo
+del viaggio.  <Profundus lacus> @e detto l'Inferno nell'Ufficio
+funebre dei Defunti, con espressione tratta da Geremia e qui
+vagamente richiamata: dove <lacus>, peraltro, vale: cavit@a,
+lacuna: ch'@e il significato in cui riteniamo che il vocabolo
+ricorra qui, in un costrutto latineggiante (affine a quello di
+^in mezzo mar~ di ^Inf.~, XIV, 94), e con significato di:
+dall'infimo, dal punto pi@u basso della cavit@a (infernale).  @E
+segnato il punto-limite estremo perch$e il pi@u significativo, ma
+includendosi, ovviamente, tutto il precedente viaggio infernale. 
+Secondo altra interpretazione |infima lacuna~ designerebbe
+limitatamente lo stagno di Cocito e (Torraca) San Bernardo
+accennerebbe solo al viaggio di Dante da quel punto in poi.  Ma
+non si vede la ragione di una limitazione del genere: |vite
+spiritali~, del resto, l'attuale viver nell'oltretomba degli
+angeli, sostanze pure; e degli uomini in condizione di <spiriti>,
+di sostanze momentaneamente separate dalla loro materia o corpo. 
+^Vita etterna~, l'oltretomba, Inferno compreso, in ^Inf.~, XII,
+50-51; e le |vite spiritali~, poi, @e chiaramente precisato, Dante
+ha vedute |ad una ad una~, in ordine e successione.
+
+	|25.  supplica a te~: cos@i in ^Par.~, XV, 85; XXVI, 94. 
+-- |per grazia~: per la tua graziosa, generosa intercessione.  --
+|virtute~: forza: quanto ci fa <virtuati> -- propriamente -- ci
+mette in grado di far qualcosa.
+
+	|26.  levarsi~: elevarsi: <elevari> nel latino
+dell'^Epist.~ a Cangrande: <levavi oculos meos in montes> in
+^Salmo~, CXX, 1.  -- |con gli occhi~: occhi intellettivi,
+nell'atto intellettivo essendo l'<ultimo> dell'umana perfezione.
+
+	|27.  l'ultima salute~: Dio, suprema salvezza dell'anima;
+ma con implicazione dei concetti correlativi e, come sempre,
+intercambiabili: Dio essere il <primo-ultimo> di ogni perfezione;
+nel conseguimento della propria perfezione l'uomo raggiungere il
+proprio fine e la propria |salute~ (salvezza): e somma e termine
+di tutto questo essere in Dio, del quale, notiamo per l'ennesima
+volta, <ultimo>, in assoluto, @e unicamente predicabile. 
+L'espressione @e gi@a in ^Par.~, XXII, 124 ma il vocabolo |salute~
+ricorre anche ibid. XIV, 84 (^in pi@u alta salute~); VIII, 102;
+XXVIII, 67; e XXXI, 80, come anello della catena concettuale
+virt@u-forza-perfezione-|salute.~  ^Salmo~, XXXIV, 3: <Salus tua
+ego sum>.
+
+	|28.  veder~: <ha vedute, levarsi con gli occhi>, sopra:
+insistenza notabile, e nello stile del mistico, per il quale le
+varie tappe dell'ideale itinerario sono preparazione alla visione
+diretta di Dio, alla <contemplatio> estatica, gi@a oggetto,
+afferma San Bernardo, dei suoi pi@u ardenti desideri in terra. 
+|Per veder~, di conseguenza, avr@a valore finale: restandosi cos@i
+nei limiti della dottrina mistica e bernardiana, secondo cui non
+il <vedere> condiziona l'<ardore>, s@i questo quello.  -- |arsi~:
+verbo dei moti affettivi e, nel poema, sempre usato come tale. 
+<Caritate ardere>, in ^Mon.~, III, 3; ^pi@u non arse la figlia di
+Belo~ in ^Par.~, IX, 97; ^vampa del~... ^disio~ ^Par.~, XVII, 7;
+^disio~... ^ond'io ardeva~ ^Par.~, XXVI, 90; ecc.
+
+	|29.  pi@u~... |suo~: e questa @e vera carit@a, desiderare
+l'appagamento del desiderio altrui come fosse proprio,
+conformemente al precetto evangelico, ritualmente citato di
+rincalzo: <Diliges proximum tuum sicut te ipsum> (^Matteo~, XIX,
+19).  In |suo~, San Bernardo si fa anche garante dell'esistenza,
+nel poeta, di un desiderio-ardore non inferiore al suo proprio. 
+E ^mio~ {v.28}, sopra: un |suo~ (di altri) fatto, caritativamente
+^mio~ {v.28}, e generante preghi |miei.~
+
+	|30.  priego~... |scarsi~: modo concettosamente
+diplomatico: il pi@u ardente <fedele> della Vergine porge a questa
+<tutte> le sue preghiere, e <prega> (non: chiede o si augura,
+considerando la loro accettazione come grazia) ch'esse non siano
+scarse, insufficienti (ma ben sapendo che alla Vergine
+riusciranno tanto pi@u accette quanto pi@u sono altruistiche). 
+^Inf.~, XXVI, 65-67: ^assai ten priego~ -- ^e ripriego che il
+priego vaglia mille~, dove il giuoco verbale @e pi@u insistito e
+scoperto; ^quanto posso, ven preco~ in ^Inf.~, XV, 34; <omnibus
+precibus orare>, in latino.
+
+	|31-32.  nube~... |mortalit@a~: la condizione di
+|mortalit@a~ (cfr. ^Par.~, XV, 82), di anima ancor unita al corpo,
+@e limitante: come |nube~, per restare nell'ambito del motivo
+(<vedere>), offuscante i raggi del sole.  <Nubem quae... mortales
+hebetat visus tibi... eripiam> in ^En.~, II, 605; <consortium
+mortalitatis... homo circumferens mortalitatem> in Sant'Agostino,
+^Conf.~, I, 1.  Lo stesso significato, nel linguaggio evangelico
+e apostolico, ha il termine <carne>: ^ombra della carne~ in
+^Par.~, XIX, 66; <tenebrae entium et phantasmata rerum
+sensibilium> in San Bonaventura (^Itinerarium~, V); <ignorantie
+nebula> e <regnum nostre mortalitatis> in ^Mon.~, II, 1; e III,
+15; e, infine, ^occhio surpriso d'alcuna nebbia~ in ^Purg.~, I,
+97-98.  -- |disleghi~: usato sempre nel significato di
+sciogliere, liberare (^Purg.~, XXV, 31; XXXIII, 120; ^Par.~,
+XXIV, 30); e qui, con audace stretta, legato a |nube~ con la
+corda della sottintesa metafora del nodo: la nube della
+|mortalit@a~ facente nodo, ostacolo.  <Dislegare la veduta>, in
+^Purg.~, XXV, 31.
+
+	|33.  sommo piacer~: Dio, sommo bene -- bellezza --
+perfezione, nella cui contemplazione @e la <somma felicit@a> di
+ogni essere: <l'ultimo desiderabile> (^Conv.~, IV, 12), ^l@a 've
+ogni ben si termina e s'inizia~ (^Par.~, VIII, 87).  San Bernardo
+(^Serm. in Dom. infra Oct. Assumpt.~, 13): <Iam te, Mater
+misericordiae, Ecclesia mediatricem sibi apud Solem iustitiae
+constitutam devotis supplicationibus interpellat, ut in lumine
+tuo videat lumen, et Solis gratiam tuo mereatur obtentu> (cit.
+Cavedoni).  -- |dispieghi~: con valore intensivo: aprirsi e
+mostrarsi in tutta la sua ricchezza.  <Spiegare>, in significato
+affine, in ^Purg.~, XVIII, 23; e <spiegarsi>, liberarsi da un
+^nodo~, ibid. XVI, 54: ch'@e il suo segreto rapporto con
+^disleghi~ del v. 31.  Si tratta sempre di un <dispiegarsi> alla
+vista o contemplazione diretta, conformemente all'espressione gi@a
+usata da San Paolo (I e II ^Corint.~, XIII, 12 e III, 18):
+<videmus nunc per speculum et in aenigmate; tunc autem facie ad
+faciem... revelata facie gloriam Domini speculantes>.
+
+	|34-36.  puoi~... |vuoli~: in diade, e nello stesso
+significato della famosa formula-lasciapassare usata da Virgilio
+in ^Inf.~, III, 95; e V, 23-24: ^vuolsi cos@i col@a dove si puote~
+-- ^ci@o che si vuole.~  Una diversa applicazione in ^Purg.~, XXI,
+105: ^ma non pu@o tutto la virt@u che vole.~  Il <volere> della
+Vergine @e <potere>, perch$e @e il volere stesso di Dio, che nulla
+le nega, e il cui volere @e, assiomaticamente, potere.  --
+|sani~... |affetti~: tutto il viaggio @e stato un graduale
+risanamento degli |affetti~ (moti dell'anima) o, per dirla con
+Virgilio (^Purg.~, XVII-XVIII) e Beatrice (cfr. ^Par.~, I,
+103-125), dell'^amore~ o ^istinto~ riportati alla loro direzione
+prima e naturale, e indirizzati verso il loro oggetto o fine
+ultimo (Dio sommo bene-sommo vero), nel conseguimento del quale
+l'anima umana raggiunge l'<ultimo> della propria <sanit@a> o
+perfezione.  |Sani~, perci@o, sottintende idea di risanamento
+(^l'anima mia, che fatt'hai sana~ aveva detto Dante a Beatrice in
+^Par.~, XXXI, 89): e |affetti~, moti dell'anima concupiscibile
+donde provengono i pi@u gravi perturbamenti delle facolt@a
+razionali, @e parola usata coerentemente in rapporto tanto alla
+dottrina esposta da Virgilio e Beatrice (^Purg.~, XVII-XVIII;
+^Par.~, I, 103-125), quanto alla dottrina di San Bernardo che
+vede nell'ardore o sentimento il fattore principale del mistico
+itinerario dell'anima verso Dio.  ^Libero, dritto e sano @e tuo
+arbitrio~ aveva tuttavia dichiarato, con pi@u stretta osservanza
+aristotelica, Virgilio a Dante in ^Purg.~, XXVII, 140.  --
+|dopo~... |veder~: un |tanto~ pregnante, come il ^cotanto~ di
+^Par.~, I, 121; e inclusivo del |veder~ in s$e e insieme della
+cosa vista; Dio.  Nella vista del quale, si pu@o aggiungere, fa
+<summa> pur il |tanto~ veduto nel viaggio oltremondano.
+
+	|37.  Vinca~: freni, corregga, ma <vincere> esprime
+meglio, e con diplomatica accortezza, idea di intervento potente
+e risolutivo, e di gloriosa vittoria.  Cos@i <vince> Dio in
+^Par.~, XX, 94-99: vittoria della carit@a che, <vince>, ma perch$e
+vuol <esser vinta>.  -- |guardia~: (la tua amorevole e vigilante)
+custodia.  La stessa preghiera, in termini non molto diversi,
+Dante ha rivolto a Beatrice (^Par.~, XXXI, 88-90).  -- |movimenti
+umani~: i moti (dell'animo: <animi motus> in latino), propri
+dell'uomo, e a cui egli, come uomo vivente in terra, pu@o ancora
+andar soggetto, e passibili di errore e traviamento.  -- |umani~:
+e cio@e, come sempre, per deduzione assiomatica: deboli, fragili,
+e simili.  <Mortale>, altre volte, e nello stesso significato;
+<voi che vivete>, <vostro>, <l@a gi@u>, detto delle anime di
+^Purg.~ e ^Par.~  E cfr. ^Purg.~, XVI, 73.
+
+	|38.  vedi~... |beati~: ultimo e perorante rincalzo:
+nella preghiera di Bernardo, la preghiera di Beatrice e di tutti
+i beati.
+
+	|39.  per~: di mezzo: per mezzo delle mie preghiere:
+preghiere pronunziate ad alta voce, mentre i beati pregano in
+silenzio, limitandosi a congiungere le mani.  Affinch$e tu
+esaudisca le mie preghiere, spiegano il Vandelli ed altri: ma
+questo @e ovvio, e il motivo configurato @e quello di una catena di
+oranti: beati-Bernardo-Vergine-(Dio).  -- |preghi~: ripetuto tre
+volte (numero perfetto), e tre gli anelli dell'ascendente catena:
+beati-Bernardo-Vergine.  -- |chiudon le mani~: gesto rituale di
+preghiera: <giunger le palme> in ^Purg.~, VIII, 10.
+
+	|40.  Li occhi~: della Vergine, che resta regalmente
+maestosa e bella nel suo silenzio, divinamente trasfigurata al
+vertice verso cui converge la palpitante attesa dei beati; ma non
+arcanamente inaccessibile, come del resto si addice alla pietosa
+intermediaria tra Dio e l'uomo.  E un segno di regalmente gentile
+umanit@a @e proprio nello sguardo ch'essa posa sul suo ^fedel
+Bernardo~ (^Par.~, XXXI, 102), al quale, cos@i guardandolo, par
+concedere un attestato di graziosamente familiare e quasi
+privilegiato riconoscimento.  -- |diletti e venerati~:
+prediletti, amati, come di figlia; e venerati, come di madre;
+essendo, la Vergine (cfr. v. 1), ^madre e figlia~ del suo Figlio. 
+-- |diletti~: part. passato passivo.
+
+	|41.  orator~: oratore in senso proprio, interpretiamo,
+che ha di rincontro il suo uditore o <auditor>.  La qualifica di
+|oratore~-pregante si deduce da tutto il contesto; e gi@a
+nell'espressione ^santa orazione~ del verso finale del canto
+precedente, a ben guardare, l'aggettivo definiva soprattutto la
+natura particolare dell'orazione (nel senso oratorio) che in
+quanto ^santa~, indirizzata a Dio o alla Vergine o ai Santi, era,
+e doveva essere, ^orazione~-preghiera.  Secondo altri: il
+pregante, l'orante; e l'uso di <orare> e di <orazione> nel poema,
+in effetti, convalida anche quest'altra interpretazione. 
+|Oratore~, tuttavia, ricorre solo qui, e la preghiera di San
+Bernardo, nella sua elegante e spiegata strutturazione, tiene
+dell'<oratio> vera e propria.  -- |ne~: ci, a noi: ai beati e
+Dante, ma con possibile applicazione estensiva ai lettori o ai
+viventi in genere: l'affermazione infatti, nel verso che segue,
+si gira in sentenza.
+
+	|42.  devoti~: usitato, detto di preghiera.  --
+|prieghi~: per la quarta volta, ma inserito in una sentenza,
+assommando in un unico insegnamento i tre ^preghi~ dei vv. 29-39
+(3 pi@u 1).  -- |grati~: fonicamente richiama <grazia> e
+suggerisce l'altro concetto: la Vergine impetrante grazia, e
+graziosa donatrice.  Cfr. vv. 14, 18, 25.
+
+	|43.  indi~: di l@i, distogliendosi dal guardar San
+Bernardo.  -- |etterno lume~: a Dio, eternamente splendente.  @E
+variante di ^luce etterna~ (cfr. v. 124) a sua volta traduzione
+di <lux aeterna>, del linguaggio rituale.  -- |si drizzaro~:
+indica tanto riporto alla direzione normale (anche la Vergine sta
+con l'occhio sempre fisso in Dio), quanto la privilegiata potenza
+dello sguardo, simile a quella con cui Beatrice -- in ^Par.~, I,
+47 sg. -- ha guardato il sole: ^aquila s@i non li s'affisse
+unquanco.~  Questa maggior potenza di visione, concordemente
+riconosciuta alla Vergine dai teologi, ha la sua ragion generale
+nella maggior perfezione della Vergine in s$e; e la sua causa
+particolare nel maggior grado di partecipazione o connaturazione
+col divino, inerente al fatto di aver concepito e generato il
+Dio-Uomo.
+
+	|44.  nel qual~... |creder~: pi@u che introdurre una
+sentenza generica, vera tuttavia anche come tale, d@a rilievo alla
+privilegiata potenza della Vergine.  -- |s'invii~: venga avviato,
+inoltrato: ^l'occhio intorno invio~ in ^Inf.~, IX, 109.  Sempre,
+e per sintonia tematica, in relazione all'idea dell'ascesa a Dio
+come <iter> o <itinerarium>, che torner@a ancora nel canto (cfr.
+v. 52); e, si pu@o aggiungere, alla formula stessa del poema
+narrazione, appunto, di un ^viaggio.~  Parola usata da Virgilio
+in ^Inf.~, I, 91.
+
+	|45.  per creatura~: da creatura, uomo od angelo; cfr.
+^Par.~, XIX, 49-60.  -- |tanto~: quanto la Vergine; e in
+assoluto.  -- |chiaro~: |chiaro~ -- nell'uso del poema --
+l'occhio (o ^vista~) sano, limpido, che vede lontano e profondo. 
+^Chiara vista~, il Logos (^Par.~, XIII, 79); e l'Aquila, ibid.
+XX, 140, ha parlato a Dante <per fargli chiara la sua corta
+vista>.  ^Sincera~ al v. 52; quanto dire potente, o vuoi capace
+di accogliere in s$e maggior quantit@a di luce, senza subire quei
+fenomeni di abbagliamento di cui il poeta ha toccato in ^Par.~,
+V, 133-135; XXX, 25.
+
+	|46.  E io~: <Di qui in avanti la poesia @e tutta un
+ardente e trepidante avvicinarsi al lampo della visione finale. 
+Questi cento versi sono infusi d'una stupenda perplessit@a: la
+poesia va e viene fra la descrizione, lo smarrimento,
+l'invocazione; e il senso di sopraffazione che avvolge queste
+ultime pagine, fa sfolgorare pi@u vividamente l'immagine della
+divinit@a che emerge una e due volte e lascia la fantasia spossata
+e paga> (Momigliano).  Ma si aggiunga, a complemento di questa
+bella osservazione del Momigliano, che da qui in poi l'ultimo
+canto richiama e rifonde, in una superba e addensata
+orchestrazione verticale, un po' tutti i motivi religiosi e
+speculativi che costituiscono l'ossatura dottrinale del poema. 
+Ci esimiamo perci@o, almeno in parte, da ulteriori rimandi.  --
+|fine~... |disii~: Dio, meta suprema di tutti i desideri i quali,
+trovando in esso e solo in esso, e |tutti~, il loro appagamento,
+vi prendono anche fine.  Nell'^Epist.~ a Cangrande, ormeggiando
+San Giovanni: <Ego sum Alfa et O, idest principium et finis>.  --
+|disii~: <disio>, manifestazione ed effetto di amore (nel senso
+chiarito da Virgilio in ^Purg.~, XVII-XVIII), designa qui l'anima
+<come un tutto affettivo-intellettuale>.  Il concetto di Dio
+sommo bene, infatti, si risolve nell'altro di Dio sommo vero; e
+Dio Vero-Bene @e unitario oggetto di ardore affettivo e di ardore
+intellettivo.
+
+	|47.  appropinquava~: mi approssimavo: con valore
+intransitivo, in stretta aderenza al lat. <appropinquare>.  --
+|com'io dovea~: com'era doveroso, e insieme logico e naturale.
+Per coerente applicazione della tesi sostenuta da Dante in
+^Par.~, XXVI, 25-36, e ribadita da Beatrice ibid. XXVIII,
+109-111; l'amore consegue ed @e commisurato alla nozione
+intellettiva del bene a cui @e rivolto: riconosciuto come massimo
+il bene (quanto detto nel verso precedente), massimo l'ardore.
+
+	|48.  in me~: chiarisce e delimita il <dovere> col
+<potere>: compatibilmente con la mia condizione di uomo mortale,
+con forza e possibilit@a limitate.  Tale concetto in ^Par.~, IV,
+121-123.  -- |finii~: <finire> vale limitare: e Dante fin@i
+|l'ardor del desiderio~ come ^doveva~ {v.47}, portandolo cio@e al
+suo limite massimo.  @E un'applicazione concettosa del verbo, in
+s$e, e relativamente, come nota il Sapegno, al vocabolo-concetto
+di ^fine~ del v. 46; e non esclude, per trapasso logico, l'altro
+significato: esaurire, nel senso di aver esaurito la possibilit@a
+di pi@u intensi ardori.  Dottrinalmente incongrua, e scipita,
+l'altra interpretazione (posi fine, spensi, cessai di
+desiderare), cozzante, <fronte adversa>, con l'evidenza del
+contesto e del passo di ^Conv.~, III, 10: <Quanto l'agente pi@u al
+paziente s@e unisce, tanto pi@u forte @e per@o la passione, s@i come
+per la sentenza del Filosofo (Aristotele) in quello ^De
+generatione~ si pu@o comprendere: onde, quanto la cosa desiderata
+pi@u appropinqua al desiderante, tanto lo desiderio @e
+maggiore...>.
+
+	|49.  m'accennava~: non ha parlato la Vergine, n$e pi@u
+udremo parole.  Immerso in un arcano silenzio, una sorta d'aura
+metafisica in cui sono andati distrutti ogni rapporto di
+relazione e ogni nozione di spazio e di tempo, e in una
+condizione di estrema, avida e avvampata tensione, Dante si
+accinge al supremo cimento: l'ascensione, per cos@i dire, abissale
+del raggio divino, verso la infinitamente lontana-vicina sorgente
+dell'essere.  @E il punto pi@u alto del poema; poi, verso la fine,
+l'arcano-luminosa suggestione d'infinito-assoluto si contrae e
+degrada, un po' troppo per il nostro gusto, nella composizione
+geometrica dei tre circoli.  -- |sorridea~: sorriso di letizia
+per la grazia impetrata; e di benigno incoraggiamento:
+sorriso-luce.
+
+	|51.  per me stesso~: indipendentemente dal suo
+accennarmi.  -- |tal qual~: giustamente disposto (per ardore), e
+debitamente condizionato (per <virtute>: cfr. vv. 25-27).
+
+	|52.  venendo~: diventando: un <venire> o arrivare, pi@u
+esattamente, passando da una condizione all'altra, da un meno a
+un pi@u.  -- |sincera~: come ^chiaro~ del v. 45: ^fiamma sincera~,
+viva, luminosa, in ^Par.~, XXVIII, 37; ^paese sincero~ @e detto il
+cielo in ^Par.~, VII, 130.
+
+	|53.  e~... |pi@u~: polisindeto fortemente, gloriosamente
+marcante.  -- |intrava~: penetrava, si addentrava: <penetrare per
+lo suo fulgore> in ^Par.~, XXXII, 143-144.
+
+	|54.  alta luce~... |vera~: verso di speculativa e
+quintessenziale pregnanza: Dio, sommo vero, principio fontale e
+misura primo-ultima di ogni altro vero, non pu@o avere altra
+misura che se stesso (^s$e con s$e misura~ in ^Par.~, XIX, 51),
+tutto condizionando, e da nulla essendo condizionato.  Il
+concetto Dio-verit@a, per unitaria implicazione speculativa,
+richiama gli altri che si susseguono, distinti e connessi, nella
+variata orchestrazione dottrinale del canto: Dio-sapienza,
+Dio-bene, Dio-essere, Dio-infinit@a, ecc.  <Alto>, cos@i, vale:
+profondo; e all'inverso.  -- |luce~: termine applicato alla
+sorgente luminosa (Dio @e principio fontale di ogni luce) di cui
+il ^raggio~ {v.53} @e il <lume> in movimento da essa al corpo sul
+quale s'irradia direttamente, come sappiamo da ^Conv.~, III, 14. 
+E da <luce> va distinto <splendore>, luce riflessa.
+
+	|55-56.  veder~: verbo della funzione in atto,
+dell'organo (occhio-intelletto) in piena attivit@a.  -- |maggio~:
+maggiore, superiore; e perci@o non esprimibile col linguaggio
+|nostro~ (umano) allo stesso modo, e per la stessa ragione, del
+<trasumanare> di ^Par.~, I, 70, non significabile ^per verba.~ 
+Dante, per grazia, si @e levato a un grado di potenza intellettiva
+superiore al pi@u alto livello raggiungibile da intelletto d'uomo;
+e poich$e il linguaggio, proprio ed esclusivo dell'uomo, @e un
+prodotto dell'intelletto (cfr. ^Par.~, XXVI, 130), ne consegue
+che questo non pu@o produrre i <segni> adatti ad esprimere cose
+eccedenti la sua normale esperienza o possibilit@a.  Maggiore del
+<parlare>, quindi, vale: superiore al pensabile o immaginabile. 
+La forma |maggio~ (solo al maschile) ricorre due volte nella
+prima cantica (^Inf.~, VI, 48; e XXXI, 84), e cinque nella terza
+(^Par.~, VI, 120; XIV, 97; XXVI, 29 ecc.).  -- |cede~: si ritira
+o sottrae (alla latina), dichiarandosi vinto.  Cfr. ^Par.~, XV,
+73-83.
+
+	|57.  e cede~: anche, e a sua volta, e, per la grave
+ragione della sua minor potenza nei confronti dell'intelletto,
+chiamata ripetutamente in causa, a partire da ^Par.~, I, 7-9.  Si
+avverta che tutto quanto @e conservato dalla memoria, facolt@a pi@u
+debole dell'intelletto produttore dei segni espressivi, @e
+perciostesso esprimibile, purch$e abbia nettezza di segno
+fantastico o sia riducibile a dato intellettivo.  Ma qui anche la
+memoria |cede~, incapace di svolgere un'attivit@a sufficiente a
+far rivivere quanto <visto> e sentito, pur conservando
+l'indistinto ricordo di un arcano accadimento.  -- |oltraggio~:
+nel senso etimologico: ci@o ch'@e <oltre> (il limite); grandezza
+eccedente la capacit@a della mente umana (Fubini).
+
+	|58.  Qual @e colui~: nella condizione in cui viene a
+trovarsi chi...; ^cotal~ (v. 61) nell'identica precisa condizione
+si trova Dante.  -- |somniando vede~: il vedere in sogno (questo
+il pensiero) ha una labile e illusiva nitidezza solo nell'ambito
+del sogno stesso che, in genere, raramente si ripresenta poi
+nitido alla memoria, facolt@a legata ai sensi i quali, a loro
+volta, nel sonno restano inoperosi.  |Somniando~, di conseguenza,
+precisa e delimita la natura del particolare <vedere> di Dante,
+nitido in quel suo atto e tempo, ma verificantesi in una sfera in
+cui l'intelletto operava al di sopra delle sue normali
+possibilit@a e condizioni, venendo cos@i a mancare o essendo di
+troppo insufficiente la collaborazione della fantasia e della
+memoria.  La memoria, tra l'altro, manca agli angeli, e manca
+perch$e il loro vivere e pensare non si scandisce in una
+successione temporale (cfr. ^Par.~, XXIX, 70-81): un po' come il
+<vedere> di Dante, che si svolge nella sfera dell'assoluto,
+partecipando pi@u intimamente del <vedere> angelico.  <Sciendum
+est>, cos@i nell'^Epist.~ a Cangrande, a spiegazione del v. 9 del
+primo canto del ^Par.~, <quod intellectus humanus in hac vita,
+propter connaturalitatem et affinitatem quam habet ad substantiam
+intellectualem separatam (angelo), quando elevatur in tantum
+elevatur, ut memoria post reditum deficiat propter transcendisse
+humanum modum...  Postquam humanam rationem intellectus
+ascensione transierat, quid extra se ageretur non recordabatur... 
+Et ubi ista... non sufficiant, legant Richardum de Sancto Victore
+in libro ^De Contemplatione~, legant Bernardum in libro ^De
+Consideratione~... ecc>.  Il concetto @e in Aristotele (^De
+Anima~, III).  -- |vede~: in genere unito a <sogno> nel
+linguaggio biblico: <Nabucodonosor vidit somnium... et somnium
+eius fugit ab eo...  Et dixit... rex: vidi somnium, et mente
+confusus ignoro quid viderim...> (^Daniele~, II, 1-4). 
+Logicamente si dovrebbe intendere: ha veduto; ma @e un presente di
+consuetudine, di fatto che avviene comunemente, e facilmente
+sperimentabile.  Lo stesso motivo, in termini diversi, gi@a in
+^Par.~, XXIII, 49-51.
+
+	|59.  che~: cosicch$e: conseguenza del principio formulato
+e concernente, appunto, la natura particolare del <vedere> in
+sogno.  -- |sogno~: <somniare> sopra, per pi@u stretto ricalco del
+modo biblico.  -- |passione~: <passio>, nel latino filosofico:
+quel che l'animo ha sentito o patito, o, pi@u esattamente: moto
+del sentimento o atto dell'intelletto verificatosi
+indipendentemente dalla volont@a, e per questo <patito>, come
+accade appunto nel sogno.  Nella definizione di San Tommaso (^S.
+T.~, I, 79, 2): <dicitur aliquid pati communiter ex hoc solo quod
+id quod est in potentia ad aliquid, recipit illud ad quod erat in
+potentia>.  |Passione~, moto dell'animo, in ^Inf.~, XXXI, 72;
+^Purg.~, XXI, 107; ^passion~, moto irriflesso, in ^Inf.~, XX, 30. 
+-- |impressa~: nell'animo, in quanto vi lascia <impressione>,
+traccia, segno.
+
+	|60.  e~: ma.  -- |l'altro~: il sogno nei suoi concreti e
+determinati elementi.  -- |mente~: memoria: indicata col termine
+pi@u in tema, in rapporto al contenuto intellettuale della
+visione.  -- |riede~: ritorna.
+
+	|61.  tutta~: totalmente: d'uso normale.  -- |cessa~:
+certo il significato contestuale del verbo (esser assente, venir
+a mancare), men certo l'esattissimo significato intenzionale,
+bilanciato tra i due esempi di ^En.~, VI, 51 e ^Atti Ap.~, V, 42:
+<cessare in vota>, indugiar a formular voti (^En.~); <non cessare
+in templo>, esservi assiduamente presente nel tempio,
+frequentarlo.
+
+	|62-63.  ed~: avversativo tenue.  -- |ancor~: ancor oggi,
+mentre scrivo, e a tanta distanza di tempo: segno di
+un'esperienza eccezionale.  -- |distilla~: intransitivo, con
+soggetto ^lo dolce~ (cos@i in ^Par.~, VII, 67): mi scende, riversa
+stilla a stilla, |nel core~, nell'animo.  Usato tuttavia con
+valore transitivo in ^Inf.~, XXIII, 97 e ^Purg.~, XV, 95.  -- |il
+dolce~: <Nell'ultimo canto si giunge all'opposto del procedere
+dottrinale e dimostrativo: alla intuizione o visione della somma
+verit@a, della ragione di tutte le cose, di Dio, nel quale
+sostanze e accidenti, e tutto quanto si dispiega nell'universo, @e
+legato e unificato.  Il poeta non pu@o rendere in termini logici
+ci@o che vide, e che @e ultralogico; non pu@o ritrarlo come allora
+lo vide, perch$e gli balen@o in un istante, per grazia concessagli,
+e subito si richiuse come mistero.  Non gli rimase se non il
+residuo emozionale, ch'egli prov@o in quell'istante, come dopo un
+sogno che non pi@u si ricorda e, pur se ne risente la commozione>
+(Croce).  -- |nacque da essa~: come effetto da causa: e --
+postulato sottinteso -- l'effetto partecipando della natura della
+causa, e perdurando la dolcezza a distanza di tanto tempo, se ne
+inferisce visione eccezionalmente beatificante.
+
+	|64.  Cos@i~: i due riferimenti analogici che seguono,
+contratti in una terzina dal giro rapido e, nei due ultimi versi,
+di un'elegantissima levit@a, hanno ciascuno una propria funzione:
+nel primo lo stemperarsi dei concreti elementi della ^visione~
+{v.62} in un ricordo vago e generico, com'@e della neve che si
+scioglie nella sua materia <elementale> o generica, l'acqua; nel
+secondo, l'impressione di pronta sfuggenza e quasi
+volatilizzazione della materia al tentativo di richiamarla alla
+memoria, di farla rivivere nei suoi determinati elementi.  -- |si
+disigilla~: si scioglie, rif@a acqua; pi@u esattamente: perde il
+<sigillo>, quegli attributi specifici (freddo e colore) per cui @e
+neve, restandone il ^nudo suggetto~ (cfr. ^Par.~, II, 106-108),
+la materia elementale.  Per la metafora, usitatissima del
+^sigillo~ o ^suggello~ cfr. ^Purg.~, XXV, 95; ^Par.~, I, 42; VII,
+69; VIII, 127; XXIV, 143 ecc.  Secondo il Torraca: trapela,
+liquefatta, stilla a stilla, con rimando a ^Purg.~, XXX, 85 sgg.
+
+	|65.  nelle~... |levi~: su foglie -- si narra in ^En.~,
+III, 441 sgg. -- la Sibilla Cumana usava scrivere le sue
+<sentenze> o responsi, e bisognava esser pronti, poich$e il vento,
+all'aprirsi della porta dell'antro-tempio, scompigliava e
+sperdeva rapidamente in ogni parte le <teneras frondes>.  Per
+intendere pi@u esattamente il significato del paragone, va
+ricordato che la Sibilla scriveva il responso non in una sola
+foglia, ma in una serie di foglie disposte in un certo ordine:
+scompigliato questo, riusciva impossibile ricostruire il testo
+del responso, e i supplicanti dovevano partirsene <inconsulti>,
+senza reale responso.  -- |levi~: riproduce, variando, il
+<teneras> del testo virgiliano.
+
+	|66.  la sentenza~: non il responso, ch'era stato
+formulato e dato (come qui @e avvenuta la visione), ma il suo
+concreto e intelligibile significato, risultante da un certo
+numero di foglie disposte in un certo ordine.
+
+	|67.  O somma luce~: Dio: tutti gli aggettivi, predicati
+di Dio, vanno intesi nel loro valore assoluto e al limite massimo
+pensabile, al di fuori di ogni idea di relazione la quale,
+sottintendendo paragone e misura, sarebbe dottrinalmente
+inaccettabile.  E lo stesso si dica delle categorie spaziali
+altezza-profondit@a, dedotte analogicamente dall'universo fisico,
+ma nell'assolutezza-infinit@a del divino <Essere>, l'una all'altra
+equivalenti.  -- |tanto~: un |tanto~ incommensurabile!  -- |ti
+levi~: in alto, al di sopra di...: verbo qui di tono solenne, e
+gi@a usato ad esprimere assunzione o auto-assunzione arcana e
+trionfale (^Par.~, I, 75; e XXI, 86).
+
+	|68.  concetti mortali~: i concepimenti, ci@o che il
+limitato intelletto umano pu@o concepire.  -- |mente~: memoria.
+
+	|69.  ripresta~: ridona, torna a concedere.  Ad Apollo,
+in ^Par.~, I, 22: ^o divina virt@u se mi ti presti~ -- ^tanto che
+l'ombra del beato regno~ -- ^segnata nel mio capo io manifesti.~ 
+-- |un poco~: un |poco~ incommensurabile, nella scala dei
+rapporti!  -- |parevi~: apparivi, ti mostravi.
+
+	|70.  la lingua~: quanto dire <intelletto>, produttore
+dei <segni> con cui l'uomo parla ed esprime.  -- |tanto
+possente~: di tanto capace, sufficiente: cfr. ^Inf.~, II, 11;
+^Par.~, XIX, 55; XXIII, 87.
+
+	|71.  una~... |sol~: almeno, ma non pi@u di una |favilla~,
+una minima parte, com'@e la favilla di una ^gran fiamma~ o
+incendio (cfr. ^Par.~, I, 34), e qui dell'oceanico-luminoso
+fiammeggiare della |gloria~ divina.  Cfr. ^Par.~, XVII, 83.  --
+|gloria~: nella catena delle equivalenze, i concetti si
+richiamano l'un l'altro, pur variando i singoli termini:
+gloria-luce-trionfo-potenza.  E si cfr. ^Par.~, I, 1.
+
+	|72.  lasciare~: tramandare, lasciare in retaggio:
+^moralit@a lasciaro al mondo~ in ^Purg.~, XVIII, 69.  -- |futura
+gente~: ai posteri: e in ci@o l'<infuturarsi> del poeta (^Par.~,
+XVII, 98).
+
+	|73.  per tornare~: per il fatto di ritornare... (il
+sogg. @e ^tua gloria~ {v.71}).
+
+	|74.  sonare~: risuonare: restando cos@i compensate, dalla
+<divina virt@u>, la duplice deficienza indicata nei vv. 55-57:
+della memoria e dell'intelletto.  -- |in~... |versi~: con pi@u
+felice e arditamente vivo invito, in ^Par.~, XVIII, 87: ^paia tua
+possa in questi versi brevi~! (ma rivolto alla ^diva Pegasea~):
+poich$e, l'alta audacia dell'invocazione diretta a Dio Dante ha
+voluto riservare all'ultimissima fase del viaggio.
+
+	|75.  pi@u~: questa terzina, in genere, @e frettolosamente
+letta e interpretata, lasciandosi nell'ombra il concetto
+principale, ch'@e poi l'unico capace di conferire un coerente
+significato a questo |pi@u~ dedotto da un ^alquanto~ {v.73} e da
+un ^poco~ {v.74}.  Dante afferma che il lettore potr@a farsi
+un'idea pi@u adeguata non da quel che egli riesce a ricordare e ad
+esprimere, ma deducendo dal fatto ch'egli, il poeta, pur con
+l'aiuto di Dio, riesce a ricordare solo ^alquanto~ {v.73} e ad
+esprimere solo ^un poco~ {v.74}.  La debolezza delle umane
+facolt@a, in altre parole, rappresenta un limite insuperabile, ma
+appunto per questo, il rapporto essendo dal limitato
+all'incommensurabile-illimitato, ^alquanto~ {v.73} e ^poco~
+{v.74}, entro quel limite, sono un <moltissimo>, una quantit@a
+eccezionalmente grande.  -- |si conceper@a~: si potr@a farsi
+un'idea.  -- |di~: di argomento.  -- |vittoria~: in significato
+pregnante, affine a quello di <trionfo>, usato altrove:
+l'incommensurabile soverchiare di Dio, il suo tripudiante trionfo
+celebrantesi nell'Empireo e in tutto l'universo.
+
+	|76.  acume~: intensit@a: cos@i ^Par.~, I, 84; XXVI, 70;
+XXVIII, 16-17.  -- |soffersi~: dice capacit@a di affronto, ma con
+patimento: cfr. ^Par.~, I, 58.
+
+	|77.  vivo~: rinforza ^acume~ {v.76}, portando al
+superlativo la determinazione.  -- |sarei smarrito~: smarrimento
+in dissolvenze di tenebra, per l'improvviso squilibrio in cui
+sarebbe caduta la facolt@a visiva prima sforzata oltre il limite,
+e poi bruscamente riportata alla sua funzione normale: com'era
+accaduto in ^Par.~, XXX, 46-51.  Ma si tratta di un'impressione,
+poich$e il potenziamento della vista, di fatto, @e in rapido
+crescendo, accompagnato tuttavia da una sensazione di vertigine. 
+Come di chi cammini sul ciglio di un tenebroso abisso con
+l'occhio quasi abbrancato a un filo di luce o, per usare diversa
+immagine, di chi, varcato il limite, ed entrato in uno squilibrio
+senza ritorno sente, istintivamente, di non potersi riequilibrare
+che continuando a procedere.
+
+	|78.  da lui~: dal ^vivo raggio~ {v.77}.  -- |fossero
+aversi~: si fossero distolti.  Ha valore medio-passivo, come
+<esser volto> (volgersi) <esser torto> (torcersi, girare): di
+schietto conio latineggiante.  Ricorre solo qui.
+
+	|79.  ricorda~: torna in mente, alla memoria.  Usato
+normalmente nella forma impersonale salvo quando indichi l'atto
+della facolt@a, come in ^Par.~, XXVIII, 10: ^la mia memoria si
+ricorda.~  -- |fui~: fui e divenni: |fui~, della nuova
+condizione; il <divenni> dell'atto.  -- |ardito~: normalmente in
+valore intensivo, nell'uso del poema.
+
+	|80.  per questo~: per questo pensiero o impressione;
+cfr. vv. 76-77.  -- |a~: riferito all'atto, ma con suggerita idea
+di acquisita attitudine a...  -- |sostener~: affrontare,
+sopportare (il ^vivo raggio~ {v.77}): ^soffersi~, v. 76.  --
+|giunsi~: congiunsi, arrivai a scorgere Dio.  E in quel momento
+cessa la sensazione del <viaggiare> ascensionale-abissale
+attraverso il raggio irradiato da Dio; e si ha come l'approdo
+all'imprecisabile riva della sorgente prima dell'essere, della
+divina essenza contemplabile dal punto, anch'esso imprecisabile,
+di maggior vicinanza.
+
+	|81.  l'aspetto~: sguardo; usitato.  -- |valore
+infinito~: Dio: per la sempre e opportunamente variata
+orchestrazione di concetti-vocaboli l'un l'altro richiamantisi:
+|valore~... ^virt@u~... ^sapienza~... ^bene~... ^bont@a~... ^luce~
+ecc.; ^infinito, eterno, sommo, primo~ ecc.  |Valore~ significa
+per lo pi@u: perfezione; con qualche oscillazione di significato
+nei vari contesti; ^lo primo ed ineffabile valore~ in ^Par.~, X,
+3; ^l'etterno valore~ in ^Purg.~, XV, 72, ecc.
+
+	|82-83.  Oh~: il poema @e sparso di esclamazioni, usate
+normalmente come allerta, improvviso e vivace stimolo
+all'attenzione del lettore; e sono un modulo, osserviamo per
+inciso, largamente praticato nell'oratoria ecclesiastica.  Nella
+terza cantica, tuttavia, e soprattutto in questi ultimi canti,
+l'esclamazione rappresenta un voluto allineamento allo stile dei
+mistici, il cui discorso, alieno dalla severa disciplina
+dell'argomentare dialettico, @e costellato di vampate affettive e
+tramato di motivi di esaltazione e tripudio spirituali, che
+nell'esclamazione appunto, trovano pi@u naturale ed immediata
+espressione.  -- |grazia~: grazia concessa, che Dante prova nel
+suo effetto, nell'aumento del potere visivo donde gli viene il
+fiducioso ardimento di |ficcar lo viso~ (cfr. ^Inf.~, IV, 11),
+affondare lo sguardo nella |luce etterna.~  E di questo vedere,
+ovviamente, sar@a bene tener presenti le dimensioni
+allegorico-speculative, che sono preminenti, come risulta da
+tutto il passo che segue; poich$e la contemplazione immediata
+dell'aristotelico Dante non @e estatica e sospesa fissit@a, s@i
+progressivo sforzo d'intendere in modo speculativamente pi@u
+profondo la divina essenza e il segreto primo dell'essere. 
+|Ficcar lo viso~ @e, attivamente, e audacemente, azione!  --
+|presunsi~: verbo dell'uso scritturale, applicato in genere, nota
+il Tommaseo, all'idea della misericordia di Dio: <Non derelinquis
+praesumentes de te...  De tua misericordia praesumens> in
+^Giud.~, VI, 15; e IX, 17; ecc.  -- |luce etterna~: cfr. v. 81.
+
+	|84.  veduta~: facolt@a visiva -- |consunsi~: consumai, ma
+nello stesso significato del ^finii~ del v. 48: portai al limite
+delle sue possibilit@a.  @E il momento infatti in cui Dante, non
+che aver perduta la vista, vede al massimo: ^vista~... ^consunta~
+(ma con effetti negativi) in ^Par.~, XXVI, 5.
+
+	|85.  Nel~... |s'interna~: nella costruzione generale
+della terzina la relativa |che s'interna~ @e posta in modo da
+poter fungere contemporaneamente, ed equivocamente, da
+determinazione dottrinale di |suo profondo~ e da verbo della
+dipendente ^legato~ {v.86}... ^ci@o che~ {v.87} ecc.  In |che
+s'interna~, infatti, s'annodano la definizione rigorosamente
+dottrinale di Dio uno-trino (<internarsi>, essere triplicemente
+congegnato e distinto, in ^Par.~, XXVIII, 120); e il ricorrente
+motivo della profondit@a o abissalit@a della divina essenza nella
+quale, come <per lo mare> o <pelago>, @e impossibile ad occhio
+umano <internarsi>, penetrare.  Con richiamo a ^Par.~, XI, 29-30,
+e XIX, 58-63.
+
+	|86.  legato~: detto in senso proprio del metaforico
+|volume~ o libro, e continuandosi la metafora in ^si squaderna~
+{v.87} del verso successivo, poich$e solo se <legati>
+ordinatamente insieme, e ciascuno al posto che gli compete, i
+vari quaderni si compongono in |volume~, ch'@e un uno-molteplice,
+un'opera <una> in ordinata variet@a di parti e capitoli e
+argomenti.  |Volume~... ^carte~ in ^Par.~, II, 78; e Dio ^magno
+volume~, ibid. XV, 50.  -- |con amore~: |legato~ (verbo
+dell'arte) |con amore~, un volume fa bella e compatta compagine. 
+Fuori di metafora: aver creato e creare, e conservare, da parte
+di Dio, @e atto d'amore (cfr. ^Par.~, XXVI, 55-63; XIX, 86-90). 
+Non si dimentichi, infine, per le necessarie correlazioni
+dottrinali, che <filosofare>, per Dante, @e fare <uno amoroso uso
+di sapienza, lo quale massimamente @e in Dio, per@o che in lui @e
+somma sapienza e sommo amore e sommo atto> (^Conv.~, III, 12), e
+che in |amore~, di conseguenza, @e indicato l'unitario atto della
+Potenza creatrice e della Sapienza ideatrice e ordinatrice.  --
+|in un volume~... in un solo volume: Dio, <prima mente> e <prima
+causa>, generante e contenente in s@e l'infinita variet@a
+dell'essere universale, che a sua volta, @e unitariamente
+intelligibile solo nel riporto all'idea di un Dio creatore.  E
+poich$e, in forza del noto principio-assioma, l'<effetto>
+partecipa della natura della <causa> da cui @e prodotto, e ogni
+<effetto> @e prodotto in essere direttamente o indirettamente da
+Dio, nella metafora del volume @e contenuto anche il principio di
+una connessione organico-unitaria delle varie branche del sapere
+o <scienze>, illuminantisi e culminanti al vertice nella <divina
+scienza> o Teologia o indagine speculativa sulla natura della
+Prima Causa; senza di che esse rimarrebbero <squadernate>, senza
+legarsi in <volume>, senza far <summa>.  @E il principio
+metodologico gi@a applicato da Beatrice nella spiegazione delle
+macchie lunari in ^Par.~, II, 112 sgg., capovolgendo i termini
+del processo conoscitivo proprio dell'intelletto umano
+(dall'effetto alla causa, dall'individuale all'universale);
+esemplato nella prima fase dell'itinerario dantesco; e culminante
+nella contemplazione diretta della Prima Causa.
+
+	|87.  ci@o che~: tutto quanto: gran tutto d'innumerevoli
+cose, in un verso suggestivamente denso e memorabile.  -- |si
+squaderna~: verbo bivalente: suggerisce il fatto (dall'uno al
+molteplice), e ferma l'impressione di chi, osservando
+superficialmente, incapace di connetterle in un vincolo unitario,
+vede, <squadernate> le cose, quasi slegate nella loro,
+apparentemente, discorde variet@a.  ^Quaderno~ della <materia>,
+parte del gran ^volume~ {v.86} dell'universo, in ^Par.~, XVII,
+37-38; e Dio ^magno volume~ ibid. XV, 50.
+
+	|88.  sustanze~: <sostanza> (<substantia> nel lat.
+filos.) secondo la definizione tomistica (cfr. ^S. T.~, I, 3, 5;
+I, II, 53, 2; III, 77, 1), ci@o che ha capacit@a di sussistere per
+s$e, ma senza che il fatto o l'attributo dell'essere ne definisca
+ed esaurisca l'essenza.  <Forme sustanziali> in ^Conv.~, III, 2 e
+in ^Purg.~, XVIII, 49; e Dante ha usato il plurale perch@e vi sono
+sostanze pure, separate da materia, come gli angeli <divine
+sustanze> (^Conv.~, III, 2); e sostanze unite a materia, come
+l'uomo, ecc.  E quindi: non solo la ^sostanza~ in s@e, ma in tutti
+i suoi vari modi e forme d'essere.  Lo stesso si dica per
+|accidenti~; poich@e la visione riesce pienamente illuminante solo
+pensando che il poeta, nell'uno-universale abbia visto, anche, il
+molteplice-individuale.  -- |accidenti~: l'<accidente> o <forma
+accidentale>: l'attributo o <forma> particolare che la <sostanza>
+deriva dal fatto del suo combinarsi con la materia o
+dell'esplicare un'attivit@a o del trovarsi in condizioni
+definibili in un rapporto di <relazione>, com'@e dell'uomo
+l'essere padre, secondo l'esemplificazione offerta in ^Mon.~,
+III, 12.  L'<accidente> @e un attributo specificante della
+<sostanza>, ma non pu@o esistere senza di questa, che n'@e
+l'ipostasi o substrato (<ypostasis substantiae subsistentis>); n@e
+senza e prima di essa @e pensabile.  L'ordine materiale delle due
+parole, come si vede, ne riproduce l'ordine speculativo.  Cfr.
+^Mon.~, III, 4.  -- |costume~: come <abito>: il modo come
+sostanze e accidenti operano normalmente e costantemente,
+entrando in lega o simbiosi.  Ma il |costume~, s'intenda ancora,
+principale o fontale, dal quale discendono tutti i particolari
+<costumi>: il molteplice nell'uno.
+
+	|89.  quasi~: per cos@i dire: precisa la portata di
+|conflati~, che vuol dare un'idea della cosa, senza pretesa di
+<definirla>, di esprimerla adeguatamente.  -- |conflati~:
+compaginati e fusi (in un tutto unico): dal lat. <conflare>,
+detto di fuoco o metalli, e nei significati analogici derivati,
+indicanti amalgama e connessione unitaria.  Vocabolo aulico,
+anche questo, e di pregnante potenza espressiva: e in <flare> il
+<flatus>, equivalente a <spiritus>, l'idea del divino, ardente e
+prodigioso soffio creativo.  Un'espressione affine, in tema
+dell'assoluta e attuosa connaturazione della sapienza a Dio, in
+^Conv.~, III, 12: <ed @e in lui per modo perfetto e vero, quasi
+per etterno matrimonio.
+
+	|90.  ci@o~... |dico~: l'espressione sopra usata: ^quasi
+conflati insieme~ {v.89}.  -- |semplice lume~: un barlume, una
+pallida idea della cosa in s@e, alla quale vuol far semplicemente
+|lume~, facendola vagamente, e sia pur da lontano, intravedere. 
+|Lume~... ^tra 'l vero e lo 'ntelletto~ in ^Purg.~, VI, 45; ma
+<veder lume>, veder qualcosa, non aver perduto totalmente la
+vista, in ^Purg.~, VI, 145.  Alla cosa in s@e vuol far vago |lume~
+l'analogia indicata con la materia <conflata insieme>, ma
+restando sottinteso che si tratta di cosa per esprimere la quale
+^tutte simiglianze sono scarse~ (^Par.~, XV, 78).
+
+	|91.  La~... |nodo~: l'idea -- archetipo, prodotta dal
+Logos, e su cui fu esemplata in |forma~, il modo d'essere ed
+operare di sostanza e accidente: idea |universal~, contenente
+l'individuale nella sua infinita variet@a, e capace di spiegare
+l'infinitamente varia simbiosi di sostanza e accidente.  Poich@e
+|questo~ fa preciso richiamo al precedente discorso, |forma
+universal~ soravviene a integrare ^lor costume~ {v.89} (grado pi@u
+alto di visione intellettiva); e, infine; |nodo~ @e un'evidente
+variazione metaforica di ^quasi conflati~ {v.89}, @e da accogliere
+con riserva l'altra interpretazione, avanzata dal Landino e
+accolta ancora dal Sapegno: che in |forma universal~ sia indicato
+Dio, e in |questo nodo~ l'universo.  Che son concetti
+dottrinalmente inferibili ma non esplicitamente formulati: <loco>
+dell'idea @e naturalmente Dio suo produttore e di cui essa @e
+<atto>; e dal |nodo~ visto da Dante prende, ovviamente, origine e
+norma l'esplicarsi, nell'universo, del rapporto
+sostanza-accidente.  La prima interpretazione, ci pare, rende
+anche pi@u naturalmente spiegabile la maggior gioia di cui si
+parla subito dopo, e commisurabile alla totale illuminazione
+speculativa sul profondo segreto delle due <categorie> con cui
+l'intelletto umano intende e spiega il reale; e scopre il
+sottinteso riferimento al dibattuto e secolare problema del
+rapporto tra universale e individuale; problema che Dante d@a, pur
+senza dire in quali precisi termini, come positivamente risolto.
+
+	|92-93.  credo~... |godo~: la ^passione~, come detto ai
+v. 58-63, @e documento di ^visione~ realmente avvenuta; passione
+lieta, di visione lieta: maggior gioia, di un momento
+particolarmente lieto di una lieta visione.  ^Visione~, si noti,
+graduata nella sua progressione speculativa, per cui dal
+<rivelato> intendimento delle leggi prime e fondamentali
+dell'universo (la sua formula genetica e strutturale, diremmo
+oggi) si assurge poi, in vetta, alla contemplazione misteriale
+della divina essenza.  -- |credo~: non pu@o esser certezza
+matematica e assoluta, poich@e il poeta non rivede la <res>.  --
+|di largo~: intensamente: ma |largo~ richiama, ^abbondante
+grazia~ {v.82} <largita> (^larghezza di grazie divine~ in
+^Purg.~, XXX, 112) e forse fa, tematicamente, da ponte al famoso
+e dibattuto ^punto~ del v. 94, a sua volta in bilico tra
+l'<extensum> intellettivo suggerito da ^largo~ (v. 92), e
+l'<extensum> temporale dei ^venticinque secoli~ del v. 95.
+
+	|94-96.  Un punto~... |d'Argo~: terzina tormentatissima,
+<diguazzata per tutti i versi>, per dirla col Cesari, e
+contenente un |punto~ osservato con cento microscopi, e un
+|letargo~ studiato con tutti i sussidi forniti dalla Medicina
+medievale.  Non par dubbio, tuttavia, che il concetto
+primariamente suggerito @e l'impossibilit@a di dire, tornandosi
+cos@i ad insistere con tutta e puntuale coerenza, sul duplice
+motivo del non poter dire: insufficienza e stasi attuali
+dell'intelletto, in quel lontano momento operante <extra fines>;
+e deficienza della memoria.  -- |punto~: <un punto solo, e non
+gi@a successivo alla visione, ma della visione, che non @e
+misurabile temporalmente> (Fubini).  -- |letargo~: in tutte le
+definizioni del vocabolo dottamente collazionate dai testi medici
+nonch@e dalle ^Etymologiae~ di Isidoro e dalle ^Derivationes~ di
+Uguccione |letargo~ o letargia vale: sonno patologicamente
+profondo, accompagnato ad oblio e a stasi totale delle facolt@a
+mentali.  E il termine, con sufficiente evidenza, @e qui usato per
+indicare quanto il poeta sente di <poter ridire> di un solo
+|punto ~ della visione: quanto, esattamente, egli potrebbe
+ridirne trovandosi in stato di letargo, di sonno profondo e di
+totale cessazione delle attivit@a mentali: nulla quindi!  E nulla
+infatti ne dice, limitandosi a indicare (nella seconda parte
+della terzina) una scala proporzionale d'impossibilit@a.  Partendo
+da questo punto, ed evitando di alterare o storcere un contesto
+congegnato con tutto rigore, sar@a possibile evitare anche il
+consueto e facile fraintendimento dei vv. 95-96.  Poich@e il
+contesto, riassettato e completato nei termini sottintesi, @e il
+seguente: un solo punto (della visione) @e a me letargo maggiore
+di quanto venticinque secoli (non siano letargo) alla impresa;
+dove |letargo~ non solo @e termine logicamente necessario nella
+seconda proposizione e vi @e del resto presenzialmente imposto dal
+comparativo |maggior~ del v. 94, ma vi deve anche significare
+esattamente quanto dice nella prima.  Respingendo perci@o come
+incongrua l'interpretazione: mi @e maggior letargo di quanto
+venticinque secoli non abbiano contribuito a far dimenticare la
+famosa impresa degli Argonauti (impresa per nulla dimenticata e
+di cui si parla ancora e tanto!); e tenendo conto tanto del
+rigoroso parallelismo tra le due serie logico-sintattiche quanto
+dell'usuale tendenza di Dante alla maggior possibile implicazione
+concettuale, col conseguente ricorso a costrutti ellittici e
+contaminati, riteniamo si debba, necessariamente, interpretare:
+ridire di un |solo punto~ della visione posso come se mi trovassi
+in letargo (ossia non posso!); ma @e un'impossibilit@a di grado
+assai maggiore di quella in cui si troverebbe chi, essendo nelle
+mie condizioni, idest in ipotetico letargo, imprendesse a narrare
+gli avvenimenti della storia umana dalla impresa degli Argonauti
+ad oggi.  |Venticinque~ e |'mpresa~ segnano i limiti estremi del
+<quantum> temporale o storico da narrare da parte di chi, essendo
+in letargo, @e in stato di totale cessazione delle facolt@a mentali
+e della memoria (un <impossibile>!), e sono in relazione scalare
+col |punto.~  Segnaliamo, ma come difficilmente accettabile,
+l'interpretazione proposta dall'Austin e dello Spitzer, e
+appoggiata a un significato affatto secondario di |letargo~
+(<stupore>): lo stupore provato dal poeta per un solo punto della
+visione @e superiore all'ammirazione accumulata dagli uomini, nel
+corso di venticinque secoli, per la leggendaria impresa degli
+Argonauti.  Interpretazione, notiamo, che sforza il testo: |m'@e~,
+<mi @e>, ora, mentre scrivo, dice perentoriamente il testo (v.
+94); l'idea di stupore, inoltre, @e gi@a nei versi che seguono, e
+si aggiungerebbe inutilmente al motivo della gioia intellettiva
+(cfr. v. 95), creando, per eccesso, una sorta di squilibrio in
+tutta l'economia del passo.  -- |venticinque secoli~: quanti,
+secondo la cronologia medievale, ne correvano approssimativamente
+dalla data dell'impresa argonautica, collocata nel 1223 a. C. 
+Dalla quale, informa il Casella, i cronisti medievali usavano
+iniziare la loro narrazione della storia umana.  In |venticinque
+secoli~, s'intende, @e inclusa l'indicazione di uno dei due limiti
+della narrazione: da oggi; e si precisa insieme il tempo
+intercorrente tra i due limiti (<da>... |alla~).  Donde il
+passaggio alla preposizione articolata |alla~, a sua volta
+aggiogata in zeugma a |'mpresa~ e, contemporaneamente, al
+soggetto logicamente sottinteso: l'ipotetico storico in letargo
+che <imprendesse> a narrare: un <narrare> di cui |venticinque
+secoli~ fanno da reale complemento oggetto.  Costruzione
+fortemente addensata ma, nell'uso della terza cantica, non
+eccezionale.  -- |f$e~: con l'infinitiva: d'uso non raro, anche
+nel latino dantesco.  -- |Nettuno~... |d'Argo~: per cui Nettuno,
+come si racconta, osserv@o pieno di meraviglia l'ombra della nave
+Argo, la prima che solcasse il mare.
+
+	|97.  Cos@i~: puro nesso narrativo; ma ricorda ^Par.~,
+XXIII, 61-63: ^e cos@i, figurando il paradiso~ -- ^convien saltar
+lo sacrato poema~ -- ^come chi trova suo cammin riciso.~  --
+|sospesa~: usitato: cfr. ^Purg.~, XIII, 136; XX, 139; XXVI, 30;
+^Par.~, XX, 87; XXXI, 57; XXXII.  -- |Mente~, si badi, non
+genericamente <anima>: la sospensione, la librata tensione, @e
+soprattutto intellettiva.
+
+	|98.  fissa~... |attenta~: |fissa~, rivolta sempre e solo
+allo stesso oggetto; |immobile~, tutta chiusa in quel
+contemplare; |attenta~, intensamente concentrata.
+
+	|99.  e~... |accesa~: nel <mirare> il desiderio trovava
+appagamento e insieme la ragione del suo continuo <accendersi> o
+rinnovarsi, il processo di desiderio-conoscenza dell'infinito-Dio
+essendo all'infinito.  Sulla linea del motivo accennato in
+^Purg.~, XXXI, 129 (^saziando di s$e, di s$e asseta~), e ribadito
+in ^Par.~, X, 84; XV, 65-66 ecc.
+
+	|100.  A~: dell'effetto della |luce~ in s$e, e del
+guardarla.  -- |luce~: Dio, sorgente prima e massima di |luce~:
+qui |luce~-sapienza, donde proviene la fulgente illuminazione per
+cui l'intelletto riconosce in Dio il sommo bene, attivando e
+regolando in conseguenza volont@a e sentimento.
+
+	|101.  per~... |aspetto~: per guardare ad altro.  Tale il
+prevalente significato di |aspetto~ nell'uso del poema (sguardo,
+l'atto del guardare); |altro~, a sua volta, ha valore
+oggettivale, come ^nel suo aspetto~ (nel guardar lei) di ^Par.~,
+I, 67.
+
+	|102.  @e impossibil~... |consenta~: l'impossibilit@a di
+<assentire> ad altri <aspetti>, secondo la concettosa espressione
+di ^Purg.~, XVIII, 62-63, consegue alla perfetta illuminazione
+dell'intelletto (il ^lume~ {v.90} dato all'uomo per distinguere
+bene e male: cfr. ancora ^Purg.~, XVI, 75): il quale, ora
+sublimato dall'intima comunicazione con Dio, non @e pi@u
+suscettibile di errore nella valutazione dei ^beni~ a cui,
+secondo la dottrina esposta da Marco Lombardo, e integrata da
+Virgilio, in ^Purg.~, XVI-XVIII, tende, istintivamente, l'animo
+umano.  E poich$e, coerentemente al principio intellettualistico
+informativo di quella dottrina, l'errore del <volere>, funzione
+dell'intelletto, presuppone carenza o errore intellettuale e, ai
+termini della tesi esposta in ^Par.~, XXVI, 28-36; XXVIII,
+109-111; e XXIX, 139-40, la misura dell'amore per un bene @e nella
+nozione intellettuale che di esso bene abbiamo, la conclusione si
+offre sillogisticamente pronta: una volta avverato
+intellettualmente e, come qui, sperimentalmente, Dio essere sommo
+bene e nella comunione con lui esser riposta l'ultima perfezione
+e felicit@a dell'anima umana, non solo non vi posson esser moti
+della volont@a orientati in direzione diversa, ma nemmeno affetti
+o desideri volti ad altro.  -- |impossibil~: impossibilit@a
+effettuale; e <impossibile> intellettuale, ossia un fatto non
+pensabile perch@e illogico ed incongruo; da quelle premesse non
+potendosi, necessariamente, ricavare che una certa conseguenza. 
+-- |mai~: rinforzativo: esclusione assoluta!
+
+	|103.  del volere~: precisazione postula distinzione: il
+|ben~ oggetto-fine del |volere~ o volont@a, si precisa infatti, e
+non dell'amore come primo e istintivo moto dell'anima: quanto
+dire della facolt@a annessa all'intelletto e da questo mossa,
+regolata, e indirizzata verso beni vagliati e conosciuti come
+veri e degni beni.  E beni che l'uomo deve volere, conformemente
+operando: dal <volere> -- nella dottrina aristotelica e dantesca
+-- dipendendo l'operare.
+
+	|104.  s'accoglie~: affine a ^s'aduna~, del v. 20: @e
+accolto, si assomma, come in suo ultimo-massimo.  Nell'^Epist.~:
+a Cangrande: <Invento Principio seu Primo, videlicet Deo, nihil
+est quod ulterius queratur>.  @E concetto della pi@u stretta e
+vulgata ortodossia teologica; cfr. ^Boezio~, ^Cons.~, III, pr. 2;
+San Tommaso, ^S. T.~, II, I, 9; V, 4 ecc.  -- |fuor~: un |fuor~
+comparativo o di relazione, non propriamente speculativo: nulla,
+a stretto rigore, essendo fuori di Dio.  -- |di quella~: ^quella
+luce~ del v. 100: Dio: e la luce, insieme, della divina scienza
+che addita in Dio il sommo bene, il bene nel suo pi@u perfetto
+essere.
+
+	|105.  @e defettivo~: qualifica e insieme afferma
+l'<essere>, l'esistere di ogni cosa, sia pure in modo
+|defettivo~: non totalmente perfetto, non in assoluta pienezza di
+attributi, quando, s'intenda, per misura si prenda Dio, assoluta
+perfezione.  -- |ci@o~: tutto, ovviamente, <beni> compresi: in Dio
+essendo il fondamento ontologico di ogni cosa.  -- |ch'@e l@i
+perfetto~: che |@e l@i~, e |l@i~ @e perfetto: tutto, s'intenda
+ancora, poich@e Dio @e <sommo atto> e <prima equalit@a> (^Par.~, XV,
+74), e in lui, di conseguenza, la perfezione @e in grado assoluto.
+
+	|106.  Omai~: d'ora in poi.  Preannuncia l'arrivo
+all'ultimo gradino della scala, alla suprema tensione della
+contemplazione diretta della divina essenza.  -- |corta~:
+inadeguata, insufficiente.  <Se difetto fia ne le mie rime... di
+ci@o @e da biasimare la debilitade de lo 'ntelletto e la cortezza
+del nostro parlare, lo quale per lo pensiero @e vinto> (^Conv.~,
+III, 4).
+
+	|107-108.  pur~: anche solo.  -- |che~... |fante~: che
+quella di un bambino ancora in fase di allattamento, di un
+lattante.  Scala proporzionale d'insufficienze anche qui:
+insufficienza del linguaggio di un lattante in rapporto al
+linguaggio di persona adulta; insufficienza del linguaggio di
+Dante, pur addestrato alla pi@u ardua ginnastica concettuale,
+relativamente al ricordo; insufficienza in s@e del ricordare: e al
+vertice, irraggiungibile, il concetto, l'arcano-profonda realt@a
+della cosa <vista>, dell'altissimo intendere.
+
+	|109.  Non perch$e~: il |perch@e~ della cosa in s@e; e scopo
+della precisazione, secondo Casini-Barbi e Vandelli, sarebbe di
+prevenire l'obbiezione che, a fil di scienza teologica, qualcuno
+potrebbe muovere al poeta a proposito della variet@a d'immagini
+con cui egli ritrae, successivamente, l'aspetto di Dio,
+<simplicissima substantiarum> (^De V. E.~, I, 10): e alla quale,
+di conseguenza, mal si addice, dottrinalmente, attribuire
+mutamenti e alterazioni.  @E possibile: sebbene la precisazione
+non abbia l'aria d'essere introdotta con vera e propria urgenza. 
+Dante, in ogni modo, dichiara che il processo di mutazione di cui
+egli verr@a dicendo non era nella cosa in s$e (Dio), s@i bene in lui
+soggetto-osservante, che nel progressivo approfondimento
+speculativo della divina essenza mutava condizione proiettando
+poi l'impressione del proprio mutare nell'oggetto.  Pi@u
+esattamente: nell'immagine della cosa com'era conformata dal suo
+organo visivo (cfr. ^Conv.~, III, 9) o, fuori dei termini del
+materiale <vedere>, nel residuo fenomenologico ch'egli, uomo, non
+poteva eliminare dal processo del suo intendere intellettivo,
+portato a interpretare il divenire dell'assolutamente
+Uno-Semplice in termini di mutazione.  Lo stesso fenomeno era
+avvenuto alla vista del Grifone (in ^Purg.~, XXXI, 124-126) uno e
+immobile in s@e, ma la cui immagine, trasmessa dagli occhi di
+Beatrice, <si trasmutava>; e affini e soggettive impressioni
+provate nel guardare la Donna-Filosofia Dante s'intrattiene a
+spiegare, partitamente, nei trattati III e IV di ^Conv.~  A tutto
+questo si aggiunga che il processo conoscitivo dell'intelletto
+umano (e cos@i il ricordare: cfr. ^Par.~, XXIX, 76-81), a
+differenza di quello angelico, non @e totale e simultaneo, ma
+graduale, e frazionato in sequenze di oggetti e di tempi.  --
+|semplice~: nel senso dottrinalmente pregnante del termine:
+uno-omogeneo, identico solo e sempre a se stesso e ad altro non
+rapportabile e riducibile, ed escludente ogni mistura con
+<altro-da-s$e>, e perci@o non suscettibile di mutamento o
+alterazione.  Nella definizione di San Tommaso (^S. T.~, I, 9;
+III, 7): <Cum in Deo non sit compositio quantitativarum partium,
+quia corpus non est; neque compositio formae et materiae; neque
+in eo sit aliud natura et suppositum; neque aliud essentia et
+esse; neque in eo sit compositio generis et differentiae, neque
+subiecti et accidentis; manitestum est quod Deus... est omnino
+simpler...>.
+
+	|110.  vivo~: intenso: e lume del Dio <vivente>.
+
+	|111.  ch@e~: preferiamo accentare: l'accento segna pi@u
+vivamente, e in modo pi@u formale, l'affermazione.  -- |tal~...
+|qual~: legati da |sempre~, e cementati nell'immutabile ed
+eternale presente: |@e.~  -- |davante~: ^Par.~, XXIX, 145: ^uno
+manendo in s@e come davanti.~  Linguaggio improprio, @e facile
+osservare, perch$e prodotto dall'intelletto umano condizionato dai
+sensi, e perci@o costretto a esprimere certi concetti con riporto
+analogico al mondo dell'esperienza sensibile, in cui il mutare o
+il restare immutato di una cosa @e ricavato dell'osservazione
+delle condizioni della cosa stessa in due diversi e successivi
+momenti del tempo: da un <prima> a un <poi>.
+
+	|112.  vista~: facolt@a visiva.  -- |s'avvalorava~:
+acquistava in valore, in potenza.
+
+	|113.  guardando~: con valore causale, probabilmente (per
+il fatto stesso di guardare).  Secondo altri: in me guardante: ma
+il vedere @e gi@a in atto, e proprio dal fatto del guardare
+l'occhio attinge nuova forza.  Quanto detto, in modo diverso, ai
+vv. 76-81.  -- |parvenza~: come una cosa ci appare, il suo
+aspetto (cfr. ^Par.~, XIV, 71; XXIII, 116; XXIV, 71; XXVIII, 74;
+XXX, 106).
+
+	|114.  mutandom'io~: la vera causa del <travagliarsi>
+della divina ^parvenza~ {v.113} o ^sembiante~ {v.109}.  E Dante
+muta perch@e guarda, acquistando nuova forza intellettiva e
+arrivando, alla fine, al difficile guado del trapasso speculativo
+dall'idea, relativamente facile, dell'Uno-Semplice a quella,
+assai pi@u ardua, dell'Uno-Trino-Semplice.  -- |a me~: al mio
+sguardo (impressione soggettiva), non in s@e.  -- |si
+travagliava~: si mutava, vuol dire, ma come idea inclusa nel
+significato (principale) con cui il verbo e il relativo
+sostantivo ricorrono nel poema (cfr. ^Inf.~, VII, 20; XXXIV, 91;
+^Purg.~, XXI, 4): agitare, tormentare.  Il verbo, infatti, vuol
+render l'idea del travaglio o sforzo speculativo affrontato dal
+poeta nel passare da una nozione all'altra.  Si tratta
+dell'ennesima, improvvisa sostituzione di un termine ad un altro,
+con cui Dante ama romper le facili simmetrie (|mutandom'io~... <a
+me si mutava>), assorbendo il vocabolo sottinteso, e pianamente
+sottintendibile, in quello che lo sostituisce integrandolo.  I
+riscontri addotti dal Tommaseo e dal Vandelli, dove <travaglio> e
+<travagliare> ricorrono nei significati di: differenza,
+mutazione, tramutare, fanno autorit@a: ma solo nei limiti in cui
+il riporto del linguaggio dantesco ai modi del comune linguaggio
+letterario o dell'uso vivo giova a farlo intendere.  Giova
+spesso, si vuol dire; e altrettanto di frequente lo rende
+oscuramente <travagliato> dagli interpreti, facendo velo
+all'<ars>, all'audace e sapientissima tecnica.
+
+	|115.  chiara~: luminosa, vivida.  -- |sussistenza~:
+altro attributo predicabile, assolutamente, solo di Dio: l'essere
+<subsistens>, l'esistere in s@e di s@e e per s@e, da nient'altro
+condizionato.  Il termine segna, dottrinalmente, il passaggio
+dalla nozione della <sostanza> una a quella, pi@u difficile, della
+<una sostanza> distinta in tre persone (cfr. ^Purg.~, III, 36) e
+alla quale si pu@o, in perfetta indifferenza, applicare il plurale
+o il singolare del verbo <essere>: ^che soffera congiunto~
+<^sono~> ^ed~ <^este~>.
+
+	|116.  alto~: in perfetto congegno numerico-misteriale:
+tre aggettivi (^profonda, chiara~ {v.115}, |alto~): tre i giri:
+tre i colori: ^una~ {v.117} la contenenza.  -- |parvemi~: mi
+apparvero, vidi.  -- |tre giri~: |giri~ dice che si tratta di
+circoli o sfere <giranti>, ruotanti, come conferma ^circulazion~
+del v. 127; e il circolo @e la pi@u perfetta tra le figure
+geometriche, come il moto circolare @e perfettissimo tra i moti. 
+Circoli o sfere?  Circoli, quasi concordemente; ma disposti in
+quale rapporto l'uno con l'altro, e formanti quale composizione
+geometrica?  Alla rappresentazione simbolica del mistero
+uno-trinitario in forma di tre circoli diversamente colorati e
+legati l'un l'altro a catena, aveva fatto ricorso Gioachino da
+Fiore: ma tale modo di rappresentazione, informa il Busnelli, era
+stato condannato dall'autorit@a ecclesiastica perch@e suggeriva
+l'idea delle tre divine Persone come distinte anche per sostanza
+od essenza.  La composizione d'insieme, sempre secondo il
+Busnelli, consisterebbe in una sfera o globo di luce contenente
+tre <cerchi diversamente colorati, uguali nell'ampiezza perch$e
+abbraccianti come cerchi massimi tutta la sfera e perci@o, com'@e
+dimostrato in una sfera, distinti e concentrici, ossia passanti
+tutti e tre pel centro>.  Secondo altri si tratterebbe di un
+circolo piano suddiviso in tre circoli minori: ma tanto nel
+primo, quanto nel secondo caso, non si vede bene la ragione
+perch$e poi il poeta torni ad insistere sulla difficolt@a di
+esprimere quanto ha visto e inteso.  Poich@e nella composizione
+geometrica @e simboleggiato l'arcano speculativo del processo
+uno-trinitario, dell'uno che si fa tre pur restando sempre uno, e
+del distinto che pur essendo tale, s'identifica con l'uno-tutto,
+ci sembra pi@u legittimo e pi@u in tono supporre che nella
+composizione Dante abbia inteso indicare non gi@a un <possibile>,
+ma un arcano o un <impossibile> geometrico, ossia un circolo-uno
+che appare contemporaneamente come circolo-trino: in cui ogni
+circolo @e contemporaneamente s$e e pur distinto dagli altri due,
+s'identifica spazialmente col circolo che solo in via indicativa
+diremo contenente, col quale a lor volta s'identifica ognuno
+degli altri due circoli.  Per rigorose ragioni dottrinali non @e
+lecito immaginare un contenente e dei contenuti minori di esso,
+poich@e se ne ricaverebbe l'idea di una diminuzione della ^una
+sostanza~ nelle singole Persone trinitarie.  Una figura
+geometrica del genere, va da s$e, @e difficilmente immaginabile: ma
+tale, appunto, doveva essere.
+
+	|117.  tre colori~: la differenza degli attributi
+predicati delle singole Persone in quanto distinte: la potenza
+del Padre, la sapienza del Figlio, l'amore dello Spirito Santo. 
+Poich$e Dante non ha voluto precisarli, sar@a buona norma astenersi
+dal fare ipotesi.  -- |e~: ma.  -- |d'una contenenza~: d'identica
+capacit@a di contenere, di superficie: di ciascuno in rapporto
+agli altri due, e di ciascuno dei tre circoli in rapporto al
+circolo-tutto o circolo-sostanza, la cui superficie, sempre per
+rigorose ragioni dottrinali, non si pu@o concepire come risultante
+dalla somma di tre circoli minori, avallandosi la strana idea
+delle distinte Persone come minori dell'uno-tutto o <sostanza>. 
+L'|una contenenza~ esprime figurativamente l'<equalit@a> delle
+singole Persone tra loro, e di ciascuna di esse col tutto.
+
+	|118-119.  e l'un~... |reflesso~: |reflesso~ @e qui usato
+nel significato di: generato; per sintonica analogia col fenomeno
+ottico della generazione di un ^secondo~ raggio toccato in
+^Par.~, I, 49-50: e dei due arcobaleni contigui e paralleli dei
+quali, @e detto in ^Par.~, XII, 10-15, l'esterno <nasce> da quello
+interno.  Il cerchio |reflesso~ @e il Logos o seconda Persona; e
+nel termine Dante ha inteso rendere il significato del verbo
+<procedere> (il Figlio <procede> dal Padre); come, in |iri da
+iri~, riprodurre, variando, l'espressione <lumen de lumine> del
+Simbolo di Nicea.  In ^Par.~, XIII, 55 sgg.: ^quella viva luce
+che s@i mea~ -- ^dal suo lucente che non si disuna~ -- ^da lui n$e
+dall'amor ch'a lor s'intrea~; e, ibid. X, 1-3, il Padre ^guarda~
+nel Figlio ^con l'Amore~ -- ^che l'uno e l'altro etternalmente
+spira.~  -- |terzo~... |foco~: lo Spirito Santo, il cui attributo
+@e l'amore.  Nell'usuale rapporto amore-ardore-fuoco: fuoco, si
+dichiara in ^Conv.~, III, 8, essendo <ardore d'amore e di
+caritade>.
+
+	|120.  che~... |si spiri~: lo Spirito Santo procede
+|igualmente~ dal Padre e dal Figlio, poich$e se cos@i non fosse,
+mancherebbe l'<egualit@a> tra le prime due Persone trinitarie e,
+di conseguenza, fra la terza e le precedenti.  Lo <spirare> o
+(<flare>) creativo del Padre e sapienziale del Figlio @e uno-bino,
+generando il terzo <distinto>, in esso <intreandosi>, e insieme
+rifacendosi uno.
+
+	|121-122.  Oh~... |concetto~: il |concetto~ o
+concepimento, quel che Dante ha visto e inteso, come gi@a detto ai
+vv. 55-56, @e al di sopra dei limiti dell'intelletto umano, e
+quindi il linguaggio, da questo prodotto, e necessariamente
+corto, insufficiente, mancando dei <segni> adatti ad esprimere. 
+Quelli esistenti, a loro volta, permettono tutt'al pi@u di dir con
+voce <fioca> quanto, invece, dovrebbe esser detto a voce alta e
+piena.  ^Voci alte e fioche~ in ^Inf.~, III, 27; e augurate
+^miglior voci~ ad invocare Apollo, in ^Par.~, I, 35-36.  -- |e
+questo~: nell'intelletto di Dante @e rimasto un vago ricordo non
+riducibile a una precisa formulazione logico-razionale,
+sufficiente tuttavia a dargli la misura della incommensurabile
+distanza da ripercorrere per arrivare alla verit@a speculativa
+allora <intelletta>.  C'@e, insomma, l'idea della cosa, ma la cosa
+in s@e, nel suo vero essere, @e <cessante> (cfr. v. 61).  -- |a
+quel~: in confronto, commisurato a.  E questa (cfr. ^Conv.~, III,
+3) @e l'ultima <ineffabilitade> del tema, e del poema.  -- |vidi~:
+il <vedere-intendere>, la composizione geometrica <vista>
+fungendo da simbolico ponte allo <speculare>, o atto
+intellettivo.
+
+	|123.  tanto~: tale, di tal misura o entit@a.  Ha valore
+restrittivo, ricavabile dal suo rapporto logico-verbale con
+|poco~, e con ^a quel ch'i' vidi~ del v. precedente; ma conserva
+sempre il significato di un <tanto> positivo, a esprimere il
+quale la parola @e <corta>.  -- |non basta~... |poco~: variamente
+interpretato: 1)la parola |poco~ @e insufficiente a dire di quanto
+il ^concetto~ {v.122} sia inadeguato rispetto alla cosa vista;
+2)esso ^concetto~ {v.122} non bastante a dire adeguatamente il
+|poco~ di s@e (o un |poco~ di s@e) rispetto al gran <molto> della
+cosa.  La prima interpretazione @e parzialmente accettabile ove
+s'intenda la parola |poco~ nel significato tipico e assoluto con
+cui Dante, effettivamente, suole usare determinazioni del genere
+(<molto>, <poco>, <pi@u>, <meno>); un po' meno la seconda, che
+risolve il v. 123 in una non larvata ripetizione dei vv. 121-122. 
+Soggetto di |basta~ non pu@o esser ^questo~ {v.122}, ossia il
+^concetto~ {v.122}, cosa da esprimere e non gi@a atto espressivo;
+|basta a dicer~, a sua volta, @e modo unitario e impersonale
+(Vandelli) sul quale, molto probabilmente, Dante ha innestato il
+ricordo dell'espressione latina <pauca dicere>, pur conservando a
+|poco~ il suo valore di determinazione assoluta (insufficienza). 
+|Non basta a dicer poco~, di conseguenza, par espressione girata
+sull'arco del latino <pauca dicere> e di consimili modi dell'uso,
+come <bastano poche parole>, ecc.: qui |poco dicer non basta~, e,
+poich@e |poco~ fa somma in negativo con |non basta~, il senso
+logicamente ricavabile sar@a il seguente: @e meglio non parlarne,
+rinunziare a dire.  Questa interpretazione rende anche meglio
+l'idea della incommensurabile sproporzione, tra il <concetto> e
+la cosa <vista>.
+
+	|124-126.  luce~: si ricordi, per l'ultima volta (e per
+l'ultima volta ricorre il vocabolo) la definizione di ^Conv.~,
+III, 14: <usanza de' filosofi @e di chiamare "luce" lo lume, in
+quanto esso @e nel suo fontale principio>.  E ^prima luce~, Dio,
+in ^Par.~, XXIX, 136.  -- |sola~... |arridi~: nel chiuso e
+concatenato congegno della terzina si annodano, quasi ruotando su
+se stessi, alcuni attributi della Trinit@a nel suo arcano e
+impenetrabile processo intellettivo: l'eternit@a, il sussistere,
+la reciproca e in s$e esauriente assolutezza dell'<intendere> per
+cui ogni Persona <intende> s$e e le altre ed @e a sua volta da esse
+|intelletta~, asommandosi <igualmente> il distinto <intendere> in
+un unico intendere se stessa.  Ch'@e anche, nell'attuoso rapporto
+uno-trino, un generare e un amare.  -- |sidi~: dal lat. <sidere>. 
+Dio @e, in assoluto, l'unica e vera <sussistenza> o <sostanza>. 
+-- |t'intendi~: ^Conv.~, II, 3 e 5: <quella somma Deitade che
+sola s@e compiutamente vede...  La luce che sola s$e medesima vede
+compiutamente>.  -- |intendente~: l'insistenza sul motivo
+dell'<intendere> richiama l'attenzione sulla seconda persona o
+Logos (Sapienza), e avvia il passaggio alla contemplazione del
+mistero dell'unione della natura umana e divina avvenuta,
+appunto, nella seconda persona, il <Verbum> o <Logos>.  -- |ami~:
+in sequenza rigorosamente dottrinale: l'amare come sappiamo da
+tanti passi della terza cantica -- consegue all'<intendere>; come
+dall'appagamento del <desio> generato dall'amore nasce la gioia,
+l'<arridere>, il riso-letizia dell'anima effondentesi in |luce.~ 
+La terzina, come si vede, chiude in circolo: |luce~ --
+<arridere>.
+
+	|127.  circulazion~: cerchio ruotante: ^giri~ al v. 116,
+termine spesso gi@a applicato ai cieli, perch@e giranti, ruotanti. 
+<Girazione> del cielo sui due <fermi> poli, in ^Conv.~, III, 5;
+<circulazion> del sole, nel son. ^Io sono stato~...; e
+<circulatio>, movimento, nel latino della ^Quaestio.~  --
+|concetta~: generata: avvertendo tuttavia che il generare @e
+eterno, e non produce un altro-da-s@e; nel verbo, perci@o, @e anche
+l'idea del concepimento primigenio, eternamente attuantesi, come
+notava l'attento Cesari.
+
+	|128.  pareva~: appariva, si presentava alla vista.  --
+|in te~: nell'<unasostanza>, per processo tutto interno.  --
+|lume reflesso~: cfr. v. 119.
+
+	|129.  alquanto~: di tempo, per il <vedere>; di sforzo,
+per l'<intendere>.  -- |circunspetta~: osservata attentamente;
+<circumspectio>, attenta osservazione, nelle ^Epist.~ ad Arrigo e
+ai Cardinali.  La preposizione, tuttavia, qui delimita anche il
+campo dell'osservazione, contenuta nei limiti della
+circonferenza.
+
+	|130.  dentro~: il passaggio alla contemplazione
+dell'ultimo e ancor pi@u profondo mistero non @e istantaneo ma
+graduale: e nel circolo, forse, al poeta si sar@a presentato lo
+stesso <travagliarsi> dei vv. 112-114.  -- |da s$e~: nel suo e dal
+suo interno: includendosi la doppia idea del produrre e
+dell'assumere.  La natura umana @e infatti creata direttamente
+(l'anima razionale) e indirettamente (il corpo) del Primo Agente;
+e, in quanto rivestita da Dio al momento dell'Incarnazione, @e
+natura <assunta> (cfr. ^Par.~, VII, 34-45).  -- |del~...
+|stesso~: nell'identit@a del colore @e indicata tanto l'assoluta
+<semplicit@a> (cfr. v. 109 n.) della divina essenza, quanto la
+perfetta connaturazione del divino e dell'umano nella seconda
+Persona.  Un mutamento di colore avrebbe significato alterazione,
+cosa, dottrinalmente, incompatibile con l'idea di Dio.
+
+	|131.  parve~: apparve; la vidi.  Il mistero dell'unione
+delle due nature nel Verbo @e inaccessibile all'occhio
+dell'intelletto mortale; ma Dante, con l'occhio della Grazia,
+riesce a vedere il secondo <impossibile>, in deroga dalla normale
+legge ottica.  @E impossibile, infatti, in un cerchio di un certo
+colore, percepire una figura dello stesso colore.  Per la
+percezione occorre una differenza, sia pur minima.  -- |pinta~:
+dipinta.  -- |nostra effige~: figura umana: figura completa, si
+badi bene, non il solo volto; donde l'altro e ultimo e
+soverchiante <impossibile>.
+
+	|133.  Qual @e~: nella stessa condizione in cui viene a
+trovarsi il...  -- |geom@etra~: matematico.  Il termine
+<matematico>, nel Medio Evo, aveva significato degradativo
+essendo riservato -- informa Isidoro in ^Etym.~, VIII, 9 -- agli
+studiosi di astrologia che della loro scienza facevano uso
+superstizioso.  -- |tutto s'affige~: si applica, con tutte le sue
+forze e cognizioni.
+
+	|134-135.  misurar lo cerchio~: calcolare l'esatta
+superficie del cerchio in modo da poterlo risolvere in un
+quadrato di superficie esattamente equivalente, donde la
+denominazione del problema: quadratura del circolo.  Problema
+classico, e massimo, gi@a noto alla Geometria pre-euclidea, al
+quale Dante accenna in ^Mon.~, III, 3 (<Geometra circuli
+quadraturam ignorat>) e in ^Conv.~, II, 13 (<lo cerchio per lo
+suo arco @e impossibile a quadrare perfettamente, e per@o @e
+impossibile a misurare a punto>); e, in sede analogica,
+appropriatamente scelto, perch$e il mistero dell'unione delle due
+nature in Cristo @e visivizzato nell'<impossibile> geometrico
+della perfetta equivalenza e reciproca risoluzione di due figure
+(uomo e cerchio) non riducibili l'una all'altra, se non a
+condizione di far perdere a ciascuna di esse le proprie
+caratteristiche.  Questa trascrizione e quasi degradazione visiva
+di una verit@a sopra-razionale pu@o non piacere, e noi,
+personalmente, preferiamo la viva e ardita pregnanza di
+linguaggio dottrinale di altre parti del canto: essa, tuttavia, @e
+coerentemente intonata alla finzione fantastica del viaggio
+compiuto da un Dante vivo, cio@e in anima e corpo; e ai termini,
+ancora, dell'accettata convenzione di un vedere speculativo ch'@e
+pur sempre, e anche, un vedere con l'occhio corporeo. 
+L'intelletto di Dante, inoltre, resta sempre, pi@u o meno,
+umanamente, quanto dire sensualmente, condizionato, e gli
+mancano, quindi, tanto il linguaggio quanto le <categorie> con
+cui pensare, razionalmente, il sopra-razionale: e la rivelazione
+che Dio fa di s$e al poeta, anche in quest'ultima fase, rispetta
+pienamente, se ben si osserva, la legge del processo conoscitivo
+proprio dell'intelletto umano.  Salvo che ora, a segnare lo
+stacco tra razionale e sopra-razionale, avviene una cosa
+sorprendente: i dati trasmessi dai sensi, fondamento dell'umana
+scienza, sono degli <impossibili> scientifici che fantasia e
+intelletto, pur vedendoli come possibili e veri e reali, non
+riescono a organizzare e pensare.  Il ricorso all'invenzione
+dell'<impossibile> acquista, in questa sede, un suo profondo
+significato: da una parte esso accusa l'incapacit@a
+dell'intelletto umano di uscire dai limiti della conoscenza
+razionale e del linguaggio analogico derivato dall'osservazione
+dell'universo fisico e applicato al mondo dell'invisibile e del
+sopra-razionale; dall'altro rappresenta l'ultimo tentativo per
+liberarsene, usandone i dati impossibilmente alterati e
+ricombinati, come segno razionalmente assurdo, e pur vero, di un
+sopra-razionale vero e reale.  -- |e non~... |pensando~: ma non
+riesce a scoprire, per quanto si sforzi...  -- |principio~: il
+principio matematico da cui dipende la risoluzione del problema:
+l'esatta determinazione del rapporto diametro-circonferenza.  --
+|indige~: abbisogna (in lat. <indigere>).  Come lo sforzo del
+|geom@etra~ si appunta sulla scoperta del |principio~ ch'@e poi la
+formula di un rapporto; cos@i lo sforzo di Dante @e tutto rivolto a
+intendere l'arcano rapporto onde il circolo @e riducibile a figura
+umana e questa a quello.  Il modo del rapporto, per allegoria,
+tra l'umano e il divino, tra finito e infinito, ecc., nella
+persona di Cristo.  Ed @e ancora uno sforzo d'intendimento
+razionale, sia pur operato da un limite pi@u alto e lontano, dove
+le <categorie> razionali son quasi superate, ricombinate in forme
+e rapporti <impossibili>.  E nel punto di quest'ultimo tentativo
+di ridurre il possibile-vero sopra-razionale ai dati di un
+<impossibile> scientifico-razionale, non spiegabile ma ancora, in
+un certo modo, pensabile, avviene il cedimento, lo schianto
+dell'^alta fantasia~ {v.142}.
+
+	|136.  nova~: nuova e sorprendente.
+
+	|137.  veder~: spiegarmi, rendermi conto.  Dante <vedeva>
+il problema risolto, ma non <vedeva> il principio, la chiave
+della soluzione.  -- |si convenne~: poteva adattarsi,
+corrispondere: dimensionarsi a circolo.
+
+	|138.  l'imago~: il mistero massimo dev'essere
+simboleggiato dal massimo <impossibile> geometrico; e quindi in
+imago si deve vedere non la sola faccia, ma tutta la figura
+umana, riuscendo cos@i difficile immaginare come la figura umana
+sia se stessa, quale la conosciamo, e insieme un circolo, e
+viceversa.  E s'intende che la figura umana deve occupare tutta
+l'estensione del circolo, conformemente alla dottrina ufficiale
+dell'unione consustanziale delle due nature nella persona di
+Cristo: se nel circolo restassero spazi vuoti, cio@e non occupati
+dalla dimensione della figura umana, il rapporto cerchio-figura
+sarebbe di contenente a contenuto, di maggiore a minore, di
+distinzione-separazione, cosa non rispondente a quanto Dante
+<vede>: il due-uno e l'uno-due, o l'uno-distinto, in un rapporto
+d'identit@a: cerchio ch'@e figura umana, e questa ch'@e esso
+cerchio.  Ne uscirebbe, insomma, simboleggiata la dottrina
+ereticale secondo cui in Cristo la natura umana @e una dimensione
+minore o accidentale della natura divina, una delle dottrine
+ereticali fiorite sul tronco dei gravi e lunghi dibattiti
+attraverso i quali, nell'et@a patristica, si arriv@o alla
+formulazione dottrinale di questo dogma.  -- |come~:
+l'aristotelico-scolastico <come> o <quomodo>, esprimente
+l'istanza di un intendimento razionale del processo onde una
+causa genera il suo effetto.  -- |s'indova~: vi trova posto, si
+colloca (coniato da <dove>); cos@i altrove <insusarsi>,
+<immillarsi>, <incinquarsi>, ecc.
+
+	|139.  da ci@o~: atte a tal volo.  -- |proprie penne~: le
+mie ali o forze (intellettuali); |proprie~, di me (intelletto
+umano, e quindi, assiomaticamente, limitato).  In realt@a
+l'intelletto di Dante si era portato molto in alto, e anche
+l'ultimo volo viene spiccato: ma nel varco dell'ultimo limite,
+ch'@e poi il trascendere dell'intelletto alle condizioni e leggi
+del suo normale operare, quasi uno sgancio dell'intelletto
+^possibile~ (cfr. ^Purg.~, XXV, 65), dal suo condizionante e
+limitante rapporto con l'intelletto ^agente~ e con la fantasia,
+si verifica una sorta di scardinamento e di folgorante
+esplosione, un fuori-uscire della mente (cfr. ^Par.~, XXIII,
+43-44).  <Excessus mentis>, nel linguaggio degli ^Atti Apost.~,
+espressione poi usata da mistici e tomisti, sia pur con qualche
+differenza di significato teorico.  Nell'<excessus mentis>,
+l'ultimo grado dell'estasi, si ha, misticamente (cfr. San
+Bonaventura, ^Itin.~, VI), una specie di <morte>, di totale
+obliterazione, di quasi annegamento del finito-individuale
+nell'infinito-universale: esperienza senza ritorno, senza
+possibilit@a di riporto a dati intellettivi e memoriali: e di cui
+resta, esclusivamente, la <passione> (cfr. vv. 58-63).
+
+	|140.  percossa~: verbo usato, in genere, per indicare
+urto o sensazione violenti (cfr. ^Inf.~, XII, 5; ^Par.~, VI, 65;
+XII, 100 ecc.).  In ^fulgore~ {v.141}, di conseguenza, @e idea di
+folgorazione.
+
+	|141.  fulgore~: il fulgore della Grazia che scopre, a
+Dante, il supremamente arcano mistero.  -- |in che~... |venne~:
+non sicuramente interpretabile, |voglia~ potendo significare
+tanto il desiderio in s@e, quanto l'oggetto desiderato; e |venne~,
+a sua volta, ed ellitticamente: <venne intera>, si avver@o, fu
+appagata (cfr. ^Inf.~, XXVII, 69); o, se riferito all'oggetto: si
+present@o alla vista, chiaro, in quel |fulgore~, l'oggetto del mio
+ardore intellettivo (la soluzione del quesito o intendimento
+sovra-razionale del mistero).  Optiamo per quest'ultimo
+significato, |voglia~ in doppia chiave servendo coerentemente a
+fermare l'idea di ardore, con inclusa indicazione della cosa
+desiderata che <venuta> in quel |fulgore~, apparve chiara alla
+vista.  L'interpretazione @e convalidata dall'uso analogico del
+verbo <vedere> (intendere) nella terzina 136-138: prima Dante
+voleva <vedere> ma non poteva; ora, essendo la cosa <venuta> in
+|fulgore~, pu@o <vedere> (intendere).  L'idea suggerita, in ogni
+modo, @e di totale appagamento.
+
+	|142.  alta~: appropriato: poich$e lo sforzo della
+|fantasia~ @e in verticale, verso il ^sommo~ (^Par.~, IV, 132). 
+^Alto~, tuttavia, vale anche: profondo: e le due qualifiche, in
+sostanza, si risolvono nell'unica idea di potenza.  L'aggettivo,
+si aggiunga, non si limita a definire ma, nel modo e tono della
+sua imposizione, afferma: la |fantasia~ esser |alta~!  E i
+lettori del poema lo ricantano, da secoli.  -- |fantasia~: pur
+facendo aleggiare su questi ultimi versi il motivo mistico
+dell'estasi obliosa e quasi dissolvente, l'aristotelico Dante,
+aborrente da ogni imprecisione e approssimazione dottrinale,
+precisa che il passaggio a un modo d'intendere sopra-razionale,
+non umanamente condizionato avviene nel momento in cui si mette
+in stasi la |fantasia~, facolt@a o <virt@u organica> mediatrice tra
+l'intelletto e i sensi, dei quali ultimi accoglie e organizza i
+dati.  Rotto il vincolo con la |fantasia~, l'intelletto opera
+allo stato puro, come quello degli angeli, <sustanze separate da
+materia>.  Il concetto ha chiarimento in un passo di ^Conv.~,
+III, 4: <dico che nostro intelletto, per difetto de la vert@u da
+la quale trae quello ch'el vede, che @e virt@u organica, cio@e la
+fantasia. non puote a certe cose salire (per@o che la fantasia nol
+puote aiutare, ch@e non ha lo di che),... s@i che, se la mia
+considerazione mi transportava in parte dove la fantasia venia
+meno a lo 'ntelletto, se io non potea intendere non sono da
+biasimare>.  Cessazione di fantasia, sar@a appena necessario
+osservare, sottintende cessazione di memoria, e documento del
+fatto non @e il distinto ricordo, ma la <passione>.  -- |qui~: a
+questo punto, concernente il ^come~ dell'<indovarsi> e
+<convenire> delle due figure, uomo e cerchio.  -- |possa~: la
+forza di cui @e naturalmente dotata: nel senso, s'intenda, che la
+sua |possa~ naturale divenne manchevole, insufficiente a...
+
+	|143.  ma gi@a~: ma ormai.  Il venir meno della fantasia
+non segn@o un arresto dell'intelletto n@e, di conseguenza, fece
+ostacolo al compiersi dell'arcana visione e, in essa, al
+raggiungimento della suprema letizia che al poeta veniva dal
+totale appagamento dell'intelletto e dal trovarsi in pi@u intima
+comunione con Dio.  Quanto dire nella massima perfezione del
+proprio essere, e in armonia con se stesso e con l'universo,
+conformemente alla dottrina dell'<ordo mundi> esposta da Beatrice
+in ^Par.~, I, 103-fine, e alla quale la chiusa della cantica e
+del poema si raccorda, con una grandiosamente ampia curvatura in
+circolo.  Rileveremo in margine, ma @e facile rilievo, il raccordo
+uno-trino delle tre cantiche nella loro parola-fine: ^Inf.~: ^e
+quindi uscimmo a riveder le stelle~; ^Purg.~: ^puro e disposto a
+salire alle stelle~; ^Par.~: ^l'amor che move il sole e l'altre
+stelle.~  Dove la parola-fine delle prime due cantiche ne assomma
+in s$e auguralmente la materia preludiando a ulteriori sviluppi;
+il finale |stelle~ dell'ultima cantica, a sua volta, riassume la
+vicenda del viaggio oltremondano fermandola nell'attimo, gaudioso
+ed arcano, della sua raggiante apertura al prodigio del
+divinamente animato e ordinato Universo.  -- |volgeva~: il verbo
+introduce l'ultima <crux interpretum>, il disputatissimo passo
+che segue.  Il verbo non pu@o non essere transitivo, ed ha il suo
+soggetto in ^amor~ {v.145} dell'ultimo verso: stimolava movendo
+in circolo, con moto circolare.  -- |disio~... |velle~: <lo
+maggior corno> della metaforica croce: e ci vorrebbero pagine a
+fare il punto!  I due termini, essendo distinti, indicheranno non
+solo cose distinte, ma, per implicazione, tutti gli elementi
+logicamente pensabili e dottrinalmente necessari a costituire una
+condizione di perfetta armonizzazione con Dio: l'armonia o
+<equalit@a> di tutte le facolt@a spirituali.  E poich$e il |velle~ o
+<volere> @e facolt@a annessa all'intelletto, ed essa opera
+perfettamente e in condizione di assoluta libert@a quando sia in
+accordo con l'intelletto, e di questo @e gi@a stato detto essere
+arcanamente illuminato dalla divina grazia o sapienza (cfr. vv.
+140-141), e per di pi@u impulsore di moto @e Dio, perfezione e
+somma <equalit@a>, il perfetto moversi del |velle~ presuppone
+assiomaticamente il perfetto moto od operare dell'intelletto. 
+Dante, probabilmente, e con l'ultima delle sue sottili scelte
+verbali, avr@a usato |velle~ (e non: mente o intelletto) in forza
+delle pi@u ricche implicazioni concettuali del vocabolo.  Il
+quale, infatti, oltre ad esser legato strettamente al concetto di
+mente, richiama l'idea dell'operare che dal volere, appunto,
+dipende; e d@a rilievo infine al concetto, anch'esso e non poco
+importante, che la maggiore difficolt@a non @e l'armonia fra
+volont@a e intelletto, ma fra il razionale volere e i moti
+affettivi.  |Disio~, per esclusione, dovr@a significare: affetto,
+il complesso affettivo dell'anima.  Qui, volont@a ed affetti sono
+in armonia, muovendosi di moto l'uno all'altro uniforme, perch$e
+mossi da una identica ruota (Dio) muoventesi, pur essa, di moto
+uniforme.  L'idea di appagamento, ovviamente, @e sottintesa.
+
+	|144.  s@i come~: definisce l'effetto: ^volgeva~ {v.143}
+come pu@o volgere una ruota che |igualmente @e mossa~: uniforme
+mente (tanto il ^disio~ {v.143} quanto il ^velle~ {v.143}), in
+modo perfettamente uniforme, trattandosi dell'^amor che move il
+sole e l'altre stelle~ {v.145}, ossia di Dio.  -- |rota~: l'idea
+del moto circolare come pi@u perfetto tra i vari tipi di moto, e
+perci@o pi@u degno simbolo della pi@u perfetta operazione spirituale
+(l'intendere) e meno indegnamente applicabile, in via analogica,
+all'attivit@a intellettiva degli angeli e di Dio, viene da
+Aristotele ed era vulgatissima nella Scolastica: come ha
+illustrato, e con abbondanza di rimandi, il Nardi.  Fattori
+principali della perfezione del moto circolare eran considerati i
+seguenti: l'uniformit@a o regolarit@a; il suo esser senza principio
+e fine; e l'unire in s$e il duplice fatto del moto (nelle parti) e
+della quiete (nel suo centro).  -- |igualmente~: uniformemente,
+regolarmente.  <Uguale> e <regolare> e <uniforme> erano usati
+come sinonimi, si ricava dall'abbondante documentazione del Nardi
+che qui utilizziamo: <motus regularis> in Aristotele (^Fisica~,
+V, 4 e ^De coelo~, II, 4, trad. di G. Moerbeke); <motus aequalis>
+nella versione arabo-latina delle opere sopracitate e in Averro@e;
+<motus unus uniformis sive acqualis in omnibus partibus suis> in
+Alberto Magno, ^Fisica~, V, 3, 4.  -- |@e mossa~: con valore
+medio-passivo: si muove.
+
+	|145.  l'amor~: Dio, primo Amore e primo Motore. 
+Nell'attributo dell'amore, giustamente accampato in fine, l'idea
+della sovrana grazia ricevuta.  -- |stelle~: nell'^Epist.~ a
+Cangrande, il pi@u degno commento di chiusa: <Et quia, invento
+Principio seu Primo, videlicet Deo, nihil est quod ulterius
+queratur, cum sit Alfa et O, idest principium et finis, ut visio
+Iohannis designat, in ipso Deo terminatur tractatus, qui est
+benedictus in secula seculorum>.  Nelle parole con cui Pietro
+Alighieri termin@o il suo commento al poema paterno, le parole
+ultime del commentatore: <Rogo quosque legentes ut errores
+colligant, defectus suppleant; nam difficile puto in tanta
+curiositate me omnia punctatim recitare potuisse; sectando
+Augustinum dicentem: "Talis sum in scriptis aliorum, quales volo
+esse intellectores meorum">.  E infine, scheggiato raggio di
+stella, il pungente <explicit> dell'opera: il quale, stando
+all'^Epist.~ a Cangrande, dovrebbe, con risentita vibrazione,
+suonare cos@i: ^Explicit Comedia Dantis Alagherii, florentini
+natione, non moribus.~

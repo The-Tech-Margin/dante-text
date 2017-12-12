@@ -1,0 +1,125 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id XAA02127
+	for <steve@avalon.dartmouth.edu>; Mon, 8 Feb 1999 23:06:09 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id XAA15822
+	for <Steve.Campbell@DARTMOUTH.EDU>; Mon, 8 Feb 1999 23:06:06 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 33353 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67263-316>; Mon, 8 Feb 1999 23:04:47 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id XAA22456
+	for <Steve.Campbell@dartmouth.edu>; Mon, 8 Feb 1999 23:04:39 -0500 (EST)
+Received: from mesa.Princeton.EDU (mesa.Princeton.EDU [128.112.129.17])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id XAA00911;
+	Mon, 8 Feb 1999 23:04:35 -0500 (EST)
+Received: (from bobh@localhost)
+	by mesa.Princeton.EDU (8.9.1/8.9.1) id XAA18547;
+	Mon, 8 Feb 1999 23:04:34 -0500 (EST)
+Message-Id: <199902090404.XAA18547@mesa.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Mon, 8 Feb 1999 23:04:34 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU, bobh@phoenix.Princeton.EDU
+Subject: DDP -x
+Cc: bobh@phoenix.Princeton.EDU
+
+Hi, Steve.  HEllish busy here.  Had a chance to spend
+some hours on DDP today.  Got some sad tales to tell.
+HEre goes:
+
+I have checked Pietro3, Graziolo, Poletto, and
+Andreoli.  I will look at Buti next (in a few days);
+can you remind me of the other "new loads"?
+
+(1) Andreoli.  He got loaded weirdly.  Only Par. I is
+properly "parsed"; all other 99 cantos are a single
+lump, each one of them.  From what I could see, they
+all look fine except for that.  Is that a big deal? I'd
+hope not.
+
+(2) Graziolo.  He looks fine (for a 700-year-old guy).
+Only one change I noted:
+Doc. 2 (Inf. Nota): two changes
+
+        Eccli.  39 = Eccli. 39 [cut one space]
+        sapienza). = sapienza)}.        [add squiggly]
+
+(3) Pietro3.  Looks very good.  Some small things
+need changing:
+
+Doc. 2 (Inf. Nota)
+
+        "$amp": expunge [it's on 3rd screen]
+
+Inf. 2.16-24, 2nd screen
+{twice}
+Inf. 2.82-102, 3rd screen
+Inf. 5.28-33, 1st screen:
+        all these four loci have the following:
+
+                _Gl._ rel = _Gl._ rel.  {needs "."}
+
+Inf. 3.70-136, 3rd screen:
+        
+                _Gl._  rel. = _Gl._ rel. {close up}
+
+Thereare quite a few other "_Gl._ rel."s, and they're
+all correct.
+
+BIG PROBLEM WITH P3: missing cantos: 1, 10, 14, 15,
+20-34.  I sent these separately.  You should have 'em.
+
+5. Poletto.
+
+        Changes as follows:
+
+Inf. 5.121-123  proegustata = praegustata
+
+Inf. 7.46-48    runt = sunt
+
+Inf. 19.1-6     paiperum = pauperum
+Inf. 19.106-111 terramm = terram
+
+Inf. 28.55-60   diucebant = ducebant
+Inf. 28.55-60   parvoe = parvae
+
+Inf. 31.76-78   incurahilis = incurabilis
+
+6. Giacalone (somewhere): Proebi = Phoebi
+
+
+BUT NOW THE HORROR STORY: Antonia Rossi is less of a
+Latinist than one might have hoped.  I have already
+cleaned up Scrtazzini's Latin Loopers for Inferno.  Of
+the hundreds I found tonight, most are in Scart. Purg.
+and Par. And most of the rest in the new boy, Poletto,
+also done by Antonia.  It's incredible.  Here's the
+list.  It is partial, but the best I could do
+intuitively and using bits and pieces to develop.  But
+it's very much worth fixing before we open.  Here goes:
+
+The good news is that almost all of these are global.
+The bad news is that we don't have a way of doing
+global edits....
+
+quoe$ = quae$                   230 docs (73 in Pol.)
+hoec = haec
+adhoer$ = adhaer$
+hoer$ = haer$
+soep$ = saep$
+
+proeb$ = praeb$         (except for Giacalone, above)
+proec$ = praec$         (except for #1, Lana, who's OK)
+proed$ = praed$         (except for Rossetti & Bianchi)
+proee$ = praee$ 
+proef$ = praef$         (there's only 1)
+proen$ not proenz$      all six
+proep$ = praep$         all 23
+proer$ = praer$         only 1
+proes$ = praes$         all 80 (!)
+proet$ = praet$         all but Benv. & Siena (60)
+proev$ = praev$         all 24
+proex$ = praex$         only 1
+
+Well, that's tonight's installment.  Tell me ehat you
+think.  Best, Bob

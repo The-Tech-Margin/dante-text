@@ -1,0 +1,68 @@
+This document describes how commentary texts are acquired and eventually
+converted on our personal computers into to plain ASCII text files written
+in the Dartmouth Dante Project mark-up language, which is described in
+detail in the Editor's Stylebook. We then transfer these files to the web
+applications server. These files on the server are the official, canonical
+"source files" for the online database, in fact for the entire project.
+
+Since the beginning of the project in the 1980's, the DDP has acquired
+commentary texts through a variety of means depending on the format of
+the text and the available technology. Some texts have been hand-typed;
+some have been scanned from published material using optical character
+recognition (OCR) technology; some have been available electronically
+as word-processing files.
+
+Today we do not use hand typing. Further, OCR scanning usually produces
+a word-processing file as its output. So much of the conversion process
+is the same no matter how we acquire the document:
+
+OCR Scanner  ------\
+                    \
+                     --->  Word-Processor Document  ---> DDP Markup File
+                    /
+Author/Publisher --/
+
+There are many word-processing programs in use. Some use a proprietary
+format for their documents. We needed a lowest common denominator file format
+that many popular word processors could produce. That format is Rich Text
+Format (RTF). All popular word processors can save their documents in RTF
+format. RTF includes all the characters in the Latin 1 character set
+that we use in the DDP. So the diagram above becomes:
+
+OCR Scanner  ------\
+                    \
+                     --->  Word-Processor Document  ---> RTF File  ---> DDP Markup File
+                    /
+Author/Publisher --/
+
+To convert RTF files to DDP markup language, we use the utility R2Net
+Desktop, version 6.2.22 or later, by Logictran, Inc., www.logictran.net.
+R2Net uses two configuration files, ascii.trn and asciimap.txt, to define
+the mapping. Copies of these files are kept on the web application server
+in /home/dante/Alexandria-Archives/dante/Spring2002/rtftranslationtools.
+After being processed by R2Net, the files are run through simple sed(1)
+scripts to neaten them up.
+
+Once commentary text files are in DDP markup format on our personal
+computers, we transfer them to the web applications server using sftp.
+
+Example - scanning:
+
+The Chiavacci commentary was scanned from the published books. We
+used a flatbed scanner connected to a Mac in the Dartmouth Arts and
+Humanities Resource Center. The scanner software generated PDF files -
+one for each canto - representing an image of the pages. After scanning,
+each file was read by Adobe Acrobat Pro, and its OCR feature, configured
+to recognize Italian, converted the files to PDF files with identifiable
+characters. These files were transferred to Steve Campbell's personal Mac.
+There the text characters were then "cut" from the PDF files and "pasted"
+into a Word document. Campbell used Word to set the language of the
+document to Italian, to set a uniform font - Times New Roman, 16 point,
+to correct scanner and OCR errors, and to put the text into DDP style. The
+result was saved as an RTF file. Each RTF file was processed by R2Net
+and the sed(1) scripts to generate DDP markup files. These files were
+transferred to the web server using sftp.
+
+Example - electronic text:
+
+

@@ -1,0 +1,108 @@
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Vellutello
+	Language   = Italian
+	Pub. Year  = 1544
+	Cantica    = 20-Purgatorio
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 01.e...
+Verifying ../staging/purg/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      47621 Jan  4 15:31 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 02.e...
+Verifying ../staging/purg/02...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      35569 Jan  4 15:31 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 03.e...
+Verifying ../staging/purg/03...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      36783 Jan  4 15:31 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 04.e...
+Verifying ../staging/purg/04...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      41648 Jan  4 15:31 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 05.e...
+Verifying ../staging/purg/05...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      33265 Jan  4 15:31 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 06.e...
+Verifying ../staging/purg/06...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      38933 Jan  4 15:31 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 07.e...
+Verifying ../staging/purg/07...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      32443 Jan  4 15:31 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 08.e...
+Verifying ../staging/purg/08...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      42071 Jan  4 15:31 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 09.e...
+Verifying ../staging/purg/09...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      37607 Jan  4 15:31 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 10.e...
+Verifying ../staging/purg/10...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante      36418 Jan  4 15:31 ../staging/purg/10

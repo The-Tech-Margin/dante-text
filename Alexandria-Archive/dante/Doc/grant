@@ -1,0 +1,277 @@
+		Rationale for Using the Computer
+
+[Edited Sept 15 by stc.]
+
+The goal of the Dartmouth Dante Project is both to make a substantial
+body of commentaries on the Divine Comedy available to any Dante
+student or scholar wherever he or she may be and to provide this
+material on a convenient medium, the computer workstation, on which one
+can analyze and synthesize these scholarly works.  The project uses
+modern data processing and computing technology and methods: the
+commentaries have been selected and will be entered with indices, where
+these exist. A substantial database is thereby being constructed. The
+source materials require the addition of codes to facilitate the
+retrieval and other uses of the database. A major effort is being made
+to provide quality controls on the handling of the texts and their
+editing, where necessary. Appropriate hardware and software have been
+selected and acquired to support the database and the user. Since no
+special experience with the source documents will be assumed, a
+user-friendly man-machine interface will have to be created (the
+prototype of this already exists). Computer programming will have to
+done to create the user interface (the storage and retrieval software
+already exists and is marketed by the Bibliographic Retrieval Service
+company--BRS). Dissemination is a major goal of the project, so that
+several different modes of use of the database with its software will
+be created: briefly, these are 1) use of Dartmouth's computer system -
+either at Dartmouth or via common carrier from any location - with
+either a standard computer terminal or a microcomputer workstation; 2)
+use of another computer system similar to Dartmouth's which has a copy
+of the database; 3) use of a microcomputer workstation that itself
+contains a complete copy of the database.  A standalone workstation
+that contains the entire database is being made possible through the
+use of the emerging laser disk technology which makes it possible to
+store hundreds of millions of characters on a disk the size of
+pancake.
+
+
+			Data Entry
+
+
+Nearly all of the commentaries of interest have been printed, almost
+all using modern type fonts; therefore, these works can be read by the
+most sophisticated optical scanning equipment.
+
+
+During the spring of 1983, two graduate students in computing at
+Dartmouth did a survey of the available scanning equipment. Two vendors
+market equipment which is potentially able to input the printed Dante
+commentaries. By a major stroke of good fortune for the Dartmouth Dante
+Project, Dartmouth College has acquired one of these systems, a
+Kurzweil Data Entry Machine (KDEM). Note that Oxford and Glasgow
+Universities in Britain and Brigham Young University also have such
+machines.
+
+
+We are using Dartmouth's KDEM machine and its professional operations
+staff to create machine-readable versions of the various commentaries.
+The number of printed pages is approximately 100,000. Of the 60-80 or
+so texts which we will use, some are printed using the same type fonts.
+The KDEM has to "learn" to read each different document's font. Set-up
+activity can be avoided when several documents printed in the same font
+can be read in series. The texts which are not readable by the KDEM
+will require manual entry, making use of a computer-based screen
+editor. (We estimate that no more than 25% of all texts will require
+manual entry.)
+
+
+Many documents are being photocopied in their "home" library; then
+these photocopies will be scanned by the KDEM.  At this stage we expect
+that there will be some scanning errors; no machine is error-proof.
+The editorial co-ordinator will compare the photocopy to the
+computerized text and will correct any errors on the spot.  The
+resulting text will be entered into a computer workstation and then be
+edited by our humanist colleagues, all of whom are expert at reading
+Dante and the commentaries.
+
+The editorial co-ordinator will have to make other changes as well. Our
+system will use the line numbers of each canto of the Divine Comedy as
+search and retrieval criteria; yet not all of the editions have been
+printed with the exact line numbers. A trained human editor can
+recognize this situation and impute what is lacking in the original
+text. These editorial enhancements will make our database uniform and
+facilitate its use.
+
+
+All non-standard characters, especially accent marks, will be preserved
+in the database. If the KDEM misses some occasional marks, then the
+editorial co-ordinator will put them in.
+
+
+A sample of all editorial work will be examined by another person
+independently. Thus, the project will involve four editorial
+interventions for each commentary: 1) double entry via the KDEM and
+resultant listing of differing entries; 2) the editorial co-ordinator
+will examine the final version; 3) one of the three dantisti in the
+project (Hollander, Vickers, Brownlee) will go over that text; 4)
+Hollander will "spot check" all entries during the third year of the
+project. It should be remembered that the result is not a printed book;
+as users find remaining errors they can (as they will be requested to
+do) notify us so that we may correct the database. At all stages of
+editing, sources of untoward error rates will be sought and corrective
+measures taken in order to assure quality control.
+
+		Use of the Dartmouth Dante
+
+The scholarly user of the Dartmouth Dante will have a variety of
+methods available for accessing the stored text of the commentators.
+These methods include, but are not limited to, accessing:
+
+1. By the name of the author of the commentary; the system will make
+available a selected section of an entire commentary; it will also be
+possible to duplicate an entire commentary using the Dartmouth Dante
+system.
+
+2. By the name of the cantica of the Divine Comedy or by the name of
+the cantica plus the canto number or by the name of the cantica plus
+the canto number plus the line number (or a range of line numbers). The
+system will retrieve only the specified text from the stored
+commentaries and will indicate the commentaries selected by displaying
+a list of their authors together with a simple access number.
+
+3. By a keyword or phrase or arbitrary compounding of keywords and
+phrases. Boolean compounding using AND, OR, and NOT operations,
+together with ADJACENT and WITH modifiers. AND refers to both keyword
+phrases being present in the commentary text; OR refers to at least one
+of the keyword phrases being present; NOT refers to the logical
+opposite of present, i.e., it refers to the text where the keyword
+phrase is not present; ADJACENT joins two keyword phrases which must be
+in the same sentence of the commentary text to be selected.  WITH joins
+two keyword phrases which must be in the same sentence of the
+commentary text to be selected. The system will indicate the
+commentaries selected by displaying a list of their authors together
+with a simple access number.
+
+
+		The User Interface
+
+The user interface will be simple, yet it will be flexible. The
+existing prototype was built so that users could respond to a
+particular system's features. The final system will improve upon the
+prototype (a subject addressed below). It will not be necessary for a
+user to know how to program in any computer language.  All of the
+user's directions will be communicated to the Dartmouth Dante system
+using "menus" and "commands." A menu is a list of actions from which
+the user may choose one for the system to carry out; specification of
+any one action would be necessary to accomplish any activity. A command
+is a directive which the user may give at specified times to accomplish
+some particular action.  A session between the user and the computer
+would involve a sequence of menu choices and command directives which
+the user would indicate to the computer in an interactive fashion. The
+computer would respond to each user request, and each menu will provide
+an explanation of the choices; each command will have a "help" option.
+In this way the system will provide a supportive and reassuring
+environment for the user. Documentation will complement these "on-line"
+facilities: a user's primer and a reference manual for the Dartmouth
+Dante system will be written and disseminated.
+
+ The Dante Data Base
+
+The Dante database as proposed herein consists of the equivalent of one
+hundred thousand typed pages of text. If we assume that a typed page
+has 55 lines of 65 characters and spaces (one-inch margins on all four
+sides), then the Dante database is approximately 360 million
+characters.
+
+The efficient searching and retrieval of a database of this size
+implies the use of an index and sophisticated search software.  Both an
+efficient indexing scheme and sophisticated search software are already
+in place at Dartmouth. In 1980, the Dartmouth Library acquired
+generalized search/retrieval software and associated system building
+tools from Bibliographic Retrieval Services, Inc. (BRS). BRS is the
+industry leader in constructing computerized, on-line retrieval
+services. The BRS/SEARCH software is currently fully operation on two
+Digital Equipment Corporation VAX computers at Dartmouth; these
+machines run the Berkeley version of the UNIX (trademark of Bell
+Laboratories, Inc.) operating system The BRS software is written
+entirely in the high-level language C, and it takes advantage of
+several UNIX utility programs and other system facilities (for example,
+"pipes").
+
+BRS/SEARCH system employs a trade-secret text compression algorithm for
+the primary database. In addition, this system uses an inverted file
+index strategy for efficient searching.  Using BRS' system, it is
+possible to store the inverted file indices and the complete text in a
+compressed format, where the size of both is only one per cent greater
+than the original text.  This is a remarkable achievement, and it means
+that the user will not have to pay a significant premium for storage of
+the inverted file index, which makes it possible to search such a large
+data base "while you wait." As a point of comparison, the Dartmouth
+College Library's entire catalog of 1.6 million titles is using this
+same BRS/SEARCH system. Its database is ten per cent larger.  It is
+possible to search Dartmouth's entire library holdings for any
+reasonable set of titles in under one minute of elapsed time.
+Retrieval of two thousand titles (from the 1.6 million) takes under
+thirty seconds, although one might not find such a search by itself
+entirely useful.
+
+
+In summary, we propose to use existing BRS/SEARCH system software on an
+existing Dartmouth computer for the Dartmouth Dante database.
+
+
+Not all pieces of the system exist, at present. We shall need to write
+software to edit the Dante database in several ways.  First, the KDEM
+will produce spurious data characters which will need to be removed.
+Second, the editorial co-ordinator will find KDEM "reading" errors, as
+well as those created by manual entry, which will need to be cleaned
+up.
+
+Another important system module is the user interface program.  BRS
+provides a software tool for constructing custom user interfaces.  With
+this tool we shall build a user interface based on menus and command
+language, which the user will be able to master in a few minutes of use
+of the system.
+
+The creation of a substantial database involves the provision of data
+control checks and balances, and the back-up of all active data sets,
+as work progresses.  Our database administrator will control access to
+the data sets and control the sequence of processing, especially
+editing and updating of the database. The principles of data base
+administration are well known and are analogous to auditing controls
+used in the business sector.
+
+The Prototype as Indication of Future Needs of the Scholarly User
+
+Experience with the prototype system has suggested that there are
+several capabilities that should be provided the Dante scholar when he
+or she is working with the database:
+
+1. User-friendly menus and commands (see Appendix III for the
+prototype's experimental version of these);
+
+2. Scroll-back of information on previous screens;
+
+3. Multiple display-windows for comparative analysis of several
+commentaries;
+
+4. Programmable function keys to allow straightforward interactions
+with the database;
+
+5. Full word-processing capacity, including screen editing.
+
+These capabilities can be provided in either of two ways: by the VAX
+computer linked to a conventional terminal or within an intelligent,
+microcomputer-based terminal. We have chosen the latter course because
+the implementation of these capabilities would place a substantial
+burden on the VAX were it not to be assisted by a microcomputer in the
+user's terminal.
+
+			Dissemination
+
+There are three principal ways in which the full range of the Dartmouth
+Dante Project's capacity will reach an interactive audience. An exact
+duplicate of the database with the BRS/SEARCH software can be set up
+and the database supplied in VAX/UNIX format on industry-standard
+magnetic tape, with the workstation software distributed on standard 5
+and 1/4 inch diskettes. (Diskettes and documentation will be made
+available to users at cost--approximately $5 per item.) The second way
+involves direct use of one of the Dartmouth VAX computers either
+locally or via one of several public data networks.  In addition to
+these two means of interacting fully with the system, there is also
+possible the more limited use which a student or scholar might wish to
+make, requesting a printout of a section of the database (at a cost of
+about ten cents per page).  The third way would involve copying the
+entire database onto small laser disks and mailing them, along with
+standard diskettes containing the search software, to users with
+workstations equipped with laser disk readers.  Currently the cost of
+replicating a laser disk is approximately $10 after the original
+mastering; laser disk readers cost in the range of $3,000.
+
+Dartmouth has had wide experience in the worldwide distribution of
+educational software, complete computer operating systems and
+languages, documentation, and databases. With particular regard to the
+dissemination of this project it should be noted that Dartmouth is an
+active member of the Research Library Group (RLG) and is prepared to
+make this project available over RLG's computer network as libraries
+develop interest in providing access to the database contained in the
+Dartmouth Dante.

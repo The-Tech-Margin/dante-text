@@ -1,0 +1,43 @@
+{SPECL_H}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Special Functions Help\f2\n~
+
+:PRINT ~#HEADING
+     This  menu  permits  you  to  alter a variety of search and display
+     options.  It allows you to list all the paragraphs in the database.
+     The Special Functions Menu selections are:\n~
+
+:PRINT ~
+     1) Set   Searching  Defaults.   This  produces  another  menu  that
+        displays,  and  permits  you  to  change, default values for the
+        following:  NEAR  Level, ADJacency Level, automatic expansion of
+        zero   results,  automatic  purging  of  zero  results,  default
+        operator, and truncation limit.
+
+     2) Set  Display  Formatting.   This selection produces another menu
+        that  displays,  and  allows  you  to  change,  defaults for the
+        following:  paragraph  label  options,  subparagraph  numbering,
+        search   result  occurrence  counts,  detailed  search  results,
+        terminal type, and print-time formatting (if available).\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     3) Set  Miscellaneous  Parameters.  This selection produces another
+        menu  that  displays,  and  allows  you to change, the following
+        miscellaneous  parameters:  default  after  a successful search,
+        default paragraph specifications, maximum number of queries on a
+        screen, maximum number of indices at a time, number of automatic
+        expansion  terms, and occurrence highlighting when printing at a
+        remote  device.\n~
+	
+:PRINT ~
+     L) List  Paragraphs.   This  option  displays  a  list  and all the
+        paragraphs, including equivalencies, in the current database.\n~
+
+:PRINT ~
+     Each  of these Special Function Menu features (except "L") includes
+     more  detailed help text.  Simply strike "H" at any prompt for more
+     information.\n~
+
+:PAUSE BOTTOM
+:RETURN

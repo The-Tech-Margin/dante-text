@@ -1,0 +1,10 @@
+A series of characters including plain and accented.
+
+a b c d e f - plain lowercase
+A B C D E F - plain uppercase
+à è - grave-accented a and e
+À È - grave-accented A and E
+á é - acute-accented a and e
+ç Ç - cedilla'd c and C
+ä Ä - umlauted a and A
+û Û - circumflexed u and U

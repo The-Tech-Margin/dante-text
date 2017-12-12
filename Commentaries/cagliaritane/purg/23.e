@@ -1,0 +1,39 @@
+	|10.~  ^Ed echo~.  colui che piagnie d'alegreza se pu' dire ch'ei 
+canti.  cos@i quelle annime sperando de venire a la beata vita 
+piagnivano cantando la loro pena con dilecto.  etc.
+
+	|25.~  Non credo.  resitone fu uno re che sse fac@ia [stratio] de la 
+dea delle biade c'@a nome ciere.  per la quale cosa essa dea li mand@o 
+s@i grande fame de carestia ch'elli divent@o seccho quasi senza carne 
+(^om.~).
+
+	|31.~  ^Parieno~.  chi nel viso.  el naso si @e imezo de le due ciglia 
+come il gamo de l'emme col le volte da lato s@i che fa uno emme.  
+l'occhio manco @e facto come uno ^o~ e el recto uno altr' ^o~.  s@i che 
+^o~ chol lo ^emme~ et coll'altro ^o~ releva ^omo~.  en nelle ciglia el 
+naso dimostra uno ^m~ con doi ^o~.
+
+	|48.~  ^la faccia~.  forese fu dei donati fratello di misere corso 
+donati.  et fu fratello de la vergine giovane chiamata picarda che fu 
+trata del monisterio per forza coma nel terzo capitolo si trova di 
+paradiso dove tratta del voto.  et fu questo forese grande amichissimo 
+et dilecto de dante.  il quale a la sua morte dante il pianse molto et 
+[fu] questo forese molto goloso.
+
+	|73.~  Che quella.  la voglia che menoe jesu christo a la croce dove a 
+la morte chiamando el padre gridando el@i el@i.  quella voglia fa 
+chiegere voluntaria.  et cos@i vanno queste annime voluntarosamente a 
+l'arbore che li afama de compiere la loro penitenza.  come christo la 
+sete de la umana salute in sulla crose.
+
+	|85.~  ^Ond'elli a me.  la vedovella~ (^om.~) in firenze sono le sue 
+femmene meno pudiche et pi@u sfacciate che le femmene de sardenna.  che 
+abitano inn una montagnia chiamata barbagia che vivono a mo' de bestie 
+andando tucte ingnude.  ma le [s]frenate svergogniate fiorentine sarano 
+triste come el testo dice seguendo.
+
+	|103.~  Dicie chi l'ha vedute che le saracine vanno tanto turate che 
+del volto quasi non mostrano o de carne innuda.  non espoppate senza 
+vergonia come meretrici.  ma grave giudicio verr@a sopra esse.  (^altra 
+m.~).
+

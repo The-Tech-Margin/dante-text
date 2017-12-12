@@ -1,0 +1,7 @@
+There are two sets of files in this directory.  The subdirectory
+named Book contains files that were used in the published
+commentary.  The other subdirectories - inf, purg, para - are the
+usual database directories.
+
+The book files HAVE LIGATURES!!
+The database files DO NOT HAVE LIGATURES!!

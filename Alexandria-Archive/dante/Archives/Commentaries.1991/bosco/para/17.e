@@ -1,0 +1,1178 @@
+|PARADISO CANTO 17~
+
+	|Introduzione.~  Dante ha ancora altro e pi@u importante
+da chiedere (13-30): vuol conoscere con precisione, dopo le
+predizioni ripetute ma sommarie sin qui fattegli, il destino che
+lo attende negli anni prossimi; Cacciaguida gli predice (31-99)
+le vicissitudini dell'esilio.  Infine, il poeta vuole che l'avo
+gli consigli se debba o no riferire in terra ci@o che ha veduto
+nell'oltremondo, e che ad alcuni potenti potr@a riuscire assai
+sgradito; e Cacciaguida naturalmente risponde che egli non deve
+in nessun modo essere ^timido amico~ della verit@a (100-142).  In
+quest'ultima sua fase, il colloquio @e pi@u che mai soliloquio. 
+Connesso ma distinto dal ribadimento di tale missione, @e in
+quest'ultima parte del canto, l'autoritratto morale che Dante
+disegna con forti linee.  Ritratto, essenzialmente, di un
+combattente contro il suo stesso destino: se non pu@o nulla contro
+eventi e uomini potenti, egli sa d'essere invincibile nell'animo. 
+Al principio del canto il poeta afferma di sentirsi ^ben
+tetragono ai colpi di ventura~ (24); che le ferite infertegli,
+dunque, dalla fortuna non lo faranno piegare n$e indietreggiare:
+anzi, a chi @e preparato a riceverla, la ferita della saetta @e men
+grave (27); tornano i termini di combattimento alla fine, quando
+il poeta raffigura il tempo che avanza veloce contro di lui, coi
+suoi dolori, come un cavaliere che gli muove contro per ferirlo;
+ma egli non si abbandona inerte al colpo (106-108); il prevedere
+e provvedere, in relazione anche al dovere di dire la verit@a, @e
+un'arma: ^di provedenza @e buon ch'io m'armi~ (109).  Tutto il
+contesto, dunque, @e retto da immagini di battaglia.  La fortuna
+richiamata per la storia di Firenze (XVI 82-84) @e qui contemplata
+fermamente nei propri riguardi.  Assai simile a Cacciaguida era
+stato Brunetto, maestro a Dante soprattutto di dignit@a morale:
+anche questi gli aveva predetto l'esilio, e la lotta contro di
+lui di ambedue i partiti (^If~ XV 61-78); anche di fronte a lui
+il poeta aveva dichiarato la sua fermezza contro la fortuna
+(^ibid.~ 91-96).  Certo, pu@o avere in parte ragione il Sansone,
+che qui Dante delinea le reazioni d'<un animo caldo, ma non
+propriamente eroico, non guerriero>.  Ma se il dovere della
+verit@a @e sentito come necessario pi@u che come eroico, l'eroismo @e
+nello sfondo: il percuotere le alte cime non @e solo accorgimento
+ammaestrativo, ma anche ragione di ^onore~ per il poeta; effetto
+di coraggio che non indietreggia.  Alta dignit@a {il dato
+personale} acquista anche dall'essere tuffato nella storia: non
+solo in quella di Firenze, ma nella storia del mondo: se, come
+aveva precisato nel canto XVI, le divisioni di Firenze derivano
+dall'ostilit@a della Chiesa contro l'Impero, l'esilio di Dante non
+@e evento accidentale ma @e effetto della corruzione generale.  Al
+tempo di Cacciaguida, dice il poeta al principio della sua
+rievocazione, Firenze ^si stava in pace~ (^Pd~ XV 99); una pace
+anche dell'interno degli animi: temperanza di affetti e di
+desideri; perci@o non c'erano lotte, gare di predominio, e la
+citt@a era felice.  La parola ^pace~ @e ripresa alla fine della
+rievocazione: Buondelmonte fu la vittima offerta dalla citt@a a
+Marte nella sua ^pace postrema~, subito prima che questa finisse. 
+Ma che nel descrivere la vecchia Firenze Dante pensasse alla
+citt@a dei suoi tempi, dalla quale era stato bandito, ci @e
+rivelato, oltre che da tutto il resto, anche da un particolare
+stilistico.  Parlando della sua nascita, Cacciaguida dice che
+Maria, invocata dalla madre, lo aveva destinato a un ^viver di
+cittadini~ ^riposato~ (XV 130-137), e questo termine torna
+anch'esso alla fine della rievocazione di Firenze felice: ^Con
+queste genti, e con altre con esse, / vid'io Fiorenza in s@i fatto
+riposo...~ (XVI 148-149).  Orbene: esso @e un termine che cade
+sotto la penna del poeta anche altrove in relazione al rimpianto
+di Firenze perduta.  Cos@i in ^Cv~ I iii 4 aveva detto quanto egli
+desiderasse di tornare nella sua citt@a per <riposare l'animo
+stancato>; a Farinata dolente che i suoi discendenti fossero
+ancora banditi dalla citt@a, egli augura che possano ritornare,
+usando la stessa parola, che @e un'immagine: ^Deh, se riposi mai
+vostra semenza~ (^If~ X 94).  <Lo riposo de la vita> risiede
+nella quiete dell'animo sgombro (^Vn~ XIII 1); e l'esule non pu@o
+goderne.
+
+	|1-6 {Nota Bosco}.~  Il canto XVI si era chiuso con la
+predizione, da parte di Cacciaguida, delle divisioni familiari e
+politiche che avrebbero posto fine al ^viver lieto~ di Firenze;
+la coerenza del dialogo impone che quella predizione accenda in
+Dante l'ansia di conoscere nei suoi particolari quel che pi@u o
+meno oscuramente gli era stato predetto nell'Inferno e nel
+Purgatorio, circa le conseguenze che quelle divisioni avrebbero
+avuto per lui, cio@e l'esilio.  E infatti il c. XVII comincia con
+la domanda di Dante a Cacciaguida circa il suo immediato futuro. 
+Ma prima che sia affrontato il vivo discorso sull'esilio, il
+canto si dispiega in ampie volute preliminari.  Anzitutto, Dante
+rappresenta la propria ansia di conoscere mediante un paragone
+con Fetonte che |av,ea incontro a s$e udito~ {2} voci che negavano
+la sua filiazione da Apollo, e ne chiede notizia alla madre: una
+nobilitante decorazione classico-mitologica.
+
+	|1-3.  Qual... scarsi~: per indicare lo stato d'animo,
+trepidante e timoroso insieme, con cui si accinge a chiedere
+notizie del proprio futuro, Dante si paragona a Fetonte il quale,
+essendogli stato insinuato da Epafo che non era figlio di Apollo,
+ricorse alla madre Climene per avere conferma o meno di ci@o che
+gli era stato detto.  Successivamente poi Apollo per assicurargli
+che quello che la madre gli aveva asserito era vero, gli permise
+di guidare il carro del sole; ma avendo il carro deviato dal
+retto cammino, Giove fulmin@o il giovane che divenne cos@i esempio,
+come dice il poeta, in un rapido accenno (v. 3), della necessit@a
+per i padri di essere |scarsi~, cio@e non accondiscendenti, alle
+richieste inconsulte dei figli.  L'episodio @e narrato da Ovidio
+nelle ^Metamorfosi~ (I 748 ss.).  |Climen@e~: come quasi sempre
+nell'italiano del Due-Trecento, i nomi greci sono accentati
+sull'ultima sillaba, anche in prosa.  Cfr. ^If~ III 94. 
+|Incontro a s$e~: a suo danno, contro di s$e.  Dopo la predizione
+di Farinata, Virgilio aveva ammonito Dante: ^La mente tua
+conservi quel ch'udito / hai contra te~ (^If~ X 127-128).  Dunque
+questa del canto XVII @e una precisa ripresa testuale, rilevata
+dal Del Lungo, che @e certamente voluta: essa collega direttamente
+la predizione di Cacciaguida a quella di Farinata, che @e stata la
+prima del poema (la profezia di Ciacco riguardava il partito, non
+Dante).  |Quei~: Fetonte.  |Scarsi~: non condiscendenti.
+
+	|5-6.  santa lampa~: Cacciaguida.  |Che... sito~:
+spostandosi dal braccio destro ai piedi della croce; cfr. ^Pd~ XV
+19-24.
+
+	|7-27 {Nota Bosco}.~  @E spiegato poi come il desiderio di
+Dante fosse, s@i, ben conosciuto da Beatrice e da Cacciaguida, che
+leggono tutto in Dio; tuttavia Beatrice ritiene necessario che il
+suo protetto formuli esplicitamente la sua richiesta.  Sebbene
+basato sulla convinzione che torna altre volte nella ^Commedia~
+(cfr. da ultimo ^Pd~ XV 64-69), che non basta una preghiera
+intima, ma occorre che essa sia fatta a voce (Tommaso, ^Summa
+theol.~ II-IIM-0ae~, q. LXXXIII, a. 12), l'invito di Beatrice @e un
+espediente narrativo per dar luogo a un assai solenne discorso di
+Dante, che prende le mosse da lontano: dalla conoscenza, appunto,
+che i beati hanno delle |cose contingenti / anzi che sieno in s$e~
+{16-17}, e quindi dall'assoluta certezza di quel che essi dicono:
+una conoscenza simile a un'indubitabile certezza geometrica. 
+Dante continua esponendo il suo bisogno di sapere, ma insieme
+affermando di esser pronto a sopportare i colpi della fortuna:
+conoscendoli, si preparer@a a sostenerli.
+
+	|7-9.  Manda... disio~: manifesta, esprimi l'ardore (|la
+vampa~) del tuo desiderio.  |Segnata... stampa~: con l'impronta
+dell'intensit@a del tuo desiderio interiore (|interna stampa~).
+
+	|10-12.  cresca~: i beati vedono in Dio i pensieri del
+poeta, quindi le parole non aggiungerebbero nulla a ci@o che gi@a
+essi conoscono.  |T'ausi~: ti abitui, ti adusi.  Cfr. ^If~ XI 11;
+^Pg~ XIX 23.  |A dir... mesca~: a rivelare, a esprimere il tuo
+desiderio (|sete~), perch$e gli altri ti appaghino.  Si noti
+|l'uom~, col solito valore di impersonale indeterminato (cfr. il
+francese ^on~).  Gi@a vista la metafora della |sete~ per indicare
+il desiderio di sapere: cfr. ^Pg~ XXI 1-2.
+
+	|13-17.  O cara... in s$e~ o mia cara radice che t'innalzi
+(|t'insusi~) tanto che puoi vedere gli eventi (|le cose
+contingenti~) prima che si attuino, con la stessa certezza con
+cui le menti umane intuiscono che in un triangolo non possono
+essere contenuti due angoli ottusi.  Anche qui il discorso prende
+un tono solenne ed alto, come sempre nelle parole che Dante
+rivolge all'avo.  Non meno solenne sar@a l'esordio della risposta. 
+|Piota~: pianta del piede, e, figuratamente, ^radice~; cfr. ^If~
+XIX I20.  |Insusi~: verbo creato da Dante dalla prep. ^suso~ (=
+s@u).  Non @e nuova la creazione di neologismi da parte del poeta. 
+Il Buti chiosa: <questo @e verbo preposizionale, fatto dall'autore
+iusta lo vulgare>.  @E analogo a ^insemprarsi~: cfr. ^Pd~ X 148, e
+ad altre parole costruite con ^in-~; vedi PARODI, ^Lingua~, II
+277.  |Capere~: essere contenuto.  Latinismo che serve ad
+innalzare il tono oratorio del discorso.
+
+	|16-18.  le cose contingenti~: le cose che posson essere
+o non essere, che non sono necessariamente esistenti, come gli
+eventi umani.  |Anzi che sieno in s$e~: prima che si realizzino,
+prima che diventino realt@a; quando cio@e sono ancora nella mente
+divina.  |Il punto... presenti~: Dio, per il quale non esiste
+passato o futuro, ma che vede ogni cosa come eterno presente. 
+Cfr. S. Tommaso, ^Summa theol.~ II-IIM-0ae~, q. CLXXII, a. 1:
+<Praecognoscere autem futura... est proprium divini intellectus,
+cuius aeternitati sunt omnia praesentia> (<Preconoscere il
+futuro... @e proprio dell'intelletto divino, alla cui eternit@a
+ogni cosa @e presente>).
+
+	|19-21.  mentre... defunto~: durante il viaggio con
+Virgilio attraverso il Purgatorio e gi@u, di cerchio in cerchio,
+attraverso l'Inferno (|mondo defunto~), cio@e il regno della
+^morta gente~, i dannati morti alla Grazia divina.
+
+	|22-23.  fuor~: f#oro, furono.  |Parole gravi~: sono le
+varie predizioni, pi@u o meno chiare, che, nei regni precedenti,
+Dante ha udito dai vari spiriti incontrati.  Parole gravi gli
+avevano detto Farinata (^If~ X 79 ss.) e Brunetto (^If~ XV 61
+ss.), accennando all'esilio futuro; anche pi@u doloroso, l'accenno
+maligno di Vanni Fucci, detto per addolorare l'animo del poeta
+(^If~ XXIV 140 ss.).  Accenni, forse meno gravi, ma non meno
+dolorosi, quelli di Corrado Malaspina (^Pg~ VIII 133 ss.) e di
+Oderisi (^Pg~ XI 139 ss.) nel Purgatorio.  Il Del Lungo ricorda
+anche l'accenno di Bonagiunta (^Pg~ XXIV 43-45); ma in quel luogo
+non si dice altro che Gentucca far@a piacere Lucca a Dante; siamo
+noi lettori che ricolleghiamo questo incontro con l'esilio. 
+Tutte queste pi@u o meno vaghe profezie verranno ora chiarite da
+Cacciaguida, che, con precise parole, senza ambiguit@a e senza
+infingimenti, traccer@a il quadro delle future vicende del poeta. 
+|Avvegna ch(e)~: sebbene.
+
+	|24.  tetragono~: @e propriamente il <cubo>, simbolo di
+stabilit@a perfetta, perch$e fermo su qualunque delle sue facce, o,
+per lo meno, ogni figura geometrica con quattro angoli. 
+Metaforicamente il vocabolo vuole significare l'atteggiamento
+dell'animo forte di fronte alla sventura.  <Una figura
+geometrica, un particolare preso dall'arido mondo della scienza,
+perde d'un tratto il suo freddo valore scientifico per
+trasfigurarsi rapidamente nella rupestre immagine di una
+incrollabile saldezza che @e tutta dell'anima> (Grabher).  La
+rettitudine dell'animo del poeta, la vita integerrima, spesa per
+il bene della sua citt@a, lo rendevano veramente tetragono ai
+colpi della fortuna per cui il miglior commento a questo passo
+pu@o essere quel verso della canzone ^Tre donne intorno al cor mi
+son venute~, scritta forse qualche anno prima di questo canto:
+<l'essilio che m'@e dato, onor mi tegno> (^Rime~ CIV 76), in cui
+risuona tutta la fiera magnanimit@a dell'esule immeritevole. 
+Anche nell'episodio di Brunetto Latini, per tanti motivi simile a
+questo, @e espresso un analogo concetto (^If~ XV 91-93). 
+|Ventura~: fortuna.
+
+	|25-27.  voglia mia~: il mio desiderio.  |D'intender...
+s'appressa~: di sapere quale sorte mi s'avvicina, mi attende. 
+|Ch$e... lenta~: il male che ci aspettiamo colpisce con minor
+dolore.  L'immagine @e ricavata da un verso assai noto di una
+raccolta medievale di favole di Esopo, conosciuta con il nome di
+^Galterus anglicus~, che suona: <Nam praevisa minus laedere tela
+solent> (<Un dardo previsto ferisce con minor forza>), dove si
+pu@o notare il ^praevisa~ letteralmente conservato da Dante.  Cfr.
+<Bull.> XXV 108.
+
+	|30.  confessa~: confessata, dichiarata.
+
+	|31-36 {Nota Bosco}.~  Seguono ancora due terzine
+introduttive, che lodano anticipatamente la chiarezza della
+risposta dell'avo, e danno un'ulteriore descrizione dello
+splendore di questo: la letizia della carit@a, divenuta, come in
+tutti i beati, luce, nasconde le fattezze umane di Cacciaguida,
+ma insieme lo rivela nella sua essenza: appunto la carit@a.
+
+	|31-36.  N$e... riso~: non con il linguaggio equivoco e
+ambiguo (|ambage~) degli oracoli, in cui si invischiavano i
+pagani (|la gente folle~) prima che fosse ucciso (|anciso~)
+l'Agnello di Dio che toglie i peccati, ma con chiare parole e
+preciso linguaggio (|latin~) rispose quell'amor paterno, chiuso,
+avvolto nella luce, da cui per@o traspariva, si rendeva visibile
+(|parvente~), la sua beatitudine.  |Ambage~: latinismo
+(^ambages~): tortuosit@a, espressioni oscure.  Cfr. Virgilio,
+^Aen.~ VI 99: <horrendas canit ambages>.  |La gente folle~: i
+pagani, che vivevano nell'errore: dove |folle~ ha significato
+generico in cui non manca forse una <venatura di compatimento>
+(Bosco, ^Dante~, 56).  |S'inviscava~: il verbo @e proprio del
+linguaggio venatorio: qui in senso figurato @e analogo ad altri
+verbi venatori e usato in senso traslato: <inretire>.  Cfr. ^If~
+XIII 57.  |L'Agnel... tolle~: Ges@u Cristo.  @E l'espressione
+liturgica <Agnus Dei qui tollis peccata mundi>.  Cfr. anche ^Pg~
+XVI 18.
+
+	|34-36.  preciso latin~: linguaggio chiaro, distinto. 
+Tenendo conto che le prime parole dell'avo (XV 28-30) sono in
+latino e che nel c. XVI, v. 33, si parla di una ^favella~ diversa
+da ^questa moderna~, si @e voluto, da alcuni critici, sostenere
+che Cacciaguida parlasse sempre latino.  Dice un commentatore
+moderno di questo canto: <... le parole del bisavolo, solenni per
+tutta la solennit@a da conferire alla missione giudicatrice e
+ammonitrice di Dante, piacque a Dante che fossero pronunciate
+nella lingua solenne di Virgilio, dell'Impero e della Chiesa> (N.
+Vianello).  Ipotesi affascinante, ma non sostenibile, dato il
+senso che il vocabolo aveva assunto di <linguaggio>, sia nella
+poesia che nella prosa due-trecentesca da Cecco Angiolieri a Cino
+da Pistoia, al Boccaccio; senso <nato metaforicamente dal parlare
+spontaneo di un tempo in cui il latino aveva dignit@a di lingua
+d'uso> (^E. D.~ III 591).  Cos@i @e anche da intendere il ^discreto
+latino~ di S. Tommaso (^Pd~ XII 144).  |Amor paterno~: astratto
+per concreto: quel padre amoroso.  |Riso~: la letizia che
+proviene dalla beatitudine.
+
+	|37-45 {Nota Bosco}.~  Anche la risposta dell'avo, prima
+che egli inizi la predizione dell'esilio, spazia per tre terzine,
+nelle quali ribadisce ancora la prescienza divina, da cui deriva
+la sua, riaffermando che essa non annulla il libero arbitrio
+umano.  Un prologo solenne e indugiante, dunque, in parte su
+argomenti chiariti ampiamente pi@u volte nel poema.  Insomma, la
+parte essenziale del canto, le vicende dell'esilio e il dovere di
+Dante uomo e politico (46-142), @e preceduta da ampio prologo che
+abbraccia circa la terza parte del canto (1-45).  Esso ha
+funzione di stacco, come altre volte accade nella successione dei
+canti e degli episodi, e qui come di `riposo' del lettore nella
+tensione di quel che precede e di quel che segue; ma non ha solo
+questa funzione: il duplice ribadimento da parte di Dante e di
+Cacciaguida, della prescienza di Dio e dei beati, e il
+riferimento, lucido nella sua solennit@a, al grande problema del
+libero arbitrio, hanno la funzione d'immergere preliminarmente,
+per cos@i dire, i casi personali di Dante, che formano l'oggetto
+della seconda parte del canto, in un'aura di alto mistero
+metafisico.  Il contingente, appunto, @e visto nell'eterno; il
+dato personale assume valore universale nella luce di Dio. 
+Perci@o l'esilio, oltre che narrato nelle principali vicende
+esterne, @e visto per cos@i dire nell'interno, nelle ripercussioni
+sull'animo dell'esule.
+
+	|37-42.  La contingenza... discende~: i fatti contingenti
+che non hanno luogo fuori del vostro mondo materiale, sono tutti
+presenti nella mente divina: ci@o non ostante la contingenza non
+prende condizione di necessit@a, come una nave che discende lungo
+la corrente di un fiume impetuoso non deriva la necessit@a del suo
+moto dalla vista di chi la guarda.
+
+	|37-39.  La contingenza... etterno~: i fatti contingenti
+che sono propri solo del mondo materiale, sono tutti presenti
+nella mente divina ^ab aeterno.~  Cfr. Tommaso, ^Summa theol.~ I,
+q. XIV, a. 13 e Boezio, ^Cons. Ph.~ V pr. 4.  |Quaderno~: in
+senso figurato; la metafora ci riporta al ^topos~ del libro pi@u
+volte visto (cfr. CURTIUS, ^Litt$erature~, 405-406).  Cfr.
+^squadernare~ in ^Pd~ XXXIII 87 e il ^magno volume~ di ^Pd~ XV
+50.  |Matera~: materia.
+
+	|40-42.  necessit@a... discende~: dovendo Cacciaguida
+predire a Dante i futuri casi della sua vita, premette un
+ammonimento generale; la prescienza del futuro da parte di Dio,
+da cui Cacciaguida attinge, non rende necessari tali fatti,
+lasciando quindi all'uomo la piena libert@a d'arbitrio.  |Quindi~:
+di qui, dalla prescienza divina.  |Viso~: vista, come quasi
+sempre in Dante.  |Torrente~: @e la nuova lezione dell'ed. critica
+del Petrocchi, invece della pi@u facile ^corrente~ che si legge in
+molte edd.  |Torrente~ ha una maggiore attestazione ed @e ^lectio
+difficilior~; vale <fiume impetuoso>, non <piccolo corso d'acqua>
+come @e ormai l'accezione normale del vocabolo.  Cfr. ^Pd~ XII 99.
+
+	|43-45.  Da indi~: dalla mente divina, dove tutto @e
+^dipinto.~  |Dolce armonia da organo~: dice Isidoro del Lungo
+<organo e rivelazione hanno del sacro ambedue: anche se |dolce
+armonia~ e amarezza di predizioni ripugnano fra loro>, e invero,
+fin dagli antichi commentatori, la cosa ha destato sorpresa e
+perplessit@a e varie sono state le interpretazioni.  Ma qui si
+tratta di un paragone, i cui due termini non debbono
+necessariamente coincidere in tutto.  Si tratta di una semplice
+immagine musicale.  |A vista~: dinanzi al mio sguardo
+intellettuale, agli occhi della mente.
+
+	|46-48 {Nota Bosco}.~  Dante dapprima energicamente
+afferma la sua innocenza.  Con altra reminiscenza letteraria che
+come quella di Fetonte porta la vicenda al livello del mito,
+Dante si paragona a Ippolito, scacciato innocente da Atene per la
+calunnia della matrigna Fedra.  @E opinione pressoch$e generale che
+in Fedra il poeta veda Firenze, al suo cittadino veramente
+matrigna; ma @e opinione non accettabile.  Dante parte dal mito
+ovid. (^Met.~ XV 497-546) in cui, oltre che trovare l'espressione
+<sceleratae... novercae> che egli riprende in |spietata e perfida
+noverca~ {47}, il poeta leggeva che Teseo, prestando fede a Fedra
+<meritum... nihil... eicit urbe> (^Met.~ XV 504), scacci@o da
+Atene il figlio innocente.  Questo passo @e alle origini non solo
+dei versi di questo canto, ma assai probabilmente anche
+dell'espressione <exul inmeritus> con cui Dante designa se stesso
+in 4 epistole (III, V, VI, VII).  Firenze dunque, che scacci@o
+Dante ascoltando i calunniatori di lui, ha nel paragone dantesco
+la parte di Teseo, non quella di Fedra.  In che cosa propriamente
+consistessero le calunnie di cui Dante fu vittima, @e difficile
+dire: non sembra, come pensano alcuni, che Dante qui alluda
+all'accusa di baratteria: essa non era specifica per lui, ma
+comune a tutto il gruppo di Bianchi esiliati insieme con Dante, e
+questi sapeva bene che era una formula di cui i partiti
+vittoriosi si avvalevano comunemente per sbarazzarsi degli
+avversari (^Intr.~ a ^If~ XXII): forse @e meglio pensare con altri
+studiosi, all'accusa di ribellione alla Chiesa, alla quale Dante
+si profess@o sempre devoto pur condannandone il temporalismo che
+rifiutava appunto per devozione alla Chiesa stessa.  Ma il
+riferimento a Fedra, alle calunnie @e in fondo solo complementare;
+quello che Dante ha essenzialmente in comune con Ippolito @e
+l'innocenza, chiara per tutti, <manifesta quibuslibet>,
+dolorosamente richiamata anche nell'epistola all'Amico fiorentino
+(^Ep~ XII 5); senza la quale la missione di ammaestratore
+politico e morale, di cui Dante si far@a investire da Cacciaguida
+negli ultimi versi di questo canto, non sarebbe concepibile.
+
+	|46-48.  Qual... noverca~: la cacciata di Dante da
+Firenze @e paragonata alla cacciata di Ippolito da Atene per causa
+della matrigna (|noverca~).  Ovidio racconta che Ippolito,
+rifiutando le indegne proposte della matrigna Fedra, fu accusato
+ingiustamente da lei a Teseo, suo padre, e questi lo cacci@o
+innocente, credendo alle malvagie parole della moglie (^Met.~ XV,
+493 sgg.).  Dante, nel paragone, sottolinea l'innocenza
+dell'esiliato e la parola |noverca~, matrigna, che suol
+generalmente riferirsi a Firenze, sembra voler essere una grave
+indiretta accusa alla citt@a.  Ma vedi ^46-48 {Nota Bosco}.~ 
+Certo il motivo della malvagit@a di Firenze, madre indegna, appare
+anche nell'iscrizione trecentesca che si legge sul sepolcro del
+poeta, evidente ricordo di questi vv.: ivi si dice testualmente:
+<Hic claudor Dantes patriis extorris ab oris / quem genuit parvi
+Florentia mater amoris> (<Sono qui rinchiuso, esule dalla mia
+terra, io, Dante, che Firenze, madre di poco amore, gener@o>). 
+Allo stesso modo Dante sottolineava la propria innocenza,
+intestando spesso le sue lettere con l'espressione ^exul
+immeritus~ (esule immeritevole) accanto al proprio nome. 
+|Partir~: va forse inteso in senso lato se, come pare, al momento
+del bando (27 gennaio 1302) Dante non si trovava a Firenze ma era
+ambasciatore a Roma.
+
+	|49-51 {Nota Bosco}.~  Il poeta continua affermando che
+la rovina di lui si sta, nel momento del viaggio oltremondano,
+nel 1300, gi@a macchinando alla corte di Roma.  Che il poeta
+considerasse Bonifazio VIII, per le sue mire su Firenze, autore
+principale del suo esilio, @e indubitabile; ma non poteva pensare
+che due anni prima il papa non solo avesse gi@a deciso di farlo
+esiliare, ma addirittura gi@a macchinasse per questo.  Dicono che
+con ci@o Dante ingrandisce se stesso, mettendosi a fronte d'un
+avversario della statura di Bonifazio; anzi addirittura (Cosmo)
+avvicinando se stesso a Cristo, oggetto come lui delle
+macchinazioni politiche del pontefice: |l@a dove Cristo tutto d@i
+si merca~ (51).  Ma questo ultimo atteggiamento sarebbe nato non
+da consapevolezza orgogliosa di s$e, ma da megalomania!  Nel 1300
+il papa ancora dissimulava, nuotava tra due acque, `piaggiava'
+(^If~ VI 69); certo, quando nel 1302 gli si present@o l'occasione,
+Bonifazio fu lieto di sbarazzarsi d'un avversario di cui ben
+conosceva cos@i il valore come l'irriducibilit@a, ma evidentemente
+Dante sapeva bene che l'obietto del papa non era la rovina
+personale di lui, ma quella di tutti i Bianchi, la loro
+eliminazione come forza politica.  Pi@u verosimile che Dante
+avesse in mente quel che Dino Compagni, guelfo bianco anche lui,
+racconta nella sua ^Cronica~: che tre Neri, esuli alla corte di
+Bonifazio, <tanto feciono col detto papa>, che lo persuasero a
+dar loro in aiuto <la gran potenza> di Carlo di Valois; @e la
+congiura scoperta nel marzo 1300: la condanna dei colpevoli
+scaten@o l'ira del papa.  Ma anche qui siamo a un livello
+politico, non personale.  Tuttavia il mercimonio di Cristo deve
+essere riferito al papa e agli alti prelati, non ai laici Neri; a
+meno che, e la cosa @e possibile, il verso (|l@a dove Cristo...~)
+non sia una sdegnosa perifrasi generale per indicare la Curia e
+non abbia relazione specifica con Dante.
+
+	|49-51.  Questo... merca~: la profezia di Cacciaguida,
+come tutto il viaggio d'oltretomba, @e immaginato nella primavera
+del 1300; e, in effetti, gi@a in quell'anno Bonifazio VIII
+preparava accordi segreti con elementi di parte Donatesca per
+rovesciare il governo bianco.  Cacciaguida dichiara qui a Dante
+che il suo esilio, la sua cacciata, gi@a si vuole e gi@a si cerca,
+e tale intento sar@a raggiunto ben presto dai suoi avversari, l@a
+dove ogni giorno si mercanteggia Cristo, cio@e nella Curia papale. 
+Naturalmente @e difficile pensare che Dante ritenesse Bonifazio
+ordinatore del suo esilio personale: ma questo fu la conseguenza
+delle trame del papa per rovesciare il governo di Firenze.  Vedi
+^49-51 {Nota Bosco}.~  Si noti la tagliente e sferzante ironia
+dell'ultimo verso di questa terzina.
+
+	|52-54 {Nota Bosco}.~  Ma queste dei suoi nemici Neri non
+furono le sole accuse di cui Dante ebbe a soffrire; si aggiunsero
+subito, nei primi anni dell'esilio, come racconter@a, quelle dei
+Bianchi fuorusciti.  Delle une e delle altre mostrer@a la falsit@a,
+la punizione che si abbatter@a sui colpevoli (53-54, 65-68); Dio
+sar@a il supremo testimone della verit@a; giustizia e verit@a
+s'identificano.  La pena non tarder@a: quella dei Bianchi sar@a
+^poco appresso~ (65); quella dei Fiorentini, il calunniato potr@a
+vederla (97-99).
+
+	|52-54.  La colpa... suol~: come sempre avviene (|come
+suol~) la colpa verr@a dalla fama (|in grido~) imputata ai vinti
+(|la parte offensa~).  Si noti l'amarezza di quel |come suol~ che
+trova il migliore commento nelle parole stesse di Dante nel ^Cv~,
+in una pagina famosa sul suo esilio: <la piaga de la fortuna...
+suole ingiustamente al piagato molte volte essere imputata> (I
+iii 4).  Il passo del ^Convivio~ che si riferisce solo a Dante,
+sembra confermare l'opinione di coloro che vedono nella |parte
+offensa~ solo il poeta; ma la frase ha valore generale: nel
+partito perdente @e compreso Dante.  D'altronde il termine |parte~
+non sembra essere qui usato nel significato generico, ma in
+quello specifico di <partito>.  Anche Boezio aveva affermato
+(^Cons. Ph.~ I pr. 4): <Hoc tantum dixerim, ultimam esse adversae
+fortunae sarcinam, quod dum miseris aliquod crimen affingitur;
+quae perferunt meruisse creduntur> (<Questa @e l'ultima delle some
+imposte dall'avversa fortuna che quando ai miseri qualche delitto
+@e apposto, si crede abbiano meritato quello che patiscono>).  |Ma
+la vendetta... dispensa~: chiarissimo il senso generale: la
+punizione di Dio costituir@a la prova definitiva della falsit@a
+della calunnia, di cui Dante e la sua parte sono stati oggetto;
+ma il significato letterale non @e altrettanto chiaro.  Sono state
+proposte varie interpretazioni: la pi@u semplice sembra la pi@u
+accettabile: la punizione verr@a e sar@a testimonianza certa di
+verit@a, perch$e viene da Dio: sar@a come la dispensasse la verit@a
+stessa.  |Vendetta~ ha, come quasi sempre in Dante, il senso di
+<giusta punizione>.  Ci si @e spesso chiesti a quale punizione
+potesse il poeta alludere, e si @e pensato alla triste fine di
+Bonifazio VIII o alla terribile morte di Corso Donati, nel 1308,
+o ad alcune calamit@a accadute a Firenze nel 1303 (il crollo del
+ponte alla Carraia, un gravissimo incendio, ecc.); pu@o darsi che
+Dante pensasse anche a tutto questo, ma pu@o essere che ritenesse
+certo, senza specificare, un grave e sicuro castigo di Dio.
+
+	|55-60 {Nota Bosco}.~  In versi diventati esemplari, il
+poeta enumera i dolori che, dopo quelli dell'ingiustizia subita e
+dell'essere incolpato della sua stessa disgrazia, l'esilio gli
+infligger@a.  Anzitutto lo strappo nel lasciare persone, cose,
+luoghi amati: @e quella nostalgia che aveva trovato perfetta
+espressione all'inizio dell'VIII del ^Purgatorio~ e che @e, come
+abbiamo ripetutamente notato, una delle pi@u importanti radici
+spirituali di tutta la seconda cantica.  L'altro dolore che il
+poeta qui ricorda @e anch'esso un motivo costante di tutta l'opera
+sua: l'umiliazione del chiedere, del quasi mendicare, e per
+converso l'esaltazione della vera liberalit@a che consiste nel
+dare senza attendere la richiesta.  Un motivo che abbiamo
+anch'esso illustrato con diligenza, s@i che sarebbe inutile qui
+ripetersi; ricorderemo solo che questa cortese liberalit@a, che
+Dante da qui a poco loder@a in Bartolommeo e in Cangrande della
+Scala, @e da lui attribuita persino alle creature celesti: gli
+angeli (^ch$e quale aspetta prego e l'uopo vede, / malignamente
+gi@a si mette al nego~, ^Pg~ XVII 59-60), e addirittura alla
+Vergine: ^La tua benignit@a non pur soccorre / a chi domanda, ma
+molta f,iate / liberamente al dimandar precorre~ (^Pd~ XXXIII
+16-18); si noti quell'avverbio ^liberamente~, cio@e `di sua
+iniziativa, liberalmente'.
+
+	|55-60.  Tu... scale~: sono le due terzine pi@u dolorose
+del canto e tra i pi@u celebri versi della ^Commedia.~  Esprimono
+con infinita amarezza, i dolori dell'esilio, l'angoscia
+dell'abbandono di ogni cosa diletta, l'ambascia di quel doloroso
+peregrinare, per cui il pane altrui si fa amaro e le scale altrui
+si salgono e si scendono con la trepidazione della richiesta e,
+talvolta, con l'umiliazione del rifiuto.  Dante rivisse in questi
+versi tutta la sofferenza dei primi anni di esilio, risent@i tutto
+l'accorato struggimento del mendicare, di luogo in luogo,
+l'ospitalit@a altrui.  |Quello strale~: qui metaforicamente, <quel
+dolore>.  |Di sale~: sar@a amaro.  |Duro calle~: duro cammino.
+
+	|61-69 {Nota Bosco}.~  Il dolore pi@u grave di Dante esule
+sar@a per@o il contegno dei compagni di esilio, che si faranno
+tutti contro lui, calunniandolo a loro volta; come gi@a avevano
+fatto i nemici `intrinseci'.  In seguito a questo dissenso,
+l'Alighieri fece ^parte per se stesso~, volle restare da allora
+in poi fermamente e sdegnosamente, fuori di ogni aggruppamento
+politico: l'equanimit@a, caratteristica del poeta, tra Guelfi e
+Ghibellini, tra Bianchi e Neri, nelle lodi e nei biasimi, @e uno
+degli aspetti di tale appartarsi.  Il dolore che gli sarebbe
+stato inferto anche dai Bianchi e forse pure l'appartarsi gli era
+stato predetto anche da Brunetto: ^l'una parte e l'altra avranno
+fame / di te; ma lungi fia dal becco l'erba~ (^If~ XV 71-72). 
+Questo canto XVII del ^Paradiso~ @e un'apologia che, disegnando
+una compiuta immagine di se stesso, Dante fa del suo distacco dai
+Bianchi; uno sdegnato rifiuto delle loro calunnie; e, insieme,
+isola l'immagine del poeta da persecutori e da compagni di esilio
+(Momigliano), facendola cos@i giganteggiare.  Gli accenni che
+seguono, che saranno i Bianchi, e non lui, ad aver |rossa la
+tempia~ {66}, a essere insanguinati; che il |processo~, cio@e il
+seguito, degli avvenimenti, sar@a la prova della bestialit@a dei
+suoi compagni, fanno pensare che la ragione del dissenso fossero
+da una parte consigli di Dante seguiti ma con esito sfavorevole,
+e dall'altra, al contrario, consigli non seguiti, con esito
+sanguinoso.  L'analisi verbale parrebbe confermare tale ipotesi. 
+La compagnia dei compagni d'esilio @e detta |malvagia e scempia~,
+e poi |tutta ingrata, tutta matta ed empia~ {64}: dunque l'accusa
+oltre che d'ingratitudine, @e di crudelt@a e di stoltezza: due
+colpe designate ciascuna con una coppia di sinonimi.  |Malvagia~
+ed |empia~ la prima accusa: appunto `crudele', `spietata' @e il
+significato esatto da attribuire a |empia~: tale @e Progne che
+uccide il figlioletto (^Pg~ XVII 9); tali sono i Fiorentini (^Ep~
+VI 10, 14) nella loro resistenza a Enrico VII; Firenze che ha
+chiuso le porte a lui, Dante, @e detta appunto <vota d'amore e
+nuda di pietate> (^Rime~ CXVI 79), e si consideri che `pietoso' @e
+il significato prevalente di <pio> nella ^Commedia.~  Anche
+l'accusa di stoltezza @e ribadita con una coppia di aggettivi
+sinonimi: |matta~ (secondo il significato frequente di questa
+parola in Dante) e |scempia.~  La <bestialit@a> potrebbe riferirsi
+ad ambedue le accuse, ma il contesto ci porta a riferirla
+soprattutto, e forse esclusivamente, alla seconda: il processo
+degli avvenimenti fu la prova della stoltezza e non della
+crudelt@a.  Se l'espressione |ella, non tu, n'avr@a rossa la
+tempia~, allude, come @e quasi certo, alla sfortunata battaglia
+della Lastra, nella quale i Bianchi furono sanguinosamente
+sconfitti (400 morti: Davidsohn), ci@o confermerebbe che Dante,
+che non vi partecip@o, l'avesse sconsigliata; il suo esito avrebbe
+dato la prova della stoltezza di coloro che non avevano accettato
+il suo consiglio.  Tutto ci@o peraltro spiegherebbe il dissenso e
+il distacco; non la calunnia e il porsi della compagnia unanime
+(|tutta~) contro di lui: non aver seguito i suoi consigli avrebbe
+potuto, dato l'esito, esser semmai ragione di pentimento da parte
+dei Bianchi, non di collera contro il consigliere.  L'ira si
+spiega se ci fu, accanto a questo consiglio circa la Lastra,
+qualche altro consiglio che, invece, fu seguito, ma con esito
+ugualmente disastroso: e infatti l'Ottimo e qualche commentatore
+antico raccontano che Dante aveva consigliato di attendere per
+una certa azione la primavera; venuta la quale, l'azione non fu
+pi@u possibile: onde l'ira dei Bianchi e il loro sospetto che
+Dante fosse stato addirittura corrotto dai Neri.  La notizia di
+questa accusa @e verosimile e, particolareggiata com'@e, potrebbe
+avere qualche fondamento storico; ma non @e confortata da alcuna
+altra testimonianza.
+
+	|62-63.  la compagnia~: i compagni d'esilio, i fuorusciti
+Bianchi.  Ai danni e ai dolori dell'esilio, comuni a tutti
+(l'abbandono della patria, della famiglia, degli amici ecc.), si
+aggiunge per Dante un pi@u grave dolore: quello di una compagnia
+di malvagi e di sciocchi, con cui ebbe la ventura di dividere le
+dolorose esperienze dei primi anni d'esilio.  |Con... valle~: con
+cui ti troverai in questa misera condizione.
+
+	|64-66.  che... tempia~: a chiarire questa particolare
+situazione, bisogna ricordare che, subito dopo le prime condanne
+del 1302 (gennaio-marzo), i fuorusciti Fiorentini tentarono
+alcune imprese contro Firenze per poter rientrare in citt@a. 
+Poich$e avvennero quasi tutte nel territorio del Mugello, di dove
+si tentavano le spedizioni, queste tre guerre vennero dette
+Mugellane, dal dotto indagatore di questo periodo storico,
+Isidoro del Lungo.  La prima avvenne nello stesso anno 1302, una
+seconda nell'estate del 1303 e la terza, pi@u tardi, nel 1306.  @E
+assai probabile che Dante avesse fatto parte delle prime due,
+anzi della prima dovette essere uno dei promotori poich$e troviamo
+il suo nome accanto a quello dei Cerchi, degli Ubertini, dei
+Pazzi (che erano tra le principali famiglie di parte Bianca
+costretti ad esulare), in un documento dell'8 giugno 1302, da cui
+appare come i capi fuorusciti si fossero riuniti nella chiesa di
+San Godenzo sull'Appennino Tosco-Emiliano, per la preparazione
+degli atti di guerra.  Anche alla seconda guerra Mugellana nel
+1303, @e probabile prendesse parte il poeta, poich$e la spedizione
+era capitanata da Scarpetta Ordelaffi, signore di Forl@i, con cui
+Dante allora, e anche dopo, fu sempre in ottime relazioni.  @E
+probabile che dopo il fallimento delle due imprese, Dante
+cercasse di dissuadere i compagni di parte da questi tentativi
+frettolosi e mal preparati: ce ne sono testimonianza le chiose
+del cosiddetto ^Ottimo Commento~ di un anonimo, quasi certamente
+Andrea Lancia, che sappiamo essere stato amico e conoscente del
+poeta.  Nell'estate del 1304 ci fu un tentativo, fallito ancora,
+che fu detto della Lastra, per la localit@a a pochi chilometri a
+nord di Firenze, in cui avvenne lo scontro.  A tale tentativo
+Dante dovette essere estraneo, se l'accenno alla |tempia rossa~
+del v. 66, allude, com'@e assai probabile, a quel fatto di guerra. 
+Vuol dire dunque che, o sul finire del 1303, o al principio del
+1304, Dante far@a ^parte per [se] stesso~ e questo sar@a il suo
+vanto (cfr. pi@u avanti ai vv. 68-69).  A maggior ragione fu poi
+estraneo ai successivi tentativi, tutti falliti.  Si aggiunga
+ancora, a convalidare ci@o che si @e detto, che il primo ^rifugio~
+fu la cortesia del gran Lombardo, che, come si vedr@a (vedi nota
+al v. 71), non pu@o essere che Bartolommeo della Scala, il quale
+mor@i il 7 marzo 1304: prima dunque di tale data, Dante dovette
+essere stato suo ospite.  Al tentativo della Lastra perci@o egli
+non pot$e partecipare.
+
+	|64-66.  ingrata... matta ed empia~: @e difficile dire
+quali fossero le ragioni precise di questo atteggiamento dei
+compagni di esilio.  Sempre secondo l'^Ottimo Commento~, Dante
+avrebbe consigliato nel 1303 di rimandare alla primavera
+successiva un tentativo progettato per l'inverno, ma poich$e non
+si trovarono poi gli aiuti desiderati, <molto odio e ira ne
+portarono a Dante, di che elli si part@i da loro>.  |Rossa la
+tempia~: c'@e chi intende <rossore> di vergogna, ma @e forse pi@u
+probabile, anche per la parola |tempia~, poco adatta per
+esprimere il rossore sulla guancia, che si alluda invece al
+sangue, e cio@e al tentativo della Lastra, di cui si @e parlato
+nelle note precedenti.
+
+	|67-69.  il suo processo~: le conseguenze che ebbe la sua
+condotta dissennata (^bestialit@a~).  |Averti... stesso~: s'@e gi@a
+visto che cosa significhi questo isolamento di Dante.  Si noti
+qui il tono orgoglioso di tale affermazione.
+
+	|70-84 {Nota Bosco}.~  Accanto ai dolori, i conforti
+dell'esilio, ^temprando col dolce l'acerbo~ (^Pd~ XVIII 3): la
+`cortesia' dei due signori Scaligeri si contrappone alla
+`villania' di quegli altri che gli avevano fatto provare l'amaro
+del loro pane, la durezza delle loro scale.  Peraltro, il fatto
+che il poeta lodi solo gli Scaligeri tra coloro che lo ospitarono
+esule, non vuol dire che solo essi furono cortesi; infatti,
+altrove (^Pg~ VIII 109-139) loda i Malaspina.  Si noti l'energia
+stilistica dell'espressione: |Lo primo tuo refugio e 'l primo
+ostello / sar@a la cortesia del gran Lombardo~, 70-71: la cortesia
+non la ricchezza e potenza di lui; tanto meno la materialit@a
+degli aiuti.  Questa lode @e comune sia a Bartolommeo sia a
+Cangrande, del quale ultimo @e detto che non cur@o ^d'argento n$e
+d'affanni~ {84}; la stessa formulazione per la famiglia dei
+Malaspina, fregiati del ^pregio de la borsa e de la spada~ (^Pg~
+VIII 128-129) e, sostanzialmente, per gli antichi Romagnoli,
+invogliati da ^amore e cortesia~ a ^li affanni e li agi~ (^Pg~
+XIV 109-110).  Si noti che le lodi a Cangrande non sono esclusive
+di questo canto: trovano esatto riscontro nell'epistola (XIII)
+con la quale Dante dedicava a lui il ^Paradiso~, e nel fatto
+stesso dell'eccezionale onore a lui reso con questa dedica.  Le
+lodi a Bartolommeo e a Cangrande vanno poste in relazione coi ben
+diversi giudizi espressi dal poeta sugli altri due loro fratelli,
+Alboino e Giuseppe; non certo favorevole il giudizio (^Cv~ IV xvi
+6) su Alboino, il cui avvento, come successore di Bartolommeo, lo
+aveva forse un giorno indotto a lasciare Verona; nettamente
+spregiativo quello su Giuseppe, e coinvolgente un'indiretta forte
+riserva sul loro padre Alberto (^Pg~ XVIII 121-126).  Si deve
+anche ricordare che in ^Pg~ XVI 115-129, l@a dove Dante dice che
+le antiche virt@u di valore e cortesia (quelle stesse che loda in
+Cangrande; la cortesia anche in Bartolommeo) erano scomparse
+nella Lombardia del suo tempo, fa eccezione per tre vecchi ma non
+esclude alcuno Scaligero.  Si @e pensato (Arnaldi) che Dante
+avrebbe avuto una triste esperienza del suo primo soggiorno
+veronese presso Bartolommeo, donde le critiche e le riserve; e
+che poi l'esperienza sarebbe stata cancellata dal secondo
+soggiorno, presso Cangrande, ed estesa retrospettivamente a
+Bartolommeo, il primo rifugio.  Questo canto del ^Paradiso~, e il
+IX che, secondo l'opinione del Raimondi accettata dall'Arnaldi,
+porrebbe implicitamente accanto ai tre vecchi lombardi anche
+Cangrande, trionfatore dei nemici dell'idea imperiale, sarebbero
+una solenne ritrattazione a quanto gi@a detto dal poeta contro gli
+Scaligeri, e gi@a divulgato (l'^Inferno~ e il ^Purgatorio~, mentre
+Dante scriveva questo canto, erano stati pubblicati).  Si noti
+che Alboino mor@i nel 1312, e Giuseppe nel 1313, quando Dante era
+gi@a a Verona o stava per giungervi.  Assai difficili ad ammettere
+sono sia la retrospettivit@a della lode a Bartolommeo, sia la
+ritrattazione, troppo clamorosamente difformi dal costume di
+Dante.  Forse la gratitudine di Dante per Cangrande si nutriva
+anche del fatto che questo signore lo aveva bene accolto
+nonostante conoscesse le accuse o riserve che, specialmente
+quelle ad Alberto e ad Alboino, non potevano non dispiacergli. 
+N$e le lodi a Bartolommeo e a Cangrande potevano suonare in
+contraddizione con quelle accuse: il poeta aveva gi@a detto che
+l'^umana probitate~ solo ^rade volte risurge per li rami~; il
+buon principe Carlo Martello @e fratello d'un cattivo re come
+Roberto (^Pg~ VII 121-122, ^Pd~ VIII 76-148).
+
+	|70-71.  ostello~: dimora ospitale.  |La cortesia...
+Lombardo~: la generosit@a, la liberalit@a dello Scaligero signore
+di Verona.  Gran disputare si @e fatto dai critici su questo |gran
+Lombardo.~  Errata di certo la notizia del Boccaccio, che lo
+identifica con Alberto della Scala, perch$e morto (1301) prima
+dell'esilio del poeta.  La pi@u accreditata ipotesi sembra quella
+che lo identifica con il primogenito di Alberto, Bartolommeo, che
+tenne la signoria della citt@a dal 1301 al 1304.  Si deve pensare
+perci@o che, appena nel 1303, o all'inizio del 1304, Dante si
+stacc@o dai compagni di parte, trovasse asilo presso di lui.  Ci@o
+perch$e del suo successore, il fratello Alboino, che tenne la
+Signoria fino al 1311, Dante d@a un giudizio se non negativo,
+almeno poco benevolo nel ^Convivio~ (IV xvi 6).  C'@e inoltre da
+ricordare che, avendo Dante affermmato che il |primo~ rifugio e
+il |primo~ ostello fu presso gli Scaligeri, questo non si pu@o
+collocare pi@u tardi, come vogliono altri (Cosmo, del Lungo),
+perch$e nel 1306 sappiamo che Dante ebbe onorevole ospitalit@a in
+Lunigiana, presso i Malaspina (^Pg~ VIII 133-139).  La questione
+si potrebbe per@o quasi dire risolta, se teniamo conto di una
+testimonianza importante: quella del figlio di Dante, Pietro,
+che, anche per i suoi legami con Verona, meglio di ogni altro
+doveva sapere delle tristi vicende paterne.  Nella I redazione
+del suo ^Commento~, egli dice testualmente: <... ibit ad illos de
+la Scala de Verona, dominante tunc domino Bartholomaeo de dicta
+domo, portantem aquilam super scalam in armatura> (<... and@o
+presso gli Scaligeri di Verona, quand'era signore Bartolommeo di
+quella casata, che portava sull'armatura un'aquila sopra una
+scala>).  E nella terza redazione ribadisce: <in dicto suo exilio
+primo applicabit Veronae ad dominum Bartholomaeum de la Scala
+tunc ibi dominatorem> (<nel suo esilio and@o dapprima a Verona
+presso Bartolommeo della Scala che ne era allora il signore>). 
+Cfr. per tutta la questione: PETROCCHI, ^Itinerari~, I 19-141. 
+Che la prima accoglienza non fosse cos@i nobile e generosa, come
+sembra da questi versi, @e prova forse il giudizio negativo che
+sugli Scaligeri si legge in ^Pg~ XVIII 121-126.  Evidentemente i
+versi che stiamo leggendo, sono stati dettati dalla seconda e ben
+diversa accoglienza fatta al poeta da Cangrande, ed @e appunto la
+grandezza di costui, che si riverbera su tutta la casata.
+
+	|72.  che... uccello~: gli Scaligeri avevano come stemma
+di famiglia una scala, su cui fu aggiunto il simbolo imperiale,
+l'aquila, il |santo uccello.~  Secondo queste parole, sembrerebbe
+che il simbolo dell'aquila fosse gi@a sullo stemma scaligero nel
+1300, ma non ci sono prove sicure.  Si @e pensato che tale
+aggiunta venisse fatta solo nel 1311, quando gli Scaligeri
+divennero Vicari imperiali, ma il Mussato attribuisce l'aquila
+imperiale allo stemma degli Scaligeri gi@a in un episodio del 1310
+(^E. D.~ II 353).  Non @e escluso che gi@a Bartolommeo apponesse
+allo stemma l'aquila imperiale, avendo sposato Costanza,
+pronipote di Federico II, come appare dalla testimonianza di
+Pietro di Dante (vedi citazione alla nota prec.), e come
+apparirebbe da una delle arche scaligere che molto probabilmente,
+contiene i suoi resti e nella quale compare gi@a lo stemma con
+l'aquila in cima alla scala.  Cfr. G. CORSO, ^Il gran lombardo~,
+in <Bollettino del Comitato cattolico per l'omaggio a D. A.>,
+anno VIII, pp. 16-l9, con la fotografia della tomba (p. 16).
+
+	|73-75.  in te~: verso di te.  |Riguardo~: attenzione. 
+|Che... tardo~: nel concedere e nel domandare tra voi due, sar@a
+primo quello che normalmente viene dopo.  Significa cio@e che il
+generoso signore, contrariamente a quanto accade di solito,
+preverr@a le richieste del poeta, che non sar@a perci@o costretto
+all'umiliazione del chiedere.
+
+	|76-78.  colui~: Cangrande I della Scala, terzo figlio di
+Alberto, nato nel 1291; nel 1311 fu associato dal fratello
+Alboino al governo della citt@a.  Nel 1312, alla morte di Alboino,
+rimase unico signore di Verona, e ne tenne la signoria sino alla
+sua morte, avvenuta a Treviso il 22 luglio 1329.  Dante ebbe per
+lui una grande stima e un riverente affetto: gli dedic@o la
+cantica del ^Paradiso.~  Alla luce degli studi che si stanno man
+mano facendo su quel periodo, sembra debba ampliarsi di molto il
+secondo soggiorno del poeta a Verona, a scapito della residenza
+ravennate.  Certo fu accolto onorevolmente alla sua corte, forse
+subito dopo il fallimento dell'impresa di Arrigo VII e vi rimase
+non sappiamo fino a quando.  Anche se si dovesse porre nel 1317 o
+1318 l'inizio della residenza in Ravenna, come si @e finora quasi
+sempre creduto, le relazioni con lo Scaligero furono per@o sempre
+ottime, poich$e troviamo Dante presente a Verona nel febbraio del
+1320 per sostenere una disputa in materia di fisica terrestre, e
+sappiamo che al signore di Verona, il poeta soleva inviare gruppi
+di canti del ^Paradiso~ a mano a mano che li veniva componendo. 
+Ma, come si @e detto, si tende oggi ad allungare il soggiorno
+veronese e non @e forse da escludere l'ipotesi che la permanenza
+del poeta a Verona durasse fino agli inizi del 1320.  Cfr. G. 
+BILLANOVICH, ^Tra Dante e Petrarca~, in <Italia Medievale e
+Umanistica>, VIII, pp. 16-17; e G. PADOAN, ^Introduzione~ (p. xi,
+n. 1) all'ed. del ^De situ et forma aque et terre~, Firenze,
+1968.  |Che 'mpresso... sue~: che, nascendo, fu influenzato cos@i
+fortemente da questa stella, Marte, che le sue imprese sono degne
+di nota.  Marte predisponeva alle imprese di guerra.
+
+	|80-81.  novella et@a~: et@a giovanile.  Nato nel 1291, nel
+1300 Cangrande aveva 9 anni, come dir@a nei versi successivi. 
+|Son... torte~: hanno ruotato.  |Rote~: questi cieli.
+
+	|82-83.  ma pria... inganni~: prima che il papa Clemente
+V, Guascone, inganni il grande imperatore Arrigo VII; prima cio@e
+del 1312, allorquando Clemente, che dapprima aveva favorito la
+discesa di Arrigo VII, in Italia, gli si volse contro, incitando
+i Guelfi italiani alla ribellione e alla lotta.  Si noti il tono
+sprezzante contenuto in quel |Guasco~, a contrasto con l'agg.
+|alto~, riferito all'imperatore, che vale <nobile>, <eccellente>. 
+|Faville~: i primi sprazzi del valore di Cangrande appariranno in
+quell'occasione nel dispregio delle fatiche militari e della
+ricchezza (|argento~, |affanni~).  Proprio per questo disprezzo
+per le ricchezze (^questi non ciber@a terra n$e peltro~, ^If~ I
+103), specialmente i commentatori veneti ebbero la tendenza a
+identificare Cangrande della Scala con il famoso ^Veltro~ del I
+canto dell'^Inferno~, ma sembra improbabile perch$e, per quanto
+grande, lodato e celebrato, per quanto capo e restauratore del
+ghibellinismo italiano, Cangrande non potrebbe mai essere
+considerato da Dante come un salvatore dell'umanit@a.
+
+	|85-93 {Nota Bosco}.~  Contro gli studi del Petrocchi
+sulla cronologia, prima assai discussa, dei soggiorni di Dante a
+Verona, non sono state sinora mosse serie obiezioni: possiamo
+ritenere, quindi, che il I soggiorno cui si allude nei vv. 70-72,
+vada posto nel 1303-1304; il II, quello sotto Cangrande, dal 1312
+al 1318 circa: questo canto, che sarebbe stato composto intorno
+al 1318, segnerebbe il momento del congedo di Dante da Cangrande
+e da Verona (quali ne siano state le ragioni): rappresenterebbe
+dunque un ringraziamento per i benefici ricevuti; ma, si badi,
+non un accaparramento di nuovi favori.  Rientrerebbero in pieno
+negli anni del secondo soggiorno anche la dedica del ^Paradiso~,
+da collocare tra il 1315 e il 1317, e la composizione della
+^Monarchia~, del 1317 o poco posteriore (Ricci).  Ringraziamento
+a Cangrande, certo; ma si rifletta che ad esaurire questo
+sarebbero bastati la lode di liberalit@a come per Bartolommeo (e
+prima per i Malaspina), e l'esplicito ricordo dei benefici avuti
+(88).  Le sue ^notabili~ {78} opere belliche, che testimoniano in
+Cangrande l'impronta della stella di Marte; gli ^affanni~ {84}
+politico-militari; le imprese che sembreranno incredibili anche a
+coloro che le vedranno: queste lodi vanno molto di l@a da ogni
+anche entusiastico ringraziamento: sono rivolte non al
+benefattore, ma all'uomo politico e al guerriero.  Tanto, che
+certa critica del passato pot$e ravvisare in Cangrande il Veltro
+restauratore dell'ordine mondiale preconizzato nel I canto
+dell'^Inferno~; ipotesi inammissibile; ma @e certo che Dante si
+aspettava da lui grandi cose.  Naturalmente non pu@o specificarle,
+s@i che immagina che Cacciaguida, rivelandogliele, gli imponga di
+tacerle: espediente narrativo usato altre volte, per es. in un
+canto vicino a questo, a proposito del castigo che punir@a i
+discendenti di Carlo Martello (^Pd~ IX 4-6).  I Della Scala
+furono sempre favorevoli a Ezzelino da Romano; alla morte di lui
+(1259) ne raccolse l'eredit@a Mastino, fondatore della fortuna
+della famiglia, continuandone la politica filo-imperiale; dal
+canto suo Cangrande fu fedele a Enrico VII sino alla morte di
+questo e oltre, unico, tra i signori d'Italia, a tener fede alla
+sua idealit@a imperiale al disopra dei partiti, dei particolarismi
+comunali e familiari (Manselli).  Sono le idealit@a stesse di
+Dante, quali saranno da l@i a poco ribadite e fissate nella
+^Monarchia.~  Dato che Cangrande era il capo del ghibellinismo
+italiano, e che l'accusa fatta dalla Chiesa e dai Neri a Dante
+esule era appunto di ghibellinismo, la lode a Cangrande qui, e
+indirettamente nel canto IX, e la dedica del ^Paradiso~ sono
+ulteriore testimonianza del coraggio di Dante: mentre era sempre
+vivissimo in lui il desiderio di tornare a Firenze, e lo
+confermer@a in uno degli ultimi canti del ^Paradiso~ (XXV 1-9),
+con questa devozione a Cangrande non esitava a tagliarsi la
+strada del ritorno.  Ha pienamente ragione il Sansone: ben oltre
+che un semplice atto di grazie, l'esaltazione delle future
+imprese di Cangrande @e <l'atto stesso di fede di Dante nella
+salvezza dell'Italia, dell'Impero, del genere umano>.  Ancora una
+volta, insomma, le considerazioni private, i personali sentimenti
+s'inverano nelle grandi concezioni politico-religiose.
+
+	|85-87.  magnificenze~: la ^magnificenza~ @e una delle
+undici virt@u che fanno la nobilt@a dell'animo (^Cv~ IV xvii 5) ed
+@e propria del mondo cavalieresco-cortese.  Questa parola ricorre
+solo altre due volte nella ^Commedia~: una per la Madonna (^Pd~
+XXXIII 20), una per Beatrice (^Pd~ XXXI 88).  |S@i che... mute~: i
+suoi stessi nemici non potranno tacerle.
+
+	|88-90.  A lui t'aspetta~: affidati a lui e riponi la tua
+speranza nei suoi benefici.  Qui il valore del verbo @e pi@u vicino
+all'etimologia (latino ^adspectare~), per cui l'espressione
+letteralmente vale: <guarda fisso>, <rivolgi lo sguardo> a lui,
+facendo affidamento sul suo aiuto.  Cfr. ^Pg~ XVIII 47.  |Per
+lui~: da lui; con il solito |per~ che equivale al ^par~ francese. 
+|Cambiando... mendici~: la lode, troppo vaga e generica, non
+permette di fare riferimento a qualche fatto preciso e va presa
+come elogio all'operato di Cangrande in genere.  C'@e un'eco
+scritturale (^Luc.~ I 52-53).
+
+	|91-93.  portera'ne~: ne porterai.  |Mente~: nella
+memoria.  |Incredibili... presente~: queste |cose incredibili~
+persino a coloro che le vedranno accadere sotto i loro occhi,
+continuano ad essere espressione vaga e indeterminata che rivela
+la speranza di Dante nell'azione futura dello Scaligero.  Si noti
+|presente~ plurale per <presenti>, con la desinenza in ^-e~,
+vista altre volte.
+
+	|94-96.  giunse~: aggiunse.  |Chiose~: le spiegazioni,
+gli schiarimenti di ci@o che gli era stato detto negli altri due
+regni.  |Che... nascose~: che sono nascoste <quasi in agguato>
+(del Lungo) nello spazio di pochi anni (|giri~, del sole).
+
+	|97-99 {Nota Bosco}.~  Comunque, i perfidi Fiorentini, i
+Neri e i Bianchi, saranno puniti durante la vita di Dante, la
+quale si protrarr@a ben oltre la loro punizione: probabilmente,
+quando scriveva questi canti, Dante ne era gi@a stato testimone
+(morti tragiche di Bonifazio VIII e di Corso Donati; sconfitta di
+Montecatini).  Questo @e il significato dei vv. 97-99, come hanno
+ben visto alcuni lettori; non c'@e in essi riferimento, come
+pensano molti altri, non senza talvolta amplificazioni retoriche,
+alla fama di cui Dante godr@a nel futuro.  Ad escludere tale
+interpretazione basta l'osservazione del Porena: Dante pone come
+immediata la punizione, mentre, se questa fosse commisurata
+temporalmente alla sua fama, che Dante sa duratura (v. in questo
+stesso canto i vv. 119-120), sarebbe procrastinata nel tempo
+quasi senza limiti.
+
+	|97-99.  a' tuoi vicini invidie~: porti invidia o odio ai
+tuoi concittadini (|vicini~).  Si noti ^invidiare~ costruito alla
+latina con il dativo.  |Poscia... perfidie~: si deve intendere
+che Dante vedr@a un giorno il castigo dei Fiorentini, anche perch$e
+egli pi@u volte accenna a una punizione vicina.  Altri invece
+intendono, ma sembra interpretazione meno valida, che la gloria e
+la fama del poeta andranno ben oltre al momento del loro castigo. 
+|S'infutura~: verbo di conio dantesco, costruito sul sostantivo
+^futuro~: formazione parasintetica gi@a vista altre volte.
+
+	|100-102.  Poi... ordita~: fuori di metafora significa
+che Cacciaguida, tacendo, indic@o che ormai aveva terminato di
+chiarire i dubbi del poeta.  L'immagine @e ricavata dall'arte
+della tessitura (si noti che si trattava di un mestiere assai
+diffuso a Firenze), per cui i dubbi del poeta sono paragonati
+all'ordito della tela, e le risposte di Cacciaguida alla trama,
+che gli si sovrappone.  Anche in ^Pd~ III 95-96, Dante aveva
+usato la stessa metafora a proposito del voto di Piccarda. 
+|Spedita~: libera, sciolta.
+
+	|103-105.  come colui... consiglio~: come colui che,
+avendo dei dubbi, chiede consiglio.  |Che... ama~: <In poche
+parole delinea il ritratto del buon consigliere, che deve essere
+persona sapiente (|che vede... dirittamente~), virtuosa (|vuole
+dirittamente~) e amorosa (|che... ama~) verso colui che chiede
+consiglio> (Casini-Barbi).
+
+	|106-120 {Nota Bosco}.~  Nell'ultima parte del canto
+(106-142), Dante chiede a Cacciaguida un consiglio: deve riferire
+o no nel poema anche quel che ha visto nel viaggio ultramondano,
+che potr@a riuscire sgradito ai potenti?  Se lo far@a, correr@a
+rischio che, dopo aver perduta Firenze, perda anche altri
+possibili luoghi di rifugio; se non lo far@a, verr@a meno al suo
+dovere di poeta-maestro di alta vita morale; non sar@a pi@u poeta,
+non pi@u degno di fama duratura.  Insomma, dopo avere nei versi
+preced. difesa la sua figura politica e morale sia anteriormente
+che nei primi anni dell'esilio, ora spiega e difende la sua
+poesia nei rapporti coi potenti.  Per non venir meno al suo
+dovere di uomo e di cittadino, che @e tutt'uno col dovere del
+poeta, era stato esiliato; per lo stesso imperativo aveva in
+esilio affrontato nuovi dolori e disagi.  Inoltre, quando
+scriveva questi versi, l'^Inferno~ e il ^Purgatorio~ erano, come
+abbiamo ricordato, gi@a divulgati; egli stava per lasciare il
+rifugio di Verona durato parecchi anni per trasferirsi a Ravenna,
+dove certo sapeva di trovarne un altro ugualmente stabile, come
+infatti fu.  Tra le difficolt@a dell'esule c'erano state anche, @e
+questo che qui Dante ci dice, quelle derivate dai suoi stessi
+scritti, donde i suoi continui spostamenti (accuse ai potenti si
+trovano, oltre che nella ^Commedia~, nelle opere che la
+precedettero); il dialogo soliloquio @e una confessione di quel
+che gli era costato nella sua vita di esule povero l'alto
+concetto che aveva della poesia ammaestratrice; insieme alle
+altre mortificazioni, anche in questo consiste l'amaro del pane
+altrui.
+
+	|106-108.  padre mio~: corrisponde a ^figlio~ detto da
+Cacciaguida al v. 94.  |Sprona~: s'affretta, incalza.  |Ch'@e...
+s'abbandona~: tanto pi@u grave quanto pi@u ci si abbandona, cio@e
+non si sa reagire, o ci si lascia cogliere impreparati.
+
+	|109-111.  provedenza~: previdenza.  |@E buon~: @e bene, @e
+opportuno.  |Se loco... carmi~: se mi sar@a tolta la patria
+(|loco... pi@u caro~) io non debba, a causa dei miei versi,
+perdere altri luoghi in cui posso trovare asilo.  La profezia di
+Cacciaguida ha fatto sorgere in Dante un dubbio: se egli dir@a ci@o
+che ha visto nei regni dell'oltretomba, urter@a la suscettibilit@a
+di molti potenti e potr@a quindi essere difficile trovare
+ospitalit@a, allorquando sar@a cacciato da Firenze.  Ma se tacer@a,
+perder@a la fama presso i posteri: di qui l'imbarazzo del poeta.
+
+	|112-114.  lo mondo... amaro~: l'Inferno.  |Lo monte...
+levaro~: il Purgatorio, dalla cui cima (|cacume~) mi sollevarono
+gli occhi di Beatrice.
+
+	|115-117.  di lume in lume~: di cielo in cielo.  |Quel...
+agrume~: cose che se io ripeto a molti saranno sgradite e
+moleste.  |Agrume~ non @e un semplice astratto perch$e nel
+linguaggio trecentesco (e in qualche dialetto toscano @e vivo
+ancora oggi) valeva <ortaggi che hanno sapore forte e acuto>,
+come aglio, cipolle, ecc., e solo dal secolo XVI il termine
+assunse il senso di ^asprezza~ e pi@u tardi indic@o i frutti che
+noi oggi cos@i chiamiamo (limoni, arance, ecc.).  Cfr. MAGGINI, in
+<Studi d.> XIII 64-65.
+
+	|118-120.  e s'io... amico~: @e l'altro corno del dilemma. 
+|Perder viver~: la fama @e come un continuare a vivere tra i
+posteri (coloro che chiameranno antico questo tempo).  Si noti
+|viver~ infinito sostantivato equivalente a <vita>.
+
+	|121-123.  La luce... d'oro~: la gioia di dare risposte a
+Dante rende sempre pi@u luminosi gli spiriti, come si @e gi@a visto
+pi@u volte; per questo la luce in cui Cacciaguida splendeva di
+gioia, lampeggia come il riverbero del sole in uno specchio. 
+|Tesoro~: pi@u probabile nel senso di ^gemma preziosa~ come in
+^Pd~ XV 22, e ^vivo topazio~ in XV 85, che nel senso affettuoso
+di persona cara, anche se questo ultimo uso non si pu@o escludere
+del tutto.  |Corusca~: lampeggiante.  |Specchio d'oro~: @e
+probabile che anche nel Medioevo si usassero specchi fatti di
+metallo prezioso, come nell'antichit@a.
+
+	|124-135 {Nota Bosco}.~  Cacciaguida naturalmente
+risponde incitando il nipote a dire tutto quel che ha visto,
+senza preoccuparsi delle reazioni di chi si sentir@a offeso: in
+definitiva il suo dire sar@a per i colpevoli e per tutti una
+medicina, che, se @e amara nel primo gusto, sar@a vitale una volta
+digerita.  @E ovvio che non si tratta d'un dialogo ma d'un
+soliloquio.  Oltre che confessione, @e una giustificazione: egli
+ha agito, e si propone di agire cos@i anche scrivendo il
+^Paradiso~, non per amor dello scandalo ma per dare con la sua
+poesia vital nutrimento agli stessi colpevoli e a tutti i
+lettori; se ha colpito di preferenza altolocati, denunciando
+colpe note o svelando magagne segrete, non @e per sfoggiare
+coraggio, anche se sa che questa condotta gli sar@a di onore, ma
+per obbedire all'imperativo essenziale di servire la verit@a; e
+anche per la maggiore efficacia degli ^exempla.~  Impressionante
+@e l'elenco delle regioni e delle citt@a che il poeta rimprovera
+nel poema pi@u o meno aspramente: interi paesi e regni, oltre la
+Chiesa e i partiti: la Toscana, la Romagna, la Lombardia, cio@e
+quasi tutta l'Italia padana, la Marca Trevigiana, il regno
+angioino del Sud; delle citt@a, oltre Firenze: Pisa, Siena,
+Pistoia, Lucca, Genova, Bologna, Padova.  E non si elencano gli
+innumerevoli signori e privati.  Giacch$e le alte cime non sono
+soltanto gli altolocati; quello che @e essenziale @e la notoriet@a;
+perci@o son colpiti pure uomini comuni, ma di cui, mentre Dante
+scriveva, molto si parlava: da ci@o la preponderanza di fatti e
+persone toscani; senza forse rendersene pienamente conto, Dante
+pensava a lettori delle sue parti, il che permetteva anche la
+partecipazione diretta nel racconto di Dante uomo: @e questa
+ultima, buona osservazione del Del Lungo.  Quali sono le colpe
+che il poeta deve rivelare, e quindi in che cosa precisamente
+consiste il suo ammaestramento?  Il contesto nel suo insieme
+farebbe a prima lettura pensare a colpe morali di singole
+persone: il |vital nodrimento~ sembra non potersi riferire se non
+a queste.  Sennonch$e la denuncia non @e presentata come necessaria
+e salutare solo per essi, ma per tutti i lettori del poema. 
+D'altra parte, quelle che ne risentiranno sono le `coscienze
+fusche' |de la propria o de l'altrui vergogna.~  Il |de l'altrui~
+@e generalmente riferito ai parenti dei colpiti: ma questa non
+sarebbe sempre vergogna loro propria?  Perch$e quelle coscienze
+siano `fusche', sporche, bisogna che siano corree delle vergogne
+altrui, che le abbiano permesse o almeno tollerate.  Per es., le
+coscienze dei complici di Bonifazio VIII o di Carlo di Valois, o
+quelle dei malvagi e sciocchi Bianchi esiliati?  C'@e un passo
+della ^Monarchia~ (III i 2-4), sul dovere di non tacere la
+verit@a, strettamente analogo a questo: <veritas, quia sine rubore
+aliquorum emergere nequit, forsitan alicuius indignationis in me
+causa erit...  Quid timeam, cum Spiritus Patri et Filio coeternus
+ait per os David `in memoria eterna erit iustus, ab auditione
+mala non timebit'?>.  Il passo @e premesso alla dimostrazione
+della non subordinazione dell'Impero al Papato, tesi che certo
+avr@a saputo di forte agrume al papa e a molti.  La missione,
+dunque, di cui Dante si sente provvidenzialmente investito @e
+politica, non @e soltanto quella di correttore di costumi.
+
+	|124-126.  Cosc,ienza... brusca~: le coscienze offuscate
+(|fusca~), macchiate da colpe proprie o dei propri parenti,
+sentiranno certamente (|pur~) brusca la tua parola.
+
+	|127-129.  rimossa... menzogna~: allontanando qualsiasi
+menzogna, qualsiasi infingimento.  |Vis,ion~: ci@o che hai visto. 
+|E... rogna~: @e modo proverbiale e vale: <lascia che si lamenti
+chi ha ragione di dolersene>.  L'espressione fortemente plebea,
+rivela ancora una volta il realismo espressivo del poeta, che d@a
+alle immagini un vigore e una potenza straordinaria.  Ma certo la
+volgarit@a dell'espressione @e commisurata alla volgarit@a degli
+uomini che bersaglia, alle loro ^coscienze fusche.~  Cfr. ^If~
+XXII 93.
+
+	|130-132.  molesta~: spiacevole, sgradevole.  |Nel primo
+gusto~: al primo sentirla, al primo assaggio.  L'espressione
+metaforica richiama l'immagine del cibo gi@a presente in ^agrume~
+del v. 117.  |Vital nodrimento~: sta qui la sostanza del poema
+dantesco.  Esso @e nato come messaggio di salvezza all'umanit@a,
+come grande insegnamento affinch$e essa si liberi delle condizioni
+di miseria in cui l'hanno gettata la cupidigia e l'errore e si
+indirizzi verso quella felicit@a a cui Dio l'ha destinata.  Perci@o
+questa seconda parte del canto ha una grandissima importanza,
+perch$e Cacciaguida investe solennemente il poeta della missione
+redentrice.  Per questo compito la Grazia divina ha concesso a
+Dante, vivente, la vista del mondo di l@a, regno della giustizia
+di Dio.  La lezione vulgata ^nutrimento~ @e semplificazione:
+d'altronde nella ^Commedia~ sempre ^nodrire~ (^If~ XII 71; ^Pg~
+XXII 152; ecc.).  Cfr. PETROCCHI, I 446.  |Digesta~: digerita
+(latinismo).  L'immagine ricorda Boezio (^Cons. Ph.~ III pr. 1):
+<[alcune verit@a] talia sunt quippe... ut degustata quidem
+mordant, interius autem recepta dulcescant> (<sono tali... che
+appena assaggiate sanno d'agro, ma una volta ingoiate a mandate
+gi@u si trasformano in dolci alimenti>; trad. U. Moricca).
+
+	|133-135.  Questo tuo grido~: queste tue parole; ma il
+termine |grido~ non @e solo <pi@u solenne e pi@u forte> (Vianello)
+ma @e parola della Sacra Scrittura e ha quindi un significato
+quasi sacrale.  |Le pi@u alte cime~: i potenti della terra: Dante
+si colloca al di sopra delle potest@a terrene e la sua parola
+suona rimprovero e ammonimento ai grandi, per lo pi@u responsabili
+della corruzione e del traviamento dell'umanit@a: papi, re,
+imperatori sentiranno la ^parola brusca~, che lascer@a poi ^vital
+nodrimento~ per la correzione del mondo.  Cos@i si compie l'alto
+dovere che l'avo, dall'alto dei cieli, gli impone per ordine di
+Dio.  |E ci@o... argomento~: alta consapevolezza della propria
+missione.  Il verso significa: e ci@o non fa, non costituisce,
+piccola ragione (|argomento~) d'onore.
+
+	|136-142 {Nota Bosco}.~  Tanto meglio il suo
+ammaestramento raggiunger@a il suo scopo, quanto pi@u noti saranno
+i personaggi denunciati: proprio per questo Dio ha disposto che
+nel viaggio provvidenziale gli siano mostrate |pur l'anime che
+son di fama note~ {138}.  Tutti gli ultimi esegeti insistono sul
+provvidenziale carattere che Dante assegna al suo viaggio e alla
+sua missione di ammaestratore che essi considerano lo sbocco
+vitale dei canti di Cacciaguida; e in sostanza lo sviluppo
+dell'avvicinamento operato al principio dell'episodio, tra s$e ed
+Enea e Paolo: egli avrebbe avuto da Dio una duplice investitura,
+politica e religiosa.  Questo @e verissimo, ma non costituisce
+affatto una peculiarit@a di questi c.; anzi, tutta la ^Commedia~ @e
+basata sul concetto della provvidenzialit@a e sacralit@a del
+viaggio oltremondano e sul compito assegnato al viaggiatore da
+Dio di riferire sulla terra quel che ha veduto.  Ricorderemo solo
+due passi assai vicini a questo di cui ora ci occupiamo:
+l'esortazione di Beatrice a Dante perch@e stia attento alle
+vicende del carro simbolico apparsogli nel Paradiso terrestre
+(^in pro del mondo che mal vive, / al carro tieni or li occhi, e
+quel che vedi, / ritornato di l@a, fa che tu scrive~, ^Pg~ XXXII
+103-105) e quella di S. Pietro, che leggeremo nel XXVII del
+^Paradiso~, particolarmente vicina all'incitamento di Cacciaguida
+a riferire senza reticenza (^e tu, figliuol, che per lo mortal
+pondo / ancor gi@u tornerai, apri la bocca, / e non asconder quel
+ch'io non ascondo~, 64-66).  Nessuna novit@a, dunque; semmai la
+novit@a consiste nel fatto (Sansone) che qui non @e solo affermata
+genericamente la provvidenzialit@a del viaggio, <ma anche il suo
+modo di attuarsi>; cio@e, Dio non solo ha voluto il viaggio ma ha
+specificamente stabilito quali anime mostrare al viaggiatore. 
+Si afferma che la missione di maestro di alta moralit@a @e
+connessa col dolore dell'esilio, subito prima predetto da
+Cacciaguida; che anzi nasce dall'esilio stesso.  Temiamo che
+questa suggestiva diffusa opinione sia effetto del pregiudizio
+che la ^Commedia~ sia un monolito.  In effetti l'esilio e la
+missione sono due elementi dell'autoritratto contigui ma
+indipendenti tra loro, la cui radice comune va cercata molto in
+alto, nella personalit@a stessa di Dante.  @E indubbio infatti che
+questa sia stata temprata dal dolore dell'esilio; del resto,
+basta paragonare la ^Vita nuova~ alla ^Commedia~; in questa, per
+cos@i dire, esplode un'altra coscienza, una diversa poesia; Dante
+fa dell'esilio <il malinconico piedistallo del giudice solenne
+dell'umanit@a> (Momigliano).  Ci@o @e vero, ma @e vero per tutto il
+poema, non per il solo dialogo-soliloquio che conclude questo c.
+
+	|136-137.  Per@o~: perci@o.  |In queste rote~: nei Cieli,
+nel Paradiso.  |Nel monte... dolorosa~: nel Purgatorio e
+nell'Inferno.
+
+	|139-142.  che... paia~: unisci |che~ a ^Per@o~ del v. 136
+e intendi: perocch$e (^per@o... che~) l'animo di colui che ode, non
+pone (|posa~), n$e presta (|ferma~) fede per un esempio
+(|essempro~) che abbia (|aia~) una radice ignota (|incognita~),
+n$e per un altro argomento che non appaia evidente (|paia~), che
+cio@e non abbia una concretezza (donde la persuasivit@a) attinta al
+reale della vita.  Queste parole di Cacciaguida confermano il
+carattere esemplare che, per lo pi@u, hanno i personaggi della
+^Commedia.~

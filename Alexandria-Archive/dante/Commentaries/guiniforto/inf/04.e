@@ -1,0 +1,854 @@
+	|Canto IV, il qual contiene, come, disceso Dante nel
+primo cerchio, trov@o nel Limbo gran moltitudine di anime, ed in
+ispecialit@a di molti illustri ed eccellenti uomini e donne.~
+
+	|Proemio.~  Questo @e il quarto canto della prima cantica,
+nel quale, avendo Dante di sopra mostrato il general passaggio
+delle anime prave all'Inferno, ora recita il passaggio, che egli
+fece per lo primo circolo chiamato Limbo, dove stavano le anime
+di quelli che son dannati per sola causa di peccato originale, e 
+di non aver debitamente adorato Dio, quali mostra essere stati 
+molti infanti, molte femmine e molti uomini puri ed innocenti, 
+molti illustri principi, molti eccellenti filosofi, oratori e 
+poeti morti senza battesimo.  In tre parti principali si pu@o 
+distinguere questo canto; nella prima si contiene la entrata di
+Dante nel primo cerchio dell'Inferno.  Nella seconda, ivi: 
+^Quivi secondo~, si descrive la pena di quelli che son puniti in
+quel luogo e dichiarasi in generale chi sono quelli, ed ivi 
+ancora Dante fa una dimanda alla quale risponde Virgilio.  Questa
+2a parte principale dobbiamo noi distinguere in due particelle:
+nella prima descrive Dante la pena di quelli del primo cerchio, e
+da Virgilio intendendo chi son coloro, a dolore e piet@a si muove. 
+Nella seconda particella, ivi, ^Dimmi Maestro~, Dante fa una
+interrogazione a Virgilio, e da lui ode la risposta.  Nella terza
+{parte principale}, ivi: ^Non era lunga~, si tratta in
+particolarit@a di molti uomini eccellenti, cos@i in fatti d'arme e
+di civilt@a, come in scienza, e mostrasi, il loro luogo nel Limbo
+separato essere dagli altri.  In sei particelle mi pare che
+dobbiamo distinguere questa parte: nella prima si contiene, come
+Dante per certo signale conobbe, ch'egli approssimava al luogo
+degli onorati uomini, e di questi, per pi@u certezza, dimand@o
+informazione a Virgilio, dal qual ebbe risposta.  Nella seconda,
+ivi: ^Intanto voce~, venendo a pi@u particolarit@a recita Dante,
+com'ei trov@o quattro poeti soprani, i quali, vedendo Virgilio
+tornare, gli vennero all'incontro, e feciongli onore, ed ancora
+fecero esso Dante di loro compagnia.  Nella terza, ivi: ^Venimmo
+al pi@e~, recita, come arrivarono ad un castello nel quale entrato
+dice in generale, com'egli vide gli spiriti magni di eccellenti
+uomini.  Nella quarta, ivi: ^Io vidi~, nomina in ispeciale alcuni
+illustri in vita civile.  Nella quinta, ivi, ^Poich'i'nnalzai~
+nomina alcuni altri eccellenti in diverse scienze.  Ultimamente,
+ivi: ^La sesta compagnia~, si contiene la uscita di Dante da quel
+luogo in altro peggiore.
+
+	|1-6.  Ruppemi l'alto sonno nella testa~: Nella prima
+parte recita Dante, come risvegliato da quel sonno, nel qual egli
+era caduto sulla riva di qua d'Acheronte, ei si trov@o esser di l@a
+sulla estremit@a della profonda valle d'abisso al discender della
+quale ei fu confortato da Virgilio.  Continuando adunque, dice:
+un greve tuono mi ruppe nella testa l'alto, profondo sonno, nel
+qual io era caduto per lo baleno, per il fulgore di sopra detto
+nel canto precedente, ruppemi, dico, il sonno, s@i, in tal modo,
+|ch'io mi riscossi~, mi risvegliai, intendiamo spaventato, come
+persona ch'@e desta per forza.  Ed io, riposato da quello
+spavento, levato dritto, mossi gli occhi intorno, e fisso guardai
+per conoscer il luogo dove io fossi.
+
+	|7-12.~  Descrive il luogo dove si trov@o, e dice: vero @e,
+che mi trovai, intendiamo di l@a dal fiume, in su la proda:
+propriamente proda @e la parte anterior della nave, ma qu@i
+intendiamo in su la proda, in su la estremit@a della tenebrosa
+valle d'abisso, che, cio@e la qual valle accoglie tuono
+|d'infiniti guai~, accoglie suono terribile, e grande a modo che
+tuono causato da guai infiniti, da inumerabili guai, e che mai
+non avran fine, li quali ascendono per tutti li nove circoli fin
+dal profondo.  Per questo che qui si dice, par finger il nostro
+autore, che l'Inferno dalla sua entrata fino a questo luogo fosse
+assai piano, e qui cominciasse a calar in gi@u di cerchio in
+cerchio fin al profondo.  Susseguentemente descrive la qualit@a di
+questa valle, e dice: tanto era oscura, profonda e nubilosa
+questa valle, |che per ficcar il viso a fondo~, per guardar a
+fondo, io non discerneva alcuna cosa.  In qual modo fosse portato
+Dante di l@a dal fiume, egli non lo dice, perocch@e vi fu portato
+addormentato, e non seppe come; ma noi possiamo dire, ch'ei vuole
+denotare esser portato dall'angelo per li sopraddetti segni, li
+quali vedremo di sotto, nel canto IX, occorrere nell'avvenimento
+dell'angelo.  Secondo poetica finzione, avendo il nostro autore
+finto, ch'ei cadde in terra come addormentato per quel gran
+fulgore, il quale gli avea vinto ogni sentimento, ora, che per lo
+grave tuono ei sia destato, questo finge molto convenevolmente,
+perocch@e prima vediamo il fulgore innanzi che udiamo il suono. 
+La qual cosa procede, non perch@e prima si causi il fulgore, che
+il tuono, ma perocch@e il sentimento del vedere di subito vede le
+cose visibili a se debitamente presentate, quantunque sia dalla
+lunga: non @e cos@i del sentimento dell'udire, al quale
+successivamente per aere, e non di subito arriva il suono, come
+per esperienza si comprende, se uno batte alcuna cosa dalla
+lunga, noi vediamo per notabil spazio di tempo dar il colpo
+avanti che vediamo il suono, e pure il suono si causa in quel
+medesimo punto di tempo, nel quale abbiamo veduto dare il colpo. 
+Nel sopraddetto modo intendendo, possiamo dire, che questo tuono,
+il qual risvegli@o Dante era diverso da quello, che poi fu udito
+uscire di abisso, e fu causato questo, del quale parliamo adesso,
+per lo accidente del terremoto.  E questo ho veduto accader
+alcuna fiata nel terremoto, specialmente essendomi un giorno in
+Porto Venere; causandosi un terremoto, la terra a vicino del mare
+fece un suono, a modo che un breve tuono, ovvero di una bombarda. 
+In altro modo ancora si puo intendere che questo non era vero
+tuono, il quale naturalmente non si puo causare nell'Inferno,
+dove non sono quelle impressioni dell'aere per le quali si causa
+il vero tuono; ma era quel suono a modo che tuono causato dalla
+gran moltitudine di pianti, grida, e guai, che facevan le anime
+nell'abisso.
+
+	|13-15.~  Recita Dante, com'ei fu invitato da Virgilio a
+discendere in quell'abisso.  Dice adunque: il poeta Virgilio
+tutto smorto cominci@o dire a me: |or discendiam qua gi@u nel cieco
+mondo~, nell'Inferno tenebroso, oscuro, e pieno di cecit@a; io
+Virgilio sar@o il primo a discender, e tu, o Dante, sarai secondo,
+io ti far@o la via.  E cos@i fu secondo verit@a, ch@e Virgilio,
+descrivendo l'Inferno nel sesto libro della ^Eneida~, fece a
+Dante via in questa sua opera.
+
+	|16-24.~  A questo parlare di Virgilio Dante fa una
+obbiezione, onde dice: ed io che mi fui accorto del color di
+Virgilio, perocch@e egli era smorto, dissi: |Come verr@o~ io, se
+tu, o Virgilio, paventi, se tu hai paura, tu che suoli esser
+conforto al mio dubbiare, al mio dubitare, secondo che mi fu
+mostrato di sopra, nel secondo canto?  Seguita la risposta di
+Virgilio, ed egli Virgilio, rispose a me: |l'angoscia delle genti
+che son qua gi@u dannate~, e possiamo intender massimamente di
+quelli che sono nel primo cerchio, questa angoscia mi dipinge nel
+viso quella piet@a che tu senti, che tu credi proceder per paura;
+vuol dire: da piet@a procede quel colore, che tu credi procedere
+da paura: torna Virgilio a confortar Dante nel suo cammino, e
+dice: andiamo, perocch@e la via lunga che noi abbiamo a fare ne
+sospinge, ci sollecita, e stimola a camminare: cos@i, dette queste
+parole, Virgilio si mise in cammino, e cos@i mi fe' entrare |nel
+primo cerchio~ che cinge, che circonda l'abisso distinto in nove
+circoli nel modo che si vedr@a in processo di questa cantica.
+
+	|25-30.  Quivi~: in quel primo cerchio, |secondo che per
+ascoltar~ si poteva comprendere, |non aveva pianto, ma che di
+sospiri~, cio@e se non di sospiri, che facevan tremare l'aere
+eterno dell'Inferno, tanti erano, e tanto grandi questi sospiri. 
+Assegna Dante la cagione da onde procedevan questi sospiri senza
+pianto, e dice: |ci@o avvenia di duol senza martiri~, che avean,
+il qual duol aveano le turbe, le moltitudini d'infanti, di
+fanciulli piccolini, e fanciulle, di femmine e di viri, di
+uomini, ch'eran, le quali turbe eran molte e grandi.  Molte,
+quanto alla diversit@a loro, perocch@e una di fanciulli, un altra
+di femmine; altra di uomini assai volgari; altra d'illustri
+principi, e magnanimi propugnatori per la patria; altra di uomini
+eccellenti in filosofia, in medicina, in rettorica, in poesia ed
+altre scienze.  Grandi erano queste turbe, perocch@e in ciascuna
+era gran moltitudine d'anime.
+
+	|31-42.~  Or vedendo queste turbe, e non dimandando io,
+che gente fosse questa, lo buon maestro Virgilio disse a me: tu
+non dimandi, o Dante, che spiriti son questi che tu vedi: Or
+innanzi che pi@u andi, innanzi che tu passi pi@u oltra, vo' che tu,
+o Dante, sappi, che questi spiriti |non peccaro~, non fecero
+peccato in vita loro.  E pi@u ti dico ancora: se essi hanno
+mercedi, se hanno ben meritato, virtuosamente vivendo, e molto
+bene operando, questo non basta, perocch@e non ebber lo battesmo,
+ch'@e parte della fede cristiana che tu, o Dante, credi.  Potrebbe
+Dante maravigliarsi, perch@e sian dannati ancora quelli che furono
+innanzi la instituzione del battesimo, perci@o di questo assegna
+Virgilio la cagione, dicendo: e se molti di questi spiriti furon
+dinanzi al Cristianesimo, prima del quale non era ordinato il
+battesimo, tali son dannati, perch@e non adorar debitamente Dio,
+perocch@e adoraron li falsi Dei, non conoscendo il vero Dio,
+eterno padre, figlio e spirito santo, individua trinit@a.  E di
+questi cotali son io medesimo, dice Virgilio: noi siam perduti, e
+dannati per cotai difetti, e non per altro rio difetto che
+abbiamo commesso.  E sol di tanto siamo offesi, solamente in
+questo consiste la nostra offensione, e pena, che noi viviamo in
+disio di beni eterni, senza sperare di mai pervenire a quelli.
+
+	|43-45.~  Udito questo parlare, dice Dante: gran duol,
+gran dolore mi prese al cuor, quando lo intesi e la ragione @e,
+perocch'io conobbi che genti cio@e gentili di molto valore eran
+sospesi in quel Limbo, intendiamo da pena, e da gaudio.  Secondo
+litteral esposizione pena proporzionata al loro difetto finge
+Dante, che sostengono costoro, li quali dappoi la morte non
+ricevono premio dall'onnipotente Dio, a cui non hanno servito in
+loro vita, ma non son gravati di altra pena, perocch@e attualmente
+non hanno commesso altro peccato.
+
+	|46-50.  Dimmi, Maestro mio, dimmi, Signore~: In questa
+particella Dante recita, com'ei fece una interrogazione a
+Virgilio, e da lui ebbe risposta.  Dice adunque: io Dante, per
+voler esser certo, non crediamo per@o noi, che prima ei dubitasse,
+ma questo dice poeticamente: or per voler esser certo di quella
+fede che vince ogni errore, della fede cristiana, seconda la qual
+noi crediamo, che l'anima di Cristo discendesse all'Inferno per
+salvar le anime de' santi padri, io cominciai dire a Virgilio:
+dimmi, maestro mio, dimmi signore; uscicci mai di questo Limbo
+alcuno per suo merito, o per merito d'altrui, uscicci, dico,
+alcuno che poi fosse beato?
+
+	|51-63.~  Seguita la risposta: e quel Virgilio, che
+|intese il mio parlar coverto~, perocch@e tentava udir da lui
+quello che io credeva per fede, mi rispose nel modo che seguita:
+|io era novo in questo stato~, cio@e nuovamente io era venuto al
+Limbo, |quando ci vidi venire un possente con segno di vittoria
+coronato.~  Questo fu Cristo, Dio e uomo, il quale in quanto
+uomo, morendo di corporal morte, poco tempo dappoi la morte di
+Virgilio, ebbe vittoria contra il Diavolo, facendo la umana
+generazione abile ad acquistar vita eterna, e liberando dalle
+pene dell'Inferno le anime di coloro, i quali, avendo debitamente
+adorato Dio innanzi lo avvenimento del figliuolo suo, erano per
+lo peccato originale privati di luce divina.  De' quali Virgilio
+discorrendo per diverse etati dal principio del mondo fin al
+tempo di Cristo, nomina alcuni, dicendo: questo possente coronato
+di vittoria, Cristo, trassene fuora di questo Limbo l'ombra,
+l'anima del primo parente Adam, dal quale @e discesa tutta la
+umana generazione; trassene l'ombra di Abel suo figlio, il quale
+fedele e grato a Dio nelli sacrifici suoi, fu per invidia ucciso
+da suo fratello Cain; e trassene quella di No@e, il quale, per
+bont@a piacente a Dio, fece, secondo suo comandamento, un arca
+nella quale dal diluvio fu salvata la specie umana, e quella
+degli altri animali; trassene ancora l'anima di Mois@e, |legista
+ed ubbidiente.~  Ubbidiente a Dio fu Mois@e, e fu legista del
+popolo Ebreo.  Trassene ancora quella di Abraam, |patriarca~
+chiamato, cio@e parte, e principio di generazione di molte genti. 
+E trasse del Limbo David re d'Israel, gran profeta che compose li
+salmi con tanto misterio di spirito santo.  Trasse Israel, cio@e
+Jacob, dall'angelo chiamato Israel, trasselo, dico, col padre,
+cio@e con Isaac suo padre e con li suoi nati, con li suoi dodici
+figliuoli, dai quali discesero le dodici trib@u d'Israele; e
+trasselo ancora con Rachele, sua diletta mogliere, |per cui tanto
+fe'~: questo dice, perocch@e Giacobbe serv@i a Labano, padre di
+Rachele, per lo spazio di quattordici anni, acciocch@e la potesse
+aver per moglie.  Tutti questi trasse Cristo, ed altri molti, e
+feceli beati, e soggiunge Virgilio per maggior dichiarazione, e
+vo' che tu, o Dante, sappi che dinanzi ad essi, innanzi che
+questi fossero tratti dal Limbo e beatificati, non eran salvati
+spiriti umani.  E per questo parlare Virgilio ha satisfatto alla
+interrogazione di Dante.  Nel qual parlare dobbiamo dire che
+Dante, per far cadere i suoi versetti in rima, non ha servato
+l'ordine dei tempi e dell'etati, prima nominando Mois@e e poi
+Abraam, il quale prima era stato, e cos@i accade di alcuni altri.
+
+	|64-66.~  Continua poi Dante il suo parlare del cammino
+che fecero e dice: |noi non lasciavam l'andare perch'ei dicessi~,
+cio@e, bench@e Virgilio parlasse, ma tuttavia passavamo la selva, e
+dichiara qual selva, perch@e non s'intenda, che questa fosse selva
+di alberi, e dice: |la selva, dico, di spiriti spessi~, questo
+dice a denotar la gran moltitudine di questi spiriti, de' quali
+similmente fu detto di sopra, ch'eran molte e grandi le turbe.
+
+	|67-69.  Non era longa ancor la nostra via~: Questa @e la
+terza parte principale del quarto canto, nella qual si tratta di
+uomini eccellenti, e del luogo loro nel Limbo separato dagli
+altri.  Quanto alla prima particella, Dante, proseguendo il suo
+parlare, dice: la nostra via non era ancora lunga di qua dal
+sommo, dal sommo di qua, e viene a dire: non avevamo ancora fatta
+lunga via, poich'eravamo discesi dal sommo, dalla sommit@a, cio@e
+da quella proda dell'abisso, sulla quale disse essersi trovato
+nel principio di questo canto, e chiamala di qua, avendo rispetto
+a noi del mondo, alli quali vien quel sommo ad essere pi@u vicino,
+che non sono i circoli di sotto a se compresi.  In alcuni libri
+il testo dice: ^di qua dal suono~, cio@e, poich'eravamo partiti da
+quel luogo, dov'io aveva udito il suono, che mi risvegli@o, e
+diciam pure come a noi piace, che tutto in effetto viene ad una
+sentenza.  Or continuiamo la lettera: la nostra via di qua dal
+sommo non era lunga, quando io vidi un fuoco che vincia emisperio
+di tenebre.  Spera @e corpo in ogni parte rotondo; emisperio si
+chiama mezza spera, e per@o dice che vincea emisperio di tenebre,
+cio@e intorno e sopra di se, non dico di sotto, illuminava in modo
+di mezza spera quel luogo dell'Inferno tenebroso.
+
+	|70-78.~  Prosegue Dante il suo parlare: |da lungi
+n'eravamo ancora un poco, ma non s@i ch'io non discernessi in
+parte~, ch'io non discernessi alquanto, che gente onorevole
+possedea quel luogo.  Vedendo questo io dimandai a Virgilio chi
+eran costoro, e dissi: o tu che con le opere da te compilate
+onori e scienzia, ed arte; scienzia per rispetto della dottrina,
+e delle sentenze comprese in quelle opere; arte, rispetto dello
+artificioso modo di trattarle da te servato in esse.  Ed in
+questo ben dice Dante, perocch@e gli eccellenti uomini in scienze
+spessa fiata son cagione, che la scienza sia avuta in onore,
+secondo che per lo contrario spessa fiata @e occorso, che sia
+disprezzata per disprezzo degl'ignoranti professori di questa. 
+Diciamo adunque: o tu Virgilio, che onori e scienza ed arte,
+dimmi chi son questi, che hanno tanta onoranza, intendiamo quanto
+@e questa, che li diparte dal modo degli altri posti in luogo
+tenebroso?  Seguita la risposta di Virgilio:  ed egli, Virgilio,
+rispose a me: la onorata nominanza che suona di lor su nella tua
+vita, la onorata fama ch'@e di lor nel mondo, acquista grazia nel
+ciel che s@i gli avanza, lor fa vantaggio cos@i, come tu vedi.  E
+questo dice Dante a significare la vita loro in questo mondo, la
+quale pur vediamo esser eminente sopra quella degli altri
+peccatori.
+
+	|79-84.  Intanto voce fu per me udita~: In questa seconda
+particella recita Dante, come quattro poeti, nominati nel testo,
+si mossero a venire all'incontro a Virgilio per onorarlo, e si
+misero in sua compagnia.  Continuando adunque, dice: intanto
+ragionando Virgilio quel che detto @e di sopra, per me fu udita
+voce, che disse: |onorate l'altissimo poeta~ Virgilio, |l'ombra~,
+l'anima |sua torna, ch'era dipartita~ da noi, intendiamo quando
+and@o a soccorrere a Dante.  E perocch@e a filosofia pertiene il
+comandare tutto ci@o, che sia di onestate, e perocch@e di sotto
+vedremo Aristotile esser constituito principe di tutti i
+filosofi, e degli altri litterati, per tal ragione possiamo
+creder verosimilmente, che questa fosse voce di Aristotile, alla
+quale ubbidienti i quattro poeti, qui da Virgilio poco di sotto
+nominati, si mossero di subito dal luogo dov'erano, e vennero
+all'incontro a esso come appare nel testo che seguita, dicendo
+Dante: poich@e la detta voce |fu restata e queta~, io |vidi
+quattro grandi ombre~, quattro anime per eccellenza loro grandi,
+venire a noi, a Virgilio ed a me: avevano sembianza, cio@e
+apparenza |n@e trista, n@e lieta.~  Trista non l'avevano, perocch@e
+non sostenevano martiri: lieta non l'avevano, perocch@e erano
+privati di beatitudine.  Possiamo ancor dire, che questo dica a
+denotare apparenza di uomini gravi e d'autorit@a, li quali in loro
+aspetto osservano mediocrit@a intra letizia, e tristezza.  Che
+ombre fossero queste lo dichiara Virgilio nel testo che seguita.
+
+	|85-93.  Lo buon Maestro incominci@o a dire~: Recita
+Dante, come Virgilio gli disse chi eran costoro; onde dice: lo
+buon Maestro, Virgilio, incominci@o a dire: |mira colui con quella
+spada in mano~, che viene s@i come sire, come signore dinanzi ai
+tre.  |Quegli @e Omero poeta sovrano, l'altro @e Orazio satiro che
+viene~, il terzo @e Ovidio, e l'ultimo @e Lucano.  Con la spada in
+mano descritto fu Omero sovrano poeta Greco a denotare la
+grand'efficaccia, ch'egli ebbe in suo stile, ed oltra di questo,
+perocch@e egli tratt@o della guerra di Troia con laude immortale di
+Achille fortissimo cavaliere.  E degnamente Virgilio lo chiama
+come signore, e gli fa quest'onore, perocch@e da Omero pigli@o
+Virgilio per imitazione la materia della sua ^Eneide~, per la
+quale tanta fama acquist@o.  Due opere compose Omero, una chiamata
+^Iliade~, distinta in ventiquattro libri, nella qual tratta della
+guerra di Troia: l'altra chiamata ^Odissea~ similmente distinta
+in ventiquattro libri nella qual tratta delle fortune, che
+sostenne Ulisse partendosi da Troia, poich@e fu distrutta.  La
+^Odissea~ imit@o Virgilio nei primi sei libri della ^Eneide~; la
+^Iliade~ imit@o nelli ultimi sei, con sommo artificio, risecando,
+ed abbreviando in suo proposito quello che diffusamente avea
+trattato Omero in altra materia non per@o diversa.  Orazio, poeta
+Italiano da Venosa, citt@a del Regname, fu uomo di gran moralit@a e
+scrisse il suo poema in stile satirico a reprensione de' vizi, e
+per@o fu descritto esser secondo.  Ovidio, poeta Italiano di
+Sulmona, citt@a pure del Regname, fu uomo di grande ingegno; molte
+cose scrisse in poesia, e specialmente fece il suo libro
+^Metamorphoseos~, nel qual si comprendono quasi tutte le favole
+poetiche, sicch@e chiamar si puo tesoro di poesia, e per@o fu
+nominato qui per terzo.  Lucano poeta latino di Cordova, citt@a di
+Spagna, nepote del gran Seneca morale.  Questo Lucano scrisse
+della guerra civile intra Cesare e Pompeo, e nel numero di questi
+eccellenti poeti fu computato, perocch@e in alto stile poetico, e
+con alcune finzioni @e compilata la sua opera: ma per ultimo di
+questi quattro fu nominato perocch@e egli ha proceduto nella sua
+opera come istorico, scrivendo comunemente la verit@a, non come
+poeta pervertendola con molte finzioni.  Possiamo ancora
+altramente dire, che in questi tre poeti, senza titolo di
+onoranza nominati, cio@e Orazio, Ovidio, e Lucano, il nostro
+autore non serva ordine di dignit@a, ma pur li nomina secondo che
+meglio @e accaduto per consonanza del suo ritmo.  Nominati costoro
+assegna Virgilio la cagione perch@e a lui fanno onore; onde dice:
+costoro |fannomi onore, e di ci@o fanno bene~, perocch@e ciascuno
+si conviene meco nel nome che suon@o, cio@e in quel nome, il qual
+signific@o la voce sola da te udita, la qual disse: onorate
+l'altissimo poeti, e viene a dire: mi fanno onore, perocch@e io
+son poeta come son essi.
+
+	|94-102.  Cos@i vidi adunar la bella scola~: Descrive ora
+Dante poeticamente, come questi quattro si accompagnarono insieme
+con Virgilio, e lo accettarono per sesto in loro compagnia.  Dice
+adunque: cos@i, intendiamo, essendosi incontrati questi quattro
+con Virgilio, io vidi insieme adunar la bella scola, il bel
+collegio e la bella compagnia di quei signori dell'altissimo
+canto, soprani intra tutti gli altri poeti nel verso eroico, che,
+cio@e il qual canto e verso, vola sopra gli altri, come aquila
+vola sopra gli altri uccelli.  Prosegue Dante il suo parlare nel
+qual mostra come anch'ei fu ricettato da costoro; onde dice:
+dacch@e ebber alquanto ragionato insieme, possiam credere intra le
+altre cose dimandando quei quattro, e rispondendo Virgilio, chi
+era Dante, e che andava facendo vivo per la dolente citt@a de'
+morti, poich'ebber, dico, alquanto ragionato insieme volsersi
+quei quattro a me con salutevol cenno.  La qual cosa prima non
+avevano fatta, non conoscendo Dante; e il mio Maestro Virgilio
+sorrise di tanto, fece bocca da ridere, piacendogli che a me
+facessero onore.  Prosegue il suo parlare, dicendo: ed ancora mi
+fenno assai pi@u di onore, che non era il salutarmi, perocch@e
+esser mi fecero della loro schiera, sicch@e |io fui sesto tra
+cotanto senno~, quanto era quello di questi cinque poeti.  Li
+poeti prenominati erano quattro, Virgilio quinto, sicch@e io venni
+ad esser sesto.  E per questo che qui @e detto, possiam creder che
+Dante voglia denotare, esser introdotto nel numero de' poeti
+mediante la guida di Virgilio, cio@e mediante le opere di
+Virgilio, delle quali grandemente fu studioso.
+
+	|103-105.~  Susseguentemente mostra Dante, come insieme
+camminarono, e dice: cos@i andammo infin alla lumiera di quel
+fuoco esposto di sopra, parlando cose, che il tacer, delle quali
+il tacere ora @e bello per non interromper il proposito nostro;
+bello @e, dico, ora il tacere, siccome era bello il parlare col@a,
+dov'era io tra la compagnia di quei poeti.  E questo credo
+verisimilmente che dica Dante a denotare, che nell'arte poetica,
+o in altra qualsivoglia scienza disputassero di molte cose, le
+quali non si fanno a proposito della presente materia.  Alcuni
+circa questo dicono altramente, ed altri altramente, e fanno
+molte fantasie, delle quali non mi curo.
+
+	|106-114.  Venimmo al pi@e d'un nobile castello~: In
+questa quarta particella della terza principale si contiene
+l'entrata di Dante in un nobile castello nel quale prima in
+generale dice Dante, che vide molti spiriti di eccellenti
+persone.  Dice adunque: venimmo, intendiamo tutti sei
+accompagnati insieme, venimmo, dico, al pi@e di un nobile
+castello, nobile per rispetto de' sozzi luoghi dell'Inferno,
+nobile per rispetto di quelli che l'abitavano, e nobile per
+rispetto della edificazione sua in se considerata.  Descrive la
+forma di questo castello, dicendo: |sette volte cerchiato~, sette
+volte circondato |di alte mura~; difeso e circonvallato intorno
+da un bel fiumicello; fiumicello dice a denotare, che non era dei
+principali fiumi dello Inferno.  Descrive poi la sua entrata in
+questo castello, e dice: noi passammo questo fiumicello, come
+s'ei fosse stato terra dura, ed io per sette porte entrai con
+questi savi di sopra nominati, e poi giungemmo |in prato di
+fresca verdura.~  Recita che genti vi trovasse, e dice: genti vi
+avea |con occhi tardi, e gravi, di grande autorit@a ne' lor
+sembianti~, nei loro atti, parlavano raro |con voci suavi~; a
+costoro attribuisce Dante le condizioni che son convenienti agli
+uomini gravi di autorit@a.  Che importi il sopraddetto castello,
+non lo trovo da alcuno esser esposto in modo conveniente a tutti
+quelli spiriti che son l@a dentro.  Per comprender adunque
+ciascuno sotto la esposizione, dico, che Dante volendo figurar
+non solamente la prerogativa di onore, e di fama che hanno li
+uomini notabili in vita, ma eziandio in qual modo essa si possa
+perpetuare dappoi la morte, finge aver trovato costoro nel Limbo
+avvantaggiati dagli altri dannati, e fingeli separati in un
+castello, nel modo che vediamo nel testo.  Or considerando che
+questo castello non @e altro che un prato verde circondato da
+sette mura e da un fiumicello, dico, che questo verde prato
+significa la viridit@a e durazione della buona fama per
+qualsivoglia merito causata; il fiumicello dal qual @e difeso il
+castello significa la eloquenza: i sette muri compresi entro
+questo fiumicello, significano le sette scienze chiamate
+liberali, Grammatica, Dialettica, Rettorica, Musica, Geometria,
+Aritmetica ed Astrologia, delle quali convien che abbia alcuna
+notizia chi vuole perfettamente esser eloquente.  Che poi Dante
+abbia passato quel fiumicello a pi@e saldo, come avrebbe passato
+sopra terra dura, ed entrando per sette porte con quei poeti, sia
+giunto in prato di fresca verdura, viene a denotare, che per via
+di poesia chi vuol acquistar la viridit@a di fama convien, che
+esercitato nelle opere dei gran poeti quali furono questi qu@i
+nominati, venga per quella esercitazione in tal perfezione, ch'ei
+non senta pi@u difficolt@a in dir eloquentemente ci@o ch'ei vuole,
+come non saria difficile ad altri il parlar grossamente, e
+volgarmente.  E cos@i entrando per sette porte, cio@e avendo alcun
+principio di ciascuna delle sette scienze, non dico montando
+sopra le alte mura, e volendo esser perfetto in ciascuna,
+perocch@e questo non gli @e necessario, ma entrando per le porte
+venga in verde prato di fama indeficiente, qual possiamo dire che
+sia quella di Dante.
+
+	|115-120.~  Seguita poi nel testo quello che fecero i
+compagni suoi ed egli, perch@e discernesse meglio quelli ch'eran
+ivi; onde dice: traemmoci dall'un de' canti, in luogo |aperto,
+luminoso ed alto~, sicch@e veder si poteano tutti quanti quelli
+spiriti magni, e quivi dritto sopra il verde smalto, sopra il
+prato verde, e lucente a modo che smalto mi furon mostrati da
+miei compagni |li spiriti magni~, tali, che del veder, cio@e di
+averli veduti, io stesso me ne esalto.
+
+	|121-123.~  Nomina qui Dante in ispecialit@a alcune
+persone illustri in vita civile.  Dice adunque: |io vidi Elettra
+con molti compagni~, accompagnata da molti, tra quali io conobbi
+Ettore, ed Enea, e |Cesare armato con gli occhi grifagni.~ 
+Degnamente nomina prima Elettra, feconda madre, dalla quale
+discese il real sangue troiano, discese la origine della citt@a di
+Roma, ed il principio della monarchia del mondo.  Questa Elettra
+fu figliuola di Atalante, e dicesi che di Giove partor@i Dardano
+fondatore di Troia, dal quale, successivamente discendendo per
+alcuni gradi, trasse l'orgine l'ultimo re de' Troiani, Priamo,
+padre di Ettore. Da questo Dardano ancora discese Enea figliuol
+d'Anchise, e conseguentemente, per ispazio di molti secoli
+dappoi, discese Giulio Cesare, secondo che io dir@o poco di sotto. 
+Adunque degnamente fu nominata quest'antica madre accompagnata da
+molti, intra li quali, perocch@e lungo saria nominare tutti, il
+nostro autore fa menzione di Ettore cavaliere sopra gli altri
+valoroso in armeggiare, in consigliar prudentissimo, il quale, a
+Dio parendo indegno che vedesse la estrema distruzione di Troia,
+e miseramente finisse sua vita, prima come verace cavaliere,
+fortemente combattendo per la patria, fu ucciso da Achille
+fortissimo di tutti li Greci.  Ha ancora nominato qui Enea
+principe di somma piet@a, e di alto consiglio, origine, e radice
+della citt@a di Roma, e dell'imperio del mondo.  Il qual Enea,
+perocch@e in Troia aveva sempre santamente consigliato ch'Elena
+fosse restituita a Menelao, suo marito, e che buona pace si
+firmasse coi Greci, per questa cagione salvato nel tempo
+dell'incendio di Troia, e lasciato andare, finalmente con Giulio
+Ascanio suo figliuolo, arriv@o in Italia, e fece parentado col re
+Latino, sposando Lavinia sua figlia per moglie.  Quivi, avendo
+gi@a avuto vittoria contra li Rutuli fatti suoi nemici per la
+cagione gi@a detta nel primo canto, combattendo poi contra i
+potentissimi Etrusci, li quali eransi colligati co' Rutuli, mor@i
+vittoriosamente in battaglia, e succedettegli nel regname
+Ascanio, poi edificator d'Alba, dal quale trassero origine i re
+Albani, e Romolo, fondatore e primo re di Roma, e Giulio Cesare,
+che diede materia, e fece via all'imperio.  E per@o fu nominato
+qui Cesare in compagnia d'Elettra, come discendente da lei, e
+solo Cesare descrive armato, perch'egli solo veramente merita
+vanto sopra tutti gli altri, che mai amministrassero fatti
+d'arme.  Non mi voglio estendere in dire di lui, perocch@e lungo
+saria il parlare.  Ma questo dir@o, che cinquanta fiate ebbe
+vittoria in battaglia ordinata: un milione, cento e trenta due
+mila uomini degli nemici, recita Plinio, essere stati uccisi
+sotto il capitanato di Cesare; soggiog@o i bellicosissimi popoli
+della Gallia, gl'indomiti di Germania, i fortissimi
+d'Inghilterra, gli animosi di Spagna, i feroci d'Affrica,
+innumerabili d'Asia.  Nessuna delle quattro regioni del mondo
+pot@e resistere all'impeto di Cesare, impeto non temerario, ma
+sempre con somma prudenza governato.  Pi@u dico: per molte
+ingiurie provocato ad indignazione da suoi emuli e detrattori,
+vincitore di quelli, che avevano vinto il mondo, mise freno
+all'Italia, nella quale, pacificato ch'ebbe lo stato di Roma,
+usando di somma clemenza verso i capitalissimi suoi nemici,
+onorando i virtuosi, premiando quelli che avevano ben meritato,
+studiando con somma diligenza di ristaurare la Repubblica nei
+danni, che ella aveva ricevuti, ecco per insidie in senato fu
+ucciso da Decio Bruto e Cassio, e da altri congiurati.  Con gli
+occhi grifagni, simiglianti a quei di griffo, fu descritto Cesare
+a denotar la bellezza degli occhi suoi, e la vivacit@a, e
+magnitudine del suo aspetto, e molto pi@u a designare la
+magnanimit@a del cuor suo, che solo guardava a cose alte.  Altre
+persone ancora nomina Dante in specialit@a nel testo che seguita.
+
+	|124-126.~  Dice Dante: io |vidi Cammilla, e la
+Pentesilea~; Cammilla, vergine bellicosa, regina de' Volsci venne
+in soccorso di Turno re de Rutuli, contro Enea nel principio del
+suo avvenimento in Italia, secondo che dice Virgilio nel suo
+libro della ^Eneide~, e fu morta in battaglia, secondo che fu
+detto nel primo canto.  Pentesilea, regina delle Amazoni, venne
+con gran moltitudine di femmine bellicosissime in soccorso di
+Troia incontro a Greci, ove fece di gran fatti d'arme, e
+finalmente fu uccisa in battaglia; delle quali femmine Amazoni si
+trovano scritte molte cose notabili e gloriose.  Dice poi Dante:
+io |dall'altra parte vidi il re Latino~, che sedeva con Lavinia
+sua figlia, per matrimonio della quale ferm@o Enea suo stato in
+Italia, e che dall'altra parte abbia egli veduto seder Lavinia,
+poeticamente si dice, e non ha importanza alcuna.
+
+	|127-128.~  Continua poi il suo parlare: io |vidi quel
+Bruto che cacci@o Tarquinio~ superbo, settimo ed ultimo re di
+Roma, e questo dice a differenza di quel Bruto, che fu uno dei
+principali uccisori di Cesare; il qual Bruto non ha voluto qui
+nominar Dante, forse reputandolo indegno di questo onorato luogo. 
+Nomina adunque solo quel Bruto che discacci@o Tarquinio, ed
+introdusse libert@a in Roma.  E soggiunge Dante aver veduta
+Lucrezia, della quale io volentieri vorrei dire quello che merita
+la sua pudicizia, ed immaculata integrit@a di mente; ma il mio
+debole ingegno non mi basta; d'altronde @e assai nota la istoria. 
+Dietro a Lucrezia nomina Dante Giulia, figlia di Cesare e moglie
+di Pompeo, amantissima del suo marito, della quale, intra le
+altre cose si legge, che stando un giorno Pompeo in Roma a veder
+uno spettacolo, nel quale i gladiatori dovevano tagliarsi a pezzi
+secondo usanza di quel tempo, ed essendo sanguinate le vestimenta
+di Pompeo, per le ferite di alcuni di coloro, le mand@o Pompeo a
+casa, perch@e gliene fossero portate altre da mutarsi.  Tanto
+cordiale e non simulato era l'amore di Giulia, che dalla lunga,
+vedendo portar le vestimenta del marito insanguinate, e dubitando
+che sinistro gli fosse occorso, ella sincopizz@o, e cadde a terra
+come morta, per la qual cosa, con pericolo di sua vita,
+disperdette il figliuolo che nel ventre suo gravida portava. 
+Nomina poi Dante Marzia, moglie di Catone, donna molto
+morale e di gran prudenza.  Nomina Cornelia, figlia di Scipione
+l'Affricano, moglie di Tito Gracco di alta dignit@a, e di gran
+venerazione nella Repubblica di Roma.  Questa donna per sua
+eccelsa virtude, acquist@o tanto amore del marito suo, quantunque
+ei non fosse prima stato amico di Scipione, acquist@o, dico,
+tanto amore, che il marito suo, per esperienza si dichiar@o pi@u
+amar lei, che se medesimo.  Occorse caso, che un giorno, nel
+letto matrimoniale di costoro, furon trovate due serpi, della
+qual cosa maravigliandosi ciascuno, prima che lor facessero alcun
+male, dimand@o il marito dagli aruspici, e dalli divinatori ci@o
+che significava questo: alla qual petizione rispondendo essi, che
+importava la morte di lui, o della moglie, perocch@e necessario
+era uccider una di queste serpi, ed uccidendo il maschio
+morirebbe Tito, marito, uccidendo la femmina morirebbe Cornelia,
+mogliere.  Inteso questo command@o Tito, che fosse ucciso il
+maschio, e cos@i mor@i esso, servando la vita a Cornelia, la
+quale non tard@o a mostrare, ch'ella era stata degna di tanto
+amore: conciosiach@e Tolommeo, possente re di Egitto, fece grande
+instanza, perch@e fosse sua moglie, promettendole regal corona, e
+participazione di tanto regname; ma mai non piacque a lei di
+consentire, e vedova con inviolata castitate e continenza,
+servando integra la memoria del marito, rimase a governare dodici
+figliuoli con somma prudenza, con attentissimo studio, con
+grandissima dolcezza, e poi morendo li nove, e rimamendo due
+maschi, ed una femmina, in tal modo li seppe ammaestrare, che non
+avevano i simili in tutta Roma, non solamente quanto a nobile
+aspetto, e gentil maniera, ma eziandio quanto a dottrina, ed ogni
+ornamento di animo, comecch@e finalmente non succedesse lor bene;
+ed ecco quanto fu degna di esser nominata intra le illustri
+persone Cornelia.
+
+	|129.~  Ultimamente nomina Dante Saladino, dicendo: ed
+io, Dante, |vidi il Saladino~, solo, in parte.  Solo da parte lo
+mette, perocch@e intra tutti questi illustri trovasi, lui essere
+stato della legge di Maometto.  Questo Saladino fu gran sultano
+di Babilonia nel tempo, che Federico Barbarossa imperatore volle
+fare il general passaggio ad acquistare terra santa, e dicesi
+che, sentendo questo, Saladino personalmente con pochi compagni,
+sotto abito di mercadante, in breve tempo cerc@o tutta la
+cristianitade per vedere lo apparecchiamento che facevano i
+cristiani, e pienamente informato ritorn@o in sua terra.  Molte
+cose di lui si dicono degne di laude quanto a virt@u mondana;
+altre cose ancora si dicono, delle quali non abbiamo istoria
+autentica, e per@o non procedo pi@u oltre in parlar di lui.
+
+	|130-133.~  In questa quinta particella nomina Dante
+alcuni uomini eccellenti in scienza, e prima nomina Aristotile,
+dicendo: |poich@e innalzai un poco pi@u le ciglia~, poich@e io levai
+gli occhi un poco in alto, |vidi il Maestro di color che sanno~,
+cio@e Aristotile, |sedere tra filosofica famiglia~, intra
+moltitudine di filosofi.  Questo Aristotile fu di Strategiria
+citt@a di Tracia, per natura figliuolo di Nicomaco medico ma per
+dottrina auditore, e figliuolo prima di Socrate per lo spazio di
+tre anni, e poi di Platone per lo spazio di venti, e venne a
+tanta perfezione in filosofia ed in ogni altra scienza, che ha
+illustrato il mondo con sua dottrina, e tanta autorit@a @e la sua,
+che, da ci@o ch'ei disse, non @e lecito discrepare in alcuna
+scolastica disciplina, e trovasi aver scritto quasi innumerabili
+opere in ogni scienza con maraviglioso modo di procedere, e con
+altissimo intelletto e sottilissimo ingegno.  In grandissima
+estimazione fu avuto Aristotile da Filippo, re di Macedonia, e
+diedelo per maestro e consigliere a suo figlio Alessandro, poi
+appellato Magno, dal quale fu molto amato e riverito.  Visse anni
+settanta sette sempre con gran vigor di mente, ed ora Dante lo
+descrive qui nel Limbo, come principe soprano di tutti gli altri
+filosofi, dicendo: |tutti lo miran, tutti onor gli fanno.~
+
+	|134-135.~  Nomina poi altri dicendo: |quivi vid'io
+Socrate, e Platone che innanzi agli altri pi@u presso gli stanno~,
+ad Aristotile, sicch@e Dante vuol dire, che avanzan bene tutti gli
+altri filosofi in eccellenza, ma sono avanzati dal loro discepolo
+Aristotile.  Questo Socrate nacque di bassa condizione, ma con
+sua virt@u mont@o a vera nobilitade.  Costui fu il primo che mai
+riducesse le filosofiche speculazioni a moral ammaestramento di
+vita umana, e da lui discesero gli altri filosofi, ch'ebbero poi
+ad introdurre diverse opinioni in filosofia morale.  Leggesi,
+essere stata maravigliosa la pazienza sua in sostenere ogni
+contumelia e specialmente di una sua mogliere, femmina
+indiavolata per nome Xantippe.  Laudava Socrate, che i giovani
+spessa fiata mirassero nello specchio la effigie loro, non per
+vedere, se la perucca fosse ben pettinata, ma perch@e, vedendosi
+formati belli da natura, studiassero di vivere in tal modo che
+per alcun vizio non difformassero la loro beltade, e vedendosi
+formati sozzi si sforzassero con virt@u, e merito proprio di
+laude, di correggere ogni difetto che per natura fosse in loro. 
+Tanto fu desideroso di sapere, che mai non si sdegn@o di
+apprendere da ogni persona di qualunque condizione non solamente
+da uomini, ma eziandio da semplici femminelle.  Dimandando uno da
+Socrate, in che consistesse la sostanza della beatitudine umana,
+rispose che consistesse in largamente donare a quelli che son
+degni.  Diceva egli ancora, che due cose conviene che osservi chi
+vuol acquistare buona fama, una che adopri bene assai, l'altra
+che parli poco.  Condannato fu Socrate a morte dagli Ateniesi,
+perocch@e egli diceva, non dover essere adorati i loro idoli, e,
+pubblicamente venerato, mor@i nella et@a di settant'otto anni, con
+perfetta vivacit@a d'intelletto, filosoficamente parlando della
+immortalit@a dell'anima, e disprezzando la morte, dappoi la quale,
+pentiti gli Ateniesi della crudel sentenza loro contro Socrate
+data, fecero poi morir quelli che lo avevano accusato; e per onor
+di Socrate misero in un tempio la statua sua fabbricata d'oro. 
+Platone, uomo di gentil sangue Ateniese, in sua giovent@u destro
+della persona, buon corritore, fu discepolo di Socrate, e gi@a
+fatto dottissimo and@o cercando tutto il mondo per desiderio
+d'apprendere cose nuove.  Divinamente scrisse Platone in
+filosofia e metafisica, e con efficaccissime ragioni mostr@o, che
+l'anima umana @e immortale, confortando ciascuno a desiderio di
+godere quella immortalitade, la suavit@a della quale non sente
+l'uomo, finch@e prigionata sta l'anima nel corpo.  La vita di
+Platone fu regolatissima secondo virtute in ogni atto umano.  Le
+opinioni sue furono molto conformi alla Fede nostra, e li suoi
+consigli ed ammaestramenti furono santissimi.  Mor@i Platone in
+et@a di ottant'uno anni, nel giorno proprio della nativit@a sua.
+
+	|136.  Dimocrito~: filosofo Abderito, per desiderio di
+acquistar sapienza, volendo rilevarsi da molte cure, liberalmente
+alla patria sua don@o grandissima eredit@a, nella quale era ei
+succeduto al padre suo, e ritenendosi piccola particella, quanto
+poteva bastare a necessit@a di sua vita, and@o ad Atene, ed ivi si
+fece famoso filosofo.  Sua opinione fu, che d'infiniti corpi
+indivisibili, chiamati atomi, a modo che di semenze di tutte le
+cose generabili, fossero a caso ed a fortuna, non punto per
+divina providenza, causati li quattro elementi, e fatto il mondo;
+e per questa cagione dice Dante: Dimocrito che pone il mondo
+esser fatto a caso.  Di questo Dimocrito si legge, ch'ei si cav@o
+gli occhi corporali, per non veder gli errori del popolo dato ad
+ogni fallacia e disonestate, o come altri dicono, per veder pi@u
+accuratamente la verit@a con gli occhi della mente.  Intra le sue
+notabili sentenze si legge, ch'egli diceva, pi@u convenevol cosa
+essere che l'uomo sia tenace del suo, che largo di quel d'altrui. 
+
+	|137.  Diogenes~: filosofo, alieno da ogni diletto
+sensuale, constantemente am@o temperanza e povert@a; onde un giorno
+sedendo egli al sole, e pregandolo Alessandro Magno ch'ei volesse
+accettare da lui alcuna cosa in dono, rispose: o Alessandro, cosa
+che tu mi possa dare io non la voglio, ma una cortesia ti
+dimando: non mi privare di quello che tu non mi puoi dare. 
+Questo diceva egli, perocch@e Alessandro gli faceva ombra, e gli
+toglieva il sole, sicch@e scaldar non si poteva, e cos@i andossene
+Alessandro non avendolo potuto indurre a ricever cos'alcuna.  Di
+questo Diogene si legge, che un giorno essendogli detto vergogna
+con parole contumeliose, e, tacendo esso, dimandato da suoi
+amici, perch@e taceva, rispose: io taccio, perocch@e rispondendo
+non gli potrei far tanto disonore, quanto ei si @e fatto da se
+medesimo, disonestamente di me parlando.  Leggesi pure una
+piacevolezza di costui.  Un gran ricco, il qual era molto sozzo,
+mostr@o a Diogene la sua casa ornatissima, la quale vedendo
+Diogene tanto bella, vedendo anche lui preziosamente vestito, e
+volendo sputare, guardossi prima intorno, e finalmente sput@o sul
+volto di quel ricco.  Dimandato, perch@e aveva fatto questo,
+rispose: che degna cosa gli pareva ch'ei dovesse sputare nel pi@u
+sozzo luogo della casa, e guardatosi intorno non aveva veduto
+cosa tanto vile e sozza, quanto la faccia sua.  Diceva anche
+Diogene che da due cose grandemente si dee guardar l'uomo, cio@e
+dalla invidia dell'amico, e dalle insidie dell'inimico. 
+|Anassagora~: filosofo Asiano, essendo ricchissimo, andossene ad
+Atene per istudiare, ove stette per lo spazio di trent'anni, e
+ritornato poi, trovando le possessioni sue inculte e selvatiche,
+non si turb@o punto, ma disse ch'ei non sarebbe salvo, se avesse
+voluto attendere a salvare le possessioni.  Molte cose scrisse in
+filosofia naturale ed in astrologia.  Alcuni credono che Dante
+volle nominar Pitagora Samio, principe de' filosofi latini, il
+quale abit@o in Calabria e fu il primo che fosse mai chiamato
+filosofo.  Prima si chiamavano sapienti li dotti, ma parve a lui
+arrogante, che alcuno si dovesse intitolare sapiente, e per@o, per
+pi@u modestia, ei volle esser chiamato, non sapiente, ma amico di
+sapienza.  Or sia, o Anassagora, o Pitagora, non mi faccio cura. 
+|Tale~: filosofo, nato di nobilissima gente di Fenicia, e poi
+fatto cittadino di Mileto, e per@o chiamato Milesio, fu uno dei
+sette appellati sapienti in Grecia.  Uomo fu morale e di buon
+consiglio, e molte cose investig@o, e scrisse in natural filosofia
+ed in astrologia.  Mostr@o egli per esperienza, che a filosofo non
+sarebbe difficile d'inricchire, se alle ricchezze volesse metter
+studio.
+
+	|138.  Empedocles~: Agrigentino, fu filosofo di sottile
+ingegno nell'investigare le cause delle cose naturali. 
+|Eraclito~: Asiano, fu anch'ei filosofo, il qual forse intendendo
+troppo profondamente fu molto oscuro nelle sue opere.  |Zenone~:
+due filosofi chiamati furono di questo nome, ed ambedue
+constantissimi predicatori della verit@a.
+
+	|139-140.  Dioscoride~: filosofo, investig@o la qualit@a
+delle erbe, delle pietre, e di altre molte cose deservienti a
+medicina, e per@o di lui parlando, dice Dante: |e vidi il buon
+accoglitor del quale~, cio@e accoglitore ed investigatore delle
+qualit@a delle sopraddette cose.  |Orfeo~: fu di Tracia, uomo
+eloquentissimo nel tempo suo, gran teologo, poeta e musico, del
+quale fingono i poeti, che al maraviglioso suonare della sua
+cetra, faceva gli animali fieri, diventar mansueti, faceva i
+fiumi fermarsi dal loro corso, e moveva i monti da luogo a luogo. 
+La qual finzione fu fatta, perocch@e ei con sua eloquenza riduceva
+li uomini, i quali prima vivevano come bestie, a mansuetudine, ed
+a vita ragionevole ed onesta; stabilit@a induceva nell'animo di
+uomini instabili e vani; piegava i duri ed ostinati, mutandoli da
+reo a buon proposito, e finalmente i rudi e grossi intelletti
+mollificava ed ammaestrava.  Di questo Orfeo si recita una
+favola, come and@o all'Inferno, la quale non bisogna raccontare.
+
+	|141.  Tullio~: Marco Cicerone d'Arpinate, terra vicina a
+Roma, di cui, per sua virt@u, fu fatto cittadino: oratore fu sopra
+tutti gli altri che mai abbia avuto lingua latina, e possiam dire
+ch'ei sia fontana di eloquenza, e fondamento di arte rettorica;
+in filosofia morale eccellentissimo fu, e molte opere compil@o. 
+Quantunque egli fosse di bassa condizione, e nuovo cittadino,
+nondimeno essendo ardentissimo a procurare il bene della
+Repubblica, prontissimo a difender la salute de' buoni cittadini,
+veementissimo ad oppugnare gl'improbi e maligni, magnanimo e
+giustissimo; essendo tale, ei fu promosso alla pi@u alta dignit@a
+di tutto il mondo, fu creato Console, nel qual consolato si port@o
+da forte e costantissimo protettor della Repubblica, non meno che
+da vigilantissimo, e prudente governator di quella.  Da lui
+prudentemente fu manifestata in Senato, e costantemente con somma
+eloquenza fu oppressa la sceleratissima congiurazion di Catilina,
+cittadino di Roma, nobilissimo e possente.  |Lino~: fu sacerdote
+antico, poeta e teologo di Tracia.  |Seneca~: fu di Spagna di una
+citt@a chiamata Cordova, filosofo morale, molto onorato, e
+possente nella corte di Nerone imperatore, quantunque Nerone
+fosse dato ad ogni vizio.  Molte opere compil@o massimamente in
+filosofia morale; ebbe tre figliuoli, de' quali uno chiamato
+Seneca dicesi essere stato autore delle tragedie.  Amico fu
+Seneca di san Paolo, e scrissegli alcune epistole, alle quali
+ebbe risposta, in tal maniera, e sotto copertura comprendendo
+cotali sentenze, per le quali non dubit@o san Geronimo numerarlo
+nel catalogo de' santi.  Dante qui lo nomina tra quelli ch'ei
+finge aver trovati nel Limbo.
+
+	|142.  Ptolommeo~: Due furono i Ptolommei, de' qualli
+possiamo in questo proposito intendere: uno fu chiamato Ptolommeo
+filadelfo, re di Egitto, studiosissimo in ogni gentil scienza, e
+massimamente in astrologia, nella qual dicesi aver composto molti
+libri.  Ebbe questo re nella sua libreria quaranta mila volumi di
+libri, e non perdonava ad alcuna spesa per aver ogni opera, che
+fosse detta esser singolare; onde si legge, che, per aver avuta
+da Giudei interpretata la legge del Dio vero, ne fece lasciar
+liberi cento venti mila, li quali servivano nel suo regno, e pag@o
+egli, de' suoi propri denari il prezzo alli signori di tali
+servi.  Oltra di questo mand@o preziosissimi doni di gran valuta
+in Gerusalemme al tempio di Dio, ed al gran sacerdote Eleazaro. 
+Possiamo ancora intendere d'un altro chiamato Ptolommeo, il qual
+non fu punto re, n@e signore, ma poi, nel tempo di Adriano
+imperatore, fu grandissimo astrologo, e molti libri compose in
+quella scienza.
+
+	|143-144.  Ippocrate~: filosofo di gran sobriet@a, e primo
+autore che si trovi aver scritto in medicina.  Di lui si legge,
+che, nel tempo di una sterminata pestilenza in Atene, fece
+circondar tutta la terra di gran legnami nei quali avendo posto
+fuoco insieme, cos@i si purg@o l'aere, che da pestilenza fu
+liberata la citt@a.  Per la qual cosa gli Ateniesi, quantunque
+egli fuggisse tal onore, pur gli fecero una statua d'oro a modo
+che ad un Dio.  Molte opere scrisse in medicina, e dicesi, ch'ei
+visse anni novantacinque.  |Avicenna~: re in Ispagna, o secondo
+altri in Maiorca isola di Spagna, fu natural filosofo
+peritissimo, e compose molte notabili opere in scienze naturali
+ed in medicina.  |Galieno~: discese da Pergamo citt@a d'Asia, fu
+anch'egli uno de' pi@u eccellenti in medicina, e molte opere
+autentiche scrisse in quella facolt@a.  |Averrois~: filosofo di
+Cordova citt@a di Spagna, dalla qual discese ancora Seneca. 
+Questo Averrois fu di acutissimo ingegno, e fece un comento per
+dichiarazione delle opere di Aristotile, e per@o dice Dante:
+|Averois che il gran commento feo~, cio@e, che fece il gran
+comento sopra le opere di Aristotile.  Scrisse ancora costui
+alcune cose in medicina utili, e molto sottili.  In un medesimo
+tempo fu questo Averrois con Avicenna, e portogli grandissima
+invidia.
+
+	|145-147.~  Nominato che ha Dante tutti questi, volendo
+egli denotare, che molti altri erano ivi, si scusa, se pi@u oltra
+non procede in nominarli.  Dice adunque: io non posso ritrar, io
+non posso scrivere appieno, copiosamente di tutti quelli magni
+spiriti che io vidi ivi, e la ragion, perch@e non posso, @e
+perocch@e il lungo tema, la lunga materia, possiamo intendere, di
+quello che mi resta a dire in tutta l'opera, cos@i |mi caccia~,
+che |molte volte al fatto il dir vien meno~, cio@e non trovo
+parole che bastino a sufficientemente dire il fatto, e questo
+dice Dante modestamente escusandosi come ho detto.
+
+	|148-151.  La sesta compagnia in duo si scema~: Questa @e
+l'ultima particella dell'ultima parte del quarto canto, nella
+qual mostra Dante, com'egli, insieme con Virgilio, lasciando la
+compagnia di quegli altri quattro poeti, discese all'altro
+circolo dell'Inferno peggior che il primo.  Dice adunque: |la
+sesta compagnia~, la compagnia de' sei poeti sopranominati,
+Omero, Virgilio, Lucano, Orazio, Ovidio e Dante, questa compagnia
+|si scema~, si diminuisce in due, perocch@e rimanemmo soli
+Virgilio ed io Dante, non passando gli altri quattro pi@u oltra;
+ed essendo cos@i rimasti soli noi due, il savio duca, Virgilio,
+|per altra via mi mena~, fuor della queta, fuora di quell'aer
+quieto ch'era dentro al castello, mi mena, dico, |fuor della
+queta nell'aere che trema~, intendiamo che trema per la forte
+agitazione, e forza di venti de' quali vedremo nel seguente
+canto.  Prosegue nel testo Dante, e dice: |e vegno~ io Dante |in
+parte, dove non @e che luca~, ove non @e splendore alcuno, com'era
+nel Limbo, ma son tenebre orribili ed oscure.  E questo basti per
+esposizione del quarto canto. 

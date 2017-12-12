@@ -1,0 +1,71 @@
+.sh 1 "Future Effort"
+.pp
+The Dartmouth Dante Project is a work in progress.
+Our efforts are directed toward meeting the original
+goals of the original project and at pursuing some promising new
+technology.
+.pp
+Most important is completing the loading of the commentaries.
+The project plan includes 60 commentaries,
+which are listed in the Appendix.
+They are presently at various stages of processing:
+.(b L
+.(c
+13	Edited
+11	Being edited
+ 7	Ready to edit
+11	Entered
+14	Ready to enter
+ 4	Being prepared for entry
+.)c
+.)b
+The most difficult and expensive part of this process is editing
+the commentary texts.
+.pp
+The major computer programming task remaining for the project is the
+design and implementation of a specialized user interface for the
+database.
+The current interface is derived from a general-purpose interface;
+the custom interface will take full advantage of the underlying
+structure of the DDP database.
+It will support a query language that makes it as easy as possible
+for a researcher to search this particular database,
+and it will present results in the most concise and useful format.
+.pp
+The database will be available for general use in October, 1988,
+with 24 commentaries loaded.
+When the database opens, we will
+provide complete user documentation and administrative
+support for researchers and students.
+We will also collect all comments both about the database's user
+interface and about the commentary texts.
+We expect to have completed loading of all 64 commentaries by 1991.
+.pp
+The user interface will be an evolving program, but the commentary
+texts will not be altered during the initial usage phase of the database.
+After the database has been generally available for some time, we
+will review all the editorial and scholarly comments about the
+commentaries and then apply any needed changes to the texts.
+.pp
+One of the most exciting advances in computer technology today is
+the development of laser disk storage devices.
+These devices make it technologically possible for an
+institution or even an individual to purchase a desktop computer
+that contains the complete DDP database and user interface program.
+The BRS text retrieval database used by the DDP is available today
+for desktop microcomputers,
+and the cost of producing laser disks is dropping every year.
+Exactly how many commentaries would be available in this manner
+depends on copyright arrangements, but at least the earlier,
+uncopyrighted commentaries, which comprise at least 2/3 of the
+database, would be included.
+.sh 2 Summary
+.pp
+The Dartmouth Dante Project, a work in progress, is collecting,
+editing, and making available to students and scholars a substantial
+number of the commentaries written through the centuries about
+Dante's monumental DC.
+Through the use of sophisticated text storage and retrieval software
+and emerging laser disk storage technology, the project will make
+this collection of historic documents available to scholars
+everywhere.

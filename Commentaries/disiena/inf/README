@@ -1,0 +1,5 @@
+Weird problems in canto 26 line 670, and 30, line 878.  Need
+original to sort out prob.
+
+globally strip all @@ signs, AND replace curly brackets with square
+ones.  embellish ~/lig.sed to customize for disiena

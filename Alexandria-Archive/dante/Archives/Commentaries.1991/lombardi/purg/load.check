@@ -1,0 +1,860 @@
+Checking file 01.e
+Warning: single line paragraph at line 65
+>>>	|10.  Quel suono~ per ^quella voce.~
+
+Error at line 122: First indent not five spaces
+>>>        ^Gi@a fiammeggava l'amorosa stella~
+
+Error at line 123: Tab used in indenting
+>>>	^Per l'oriente~ ec. 
+Error at line 130: First indent not five spaces
+>>>        ^Ridono or per le piaggie erbette e fiori.~ 
+
+Error at line 159: First indent not five spaces
+>>>        ^Noi sem qu@i ninfe, e nel ciel semo stelle~ 
+
+Error at line 291: First indent not five spaces
+>>>        ^Insperata tuae quum veniet pluma superbiae~,
+
+Error at line 292: Tab used in indenting
+>>>	^Et quae nunc humeris involitant, deciderint comae~ ec.
+Error at line 294: Missing indentation
+>>>Una barba, che appena lasci d'esser lanuggine, non suole essere
+Warning: single line paragraph at line 301
+>>>	|53.  Donna~ ec. Beatrice.  Vedi Inf. II, 70.
+
+Warning: single line paragraph at line 380
+>>>	|75.  La veste~ ec.  Vedi ci@o ch'@e detto al v. 31.
+
+Warning: single line paragraph at line 451
+>>>	|101.  L' onda~, del mare detto.  Inf. XXXIV, v. 123.
+
+Warning: single line paragraph at line 479
+>>>	|113.  Dichina~, discende.
+
+Warning: single line paragraph at line 543
+>>>	|134.  Scelse~, colse di mezzo a molt'altri giunchi.
+
+Checking file 02.e
+Warning: single line paragraph at line 91
+>>>	|12.  Col cuore~, colla mente.
+
+Warning: single line paragraph at line 174
+>>>	|29.  Piega le mani~, facendogli riverenza.  Daniello.
+
+Warning: single line paragraph at line 192
+>>>	|34.  Dritte~, alzate.
+
+Warning: single line paragraph at line 263
+>>>	|51.  G@i~ la Nidob., ^G@io~ l'altre edizioni.
+
+Warning: single line paragraph at line 335
+>>>	|79.  Oi ombre~ la Nidob., ^O ombre~ l'altre edizioni.
+
+Error at line 572: First indent not five spaces
+>>>      . . . . . . ^che par lor tardo~
+
+Warning: Single line indent at line 581
+>>>        |Ma a te com'era tanta terra tolta~?
+
+Warning: single line paragraph at line 677
+>>>	|108.  Voglie~, per passioni d'animo.
+
+Warning: single line paragraph at line 691
+>>>	|119.  Ecco il veglio~, Catone soprammentovato.
+
+Warning: single line paragraph at line 728
+>>>	|127.  Ond'elli~ la Nidob., ^ond'egli~ altre edizioni.
+
+Checking file 03.e
+Warning: single line paragraph at line 53
+>>>	|8.  Dignitosa~, nobile, dilicata.
+
+Warning: single line paragraph at line 153
+>>>	|28.  Omai~ la Nidobeatina, ^ora~ l'altr'edizioni.
+
+Warning: single line paragraph at line 228
+>>>	|47.  Roccia~, ripa, rupe.  Vedi Inf. VII, 6.
+
+Warning: single line paragraph at line 331
+>>>	|91.  Ristaro~ la Nidobeatina, ^Restaro~ l'altr'edizioni.
+
+Warning: single line paragraph at line 336
+>>>	|96.  Perch@e~, vale qu@i ^laonde~, ^per lo che.~
+
+Warning: single line paragraph at line 424
+>>>	|120.  A quel~ ec. a Dio.
+
+Warning: single line paragraph at line 489
+>>>	|134.  L'eterno amore~, l'amicizia di Dio.
+
+Checking file 04.e
+Warning: single line paragraph at line 42
+>>>	|13.  Esperienza vera~, esatta.
+
+Warning: single line paragraph at line 49
+>>>	|18.  Vostro dimando~, al via di salire, che voi cercate.
+
+Warning: Single line indent at line 83
+>>>        ^Montasi su Bismantova, e in Cacume~:
+
+Warning: single line paragraph at line 144
+>>>	|39.  Saggia~, che sappia guidarci.
+
+Warning: single line paragraph at line 330
+>>>	|92.  Ti fia~ la Nidob., ^ti sia~ l'altre edizioni.
+
+Warning: single line paragraph at line 351
+>>>	|101.  A mancina~, a mano manca, a mano sinistra.
+
+Checking file 05.e
+Warning: single line paragraph at line 30
+>>>	|10.  Si impiglia~, s'intriga, s'impaccia.
+
+Warning: single line paragraph at line 32
+>>>	|12.  Si pispiglia~, si bisbiglia, si sussurra.
+
+Warning: single line paragraph at line 71
+>>>	|32.  Ritrarre~ per riportare, riferire.
+
+Warning: single line paragraph at line 109
+>>>	|42.  Senza freno~, quanto mai pu@o correre.
+
+Warning: single line paragraph at line 186
+>>>	|78.  Assai pi@u l@a che~ ec. oltre i confini del giusto.
+
+Warning: single line paragraph at line 226
+>>>	|90.  Con bassa fronte~, segno di rammarico.
+
+Warning: single line paragraph at line 252
+>>>	|99.  A piedi~ la Nidobeatina, ^a piede~ altr'edizioni.
+
+Warning: single line paragraph at line 280
+>>>	|109.  Aere~ la Nidobeatina, ^aer~ l'altr'edizioni.
+
+Warning: single line paragraph at line 328
+>>>	|120.  Non sofferse~, per ^non assorb@i.~
+
+Checking file 06.e
+Error at line 112: First indent not five spaces
+>>>        ^Desine fata De#um flecti sperare precando~ 
+
+Warning: single line paragraph at line 118
+>>>	|34-35.  @E piana~, @e chiara.  -- |Non falla~, non erra.
+
+Warning: Single line indent at line 127
+>>>        ^E l'uno il capo sovra l'altro avvalla.~
+
+Warning: single line paragraph at line 181
+>>>	|56.  Colui~, il sole.
+
+Warning: single line paragraph at line 247
+>>>	|80.  Dolce suon~, dolce nome.
+
+Warning: single line paragraph at line 258
+>>>	|86.  In seno~, nel mezzo.
+
+Warning: single line paragraph at line 400
+>>>	|114.  Accompagne~, antitesi, per ^accompagni.~
+
+Checking file 07.e
+Warning: single line paragraph at line 166
+>>>	|45.  Di bel soggiorno~, di bel luogo da fermarci.
+
+Warning: single line paragraph at line 306
+>>>	|83.  Quivi~ la Nidob., ^Quindi~ l'altre edizioni.
+
+Checking file 08.e
+Warning: single line paragraph at line 49
+>>>	|18.  Alle superne ruote~, alle celesti sfere, al cielo.
+
+Warning: single line paragraph at line 202
+>>>	|48.  Pur me~, solo me.
+
+Warning: single line paragraph at line 214
+>>>	|54.  Tra rei~, tra dannati nell'Inferno.
+
+Warning: single line paragraph at line 257
+>>>	|67.  Grado~ val qu@i riconoscenza, gratitudine.
+
+Warning: single line paragraph at line 259
+>>>	|68.  A colui~, a Dio.
+
+Warning: single line paragraph at line 355
+>>>	|76.  Di lieve~, di leggieri, agevolmente.
+
+Warning: single line paragraph at line 540
+>>>	|117.  Gi@a grande l@a era~, era ivi una volta signore.
+
+Checking file 09.e
+Warning: single line paragraph at line 254
+>>>	|52.  Dianzi~, poco fa.
+
+Warning: single line paragraph at line 274
+>>>	|60.  Sue orme~ la Nidob., ^su' orme~ l'altre edizioni.
+
+Warning: single line paragraph at line 290
+>>>	|74.  Un rotto~, una rottura.
+
+Warning: single line paragraph at line 298
+>>>	|80.  Soprano~, superiore, il pi@u alto.
+
+Warning: single line paragraph at line 368
+>>>	|104.  Su la soglia~, su 'l limitare della porta.
+
+Warning: single line paragraph at line 380
+>>>	|108.  Che 'l serrame scioglia~, ch'apra la serratura.
+
+Warning: single line paragraph at line 473
+>>>	|131.  Facciovi accorti~, vi avverto.
+
+Warning: single line paragraph at line 527
+>>>	|139.  Tuono~ per ^rumore.~
+
+Checking file 10.e
+Warning: single line paragraph at line 13
+>>>	|3.  Fa parer dritta~ ec., fa parer bene ci@o ch'@e male.
+
+Warning: single line paragraph at line 166
+>>>	|46.  Pure~, solamente.
+
+Warning: single line paragraph at line 190
+>>>	|54.  Disposta~, patente.
+
+Warning: single line paragraph at line 224
+>>>	|64.  L@i~, ivi -- |benedetto vaso~, l'arca.
+
+Warning: single line paragraph at line 344
+>>>	|91.  Onde~, vale ^per lo che.~
+
+Warning: Single line indent at line 351
+>>>     ^Ma poich@e il gratular si fu assolto.~
+
+Warning: single line paragraph at line 449
+>>>	|121.  Lassi~, per ^fiacchi~, ^deboli.~
+
+Warning: single line paragraph at line 548
+>>>	|135.  Cura~, di ben discernere ci@o che si fossero.
+
+Warning: single line paragraph at line 550
+>>>	|136.  Vero @e~ la Nidobeatina, ^ver'@e~ l'altr'edizioni.
+
+Checking file 11.e
+Warning: single line paragraph at line 16
+>>>	|4.  Valore~, potenza.
+
+Warning: single line paragraph at line 39
+>>>	|12.  De' suoi~, intendi, ^voleri.~
+
+Warning: single line paragraph at line 151
+>>>	|39.  Vi levi~, al Paradiso.
+
+Error at line 163: First indent not five spaces
+>>>        ^Lo spirto @e pronto, ma la carne @e stanca~ 
+
+Warning: single line paragraph at line 170
+>>>	|51.  Possibile a salir~ per ^possibile a salirvi.~
+
+Warning: single line paragraph at line 188
+>>>	|60.  Se giammai fu vosco~, se fu tra voi udito.
+
+Warning: Single line indent at line 201
+>>>     ^Ma come d'animal divenga fante~:
+
+Warning: single line paragraph at line 210
+>>>	|68.  Tutti i miei consorti~, tutti quei di mia schiatta.
+
+Warning: single line paragraph at line 215
+>>>	|72.  Fei~ la Nidob., ^fe'~ l'altre edizioni.
+
+Warning: single line paragraph at line 274
+>>>	|91.  O vanagloria~ ec., o gloria vana dell'umano potere.
+
+Warning: single line paragraph at line 400
+>>>	|120.  Di cui~ la Nidob., ^di cu'~ l'altre edizioni.
+
+Warning: single line paragraph at line 405
+>>>	|125.  Poi che~ per ^da poi che.~
+
+Warning: single line paragraph at line 410
+>>>	|128.  L'orlo della vita~, gli ultimi estremi del vivere.
+
+Warning: single line paragraph at line 412
+>>>	|129.  Laggi@u~, nell'antipurgatorio.
+
+Checking file 12.e
+Warning: single line paragraph at line 14
+>>>	|4.  Varca~ passa avanti.
+
+Warning: single line paragraph at line 57
+>>>	|22.  Di miglior sembianza~, in miglior maniera.
+
+Warning: Single line indent at line 257
+>>>     ^Ombra non gli @e, n@e segno, che si paia.~
+
+Warning: single line paragraph at line 348
+>>>	|95.  Per volar su~, per andare in Paradiso.
+
+Error at line 420: First indent not five spaces
+>>>        ^Ille inter navemque Gyae, scopulosque sonantes~
+
+Error at line 421: Tab used in indenting
+>>>	^Radit iter laevum interior~ 
+Warning: single line paragraph at line 442
+>>>	|112.  Foci~ per ^aperture~, ^aditi.~
+
+Warning: single line paragraph at line 458
+>>>	|123.  Come l'un~, come il primo.
+
+Warning: single line paragraph at line 460
+>>>	|126.  Pinti~, sinonimo di ^spinti.~
+
+Warning: single line paragraph at line 473
+>>>	|134.  Pur~, solamente.
+
+Checking file 13.e
+Warning: single line paragraph at line 95
+>>>	|25.  Verso noi~, venendoci incontro.
+
+Warning: single line paragraph at line 97
+>>>	|26.  Parlando~ vale ^proferendo~, ^gridando.~
+
+Warning: single line paragraph at line 171
+>>>	|45.  Grotta~, qu@i pure per ^rupe~, come Inf. XXI, 110:
+
+Warning: Single line indent at line 173
+>>>     ^Andatevene su per questa grotta.~
+
+Warning: single line paragraph at line 280
+>>>	|81.  S'inghirlanda~, si cinge.
+
+Warning: single line paragraph at line 291
+>>>	|86.  L'alto lume~, Iddio.
+
+Warning: single line paragraph at line 452
+>>>	|141.  Non fa motto~, non parla.
+
+Checking file 14.e
+Warning: single line paragraph at line 13
+>>>	|3.  Coperchia~, cuopre.
+
+Error at line 33: First indent not five spaces
+>>>        ^Colui, che del mio mal meco ragiona~,
+
+Error at line 34: Tab used in indenting
+>>>	^Mi lascia in dubbio, s@i confuso ditta~ 
+Warning: single line paragraph at line 40
+>>>	|15.  Vuol~ per ^cagiona~, ^fa.~
+
+Warning: single line paragraph at line 68
+>>>	|24.  Quei, che prima dicea~, cio@e M. Rinieri.  Venturi.
+
+Warning: single line paragraph at line 73
+>>>	|26.  Riviera~ per ^fiume.~  Volpi.
+
+Warning: single line paragraph at line 159
+>>>	|52.  Per pi@u pelaghi cupi~, per molti profondi gorghi.
+
+Warning: single line paragraph at line 184
+>>>	|57.  Vero~ per ^veridico~ -- |disnoda~ per ^disvela.~
+
+Warning: single line paragraph at line 219
+>>>	|70.  L'altr'anima.~  M. Rinieri.
+
+Warning: single line paragraph at line 228
+>>>	|75.  Dimanda ne fei~ ec. ne feci supplichevole dimanda.
+
+Warning: single line paragraph at line 245
+>>>	|79.  Da che~ vale qu@i ^poich@e~, ^perocch@e~, o simile.
+
+Error at line 276: First indent not five spaces
+>>>        ^Che volle dir lo spirto di Romagna~
+
+Checking file 15.e
+Error at line 127: First indent not five spaces
+>>>        ^Salta lo raggio all'opposita parte~
+
+Warning: single line paragraph at line 153
+>>>	|24.  Ratta~, presta.
+
+Warning: single line paragraph at line 162
+>>>	|27.  E pare in ver noi~ ec.: e pare che venga verso noi.
+
+Warning: single line paragraph at line 167
+>>>	|30.  Tosto sar@a~, quando sarai interamente purgato.
+
+Warning: single line paragraph at line 205
+>>>	|41.  Pensai~ la Nidob., ^pensava~ l'altre edizioni.
+
+Warning: single line paragraph at line 216
+>>>	|45.  E divieto, e consorto~ ec.: con quella esclamazione
+
+Error at line 221: Missing indentation
+>>>Vedi 'l passato canto v. 86 e seg.
+Error at line 223: Tab used in indenting
+>>>	|46-48.  Di sua maggior~ ec.  Egli conosce ora per
+Error at line 224: Missing indentation
+>>>esperienza il danno che apporta a' mortali quella che fu la
+Error at line 226: Missing indentation
+>>>s'ammiri~, impersonalmente detto, e val quanto ^non cagioni
+Error at line 228: Missing indentation
+>>>^O gente umana~ ec.  -- |perch@e men sen piagna~, affinch@e trovisi
+Error at line 230: Missing indentation
+>>>^piagnere~ [avvisa il Prospetto di verbi Toscani] scrissero
+Error at line 232: Missing indentation
+>>>questo verbo derivano, sono elegantemente scritte tanto ^gn~ che
+Warning: single line paragraph at line 244
+>>>	|52.  Spera suprema~, il cielo empireo, seggio de' beati.
+
+Warning: single line paragraph at line 246
+>>>	|53.  Torcesse~ per ^rivolgesse.~
+
+Warning: single line paragraph at line 264
+>>>	|58.  Digiuno~, catacresi per ^privo.~
+
+Warning: single line paragraph at line 322
+>>>	|76.  Non ti disfama.~  Catacresi, per non ti soddisfa.
+
+Warning: single line paragraph at line 448
+>>>	|123.  Piega~, rende vacillante.
+
+Warning: single line paragraph at line 453
+>>>	|126.  S@i tolte~ per ^s@i debilitate.~
+
+Checking file 16.e
+Warning: single line paragraph at line 103
+>>>	|39.  Per la 'nfernale ambascia~, passando per l'Inferno.
+
+Warning: single line paragraph at line 105
+>>>	|40.  Richiuso~, per ^ricevuto~, ^accolto.~
+
+Warning: single line paragraph at line 342
+>>>	|103.  La mala condotta~, l'essere malamente diretto.
+
+Warning: single line paragraph at line 471
+>>>	|141.  Che~, vale qu@i ^imperocch@e.~
+
+Checking file 17.e
+Warning: single line paragraph at line 30
+>>>	|7.  Fia leggiera~, sar@a poco atta.
+
+Warning: single line paragraph at line 119
+>>>	|28.  Era~, zeuma, per ^erano.~
+
+Warning: single line paragraph at line 154
+>>>	|41.  Il viso chiuso~, gli occhi chiusi.  Venturi.
+
+Error at line 162: First indent not five spaces
+>>>        Tempus erat, quo prima quies mortalibus aegris
+
+Error at line 163: Tab used in indenting
+>>>	Incipit et dono divum gratissima serpit 
+Warning: single line paragraph at line 294
+>>>	|94.  Fu~, enallage, per ^@e.~
+
+Warning: single line paragraph at line 380
+>>>	|121.  Adonti~ vale ^si crucci.~
+
+Warning: single line paragraph at line 418
+>>>	|136.  Ad esso~, bene diverso da Dio.
+
+Checking file 18.e
+Warning: single line paragraph at line 3
+>>>	|2.  L'alto dottore~, Virgilio.
+
+Warning: single line paragraph at line 5
+>>>	|3.  Vista~, per ^viso~, ^faccia~, ^sembiante.~
+
+Warning: single line paragraph at line 13
+>>>	|8.  Non s'apriva~, non si appalesava.
+
+Warning: single line paragraph at line 22
+>>>	|11.  Nel tuo lume~, nel lume della tua dottrina.
+
+Warning: single line paragraph at line 24
+>>>	|12.  Porti o descriva~: pleonasmo in grazia della rima.
+
+Warning: single line paragraph at line 60
+>>>	|25.  In ver di lei si piega~, in lei tende.
+
+Warning: single line paragraph at line 69
+>>>	|28.  In altura~, in alto.
+
+Warning: single line paragraph at line 122
+>>>	|42.  Di dubbiar pi@u pregno~, pi@u pregno di dubbi.
+
+Warning: single line paragraph at line 294
+>>>	|90.  Volta~ per ^indirizzata~, ^incamminata.~
+
+Warning: single line paragraph at line 349
+>>>	|104.  Per poco amor~, per un amore accidioso e freddo.
+
+Warning: single line paragraph at line 359
+>>>	|106.  Acuto~ per ^ardente.~
+
+Warning: single line paragraph at line 419
+>>>	|125.  Mal nacque~, perocch@e bastardamente.
+
+Checking file 19.e
+Warning: single line paragraph at line 128
+>>>	|23.  Qual meco s'ausa~, qualunque meco s'addomestica.
+
+Warning: Single line indent at line 158
+>>>     ^Tacciolo, acciocch@e tu, per te ne cerchi.~
+
+Warning: single line paragraph at line 234
+>>>	|54.  Poco amendue~ ec., sottointendi ^essendo.~
+
+Warning: single line paragraph at line 239
+>>>	|56.  Novella~, di fresco avuta -- |mi piega~, mi attrae.
+
+Error at line 333: First indent not five spaces
+>>>        ^Dardania stratus dextra, securus amorum~,
+
+Error at line 334: Tab used in indenting
+>>>	^Qui iuvenum tibi semper erant~ 
+Warning: single line paragraph at line 390
+>>>	|95.  Al su~, all'in su.  Volpi.
+
+Warning: single line paragraph at line 392
+>>>	|96.  Di l@a~, nel mondo -- |mossi~, mi partii.
+
+Warning: single line paragraph at line 394
+>>>	|97.  Diretri~, dorsi, schiene.
+
+Warning: single line paragraph at line 419
+>>>	|106.  Om@e~, lo stesso che ^oim@e~, interiezion di dolore.
+
+Warning: single line paragraph at line 427
+>>>	|109.  L@i~, in quell'altezza di stato.
+
+Warning: Single line indent at line 473
+>>>     ^Intra Siestri e Chiaveri s'adima.~
+
+Warning: single line paragraph at line 484
+>>>	|120.  Merse~ per ^abbass@o~, ^affond@o.~
+
+Warning: single line paragraph at line 496
+>>>	|123.  Stretti~, dee valere ^impediti.~
+
+Warning: single line paragraph at line 502
+>>>	|125.  Giusto sire~, Iddio.
+
+Warning: single line paragraph at line 514
+>>>	|130.  Ti torse~, ti pieg@o.
+
+Checking file 20.e
+Warning: single line paragraph at line 113
+>>>	|39.  Di quella vita, che~ ec. della mortal vita.
+
+Checking file 21.e
+Warning: single line paragraph at line 47
+>>>	|11.  Dappi@e~, per terra, su 'l suolo.
+
+Warning: Single line indent at line 108
+>>>        |Chi v'ha per la sua scala tanto scorte~?   
+
+Warning: single line paragraph at line 262
+>>>	|49.  Non paion~, non si fan vedere.
+
+Warning: single line paragraph at line 332
+>>>	|61.  Fa pruova~, d@a certo indizio.
+
+Warning: single line paragraph at line 455
+>>>	|86.  Di l@a~, nel mondo di l@a, nel mortal mondo.
+
+Warning: Single line indent at line 661
+>>>     ^Ambobus mihi quae carior est oculis~;
+
+Checking file 22.e
+Warning: single line paragraph at line 102
+>>>	|9.  Gli spiriti veloci~, Virgilio e Stazio.
+
+Warning: single line paragraph at line 138
+>>>	|27.  Cenno~ per ^segno.~
+
+Warning: single line paragraph at line 201
+>>>	|43.  Aprir l'ali~ per ^aprir le dita.~  Metafora.
+
+Warning: single line paragraph at line 269
+>>>	|59.  Fedele~, credente.
+
+Warning: single line paragraph at line 297
+>>>	|69.  Dotte~, -- istruite dove debban mettere i piedi.
+
+Warning: single line paragraph at line 577
+>>>	|127.  Essi~ la Nidobeatina; ^elli~ l'altre edizioni.
+
+Checking file 23.e
+Warning: single line paragraph at line 23
+>>>	|7.  Non men tosto~, intendi, ^che il viso.~
+
+Warning: single line paragraph at line 105
+>>>	|23.  Scema~ per ^dimagrata assai.~  Volpi.
+
+Warning: Single line indent at line 197
+>>>        ^Negli occhi era ciascuna oscura e cava.~
+
+Warning: Single line indent at line 361
+>>>     ^Come se' tu quass@u venuto ancora~?
+
+Warning: single line paragraph at line 390
+>>>	|88.  Suoi~ la Nidob., ^suo'~ l'altre edizioni.
+
+Warning: single line paragraph at line 392
+>>>	|90.  Altri giri~, inferiori a questo dov'era.
+
+Checking file 24.e
+Warning: single line paragraph at line 186
+>>>	|35.  A quel di Lucca~, al soprammentovato Buonagiunta.
+
+Warning: single line paragraph at line 360
+>>>	|79.  Il luogo~, Firenze.
+
+Warning: single line paragraph at line 407
+>>>	|91.  Caro~, prezioso, stimabile.
+
+Warning: single line paragraph at line 441
+>>>	|100.  Entrato~ per ^innoltrato.~
+
+Warning: single line paragraph at line 516
+>>>	|114.  Rifiuta~, per rende inutili.
+
+Warning: single line paragraph at line 604
+>>>	|133.  S@i voi sol tre~, voi tre cos@i soli.
+
+Warning: single line paragraph at line 652
+>>>	|142.  Tolta~, intendi, ^pe 'l troppo lume.~
+
+Warning: single line paragraph at line 686
+>>>	|153.  Troppo disir non fuma~, non d@a nel troppo.
+
+Checking file 25.e
+Warning: single line paragraph at line 215
+>>>	|50.  Avviva~ la Nidob., ^ravviva~ l'altre edizioni.
+
+Error at line 270: First indent not five spaces
+>>>        ^Spirito nuovo di virt@u repleto~,
+
+Warning: single line paragraph at line 357
+>>>	|68.  Feto~, per embrione nell'utero.  Volpi.
+
+Warning: single line paragraph at line 454
+>>>	|95.  Suggella~, imprime.
+
+Warning: single line paragraph at line 479
+>>>	|101.  Organa~, organizza.
+
+Warning: single line paragraph at line 481
+>>>	|102.  Sentire~ per ^sentimento~ -- |veduta~, vista.
+
+Warning: single line paragraph at line 483
+>>>	|103.  Quindi~, in virt@u di questo aereo corpo.
+
+Warning: single line paragraph at line 491
+>>>	|107.  L'ombra~, l'aereo corpo.
+
+Checking file 26.e
+Warning: single line paragraph at line 53
+>>>	|22.  Parete~, per ^ostacolo.~
+
+Warning: single line paragraph at line 70
+>>>	|28.  Del cammino accesso~, dell'infiammata strada.
+
+Warning: single line paragraph at line 72
+>>>	|29.  Venne~ la Nidobeatina, ^ven@ia~ l'altre edizioni.
+
+Warning: single line paragraph at line 77
+>>>	|34.  Bruna~, di color negreggiante, com'@e la formica.
+
+Warning: single line paragraph at line 79
+>>>	|35.  S'ammusa~ ec. scontrasi muso a muso.
+
+Warning: single line paragraph at line 205
+>>>	|67-68.  Si turba~, si confonde -- |ammuta~, ammutolisce.
+
+Warning: single line paragraph at line 226
+>>>	|74.  Colei~, quell'ombra.
+
+Warning: single line paragraph at line 264
+>>>	|79.  Si parton~, intendi ^da noi.~
+
+Warning: single line paragraph at line 419
+>>>	|123.  Arte~, dee valer quanto ^i periti dell'arte.~
+
+Warning: single line paragraph at line 421
+>>>	|124.  Guittone~ d'Arezzo, antico rimatore.
+
+Checking file 27.e
+Warning: single line paragraph at line 90
+>>>	|19.  Le buone scorte~, Virgilio e Stazio.
+
+Warning: single line paragraph at line 114
+>>>	|27.  Far d'un capel calvo~, abbrucciarti un capello.
+
+Warning: single line paragraph at line 239
+>>>	|68.  Per l'ombra~, cagionata dal corpo di Dante.
+
+Warning: single line paragraph at line 332
+>>>	|93.  Sa le novelle~, per ^ne ha notizia.~
+
+Warning: single line paragraph at line 388
+>>>	|114.  I gran maestri~, Virgilio e Stazio.
+
+Error at line 466: First indent not five spaces
+>>>        ^Traendo pi@u color con le sue mani~,
+
+Error at line 467: Tab used in indenting
+>>>	^Che l'alta terra senza seme gitta.~
+Error at line 469: Missing indentation
+>>>Daniello.
+Error at line 471: Tab used in indenting
+>>>	|136-137.  Mentre che vegnon~ ec.  Pone per sineddoche in
+Error at line 472: Missing indentation
+>>>luogo di Beatrice i di lei |occhi belli~, e dice |mentre che
+Error at line 474: Missing indentation
+>>>del tuo ravvedimento] ^colei, che lagrimando~ [per la tua mala
+Error at line 476: Missing indentation
+>>>II, 116 e segg.].
+Error at line 478: Tab used in indenting
+>>>	|138.  Seder ti puoi~ ec.  Puoi tu tra |elli~, cio@e tra
+Error at line 479: Missing indentation
+>>>esse erbette, essi fiori, ed essi arboscelli [D'|elli~ al
+Error at line 481: Missing indentation
+>>>andare come tu piace.
+Error at line 483: Tab used in indenting
+>>>	|139.  Non aspettar~ ec.  Di fatto sebben rimanga
+Error at line 484: Missing indentation
+>>>Virgilio in compagnia di Dante anche di poi per qualche po di
+Error at line 486: Missing indentation
+>>>sembra] fino al trovamento di Beatrice [Vedi cant. XXX, 46 e
+Error at line 488: Missing indentation
+>>>altra cagione del suo rimanere se non per consegnare a Beatrice
+Checking file 28.e
+Warning: single line paragraph at line 295
+>>>	|60.  Intendimenti~, per ^concetti~, ^parole.~
+
+Warning: single line paragraph at line 495
+>>>	|117.  Senza seme palese~, senza vedersene prima il seme.
+
+Error at line 504: First indent not five spaces
+>>>        ^Che quella terra sol da se produce~ 
+
+Warning: single line paragraph at line 545
+>>>	|124.  Salda e certa~, invariabile ed immancabile.
+
+Warning: single line paragraph at line 571
+>>>	|134.  Avvegna che~, sebbene.
+
+Checking file 29.e
+Warning: single line paragraph at line 59
+>>>	|21.  Nel mio pensar~, dentro di me.
+
+Warning: single line paragraph at line 222
+>>>	|56.  Mi rispose~, vale quanto ^riguard@o me.~
+
+Warning: single line paragraph at line 272
+>>>	|70.  Posta~, qui lo stesso che ^posto~, situazione.
+
+Warning: single line paragraph at line 390
+>>>	|92.  Quattro animali~, somboleggianti i quattro Vangeli.
+
+Warning: single line paragraph at line 445
+>>>	|103.  Nelle sue carte~, per nella sua profezia.
+
+Warning: single line paragraph at line 719
+>>>	|153.  L'andar pi@u~, per ^l'andar pi@u oltre.~
+
+Checking file 30.e
+Warning: single line paragraph at line 59
+>>>	|14.  Caverna~, per ^sepoltura.~
+
+Warning: single line paragraph at line 110
+>>>	|25.  Ombrata~, dalle predette leggieri nuvole.
+
+Warning: single line paragraph at line 212
+>>>	|49.  Scemi~, per ^mancanti~, ^privi.~
+
+Error at line 217: First indent not five spaces
+>>>      . . . . . . . . . . ^i' ti richieggio~
+
+Error at line 284: First indent not five spaces
+>>>       . . . . . . . . ^traeva la parola tronca~
+
+Warning: single line paragraph at line 357
+>>>	|79.  Superba~, altiera.
+
+Warning: single line paragraph at line 548
+>>>	|130.  Per via non vera~, vale ^per via non dritta.~
+
+Warning: single line paragraph at line 563
+>>>	|138.  Le perdute genti~, l'Inferno.
+
+Checking file 31.e
+Warning: single line paragraph at line 59
+>>>	|22.  I miei disiri~, i buoni desideri da me inspirati.
+
+Warning: single line paragraph at line 89
+>>>	|34.  Le presenti cose~, i mondani obbietti.
+
+Warning: single line paragraph at line 97
+>>>	|39.  Da tal giudice~, da Dio, a cui tutto @e noto.
+
+Warning: single line paragraph at line 214
+>>>	|73.  Il mento~, per tutta la faccia.
+
+Warning: single line paragraph at line 233
+>>>	|76.  Si distese~, intendi ^in su~, a riguardar Beatrice.
+
+Checking file 32.e
+Warning: single line paragraph at line 13
+>>>	|3.  Spenti~, per ^sopiti~, ^senza azione.~
+
+Warning: single line paragraph at line 88
+>>>	|22.  Milizia del celeste regno~, celeste truppa.
+
+Warning: single line paragraph at line 90
+>>>	|23.  Precedeva~, intendi~, ^al trionfale carro.~
+
+Warning: single line paragraph at line 105
+>>>	|26.  Il benedetto carco~, il benedetto peso~, il carro.
+
+Warning: single line paragraph at line 391
+>>>	|72.  Ed un chiamar~, ed una voce che grid@o.
+
+Warning: single line paragraph at line 468
+>>>	|95.  Plaustro~, per ^carro~, dal Latino ^plaustrum.~
+
+Warning: single line paragraph at line 474
+>>>	|97.  Claustro~ qu@i per ^contorno~, o ^corona.~
+
+Warning: single line paragraph at line 627
+>>>	|128.  E cotal~, intendi ^voce.~
+
+Checking file 33.e
+Warning: single line paragraph at line 62
+>>>	|S@i com'io fui, com'io doveva, seco~
+
+Warning: single line paragraph at line 194
+>>>	|46.  Narrazion buia~, predizione oscura.
+
+Error at line 268: First indent not five spaces
+>>>        ^Quae nemora, aut qui vos saltus habuere puellae~
+
+Error at line 269: Tab used in indenting
+>>>	^Naiades~? 
+Warning: single line paragraph at line 358
+>>>	|64.  Dorme~, vale ^@e privo d'accorgimento.~
+
+Warning: single line paragraph at line 436
+>>>	|91.  Non mi ricorda~, ellissi, per ^non mi si ricorda.~
+
+Warning: single line paragraph at line 438
+>>>	|92.  Straniassi me~, rendessimi stranio, m'allontanassi.
+
+Warning: single line paragraph at line 515
+>>>	|112.  Eufrates e Tigri~, due grandi fiumi dell'Asia.
+
+Warning: single line paragraph at line 616
+>>>	|145.  Alle stelle~, al cielo, al Paradiso.
+

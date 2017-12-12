@@ -1,0 +1,115 @@
+	|1.~  ^Guida~ -- Scilicet Beatrice.
+
+	|5.~  ^Anhelo~ -- Scilicet anxio, angustioso timidiate.
+
+	|16.~  ^La spada~ -- Ista verba sic debent intelligi.  La spada divina 
+non tallia in frecta n@e tarda, se non per respecto de colui che 
+desiando o temendo l'aspecta, per@o che a chi desia sempre par tardo et 
+a chi teme sempre par frecta.  Ma Dio non misura con tempo 
+comprensibile a noy.
+
+	|23.~  ^Cento~ -- Numerum finitum ponit pro infinito.
+
+	|28.~  ^E la maiure~ -- Iste fuit beatus Benedictus de Nursia pater 
+monachorum et vitam monasticam duxit in monte Casino, qui est prope 
+civitatem sancti Germani in Apulia.
+
+	|39.~  ^Disposta~ -- Scilicet paganis infidelibus.
+
+	|41.~  ^Colui~ -- Scilicet Christi.
+
+	|45.~  ^Culto~ -- Scilicet ydolorum.
+
+	|49.~  ^Macario~ -- Sanctissimus monachus; in Guasconia iuxta flumen 
+Garane in ecclesia sua iacet.  ^Romoaldo~ -- Alius sanctissimus 
+monachus qui iacet in monasterio de Valdecastro in territorio Fabriani 
+sub monte Sancti Vicini.
+
+	|51.~  ^Fermar li piei~ -- Monachus dicitur a `monos', quod est unum, 
+et `cus', quod est tristis, quia debet esse tristis et solus quo ad 
+mundum, et firmus et perseverans quo ad Deum.
+
+	|60.~  ^Discoperta~ -- Scilicet formam sue beatitudinis videre volebat.
+
+	|62.~  ^Spera~ -- Scilicet in celo empireo ubi sedes est Dei.
+
+	|64.~  ^Intera~ -- Per visionem et intuitum divine beatitudinis.
+
+	|67.~  ^S'enpola~ -- Quia non volvitur secundum axem polorum, 
+videlicet tramontanarum sicut alii celi, sed firmum semper in se manet 
+empireum.  (^Senza richiami al testo~) -- Nota quod sub Saturno ponitur 
+ordo monasticus, quia frigide vixerunt quo ad mundum et quo ad Christum 
+ardenter; et quia secundum astrologos Saturnus inducit natos sub 
+influentia sua ad vitam solitariam et religiosam.
+
+	|82.~  ^Quantunche~ -- Quia, quicquid ultra vite necexaria clerici 
+capiunt de prebenda, debent pauperibus erogare.
+
+	|84.~  ^Pi@u bructo~ -- Scilicet meretricium.
+
+	|87.~  ^Cerqua~ -- Arbor glandifera que in annis XXX fructum redit.
+
+	|88.~  ^Piero~ -- Ad portam speciosam infirmo postulanti elimosinam 
+respondit: <Aurum et argentum non est michi>, per quem contemptus 
+divitiarun consideratur.
+
+	|89.~  ^Degiuno~ -- Per hunc scilicet contemplatio divinorum 
+cognoscitur.
+
+	|90.~  ^Francesco~ -- Per hunc radix meritorum umiliata approbatur.
+
+	|94.~  ^Iordan~ -- Quando, Iosue cum populo Israel transeunte, aque 
+Iordanis ab inde infra fluxerunt et ab inde supra versus fontes 
+proprios recurrerunt.  Itaque viam per litus siccum populo prebuerunt.
+
+	|95.~  ^Mar fugir~ -- Quando Moyses et Aaron cum populo prefato per 
+mare Rubrum transierunt, aquis cedentibus ex utraque parte quasi 
+consolidatis.
+
+	|105.~  ^Ala~ -- Scilicet intellectui, quia velocissimus est; subito 
+enim transit quasi spatia infinita.
+
+	|110.~  ^Segno~ -- Sicilicet Geminorum.
+
+	|111.~  ^Tauro~ -- Signum secundum zodiaci.
+
+	|112.~  ^O gloriose~ -- Hic innuit auctor quod ipse natus est sole 
+existente in signo Geminorum circa kalendas iunii.  ^Pregno~ -- 
+Astrologi dicunt quod qui nascitur sub illo signo est magister artium 
+et famosus et, quia est signum Mercurii, eloquentiam prestat et 
+licteraturam.
+
+	|116.~  ^Padre~ -- Sol qui suo calore vivificat cuncta creata.
+
+	|117.~  ^Senti'~ -- Sensit in nativitate.
+
+	|119.~  Rota -- Scilicet octava spera stellarum fixarum.
+
+	|132.~  ^Ethere tondo~ -- Celum purum nulla varietate distinctum.
+
+	|139.~  ^Fillia~ -- Scilicet luna filia Latone in principio.  ^Incesa~ 
+-- Quia tunc erat soli coniuncta et dicitur combusta tunc secundum 
+astrologos.
+
+	|140.~  ^Cagione~ -- Ut supra secundo capitulo ^Paradisi~.
+
+	|142.~  ^Iperione~ -- Idest Solis filii Latone.
+
+	|144.~  ^Maia~ -- Idest Mercurii filii Iovis et Maye filie Atlentis.  
+^Dyone~ -- Scilicet Venus de qua supra cantu VIII ^Paradisi~.
+
+	|145.~  ^Iove~ -- Filius Saturni et pater Martis Iuppiter reputatus 
+est a paganis, et est stella Iovis in celo sub stella Saturni et supra 
+stellam Martis.  Saturnus autem et Mars dicuntur esse malefici et 
+infortunati, Iuppiter vero dicitur esse fortunatus et benivolus et 
+reparator malitie Saturni et Martis, et appellatur medicina celi.  Ideo 
+dicit: <Temperar de Iove / tra 'l padre e fillio>.
+
+	|149.~  ^Grandi~ -- Saturnus est centies maior terra et aqua, Iuppiter 
+nonagies.  Mars medietas terre et aque.  Sol octies est maior terra.  
+Venus XXXVIIIIa pars terre et aque.  Mercurius XXIIa pars de mille 
+partibus terre et aque.  Luna VIIa pars terre.  ^Veloci~ -- Quia 
+Saturnus in XXX annis, Iuppiter in XII annis, Mars in duobus annis, Sol 
+in uno anno, Venus in CCC diebus, Mercurius in octo mensibus, Luna in 
+XXVIII diebus et XIII horis perficiunt girum suum.
+

@@ -1,0 +1,318 @@
+	Incipit expositio secunde partis, sive Cantice, seu
+Purgatorii, Dantis Aldigherii de Aldigheriis de Florentia, edita
+per suprascriptum Episcopum Firmanum.
+
+	Esto quod in principio expositionis prime Cantice, seu
+Inferni, aliqua sint edita preambula, que conferunt ad
+intelligentiam omnium trium Canticarum; nihilominus, ut michi
+videtur, aliqua sunt etiam hic premictenda in principio huius
+secunde Cantice, sive Purgatorii, que erunt utilia ad
+intelligendum ea, que in hac secunda Cantica sunt dicenda. 
+Ponentur igitur aliqua preambula satis parva.
+
+	Primum preambulum est, quod auctor in hoc secundo libro,
+licet etiam in toto opere, utitur istis terminis, navicula, sive
+navi[s], vela, ingenium, aqua, et huiusmodi; ideo est bonum
+previdere quid per hos terminos intelligat ipse auctor.  Unde
+notandum est, quod per naviculam auctor intelligit ingenium suum. 
+Quomodo?  Sicut navicula, sive navis, sulcando mare, transvehit
+nautas et mercimonias de lictore ad lictus, de una parte maris ad
+aliam, sic facit ingenium maxime excellens; quoniam ingenium
+hominis transcurrit mare, stagnum, fluvios, ab infimis ad
+suprema, a creaturis ad Creatorem, ut invisibilia Dei, per ea que
+facta sunt, intellecta, conspiciantur: sempiterna quoque virtus,
+etc. (^ad Rom.~ I); et a magnitudine creature poterit horum
+Creator cognosci.  Et sicut navis est levis, natans super aquas,
+ita humanum ingenium totum universum transcurrit satis cito.  Per
+aquam, sive per mare, auctor intelligit materiam, vel materias,
+de qua, vel de quibus, tractat.  Sed aliqua materia est dura,
+aspera et terribilis, sicut materia de peccatis et de penis
+condecentibus eisdem; et talis materia dicitur infernalis:
+aspera, propter penas; crudelis, quia in illa non reperitur
+misericordia, nec redemptio.  Aliqua materia est minus crudelis
+et minus aspera, sicut materia peccatorum purgandorum et penarum
+eis competentium; et talis materia dicitur minus mala, et melior. 
+Aliqua materia est levis, dulcis et gratiosa, sicut est materia
+virtutum et premiorum eis correspondentium, de qua tractatur in
+Paradiso terrestri, et per amplius in superiori Paradiso.  De
+materia Inferni dicit Aristotiles in Poesi sua, quod inferius est
+locus inconsolabilis.  Per velam intelligit auctor speculationem;
+que speculatio ducit ingenium, idest navem, per mare, sive per
+aquam.  Ex hiis quasi patet, quod auctor in toto suo Poemate
+navigat tres aquas.  Prima est crudelis et bassa: illam navigat
+cum remis sic prope terram, idest cum bassis speculationibus. 
+Secunda aqua est alta, quam navigat cum velis mediantibus, bene
+elevatis.  Tertia aqua est altissima, seu profundissima; et ad
+hanc navigandum cum decentia, utitur navi magna, scilicet
+caraccha, vel galea.
+
+	Secundum preambulum est, quare auctor ponit Cathonem esse
+custodem Purgatorii: cum ipse Catho fuerit paganus et semetipsum
+occiderit in civitate Utica, per amplius debet esse in Inferno,
+in capitulo illorum qui semetipsos interfecerunt.  Ad hoc
+respondet Dantulinus, idest filius Dantis, dicens, quod pater
+suus, scilicet Dantes, ymaginatus fuit, quod, propter
+excellentiam virtutum ipsius Cathonis, Deus sit misertus ipsi
+Cathoni; et liberans Patres nostros de Limbo et extrahens,
+extraxit etiam ipsum Cathonem: et tunc posuit eum pro custode
+Purgatorii.  Sed, meo iudicio, talis opinio, salva reverentia
+ipsius filii auctoris, modicum est tenenda.  Aliqui autem dicunt,
+quod hic accipitur Catho pro honestate morali; ideo ponitur in
+custodia Purgatorii, idest emendationis.  Sed, ut arbitro, nec
+hec fuit opinio auctoris; ideo estimo aliter fore dicendum,
+scilicet quod, quia Catho fuit tam virtuosus, sicut eum describit
+Lucanus in primo suo libro; de quo Cathone etiam dicit Seneca in
+Epistola ad Lucillum: Si vis virtuosus fieri, propone tibi
+Cathonem speculum vere virtutis; quid igitur auctor intellexit?
+certe, nihil aliud; ideo eum posuit custodem Purgatorii, idest in
+exemplum volentibus recedere a vitiis et sequi virtutes. 
+Inspiciant Cathonem, vadant per manus Cathonis, idest per
+admonitiones; quia ipse optime vixit in moralibus, et optime
+docuit fugere vitia et imitari virtutes.  Non aliter, sed isto
+modo, potest dici quod auctor finxit eum custodem Purgatorii;
+quia, secundum christianam fidem, nedum quia Catho fuit paganus
+est dampnatus, sed quia semetipsum crudeliter interemit.
+
+	Tertium preambulum est videre de quatuor virtutibus, sive
+stellis, sic ornantibus faciem Cathonis.  Ad quod sciendum,
+notandum est pro intellectu bono, quod Catho optime usus fuit
+quatuor virtutibus cardinalibus; ideo ornant ita faciem suam,
+idest famam: quia sicut per faciem quis cognoscitur, ita per
+famam discernitur quisque homo.  Iste virtutes cardinales, quas
+antiqui tantum coluerunt, non sunt amplius in terris cum
+hominibus; sed fugerunt ad celum, et facte sunt stelle, et in
+celo situate.  Homines de prima etate florida et optima, erant
+fortissimi, iustissimi, prudentes et temperati; nunc vero per
+oppositum sunt homines: nemo colit virtutes, omnes sequuntur
+vitia.  Et nedum recesserunt a nobis, occidentalibus et
+septemtrionalibus, sed, euntes in celum et fugientes, noluerunt
+residere ad polum articum, qui est nobis sempiterne apparitionis,
+ne viderentur a nobis, qui ita despeximus eas; sed iverunt ad
+polum antharticum, qui est nobis septemtrionalibus sempiterne
+occultationis.  Ideo dicit auctor de ipsis in textu: O
+septemtrionale viduo situ, Ex quo privatis [vos] videre illas. 
+Modo ille quatuor virtutes cardinales, situate in polo
+anthartico, irradiabant faciem Cathonis, et ornabant qui erant in
+emispirio inferiori poli anthartici.  De quibus virtutibus
+aliqualiter ulterius procedamus.  Ubi sciendum, quod ideo
+dicuntur cardinales a cardine ostiorum; quoniam sicut super
+cardines ostiorum valve volvuntur, clauduntur, et aperiuntur, ita
+super istas quatuor virtutes volvitur tota vita rationalis,
+secundum quas vivendo, nemo unquam peccaret in moralibus.  Que
+virtutes cardinales sunt iste: temperantia, fortitudo, iustitia,
+prudentia: et quomodo iste quatuor sufficienter dirigunt homines
+et faciunt ipsos bonos et ipsos preservent a malis, pateat in hoc
+exemplo.  Sit una mulier pudica in se et honesta.  Modo, si quis
+vellet eam maculare et facere eamdem deviare a rectitudine
+rationis, posset eam impugnare quatuor modis, quibus obviant
+quatuor iste virtutes.  Primo, potest impugnari mulier a
+delectationibus, sicut planimode conducere eam ad delectationes
+auditus per sonum: tactus, deducendo eam ad choreas, ad tripudia,
+tangendo manus, eidem dicendo verba solatiosa, minus honeste: ad
+convivia, implendo eam cibis variis, vino multiplici.  Ut mulier
+caveat sibi de hiis insidiis, necessaria est sibi temperantia:
+nam temperantia habet moderare tristitias et delectationes,
+maxime delectationes circa tactum et gustum.  Tristitie,
+delectationes, sunt materia, circa quam volvitur temperantia. 
+Nunc vero docet temperantia mulierem, ne bibat aut comedat ultra
+opportunitatem, nec delectetur in choreis et tripudiis, in
+inhonestis locis, etc., unde posset cadere in obbrobrium. 
+Quoniam sicut ex multa confricatione lapidis et sepissima
+nascitur ignis, sic ex nimia practica et cohabitatione hominum
+cum mulieribus nascitur ignis luxurie.  Ideo dixit quidam
+philosophus de Helena: Fuge, fuge; quia non erat aliud remedium
+nisi fuga: quia quicumque intuebatur eam per spatium, subito
+capiebatur eius amore.  Videns autem maculator, quod non posset
+eam vincere delectationibus, venit ad persuasiones falsas et
+deceptiones, dicens mulieri: Ay, domina, vos estis bona,
+perfecta, honesta, pudica; sed, heu, quia habetis maritum
+impudicum, falsum, deceptorem, qui nullam fidem observat vobis,
+et tamen ipse ita obligatur ad fidem tori vobis, sicut et vos
+sibi; et tamen ipse habet multas amasias et concubinas.  Quare
+non frangitis fidem frangenti vobis eamdem?  Ipse despicit vos,
+contempnit.  Si mulier non esset cauta, deciperetur: sed
+necessaria est prudentia, que caveat talem mulierem ab hiis
+verbis deceptoriis et persuasionibus falsis; que prudentia est
+recta ratio agibilium.  Agibilia opera sunt illa que sunt in
+potestate nostra, circa que accidit verecundia in honore, et
+propter que laudamur, vel vituperamur.  Debet cogitare mulier
+talis: Mulier talis fecit hoc, et vituperata fuit, et tristis
+effecta: forte iste mentitur, nec est sicut dicit; et si esset,
+ego non debeo esse mala et facere male exemplo mariti male
+facientis.  Et sic prudentia cavet, custodit eam a deceptionibus. 
+Videns autem temptator nec sic profecisse, vadit ad tertium
+bellum, scilicet munera, dicens: Munera subvertunt iudicia,
+obcecant oculos sapientium.  De muneribus loquitur Ovidius in
+libro De arte: Munera placant homines Deosque.  Nam Iupiter ille,
+Deus, muneribus placatur et donis.  Et dicit mulieri: Volo quod
+portetis istud annulum amore mei, volo vobis dare tot pecunias
+quot vos indigetis: faciatis vobis bonam vestem.  Tunc necessaria
+est mulieri iustitia, que est virtus communis, et neque Lucifer,
+neque Hesperus, est tam ammirabilis; qua virtute honeste vivitur,
+alienum non leditur, unicuique quod suum est redditur.  Que
+dividitur in iustitiam distributivam, commutativam, restitutivam
+et retributivam.  Modo iustitia commutativa est, quod sit
+equalitas inter rem emptam et venditam, et pretium, vel
+commutatum.  Nunc vero pudor, et honestas, atque fama bona
+mulieris, e[s]t appretiabilis.  Quale et quantum aurum posset
+coequari bone fame, pudori et honestati?  Certe, nullum.  Qualis
+annulus? quale munus?  Certe, nemo.  Tunc igitur utatur mulier
+iustitia commutativa: caveat quod non det rem pretiosam pro vili
+auro, vel munere; et sic iustitia defendit mulierem a muneribus,
+a quibus forsan pauce mulieres se defendunt.  Videns autem
+seductor nec sic proficere, vadit ad tertium bellum, idest vim et
+coactionem, et oppressionem; et captata hora, loco adinvento, vi
+opprimere eam nititur.  Habens gladium evaginatum, dicit: Nisi
+consentias michi, en hoc gladio feriam te et iugulabo.  Sicut
+fecit Tarquinius Sextus, filius Tarquinii Superbi, septimi regis
+et ultimi Rome, de primis regibus; qui sic coegit Lucretiam, que
+postmodum se interfecit.  Sed certe, meo iudicio, laudabilius
+fuisset, si ipsa permisisset se interfici a Sexto Tarquinio et
+nullatenus consensisset, quam, post consensum vi factum, se
+interficere: cuius oppositum ipsa fecit.  Ipsa consensit vi,
+tamen demum se postmodum interfecit; quod non videtur michi
+laudabile, nihil certe.  Tunc mulieri necessaria est virtus
+fortitudinis, que facit hominem constantem ad sustinendum
+terribilia et audiendum horribilia: sed omnium terribilius est
+mors; et ipsa fortitudo animi facit hominem fortem et constantem
+ad sustinendum mortem, antequam velit pati detrimentum
+inhonestatis, sicut patuit in multis Romanis.  Est etenim
+fortitudo virtus circa timores et audacias, ut vult Aristotiles
+in principio quarti Ethicorum, vel in fine tertii secundum aliam
+divisionem.  Qui nimis audet, non est fortis; qui minus timet,
+nec est fortis; sed qui timet timenda, et non timenda non timet,
+ille est fortis.  Sed habemus quod ille quatuor virtutes, simul
+sumpte, efficiunt hominem felicem, quia sunt causa omnium bonarum
+actionum et preservant ab omni opere illicito; et sic merito
+dicuntur cardinales, quia super eis vertitur tota vita
+rationalis.
+
+	Quartum preambulum est, quod, sicut aliqualiter
+supradictum est in ultimo capitulo Inferni, secundum fictionem
+auctoris, Lucifer, quando fuit fulgorizatus, sive flammatus, de
+celo, de ipso cecidit in alio emispirio, scilicet poli
+anthartici, et cadens percussit terram a latere illo; quem terra
+timens, recessit de loco suo, dimictendo foramen ubi erat, et in
+alio emispirio poli, scilicet anthartici, se erexit versus celum
+et apparuit tunc arida illa terra, que nunquam ante apparuerat,
+et circumcirca est circumdata maris aquis; et illa terra sic
+erecta, ascendit super omnia elementa alterabilia, et transcendit
+igitur verticem, et facta est unus mons rotundus, altus, grossus
+in fine, idest ad radices, et altus et semper subtilior in
+sublimioribus partibus.  Et forte hec sententia extrahitur de
+illo textu Apocalipsis: Et fugit terra ad conspectum eius.  Nota
+quod illud foramen, per quod Virgilius et auctor exiverunt de
+Inferno, terminatur in ista terra elevata, sive in illo monte, et
+ideo non oportuit eos ire per navim; ita quod, exeuntes per illud
+foramen, invenerunt se in lictore maris in terra illa et ad illam
+terram: nisi per illud foramen, nemo posset ire sine navi; quia
+illa terra facta est una insula.  Et sicut Anglia, existens
+insula sicuti est, est sic circumdata mari, quod ad illam non est
+possibilis accessus sine adiutorio navis, nisi quis volaret, ita
+ad hanc terram sic elevatam sursum, ad istum montem; nemo venire
+potest nisi per mare, fultus adiutorio navis.  Sed nota quod si
+de alio emispirio poli anthartici veniret versus nostrum
+emispirium per foramen terre perforate, sic et taliter quod
+foramen inciperet illuc in alio emispirio, et veniret per centrum
+terre, et postea terminaret illud foramen in Oxoniis, sive in
+alio loco medio insule Anglie, vel etiam in circumferentiis
+insule, dummodo esset infra insulam, ille veniens de alio
+emispirio per illud foramen, non indigeret navi ad intrandum
+insulam Anglie, quia iam esset in ea.  Sed non omnes vident
+opinionem auctoris; quia ignorant philosophiam naturalem, quam
+non ignoravit Dantes, qui fecit tot pulchras fictiones, sicut in
+suo toto Poemate clare potest patere intelligentibus intellectum
+auctoris.  Sed notetur, quod auctor fuit istius opinionis, quod
+ex ex parte poli anthartici, ante casum dyaboli, nulla erat terra
+discooperta; nec fuisset unquam discooperta terra in alio
+emispirio, nisi quia ista terra, que fugit a facie Luciferi
+cadentis, sic recessisset de loco suo et ivisset, sicut ivit et
+se erexit in altum.  Ista fantasia auctoris habet veritatem
+multis viis.  Primo, quia dyabolus cecidit prima die creationis,
+et antequam terra appareret arida, sicut patet per processum
+Sacre Scripture; et sic patet, quod ante casum dyaboli nihil
+discoopertum ibi erat.  Apparet, secundo, ista veritas per hunc
+modum: quia nihil terre deberet esse discoopertum ab aquis, sed
+aque deberent cooperire totam terram ex omni latere et ex omni
+emispirio, cum terra sit in centro mundi, circa quam est aqua,
+circa quam est ignis, sicut vult Aristotiles, quarto Phisicorum;
+et sic nulla pars deberet esse discooperta ab aquis.  Sed quarta
+pars terre superioris partis eiusdem in emispirio poli arthici
+ideo est discooperta, ad vitam animantium, non valentium vivere
+in aquis, conservandum: sic dicit Aristotiles, in primo libro
+Metheororum, secundum translationem antiquam.  Ideo si ista pars
+terre, que est quarta pars superioris, scilicet in emispirio poli
+arthici, est discooperta, hoc non est ratione celi, aut alterius
+dispositionis, nisi solum propter conservationem vite illorum
+animantium, que non possent vivere in aquis: et sic tota terra
+fuisset cooperta ratione illorum elementorum.  Modo, quia Deus
+nec creavit nec arbores, nec herbas, nec animalia, nec aliquas
+res, in emispirio inferiori poli anthartici, que indigerent sicca
+et arida terra, ideo nulla pars fuisset discooperta.  Sed illa
+terra, que exivit de illo foramine, et erexit se in alio
+emispirio, stat ibi sicut una insula in medio maris: que insula
+est satis lata in radicibus, et semper in ascensu est minus
+grossa, et in tertia parte superiore est, in summitate, plana, et
+in illa fecit Deus Paradisum terrestrem, sicut est.
+
+	Modo, ad salvandam fictionem et fantasiam auctoris, esset
+declarandum quomodo Adam fuit formatus in campo Damasceno, in
+valle Hebron, quantum ad corpus esanime, sicut communiter
+creditur a pluribus; et quomodo corpus illud fuit translatum in
+Paradisum terrestrem, in alio emispirio, cum vallis Hebron et
+campus Damascenus sint in isto nostro emispirio poli arthici; et
+post peccatum Ade, et iudicium factum in Paradiso terrestri in
+alio emispirio, ipse Adam fuerit cum uxore sua reductus ad campum
+Damascenum et ad vallem Hebron.  Sed hic est dicendum pro
+presenti, quod hec omnia fecit Deus ex sua omnipotentia; et non
+fuerunt ista facta, nec evenerunt, secundum naturam; et sic
+cessat omnis dubitatio.  Et licet per naturam non sit possibilis
+accessus de Paradiso terrestri in emispirio inferiori ad istum
+nostrum emispirium, nec e converso, tamen Deus hoc facere posset
+per suam omnipotentiam: et sic ymaginatur auctor Deum fecisse. 
+Et vult auctor quod ille mons sit de directo monti Calvarie per
+oppositum, super quem Christus fuit crucifixus; qui mons Calvarie
+est prope medium terre habitabilis.  Non est simpliciter medium
+terre; non certe: sed Hierusalem est in medio terre habitabilis,
+non autem in medio simpliciter.  Ista terra igitur, sic erecta et
+facta unus mons, dividitur in tres partes: in primam et bassam,
+in mediam et tertiam, scilicet superiorem.  Sic dividitur sicut
+mons Synay: nam ille mons habet tres partes.  Scilicet bassam,
+que vadit altum forte unum milliare lombardicum: et illa pars
+vocatur Orebbe, sive mons Dei Orebbe.  Secunda pars, sive media,
+vocatur Syna.  Tertia pars et suprema vocatur Synay.  Prima pars
+montis Purgatorii vocatur Antepurgatorium, que continet quinque
+circulos, in quibus purgantur quinque retardationes penitentie. 
+Ex quo nota, quod quinque modis aliqui retardant facere
+penitentiam.  Primo, aliqui retardant propter delectationes
+vanas, sicut propter sonos et cantum, vel aliquid huiusmodi; et
+hec retardatio punitur in bassissimo et infimo circulo.  Alio
+modo aliqui retardant facere penitentiam, quia sunt excommunicati
+et in pertinacia Ecclesie Dei, et pigritant, atque negligunt
+absolvi; ista retardatio punitur in secundo circulo.  Aliqui
+negligunt et differunt penitentiam propter quamdam naturalem
+pigritiam; et hec species punitur in tertio circulo.  Aliqui
+negligunt et tardant penitentiam procrastinando, semper
+disponentes incipere penitentiam, et preventiuntur sepissime
+morte violenta; isti purgantur in quarto circulo.  Aliqui
+retardant penitentiam propter consequi domina et dignitates; et
+tales puniuntur in quinto circulo.  Nota quod pena talium
+pigritantium et retardantium penitentiam usque ad mortem, est
+quedam amara et angustiosa expectatio purgationis; que expectatio
+est valde magna pena, quia qui sunt in talibus locis, cognoscunt
+clare beatitudinem et felicitatem, et cum maxima pena sustinent
+illam expectationem.  Quomodo?  Pro quolibet tempore, quo
+tardaverunt, hic habent expectare triginta; ut si tardaverunt per
+annum, vel per mensem, vel per unum diem, oportet eos expectare
+et perdere tempus, antequam vadant ad Purgatorium, per triginta. 
+Et ista expectatio est istis valde amara.  In secunda parte
+montis est Purgatorium altum, circumcirca muratum; et illa pars
+dividitur in septem circulos, prout superius in uno preambulorum,
+positorum in principio Libri, dictum fuit aliqualiter, et in
+quolibet illorum circulorum purgatur unum peccatum mortale.  Et
+sic in primo et magis basso punitur superbia; in secundo,
+invidia; et sic, usque ad luxuriam.  Demum, tertia pars est
+Paradisus terrestris, ubi Dantes describit Ecclesiam militantem. 
+Prima pars continetur in octo capitulis; secunda pars in
+decemnovem; tertia in sex: que in universum faciunt triginta
+tria, sicut sunt in Purgatorio.

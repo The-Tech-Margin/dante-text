@@ -1,0 +1,186 @@
+	|Proemio.~  Cp.o VIIII di Paradiso.
+
+	|1-42.~ 
+
+   ^Da poi che Charlo tuo bella Clemenza~
+   ^m'ebbe chiarato mi narr@o gl'inghanni~
+   ^che riciever dovea la suo semenza.~
+
+Trattato l'altore dell'anima beatifichata posta nella spera di Venere 
+nel terzo cielo anchora vuole trattare della detta spera e di cierte 
+altre anime beatifichate in quella e puotesi dividere questo chapitolo 
+in quatro parti gienerali.  In questa prima parte continuando l'altore 
+si muove parlando inverso la donna che ffu moglie di Charlo Martello la 
+quale ebbe nome Clemenza chome chomincia questo chapitolo e ffu chostei 
+valentissima donna e savissima e diciesi direi che giugniendole novelle 
+che 'l marito cio@e Charlo era morto subito di dolore chadde morta e 
+questo fu segnio di perfetto amore e simile avenne alla moglie di 
+Pompeo figliuola di Ciesare che stando ella alla finestra del suo 
+palagio vide rechare arme e sopra veste tutte sanghuinose chostei 
+imaginandosi ch'elle fossono quelle di Pompeo che fosse morto o che 
+grande isciaghura no' gli fosse intervenuto chadde adietro e in un 
+punto chacci@o fuori il parto e llo spirito ch'era gravida costei ebbe 
+nome Iulia filia Cesaris fuit.  Tornando alla nostra istoria o vero 
+materia e seghuendo l'altore introducie un'altra anima a pparlare con 
+esso lui cio@e l'anima di madonna Cunizza sirocchia d'Azzolino di 
+Romano crudele tiranno questa donna fu bella e piacievole benignia 
+graziosa e misericordiosa e per@o la mette l'altore in questa spera di 
+Venere perch@e da lei viene la 'nfluenza di queste virt@u le quali ebbe 
+da Dio e prieghala l'altore dolciemente ch'ella gli debba dire di sue 
+condizione ed ella gli risponde cos@i
+
+   ^In quella parte della terra prava~
+   ^italicha che siede tra Rialto~
+   ^e lle fontane di Brenta e di Piava.~
+
+Questa donna s@i ssi manifesta all'altore chos@i diciendo chome dicie 
+nel testo cio@e ch'ella fu di Friuli e ffu sirocchia d'Azzolino di 
+Romano charnale e ch'elli fu una facciellina in Italia cio@e per Friuli 
+e per tutta la marcha trevigiana e ben disse il vero che questo 
+Azzolino arse assai ville e chastella e fecie morire pi@u di mille 
+padovani e migliaia di loro e per@o dicie il nostro altore Dante 
+fiorentino chos@i.
+
+	|43-66.~ 
+
+   ^E ci@o non pensa la turba presente~
+   ^che Tagliamento e Addigie richiude~
+   ^n@e per essere batuta anchor si pente.~
+
+In questa seconda parte introducie a pparlare l'altore questa donna 
+chon esso lui e ragiona di sue contrade per modo d'indovinazione cio@e 
+di cose ch'avessino a venire ed erano gi@a istate e comincia a tre 
+citt@a a pPadova a Vicienza e a Travigi e toccha qui la brigha ch'ebbe 
+messer Chane Vecchio cho' Padovani la quale fu grande e dura e alla 
+fine messer Chane ne fu vincitore e ciercharono i Padovani di torre 
+Vicienza a messer Chane e venia loro fatto se non fosse una femina e 
+dove l'altore dicie nel testo
+
+   ^E dove Sile e Cagnan s'acompagna~
+   ^tal signoreggia e va colla testa alta~
+   ^che ggi@a per lui charpir si fa la ragna~
+
+E parla qui di Trevigi cio@e di messer Ricciardo da Chammino signiore 
+di Trevigi chostui fu buono huomo e di buona condizione e volendo 
+t#ogli i suoi confini la signioria si ebbono u[n] lloro consorto pazzo 
+e si gli dissono che uccidesse messer Ricciardo.  Costui tolse un 
+coltello e andossene a llui giuchando a tavole messer Ricciardo e s@i 
+glie de' per lo petto di quello choltello parecchi fedite mortali i 
+consorti suoi facciendo vista di questo fatto esere dolenti trassono a 
+romore e si presono questo loro converto e s@i lo uccisono e a quel 
+modo mor@i il savio e 'l matto e loro consorti rimaxono maggiori e con 
+grande verghognia.
+
+   ^Pianger@a Feltro e ancora la difalta~
+   ^dell'empio suo pastore che ser@a sconcia~
+   ^s@i cche per simil non s'entr@o i[n] Malta.~
+
+Qui l'altore fa tocchare a questo spirito della citt@a di Feltro nella 
+quale ebbe un veschovo e ffu al tempo del re Uberto al quale veschovo 
+chapit@o alle mani quatro giovani chacciati di Ferrara per parte 
+ghibellina d'una chasa che ssi chiamava que' da Fontana gientili 
+huomini e chapitati chostoro a Feltro quel veschovo gli fecie pigliare 
+e mandagli a fFerrara ed era allora podest@a di Ferrara messer Pino 
+della Tosa da Firenze a posta del re Uberto il quale messer Pino fecie 
+tagliare la testa a tutti e quatro.  Malta si @e una torre i[n] Roma 
+pessima e oschura prigione dov'erano messi i cherici quando fallavano 
+da dovere morire e ivi istavano infino alla loro fine.  S@i cche 
+l'altore vuol qui dire io non credo che mai s'entrasse i[n] Malta per 
+un simile pecchato n@e ssi inormo chome fu quello di questo veschovo 
+della citt@a di Feltro.
+
+	|67-108.~ 
+
+   ^L'altra letizia che m'era gi@a nota~
+   ^preclara cosa mi si fecie 'n vista~
+   ^qual fin balascio in che il sol perchuota.~
+
+In questa terza parte fa ll'altore menzione d'un'altra anima d'uno 
+ch'ebbe nome Folcho e ffu da Marsilia e fu bello piacievole e cortese e 
+buono dicitore e trovatore i[n] rima.  E fecie l'altore pi@u qui 
+menzione di costui pi@u per amor della sua citt@a che di lui 
+conciosiacosach@e Marsilia hae auti in s@e valentissimi huomini in 
+iscienzia prodi e ghagliardi in arme.
+
+   ^Dio vede tutto e tuo voler s'iluia~
+   ^diss'io beato spirito s@i cche nulla~
+   ^voglia di s@e a tte pu@o esser fuia.~
+
+Per queste parole qui nel testo l'altore domanda questo spirito chi 
+egli @e e llo spirito gli risponde chos@i diciendo
+
+   ^La maggior valle in che l'acqua si spanda~
+   ^incominciaro allor le suo parole~
+   ^fuor di quel mar che lla terra ingrilanda.~
+
+Risponde questo spirito all'altore in similitudine diciendo ch'egli fu 
+di Marsilia e fu abitatore d'uno de' liti del mare Mediteraneo il quale 
+escie del mare Ocieano il quale mare @e quello che circhunda tutta la 
+terra e che ffa quel mare Mediterano e disciendesi per terra insino in 
+Acri cio@e insino in Gierusalem e questo mare Mediterano parte 
+l'Africha e lla Barberia dalla Spagnia e dalla Francia e nell'Africha e 
+nella Barberia abitano tutti infedeli cio@e barberi e saracini e altre 
+assai gienerazione di gienti e di qua all'altro lido dirinpetto 
+habitano cristiani di l@a sono grandissimi caldi e di qua sono 
+grandissime freddure e continue per@o che sempre in Inghilterra @e 
+sempre freddo e per@o dicie quest'anima io naqui intra ' scordanti lidi 
+da quel di l@a a questo di qua per le dette ragioni poi istrignie pi@u 
+i confini di Marsilia e dicie che nacque tra Ebro e tra lla Macra 
+questi sono due fiumi l'uno @e in Africha e l'altro cio@e la Magra si 
+@e i[n] Lunigiana ed @e i confini di Toschana e de Lunigiana in 
+Toschana e parte questo fiume la Toschana dal gienovese e da Liguria 
+cio@e Lombardia.
+
+   ^Ad uno occhaso quasi ed a un orto~
+   ^Buggea siede e lla terra ond'io fui~
+   ^che ffe' del sanghue suo gi@a chaldo il porto.~
+
+Qui mentova questo tale spirito e s@i conchiude il suo detto per fare 
+fine alle sue parole e dicie che lla terra ond'egli fue @e quasi 
+dirinpetto a Bugiera che @e terra in Africha.  Anchora te lo dicie per 
+una similitudine cio@e che lla sua terra fu ggi@a chalda del suo propio 
+sanghue cio@e il suo porto medesimo e questo @e vero e fu quando 
+Ciesare avea ghuerra com Pompeo e chogli altri Romani che richiedendo 
+Ciesare i Marsiliesi di giente e d'aiuto ond'eglino al tutto gliele 
+neghorono conciofossechosach'eglino si schusassono ch'eglino non 
+doveano far mai contro a' Romani.  Il di che per questo Ciesare vi 
+mand@o grand'oste per terra e per mare e per terra fu Ciesare 
+isconfitto cio@e Bruto suo chapitano e per mare fu vincitore ed ebbe 
+vettoria de' Marsiliesi intanto che 'l porto di Marsilia fu la dura e 
+aspra battaglia e furonvi morti la maggior parte de' Marsiliesi s@i 
+cche ben disse lo spirito a Dante il vero.  Ancora gli disse questo 
+spirito che non fu mai tanto inamorata Dido di Chartagine d'Enea quanto 
+fu' io al mondo.  E questo disse per lo pianeto nel quale egli era 
+cio@e di Venus il quale pianeto fa la giente bella e cortese e 
+inamorata.
+
+	|109-142.~ 
+
+   ^Ma perch@e le tuo voglie tutte piene~
+   ^ten porti che son nate in questa spera~
+   ^prociedere anchora oltre mi conviene.~
+
+In questa quarta parte questo spirito di Folcho fa menzione d'un altro 
+spirito e s@i gli mostra lui e diciegli tu vogli sapere chi @e 
+quell'altro ispirito chos@i chiaro e bello.  Sappi ch'egli @e lo 
+spirito di Raab.  Chostei fu una femina del Vecchio Testamento e fu al 
+tempo di Giosu@e grande amicho di Dio questa era d'una citt@a appellata 
+Iericho e Idio avea promeso a questo Giosu@e ch'egli piglierebbe tutta 
+Giudea e andando chos@i pigliando chapit@o a questa citt@a di Giericho 
+e cierchando di pigliarla mand@o dentro alla citt@a sue spie per 
+cierchare de' modi della citt@a e chapitarono queste spie a questa Raab 
+la quale avea e tenea una chasa in sulle mura della citt@a e si era 
+chostei hostiera e pecchatricie.  E domandando ella costoro ci@o che 
+andavano cierchando e chostoro dissono ch'egli erano venuti per trovare 
+e cierchare modo di pigliare quella citt@a.  Laonde ella rispuose 
+ch'ela sola @e quella che fare potea ci@o per@o che per la mia chasa si 
+pu@o entrare dentro la vostra giente e cos@i diede l'ordine e chos@i 
+fecie e in questo modo prese Giosu@e Giericho e diciesi che chostei fu 
+la prima femina salva del Vecchio Testamento perch'ella diede aiuto ad 
+aquistare la terra santa di Gierusalem a Giosu@e.  Alla qual terra 
+pocho tocch@o al papa la memoria di volerla aquistare.  E questo 
+incontra perch'eglino sono grossi e grassi delle chose e ricchezze 
+mondane.  E s@i pocho cierchano e poco churano pi@u di quelle di Dio.  
+E tutto loro istudio @e d'apparare decretali solo per avere i grandi 
+benefici e tutte l'altre iscienze sono per loro morte spregiate e 
+abandonate.

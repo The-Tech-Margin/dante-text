@@ -1,0 +1,123 @@
+Return-Path: makedon@tenaya.cs.dartmouth.edu
+Received: from dartvax.dartmouth.edu (dartvax.dartmouth.edu [129.170.16.4]) by avalon.dartmouth.edu (8.7.3/8.7.3) with ESMTP id OAA22939 for <steve@avalon.dartmouth.edu>; Fri, 11 Oct 1996 14:51:40 -0400
+From: makedon@tenaya.cs.dartmouth.edu
+Received: from tenaya.cs.dartmouth.edu (tenaya.cs.dartmouth.edu [129.170.200.32]) by dartvax.dartmouth.edu (8.7.6+DND/8.7.3) with ESMTP id OAB32506; Fri, 11 Oct 1996 14:51:25 -0400 (EDT)
+Received: by tenaya.cs.dartmouth.edu (8.7.5/4.2)
+	id OAA15165; Fri, 11 Oct 1996 14:51:24 -0400 (EDT)
+Message-Id: <199610111851.OAA15165@tenaya.cs.dartmouth.edu>
+Subject: Hewlett Foundation Grant
+To: stephen.campbell@Dartmouth.EDU, walter.stephens@Dartmouth.EDU,
+        jeremy.rutter@Dartmouth.EDU
+Date: Fri, 11 Oct 1996 14:51:24 -0400 (EDT)
+Cc: makedon@tenaya.cs.dartmouth.edu (Fillia Makedon),
+        cowen@cs.dartmouth.edu (owen),
+        Otmar.K.E.Foelsche@Dartmouth.EDU (Otmar K. E. Foelsche),
+        jford@cs.dartmouth.edu (James C. Ford),
+        Robert.L.Drysdale@Dartmouth.EDU (Robert L. Drysdale)
+X-Mailer: ELM [version 2.4 PL25]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+
+The Call for proposal for the internal Hewllett Foundation grant is out
+and due October 22.  We at the Dartmouth Experimental Visualization Laboratory
+would like to apply and extend some of the multimedia authoring tools that
+we have produced for the web by finding new content areas of interest
+to the humanities and undergraduate education.
+
+For this purpose, we have looked at various collections on campus.
+The Dante Collection is of great interest because while it is already
+digitized, it does not exist in HTML form on the web and it is in 
+a form that is not interactive, not aesthetic but, ofcourse, highly
+valuable.
+
+The question I am posing is: Are you interested in joining us in 
+a joint proposal to the H. Foundation and how do you view your role?
+I have already spoken with Stephen Campbell who showed interest in 
+the project and who has the technical expertise to help us 
+identify the digital sources of the commentaries.
+I also spoke on the phone with Professor Hollander from Princeton 
+who is interested in providing domain expertise. He is doing 
+something with a publisher that will result in a CDROm down the road
+and which involves the original image of the poem.  He does not wish
+to merge the two efforts.
+
+In any case, our lab is a multimedia lab with powerful tools.
+We can deliver something decent in one year and something
+spectacular in two years. 
+
+Here is how we can contribute:
+	- create a Dartmouth website on Dante to be used by 
+		(a) scholars and faculty
+		(b) novice students
+		(c) as a resource for librarians and for library research (links
+			to existing sources automatically, organizes the findings in a 
+			personal database with nice visual interface
+	- provide tools (our ASML system, an extension of HTML which is very powerful)
+		 that automate the integration of the digitized pages
+		of materials into the web so that the user can search,
+		interact with the text by creating paths of exploration,
+		annotation, etc
+	- develop a front end that filters information depending on user interests
+	- incorporate into the website some graphical navigational aids that 
+		help the user cataloque comments, trace searches and communicate with 
+		the materials
+	- see how we might incorporate the use of audio clips or audio in general and 
+		possibly images of the commentators.
+	- see how we might combine the comments over time with the original text and 
+		how the original text can be made interactive by the user.
+(Please note that it takes us a very short time to indeed create a website and 
+the bottleneck here is finding eager domain experts and overcoming the 
+copyright problem )
+	
+What we need to write a proposal by October 22 is the following:
+
+a. feedback from you that you are interested and how you see yourself 
+participating. The grant offers up to $15K / year for a maximum of 2 years.
+We will need a programmer for this and most of the funds will go for that
+purpose but there will also be some for domain expertise, etc.
+
+b. If you are not interested, we value any suggestions or comments
+We also could consider placing you in an advisory board that triannually
+checks the progress.
+
+c. If you are interested, please send me one paragraph with your involvement, as you see.
+Also, a brief (few lines) bio, and what your needs are in terms of infrastructure,
+funds, etc. What your goals are (what you get out of this) and how you might use
+the website to teach the students. 
+
+d. Send me a semi-technical description about hte Dante collection_ what it contains,
+why it is unique and valuable, why you feel a website like the Bronze one we created for
+Professor Rutter would be useful, what audience you think will benefit.... any information
+that would help this proposal.
+
+I really would appreciate a prompt response.
+
+thanks,
+
+fillia
+
+PS Charles Owen is the architect of ASML and Devlab administrator. I would appreciate
+it if you would send him a copy of the message. 
+
+Please look at our site and also are our websites.  You might see that we are doing a 
+great deal in this area of technology.
+
+thanks, 
+
+
+Fillia Makedon
+
+a_______________________________________________________________
+Fillia Makedon 
+Associate Professor
+Department of Computer Science
+6211 Sudikoff Laboratory, room 109
+Dartmouth College
+Hanover, New Hampshire 03755
+(603)646-3048
+(603)646-2206-dept.
+(603) 646-1672 FAX
+Email: makedon@dartmouth.edu
+  WWW:  http://www.cs.dartmouth.edu/~makedon
+

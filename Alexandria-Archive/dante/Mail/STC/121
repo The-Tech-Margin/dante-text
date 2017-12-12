@@ -1,0 +1,39 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id VAA23247
+	for <steve@avalon.dartmouth.edu>; Wed, 9 Sep 1998 21:54:31 -0400 (EDT)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id VAA25026
+	for <Steve.Campbell@DARTMOUTH.EDU>; Wed, 9 Sep 1998 21:54:30 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 50935 [128.112.128.88]) by outbound.Princeton.EDU with ESMTP id <544051-6441>; Wed, 9 Sep 1998 20:22:01 -0400
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id UAA02594
+	for <Steve.Campbell@dartmouth.edu>; Wed, 9 Sep 1998 20:21:56 -0400 (EDT)
+Received: from flagstaff.Princeton.EDU (bobh@flagstaff.Princeton.EDU [128.112.131.154])
+	by mail.Princeton.EDU (8.8.8/8.8.8) with ESMTP id UAA20530
+	for <Steve.Campbell@dartmouth.edu>; Wed, 9 Sep 1998 20:21:54 -0400 (EDT)
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.8.8/8.8.8) id UAA26885
+	for Steve.Campbell@dartmouth.edu; Wed, 9 Sep 1998 20:21:49 -0400 (EDT)
+Message-Id: <199809100021.UAA26885@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Wed, 9 Sep 1998 20:21:48 -0400
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: varia
+
+Checked various thgs. you asked about:
+
+(1) You edited Scartazzini flawlessly.  We can now
+switch careers, me editing in vi, you editing Dante.
+The world will be a better (and stranger) place.
+
+(2) That long file in ~dante/C.ng/benvenuto: comentum.e
+
+That is the "Introduzione" to Benvenuto's comm. and
+should be, so labelled (i.e., |Introduzione.~) be the
+FIRST thing that is entered, right before inf01.ben (or
+whatever it is called).  Glad I sent it along 7 years
+ago or so.
+
+All for now.  Best, Bob

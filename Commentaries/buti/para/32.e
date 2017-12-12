@@ -1,0 +1,856 @@
+	|Proemio.~  ^Affetto al suo piacer~ ec.  Questo @e lo XXXII canto 
+della terza cantica, nel quale lo nostro autore finge in che ordine 
+vidde stare li beati in vita eterna, secondo che li mostr@o santo 
+Bernardo.  E dividesi tutto in due parti: imper@o che prima descrive, 
+secondo la sua fizione, in che ordine stavano li beati di vita eterna, 
+mostratoli di santo Bernardo; nella seconda parte finge che santo 
+Bernardo li mostrasse spezialmente la Nostra Donna e quelli che 
+sedevano prossimani a lei, nominandole alquanti; e poi facendo fine a 
+questa materia, lo induce a dimandare grazia a la Vergine Maria, et 
+incominciasi la seconda: ^Ragguarda omai~ ec.  E la prima di tutte si 
+divide in sei parti: imper@o che prima finge come santo Bernardo, poi 
+che ebbe preso refezione ne lo sguardo de la Vergine Maria, 
+l'incominci@o a mostrare di sotto da lei Eva, e di grado in grado 
+infine al settimo ne nomina di quelle donne, che furono ne la legge de 
+la natura, che credottono in Cristo venturo; nella seconda finge come 
+dal settimo grado ingi@u li mostr@o l'Ebree, che furno nella legge 
+della Scrittura, et incominciasi quine: ^E dal settimo grado~ ec.; 
+nella terza parte finge che santo Bernardo li mostrasse di contra a 
+quelli, che mostrato aveva, coloro che credettono in Cristo venuto, et 
+incominciasi quine: ^E come quinci~ ec.; nella quarta parte finge che 
+santo Bernardo li dimostri lo dubbio ch'elli avea e comprendea dentro 
+da s@e, et incominciasi quine: ^Or dubbi tu~ ec.; nella quinta parte 
+finge che santo Bernardo, mosso lo dubbio, lo incominci@o a solvere, et 
+incominciasi quine: ^Lo Rege, per cui questo~ ec.; nella sesta parte 
+finge come santo Bernardo dichiar@o come si salvavano li parvoli ne li 
+tre stati, cio@e della legge della natura, della legge della Scrittura 
+e della legge della grazia, et incominciasi quine: ^Bastavasi ne' 
+seculi~ ec.  Divisa la lezione, ora @e da vedere lo testo co 
+l'esposizioni litterali, allegoriche e morali.
+
+	|1-15.~  In questi cinque ternari lo nostro autore finge come santo 
+Bernardo, poi che ebbe contemplato la gloria della Vergine Maria quanto 
+li piacque, li cominci@o a mostrare l'ordine de' beati ne la forma 
+della rosa, che figurava le sedie de' beati, dicendo cos@i: ^Affetto~; 
+qui debbe notare lo lettore che tutti i testi de l'autore si truovano 
+dire ^L'effetto~; lo quale testo, secondo lo mio parere, @e stato 
+corrotto e non credo che l'autore dicesse ^L'effetto~: imper@o che, 
+secondo lo mio iudicio, non verrebbe a dire nulla in questa parte; ma 
+credo che dicesse ^Affetto~, come dimostrano le parole precedenti nel 
+canto precedente, quando dice: ^Li suoi con tanto affetto volse a lei~, 
+dove si dimostra che santo Bernardo si volse a contemplare la gloria 
+della Vergine Maria con grandissimo desiderio; e per@o incomincia ora 
+lo canto: ^quel contemplante~; cio@e santo Bernardo, ^Affetto~; cio@e 
+affettuoso fatto e desideroso e dato a la contemplazione de la Vergine 
+Maria, ^al suo piacer~; cio@e quanto li piacque; e chi espone lo testo 
+dicendo ^L'effetto~, dice: ^quel contemplante L'effetto al suo piacer~; 
+e questo non viene a dire nulla: imper@o che @e mestieri che si 
+dichiari di che cagione era quello effetto, e questo non si pu@o 
+dichiarare per parola che vada innanti o seguiti; dunqua debbe dire 
+^Affetto~, che @e participio de l'^afficior~, ^eris~, secondo lo 
+Grammatico, e ponsi ^adiective a quel contemplante~, come detto @e.  
+Agevilmente potette essere che, quando l'autore scrisse questo 
+principio di questo canto, ch'elli serbasse luogo a la prima lettera, 
+per farvi lo minio, e che si trovasse scritto ^ffetto~, senza avere 
+segnato ^A~ dinanzi; sicch@e chi scrisse pens@o che volesse esservi 
+^L'e~; e disse ^L'effetto~.  Ma io per la ragione detta penso che 
+l'autore intendesse com'io @one detto, et @e la sentenzia: Poi che 
+santo Bernardo, contemplante la gloria de la Vergine Maria, fu 
+^Affetto~; cio@e innamorato et infiammato della sua visione di lei 
+tanto, quanto li piacque.  E molti diceno ^L'affetto~; et ordinano le 
+parole: quel contemplante ^L'affetto~; detto di sopra, e seguene poi 
+l'altro che seguita; ma questa sentenzia anco non mi piace, ben che 
+potesse stare: per@o ch'io credo che non fu la intenzione de l'autore, 
+^assunse~; cio@e prese, ^Libero officio di Dottore~; cio@e incominci@o 
+liberamente ad insegnarmi e mostrarmi l'ordine de' beati a me Dante, ^E 
+cominci@o~; cio@e santo Bernardo, ^queste parole sante~; che seguitano. 
+ E per questo si pu@o comprendere che, poi che l'autore ebbe letto li 
+trattati che fece santo Bernardo de le Meditazioni, ch'elli ebbe delli 
+atti della Vergine Maria, e della gloria sua, elli leggesse alcuno suo 
+trattato dove tratt@o dell'ordine de' beati; e per@o fa questa fizione 
+l'autore ch'elli li parlasse in questa forma: imper@o che, se questa 
+cagione non fusse, non so perch@e l'avesse dato pi@u a santo Bernardo 
+che a li altri Dottori, se non fusse gi@a per inducerlo a fare la 
+preghiera a la Vergine Maria, che seguita nel seguente canto; e queste 
+altre cose arebbe finto l'autore per adornamento del suo poema, come @e 
+licito ai Poeti di fingere.  Ecco quello che incominci@o: ^La piaga~; 
+cio@e de l'umana natura, che cagion@o lo peccato d'Adam che fu cagione 
+che tutti li omini erano inabili a potere avere vita eterna; ma tutti 
+andavano o ne lo inferno, o nel limbo, o prima nel purgatorio e poi nel 
+limbo, infine che Cristo sostenne passione per noi, che ci aperse la 
+porta di paradiso; ma pure ci rimase la pena del peccato, cio@e la 
+morte corporale, bench@e fusseno liberati da la spirituale, et anco ci 
+rimase la inclinazione al peccato che siamo tutti piagati nel libero 
+arbitrio, che pi@u tosto vogliamo lo male che 'l bene, et ecci pi@u 
+malagevile lo bene che 'l male, ^che~; cio@e la quale piaga, ^Maria~; 
+cio@e la Vergine Maria, madre di Iesu Cristo, ^richiuse~; cio@e finitte 
+e san@o: imper@o ch'ella inchin@o co la sua virt@u Iddio Padre ad avere 
+misericordia di noi, e mandare lo suo Figliuolo a ricomperarci da la 
+servit@u del dimonio, ^et unse~; cio@e mitig@o: imper@o che dopo la 
+passione di Cristo non @e stata s@i acerba questa piaga, come era 
+innanti.  E non si debbe intendere che la Vergine Maria fusse principio 
+effettivo di tale salute; ma fu principio induttivo, e cos@i intende 
+l'autore che l'umilit@a de la Vergine Maria, la sua obedienzia, la sua 
+purit@a indusse Iddio Padre a mandare lo suo Figliuolo a prendere carne 
+umana di lei, per liberarci da la servit@u del peccato.  ^Quella~; 
+cio@e femina, ^che~; cio@e la quale, ^@e tanto bella~; questa @e Eva, 
+che fu la nostra prima madre, fatta da Dio bellissima, ^da' suoi 
+piedi~; cio@e ai piedi de la Vergine Maria, ne lo scanno secondo, ^@E 
+quella~; cio@e femina, ^che l'aperse~; cio@e la quale aperse quella 
+piaga, ^e che la punse~; cio@e e la quale punse la detta piaga: imper@o 
+che, come Eva fu cagione induttiva de la disubidienzia d'Adam e del 
+peccato suo; cos@i la Vergine Maria fu cagione induttiva de 
+l'obedienzia, che 'l secondo omo rendette, e de l'emendamento del 
+peccato.  Et usa qui l'autore una figura di Grammatica; 
+^hysteronproteron~: imper@o che prima @e pungere che aprire, et elli 
+mette innanti aprire che pungere.  Eva, nostra prima madre, ^punse~ la 
+piaga, mangiando lo pomo vietato e disobediendo, et apersela 
+confortando Adam che ne mangiasse, et induc@elo a mangiarne; e cos@i ne 
+la sentenzia di sopra, prima @e ungere la piaga che richiudere, et elli 
+mette innanti chiuse, e poi ^unse~; ecco che la sentenzia muta lo 
+diritto ordine.  ^Nell'ordine, che fanno i terzi sedi~; cio@e 
+nell'ordine del terzo scanno, ^Siede Rachel~; questa figura la vita 
+contemplativa e fu mollie di Iacob, del quale fu detto ne la prima 
+cantica nel canto secondo, sicch@e l'autore nostro finge che nel 
+supremo scanno de la rosa sedeva la Vergine Maria, in sul secondo 
+sedeva Eva, et in sul terzo Rachel e Beatrice, come fu detto di sopra, 
+e li contemplativi, e questo finge che li dimostri santo Bernardo, ^di 
+sotto da costei~; cio@e di sotto da Eva, ^Con Beatrice~; de la quale fu 
+detto di sopra in questa cantica e ne la prima nel secondo canto, come 
+detto @e, ^siccome tu vedi~; cio@e tu, Dante.  ^Sara~; questa fu mollie 
+d'Abraam, ^Rebecca~; questa fu mollie d'Isac, ^Iudit~; questa fu quella 
+santa donna, che uccise Oloferne, de la quale fu detto nel canto XII de 
+la seconda cantica, ^e colei, Che fu bisava~; cio@e e quella donna che 
+fu superiore a David per tre gradi, che fu chiamata Rut e fu mollie di 
+Booz, e Booz fu padre d'Obed, et Obed fu padre di Iesse, et Iesse fu 
+padre di David, sicch@e Rut fu la bisava di David; e per@o dice: ^al 
+Cantor~; cio@e David, che fu cantore: imper@o che fece li Psalmi e 
+cantavali co la sua citara, ^che con dollia~; cio@e lo quale cantore 
+con dolore e pentimento, ^Del fallo~; lo quale avea commesso, facendo 
+uccidere Uria suo cavalieri, per adulterare con Bersabe sua donna, 
+sicch@e commisse adulterio, omicidio e tradimento, ^disse~; cio@e lo 
+detto David: ^Miserere mei~; cio@e fece quello Psalmo, che dice: 
+^Miserere mei, Deus, secundum magnam misericordiam tuam~ ec., e disselo 
+con tanta divozione, che Iddio li perdon@o li detti peccati, vedendo la 
+sua grande contrizione, ^Puoi tu~; cio@e Dante, ^veder~; cio@e le dette 
+donne, ^cos@i di sollia in sollia~; cio@e di sedia in sedia, ^Gi@u 
+digradar~; cio@e di grado in grado, tornando in giuso, ^com'io~; cio@e 
+come veggio io Bernardo, ^ch'a proprio nome~; cio@e lo quale coi propri 
+nomi nominando le donne del vecchio Testamento, le quali si salvorno, 
+avendo fede in Cristo venturo, ^Vo~; cio@e vado, ^per la rosa~; cio@e 
+la quale figura la beatitudine de' santi di vita eterna, ^gi@u di 
+follia in follia~; cio@e descendendo in gi@u, di sedia in sedia; le 
+quali sedie sono ordinate come le follie della rosa.  Ecco che l'autore 
+finge che santo Bernardo li mostrasse che 'n su la suprema sedia della 
+rosa sedesse la Vergine Maria; in su la sedia seconda, a pi@e della 
+Vergine Maria, Eva prima nostra madre; in su la terza sedia, Rachel e 
+Beatrice; in su la quarta, descendendo, Sara; in su la quinta, Rebecca; 
+in su la sesta, Iudit; in su la settima, Rut; et in ciascuna di queste 
+sette sedie erano l'altre donne beate del vecchio Testamento, che furno 
+di pari grado, che tutte si salvorno ne la fede di Cristo venturo.  Ma 
+in su la seconda sedia erano quelle, che erano vissute secondo la legge 
+della natura, pi@u contemplativa che in vita attiva e matrimoniale; in 
+su la terza, quelle che erano vissute in vita matrimoniale e 
+contemplativa; ma meno contemplativa che attiva; e per@o ne la seconda 
+sedia pone Eva e le simili; in su la terza, Rachel e Beatrice.  Eva e 
+l'altre, secondo lo naturale, cognobbono Iddio dovere mandare loro 
+l'aiuto suo, quando fusse 'l tempo, et in questo si salvorno; e per@o 
+sono nel secondo.  Nel terzo sono quelle che cognobbono, secondo lo 
+naturale et anco secondo la revelazione fatta loro da Dio in Cristo 
+venturo, et in segno incominciorno la circuncisione; e per@o in su 
+l'altre erano quelle, che erano salvate per quello modo medesimo; ma 
+aveano lo segno de la circuncisione, che era in segno de la fede in 
+Cristo venturo, e di levarsi da le concupiscenzie carnali.  Ma potrebbe 
+l'uomo dubitare e dire: Perch@e si circuncidevano pur li maschi e non 
+le femine?  A che si pu@o rispondere, perch@e 'l peccato d'Adam fu 
+cagione de la dannazione nostra, e non quello d'Eva; sicch@e ai maschi 
+si convenia lo segno de l'obedienzia, poi che da Adam era venuto lo 
+segno de la disobedienzia.  E finge l'autore che santo Bernardo li 
+mostrasse queste sette sedie, per notare li sette stati e condizioni 
+de' santi, che sono in vita eterna; prima lo stato verginale in su la 
+suprema sedia, denotato per la Vergine Maria e per Cristo; secondo, lo 
+stato matrimoniale puro, secondo la legge naturale, denotato per Eva et 
+Adam in su la seconda sedia; terzio, lo stato de' Profeti e Patriarchi 
+contemplativo, denotato per Rachel e Beatrice; quarto, lo stato 
+matrimoniale de' fedeli, secondo lo comandamento d'Iddio, che 
+credetteno in Cristo venturo, come fu loro dimostrato da Dio, e dato in 
+segno di ci@o la circuncisione, denotato per Sara et Abraam; quinto, lo 
+stato de' savi et ammaestrati e dottrinati ne le cose divine, per 
+Rebecca e Isaac; sesto, lo stato de la vedovit@a e castit@a dei martiri 
+e de li combattitori per l'amore d'Iddio e per la patria, denotato per 
+Iudit; settimo, lo stato de li oratori e laudatori d'Iddio, denotato 
+per Rut.  E per questo @a fatto menzione di sette gradi, come la santa 
+Chiesa distingue li santi; cio@e prima li santi Agnoli; secondo, le 
+Vergini; appresso, li Patriarchi e Profeti; poi, li Apostoli; e poi, 
+l'Innocenti; poi, li Martiri; poi, li Confessori.  Seguita.
+
+	|16-27.~  In questi quattro ternari lo nostro autore finge come santo 
+Bernardo, incominciato a descrivere le sedie de' beati che stanno in 
+tondo siccome una rosa, infine al settimo grado descendendo in gi@u, 
+ora descrive dal settimo in gi@u, e poi divide tutta questa rosa per 
+lungo, dicendo cos@i: ^E dal settimo grado~; in sul quale disse che 
+stava Rut, ^in gi@u~; cio@e descendendo infine al fiore della rosa, 
+^siccome Infine ad esso~; cio@e siccome dal primo, dove siede Nostra 
+Donna, infine al settimo dove siede Rut, ^succedeno Ebree~; cio@e 
+l'anime ebree: imper@o che, sotto da la Vergine Maria infine al fiore 
+de la rosa, finge che siano pure l'anime salvate del vecchio 
+Testamento, dividendo sempre per sette gradi come sono divisi li primi; 
+sicch@e, chi @e stato di maggior grado di fede et @a pi@u meritato @e 
+nel grado che si li conviene del primo settenario; e chi @e stato di 
+minore @e nel grado a le' conveniente del sequente settenario, infine 
+al mezzo de la lunghezza della rosa: imper@o che da indi in gi@u finge 
+che siano li parvuli salvati ne la fede de' parenti, dividendo ancora 
+per sette gradi, secondo che sono stati li parenti, ^Dirimendo~; cio@e 
+dividendo, ^del fior~; cio@e della rosa detta, ^tutte le chiome~; cio@e 
+tutte le follie, cio@e tutte le sedie per quelli che credettono in 
+Cristo presente, che sono mezzo tra le femine ebree e cristiane; e per 
+quelle femine che credettono in Cristo presente, che sono mezzo da la 
+parte opposita tra li Ebrei e cristiani.  E per intendere questo, 
+pogniamo e figuriamo che noi siamo nel fondo di questa rosa, e veggiamo 
+questa rosa partita in due parti per lungo, sicch@e l'una met@a, sopra 
+la quale @e la Vergine Maria, abbia tutti li suoi semicirculi pieni, e 
+dall'uno lato siano le femine infine al mezzo de la lunghezza, e da 
+indi in gi@u siano le parvolette che sono morte inanti che abbiano 
+avuto elezione di bene e di male, e cos@i da lato, a mano sinistra, 
+allato a la Vergine Maria sia Adam, et a lato Adam sia Moises, e poi li 
+altri che meritorno quello grado; e nei gradi sequenti, di sette in 
+sette, siano locati li maschi che credettono in Cristo venturo, infine 
+al mezzo; e dal mezzo in gi@u li parvuletti ancora locati di settenario 
+in settenario, secondo la fede e meriti de' parenti, siccome @e stato 
+detto delle femine.  Ancora dobbiamo considerare che da mano ritta 
+siede allato a la Vergine Maria santo Piero apostolo, e poi allato a 
+santo Piero santo Ioanni evangelista, e poi li altri Apostoli; e sotto 
+santo Piero, descendendo in gi@u per li gradi, dividendo ancora per 
+settenario e locando, secondo li meriti, tutti quelli che si salvorno 
+credendo in Cristo presente che 'l viddeno; e cos@i dall'altra parte 
+dallato a Mois@e, et a li altri di quel grado, si era santa Anna, madre 
+de la Vergine Maria; e sotto di lei, di grado in grado dividendo per 
+settenario infine al mezzo, tutte le femine che si salvorno in Cristo 
+presente che 'l viddeno; e dal mezzo in gi@u li loro parvuli, che non 
+ebbeno elezione, che si salvorno nella fede dei parenti.  E cos@i l'una 
+met@a della rosa @ae pieni tutti li suoi mezzi circuli, perch@e non vi 
+si aspetta pi@u niuno; e dall'altra met@a della rosa finge che sia nel 
+grado di sopra, incontra a la Nostra Donna santo Ioanni Batista, e di 
+sotto lui nel secondo grado santo Francesco, santo Benedetto, santo 
+Augustino, e ciascuno di sotto da s@e nei gradi descendenti, dividendo 
+per settenario, come @e stato detto de le Ebree, cos@i @ae li suoi 
+frati e monaci e li altri, secondo la loro perfezione de' meriti infine 
+al mezzo, e poi li parvuli batteggiati che sono salvati per lo 
+battismo, secondo li gradi de la fede dei padri, dividendo sempre per 
+settenario come detto @e; sicch@e in mezzo tra li omini del vecchio 
+Testamento, che credettono in Cristo venturo, e li omini della legge 
+evangelica che @anno creduto in Cristo venuto, sono in mezzo le femine 
+che credettono in Cristo presente, siccome muro che divide li vivi 
+uomini dalli altri, e dal lato di verso le femine che sono salvate, che 
+@anno creduto in Cristo venuto; e quelle che credettono in Cristo 
+venturo, sono in mezzo, come muro locati, li maschi che sono salvati, 
+credendo in Cristo presente; sicch@e tra le femine che credettono in 
+Cristo venturo, e quelle che credettono in Cristo venuto, sono li omini 
+che credettono in Cristo presente, siccome muro che divide l'una met@a 
+dall'altra dal lato ritto de la Vergine Maria; e dall'altro lato tra li 
+omini, che credettono in Cristo venturo, e quelli che credettono in 
+Cristo venuto, sono le femine che credettono in Cristo presente, 
+siccome muro dal lato sinistro de la Vergine Maria.  E questo @ae finto 
+l'autore, per mostrare che ogni beato @e salvato per li meriti della 
+fede, dividendoli in tre spezie; cio@e quelli che @anno creduto in 
+Cristo venturo; e quelli che @anno creduto in Cristo venuto; e quelli 
+che @anno creduto in Cristo presente.  E ciascuna di queste si divide 
+in maschi e femine, e cos@i sono sei differenzie; e ciascuna @ae 
+provetti e parvoli, e cos@i sono dodici differenzie, sicch@e le sei de' 
+provetti sono dal mezzo de la rosa ins@u, e le sei de' parvuli sono dal 
+mezzo ingi@u in verso lo fiore.  Et anco @e differenzia tra l'una met@a 
+della rosa divisa per lungo, che da la parte della Vergine Maria sono 
+tutti li scanni pieni; e la cagione @e manifesta: imper@o che ognuno, 
+che dovea credere in Cristo, v'@e, e non vi s'aspetta pi@u nessuno, e 
+cos@i di coloro, che credettono in Cristo presente; ma coloro, che 
+credettono in Cristo venuto, non vi sono anco tutti e non vi saranno 
+infine al d@i de l'iudicio; et allora si disfar@a lo mondo, che li 
+scanni de' cristiani saranno compiuti d'empiersi.  E per questo, che @e 
+detto, apparr@a chiaro lo testo, sicch@e ben dice che le femmine ebree 
+divideno tutte le follie de la rosa: imper@o che non sono da quello 
+lato, se non femine ebree in vani gradi, come detto @e, siccome 
+incontra loro sono pure femine cristiane in de' semicirculi non ancor 
+pieni.  Et assegna la cagione, dicendo: ^Perch@e~; cio@e imper@o che, 
+^secondo lo sguardo, che fee La fede in Cristo~; che ne fece due 
+principalmente: imper@o che la fede di quelli, che furno innanzi a 
+Cristo, ragguard@o Cristo venturo; e la fede di coloro, che furno e 
+saranno dopo Cristo, ragguard@o e ragguarda Cristo venuto, ^queste~; 
+cio@e anime ebree, ^sono il muro~; cio@e sono divise dalle cristiane, 
+come se uno muro fusse in mezzo di loro; e questo mezzo e muro si 
+possano dire quelli che sono sotto santo Piero, che credettono in 
+Cristo presente.  ^A che~; cio@e al qual muro, ^si parten~; cio@e si 
+divideno, ^le sacre scalee~; cio@e li santi circuli.  ^Da questa 
+parte~; che detta @e, ^onde 'l fiore~; cio@e da la quale parte lo 
+fiore, cio@e la rosa, ^@e maturo~; cio@e @e pieno: imper@o che, come lo 
+pomo maturo @ae la sua perfezione; cos@i questa parte de la rosa @ae la 
+sua perfezione, che @e piena, ^Di tutte le suo follie~; cio@e di tutte 
+le sue sedie, ^sono assisi~; cio@e fermati, ^Quei~; cio@e coloro cos@i 
+maschi come femine, secondo l'ordine che detto @e, ^che~; cio@e li 
+quali, ^credettono~; cio@e ebbono fede, ^in Cristo venturo~; cio@e in 
+Cristo, che dovea venire, et innanti la circuncisione, e dopo la 
+circuncisione.  ^Dall'altra parte~; cio@e della rosa, ^onde~; cio@e da 
+la quale, ^sono i semicirculi~, cio@e li mezzi cerchi de la detta rosa, 
+^intercisi~; cio@e tramezzati e variati, ^Di voto~; cio@e di vacuo: 
+imper@o che v'@a anco assai de' luoghi vuoti, perch@e non @e anco 
+compiuto lo numero de li eletti, ^si stanno~; cio@e dall'altra parte, 
+che detta @e, ^Quei~; cio@e coloro, cos@i maschi come femine, ^ch'a 
+Cristo venuto ebber li visi~; cio@e li cristiani, che credettono in 
+Cristo venuto, quando furno presenti a lui, et anco quelli che 
+credettono e crederanno dopo lui, staranno quinde; e per@o dice 
+ch'ebbono li volti loro a Cristo venuto; e cos@i si debbe intendere 
+anco di quelli, che crederranno nel futuro.
+
+	|28-48.~  In questi sette ternari lo nostro autore finge come santo 
+Bernardo, continuando lo suo parlare, dimostrasse a lui li cristiani 
+beati che sono in vita eterna, poi che dimostrato li avea li Ebrei, 
+dicendo: ^E come quinci~; cio@e e siccome da questa parte, che detta 
+@e, facendo similitudine, ^il glorioso scanno~; cio@e la gloriosa sedia 
+de' beati, cio@e lo primo, ^De la Donna del Cielo~; cio@e della Vergine 
+Maria, ^e li altri scanni~; cio@e e l'altre sedie, ^Di sotto lui~; 
+cio@e li quali sono sotto quello della Vergine Maria, ^cotanta cerna 
+fanno~; cio@e fanno s@i grandi brigate e divisioni, come detto @e: 
+imper@o che in su quello de la Vergine Maria poghi ve n'erano; ma in su 
+li altri di sotto v'erano assai.  ^Cos@i~; ecco che adatta la 
+similitudine, ^di contra~; cio@e a quello della Vergine Maria, ^quel~; 
+cio@e scanno, ^del gran Ioanni~; cio@e di santo Ioanni Batista, ^Che~; 
+cio@e lo quale, ^sempre santo~; cio@e innanzi che nascesse fu 
+santificato nel ventre della madre, cio@e di santa Elisabet, ^il 
+diserto~: imper@o che d'undici anni and@o nel diserto a fare 
+penitenzia: elli fu lo precursore di Cristo, ^e 'l martiro~: imper@o 
+che in tatto dicapitare da Erode, ^E l'inferno sofferse da du' anni~; 
+cio@e stette nel limbo ad aspettare la venuta di Cristo a limbo colli 
+altri santi padri da due anni: imper@o che due anni innanzi a Cristo fu 
+morto.  ^E sotto lui~; cio@e sotto lo scanno di santo Ioanni, 
+^sortiro~; cio@e per sorte e per loro parte ebbeno, o vogliamo dire per 
+sorte diviseno e partittono in cerne, ^cos@i in cerne~; cio@e brigate 
+grandissime divise in cerne, secondo li gradi de' meriti, cio@e li loro 
+frati e monaci et altri, che sono stati di simile merito, ^Francesco~; 
+cio@e santo Francesco, e per lui s'intende anco santo Domenico: imper@o 
+che, come fu detto di sopra nel XII, quello, che si dice dell'uno, 
+s'intende anco dell'altro, ^Benedetto~; cio@e santo Benedetto da 
+Nurcia, che fece l'ordine de' monaci di Camaldoli, e per lui 
+s'intendono tutti li altri monaci et eremiti santi, che sono stati, ^et 
+Augustino~; che fece anco religione e fu di Cartagine d'Africa, dottore 
+de la Chiesa, e per lui s'intendono li altri Dottori essere ancora 
+locati in su quello scanno, ^Et altri~; cio@e santi, che sono stati ne 
+la santa Chiesa, ^fin quaggi@u~; cio@e infine a questo fondo de la 
+rosa, dove finge che fusse lo lume, che beatificava li beati che erano 
+in su le sedie, siccome @e lo giallo della rosa; e quine finge l'autore 
+che fusse elli e santo Bernardo, ^di giro in giro~; cio@e di 
+semicirculo in semicirculo, intendendo quelli essere divisi per 
+settenario infine al mezzo, come fu detto di sopra de li Ebrei.  ^Or 
+mira~; cio@e tu, Dante, ^l'alto proveder divino~; cio@e l'alta 
+providenzia d'Iddio, ^Che l'uno e l'altro aspetto de la fede~; cio@e lo 
+ragguardamento de la fede di coloro che @anno creduto in Cristo 
+venturo, e di coloro che @anno creduto e crederanno in Cristo venuto, 
+^Equalmente~; cio@e parimente, ^empier@a questo giardino~; cio@e 
+empier@a questo luogo dilettevile de' beati: imper@o che l'uno lato @e 
+gi@a pieno, cio@e quello delli Ebrei, e l'altro @e in parte pieno et in 
+parte no: imper@o che @e quello de' cristiani, che non sono anco tanti 
+quanti Iddio @ae predestinato essere lo numero de li eletti: quando 
+saranno tanti, quanti ne capono ne le dette sedie, fia adempiuta la 
+predestinazione d'Iddio, et allora si sfar@a lo mondo, e Cristo verr@a 
+ad iudicare l'umana generazione.  ^E sappi~; cio@e tu, Dante, ^che dal 
+grado~; cio@e che da quella sedia, ^ingi@u~; cio@e in verso 'l fondo de 
+la rosa, ^che~; cio@e lo quale grado, ^fiede~; cio@e divide, ^A mezzo 
+'l tratto~; cio@e a mezza la lunghezza de la detta rosa, ^le due 
+discrezioni~; cio@e le due differenzie e divisioni, ^Per nullo proprio 
+merito si siede~: imper@o che in quelli scanni, che sono dal mezzo in 
+gi@u, stanno li parvoli che sono salvati nella fede de' parenti, dal 
+lato de li Ebrei; e dal lato de' cristiani, quelli parguli che sono 
+salvati ne la fede de' parenti e per lo battismo; e per@o dice che non 
+vi ^si siede Per nullo proprio merito~: imper@o che per s@e nulla @anno 
+meritato: imper@o che non sono tanto vissuti, che abbiano avuto 
+elezione.  E nota che sotto li gradi de le femine sono le femine, e 
+sotto li gradi de' maschi sono li maschi: imper@o che cos@i finge 
+l'autore che santo Bernardo li mostrasse la distinzione de' beati.  ^Ma 
+per li altrui~; cio@e meriti si siede ne' detti scanni, ^con certe 
+condizioni~: imper@o che dal lato de li Ebrei sono quelli che sono 
+salvati solamente ne la fede de' parenti, e quelli che sono salvati 
+nella detta fede e ne la circoncisione che Iddio diede in segno ad 
+Abraam, che fu lo primo che si circuncidesse; e dal lato de' cristiani 
+sono quelli parvoli, che sono salvati ne la fede de' parenti e nel 
+battismo.  ^Ch@e~; cio@e imper@o che, ^tutti questi sono spirti 
+asciolti~; cio@e assoluti e liberati dal peccato originale per la 
+predestinazione divina, ^Prima ch'avesser~; cio@e innanzi che li detti 
+spiriti avessono, ^vere elezioni~; cio@e che avessono discrezione s@i, 
+che potessono cognoscere lo bene dal male, e cognoscendo eleggere lo 
+bene e lasciare lo male.  ^Ben te ne puoi~; cio@e tu, Dante, 
+^accorger~; cio@e avvedere, ^per li volti~; cio@e loro, che sono 
+puerili, ^Et ancor per le voci puerili~; cio@e che @anno le voci 
+fanciullesche, ^Se tu~; cio@e Dante, ^ragguardi bene~; cio@e li lor 
+volti, ^e se li ascolti~; cio@e li detti fanciulli, quando cantano le 
+lode d'Iddio: imper@o che in vita eterna li beati sempre cantano le 
+lode d'Iddio.
+
+	|49-60.~  In questi quattro ternari lo nostro autore finge che santo 
+Bernardo movesse uno dubbio a lui, lo quale cognobbe essere ne la sua 
+mente, per solverlo poi; cio@e: Se queste sedie sono date ai beati 
+parvuli casualmente, o per iuste cagioni.  Et a questo risponde prima 
+generalmente, e poi rende de la risposta ne la sequente parte la 
+ragione.  Dice prima cos@i: ^Or~; cio@e avale, ^dubbi~; cio@e @ai 
+dubbio, ^tu~; cio@e Dante, ^e dubitando sili~; cio@e et avendo 
+dubitazione, ti stai cheto e non dimandi.  ^Ma io~; cio@e Bernardo, ^ti 
+solver@o~; cio@e a te Dante, ^forte legame~; cio@e questo forte dubbio 
+che tiene occupata la tua mente, siccome lo legame tiene lo corpo, ^In 
+che~; cio@e nel quale legame, ^ti stringon~; cio@e stringono te Dante, 
+^li pensier sottili~; li quali tu @ai intorno a questo ordine: imper@o 
+che tu dubiti: Questi luoghi sono dati ai beati parvuli per cagione, o 
+per ragione?  Et io ti dico che sono dati per cagioni iustissime; et 
+ecco la ragione, per che.  ^Dentro all'ampiezza di questo reame~; cio@e 
+dentro al regno d'Iddio, ^Casual punto~; cio@e punto, che vegna da 
+caso; et @e caso evenimento non pensato per insieme scorrenti cagioni 
+in quelle cose, che si fanno per alcuna altra cagione; o vero, caso @e 
+cagione per accidente di cose, che avvegnano rade volte in quelle cose 
+che per altra causa si fanno; o vero, caso si dice, perch@e viene senza 
+cagione, e secondo questo modo ultimo parla santo Bernardo; et @e 
+differenzia tra caso e fortuna: imper@o che caso @e generale, che @e in 
+tutte le cose; e fortuna @e ine' fatti de li omini tanto; e perch@e 
+caso, pigliandolo a quello terzo ultimo modo, pare escludere la Divina 
+Providenzia, per@o dice l'autore che nel regno della Divina 
+Providenzia, ^non pu@o aver sito~; cio@e non pu@o aver luogo casual 
+punto, preso caso al terzo modo, ^Se non come tristizia, sete, o fame~; 
+queste tre cose significano imperfezione, e nel paradiso ogni cosa @e 
+perfetta: tristizia @e privamento di letizia che @e bene perfetto 
+dell'anima, dunqua non pu@o essere in paradiso dov'@e perfetto bene: 
+sete @e indigenzia di bere, e fame @e indigenzia di mangiare, et in 
+paradiso nulla indigenzia vi pu@o essere, anco v'@e ogni sufficienzia e 
+perfezione.  ^Ch@e~; cio@e imper@o che, ^per eterna legge~; cio@e per 
+la legge divina, che @e iustissima, che mai non ebbe principio, n@e 
+debbe avere fine, ^@e stabilito~; cio@e @e fermato et ordinato, cio@e 
+per legge di iustizia, ^Quantunche vedi~; cio@e ogni cosa, che tu vedi, 
+^s@i che iustamente~; cio@e per s@i fatto modo, che con iustizia, ^Ci 
+si risponde~, cio@e @e convenienzia, secondo iustizia, tra lo luogo e 
+lo locato, come @e tra l'anello e 'l dito; cio@e che se l'anello non 
+fusse capace del dito non lo terrebbe, e cos@i se lo luogo non fusse 
+capace dell'anima non vi starebbe; e per@o, dice: ^da l'anello al 
+dito~; cio@e da lo luogo al locato.  ^E per@o~; ecco che conchiude, 
+^questa festinata gente~; cio@e questi, che sono morti parvuli inanti 
+che abbiano avuto elezione; e per@o dice ^gente festinata~; cio@e 
+affrettata, ^A vera vita~; ecco a che ella @e affrettata, cio@e a vera 
+vita, e questo, ^non @e sine causa~; cio@e senza iusta cagione, ^pi@u e 
+meno eccellente~; cio@e che l'uno avanza l'altro, e l'altro @e avanzato 
+dall'uno, ^Intra s@e~; cio@e per rispetto di s@e medesimo, cio@e tra 
+loro, cio@e che l'uno @a pi@u beatitudine che l'altro, ^qui~; cio@e in 
+questo luogo, cio@e in paradiso.
+
+	|64-75.~  In questi cinque ternari lo nostro autore finge che santo 
+Bernardo, seguitando oltra la sua diciaria, manifesta che Iddio per sua 
+grazia predestina ogniuno: e come ciascuno @e predestinato; cos@i 
+concorre colli suo meriti, e cos@i poi per la providenzia d'Iddio @e 
+premiato, dicendo cos@i: ^Lo Rege~; cio@e Iddio, eterno re d'ogni cosa, 
+^per cui~; cio@e per lo quale, ^questo regno~; cio@e di paradiso, 
+^pausa~; cio@e si riposa, ^In tanto amore~; cio@e in s@i grande amore, 
+che ciascuno ama Iddio sopra ogni altra cosa, e lo suo prossimo come 
+s@e medesimo, ^et in tanto diletto~: imper@o che in quello regno @e 
+ogni vero diletto in tanto, ^Che nulla volunt@a @e di pi@u ausa~; non 
+v'@e alcuno, che pi@u desideri: ciascuno v'@a tanto diletto, quanto 
+desidera, ^Le menti tutte~; cio@e umane, ^nel suo lieto aspetto~; cio@e 
+nel suo lieto ragguardamento: lo ragguardare d'Iddio @e donare sua 
+grazia, ^Creando~; cio@e quando le crea le menti umane: Iddio di niente 
+crea l'anima umana del ventre de la madre, nel corpo organizzato, nel 
+suo lieto ragguardamento: imper@o che lietamente lo Creatore ragguarda 
+la sua creatura, ^dota~; cio@e empie, ^di grazia~; sua le menti umane, 
+ch'elli crea, ^a suo piacer~; cio@e quando li piace: imper@o che a 
+ciascuna dona de la sua grazia quanto li piace, ^Diversamente~: imper@o 
+che a chi ne d@a pi@u, et a chi meno, secondo che a lui piace; e questo 
+@e manifesto: imper@o che mai non si trov@o omo pari all'altro in 
+sapere et in virt@u, sicch@e qualche differenzia non vi sia, siccome 
+non si truovano le facce equali.  E che uno n'abbia pi@u, et un altro 
+meno de la sua grazia, questo @e perch@e cos@i li piace: non se ne pu@o 
+rendere ragione dall'umano intelletto, che non aggiunge tanto alto; e 
+per@o dice: ^e qui basti l'effetto~; cio@e e di questo non cercare 
+ragione: basta che vedi in effetto che cos@i @e.  ^E ci@o~; cio@e e 
+questo che detto @e, ^espresso~; cio@e manifesto, ^e chiaro vi si 
+nota~; cio@e a voi uomini, ^Ne la Scrittura santa~: imper@o che nella 
+Bibbia, Malachiel, primo: ^Iacob dilexi, Esa@u odio habui~, disse 
+Iddio, ^in quei gemelli~; cio@e in quelli due fratelli, ^Che ne la 
+Madre~; cio@e li quali nel ventre della madre loro, ^ebber l'ira 
+commota~; cio@e che si corucciorno insieme.  Leggesi ^Genesis~ XXV che 
+Isaac, non avendo figliuoli di Rebecca che era sterile, preg@o Iddio 
+che li desse di Rebecca figliuoli: esauditte Iddio li suoi preghi, et 
+ingravid@o Rebecca di due figliuoli, che quando erano nel ventre suo 
+facevano commozione grandissima insieme e romore; unde Isaac dimand@o e 
+preg@o Iddio che li revelasse quel, che questo significava.  Et Iddio 
+li disse che di Rebecca doveano nascere due figliuoli, che sarebbono 
+inimici insieme; che il popolo, che uscirebbe del maggiore, servirebbe 
+al popolo che escirebbe del minore.  Nacqueno poi questi due fratelli, 
+l'uno innanzi, tutto rosso e piloso, grande e formato; e l'altro nero e 
+piccolo, e tenea per li piedi lo maggiore come dicesse: Non uscirai 
+sanza me.  L'uno, cio@e lo primo, fu chiamato Esa@u; l'altro, Iacob: 
+perch@e lo minore fusse predestinato, e lo maggiore reprobato non se ne 
+pu@o rendere ragione, se non che piacque cos@i a Dio.  E cos@i, perch@e 
+uno omo abbia pi@u grazia che un altro, non se ne pu@o rendere ragione, 
+se non che cos@i piace a Dio di dare pi@u grazia ad uno che ad un 
+altro; ma secondo la grazia l'uno opera meglio che l'altro, e cos@i 
+acquista maggior merito et @a maggiore gloria.  ^Per@o, secondo 'l 
+color dei capelli~; ecco che parla secondo l'esemplo posto, cio@e 
+secondo che a Dio piacque di dare pi@u grazia ad Iacob, che fu nero et 
+ebbe li capelli neri, che ad Esa@u, che fu rosso et ebbe li capelli 
+rossi; cio@e secondo che a Dio piacque di dare all'uno li capelli neri, 
+et all'altro rossi, cos@i li piacque di dare all'uno pi@u grazia che 
+all'altro; e per@o dice: ^l'altissimo lume~; cio@e di paradiso, che @e 
+lo lume che beatifica li beati, che sta nel fondo della rosa, ^convien 
+che s'incappelli~; cio@e abbia intorno a s@e su per le sedie a modo di 
+cappello, ^Degnamente Di cotal grazia~; cio@e di s@i fatta grazia, 
+chente Iddio @ae voluto donare a l'anima.  ^Dunque~; ecco che 
+conchiude, dicendo: ^son Locati~; cio@e li beati parvuli, ^per gradi 
+differenti~; cio@e per diversi gradi, ^senza merc@e di lor costume~; 
+cio@e senza merito di loro opere, ^Sol~; cio@e solamente, ^differendo~; 
+cio@e avendo differenzia l'uno dall'altro, ^nel primiero acume~; cio@e 
+ne la prima grazia, che Iddio dona a l'anima, quando la crea.  Come 
+Iddio, quando cre@o li Agnoli, all'uno diede pi@u grazia che all'altro, 
+e per quella grazia ebbono maggiore grado l'uno che l'altro ne la 
+beatitudine, e per l'obedienzia furno confirmati nella grazia; e cos@i, 
+quando crea l'anime umane, d@a all'una pi@u grazia che all'altra, e 
+cos@i stando in quella grazia, obediendo a lui, @ae poi la gloria; 
+dunque lo nostro bene operare @e cagione che non perdiamo la grazia, 
+per la quale meritiamo la beatitudine: e come a maggior grazia maggiore 
+merito risponde; cos@i a maggior grazia, maggiore beatitudine; e per@o 
+conchiude che la cagione della differenzia non sta nell'opere nostre; 
+ma nella grazia donata da Dio.
+
+	|76-84.~  In questi tre ternari finge lo nostro autore che santo 
+Bernardo li dichiarasse come l'umana generazione in tutte l'etadi si 
+salvava; e fa menzione di tre etadi, cio@e de l'et@a della innocenzia, 
+di quelli che vissono sotto la legge de la natura; e de l'et@a di 
+coloro che vissono sotto la legge della Scrittura; e de l'et@a di 
+coloro che vissono sotto la legge della grazia, dicendo cos@i: 
+^Bastavasi~; cio@e era sofficiente ai parvuli ad avere beatitudine e 
+vita eterna, ^ne' seculi recenti~; cio@e ne seculi nuovi, quando Adam 
+et Eva furno cacciati del paradiso terrestro, infine presso al tempo 
+d'Abraam; e ben dice seculo: imper@o che seculo @e proprie tempo di 
+cento anni, e molti furno li tempi di cento anni infine ad Abraam, che 
+fu 3084 anni e furno pi@u etadi: imper@o che la prima fu d'Adam a No@e; 
+la seconda, da No@e ad Abraam, ^per aver salute~; cio@e per esser salvi 
+e non essere dannati a le pene de lo inferno, ^Solamente la fede de' 
+parenti~; cio@e la fede del padre e della madre.  Potrebbe l'uomo 
+dubitare e dire: Che fede ebbe quella prima et@a?  Ebbe questa che, 
+essendo ancora nuovi nel mondo, viveano puramente con questa speranza, 
+che quando a Dio piacesse, riceverebbono misericordia da lui, e che 
+elli mandrebbe loro chi li liberasse, et in questo fermamente 
+credettono.  Et in questa fede, operando bene, non andavano a 
+dannazione; ma andavano a limbo, e cos@i li loro parvuli si salvavano 
+ne la fede de' parenti, et andavano a limbo predestinati da la grazia 
+d'Iddio al grado della beatitudine, che doveano poi tenere.  
+^Coll'innocenzia~; cio@e insieme la fede de' parenti co la innocenzia, 
+che aveano li parvuli, bastava nel tempo de la legge naturale ad avere 
+salute; e li gradi de la beatitudine si davano loro, secondo la 
+predestinazione de la grazia.  ^Poi che le prime etadi~; cio@e la prima 
+che fu da Adam a No@e, e la seconda che fu da No@e ad Abraam, ^fuor 
+compiute~; cio@e venne, poi che furno compiute la prima e seconda et@a, 
+la terza, che fu da Abraam infine a David; et allora s'incominci@o a 
+vivere secondo la legge della Scrittura e de la servit@u: imper@o che, 
+cresciuta la malizia et inchinandosi li omini all'idolatria et a le 
+concupiscenzie, diede Iddio comandamento ad Abraam ch'elli si 
+circuncidesse e tutti li suoi, in segno della fede che aveano in Dio, e 
+cos@i fece; et ine la fede de' parenti e nella circuncisione, insieme 
+coll'innocenzia si salvorno li parvuli; e per@o dice: ^Convenne ai 
+maschi~; cio@e parvuli, ^acquistar virtute~; per la quale si 
+salvasseno, ^all'innocenti penne~; cio@e oltre le penne de la 
+innocenzia, la quale li levava, ^Per circuncider~: imper@o che si 
+circuncidevano, e senza la circuncisione non si salvavano: imper@o che 
+Iddio l'avea comandato.  ^Ma poi che 'l tempo de la Grazia venne~; che 
+fu quando Cristo venne, che instituitte il battismo, ^Senza 'l battismo 
+perfetto di Cristo~: imper@o che Cristo, quando fu, l'ordin@o e disse: 
+^Qui crediderit, et baptizatus fuerit, salvus erit: qui vero non 
+crediderit, condemnabitur~.  -- ^Tale innocenzia~; cio@e quale @e 
+quella de' parvuli non battezzati, ^laggi@u~; cio@e nel mondo, o vero 
+nel limbo, ^si ritenne~; cio@e si stette e non fu accettata a salute 
+tale innocenzia: se non era battezzato lo fanciullo non andava a 
+salute, bench@e li parenti fusseno fedeli, e lo fanciullo fusse 
+innocente; ma andava nel limbo; e per@o dice: ^si ritenne laggi@u~: 
+imper@o che quass@u non merit@o di venire.  Ma debbiamo sapere che sono 
+tre battismi; cio@e d'acqua, di sangue e di Spirito Santo, e per@o 
+essendo morto uno fanciullo innanti che si battezzasse che fusse tolto 
+da l'infedeli, et ucciso e non lasciato battezzare, intenderebbesi 
+battezzato nel sangue suo.  E qui finisce la prima lezione del canto 
+XXXII, et incominciasi la seconda.
+	^Ragguarda omai~ ec.  In questa seconda lezione del canto XXXII lo 
+nostro autore finge che santo Bernardo, continuando lo suo parlare, lo 
+inducesse a ragguardare la Nostra Donna e li altri santi che erano 
+allato a lei; e com'elli fece fine a la narrazione de' beati.  E 
+dividesi in parti cinque: imper@o che prima finge ch'elli lo 
+confortasse a ragguardare la Vergine Maria; nella seconda finge 
+com'elli dimand@o santo Bernardo, chi era quello Agnol, che pi@u che li 
+altri faceva festa a la Vergine Maria, e com'elli li rispuose, et 
+incominciasi quine: ^O santo Padre~ ec.; ne la terza parte finge come 
+santo Bernardo lo indusse a ragguardare li santi, che erano co la 
+Vergine Maria, et incominciasi quine: ^Ma viene omai colli occhi~ ec.; 
+ne la quarta parte finge che, seguitando, li mostr@o santo Ioanni 
+evangelista e Moises, et incominciasi quine: ^E quei, che vidde~ ec.; 
+nella quinta parte finge che santo Bernardo lo inducesse a fare punto a 
+tale narrazione, et incominciasi quine: ^Ma perch@e 'l tempo~ ec.  
+Divisa la lezione, ora @e da vedere lo testo co la esposizione 
+letterale, allegorica o vero morale.
+
+	|85-99.~  In questi cinque ternari lo nostro autore finge che santo 
+Bernardo, continuando lo suo parlare, compiuta la disgressione sua, 
+ritornasse a mostrarli li beati e confortasselo a ragguardare la 
+Vergine Maria, dicendo cos@i: ^Ragguarda~; cio@e tu, Dante, ^omai~; 
+cio@e ingiummai, ^ne la faccia~; cio@e de la Vergine Maria, ^ch'a 
+Cristo Pi@u si somillia~; cio@e la quale faccia pi@u si somillia a 
+Cristo, che nessuna altra; et assegna la cagione, per ch'elli lo 
+conforta che quella ragguardi, ^ch@e~; cio@e imper@o che, ^la sua 
+chiarezza~; cio@e di quella faccia de la Vergine Maria, ^Sola~; senza 
+altra cosa, ^ti pu@o disporre~; cio@e pu@o disponere te Dante, ^a veder 
+Cristo~; lo quale tu @ai voglia di vedere.  ^Io~; cio@e Dante; ecco che 
+dimostra ch'elli facesse quello, che li disse santo Bernardo; e dice 
+quel che ne seguit@o, ^viddi sopra lei~; cio@e sopra la faccia de la 
+Vergine Maria, e sopra la Vergine Maria, ^tanta allegrezza Piover~; 
+cio@e discendere sopra da Dio, ^portata ne le menti sante~; cio@e delli 
+Agnoli, ^Create a trasvolar per quella altezza~: li Agnoli furno creati 
+da Dio, perch@e portassino le sue imbasciate, e per@o s'interpetra 
+Angelo messo, ^Che quantunche io~; cio@e Dante, ^avea visto~; cio@e 
+avea veduto, ^davante~; cio@e dinanti, ^Di tanta ammirazion non mi 
+sospese~; cio@e non fe sospeso e dubbioso di tanta meraviglia, di 
+quanta mi fe quella allegrezza che era portata dalli Angeli a la 
+Vergine Maria, ^N@e mi mostr@o~; cio@e quantunqua io avea veduto prima, 
+^d'Iddio tanto sembiante~; cio@e tanta similitudine d'Iddio.  ^E quello 
+Amor~; cio@e quello Agnolo, lo quale chiama amore, perch@e tutti sono 
+pieni d'amore e di carit@a, ^che~; cio@e lo quale, ^prima l@i discese~; 
+cio@e discese prima in quello luogo, ^Cantando: Ave, Maria, gratia 
+plena~; ecco che finge l'autore che questo fusse l'agnolo Gabriel, lo 
+quale port@o l'ambasciata de la incarnazione del Verbo Divino; e per@o 
+finge che ora cantasse quella salutazione, che diede allora a la 
+Vergine Maria, ^Dinanzi a lei~; cio@e a la Vergine Maria, ^le sue ali 
+distese~; cio@e facendo a lei festa e mostrandosi a lei pieno di 
+carit@a e d'amore: aprire l'ali e distendere @e aprire la sua volunt@a 
+e lo suo ardore, ^Rispuose a la divina cantilena~; cio@e a quella 
+salutazione che avea incominciato l'agnolo Gabriel, che avea detto: 
+^Cantando: Ave, Maria, gratia plena~ --, ^Da tutte parti~; cio@e da la 
+parte de li Ebrei, e da la parte de' cristiani, ^la beata Corte~; cio@e 
+la congregazione de' beati; e che rispuose?  Lo compimento de 
+l'orazione: ^Dominus tecum, benedicta tu in mulieribus, et benedictus 
+fructus ventris tui Iesus~.  -- ^S@i~; cio@e per s@i fatto modo, ^che 
+ogni vista~; cio@e ogni beato spirito, ^sen fe pi@u serena~; cio@e se 
+ne fe pi@u chiara, che prima.
+
+	|100-114.~  In questi cinque ternari lo nostro autore finge ch'elli 
+dimandasse santo Bernardo chi era quello Agnolo, che detto @e di sopra; 
+e che santo Bernardo lo dichiarasse chi elli era, dicendo cos@i: ^O 
+santo Padre~; cio@e o santo Bernardo, che fusti padre nel mondo ai tuoi 
+monaci, ^che~; cio@e lo quale, ^per me comporte L'esser quaggi@u~; 
+cio@e sostieni per me Dante essere qui in questo fondo de la rosa, 
+^lassando 'l dolce loco~; cio@e lassando la sedia tua, dove @e la 
+beatitudine tua, ^Nel qual~; cio@e loco, ^tu~; cio@e santo Bernardo, 
+^siedi per eterna sorte~; cio@e per predestinazione divina fatta di te 
+ab eterno: imper@o che Iddio ab eterno predestin@o ciascuno spirito al 
+grado della beatitudine sua, ^Qual @e quell'Angel, che~; cio@e lo 
+quale, ^con tanto gioco~; cio@e con tanta festa e letizia, ^Guarda ne 
+li occhi~; cio@e ragguarda nelli occhi, per attender meglio a la sua 
+beatitudine et a la sua volunt@a, ^la nostra Regina~; cio@e la Vergine 
+Maria, ^Innamorato~; cio@e di lei, ^s@i~; cio@e per s@i fatto modo, 
+^che par di foco?~  L'agnolo Gabriel, che annunzi@o Cristo a la Vergine 
+Maria, fu del supremo ordine, cio@e de' Serafini che sono tutti ardenti 
+di carit@a e d'amore d'Iddio e del prossimo.  ^Cos@i~; cio@e come io 
+@one detto, ^ricorsi~; cio@e io Dante, ^ancor a la dottrina Di Colui~; 
+cio@e di santo Bernando, ^ch'abbelliva~; cio@e lo quale diventava bello 
+cio@e si rallegrava, ^di Maria~; cio@e dicendo de la Vergine Maria: 
+imper@o che santo Bernardo fu molto devoto de la Vergine Maria; e 
+quanto pi@u ne diceva, tanto pi@u pareva che in lui crescesse lo 
+fervore in verso la Vergine Maria, ^Come del Sol la stella matutina~.  
+Fa una similitudine che, cos@i si rallegrava santo Bernardo, ragionando 
+della Vergine Maria, come fa la stella Diana del nascimento del Sole.  
+^Et elli~; cio@e santo Bernardo, ^a me~; cio@e disse a me Dante, 
+s'intende: ^Baldezza~; cio@e baldanza, ^e leggiadria~; cio@e letizia, 
+^Quant'esser pu@o~; cio@e quanta baldanza e letizia puote essere, ^in 
+Angelo, o in alma~; cio@e in anima, ^Tutt'@e in lui~; cio@e nel detto 
+Agnolo di baldanza e di letizia quanto esser pu@o, ^e s@i volliam~; 
+cio@e noi tutti beati; ecco che pone che le volunt@a de' beati siano 
+concordevili, ^che sia~; quello, ch'@e detto; et assegna la cagione: 
+^Perch'elli @e quello~; cio@e imper@o ch'elli @e colui, ^che port@o la 
+palma~; cio@e lo segno de la vittoria, ch'ella vinceva tutte l'altre 
+creature in piacere a Dio: Iddio elesse lei, siccome quella che pi@u li 
+piacea, ^Giuso~; cio@e nel mondo, ^a Maria~; cio@e a la Vergine Maria, 
+^quando il Figliuol d'Iddio Carcar si volle~; cio@e si volse caricare, 
+^de la nostra salma~; cio@e della nostra soma, cio@e della nostra 
+carne; e, caricandosi di quella, diventando omo, si caric@o di tutte le 
+indigenzie nostre: e tanto pi@u si caric@o, quanto elli si dispuose co 
+la sua carne sodisfare per lo peccato nostro.  Seguita.
+
+	|115-126.~  In questi quattro ternari lo nostro autore finge come 
+santo Bernardo lo sollicit@o ch'elli guardasse li altri beati, dicendo 
+cos@i: ^Ma viene omai~; cio@e tu, Dante, viene oggi mai, ^colli occhi~; 
+cio@e tuoi ragguardando, ^siccom'io~; cio@e Bernardo, ^Andr@o 
+parlando~; cio@e intende colli occhi della mente siccome ti mosterr@o 
+scrivendo, intendendo allegoricamente, ^e nota~; cio@e tu, Dante, ^i 
+gran patrici~; cio@e li grandi padri: chiamavansi a Roma ^padri~ 
+quelli, che consigliavano la republica, e ^patricio~ si chiamava chi 
+era di quello ordine, ^Di questo imperio iustissimo e pio~: come in 
+terra lo regno de' Romani si chiam@o imperio; cos@i chiama ora l'autore 
+lo regno del vero imperadore, Iddio onnipotente, imperio; ma adiungevi 
+li adiettivi verissimi: imper@o che quine @e somma iustizia e carit@a.  
+^Quei du'~; ecco che li mostra, e per@o dice: ^che seggon lass@u~; 
+cio@e li quali siedono nel supremo scanno, ^pi@u felici~; che li altri, 
+s'intende; et assegna la cagione, per che, ^Per essere propinquissimi 
+ad Augusta~; cio@e perch@e sono pressissimi a la Vergine Maria: imper@o 
+che, come lo imperadore si chiama Augusto e la imperadrice Augusta, che 
+viene a dire ^accrescitrice~; lo quale adiettivo prima fu dato ad 
+Ottaviano: imper@o che accrebbe lo imperio di Roma, maggiormente questo 
+nome si conviene a Cristo et a la Vergine Maria, che @anno accresciuto 
+et accresceno lo regno di vita eterna, ^Son de la rosa quasi du' 
+radici~; cio@e sono come due princ@ipi di questa beata vita, cio@e Adam 
+e santo Piero: Adam fu principio dell'una setta, e santo Piero 
+dell'altra: Adam, de li Ebrei; e santo Piero, dei cristiani.  ^Colui; 
+che da sinistra~; cio@e quello che da la mano manca, ^li s'adiusta~; 
+ci@o li s'approssima, sicch@e nessuno altro n'@e in mezzo: ^iuxta~ @e 
+preposizione apo lo Grammatico, che viene a dire ^a lato~; e per@o 
+^adiustare~ @e stare allato, e verbo preposizionale lo chiama lo 
+Grammatico.  ^@E 'l Padre~; cio@e Adam, ^per lo cui ardito gusto~; 
+cio@e per lo ardito gustamento del quale: imper@o che ebbe ardimento 
+d'assaggiare lo pomo vietatoli da Dio nel paradiso terrestro, ^L'umana 
+spezie tanto amaro~; cio@e tanta amaritudine, ^gusta~; cio@e assaggia.  
+Quanto siano l'amaritudini, che l'omo sostiene per lo peccato d'Adam, 
+ognuno lo prova; ma in somma l'omo vive con fatica, dove prima non 
+s'affaticava, siccome disse Iddio ad Adam: ^In sudore vultus tui 
+vesceris pane tuo: maledicta terra in opere tuo~ ec.  Oltra questo @ae 
+avuto l'omo la morte corporale, siccome dice la Scrittura: ^Statutum 
+est omnibus hominibus semel mori, et propter peccatum intravit mors in 
+orbem terrarum~.  Eraci la morte eterna; ma la passione di Cristo ce 
+n'@a liberato, se noi vorremo credere a lui; e molte altre incomodit@a 
+di quinde sono seguitate a l'omo.  ^Dal destro~; cio@e dal lato ritto, 
+^vedi~; cio@e tu, Dante, ^quel Padre vetusto~; cio@e quel padre 
+antiquo, ^Di santa Chiesa~; cio@e santo Piero apostolo, ^cui~; cio@e al 
+quale, ^Cristo le chiavi~; cio@e quelle che apreno lo purgatorio, de le 
+quali fu detto nel canto XXVII, et apreno ancora questa rosa ai beati, 
+che senza pena di purgatorio vegnano in paradiso, assoluti da ogni 
+peccato per l'autorit@a papale, ^Raccomand@o~; cio@e Cristo a san 
+Piero, quando disse: ^Et tibi dabo claves~ ec. --, ^di questo fior 
+vetusto~; cio@e di questo fiore antiquo; cio@e di questa beatitudine, 
+la quale @ae figurato in forma di rosa; ma dice che vecchio @e questo 
+fiore: imper@o che Iddio ab eterno costituitte quello luogo ai beati.  
+Seguita.
+
+	|127-138.~  In questi quattro ternari lo nostro autore finge che santo 
+Bernardo, seguitando lo suo parlare, dimostr@o a lui delli altri beati 
+che non li avea mostrato infine a qui, dicendo: ^E quei~; cio@e e 
+colui, ^che vidde~; cio@e lo quale vidde, ^tutt'i tempi gravi~; cio@e 
+tutti li tempi d'avversit@a e di persecuzione, ^Pria che morisse~; 
+cio@e innanzi che morisse, ^de la bella sposa~; cio@e della santa 
+Chiesa, la quale si dice sposa di Cristo, ^Che~; cio@e la quale, 
+^s'acquist@o co la lancia e coi clavi~: imper@o che Cristo, morendo in 
+su la croce dove fu chiavato coi chiavi e ferito co la lancia nel suo 
+costato, acquist@o perdonanza ai fideli cristiani; sicch@e, rimesso lo 
+peccato del primo omo et acquistata la grazia per la sua passione, 
+meritasse d'andare a stare coniunta co lui in vita eterna.  E questi fu 
+santo Ioanni evangelista, che scrisse l'Apocalissi ne l'isula Patmos, 
+lo quale s'interpetra libro di revelazioni: imper@o che quine li fu 
+mostrato tutte le persecuzioni, che dovea avere la santa Chiesa.  
+^Siede lunghesso~; cio@e siede allato a lui, cio@e a santo Piero, del 
+quale fu detto di sopra, ^e lungo l'altro~; cio@e et allato all'altro; 
+cio@e ad Adam, del quale fu detto di sopra, ^posa~; cio@e siede e 
+riposasi, ^Quel Duca~; cio@e Moises, ^sotto cui~; cio@e sotto 'l quale, 
+^visse di manna~; cio@e di quel fiore, che venia da cielo la notte al 
+populo d'Israel nel diserto, ^La gente ingrata~; cio@e la gente ebrea, 
+che Iddio liber@o de la servit@u di Faraone sotto lo guidamento di 
+Moises, menandola per lo diserto con tanto aiuto quanto ebbe da Dio, e 
+sempre mormorava; e per@o dice ^ingrata~ de' benefici che ricevette da 
+Dio, e s@i della liberazione e s@i del notricamento, che quaranta anni 
+lo sostenne Iddio nel diserto, dando loro ci@o che era loro bisogno, et 
+in questi quaranta anni non si ruppono loro vestimenti n@e calciamenti 
+e sempre si lamentavano; e per@o Iddio li pag@o bene, che nessuno 
+intr@o in terra di promissione, se none Caleb e Giosu@e, e tutti si 
+rinnovorno nel diserto, et adororno l'idulo del vitello dell'oro, et 
+altre cose assai feceno contra 'l dovere, siccome appare ne la Bibbia; 
+e per@o dice: ^mobile e ritrosa~; cio@e mobile, perch@e non stava ferma 
+in volunt@a; e ritrosa, perch@e sempre contrastava a la volunt@a 
+d'Iddio.  ^Di contra a Piero~; cio@e di contra a la sedia di santo 
+Piero apostolo, ^vedi seder Anna~; cio@e vedi tu, Dante, sedere santa 
+Anna, madre della Vergine Maria.  Ecco che finge che dall'uno lato era 
+la Vergine Maria, e santo Ioanni evangelista sedesse santo Piero 
+apostolo, sotto 'l quale e sotto santo Ioanni evangelista seguitavano 
+in su le sedie di grado in grado, infine al mezzo, li omini, che 
+credettono in Cristo presente, e dal mezzo in gi@u li parvuli loro, e 
+questi erano in mezzo tra le donne ebree e le cristiane, che l'une 
+credettono in Cristo venturo, e l'altre in Cristo venuto.  E dall'altro 
+lato, dopo Moises, finge che fusse santa Anna, madre de la Vergine 
+Maria incontra a santo Piero, e di sotto a lei nelle sedie di grado in 
+grado infine al mezzo le femine ebree e gentili che credettono in 
+Cristo presente, e dal mezzo ingi@u le loro parvule, e queste sono in 
+mezzo tra li omini ebrei, che credettono in Cristo venturo, che 
+debbiamo imaginare che fusseno ne le sedie sotto Adam e Moises, e li 
+omini cristiani che credettono in Cristo venuto, che debbiamo imaginare 
+che fussono sotto santo Ioanni Battista e li altri santi, de' quali 
+l'autore non fa menzione per poner fine a la sua materia; e questi 
+fusseno nelle sedie loro di grado in grado infine al mezzo, e dal mezzo 
+in gi@u li loro parvuli, come @e stato detto di sopra.  ^Tanto 
+contenta~; cio@e santa Anna, ^di mirar sua fillia~; cio@e la Vergine 
+Maria, che fu figliuola de la detta santa Anna e di santo Ioacchino, 
+^Che~; cio@e che ella, cio@e santa Anna, ^non muove occhio~; cio@e non 
+parte l'occhio da lei, ^per cantare Osanna~; ecco che finge che li 
+santi cantino in vita eterna ^Osanna~, che s'interpetra ^Doh 
+salvifica~; cio@e fa salvi Iddio quelli del mondo, che di loro non @e 
+bisogno di dire ch'elli sono salvi; ma pregano per noi.  E cos@i dice 
+che cantava ancora santa Anna; ma non partia per@o l'occhio da 
+ragguardare la Vergine Maria.  ^E contra 'l maggior Padre di famillia~; 
+cio@e incontra ad Adam; questo finge che fusse tra le donne cristiane, 
+che venivano incontra al primo nostro padre Adam; e finge che si 
+chiamasse Lucia, de la quale fu detto nel secondo canto de la prima 
+cantica, che figura la grazia illuminante, de la quale dice lo testo: 
+^Siede Lucia~; ecco che finge che sia una de le beate donne, bench@e 
+intenda per lei la grazia illuminante, come finge Beatrice ancora 
+intendendo per lei la grazia perficiente e cooperante e la santa 
+Scrittura, come @e stato detto in pi@u parti di questa opera, ^che~; 
+cio@e la quale Lucia, ^mosse la tua donna~; cio@e la donna di te Dante, 
+cio@e Beatrice, de la quale @e stato detto, ^Quando chinavi~; cio@e tu, 
+Dante, ^le cillia~; cio@e li occhi e lo corpo tuo, intendendo per la 
+parte lo tutto; et allegoricamente intendendo la ragione e lo 
+intelletto, ^a ruinar~; cio@e a le cose mondane, che fanno ruinare 
+l'anima ne lo inferno, siccome di questo fu pienamente detto nel 
+secondo canto della prima cantica.
+
+	|139-151.~  In questi quattro ternari et uno versetto lo nostro autore 
+finge come santo Bernardo facesse fine al narrare l'ordine de' beati et 
+inducesselo a dimandare grazia, acci@o che si potesse levare la mente a 
+vedere la Divinit@a, e per@o dice: ^Ma perch@e 'l tempo fugge~; cio@e 
+ma imper@o che 'l tempo, che t'@e concesso a vedere queste cose, fugge; 
+cio@e se ne va, e siamo presso al suo termine, lo quale tanto @e 
+durato, che tu @ai vollia di riposarti, e per@o, ^che t'assonna~; cio@e 
+ti fa venire lo sonno e voglia di dormire; e finge qui l'autore questo, 
+per continuare la fizione che puose nel principio de la sua comedia, 
+cio@e che nel 1300 lo venerd@i santo la notte in sul sabato santo elli 
+avesse questa visione, e che in visione li fusseno mostrate queste cose 
+che si contegnano in questo poema.  Unde, perch@e veniva il d@i e 
+convenevile era che la natura affannata per la lunga fatica de la 
+visione si ricreasse alquanto dormendo, per@o dice ^che t'assonna~; 
+cio@e t'invita a dormire e riposarti; ma allegoricamente intendere si 
+debbe: ^Ma perch@e 'l tempo~; cio@e tuo, de la vita tua, ^fugge~; lo 
+quale tempo ^t'assonna~; cio@e t'induce a la morte, dopo la quale 
+dormer@a lo corpo infine al d@i de la resurrezione ultima, ^Qui~; cio@e 
+in questa parte de la descrizione de' beati di vita eterna, ^farem 
+punto~; cio@e finitivo de la materia, ^come 'l buon sartore~; cio@e 
+come fa lo buono costore, ^Che~; cio@e lo quale, ^fa la gonna~; cio@e 
+fa la gonnella, ^com'elli @a del panno~; cio@e secondo ch'elli @a del 
+panno: imper@o che, se elli @ae del panno assai, fa grande la gonnella; 
+e s'elli n'@a poco, la fa piccola.  Cos@i noi, dice santo Bernardo a 
+Dante, faremo noi, che perch@e non abbiamo pi@u notizia de la 
+beatitudine de' santi che detto abbiamo, non ascenderemo a dirne pi@u.  
+^E drizzeremo li occhi~; cio@e nostri, cio@e la ragione e lo 
+intelletto, ^al primo Amore~; cio@e A Dio, che @e lo primo amore, 
+perch@e @e senza principio innanti a tutte le cose, ^S@i~; cio@e per 
+s@i fatto modo, ^che, guardando verso lui~; cio@e guardando inverso 
+Iddio, ^penetri~; cio@e passi tu, Dante, ^Quant'@e possibil~; cio@e 
+tanto, quanto possibile @e, ^per lo suo fulgore~; cio@e per lo suo 
+splendore.  ^Veramente tu~; cio@e tu, Dante, ^t'aretri~; cio@e torni 
+adrieto, ^non forse~; cio@e non dubbiosamente; ma veramente e 
+certamente, ^credendo oltrarti~; cio@e credendo farti innanti, ^Movendo 
+l'ali tue~; cio@e movendo lo ingegno tuo in alto co la ragione e co lo 
+intelletto tuo; o volliamo mellio, co la pratica e teorica tua, che tu 
+@ai delle scienzie, ^Orando~; cio@e e per tanto con orazione, ^convien 
+che s'impetri~; cio@e che si dimandi, ^grazia~; cio@e di poterti 
+levare, poi che per te non @e possibile che tu ti levi, ^Grazia~; ecco 
+che replica anco grazia, ^da quella che pu@o aiutarti~; cio@e dalla 
+Vergine Maria, che @e avvocata delli omini inanti a Dio.  ^E tu~; cio@e 
+Dante, ^mi segue~; cio@e seguita me Bernardo, ^co l'affezione~; cio@e 
+col desiderio tuo, ^S@i~; cio@e per s@i fatto modo, ^che dal dicer 
+mio~; cio@e dal dire, che io Bernardo far@o, ^lo cuor~; cio@e tuo, ^non 
+parti~; cio@e tu, Dante.  ^E cominci@o~; cio@e, e dette queste parole 
+che sono dette di sopra, cominci@o santo Bernardo, ^questa santa 
+orazione~; cio@e questa orazione, che seguita nel canto seguente, per 
+impetrare grazia per me Dante, per mezzo de la Vergine Maria, a la 
+quale dirizzer@a il suo parlare e pregheralla ch'ella accatti grazia 
+per Dante, siccome apparr@a di sotto.  E qui finisce il canto XXXII, et 
+incominciasi lo canto XXXIII et ultimo de la terza cantica de la 
+comedia del nostro autore.
+

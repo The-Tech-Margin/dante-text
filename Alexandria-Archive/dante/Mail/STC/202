@@ -1,0 +1,53 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id OAA16213
+	for <steve@avalon.dartmouth.edu>; Thu, 25 Feb 1999 14:21:51 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id OAA17219
+	for <Steve.Campbell@dartmouth.edu>; Thu, 25 Feb 1999 14:21:50 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 50504 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68516-29450>; Thu, 25 Feb 1999 13:58:03 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA18297
+	for <Steve.Campbell@dartmouth.edu>; Thu, 25 Feb 1999 13:57:59 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup93.Princeton.EDU [128.112.70.93])
+	by mail.Princeton.EDU (8.9.1/8.9.2) with ESMTP id NAA03705;
+	Thu, 25 Feb 1999 13:57:55 -0500 (EST)
+Message-ID: <36D59D47.C7265CFB@princeton.edu>
+Date: 	Thu, 25 Feb 1999 13:58:15 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Bob Hollander <bobh@phoenix.Princeton.EDU>,
+        "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: DDP
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+As of ? March 1999 the Dartmouth Dante Project will have installed the
+new version of its database.  The change will be transparent to users,
+who will be able to continue to consult the DDP just as they have since
+it opened in October 1988.  Consultation will continue to be gratis. 
+The changes are as follows:
+
+	(1) There are now some 14 newly-included commentaries, bringing the
+total to 59;
+
+	(2) a number of typos have been cleaned up;
+
+	(3) stop-word lists have been greatly curtailed, thus allowing searches
+on previously disallowed words.
+
+In collaboration with others, we are working on a WWW interface.  Until
+this is perfected, the DDP is still best accessed via Telnet.  The
+address remains:
+
+	connect alexandria@dartmouth.edu
+
+(at the prompt type: connect dante)
+
+All of us who have worked to make this project a reality are pleased to
+see it move to a higher stage of utility.  Robert Hollander, Director,
+DDP

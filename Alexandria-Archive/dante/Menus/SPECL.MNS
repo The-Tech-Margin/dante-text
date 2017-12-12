@@ -1,0 +1,107 @@
+{SPECL}
+
+:COMPARE @PTEXT
+    TO "S"
+	:COMPARE @SELECTION
+	     TO "S"
+		:RETURN
+	:DONE
+
+	:SET @TMP ~List Paragraphs Labels~
+	:SET @P1 ~Search~
+	:SET @M1 ~S|s|~
+
+    TO "Q"
+	:SET @TMP ~List Available Databases~
+	:SET @P1 ~Return to SearchMate Selection Menu~
+	:SET @M1 ~Q|q|~
+:DONE
+
+:COMPARE #PVLG
+    TO "0-254"
+	:SET @M2 ~~
+    TO "255"
+	:SET @M2 ~!|~
+:DONE
+
+:PRINT ~@HEADING_Available Special Functions are:\n
+	\o21\f2 - Set Searching Defaults\n
+	\o22\f2 - Set Display Formatting\n
+	\o23\f2 - Set Miscellaneous Parameters\n
+	\o2L\f2 - @TMP\n
+	\o2H\f2 - Display Help\n
+	\o2@PTEXT\f2 - @P1\n\n~
+
+:GET @SELECTION ~Enter your selection [@PTEXT]: ~ "1-3|H|h|L|l|@M1@M2"
+
+:COMPARE @SELECTION
+     TO ""
+	:SET @SELECTION ~@PTEXT~
+
+     TO "H|h"
+	:SET @SELECTION ~~
+	:MENU ~SPECL_H~
+
+     TO "S|s"
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "Q|q"
+	:SET @SELECTION ~~
+	:RETURN
+
+     TO "L|l"
+	:CLEAR STACK
+	:COMPARE @PTEXT
+	    TO "Q"
+	        :SET #HEADING ~@HEADING_DBNM   Docs     Updated     Description
+---- --------  ---------   -------------------------------------------------\n~
+
+		:PRINT ~#HEADING~
+
+		:SEND ~Ebrsdir D #PVLG -fmt~
+
+		:SET #PPROMPT ~Enter Database Name [Continue]: ~
+		:SHOW
+		:GET @SELECTION ~\n#PPROMPT~ "#4|"
+		:SET #PPROMPT ~~
+
+	    TO "S"
+	    	:SET #HEADING ~@HEADING_Paragraph Labels (continued):\n\n~
+		:PRINT ~@HEADING_Paragraph Labels:\n\n~
+		:SEND ~GE~
+		:SHOW
+		:SET @SELECTION ~~
+	:DONE
+
+	:COMPARE @SELECTION
+	     TO ""
+		:PAUSE
+		:SET @SELECTION ~S~
+		:MENU
+
+	     TO "#4"
+		:RETURN
+	:DONE
+
+     TO "1-3"
+	:MENU ~PARMS_~
+
+     TO "!"
+	:PARSE @SELECTION EXTRACTING @TMP USING ~!~
+
+	:CLEAR STACK
+
+	:COMPARE @SELECTION
+	     TO ""
+		:PRINT ~\cType \o2exit\f2 to return to DDP\n\n~
+		:RUN ~sh -i~
+	     TO "*"
+		:PRINT ~\n~
+		:RUN ~@SELECTION~
+		:PAUSE
+	:DONE
+
+	:SET @SELECTION ~S~
+	:MENU
+:DONE

@@ -1,0 +1,12 @@
+Thu Nov 19 15:26:40 EST 1987 all preloaded to ../staging/inf
+Mon Dec 7 13:52:03 EST 1987 quotations < and > pulled in to words <like this>.  jma.
+Tue Dec 8 14:12:42 EST 1987 all .e files re-preloaded. jma.
+Mon Jan 4 16:04:55 EST 1988 02.ee corrected and re-preloaded. jma.
+Sun Jan 29 16:15:00 EST 1989 corrected M-0 problem, those files given 
+eee suffix. jvs
+Thu Feb 9 15:52:34 EST 1989 changed .ee and .eee file suffixes to .e jvs
+Thu Feb 9 16:14:49 EST 1989 preloaded inf. jvs
+Sun Mar 19 22:19:00 EST 1989 ran .e files through checknew jvs
+Sun Mar 19 22:19:14 EST 1989 corrected .e files to .f files using reformat.sed jvs
+Wed Apr 19 20:15:46 EDT 1989 jvs deleted obsolete .e files
+Mon Jul 31 10:16:37 EDT 1989 jvs renamed .f files to .e

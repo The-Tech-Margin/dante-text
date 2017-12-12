@@ -1,0 +1,15 @@
+	|50.~  ^Almeone~.  fu figliuolo del grande indovino anfiarao.  el 
+quale anfiarao av@ia decto al re arasto che se levasse dall'impresa 
+ch'elli av@ia contro la cit@a de tebe.  poscia a petizione de la sua 
+moglie corrocta per molti doni de consigliar el decto che seguisse la 
+gue[rra].  per lo quale per quale falso.... che la terra cess@o.  che 
+ruinando al suo figliuolo.  dicendo.... per la sua madre.... la piet@a 
+ch'eli ebbe del padre.  che per venticarlo ucise la sua propria madre.  
+et per@o dice.  come almeon a sua madre fe' caro.
+
+	|104.~  A quel tempo non sarebbe stato omo che per falsetate avesse 
+tracto le carte del libro delle ragioni.  n@e avesse lo staro del 
+chomuno ch'era facto col le doghe.  il quale re[ce]vendo el grano del 
+comuno col le doghe, al rendare el rendesse con una doga me[no].  come 
+fu poscia el lo tempo che venne e ch'ei vole dire (^altra m.~).
+

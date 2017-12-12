@@ -1,0 +1,118 @@
+	|1-6.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|13.~ |(ed.  Rosini)~
+^O immaginativa~, immaginazione.  [Sessa]
+
+Esclamazione.  [Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+Tube.  [richiamo marginale] [Sessa]
+
+	|20.~ |(ed.  Rosini)~
+Rondine.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+^Qui~, in questa imagine.  [Da Fino]
+
+	|31.~ |(ed.  Rosini)~
+Rompeo.  [richiamo marginale] [Sessa]
+
+	|32-33.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|34.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|38.~ |(ed.  Rosini)~
+^Or m'hai perduta; i' son essa, che lutto.  Lutto~, verbo.  [Sessa]
+
+	|40-43.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|46.~ |(ed.  Rosini)~
+^Fosse~, prima persona.  [Sessa]
+
+	|51.~ |(ed.  Rosini)~
+^Raffronta~, vede.  [Da Fino]
+
+	|52-54.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|56.~ |(ed.  Rosini)~
+^Prego~, esser pregato.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|58.~ |(ed.  Rosini)~
+Sego.  [richiamo marginale] [Sessa]
+
+^Sego~, con se stesso.  [Da Fino]
+
+	|62.~ |(ed.  Rosini)~
+Abbui.  [richiamo marginale] [Sessa]
+
+	|68.~ |(ed.  Rosini)~
+Ventarmi.  [richiamo marginale] [Sessa]
+
+	|75.~ |(ed.  Rosini)~
+Di camminare.  [Da Fino]
+
+	|84.~ |(ed.  Rosini)~
+^Non stea.  Stea~, cos@i sempre il Boccaccio.  [Sessa]
+
+	|86.~ |(ed.  Rosini)~
+^Quiritta~, come ^costinciritta~, avverbio.  [Sessa]
+
+	|87.~ |(ed.  Rosini)~
+Traslazione.  [Da Fino]
+
+	|91-93.~ |(ed.  Rosini)~
+Nell'Inferno mette per cagione universale de' peccati della malizia 
+l'ingiuria, e qui per cagione di ogni errore l'amore.  Amore naturale 
+intenderei piuttosto quello, che si contraddistingue da sensitivo; e 
+intellettivo, che segue la cognizione d'una intelligenza non errante, 
+quando @e in soggetti privi di senso e di intelletto; d'animo, 
+abbraccia quegli altri due membri, cio@e intellettivo e sensitivo.  
+[Sessa]
+
+	|97.~ |(ed.  Rosini)~
+^Nel primo ben~, in Dio.  [Da Fino]
+
+	|101.~ |(ed.  Rosini)~
+^Bene~, mondano.  [Da Fino]
+
+	|104-105.~ |(ed.  Rosini)~
+Di bene e di male.  [Da Fino]
+
+	|108.~ |(ed.  Rosini)~
+^Tute~, secure.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+^Da quello odiare ogni affetto @e deciso~.  Concedendo quel che @e 
+dubbio, che i dannati desiderino di non essere, odier@ieno Dio.  Ma 
+forse Dante intende ogni affetto dell'uomo, perch@e qui si purgano i 
+peccati fatti dall'uomo nella vita.  [Sessa]
+
+	|114.~ |(ed.  Rosini)~
+^Limo~, corpo.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+^E chi, per esser suo vicin, soppresso~, e [Sessa]
+
+	|118.~ |(ed.  Rosini)~
+^E chi podere, grazia, onore e fama~.  Di queste due sorte d'amore, che 
+son torte al male, nissuna mi pare convenire al superbo, ma l'una e 
+l'altra all'invido.  Dante nondimeno, una al superbo, e l'altra 
+all'invido par che attribuisca.  [Sessa]
+
+	|123.~ |(ed.  Rosini)~
+Mostrando l'odio.  [Da Fino]
+
+	|124.~ |(ed.  Rosini)~
+^Questo triforme amor~, di cose terrene.  [Da Fino]
+
+	|131.~ |(ed.  Rosini)~
+^Cornice~, luogo.  [Da Fino]
+

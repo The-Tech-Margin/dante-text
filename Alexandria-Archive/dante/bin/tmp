@@ -1,0 +1,1079 @@
+./LoadAll started at Tue Nov 13 11:02:04 EST 2001
+============================
+        poem
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -create -force:
+desc inf/inf purg/purg para/para
+
+============================
+        jacopo
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        lombardus
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc purg/01 purg/02 purg/03 purg/04 purg/05 purg/06 purg/07 purg/08
+purg/09 purg/10 purg/11 purg/12 purg/13 purg/14 purg/15 purg/16 purg/17
+purg/18 purg/19 purg/20 purg/21 purg/22 purg/23 purg/24 purg/25 purg/26
+purg/27 purg/28 purg/29 purg/30 purg/31 purg/32 purg/33
+
+============================
+        graziolo
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        lana
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/abbr inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06
+inf/07 inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16
+inf/17 inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26
+inf/27 inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33
+
+============================
+        guido
+============================
+----------------------
+Setting language to LI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/prolo inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        ottimo
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/Proem para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33
+
+============================
+        selmiano
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        pietro1
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        pietro2
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        pietro3
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        cassinese
+============================
+----------------------
+Setting language to LI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        boccaccio
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/access inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+
+============================
+        benvenuto
+============================
+----------------------
+Setting language to LI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc comentum inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03
+purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12
+purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21
+purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30
+purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06
+para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15
+para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24
+para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        buti
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/pro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        fiorentino
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        serravalle
+============================
+----------------------
+Setting language to LI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/pream inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/pream purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33
+
+============================
+        guiniforto
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        landino
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/ [0-3]*
+
+============================
+        vellutello
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03
+purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10
+
+============================
+        daniello
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/vita inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03
+purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12
+purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21
+purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30
+purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06
+para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15
+para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24
+para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        castelvetro
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+
+============================
+        venturi
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        lombardi
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        portirelli
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        costa
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        rossetti
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        tommaseo
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        andreoli
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        longfellow
+============================
+----------------------
+Setting language to EI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        disiena
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        bianchi
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        scartazzini
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        campi
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        berthier
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/intro inf/pro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07
+inf/08 inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17
+inf/18 inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27
+inf/28 inf/29 inf/30 inf/31 inf/32 inf/33 inf/34
+
+============================
+        poletto
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        oelsner
+============================
+----------------------
+Setting language to EI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        tozer
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        ruskin
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/proem inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/24 inf/25 inf/26 inf/27 inf/28 inf/30
+inf/31 inf/32 inf/33 inf/34 purg/proem purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/16 purg/17 purg/18 purg/19 purg/21 purg/22 purg/24 purg/26
+purg/27 purg/28 purg/29 purg/30 purg/31 purg/32 purg/33 para/proem
+para/01 para/02 para/06 para/10 para/11 para/15 para/16 para/18 para/19
+para/20 para/21 para/28 para/30 para/31
+
+============================
+        carroll
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/intro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/intro purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/intro para/01 para/02 para/03
+para/04 para/05 para/06 para/07 para/08 para/09 para/10 para/11 para/12
+para/13 para/14 para/15 para/16 para/17 para/18 para/19 para/20 para/21
+para/22 para/23 para/24 para/25 para/26 para/27 para/28 para/29 para/30
+para/31 para/32 para/33
+
+============================
+        torraca
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        grandgent
+============================
+----------------------
+Setting language to EI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/intro inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+inf/09 inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18
+inf/19 inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28
+inf/29 inf/30 inf/31 inf/32 inf/33 inf/34 purg/intro purg/01 purg/02
+purg/03 purg/04 purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11
+purg/12 purg/13 purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20
+purg/21 purg/22 purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29
+purg/30 purg/31 purg/32 purg/33 para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33
+
+============================
+        mestica
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        casini
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        steiner
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        dellungo
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        vandelli
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        grabher
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        trucchi
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        pietrobono
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        momigliano
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        porena
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/proem para/01 para/02 para/03 para/04 para/05
+para/06 para/07 para/08 para/09 para/10 para/11 para/12 para/13 para/14
+para/15 para/16 para/17 para/18 para/19 para/20 para/21 para/22 para/23
+para/24 para/25 para/26 para/27 para/28 para/29 para/30 para/31 para/32
+para/33
+
+============================
+        sapegno
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        mattalia
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        chimenz
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        fallani
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        padoan
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08
+
+============================
+        giacalone
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        singleton
+============================
+----------------------
+Setting language to EI
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        bosco
+============================
+----------------------
+Setting language to IL
+----------------------
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+============================
+        pasquini
+============================
+----------
+Loading...
+----------
+Files to be loaded in mode -add:
+desc inf/01 inf/02 inf/03 inf/04 inf/05 inf/06 inf/07 inf/08 inf/09
+inf/10 inf/11 inf/12 inf/13 inf/14 inf/15 inf/16 inf/17 inf/18 inf/19
+inf/20 inf/21 inf/22 inf/23 inf/24 inf/25 inf/26 inf/27 inf/28 inf/29
+inf/30 inf/31 inf/32 inf/33 inf/34 purg/01 purg/02 purg/03 purg/04
+purg/05 purg/06 purg/07 purg/08 purg/09 purg/10 purg/11 purg/12 purg/13
+purg/14 purg/15 purg/16 purg/17 purg/18 purg/19 purg/20 purg/21 purg/22
+purg/23 purg/24 purg/25 purg/26 purg/27 purg/28 purg/29 purg/30 purg/31
+purg/32 purg/33 para/01 para/02 para/03 para/04 para/05 para/06 para/07
+para/08 para/09 para/10 para/11 para/12 para/13 para/14 para/15 para/16
+para/17 para/18 para/19 para/20 para/21 para/22 para/23 para/24 para/25
+para/26 para/27 para/28 para/29 para/30 para/31 para/32 para/33
+
+./LoadAll ended at Tue Nov 13 11:02:06 EST 2001

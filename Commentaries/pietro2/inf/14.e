@@ -1,0 +1,226 @@
+	|Proemio.~  Canto XIIII+o~ dove tracta de la qualitade de
+terczo gerone contento nel VII+o~ circolo.  Et qui se punisceno
+culoro che fanno forcza ne la deitate, negando e blastemando
+quella.  Et nomina picialmente il Re Capaneo sceleratissimo in
+questo peccato.
+
+	In hoc capitulo auctor duo principaliter tangit.  Dicit
+enim primo de qualitate prima violentorum in deitatem; secundo
+facit quandam digressionem ad etates mundi.
+
+	|4-6.~  Veniamus igitur ad primum.  Dicto de violentis in
+proximos et de violentis in se ipsos, debens nunc ipse auctor
+loqui de violentis in deitatem, quorum violentia tribus modis
+commictitur, videlicet primo negando et blasfemando eam vel
+fornicando contra naturam vel fenerando, ut in isto et sequenti
+et subsequenti capitulo continetur -- prout et sicut etiam
+Imperator in suo ^Autentico~ copulat hoc in quodam titulo, qui
+incipit: ^Ut non luxurientur contra naturam neque blasfement in
+Deum homines~ etc. -- incipit dicere nunc de predictis immediate
+violentis in Deum quodam contemptu et exaltatione superba.
+
+	|13-27.~  Quos tales elatos superbos sacrilegos et
+blasfemos fingit hic ipse auctor ita iacere supinos in ista
+landa, idest in ista planitie arenosa et sterili, ut erat arena
+illa, quam calcavit Cato Uticensis cum aliis Pompeianis in Libia,
+fugiendo dominationem Cesaris dicens dictis eius sociis in primo
+tali ingressu sic, ut ait Lucanus in IX+o~: ^Atque ingressurus
+steriles sic fatur arenas:/ (...)/ vadimus in campos steriles
+exustaque mundi~ etc.  Dicitur enim, secundum Ugutionem: ^Landa
+est quelibet planities circumdata nemore~, ut erat etiam iste
+locus, ubi firmavit auctor suos passus ad randam, idest ad eius
+extremitatem, ut dicit textus.
+
+	|28-33.~  Item dicit auctor quomodo super tales animas
+falde ignis cadebant similes illis, quas Alexander semel vidit
+cadere super eius exercitum, dum obsideret quandam civitatem
+Indie, unde providit cum suis aciebus subpeditare eas, ut hic
+dicitur.  De quo tangere forte vult Lucanus, in X+o~ dum dicit
+sic loquens de ipso Alexandro: ^Gentibus Occeano classes inferre
+parabat/ exteriore mari.  Non illi flamma nec unde/ nec sterilis
+Libie nec Sirticus obstitit Amon.~  Allegorice falde ignee iste
+debent accipi pro extuosis motibus, impellentibus in hoc mundo
+hos tales magnos dominos terrenos sua potentia et superbia ad
+despectandum Deum celestem et despiciendum et ad detrahendum sibi
+verbis et blasfemiis et, si etiam possent, ad offendendum ipsum
+manibus. De quibus ait Psalmista: ^Superbia eorum, qui te
+oderunt, Domine, ascendit semper.~  Et alibi: ^Sagitte potentis
+acute, cum carbonibus desolatoriis.~  Et alibi: ^Etiam pluit
+super peccatores laqueos: ignis et sulphur,/ et spiritus
+procellarum....~  Et ^Iob~ XV+o~ capitulo dicitur de tali
+superbo: ^Tetendit adversus Dominum manum suam et contra
+Omnipotentem roboratus est./  Cucurrit adversus eum erecto collo,
+et pingui cervice armatus est.~  Ubi dicit Glosa: ^Contra Dominum
+extendere manum est in operatione prava despectis eius iudiciis
+perseverare; contra Deum roboratur qui prosperari in sua mala
+actione permictitur; erecto collo adversus Deum cucurrit, dum que
+Creatori displicent cum audacia perpetrat; pinguis cervix est
+opulenta superbia affluentibus rebus.~  Et hoc quantum ad primum.
+
+	|46-72.~  Ut, per exemplum, potest dici de Dionysio
+Siracusano, qui, ut ait Valerius ^De neglecta religione~, in
+contemptu deorum sacrilege multa templa deorum et statuas
+deguastavit et deturpavit; et de isto Capaneo rege, qui, ad
+instantiam regis Adrasti, socri Polinicis, filii Edipi regis
+Thebarum, una cum Tideo, Amphiarao, Ypomedonte, Partinopeo et
+dicto Polinice, venit ad obsidionem dicte civitatis Thebarum
+contra Etheoclem, fratrem dicti Polinicis, tenentem tunc ipsum
+Polinicem extra dictum regnum per vim.  Qui capaneus, dum semel
+in dicta obsidione esset et descendisset imminens supra muros
+dicte civitatis, multa obprobria exclamando, protulit contra
+Iovem et alios deos Thebanorum dicens, ut ait Statius in X+o~
+^Thebaidos~ --  de eo ita incipiens: ^Adque hic ingenti Capaneus
+Mavortis amore/ (...)/ facta, diu tutus superum contemptor et
+equi~ --: ^Iurgia, cum mediis Capaneus auditus in astris./
+'Nullane pro trepidis' clamabat 'numina Thebis/ statis?  ubi
+infande segnes telluris alumpni/ (...)./  Nunc age, nunc totis in
+me commictere flammis,/ Iuppiter!  an pavidas tonitru turbare
+puellas...'.~  Fulminatus fuit ab ipso Iove mediante Vulcano,
+eius fabro, qui poetice pro medio igne et fulmineo candore
+accipitur.  Iuppiter enim accipitur pro supremo igne innocuo et
+Vesta pro isto nostro igne inferiori.  Tangendo de pugne Flegre,
+contrate Thessalie, in qua dictus Iuppiter obtinuit contra
+Gigantes, iuvantibus eum dicto Vulcano et aliis eius fabris, ut
+dicit hic textus.
+
+	|76-84.~  Modo secundo veniamus.  Dicit auctor quod, ita
+procedendo, devenit cum Virgilio ad tertium flumen Inferni dictum
+Flegeton, quod interpretatur, secundum Macrobium, ardor irarum et
+cupiditatum.  Quod etiam Eneas in simili loco infernali invenit,
+Virgilio in VI+o~ dicente: ^Que rapidus flammis ambit torrentibus
+amnis,/ Tartareus Flegeton, torquetque sonantia saxa.~  Et
+Macrobius de eo sic ait: ^Flegetontem ardores irarum et
+cupiditatum prisci putaverunt.~
+
+	|85-90.~  Et quia Virgilius incidenter ab isto flumine
+sumit materiam dicendi de natura sui et aliorum trium fluvium
+infernalium, inquit quod ipse auctor hucusque nil notabilius
+vidit; vel hoc dicit quod dictus fluvius manat a quarta ferrea
+etate, in qua ipse auctor erat et nos etiam sumus, allegorice
+loquendo, ut infra dicam.
+
+	|94-102.~  Et antequam veniamus ad dicendum de hac
+statua, unde fluunt dicta flumina IIII infernalia, ita
+premictamus, ystorice loquendo.  In medio Mediterranei maris est
+quedam insula, Creta vocata, habens olim in se centum civitates,
+licet hodie paucissimas habeat: et ex hoc dicit hic auctor quod
+hodie est paese deguastatum.  Item in medio dicte insule, iuxta
+civitatem Candie, est quidam excelsus mons, vocatus Ida, a medio
+suprorsum sterilis et a medio deorsum fertilis: et ex hoc dicit
+auctor etiam quod est desertum tanquam res vetusta.  Ad hoc ait
+Virgilius in III+o~: ^Creta Iovis magni medio iacet insula
+ponto,/ mons Ideus ibi et gentis cunabula nostre./  Centum urbes
+habitant magnas, uberrima regna~ etc.  In qua insula primus rex
+mundi, secundum poetas, Saturnus fuit, qui ibi regnavit ita iuste
+et virtuose et quod dictus est munus sub eo in etate aurea fuisse
+prima.  De quo Boetius: ^Felix nimium prior etas,/ contenta
+fidelibus arvis,/ nec inherti perdita luxu;....~  Et ex hoc vide
+cur auctor dicat quod mundus sub eo fuit castus.  Qui Saturnus
+uxorem habuit, que vocata fuit tribus nominibus, scilicet Rea,
+Bericintia et Cibeles per Grecos, sed per Latinos Opis vocata
+est.  Ex qua Rea genuit quatuor filios dictus Saturnus, scilicet
+Neptunum, Iovem, Iunonem et Plutonem.  Sed dicto Iove concepto,
+cum semel sompniasset dictus Saturnus quod dictus fetus
+repelleret eum de dicto regno, precepit dicte Ree, eius uxori,
+quod, dum enixa esset dictum partum, illum sive masculum sive
+feminam faceret suffocari.  Unde nato dicto Iove, multum
+pulcerrima creatura, pietate dicta Rea commota, simulata eius
+morte, cum quadam nutrice secrete eum misit supra dictum montem
+Ide et ibi faciebat valde secrete nutriri et, ne eius cridatus
+audirentur, certos eius fabros dictos Coribantes faciebat
+malleare ibi et alios etiam rumores faciebat ibi fieri.  Unde
+subdit Virgilius in supradicto loco: ^Hinc mater cultrix Cybele
+Coribantiaque era/ Ideumque nemus; hic fida silentia sacris.~
+Qui Iuppiter breviter, factus adultus, dictum Saturnum, eius
+patrem, de dicto regno expulit.  Et sic finita est prima dicta
+etas aurea et regnum incepit argentea etas et regnum dicto Iove,
+secundum poetas.  Unde Ovidius in primo: ^Aurea prima sata est
+etas, que vindice nullo/ sponte sua, sine lege fidem rectumque
+tenebat./  (...)/ Postquam Saturno tenebrosa in Tartara misso/
+sub Iove mundus erat, subiitque argentea proles,/ (...)./  Tertia
+post illam subcessit a,enea proles,/ (...)/ non scelerata tamen;
+de duro est ultima ferro.~  Et subdit: ^Protinus inrupit vene
+peioris in evo....~
+
+	|103-114.~  Modo veniamus ad tangendum quid auctor vult
+sentire pro isto sene, quem in persona Virgilii dicit quod stat
+ita super dicto monte Ide, ut dicit textus.  Et dico quod hunc
+talem senem sub typo maioris mundi accipit, qui per tempora
+partitus est et tempora illa per etates.  Et ex hoc dictus
+Saturnus pro tempore poetice sub allegoria sumitur.  Unde
+dicitur: ^Saturnus Grece Cronum, quod tempus interpretatur.~
+Ideoque cum prima pars temporis pura et innocua fuerit, ideo
+fingit sub Saturno dicta prima etas ut aurea fuisse et inde in
+deterius processisse, ut faciunt etates in minore mundo, idest in
+homine -- unde Papia inquit: ^Microcosmus a Grecis homo
+appellatur idest minor mundus~ --.  Nam, ut dicit etiam Bernardus
+Silvestris in suo libro ^Megacosmi~, homo dicitur minor mundus.
+Nam sicut mundus maior ex eadem diversa et mixta natura et
+materia sistit, ita et homo; et sicut ex quatuor elementis
+regulatur mundus, ita et homo ex quatuor humoribus, scilicet
+sanguine, collera, flemate et malenconia.  Item participationem
+habent dicto duo mundi, maior scilicet et minor, in etatibus.
+Nam ut homo habet quinque etates, scilicet pueritiam,
+adolescientiam, iuventutem, senioritatem et senectutem, ita et
+dictus maior mundus.  Et cum mundus nunc sit in ultima sua etate,
+scilicet quasi senectute quadam, merito auctor nunc in forma
+cuiusdam senis magni ipsum mundum hic taliter figurat et dicit
+quod quelibet pars eius est rupta preter auream, fundendo
+lacrimas facientes dicta IIII flumina infernalia.  In quo
+ostendit quod quemadmodum minor mundus, idest homo, in pueritia,
+aurea eius prima etate, sine ullo impetu et fluxu vitiorum est
+nec trahitur ad Infernum, idest ad illecebras terrenas et infimas
+huius mundi, secus in aliis suis dictis IIII etatibus, quantum
+quelibet ut flumen quoddam ducit nos ad Infernum, seu ducere
+paratur, ita etiam correlative de maiori mundo potest dici et de
+sua prima etate hic et de aliis suis IIII sequentibus, ut dictum
+est.  Quarum etatum ultima, in qua sumus, scilicet quinta, adeo
+deterior aliis ut de terra fingatur cocta, et non de metallo
+aliquo dicatur et denominetur esse.  Unde Iuvenalis de ea ait:
+^Nona etas agitur peioraque secula ferri/ temporibus, quorum
+sceleri non invenit ipsa/ nomen et a nullo posuit natura
+metallo.~  Item volens auctor dicere ulterius quomodo etiam
+mundus ipse per dictas quinque etates gradatim deterius
+processit, nec non ita etiam per quinque regna et monarchias
+processit in deterius, dicit quomodo dicta statua respicit Romam
+et dorsum tenet versus civitatem Damiate.  Circa quod est
+advertendum quod, ut scribit Orosius, IIII regna reperiuntur
+inter alia fuisse maiora et notabiliora et ut principalia et
+nobiliora mundi, scilicet orientale regnum, meridionale,
+septentrionale et occidentale.  Orientale cepit a Nino, tempore
+Abrahe, in Babilonia, civitate Egipti distante a civitate Damiate
+per XXX miliara.  Meridionale cepit sub Tola, duce in civitate
+Cartaginensi, tempore Iudicum.  Septentrionale cepit sub
+Alexandro in Macedonia, tempore Machabeorum.  Occidentale cepit
+sub Romulo in urbe Romana.  Quorum regnorum fuerunt duo media
+predicta minora, at primum et ultimum maiora potentia et
+duratione fuisse leguntur.  Et hoc auctor hic demonstrat dum
+dicit dictum figuratum senem dorsum habere versus dictam
+Damiatam, idest ad regnum et monarchiam orientalem iam extinctam,
+et Romam respicere, ubi hodie viget scilicet regnum mundi,
+scilicet imperium Romanum.  Verum, quia dici potest divisum hodie
+dictum regnum Romanum et consistere magis sub pastoribus Ecclesie
+quam sub imperatoribus, ideo fingit auctor hic stare dictum
+senem, idest mundum, magis erectum in dextro pede suo fictili
+quam in ferreo.  Ex qua additione possumus concludere ut per V
+etates, ita etiam per V regna procedendo de optimo in bonum et de
+bonum in malum et de malo in deterius mundus hucusque processit.
+Et hoc auctor dicit imitando et alludendo prophetie Danielis,
+dicentis in capitulo II+o~ respondendo Nabuccodonosori oblito
+sompnio facto per eum de huiusmodi statua: ^Tu rex videbas, et
+ecce statua grandis contra te.  Cuius caput aureum, pectus
+argenteum, venter ereus.  Tibie ferree, pedum pars ferrea, pars
+fictilis.~  Ad interpretandum postea sic ait: ^Tu rex igitur:
+caput es aureum. Et post te veniet minus regnum argenteum; aliud
+ereum, aliud ferreum.  Quintum regnum erit divisum, in quo
+suscitabit Deus celi regnum.~
+
+	|124-135.~  Et ecce quod superius dixi evenisse quasi
+dicere possumus iam, dicendo de flumine Lete, quomodo est extra
+Infernum in Paradiso terrestri, ut scribit infra inste auctor in
+Purgatorio capitulo XXVIII+o.~ Item, ut tangat auctor quod ait
+Salamon in ^Proverbiorum~ IIII+o~ dicens: ^Vias enim, que a
+dextris sunt, novit Dominus:/ perverse que a sinistris sunt~,
+dicit quomodo semper hucusque descendens per Infernum processit
+ad sinistram.
+

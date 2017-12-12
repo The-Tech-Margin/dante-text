@@ -1,0 +1,87 @@
+                           MASTER README FILE
+                                 for the
+                         Dartmouth Dante Project
+
+This directory contains documentation for the Dartmouth Dante
+Project. README files in other major directories typically point to one
+of the files here.  
+
+                           The Big Picture
+
+There are three computers (or groups of computers) in the Dartmouth
+Dante Project: staff's personal computers, the web applications server,
+and the Oracle database server. The personal computers are located in
+the owners offices or homes; the servers are located at the Dartmouth
+Computing Services data center in Hanover, NH.
+
+Project staff use their personal computers, along with auxilliary
+equipment such as optical scanners, to acquire, convert, and edit
+commentary texts. See README.Conversions for details.
+
+The web applications server, currently webapp.Dartmouth.EDU, is the
+central repository for the project.  The "dante" home directory on
+this Linux server contains plain ASCII text files representing all
+the commentaries in the project, organized by commentary, cantica, and
+canto. It also contains the makefiles and text conversion scripts used
+to load the text files into the SQL (Oracle) database. See README.Loading
+for details.
+
+The web applications server also provides the user web interface for
+the project. Dante.Dartmouth.EDU is a virtual host defined to the Apache
+web server on this machine. The "dante" home directory contains the HTML
+files that define the web interface.
+
+The searchable text of the project is a SQL full-text database housed
+on the Dartmouth Computing Services Oracle database, currently on the
+"copper" production database.  The web applications server access the
+SQL database via the campus network using Oracle utilities for loading
+and managing the text and using SQL*Net calls from the user interface
+HTML files to retrieve and display text. See README.SQL for details.
+
+In addition to the production applications and SQL servers, there
+is an almost identical development system currently using the web
+applications server cobweb.Dartmouth.EDU and the "tin" Oracle database.
+The development web interface is at dante-test.Dartmouth.EDU. At the
+time of this writing, December 2008, development of the web interface
+and the SQL schema is complete and frozen. Work on the project consists
+of adding new commentaries and editing existing ones. For this reason
+the only significant difference between the production and development
+systems is that the latter contains some commentary texts that are in
+the process of being loaded and edited.  When a complete commentary or
+cantica is loaded and checked, we copy it to the production system. All
+other types of files - HTML, SQL configuration, Makefiles, etc., are
+essentially identical to the production system.
+
+-----------------------------------------------------------------------
+
+Here is a list of the files in this directory:
+
+Editor's Style.* - A description of the DDP markup language. MS Word
+and PDF format.
+
+README - This file.
+
+README.Conversions - A description of how to get newly-acquired commentary
+text files into DDP markup language. This file describes the current
+process where the bulk of the work is done on desktop computers. The
+process draws on work done by Lars Lynch at a time when the conversion
+was mostly done on the server.
+
+README.Loading - A description of the organization of files on the web
+server and the processes used to covert text formats and to load and
+update text files into the SQL database.
+
+README.RTF-Files - A detailed description written by Lars Lynch in 2002
+describing the system he and John Wallace, both of Dartmouth Academic
+Computing, arranged to translate RichText files (RTF) into the DDP mark-up
+language. This detailed document describes the server-based process. As
+such it is somewhat out of date, but still useful. Many of the files it
+uses are now stored on this server in ~Dante/Alexandria-Archives/dante.
+
+README.SQL - A description of the SQL schema of the database and the
+utilities we use on the applications server to load and update text into
+the SQL database.
+
+README.Testing - A summary of how to test the DDP. This covers routine
+testing to be sure nothing is broken and more thorough testing we might
+do after a major software upgrade.

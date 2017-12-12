@@ -1,0 +1,56 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.27.56;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh -f
+
+# read a file from a tape made on Dartmouth's KDEM
+#
+#	The script accepts one filename as an argument
+#
+# Steve Campbell's byutape, modified by Jonathan Altman
+
+if ($#argv != 1) then
+	echo Usage: $0 "<filename>"
+	exit 1
+endif
+if (-e $1) then
+	echo File $1 already exists.
+	exit 1
+endif
+
+umask 002
+set FILE=$1
+dd if=/dev/rmt4 ibs=4000 cbs=100 conv=unblock  |  tr  '\015' '\012' > $FILE
+if (-z $FILE) then
+	rm -f $FILE
+	break
+
+	ls -l $FILE
+endif
+ls -l $FILE
+echo -n "Do you have more files to load(y or n)?"
+set ans=($<)
+if ( $ans == "n" ) then
+	mt off
+	exit 1
+endif
+@

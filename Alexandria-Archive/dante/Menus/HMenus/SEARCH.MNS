@@ -1,0 +1,10 @@
+{SEARCH}
+
+;
+; Execute a BRS search
+;
+
+:SET #QMASK TO ~> %Q %D ~
+:SET #SEARCHBY TO ~@LINE~
+:BRS SEARCH ~@LINE~
+

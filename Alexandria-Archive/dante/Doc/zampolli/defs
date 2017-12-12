@@ -1,0 +1,28 @@
+. \"
+. \"	Definitions for the m4(1) program
+. \"
+. \"		undefine(`include')
+. \"		undefine(`index')
+. \"		changequote(|,|)
+. \"		define(DC,\fIDivina Commedia\fR)
+. \"		define(CANTICA,\fIcantica\fR)
+. \"		define(CANTICAS,\fIcantiche\fR)
+. \"		define(INFERNO,\fIInferno\fR)
+. \"		define(PURGATORY,\fIPurgatorio\fR)
+. \"		define(PARADISO,\fIParadiso\fR)
+. \"		define(CANTO,\fIcanto\fR)
+. \"		define(CANTOS,\fIcanti\fR)
+. \"		define(PROEMIO,\fIproemio\fR)
+. \"		define(PROEMIOS,\fIproemi\fR)
+. \"		define(CONCLUSION,\fIconclusione\fR)
+. \"		define(CONCLUSIONS,\fIconclusioni\fR)
+. \"
+. \"	Standard me(7) macro definitions
+. \"
+.ls 2
+.if t .ba 0.5i
+.if t .ll 5.5i
+.nr bi 2m
+.he '''%'
+.fo 'Dartmouth Dante Project'''
+.sc

@@ -1,0 +1,440 @@
+	|1-6.  continga~: lat. ^contingat~ = avvenga.  --
+|sacro~: per la materia e il fine.  -- |al quale ha posto mano~
+ecc.: al quale poema hanno dato il loro contributo |cielo e
+terra~, fornendo argomento e ispirazione, poich$e dal mondo degli
+uomini si passa a quello di Dio, dal peccato alla redenzione: in
+un quadro eterno dove l'umano e il divino sono sempre fusi. 
+Ardua opera che |ha fatto macro~ il Poeta: lo ha consunto. 
+|Macro~ qui richiama, nella carne, il macerarsi dello spirito
+(^Inf.~, XXVII, 93 n.).  -- |vinca la crudelt@a~ ecc.: vinca la
+crudelt@a della parte avversa che, forte della sua vittoria, mi
+tiene in bando dal |bello ovile~, Firenze (^Par.~, XVI, 25), in
+cui posai innocente e puro come |agnello, nimico~ -- ostile e
+odiato -- a quei |lupi~ (^Purg.~, XIV, 50), a quei malvagi
+cittadini che straziano la loro patria.  Si ricordino le parole
+del ^Convivio~ (I, iii, 3-4) dove pur risuona alta l'innocenza di
+lui |agnello~, che soffr@i <pena ^ingiustamente~, pena...
+d'essilio e di povertate> e dove echeggio lo stesso accorato
+sospiro dell'esule: <Poi che fu piacere de li cittadini de la
+bellissima e famosissima figlia di Roma, Fiorenza, di gittarmi
+fuori del suo dolce seno, nel quale nato e nutrito fui in fino al
+colmo de la vita mia, e nel quale, con buona pace di quella,
+desidero con tutto lo cuore di riposare l'animo stancato e
+terminare lo tempo che m'@e dato...>.
+
+	|7-12.  con altra voce omai~...: ritorner@o poeta ben
+diverso da quello delle rime giovanlli: con |voce~ ben pi@u
+potente e con ben altra altezza d'arte e d'ispirazione (|con
+altro vello~); il poeta cio@e della ^Commedia.~  Col ^Porena~
+(^Riv. d'It.~, febbraio 1913) e col ^Torraca~ riteniamo che
+|vello~, con cui si continua la metafora dell'^agnello~ {v.5},
+vada inteso in senso figurato -- rimandiamo per questo a ^Par.~,
+VI, 108 -- e con un significato complementare direttamente
+connesso con quello di |voce.~  Che |altro vello~ si debba
+intendere per "chioma canuta" e quindi "maturo d'anni" non ci
+sembra ammissibile; poich$e il particolare della "canizie" e della
+vecchiaia oltre tutto sminuirebbe la cosciente e potente
+affermazione che il Poeta fa della sua nuova, conquistata forza,
+quale risuona in tutto il passo.  A meno che non si voglia,
+fraintendendo come alcuni hanno fatto, spiegare |altra voce~ per
+"voce indebolita dagli anni"!  E tralasciamo altre
+interpretazioni.  -- |fonte~ ecc.: il fonte battesimale del "bel
+San Giovanni" (^Inf.~, XIX, 17).  -- |'l cappello~: corona di
+poeta.  |Cappello~ fu usato per "ghirlanda, corona"; nel senso
+della simile parola francese e provenzale.  Cfr. ^Bocc.~, ^Dec.~,
+I, 1, dove si spiega il nome di Ciappelletto; ^Barbi~, ^Probl.~,
+^I~, 253; ^Par.~, XXXII, 72.  -- |conte~: cognite, note.  Infatti
+"per mezzo della fede siamo conosciuti da Iddio onnipotente",
+come dice ^Gregorio Magno~ (^In Ezech.~, lib. I, hom. 3).  --
+|quivi~: nel "fonte" battesimale di S. Giovanni.  Il battesimo |@e
+porta de la fede~ (^Inf.~, IV, 35 sg.).  In questo "fonte" io
+entrai nella |fede~ che fa note le anime a Dio e poi |per lei~,
+cio@e in virt@u di questa fede poco fa altamente affermata dinanzi
+a S. Pietro, ebbi da lui solenne e gaudiosa approvazione: |Pietro
+mi gir@o la fronte~ e in modo |s$i~ mirabile, come ho detto (^C.
+pr.~, 151-4).
+
+	|1-12.  Se mai continga~...  Ideali, lotte, tormenti, si
+raccolgono e si assommano in queste ferme parole, dove, tra tanta
+malinconia di ricordi, @e la certezza di un'intima conquista e
+dove, sia pure come semplice proiezione di un sogno, balena un
+raggio di speranza; che ben si conviene al Canto della Speranza. 
+|Se mai~... e l'espressione dubitativa si colora di segreta fede
+in una rivendicazione che dovr@a esser frutto dell'opera
+immortale; e il valore del |poema~ @e sigillato nella pi@u alta
+parola: |sacro~; e l'eterna materia che ne forma la sostanza @e
+fissata in una drammatica e grandiosa immagine: |al quale ha
+posto mano e cielo e terra~; e l'eroico, silenzioso travaglio di
+|pi$u anni~ @e tutto in una sola parola -- |macro~ -- dove, con
+incisiva forza e con virile pudore, hai il macerarsi della carne
+e dello spirito e dove s'addensano ^fami~, ^freddi~ e ^vigilie~
+(^Purg.~, XXIX, 37 sg.).  Ora che l'Alighieri, come Poeta guidato
+dal Cielo (45; 59; 78 e ^C. pr.~, n. finale), sta per conchiudere
+la sua opera di poesia e di fede, ne sente ancor maggiore il
+pregio e la possa; anzi proprio lui, che in uno scatto di amaro
+disdegno avrebbe voluto uscire dalla vita, perch$e sempre pi@u
+chiusa a ogni cosa buona (^Purg.~, XXIV, 76-81 n.), osa ora
+sperare che la forza ideale della sua opera possa vincere perfino
+la |crudelt@a~ di chi lo |serra~ fuor della patria, rievocata con
+tanta nostalgia nella dolce immagine |del bello ovile ove dorm$i
+agnello.~  E se ancora s'affaccia la figura di quei |lupi~, essa
+@e soverchiata da cose che ben la trascendono: |il poema sacro~,
+|l'altra voce~ e l'|altro vello~ con cui egli |ritorner@a poeta~
+{v.8} nel "bello ovile", e quella corona che ben sente di poter
+cingere |in sul fonte~ del suo |battesmo~, proprio l@a dove un
+giorno |entr@o ne la fede.~  E la coronazione che, per la fede,
+gli @e gi@a venuta da Pietro, si unisce indissolubilmente
+all'immagine dell'altra corona che certo gli @e serbata, anche se
+la neghino gli uomini.  E nei versi ogni parola, ogni immagine,
+s'incide con quella |voce~ che sgorga da una cos@i alta e sofferta
+conquista dell'anima.
+
+	|13-18.  un lume~: S. Iacopo (17 sg.).  -- |di quella~
+ecc.: da quel cerchio di beati (|spera~: ^C. pr.~, 11 e 19 sgg.)
+da cui era uscito S. Pietro, |primizia~ -- il primo in ordine di
+tempo e di merito -- |de' vicari~ di Cristo in terra.  -- |il
+barone~ ecc.  Questo |barone~ (^C. pr.~, 115 n.) @e S. Iacopo
+Apostolo, il cui sepolcro a Santiago di Compostella in |Galizia~,
+nella Spagna, era m@eta di frequenti pellegrinaggi nel Medioevo
+(^V. N.~, XL, 7).
+
+	|19-24.  S$i come quando il colombo si pone~... 
+L'incontro delle due gloriose luci di Pietro e Iacopo -- onde
+l'amoroso gaudio che dolcissimo si espande dall'uno all'altro --
+suggerisce il magnifico paragone dei colombi, dove non @e la
+figura degli animali che pi@u conta, ma l'insieme dei loro atti e
+la traboccante "plenitudine" che senti in quel |pande~ (^Par.~,
+XV, 63 n.), che @e un espandere come aprendo tutta l'anima, e in
+quel |girando e mormorando~ dove hai il vagheggiamento dimostrato
+dagli atti propri dei colombi e da quel loro linguaggio senza
+parole, che @e come un gorgogliare di ci@o che da dentro trabocca. 
+E ancora una volta negli animali senti creature vive.  -- |l'uno
+da l'altro~ ecc.: S. Iacopo da S. Pietro.  -- |il cibo~ ecc.: |il
+cibo~ celeste (^C. pr.~, 1 sgg.) |che l@a su~, nel Paradiso, |li
+prande~, li ciba, li nutre (dal lat. ^prandeo~: ^Purg.~, XXVII,
+78).
+
+	|25-27.  'l gratular~: il rallegrarsi, la vicendevole
+manifestazione di gioia (^C. pr.~, 149 n.).  -- |assolto~: alla
+lat. = terminato.  -- |coram me~: davanti a me (^Par.~, XI, 62). 
+L'espressione latina <inchiude solennit@a> (^Del Lungo~).  --
+|s'affisse~: si ferm@o.  -- |ignito~ ecc.: di cos@i affocata (lat.
+^ign$itus~ da ^ignis~ = fuoco) parvenza che il mio volto, non
+resistendo gli occhi a tanto fulgore, dovette chinarsi (cfr. 34). 
+Quante immagini per rappresentare le celesti accensioni!  E qui
+|ignito~, dove senti il fuoco.
+
+	|28-33.  Ridendo.~  Nel senso consueto: sorridendo.  --
+|Inclita~ ecc.  <O gloriosa anima, che fusti |vita~ del tuo
+corpo> (^Buti~), o anima da cui fu scritto (cfr. l'^Epist.~ di
+^S. Iacopo~, I, 5 e 17) intorno alla |larghezza~, alla liberalit@a
+(^Purg.~, XX, 31), del Cielo, che @e la reggia di Dio.  Infatti
+|basilica~, come annota il ^Lana~, <tanto @e a dire quanto ^domus
+regia~>.  -- |fa risonar~ ecc.: fa' che in questo alto Cielo
+risuoni il nome della Speranza, interrogando Dante intorno ad
+essa.  -- |tu sai~ ecc.: bene la conosci tu, che la raffiguri in
+tutti i casi in cui Cristo |fe' pi$u carezza~, fece dimostrazione
+di maggior onore e amorevolezza, |ai tre~: Pietro, Iacopo e
+Giovanni.  Tale dimostrazione fu fatta da Cristo |ai tre~
+volendoli soli con s$e nella trasfigurazione sul Tabor (^Matt.~,
+XVII, 1-9; ecc.), nella resurrezione della figura di Giairo
+(^Luca~, VIII, 40 sgg.) e sul monte degli Ulivi (^Matt.~, XXVI,
+37).  Dante, scostandosi da S. ^Tommaso~ (^Sum. th.~, III, 45,
+3), intese, secondo alcuni interpreti della Scrittura, che in
+tutti questi casi Pietro rappresentasse la Fede, Iacopo la
+Speranza, Giovanni la Carit@a (cfr. ^Busnelli~ in ^Civilt@a catt.~,
+1910, vol. 3+o~, p. 668 sgg.; e ^Conc. e ord. del Par. dant.~, I,
+151 sgg.).
+
+	|34-36.  Leva~ ecc.  Alza la testa (cfr. 27) e
+rinfr@ancati, poich$e chiunque dalla terra sale al Cielo, anche se
+dapprima sia abbagliato dal nostro fulgore, @e poi da esso
+necessariamente rafforzato e perfezionato (|si maturi~: ^Par.~,
+XXII, 64): nella vista e in tutte le sue facolt@a.
+
+	|37-39.  Questo conforto~ ecc.  Questa esortazione mi
+venne dal |secondo~ fulgore: S. Iacopo, apparso dopo S. Pietro. 
+-- |a' monti~ ecc.: agli Apostoli Pietro e Iacopo che prima, col
+soverchiante peso (|pondo~) del loro fulgore che gravava sui miei
+occhi, li avevano costretti ad ^incurvarsi~, a chinarsi.  I due
+Apostoli son chiamati |monti~ per reminiscenze della Scrittura
+(^Salmi~, LXXXVI, 1; CXX, 1; ^Matt.~, V, 14) e con allusione alla
+loro sublime altezza donde viene a Dante tanta luce.  Ma,
+nonostante una sua biblica solennit@a, l'immagine riferita ai due
+senz'altra determinazione non s'intuisce alla prima e appare
+perci@o poco aderente.
+
+	|40-48.  Poi che~ ecc.  |Poi che lo nostro imperadore~,
+Dio (^Inf.~, I, 124), |per~ particolare |grazia vuol che tu, anzi
+la morte~, prima di morire, |t'affronti co' suoi conti~, ti trovi
+a fronte del beati (|conti~: i ^comites palatini~ di quella
+celeste "reggia" di cui al v. 30; e cfr. ^barone~: v. 17; ^C.
+pr.~, 115 n.) |ne l'aula~, nella sala, |pi$u secreta~ di questa
+"reggia": nell'Emp$ireo <solo dei Cieli nel quale si veggano
+faccia a faccia i Beati> con "imagine scoverta" (^Par.~, XXII, 60
+sgg.) e dove D. avr@a anche la visione del celeste "imperadore". 
+Nota che il P., <guelfo imperialista, riveste di figurazioni
+imperiali l'immagine della |corte~ celeste> (^Del Lungo~).  --
+|s$i che~ ecc.: di modo che, dopo aver veduto quale @e in realt@a il
+Paradiso, tu |conforte~, dia sostegno, rafforzi (^Inf.~, II, 29),
+|in te ed in altrui~, negli altri, |la spene di ci@o~, la speranza
+del Paradiso, speranza |che la gi$u~, in terra, @e la sola che
+|innamori bene~, ispirando l'amore degli eterni beni, che sono i
+soli veri e non fallaci.  Cfr. n. 1-12 e ^C. pr.~, n. finale.  --
+|d$i~ ecc.: di' che cosa sia la Speranza e |come~, in quale
+misura, se ne adorni quasi splendido fiore (|se ne 'nfiora~) il
+tuo animo, e di' |onde~ @e venuta in te.  -- |Cos$i~ ecc.  Cos@i
+continu@o S. Iacopo (cfr. 37).
+
+	|49-51.  quella pia~: Beatrice.  -- |che guid@o le penne~
+ecc.: che mi aveva levato a cos@i sublime altezza.  Cfr. ^Par.~,
+XV, 54.
+
+	|52-57.  La Chiesa militante~: formata da tutti i
+cristiani che, in terra, militano sotto le insegne di Cristo.  La
+Chiesa @e |militante~ in terra, ^trionfante~ in Cielo.  Cfr.
+^Par.~, V, 117; XII, 41.  -- |con pi@u speranza~: che abbia
+maggior speranza di Dante.  -- |nel sol~ ecc.: in Dio che della
+sua luce irradia i beati, i quali tutto leggono in lui.  Cfr.
+^Par.~, IX, 8; XVIII, 105; XXX, 126.  -- |per@o~: per questa
+speranza.  -- |d'Egitto~ ecc.: dalla terra, luogo d'esilio per
+il cristiano rispetto alla sua vera patria che @e il Cielo.
+L'|Egitto~ fu luogo d'esilio per gli Ebrei (^Purg.~, II, 46 e
+cfr. ^Par.~, XXIII, 134 sg.).  -- |in Ierusalemme~: nel Cielo,
+detto ^Gerusalemme celeste~ (^Ep. ai Gal.~, IV, 26; ^Ep. agli
+Ebr.~, XII, 22; ^Apocal.~, III, 12; ecc.).  -- |anzi~ ecc.: prima
+che sia posto termine (|prescritto~: ^Par.~, XXI, 103 n.; XXIV,
+6) alla sua vita terrena, che @e un |militare~ nella "chiesa
+militante" (v. 52).  Cfr. ^Giobbe~, VII, 1.
+
+	|58-63.  Li altri~ ecc.  Beatrice, poich$e sarebbe stata
+|iattanza~ da parte di Dante, ha risposto lei al secondo dei tre
+"punti" -- ^come se ne 'nfiora~ ecc.: v. 46 sg. -- e ha detto che
+nessuno dei cristiani in terra ha pi@u speranza di Dante (52
+sgg.).  Riguardo agli altri due punti -- e cio@e che cosa sia la
+Speranza (^d$i quel~ ecc.: v. 46) e donde sia venuta a Dante (^e
+d$i onde~ ecc.: v. 47) -- Beatrice vuole che parli Dante stesso. 
+-- |che non per sapere~ ecc.: che sono da te domandati non per
+averne nozione, perch$e tutto vedi in Dio, ma solo perch$e Dante
+riferisca agli uomini (cfr. 43-5) quanto ti @e cara la virt@u della
+Speranza.  -- |ch$e non li~ ecc.: poich$e non gli saranno difficili
+(^Pur.~, XXIX, 42; ecc.) n$e occasione a |iattanzia~, a vanteria;
+come sarebbe invece stato confessare da s$e di possedere in alto
+grado la Speranza.  -- |li comporti~: gli conceda; aiutandolo a
+rispondere adeguatamente.
+
+	|64-66.  discente~: lat. ^discens~ = colui che impara:
+discepolo (^Inf.~, XI, 104).  -- |dottor~: maestro.  --
+|seconda~: segue, tien dietro: rispondendo.  -- |libente~: lat.
+^libens~: volonteroso, di buona voglia.  -- |in quel~ ecc.: in
+ci@o che ben conosce.  -- |perch$e~ ecc.: acciocch$e si faccia
+manifesto quanto egli vale, sa.  Cfr. ^C. pr.~, 46 sgg.
+
+	|67-69.  Spene~ ecc.  Speranza @e sicura aspettazione
+della |futura gloria~ del Cielo, la quale aspettazione @e generata
+dalla |grazia divina~ e dai nostri precedenti meriti.  Qui Dante
+traduce ^Pietro Lombardo~ (^Sent.~, III, 26).
+
+	|70-73.~  Ora che ha detto cos'@e la Speranza dice ^onde
+venne~ a lui.  -- |stelle~: scrittori sacri, onde rifulse a lui
+tanta |luce.~  Cfr. ^Daniele~, XII, 3.  -- |ma quei~ ecc.: ma
+prima d'ogni altro |la distill@o~, la infuse in me -- quasi a
+stilla a stilla (^Purg.~, XV, 95) -- |quei~, David, |sommo
+cantore~ di Dio, dello "Spirito Santo" (^Par.~, XX, 38 n.)
+
+	|73-75.  Sperino~ ecc.  Sono le parole del ^Salmo~ IX,
+11.  -- |ne la sua teod@ia dice~: dice David nei ^Salmi~, che sono
+un canto in onore di Dio (|teod$ia~).  -- |che sanno~ ecc.: che
+conoscono Dio e quindi credono in Lui.  Dalla Fede nasce la
+Speranza (^Sum. th.~, II, ii, 17, 7).  -- |la fede mia~: salda ed
+intera quale ora l'ho professata (^C. pr.~, 86 sg.; 130 sgg.).
+
+	|76-78.  Tu mi stillasti~ ecc.  Tu pure, con ci@o che
+m'instill@o David (71), instillasti in me la "luce" della
+Speranza: |poi~ -- dopo di lui -- con la tua Epistola
+(|p$istola~); |s$i ch'io son pieno~, trabocco, di Speranza e
+|repl$uo~ (lat. ^repluo~), ripiovo, riverso come "larga ploia"
+(^C. pr.~, 91) sugli altri uomini quella Speranza che, quale
+benefica |pioggia~, da voi @e scesa in me.  Nell'Epistola di S.
+Iacopo anche se non si parla in modo esplicito della Speranza,
+questa v'@e in ispirito (^cfr.~ ^A. Chiappelli~, ^N. Ant.~, CCVII,
+p. 8).  Nota come si accenda Dante parlando della Speranza s@i che
+da |stillasti~ e |stillar~ giungi a |pieno~, |pioggia~, |repl$uo.~ 
+E ancora una volta senti il Poeta investito di un'alta missione
+dal Cielo (|ed in altrui~ ecc.).
+
+	|79-81.  Mentr'io diceva~ ecc.  Come segno di gaudio per
+le parole di Dante, l'affocato "lume" (|incendio~) di S. Iacopo
+manda un lampeggiamento |dentro al vivo seno~: nella parte intima
+dov'@e l'anima e donde pi@u "viva" s'irradia la luce.  ^L'ign$ito~
+lume (27) @e qui |incendio~ (^Par.~, XIX, 100); e |"tremolava"~
+rappresenta mirabilmente il |s$ubito e spesso~ palpito del lampo.
+
+	|82-87.  spir@o~: disse (^C. pr.~, 32 n.).  -- |L'amore~
+ecc.  L'amore ardentissimo che io ho -- nota la forza di
+|avvampo~ -- ancora |ver~, verso, |la virt$u~ della Speranza, che
+non mi abbandon@o mai fino al momento in cui conseguii la |palma~
+del martirio e in cui, morendo, uscii da quel |campo~ di
+combattimento che @e la vita come "milizia" (52 e 57) ecc.  S.
+Giacomo avvampa di tale amore |ancor~: pur essendo in Cielo, dove
+non ha pi@u luogo la Speranza perch$e ormai si possiede la
+beatitudine, n$e la Fede perch$e al credere si sostituisce la
+diretta visione di Dio.  Solo la Carit@a sar@a eterna.  Cfr. ^Sum.
+th.~, II, ii, 18, 2; ^I Ep. ai Cor.~, XIII, 8.  -- |rispiri~:
+"spiri" di nuovo (82); riparli -- |che ti dilette di lei~: che
+hai cara la Speranza.  -- |@emmi~: mi @e.  -- |diche~: dica
+(^Inf.~, XXV, 6).
+
+	|88-90.  Le nove~ ecc.  L'Antico e il Nuovo Testamento
+|pongono il segno~, la m@eta, che @e delle anime elette da Dio, |ed
+esso~ "segno" |mi addita~ "quello che la speranza mi promette":
+la beatitudine.  Riguardo alla punteggiatura, che @e assai
+discussa, seguo il ^Vandelli~ e il ^Casella.~
+
+	|91-93.  Dice Isaia~ ecc.  Dante qui allude a un passo
+d'|Isaia~ (LXI, 7) e cos@i lo rielabora: |ne la sua terra~ --
+nella sua vera patria che @e il Cielo -- |ciascuna~ anima eletta
+(90) sar@a vestita di una |doppia vesta~ (127): il fulgore che ora
+fascia l'anima e che, dopo la Resurrezione, fascer$a anche il
+corpo.  Il raddoppiato fulgore rispecchia l'accresciuta
+beatitudine (^Par.~, XIV, 37 sgg.).  -- |dolce vita~: del
+Paradiso.
+
+	|94-96.  E 'l tuo~ ecc.  E ^S. Giovanni~ (|fratello~)
+nell'^Apocal.~ (VII, 9; 13-17) ci manifesta assai pi@u |digesta~,
+distinta nei particolari -- senso deriv. dal vb. lat. ^digerere~
+--, |questa revelazione l@a dove tratta~ dei beati che stanno
+dinanzi al trono di Dio, "vestiti di bianche stole" (^l. c.~).
+
+	|97-102.  E prima~ ecc.  E subito dopo che ebbi finito di
+parlare, |prima s'ud$i~ intonare |di sopr'a noi~ il versetto 11
+del ^Salmo~ IX -- |Sperent in te~ ecc. (73 sg.) -- che fu
+ripetuto da tutte le "corone" di spiriti danzanti (|carole~:
+^Par.~, XXIV, 16 n.); |poscia~ -- @e in correlazione con |prima~
+del v. 97 -- finito il canto, |tra esse~ carole |un lume si
+schiar$i s$i~, si fece cos@i fulgido, che ecc.  @E il |lume~ di S.
+Giovanni.  -- |che se 'l Cancro~ ecc.  Nel periodo invernale che
+va dal 21 dicembre al 21 gennaio, periodo in cui il sole @e nel
+Capricorno, allorch$e <tramonta la costellazione del Cancro, sorge
+il Sole; e quando tramonta il Sole, sorge la costellazione del
+Cancro. Dunque, se nel Cancro ci fosse una stella cos@i luminosa
+[|tal cristallo~: ^Par.~, XXI, 25], nel mese in cui avviene
+quell'avvicendarsi del Cancro col Sole, ci sarebbe sempre giorno
+[|l'inverno avrebbe un mese d'un sol d$i~], o determinato dal
+Sole, o determinato dalla supposta stella> (^Cornoldi~).  Ma il
+paragone @e tutto sottilmente ragionato e nasconde l'immagine
+sotto astrusi riferimenti scientifici.
+
+	|103-108.  E come~ ecc.  E come si leva e v'avvia ed
+entra nel cerchio della danza |vergine lieta, sol per fare onore
+a la novizia~, alla novella sposa, e |non per alcun fallo~ di
+vanit@a, non per far mostra di s$e -- nota la composta letizia
+della "vergine" -- |cos$i vid'io lo schiarato splendore~ di S.
+Giovanni (100) -- sentiamo una melodia che dilaga e "si schiara"
+come quella luce -- |venire a' due~, S. Pietro e S. Iacopo, |che
+si volg$ieno~, danzavano in giro, all'armonia (|nota~: ^Purg.~,
+XXX, 93 n.) del loro canto, che era |quale~ si conveniva alla
+|loro ardente~ carit@a.
+
+	|109-111.  Misesi l$i nel canto~ ecc.  In perfetto accordo
+con S. Pietro e S. Iacopo entr@o a partecipare al loro canto e
+alla loro danza circolare (|rota~).  -- |l'aspetto~: lo sguardo. 
+-- |pur come~ ecc.: <|sposa~ accenna la dignitosa bellezza di
+Beatrice festeggiata; |tacita~ il verecondo rispetto; |immota~ la
+calda bramosia di nulla perdere della mirabile scena> (^L.
+Venturi~, 264).  Beatrice @e la Scienza della Verit@a rivelata e i
+tre Apostoli rappresentano qui le tre virt@u teologali.  Ma il
+fondo simbolico @e sopraffatto dal commosso rapimento in cui
+s'incanta l'anima.
+
+	|112-114.  Questi~ ecc.  Giovanni, il prediletto di
+Cristo, che, nell'ultima cena, pos@o il capo sul petto di Ges@u
+(|giacque~ ecc.: ^Giov.~, XIII, 23; XXI, 20) e che fu da lui |di
+su la croce eletto al grande officio~ di tenere il suo posto
+presso Maria: come figlio (^Giov.~, XIX, 26-27).  Ges@u @e
+raffigurato nel |pellicano~, sia per la reminiscenza del ^Salmo~
+CI, 7, sia perch$e si credeva che quest'uccello col suo proprio
+sangue risuscitasse i figli morti: come fece Cristo che vers@o il
+sangue suo per risuscitare gli uomini dalla morte spirituale del
+peccato.
+
+	|115-117.  n$e per@o~ ecc.: |n$e per@o le parole sue, poscia~
+che cominci@o a dirle, |mossero~ (distolsero), |pi$u che prima, la
+sua vista~ dallo |stare attenta~; e cio@e il fatto di parlarmi non
+la distolse dal guardare i tre Apostoli con la stessa attenzione
+di prima.
+
+	|118-123.  Qual~ ecc.  Come colui che, in attesa
+d'un'eclissi parziale (|un poco~) di sole, fissa il sole
+ingegnandosi di percepire con lo sguardo quel parziale
+|eclissar~, s@i che, per voler vedere, rimane abbagliato e non
+vede pi@u nulla, tale divenni io nel fissare il |foco~, il "lume"
+di S. Giovanni, giunto |ultimo~ -- dopo S. Pietro e S. Iacopo --
+e cos@i rimasi |mentre che~, finch$e, da S. Giovanni stesso non |mi
+fu detto~ ecc.  Nota il vivissimo paragone tratto dalla realt@a e
+avverti che Dante fissa cos@i intensamente il fulgore di S.
+Giovanni, per vedere se egli sia veramente in Cielo anche col
+corpo, secondo una credenza del Medioevo derivata dalle parole
+che Cristo, nella sua terza apparizione dopo la morte, disse a
+Pietro riguardo a Giovanni: <Sic eum volo manere donec veniam>;
+parole che, gi@a fra i compagni di Giovanni, furono intese nel
+senso che questi non sarebbe mai morto; come racconta ^Giovanni~
+stesso nel suo ^Vangelo~ (XXI, 20-23).  -- |Perch$e~ ecc.  |Perch$e
+t'abbagli~, figgendo l'occhio nel mio fulgore, |per veder cosa~
+-- il mio corpo -- che qui non c'@e e non pu@o esserci?
+
+	|124-126.  In terra~ ecc.  |Il mio corpo~, fatto |terra~,
+@e rimasto |in terra~; |e sar@agli~ -- e vi sar@a, vi rester@a (|gli~
+per ^vi~: ^Inf.~, XXIII, 54 n.) -- |con li altri~ corpi morti
+fino a che |il numero~ degli eletti |s'agguagli~ -- e dopo
+avverr@a il Giudizio Universale -- a quello che ^Dio ab aeterno~
+ha predestinato.  D. dice nel ^Conv.~ (II, v, 12) che i beati
+dovranno essere tanti da colmare il vuoto lasciato dagli angeli
+ribelli.
+
+	|127-129.  le due stole~: la "doppia vesta" luminosa
+dell'anima e del corpo (92 n.).  -- |beato chiostro~: il Cielo
+(^Purg.~, XV, 57; XXVI, 128 nn.).  -- |le due luci~ ecc.: solo
+Cristo e Maria, che hai visti risalire all'Emp$ireo (^Par.~,
+XXIII, 85-87; 112-126).  -- |apporterai~ ecc.: riferirai gi@u in
+terra.
+
+	|130-135.  l'infiammato~ ecc.: la danza circolare di
+quegli spiriti accesi come fiamme -- ma Dante vede |l'infiammato
+giro~ -- cess@o insieme col canto, che era una soave mescolanza
+(|dolce mischio~) formata dalle tre voci (|trino spiro~: ^Par.~,
+XXIV, 32 n.) degli Apostoli.  -- |s$i come~ ecc.: "si quiet@o"
+istantaneamente |come~, per evitare (|cessar~: ^Inf.~, XVII, 33)
+l'eccessiva |fatica~ del vogare o un qualche |rischio~ imminente,
+|li remi~, prima |ripercossi ne l'acqua, tutti~ insieme e d'un
+tratto |si posano~, si fermano, allorch$e risuona il |fischio~ del
+nostromo.  La perfetta aderenza del paragone @e nell'istantaneo
+cessare delle azioni compiute nei due casi.
+
+	|136-139.  Ahi quanto~ ecc.  Quanto rimasi turbato |per~
+il fatto di |non poter vedere~ Beatrice allorch$e |mi volsi per
+veder lei~; per non poterla vedere |ben che io fossi presso di
+lei, e~ per di pi@u |nel mondo felice~, nel Paradiso!  Dante non
+riesce a vedere Beatrice perch$e @e ancora abbagliato dal fulgore
+di S. Giovanni (^C. sg.~, 1-5).
+
+	^Il canto della Speranza.~  In questo Canto, dove
+particolarmente si rileva il valore religioso della ^Commedia~ e
+la missione de Poeta come cosa voluta dal Cielo (cfr. spec. 1;
+12; 43-5; 75-8; 129), Dante fa rifulgere in special modo la virt@u
+della Speranza che egli dice di possedere pi@u che ^alcun~ altro
+^figliuolo~ della ^Chiesa militante~ (52-7).  Ma se Speranza ^@e
+uno attender certo de la gloria futura~ (67-8), in tale virt@u, da
+cui tutto @e acceso il Poeta, sentiamo anche assommarsi la sua
+messianica attesa di eventi per cui sarebbe sicuramente avvenuta
+la rigenerazione della Chiesa di Cristo e della traviata umanit@a;
+e ripensiamo al sogno del Veltro e ai molti accenni
+all'intervento della mano divina che dovr@a estirpare il male dal
+mondo, portandovi il suo balsamo purificatore (^Par.~, XXVII,
+142-8; ecc.).  Non per nulla, proprio per la virt@u della Speranza
+@e stata concessa a Dante la grazia di salire ancor vivo dalla
+terra all'Emp$ireo (55-7); s@i che l'^alto volo~ (50) @e compiuto
+non solo dalla fantasia di un poeta ma da una sublime Speranza
+che, se cristianamente volge lui e tutta l'umanit@a alla vera
+patria del Cielo, rivela anche la luce ideale che ha sostenuto
+l'uomo in tutte le sue lotte e in tutti i suoi terreni tormenti.

@@ -1,0 +1,94 @@
+	|1.~  ^L'effecto~ -- Sensus est sic: iste contemplans effectum ad suum 
+libitum assumpsit officium liberi doctoris et incepit ista sancta 
+verba, videlicet <La piaga>.
+
+	|4.~  ^Maria~ -- Que peperit Salvatorem.
+
+	|6.~  ^Colei~ -- Scilicet Eva.  ^L'aperse~ -- Pomum vetitum comedendo.
+
+	|8.~  ^Rachel~ -- Uxor Iacob.
+
+	|10.~  ^Sarra~ -- Uxor Abrae.  ^Rebecca~ -- Uxor Isaac.  ^Iudith~ -- 
+Vidua que occidit Olefernem.
+
+	|11.~  ^Bisava~ -- Ista est Ruch uxor Booc patris Obed, patris Iesse, 
+patris David; qui, penitens peccati commissi in Uriam et Bersabe uxorem 
+eius, cecinit psalmum quinquagesimum, scilicet: <Miserere mei, Deus, 
+secundum magnam misericordiam tuam> et cetera.
+
+	|26.~  ^Semicirculi~ -- Quia non erant omnes sedes circumcirca replete 
+in celo.
+
+	|31.~  ^Gran Iohanni~ -- Scilicet Baptiste.
+
+	|33.~  ^Duo anni~ -- Scilicet usque quo Christus descendit ad 
+spoliandum limbum.
+
+	|44.~  ^Spiriti asciolti~ -- Scilicet puerorum.
+
+	|45.~  ^Electioni~ -- Quia nondum fuerant doli capaces nec per eorum 
+opera meruerunt, sed propter innocentiam.
+
+	|53.~  ^Casual punto~ -- Quia nichil potest contingere in celo a casu 
+vel a fortuna vel extraordinarie.
+
+	|54.~  ^Tristitia~ -- Iste paxiones non accidunt beatis.
+
+	|56.~  ^Giustamente~ -- Quia omnia fecit Deus in numero, pondere et 
+mensura.
+
+	|68.~  ^Gemelli~ -- Filiis Isaac, scilicet in Esau et Iacob natis ex 
+Rebecca uno partu.  Nam egressus est ex utero Esau primo, licet 
+reprobatus, secundo Iacob, Deo dicatus, qui tenebat Esau per pedem.  De 
+quibus dixit Deus ad Isaac: <Duo filii duo populi sunt; maior minori 
+serviet> et cetera.
+
+	|76.~  ^Recenti~ -- Scilicet in prima etate et usque ad Abraam, quando 
+sola parentum fides sufficiebat.
+
+	|81.~  ^Circoncider~ -- Sicut fuit Abrae preceptum quando homines iam 
+quasi ydolatre facti erant, unde oportuit institui fidei nova signa.
+
+	|83.~  ^Baptismo~ -- Triplex est: aque, ut in pueris; sanguinis, ut in 
+martiribus; flaminis, ut in predestinatis.
+
+	|84.~  ^Ritenne~ -- Quia absque baptismate nullus potest ingredi celum.
+
+	|85.~  ^Faccia~ -- Marie Virginis.
+
+	|89.~  ^Sante~ -- Scilicet angelorum et sanctorum.
+
+	|112.~  ^Quello~ -- Gabriel angelus.
+
+	|116.~  [^Patrizi~] -- Patricii dicuntur qui provident rei pupplice 
+et eam servant.  Nam pater dicitur quasi panthochir, idest servans 
+omnia.
+
+	|119.~  ^Augusta~ -- Scilicet Marie imperatrici celesti.
+
+	|121.~  ^S'aiusta~ -- Scilicet appropinquat.
+
+	|122.~  ^Padre~ -- Adam scilicet princeps hominum.
+
+	|124-126.~  ^Padre vetusto -- Fior venusto~ -- Hic est beatus Petrus 
+princeps apostolorum.
+
+	|127.~  ^Gravi~ -- Hic dicit de sancto Iohanne Evangelista.
+
+	|128.~  ^Sposa~ -- In sua Apocalipsi scilicet.  ^Sposa~ -- Scilicet 
+Ecclesia Dei.
+
+	|129.~  ^S'aquist@o~ -- Per Christi paxionem.
+
+	|131.~  ^Duca~ -- Scilicet Moyses.
+
+	|132.~  ^Gente~ -- Scilicet Iudeorum.
+
+	|133.~  ^Anna~ -- Marie mater.
+
+	|136.~  ^Contra~ -- Scilicet ex opposito Adam.
+
+	|137.~  ^Lucia~ -- Scilicet gratia divina qua liberatus fuit Adam et 
+posteri eius.  ^Donna~ -- Scilicet Beatricem, ut supra in principio 
+^Comedie~.
+

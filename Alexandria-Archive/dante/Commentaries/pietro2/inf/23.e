@@ -1,0 +1,98 @@
+	|Proemio.~  Canto XXIII+o~ nel qual tracta de la divina
+vendecta contra l'ipocriti.  Del qual peccato, socto el vocabolo
+de due cittadini de Bulogna, abomina l'autore li Bolognese, et li
+Giudei socto el nome d'Anna et de Chaifas.  Et qui @e la sexta
+bolgia.
+
+	Auctor in hoc capitulo duo principaliter facit: primo
+continuat se adhuc ad proxime precedentia [  ] et hec pars durat
+usque ad finem huius capituli.
+
+	Ad primam igitur veniendo prenotandum est quod duo sunt
+species baracteriorum.  Prima est illorum officialium, qui in sua
+perfida cupiditate provocant homines ad dandum sibi pecuniam ut
+pro eis iudicent prave vel qui aliter male agunt in eorum
+officio, ut fecerunt dicti frater Gomita et Michel Zanca et alii,
+ut superius dixi.  Altera est illorum hominum privatorum, idest
+in aliquo officio non existentium, qui verbis alios decipiunt
+promictendo unum et agendo aliud.
+
+	|4-6.~  De quibus ad nostram moralitatem, ut precaveamus
+nobis a talibus istis baracteriis et trabutatoribus, sub
+allegoria Ysopus in quadam eius fabula tangit, dum dicit de rissa
+rane, promictentis muri se ipsum transportare ultra aquam,
+conligato eo secum cum filo per pedem, et que, postquam sic fuit
+in aqua, summergebat se ut mus moriretur et inde eum comederet,
+et quomodo resistente ipso mure milvus ambo accepit et comedit,
+prout ibi legi potest.  Unde ibidem notabiliter ipse Ysopus ait:
+^Omnes genus pestis superat mens dissona verbis/ cum sentes animi
+florida lingua polit.~  Et subdit: ^Sic pereant qui se prodesse
+fatentur et obsunt:/ discat in actorem pena redire suum.~
+
+	|6-12.~  Modo cum auctor ipsam eandem moralitatem
+voluerit nobis tradere loquendo de dicto Navarrensi decipiente
+ita dictos demones verbis, ut dicit textus, sub allegoria talium
+baracteriorum, ideo dicit hic quod 'mo', quod vulgare est
+Lombardorum, et 'issa', quod est vulgare Lucensium, licet diversi
+sint in prolatione, idem tamen sunt in effectu, quia utrumque
+importat hoc adverbium temporis 'nunc', non plus conveniunt simul
+in effectu quam dictum ipsius auctoris presens cum dicta fabula
+Ysopi, si quis bene cum mente fixa, idest subtili, respiciat
+principium, idest licteralem sensum, et finem, idest moralem et
+allegoricum sensum, in dictis utriusque premissis sensibus.  Et
+hoc quantum ad materiam predicte utriusque qualitatis
+baracteriorum et ad hanc primam partem huius capituli, cum alia
+in ea per se sint clara.
+
+	|58-66.~  Modo procedamus ad 2+am~ et ultimam partem
+predictam huius capituli, in qua auctor fingit se intrasse VI+am~
+bulgiam et in ea vidisse animas ypocritarum cum illis cappis
+plumbeis deauratis exterius adeo ponderosis et gravibus quod
+respectu earum palee erant ille cappe, quas olim Federicus
+imperator secundus faciebat indui suos proditores, cum quibus
+apposito circa igne una cum plumbo dicti proditores fundebantur.
+Et hoc quantum ad licteram.  Veniamus ad allegoriam.  Auctor, ut
+tangat vitam quam gerunt ypocrite in hoc mundo eundo tristes et
+plane et cum indumentis gravitate et honestate notandis, ut
+sancti appareant, et intus vitiosi consistunt, fingit sub
+allegoria eos ita ire plane et lacrimantes cum cappis aureis
+extra et plumbeis intus.  Et ideo diffinitur ita: ^Ypocrisia est
+culti vitii callida palliatio et dicitur ab 'ep@i' quod est
+supra, et 'crisis' quod est aurum.  Unde Gregorius, super illo
+verbo ^Iohannis~: ^Erunt radiis solis,/ et sternet sibi aurum
+quasi lutum~, sic ait: ^Per aurum designatur ypocrite, qui quasi
+deaurati sunt et in superficie videntur habere virtutes nec
+habent.  Unde fit, ut ipsa virtus ante Dei oculos virtus non sit,
+dum abscondit ypocrita quod displicet et prodit quod placet -- et
+sic quando detegitur tunc aurum quasi lutum sternitur --.  Nam
+latet in eis superbia, castitas innotescit; alius elimosinis
+vacat, intus iniustitie servit.  Unde iudicio iusto agitur, ut
+perdat ante homines unde hominibus placuit.~  Unde et ^Mathei~
+XXIII+o~ capitulo dicitur: ^Ve vobis, scribe et Pharisei
+ypocrite, qui similes estis sepulcris dealbatis, que extra
+speciosa videntur, intus plena sunt turpitudine et tabe.~  Item
+Tullius ^De Officiis~ contra hoc vitium etiam ita ait: ^Totius
+iniustitie nulla capitalior quam eorum qui, cum maxime fallant,
+id agunt, ut boni viri esse videantur.~
+
+	|103-108.~  Fingens inter alios ibi esse umbram Domini
+Catalani de Catalanis et umbram Domini Lodoringhi de Andalo de
+Bononia, qui existentes ambo Fratres Gaudentes electi fuerunt
+semel per Florentinos loco eorum potestatis, ut regerent eos
+equanimiter scilicet Guelfos et Ghibellinos dicte civitatis
+Florentie, ex eo quod dictus Dominus Catalanus erat Ghelfus et
+dictus Dominus Lodoringus Ghibellinus.  Qui demum ita egerunt
+quod Uberti et eorum pars expulsi fuerunt de Florentia et domus
+eorum, que erant in dicta civitate in loco qui dicitur Gardingus,
+funditus destructe sunt per Guelfos Florentinos.
+
+	|115-123.~  Item fingit ibi esse umbram Chayphe et Anne,
+eius soceri, qui data pecunia Romanis continue alterutro anno
+quilibet eorum in Ierosolima erat summum pontifex Iudeorum; qui
+Cayphas in concilio Iudeorum consuluit Christum debere occidi
+dicendo: ^Expedit ut unus moriatur pro populo, ne tota gens
+pereat.~
+
+	|139-144.~  Ultimo dicit quod legitur ^Iohannes~ capitulo
+VIII+o~ ibi: ^Dyabolus est mendax et pater eius.~
+

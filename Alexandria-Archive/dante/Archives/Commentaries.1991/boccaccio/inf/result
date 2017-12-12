@@ -1,0 +1,181 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Boccaccio
+	Language   = Italian
+	Pub. Year  = 1373
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.newload into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante      164275 Mar 23 09:33 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.newload into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante      102206 Mar 23 09:34 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.newload into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       88184 Mar 23 09:34 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.newload into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante      353403 Mar 23 09:35 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.newload into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante      141667 Mar 23 09:36 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.newload into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       95126 Mar 23 09:36 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.newload into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante      144346 Mar 23 09:37 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.newload into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       59630 Mar 23 09:37 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.newload into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       93666 Mar 23 09:38 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.newload into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       57869 Mar 23 09:38 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.newload into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49629 Mar 23 09:39 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.newload into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       98627 Mar 23 09:39 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.newload into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       73546 Mar 23 09:40 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.newload into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       70539 Mar 23 09:40 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.newload into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       52285 Mar 23 09:40 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.newload into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante       49602 Mar 23 09:41 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.newload into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Boccaccio...
+Verifying Boccaccio...
+
+No Verification Errors.
+-rw-r--r--  1 dante        4630 Mar 23 09:41 ../staging/inf/17

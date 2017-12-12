@@ -1,0 +1,1370 @@
+	|1.~  A quanto si @e scritto sopra il senso figurato
+della ^vita~, della ^selva~ e della ^via~, di cui qui tocca il
+Poeta; ci piace aggiungere il seguente testo di Ezechiele 18:
+onde si vegga che mai nel senso ^allegorico-teologico~
+significissero queste voci nelle sante scritture.  L'uomo, dice
+il Profeta: ^In justitia sua quam operatus est vivet... si
+autem averterit se justus a justitia sua et fecerit~
+^iniquitatem... numquid vivet?...  Numquid via mea non est aequa,
+et non magis viae vestrae pravae sunt?  Cum enim averterit se
+justus a justitia sua~, ^et fecerit iniquitatem, morietur in
+eis.~
+
+	Fra le tante peregrine osservazioni fatte da' dotti
+illustratori di questo luogo; perch@e non si dia a Ser Brunetto
+Latini la gloria d'avere con la finzione della sua Selva prestato
+a Dante la idea della sua selva oscura; produciamo il seguente
+passo del Profeta Geremia (Cap. 31): ^Statue tibi speculam, pone~
+^tibi amaritudines, dirige cor tuum in viam rectam, in qua
+ambulasti: revertere... revertere ad civitates tuas istas.~
+^Usquequo deliciis dissolveris...?  Benedicat libi Dominus
+pulcritudo justitiae mons sanctus.~
+
+	Il Torricelli contro altri not@o che ^Nel mezzo~ ec.
+non @e punto ^in dimidio dierum meorum~ ec.  Questo luogo del
+nostro P. ritrae per@o tanto dal concetto e locuzione del
+seguente passo del Latini, che non tanto a torto l'Ozanam
+s'avvis@o che da esso riconoscesse Dante l'ispirazione del
+Sacrato Poema.  Diremo che almeno in parte v'abbia potuto
+influire; ch@e nel tutto ci voleva ben altro.  Ecco i versi di Ser
+Brunetto:
+
+     Or va mastro Brunetto
+       Per lo cammino stretto...
+     E non fui guari andato
+       Ch'io fui nella diserta,
+     Dov'io non trovai certa
+       N@e strada n@e sentiero,
+     Deh che paese fero,
+       Trovai in quelle parti.
+     Che s'io sapessi d'arti,
+       Quivi mi bisognava,
+     Che quanto pi@u mirava
+       Pi@u mi parea selvaggio.
+     Quivi non ha viaggio....
+       E io pensando forte
+     Dottai ben della morte.
+
+	Che piccola favilla a s@i grande fiamma!
+
+	|2.~  La similitudine della Selva, in cui per diverse vie
+smarrisconsi i viandanti, sembr@o acconcia anche ad Orazio a
+significare gli errori e le svariate pazzie degli uomini, cui
+malnata stoltezza conduce a operare senza la luce del vero.  Lib.
+II, Sat. III, 48:
+
+     ^....  Velut silvis, ubi passim~
+     ^Palantes error certo de tramite pellit~ ec.
+
+	Dove quel ^certo de tramite @e la diritta via di
+Dante~; avvegnacch@e poi egli le abbia dato un senso allegorico e
+sacro, qual vide pel primo l'illustre Conte Fm. Torricelli.  N@e
+cosa nuova @e, che il nostro poeta accresca di alte bellezze
+quelle stesse locuzioni che prende dagli altri.
+
+	L'Ariosto imitando Orazio (Orl. Fur., XXIV, 2):
+
+     Vari gli effetti son; ma la pazzia
+     @E tutt'una per@o, che li fa uscire.
+     Gli @e come una gran selva, ove la via
+     Conviene a forza, a chi vi va, fallire: 
+     Chi su, chi gi@u, chi qua, chi la travia.
+
+	E il Pignotti dice:
+
+                      ..... il mondo
+     @E come una gran selva, ove la via~
+     Chi ponvi il piede subito smarrisce.~
+
+	Cotesto smarrimento morale od errore, onde l'uomo
+impulso dalle passioni corre dietro al falso bene, @e accennato
+medesimamente da Beatrice (Purg. XXX, 130):
+
+     E volse i passi suoi (Dante) per via non vera~
+       Immagini di ben seguendo false~,
+       Che nulla promission rendono intera.~
+
+	Queste locuzioni hanno infiniti riscontri nelle sante
+scritture.  Salm. XV, 10 -- XXXV, 10 -- Is. XXVI, 7 ed altrove.
+
+	|4.  Cosa dura~ ^a dir.~  -- Dice un eccellente
+comentatore: ^dura, increscevole cosa a dire, a narrare qual'
+era~ ec.  Pare, a dir vero, fosse e dovess'esser pi@u che
+^increscevole~ il dire qual'era una Selva che in solo pensarvi
+rinnovava la paura al Poeta.  ^Dura~ qui ne pare ch@e abbia
+sentimento non pur di ^crudele~, ma di ^ardua, difficile,
+intrigata~ ec., e, come porta la propriet@a del vocabolo, ^mal~
+^prestatasi a esser descritta.~  Cos@i quando al Poeta verr@a poco
+appresso veduta la scritta morta sulla porta infernale, l'udirem
+dire a Virgilio:
+
+     ...  Maestro, il senso lor m'@e duro;
+
+volendo significare che la sentenza chiusa in quelle parole non
+sapea egli aprire, o la distrigava s@i, che non ne veniva punto
+confortato a mettervisi per entro l'Inferno.  Dove questa voce
+non @e tolta nel senso proprio, ma nel traslato, non sar@a
+malagevole vedere i vari luoghi del Poeta confermar quel che
+diciamo.  Nell'Inferno (XIV, 44) Dante dice:
+
+               ...  Maestro, tu che vinci
+     Tutte le cose, fuor che i Dimon duri.~
+
+	Or codesta stessa durezza diabolica @e riferibile all'
+inutile sforzo, che fece il Poeta latino, a persuader quei dimoni
+che cedessero il passo da lor custodito.  Coi ^dimon duri~ poco o
+nulla vale l'insinuante suo eloquio e l'arte gi@a pi@u volte
+provata con Caronte, con Pluto e con Capaneo, e che mirabile
+mostrossi per tutto il portentoso viaggio, quante volte fu d'
+uopo della sua efficacia.  -- Il senso che noi pretendiamo si dia
+alla voce, vien chiaro da s@e negli altri versi (Inf. XXXII,
+13):
+
+     Oh sovra tutte mal creata plebe~
+     Che stai nel loco, onde parlare @e duro.~
+
+	Dante molte fiate adopra ^forte~ per ^difficile a
+intendere e spiegare~, siccome qui fa del vocabolo ^dura~; che fu
+gi@a usato nell'identica accettazione da Guido Cavalcanti:
+
+     Alla dura quistione e paurosa~,
+       Che mi fe questa gentil forosetta~,
+       Io dissi ec.....~
+
+dove ^dura quistione~ non @e dubbio che vaglia difficile ad
+estricare.  Il Poeta, con frase da questa non dissimile, fa
+parlare il Conte Ugolino cos@i (Inf. XXXIII, 5):
+
+     .... dolor che'l cor mi preme~
+     Gi@a pur pensando, pria ch'i' ne favelli.~
+
+	Virgilio, En. II, 12:
+
+     ^.... animus meminisse horret.~
+
+	|5.~  Il Poeta pare che dica ^Selva selvaggia~ quella
+ond'egli usciva, a fine di farla distinguere dalle selve
+migliori, perch@e fruttifere.  Il Barrio, De ant. Calabr. lib. II,
+cap. VI; ^Sunt et silvae glandiferae, et silvestres.~
+
+	Del resto non @e difficile trovare usati da' nostri
+vecchi ^onore onorato, piacer piacente, dolce dolcore, amoroso
+amore~ ec., modi che hanno forza di superlativi, come: ^Sommo
+piacere, sommo onore, sommo amore, somma dolcezza~ ec.  Cos@i
+il ^Rex regum~ della Bibbia e il ^dominus dominantium~; in Omero
+il ^Re de' regi Atride~ per ^potentissimo re~; Salomone
+^Vanitas vanitatum -- inanissima vanit@a~ ec. ec.
+
+	Secondo questo ch'@e detto, potrebbe per ^Selva
+selvaggia~ avere inteso dir Dante ^una selva sommamente
+inospitale, orrorosa~ ec.  (V. Nannucci, Teor. Verb. pag. 353 (5)).
+
+	Gli antichi piacevansi di cotesti derivati.  Ad esempi:
+
+	Fra Guittone:
+
+     Che troppo @e segno d'amoroso amore
+     Far lo Signor del servo
+     Suo pari; ec.
+
+	Dante da Maiano:
+
+     Onde allo cor m' @e nata
+     Dogliosa doglia che mi fa dolere.
+
+	Ancora:
+
+     E sol per questo indovinar vorrei
+     Ci@o che piacesse a voi gioiosa gioia.
+
+	E:
+
+     Che vuol ch'i' laudi lo piacer piacente.
+
+	Cos@i degli altri.  Ma il verso dantesco non @e dello
+stesso conio; ove si consideri quel che per noi fu notato.  Del
+resto nel poema in nona rima attribuito a Dino Compagni, ma ch'
+@e di tempo anteriore, e che di molti pregi @e ricco, si legge:
+
+     Sed e' temero in si forte fortezza
+     Dove credean giammai trovar salvezza?
+
+	Virg. En. II 53: ^Insonuere cavae~, ^gemitumque dedere
+cavernae~, dove l'immagine acquista pi@u evidenza con l'aggiunto
+di ^cavae~ a ^cavernae.~
+
+	^Forte~ fra gli altri significati vale anche ^doloroso,
+gravoso, difficile, strano, amaro.~
+
+	Inghilfredi Siciliano (1840):
+
+     Audite forte cosa che me avviene:
+     Eo vivo in pene, -- stando in allegranza.
+
+	Enzo Re:
+
+     ....  Anzi mi si rinfresca
+     Pena e dogliosa morte
+     Ciascun giorno pi@u forte.
+
+	Questo aggiunto dato alla ^selva~ ha molto legame col
+verso appresso:
+
+     Tanto @e amara che poco @e pi@u morte,
+
+dove ^amara~ lo stesso che ^forte~ detto prima.  Tuttora vive nel
+dialetto di quasi tutte le provincie italiane la voce ^forte~ per
+^amaro~, e suole darsi a frutti acerbi e a liquidi arzenti o cose
+che arrecano dolore e disgusto.
+
+	Non cur@o dunque il P. dar questo epiteto di ^forte~ alla
+^selva~, per significare che fosse ^densa, fitta~ o
+^inestricabile~; che questa era qualit@a che non toccava l'animo
+di lui.
+
+	Tommaso di Sisso (1250):
+
+     E moro considerando
+     Che sia l'amore, che tanto m'allaccia.
+     Non trovo chi lo saccia,
+     Ond'io mi schianto: che vicin di morte
+     Crudele e ^forte~ mal che non ha nomo.
+
+	Questo rimatore disse: ^vicin di morte~; Dante: ^poco @e
+pi@u morte.~  Dove l'uno chiama ^crudele e forte~ un mal senza
+nome, cio@e ^pi@u che crudele~; pu@o ben l'altro chiamar ^forte~
+la ^Selva~, per tutt'altra ragione che della densit@a.  Dino
+Frescobaldi, (colui che mand@o al Marchese Morello Malespini i
+primi sette canti della Divina Commedia composti in verso latino,
+e salvati dalla bestiale rapacit@a della plebaglia fiorentina,
+che mise a saccomanno la casa del Poeta esiliato; e lo preg@o che
+incuorasse Dante a proseguirne il gran lavoro) in una sua canzone
+disse:
+
+     Un sol pensie, che mi vien nella mente
+     Mi d@a con suo parlar tanta paura,
+     Che 'l cor non s'assicura
+     Di voler ascoltar quant'ei ragiona.
+     Perch@e mi move parlando sovente
+     Una battaglia forte e aspra e dura,
+     Che s@i crudel mi dura
+     Ch'io cangio vista ed ardir m'abbandona.
+
+	Ecco la farina, onde l'impasto del verso di Dante.  Ci@o
+non fa che Dino fosse dappi@u di Dante; tutto famoso dicitore in
+rime ai tempi dell'Alighieri.
+
+	|6.~  Orazio, Lib. III, Od. 19:
+
+     ^recenti mens trepidat metu.~
+
+	|7.~  L'Ecclesiaste: ^O mors, quam amara est memoria tua~
+ec.  Di qui la Selva dogliosa e amara; la frase ^nel pensier~
+^rinnova~, ch'@e officio della memoria, facolt@a di riproduzione;
+e quel temperamento dell'espressione per le parole ^poco @e pi@u~
+trattandosi della ^selva~ e non della ^morte~ a cui proprio la
+Scrittura attribuisce doglia e amarezza.  Tali cose notiamo
+indipendentemente dal senso allegorico, che giace sotto la
+locuzione dantesca.
+
+	|10.~  Lo sa ben ridire Beatrice; Purg. XXX, 115 a 145.
+Il qual luogo @e da leggersi diligentemente; anche per
+l'intelligenza del secondo canto di questa Cantica e, direi, di
+tutto il Poema.
+
+	|11.~  Davide, Salm. III.  ^Ego dormivi et soporatus
+sum: et exurrexi quia Dominus suscepit me. 
+
+	|17.~  ^vestir de' raggi~ disse Dante, come Virgilio 
+^Vestir di luce i campi.~
+
+	En. VI, 640:
+
+     ^Largior hic campos aether et lumine vestit.~
+
+	e V, 64:
+
+     ^Praeterea, si nona diem mortalibus almum~
+     ^Aurora extulerit, radiisque retexerit orbem~ ec.
+
+	Si noti qui come van fatte le perifrasi.  Quando il
+Petrarca accenna perifrasticamente il sole, in occasione di certi
+tartufi, di cui gli fu fatto presente, lo chiama: ^Il pianeta
+che distingue l'ore~, perch@e gli @e necessario considerar questo
+astro come sorgente di vita, animator delle piante, regolator
+delle stagioni, e produttore de 'frutti che vengono della terra.
+Qui per Dante sarebbe stata aliena una tale perifrasi.  Egli
+avendo ancor fitta nel pensiero la paura della selva oscura, ove
+ebbe smarrita la via diritta, guarda il sole stesso per le
+propriet@a pi@u utili a lui, che son quelle di spander la luce:
+Che mena dritto altrui per ogni calle.  Virgilio chiama il sole e
+la luna (Georg. I, 5) occhi del mondo:
+
+     .....  ^Vos, o clarissima mundi~
+     ^Lumina, labentem coelo quae ducitis annum~,
+
+perch@e non solamente sono cagione della fecondit@a della terra,
+ma ancora, misurando i tempi e le stagioni (^tempora quae
+messor, quae curvus arator haberet~) fanno scorti, ed apron gli
+occhi agli agricoltori, perch@e non mandin vane le loro fatiche.
+Generalmente ne' grandi scrittori si trova con molto
+discernimento usata questa, come ogni altra figura, per qualche
+utile fine, ed a tempo ed a luogo; e lo studioso non dee
+scordarsene.
+
+	Per ci@o che s'attiene al senso allegorico, non @e a
+dimenticare che Dio @e sole di giustizia, e grazia @e la sua
+luce; che quel ^guardar in alto~ ritrae molto dal ^Levavi oculos
+meos ad montes, unde veniet auxilium mihi~ che ravvicinato alle
+parole d'Isaia cap. 9: ^Populus qui ambulabat in tenebris
+vidit lucem magnam: habitantibus in regione umbrae mortis lux
+orta est eis~, rende completa la sintesi del pensiero dantesco.
+N@e si dica, in quest'ultimo luogo parlarsi di popolo ec.;
+perciocch@e Dante rappresenta in questo vaggio non pure un
+popolo, ma tutta quanta l'umanit@a.  Non s'intender@a sempre il
+Poeta teologo, chi abborra da quello appunto che fu la pi@u cara
+delizia all'intelletto di lui, e gran parte del sublime che
+sfolgoreggia nella Divina Commedia.  Veggasi il Salmo LXVI, 2, 3.
+
+	|28.~  Secondo un'altra lettera (giusta il Dionisi ed il
+Cod. Vatic. 3199):
+
+     Poi ch'ei posato un poco'l corpo lasso.
+
+	^Ei~ per ^Ebbi~ @e ovvio nelle scritture degli antichi
+nostri classici.  @E da ^Ere~ (per ^Avere~), da cui le inflessioni
+del perfetto: 1. ^ei~, 2. ^esti~, 3. ^ee~, o ^@e~ -- 1. ^emmo~,
+2. ^este~, 3. ^erono, eno~ o ^enno~ -- Per ^ei~ anche ^hei.~
+
+	Dante da Maiano:
+
+     Che mai in ci@o non ei consideranza.
+
+	Fra Guittone:
+
+     Per@o m'ei dipartuto
+     Da essa, e qua venuto.
+
+	Jacopo Pugliesi:
+
+     Membrando ch'ei te, bella, allo mio brazzo.
+
+	Ancora:
+
+     Allora t'ei, bella,
+     In mia balia.
+
+	E cos@i Cino da Pistoja, Jacopo da Lentino, Brunetto
+Latini ed altri; de' quali sono allegati gli esempi dal Nannucci
+(Anal. cr. verb. pag. 499 seg.) come d'altri scrittori di prosa.
+Err@o il Mastrofini quando disse che cotesto ^hei~ o ^ei~ era
+sincope di ^hebi~ (ivi pag. 500).
+
+	|30.~  Dante uscito della selva non di@e passo che o per
+via piana o per erta, onde non si pu@o andare che il pi@e fermo
+non resti pi@u basso dell'altro che si muove.  Il contrario
+avvenuto sarebbe s'egli andato fosse per la china: ch@e allora
+il pi@e fermo era il pi@u alto; come ciascuno per propria
+sperienza potr@a provare.  Il poeta dunque dice che venuto fuori
+della Selva tendeva all'alto, e camminava s@i che dato non gli
+venisse un passo se non in su, ma non in gi@u mai.  Era un cammino
+di morale progresso.
+
+	Il Bianchi, pel Magalotti e pel Costa, crede dimostrare
+che, perch@e il pi@e fermo fosse il pi@u basso, @e necessaria la
+^via piana leggermente acclive~; e che codesto pianeggiare del
+poeta avvenne prima di giugnere all'erta, sendoch@e per quella
+ora @e fermo e pi@u basso l'un piede, e ora l'altro
+vicendevolmente.  Ma, sia con pace e reverenza a quest'illustri
+uomini, @e naturale che prima dell'erta vi sia qualche piano e
+il Poeta dice:
+
+     Ripresi via per la piaggia (Vedi che sia Piaggia)
+
+e quel modo di camminare non deve intendersi solo per la piaggia
+si che non potess'esser anche per ^l'erta~: imperocch@e Dante
+con dire:
+
+     Ripresi via per la piaggia.
+
+include tutta la via o il cammino ch'ebbe cominciato, per salire
+precipuamente il monte che gli arrise colla sua luce.  N@e poi @e
+vero, chi ben consideri, che ^al pi@e fermo, il pi@u basso~ sia
+necessaria una via piana alquanto acclive; poich@e io non so
+persuadermi come pu@o avvenire a chi pur vada per un piano
+perfettamente orizzontale, che coll'un piede stando, e l'altro
+alzando e spingendo innanzi a fare il passo, non debba il pi@e
+fermo restar pi@u basso dell'altro ad ogni volta.  Montando per
+l'erta accade lo stesso.  Il pi@e fermo @e il pi@u basso,
+perciocch@e l'altro che muovesi piglia pi@u su della salita a
+ciaschedun passo che si faccia.  Non vale dire che de' piedi
+sarebbe or l'uno or l'altro pi@u basso in salire; perciocch@e
+il Poeta riflette alla posizione dell'un piede rispetto all'
+altro, considera quale in un medesimo passo sia pi@u alto dell'
+altro o il pi@e che sta fermo o quel che si muove; e non briga
+punto vedere se nel camminare tocchi questa vicenda ora al destro
+e ora al sinistro.  Inf. XXVIII, 61.
+
+	La bell'allegoria cui accenna il Bianchi da questa
+nostra spiegazione resta salda, posto il camminare prima pel
+Piano che per lo monte.
+
+	Il Magalotti e il Costa caddero in troppa sottigliezza
+nel volere diciferare questo passo e fecero, come avviene a cui
+troppo si lambicca il cervello:
+
+     ^Faciunt nae in intelligendo, ut nihil intelligant.~
+
+	|32.~  Folgore da S. Gemignano in un sonetto (proemiale
+della seconda corona della settimana) loda il donzello:
+
+     Carlo di Messer Guerra Cavicciuoli,
+       Quel ch'@e valente, ardito e gagliardo
+       E servente comandi chi che vuoli.
+     Leggiero pi@u che lonza o liopardo,
+       @E mai non fece de' danar figliuoli,
+       Ma spende pi@u che'l Marchese Lombardo.
+
+	A questo ^servente comandi~ cos@i il Nannucci: <Non
+serviziato, come spiega il Salvini, ma ^servente comandi~ vale
+^servente ai comandi~, cio@e ^servidori quanti ne vuoi~; ch@e
+^comandi~ qui non verbo, ma nome nel quarto caso, a cui
+egualmente che al terzo s'adatta il verbo servire>.  (Manual.
+Lett. ant. vol. I, pag. 345, Fir. Le M. 1856).
+
+	Tenendo col Salvini e attribuendo a Carlo come ^valente~
+e ^ardito~ cos@i anche ^servente~, si potrebbe intendere ch'ei
+fosse ^presto ai servigi di ognuno, gentile~ ec.  Dante lesse
+il sonetto, e da questo ^servente~ diede alla ^Lonza~ l'epiteto
+di ^presta~ dopo quel di ^leggera~, ch'@e nel sonetto del
+Gemignanese; e mostra averlo inteso come, dipoi molto, lo chios@o
+il Salvini.
+
+	Secondo i pi@u la ^Lonza~ simboleggia la ^Lussuria.~  Bono
+Giamboni, Giard. di consol. cap. VIII: ^Di questo vizio nasce~
+^cechit@a di mente, poca fermezza, subitezza.....  La lussuria
+macchia l'anima~, ^e il corpo isconcia, la borsa vuota, toglie
+Iddio, offende il Prossimo e l'anima trae all'inferno.~
+
+	Ecco perch@e Dante dica leggera e presta la Lonza;
+perch@e di pelo maculato coperta; perch@e una delle tre bestie
+onde perdeva egli quel po' di bene, ch'erasi acquistato, e
+veniva respinto e rinculato nella Selva.
+
+	|40.~  Queste ^cose belle~ hanno nella loro stessa
+indeterminazione, un non so che di bellezza, che ben si pu@o
+sentire, ma non esprimere per altre parole.  Nella immensurabile
+vastit@a dell'universo e innumerevole variet@a delle cose
+create, non poteasi dir meglio.  Pure il poeta non fu primo a usar
+questa frase; che il poeta da Todi, (avvegnacch@e avesse appena
+un infinitesimo del genio Aligheriano) cos@i fa parlar Cristo al
+peccatore:
+
+     Io feci cielo, sole, luna e stelle,
+       Come con gli occhi tuoi tu puoi vedere
+       Ed altre cose, che son vie pi@u belle
+       Perch@e tu le venissi a possedere.
+
+	I quali versi ci fanno anche ricordare di quegli altri
+del Purgatorio XIV dove il Nostro dice:
+
+     Chiamavi 'l cielo e 'ntorno vi si gira
+     Mostrandovi le sue bellezze eterne.
+
+	|46.~  Dopo ci@o che abbiamo annotato Inf. XXVII, 119,
+non @e chi non veda il perch@e s'usasse qui ^venesse~ per
+^venisse~, inflettendo da ^ven@ere~, non da ^venire~, e quanto
+male appongansi coloro che ricorrono alle ragioni dell'antitesi
+e della rima.  Pare cos@i che la rima sia servita meno ai mali
+poeti per istorpiar le parole, che a comentatori, spesso non
+ispregevoli, per cansar la fatica d'internarsi ne' recessi della
+Filologia.
+
+	Brun.  Latini, Tesoretto Cap. V:
+
+     Quando degn@o ven@ere
+     La maest@a sovrana
+     A prender carne umana.
+
+	Il B. Jacopone, Sat. XIV, 2:
+
+     Se San Joan Battista rivenesse.
+
+	Od. VI, 38:
+
+     Gente, ch@e non venete?
+
+	Lib. V, C. XXIII, 17:
+
+     Pi@u volte mi venesti a visitare.
+
+	In prosa.  -- Vita di Cola di Renzo, Cap. V: ^Che ciascuno
+homo senza arme venesse.~  -- Cap. IX: ^Doi nemicati venevano.~
+-- Framm.  Stor. rom. Cap. X: ^Le cose fuoro promesse, e venevano
+ad effetto.~  -- Matteo Spinello, an. 1250: ^E poi venevano
+alcuni baroni vestiti nigri.~  -- An. 1261: ^Che venesse alla
+conquista de quisto reame.~  @E risaputo che anche in latino molti
+verbi ebbero diverse configurazioni ed inflessioni.
+
+	|47.~  Simbolo della superbia, dovea atteggiarsi quel
+Leone con la ^test'alta~; perocch@e giusta la dottrina de' savi:
+^Superbia @e levamento mortale della mente, la quale suo Pare e
+suo minore hae a dispregio e vuole ai suoi maggiori~
+^signoreggiare.  E Santo Anselmo dice~: ^Superbia de volontade di
+disordinata altezza.~  Viridar. Consol. volgar. per Bono
+Giamboni.
+
+	|48.~  Guido Cavalcanti celebra la donna sua in un
+sonetto, i cui Primi versi sono:
+
+     Chi @e questa che vien, ch'ogni uom la mira
+     Che fa di clarit@a l'aer tremare? ec.
+
+	Che l'^aere tremasse~ allo splendore della donna di
+Guido @e cosa naturale ed effetto della luce manante dalla
+supposta bellezza siccome da un sole; ma che della ^testa alta~ e
+^della rabbiosa fame del leone~, che veniva contro Dante,
+potesse l'a,ere ^temere~ o ^tremare~, par cosa un po'esagerata
+cui non tempera il ^parea.~  Bisogna essere spassionato per dritto
+giudicare; che il Cavalcanti pi@u acconciamente fa l'aria
+tremare per cagion della luce che l'attraversa, di quel non si
+faccia l'imitatore Alighieri, dicendo che la superbia e la fame
+leonina producano altrettanto effetto; tremando cio@e nel primo
+caso per le onde luminose che l'allietavano; e nel secondo
+tremando o temendo per la vista orribile del lione.
+
+	Tuttavia @e da considerare che il volgo possiede delle
+simiglianti locuzioni di forza, che odonsi proferire quasi
+cotidianamente nel contado, come: ^Far tremare l'aria, le
+stelle~ ec. con che pare si voglia significare un'ira o furore
+tanto possente, da incutere paura eziandio a chi non pu@o averne.
+Sono iperboli che non voglionsi sottoporre al freddo calcolo
+della ragione; e che, quando questa sottost@a, come non rado
+addiviene, alla fantasia e alla forza del sentimento, e splendono
+senza macchia, e rendono il parlare forte e leggiadramente
+espressivo.
+
+	Il Redi pare che, avendo innanzi agli occhi e il sonetto
+di Guido e la terzina di Dante, componesse un suo sonetto, di cui
+qui arrechiamo le quartine: in questo per@o egli schiva il
+tremore e la paura dell'aria al venire della donna; che,
+traendosi dietro in catena l'^amorosa speranza~ e la ^piet@a~,
+avventa saette dagli occhi come un Giove irato, e fa tremare il
+^sangue nelle vene.~  Al Medico and@o forse pi@u a grado quel che
+lo stesso Dante disse: <Aiutami da lei, famoso saggio, ch'ella mi
+fa tremar le vene e i polsi> --
+
+	Ecco i versi del Redi:
+
+     Chi @e costei che tanto orgoglio mena
+       Tinta di rabbia, di dispetto e d'ira?
+       Che la speme in Amor dietro si tira
+       E la bella Piet@a stretta in catena?
+     Chi @e costei, che di furor s@i piena
+       Fulmini avventa, quando gli occhi gira?
+       E ad ogni petto che per lei sospira,
+       Il sangue fa tremar dentro ogni vena?
+
+	|49.  lupa.~  Oltre a quello che ne scrivono i comentatori
+circa il significato allegorico di questa Lupa, la quale dicono
+significare la Curia romana; ci piace notare che siccome nella
+lingua germanica, ^Welf~ vale ^Lupo~; cos@i non @e improbabile
+che il gran Ghibellino abbia voluto velare sotto questo nome di
+^Lupa~ la parte Guelfa a lui avversa.  Ci@o pu@o stare, poste
+anche le altre spiegazioni che gli eruditi ne danno delle due
+voci ^Guelfo~ e ^Ghibellino.~
+
+	L'illustre Conte Fm. Torricelli ha gi@a dimostrato che
+dovesse intendersi per la Lupa nel senso allegorico-teologico,
+n@e v' ha nulla da opporre.  Ma essendo anche nel Poema il senso
+politico, pu@o secondo questo avervi luogo la predetta allusione.
+
+	La ^Lupa~, simbolo dell'avarizia, fu al Poeta la bestia
+pi@u paurosa e funesta.  O che si voglia per essa intendere la
+Corte romana o l'avarizia in genere, o il Demonio, Plutone, la
+Morte ec.(Inf. II, 107) l'@e stata per Dante, @e e sar@a sempre
+codesta Lupa esiziale all'individuo umano, come agl'interi Stati.
+Nel senso politico l'Ambizione e l'Avarizia, cio@e il Leone e la
+Lupa, hanno una differenza di grave momento.  Il Mably (^De l'
+Etude de l' histoire, Tom.~ 24, ^pag.~ 7): <Notate che l'ambizione
+@e una passione meno pericolosa dell'avarizia.  Questa @e sempre
+bassa, avvilisce l'anima e mai non @e capace di nessun consiglio
+generoso: l'altra pu@o andare per avventura congiunta a qualche
+virt@u, come all'amor della gloria, al disinteresse, all'amor
+della patria: cos@i i lamenti mossi dall'avarizia han sempre
+perduti gli Stati; gli ambiziosi, al contrario, vi si sono alcuna
+volta rappattumati.  Si @e veduto altres@i talora che, quando
+queste due passioni han d'accordo eccitate delle turbolenze, l'
+una ha servito di arma contro dell'altra.  Gli Ateniesi ve
+n'offrono un esempio memorabile.  Per non aver che domandato una
+nuova partizione delle terre e l'abolizione de' debiti, la
+repubblica sarebbe andata a rovina.  Fortunatamente i cittadini
+della costa, del piano, e della montagna furon divisi sopra l'
+autorit@a.  L'avarizia avrebbe tratto all'estrema violenza i
+ricchi, i poveri, i creditori, i debitori; l'ambizione pi@u
+conciliativa propose Solone ad arbitro> [L'allegoria delle tre
+Fiere e del Veltro aprirebbesi dal Poeta cos@i: <Ecco il mio
+concetto.  La ^Lonza~ indica la lascivia umana, general cagione
+di acciecamento e smarrimento nella diritta via dei bene.  Il
+^Leone~ indica la tirannide de' re o capi degli stati.  La ^Lupa~
+indica la Corte Romana tralignante dal Vangelo e serva di mondane
+cupidigie; epper@o meritevole d'essere rincacciata ^nell'
+inferno~, ossia d'essere distutta, perch@e la sua comparsa sulla
+terra vuolsi attribuire all'^invidia~ che gli spiriti maligni
+portano all'evangelica dottrina, fonte perenne di felicit@a
+umana, chi ben l'intende.  Il ^Veltro~ infine indica un Papa
+qualunque, come sar@a appunto il successor di Pio IX, senza
+dominio temporale: che, cibandosi di vero ^amor~ di carit@a e di
+schietta evangelica ^sapienza~ congiunta a ^virt@u~ di operazione
+in pratica e non mica a pompa di parole, dar@a in s@e stesso il
+necessario esempio d'ogni divina ordinazione morale ed
+ecclesiastica.  La conseguenza di ci@o sar@a la pace, l'abbondanza
+e la prosperit@a vera d'ogni ^nazione~ cristiana; che potr@a
+considerarsi come nella bambagia moralmente e materialmente,
+quale intesi dire con la forzata espressione: ^Tra feltro e
+feltro~>.
+
+	|60.~  Anche Inf. V. 28:
+
+     I' venni in loco d'ogni luce muto.
+
+	Virgilio, En. II, 254:
+
+     ^Et jam argiva phalanx instructis navibus ibat~
+     ^A Tenedo, tacitae per amica silentia lunae~ ec.
+
+	Ancora VI, 265:
+
+     ^Et Chaos, et Phlegethon, loca nocte tacentia~ ec.
+
+	|62.~  Locuzione tolta da Virgilio (En. II, 589); appo
+cui Enea conta che come le furie lo traevano a disperata
+vendetta, e Venere gli fu presente:
+
+     ^Quam mihi se, non ante oculis tam clara, videndam~,
+     ^Obtulit~ ec.
+
+	Parad. VIII, 40:
+
+     Poscia che gli occhi miei si furo offerti
+       Alla mia donna reverenti, ed essa
+       Fatti gli avea di s@e contenti e certi ec.
+
+	^Dinanzi agli occhi~ ec.  Virg. (En. II, 772):
+
+     ^Infelix simulacrum, atque ipsius umbra Creusae~
+     ^Visa mihi ante oculos....~
+
+	|66.  Ombra.~  Siccome l'@e questa una voce
+usitatissima per tutte le tre Cantiche, giover@a farsene un'idea
+chiara.  Le anime svincolate per morte da' corpi si chiamano Ombre
+(Lat.  ^Manes~).  Forse che Orazio col motto: ^Pulvis et umbra~
+^sumus~, intese accennare il congiunto mortale dell'anima
+(^umbra~) e del corpo (^pulvis~); non meno che significare la
+vita fugace e la fragilit@a della compage umana.  Dante non solo
+adopera nella detta accettazione il vocabolo; ma ne spiega la
+natura di coteste ombre appariscenti.  Dice che lo spirito
+disgiunto dal suo corpo fa a s@e d'intorno quasi un velo
+simigliante alle vive fattezze della persona; e che cotesto velo
+si tesse ed effettua da virt@u informativa insita nella natura di
+ciascheduno individuo, in quella guisa che l'aere si colora
+nell'arco baleno dalla settemplice luce solare.  (Vedi Purg. XXV,
+91 a 101 ec.).
+
+	Anche il Tasso dice, dell'Angelo apparso a Goffredo:
+
+     La sua forma invisibil d'aria cinse
+       Ed al senso mortal la sottopose:
+       Umane membra, aspetto uman si finse ec.
+
+	E in una stessa terzina (Purg. XXVI,7) in ambi i sensi,
+proprio e figurato, non dubit@o l'Alighieri usar la detta voce:
+
+     Ed io facea con l'ombra pi@u rovente
+       Parer la fiammaa, e pure a tanto indizio
+       Vidi molt'ombre, andando, poner mente.
+
+	Quest'ombre chiama alcuna volta ^corpi fittizi~ (Purg.
+XXVI, 13), e alcun'altra sclamando dice:
+
+     O ombre vane fuor che nell'aspetto!
+
+	Virg. En. VI, 390:
+
+     ^Umbrarum hic locus est, et somni noctisque...~
+
+	Che il Caro volta:
+
+     Ch@e notte solamente e sonno ed ombre
+     Han qui ricetto e non le genti vive.
+
+	E v. 733:
+
+     ....  ^Non me impia namque~
+     ^Tartara habent, tristes umbrae: sed...~
+
+	Svet. in Calig. c. 59:
+
+     ^Satis constat, custodes hortorum umbris inquietatos~ ec.
+
+	Il Tasso:
+
+     Spesso l'ombra materna a me s'offria
+     Pallida immago e dolorosa in atto ec.
+
+	E Armida appo lo stesso poeta:
+
+     Me tosto ignudo spirto ombra seguace
+     Indivisibilmente a tergo avrai ec.
+
+	Il volgo crede alle ^ombre~ che sono gli ^spiriti~; ed
+ombre o spiriti, che dir si vogliano, si fan campo eziandio nel
+secolo de, lumi.
+
+	^Uomo certo.~  Dante medesimo comenta in certa guisa
+questo luogo, aprendo il senso in cui voglionsi prendere le
+parole ^od ombra od uomo certo~: (Purgat. VII, 10 ec.):
+
+     Qual'@e colui che cosa innanzi a s@e
+     Subita vede, ond'ei si maraviglia
+     Che crede e no, dicendo: ell'@e, non @e ec.
+
+	Letteralmente adunque @e come dire: chiunque tu sia od
+ombra o non ombra, ma realt@a di uomo: -- ^Certo~ @e anche qui per
+^fido~, di savio consiglio, esperto, oculato, accorto, fermo ec.
+[(a) ^Certo~ da ^cretum~ ch'@e da ^cernere = sceverare, vagliare,
+distinguere, vedere, discernere.~  Di qui anche la voce ^certezza~
+ch'@e fondata sull'evidenza nell'ordine de' veri a priori; e lo stesso
+^intuito~ del principio metafisico, non @e che una specie di visione
+intellettiva un ^intus-tueri~, come per la voce stessa si fa
+manifesto.  -- La vista con gli altri sensi ec. son eziandio fondamento
+della certezza nelle verit@a d'ordine inferiore ec.  ec.].  Bono
+Giamboni, Vegez. Lib. III, cap. VI: <E di dietro vadano poscia |certi~
+cavalieri e pedoni, perch@e andando, allotta (^alcuna fiata~) dalla
+fronte, ma pi@u spesso di dietro sono assaliti.  E dalle latora sono
+ancora da mettere |certi~ uomini armati; perch@e i nemici ec: Quello
+spezialmente @e da servare che da quella parte, onde maggiormente si
+crede che il nemico vegna postivi elettissimi cavalieri ec. si
+guernisca>.  -- ^Hominem certum~, in questo sentimento dissero anche i
+Latini [(b) Corn. Nip., Pausan. II.  ^His de rebus si quid geri volueris,
+certum hominem ad eum mittas face, cum quo cottoquatur.~ Pausania per
+imparentare con Serse profferivasi vilmente a tradir la patria.
+L'^uomo certo~ fu Artabazo che non era un ^cert'uomo~, o un ^homo
+quidam~, come si direbbe.  ^Rex confestim cum epistola Artabazum ad
+Pausaniam mittit; in qua eum~ ^collaudat ac petit: ne cui rei parcat ad
+ea perficienda, quae pollicetur.~  Mutato che @e da mutare, vedesi qui
+che Beatrice manda ^l'uomo certo~, o il fido Virgilio, dopo averlo
+lodato (^O anima cortese mantovana~ ec.); ed egli s'offerse ad andare;
+che son quasi le parole del testo descritto ^collaudat...
+pollicetur.~  Ella gli fa ressa dicendo: Or muovi e con la tua parola
+ornata ec..  E il latino scrittore: ^collaudat ac petit ne cui rei
+parcat, ad ea perficienda quae pollicetur.~  Dante si direbbe aver
+tolto qualche cosa da questo luogo di Cornelio, se le biografie di
+questo autore fossero state note al tempo del Poeta.].  E che sia
+^l'uomo certo~, l'accenna il Poeta quando si fa dire da Minosse:
+
+     Guarda com'entri e di cui tu ti fide.
+
+	^Fidi~ dicevansi specialmente i ^messi~; V. Inf. II, v.
+107, e tale il mantovano fu fatto per Beatrice.  Primo il
+Toricelli, nostro, che fu, dolcissimo amico [(a) Pass@o di questa
+vita qui in Napoli addi 23 marzo 1867 a cagione d'ipertrofia
+eccentrica del cuore che gli produsse ^edema~ degli arti ed
+affanni, ch'egli port@o rassegnato, per circa un anno, fra le
+diuturne strettezze d'una vita onesta quanto indigente.] chiar@i
+questo luogo: noi siamo contenti averne addotta alcuna pruova.
+Considerando oltracci@o che Virgilio per voler divino era
+prestabilito a duce del Poeta, non @e strano pensare che ^certo~
+potesse significare (^uomo~) preordinato, stabilito a soccorrere
+a Dante che periva [(b) Purgat. VII, 24: Dice Virgilio: 
+
+     Virt@u del ciel mi mosse, e con lei vegno.].  
+
+In simil sentimento a un di presso, Orazio (Carmen saecul.) disse: 
+
+     ^Certus undenos decies per annos Orbis...~ 
+
+per dinotare un periodo fisso o determinato di cento dieci anni, alla
+fine dei quali ricorrevano i ludi secolari.  Non pu@o negarsi che Dante
+mettendo ^uomo certo~ in opposizione con ^ombra~, non abbia voluto
+significare un uomo che fosse forma d'ossa e di polpe, o, come noi
+diremmo, in carne ed ossa; ma sotto la lettera v'@e benanche
+l'allegoria.  La lingua non nega alla voce la significazione da noi
+notata: Fra Jacopone disse:
+
+     L'acqua non si pu@o figere Dallo certo condutto. 
+
+ove ^certo condutto~ vale ^acquidoccio provveduto al tale scopo.~
+
+	|67.~  Ser Brun. Tesoro volg. da Bono Giamboni, Lib. I, cap.
+XIV; ^L'anima @e vita dell'uomo, e Dio @e vita dell'anima.  L'anima
+dell'uomo non @e niente uomo; ma'l suo corpo che fu fatto di terra
+umida, @e solamente uomo.  L'anima s@i abita dentro del corpo, e per
+questo congiungimento della carne @e ella appellata uomo ec...~ Dante
+fa parlare Virgilio secondo quel che avea potuto apparare da Messer
+Brunetto; le cui parole fanno qui il pi@u pieno comento.
+
+	|70.~  In questo e nel seguente verso dice il Poeta
+latino: Nacqui (in Mantova) sotto Giulio Cesare e vissi a Roma
+sotto Augusto.  Julio infatti, secondo che si computa, aveva gi@a
+30 anni quando nacque Virgilio, e questi ben 25 quando quegli fu
+creato Dittatore perpetuo.  Si pu@o dunque ragionevolmente dire
+ch'ei vivesse sotto Augusto; non, ch'egli fosse nato sotto
+Giulio; poich@e questi non era ancor Dittatore, n@e imperatore.
+
+	Intanto Dante gliel fa dire, e i comentatori non trovano
+il bandolo per dipanar la matassa.  Ai diligenti lettori
+sottoporremo le nostre osservazioni.  -- Indipendentemente da'
+trionfi e dalla Dittatura di Cesare, pot@e Virgilio ben fissare
+gli anni 56 che fu tutta la vita di Giulio, come periodo di
+tempo, entro cui la sua nascita avvenne.  Egli non vuol nominarsi
+a Dante, ma gli si rivela per via di perifrasi; al che basta
+toccare del luogo, del tempo, del modo e d'altri accidenti della
+sua persona, non cos@i per sottile come preteso avrebbero i
+comentatori.  Pruova ne sia, che chiunque udissene le parole,
+intenderebbe lui esser Virgilio e non altri.  Avvegnacch@e Cesare
+non avesse ancora menato trionfo per le sue grandi imprese quando
+il gran Marone ci nacque; ma gli ultimi anni gloriosi de' sommi
+uomini si rattaccano a quelli della fanciullezza, anzi della
+cuna, dove bambini diedero essi i primi vagiti.  Gl'imperanti non
+ammettono interruzione tra l'origine e la fine della loro
+progenie.  Cos@i questo Napoleone, che oggi siede al governo di
+Francia, si noma terzo dal primo, che non ebbe secondo, fuori che
+ne 'dritti della dinastia.  Se questo alto ingegno non sorgeva,
+n@e il secondo n@e il terzo stato sarebbe.  Non altramente, pu@o
+dirsi che, se Ottaviano non fosse salito sul soglio imperiale,
+Cesare si sarebbe nominato tutto al pi@u come si nominano
+Cicerone, Pompeo, Catone ec.: ma una volta che l'imperio di Roma
+si @e solennemente inauspicato sotto lo scettro di Augusto; da
+questo momento si tiene legittimo imperatore anche Giulio, che
+primo innalz@o il trono de' Cesari.  Onde crediamo che bene abbia
+Virgilio potuto dire ^Nacqui sub Julio~, qualunque obiezione si
+muova a contro.
+
+	A questa nostra interpretazione che ne pare
+semplicissima, posporremo le due altre che un istante ci son
+passate per la mente.  Sospettammo che ^Sub Julio~ si dicesse qui
+come suol dirsi ^sotto Marte~, ^sotto Venere~ ec., cio@e sotto
+gl'influssi della tale o tal'altra costellazione.  Giulio pot@e
+riguardarsi qual'astro meno luminoso negli anni primi,
+sfolgorante di luce agli estremi, quando non ^vivo~ fu ^divo~
+levato al ciclo.  (Ecl. V.).  ^Deus Deus ille, Menalca...  -- Sub
+pedibusque videt nubes et sidera Daphnis...  Daphin ad astra
+feremus~, ec.  Cos@i Virgilio stesso (Georg.  I) d@a la scelta ad
+Augusto, se voglia tra la Vergine e lo Scorpione (che per
+rispetto contrae le sue chele) allogarsi e scintillare di nuova
+luce, 13+a~ tra le dodici costellazioni dello zodiaco, ec.
+
+     ^Anne novum tardis sidus te mensibus addas~,
+     ^Qua locus Erigonem inter Chelasque sequentes~
+     ^Panditur: ipse tibi jam brachia contrahit ardens~
+     ^Scorpius, et coeli justa plus parte reliquit.~
+
+	Che anzi di tutti i Giuli canta nell'Eneida (VI, 790):
+
+     ....  ^Hic Caesar, et omnis Juli~
+     ^Progenies, magnum coeli ventura sub axem.~
+
+	Se poi, da ultimo, si prendesse il ^sub~ in sentimento di
+^dopo~, come tavolta us@o prendersi appo i latini; Virgilio
+allora vorrebbe dire: ^Io nacqui dopo Giulio Cesare, ma non
+dopo qualche mese o qualche anno; sibbene~ |tardi~, ^cio@e~
+30 anni dappoi.~  In tal caso la frase: ^bench@e fosse tardi~
+rettificherebbe il significato rigoroso della particella ^dopo.~
+
+	Ma a noi siede pi@u nell'animo la prima interpretazione;
+epper@o intendiamo le parole: ^bench@e fosse tardi~ in altro
+modo.  Anzi tutto crediamo paragonare questa ellittica locuzione
+con quell'altra:
+
+     Tanto m'aggrada il tuo comandamento,
+     Che l'ubbidir, se gi@a fosse, m'@e tardi
+
+per rilevare soltanto la forza di quel ^fosse.~  Qui @e come se si
+dicesse: ^se gi@a in atto io lo ubbidissi~; l@i: ^bench@e io
+nascessi tardi.~  Tardi rispetto ai primi anni di Cesare.  Egli
+avrebbe adunque voluto nascere ben prima.  Or davvero quanto
+meglio, se nato fosse pi@u per tempo!  Il suo genio poetico non
+impastoiavano le genealogie de' Cesari, a cui si ordina lo
+splendido racconto della guerra Trojana e de' fatti d'Enea.  Non
+gli avrebbe arriso tardi la libert@a, che si merit@o poi per
+aulica piacenteria; ma, nascendo 30 anni prima, sarebbe spirato
+con gli ultimi aneliti della libert@a.  Dante fa che Catone, di
+questa parlando, dica:
+
+     Libert@a vo cercando ch'@e s@i cara,
+     Come sa chi per lei vita rifiuta.
+
+	Perch@e non credere che Virgilio morto s'induca a parlar
+con lo spirito di Dante vivo?  Erano ancora, quasi palpitanti le
+memorie d'una Repubblica gloriosa quanto infelice; e forse
+dispiaceva a Virgilio l'essersi oscuro quando Cicerone tuonava
+da' Rostri, il popolo creava i maestrati, echeggiava in Senato la
+franca parola di Catone, e i Padri Coscritti non erano
+un'accozzaglia di vili adulatori d'un Principe fortunato.  La
+ricca sua vena fondeva non pi@u gentili, ma pi@u preziosi carmi
+sotto l'afflato divino d'una Musa non cortigiana; e da sommo
+poeta avrebb'egli assistito alle quistioni vitali della sua
+patria, innanzi agl'idi di Marzo e al Triumvirato che divenne
+fatale alla libert@a di Roma.
+
+	Alla frase: ^Ancor che fosse tardi~, crediamo non
+affatto estranei que' versi dell'Ecloga I:
+
+     ^Libertas, quae sera tamen respexit inertem~
+     ^Candidior postquam tondenti barba cadebat~;
+     ^Respexit tamen et longo post tempore venit.~
+
+	Essendo Dante usato di far parlare con modi lor propri le
+persone ch'egl'introduce nella Divina Commedia, carp@i la
+locuzione Virgiliana; tutto che il Titiro non abbia verun'
+attinenza col concetto compreso nel verso che annotiamo.
+
+	|73.~  Virgilio, En. I, 544:
+
+     ^Rex erat Aeneas nobis, quo justior alter~
+     ^Nec pietate fuit, nec bello major et armis.~
+
+	|75.~  Superbo Ilion, Virg. En. III, 2... ^ceciditque
+superbum Ilium, et omnis humo fumat neptunia Troja.  Superbo~
+per ^nobile, magnifico~ ec.  Dante, cos@i come Virgilio, chiam@o
+<superba quella citt@a capitale volendo, come dice il Gherardini,
+accennar collettivamente con tale epiteto l'orgoglio che a lei
+veniva dalla fortezza delle sue mura e delle sue torri, dalla
+sontuosit@a de' suoi edifizi, dalle tante sue ricchezze, dalla
+memoria delle gloriose geste de' Trojani, dal valore de' suoi
+abitanti, dall'antica nobilt@a de' suoi Re>.  Mille esempi di
+^superbo~ pigliato nel buon senso ch'@e detto, addotti da lui.
+(Tav. di pret. gallic. ec. con not. di Emm. Rocco Nap. 1852, pag.
+184).  Pi@u propriamente per ^superbo Ilion~ vuolsi intendere la
+r#occa difesa dieci anni valorosamente.  Il poeta latino
+v'aggiunge per@o ^neptunia Troja~, per significare la citt@a
+troiana divina opera di Nettuno; il poeta italiano se ne passa, e
+con una sineddoche della parte pel tutto dice in un motto un
+mondo.
+
+	|76.~  Qui appunto avrebbe dovuto rispondere il Poeta:
+
+     Vedi la bestia per la qual mi volsi ec.
+
+ma un contrasto di affetti avendo preso luogo nell'animo suo, la
+paura delle tre belve da un lato, e la maraviglia dall'altro; la
+risposta non si rende prima, che disfogato non fosse de' due il
+pi@u potente, quello cio@e, natogli dal vedersi davanti il poeta
+pi@u grande della latinit@a; laonde dice:
+
+     Oh se' tu quel Virgilio e quella fonte ec.
+
+	Con che, mentre il favellare si fa secondo l'impulso
+delle proprie passioni, non si dipartendo dalla natura dell'
+anima umana, che pensa e ragiona sotto la prepotenza delle
+proprie affezioni; d'altra parte il Poeta coglie, con ammirevole
+magistero, il destro di conciliarsi la benevoglienza di Virgilio,
+che ode farsi di s@e e delle opere sue le lodi pi@u lusinghiere.
+Questo luogo di Dante @e modello d'arte oratoria, che la scienza
+estetica dee riconoscere compito in tutte le sue parti.  Ci
+sorprende, tra tanti pregevoli comentatori moderni ed antichi,
+non pur uno esserci stato che v'abbia posto cura.
+
+	|81.  Lui~ per ^a lui.~  Gli antichi, non si essendo
+ancora addati delle radicali differenze che distinguevano la
+volgare nostra favella dalla latina, osarono, a scapito della
+chiarezza, lasciare innanzi ai nomi e pronomi di porre
+que' segnacasi, che in italiano fanno le veci delle desinenze che
+hanno i nomi latini.  Framm. stor. rom. Lib. I, Cap. X:
+<Feliciano habe (ebbe) una figlia, nome Elisabetta>.  ^Per nome~
+o ^Di nome~; alla lat.  ^Nomine Elisabeth.~
+
+	Il Petrarca (e generalmente antichi e moderni) us@o ^Cui~
+per ^a Cui~:
+
+     Voi, cui fortuna ha posto in mano il freno ec.
+
+	I lat.:
+
+     ^Cui dono lepidum novum libellum~ ec.  Catull.
+
+	Al genit. d'ambi i numeri ^Cui~ messo tra l'articolo e
+il sustantivo senza ^di.~
+
+	Fra Guitt.: E prelato ^la cui operazione~ ec.
+
+	Lo stesso dicasi del pron. ^altrui~ che nel secondo e
+terzo caso si adopera benissimo senza i vicecasi ^di~ ed ^a.~
+
+	Chiaro Davanz.:
+
+     Non pi@u villano a se ch'@e suto altrui.
+
+cio@e ^ad altrui~ ec. ec.
+
+	Fra Guitt.:
+
+     Non ha giammai savor non bono a bono
+     Ni (n@e) fore (sarebbe) suo savor proprio e bon ^lui.~
+
+cio@e ^a lui.~
+
+	Il Pulci Morg. C. I, 23:
+
+     Quando ci venni al principio abitare
+     Queste montagne, bench@e sieno oscure.
+
+	^Abitare~, per ^ad abitare.~
+
+	Guido Guinicelli:
+
+     Cui bassa orgoglio, e cui dona salute.
+
+Innanzi a pron. pers. ec. si sopprime il segnacaso dat. ^a.~
+
+	Fra Guittone:
+
+     Perch@e tutto me doe (dono)
+     Voi (a voi), cui pi@u che meo soe (sono).
+
+	Ancora:
+
+     Perch@e per me n@e per altrui non posso
+     Dir ^lei~ (a lei) la voglia mia.
+
+	E poco appresso:
+
+     Lo core meo m' ha pur lei (a lei) prossimano.
+
+	E:
+
+     E di che sta piacente
+     Di dare a me matera e insegnamento
+     Di dir lo mio talento
+     Com'io potessi lei (a lei); poich'io non saccio ec.
+
+	In altra canzone:
+
+     Amor, pi@u ch'altr'uom, dia (deve)
+     Te (a te) piacer per ragione.
+     Amor poi (poich@e) sostenere
+     Dello mal me (a me) non fai,
+     Non @e ragion, ben sai,
+     Ch'eo del ben deggia avere.
+
+	Pi@u:
+
+     Messer Corso Donati,
+     Se ben veggio, in potenza
+     Non poco evvi valenza,
+     Solo seguirli voi (a voi) promente (prodemente) aggrati,
+
+	Pannuccio del Bagno:
+
+     Che 'l meo sacciuto voi fero dolore.
+
+^sacciuto voi~; cio@e: ^saputo da voi~!
+
+	Il Nannucci vi sottintende il segnacaso dell'ablativo.
+Comunque sia, non @e strano che, simigliantemente agli altri
+esempi su allegati, vi si sottintenda ^a~ segnacaso dativo; e
+ci@o al modo de' latini e pi@u de' Greci, i quali in luogo
+dell'ablativo usavano (spesso quelli, questi sempre) il dativo:
+siccome Virgilio: ^Despectus tibi~ ec. ec.  Disprezzato da te.
+
+	Il Poeta (Parad. XXIX, 124): <Di questo ingrassa il porco
+Sant'Antonio> non volendo che onorasse di s@i bel titolo quel
+santo eremita, @e da intendere che vi abbia soppresso il
+segnacaso ^di~; significando pel ^porco di Sant'Antonio~ il
+diavolo, che gli appariva, come dicono le leggende, sotto quelle
+sozze sembianze, ovvero, come altri vuole, i frati degeneri di
+quell'ordine.  -- Purg. VII, 37 e 38... alcuno indizio D@a noi...
+cio@e ^a noi...~  E Purg. XXXI, 136: Per grazia fa noi grazia ec.:
+cio@e ^a noi.~
+
+	Parad. IV, 121 seg.:
+
+     Non @e l'affezion mia tanto profonda,
+     Che basti a render voi grazia per grazia.
+
+	Purg. XIV, 56:
+
+     E buon sar@a costui s'ancor s'ammenta
+     Di ci@o che vero spirito mi disnoda.
+
+cio@e, ^a costui.~
+
+	Purg. XV, 103:
+
+     Risponder Lei con viso temperato
+
+cio@e, ^a lei.~  E veggasi anche Inf. XlV, 71.
+
+	Purg. XXVI:
+
+     Di grido in grido pur lui dando pregio.
+
+	Pacini Angiolieri (1250):
+
+     Quando faceste dono
+     Me (a me) di vostra amistade
+     Diceste: temo non dispiaccia a Dio.
+
+	Notiamo un esempio di Guitton d'Arezzo, dove al pronome
+^Lei~ @e soppresso il segnacaso ablativo:
+
+     N@e mi dispiace forte ognor penare
+     Per lei lontano stare
+     Solo che tegna me suo fino amante.
+
+	^Per lei lontano stare, Per da lei lontano stare~, o ^Per
+istar lontano da lei.~
+
+	Il Tasso G. Lib. VII, 92:
+
+     Ma l'aiuto invisibile vicino
+     Non manc@o lui di quel superno Messo.
+
+	Son modi ellittici oggid@i in uso: Risposi lui o lei, o
+gli, le risposi; Per la Dio grazia o merc@e ec.  E tutti quasi con
+la nostra li redarono le lingue sorelle dalla madre latina.
+
+	Dopo que 'primi secoli della nostra lingua, tranne alcuni
+casi di pronomi, si @e veduto che grande confusione s'induceva
+ne' costrutti per il risparmio de' segnacasi, i quali per noi
+sono indispensabili; non essendo il Volgare fornito di desinenze
+varie per ragion de' casi, come il latino ed il greco ec.
+
+	Lo stesso anche in prosa.  Guitt. Lett. a Fr. Alamanno:
+<Lo spirito s'allegra e gaude e grazia rende lui (^a lui~, cio@e
+a Dio)>.
+
+	Lett. a' Fiorentini: <Non ardite ora di tenere leone, che
+voi (a voi) gi@a non pertene; e se'l tenete, scorciate ovver
+cavate lui (a lui) coda e oreglie ec.>.
+
+	E appresso: <E moneta con angostia non poco costa voi (a
+voi) a conquistare la vostra infermitade ec.>.
+
+	Id. Lett. XXIV: <E che necessario @e voi (a voi) faite
+voglioso>.
+
+	Ibid. <E gloria e onore tutto ne faite (fate) lui (a
+lui)>.
+
+	Ibid. Lett. XXV: <Gi@a savemo che onta grande e
+dannaggio vene noi (a noi)>.
+
+	E mille di simiglianti esempi, che potremmo cavar fuori
+da scritture approvate.
+
+	|85.~  Cos@i Orazio a Melpomene (Lib. IV, Od. III, 21
+seg.):
+
+     ^Totum muneris hoc tui est~
+       ^Quod monstror digito praetereuntium~
+     ^Romanae fidicen lirae~:
+       ^Quod spiro et placeo, si placeo, tuum est.~
+
+	|89.  Saggio~ qui vale propriamente ^poeta.~  Prima
+Virgilio aveva detto ^Poeta fui~: qui Dante quasi volesse dire:
+nonch@e ^poeta~ ma ^famoso Poeta.~
+
+	^Sophi~ da' Greci appellaronsi i poeti, Primi maestri
+della civilt@a.  <^Fuit haec sapientia quondam ec.  Sic honor et
+nomen divinis vatibus atque Carminibus venit~>.  Quando poi
+intesero ad adulare i Cesari e rendere vil cortigiana la musa; si
+dura fatica a credere che questo nobile epiteto potesse mai
+essersi loro attribuito.
+
+	Veramente a Virgilio meno che a Dante converrebbe il
+titolo di Saggio.  Pure il Mantovano @e preso a duce dal
+Fiorentino; perch@e solo il Poeta @e che possa
+
+     ^Simul et iucunda et idonea dicere vitae~
+
+e tu che leggi
+
+     Sai che l@a corre il mondo ove pi@u versi
+     Di sue dolcezze il lusinghier Parnaso
+     E ch'il vero condito in molti versi
+     I pi@u schivi allettando ha persuaso.
+
+	Ed ecco perch@e Beatrice profferisce quelle parole:
+
+     Or muovi e con la tua ^parola ornata~
+       E con ci@o ch' ha mestieri al suo campare
+       L'aiuta si ch'io ne sia consolata.
+
+	Onde pare che per questa ragione Virgilio fosse preso da
+Dante a sua guida, in un viaggio s@i eminentemente poetico, che a
+tale altezza non aggiunse la sapienza degli antichi vati, n@e per
+concetti robusti, n@e per volo di fantasia e n@e tampoco per
+frutto di morali ammaestramenti.
+
+	Il seguente luogo di Fra Guittone conferma che prima di
+Dante, ^Saggio~ suonasse lo stesso che Poeta:
+
+     Che ad uom tenuto saggio odo cantare,
+     Che trovare non sa, n@e valer punto
+     Uomo d'amor punto.
+     (V. Purg. XXIV, 52 -- e XXVII, 69).
+
+	E che ^savio, saggio~ o ^sapiente~ fossero i nomi dagli
+antichi usitati nel significato di Poeta; ce l'apprende lo stesso
+Dante nelle Rime, ove dice:
+
+     Amore e'l cor gentil sono una cosa
+     Siccome ^il saggio~ in suo dittato pone:
+
+intendendo per ^il saggio~ quel Guido Guinicelli, che prima di
+lui poteva, tra i rimatori della volgare favella, reputarsi a
+buon dritto il saggio o il poeta per eccellenza.
+
+	A questo allude il Poeta quando dice:
+
+	Inf. II, 36:
+
+     Se' savio, e intendi me 'ch'io non ragiono.
+
+	Inf. IV, 101:
+
+     Ch'essi mi fecer della loro schiera,
+     Si ch'io fui sesto tra cotanto senno.
+
+	E ivi v. 110:
+
+     Per sette porte intrai con questi savi.
+
+	v. 149:
+
+     Per altra via mi mena il savio duca.
+
+	Ancora, Inf. VII, 3:
+
+     E quel savio gentil che tutto seppe.
+
+	Cos@i in mille altri passi; dove con la saviezza ed il
+senno s'identifica la persona del vero poeta.  E ci@o @e ben
+fatto in Virgilio simbolo della umana ragione.
+
+	|91.  Altro~ da quello che impreso hai per lo monte.  Ei
+fa d'uopo inoltrarti a grado a grado per le virt@u, cominciando
+dal vedere i tormenti de' dannati; conciosiacch@e la cognizione
+del peccato sia principio di pentimento.  Cos@i le ^chiose~
+^posteriori~ del Cod. Cassin. ^Altro~, scil. ^quam id quod
+coepisti per montem~; ^nam opus est videre punitionem vitiorum et
+sic aggredi paulatim virtutes~, ^nam cognitio peccati initium est
+poenitentiae.~
+
+	Si osservi che poco innanzi Virgilio incuorava Dante a
+salire il monte stesso, onde or lo stoglie (77):
+
+     Perch@e non sali il dilettoso monte....?
+
+ma poich@e veduto l'ebbe lagrimare, s'addiede che questi non avea
+da tenere, che la sola via della penitenza.  Onde gli dice (114):
+
+     E trarrotti di qui per loco eterno ec.
+
+	E Beatrice (Purg. XXX, 136) alludendo ai traviamenti del
+suo fido poeta:
+
+     .....  Tutti argomenti
+     Alla salute sua eran gi@a corti,
+     Fuorch@e mostrargli le perdute genti.
+
+	|101.~  Del ^Veltro~ diede titolo a un suo pregiato
+lavoro Carlo Troya, illustre scrittore della storia del medio
+evo.  Ma n@e a Can della Scala, n@e ad Uguccione della Faggiuola,
+pace al dottissimo autore, convenir possono gli attributi di
+^Sapienza, Amore~ e ^Virtute~ che si predicano del Veltro; n@e un
+signorotto d'Italia potea ^rimettere in inferno~ quella ^Lupa~,
+ch'@e la ^morte~, o il diavolo di l@a venuto a tribolare la
+terra.  Il Torricelli, pi@u di cui niuno penetr@o dentro la
+compage allegorica del divino poema, dimostr@o ^Cristo~ essere il
+Veltro in figura.  Prima del valentuomo anche il Boccaccio e gli
+antichi glosatori videro nel Veltro il Cristo.  Il Codice
+Cassinese ha ^Veltrus, idest Christus.~  In un antico Codice
+Fiorentino con chiose anonime, pubblicato dal ch.  Francesco
+Selmi, si legge: ^Parla in figura di Veltro, di Cristo
+figliuolo di Dio.~  Cos@i il cod.  Laurenziano e qualche altro.
+Noi confortiamo il lettore a consultare gli ^Studi sul Dante~ del
+Conte Fr. M. Torricelli, e le note ch'egli, nello stremo della
+vita, avea condotto sino al IX canto dell'Inf. L'illustre cav.
+Strocchi ed altri egregi letterati vedono omai chiaro, che sul
+Veltro allegorico l'opinione del Torricelli @e la sola, che si
+accomodi alla retta intelligenza della Divina Commedia [Abbiamo
+sol questo accennato a consiglio dell'egregio Avv.  Gregorio
+Blandini, al quale @e carissima, come a noi, la memoria dell'
+illustre Fossombronese.].
+
+	|103.~  Cibare si costruisce ordinariamente con l'
+accusativo di persona e il secondo o sesto caso della cosa onde
+alcuno si ciba: ma incontra rado l'uso di cotesto verbo nel modo
+come qui Dante lo adopera; cio@e con l'accusativo di cosa e
+null'altro.  Orazio costrusse attivamente ed alla stessa guisa
+^Prandere.~  Art. poet. 340: ^Neu pransae Lamiae vivum puerum
+extrahat alvo.~  E altrove ^Prandere olus, luscinias~ ec.
+Brunetto Latini nel Tesoretto:
+
+     Che per neente avete
+     Terra oro ed argento.
+
+	|105.~  ^Nazione, nascita.~  Tr. Jac. da Todi:
+
+     Ancor to' per sentenzia.....
+     Non curar di nazione
+     Se l'uomo @e infatuato.
+
+cio@e: Habbi come certo che il matto non cura, non guarda alla
+sua nascita, alla sua prosapia ec. ma fa cose indegne del suo
+grado.
+
+	|107.~  Di questa valorosa parla Virgilio (En. XI, 649-
+867) -- Vedi Inf. XXXIII, 151, in fine.  Dante rammemora i fatti
+di costei, che combatt@e la guerra della patria indipendenza; e
+Virgilio, tuttoch@e tragga la stirpe de' Cesari da' lombi di Julo
+Troiano, non dubita di asserire, che la morte di questa eroina
+che pugn@o contro Enea, sarebbe per essere celebrata come
+gloriosa appo tulte le genti (En. XI, 847):
+
+     ...  ^Neque hoc sine nomine letum~
+     ^Per gentes erit.....~
+
+e pe' versi di Dante suona e risplende l'antica fama di questa
+guerriera.
+
+	|118.~  Vederai per ^vedrai.~  Anche Inf. III, 17:
+
+     Che vederai le genti dolorose ec.
+
+	Il Petrarca:
+
+     Dalla mattina a terza
+     Di voi pensate, e vederete come
+     Tien caro altrui chi tien s@e cos@i a vile.
+
+	Il B. Jacopone Lib. III, Od. XXIV, 37:
+
+     Se tu fai questo legame
+     Veder@o ben che tu m'ame.
+
+	Nella Stor. Giosaf.: ^E veder@o di quelle cose che allora
+non vidi.~  Queste son naturali inflessioni da ^vedere~; ma l'uso
+fa prescegliere ^vedr@o, vedrai~ ec. che si derivano da ^vedere~,
+configurazione fatta da ^veder~ per la trasposizion della ^r~;
+epper@o della prima men regolare.  Chi dunque credesse Dante
+dipartito dalle regole e dall'analogia della lingua,
+condannerebbe s@e stesso di errore.
+
+	Lapo Gianni:
+
+     Tu vederai la nobile accoglienza
+     Nel cerchio delle braccia, ove pietade
+     Ripara con la gentilezza umana,
+     E vederai sua dolce intelligenza.
+     Allor conoscerai umilitade
+     Negli atti suoi, se non parla villana:
+     E vederai maraviglia sovrana
+     Com'en formate angeliche bellezze.
+
+	Dante: ^udirai..... vedrai...... vederai.~  In Lapo i
+tre ^vederai~ fanno una specie di progressione.  Erano
+contemporanei e amici i due poeti.

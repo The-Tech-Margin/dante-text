@@ -1,0 +1,231 @@
+Enter name of sed script file: 
+Processing 01.k into 01.s.  Header will be:
+|INFERNO CANTO 01~
+Warning: 14 extra tildes
+     521    4501   27037 01.k
+     603    4387   26698 01.s
+    1124    8888   53735 total
+
+Processing 02.k into 02.s.  Header will be:
+|INFERNO CANTO 02~
+Warning: 6 extra tildes
+     394    3031   18570 02.k
+     453    2959   18434 02.s
+     847    5990   37004 total
+
+Processing 03.k into 03.s.  Header will be:
+|INFERNO CANTO 03~
+Warning: 8 extra tildes
+     339    2735   16851 03.k
+     391    2702   16869 03.s
+     730    5437   33720 total
+
+Processing 04.k into 04.s.  Header will be:
+|INFERNO CANTO 04~
+Warning: 11 extra tildes
+     380    2651   16311 04.k
+     438    2626   16433 04.s
+     818    5277   32744 total
+
+Processing 05.k into 05.s.  Header will be:
+|INFERNO CANTO 05~
+Warning: 12 extra tildes
+     593    4954   29685 05.k
+     681    4912   29783 05.s
+    1274    9866   59468 total
+
+Processing 06.k into 06.s.  Header will be:
+|INFERNO CANTO 06~
+Warning: 10 extra tildes
+     383    3021   18337 06.k
+     433    2981   18420 06.s
+     816    6002   36757 total
+
+Processing 07.k into 07.s.  Header will be:
+|INFERNO CANTO 07~
+Warning: 24 extra tildes
+     459    3464   21521 07.k
+     530    3410   21570 07.s
+     989    6874   43091 total
+
+Processing 08.k into 08.s.  Header will be:
+|INFERNO CANTO 08~
+Warning: 11 extra tildes
+     396    2880   17607 08.k
+     444    2823   17698 08.s
+     840    5703   35305 total
+
+Processing 09.k into 09.s.  Header will be:
+|INFERNO CANTO 09~
+Warning: 5 extra tildes
+     417    3281   20518 09.k
+     482    3198   20271 09.s
+     899    6479   40789 total
+
+Processing 10.k into 10.s.  Header will be:
+|INFERNO CANTO 10~
+Warning: 15 extra tildes
+     681    6303   38267 10.k
+     805    6226   38432 10.s
+    1486   12529   76699 total
+
+Processing 11.k into 11.s.  Header will be:
+|INFERNO CANTO 11~
+Warning: 18 extra tildes
+     500    4327   26142 11.k
+     588    4131   25981 11.s
+    1088    8458   52123 total
+
+Processing 12.k into 12.s.  Header will be:
+|INFERNO CANTO 12~
+Warning: 22 extra tildes
+     552    4469   27026 12.k
+     642    4389   27085 12.s
+    1194    8858   54111 total
+
+Processing 13.k into 13.s.  Header will be:
+|INFERNO CANTO 13~
+Warning: 16 extra tildes
+     609    4945   30100 13.k
+     693    4830   30154 13.s
+    1302    9775   60254 total
+
+Processing 14.k into 14.s.  Header will be:
+|INFERNO CANTO 14~
+Warning: 25 extra tildes
+     611    5043   30943 14.k
+     709    4897   30731 14.s
+    1320    9940   61674 total
+
+Processing 15.k into 15.s.  Header will be:
+|INFERNO CANTO 15~
+Warning: 18 extra tildes
+     687    6035   36893 15.k
+     781    5949   36908 15.s
+    1468   11984   73801 total
+
+Processing 16.k into 16.s.  Header will be:
+|INFERNO CANTO 16~
+Warning: 26 extra tildes
+     870    7945   47799 16.k
+     997    7748   47737 16.s
+    1867   15693   95536 total
+
+Processing 17.k into 17.s.  Header will be:
+|INFERNO CANTO 17~
+Warning: 16 extra tildes
+     678    6017   36572 17.k
+     777    5819   36404 17.s
+    1455   11836   72976 total
+
+Processing 18.k into 18.s.  Header will be:
+|INFERNO CANTO 18~
+Warning: 26 extra tildes
+     713    6276   38671 18.k
+     830    6153   38774 18.s
+    1543   12429   77445 total
+
+Processing 19.k into 19.s.  Header will be:
+|INFERNO CANTO 19~
+Warning: 19 extra tildes
+     733    7000   42125 19.k
+     860    6822   42375 19.s
+    1593   13822   84500 total
+
+Processing 20.k into 20.s.  Header will be:
+|INFERNO CANTO 20~
+Warning: 20 extra tildes
+     625    5371   32902 20.k
+     716    5247   32909 20.s
+    1341   10618   65811 total
+
+Processing 21.k into 21.s.  Header will be:
+|INFERNO CANTO 21~
+Warning: 16 extra tildes
+     733    6549   39599 21.k
+     843    6387   39433 21.s
+    1576   12936   79032 total
+
+Processing 22.k into 22.s.  Header will be:
+|INFERNO CANTO 22~
+Warning: 17 extra tildes
+     683    5922   36587 22.k
+     805    5820   36793 22.s
+    1488   11742   73380 total
+
+Processing 23.k into 23.s.  Header will be:
+|INFERNO CANTO 23~
+Warning: 12 extra tildes
+     656    5686   34992 23.k
+     766    5617   35063 23.s
+    1422   11303   70055 total
+
+Processing 24.k into 24.s.  Header will be:
+|INFERNO CANTO 24~
+Warning: 16 extra tildes
+     787    6934   42305 24.k
+     902    6761   42157 24.s
+    1689   13695   84462 total
+
+Processing 26.k into 26.s.  Header will be:
+|INFERNO CANTO 26~
+Warning: 27 extra tildes
+     791    6668   41062 26.k
+     902    6468   40795 26.s
+    1693   13136   81857 total
+
+Processing 27.k into 27.s.  Header will be:
+|INFERNO CANTO 27~
+Warning: 16 extra tildes
+     842    8061   49610 27.k
+     997    7927   49980 27.s
+    1839   15988   99590 total
+
+Processing 28.k into 28.s.  Header will be:
+|INFERNO CANTO 28~
+Warning: 19 extra tildes
+     867    8059   49582 28.k
+    1013    7974   49835 28.s
+    1880   16033   99417 total
+
+Processing 29.k into 29.s.  Header will be:
+|INFERNO CANTO 29~
+Warning: 21 extra tildes
+     731    6475   39815 29.k
+     855    6316   39858 29.s
+    1586   12791   79673 total
+
+Processing 30.k into 30.s.  Header will be:
+|INFERNO CANTO 30~
+Warning: 22 extra tildes
+     723    6284   37881 30.k
+     836    6070   37736 30.s
+    1559   12354   75617 total
+
+Processing 31.k into 31.s.  Header will be:
+|INFERNO CANTO 31~
+Warning: 35 extra tildes
+    1244   12036   73671 31.k
+    1442   11814   73569 31.s
+    2686   23850  147240 total
+
+Processing 32.k into 32.s.  Header will be:
+|INFERNO CANTO 32~
+Warning: 15 extra tildes
+     900    8571   51646 32.k
+    1028    8302   51658 32.s
+    1928   16873  103304 total
+
+Processing 33.k into 33.s.  Header will be:
+|INFERNO CANTO 33~
+Warning: 21 extra tildes
+    1261   12787   76760 33.k
+    1478   12459   76515 33.s
+    2739   25246  153275 total
+
+Processing 34.k into 34.s.  Header will be:
+|INFERNO CANTO 34~
+Warning: 21 extra tildes
+     829    7639   46581 34.k
+     954    7433   46456 34.s
+    1783   15072   93037 total

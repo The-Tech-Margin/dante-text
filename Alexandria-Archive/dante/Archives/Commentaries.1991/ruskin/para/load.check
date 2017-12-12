@@ -1,0 +1,138 @@
+Checking file 01.load
+Warning: Single line indent at line 7
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 20.
+
+Warning: Single line indent at line 15
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 20.
+
+Warning: Single line indent at line 23
+>>>     ^Modern Painters,~ vol. iii. ch. xv. sec. 20.
+
+Checking file 02.load
+Warning: Single line indent at line 22
+>>>     Anderson, quoted in ^St. Mark's Rest,~ Supp. i.
+
+Warning: Single line indent at line 43
+>>>     Anderson, quoted in ^St. Mark's Rest,~ Supplement i.
+
+Checking file 06.load
+Warning: Single line indent at line 65
+>>>     ^Val d'Arno,~ Lect. ix. sec. 235-240.
+
+Checking file 10.load
+Warning: Single line indent at line 25
+>>>     ^Modern Painters,~ vol. iii. ch. vii. sec. 8.
+
+Warning: Single line indent at line 33
+>>>     ^Proserpina,~ ch. ix. sec. 12.
+
+Checking file 11.load
+Warning: Single line indent at line 29
+>>>     ^Mornings in Florence~: the First. Comp. Second Morning.
+
+Checking file 15.load
+Warning: Single line indent at line 24
+>>>     ^Stones of Venice~, vol. ii. ch. vii. sec. xli.
+
+Warning: Single line indent at line 40
+>>>     ^Val d'Arno~, Lect. ii. sec. 54.
+
+Warning: Single line indent at line 63
+>>>     ^Stones of Venice~, vol. ii. ch. vii. sec. xli.
+
+Warning: Single line indent at line 79
+>>>     ^Val d'Arno~, Lect. ii. sec. 54.
+
+Warning: Single line indent at line 100
+>>>     ^Mornings in Florence~: the Sixth.
+
+Warning: Single line indent at line 109
+>>>     ^Laws of F$esole~, Preface.
+
+Checking file 16.load
+Warning: Single line indent at line 8
+>>>     ^Pr@@aeterita~, vol. ii. ch. vii.
+
+Warning: Single line indent at line 19
+>>>     ^Val d'Arno,~ Lect. x. sec. 252.
+
+Warning: Single line indent at line 28
+>>>     ^Queen of the Air~, ii. sec. 82.
+
+Warning: Single line indent at line 38
+>>>     ^Val d'Arno~, Lect. v. sec. 114.
+
+Warning: single line paragraph at line 40
+>>>	|25.~  See above; and Inferno, canto xix.
+
+Checking file 18.load
+Warning: single line paragraph at line 3
+>>>	|76-108.~  See below, canto xx.
+
+Warning: single line paragraph at line 5
+>>>	|135.~  See above, Inferno, canto xxx.
+
+Checking file 19.load
+Warning: Single line indent at line 17
+>>>     ^Unto this Last~, Essay iii.
+
+Warning: Single line indent at line 27
+>>>     ^Mornings in Florence~: the Third.
+
+Checking file 20.load
+Warning: Single line indent at line 19
+>>>     ^Unto this Last~, Essay iii.
+
+Checking file 21.load
+Error at line 8: First indent not five spaces
+>>>                      `Twixt either shore
+
+Warning: Single line indent at line 24
+>>>     [^Par.~ xxii. 66-78]
+
+Warning: Single line indent at line 37
+>>>     [^Par.~xxii. 88-96]
+
+Warning: Single line indent at line 59
+>>>     ^Deucalion~, ch. x. secs. 8, 9.
+
+Warning: Single line indent at line 72
+>>>     Anderson, quoted in ^St. Mark's Rest~, Supp. ii. note.
+
+Checking file 28.load
+Warning: Single line indent at line 13
+>>>     ^Our Fathers have told us~, ch. iv. sec. 36, note.
+
+Checking file 30.load
+Warning: Single line indent at line 9
+>>>     ^Aratra Pentelici,~ Lect. iii. sec. 72.
+
+Error at line 16: First indent not five spaces
+>>>               	    Rosa sempiterna,
+
+Warning: Single line indent at line 20
+>>>     ^Queen of the Air~, ii. sec. 78.
+
+Checking file 31.load
+Warning: Single line indent at line 12
+>>>     ^Modern Painters~, vol. iii. ch. xiv. sec. 37, 38.
+
+Warning: Single line indent at line 29
+>>>     ^Modern Painters~ vol. iii. ch. xv. sec. 21.
+
+Warning: single line paragraph at line 31
+>>>	|65.~  See above, canto xxi.
+
+Checking file proem.load
+Warning: Single line indent at line 17
+>>>     ^Modern Painters,~ vol. iii. ch. xiv. secs. 31, 32.
+
+Warning: Single line indent at line 27
+>>>     ^Stones of Venice,~ vol. ii. ch. viii. sec. lvii.
+
+Warning: Single line indent at line 32
+>>>     ^Stones of Venice,~ vol. ii. ch. viii. sec. lxii. note.
+
+Warning: single line paragraph at line 36
+>>>	See above, Inferno, canto vii. on lines 21-66.
+

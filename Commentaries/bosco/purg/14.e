@@ -1,0 +1,1094 @@
+	|Introduzione.~  @E un secondo canto dedicato agli
+invidiosi, e infatti senza alcuna pausa continua il precedente:
+alle ultime parole di Sapia segue direttamente, senza neppure una
+didascalia introduttiva, un dialogo di due altri invidiosi, tra
+loro e con Dante.  Eppure, a lettura finita, preponderano nella
+fantasia del lettore alcuni passi, incisi nel contesto del canto
+con estremo vigore, che sembrano non avere alcun rapporto con
+l'invidia: lo sdegno violento per un'ormai imbestiata Toscana
+(29-54) e per lo scempio che i Neri vincitori avevan fatto a
+Firenze dei Bianchi rimasti nella citt@a (55-72); l'accoramento
+per i costumi degeneri della Romagna (88-126).  Tanto pesano
+questi squarci, che un finissimo lettore, il Pistelli, pot$e
+definire <tosco-romagnolo> questo canto.  Eppure l'invidia non vi
+@e e non poteva esservi assente.  Anche a prescindere dai versi in
+cui quel peccato @e confessato e deplorato da uno di quei due
+spiriti, Guido del Duca (82-84), e da quegli altri dove voci
+forti come tuoni gridano esempi d'invidia punita atterrendo il
+pellegrino (127-141; per essi, vedi ^25-42 {Nota Bosco}~ al canto
+prec.) o dove Virgilio ne spiega l'essenza preludendo all'ampia
+trattazione che ne far@a nel canto seguente (44-81); non @e certo
+caso che i due invidiosi pentiti di questo canto gareggino in
+solidariet@a umana nei confronti reciproci e verso Dante: sottili
+contrapassi; e vedremo che c'@e dell'altro.  @E tuttavia
+incontestabile che le parti toscano-romagnole attraggano a s$e,
+molto pi@u delle altre, l'attenzione del lettore, restando nella
+sua memoria.
+
+	|1-3.  Chi @e... coverchia?~: apertura improvvisa e
+inaspettata del canto, del tutto nuova e originale, che sembra
+quasi la materiale interruzione delle parole di Sapia senese, con
+cui il canto precedente si chiudeva.  Battute di dialogo di
+estrema naturalezza, calate nel clima di questa cornice, in cui
+le anime, data la pena a cui sono sottoposte, sono, come i
+ciechi, chiuse in un loro malinconico mondo senza contatti con
+l'esterno, e per questo pi@u sensibili e dolenti.  |Cerchia~: gira
+intorno, percorre in giro.  |Dato il volo~: naturalmente
+all'anima, liberandola dai vincoli del corpo.  |E apre...
+coverchia~: e apre e chiude (|coverchia~) gli occhi a sua
+volont@a.  Per questi spiriti costretti dalla loro punizione alla
+cecit@a, il vivo @e per eccellenza colui che pu@o aprire e chiudere
+gli occhi a suo piacere: parole naturali e spontanee.
+
+	|4-6.  non @e solo~: risponde l'altro spirito, dichiarando
+naturalmente che non sa chi sia il vivo l@i presente, ma sa che
+con lui c'@e qualcun altro, perch$e Dante aveva accennato, parlando
+con Sapia, a Virgilio ^Pg~ XIII 141).  |Li t'avvicini~: gli sei
+vicino.  |Dolcemente... acco'lo~: accoglilo (|acco'lo~) con
+dolcezza, s@i che egli s'induca a parlare.  Qualche critico sente
+nelle parole di quest'anima non solo la caratteristica, costante
+nel Purgatorio, di gentilezza e di dolcezza, ma anche <un
+riflesso di civile consuetudine cortese>; poich$e la dolce
+accoglienza serve a indurre il visitatore a parlare, non @e del
+tutto disinteressata, e quindi non pienamente `cortese'.  Si noti
+in |acco'lo~ l'elisione della sillaba finale del verbo davanti a
+pronome atono (|lo~).  Cfr. ^If~ XVIII 18 e nota ivi.
+
+	|8-9.  ragionavan~: parlavano.  |A man dritta~: a destra. 
+|Poi... supini~: poi fecero (|fer~) supini, cio@e alzarono, i visi
+per parlarmi (|dirmi~).  Cfr. ^Pg~ XIII 102, dove anche Sapia
+alza il viso verso Dante per parlargli.
+
+	|10-12.  l'uno~: Guido del Duca, che si nominer@a pi@u
+avanti (v. 81).  |Fitta~: rinchiusa, legata al corpo.  |Ne
+ditta~: dicci.  ^Dittare~, frequentativo di ^dire~, era assai
+diffuso nell'it. ant. (dal lat. ^dictare~).
+
+	|13-15.  ch$e tu... grazia~: per gli spiriti del
+Purgatorio la grazia concessa a Dante di entrare vivo nel regno
+dei morti, appare straordinaria ed @e fonte di un sentimento di
+meraviglia e di stupore, che il poeta sa variare di volta in
+volta con estrema perizia.  Cfr. ^Pg~ XIII 145-146.  |Quanto...
+mai~: quanto fa meravigliare una cosa che non @e mai accaduta
+prima d'ora.
+
+	|16-18.  Per mezza... sazia~: intendi: <nel mezzo della
+Toscana si estende per un ampio spazio (|si spazia~) un
+fiumicello, che nasce in Falterona, a cui non basta un corso di
+cento miglia>.  Il Villani nella sua ^Cronica~ (I 43),
+descrivendo il corso dell'Arno, aveva certo presenti questi versi
+e la sua descrizione minuziosa e attenta pu@o servirne da
+illustrazione: <... questo fiume d'Arno corre quasi per lo mezzo
+di Toscana, scendendo per le montagne della Vernia, ove il beato
+santo Francesco fece sua penitenzia e romitaggio, e poi passa per
+la contrada di Casentino presso a Bibbiena e a pi$e di Poppi, e
+poi si rivolge verso levante vegnendo presso alla citt@a di Arezzo
+a tre miglia, e poi corre per lo nostro Val d'Arno di sopra,
+scendendo per lo nostro piano, e quasi passa per lo mezzo della
+nostra citt@a di Firenze.  E poi, uscito per corso del nostro
+piano, passa per Montelupo e Capraia, presso a Empoli, per la
+contrada di Greti e Val d'Arno di sotto, a pi$e di Fucecchio; e
+poi per lo contado di Lucca e di Pisa, raccogliendo in s$e molti
+fiumi, passando poi quasi per mezzo la citt@a di Pisa ove assai @e
+grosso, s@i che porta galee e grossi legni; e presso di Pisa a
+cinque miglia mette in mare, e 'l suo corso @e di spazio di miglia
+centoventi>.  Questo tacere, da parte di Dante, il nome del fiume
+indicandolo con trasparente perifrasi, @e l'espediente strutturale
+per introdurre il tema etico-politico, che @e la nota dominante di
+questo canto.  |Per mezza Toscana~: l'espressione ricalca la
+costruzione latina (^per mediam Tusciam~).  |Falterona~: monte
+dell'Appennino toscano, fra la Toscana e la Romagna, centro
+orografico e idrografico di primaria importanza.
+
+	|19-21.  Di sovr'esso... persona~: da un luogo posto su
+questo fiume reco io questo mio corpo (|persona~).  Uso consueto
+di |sovra~ o ^sopra~ quando si tratta di acque (cfr. ^If~ XXIII
+95).  |Ch$e... non suona~: perch$e il mio nome non @e ancor famoso. 
+Nel 1300, anno dell'immaginato viaggio, Dante era noto solo come
+poeta d'amore.  Si volle vedere in questo verso un atto di voluta
+umilt@a, segno, nel racconto, dell'avvenuta espiazione del peccato
+di superbia; ma in realt@a Dante stesso aveva gi@a ammonito (^Cv~ I
+ii 3) che <non si concede per li retorici alcuno di s$e medesimo
+sanza necessaria cagione parlare>, e infatti nel poema egli
+^registra~ il proprio nome solo una volta ^di necessit@a~ (^Pg~
+XXX 55).
+
+	|22-23.  Se ben... 'ntelletto~: se con la mia mente bene
+afferro il tuo concetto (|'ntendimento~).  ^Accarnare~ vale
+propriamente <penetrare profondamente nella carne> e si dice per
+lo pi@u di un'arma o dei denti, ma qui @e detto figuratamente, come
+spiega il Vellutello, <per similitudine de' cani quando hanno
+giunto e preso la fiera, che pascendosi sopra di quella penetrano
+co' denti fino alla carne>.  Dubbia sembra l'interpretazione del
+Daniello che intende il vb. come termine tecnico dei pittori
+(<colorire>).  Il Tommaseo intende <dar vita nel proprio pensiero
+al pensiero altrui>, basandosi sul senso di <vita> che la parola
+<carne> ha spesso nella ^Bibbia.~  D'altronde <incarnare> un
+concetto astratto vale dargli concretezza, e ^accarnare~ con tale
+senso @e in Fazio degli Uberti (^Dittamondo~ II xxxi 69).
+
+	|25-27.  l'altro~: questo spirito, che non parla mai con
+Dante, ma si rivolge sempre a Guido del Duca, @e il forlivese
+Rinieri da Calboli, che viene nominato ai vv. 88-89.  |Lui~: a
+lui.  |Il vocabol... riviera~: il nome di quel fiume (|riviera~ @e
+gallicismo).  |Pur... cose~: proprio (|pur~) come si fa (|om fa~)
+delle cose vergognose, turpi.  Si noti |om~ con il valore
+dell'^on~ francese, gi@a altre volte visto.
+
+	28-42 {Nota Bosco}.~  Il corso dell'Arno e il suo bacino,
+la sua |valle~, son designati con una grande perifrasi
+geografico-scientifica: segno indubbio nella sua ampiezza e,
+direi, magnificenza, della importanza che il poeta annette
+all'invettiva che seguir@a: per indicare la sorgente dell'Arno @e
+rievocato l'intero Appennino, le sue cime pi@u alte, sin l@a dove
+esso @e spezzato dallo Stretto: una grande vicenda geologica.  Per
+la foce, il poeta stringe in una terzina un'altra grande, perenne
+vicenda naturale: l'acqua del mare evapora, forma le nubi; queste
+si convertono in piogge, le quali alimentano i fiumi; e questi,
+sboccando nel mare, lo `ristorano' di quel che esso ha con
+l'evaporazione perduto.
+
+	|29-30.  si sdebit@o~: diede questa risposta, soddisfece
+alla domanda, in quanto chi @e interrogato ha quasi il ^debito~ di
+rispondere.  |Valle~: non il fiume, come intendono per lo pi@u i
+commentatori (Grabher, Porena, Chimenz, ecc.), bens@i il suo
+bacino, come poi ^fossa~ al v. 51; cio@e quello che anche si
+chiama genericamente la <valle dell'Arno>.  D'altronde |valle~ @e
+<quello spazio di terreno che @e racchiuso tra' monti, e lungo il
+quale per ordinario scorre qualche fiume o torrente> (Tommaseo). 
+|P@era~: perisca: il verbo collocato alla fine di frase d@a risalto
+all'imprecazione, che ricalca il linguaggio biblico e muove da un
+giusto sdegno morale.  Per questo non c'@e contraddizione con lo
+spirito di carit@a proprio di queste anime, perch$e, come ben vide
+il Pistelli, <nulla @e tanto opposto all'invidia, quanto la
+passione magnanima che trabocca contro il male>.
+
+	|31-36.  ch$e dal principio... con loro~: le due terzine
+piuttosto pesanti e contorte per l'eccesso di incisi e perifrasi,
+vogliono dire semplicemente: <dalla sorgente alla foce>.  Intendi
+perci@o letteralmente cos@i: poich@e dal suo principio, dalla
+sorgente, dove l'Appennino (|l'alpestro monte~), da cui (|ond'~)
+Peloro si @e staccato violentemente (|tronco~), @e cos@i grosso e
+massiccio (|pregno~) che in pochi luoghi supera (|passa oltra~)
+quella ampiezza (|segno~), fino l@a, al mare, dove si restituisce
+(|si rende~) come compenso (|ristoro~) di ci@o che il sole
+(|ciel~) prosciuga (|asciuga~) dal mare (|de la marina~), cio@e le
+acque, per le quali (|ond'~) i fiumi ricevono (|hanno~) quello
+che forma il loro corso (|ci@o che va con loro~: naturalmente
+sotto forma di nevi o di piogge).
+
+	|31-32.  pregno~: @e interpretato variamente questo agg.
+riferito all'Appennino, nel punto dove sorge il Falterona.  C'@e
+chi l'intese come <ricco d'acque> (Landino e parecchi interpreti
+moderni), chi (Benvenuto, Buti, ecc.) come <alto>, chi pens@o a un
+riferimento a Lucano (^Phars.~ II 397-398), chi infine (^Chiose
+Cassinesi~) <grosso e massiccio>.  Tenendo conto che il Falterona
+@e uno dei principali centri orografici dell'Appennino (e forse
+Dante pensava che da questo nascesse anche il Tevere), questa
+ultima interpretazione parrebbe la migliore.  |L'alpestro...
+Peloro~: la perifrasi per indicare l'Appennino @e geologicamente
+esatta, perch$e i monti peloritani ne sono la continuazione dopo
+lo stretto di Messina.  Il distacco della Sicilia dal continente
+era conoscenza geologica gi@a dei geografi romani del I sec., e
+Dante poteva anche attingerla dai classici (Virg. ^Aen.~ III 414
+ss.; Luc. ^Phars.~ II 437 s.).  Peloro @e il vertice orientale
+della Sicilia (oggi Capo Faro) sullo stretto di Messina.
+
+	|34-36.  l@a... loro~: anche la foce @e indicata con una
+perifrasi scientifica, dove @e ricordata l'evaporazione dell'acqua
+marina e la successiva condensazione in pioggia.  Lo stesso
+fenomeno meteorologico in ^Pg~ V 109-111.
+
+	|37-39.  vert@u~: la parola @e in forte rilievo, posta
+com'@e al principio di verso e al centro tra le due terzine, che
+contengono l'oro-idrografia della valle dell'Arno e le due che
+rappresentano la caratterizzazione morale di essa.  Per la forma
+cfr. PETROCCHI, I 433.  |Per nimica si fuga~: <@e sfuggita, @e
+schivata come nemica>.  Cos@i va inteso il vb. anche per il
+paragone con la |biscia.~  Altri, meno bene: <@e messa in fuga>
+(cfr. PARODI, ^Lingua~, II 280, 374 e BARBI, ^Problemi~ I 281). 
+|O per sventura... fruga~: o per disgrazia del luogo, o per
+inveterata abitudine al peccato (|mal uso~) che li spinge, li
+stimola (|li fruga~) a mal fare.  Cio@e, o per influsso maligno
+degli astri, o per colpa degli uomini: si pone qui un dubbio che
+verr@a risolto pi@u avanti (^Pg~ XVI).  Per ^frugare~, cfr. ^If~
+XXX 70 e ^Pg~ III 3.
+
+	|40-42.  ond'~: congiunzione coordinativa con significato
+di conseguenza: <cosicch$e>; per altri ha valore consecutivo e
+subordinante, ed @e da unirsi al ^cos@i~ del v. 37.  |Che...
+pastura~: cosicch$e sembra che Circe li abbia avuti in suo
+dominio, avendoli trasformati in bestie.  Circe, figlia del Sole
+e di Perse, era una celebre maga che dimorava sul monte Circello
+e trasformava, con le sue arti magiche, gli uomini in animali
+(cfr. Virg. ^Aen.~ VI 10-20).
+
+	43-66 {Nota Bosco}.~  In un tessuto generalmente pacato
+come quello del ^Purg.~ @e naturale che abbiano particolare
+risalto le pagine nelle quali il poeta riassume i toni vibrati
+propri dell'^Inferno~, come in queste forti invettive sulla
+|maladetta e sventurata fossa~ {51} dell'Arno, e contro il
+|cacciator~ dei Bianchi, Fulcieri da Calboli.  Non che esse
+costituiscano nella seconda cantica un ^unicum~; basti mettere
+accanto alla prima l'invettiva contro la ^serva Italia~ (VI
+76-151) e presso la seconda la descrizione dell'altro scempio,
+quasi divina vendetta, operata sul corpo del capo dei Neri, di
+cui Fulcieri era stato strumento, Corso Donati.  |Io veggio tuo
+nepote che diventa / cacciator di quei lupi... / Vende la carne
+loro essendo viva: / poscia li ancide come antica belva... /
+Sanguinoso esce de la trista selva~ (58-64): cos@i di Fulcieri; e
+di Corso (^Pg~ XXIV 82-87): ^quei che pi@u n'ha colpa [della
+degenerazione di Firenze] / vegg',io a coda d'una bestia tratto /
+inver' la valle ove mai non si scolpa.  / La bestia ad ogne passo
+va pi@u ratto...~  Cacciatori e belve demoniaci; la condanna di
+Fulcieri e la morte di Corso sono due fasi sanguinose d'una
+medesima vicenda.  Senesi, Lucchesi, Pistoiesi sono oggetto
+altrove dello sdegno di Dante: qui egli, seguendo il corso del
+fiume che ^si spazia~ {16} nel mezzo della Toscana, compie la
+rassegna dei popoli toscani.  Quasi certamente @e sua intenzione
+graduarla: passa dai Casentinesi paragonati a |brutti porci~ {43}
+e dagli Aretini |botoli... ringhiosi~ {46-47} ai Fiorentini
+|lupi~ {50}, sino ai Pisani |volpi~ {53}: una progressione nella
+quale @e stata vista la progressione di colpevolezza su cui @e
+costruito l'Inferno (l'incontinenza dei porci e dei botoli, la
+cupidigia e forse la violenza dei lupi, la frode delle volpi;
+qualcuno ha proposto altre meno probabili corrispondenze); sono
+state anche ricordate le fiere del prologo.  Rispondenze che si
+possono ammettere o no; ma senza dubbio in questi versi contro i
+Toscani e contro Fulcieri c'@e l'eco del linguaggio e
+dell'immaginare infernali: si considerino l'|antica belva~, la
+|trista selva~, la |riva / del fiero fiume~ col suo vago ricordo
+acheronteo; soprattutto Fulcieri rappresentato come un feroce
+cacciatore in una selva innaturale, simile alle cagne che
+inseguono gli scialacquatori nel bosco infernale.  Le stesse
+tipizzazioni animalesche, diventate stemmi di zone e di citt@a,
+hanno preciso riscontro negli stemmi degli usurai e in tutto
+l'animalesco che @e nel canto XVII dell'^Inferno~ (vedi ^Intr.~ a
+^If~ XVII); negli animali araldici con cui son designate le citt@a
+della Romagna in ^If~ XXVII 36-54; nelle ^bestie fiesolane~ che
+avranno fame di lui, Dante (^If~ XV 70-78).  L'immagine sar@a
+ripresa ancora nel ^Paradiso~ l@a dove @e detto che i ^lupi~
+fiorentini daranno guerra a lui ^agnello~ (^Pd~ XXV 5-6).
+
+	|43-45.  Tra... calle~: ordina e intendi la terzina cos@i:
+(l'Arno) drizza prima il suo cammino (|calle~) ancora povero
+d'acque, tra sudici (|brutti~) porci, pi@u degni di ghiande
+(|galle~) che d'altro cibo adatto agli uomini.  Si allude agli
+abitanti dell'alto Casentino.  Non @e da escludere per@o che
+l'immagine dei |porci~ sia stata suggerita al poeta del castello
+di Porciano, appunto nell'alto Casentino, che era uno dei feudi
+di un ramo della potente famiglia dei conti Guidi, quello di
+Modigliana, che venivano detti conti di Porciano.  Se si potesse
+riferire ai primi tempi dell'esilio, o anche al 1311, come
+vorrebbe il Torraca, unico a citarla, la tenzoncina tra Dante e
+Cino da Pistoia (^Rime~ XCVI-XCVII ^Perch'io non trovo~ e ^Dante,
+i' non so~), i vv. 7-8 del triste e melanconico sonetto dantesco
+(<... il loco ov'i' son, ch'@e s@i rio, / che 'l ben non trova chi
+albergo li doni>) ben potrebbero far da commento a questa terzina
+casentinese.
+
+	|46-47.  Botoli~: cani, dice l'Ottimo, <piccoli e di
+piccola forza e di molto latrare>.  Si tratta degli Aretini che,
+secondo una testimonianza del Sacchetti, <furon sempre chiamati
+^can botoli~>.  Non @e escluso per@o che anche qui sia venuto un
+suggerimento dal motto che si legge sullo stemma di Arezzo: <a
+cane non magno saepe tenetur aper> (cio@e <spesso il cinghiale @e
+preso da un piccolo cane>); per cui si tratterebbe in tal caso di
+un'ironica allusione.  |Venendo giuso~: venendo in gi@u,
+discendendo: l'Arno infatti scende verso sud dal Casentino in
+direzione di Arezzo.  |Ringhiosi... possa~: ringhiosi,
+minacciosi, pi@u di quanto comporta (|chiede~) la loro forza
+(|possa~).
+
+	|48.  e da lor... muso~: l'Arno, prima di giungere ad
+Arezzo, fa un'ampia curva e ritorna su s$e stesso, proseguendo
+verso nord-ovest per il Valdarno superiore.  I manoscritti hanno
+^e a lor~ ecc.: la lezione <non sarebbe priva di senso e
+replicherebbe un'immagine gi@a nota, cio@e ^non torcer lo grifo~
+(^If~ XXXI 126); dunque la riviera d'Arno torce il muso agli
+Aretini, `fa un atto di disprezzo', `mostra di schifarli'.  Ma il
+poeta vuol dire di pi@u e meglio: il fiume non solo fa atto di
+disprezzarli, ma volge il proprio cammino in altra direzione (il
+che consente una necessaria precisazione geografica sulla curva a
+gomito che fa l'Arno presso Arezzo)>.  Cos@i il Petrocchi
+ritornando alla lezione a testo, che era gi@a stata restituita
+dall'edizione del 1921.  Ad illustrazione di queste due terzine
+(vv. 43-48) vedi il bell'articolo di F. VIVALDI in <l'Alighieri>
+IV (1963), I, 62-65.
+
+	|49-51.  Vassi caggendo~: va scendendo, cadendo.  In
+|caggendo~ = cadendo (da una forma ^cadeo~) c'@e la stessa
+palatalizzazione della consonante finale del tema, come in
+^veggio~ = <vedo> (da ^video~), ^deggio~ = <devo> (da ^debeo~),
+ecc.  |Ella~: la ^valle~ (cfr. v. 30), cio@e, per sineddoche, il
+fiume Arno: ma qui diventa soggetto |la maladetta e sventurata
+fossa~, che @e poi la stessa cosa.  |'ngrossa~: ingrossa.  L'Arno,
+nel tratto tra Arezzo e Firenze, cio@e nel Valdarno superiore,
+riceve parecchi affluenti sia a destra, dai monti di Pratomagno,
+sia a sinistra, dai monti del Chianti.  |Di can farsi lupi~:
+l'Arno, lungo il suo corso, vede a mano a mano i ^botoli~ mutarsi
+in lupi.  Questi sono i Fiorentini tutti, detti cos@i certamente
+per la loro avarizia (cfr. ^If~ VI 74-75 e XV 68).  Per@o al v. 59
+col termine ^lupi~ si designano evidentemente i Bianchi, vittime
+di Fulcieri, mentre in ^Pd~ XXV 6 i ^lupi~ sono chiaramente i
+Neri.  In questo canto al v. 59 il termine ^lupi~ @e certamente
+trascinato dal v. 50.
+
+	|52-53.  Discesa... cupi~: dopo esser discesa in bacini
+incassati (|pelaghi~) e profondi (|cupi~).  Si allude al corso
+del fiume nel Valdarno inferiore, ove l'Arno, dopo Signa, corre
+tra rive incassate, e, forse pi@u particolarmente, si riferisce
+alla stretta gola, detta Pietra Golfolina, al di l@a della quale
+il fiume scorre poi in pianura, in un letto largo, verso Pisa. 
+|Le volpi~: i Pisani.  Anche in questa designazione animalesca,
+come per le altre, Dante si rif@a alla voce popolare che indicava
+nella volpe, cio@e nell'animale della frode, i Pisani.  Anche
+presso altri poeti (Pucci, Sacchetti, Monachi) troviamo analogo
+appellativo.
+
+	|54.  che... occ@upi~: che non temono astuzia, frode
+(|ingegno~) che le prenda (|occ@upi~), tanto i Pisani sono scaltri
+o orditori di inganni.  |Ingegno~ se non ha significato generico
+pu@o valere <frode, inganno, astuzia> come in Petrarca (^Canz.~
+CCLXXI 14), o forse meglio, poich$e per metonimia |ingegno~ pu@o
+significare <l'opera ingegnosa>, l'<artificio>, l'<ordigno>, qui
+varrebbe, con riferimento alle volpi, <trappola>.  D'altronde il
+lat. ^ingenium~ gi@a con Tertulliano e poi nel lat. medievale
+(Gregorio Magno, Gregorio di Tours, ecc.) divenne sinonimo di
+<machinatio, fraus> (cfr. DU CANGE, ^Glossarium mediae et infimae
+latinitatis~, s. v. ^ingenium~); cfr. il termine scherzoso
+<marchingegno> = espediente ingegnoso.  Il Mazzoni propende a
+ritenere sia |ingegno~, sia ^occupare~, termini tecnici della
+caccia: <trappola> il primo, e <cacciare>, quindi <catturare>, il
+secondo, da ^aucupare~ latino.  Ma forse ^occupare~ pu@o pi@u
+semplicemente derivare da ^occupo~ derivato da ^capio.~  In tutta
+questa descrizione del corso dell'Arno, in cui gli abitanti sono
+assimilati a bestie, c'@e non solo la presenza, tutta medievale,
+del simbolismo animalesco (si pensi agli innumerevoli
+<bestiari>), ma il dolore e lo sdegno per questo traviamento
+morale, tanto che si @e potuto parlare di una <geografia dello
+sdegno> (Chiappelli) o di <topografia satirica> (Pietrobono).
+
+	|55-57.  N@e... disnoda~: la terzina serve di passaggio
+tra la fiera rampogna della Toscana e la solenne profezia su
+Fulcieri, creando come una pausa necessaria.  |Altri~: fin dagli
+antichi commentatori, comunemente, @e riferito a Rinieri e si
+considera pronome indeterminato, riferito a persona determinata
+(cfr. ^If~ XXVII 56): interpretazione sostenuta dal Barbi (^Con
+Dante~, 324-329).  Ma la stretta connessione con |costui~ del v.
+successivo e ragioni di semplicit@a sintattica possono far
+accettare, come intendono alcuni, il riferimento a Dante.  |E
+buon... s'ammenta~: e sar@a utile (|buon~) a costui, cio@e a Dante,
+se si ricorda (|s'ammenta~), cio@e se si rammenter@a; |costui~ qui
+con valore di dativo: <a costui>.  |Ancor~ pu@o avere due valori:
+<fin da ora>, oppure in <avvenire>.  |Vero spirto~: una vera
+ispirazione: pu@o richiamare lo <Spiritus veritatis> di ^Ioann.~
+XVI 13, cio@e Dio, da cui proviene l'ispirazione profetica. 
+|Disnoda~: scioglie (dalle tenebre), cio@e <rivela>.
+
+	|58-59.  veggio~: per la forma, vedi nota al v. 49 a
+proposito di ^caggendo.~  |Tuo nepote~: Fulcieri da Calboli,
+nipote di Rinieri, che occup@o uffici e podesterie in vari comuni:
+fu podest@a a Milano nel 1298, nel 1306 a Modena, donde venne
+cacciato; nel 1299-1300 capitano del popolo a Bologna e di nuovo
+a Bologna nel secondo semestre del 1321 (per quest'ultimo ufficio
+potrebbe Fulcieri essere identificato con il ^Polifemo~ della II
+egloga dantesca).  Ma la pi@u celebre podesteria, anzi la pi@u
+famigerata, fu quella del 1303 a Firenze, nella quale Fulcieri
+divenne, nelle mani dei Guelfi Neri al potere, strumento di
+persecuzioni e di vendette, continuando cos@i l'azione dei due
+podest@a dell'anno precedente, Cante de' Gabrielli da Gubbio
+(colui che firm@o la condanna di Dante) e Gherardino da Gambara. 
+|Cacciator di quei lupi~: persecutore dei Fiorentini, qui per@o in
+senso limitativo: i Bianchi.  Vedi nota al v. 50.
+
+	|61-66.  Vende... si rinselva~: la crudelt@a di Fulcieri @e
+rievocata qui in una visione che ben a ragione il Momigliano
+definiva <apocalittica>.  Raramente Dante ha trovato colori cos@i
+foschi, parole cos@i tremende, come in questa rievocazione delle
+stragi del crudele romagnolo.  Nella finzione del viaggio,
+l'azione di Fulcieri appare come una profezia, ma si tratta di
+una profezia ^post factum~, naturalmente, poich$e Dante ha scritto
+questi versi parecchi anni dopo la condanna all'esilio.  Non per
+nulla il quadro della Firenze straziata pare al Momigliano <il
+pi@u nero... suggerito a Dante dalla sua disperazione di
+proscritto>.
+
+	|62-63.  ancide~: uccide.  |Come antica belva~: per molti
+antichi commentatori @e immagine riferita a Fulcieri e vale
+perci@o: li uccide come una belva ormai avvezza alle stragi. 
+Secondo l'originale interpretazione del Pagliaro: <la ferocia
+sanguinaria del Fulcieri @e paragonata a quella delle ^belve del
+mito antico~, alle quali si attribuivano stragi di uomini e di
+animali>.  Altri invece intende: li fa uccidere come si fa con le
+bestie vecchie.  Questa interpretazione sembra meglio connessa
+con l'immagine che precede: Fulcieri vende la carne di quei lupi
+(Bianchi) mentre sono ancor vivi, cio@e ne pattuisce il prezzo;
+poi li uccide come si fa con le bestie invecchiate, che si
+portano al macello.  A questa interpretazione, per@o, ostano due
+cose: il termine aulico |belva~ (lat. ^belua~), poco adatto per
+un vecchio animale domestico da macellare, e l'agg. ^antico~ che
+difficilmente pu@o essere sinonimo di <vecchio> (in Dante con
+questo significato, ma in senso pi@u lato, solo in ^Pg~ IX 1:
+^Titone antico~).  Per nulla affatto da escludere quindi il
+riferimento a Fulcieri specialmente nel senso indicato dal
+Pagliaro (cfr. ^Ulisse~, II 609, n. 11).  |Molti.. priva~: priva
+molti della vita e s$e stesso di onore (|pregio~).
+
+	|64-66.  Sanguinoso~: coperto, sporco di sangue.  |Trista
+selva~: Firenze.  Il termine |trista~ pu@o voler dire <piena di
+malvagit@a>, ma anche <sventurata>; nell'ambiguit@a dell'epiteto
+sembra sentire l'eco di un grande dolore.  |Tal~: in cos@i misere
+condizioni, guasta e sconvolta.  |Ne lo... si rinselva~: non
+potr@a rimettersi nelle condizioni di prima.  |Primaio~ @e
+bisillabo (cfr. nota a ^Pg~ XIII 22).
+
+	|67-69.  dogliosi danni~: avvenimenti dolorosi.  |Da...
+assanni~: da qualunque (|qual che~) parte lo afferri (|assanni~ =
+azzanni, morda) il pericolo.
+
+	|70-72.  l'altr'anima~: Rinieri da Calboli.  |Volta~:
+voltata verso Guido.  |La parola~: singolare per il plurale
+oppure <il senso delle parole>, <il discorso> (lat. med.
+^parabola~), come in ^If~ II 43.  |A s$e raccolta~: accolta dentro
+di s$e, nel suo animo.
+
+	|73-87 {Nota Bosco}.~  A questo punto @e necessario che ci
+poniamo anche noi un problema da tutti dibattuto: perch$e il poeta
+fa pronunciare proprio a Guido la rampogna alla Toscana e poi
+l'alto elogio della cavalleria-cortesia della vecchia Romagna? 
+Non risulta infatti dalle antiche testimonianze che egli fosse
+personaggio particolarmente ragguardevole: assai pi@u cospicuo di
+lui fu il suo silenzioso vicino, Rinieri.  Abbiamo detto che
+Dante vuole celebrare un costume di vita generalizzato, per cos@i
+dire medio, non uomini o imprese eccezionali: le doti
+cavalleresche non sono considerate da Dante patrimonio personale
+di Guido, ma di tutta una regione in una certa et@a.  In lui parla
+la Romagna antica, e in particolare Bertinoro, che, secondo la
+novellistica tradizionale, era stata sede di elezione della
+cavalleria e della liberalit@a.  Dei personaggi qui ricordati da
+Dante, vissero a Bertinoro pi@u o meno a lungo, oltre a Guido del
+Duca, anche Arrigo Mainardi, e, secondo l'Ottimo, Guido di
+Carpigna e Federigo Tignoso; ai gentili uomini di quella terra @e
+attribuito un singolare costume cortese, secondo una tradizione
+cui attingono gli antichi commentatori danteschi: <dicesi per
+novella> afferma l'Anonimo.  Quei cavalieri non avevano voluto
+che a Bertinoro sorgesse un albergo a pagamento; ciascuno di
+essi, dice l'Ottimo, <correva a recarsi a casa> per ospitarlo e
+onorarlo secondo suo grado, ogni forestiero che arrivava: tanto
+che, per <trarre materia di scandolo>, fu eretta una colonna con
+molti anelli (`campanelle'): il forestiere era condotto a legare
+il suo cavallo o ad appendere il suo cappello a uno di essi, a
+sua scelta, e con ci@o designava, senza saperlo, il suo ospite. 
+Della colonna persiste anche oggi il ricordo e l'orgoglio: un
+serio storico locale, l'Amaducci, sostiene con qualche
+ragionevolezza che essa sia stata effettivamente eretta. 
+Insomma, i signori di Bertinoro davano senza essere richiesti:
+^ch$e quale aspetta prego e l'uopo vede, / malignamente gi@a si
+mette al nego~ (^Pg~ XVII 59-60), ecc.  Per quel che concerne
+Guido del Duca, si legga il ^Novellino~ al citato racconto XLI:
+tre cavalieri pensano che non ci sia in tutta Romagna persona
+degna della loro compagnia, neppure (appunto!) Paolo Traversari. 
+Quando uno di essi viene a morte, i due superstiti segano perci@o
+la terza parte della panca su cui tutti e tre eran soliti sedere. 
+Orbene: questo mito @e da Pietro di Dante e da Benvenuto, seguiti
+dal Serravalle, impersonato proprio in Arrigo Mainardi e in Guido
+del Duca: alla morte di quest'ultimo, il primo, dice Benvenuto,
+<fecit secari lignum per medium..., asserens quod non remanserat
+alius similis in liberalitate et in honorificentia>.  La
+novellistica dunque ci spiega a sufficienza perch$e Dante abbia
+scelto Guido di Bertinoro a suo portavoce in tema di liberalit@a. 
+Per non diversa ragione, egli fa proferire a un uomo di corte per
+altre ragioni oscuro, Marco Lombardo, un'ardua fondamentale
+sentenza circa il libero arbitrio (^Pg~ XVI 46 ss.): @e anch'egli
+personaggio entrato nella novellistica (vedi ^Intr.~ e ^34-48
+{Nota Bosco}~ a ^Pg~ XVI) e come tale esemplare.  Non ha poi
+bisogno di chiarimenti l'ovvio contrapasso per cui @e un
+ex-invidioso a lodare il senso della solidariet@a umana.  Quel che
+invece a prima vista appare difficile a comprendere @e come si
+possano conciliare in Guido, agli occhi di Dante, l'invidia e lo
+spirito cavalleresco, di cui egli @e conscio d'esser partecipe
+(^ne 'nvogliava amor e cortesia~ {110}).  @E il <mistero di Guido
+del Duca>, come scrisse non a torto il sempre acuto Porena.  Ma
+forse gli stessi aneddoti della colonna e della panca possono
+guidarci a una spiegazione che, se non certissima, appare
+altamente probabile.  A proposito della colonna, dice l'Anonimo
+che i Mainardi <erono tanto cortesi che l'uno aveva invidia
+dell'altro che facesse pi@u cortesia>; e se l'esclusivismo (che
+altro questo @e, se non invidia superba?) attribuito dal
+^Novellino~ a cavalieri genericamente romagnoli pot$e essere in
+et@a dantesca assegnato al Mainardi e a Guido, questo ci dice che
+la tradizione attribuiva a questi due, insieme con la liberalit@a
+e nata dal desiderio di primeggiare in questa, una determinata
+specie d'invidia.  Questa ipotesi, che scioglierebbe il
+`mistero', @e affacciata ma respinta dal Porena, secondo cui
+sarebbero d'ostacolo a essa le <parole terribili con cui Guido
+descrive la sua invidia>: cio@e i vv. 82-84.  Ma esse, per quanto
+vibrate, non sono che la traduzione della definizione corrente di
+quel peccato, consistente appunto nel rammaricarsi del bene d'un
+altro (in questo caso la possibilit@a di esser cortese) e quindi
+della gioia che la persona che ne gode manifesta.  D'altra parte,
+che il desiderio della fama di liberalit@a potesse condurre a tali
+eccessi, @e anch'esso motivo della novellistica edificante o di
+trattenimento: attingendo indirettamente, pare, a fonti orientali
+il Boccaccio racconta che Mitridanes <invidioso della cortesia di
+Natan> progetta addirittura di ucciderlo; e lo stesso Natan,
+sconosciuto al rivale, oltre che suggerire a questo il modo di
+effettuare il suo proposito, lo giustifica: <molto la invidia che
+alla virt@u di Natan porti commendo per ci@o che, se di cos@i fatte
+fossero assai, il mondo, che @e miserissimo, tosto buon
+diverrebbe> (^Dec.~ X 3, 20); giacch$e l'impresa di uccidere il
+suo rivale <non per odio la seguivi, ma per potere essere tenuto
+migliore> (^ibid.~ 30).  Dunque, persino l'assassinio nato da
+generosa invidia pu@o per assurdo essere cavallerescamente
+giustificato.  Ma l'invidia resta, ben s'intende, religiosamente
+peccato, di cui Guido si pent@i e che ora espia.  Dice anche il
+Boccaccio che Mitridanes <ci@o che della fama di Natan udiva
+diminuimento della sua estimava> (^ibid.~ 11), che @e esattamente
+la definizione anche dantesca dell'invidia, peccato di chi
+^podere, grazia onore e fama / teme di perder perch'altri
+sormonti~ (^Pg~ XVII 118-119); e in ^Pg~ XV 49-51 Virgilio dice
+che ^perch$e s'appuntano i vostri disiri / dove per compagnia
+parte si scema, / invidia move il mantaco a' sospiri~: donde la
+necessit@a di appuntarli ai beni spirituali, che non diminuiscono,
+anzi si accrescono se altri vi partecipano.  Questa nostra @e
+dunque un'ipotesi che sembra soddisfacente; ma va anche detto che
+nel testo di Dante non c'@e nulla che ci dica direttamente di qual
+genere fosse l'invidia di Guido.
+
+	|73-75.  Lo dir... vista~: le parole dette da Guido e
+l'aspetto (|vista~) di Rinieri turbato e triste.  |Fei~: feci.
+
+	|76-78.  lo spirto... parl@omi~: Guido che per primo aveva
+rivolto la parola a Dante.  |Mi deduca~: mi induca; cfr. ^If~
+XXXII 6.  |Nel fare... vuo'mi~: cio@e nel rivelarti il mio nome,
+mentre tu non mi vuoi dire il tuo.  |Vuo'mi~: mi vuoi, con lo
+stesso fenomeno visto al v. 6.
+
+	|79-81.  Ma... scarso~: ma dal momento che (|da che~) Dio
+vuole che traspaia cos@i luminosamente (|traluca~) la sua grazia
+in te, non ti sar@o avaro (|scarso~) di notizie e di cortesia. 
+|Fui~: la lezione a testo con il vb. al passato remoto, nel suo
+contrasto con il presente del v. 88, @e cos@i spiegata: <Nulla di
+pi@u efficace, sulle labbra di uno spirito il quale emenda
+nell'amore fraterno i peccati del suo sangue gi@a ^riarso
+d'invidia~, che questo annullare il proprio nome nel passato e,
+invece, affermare come presente e vivo il nome del compagno suo>
+(PETROCCHI, III 235-236).  |Guido del Duca~: nobile ravennate
+della famiglia degli Onesti, signori di Bertinoro, imparentato
+coi Traversari e i Mainardi, menzionati in questo canto (vv.
+97-98); e quindi di parte ghibellina.  Fu per lunghi anni giudice
+in varie citt@a della Romagna: Imola, Faenza, Rimini, Ravenna e
+nella stessa Bertinoro, dove abit@o a lungo.  L'ultimo documento
+che lo menziona @e del 1249.  Della sua invidia, di cui fu
+^riarso~ (v. 82), parlano gli antichi interpreti, desumendo la
+notizia da Dante stesso; ma vedi ^73-87 {Nota Bosco}.~
+
+	|82-84.  il sangue mio~: non, metaforicamente, la stirpe,
+bens@i veramente il ^sangue~, che era considerato sede dell'anima
+(cfr. ^Pg~ V 74).  |Di livore sparso~: manifestazione esteriore
+dell'invidia.
+
+	|85-87.  Di mia... mieto~: raccolgo questo frutto dal
+seme del mio peccato.  Ma il poeta efficacemente dice |paglia~
+invece del termine proverbiale.  L'espressione @e per@o tipica del
+linguaggio scritturale (Paolo, ^Gal.~ VI 8; ^Prov.~ XXII 8;
+^Eccli.~ VII 3).  |Poni 'l core~: desideri, rivolgi l'animo. 
+|L@a... divieto~: in quei beni (|l@a~) dove @e (|v'@e~) necessario
+(|mestier~) il divieto, l'esclusione di un compagno (|consorte~). 
+Sono naturalmente i beni terreni, i quali, se sono propriet@a di
+uno, non possono essere posseduti da altri, o possono esserlo in
+misura minore.  L'espressione appartiene al linguaggio giuridico. 
+Spieg@o Isidoro Del Lungo, con la consueta efficace brevit@a:
+<Linguaggio statutale; secondo il quale il possesso ed esercizio
+di alcuni uffici escludeva da questi i `consorti' di lui, cio@e
+quelli della sua famiglia; e tale esclusione era detta
+`divieto'>.  Questa apostrofe agli uomini conferma ancora una
+volta come il tema politico non si disgiunga mai in Dante dal
+tema morale e come la funzione educativa stia alla base di tutto
+il poema.  La frase un po' oscura offrir@a il pretesto ad una
+lunga spiegazione di Virgilio nel canto successivo (XV 44-78).
+
+	|88-96 {Nota Bosco}.~  Nella Romagna attuale, aveva detto
+Guido (93), mancano le virt@u intese |al vero e al trastullo~,
+cio@e il culto della vita spesa nelle belle imprese intellettuali
+e civili, congiunto all'esigenza d'una vita ornata, il ^valore~
+unito alla ^cortesia~: @e proprio della cavalleria non schivare,
+anzi cercare gli affanni, i pericoli in difesa della fede e dei
+deboli, forse anche i dolori che l'amore porta con s$e; e,
+insieme, dilettarsi di cultura e di poesia, circondarsi di cose
+belle e di uomini valenti: i principi attuali, aveva detto nel
+passo citato del ^De vulg. el.~, si circondano invece di gente
+indegna.  Ritorna naturalmente in questo canto il linguaggio
+`tecnico' della cavalleria: Rinieri, dice Guido, |@e 'l pregio e
+l'onore / de la casa da Calboli, ove nullo / fatto s'@e reda poi
+del suo valore~ (88-90): un'espressione gemella si era avuta
+nell'elogio dei Malaspina: ^La fama che la vostra casa onora,...
+/ vostra gente onrata non si sfregia / del pregio de la borsa e
+de la spada~ (^Pg~ VIII 124, 128-129).  A mostrare incisivamente
+la decadenza della casata da Calboli, Guido accompagna a questa
+lode la condanna inorridita per il comportamento del nipote di
+Rinieri.
+
+	|88-90.  Questi... Calboli~: il vagheggiamento delle
+virt@u cavalleresche e il rimpianto di un mondo, che il poeta
+sente ormai tramontato per sempre, @e introdotto da questi versi,
+in cui <la lode dell'uomo che appartiene al passato, sottolinea
+la decadenza del presente> (Accardo).  Si noti infatti la
+presenza del linguaggio `cortese' come |pregio~, |onore~,
+|valore~, e la retorica ripetizione |Questi @e... questi @e~ che d@a
+al discorso di Guido un tono alto e solenne.  |Rinier~: Rinieri,
+della nobile famiglia guelfa dei Paolucci, signori di Calboli, fu
+nativo di Forl@i e coinvolto nelle lotte che lacerarono la Romagna
+nella seconda met@a del sec. XIII.  Fu podest@a di Faenza nel 1247,
+di Parma nel 1252 e di Ravenna nel 1265.  Nella guerra di Romagna
+del 1276 si ribell@o, aiutato da Fiorentini e Bolognesi, al comune
+di Forl@i, ma fu sconfitto da Guido da Montefeltro (cfr. ^If~
+XXVII).  Dopo l'integrazione della Romagna nello Stato della
+Chiesa, cerc@o di riguadagnare il prestigio presso i Guelfi e di
+fronte all'autorit@a pontificia, con la quale si rappacific@o,
+tanto che nel 1291 fu con Malatesta da Verrucchio tra i
+fideiussori dell'accordo con il rettore pontificio della Romagna. 
+Ma l'anno successivo riusc@i ad impadronirsi di sorpresa di Forl@i,
+scacciandone il rettore.  Ricacciato nuovamente dalla sua citt@a
+nel 1294, non riusc@i a rientrarvi che due anni dopo, ma senza
+riuscire a insediarsi stabilmente.  Il castello di Calboli venne
+assediato dai Forlivesi ghibellini, guidati da Scarpetta
+Ordelaffi, ed egli mor@i in quello stesso anno (1296) nel
+tentativo di riconquistare la citt@a.  |Ove nullo... valore~: dove
+nessuno (|nullo~) si @e poi fatto erede (|reda~) delle sue virt@u. 
+|Reda~, forma aferetica di ^erede~ gi@a vista in ^If~ XXXI 116 e
+^Pg~ VII 118.
+
+	|91-93.  non pur~: non soltanto.  |Brullo~: spoglio,
+privo.  |Tra... Reno~: la Romagna, definita nei suoi precisi
+confini geografici con la solita esatta rispondenza alla realt@a
+topografica: il Po a nord, gli Appennini (|'l monte~) a sud,
+l'Adriatico (|la marina~) a est e il Reno a ovest.  |Del ben...
+trastullo~: dipende da |brullo~ del v. 91: spoglio di quelle
+virt@u (|ben~), intellettuali e morali, richieste per la
+conoscenza del |vero~ e quelle civili e cavalleresche richieste
+per il |trastullo~, cio@e per ci@o che <abbellisce la vita e la
+rallegra, ossia i bei costumi, le arti gentili e la cortesia>
+(Del Lungo).  Questa sembra la migliore interpretazione.
+
+	|94-96.  dentro a questi termini~: quelli che delimitano
+la Romagna, indicati nel v. 92.  |Venenosi sterpi~: velenosi
+sterpi, metafora per indicare i pessimi costumi delle famiglie
+romagnole.  |S@i che... meno~: tanto che, per quanto si coltivasse
+(|per coltivar~), occorrerebbe troppo tempo per estirparli.  Per
+la forma |per~ pi@u infinito col senso di <per quanto>, vedi ^If~
+IV 11.
+
+	|97-108 {Nota Bosco}.~  Diverso tono, tutti lo hanno
+osservato, ha la rievocazione dell'antica Romagna (88-126): due
+volte (103, 124-126) @e detto che Guido del Duca piange nel
+rievocarla; l'altra anima, Rinieri, rafforza il dire di lui con
+la sua presenza silenziosa e consenziente, col suo turbamento e
+dolore (|vid'io l'altr'anima... / ... turbarsi e farsi trista~,
+70-71): allo stesso modo il dire di Francesca @e rafforzato dal
+pianto silenzioso di Paolo (^If~ V 139-140).  Noi sappiamo che
+uno dei motivi pi@u costanti e importanti della ^Commedia~ @e il
+rimpianto del buon tempo antico, a specchio del degenerato
+presente; in termini politico-sociali esso si traduce nel
+rimpianto della societ@a feudale-cavalleresca a specchio della
+societ@a comunale-mercantile, e dei signori nuovi, indegni dei
+loro predecessori.  Di tale motivo abbiamo parlato pi@u volte, e
+particolarmente nell'^Intr.~ al canto VII e in ^109-139 {Nota
+Bosco}~ al c. VIII del ^Purgatorio~; n$e occorre ripeterci.  La
+lamentela, che Dante estende a tutta Europa, si particolareggia
+qui, prima nella Toscana, poi nella Romagna; si estender@a nel
+canto XVI 115-141 alla Lombardia, nel canto XX 61-96 ai
+Capetingi; con speciale intensit@a si concentra in Firenze (^Pd~
+XV 97-129, XVI 88-154).  Il poeta si conforta solo al pensiero
+che la ragione del disordine dei suoi tempi non risiede
+nell'intrinseca natura umana, e neppure negli influssi degli
+astri, ma ha cause politico-religiose che sta agli uomini
+eliminare (vedi ^64-84~ e ^85-105 {Nota Bosco}~ a ^Pg~ XVI).  A
+esprimere in questo canto la sua nostalgia del buon tempo antico,
+il poeta ricorre, come frequenti volte in analoghe o diverse
+occasioni, alla elencazione di lunga serie di nomi, nudi o quasi,
+di persone e di famiglie (indifferentemente guelfi o ghibellini),
+cio@e alla tecnica dell'^enumeratio~, tanto usata dai poeti
+classici e dalla ^Bibbia~, ripresa dai sirventesi medievali
+(Fubini); ritorner@a nei poemi cavallereschi italiani del
+Rinascimento.  Impropria, anche se diffusa, appare la lamentela
+dei critici circa la mancata figurativit@a o drammaticit@a di
+questa rassegna.  A giustificare il poeta, che in verit@a non ne
+ha bisogno, si dice che questi nomi, muti per noi moderni,
+richiamavano invece negli immediati lettori di Dante folla
+d'immagini e di ricordi: il che @e vero solo sino a un certo punto
+perch$e molti di quei personaggi non erano neppure ai loro tempi
+di primo piano, e non @e probabile che fossero familiari a lettori
+di circa un secolo posteriori a essi.  Il fatto @e, invece, che il
+poeta non ha concentrato la sua nostalgia su uno o pi@u
+personaggi, su uno o pi@u fatti memorabili, aventi quelli e questi
+un loro spessore psicologico o narrativo; i nomi gli si affollano
+sotto la penna, e ciascuno di essi non vale per s$e, ma proprio in
+quanto elemento d'una folla.  Il tema di Dante non @e qui il
+singolo, ma una civilt@a il cui pregio consiste nella sua
+diffusione (identico @e il movente della pi@u lunga rassegna di
+^Pd~ XVI 88-154).  Si tratta d'una fase di civilt@a anche
+cronologicamente ben delineata: dei personaggi nominati, i pi@u
+(Guido del Duca, Arrigo Mainardi, Pier Traversaro, Fabbro
+Lambertazzi, Bernardino di Fosco, Guido da Prata, forse Federigo
+Tignoso) fiorirono alla fine del sec. XII e nella prima met@a del
+XIII; l'attivit@a degli altri (Rinieri da Calboli, Lizio di
+Valbona, Guido di Carpigna, forse Ugolino d'Azzo, se questi @e
+l'Ubaldini, ma potrebbe anche essere un altro, vissuto nella
+seconda met@a del sec. XII, Ugolino dei Fantolini) si accentra
+intorno alla met@a del Duecento, anche se la loro azione si
+protrasse negli ultimi decenni del secolo.  Insomma, il centro di
+quella civilt@a @e per Dante Federigo II: in ^Pg~ XVI 115-117 dir@a
+che ^valore e cortesia~ (cfr. per il binomio, riferito all'antica
+Firenze, ^If~ XVI 67-69), si trovavano in Lombardia ^prima che
+Federigo avesse briga~; e in ^VE~ I xii 4-5 aveva espresso
+giudizi assai severi contro i principi venuti dopo Federico e suo
+figlio Manfredi.  @E necessario tuttavia sottolineare il fatto che
+neppure qui, nell'empito della sua ammirazione per gli antichi
+tempi feudali, Dante dimentica la sua idea basilare, che a
+costituire la nobilt@a occorrano opere personali e non splendore
+di prosapie: Bernardino, Guido da Prata, Ugolino d'Azzo (se @e
+l'antico) furono uomini di umili natali: del primo di essi si
+dice esplicitamente che fu |verga gentil di picciola gramigna~
+(102).  Erano gi@a ai tempi di Dante entrati nella novellistica,
+con Bertinoro, alcuni dei personaggi da lui qui ricordati. 
+L'aneddoto, che la tradizione attribuiva a Democrito, il quale
+non si sarebbe turbato per la morte del figlio, perch$e sapeva che
+questi era mortale, @e attribuito da Pietro di Dante a Lizio di
+Valbona (con una variante secondo il consueto modo novellistico). 
+Lo stesso Lizio, insieme con Rinieri da Calboli, @e protagonista
+d'un racconto del ^Novellino~ (XLVII ed. Segre), in cui egli, di
+fronte a una situazione improvvisa e dolorosa e tale, questa
+volta, da colpirlo nel suo onore, d@a prova di padronanza di s$e: @e
+la stessa dote che lo contrassegna anche in un'altra consimile
+occasione, secondo il Boccaccio; e l'amante che egli sorprende
+con la figlia @e identificato non certo a caso con un Ricciardo
+<de' Mainardi di Brettinoro> (^Dec.~ V 4).  Significativo @e poi
+che lo stesso Boccaccio ubichi a Ravenna e nella sua pineta la
+famosa novella (V 8) di cavalleria e di splendidezza, nella quale
+la presenza di Dante @e cos@i sensibile, sia per le cagne
+dilanianti gli scialacquatori nella selva dei suicidi (^If~ XIII
+109-129), sia forse, in questo stesso canto, per Fulcieri che
+caccia i Bianchi nella ^trista selva~ di Firenze.  @E la novella
+di Nastagio degli Onesti (si ricordi che Guido del Duca era
+figlio, pare, di un Giovanni degli Onesti passato da Ravenna a
+Bertinoro), innamorato d'una fanciulla che non vuole saperne di
+lui, e assiste alla caccia che un altro cavaliere, innamorato
+respinto come lui e perci@o suicida e dannato, d@a alla sua donna
+crudele e perci@o anch'essa dannata.  Orbene: la fanciulla di
+Nastagio @e figlia per il Boccaccio di Paolo Traversari, <lo pi@u
+nobile uomo di tutta Romagna> secondo il ^Novellino~ XLI, figlio
+a sua volta di Pier Traversari ricordato in questa rassegna (98),
+e il cavaliere dannato @e un Guido degli Anastagi: le due antiche
+case ravennati erano gi@a unite nel rimpianto di Dante per la
+comune estinzione (107-108).  E si ricordi che Nastagio spendeva
+<smisuratamente> e che nella pineta menava <la pi@u bella vita e
+la pi@u magnifica che mai si facesse, or questi e or quegli altri
+invitando a cena e a desinare, come usato s'era>; e che Pietro e
+Paolo Traversari erano protettori di poeti provenzali, i quali
+cantarono le loro donne.
+
+	|97.  Ov'@e~: si inizia la rassegna dei grandi romagnoli
+del passato con una formula (^ubi sunt?~) che risale, come nota
+il Sapegno, ai testi patristici, ma divenuta comune attraverso
+gli inni latini medievali.  Sennonch$e lo schema retorico della
+ripetizione @e variato con moduli nuovi (^quando... quando... ben
+fa... mal fa... ben faranno~) cos@i che <imprime in genere a tutto
+il brano oratorio il segno di un'arte pi@u varia e sapiente>. 
+L'Accardo osserva che la sfilata dei personaggi richiama i
+cataloghi degli eroi della poesia classica, filtrata attraverso
+la poesia latina medievale e il serventese.  Noi, lontani sette
+secoli da quei tempi, possiamo conoscere questi nomi soltanto
+attraverso gli scarsi e freddi dati di archivio, o attraverso le
+pagine di qualche cronaca locale; tuttavia tutto il concitato
+discorso ci commuove, perch$e sentiamo in questa rassegna l'animo
+del poeta, che vagheggia un'et@a ormai antica, ricca di virt@u
+cavalleresche e cortesi, quasi divenuta un mito, costretto a
+vivere in un'epoca ormai deserta d'ogni ^pregio~ e ^valore~, in
+un presente corrotto e decaduto.  |Lizio~: Lizio di Valbona, nel
+1260 al servizio di Guido Novello, podest@a di Firenze, segu@i
+parte guelfa e aiut@o Rinieri da Calboli contro i Ghibellini di
+Forl@i.  I commentatori e i cronisti del tempo lo dicono uomo di
+grande liberalit@a e di alto ingegno.  |Arrigo Mainardi~: o
+Manardi, di Bertinoro, prigioniero dei Faentini nel 1170 e
+vissuto almeno fino al 1228, fu grande amico di Guido del Duca. 
+Anche di costui gli antichi commentatori fanno grandi lodi per la
+saggezza e per la liberalit@a.
+
+	|98.  Pier Traversaro~: dell'illustre famiglia ravennate
+dei Traversari di origine bizantina, che ebbe titolo ducale, fu
+ghibellino e signore di Ravenna nella prima met@a del sec. XIII. 
+Mor@i nel 1225.  Anch'egli @e lodato dagli antichi commentatori per
+liberalit@a e magnanimit@a.  |Guido di Carpigna~: dei conti del
+Miratoio di Carpegna, nel Montefeltro, fu guelfo e osteggi@o
+Federico II.  Podest@a di Ravenna nel 1251, mor@i intorno al 1283.
+
+	|99.  tornati in bastardi~: tramutati in bastardi,
+imbastarditi; cio@e degeneri rispetto alla virt@u dei padri.
+
+	|100-102.  Fabbro~: Fabbro dei Lambertazzi, capo dei
+Ghibellini di Bologna e di Romagna, fu pi@u volte podest@a a
+Viterbo, a Pistoia, a Faenza, a Pisa.  Combatt$e valorosamente
+contro Modena e Ravenna, ma la sua morte nel 1259 segn@o la
+decadenza della parte ghibellina.  ^Rallignare~ (antiquato per
+^allignare di nuovo~) @e detto della pianta che attecchisce e
+cresce.  |Bernardin di Fosco~: di umile origine, divenne, per le
+sue virt@u, uno dei principali cittadini di Faenza, che difese nel
+1240 contro Federico II.  Fu podest@a, nel 1248, di Pisa e nel
+1249 di Siena.  |Verga... gramigna~: ramo (|verga~) nobile
+(|gentil~) sorto da una famiglia di umile origine (|picciola
+gramigna~).  Continua, dopo il verbo ^rallignare~, la metafora
+vegetale.
+
+	|104-105.  Guido da Prata~: gentiluomo di Prata, presso
+Faenza, @e ricordato in un documento del 1184 e in uno del 1228
+come presente a Ravenna.  |Ugolin... nosco~: spiega il Petrocchi
+nel sostenere la lezione a testo: <Nella '21 ecc. ^che vivetter
+nosco~; ma la scelta non convince, nonostante che ^vivetter~ goda
+di eccellente attestazione.  La serie degli uomini dell'antica
+Romagna ricchi di belle virt@u civiche, @e composta da tutti nativi
+di quella terra, tranne proprio Ugolino d'Azzo, che era della
+nobile famiglia toscana degli Ubaldini, ma che si distinse in
+Romagna (quindi |vivette nosco~).  Vero @e che il Vandelli nel
+commento scartazziniano interpreta la lezione come "che vissero
+con noi, a' nostri tempi", cio@e `al tempo della nostra
+giovinezza', ma la stessa cosa si sarebbe dovuta dire anche dei
+Traversari e degli Anastagi; e poi Ugolino d'Azzo, appunto perch$e
+^vivetter~, deve essere considerato coetaneo di Guido, e allora
+si dovrebbe pensare ad altro Ugolino, il console di Faenza,
+vissuto tra il sec. XII e il XIII, firmatario della pace di
+Costanza del 1183, ma che non risulta dai documenti esser
+|d'Azzo.~  D'altronde @e certo che Dante era ben informato
+dell'indole dell'Ubaldini, perch$e in altri luoghi del poema
+troviamo ricordati i peccati d'eresia dello zio cardinale
+Ottaviano e di gola del fratello Ubaldino dalla Pila (padre del
+traditore arcivescovo Ruggieri), s@i che si potr@a utilmente
+constatare che Dante ha dipinto il quadro di tutta la famiglia,
+di cui due rappresentanti sono all'Inferno e altri due tra gli
+spiriti purganti.  Concludo col Porena: "e si spiega l'apostrofe
+a Dante, toscano, di non meravigliarsi a sentir ricordare un
+toscano fra i romagnoli".  La var. ^vosco~, che sposterebbe in
+Toscana le vivende di Ugolino (e, se si vuole, anche quelle di
+Guido da Prata), @e inammissibile, stante quel che si sa dei
+personaggi (PETROCCHI, III 239).
+
+	|106-108.  Federigo Tignoso~: forse di Rimini, detto
+|Tignoso~ per antifrasi, perch$e aveva una bellissima testa di
+capelli biondi, come riferisce Benvenuto da Imola, che narra la
+grande liberalit@a di costui; si spiega cos@i la |sua brigata~,
+cio@e gli amici che si riunivano nella casa di Federigo.  |La casa
+Traversara~: la nobile famiglia dei Traversari, di cui famoso per
+liberalit@a quel Piero ricordato al v. 98.  |Li Anastagi~: altra
+nobile famiglia ravennate che raggiunse, come quella dei
+Traversari, il massimo splendore nel sec. XIII.  Ai tempi di
+Dante erano entrambe spente: perci@o son dette ^diretate~, cio@e
+senza eredi.
+
+	|109-126 {Nota Bosco}.~  Il tempo antico s'identifica,
+abbiam detto, con la cavalleria: non per nulla questa ha proprio
+in questo canto la sua celebre felice definizione (|le donne e'
+cavalier, li affanni e li agi / che ne 'nvogliava amore e
+cortesia~, 109-110), dalla quale partir@a l'Ariosto per il suo
+poema.  Occorre un'ulteriore precisazione.  La cavalleria qui @e
+sentita soprattutto come `cortesia': dote comune di tutti i
+personaggi della rassegna, a stare agli antichi commentatori, sia
+che essi avessero di ci@o certa scienza, sia che cos@i
+interpretassero, giustamente, lo spirito del canto; @e liberalit@a
+e magnificenza, generosit@a (questa <speciale, e non generale,
+cortesia>, ^Cv~ II x 7): in particolare quella che, per esser
+veramente tale, non aspetta la richiesta, ma viene incontro ai
+bisogni degli altri evitandone l'umiliazione; una generosit@a
+dunque fatta d'intelligenza e di raffinato costume: il ^pregio de
+la borsa.~  La liberalit@a @e l'aspetto del vivere d'una volta che
+l'esule bisognoso pi@u rimpiange.  @E un motivo ricorrente, come
+sappiamo, in tutta l'opera sua: si ricordino almeno l'episodio di
+Provenzano Salvani mendicante, e, sullo sfondo, Dante costretto
+dal bisogno a umiliarsi (^Pg~ XI 133-141); e i versi della
+canzone ^Doglia mi reca~ (^Rime~ CVI 119-122): <chi con tardare,
+e chi con vana vista, / chi con sembianza trista / volge il
+donare in vender tanto caro / quanto sa sol chi tal compera
+paga>.  Son poche le famiglie non degeneri, che serbano l'antico
+costume, come i Malaspina e i Della Scala, che meritano perci@o
+particolari espressioni di riconoscenza (^Pg~ VIII 112-139; ^Pd~
+XVII 70-92).  C'@e da considerare un fatto.  La decadenza investe,
+per Dante, la Toscana, la Romagna e, come vedremo nel canto XVI,
+la Lombardia in senso assai estensivo, cio@e tutta la parte
+centrale e orientale dell'Italia del Nord, sino alle soglie di
+Venezia (vedi ^115-129 {Nota Bosco}~ a ^Pg~ XVI): insomma, tutte
+le <parti> d'Italia nelle quali egli quando scriveva la
+^Commedia~ and@o <peregrino, quasi mendicando> (^Cv~ I iii 4); si
+notino, a rafforzare tale osservazione, le ora ricordate
+eccezioni, per la Lunigiana e per i domini scaligeri, ambedue
+esplicitamente connesse con le vicende dell'esilio.  Ma questa
+osservazione non deve indurre a ritenere lo sdegno di Dante per
+la corruttela dell'Italia a lui contemporanea come nato da
+privato risentimento per privati maltrattamenti: esso nasce, come
+sappiamo, da meditati convincimenti politici cui abbiamo
+accennato anche poco fa, da profonde convinzioni morali-religiose
+che avranno particolare risalto, tra le tante volte che affiorano
+nel poema, proprio nel canto sulla decadenza lombarda.  Tuttavia,
+l'osservazione va tenuta presente, perch$e ci dice che accanto al
+pensiero politico e al sentimento religioso, in Dante come in
+ogni uomo ha il suo peso l'esperienza del vivere quotidiano.
+
+	|109-111.  le donne... malvagi~: intendi: (quando
+ricordo) le nobildonne e i cavalieri (del mio tempo), le fatiche
+e i rischi delle guerre (|li affanni~), i signorili riposi
+(|agi~) nelle corti, dei quali affanni e agi, amore e cortesia ci
+mettevano in animo la voglia (|'nvogliava~ al singolare, perch$e
+concordato con uno solo dei soggetti) in Romagna, dove gli animi
+son diventati cos@i malvagi.  Cfr. ^Pd~ XVII 84, in cui |affanni~
+vale sicuramente <disagi e pericoli bellici>.  I primi due versi
+della terzina sono divenuti simbolo dell'ideale cavalleresco e
+cortese durato fino all'Ariosto, che apr@i il suo poema
+riecheggiandoli.
+
+	|112-114.  Bretinoro~: Bertinoro, cittadina tra Forl@i e
+Cesena, famosa per la cortesia e la liberalit@a dei suoi abitanti. 
+Vedi ^97-108 {Nota Bosco}~ e 109-126 {Nota Bosco}.~  |Non fuggi
+via~: non scompari dalla faccia della terra.  Ricorda alcune di
+quelle tremende imprecazioni infernali (ad es. contro Pistoia,
+^If~ XXV 10-12, o contro i genovesi, ^If~ XXXIII 151-153), ma
+meno violenta, in tono pi@u malinconico.  |Gita... famiglia~: se
+ne @e andata, @e scomparsa (|gita~, da ^gire~ = andare) la tua
+famiglia.  Di quale famiglia si tratti non @e sicuro: forse i
+conti di Bertinoro, i Cavalcanti, estinti nel 1177, o i Mainardi
+(di cui @e ricordato Arrigo al v. 97), che vennero cacciati nel
+1200.  Ma forse @e meglio intendere che Bertinoro @e deserta perch$e
+in genere @e scomparsa la generazione di cavalieri, per la quale
+essa era nido di cavalleria.  In questo caso, che sembra il pi@u
+probabile, il termine |famiglia~ andr@a inteso in senso lato. 
+|Molta... ria~: molti nobili (|gente~) per non diventare malvagi
+(|ria~).  Per@o la frase potrebbe anche significare: perch$e non
+erano cos@i malvagi da adattarsi ai costumi corrotti del presente. 
+Forse @e meglio la prima interpretazione.
+
+	|115-117.  Ben fa... mal fa~: fanno bene le famiglie
+nobili a non perpetuare la loro stirpe e fanno male quelle che si
+ostinano a generare eredi cos@i degeneri.  |Bagnacaval~:
+Bagnacavallo, cittadina tra Lugo e Ravenna, di cui erano signori
+i conti Malvicini, estinti ormai nel 1300, almeno in linea
+maschile.  |Castrocaro... Conio~: castelli, il primo nella valle
+del Montone, il secondo, oggi distrutto, presso Imola.  Nel sec.
+XIII ebbero propri signori con titolo comitale, cresciuti di
+numero al tempo di Dante, ma ben lontani dalle virt@u degli avi. 
+|Che... s'impiglia~: che si ostina (|s'impiglia~) a generare
+(|figliar~) conti cos@i degeneri.  |Figliar~ come ^rifiglia~ non
+ha senso spregiativo, come crede il Torraca (<pare ironico
+figliar detto di essi come di bestie>): nella lingua del
+Due-Trecento significava semplicemente: produrre, generare (cfr.
+^Pg~ XXVIII 113 e ^Pd~ X 51, ove @e detto addirittura di Dio).
+
+	|118-120.  ben faranno~: secondo il Torraca, il Chimenz e
+altri va sottinteso: <a non rifigliare>.  Ma il senso generale
+della terzina sembra dar ragione al Porena che intende: <i
+Pagani... opereranno rettamente [|ben faranno~] quando il demonio
+della loro famiglia, Maghinardo..., sar@a morto; ma non perci@o
+riusciranno a far s@i che della loro famiglia si parli bene, tanto
+quello l'ha insozzata>.  |Pagan~: signori di Faenza.  |'l
+demonio~: Maghinardo da Susinana, detto il |demonio~, con cui si
+estinse la stirpe dei Pagani.  |Sen gir@a~: sar@a morto.  |Ma non
+per@o... testimonio~: ma non per questo (cio@e per la morte di
+Maghinardo) avverr@a che rimanga di essi un ricordo (|testimonio~)
+puro, senza biasimo.
+
+	|121.  Ugolin de' Fantolin~: nobiluomo di Cerfugnano,
+signore di parecchi castelli in territorio faentino, morto
+intorno al 1278, i cui due figli morirono prima del 1300 senza
+prole.  <Unico mezzo perch$e le stirpi non tralignino @e dunque il
+non nascere o il morire> (Grabher).
+
+	|126.  nostra ragion~: il nostro ragionare, il nostro
+discorso.  |Stretta~: angustiata, oppressa di dolore.  La terzina
+di congedo riporta su di un piano umano l'amara ironia del
+discorso di Guido.  Le lacrime sono il conclusivo commento alla
+triste visione dei corrotti costumi di Romagna e il rimpianto di
+un'et@a signorile e cortese.
+
+	|127-129.  sapavam~: sapevamo; con desinenza frequente
+nell'it. ant., gi@a vista pi@u volte (cfr. ^If~ V 127).  |Care~:
+<probabilmente l'attributo rispecchia anzitutto il moto d'affetto
+da cui Dante @e preso per quelle anime dopo le magnanime e
+accorate parole di Guido del Duca, cos@i rispondenti al suo
+personale sentimento; ma non sar@a da escludere in esso il
+significato di `piene di carit@a verso di noi'> (Chimenz). Sembra
+la migliore e la pi@u completa interpretazione.  |Fac,ean...
+confidare~: ci davano affidamento che eravamo sulla strada giusta
+per salire alla cornice successiva; Dante e Virgilio son sicuri
+della cortesia dei due ex-invidiosi.  Ma il poeta inventa forse
+questo particolare, non strettamente necessario, per creare un
+primo silenzio, nel quale scoppiano i tuoni.
+
+	|130-132.  Poi~: poich$e, dopo che.  |Fatti soli~:
+essendosi allontanati dalle anime degli invidiosi.  |Dicendo~:
+gerundio con valore di participio presente: <che diceva>.  Va
+unito con |voce.~
+
+	|133-135.  `Anciderammi... m'apprende'~: mi uccider@a
+chiunque mi trover@a.  Sono le parole dette a Dio da Caino dopo
+esser stato maledetto per l'uccisione di Abele: <ognuno che
+m'incontrer@a mi uccider@a> (^Gen.~ IV 14).  @E il primo esempio di
+invidia punita, gridato a piena voce per l'aria come gli esempi
+di carit@a.  |Apprende~: @e un presente con valore di futuro. 
+|S@ubito~: improvvisamente.  |Scoscende~: squarcia.  Secondo la
+scienza del tempo, il tuono era il rumore prodotto dalla nuvola
+squarciata dal vapore igneo (il fulmine) quando questo,
+dilatandosi, vi si sprigionava.
+
+	|136-138.  Come... triegua~: quando il nostro udito fu
+lasciato tranquillo (|ebbe triegua~) da lui, cio@e dalla voce. 
+Vuol dire: <quando non l'udimmo pi@u>.  |Ed ecco~: solito stilema
+per indicare l'improvviso apparire di qualche cosa.  |L'altra~:
+un'altra voce, che dice il secondo esempio di invidia punita. 
+|Che tosto segua~: che tenga dietro immediatamente.
+
+	|139.  Aglauro~: secondo la mitologia, fu figlia di
+Cecrope, re di Atene, e mutata in sasso da Mercurio, perch$e,
+invidiosa della sorella Erse, cercava di impedirne l'amore con il
+dio.  Dante leggeva il racconto di questa metamorfosi in Ovidio
+(^Met.~ II 708-832).  @E il secondo esempio di invidia punita,
+gridato dalla voce aerea.
+
+	|141.  in destro~: verso destra, cio@e verso Virgilio, che
+si trova dalla parte esterna della cornice (^Pg~ XIII 79-81):
+poich$e nel Purgatorio i due poeti si volgono sempre a destra,
+Virgilio @e a destra di Dante.
+
+	|143-144.  Quel~: ci@o che hai udito.  |'l duro camo~: il
+freno, il morso rigido (lat. ^camus~ = museruola).  @E termine
+biblico (^Ps.~ XXI 9).  |Dentro a sua meta~: dentro i suoi limiti
+(|meta~), dentro i termini assegnatigli da Dio, senza invidiare
+gli altri.
+
+	|145-147.  prendete l'esca~: mordete l'esca, vi lasciate
+attrarre cio@e dall'insidia del demonio.  @E immagine biblica
+(^Eccl.~ IX 12) e si riferisce naturalmente, come nella ^Bibbia~,
+ai beni terreni.  |L'antico avversaro~: il demonio, come in ^Pg~
+XI 20.  |Freno o richiamo~: gli esempi di invidia punita, che
+servono di freno ('^l duro camo~ del v. 143) e quelli di carit@a
+che sono invece un invito, uno sprone (^Pg~ XIII 38-39).
+
+	|148-151 {Nota Bosco}.~  Il canto si chiude, dopo i due
+esempi d'invidia punita, con altra solenne esortazione di
+Virgilio, di provenienza biblica (|Chi@amavi 'l cielo e 'ntorno vi
+si gira, / mostrandovi le sue bellezze etterne, / e l'occhio
+vostro pur a terra mira~), che s'incontra in altri luoghi
+danteschi (^Cv~ III v 22; ^Pg~ XIX 118-120).  Non @e forse caso
+che a questo canto cavalleresco attinga, oltre all'Ariosto, anche
+il Tasso: <Mira 'l ciel com'@e bello, e mira il sole / ch'a s$e par
+che n'inviti e ne console> (^Ger. lib.~ II 367-8); o anche:
+Rinaldo ormai pentito dei suoi <folli amori> sale nella purit@a
+dell'alba sul Monte Oliveto <con gli occhi alzati contemplando
+intorno / quinci notturne e quinci matutine / bellezze
+incorruttibili e divine, /... ma non @e chi vagheggi o questa o
+quelle...> (^Ger. lib.~ XVIII 12-13).
+
+	|150-151.  e l'occhio... discerne~: il vostro sguardo si
+rivolge soltanto (|pur~) a terra e perci@o Dio, che vede tutto
+(|chi tutto discerne~), vi castiga (|vi batte~).  Si noti la
+religiosa solennit@a di tutto il discorso di Virgilio, intessuto
+di reminiscenze bibliche, con il richiamo al Cielo e al possibile
+castigo di Dio.  Cos@i il canto si chiude riportandosi ad un
+profondo significato morale, che pure gi@a scaturiva dalla
+condanna della corruzione umana.

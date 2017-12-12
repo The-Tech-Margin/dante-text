@@ -1,0 +1,909 @@
+	|1-6~. L'esordio del canto, dal tono solenne ed imperioso, attesta 
+l'importanza dell'argomento: i peccatori qui puniti, i simoniaci (i 
+|seguaci~ di Simone), sono infatti per Dante, che si presenta come 
+chiamato da Dio a dire il vero per la salvezza dell'umanit@a, 
+responsabili dello sfacelo morale della Chiesa e quindi, dato 
+l'arbitrario potere politico che il papato detiene, del mondo. Il Dante 
+poeta-profeta si manifesta in pieno: non a caso il canto abbonda di 
+riferimenti alle sacre scritture. A cominciare dal primo verso: narrano 
+infatti gli ^Atti degli Apostoli~ (8.9-20) che il mago Simone chiese a 
+Pietro e Giovanni di poter comprare la facolt@a di infondere lo Spirito 
+Santo per imposizione delle mani; richiesta respinta da Pietro. Il 
+termine ^simonia~ pass@o perci@o ad indicare il commercio di cose sacre 
+(|le cose di Dio~); S. Tommaso connette la simonia al sacrilegio e nega 
+la liceit@a di far commercio di ci@o di cui il papa non @e 
+proprietario, ma solo "dispensatore" (^ST~ II-II, q. 100, a. 1). 
+Berthier: "Quando una cosa @e consacrata a Dio, non solo non @e lecito 
+farne un uso ^in se~ cattivo, non @e nemmeno lecito farne un uso ^in 
+se~ buono, ma profano, il quale sarebbe permesso in altre circostanze". 
+La questione della simonia @e centrale nel Medioevo, proprio perch$e si 
+collega al potere temporale della Chiesa, a ci@o che Dante, che in 
+questo senso si pone dalla parte delle correnti ereticali, aborre e 
+contro cui si scaglia in pi@u di un'occasione. E la causa del fenomeno, 
+per lui, @e la cupidigia, la fame di |oro~ ^~e ^~|argento~ (v. 95): 
+cos@i la Chiesa, ^~che dovrebbe essere sposa di Cristo (della 
+povert@a), lo tradisce per colpa dei suoi esponenti |rapaci~ (cfr. 
+^Par~. XXVII.55; ^Mt~. 7.15) e si prostituisce (|avolterate~ @e forma 
+arcaica per "adulterate"). Circa quest'ultima espressione, cfr. ^Jer~. 
+23.15 e soprattutto ^Ez~. 22.26: "I suoi sacerdoti hanno disprezzato la 
+mia legge, hanno contaminato...". Per quanto riguarda il termine 
+^simoniaco~, esso @e usato per la prima volta, secondo P. Brezzi (^Il 
+canto XIX dell' 'Inferno'~, in ^Nuove letture dantesche~, Firenze, Le 
+Monnier, II, 1968, p. 162), da Gregorio Magno (^Homil. in Evang~. 
+XVII.13 e ^Epist~. VIII.4; IX.177), che distinse tre tipi di simonia: 
+prestazioni in denaro, in servizi, raccomandazioni. Ma si legga la 
+rassegna dell'Ottimo: "Simonia si parte in diverse spezie, siccom' @e 
+della cosa che manualmente si riceve, quando si d@a alcuna cosa ad 
+alcuno per lo spirituale guiderdone: da servigio, quando alcuno le cose 
+spirituali, o legate alle spirituali per alcuno servigio, non per 
+rispetto di pietade, d@a o riceve; da lusinga, quando per lusinga sola 
+alcuno dispensa cose spirituali, a spirituali congiunte; da odio, 
+quando alcuno per odio sottomette quello spirituale, o congiunto a 
+spirituale, che li era dato; da amore, quando alcuno per solo amore 
+carnale [traffica] di cose spirituali; da paura, quando alcuno dispensa 
+per paura d'alcuno prencipe ad alcuno le cose spirituali, o aggiunte 
+alle spirituali; da preghiere, quando alcuno per sole preghiere 
+indutto, o pregato, dispensa cose spirituali a chi non @e degno". Guido 
+da Pisa specifica che la simonia proviene dal peccato capitale 
+dell'avarizia. Come Pietro di Dante, anche Guido opera una distinzione: 
+infatti simoniaci in senso stretto sono coloro che comperano cose 
+sacre, mentre coloro che le vendono sono "gieziaci", da Giezi, allievo 
+del profeta Eliseo. Quando quest'ultimo – come si narra nel IV ^Libro 
+dei Re~ (cap. 5) – guar@i dalla lebbra Naaman, non volle nulla in 
+cambio; ma Giezi chiese, ad insaputa di Eliseo, beni materiali, per cui 
+fu fatto lebbroso. La |tromba~, secondo alcuni studiosi, @e quella del 
+Giudizio universale. Secondo molti dei primi commentatori, si riferisce 
+alla voce stessa del poeta; con le parole di Giovanni da Serravalle: 
+"sonabo tubam, idest emictam vocem meam et dicam vobis, vel scribam de 
+vobis in libro qui, sicut tuba, manifestabit mala opera vestra". A 
+giudizio di Andreoli, si parla "della tromba del banditore, quando ei 
+strombazza i misfatti dei condannati a pubblica punizione". – Nota la 
+|e~ del v. 3 con funzione paraipottatica e valore avversativo.
+
+	|7-9~. I due viandanti arrivano nel punto ^del ponte in roccia~ (|de 
+lo scoglio~) che ^cade a perpendicolo~ (|piomba~) ^esattamente~ (|a 
+punto~) nel mezzo della bolgia^.~ Solitamente il sostantivo |tomba~ @e 
+considerata metafora per "bolgia", ma alcuni, seguendo Buti, gli 
+assegnano il significato di "sommit@a (dello |scoglio~)".
+
+	|10-12~. L'apostrofe, rivolta direttamente a Dio, che @e |somma 
+sapienza~ (cfr. ^Prov~. 3.19-20), conferisce massimo sostegno all'idea 
+di Dante sui simoniaci, mostrando contemporaneamente che il giudizio 
+del poeta @e formulato proprio in nome di quella fede che i |rapaci~ 
+insozzano. Il |mal mondo~ @e l'Inferno, che @e moralmente abietto nei 
+confronti del |cielo~, regno dei beati, ma si distingue in tal senso 
+anche dalla |terra~, ove anche chi vive nel peccato pu@o riscattarsi, 
+convertendosi a Dio. Cfr., per la tripartizione, ^Phil~. 2.10. La 
+^potenza~ (|virt@u~) divina ^distribuisce~ (|comparte~: cfr. ^Apoc~. 
+19.2) premi e castighi nella maniera ottimale.
+
+	|13-15~. Sia le ^pareti~ (|coste~) che il fondo della bolgia sono 
+cosparsi di |fori~ circolari, tutti ^della stessa larghezza~ (|d'un 
+largo~): in essi, come si vedr@a, sono confitti a testa in gi@u i 
+peccatori di simonia. |Livida~ indica il colore grigio scuro del ferro 
+(^ferrigno~ a ^Inf~. XVIII.2); l'aggettivo @e riferito alla pietra 
+anche in ^Purg~. XIII.9.
+
+	|16-21~. Le buche della bolgia – dice Dante – sono della stessa 
+misura, alla bocca, dei pozzetti battesimali di San Giovanni in 
+Firenze, dove egli ebbe il battesimo e sper@o fino alla fine di essere 
+incoronato poeta (^Par~. XXV.8-9). Secondo la lettura tradizionale 
+(quella di Benvenuto, che poco si discosta da Pietro Alighieri), un 
+giorno Dante fu costretto a rompere con una scure uno dei pozzetti, 
+posti attorno al fonte battesimale ed occupati solitamente da sacerdoti 
+per battezzare i bambini, perch@e un ragazzo, cadutovi dentro, stava 
+per soffocare (|annegando~); il poeta ricorda ora il fatto, chiarendo 
+le proprie intenzioni, per mettere definitivamente a tacere ogni voce 
+maligna sulla sua mancanza di rispetto nei confronti delle cose sacre: 
+la ^conferma~ (|suggel~) che ^tolga dall'inganno~ (|sganni~) ognuno. A 
+giudizio dell'Imolese, "comparatio est propria ratione loci et locati: 
+ratione loci, quia in ista ecclesia baptismali sunt foramina marmorea 
+similia illis quae erant in petra dura livida perforata: ratione 
+locati, quia sicut in dictis foraminibus stant sacerdotes ministrantes 
+sacra, ita in istis stant sacerdotes, qui ministrantes sacra 
+vendiderunt ea. Comparatio est diversa, quia illi stabant cum pedibus 
+in foraminibus, isti vero cum capitibus". Tuttavia il brano @e 
+controverso perch$e |battezzatori~ pu@o essere plurale non soltanto di 
+"battezzatorio" (cfr. di recente M. Tavoni, "Effrazione battesimale tra 
+i simoniaci": ^Rivista di letteratura ital~., 1992, pp. 457-512), ma 
+anche di "battezzatore", indicando quindi i "preti battezzatori"; 
+inoltre non c'@e traccia, nei documenti dell'epoca, del gesto compiuto 
+da Dante. La retorica medievale non ammetteva le digressioni 
+autobiografiche, salvo che per motivi di autodifesa o di bene 
+collettivo "per via di dottrina" (^Conv~. I.ii.13-14). Si pu@o allora 
+supporre la presenza, nell'occasione, di un 'messaggio' di Dante, 
+ammesso anche che il verbo "sgannare" (che occorre una sola volta nel 
+poema) detenga, come vuole L. Spitzer (in ^Romanic Review~, 1943, p. 
+254), il senso originale del verbo spagnolo ^desenga@nar~, ossia 
+"aprire gli occhi dell'uomo ai valori spirituali": "Proprio come egli 
+era stato costretto a infrangere un arredo ecclesiastico per salvare la 
+vita di qualcuno imprigionato nella pietra di un fonte battesimale, 
+cos@i adesso, per salvare il mondo dall'ultima rovina, il poeta 
+proclama la necessit@a di liberare la Chiesa e i fedeli, rompendo la 
+pietra della cupidigia in cui si trovano sepolti" (J.A. Scott, ^Dante 
+magnanimo~, Firenze, Olschki, 1977, p. 109). Una spiegazione che rinvia 
+all' 'orgoglio d'autore' si legge nel commentario del Lana, poi 
+ripetuta da altri antichi, come Guido da Pisa: "Sed si aliquis querat 
+cur Dantes hanc ystoriam hic inserere voluit, taliter respondetur: quia 
+multi se inaniter iactant de operibus alienis, virtuosorum facta sibi 
+mendaciter ascribendo, ideo autor, ne aliquis se istam induat 
+^Comediam~, more cornicule, que se pennis alienis ornavit, hoc factum 
+hic ponere voluit ut omnes sciant autorem huius ^Comedie~ esse Dantem 
+qui illum puteolum dissipavit sive fregit". A livello letterale, va 
+segnalata la logica esegesi del Castelvetro: "Ma io intendo che al 
+tempo di Dante sopra la fonte o il vaso, dove si conserva l'acqua 
+consacrata per lo battesimo in San Giovanni, fosse un coperchio di 
+tavole sottile, nel qual coperchio fossero questi fori; percioch@e non 
+si battezza in tutta la citt@a e ne' borghi di Firenze se non in questo 
+luogo, e vi concorrono molti fanciulli portati a battezzare, e fa 
+bisogno di pi@u fori, de' quali pi@u preti possano attingere acqua; li 
+quali per aventura dovevano avere ciascuno la sua serratura. Ora ci 
+possiamo imaginare che avvenisse che di mano del compare o della comare 
+un fanciullo cadesse in un di questi fori e che Dante, per aiutarlo, 
+rompesse la tavola e lo traesse fuori dell'acqua prima che annegasse".
+
+	|22-24~. I simoniaci sono sprofondati nelle buche: dall'esterno, si 
+vedono le gambe fino al |grosso~ (propriamente il "polpaccio", per@o in 
+tal caso non si vedrebbero le articolazioni del ginocchio [v. 26], per 
+cui @e meglio intendere "coscia"). Nota |soperchiava~ ("sporgeva 
+fuori"), concordato con soggetto plurale (cfr. ^Inf~. XIII.43). La 
+natura del ^contrapasso~ @e gi@a identificata da Jacopo Alighieri: "... 
+a dimostrare il ritroso loro affetto, sommettendo lo spirituale dovere 
+della misericordia alle terrestri e temporali ricchezze: che, s@i come 
+per loro la parte spirituale superiore nell'animo @e sottomessa e 
+l'inferiore terrestre sopra posta, cos@i la superna umana lor parte, 
+cio@e il capo, qui nella terra piantato di sotto si pone". Benvenuto: 
+"et hoc est justissima poena eorum; quoniam isti, qui deberent 
+contemplari coelestia et meditari divina, servantes legem Christi cuius 
+profitentur se vicarios et imitatores, omnia mundana et vana calcantes 
+contrarium faciunt, solis terrenis miserabiliter immersi. Ideo bene 
+finguntur plantati intra terram, quia habent cor ad sola terrena et 
+pedes contra coelum". La loro posizione rovesciata indica perci@o 
+quello che essi furono in vita: apostoli alla rovescia, sacerdoti alla 
+rovescia, in quanto, invertendo il messaggio cristiano, preferirono la 
+materia allo spirito, i beni terreni a quelli spirituali. Singleton ha 
+posto in corrispondenza la posizione capovolta dei dannati ed il 
+richiamo, ad inizio canto, a |Simon mago~, rinviando alla leggenda 
+secondo la quale S. Pietro avrebbe pregato Dio di far precipitare il 
+mago, che volava su Roma; donde le raffigurazioni medievali di Simon 
+mago che cade a testa in gi@u oppure che si trova capovolto accanto a 
+Pietro, effigiato in piedi. I papi simoniaci sono seguaci non del papa 
+ideale, S. Pietro, ma di Simon Mago, confondendo come quest'ultimo 
+potere spirituale e potere materiale; e cos@i essi, avidi di |oro ed 
+argento~, sono pessimi successori degli Apostoli: ironicamente, come un 
+papa succede ad un altro, cos@i nell'Inferno ogni simoniaco soppianta 
+l'altro spingendolo sempre pi@u nelle fessure della roccia. Del resto, 
+Ges@u disse a Pietro: "Tu sei Pietro, e su questa Pietra edificher@o la 
+mia Chiesa... " (^Mt~. 16.18); ed ora, il pellegrino vede i papi 
+traditori, che hanno distrutto la Chiesa, puniti nella |pietra~ (v. 
+14). Quindi, scrive Scott, "un papa incarcerato nella pietra infernale 
+forma un contrasto assoluto con la vera pietra su cui la Chiesa di 
+Cristo deve posare. Non solo, ma nella figura capovolta dei papi 
+simoniaci non dovremmo ravvisare inoltre un richiamo all'esempio di 
+umilt@a offerto ai suoi successori da S. Pietro, quando chiese ed 
+ottenne di farsi crocifiggere a rovescio, a testa in gi@u?". I 
+|seguaci~ di Simon Mago "formano una caricatura infernale di 
+quell'altro Simone scelto da Dio per guidare la Chiesa. Come dunque 
+Simon Pietro trova la sua antitesi in Simon Mago, cos@i la pietra 
+dell'inferno ci rimanda l'immagine deformata di quell'altra pietra, 
+fondamento della Chiesa di Cristo" (J.A. Scott, ^Dante magnanimo~, 
+Firenze, Olschki, 1977, pp. 80-82).
+
+	|25-30~. Delle fiammelle ardono sui piedi dei simoniaci, cos@i come 
+una fiamma, su un oggetto unto, brucia ^soltanto~ (|pur~) sulla sua 
+^superficie~ (|buccia~) ^esterna~ (|strema~): il dolore fa guizzare le 
+^articolazioni del ginocchio~ (|giunte~) cos@i violentemente che 
+avrebbero spezzato legacci fortissimi quali |ritorte~ (funi di vimini 
+attorcigliati) e |strambe~ (corde di fibre vegetali: lat. med. 
+^strampae~). Alcuni commentatori vedono qui attuato il ^contrapasso~, 
+giacch$e tali dannati respinsero la fiamma dello Spirito Santo scesa 
+sugli apostoli (^Atti~ 2.3-4). Di Siena: "Se Dante non pose senza un 
+fine la fiamma che lambisce le piante de' Simoniaci, esso non pu@o 
+essere altro da questo: che quella fiamma la quale come lingua di 
+fuoco, simbolo di carit@a e di grazia, apparve sul capo degli Apostoli, 
+si @e per questi pseudo seguaci di Cristo mutata in segno di odio e di 
+riprovazione; ardendo buccia buccia su per quelle piante ch'ebbero 
+calpestati i doni dello Spirito Santo, e divenendo tormento in Inferno 
+quello stesso che dovea esser gioia di Paradiso: tremendo modo di 
+consumarsi per dolorose fiammelle il Santo Crisma onde alcuni cherici 
+furono di nome e non di fatto gli unti del Signore". Per Pietro 
+Alighieri, le fiammelle rappresentano l'ardore della cupidigia dei 
+clerici, i quali avrebbero dovuto conculcarlo con i piedi, ma non lo 
+fecero, anzi lo innalzarono all'altare: giustamente nell'aldil@a sono 
+tormentati dal fuoco eterno sui piedi posti in alto. Il figlio di Dante 
+rinvia a ^Levit~. 10, ove si legge che un fuoco inviato dal Signore 
+"divor@o" i figliuoli di Aronne che avevano offerto un fuoco profano: 
+"Ignis de celo missus Dei amorem designat, quem pure deberent offerre 
+sacerdotes; alienus ignis, ignis cupiditatis est". Nel commento di 
+Carroll, si fa esplicito riferimento al sacramento dell'Ordinazione, ma 
+anche a quello dell'Estrema Unzione: "In true ordination the gift of 
+the Holy Ghost is imparted by the laying on of hands upon the head. 
+Now, on the day of Pentecost the Holy Ghost appeared in the form of 
+tongues of fire on the heads of the Apostles; and it is this fire which 
+now burns on the feet of the men who have turned the whole meaning of 
+ordination upside down [...] It is possible, of course, that Dante is 
+thinking of the sacrament of Extreme Unction, in which the feet and 
+other parts of the body are anointed. If so, his meaning is that this 
+last anointing of the dying is powerless to save men whose simony 
+destroyed the very meaning of the Sacraments: their feet still bear the 
+traces of the holy oil, but all the same the fire of perdition plays 
+upon the surface of it". Cfr. R. French, "Simony and Pentecost": 
+^Annual Report of the Dante Society~, 1964, pp. 3-17. A parere di 
+Herzman e Stephany, la parodia della Pentecoste @e ben pi@u estesa, se 
+si pensa che gli ^Atti degli Apostoli~ narrano di altri immediati 
+effetti della discesa dello Spirito: il dono delle lingue (2.4-13), il 
+primo discorso di Pietro (14-36), la formazione della nuova Chiesa 
+basata sulla propriet@a comune dei beni (44-47). Al contrario di ci@o, 
+i papi simoniaci si sono serviti del linguaggio solo per favorire i 
+propri accoliti, quindi evitando di spargere per il mondo la buona 
+novella; sono incapaci (come mostrer@a Niccol@o) di profetizzare, 
+mentre l'inizio del discorso di Pietro inizia col proclamare l'arrivo 
+di quel giorno previsto da Gioele in cui i figli di Dio 
+profetizzeranno; si sono impadroniti dei beni della Chiesa, non solo 
+non distribuendoli a tutti, ma ^togliendoli~ ai Cristiani (cfr. R.B. 
+Herzman – W.A. Stephany, "^O miseri seguaci~: Sacramental Inversion in 
+^Inferno~ XIX": ^Dante Studies~, 1978, pp. 40-41). Nella ^Visione di 
+Alberico~ (cap. XI), i simoniaci sono bruciati in un pozzo; ma cfr. 
+^Num~. 16.31-35.
+
+	|31-33~. Dante nota un dannato che agita le gambe pi@u velocemente dei 
+suoi ^compagni~ (|consorti~: latinismo) e che una fiamma pi@u ^rossa~ 
+(|roggia~) ^succhia~ (|succia~): se il suo dolore @e maggiore, pi@u 
+grave dov@e essere la sua colpa. La posizione del dannato richiama 
+quella di Giuda, che, tra le fauci di Lucifero, ^'l capo ha dentro e 
+fuor le gambe mena~ (^Inf~. XXXIV.63). Trucchi: "La rossa fiamma ai 
+piedi @e forse la parodia della rossa calzatura pontificia; il fuoco 
+infernale si alimenta dell'olio della sacra unzione, non penetrato nei 
+cuori, e |succia~ gli ultimi resti d'una dignit@a immeritatamente 
+raggiunta". Il riferimento alla calzatura, connesso alla rossa fiamma 
+della carit@a, @e gi@a effettuato da Guido da Pisa: "pro pede enim 
+accipimus affectum; nam sicut corpus pede, ita anima movetur affectu. 
+Per flammam vero accipimus caritatem, qua anima inflammatur. Et ideo in 
+figura huius summus Pontifex calciamenta rubea gestat in pedibus, ad 
+ostendendum quod sui affectus debent esse caritate succensi. Cum itaque 
+symoniaci suos affectus non igne caritatis, sed cupiditatis, habeant 
+inflammatos, ideo in Inferno a divina iustitia, que omnia ponderat equa 
+libra, pedes et plantas taliter habeant inflammatos". – Si noti che 
+|cui~ @e complemento oggetto. Nella terzina v'@e l'unico caso, nel 
+poema, di rima in -^uccia~.
+
+	|34-39~. Virgilio porta tra le braccia Dante, sia per scendere nella 
+bolgia che per risalirne (vv. 43-44 e 124-128). La ^parete~ (|ripa~) 
+interna di ogni bolgia, quella contigua alla bolgia seguente, @e meno 
+alta rispetto all'altra, essendo tutto il cerchio inclinato verso il 
+pozzo centrale (cfr. ^Inf~. XXIV.37-40). Dante si mette completamente 
+nelle mani del suo |segnore~, strumento della grazia, attribuendogli 
+anche la facolt@a di intendere i pensieri inespressi (|quel che si 
+tace~).
+
+	|40~. |l'argine quarto~. @E quello che separa la terza dalla quarta 
+bolgia.
+
+	|41-45~. Scendendo verso sinistra (|stanca~ perch$e "facile a 
+stancarsi"; |mano~ come "direzione" @e frequente: ne vedremo 
+un'occorrenza in ^Purg~. III.52), Virgilio deposita Dante accanto al 
+^foro~ (|rotto~) in cui il dannato si dimena^.~ |Zanca~ designa 
+propriamente la parte inferiore della gamba; il termine, che appartiene 
+al registro 'basso', @e di origine incerta, ancora vivo nella forma 
+dialettale "cianca"; ricorre nel poema un'altra volta soltanto (^Inf~. 
+XXXIV.79). L'aggettivo |arto~ ("stretto", dal lat. ^arctus~) allude 
+alla strettezza del passaggio da una buca all'altra. Abbastanza diffuso 
+il valore che assume |s@i~ ("finch$e") dopo frase negativa: cfr. v. 128 
+e ^Purg~. XXI.12.
+
+	|46-48~. Con un'espressione beffarda Dante si rivolge all'anima 
+^conficcata~ (|commessa~) come un palo e capovolta, la quale cos@i 
+sconta il fatto di avere avuto in vita l'animo rivolto alle cose della 
+terra, non del cielo, capovolgendo la vera gerarchia dei valori. 
+L'anima @e quella di papa Niccol@o III, Giovanni Gaetano Orsini, che fu 
+pontefice dal 1277 al 1280 praticando una politica decisamente 
+antiimperiale e nepotistica: per Villani, fu "de' primi o il primo papa 
+nella cui corte s'usasse palese simonia per li suoi parenti; per la 
+qual cosa gli aggrand@i molto di possessioni e di castella e di moneta 
+sopra tutti i Romani in poco tempo" (^Cronica~ VII.54). Si noti che, 
+poco prima, Villani appella il papa "magnanimo": ci@o prova la 
+diffusione dell'accezione negativa dell'attributo (cfr. ^Inf~. X, n. 
+73-76). E Benvenuto: "Hic dum fuit clericus et cardinalis fuit honestus 
+homo et bonae vitae; sed factus papa, factus est magnanimus calore 
+suorum consortum, et multa fecit ad magnificandam suam domum; nam fuit 
+primus, in cuius curia palam committeretur simonia per suos attinentes".
+
+	|49-51~. Secondo "gli antichi decreti di Firenze", la pena per i 
+sicari (^assassini~ da ^hashish~, la droga sotto i cui effetti i membri 
+della setta ismailita degli Assassini compivano efferati delitti) era 
+la propagginazione: essi, cio@e, erano interrati capovolti fino al 
+soffocamento. Hollander assegna la responsabilit@a di tale riferimento 
+a Rossetti (1826): "Capovolto a guisa d'un palo veniva dunque piantato 
+l'assassino entro una buca; e chiamavasi ci@o propaginare. Quindi 
+riempivasi di terra il fosso e lasciavasi spirar soffogato". A parere 
+di Buti, "veramente li simoniaci sono simili alli assassini: imper@o 
+che, come li simoniaci vendono la grazia, cos@i li assassini vendono lo 
+vincolo dell'amor naturale per denari, quando uccidono li uomini per 
+denari". Il poeta si riferisce qui al fatto che il condannato, per 
+differire (|cessare~: qui probabilmente transitivo, contrariamente 
+all'opinione di molti commentatori antichi) la morte, richiama il 
+|frate~ confessore per rendere conto di altri peccati; il |frate~ 
+quindi si abbassa, avvicinando l'orecchio al suolo, e assume quella 
+posizione che Dante ha ora nei confronti di Niccol@o III. Chiaro il 
+sarcasmo che proviene dall'inversione delle parti fra il laico e 
+l'ecclesiastico. "Le parti si sono invertite: il sacerdote diventa un 
+pessimo peccatore che si confessa, non per divozione, ma per un ultimo 
+sotterfugio occorsogli, e il laico diventa il confessore che non 
+assolver@a" (Trucchi). Il paragone tra il pellegrino e il |frate~ 
+confessore @e, secondo Herzman e Stephany, l'occasione per mostrare 
+come anche il sacramento della confessione sia messo nella circostanza 
+in parodia. Al contrario del |frate~, Dante non pu@o certo ritardare la 
+morte dell'|assassino~, che nel caso @e il papa, il quale ha ucciso la 
+Chiesa; ma Dante pu@o, mostrando la sorte dei |miseri seguaci~ di Simon 
+Mago, prevenire la morte della Chiesa, cio@e la morte di tutti coloro 
+che sono in grado di scegliere fra i beni terreni e quelli spirituali. 
+Mentre ascolta Niccol@o, Dante mantiene la posizione da confessore, ma 
+le rivelazioni del simoniaco costituiscono "una confessione 
+sacramentalmente invalida, poich$e @e una confessione senza 
+contrizione. Anche in questo dettaglio, il peccato di simonia @e 
+incorporato nella sua punizione, in quanto il lettore vede la forma 
+esteriore del sacramento senza alcun significato interiore: questa 
+confessione non produrr@a alcuna trasformazione spirituale in Niccol@o. 
+Avendo invertito materia e spirito nella sua vita, egli @e condannato a 
+ricreare tale inversione per l'eternit@a. La parodia del sacramento 
+continua nel fatto che, piuttosto che produrre assoluzione, la sua 
+confessione produce il bruciante rimprovero di Dante. Dante, ancora una 
+volta in veste sacerdotale, sceglie di 'mantenere' piuttosto che 
+'rimettere' i peccati (^Io~. 20.23) del peccatore chiaramente non 
+pentito" (R.B. Herzman – W.A. Stephany, "^O miseri seguaci~: 
+Sacramental Inversion in ^Inferno~ XIX": ^Dante Studies~, 1978, p. 55). 
+Secondo A. Pagliaro (^Ulisse~, Messina-Firenze, D'Anna, 1967, pp. 
+263-69), |perfido~ va inteso nel suo significato etimologico di 
+"traditore", per cui il sicario non mirerebbe a ritardare la morte, ma 
+ad evitarla tradendo (ad esempio rivelando il nome del mandante) ed 
+ottenendo in conseguenza la grazia.
+
+	|52-57.~ Niccol@o III cade in equivoco: egli sa che al di sopra di lui 
+(come si chiarir@a ai vv. 73-78), nella buca, verr@a conficcato 
+Bonifacio VIII (Benedetto Caetani, che morir@a nel 1303), perci@o crede 
+che colui che gli ha parlato sia proprio Bonifacio, arrivato dunque in 
+anticipo rispetto a quanto previsto nel ^libro del futuro~ (|lo 
+scritto~). In questo modo l'Alighieri 'profetizza' la dannazione di 
+Bonifacio, suo grande nemico (cfr. ^Inf~. VI, n. 67-72). Le parole di 
+Niccol@o III, infatti, pongono in rilievo proprio la simonia di papa 
+Caetani, accusato di avere per cupidigia prostituito la Chiesa (|la 
+bella donna~), sposa di Cristo e dei pontefici di lui successori: come 
+scrive l'Ottimo, "nullo maggiore strazio puote uomo fare della sua 
+donna ch'egli ha sposata, che sottometterla per moneta a chi pi@u ne 
+d@a". Il sintagma |torre a 'nganno~ vale "sposare con l'inganno", ove 
+l'"inganno" @e forse un riferimento alle scorrette manovre attuate dal 
+Caetani, secondo voce diffusa, per indurre all'abdicazione Celestino V 
+(cfr. ^Inf~. III, n. 59-60). Di Bonifacio parla nei seguenti termini 
+Villani: "Pecunioso fu molto per aggrandire la Chiesa e' suoi parenti, 
+non faccendo coscienza di guadagno, che tutto dicea gli era licito 
+quello ch'era della Chiesa" (^Cronica~ VII.6). Come abbiamo visto, papa 
+Caetani era gi@a apparso nel VI canto, accusato di aver tramato a 
+favore dei Neri. Storicamente, egli @e considerato come l'ultimo grande 
+papa medievale, nel senso che si fece portatore di una concezione 
+teocratica che considerava subordinata l'autorit@a imperiale, ma 
+soprattutto era in contrasto con le nuove realt@a degli Stati nazionali 
+che si formavano in Europa. Ed infatti Bonifacio si scontr@o col re 
+francese Filippo il Bello, che aveva violato il tradizionale privilegio 
+dell'immunit@a fiscale spettante al clero. Truppe francesi si recarono 
+ad Anagni, dove il papa risiedeva, e lo presero prigioniero: qui pare 
+esserci stato l'episodio dello "schiaffo", inferto da un membro della 
+famiglia Colonna a Bonifacio (cfr. ^Purg~. XX, n. 85-87). @E l'episodio 
+che dar@a l'occasione a Dante di distinguere l'istituto papale dal 
+comportamento concreto dei papi (cfr. n. 100-105). In ^Inf~. XXVII, 
+Bonifacio sar@a detto ^principe d'i novi Farisei~ (v. 85), in quanto 
+mosse guerra contro altri cristiani; in ^Par~. XXVII.22 S. Pietro dir@a 
+che egli ^usurpa in terra il luogo mio~, anche se la voce ^usurpa~ va 
+intesa come "occupa indegnamente" (non "illegalmente"), dato che, in 
+^Purg~. XX.85-90, papa Caetani @e a tutti gli effetti ^vicario~ di 
+Cristo. Che invece Bonifacio occupasse illegalmente il seggio 
+pontificio era opinione di Ubertino da Casale; se per il poeta 
+l'episodio di Anagni equivale ad una seconda Crocifissione, Ubertino 
+chiamava Filippo il Bello "pugile di Cristo".
+
+	|58-60~. L'equivoco di Niccol@o III lascia il pellegrino senza parole, 
+simile a coloro che comprendono la risposta che gli viene data e 
+restano ^confusi~ (|scornati~).
+
+	|61~. |tosto~: "subito".
+
+	|62~. Virgilio induce il discepolo a ripetere due volte la risposta 
+negativa (|Non son colui...~), in corrispondenza (per qualcuno ironica) 
+con la ripetizione della domanda del simoniaco (vv. 52-53).
+
+	|64~. Dante insiste beffardamente sul fatto che questi dannati 
+esprimono i loro sentimenti con gli arti inferiori. La posizione del 
+papa dannato, che 'espone' in primo luogo i piedi, pu@o costituire 
+ironia sarcastica, se si pone mente all'abitudine di baciare i piedi 
+del pontefice come riconoscimento della sua supremazia (cfr. J. 
+Ferrante, ^The Political Vision of the 'Divine Comedy'~, Princeton 
+Univ. Press, 1984, cap. II, n. 35).
+
+	|67-72~. Sullo stemma degli Orsini c'era un'orsa, animale per i 
+bestiari medievali ingordo e molto amante della prole: in tal senso il 
+papa (colui che vest@i il |gran manto~: il ^papale ammanto~ di ^Inf~. 
+II.27; cfr. ^Purg~. XIX.104), avido e nepotista, fu veramente degno 
+esponente di una famiglia con un simile stemma. Si tratta di un gioco 
+di parole conforme al gusto retorico del tempo, ma significativo; come 
+l'altro del ^mettere in~ ^borsa~, che esprime la tragica realt@a del 
+^contrapasso~. Nella cronaca di Pipino, citata da Torraca, si parla di 
+un "libello" in cui Niccol@o era raffigurato con due ^orsacchiotti~ 
+(|orsatti~) ai piedi ed un altro sulla mitra.
+
+	I termini con cui il poeta redarguisce Niccol@o III sono assai simili 
+– rileva Davis – a quelli usati dal francescano "spirituale" Olivi 
+contro la Chiesa corrotta e poi dal suo seguace Ubertino da Casale 
+contro Bonifacio VIII e Benedetto XI. N$e Olivi n$e Ubertino, per@o, 
+avevano condannato Niccol@o; anzi il primo aveva consigliato il papa 
+sulla formulazione della bolla (^Exiit qui seminat~) che definiva la 
+povert@a francescana. Tuttavia altri spirituali, "su posizioni pi@u 
+estreme di Ubertino, redassero i ^Vaticinia de summis pontificibus~, 
+una serie di profezie papali adattate da una fonte greca, che 
+condannava tutti i pontefici da Niccol@o III fino almeno a Bonifacio 
+VIII, con la sola eccezione di Celestino V. Il testo che riguarda 
+Niccol@o parla dell' 'orsa che allatta i suoi cuccioli', ed @e un 
+riferimento molto vicino alle sue stesse parole: |fui figliuol de 
+l'orsa, \| cupido s@i per avanzar li orsatti~^...~". Si pu@o ritenere 
+che Dante conoscesse la profezia, anche se "@e sorprendente pensarlo in 
+contatto con un gruppo persino pi@u radicale di Ubertino, che nel 
+^Paradiso~ aveva fatto condannare da S. Bonaventura a causa 
+dell'eccessiva rigidit@a. Ma la profezia si addiceva bene alle opinioni 
+del poeta: non menzionava l'^Exiit qui seminat~, e tuttavia accusava 
+Niccol@o di aver corrotto la Chiesa con il commercio di cose sacre. 
+Allo stesso modo Dante non condanna specificamente Niccol@o per aver 
+danneggiato i francescani, ma piuttosto per aver degradato il mondo 
+intero" (C.T. Davis, ^L'Italia di Dante~ [1984], trad. it. Bologna, Il 
+Mulino, 1988, pp. 96-97).
+
+	Comunque la denuncia dantesca della corruzione della Chiesa @e dura ed 
+esplicita; e proprio perch$e @e tale essa non pu@o non scaturire, a 
+giudizio di Nardi, dalla convinzione di essere incaricato da Dio di una 
+particolare missione. "Non artificio letterario, ma vera visione 
+profetica ritenne Dante quella concessa a lui da Dio, per una grazia 
+singolare, allo scopo preciso che egli, conosciuta la verit@a sulla 
+cagione che il mondo aveva fatto reo, la denunziasse agli uomini 
+manifestando ad essi tutto quello che aveva veduto e udito [...] Questa 
+rivelazione appunto @e stata fatta a Dante, perch$e ne prendesse animo 
+a denunciare i mali che travagliavano l'umanit@a e ad annunziare il 
+rimedio che Dio aveva deciso di porvi" (B. Nardi, ^Dante e la cultura 
+medievale~, Roma-Bari, Laterza, 1983, pp. 295, 308). Dante, a parere di 
+Nardi, sente di parlare in nome di Dio, assumendo cos@i il tipico 
+atteggiamento profetico che da un lato denuncia, dall'altro annuncia il 
+prossimo intervento divino (abbiamo visto il Veltro; e cfr. ^Purg~. 
+XXXIII.34ss.; ^Par~. XXVII.142-148). Egli presenta il proprio viaggio 
+non come finzione poetica, ma come esperienza reale voluta da Dio; 
+quindi il poema, definito appunto ^sacro~, @e una "visione profetica" 
+ottenuta per grazia divina. "Chi poteva dare ad un credente della 
+tempra di Dante, che protestava la sua ^reverenza per le somme chiavi~, 
+che nel pastor della chiesa additava la guida dei cristiani (^Par~. 
+V.77), che perfino in Bonifacio insultato ad Anagni vedeva lo stesso 
+Cristo esser fatto prigioniero (^Purg~. XX.85-90), chi poteva dargli 
+tanto ardire di ergersi a giudice di papi e prelati, di accusarli 
+apertamente di avarizia e di simonia, di dichiararli ^in vesta di 
+pastor lupi rapaci~ (^Par~. XXVII.55), di attribuire ad essi ^la cagion 
+che 'l mondo ha fatto reo~ (^Purg~. XVI.104), di riempirne il cerchio 
+degli avari, di conficcare nel pozzo dei simoniaci Niccol@o III, 
+Bonifacio VIII, Clemente V, se non la coscienza di un alto dovere 
+ch'egli avesse proprio come credente, se non la voce di Dio che 
+risuonava al suo spirito e gl'imponeva di parlare, se non la certezza 
+che la visione dei tre regni d'oltre tomba gli era concessa perch$e 
+egli si facesse annunciatore della nuova redenzione?> (Ivi, p. 299).
+
+	In certe occasioni, soprattutto nel ^Paradiso~, il poeta ammette, data 
+la propria limitatezza, l'impossibilit@a di riferire la voce divina 
+nella sua pienezza. Nella ^Bibbia~ si legge sovente che i limiti 
+dell'uomo nell'intendere la parola di Dio, dovuti alla sua debolezza, 
+non ostacolano la comunicazione divina, ma anzi sono fattori che, 
+proprio perch@e insufficienti, garantiscono che quanto il profeta dir@a 
+@e solo frutto dell'onnipotenza divina. S. Tommaso chiarisce che 
+neanche "i veri profeti" conoscono tutto quello che lo Spirito Santo, 
+nell'ispirarli, vuole intendere (^ST~ II-II, q. 173, a. 4). Va tenuto 
+presente che nella teorizzazione medievale l'espressione profetica 
+ebraica non @e considerata "passivamente medianica, ma consapevole; la 
+consapevolezza implica la partecipazione del soggetto proprio nell'atto 
+della comunicazione, partecipazione consistente nella disposizione dei 
+materiali e nell'elaborazione linguistico-stilistica". "Nel profeta, 
+che scrive o riferisce non nell'atto, ma ^dopo~ che gli @e stata 
+comunicata la rivelazione divina, avviene, cos@i come nel poeta, quel 
+processo di elaborazione fantastica e tecnica che ne garantisce 
+l'individualit@a e il tono personale" (N. Mineo, ^Profetismo e 
+apocalittica in Dante~, Catania, Universit@a di Lettere, 1968, p. 337). 
+Naturalmente l'utilizzo di un linguaggio profetico, da parte di Dante, 
+non equivale ad affermare che egli si sentisse veramente un profeta, 
+anche se – come abbiamo visto – per Nardi @e la pesantezza stessa delle 
+sue accuse che pare giustificare tale affermazione. Ricordiamo che la 
+presentazione di s$e stesso quale vero profeta @e particolarmente 
+evidente nella Epistola ai Fiorentini, ove Dante parla esplicitamente 
+della propria ^presaga mens~ (^Epist~. VI.17). Anche se @e arduo non 
+ritenere che l'Alighieri volesse che i suoi lettori considerassero il 
+poema come una ^fictio~ (nonostante Nardi), @e certo che egli auspicava 
+con forza che l'opera fosse letta "come se" non fosse una ^fictio~ 
+(cfr. ^Introd. alla cantica~, § 2; ^Inf~. XVI, n. 127-132)
+
+	|73-78~. Nella buca sono 'imborsati', uno sopra l'altro, i papi 
+simoniaci: l'ultimo arrivato resta con le gambe di fuori, gli altri 
+sono incastrati (|piatti~: "appiattiti") nella roccia (Pietro di Dante 
+rinvia a ^Is~. 2.21). Anche Niccol@o III cadr@a gi@u quando arriver@a 
+|colui~, ^~cio@e Bonifacio VIII, la cui venuta l'Orsini erroneamente 
+credette anticipata, per cui fece la ^domanda~ (|dimando~ @e forma 
+arcaica) "s@ubita", ossia spontanea, improvvisa (vv. 52-53). Le parole 
+del dannato ci fanno capire che il poeta non considera simoniaci i 
+pontefici che regnarono fra Niccol@o e Bonifacio VIII, ossia Martino 
+IV, Onorio IV, Niccol@o IV e Celestino V. Benvenuto ci dice che, per un 
+certo aspetto, la collocazione dei simoniaci @e analoga a quella degli 
+eretici, i quali – come abbiamo visto in ^Inf~. X.13-15 – si trovano in 
+varie tombe corrispondenti alla particolare setta d'appartenenza: 
+infatti (ma l'illazione non @e autorizzata dal testo) "summus pontifex 
+habet hic suum foramen, in quo habet suam sepulturam, et alio 
+superveniente, ille subintrat; et ita cardinalis habet suum, 
+archiepiscopus suum, patriarcha suum, et ita episcopus, abbas, 
+praepositus, et ita de caeteris usque ad simplicem sacerdotem, quia hic 
+est de omni genere sacerdotum". – Il ritmo del v. 76 "descrive un 
+capitombolo, coi due incontri di accenti principali |cascher@o io~; 
+|altres@i quando~, che danno ogni volta l'impressione di un sobbalzo" 
+(Porena).
+
+	|79-84~. Niccol@o si trova |sottosopra~ (il termine, come |zanca~ del 
+v. 45, occorre solo un'altra volta, riferito a Lucifero: ^Inf~. 
+XXXIV.104) e coi piedi |rossi~ dal 1280, mentre |el~ (Bonifacio) 
+rester@a in tale stato dal 1303 al 1314; |dopo lui~ arriver@a (|verr@a~ 
+al tormento, giacch$e a Bonifacio succedette Benedetto XI) il |pastor~ 
+Clemente V, ancora peggiore in quanto |sanza legge~, cio@e guidato solo 
+dalla ricerca del proprio interesse individuale, in dispregio di ogni 
+norma civile e religiosa (cfr. i chiarimenti di Guido da Pisa sul fatto 
+che egli "sine lege intravit, sine lege vixit et sine lege damnatus de 
+hac vita migravit"): la sua ^condotta~ (|opra~) sar@a ancor pi@u 
+^vergognosa~ (|laida~). Secondo Guido, l'uso di |ricopra~ non ha solo 
+significato letterale (Clemente star@a sopra Niccol@o e Bonifacio), ma 
+designa il fatto che, nei confronti dei misfatti di Clemente, i mali 
+compiuti dai suoi due predecessori simoniaci "quasi pro nihilo 
+videbuntur". Costui @e Bertrand de Got, originario della Guascogna 
+(|ponente~), papa dal 1305 (dopo la breve parentesi di Benedetto XI) al 
+1314, secondo Villani "uomo molto cupido di moneta e simoniaco, che 
+ogni beneficio per denari s'avea in sua corte". L'Alighieri lo 
+disprezza profondamente: qui gli rimprovera la simonia e 
+l'arrendevolezza verso il re francese Filippo il Bello (il |mal di 
+Francia~: ^Purg~. VII.109), in seguito il trasferimento della sede 
+papale ad Avignone (con inizio della nota "cattivit@a avignonese": 
+1309-1377) e soprattutto il tradimento nei confronti di Arrigo VII, la 
+cui impresa in Italia, tanto attesa dal poeta, Clemente di nascosto 
+ostacol@o (^Par~. XXX.142-144). L'informazione sull'anno della morte di 
+Clemente ha posto alcuni problemi in relazione alla datazione della 
+composizione della cantica, che a parere quasi unanime fu scritta dal 
+1306 al 1309 (1310): se pare eccessivo riconoscere una effettiva 
+capacit@a profetica al poeta, si pu@o dire che egli, che non fa qui 
+cenno agli ultimi due misfatti del ^Guasco~ (^Par~. XVII.82), abbia 
+arrischiato una predizione tenendo conto della salute cagionevole del 
+papa; ma @e probabile che la cantica sia stata rivista (in vari punti) 
+prima della divulgazione, avvenuta attorno al 1315.
+
+	|85-87~.|~ Nel II libro dei ^Maccabei~ (4.7-10) si narra che Giasone 
+(Giosu@e) compr@o la carica di sommo sacerdote degli Ebrei dal re 
+Antioco IV Epifane (nei suoi confronti |molle~, "condiscendente"); allo 
+stesso modo si diceva che Bertrand de Got avesse ottenuto il 
+pontificato grazie all'appoggio di Filippo il Bello (anch'egli 
+|molle~), al quale avrebbe dato come compenso lo sfruttamento di 
+rendite ecclesiastiche. Il poeta, che sta attaccando con la massima 
+durezza un papa, appoggia le sue argomentazioni su passi scritturali: 
+egli vuol mostrare il tradimento dei valori evangelici compiuto da 
+uomini di Chiesa e prepara il lettore alla requisitoria profetica dei 
+versi seguenti. Ecco come Benvenuto loda l'appropriatezza del paragone: 
+"nam sicut Jason obtinuit summum pontificatum simoniace a rege Antiocho 
+qui opprimebat terram sanctam tirannice; ita iste Clemens obtinuit 
+summum pontificatum simoniace a rege Franciae Philippo, qui tirannice 
+et impie conculcabat ecclesiam sanctam, occiso Bonifacio. Sic ergo est 
+comparatio propria de rege ad regem, de sacerdote ad sacerdotem, et 
+sicut Jason facinorosus fecit de templo postribulum, ita quod 
+sacerdotes corrupti dederunt se ludis et rebus vanis, ita Clemens 
+burdegalensis fecit de ecclesia Dei postribulum, et sacerdotes 
+sequentes eius exemplum facti sunt lascivi, dissoluti, et dederunt se 
+lucris illicitis et rebus inhonestis, ita quod omnes baractabant, sicut 
+scribit Ricobaldus ferrariensis in chronica sua".
+
+	|88-89~. "L'invettiva @e presentata come uno sfogo spontaneo e 
+immediato, rispetto alla cui audacia il poeta, nel riportarne le 
+parole, finge un atteggiamento di perplessit@a e di riserva: non so se, 
+a questo punto, io non fui troppo ^temerario~ (|folle~) a parlare ^in 
+un siffatto tono~ (|a questo metro~: cfr. ^Inf~. VII.33) a chi, per la 
+somma dignit@a di cui era stato investito in vita, meritava ben altro 
+rispetto: un simile motivo ritorner@a ancora come appiglio per spostare 
+l'accusa dal piano personale a uno pi@u generale" (A. Pagliaro, 
+^Ulisse~, Messina-Firenze, D'Anna, 1967, p. 277). Cfr. ^Inf~. II, n. 
+34-35.
+
+	|90-96~. Per sostenere l'invettiva, Dante si rif@a a passi scritturali 
+ove @e esposta la Verit@a, e nei passi qui richiamati non @e certo la 
+brama di |oro od argento~ a spingere gli Apostoli, quella brama che 
+invece domina i simoniaci (v. 4). Ges@u disse ai pescatori Pietro ed 
+Andrea: "Venite dietro di me e vi far@o pescatori di uomini" (^Mt~. 
+4.19; ^Mc~. 1.17). E disse a Pietro: "A te dar@o le chiavi del regno 
+dei cieli" (^Mt~. 16.19: cfr. ^Is~. 22.22). Si noti che il termine 
+|bal@ia~ ("custodia") sar@a usato in riferimento a Catone (^Purg~. 
+I.66). Per sostituire Giuda, l'|anima ria~, impiccatosi dopo il 
+tradimento, si presentarono Giuseppe e Mattia: "...li tirarono a sorte 
+e la sorte favor@i Mattia, che cos@i fu aggregato agli undici Apostoli" 
+(^Acta~ 1.26) (cfr. ^Mon~. II.vii.9).
+
+	|97.~ ^Perci@o~ (|Per@o~) ^stattene cost@i~ (|ti sta~), ^perch$e~ 
+(|ch$e~) ^sei giustamente~ (|se' ben~) ^punito~. – Altri commentatori, 
+seguendo Buti, non intendono |sta~ come imperativo, quindi: "Come tu 
+stai".
+
+	|98-99~. ^~Il ^denaro sottratto con inganno~ (|mal tolta moneta~) che 
+Niccol@o, dice Dante con sarcasmo, dovrebbe ora custodire (cfr. ^Acta~ 
+8.20) si riferisce a quei beni ecclesiastici di cui il papa fece una 
+tanto grande incetta da farsi |ardito~ contro Carlo I d'Angi@o re di 
+Sicilia, cui tolse il titolo di vicario imperiale in Toscana. Pu@o 
+anche darsi che l'Alighieri prenda per buona la leggenda (accreditata 
+da Villani: ^Cronica~ VII.57) secondo cui Niccol@o avrebbe ricevuto oro 
+bizantino per appoggiare la congiura antiangioina che port@o poi alla 
+rivolta dei Vespri.
+
+	|100-105~. Dante pone in primo piano la sua |reverenza~ per il papato 
+quale istituto (le |somme chiavi~ sono il simbolo dell'autorit@a 
+papale); del resto, se egli attaccasse l'istituzione, si collocherebbe 
+fra gli eretici, mirino questi ad abolire la Chiesa o a rifondarla 
+completamente. In ^Purg~. XX.85-90 Dante, pur essendo Bonifacio VIII il 
+suo principale avversario, deplora lo "schiaffo di Anagni", in quanto 
+offensivo della funzione di vicario di Cristo (cfr. n. 52-57). Ma la 
+manifestazione di |reverenza~ ("confessione di debita subiezione per 
+manifesto segno": ^Conv~. IV.viii.11) accresce la severit@a del 
+giudizio, che @e formulato da un cattolico devoto all'autorit@a 
+pontificia. Benvenuto: "Hic autor excusat se si non dicit plura et 
+peiora contra eum ob reverentiam pontificalis dignitatis; et tamen mihi 
+videtur quod faciat colorem rhetoricum, qui dicitur ^occupatio~, quia 
+dicit se nolle dicere, quod tamen maxime dicit". La causa della 
+corruzione @e, naturalmente, l'|avarizia~, cio@e la cupidigia (non solo 
+di denaro). Ancora una volta la condanna dantesca si appoggia al testo 
+sacro: infatti i simoniaci, avidi di potere e di ricchezza, hanno 
+prodotto il rovesciamento, ^calpestando~ (|calcando~) i giusti ed 
+^esaltando~ (|sollevando~) i disonesti, dei valori evangelici: il 
+Signore "ha rovesciato i potenti dai loro troni ed ha esaltato gli 
+umili, ha colmato di beni gli affamati e rimandato a mani vuote i 
+ricchi" (^Lc~. 1.52-53). Anche questo 'rovesciamento' pu@o essere 
+riflesso dalla posizione dei dannati della terza bolgia. La vita 
+|lieta~ @e quella terrena, infinitamente migliore della sorte eterna di 
+ogni dannato.
+
+	|106-111~. Dante allude al seguente passo dell'^Apocalisse~ (17.1-3): 
+"E venne uno dei sette angeli ... dicendo: 'Vieni, ti mostrer@o la 
+dannazione della grande meretrice che @e seduta su molte acque, con la 
+quale fornicarono i re della terra [...] E vidi una donna seduta sopra 
+una bestia scarlatta, coperta di nomi blasfemi, con sette teste e dieci 
+corna'". Nell'interpretazione ortodossa dei Padri della Chiesa, la 
+meretrice @e la Roma pagana; le acque su cui siede sono i vari popoli 
+dell'Impero romano; anche la bestia rappresenta Roma: le sette teste 
+sono i sette colli, le dieci corna i dieci re che dovevano ancora 
+regnare. Nel corso della descrizione della cosiddetta "processione 
+simbolica" che si svolge nell'Eden, Dante si rifar@a ancora al passo 
+dell'^Apocalisse~, ma in quell'occasione distinguer@a la meretrice 
+dalla bestia, sorta grazie alla trasformazione mostruosa del carro che 
+rappresenta la Chiesa (su di esso spuntano sette teste con dieci corna) 
+(^Purg~. XXXII.142-60). Qui, perci@o, le teste e le corna non hanno 
+nulla a che vedere con la meretrice; inoltre, esse spuntano sul carro 
+dopo che un'aquila vi lascia le sue penne (simbolo della donazione di 
+Costantino) e dopo l'attacco di un drago, mentre in ^Inf~. XIX la donna 
+@e nata con sette teste. Di fronte al problema, solitamente i 
+commentatori, intendendo come simbolo della Chiesa non solo il carro di 
+^Purg~. XXXII ma anche la donna e la bestia di ^Inf~. XIX, devono 
+interpretare le teste e le corna in senso negativo, nel primo caso (i 
+vizi capitali e trasgressioni dei comandamenti), ed in senso positivo, 
+nel secondo caso (i doni dello Spirito Santo e i dieci comandamenti). 
+Un caso per@o, quest'ultimo, che implica un'alterazione profonda del 
+testo sacro e non trova riscontri nei commenti medievali 
+dell'^Apocalisse~. Molto pi@u persuasiva appare quindi la spiegazione 
+offerta da C.T. Davis (^Roma e Babilonia in Dante~ [1982], in G.C. 
+Alessio – R. Hollander [a cura di], ^Studi americani su Dante~, Milano, 
+Angeli, 1989, pp. 278-80), per il quale la difficolt@a pu@o essere 
+appianata se si ribadisce la validit@a della lettura ortodossa (^Apoc~. 
+17.9ss.).
+
+	Scrive Davis: "Secondo l'autore dell'^Apocalisse~, le sette teste sono 
+sette colli o re e le dieci corna sono dieci re. I sette re sono i capi 
+delle grandi citt@a; i dieci re dapprima fornicano con Babilonia, la 
+puttana, e poi aiutano a distruggerla. Le sette teste sono sicuramente 
+i sette colli e i sette re (o imperatori) della nuova Babilonia, cio@e 
+di Roma. Pietro, in aggiunta, termina la sua prima lettera con 'La 
+Chiesa che @e in Babilonia vi saluta' (5.13), e quella chiesa @e la 
+chiesa in Roma. Se le sette teste rappresentano le colline e i 
+governanti di Roma, questo calza bene col loro apparire sul carro dopo 
+la Donazione di Costantino, come rappresentato nella simbolica scena 
+muta di ^Purg~. XXXII. Quando il carro della Chiesa fu caricato con la 
+ricchezza e il potere romani (le piume dell'aquila), essa divenne un 
+mostro mai visto prima, un mostro risultante dalla fusione del carro 
+della Chiesa con la donna e bestia babiloniano-romana trovata 
+nell'^Apocalisse~. Questa mostruosa qualit@a viene dalla corruzione 
+dell'ascetica povert@a della Chiesa. Dante credeva che la povert@a 
+fosse essenziale per l'imitazione che essa doveva fare della vita di 
+Cristo. Dante pensava che la ricchezza e l'autorit@a secolare fossero 
+contrarie alla sua natura e illegittime nelle sue mani. @E questa 
+'romanizzazione' della Chiesa in senso temporale e mondano che fa del 
+carro un mostro e che incoraggia i ^pastori~ a sedurre la ^bella donna~ 
+o sposa di Cristo e poi a corromperla. Ma la donna e bestia di ^Inf~. 
+XIX era in origine interamente distinta dalla sposa di Cristo. Ivi essa 
+rappresenta la Roma pagana, proprio come essa fa nell'^Apocalisse~, 
+sebbene Dante estenda il suo significato anche alla corrotta citt@a 
+cristiana. Essa nacque sui sette colli coi sette re ed essa trasse 
+^argomento~ o aiuto dai dieci re, finch$e essi le furono obbedienti. 
+Guido da Pisa ha probabilmente ragione ad interpretare le dieci corna o 
+re come il dominio universale di Roma, dal momento che dieci @e il 
+numero dell'universalit@a e la Grande Citt@a @e detta nell'^Apocalisse~ 
+governare tutti gli altri popoli e, a quanto pare, gli stessi dieci re, 
+prima che essi giungano a odiare la donna". Ai vv. 110-111 Dante 
+afferma che la donna ^trasse vigore~ (|ebbe argomento~) dalle dieci 
+corna finch$e la virt@u ^fu amata da~ (|piacque al~) suo marito. 
+Unanimemente i commentatori identificano il |marito~ con il papa, per 
+cui si pu@o dire che la virt@u sia stata appannaggio dei papi fino 
+quando ci fu la sciagurata Donazione di Costantino (vv. 115-117). 
+Tuttavia – continua l'esposizione di Davis – "Roma ha un altro marito: 
+l'imperatore. Anche se uno dei suoi mariti, il papa, @e nella citt@a 
+nel 1300, Dante pensa che essa sia vedova e sola senza l'altro. Egli 
+apostrofa l'imperatore Alberto tedesco in questi termini: ^Vieni a 
+veder la tua Roma che piagne \| vedova e sola, e d@i e notte chiama: 
+'Cesare mio, perch$e non m'accompagne?'~ (^Purg~. VI.112-114). Essa non 
+si presenta come la moglie di un papa che era povero, impotente in 
+termini temporali, sinch$e la virt@u era sua appannaggio, ma come la 
+moglie di un onnipotente imperatore da cui Roma trasse aiuto e 
+signoreggi@o sui dieci re. Sarebbe pi@u naturale, nel contesto di 
+^Inf~. XIX, prendere |marito~ come riferito all'imperatore e 
+interpretare |virt@u~ (nel senso in cui Dante la usa spesso altrove) in 
+un senso secolare e non specificamente cristiano: qui essa significa 
+forza e potere, la forza e il potere che l'imperiale marito di Roma 
+volle esercitare su di lei prima che egli cedesse met@a della sua terra 
+al pontefice. In seguito, il suo potere (legittimato e necessario dal 
+punto di vista di Dante) corruppe il papa e la Chiesa, poich$e Cristo 
+aveva proibito loro di accettare tale potere, e Dante credeva che la 
+povert@a, come dimostrato nella vita di Cristo, fosse il fondamento 
+della Chiesa. Se |marito~ si riferisce all'imperatore, allora il 
+successivo rimprovero diretto a Costantino ha pi@u senso. L'uso del 
+termine |dote~ @e spiegabile soltanto se esso accompagna un matrimonio. 
+L'imperatore era stato a lungo il marito di Roma. Ma pi@u tardi essa 
+spos@o un nuovo marito, datole dal precedente, il bene intenzionato ma 
+mal guidato imperatore che ^si fece greco~ (^Par~. XX.57), e concesse 
+al papa la dote di Roma e delle terre occidentali. Questo dono, 
+nell'opinione di Dante, porta non soltanto alla perdita del potere 
+temporale di Roma, ma anche alla corruzione della Chiesa. @E a questo 
+punto, e non prima, che la donna e bestia di ^Inf~. XIX diviene una 
+puttana; essa lo diviene perch$e il suo nuovo marito le permette di 
+fornicare con i re. @E a questo punto, e non prima, che la |bella 
+donna~, la Chiesa, @e prostituita alla loro lussuria. @E a questo 
+punto, e non prima, che la meretrice usurpa l'antico carro di Beatrice 
+sul carro della Chiesa, e le immagini della donna e bestia di ^Inf~. 
+XIX e di ^Purg~. XXXII coincidono".
+
+	|112-114~. Per la terza volta nel canto si presenta l'endiadi |oro e 
+argento~ (cfr. ^Ps~. 113.4; ^Os~. 8.4; ^Sap~. 13.10), a designare il 
+punto basilare della cupidigia dei |pastori~, i quali vengono ora 
+descritti come peggiori degli |idolatre~ (il pl. in -^e~ @e normale, 
+nell'ital. ant., per nomi che terminano in -^a~ al sing.; cfr. 
+^eresiarche~ a ^Inf~. IX.127): questi almeno adoravano un solo idolo, 
+mentre quelli ne adorano ^molti~ (|cento~), tanti quante le monete 
+accumulate. Berthier cita un diffuso proverbio medievale: "Trinus in 
+Orbe Deus colitur, sed in Urbe quatrinus". La Chiesa corrotta ha 
+violato il dettato di ^Mt~. 10.9, che non consente il possesso di "oro 
+n$e argento n$e denaro" (cfr. ^Mon~. III.x.14).
+
+	|115-117~. L'invettiva si precisa sempre di pi@u e si sposta sul piano 
+propriamente politico, investendo ci@o che, per Dante, @e la causa 
+prima non solo del traviamento della Chiesa dai suoi fini spirituali, 
+ma di tutti i mali che affliggono il mondo. La causa morale della 
+corruzione @e la cupidigia, ma questa non si sarebbe sfrenata negli 
+uomini di Chiesa se l'imperatore Costantino non avesse dato inizio, con 
+la sua ^donazione~ (|dote~), al potere temporale della Chiesa, il 
+principale ostacolo che impedisce l'opera universalmente pacificatrice 
+dell'Impero. Il poeta segue la credenza, diffusa per tutto il Medioevo, 
+secondo la quale Costantino, per gratitudine verso il papa Silvestro 
+(314-335) che l'aveva guarito dalla lebbra (^Inf~. XXVII, 94-95), don@o 
+alla Chiesa il dominio di Roma, generando cos@i il ^~|primo ricco 
+patre~ ("papa"). Il documento della donazione (che sar@a dimostrato 
+falso da Valla nel sec. XV) @e considerato da Dante autentico, per@o 
+egli (che non ne conosce direttamente il testo) ne nega la validit@a 
+giuridica, non potendo per lui un imperatore cedere i diritti 
+dell'Impero n$e potendo la Chiesa, che deve evangelicamente essere 
+povera, ricevere beni terreni. Costantino (che @e in Paradiso) ha 
+perci@o fatto del male, pur se involontariamente (^sotto buona 
+intenzion che f$e mal frutto~: ^Par~. XX.56; cfr. ^Purg~. XXXII.138). 
+Come nota Hollander (^comm. ad loc~.), Silvestro, concretamente 
+ricompensato da Costantino, dovrebbe trovarsi al fondo del pozzo 
+contenente i papi simoniaci; possiamo aggiungere che Silvestro @e 
+l'antitesi di Eliseo, ma non di Giezi (cfr. n. 1-6), e rinviare ad una 
+nota (^Inf~. XXVI, n. 34-42) in cui sar@a posta in rilievo 
+l'equiparazione fra Eliseo e lo stesso pellegrino Dante.
+
+	In sostanza l'Alighieri separa in due fasi la storia della Chiesa 
+romana: infatti egli distingue la Chiesa primitiva, povera ed 
+effettivamente seguace dei precetti evangelici, da quella, corrotta e 
+desiderosa solo di ricchezza e potere, formatasi in seguito alla 
+donazione di Costantino. La corruzione della Chiesa, a partire dalle 
+alte sfere, si @e poi diffusa a tutti i livelli della gerarchia 
+ecclesiastica, coinvolgendo anche gli ordini monastici. La cupidigia ha 
+fatto presa su tutti, non potendo trovare il ^freno~ nell'Impero, 
+colpevolmente ostacolato dalla Chiesa politicizzata. Anche nella 
+^Monarchia~ Dante considera illegittima la donazione: delle motivazioni 
+ivi addotte, egli sviluppa nell'^Inferno~ quella dell'impossibilit@a 
+per la Chiesa, dato l'espresso divieto fatto da Cristo, di ricevere 
+donazioni (^Mon~. III.x). Nel ^Paradiso~, poi, si giustifica l'operato, 
+mosso da un buon intendimento, di Costantino: infatti questi, secondo 
+il poeta, fu spinto dall'intenzione di costituire un patrimonio 
+ecclesiastico atto a venire in aiuto dei poveri, fermo restando il 
+dominio dell'imperatore sui beni assegnati alla Chiesa; non era certo 
+volont@a di Costantino n$e di arricchire il clero n$e di sminuire la 
+dignit@a dell'Impero menomandone il territorio. Il donatore fece quindi 
+opera buona e non venne meno al proprio dovere, ma risvegli@o 
+nell'animo della gente di Chiesa il demone della cupidigia, con 
+terribili conseguenze sulla Chiesa stessa e sulla societ@a intera. Il 
+rimedio non pu@o che consistere nell'annullare la donazione, 
+ristabilendo cos@i l'universalit@a dell'Impero e riportando la Chiesa 
+al suo compito spirituale. L'affinit@a tra la concezione della 
+donazione che ha Dante e quella espressa nel manifesto politico di 
+Manfredi (sul quale cfr. ^Purg~. III, 103-145) ai Romani (24.5.1265) @e 
+stata notata da Davis (^L'Italia di Dante~ [1984], trad. it. Bologna, 
+Il Mulino, 1988, pp. 82-83n.). Si tenga presente che i vv. 106-117 
+furono condannati dalla Inquisizione spagnola (cos@i come ^Inf~. XI.8-9 
+e ^Par~. IX.136-142).
+
+	|118-120~. Il narratore ricorda che, mentre egli attaccava Niccol@o 
+(|cantavo cotai note~: "rivolgevo tali accuse"), questi ^scalciava~ 
+(|spingava~) fortemente con ^entrambi i piedi~ (|ambo le piote~), ^lo 
+tormentasse~ (|'l mordesse~) |ira~ o |cosc,ienza~. L'|ira~ pu@o nascere 
+nel papa simoniaco dal disprezzo esternato dal pellegrino. A proposito 
+di |coscienza~, Berthier richiama l'attenzione su una funzione che 
+l'Aquinate attribuisce alla ^conscientia~ (intesa non genericamente 
+come "consapevolezza di colpa", bens@i come dettame dell'intelletto 
+pratico volto a valutare la bont@a o malizia di un comportamento): "... 
+iudicamus quod aliquid quod est factum sit bene factum vel non bene 
+factum: et secundum hoc conscientia dicitur ^excusare~ vel ^accusare~ 
+seu ^remordere~" (^ST~ I, q. 79, a. 13). In tal senso la |coscienza~, 
+atto della cosiddetta "sinderesi" (^ST~ I, q. 79, a. 12), esiste anche 
+nei dannati. |Piota~ (cfr. ^Par~. XVII.13) @e vocabolo fiorentino: 
+indicava in origine la terra che si raccoglie ai piedi degli alberi.
+
+	|121-123~. Virgilio, fin qui silenzioso ma attento (|attese~ = 
+"ascolt@o attentamente"), manifesta approvazione verso il discorso di 
+Dante, che dice il vero: il |duca~ ha un ^lieto volto~ (|contenta 
+labbia~) e fra poco (v. 124) abbraccer@a il suo pupillo. Per Dante la 
+degenerazione della Chiesa @e ancor pi@u vergognosa se posta a 
+raffronto con le virt@u pagane; l'approvazione @e dunque del Virgilio 
+"vate della missione imperiale di Roma e ponte fra il passato pagano 
+della citt@a ed il suo futuro cristiano" (C.T. Davis, ^Dante and the 
+Idea of Rome~, Oxford, Clarendon Press, 1957, p. 232). Come nota 
+l'Imolese, qui il poeta risponde a quanto sopra affermato sul rischio 
+di essere troppo |folle~ (v. 88): "Nunc ergo vult dicere quod non, et 
+hoc tangit tacite per tacitam consensionem Virgilii". |Labbia~, in 
+Dante, vale solitamente "volto, viso" (p. es. ^Inf~. VII.7).
+
+	|125~. |mi s'ebbe al petto~: "mi ebbe sollevato all'altezza del suo 
+petto".
+
+	|126~. Virgilio, che aveva gi@a aiutato Dante a scendere fino al fondo 
+della bolgia, ora lo aiuta anche nella risalita.
+
+	|127-132~. ^N$e si stanc@o di avermi abbracciato strettamente~ 
+(|distretto~) ^a s$e, finch$e~ (|s@i~) ^non m'ebbe portato~ (|men 
+port@o~) ^sulla sommit@a del ponticello~ (|sovra 'l colmo dell'arco~) 
+^che @e passaggio~ (|tragetto~) ^dal quarto al quinto argine. Qui~ 
+(|Quivi~) ^depose~ (|spuose~) ^con dolcezza~ (|soavemente~) ^il carico, 
+soave~ (^a lui da trasportare~) ^per lo scoglio disagevole~ (|sconcio~) 
+^e ripido~ (|erto~), ^tanto che sarebbe un difficile passaggio~ (|duro 
+varco~) ^per le capre~. – Secondo altra lettura^,~ |soave~ @e avverbio 
+(ripresa del |soavemente~ del v. 130); in tal caso a |per~ va dato 
+valore locativo ("sopra") od anche causale ("a causa di, rispetto a"). 
+|Spuose~ @e passato remoto di "sporre", dal lat. ^exponere~. Circa 
+|sconcio~, cfr. ^Inf~. XXX.85; si tratta di una forma (aggettivo 
+verbale) diffusa nel poema (prossima occorrenza: |tronca~ a ^Inf~. 
+XX.51). Landino: "N$e senza ragione fa comparazione alle |capre~, 
+perciocch$e questo animale nel pascersi, sempre monta e non scende". 
+Benvenuto offre una glossa di diverso tenore: "autor tangit 
+difficultatem sequentis materiae, quasi dicat, quod iste tractatus 
+sequens esset durus et difficilis capris, idest viris acutissimi 
+intellectus, sicut caprae habent visum acutissimum". Ma la qualit@a 
+della "vista acutissima" faceva della capra un ^typus prophetae~ (cfr. 
+G.R. Sarolli, ^Prolegomena alla 'Divina Commedia'~, Firenze, Olschki, 
+1971, pp. 404-406), per cui l'occorrenza di ^capra~ (di nuovo in 
+connessione con Dante a ^Purg~. XXVII.86) possiede forse significato 
+pi@u profondo, dato che nel canto l'Alighieri assume chiaramente 
+l'atteggiamento del poeta ispirato da Dio. Cfr. ^Inf~. XX, n. 25-30.
+
+	|133~. Da quel luogo alto (|Indi~ = "Di l@i") Dante pu@o osservare 
+un'altra ^bolgia~ (|vallon~). @E la quarta bolgia.
+
+

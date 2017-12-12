@@ -1,0 +1,18 @@
+{PURGE}
+
+;
+; Purge a previous search
+;
+
+:COMPARE @LINE
+
+     TO "1"
+        :REQUEST ~U#MAXQUERY~
+        :CLEAR QUERIES COUNT ~1~
+
+     TO ""
+        :REQUEST ~UALL~
+        :CLEAR QUERIES
+
+:DONE
+

@@ -1,0 +1,48 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.12.49;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@Rename a file of the form *.e or *.e.Z to *.old.e or *.old.e.Z
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/sh
+
+# Rename a file of the form *.e or *.e.Z to *.old.e or *.old.e.Z
+
+for FILE
+do
+	case $FILE in
+	*.e.Z)	NEW=`basename $FILE .e.Z`.old.e.Z
+		;;
+	*.e)	NEW=`basename $FILE .e`.old.e
+		;;
+	*)	echo "$FILE is not of the form *.e or *.e.Z"
+		continue
+		;;
+	esac
+	if [ -f $NEW ]; then
+		echo "$FILE: $NEW already exists - not overwritten"
+	elif [ ! -f $FILE ]; then
+		echo "$FILE: file not found"
+	else
+		echo mv $FILE $NEW
+		mv $FILE $NEW
+	fi
+done
+@

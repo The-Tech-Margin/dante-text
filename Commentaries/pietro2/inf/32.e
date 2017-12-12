@@ -1,0 +1,115 @@
+	|Proemio.~  Canto XXXII+o~ nel qual se tracta dilli
+traditori di loro schiacta et de traditori della loro patria che
+sono nel pocczo d'Inferno.
+
+	Auctor in hoc capitulo et in duobus sequentibus incipit
+tractare et tractat de illa secunda specie fraudis que rumpit
+nedum vinculum amoris naturalis, sed etiam confidentie specialis,
+secundum distinctionem premissam supra in capitulo XI+o.~  Verum
+quia IIII modis specialiter homines se confidunt ad invicem,
+videlicet aut ratione consanguinitatis aut patrie aut ratione
+beneficii impensi per prodentem aut impensi per proditum, ideo
+auctor nunc hunc ultimum locum et circolum Cociti, stagni
+infernalis -- qui luctus interpretatur, de quo sic ait Macrobius:
+^Cociton quicquid homines in luctum lacrimasque compellit prisci
+dixerunt~ -- dividit in quatuor partes, in quibus fingit puniri
+animas proditorum in glacie, ut patet in textu.  Et in prima
+premissa parte, que durat usque ibi: <Poscia vid'io mille visi
+cagnazzi>, fingit puniri proditores consanguineorum suorum
+ideoque vocat eam Caynam a Cain, primo proditore Abel sui
+fratris.
+
+	|10-12.~  Premictens exordiendo hic auctor quod scribit
+Statius in primo de Amphione Thebano dicens: ^Expediam penitusque
+sequar, quo carmine muris/ iusserat Amphion Tyrios accedere
+montes,....~  Et in X+o~ ait: ^Increpat attonitos: 'humilesne
+Amphionis arces,/ (...)/ et mentita diu Thebarum fabula, muri?'.~
+Nam ipse Amphion adeo dotatus fuit a Musis, de quibus dicam infra
+in primo capitulo Purgatorii, in sono et cantu et eloquio quod
+gentes gratis et ultro ipso sonante et canente eius Thebanam
+civitatem meniis clauserunt.  Et iste Muse sunt ille domine, de
+quibus tangitur hic per auctorem sub tali poetica fictione.  Quod
+integumentum Oratius in ^Poetria~ sic aperit dicens: ^Dictus et
+Amphion, Thebane conditor urbis,/ saxa movere sono testudinis et
+prece blanda/ ducere quo vellet.  Fuit hec sapientia quondam,/
+publica privatis secernere, sacra profanis,/ concubitu prohibere
+vago, dare iura maritis,/ oppida moliri, leges incidere ligno.~
+
+	|22-39.~  Inde reducit ad comparationem illius glaciei
+glaciem Danubii fluminis et maris Tanai, ut dicit textus, dicendo
+de monte Ciambernichi altissimo, qui est in Sclavonia, et de
+monte qui dicitur Petrapana, qui est in Charfagnana, districtus
+Lucensis, ut etiam textus ait, et quomodo in dicta glacie stabant
+umbre talium proditorum ficte usque ad vultum, in quo in nobis
+verecundia apparet.
+
+	|55-60.~  Inter quos proditores suorum consanguineorum
+fingit se ibi invenire auctor umbram comitis Alexandri et
+Napoleonis fratrum, filiorum comitis Albertis de Comitibus
+Albertis, in quorum comitatu fluit flumen Bisentii in Tuscia.
+
+	|61-62.~  Item tangit de Mordret, filio naturali regis
+Artusi, qui se rebellavit proditorie cum certis de tabula rotunda
+dicto regi; unde semel in quodam aggressu dictus rex dictum
+Mordret ita animose in pectore percussit cum telo et fortiter
+quod sol per vulnus penetravit: et hoc est quod dicit de umbra
+rupta ipsius Mordret auctor hic.
+
+	|63-64.~  Item tangit de Focaccia de Raneriis de Pistorio
+et de Sassolo Mascherone de Tuschis de Florentia, ambobus
+proditoribus suorum consanguineorum, ut dicit textus.  Et hoc
+quantum ad dictam primam partem.
+
+	|67-69.~  Item umbram Domini Alberti Camisoni de Pazis de
+valle Arni, districtus Florentie, proditoris illorum de domo sua;
+de qua domo fuit etiam iste Carlinus, de quo hic in textu
+dicitur, qui prodidit castrum Plani et dedit Florentinis.
+
+	|88.~  Veniamus igitur ad secundam partem huius capituli,
+in qua tractat de secunda parte istius Cociti, in qua fingit
+puniri proditores sue patrie.  Ideo nominat eam Antenoram ab
+Antenore Troyano proditore sue patrie.
+
+	|106.~  In qua parte fingit nunc auctor se invenire
+umbram Domini Bucche de Abbatibus de Florentia, qui in bello
+habito inter Senenses et Florentinos apud contrata Montis Aperti,
+dictrictus Senarum, de quo dixi supra in capitulo decimo,
+prodidit commune Florentie et eius exercitum.
+
+	|116.~  Item nominat Dominum Bosium de Duara de Cremona,
+cuius umbram fingit ibi esse, qui proditor fuit etiam eius
+patrie; nam, cum commune Cremone promisisset regi Manfredo non
+dare passum et transitum genti regis Caroli de Apulea, quem
+Urbanus papa IIII constituit regem in Sicilia, privato dicto
+Manfredo de dicto regno, pecunia corruptus dimisit dictam gentem
+transire per dictam civitatem Cremone et eius destrictum.
+
+	|119-120.~  Item dicit ibi esse umbram Domini Thesauri de
+Becharia de Papia, olim abbatis Vallis Umbrose, districtus
+Florentie, qui ibi decapitatus est propter tractatum eius
+proditorium cum Ubertis de prodendo Florentiam.
+
+	|121.~  Item umbram Domini Iohannis de Soldaneriis,
+proditoris etiam dicte sue civitatis Florentie.
+
+	|122-123.~  Ganellonis de domo Magantie de Alamanie,
+proditoris olim Caroli magni, et Tebaldelli de Ciambrasiis de
+Faventia, proditoris etiam dicte sue terre: nam eam aperuit et
+dedit de nocte Bononiensibus.
+
+	|124-132.~  Inde tangit de comite Ugolino de Pisis, qui
+prodidit dictam eius civitatem in tradendo communi Lucensi
+castrum Asciani et castrum Ripe Fracte.  Item et de Domino
+Rogerio de Ubaldinis, olim Archiepiscopo Pisano proditore dicti
+comitis, reducendo ad comparationem demorsionis dicti comitis,
+quam faciebat in dictum Archiepiscopum, commorsionem quam fecit
+Tideus de Menalippo in bello Thebano et de eius capite, existens
+letaliter vulneratus ab ipso Menalippo dictus Tideus.  Unde
+Statius in VIII+o~ ait in persona ipsius Tidei dicens:
+^Desertorem animi.  Caput, o caput, o mihi si quis/ apportet,
+Menalippe, tuum!.~ Et subdit quid fecit ipse Tideus, presentato
+sibi dicto eius capite per consocios suos, dicens idem Statius:
+^Imperat abscissum porgi, levaque receptum/ spectat atrox hostile
+caput, gliscitque tepentis/ (...)./  Atque illud fractum perfusum
+tabe cerebrum/ aspicit et vivo scelerantem sanguine fauces.~
+

@@ -1,0 +1,68 @@
+{GETBR}
+
+:COMPARE @SELECTION
+     TO "S"
+	:RETURN
+
+     TO "D"
+	:SET @STEXT ~display~
+
+     TO "P"
+	:SET @STEXT ~print~
+
+     TO "R"
+	:SET @STEXT ~redirect~
+
+     TO "M"
+	:SET @STEXT ~modification~
+:DONE
+
+:COMPARE @BR
+     TO "?"
+	:SET @TMP ~Current top #ZM queries:~
+	:COMPARE #MAXQUERY
+	     TO "0-#ZM"
+		:SET @TMP ~Current queries:~
+	:DONE
+
+	:PRINT ~@HEADING@TMP\n~
+	:BRS QUERIES USING ~T#ZM~
+	:PRINT ~\n~
+
+	:GET @BR -
+~Enter Query Number for @STEXT; \o2H\f2 for Help; \o2S\f2 to Search [@BD]: ~ -
+	 "H|h|S|s|0-@BDEFAULT|"
+	:PARSE @BR UPPER
+
+	:COMPARE @BR
+	     TO "S"
+		:SET @SELECTION ~S~
+		:RETURN
+	     TO "H"
+		:SET @BR ~?~
+		:MENU ~GETBR_H~
+	     TO ""
+		:SET @BR ~@BDEFAULT~
+	:DONE
+:DONE
+
+:BRS PRINT BACKREF ~@BR~
+:COMPARE #RESULT
+     TO "B"
+	:CLEAR STACK
+	:PRINT ~\n\o5 No documents for query @BR \f5\n~
+	:PAUSE
+	:SET @BR ~?~
+	:MENU
+:DONE
+
+:SET @CAVAIL ~#LEFTOVER~
+:SET @PTEXT ~~
+
+:COMPARE @SELECTION
+     TO "M|P|R"
+	:MENU ~INITD_~
+:DONE
+
+:SET @TMP ~~
+:MENU ~GETPD_~

@@ -1,0 +1,341 @@
+	|1.~  The Mountain of Purgatory is a vast conical
+mountain, rising steep and high from the waters of the Southern
+Ocean, at a point antipodal to Mount Sion in Jerusalem.  In Canto
+III. 14, Dante speaks of it as
+
+	                         "The hill
+     That highest tow'rds the heaven uplifts itself";
+
+and in ^Paradiso~, XXVI. 139, as
+
+     "The mount that rises highest o'er the wave."
+
+Around it run seven terraces, on which ^are~ punished severally
+the Seven Deadly ^Sins.~  Rough stairways, cut in the rock,
+^lead~ up from terrace to terrace, and on the summit it the
+garden of the Terrestial Paradise.
+
+	The Seven Sins punished in the Seven Circles are, -- 1.
+Pride; 2. Envy; 3. Anger; 4. Sloth; 5. Avarice and Prodigality;
+6. Gluttony; 7. Lust.
+
+	The threefold division of the Purgatorio, marked only by
+more elaborate preludes, or by a natural pause in the action of
+the poem, is, -- 1. From Canto I. to Canto IX.; 2. From Canto IX.
+to Canto XXVIII.; 3. From Canto XXVIII. to the end.  The first of
+these divisions describes the region lying outside the gate of
+Purgatory; the second, the Seven Circles of the mountain; and the
+third, the Terrestrial Paradise on its summit.
+
+     "Traces of belief in a Purgatory," says Mr. Alger, ^Doctrine
+     of a Future Life~, p. 410, "early appear among the
+     Christians.  Many of the gravest Fathers of the first five
+     centuries naturally conceived and taught, -- as is indeed
+     intrinsically reasonable, -- that after death some souls
+     will be punished for their sins until they are cleansed, and
+     then will be released from pain.  The Manichaeans imagined
+     that all souls, before returning to their native heaven,
+     must be borne first to the moon, where with good waters they
+     would be washed pure from outward filth, and then to the
+     sun, where they would be purged by good fires from every
+     inward stain.  After these lunar and solar lustrations, they
+     were fit for the eternal world of light.  But the conception
+     of Purgatory as it was held by the early Christians, whether
+     orthodox Fathers or heretical sects, was merely the just and
+     necessary result of applying to the subject of future
+     punishment the two ethical ideas that punishment should
+     partake of degrees proportioned to guilt, and that it should
+     be restorative.....
+
+     "Pope Gregory the Great, in the sixth century, -- either
+     borrowing some of the more objectionable features of the
+     Purgatory-doctrine previously held by the heathen, or else
+     divising the same things himself from a perception of the
+     striking adaptedness of such notions to secure an enviable
+     power to the Church, -- constructed, established, and gave
+     working efficiency to the dogmatic scheme of Purgatory ever
+     since firmly defended by the Papal adherents as an integral
+     part of the Roman Catholic system.  The doctrine as matured
+     and promulgated by Gregory, giving to the representatives of
+     the Church an almost unlimited power over Purgatory, rapidly
+     grew into favor with the clergy, and sank with general
+     conviction into the hopes and fears of the laity."
+
+	|9.~  The Muse "of the beautiful voice," who presided
+over eloquence and heroic verse.
+
+	|11.~  The nine daughters of Pierus, king of Macedonia,
+called the Pierides.  They challenged the Muses to a trial of
+skill in singing, and being vanquished were changed by Apollo
+into magpies.  Ovid, ^Met.~ V., Maynwaring's Tr.: --
+
+	               "Beneath their nails
+     Feathers they feel, and on their faces scales;
+     Their horny beaks at once each other scare,
+     Their arms are plumed, and on their backs they bear
+     Pied wings, and flutter in the fleeting air.
+     Chatt'ring, the scandal of the woods, they fly,
+     And there continue still their clam'rous cry:
+     The same their eloquence, as maids or birds,
+     Now only noise, and nothing then but words."
+
+	|15.~  The highest heaven.
+
+	|19.~  The planet Venus.
+
+	|20.~  Chaucer, ^Knightes Tale~: --
+
+     "The besy larke, the messager of day,
+     Saleweth in hire song the morwe gray,
+     And firy Phebus riseth up so bright,
+     That all the orient laugheth of the sight."
+
+	|23.~  The stars of the Southern Cross.  Figuratively the
+four cardinal virtues, Justice, Prudence, Fortitude, and
+Temperance.  See Canto XXXI. 106: --
+
+     "We here are Nymphs, and in the Heaven are stars."
+
+The next line may be interpreted in the same figurative sense.
+
+	Humboldt, ^Personal Narrative~, II. 21, Miss Williams's
+Tr., thus describes his first glimpse of the Southern Cross.
+
+     "The pleasure we felt on discovering the Southern Cross was
+     warmly shared by such of the crew as had lived in the
+     colonies.  In the solitude of the seas, we hail a star as a
+     friend from whom we have long been separated.  Among the
+     Portuguese and the Spaniards peculiar motives seem to
+     increase this feeling; a religious sentiment attaches them
+     to a constellation, the form of which recalls the sign of
+     the faith planted by their ancestors in the deserts of the
+     Nes World.
+
+     "The two great stars which mark the summit and the foot of
+     the Cross having nearly the same right ascension, it follows
+     hence, that the constellation is almost perpendicular at the
+     moment when it passes the meridian.  This circumstance is
+     known to every nation that lives beyond the tropics, or in
+     the Southern hemisphere.  It has been observed at what hour
+     of the night, in different seasons, the Cross of the South
+     is erect or inclined.  It is a time-piece that advances very
+     regularly near four minutes a day, and no other group of
+     stars exhibits, to the naked eye, an observation of time so
+     easily made.  How often have we heard our guides exclaim in
+     the savannahs of Venezuela, or in the desert extending from
+     Lima to Truxillo, `Midnight is past, the Cross begins to
+     bend!' How often those words reminded us of that affecting
+     scene, where Paul and Virginia, seated near the source of
+     the river of Lataniers, conversed together for the last
+     time, and where the old man, at the sight of the Southern
+     Cross, warns them that it is time to separate."
+
+	|24.~  By the "primal people" Dante does not mean our
+first parents, but "the early races which inhabited Europe and
+Asia," says Mr. Barlow, ^Study of Dante~, and quotes in
+confirmation of his view the following passage from Humboldt's
+^Cosmos~, II.:
+
+     "In consequence of the precession of the equinoxes, the
+     starry heavens are continually changing their aspect from
+     every portion of the earth's surface.  The early races of
+     mankind beheld in the far north the glorious constellations
+     of the southern hemisphere rise before them, which, after
+     remaining long invisible, will again appear in those
+     latitudes after a lapse of thousands of years. ....The
+     Southern Cross began to become invisible in 52+o~ 30' north
+     latitude 2900 years before our era, since, according to
+     Galle, this constellation might previously have reached an
+     altitude of more than 10+o.~  When it disappeared from the
+     horizon of the countries of the Baltic, the great Pyramid of
+     Cheops had already been erected more than 500 years."
+
+	|30. Iliad~, XVIII.: "The Pleiades, and the Hyades,
+and the strength of Orion, and the Bear, which likewise they call
+by the appellation of the Wain, which there turns round and
+watches Orion; and it alone is deprived of the baths of Oceanus."
+
+	|31.~  Cato of Utica.  "Pythagoras escapes, in the
+fabulous hell of Dante," says Sir Thomas Brown, ^Urn Burial~,
+IV., "among that swarm of philosophers, wherein, whilst we meet
+with Plato and Socrates, Cato is found in no lower place than
+Purgatory."
+
+	In the description of the shield of AEneas, ^AEneid~,
+VII., Cato is represented as presiding over the good in the
+Tartarean realms: "And the good apart, Cato dispensing laws to
+them."  This line of Virgil may have suggested to Dante the idea
+of making Cato the warden of Purgatory.
+
+	In the ^Convito~, IV. 28, he expresses the greatest
+reverence for him.  Marcie returning to him in her widowhood, he
+says, "symbolizes the noble soul returning to God in old age."
+And continues: "What man on earth was more worthy to symbolize
+God, than Cato?  Surely none"; -- ending the chapter with these
+words: "In his name it is beautiful to close what I have had to
+say of the signs of nobility, because in him this nobility
+displays them all through all ages."
+
+	Here, on the shores of Purgatory, his countenance is
+adorned with the light of the four stars which are the four
+virtues, Justice, Prudence, Fortitude, and Temperance, and it is
+foretold of him, that his garments will shine brightly on the
+last day.  And here he is the symbol of Liberty, since, for her
+sake, to him "not bitter was death in Utica"; and the meaning of
+Purgatory is spiritual Liberty, or freedom from sin through
+purification, "the glorious liberty of the children of God."
+Therefore in thus selecting the "Divine Cato" for the guardian of
+this realm, Dante shows himself to have greater freedom than the
+critics, who accuse him of "a perverse theology in saving the
+soul of an idolater and suicide."
+
+	|40.~  The "blind river" is Lethe, which by sound and not
+by sight had guided them through the winding cavern from the
+centre of the earth to the surface.  Inf. XXXIV. 130.
+
+	|42.~  His beard.  Ford, ^Lady's Trial~:
+
+	                    "Now the down
+     Of softness is exchanged for plumes of age."
+
+	Dante uses the same expression, Inf. XX. 45, and
+Petrarca, who became gray at an early period, says:
+
+     "In such a tenebrous and narrow cage
+     Were we shut up, and the accustomed plumes
+     I changed betimes, and my first countenance."
+
+	|52.~  Upon this speech of Virgil to Cato, Mr. Barlow,
+^Study of Dante~, remarks: "The eight book of the Tesoro of
+Brunetto Latini is headed, ^Qui comincia la Rettorica che
+c'insegna a ben parlare, e di governare citt$a e popoli.~  In
+this art Dante was duly instructed by his loving master, and
+became the most able orator of his era in Italy.  Giov. Villani
+speaks of him as ^retorico perfetto tanta in dittare e
+versificare come in aringhiera a parlare.~  But without this
+record and without acquaintance with the poet's political
+history, knowing nothing of his influence in debates and
+councils, nor of his credit at foreign courts, we might, from the
+occasional speeches in the Divina Commedia, be fully assured of
+the truth of what Villani has said, and that Dante's words and
+manner were always skilfully adapted to the purpose he had in
+view, and to the persons whom he addressed.
+
+     "Virgil's speech to the venerable Cato is a perfect specimen
+     of pursuasive eloquence.  The sense of personal dignity is
+     here combined with extreme courtesy and respect, and the
+     most flattering appeals to the old man's well-known
+     sentiments, his love of liberty, his love of rectitude, and
+     his devoted attachment to Marcia, are interwoven with
+     irresistible art; but though the resentment of Cato at the
+     approach of the strangers is thus appeased, and he is
+     persuaded to regard them with as much favor as the severity
+     of his character permits, yet he will not have them think
+     that his consent to their proceeding has been obtained by
+     adulation, but simply by the assertion of power vouchsafed
+     to them from on high, --
+
+     Ma se donna del Ciel ti muove e regge,
+       Come tu di', non c'$e mestier lusinga:
+       Bastiti ben, che per lei mi richegge.
+
+In this also the consistency of Cato's character is maintained;
+he is sensible of the flattery, but disowns its influence."
+
+	|77.~  See Inf., V. 4.
+
+	|78.~  See Inf., IV. 128.  Also ^Convito~, IV. 28: "This
+the great poet Lucan shadows forth in the second book of his
+Pharsalia, when he says that Marcia returned to Cato, and
+besought him and entreated him to take her back in his old age.
+And by this Marcia is understood the noble soul."
+
+	Lucan, ^Phars.~, II., Rowe's Tr.: --
+
+     "When lo! the sounding doors are heard to turn,
+     Chaste Martia comes from dead Hortensius' urn.
+     .....
+     Forth from the monument the mournful dame
+     With beaten breasts and locks dishevelled came;
+     Then with a pale, dejected, rueful look,
+     Thus pleasing to her former lord she spoke.
+     .....
+     `At length a barren wedlock let me prove,
+     Give me the name without the joys of love;
+     No more to be abandoned let me come,
+     That Cato's wife may live upon my tomb.'"
+
+	|95.~  A symbol of humility.  Ruskin, ^Mod. Painters~,
+III. 232, says: "There is a still deeper significance in the
+passage quoted, a little while ago, from Homer, describing
+Ulysses casting himself down on the ^rushes~ and the corn-giving
+land at the river shore, -- the rushes and corn being to him only
+good for rest and sustenance, -- when we compare it with that in
+which Dante tells us he was ordered to descend to the shore of
+the lake as he entered Purgatory, to gather a ^rush~, and gird
+himself with it, it being to him the emblem not only of rest, but
+of humility under chastisement, the rush (or reed) being the only
+plant which can grow there; -- `no plant which bears leaves, or
+hardens its bark, can live on that shore, because it does not
+yield to the chastisement of its waves.'   It cannot but strike
+the reader singularly how deep and harmonious a significance runs
+through all these words of Dante, -- how every syllable of them,
+the more we penetrate it, becomes a seed of farther thought!  For
+follow up this image of the girding with the reed, under trial,
+and see to whose feet it will lead us.  As the grass of the
+earth, thought of as the herb yielding seed, leads us to the
+place where our Lord commanded the multitude to sit down by
+companies upon the green grass; so the grass of the waters,
+thought of as sustaining itself among the waters of affliction,
+leads us to the place where a stem of it was put into our Lord's
+hand for his sceptre; and in the crown of thorns, and the rod of
+reed, was foreshown the everlasting truth of the Christian ages,
+-- that all glory was to be begun in suffering, and all power in
+humility."
+
+	|115.~  Ruskin, ^Mod. Painters~, III. 248:
+
+     "There is only one more point to be noticed in the Dantesque
+     landscape; namely, the feeling entertained by the poet
+     towards the sky.  And the love of mountains is so closely
+     connected with the love of clouds, the sublimity of both
+     depending much on their association, that, having found
+     Dante regardless of the Carrara mountains as seen from San
+     Miniato, we may well expect to find him equally regardless
+     of the clouds in which the sun sank behind them.
+     Accordingly, we find that his only pleasure in the sky
+     depends on its `white clearness,' -- that turning into
+     ^bianco aspetto di celestro~, which is so peculiarly
+     characteristic of fine days in Italy.  His pieces of pure
+     pale light are always exquisite.  In the dawn on the
+     purgatorial mountain, first, in its pale white, he sees the
+     ^tremolar della marina~, -- trembling of the sea; then it
+     becomes vermilion; and at last, near sunrise, orange.  These
+     are precisely the changes of a calm and perfect dawn.  The
+     scenery of Paradise begins with `day added to day,' the
+     light of the sun so flooding the heavens, that `never rain
+     nor river made lake so wide'; and throughout the Paradise
+     all the beauty depends on spheres of light, or stars, never
+     on clouds.  But the pit of the Inferno is at first sight
+     obscure, deep, and so ^cloudy~ that at its bottom nothing
+     could be seen. When Dante and Virgil reach the marsh in
+     which the souls of those who have been angry and sad in
+     their lives are forever plunged, they find it covered with
+     thick fog; and the condemned souls say to them,
+
+	             `We once were sad,
+     In the ^sweet air, made gladsome by the sun.~
+     Now in these murky settlings are we sad.'
+
+     Even the angel crossing the marsh to help them is annoyed by
+     this bitter marsh smoke, ^fummo acerbo~, and continually
+     sweeps it with his hand from before his face."
+
+	|123.~  Some commentators interpret ^Ove adorezza~, by
+"where the wind blows."  But the blowing of the wind would
+produce an effect exactly opposite to that here described.
+
+	|135. AEneid~, VI.: "When the first is torn off, a
+second of gold succeeds; and a twig shoots forth leaves of the
+same metal."
+

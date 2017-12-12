@@ -1,0 +1,993 @@
+	|1.  Por$ia~: potrebbe; voce naturale, non licenza
+poetica.  Cfr. ^Nannuc.~ ^Anal. crit.~ pag. 658 e seg. e Inf. XX,
+69.  -- |Pur~: anche in prosa, nella quale @e pi@u facile esprimere
+i suoi concetti.  -- |Sciolte~: non obbligate alle leggi del
+metro e della rima.  ^Verba soluta modis.~  Ovid. Trist. IV, 10.
+
+	|2.  Dicer~: dire.  ^Dicere~ si disse anticamente e si
+usa ancora dai Napolitani.  Cfr. ^Nannuc.~ ^Anal. crit.~ pag.
+581.
+
+     ^Quis cladem illius noctis, quis funera fando~
+     ^Explicet, aut possit lacrimis aequare labores~?
+      ^Virg.~ ^Aen.~ l. II, v. 361, 362.
+
+	|3.  Ch'i'~: che io.  -- |Ora~: quando fummo giunti sul
+colmo dello scoglio che soverchia la nona bolgia.  -- |Per~:
+quantunque ne rinnovasse pi@u volte il racconto.  Chi mai
+potrebbe, nonch@e in versi, ma in prosa, ed anche rifacendosi pi@u
+volte a descriver la medesima cosa, dire appieno delle piaghe e
+del sangue che io vidi?
+
+	|4.  Ogni lingua~: cfr. ^Virg.~ ^Aen.~ l. VI, v. 624-627:
+
+     ^Non, mihi si linguae centum sint, oraque centum~,
+     ^Ferrea vox, omnis scelerum conprendere formas~,
+     ^Omnia poenarum percurrere nomina possim.~
+
+	|5.  Per lo nostro sermone~: a motivo del nostro umano
+linguaggio, che non ha vocaboli abili ad esprimere adeguatamente
+tante e tante cose.  ^Diligenter enim notandum est, quod dicit~,
+NESCIT ^et~ NEQUIT.  ^Nescit quia oblitus, nequit, quia, si
+recordatur et contentum tenet, sermo tamen deficit.  Multa namque
+per intellectum videmus, quibus signa vocalia desunt.~  Dant. Ep.
+Kani Grandi, {paragraph.} 29.  -- |Mente~: ragione, intendimento. 
+<L'anima ha tre potenze, cio@e vivere, sentire e ragionare.... 
+Queste potenze sono intra s@e per modo, che l'una @e fondamento
+dell'altra... la vegetativa della sensitiva, la sensitiva della
+intellettiva, cio@e della ragione....  In questa nobilissima parte
+dell'anima (^la sensitiva~) sono pi@u virt@u....  E tutte queste
+nobilissime virt@u, e l'altre che sono in quella eccellente
+potenzia, si chiama insieme con questo vocabolo (|mente~)... per
+che @e manifesto che per |Mente~ s'intende questa ultima e
+nobilissima parte dell'anima> (^l'intellettiva~, cio@e ^la
+ragione~).  Conv. tr. III, c. 2.
+
+	|6.  Seno~: capacit@a, ricettacolo.  <Come grande seno
+comprende grandi cose, cos@i lo piccolo seno comprende piccole
+cose.>  ^Buti.  <|Seno~ propriamente significa ^cavit@a~; ma qu@i
+dee intendersi per capacit@a.>  ^Lomb.~
+
+	|7.  Ancor~: In sentenza: Quand'anche tutte le genti che
+in var#i tempi caddero sui campi di Puglia, combattendosi Pugliesi
+e Romani, Romani e Cartaginesi, si radunassero insieme coi
+saraceni disfatti da Roberto Guiscardo, e assieme colla gente che
+per@i nelle battaglie di Ceperano e di Tagliacozzo, e tutta questa
+gente insieme adunata mostrasse chi un membro forato e chi un
+membro mozzo, essa gente non presenterebbe uno spettacolo da
+agguagliarsi a quello presentato dalla nona bolgia.
+
+	|8.  Fortunata~: fortunosa, soggetta alle vicende della
+fortuna; dal verbo ^fortunare~ -- mettere a fortuna (cfr.
+^Polidori~: ^Tav. Rit.~ Vol. II, pag. 85 s. v. ^fortunale~;
+^Dionisi~: ^Serie di Aneddoti~, No. II, Veron. 1786, pag. 12).
+
+	|9.  Fu~.... |Dolente~: sent@i il dolor delle ferite,
+dello sparso suo sangue.  |Puglia~ @e il nome di tutto il paese
+italiano che dopo gli Abruzzi si stende a oriente fino ad
+Otranto.
+
+	|10.  Per~: sparso per li Troiani, cio@e il ^sangue~, v.
+9.  -- |Troiani~: al. ^Romani~, ma @e correzione di copisti. 
+Dante partecipa alla credenza dei suoi coetanei, che i Romani
+discendessero dai Troiani, venuti in Italia con Enea.  E
+|Troiani~ chiama sovente i Romani anche ne' suoi scritti in
+prosa.  Allude alle guerre Sannitiche fatte nel corso del secondo
+secolo dopo lo stabilimento della Repubblica nelle quali perirono
+molte migliaia di uomini.  Cfr. ^T. Liv.~ ^Hist.~ l. X, c. 9 e
+seg. e la Storia Romana.  -- |Lunga guerra~: la seconda guerra
+punica; |lunga~ perch@e dur@o tre lustri (218-202 a. Ch. n.).  ^T.
+Liv.~ ^Hist.~ l. XXII, XXIII.
+
+	|11.  Anella~: tratte dalle dita de' Romani uccisi nella
+sanguinosa battaglia di Canne (^Liv.~ l. XXII, c. 26; ^Polib.~ l.
+III, pag. 255-268), nella quale perirono sessantaduemila uomini
+(secondo ^Polib.~, secondo ^Liv.~ circa 43 mila).  ^Ad fidem
+deinde tam laetarum rerum, effundi in vestibulo curiae jussit
+annulos aureos; qui tantus acervus fuit, ut metientibus dimidium
+super tres modios explesse, sint quidam auctores.  Fama tenuit,
+quae propior vero est, haud plus fuisse modio.~  ^T. Liv.~ ^Hist.~
+l. XXIII, c. 7.  <E non pose Iddio le mani quando per la guerra
+d'Annibale, avendo perduti tanti cittadini che tre moggia
+d'anella in Affrica erano portate, li Romani vollero abbandonare
+la terra ecc.>  ^Dant.~ ^Conv.~ tr. IV, c. 5.
+
+	|12.  Non erra~: essendo storico degno di fede.  Ma
+oggigiorno non @e pi@u tenuto per troppo veritiero.
+
+	|13.  Quella~: gente.  -- |Sent@i~: sent@i il dolore delle
+ferite, delle percosse.
+
+	|14.  Per contrastare~: per aver contrastato, per volersi
+opporre.  -- |Roberto Guiscardo~: fratello di Ricciardo duca di
+Normandia, debell@o i Saraceni e si fece duca di Puglia.  Cfr. ^G.
+Vill.~ l. IV, c. 18, 19; ^H. Leo~, ^Gesch. der ital. Staaten~,
+Vol. I, pag. 448 e seg., e la storia di que' tempi.
+
+	|15.  L'altra~: gente.
+
+	|16.  Ceperan~: avendo inteso la venuta di Carlo d'Angi@o,
+Manfredi <mise tutto suo studio alla guardia de' passi del regno,
+e al passo al ponte Cepperano mise il conte Giordano e quello di
+Caserta> (^G. Vill.~ l. VII, c. 5).  Quest'ultimo, quantunque
+fosse cognato di Manfredi, lo trad@i non volendo difendere il
+passo, che fu preso da Carlo (^G. Vill.~ l. c.).  Ci sembra fuor
+di dubbio che Dante allude qu@i alla famosa battaglia di
+Benevento.  Presso Ceperano non ebbe luogo battaglia alcuna.  Ma
+Dante non fu solo a confondere insieme i due avvenimenti.  Il
+^Postill. Cass.~ racconta: ^Karolus rex apulie posuit in
+conflictu regem manfredum apud terram Ceperani.~  E nel ^Chron.
+Astens.~ (^ap. Murator. Rer. Ital. Script.~ Vol. XI, pag. 158) si
+legge: ^Ed ad Pontem Ceperani obtinuit in campo, et mortuus est
+ibi Manfredus cum exercitu suo.~  Secondo ^Petr. Dant.~ la
+battaglia ebbe luogo ^apud Ceperanum et Beneventum.~  Altri
+raccontano di una gran battaglia a Ceperano, che abbia preceduto
+quella di Benevento.  ^Manfredus venit cum exercitu magno ad
+Pontem Ceperani.  Tunc exivit ei obviam Carolus cum sua militia,
+et abstulit ei Pontem praedictum, et Castrum Sancti Germani. 
+Manfredus vero recollegit se cum sua gente, expedita versus
+Beneventum, quem Carolus ibidem insequitur, pugnaturus cum eo.~ 
+(^Annal. Ptol. Lucens. ap. Murat.~ l. c. Vol. XI, pag. 1284.)  Il
+vero @e, come ognun sa, che a Ceperano non ebbe luogo
+combattimento.  Ma forse Dante nomina Ceperano per alludere al
+tradimento del conte di Caserta, non ignorando egli che Manfredi
+cadde a Benevento; cfr. ^Purg.~ III, 128.  -- |Fu bugiardo~:
+abbandonando Manfredi, al quale avean giurato fede.  <La maggior
+parte de' baroni pugliesi... si fallirono e Manfredi,
+abbandonandolo e fuggendosi.>  ^G. Vill.~ l. VII, c. 9, cfr.
+^Ricob. Ferrar.~ ^Hist. Imp. ap. Murat.~ l. c. Vol. IX, pag. 135.
+
+	|17.  Tagliacozzo~: castello nell'Abruzzo Aquilano,
+presso il quale il 23 agosto 1268 Corradino fu sconfitto da Carlo
+d'Angi@o.
+
+	|18.  Alardo~: Alardo di Valleri, cavaliere francese <di
+grande senno e prodezza>.  Ai consigli di costui Carlo d'Angi@o
+dovette principalmente la vittoria di Tagliacozzo.  Disse al re
+Carlo, se volesse essere vincitore gli conven$ia usare maestria di
+guerra pi@u che forza: il re Carlo confidandosi molto nel senno di
+Alardo, al tutto gli commise il reggimento dell'oste e della
+battaglia, il quale ordin@o della gente del re tre schiere, delle
+quali due ne mand@o a combattere coll'esercito di Corradino, e la
+terza, <il re Carlo col fiore della sua cavalleria e baron$ia, di
+quantit@a di ottocento cavalieri, fece riporre un agguato dopo uno
+colletto in una vallea.>  Le due prime schiere furono sconfitte
+da Corradino e dai suoi, i quali, dopo la vittoria ottenuta tutto
+occupati a far bottino, furono assaliti e sconfitti dalla terza
+schiera.  Cfr. ^G. Vill.~ l. VII, c. 26, 27.
+
+	|19.  Qual~: di tutta quella gente di cui si parla dal v.
+7 al 18.
+
+	|20.  D'aequar~: cos@i scrivo col Fanfani, fondandomi sui
+versi di Virgilio citati nella nt. al v. 2.  Al. ^da equar.~  I
+codici hanno semplicemente ^daequar~, che si pu@o leggere nell'uno
+e nell'altro modo.  La lezione ^adequar~, che @e pure di alcuni
+codici, conforta il ^da equar~; la lezione comune ^d'agguagliar~
+sente troppo di correzione.  Senso: tutte quelle genti e le loro
+ferite sarebber nulla in confronto colle genti e ferite della
+nona bolgia.
+
+	|22.  Veggia~: botte; voce d'origine ignota; ^vezza~ e
+^vezzia~ in significato di ^botte~ vive nel Bergamasco.  --
+|Mezzul~: mezzule, apertura quadrangolare, larghetta, fatta in
+uno de' fondi della botte, per poterla pi@u agevolmente ripulire
+al di dentro.  Cfr. ^Carena~, ^Vocab. dom.~  -- |Lulla~: quella
+parte del fondo della botte che dal mezzule si congiunge
+all'estrema parte.
+
+	|23.  Pertugia~: fora.  <Una botte ch'abbia perduto o
+levato il mezzule, o quella doga laterale ch'@e dalle latora, che
+si chiama lulla, non pare aperta come quivi il peccatore fesso
+dal mento infino all'anche.>  ^An. Fior.~
+
+	|24.  Rotto~: pertugiato, fesso, spaccato.  -- |Si
+trulla~: si tira coregge.
+
+	|25.  Minugia~: le interiora, le budella.  |Minugia~ si
+disse anticamente anche in prosa.  Cfr. ^Nannuc.~ ^Teor. dei
+nomi~, pag. 313, 757.
+
+	|26.  Corata~: fegato, cuore e polmone.  -- |Pareva~:
+appariva, si vedeva.  -- |Tristo~: lordo, fetente.  Cfr. ^Luc.~
+^Phars.~ IX, 773 e seg.:
+
+     ^Dissiluit stringens uterum membrana, fluuntque~
+     ^Viscera: nec, quantum toto de corpore debet~,
+     ^Effluit in terras; saevum sed membra venenum~
+     ^Decoquit: in minimum mors contrahit omnia virus.~
+     ^Vincula nervorum, et laterum textura~ (scil. effluunt), ecc.
+
+|Sacco~: lo stomaco, o, forse meglio, l'intestino cieco.
+
+	|27.  Trangugia~: mangia e beve.  <Trangugiare @e mandar
+giuso.>  ^Buti.~
+
+	|28.  M'attacco~: mi fisso.  Mentre io stava tutto
+attento a mirarlo con occhio fisso.  Cfr. ^Virg.~ ^Aen.~ I, 495:
+
+     ^Dum stupet, obtutuque haeret defixus in uno.~
+
+	|30.  Dilacco~: da ^dilaccare~ -- levar le lacche, cio@e
+le cosce.  Vedi come io mi dilacero, spacco, squarcio.
+
+	|31.  Storpiato~: altre lez. ^scoppiato~, ^scempiato~,
+^scipato.~  I pi@u tengono |storpiato~, ad eccezione naturalmente
+di quel tal Scarabelli, che la sa sempre pi@u lunga di tutti gli
+altri, e la farebbe da maestro a Dante stesso.  |Storpiato~
+significa qu@i: guasto nelle membra, come bene spiega il ^Lomb.~ 
+-- |Maometto~: il fondatore dell'Islamismo, n. a Mecca 560, m. a
+Medina 633.  Al. ^Macometto.~
+
+	|32.  Al@i~: ^Ali Ebn Abi Talib~, cognominato ^Assad Ollah
+el Ahalib~ (-- Leone del Dio vincitore) e ^Murtadhi~ (-- grato a
+Dio), cugino, genero e uno de' primi seguaci di Maometto, nato
+597, ucciso nel 660.  Fece una setta da s@e.
+
+	|33.  Ciuffetto~: ciocca di capegli sulla fronte.  Al@i ha
+appunto quella parte del corpo fessa che Maometto ha ancora
+intiera avendo egli seminato scisma fra i Maomettani stessi. 
+Maometto ha fesso il corpo, avendo egli seminato scisma nei
+popoli; Al@i ha fesso il capo, avendo egli seminato scisma
+principalmente fra i capi della setta maomettana.  ^Pro mensura
+peccati erit et plagarum modus.~  Deut. XXV, 2.  Invece di
+|fesso~ alcuni Codd. ed ediz. hanno ^rotto~, e lo Scarabelli
+sentenzia: <tal variet@a non pu@o essere avvenuta che per
+pentimenti e rimutamenti del Poeta> (!!).  Eh s@i, se Dante fosse
+stato un dottor di lingua nato in una notte come il fungo, come @e
+lei, sor Luciano!  Ma, grazie a Dio, egli era un'altra pasta di
+uomo che non aveva bisogno di ^pentirsi~, come ne avrebbe bisogno
+lei qualora ne fosse capace.
+
+	|35.  Scandalo~: discordia, scissura, inimicizia.  --
+|Scisma~: scissura religiosa; usasi per@o talvolta anche per
+scissura civile; gr. %sigma%chi%iota%sigma%mu%alpha\ --
+^divisio~, ^sectio~, da %sigma%chi%iota%xi%varepsilon%iota%nu\ --
+^scindere~, ^dividere.~
+
+	|36.  Vivi~: mentre vissero su nel mondo.  -- |E per@o~:
+la pena corrisponde alla colpa.  Ma le pene dell'inferno Dantesco
+sono nello stesso tempo, come gi@a pi@u volte osservammo, una
+rivelazione dello stato interno de' peccatori.  La disarmonia
+interna @e quella che crea i seminatori di scandali e di scismi; e
+questa disarmonia si mostra sensibilmente nelle pene dei
+peccatori di questa bolgia.
+
+	|37.  Accisma~: acconcia.  |Accismare~ dal provenzale
+^azesmar~ o ^asesmar~ -- ^adaestimare~, calcolare, p. es. ^a son
+colp azesmat~ -- ha calcolato il suo colpo (^Ferabras~, ^ed.
+Bekker~, 1636).  Da ^azesmar~ deriva il franc. antico ^acesmer~,
+ordinare, p. es. ^acesmer la bataille~, il genov. ant. ^acesmar~
+(cfr. ^Arch. stor. it.~, No. 18, pag. 34, 39), e l'|accismare~
+usato qu@i da Dante (cfr. ^Diez~: ^Etym. W,orterb.~, 3+o~ ediz. Vol.
+I, pag. 164).  ^G. Galvani~ (^Lezioni Accadem.~ Modena 1840, Vol.
+II, pag. 31-50, cfr. ^Saggio di alcune postille alla D. C.~ Mod.
+1828, pag. 7, 8) e con lui il ^Nannucci~ (^Anal. crit.~ pag. 31
+nt. 3) ed altri, derivano pure il verbo da ^azesmar~, ma mentre
+il secondo spiega con noi ^acconciare~, ^conciare~, il primo
+spiega ^adornare~, ^abbigliare~ ecc., e vuole che il termine sia
+qu@i adoperato a modo di dolorosa ironia <come dicesse: @e qu@i
+dietro un diavolo che ne abbiglia di questo modo crudele.>  Ma
+^azesmar~ non significa ^ornare.~  Al. -- ^divide e taglia~, che
+non ha fondamento nell'etimologia.  Curiosa poi @e la chiosa di
+^Vinc. Buonanni.~  Egli legge: ^Un diavolo @e qu@a dietro che ne
+scisma~, e continua: <cos@i ho trovato a credo si debba leggere,
+perch@e scisma vuol dire divisione, e io lo piglio qu@i per verbo,
+cio@e: un diavolo @e qua dietro che ferisce, taglia, e divide.  E
+vedete ch'egli soggiugne |al taglio della spada.~>  Ma |al taglio
+della spada~ vuol unirsi col ^Rimettendo~ del v. 39.
+
+	|39.  Rimettendo~: ferendo di nuovo, tornando sempre a
+tagliar colla spada.  <Il modo di dire @e vulgarissimo, perch@e
+s'usa continovo: ^metter a fil di spada~; ma dice |rimettendo~,
+perch@e le ferite si richiudevano, prima che alcuno gli ritornasse
+davanti.>  ^Dan.~  -- |Risma~: propriamente un numero determinato
+di fogli di carta, qu@i per ^ciurma~, ^turba~ ecc.  <Il diavolo li
+taglia quasi una risma di fogli del gran volume infernale.> 
+^Tom.~  Ecce Angelus Dei accepta sententia ab eo, scindet te
+medium.~  Dan. XIII, 55.
+
+	|40.  Avem~: abbiamo.  ^Avemo~ @e voce primitiva da
+^avere~, usata innumerevoli volte dagli antichi.  Cfr. ^Nannuc.~
+^Anal. crit.~ pag. 93 e seg. 483 e seg.  -- |V#olta~: aggirata a
+tondo; da ^volgere.~  -- |Strada~: il giro della bolgia.
+
+	|41.  Richiuse~: rimarginate.  Per via le ferite si
+rimarginano; al passo vengon di nuovo aperte.  Cos@i la pena dura
+eternamente.
+
+	|42.  Prima~: prima che alcuno di noi ritorni a dover
+passare dinanzi a quel diavolo.  Sembra che le ferite si
+richiudano prima dell'ordinario, e questo affinch@e tanto pi@u
+sovente si rinuovi la pena.  -- |Altri~: alcuno.
+
+	|43.  Muse~: musi; da ^musare~ che in senso proprio vale
+^avere, tenere il muso~ (-- viso) ^fisso verso un luogo, guardar
+fissamente.~  E dante ci ha gi@a detto al v. 28 che egli era tutto
+attaccato in guardare Maometto.  Cfr. ^Nannuc.~ ^Anal. crit.~
+pag. 63 e seg.
+
+	|45.  Giudicata~: cfr. ^Inf.~ c. V, v. 7 e seg.  Secondo
+le colpe di cui tu stesso hai dovuto accusarti a Minosse.
+
+	|46.  Il giunse~: lo colse.  Non @e morto e non va per
+esser tormentato.
+
+	|47.  Tormentarlo~: le colpe stesse son quelle che
+tormentano; i demoni simboleggiano le colpe.
+
+	|48.  Lui~: a lui.  Cfr. Inf. I, 81 nt.
+
+	|50.  Di giro~: di cerchio in cerchio; cfr. ^Inf.~ X, 4;
+XVI, 2.
+
+	|52-54.  Pi@u~: furono pi@u di cento di quelle anime gi@u
+nella bolgia che, udite le parole di Virgilio, si fermarono
+maravigliate a guardarmi, dimenticando per maraviglia il proprio
+dolore.  Non avean ancor mai veduto un uomo vivo aggirarsi per
+quelli regioni.  Cfr. ^Inf.~ XII, 80 e seg. ^Purg.~ II, 67 e seg.
+
+	|55.  Di'~: @e Maometto che parla (v. 62) in pro di un par
+suo.  -- |Fra Dolcin~: Dolcino Tornielli di Novara; si faceva
+chiamar ^frate~, quantunque non avesse Ordini sacri (cfr. ^Murat.
+Rer. Ital. Script.~ Vol. IX, pag. 429 nt. 4).  Discepolo di
+Gerardo Segarelli di Parma, e, dopo che questi nel 1296 fu arso
+vivo, capo della setta, fondata da Gerardo nel 1260, che si
+chiamava degli <Apostoli>, o de' <fratelli apostolici>.  Dolcino
+si spacciava per apostolo e profeta, mandato da Dio, andava
+predicando carit@a cristiana (quantunque egli stesso e la sua
+setta non la esercitassero poi pi@u che tanto, cfr. ^Hist. Dulc.
+Haeres.~ ^ap. Murat. Rer. It. Script.~ Vol. IX, pag. 434, 435), e
+la comunanza di tutte le cose, anche delle donne.  ^Quilibet homo
+et quaelibet mulier nudi simul possunt licite jacere in uno et
+eodem lecto, et licite tangere mutuo unus alterum in omni parte
+sui, et osculari se invicem sine omni peccato; et conjungere
+ventrem suum cum ventre mulieris ad nudum, si quis stimuletur
+carnaliter, ut cesset tentatio, non est peccatum~ (^Addit. ad
+Hist. Dulc. ap. Murat.~ l. c. pag. 457).  A Trento, dove erasi
+rifuggito, si guadagn@o a compagna una bella e ricca Tridentina,
+chiamata Margherita, la quale egli pretendeva tenere come
+<sorella in Cristo>, vivendo secolei in concubinato.  ^Tenuit, et
+secum ducebat Amasiam nomine Margaritam, quam dicebat se tenere
+more sororis in Christo provide et honeste.  Et quia fuit
+deprehensa esse gravida, ipse et sui asseruerunt esse gravidam de
+Spiritu Sancto~ (^Murat.~ l. c. pag. 459).  Scacciato da Trento
+si ridusse co' suoi compagni e seguaci tra i monti di Brescia, di
+Bergamo e di Como, e predicando pella Lombardia andava aumentando
+ogni d@i il numero de' suoi seguaci.  ^Convenerunt de diversis
+Mundi partibus homines et mulieres de secta ipsius Dulcini tot et
+tanti, quod fuerunt in numero mille quatuorcentum et ultra~
+(^Murat.~ l. c. pag. 431).  Perseguitato si ricover@o nel 1305 (o
+1306 cfr. ^Murat.~ l. c.) sopra un monte asprissimo ^qui
+appellabatur Mons Zebellus, qui est super locum Triverii Dioecesis
+Vercellensis, nunc vero propter incolatum dictorum haereticorum
+appellatur Mons Gazzarum, sive Fratris Dulcini.~  Clemente V gli
+band@i la crociata contro; Novaresi, Lombardi, Savoiardi,
+Provenzali e Francesi posero l'assedio al monte, ove, stretti
+dalla neve e dalla fame, Dolcino e i suoi furono presi (13 marzo
+1307), e dopo tre mesi circa di carcere (2 giugno 1307) Dolcino e
+Margherita ed altri della setta arsi vivi a Novara.  ^Margarita
+prima fuit combusta super quadam columna alta posita in arena
+servi, et plantata ibi, et ordinata, ut ab omnibus videretur.  Et
+ita combusta fuit praesente ipso Dulcino vidente comburi eam.
+Postmodum Dulcinus, et Longinus praedicti, ligatis manibus et
+pedibus ipsorum, super plaustrum positi, in loco alto, ut ab
+omnibus videri possent, positisque ante eorum conspectum vasibus
+igne plenis ordinatis ad calefaciendum tenabulas, et comburendum
+carnes ipsis, adhibitisque carnificibus, qui cum tenalibus ferri
+candentis carnes eorum laniabant, et frustatim in ignem ponebant,
+ductique fuerunt per plures vias, ut eorum poena longior et
+gravior esset~ (^Murat.~ l. c. pag. 440).  Sulle dottrine e
+profezie di fra Dolcino vedi la ^Historia Dulcini Haeresiarchae~, e
+^Additamentum ad Hist. Fratris Dulcini~ (^ap. Murat. Rer. It.
+Script.~ Vol. IX, pag. 435-437, 450-460).  Nell'^Additamentum~
+sono enumerati venti errori di Gerardo e Dolcino, fra i quali i
+due primi sono: ^Quod tota auctoritas a Domino Nostro Jesu
+Christo collata Romanae Ecclesiae est omnino evacuata, et jamdudum
+cessavit propter malitiam Praelatorum, et quod Ecclesia Romana,
+quam tenent Papa et Cardinales et Clerici et Religiosi, non est
+Ecclesia Dei, sed reprobata Ecclesia sine fructu.  Item, quod
+Ecclesia Romana est illa meretrix, quae a Fide Christi
+apostatavit, de qua scribit Joannes in Apocalypsi.~  (Oltre le
+opere citate vedi ^G. Vill.~ l. VIII, c. 84; ^Pietro Rota~: ^Di
+Fra Dolcino.~  ^Storia del Sec. XIV~, ^Ateneo Ital.~ 1866, pag.
+327 e seg. ^Celesia~: ^Dante in Liguria~, pag. 54 e seg.
+^Baggiolini~: ^Dolcino e i Patareni~, Novara 1838; per le
+dottrine di Dolcino specialmente: ^F. C. Baur~: ^Die christl.
+Kirche des Mittelalters~, T,ubing. 1861, pag. 508-516 e la storia
+ecclesiastica).  Conviene per@o osservare che le relazioni dei
+fatti e delle dottrine di Fra Dolcino furono scritte da' suoi
+nemici, e che una Chiesa che ardeva gli eretici conosceva pure e
+praticava l'arte di attribuire alle infelici sue vittime dottrine
+che esse mai professarono.
+
+	|58.  Di vivanda~: ^si armi di vivanda~ -- si fornisca di
+vettovaglia.  -- |Stretta di neve~: nevata, gran caduta di nevi.
+
+	|59.  Al Noarese~: ai Novaresi.
+
+	|60.  Altrimenti~: non sarebbe facile ai Novaresi
+ottenere la vittoria altramente che per stretta di neve.  ^A
+nemine expugnari poterant, nec aliquem hominem timebant, dummodo
+tamen haberent victualia~ (^Hist. Dulc. Haeres. ap. Murat. Rer.
+It. Script.~ Vol. IX, pag. 432).
+
+	|61.  L'un pi@e~: nell'atto che alzava gi@a un piede per
+continuare il suo giro per ^la dolente strada~ {v.40}.
+
+	|62.  Esta~: questa; il sing. pel plur.  -- ^queste
+parole.~  ^Esto~, |esta~ alla latina per ^questo~, ^questa~
+dissero innumerevoli volte gli antichi.  |Parola~ per ^il
+favellare~, ^l'intero discorso~, usa Dante pi@u volte; cfr. Inf.
+II, 67; VII, 126, ecc.
+
+	|63.  Lo distese~: ponendo in terra il sospeso piede
+compi@e l'incominciato passo.  ^Lomb.~
+
+	|64.  Un'altro~: si nomina al v. 73.  La dipintura di
+costui ricorda quella che Virgilio fa di Deifobo, ^Aen.~ VI, 493
+e seg.:
+
+     ^Atque hic Priam idem laniatum corpore toto~
+     ^De,iphobum vidit, lacerum crudeliter ora~,
+     ^Ora manusque ambas, populataque tempora raptis~
+     ^Auribus, et truncas inhonesto vulnere naris.~
+
+|La gola~: per la quale ment@i, vivendo.
+
+	|65.  Il naso~: che in vita ficcava ne' secreti altrui.
+
+	|66.  Ma' che~: se non che, pi@u che; cfr. ^Inf.~ IV, 26,
+nt.  -- |Un'orecchia~: non avendosi curato di aprirle entrambe
+per porgerne una anche ai consigli del dovere e della lealt@a, ma
+avendone aperta soltanto una per dare ascolto a quanto gli
+consigliava il proprio interesse.
+
+	|67.  Restato~: con quei ^pi@u di cento~, v. 52.  Cfr.
+^Virg.~ ^Aen.~ VI, 486, 487:
+
+     ^Nec vidisse semel satis est: juvat usque morari~,
+     ^Et conferre gradum, et veniendi discere caussas.~
+
+	|68.  Innanzi agli altri~: prima degli altri.  -- |La
+canna~: della gola; |apr@i la canna~ -- parl@o.
+
+	|69.  Vermiglia~: rossa di sangue, avendola forata.
+
+	|70.  Non condanna~: ripete le parole di Virgilio, v. 46.
+
+	|71.  Terra latina~: Italia.  Cfr. ^Inf.~ XXVII, 26, nt.
+
+	|72.  Troppa simiglianza~: se pure tu non somigli troppo
+a persona che io vidi su in terra latina, senza esser poi tu quel
+desso.  Cfr. ^Virg.~ ^Eclog.~ II, 27: ^Si numquam fallat imago.~
+
+	|73.  Pier da Medicina~: della famiglia de' Cattani di
+Medicina, terra nel Bolognese; semin@o discordie tra' suoi
+concittadini, e specialmente tra Guido da Polenta Signor di
+Ravenna, e Malatestino Signor da Rimini.  ^Fuit valde maledicus.~ 
+^Postill. Cass.~  <Questo Piero da Medicina fu uno grandissimo
+seminatore di scisma et di divisione, et fu al tempo
+dell'Auttore; et dicesi di lui ch'egli s'ingegn@o di dividere
+tutti i Signori di Romagna, mettendogli in divisione et in
+scandoli; et ancora assai volte tra cittadini di Bologna.  Il
+modo era questo: egli cavalcava per Romagna; et come quelli
+ch'era molto conosciuto, trovava per la via de' famigli di quelli
+Signori: addimandato da loro, dava al famiglio una lettera et
+dicea: ^Porta questa a messer Malatesta a Rimino~; et nella
+lettera si contenea: ^Guardatevi dall'usanza et dimestichezza di
+messer Guido da Ravenna, e del tale e tal altro Signore~; et poi
+soggiugnea: ^Io verr@o a voi, et dirovvi la cagione.~  A mano a
+mano scrivea a messer Guido il simile; et per questo modo, o per
+simile, s'ingegnava di mettere scandalo dovunque egli potea; e
+bench@e ne ricevesse vergogna assai volte, non se ne rimanea.> 
+^An. Fior.~  <Alla casa di Pietro molte volte and@o l'autor
+nostro.>  ^Benv. Ramb.~  <Homo morditor>.  ^Petr. Dant.~
+
+	|74-75.  Se mai~: nonostante le parole di Virgilio i
+dannati di questa bolgia sembrano ancor sempre dubitare se Dante
+ritorni al mondo s@i o n@o; perci@o dice Maometto v. 56: ^forse
+vedrai il sole~; e Pier da Medicina: ^Se mai torni.~  -- |Dolce
+piano~: la Lombardia, che dal distretto di Vercelli per ispazio
+di pi@u di duecento miglia |dichina~ (-- si abbassa) sino a
+|Marcab@o~, castello edificato sul territorio di Ravenna, presso
+alle foci del Po, distrutto da Ramberto Polentano nel 1308. 
+Chiama la Lombardia |dolce~ piano, e come sua patria e in
+paragone al tristo fondo della bolgia dov'egli adesso si ritrova.
+
+	|76.  Miglior~: pi@u nobili e pi@u valorosi.  -- |Fano~:
+citt@a sul mare Adriatico, distante nove miglia da Pesaro e trenta
+da Rimini.
+
+	|77.  Guido~: Guido del Cassero ed Angiolello da Cagnano. 
+Invitati da Malatestino, Signor di Rimini e fratello del marito
+di Francesca, a venire a parlamento con lui alla Cattolica, borgo
+sull'Adriatico tra Rimini e Pesaro, furono annegati dai marinai,
+per ordine di Malatestino.  <Messer Guido da Fano ed Agnolello
+erano i maggiori uomini di Fano, onde messer Malatestino de'
+Malatesti, che era signore di Rimini, vennegli in pensiero
+d'essere signore di Fano: mostrandosi amico di questi messer
+Guido et Agnolello pens@o, avendo tentato pi@u volte: S'io uccido
+costoro che sono i maggiori, io ne sar@o poi signore; et cos@i gli
+avvenne.  Scrisse loro ch'egli volea loro parlare, e ch'egliono
+venissono alla Cattolica, et egli sarebbe ivi, ch'@e uno luogo in
+quel mezzo tra Rimini et Fano.  Questi due, fidandosi, si missono
+in una barchetta per mare per venire alla Cattolica: messer
+Malatestino fece i suoi stare in quello mezzo con una altra
+barchetta; et come messer Malatestino avea loro comandato,
+presono messer Guido et Agnolo et gettarongli in mare; onde segu@i
+che la parte che aveano in Fano, perdendo i loro capi, furono
+cacciati di Fano; onde ultimamente segu@i che messer Malatesta ne
+fu signore.>  ^An. Fior.~
+
+	|78.  Se l'antiveder~: se il vedere innanzi le cose
+future qu@i nell'inferno non @e vano (-- falso) come suol essere su
+nel mondo.  Cfr. ^Inf.~ X, 100 e seg. ^Virg.~ ^Aen.~ I, 392: ^Ni
+frustra augurium vani docuere parentes.~
+
+	|79.  Vasello~: nave, naviglio, cfr. ^Purg.~ II, 41. 
+Al.: ^il corpo, vasello dell'anima~; Land. Vell. ecc. ^citt@a~,
+^patria~, Volpi.  Ma i due furon gittati fuor del lor ^naviglio~,
+cfr. v. 77 nt. e il verso citato del ^Purg.~ prova che |vasello~
+vuol dir ^nave.~
+
+	|80.  Mazzerati~: mazzerare @e gittare l'uomo in mare in
+uno sacco legato con una pietra grande, o legate le mani ed i
+piedi et uno grande sasso al collo.  ^Buti.~  -- |Cattolica~:
+cfr. v. 77, nt.
+
+	|81.  Fello~: misleale, violento, iniquo, crudele. 
+Questo tiranno @e Malatestino, cfr. v. 77, nt. che secondo altri
+<tanto fu savio et ardito e da bene, quanto mai fosse uomo.> 
+^Cron. Rim. ap. Murat. Rer. It. Script.~ Vol. XV, pag. 896.
+
+	|82.  Tra~: in tutto il Mediterraneo, di cui Cipri @e
+l'isola pi@u orientale, Majolica o Majorca la pi@u occidentale.
+
+	|83.  Fallo~: misfatto.  -- |Nettuno~: il dio del mare,
+qu@i per il mare stesso.
+
+	|84.  Pirati~: corsari, o ladri di mare.  -- |Argolica~:
+greca, che sempre suol corseggiare pel Mediterraneo.  Ma n@e
+pirati n@e Greci commisero mai un misfatto cos@i orribile.
+
+	|85.  Quel~: il detto Malatestino.  ^Di Siena~ lo dice
+<il marito della famosa Francesca>.  Ma quest'ultimo era
+^Gianciotto.~  <Misser Malatesta ebbe tre donne: de la prima
+nacque Malatestino dall'Occhio, perch@e era manco di un occhio.... 
+De la seconda nacque Gianne Sciancado (^il marito~), e Paolo
+(^l'Amante di Francesca~).  De la terza, che fu figliuola di
+Misser Righetto, nacque Pandolfo, il quale fu molto virtuoso.  E
+da Paolo predetto discesero i conti da Ghiazolo.>  ^Cron. Rim.~
+^ap. Murat. Rer. It. Script.~ Vol. XV, pag. 896.  -- |Pur~:
+solamente.  -- |Con l'uno~: occhio, non avendone che uno.
+
+	|86.  Terra~: Rimini; cfr. ^Inf.~ V, 60; XXIX, 29.  --
+|Tal~: Curio, cfr. v. 102.
+
+	|87.  Esser digiuno~: vorrebbe non averla veduta, perch@e
+vi commise il misfatto che lo condusse in questa bolgia.
+
+	|88.  Far@a venirli~: li indurr@a a venire; cfr. v. 77 nt. 
+-- |Parlamento~: colloquio.
+
+	|89.  Focara~: monte altissimo appresso la Cattolica,
+onde venti terribili soglion levarsi.  ^Dan.~
+
+	|90.  Non far@a~ ecc.: non avran bisogno di voti o
+preghiere a Dio che gli scampi dal vento di Focara, perch@e
+saranno annegati prima che vi giungano.  Passando presso Focara i
+naviganti si votavano e pregavano; si aveva persino un proverbio:
+^Custodiat te Deus a vento Focariensi~!  <Ma quando l'uomo @e
+morto, non gli @e bisogno n@e voto, n@e priego a campare.>  ^Buti.~ 
+-- |Preco~: preghiera, cfr. ^Parad.~ XX, 53.  Dal lat. ^prex~ i
+Provenzali fecero ^prec~, e i nostri antichi |preco~, che non @e
+voce usata in grazia della rima.  Cfr. ^Nannuc.~ ^Anal. crit.~
+pag. 87, nt. 6 e pag. 294; ^Teor. dei Nomi~, pag. 146.
+
+	|91.  Dimostrami~: fammi vedere.  -- |Dichiara~: spiegami
+perch@e costui non vorrebbe mai aver veduto Rimini.
+
+	|92.  Porti su di te novella~: come tu desideri, v. 73 e
+seg.  La donna Veronese: ^Vedete colui che va nell'inferno, e
+torna quando gli piace, e quass@u reca novelle di coloro che
+laggi@u sono.~  ^Bocc.~ ^Vita di Dante.~
+
+	|93.  Colui~: che @e l@i teco, v. 86.  -- |Veduta~: di
+Rimini.  -- |Amara~: dispiacevole e dolorosa.  Chi @e colui che
+non vorrebbe aver mai veduto la terra di Rimini?
+
+	|96.  Non favella~: perch@e ha ^la lingua tagliata nella
+strozza~, v. 101.  In questo verso Pier da Medicina risponde alla
+prima dimanda di Dante: ^Dimostrami~ {v.91}, nei tre versi
+seguenti alla seconda: ^dichiara~, v. 91.  Curio ha la lingua
+tagliata nella strozza, essendo essa stata ^venale~; cfr. ^Luc.~
+^Phars.~ l. I, v. 269.
+
+	|97.  Scacciato~: esule da Roma; cfr. Luc. Phars. l. I,
+v. 278, 279:
+
+     ^Pellimur e patriis laribus, patimurque volentes~
+     ^Exsilium: tua nos faciet victoria cives.~
+
+|Sommerse~: spense in Cesare ogni dubbio che tenevalo irresoluto
+a passare il Rubicone, fiume tra Ravenna e Rimini, ed
+incominciare la guerra civile.
+
+	|98.  Il fornito~: colui che @e provvisto di tutto il
+necessario per condurre a fine una impresa.
+
+	|99.  Danno~: suo proprio.  -- |Sofferse~: indugi@o a por
+mano all'impresa; cfr. ^Luc.~ ^Phars.~ l. I, v. 280, 281:
+
+     ^Dum trepidant nullo firmatae robore partes~,
+     ^Tolle moras: semper nocuit differre paratis.~
+
+^Dino Comp.~ ^Intelligenza~:
+
+     A Rimine giugnendo i cavalieri,
+     Dipinto v'@e che fue di notte scura:
+     Trombette e corni sonavan s@i fieri,
+     Che i Riminesi trem$ar di paura.
+     Curio trebuno parl@o primieri,
+     E disse: <Io son per te di Roma fuora:
+     Nostra franchigia @e nella tua speranza:
+     Cavalca, Cesar, sanza dimoranza:
+     I tuoi nemici non avranno dura.>
+
+	|100.  Sbigottito~: per la vergogna che un uomo come lui,
+^audax, venali lingua~ (^Luc.~ ^Phars.~ I, 269), abbia ora la
+lingua mozza, sicch@e un altro debba parlare per lui.
+
+	|101.  Strozza~: gorgozzule, canna della gola.
+
+	|102.  Curio~: Curione, tribuno romano, prima fautore
+della parte di Pompeo, si lasci@o guadagnare da Cesare per danari. 
+^Non alius maiorem flagrantioremque, quam C. Curio trib. pl.
+subjecit facem: vir nobilis, eloquens, audax~, ecc.  ^Vellei.~
+^Paterc.~ l. II, c. 46.  Si rec@o da Roma a Ravenna onde informar
+Cesare dello stato delle cose a Roma, e ritorn@o a Roma (A+o~ 705 a.
+u. c.) con lettere di Cesare al Senato.  Pubblicato il decreto
+del senato in cui Cesare era dichiarato nemico della Repubblica,
+qualora non licenziasse il suo esercito e sgombrasse la
+provincia, Curione fugg@i cogli altri tribuni a Ravenna, ed esort@o
+Cesare, secondo Lucano, a non indugiare.  Ma la @e questa poesia. 
+Cesare aveva gi@a passato il Rubicone quando Curio arriv@o al suo
+campo.  -- |A dir~: Al. ^a dicer.~
+
+	|103.  Un~: cfr. v. 106.  -- |Mozza~: mozzata, troncata. 
+Costui non s'@e servito soltanto della lingua a seminar scandali,
+ma anche delle mani, spargendo sangue, e perci@o le ha mozze.
+
+	|104.  Moncherin~: le braccia mutile delle mani. 
+^Moncherino~ nelle ^Cento nov. ant.~ Nov. 50.  -- |Aura~: Al.
+Aria.
+
+	|105.  Il sangue~: che usciva dai moncherini levati in
+alto.  -- |Sozza~: lorda.
+
+	|106.  Ricordera' ti~: ti ricorderai, cio@e se torni su
+nel mondo, facendone menzione.  -- |Mosca~: de' Lamberti.  <Negli
+anni di Cristo 1215, avendo uno messer Bondelmonte de Bondelmonti
+nobile cittadino di Firenze, promessa a torre per moglie una
+donzella di casa gli Amidei, onorevoli e nobili cittadini; e poi
+cavalcando per la citt@a il detto messer Bondelmonte, ch'era molto
+leggiadro e bello cavaliere, una donna di casa i Donati il
+chiam@o, biasimandolo della donna ch'egli avea promessa, come non
+era bella n@e sofficiente a lui, e dicendo: ^io v'avea guardata
+questa mia figliuola~; la quale gli mostr@o, e era bellissima;
+incontanente per ^subsidio diavoli~ preso di lei, la promise e
+ispos@o a moglie, per la qual cosa i parenti della prima donna
+promessa raunati insieme, e dogliendosi di ci@o che messer
+Bondelmonte aveva loro fatto di vergogna, si presono il maladetto
+isdegno, onde la citt@a di Firenze fu guasta e partita: che di pi@u
+casati di nobili si congiuraro insieme, di fare vergogna al detto
+messer Bondelmonte, per vendetta di quelle ingiurie.  E stando
+tra loro a consiglio in che modo il dovessero offendere, o di
+batterlo o di fedirlo, il Mosca de' Lamberti disse la mala
+parola: ^cosa fatta, capo ha~ {v.107}; cio@e che fosse morto: e
+cos@i fu fatto; che la mattina di Pasqua di Risurresso, si raunaro
+in casa gli Amidei da Santo Stefano, e vegnendo d'oltrarno il
+detto messere Bondelmonte vestito nobilemente di nuovo di roba
+tutta bianca, e in su uno palafreno bianco, giugnendo appi@e del
+ponte Vecchio dal lato di qua, appunto appi@e del pilastro ov'era
+la 'nsegna di Marti, il detto messere Bondelmonte fu atterrato
+del cavallo per lo Schiatta degli Uberti, e per lo Mosca Lamberti
+e Lambertuccio degli Amidei assalito e fedito, e per Oderigo
+Fifanti gli furono segate le vene e tratto a fine; e ebbevi con
+loro uno de' conti da Gangalandi.  Per la qual cosa la citt@a
+corse ad arme e romore; e questa morte di messer Bondelmonte fu
+la cagione e cominciamento delle maladette parti guelfa e
+ghibellina in Firenze ....  Per la morte del detto messere
+Bondelmonte tutti i legnaggi de' nobili et altri cittadini di
+Firenze se ne partiro, e chi tenne co' Bondelmonti che presero la
+parte guelfa e furonne capo, e chi con gli Uberti che furono capo
+de ghibellini, onde alla nostra citt@a segu@i molto di male e
+ruina.>  ^G. Vill.~ l. V, c. 38 (cfr. ^Dino Comp.~ l. I, ^Ric.
+Mal.~ c. 99; ^Macchiav.~ ^Ist. Fior.~ l. II, c. 3; ^Parad.~ XVI,
+140 e seg.).
+
+	|107.  Capo ha~: <cio@e, ha fine da riparare; il che
+voleva dire: Uccidetelo, ch@e alla fine ogni cosa si raggiusta.> 
+^Nannuc.~ ^Man. della lett.~ Vol. II, pag. 18, nt. 15. 
+<Uccidi$anlo, e cos@i al fatto sar@a dato principio.>  ^Ammirat.~
+^Ist. Fior.~ l. I, pag. 56.  <Modo esortativo a consumare una
+impresa ordita, come dire: Facciasi, e poi tutto andr@a bene.> 
+^Fanfani~, ^Vocab. it.~ s. v. |capo.~  Ci sembra che il Villani e
+il Malispini abbiano gi@a spiegato il proverbio a sufficienza:
+^cio@e che fosse morto.~
+
+	|108.  Mal seme~: <Di tal morte i cittadini se ne
+divisono, e trassersi insieme i parentadi e l'amist@a d'amendue le
+parti, per modo che la detta divisione mai non fin@i: onde
+nacquero molti scandoli ed omicidii e battaglie cittadine.> 
+^Dino Comp.~ l. I.
+
+	|109.  E morte~: fu il tuo reo consiglio.  I Lamberti
+furono cacciati da Firenze nel 1258.  ^G. Vill.~ l. VI, c. 65. 
+Nel 1266 furono i primi che cominciarono a levarsi contro i
+trentasei; ^G. Vill.~ l. VII, c. 14.  Da quest'anno in poi essi
+scompariscono dalla storia e non vengon pi@u menzionati dai
+cronisti.  Da questa circostanza e dalle parole di Dante si pu@o
+dedurre, che una delle conseguenze delle guerre civili di Firenze
+sia stata l'estinzione totale di quella famiglia, alla quale
+Mosca apparteneva.
+
+	|110.  Per ch'egli~: per le quali mie parole da lui
+udite.  -- |Accumulando~: al duolo della sua pena si aggiungeva
+il duolo della mala nuova recatagli dal Poeta.  I dannati
+dell'Inferno dantesco non sono di natura tanto diabolica da non
+compiacersi che del male; essi desiderano il bene e la prosperit@a
+de' loro discendenti, cfr. ^Inf.~ X, 67 e seg. 83 e seg., sono
+ancor sempre affezionati a chi essi amarono nel mondo, cfr.
+^Inf.~ XV, 55 e seg., amano ancor sempre la loro patria, cfr.
+^Inf.~ XXVII, 26 e seg.; insomma essi hanno anche nell'Inferno i
+vizi e le virt@u che ebbero nel mondo.
+
+	|111.  G$io~: g@i, and@o.  La terza pers. sing. del perf. si
+chiuse anticamente in ^o~ in tutte le coniugazioni; cfr.
+^Nannuc.~ ^Anal. crit.~ pag. 176 e seg.  -- |Trista~: mesta,
+dolente.  -- |Matta~: fuor di s@e pel dolore cagionatogli dalla
+mala nuova udita.
+
+	|112-114.~  I commentatori spiegano: Vidi cosa tanto
+incredibile, che temerei di esser tenuto bugiardo narrandola,
+senza altra prova che la mia asserzione; ma che la cosa sia vera
+lo prova il testimonio della mia coscienza.  Proprio degno di
+Dante invocare il testimonio della sua coscienza a prova della
+verit@a di una -- finzione poetica!  E non ha egli raccontato gi@a
+cento e cento cose appena pi@u credibili di quanto egli sta per
+raccontare, senza riferirsi alla sua coscienza?  Va bene che nel
+c. XVI, v. 127 e seg. egli giuri per le note della sua commedia,
+ch@e ci@o @e poetico.  Ma l'invocare il testimonio della propria
+coscienza @e un altro par di maniche.  A noi come a noi ci sembra
+che Dante si sarebbe reso colpevole di una ridicolosaggine e di
+frivolit@a se avesse inteso d'invocare la coscienza in fede di ci@o
+che egli narra.  Vediamo un po'!  Dante ha timore delle tre
+fiere, perch@e esse rappresentano tre vizi, contro i quali
+anch'egli dovette combattere.  Egli cade tramortito nel cerchio
+de' carnali, non sentendosi innocente di tal peccato.  Ha paura
+all'entrata della citt@a di Dite, perch@e sa di aver dato retta
+alcun tempo a quel dubbio che mena alla miscredenza.  Ma egli non
+teme mai all'aspetto di punizioni di peccati, de' quali egli si
+sente internamente libero, n@e mai invoca la sua coscienza, quando
+narra cose incredibili.  Il solenne invocare il testimonio della
+propria coscienza in questi versi deve per@o avere un motivo molto
+pi@u serio e pi@u profondo, che non quello di cattivar fede alle
+poetiche sue finzioni.  Ed infatti, non avrebbero i suoi
+avversar#i potuto rinfacciargli aver egli qu@i fatto il proprio
+ritratto?  O ci voleva forse molto onde fondare sui suoi scritti
+l'accusa, aver egli ribellati i figli alla loro madre? i figli
+della Chiesa ad essa Chiesa nel ^De Monarchia~? i figli di
+Firenze alla loro patria in alcuna delle sue lettere?  Dunque noi
+interpretiamo: Io vidi cosa che avrei paura soltanto di narrarla,
+nonch@e di ^provarla~ di pi@u, di farne nuova esperienza, di
+tornare a vederla, ma non ho paura n@e tanto n@e poco, ch@e la mia
+coscienza si sente pura, mi assicura da ogni timore e mi fa
+ardito a descrivere imperterrito la pena di un peccato che io so
+non aver mai commesso.  Invoca adunque il testimonio della
+propria coscienza non per acquistar fede alla sua descrizione,
+sibbene per protestare che egli si sente del tutto innocente dei
+peccati puniti in questa bolgia, non avendo egli giammai voluto
+seminar scandali e dissensioni.  Cui questa interpretazione non
+andasse a genio, -- forse perch@e nuova, -- s'attenga alla
+vecchia, ma cerchi poi un qualche mezzo da lavar Dante dalla
+taccia di frivolit@a.  -- |Senza pi@u prova~: senza esperimentarla
+ulteriormente.  ^Provare~ per ^esperimentare~ Purg. XIX, 103;
+Par. XVII, 58.  |Prova~ non pu@o qu@i avere il senso di
+^testimonianza~, ch@e il Poeta non ha e non reca altre
+testimonianze fuorch@e la propria; |prova~ vuol dir qu@i
+^esperimento.~  -- |Solo~: avverbio -- solamente di contarla.
+
+	|115.  Mi assicura~: essendo pura essa mi rende
+testimonianza che io non abbia a temer nulla di quelle pene che
+io vidi e che io descrivo, checch@e ne dicano i miei nemici.
+
+	|116.  Compagnia~: non lo abbandona mai.  --
+|Francheggia~: fa (dichiara) libero dalla colpa e con ci@o lo
+rende sicuro, franco, ardito.  Qu@i: la mia coscienza,
+dichiarandomi libero da tali peccati, mi fa ardito a descriverne
+francamente la pena.
+
+	|117.  Osbergo~: cfr. ^Horat.~ ^Ep.~ l. I; Ep. I, v.
+60, 61:
+
+                   ^Hic murus aheneus esto~:
+     ^Nil conscire sibi, nulla pallescere culpa.~
+
+	|118.  Certo~: bisogner@a concedere che questo |certo~
+sembra parlare in favore dell'antica interpretazione dei versi
+antecedenti.  Ma ^sembra~ soltanto.  Dante riprende qu@i il
+racconto interrotto dai v. 113-117.  Avendo detto al v. 104 che
+l'aria era fosca, ed essendo quanto ei descrive cosa assai
+strana, egli aggiunge quel |certo~ per indicare la realt@a della
+cosa.  Non gli |parve~ soltanto di vedere, ma vide ^veramente.~ 
+Qu@i continua il parlar poetico.
+
+	|119.  S@i come~: nello stesso modo, colla medesima
+sicurezza come camminavano gli altri che avean la testa sul
+busto.
+
+	|122.  P$esol~: pesolo, pendente, sospeso, penzolone.
+
+	|123.  Quel~: il capo tronco.  Al. ^Quei~, riferito a
+^busto~ v. 119.  Ma il ^busto~ non avr@a probabilmente n@e mirato
+n@e parlato, non avendo n@e occhi n@e lingua.  -- |O me~: oim@e!  Per
+cagion del metro la voce |me~ si priva dell'accento.
+
+	|124.  Lucerna~: cogli occhi del capo il quale egli aveva
+in mano guidava i suoi proprii passi.  ^Tom.~
+
+	|125.  Due~: erano |due~, perch@e il capo era diviso dal
+busto, cosicch@e quel corpo constava di due parti; ma non eran
+nello stesso tempo che ^uno~, perch@e le due parti continuavano le
+loro funzioni come se fossero ancor sempre unite, e vivevano una
+sola e medesima vita.  Due corpi divisi in un solo individuo, un
+individuo solo in due corpi divisi.
+
+	|126.  Esser pu@o~: che la vita dell'individuo rimanga
+una, nonostante la divisione dell'un corpo in due.  -- |Quei~:
+Dio.  -- |S@i governa~: punisce siffattamente.  Cfr. ^Inf.~ XIX,
+10 e seg.
+
+	|127.  Diritto~: appunto appi@e del ponte, appunto sotto
+noi.  -- |Fue~: fu.
+
+	|128.  Tutta~: riempitivo; cfr. ^Bocc.~ ^Dec. G. X, nov.~
+9: <il letto con tutto messer Torello fu tolto via.>
+
+	|129.  Per appressarne~: lev@o la testa in alto affinch@e
+le parole che da quella uscivano venissero a noi pi@u da vicino e
+noi le potessimo cos@i intender meglio.  -- |Sue~: di colui ch'era
+^due in uno, e uno in due~ {v.125}.
+
+	|130.  Furo~: furono; sincope.  Cfr. ^Nannuc.~ ^Anal.
+crit.~ pag. 455 e seg.
+
+	|131.  Spirando~: respirando, essendo ancor vivo.  Cfr.
+^Inf.~ XXIII, 88; ^Purg.~ V, 81; XIII, 132.
+
+	|132.  Vedi~: ^O vos omnes, qui transitis per viam,
+attendite, et videte si est dolor sicut dolor meus.~  ^Lam.~
+^Jerem.~ I, 12.
+
+	|134.  Bertram dal Bornio~: nel ^Vulg. Eloq.~ l. II, c.
+2, lo cita come uno dei principali poeti che cantarono le armi. 
+Bertrando dal Bornio fu Visconte di Altaforte nella diocesi di
+Perigueux in Guascogna.  <Buon cavaliere, buon guerriero, buon
+amante, buon trovatore; ben istruito nell'arte del bel dire,
+sapeva sopportare la buona e la malvagia fortuna.>  (^Raynouard~:
+^Choix de Poesies Originales des Troubadours~, V, 76).  Anche
+nelle sue poesie si mostra assai bellicoso.  Derub@o il fratello e
+ne ebbe guerra con Riccardo Cuor-di-Leone.  Divenuto amico di
+Errico, fratello maggiore di Riccardo, lo istig@o a ribellarsi da
+suo padre, Enrico II.  Morto Errico nel 1183, Enrico II lo
+assedi@o nel castello di Altaforte e lo prese; ma avendogli
+Bertramo ricordato l'intima amicizia che lo avea legato a suo
+figlio Errico, Enrico II gli perdon@o e gli restitu@i il castello e
+dominio.  Dopo ci@o istig@o i sudditi di Alfonso II d'Aragonia a
+ribellarsi, prese parte come guerriero e come trovatore alle
+guerre fra Riccardo Cuor-di-Leone e Filippo Augusto.  Nella fine
+de' suoi giorni si rend@e monaco Cisterciense.  (Cfr. ^Raynouard~,
+l. c. ^Millot~: ^Histoire litt. des Troubadours~, I, 210.)
+
+	|135.  Giovanni~: moltissimo si @e disputato sopra questo
+verso.  (Va senza dire che anche quel tal Scarabelli vi ha messo
+il naso, ma costui non lo badiamo.) La gran maggioranza dei
+codici @e per la lezione |Giovanni~, la storia per la lezione
+^giovane~, che dal Ginguen@e in poi venne accettata da molti
+moderni.  Enrico II re d'Inghilterra ebbe quattro figli, i quali
+tutti, l'uno pi@u l'altro meno, furono ribelli al padre.  Essi
+furono: Errico, chiamato dai Trovatori e dalle ^Cento Nov. ant.~
+il ^re giovane~, essendo stato coronato re durante la vita di suo
+padre; Riccardo Cuor-di-Leone, Conte di Guienne e di Poitou, che
+succedette a suo padre nel regno; Goffredo e Giovanni Senzaterra. 
+Errico era il solo che nel tempo al quale allude il Poeta avesse
+il titolo di ^re~, e nello stesso tempo il solo che avesse avuto
+relazioni intime con Bertrando dal Bornio.  Di Errico parla
+Bertrando sovente nelle sue poesie, chiamandolo ^lo Reys joves~;
+Errico fu colui al quale Bertrando diede i |mai conforti~, cio@e i
+mali eccitamenti a ribellarsi a suo padre.  Dunque ^giovane~
+sarebbe la vera lezione.  Ma 1+o~- i Codici hanno con poche
+eccezioni |Giovanni.~  2+o~- Non @e men verisimile che la lezione
+^giovane~ sia correzione di copisti che conoscevan la storia, che
+sia verisimile la lezione |Giovanni~ esser corruzione di chi la
+ignorava.  3+o~- Tutti quanti i commentatori antichi, non
+eccettuatone un solo, lessero |Giovanni~; da ci@o ne risulta che
+tutti i codici che essi conoscevano avevano Giovanni.  4+o~- Se
+alcuni chiamano quel principe una volta |Giovanni~ e l'altra ^il
+Giovane~ o ^Giovanni il giovane~ (cos@i l'^An. Fior.~ e le
+^Chiose~ ed. dal Selmi), ne risulta che i loro codici avevano
+|Giovanni~, e che d'altronde essi sapevano che quel principe si
+chiamava ^il re giovane~, IGNORANDO TUTTAVIA che egli fosse
+Errico e non Giovanni.  5+o~- Se alcuni di questi antichi (^Ott.~,
+^Buti~, ^Petr. Dant.~, falso ^Bocc.~ ecc.) parlano di un principe
+Giovanni figlio di Riccardo, ci@o prova che essi ignoravano la
+storia s@i, ma non che essi non abbiano saputo leggere i loro
+codici o ne abbiano corrotta la lezione.  6+o~- |Giovanni~ chiama
+anche il Villani (l. V, c. 4) il principe che guerreggi@o con suo
+padre, e se alcuni codici delle Croniche hanno ^Giovane~, anche
+questa pu@o esser correzione di chi conosceva la storia.  7+o~- Se
+tutti i Commentatori ignoravano i particolari della relativa
+storia, poteva ignorarli anche Dante.  8+o~- Se le ^Cento Nov.
+ant.~ conoscevano il vero nome del principe, non ne segue che
+Dante lo conoscesse anche lui.  9+o~- Se Dante nel ^Vulg. Eloq.~
+cita Bertram dal Bornio, non ne segue che egli avesse letto tutte
+le di lui poesie, o che dovesse ricordarsi che Bertrando chiama
+il principe ^lo Reys joves.~  10+o~- Se Dante sapeva che Bertrando
+^tenne Altaforte~, Inf. XXIX, 29, non ne segue che egli sapesse
+anche come si chiamasse colui al quale egli diede i |mai
+conforti.~  11+o~- La lezione ^giovane~ guasta il verso.  -- Non si
+tratta adunque di <falsificare la storia>, come alcuno raglia, ma
+si tratta di stabilire qual sia qu@i la lezione genuina, di
+decidere se Dante abbia scritto |Giovanni~ oppure ^giovane.~  Or
+se i canoni di critica scientifica valgono ancora qualche cosa,
+sar@a pur giocoforza decidersi col Tommaseo, col Filalete, col
+Witte ed altri per la lezione |Giovanni~, QUANTUNQUE il principe
+cui Bertrando diede i |mai conforti~ si chiamasse ^Errico~, e non
+|Giovanni.~  (Cfr. ^Ginguen@e~: ^Hist. Litt. d'It.~ Vol. II, p.
+570; ^H.C. Barlow~: ^The Young King and Bertrand de Born.~ Lond.
+1862; ^Contributions~ ecc. pag. 153-157; ^Blanc~: ^Versuch~, I,
+pag. 251-254, che tutti e tre difendono la lezione ^giovane.~ 
+Per la letteratura di questo verso cfr. ^De Batines~: ^Bibl.
+Dant.~ Vol. I, pag. 365, 366, 733; ^Ferrazzi~: ^Manuale
+Dantesco~, Vol. IV, pag. 396 e seg.  La tentazione di concordar
+Dante colla storia @e troppo grande, e si comprende perci@o
+facilmente che molti moderni preferiscono la lezione ^giovane~,
+massime quelli che sono digiuni di stud#i di critica scientifica.)
+
+	|136.  Feci~: ^Metia tot son senno en mesclar guerras, e
+fes mesclar lo paire e 'l filh di Englaterra~ (^Raynouard~ l. c.
+V, 76).  -- |In s@e~: l'uno contro l'altro.
+
+	|137.  Achitofel~: consigliere di Davide, re d'Israele;
+fautore della ribellione d'Absalone.  Cfr. II, ^Reg.~ XV, 12 e
+seg. XVI, 15 e seg. XVII, 1 e seg.  -- |Ansalone~: Absalone, il
+figlio rebelle di Davide; cfr. II, ^Reg.~ XIII-XVIII.  Lo
+Scarabelli vuol che si scriva ^Absalone.~  Naturalmente! perch@e
+oggigiorno si scrive cos@i; e gi@a s'intende che un par suo non sa
+che gli antichi dissero sempre ^Ansalone~ (cfr. ^Witte~:
+^Jahrbuch der deutschen Dante-Gesellschaft~, Vol. I, pag. 328).
+
+	|138.  Pungelli~: consigli.  Achitofel consigli@o Absalone
+a violare le concubine del padre, e ad uccidere il padre.  (Vedi
+i passi biblici citati nella nota antecedente.)  Sentenza:
+Achitofel non semin@o maggior discordia fra padre e figlio, di
+quella che seminai io.
+
+	|139.  Partii~: divisi.  -- |Giunte~: unite cos@i
+strettamente coi vincoli di natura.
+
+	|140.  Partito~: diviso.  -- |Cerebro~: con tutto il capo.
+
+	|141.  Principio~: la midolla spinale, nella quale
+Aristotele (come nei tempi moderni il celebre ^Gall~ e la sua
+scuola) poneva il principio del cervello.
+
+	|142.  Lo contrappasso~: la legge del taglione, che vuole
+che ^tal sia punito qual fece~, dal lat. ^contra pati.  Animam
+pro anima, oculum pro oculo, dentem pro dente, manum pro mano,
+pedem pro pede exiges.~  Deut. XIX, 21; cfr. Exod. XXI, 24; Lev.
+XXIV, 20; Matth. V, 38.  ^In qua mensura mensi fueritis,
+remetietur vobis.~  Matth. VII, 2.  Secondo questa legge Dante
+distribuisce nel suo Inferno tutte le pene.

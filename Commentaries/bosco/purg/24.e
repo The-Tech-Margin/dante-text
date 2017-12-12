@@ -1,0 +1,1210 @@
+	|Introduzione.~  La trattazione del girone dei golosi,
+cominciata nell'ultima parte del canto XXII (127-fine) con la
+descrizione d'uno degli alberi, che nel girone sono strumento
+della punizione del peccato di gola, dalle cui fronde, come
+sappiamo, una voce grida esempi di temperanza nel mangiare e nel
+bere, si conclude alla fine del canto XXIV (vv. 103-129), con la
+descrizione d'un secondo albero analogo al primo, dalle cui
+frasche proviene parimenti una misteriosa voce che recita esempi
+di gola punita.  La materia del peccato di gola stringe dunque
+insieme, senza soluzione, i canti XXIII e XXIV: ne restano fuori
+solo i versi estremi del canto XXIV (130-154), che sono di
+raccordo al girone seguente: in essi appare l'angelo della
+temperanza che avvia i poeti verso il settimo girone, cancella
+un'altra ^P~ dalla fronte del pellegrino, recita un'altra
+beatitudine.  I due canti, peraltro, formano unit@a non solamente
+per questo: in essi il poeta rievoca in varie figure e con varie
+tonalit@a la sua giovent@u, facendo centro nella figura di un amico
+di allora, Forese Donati.  La poesia del ricordo, che sappiamo
+essere una delle componenti principali del ^Purgatorio~, e la
+rievocazione di momenti essenziali della sua vita morale e
+letteraria, hanno qui compiuta espressione.  Son questi i canti
+forse pi@u direttamente e riccamente autobiografici del poema: qui
+Dante rappresenta s$e stesso prima del viaggio ultraterreno, nei
+particolari e tra le persone della sua vita quotidiana di allora.
+
+	|1-9 {Nota Bosco}.~  Se essa {l'ombra di Stazio} si
+attarda a salire al cielo, seguendo il passo umano, anche se
+affrettato, di Dante, @e solo per restare quanto pi@u a lungo
+possibile in compagnia di Virgilio: |sen va s@u forse pi@u tarda /
+che non farebbe, per altrui cagione~ {8-9}.  Siamo ormai al canto
+XXIV: tra la presentazione di Stazio a Forese, al chiudersi del
+canto XXIII, e questa spiegazione del suo ritardo nel salire, non
+c'@e che una breve didascalia (1-6); di l@a da essa, il dialogo di
+Dante e Forese continua senza interruzione, come il poeta ha cura
+di sottolineare: |E io, contin,uando al mio sermone...~ {7}.
+
+	|1-3.  N$e 'l dir... facea~: n$e il parlare (|dir~) rendeva
+pi@u lento l'andare, n$e l'andare rendeva pi@u lento il dire
+(|lui~).  Si noti il pronome |lui~, oggi riferibile solo a
+persona, che nell'uso dell'italiano antico poteva esser riferito
+anche a cosa.  In quanto a |pi@u lento~ riferito al parlare, vale
+<meno animato, meno vivace> e simili.  |Ragionando~: conversando. 
+|Pinta~: spinta.  L'immagine della nave per rappresentare il
+passo veloce @e gi@a, sia pure in contesto diverso, in ^Pg~ IV 93.
+
+	|4-6.  cose rimorte~: con senso intensivo-iterativo: <pi@u
+che morte, morte due volte> per la loro magrezza e l'aspetto
+consunto.  Riecheggia un passo biblico: <arbores autumnales,
+infructuosae, bis mortuae, eradicatae> (^Iu.~ 12: <gli alberi
+d'autunno, infruttuosi, morti due volte, sradicati>).  |Per le...
+accorte~: ordina: accortesi che ero vivo (|di mio vivere~)
+mostravano stupore (|ammirazione~) di me, fissandomi dal profondo
+delle orbite incavate (|per le fosse de li occhi~).  Ancora una
+volta ritorna l'ossessiva immagine degli occhi.
+
+	|7-9.  continuando al mio sermone~: altre edd.
+^continuando il mio sermone~; ma il Petrocchi osserva che
+|continuando a~ @e pi@u consono a ^If~ X 76 e gode di larga
+attestazione dei codici.  |Ella~: Stazio; femminile riferito a
+<ombra>.  Si noti con quale estrema naturalezza il discorso
+riprende, riallacciandosi alla fine del canto precedente, s@i che
+i vv. 1-7 di questo canto appaiono come naturale didascalia. 
+|Pi@u tarda~: pi@u lentamente.  |Per altrui cagione~: per causa di
+Virgilio, cio@e per stare pi@u a lungo con lui.  Continua la
+situazione di ^Pg~ XXI 101-102.
+
+	|10-15 {Nota Bosco.~  {Dante} domanda a Forese,
+premurosamente, notizie ultraterrene di sua sorella, Piccarda;
+Forese parla di questa con tenerezza (13-15), come con tenerezza
+aveva parlato della moglie; dice anche, con ben altri accenti,
+dei peccati e della punizione di suo fratello Corso.  Insieme con
+Forese, tutta una famiglia, i Donati, appartenente alla sfera
+della vita quotidiana di Dante, diventa protagonista
+dell'episodio.
+
+	|10-12.  Piccarda~: la sorella di Forese che incontreremo
+nel primo cielo (cfr. ^Pd~ III 34 ss.).  |Da notar~: che sia
+degno di nota.  |S@i mi riguarda~: che mi fissa con tanta
+attenzione.
+
+	|14-15.  tr,iunfa~: @e termine del linguaggio religioso per
+indicare il godimento della beatitudine celeste (cfr. il termine
+^Chiesa trionfante~ per indicare i beati del Paradiso).  In
+Dante: ^Pd~ XXIII 136, XXII 131, XXVII 71, ecc.  |Ne l'alto
+Olimpo~: in cielo.  Nell'antico mito, l'Olimpo, monte della
+Tessaglia, era sede degli d@ei.  Il termine pagano non stupisce,
+perch$e abbiamo gi@a visto pi@u volte l'uso di nomi pagani per
+indicare entit@a cristiane.  |Corona~: altro termine usato ad
+indicare, nel linguaggio cristiano, la gloria della beatitudine,
+a cui non @e estranea talvolta l'idea di lotta per conquistarla
+(cfr. la |corona~ del martirio).  Il termine pu@o dipendere da
+|lieta~, pi@u probabilmente, ma potrebbe anche essere unito a
+|tr,iunfa~: in questo secondo caso |lieta~ avrebbe senso
+predicativo.
+
+	|16-18.  Qui non si vieta~: dai vv. 17-18 si comprende
+che |qui~ va inteso non <nel Purgatorio>, ma <qui, in questa
+cornice>, anzi per lo pi@u lo si intende come una litote: qui @e
+necessario, dal momento che le anime sono per la loro magrezza
+irriconoscibili.  D'altronde, in nessuna cornice c'@e il divieto
+di nominare le anime, n$e queste se ne vergognano o cercano di
+sottrarsi, come avveniva in qualche cerchio dell'Inferno.  Non
+sembra il caso di vedere in Forese un tono ironico nei confronti
+di se stesso e dei suoi compagni, come pur @e stato sostenuto. 
+|Da ch'@e... d,ieta~: poich$e la nostra fisionomia (|sembianza~) @e
+cos@i attenuata, consunta (|munta... via~) per il digiuno
+(|dieta~).
+
+	|19.  Bonagiunta~: Bonagiunta Orbicciani degli Overardi,
+da Lucca, fu rimatore del secolo XIII, nei modi dei Siciliani, di
+cui, secondo il Contini, fu <l'autentico trapiantatore... in
+Toscana>.  La critica pi@u recente ha ridotto assai il valore di
+quei dati biografici (egli era notaio e a quell'epoca a Lucca
+notai di nome Bonagiunta ve ne erano ben nove) che ne riportavano
+attestazioni fino al 1296: oggi si tende a calcolare la data di
+nascita di Bonagiunta intorno al 1220, con un allontanamento nel
+tempo che lo legherebbe, non solo per l'et@a, ma anche per i suoi
+modi poetici, assai pi@u vicino ai Siciliani che a Guittone.  Ma
+forse tale data @e da spostare pi@u vicino alla met@a del secolo o
+dobbiamo pensare ad una lunga ed operosa vita, se egli non solo @e
+a conoscenza della canzone ^Donne ch'avete intelletto d'amore~
+(v. 51), ma riconosce Dante a prima vista.  Ci@o non impedisce,
+d'altronde, che il suo interesse per i modelli poetici siciliani
+sia pi@u netto di quello per i modi guittoniani.  Fu in
+corrispondenza con il Guinizzelli (^Voi ch'avete mutata la
+mainera~), col quale apre la polemica del nuovo stile.  Echi di
+Bonagiunta si trovano anche negli stilnovisti, ma potrebbe darsi
+che fossero stati questi ad influire su di lui.  Comunque, la
+critica contemporanea ha attutito le dure condanne di cui @e
+traccia significativa nel commento Scartazzini-Vandelli.  In ^VE~
+I xiii 1 Dante ne condann@o la lingua `municipale'.
+
+	|20-21.  quella faccia~: ferma l'attenzione sul viso, la
+parte pi@u impressionante di quella spaventosa magrezza (cfr. ^Pg~
+XXIII 22-24 e 31-33).  |Trapunta~: a squame e screpolature,
+intendono i moderni, a causa delle ossa che quasi traforano la
+pelle.  Anche qui non so vederci nulla di scherzoso, come vuole
+il Porena.  Gli antichi, invece, e forse meglio, intendono
+semplicemente <magra, macilenta>, appunto, <pelle e ossa>.
+
+	|22-24.  ebbe... braccia~: perch@e, come papa, era sposo
+della Chiesa (cfr. ^If~ XIX 56-57).  |Dal Torso~: Simone de Brie,
+che fu papa col nome di Martino IV dal 1281 al 1285: fu
+successore di Niccol@o III.  Bench$e nato a Montpinc$e (nella Brie),
+@e detto <da Tours> (|dal Torso~), perch$e, prima di giungere al
+papato, fu tesoriere della cattedrale di quella citt@a.  Fu
+giudicato uomo <molto magnanimo e di gran cuore ne' fatti della
+Chiesa> dal Villani (^Cron.~ VII 58); della sua golosit@a si
+raccontavano facezie e novelle, riportate da quasi tutti gli
+antichi commentatori.  Si diceva che, dopo momenti di intenso
+lavoro, come quando usciva di concistoro, esclamasse: <O Sanctus
+Deus, quanta mala patimur pro Ecclesia Dei!  Ergo bibamus!>. 
+Cos@i pure venne composto alla sua morte un epitaffio di questo
+tono: <Gaudent anguillae quia mortuus hic iacet ille / qui quasi
+morte reas excoriabat eas>.  In connessione con questo il ricordo
+dantesco delle anguille di Bolsena.  |Per digiuno~: per mezzo del
+digiuno.  |L'anguille... vernaccia~: ci raccontano i commentatori
+antichi che facesse affogare le anguille del lago di Bolsena
+nella vernaccia, per renderle pi@u saporite; poi le mangiava
+arrostite.  La |vernaccia~, qui ricordata @e probabilmente vino
+delle Cinque Terre (Vernazza), non il famoso vino di Sardegna
+dello stesso nome, come si deduce dal Boccaccio (^Decam.~ VIII 3,
+9 e X 2, 12) e dal Sacchetti (^Nov.~ C{LX}XVII).
+
+	|26-27.  e del... contenti~: al contrario di molte anime
+dell'Inferno che cercano di sfuggire alla vista di Dante vivo, o
+si rifiutano di dire il loro nome, le anime del Purgatorio son
+tutte soddisfatte (|contenti~) di essere ricordate a Dante,
+perch$e sanno che, per mezzo suo, potranno ottenere in terra
+suffragi.  |Per@o~: perci@o, per questo.  |Un atto bruno~: un gesto
+di disappunto, un segno di scontento.
+
+	|28-33 {Nota Bosco}.~  Nella presentazione dei vari
+golosi, taluno scorge scherzo o ironia; ma ha ragione il Sapegno:
+@e un'impressione che nasce dal fatto che Dante <si appoggia...,
+per ciascuno dei personaggi, a una materia aneddotica e
+novellistica, che allora doveva esser popolare>: di questo
+attingere che Dante fa a fonti popolari abbiamo gi@a visti altri e
+pi@u importanti esempi (spec. ^73-87~ e ^97-108 {Note Bosco}~ a
+^Pg~ XIV, ^Intr.~ e ^34-48 {Nota Bosco}~ a ^Pg~ XVI).  Il tono di
+tutta la narrazione @e qui terribilmente serio, e non consente
+scherzi, n$e il poeta si permetterebbe ironie su anime gi@a salve.
+
+	|28-29.  per fame... denti~: muovere i denti, masticare a
+vuoto; cfr. i versi di Ovidio, ^Met.~ VIII 825 a proposito di
+Erisittone ricordato nel canto precedente: <oraque vana movet
+dentemque in dente fatigat> (<batte dente con dente, muovendo
+inutilmente le labbra>).  |Ubaldin da |la Pila~: Ubaldino degli
+Ubaldini, apparteneva al ramo di quella potente famiglia
+ghibellina, che riceveva il nome dal castello della Pila in
+Mugello.  Era fratello del cardinale Ottaviano (cfr. ^If~ X 120)
+e di Ugolin d'Azzo (cfr. ^Pg~ XIV 105) e padre dell'arcivescovo
+Ruggieri (cfr. ^If~ XXXIII 14): visse nella seconda met@a del
+secolo XIII e sembra morisse nel 1291, ultima data in cui si ha
+ricordo di lui.  La fama della sua golosit@a pare durasse a lungo,
+almeno stando a ci@o che ne dicono gli antichi commentatori. 
+Appare come personaggio in una novella del Sacchetti (CCV). 
+|Bonifazio~: Bonifazio Fieschi dei conti di Lavagna, del ramo
+parmense, nipote del papa Innocenzo IV, fu arcivescovo di Ravenna
+dal 1274 al 1295.  Ebbe nome di uomo liberale ma la fama popolare
+e l'aneddotica ad essa congiunta, ne faceva un gaudente e fastoso
+prelato: da tale fama largamente diffusa in territorio ravennate,
+attinse certamente Dante, anche se l'invito alla comunit@a di
+Savignano alla preparazione di un lauto pranzo, con minaccia di
+gravi pene se disatteso, citato spesso in quasi tutti i commenti
+alla ^Commedia~, @e stato dimostrato dal Vasina niente altro che
+un usuale tributo di vassallaggio e un richiamo al rispetto delle
+formalit@a e consuetudini e tradizioni invalse da tempo.
+
+	|30.  che... genti~: la frase, nel suo significato pi@u
+naturale, indica senz'altro che Bonifazio fu pastore di molte
+genti; fu a capo cio@e di una vasta e molto popolosa archidiocesi. 
+Ma gi@a il Buti scorgeva nell'espressione un senso ambiguo, con
+allusione al fasto della sua corte e al `pascolo' dato alla folta
+schiera dei cortigiani: interpretazione che sembra non del tutto
+convincente.  Il verbo ^pasturare~ @e un ^apax~ dantesco, in cui
+si @e voluto vedere un doppio senso ironico.  Dal contesto @e pure
+da escludere che ci si riferisca a elemosine o a liberali
+elargizioni di Bonifazio.  In quanto a |rocco~, permangono molti
+dubbi.  Scartata la variante ^crocco~: <uncino> proposta dal
+Torraca per indicare il ricciolo che sta in cima al pastorale del
+vescovo, perch@e paleograficamente di assai scarsa probabilit@a
+(cfr. BARBI, ^Problemi~ I 230), non restano che due
+interpretazioni possibili.  Gli antichi commentatori ci dicono
+che sulla cima del pastorale dei vescovi ravennati, invece del
+ricciolo, stava una specie di prisma esagonale <a modo, dice il
+Lana, del roco de li scacchi> (quel pezzo che negli scacchi
+odierni @e la <torre>, il cui nome deriverebbe dal persiano
+^rokh~, da cui <arroccare>).  La seconda interpretazione fa
+risalire il nome al termine bassolatino ^roccus~ o ^rochus~, che
+significa <veste>, per lo pi@u ecclesiastica o regale (Helgaudus
+nella ^Vita~ di Roberto re di Francia (1029) dice: <Exuent se
+vestimento purpureo, quod lingua rustica dicitur rocus>), da cui
+^rochetum~ che @e sopravveste a guisa di cotta propria di alte
+dignit@a ecclesiastiche (vescovo, abate, ecc.).  Dal contesto e
+tenendo conto delle influenze orientali di Ravenna (il pastorale
+nella Chiesa orientale termina con un'asticciola o una croce),
+sembra pi@u probabile la prima interpretazione.  L'espressione
+comunque non d@a senso alcuno se riferita all'interpretazione che
+risale al Buti.  Intendendo quindi per |rocco~ il pastorale,
+vediamo qui la solita immagine del <buon pastore> che guida il
+gregge cristiano col pastorale, come il pastore guida le sue
+pecore con la verga, largamente metaforizzata anch'essa in senso
+religioso.
+
+	|31-33.  messer Marchese~: Marchese o Marchesino degli
+Argugliosi (Marchese @e nome proprio e non titolo nobiliare),
+forlivese, di ragguardevole famiglia, fu podest@a di Faenza nel
+1296; pare morisse nel 1316.  Secondo gli antichi commentatori fu
+gran bevitore (^valens in bibacitate~, dice Benvenuto), ma forse
+le loro chiose infiorettano e ricamano il testo dantesco. 
+|Spazio~: agio.  |Con men secchezza~: <con minor ristrettezza>,
+cio@e pi@u copiosamente che in Purgatorio.  Altri <con minor sete,
+con meno arsura>.  L'espressione @e garbatamente ironica, ed @e
+chiaro che ricalca (e ci@o vale non solo per Marchese ma anche per
+gli altri golosi qui nominati) una materia aneddotica a carattere
+popolare (Sapegno).  Non sembra per@o che si debba insistere su
+un'intenzione caricaturale che Dante farebbe rivolgere da Forese
+perfino a se stesso, per caratterizzarlo psicologicamente.  |Fu
+tal~: fu cos@i inveterato bevitore.  |Che... sazio~: riferisce
+Benvenuto che, avendo un tale detto a Marchese: <Domine, dicitur
+quod numquam facitis nisi bibere> (<Messere, si dice che voi non
+facciate che bere>), quelli rispose sorridendo: <Et quare numquam
+dicunt quod semper sitio?> (<E perch@e non dicono mai che ho
+sempre sete?>).  Sembra chiaramente che Dante ricalchi in questo
+verso l'aneddoto riferito da Benvenuto.  Il che conferma la
+matrice aneddotica di tutti questi ritratti.
+
+	|34-48 {Nota Bosco}.~  Di l@a d'una breve rassegna di
+golosi (16-33), si ha, nel colloquio con Bonagiunta da Lucca, la
+rievocazione dell'ora della giovent@u che per un poeta come Dante
+era la pi@u significativa, quando egli, insieme a pochi suoi
+giovani amici solidali, aveva vinto una difficile battaglia
+letteraria, imponendo un nuovo stile di poesia d'amore (49-63). 
+Torneremo ampiamente su questo celebre passo, centrale
+nell'episodio di Forese.  Il poeta immagina di trovare tra i
+golosi Bonagiunta da Lucca, un poeta della generazione precedente
+alla sua, proprio colui che in un famoso sonetto aveva
+rimproverato al Guinizzelli, ^padre~ anche secondo Dante (^Pg~
+XXVI 97-99) dei poeti stilnovisti, d'aver <mutato la mainera / de
+li plagenti ditti de l'amore>, cio@e, appunto, d'aver dato inizio
+allo stilnovo.  I rapporti terreni tra Dante e Bonagiunta,
+diretti o indiretti che essi siano stati, dovrebbero essere stati
+amichevoli, o tali Dante ce li rappresenta, dato che nel racconto
+del ^Purg.~ Bonagiunta, riconosciuto Dante, subito si vale della
+sua prescienza per lenire un po' l'asprezza dell'aspettativa
+dell'esilio, predicendogli l'incontro con Gentucca.  Bonagiunta
+sarebbe dunque persona amica, anche se dissenziente (ma fino a un
+certo punto) in materia di poetica: dunque non dissimile, pur
+nella diversit@a, da Forese, rappresentante anche lui d'uno
+^stile~ di poesia che Dante del ^Purgatorio~ non approva.
+
+	|34-36.  s'apprezza~: <fa stima, si compiace>.  Altri
+legge ^si prezza~ (ed. '21) e ^fa prezza~ (deverbale da
+<prezzare> appoggiato da PARODI, ^Lingua~, II 246) di analogo
+significato: di quest'ultimo per@o il Tommaseo non trova altri
+esempi e pensa ad uno scambio, facilissimo d'altronde, tra ^f~ ed
+^s~ (|s'apprezza~).  |Quel da Lucca~: Bonagiunta.  |Aver
+contezza~: altra lez. ^voler contezza.~  Il Petrocchi (I 205)
+nota: <Da tutto il contesto della scena si inferisce con
+chiarezza che l'espressione dell'Orbicciani non @e quella di chi
+vuole notizie (^voler contezza~) ma piuttosto di chi ha da darne
+(|aver contezza~)>.
+
+	|37-39.  El mormorava~: egli parlava sommessamente, quasi
+tra s@e.  |E non so... pilucca~: e un |Gentucca~ che non
+comprendevo, sentivo l@a sulla sua bocca, dove egli provava il
+tormento (|piaga~) della fame e della sete impostagli dalla
+giustizia divina, che li consuma (|pilucca~) cos@i.  Quasi tutti
+gli antichi commentatori non collegavano questo nome |Gentucca~
+con la ^femmina~ del v. 43, ma pensavano che significasse
+^gentuccia~, cio@e <gente da poco> e si riferisse alla turba delle
+anime che erano l@i intorno (Lana, Anonimo Fiorentino), ovvero ai
+nemici politici di Dante (Ottimo).  Tra i moderni, il Torraca
+pensa che |Gentucca~ sia da leggere ^gente ucca~, cio@e <la gente
+rimprovera (^ucca~ dal prv. ^uchar~) la mia citt@a>, che sarebbe
+poi ripreso al v. 45 (^come ch'om la riprenda~).  Ma gi@a il Buti
+ebbe il sospetto che Gentucca fosse nome proprio e si collegasse
+quindi con la profezia dei vv. 43-48.  I moderni sono quasi tutti
+d'accordo in ci@o, ma la difficolt@a fu ed @e quella di identificare
+questa gentildonna, che avrebbe placato le ire antilucchesi di
+Dante.  Scavando negli archivi si trovarono parecchie Gentucche:
+la pi@u plausibile identificazione @e con una Gentucca di Ciucchino
+Morla, sposata a Buonaccorso Fondora.  Chi volesse vedere tutta
+la documentazione di queste ricerche d'archivio, consulti in ^E.
+D.~ III 116-117 l'esauriente voce di G. Varanini.  Ci@o che sembra
+da escludersi @e l'ipotesi di una relazione amorosa Dante-Gentucca
+dato il tono generale della profezia.  Difficile anche accettare
+l'interpretazione del Sanguineti (^L. D. S.~, II 909-914), non
+giustificata dal testo, di una Gentucca <chiave... dell'episodio>
+nel quale il critico scorge un raffinatissimo gioco lessicale
+(^femmina-donna~ di ^Vn~ XIX 1 che ritorna nei vv. 43 e 51) che
+enuncerebbe, oltre che un'<opposizione letteraria>, una
+<opposizione morale o... ideologica, per una piena rivelazione
+d'amore> tra Bonagiunta, l'uomo antico che non intende ancora
+l'opposizione ^femmina-donna~, e il ^nuovo stile~ in cui
+l'immagine femminile @e nobilitata dall'<intelletto d'amore>. 
+|Pilucca~: il verbo vale propriamente <spiccare ad uno ad uno gli
+acini di un grappolo di uva: quindi li riduce come raspi senza
+acini, scheletri umani> (Chimenz).  Cfr. ^Pg~ XXIII 58: ^vi
+sfoglia.~
+
+	|40-42.  par~: sembri, pari.  |Vaga~: desiderosa.  |Ch'io
+t'intenda~: Dante aveva s@i sentito ^non so che `Gentucca'~, ma
+non aveva potuto capire che cosa ci@o significasse.  |E te e me~:
+Dante ha notato che Bonagiunta aveva desiderio di dire qualche
+cosa, quindi chiede non solo di appagare lui, Dante, spiegandogli
+la strana parola, ma anche di appagare se stesso, rivelando ci@o
+che intende dire.
+
+	|43-45.  Femmina... benda~: @e nata gi@a una donna, ma @e
+ancora giovinetta.  Gli statuti comunali prescrivevano che le
+donne maritate portassero un velo o benda nera con soggolo che
+copriva i capelli, le tempie e il mento, come d'altronde si pu@o
+vedere nell'iconografia del tempo.  Le vedove portavano la benda
+bianca (cfr. ^Pg~ VIII 74).  Per quest'uso e per gli abusi che,
+poi, derivarono, vedi E. LEVI, ^Piccarda e Gentucca~, Bologna,
+1921, pp. 105-108.  |Come ch'om la riprenda~: anche Dante, da
+buon fiorentino, aveva ceduto all'uso municipalistico del tempo,
+di dir male di Lucca (cfr. ^If~ XXI 39-42).  Questa profezia
+messa in bocca a Bonagiunta sembra chiaramente una palinodia.
+
+	|46-48.  antivedere~: profezia.  |Se nel... vere~: se per
+le mie parole mormorate a fior di labbra @e nato in te qualche
+dubbio (|prendesti errore~), la realt@a, i fatti (|le cose vere~)
+ti chiariranno (|dichiareranti~) di pi@u (|ancor~); di quanto,
+cio@e, abbiano potuto le mie parole.  Quando Dante pot$e trovarsi a
+Lucca ed incontrare la gentildonna profetizzata da Bonagiunta,
+non @e facile a dirsi.  @E quasi del tutto da escludere che fosse
+nel periodo della signoria del ghibellino Uguccione della
+Faggiola (1314-1316), perch$e la data @e troppo tarda nei confronti
+della composizione del ^Purgatorio.~  Pi@u probabile @e intorno al
+1306, durante il soggiorno in Lunigiana, quando Dante fu ospite
+dei Malaspina, o qualche anno pi@u tardi (1308-1309) se quel
+Giovanni, figlio <Dantis Alagherii de Florentia>, @e veramente il
+primogenito del poeta (cfr. BARBI, ^Problemi~ II 347 ss. e in
+particolare pp. 357-358).  Non @e poi detto che l'incontro con la
+gentildonna lucchese avvenisse in Lucca; avvenne forse in
+un'altra localit@a, ma ci@o non escluderebbe che l'ospitalit@a
+cortese e generosa di lei potesse far cambiare idea al poeta
+sulla citt@a di Santa Zita.
+
+	|49-63 {Nota Bosco}.~  A fronte della rievocazione della
+traviata vita giovanile e del gusto letterario che ne era il
+riflesso, sta (XXIV 49-63) quella dello stilnovo, vita e poesia. 
+La vera palinodia sta in questa seconda rievocazione: nella
+stessa giovinezza, nella stessa Firenze di allora, insieme col
+veleno, l'antidoto.  Accanto alla Tenzone, la ^Vita nuova~ e le
+rime stilnovistiche.  Dopo la profezia consolatrice, Bonagiunta
+domanda a Dante se egli vedeva proprio colui che aveva `tratto
+fore' |le nove rime, cominciando: `Donne ch'avete intelletto
+d'amore'.~  Domanda non intesa ad avere conferma dell'identit@a
+dell'interlocutore, sulla quele appare che il lucchese non avesse
+dubbi, ma a portare il discorso, con formula cortese (Sapegno),
+sull'argomento che era stato il loro punto d'incontro e di
+dissenso, la poesia; Dante risponde con la celeberrima terzina
+|I' mi son un che, quando / Amor mi spira, noto, e a quel modo /
+ch'e' ditta dentro vo significando~ {50-54}.  Bonagiunta ora ha
+compreso: tra lo |stile~ di Dante e dei suoi amici e quello dei
+poeti loro predecessori, la differenza consiste proprio nel fatto
+che questi avevano della poesia una concezione diversa da quella
+indicata nella terzina dantesca: ci@o aveva impedito ai poeti
+siciliani, indicati col loro caposcuola, il Notaro Iacopo da
+Lentini, a coloro che, come lui, Bonagiunta, avevano trapiantato
+in Toscana i modi siciliani (Contini), e ai toscani amanti
+d'astruse raffinatezze formali come Guittone, di seguire il nuovo
+stile: |`issa vegg'io', diss'elli, `il nodo / che 'l Notaro e
+Guittone e me ritenne / di qua dal dolce stil novo ch'i' odo'~
+{55-57}.  Bonagiunta appare soddisfatto della definizione di
+Dante e delle proprie deduzioni, e non aggiunge altro: |quasi
+contentato, si tacette~ {63}.  Non @e difficile intuire le ragioni
+per cui Dante scelga Bonagiunta a proprio interlocutore per
+questa definizione dello stilnovo e per registrare la vittoria
+della nuova scuola sulle precedenti: egli era stato, come si @e
+detto, l'oppositore del Guinizzelli e insieme era, tra i poeti
+della passata generazione, colui che era stato pi@u aperto alle
+novit@a stilnovistiche (Contini).  Basta leggere una sua
+`canzonetta': <Quando apar l'aulente fiore, / lo tempo dolze e
+sereno, / gli auscelletti infra gli albore / ciascun canta in suo
+latino...>, tutta intessuta di motivi stilnovistici, che
+riappariscono qui in ^Pg~ XXVIII 10-18, in sede di supremo
+recupero dello stilnovo.  Pi@u difficile e cosa assai controversa,
+@e precisare la portata della definizione dantesca.  @E sembrato a
+lungo ovvio, e anche oggi alcuni valenti studiosi non ne
+dubitano, che |dolce~ sia qualifica generica, e che la `novit@a'
+consista nell'aderenza immediata dei poeti al nascere e fluire
+interno del sentimento, nella fedele espressione di questo.  La
+bellezza della poesia stilnovistica consisterebbe nella forza del
+sentire e nella sincerit@a della trascrizione di questo sulla
+pagina, non negli ornamenti letterari, e neppure nella sostanza
+di pensiero e nella sua efficacia di ammaestramento.  Il racconto
+della ^Vita nuova~ XVII-XIX, dove @e detto che a Dante, che si era
+a un certo momento proposto di prendere <matera nuova e pi@u
+nobile che la passata>, la <lingua parl@o quasi come per se stessa
+mossa, e disse: ^Donne ch'avete intelletto d'amore~>, appunto la
+canzone dalla quale Dante, per bocca di Bonagiunta, fa cominciare
+le |nove rime~, sembrerebbe confermare l'interpretazione che
+abbiamo detto apparentemente ovvia.  Ma questa @e troppo lontana
+dalla concezione della poesia che era propria di Dante e del
+tempo suo; @e anzi addirittura romantica.  Senza dire che se fosse
+vera, Dante darebbe ragione proprio al sonetto di Bonagiunta, nel
+quale questi, per strano che possa oggi sembrarci, rimproverava
+alla nuova maniera instaurata dal Guinizzelli proprio un eccesso
+di dottrina: <@e tenuta gran dissimigliansa, / ancor ch 'l senno
+vegna da Bologna, / traier canson per forsa di scrittura>.  Noi
+sappiamo bene, invece, che per Dante la poesia @e soprattutto
+ammaestramento, e come tale @e celebrata di proposito anche nei
+canti immediatamente precedenti XXI-XXII; e che se l'ispirazione
+anche sentimentale @e necessaria, essa @e frutto anche di duro
+lungo lavoro espressivo, simile a quello mediante il quale il
+fabbro piega il metallo.  Per comprendere bene la definizione
+dantesca del nuovo |stile~ suo e dei suoi amici, bisogna
+comprendere in che cosa esso @e |dolce~ e perch$e @e |novo.~ 
+Bisogna anzitutto notare che |dolce~ per Dante qualifica la
+poesia d'amore.  In ^Pg~ XXVI 97-99 ^dolci e leggiadre~ son dette
+le ^rime d'amor~ del Guinizzelli, e la connotazione @e ribadita
+poco oltre (^Li dolci detti vostri...~, 112): ma nella terza
+canzone del ^Conv.~ (^Le dolci rime~, 1-14) @e esplicitamente
+detto che alla poesia d'amore si addice uno stile `dolce' (<le
+dolci rime d'amor...>) o `soave' o `leno' (cos@i anche lo chiama
+nel commento alla canzone, ^Cv~ IV ii 13), mentre alla poesia
+dottrinale @e proprio uno stile <aspr' e sottile>.  La dolcezza
+del nuovo stile (vedi anche ^106-114 {Nota Bosco}~ a ^Pg~ II)
+consiste dunque in un determinato tono linguistico-stilistico,
+relativo, dice Dante nel passo del ^Conv.~ ora citato, al <suono
+de lo dittato>, al quale si contrappone, cambiata la materia, un
+suono `aspro': per descrivere il fondo dell'Inferno occorrono,
+per esempio, ^rime aspre e chiocce~ (^If~ XXXII 1; e vedi ^1-12
+{Nota Bosco}~ a ^If~ XXXII; ecc.).  I caratteri musicali dello
+stilnovo, come si pu@o desumere dal confronto, nei limiti in cui
+questo @e lecito, con quelli del volgare illustre fissati da Dante
+nel ^De vulg. el.~, son dati, oltre che dalla costruzione
+sintattica non aggrovigliata (si pensi invece a Guittone), da
+vocaboli non troppo raffinati n$e appartenenti a un linguaggio
+troppo immediato (salvo qualche sapiente mescolanza): il suono
+dev'essere n$e troppo usuale n$e sdolcinato n$e duro: i vocaboli
+saranno di misura trisillabica o vicina a questa, piani, cio@e non
+sdruccioli n$e tronchi, senza suoni aspirati, senza ^z~ o ^x~,
+senza doppia liquida n$e incontro di muta pi@u liquida.  Dev'essere
+evitato anche il ripetersi troppo frequente d'un medesimo suono
+in rima, e l'uso delle rime equivoche (base del ^trobar clus~
+prov. e di Guittone).  A questa caratterizzazione obbediscono
+puntualmente le canzoni d'amore di Dante e in particolare ^Donne
+ch'avete~, citata appunto come esempio del nuovo stile.  Tra le
+liriche di Dante ci sono peraltro canzoni che non meno
+puntualmente rifiutano questi caratteri: per es. ^Cos@i nel mio
+parlar voglio esser aspro~ (^Rime~ CIII), dal ritmo martellato,
+dominato da bisillabi o monosillabi, sostenuti da suoni di mute e
+liquide che, pi@u che incontrarsi, si scontrano: ma @e una delle
+`petrose', che cantano un violento amore sensuale ben diverso da
+quello che @e argomento dello stilnovo.  Questo ci guida a
+comprendere in che cosa sia `novo' il poetare di Dante e del
+piccolo sodalizio dei suoi amici.  Nei gi@a ricordati capitoli
+XVII-XIX della ^Vita nuova~ Dante racconta come sorse in lui
+l'esigenza d'una materia nuova nell'ambito della poesia d'amore. 
+Non solo l'avvicinare Beatrice, e tanto meno il parlarle, ma la
+semplice presenza di lei anche lontana bastava perch$e Dante si
+smarrisse, venisse meno, sicch$e egli fuggiva la sua donna.  Che
+amore @e mai questo?  che `fine' esso si pu@o proporre?  @E appunto
+la domanda che le donne del cap. XVII rivolgono a Dante, tra
+pensose e scherzose: donne di questa terra anche se `gentili',
+non possono concepire un amore, per quanto puro esso sia, che
+rinunci a un minimo di corresponsione.  Dante risponde che alla
+sua felicit@a era stato in passato sufficiente il saluto di
+Madonna; ora che anche questo appagamanto @e venuto meno per lo
+sdegno di lei, la felicit@a tuttavia persiste: e sta in qualcosa
+che non gli <puote venire meno> perch$e risiede non pi@u fuori di
+lui ma in lui stesso: consiste <in quelle parole che lodano> la
+sua donna, cio@e nella poesia.  Ci@o importa soprattutto che la
+rappresentazione poetica dell'amore cessi d'essere quella d'una
+vicenda sentimentale a due, sia pure labile e schematica com'era
+quella dei poeti precedenti, degli stilnovisti e di lui stesso
+sino a quel momento; diventi pura introspezione.  L'accento della
+definizione dantesca batte sul `dentro': |a quel modo ch'e' ditta
+dentro~ {54}.  Escluso che con ci@o Dante si ponga come padre
+dello stilnovo: tale @e per lui, come sappiamo, il Guinizzelli, e
+d'altra parte nella ^Vita nuova~ pone Guido Cavalcanti sullo
+stesso piano poetico di lui stesso, anzi forse a un livello un
+po' superiore.  N$e poteva voler dire che la sua personale
+adesione allo stilnovo cominciasse con ^Donne ch'avete~: ci@o
+importerebbe che Dante non considerasse stilnovistiche tutte le
+sue poesie precedenti, anche quelle che precedono ^Donne
+ch'avete~ nella stessa ^Vita nuova.~  Si tratta dunque di una
+`novit@a' personale di Dante nell'ambito dello stilnovo; il fatto
+@e per@o che la definizione che Dante d@a della propria nuova
+poetica @e intesa da Bonagiunta, cio@e in definitiva da lui stesso,
+come propria dell'intera nuova scuola, e dirimente rispetto a
+tutte le poetiche precedenti; cio@e Dante attribuisce la novit@a
+all'intero sodalizio.  Eliminare questa apparente contraddizione
+@e evidentemente essenziale.  Nella storia della poesia d'amore
+nei vari volgari neolatini, ambedue le specie d'amore, la
+sensuale e la spirituale, avevano avuto (e avranno sempre) pieno
+diritto di cittadinanza: ma in poeti diversi, o, se nello stesso
+poeta, in zone ben distinte tra loro, persino lessicalmente, dei
+vari canzonieri: accanto alle poesie stilnovistiche di Dante
+stanno, per es., le petrose; e cos@i per gli altri poeti.  Due
+filoni percorrono dunque parallelamente ma con frequenti
+intersecazioni, tutto il cammino della lirica d'amore italiana. 
+L'amore spirituale, per tutti i predecessori di Dante e per lui
+stesso, era stato anch'esso dialogo: il Guinizzelli e gli
+stilnovisti lo avevano portato a un grado di spiritualizzazione
+prima mai raggiunto: la donna @e per essi `angelo', cio@e tramite
+tra Dio e l'uomo: questo in presenza di Madonna non pu@o esser
+vile, diventa cristiano se non lo @e; tutte le qualit@a virtuose
+latenti di lui diventano attuali e operanti per virt@u d'amore. 
+Ci@o @e ribadito dottrinalmente nel sonetto che nella ^Vn~ segue
+immediatamente ^Donne ch'avete~, il quale parte esplicitamente
+dal Guinizzelli (<s@i come il saggio in suo dittare pone>). 
+Peraltro, anche la poesia stilnovistica @e dialogo: quei poeti non
+si liberano dal peso della tradizione, che imponeva preghiere di
+corresponsione, rappresentazione di dolorose lontananze;
+soprattutto lamenti per la crudelt@a della donna che nega o @e
+indifferente.  Per quel che riguarda Dante in particolare, egli
+in origine concepiva naturalmente la poesia d'amore non
+diversamente dagli altri: ^Donne ch'avete~ rappresenta una svolta
+nel processo d'interiorizzazione e spiritualizzazione progressiva
+descritto nella ^Vita nuova.~  D'ora in avanti non pi@u dialogo;
+la `loda', inaugurata da ^Donne ch'avete~, consiste solo nella
+contemplazione grata della bellezza di lei, con la consapevolezza
+che essa importa necessariamente uno slancio verso l'alto: la
+materia nuova @e questo slancio.  Ma il poeta non ne ebbe allora
+(l'ha invece ora che scrive il ^Purgatorio~) piena consapevolezza
+intellettuale, sicch$e anche dopo ^Donne ch'avete~ registra
+esitazioni e oscillazioni, il troppo umano dolore per la morte di
+Beatrice, la tentazione di altro amore consolante.  Ma l'amore,
+pur non cessando di essere tale, cio@e affetto (@e tale ancora
+quello per Beatrice nella ^Commedia~), @e gi@a anche, e talora
+soltanto, problema morale.  Solo l'amore-passione pu@o recare
+dolore, non questo, che essendo puro slancio verso il bene, @e
+amore-virt@u: <s@i com'elli m'era forte in pria, / cos@i mi sta
+soave ora nel core> (^S@i lungiamente~ in ^Vn~ XXVII, vv. 3-4). 
+Il ripudio di amore-dolore @e frutto d'un ripensamento di Dante
+rispetto al Cavalcanti e a lui stesso; i lamenti degli altri
+poeti appaiono a Dante maturo recare in s$e, come dice a proposito
+di alcune canzoni tra cui una del Guinizzelli, qualcosa di
+`elegiaco', dunque d'inferiore (^VE~ II xii 6): e forse @e questa
+una delle ragioni per cui egli si stacca progressivamente dal
+Cavalcanti, sino ad additare non questo, ma Cino da Pistoia, come
+modello per l'alta poesia d'amore, ponendo invece se stesso come
+esponente della poesia di virt@u.  Senza dire che Dante maturo
+ripudia anche la concezione dell'amore propria del Cavalcanti,
+per il quale esso @e obnubilamento della ragione, nel seguire la
+quale consiste la felicit@a (Nardi): per Dante anche l'amore
+dev'essere guidato dalla ragione (vedi ^91-139 {Nota Bosco}~ al
+c. XVII, ^16-39~ e ^43-75 {Note Bosco}~ al c. XVIII: essenziale
+al presente discorso anche il riferimento a ^97-107 {Nota Bosco}~
+a ^If~ V).  Nel ^Purgatorio~ Dante rievoca dunque la sua poesia
+giovanile con la consapevolezza che ora ha acquistata della sua
+essenza segreta e degli sbocchi che aveva avuti.  Come egli
+stesso, cos@i gli altri stilnovistici tendevano, anche senza
+averne coscienza, all'amore-virt@u.  Qui sta la tendenziale
+`novit@a' apportata da lui, ma comune a tutti i suoi amici.  Di l@a
+della rinuncia a ogni corresponsione, anche della vista della
+donna, non ci pu@o essere che la morte fisica di questa; e infatti
+^Donne ch'avete~ @e tutta pervasa dal senso della prossima morte
+di lei; gi@a in essa Beatrice @e la <speranza de' beati>; @e gi@a la
+Beatrice guida del Paradiso; e infatti la ^Vita nuova~
+bruscamente s'interrompe: <apparve a me una mirabile visione, ne
+la quale io vidi cose che mi fecero proporre di non dire pi@u di
+questa benedetta infino a tanto che io potesse pi@u degnamente
+trattare di lei> (XLII): @e un preannuncio della ^Commedia~: qui
+Beatrice @e veramente bellezza solo <spiritale>, l'amore solo
+forza operante nell'intimo; qui ella @e, s@i, teologia, ma @e anche
+e sempre, in tutto il poema, Amore, l'amore posto sotto le grandi
+ali di Dio: la <matera nuova e pi@u nobile> balenatagli nella
+giovent@u, Dante la conquista consapevolmente, e compiutamente la
+esprime, nel poema della maturit@a.  Ecco perch$e il ^Purgatorio~
+segna come abbiamo visto, il recupero iniziato gi@a con l'episodio
+di Casella, dello stilnovo: non solo in sede autobiografica e
+nostalgica, ma anche per effetto della nuova interpretazione:
+solo questo nuovo amore @e degno d'essere celebrato dal poeta
+sulla via della sua salvezza.  L'interpretazione, implicita in
+alcuni canti precedenti, diventa qui esplicita, e sar@a compiuta
+nel canto XXVI dall'esaltazione del Guinizzelli e anzi di tutta
+la poesia volgare; sar@a essa a permettere, anzi a imporre, che
+tra poco Matelda e la stessa Beatrice, figure di cielo, possano
+essere rappresentate con linee e colori stilnovistici umani.
+
+	|49-51.  Ma d@i... amore~: non si tratta di una domanda:
+Bonagiunta ha riconosciuto Dante; infatti appena l'ha visto,
+subito si @e sentito in dovere di profetizzargli l'incontro con
+una donna, che gli allevier@a le pene acerbe dell'esilio.  Si
+tratta quindi di una domanda retorica e pu@o valere press'a poco
+cos@i: <dunque sei proprio tu l'autore della canzone che comincia
+(|cominciando~, il solito gerundio con valore di participio)
+^Donne~ ecc.>.  D'altronde sappiamo che la canzone dantesca <fue
+alquanto divolgata tra le genti> destando <speranza di me oltre
+che degna> (^Vn~ XX 1): dunque la fama pi@u alta di Dante sembra
+cominciare con questa canzone.  Forse Bonagiunta apprezz@o Dante
+per essa (Chimenz), ma segno evidente della sua popolarit@a @e il
+trovarla trascritta in un memoriale bolognese dal notaio Pietro
+Allegranza nel 1293 (cfr. CABONI, ^Antiche rime italiane tratte
+dai Memoriali bolognesi~, Modena, 1941, pp. 70-71 e LIVI, ^Dante,
+suoi primi cultori, sua gente in Bologna~, Bologna, 1918, pp.
+7-10).  La canzone ^Donne che avete~ @e nel capitolo XIX della
+^Vita nuova~, ma dall'insieme del passo pare ovvio congetturare
+che Bonagiunta conoscesse (o se Dante finge che egli conosca,
+deve pure basarsi su fatti reali) i capitoli XVII-XIX.  Comunque,
+per la verit@a di ci@o che Dante qui immagina, si deve dedurre che
+Bonagiunta sia vissuto tanto, da poter essere a conoscenza di
+queste |nove rime~ dantesche (cfr. nota al v. 19).
+
+	|52-54.  I' mi son... significando~: su questa celebre
+definizione dantesca dello stilnovo, citata di prammatica in
+tutte le storie letterarie che trattano del nuovo stile, e
+oggetto di studi particolari, la bibliografia @e immensa, e per
+essa si rimanda a quella pi@u recente, reperibile nella ^Storia
+della letteratura italiana~ a cura di N. SAPEGNO e E. CECCHI,
+Milano, 1965, I, pp. 772 ss. e alla ^Storia della letteratura
+italiana -- Storia e testi~, Bari, 1970, vol. I, consultabile
+anche nel volume a parte ^Lo stil nuovo e la poesia religiosa~ di
+E. PASQUINI e A. F. QUAGLIO, Bari, 1971, pp. 141 ss.  Si veda
+inoltre l'ancor pi@u recente ed esauriente studio di M. MARTI,
+^Storia dello Stil novo~, Lecce, 1974, che @e stato preceduto
+dall'edizione integrale dei testi: ^Poeti del Dolce stil nuovo~,
+Firenze, 1969.  Per una posizione diversa sullo stilnovo, vedi F.
+FAVATI, ^Inchiesta sul Dolce Stil Nuovo~, Firenze, 1975, anche
+per una diversa interpretazione di questi versi.  Si noti il tono
+modesto con cui essa si inizia |I' mi son un~, che vuol escludere
+da s$e i meriti di innovatore, ma allarga la `novit@a' del dolce
+stile al sodalizio fiorentino dei nuovi poeti d'amore.  Nella
+necessit@a di disincagliare questa terzina dalle deduzioni
+romantiche, che ne avevano fatto un principio di poetica della
+immediatezza e del sentimento, per collocarla in un preciso clima
+storico-culturale, M. CASELLA in ^Studi danteschi~ XVIII (1934)
+pp. 106-126 additava una <fonte> della definizione dantesca del
+nuovo modo di poetare in un passo di Riccardo di San Vittore,
+^Tractatus de gradibus charitatis~ (corretto oggi da F. MAZZONI,
+^Aggiornamento~ II 560, nell'^Epistola ad Severium de charitate~
+di frate Ivo).  Si tratta di un testo mistico in cui tra l'altro
+si afferma: <Solus proinde de ea [la narrativa d'amore] digne
+loquitur, qui ^secundum cor dicat interius, exterius verba
+componit~> (<Tratta bene di quella solo chi parla secondo detta
+il cuore interiormente e esteriormente ne esprime le parole>). 
+Parallelismo di concetti, che potrebbe anche essere casuale, come
+forse @e probabile, ma che comunque indica chiaramente come il
+concetto dantesco di amore-virt@u sia ben individuabile in un
+particolare clima storico culturale e come in et@a matura Dante
+abbia potuto effettuare quel recupero dello stil novo, di cui
+parlano ampiamente, oltre a ^49-63 {Nota Bosco}~ di questo canto,
+^97-107 {Nota Bosco}~ a ^If~ V, ^106-114 {Nota Bosco}~ a ^Pg~ II,
+^91-139 {Nota Bosco}~ al c. XVII e ^43-75 {Nota Bosco}~ al XVIII.
+
+	|53-54.  noto~: scrivo, annoto.  Dice il Lana: <Quasi a
+dire: Amore @e mio dittatore et eo so scrivano>; e quasi con le
+stesse parole l'Anonimo fiorentino, dimostrando, questi antichi
+commentatori, di aver ben compreso il senso che Dante volle dare
+a questa sua definizione.  |Ditta~: dal verbo lat. ^dictare~,
+frequentativo di ^dicere~ vale <dire ripetutamente perch$e sia
+scritto>, e, per estensione, <parlare, dire> ecc.  Che qui sia
+preferibile il significato di <dettare>, lo indica chiaramente il
+senso generale della terzina, e ci@o che dicono gli antichi
+commentatori citati nella nota precedente.  Dante @e qui ^scriba
+amoris~: amore <detta> dentro, Dante fedelmente scrive sotto
+dettatura.  Questa immagine scrittoria, vero ^topos~ letterario
+(cfr. CURTIUS, ^Litt$erature~, 402 ss.) appare parecchie volte
+nella ^Commedia~ (cfr. ^Pg~ XXXIII 139; ^Pd~ XXIV 25; ecc.), ma
+l'esempio pi@u vicino al nostro passo @e in ^Pd~ X 27: ^quella
+materia ond'io son fatto scriba~; verso che sembra confermare
+appieno il senso specificato.  |Significando~: manifestando (con
+lo scritto).
+
+	|55-56.  issa~: <ora> (cfr. ^If~ XXIII 7 e nella forma
+<lombarda> ^istra~ in ^If~ XXVII 21).  @E voce lucchese e qui
+perfettamente intonata al personaggio.  Parecchi commentatori
+(Sapegno, Chimenz, ecc.) pensano che |issa~ = <ora> non si
+riferisca alla terzina precedente, ma che voglia dire che ora,
+nel Purgatorio, Bonagiunta vede quel che da vivo non aveva
+veduto.  Tale interpretazione non @e attendibile perch$e non
+spiegherebbe il ^quasi contentato~ (v. 63), che non avrebbe senso
+se non riferito alla definizione che ora Dante gli ha data.  |Il
+nodo~: l'impedimento, l'ostacolo.  |'l Notaro~: Jacopo da
+Lentini, per antonomasia il |Notaro~, caposcuola dei Siciliani,
+notaio e poeta alla corte di Federico II, morto intorno al 1250. 
+@E ricordato con lode da Dante in ^VE~ I xii 8 e qui, chiaramente,
+@e posto come esponente di tutta la cosiddetta `scuola siciliana'. 
+|Guittone~: Guittone del Viva di Arezzo, fiorito nella seconda
+met@a del secolo XIII e morto intorno al 1294 a Firenze, @e
+considerato il caposcuola della lirica provenzaleggiante fiorita
+in Toscana prima e, in un certo senso, in opposizione allo
+stilnovo.  Dante d@a di Guittone e dei guittoniani giudizi
+negativi in ^VE~ I xiii 1 e II vi 8, poi in ^Pg~ XXVI 124-126.
+
+	|57.  dolce stil novo~: come per i <siciliani>, (^VE~ I
+xii 2 e 4) anche per la poesia del cenacolo fiorentino i posteri
+hanno conservato la denominazione dantesca.  Per lo stilnovo vedi
+nota a 52-54 e ^49-63 {Nota Bosco}.~  |Ch'i' odo~: l'espressione
+sembra chiaramente voler significare che Bonagiunta ora (^issa~)
+<ode> il ^nodo~ che ha impedito al notaio, a Guittone e a lui
+stesso di avvicinarsi a quel tipo di stile |nuovo~ e |dolce.~ 
+Ci@o conferma quello che si disse alla nota al v. 55; e
+l'insistenza del verbo ^vedere~ (^vegg'io... Io veggio ben... non
+vede pi@u~), notata dal Sapegno, sembra ancora maggiormente
+convalidarlo, ch$e dal testo non appare affatto che Bonagiunta ci
+tenga <a far sapere... che da tempo ha mutato opinione e ha
+compreso quel segreto che prima gli sfuggiva> (Sapegno).
+
+	|58-60.  vostre penne~: @e fermamente da respingere
+l'interpretazione di M. Musa (^Le ali di Dante~, in <Convivium>
+n. s. XXXIV 1-4, pp. 361-367), che intende |penne~ nel senso di
+<ali>.  Qui @e chiaro che la metafora di Amore, che <ditta>, e di
+Dante, che <va significando>, continua nell'immagine scrittoria,
+dove @e da notare che il |vostre~ allarga il discorso di
+Bonagiunta, sull'esempio della definizione dantesca, dalle rime
+di questo a tutti i rappresentanti del nuovo stile.  Si pu@o
+ricordare che nel passo dello pseudo Riccardo di San Vittore si
+parla anche di un ^calamus~ intinto nel sangue del cuore
+(espressione mistica): se il passo fosse stato noto a Dante, si
+potrebbe pensare a un collegamento mnemonico della parola al
+concetto espresso precedentemente.  Ma non occorre: la metafora
+dello scrivere era gi@a formulata nei vv. 53-54 da Dante e viene
+ripresa da Bonagiunta.  |Di retro... strette~: scrivono con
+assoluta fedelt@a il <dettato> di amore.  |Che~: cosa che, il che. 
+|Nostre~: tutta la poesia amorosa, dai Siciliani allo stilnovo
+escluso, indicata nelle tre emblematiche persone del Notaio, di
+Guittone e dello stesso Bonagiunta.
+
+	|61-63.  qual~: chiunque.  |A gradire~: la scelta della
+lezione (altri: ^riguardare~) @e giustificata ampiamente in
+PETROCCHI, I 205-207.  @E ^lectio difficilior~ e latinismo (da
+^gradior~) e vale <procedere oltre>.  |Non vede... stilo~: non
+vede altra differenza tra lo stile nostro e il vostro. 
+Bonagiunta ritiene che la differenza tra i due <stili> sia
+l'essere pi@u vicini o meno al <dettato> di Amore.  Ma in realt@a
+la differenza stava tra la concezione di amore-passione e quella
+di un amore-virt@u.  Vedi ^49-63 {Nota Bosco}.~  |Quasi
+contentato~: <come appagato> dalle parole di Dante e dalla
+raggiunta comprensione dei due modi di poetare.  |Quasi~ non @e
+limitativo; vale il ^tamquam~ latino.
+
+	|64-81 {Nota Bosco}.~  Seguiamo qui le ultime fasi
+dell'incontro.  @E ormai giunto il momento della separazione: le
+altre anime, che avevano tenuto sino allora, sempre senza
+fermarsi, il viso rivolto a Dante, lo volgono in direzione del
+loro cammino, e affrettano il passo; ma Forese le fa andare
+innanzi per ritardare il momento del distacco; come Stazio
+ritarda per amore di Virgilio la sua gloria paradisiaca, cos@i
+Forese la sua espiazione; e addolcisce il dolore della
+separazione con la speranza di rivederlo: |Quando fia ch'io ti
+riveggia?~ (64-75).  Si rivedranno, s'intende, dopo la morte di
+Dante; ma Forese sa che la prospettiva della morte terrena, che
+lo riporter@a in Purgatorio, non @e tale da spaventare Dante. 
+Questi infatti dice di affrettare col desiderio quel momento,
+tanto pi@u che Firenze, |u' fui a viver posto, / di giorno in
+giorno pi@u di ben si spolpa~ (76-81).  @E stato da Dio |posto~ a
+vivere a Firenze, questa @e la sua sede naturale, eppure gli
+uomini lo allontaneranno, agendo quasi contro natura: @e
+un'allusione all'esilio; prima ce n'era stata un'altra, quando
+Bonagiunta gli aveva preannunciato in una donna cortese,
+Gentucca, isolata a Lucca come Nella a Firenze, colei che ne
+avrebbe un po' lenito l'amarezza.  Uguale alternanza di affetti e
+di sdegno aveva avuto, tra gli altri, l'episodio di Brunetto
+(^If~ XV), a questo vicino anche per coincidenza di struttura
+narrativa: anche di esso la protagonista @e la Firenze d'intorno
+al 1290 (si ricordi che Forese mor@i solo due anni dopo Brunetto):
+una Firenze domestica e per cos@i dire privata, sullo sfondo delle
+grandi vicende politiche; e in essa, lui, Dante, nella sua vita
+intima, tra i suoi amici, con le sue vittorie letterarie, e anche
+con le sue colpe.  In un'ora della sua giovinezza, egli stesso
+aveva partecipato, con Forese, al generale decadimento del
+costume; i `particolari' che alla fine del canto XXIII Dante d@a
+all'amico sulla vicenda della sua salvazione, sottolineano ancora
+il punto peccaminoso di partenza, che faceva parte della
+giovinezza.  Ma c'era in quel peccato un lievito di riscatto,
+l'esigenza morale del poeta avr@a il sopravvento, generer@a prima
+lo stilnovo, poi permetter@a l'intervento di Virgilio e di
+Beatrice.  Da questa confessione bisogna partire per capire
+appieno il perch$e dell'inserzione in quest'episodio di quella
+dichiarazione circa la poetica dello stilnovo, che a molti, anche
+recenti e acuti, @e sembrata una parentesi; cio@e, senza eufemismi,
+fuori posto.
+
+	|64-66.  li augei... Nilo~: le gru, che svernano
+(|vernan~) lungo il Nilo, cio@e nei paesi caldi.  Cfr. Virgilio,
+^Aen.~ VI 311 ss. e soprattutto Lucano, ^Phars.~ V 711 ss. 
+|Fanno schiera~: si raccolgono.  |Poi... filo~: poi si snodano in
+volo (cfr. ^If~ V 47); in fila, una dopo l'altra.
+
+	|68-69.  volgendo 'l viso~: volgendo gli occhi, lo
+sguardo (|viso~) nella direzione del loro cammino, distogliendolo
+da Dante, che avevano prima guardato e fissato con attenzione
+(vv. 4-6).  |E per... leggera~: i golosi corrono con leggerezza
+per il desiderio che li stimola alla penitenza (|voler~ = la
+^voglia~ di ^Pg~ XXIII 73-74), comune d'altronde a tutti i
+penitenti del Purgatorio.
+
+	|70-72.  E come... passeggia~: in questo paragone @e colto
+l'atteggiamento di Forese con straordinaria coerenza verbale: di
+solito Forese ^trotta~ come gli altri golosi, poi va a passo
+(|passeggia~) per non allontanarsi da Dante; infine, staccatosi
+da lui, ^galoppa~ (vv. 94-97) per raggiungere i compagni di pena. 
+Quest'ultimo atto avvicina nuovamente quest'episodio a quello di
+Brunetto (^If~ XV 121-124).  Vedi nota a ^Pg~ XXIII 42. 
+|Trottare~: per <correre> @e detto anche degli uomini.  Cfr.
+Boccaccio, ^Decam.~ II ii 15.  |Lasso~: stanco.  |Passeggia~:
+qui, usato assolutamente come intransitivo, vale <andare al
+passo>; indica cio@e un camminare senza correre, come in ^If~
+XXXII 77.  Il Porena legge ^si passeggia~ e lo considera
+pseudoriflessivo col valore di <passeggia (va di passo) per suo
+conto>, lasciando che altri corra.  Preferibile la lezione a
+testo (|s@i~), che rafforza il verbo in relazione a |fin che~ del
+verso seguente.  |Affollar~: <ansare, ansimare> dal lat. ^follis~
+= mantice.  |Casso~: petto (cfr. ^If~ XII 122; XX 12; XXV 74).
+
+	|73-75.  trapassar~: oltrepassare, andare avanti. 
+|Greggia~: pu@o avere senso buono (qui addirittura qualificata
+|santa~), che ha di rado modernamente.  |Quando... riveggia~:
+quando avverr@a (|fia~) ch'io ti riveda?, cio@e quando ti rivedr@o? 
+La domanda, cos@i naturale tra due amici, quando stanno per
+lasciarsi, @e uno dei passi dove meglio si coglie il clima di
+fraterna amicizia dell'intero episodio.  Evidentemente, i due si
+rivedranno solo quando Dante morr@a.
+
+	|76-78.  mi viva~: il |mi~ @e pleonastico.  |Ma gi@a...
+riva~: ma il mio ritorno nel Purgatorio non sar@a cos@i sollecito
+(|tantosto~), che non ci arrivi prima col mio desiderio. 
+|Tantosto~ per <tanto tosto> @e ampiamente documentato nell'antica
+vulgata, come nell'italiano antico ed @e ^lectio difficilior.~  Le
+altre edizioni hanno ^tanto tosto~ e la sineresi di |fia.~  Nella
+primavera del 1300, in piena attivit@a politica, sembra strano che
+Dante fosse gi@a cos@i staccato dalle cose terrene da avere un
+simile desiderio di morte; forse la desiderava per non vedere il
+temuto sfacelo di Firenze.  Ma @e pi@u probabile che Dante poeta
+(che scrive quasi certamente verso la fine della prima decade del
+'300) si sovrapponga a Dante personaggio del poema.
+
+	|79-81.  'l loco u' fui a viver posto~: Firenze.  La
+forma |u'~ (lat. ^ubi~ = dove) @e assai frequente nell'antica
+poesia italiana.  |Pi@u di ben si spolpa~: diminuisce, si spoglia,
+di virt@u (|ben~).  |Disposto~: propenso, preparato.
+
+	|82-90 {Nota Bosco}.~  Ci sar@a subito dopo un'altra
+allusione all'esilio, con la profezia, che Forese far@a, della
+punizione del massimo artefice della corruzione morale e politica
+di Firenze, cui l'esilio @e dovuto, Corso Donati.  Questa profezia
+@e l'ultima battuta dell'amichevole dialogo: il concorde Forese
+dice all'amico l'unica parola che pu@o essergli grata: l'invito a
+fidare, contro l'ingiustizia degli uomini, nell'immancabile
+giustizia di Dio.  Storicamente, sappiamo che Corso, considerato
+traditore dagli stessi Neri, fugg@i da Firenze, ma fu catturato e
+ricondotto in citt@a; nel viaggio l'indomabile capopopolo si
+lasci@o cadere da cavallo e fu trafitto da uno dei catturatori. 
+Dante trasforma la cronaca contemporanea in un evento
+soprannaturale: attingendo ancora una volta a moduli di
+narrazione edificante popolare, immagina che il corpo di lui sia
+trascinato |a coda d'una bestia~ direttamente all'Inferno (si
+ricordi che il trascinamento a coda di cavallo era in alcuni
+statuti pena appunto dei traditori e omicidi).  Si direbbe che
+Dante operi lui stesso la punizione: fantasticamente dilania il
+corpo del nemico: |La bestia ad ogne passo va pi@u ratto, /
+crescendo sempre, fin ch'ella il percuote, / e lascia il corpo
+vilmente disfatto~ {83-87}.  Niente piet@a, nessuna grandezza
+nella morte: Dante indugia nella contemplazione dell'atroce
+castigo: @e soddisfatto nel suo bisogno di giustizia, ma non
+consolato.  Per maggiore punizione, Dante n$e qui n$e altrove fa il
+nome di Corso.  Il cavallo che trascina Corso all'Inferno e le
+bocche delle Fiorentine impudiche, gi@a spalancate a urlare se
+conoscessero il castigo che le aspetta, hanno in funzione
+fantastica e morale lo stesso timbro.  L'esaltazione della
+pudicizia e devozione coniugale di Nella nasce dalla stessa
+radice da cui sorge l'invettiva contro le sfacciate donne
+fiorentine (XXIII 106-111); il ricordo dell'amico Forese e della
+bellezza e bont@a di Piccarda, e il preannuncio della sua gloria
+celeste (la figura di lei sar@a approfondita in ^Pd~ III 34-51,
+103-108: l@a anch'ella accenner@a, ma avendolo perdonato, al `male'
+fatto anche a lei da Corso) hanno la stessa origine che il
+ricordo della corruzione fiorentina (di cui Corso @e il maggior
+responsabile), e la predizione del castigo terreno e ultraterreno
+di lui.
+
+	|82.  Or va~: espressione del linguaggio familiare come a
+dire: <sta pur tranquillo>.  Con sfumatura lievemente diversa in
+^Pg~ VIII 133.  |Quei che pi@u n'ha colpa~: Corso Donati, fratello
+di Forese e di Piccarda, capo della parte Nera, per Dante il
+maggior responsabile delle discordie interne di Firenze.  Nato
+intorno al 1250, mostr@o subito un carattere violento.  Fece
+rapire con la forza dal chiostro la sorella Piccarda (^Pd~ III
+107) per darla in moglie a Rossellino della Tosa: Podest@a o
+Capitano del popolo in parecchie citt@a (Bologna, Padova, Pistoia,
+Parma, ecc.), ogni volta che ritornava in Firenze dai suoi uffici
+era sempre in prima fila nei torbidi della citt@a.  Come Capitano
+del popolo comand@o le milizie pistoiesi alleate di Firenze nella
+battaglia di Campaldino; disobbedendo agli ordini del comandante
+in capo, attacc@o gli Aretini sul fianco: di tale prodezza men@o
+sempre gran vanto.  Fu in urto spesso anche con uomini della sua
+stessa parte (nel 1296 Guido Cavalcanti cerc@o di ucciderlo sulla
+pubblica piazza), mostrando sempre il suo carattere prepotente. 
+Podest@a di Orvieto nel 1299 e rettore di Massa Trabaria nel 1300,
+non partecip@o direttamente ai torbidi del Calendimaggio di
+quell'anno (cfr. ^If~ VI 64-66) ma istig@o la trama sovvertitrice,
+nota col nome di congiura di Santa Trinita, per cui venne
+condannato a morte in contumacia.  Con l'entrata di Carlo di
+Valois (novembre 1301), Corso rientr@o in citt@a e fu spietato
+nelle vendette e nelle stragi di avversari di parte Bianca.  Fu
+il vero padrone della citt@a negli anni immediatamente seguenti;
+ma i continui maneggi, ora con il popolo minuto ora con i
+Ghibellini (spos@o in terze nozze la figlia del capo e condottiero
+ghibellino Uguccione della Faggiola), destarono i sospetti dei
+troppi suoi nemici, che, coalizzatisi, il 6 ottobre 1308 lo
+accusarono di tradimento e gli spinsero contro le masse popolari. 
+Fuggito dalla citt@a, fu raggiunto da armigeri catalani al
+servizio della Signoria e, presso il convento di San Salvi, poco
+lontano dalle mura di Firenze, venne assassinato.
+
+	|83-84.  vegg',io... scolpa~: lo vedo trascinato
+(|tratto~) dalla coda di un cavallo verso l'Inferno, la valle ove
+non si ottiene mai la remissione dei peccati (|si scolpa~).  Per
+alcuni |si scolpa~ @e riferito a Corso: cio@e egli @e trascinato
+verso la valle dove le sue colpe non gli verranno mai rimesse (il
+presente per il futuro era normale).  Il Del Lungo invece d@a a
+|scolpa~ il significato negativo dell'antiquato verbo ^colpare~ e
+intende la ^valle~ non l'Inferno, ma Firenze, dove <non si cessa
+mai dalle colpe>.  Tale interpretazione banalizza tutta questa
+straordinaria rappresentazione; inoltre a preferire la prima
+interpretazione sta, soprattutto, l'evidente trasfigurazione in
+tono profetico dei racconti che si facevano sulla morte di Corso. 
+Il Villani ad es. narra (^Cron.~ VIII 96) che, mentre gli
+armigeri catalani lo conducevano verso Firenze, egli si sarebbe
+lasciato cadere da cavallo e allora uno di quelli lo ammazz@o con
+un colpo di lancia.  Benvenuto e altri commentatori antichi,
+attingendo verosimilmente a racconti che correvano, dicono che,
+caduto, o lasciatosi cadere da cavallo, gli rimanesse un piede
+impigliato nella staffa e venisse trascinato per un buon tratto
+dall'animale.  A ci@o si devono aggiungere altre due
+considerazioni: in alcuni Comuni le leggi prescrivevano come pena
+dei traditori l'essere legati alla coda di un cavallo e
+trascinati o fino al patibolo o fino a sopravvenuta morte. 
+Inoltre, in molte leggende medievali si narrava di peccatori che,
+saliti a cavallo, venivano portati dalla cavalcatura direttamente
+all'Inferno.  In questi versi possiamo quindi vedere come tutto
+ci@o abbia agito sulla fantasia del poeta e abbia determinato la
+creazione di questa allucinante morte, resa ancor pi@u tremenda
+dai bagliori apocalittici di una profezia.
+
+	|85-87.  ratto~: velocemente, rapidamente.  |Crescendo~:
+va sottinteso <in velocit@a>, <in rapidit@a> o simili.  |Percuote~:
+<gli d@a il colpo di grazia> (Casini-Barbi).  Verosimilmente sar@a
+da intendere che lo colpisce con calci, ovvero che lo fa sbattere
+contro un sasso o simili.  |Vilmente disfatto~: ignominiosamente
+dilacerato.
+
+	|88-90.  quelle ruote~: i cieli; quindi: non passeranno
+molti anni.  |E drizz@o... al ciel~: un altro elemento mimico,
+caratteristico di questi canti, come avevamo gi@a notato nel canto
+precedente (XXIII 121 e 131).  |Dichiarar~: rendere pi@u chiaro,
+palesare maggiormente.
+
+	|91-102 {Nota Bosco}.~  Dopo questi suoni cupi e fermi,
+ritornano le note dell'affetto.  Forese deve ormai raggiungere i
+suoi compagni di espiazione, e si allontana rapido.  Gli occhi di
+Dante non si staccano dalla sua figura finch$e gli @e possibile
+seguirla; anche dopo che essa @e sparita, resta nella memoria una
+lunga eco delle sue parole (91-102).
+
+	|91-93.  ti rimani~: imperativo, con il |ti~ pleonastico. 
+|Caro~: prezioso.  |S@i a paro a paro~: cos@i con lento passo come
+il tuo.  Abbiamo visto (XXIII 19-21, XXIV 67-69) che queste anime
+corrono sollecitamente verso gli alberi, strumento di punizione.
+
+	|94-96.  gualoppo~: galoppo.  |Che cavalchi~: che faccia
+una <cavalcata>, cio@e una scorreria in campo nemico.  @E in questo
+caso termine tecnico dell'arte militare medievale (cfr.
+BATTAGLIA, ^G. D. L. I.~, s. v.).  |Del primo intoppo~: del primo
+scontro.  La similitudine @e tratta dall'arte della guerra: il
+cavaliere che esce dalla schiera durante la scorreria per avere
+l'onore di scontrarsi per primo col nemico.  Il Porena considera
+la similitudine infelice, perch$e @e diverso l'insieme della scena;
+ma in realt@a l'analogia qui @e solo tra il cavaliere, che si
+stacca dal gruppo e procede pi@u velocemente, e Forese, che si
+stacca dai tre poeti e corre verso la sua schiera.  Dante cala
+l'analogia in un rapido bozzetto di vita contemporanea senza
+tener conto delle diverse atmosfere particolari.
+
+	|97-99.  valchi~: @e sincope di ^valichi~ che qui vale
+<passi>.  |Con esso i due~: solo con i due, Virgilio e Stazio. 
+|Esso~ rafforza il |con~ come in ^sovresso~ <sopra>, ^sottesso~
+<sotto>, ecc. (cfr. ROHLFS, ^Grammatica~ II {par.} 496).  @E uso
+limitato alla poesia.  |Marescalchi~: qui <maestri, guide> |del
+mondo.~  Il sostantivo attraverso il tardo latino ^mariscalcus~ e
+il lat. medievale ^marscalchus~ o ^marescalchus~, risale al nome
+franco ^marhskalk~, cio@e <servo (^skalk~) del cavallo (^marh~)>. 
+Poi, per estensione, il conte che sopraintendeva le scuderie
+reali (^comes stabuli~), quindi il <capo dell'esercito> o un
+altro magistrato.  Di qui attraverso il fr. ^mar$echal~ deriv@o il
+nostro <maresciallo>, che ha conservato infatti due designazioni
+nel linguaggio militare: o il significato di <sottufficiale> o
+quello di <comandante supremo> (maresciallo d'Italia).  La forma
+^mariscalco~ @e presente in Cecco Angiolieri in un sonetto
+indirizzato a Dante (^Lassar vo' lo trovare di Becchina~, v. 2).
+
+	|100-102.  E quando... sue~: intendi: <e quando si fu
+inoltrato (|intrato~) tanto che i miei occhi lo seguirono (|si
+fero... seguaci~), come la mente poteva seguire le sue parole>;
+il che, pi@u semplicemente, significa che gli occhi di Dante lo
+vedevano solo confusamente, come confusamente la sua mente aveva
+capito la profezia (chiara solo nella sua lettera).
+
+	|103-154 {Nota Bosco}.~  Poi (103-fine) riprende il
+racconto del viaggio: e tutto, tenerezza e sdegno, si dissolve
+nella luce abbagliante dell'angelo, nell'|aura~ {146} profumata
+di primavera mossa dalle ali purificatrici di questo, e che @e
+assai vicina all'^aura dolce~ che ferir@a presto Dante ^per la
+fronte~ nel Paradiso terrestre (^Pg~ XXVIII 7-9); si placa nella
+pace promessa dall'angelo: |quinci si va chi vuole andar per
+pace~ {141}.
+
+	|103-105.  parvermi~: mi apparvero.  |Gravidi~:
+appesantiti, carichi per l'abbondanza dei frutti.  |Vivaci~:
+vividi per il color verde delle fronde o per il colore dei
+frutti.  |Un altro pomo~: un altro albero.  |Altro~ (a differenza
+del lat. ^alter~ o ^alius~) non permette di dire se si tratta
+solo di un secondo albero del girone, o se ve ne sono degli altri
+ancora.  Ma vedi la nota a ^Pg~ XXIII 70.  Il primo albero @e in
+^Pg~ XXII 131.  |Per... laci~: si intende per lo pi@u: perch$e solo
+allora avevo svoltato la curva del monte (|v@olto in laci~ = l@a) e
+quindi l'albero mi appariva.  Ma il Porena, attentissimo e
+preciso, fa osservare che perch$e ci@o avvenga, ci dovrebbe essere
+una svolta brusca, cosa impossibile data l'ampia curva delle
+cornici.  E poi come avrebbe potuto vedere Forese lontano se la
+curva, larga o stretta, gli impediva la vista dell'albero? 
+Occorre perci@o accettare la sua interpretazione: <Perch$e solo
+allora avevo volto in l@a, verso l'albero, gli occhi, che prima
+tenevo fissi in Forese>, anche se pare un po' strano che, pur
+parlando con l'amico, gli fosse sfuggito l'imponente albero
+(^grande arbore~, 113) abbastanza vicino (v. 104) e la turba dei
+penitenti che grida (v. 107).  Bisogna non sottilizzare troppo a
+pensare che qui si tratta di poesia e non di una relazione
+dettagliata.  |Laci~ dal lat. ^illac~; in ^If~ XIV 84 ^lici.~
+
+	|106-108.  gente~: un'altra schiera di golosi. 
+|Fantolini~: bambini.  |Vani~: non <scioccherelli> ma <incapaci>,
+<che si sforzano invano>, ricavando il senso dai vv. successivi.
+
+	|109-111.  'l pregato~: la persona pregata.  |Acuta~:
+intensa: quindi <per acuire il loro desiderio>.  |Tien...
+nasconde~: tiene in alto l'oggetto desiderato (|lor disio~) e ben
+in vista.  La similitudine @e un bozzetto di straordinaria
+finezza.
+
+	|112-113.  ricreduta~: disingannata.  |Adesso~: qui vale
+<subito, tosto>.  Cfr. PARODI, ^Lingua~, II 260.
+
+	|115-117.  Trapassate... presso~: sia questi esempi (vv.
+121-126) sia quelli di temperanza (XXII 142-154) sono preceduti,
+diversamente dagli esempi degli altri peccati, da un monito (cfr.
+^Di questo cibo avrete caro~, XXII 141).  Perch$e i viaggiatori
+non debbono avvicinarsi a questo albero, mentre si erano
+avvicinati all'altro (XXII 139)?  Forse il frutto proibito del
+peccato di Eva, subito richiamato, gioca sulla fantasia di Dante. 
+Certo, se l'odore acuisce il desiderio, e quindi la pena, perch$e
+vietare di avvicinarsi?  Ma forse il monito @e diretto solo ai tre
+poeti, di cui uno @e ancora vivo, un altro ormai liberato dalle
+pene purgatoriali, e il terzo al di fuori di questo regno. 
+|Legno~: l'albero della scienza del bene e del male.  |Pi@u s@u~:
+nel Paradiso Terrestre.  |Si lev@o~: germin@o, deriv@o.
+
+	|118-120.  non so chi~: come in ^Pg~ XXII 140.  |Per
+che~: per la qual cosa.  |Ristretti~: dopo il monito della voce
+misteriosa i tre poeti si stringono fra loro e si accostano alla
+parete del monte per passare il pi@u lontano possibile
+dall'albero.  Perci@o |ristretti~ andr@a riferito anche al verso
+seguente.  |Dal lato che si leva~: verso la parete del monte.
+
+	|121-123.  Ricordivi... petti~: da Ovidio (^Met.~ XII
+210-535) e forse anche da Virgilio (^Georg.~ II 455-457) trae
+Dante il primo esempio di golosit@a punita.  Si tratta dei
+Centauri, figli di Issione e di Nefele (in greco <nuvola>) che
+invitati dai Lapiti alle nozze di Piritoo e di Ippodamia, smodati
+nel bere, si ubriacarono e tentarono di rapire e far violenza
+alla sposa e alle altre donne presenti al banchetto: furono vinti
+e in gran parte uccisi da Teseo.  |Nei nuvoli~: alla nuvola Giove
+aveva dato le sembianze di Giunone.  La forma maschile si alterna
+in Dante con quella femminile: in forma maschile in ^If~ XXIV
+146, XXXI 137; ^Pg~ XVI 3.  |Satolli~: lat. ^satullus~ da
+^satur~: qui <ebbri>.  |Co' doppi petti~: umano ed equino (cfr.
+^If~ XII 56 ss.).
+
+	|124-126.  e de li... colli~: il secondo esempio @e tratto
+dalla Bibbia (^Iud.~ VI 11 - VII 25).  Nella guerra contro i
+Madianiti, per consiglio del Signore, Gedeone combatt$e con i
+trecento soldati che alle porte di Arad avevano solo lambito
+l'acqua con la lingua, avendo rimandato indietro quelli che
+avevano bevuto a lungo, facendo coppa delle mani e dimostrando
+cos@i minore virilit@a (|molli~).  Cos@i @e spiegato il passo biblico
+da alcuni esegeti.  |Quando... colli~: precisazione, secondo il
+testo biblico: <l'accampamento dei Madianiti era disotto di lui,
+nella valle> (^Iud.~ VII 8).
+
+	|127-129.  a l'un d'i due vivagni~: a quello interno dei
+due orli (|vivagni~) della cornice.  ^Vivagno~ anche in ^If~ XIV
+123.  |Miseri guadagni~: danni, castighi.
+
+	|130-132.  rallargati~: scostati dalla parete dove si
+erano ^ristretti~ (v. 119) per passare tra essa e l'albero, ora
+possono procedere pi@u staccati l'un dall'altro.  |Sola~:
+solitaria, senza nessun'anima purgante.  |Contemplando...
+parola~: ciascuno dei tre poeti procede silenzioso meditando le
+parole udite.
+
+	|133-135.  sol tre~: rima composta da leggersi: ^s@oltre~,
+in rima con ^oltre~ e |poltre.~  |S@ubita~: improvvisa.  |Poltre~:
+due interpretazioni fondamentali: <puledre>, cio@e <giovani>,
+quindi facili a spaventarsi; oppure <impoltronite, pigre>, quindi
+<tranquille>.  La seconda ha maggior coerenza con la condizione
+di Dante che procede tranquillo e si spaventa all'improvvisa
+voce; fu difesa con buone osservazioni dal Grabher, e ha
+l'appoggio del Pagliaro (^Ulisse~, II 327 n. 2), che farebbe
+derivare l'aggettivo dal latino ^putris~ (<putrido, molle,
+floscio>) con l'^l~ dovuta a <ipercorrettismo popolare>.  Il
+^caval pultresco~ del ^Ritmo Laurenziano~ citato da Mazzoni
+(^Aggiornamento~, II 562), non sembra cogente.
+
+	|136-138.  fossi~: per <fosse>.  |Rossi~: i visi degli
+angeli nell'iconografia medievale sono spesso rossi a indicare lo
+splendore della loro felicit@a.
+
+	|139-141.  un~: l'angelo della temperanza.  |Dar volta~:
+girare, svoltare.  |Quinci... pace~: se si vuol raggiungere la
+pace eterna, la beatitudine, si deve andare di qui (|quinci~).
+
+	|142-144.  tolta~: abbagliata.  Cfr. ^Pg~ II 39, IX 81,
+XV 25-26, ecc., per analoghe situazioni.  |Com'om... ascolta~:
+come si va seguendo il suono della voce.  C'@e da pensare che
+Virgilio e Stazio gli parlino, o che Dante segua le voci dei due
+poeti dal momento che la vista @e abbagliata, ovvero ancora che
+segua la direzione da cui @e venuta la voce dell'angelo.
+
+	|145-146.  de li albori~: dell'albeggiare, dell'ora che
+precede l'alba.  |Movesi~: spira, comincia a levarsi.
+
+	|148-150.  un vento~: @e il vento prodotto dal moversi
+dell'ala dell'angelo.  |La piuma~: l'ala con la quale l'angelo
+cancella il ^P~ dalla fronte di Dante.  |Che f$e... orezza~: che
+fece odorare di ambrosia l'aura, il lieve soffio di vento
+(|l'orezza~).  L'|ambrosia~ era l'odoroso cibo degli dei, ma
+forse Dante la credette un'erba aromatica.  F. MAGGINI (^Due
+letture~, 85) pensa che la parola |ambrosia~ sia entrata per la
+prima volta nella lingua italiana con questo verso di Dante, che
+ricord@o ^Aen.~ I 402 ss., forse anche ^Georg.~ IV 415 ss., e
+soprattutto Isidoro, ^Etym.~ XVII ix 80, oltre al lessico di
+Uguccione.
+
+	|151-154.  Beati... giusto~: si tratta della parafrasi
+della stessa beatitudine, la quarta, cantata dall'angelo della V
+cornice, beatitudine <spaccata in due> come disse argutamente il
+D'Ovidio.  La prima parte, come si @e visto nel canto XXII 4-6,
+conteneva solo il ^sitiunt~ come @e espressamente detto, in questa
+sta invece l'^esuriunt~, per cui la si potr@a liberamente
+parafrasare cos@i: <beati quelli che tanta grazia divina illumina,
+che l'istinto della gola non esercita nel loro petto un desiderio
+smodato, avendo solo fame di giustizia e non d'altro>.  @E chiaro
+quindi che la beatitudine consiste solo in ^beati qui esuriunt
+iustitiam~, che Dante, con una parafrasi, completa adattandola al
+caso specifico della gola.
+
+	|151-153.  Alluma~: illumina.  |Del gusto~: della gola. 
+|Fuma~: stimola; propriamente <esala>.
+
+	|154.  Esur,iendo~: dal verbo lat. ^esurio~ = aver fame. 
+|Quanto @e giusto~: <ci@o che @e giusto>, quindi <la giustizia>:
+cos@i andr@a inteso per rimanere nello spirito della beatitudine
+evangelica.  Chi intende <nella giusta misura>, <solo ci@o che non
+@e eccessivo> resta pi@u vicino forse alla situazione psicologica
+della cornice, ma si allontana troppo dal significato vero del
+passo evangelico.  La prima interpretazione crea meglio il
+parallelismo con l'altro <pezzo> della beatitudine, messo in
+bocca all'angelo della cornice degli avari.  L@a infatti si dicon
+beati ^qui sitiunt iustitiam~ e non le ricchezze o i beni
+terreni, qui vengon detti beati ^qui esuriunt iustitiam~ e non il
+cibo.

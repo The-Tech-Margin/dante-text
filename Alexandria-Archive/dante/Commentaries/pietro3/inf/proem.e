@@ -1,0 +1,162 @@
+	|Proemio, Inferno.~ Quamvis poema ^Comedie~ Dantis Alagherii de Florentia, mei Petri gratissimi genitoris,
+dudum nonnulli calamo temptaverint aperire ita in suo integumento clausum et  absconsum, licet in
+parte, nondum tamen in totum, iudicio meo, illud utique peregerunt.  Nitar et ego nunc post eos,
+non tam fiducia alicuius scientie mee, quam quodam zelo filiali accensus, in alia qualiquali particula
+illud, si potero, per modum comenti, ulterius etiam reserare, suadente hoc Seneca ^Ad Lucilium~ ita
+scribente: ^Nunquam nimis dicitur quod satis non dicitur~ {Sen., ^Ep. Lucil~. XXVII 9}.   Veniet
+inde tandem sic forsan et alius qui, hiis nostris adminicularibus scriptis ipsum librum portabit in
+humero, ut dicitur ^Iob~, capitulo xxxi+o~, ubi ^Glosa~, exponens hoc, ait: ^Portare librum in
+humero est Scripture aperitionem perficere~ {^Iob~ XXXI 35-6 e ^Gl~. rel.}.  Adsit igitur nunc
+michi ad talem aperitionem incohandam clavis illius qui, ut scriptum est ^Apocalipsis~, capitulo
+iii+o~: ^Signatum librum aperit et nemo claudit, claudit et nemo aperit~, scilicet Christus
+Dominus noster, ac gratia eius matris Virginis gloriose {^Apoc~. III 7}.  Intendens Macrobius
+scribendo exponere ^Somnium Scipionis~, antequam illud incohet, premisso prohemio, ita inquit:
+^De hoc ergo prius pauca dicenda sunt, ut liquido mens operis de quo loquimur innotescat~
+{Macr., ^Somn~. ^Scip. exp.~ I 3}, quem sequi volendo, hoc etiam meo premisso prohemio,
+antequam ad expositionem premissi poematis veniam, de eius mente, idest de summa eius causa
+aliqualiter tangam ad clariorem eius scientiam et cognitionem, cum dicat Phylosophus in principio
+^Physicorum~: ^Tunc enim opinamur cognoscere unumquodque cum causas cognoscimus
+primas~ {Arist., ^Phys~. I i 184a 12-3}, et in ii+o~ ait: ^Considerandum est de causis, que et
+quot sunt numero, quoniam sciendi gratia hoc negotium est. Scire autem ante non
+opinamur unumquodque, quam accipiamus propter quid unumquodque: hoc autem est
+accipere summam primam omnium~ {Arist., ^Phys~. II iii 195a 23}.  Ceterum, cum per eundem
+Phylosophum in dicto ii+o~ libro ^Physicorum~ etiam dicatur: ^Finis causa est potissima aliarum
+causarum, a finali causa dicti operis incohabo, comprehendente alias in se~ {Arist., ^Phys~. II
+iii 195a 24-5}.  Nam, secundum exigentiam finis, causa finalis movet efficientem, efficiens movet
+materiam, et in materia electa intendit acquirere formam competentem, et sic finis in intentione
+operantis prior est hiis que fiunt ad finem, tanquam quedam causa motiva ad illa.  Erit itaque finalis
+causa huius ^Comedie~ finis ad quem ipse Dantes scribit, qui est ut ostendat ab effectu quid
+homines in hoc mundo oportet operari, et a quibus abstinere, in quo quidem humanum bonum
+consistit, ut ait Phylosophus in primo ^Ethycorum~, positis et inductis supplitiis, que vitiosi in hoc
+mundo et in alio rationabiliter patiuntur, et premiis que virtuosi etiam hic et ibi consequi
+dignoscuntur, per que homines in hoc mundo virtuosi in suo statu felici magis confirmentur et pravi
+a vitioso suo esse etiam magis removeantur {cf. Arist., ^Eth~. I i 94b 4-7; cf. Dante, ^Ep~. XIII
+33-4}, iuxta Oratium dicentem in suis ^Sermonibus~: ^Oderunt peccare boni virtutis amore. / Tu
+nichil admittes in te formidine pene~ {Hor., ^Epist~. I xvi 52-3}.  Causa efficiens est ipse Dantes
+auctor prenominatus, materialis vero causa erit ut ad premissa poetice describenda auctor
+deveniat cum allegorico quodam figmento, sub analogia et typo Inferni, Purgatorii et Paradisi, de
+triplici vita humana natura disserendo {Arist., ^Eth~. I iii 96a 1-3}, de qua tali triplici vita in primo
+^Ethycorum~ ita ait Phylosophus: ^Tres enim sunt vite maxime excellentes: voluptuosa~ scilicet,
+et de hac ut de Inferno quodam tractabit, item ^civilis~ sive politica et activa, et de hac ut de
+Purgatorio scribet, item et ^contemplativa~, et de hac ut de Paradiso tractabit sub allegorico sensu
+{Arist., ^Eth~. I iii 96a 1-3}.  Causa formalis est duplex, videlicet forma tractatus et forma
+tractandi: forma tractatus est ipsa unio partium voluminis dicte ^Comedie~, forma vero tractandi est
+ipse modus scribendi quem tenere intendit ipse auctor, qui quidem est multiplex: nam interdum
+scribet aliqua que solum ut lictera profert intelligenda erunt, sine aliquo mistico intellectu, ut moris
+est scribentium vel fabulose vel ystorice {cf.  Dante, ^Ep~. XIII 80-7}.  Differt enim ^fabula~, que
+dicitur ^a 'fando', et ut ficta res loquendo~, ab ^ystoria~, que dicitur ^narratio rei geste, per quam
+ea que in preterito gesta sunt dignoscuntur~, ut ait Ysiderus in fine primi libri ^Ethymologiarum~
+{Isid., ^Etym~. I xl 1}, unde Augustinus, ^De Civitate Dei~, libro xvi+o~, capitulo ii+o~, circa hoc
+sic ait: ^Non sane omnia que gesta narrantur etiam significare aliqua putanda sunt, sed
+propter illa que aliqua significant etiam ea que nichil significant attexuntur. Solo enim
+vomere terra proscinditur, sed hoc ut fieri possit, cetera alia aratri membra sunt necessaria~
+{Aug., ^Civ. Dei~ XVI 2}.  Item scribet aliqua idem auctor in hoc eius poemate sub figuris et
+coloribus diversimodis ad decorem quendam huius eius operis, ut sint seria picta iocis, sic etiam ut
+moris est aliorum poetarum; unde Ysiderus ait in libro ^Ethymologiarum~: ^Poetarum est ut ea,
+que vere gesta sunt, in alias species, obliquis figurationibus cum decore aliquo diversas
+transducere, cum figmentis seu fictionibus more poetico intersectis~ {Isid., ^Etym~. VIII vii
+10}.  Diffinitur enim ^fictio~ sic: ^Fictio est in re certa contraria veritas pro veritate assumptio~,
+et ex hoc dicitur ^poeta~ a ^poio~, ^pois~, quod idem est quod ^fingo~, ^fingis~ secundum Papiam
+{Papias, ^Sign~. ^Verb~. s. v. 'poeta'}.  Quod totum docet Oratius in sua ^Poetria~ facere poetantes,
+dum ibi dicit: ^Ficta voluptatis causa sint proxima veris, / nec quodcumque velit poscat sibi
+fabula credi~; / ^Omne tulit punctum qui miscuit utile dulci, / lectorem delectando pariterque
+monendo~; nam ^Prodesse volunt aut delectare poete~ {Hor., ^Ars Poet. ~ 338-9, 343-4, 333}. 
+Item scribet ipse auctor aliqua ac multa sub allegorico intellectu; dicitur enim ^allegoria~ quasi
+^alieniloquium, ut cum lictera unum sonat et aliud intelligi debet~ {Isid., ^Etym~. I xxxvii 22}, ut
+ecce dum sic Apostolus dicit ^Ad Galatas~, capitulo iii+o~: ^Scriptum est enim quomodo
+Habraam duos filios habuit, unum de ancilla et unum de libera, sed qui de ancilla secundum
+carnem natus est, qui autem de libera per repromissionem, que sunt ita per allegoriam
+dicta. Hec enim sunt duo Testamenta, Vetus scilicet et Novum~ {^Ep. Gal.~ IV 22-4}.  Que
+'allegoria', ut genus, comprehendit ut species 'anagogiam', de qua spiritualis sensus resultat, et
+'tropologiam', de qua moralis intellectus emanat, ut solet dici: ^Lictera gesta docet, quid credas
+allegoria, / moralis quid agas, quid speres anagogia~ {Cf. Walther, n+o~ 13899}, et ex hoc
+motus est frater Bonaventura de Bagnoreto ad dicendum in suo ^Breviloquio ~sic: ^Habet ipsa
+Sacra Scriptura profunditatem que consistit in multiplicitate misticarum intelligentiarum. 
+Nam, preter licteralem sensum, habet in diversis locis exponi tripliciter, scilicet allegorice,
+anagogice et tropologice~ {Bonav., ^Brevil~. prol. 4}.  Item et Gregorius in primo ^Moralium~
+circa idem ait: ^Quedam ystorica expositione transcurrimus, et per allegoriam quedam typica
+investigatione perscrutamur.  Quedam per sola allegorice moralitatis instrumenta
+discurrimus, nonnulla autem per cuncta simul sollicitius exquirentes, tripliciter indagamus. 
+Aliquando vero exponere aperta verba ystorie negligimus, ne ad obscura veniamus,
+aliquando autem eadem intelligi iuxta licteram nequeunt, quia, superficiatenus accepta,
+nequaquam legentibus instructionem, sed errorem gignunt~ {Greg., ^Moral~. I i 3}, quod totum
+servabo amodo inferius in presenti comento meo, prout in processu ostendam.  Hiis peroratis,
+veniamus ad titulum libri huius ^Comedie~ qui talis debet esse in hac sua prima rubrica: |Incipit
+Comedia Dantis Alagherii~, et eius primus liber in quo de descensu Inferni pertractat {cf.
+Dante, ^Ep~. XIII 28-32}, circa quam primo queritur cur auctor hoc suum predictum poema
+nominatum ^Comediam~, ad quod sciendum prenotandum est quod antiquitus, ut dicit Ysiderus,
+inter alios cantus poeticos erat quidam qui dicebatur 'comedia', scilicet quando aliquis poeta
+cantabat, idest sua carmina proferebat, circa gesta privatarum personarum et humilium, modesto
+stilo, ut Plautus, Accius et Terrentius et alii comici poete fecerunt, sicut 'tragedia' est alius cantus
+poeticus, quando aliquid scilicet alto stilo describitur, tangens tristia gesta regum ut plurimum
+{Isid., ^Etym~. VIII vii 6-7}.  Quandoque tamen dicta comedia etiam supremo stilo modulatur,
+unde Oratius in sua ^Poetria~ ait: ^Interdum tamen et vocem Comedia tollit. / Iratusque Cremes
+tumido delitigat ore~ {Hor., ^Ars  Poet.~ 93-4}, ubi ^Glosa~ sic ait super dicto verbo ^Comedia
+tollit~: ^Ut facit Terrentius in sua Comedia dicens: "O celum, o terra, o maria Neptuni";
+"proh summe Iupiter"~ etc. {^Pseudacron., Gl~. ad ^Ars~ ^Poet~. 93}.  Et ex hoc idem Oratius
+subdit in laudem talis stili comici sic: ^Successit vetus his comedia non sine multa / laude~ etc.,
+item prenotandum est quod {Hor., ^Ars~ 281-2}, prout scribit Ugutio: ^'Comedia' a tristibus
+incipit sed in letis desinit, tragedia vero e contra, unde in salutatione solemus mictere et
+optare tragicum principium et comicum finem, idest bonum et letum principium et bonum
+et letum finem~ {Hug. Pis., ^Deriv~. s. v. 'oda'}.  Ad propositum ergo volens noster auctor et
+intendens scribere humili stilo, scilicet vulgari seu materno, poetice facta privatarum ut plurimum
+personarum, ac etiam in parte stilo alto et elato scribendo de rebus celestibus, ut facit in
+^Paradiso~, ultimo suo libro, et incipiendo a tristibus, idest ab infernalibus, et finiendo in letis, idest
+in celestibus, ut facit, quo respectu etiam credo ipsum finire quemlibet librum dicte eius ^Comedie~
+in ultimo verbo in stellis, ut facit, ut in letis et splendidis rebus, merito hoc eius poema ^Comediam~
+nominavit.  Secundario veniamus ad aliam partem dicte rubrice, in qua de descensu Inferni mistice
+auctor se tractaturum dicit, circa quam occurrit de duobus querere: primo ubi sit ipse essentialis
+Infernus, secundo quomodo ad illum se descendisse dicit, et quia huius auctoris intentio fuit mistice
+de Inferno tractare, scilicet de essentiali et allegorico.  De existentia utriusque ipsorum
+disceptemus; et licet gentiles, maxime platonici phylosophi et poete, dixerunt dictum Infernum
+essentialem esse sub lunari spera, veritas est ipsum esse in abisso terre cum suis demonibus et
+spiritibus dampnatis, quod manifestatur per ^Scripturam Sacram~, ecce ^Mathei~ xiiii+o~ capitulo,
+ubi Dominus, respondendo Iudeis ait: ^Non dabitur vobis signum nisi signum Ione prophete,
+qui, sicut fuit in ventre ceti tribus diebus et tribus noctibus, sic erit filius hominis in corde
+terre tribus diebus et tribus noctibus, idest in limbo Inferni~ {^Matt~. XVI 4}; item per
+Augustinum dicentem in libro ^Retractationum~ corrigendo quod dixerat ^Super Genesi~, capitulo
+xii+o~, scilicet quod pene Inferni secundum ymaginariam visionem erant et quod locus Inferni non
+erat corporeus sed ymaginarius: ^De inferis magis michi videor docere debuisse quod sub terris
+sunt quam rationem reddere cur sub terris esse creduntur et locantur, quasi non ita sint~
+{Aug., ^Retract~. II xxiv 2};  item et per Virgilium dicentem in vi+o~: ^Tum Tartarus ipse / bis
+patet in preceps tantum tenditque sub umbras / quantus ad ethereum celi suspectus Olimpi~
+{Verg., ^Aen~. VI 577-9}.  Alius vero Infernus in isto mundo allegorice est ipse status malorum,
+videlicet crucians eos, si bene consideratur, ut quoddam esse infernale.  Ad Infernum primum
+predictum essentialem descenditur tribus modis: veraciter, scilicet dum anima mala a corpore
+migrans descendit ad eum in eternum debite punienda; item ficte et fantastice, et hoc modo hic
+noster auctor dicendus est ad eum descendisse, item negromantice, quando scilicet quis per
+colloquia et sacrificia superstitiosa et prophana ad responsa dictorum demonum descendit, ut de
+Enea Virgilius scribit in vi+o~ predicto sui ^Eneidos~.  Secundum unum intellectum, ad allegoricum
+predictum Infernum descenditur duobus modis: uno modo virtuose, alio vitiose. Virtuose quando
+quis ad cognitionem terrenorum ut ad Infernum quendam contemplative descendit, ut, cognita
+natura temporalium et eorum mutabilitate et miseriis, spernet ea et creatori deserviat, et ex hoc
+moti sunt nostri poete ad dicendum ad talem cognitionem, ut ad Infernum quendam descendisse
+Herculem, Orpheum et Eneam predictum, secundum alium intellectum, ac Theseum et Perithoum
+et alios quosdam, et inde remeasse ut virtuosos et non attractos fuisse a delectationibus mundanis,
+ac etiam hunc nostrum auctorem, auxiliante Virgilio, supersequenti capitulo.  Item et vitiose ad
+hunc descenditur Infernum, quando scilicet aliqui descendunt ad dictam cognitionem inefficaciter
+tamen ut instabiles in proposito bono, et ab eius statu attrahentium, et remanet in eo ut in Inferno
+quodam, ut de Eurydice, uxore dicti Orphei, et de Castore legitur, de quibus misticis duobus
+Infernis tacite et expresse voluit tangere ^Psalmista~ dicendo: ^Veniat mors super illos et
+descendant in Infernum viventes~; dicit ibi ^Glosa~: ^Idest, in voraginem cupiditatis mundane~
+{^Ps~. LIV 16 e ^Gl~. rel.} et alibi ait: ^Quoniam misericordia tua magna est Domine, et eruisti
+animam meam de Inferno inferiori~ {^Ps~. LXXXV 13}, et Salamon in ^Proverbiis~: ^Semita vite
+super eruditum ut declinet de Inferno novissimo~ {^Prov~. XV 24}.  Ultimo dividamus hunc
+primum librum per suas partes principales, et ut forte alludat verbis illis Virgilii dicentis in vi+o~:
+^Facta obstant tristique palus inamabilis unda / alligat et novies Stix interfusa cohercet~
+{Verg., ^Aen~. VI 438-9}, auctor dividit eum in novem partes, velut etiam illo respectu ut, sicut
+beatitudo celestis per novem celos et novem regiones et ordines angelorum, ita calamitas Inferni
+per novem regiones et ordines malorum angelorum partita sit, ut contrariorum eadem sit disciplina. 
+Nam in prima, premissis prohemialibus, dicit de primo circulo Inferni, seu Limbi, et durat hec
+prima pars usque ad {quintum} capitulum; ibi incipit secunda, in qua dicit de supplitio
+luxuriosorum et hec durat usque ad capitulum {sextum}; ibi incipit tertia, in qua dicit de pena
+gulosorum, et durat usque ad {septimum} capitulum; ibi quarta in qua dicit de pena avarorum et
+prodigorum, et hec durat usque in finem {septimi} capituli ibi: |Noi ricidemmo il cerchio a l'altra
+riva~ {^Inf~. VII 100}; ibi incipit quinta pars in qua dicit de Stigia palude, in qua fingit puniri animas
+iracondorum, accidiosorum, invidorum et superborum, et hec durat usque in finem {noni} capituli,
+ibi: |Dentro n'intrammo senza alcuna guerra~ {^Inf~. IX 106}; ibi incipit sexta, in qua dicit de
+pena hereticorum, et hec durat usque ad {duodecimum} capitulum; ibi septima, in qua dicit de
+pena violentorum punitorum in tribus circulis ibi diversimode, et hec durat usque {duodecimum}
+capitulum; ibi {octava}, in qua incipit dicere de pena fraudulentorum punitorum in decem bulgiis,
+et hec durat usque ad {tricesimumunum} capitulum; ibi nona et ultima pars, in qua dicit de pena
+proditorum, et hec durat usque in finem. Hiis ita premissis, veniamus ad textum. 

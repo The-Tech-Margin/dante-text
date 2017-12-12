@@ -1,0 +1,141 @@
+head	1.4;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.4
+date	98.11.01.16.04.09;	author dante;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	88.06.29.14.38.57;	author dante;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	87.08.11.10.49.36;	author dante;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	86.08.26.10.34.31;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@shell script for pre-edit cleanup of KDEM files
+@
+
+
+1.4
+log
+@Cleanup KDEM files.
+@
+text
+@#! /bin/sh
+
+:	cleank   input  output
+:
+:		Does a rough clean up and formatting of .k files.
+
+if
+	test $# -ne 2
+then
+	echo "Usage: cleank  input  output"
+	exit 1
+fi
+if
+	test ! -r $1
+then
+	echo "$1 does not exist"
+	exit 1
+fi
+if
+	test -s $2
+then
+	echo -n "$2 already exists.  Type y to continue - "
+	if
+		read REPLY
+		test "$REPLY" != "y"
+	then
+		exit 1
+	fi
+fi
+
+echo -n "Additional sed script file (RETURN for none) - "
+read OPTSED
+if [ $OPTSED. != . ]
+then
+	if [ ! -r $OPTSED ]
+	then
+		echo $OPTSED is not a valid file.
+		exit 1
+	fi
+	OPTSED="-f $OPTSED"
+fi
+
+LIB=$Dante/lib
+TMP=`basename $1 .k`.TMP
+
+echo preformatting $1
+sed -f $LIB/cleank1.sed $OPTSED $1 | uniq > $TMP
+
+if
+	vi $TMP
+then
+	echo postformatting
+	sed -f $LIB/cleank2.sed $TMP |
+	tee `basename $1 .k`.m |
+	nroff $LIB/cleank.nr - |
+	uniq |
+	sed -f $LIB/cleank3.sed | checktilde > $2 
+	wc $1 $2
+fi
+rm -f $TMP
+@
+
+
+1.3
+log
+@allowing sed options on command line
+@
+text
+@d43 1
+a43 1
+LIB=/dante/lib
+d54 1
+d57 1
+a57 1
+	sed -f $LIB/cleank3.sed > $2 
+@
+
+
+1.2
+log
+@cosmetic reformatting of commands
+@
+text
+@d31 12
+d47 1
+a47 1
+sed -f $LIB/cleank1.sed $1 | uniq > $TMP
+d56 1
+a56 1
+	sed -f $LIB/cleank3.sed > $2
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d36 1
+d41 4
+a44 1
+	sed -f $LIB/cleank2.sed $TMP | nroff $LIB/cleank.nr - | uniq > $2
+@

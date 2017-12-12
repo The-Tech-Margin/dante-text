@@ -1,0 +1,205 @@
+	|7-8.~ |(ed.  Rosini)~
+La natura angelica che dura eternalmente: per la quale fu fatto lo 
+Inferno.  [Da Fino]
+
+	|11.~ |(ed.  Rosini)~
+^Vid'io~, non io vidi, siccome nel Purgatorio ^fui io~.  [Giolito]
+
+^Io vidi~, concia, anzi guasta il Ruscelli, perch@e questa particella 
+posposta ha maggior forza che preposta.  Cos@i nel Paradiso ancora: 
+^Nel Cielo~ ec. ^fui io~ (c. I v. 4 e 5).  [Sessa]
+
+	|(ed.  Celani)~
+^Vid'io~ scritte al sommo d'una porta:
+	^vid'io non io vidi s@i come nel Par. fui io.~
+
+	|12.~ |(ed.  Rosini)~
+^Duro~, aspro.  [Da Fino]
+
+	|18.~ |(ed.  Rosini)~
+La cognizione.  [Sessa]
+
+Il vedere e il conoscer Dio, ch'@e la pena del dannato.  [Da Fino]
+
+	|21.~ |(ed.  Rosini)~
+^Secrete~, occulte.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+^Perch@e~, quanto ^onde~.  [Sessa]
+
+	|25-30.~ |(ed.  Rosini)~
+divino.  [Sessa]
+
+	|30.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|(ed.  Celani)~
+Come la rena, quando ^a turbo~ spira.
+
+	|31.~ |(ed.  Rosini)~
+^D'orror cinta~, traslazione.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|36.~ |(ed.  Rosini)~
+Lodo.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Che visser sanza fama et sanza ^lodo~.
+
+	|38-39.~ |(ed.  Rosini)~
+Non seguitarono Lucifero, non si accostarono a Dio.  Qui si veda come 
+questi angeli non fussero ribelli a Dio, e fossero per s@e soli.  [Da 
+Fino]
+
+	|42.~ |(ed.  Rosini)~
+Avendo maggior peccato, ed essendo egualmente puniti.  [Da Fino]
+
+	|45.~ |(ed.  Rosini)~
+^Breve~, avverbio.  [Sessa]
+
+	|46.~ |(ed.  Rosini)~
+La morte loro saria beata.  [Da Fino]
+
+	|49-51.~ |(ed.  Rosini)~
+Divino.  [Sessa]
+
+	|50.~ |(ed.  Rosini)~
+Perch@e non sono in Cielo, n@e in Inferno.  [Da Fino]
+
+	|(ed.  Celani)~
+^Misericordia e giustitia li sdegna:~
+
+	|51.~ |(ed.  Celani)~
+Non ^ragioniam di lor, ma guarda et passa.~
+
+	|55.~ |(ed.  Rosini)~
+^Lunga tratta~, tratta di gente .  [richiamo marginale] [Giolito]
+
+Lunga tratta.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Et dietro le venia s@i lunga ^tratta~
+
+	|56.~ |(ed.  Celani)~
+^Di gente,~ ch'i non averei creduto
+	^tratta di gente~
+
+	|59.~ |(ed.  Rosini)~
+^L'ombra~, l'anima.  [Da Fino]
+
+	|63.~ |(ed.  Rosini)~
+Spiacenti.  [richiamo marginale] [Sessa]
+
+Perch@e non sono in Cielo, n@e nello Inferno.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+Se questo @e il Limbo, dove non @e pena di senso, ma solamente di 
+danno, in che modi sentono queste molestie?  e se non @e Limbo, come @e 
+innanzi all'Inferno?  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+^Fioco lume~: trasporta al lume quel che @e della voce, siccome di 
+sopra disse: ^dove il Sol tace~.  (c. I v. 60).  [Sessa]
+
+^Fioco lume~, traslazione: (c. I v. 60) ^dove 'l Sol tace~.  [Da Fino]
+
+	|81.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|(ed.  Celani)~
+Infin al fiume di ^parlar mi trassi.~
+
+	|88.~ |(ed.  Rosini)~
+^Anima viva~, quasi le altre non sian vive.  [Giolito]
+
+	|(ed.  Celani)~
+Et tu che se' cost@i, ^anima viva,~
+	^anima viva quasi l'altre nol siano~
+
+	|91-96.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+	|93.~ |(ed.  Rosini)~
+Allude al Purgatorio (c. II, v. 41).  ^Con un vascello snelletto e 
+leggiero~.  Qui si pu@o dubitare come Caron indovini questo?  [Da Fino]
+
+	|95.~ |(ed.  Celani)~
+Vuolsi cos@i col@a, ^dove si puote~
+
+	|95-96.~ |(ed.  Rosini)~
+Sentenza.  [Da Fino]
+
+	|96.~ |(ed.  Celani)~
+^Ci@o che si vuole et pi@u non dimandare.~
+
+	|97.~ |(ed.  Rosini)~
+Lanose.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Quinci fur quete le ^lanose gote~
+
+	|98.~ |(ed.  Celani)~
+^Al nocchier~ de la livida palude,
+	^imit.~
+
+	|102.~ |(ed.  Rosini)~
+^Le parole crude: Non isperate mai veder lo cielo~.  (Qui sopra al v. 
+85).  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+Perch@e il dannato vorria annichilarsi.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+^S'adagia~, tarda.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+Nota ^levare~ in quel significato.  [Sessa]
+
+	|112-114.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|113.~ |(ed.  Rosini)~
+^Appresso~, col secondo caso.  [Sessa]
+
+	|114.~ |(ed.  Rosini)~
+Rende.  [Sessa]
+
+	|115.~ |(ed.  Rosini)~
+^Il mal seme ad una ad una~.  [Giolito]
+
+^Il mal seme d'Adamo~, i dannati.  [Da Fino]
+
+	|(ed.  Celani)~
+Similmente il mal ^seme d'Adamo~,
+
+	|116.~ |(ed.  Celani)~
+Gittasi di quel lito ^ad una ad una~
+
+	|117.~ |(ed.  Rosini)~
+^Com'augel per suo richiamo~, come il cacciatore chiama il falcone.  
+[Da Fino]
+
+	|(ed.  Celani)~
+^Per cenni,~ com'augel per su' richiamo.
+	^il mal seme, ad una ad una come sovra, compara tione.~
+
+	|123.~ |(ed.  Rosini)~
+Convegnon.  [richiamo marginale] [Sessa]
+
+	|126.~ |(ed.  Rosini)~
+Li sprona tanto la divina giustizia, che il timore dello Inferno si 
+volge in desio di andarvi.  [Da Fino]
+
+	|129.~ |(ed.  Celani)~
+Ben puoi saper homai ^che 'l suo~ dir suona.
+
+	|134.~ |(ed.  Rosini)~
+^Balenare~, transitivo.  [Sessa]
+
+^Vermiglia~, perch@e la luce nell'oscuro rosseggia.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+^Cui sonno piglia~.  Elocuzione.  [Sessa]
+

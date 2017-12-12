@@ -1,0 +1,13 @@
+
+Guido da Pisa	Inf. 15.70-71 = Inf. 15.69-71 (numbering error)
+
+Delete lines that read:
+/^	|Expos/d
+and run through uniq to delete duplicate (blank) lines.
+
+Guido da Pisa, Nota to Inf. (at begining of COmm.):
+screen 7: ficticus (or whatever it says) = fictivus
+
+That typo occurs in Guido da Pisa, long opening note to INF:
+He says "poeticus" NOT "poetivus", as we have him.
+

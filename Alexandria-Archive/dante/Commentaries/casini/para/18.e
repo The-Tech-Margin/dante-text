@@ -1,0 +1,678 @@
+	|1. Gi@a si godea~ ecc.:  Biag.: <Tacevasi l'anima santa,
+e pensava; e cos$i Dante; ma il pensiero di lei era, siccome
+quello continuo degli eletti, pensiero di beatitudine; e quello
+di Dante, delle cose test$e dettegli da lei; per@o dice che quello
+spirito beato si godeva del suo pensiero, mentr'egli gustava il
+suo ch'era a un tempo dolce e acerbo per le cose udite, parte
+amiche, e parte nemiche>.  |verbo~:  pensiero, concetto (cfr.
+Tomm. d'Aqu., ^Summa~, p. I, qu. XXXIV, art. 1: <primo et
+principaliter interior mentis conceptus ^verbum~ dicitur>).  Cos$i
+intesero rettamente la pi$u parte dei commentatori, dall'Ott. allo
+Scart.; ma gi@a il Buti, pur conoscendo questa sposizione,
+n'adott@o un'altra: <si godeva dentro da s$e solamente del suo
+sermone, godeva della bella dichiaragione ch'avea fatto a Dante
+sopra li suoi dubb#i>, perch$e, aggiungeva, <gode la mente della
+verit@a, quando l'@a manifestata>: seguono questa interpretazione
+Land., Vell., Dan., Blanc, ecc.
+
+	|2. specchio~ ecc.:  beato spirito luminoso, quasi
+specchio del pensiero divino.
+
+	|3. temprando~ ecc.:  temperando, attenuando l'acerbit@a
+della profezia di Cacciaguida, relativa all'esilio e alle altre
+mie sventure, con la dolce promessa delle buone accoglienze
+scaligere e dell'immortalit@a.  Le parole dette dal suo antenato
+in ^Par.~ XVII 70-92, 124-142 raddolcirono a Dante l'amara
+impressione di quelle dei vv. 46-69.
+
+	|5. Muta pensier~ ecc.:  non pensare alle vendette dei
+tuoi nemici, pensa che io sono gi@a, e tu con me, presso a quel
+Dio, cui appartiene d'alleggerire ogni torto, punendo i colpevoli
+e rimunerando gl'innocenti.
+
+	|6. colui~ ecc.:  cfr. ^Deuteronomio~ XXXII 35: <[Il
+Signore ha detto:] A me appartiene di far la vendetta e la
+retribuzione>; Paolo, ^Ep. ai Romani~ XII 19: <Non fate le vostre
+vendette, cari miei: anzi date luogo all'ira: per ci@o che, egli @e
+scritto, A me la vendetta, io render@o la retribuzione>; ^Ep. agli
+Ebrei~ X 30: <Noi conosciamo colui che ha detto, A me appartiene
+la vendetta, io far@o la retribuzione>.
+
+	|7. Io mi rivolsi~ ecc.:  cfr. mossa analoga in ^Purg.~ V
+7.
+
+	|8. mio conforto~:  Beatrice, designata qui con la stessa
+parola che Dante usa per Virgilio in ^Purg.~ III 22, IX 43.  |e
+qual~ ecc.:  e quale amore vedessi allora sfavillare negli occhi
+di Beatrice, non lo dir@o qui.
+
+	|10. non perch'io~ ecc.:  non solamente (^pur~) perch$e io
+creda insufficiente a ci@o la mia parola, ma anche perch$e la mia
+memoria non pu@o, senza l'aiuto di una special grazia, ritornare
+sopra s$e stessa tanto quanto bisogna per rappresentarsi
+quell'ineffabile amore.
+
+	|11. reddire~:  tornare indietro; dal lat. ^redire~, di
+cui conserva il senso (cfr. ^reddissi~ in ^Par.~ XI 105, per
+analogia con ^reddere~).
+
+	|13. Tanto~ ecc.:  di quel momento io posso ridire questo
+solo (^tanto~), che, contemplando Beatrice, il mio animo fu
+libero da ogni altro desiderio, per tutto quel tempo che ^il
+piacere eterno~ della luce divina, che direttamente raggiava
+nella mia donna, continu@o a sodisfarmi, apparendo a me riflesso
+nei belli occhi di Beatrice.  La luce divina raggiava nella donna
+e dagli occhi di lei si rifletteva a Dante, il quale perci@o a
+quella contemplazione dell'eterno piacere dimentic@o Cacciaguida e
+ogni terreno pensiero: il senso @e chiarissimo, ma l'hanno
+ingarbugliato gli editori mettendo un punto dopo il v. 15 e una
+virgola dopo il v. 18; interpunzione manifestamente erronea.
+
+	|15. da ogni~ ecc.:  da tutti i sentimenti, che in me
+avevano svegliati le parole di Cacciaguida, quelli per cui io
+andava ^temprando col dolce l'acerbo.~
+
+	|17. dal bel~ ecc.:  ^viso~ non @e il v$olto, ma gli ^occhi
+santi~, dai quali procedeva a Dante indirettamente (^secondo
+aspetto~) la luce divina, ^il piacere eterno.~
+
+	|19. Vincendo~ ecc.:  Beatrice, vincendo me con lo
+splendore d'un sorriso, <distogliendomi (spiega il Lomb.) da quel
+beato assorbimento>, mi disse di voltarmi ad ascoltare ancora
+Cacciaguida.  Molti editori han collegato il v. 19 coi
+precedenti, ponendo virgola dopo ^aspetto~ e punto dopo
+^sorriso~; ma cos$i, osserva a ragione il Bianchi, <s'imbroglia e
+s'oscura maggiormente il senso e la sintassi>.  Non solo, ma
+anche si fa dire a Dante cosa poco sensata, perch$e se ci@o che lo
+^contentava~ era la luce riflessa dagli occhi di Beatrice, come
+avrebbe potuto aggiungere che lo vinceva un sorriso?  Invece,
+descritta nei vv. 13-18 la dolce contemplazione dell'eterno
+piacere nello sguardo della sua donna, sta bene che si continui
+dicendo che ella per mezzo di un sorriso e delle parole soggiunte
+distolse Dante da tale contemplazione e lo rivolse novamente a
+Cacciaguida.
+
+	|20. Volgiti~ ecc.:  volgiti a Cacciaguida ed ascolta ci@o
+ch'egli ti dir@a; poich$e la beatitudine non @e solamente nella
+contemplazione dei miei occhi.  Vuol dire che Dante avrebbe
+provato un grande piacere nel vedere le anime di Giosu@e, di
+Maccabeo, di Carlo Magno e degli altri propugnatori della fede,
+che Cacciaguida era per mostrargli; poich$e erano di quelli
+spiriti nei quali Dante, buon cristiano, doveva esaltarsi, come
+gi@a dei savi e degli eroi dell'antichit@a (cfr. ^Inf.~ IV 120).
+
+	|21. paradiso~:  dolcezza, beatitudine di paradiso; cos$i
+anche in ^Par.~ XV 36.
+
+	|22. Come~ ecc.:  come, qui sulla terra, negli uomini qualche
+volta il sentimento si manifesta negli occhi, se quello @e tanto
+forte che l'anima ne sia tutta rapita ecc.  Alcuni interpreti
+sembra che per ^vista~ abbiano inteso il sembiante in genere,
+l'aspetto dell'uomo (Lana, Ott., ecc.); ma che si tratti proprio
+degli occhi appare da questo luogo del ^Conv.~ III viii 9:
+<Dimostrasi [l'anima] ne li occhi tanto manifesta, che conoscer
+si pu@o la sua presente passione, chi bene l@a mira.  Onde, con
+ci@o sia cosa che sei passioni siano propie de l'anima umana, de
+le quali fa menzione lo Filosofo ne la sua ^Retorica~, cio@e
+grazia, zelo, misericordia, invidia, amore e vergogna, di nulla
+di queste puote l'anima essere passionata che a la finestra de li
+occhi non vegna la sembianza, se per grande vert$u dentro non si
+chiude>; cfr. anche ^Purg.~ XXI 111.  Del resto qui Dante non fa
+che dare un nuovo atteggiamento al concetto, tanto diffuso nei
+trovatori e nei nostri primi poeti, degli occhi messaggieri del
+cuore (cfr. A. Gaspary, ^La scuola poetica sicil.~, p. 89, e
+Venturi 252).
+
+	|25. cos$i~ ecc.:  cos$i nel fiammeggiare di quell'anima
+luminosa (cfr. ^Par.~ X 64, XXX 62), alla quale io mi volsi per
+invito di Beatrice, conobbi il suo desiderio di parlare ancora
+alquanto con me.
+
+	|28. El cominci@o~ ecc.:  Cacciaguida dice che nel quinto
+cielo appariscono spiriti beati di uomini famosissimi nel mondo
+(vv. 28-33) e invita Dante a star attento, perch$e via via ch'ei
+ne dir@a il nome ciascuno spirito trascorrer@a per la croce (vv.
+34-36): cos$i il poeta vede le anime luminose di Giosu@e, Maccabeo,
+Carlo Magno, Orlando, Guglielmo d'Orange, Rinoardo, Goffredo di
+Bouillon e Roberto Guiscardo, tutti strenui campioni della
+religione.  |In questa~ ecc.:  in questo quinto cielo del
+paradiso, che trae da Dio la ragione dalla sua esistenza e
+acquista sempre nuove anime senza mai perderne alcuna ecc. 
+|soglia~:  grado; cfr. ^Par.~ XXXII 13.
+
+	|29. de l'albero~ ecc.:  quest'albero, che trae i succhi
+vitali (^vive~) dalla cima e produce sempre nuovi frutti e mai
+non perde alcuna foglia, @e simbolo del paradiso, nella parte pi$u
+alta del quale, l'Empireo, sta Dio, che diffonde la sua grazia
+per i cieli sottostanti, s$i che le nuove anime elette alla
+beatitudine trovano inesauribile quel piacere che durer@a
+eternamente.  Si cfr. per questa forma simbolica ci@o che Dante
+scrive di altri alberi mistici in ^Purg.~ XXII 130 sgg., XXIV 103
+sgg., XXXII 38 sgg.
+
+	|31. che gi$u~ ecc.:  i quali nel mondo, prima di morire,
+furono di grandissima fama s$i che ciascuno darebbe ricca materia
+di canto a qualsiasi poeta.  Opportunamente osserva il Tomm.:
+<Qui rincontriamo pi$u nomi che furono o che potevano essere
+soggetto a poema, Carlo Magno, Orlando, Goffredo, Roberto
+Guiscardo....  Non solo per prescienza di quel che contenevan di
+storico le tradizioni raccolte in que' nomi il poeta li
+pronunzi@o, ma perch$e s'accorgeva esser quelle tradizioni
+veramente di popolo e di nazione, onde la sua @e pi$u testimonianza
+del presente che vaticinio dell'avvenire; e, in quanto
+testimonianza, @e eziandio vaticinio.  Ma i due nomi, ancora pi$u
+di quelli di Goffredo e di Carlo, meritevoli di poema, sono
+Giosu@e e Maccabeo, principalmente il secondo; ed @e cagione pi$u di
+dolore che di maraviglia il vedere che fra tanti pezzi di poesia,
+^lunghi e corti, veloci e tardi, torti e diritti~, come ^le
+minuzie de' corpi~ che si muovono per un raggio in camera buia,
+uno non ce ne sia consacrato a questo soggetto di civile e
+religiosa grandezza>.  Non so quanto oggi potesse piacere un
+poema di materia biblica, quale il Tomm. desiderava; ma certo
+l'epica grandezza dei fatti dei Maccabei non isfugg$i ai poeti
+medievali, e nella forma delle canzoni di gesta fu pur rilavorata
+la loro storia (cfr. E. Stengel, nella ^Riv. di fil. romanza~,
+vol. II, pp. 82-90 e G. Paris, nella ^Romania~, vol. IV, p. 498).
+
+	|33. ogni musa~:  ogni poeta (cfr. ^Par.~ XV 26), o
+l'ispirazione e l'arte d'ogni poeta.
+
+	|34. Per@o~ ecc.:  perci@o, se vuoi conoscere questi
+spiriti famosi, guarda alle braccia della croce (cfr. ^Par.~ XIV
+109): ogni anima, di cui io dir@o il nome, trascorrer@a da un capo
+all'altro ^per la lista radial~ (^Par.~ XV 23), con la velocit@a
+del baleno per mezzo alla nube.
+
+	|35. l$i far@a~ ecc.:  Ant.: <Il fuoco veloce di una nube,
+incognito nella sua natura agli antichi, @e una scarica o
+scintillazione elettrica; il quale non sempre passa da nube a
+nube per generare quel che diciamo folgore o saetta, ma nella
+nuvola stessa rimane, e a un tratto la illumina.  Questa imagine
+concorre coll'altra assai somigliante, ^Par.~ XV 24: ^che parve
+foco dietro ad alabastro~, a indicare che in Marte le beate luci
+non avevano parvenza distinta, ma si mostravano incorporate nelle
+splendenti liste della grande croce, in cui videsi dal poeta
+lampeggiare Cristo>.
+
+	|37. Io vidi~ ecc.:  appena fu pronunziato da Cacciaguida
+il nome di Giosu@e (^com'el si feo~), io vidi un lume per la croce
+mosso appunto ^dal nomar Giosu@e~, dall'essere stato detto il suo
+nome; e fu cos$i pronto il movimento che per me fu nello stesso
+istante in cui era stato detto il nome.
+
+	|38. Iosu@e~:  Giosu@e, figlio di Nun, successore di Mos@e
+nel regno d'Israele (sec. XVI a. C.), prese Gerico (cfr. ^Purg.~
+XX 111, ^Par.~ IX 125) e con una sanguinosa guerra di esterminio
+conquist@o le terre degli Amorrei e dei Cananei, sulle rive del
+Giordano: le sue imprese sono narrate nel libro biblico che porta
+il suo nome.
+
+	|40. E al nome~ ecc.:  L'altra anima che si mosse per la
+croce volgendosi in giro fu quella di Giuda Maccabeo (morto nel
+160 a. C.), figlio di Matatia, il quale insieme con quattro
+fratelli combatt$e felicemente con l'aiuto del Signore contro
+Antioco Epifane re di Siria (175-163 a. C.) e liber@o il popolo
+ebreo dalla tirannide di lui: i suoi fatti sono narrati nei due
+libri biblici dei ^Maccabei~, che Dante ricorda in ^Inf.~ XIX
+85-86.
+
+	|41. roteando~:  <partendosi dal luogo suo e fare come
+uno giro, tornando al luogo suo di prima>; cos$i il Buti; ma forse
+Dante volle dire che nel passare dall'uno all'altro corno della
+croce il lume avanzava movendosi anche intorno a s$e stesso, con
+doppio movimento, di traslazione e di rotazione.
+
+	|42. e letizia~ ecc.:  la letizia di quell'anima era il
+motivo del suo roteare, come la cordicella o sferza @e quella che
+imprime al pal@eo il suo movimento rotatorio.  Il pal@eo @e una
+specie di trottola, il ^volubile buxum~ di Virg., ^En.~ VII 382,
+che i fanciulli fanno girare su s$e stessa, imprimendole il moto
+con una funicella fermata a una verga, a guisa di ^ferza~ (cfr.
+^Inf.~ XVIII 35).
+
+	|43. Carlo Magno~:  figlio di Pipino, nacque nel 742, fu
+incoronato re di Neustria e d'Aquitania nel 768, dei Franchi nel
+771, dei Lombardi nel 774; restaur@o l'impero occidentale,
+prendendo la corona in Roma nel giorno di Natale dell'800 e mor$i
+nell'814: fu grande propugnatore della religione cristiana e
+della Chiesa (cfr. ^Par.~ VI 96) e combatt$e lungamente e
+felicemente i nemici del nome cristiano; onde poi divent@o il
+centro delle leggende eroiche medievali, che diedero materia ai
+poemi francesi e italiani; cfr. G. Paris; ^Histoire po$etique de
+Charlemagne~, Parigi, 1865.  |Orlando~:  storicamente, @e quel
+Rolando (^Hruodlandus, britannici limitis praefectus~), che
+Eginardo ricorda tra i morti nella battaglia di Roncisvalle, 15
+agosto 778; secondo la leggenda, fu nipote di Carlo Magno e il
+pi$u valoroso dei suoi paladini, e come tale fu rappresentato nei
+poemi medievali, ove appare come il pi$u grande degli eroi
+cristiani, morti combattendo per la fede; cfr. L. Gautier, ^Les
+$epop$ees fran$caises~, cit., vol. III, pp. 493-625.
+
+	|45. com'occhio~ ecc.:  con quella stessa attenzione con
+la quale l'occhio del falconiere segue il falcone che vola. 
+|volando~:  gerundio in funzione di participio; cfr. ^Inf.~ XXXI
+14.
+
+	|46. Guiglielmo~:  storicamente @e Guglielmo duca
+d'Orange, morto monaco a Gellone nell'812; nella leggenda
+francese egli appare come figlio di Amerigo di Narbona ed @e
+centro di una serie di poemi, che costituiscono la cos$i detta
+^gesta di Guglielmo~ e si riferiscono alle lotte di questo
+valoroso principe contro i Saraceni; cfr. Bollandisti, ^Acta
+sanctorum Maii~, vol. VI, pp. 798-800; P. Paris nell'^Hist.
+litt$er. de la France~, vol. XXII, pp. 435-551; L. Gautier, op.
+cit., vol. IV, 276-308; C. Nyrop, ^Storia dell'epopea franc. nel
+medioevo~, pp. 124 sgg.  |Renoardo~:  @e Rainouart, personaggio
+del tutto immaginario, di statura gigantesca, che per var#i
+aspetti precorre il nostro Morgante; fu creduto, di sui poemi, un
+personaggio storico, figlio di Desram$e re moro, venduto schiavo
+ai francesi e divenuto un valoroso campione, ai servigi di
+Guglielmo d'Orange; s$i che fu armato cavaliere e spos@o Aelis
+nipote di Guglielmo, e fin$i poi la sua vita in un convento: le
+sue gesta sono raccontate in parecchi poemi medievali francesi,
+che Dante pot$e conoscere; cfr. Gautier, op. cit., vol. IV, pp.
+465-555; P. Paris, nell'^Hist. litt$er.~ cit., vol. XXII, pp.
+538-549.
+
+	|47. Gottifredi~:  Goffredo di Bouillon, nato nel 1058,
+combatt$e per l'impero nella lotta delle investiture e fu fatto
+duca di Lorena da Arrigo VI nel 1089; comand@o la prima crociata e
+mor$i re di Gerusalemme nel 1100: anche Goffredo, prima che al
+Tasso, fu argomento di poemi epici ai troveri francesi del
+medioevo; cfr. J. B. d'Exauvillez, ^Hist. de Godefroy de
+Bouillon~, Tours, 1862; bar. de Hodi, ^Godefroi de Bouill. et les
+rois latins de J$erusalem~, Tournai, 1859; Nyrop, op. cit., pp.
+214 sgg.
+
+	|48. Ruberto Guiscardo~:  uno dei figli di Tancredi
+d'Hauteville, nacque nel 1015, raggiunse in Italia i fratelli nel
+1047, fu creato nel 1058 duca di Puglia e di Calabria, e liber@o
+il paese dai Saraceni; combatt$e felicemente contro Alessio
+Commeno imperatore di Bisanzio e contro Arrigo IV imperatore di
+Germania in difesa dei suoi stati e della Chiesa; mor$i nel 1085
+(cfr. ^Inf.~ XXVIII 14).  I fatti di Roberto furono cantati in un
+poema latino da Guglielmo di Puglia, suo contemporaneo (^Gesta
+Roberti Wiscardi~, in Mur., ^Rer. ital. script.~, vol. V).  A
+lui, nella tradizione, conflu$i probabilmente la gloria delle
+imprese del fratello minore Ruggero; e non pare che gli spetti il
+merito della liberazione della Sicilia dai Saraceni, per il quale
+Dante lo pone in paradiso (cfr. M. Catalano, ^La venuta dei
+Normanni in Sicilia nella poesia e nella leggenda~, Catania,
+1903).
+
+	|49. Indi~ ecc.:  poi l'anima di Cacciaguida, ritornando
+e ricongiungendosi alle altre nella croce, riprese a cantare con
+esse, e cos$i mi fece conoscere ^qual artista era tra i cantor~
+celesti, come egli fosse eccellente artista in mezzo a quei
+celesti cantori.  Buti: <ancora si potrebbe intendere in che
+ordine era messer Cacciaguida, terzo avo di Dante, che fu fatto
+cavalieri per lo imperadore Currado e mor$i nella battaglia fatta
+contra l'infedeli che erano in Calavria>; cfr. ^Par.~ XV 139. 
+|mota e mista~:  mossasi e frammischiatasi.
+
+	|53. per vedere~ ecc.:  per vedere se Beatrice mi
+esprimeva con parole o con cenni ci@o ch'io doveva fare.
+
+	|55. e vidi~ ecc.:  e vidi i suoi occhi cos$i lietamente
+scintillanti, che l'aspetto era pi$u bello che non fosse stato le
+altre volte e anche l'ultima, quando la contemplai primamente nel
+cielo di Marte.  |mere~:  pure, chiare; detto degli occhi,
+esprime a maraviglia la serenit@a luminosa dello sguardo (cfr.
+^Par.~ XI 18).
+
+	|57. vinceva~ ecc.:  Il vb. ^solere~ @e usato
+sostantivamente (come in ^Purg.~ XXVIII 90) per significare
+l'aspetto solito; tutto il verso dunque significa: vinceva gli
+aspetti soliti di Beatrice (quelli descritti in ^Par.~ II 28, V
+94 sgg., VIII 15, XIV 79 sgg.) e anche l'ultimo e pi$u
+maraviglioso che io avevo veduto nel quinto cielo (cfr. ^Par.~ XV
+34-36).
+
+	|58. E come~ ecc.:  <Dante vedendo pi$u ^adorno~,
+risplendente, il maraviglioso v$olto di Beatrice, s'accorge che il
+suo girare insieme col cielo aveva ^cresciuto l'arco~, acquistata
+pi$u larga circonferenza, cio@e ch'egli s'era elevato maggiormente;
+come l'amore della virt$u produce il diletto, e l'accrescimento
+del diletto @e prova di aumentata virt$u>: cos$i il Venturi 259, il
+quale anche nota la rispondenza di concetto al luogo del ^Par.~
+XXXIII 91-93.  |per sentir~ ecc.:  per l'accrescimento del
+diletto, del piacere morale.
+
+	|61. che 'l mio~ ecc.:  che io giravo in un cielo pi$u
+ampio del precedente, perch$e da Marte era salito a Giove.
+
+	|63. veggendo~ ecc.:  vedendo Beatrice pi$u risplendente;
+cfr. della sua donna nella ^V. N.~ XXI 4 v. 12: <Quel ch'ella par
+quando un poco sorride, Non si p@o dicer n$e tenere a mente, S$i @e
+novo miracolo e gentile>: e ^miracolo~ @e pur detta Beatrice nella
+^V. N.~ XIX 11, XXIX 33, e nel ^Conv.~ III vii 12.
+
+	|64. E qual~ ecc.:  e come in breve spazio di tempo
+vediamo scomparire il rossore dal viso d'una donna presa da
+improvvisa vergogna e ritornare il bianco colore naturale, cos$i
+appena mi fui v@olto a Beatrice mi trovai non pi$u nel rosseggiante
+cielo di Marte, ma nel bianco cielo di Giove.  <Similitudine vaga
+e ingegnosa; ma nella quale alcuni suoni non rendon forse piena
+corrispondenza all'imagine>, osserva il Venturi, 474, cui forse
+spiacquero gli equivoci del v. 66; egli stesso poi nota la
+rimembranza dei bellissimi versi d'Ovidio, ove parla di Aracne al
+cospetto di Minerva (^Met.~ VI 46): <Erubuit, subitusque invita
+notavit Ora rubor, rursusque evanuit; ut solet aer Purpureus
+fieri, cum primum aurora movetur, Et breve post tempus candescere
+solis ab ortu>.
+
+	|68. per lo candor~ ecc.:  per il biancheggiare del sesto
+pianeta, Giove, nel quale mi trovai a un tratto salito dal
+rosseggiante Marte (cfr. ^Par.~ XIV 87).  |temprata stella
+sesta~:  cfr. ^Conv.~ II xiii 25: <Tolomeo dice.... che Giove @e
+stella di ^temperata~ complessione, in mezzo de la freddura di
+Saturno e de lo calore di Marte [cfr. ^Par.~ XXII 143]....  Intra
+tutte le stelle bianca si mostra, quasi argentata>.
+
+	|70. Io vidi~ ecc.:  Nel cielo di Giove appariscono a
+Dante le anime beate di coloro che in terra amministrarono
+dirittamente la giustizia: queste anime, luminose come tutti i
+beati, si dispongono dapprima in modo da formare, una dopo
+l'altra, le lettere di queste parole della ^Sapienza~ (I 1):
+^Diligite iustitiam qui iudicatis terram~ (vv. 73-99); poi con
+rapidi movimenti si ordinano in modo da formare un'aquila,
+insegna dell'Impero (vv. 100-114).  |in quella~ ecc.:  nella
+stella di Giove.  ^Gioviale~ @e termine astronomico, lat.
+^jovalis~, per indicare tutto ci@o che appartiene al pianeta
+Giove; e signific@o poi giocondo, lieto, per la credenza che
+l'influsso di tale pianeta disponesse alla felicit@a: e ^facella~
+ha qui il senso generico di astro, come in ^Purg.~ VIII 89.
+
+	|71. lo sfavillar~ ecc.:  i beati, che ivi sfavillavano
+per l'ardore della carit@a, disporsi in modo da formare lettere
+latine, i segni grafici della nostra lingua.
+
+	|73. E come~ ecc.:  Venturi 442: <Nella bella
+similitudine si noti propriet@a di corrispondenze.  Come augelli
+^surti di rivera~, cio@e saziato il desio della sete, cos$i quelli
+spiriti erano dissetati nel fonte dell'eterne delizie: e come
+augelli ^congratulando a lor pasture~, cio@e facenti festa del
+pasto trovato, cos$i i beati godevano del rinvenuto modo di
+palesare il loro giocondo affetto, quasi cibo per essi di vita
+celeste>.  |rivera~:  riva di fiume; cfr. ^Inf.~ III 78.
+
+	|74. congratulando~ ecc.:  cantando per far festa tutti
+insieme della pastura che hanno presa.
+
+	|75. fanno~ ecc.:  si ordinano in cerchio o in altri
+differenti raggruppamenti: la frase ^far di s$e~, a proposito del
+disporsi degli uccelli, @e anche in ^Inf.~ V 47.
+
+	|77. volitando~:  in piccoli voli andando or qua or l@a. 
+|e faciensi~ ecc.:  e si disponevano in modo da formare delle
+lettere, prima figurando un ^D~, poi un ^I~, e poi un ^L.~
+
+	|79. Prima~ ecc.:  volta per volta che dovevano formare
+una lettera queste anime cantando si movevano secondo la nota del
+canto, cio@e facevano un giro di danza regolandosi secondo i tempi
+del canto (cfr. ^Par.~ X 76): poi quando s'erano disposte nella
+forma della lettera si fermavano o tacevano per un breve tempo,
+per dar agio a Dante di veder la lettera e riconnetterla con le
+precedenti.
+
+	|82. O diva~ ecc.:  o musa, che fai gloriosi gl'ingegni e
+li rendi immortali (cfr. ^Purg.~ XXI 85), mentre essi col tuo
+aiuto (^teco~) eternano nei loro carmi le citt@a e i regni ecc. 
+Quale delle nove dee Dante intendesse invocare, non @e chiaro;
+^Pegasea~ essendo nome generico di ciascuna delle muse,
+educatrici del cavallo Pegaso (cfr. Ovidio, ^Eroid.~ XV 27;
+Properzio, III 1, 19): la maggior parte dei commentatori credono
+che egli accenni Calliope, particolarmente invocata anche in
+^Purg.~ I 9; altri a Urania, invocata gi@a in ^Purg.~ XXIX 40,
+alla quale, pensando che significa `celeste', potrebbe meglio
+addirsi ^diva~ in senso pi$u strettamente cristiano (cfr. ^Par.~
+IV 118, XXIV 23); e altri infine a Euterpe, alla quale gli
+antichi assegnavano la sfera di Giove.  Comunque, @e questa la pi$u
+commossa invocazione dantesca all'efficacia mirabile della
+poesia; ed @e notevole che sia nel cielo di Giove, presso
+l'ideazione dell'Aquila: l'Aquila Impero, l'Aquila Giustizia.
+
+	|85. illustrami~ ecc.:  inspirami con la tua potenza s$i
+ch'io possa rappresentare, mostrare come in rilievo le figure
+formate da quelle anime, secondo che le ho nella mente: la tua
+potenza si dimostri ^in questi versi brevi~, <in questi miei
+ternar#i (chiosa il Buti), che sono brevi versetti>; ma pi$u che la
+breve misura, credo accennata con questo aggettivo
+l'insufficienza del verso italiano al confronto del latino pi$u
+comprensivo e significativo; ^breve~ sembra usato nello stesso
+senso di ^scarso~ (cfr. ^Par.~ VII 118, XV 78, ecc.).
+
+	|88. Mostrarsi~ ecc.:  quelle anime, prendendo diverso
+ordinamento, per trentacinque volte apparvero in figura or di
+vocali, or di consonanti; ed io andai via via notando le lettere,
+le sillabe, le parole, secondo che mi si mostrarono espresse da
+quelle figurazioni.
+
+	|91. Diligite~ ecc.:  nell'insieme di quelle figurazioni
+le prime parole che apparvero furono un verbo e un nome:
+^diligite iustitiam.~  |primai~:  formati dalle lettere che prima
+si mostrarono.
+
+	|93. qui~ ecc.:  le ultime parole che apparvero furono
+^qui iudicatis terram.~  |sezzai~:  ultimi; l'agg. ^sezzaio~, da
+^sezzo~, @e frequente negli antichi; cfr. ^Inf.~ VII 130.
+
+	|94. Poscia~ ecc.:  da ultimo tutte quelle anime rimasero
+ferme e ordinate nell'^emme~ dell'ultima parola (^terram~), s$i
+che la bianca stella di Giove l$i, in quel punto ov'erano le anime
+luminose, pareva argento intarsiato d'oro.  Secondo il Buti gli
+spiriti che si fermarono nella figura dell'emme <erano li minori
+officiali e le persone singulari e private che erano valute nel
+mondo nelli atti e nell'amore della iustizia>.
+
+	|97. E vidi~ ecc.:  e vidi scendere altre anime luminose,
+le quali si fermarono ^dove era il colmo de l'emme~, cantando le
+lodi di Dio che le muove ^a s$e~, cio@e alla pratica della
+giustizia.  Questi altri spiriti, discesi dall'empireo, sono,
+secondo il Buti, <li regi e l'imperatori del mondo, che sono
+stati nel mondo sopra li altri e governatoli co' la iustitia>. 
+|dove~ ecc.:  Dante imaginava coteste lettere, figurate dai
+raggruppamenti di spiriti, secondo la scrittura epigrafica che
+usava al suo tempo, cio@e di maiuscolo gotico: l'emme adunque era
+fatto con un'asta verticale, dalla cui cima partivano due curve
+semicircolari rientranti; e in cotesta cima vennero a fermarsi le
+anime discese dall'empireo, disponendosi in modo da formare un
+giglio (v. 112): poi altre anime formarono il collo e il capo
+d'un'aquila, di cui il corpo era rappresentato dall'asta mediana
+dell'emme e le ali dalle due curve laterali.  Questi versi sono
+stati chiariti assai bene, con figure tratte dalla scrittura e
+dal disegno del secolo XIII, da M. Caetani, ^Tre chiose nella
+Divina Commedia~, in ^Opuscoli danteschi~, n.+ 11.
+
+	|99. credo~:  <afferma, non dubita>; Tomm.
+
+	|100. Poi come nel~ ecc.:  quindi come avviene
+allorquando si percuote in un ceppo arso dal fuoco, che si levano
+innumerevoli faville, dalle quali gli stolti sogliono trarre
+auguri ecc.  |ciocchi~:  sono i ceppi o legni da ardere; la voce
+^ciocco~ @e rimasta in questo senso nel dialetto toscano delle
+campagne.  |arsi~:  Venturi 75: <meglio che ^accesi o ardenti~,
+perch$e esprime consumati gi@a in gran parte dal fuoco, onde
+sprigionano, percossi, maggior copia di faville>.
+
+	|102. onde~ ecc.:  Allude a un'usanza superstiziosa,
+molto comune nei tempi antichi, n$e del tutto scomparsa; la quale
+@e descritta dal Lana: <Molte volte i stolti stando appresso il
+fuoco fregano su l'arso de' ciocchi, per la quale fricazione
+molte faville apparno, ed elli s'agurano dicendo: ^cotanti
+agnelli, cotanti porcelli, cotante migliara di fiorini d'oro~; e
+cos$i passano tempo>, e dall'Ott., <come quando l'uomo percuote
+uno tizzone di fuoco arso, e quindi si escono molte faville, onde
+gli sciocchi si sogliono augurare, cio@e dire: ^cotante castella o
+case o cittadi avess'io quante faville usciranno di questo
+tizzone arso~; e questo dicono anzi che il percuotano; poi,
+secondo che n'escono, dicono: ^assai o poche ne avrei avute~>.
+
+	|103. resurger~ ecc.:  si videro dalla cima dall'emme
+tornare in su pi$u di mille anime luminose e salire quali pi$u,
+quali meno, secondo che di@e loro in sorte Iddio, quel sole che le
+accende d'amore per la giustizia.
+
+	|105. il sol~ ecc.:  cfr. ^Purg.~ VII 26.  |sortille~: 
+il vb. ^sortire~, oltre il senso di avere in sorte (^Par.~ XXXII
+34) o di sorteggiare (^Inf.~ XIX 95), ha pi$u frequentemente in
+Dante quello di dare in sorte, destinare (^Inf.~ XII 75, ^Par.~
+IV 37, XI 109, ecc.).
+
+	|106. e quietata~ ecc.:  e quando ciascuna si fu fermata
+al suo posto, vidi che ^quel distinto foco~, il complesso
+fulgidissimo di quelle anime rappresentava la testa e il collo di
+un'aquila (^aguglia).~
+
+	|108. distinto~:  perch$e il fulgore delle anime si
+distingueva nettamente dalla bianca luce di Giove.
+
+	|109. Quei che dipinge~ ecc.:  Dio, che nel pianeta di
+Giove raffigur@o quest'aquila, non ha bisogno di esemplare, non
+segue le forme della natura; perch@e anzi guida gli altri, e la
+natura stessa ^rammenta~, riconosce da lui ogni virt$u creativa:
+si cfr. con ci@o che della natura e dell'arte Dante dice in ^Inf.~
+XI 99 sgg.
+
+	|111. quella~ ecc.:  quella virt$u creativa che @e essenza
+degli esseri generanti.  La frase ^per li nidi~ appare oscura
+agli interpreti, i quali spiegano questo verso nelle maniere pi$u
+disparate: la difficolt@a @e nata, secondo me, dall'aver inteso
+^forma~ per conformazione, figura, mentre se si intenda nel
+solito senso dantesco e filosofico di essenza, natura, ecc., sar@a
+facile cogliere il significato della frase ^per li nidi~, poich$e
+@e appunto nei nidi che gli animali, ragionevoli o no, esplicano
+la virt$u creativa.  La pi$u comune interpretazione, esposta dal
+Bianchi cos$i: <da Dio medesimo si pone in mente, s'inspira agli
+uccelli quella virt$u ond'essi dan forma ai loro nidi>, altera
+stranamente il pensiero del poeta e sforza le parole a
+significazioni non vere: come mai ^virt$u ch'@e forma~ pu@o valere
+^virt$u che d@a forma?~  Il Parodi propose ^virt$u che forma~, virt$u
+formativa, la virt$u del seme, spiegando: e da Dio deriva e da lui
+si rammenta la virt$u formativa del seme de' generanti dentro i
+nidi; cio@e, e le nature terrene sono un riflesso della luce
+divina: pensiero che avrebbe nel poeta assunto questa forma
+perch$e il punto di partenza @e un uccello, l'aquila (cfr. ^Bull.~
+XV 279, XXIII 62).
+
+	|112. L'altra~ ecc.:  le altre anime beate, che prima
+erano venute a posarsi sul colmo dell'^emme~ (v. 97) formando
+come un giglio, con poco movimento compierono la forma
+dell'aquila.  Ai vari momenti della trasformazione della M in
+aquila si @e attribuito un significato simbolico: per il Parodi
+(cfr. ^Bull.~ XI 250 e XV 278), il giglio d'oro richiama il
+giglio della monarchia francese, che nel 1300, vacando l'Impero,
+poteva sembrare, per gli uomini illusi, tipo della vera
+Monarchia; e il suo scomparire a completare la figura dell'aquila
+significa l'assorbimento, predestinato da Dio e che si compir@a,
+di essa monarchia francese nell'Impero, nell'obbedienza che ogni
+stato deve al Cesare universale.  Per V. Capetti (^Lect. D.~, 18)
+il giglio di luci @e un fregio di purezza: <il giglio d@a qualche
+cosa d'umile, di gentile, di delicato alla grandezza; e i petali
+di rubini, ricadenti dall'uno e dall'altro lato del gambo, che si
+fanno ali grandi aperte, con poco moto,... olezzano il mistico
+profumo.... della pace universale, a cui s'appuntava sempre la
+mente convinta, la fede ansiosa del Poeta>.  |beatitudo~:  lat.,
+beatitudine; in valore collettivo: i beati.
+
+	|113. ingigliarsi~:  formare sull'^emme~ una punta, s$i
+che assumesse la figura del giglio quale si dipingeva sugli
+stemmi medievali.
+
+	|114. la 'mprenta~:  l'impronta, figura (^Par.~ VII 69).
+
+	|115. O dolce~ ecc.:  o dolce stella di Giove, quali e
+quante anime luminose mi dimostrarono, con le parole ^Diligite~
+ecc. e con le figure del giglio e dell'aquila, che la giustizia
+del mondo @e un effetto del cielo che tu adorni!
+
+	|118. Per ch'io~ ecc.:  per la qual cosa io prego Dio,
+che ti muove e ti d@a virt$u d'influire sugli uomini, che riguardi
+da qual luogo esce il vizio che guasta il tuo influsso di
+giustizia.  |la mente~ ecc.:  cfr. ^Par.~ XIX 53-54, XXVII
+110-111.
+
+	|120. ond'esce~ ecc.:  la corte di Roma, la quale @e prima
+cagione della presente corruzione morale e civile, che spegne la
+giustizia, fondamento del retto vivere; cfr. ^Inf.~ XIX 105,
+^Purg.~ XVI 97 sgg.  |tuo raggio~:  cfr. ^Conv.~ II vi 9: <li
+raggi di ciascuno cielo sono la via per la quale discende la loro
+vertude in queste cose di qua gi$u>.
+
+	|121. s$i ch'un'altra~ ecc.:  affinch$e, come gi@a s'adir@o
+contro coloro che facevano mercato nel tempio di Gerusalemme
+(cfr. Matteo, XXI 12 sgg.; Marco, XI 15 sgg.; Luca, XIX 45 sgg.;
+Giovanni, II 14 sgg.), s'adiri un'altra volta (^altra fiata~) del
+comprare e del vendere che si fa nella Chiesa cristiana, fondata
+coi miracoli e coi martiri.  |omai~:  <dice stanchezza
+impaziente>; Tomm.
+
+	|123. segni~:  prodigi, portenti, cio@e i miracoli di Ges$u
+Cristo; cfr. Daniele VI 27: <faciens signa et mirabilia>.
+
+	|124. O milizia~ ecc.:  o anime beate che io vedo ora con
+la mente, pregate per coloro che sono in terra, sviati tutti
+dietro al cattivo esempio che @e dato dal ^pastor che precede~
+(^Purg.~ XVI 98).
+
+	|126. tutti~ ecc.:  cfr. anche ^Purg.~ VIII 131.
+
+	|128. or si~ ecc.:  adesso si fa per mezzo di scomuniche
+e interdetti, che impediscono ai cristiani gli offic#i e le
+pratiche religiose, togliendo cos$i quella grazia che Dio non nega
+ad alcuno.  @E qui probabilmente un'allusione alla scomunica con
+la quale Giovanni XXII colp$i Cangrande sino dal 1317 (cfr.
+^Bull.~ XVIII 73).  |or qui~ ecc.:  ora in un luogo, ora in un
+altro.
+
+	|129. lo pan~:  il pane dell'anima, il sacramento
+dall'eucaristia.
+
+	|130. Ma tu che~ ecc.:  Allude, non agli ecclesiastici in
+complesso (cos$i Lana, Ott., Pietro di Dante, Benv., Buti, Land.,
+Vell., ecc.) n$e al papa in genere (cos$i Cass., Dan., Bianchi,
+Andr., ecc.), e n$e pure a Bonifazio VIII (come intendono Vent.,
+Biag., Costa, Ces.) o a Clemente V (cos$i Lomb., Tomm. e altri)
+gi@a morti quando Dante scriveva questi versi, ma al caorsino
+Giovanni XXII, eletto papa nel 1316 e morto nel 1334; il cui
+pontificato fu tutta una serie di scomuniche e ricomunicazioni a
+fin di guadagno, s$i che di lui ben si poteva dire che scrivesse
+solo per cancellare.
+
+	|131. pensa che~ ecc.:  pensa che i due apostoli Pietro e
+Paolo, morti per la Chiesa che tu distruggi, vivono in paradiso e
+vedono le opere tue.  |Pietro e Paulo~:  Si noti in bocca al
+poeta la forma normale e latina dei nomi degli apostoli: in bocca
+del papa invece, il nomignolo volgare di Pescatore all'uno, di
+Polo all'altro; antitesi assai bella, che fa vedere la noncuranza
+del papa per i primi apostoli della Chiesa.
+
+	|132. la vigna~:  la chiesa; cfr. nota a ^Par.~ XII 86.
+
+	|133. I' ho fermo~ ecc.:  io ho messo ogni desiderio in
+san Giovanni Battista, impresso sui fiorini d'oro, di modo che
+non conosco n$e san Pietro n$e san Paolo.
+
+	|134. colui~ ecc.:  san Giovanni Battista, che am@o di
+vivere nel deserto (Luca, I 80) e fu ucciso ^per salti~, per dar
+la sua testa alla figliuola di Erodiade, che l'aveva chiesta come
+premio alla sua danza fatta innanzi ad Erode (Matteo, XIV 1-12;
+Marco, VI 14-28).  Qui sta a indicare i fiorini fiorentini (cfr.
+^Inf.~ XXX 74, ^Par.~ IX 130), i quali da una parte avevano
+l'impronta del Battista, cos$i descritta da I. Orsini, ^Storia
+delle monete della repubbl. fiorentina~, Firenze, 1760, p. XII:
+<L'imagine di s. Gio. Battista.... in piedi, coperto di veste
+distesa fino al ginocchio, su' fianchi legata,... i capelli
+sparsi sulle spalle, in testa il nimbo o sia diadema, colla
+destra sta in atto di benedire all'uso greco, vale a dire
+congiungendo il dito pollice all'auricolare, tenendo gli altri
+distesi, con la sinistra tiene una verga, che termina in una
+croce con lettere attorno: ^S. Johannes B.~>.  L'amore di
+Giovanni XXII per i fiorini fu tale che nel 1322 <fece fare in
+Avignone una nuova moneta d'oro fatta del peso e lega e conio del
+fiorino d'oro di Firenze, se non che dal lato del giglio diceano
+le lettere il nome del papa Giovanni; la qual cosa gli fu messa a
+grande riprensione> (G. Villani, ^Cr.~ IX 171).
+
+	|136. il pescator~:  san Pietro; cfr. ^Purg.~ XXII 63. 
+|Polo~:  san Paolo apostolo.

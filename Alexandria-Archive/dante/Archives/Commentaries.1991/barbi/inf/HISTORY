@@ -1,0 +1,26 @@
+Mon Aug 5 12:14:58 EDT 1985 pre-edited 1 thru 17 using clean.old.k
+Mon Aug 5 12:15:15 EDT 1985 something wrong with 15 - line refs repeat
+Wed Aug 7 13:00:04 EDT 1985 stc deleted purg/15 text from end of 15.e
+Wed Aug 7 15:29:27 EDT 1985 stc downloaded 01-18 and mailed to Marg.
+Mon Aug 12 09:28:56 EDT 1985 (aug 9) js cleaned 19-34
+Mon Aug 12 11:31:38 EDT 1985 stc downloaded 19-34 and mailed to Marg.
+Wed Oct 16 17:18:15 EDT 1985 jvs typed in 4 missing columns of text, 29.s
+Fri Nov 1 08:14:04 EST 1985 oct 31 jvs uploaded 1-14.e
+Tue Nov 19 10:35:03 EST 1985 jvs uploaded 15 thru 34.e, rm all s files
+Wed Feb 5 10:55:31 EST 1986 jvs glitch suspected in upload, italian quotes 
+are reformed as M-+ and M-;
+Wed Feb 5 11:17:59 EST 1986 jvs new problem, circumflexed i appears as M-n
+Wed Feb 5 11:37:19 EST 1986 jvs M-b equals circumflexed a
+Wed Feb 5 11:38:42 EST 1986 jvs M-g equals french c with tail
+Thu Feb 6 08:53:56 EST 1986 jvs M-t equals circumflexed o
+Thu Feb 6 09:06:31 EST 1986 jvs fixed M- probs except in.14 21 31 32 which have M-g
+Thu Feb 27 08:51:11 EST 1986 jvs M-g to be escaped with $c All
+circumflexed letters will use # before it.
+Mon Jan 18 17:59:58 EST 1988 probl found: ~. changed to .~ in all files, renamed
+files *.f. jma
+Tue Feb 14 17:55:17 EST 1989 preloaded INF jvs
+Sun Apr 16 08:30:42 EDT 1989 jvs corrected .f files using checknew
+Sun Apr 16 08:30:49 EDT 1989 jvs preloaded corrected .f files
+Wed Apr 19 19:57:06 EDT 1989 jvs deleted obsolete .e files
+Thu Apr 27 09:25:03 EDT 1989 jvs corrected xfer errors using xfercheck
+Thu Apr 27 09:25:10 EDT 1989 jvs preloaded corrected files

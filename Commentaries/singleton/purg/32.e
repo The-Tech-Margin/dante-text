@@ -1,0 +1,1118 @@
+	|Proemio.~  ^Special Note~: Beatrice's triumph and the
+splendid climax of her unveiling are complete; the journey to
+Beatrice is terminated.  The scene changes radically now, and the
+action centers around a tree in Eden.  This commentary can follow
+in some detail the shifts in scene and in the context of meaning,
+but I wish to urge that the reader find time for the fundamental
+essays of E. Moore, "The Apocalyptic Vision" and "The DXV
+Prophecy," in the third series of his ^Studies in Dante~ (1903),
+pp. 178-220, 253-283.  Though originally published in 1903,
+Moore's interpretation of ^Purg.~ XXXII-XXXIII seems to me to be
+still the most persuasive, even though the material written about
+these cantos has grown enormously since (see the bibliography
+under the entry "Cinquecento diece e cinque" in the ^Enciclopedia
+dantesca~).  Accordingly, in the following notes, I draw
+extensively on Moore's interpretation and refer to it constantly. 
+But I have inevitably fragmentized his total argument by
+scattering quotations from it through these notes, and for that
+reason I hope that the reader will find it possible to read his
+essays, which are now also available in an edition reprinted in
+1968.
+
+	|2.  la decenne sete~: As recounted in the ^Vita nuova~
+(XXIX, 1), Beatrice died in 1290; the fictional date of this
+journey and of the present encounter is 1300.
+
+	|3.  li altri sensi m'eran tutti spenti~: See ^Purg.~ IV,
+1-12, and the note to these verses.
+
+	|4.  essi~: The eyes.
+
+	|5.  non caler~: Indifference.  "Caler" is the
+infinitive, here used with "non" as a substantive.
+
+	|6.  tra$eli~ = ^li traeva.~ 	|l'antica rete~: Cf.
+^Purg.~ XXX, 39; XXXI, 116-117.
+
+	|8.  ver' la sinistra mia da quelle dee~: The divinities
+to which this reference is made are the three theological virtues
+(see ^Purg.~ XXIX, 121-122, and n. to ^Purg.~ XXIX, 121).  Dante
+is still standing before the griffin and is facing the chariot
+and Beatrice.  These three virtues have left their own position
+at the right wheel of the chariot to join him here and are
+accordingly on his left.
+
+	|9.  Troppo fiso~: The verb of this injunction is
+understood: "You are looking too fixedly."  In the context it
+should be noted that Dante is gazing now on a Beatrice who is the
+Beatrice of the ^Vita nuova~ in all her beauty, and in this focus
+for the moment she is not seen as Revelation or as the bearer of
+any other symbolic name.  The virtues would seem to be indicating
+that Dante can look too intently on ^that~ Beatrice.
+
+	|10-11.  la disposizion... percossi~: Such sight is nil,
+of course.  As vs. 12 makes evident, Dante is momentarily blinded
+by the splendor of Beatrice, which equals that of the sun.
+
+	|@ee~ = ^@e.~  Cf. ^Inf.~ XXIV, 90.  So, in rhyme in vs.
+12, "f$ee" = ^f$e~ (^fece~).
+
+	|13-15.  al poco... rimossi~: Even the splendor of the
+procession is not to be compared with the dazzling brightness of
+Beatrice!  These be strong words, calling the whole procession
+"poco" in comparison!
+
+	|il viso~: "My sight." 	   |riformossi~ = ^si riform@o.~
+
+	|al molto sensibile~: The splendor of Beatrice.  The
+terminology is Aristotelian, "sensibile" meaning the object
+offered to the senses and perceptible by them, by the sight in
+this instance.  Cf. ^Purg.~ XV, 15: "soverchio visibile."
+
+	|a forza~: "Forcibly," by the injunction of the three
+virtues.
+
+	|16-18.  vidi 'n sul braccio... volto~: The return now of
+the procession toward the east whence it came represents a
+radical change of scene and context of significance.  Beatrice is
+still upon the chariot, of course, but will soon descend.  Her
+triumph, as such, is over.  The first unfolding or gradual coming
+of the procession (^Purg.~ XXIX) bore the suggestion of a
+temporal process which, chronologically, represented in one
+aspect, as E. Moore (1903, p. 189) states it, "the growth and
+constitution of the Church from the dawn of Revelation to the
+close of the Canon of Scripture," with the Christ-event at its
+center.  The military figure and the terms "essercito" (vs. 17)
+and "milizia (vs. 22) serve to bring out even more emphatically
+the aspect of Church Militant, which is prominent in the total
+context of meaning from this point on.
+
+	|'n sul braccio destro~: The procession came out of the
+east, along the far side of Lethe toward Dante, and now, in
+returning, can wheel only to the right, for the stream is
+immediately on its left.
+
+	|col sole e con le sette fiamme al volto~: It is still
+morning in Eden, and the sun is in the east and "in the face" of
+the procession.  The seven lights, as the banner of this militia
+of the heavenly kingdom, of its vanguard, still lead the
+twenty-four elders (^Purg.~ XXIX, 82-84).
+
+	|19-21.  Come sotto li scudi... mutarsi~: The figure is
+that of a troop of soldiers retreating, with their shields held
+over their heads.
+
+	|volgesi~ = ^si volge.~
+
+	|23.  procedeva~ = ^precedeva.~ 	|trapassonne~ =
+^ne trapass@o~, the |ne~ meaning ^ci~, "us," i.e., Dante, who
+stands with the chariot, and the central group.  This clearly
+indicates a very sharp backward turning of the procession.
+
+	|24.  pria che piegasse il carro il primo legno~: "Before
+the chariot bent its first wood," i.e., its pole, which is the
+Cross.
+
+	|25.  Indi a le rote si tornar le donne~: The virtues
+(^Purg.~ XXIX, 121, 130) now return to the two wheels, though
+they are not said to dance beside them any longer as they did in
+the advent of Beatrice, when the procession was her triumph.  	  
+|si tornar~ = ^si tornarono.~
+
+	|26.  il benedetto carco~: The chariot which the griffin
+pulls.
+
+	|27.  s@i, che per@o nulla penna crollonne~: Christ sets
+the Church in motion again, by means of the Cross, without
+disturbing in any way His divine (eagle) part.   |per@o~ = ^per
+ci@o.~ 	   |crollonne~ = ^ne croll@o.~  The verb is here
+intransitive, "penna" being the subject.
+
+	|28.  La bella donna che mi trasse al varco~: It will be
+noted that this lady, repeatedly termed "beautiful," is as yet
+unnamed in the poem; her name will prove to be Matelda (^Purg.~
+XXIII, 119).  The qualifying reference is to the events described
+in ^Purg.~ XXI, 91-104.
+
+	|29-30.  Stazio~: Statius has been on the scene all the
+while, but his presence has been completely overlooked since the
+disappearance of Virgil (the last explicit notice taken of him
+being in ^Purg.~ XXVIII, 146).
+
+	|la rota... arco~: The wheel that makes its turn with the
+smaller arc is the right wheel, since the whole procession has
+turned to the right.  Dante and Statius, with Matelda, join the
+theological virtues at that wheel, which is the better side, the
+theological virtues being of a higher order than the virtues at
+the left wheel (see ^Purg.~ XXXI, 130).
+
+	|31-32.  l'alta selva v@ota... crese~: The Garden of Eden
+would still be inhabited by the human race, were it not for the
+sin of our first parents.  Again, as in ^Purg.~ VIII, 99, and
+XIX, 23-30, it is Eve who is blamed for this; yet, in vs. 37, it
+will be Adam who is remembered reproachfully, for only through
+^his~ sin, not Eve's, did we all sin (cf. ^Purg.~ XXXIII, 61-63). 
+See nn. to vss. 37-39 and to ^Purg.~ XXIX, 29-30.
+
+	|colpa~: Here used like the Latin ablative ^culpa~,
+"through the fault." 	|crese~ = ^credette.~
+
+	|33.  nota~: Song -- but we are not told who sings.
+
+	|34-35.  Forse in tre voli... saetta~: Cf. Ovid, ^Metam.~
+VIII, 695-696; Statius, ^Theb.~ VI, 354.
+
+	|in tre voli~: Shot three times, i.e., the distance of
+three shots.  |prese~: This is termed the "iterative" use of the
+preterite and might have been rendered by the present ^prende.~
+
+	|disfrenata~: "Loosed from the bowcord." 	|eramo~
+(pronounced ^er@amo~) = ^eravamo.~  It is a Latinism.
+
+	|36.  Beatrice scese~: Clearly this act on the part of
+Beatrice radically changes the whole stage set, and a new play or
+act in the play can begin.
+
+	|37-39.  Io senti' mormorare... ramo~: The mention of
+Adam and the tree stripped of its leaves and fruits brings us
+straightway to the center of meaning in this new enactment.  And
+the tree will remain at the center.  Clearly, in one of its
+meanings, it is literally the tree of the knowledge of good and
+evil of Gen. 2:15-17: "Tulit ergo Dominus Deus hominem, et posuit
+eum in paradiso voluptatis ut operaretur et custodiret illum;
+praecepitque ei dicens: Ex omni ligno paradisi comede, de ligno
+autem scientiae boni et mali ne comedas, in quocumque enim die
+comederis ex eo morte morieris."  ("The Lord God took the man and
+placed him in the garden of Eden to till it and to keep it.  And
+the Lord God commanded the man thus, 'From every tree of the
+garden you may eat; but from the tree of the knowledge of good
+and evil you must not eat; for the day you eat of it, you must
+die.'")  In ^Purg.~ XXXIII, 71-72, Beatrice declares that this
+tree signifies morally the justice of God, "in the interdict,"
+that is, in God's order to Adam ^not~ to eat of it.  And this
+^interdict~ aspect of meaning remains with the tree throughout
+the elaborate enactment in and around it.  The Lord said, "Thou
+shalt not," and His justice as figured by the tree bears with it
+this original ban (see ^Purg.~ XXXIII, 61-63) even though the
+action that will be seen around it will extend, in chronological
+signification, from Adam all the way down to the early years of
+the fourteenth century.
+
+	Insofar as the tree symbolizes ^ius~ (law) or ^iustitia~
+(justice), it extends and completes the pattern of justice which
+has been fulfilled in the individual Dante (justice as the goal
+of justification).  But the tree stands for ^ius~ and ^iustitia~
+in a far broader, social sense, involving mankind, Church, and
+Empire.  It should not be construed as ^meaning~ Empire, however
+-- a line of interpretation that has distorted much commentary on
+these cantos for a long time.  Empire as such will come into the
+enactment in the familiar form of an eagle, even as the Church
+will be represented in this scene by the chariot, in the meaning
+already established for it; and the griffin will continue to
+represent Christ.
+
+     	That this tree is stripped of all its leaves, its
+flowers, and its fruits clearly registers the consequences of
+Adam's sin in human nature generally and symbolizes the wounds
+that are now borne by mankind in consequence of our first
+father's sin.  And the reproachful murmur by all the host here
+should bring to mind not only the verses of Genesis cited above,
+but such passages in the Scriptures as Rom. 5:12: "Propterea
+sicut per unum hominem peccatum in hunc mundum intravit, et per
+peccatum mors, et ita in omnes homines mors pertransiit, in quo
+omnes peccaverunt." ("Therefore as through one man sin entered
+into the world and through sin death, and thus death has passed
+unto all men because all have sinned.")  Also see the apocryphal
+IV Esdrae 7:48: "O tu, quid fecisti, Adam?  Si enim tu peccasti,
+non est factus solius tuus casus, sed et noster qui ex te
+advenimus."  ("O thou Adam, what hast thou done?  For though it
+was thou that sinned, thou art not fallen alone, but we all that
+come of thee.")
+
+	|a tutti~ = ^da tutti.~
+
+	|cerchiaro~ = ^cerchiarono.~
+
+	|e d'altra fronda~: Chimenz rightly observes that this is
+to be understood in the broader meaning of "flowers and fruits,"
+i.e., all that which, besides the leaves, such a tree would
+produce before it was stripped.
+
+	|40-42.  La coma sua... s@u~: See ^Purg.~ XXXIII, 64-66,
+on the allegorical significance.  Regarding the peculiar shape of
+the tree, the reader will recall that the two trees on the
+terrace of gluttony are said to derive from this tree and do in
+fact have precisely the shape of the parent tree (^Purg.~ XXII,
+131-134; XXIV, 106-111), and there it is suggested that these
+trees are so shaped that none should climb them (^Purg.~ XXII,
+135).  It is the very shape of interdict, therefore, the shape of
+"thou shalt not," and brings out that aspect of this, the
+original tree of Eden, most graphically.
+
+	|coma~: "Tresses," i.e., branches.
+
+	|fora da l'Indi... ammirata~: India was famous for high
+trees; see Virgil, ^Georg.~ II, 122-124.  For a symbolical tree
+of great height, cf. Dan. 4:8-24 [11-17]; see n. to vs. 46.
+
+	|43.  discindi~: "Tear off."  Cf. Dante, ^De mon.~ III,
+x, 5: "Sed contra officium deputatum Imperatori est scindere
+Imperium."  ("But it is counter to the office deputed to the
+emperor to rend the empire.")  See ^De mon.~ II, xi, 1-10; xii,
+1-8; Matt. 22:21. 
+
+	|44.  esto~ = ^questo.~ 	|legno~: See the biblical
+^lignum~, which is here echoed, in Gen. 2:16-17: "Ex omni ligno
+paradisi comede, de ligno autem scientiae boni et mali ne
+comedas." ("From every tree of the garden you may eat; but from
+the tree of the knowledge of good and evil you must not eat.") 
+Here the term "pluck," rather than "eat," is applied to the tree,
+since there is no fruit on it to suggest eating.
+
+	|45.  poscia che~ = ^poi che.~ 		|mal si torce il
+ventre quindi~: "For the belly is sadly racked afterwards."
+
+	|46.  l'albero robusto~: This would seem to echo Dan.
+4:17 [20]: "arborem quam vidisti sublimem atque robustam" ("the
+tree which thou sawest which was high and strong").
+
+	|47.  binato~: "Dual," of two natures, eagle and lion,
+divine and human respectively.
+
+	|48.  S@i si conserva il seme d'ogne giusto~: The words of
+the griffin, his only utterance, clearly echo Jesus' words to
+John the Baptist (Matt. 3:15): "Sic enim decet nos implere omnem
+iustitiam."  ("For so it becomes us to fulfill all justice.") 
+See Rom. 5:19: "Sicut enim per inobedientiam unius hominis,
+peccatores constituti sunt multi, ita et per unius obeditionem,
+iusti constituentur multi."  ("For just as by the disobedience of
+the one man the many were constituted sinners, so also by the
+obedience of the one the many will be constituted just.")
+
+	The tree is ^ius~, law, and law in this conception is
+identical with God's will and providential plan.  God's will
+requires man's obedience and Christ's obedience in atonement and
+redemption.  As indicated in the n. to vss. 37-39, ^Purg.~
+XXXIII, 71-72, brings out the meaning of the tree to be morally
+the justice of God.  And justification of man, through Christ's
+obedient submission to the will of God, remains uppermost in the
+meaning here.  Cf. Rom. 5:18: "Igitur, sicut per unius delictum
+in omnes homines in condemnationem, sic et per unius iustitiam in
+omnes homines in iustificationem vitae."  ("Therefore as from the
+offense of the one man the result was unto condemnation to all
+men, so from the justice of the one the result is unto
+justification of life to all men.")  Christ was obedient unto
+death, even death on the Cross -- and immediately the Cross comes
+into the verses here, in symbol.  See Phil. 2:5-8:
+
+     Hoc enim sentite in vobis, quod et in Christo Iesu, qui, cum
+     in forma Dei esset, non rapinam arbitratus est esse se
+     aequalem Deo, sed semetipsum exinanivit, formam servi
+     accipiens, in similitudinem hominum factus et habitu
+     inventus ut homo.  Humiliavit semetipsum factus obediens
+     usque ad mortem, mortem autem crucis.
+
+     Have this mind in you which was also in Christ Jesus, who
+     though he was by nature God, did not consider being equal to
+     God a thing to be clung to, but emptied himself, taking the
+     nature of a slave and being made like unto men.  And
+     appearing in the form of man, he humbled himself, becoming
+     obedient to death, even to death on a cross.
+
+Thus Thomas Aquinas (^Summa contra Gentiles~ IV, 69) writes:
+"Dominus autem, quamdiu fuit in mundo, legem servaverit" ("since
+our Lord as long as He was in the world kept the Law").
+
+	|49-51.  E v@olto al temo... legato~: The griffin draws
+out the pole from the chariot and binds it to the tree, from the
+wood of which it originally came.  See E. Moore (1903), pp.
+219-220, on the legend of the wood of the Cross:
+
+     The legend that the Cross was made from the wood of the
+     Forbidden Tree in the Garden of Eden seems clearly
+     recognized by allusion in ^Purg.~ xxxii. 51: -- "E quel di
+     lei a lei lasci@o legato."
+
+     It is difficult, if not impossible, to find any other
+     satisfactory explanation for these words.  If it be
+     accepted, it establishes beyond doubt that the pole of the
+     car with the Crossbar symbolizes the Cross.
+
+     There is an elaborate monograph by Mussafia, ^Sulla~
+     ^leggenda della Croce~, to which I owe some of the following
+     references.  It was a legend very widely spread, and is
+     found in France, Spain, Italy, Germany, &c.
+
+     Thus the tradition, in one form or another, was so
+     generally familiar that Dante would be safe in referring to
+     it in this passing and allusive manner.  The following
+     strange medley is derived from the ^Aurea Legenda~, c.
+     lxviii.  Seth is said to have planted an offshoot from the
+     Tree of Knowledge on Adam's grave.  By the time of Solomon
+     it had grown to a very large tree.  This he cut down, and
+     employed either for one of his palaces, or as a bridge to
+     cross a pool.  The Queen of Sheba, to whom it was
+     miraculously revealed that the Saviour of the world should
+     one day hang upon this wood, refused to set foot on it, and
+     warned Solomon of the revelation she had received.  Solomon,
+     hoping to avert such an evil prophecy (just as often in
+     Greek mythology the oracular predictions were sought to be
+     evaded), caused the beam to be buried at a great depth in
+     the earth.  At the spot was afterwards dug the Pool of
+     Bethesda whose healing properties were due to the presence
+     of this wood.  Shortly before the Passion, the wood came to
+     the surface, and was employed to form the Cross!
+
+     The ^motif~ of all this is obvious.  It was deemed
+     appropriate that the instrument of death should also be that
+     of redemption.  Compare a similar thought, as recognized in
+     a sober form, by S. Paul in ^Rom.~ v. 19 and I ^Cor.~ xv.
+     21.  Also we may note the curious comment of Pietro di Dante
+     in ^Par.~ xxxii. 4, where Mary is described as having
+     healed the wound which Eve inflicted.  Hence, says Pietro,
+     she is greeted with "Ave," which is "Eva" reversed.
+
+Symbolically, the reuniting of the wood of the Cross to the tree
+from which it came signifies our redemption through Christ's
+sacrifice, his obedience even to death on the Cross.  Hence the
+imagery of newness of life, of renewed life, which now follows in
+vss. 52-60.
+
+	|49.  temo~ = ^timone~, "pole," i.e., the Cross.  Cf.
+^Purg.~ XXII, 119.
+
+	|52-54.  le nostre piante~: Trees and plants in our
+northern hemisphere, in the world of the living.
+
+	|quando casca... lasca~: Grandgent explains that "when
+the sun's light descends 'mingled with that' of Aries, -- the
+constellation which follows Pisces, the 'heavenly Carp,'-- it is
+spring."  Here "lasca" is used for fish in general, to indicate
+the constellation Pisces.
+
+	|55.  turgide fansi~: Cf. Num. 17:8, where the flowering
+of the rod of Aaron is described: "Sequenti die regressus invenit
+germinasse virgam Aaron in domo Levi; et turgentibus gemmis
+eruperant flores."  ("The next day, when Moses entered the Tent,
+Aaron's staff, representing the house of Levi, had sprouted and
+put forth not only shoots, but blossoms as well.")  See also
+Virgil, ^Eclog.~ VII, 48: "Iam laeto turgent in palmite gemmae." 
+("Now the buds swell on the gladsome tendril.")
+
+	|56-57.  pria che 'l sole... altra stella~: The next
+constellation to which the sun "hitches his steeds" is Taurus,
+which follows Aries; thus, the meaning is "before a month has
+passed."  See Virgil, ^Aen.~ I, 568; Ovid, ^Metam.~ II, 118.
+
+	|58.  men che di rose e pi@u che di viole~: The color
+between red and violet is purple and signifies Christ's
+sacrifice.  The plant is symbolically colored with His blood and
+is renewed through His crucifixion.  This signal now establishes
+this cardinal point of reference in time for the chronological
+sequence of events that follow.  See a similar color symbolism in
+the third step at the gate of Purgatory (^Purg.~ IX, 100-102, and
+n. to ^Purg.~ IX, 102).  It will also be recalled that the
+cardinal virtues are wearing purple, to signify that they are the
+infused cardinal virtues, accessible to individuals in their
+justification, after Christ's great act of love, death on the
+Cross.
+
+	|59-60.  s'innov@o la pianta... sole~: The renewal of the
+tree is deliberately stressed by the verb, thereby emphasizing
+the newness of life made possible through Christ's blood and His
+great act of atonement for Adam's sin, which left the tree so
+bare.
+
+	|ramora~ = ^rami~, "branches."  Such plurals are common
+in older Italian, e.g., ^tempora~, ^campora.~ 	  |sole~:
+"Stripped."
+
+	|61.  qui~: "Here," in the world of the living.
+
+	|63.  n$e la nota soffersi~: "Nor did I hear out the
+music."  Dante falls asleep, perhaps overcome by the sweetness of
+the song.  This sweet sleep may symbolize the peace and happiness
+that is possible after the atonement by Christ's sacrifice and
+reconciliation with God.
+
+	|64-66.  come assonnaro... caro~: Grandgent explains:
+"The hundred eyes of Argus, the guardian of Io (cf. XXIX, 95),
+were put to sleep by Mercury's song of the nymph Syrinx, loved by
+Pan; Mercury then slew the over-vigilant guardian: ^Met.~, I,
+568-747."
+
+	|69.  ma qual vuol sia che l'assonnar ben finga~: "But
+let him who will make a good counterfeit presentation of the act
+of falling asleep!"  As Porena observes, this amounts to a
+considerable challenge, since no one can really represent in
+painting the ^act~ of falling to sleep. 	|qual vuol sia~:
+Grandgent paraphrases this as follows: "Let it be he who wishes."
+
+	|70.  Per@o~ = ^per ci@o.~
+
+	|71.  un splendor~: The cause of this brightness is
+mysterious.
+
+	|72.  un chiamar~: It is the lady who is later to be
+named Matelda that calls thus (see vss. 82-84).
+
+	|73.  Quali~: "Quali" is correlative with "tal" in vs.
+82.  	|a veder~: This is to be connected both with "condotti,"
+vs. 76, and with "vinti," vs. 77.       |fioretti~: The foretaste
+of Christ's glory.  	|melo~: Christ.  Cf. Cant. 2:3: "Sicut
+malus inter ligna silvarum, sic dilectus meus inter filios." 
+("As an apple tree among the trees of the woods, so is my lover
+among men.")
+
+	|73-90.  Quali a veder... profonda~: Grandgent (p. 624 of
+his commentary) comments on the scene of the Transfiguration as
+follows:
+
+     When the sleeper comes to himself, he finds that the scene
+     has been transformed.  Christ and the Scriptures have left
+     the earth and returned to Heaven, whence they came.  They
+     have left below, as their representative, the Church, with
+     Revelation for its guide, and the sevenfold Spirit of God in
+     the keeping of the seven Virtues.  A change as wonderful as
+     this was experienced once before, when the three disciples
+     who had witnessed the Transfiguration recovered from their
+     fright.
+
+Grandgent goes on to quote Matt. 17:1-8:
+
+     Et post dies sex assumit Iesus Petrum et Iacobum et Ioannem
+     fratrem eius; et ducit illos in montem excelsum seorsum.  Et
+     transfiguratus est ante eos; et resplenduit facies eius
+     sicut sol, vestimenta autem eius facta sunt alba sicut nix. 
+     Et ecce apparuerunt illis Moyses et Elias cum eo loquentes. 
+     Respondens autem Petrus dixit ad Iesum: Domine, bonum est
+     nos hic esse; si vis, faciamus hic tria tabernacula, tibi
+     unum, Moysi unum, et Eliae unum.  Adhuc eo loquente, ecce
+     nubes lucida obumbravit eos, et ecce vox de nube dicens: Hic
+     est Filius meus dilectus, in quo mihi bene complacui; ipsum
+     audite.  Et audientes discipuli ceciderunt in faciem suam,
+     et timuerunt valde.  Et accessit Iesus, et tetigit eos,
+     dixitque eis: Surgite, et nolite timere.  Levantes autem
+     oculos suos, neminem viderunt, nisi solum Iesum.
+
+     Now after six days Jesus took Peter, James and his brother
+     John, and led them up a high mountain by themselves, and was
+     transfigured before them.  And his face shone as the sun,
+     and his garments became white as snow.  And behold, there
+     appeared to them Moses and Elias talking together with him. 
+     Then Peter addressed Jesus, saying, "Lord, it is good for us
+     to be here.  If thou wilt, let us set up three tents here,
+     one for thee, one for Moses, and one for Elias."  As he was
+     still speaking, behold, a bright cloud overshadowed them,
+     and behold, a voice out of the cloud said, "This is my
+     beloved Son, in whom I am well pleased; hear him."  And on
+     hearing it the disciples fell on their faces and were
+     exceedingly afraid.  And Jesus came near and touched them,
+     and said to them, "Arise, and do not be afraid."  But lifting
+     up their eyes, they saw no one but Jesus only.
+
+As Grandgent notes in his discussion, Dante discusses the moral
+sense of this episode in ^Conv.~ II, i, 5, and refers to its
+allegorical significance in ^De mon.~ III, ix, 11.
+
+	|74.  pome~: The full glory of Christ risen to Heaven:
+Cf. Apoc. 18:14: "et poma desiderii animae tuae" ("and the fruit
+which was the desire of thy soul").
+
+	|75.  perpetue nozze~: See Apoc. 19:9: "Beati qui ad
+cenam nuptiarum Agni vocati sunt."  ("Blessed are they who are
+called to the marriage supper of the Lamb.")  Cf. ^Par.~ XXX,
+135.
+
+	|76-81.  Pietro e Giovanni... stola~: Cf. Matt. 17:1-8. 
+In the ^Paradiso~ Peter, James, and John, as representatives of
+the three theological virtues faith, hope, and charity, conduct
+Dante's examination in these virtues in Heaven (^Par.~
+XXIV-XXVI).
+
+	|78.  maggior sonni~: The sleep of death.  See Luc.
+7:14-15; Ioan. 11:43-44.
+
+	|79.  scuola~: "Company," as in ^Inf.~ IV, 94.
+
+	|80.  cos@i di Mois@e come d'Elia~: "Both by Moses and by
+Elias."  Cf. Matt. 17:3.
+
+	|81.  e al maestro suo cangiata stola~: Literally, "and
+[saw] their Master's raiment changed," but "stola" means "aspect"
+in a broader sense and implies the transfigured aspect of glory.
+
+	|82-90.  tal torna' io... profonda~: This amounts to the
+second term of the simile, so complex and rich in its allusive
+meaning.  Central to the whole, of course, is the figure of
+Beatrice in her analogy with Christ (see C. S. Singleton, 1954,
+pp. 45-60; 1958, pp. 72-85 and ^passim~).  To be sure, Beatrice
+has already descended from the chariot.  But now, when Dante
+wakes up, he sees her very much changed in raiment, so to speak,
+seated on the bare ground -- changed, that is, from the aspect
+she had in her triumph in ^Purg.~ XXX and XXXI.  But we learn of
+an even greater event now: the whole scene is changed, for the
+griffin, symbolizing Christ, and all the figures in the
+procession (except the virtues and the chariot itself) have risen
+to Heaven or are in that moment rising.  This, in the
+chronological sequence, signifies the Ascension of Christ, and
+Beatrice is now left behind as Revelation and as Wisdom
+(Sapientia with her seven handmaids, the virtues).  Thus the
+simile has brought about a transfiguration in the whole scene and
+in the stage set of meaning.  And the time signal is of paramount
+importance: Beatrice now appears as ^Sapientia creata~, as
+Sapientia exists on earth among men after Christ has risen to
+Heaven, where He abides as ^Sapientia increata.~  For the analogy
+in these terms, see C. S. Singleton (1958), pp. 130-134.
+
+	By way of this remarkable transformational simile, so
+rich in meaning, the stage itself undergoes a subtle symbolic
+change: the place there, literally, the Garden of Eden, becomes
+in some sense the earthly city of the saints or the justified
+(for Dante the wayfarer is justified now), and the canto enters
+into the duality made famous by Augustine in his ^De civitate
+Dei~ (as will be suggested with regard to vss. 100-105).  See n.
+to vss. 100-102.
+
+	Part of the complexity of the whole simile, in its second
+term, has to do with the extended and dispersed nature of that
+second term: Dante awakens to find Matelda standing over him, but
+there is nothing in the simile as such to provide for the
+presence of Matelda at all.  And it is not Christ who is seen
+changed in his raiment, but Beatrice changed in hers.
+
+	|82-84.  quella pia... pria~: Again the specific name of
+Matelda is avoided, and the lady, fair and kind, is indicated by
+circumlocution.
+
+	|85.  tutto in dubbio~: Dante is afraid Beatrice may no
+longer be there.
+
+	|86-87.  Vedi lei sotto la fronda... radice~: Beatrice
+sits upon the roots of the renewed tree, and as we learn from vs.
+94, she sits all alone, save for the seven virtues that attend
+her as handmaids.  Sitting "on the root" she sits at the point of
+juncture between the pole of the chariot and the trunk of the
+tree: the very reunion which transformed the tree.
+
+	|88.  compagnia~: The seven virtues who have remained
+with Beatrice (see vss. 97-99), being ordained to her as her
+handmaids (^Purg.~ XXXI, 107-108), and who thus bring out her
+meaning as Sapientia, the only figure known to us who did indeed
+have seven handmaids.
+
+	|89.  li altri~: The thirty-five books of the Scriptures,
+the angels, who are being led by the griffin (Christ) upward to
+Heaven. 	|dopo~ = ^dietro.~ 	|sen vanno suso~: The
+figure of ascension here is most important in establishing a
+chronological point of reference.
+
+	|93.  quella~: Beatrice.        |intender~: "Attention,"
+"concern."
+
+	|94-96.  Sola sedeasi~ = ^si sedeva sola~, but the
+particular order of the words gives more meaning to the reflexive
+^si~ in its distancing function, so often noted heretofore.
+
+	|Sola sedeasi... fera~: There is Beatrice, all alone, and
+Christ has risen.  She sits on the earth, she ^is~ on the earth,
+left here by the risen Christ.  See n. to vss. 86-87.  Here,
+where Beatrice now sits, is not only Eden, but is here below ^in
+the world~ after Christ's Ascension.  It is in the world, but
+only in the world of the justified, the righteous earthly city. 
+See Beatrice's words in vss. 100-105.
+
+	|99.  Aquilone~: The north wind.  	|Austro~: The
+south wind.  These two winds are mentioned together here as being
+typically boisterous.
+
+	|100-102.  Qui sarai... romano~: Through failure to take
+note of the subtle changes of symbolic location, which the notes
+above have sought to observe, commentators have misunderstood
+Beatrice's words here.  Some would have the meaning of her words
+be: "Here, when you return as a soul to Purgatory and reach this
+forest at the summit, you will remain but little while, etc." 
+But this is completely banal, for we know from the presence of
+Statius, and from what happens to him here, that all souls will
+remain here at the summit only long enough to drink of the two
+streams.  To contrast this brief and obvious time span with the
+eternity of Heaven makes little sense.  Instead, as already
+noted, location has, symbolically, undergone a change, and
+Augustine's early and heavenly cities have emerged as central to
+the meaning.  His heavenly city could not be more clearly
+indicated than by the famous vs. 102; his earthly city is
+ambiguous or equivocal, even as in the famous ^De civitate Dei~,
+for there are two earthly cities, one made up of the righteous,
+those who are justified, and one made up of the wicked, those who
+live in sin.  And in such a context the Apocalypse speaks of a
+tree of life (Apoc. 22:2) and of admission to it and of the
+wicked who remain without, even as the poet does here, with "qui"
+(Beatrice is seated at the root of the tree of life)
+distinguished from the "mondo che mal vive" (vs. 103) to which
+Dante is to return, to report what he sees here.  See Apoc.
+22:14-15:
+
+     Beati qui lavant stolas suas in sanguine Agni, ut sit
+     potestas eorum in ligno vitae, et per portas intrent in
+     civitatem: foris canes et venefici, et impudici et
+     homicidae, et idolis servientes, et omnis qui amat et facit
+     mendacium.
+
+     Blessed are they who wash their robes in the blood of the
+     Lamb that they may have the right to the tree of life, and
+     that by the gates they may enter into the city.  Outside are
+     the dogs, and the sorcerers, and the fornicators, and the
+     murderers, and the idolators, and everyone who loves and
+     practises falsehood.
+
+This latter group, those excluded by wickedness, is the "mondo
+che mal vive" of the unrighteous, to which Dante must return. 
+But allegorically, of course, he ^is~ living in the midst of that
+world, as all the righteous and the justified must do who make up
+the good earthly city which must exist with the bad earthly city.
+
+	|poco tempo~: This must not be understood as a prediction
+that Dante is not to live a long time yet in the world.  This
+little time is little as compared with eternity, eternal life in
+the heavenly city, where Christ is.  Nor is this the first time
+that the poet has predicted his own salvation.
+
+	|e sarai... romano~: I.e., "then you shall dwell forever
+in Heaven."  Cf. Eph. 2:19: "Ergo iam non estis hospites et
+advenae, sed estis cives sanctorum et domestici Dei." 
+("Therefore, you are now no longer strangers and foreigners, but
+you are citizens with the saints and members of God's
+household.")
+
+	|103.  Per@o~ = ^perci@o.~ 	|in pro~: "For the
+benefit."  	|del mondo che mal vive~: For the ambiguity of
+earthly and heavenly cities, and their subtle location as
+symbolically conveyed, see n. to vss. 100-102.  Some additional
+texts seem worthy of note in this regard; see, for example, Ioan.
+17:11, "et iam non sum in mundo, et hi in mundo sunt, et ego ad
+te venio" ("and I am no longer in the world, but these are in the
+world, and I am coming to thee") and Ioan. 17:14-16: "Ego dedi
+eis sermonem tuum, et mundus eos odio habuit, quia non sunt de
+mundo, sicut et ego non sum de mundo.  Non rogo ut tollas eos de
+mundo, sed ut serves eos a malo.  De mundo non sunt, sicut et ego
+non sum de mundo."  ("I have given them thy word; and the world
+has hated them, because they are not of the world, even as I am
+not of the world.  I do not pray that thou take them out of the
+world, but that thou keep them from evil.  They are not of the
+world, even as I am not of the world.")  It is this very
+ambiguity around which Augustine conceived his earthly city.  As
+to literal location here, Beatrice and Dante are in the earthly
+Paradise, and Dante is to return to the evil world and report,
+for its benefit, that which he is now to witness.
+
+	|105.  fa che tu scrive~: This is an imperative
+construction, corresponding to the Latin ^fac ut scribas.~ 
+	|scrive~ = ^scriva.~  Cf. Apoc. 1:11: "Quod vides, scribe
+in libro."  ("What thou seest write in a book.")
+
+	|109.  Non scese mai con s@i veloce moto~: Here begins the
+dumb show or series of tableaux enacted around the tree of
+justice (see n. to vss. 37-39) which prove to represent seven
+principal calamities that have successively befallen the Church
+and are an offense to God's justice as represented by the tree. 
+Such calamities, affecting the tree and the Church which is
+reunited to it, are termed "blasphemies of act" in ^Purg.~ XXIII,
+58-59.  Of these calamities and the fact that they are precisely
+seven, E. Moore (1903, p. 201) observes:
+
+     I have never seen it noticed how Dante, with his usual love
+     of symmetry, has distinguished the seven incidents by
+     devoting precisely two ^terzine~ to each of them, excepting
+     that the last, the concluding and contemporary catastrophe,
+     has a few more lines than the others at the end of the
+     Canto.  Here is the list: --(1) ll. 112-117; (2) ll. 118-
+     123; (3) ll. 124-129; (4) ll. 130-135; (5) ll. 136-141; (6)
+     ll. 142-147; (7) ll. 148 to end.
+
+Moore's interpretation of these tableaux can hardly be improved
+upon, and I venture to quote extensively from him.
+
+	The reader is not to forget that the ascension of the
+griffin and the rest of the procession (see vss. 88-90) has
+established a chronological frame for the events now symbolized
+around the tree and the chariot, making them all events occurring
+after Christ's Ascension and affecting His Church as established
+by Peter in Rome.
+
+	|109-117.  Non scese mai... orza~: Some commentators
+suggest that ten persecutions of the Christian Church, instigated
+by the emperors from Nero (emperor, A.D. 54-68) to Diocletian
+(emperor, A.D. 284-305), are here signified.  See, for instance,
+E. Moore (1903), p. 201:
+
+     The first of these calamities is the series of persecutions
+     under the early Emperors, such as Nero, Domitian, &c.  It is
+     thus indicated.  An eagle, the Imperial Eagle, swoops down
+     through the branches of the tree, rending its trunk and
+     scattering its leaves and new-grown flowers.  It then smites
+     the Chariot with all its force, so that it reels like a
+     storm-tossed ship.
+
+For the eagle, cf. Virgil, ^Aen.~ I, 394; Ezech. 17:3; ^Purg.~
+IX, 20; and ^Par.~ XVIII-XX, especially for the bird as the
+emblem of the Roman Empire.  These emperors offend God's tree
+(blasphemy of act -- see n. to vs. 109) by way of doing violence
+to the Church.  It should not be forgotten that ^now~ this tree
+has purple flowers in its restored state, through Christ's
+atonement, and therefore the offense is even more blasphemous.
+
+	|110.  piove~: "It falls."  Cf. Ovid, ^Metam.~ VIII, 339:
+"ut excussis elisi nubibus ignes" (like lightning struck out from
+the clashing clouds").
+
+	|111.  quel confine che pi@u va remoto~: From the highest
+regions of the air which have for confine the sphere of fire (see
+C. S. Singleton, ^Inferno Commentary~, Fig. 2, p. 35).
+
+	|113-114.  rompendo de la scorza... nove~: "De la" and
+"de le" are clearly partitive in meaning, but so also is "d'i"
+(^dei~), i.e., "some of."
+
+	|non che~: "As well as."
+
+	|116.  come nave~: The simile is prompted by the ship as
+the traditional symbol of the Church.  See the reference to
+Peter's ship in ^Par.~ XI, 119-120.      |fortuna~: "Storm."
+
+	|117.  or da poggia, or da orza~: |Poggia~ is the rope
+that attaches to the mast on the right, or starboard, side of a
+ship, just as |orza~ is the corresponding rope on the left, or
+larboard, side. 
+
+	|118-123.  Poscia vidi... polpe~: On this second episode,
+E. Moore (1903, p. 202) observes:
+
+     Next, the Car is invaded by a lean and hungry fox.  But
+     Beatrice herself speedily drives it away.  This clearly
+     refers to the early heresies, which were overcome and
+     suppressed by the authority of the Church herself, and so
+     she purged herself of them.
+
+     In contrast with the assaults of persecution by open enemies
+     from without, the mischief of heresy is aptly represented by
+     the fox, for the operations of heretics "non furon leonine,
+     ma di volpe" [^Inf.~ XXVII, 75].  They claimed not only to
+     be within the Church, but to represent the truest aspect of
+     her teaching.  "Of your own selves shall men arise, speaking
+     perverse things."  Note that it is precisely in reference to
+     such false teachers that Ezekiel says, "Thy prophets are
+     like the foxes in the desert" (xiii. 4).  Also, to judge
+     from chronological order, coming, as this does, ^after~ the
+     early persecutions and ^before~ the Donation of Constantine
+     (which will be found denoted as the third calamity), the
+     heresy principally indicated is probably Gnosticism, as
+     Scartazzini suggests.  He further points out that as the fox
+     dashed into the very body of the Car from outside, so
+     Gnosticism had its origin in the heathen philosophy, which
+     claimed to expound by its own principles Christian
+     revelation, and to possess the key of knowledge for the lack
+     of which both the Old and New Testaments had been so far
+     entirely misunderstood.
+
+Moore also cites Augustine (^Enar. in Ps.~ LXXX, 14), who says:
+"Vulpes insidiosos, maximeque haereticos significant; dolosos,
+fraudulentos."  ("Insidious foxes, more than anything else,
+signify heretics; treacherous, fraudulent.")
+
+	|118.  cuna~: "Cradle," i.e., the body of the chariot. 
+Chimenz observes that the term is appropriate in suggesting that
+the fox seeks to make its den there, in the body of the chariot.
+
+	|120.  d'ogne pasto buon parea digiuna~: Metaphorically
+the meaning is that the heretics were without sound doctrines.
+
+	|122.  la donna mia~: Beatrice enters into the action (as
+Dante himself will at a later point), perhaps signifying that
+heresy is refuted by knowledge of divine things, as held by the
+Church, of which Beatrice is the type, in one of her meanings.     
+|futa~ = ^fuga.~  |Futa~ is an archaic form which survives in
+popular speech.  See E. G. Parodi (1957), p. 281.
+
+	|124-129.  Poscia per indi... carca~: E. Moore (1903, p.
+203) comments:
+
+     The third great calamity is the acquisition of temporal
+     possessions through the "Donation of Constantine."  The eagle
+     descends once more, and leaves the Car covered with ^its~
+     ^own feathers.~  Note the expression, "di s@e pennuta."  This
+     exactly describes the position maintained by Dante in the
+     ^De Mon.~  It is of the very "form" or essence of the Church
+     that she should have no such possessions.  They are of the
+     plumage of the eagle.  They belong of right to the Emperor
+     alone; he had no power or right to alienate them; nor had
+     the Church any power or right to receive them.  They were as
+     wholly out of place as the feathers and plumage upon the
+     triumphal Car.  A bitter cry was heard from heaven upon the
+     consummation of this disastrous event (ll. 127-129).
+
+Moore and others note that possibly Dante had in mind a legend,
+mentioned by Pietro di Dante and others, that at the time when
+the Donation of Constantine was made a voice was heard from
+Heaven, which said (Moore, 1903, p. 203): "Hodie diffusum est
+venenum in Ecclesia Dei."  ("Today poison is poured into the
+Church of God.")  On the Donation and its disastrous effects, see
+^Inf.~ XIX, 115-117; ^Par.~ X, 55-60; ^De mon.~ III, x, 4-6.
+
+	|124.  per indi ond'era pria venuta~: That is, down along
+the trunk (cf. vs. 113).
+
+	|125.  l'arca~: The "ark," like the "cradle" above (vs.
+118), means the body of the chariot, but perhaps, as Chimenz
+observes, the poet has used the word to suggest a chest or coffer
+that would contain money, riches, a meaning which would be most
+appropriate here.
+
+	|127.  rammarca~ = ^rammarica.~
+
+	|128-129.  tal voce... carca~: Perhaps the voice from
+Heaven is St. Peter's, in which case he uses (with a modification
+of sentiment) the accepted metaphor of a ship for the Church
+which he founded in Rome.  Cf. vs. 116.
+
+	|130-135.  Poi parve a me... vago~: Again E. Moore's
+interpretation seems correct.  He observes (1903, pp. 204-205):
+
+     This fourth calamity or tribulation is more difficult to
+     identify.
+
+     From the earth between the wheels of the Car issues a
+     dragon.  He fixes his envenomed tail through its floor, and
+     drags away a part of it, and so goes his way.
+
+     The imagery is clearly derived from the Apocalypse, ch. xii. 
+     The dragon that comes from beneath is probably the devil,
+     "the old serpent" (^Rev.~ xii. 9), who inflicts this injury
+     upon the Church (observe that the word "Serpent" is the word
+     used for the "dragon" of this passage when this disaster is
+     again referred to in xxxiii. 34).  The carrying away of a
+     part of the floor of the Car (an incident imitated from
+     ^Rev.~ xii. 4, where the dragon's "tail drew the third part
+     of the stars of heaven, and did cast them to the earth")
+     seems beyond doubt to represent some great schism by which
+     the Church was rent.  Several of the early commentators
+     think the reference is to Mohammedanism at the beginning of
+     the seventh century.  This is the view, I believe, most
+     commonly held, and is, in my opinion, almost certainly the
+     true one.  It may perhaps be objected that this
+     interpretation treats Mohammedanism as a kind of heresy, and
+     one effecting a schism in the Church itself, rather than as
+     an erroneous and rival system external to it.  To this I
+     would reply that, however we may now regard it, such a view
+     would be quite in accordance with the position assigned to
+     Mohammed in the ^Inferno~, where he figures as the most
+     conspicuous and typical example of the ^Schismatics~ in the
+     ninth Bolgia of the eighth Circle in the ^Inferno~ (see
+     Canto xxviii).  It should also be remembered that Mohammed
+     professed a deep reverence for Christ; he held Him to be the
+     greatest of the prophets; he believed in His birth being
+     miraculous; and also in His return to earth hereafter to
+     establish peace and to reconcile Islam and Christianity, by
+     restoring the latter from its corruptions (which were
+     already gross enough even in Mohanamed's day) to the ideal
+     originally intended by Christ.
+
+     Thus then I would certainly explain the fourth great
+     calamity of the Church.
+
+	|fisse~ = ^confisse~, ^conficc@o.~  Cf. the Latin ^fixit.~
+
+	|trasse del fondo~: "Pulled out some of the bottom." 
+"Del" is partitive.  Cf. vss. 113-114.      |gissen~ = ^se ne
+g@i.~
+
+	|vago vago~: The meaning of the adjective repeated is
+uncertain.  "All satisfied" seems the most probable of the
+several proposed by the commentators.  However, the meaning might
+be "gloatingly," i.e., intent on doing more damage in the future.
+
+	|136-141.  Quel che rimase... aperta~: E. Moore (1903,
+pp. 205-206) observes:
+
+     The fifth vicissitude is a further accession of temporal
+     possessions represented in the additional plumage (^v.~
+     ^supra~, l. 126) by which the whole Car is now entirely
+     smothered and overgrown, wheels and pole and all.  This no
+     doubt refers to the Donations of Pepin (A.D. 755), and
+     Charles the Great (A.D. 775), and other similar and rapidly
+     growing accessions of wealth and endowments to the Church. 
+     Dante graphically says the change was effected before his
+     eyes in less time than the mouth remains open in uttering a
+     sigh (l. 141).  These possessions had now become so vast as
+     to alter the whole aspect of the Church, and to bring about
+     a complete transformation of its original character (l.
+     142).  Certainly nothing strikes us more in the whole of
+     mediaeval history in every country of Europe than the keen
+     and perpetual struggle in every grade of the Church to
+     acquire more and more wealth.  The constant quarrels of the
+     Popes with the Emperors, and with our own English Kings,
+     were almost invariably due to the exorbitant rapacity of
+     Papal claims for money.
+
+	|gramigna~: A grass which grows very thick on the soil
+where it sprouts, especially if that soil is fertile ("vivace,"
+vs. 137).
+
+	|da la piuma~: Goes with "si ricoperse" in vs. 139.
+
+	|forse con intenzion sana e benigna~: Cf. ^Par.~ XX,
+55-57, where it is more clearly granted that Constantine made his
+Donation with "good intention."
+
+	|142-147.  Trasformato cos@i... fue~: E. Moore (1903, pp.
+206-207) continues:
+
+     Next follow still further and more hideous distortions of
+     the outward form of the Church.  It put forth seven heads
+     three on its pole and one at each of its corners.  The three
+     first had two horns, and each of the others one.  Again we
+     recognize the source of this imagery in the Apocalypse, and
+     we remember how Dante has employed it before, though
+     differently, in ^Inf.~ xix. 109, 110.  The interpretation
+     of Dante's meaning here is extremely difficult.  The number
+     of heads and horns is no doubt dictated to him by the
+     passage in the Apocalypse.  Further, if with his habit of
+     exact description he went on to specify how the ten horns
+     were placed on the seven heads, they could hardly be
+     otherwise distributed, i.e. three of the heads must have two
+     horns apiece.  But I can scarcely doubt that Dante intended
+     some definite mystical meaning besides.  The earliest, and
+     still most common, explanation is that he refers to the
+     seven capital or deadly sins, all of which now disfigured
+     the hopelessly corrupted Church.  The various attempts to
+     explain why some of these have one horn and some two are not
+     very convincing.  If we are to take the reference to the
+     seven deadly sins at all (which, however, I do not accept),
+     it seems to me most natural to suggest that Pride, Envy, and
+     Anger (the three worst sins) have two horns, because they
+     involve sin against one's neighbour as well as against God;
+     whereas the other four do not necessarily do so.  This idea
+     would accord well with Dante's well-known analysis and
+     classification of the seven sins in ^Purg.~ xvii,
+     especially ll. 112-114, and indeed as far as l. 126, in
+     which these first three sins have special guilt in that they
+     imply positive love of evil, and that evil must be not for
+     oneself but for one's neighbour.  But I cannot think this
+     common explanation at all satisfactory.
+
+Here I would venture to disagree with Moore and find the meaning
+represented by him as the most common explanation to be still the
+most satisfactory.  For his own differing opinion, see E. Moore
+(1903), pp. 207-208.
+
+	|dificio~: The chariot.  Cf. ^Inf.~ XXXIV, 7.
+
+	|teste per le parti sue~: Cf. Dante, ^De mon.~ I, xvi, 4:
+"genus humanum... bellua multorum capitum factum" ("race of
+men... transformed into a beast of many heads").
+
+	|tre sovra 'l temo e una in ciascun canto~: See Apoc.
+12:3: "Et ecce draco magnus rufus, habens capita septem et cornua
+decem."  ("And behold, a great red dragon having seven heads and
+ten horns.") 	   |temo~: Cf. vs. 49.
+
+	|148-160.  Sicura, quasi rocca... belva~: On this seventh
+vicissitude E. Moore (1903, p. 208) observes: "This brings the
+panorama of the Church's history comparatively near to Dante's
+own time.  Henceforth we have depicted contemporary troubles, and
+notably the Avignon captivity from 1305 onwards.  These form the
+seventh and last of the tribulations here figured."  Moore,
+referring to vs. 147, notes that "the Church has now become
+utterly corrupted and distorted beyond all recognition."  He
+continues (1903, pp. 208-209):
+
+     The seat in the Car itself is occupied no longer by
+     Beatrice, or the ideal Papacy, but by a wanton and shameless
+     harlot.  Dante applies the same metaphor elsewhere to the
+     corruption of the Roman Court, e.g. ^Inf.~ xix. 4 and
+     ^Par.~ ix. 142.  This imagery once more is borrowed
+     obviously from the Apocalypse.  The giant in this passage
+     (xxxii. 152) carries on the metaphor of the kings of the
+     earth who committed fornication with the great whore of the
+     Book of Revelation.  This giant figures no doubt chiefly
+     Philip the Fair, but also other earlier representatives of
+     the detested royal house of France.  (For this see further
+     ^Purg.~ xx.)  Their friendly intrigues from time to time
+     with different occupants of the Papal throne (e.g. Urban
+     IV, Clement IV, Martin IV, Nicholas IV), which are here
+     described as mutual caresses of the giant and the harlot
+     ("baciavansi insieme," l. 153), were now replaced by the
+     violent hostility between Philip and Boniface VIII.  The
+     gross outrage upon Boniface perpetrated by the myrmidons of
+     Philip, Nogaret and Sciarra, at Anagni (for which see
+     ^Purg.~ xx. 85 ^seqq.~), may well be pointed at in the
+     scourging of the harlot by the giant, her former paramour,
+     in ll. 155, 6.  Then, full of jealousy and fury, the giant
+     unbinds the chariot from the tree, and carries it away with
+     the harlot out of sight.  This quite evidently represents
+     the removal of the Papal Seat from Rome to Avignon under
+     Clement V in 1305.
+
+Thus, chronologically, the show has passed into prophecy, with
+respect to the fictional date of the journey, which is 1300.
+
+	|148-150.  Sicura, quasi rocca... m'apparve~: Cf. Apoc.
+18:7, where the woman on the scarlet beast says in her heart:
+"Sedeo regina."  ("I sit a queen.")  This is the Roman curia in
+the time of Boniface VIII and Clement V, feeling very strong in
+temporal possessions.
+
+	|sciolta~: Probably with reference to her robe, which is
+"loose," suggesting profligacy, shamelessness.
+
+	|con le ciglia intorno pronte~: See Ecclus. 26:12:
+"Fornicatio mulieris in extollentia oculorum et in palpebris
+illius agnoscetur."  ("By her eyelids and her haughty stare an
+unchaste wife can be recognized.")  She is thus acting the part
+of the whore.
+
+	|151.  li~ = ^gli.~
+
+	|152.  di costa a lei dritto~: "Standing beside her." 	
+|un gigante~: See the quotation from E. Moore in n. to vss.
+148-160.  The house of France may be intended by the figure, not
+merely Philip the Fair.  It should be noted that Dante refers to
+Philip as Goliath in his ^Epist.~ VII, 29. 
+
+	|153.  e basciavansi insieme~: The figure is truly that
+of a giant, since he must be standing on the ground and yet his
+head is level with that of the whore seated on the chariot.  Cf.
+Apoc. 18:2-3: "Cecidit, cecidit Babylon magna... et reges terrae
+cum illa fornicati sunt."  ("She has fallen, she has fallen,
+Babylon the great... and the kings of the earth have committed
+fornication with her.")
+
+	|155.  a me rivolse~: That Dante should be made part of
+the scene, with this glance from the whore, makes for
+considerable difficulty in interpretation, but may be compared,
+in its way, to the intervention of Beatrice herself in the show
+(vs. 122).  With these two exceptions the whole enactment is, as
+it were, self-contained.  Yet Dante the poet has not hesitated to
+allow Dante the character to become, for a moment, part of the
+action.  Is he then simply the typical Christian, and by
+extension, the Christian people?  Or is he more specifically the
+^Italian~ Christian people?  Interpretations vary, nor is a
+precise determination of meaning possible, in this most curious
+involvement of Dante the character, who is supposed to be purely
+a spectator of the whole show (vss. 104-105).
+
+	|158.  disciolse il mostro~: Since it was the griffin who
+bound the pole of the chariot to the tree (and the griffin
+represents Christ), the act of disjoining that which He united is
+awesome and fraught with evil meaning.      |trasse~ = ^lo trasse.~ 
+	|per la selva~: As suggested by E. Moore (see quotation
+in n. to vss. 148-160) and by most commentators, the dragging of
+the chariot, transformed into a monster, through the wood, so far
+as to hide it from Dante (presumably located in Italy) may be
+taken to signify the certain removal of the seat of the papacy to
+Avignon in 1309.
+
+	|160.  a la puttana e a la nova belva~: This canto,
+having this many verses, is the longest canto in the poem.  The
+shortest cantos have 115 verses (^Inf.~ VI and XI).
+
+

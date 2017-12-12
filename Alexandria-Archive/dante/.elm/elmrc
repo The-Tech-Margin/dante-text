@@ -1,0 +1,155 @@
+#
+# .elm/elmrc - options file for the ELM mail system
+#
+# Saved automatically by ELM 2.3 PL0 
+#
+
+# For yes/no settings with ?, ON means yes, OFF means no
+
+# where to save calendar entries
+calendar = ~/calendar
+
+# what editor to use ("none" means simulate Berkeley Mail)
+editor = none
+
+# the character to use in the builtin editor for entering commands
+escape = ~
+
+# The full user name for outbound mail
+fullname = Dartmouth Dante Project
+
+# where to save received messages to, default file is "=received"
+receivedmail = =received
+
+# where to save my mail to, default directory is "Mail"
+maildir = ~/Mail
+
+# where to place temporary files, default directory is "/tmp"
+tmpdir = /tmp/
+
+# program to use for displaying messages ('builtin' is recommended)
+pager = builtin
+
+# prefix sequence for indenting included message text in outgoing messages...
+prefix = >_
+
+# how to print a message ('%s' is the filename)
+print = lpr -p %s
+
+# where to save copies of outgoing mail to, default file is "=sent"
+sentmail = =sent
+
+# The shell to use for shell escapes
+shell = /bin/csh
+
+# local ".signature" file to append to appropriate messages...
+localsignature = 
+
+# remote ".signature" file to append to appropriate messages...
+remotesignature = 
+
+# do we want dashes above signatures? (News 2.11 compatibility and convention)
+sigdashes = ON
+
+# how to sort folders, "Mailbox" by default
+sortby = Mailbox
+
+# should the default be to delete messages we've marked for deletion?
+alwaysdelete = ON
+
+# should the default be to store read messages to the "received" folder?
+alwaysstore = OFF
+
+# should the default be to keep unread messages in the incoming mailbox?
+alwayskeep = ON
+
+# should we use the "->" rather than the inverse video bar?
+arrow = OFF
+
+# should the message disposition questions be displayed(ON) or
+# auto-answered(OFF) with the default answers when we resync or change folders?
+ask = OFF
+
+# would you like to be asked for Carbon-Copies information each msg?
+askcc = OFF
+
+# attribution string for replies ('%s' is the author of original message)
+attribution = 
+
+# automatically copy message being replied to into buffer? 
+autocopy = OFF
+
+# threshold for bouncing copies of remote uucp messages...
+# zero = disable function.
+bounceback = 0
+
+# save a copy of all outbound messages?
+copy = OFF
+
+# save outbound messages by login name of sender/recipient even if the
+# associated folder doesn't already exist?
+forcename = OFF
+
+# do we want to be able to mail out AT&T Mail Forms?
+forms = OFF
+
+# should we keep folders from which all messages are deleted?
+keepempty = OFF
+
+# are we running on an HP terminal and want HOME, PREV, NEXT, etc...?
+keypad = OFF
+
+# should we display the three-line 'mini' menu?
+menu = OFF
+
+# when using the page commands (+ - <NEXT> <PREV>) change the current
+# message pointer...?
+movepage = OFF
+
+# just show the names when expanding aliases?
+names = OFF
+
+# when messages are copied into the outbound buffer, don't include headers?
+noheader = OFF
+
+# start up by pointing to the first new message received, if possible?
+pointnew = ON
+
+# prompt for a command after the external pager exits?
+promptafter = ON
+
+# emulate the mailx message increment mode (only increment after something
+# has been 'done' to a message, either saved or deleted, as opposed to 
+# simply each time something is touched)?
+resolve = ON
+
+# save messages, incoming and outbound, by login name of sender/recipient?
+savename = OFF
+
+# are we running on an HP terminal and want softkeys available too?
+# (this implies "keypad=ON" too)
+softkeys = OFF
+
+# Set the main prompt timeout for resynching...
+timeout = 60
+
+# display message title when displaying pages of message?
+titles = OFF
+
+# are we good at it?  0=beginner, 1=intermediate, 2+ = expert!
+userlevel = 5
+
+# tell us about addresses to machines we can't directly get to?
+warnings = ON
+
+# enable the weedout list to be read?
+weed = ON
+
+# what headers I DON'T want to see, ever.
+weedout = "From_" "Received:" "Message-Id:" "Organization:" "Precedence"
+	"Errors-To:" "Resent" "Sender" "Status" "X" "*end-of-user-headers*"
+	"Content-Type:" "Content-Length:"
+
+# alternative addresses that I could receive mail from (usually a
+# forwarding mailbox) and don't want to have listed...
+alternatives = 

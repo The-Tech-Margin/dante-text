@@ -1,0 +1,4 @@
+This directory contains small files that were in the ~dante directory
+on webapp. They are files beginning with dot, so they are not visible
+unless you do an 'ls -a'.  They are unneeded here but we save them
+just in case.                  -stc, Dec 2017

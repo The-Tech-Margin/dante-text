@@ -1,0 +1,73 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id NAA28477
+	for <steve@avalon.dartmouth.edu>; Sat, 9 Jan 1999 13:08:53 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id NAA01137
+	for <Stephen.Campbell@Dartmouth.edu>; Sat, 9 Jan 1999 13:08:53 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 60288 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68074-1457>; Sat, 9 Jan 1999 13:08:15 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA22496
+	for <Stephen.Campbell@Dartmouth.EDU>; Sat, 9 Jan 1999 13:08:11 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup62.Princeton.EDU [128.112.71.62])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id NAA22447;
+	Sat, 9 Jan 1999 13:08:09 -0500 (EST)
+Message-ID: <36979B1C.8766E1C8@princeton.edu>
+Date: 	Sat, 09 Jan 1999 13:08:28 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+CC: "Robert B. Hollander" <bobh@phoenix.Princeton.EDU>
+Subject: Re: Graziolo
+X-Priority: 3 (Normal)
+References: <199901052143.QAA02621@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> > I've always said that the brighter one is, the worse
+> > one proofreads.  I must be an effin genius.  I have
+> > just revisited all of Graziolo, with some considerable
+> > embarrassment.  I tried to edit some in the files, but
+> > found it didn;t like my editing, and so I quit w/o
+> > saving.  They should be (proem and 01) just as they
+> > were.  So here comes a list of wonkers.  I can redo the
+> > files here and send them again.  Or you can teach me
+> > how to edit up there.  I feel particularly guilty about
+> > this.
+> 
+> Well, part of the problem is that some non-printing binary characters
+> crept through in 01, 05, and 07. That's why your editor seemed broken.
+> I think I have fixed them, but please check the following:
+> 
+> 1: 44-47 where there is a "??". What should it be?
+
+e` (= @e)
+
+> 1: 105 ditto where the ?? are.
+
+a` (= @e)
+
+> 5: 67-96
+
+That one is OK
+> 
+> I have fixed the other things like too much bold or letters spaced
+> out.
+
+Thanks -- a lot.  I screwed up a bunch of things.
+> 
+> I also fixed all the dates and load order changes. I have started a
+> reload at 4:25. Yesterday it took 20 minutes. If you're on tonight,
+> you can check things out.
+> 
+> Remember one thing, the dates and order that you see in the front
+> matter are irrelevant now. That's just boilerplate. What matter is the
+> dates that appear on each page of text and the order in which comms
+> appear.
+> 
+>                                                                 Steve

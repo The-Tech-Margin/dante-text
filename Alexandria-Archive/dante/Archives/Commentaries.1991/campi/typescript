@@ -1,0 +1,413 @@
+Script started on Wed Mar 28 15:45:05 1990
+% mt status
+tu78 tape drive, residual=1
+ds=166600<RDY,PRES,ONL,PE,BOT,FPT,AVAIL>
+er=1<>
+% CICtape `cat filelist`
+filelist: No such file or directory
+Checking for old files...
+Mount tape and hit RETURN...^C
+% ls
+inf		para		purg		tapefiles	typescript
+% CICtape `cat tapefiles`
+Checking for old files...
+Mount tape and hit RETURN...
+Tape file 1 -> para/01.s...
+38+1 records in
+304+1 records out
+
+Tape file 2 -> para/02.s...
+29+1 records in
+234+1 records out
+
+Tape file 3 -> para/03.s...
+23+1 records in
+181+1 records out
+
+Tape file 4 -> para/04.s...
+30+1 records in
+238+1 records out
+
+Tape file 5 -> para/05.s...
+22+1 records in
+172+1 records out
+
+Tape file 6 -> para/06.s...
+17+1 records in
+136+1 records out
+
+Tape file 7 -> para/07.s...
+21+1 records in
+171+1 records out
+
+Tape file 8 -> para/08.s...
+17+1 records in
+136+1 records out
+
+Tape file 9 -> para/09.s...
+20+1 records in
+158+1 records out
+
+Tape file 10 -> para/10.s...
+20+1 records in
+160+1 records out
+
+Tape file 11 -> para/11.s...
+15+1 records in
+122+1 records out
+
+Tape file 12 -> para/12.s...
+19+1 records in
+153+1 records out
+
+Tape file 13 -> para/13.s...
+19+1 records in
+152+1 records out
+
+Tape file 14 -> para/14.s...
+18+1 records in
+144+1 records out
+
+Tape file 15 -> para/15.s...
+18+1 records in
+142+1 records out
+
+Tape file 16 -> para/16.s...
+18+1 records in
+146+1 records out
+
+Tape file 17 -> para/17.s...
+17+1 records in
+135+1 records out
+
+Tape file 18 -> para/18.s...
+17+1 records in
+135+1 records out
+
+Tape file 19 -> para/19.s...
+16+1 records in
+125+1 records out
+
+Tape file 20 -> para/20.s...
+17+1 records in
+135+1 records out
+
+Tape file 21 -> para/21.s...
+19+1 records in
+153+1 records out
+
+Tape file 22 -> para/22.s...
+18+1 records in
+146+1 records out
+
+Tape file 23 -> para/23.s...
+20+1 records in
+162+1 records out
+
+Tape file 24 -> para/24.s...
+19+1 records in
+152+1 records out
+
+Tape file 25 -> para/25.s...
+19+1 records in
+153+1 records out
+
+Tape file 26 -> para/26.s...
+20+1 records in
+159+1 records out
+
+Tape file 27 -> para/27.s...
+20+1 records in
+158+1 records out
+
+Tape file 28 -> para/28.s...
+19+1 records in
+154+1 records out
+
+Tape file 29 -> para/29.s...
+16+1 records in
+131+1 records out
+
+Tape file 30 -> para/30.s...
+17+1 records in
+139+1 records out
+
+Tape file 31 -> para/31.s...
+19+1 records in
+149+1 records out
+
+Tape file 32 -> para/32.s...
+24+1 records in
+194+1 records out
+
+Tape file 33 -> para/33.s...
+17+1 records in
+134+1 records out
+
+Tape file 34 -> purg/01.s...
+20+1 records in
+162+1 records out
+
+Tape file 35 -> purg/02.s...
+16+1 records in
+125+1 records out
+
+Tape file 36 -> purg/03.s...
+18+1 records in
+143+1 records out
+
+Tape file 37 -> purg/04.s...
+16+1 records in
+128+1 records out
+
+Tape file 38 -> purg/05.s...
+15+1 records in
+118+1 records out
+
+Tape file 39 -> purg/06.s...
+21+1 records in
+164+1 records out
+
+Tape file 40 -> purg/07.s...
+18+1 records in
+141+1 records out
+
+Tape file 41 -> purg/08.s...
+16+1 records in
+131+1 records out
+
+Tape file 42 -> purg/09.s...
+17+1 records in
+134+1 records out
+
+Tape file 43 -> purg/10.s...
+16+1 records in
+130+1 records out
+
+Tape file 44 -> purg/11.s...
+14+1 records in
+115+1 records out
+
+Tape file 45 -> purg/12.s...
+13+1 records in
+102+1 records out
+
+Tape file 46 -> purg/13.s...
+14+1 records in
+117+1 records out
+
+Tape file 47 -> purg/14.s...
+18+1 records in
+148+1 records out
+
+Tape file 48 -> purg/15.s...
+16+1 records in
+126+1 records out
+
+Tape file 49 -> purg/16.s...
+19+1 records in
+149+1 records out
+
+Tape file 50 -> purg/17.s...
+15+1 records in
+121+1 records out
+
+Tape file 51 -> purg/18.s...
+16+1 records in
+129+1 records out
+
+Tape file 52 -> purg/19.s...
+14+1 records in
+109+1 records out
+
+Tape file 53 -> purg/20.s...
+20+1 records in
+157+1 records out
+
+Tape file 54 -> purg/21.s...
+17+1 records in
+139+1 records out
+
+Tape file 55 -> purg/22.s...
+14+1 records in
+114+1 records out
+
+Tape file 56 -> purg/23.s...
+13+1 records in
+107+1 records out
+
+Tape file 57 -> purg/24.s...
+15+1 records in
+122+1 records out
+
+Tape file 58 -> purg/25.s...
+19+1 records in
+150+1 records out
+
+Tape file 59 -> purg/26.s...
+18+1 records in
+145+1 records out
+
+Tape file 60 -> purg/27.s...
+17+1 records in
+134+1 records out
+
+Tape file 61 -> purg/28.s...
+15+1 records in
+123+1 records out
+
+Tape file 62 -> purg/29.s...
+19+1 records in
+153+1 records out
+
+Tape file 63 -> purg/30.s...
+16+1 records in
+130+1 records out
+
+Tape file 64 -> purg/31.s...
+17+1 records in
+137+1 records out
+
+Tape file 65 -> purg/32.s...
+20+1 records in
+156+1 records out
+
+Tape file 66 -> purg/33.s...
+18+1 records in
+141+1 records out
+
+Tape file 67 -> inf/01.s...
+20+1 records in
+161+1 records out
+
+Tape file 68 -> inf/02.s...
+16+1 records in
+132+1 records out
+
+Tape file 69 -> inf/03.s...
+14+1 records in
+113+1 records out
+
+Tape file 70 -> inf/04.s...
+16+1 records in
+127+1 records out
+
+Tape file 71 -> inf/05.s...
+16+1 records in
+126+1 records out
+
+Tape file 72 -> inf/06.s...
+18+1 records in
+148+1 records out
+
+Tape file 73 -> inf/07.s...
+15+1 records in
+122+1 records out
+
+Tape file 74 -> inf/08.s...
+17+1 records in
+139+1 records out
+
+Tape file 75 -> inf/09.s...
+18+1 records in
+141+1 records out
+
+Tape file 76 -> inf/10.s...
+17+1 records in
+133+1 records out
+
+Tape file 77 -> inf/11.s...
+14+1 records in
+115+1 records out
+
+Tape file 78 -> inf/12.s...
+18+1 records in
+146+1 records out
+
+Tape file 79 -> inf/13.s...
+16+1 records in
+129+1 records out
+
+Tape file 80 -> inf/14.s...
+17+1 records in
+136+1 records out
+
+Tape file 81 -> inf/15.s...
+19+1 records in
+151+1 records out
+
+Tape file 82 -> inf/16.s...
+19+1 records in
+151+1 records out
+
+Tape file 83 -> inf/17.s...
+16+1 records in
+129+1 records out
+
+Tape file 84 -> inf/18.s...
+14+1 records in
+116+1 records out
+
+Tape file 85 -> inf/19.s...
+19+1 records in
+150+1 records out
+
+Tape file 86 -> inf/20.s...
+15+1 records in
+123+1 records out
+
+Tape file 87 -> inf/22.s...
+14+1 records in
+115+1 records out
+
+Tape file 88 -> inf/23.s...
+15+1 records in
+121+1 records out
+
+Tape file 89 -> inf/24.s...
+15+1 records in
+118+1 records out
+
+Tape file 90 -> inf/25.s...
+18+1 records in
+144+1 records out
+
+Tape file 91 -> inf/26.s...
+15+1 records in
+121+1 records out
+
+Tape file 92 -> inf/27.s...
+16+1 records in
+131+1 records out
+
+Tape file 93 -> inf/28.s...
+17+1 records in
+133+1 records out
+
+Tape file 94 -> inf/29.s...
+14+1 records in
+116+1 records out
+
+Tape file 95 -> inf/30.s...
+22+1 records in
+172+1 records out
+
+Tape file 96 -> inf/31.s...
+17+1 records in
+135+1 records out
+
+Tape file 97 -> inf/32.s...
+17+1 records in
+134+1 records out
+
+Tape file 98 -> inf/33.s...
+17+1 records in
+138+1 records out
+
+Tape file 99 -> inf/34.s...
+22+1 records in
+175+1 records out
+
+% mt off
+% 
+script done on Wed Mar 28 16:07:06 1990

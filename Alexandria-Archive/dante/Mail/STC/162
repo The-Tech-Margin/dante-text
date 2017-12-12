@@ -1,0 +1,47 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id PAA05998
+	for <steve@avalon.dartmouth.edu>; Tue, 29 Dec 1998 15:37:09 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id PAA02000
+	for <Steve.Campbell@DARTMOUTH.EDU>; Tue, 29 Dec 1998 15:37:09 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 42841 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67092-27898>; Tue, 29 Dec 1998 15:36:26 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id PAA26186;
+	Tue, 29 Dec 1998 15:36:19 -0500 (EST)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id PAA01481;
+	Tue, 29 Dec 1998 15:36:17 -0500 (EST)
+Message-ID: <36893A01.592C22B0@phoenix.princeton.edu>
+Date: 	Tue, 29 Dec 1998 15:22:25 -0500
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+CC: emme <emme@mail.dada.it>, Bob Hollander <bobh@phoenix.Princeton.EDU>
+Subject: superscripts
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve, I think Chiamenti and I have come
+pretty close to a working agreement about
+these for Pietro3.  He wonders if we cannot
+put in some warning to users about our
+practice.  What about in the desc file
+(Massimiliano, that is the place that your
+name is recorded as editor, along with other
+publication info., including eventually
+Salerno)?
+
+Here is a first draft of a text:
+
+Users are warned that, because of the
+conventions of the software governing data in
+the DDP, superscript characters other than
+"o" cannot be represented as superscripted. 
+The editors have taken whatever steps were
+most reasonable to represent these
+characters, which are a small minority of all
+superscripts in any case.

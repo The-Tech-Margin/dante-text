@@ -1,0 +1,724 @@
+	Testo e Commento.  -- Qualche commentatore trova che
+anche questo Canto @e pieno d'umorismo; qualche altro afferma che
+sin dal principio una solenne seriet@a si contrappone alla
+comicit@a e movimento del Canto precedente.  La verit@a ci sembra
+nel mezzo: la vena comica che corse libera nella rappresentazione
+dei Barattieri, si va ora assottigliando per mescolarsi con nuove
+fonti d'ispirazione.
+
+	La Bolgia dell'Ipocrisia, scrive il Pascoli, @e la
+precipua delle Bolge, e ci@o per tre indizi: perch@e
+nell'enumerazione dei peccati di Malebolge che fa Virgilio nel XI
+dell'Inferno, l'ipocrisia @e la prima; perch@e vi @e crocifisso
+Caifas, il giudice ipocrita di Cristo, e perch@e vi si fa
+esperimento della natura del diavolo.  Si potrebbero aggiungere
+altre ragioni: il ritrovarsi qui la maggior rovina che l'Inferno
+abbia sofferto alla morte del Giusto; il gran tratto di via che i
+Poeti devon percorrere attorno a questa Bolgia, il modo di
+penetrarvi, la difficolt@a dell'uscirne, e soprattutto il gran
+concorso che presta l'ipocrisia alla figurazione di Gerione
+(^faccia d'uom giusto, pelle di fuor benigna~, ecc.), come
+osservammo a proposito della tanto discussa ^corda~ del Canto
+XVI.
+
+	Quella corda, ricordiamolo, rassomigliava al cordone
+francescano, originariamente verace simbolo di virt@u; ma pi@u
+tardi divenuto vano segno esterno e pertanto testimonio
+d'ipocrisi religiosa, per la corruzione dei religiosi, tante
+volte deprecata nel Poema.  Ed @e appunto l'ipocrisia religiosa
+che Dante prende specialmente di mira in questo Canto. 
+L'osservazione @e antica: <aliqui volunt quod auctor respiciat
+quod hipocrysis maxime regnat in viris religiosis>, scriveva gi@a
+Benvenuto; ed ai tempi nostri gli faceva coro, leggendo questo
+Canto a Genova, Padre Semeria.  E non aveva lo stesso San
+Gerolamo ammonito i suoi confratelli che <quamvis et aliis vitiis
+carere possimus, hipocriseos maculam non habere posse, aut
+paucorum est aut nullorum?>.
+
+	Poich@e adunque il vizio dell'iporisia fu sempre
+specialmente frequente nei religiosi, ed anche nei laici tanto
+sovente si riconosce questo triste manto di simulazione
+religiosa, il nostro Canto acquista una special forma e sostanza. 
+Tutte le persone qui nominate e la descrizione stessa della
+Bolgia ricordano e riproducono fatti ed usi sacerdotali, non per
+irriverenza, ma per ammonimento.
+
+	Si potrebbe chiedere perch@e Dante, dedicando un solo
+Canto a un vizio tanto diffuso e dannoso, ne abbia riservato
+ancora una parte a compimento della descrizione dei diavoli e dei
+barattieri.
+
+	Alla brevit@a della descrizione per@o @e di compenso la
+solennit@a del contenuto storico; e l'intreccio delle due classi
+di frodolenti, Barattieri ed Ipocriti, @e determinato dal fatto
+che i due vizi van spesso s@i congiunti da formare un sol tutto:
+ogni Barattiere @e anche Ipocrita nei mezzi, e lo dicon gli esempi
+di Ciampolo e Frate Gomita, che prima di commettere le loro
+ribalderie dovettero insinuarsi con mille arti nelle grazie dei
+loro signori; ed ogni Ipocrita @e Barattiere nel fine che si
+propone, mirando sempre ad ottenere illeciti vantaggi.
+
+	Il colorito monastico del Canto appare fin dalla prima
+terzina.
+
+	|1-3.  Taciti~, come chi va sopra pensiero, |soli~, per
+luogo deserto, ch@e i dannati con il recente pandemonio non
+dovevan aver voglia di mettersi in vista, |senza compagnia~, 
+abbandonata quella dei diavoli, ^ahi fiera compagnia~!, vanno
+lungo l'argine divisorio tra la V e la VI Bolgia Dante e
+Virgilio: vanno l'un dietro l'altro, Dante dietro Virgilio, per
+la strettezza dell'argine, |come frati minor vanno per via~: una
+comparazione che pu@o riferirsi tanto al solo ultimo inciso, 
+quanto a tutto il periodo.  Il fondatore dell'ordine francescano
+aveva consigliato ai suoi seguaci di andare sempre in pi@u: <ite
+cautissimi, bini et bini, per diversas partes orbis>, ma nel 300
+l'uso era mutato; non andavano pi@u a due a due, per le vie; ma a
+uno a uno, per lunga che fosse la processione, <forse perch@e
+vanno contemplando con Dio>, aggiunge il Lana: un arguto ^forse~
+che serve di commento all'intonazione satirica di questo
+principio del Canto.
+
+	|4-9.~  La |favola~ non @e propriamente di Esopo, ma
+doveva correre per sua nelle raccolte di favole che si leggevano
+<a fanciulli che imparano grammatica> (Buti), e che si
+divulgavano sotto i nomi di ^Mythologia Aesopica~, o del ^Monaco
+di Costantinopoli~ di Massimo Planude, o dell'Anonimo del
+^Noveleto~ o di ^Romulus.~
+
+	La favola @e di Fedro, e narra d'una rana che s'era
+offerta di far passare il lago ad un topo, e se lo portava sul
+dosso, piede a piede legato da una cordicella; ma, a mezzo il
+tragitto, il perfido batracio s'attuff@o per far affogare il
+credulo miserello, quando, calato un nibbio, e ghermito il topo, 
+trasse su a cagion della corda anche la rana, e d'entrambi fece
+suo pro.
+
+	Qual @e la concordanza tra la favola e il racconto di
+Dante?  @E essa cos@i perfetta come quella che identifica i due
+vocaboli |mo'~ (troncamento di ^modo~ latino) e |issa~ (forma
+elittica di <hac ipsa hora>), sia che queste due voci vogliano
+significare ugualmente ^adesso~, ^ora~, in due diversi dialetti, 
+lombardo e romagnolo, sia, come attesta Pompeo Venturi, che
+entrambe fossero usate in varie parti d'Italia, <dai marinai e da
+altri faticanti attorno a un gran peso per animarsi l'un l'altro
+a far forza unitamente>?
+
+	O la concordanza tra la favola e il racconto dantesco @e
+invece difficile da trovarsi, come parve a Benvenuto, che
+chiamava questo passo <vere fortis>?
+
+	Risponda lo stesso Benvenuto, il quale, attento al monito
+di Dante che la concordanza va ricercata |con mente fissa~ al
+principio ed alla fine dei due racconti, spiegava correttamente
+cos@i: un lago @e qui e l@a il teatro del fatto; il topo e la rana
+sono Alichino e Calcabrina; la rana fingeva e cos@i Calcabrina
+finse di volare per aiutar Alichino e invece lo gherm@i; entrambi
+gli animali furon vittima del nibbio e i diavoli della pece; ed
+uguale la morale della favola e del Canto: <sic saepe intereunt
+aliis meditantes necem>, come dice Fedro.
+
+	|10-12.  La prima paura~, cio@e quella ch'ebbe Dante
+quando gli fu data la compagnia dei dieci diavoli.
+
+	|13-18.~  Logica concatenazione di pensieri.  Riflettendo
+sulla ^presente rissa~ {v.5}, Dante risale alla sua causa prima:
+perch@e avvenne essa? per l'inganno di Ciampolo; come fu possibile
+quest'inganno? |per noi~, per cagion nostra, che trattenendo il
+barattiere in parole, gli demmo agio di pensare al modo di
+sfuggire alle branche dei diavoli, con |beffa~ di tutti loro e
+con |danno~ dei due caduti nella pece.
+
+	Le rime aspre che seguono, |fa gueffa~, ^acceffa~, e
+l'immagine del cane che per la terza volta ricorre a proposito
+dei diavoli, del cane che |acceffa~, afferra col ^ceffo~ la lepre
+per sbranarsela, dipingono al vivo il sorgere del nuovo spavento
+nel cuore di Dante.  Ma la voce |gueffa~ diede molto filo da
+torcere ai commentatori, perch@e fu di effimera vita nell'uso, n@e
+ricorre in altro passo di autori, all'infuori di questo.
+Fortunatamente ce n'han conservato il proprio significato
+l'Anonimo Fiorentino ed il Buti: si chiam@o |gueffa~ una misura di
+fili di seta o d'oro filato, quanto va <dal gomito alla mano>
+(Buti), che si soprapponevano gli uni agli altri, con l'aspo o
+l'arcolaio per formar la matassa; sicch@e in senso figurato |far
+gueffa~ significa aggiungere.  Come conferma un altro passo del
+Poema (^Purg.~, V, 112-113), Dante che prima temeva soltanto il
+|mal voler~ che @e proprio della natura diabolica, ora teme che a
+questo si sia aggiunta l'|ira~, il loro spirito vendicativo.
+
+	|19-24.~  La paura di Dante riallaccia il nostro Canto, 
+per ci@o che riguarda i Barattieri, con la fine del XXI: il Poeta
+torna ad essere il protagonista dell'azione, il punto di mira
+della perfidia dei Malebranche.
+
+	Maravigliosa @e la descrizione del rapido ingigantir dello
+spavento.  Prima un brivio corre per il corpo del Poeta ed egli
+sente |tutti arricciar li peli~; non perde per@o ancora il dominio
+di s@e: io |stava indietro intento~: due parole, queste ultime, 
+che coi suoni uguali ribattono l'intensit@a dell'attenzione; poi
+prova il bisogno di comunicare i suoi timori al maestro.  Ma il
+freno della paura sta nella concentrazione della forza della
+volont@a, che si rilassa quando noi parliamo con altra persona, 
+intenerendoci delle nostre stesse sofferenze, vedendo le immagini
+delle cose suscitate dalle nostre medesime parole.  Questa bella
+osservazione psicologica spiega il discorso di Dante a Virgilio:
+l'ordine logico dei pensieri sarebbe stato: io ho pavento; mi par
+di vederli; se non provvedi tu, ci saran sopra: aiuto!  Ma chi
+parla sotto l'impulso d'una forte passione non bada alla logica, 
+si esprime cos@i, come fa Dante, con frasi tronche, staccate, 
+sconvolte, incalzanti: <prima ci@o che pi@u gli sta a cuore, 
+salvarsi: |se non celi te e me tostamente~; poi la ragione del
+desiderio cos@i vivamente espresso, confessato sinceramente: |i'
+ho pavento dei Malebranche~, e non appena la confessione @e fatta, 
+la spiegazione e la giustificazione di essa, precipitosa, calda, 
+incalzante: |noi l'avem gi@a dietro~> (Torraca).  Infine, nella
+rapida progressione, indice del terrore che invade il Poeta, 
+abbandonato alla forza della sua immaginazione, in lui
+prepotente, egli si vede gi@a presso i |Malebranche~, un nome che
+rinnova il brivido.
+
+	E nel suo spavento Dante vede giusto: i Malebranche sono
+sulle loro tracce.  Ma lo stato d'animo di Virgilio @e molto
+diverso, come appare dalla sua risposta.  Anzitutto un pagano, e
+l'abbiamo gi@a osservato, non conosce bene la natura del diavolo e
+non ne ha la paura dovuta; e poi egli @e il precettore. 
+<Virgilio, dice ancora il Torraca, non ha tanta paura quanta il
+discepolo, o si sforza a non mostrarsi spaventato, per
+infondergli, con l'esempio, coraggio.  Gli vuol dire che
+anch'egli crede imminente l'arrivo dei demoni; ma comincia largo, 
+con un paragone lungo quasi tre versi>.  Un tale linguaggio, in
+quel momento, irrita Dante, che non lo chiama pi@u coi soliti nomi
+rispettosi o affettuosi, ma sembra allontanarlo per un momento
+dal suo cuore con un ^e quei~ {v.25}, che par dire: benedetti
+pedagoghi! neppure con dieci diavoli alle calcagna non
+dimenticano il dire forbito e il periodare rotondo.
+
+	|25-33.~  Quanta differenza dallo stile concitato di
+Dante! dove egli parl@o la lettera @e piana; ma quando parla
+Virgilio bisogna pure che gli interpreti spieghino che cosa ha
+voluto dire fra tanti incisi, metafore e perifrasi!  Se io fossi
+uno specchio, che @e ^vetro coperto di piombo~, egli dice, io non
+ritrarrei la |tua imagine di fuor~, ossia la tua corporale
+sembianza, pi@u tosto che |impetri~, ottenga stampando in me come
+sulla pietra, l'immagine della tua mente, ci@o che tu pensi.  I
+tuoi pensieri venivano test@e fra i miei, ancor prima che tu li
+esprimessi, |con simile atto~, con la stessa espressione di
+paura, e |con simile faccia~, (il simile atto non bastava), 
+conformi ai miei; cos@i che |d'entrambi un sol consiglio fei~, 
+trassi una sola determinazione: meno male!  Se la costa destra, 
+cio@e quella della VI Bolgia, perch@e i Poeti venivano verso
+sinistra, |giaccia~, sia, in qualche punto s'intende, ch@e una
+gran parte l'avevan davanti agli occhi e la vedevan ripidissima, 
+sia cos@i ^giacente~, ossia non troppo inclinata, che noi possiamo
+discenderla, noi fuggiremo la caccia immaginata da te e da me. 
+Quanto a ponti sani, Virgilio omai non pensa che ne esistano se
+non nelle bugiarde parole di Malacoda; ma non lo dice: del resto
+non trover@a neppure il punto di costa giacente, in cui sperava: i
+diavoli non gliene danno tempo, e forse non esiste.
+
+	|34-36.~  Virgilio non ha finito di esprimere la sua
+deliberazione, che |ei~, pronome qui molto pi@u espressivo che non
+sarebbe stato il nome! appariscono, non molto lungi, e Dante li
+vede, |con l'ali tese~, correndo e volando al tempo stesso come
+fa lo struzzo, con non dubbie intenzioni, e anche Virgilio ormai
+lo comprende: un impeto d'amore, dinanzi al riapparir dei demoni, 
+trascina in salvo i due pellegrini, insieme abbracciati, come
+avviene nei punti pi@u drammatici del viaggio.
+
+	Tanto avversa ad ogni sentimento di concordia e di
+fratellanza @e questa Bolgia dei Barattieri, in cui ancor ci
+troviamo, che anche i due viaggiatori ne hanno sentito
+l'influsso, e son stati a pi@u riprese, se non discordi, di
+sentimento diverso.  Ma la Bolgia del mal influsso sta per esser
+superata, e Dante torner@a tosto a paragonare il suo maestro alla
+pi@u tenera madre.
+
+	|37-42.~  Nelle similitudini tratte dall'amor materno o
+dalla vita infantile, il Poeta accoppia in generale la madre ed
+il bambino, perch@e gli atteggiamenti di entrambi sono istintivi e
+l'uno illumina l'altro.  Di questa, che @e tra le pi@u belle e le
+pi@u tenere, dice il Torrace: <probabilmente qui Dante non
+immagina, ricorda>, perch@e gli incendi non eran rari al suo
+tempo.
+
+	Ma i commentatori si soffermano a considerare se dal
+verso si debba intendere che la madre fugga con la sola camicia o
+senza vestire neppure una camicia.  Quesito dubbio, perch@e noi
+non sappiamo con certezza come dormissero le donne fiorentine del
+trecento; ad ogni modo se anche s'intenda che la madre non guarda
+neppure alla sua nudit@a, nessuno le rimproverer@a che l'amore
+materno vinca in lei anche il sentimento del pudore.
+
+	|43-51.~  V'erano due specie di molini ad acqua: il
+molino |terragno~, costruito su piena terra, e mosso dall'acqua
+che, derivando per un canale o |doccia~, precipitava dall'alto
+sulle pale superiori; e il molino detto ^francese~, costruito
+sulla sponda del fiume o su barche, che veniva mosso dalla
+corrente del fiume in cui si immergevano le pale inferiori. 
+|Vivagno~ poi, dice il Bargigi, <@e propriamente l'estremit@a o
+cimosa della tela>; similmente le ripe sono le cimose o estremit@a
+delle bolge.
+
+	|52-57.~  L'uso del |li~ o ^gli~ per ^vi~ o ^ci~ non @e
+raro in Dante (^Purg.~, VIII, 69; ^Par.~, XXV, 124).
+
+	La Bolgia dei Barattieri termina cos@i, con versi ampi
+come un sospiro di sollievo, solenni per il pensiero che
+s'innalza con gratitudine alla Provvidenza divina.
+
+	Bolgia Sesta -- Ipocriti.
+
+	<Quando la Giustizia, nella sua lotta perpetua con la
+malizia umana, sta per sopraffare i suoi nemici>, dice Vincenzo
+Genovesi, <questi si argomentano di cavar vantaggio dalla sua
+stessa sembianza, ed ecco l'ipocrisia, che, non contenta di
+sacrificare alle sue menzogne l'umanit@a, vi sacrifica lo stesso
+Dio, in persona di Cristo, Uomo e Dio>.  Per quanto adunque
+l'Ipocrisia possa rivestire tanti aspetti quante sono le virt@u
+contrapposte ai vizi, in sintesi essa pu@o ridursi ad una sola
+forma, l'ipocrisia religiosa; e cos@i fa Dante, ispirandosi forse
+al concetto di San Gregorio Magno, il quale diceva che tutti gli
+Ipocriti, sotto il pretesto di Dio, servono alle intenzioni del
+secolo, perch@e pur con le cose sante che dimostrano d'operare, 
+cercano l'aura di favori mondani.  Di qui, come gi@a dicemmo, 
+deriva il carattere speciale di questa Bolgia, tutta di colorito
+e di contenuto sacerdotale; anzi, ancor pi@u ristrettamente, 
+dell'ipocrisia religiosa il poeta non considera che quella che
+nasconde intenti politici: conoceremo infatti in questa Bolgia
+due frati divenuti reggitori di cose pubbliche, e i dirigenti
+della politica del popolo ebreo ammantati di cariche sacerdotali. 
+Tema caro a Dante questo, che l'autorit@a politica e l'autorit@a
+spirituale mal si uniscono in una stessa persona o casta.
+
+	La pena che si descrive qui per gli Ipocriti @e di quelle
+che il D'Ovidio chiama del contrappasso per analogia. 
+L'ipocrisia @e un abito; abito immane e pesante a portarsi, 
+ricoperto dalle apparenze leggere e splendide della verit@a. 
+Tutti i commentatori ricordano a questo proposito le parole del
+Vangelo: <Vae vobis, hypocritae, quia similes estis sepulcris
+dealbatis, quae a foris parent hominibus speciosa, intus vero
+plena sunt ossibus mortuorum et omni spurcitia.  Sic et vos a
+foris quidem paretis hominibus iusti: intus autem pleni estis
+hypocrisi et iniquitate> (^Matteo~, XXIII).  N@e @e improbabile che
+il Poeta avesse presente un testo a lui caro, quello di Uguccione
+da Pisa, Huguitio Pisanus (1150-1210), che nelle ^Magnae
+Derivationes~ cos@i spiega l'etimologia della parola ipocrisia:
+<ab iper quod est super es crisis quod est aurum, quasi
+superauratus... vel ab ypos, quod est sub, quasi habens aliquid
+sub auro; vel componitur ab ypo quod est falsum et crisis quod
+est indicium, quia cum interius malus sit, bonum se palam
+ostendit, et ita de eo falsum habetur indicium>.
+
+	Da tutto ci@o deriva la pena immaginata dal Poeta: gli
+Ipocriti che si mostran santi di fuori, mentre son tristi di
+dentro, vanno rivestiti di grosse cappe di piombo, inverniciate
+d'oro lucente; essi che in vita non posero mai fine ai loro
+inganni, continuamente camminano, piangendo vero pianto in
+punizione della simulata piet@a, stanchi e vinti di fatica e di
+dolore in punizione dei dolori altrui cagionati: quei cappucci
+bassi sugli occhi sono una bellissima pittura della loro cura di
+non farsi mai leggere in viso il segreto pensiero.
+
+	|58-63.~  Per |Clugny~ chi intende Colonia sul Reno, 
+dove, al dir dell'Ottimo, i monaci, <per onestade>, portavano
+cappe <smisuratissime di larghezza e di lunghezza, e quasi nel
+cappuccio ha una gonnella>; o dove, secondo altri fu una Badia di
+monaci ricchi e nobili, tanto superbi che una volta un Abate
+<ebbe ardimento d'impetrare dal Santo Padre di potere elli e i
+suoi monaci vestire cappa di scarlatto e portare scarpe con
+cintura d'ariento inorato e sproni a modo di cavalieri>; ma il
+Papa rispose che vestissero <cappe nere con cappuzzi grandi s@i
+che vi capesse una grande misura di biada> (Buti), e fibbie a
+puntale di legno.
+
+	Altri intende di Clugn@i di Borgogna, celebre per un
+convento di Benedettini, detti Clunicensi, ai quali San Bernardo, 
+in una lettera al nipote Roberto che era passato a quell'ordine
+dal Cistercense, rimproverava il vestir fino e ricco con altre
+mondanit@a.  Altri ancora pens@o a Colonia sul Veronese, dove
+fioriva l'industria dei tessuti di lana per farne cappe
+fratesche.
+
+	Ad ogni modo siamo sempre in convento: quelle cappe e
+quei cappucci sono veste di monaci; quei peccatori che vanno con
+assai lenti passi, in silenzio, piangendo, ricordano una
+processione; se non che quella gente @e dipinta a oro, e il manto, 
+si leggero ai pii, diventa faticoso per loro: @e una processione
+solo in apparenza: la processione degli ipocriti.
+
+	|64-66.~  Era forse un'invenzione di avversari politici;
+ma era anche divenuta tradizione popolare, che Dante sempre
+rispetta, riportata da Pietro di Dante, dal Lana, dal Buti, che
+Federico II facesse vestire d'una cappa di piombo, spessa un
+dito, i rei di lesa maest@a, e poi li facesse mettere al fuoco, 
+finch@e tutto il piombo fosse strutto.
+
+	|67-72.~  Dopo un verso, |oh in eterno faticoso manto~, 
+che si prolunga e pesa quanto l'ipocrisia e una cappa di piombo, 
+in questa viva pittura noi abbiamo insieme ritratta e la lentezza
+di quelle ombre e l'immagine della loro moltitudine.
+
+	|73-75.~  Virgilio, pensieroso dell'ultima avventura coi
+diavoli, andava forse ancora a testa bassa; donde la
+sollecitazione del discepolo, |gli occhi muovi~, che suona anche
+espressione di conforto.  Ma Virgilio non ha bisogno di ricercare
+n@e tempo di rispondere che dietro loro risuona un grido.
+
+	|76-81.~  Non @e la prima volta che nell'introdurre un
+personaggio che interessa Dante e Firenze, pi@u che non tocchi ai
+doveri di maestro e di guida di Virgilio, la parlata toscana d@a
+principio all'episodio.
+
+	Mentre il poeta pronunciava la sua breve domanda, era
+passato a lato di due che venivano a paro s@i lentamente, che se
+li era gi@a lasciati alle spalle prima di finirla: sicch@e a quei
+due Dante e Virgilio sembran correr troppo.  Ed ecco disegnarsi
+subito il carattere dei due personaggi: veri ipocriti, essi si
+dan, come sempre, l'aria di uomini modello e correttori dei
+difetti altrui: non son essi che van troppo lenti per pena, ma i
+due Poeti che dimenticano come onest@a e prudenza consiglino di
+non affrettarsi mai, e soprattutto fra la calca e |ne l'aura
+fosca~; non son essi che desiderano entrare in discorso, ma Dante
+che ha mostrato desiderio d'udire qualcuno famoso per fatti o per
+nome, e che |forse~, prudentissima parola, avr@a da loro ci@o che
+va cercando.  Ma Virgilio che sa dove si trova, consiglia secondo
+ragione: tornare indietro, no; sarebbe stato eccessivo onore:
+|aspetta~ e poi procedi secondo il suo passo, ossia regolati
+secondo le circostanze.
+
+	|82-84.~  Par di vederli, con dipinta nel viso l'ansia di
+essere aspettati e l'impazienza di raggiunger Dante, pontando ora
+su un piede, ora su l'altro, come dipinge il verso due volte
+spezzato, |de l'animo, col viso, d'esser meco.~  Ma, poverini!
+andavano adagio: non per onest@a o prudenza, ma per |il carco e la
+via stretta~; sicch@e la ripresa della terzina seguente, ^quando
+fur giunti~ {v.85}, ci dice che ci volle del tempo non poco.
+
+	|85-90.~  Il guardar |bieco~ o di sbieco pu@o esser per
+cagion dei cappucci bassi, che li obbligavano a far il viso
+supino e chinar il capo da un lato per veder Dante in faccia; ma
+|bieco~ @e sempre parola di mal senso; e se noi ricordiamo che il
+Poeta d@a questo stesso atteggiamento nel rimirare agli Invidiosi
+del Purgatorio, tanto pi@u chiara ci apparir@a la descrizione dei
+due Ipocriti; i quali, giunti, si aspettavano forse di esser
+ricevuti con cortesi parole, e tacciono; ma visto che devon
+essere loro i primi a parlare, si rivolgon a conversar fra loro, 
+con quelle osservazioni maligne su Dante.  Dante al vedersi
+rimirar con occhio bieco, doveva essersi sentito montar la mosca
+al naso, e per ricacciarla gi@u, doveva aver fatto l'atto che si
+fa quando s'inghiottisce la saliva: a quest'atto di deglutizione
+i due l'han riconosciuto per vivo, e se lo dicono, e, continuando
+la loro malevola ciarla, a Dante associano anche Vigilio, 
+cangiando il singolare |costui~ nel plurale |vanno~: |vanno
+scoperti de la grave stola: per qual privilegio~? ingiusto, 
+s'intende.  E |stola~ e ^collegio~ {v.91} che segue, sono, 
+quello, nome di paramento sacerdotale, questo, usato allora a
+significare un capitolo di frati, sicch@e il colorito del Canto @e
+sempre uno.
+
+	|91-93.~  Sempre in carattere, fa la voce melliflua: |non
+avere in dispregio~; ma vogliono aver l'onore che Dante si
+manifesti per primo; si confessano con parole tolte dal Vangelo. 
+<hypocritae tristes> (^Marco~, VI), ma giuocando sul doppio senso
+dell'aggettivo; e nascondono la vera cagione che li muove a
+parlare, curiosit@a di cose toscane, ma girano largo, forse
+sperando d'udire che Dante sia uno di loro genia.  Ma la risposta
+di Dante li disinganner@a a dovere.
+
+	|94-96.~  Dante non sdegna di risponder per primo; ma
+invece di dir chi sia, dice donde sia, con parole sonanti, |bel
+fiume~, |gran villa~, che non dovevan giunger gradite agli
+orecchi di quegli invidiosi; l'ultimo verso, |e son col corpo
+ch'io ho sempre avuto~, taglia corto ad ogni pettegolezzo.  Poi
+continua con un ^ma~ {v.97} che gi@a conosciamo dall'episodio di
+Ciacco.
+
+	|97-99.~  Gi@u la maschera!  Chi siete voi che mormorate
+degli altri, mentre avete tanto da piangere di voi stessi per il
+dolor |ch'io veggio~? |e che colpa @e in voi che s@i sfavilla~?
+ricordisi l'^aura fosca~ {v.78}, che dava rilievo al falso
+luccichio dell'oro.
+
+	E l'un dei due, costretto di confessare, tutto dir@a, 
+nome, qualit@a, patria e storia; ma nel dire la colpa e la pena si
+servir@a d'una frase, quanto pu@o, stiracchiata e contorta, per
+versare in ultimo il sacco del fiele: Ah, la tua gran villa? par
+che dica: per conservar la sua pace essa non aveva abbastanza
+d'un sol podest@a, come tutte le altre citt@a: due ne voleva; ha
+scelto noi, e -- prendi questa! -- l'abbiam conciata a dovere!
+
+	|100-102.~  @E una similitudine larvata: le cappe son
+tanto pesanti che ci fanno piangere, come i pesi fan cigolar le
+bilance; ed @e la risposta alla seconda domanda del Poeta; poi
+dir@a la qualit@a loro, ritardando per ultimo i nomi, che Dante
+aveva chiesto per primi, ed aggiungendo la storia dolorosa per un
+fiorentino.
+
+	|103-108.~  Questi versi, chiari per un fiorentino del
+trecento, per noi hanno bisogno d'un commento storico.
+
+	Nel 1266 i Ghibellini di Firenze, gi@a rimasti padroni
+della citt@a dopo la vittoria di Montaperti, colpiti dalla
+vittoria angioina di Benevento che ristabiliva il predominio
+guelfo, manifestarono intenzioni pacifiche al Papa Clemente IV. 
+Il Papa, lieto d'una richiesta di mediazione che favoriva i suoi
+segreti pensieri, non si sa se di sua spontanea volont@a, o per
+suggerimento dei fiorentini stessi, dispose che si chiamassero a
+reggere il Comune fiorentino, |per conservar sua pace~, per
+riconciliare gli avversi partiti, invece di uno, come era
+consuetudine, due podest@a, e che l'uno fosse di parte guelfa, 
+l'altro di parte ghibellina: la scelta cadde sui nostri due
+frati, i quali, dapprima renitenti, finirono coll'accettare, per
+ubbidienza al Pontefice.
+
+	Non erano nuovi alla cosa pubblica n@e l'uno n@e l'altro, e
+non potevano esserlo per gli scopi che si proponeva l'ordine
+religioso a cui appartenevano.  Era questo un ordine religioso
+cavalleresco, sorto sin dal principio del secolo XIII in Francia, 
+durante la campagna contro gli Albigesi.  Trapiantatosi a Parma
+nel 1233, vi si chiam@o dei Cavalieri di Cristo; nel 1261 fu
+riformato a Bologna, prendendo il nome di Milizia della Vergine
+Gloriosa.  La riforma fu approvata da Urbano IV il 23 Dicembre
+1261.  La regola non era severa.  Questi frati potevano prender
+moglie; vestivano abiti eleganti, simili a quelli dei
+predicatori; avevano per insegna la croce rossa con due stelle in
+campo bianco; per missione pacificare le famiglie potenti e le
+citt@a, e proteggere i deboli; per massima il <Servite Domino in
+laetitia>, sicch@e in breve si chiamarono di per s@e stessi Frati
+Gaudenti.  Ma <poco dur@o, che seguiva al fatto il nome>, dice il
+Villani, cio@e d'intendere pi@u a godere che ad altro, sicch@e il
+popolo li chiamava sarcasticamente Capponi di Cristo: un dileggio
+che involgeva tutto l'ordine, e che forse influ@i sulla scelta di
+questi due Frati Godenti per la rappresentazione dantesca
+dell'ipocrisia in questo Canto.  I due Frati di cui parliamo
+infatti erano stati ^pars magna~ nell'istituzione dell'ordine:
+Loderingo ne fu addirittura il riformatore e primo generale in
+Bologna, dove, secondo Benvenuto, il principal monastero sorgeva
+al Castello dei Britti; Catalano uno dei primi seguaci e
+consigliere di Loderingo.  Entrambi avevano gi@a retto vari Comuni
+prima d'esser chiamati a Firenze.
+
+	Loderingo, quello dei due che qui tace, della famiglia
+ghibellina degli Andal@o, dal 1251, anno in cui lo troviamo
+Podest@a di Modena, era stato richiesto di governo da sei citt@a
+della Toscana e dell'Emilia, senza contare la sua citt@a nativa. 
+Catalano de' Catalani, guelfo, della famiglia Malavolti, e che
+era chiamato anche spesso dal nome del padre suo, Guido di
+Madonna Ostia, fu Podest@a di Milano nel 1243, capitano dei fanti
+bolognesi alla battaglia di Fossalta contro Re Enzo (1249), ed
+aveva retto ben nove citt@a.  Nel 1265 i due frati, uniti, avevano
+dato ottima prova di s@e a Bologna, pacificando la citt@a turbata
+per le inimicizie degli Asinelli e dei Scanabelli.
+
+	Venuti a Firenze il I Luglio 1266, eletti per la durata
+di sei mesi, cominciarono bene, creando un consiglio di 36 ^buoni
+uomini~, o ^Anziani~, guelfi e ghibellini, popolani e grandi, non
+sospetti, che li aiutassero col consiglio, e provvedessero alle
+spese del Comune; e gli Anziani si mostrarono tutti zelanti del
+bene della citt@a.  <Fu questo Consiglio che ristabil@i e sollev@o
+ad importanza politica l'antica divisione della cittadinanza in
+compagnie d'arti e mestieri, le quali furono ridotte a dodici, 
+sette d'arti maggiori, cinque di minori.  Ebbe ciascuna console
+proprio e proprio tribunale; ogni arte dovea radunarsi sotto il
+suo gonfalone e difendere il Comune, quando i potenti
+minacciavano d'opprimere i deboli od impedir la giustizia>.  (F.
+Lanzani).
+
+	Ma, o fosse che veramente i due frati, per l'ubbidienza
+che dovevano agli ordini del Pontefice, occultamente favorissero
+i Guelfi, come sorse sospetto, o fosse l'intemperanza dei nobili
+ghibellini che temevano il risorgere della borghesia debellata a
+Montaperti, certo si @e che non tardarone a divampar nuovamente le
+discordie.  I ghibellini, forti di 900 cavalieri tedeschi, 
+ottenuti dalla taglia toscana, e che si unirono ai 600 di Guido
+Novello, usciron sulle piazze contro il consiglio degli Anziani;
+i popolani guidati da Gianni de' Soldanieri (^Inf.~, XXXII), 
+nobile e ghibellino, cacciarono addirittura gli Anziani dalla
+citt@a: questi tornarono il giorno appresso, ma trovarono le porte
+serrate e asserragliate, e si ritrassero nel Casentino e nelle
+loro rocche (11 Novembre 1266).
+
+	Allora i due bolognesi furono rimandati, e, fatto nuovo
+podest@a da Orvieto, i fuorusciti, guelfi e ghibellini, poterono
+ritornare in citt@a; ma fu breve tregua.  Inbaldanziti dalla
+recente vittoria, i Guelfi trattarono segretamente con Carlo
+d'Angi@o, e quando il giorno di Pasqua del 1267 il vicario del Re, 
+Guido di Monfort, entrava in Firenze alla testa di 800 lance
+francesi, i ghibellini, disperati di lor sorte, se ne erano
+nottetempo allontantati.  Poco tempo dopo Carlo d'Angi@o otteneva
+la signoria di Firenze per dieci anni, e i ghibellini esiliati
+udivano che i loro beni erano confiscati per supplire alle spese
+della guerra da sostenersi contro di loro, e che nel Gardingo, 
+dove sorgevano le case superbe degli Uberti, furore di popolo
+aveva fatto piazza pulita.
+
+	Fu vero tradimento quello dei Frati Gaudenti bolognesi? 
+Forse no: da una parte la disciplina che li assoggettava ai
+voleri del Pontefice, il vero colpevole secondo alcuni, e il
+fervore dei partiti in Firenze servon loro di scusa; d'altra
+parte le lunghe benemerenze da essi acquistate presso altre
+citt@a, la creazione del Consiglio degli Anziani nella stessa
+Firenze e il modo come terminarono umilmente la vita, rinchiusi
+nel Claustro di Ronzano, Catalano nel 1285, Loderingo nel 1293, 
+parlano in loro favore.
+
+	Ma ai tempi di Dante la storia, bench@e recente, 
+nascondeva molti dei suoi documenti, e guelfi e ghibellini
+accagionarono i due bolognesi di tutte le calamit@a cittadine, 
+sicch@e lo stesso giudizio che qui ne fa Dante @e ripetuto dal
+Villani e dal Malespini.
+
+	I nostri versi sono ormai chiari.  Catalano leva la voce
+con orgoglio per ricordare l'Ordine a cui egli e il compagno
+appartennero e la cittadinanza bolognese, i loro nomi e la
+riputazione che li aveva fatti ricercar da Firenze.  Ma a questo
+punto par di vederlo piegar ipocritamente la testa e incrociar le
+braccia sul petto per lanciare la frecciata contro Dante e la non
+amata Firenze.  Che risponder@a Dante?
+
+	|109-111.~  Dopo quanto abbiamo esposto, non pu@o cader
+dubbio sul significato dell'interrotta esclamazione dantesca:
+come egli aveva detto a Nicol@o III, ^per@o ti sta che tu sei ben
+punito~, cos@i egli ora voleva dire ai due frati: i vostri mali
+presenti ben vi stanno, perch@e voi avete mentito agli uomini e a
+Dio.  Ma a questo punto gli sovviene d'un pi@u grave oltraggio
+fatto a Dio stesso dalla casta sacerdotale traviata da interessi
+mondani, e cristianamente umilia il suo dolore dinanzi
+all'immagine del Crocifisso.
+
+	Cos@i dagli ipocriti religiosi mascherati da uomini
+politici, passiamo agli ipocriti politici mascherati da
+religiosi.
+
+	Il nuovo peccatore, dalla subita apparizione, che ha pena
+diversa e maggiore degli altri dannati della Bolgia, @e Caif@as, 
+che persuase il popolo ebreo a sacrificare una vittima, Cristo, 
+al bene comune.  Il suo tormento @e magnifico: il crocifissore @e
+crocifisso; il padre degli ipocriti sente pesare sopra il suo
+corpo tutta l'ipocrisia umana, come il padre di tutti i vizi, 
+Lucifero, sostiene sopra di s@e tutto l'Inferno.  Nella
+Crocifissione di Caif@as per@o manca la Croce: il Santo Segno non
+pu@o riprodursi nell'Inferno.  E la crocifissione non @e fatta dai
+santi chiodi, che non han presa sulla terra o sulla roccia, ma
+per mezzo di pali.  Tre pali che inchiodano a Caif@as uno i piedi
+e due le mani: se il Redentore fosse stato crocifisso con tre o
+quattro chiodi fu lunga disputa fra albigesi e cattolici, 
+definita poi a favor di questi ultimi da Innocenzo III: e Dante
+segue l'opinione ortodossa e pi@u cara agli artisti.
+
+	|112-117.~  Caif@as non parla: @e giusto che sia privato
+della parola chi pronunci@o la pi@u esacranda parola.  Anche lui
+guarda Dante con ira, e non potendola manifestare in altro modo, 
+perch@e crocifisso, si storce tutto; quel contorcimento gli
+accresce il martirio e sbuffa, |soffiando ne la barba coi
+sospiri~: un verso che ne illumina tutta la figura.  E anche in
+lui la rabbia @e mossa da invidia, per esser costretto a vedere
+l@i, nell'Inferno, per la prima volta, un uomo che sar@a salvato
+dagli effetti dello stesso delitto che lui dann@o in eterno.
+
+	Al silenzio ed alla rabbia inane di Caif@as si contrappone
+il godimento e il chiaccherio di Frate Catalano, contento di
+vedere uno pi@u reo di s@e stesso, sicch@e s'intrattiene quanto pu@o
+a contemplare quel pi@u grave tormentato, e vuol che Dante lo
+contempli a parte a parte con lui.  <Pare che narri o descriva
+sereno, ma, narrando sceglie la circostanza in cui la perfidia di
+quel confitto, ipocritamente velata dal pretesto del pubblico
+bene, ottenne il suo fine> (Torraca); e, frate, ripete la biblica
+frase: <expedit ut unus moriatur homo pro populo>, come aveva
+detto Caif@as (^Giovanni~, XI), mascherando dell'amor del bene
+pubblico il suo odio verso Ges@u.  Catalano traduce l'^expedit~ in
+|conveni~, mirabile parola, in cui il Tommaseo vedeva compresa
+con le idee di dovere morale e di irreparabile necessit@a, quella
+della egoistica utilit@a o convenienza.
+
+	|118-120.~  Detto della colpa, Catalano passa a descriver
+la pena, rilevandone con compiacenza i particolari che la rendono
+pi@u grave della propria.  Dante l'ha pure egli sotto gli occhi, 
+quella pena, ma tant'@e, il frate la descrive lo stesso, per
+l'intimo godimento che ne prova e perch@e Dante l'osservi meglio:
+|attraversato @e~: quanta forza in quell'ausiliare posposto!
+|nudo, ne la via~, disteso da un margine all'altro, nudo, perch@e
+senta meglio il peso delle cappe rance; disteso, perch@e |@e
+mestier~, non c'@e santi! che senta come pesa chiunque passa, 
+andando gli ipocriti a passi lenti, calcando con tutti e due i
+piedi a far cigolar quella bilancia.  E cos@i dicendo noi lo
+vediamo, il frate Catalano, calcare egli stesso Caif@as con tutto
+il peso della sua cappa di piombo e della sua ipocrisia.  Ma non
+basta ancora: Caif@as non @e solo! c'@e altra gente con lui, punita
+nello stesso modo in quella Bolgia e che Dante non vede; e dopo
+aver calcato Caif@as, l'ipocrita pregusta il piacere di calcare
+ugualmente il suocero suo, i compagni, tutto il Sinedrio, da
+Caif@as tratti seco in rovina, con tutto il popolo ebreo.
+
+	|121-123.~  Il suocero, Anna, sommo pontefice, con i
+Pontefici minori ed i Farisei: <collegerunt pontifices concilium>
+(^Giovanni~, XI); tutti coloro che condannarono il Giusto; e
+Dante li dice |dal concilio~, non ^del concilio~, perch@e da
+questo essi ebbero la triste nomea, da questo il popolo ebreo
+tutto la |mala sementa~ che doveva maturare nella distruzione di
+Gerusalemme sotto Tito.
+
+	|124-126.~  Che cos'@e tanta maraviglia di Virgilio in
+questa terzina che suona grave come un'epigrafe?  @E la
+sorprendente luce che il ^mirabile processo~ (^Par.~, VII, 113)
+della Redenzione gitta su tutta la storia umana, anche per chi lo
+riguardi col solo aiuto della ragione; perch@e Caif@as, senza saper
+quello che si dicesse, <^non intelligens se ipsum~> (Benvenuto), 
+aveva detto il vero: era necessario che un uomo perisse per la
+salvezza di tutti!  Quello che Virgilio stesso aveva intuito per
+la felicit@a degli uomini sulla terra, per la fondazione
+dell'Impero, <unum pro mutlis dabitur caput> (^Eneide~, V, 815), 
+era non meno necessario per la beatitudine degli uomini nei cieli
+e per l'origine della Chiesa di Cristo.  Il pensiero di Dante @e
+s@i ardito che egli stesso non osa esprimerlo con chiarezza; ma
+noi lo comprendiamo: Virgilio si meraviglia di aver egli pure
+pronunciato le stesse parole di Caif@as, inconsciamente del pari, 
+ma senza la triste intenzione dell'ipocrita.
+
+	|127-132.~  La mente di Virgilio torna all'inganno di
+Malacoda; e cos@i la Bolgia degli Ipocriti, incorniciata di
+allusioni ai Barattieri, pur conservando l'indipendenza che
+merita per la sua importanza, diventa come una parentesi nel gran
+regno di Baratteria.
+
+	Con le sue parole Virgilio mostra di non essere ancora
+ben sicuro che Malacoda gli abbia mentito; che esista veramente
+alcuna |foce~ o ponte sano per uscir di qui, e spera udirlo dal
+frate: l'ipocrita approfitta della sua ingenuit@a per burlarlo, e
+gli d@a del tu e gli fa da m@entore.
+
+	|133-135.~  C'@e, c'@e dunque il ponte: Virgilio non @e
+stato ingannato! l'ipocrita glie lo lascia credere per un poco, 
+dilungandosi a dir cose che Virgilio non poteva ignorare, essendo
+venuto per quella via...  Ma ecco infine lo scherno: c'@e pi@u
+vicino che non credi, un ponte, e appartiene all'ordine di ponti
+che parte dalla gran cerchia che separa Malebolge dal Cerchio
+VII, e va cos@i e cos@i; ma, ed ecco la burla, c'@e un piccolo
+inconveniente, ed @e che qui, dove tu ne hai bisogno, quel ponte @e
+come se non ci fosse, perch@e... @e rotto.
+
+	|136-138.~  In questo Cerchio ogni ponte @e rotto, 
+giustamente, perch@e l'Inferno doveva soffrire la peggior ruina
+nel regno dell'ipocrisia, che fu precipua cagione della morte di
+Cristo.  Ma di questo l'ipocrita tace: l'unica cosa di qualche
+importanza che egli comunichi @e questa; che la |ruina giace in
+costa~, @e cio@e appoggiata alla costa della ripa, e |soperchia~
+nel fondo della Bolgia, si eleva dal fondo della Bolgia, in modo
+che si pu@o risalir la costa.
+
+	|139-141.~  Virgilio, a testa china, pensa, e trova
+ancora che il diavolo forse non gli ha mentito; si @e solamente
+ingannato egli stesso, |mal contava la bisogna~: tanta
+longanimit@a verso un diavolo fa sorridere il frate.
+
+	|142-144.~  Bella novit@a da doverla imparare nella citt@a
+pi@u famosa per dottrina! che il diavolo <mendax est et pater
+eius>, cio@e di mendacio, si @e sempre ripetuto da San Giovanni
+(VIII) in poi.  Ma Virgilio s'era andato cercando la lezione da
+s@e.  Ora s'adira e si turba di averla ricevuta, ed esce di mal
+umore dalla Bolgia degli Ipocriti.
+
+	|145-148.~  Bella, ad ogni modo, davanti al frate che
+resta, ^incarcato~, nella sua cappa plumbea, quest'espressione di
+tenerezza di Dante per il turbato maestro, a cui la sola ragione
+non poteva aver aperto tutto la conoscenza della verit@a che
+l'Inferno dischiude alla mente di Dante, cristiano.

@@ -1,0 +1,940 @@
+	|Introduzione.~  Col canto XXVI sostanzialmente finisce
+la descrizione del girone dei lussuriosi, e con essa quella del
+Purgatorio propriamente detto.  Nel XXVII, dopo una delle
+consuete `miniature' d'inizio con l'indicazione dell'ora, in due
+terzine (1-6) particolarmente elaborate sia dal punto di vista
+dottrinale che da quello stilistico, il poeta ci rappresenta con
+abbondanza di particolari narrativi e drammatici il suo passaggio
+insieme con Virgilio e Stazio, attraverso le fiamme che occupano
+il girone (7-57); e poi (58-108) la sosta notturna e un suo sogno
+profetico.  Non resta al pellegrino che salire rapidamente una
+scala e sar@a nel Paradiso terrestre; Virgilio ha ormai compiuta
+la sua missione di guida e si accommiata da lui con tenerezza e
+solennit@a (109-142).  Ci@o ci ha condotto al nucleo critico pi@u
+rilevante del canto: il contrasto, avvertito dai lettori attenti,
+tra la solennit@a religiosa del momento del viaggio (Dante ha
+vinto ormai gli istinti, ha riconquistato la sua libera volont@a)
+e la sottolineatura, proprio qui, della sua `privata', tutta
+umana debolezza; d'altro canto, tra la grandiosit@a di certe scene
+e l'intimit@a idillico-elegiaca di altre.  A quest'ultimo
+proposito, si veda come siano posti a contatto l'apertura
+sull'immensit@a del cielo, con il suo oscurarsi (70-72), il suo
+illuminarsi di stelle (89-90), il ritorno trionfale della luce
+(112-114), e un semplice giardino fiorito (134-135).
+
+	|1-6.  S@i come... apparse~: i poeti giungono al ^passo
+del perdono~ dove sta l'angelo della castit@a, all'ora del
+tramonto.  L'indicazione dell'ora @e data indicando la posizione
+del sole nei quattro punti di riferimento solitamente usati da
+Dante: Gerusalemme, Ebro (Gade), Purgatorio, Gange,
+alternativamente antipodi: posizione esattamente inversa a quella
+di ^Pg~ II 1-9.  Ordinando le due terzine, il significato
+letterale @e questo: <il sole stava nella posizione in cui sta
+(|s@i come~) quando sorge (|i primi raggi vibra~) a Gerusalemme
+(|l@a dove... sparse~), mentre l'Ebro si trova (|cadendo~) sotto
+la costellazione della Bilancia (|Libra~), e le acque del Gange
+sono riarse dall'ora meridiana (|da nona~); per cui era il
+tramonto (|'l giorno sen giva~) nel Purgatorio, quando ci apparve
+lieto l'angelo di Dio>.  Per comprendere l'esatta posizione del
+sole nei quattro punti, si ricordi che, nella geografia dantesca,
+essi erano a 90+o~ rispettivamente l'uno dall'altro e cio@e l'Ebro
+(o talvolta Gade) a 90+o~ a occidente di Gerusalemme (centro
+della terra abitata), e il Gange a 90+o~ a oriente; il Purgatorio
+antipode di Gerusalemme.
+
+	|1-3.  S@i come~: si badi che non si tratta di una
+similitudine: il sole @e paragonato a se stesso: esso stava nella
+posizione in cui sta quando ecc.  |L@a... sparse~: la perifrasi
+indica Gerusalemme, cio@e l@a dove Ges@u (|suo fattor~, perch$e suo
+creatore) sparse il sangue, morendo sulla croce.  |Cadendo
+Ibero~: va inteso come un ablativo assoluto latino.  ^Cadere~ in
+questo senso non vuol dire <scorrere>, come pure @e stato inteso,
+bens@i <essere situato>, <trovarsi esattamente> (cfr. MAGGINI,
+^Due letture~, 99-100 e PORENA, in <Lingua nostra> XIII (1952),
+2, pp. 36-37).  |Alta Libra~: la costellazione della Bilancia,
+detta |alta~ perch$e a perpendicolo, allo zenit, dell'Ebro
+(|Ibero~).  Qui evidentemente il fiume, nella forma latineggiante
+(^Iberus~), sta per la regione stessa, la Spagna.  Normalmente
+Dante adopera come punto di riferimento estremo occidentale
+(naturalmente rispetto a Gerusalemme) Gade (Cadice), cio@e le
+colonne d'Ercole.
+
+	|4-6.  Gange~: sta per l'India, estremo punto orientale
+rispetto a Gerusalemme.  |Nona~: la nona ora del giorno, il cui
+computo si iniziava alle 6 antimeridiane, @e propriamente le 15,
+ma la divisione del d@i fatta in quattro parti di tre ore
+ciascuna, farebbe di |nona~ lo spazio di tempo tra le 12 e le 15. 
+L'ora canonica nona, cio@e quella dell'ufficio divino, era
+anch'essa circa alle 15, ma poich$e tali ore tendevano a spostarsi
+aggruppandosi verso il mezzogiorno (l'ora ^sesta~), idealmente
+perfetta (come spiega Dante stesso in ^Cv~ IV xxiii 15-16, dando
+notizia della divisione delle ore), e poich$e l'uso fiorentino
+tendeva ad indicare il mezzogiorno con <l'ora di nona> (cfr.
+Villani, ^Cron.~ XI 100), qui, dal contesto, si deve pensare che
+indichi il mezzod@i appena passato (cfr. BARBI, ^Problemi~ I
+250-251).  |Come~: quando.
+
+	|7-9.  in su la riva~: sull'orlo della cornice non
+lambito dalle fiamme.  |`Beati mundo corde!'~: @e la sesta
+beatitudine che, completa, suona: <Beati mundo corde, quoniam
+ipsi Deum videbunt> (^Matth.~ V 8).  Anche questa beatitudine,
+come gran parte delle altre udite nelle cornici precedenti, si
+adatta bene alla condizione delle anime penitenti, non solo per
+l'invito alla purezza, diretto a coloro che si macchiarono del
+peccato di lussuria, ma anche perch$e nell'ultima cornice le anime
+sono prossime a vedere Dio.  |Pi@u che la nostra~: pi@u che quella
+umana.
+
+	|10-12 {Nota Bosco}.~  Uno dei nodi critici del canto @e
+costituito dalla barriera di fiamme che l'angelo invita Dante,
+Stazio e Virgilio ad attraversare.  Ma non erano le fiamme
+strumento specifico di pena per i lussuriosi?  Lo erano, certo; e
+anzi non c'@e in tutto l'Inferno e il Purgatorio altro contrapasso
+che presenti corrispondenza tra pena e peccato maggiore di
+questa; si ricordi che i lussuriosi chiedono a Dio (^Pg~ XXV
+121-123) fiamme punitrici: <flammis adure congruis>.  Lasciamo
+pure da parte Virgilio (egli non ha alcun peccato da espiare e
+sta nel Limbo solo per mancanza di battesimo; attraversa anche
+lui le fiamme solo per il suo ufficio di guida, pi@u che mai
+necessario in questa difficile prova cui il discepolo deve
+sottoporsi); ma riterremo lussurioso anche Stazio?  Anzi
+riterremo colpevoli di lussuria tutte le anime salve?  Infatti
+l'esortazione dell'angelo (10-12) a immergersi nel fuoco non
+sembra essere indirizzata in particolare ai tre poeti; pare
+invece esortazione che egli rivolge abitualmente a tutte le
+|anime sante~ {11}, com'egli le chiama: cio@e a tutti coloro che,
+finita l'espiazione, vogliono accedere al Paradiso terrestre e
+poi al Paradiso.  Infatti, poich$e le fiamme occupano senza
+soluzione di continuit@a tutta la larghezza del girone (salvo
+l'orlo estremo verso il vuoto), e circondano per intero la
+pianura del Paradiso terrestre, per accedere a questo bisogna
+evidentemente attraversarle.  Non @e da dire, come pure @e stato
+detto da un acutissimo studioso, che @e questa strutturazione del
+girone a costringere le anime a entrare nel fuoco; pi@u
+correttamente si deve dire al contrario, che tale strutturazione
+fu dal poeta immaginata perch$e egli voleva che esse lo
+attraversassero.  Si pensa autorevolmente che qui Dante si
+riallacci alla diffusa opinione che, essendo la nascita stessa
+dell'uomo legata alla concupiscenza, e questa essendo eredit@a del
+peccato originale, tutte le anime, dopo espiate nel Purgatorio le
+loro particolari tendenze peccaminose, debbono ancora purificarsi
+di questa comune macchia originale.  Il fuoco avrebbe dunque in
+Dante una duplice funzione: di pena specifica, e di mezzo di
+purificazione generale.  Inoltre, dopo il peccato di Adamo ed
+Eva, Dio pose un cherubino, con una spada di fuoco, a guardia del
+Paradiso terrestre perch$e nessuno potesse pi@u entrarvi: questo
+cherubino potrebbe essere qui rappresentato dall'angelo che sta
+di l@a della cortina, a guardia della scala di accesso del
+Paradiso terrestre, e che corrisponde all'angelo posto a guardia
+dell'ingresso del Purgatorio.  Orbene: la sua spada di fuoco era
+stata nell'esegesi cristiana interpretata come una barriera di
+fuoco ricingente tutt'intorno l'Eden; Dante potrebbe aver seguito
+tale interpretazione.  Questa @e l'opinione di molti, ma @e da
+osservare che in Dante l'angelo non sbarra il passo, anzi invita
+a salire, e le stesse fiamme non costituiscono propriamente un
+ostacolo, ma un ingresso, sia pure tormentoso.  Infine, si @e
+ricordato che il fuoco costituisce tradizionalmente e
+popolarmente, sulla base del Vangelo (in ^Matth.~ XXV 41, Dio
+dice ai dannati: <Discedite a me, maledicti, in ignem aeternum>),
+la pena dell'Inferno e del Purgatorio; con essa lo stesso Dante
+designa in questo stesso canto il complesso delle varie pene
+purgatoriali e infernali (^Il temporal foco e l'etterno~, 127; e
+cfr. anche ^If~ I 118-119).  Tutto ci@o @e stato egregiamente
+chiarito, e potrebbe bastare; ma forse va messo in rilievo
+maggiore di quel che sia stato fatto il carattere rituale
+dell'attraversamento del fuoco; soprattutto questo va collocato
+con decisione nella serie di riti che costituiscono una delle
+strutture portanti del ^Purgatorio.~  L'azione liturgica propria
+della sacra montagna, a prescindere da numerosi momenti minori, e
+per ora, dalla grande rappresentazione della processione e
+dell'apparizione di Beatrice (XXIX-XXXIII), ha inizio, alla porta
+di essa, col rito della confessione (^73-84~ e ^94-114 {Note
+Bosco}~ a ^Pg~ IX), cui corrisponde, all'uscita, questa della
+purificazione ^in igni~ (^Matth.~ III 12; ^Luc.~ III 16), che
+significa il <ritorno dell'uomo allo stato d'innocenza primitiva>
+(Nardi).  A questa immersione nel fuoco seguir@a quella nell'acqua
+del Let$e, in cui Dante sar@a con tutto il corpo tuffato da Matelda
+(XXXI 94-102) e ancora dal ^dolce bere~ dell'Euno$e (^Pg~ XXXIII
+127-145), al quale la stessa Matelda `mena' Dante e tutte le
+altre anime sante, come ella fa abitualmente (128): solo
+quest'ultimo rito rinnover@a definitivamente il pellegrino e lo
+render@a disposto a salire alle stelle.  L'attraversamento del
+fuoco @e dunque uno dei momenti rituali della purgazione.  @E
+naturale che vi partecipino anche Stazio e tutte le anime salve.
+
+	|10-12.  Pi@u... sorde~: l'invito che generalmente gli
+angeli ai vari passi del perdono facevano ai poeti di salire alla
+cornice successiva, diventa qui l'invito ad attraversare la
+cortina di fuoco, che chiude tutto intorno la cornice dalla parte
+interna.  In effetti, data la struttura di questo girone, non c'@e
+altra strada per proseguire il cammino.  Qui sorge per@o una serie
+di difficolt@a ermeneutiche, non facilmente eliminabili: da quel
+vocativo |anime sante~, che par difficile possa riferirsi a tutti
+e tre i poeti (<Di anima santa, veramente, qui ce n'@e una sola:
+Stazio.  Dante lo sar@a, ma non lo @e ancora.  Il povero Virgilio
+non lo sar@a mai>, dice argutamente ed esattamente il Porena),
+alla doppia funzione della cortina di fuoco, pena specifica e
+contrapasso per il peccato di lussuria e probabile purificazione
+generale per gli altri.  Inoltre, se tale passaggio, come
+spiegano molti, @e un rito simboleggiante <il ritorno dell'uomo
+allo stato di innocenza primitiva, attraverso il fuoco
+espiatorio> (Nardi), come vi possono partecipare Dante ancor vivo
+e Virgilio condannato in eterno?  @E difficile dare una risposta
+che elimini tutte queste contraddizioni.  Si potr@a pensare che
+Dante, <contaminando> la pena del fuoco adatta come contrapasso
+del peccato di lussuria con una tradizione medievale che pensava
+l'Eden circondato da una barriera ignea (interpretazione
+estensiva del ^flammeum gladium atque versatilem~ del cherubino
+in ^Gen.~ III 24), non si sia preoccupato poi di ovviare a tutte
+le contraddizioni che ne potevano derivare.  Che d'altronde il
+passaggio attraverso le fiamme abbia la caratteristica di un
+rito, sembra pi@u che evidente.  |Anime sante~: le parole sono con
+ogni probabilit@a indirizzate indeterminatamente a tutte le anime
+del Purgatorio, che hanno compiuta la loro purificazione: una
+specie di formula fissa.  |Al cantar di l@a~: il canto dell'angelo
+che sta al di l@a della barriera di fuoco, di cui si parler@a ai
+vv. 58-59.
+
+	|14-45 {Nota Bosco}.~  Ancora: nel momento in cui si
+attinge l'eterno, si affaccia ripetutamente (14-15, 21; anche
+37-39) l'immagine della morte.  Ma l@a dove il contrasto di cui
+discorriamo si fa pi@u evidente, @e nella scena dell'esitazione di
+Dante a traversare il fuoco: la terrestrit@a del viaggiatore pesa
+pi@u che mai nel momento in cui essa @e esaltata come quella di
+nessun altro uomo.  La paura di Dante di fronte al fuoco @e assai
+vivacemente sottolineata; n$e basta a spiegare il particolare
+timore la coscienza che possiamo attribuire a Dante non
+gratuitamente (@e la spiegazione anche del figlio Pietro), di
+essersi particolarmente macchiato del peccato di sensualit@a:
+comunque, se la riluttanza dipende da questo, essa costituisce un
+altro energico tratto del disegno della corporeit@a di Dante.  Si
+pensi anche, col Leo, che la paura del fuoco come punizione
+oltremondana @e popolare, e dunque appartiene alla pi@u semplice
+umanit@a.  Ma si badi soprattutto oltre che al fatto rappresentato
+ai particolari della rappresentazione.  Quando sa di dover
+attraversare il fuoco, Dante si sente morire; si sporge verso di
+esso, per obbedire all'angelo, e nello stesso momento se ne
+ritrae, spaventato, perch$e rievoca persone gi@a vedute, in terra,
+sul rogo; Virgilio per deciderlo tenta tutte le possibili vie: si
+badi che non si appella al dovere di non ritrarsi dall'impegno
+verso se stesso; l'opera di persuasione si risolve invece
+(Sapegno) <con un andamento, ancor pi@u che drammatico, di
+novella>; si nutre di quotidiano.  Si rivolge, potremmo dire, non
+all'Uomo ma all'uomo: cerca di convincerlo che il fuoco potr@a
+tormentarlo ma non ucciderlo; gli offre una prova elementare di
+ci@o: se avviciner@a alle fiamme un lembo del suo vestito, vedr@a
+che non brucer@a.  Ricorda i suoi precedenti interventi in favore
+del discepolo; replica ansioso le esortazioni: |Pon gi@u omai, pon
+gi@u ogne temenza; / volgiti in qua e vieni: entra sicuro!~
+{31-32}.  Ma Dante @e l@i, |fermo e duro~ {34}, non vuole ascoltare
+n$e la ragionevolezza n$e la coscienza; @e un bambino testardo.  E
+come tale Virgilio lo tratta: il bambino si vince |al pome~ {45},
+mostrandogli il premio; allo stesso modo il maestro fa leva sul
+desiderio che Dante ha di vedere Beatrice (^Li occhi suoi gi@a
+veder parmi~, 54).  Si badi: Beatrice donna, non teologia: che si
+tratti proprio d'un riferimento realistico-autobiografico
+all'amore umano, sia pure innalzato al grado che sappiamo,
+abbiamo or ora detto; aggiungiamo che ci@o @e confermato dal
+paragone con la storia d'amore umano forse pi@u emblematica del
+Medioevo, quella di Piramo e Tisbe (37-38).  Finalmente il
+bambino caparbio cede; Virgilio scuote la testa ironicamente
+affettuoso, sorride, gli si volge al plurale: |Come!  / volenci
+star di qua?~ {43-44}.  L'ironia di Virgilio @e evidentemente
+autoironia di Dante: su che cosa ironizza, se non sulla propria
+debolezza, sulla sua superstite terrestrit@a?  Ha detto assai bene
+il Sansone che egli <riconsacra poeticamente la vita come
+debolezza e miseria e insieme come speranza>.  Questo contrasto,
+che si risolve evidentemente in unit@a psicologica e poetica, ha
+grande importanza anche di l@a dei confini di questo canto. 
+Prossimo alla conquista della pi@u alta spiritualit@a, il poeta non
+vuol perdere, per cos@i dire, i contatti con l'umanit@a terrena. 
+Si inaugura qui un modo di poesia che avr@a naturalmente massimo
+sviluppo nel ^Paradiso~, come vedremo; la `domesticit@a', cio@e i
+riferimenti alla vita anche la pi@u umile, che Dante costantemente
+pone accanto alle sue pi@u alte e ardite figurazioni e meditazioni
+extra-umane (vedi in particolare ^Intr.~ e ^43-66 {Nota Bosco}~ a
+^Pd~ XIV).
+
+	|14-15.  per ch'io~: per cui, per la qual cosa io. 
+|Qual... messo~: pallido come un cadavere.  S'intende anche, meno
+bene: come @e colui che @e condannato alla propagginazione, con
+riferimento a ^If~ XIX 50-51 e a ^Pg~ XX 128-129.
+
+	|16-18.  In su... protesi~: nessuna delle spiegazioni
+date finora soddisfa.  Alcuni intendono: giunte <le mani in un
+gesto di disperazione... e per allontanarsi dalle fiamme... si
+protende in s@u... per tirar la testa il pi@u indietro possibile>
+(Porena) e altri quasi analogamente, pensando che Dante si sia
+inchinato davanti all'angelo e ora si drizzi (Torraca).  Il
+Chimenz intende che Dante, <congiunte le mani, palma a palma,
+incrociando le dita e tenendole davanti al petto, si curv@o su di
+esse... quasi rannicchiandosi su di esse>.  E il Barbi
+(^Problemi~ I 231): <ghiacciato dallo spavento, il poeta si
+protende in avanti a guardare il fuoco tenendo con le mani giunte
+il suo corpo pi@u indietro che potesse>, seguito dal Vandelli, da
+Casini-Barbi e dal Sapegno.  Cos@i press'a poco gli altri.  Si
+tratta di gesti innaturali, dovuti forse al fatto che quasi tutti
+gli interpreti esagerano la strettezza del sentiero percorribile
+della cornice.  Che fosse uno spazio stretto lo dice chiaramente
+il poeta (^Pg~ XXV 115-117), ma non bisogna esagerare: se cos@i
+fosse la veste del poeta avrebbe sfiorato le fiamme e in tal caso
+Dante si sarebbe gi@a accorto che la veste non bruciava senza
+farselo poi dire da Virgilio (vv. 29-30).  Teniamo conto
+piuttosto del terrore di Dante all'idea di entrare nelle fiamme e
+al suo ^imaginar forte~ |umani corpi gi@a veduti accesi~ sul rogo:
+il gesto pi@u naturale in chi guarda, temendo, il fuoco, @e quello
+di avvicinare le mani quasi a sentirne il temuto calore, e
+allontanarlo da s$e.  |In su le man... mi protesi~, data la poca
+chiarezza dell'espressione, pu@o ben significare che il poeta
+protenda le mani congiunte, con le due palme rivolte alle fiamme,
+fissando spaventato il fuoco.  Non ha bisogno di arretrare il
+corpo, perch$e le mani protese gli fanno come da scudo, e nel
+tempo stesso il gesto diventa naturale.  |Imaginando forte~:
+ricordando con un forte atto di immaginazione.  |Forte~ @e
+avverbio.  |Umani... accesi~: lo spettacolo di condannati al rogo
+era allora, purtroppo, alquanto frequente.  |Accesi~ vale <arsi
+vivi>.
+
+	|19-21.  le buone scorte~: Virgilio e Stazio.  |Qui~: nel
+Purgatorio.  Anche per un vivo le fiamme del Purgatorio non
+possono essere letali.  Si noti la dolcezza di questa esortazione
+di Virgilio, accentuata dall'affettuoso vocativo (|figliuol~)
+seguito dal possessivo.
+
+	|22-24.  Ricorditi~: imperativo di forma impersonale
+(cfr. ^If~ XXVIII 73; ^Pg~ V 133).  |Sovresso Ger,ion~: ^If~ XVII
+79-136.  Virgilio ricorda uno dei momenti di maggior pericolo,
+quando Dante ha sentito forse il pi@u forte spavento, e in tale
+ricordo sono impliciti i vari pericoli incontrati specialmente
+durante il viaggio attraverso l'Inferno: in ognuno di essi
+Virgilio @e stato la dolce guida e il conforto, in ognuno di essi
+ha saputo. con saggi consigli e azioni, trarre in salvo
+l'atterrito discepolo: si convinca quindi che anche questa volta
+pu@o avere fiducia in lui.  Il Porena ritiene che nell'espressione
+|E se io...~ ci sia un cambiamento di idea e perci@o pone, dopo il
+secondo |ricorditi~, i puntini di sospensione.  Non sembra
+necessario.  Penso invece che il doppio |ricorditi~ sia un
+riferimento alla lussuria di Dante, che @e giusto ora che egli
+paghi col fuoco.  Quest'ultima osservazione pu@o essere accettata
+perch$e sulla lussuria del poeta hanno parlato gli antichi
+biografi e commentatori e del resto, Dante come ha posto qui
+Guinizzelli e Daniello, cos@i poteva considerare anche per s$e
+peccaminosa la sua opera di poeta d'amore.  Vedi ^88-93 {Nota
+Bosco}~ a ^Pg~ XXVI.  Ma se il passaggio nelle fiamme pu@o essere
+una implicita confessione del peccato, tale passaggio va
+soprattutto considerato un rito simbolico vero e proprio,
+necessario d'altronde a tutte le anime che hanno raggiunto la
+purificazione, per salire all'Eden dove le attende un altro rito:
+l'immersione nel Let$e e il gustare le pure onde dell'Euno$e. 
+|Sovresso~ con il suffisso ^-esso~ rafforzativo, gi@a visto altre
+volte: perfino sopra Gerione.  |Presso pi@u a Dio~: vicini al
+momento della purificazione e quindi pi@u prossimi alla fine del
+viaggio, la visione di Dio.  A Virgilio dispiace che proprio ora,
+al termine del suo compito, non riesca, con il suo saggio
+consiglio, a convincere il discepolo, che pure, in occasioni ben
+pi@u pericolose, lo aveva seguito fiducioso.
+
+	|25-27.  alvo~: propriamente <ventre> (lat. ^alvus~), ma,
+per traslato, vale <in mezzo>.  |D'un capel calvo~: privo di un
+solo capello.  @E reminiscenza scritturale: <capillus de capite
+vestro non peribit> (<non cadr@a un capello dal vostro capo>,
+^Luc.~ XXI 18).
+
+	|29.  fatti ver' lei~: avvic@inati, acc@ostati ad essa. 
+Dunque vuol dire che dal luogo in cui sono alla fiamma c'@e una
+certa distanza.  Vedi la nota al v. 16.  |Fatti far credenza~:
+fatti dare prova, fatti assicurare.  ^Far la credenza~, era il
+termine con cui si diceva <di chi pregustava le vivande de'
+principi per assicurarli che non erano avvelenate>
+(Scartazzini-Vandelli) ed erano per lo pi@u animali.  Cfr.
+Boccaccio, ^Filocolo~ (ed. A. E. Quaglio), II 28, 9: <fate che in
+alcun modo o cane o altra bestia faccia la credenza, acci@o che
+altra persona non se ne morisse>; e ancora ^ibid.~ 33, 10; 36, 3.
+
+	|31-33.  Pon gi@u... temenza~: deponi ogni timore
+(|temenza~ @e gallicismo: prv. ^temensa~).  |Volgiti... sicuro~:
+la lez. a testo, oltre ad avere pi@u larga testimonianza, sembra
+anche poeticamente migliore rispetto a quella del '21: <volgiti
+in qua; vieni ed entra sicuro> che sembra sciatta al Chimenz: ma
+quella da lui seguita (^volgiti in qua, e vieni oltre sicuro~) @e
+filologicamente meno sicura.  |Pur fermo~: ostinatamente fermo. 
+@E ben chiaro il senso rafforzativo e continuativo di |pur.~ 
+|Contra cosc,ienza~: contro la voce della sua coscienza che lo
+esorta a fidarsi di Virgilio, specie dopo le parole dettegli (vv.
+22-27).
+
+	|34-36.  star pur~: continuare, persistere a stare.  Qui
+il |pur~ rafforza il verbo, diversamente dal verso precedente,
+dove rafforzava l'aggettivo ^fermo.~  |Fermo e duro~: i due
+aggettivi riprendono, e in un certo senso sintetizzano, lo stato
+d'animo e la condizione di immobilit@a descritti nel verso
+precedente.  |Turbato un poco~: il turbamento di Virgilio nasce
+dall'accorgersi che le sue parole sono state vane e non riescono
+a smuovere la testardaggine di Dante; non resta che tentare
+l'unico argomento convincente: Beatrice.  Si noti per@o che
+Virgilio @e turbato |un poco~, cio@e ^more sapientis~ come chiosa
+Benvenuto: il magnanimo ha ^sembianza... n$e trista n$e lieta.~ 
+|Tra... muro~: la barriera di fuoco @e l'unico ostacolo che separa
+Dante da Beatrice: questo appello, fatto al cuore piuttosto che
+alla ragione (Sapegno), @e l'unico argomento che pu@o far presa
+sull'animo di Dante.  Virgilio, soddisfatto dell'effetto di tali
+parole, sorride ^come al fanciul si fa ch'@e vinto al pome~ (45).
+
+	|37-39.  Come... vermiglio~: allusione al patetico
+racconto di Ovidio (^Met.~ IV 55-166), che molta fortuna ebbe
+nelle letterature romanze medievali.  Piramo e Tisbe erano due
+giovani babilonesi che si amavano contro il volere dei parenti:
+separati da un muro che divideva le due case contigue (Torraca
+pensa che il ^muro~ di v. 36 sia un suggerimento del paragone), i
+due non potevano che parlarsi attraverso una fessura.  Decisero
+finalmente di fuggir di casa e incontrarsi sotto un gelso, che
+sorgeva presso il sepolcro di Nino (^If~ V 59).  Al convegno
+giunse prima Tisbe, che, atterrita dall'apparire di una leonessa,
+fugg@i lasciando cadere il velo: la belva con il muso intriso di
+sangue lo fece a pezzi lacerandolo, poi si allontan@o.  Piramo,
+giunto sul luogo, visto il velo squarciato e lordo di sangue,
+credette che Tisbe fosse morta e sguainata la spada si fer@i a
+morte: il sangue zampillando dalle ferite tinse i frutti bianchi
+del gelso e bagn@o le radici dell'albero che da quel giorno
+produsse le more non pi@u bianche, ma rosse.  Tisbe, sopraggiunta
+dopo un po', vide Piramo morente e lo chiam@o, accompagnando le
+sue parole con gemiti e con lacrime: al nome di Tisbe Piramo apr@i
+gli occhi per l'ultima volta, poi mor@i.  La fanciulla si uccise
+al suo fianco.  I due primi versi ricalcano da vicino il modello
+ovidiano: <Ad nomen Thisbes oculos a morte gravatos / Pyramus
+erexit visaque recondidit illa> (<Al nome di Tisbe, Piramo alz@o
+gli occhi gravati dalla morte, e, vistala, li richiuse per
+sempre>, ^ibid.~ 145-146).  Si badi che il ^medium comparationis~
+@e solo il nome dell'amata il quale ha, sia su Piramo sia su
+Dante, un potere prodigioso.  |Allor... vermiglio~: sembra una
+zeppa erudita (il Tommaseo infatti annota: <l'ultimo verso...
+soprabbonda, a modo di parentesi erudita>), ma in realt@a @e una di
+quelle allusioni sintetiche di cui si @e fatta parola in ^Pg~ X 57
+(vedi la nota).
+
+	|40-42.  la mia... solla~: espressione ricalcata sulla
+forma dell'ablativo assoluto latino.  |Durezza~ (vedi v. 34:
+^duro~) vale <ostinazione, cocciutaggine>; |solla~ significa
+<molle, cedevole> (cfr. ^If~ XVI 28; ^Pg~ V 18).  |Rampolla~:
+<sgorga a mo' di polla> (Del Lungo); ma il vb. pu@o far pensare
+anche al germogliare delle piante: <rifiorisce>.  @E il risorgere
+continuo del nome di Beatrice nella memoria (|mente~) del poeta.
+
+	|43-45.  croll@o la fronte~: tentenn@o il capo (|fronte~). 
+Si noti l'estrema naturalezza del gesto, come delle parole che
+seguono, in tutta questa scena.  Finalmente Dante ha ceduto, si @e
+convinto, e il maestro scuote il capo soddisfatto di averla
+spuntata sulla cocciutaggine del discepolo, quasi per dire:
+<finalmente ti sei convinto!>.  |Come~: meglio, senza dubbio,
+questa <variante di intonazione> (Petrocchi) rispetto alla
+punteggiatura di altri editori: ^Come~? (cfr. ^If~ X 67). 
+|Volenci star di qua~: espressione di tono bonario che non
+nasconde una lieve punta ironica, visibile nell'uso della prima
+persona plurale e della forma interrogativa: vogliamo proprio
+starcene di qua, se di l@a c'@e Beatrice?  (|volenci~ vale
+<volemoci>, <ci vogliamo>).  |Come... pome~: come si fa con un
+fanciullo che si @e lasciato convincere con la promessa di un
+frutto (|pome~).  Anche il paragone col fanciullo, notoriamente
+simbolo di irragionevolezza, rientra nella spontaneit@a di tutta
+la scena, indubbiamente una delle pi@u vive del poema.  Per la
+forma |pome~ (= pomo) cfr. PARODI, ^Lingua~, II 245.  La forma @e
+frequente anche fuori rima (vedi pi@u avanti al v. 115).
+
+	|46-48.  innanzi mi si mise~: Virgilio, quasi per
+confermare tutto ci@o che ha detto a Dante e per farsi guida ed
+esempio, entra per primo nel fuoco.  |Retro~: da ultimo. 
+Virgilio prega Stazio di chiudere la fila perch$e Dante sia
+vieppi@u rassicurato.  Cfr. ^If~ XVII 83-84 nell'episodio di
+Gerione, espressamente richiamato qui e che ha infatti con questo
+molte somiglianze.  |Che... divise~: lungo tutto il cammino nella
+settima cornice, costretti i tre per il limitato spazio a
+camminare l'uno dietro l'altro, Dante era stato diviso dal
+maestro, perch$e Stazio camminava dietro Virgilio e davanti a
+Dante.
+
+	|49-51.  S@i com' fui dentro~: non appena fui entrato. 
+|Bogliente~: bollente, cio@e incandescente, liquefatto.  |Per
+rinfrescarmi~: l'iperbole (gettarsi nel vetro bollente per
+rinfrescarsi) sottolinea il terribile calore di quel fuoco. 
+|Sanza metro~: smisurato, senza misura.
+
+	|52-54.  Lo dolce padre mio~: <ha qui un significato ben
+pi@u intenso di questi attributi soliti di Virgilio> (Momigliano). 
+|Pur... ragionando andava~: andava parlandomi continuamente
+(|pur~).  |Li occhi~: gli occhi luminosi di Beatrice avevano
+colpito Virgilio, quando essa era scesa nel Limbo, e della loro
+bellezza luminosa aveva parlato a Dante (^If~ II 55): cos@i quegli
+stessi occhi lo avevano stimolato ad affrettarsi in soccorso del
+poeta (^If~ II 116-117).  Fin dalla ^Vita nuova~ compare il
+misterioso influsso degli occhi di Beatrice sul poeta e pi@u in
+generale su chi li guarda; tema che si svilupper@a nel senso di
+una interiorit@a sempre pi@u intensa fino a intrecciarsi con
+l'allegoria, specialmente negli ultimi canti del ^Purgatorio.~
+
+	|55-57.  una voce~: quella dell'angelo che sta al di l@a
+delle fiamme e invita i poeti a salire al Paradiso terrestre. 
+Cfr. v. 12.  |Attenti pur a lei~: continuamente (|pur~) rivolti a
+quella voce, che li guida nella cortina di fuoco.  |Fuor...
+montava~: fuori dalla fiamma, nel punto dove comincia la scala,
+che porta al Paradiso terrestre.
+
+	|58.  `Venite... mei'~: secondo il Vangelo (^Matth.~ XXV
+34), nel giorno del Giudizio universale Ges@u rivolger@a agli
+eletti queste parole, invitandoli alle gioie del Paradiso:
+<Venite, benedicti Patris mei, possidete paratum vobis regnum a
+constitutione mundi> (<Venite, o benedetti del Padre mio; venite
+a prender possesso di quel regno che @e stato preparato per voi
+dalla creazione del mondo>).  Le parole dell'angelo, che ripetono
+la prima parte dell'invito futuro di Cristo, sono in perfetta
+aderenza con la situazione presente: con esse l'angelo accoglie
+chi, compiuta gi@a la purificazione, entra nella schiera di coloro
+che godranno la beatitudine eterna.
+
+	|59-60.  un lume~: @e la luce dell'angelo che sta al di l@a
+della fiamma.  @E, presumibilmente, il custode del Paradiso
+terrestre, anche se non proprio il cherubino biblico che porta in
+mano il ^flammeus gladius.~  L'angelo custode della settima
+cornice @e gi@a stato incontrato al passo del perdono e sta prima
+della barriera del fuoco.  |Tal... potei~: non ostante che Dante
+sia gi@a alla fine del suo cammino penitenziale, la luminosit@a del
+volto dell'angelo lo costringe ancora a chiudere o a volgere gli
+occhi, non potendone sostenere il fulgore.  Ci@o perch$e Dante
+vuole sempre sottolineare la sua posizione di uomo vivo, legato
+ai sensi corporei, che porta con s$e ^quel d'Adamo.~
+
+	|62-63.  studiate~: affrettate.  Tale accezione del verbo
+@e ancora nel Boccaccio (^Decam.~ IX 6, 9).  |Mentre... si
+annera~: finch$e (|mentre che~) non scende la notte.  Per la nota
+legge del Purgatorio (cfr. ^If~ VII 44 e 50-57), anche oltre la
+cornice ultima non si pu@o procedere con le tenebre.
+
+	|64-66.  per entro 'l sasso~: anche la scala che porta al
+Paradiso terrestre, @e, come quella delle varie cornici, scavata
+nella roccia.  |Verso... basso~: verso quella parte per cui io
+impedivo il passaggio ai raggi del sole, che gi@a era basso
+sull'orizzonte, cio@e: proiettavo la mia ombra davanti a me.  La
+scala era dunque intagliata nella direzione di ponente-levante. 
+All'inizio del Purgatorio Dante cammina volgendo la schiena a
+levante (cfr. ^Pg~ III 16-18); se ora @e nella posizione opposta e
+ha la schiena volta a ponente, significa che, salendo di cornice
+in cornice, girando sempre a destra, ha percorso mezza
+circonferenza del monte.
+
+	|67-69.  di pochi... saggi~: facemmo esperienza, assaggio
+(|saggi~) di pochi scalini (|scaglion~); cio@e, facemmo appena in
+tempo a salire pochi scalini.  ^Levare il saggio~ valeva, nella
+lingua del tempo, togliere un pezzetto di minerale per saggiarlo;
+oggi diremmo: per fare l'analisi, o simili.  |Corcar~: dipende da
+|sentimmo.~  |Per l'ombra... spense~: perch$e improvvisamente, col
+tramontare del sole, l'ombra, che Dante proiettava davanti a s$e,
+scompare (|si spense~).  |Li miei saggi~: il solito epiteto di
+^saggio~ dato ai poeti (cfr. ^If~ I 89).  Si noti la rima
+equivoca: in questo caso si tratta di due sostantivi: il primo
+(^saggio~ = esperimento) deriva dal lat. tardo ^exagium~ =
+bilancia, misurazione (da ^exigere~, nel senso di <pesare>,
+<esaminare>, <misurare>), il secondo @e propriamente un aggettivo
+sostantivato dal lat. volg. ^sapius~ (cfr., in Petronio Arbitro,
+^nesapius~ <ignorante>, e l'ant. fr. ^sage~).
+
+	|70-72.  immense~: <quanto pi@u si @e in alto (e i poeti
+erano quasi alla cima del monte), tanto pi@u vasto appare
+l'orizzonte> (Chimenz).  Ma la chiosa @e ambigua.  Nello stretto
+incavo della scala, in cui si sono inoltrati i poeti, l'orizzonte
+non pu@o apparire che assai limitato, sia pure dall'alto; qui
+forse agisce sulla fantasia del poeta solo l'idea dell'alta
+montagna e quindi l'aggettivo non rispecchia la sensazione del
+Dante personaggio, ma @e suggestione del poeta nell'atto dello
+scrivere.  ^Immenso~ ha due sole occorrenze nel poema.  |Fatto
+d'uno aspetto~: tutto dello stesso colore.  |E notte...
+dispense~: il senso generale del v. @e chiaro: <prima che la notte
+diffondesse dappertutto le sue tenebre>; non cos@i letteralmente. 
+La difficolt@a sta ovviamente nella parola |dispense.~  Secondo il
+Buti, seguito da molti moderni, vale <parti> e quindi il verso
+significa: <prima che la notte occupasse tutte le parti (a lei
+assegnate, o abbandonate dal sole)>.  Secondo Benvenuto, seguito
+da altri, varrebbe <esenzione> (^dispensationes~), quindi <prima
+che la notte fosse tutta libera>, cio@e <prima che alla notte
+fosse data ogni licenza di fare a suo beneplacito> (Torraca), che
+sembra interpretazione un po' stiracchiata.  Il Pietrobono
+intese, parafrasando: <prima che la notte avesse in cielo tutto
+ci@o che il giorno tien chiuso nelle sue dispense: prima che la
+notte aprisse tutte le stelle>; interpretazione pi@u poetica che
+convincente.
+
+	|73-75.  d'un grado... letto~: si coric@o su uno scalino. 
+|Ci affranse~: ci fiacc@o: regge |la possa~ e |'l diletto~ del
+verso successivo.  |La possa... 'l diletto~: la forza (|possa~) e
+il desiderio (|diletto~) di salire ancora (|pi@u~).
+
+	|76-87 {Nota Bosco}.~  Si noti l'insistenza sulla doppia
+similitudine delle capre (76-87) viste in due diversi momenti:
+quando nel meriggio, dopo aver brucato, se ne stanno mansuete e
+sdraiate all'ombra, esse che erano state prima saltanti qua e l@a
+sulle cime in cerca di cibo (|rapide~), erette nel corpo
+(|proterve~); e nella notte, dormienti quiete sotto la guardia
+del quieto pastore.  Nel momento di avventurarsi da solo
+nell'affascinante misterioso inquietante mondo dei due paradisi,
+Dante gode un momento di sicurezza, felice di essere ancora
+vigilato e protetto.
+
+	|76-84.  Quali... sperga~: seguono due similitudini:
+delle capre guardate dal pastore, e del mandriano che sorveglia
+il suo <pecuglio>: un unico quadro, ma quasi diviso in due
+scomparti.  Elementi del primo anticipano il secondo ed elementi
+di questo proseguono il primo; ma se la sostanza compositiva
+sembra la stessa, non @e la stessa l'angolazione da cui i due
+quadri sono visti.  Nel primo stanno, per cos@i dire, in primo
+piano le |capre~ e la scena rispecchia la situazione di Dante,
+anche se sullo sfondo c'@e il |pastor~, che richiama l'azione di
+Virgilio e Stazio.  Nel secondo, in primo piano sta il
+|mandriano~ e si riferisce quindi ai due poeti antichi, anche se,
+pur in questo, sullo sfondo della scena c'@e |il pecuglio~, che
+ovviamente si riferisce a Dante.  La scena bucolica ha la sua
+nobilitazione letteraria nell'opera di Virgilio, senza avere,
+naturalmente, nessuna venatura arcadica, ma non @e estranea forse
+neppure a un'ascendenza cristiana con richiamo specifico al Buon
+Pastore (U. Leo, citato dal Mattalia).
+
+	|76-78.  ruminando~: cfr. v. 91.  |Manse~: mansuete.. 
+|Rapide e proterve~: veloci e petulanti (<oves haedique petulci>,
+Virg. ^Georg.~ IV 10).  Qualcuno intende |rapide~ come <rapaci>,
+secondo Benvenuto; significato di cui Contini <non ^sa~
+persuader^si~>.  |Pranse~: pasciute, sazie (lat. ^pransae~).
+
+	|79-81.  ferve~: arde.  @E l'ora del mezzogiorno estivo. 
+|Poggiato... serve~: la lez. del '21, e altre con lei, era:
+^poggiato s'@e e lor poggiato serve.~  Ma gi@a il Barbi osservava
+(^Nuova filologia~, 20): <|lor di posa serve~ @e lezione assai pi@u
+opportuna, perch$e con essa vien meglio espresso il concetto di
+riposo consentito alle capre, e per conseguenza a Dante, che di
+riposo, per essere in Purgatorio col suo corpo, aveva bisogno;
+laddove la variante ^lor poggiato serve~, che accenna al concetto
+di custodire il gregge dai pericoli a cui pu@o andare incontro,
+come sarebbe a suo posto nel secondo paragone, in questo primo
+vien ad essere un puro riempitivo>; documentando il valore di
+^servire di~ nel senso di <provvedere alcuno di una cosa,
+concedere>.  Il Petrocchi ha poi dimostrato (I, 212-213) che la
+lezione a testo ha miglior conforto dalla tradizione manoscritta,
+oltre il vantaggio di essere ^lectio difficilior.~  Il verso va
+dunque inteso: <il pastore s'@e poggiato sulla verga e concede
+alle capre il riposo>.  Il Mattalia, che accetta la lezione del
+'21, pensa che il secondo ^poggiato~ venga da ^poggio~ e valga
+<su un'altura>.  Con la lezione a testo cade l'aporia.
+
+	|82-84.  fori alberga~: s'@e accampato fuori casa, o,
+meglio, fuori dell'abitazione, in aperta campagna.  |Pecuglio~:
+gregge (lat. ^peculium~) con palatalizzazione del nesso ^l~ pi@u
+^j~ (cfr. it. <figlio> da ^filius~, <famiglia> da ^familia~,
+ecc.).  Con la stessa variante formale, ma con senso traslato, in
+^Pd~ XI 124.  |Sperga~: disperda.
+
+	|85-87.  allotta~: allora, forma pi@u volte vista (cfr.
+^If~ V 53, XXXI 112, ecc.).  |Fasciati... grotta~: stretti,
+chiusi da una parte e dall'altra.  Dante non pu@o vedere che una
+piccola parte del cielo, stretto com'@e tra le alte e strette
+pareti della scala.
+
+	|90.  di lor solere~: del loro solito: |solere~ @e inf.
+sostantivato.  |Pi@u chiare e maggiori~: molti commentatori
+riportano la spiegazione dell'Antonelli: <L'accresciuta chiarezza
+si spiega con l'aumentata purit@a e finezza dell'aria in
+quell'alta regione: e quanto alla parvenza di pi@u grande volume,
+bisogna dire che il poeta credesse di avere salito tanto da
+essersi avvicinato in modo apprezzabile alla sfera stellata, s@i
+che le stelle dovessero comparire pi@u grandi; concetto che per la
+dottrina di quel tempo sulla distanza di questi astri, niente ha
+di assurdo>.  Ma qui, @e indubbia una implicazione morale: non si
+dimentichi che in quella parte del firmamento Dante vede stelle
+^non viste mai fuor ch'a la prima gente~, stelle, in sostanza,
+simboliche (cfr. ^Pg~ I 22-27 e 37-38 e VIII 89-93).
+
+	|91-108 {Nota Bosco}.~  L'attenzione del lettore di
+questo canto deve essere richiamata su altri punti.  Dante ha qui
+il terzo dei tre sogni profetici del Purgatorio (gli altri due
+sono nei canti IX e XIX: sulla disposizione simmetrica di essi,
+vedi ^13-33 {Nota Bosco}~ a ^Pg~ IX): sogna una giovane e bella
+donna che va cogliendo fiori e canta.  Dice ella stessa d'essere
+Lia, e collega subito strettamente a s$e sua sorella Rachele,
+dichiarando la simbologia di entrambe: lei rappresenta la vita
+attiva, la sorella la vita contemplativa: |lei lo vedere, e me
+l'ovrare appaga~ {108}.  La dichiarazione della simbologia @e in
+Dante esplicita sulla base d'un'univoca esegesi biblica; i
+commentatori dunque non sollevano, n$e potrebbero farlo, alcun
+dubbio in proposito.  Lia @e l'evidente prefigurazione di Matelda,
+che ci apparir@a nel canto successivo: anche questa @e una bella
+donna che canta e coglie fiori per farsene una ghirlanda;
+sembrerebbe dunque che Lia e Matelda, come la figura, cos@i
+dovessero avere comune la simbologia: la seconda rappresenterebbe
+perci@o la vita attiva.  Ai molti e valenti sostenitori di questa
+tesi resta da spiegare perch$e Lia si associ Rachele; essi
+ritengono che quest'ultima preannunci Beatrice senza prefigurarla
+se non nel particolare della bellezza degli occhi (vv. 54 e 106);
+Beatrice dunque impersonerebbe, oltre la teologia, anche la vita
+contemplativa in genere.  A sostegno di questa opinione si reca
+anche il fatto che due volte nel poema ^If~ II 102; ^Pd~ XXXII
+8-9) @e detto che Beatrice e Rachele siedono nell'Empireo l'una
+vicina all'altra.  Si pu@o osservare che la bellezza degli occhi @e
+un ^topos~ stilnovistico largamente diffuso, e che il loro
+splendore @e attributo anche di Matelda (^Pg~ XXVIII 63-66);
+d'altra parte, la vicinanza nell'Empireo pu@o spiegarsi con altre
+ragioni: per es., Giacobbe per avere Rachele serv@i sette e poi
+altri sette anni, circostanza ricordata espressamente da Dante
+(^If~ IV 60): il che potrebbe rievocare il lungo `servizio'
+d'amore di Dante per Beatrice viva e morta.  Ma l'obiezione
+fondamentale alla tesi vulgata @e che sembra improprio (e sarebbe
+caso unico nel poema) caricare Beatrice, in proporzioni cos@i
+macroscopiche, d'un significato allegorico doppio, anche se la
+scienza teologica appartenga alla sfera contemplativa.  Si resta
+dunque perplessi; ma quando si rifletta che il Paradiso terrestre
+@e la sede della felicit@a che si pu@o godere sulla terra e si pu@o
+raggiungere con le sole forze umane, come ci dice Dante stesso
+(<beatitudinem... huius vitae... per terrestrem paradisum
+figuratur>, ^Mn~ III xv 7), e che, d'altra parte, la felicit@a
+consiste non nel solo operare, ma nell'operare congiunto col
+contemplare (<l'uso del nostro animo @e doppio, cio@e pratico e
+speculativo..., l'uno e l'altro dilettosissimo...  E questo come
+quell'altro @e nostra beatitudine e somma felicitade>, ^Cv~ IV
+xxii 10-11); quando si rifletta a ci@o, si @e portati, con
+interpreti ugualmente valenti anche se meno numerosi, a ritenere
+che Matelda-felicit@a impersoni la vita attiva e la contemplativa
+congiunte, e che quindi ella sia preannunciata da Lia e Rachele
+insieme.  Bisogna poi osservare che continua in questo canto il
+gi@a visto recupero dello stilnovo: qui non pi@u sul versante
+dottrinale e letterario, ma su quello tematico: bellezza
+femminile, amore, fiori, canto.  Ci@o assumer@a grande rilievo nel
+canto seguente; ci torneremo dunque in quella sede; citeremo qui
+una sola delle congruenze tra questo canto e Dante stilnovista:
+Lia @e una donna |giovane e bella~ {97} come la donna gentile
+della ^Vita nuova~ era <giovane e bella molto>, <bella, giovane e
+savia>, ^Vn~ XXXV e XXXVIII.  Ma qui abbiamo addirittura una
+rievocazione diretta del clima realistico-autobiografico del
+libello giovanile e delle rime di quel tempo: solo il non spento
+amore terreno di allora varr@a a persuadere Dante a traversare il
+fuoco; i canti seguenti, XXX-XXXI, saranno sotto il segno appunto
+dell'^antico amor~, che lo aveva trafitto prima che fosse uscito
+di puerizia.
+
+	|91-93.  ruminando~: ripensando alle cose viste e ai
+fatti accaduti: dunque @e la stessa notazione di ^Pg~ XVIII 145:
+^'l pensamento in sogno trasmutai.~  La metafora riprende la
+similitudine delle capre (76).  |In quelle~: le stelle.  |Anzi...
+novelle~: cfr. ^If~ XXVI 7; ^Pg~ IX 16-18.  Sul valore profetico
+dei sogni fatti prima dell'alba vedi la nota a ^Pg~ IX 18.
+
+	|94-96.  Ne l'ora... ardente~: anche il terzo sogno di
+Dante si apre con l'indicazione dell'ora antelucana (cfr. ^Pg~ IX
+13-18 e XIX 1-6), e tutti e tre i passi relativi s'iniziano con
+lo stesso stilema (|Ne l'ora che~) creando immediatamente una
+vaga suggestione nel lettore, come d'inatteso prodigio.  Anche
+qui siamo in un momento significativo del viaggio: la
+purificazione @e compiuta, Dante sta per entrare nel Paradiso
+terrestre.  La terzina significa: nell'ora in cui il pianeta
+Venere (|Citerea~) mand@o dall'oriente i suoi primi raggi sul
+monte del Purgatorio; cio@e sorse.  Dante aveva gi@a detto Venere
+sorgere sull'orizzonte poco prima dell'alba in ^Pg~ I 19-21. 
+|Citerea~: nome dato a Venere per il culto, di cui era
+particolarmente fatta segno nell'isola di Citera.  |Che...
+ardente~: la proposizione si riferisce a Venere dea, anche se qui
+Dante vuole intendere il pianeta di quel nome.  In ^Pg~ I 19
+aveva detto di esso che ^d'amar conforta.~  Anche qui il poeta
+rappresenta il pianeta di Venere mattutino, mentre in realt@a nel
+1300, in quel periodo, era vespertino (vedi la nota a ^Pg~ I 21):
+certo Dante attribuisce alla presenza di quel pianeta un valore
+simbolico, che ci sfugge.  Per l'espressione |foco d'amor~ vedi i
+richiami alla lirica cortese fatti dal Contini (^Varianti~,
+464-466).
+
+	|97-98.  giovane e bella~: nella Bibbia Lia non @e bella
+(^lippis erat oculis~), ma Dante ne fa una giovane e bella donna,
+forse, secondo il Pazzaglia, sotto il suggerimento di Riccardo da
+San Vittore, che rifiuta l'immagine tradizionale, o, pi@u
+probabilmente, perch$e le prefigurazioni di Matelda e di Rachele
+danno l'avvio alla ripresa di toni stilnovistici.  Sul valore
+simbolico, vedi ^91-108 {Nota Bosco}.~  |Landa~: pianura,
+campagna (cfr. ^If~ XIV 8).
+
+	|101-102.  Lia~: figlia di Labano e prima moglie di
+Giacobbe (^Gen.~ XXIX 16 ss., XXX 17 ss., XLIX 31).  Non bella,
+ma feconda, a differenza di sua sorella Rachele (vedi oltre, v.
+104), fu, nella tradizione esegetica della Bibbia, considerata
+simbolo della vita attiva; cfr. Tommaso, ^Summa theol.~ II-IIIae,
+q. CLXXIX, a. 2: <Istae duae vitae significantur per duas uxores
+Iacob: activa quidem per Liam, contemplativa vero per Rachelem>
+(<Queste due vite [la attiva e la contemplativa] vengono
+significate per mezzo delle due mogli di Giacobbe: l'attiva per
+mezzo di Lia, la contemplativa di Rachele>).  L'esempio della
+vita attiva @e qui simboleggiato dal muoversi delle |belle mani~
+per fare la ghirlanda.
+
+	|103.  a lo specchio~: per alcuni Dio, per altri la
+propria coscienza.  A sostegno di quest'ultima interpretazione il
+Pazzaglia (^Nuove letture~, V, 125-126) riferisce un passo di
+Riccardo da San Vittore: <Praecipuum et principale speculum ad
+videndum Deum animus rationalis absque dubio invenit seipsum>
+(<Precipuo e principale specchio per vedere Dio, l'anima
+razionale, senza dubbio, lo ritrova in se stessa>).  |Addorno~:
+adorno: con raddoppiamento gi@a visto (cfr. ^Pg~ IX 54).
+
+	|104-105.  Rachel~: figlia di Labano e seconda moglie di
+Giacobbe (^Gen.~ XXIX 9 ss., XXX 22 ss., XXXI 19 ss., XXXV 16
+ss.); bellissima, ma sterile, fu considerata simbolo della vita
+contemplativa (cfr. Gregorio Magno, ^Moral.~ VII 28).  |Si
+smaga~: si allontana, si distoglie (cfr. ^Pg~ X 106). 
+|Miraglio~: specchio (provenzalismo, ant. prv. ^miralh~).  Qui @e
+usato in senso traslato; significa la contemplazione.  |Siede~:
+Benvenuto: <quiescit in contemplatione>.
+
+	|106-108.  Ell'@e... vaga~: ella @e desiderosa (|vaga~) di
+vedere i suoi begli occhi.  |Addornarmi~: come ^addorno~ di v.
+103.  |Lei... ovrare~: la vita contemplativa (|vedere~) e la vita
+attiva (|ovrare~ = operare).
+
+	|109-114 {Nota Bosco}.~  La gioia dell'arrivo finalmente,
+alla meta extra-umana, @e paragonata (110-111) a quella d'un uomo
+comune che torna alla sua casa, e man man che si avvicina <ad
+ogni aurora cresce la gioia del destarsi> (per dirla col
+Manzoni).
+
+	|109-111.  splendori antelucani~: il chiarore riflesso,
+diffuso nel cielo, che precede la luce solare, cio@e l'alba.  Si
+suol citare Dante stesso (^Cv~ III xiv 5) <l'usanza de' filosofi
+@e di chiamare `luce' lo lume, in quanto esso @e nel suo fontale
+principio [cio@e che emana direttamente]...; di chiamare
+`splendore' in quanto esso @e in altra parte alluminata ripercosso
+[riflesso]>.  |Pellegrin~: chi @e lontano dalla patria (vedi nota
+a ^Pg~ II 63 e XIII 96).  |Pi@u grati... lontani~: sono tanto pi@u
+graditi, quanto meno lontani si trovano dalla loro patria.
+
+	|113.  leva'mi~: levaimi, mi levai; con il fenomeno, gi@a
+visto, della caduta della sillaba finale davanti a pronome atono.
+
+	|115-117.  Pome~: per la forma, cfr. in questo canto il
+v. 45.  Qui per metafora vale <quel bene che gli uomini anelano
+di raggiungere>, cio@e la felicit@a terrena che <per terrestrem
+paradisum figuratur> (^Mn~ III xv 7).  |Per tanti rami~: in modi
+diversi: continua il linguaggio figurato, coerentemente alla
+prima metafora.  |Cercando... mortali~: cfr. Boezio (^Cons. Ph.~
+III pr. 2) qui echeggiato da Dante: <Omnis mortalium cura quam
+multiplicium studiorum labor exercet, diverso quidem calle
+procedit, sed ad unum tamen beatitudinis finem nititur pervenire. 
+Id autem est bonum quo quis adepto nihil ulterius desiderare
+queat> (<Tutta la cura dei mortali, affaticata dal travaglio di
+molteplici affetti, procede, @e vero, per vie diverse, ma si
+sforza tuttavia di raggiungere un fine solo, cio@e quello della
+felicit@a.  E la felicit@a @e quel cos@i grande bene, che colui, il
+quale l'abbia una volta conseguito, nessun'altra cosa pu@o pi@u
+desiderare>; trad. U. Moricca).  Per l'espressione |cura de'
+mortali~ cfr. ^Pd~ XI 1.  |Porr@a... fami~: continua la metafora:
+porr@a fine al tuo desiderio.
+
+	|118-120.  queste cotali~: cos@i alte, cos@i solenni. 
+|Strenne~: fu inteso in due modi: <doni augurali> e <lieti
+annunzi>.  ^Strenna~ chiamavano i Romani un donativo augurale che
+si faceva il primo gennaio come offerta alle persone care in
+segno di affetto e d'intercessione propiziatoria.  Ma poich$e il
+<dono> diventava per cos@i dire un segno di buona fortuna, era
+facile il passaggio al significato di <annunzio>, <augurio>.  Di
+qui il Lana che chiosa: <|strenne~: cio@e novelle>.  Il BARBI
+(^Problemi~ I 283-284), portando esempi trecenteschi (Cavalca,
+Passavanti, Giordano da Rivalto), afferma che nel contesto di
+Dante `annunzio' torna meglio assai che `dono'.  |Che fosser...
+iguali~: che fossero cos@i piacevoli, che dessero tanto piacere
+come queste.  |Queste~ andr@a riferito a |parole~, che sono le
+|strenne~ di Virgilio.
+
+	|121-123.  voler sopra voler~: alla volont@a di Dante di
+salire rapidamente all'Eden s'aggiunge una nuova ^volont@a~, un
+nuovo desiderio, infuso in lui dalle parole di Virgilio, che
+promettevano il raggiungimento prossimo di un tale bene.  |De
+l'esser s@u~: di trovarsi sulla cima della montagna dell'Eden. 
+|Le penne~: con analoga metafora, le ali, cio@e la lena.  Virgilio
+aveva pi@u volte detto a Dante che alla fine della montagna egli
+si sarebbe sentito leggero e il suo salire sarebbe divenuto
+facile (cfr. ^Pg~ IV 91-94, XII 121-126).
+
+	|125.  fu corsa~: fu percorsa rapidamente.  |Grado
+superno~: sul gradino pi@u alto, l'ultimo: siamo sulla soglia del
+Paradiso terrestre, il luogo ^fatto per proprio de l'umana spece~
+(^Pd~ I 57).
+
+	|127-142 {Nota Bosco}.~  La solennit@a religiosa
+sottolineata anche dall'elevarsi dello stile, del commiato di
+Virgilio, @e leggermente venata dalla malinconia `privata' del
+maestro che lascia il discepolo, e che ha, lui, la prospettiva di
+dover lasciare quel mondo di luce, di pieno appagamento cui @e
+giunto, per tornare, e restarvi per sempre, l@a dove @e solo desio
+senza speranza.
+
+	|127.  disse~: sono le ultime parole di Virgilio.  D'ora
+in poi lo vedremo seguire con Stazio il discepolo ormai libero,
+lo vedremo ancora una volta umanamente sorridere (^Pg~ XXVIII
+146), rispondere con uno sguardo stupito ad una muta
+interrogazione degli occhi di Dante (^Pg~ XXIX 57); ma dopo che
+sar@a apparsa Beatrice velata, egli sparir@a all'improvviso e
+lascer@a nel poeta un doloroso vuoto.  La sua figura, cos@i
+profondamente umana, si @e venuta arricchendo di canto in canto di
+particolari delicati e gentili; era diventata per il lettore,
+come per Dante, una indispensabile compagnia.  In queste parole
+di commiato non c'@e nessun abbandono sentimentale o retorico:
+tutto @e contenuto in un tono fermo e pur solenne: tali parole
+sono la definitiva conclusione del lungo sapiente magistero di
+questa guida eccezionale.  |Temporal foco e l'etterno~: le pene
+del Purgatorio, limitate nel tempo, e quelle dell'Inferno eterne;
+cfr. Tommaso, ^Summa theol.~ Suppl., q. 1, a. 2: <Poena
+damnatorum est aeterna... sed purgatorius ignis est temporalis>
+(<La pena dei dannati @e eterna... ma il fuoco del Purgatorio @e
+limitato nel tempo>).
+
+	|128-129.  in parte~: in un luogo, cio@e nel Paradiso
+terrestre.  |Dov'io... discerno~: la ragione umana, simboleggiata
+da Virgilio, con le sue sole forze (|per me~) non pu@o pi@u essere
+di guida.
+
+	|130.  con ingegno e con arte~: con gli espedienti che di
+volta in volta la ragione sa trovare (|ingegno~) e con il metodo
+di applicarli (|arte~).  Ma pu@o essere anche un'endiadi: <con
+ogni accorgimento>.  I due termini sono uniti anche in ^Pg~ IX
+125.  Tali mezzi sono indicati nel ^Monarchia~ come <phylosophica
+documenta>, a patto per@o che si seguano <secundum virtutes
+morales et intellectuales operando> (III xv 8).
+
+	|131-132.  per duce~: per guida.  |Erte~: ripide. 
+|Arte~: strette (lat. ^artae~).  Si noti il bisticcio e la rima
+equivoca con il v. 130.  Dante ha raggiunto ormai la libert@a
+spirituale: le vie |erte~ e |arte~ non sono da intendersi solo in
+senso materiale, ma anche, e soprattutto, in senso spirituale.
+
+	|133-135.  lo sol~: assume ora pi@u apertamente il valore
+simbolico della Grazia divina: essa sola ormai sar@a di guida al
+poeta.  |L'erbette... produce~: @e preludio alla descrizione del
+Paradiso terrestre, che avverr@a nel canto successivo.
+
+	|136-137.  Mentre che... fenno~: finch$e verr@a Beatrice. 
+Ma il ricordo degli |occhi belli~ che |lagrimando~ spinsero
+Virgilio ad accorrere pi@u sollecito in soccorso di Dante (^If~ II
+116-117), salda organicamente e strutturalmente (|lagrimando~
+compare sia qui che in ^If~ II 116) la fine della seconda cantica
+con l'inizio della prima.  A proposito dell'epiteto |lieti~,
+qualcuno osserva che gli occhi di Beatrice rampognante saranno
+tutt'altro che lieti; ma lo erano prima e lo saranno dopo. 
+Comunque |lieti~ si contrappone a |lagrimando.~
+
+	|140-141.  libero~: <dalla servit@u del peccato> (Buti). 
+|Dritto~: raddrizzato, diretto nella direzione giusta, non pi@u
+distorto dal male.  |Sano~: integro.  Secondo il Porena, |dritto~
+e |sano~ sono sinonimi <perch$e la sanit@a del volere consiste
+appunto nell'esser retto>.  |Arbitrio~: volont@a.  |Fallo...
+senno~: sarebbe (|fora~) un errore (|fallo~) non seguirlo, non
+assecondarlo, cio@e non fare |a suo senno.~  Il Contini
+(^Varianti~, 469) fa notare l'allitterazione.
+
+	|142.  per... mitrio~: il verso significa: ti proclamo
+signore di te stesso; ma l'espressione |corono e mitrio~, vera
+dittologia sinonimica, va inteso come una formula fissa (il
+Contini ricorda, con lo Scartazzini <coronatus et mitratus ivit
+cum Domino Papa> di un testo laziale del primo Duecento su Ottone
+IV), da cui sono da escludere assolutamente implicazioni
+politiche, sostenute da alcuni antichi interpreti, di una
+investitura cio@e temporale e spirituale, la quale ultima @e
+estranea completamente al simbolo di Virgilio, quale appare nel
+poema.

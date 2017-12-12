@@ -1,0 +1,590 @@
+	|SUMMARIUM.~  CANTUS DECIMUS TERTIUS, ^in quo praedictus
+sanctus Thomas solvit aliquas dubitationes.~
+
+	|Proemio.~  ^IMMAGINI chi bene intender cupe.~  Postquam
+in superiori capitulo proxime praecedenti autor noster descripsit
+vitam beati Dominici, quae faciebat ad plenam solutionem primi
+dubii; nunc consequenter in isto XIII capitulo intendit solvere
+secundum dubium.  Et praesens capitulum potest breviter dividi in
+tres partes generales; in prima quarum manifestat duas coronas
+superius descriptas per unam similitudinem sive imaginationem
+similitudinariam.  In secunda solvit dubium, ibi: ^Poi che
+tanto.~  In tertia dat unum praeceptum monitorium circa
+solutionem dubiorum et responsionem quaesitorum, ibi: |E questo.~ 
+
+	|1-15.~  Ad primum ergo dico quod autor explicat
+suprascriptas coronas apparentes in spera solis per unam
+similitudinem imaginativam.  Ad cuius intelligentiam est primo
+notandum quod autores astronomiae faciunt sex differentias
+quantitativas in stellis octavae sperae; et minores et
+nubilosiores posuerunt in sexta differentia et magnitudine. 
+Illae de prima magnitudine sunt quindecim etc.  Modo ad
+propositum autor vult dicere sententialiter in effectu: si vis
+bene intelligere formam et ordinem duarum coronarum superius
+descriptarum facias in mente tua talem imaginationem: collige
+quindecim stellas maioris magnitudinis, deinde septem quae
+faciunt plaustrum in polo nostro, deinde duas quae sunt in
+principio minoris ursae, et sic habeas viginti quatuor
+clarissimas stellas: ex his viginti quatuor constitue duos
+circulos aequales, utrumque duodecim stellarum, et isti duo
+circuli contineant unus alterum, et moveantur aequaliter unus
+contra alterum etc.  His notatis, litera facititer patebit, nec
+oportet facere demonstrationem per literas alphabeti ^a, b~,
+sicut multi faciunt, magis confundentes quam declarantes
+phantasias minus intelligentium; nunc ergo volens autor
+exemplificare dictas circulationes invitat nostram imaginativam
+ad imaginandum.  Expone sic literam et ordina: |Chi~, idest
+quicumque, |cupe intender bene~, idest, desiderat plene
+intelligere, |quel ch'io or vidi~, de duabus coronis, |immagini~,
+et imaginando, |ritegna l'image~, idest, imaginationem, |come
+ferma rupe~, idest, firmam et immobilem velut saxum, |mentre
+ch'io dico~, idest, interim dum do exemplum pulcrum et proprium,
+ad intelligendum.  Imaginetur ergo: |quindici stelle~, scilicet
+de maiori magnitudine, |che in diverse plage~, idest, quae
+stellae in diversis partibus coeli, |avvivan lo cielo~, idest,
+illustrant, |di tanto sereno~, idest, tanto lumine, |che
+soverchia ogni compage dell'aere~, idest vincunt omnem aliam
+aggregationem aeteris, sive sit gallasia, sive quaecumque alia
+constellatio: deinde, |immagini quel carro~, idest, illam
+constellationem quae dicitur ursa maior vel minor, et appellatur
+currus similitudinarie, quia constat ex stellis septem, quarum
+quatuor sunt quasi quatuor rotae pares in curru, duae tamquam
+boves, septima sicut bubulcus ducens currum, et istae stellae
+moventur circa nostrum polum septemtrionalem, et sunt perpetuae
+apparitionis; unde dicit: |a cui il seno del nostro cielo~,
+idest, capacitas nostri hemisperii superioris, |basta notte e
+giorno~, quia continuo illuminat nostrum hemisperium nocte et
+die; unde navigantes semper sequuntur tramontanam quae est ibi;
+unde dicit: |s@i ch'al volger del temo non vien meno~, idest, non
+disparet in revolutione sua; describit ergo unum brevem circulum
+et numquam facit occasum sicut aliae stellae.  Deinde, |immagini
+la bocca~, idest, stellas duas maiores in ore minoris ursae, quae
+minor ursa est facta ad modum cornu.  Unde dicit: |di quel corno
+che si comincia in punta~, idest in polo, |dello stelo~, idest,
+axis.  Ad quod notandum quod axis coeli appellatur linea recta,
+quae est ab uno polo ad alium polum, sicut est in nostro curru
+materiali ille axis ab una rota ad aliam; puncta ergo axis facit
+polum circa quem volvuntur ursa maior et minor.  Et dicit: |a cui
+la prima rota va dintorno~; et hic nota quod istud communiter
+exponitur, quod prima rota praedicti currus minoris ursae movetur
+circa punctam sive polum.  Potest tamen subtilius intelligi quod
+prima rota, idest primum mobile quod movetur super duas
+extremitates axis; et dicit hoc ad differentiam poli zodiaci, qui
+distat ab isto per quadraginta gradus; imaginetur dico praedictas
+omnes stellas aggregatas in unum, |aver fatto di s@e duo segni in
+cielo~, idest, duas coronas tales, supple, |qual~, scilicet,
+coronam, |fece la figliuola di Minoi~, idest, Ariadna, |allora
+che sent@i il gelo di morte~, idest tempore mortis suae.  Ad quod
+est breviter sciendum quod dum Theseus dux Athenarum reverteretur
+ab insula Creta devicto Minotauro, et duceret secum duas filias
+regis Minois, scilicet Phaedram et Ariadnam, ut scriptum est in
+Inferno, dereliquit Ariadnam, quam promisit capere in uxorem in
+insula deserta nomine Chio dormientem, quam Bacchus stupravit: et
+illa mortua translata est in coelum et conversa in
+constellationem quae dicitur Corona.  Et hic nota quod secundum
+astrologos Corona, de rei veritate, est una constellatio facta ex
+pluribus stellis in modum coronae sive circuli, sicut patet ad
+visum respicientibus.  Ad propositum ergo vult dicere autor, quod
+tales erant illae coronae fulgentes in spera solis, qualis est
+illa constellatio in coelo, quae dicitur Corona, quae est et
+constat etc.  
+
+	|16-18.~  Et subdit: |e l'uno aver~, idest, reflectere,
+|li raggi suoi nell'altro~; et hic nota quod istae animae duarum
+coronarum ibant oppositae, ita quod una habebat visum volutum
+visui alterius, more duorum tripudiorum; et oculi illorum unius
+coronae jaciebant radios in oculos animarum alterius coronae ad
+maiorem laetitiam et gaudiosiorem cantum.  Et dicit: |ed
+ambedue~, idest, et ambo praedicta signa coronarum, |girarsi per
+maniera~, idest, circulari, per modum quod una iret contra aliam,
+unde dicit: |che l'uno~, scilicet signum secundum, |andasse al
+primo~, idest, contra primum, |e l'altro~, scilicet, signum
+primum, |al poi~, idest, contra signum secundum quod postea
+venit.  
+
+	|19-21.  Ed avr@a.~  Hic autor concludit, quod ille talis
+qui fecerit talem imaginationem faciliter poterit intelligere
+dictas coronas; unde dicit: |Ed avr@a quasi l'ombra~, idest,
+similitudinem vel exemplum, |della vera costellazione~, quasi
+dicat, per istam imaginariam constellationem, quam docui eum
+facere, intelliget constellationem veram viginti quatuor
+stellarum, de qua loquutus sum supra, |e della doppia danza~,
+idest circulationis dictarum coronarum quodammodo tripudiantium. 
+Unde dicit: |che circulava il punto dov'io era~, scilicet cum
+Beatrice, quia eramus tanquam centrum in medio.  Et imaginare,
+lector, quantum praedicta imaginatio sive comparatio sit
+pulcerrima et propriissima ad propositum; sicut enim in maxima
+multitudine stellarum coeli sunt aliquae paucae maiores et
+luminosiores; ita et in magno numero doctorum sunt aliqui maiores
+et clariores; et sicut stellae ipsae sunt in diversis partibus
+coeli; ita isti doctores veniunt a diversis plagis et provinciis,
+sicut unus ab Italia, alter a Gallia, alter ab Hispania, et ita
+de multis.  Et sicut dictae stellae irradiabant se mutuis radiis,
+ita isti doctores illuminant se invicem radiis scripturarum
+missarum ab uno ad alium et exponentium unius aliam, et ita de
+multis quae per te videas etc.
+
+	|22-30.  Poi che tanto.~  Ista est secunda pars
+generalis, in qua autor solvit secundum dubium quod restabat; et
+primo ad apparandum Thomam de Aquino ad loquendum describit
+quietationem motus et cantus animarum dictarum coronarum, quem
+motum et cantum exprimit per unam comparationem pulcram et
+propriam; quae comparatio stat in hoc, quod motus et cantus
+illarum coronarum superavit tantum motum et cantum nostrarum
+dantiarum, quantum motus firmamenti excedit motum unius stagni
+mortui.  Nunc ad literam, construe et ordina sic: |Il cantar e il
+volger sua misura~, quia cantus duravit tantum quantum
+circulatio, et ita finivit simul secum pariter, |e quei santi
+lumi~, idest, sancti doctores luminosi, |attesersi a noi~,
+quietatione facta, |felicitando s@e di cura in cura~, quia
+feliciter fecerant motum et cantum, et ita feliciter cessaverunt
+ab utroque, sicut jam aliis vicibus fecerant, quasi dicat, dando
+sibi tempus in diversis actibus.  Et hoc dico fecerunt, |poich@e
+li si cant@o non Bacco, non Peana~, quasi dicat: ibi non
+laudaverunt pluralitatem deorum more gentilium paganorum, quorum
+duo, Apollo et Bacchus, erant dii praecipui poetarum maxime
+celebrati et cantati carminibus eorum, sicut jam declaratum est
+primo capitulo huius Paradisi.  Est enim Pean unum de nominibus
+solis, ut patet apud omnes poetas, sic dictus; sed ibi cantata
+fuit Trinitas in unitate et humanitas in divinitate; unde dicit:
+|ma tre persone in divina natura~, supple, cantatae fuerunt ibi;
+|ed essa~, scilicet natura divina, |e l'umana~, scilicet, natura,
+|in una persona~, scilicet, Christi.  Et hoc dico
+incomparabiliter et per infinitum excessum ad nostrum cantum;
+unde dicit: |tanto di l@a da nostra usanza~, scilicet, terrena,
+|quanto il ciel ch'avanza tutti gli altri~, idest, octava spera
+quae excedit motum uniuscuiusque sperae, vel primum mobile quod
+movetur ab oriente in occidentem, et revertitur in orientem in
+viginti quatuor horis, |si muove di l@a dal muover della Chiana~,
+quae est pigerrima, cuius motus est insensibilis.  Est enim
+Chiana vallis palustris in Tuscia, de qua dictum est in Inferni
+capitulo. 
+
+	|31-33.  Ruppe.~  Hic autor introducit iterum Thomam de
+Aquino ad solvendum secundum dubium; et dicit quod omnibus
+animabus illarum coronarum sic quiescentibus a motu et cantu una
+illarum rupit silentium; unde dicit: |La luce~, scilicet, Thomae
+de Aquino, |in che~, idest, in qua luce, |mirabil vita del
+poverello~, idest, Francisci, |narrata fumi~, quia supra Thomas
+narravit autori vitam beati Francisci qui summe dilexit
+paupertatem amore Christi |ruppe 'l silenzio~, quia coepit loqui
+caeteris tacentibus, |nei concordi numi~, idest, in illis beatis
+qui tam concorditer conveniebant in omni eorum actu, quos autor
+vocat numina, idest deos participatione, quia participant de
+divina bonitate.  
+
+	|34-36.~  Et subdit quid primo dixerit Thomas, quia
+scilicet obtulit se ad solvendam secundam dubitationem; unde
+dicit, |e disse~, scilicet ille Thomas dixit mihi: |dolce amor
+m'invita~, idest, amor caritatis inducit me, |a batter l'altra~,
+scilicet paleam, idest ad discutiendum secundum dictum,
+excutiendo inde dulcem fructum qui latet sub litera, sicut
+frumentum latet sub palea, et excutitur inde; et sic est pulcra
+et propria similitudo: sicut enim palea etc., |quando~, idest,
+postquam, |l'una paglia @e trita~, idest, una quaestio, scilicet
+prima est bene discussa et determinata, |et quando la sua semenza
+@e gi@a riposta~, idest, postquam fructus eius est inde elicitus,
+quia scilicet ex illo primo dicto dubio, |u' ben s'impingua~,
+etc., est extractus tantus fructus, quia narrata est vita
+Francisci et Dominici, in quibus multa bona et utilia dicta sunt
+ad confirmationem bonorum et emendationem malorum.  
+
+	|37-48.  Tu credi.~  Hic Thomas de Aquino intendit ad
+solutionem dubii secundi, quod nascitur ex uno dicto decimi
+capituli, ubi dicit: |non sorse il secondo.~  Ergo ad exponendum
+et declarandum illud dictum ambiguum, primo Thomas detegit
+intentionem et opinionem autoris quam habebat de illo dicto. 
+Opinabatur enim autor quod Thomas loqueretur de primo homine
+Adam, vel de secundo scilicet Christo, quia neuter istorum
+videbatur habuisse parem; et tamen Thomas de neutro intelligebat,
+immo de rege Salomone.  Ergo Thomas primo proponit opinionem
+autoris.  Ordina sic literam et construe, quae est satis
+intricata: |Tu credi che quantunque di lume lece alla umana
+natura avere~, idest, quicquid luminis licet humanae naturae
+habere, quasi dicat: quicquid sapientiae perfectionis est
+possibile hominem naturaliter habere, |fosse tutto infuso nel
+petto~, scilicet Adam primo parente, quem specificat per mulierem
+primam quae facta fuit ex eo; unde dicit: |onde~, idest, ex quo
+pectore Adae, |si trasse la costa~, quia, ut legitur Genesis
+primo, Deus traxit costam de pectore Adae et replevit eam carne,
+et ex ea formavit mulierem; ideo dicit: |per formare la bella
+guancia~, scilicet Hevam, quae fuit formosissima mulierum; per
+hoc dans intelligi quod uxor debebat esse socia non serva, juxta
+illud: sociam sortitus es, non ancillam: et dicit: |il cui
+palato~, quia gustavit de pomo vetito, |costa a tutto 'l mondo~,
+quia damnavit totum humanum genus; |ed in quel~, scilicet, in
+pectore Christi, |che forato dalla lancia sodisfece tanto che
+vince la bilancia d'ogni colpa~, quia scilicet mors Christi
+praeponderavit omni culpae primorum parentum et omnium hominum in
+tantum, quod mors illa fuit sufficiens ad redimendum
+innumerabiles mundos, nedum unum; et dicit quod tantum
+satisfecit, |e poscia e pria~, scilicet postquam lanceatus fuit
+in cruce, et anteaquam lancearetur, quia jam sufficiebat passio
+Domini ad redemptionem absque lanceatione.  Et dicit: |da quel
+valor~, scilicet Deo patre cui attribuitur potentia, |che fece
+l'uno~, scilicet, Adam, |e l'altro~, scilicet, Christum.  Et
+subdit Thomas, |e per@o ammiri ci@o che io dissi suso~, scilicet in
+X capitulo, |quando narrai che il ben ch'@e chiuso nella quinta
+luce~, idest, spiritus qui erat in luce quinta ex illis duodecim,
+ex quibus facta est prima corona, |non ebbe secondo.~  
+
+	|49-51.  Or apri.~  Hic Thomas tacta opinione autoris
+nunc incipit solvere dubium; et primo reddit autorem attentum ad
+responsionem quam facturus est, dicens: |Or apri gli occhi~,
+scilicet intellectuales, |a quel ch'io ti rispondo, e vedrai il
+tuo creder~, scilicet, de Adam et Christo, |e il mio dire~,
+scilicet, de Salomone, |farsi nel vero~, scilicet, verificari,
+|come centro in tondo~, quia scilicet utrumque est verum, et tuum
+credere et meum dicere; et ita bene conformatur illi dicto sicut
+centrum circulo, quasi dicat: ita bene cadit tuus intellectus et
+meus in illo dicto sicut centrum in circulo sedet convenienter.  
+
+	|52-54.  Ci@o che non muore.~  Hic Thomas de Aquino primo
+confirmat opinionem autoris, et probat quod bene intelligit de
+Adam et de Christo, quia uterque eorum non habuit secundum neque
+parem, quia fuerunt producti in perfecto esse; unde incipit a
+longe et longo discursu probat quae res producuntur a Deo in
+perfecto esse, et quae non.  Unde dicit: |Ci@o che non muore~,
+idest, omne corporale etiam si non moritur, |non @e se non
+splendore~, idest effectus et sigillatio, |di quella idea~,
+idest, illius formae exemplaris, |che il nostro sire~, idest,
+quam ideam Deus, |partorisce amando~, idest, producit in actum
+propter amorem quem habet ad creaturas.  Ad clariorem istius
+literae intelligentiam est notandum quod autor capit hic ideam
+pro exemplari: est enim idea illa forma exemplaris, quam quilibet
+artifex concipit mente antequam faciat rem extra; et ita Deus
+antequam crearet mundum habebat illum in mente sua ab aeterno. 
+Opinio autem Platonis, quam Aristoteles reprobat primo Ethicorum,
+non facit ad propositum, licet Augustinus conetur eam salvare
+modo praedicto. 
+
+	|55-60.  Ch@e quella.~  Hic Thomas explicat primam
+productionem rerum, ostendens quomodo omnia per verbum facta
+sunt.  Unde dicit: |Ch@e quella luce viva~, idest filius Dei, |che
+s@i mea~, idest, quae unitur et fit ea, |del suo lucente~, idest,
+Deo patre, qui est lux mundi, |che non si disuna da lui~, quia
+est unus Deus secum, nec dividitur ita ab eo, ut sint duo dii vel
+plures, |n@e dall'amor~, idest, a spiritu sancto, |ch'a lor
+s'intrea~, idest, utrique patri et filio intricatur vel
+intrinatur, ita quod sunt tres personae et unus Deus, |aduna il
+suo raggiar~, idest, congregat suum splendorem, |quasi specchiato
+in nove sussistenze~, idest in novem ordines angelorum, in quos
+radiat sicut sol in speculo.  Et dicit: |eternalmente rimanendosi
+una~, quasi dicat: sine diminutione; et dicit: |per sua bontate~,
+idest, sola bonitate non necessitate.  Est ergo hic notandum etc. 
+
+	|61-66.  Quindi.~  Hic describit processum illius
+splendoris divini in spiritualibus ad corporalia, dicens: et ille
+splendor, |discende quindi~, idest, ab istis substantiis
+angelicis, |all'ultime potenze~, scilicet, stellas et planetas,
+|gi@u d'atto in atto~: et dicit: |tanto divenendo~, scilicet,
+descendendo ad elementa et res materiales, |che pi@u non fa~,
+scilicet, descensive, |che brevi contingenze~, idest, immediatas
+generationes rerum corruptibilium.  Et ne videatur obscure
+procedere subdit declarationem, ostendens quid intelligat per
+contingentias, dicens: |e intendo queste contingenze esser le
+cose generate~, idest, ista inferiora generata mediante
+influentia coeli; unde dicit: |che il ciel produce movendo~,
+idest, motu suo, |con seme e senza seme~, ut automata et alia pro
+se virentia.  
+
+	|67-72.  La cera di costoro.~  Hic Thomas ex dictis
+arguit quomodo et unde fiat diversitas in istis generalibus,
+dicens: |La cera~, idest, materia rerum generabilium, |e chi la
+duce~, idest, et illud quod gignit et gubernat istam materiam,
+puta coelum, quod est sigillum illius cerae, |non sta d'un modo~,
+quia aliqua sunt proximiora primae causae, aliqua remotiora; et
+proximiora plus recipiunt quam remota; ideo dicit: |e per@o poi
+traluce~, scilicet illa, |pi@u e meno~, secundum quod est
+receptibilis luminis, |sotto 'l segno ideale~, idest, sigillo
+formali; et sub tali exemplo quod est in mente, a quo artificis
+exemplo res generata producitur in esse.  Et confirmat dictum
+suum per effectum dum subdit: |ond'egli avvien ch'un medesimo
+legno secondo specie~, idest, unum et idem lignum specie, |frutta
+meglio e peggio~, sicut videmus de facto, quod multae arbores
+eiusdem speciei, puta ficus, habent diversissimos fructus in
+forma et qualitate.  Et non solum istud videmus in vegetabilibus,
+sed etiam in hominibus.  Unde dicit: |e voi nascete con diverso
+ingegno~, scilicet meliori et peiori.  
+
+	|73-75.  Se fosse.~  Hic Thomas ostendit quando et
+quomodo posset fieri generatio perfecta: et dicit, quod si
+materia esset bene disposita ad recipiendum, et coelum esset bene
+dispositum ad imprimendum, tunc appareret virtus coeli perfecte
+in tali materia.  Unde dicit: |La luce del suggello~, idest,
+virtus coeli, quod imprimit tamquam sigillum, |parrebbe tutta~,
+idest perfecta, |se la cera fosse dedutta appunto~, idest, si
+materia quae recipit formam esset ita deducta et disposita, sicut
+deducitur et disponitur cera, quam homo vult bene recipere
+impressionem sigilli; |e il ciel fosse in sua virt@u suprema~,
+idest, et si sperae coelestes essent in earum maiori virtute;
+verbi gratia, si planeta Jovis qui est optimus esset in piscibus,
+quod signum est domus eius; vel si esset in sua exaltatione,
+gaudio vel termino, vel esset in bono aspectu bonorum planetarum,
+et liber a coniunctione malorum; tunc res quae generaretur
+respondens illi planetae esset optima, et appareret in ea virtus
+Jovis perfecte quae dat sibi formam.  
+
+	|76-78.  Ma la natura.~  Hic Thomas ostendit unde
+proveniat imperfectio rei.  Ad quod notandum quod, sicut ex
+dictis colligi potest, quando mens artificis concordat cum
+instrumento et materia, et instrumentum et materia cum artifice
+potente et perito, tunc generatur res perfecta; sed quia ista
+concordia non reperitur in productione rerum naturalium, ideo
+generantur res imperfectae ex parte et defectu materiae.  Nunc ad
+literam, dicit Thomas: |Ma la natura~, scilicet coelum, |la d@a
+sempre scema~, idest, dat semper ipsam lucem suam diminutam, non
+ex intentione sua, sed ex indispositione materiae: quod declarat
+per similitudinem propriam et pulcerrimam; et dicit quod natura
+est similis artifici.  Nam, ut videmus de facto, saepe unus
+magister bene noverit artem unam, et habet principia et regulas
+illius artis in mente, sed habet defectum in membris, sicut
+debilitatem nervorum propter senectutem: iste ergo licet intendat
+facere unum opus perfectum secundum artem, non tamen poterit ex
+defectu organorum: unde faber non poterit facere cultellum
+perfectum, nec carpentarius domum.  Dicit ergo: |similmente
+operando all'artista, che ha man che trema all'abito dell'arte~,
+quasi dicat: quamvis habeat artem habituatam et firmam non tamen
+prospere agit propter manum trementem, tremulentam; est enim
+habitus qualitas difficile mobilis.  
+
+	|79-81.  Per@o.~  Hic Thomas ex dictis arguit quod quando
+Deus agit immediate in materiam imprimit tunc formam perfectam;
+unde dicit: |per@o se 'l caldo amor la chiara vista della prima
+virt@u~, scilicet, Dei, |dispone~, scilicet, aliquam ceram, idest,
+materiam, |e segna~, idest, imprimit formam cum suo sigillo,
+|tutta la perfezion s'acquista quivi~, scilicet, in tali re.  Et
+subdit declarans dictum suum per effectum, quod hinc processit
+generatio sive productio prima et incarnatio verbi Dei; unde
+dicit: |la terra gi@a cos@i fu fatta degna~, scilicet, in Adam, |di
+tutta la perfezion animale~, idest, animae, |e la Vergine~,
+idest, Maria, |cos@i fu fatta pregna~, scilicet, de Christo. 
+
+	|85-87.  S@i che io.~  Hic Thomas concludit confirmans
+opinionem autoris tamquam bonam et veram, scilicet, quod bene
+intelligit intelligendo de Adam et Christo, quod uterque non
+habuit secundum, dicens: |S@i ch'io commendo tua opinione; ch@e
+l'umana natura mai non fue n@e fia~, scilicet tam perfecta, |qual
+fu in quelle due persone~, scilicet, Adam et Christo.  
+
+	|88-90.  Or s'io.~  Hic Thomas procedit ad probandum quod
+etiam ipse verum dixit quando dixit supra, |non surse il
+secondo~, non intelligendo de Adam nec de Christo.  Et primo
+tangit instantiam quam autor facere posset, ut sic descendat ad
+declarationem suae intentionis.  Unde dicit: |Or le parole tue
+convincerebber, come dunque costui fu senza pare~? quasi dicat:
+si tu non intelligis de Adam, nec de Christo, quis aliquis esse
+potest, de quo dicatur quod nunquam habuit parem? |s'io non
+procedessi avanti pi@u~, si non dicerem aliud circa hoc dictum.  
+
+	|91-93.  Ma, perch@e.~  Hic Thomas incipit verificare
+dictum suum, ostendens quod ipse intelligit de Salomone per
+singularissimam gratiam quae sibi fuit facta a Deo.  Unde dicit:
+|Ma, pensa chi era~, quasi dicat: cogita quis fuit iste dignus
+interrogari a Deo, |e la cagion che il mosse a dimandare, quando
+fu detto~, scilicet, a Deo: |Chiedi~, idest, pete quid vis, quasi
+dicat Thomas: tu neminem invenias cui Deus fecerit istam
+oblationem et dederit optionem; de hoc libro Regum III capitulo
+require; et hoc dico: |perch@e paia ben ci@o che non pare~, idest,
+ut tibi sit clarum illud quod tibi videtur obscurum.  
+
+	|94-96.~  Et subdit exprimens quis fuerit a regali
+prudentia, |non ho parlato s@i~, idest, tam obscure, |che tu non
+posse~, scilicet, ex dictis sine alia declaratione; quasi dicat
+Thomas: tu scis ubi ista verba scripta sunt in divina Scriptura,
+in uno solo loco, ubi fuit rex Salomon qui quaesivit a Deo
+prudentiam, ut posset regere populum quem etc., |ben veder~,
+idest, clare intelligere |ch'ei fu re~, et dicit: |che chiese
+senno~, idest postulavit sapientiam a Domino; et reddit causam
+dicens: |acciocch@e re sufficiente fosse~, quia sine sapientia et
+prudentia non posset rex bene gubernare regnum.  
+
+	|97-102.  Non per saper.~  Hic Thomas ostendit quod
+Salomon bene et laudabiliter petivit; quod probat, quia petivit
+publicam utilitatem et communem salutem multorum; nec fecit
+petitionem curiosam sicut quotidie petunt et optant viri
+studiosi; non enim petivit sapientiam propter scire metaphysicam,
+vel logicam, vel physicam, vel geometriam; unde dicit: |Non per
+sapere~, supple, non petivit sensum, causa sciendi, |il numero in
+che enno li motor di quass@u~, idest, non petivit scire quot sint
+intelligentiae numero moventes orbes, quod spectat ad
+philosophiam naturalem.  Ad quod notandum quod Aristoteles, ut
+patet libro coeli et mundi, voluit quod intelligentiae, idest
+angeli, essent tot quot sunt orbes; unde posuit quod essent etc.,
+et voluit quod non essent plures, nec pauciores, quia etc., |o se
+necesse con contingente mai fenno necesse~, idest, non petivit
+causa sciendi si in syllogismo maior propositio sit de
+necessario, et minor de contingenti sequatur conclusio de
+necessario vel de contingenti: et hoc spectat ad logicam.  Ad
+quod est notandum quod sicut scribit philosophus libro priorum:
+ex maiori de necessario et minori de contingenti sequitur
+conclusio, verbi gratia etc.: |non si est dare primum motum
+esse~, idest et non petivit causa sciendi, utrum motus fuerit ab
+aeterno, an habuerit principium; et hoc spectat ad physicam: unde
+libro physicorum tractatur de motu.  Ad quod notandum quod
+Aristoteles posuit motum aeternum, quod probat etc.  Theologi
+tamen ponunt principium motus et mundi; et sic est tenendum, ut
+tenet sacra fides; unde in principio Genesis dicitur: ^In
+principio Deus creavit coelum et terram~ etc. |o se si puote far
+triangolo del mezzo cerchio s@i ch'un retto non avesse~, idest, et
+non petivit causa sciendi si ex semicirculo potest fieri
+triangulus cum angulo recto; et hoc spectat ad geometriam.  Ad
+quod notandum est quod sicut scribit Euclides: triangulus est
+figura habens tres angulos aequales duobus rectis: rectus autem
+angulus appellatur quando una linea recta cadit directe super
+aliam lineam rectam, sicut patet in signo crucis etc.  
+
+	|103-108.  Onde.~  Hic Thomas concludit intentionem suam
+circa illud dictum, dicens: |Onde vedrai aver solamente rispetto
+ai regi~, idest, videbis, quod dicendo, |non surse il secondo~,
+habeo respectum solum ad reges; et dicit, |che son molti e i buon
+son rari se tu note ci@o ch'io dissi~, idest, si quod dictum est
+verum est, et si tu consideras regalem sensum qui fuit in isto. 
+Unde dicit: |regal prudenza @e quel veder impari~, idest, et si tu
+apprehendis de quo videre ego loquor quando dixi supra, |ch'a
+veder tanto~, unde dicit: |in che lo stral di mia intenzion
+percuote~, quia, scilicet sagitta meae intentionis est quod non
+fuerit alius qui viderit tantum, nec tam profunde in sapientia,
+sicut Salomon, |e se drizzi gli occhi chiari~, idest, si dirigis
+oculos intellectuales ad illud verbum, |Surse~, quod est aliquid
+surgere in suo esse, ita quod non habet respectum ad Adam qui
+fuit formatus a Deo, nec ad Christum qui fuit incarnatus sine
+opera humana.  
+
+	|109-111.  Con questa.~  Hic Thomas ostendit intentionem
+suam et opinionem autoris esse veram diversis respectibus; unde
+dicit: |Prendi il mio detto~, scilicet, |non surse il secondo~,
+quod ego loquor de Salomone, |e cos@i puote stare con quel che
+credi~, idest, et ita potest verificari de Adam et Christo.  Unde
+dicit: |del primo padre~, scilicet, Adam, |e del nostro diletto~,
+scilicet, Christo.
+
+	|112-114.  E questo.~  Ista est tertia pars generalis, in
+qua Thomas de Aquino dat unum praeceptum monitorium autori circa
+solutionem dubiorum et responsionem quaesitorum.  Et primo suadet
+quod non sit velox ad respondendum ad dubia quaesita, nisi prius
+distinctione facta; unde dicit: |E questo~, scilicet, quod dixit
+de distinctione facienda, |ti sia piombo ai piedi~, idest, compes
+ligans pedes tuos, quasi dicat: istud dictum meum fraenet
+affectionem tuam et retrahat ne statim currat ad responsionem;
+unde dicit: |per farti muover lento~, idest, tardum, |com'uom
+lasso~, sicut senes graves hoc faciunt nihil temere affirmantes
+nec negantes, |et al s@i et al no~, idest, ad dubia tam
+affirmativa quam negativa, |che tu non vedi~, scilicet, cum oculo
+intellectuali.  
+
+	|115-117.  Ch@e quegli.~  Hic Thomas probat dictum suum
+per effectum ostendens quod ex tali inconsideratione indiscreta
+oritur stultus error.  Unde dicit: |Ch@e quegli @e ben a basso fra
+gli stolti~, quasi dicat, est infimus et vilissimus stultorum,
+|che afferma o niega senza distinzione, cosi nell'un come
+nell'altro passo~, scilicet in sic et in non; in partem
+affirmativam et negativam.  
+
+	|118-120.~  Et subdit assignans causam huius erroris,
+dicens: |perch'egli incontra che la opinione corrente pi@u volte
+piega in falsa parte~; unde nota quod veritas ut plurimum est
+latens adeo quod paucissima possunt sciri; ideo cum homo
+inpraemeditate currit ad respondendum, saepe labitur in falsum;
+ideo bene dicebat Damascenus in Aphorismo: si interrogatus
+velociter respondeat semper dubitandum erit; et sequitur: |e poi
+l'affetto~, idest, affectio quam homo habet ad talem opinionem
+suam, |lega l'intelletto~, quia scilicet homo facit sibi habitum
+de errore qui non potest facile evelli de capite eius; et sic
+parvus error in principio, magnus est in fine.  
+
+	|121-123.  Vie pi@u.~  Hic Thomas arguit temerariam
+dementiam multorum ignorantium qui conantur inquirere veritatem
+in rebus sine arte.  Unde dicit: |Chi pesca per lo vero~, idest,
+qui rimatur veritatem quae latet sicut piscis sub aqua, immo ut
+volebant stoici, veritas latet tanquam in profundissimo puteo,
+|si parte da riva~, idest, elongatur et variatur a proposito,
+|via pi@u che 'ndarno~, quia multo plusquam nave, |perch@e non
+torna tal qual ei si move~, quasi dicat: immo peior quia plenus
+multis erroribus et falsitatibus.  Et hic nota quod ista
+sententia autoris est aurea, et tota die verificatur in multis,
+qui licet sint excellentes in una, duabus, vel pluribus
+scientiis, ut de penitus ignorantibus nihil dicam, praesumunt
+temere immittere falcem in messem alienam, scribentes et
+glossantes in aliis scientiis, de quibus parum noverunt; sicut
+quidam magnus philosophus et astrologus voluit commentare
+Valerium Maximum, et in mille locis quid dicat ignorat; et ita de
+multis magnis magistris, qui multos libros autorum imbrataverunt;
+quare eleganter inquit Hieronymus: felices, inquit Fabius, essent
+artes etc.  Unde et Plinius adducit exemplum de pictore etc. 
+
+	|124-126.  E di ci@o.~  Hic Thomas confirmat sententiam
+suam exemplo quorumdam philosophorum et theologorum antiquorum,
+dicens: |E di ci@o sono al mondo aperte prove Parmenide e
+Melisso.~  Et hic nota quod Parmenides et Melissus fuerunt duo
+philosophi, qui conantes investigare principia rerum naturalium
+nimis enormiter erraverunt; quorum rationes philosophus improbat
+primo physicorum saepissime, et alibi saepe.  |Brisso.~  Hic
+etiam philosophus erravit in principiis rerum naturalium; fuit
+autem etc., |e molti~, scilicet alii philosophi, quorum opiniones
+etiam philosophus reprobat in libris naturalibus; sicut
+Anaxagoras, Anaximander, Anaximenes etc., |li quali andavan~,
+scilicet, ad investigandam veritatem, sed caeci ipsi ducebant
+alios in caecitatis errorem.  Unde dicit: |e nom sapean dove~,
+quia non intelligebant se ipsos.  
+
+	|127-129.  S@i fe'.~  Ostendit idem in quibusdam
+theologis, dicens: |S@i fe' Sabellio et Arrio~, idest ita
+erraverunt.  Ad quod sciendum quod Sabellius fuit magnus
+haereticus qui dicebat etc.  Arius fuit alius maximus
+haeresiarcha qui etc., et ita Priscilianus et alii multi etc.  Et
+declarat per simile pravum effectum istorum, dicens: |e quegli
+stolti che furon come spade alle scritture in render torti li
+diritti volti.~  Ad quod notandum quod Thomas vult dicere
+sententialiter, quod praedicti haeresiarchae fuerunt talia
+specula scripturis, retinendo scilicet in se, et tradendo aliis
+qualia specula sunt lucentes enses visibus nostris qui ostendunt
+eos tortuosos.  Et hoc accidit propter differentiam materiae
+ensis ad materiam vitri et plumbi ex quibus fit speculum. 
+
+	|130-132.  Non sien.~  Hic Thomas dat optimum consilium
+circa temeritatem judicandi, dicens: |Non sien le genti ancor
+troppo sicure~, idest, temerarii, |a giudicar~, scilicet, de
+aliena vita et statu, a simili, |s@i come quei che stima le biade
+in campo pria che sien mature~; existimant enim interdum multum
+fructum et magnum recoltum, et una parva nebula frustratur spem
+eorum; et ita e contrario: aliquando existimant modicum fructum
+et parvum recoltum, et ex insperato implent horreum.  
+
+	|133-138.  Ch'io.~  Hic Thomas probat judicia hominum
+esse fallibilia per duo exempla manifestissima, quorum primum est
+de pruno, dicens: |ch'io ho veduto tutto 'l verno prima il prun
+mostrarsi rigido e feroce~, quia scilicet prunus in hyeme est
+tota spinosa, arida, nodosa, |poscia~, scilicet, adveniente vere,
+|portar la rosa in sulla cima~, quae tamen est pulcerrima
+propositum: prunus enim nodosa, spinosa, arida est in hyeme; sic
+homo pravus, plenus vitiis, fraudibus, omnibus molestus, nulli
+utilis, qui laedit, ut spina omnes approximantes vel conversantes
+secum, qui per totum tempus hyemis, idest malitiae, est aridus,
+idest, inutilis et sine fructu virtutis, sicut arbor in hyeme
+frigida; sed adveniente vere divinae gratiae, quae fugat mala
+praeterita, affert rosam, idest, virtutem pulcerrimam, quae
+reddit eum tunc utilem, amabilem, odoriferum, idest famosum.  Et
+dat aliud exemplum ordine converso, dicens: |e vidi~, e
+contrario, |gi@a legno dritto e veloce correr lo mar per tutto suo
+cammino, perire al fine all'entrar della foce.~  Et ista
+similitudo etiam est propriissima: sicut enim aliquando navis
+quae prospere navigavit longum mare finaliter in introitu portus
+subvertitur et suffocatur; ita homo qui aliquando vixit per totum
+tempus suae vitae laudabiliter et famose, in senectute facit
+infelicem finem et miserabiliter perit; sicut tota die videmus in
+multis, sicut vetulus qui videbatur semper vivere in orationibus
+et jeiuniis, tandem ductus est ad suspendium quia repertus est
+vivere solum ex gallinis furtivis.  
+
+	|139-142.  Non creda.~  Hic ultimo Thomas de Aquino
+arguit ignorantiam hominum, qui judicant cito secundum
+apparentiam, dicens: |Non creda monna Berta e ser Martino~,
+nomina accepit vulgaria, quasi dicat: non credant idiotae rudes,
+|per veder un furare, altro offerere, vederli dentro al consiglio
+divino~; et assignat rationem: |ch@e quel~, scilicet, qui furatur,
+|pu@o sorger~, sicut pulcre fingit autor Inferni capitulo, ubi
+dicit de illo qui ex serpente revertitur in hominem, quia
+scilicet recedit a furto, |e quel~, scilicet, qui offert, |pu@o
+cader~, scilicet, a virtute in vitium, et per consequens ab
+humanitate in bestialitatem.

@@ -1,0 +1,64 @@
+	|128.~  How [Charles] had got his wife, and her
+dowry, we must hear in Villani's words, as nearly as I can give
+their force in English, only, instead of the English word
+pilgrim, I shall use the Italian `romeo' for the sake both of all
+English Juliets, and that you may better understand the close of
+the sixth canto of the Paradise. . . .
+
+	"There came a romeo to court, returning from the shrine
+of St. James." I must stop again just to say that he ought to
+have been called a pellegrino, not a romeo, for the three kinds
+of wanderers are, Palmer, one who goes to the Holy Land; Pilgrim,
+one who goes to Spain; and Romeo, one who goes to Rome.  Probably
+this romeo had been to both. "He stopped at Count Raymond's
+court, and was so wise and worthy (valoroso) and so won the
+Count's grace, that he made him his master and guide in all
+things.
+
+	"Who also, maintaining himself in honest and religious
+customs of life, in a little time, by his industry and good
+sense, doubled the Count's revenues three times over, maintaining
+always a great and honoured court. Now the Count had four
+daughters, and no son; and by the sense and provision of the good
+romeo --- (I can do no better than translate `procaccio'
+provision, but it is only a makeshift for the word derived from
+procax, meaning the general talent of prudent impudence, in
+getting forward; `forwardness' has a good deal of the true sense,
+only diluted;) --- well, by the sense and --- progressive
+faculty, shall we say? --- of the good pilgrim, he first married
+the eldest daughter, by means of money, to the good King Louis of
+France, saying to the Count, `Let me alone, --- Lasciami-fare ---
+and never mind the expense, for if you marry the first one well,
+I 'll marry you all the others cheaper, for her relationship.'
+
+	"And so it fell out, sure enough; for incontinently the
+King of England (Henry III.), because he was the King of France's
+relation, took the next daughter, Eleanor, for very little money
+indeed; next, his natural brother, elect king of the Romans, took
+the third; and, the youngest still remaining unmarried, --- says
+the good romeo, `Now for this one, I will you to have a strong
+man for son-in-law, who shall be thy heir;' --- and so he brought
+it to pass. For finding Charles, Count of Anjou, brother of the
+King Louis, he said to Raymond, `give her now to him, for his
+fate is to be the best man in the world,' --- prophesying of him.
+And so it was done. And after all this it came to pass, by envy
+which ruins all good, that the barons of Provence became jealous
+of the good romeo, and accused him to the Count of having ill-
+guided his goods, and made Raymond demand account of them. Then
+the good romeo said, `Count, I have served thee long, and have
+put thee from little state into mighty, and for this, by false
+counsel of thy people, thou art little grateful. I came into thy
+court a poor romeo; I have lived honestly on thy means; now, make
+to be given to me my little mule and my staff and my wallet, as I
+came, and I will make thee quit of all my service.' The Count
+would not he should go; but for nothing would he stay; and so he
+came, and so he departed, that no one ever knew whence he had
+come, nor whither he went. It was the thought of many that he was
+indeed a sacred spirit."
+
+	This pilgrim, you are to notice, is put by Dante in the
+orb of Justice, as a just servant; the Emperor Justinian being
+the image of a just ruler.
+
+     ^Val d'Arno,~ Lect. ix. sec. 235-240.
+

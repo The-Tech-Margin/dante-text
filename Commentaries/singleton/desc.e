@@ -1,0 +1,20 @@
+..COMM:
+Singleton
+..DTYP:
+D
+..LANG:
+English
+..AUTH:
+Charles S. Singleton
+..PUBD:
+1970-75
+..PUBL:
+The Divine Comedy, Translated, with a Commentary, by Charles
+S. Singleton.  Princeton, Princeton University Press, 1970-75.
+..DENT:
+KDEM
+..EDTR:
+Inferno: Sharon Girard.
+Purgatorio and Paradiso: Janet Stephens & Robert Hollander.
+..ATTR:
+copyright

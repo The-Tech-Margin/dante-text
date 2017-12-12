@@ -1,0 +1,115 @@
+From siena Tue May 15 08:09:46 1990
+Received: by eleazar.dartmouth.edu (5.61D1/4.1)
+	id AA05767; Tue, 15 May 90 08:09:43 -0400
+Date: Tue, 15 May 90 08:09:43 -0400
+From: siena (Janet Stephens)
+Message-Id: <9005151209.AA05767@eleazar.dartmouth.edu>
+To: dante
+Status: RO
+
+ To: jonathan, siena, steve
+ Subject: CICtape
+ 
+ Janet, I'd suggest you save a copy of this for future record, as
+ there is a lot to be mindful of.  I'm ccing JA and SC in case they
+ have some bright ideas.
+ 
+ In general this is VERY good work.  It's worth what they ask.  Best data
+ production we've seen, no?  Unfortunately, in no case can we simply
+ put the data up: all four of these will need editorial intervention,
+ some much more than others.  Here's the scoreboard.  I'll talk about
+ larger, more general probs. first, then list the typos I noted on
+ the fly (remember, I didn't do a careful edit) just to give a sense
+ of what we need to worry about in a partic. comm--perhaps.
+ 
+ And Janet, can you e-mail me a copy of this after you've copied it?
+ I should have done it as e-mail to me and then sent you copies.  
+ 
+ BENNASSUTI (note spelling: you have as "BennEssuti)
+ 
+ The line numbers are TOTALLY useless.  The reasson, his numbers are
+ rather footnote numbers than line refs.  Can we do them first? I'd
+ guess not.  In that case, there's a fairly big job of editing to be done,
+ one that prob. requires a dantista.  Not a hard job, but a longish one.
+ The rest of BENNA. looks very good.  Only other global problem:
+ inner citations.  I think a global change of all "^" to "|" will
+ save time.  editor will have to put Latin and non=internal refs.
+ back into italics; but not too many of these.
+ 
+ Small thgs..: I noted a "bueno" that shd. be "buono" about half
+ way through.  Also "1.x" = "1+o~" ??  I noted three such forms.
+ 
+ BERTHIER
+ 
+ The big problem is in the fact that he does ^/| with "<" and
+ Steve/Jonathan advise on this?)  If UNIX can't, can't an editor
+ do this in FWord?  Is the prob. that in Unix ~ is an escape?
+ There MUST be a way to win this one.  But the huge problem remains
+ in that Berthier prob. uses more italics than bold, i.e., requires
+ us to edit in lots of italics, because he quotes so much Latin, etc.
+ So this huge (and VERY impt. and underused) comm. has got a lot
+ of hand labor, requiring heavy eyeballing.  Globals won't
+ help much.  Still, in this case I'd global all "<" into "^" and
+ let editor say when it's an internal quot.  Better to have to do
+ only a single operation, whatever it is.  And if it turns out that
+ in some canti there's more need for "|" than "^", the editor
+ can do that globally, and put in changes him/herself.
+ 
+ Little thgs.:   at 1-3 I noted Virgili (= Virgilio) and
+ aa.7 (= a. 7 ??).  But, once again, the text looks VERY good.
+ 
+ CAMPI
+ 
+ Big problem: only one:  as in Berthier, lots of distinctions are needed
+ between "^" and "|".
+ 
+ There's another kind of issue raised here.  It apllies also to
+ Scartazzini (1900) [not Scart./Vandelli].  Campi uses tons of
+ abbreva.  he has a table of same, I'm sure, in the beg. of
+ the book.  Steve and JA: we need to do smtg. cute about his,
+ allowing a user (1) to know such a table exists (2) to get
+ to it easily w/o losing too much time.  we talked about this years
+ ago.  It's time to start implementing.  Since we have Scart. INF.
+ up, that might be a good place to play around.
+ 
+ Little thgs.:  1-3.  "*Il punto":  what's that "*" mean?  Please
+ check and see if it's just added in by mistake, or m,eans smtg.
+ 
+ The spacing here had more flaws than I saw in all the others.
+ E.g., .~ New sent.; or Abrev.  next word.  Clear? One space where
+ two needed; two where one correct.
+ 
+ 28-30. BIanchi = Bianchi
+ 
+ DEL LUNGO
+ 
+ Biggest prob. caused by comm. himself.  He does lots of funny
+ things.  I'll make up an e.g.:
+ 
+ 1-10. Blablablah.
+ 
+ 1-8.  Blablablah.
+ 
+ 9.  Bla.
+ 
+ 9.  Blablah.
+ 
+ The editor (and we'll again need one of our dantisti) will need to
+ keep the first of these, but combine the last two.  The line numbers
+ will take a small peck of work.
+ 
+ Del Lungo, like Bertheir, uses <...> for citations, whether inner
+ or external.  Again I thin a global to ^...~ will be best course,
+ with editor designating where "^" must chg. to "|".
+ 
+ Small details:
+ 
+ 13-15. partu<risce and 19-30 same phenomenon: word split by a "<".  Why?
+ 
+ 49-51: turo@o = turb@o.
+ 
+ That's my long-winded tale.  Hope it helps.  Ciao, Bob
+
+-- End of filtered message --
+
+

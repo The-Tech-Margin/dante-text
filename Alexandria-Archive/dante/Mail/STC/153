@@ -1,0 +1,123 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id RAA29072
+	for <steve@avalon.dartmouth.edu>; Mon, 7 Dec 1998 17:11:53 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id RAA11866
+	for <Stephen.Campbell@dartmouth.edu>; Mon, 7 Dec 1998 17:11:48 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 33241 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <68991-11532>; Mon, 7 Dec 1998 17:11:03 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA25670
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 7 Dec 1998 17:10:55 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv8-dialup4.Princeton.EDU [128.112.70.4])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA13912
+	for <Stephen.Campbell@Dartmouth.EDU>; Mon, 7 Dec 1998 17:10:53 -0500 (EST)
+Message-ID: <366C527D.D547F484@princeton.edu>
+Date: 	Mon, 07 Dec 1998 17:11:09 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: more stuff for your Sunday off
+X-Priority: 3 (Normal)
+References: <199812061432.JAA10185@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> Bob,
+> 
+> First, angle brackets. I believe we would want them to be square
+> brackets,
+> [correct]? If so, then it should be easy to change. The key question
+> is, are
+> there any Euro quotes in the documents? If not, then either you or I
+> can do a
+> global substitution of [] for all <> and not worry about losing any
+> Euro
+> quotes. Even if there are some Euro quotes, if there are relatively
+> few, we
+> can do the global substitute and then go back and fix the Euro quotes.
+>
+
+I guess square brackets will work.  I wish we could keep the editor's
+choice, angle brackets, to keep loyal to his text.  But they just won't
+work.  As far as I have noticed (and I've now done about a third of this
+comm.), there are NO Euroquotes to be seen (thank goodness).  And so I
+will handle this problem in a matter of some minutes.  And there's
+nothing for Mother Campbell to fuss over.
+
+> Second, Page Maker. Page Maker?? Sigh. Of course it's the application
+> of
+> choice for putting books together, and there are plenty of people
+> around here
+> who use it, but I'm not one of them. I don't have it on my Mac. Have
+> you used
+> it with this text? Have you edited anything with it? We ultimately
+> have to get
+> the document into plain ascii text for loading, so the question
+> becomes how to
+> do that. Tomorrow I will see if PM (a) can read the doc you sent me
+> and (b)
+> can save it as something more useful for our purposes, like plain text
+> or even
+> Word format.
+
+I think we are at cross-purposes here.  Peter BAtke was able to get
+PageMaker read as a file that next appeared in my WordPerfect (which is
+what you got).  The only problem was that each line indents about 10
+spaces.  Once you dump my nice neat files into whatever pot you stew 'em
+in, those lines will get very funny, right?  You can tell if you load up
+that one canto I sent you.  Could you read it OK? More soon, Bob
+
+> 
+>                                                                 Steve
+> 
+> > Steve, I am going to attach a canto of the SECOND big one I have to
+> do,
+> > Graziolo.  This one is much easier.  And will present fewer
+> problems.
+> > I.e., all accents are the Dartmouth way (@e, $e, $c, etc.); there is
+> no
+> > underlining problem, no superscript problem.  ALL of it will come to
+> you
+> > as you are expecting stuff usually.  But there is ONE problem and
+> ONE
+> > concern.
+> >
+> > Problem: the editor of the original uses angle brackets fairly often
+> to
+> > indicate texts that HE HAS SUPPLIED.  E.g., "St. Campbell, while
+> > extraorinarily gifted in many respects, seems to be some sort of
+> d<ild>o
+> > when it comes to reading Italian."  The passage is not clear in the
+> > original, but the editor has grounds for making the choice he has
+> made.
+> > He marks what HE has supplied with <...>.  I can either make a
+> global
+> > change (to what, O Sage of Hanover?), since I have the whole thing
+> in
+> > one huge piece.  Or you can tell me that this character will not be
+> > confounded with our angle bracket to indicate double Euro. quotes.
+> But
+> > if you tell me that I do not think I will believe you.
+> >
+> > Concern: This text came to me in PageMaker, from the format it had
+> when
+> > it was set as a book.  Peter Batke has done his best to make it
+> useful
+> > to me, and has succeeded in almost all respects -- probably no small
+> > task.  But, as you'll see, the left-hand margin is a bunch of
+> spaces.
+> > Will this screw things up when you download my files?  And if so,
+> what
+> > should I do at this end?
+> >
+> > Outside of those two things, this one looks like a piece of cake,
+> and
+> > I'm delighted.  I think I can do it in a few days of work.
+> >
+> > All the best, Bob

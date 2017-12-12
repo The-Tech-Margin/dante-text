@@ -1,0 +1,21 @@
+..COMM:
+Serravalle
+..DTYP:
+D
+..LANG:
+Latin
+..AUTH:
+Johannis de Serravalle
+..PUBD:
+1416-17
+..PUBL:
+Fratris Johannis de Serravalle Ord. Min. Episcopi et
+Principis Firmani Translatio et Comentum totius libri Dantis
+Aldigherii, cum textu italico Fratris Bartholomaei a Colle eiusdem
+Ordinis, nunc primum edita [a cura di Fr. Marcellino da Civezza &
+Fr. Teofilo Domenichelli].  Prati, Giachetti, 1891.
+..DENT:
+Typed
+..EDTR:
+Robert Hollander, with assistance from Joanna Prins.
+..LODD:

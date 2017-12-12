@@ -1,0 +1,150 @@
+{OUTPT}
+
+:COMPARE #CSFLAG
+     TO "FAIL"
+	:SET @FLAG ~Prompt!~
+	:PRINT ~\n#GETMSG~
+:DONE
+
+:CLEAR STACK
+
+:COMPARE @FLAG
+     TO ""
+	:COMPARE @M2
+	     TO "Yes"
+		:SET #HEADING ~\c~
+		:SEND ~XP,@PN~
+	     TO "No"
+		:SET #HEADING ~@HEADING~
+		:SEND ~XP,@PF~
+	:DONE
+
+	:PRINT ~#HEADINGS~
+
+	:SHOW BEFORE "*"
+
+	:SET #PPROMPT ~Strike \o2RETURN\f2 to continue; \o2S\f2 to Search: ~
+	:BRS PRINT
+	:SET #PPROMPT ~~
+
+     TO "Prompt!|"
+	:BRS PRINT DOCUMENT ~N~
+
+     TO "Prompt!|Help!|"
+	:COMPARE #RESULT
+	     TO ""
+		:SET @P1 -
+		  ~Enter document number, \o2H\f2elp, \o2S\f2earch [Next document]: ~
+	     TO "*"
+		:SET @P1 ~\o5 No more documents \f5 [Search]: ~
+	:DONE
+:DONE
+
+:GET @SELECTION -
+     PROMPT ~\n@P1~ -
+     MATCH "1-#DOCS|.|#1:+|#1:=|#1:-|H|h|S|s|D|d|P|p|R|r|@M1" -
+     BOTTOM
+
+:PARSE @SELECTION UPPER
+
+:COMPARE @TMP
+     TO "*"
+	:BRS PRINT PARAGRAPHS ~@PARS~
+	:SET @M2 ~@FMT~
+	:SET @TMP ~~
+:DONE
+
+:SET @FLAG ~~
+
+:COMPARE @SELECTION
+     TO ""
+	:COMPARE @P1
+	     TO "Enter*"
+		:MENU
+	:DONE
+	:SET @SELECTION ~S~
+
+     TO "H"
+	:SET @FLAG ~Help!~
+	:MENU ~OUTPT_H~
+
+     TO "1-#DOCS"
+	:BRS PRINT DOCUMENT ~@SELECTION~
+	:MENU
+
+     TO "#1:+"
+	:MENU
+
+     TO "#1:=|#1:-"
+	:COMPARE @P1
+	     TO "Enter*"
+		:BRS PRINT DOCUMENT ~P~
+	     TO "*No more*"
+		:BRS PRINT DOCUMENT ~L~
+	:DONE
+
+     TO "#1:="
+	:MENU
+
+     TO "#1:-"
+	:BRS PRINT DOCUMENT ~P~
+	:MENU
+
+     TO "P|R|M"
+	:PARSE @SELECTION LOWER
+
+     TO "p|r|m|S|D"
+	:SET @DOC ~?~
+	:RETURN
+
+     TO ".*"
+	:PARSE @SELECTION EXTRACTING @TMP USING ~.~
+
+     TO ""
+	:SET @TMP ~forcederror~
+	:SET @M2 ~~
+
+     TO "#3:ALL"
+	:SET @TMP ~-ALL~
+	:SET @M2 ~No~
+
+     TO "#1:F"
+	:SET @TMP ~ALL~
+	:SET @M2 ~@FFMT~
+
+     TO "#1:B"
+	:SET @TMP ~SHRT~
+	:SET @M2 ~No~
+
+     TO "#1:E"
+	:SET @TMP ~@PSPEC~
+	:SET @M2 ~No~
+
+     TO "#1:C"
+	:SET @TMP ~HITS~
+	:SET @M2 ~No~
+:DONE
+
+:COMPARE @TMP
+     TO ""
+	:SET @TMP ~@SELECTION~
+	:SET @M2 ~No~
+:DONE
+
+:BRS PRINT PARAGRAPHS ~@TMP~
+
+:COMPARE #RESULT
+     TO "*"
+	:PRINT ~\n\o5 Invalid paragraph view option \f5\n~
+	:SET @FLAG ~Skip!~
+	:MENU
+:DONE
+
+:COMPARE @P1
+     TO "Enter*"
+	:BRS PRINT DOCUMENT ~P~
+     TO "*No more*"
+	:BRS PRINT DOCUMENT ~L~
+:DONE
+
+:MENU

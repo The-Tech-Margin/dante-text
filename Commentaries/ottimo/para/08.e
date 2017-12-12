@@ -1,0 +1,627 @@
+	|Proemio.~  Poi che l'Autore hae trattato dell'anime che
+si mostrano nel cielo di Mercurio, in questo capitolo intende,
+salendo nel cielo di Venere, trattare di quelle beate anime, che
+secondo la influenzia di ^Venus~ li corpi, con li quali nel mondo
+furono coniunte, operaro.  E per@o intendi sempre l'allegoria
+essere conforma al nostro intelletto; per@o che, s@i come @e detto,
+la diversit@a del sito hae ad intendersi essere diverso in gloria,
+ed intendere la beatitudine, e pi@u e meno perfettamente, di
+quello unico Signore, che a suo volere cre@o tutto.  E tocca in
+questo capitolo VIII cose: la prima certe consuetudini e credenze
+delli antichi circa la stella di ^Venus~; la IJ l'entrare nella
+spera della detta stella; la IIJ introduce molte anime in quella
+spera, fra le quali introduce Carlo giovane re d'Inghilterra,
+fratello del re Ruberto, re di Jerusalem e di Sicilia; la IIIJ
+delli vizj del detto re Ruberto; la V uno dubbio, ed assolvelo,
+se de' vili parenti possono nascere virtuosi figliuoli; la VJ per
+via di dubitazione muove una quistione circa li modi delli
+reggimenti politichi; la VIJ, come al bene essere e naturale del
+mondo li uomini nascono diversi in costumi; la VIIJ, come la
+provedenza umana @e ignorante circa questi principj, che non
+considera quando fortuna si conforma con natura, ed ^e converso~:
+per la quale ignoranza le operazioni delli uomini non hanno
+quello profitto, che @e diritta regola a suo fine ed intento
+naturale.  Questa stella, secondo che pongono li maestri
+d'astrologia, @e bene aventurata, ed @e significatrice di femmine,
+di mogli, di madri; ha la giovinitudine delle etadi e delli
+magisterj; hae strumenti di sollazzi, di giuochi, e di sacchi;
+hae salutazioni, ed ozj, componimenti di ghirlande; hae bellezza
+ed ornamenti, vestimenti d'oro e d'argento; ama trastullo, riso,
+e gaudio, larghezza, diligenzia, amore, soavitade ed amistade: a
+uno anno compie quasi il corso suo.  Calda ed umida, la malizia
+di Marte tempera.  Sempre acompagna il Sole; quando gli va
+innanzi, @e chiamata ^Lucifer~, cio@e portante luce; quando il
+segue, @e detta Espero.  S@i come dice Beda, colore hae candente e
+risplendiente; intra tutte le stelle pi@u luce; immantanente vae
+innanzi al die, ed al levare del Sole; e quando [@e] in uno
+medesimo segno col Sole, da[lla] luce del Sole @e occultata.  E
+vogliono dire, che in Mercurio sieno tutti i disiderj; onde
+l'Autore pone l'anime di coloro nella spera di questa stella, che
+si dilettano in suoni, canti, e simili cose.  La seconda parte
+del capitolo, dove entra nella spera di ^Venus~, comincia quivi
+-- ^Io non mi accorsi~ ec.  La IIJ parte comincia quivi -- ^E
+come in fiamma~ ec.  La IIIJ parte comincia quivi -- ^E se mio
+frate~ ec.  La V parte quivi -- ^Per@o ch'io credo~ ec.  La VJ
+comincia quivi -- ^Ond'elli ancora~ ec.  La VIJ parte comincia
+quivi -- ^E pu@o elli esser~ ec.  La VIIJ parte comincia quivi --
+^E se 'l mondo l@a gi@u~ ec.  Circa la questione, la quale tocca e
+muove l'Autore a Carlo predetto, qui -- ^Com'uscir pu@o di dolce
+seme amaro~; cio@e di largo padre, avaro figliuolo; la quale
+questione muove per quello ch'@e detto, che il re Ruberto
+guernisce il suo lato di gente povera ed avara Catalana, e li
+suoi maggiori onorano ed essaltano Francieschi ricchi e liberali,
+li quali per altezza d'animo fecero tale reggimento in Sicilia,
+che prima in Palermo e poi per tutta l'isola furono morti e
+presi; @e da notare, che come nella generazione dell'uomo
+concorrono molte cose, cos@i da parte di quelle, o d'alcuna di
+quelle si puote causare il dischiattare il figliuolo dal padre. 
+Concore il generante padre alla concepente madre; concorre la
+disposizione de' pianeti, la sanitade e corruzione della aere e
+del luogo, e la stagione del tempo; e puote il padre e la madre
+essere di forte complessione; e quando sar@a la generazione, o per
+loro infermitade, o per alcuno caso, fia s@i debile il seme, che
+ne generer@ae debile figliuolo.  E li pianeti potranno s@i fare,
+che di guerresco padre si generer@ae figliuolo atto a pace ed a
+tranquillitade; potrassi il padre nato in Francia trasportare in
+Etiopia, dove generer@ae li figliuoli del tutto disimili in
+complessione ed in colore da lui.  Circa la stagione del tempo @e
+manifesto, che altra complessione e grossezza @e nelli figliuoli
+generati il verno, che in quelli che sono seminati la state; e
+cos@i come sono varj [ne'] corpi, cos@i @e varia la inclinazione del
+loro animo.  E per fisonomia delli membri di fuori prendiamo la
+ferocitade, la timiditade e simili costumi ed inclinazioni
+dell'animo; s@i come [in] pi@u [li]belli e per Alberto della Magna,
+e per molti savi e filosofi si scrive.  Ma l'Autore, omesse tutte
+l'altre cause, proseguita solamente quelle che causano li pianeti
+e li corpi celesti, li quali elli dice, che ottimamente fanno
+loro arte; ma per@o che non truovano la materia molte volte bene
+disposta, o cos@i disposta (la quale cosa atribuisce ^ex causa~
+alla providenzia divina, che vuole che sieno diversi per diversi
+offizj), s@i discorda il generato dal generante: la qual cosa se
+noi guardassimo como procede dalla divina providenzia,
+atribuiremo a ciascuno il suo offizio secondo la sua
+disposizione; ma molte volte si fa il contrario, come l'Autore
+dice nella fine del capitolo.  %c.  0 8
+
+	|1-12.  Solea creder lo mondo~ ec.  In questo principio
+l'Autore pone l'errore de' Pagani idolatri circa la stella di
+^Venus~, della quale esso intende di trattare; e dice, che il
+mondo, cio@e li mortali (e pone qui ^continens~ per la parte
+razionale, che di sotto si contiene) solea[no] in suo pericolo,
+cio@e in morte dell'anime loro, credere che la bella Ciprigna,
+cio@e ^Venus~, cos@i detta da l'isola di Cipri, dove avea suo
+singulare tempio (a denotare che li uomini di quella isola
+seguitano nella loro vita pi@u la influenzia di quella stella, che
+alcuni altri), -- |raggiasse~ ec., cio@e influesse e virtuase di
+s@e il folle Amore; cio@e che Amore fosse suo figliuolo: -- |volta~
+(quella stella, dice) |nel terzo epiciclo~, cio@e nel terzo
+circulo; o vero |epiciclo~ @e la rotonditade della revoluzione; o
+vero il circulo brieve del pianeto @e quello, il cui centro si
+muove sopra la circunferenzia del ciclo, detto ecentrico, da
+occidente in oriente.  E per questa cagione non pure a lei
+facia[no] onore de' sacrifizi e de' canti, ma Dione, cio@e Venere
+medesima, cos@i detta da bellezza, o vero divinitade che credeano
+essere in lei, e l'altro suo figliuolo, nome Cupido, onoravano
+lei per madre, e colui per figliuolo.  Onde nota, che li p[oe]ti
+secondo la credenza paganica atribuiscono [a] Vener[e] due
+figliuoli, Amore e Cupidine, per due sue arti che da lussuria
+muovono; cio@e, amore che puote essere intra convenevoli persone,
+e con non soperchia offenzione; e cupidine, quando @e tanto
+fervente il disiderio, che non riguarda condizione, n@e reverenzia
+alcuna, che sia licito o inlicito, nullo a s@e amante, o alla
+persona amata avuto rispetto, c[e]rca di compiere sua voglia.  E
+diceano quelle genti, che questo Cupido sedette in grembo a Dido
+di Cartagine, quando ella innamor@o d'Enea.  Secondo che
+testimonia Vergilio, nello Eneida, dice che Cupido, presa la
+forma d'Ascanio, and@oe a Dido, e quella il ricevette ed
+abbracci@oe, il quale [in lei] allora immise le sue fiamme.  E da
+costei, cio@e da Dio[ne], pigliavano il vocabolo della stella che
+vagheggia il Sole, ora di dietro, cio@e la sera, ora dal ciglio,
+cio@e la mattina che li va davanti; il cui corso puoi comprendere
+in la chiosa generale: la mattina @e detta ^Lucifer~, la sera @e
+detta ^Hesperus.~
+
+	|13-15.  Io non mi accorsi~ ec.  Questa @e la IJ parte del
+capitolo: dice l'Autore, che non s'acorse del salire in ella, ma
+avidesi quando elli vi fue dentro per questo segno, che Beatrice
+s@i come pi@u apropinquata al sommo Cielo, era pi@u lucente, per@o
+che pi@u era vicina a quello sole che le d@a ogni bellezza, cio@e
+Idio.
+
+	|16.  E come in fiamma~ ec.  Ecco la terza parte del
+capitolo, dove introduce anime nella spera terza, e pone loro
+chiarezza e loro bellezza.
+
+	|27.  Pria cominciato~ ec.  Cio@e, che la danza dello
+amore, che costoro hanno a Dio, fue dal principio cominciata
+nell'ordine de' Sarafini.  Onde nota, che come @e detto, VIJ
+capitolo ^Inferni~, esso Autore [pr]ende per motore del cielo di
+Venere uno Agnolo dell'ordine serafico.
+
+	|28-30.  E dietro~ ec.  Qui l'inno loro del loro canto
+procedente scrive: sempre come cresce bellezza d'animo, cos@i
+cresce dolcezza di melodia.
+
+	|31-39.  Indi si fece~ ec.  Questi @e Carlo Martello, il
+quale allo Autore offera il servizio suo e delle consorte anime;
+e per le parole ch'usa, appare che esso conobbe l'Autore in prima
+vita; e quivi il riconosce, e dice: noi ci volgiamo co' principi,
+cio@e Angeli del Cielo, |d'uno giro~, cio@e circulare, e |d'uno
+girare~ etterno, e |d'una sete~, cio@e d'uno amore; alli quali
+Angeli tu essendo nel mondo dirizzasti il tuo sermone in quella
+Canzone che comincia: |Voi che 'ntendendo~ ec.  E dice che sono
+s@i caritativi, che dolce fia loro per amore di carit@a quetarsi
+dal danzare, e satisfare allo Autore.
+
+	|40-44.  Poscia che gli occhi~... |E di', chi se' tu~ ec. 
+In questa parte presa la licenzia l'Autore da Beatrice di
+parlare, domanda la detta anima chi fue.
+
+	|46-48.  E quanta~ ec.  Qui mostra, che quando la detta
+anima venne a satisfare parlando all'Autore, ch'ella s'a[cc]rebbe
+in quantitade ed in qualitade, cio@e in grandezza ed in bellezza.
+
+	|49-51.  Cos@i fatta~ ec.  Qui si palesa la detta anima; e
+dice, che se fosse pi@u stato al mondo che non stette, molto male
+sar@ae, che non sarebbe esuto; quasi dica: io avrei composte le
+cose di Sicilia con quelle d'Aragona per modo, che sarebbe tolta
+la guerra, la quale continuo li affrigie.
+
+	|52-54.  La mia letizia~ ec.  Qui dimostra, che l'Autore
+conobbe questo Carlo in vita, e fue a lui per familiaritade
+dimestico; ma dice che la caritativa letizia, che in lei discende
+dal primo amore, la tiene fasciata, come @e fasciato quello
+animale che fa la seta della sua seta medesima.  E nota questa
+comperazione bella e cara, e ottimo conface: dice seta, per@o
+introduce l'animale, delle cui cose questa anima volentieri si
+vest@ie; fue al mondo persona che si dilett@oe in sollazi, canti,
+stormenti, larghezze, e nobilissime veste.
+
+	|55-57.  Assai m'amasti~ ec.  Qui denota l'affezione, che
+l'Autore ebbe alla detta persona in vita; e dice, che se pi@u
+fosse vi[v]uto, avrebbe del suo amore mostrato oltre le fronde,
+cio@e il frutto.
+
+	|58-60.  Quella sinistra~ ec.  Qui denota il paese, del
+quale con disiderio era aspettato per signore, cio@e Provenza, che
+da mano sinistra venendo di l@a qua si bagna del fiume del Rodano,
+poi ch'@e mescolato col fiume di Sorga; la quale Sorga @e termine
+della Provenza appartenente alla casa di Puglia, e di lungi
+d'Avignone IIIJ leg[h]e e meno.
+
+	|61-63.  E quel corno d'Ausonia~ ec.  Ancora dice, che
+[lo] aspettava per signore quel corno d'Ausonia, cio@e d'Italia,
+|che s'imborga~, cio@e che sta a modo d'uno borgo, che dalla parte
+del mare Mediterranio hae Gaeta, e dal mare d'Adriano hae [Bari]
+e San-Vito; e dice che i termini di quelle parti sono dove Tronto
+entra in mare, infino dove Verde entra in mare.  E bene dice
+|corno~, per@o ch'@e fatto a guisa di corno, ed ist@a in questa
+forma.
+
+	|64-66.  Fulgiemi gi@a in fronte~ ec.  Qui dice, che gi@a
+gli risplendea in capo, cio@e era coronato del reame
+d'Inghilterra, i cui confini verso terra tedesca pone il fiume
+del Danubio, e da mezzod@ie @e il mare Adriano, e da levante sono
+genti barbare: Cumini, Rossia, e Bracchia, e loro mistura.
+
+	|67-70.  E la bella Trinacria~ ec.  Cio@e, Sicilia (detta
+Trinacria da tre monti, ci@o sono Pachino, Peloro, e Monte
+Guibello; e dice che |caliga~, cio@e afumica tra 'l detto monte
+Pachino e 'l detto monte Peloro, sopra quello golfo che dal vento
+Euro |riceve maggiore briga~ ec., cio@e pi@u tempestato; il quale
+fumiga, non se[co]ndo le favole che dicono, ch'@e una bocca
+d'Inferno, per la quale quello gigante, detto Tifeo, spira
+continuo fuoco e fummo, ma per solfo, del quale @e venata e
+proporzionata la montagna) avrebbe aspettati, e aspetterebbe re
+di me discendenti...  Ovidio, nel V, dice: Lo monte trinacre @e
+posto sopra la grande isola sopra li membri di Tifeo gigante; la
+quale isola costrigne lui sottoposto a grandi monti; e per@o
+ch'egli ard@ie di guatare le [s]eggie del Cielo, [s]i sforza
+spesse volte e tenta di levarsi; ma la sua mano diritta @e
+sottoposta al monte Peloro d'Italia, la manca al monte Pachino,
+le gambe al monte Lilibeo; Mongibello li agrava il capo, sotto il
+quale arovesciato getta fuori le reni, e vomica la fiamma per la
+crudele bocca.
+
+	|73-75.  Se mala signoria~ ec.  Qui pone il detto re, la
+cagione della ribellione di Sicilia, la quale fu anni ^Domini~
+1282, e cominci@o per calen di Aprile.  Palermo si rubell@oe da
+Carlo re di Sicilia per lo trattato cercato e mosso per messer
+Giovanni di Procida; ed uccisero i Palermitani il giustiziere che
+v'era per lo re, con tutti li Francieschi che v'erano; e poco
+tempo passando [d]alla sommossa de' Palermitani, si rubell@oe
+Messina e tutte l'altre terre di Sicilia; e tutta la gente, che
+v'era per lo detto re, uccisero e cattivaro. [E] la cagione fu,
+secondo che dice il testo, la ingiuria incomportabile, e molestia
+da non potere sofferire, la quale li officiali e famiglia del
+detto re facevano alli isolani di Sicilia, s@i come @e scritto di
+sopra, capitolo terzo ^Paradisi~ -- ^Questa @e la luce della gran
+Gostanza.~  Federigo imperadore, per ereditaggio di questa
+Gostanza, figliuola del re Guiglielmo di Sicilia, ebbe quello
+regno, il quale elli per privazione perd@ee, s@i come @e scritto di
+sopra, capitolo decimo ^Inferni~ -- ^Dissemi qui~ ec.  Il quale
+regno ebbe poi dalla Chiesa Carlo duca d'Angi@o, fratello dello re
+di Francia, come appare di sopra, capitolo XX ^Purgatorii~ --
+^Carlo venne in Italia~ ec.  Papa Urbano nel 1272 diede in feudo
+Sicilia, occupata per Manfredi, al detto re Carlo, per lo quale
+il detto Carlo venne nel 1275 al tempo di Clemento papa, nato di
+Sangilio in Provenza; del quale regno fue coronato il die della
+Epifania, ed il sezzaio venard@i di Febbraio spogli@oe della vita e
+del reame il detto re Manfredi, e quello tenne infino al 1291, in
+calendi d'Aprile; ma nel 1279 il detto re imprese ad istanzia di
+Baldovino imperadore di Costantinopoli, suo genero, il quale era
+cacciato dello imperio per lo Paglialoco, imperadore de' Greci,
+un grande passaggio per racquistare al genero lo imperio, ed
+apparecchiare a s@e utilissimo luogo all'acquisto del regno di
+Jerusalem; ed a ci@oe ordin@oe C legni sottili, cio@e galee di
+corso, XX navi grosse, CC uscieri da cavalieri, ed altri legni
+numerosi, con aiuto della Chiesa, e del re di Francia suo nipote. 
+E credesi che 'l suo intendimento sarebbe venuto ad efetto, se la
+rebellione, della quale il testo fa menzione, interciso non
+l'avesse; per@o che al Paglialoco, insufficiente di potenzia e
+d'animo, parte di Grecia era fallita.  Li Francieschi per le
+vittorie avute sotto il detto re Carlo trattavano li Ciciliani e
+li Pugliesi per servi; per la qual cosa molti de' buoni del regno
+di Sicilia s'erano partiti e rubellati.  Intra li quali il detto
+messer Gianni, signore stato dell'isola di Procida, per suo senno
+ed industria pens@oe turbare il detto passaggio, ed indebilire le
+forze reali: secretamente and@oe in Costantinopoli al Paglialoco
+per due volte, e mostrogli la via di suo scampo: ci@o era la
+rebellione di Sicilia, la quale prometteva fare per
+intervenimento di sua pecunia, e con ajuto de' baroni di Sicilia,
+con consentimento di papa Niccola degli Orsini, e forza di gente
+d'arme del re Piero di Raona interprenditore di ci@oe; per@o che a
+lui si doveva la Sicilia per ereditaggio della reina Gostanza sua
+moglie.  Ed avuto il consentimento del detto Paglialoco, e sue
+lettere, e ambasciadori, e presenti, e moneta, torn@oe in Sicilia,
+e pales@oe lo incominciato trattato a messer Alamo da Lentino,
+messer Gualtieri di Catalagierone, ed a messer Palmieri Abbate, i
+maggiori e pi@u odiali del re ch'avesse l'isola: dalli quali prese
+lettere, ed andonne al re d'Araona; ed appresso venne in corte di
+Roma in abito [di] frate minore, e parl@oe a papa Niccola, il
+quale elli indusse allo asentimento della rebellione, s@i per
+moneta, s@i per compassione delle afflizioni d[ell]i Siciliani, s@i
+per indegnazione conceputa contra il re Carlo per lo rifiutato
+parentaggio.  Dal quale aute lettere sigellate col secreto
+sigello, torn@oe al re di Raona anni 1280; poi dirizz@o sua via a
+dare ordine alla cosa in Sicilia: ma papa Niccola mor@ie in questo
+tempo, ci@o fue nel 1281 d'Agosto, a Viterbo; e dopo li V mesi fu
+fatto papa messer Simone dal Torso di Francia, poi chiamato papa
+Martino quarto, molto amico del re Carlo.  Nel detto anno...
+messer Giovanni di Procida con li ambasciadori e con moneta,
+perch@e facesse la impresa, e cominciasse l'armata; sopra la quale
+cosa il re molto dubitando s@i per la potenzia del re Carlo e
+della Chiesa, come della morte di papa Niccola, e creazione di
+papa Martino, per le persuasioni di detto messer Janni con molta
+fatica ritorn@oe al trattato, il quale da capo giur@oe; [e]
+accendendolo a ci@oe il desiderio del regno, amore di vendicare il
+suo avolo, la presentata moneta, e la divozione de' Siciliani,
+fece gridare l'armata, e bandire soldo a cavallo e a piede,
+dicendo d'andare sopra i Saracini.  Per la qual cosa se offerse
+[a lui] in monete e in gente il re di Francia suo cognato; e poi
+la Chiesa di Roma, non meno per sospeccione ch'aveva di lui, che
+per effetto ch'avesse alle sue opere.  Quelli, sotto genere
+celando il luogo dove doveva ire, prese moneta dal re di Francia:
+appresso nel 1282, il luned@i della Pasqua della Resuressione del
+Signore d@i 30 di Marzo, s@i come [per] messer Gianni era ordinato,
+li baroni e li caporali di Sicilia, che cominciavano la
+ribellione, vennero a pasquare in Palermo.  Il giorno si facea la
+festa a monte reale lungi da Palermo tre miglia; alla quale s@i
+l'isolani, come li Francieschi, andavano a piede e a cavallo:
+dove andando uno Franciesco, per orgoglio prese una donna
+palermitana per farle villania; alla quale gridando il commosso
+popolo trasse, e per li familiari delli detti baroni si cominci@o
+a difendere la donna; onde nacque battaglia tra' Francieschi e
+Siciliani, e morti e fediti assai di ciascuna parte.  Li
+Siciliani furono rotti, onde si trassono alla cittade, e quivi,
+come dice la lettera, prendendo arme gridarono: muoiano, muoiano
+i Francieschi.  Alla boce segu@i l'opera; dove fu morto il
+giustiziere che v'era per lo re, e tutti li Francieschi.  Li
+baroni siciliani si tornarono alle loro terre, e fecero il
+simigliante, salvo che Messina ritard@oe alquanto, e poi fecero
+pi@u che gli altri; [e morirono] in Sicilia pi@u di IIII'M
+Francieschi.  In questo tempo era il re Carlo in corte, dove
+avuta la novella si compianse di ci@o al Papa ed alli principi
+cristiani, e li richiese di suo aiutorio.  Li Palermitani
+pentuti, sentendo il grande apparecchiamento che 'l re Carlo
+facea, mandaro in corte chiedendo perdono, [ma] non furono uditi. 
+Il re mont@o in sulla Sicilia con moltitudine di cavalieri e
+pedoni, e puose l'assedio a Messina, i quali nullo perdono
+trovavano in lui.  E lasciate le correrie, li assalti della
+cittade, e l'altre cose molte, il re di Raona venne a Palermo, e
+superbe lettere mand@o allo re Carlo che si partisse della sua
+isola; poi mand@oe il suo amiraglio messer Ruggieri di Loria, con
+LX galee sottili armate, alla bocca di Far di Messina per
+impedire il foraggio dell'oste; onde il re Carlo per consiglio
+de' suoi baroni si lev@oe da oste, temendo il pericolo, a d@i 26 di
+settembre 1283, e torn@oe in Calavria con molta doglia, danno, ed
+onta.
+
+	|76-83.  E se mio frate~ ec.  Detto come per la molta e
+oltragiosa signoria, che li Francieschi offiziali del re Carlo
+vecchio facevano in Sicilia, l'isola si tolse dalla subbiezione
+del detto re, e per conseguente dal detto Carlo giovane, e
+descendenti d'esso re Carlo; ora, toccando li costumi del
+presente re Ruberto, antidice come il regno di Puglia per la
+insaziabile avara povertade de' Catalani, i quali il detto re
+tiene e promuove, far@a quello medesimo se il detto re non si
+provvede di tale gente d'arme, che non curi di mettersi l'avere e
+li uomini in borsa.  E qui parla l'Autore naturalmente, seguendo
+il detto di Fabio Massimo nella elezione de' consoli.  Procurando
+d'essere consolo uno molto ricco ma avaro, ed uomo molto povero,
+elli domandato quale li piacesse di loro due, rispuose: n@e l'uno,
+n@e l'altro; per@o che l'uno nulla hae, e l'altro nulla cosa @e che
+basti.  E dice l'Autore, biasimando il detto re Ruberto, che la
+sua natura discesa di larghi parenti, @e scarsa.
+
+	|85-93.  Perocch'io credo~ ec.  Qui l'Autore dirizza il
+suo sermone al sopradetto re Carlo dicendo, che per@o ch'elli
+crede che le sue parole (quanto tenghino del paragrafo -- ^E se
+mio frate~ ec., infino al fine) si traggono per lui da Dio, nel
+quale ogni bene innizia, cio@e comincia, e finisce (^Ego sum alpha
+et omega~, disse Idio: principio e fine); come a me @e ora data
+grazia di [vederlo] pi@u grazioso.  [Ed] ancora, perch@e tu sei tra
+li beati, li quali contempla[no] Iddio, [e] discernono il futuro
+e 'l presente ed il preterito (le quali parole sono
+anu[n]ziatrici di quello ch'@e a venire), m'hai fatto lieto; e
+per@o mi fa chiaro d'uno dubbio ch'io hoe, traendo la tua
+sentenzia da Dio: come essere pu@o, che di dolce seme n'esca amaro
+frutto, di larghi parenti avaro figliuolo, di virtuosi generanti
+e concepenti nato vizioso e cattivo? La quale quistione muove
+l'Autore per la parola sopra toccata del detto re Ruberto, quivi
+-- ^La sua natura che di larga, parca Discese~ {vv.82-83} ec.; e
+non sanza cagione muove Dante questo, per@o ch'elli vuole solvere
+naturalmente e con ragione filosofica, per@o che nel capitolo VJ
+^Purgatorii~ elli avea detto, che questo procedea solamente da
+Dio; in ci@o che volea, che da lui si tenesse la virt@u e il bene
+che @e nelli uomini, non da' loro padr[i]; ed ivi similemente
+diede la materia di cos@i parlare il detto re Carlo vecchio; la
+quale questione solve infra, quivi -- ^Ed elli a me~ {v.94} ec. 
+-- |Come uscir pu@o~ ec.  Per@o che 'l detto Carlo disse, che la
+natura del re Ruberto discese dal re Carlo, il quale fu magnanimo
+e largo, ed elli @e pusillanimo e scarso, muove l'Autore questa
+questione: come d'uno seme dolce puote uscire frutto amaro, come
+@e detto.
+
+	|94-96.  Ed egli a me: s'io posso~ ec.  Volendo venire il
+detto Carlo ad asolvere il dubbio, in questa parte intende
+rendere l'Autore attento, mostrando lo effetto del suo dire,
+dicendo: Se tu il potrai intendere, tu terrai il viso come tu
+tieni il dosso; cio@e, che la cosa, la quale t'@e occulta allo
+intelletto, ti fia manifesta, s@i come se tu avessi il viso l@a
+dove tu hai ora il dosso; ed una cosa ti fosse di dietro, che non
+la vedessi, tenendo il viso come tu fai; ma tenendo il viso l@a
+dove tu hai il dosso, la vedresti; e cos@i quello ch'@e ascoso ora
+al tuo intelletto, mostratoti io uno vero, far@oe che ti sia
+dinanzi allo intelletto; e questo elli medesi[mo] dice qui infra
+-- ^Or quel che t'era dietro, t'@e davanti~ {v.136}.
+
+	|97-111.  Lo ben che tutto 'l regno~ ec.  Qui incomincia
+la declarazione del dubbio, e procede cos@i: Idio, ch'@e l'ultimo
+fine della felicitade umana, il quale gira e contenta tutto il
+regno celestiale, il quale tu sali, la sua provedenza fa essere
+virt@u, cio@e influenzia in questi corpi grandi che tu vedi, cio@e
+in questi corpi supercelesti, che veramente sono grandi, per@o che
+la minore stella ch'@e nel firmamento, @e maggiore che tutta la
+terra; e quanta sia la grandezza di ciascuno pianeto li dottori
+d'astrologia chiaro il pongono, secondo che si puote sapere
+umanamente.  E non pure le nature provedute [per] Dio d'essere,
+sono nella mente di Dio, la quale da s@e @e perfetta; ch@e
+altrimenti non sarebbe onnipotente, s@i come pruova Boezio nel
+libro ^de Consolatione~: ^Quisquis profunda mente~ ec.; dove la
+Filosofia dice: <Idio, ch'@e somma beatitudine, avemo provato
+essere da s@e ad ogni cosa sufficiente, e ch'elli non hae bisogno
+a reggere il mondo d'alcuni aiutorj di fuori; altrimenti, s'egli
+abisognasse d'alcuna cosa, non avrebbe piena sufficienzia:
+adunque per s@e solo dispone tutte le cose>.  E soggiugne
+l'Autore: ma esse nature provedute con ci@o che abisogna loro,
+sono nella mente divina; e per@o quantunque questo arco del Cielo
+per sua influenzia saetta, cade disposto a fine proveduto da Dio. 
+E cos@i [@e], che 'l sommo artefice della natura, Dio, dispone
+principalmente, e governa secundariamente per li Angeli e per li
+corpi delle stelle, s@i come per suoi strumenti, che quello ch'@e
+proveduto, nel segno suo si dirizzi, cio@e in quello a che @e
+saettato.  E se ci@o non fosse, questi Cieli, per li quali tu vai,
+produrrebbono sanza alcuno ordine o regola alle cose di sotto,
+che sono effetti delli moti de' corpi celestiali; e cos@i non
+sarebbono arte, la quale tende ad uno fine, ma sarebbono rovine:
+e questo non puote essere, se li Angeli che muovono queste
+stelle, non avessero difetto, ed avesse difetto Idio, che non li
+avesse fatti perfetti e sufficienti all'offizio, al quale gli hae
+ordinati.  E che Dio sia perfetto, @e evidentissimo; e Boezio il
+pruova nel IIJ di Consolazione; e cos@i ha provato lo detto Carlo,
+che Dio, che @e sommo bene, mette le virt@u nelli corpi delli
+pianeti, per li quali elli operano nelli corpi inferiori; e che
+Dio, dal quale @e ogni ordine, d@a ordine a quegli e a' motori
+d'essi: s@i ch'@e di necessitade, che quanto muove da l'arco
+celestiale, saetti dispostamente ed a proveduto fine; per@o che il
+maestro @e ottimo, e lo strumento @e ordinatissimo; e cos@i ha
+proveduto il primo vero, il quale elli propuose quivi -- ^S'io
+posso Mostrarti un vero~ {vv.94-95} ec.  Ora procede, e dice:
+@Etti questo assai chiaro, o vuogli ch'io il dilucidi pi@u? 
+L'Autore risponde: non voglio che tu pi@u l'apra, per@o ch'io
+veggio manifestamente, ch'egli @e impossibile che la natura
+stanchi in quello ch'@e bisogno.  E per@o procede Carlo, e dice:
+Rispondimi; se l'uomo non fossi in terra animale civile, cio@e
+trattevole, ragionevole, e cittadinesco, ed acconcio ad essere
+retto, sarebbe egli [il] peggio? e l'Autore risponde: s@i; e Carlo
+procede, e domanda l'Autore: Puote l'uomo essere civile in terra,
+s'elli non vi si vi[ve] diversamente per diversi offizj? l'Autore
+risponde: no; [se] Aristotile dice il vero nel libro
+^Politicorum.~
+
+	|112.  Vo' tu che questo~ ec.  Qui offera la detta anima
+venire a particulare pruova, cio@e come Dio sia onnipotente,
+sapientissimo, amantissimo del bene, s@i che tutto sa, tutto
+puote, tutto bene vuole; e per conseguente i cieli che sono
+immediati da lui, cos@i com'elli vuole ed ordina, cos@i
+esseguiscono.
+
+	|113.  Ed io: non gi@a~ ec.  Questa risposta dell'Autore @e
+chiara.
+
+	|115-117.  Ond'elli~ ec.  Qui viene conchiudendo con li
+suoi argomenti verso il proponimento; e dice: Io ti domando
+dunque, se per l'uomo sarebbe il peggio in terra ch'elli non
+fosse cittadino (ed @e cittade acoglimento ordinato a
+politicamente vivere); e l'Autore risponde assolutamente, che s@i;
+e che di ci@o non vuole alcuna pruova, per@o ch'@e manifesto ed
+appare (per quello ch'@e detto di sopra quella parola -- ^Lo ben
+che tutto il regno~ {v.97} ec.), che l'uomo @e animale civile
+politico, per@o ch'@e uomo per intelletto, e per@o naturalmente
+desidera la somma perfezione dello intelletto, che @e la somma
+beatitudine: la quale non si puote avere, se non andando avanti
+le virtudi morali, le quali [s'] hanno per uso ed operazione,
+conversando con gli altri, in quanto @e parte l'uomo della
+moltitudine politica, con la quale politicamente dee vivere; la
+qual cosa non potrebbe fare, se vivesse solitariamente.
+
+	|118-120.  E pu@o egli esser~ ec.  Or pr[oce]de, e dice:
+puote elli essere, che l'uomo in terra sia cive, se gi@u non si
+vive per diversi offizj diversamente, s@i come fae nella cittade,
+che alcuni tendono ad artistare freni, selle ed armi; [alcuni
+tendono] a l'arte militare; alcuni tendono all'arte lanifica;
+alcuni all'arte medici[n]ale; alcuni a l'arte fabrile, acci@o che
+questi particulari artefici faccino e costituiscano uno perfetto
+tutto, il quale di nulla abisogna di fuori; e che quest[i] per lo
+adirizza[to]re della cittade sieno adirizzati nelle loro opere,
+s@i ch'elle sieno a vertuoso vivere: e dice, no; se 'l maestro
+vostro, cio@e Aristotile, bene scrive nella Politica.
+
+	|121.  S@i venne~ ec.  Parole chiare sono dell'Autore.
+
+	|122-123.  Dunque~ ec.  Questa conclusione @e aperta, che
+diverse cause producono diversi effetti; diversi arbori producono
+diversi frutti; diversi artefici fanno diversi lavorii:
+altrimenti non sarebbono diversi, ma uno medesimo, quanto alla
+operazione; e per la diversitade [e] varietade ch'@e in loro,
+abisognano d'avere rettore e governatore, che il loro vivere
+dirizzi secondo ragione ad uno termine, e che faccia le cittadi
+vivere secondo virtude, e punisca e scacci li vizi.
+
+	|124.  Perch@e un nasce Solone~ ec.  Ecco li varj efetti e
+di diversi radici; ch@e uno nasce Solone, il quale fu il pi@u savio
+delli VIJ savi di Grecia; [e] fue d'Attene, e quivi riluc@e di
+sapienzia; compuose alli Atteniesi ottime leggi, le quali poi li
+Romani presero dalli Atteniesi; e molti benifizi diede loro, e
+molto tempo li liber@oe da servitudine e tirannia per lo suo
+senno; e finalmente muta[tasi] la fortuna, fuggendosi dalla sua
+cittade se n'and@oe in Egitto; poi s'acost@oe a Creso re de' Lidii;
+ed indi promosso se n'and@o in Sicilia, dove sotto il nome suo
+fece una cittade; ultimamente in Cipri compi@e la sua vecchiezza:
+fu al tempo di Fisistrato.  -- |ed altro Serse~ ec.  Questi fue
+il potentissimo re di Persia, del quale @e scritto che fece ponte
+al mare Elespontiaco, capitolo XXVIII ^Purgatorii.~
+
+	|125-126.  Altro Melchisedech~ ec.  Questi fue nel popolo
+di Dio sommo pontefice, del quale @e scritto nella Bibia, libro
+^Genesis~, capitolo XIV, dove dice che tornando Abraam da
+liberare dalle mani de' nimici il suo fratello, preso Lot e la
+sua sustanzia, lo re di Sodoma li si fece incontro; e
+Melchisedech re di Salem, proferendo pane e vino (lo quale era
+sacerdoto di Dio altissimo), il benedisse, e disse: <Benedetto
+Idio eccelso, che cre@o il Cielo e la terra; il quale difendente
+diede li nimici nelle mani tue> ec.  S@i che Melchisedech aveva la
+dignitade reale, e la pontificale; un altro nulla avr@ae.  -- |Ed
+altro [@e] quello~ ec.  Cio@e Dedalo, il quale volando perd@eo Icaro
+suo figliuolo, del quale @e tocco, capitolo XVII ^Inferni.~ 
+Questi fue sommamente ingegnoso circa opere manuali.  O[ra] hae
+che l'Autore vole, che li uomini la inclinazione ad alcuna
+scienzia o arte abbino dalli corpi di sopra, s@i come in pi@u
+capitoli @e tocco; come Saturno ad agricultura; Marte a battaglia;
+Giove a' principati; il Sole a sapienzia; ^Venus~ a delettazioni
+di suoni e giuochi ed amori; Mercurio ad invenzioni e trovamenti
+di sottili cose.
+
+	|127-129.  La circular natura~ ec.  Cio@e: la natura delle
+stelle, il cui corso @e circulare, la quale @e suggello a scolpire
+e figurare imagini informative |alla cera~, cio@e materia mortale,
+cio@e mondana e di sotto, fa bene l'arte sua, cio@e ottimamente
+secondo opera per ragione ad uno fine, e dirizza ci@o che fa, nel
+segno posto; ma ella non distingue l'uno ostello dall'altro, cio@e
+non divide, n@e parte li ostelli, cio@e l'abitazioni nelle quali si
+ricevono generati effetti; la quale generazione pertiene allo
+uomo.  E secondo le oppinioni d'alcuni, vi sono VIJ camerette
+distinte in tre parti; nelle tre che sono dal lato diritto si
+generano li maschi; nell'altre dal lato [sinistro] si generano le
+femmine; nella mezzana intra queste li ermafroditi, che hanno
+l'uno sesso e l'altro: s@i che in questa distinzione non hae a
+fare alcuna stella.  Ed Aristotile dice: <l'uomo e il Sole
+generano uomo; s@i che nella generazione @e grandissima parte
+l'uomo> ec.
+
+	|130.  Quinci adivien~ ec.  Dice, che quello che la
+circulare natura non fa, per@o che non @e sua arte, fa la natura
+generata, cio@e l'uomo e la femmina, del cui seme si genera la
+creatura; e per lo quale seme si diparte Esa@u, il quale @e infuso
+nella prima cameretta recettiva del seme, di Iacob, il quale @e
+infuso in altra cameretta recettiva del seme generativo. 
+Genesis, capitolo XXJ: Isaac, essendo di XL anni, men@o per moglie
+Rebecca, figliuola di Battuele de Mesopotamia di Siria, sorore di
+Laban; e preg@oe Isaac Idio per la moglie, per@o ch'era sterile; il
+quale lo essaud@i.  E con[cep@e] Rebecca; ma azzufandosi nel ventre
+li fanciulli, la quale disse: s'egli doveva cos@i essere, che uopo
+aveva io d'ingravidare? ed and@oe a domandare consiglio a Dio, il
+quale disse: due genti sono per lo ventre tuo, e due popoli del
+ventre tuo si divideranno; e l'uno popolo vincer@a l'altro, ed il
+maggiore sar@a servo del minore.  Gi@a era venuto il tempo del
+partorire, ed ecco che i gemelli sono trovati nel ventre suo;
+quello che usc@i prima, era rosso e aspro e piloso a modo di
+pelle, e fue chiamato Ysa@u; immantanente usc@ie l'altro, tenendo
+con la mano la pianta del piede d'Ysa@u, e per@o il chiam@o Iacob. 
+Di XL anni era Isaac quando li nacquero li fanciulli; li quali
+cresciuti, fatto @e Ysa@u uomo saputo di cacciare e lavoratore;
+Iacob era uomo semplice; abitava nel tabernacolo.  Isaac amava
+Ysa@u, per@o che mangiava delle cacciagioni sue, e Rebecca amava
+Iacob: s@i che l'uno, cio@e Ysa@u, fu uomo faticante ed audace; e
+l'altro, cio@e Iacob, fue uomo di riposo e di quiete; e proceduti
+da una radice, cio@e da Isaac, furono diversi [i] frutti per la
+distinzione delle case dove si ricevettero i semi, o il seme.
+
+	|131-132.  E vien Quirino~ ec.  Cio@e Romolo, che in
+lingua sabina fue detto Quirino, cio@e portatore d'asta, discese
+del prete di Marte: di che li uomini, vedendo le sue magnifiche
+opere, dissero che Dio Marte era giaciuto con la madre; non
+vollero attribuirli cos@i vile padre come uno prete: il quale fue
+impertanto assai differente da Remolo suo fratello, de' quali @e
+detto di sopra, capitolo sesto ^Paradisi~, sopra quello paragrafo
+-- ^E sai che fe' del mal delle Sabine~ ec.
+
+	|133-135.  Natura generata~ ec.  Dice, che cos@i
+ubbidirebbe la natura generata in osservare il suo cammino al
+termine di producere il figliuolo simile al padre, come fa la
+natura de' pianeti nell'arte sua in fare inclinati li ingenerati
+alla disposizione di quello pianeto, se none vincesse la
+providenzia di Dio, la quale vuole che il bene da lui si tenga e
+chiami: onde rade volte risurge per li rami l'umana probitade per
+la detta cagione, ^ut supra~, capitolo VII ^Purgatorii~; e per
+questo uomo buono non genera sempre buono uomo, ch'@e la
+propietade del corso.  E nota, ch'egli @e natura naturante, cio@e
+Idio creatore della natura; e poi @e la natura generante, s@i come
+sono li cieli per loro influenzia; terzo @e natura naturata, come
+@e l'animale e l'uomo; ed @e ancora sopra queste un'altra natura,
+che si chiama ubidenzia naturale.
+
+	|136-138.  Or quel, che t'era retro~ ec.  Cio@e, [o]ra t'@e
+nel cospetto quello che tu non ved[ev]i; ma perch@e tu sappi ch'io
+hoe delettazione in te, voglio che te ne porti uno corolario,
+cio@e una giunta onorata, come @e uno mantello sopra li altri
+drappi, che rende altri pi@u orrevole.
+
+	|139-145.  Sempre natura~ ec.  Dice, che se natura truova
+fortuna, della quale @e detto di sopra, capitolo VIJ ^Inferni~,
+cio@e il corso delle cose temporali discordante a s@e, fia mala
+pruova; s@i come il seme d'uno paese caldo fosse portato in uno
+paese freddo.  E per@o soggiugne, che [se] gli uomini volessero
+torre via questa discordanzia, ch'elli dovrebono raguardare la
+inclinazione del generato; e cos@i li dovrebbono dare arte o
+scienzia o religione, che a quella inclinazione, che viene dalla
+natura circulare, si confacesse: ma perch@e molte volte tiene
+contrario ordine, s@i esce [del] vero cammino, e conviene che non
+venga al buono termine, nel quale la circulare natura dirizzava
+la natura generata.
+
+	|147.  E fate re~ ec.  Tocc@oe il suo fratello re Ruberto,
+il quale non doveva essere re, ma religioso; il quale fu motivo
+di questa quistione ec.
+

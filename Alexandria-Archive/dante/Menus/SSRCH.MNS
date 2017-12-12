@@ -1,0 +1,154 @@
+{SSRCH}
+
+:COMPARE @SELECTION
+     TO "S"
+	:RETURN
+:DONE
+
+:COMPARE #MAXQUERY
+     TO "0"
+	:SET @M1 ~~
+	:SET @P1 ~~
+     TO "1-999"
+	:SET @M1 ~V|v|~
+	:SET @P1 ~\n\t\o2V\f2 to Save current queries\n~
+:DONE
+
+:PRINT ~@HEADING_Available SaveSearch Functions are:\n
+	\o2L\f2 to List available SaveSearches\n
+	\o2D\f2 to Display a SaveSearch\n
+	\o2R\f2 to Remove a SaveSearch\n
+	\o2E\f2 to Execute a SaveSearch\n@P1
+	\o2H\f2 to display Help\n
+	\o2S\f2 to Search\n\n~
+:DONE
+
+:GET @SELECTION ~Enter your selection [S]: ~ "H|h|L|l|D|d|R|r|E|e|S|s|@M1"
+:PARSE @SELECTION UPPER
+
+:COMPARE @SELECTION
+     TO "H"
+	:SET @SELECTION ~~
+	:MENU ~SSRCH_H~
+
+     TO "S|"
+	:SET @SELECTION ~S~
+	:RETURN
+
+     TO "*"
+	:SEND ~Ebrsdir -int~
+	:SHOW BEFORE "*"
+
+     TO "D"
+	:SET @P1 ~display~
+
+     TO "R"
+	:SET @P1 ~remove~
+
+     TO "V"
+	:SET @P1 ~create~
+
+     TO "E"
+	:SET @P1 ~execute~
+
+     TO "L"
+	:PRINT ~@HEADING_Available SaveSearches:\n\n~
+	:SET #HEADING ~@HEADING_Available SaveSearches (continued):\n\n~
+	:DIRECTORY ~PS(*)~
+	:PAUSE
+
+     TO "V|D|R|E"
+	:PRINT ~\n~
+	:GET @NAME ~Enter name of SaveSearch to @P1 [Cancel]: ~ "#1-8|"
+	:COMPARE @NAME
+	     TO ""
+		:SET @SELECTION ~Q~
+
+	     TO "*"
+		:PARSE @NAME UPPER
+		:SEND ~C,#PS@NAME.psf~
+		:SHOW BEFORE "*"
+	:DONE
+
+     TO "D|R|E"
+	:COMPARE #LEFTOVER
+	     TO "1*"
+		:CLEAR STACK
+		:PRINT ~\n\o5 SaveSearch @NAME not found \f5\n~
+		:PAUSE
+		:SET @SELECTION ~Q~
+	:DONE
+
+     TO "V"
+	:COMPARE #LEFTOVER
+	     TO "0*"
+		:GET @TMP ~@NAME exists.  Enter \o2yes\f2 to confirm [No]: ~
+		:PARSE @TMP UPPER
+		:COMPARE @TMP
+		     TO ""
+			:SET @TMP ~No~
+		     TO "YES"
+			:SET @TMP ~~
+		     TO "*"
+			:CLEAR STACK
+			:PRINT ~\n\o5 Function cancelled \f5\n~
+			:PAUSE
+			:SET @SELECTION ~Q~
+		:DONE
+	:DONE
+
+     TO "D"
+	:PRINT ~@HEADING_Display of @NAME:\n\n~
+	:SET #HEADING ~@HEADING_Display of @NAME (continued):\n\n~
+	:SEND ~P,#PS@NAME.psf~
+	:SHOW
+	:PAUSE
+
+     TO "R"
+	:GET @TMP ~Enter \o2Yes\f2 to confirm [No]: ~
+	:PARSE @TMP UPPER
+	:COMPARE @TMP
+	     TO "YES"
+		:SEND ~X,#PS@NAME.psf~
+		:SHOW BEFORE "*"
+		:PRINT ~\nSaveSearch @NAME Removed\n~
+		:PAUSE
+	:DONE
+
+     TO "*"
+	:SEND ~Q~
+	:SHOW BEFORE "*"
+
+     TO "Q|D|L|R"
+	:MENU
+
+     TO "V"
+	:SEND ~V#PS@NAME.psf~
+	:SHOW BEFORE "*"
+
+	:PRINT ~\nSaveSearch @NAME Created\n~
+	:PAUSE
+	:MENU
+
+     TO "E"
+	:SET #HEADING ~@HEADING_Execution of @NAME on #DBNM in progress ...\n\n~
+	:SET #QMASK ~#ZQ~
+	:PRINT ~@HEADING_Start of execution of @NAME on #DBNM ...\n\n~
+
+	:BRS EXECUTE ~#PS@NAME.psf~
+
+	:COMPARE #RESULT
+	     TO "ERROR"
+		:PARSE #RESULT EXTRACTING @TMP
+		:CLEAR STACK
+		:PRINT ~\t\o5 #RESULT \f5\n~
+	:DONE
+
+	:PRINT ~\nSaveSearch Execution Complete.\n~
+	:PAUSE
+
+	:SET @HAVEHITS ~Yes~
+	:SET @BDEFAULT ~#MAXQUERY~
+
+	:MENU
+:DONE

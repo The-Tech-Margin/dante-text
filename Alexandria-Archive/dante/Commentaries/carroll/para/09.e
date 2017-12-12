@@ -1,0 +1,711 @@
+	|7-15.~  When Charles Martel at the close of his discourse turned
+to the Sun that now fulfilled his entire being, another of the
+`splendours' of this star drew near to Dante, brightening
+outwardly in token of its will to please him.  Receiving liberty
+from the eyes of Beatrice, the poet asked the `blessed spirit' to
+give him proof of its power to reflect his thought by answering
+his unspoken wish -- the wish being, as the answer shows, to know
+the soul's identity.  It turns out to be that of Cunizza,
+youngest daughter of Ezzelino II. da Romano, the most famous of
+whose many lovers was Sordello of Mantua, who acts as guide to Dante
+and Virgil in the Valley of the Princes on Mount Purgatory [^Purg.~ vi.
+58 f.].  In Browning's ^Sordello~, Cunizza is the heroine under the
+name of Palma.
+
+     [`Palma, Dante spoke with in the clear 
+     Amorous silence of the swooning-sphere, --
+     ^Cunizza~, as he called her!' (Bk. V).
+
+Browning tells how to the young Sordello she sat `conspicuous in his
+world of dreams':
+
+                  `How the tresses curled
+     Into a sumptuous swell of gold and wound
+     About her like a glory! even the ground
+     Was bright as with spilt sunbeams' (Bk. I).]
+
+	|25-36.~  She describes herself as having been born `out of one
+root' with the `torch' of the Trevisan March, the torch being the
+infamous tyrant Ezzelino III. da Romano, whom Dante, for his
+horrible bloodshed and cruelties, plunges up to the eyebrows in
+the River of Blood in the Seventh Circle of the Inferno:
+
+     That forehead there which has the hair so black 
+     Is Azzolino.'
+                         [^Inf.~ xii. 109.]
+
+He is called a torch in reference apparently to the story of his
+mother's dream that she had given birth to a blazing firebrand. 
+So intolerable did his lust for blood and torture grow that the
+Pope proclaimed a crusade against him, as `a son of perdition, a
+man of blood, the most inhuman of the children of men, who, by
+his infamous torture of the nobles and massacre of the people, has
+broken every bond of human society, and violated every law of Christian
+liberty.'  [For his cruelties, see Villani, vi. 72.  `I believe in
+truth,' says Salimbene, `that no such wicked man has been from the
+beginning of the world unto our own days; for all men trembled at him
+as a rush quivers in the water, and not without cause: for he who lived
+to-day was never sure of the morrow.  The father would seek out and
+slay his son, and the son his father, or any of his kinsfolk, to please
+this man: he would submit ladies to the foulest mutilations, and cast
+them into prison with their sons and daughters to perish of hunger'
+(Coulton, ^From St. Francis to Dante~, 246).  Cunizza describes Romano
+as lying between the Rialto (Venice) and the springs of the rivers
+Brenta and Piave (iv. 25-27).]  It is not without purpose that Cunizza
+describes herself as born `out of one root' with this destroying
+fireband.  It is another example of those inscrutable differences in
+members of the same family of which Charles Martel had just been
+speaking.  Born of the same root, the sister is here in Paradise, the
+brother in the heart of Hell.  This mysterious separation of families
+seems to have taken strong hold of the poet's imagination; again and
+again he takes a family group and separates its members throughout the
+three divisions of the other world, to indicate, apparently, that
+nothing but spiritual kinship prevails at last.
+
+     This contrast of destiny grows more mysterious when we
+remember that Cunizza seems to have been not much better in her
+love adventures than her brother in his cruelties.  Even at the
+risk of being classed among the `vulgar herd' to whom Dante
+refers (ix. 36), one can scarcely refrain from wondering why she
+is not in the same Circle as Paolo and Francesca.  Probably Dean
+Plumptre's explanation is correct, that Dante knew something of
+her repentance in her last days, a repentance which seems to have
+shown some genuine kindness of heart.  After the death of her
+brothers, he says, `she found a retreat in Florence.  The last
+fact known of her is that she made her will in that city (1265)
+in the house of Cavalcante dei Cavalcanti, father of Dante's friend
+Guido (^Inf.~ x. 53)....  Her latter days at Florence were said to have
+been marked by piety and charity.  Even before that, she was said to
+have relieved, as far as she could, the victims of Ezzelin's
+oppression.  By her will she gave freedom to her serfs.  The date of
+her death is unknown.  It is possible that Dante himself may have had
+early memories of the gracious penitent lady, still retaining much of
+the fascination of her former beauty, or may have heard of such
+memories, and of the romance of her love for the great Mantuan poet
+from Guido Cavalcanti, who was sixteen years older than himself. 
+Anyhow, he believed that she had repented, and therefore did not shrink
+from placing her in Paradise.  He remembered, it may be, the story of a
+certain woman who also had had five husbands (^John~ iv. 18), of a
+woman whose sins, that were many, were forgiven her because she loved
+much (^Luke~ vii. 47).'
+
+	|34-36.~  But by far the most interesting change in such souls as
+Folco and Cunizza is the mysterious relation in which they now
+stand to their earthly sins.  In the Earthly Paradise Dante drank
+of two rivers -- Lethe, for oblivion of his sins; and Euno,e or
+Good-Mind, for the revival in memory of his good deeds [^Purg.~ xxxi.
+91-102; xxxiii. 127-145].  Is, then, the forgetfulness of sins
+absolute in Paradise?  Obviously, it is not, since both Cunizza and
+Folco remember them in some sense.  The mysterious thing is that the
+memory carries no string of grief or repentance -- nothing but a great
+gratitude to God who can use even sin for man's salvation.  Cunizza
+knows that this is a hard saying for the crowd: after confessing the
+sin which fixed her eternal lot in this star, she says:
+
+     `But gladly do I pardon to myself
+     The cause of this my lot, and it grieves me not,
+     Which would haply seem hard saying to your vulgar.'
+
+	|37-42.~  We turn now to Cunizza's nearest neighbour, Folco or
+Folquet of Marseilles, whom she has already pointed out to Dante. 
+She dwells on the great fame as a troubadour which `this shining
+and dear jewel of our heaven' has left behind on earth, and
+prophesies that five hundred years more will not exhaust it. 
+Dante probably did not know that his own mention of him would be
+his chief claim on the memory of after ages.  It is, indeed, a
+characteristic weakness of Dante that the love of fame should
+slip out instinctively even here, just as higher up he cannot repress
+his pride in the nobility of his blood [^Par.~ xvi. 1-6.  See {comm. to
+^Par.~ 16.1-9}].  In the preceding Heaven, as we saw, the love of fame
+lies like the shadow of earth upon the soul for ever.
+
+	|43-48.~  Cunizza points out at her side the soul of Folco of
+Marseilles, troubadour and Bishop, dwelling on his fame in order
+to rebuke `the present rabble' which inhabited her native
+province for their indifference to the excellence which adds life
+to life.  Scourged by tyrants, their misery has failed to lead
+them to repentance.  Hence she foretells three judgments which will
+soon fall upon them -- judgments which she sees in the mirror of the
+Thrones above [^Par.~ ix. 61-63].  The first is a judgment on Padua
+and Vicenza for their stubbornness against duty -- the duty of
+obedience to the Emperor Henry VII.
+
+     `But soon shall be that Padua at the marsh
+     Will change the water that Vicenza bathes,
+     Because the folk are stubborn against duty --'
+                         [^Par.~ ix. 46-48.]
+
+that is, the river Bacchiglione, which runs through Vicenza, will
+be dyed with the blood shed in the war between these two cities. 
+It is impossible to enter into the almost interminable disputes
+as to the particular incident meant, to which this passage has
+given rise.  In 1265, a few years after she had shaken off the
+yoke of the tyrant Ezzelino, Padua made war upon Vicenza and
+conquered her.  When Henry VII. crossed the Alps into Italy, the
+Vicentines, which the aid of the Imperial Vicar, Can Grande of
+Verona, threw off the Paduan yoke, exchanging one tyranny for
+another.  The reference in the present passage is perhaps to the
+general course of the war which followed, and which consisted for
+the most part of a long series of marauding expeditions into one
+another's territories.  The struggle ended in 1314, when Can
+Grande with a mere handful of men drove the whole Paduan army out
+of Vicenza, which it had just captured and treacherously sacked. 
+`Strings of bound captives whom the prisons of Vicenza would not
+hold were driven through the pitiless rain to Verona.  Fugitives
+wandered over all the hills.  Day after day they were hunted with
+hounds in the forest, and the more fortunate ones straggled home in
+twos and threes, stripped of all they had and overwhelmed with shame.'
+[Wicksteed and Gardner, ^Dante and Giovanni del Virgilio~, p. 33. 
+Comp. Villani, ix. 63; and the line (28) in his first Eclogue in which
+del Virgilio suggests this war with Can Grande as a more fitting
+subject for Dante's pen than the ^Commedia~:
+
+        `Tell of the Phrygian does torn by the stag-hound's tooth,'
+   -- the `stag-hound' being Can Grande, and the `Phrygian does' the
+   Paduans: ^Phrygian~, because they traced their descent to Antenor of
+   Troy; and ^does~, because of the cowardice with which they fled.]
+
+It is possible, however, that the mention of `the water that bathes
+Vicenza' has reference to a matter which occurred some time prior to
+this defeat.  The Vicentines in time of war with Padua were in the
+habit of damming up the river Bacchiglione in order to divert the water
+from the city of their enemies -- the overflow forming `the marsh' (^il
+palude~) of line 46.  Mr. Vernon, giving a digest of a monograph by the
+Abbate Bortolan, says that the Paduans when negotiating for the
+surrender of their city to Henry VII. expressly stipulated as a
+condition that the Emperor order the Vicentines to restore the
+waters of the river to their ancient bed.  The latter refused to
+obey the Emperor, the war broke out afresh, and the territories
+of the two wretched cities were devastated with fire and sword. 
+Both were stubborn against their duty to the Emperor, and their
+blood dyed the water of the river for which they fought [^Readings on
+the Paradiso~, i. 300-302].
+
+	|49-51.~  The second judgment foreseen by Cunizza is that which
+fell on Riccardo da Cammino, Lord of Treviso, in the year 1312. 
+Various accounts are given of `the net' that was being woven to
+catch him.  He was assassinated while playing chess in his own
+palace by one of his servants who was bribed to do the deed. 
+According to one story, the chief agent was Riccardo's brother,
+who wished to seize his lordship; according to another, a husband
+who thus avenged his wife's honour; while a third account traces
+the murder to a conspiracy of citizens to secure their country's
+liberty.  It is quite possible that `the net,' as is common in such
+cases, was woven of all these threads of mixed motive [Gherardo, the
+father of this Riccardo, is named in ^Conv.~ iv. 14 as a man of
+conspicuous nobility of character.  Giovanna, daughter of Nino Visconti
+of Pisa (^Purg.~ viii. 70-73) was Riccardo's wife].
+
+	|52-60.~  The third judgment foretold is the wailing of the city
+of Feltro for `the crime of its impious pastor,' Bishop Alessandro
+Novello of Treviso.  In 1314 a number of Ferrarese Ghibellines,
+having conspired against Pino della Tosa, King Robert's Vicar in
+Ferrara, which he held for the Church, fled to Feltro and placed
+themselves under the protection of its bishop.  Allessandro, as an
+act of courtesy to the Guelph party to which he belonged,
+treacherously delivered them up to the Vicar, who immediately had
+them executed in Ferrara to the number of thirty.  Such courteous
+gifts of human blood from spiritual to temporal ruler, says
+Cunizza, are in harmony with her country's way of living; and no
+greater criminal than this bishop ever entered Malta -- probably
+the prison of that name in Viterbo in which the Pope confined
+ecclesiastical offenders.  According to Benvenuto, Alessandro was
+beaten to death by sandbags by Riccardo da Cammino, but as
+Riccardo had been assassinated two years before, this is
+impossible.  Feltro passed into the tyrannous hands of the Cammino
+family, and doubtless had cause enough to bewail the treachery of its
+courteous pastor.  [Malta has been identified with several other
+prisons, such as that which the older commentators say existed at the
+south end of the Lake of Bolsena, and a tower of that name built by
+Ezzelino in the castle of Cittadella, between Vicenza and Treviso. 
+Some commentators are inclined to think that Dante's chief
+reason for setting Cunizza in this Heaven was to make her the
+mouthpiece of this denunciation of her native province, the Trevisan
+March.]
+
+	|67-78.~  Returning, however, from this digression, let us now
+trace some of the ways in which Dante indicates the changes this
+Heaven has wrought in Folco from his old troubadour days.  When
+Dante for example, turned to speak to him, his joy brightened `like a
+fine ruby which the sun strikes through.'  [The word Dante uses is
+^balascio~ -- the balas ruby, rose-pink in colour, which gets its name
+from the country in Central Asia where it is found -- Badakshan,
+variously spelt Badascian, Balakshan, Balashan, Balasian (Marco Polo),
+etc.  Probably all Dante's references to precious stones have some
+symbolic meaning.]  According to Longfellow, quoting King's ^Antique
+Gems~, `the ^Balais Ruby~ represses vain and lascivious thoughts'; and
+if, as seems probable, Dante was thinking of this virtue of the gem,
+the comparison implies that Folco is now entirely beyond the old earthy
+passions, and that his joy shines through a pure heart.  Further, this
+purity of heart gives him so clear a vision of all things in God that
+he is able, like Cunizza, to read Dante's unspoken wish to know who he
+is:
+
+     `God seeth all, and into Him thy sight so enters,
+     Blest spirit,' said I, `that no wish
+     Hath power to steal itself away from thee.'
+     
+For the same reason his voice has taken a higher range.  The
+earthly love which made him sing his troubadour songs has given
+way to the inspiration of the highest celestial love, that of the
+Seraphim, who ever burn with the Love before which they veil
+themselves with their wings:
+
+          `Thy voice, that for ever makes the heavens
+     Glad, with the singing of those holy fires
+     Which of their six wings make themselves a cowl.'
+
+The reference here is probably to St. Bonaventura's work ^De sex
+alis Seraphim~, in which he spiritualizes the well-known passage in
+Isaiah vi [`Above him stood the seraphim: each one had six wings;
+with twain he covered his face, and with twain he covered his feet, and
+with twain he did fly.'  One cannot help wondering whether the word
+`cowl' has any reference to the fact that Folco was monk as well as
+bishop, especially when one remembers that in the Dionysian system the
+Seraphim belong to the highest Celestial Hierarchy, the Bishops to the
+highest Earthly Hierarchy, and the Monks to the highest order of the
+`initiated'].  The six wings of the Seraphim are the six virtues which
+ought to adorn the Prelates of the Church, who, according to Dionysius,
+correspond on earth to the loftiest Hierarchy of Heaven.  The two which
+cover the head are zeal of justice and piety or fraternal compassion;
+the two which cover the body and feet are patience and an exemplary
+life; and the two by which they fly are circumspection and devotion to
+God.  By saying that the voice of Folco unites with the song of the
+Seraphim who covered themselves with their six wings, Dante means to
+imply that as a bishop of the church he was adorned with these six
+virtues.  This, apparently, was how his conduct in the Albigensian
+Crusade impressed the poet.  Yet for all his virtues he administers a
+slight rebuke for forcing him to request an answer at all -- the
+seraphic love ought to have inspired his voice to answer his wish
+before ever it was spoken.  [In ^Conv.~ i. 8 Dante says it is a mark of
+`prompt liberality' to give without being asked.  Comp. ^Purg.~ xvii.
+59-60:
+
+     `For he who awaits the prayer and sees the need,
+     Malignly leans already towards refusal.']
+
+	|82-102.~  The story of Folco's life is not the most pleasant
+reading.  The son of a rich Genoese merchant settled in Marseilles [in
+ll. 82-93 Folco gives a curious description of the situation of his
+native place, Marseilles.  (1) By a roundabout process he indicates
+that the sun travels through 90+o~ from the East end of the
+Mediterranean to the Pillars of Hercules -- the geographers of his day
+giving it more than twice its true length (Moore, ^Studies~, 3rd
+series, 126).  (2) Marseilles is midway between the rivers Ebro in
+Spain and Macra, the boundary between Genoa and Tuscany.  (3) In his
+native place sunrise and sunset have almost the same time as in Buggea
+or Bougie in the North of Africa -- that is, the two have the same
+longitude.  The reason for this roundabout description is that Folco is
+telling the situation of Marseilles from the planet Venus: he sees the
+whole Mediterranean valley spread out beneath him, as Dante saw the
+earth from the Starry Heaven (^Par.~ xxii. 151)], he spent his youth
+in dissipation.  As a troubadour he frequented the courts of such
+princes as Alphonso VIII. of Castile, Raymond V., Count of Toulouse,
+and Barral, Viscount of Marseilles.  It is to Adelaide, the wife of the
+last named, that most of his songs were written, though his court was
+by no means confined to her.  In his confession to Dante he hides
+nothing of his wickedness:
+
+     `Folco that people called me, unto whom
+     My name was known; and now with me this heaven
+     Imprints itself, as I did once with it;
+     For more the daughter of Belus never burned,
+     Offending both Sichaeus and Cre,usa,
+     Than I, so long as it became my locks;
+     Nor yet that Rhodopeian, who deluded
+     Was by Dempho,on, nor yet Alcides,
+     When Iol,e he in his heart and locked.'
+
+[`The daughter of Belus' is Dido, her love for Aeneas being regarded as
+an offence to the shade of his wife Cre,usa and to that of her own
+husband, Sichaeus (comp. ^Inf.~ v. 61-62; ^Aen.~ iv. 552).  The
+`Rhodopeian' is Phyllis, daughter of Sithon, King of Thrace:
+Demonpho,on, son of Theseus and Phaedra, having, on his way home from
+Troy, won her love, promised to marry her after settling his affairs in
+Attica; and on his return after a long delay he found that, thinking
+herself forgotten, she had put an end to her life.  Alcides is Hercules
+who fell in love with Iol,e, daughter of Eurytus, King of Oechalia.  To
+win back his love, his wife De,ianeira sent him a white garment steeped
+in the poisonous blood of the Centaur Nessus, and thereby unwittingly
+caused his death.  It has been suggested that the mention of Dido,
+Phyllis, and Iol,e is an allusion to the three ladies whom Folco had
+loved on earth, Adelaide, wife of Barral, Laura, his sister, and
+Eudoxia, daughter of the Emperor Manuel Comnenus, and wife of William
+VIII. of Montpellier (Toynbee, ^Dante Dictionary~, `Folco').  Whether
+this is so or not, it is the intensity of his passion he specially
+wishes to indicate, and the fact that it lasted far on into his life.] 
+
+It is amazing to find that Dante passes by in absolute silence the life
+and deeds of Folco after his repentance.  To many minds his conversion
+certainly seems to have been from one form of evil to a worse.  On the
+death of the Lady Adelaide and the princes named above, he became a
+Cistercian monk, and rose to be Abbot of a monastery, and finally
+Bishop of Toulouse.  And then his whole nature flung itself in almost
+incredible cruelty into the crusade of the Church against the
+Albigenses.  Milman calls him `the ecclesiastical de Montfort of the
+crusade,' and says: `There is no act of treachery or cruelty throughout
+the war in which the Bishop of Toulouse was not the most forward,
+sanguinary, unscrupulous' [^Latin Christianity~, Bk. IX. chap. viii. 
+`Never in the history of man,' says Milman in the same chapter, `were
+the great eternal principles of justice, the faith of treaties, common
+humanity so trampled under foot as in the Albigensian war.  Never was
+war waged in which ambition, the consciousness of strength, rapacity,
+implacable hatred, and pitiless cruelty played a greater part.  And
+throughout the war it cannot be disguised that it was not merely the
+army of the Church, but the Church itself in arms.  Papal legates and
+the greatest prelates headed the host, and mingled in all the horrors
+of the battle and the siege.  In no instance did they interfere to
+arrest the massacre, in some cases urged it on.  "Slay all, God will
+know His own," was the boasted saying of Abbot Arnold, Legate of the
+Pope, before B$eziers.  Arnold was the captain-general of the army.' 
+The Albigenses were charged with holding the Manichean heresy of a good
+and evil principle in the world: the Church gave them full proof in
+their own blood of at least the latter half of their heresy].  `A
+nightingale turned hawk, a shepherd allying himself with the wolves, he
+made his early sins look white by the blackness of his later virtues,
+and made religion odious by faithfully serving the Church....  It was
+Folquet who persuaded Count Raimon, with lying words of good-will and
+affection, to invite Montfort and the legate of the Pope to Toulouse,
+and give them possession of the citadel: "a great sin," says the
+Proven$cal historian, "which cost the lives of many thousands of men." 
+It was Folquet who urged hardest that the son of his friend and
+benefactor [Raymond V. of Toulouse] should be deprived of his estates. 
+It was Folquet who travelled through northern France enlisting aid
+against the heretics and especially against the count, "the worst
+wretch of them all."  It was Folquet who introduced St. Dominic to the
+Pope, and established the Inquisition in Languedoc.  It was Folquet who
+would not permit the crusaders to spare Toulouse when they felt that
+the count and his people had suffered enough.  It was Folquet who
+ordered all the clergy to leave the city and carry with them Holy
+Sacrament, inflicting on many thousands of the faithful the terrible
+dread of dying as heathen.  It was Folquet who appeared at the
+Lateran Council (1215) as the implacable enemy of the count, and
+Folquet who was twice charged there with causing the death of ten
+thousands persons in his own episcopal city.
+
+     But this was not enough; the flames were not yet quenched. 
+Once more he roused Montfort to take vengeance on Toulouse, and bade
+him strip its inhabitants of all they had.  On the approach of the army
+he exhorted the people to go out and make their peace with the enemy,
+promising they should be well received, while Montfort, as had been
+arranged, put them in irons as fast as they came.  Folquet himself then
+began the pillage of the city, and Montfort came up and set it on fire:
+B$eziers was to be outdone.  With the energy of despair the citizens
+drove out the crusaders; but Folquet gave them asylum in his cathedral
+and palace.  Then, by an understanding with Montfort, he went out
+through the streets declaring that he had persuaded Simon to surrender
+his prisoners and pardon the city if the people would go to their homes
+and give up their arms.  No sooner was this done than Simon, by
+Folquet's advice, exiled his prisoners instead of surrendering them,
+and announced that the city would be sacked unless it engaged to pay an
+almost impossible ransom.  When the people dared to promise the ransom
+he declared that if the last penny were not ready at the appointed time
+he would kill every one of them.  And after the money was paid, -- the
+city was pillaged none the less' [Prof. Justin H. Smith, ^The
+Troubadours at Home~, I. 388, 403-405.  `It was natural that Simon de
+Montfort, a soldier by trade, should represent the violence of the
+Albigensian crusade; but it was monstrous that Folquet de Marseilla, a
+poet and a priest, should represent its fury and sin'].
+
+     I have given this somewhat long quotation that we may see
+more clearly the kind of saint Dante sets here in Paradise. 
+Although he says nothing of this part of Folco's life, he must
+have known the facts perfectly well.  So far from condemning what
+seems to us a most inhuman cruelty, it was doubtless this very
+zeal for the Church against heretics which proved to Dante's mind
+the reality of Folco's repentance, and therefore his right to
+heaven.  It certainly gives us a shock to find a noble spirit like
+Dante's so subdued to the colour and temper of its time that
+deeds which sink Ezzelino to perdition exalt Folco to Paradise,
+because done in the name of Christ and authority of His Vicar.
+
+	|103-108.~  And Folco's words are more explicit:
+
+     `Yet here is no repenting, but we smile,
+     Not at the fault, which comes not back to mind,
+     But at the Power which ordered and foresaw.
+     Here we gaze back into the art which beautifies
+     Its own so great effect, and we discern the good
+     Whereby to the world above returns that below.'
+
+[A friend puts the difficulty with a happy humour: the saints must have
+a great deal of trouble `remembering to forget' their sins.]  The idea
+runs back to St. Augustine's distinction between intellectual and
+experimental knowledge.  `The soul then shall have an intellectual
+remembrance of its past ills, but so far as regards sensible experience
+they shall be wholly forgotten.  For a skilled physician knows indeed
+professionally all diseases, but experimentally only those from which
+he has himself suffered.  As, then, the knowledge of evil is twofold,
+the one by mental insight, the other by sensible experience, in two
+ways also it can be forgotten.  The skilled and learned (physician),
+through neglect of his profession, may forget sufferings; the patient,
+through escape from them.  And in this latter way will the saints
+forget their past ills, for their deliverance from them will be so
+complete, that they will be entirely blotted out of their experience. 
+But their intellectual knowledge, which will be great, will keep them
+acquainted not only with their own past woes, but with the eternal
+sufferings of the lost.  Were they indeed to become unconscious of
+their past miseries, how could they, as the Psalmist says (lxxxviii.
+2), sing for ever the mercies of God?...  In that City of God there
+will be free will, one in all and indivisible in each, freed from all
+evil and filled with all good, enjoying indefectibly the sweetness of
+eternal bliss, oblivious of sins, oblivious of sufferings, yet not so
+oblivious of its deliverance as to be ungrateful to its Deliverer'
+[^City of God~, xxii. 30.  See Hettinger, p. 204 n.].  Aquinas,
+discussing the question whether after the Resurrection every one will
+have knowledge of the sins he committed, replies that since the general
+judgment proceeds on the record of each man's conscience, this
+knowledge is indispensable.  The objection is stated that since in this
+life our sorrow for remembered sins is in proportion to the increase of
+our charity, and since in the risen saints charity is perfect, this
+sorrow would be at its maximum in Paradise; and this being impossible
+the very memory of sin must be blotted out.  To this Aquinas replies
+that `although charity is now a cause of grieving for sin, yet the
+saints in the Fatherland (^in patria~) will be so flooded with joy that
+grief can have no place in them: and so they will not grieve for sins,
+but rather rejoice in the Divine mercy by which they have been released
+from their sins; even as now the angels rejoice in the Divine justice,
+whereby those over whom they are guardians, when forsaken by grace,
+fall into sin; for whose salvation, nevertheless, they solicitously
+watch' [^Summa, iii. ^Suppl.~ q. lxxxvii. a. 1.  In this article
+Aquinas says that demerits which are destroyed by penitence will remain
+in the memory of that penitence, so that there will be in every man
+something by means of which he will be able to recall his works to
+memory].  It is, of course, impossible to say what change death may
+work in the human soul; but the idea that the memory of sin remains in
+the intellect alone in order to provide material for gratitude for
+salvation to the rest of the nature, carries no sense of reality,
+either psychological or moral.  If, for example, this intellectual
+knowledge, as St. Augustine in the above quotation declares, keeps the
+saints ^in patria~ `acquainted with the eternal sufferings of the
+lost,' and if among the lost be some victim of a libertine like Folco
+in his unregenerate days, it is surely a strange species of justice
+which allows him to smile gratefully for his own salvation, without one
+twinge of conscience for the eternal sufferings of which he knows
+himself to be one chief cause.
+
+	|109-126.~  In order to fulfil all the desires which this sphere
+quickened in Dante, Folco points out the light in which Rahab
+[Butler thinks Rahab may have been introduced here in order to indicate
+that the invective against the court of Rome which follows was spoken
+just over Babylon, thus bringing it into correspondence with the
+denunciations of Cantos xviii. and xxvii., pronounced over Jerusalem
+and Rome respectively.  He gets the connection from Ps. lxxxvii. 4, `I
+will make mention of Rahab and Babylon to them that know me,' where,
+however, Rahab means Egypt.  Another suggestion is that Rahab and
+Folquet are conjoined because of a certain parallelism in their
+histories.  `As Rahab was in relation to Joshua and Jericho, so was
+Folquet to Simon de Montfort and Toulouse and other places; and the
+military operations of the crusade, according to the historians of the
+time, are not without resemblance to Joshua's capture of Jericho in
+such an instance as the storming of Lavaur, when the assailants
+advanced with the Cistercian monks at their head, sang the ^Veni
+creator~, and the walls of the fortress fell forthwith' (Chaytor,
+^Troubadours of Dante~, 167)] had her peace -- it being necessary for
+full understanding of this Heaven to know whether any of the outcast
+class to which she belonged had ever been admitted to its bliss.  The
+sequel shows a harlot not only admitted, but exalted to the place of
+honour:
+
+          `when to our order she was joined,
+     With her ^in the highest grade~ it sealed itself.'
+
+[vv. 116-7.  We may wonder why there is no mention of Mary
+Magdalene.  The only reference to her is ^Conv.~ iv. 22, where she is
+allegorized into the type of the Epicurean school!] doubtless in
+fulfilment of Paul's words: `where sin abounded, grace did much more
+abound' [Rom. v. 20].  The purity she has not attained is compared to
+the sparkling of a sunbeam in pure water.  This comparison and the
+likening of her in l. 121 to a palm seems to me a good example of the
+way in which Dante drew his similes and figures out of the heart of the
+subject he was dealing with.  Rahab called up before his imagination
+Jericho, `the city of palm trees,' and the innumerable streams of her
+plain, sparkling in the eastern sun as they pursue their way to the
+Jordan a few miles distant [Deut. xxxiv. 3; Judges i. 16, iii. 13,
+etc.  Stanley speaks of the great forest which surrounded Jericho in
+the days of Joshua.  It `did not then consist, as now, merely of the
+picturesque thorn, but was a vast grove of majestic palms, nearly three
+miles broad, and eight miles long.  Even the solitary relic of the
+palm-forest, seen as late as 1838, has now disappeared' (^Sinai and
+Palestine~, 307)].  It is this picture in his imagination which
+dictates these figures of the palm and sunlit water.  Dante sets her as
+near the eternal Sun as he can by connecting her with the ending of the
+shadowy cone of earth (ll. 118, 119).  She stands as it were on the
+borderland between the first three Heavens on which the shadow of
+earthly frailty rests, and the higher purer Heavens which revolve in
+the unclouded light of God, and is therefore the point of transition
+from the one to the other.
+
+     What, then, is the reason for the lofty place thus
+assigned to Rahab?  Doubtless her position in the New Testament
+as an example of the union of faith and works had much to do with
+it; but behind this lies the peculiar reverence which gathered
+round this woman from very early times.  In the genealogy of
+Christ given by Matthew (i. 5), her name occurs as one of the
+ancestresses of our our Lord, and this of itself was enough to
+make her sacred to every Christian.  Further, she was believed to
+have been a prophetess of the sufferings of Christ upon the
+cross, by faith in which she was finally saved.  In his first
+Epistle to the Corinthians, St. Clement of Rome after narrating
+the story of the spies adds: `And moreover they gave her a sign,
+that she should hang out from her house a scarlet thread, thereby
+showing beforehand that through the blood of the Lord there shall
+be redemption unto all them that believe and hope on God.  Ye
+see, dearly beloved, not only faith, but prophecy, is found in
+the woman.'  This interpretation of the scarlet thread was adopted by
+the Apostolic Fathers [Irenaeus (^Against Heresies~, iv. chap. 20)
+takes the scarlet thread as symbolic of the Passover and Exodus; but
+since these in turn are types of the death of Christ and His
+deliverance of His people, the meaning is the same: `Rahab the harlot
+was preserved, when all was over [^in ultimis~], together with all her
+house, through faith of the scarlet sign; as the Lord also declared to
+those who did not receive His advent, -- the Pharisees, no doubt,
+nullify the sign of the scarlet thread, which meant the passover, and
+the redemption and exodus of the people from Egypt, -- when He said,
+"The publicans and the harlots go into the kingdom of heaven before
+you"' (Rambaut's transl.)], and was doubtless in Dante's mind when he
+called Rahab `a palm'
+
+                          `of the high victory
+     Which was achieved with the one and the other palm,'
+
+that is, of the two hands of Christ upon the cross -- a trophy of
+the victory by which He won the heavenly Canaan, as Joshua did
+the earthly one.  For this reason she is regarded as an Old
+Testament type of the Christian Church, as Joshua himself is of
+Christ; and
+
+     `Because she favoured the first glory
+     Of Joshua upon the Holy Land,'
+
+and was herself the first-fruits of that glory, therefore she was
+the first of all souls to be rescued from Limbo and taken up to this
+star in the Triumph of Christ [vv. 118-125.  I have followed the
+generally received interpretation of `the one and the other palm.' 
+Scartazzini, Casini, and others hold that the reference is to `the high
+victory' of Joshua in the taking of Jericho, and the taking of it by
+prayer -- the holding up of the two palms to heaven (comp. Exod. xvii.
+10-13).  They quote the eulogy pronounced on Joshua in Ecclus. xlvi.,
+in particular v. 2: `How great glory gat he ^when he did lift up his
+hands~ (^In tollendo manus suas~), and stretched out his sword against
+the cities.'  There is no need to set the two interpretations against
+each other.  Joshua, whose very name in the Vulgate is Jesus (Acts vii.
+45; Heb. iv. 8), was a recognized type of Christ, and his victory of
+Christ's victory.  The lifting up of Joshua's hands, therefore, would
+almost inevitably suggest the lifting up of our Lord's hands upon the
+cross.  It is useless to object that ^all~ the souls of the blesed are
+`palms' of the high victory of Christ as well as Rahab's: the point is
+that she was the ^first-fruits~ of His Triumph (ll. 119, 120).  The two
+interpretations run into and complete each other].  And now, as Mr.
+Gardner says, she is `the last soul who appears within the earth's
+shadow, as a type of the Church which should guide men beyond that
+shadow' [^Dante's Ten Heavens~, p. 88].
+
+	|127-138.~  The memory of the conquest of Canaan rouses Folco into
+a passion of indignation against Pope and Cardinals for their
+indifference to the fate of the Holy Land.  He had flung himself,
+as we have seen, into the crusade for the rescue of Languedoc
+from the heretics, and he could not understand how the Head of
+the Church could basely abandon to the infidel the sacred soil on
+which the Church's Lord was born.  For favouring Joshua in his
+first struggle for that land, Rahab is set `in the highest grade'
+of this third Heaven; yet that Church of which she was but the
+type lifts no finger to rescue it from the Saracens.  Boniface VIII.,
+the reigning Pope in 1300, the ideal date of the poem, undertook no
+crusade [comp. ^Inf.~ xxvii. 85-90, where Boniface, `the Prince of the
+new Pharisees,' is represented as carrying on a war against neither
+Saracens nor Jews, but against Christians -- the great rival house of
+the Colonnas].  His successors Clement V. and John XXII. raised money
+throughout Europe for a crusade to rescue Holy Land, but it went no
+farther than the papal coffers.  Dean Plumptre tells us that the
+Register of his own Cathedral of Wells contains records of money raised
+for a crusade in obedience to Clement V., and an order from John XXII.
+to reserve for this and other pious uses `the incomes of forty-six of
+the best livings in the diocese.'  `Fancy that kind of thing,' he
+exclaims, `going on through the length and breadth of Western Europe!'
+[Plumptre's ^Dante~, i. pp. cxiii, cxvi.  For the enormous wealth
+amassed by these two Popes, see Milman, ^Latin Christianity~, Bk. XII.
+chaps. vi, vii.  `The brother of Villani the historian, a banker, was
+ordered to take the inventory [of John's treasure].  It amounted to
+eighteen millions of gold florins in specie, seven millions in plate
+and jewels.  "The good man," observes the historian, "had forgotten
+that saying, `Lay not up your treasures upon earth'; but perhaps I have
+said more than enough -- perhaps he intended this wealth for the
+recovery of the Holy Land."'  For the ingenious and unscrupulous
+expedients by which this enormous treasure was wrung out of
+Christendom, see Lea's ^History of the Inquisition of the Middle Ages~,
+III. 67, 68].  No wonder Dante lays the blame on `the accursed flower'
+made and spread by that city which was planted by Satan -- the gold
+florin of Florence which was stamped with the ^fleur-de-lys.~  For its
+sake the shepherd is changed into a wolf, the Gospel and the great
+Doctors are deserted for the Decretals [for Dante's view of the
+Decretals and Scripture, see ^De Mon.~ iii. 3; ^Epis.~ viii. 7, etc. 
+Yet Gratian, founder of the science of canon law, is in the next Heaven
+(x. 103)], and the Pope and Cardinals do not allow so much as their
+^thoughts~ to go to Nazareth, to which the Archangel Gabriel did not
+disdain to make a journey from Heaven itself.  The name Nazareth
+contains an allusion which, so far as my reading goes, has remained
+unnoted.  `Nazareth' is frequently derived from ^Netser~, the word in
+Isaiah xi. 1, translated in the Authorized Version, `a ^Branch~ shall
+grow out of his roots.'  Jerome in the Vulgate translates, `^Flos~ de
+radice eius ascendet,' and Aquinas says, `Nazareth ^flos~
+interpretatur' [^Summa~, iii. q. xxxv. a. 7.  St. Bernard (^On Cant.~,
+Serm. lviii.) calls Jesus the first Flower of the Resurrection: `He is
+the first and chiefest Flower of the human race which has ever appeared
+on earth.  For the Christ is called ^the first-fruits of them that
+slept~ (1 Cor. xv. 20).  Jesus, I say, is the Rose of Sharon, and the
+Lily of the valleys (ii. 1).  He who was supposed the Son of Joseph, He
+who was Jesus of Nazareth, which itself means a flower [or branch].  He
+then appeared as the first Flower of the Resurrection.'  In his ^De
+Laudibus Virginis~ (Hom. i. 3) Bernard weaves similar fancies round
+this interpretation of `Nazareth,' in connection with the
+Annunciation].  There is every probability that Dante was familiar
+with this meaning, and that he set the two flowers against one another
+in intentional contrast: `the accursed flower' of Florence which turned
+the shepherd into a very wolf of avarice, and the blessed Flower of
+Nazareth, who there lived a life of poverty in a humble home.  We shall
+see in a later Canto the keen irony with which the image of the Baptist
+on the other side of the same coin is used in denunciation of another
+aspect of this insatiable papal greed [^Par.~ xviii. 133-136.  See
+{comm. to ^Par.~ 18.130-136}].
+
+	|139-142.~  The Canto closes with a prophecy the form of which
+gains a peculiar force when we remember the Heaven in which it is
+uttered:
+
+     `But Vatican and the other parts elect
+     Of Rome, which have a cemetery been
+     Unto the soldiery that followed Peter,
+     Shall soon be freed from the adultery.'
+
+The reference may be to the ignominious death of Boniface VIII.
+in 1303, or the removal of the Papal Court two years later to
+Avignon, or, more generally, that hope of a Deliverer from the
+oppressions of the Church which breathes through many a passage
+of the ^Commedia.~  But the word of special significance is
+`adultery.'  In this star various forms of sensual love are
+redeemed and purified; but Dante declares in effect that there is
+a spiritual adultery which is beyond redemption, and for which
+nothing remains but judgment.  St. Paul calls covetousness
+idolatry, and idolatry in the Old Testament is regarded as spiritual
+unfaithfulness on the part of Israel to her Divine Husband.  The
+translation in the Vulgate of `Thou shalt not covet' by, `Non
+concupisces,' and of `coveting' by `concupiscentia,' undoubtedly
+strengthened the association of the two sins in men's minds [Rom. vii.
+7: `Peccatum non cognovi nisi per legem; nam concupiscentiam nesciebam
+nisi lex diceret: Non concupisces'].  It was natural therefore, that
+in this Heaven of Venus Dante's thought should pass from the carnal to
+the spiritual form of the sin.  The Church was the Spouse of God, and
+her covetous idolatry of wealth was to his mind a spiritual infidelity
+to her Divine Husband, of far deeper heinousness than any mere lust of
+the flesh.  [The idea runs everywhere through Dante's works.  Simony is
+a prostitution of `the things of God which ought to be espoused to
+goodness' (^Inf.~ xix. 1); the Church is the `dishevelled harlot' that
+sold herself to Philip the Fair and allowed herself to be dragged into
+captivity in Avignon (^Purg.~ xxxii. 148-160) -- in shameful contrast
+to Rahab, her Old Testament type.  Nay, lower still, in his letter to
+Henry VII. Dante calls Florence `this abandoned and impious Myrrha,'
+the imputation being that, by yielding herself so completely to
+Boniface, she was guilty of a species of spiritual incest with her
+spiritual Father (^Epis.~ vii. 7; ^Inf.~ xxx. 37-40)].
+

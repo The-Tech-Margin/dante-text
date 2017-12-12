@@ -1,0 +1,338 @@
+	|Proemio.~  Poi ch'@e compiuto il trattato compreso infra
+'l VIJ circulo di coloro, che usano violenza a Dio, a s@e, e al
+prossimo, distinto per tre gironi, e' resta solamente a tratare
+di coloro, che per frode aquistarono in Cielo odio.  In questo
+rimanente d'Inferno l'Autore intende di trattare di quelli
+peccatori, che sono puniti per peccati di frode; e prima di
+quegli che ingannarono il prossimo, che non avea fidanza dello
+ingannatore, cio@e di coloro ch'erano obbligati l'uno all' altro
+solamente per naturale amore.  E per@o che cotale inganno si
+commette in X modi, per@o sono partiti li detti peccatori in X
+parti, e puniti in questo VIIJ circulo in X partite, le quali
+l'autore appell@o, e nomin@o bolge.  Nella prima e seconda bolge
+sono tormentati, in questo XVIIJ capitolo, coloro che usarono
+fraude in operare di lussuria, e lusinghe, s@i che contiene
+ruffiani, e lusinghieri.  Nella IIJ bolge s'afrigono quelli che
+usarono fraude vendendo, o comperando le cose sacre, le quali si
+doveano concedere sanza alcuno prezzo, detti simoniachi; nel
+XVIIIJ capitolo.  Nella IIIJ bolge punisce coloro, che usarono
+fraude in sortilegj, indovinamenti, e malie; capitolo XX.  Nella
+V bolge percuote coloro, che fraude barattando commissono nelli
+offizii temporali, e nelle grazie de' Signori laici; capitolo
+XXJ, e XXIJ.  Nella VJ bolge piangono coloro, che ingannarono per
+loro abito d'ipocrisia le genti; capitolo XXIIJ.  Nella VIJ bolge
+si stracciano li ladroni, che frodarono il prossimo in cose
+sacre, o in cose non sacre; capitolo XXIIIJ, e XXV.  Nella VIIJ
+bolge sono d'etterno fuoco fonduti coloro che 'n fraude, e
+coperti inganni diedero frodolenti consigli; capitolo XXVJ.  Nella
+VIIIJ bolge punisce i scismatici; capitolo XXVIIJ.  Nella X e
+ultima bolge sentono corrispondenti pene alli peccati loro li
+falsatori; capitolo XXVIIIJ.  E questo capitolo si divide in due
+principali parti: nella prima parte tocca in universo circulo;
+nella IJ parte segue suo poema alla prima e seconda bolgia di
+questo VIIJ circulo.  La IJ parte comincia quivi -- ^Alla man
+destra~ ec.: e questa seconda parte si divide in due parti; nella
+prima descrive la pena nella prima bolgia, che si confae alli
+ruffiani; nella IJ tratta della pena de' lusinghieri: la IJ parte
+della IJ comincia quivi -- ^Quando noi fummo l@a dove vaneggia~
+ec.  E questa seconda parte si divide in due altre; per@o che
+nella prima tratta de' lusinghieri, i quali usaron lusinghe per
+rispetti di loro proprii, tra' quali essemplifica Jansone; nella
+IJ parte tratta di coloro che usarono lusinghe.  Puniti sono
+nella IJ bolge [coloro], che usarono lusinghe, o vero piagenterie
+pi@u vilmente per uno continuo uso, e ad ogni persona; s@i come
+altress@i si distinguer@ae delli ladroni, che alcuni imbolano a
+tempo, e sono meno puniti; alcuni continuo, e sono pi@u gravemente
+aflitti; la IJ parte comincia quivi -- ^Gi@a eravam l@a~ ec.  E
+cos@i hae questo capitolo IIIJ parti.  Alla prima parte dice
+l'Autore, che in Inferno @e un luogo, lo quale elli appella
+Male-bolge, cio@e luoghi occulti, nelli quali si ripongono li
+peccatori: bolge viene a dire luogo riposto, e occulto; e dice,
+ch'@e d'una pietra ferrigna, a dare ad intendere che come quelli
+peccatori furono nelle loro lingue, e atti lascivi e mo[lli],
+cos@i sono inchiusi in luoghi duri e tenaci; e secondo la viltade
+del peccato, sono puniti in vile e sozzissima cosa, s@i come
+questi lusinghieri e piagentieri, che sono in luogo pieno di
+sozza feccia; e cos@i delli altri secondo la detta qualitade. 
+Alla IJ parte, dove discrive [la pena] inflitta alli ruffiani, li
+quali in latino sono chiamati ^lenones~, @e da sapere che il
+ruffiano @e il proposto delle meritrici, o vero soducitore, cos@i
+chiamato, per@o che lenisce, e pialla, e blandisce, cio@e fa
+morbide e inferme le menti de' miseri, e cos@i appianandole, le
+inganna.  Questo peccato discende da lussuria, e cresce del
+grembo dell'avarizia.  E s@i come simonia si commette non
+solamente ricevendo moneta, ma servigj, e grazie, e altri meriti;
+cos@i questa, quando si fae per rispetto de' maggiori, riceve
+altro merito alcuna volta che pecunia; quando per pari e per
+iguali, spera retribuzioni e cambio; e quando per li minori, che
+alcuna volta interviene, si riceve da loro servigj e ossequio. 
+Roffiano in lingua volgare si @e una vile cosa, e abietta, e
+dispetta persona: roffia viene a dire dispetta cosa.  La IIIJ
+parte, dove discrive la pena che si conf@a alla lusinga
+interpollata, ch'@e in abito e non continuo atto, @e piagenter@ia.  @E
+da sapere, che lusinga @e chiamata in latino ^adulatio~; e questa
+hae due parti: l'una si chiama ^adulatio~, cio@e lusingheria,
+l'altra ^asentatio~, cio@e piagenter@ia; della quale lusingher@ia
+tratta in questa prima bolgia: della piagenter@ia tratta nella
+seconda bolgia.  Il piacentiere asentisce ci@o che uomo dice, sia
+vero, o no; e questo atto il pi@ue ha luogo nelli minori per
+compiacere alli maggiori; e questo peccato discende da avarizia. 
+Ed @e da sapere, che lusingare si pu@o fare bene e male; bene,
+quando si loda un bene, acci@o che sia conosciuto, e prendasi da
+esso essemplo; o quando si fa a fine di consolare il prossimo, s@i
+come quando uno @e morto, lodarlo e in modo di consolazione
+affermare, che l'anima sua sia in vita etterna; o per dirizzare,
+o mantenere uno in buono proponimento: e queste tre maniere di
+lodare procedono da virtude, e da amistade.  E se adoperassono in
+altra guisa, sarebbe peccato, che potrebbe essere in due modi:
+l'uno per vanagloria, come sarebbe in lodarsi per farsi credere
+savio alle genti; l'altro per guadagnare della lusinga, e
+indirizzare altri a mal fine: e questo secondo modo si pu@o
+commettere per diversi fini, s@i come lusingare a mal fine
+promettendo un bene, e non osservare tale promessa; e questi sono
+li ruffiani.  Ad altro fine son quegli che beffano, e ingannano
+altrui; ad altro, quelli che vendono le cose spirirituali, e
+sacre per temporali; ad altro l'indovini; ad altro l'ipocriti; ad
+altro li ladroni.
+
+	|1-9.  Luogo @e in Inferno~ ec.  In questo principio
+discrive la forma, e la condizione del luogo dello VIIJ circulo,
+il quale chiama Malebolge, dove si puniscono [i frodolenti].  Dice
+ch'@e di pietra, ch'ha colore di ferro, del quale hae di sopra,
+trattato nel VII circulo; nel cui mezzo dice ch'havvi largo e
+profondo pozzo, pieno di bruttura; e dice che 'l cinghio, che
+rimena fuori del sito del pozzo, @e distinto in X valli, ciascuna
+chiamata bolgia, e l'una cigne l'altra, nel cui mezzo @e il vano
+del VIIIJ grado: nelle quali bolge, secondo la gravezza del
+peccato di loro frodi, d'una in altra ordinatamente si procede. 
+Alle quali incominciando questo canto, in prima quella de'
+roffiani si dimostra, nella quale figurativamente con contrario
+andamento d'anime si pone a dimostrare, che in due modi contrarii
+@e lo inganno contra le femine, cio@e per suo proprio diletto, o
+per altrui amistade, o per guadagno; e che da certi diavoli sieno
+sforzati a significare li loro disii, dalli quali nelle
+operazioni continuamente spronati sono.  E come qui il ruffiano
+s'interza tra l'amante, e l'amata con inganno; cos@i qui col
+dimonio sta.
+
+	|10-12.  Quale, dove per guardia~ ec.  Qui essemplifica
+la forma di quello luogo: dice dunque, ch'erano queste bolge
+intorno a questo pozzo, come fossono X fossi, l'uno inanzi a
+l'altro, intorno delle mura d'uno castello, e che dal detto pozzo
+infino a l'argine del X fosso, di fosso in fosso avea suo
+ponticello; forse la forma @e come mostra la infrascritta figura.
+
+	|13-15.  Tale imagine~ ec.  Chiaro @e a chi vide mai
+castello con ponticello dinanzi alla porta d'alcuna asse, ch'@e
+posta infino alla ripa del fosso.
+
+	|16-18.  Cos@i da imo~ ec.  Cio@e che a quello pozzo, s@i
+come a pi@u basso luogo, si troncano li ponticelli, e
+raccoglievisi tutta lordura, che da' fossi viene, e prieme.
+
+	|19-21.  In questo luogo~ ec.  Dice, che scesi del dosso
+della frode, presero via tra li frodolenti, andando alla
+sinistra.
+
+	|22-26.  Alla man destra~ ec.  Qui comincia la punizione
+della ruffianeria, e fanne due parti: l'una tiene dal mezzo
+incontro all'Autore; e questi sono ruffiani: l'altra dal mezzo in
+l@a, s@i che hanno le reni volte all'Autore; e questi sono
+lusinghieri.  Tacitamente dice Dante, che pi@u podere ebero, e pi@u
+grazia in lui li portatori delle novelle, che' lusinghieri.  E qui
+descrive li peccatori della prima bolgia, e dice ch'erano
+i[g]nudi, e che' demonj li venivano sferzando.  E nota qui, e
+quasi per tutto l'Inferno, che a venire discendendo nel centro, e
+volgendo a mano sinistra, sempre la mano diritta rimane verso la
+parte dentro, e la manca verso la parte di fuori, onde imagina
+che questi fossero in sulla ripa esteriore del fosso primo, e
+andassili intorno volgendosi a mano sinistra il fosso; e chi
+dentro vi fosse, ti verrebbe sotto la destra mano, andando.
+
+	|28-33.  Come i Roman~ ec.  Essemplifica l'Autore questa
+turba de' peccatori a quella de' Romei l'anno del giubileo a
+Roma.  Onde @e da sapere, che l'anno del giubileo fu comandato da
+Dio celebrare nella legge data da Mois@e, il quale era ogni sette
+settimane d'anni, cio@e XLVIIIJ anni una volta; e allora si facea
+somma festa, per@o che tutte le possessioni tornavano alli primi
+signori, e ogni servo tornava in libertade, e tagliavansi tutte
+le carte delle obrigazioni; lo quale anno fu poi introdutto dalla
+Chiesa.  E come quello @e liberazione e rimissione in cose
+corporali, cos@i questo @e in cose spirituali, per@o ch'@e in
+[re]missione di tutti li peccati; e l'anima sua per questo
+perdono ritorna nella sua libertade.  Papa Bonifazio il trov@oe
+nel MCCC, sopra il quale a perpetua memoria scrisse un'epistola,
+la quale incomincia: ^Bonifacius Episcopus, Servus Servorum Dei~
+ec.; e questo giubileo si canta ogni anno nella festa di
+Pentacosta: e viene a dire giubileo in Ebreo, remissione; e in
+Latino @e tempo di canto e di letizia: ^Jubilate Deo omnis terra;
+servite Deo in laetitia~, dice il Salmista.  Qui per questa
+similitudine dice, che l'anno del giubileo, che anni @e d'ogni
+cento anni l'uno, s@i come fue nel MCCC che fu compilata questa
+opera, li Romani, acci@o che la gente, sanza affogare l'uno
+l'altro, potessono andare e tornare da Santo Paolo a Santo Piero,
+ed ^e converso~, che tale Romeo andava, tale tornava; su per lo
+ponte da Santo Agnolo erano certe guardie, le quali davano
+ordine, e facevano osservare alli Romei, che l'una parte, che
+andavano a Santo Piero, volto il viso verso Castello Santo Agnolo
+tenevano infino a mezzo il ponte; l'altra parte, che tornava da
+Santo Piero, e andava a Santo Paulo, aveva volto il viso verso
+monte [Jordano], e tenea dal mezzo del ponte Santo Agnolo, per la
+larghezza dico infino alla sponda; e cos@i l'una e l'altra gente
+si conservava sanza offensione.  L'anno del giubileo @e anno di
+remissione, e di perdono [a] tutti li peccati a colpa e pena, a
+chi contrito e confesso fu tratto dell'anno del giubileo
+comandato da Dio per la legge alli Giudei, che osservassero in
+capo d'anni XLVIIIJ, com'@e detto di sopra.
+
+	|34-39.  Di qua, di l@a~ ec.  Qui pone la pena; dice che
+sono sferzati; anticamente la ferza solea avere tre corde, per le
+quali si denota quivi che la ferza, di che @e battuto il roffiano,
+disegna le tre persone, che nel suo peccato, dov'elli s@e interza,
+intervengono, cio@e l'amante, l'amata, ed elli.
+
+	|40-42.  Mentr'io andava~ ec.  Qui l'Autore reca alla sua
+immaginazione uno infamato d'una grande roffianeria, ci@o fu
+Messer Vinedico Caccianimici da Bologna, che aruffian@o madonna
+Ghisola, sirocchia del detto Messer Vinedico, per moneta al
+Marchese Azzo da Ferrara.  Nella persona di costui infama di
+quello vizio tutti i Bolognesi; e questo vizio per lo pi@u v'@e
+germogliato per lo studio.
+
+	|48.  Ch'io dissi tu~ ec.  Aperto @e il testo.
+
+	|52-61.  Ed egli a me~ ec.  Qui palesa s@e il peccatore, e
+il suo peccato, e sogiugne la smisurata quantit@a de' Bolognesi,
+che per quello peccato sono dannati, dicendo che tante lingue non
+sono ora aperte a dicere |sippa~, cio@e ^s@i~, intra 'l Saveno,
+ch'@e un fiume, che parte il Reno, ch'@e l'altro fiume.
+
+	|64-66.  Cos@i parlando~... |Femmine da conio~ ec.
+Rimpruoverali il suo peccato: quando uno inganna altro, quello si
+dice coniare; mostra uno, ed @e altro.  Coniare @e mutare d'una
+forma ad altra forma, e viene a dire ingannare, fare falso conio,
+falsa forma: trae il nome dalla moneta che piglia stampa.
+
+	|67-71.  Io mi raggiunsi~... |Dove uno scoglio~ ec. 
+Questo @e uno de' ponticelli, che passa da una ripa del fosso ad
+altra ripa; e nota qui, che si volsono a mano destra per
+rintoppare gli altri, che teneano da mezzo il fosso in l@a per
+larghezza.
+
+	|73.  Quando noi fummo~ ec.  Il testo @e chiaro.  Solo
+nota qui, che questa metade andava al contradio de l'altra
+metade, s@i come detto fu nel passo del ponte Santo Agnolo.
+
+	|79-80.  Dal vecchio ponte~ ec.  Trattato della prima
+qualitade delli inganatori roffiani, procede qui alla seconda,
+che @e de' lusinghieri: onde qui introduce l'Autore in questo
+vizio, il quale @e generale vizio di tutti li Greci, Janson
+figliuolo d'Esone, e nepote del re Peleo; e qui nota due grandi
+inganni ch'elli fece, l'uno quando ingann@oe Isifile, donna e
+regina dell'isola di Lenno, figliuola che fu di Toante; poi
+quando ingann@o Medea, figliuola d'Oete re di Colcas.  Onde a
+sapere pienamente questi inganni, conviene ritessere questa
+istoria.  Pelia re regnava in Grecia nelle parti di Tesaglia, il
+cui nepote era il detto Jansone: questo Pelia era sanza figliuoli
+maschi, ma aveva figliuole femine, ed era d'etade vecchia.
+Temendo Jansone, giovane ardito e di grande forza, gli togliesse
+in vita il reame, o dopo la morte non privasse le figliuole
+d'ereditade, sotto un'apparenza d'amore, quale dee avere zio a
+nepote, mand@oe Jansone per lo montone ch'evea il vello dell'oro,
+il quale era ne l'isola di Colcas.  Questo montone per certo
+incantamento era legato in su questa isola, e molti per volerlo
+aquistare vi perirono.  Costui andando alberg@oe in casa della
+detta Isifile in Lenno isola, e con la detta Isifile dimor@oe due
+anni, e ebbe di lei due figliuoli, li quali nacquero poi ch'elli
+si part@ie.  Poi ricordandosi di quello, che li aveva commesso il
+zio, si part@ie, promettendo e giurando di reddire a Isifile,
+compiuto il suo proponimento.  Venuto a l'isola di Colcas, trov@oe
+Medea figliuola del re Oete, la quale accesa del suo amore
+insegnoli com'elli uccidessi il serpente, che guardava il
+montone, come seminasse i denti d'esso, come s'uccidessero i
+cavalieri che nascerebbono di quelli denti, e l'altre cose
+necessarie ad aquistare il montone.  Auto e preso il detto
+montone, se ne men@o Medea, e non torn@o da Isifile, la quale aveva
+ingannata, per@o che quando elli si congiunse con lei, la prese
+per moglie, e poi gravida ne' detti due figliuoli la lasci@oe
+sotto la detta promessione; s@i che per lui perd@e suo onore, e sua
+fama.  E dice:
+
+	|83.  Guarda quel grande~ ec.  Nota la statura del corpo;
+e sogiunge:
+
+	|84.  E per dolor~ ec.  Nota la grandezza dell'animo.
+
+	|85.  Quanto aspetto~ ec.  Nota l'abito della persona
+circa vestimenta.
+
+	|86.  Quegli @e Jason~ ec.  Qui nota due virtudi in lui,
+senno, e prodezza.
+
+	|88-90.  Ello pass@o~... |Poi che l'ardite femmine~ ec.  E
+qui nota in queste femine ardimento, in quanto uccisero uomini; e
+crudeltade, in quanto uccisero li padri, i fratelli, li mariti, i
+figliuoli.  Onde @e da sapere, che essendo li uomini di questa
+isola di Lenno ad oste, e vinti li nimici, si giaceano con le
+loro mogli, questo pervenne alle loro donne lasciate a casa, le
+quali ordinarono d'uccidere li mariti, figliuoli, e padri; li
+quali tornati, tutti li uccisero, eccetto Isifile, che perdon@o al
+suo padre Toante.
+
+	|96.  Ed anche di Medea~ ec.  Proseguitando la prossima
+precedente istoria, Janson per lo beneficio fatto a lui per
+Medea, per moglie la se ne men@oe con tutto il montone, traendola
+della reale casa del padre.  Poi che fu in Grecia, fece s@i, che
+la detta Medea ingann@o le figliuole di Peleo, dicendo che
+ridurrebbe il loro padre in giovane etade; soddussele a fare
+bagni, e certi incantamenti, e ad aprire le veni al padre,
+dicendo che ne trarebbe il vecchio sangue, e rinovellerebbe
+quello, e tutto il corpo vecchio.  Peleo fu per cotale modo morto
+dalle figliuole.  Jansone auto quello che cercava, lasci@o Medea,
+e tolse per moglie Creussa figliuola di Creonte.  Medea indegnata
+di ci@o, uccise due figliuoli, ch'ella avea del detto Jansone.
+Questi due inganni tocca il presente testo, e pone la pena allo
+ingannatore.
+
+	|97-99.  Con lui sen va~ ec.  Qui conduce l'Autore alli
+peccatori del primo girone.
+
+	|100.  Gi@a eravam l@a, 've~ ec.  Veduta la qualit@a della
+prima bolgia, qui nella seconda si procede, nella quale la
+frodolente qualit@a de' lusinghieri si punisce.  Li quali s@i come
+gente per vilissimo intelletto, e con melate parole fregiano, e
+blandiscono; cos@i per lo fastidio, che di ci@o nella mente si
+sostiene, figuratamente qui in alcuna bruttura di sterco sono
+messi; e qui descrive il congiugnimento della prima alla seconda
+bolgia.
+
+	|103.  Quindi sentimmo~ ec.  Di che cera era impiastrata
+questa seconda bolgia, e la pena de' lusinghieri qui si figura; e
+per@o che 'l peccato era pi@u grave, per@o multiplica la pena.
+
+	|115.  E mentre ch'io laggi@u~ ec.  Prosegue suo poema.
+
+	|118-119.  Que' mi sgrid@o~ ec.  Qui si duole questo
+peccatore, che l'Autore guatava pi@u lui, che gli altri.
+
+	|120-123.  Ed io a lui~ ec.  Qui l'Autore rispondendoli,
+dice la cagione, cio@e per@o che conoscea lui, e non gli altri; e
+qui il nomina, cio@e Messer Alesso dell'Interminelli di Lucca; e
+per costui nota tutti gli altri Lucchesi essere lordi di questo
+vizio.
+
+	|124-126.  Ed egli allor~ ec.  Qui Messer Alesso s@e
+medesimo accusa, e parla lucchese, che chiamano il capo |zucca~
+dileggiatamente; e dice, che mai non si stanc@oe di lusingare:
+elli fu piangentiere.
+
+	|127-136.  Appresso ci@o~ ec.  Qui l'Autore in essemplo
+introduce una puttana, nome Tais, a dimostrare che in tutte le
+femine di Gualdana cotale vizio abonda.  Di costei dice il poeta
+Terrenzio, nel libro dell'Andria, che quando il drudo suo la
+dimand@oe se elli avea grandi grazie appo lei, ch'ella non stete
+contenta di dire, s@i; ma volendo bene lusignare, disse: anti
+maravigliose.  Dove si dimostra, che il lusinghiere sempre vole
+passare li termini del vero per compiacere a colui, a cui parla;
+e [di] questo lusinghiere si @e propio assentare, cio@e piagentare.
+

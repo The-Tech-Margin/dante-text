@@ -1,0 +1,104 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15282; Wed, 24 Aug 1994 11:34:37 -0400
+Received: from Princeton.EDU by dartvax.dartmouth.edu (8.6.9+DND/4.6HUB)
+	id LAA13390; Wed, 24 Aug 1994 11:34:36 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.111/princeton)
+	id AA10047; Wed, 24 Aug 94 11:30:16 -0400
+Received: from tucson.Princeton.EDU by ponyexpress.princeton.edu (5.65c/1.4/newPE)
+	id AA28231; Wed, 24 Aug 1994 11:30:05 -0400
+Received: by tucson.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA06139; Wed, 24 Aug 94 11:30:03 EDT
+Message-Id: <9408241530.AA06139@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Wed, 24 Aug 1994 11:30:03 EDT
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU
+
+BOSCO needs some retitling, as follows:
+
+Docs. 2-35 all are called simply "Bosco. Nota"
+
+These need to be changed:
+
+2 = ^Inf.~ 1 |Proemio~
+3 = ^Inf.~ 2 |Proemio~
+etc.  up to
+21 = ^Inf.~ 20 |Proemio~
+22 = ^Inf.~ 21, 22, 23 (1-57; 127-148) |Proemio~
+23: leave alone
+24 = ^Inf.~ 23 (58-126) |Proemio~
+25 = ^Inf.~ 24-25 |Proemio~
+26: leave alone
+27 = ^Inf.~ 26 |Proemio~
+28 = ^Inf.~ 27 |Proemio~
+29 = ^Inf.~ 28-29 (1-39) |Proemio~
+30 = ^Inf.~ 29 (40-139)-30 |Proemio~
+31: leave alone
+32 = ^Inf.~ 31 |Proemio~
+33 = ^Inf.~ 32-33 (91-157) |Proemio~
+34 = ^Inf.~ 33 (1-90) |Proemio~
+35 = ^Inf.~ 34 |Proemio~
+
+rest are good up to
+
+3847 = ^Purg.~ 1 |Proemio~
+3848 = ^Purg.~ 2 |Proemio~  etc., until
+3863 = ^Purg.~ 17-18 |Proemio~
+3864: leave alone
+3865 = ^Purg.~ 19 |Proemio~
+3866 = ^Purg.~ 20 |Proemio~
+3867 = ^Purg.~ 21-22 |Proemio~
+3868: leave alone
+3869 = ^Purg.~ 23-24 |Proemio~
+3870: leave alone
+3871 = ^Purg.~ 25 |Proemio~
+3872 = ^Purg.~ 26 |Proemio~
+3873 = ^Purg.~ 27 |Proemio~
+3874 = ^Purg.~ 28 |Proemio~
+3875 = ^Purg.~ 29 |Proemio~
+3876 = ^Purg.~ 30-31 (1-90) |Proemio~
+3877 = ^Purg.~ 31 (91-145)-32 |Proemio~
+3878: leave alone
+3879 = ^Purg.~ 33 |Proemio~
+
+then OK until
+
+7864 = ^Par.~ 1 |Proemio~
+7865 = ^Par.~ 2 |Proemio~
+7866 = ^Par.~ 3, 4, 5 (1-84) |Proemio~
+7867: leave alone
+7868 = ^Par.~ 5 (85-139)-6 |Proemio~
+7869: leave alone
+7870 = ^Par.~ 7 |Proemio~
+7871 = ^Par.~ 8 |Proemio~
+7872 = ^Par.~ 9 |Proemio~
+7873 = ^Par.~ 10 |Proemio~
+7874 = ^Par.~ 11-12 |Proemio~
+7875: leave alone
+7876 = ^Par.~ 13 |Proemio~
+7877 = ^Par.~ 14 |Proemio~
+7878 = ^Par.~ 15-16 |Proemio~
+7879: leave alone
+7880 = ^Par.~ 17 |Proemio~
+7881 = ^Par.~ 18 |Proemio~
+7882 = ^Par.~ 19-20 |Proemio~
+7883: leave alone
+7884 = ^Par.~ 21-22 (1-99) |Proemio~
+7885 = ^Par.~ 22 (100-154)-23 |Proemio~
+7886: leave alone
+7887 = ^Par.~ 24 |Proemio~
+7888 = ^Par.~ 25 |Proemio~
+7889 = ^Par.~ 26 |Proemio~
+7890 = ^Par.~ 27 |Proemio~
+7891 = ^Par.~ 28 |Proemio~
+7892 = ^Par.~ 29 |Proemio~
+7893 = ^Par.~ 30 |Proemio~
+7894 = ^Par.~ 31 |Proemio~
+7895 = ^Par.~ 32 |Proemio~
+7896 = ^Par.~ 33 |Proemio~
+
+7897: back to normal
+
+Clear enough?
+

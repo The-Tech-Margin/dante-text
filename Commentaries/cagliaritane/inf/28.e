@@ -1,0 +1,62 @@
+	|11.~  ^Che de l'anella~.  Annibal de cartagine pi@u volte isconfisse 
+i romani.  tra le quali li sconfisse e ucisine tanti che se trovaro 
+l'anella che fuoro tracti ai morti venticinque moggia d'anelli mandati 
+per segnio de victoria en cartagine.  et fu questa sconficta el lo 
+tereno de puglia.  Anco fo una sconficta em puglia receuta da uno 
+signore nominato Ruberto viscardo dove moriro migliaia de pugliesi per 
+la lungha guerra dal decto Ruberto.  Anco fu em puglia enn uno luogho 
+che si chiama aceperano et anco fu in puglia sconficto el re manfredi 
+et morto dal re Karlo de francia primo re de puglia de la casa di 
+francia.  Anco fu im puglia sconficto dal dicto re Karlo corradino com 
+molta giente dove senz'arme vinse il vechio Alardo.  mesere Alardo fo 
+uno chavalieri che per saramento nom pot@ia portare armi contra el re 
+manfredi.  ma con suo consiglio venuto al re Karlo chon uno falcone in 
+mano fu el re manfredo dal re Karlo sconficto.  [se] tucti questi morti 
+mostrassaro come dice dante le loro membra smozecate sar@ia nulla al 
+mo' de la nona bolgia sozo.
+
+	|31.~  ^Vedi com'@e strappato maometo~.  De costui sa tucto el mondo 
+ch'ei fu erecticho pactarino col lo suo compagnio chiamato eli et col 
+lui sono cos@i tagliati tucti ei semmenatori de li scandali comectetor 
+d'odio de omicidi et d'altre maledicioni simiglianti.  questo maometto 
+fu de spagna et mandato a predicare per convertire li saracini dal 
+papa.  esso maomecto convertine molti a la fede christiana poi per 
+alchuno sdegnio a@uto col lo decto papa disse el contrario ch'elli 
+av@ia predicato.  predic@o contra la fede christiana onde per lui tucti 
+se fecero contr'ai christiani pi@u contrari ch'ei non erano stati de 
+prima et adorano maometo per loro idolo mandato da dio etc.
+
+	|76.~  ^E fa sapere ai dui~.  questi fuoro doi fratelli signiori de 
+fano.  li quali venuti come li av@ia mandati per lo misere malatesta 
+vechio d'arimino li fece amazarare in mare.  pres[s]o ad uno lu[o]go 
+che ssi chiama la catollicha.  et per@o dice gietati sarano fuore di 
+loro vasello per tradimento.  v@oi gietati fuore de fano.  vuoi gietati 
+fuore de la nave.
+
+	|85.~  ^Quel traditor che vede pur chol l'uno~.  dicie del dicto 
+malatesta ch'era ciecho d'uno ochio che li fece amazerare.  e tiene la 
+terra che tale @e qui meco vorrebbe de vede[r] exere digiuno.  de la 
+terra dicie d'arimmino ed @e ttale @e qui meco.  dice ch'esendo giulio 
+cesare venuto infine ad arimino non av@ia ardimento da passa[r] pi@u 
+oltra li confini de roma col la sua giente armata.  uno suo cavaliere 
+ch'av@ia nome churio favell@o cos@i a giulio cesare affermando che 
+l'uomo ch'@e fornito de potere sace che l'atendare fo sempre con danno. 
+ per le quali parole rasechurato cesare pass@o el confine rompendo dei 
+romani ogni statuto.  questo scaciato ecc.
+
+	|99.~  ^Chostui fu cavalieri di cesare~.  dubitando julio cesare de 
+passare il confine contra roma ch'@e quel fiume nomato rubicone che 
+ss'entendiva chi 'l pa[ssa]va con armi rubello sbandito del chomuno di 
+roma.  questo scacciato fu quello che disse a cesare che sempre l'omo 
+ch'@e aparechiato de fare onni operatione che lo 'ndi[c]iso fo sempre 
+danno.  per le chui parole ciesare col la sua giente ruppe li statuti 
+di roma e fu rubello.  onde ne segu@io la dollorosa battaglia da 
+ciesare a pompeo (^d'altra m.~).
+
+	|106.~  ^Gridoe.  recorderaiti~.  chostui fu colui che consigli@o li 
+uberti che ucidesero quello dei buoni dal monte c'av@ia rocto el 
+parentado da s@e a li uberti.  dicendo chosa facta cap'@a che fo la sua 
+desolazione et morte de sua schiacta.  ch'era de' lamberti signori 
+alora de firenze.  et de li uberti ancora.  come fo rocto el parentado 
+dei buoni dal monte per colpa di buon dal monte qui ricta se tace.
+

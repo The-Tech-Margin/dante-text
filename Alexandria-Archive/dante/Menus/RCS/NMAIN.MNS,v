@@ -1,0 +1,131 @@
+head     1.1;
+branch   ;
+access   ;
+symbols  ;
+locks    ; strict;
+comment  @@;
+
+
+1.1
+date     91.06.06.08.11.54;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@{NMAIN}
+
+:COMPARE #INIT
+     TO ""
+	:DEBUG ON
+	:STACK ON
+
+	:CLEAR VARIABLES
+	:SET @@EE ~Yes~
+
+	:SET @@GB ~~
+	:SET #PAUSEMSG ~Tap \o2RETURN\f2 to continue ... ~
+	:SET #GETMSG ~\t\o5 Bad Selection, please choose again \f5\n~
+	:SET #NOTINDICT ~\o5 Not in Dictionary \f5~
+	:SET #SEARCHBY ~~
+	:SET #INIT ~Done~
+
+	:SET #O1 ~OR~					; op for indices
+;	:SET #UDMAX ~10~				; max for modify/delete
+
+	:SET @@HEADING ~\c\t\o4Dartmouth Dante Project\f4\n\n~
+	:PRINT ~@@HEADING~
+
+	:EXEC SEARCH
+
+	:COMPARE #CHILD
+	     TO ""
+		:PRINT ~\n\o5 BRS/Search failed to startup \f5\n~
+		:PAUSE
+		:EXIT ~1~
+	:DONE
+
+	:BRS INTERRUPTS ON
+
+	:SET @@SELECTION ~~
+	:MENU ~SETUP_~
+:DONE
+
+:SET @@HAVEHITS ~No~
+:SET @@DBNM ~NDDP~
+:SET @@SELECTION ~S~
+:BRS CHANGE ~@@DBNM~
+
+:COMPARE #DBNM
+     TO ""
+	:CLEAR STACK
+	:PRINT ~\n\o5 Database @@DBNM is unavailable \f5\n~
+	:PAUSE
+	:EXIT ~1~
+:DONE
+
+:SEND ~TB0~
+:SHOW BEFORE "*"
+:PARSE #LEFTOVER EXTRACTING @@MXDOCS
+:PARSE #LEFTOVER EXTRACTING @@MXDOCS
+:PARSE #LEFTOVER EXTRACTING @@MXDOCS
+
+:BRS PRINT PARAGRAPHS ~SHRT~
+:COMPARE #RESULT
+     TO "*"
+	:SET @@BAVAIL ~No~
+     TO ""
+	:SET @@BAVAIL ~Yes~
+:DONE
+
+:COMPARE #CSFLAG
+     TO "OFF|NO|FAILED"
+	:PRINT ~\c~
+;	:FILE DISPLAY ~sys(/dante/lib/dmotd.ddp)~ 
+;	:PAUSE BOTTOM
+	:PRINT ~\c@@HEADING~
+	:FILE DISPLAY ~sys(/dante/lib/screen.open)~ 
+	:PAUSE BOTTOM
+	:PRINT ~@@HEADING~
+	:FILE DISPLAY ~sys(/dante/lib/author.list)~ 
+	:PAUSE BOTTOM
+     TO "YES"
+	:GET @@TMP
+:DONE
+
+:COMPARE #UPDBNM
+     TO "*"
+	:SET #EPVLG ~0~
+:DONE
+
+:SEND ~FC~
+:SHOW BEFORE "*"
+
+:PARSE #LEFTOVER EXTRACTING @@TMP
+:COMPARE @@TMP
+     TO "0"
+	:SET @@FFMT ~Yes~
+     TO "1"
+	:SET @@FFMT ~No~
+:DONE
+
+:SET @@PF ~#PGLEN~
+:PARSE @@PF INCREMENT ~-4~
+:SET @@PN ~#PGLEN~
+:PARSE @@PN INCREMENT ~-2~
+
+:SET @@SINDEX ~~
+:SET @@ICONTINUE ~No~
+:SET @@PSPEC ~SHRT,HITS~
+
+:MENU ~GSRCH_~
+@

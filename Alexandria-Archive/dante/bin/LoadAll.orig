@@ -1,0 +1,73 @@
+#!/bin/sh
+
+# Load the Dartmouth Dante Project database
+
+#
+# Configuration
+#
+DB=NDDP
+DHOME=/people/dante
+COMMDIR=$DHOME/Commentaries
+LOADORDER=$COMMDIR/LoadOrder
+
+case $1 in
+	-n)	TESTING=y
+		shift
+		;;
+	*)	TESTING=n ;;
+esac
+
+[ -r $LOADORDER ] || {
+	echo "$LOADORDER: File not found."
+	exit 1
+}
+
+echo $0 started at `date`
+
+PREVLANG="none"
+{
+while
+	read NEXTLINE
+do
+	case "$NEXTLINE" in
+	\\*)	;;
+	*)	eval $NEXTLINE
+		echo "============================"
+		echo "       " $COMM
+		echo "============================"
+		cd $COMMDIR/$COMM/staging || exit 1
+		#
+		# We have to eval twice. The first time to get the COMM,
+		# the second time, once we have cd'd, to get the FILES.
+		#
+		eval $NEXTLINE
+		if [ $LANG != $PREVLANG ]; then
+			echo "----------------------"
+			echo "Setting language to $LANG"
+			echo "----------------------"
+			[ $TESTING = "n" ] && setloadlang $LANG
+			PREVLANG=$LANG
+		fi
+		echo "----------"
+		echo "Loading..."
+		echo "----------"
+		case $COMM in
+			poem) MODE="-create -force" ;;
+			*)    MODE="-add" ;;
+		esac
+		case $TESTING in
+			n)
+				echo cat $FILES "|" brsload $DB $MODE | fmt
+				cat $FILES | brsload $DB $MODE
+				;;
+			y)
+				echo Files to be loaded in mode $MODE:
+				echo $FILES 2>&1 | fmt
+				;;
+		esac
+		echo ''
+		;;
+	esac
+done
+} < $LOADORDER
+echo $0 ended at `date`

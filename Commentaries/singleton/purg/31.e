@@ -1,0 +1,938 @@
+	|1.  fiume sacro~: The adjective signals the act of a
+sacrament which Dante is now undergoing, the act of penance.
+
+	|2-3.  volgendo suo parlare... acro~: The reader will
+recall that Beatrice, whose speech is here compared to a sword
+(cf. ^Purg.~ XXX, 57), began her encounter with Dante by
+addressing him directly, calling him by his first name (^Purg.~
+XXX, 55), and then passed to indirect address, speaking to the
+angels (^Purg.~ XXX, 103-145), i.e., "with the edge" of her
+speech.  Here she returns to direct address, speaking to Dante
+himself "with the point" of her speech.  Her accusation now is to
+be taken as applying only to Dante, whose name has been given "of
+necessity" (^Purg.~ XXX, 63), and this is the necessity of that
+naming.  Beatrice's charges are charges of backsliding and
+aversion of which the individual Dante, and he alone, is guilty. 
+The Beatrice who is known to readers of the ^Vita nuova~ now
+comes prominently to the fore -- a Beatrice who in that early
+work is ^not~ an allegorical figure.  (See C. S. Singleton, 1954,
+pp. 45-60, 90-94.)  However, when Dante's personal penance here
+before Beatrice is completed, and he is drawn across the river
+and led up to Beatrice by the virtues, Beatrice, by a new pose,
+her eyes fixed on the griffin (vss. 120-123), takes on symbolical
+meaning which exceeds that which she represents while she exacts
+penance of Dante.  These are subtle changes in the framing.
+
+	|acro~: "Keen."  Cf. ^Purg.~ IX, 136.
+
+	|4.  cunta~: From the root of the Latin ^cunctari~, "to
+delay."
+
+	|5.  questo~: All the foregoing accusation (^Purg.~ XXX,
+109-138).
+
+	|6.  tua confession~: The term is clear and points to the
+act of confession by the lips, ^confessio oris~, which is the
+second act of penance, following contrition of the heart,
+^contritio cordis~ (see ^Purg.~ XXX, 85-99), and without which
+remission of sins is normally not possible in the Church.
+
+	|9.  li organi suoi~: The throat and the mouth. 
+
+	|10.  Poco sofferse~: Beatrice waits, i.e., endures this,
+for only a moment.  "Poco" here has its negative meaning, i.e.,
+"but little."
+
+	|11.  Rispondi a me~: The sternness of Beatrice's tone
+continues in the use of the disjunctive "me" with its emphasis. 
+^Rispondimi~, as Torraca observes, would have quite another
+meaning. 
+
+	|12.  acqua~: The water of Lethe.	|offense~: "Made
+dim," "canceled," or, more literally, "impaired."
+
+	|14.  s@i~: Dante's "s@i" is the beginning of his actual
+confession admitting to the truth of Beatrice's charges.  The
+rest of the confession is contained in the single tercet of vss.
+34-36.
+
+	|15.  al quale intender fuor mestier le viste~: Only by
+seeing the movement of his lips could one understand his faint
+"s@i" as such.        |fuor mestier~ = ^furono mestiere.~
+
+	|16-17.  Come balestro frange... l'arco~: "Corda" and
+"arco" are objects of "frange."  Porena notes that the crossbow
+could be cranked up mechanically to a tension far greater than
+that possible with the ordinary hand-drawn bow.  The simile is
+one that finds its allusive relevance in being precisely one of a
+"breaking," the literal meaning of ^contritio~, so that
+contrition of the heart is here continued into the act of
+confession.  On the literal meaning of ^contritio~, see Thomas
+Aquinas, ^Summa theol.~ III, Suppl., q. 1, a. 1, resp.:
+
+     Respondeo dicendum, quod ut dicitur Eccli. 10, 15, ^Initium~
+     ^omnis peccati est superbia~, per quam homo sensui suo
+     inhaerens, a mandatis divinis recedit.  Et ideo oportet quod
+     illud quod destruit peccatum, hominem a proprio sensu
+     discedere faciat; ille autem qui in suo sensu perseverat,
+     rigidus, et durus per similitudinem vocatur; sicut durum in
+     materialibus dicitur quod non cedit tactui: unde et frangi
+     dicitur aliquis quando a suo sensu divellitur.  Sed inter
+     fractionem, et comminutionem, sive contritionem in rebus
+     materialibus unde haec nomina ad spiritualia transferuntur
+     hoc interest, ut dicitur in 4 Meteor. (cap. 7 et 9), quod
+     frangi dicuntur aliqua quando in magnas partes dividuntur,
+     sed comminui, vel conteri, quando ad partes minimas
+     reducitur hoc quod in se solidum erat.  Et quia ad
+     dimissionem peccati requiritur quod affectum peccati homo
+     totaliter dimittat, quem per quamdam continuitatem et
+     soliditatem in sensu suo habebat; ideo actus ille quo
+     peccatum dimittitur, contritio dicitur per similitudinem.... 
+     Alia autem definitio invenitur Isidori, lib. 2, de sum.
+     Bono, cap. 12 quae talis est: ^Contritio est compunctio et~
+     ^humilitas mentis cum lacrymis veniens de recordatione~
+     ^peccati et timore iudicii.~  Et haec quidem tangit rationem
+     nominis in hoc quod dicit ^humilitas mentis~: quia sicut per
+     superbiam aliquis in suo sensu redditur rigidus, ita per hoc
+     quod a suo sensu contritus recedit, humiliatur.  Tangit
+     etiam modum exteriorem in hoc quod dicit ^cum lacrymis~; et
+     principium contritionis in hoc quod dicit; ^veniens de~
+     ^recordatione peccati~ etc.  Alia sumitur ex verbis Augustini
+     (implic. sup. psalm. 46, ante med.), quae tangit effectum
+     contritionis, quae est: ^Contritio est dolor remittens~
+     ^peccatum.~
+
+     ^I answer that~, As stated in Ecclus. X.15, ^pride is the~
+     ^beginning of all sin~, because thereby man clings to his
+     own judgment, and strays from the Divine commandments. 
+     Consequently that which destroys sin must needs make man
+     give up his own judgment.  Now he that persists in his own
+     judgment, is called metaphorically rigid and hard even as
+     what in material things is called hard is that which does
+     not yield to the touch: wherefore anyone is said to be
+     broken when he is torn from his own judgment.  But, in
+     material things, whence these expressions are transferred to
+     spiritual things, there is a difference between breaking and
+     crushing or contrition, as stated in ^Meteor.~ iv, in that
+     we speak of breaking when a thing is sundered into large
+     parts, but of crushing or contrition when that which was in
+     itself solid is reduced to minute particles [see Aristotle,
+     ^Meteor.~ iv, 9, 386+a~].  And since, for the remission of
+     sin, it is necessary that man should put aside entirely his
+     attachment to sin, which implies a certain state of
+     continuity and solidity in his mind, therefore it is that
+     the act through which sin is cast aside is called contrition
+     metaphorically....  Another definition is given by Isidore
+     (^De Sum. Bono~, ii. 12) as follows: ^Contrition is a~
+     ^tearful sorrow and humility of mind, arising from~
+     ^remembrance of sin and fear of the Judgment.~  Here we
+     have an allusion to the derivation of the word, when it is
+     said that it is ^humility of the mind~, because just as
+     pride makes the mind rigid, so is a man humbled, when
+     contrition leads him to give up his mind.  Also the external
+     manner is indicated by the word ^tearful~, and the origin of
+     contrition, by the words, ^arising from remembrance of~
+     ^sin~, etc. -- Another definition is taken from the words of
+     Augustine (implicitly, on Ps. xlvi [xlvii]), and indicates
+     the effect of contrition.  It runs thus: ^Contrition is~
+     ^the sorrow which takes away sin.~
+
+One may perhaps see more clearly, looking back, that the simile
+of melting snow in ^Purg.~ XXX, 85-90, also alludes to the
+literal sense of ^contritio~ as Thomas Aquinas represents it.  A
+"breaking up" of ice there, a "breaking" of a crossbow here, and,
+in a third simile, an "uprooting" (vss. 70-72) all reflect the
+sense intended by Thomas Aquinas.  The first few questions of the
+treatise on penance of the ^Summa theologica~ were written by
+Thomas Aquinas just before his death, and the ^Summa~ was then
+continued probably by Fra Rainaldo da Piperno and was based on
+Aquinas' earlier commentary on the fourth book of the ^Sentences~
+of Peter Lombard; this section, from which the above quotation is
+taken, is commonly termed the ^Supplementum~ to the ^Summa~
+^theologica.~
+
+	|balestro~ = ^balestra.~  Cf. ^Inf.~ XXXI, 83.
+
+	|da troppa tesa~: From excessive tension or strain.
+
+	|19.  sottesso~: This might be written ^sott'esso.~ 
+|Esso~ (from the Latin ^ipsum~) intensifies the meaning: "under
+that very charge."
+
+	|21.  e la voce allent@o per lo suo varco~: Cf. Virgil,
+^Aen.~ XI, 151: "Et via vix tandem voci laxata dolore est." 
+("And scarce from sorrow at the last does his speech find open
+way.") 		|allent@o~: Here used intransitively.
+
+	|22.  i mie' disiri~: "Desires for me."  For this use of
+the possessive, see vs. 54: "suo disio."
+
+	|23-24.  che ti menavano... s'aspiri~: This "bene" is, by
+definition, God, since only in Him can our desires and our love
+find rest and so have no need to aspire further.  Vss. 22-24
+hark back to Beatrice's role in Dante's life as recounted in the
+^Vita nuova~ and seem to sum up that narrative in three verses.
+
+	|25.  quai fossi attraversati o quai catene~: Grandgent
+comments that the reference is to the obstacles used to prevent
+the passage of a hostile army or fleet.  Beatrice's charge is
+that such obstacles caused Dante to despair of his further
+advance toward God.  The barring of the gates of the city of Dis,
+in Inferno (^Inf.~ VIII, 82-IX, 105), represents in allegory the
+danger of despair caused by such obstacles.     |fossi
+attraversati~: "Cross-ditches."  For the word ^attraversato~ used
+in this sense, see ^Inf.~ XXIII, 118.       |catene~: Chains such
+as barred the gates of cities. 
+
+	|27.  dovessiti~ = ^ti dovessi.~
+
+	|28.  quali agevolezze o quali avanzi~: Porena notes that
+the two terms are the opposites of "fossi attraversati" and
+"catene" (vs. 25).  As Torraca (followed by others) observes, the
+terms |agevolezza~ and |avanzo~ may belong to the language of
+merchants and merchandising, but as used here they take on
+somewhat different meanings better understood respectively as
+^agi~ ("comforts") and ^miglioramenti~ ("gains").  Torraca quotes
+the following passage from Fra Giordano in which "agevolezza"
+appears.  See Fra Giordano, ^Prediche inedite~ XX (p. 113): "Se
+Iddio ti trae di tribulazione od angoscia, e ponti in istato di
+riposo od agevolezza" ("if God takes you from tribulation or
+suffering, and puts you in condition of rest or ease"). 
+Boccaccio uses "avanzi" in the sense here intended in ^Decam.~ X,
+9 (vol. II, p. 291, l. 4).
+
+	|29.  ne la fronte de li altri~: ^Beni~ is understood
+("ne la fronte de li altri beni"), "goods" other than the supreme
+good named in vss. 23-24.  In "fronte" (literally, "forehead") a
+personification is suggested, which anticipates the "serene"
+(Sirens) of vs. 45, and is carried further here by the phrase
+"lor passeggiare anzi" in vs. 30.
+
+	|30.  per che~ = ^per cui.~ 	|dovessi lor passeggiare
+anzi~: This should be construed as "dovessi passeggiare davanti a
+loro."  The personification of the "other" goods continues.  It
+was Bernardino Daniello (in his commentary of 1568) who first
+proposed that the phrase "passeggiare anzi" should be understood
+in the sense of "to court," i.e., by passing frequently back and
+forth before the house of the lady love, a standard custom,
+certainly, of lovers in Dante's time as later.  M. Barbi (1934b,
+p. 284) has championed this meaning, with many references to
+support it.
+
+	|31.  tratta~: Noun derived from ^trarre~, here in the
+sense of "to heave."
+
+	|34.  Le presenti cose~: "Present things" refer to things
+that were before Dante's eyes and his mind's eye after Beatrice's
+death, as her face no longer was.  "Presenti" is thus opposed to
+Beatrice's ^absent~ beauty, which once led toward God (vss.
+23-24).
+
+	|35.  col falso lor piacer~: "With their false pleasure,"
+but perhaps also their false beauty.  ^Piacere~ in Dante's usage
+lends itself to this ambiguity (cf. ^Inf.~ V, 104; ^Purg.~ XVIII,
+21 and 27).  The "piacer" of present things anticipates and
+opposes Beatrice's "piacer" (vs. 50), where again the ambiguity
+of the term continues.     |volser miei passi~ = "Turned my steps
+aside" from the straight way and, perhaps, into the dark wood of
+^Inf.~ I, 1-3.
+
+	|36.  vostro viso~: It is clear from these first words in
+direct address to Beatrice that Dante will use the respectful
+second person plural, ^voi~, in speaking to her, whereas she has
+already addressed him with the familiar ^tu.~  In the early
+Italian love lyric and in Dante's early poems it is customary for
+the poet-lover to address ^madonna~ with the respectful ^voi.~ 
+Dante continues now to observe such usage and will do so until
+the very last words of address to Beatrice, in ^Par.~ XXXI,
+79-90.  Readers of the present translation, in which the English
+^thou~ has not been used, should bear Dante's usage in mind,
+confirming it in the Italian text.
+
+	|38.  fora~ = ^sarebbe.~
+
+	|39.  da tal giudice~: By God, who sees all things and
+through whom the blessed in the heavenly court can see and know
+many things, as will be made abundantly clear in the ^Paradiso.~
+
+	|40.  gota~: Grandgent proposes that "the use of |gota~,
+'cheek,' instead of 'lips,' was perhaps suggested, not only by
+the rime, but also by the idea of the blush of shame that
+accompanies the words."
+
+	|41.  in nostra corte~: In the heavenly court, where
+Beatrice and the angels abide.
+
+	|42.  rivolge s$e contra 'l taglio la rota~: Grandgent
+comments: "The sword of justice is blunted, i.e., tempered with
+mercy."
+
+	|43.  mo~: "Now." 	|porte~ = [^tu~] ^porti~
+(subjunctive).
+
+	|45.  le serene~: The allurements of the world and of the
+flesh, as they offer a pleasure that is false in its promise. 
+Cf. the dream of the self-declared Siren in ^Purg.~ XIX, 19-24,
+and see Dante's ^Epist.~ V, 13: "Nec seducat alludens cupiditas,
+more Sirenum nescio qua dulcedine vigiliam rationis mortificans." 
+("Nor let illusive greed seduce you, siren-like, doing to death,
+by some charm, the vigil of reason.")  On this reference to the
+Sirens Grandgent observes:
+
+     On the completion of Dante's confession Beatrice rebukes him
+     once more, "that he may be stronger another time when he
+     hears the sirens" (ll. 44-45).  It will be remembered that in
+     Dante's second dream a siren (XIX, 19) represented the sins
+     of the flesh.  On the other hand, in [Boethius] ^Consolatio~
+     ^Philosophiae~, I, Pr. i [ll. 39-41], in a situation somewhat
+     analogous to the one under discussion, Philosophy, finding
+     the exiled and imprisoned author in the company of the muses
+     of poetry, drives them away, saying: "Sed abite potius,
+     ^Sirenes~ usque in exitium dulces, meisque eum Musis
+     curandum [sanandumque] relinquite" ["rather get you gone,
+     you Sirens pleasant even to destruction, and leave him to my
+     Muses to be cured and healed"] -- the sirens of poetry must
+     yield the place to the muses of philosophy.  Beatrice's
+     "sirens," then, can be used on either side of the argument.
+
+	|46.  il seme del piangere~: Grandgent notes that this
+odd phrase is evidently due to a reminiscence of Ps. 125 [126]:5,
+"qui seminant in lacrimis, in exultatione metent" ("those that
+sow in tears shall reap rejoicing"), and he points out that P.
+Rajna (1928), p. 306, cites the first line of a riddle, perhaps
+of the eighth century, of Anglo-Saxon provenience: "candida virgo
+suas lacrimas dum seminat atras" ("while the fair virgin sows her
+bitter tears"). 
+
+	|48.  mover dovieti~: I.e., "ti avrebbe dovuto muovere." 
+|dovieti~ = ^ti doveva.~
+
+	|50.  piacer~: A "beauty" or perhaps (see n. to vs. 35) a
+"delight," but the meaning "beauty" seems predominant, as
+Beatrice's "piacer" is said to surpass any created by nature or
+by art.  "Piacer," two verses later, continues with the meaning
+"beauty" as the predominant sense.
+
+	|51.  so' 'n~ = ^sono in.~	|'n terra sparte~: Cf.
+Gen. 3:19: "in pulverem reverteris" ("unto dust you shall
+return").
+
+	|52.  'l sommo piacer~: Beatrice's surpassing beauty. 
+
+	|fallio~ = ^fall@i.~  The verb means "failed," but it
+anticipates the adjective "fallaci," meaning "deceitful," in vs.
+56: even Beatrice's beauty could prove to be fallacious, like all
+mortal things.
+
+	|54.  nel suo disio~: "Into desire of it."  For this use
+of the possessive, cf. vs. 22.
+
+	|55-56.  lo primo strale de le cose fallaci~: The first
+arrow is clearly the failure of Beatrice's supreme beauty, which
+proved, through her death, to be a fallacious mortal thing.  Cf.
+Virgil, ^Aen.~ IV, 17: "postquam primus amor deceptam morte
+fefellit" ("since my first love, turning traitor, cheated me by
+death").
+
+	|57.  tale~: I.e., deceptive, as mortal things prove to
+be.  Beatrice speaks as the immortal soul that she now is,
+divested by death of her mortal body that was once so beautiful.
+
+	|58.  dovea gravar~: The subjects of "dovea gravar" are
+"pargoletta" and "altra novit@a" of vss. 59 and 60.
+
+	|59.  pargoletta~: The lady of Dante's ^Rime~ LXXXVII and
+LXXXIX is called ^pargoletta~, as is the lady of one of his ^rime
+petrose~ (so called because they were written about a lady who
+was hard as ^pietra~, "stone"), ^Rime~ C.  See ^Rime~ LXXXVII, 1;
+LXXXIX, 2; C, 72.  Momigliano observes that this term seems to be
+the specification of the "altrui" of ^Purg.~ XXX, 126, but adds
+that it is a specification that continues to remain in the nature
+of allusion and that the poet could not have gone beyond such a
+term, a kind of ^senhal~, without lowering this scene of high
+rebuke to one of a worldly jealousy.
+
+	|60.  novit@a~: Many MSS, followed by modern editors, have
+"vanit@a," but Petrocchi argues persuasively for the reading
+"novit@a."  Both terms in the context of Beatrice's reproaches are
+more or less synonymous.      |breve uso~: "Brief duration,"
+i.e., in the pleasure it can offer.
+
+	|61.  Novo~: "Young." 	   |augelletto~: I.e.,
+^uccelletto.~  The diminutive suffix adds to the "youth" of the
+bird.      |due o tre aspetta~: It takes at least two or three
+shots (see vs. 59) to teach the fledgling to be cautious.
+
+	|62-63.  ma dinanzi... saetta~: Cf. Prov. 1:17: "Frustra
+autem iacitur rete ante oculos pennatorum."  ("It is in vain that
+a net is spread before the eyes of any bird.")  Also see Eccles.
+7:27 [26].
+
+	|dinanzi da~ = ^dinanzi a.~ 	|pennuti~:
+"Full-fledged," i.e., experienced.
+
+	|64-67.  Quali fanciulli... io~: Through this metaphor
+Dante's bearing before Beatrice continues to be that of a child
+toward his mother, as in ^Purg.~ XXX, 79.
+
+	|stannosi~ = ^si stanno.~  The reflexive here is the
+familiar pleonastic ^si~ in its distancing function, continued in
+the "mi" of vs. 67.
+
+	|s$e riconoscendo~: "Recognizing their fault." 
+^Riconoscersi~ in early Italian is frequently used in this
+meaning.
+
+	|Quando~: "Since."
+
+	|68.  barba~: Grandgent notes that Dante is apparently
+playing on the double sense of "beard" and "chin" that ^barba~
+had in many regions in the Middle Ages, and he cites A. Sepulcri
+(1910), pp. 191-194, concerning this.
+
+	|70-73.  Con men di resistenza... il mento~: This is the
+third simile which draws on the literal meaning of ^contritio~ as
+a "breaking up" or "uprooting" (see n. to vss. 16-17) and
+therefore conveys the meaning that contrition of the heart, which
+is often termed the first stage of the sacrament of penance,
+continues here through confession (and beyond -- see vss. 86-89). 
+The construction "con men di resistenza... ch'io non levai al suo
+comando il mento" is elliptical and in full statement would be
+"con men di resistenza di quella con cui io levai al suo comando
+il mento."
+
+	|nostral~: "Native," coming from our pole, i.e., from the
+north, as opposed to the south wind, from Africa.
+
+	|Iarba~: Iarbas, or Hiarbas, was king of the Gaetulians
+in North Africa at the time Dido founded Carthage; he was among
+those who sued in vain for her hand (Virgil, ^Aen.~ IV, 36, 196,
+326; Ovid, ^Fasti~ III, 552-554).
+
+	|75.  il velen de l'argomento~: The "venom of her speech"
+consists in the implication that the beard, the plumage of the
+full-fledged (cf. ^Purg.~ I, 42), is inconsistent with Dante's
+childish posture, as in vss. 64-66. 
+
+	|76-81.  E come la mia faccia... nature~: There is a
+notable change of scene at this point, signaled by the angels'
+ceasing to strew flowers and, even more strikingly, by Beatrice's
+new pose, as she turns away from Dante (signifying that
+contrition and confession are now finished) to gaze fixedly upon
+the griffin.  Such a manner of changing scene in these cantos of
+the procession has been noted before (see n. to ^Purg.~ XXX, 9)
+and will continue.
+
+	|posarsi quelle prime creature... comprese~: The angels
+are "primal creatures" because they were created first among
+creatures by God.  Cf. ^Inf.~ VII, 95.
+
+	|le mie luci~: My eyes.    |poco sicure~: Tearful still
+and timid for shame.
+
+	|volta in su la fiera~: Referring to the griffin.
+
+	|una persona in due nature~: Cf. ^Purg.~ XXIX, 113-114,
+where the two natures of the "twofold animal" (vs. 122) are first
+indicated, it being, literally, part eagle and part lion.  Now,
+of course, the animal is seen in its symbolic meaning as Christ,
+who is one person in two natures.
+
+	|83.  pariemi~ = ^mi pareva.~
+
+	|84.  vincer che l'altre qui~: "Than she surpassed all
+other women."  "Vincer" is insistently repeated.
+
+	|85-89.  Di penter... vinto~: The act of penance clearly
+continues still in this climax of contrition, Dante's falling
+here carrying out the simile of the robust oak's uprooting and
+consequent fall.  Grandgent observes that "this swoon evidently
+represents ^satisfaction~, the last stage of the sacrament of
+penance."  But this is quite possibly not so, since this
+particular act of penance here before Beatrice can have as its
+third stage that of absolution, that of being taken through the
+stream of Lethe to the blessed shore and then led to Beatrice by
+the two groups of virtues.
+
+	|penter~ (pronounced ^pent@er~) = ^pentere~, from the
+Latin ^poenitere.~  ^Pentere~ was often used in early Italian
+instead of ^pentire.~  Cf. ^Inf.~ XXVII, 119.     |ivi~: Though
+commonly spatial in meaning, the adverb also bears a temporal
+meaning here.
+
+	|qual mi torse~: "Whatsoever one had drawn me."
+
+	|nel suo amor~: "In love of it."  For this use of the
+possessive, see vss. 22 and 54.
+
+	|riconoscenza~: "Recognition" of sin or guilt.
+
+	|femmi~ = ^mi fei~, i.e., ^mi feci.~
+
+	|90.  salsi~ = ^se lo sa.~  Cf. ^Purg.~ V, 135.
+
+	|91.  virt@u di fuor~: "My outward faculties," my sense
+of outward things.  It was believed that when a person fainted,
+the blood flowed back to the heart from all the other organs,
+suspending their activity.  Cf. n. to ^Inf.~ I, 20 and ^Rime~
+CIII, 45-47:
+
+     e 'l sangue, ch'@e per le vene disperso,
+     fuggendo corre verso
+     lo cor, che 'l chiama; ond'io rimango bianco.
+
+     And the blood, all scattered through the veins, flees
+     running towards the heart that summons it, and I am left all
+     blanched. 
+
+	|rendemmi~ = ^mi rend@e.~
+
+	|92.  la donna ch'io avea trovata sola~: This lady, whom
+Dante first met alone (^Purg.~ XXVIII, 40), has been on the scene
+for some time now, but still has not been named, and she is not
+to be named until quite near the end of this ^cantica~ (^Purg.~
+XXXIII, 119).  Her name, Matelda, leaves serious problems of
+interpretation, as will be noted.  For the moment, it appears
+that it is Matelda's function to administer the water of the two
+streams Lethe and Eunoe to all souls reaching this summit as well
+as to Dante in this most exceptional case of a living man's
+presence here.  (See ^Purg.~ XXXIII, 134-135, where Statius is
+invited by Matelda to drink of the second stream.)
+
+	Statius was last seen (^Purg.~ XXVIII, 146) before Virgil
+departed the scene (see ^Purg.~ XXX, 49), and as Dante's
+encounter with Beatrice became a personal encounter (as the
+reader well understands by now), no further mention of Statius'
+presence on the scene has been made.  His crossing of Lethe is
+not mentioned, but we learn that all souls reaching this summit
+must drink of both the streams (^Purg.~ XXVIII, 131-132).  He
+must therefore ^drink~ of Lethe, but just how he ^crosses~ that
+stream is not told.  There will be no question of crossing Eunoe,
+but only of drinking of it.
+
+	Statius' presence throughout all this part of the poem is
+a most valuable exegetical guide, for we know from what he does,
+and does not do, just what every soul that reaches the summit
+must do.  In addition to this, we know that it is Matelda's
+function to administer the water of the two streams to ^all~
+souls who reach this summit.  But since Beatrice pays no
+attention to Statius and he is left out of view in the whole
+episode of the three cantos of Beatrice's triumph (^Purg.~
+XXIX-XXXI), we also know that Beatrice's coming is for the living
+man Dante ^only~ and is not for each and every soul reaching the
+summit -- in fact, it is never repeated for them.  This is
+extremely valuable in guiding us to the right focus on Beatrice's
+advent in its total significance and the ^limits~ of its import.
+
+	|93.  sopra me~: As will be seen from the following
+verse, Dante and Matelda have begun to cross the river.  Matelda
+walks on the surface of the water, and Dante is immersed.  She is
+above him in this sense.  	|Tiemmi~ = ^tienimi~, imperative.
+
+	|96.  sovresso l'acqua~: Over the very surface of the
+water, |esso~ (Latin ^ipsum~) added to |sovra~ serving to stress
+this.  		|scola~: "Shuttle," as used in weaving, which is
+indeed very light and passes back and forth on the very surface
+of the fabric being woven.  Some texts have "spola," the more
+usual form for "shuttle," but the word ^scola~ also existed in
+this meaning (as it still does in Tuscan speech) and has been
+accepted by Petrocchi (see his note).
+
+	|97.  beata riva~: A shore called "blessed" clearly
+points to this far shore as a blessed goal in the journey, so
+that crossing over to it can seem to be a crossing to some
+promised land or to Eden proper (see C. S. Singleton, 1958, pp.
+254-287).  The reader will recall that the stream itself is
+called a "fiume sacro" in the opening verse of this present
+canto.  This crossing over and the attainment of the far shore
+and Beatrice complete a total pattern of justification, as the
+reader may now see in retrospect.  See C. S. Singleton (1958),
+pp. 57-121.
+
+	|98.  "Asperges me" s@i dolcemente udissi~: See Ps. 50:9
+[51:7]: "Asperges me hyssopo, et mundabor; lavabis me, et super
+nivem dealbabor."  ("Cleanse me of sin with hyssop, that I may be
+purified; wash me, and I shall be whiter than snow.")  The angels
+presumably sing this.  The ^Ottimo Commento~ has an enlightening
+comment here: "Questo ^Asperges~... si dice quando per lo prete
+si gitta l'acqua benedetta sopra il confesso peccatore, il quale
+elli assolve."  ("This 'Asperges'... is pronounced when the
+priest sprinkles the holy water on the sinner who has confessed
+himself, thus absolving him.")  Dante's crossing of Lethe,
+immersed therein, is therefore the absolution which completes the
+act of penance as well as the pattern of justification.  Dante is
+now absolved of his sins, has confessed to Beatrice, and may be
+led up to her by her handmaids, the seven virtues.  His drinking
+of Lethe, which Matelda will force him to do (vss. 101-102), is
+not part of this pattern, but is that which he and Statius and
+every soul that reaches this summit must do.  The reader will do
+well to distinguish this drinking and its significance from the
+immersion, as in a kind of baptism (but not an actual baptism,
+for the sacrament of baptism is not to be repeated).  Baptism
+absolves from the guilt of original sin, penance from that of
+personal sin, and it is personal sin for which Dante has felt
+contrition and to which he has confessed.  It should be
+remembered that the whole act of penance now completed was
+announced by Matelda (see her words of ^Purg.~ XXIX, 3: "Beati
+quorum tecta sunt peccata").  When Dante comes forth from the
+water of Lethe, his sins will be "covered," forgiven and
+remitted.
+
+	In this connection it is illuminating to consider more of
+the fiftieth psalm than simply the verse cited.  It is a prayer
+of repentance, in which David asks the Lord for mercy and
+forgiveness of his sins.  See Ps. 50:1-20 [51:1-18]:
+
+     In finem.  Psalmus David, cum venit ad eum Nathan propheta,
+     quando intravit ad Bethsabee.  Miserere mei, Deus, secundum
+     magnam misericordiam tuam; et secundum multitudinem
+     miserationum tuarum dele iniquitatem meam.  Amplius lava me
+     ab iniquitate mea, et a peccato meo munda me.  Quoniam
+     iniquitatem meam ego cognosco, et peccatum meum contra me
+     est semper.  Tibi soli peccavi, et malum coram te feci, ut
+     iustificeris in sermonibus tuis, et vincas cum iudicaris. 
+     Ecce enim in iniquitatibus conceptus sum, et in peccatis
+     concepit me mater mea.  Ecce enim veritatem dilexisti,
+     incerta et occulta sapientiae tuae manifestasti mihi. 
+     Asperges me hyssopo, et mundabor; lavabis me, et super nivem
+     dealbabor.  Auditui meo dabis gaudium et laetitiam, et
+     exultabunt ossa humiliata.  Averte faciem tuam a peccatis
+     meis, et omnes iniquitates meas dele.  Cor mundum crea in
+     me, Deus; et spiritum rectum innova in visceribus meis.  Ne
+     proiicias me a facie tua, et spiritum sanctum tuum ne
+     auferas a me.  Redde mihi laetitiam salutaris tui, et
+     spiritu principali confirma me.  Docebo iniquos vias tuas,
+     et impii ad te convertentur.  Libera me de sanguinibus,
+     Deus, Deus salutis meae, et exultabit lingua mea iustitiam
+     tuam.  Domine, labia mea aperies; et os meum annuntiabit
+     laudem tuam.  Quoniam si voluisses sacrificium, dedissem
+     utique; holocaustis non delectaberis.  Sacrificium Deo
+     spiritus contribulatus; cor contritum et humiliatum, Deus,
+     non despicies.  Benigne fac, Domine, in bona voluntate tua
+     Sion, ut aedificentur muri Ierusalem.
+
+     For the leader.  A psalm of David, when Nathan the prophet
+     came to him after his sin with Bethsabee.
+
+     Have mercy on me, O God, in your goodness; in the greatness
+     of your compassion wipe out my offense.  Thoroughly wash me
+     from my guilt and of my sin cleanse me.
+
+     For I acknowledge my offense, and my sin is before me
+     always: "Against you only have I sinned, and done what is
+     evil in your sight" -- that you may be justified in your
+     sentence, vindicated when you condemn.  Indeed, in guilt was
+     I born, and in sin my mother conceived me; behold, you are
+     pleased with sincerity of heart, and in my inmost being you
+     teach me wisdom.
+
+     Cleanse me of sin with hyssop, that I may be purified; wash
+     me, and I shall be whiter than snow.  Let me hear the sounds
+     of joy and gladness; the bones you have crushed shall
+     rejoice.  Turn away your face from my sins, and blot out all
+     my guilt.
+
+     A clean heart create for me, O God, and a steadfast spirit
+     renew within me.  Cast me not out from your presence, and
+     your holy spirit take not from me.  Give me back the joy of
+     your salvation, and a willing spirit sustain in me.
+
+     I will teach transgressors your ways, and sinners shall
+     return to you.  Free me from blood guilt, O God, my saving
+     God: then my tongue shall revel in your justice.  O Lord,
+     open my lips, and my mouth shall proclaim your praise.  For
+     you are not pleased with sacrifices; should I offer a
+     holocaust, you would not accept it.  My sacrifice, O God, is
+     a contrite spirit; a heart contrite and humbled, O God, you
+     will not spurn.
+
+     Be bountiful, O Lord, to Sion in your kindness by
+     rebuilding the walls of Jerusalem.
+
+	|99.  non ch'io lo scriva~: "Far less write it," i.e.,
+far less would I know how to describe such beauty.
+
+	|100.  aprissi~ = ^si apr@i.~
+
+	|101-102.  abbracciommi~ = ^mi abbracci@o.~
+
+	|mi sommerse... inghiottissi~: For this drinking of
+Lethe, as distinguishable in its meaning from the bathing in that
+river, see n. to vs. 98.  Drinking of the water of Lethe takes
+away the memory of sin, even as drinking of the river Eunoe
+restores the memory of every good deed (^Purg.~ XXVIII, 127-129).
+
+	|103-104.  Indi~: The adverb here bears a temporal rather
+than a spatial meaning ("then," rather than "thence").
+
+	|bagnato m'offerse... belle~: "Bathed" stresses the line
+of meaning that has to do with purification and the remission of
+sins, as the wayfarer is now led to Beatrice's handmaids, the
+virtues who came at the left wheel of her chariot, which is the
+wheel nearest the stream (Beatrice, it will be recalled, came to
+the left side of the chariot to speak to Dante across the stream:
+^Purg.~ XXX, 61).
+
+	|le quattro belle~: These are the infused cardinal
+virtues, as their purple color declares (see n. to ^Purg.~ XXIX,
+131).  In attaining to them, Dante is completing the process of
+"justification of the ungodly" (on this pattern of meaning, see
+C. S. Singleton, 1958, pp. 162-167, and ^passim~).
+
+	|105.  e ciascuna del braccio mi coperse~: The four
+maidens have Dante at the center of their dance now, and each
+reaches her arm over him, all presumably clasping hands over his
+head as they dance around him, forming as it were a sort of crown
+over him, so that he can be seen to receive the four infused
+cardinal virtues as a crown.  The crown which Virgil offered was
+that of the acquired cardinal virtues (though this was not
+explicitly stated).  See C. S. Singleton (1958), pp. 65-69, and
+^passim.~
+
+	|106.  nel ciel siamo stelle~: Now, for the first time
+since these four stars were first seen and were left obscure in
+their meaning (^Purg.~ I, 23-24), we are given an insight into
+their significance.  On this declared identification of the four
+maidens here with the four stars there mentioned and the entire
+pattern of meaning which emerges in consequence, see C. S.
+Singleton (1958), pp. 159-183.
+
+	|107-108.  pria che Beatrice... ancelle~: These four
+infused virtues were assigned to Beatrice as her handmaids before
+she "descended to the world."  The same statement might, of
+course, be made by the three theological virtues who dance at the
+other wheel, for as a group of seven in all, they clearly bring
+out one of Beatrice's meanings or names in this pageant, namely,
+Sapientia, or Wisdom.  The Biblical seven pillars of Wisdom have
+become seven handmaids.  On this whole pattern of meaning, see C.
+S. Singleton (1958), pp. 122-138, and ^passim.~ 
+
+	The scriptural figure of Sapientia is presented chiefly
+in the books of Wisdom, Ecclesiasticus, and Proverbs, called
+therefore the sapiential books of the Bible.  It is in Prov. 9:1
+that we read: "Sapientia aedificavit sibi domum, excidit columnas
+septem."  ("Wisdom has built her house, she has set up her seven
+columns.")  Just before this (Prov. 8:22-23) we read the words
+which Wisdom speaks of herself: "Dominus possedit me in initio
+viarum suarum antequam quidquam faceret a principio; ab aeterno
+ordinata sum, et ex antiquis antequam terra fieret."  ("The Lord
+begot me, the first-born of his ways, the forerunner of his
+prodigies of long ago; from of old I was poured forth, at the
+first, before the earth.")
+
+	The figure of Sapientia, in the Bible, is indeed a
+mysterious and somewhat puzzling one for Christian theologians,
+and Beatrice, in assuming the name of Wisdom (among her other
+names), takes on some of that mystery, as in these verses of the
+^Purgatorio.~  Her descent to the world, as Wisdom, was after the
+world was made!  And her handmaids were appointed to attend her
+in her descent to the world.  On the other hand, Beatrice here is
+always the Beatrice of the ^Vita nuova~ as well, in which she
+does not take on the name of Sapientia by any implication but in
+which (in ^Vita nuova~ X, 2) she is declared to be the "regina de
+le vertudi" ("queen of the virtues") and (in ^Vita nuova~ XXVI,
+6) "una cosa venuta / da cielo in terra a miracol mostrare" ("a
+thing come from heaven to earth, to show forth a miracle"). 
+Dante worked with the figure of Wisdom in the ^Convivio~ and then
+fused that figure with Beatrice as she is in the ^Divine Comedy.~ 
+On the complexities of meaning involved, see C. S. Singleton
+(1954), pp. 92-94.
+
+	|109.  Merrenti~ = ^ti meneremo.~
+
+	|110.  dentro~: In Beatrice's eyes.
+
+	|111.  le tre di l@a, che miran pi@u profondo~: "The three
+on the other side" are those who came dancing at the right wheel
+of the chariot (see ^Purg.~ XXIX, 121-129 and nn. to these
+verses) and are the theological virtues, as distinguished from
+the four cardinal virtues.  The theological virtues, as stars in
+the sky visible at night in Purgatory (^Purg.~ VIII, 85-93), are
+contemplative virtues, whereas the cardinal virtues are active
+virtues.  The three therefore see more deeply than do the four. 
+In terms of rising to Heaven, as Dante states the matter in the
+^Convivio~ (III, xiv, 15), the three theological virtues are the
+means or way by which we rise: "per le quali tre virtudi si sale
+a filosofare a quelle Atene celestiali" ("by which three virtues
+we rise to philosophise in that celestial Athens").  See C. S.
+Singleton (1958), pp. 163-167, and ^passim.~
+
+	|112.  cominciaro~ = ^cominciarono.~
+
+	|113.  al petto del grifon seco menarmi~: Dante is led to
+a position facing the griffin and accordingly is now in front of
+the chariot.  This represents a marked change of scene in this
+pageant, with Beatrice now striking a new pose.  The virtues lead
+Dante to a position from which Beatrice will be seen as
+Revelation.     |seco menarmi~ = ^mi menarono con s$e.~
+
+	|114.  ove Beatrice stava volta a noi~: Beatrice
+originally was standing on the left side of the chariot (^Purg.~
+XXX, 61), but she now has come to the front of it and faces
+toward Dante, though her eyes, as is then clear, are actually
+fixed on the griffin.  Such is the new pose and new frame of
+symbolic meaning.
+
+	|116-117.  li smeraldi~: The eyes of Beatrice are called
+emeralds in a symbolic sense only, and yet vs. 117 brings in the
+Beatrice of the ^Vita nuova.~  The two verses thus serve as a
+good example of the fusion of the Beatrice of the ^Vita nuova~
+with the figure of Lady Philosophy of the ^Convivio~ (see C. S.
+Singleton, 1954, pp. 92-94; 1958, pp. 122-138).
+
+	|119.  strinsermi~ = ^mi strinsero.~
+
+	|120.  che pur sopra 'l grifone stavan saldi~: Beatrice,
+with her eyes fixed on the griffin, is now "acting out" her
+meaning as Revelation, her eyes being fixed upon Christ alone, as
+represented by the griffin in its dual nature, eagle and lion.
+
+	|121-123.  Come in lo specchio... reggimenti~: Beatrice's
+eyes, through the simile, become a mirror through which we may
+"see" one of the deepest -- perhaps ^the~ deepest -- mysteries of
+the Christian faith: Christ as God and Christ as man, two natures
+in one person.  For this ^kind~ of vision in this life, Paul's
+words are fundamental (I Cor. 13:12): "Videmus nunc per speculum
+in aenigmate."  ("We see now through a mirror in an obscure
+manner.")  It should be noted also, since Sapientia remains
+(along with Revelation) one of the names of Beatrice, that in
+Sapien. 7:26 Sapientia is termed a mirror of the majesty of God.
+
+	|la doppia fiera~: The griffin, which literally is part
+eagle and part lion (see ^Purg.~ XXIX, 108, 113-114) and which
+symbolically is Christ in His two natures.
+
+	|or con altri, or con altri reggimenti~: Through the
+mirror of Revelation Christ's two natures can be glimpsed, not
+^together~ in one person, but alternately, now one, now the
+other.  The mystery of their oneness remains, a mystery which
+will prove to be the last gazed upon in the poem, in ^Par.~
+XXXIII, 127-145, where the seeing is face to face and recalls
+more of the words of Paul (I Cor. 13:12): "Videmus nunc per
+speculum in aenigmate, tunc autem facie ad faciem."  ("We see now
+through a mirror in an obscure manner, but then face to face.") 
+It is also relevant to remember that these words of Paul come in
+a context of love (charity), indeed are followed immediately (I
+Cor. 13:12-13) by: "Nunc cognosco ex parte, tunc autem cognoscam
+sicut et cognitus sum.  Nunc autem manent fides, spes, caritas,
+tria haec; maior autem horum est caritas."  ("Now I know in part,
+but then I shall know even as I have been known.  So there abide
+faith, hope and charity, these three; but the greatest of these
+is charity.")
+
+	"Altri... altri," as a construction, is modeled on the
+Latin ^alteri~... ^alteri~, rather than on ^uni~... ^alteri.~ 
+"Reggimenti" is somewhat mysterious in its meaning here: "mode,"
+"actions," and "conduct" are all possible translations.  But the
+term clearly suggests that the glimpse through Revelation of now
+one and now the other is a glimpse of something in action, not
+simply a static vision of now one nature and now the other.  This
+is borne out by the verb "si trasmutava" in vs. 126.
+
+	|125.  la cosa in s$e star queta~: "The thing in itself"
+is, of course, the griffin, which remains unchanged and
+motionless as Dante looks across it as he gazes into Beatrice's
+eyes.
+
+	|126.  ne l'idolo suo~: In the image of the griffin,
+mirrored in Beatrice's eyes, which does reveal itself now in the
+one mode, now in the other.
+
+	|128-129.  di quel cibo... asseta~: The phrasing here
+clearly echoes what Sapientia says of herself in Ecclus. 24:29:
+"Qui edunt me adhuc esurient, et qui bibunt me adhuc sitient." 
+("He who eats of me will hunger still, he who drinks of me will
+thirst for more.")  This echo brings out even more clearly the
+fact that one of the names of Beatrice is indeed Sapientia.  See
+C. S. Singleton (1958), pp. 122-138.
+
+	|130.  tribo~: From the Latin ^tribus.~  This is a noun
+that is masculine in early Italian, but feminine in modern
+Italian: ^la trib@u.~
+
+	|131.  fero~ = ^fecero.~
+
+	|132.  caribo~: A kind of dance music, not the dance
+itself.  Cf. the Provencal ^garip.~
+
+	|134.  sua~ = ^loro.~ 	   |al tuo fedele~: Dante is
+called Beatrice's "faithful" one now, as one whose sins of
+backsliding have been forgiven.  He was termed a faithful one at
+the beginning of the poem (^Inf.~ II, 97-99) by Mary.
+
+	|135.  che, per vederti, ha mossi passi tanti~: This
+points to Beatrice as the goal of the journey so far.  The phrase
+"passi tanti" indicates the entire journey through Inferno and
+the long hard climb up from the center of the earth to Purgatory.
+
+	|136.  noi~ = ^a noi.~ 	     |disvele~ = ^diveli~
+(subjunctive).
+
+	|138.  la seconda bellezza~: Grandgent notes that the
+first beauty is the eyes and the second is the mouth, and he
+calls attention to Dante's words in ^Conv.~ III, xv, 2-3:
+
+     E qui si conviene sapere che li occhi de la Sapienza sono le
+     sue demonstrazioni, con le quali si vede la veritade
+     certissimamente; e lo suo riso sono le sue persuasioni, ne
+     le quali si dimostra la luce interiore de la Sapienza sotto
+     alcuno velamento: e in queste due cose si sente quel piacere
+     altissimo di beatitudine, lo quale @e massimo bene in
+     Paradiso.  Questo piacere in altra cosa di qua gi@u essere
+     non pu@o, se non nel guardare in questi occhi e in questo
+     riso.  
+
+     And here it is right to know that the eyes of wisdom are
+     her demonstrations, whereby the truth is seen most
+     certainly, and her smile is her persuasions, whereby the
+     inner light of wisdom is revealed behind a certain veil; and
+     in these two is felt that loftiest joy of blessedness which
+     is the supreme good in Paradise.  This pleasure may not be
+     in ought else here below save in looking upon these eyes and
+     this smile.
+
+	|139.  O isplendor di viva luce etterna~: For Beatrice as
+a mirror or reflection of God's light, see n. to vss. 121-123. 
+Her name Revelation and her name Sapientia are emphasized here,
+for ^revelatio~ means an "unveiling."
+
+	|140.  chi~: "Whoever," i.e., whichever poet, in his
+dedication to his art and inspiration.     |palido~ = ^pallido.~
+
+	|141.  sua cisterna~: Castalia, the spring of Parnassus. 
+Cf. ^Purg.~ XXII, 65.  These verses amount to a minor
+invocation, indirectly turned to the Muses, preceding the final
+disclosure or unveiling of Beatrice.
+
+	|143.  paresti~ = ^apparisti.~
+
+	|144-145.  l@a dove armonizzando... ti solvesti~: "Ciel"
+qualified by "armonizzando" here appears to refer to the seven
+streamers of light which hang over the whole procession and
+symbolize the seven-fold Spirit of the Lord.  This canopy is in
+fact termed a ^cielo~ ("heaven") in ^Purg.~ XXIX, 82-- indeed, it
+is called a "bel ciel," and its harmonizing is stressed by
+comparing it to the rainbow (^Purg.~ XXIX, 77-78).  In this final
+unveiling of Beatrice the reader is thus reminded that one
+feature of this scene is constant: the seven-fold Spirit of the
+Lord which hangs over the whole like a canopy or heaven, that
+spirit which the prophet Isaiah had foreseen would come to rest
+over the Christ who was to come -- see Isa. 11:2: "Et requiescat
+super eum spiritus Domini."  ("And the spirit of the Lord shall
+rest upon him.")  In just such a way Beatrice now, in her analogy
+to Christ, which is constantly brought out in this procession, is
+overshadowed by such a heaven, although in a figurative sense
+only, for there is no shadow here, where the "splendor of living
+light eternal" is finally unveiled.
+
+	|aperto~: In the context the adjective is ambiguous.  It
+would seem to modify "aere," but those commentators who protest
+that "open air" would be almost meaningless for being so obvious
+seem to be right.  "Aperto" in the masculine could modify
+"isplendor" (vs. 139) as the subject of the proposition, in which
+case it would be an adjective used as an adverb (common in
+Italian) and thus mean ^apertamente~, serving together with
+"solvesti" to mean "openly disclose yourself," or, in the
+context, "wholly" or even "finally disclose yourself."
+
+

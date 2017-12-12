@@ -1,0 +1,773 @@
+	|1.  un secreto calle~: The path is recessed or
+withdrawn, since it passes between the walls and the
+tombs.  "Secreto" may also indicate that the path is narrow,
+obliging the two wayfarers to go in single file.  Cf. the
+"secreti calles" ("withdrawn walks") of ^Aen.~ IV, 405.
+
+	|2.  mart@iri~: "Torments," as in ^Inf.~ IX, 133.
+
+	|3.  dopo~ = ^dietro.~
+
+	|4.  O virt@u somma~: These words suggest Virgil's
+meaning in allegory: reason, the supreme virtue in human nature.
+
+	|5.  mi volvi...com' a te piace~: The phrase further
+stresses Virgil's deliberate turn to the right (see ^Inf.~ IX,
+132: "a la man destra si fu v@olto," and the note).
+
+	|6.  sodisfammi a' miei disiri~: See the same
+construction in vs. 126.  The indirect conjunctive pronoun is
+both a dative of person and a reinforcement of the
+possessive.
+
+	|miei disiri~: His hidden desire is to speak
+with Farinata, as is more clearly revealed in vs. 18 and what
+follows.  Ciacco's assurance (Inf. VI, 85-87) that Farinata is
+indeed farther down in Hell, together with Farinata's apparent
+reputation as a heretic, might well lead the wayfarer to look for
+him here in this circle.
+
+	|8.  potrebbesi~ = ^si potrebbe.~
+
+	|9.  nessun guardia face~: The Furies and the devils all
+have disappeared, nor is there any guardian here like Cerberus or
+Plutus.
+
+	|face~ = ^fa.~
+
+	|11.  Iosaf@at~: The Valley of Jehoshaphat, a common name
+for the Kidron valley, source of the stream that separates
+Jerusalem from the Mount of Olives.  According to a tradition
+common both to Jews and Moslems, it is in this valley that the
+Last Judgment is to take place.  See Ioel 3:2; also 3:12:
+"Consurgant et ascendant gentes in vallem Iosaphat, quia ibi
+sedebo ut iudicem omnes gentes in circuitu."  ("Let them arise and
+let the nations come up into the valley of Josaphat: for there I
+will sit to judge all nations round about.")  Also see Matt.
+25:31-32.  Thomas Aquinas (^Summa theol.~ III, Suppl., q. 88, a.
+4) cites Actus 1:11 to support a literal interpretation of Joel's
+words.  Since Christ ascended from the Mount of Olives, which
+overlooks the Valley of Jehoshaphat, He will descend in the same
+place and there judge the world.
+
+	|13.  Suo~ = ^loro.~
+
+	|14-15.  Epicuro tutti suoi seguaci...fanno~: Epicurus,
+the famous philosopher, born ^ca.~ 342 B.C., died 270.  The
+philosophical school named after him taught that pleasure, i.e.,
+the absence of pain, is the highest good.  See ^Conv.~ IV, vi,
+11-12, where Dante summarizes Epicurean beliefs; also see Cicero,
+^De fin.~ I, 9-11.  In ^Conv.~ II, viii, 8, Dante strongly
+condemns disbelief in a future life:
+
+     Dico che intra tutte le bestialitadi quella @e stoltissima,
+     vilissima e dannosissima, chi crede dopo questa vita
+     non essere altra vita; per@o che, se noi rivolgiamo tutte
+     le scritture, s@i de' filosofi come de li altri savi scrittori,
+     tutti concordano in questo, che in noi sia parte alcuna
+     perpetuale.
+
+     I say that of all stupidities that is the most foolish, the
+     basest, and the most pernicious, which believes that
+     after this life there is no other; for if we turn over all
+     the scriptures both of the philosophers and of the other
+     sage writers, all agree in this that within us there is a
+     certain part that endures.
+
+Disbelief in this basic idea was traditionally characterized as
+Epicurean; it was also, of course, heretical.  In the Christian
+view, then, Epicurus can be seen as an archheretic.
+
+	|16.  Per@o~ = ^per ci@o~, "hence."
+
+	|faci~ = ^fai.~
+
+	|17.  satisfatto sar@a~: An impersonal construction;
+Sapegno compares the Latin expression ^satisfactum erit.~
+
+	|18.  al disio ancor che tu mi taci~: Virgil can read the
+wayfarer's thoughts and knows his unexpressed desire to see
+Farinata (see n. to vs. 6).
+
+	|20.  dicer~ = ^dire.~
+
+	|21.  non pur mo~: "This is not the first time."  See
+^Inf.~ III, 76-78, and perhaps ^Inf.~ IX, 86-87.
+
+	|mo~ (from Latin ^modo~) = ^ora.~
+
+	|22.  Tosco~: The form, used frequently in the poem,
+means "toscano."
+
+	|citt@a del foco~: The whole city of Dis, but more particularly
+this sixth circle of fiery tombs just inside the walls.
+
+	|23.  parlando onesto~: Having overheard the wayfarer's
+courteous words to the guide, Farinata now speaks courteously
+himself: "piacciati di restare" (vs. 24).
+
+	|24.  piacciati~ = ^ti piaccia.~
+
+	|25.  La tua loquela ti fa manifesto~: Dante's speech is
+plainly Florentine.  See Matt. 26:73: "Nam et loquela tua
+manifestum te facit." ("For even thy speech betrays thee.")
+
+	|28.  usc@io~ = ^usc@i.~
+
+	|29.  per@o~ = ^per ci@o~, "wherefore."
+
+	|32.  Farinata~: This is the great Ghibelline leader of
+Florence -- Manente, son of Jacopo degli Uberti.  Known as
+Farinata, he was inquired about by the wayfarer previously (see
+^Inf.~ VI, 79) among the worthy Florentines.  According to the
+early biographer Filippo Villani (^Le vite~, p. 50), Farinata was
+"di statura grande, faccia virile, membra forti, continenza
+grave, eleganza soldatesca, parlare civile, di consiglio
+sagacissimo, audace, pronto e industrioso in fatti d'arme" ("of
+large stature, virile countenance, strong limbs, grave bearing,
+military elegance, and civil speech; he was wise in counsel, and
+bold, ready, and able in feats of arms").  Farinata was born in
+Florence at the beginning of the thirteenth century, and as a boy
+witnessed the introduction into the city of the Guelph and
+Ghibelline factions.  In 1239 he became the head of his house,
+the leading Ghibelline family, and in 1248 took a prominent part
+in the expulsion of the Guelphs.  The Guelphs returned to
+Florence a few years later, and in 1258 expelled the Ghibellines.
+Farinata, by this time the acknowledged head of his party, took
+refuge with the rest of the Ghibelline exiles in Siena (for the
+account of a Florentine chronicler, see Villani, VI, 65).  With
+the help of the Sienese and others, Farinata actively engaged in
+organizing measures which led to the crushing defeat of the
+Florentine Guelphs and their allies at Montaperti (September 4,
+1260) and left the Ghibellines masters of Tuscany.  After this
+victory the Ghibellines held a council at Empoli, about eighteen
+miles from Florence.  According to Villani, VI, 82:
+
+     Nel detto parlamento tutte le citt@a vicine...e tutti i
+     baroni d'intorno proposono e furono in concordia per lo
+     migliore di parte ghibellina, di disfare al tutto la citt@a
+     di Firenze, e di recarla a borgora, acciocch@e mai di suo
+     stato non fosse rinomo, fama, n@e podere.  Alla quale
+     proposta si lev@o e contradisse il valente e savio cavaliere
+     messer Farinata degli Uberti...dicendo...  com'era follia di
+     ci@o parlare, e come gran pericolo e danno ne potea
+     avvenire, e s'altri ch'egli non fosse, mentre ch'egli avesse
+     vita in corpo, colla spada in mano la difenderebbe.
+     Veggendo ci@o il conte Giordano, e l'uomo, e dell'autoritade
+     ch'era messer Farinata, e il suo gran seguito, e come parte
+     ghibellina se ne potea partire, e avere discordia, s@i si
+     rimase, e intesono ad altro; sicch@e per uno buono uomo
+     cittadino scamp@o la nostra citt@a di Firenze da tanta
+     furia, distruggimento, ruina.  Ma poi il detto popolo di
+     Firenze ne fu ingrato, male conoscente contra il detto
+     messer Farinata, e sua progenia e lignaggio.
+
+     At this meeting [at Empoli] all the nearby cities...  and
+     all the barons of the surrounding area proposed and agreed
+     that, for the good of the Ghibelline faction, the city of
+     Florence be completely destroyed, and reduced to the status
+     of a village.  No trace of the fame, reputation, and power
+     of the former state was to survive.  When this proposal was
+     made, the valiant and wise knight, Messer Farinata degli
+     Uberti, arose and opposed it...saying...that such talk was
+     madness, and might well bring about great danger and harm.
+     So long as there was life in his body, he said, he would
+     defend the city with sword in hand, even if he had to do it
+     alone.  Count Giordano [Manfred's vicar-general in Tuscany]
+     knew the sort of man Farinata was, and what authority and
+     great following he enjoyed.  Fearing that the Ghibelline
+     faction might break up in discord, he gave in, whereupon
+     another course was taken.  And thus did a good citizen save
+     our city of Florence from great fury, destruction, and ruin.
+     But the people of Florence later proved to be ungrateful,
+     bearing ill will toward Messer Farinata, his offspring, and
+     his lineage.
+
+After Montaperti and Empoli, Farinata returned to Florence, where
+he died in 1264 (see M. Barbi, 1924a, p. 89), the year before
+Dante's birth.  In 1267, when an attempt was made to reconcile
+the two factions in Florence by means of matrimonial alliances, a
+daughter of Farinata was betrothed to the Guelph Guido
+Cavalcanti, and the marriage subsequently took place.  The bitter
+and vindictive hatred toward Farinata remained, however; in 1283
+he and his wife Adaleta were posthumously condemned as heretics
+by the inquisitor Fra Salomone of Lucca, and two surviving
+nephews were deprived of their inheritance (see N. Ottokar, 1921,
+pp. 159-63).
+
+	|33.  da la cintola in s@u~: This was a standing phrase
+in Dante's time; see M. Barbi (1924a), pp. 93-94.
+
+	|tutto 'l vedrai~: On the meaning of "tutto," see M. Barbi
+(1924a), pp.  92-93.  The touch heightens the total effect of a
+towering Farinata.
+
+	|34.  gi@a~: Even before Virgil has finished urging him
+to turn and look, the wayfarer sees Farinata rising in his tomb.
+
+	|36.  dispitto~ = ^dispetto~ (^disprezzo~).  See ^Inf.~ IX, 91.
+
+	|38.  pinser~ = ^spinsero.~
+
+	|39.  conte~: For examples of the word meaning
+"appropriate," and therefore used in a sense different from that
+of ^Inf.~ III, 76, see E.G. Parodi (1957), p. 279.  See also M.
+Barbi (1934b), p. 206.
+
+	|41.  guardom mi~ = ^mi guard@o.~
+
+	|42.  Chi fuor li maggior tui?~ Since Farinata died just
+before Dante was born, he asks about the poet's ancestors -- whom
+he could have known.  Were they friends or foes of the
+Uberti?
+
+	|fuor~ = ^furono.~
+
+	|tui~ = ^tuoi~; see ^Inf.~ IX, 20, 24.
+
+	|44.  non gliel celai, ma tutto gliel' apersi~: In the
+emphatic redundancy of this affirmation and in the use of the
+word "tutto," Dante's pride in his ancestry is unmistakable.
+
+	|45.  ond' ei lev@o le ciglia un poco in suso~: Thereby
+showing even greater disdain.
+
+	|46.  furo~ = ^furono.    avversi~: Dante's ancestors were
+Guelphs.
+
+	|48.  due fiate~: The Guelphs were expelled from Florence
+for the first time in 1248 with the aid of the Emperor Frederick
+II, and again in 1260 following the battle of Montaperti.
+
+	|li dispersi~: The haughty leader of the Ghibellines makes the
+declaration in the first person as if, single-handed, he had driven
+from the city all the Guelphs, not Dante's ancestors alone.
+
+	|49.  fur~ = ^furono.~
+
+	|tornar~ = ^tornarono.~     
+
+	|d'ogne parte~: From the various places where they were living
+in exile.
+
+	|50.  l'una e l'altra fiata~: The Guelphs returned first
+in 1251, after the defeat of the Ghibellines at Figline (see
+Villani, VI, 38), and again in 1266, after the defeat and death
+of Manfred at Benevento (see Villani, VII, 9, 14-15; Dino
+Compagni, I, 3, n. 2).  The Ghibellines were not so "skilled";
+after they were expelled in 1267, they never returned to Florence
+as a party, and in the peace of 1280 the most powerful Ghibelline
+families, among them the Uberti, were excluded from the terms of
+the agreement.
+
+	|51.  i vostri~: The wayfarer addresses Farinata with the
+respectful ^voi.
+
+	|arte~: Clearly there is irony in the use of such a term in
+this context.
+
+	|52-54.  Allor surse...in ginocchie levata~: Cavalcante
+appears on his knees and is visible only down to the chin as he
+peers over the edge of the tomb beside the towering Farinata.
+The scene exemplifies a familiar mode of medieval art, in which
+greater physical size signifies greater moral stature.
+
+	|52.  la vista scoperchiata~: The uncovered opening of
+the tomb (all the lids are raised or laid back; see ^Inf.~ IX,
+121).  For "vista" in this meaning, see also ^Purg.~ X, 67.
+
+	|53.  un'ombra~: This unnamed shade is the spirit of
+Guido Cavalcanti's father, Cavalcante de' Cavalcanti, on whom
+Boccaccio comments: "Fu...leggiadro e ricco cavaliere, e segu@i
+l'opinion d'Epicuro in non credere che l'anima dopo la morte del
+corpo vivesse, e che il nostro sommo bene fosse ne' diletti
+carnali; e per questo, s@i come eretico, @e dannato."  ("He
+was...a graceful and wealthy knight.  He followed Epicurus in
+that he did not believe in the life of the soul after the death
+of the body, and in that he believed our highest good to consist
+in carnal pleasure.  For these beliefs, he is damned as a
+heretic.")  Benvenuto comments on the figure of Cavalcante as
+follows:
+
+     Iste omnino tenuit sectam epicureorum, semper credens, et
+     suadens aliis, quod anima simul moreretur cum corpore; unde
+     saepe habebat in ore istud dictum Salomonis: ^Unus est
+     interitus hominis et iumentorum~, ^et aequa utriusque
+     conditio....~Iste cum audisset autorem conferentem multa cum
+     Farinata de novitatibus Florentiae...surrexit statim
+     libenter ad videndum autorem, qui ita mordaciter tangebat
+     ghibelinos, quia ipse Cavalcante erat guelphus cum
+     suis....Et sic vide quod autor ponit duos epicureos simul de
+     parte contraria, unum ghibelinum, alterum guelphum.
+
+     In all matters, he agreed with the Epicureans.  He always
+     believed and tried to persuade others that the soul dies
+     simultaneously with the body.  Wherefore he so often cited
+     that saying of Solomon [Eccles. 3: 19]: "The lot of man and
+     beast is one, and their condition is the same."...When he
+     heard [Dante] discussing at length with Farinata the recent
+     events in Florence ...he quickly and eagerly got up to see
+     the author, who was just making a biting remark about the
+     Ghibellines.  Cavalcante himself was a Guelph, as was his
+     family....Observe, then, that the author places together two
+     Epicureans of opposite parties, one a Ghibelline, the other
+     a Guelph.
+
+	|55.  talento~: "Desire," as in ^Inf.~ V, 39.
+
+	|56.  altri~: The singular form, meaning "anyone."
+
+	|57.  sospecciar~: "Surmise," hopeful at first, then
+disappointed.
+
+	|58-59.  cieco carcere~: Hell might be so called by any
+of the damned, since they are forever imprisoned in its darkness.
+But when we learn (vss. 100--105) that these souls cannot see
+present things in the world above and that Cavalcante, therefore,
+cannot know that his son is alive, the phrase takes on special
+meaning.  See ^Aen.~ VI, 733-34: "Hinc metuunt cupiuntque, dolent
+gaudentque, neque auras / dispiciunt clausae tenebris et carcere
+caeco."  ("Hence their fears and desires, their griefs and joys;
+nor discern they the light, pent up in the gloom of their dark
+dungeon.")
+
+	|60.  mio figlio~: Guido Cavalcanti, famous Florentine
+poet, was born probably ^ca.~ 1255, but not later than 1259.  In
+1267, he was betrothed by his father to Beatrice degli Uberti,
+daughter of Farinata (see Villani, VII, 15).  His friendship with
+Dante dates from 1283; the ^Vita nuova~ (see III, 14) is
+dedicated to him as Dante's "first friend."  He was an ardent
+Guelph, and when the Guelph party in Florence split into Bianchi
+and Neri factions, headed by the Cerchi and the Donati
+respectively, Guido supported the Bianchi and distinguished
+himself by his violent opposition to the Donati.  There were
+continued hostilities between the two factions, and on June 24,
+1300, the priors of Florence decided to put an end to these
+disturbances.  The leading Neri were banished to Castel della
+Pieve in Perugia, and the leading Bianchi, including Guido, were
+exiled to Sarzana in Lunigiana.  Among those who approved this
+decision were Dante in his capacity as prior (June-August) and
+Dino Compagni, who, as he informs us in his ^Cronica~ (see I,
+21), belonged to the council: "I Signori, sdegnati, ebbono
+consiglio da pi@u cittadini, e io Dino fui uno di quelli."  ("The
+angered priors took counsel with many citizens, and I, Dino, was
+one of them.")
+
+	It thus came about that Dante was instrumental in sending
+his own friend into exile -- and to his death, as it proved, for
+though the exiles were soon recalled to Florence, Guido never
+recovered from the effects of the malarious climate of Sarzana.
+He died shortly after his return home, and was buried in the
+cemetery of the cathedral of Santa Reparata (which was replaced
+by Santa Maria del Fiore) on August 29, 1300, as is attested by
+an entry in the church ^Registro~, still preserved in Florence.
+Chronicling Guido's exile and death, Villani says (VIII, 42):
+
+     Questa parte vi stette meno a' confini che furono revocati
+     per lo infermo luogo, e tornonne malato Guido Cavalcanti,
+     onde mor@io, e di lui fu grande dammaggio perocch@e era come
+     filosofo, virtudioso uomo in pi@u cose, se non ch'era troppo
+     tenero e stizzoso.
+
+     This faction [the Bianchi] remained in exile a shorter time,
+     for when the location proved to be unhealthy, they were
+     recalled.  Guido Cavalcanti was ill when he returned, and
+     died soon afterward.  It was a great pity, for he was a
+     philosopher and an able man in many respects, though, to be
+     sure, much too sensitive and irritable.
+
+In the whole exchange here between Guido's father and the
+wayfaring Dante, there are distinct reminiscences of Aeneas'
+encounter with Andromache in ^Aen.~ III, 310-13 (italics added):
+
+     "verane te facies, verus mihi nuntius adfers,
+     nate dea? vivisne? ^aut si lux alma recessit~,
+     ^Hector ubi est?"~ dixit lacrimasque effudit et omnem
+     implevit clamore locum....
+
+     "Art thou a real form, a real messenger, coming to me,
+     goddess-born? Art living? or if kindly light has fled,
+     where is Hector?" She spake, and shedding a flood of
+     tears filled all the place with her cries.
+
+Also see ^Aen.~ VI, 339: "Quid puer Ascanius? ^superatne et~
+^vescitur aura?"~ ("What of the boy Ascanius? Lives he yet and
+feeds he on the air of heaven?")
+
+	|63.  cui~: Connects with "colui" of the preceding verse.
+"Colui" is to be understood as the first part of a compound
+relative pronoun; the second part, "cui," is the direct object of
+"ebbe a disdegno."
+
+	|Guido vostro~: The wayfarer addresses Cavalcante, as he does
+Farinata, with the respectful ^voi.~
+
+	|64.  Le sue parole~: His question about his
+son.
+
+	|'l modo de la pena~: Since Cavalcante was a notorious
+Epicurean.
+
+	|65.  m'avean...letto il nome~: Literally, "had read me
+his name," i.e., "had taught it to me," "had told me who he was."
+
+	|66.  per@o~ = ^per ci@o.~
+
+	|67.  Di s@ubito drizzato~: Since Cavalcante was on his
+knees at first, this can only mean that he has risen to his feet.
+
+	|67-68.  Come? dicesti "elli ebbe"?~ On the whole point
+here, hinging on the meaning of "ebbe," see C. S. Singleton
+(1962).  As to punctuation for the phrase, see M. Barbi (1924a),
+p. 101.
+
+	|69.  lo dolce lume~: H. Kuen (1940) has argued that
+Dante may have used the quite special form ^lome~ here instead of
+"lume" because in Guido Cavalcanti's famous poem, "Donna me
+prega," ^lome~ rhymes internally with ^come~ and ^nome --~ as it
+would here in Canto X.  See "Donna me prega" in E. Monaci (1955),
+p. 574, vss. 15-20:
+
+     In quella parte    dove sta memora
+     prende suo stato        s@i formato,    come
+     diafan da lome,     d'una scuritate,
+     la qual da Marte        vene, e fa demora.
+     Elli @e creato      ed ha sensato nome,
+     d'alma costome e de cor volontate.
+
+     In that part where memory resides it takes shape; just as
+     transparent things receive their form from light, so love is
+     formed by a dark ray that comes from Mars, and dwells there
+     (in the mind).  It is a created thing, and has sensibility,
+     a name, a spiritual habit, and strength of will.
+
+It should be noted that another editor -- see G. Contini (1960),
+vol. II, p. 525-- gives ^lume~ instead of ^lome~ in vs. 17 of
+Guido's poem.  Petrocchi, however, argues persuasively for the
+rhyme ^come/lume.~  Whatever reading is accepted, however, it is
+significant that in this very ^canzone~ Guido expresses his
+disdain of the supernatural.  On Guido's disdain, see C. S.
+Singleton (1962).
+
+	|72.  supin ricadde~: With the clear suggestion that the
+souls lie in the tombs, face up, like corpses.
+
+	|parve~ = ^apparve~ (^ricomparve~).
+
+	|fora~ = ^fuori.~
+
+	|73.  a cui posta~: "At whose request."
+
+	|74.  m'era~: A pleonastic reflexive; see n. to ^Inf.~
+VII, 94.
+
+	|76.  e s$e continuando~: The phrase has been punctuated
+variously by modern editors: ^e "Se" continuando~, and ^"E se,"
+continuando.~  But on the reading ^e s$e continuando~ as the most
+probable, see G. Vandelli, 1921b./ This touch vividly emphasizes
+the haughtiness of Farinata, who in no way stoops to the small
+talk between his tomb companion and the wayfarer -- even though
+Guido, on whom that "small talk" turns, was Farinata's own son-
+in-law.
+
+	|77.  quell' arte~: The "art" of returning from exile.
+In continuing his words, Farinata picks up the thrust of the
+wayfarer's "i vostri non appreser ben quell' arte" (vs. 51) and
+twice throws it back at him (vss. 77, 81).
+
+	|79-80.  Ma non cinquanta volte...qui regge~: Before
+fifty months have passed, Dante is to learn the difficulty of
+returning from exile.  E. Moore (1903, p. 372) -- assuming that in
+the fictional time of the poem the encounter with Farinata takes
+place on April 9, 1300-- points out that the forty-ninth new moon
+would fall about March 5, 1304, and the fiftieth about April 4,
+1304, and that precisely between these two dates (on March 10)
+began the unsuccessful mission of Cardinal Niccol@o da Prato, who
+was sent to Florence by Benedict XI to reconcile the Neri and the
+Bianchi and secure the recall of the Bianchi, including Dante,
+from exile.
+
+	|fia~ = ^sar@a.~
+
+	|80.  la donna che qui regge~: Hecate, also called
+Proserpina, goddess of the moon and queen of Hades.  See ^Inf.~
+IX, 44.
+
+	|82.  se tu mai nel dolce mondo regge~: This formula of
+entreaty will be used frequently in the poem.  The speaker
+entreats the person addressed by something most dear to him (such
+as the wayfarer's presumed hope to return to the world above) to
+say or to do something.  The clause with ^se~ always takes the
+subjunctive in such a construction.
+
+	|mai~: "As you hope ever to return."
+
+	|regge~: Present subjunctive of ^redire (riedere~), from the
+Latin ^redeo~ (here, from ^redeas~); see E. G. Parodi (1957), p. 257.
+
+	|83.  quel popolo~: The Florentines.
+
+	|83-84.  s@i empio incontr' a' miei in ciascuna sua
+legge~: Each time exiled Ghibellines were allowed to return to
+Florence, the Uberti were excluded, denounced as enemies of the
+state, and sentenced to decapitation if captured.
+
+	|86.  l'Arbia~: A small stream which rises a few miles
+south of Siena and flows into the Ombrone at Buonconvento.  On
+its left bank is the hill of Montaperti, where the Ghibellines
+overwhelmingly defeated the Florentine Guelphs in 1260.
+
+	|87.  tal orazion fa far nel nostro tempio~: M. Barbi
+(1924a, p. 104) has pointed out that this is a purely figurative
+expression, in which "far orazion" requires the complementary
+"nel nostro tempio" for a unified image.  Barbi says that the
+verse simply means: "causes Florence to take these measures."
+
+	|89.  A ci@o~ = ^a far ci@o~, i.e., to take part in the
+battle of Montaperti.
+
+	|90.  sanza cagion~: His motive was to return to Florence
+from exile once the Florentine Guelphs could be defeated.
+
+	|con li altri~: With the other Ghibellines.
+
+	|sarei mosso~: "Would I have taken part," "would I have joined
+in the battle."
+
+	|91-93.  Ma fu' io solo, l@a dove...a viso aperto~: At
+the council of Empoli (see n. to vs. 32).
+
+	|92.  per~ = ^da.~
+
+	|94.  Deh, se riposi mai~: Again, as in vs. 82, the
+formula of entreaty or adjuration.
+
+	|95.  quel nodo~: The wayfarer's perplexity, as stated in
+the verses that immediately follow.
+
+	|97.  El~ = ^egli~, "it."
+
+	|El par che voi veggiate~: The "voi" refers to the damned of
+Hell, as does the "noi" (vs. 100) of the reply.  Since both Farinata
+(vss. 79-81) and Ciacco (see ^Inf.~ VI, 64-72) have predicted events to
+come, the wayfarer has good reason to believe that souls in Hell can
+see the future.
+
+	|98.  dinanzi~: "Ahead."
+
+	|quel che 'l tempo seco adduce~: Future things, which time is
+yet to bring with it -- as if time were a river.
+
+	|99.  e nel presente tenete altro modo~: "And yet, with
+respect to the present, you follow another way," i.e., "you have
+no knowledge of present things" -- for example, Guido's father does
+not know that his son is still living.
+
+	|100-105.  Noi veggiam...stato umano~: Although Ciacco
+(^Inf.~ VI, 73) had some knowledge of present things, Farinata's
+statement that "unless another bring report to us, we know
+nothing of your human state" appears nevertheless to apply to all
+the damned of Hell.  They can see dimly into the future and can
+therefore prophesy future events.
+
+	The question ^De cognitione animae separatae~ had enjoyed
+a long tradition in theological speculation by Dante's time, as
+is amply reflected in Thomas Aquinas' ^Summa theol.~ 1, q. 89,
+which bears precisely this heading.  For a searching review of
+the question in its main doctrinal aspects, see E.G. Parodi
+(1912); Parodi demonstrates here that the poet adapted to his
+needs a tradition that was vague enough to allow such liberty.
+Thus, as doctrinal background for the statement "e s'altri non ci
+apporta, / nulla sapem di vostro stato umano," one may compare
+Aquinas' statement (^Summa theol.~ I, q. 89, a. 8, ad 1) that
+"separated" souls "possunt etiam facta viventium non per seipsos
+cognoscere, sed vel per animas eorum qui hinc ad eos accedunt."
+("Moreover, the affairs of the living can be made known to
+[separated souls] not immediately, but [by] souls who pass hence
+[thither].")
+
+	|100.  come quei c'ha mala luce~: Literally, "as one who
+has poor light," hence "dimly."  Their light, which is said to
+come from God, is "poor" only in the sense of being insufficient.
+
+	|101.  ne~ = ^ci~, as again in the following verse.
+
+	|102.  cotanto ancor ne splende il sommo Muce~: As E. G.
+Parodi (1912, p.178) has pointed out, the damned see not by the
+right of grace but by natural light, a possibility allowed by
+Thomas Aquinas (^Summa theol.~ I, q. 89, a. 1 ad 3): "Nec tamen
+propter hoc cognitio vel potentia non est naturalis: quia Deus
+est auctor non solum influentiae gratuiti luminis, sed etiam
+naturalis."  ("Nor is this way of knowledge unnatural, for God is
+the author of the influx both of the light of grace and of the
+light of nature.")
+
+	|il sommo duce~: God, who sees past, present, and future things
+simultaneously.  He is never named in Hell -- except in blasphemy.
+
+	|103.  Quando s'appressano~: "When they draw near," but
+we are not told exactly how near.  Cavalcante, for example,
+cannot foresee the death of his son Guido, which took place in
+August 1300, about five months after the fictional date of this
+encounter.
+
+	|104.  s'altri non ci apporta~: Some soul ("altri" is
+singular) coming from the world of the living."News" or "report"
+is understood as the object of "apporta."
+
+	|105.  sapem~ = ^sappiamo.~
+
+	|106.  Per@o~ = ^per ci@o.~
+
+	|107.  fia~ = ^sar@a~, as again in the following verse.
+
+	|108.  del futuro fia chiusa la porta~: Time itself will
+end at the Last Judgment; there will be no future after that.
+
+	|111.  'l suo nato~: His "offspring."
+
+	|113.  fate i~ = ^fategli.~  For "i" as a dative form, see
+^Inf.~ II, 17.
+
+	|fei~: Replaces the verbal ^fui muto.~
+
+	|113-114.  pensava gi@a ne l'error~: This perplexity,
+which was called a "nodo" in vs. 95, is now called an "error,"
+since when the wayfarer spoke with the soul of Cavalcante he
+assumed (mistakenly, as he now knows) that souls in Hell see
+present things.
+
+	|116.  avaccio~: This obsolete adjective (derived from
+the Latin ^vivacius~) is used here as an adverb modifying
+"dicesse" in vs. 117.
+
+	|117.  chi con lu' istava~: The wayfarer asks Farinata
+who is with him there in this part of the cemetery where the
+Epicureans have their tombs (cf."da questa parte" in vs.  13).
+Thus, in Farinata's reply, "Qui" (vs. 118) and "qua dentro" (vs.
+119) have the same meaning.
+
+	|119.  il secondo Federico~: The Emperor Frederick II,
+grandson of Frederick Barbarossa, son of Henry VI and Constance
+of Sicily, was known to his contemporaries as Stupor Mundi, "the
+wonder of the world."  Born in 1194, he was head of the Holy
+Roman Empire from 1215 until his death in 1250.  In placing
+Frederick among the Epicurean heretics, Dante followed the
+contemporary estimate.  Salimbene da Parma, thirteenth-century
+chronicler, says (vol. I, p. 510): "Erat enim Epycurus, et ideo
+quicquid poterat invenire in divina Scriptura per se et per
+sapientes suos, quod faceret ad ostendendum quod non esset alia
+vita post mortem, totum inveniebat." ("He was an Epicurean, and
+therefore he and his scholars tried to find anything they could
+in Divine Scripture which might serve to show that there is no
+life after death.")
+
+	A ^sirventes~ composed by Ugo di Sain Circ reveals a
+similar view of Frederick (see in N. Zingarelli, 1886, p. 250):
+"Ni vida apres mort ni paradis non cre: / E dis c'om es nienz
+despueis que pert l'ale." ("He believed neither in life after
+death nor in paradise, and he said that a man is nothing after he
+draws his last breath.")
+
+	|120.  'l Cardinale~: This is Cardinal Ottaviano degli
+Ubaldini, known to his contemporaries antonomastically as "the
+Cardinal."  In the words of the ^Anonimo fiorentino~: "Per@o che
+questo cardinale Ottaviano fu il maggiore di veruno altro
+cardinale a quel tempo, per eccellenzia, dicendo il Cardinale,
+s'intendea di Ottaviano."  ("Since Ottaviano was by far the
+greatest cardinal of his time, to say 'the Cardinal' sufficed to
+signify Ottaviano.")  He had been made bishop of Bologna in 1240,
+when he was under thirty, by special dispensation of Pope Gregory
+IX, and in 1244 was created cardinal by Innocent IV.  Ottaviano,
+who died in 1273, was a brother of Ubaldino della Pila (^Purg.~
+XXIV, 29) and an uncle of Archbishop Ruggieri (^Inf.~ XXXIII,
+14).  Benvenuto describes the Cardinal as a devoted Ghibelline,
+and credits him (as do Lana and others) with saying he had "lost
+his soul a thousand times" for that cause.  Benvenuto comments on
+him as follows:
+
+     Erat multum honoratus et formidatus; ideo, quando dicebatur
+     tunc: Cardinalis dixit sic; Cardinalis fecit sic;
+     intelligebatur de cardinali Octaviano de Ubaldinis per
+     excellentiam.  Fuit tamen epicureus ex gestis et verbis
+     eius; nam cum semel petiisset a ghibelinis Tusciae certam
+     pecuniae quantitatem pro uno facto, et non obtinuisset,
+     prorupit indignanter et irate in hanc vocem: si anima est,
+     ego perdidi ipsam millies pro ghibelinis.
+
+     He was greatly respected and feared.  In those days when
+     people said, "The Cardinal said this, the Cardinal did
+     that," it was understood they were talking about Cardinal
+     Ottaviano degli Ubaldini.  Still, he was an Epicurean in
+     word and deed.  Once, when he asked the Tuscan Ghibellines
+     for a certain sum of money he needed for something, and did
+     not obtain it, he burst into these indignant and angry
+     words: "If there be a soul, I have lost it a thousand times
+     for the Ghibellines."
+
+In the ^Cronica~ of Salimbene, who was personally acquainted with
+the Cardinal, appears the following na,ive account (vol. II, pp.
+30--32):
+
+     Missus fuit in Lombardiam legatus domnus Octavianus diaconus
+     cardinalis.  Hic fuit pulcher homo et nobilis, scilicet de
+     filiis Ubaldini de Musello in episcopatu Florentino.  Multum
+     reputatus fuit ex parte imperii, sed propter honorem suum
+     interdum faciebat aliqua ad utilitatem Ecclesie, sciens quia
+     propter hoc missus fuerat....Cum autem redii in Lombardiam,
+     et post plures annos domnus Octavianus adhuc legatus esset
+     Bononie pluribus vicibus comedi cum eo; et locabat me semper
+     in capite mense sue, ita quod inter me et ipsum non erat
+     nisi socius frater, et ipse tertium locum mense habebat a
+     capite.  Tunc faciebam quod sapiens in Proverbiis docet
+     XXIII ^Quando sederis, ut comedas cum principe, diligenter
+     attende que posita sunt ante faciem tuam et statue cultrum
+     in gutture tuo.~  Et hoc fieri oportebat, quoniam tota sala
+     palatii discumbentibus erat plena.  Verumtamen abundanter et
+     decenter comestibilia habebamus, et ^vinum abundans et
+     precipuum ponebatur~, et omnia delicata.  Tunc cepi
+     cardinalem diligere.
+
+     Lord Ottaviano, the Cardinal, was sent as papal legate to
+     Lombardy.  He was a handsome, noble man, a son of the
+     Ubaldini of Mugello in the diocese of Florence.  The
+     imperial party set great store by him, even though on
+     occasion his honor forced him to act in the best interests
+     of the church, since he knew that that was the purpose of
+     his mission....And when I returned to Lombardy, after
+     several years, and Lord Ottaviano was still legate in
+     Bologna, I dined with him several times.  He always placed
+     me at the head of the table, so that between him and me
+     there was no one but his brother.  He himself took the third
+     place from the head of the table.  Then, I would do what the
+     wise man in Proverbs counsels [Prov. 23:1-2]: "When you sit
+     down to dine with a ruler, keep in mind who is before you,
+     and put a knife to your throat."  And that was sound advice,
+     for the whole hall of the palace was full of reclining
+     diners.  And indeed, there was good food in abundance, and
+     [Esther 1:7] "wine in abundance and of the best was served,"
+     as well as many other delicacies.  I began then to like the
+     Cardinal.
+
+	|123.  nemico~: "Inimical" or "hostile" because
+Farinata's words contain a prophecy of exile, not because
+Farinata himself is hostile.
+
+	|126.  li~ = ^gli.~  See vs. 6 for the same construction.
+
+	|129.  e drizz@o 'l dito~: The familiar gesture of
+emphasis.
+
+	|131.  quella il cui bell' occhio tutto vede~: Beatrice,
+who sees all things in God; not so Virgil, who sees solely by the
+natural light.
+
+	|133.  mosse a man sinistra il piede~: They thus resume
+the normal directions of turns in Hell (see n. to ^Inf.~ IX,
+132), proceeding now toward the center of this circle and the way
+down to the next.
+
+	|135.  a una valle fiede~: So far there has been no steep
+descent in Hell; but now the wayfarers come to a cliff that drops
+sharply to a valley, the seventh circle.
+

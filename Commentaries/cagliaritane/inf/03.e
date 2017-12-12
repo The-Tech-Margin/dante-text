@@ -1,0 +1,3 @@
+	|124.~  E pronti sono al trapass[ar]e del rio come la divina giustizia 
+li sprona che non puono fare altro che ubedirla.
+

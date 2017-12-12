@@ -1,0 +1,1565 @@
+	|Proemio.~  ^Vigesimisexti cantus titulus talis est:~
+^Incipit XXVI' cantus prime cantice Comedie.~
+
+	In isto XXVI+o~ cantu et in sequenti autor tractat de
+octava malabulgia, in qua collocat fraudulentos consiliarios et
+dolosos loquaces necnon et oratores etiam versipelles; pena
+quorum est quod in flammis ardentibus sunt reclusi.  Incipit
+autem octava bulgia in isto cantu ibi: <Noi ci partimo, et su per
+le scalee>, et finit in sequenti cantu, ibi:
+
+     Noi passam'oltre, et io e 'l duca mio
+     su per lo scoglio, infino 'n su l'altr'arco
+
+                        (^Inf.~ XXVII. 133-134)
+
+	In isto XXVI+o~ cantu continetur unum vaticinium {*vv.
+7-9*}, quatuor comparationes {vv. 7-9; 34-39; 52-54; 85-87*}, et
+totidem notabilia {*vv. 18; 48; 70-71; 118-120*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Postquam autor in duobus precedentibus cantibus de fraude
+et dolo furium, ac etiam de eorum transformationibus prosecutus
+est, nunc in isto cantu et in sequenti de fraudulentis
+consiliariis et dolosis loquacibus ac etiam oratoribus
+versipellibus prosequitur in hunc modum, presentia cum
+precedentibus concordando: <Letare>, inquit, <Florentia, postquam
+es ita grandis quod per terras et maria pandis alas, et per
+infernum tui nominis titulus dilatatur.  Inter latrones enim
+inveni quinque tales tuos cives quod inde in mente confundor et
+in facie verecundor, et tu in honorem maximum non ascendis.  Sed
+si prope auroram vera somnia somniantur, tu senties citra modicum
+tempus id quod Pratum, nedum alii, tibi optant.  Et si iam esset
+ipsorum optatum desiderium adimpletum, non esset nimium
+tempestivum; quod utinam iam adesset, ex quo omnino sine dubio
+esse debet, quia quanto magis senuero, tanto magis inde
+gravabor>.  Facta ista exclamatione contra suam civitatem,
+yronice iste autor ad nos dirigit verba sua, sic dicens: Nos inde
+recessimus -- subaudi a septima malabulgia -- et per illas scalas
+quas nobis fecerant vestigia nostra prius reascendit magister
+meus, me -- subaudi debilem -- post se trahens.  Et sic viam
+solitariam prosequendo inter acutas silices et frusta scopoli pes
+sine manu non poterat expediri.  Tunc dolui, et nunc similiter
+dolore constringor, quando dirigo mentem ad id quod vidi, et
+magis ingenium nunc refreno quam sim solitus refrenare, ad hoc ut
+non currat sine ducatu virtutis; ita quod si aliqua bona stella
+seu res melior tribuit michi bonum quod ego more invidi illud
+datum bonum non auferam michi ipsi.  Quare autem ista premiserit,
+{^Br.~ premissit} subiungendo declarat dicens quod quemadmodum
+rusticus, quando diebus estivis in quibus sol, qui mundum
+clarificat sua luce, minus absconsam suam faciem nobis tenet, in
+aliquo podio requiescens, videt in vallibus, ubi forte areas et
+torcularia sua habet noctilucas infinitas; illo dum taxat,
+tempore quo culici musca cedit, ita tot flammis octava bulgia
+resplendebat, sicut perpendi statim quod fui in illa parte unde
+fundus -- subaudi istius bulgie -- videbatur.  Et sicut ille qui
+se vindicavit cum ursis, videns currum Elye, quando equi se ipsos
+ad celum fortiter erexerunt, ipsum non poterat oculis tantum
+sequi quod videret aliud quam solam flammam, tanquam nubeculam
+ascendentem; tali re vera modo quelibet anima movet per istam
+bulgiam se metipsam, quia nulla monstrat furtum, et quelibet
+flamma unum in se continet peccatorem.  Ego autem stabam supra
+pontem ad videndum totus inferius reclinatus, intantum quod si
+ego unum cespitem vel scopulum non cepissem, cecidissem inferius,
+sine spe aliqua inde protinus exeundi.  Tunc dux meus qui me
+vidit in tanta mentis solicitudine sic intentum, ait: <Infra
+ignes quos cernis spiritus sunt absconsi; quilibet enim illo se
+igne circumdat, quo ut conspicis est incensus>.  Ad quem ego:
+<Magister, audita tua responsione, sum ego magis certificatus;
+sed iam michi videbatur quod ita esset, et tibi dicere iam
+volebam.  Quis est in illo igne qui venit in suo cacumine sic
+divisus, quod videtur surgere de pira in qua Ethyocles cum suo
+germano -- subaudi Polinice -- fuit missus?>  Et ille michi:
+<Interius>, inquit, <ibi Ulixes et Dyomedes puniuntur, et ita
+vadunt insimul ad vindictam, idest ad penam, sicut ad culpam
+soliti erant ire.  Et intra ipsorum flammam planguntur insidie
+illius, scilicet equi, qui fecit portam unde exivit semen nobile
+Romanorum.  Ploratur etiam ibi intus causa propter quam Deydamia
+adhuc condolet de Acchille, et de Palladio pena ibi etiam
+irrogatur>.  Ad quem ego: <Magister, si infra illas scintillas
+isti spiritus valent loqui, te rogo et iterum rogo ut istud unum
+meum rogamen a te pro mille rogaminibus acceptetur, ut non facias
+isto desiderio me privatum, quousque flamma veniat huc cornuta;
+vides enim quod versus eam ex magno desiderio me inclino>.  Et
+ille michi: <Tua precamina multa laude sunt digna.  Idcirco ipsa
+accepto, sed facias quod lingua tua aliquantulum requiescat. 
+Permitte nanque me loqui, quia iam habeo in mente conceptum
+quicquid tu vis, quia forte de tua loquela dedignarentur, eo quod
+Greci fuerunt>.
+
+	Postquam autem flamma illa cornuta ad ipsos applicuit,
+dicit autor quod Virgilius, captato loco et tempore, in ista
+forma ad illos sua verba direxit: <O vos qui estis in uno igne:
+si ego de vobis merui quando vixi, si de vobis dico merui modicum
+sive satis, quando in mundo alta carmina fabricavi, non vos
+moveatis, sed unus ex vobis dicat quo ad moriendum per ipsum
+perditum itum fuit>.  Tunc maius cornu illius antique flamme cepit
+se ipsam murmurando movere; illo namque dico murmure, quo flamma
+ignis fatigatur a vento.  Indeque hac et illac ducendo cachumen,
+sicut esset lingua que loqueretur, iecit vocem foras et ait:
+<Quando ego recessi a Circe, que me uno anno et plus detinuit
+violenter, ibi prope Caetam, prius quam sic Eneas nominasset
+eandem, nec dulcedo filii, nec pietas senis patris, nec debitus
+amor qui Penolopen letificare debebat, vincere potuerunt ardorem
+quem habui maxime circa tria, videlicet circa mundum, circa
+vitia, circaque virtutes, ut ex hiis tribus certam experientiam
+reportarem; sed alto maris pelago me committens, solum cum uno
+navigio et cum illa societate modica a qua nunquam extiti
+derelictus, utrumque litus usque in Ispaniam et usque in Morrocco
+et insulam Sardorum ac etiam usque alias insulas quas illud mare
+in circuitu circundat aspexi.  Ego autem et socii mei eramus
+veteres atque tardi quando venimus ad illas fauces strictas ubi
+Hercules posuit sua signa, ad hoc ne aliquis ulterius se
+immittat.  Et ibi a manu dextera dimisi Sobiliam, a sinistra vero
+iam dimiseram Sectam.  Et tunc sociis loquens dixi: <O fratres,
+qui per centum milia pericula applicuistis ad occidentem, nolite
+vestrorum sensuum isti tam modice vigilie que est de remanentibus
+experientiam denegare, post solem mundi sine gente.  Considerate
+id quod in vobis extitit seminatum.  Non enim facti estis veluti
+bruta animalia ad vivendum, sed ut sequamini intelligentiam et
+virtutes>.  Cum ista itaque modica oratione sic meos comites acui
+ad eundum, quod non sine difficultate ipsos postea tenuissem.  Et
+volventes matutino tempore nostram proram, de remis
+fecimus alas volatui temerario, semper sinistro lateri
+applicando, et tantum tenuimus a sinistris litora relinquentes et
+nos alto pelago committentes, quod de nocte videbamus illas
+stellas que alterum polum undique circumcingunt.  Tantumque illud
+mare meridianum sulcavimus quod lunam vidimus extinctam suo
+lumine quinquies et accensam.  Et tunc apparuit nobis una montana,
+que nigra propter sui distantiam videbatur, et visa est michi
+altitudinis tante fore quante meis temporibus aliquam aliam
+unquam vidi.  Quam videntes, fuimus de nostra visione letati.  Sed
+tam cito ipsa letitia fuit in merorem et tristitiam commutata,
+quia de nova terra unus turbo exivit, qui in parte anteriori
+percutiens nostrum lignum, ipsum tribus vicibus cum vertigine
+giravit aquarum, et quarta vice ipsum in circuitu sic girando,
+puppim sullevando et proram inclinando, aquarum fuit voragine
+deglutitum.  Ideo ait in textu:
+
+     <Tre volte 'l f@e girar con tutte l'acque;
+     a la quarta levar la poppa in suso,
+     et la prora ire in gi@u, com'altrui piaque,
+     infin che 'l mar fu sovra noi richiuso>.
+
+                        (^Inf.~ XXVI. 139-142)
+
+	|1-3.~  Videns autor in septima malabulgia in qua de
+latronum nequitia pertractatur tot nobiles Florentinos qui suam
+nobilitatem furti macula macularunt, exclamavit tamen yronice
+contra patriam suam, dicens: <Letare, Florentia, postquam es ita
+grandis, quod per terras et maria tuas alas expandis, et etiam
+per infernum tui nominis titulus et gloria dilatatur>.  Quasi
+dicat: Tu, tuis vitiis et corruptionibus terras et maria inficis
+et corrumpis.  Quod autem sit vera ista poetica exclamatio seu
+iusta verius exprobatio, manifeste facti evidentia comprobatur. 
+Ipsi nanque Florentini omnes artes, omnes mercantias, omnes
+monetas, et quod peius est, omnes bonos mores, ubicunque habitant
+per universum orbem falsificant, destruunt, et corrumpunt.  Sed
+quia pena ordinatur ad culpam, ideo consequenter dicit quod per
+infernum nomen Florentie dilatatur.  Hoc est: universus et totus
+infernus Florentinis noscitur esse plenus.  Quod sic in ista
+comedia probatur: In tertio nanque circulo inferni, ut habetur
+superius VI cantu, ubi de gulosis tractat, est unus Florentinus
+nomine vere Ciaccus, qui in lingua tusca resonat <sus> vel
+<porcus>.  In V vero circulo, ut habetur superius octavo cantu,
+invenit autor inter superbos, invidos, accidiosos, et iracundos,
+dominum Phylippum Argenti de Adimaribus de Florentia.  In VI
+autem circulo, ut in X cantu superius continetur, invenit inter
+hereticos unum cardinalem et duos milites Florentinos, videlicet
+dominum Attavianum de Ubaldinis sancte Marie in via lata,
+diaconum cardinalem, dominum Farinatam de Ubertis, et dominum
+Cavalcantem de Cavalcantibus.  In VII vero circulo, girone
+secundo, ubi sunt desperati, invenit unum Florentinum de Mozzis,
+nomine Rucco, qui sibi ipsi de propiis domibus fecit furcas, ut
+habetur supra cantu XIII.  In septimo etiam circulo, girone
+tertio, inter sodomitas, invenit istos similiter Florentinos: Ser
+Brunettum, scilicet olim in philosophia magistrum suum, dominum
+Andream de Mozzis, episcopum Florentinum, ut habetur supra cantu
+XV+o~ et Guidonem Guerra, comitem in Tuscia palatinum, una cum
+domino Teghiaio Aldobrandi de Adimaribus, et domino Iacopo
+Rusticuccii, ut habetur superius cantu XVI.  In septimo etiam
+circulo, girone tertio, inter usurarios invenit istos
+Florentinos: dominum Catellum, militem de Gianfigliazzis;
+dominum... {both ^Mss.~ leave a blank at this point} de
+Ubriachis; et isti expectabant dominum Iohannem Buiamontis,
+egregium militem florentinum, ut habetur superius cantu XVII.  In
+octavo vero circulo, septima malabulgia, invenit inter fures et
+latrones quinque milites florentinos, videlicet dominum Cianfa
+{^Br.~ Cianfam} de Donatis, dominum Angelum de Brunelleschis,
+dominum Buosum de Abbatibus, dominum Puccium Sciancatum, et
+dominum Franciscum de Cavalcantibus.  In octavo etiam circulo,
+malabulgia vero nona, invenit inter scismaticos unum nobilem
+Florentinum de Lambertis, qui vocatus fuit Mosca Lamberti, ut
+habetur infra cantu [X]XVIII, et unum suum consortem, ipsius dico
+autoris, qui vocatus fuit Geri del Bello, ut habetur infra cantu
+scilicet [XXVIIII]M+.  In octavo etiam circulo, malabulgia vero
+decima, inter falsatores invenit duos Florentinos maximos
+falsarios, videlicet Gianni Schicchi de Cavalcantibus, ut habetur
+infra cantu XXX, et magistrum Adamum, qui ad petitionem comitis
+Guidonis et sui fratris comitis Aghinolfi, falsificavit florenos
+aureos in Romena.  In nono vero et ultimo circulo inferni, ubi
+sunt proditores, parte prima Cociti, que dicitur Caina, invenit
+duos Florentinos, Sassolum scilicet de Toschis et Ubertum dictum
+Camiscione de Pazzis, de valle Arni, qui expectabant Carlinum,
+qui erat etiam de Pazzis de valle Arni.  In isto etiam ultimo
+circulo, parte vero secunda Cociti, que dicitur Antenora, invenit
+duos milites florentinos, scilicet dominum Bocca de Abbatibus et
+dominum Iohannem de Soldaneriis et dominum Rogerium de Ubaldinis,
+archiepiscopum pisanum.  Et sic merito habetur in textu: |et per
+lo 'nferno 'l tu' nome si spande.~
+
+	|7-9.~  Postquam autor sue civitati suisque civibus
+exprobavit, ponit sub nomine visionis ipsi civitati futura
+pericula imminere. 
+
+	Propter superbiam enim et arrogantiam Florentinorum,
+omnes nationes in circuitu habitantes Florentie ipsos odiunt et
+ipsorum destructionem affectant.  Sed circa istam particulam tria
+breviter sunt videnda: primum, si est verum quod in aurora vera
+somnia somnientur; secundum, si vere evenit civitati Florentie
+istud vaticinium quod hic ponitur sub nomine visionis; tertium,
+quare in desiderio destructionis Florentie ponitur singulariter
+Pratum, cum omnes alie gentes in circuitu habitantes ipsi
+civitati Florentie uniformiter id affectant.  Circa primum est
+sciendum quod, licet somnia pro maiori parte sint vana et falsa,
+que Macrobius ^Super Somnio Scipionis~ cum sunt falsa insomnia
+vocat, iuxta illud Virgilii [VI] libro ^Eneydorum~:
+
+     <sed falsa ad celum mittunt insomnia manes>,
+
+                        {^Aeneid~ VI. 896}
+
+et pro maiori parte decipiant somniantem.  Unde monet poeta:
+Somnia ne cures, quia solent ledere plures.  Tamen illa somnia
+que matutinali tempore, idest in aurora, videntur, veritatem
+continere dicuntur, quia illo tempore, cibo et potu digesto,
+anima corporis gravedine non gravatur.  Unde Ovidius in libro
+Heroum ait:
+
+     Nanque sub aurora iam dormitante Lucerna
+     Somnia quo cerni tempore vera solent.
+
+                        {^Heroides~ XIX. 195-196 (^adapted~)}
+
+	Somnia vero que ante auroram videntur, quia corpus est
+cibo vel potu gravatum, aut animus vadens cubitum erat aliqua
+gravi cogitatione oppressus, non vera pro maiori parte sed falsa
+et vana esse probantur, ut vult Macrobius super eodem ^Somnio
+Scipionis.~  Et ad hoc potest referri quod matutinum tempus quod
+in Sacra Scriptura dicitur antelucanum, vel quarta vigilia
+noctis, est dedicatum visioni et liberationi ac etiam
+consolationi sanctorum, unde Exodi XIIII: In vigilia matutina
+respiciens Dominus super castra Egyptiorum, interfecit exercitum
+eorum et subvertit rotas curruum, ferebanturque in profundum
+{^Exodus~ 14.24}.  Item in primo libro Regum, XI capitulo: Saul
+percussit Amon in vigilia matutina {I ^Regum~ 11.11 (^adapted~)}. 
+Item in Evangelio Mathei, VI capitulo {^Mattheus~ 14.25},
+continetur quod dum navis apostolica multa pericula passa fuerit
+tota nocte, circa quartam vigiliam noctis, idest prope auroram,
+venit Iesus ad Apostolos ambulans supra mare et confortans
+discipulos pepulit tempestatem.  Circa secundum vero est sciendum
+quod civitas florentina, non post multum tempus ab ista
+imprecatione autoris passa est civiles discordias; unde secute
+fuerunt {^Br.~ sunt} ipsis Florentinis incendia, exilia, et
+conflictus.  Circa tertium vero est sciendum quod terra Prati
+semper fuit a Florentinis sicut a matre filia pertractata; nam
+sicut filia parvula sine matre esse vel vivere non valeret, ita
+Pratenses sine Florentinorum auxilio, subsidio, et favore vivere,
+vel ab imminentibus undique periculis evadere, nunquam possent. 
+Et tamen tanta est nequitia florentina quod non solum ipsius
+deiectionem alie optant gentes, sed etiam ipsum Pratum.  Ideo
+ait: |di quel che Prato, non c'altri, t'agogna~, idest desiderat,
+sive optat.
+
+	^VATICINUM.~  Pratum est quoddam nobile castrum prope
+Florentiam ad X miliaria.  Cetera sunt exposita superius.
+
+	^PRIMA COMPARATIO.~  Iste comparatio est superius
+explanata.
+
+	|10-12.  Et se gi@a fosse, non saria per tempo.~  Quasi
+dicat: Tantum invalescit Florentinorum nequitia, quod si iam
+puniretur, non esset nimium tempestive.  Quod utinam iam istud
+tempestivum adesset, ex quo quin omnino eveniat cessare non
+potest.  Et hoc quare vellem?  Non utique ex odio vel vindicta,
+sed quia quanto plus ista sententia differetur, tanto plus
+efficiar senex; et quanto plus senuero tanto plus cognoscam; et
+quanto plus cognovero tanto plus ex inde contristabor.
+
+	|13-17.~  Lictera plana est.
+
+	|18.  lo pi@e sanza la man non si spedia.~  PRIMUM
+NOTABILE.~  Istud notabile potest exponi licteraliter et
+moraliter.  Licteraliter sic: Quia unum membrum servit alteri, ut
+patet quia manus lavat oculos, et oculi dirigunt opera manuum, et
+pedes sustentant et portant caput, et caput dat motum et sensum
+pedibus; ideo unum membrum sine alio bene esse non potest.  Et
+hinc est quod, infirmato uno membro, cetera sibi membra
+compatiuntur.  Unde videmus quod si pes fortiter impingat in
+petram, quod cor dolet, lingua clamat, manus succurrit, et oculi
+lacrimantur.  Moraliter vero, per pedem accipimus affectum, per
+manus autem effectum.  Nam affectus, sive amor, est pes anime,
+quia sicut corpus movetur sive ambulat pede, ita anima movetur
+amore.
+
+	Unde infra in se{*c*}unda cantica cantu [XVIII]: ^se
+l'anima non va con altro piede.~  Effectus vero, sive operatio,
+sunt manus anime, quia quemadmodum corpus cum manibus, ita anima
+cum affectibus operatur.  Vult itaque dicere hic autor quod in
+arduis factis, sicut sunt virtutes, pes, idest bonus affectus,
+expediri non potest sine manu, idest sine effectu, quia nichil
+iuvat compati afflicto nisi quis subveniat sue miserie si
+possibilitas assit.  Si autem possibilitas absit, tunc sufficit
+bona voluntas. Unde beatus Gregorius: <Ante Dei oculos nunquam
+est vacua manus a munere si archa cordis plena est bona
+voluntate>.  Sed adhuc te volo scire quod differentia magna est
+inter bonum affectum sine operatione et malum affectum sine
+operatione.  Nam, sicut dicunt theologi, bonus affectus, sive
+bona voluntas, non salvat hominem sine bona operatione, dum modo
+possibilitas assit.  Unde Apostolus dicit quod fides sine
+operibus mortua est {^Ep. Cath. Beati Iacobi~ 2.26}; malus autem
+affectus, sive mala voluntas, damnat hominem, etiam sine mala
+operatione.  Et ideo in lege mosaica prohibuit Deus non solum
+malam operationem dicendo: <Non furtum facies>, sed etiam malam
+voluntatem, dicendo: <Non concupisces rem proximi tui> {^Exodus~
+20.15 and 17}.
+
+	|19-20.~  Tractaturus autor de dolosis actibus qui ab
+ingeniis subtilibus oriuntur, propter que ipsorum autores tam
+atroci tormento in ista octava bulgia puniuntur, sibi et ipsis
+condolet admirando: ipsis quia consideravit et vidit quod tam
+magni principes et famosi, sicut fuerunt Ulixes et Dyomedes et
+Guido comes de Montefeltro, propter subtilia ipsorum ingenia in
+dolosos actus et dolosa consilia inciderunt: sibi vero, quia
+formidavit ne suum ingenium, quod erat inter mortales tam
+splendidum et subtile, ad omnia humana et divina opera
+investiganda, ac etiam exercenda, in similia laberetur.  
+
+	|21-24.~  Quasi dicat: Considerata pena istorum, pavore
+perterritus, magis refreno meum ingenium quam sim solitus
+refrenare; et quod sit illud frenum quo debeat ingenium refrenari
+declarat cum ait: <perch@e non corra, che virt@u nol guidi>.  Quasi
+dicat: Virtus est frenum quo debet ingenium regi, duci, ac etiam
+refrenari; et hoc ne, sicut equus lascivus sine sessore et freno,
+in precipitium dilabatur.  Nam sine virtute, que secundum
+Ysidorum est animi habitus nature, decus vite, ratio morum,
+pietas, cultus divinitatis, honor hominis, et eterne beatitudinis
+meritum, cuius sunt partes quatuor principales, que secundum
+eundem Ysidorum signantur per quatuor flumina paradisi: prudentia
+scilicet, fortitudo, iustitia, et temperantia, omnia dona et
+omnia data que habemus sive a natura sive a Deo, vel vacuantur in
+nobis vel ipsa operamur in malis.  Ideo ait: <s@i che se stella
+bona o miglior cosa>, idest Deus, <m'@a dato 'l ben, ch'i' stesso
+nol m'invidi>; idest illud tale bonum michi datum a natura vel
+Deo, non auferam michi ipsi, more invidi, qui de aliena
+felicitate tristatur.
+
+	|25-30.~  Volens autor istam octavam bulgiam nobis
+exemplariter demonstrare, inducit duas comparationes, quarum unam
+accipit a natura et reliquam a Scriptura.  Prima est ista:
+Tempore -- nanque estivo --  illo scilicet tempore quo vel quando
+sol suam faciem minus nobis tenet absconsam, hoc est quando dies
+maiores sunt, dum rusticus de sero, quando culici musca cedit, in
+podio residens sive monte, videt in vallibus, ubi forte habet
+vineas vel alia loca culta, illa volatilia parva que vulgo
+^lucciule~, gramatice vero ^nocti luce~ appellantur, ex quibus
+volatilibus valles undique sunt replete -- ita vidit istam
+octavam bulgiam flammis ardentibus sic repletam. 
+
+	|34-39.~  Secunda comparatio ista est: Legitur enim in
+libro Regum {IV ^Regum~ 2.9} quod dum Deus vellet Elyam in celum
+per turbinem elevare, quod ipse Elyas, una cum Elyseo discipulo
+suo ad Iordanem fluvium devenerunt; ibique Elyas pallium suum
+involvens, cum ipso Iordanis fluenta percussit, et statim facta
+est via sicca per medium aque Iordanis; sicque transeuntes per
+siccum in loca deserta venerunt.  Et tunc ait Elyas ad Heliseum:
+<Ecce dominus vocat me.  Postula a me quod vis ut faciam tibi,
+ante quam tollar a te>.  Cui Elyseus: <Obsecro ut remaneat
+spiritus tuus duplex in me>.  Ad quem Elyas: <Rem>, inquit,
+<difficilem postulasti.  Tamen si videris me quando tollar a te,
+erit tibi quod petisti; alioquin non erit>.  Cumque per desertum
+sic pergerent colloquendo, ecce currus igneus quem ducebant equi
+ignei tanquam fulgur de celo descendens, utrunque divisit.  Et
+tunc Elyas ascendit super currum, et sic angelorum ministerio
+ferebatur in celum.  Elyseus autem respiciebat in altum; et cum
+Elyas elongaretur ab ipso, et Elyseus nil aliud quam flammam
+videre valeret, clamabat ad ipsum: <Pater mi, pater mi, currus
+Israel et auriga eius>, idest substentator populi atque rector. 
+Tunc Elyas deiecit ei pallium suum; quod Elyseus adsummens,
+scidit vestimenta sua.  Et hoc fecit, secundum magistrum
+ystoriarum, vel pro dolore quem habuit de recessu magistri sui,
+vel ut deinceps non suo sed pallio uteretur Elye.  Et rediens ad
+Iordanem, percussit aquas pallio Elie, et non sunt divise aque;
+quod ideo non sunt divise quia, ut dicunt sancti, de sua
+sanctitate presummens, experiri voluit si spiritus Elie duplex
+requievisset in eo.  Sed videns aquas non fuisse divisas, ad
+humilitatem recurrens, iterum aquas clamando percussit.  <Ubi>,
+inquit, <est Deus Elye etiam nunc?>  Et tunc divise sunt aque,
+siccoque pede transivit.  Quod videntes, filii prophetarum qui
+erant in ripa Iordanis dixerunt: <Requievit spiritus Elye super
+Elyseum>, et occurrentes adoraverunt eum.  Cumque discederet a
+Iordane et ascenderet in Bethel, et ecce XLII pueri illudebant ei
+dicentes: <Ascende, calve>.  Qui maledixit eis in nomine Domini,
+idest per nomen Domini, vel invocato nomine Domini.  Ad cuius
+vocem egressi sunt duo ursi de saltu, idest de silva, qui
+devoraverunt eos.
+
+	Vult itaque dicere autor quod, sicut tempore estivo,
+quando musca cedit culici, valles noctilucis plene sunt, ita est
+ista octava bulgia plena flammis.  Et sicut Elyseus, qui se
+vindicavit cum ursis quando suus magister in curru igneo
+portabatur in celum, non videbat ipsum magistrum, sed solummodo
+flammam currus, ita ipse in ista bulgia animam aliquam non
+videbat, sed solummodo flammas quibus erant anime sic velate:
+|come la mosca cede~, idest dat locum, |a la zanzara~, idest
+culici, |vede lucciole~, idest noctilucas.  Noctiluca enim est
+modica bestiola multipes et alata, in tenebris lucet ut candela,
+et maxime ex parte posteriori; manus tangentis inficit, et lucem
+odit, quamvis in tenebris luceat.  Que quidem ex corruptione
+spicarum frumenti dicitur generari; et vulgo ^lucciola~ dicitur,
+quasi <parva lux>; latine vero ^noctiluca~, quia nocte lucet. 
+Culex vero est musca modica, ex resolutione vaporis putridi
+generata, que ex continua alarum in aere replicatione strepitum
+generat.  Dicitur autem culex ab ^aculeo~, eo quod sanguinem
+sugit.  Habet enim in ore quandam fistulam admodum stimuli, qua
+carnem terebrat ut sanguinem bibat, sicut dicit Ysidorus, et
+reputatur inter volatilia sicut apis.  Musca autem ex cadaveribus
+et exalationibus generatur.  Sed nota quod sex sunt genera
+minutorum animalium que vel ex cadaveribus vel ex humoribus nasci
+solent; quedam enim ex exalationibus prodiuntur, ut bibiones ex
+vino, et papiliones ex aqua; quedam ex corruptione humorum, ut
+vermes in puteis et cisternis; quedam ex cadaveribus, ut apes ex
+iuvencis et scrabrones ex equis.  Unde Ovidius XV libro ^Meth~:
+<Pressus humo bellator equus scrabronis origo> {^Met.~ XV. 368
+(^adapted~)}.  Quedam ex corruptione lignorum, ut terodones;
+quedam ex corruptione herbarum, ut brucus; quedam vero ex
+corruptione fructuum, ut gurguliones ex fabis.
+
+	^SECUNDA COMPARATIO.~  Iste comparatio est superius
+explanata.
+
+	|40-42.~  Dicit hic autor quod quelibet flamma infra se
+unum continet peccatorem, et nulla ostendit furtum, idest nulla
+flamma demonstrat id quod continet intra se.  Sed hic oritur
+questio, quomodo scilicet anima possit in flammis comburi et non
+consumi.  Huic autem questioni respondit beatus Augustinus in
+libro ^De Civitate Dei~ {^De Civ. Dei~ XXI. 2-4 (^adapted~)},
+ostendens per quinque exempla quod anima potest in igne comburi
+et non consumi.  Et primo exemplo vermium, dicens: nonnullum
+genus vermium in aquarum calidarum scaturigine reperitur, quarum
+fervorem nemo impune contractat.  Illi autem non solum ibi sunt
+sine ulla lesione, sed extra non possunt vivere.  Secundo exemplo
+montium Sicilie dicens: Notissimi montes Sicilie qui tanta
+temporis vetustate usque nunc flammis estuant et integri
+perseverant, satis ydonei testes sunt non omne quod ardet
+consumi.  Tertio exemplo carbonum, qui ignis operatione sic fiunt
+incorruptibiles, ut in terra humida suffossi, dum essent ligna
+putrescerent, modo facti carbones corrumpi non possunt.  Quarto
+exemplo pavonum; quis, inquit, nisi Deus dedit carni pavonis
+mortui non putrescere?  Et narrat ibi, quod dum semel hec avis
+cocta sibi fuisset oblata, de pectore eius usque ad annum servari
+mandavit, et nullam lesionem incurrit, nisi quod aliquantulum
+corpulentie siccioris et contractioris fuit.  Quinto exemplo
+salamandre dicens, sicut dixerunt qui de naturis animalium
+curiosius indagarunt: salamandra in ignibus vivit, de cuius etiam
+pellibus fiunt corrigie pretiose que, dum sunt vetustate
+consumte, si proiciantur in ignem ex veteribus fiunt nove.  Patet
+ergo per ista exempla que posuit Augustinus quod non omne quod
+ardet consumitur in ardore.
+
+	|43-45.  Io stava sovra 'l ponte a veder surto.~ |Surto~,
+idest supra foveam in ponte suspensus, manibus innixus, sicut
+navis in portu vel mari iactis ancoris stat innixa; que, nisi
+essent anchore, a ventis seu fluctibus iactaretur.  Simili modo,
+nisi autor uni scopulo pontis fortiter adhesisset, in foveam
+cecidisset, dato quod aliquis ipsum minime impulisset.  Ideo
+sequitur:
+
+     s@i che s'i' non avesse un ronchion preso,
+     caduto sarei gi@u sanz'esser urto.
+
+                        (^Inf.~ XXVI. 44-45)
+
+	|Urto~ est vocabulum Alamannorum, et tantum sonat quantum
+<impulsus> vel <percussus> sive <proiectus>.
+
+	|46-51.~  Lictera plana est.
+
+	^SECUNDUM NOTABILE.~  |Catun si fascia di quel ch'elli @e
+inceso.~  In isto notabili, moraliter exponendo, continetur quod
+quilibet homo exterius operatur bonum sive malum, secundum quod
+interius concupiscit.  Nam si calore virtutum interius
+inflammatur, oportet quod ipsarum virtutum luce atque fulgore
+exterius adornetur.  Quia videmus, iuxta sententiam Salominis et
+beati Gregorii pape, quod si ignis ponatur in palea, statim
+exardescit.  Si vero quis malo ardore concupiscentie,
+cupiditatis, invidie, sive ire comburitur, oportet etiam quod
+secundum illum exterius operetur opera, scilicet carnis et
+mortis.  Qualis enim est unusquisque, talis et finis videtur ei,
+ut ait Philosophus.
+
+	|52-54.~  Cum autor ad considerationem istius octave
+bulgie totus esset intentus, vidit quandam flammam que in suo
+culmine non unita, sicut alie, sed divisa et quasi bifurcata
+singulariter incedebat.  Unde admirans ait ad Virgilium: <Quis
+est in illo igne qui venit superius sic divisus, quod videtur
+surgere de pira in qua Ethyocles cum suo germano insimul fuit
+missus?>  Pira vero proprie dicebatur illud obsequium quod
+corporibus fiebat antiquis.  Mos enim antiquorum erat defunctorum
+corpora igne cremare, et illud tale obsequium <pira> dicebatur, a
+^pyr~ quod est <ignis>.  Et quanto erat maior et nobilior ille
+qui cremabatur, tanto eius pira maior et solennior parabatur.  Et
+quantum flamma nobilium ascendebat in altum, tantum eius
+sepultura fabricabatur in conum, ut ipsius pyre altitudinem
+demonstraret; sicut adhuc in sepulcris apparet usque hodie
+fundatorum alme urbis Romuli atque Remi.  Isto itaque modo
+thebanorum regum corpora, Ethyoclis scilicet et Polinicis,
+cremata fuerunt; quorum pyra in suo apice divisa fuisse scribitur
+a poetis.  Ad quorum omnium evidentiam, est sciendum quod in
+regno thebano fuit quidam rex nomine Edippus, qui ab infernalibus
+furiis agitatus, patrem suum Layum ignoranter, ut dicitur,
+interfecit, matrem suam Iocastam incestavit, et ex ea duos filios
+Ethioclem et Polinicem generavit.  Qui tandem dolore et
+confusione confossus, sibi ipsi oculos extirpavit et in gremium
+illius que erat mater et uxor iracunde proiecit.  Cum vero in
+tenebris sua furiosa fata ploraret, filii non ut patrem et senem
+eundem venerabantur, sed ipsum tanquam monstrum aliquod infernale
+iniuriosis verbis et factis detestabilibus abhorrebant.  Unde
+ipse Thesiphonem invocans, ipsam lacrimosis precibus exoravit ut
+inter suos filios talem discordiam seminaret, quod ipsi se ambos
+occiderent et regnum deficeret Thebanorum.  Cuius preces illa
+furia infernalis exaudiens, tantam inter fratres discordiam
+seminavit, quod inter se annua imperia taliter diviserunt, quod
+uno ipsorum regnante alter a regno voluntarie exularet.
+
+	Cum ergo talibus pactis ordinatis atque sancitis
+Ethyocles regni gubernacula suscepisset, Polinices ex condicto
+exulavit a regno.  Cum autem sic exul a patria per Greciam
+vagaretur, ad regnum devenit mitis Adrasti.  Iste autem Adrastus
+mascula prole carens duas filias pulcherrimas possidebat.  Cui
+Apollo deus suus obscura prophetia predixit, quod ipse duos erat
+generos habiturus setigerum scilicet suem et fulvum coma leonem. 
+Policines igitur dum regnum intraret Adrasti, contigit ipsam
+civitatem intrare de sero, et non inveniens hospitium, ad curiam
+regis accessit.  Et subter cameram regis intrans, que omnibus
+transeuntibus liberum et apertum prebebat ingressum, se posuit ad
+pausandum.  Et ecce de regno Calydonie Tydeus fugiens, quia
+fratrem suum occiderat, coopertus pelle aprina, ipsa eadem nocte
+dictam logiam subintravit.  Cum autem sic ambo in dicta logia
+convenissent, accidit ut de loco dormiendi ab invicem
+dissentirent.  Qua propter cum ad iniuriosa verba et tandem ad
+feda vulnera devenissent, rex Adrastus eorum clamoribus excitatus
+ipsos vocari mandavit, et videns Polinicem pelle leonina et
+Tydeum pelle aprina vestitum, intellexit oracula dei sui.  Unde
+ipsos interrogans qui essent, unde venissent, et ad quid preliati
+fuissent, audita ipsorum regali progenie et quare quilibet
+ipsorum a sua patria exularet, ipsos benigne recepit et suas
+filias Deiphylem et Argiam ipsis tradidit in uxores.  Cum vero
+annus dominationis Ethioclis completus fuisset, quo sceptra regni
+ad manus Polinicis redire debebant, Ethyocles ipsa fratri
+protinus denegavit.  Qua de re indignatus Adrastus, Grecorum
+regum auxilia convocavit et civitatem thebanam septem regalibus
+exercitibus circundedit.  In qua obsidione postquam Amphyoraus
+fuit absortus a terra, Capaneus fulminatus a Iove, Ipomedon
+submersus in fluvio, Tydeus occisus a Menalippo, et Parthonopeus
+occisus in campo, et de septem regibus non nisi duo remansissent,
+Policenes [^sic~] videlicet et Adrastus, placuit finaliter tam
+obsidentibus quam obsessis ut illi duo germani, propter quos erat
+orta discordia et propter quam discordiam tot reges et populi
+erant mortui, singulari duello bellare deberent.  Unde isti duo,
+Policenes [^sic~] et Ethyocles, furiali face accensi, ad invicem
+dimicarunt et se ipsos mutuis vulneribus occiderunt.  Cum autem
+ipsorum corpora posita in una pira fuissent, statim flamma in suo
+apice est divisa, innuens atque monstrans {^Br.~ demonstrans}
+divisionem que in ipsorum pectoribus vivendo regnarat.
+
+	Hanc autem hystoriam eleganter describit Statius, poeta
+nobilis tholosanus, in libro qui dicitur ^Thebaydos~, in cuius
+principio promittit devenire ad hunc finem: qualiter scilicet
+flamme in morte istorum divise fuerunt, et qualiter urbs thebana
+cum aliis adiacentibus propter istorum mortem vacuate fuerunt. 
+Statius:
+
+     Intendo fraternas acies flammasque rebelles
+     Seditione rogi, tumulisque carentia regum,
+     funera et egestas alternis mortibus urbes.
+
+                        {^Theb.~ I. 35-37 (^adapted~)}
+
+	Exemplificat igitur autor et dicit quod, quemadmodum
+flamma sepulcralis duorum regum Thebanorum divisa fuit in duo,
+ita ista flamma de qua hic loquitur divisa in duo similiter
+veniebat.  Ideo ait Virgilio: <Quis est in illo foco qui in sui
+summitate venit ita divisus, quod videtur surgere de pyra in qua
+Etyocles cum suo fratre Polinice fuit missus?>  
+
+	^TERTIA COMPARATIO.~  Iste comparatio est superius
+explanata.
+
+	|55-57.~  Cui Virgilius respondit:
+
+               <L@a entro si martira
+     Ulixe et Diomede, et cos@i 'nseme
+     a la vendetta corron com'a l'ira>;
+
+	Isti enim duo qui sunt in hac flamma coniuncti, unus fuit
+Ulixes et alter Dyomedes, ambo reges et principes Argivorum, qui
+in hoc mundo summa prudentia, ingenio, facundia, et astutia
+viguerunt; sed ipsis virtutibus usi semper in malo et dolo
+fuerunt.  Unde sicut in fallaciis atque dolis in hac vita
+coniuncti fuerunt, ita in inferno, ubi puniuntur, insimul
+coniunguntur.  Quod autem in vita in omnibus agendis fuerint
+copulati, demonstrat ipse Ulixes in oratione quam fecit contra
+Aiacem pro armis Achillis.  In qua oratione, sicut scribit
+Ovidius, XIII+o~ libro ^Meth.~, consedentibus ducibus et vulgi
+stante corona, inter alia de societate Diomedis sic ait ipse
+Ulixes:
+
+     At sua Titides mecum communicat acta,
+     Me probat et socio semper confidit Ulixe.
+
+                        {^Met.~ XIII. 239-240}
+
+	Fuerunt enim isti duo in omnibus rebus coniuncti, et
+maxime in quinque, sine quibus troiana civitas capi non poterat a
+Pelasgis.  Fatatum nanque fuerat Grecis quod Troyam nunquam
+possent obsidione vel prelio obtinere, nisi ista quinque que
+sequuntur solicite procurarent: Primum, ut Achilles, Pellei
+filius atque Thetidis, quem mater occulte celaverat, veniret ad
+Troyam cum Hectore pugnaturus.  Secundum, ut de templo Palladis
+quod erat in arce troiana {^Br.~ troyanorum} Palladium
+asportarent.  Tertium, ut sagittas Herculis cum quibus centaurus
+et alia monstra devicerat, que quidem sagitte cum ipso Hercule
+erant sepulte, et cuius sepulcrum nullus sciebat nisi filius
+ipsius Herculis, qui a suo patre habuerat in mandatis ut nunquam
+suum corpus alicui revelaret, Greci secum in obsidione haberent. 
+Quartum, ut de pulvere corporis Laumedontis, regis Troye, quod
+erat sepultum supra portam troyanam, que dicebatur Cea, habere
+studerent.  Quintum, ut equos Resi regis a pabulo terre troyane
+et ab aquatione Xanti fluvii removerent, quia de eis fatatum
+fuerat quod si pabula Troye gustarent et in fluvio Xanto
+potarent, nunquam Greci de Troianis victoriam habere valerent. 
+Ulixes autem et Dyomedes ipsorum doloso ingenio et Acchillem
+invenerunt, et Palladium abstulerunt, et sagittas Herculis
+effoderunt, et de pulvere sepulcri Laumedontis habuerunt, et
+equos Resi a pabulo terre troiane et a potatione Xanti
+prohibuerunt.  Hanc autem ultimam ystoriam primo libro
+^Eneydorum~ dicit Virgilius Eneam in templo Iunonis aput
+Cartaginem vidisse depictam, dicens:
+
+     Nec procul hinc Resi niveis temptoria velis
+     Agnoscit lacrimans, primoque prodita somno
+     Tydides multa vastabat cede cruentus,
+     Ardentesque avertit equos castraque prius quam
+     pabula gustassent Troye, Xanctumque bibissent.
+
+                        {^Aeneid~ I. 469-473}
+
+	|58-60.~  Postquam autor posuit in generali dolosa
+istorum duorum regum ingenia, propter que in flammis ardentibus
+sunt reclusi, nunc ad particulares dolositates ipsorum et
+fallacias se convertit.  Et ponit maxime tria ipsorum dolosa
+ingenia: Primum fuit ille equus ligneus qui fecit portam de qua
+exivit semen nobile Romanorum; quia per fracturam Troyanorum
+murorum, que facta fuit ut ille dolosus equus introduceretur in
+arcem, exivit Eneas, qui hic Romanorum semen nobile appellatur,
+de quo equo et de quibus insidiis require infra, malabulgia
+decima, cantu XXX, in ystoria scilicet Synonis.  Sed antequam ad
+alia procedamus, videamus utrum verum sit quod Eneas fuerit semen
+unde orti sunt Romani.  Et videtur quod non.  Nam ante adventum
+Enee in Ytaliam, in illis montibus ubi postea fuit Roma, multe
+habitationes fuerunt, sicut per multos veridicos patet autores. 
+In uno enim illorum septem montium quos Roma nunc uno muro
+circumdat habitavit Ianus, primus rex Ytalie; in quo monte fecit
+quandam civitatem parvam, quam a suo nomine Ianniculum
+appellavit; qui quidem mons postea usque in hodiernum diem
+Ianniculus appellatur.  Et ista est prima habitatio que facta
+fuit in illis partibus ubi nunc Roma est.  De qua edificatione
+ait Macrobius in libro ^De Saturnalibus~ {cf. ^Saturnalium Lib.~
+I. vii. 19-20}: regionem ^istam que nunc vocatur Ytalia, regno
+Ianus obtinuit, et Ianniculum oppidum vocitavit; qui Ianus
+geminam dicitur faciem habuisse, ut que ante et que post tergum
+essent intueretur.  Quod procul dubio ad prudentiam regis et
+solertiam referendum est, eo quod et preterita nosset et futura
+prospiceret.  Regnante itaque in Ytalia Iano, Saturnus rex
+cretensis, expulsus a filio suo Iove, in navi onusta frumento
+applicuit ad litora que hodie Romanorum litora appellantur.  Quem
+Ianus benigne recepit hospitio; et ut ait idem Macrobius,
+Saturnus docuit ipsum Ianum peritiam ruris.  Propter quod
+beneficium ipsum Saturnum Ianus in regni consortem excepit,
+monetamque ob reverentiam Saturni signavit.  Nam ex una parte
+monete erat navis ipsius Saturni, et ex alia caput Iani.  Hic
+igitur Saturnus, postquam docuit Ianum terram serere, vineas
+plantare, et homines civiliter habitare, in uno monte quandam
+parvam civitatem edificavit quam a suo nomine Saturnium, et quia
+securus ibi latuit locum Latium appellavit, eo quod tutus ab
+armis filii latuisset in eo.  Unde Ytalia aliquando dicitur
+Saturnia, aliquando Latium; ante cuius Saturni adventum homines
+bestialiter ut fere vivebant.  Mortuo vero Iano, Saturnus solus
+regnavit in Latio, idest in Ytalia.  Post quem, destructis
+Ianniculo et Saturnio, regnavit Faunus, qui pro deo Lucorum et
+Nemorum est postea ab Ytalicis consecratus.  Post Faunum vero
+regnavit Picus, quem Circe filia solis potentibus herbis mutavit
+in pycum.  Post Picum autem regnavit Latinus, pater Lavinie. 
+Huius autem Latini temporibus Evander rex Archadie fataliter a
+regno suo depulsus, cum matre sua Carmente, que licteras latinas
+invenit, ut superius dictum est, et cum filio suo Pallante, ad
+partes ubi nunc Roma est, fato devenit.  Et in uno illorum septem
+montium quandam civitatem parvam fecit, quam a nomine filii sui
+Pallanteum denominavit, ipsis duabus civitatibus a Iano et
+Saturno constructis primitus iam destructis; qui quidem mons
+semper postea mons Palatinus dictus est.  In alio vero monte, ex
+opposito Palatini qui nunc dicitur Palatinus, habitabat tunc
+temporis latro Cachus, quem finitimas regiones et gentes igne
+ferroque vastantem, Hercules interfecit.  Hiis autem temporibus
+Eneas, filius Anchisis, a Troia discedens, postquam fuit diu ob
+iram seve Iunonis per mare iactatus, ad istum Evandrum in monte
+applicuit Palatino.  Cui Evander ostendit loca et montes ubi nunc
+Roma est, ut octavo ^Eneydorum~ scribit Virgilius in hunc modum:
+
+     Tunc rex Evander Romane conditor arcis:
+
+-- ait ad Eneam -- 
+
+     <Hec nemora indigene Fauni Nimpheque tenebant
+     Gensque virum truncis et duro robore nata,
+     Quibus neque mos neque cultus erat, nec iungere tauros,
+
+     Sed rami atque asper victu venatus alebat.
+     Primus ab ethereo venit Saturnus Olimpo,
+     Arma Iovis fugiens et regnis exul ademptis.
+     Is genus indocile ac dispersum montibus altis
+     Composuit, legesque dedit, Latiumque vocari
+     Maluit; his quoniam latuisset tutus in horis.
+     Aurea que perhibent illo sub rege fuere
+     Secula: sic placida populos in pace regebat,
+     Deterior donec paulatim ac decolor etas
+     Et belli rabies et amor successit habendi>.
+
+                        {^Aeneid~ VIII. 313-316; 318-327}
+
+Post hec ait:
+
+     Me pulsum patria pelagique extrema sequentem,
+     Fortuna omnipotens et ineluctabile fatum
+     Hiis posuere locis, matrisque egere tremenda,
+     Carmentis Nimphe monita et deus autor Apollo.
+
+     Hinc ad Tarpeam sedem et Capitolia ducit,
+     Aurea nunc, olim silvestribus horrida dumis.
+
+                        {^Aeneid~ VIII. 333-336; 347-348}
+
+	Post hec ostendit Evander Enee civitateculas Iani et
+Saturni iam dirutas et destructas, dicens:
+
+     Hec duo preterea disiectis oppida muris,
+     Reliquias veterumque vides monumenta virorum.
+     Hanc Ianus pater, hanc Saturnus condidit urbem;
+     Ianiculum huic, illi fuerat Saturnia nomen.
+
+                        {^Aeneid~ VIII. 355-358}
+
+	Eneas autem, postquam applicuit ad Evandrum contra
+Latinum et Turnum, quia ipsum de Ytalia pellere festinabant,
+bella movit.  Quibus bellis victoriose sedatis, Laviniam in
+uxorem accepit, et quandam civitatem ipsius Latini que adhuc
+superest, in melius restaurans, a nomine uxoris Lavinium
+appellavit.  Mortuo vero Enea, Ascanius filius eius ex uxore
+Creusa, nolens cum noverca in Lavinio habitare, ab ea discessit
+et in monte Albano condidit Magnam Albam.  Lavinia vero, mortuo
+viro suo Enea, gravida remansit, que casu in silva filium
+parturivit.  Hic dictus est Silvius Postumus; Silvius quia natus
+in silvis, postumus vero, quia post mortem patris natus est. 
+Hunc Silvium postumum Ascanius, frater eius ex patre, regni
+reliquit heredem adhuc parvulo filio suo Iulio vivente, a quo
+Iuliorum familia et originem traxit et nomen.  Post Silvium
+postumum regnavit Silvius Latinus.  Post Silvium Latinum regnavit
+Silvius Eneas.  Post Silvium Eneam regnavit Silvius Alba.  Post
+Silvium Albam regnavit Silvius Athis.  Post Silvium Athim
+regnavit Silvius Capis.  Post Silvium Capim regnavit Silvius
+Carpentus.  Post Silvium Carpentum regnavit Silvius Tiberinus, a
+quo fluvius Romanorum dictus est Tiberis, qui prius Albula
+dicebatur.  Post Silvium Tiberinum regnavit Silvius Agrippa. 
+Post Silvium Agrippam regnavit Silvius Aremulus.  Post Silvium
+Aremulum regnavit Silvius Aventinus, a quo unus ex septem
+montibus urbis dicitur Aventinus.  Post Silvium Aventinum
+regnavit Silvius Procas.  Post Silvium Procam regnaverunt duo
+germani, Munitor et Amulius.  Sed Amulius fratrem suum Munitorem
+vinculavit, Lausum, filium eius, trucidavit, et Yliam virginem
+vestalem effecit.  Ylia vero a Marte corrupta duos filios Remum
+et Romulum parturivit; qui facti adulti Amulium interfecerunt,
+Amum de carcere extraxerunt, et Romam in monte Palatino
+fundaverunt.
+
+	Queritur ergo, cum multe habitationes ante quam Roma
+esset in illis partibus facte sint, quare potius vocatur Eneas
+semen Romanorum quam alii reges superius nominati?  Respondeo,
+salvo meliori iudicio, licet Ianus et Saturnus per longum tempus
+ante adventum Enee in illis partibus ubi postea Roma facta est
+habitaverint, et habitationes ibi fecerint superius nominatas,
+tamen illo tempore quo Romulus urbem fundavit nulla vestigia
+illarum edificationum protinus ibi erant.  Nec ad compositionem
+urbis aliquis de stirpe Iani vel Saturni cum Romulo fuit. 
+Progenies autem Evandri, idest gens Archadie, una cum Romulo
+urbem Romanam edificavit, et proprie in illo loco et monte ubi
+prius ipse Evander Pallanteum edificavit, et in quo Eneam
+suscepit hospitio.  Et ista est causa quare Evander, rex
+Archadie, Romane arcis conditor appellatur, iuxta illud Virgilii:
+
+     Tunc pater Evander Romane conditor arcis.
+
+                        {^Aeneid~ VIII. 313 (^adapted~)}
+
+	Eneas itaque, cum de semine suo nati sint Romulus atque
+Remus, qui fuerunt principia Romanorum, dicitur hic ab autore
+fuisse semen ex quo nati sunt Romani.  Et ideo Salustius bene
+ait: Urbem Romam, sicuti ego accepi, condiderunt Troyani et cum
+hiis aborigines, idest Archades, qui prius ibi habitaverant. 
+Iustinianus etiam imperator dicit in legibus quod quemadmodum
+omnes imperatores romani a primo Cesare Cesares appellantur, ita
+ab Enea omnes possent et deberent imperatores Eneades non
+immerito appellari.  Quod autem Romulus ipsam fundaverit et suo
+nomine appellaverit, nullus ambigit.  Unde Valerius, libro
+quinto, capitulo de ingratis: Urbis nostre parentem senatus, in
+amplissimo dignitatis gradu ab eo collocatus, in curia laceravit. 
+Nec duxit nephas ei vitam adimere qui eternum romano imperio
+spiritum ingeneraverat {^De fact. et dict.~ V. iii. 1}.  Et sic
+patet de primo doloso istorum duorum regum ingenio, quo operante
+facta fuit in Troya illa porta unde exivit semen nobile
+Romanorum.  Nam Eneas fuit semen ex quo ortum est regnum
+Albanorum et imperium Romanorum.  Et hoc est quod Virgilius ait
+primo libro ^Eneydorum~, ubi loquitur de Enea:
+
+                         Genus unde Latinum
+     Albanique patres atque alte menie Rome.
+
+                        {^Aeneid~ I. 6-7}
+
+Et duodecimo:
+
+     Hinc pater Eneas Romane stirpis origo.
+
+     Et iuxta Ascanius, magne spes altera Rome.
+
+                        {^Aeneid~ XII. 164; 166}
+
+Propter quod dicitur in textu:
+
+     et dentro da la lor fiamma si geme
+     l'aguato del caval che f$e la porta
+     ond'usc@i dei Romani il gentil seme.
+
+	|61-63.~  Secundum vero dolosum ingenium propter quod
+isti damnantur tangitur ibi:
+
+     Piangevis' entro l'arte per che, morta,
+     Dyademia ancor si duol d'Achille.
+
+	Propter dolosa enim istorum duorum regum ingenia fuit
+separatus Achilles a Dyademia, propter quam separationem ipsa
+Dyademia mortua adhuc condolet de Achille.  Nam antiquorum opinio
+fuit quod amores, et maxime immaturi, descendant cum ipsis
+amatoribus in infernum.  Unde narrat Titus Livius, ^Ab Urbe
+Condita~, libro primo {^Ab Urbe Condita~ I. xxvi}, quod cum
+quidam Romanus quendam Albanum militem cui soror sua fuerat
+desponsata in prelio occidisset, et ipsius occisi Albani
+paludamentum quod confecerat sponsa sua in humeris suis ob
+victoriam reportaret, per portam Capenam intrans in urbem sororem
+obviam habuit....   {Guido omits ^cognitaque super umeros
+fratris~}.  Que cognito paludamento sponsi....  {Guido omits
+^quod ipsa confecerat~} oblita gloriosa victoria fratris crines
+solvit, et voces querulas et lacrimosa suspiria pro morte sponsi
+amarissime fundere cepit.  Quod cum frater advertit, stricto
+gladio in ipsam ruens ipsamque perimens ait: <Abi hinc cum
+immaturo amore ad sponsum tuum.  Sic eat quicunque romanum
+lugebit hostem>.  Dyademia itaque cum amore immaturo descenderit
+ad inferna, adhuc dolet de Achille.  Cuius historia breviter ista
+est: Achilles enim, filius Pellei et Theti[di]s, statim quod
+annos pueriles exivit, traditus fuit Chironi magistro militum
+Thesalie, ut artem addisceret militandi.  Unde dicitur supra,
+cantu XII, ibi:
+
+     Et quel di mezzo, c'al petto si mira,
+     @e il gran Chirone, il qual nudr@i Acchille:
+
+                        (^Inf.~ XII. 70-71)
+
+	Illo autem tempore quo a Chirone nutriebatur Acchilles,
+Paris filius Priami, regis Troye, Helenam reginam Grecorum rapuit
+et raptam in patriam asportavit.  Sed dum Thetis, mater Achillis,
+per artem magicam in qua plurimum docta erat, et in qua arte
+antique mulieres spetialiter nobiles insudabant, cognovisset quod
+per raptum Helene Troia debebat cum detrimento sui filii
+concremari, ivit ad Chironem ut filium absconderet a Pelasgis.  Et
+cum pervenisset ad Chironem, ecce Accilles venatu rediens duos
+leuncolos gestabat in ulnis, quorum matrem prius interfecerat cum
+sagiptis.  Qui ut matrem vidit, proiectis leunculis, sue
+genitricis irruit in amplexus.  Mater autem, celebrato magno
+gaudio cum Acchille, duxit in partem Chironem dixitque ei: <Ego
+video per artem meam multa pericula isti meo filio imminere.  Unde
+proposui in mente mea ipsum ad partes longinquas quantotius
+transportare>.  Et, sero veniente, dedit regina filio
+et omnibus sociis eius poculum opiatum.  Media vero nocte vocato
+solo Chirone accepit filium dormientem et ipsum ad mare portantes
+in naviculam posuerunt.  Mater autem, dimisso in terra Chirone
+filium, ad quandam insulam que vocatur Schiro transfretando
+portavit.  In hac itaque insula regnabat quidam rex, nomine
+Licomedes, qui erat valde senex, vel, ut alii dicunt, dicebatur
+Lahertes, forte erat binominis, qui mascula prole carens tres
+filias pulcerrimas possidebat, quarum maior vocabatur Dyademia. 
+Cum autem Thetis ad istam insulam pervenisset, in quodam templo
+filium collocavit, et expergefactus Acchilles tanta ipsum
+admiratio mox invasit, non videns Chironem magistrum necque
+socios predilectos, quod matrem cognoscere vix valebat.  In isto
+vero templo regina filium induit muliebribus indumentis et ipsum
+tanquam filiam feminam regi studuit commendare, ut cum filiabus
+suis tanquam femina aleretur.
+
+	Cum autem in ista insula sic esset Acchilles absconsus,
+Greci cum mille navibus in insulam Aulidem contra Troyam
+congregati fuerunt.  Et factis sacrificiis diis ipsorum,
+habuerunt ab ipsis oraculis in responsum quod nisi Acchilles,
+Pellei filius atque Thetis, una cum ipsis Grecis veniret ad
+Troyam, nunquam de fortissimo Hectore forent victoriam habituri. 
+Tunc Greci sine mora pro Acchille solennes nuntios in Thesaliam
+destinarunt.  Sed cum necque in domo patris, necque cum suo
+magistro Chirone fuisset inventus, ad persuasionem Prothesilai
+Calcas invocato demone, dixit ipsum Achillem in insulam Schiro a
+matre fuisse absconsum.  Qua propter isti duo reges, Dyomedes
+scilicet et Ulixes, ad ipsum inquirendum cum multis muliebribus
+ornamentis ac etiam militaribus sunt profecti.  Achilles autem,
+dum sic in habitu puellari inter regis filias versaretur, amore
+ipsius Dyademie ardescens, cum ipsa violenter concubuit et ex ea
+filium habuit nomine Pyrrum; qui post mortem patris ad obsidionem
+Troyanam accessit, et in vindictam dicti sui patris, Polixenam,
+filiam regis Priami, supra tumulum ipsius Achillis crudeliter
+immolavit.  De qua immolatione habes supra, cantu XII.  Venientes
+vero Ulixes et Dyomedes ad regem Lahertem seu potius Lichomedem,
+oratores Grecorum se esse dixerunt.  Rex autem ipsos benigne
+recepit, et facto eis solenne convivio, fecit venire coram ipsis
+filias cum Acchille, coram quibus astutus Ulixes fecit expandi
+omnia genera ornamentorum muliebrium, ut unaqueque caperet id
+quod vellet.  Et ex una parte fecit poni arma militaria,
+mirabiliter adornata.  Ille autem puelle acceperunt muliebria
+ornamenta.  Sed Achilles, ut vidit arma, virilem animum intra
+vestimenta feminea continere non potuit; sed ad arma manus
+extendens, fuit cognitus ab Ulixe.  Ibique illico, depositis
+femineis vestimentis, virum se esse asseruit, et arma suscipiens,
+cum istis duobus regibus ad Grecorum exercitum festinavit. 
+Dyademia vero, se videns suo amore privatam, se ipsam, ut
+dicitur, interfecit.  Et ista est secunda causa quare isti duo,
+Dyomedes scilicet et Ulixes, in ista bulgia collocantur.
+
+	Tertium vero ipsorum dolosum ingenium tangitur ibi: |et
+del Palladio pena vi si porta.~
+
+	Ystoria Palladii ista est: Ylus enim rex Troye in ipsa
+Troya quandam arcem edificavit, quam Ylium, sive Ylion, a suo
+nomine appellavit.  In ipsa autem arce magnum et venerabile
+templum Palladi dedicavit.  Quo templo completo, quoddam celeste
+signum de celis in ipsum templum dicitur advenisse.  Nam quedam
+ymago lignea, que cuius generis ligni foret nunquam potuit humana
+mortalium industria reperire, de celo veniens post altare parieti
+se affixit; que quidem celestis ymago Palladium dicebatur.  De
+quo Palladio quidam augur et vates Troyanorum cui nomen Menetes
+consultus, tale fertur ipsis Troyanis dedisse responsum:
+<Servate, o Troiani, diligenti custodia quod vobis de celestibus
+est transmissum.  Quia quousque istud Palladium procurabitis
+custodire, nunquam civitas ista ab aliquibus hostibus capi
+poterit vel comburi>.  Qua propter, istud Palladium fuit semper
+ab ipsis Troyanis sacra religione servatum et diligenti custodia
+custoditum.  Sed tempore quo Grecorum exercitus civitatem ipsam
+Troyanam potenter obsedit, decimo anno obsidionis eiusdem Ulixes
+astutus et furtis assuetus, auxilio Anthenoris Troyani secreto
+Troiam de nocte intravit, et sacerdoti in cuius singulari
+custodia erat ipsum Palladium assignatum, magno auri pondere
+elargito, ipsius Palladii effigiem consentiente dicto Anthenore
+sacrilego dolo cepit, et ad Grecorum exercitum transportavit.  De
+hoc Palladio, quo modo venerit de celo et quomodo consultus
+sacerdos responderit, ait Ovidius in VI+o~ libro ^Fastorum~:
+
+     Menia Dardanides nuper nova fecerat Ylus;
+     Ylus adhuc Asie dives habebat opes;
+     Creditur armifere signum celeste Minerve,
+     Urbis in Yliace desiluisse iuga.
+
+     Consulitur Menetes, lucoque obscurus in illo,
+     Hos non mentito reddidit ore sonos.
+     <Etheream servate deam, servabitis urbem,
+     Imperium secum transferet illa loci>.
+     Servat, et inclusam summa tenet Ylus in arce,
+     Curaque ad heredem Laumedonta venit,
+     Sub Priamo servata parum.
+
+                        {^Fast.~ VI. 419-422; 425-431 (^adapted~)}
+
+Servata parum dicit sub Priamo, quia suo tempore Ulixes ipsam
+Minerve effigiem est furatus.
+
+	|64-69.~  Verba sunt Dantis ad Virgilium in quibus ipsum
+rogat ut si illi duo principes, Dyomedes videlicet et Ulixes,
+possunt in illis flammis loqui, quod sibi concedat ut illos
+audiat colloquentes.  
+
+	|70-72.~  Lictera plana est.
+
+	^TERTIUM NOTABILE.~  In hoc notabili nos admonet ipse
+Maro quod iusta et honesta rogamina et laude sunt digna, et per
+consequens acceptanda; nam ea que iusta et honesta non sunt, non
+solum indigna sunt laude et non acceptanda, se{*d*} insuper
+vituperanda et protinus respuenda.  Unde admonet poeta dicens:
+
+     Quod iustum est petito vel quod videatur honestum,
+     Nam stultum est petere quod possit iure negari.
+
+	|73-75.~  Hic ostenditur in verbis Virgilii quod homo
+sapiens suo subtili ingenio corda penetrat aliorum, dum ex signis
+que foris apparent considerat ea que interius sunt sepulta.  Nam
+sicut ex fumo manifestatur ignis, licet non videatur, ita ex
+quibusdam signis manifestatur cor, quod quidem videri non potest. 
+Ideo Philosophus dicit quod voces sunt note earum que sunt in
+anima passionum.  Et quia Dantes ostendit per signa extrinseca
+magnum desiderium loquendi cum illis, ideo Virgilius statim fuit
+ymaginatus quid petere vellet illis.  Ideo ait:
+
+     Lascia parlar a me, ch'i' @o concetto
+     ci@o che tu vuoi;
+
+	Et causam propter quam non vult ut ipse Dantes loquatur
+cum illis assignat, dicens: |ch'ei sarebbero schivi~, idest quia
+forte dedignarentur loqui tecum quia fuerunt Greci, et tu ignoras
+protinus linguam grecam.  Tante enim autoritatis fuit antiquitus
+lingua greca, et spetialiter ante Romam, quod Greci nolebant
+respondere nisi loquentibus ipsam linguam.  Quam maiestatem secuti
+postea sunt Romani.  Nam subiugato universo, orbe terrarum
+statuerunt ipsi Romani ut nullus ambaxiator seu alia
+que vis persona in ipsorum consilio sive cetu nisi ytalice
+loqueretur.  Et nichilominus semper fuit lingua greca aput
+Italicos in honorem.  Nam omnes quasi libros latinos ipsi autores
+latini grecis titulis titularunt, ut patet per Virgilium, qui
+omnibus suis operibus grecos titulos assignavit, sicut librum de
+pastorali regimine intitulavit ^Bucholicam~, librum de
+agricultura ^Georgicam~, et librum de preliis ^Eneiden~
+nominavit.  Similiter Ovidius librum de transformationibus
+^Methamorphoseos~ appellavit, et librum de regibus et consulibus
+^Fastos~ nominavit.  Divine etiam Pagine libri grecis nominibus
+adornantur, ut ^Bibliotheca~, ^Penthasis~, ^Evangelium~, et
+^Apocalipsis.~
+
+	|76-84.~  Verba sunt Virgilii ad illos duos Grecos qui in
+illa flamma insimul cremabantur.  In quibus quidem verbis duo
+breviter facit ipse Virgilius: primo captat eorum benivolentiam
+dicens: <O vos qui estis duo in uno igne, si ego dum viverem
+merui de vobis sive multum sive parum quando in mundo altos
+versus scripsi>.  Altos versus vocat librum ^Eneydorum~, in quo
+libro multa ponit de Dyomede et Ulixe, multa dico scilicet mala
+et bona.  Ideo ait: <s'i' meritai di voi assai o poco>.  Dum
+dicit |assai~ tangit bona; dum dicit |poco~ tangit mala.  Secundo
+petit certificari de uno dubio, videlicet de morte ipsius Ulixis. 
+<Non vi movete, ma l'un di voi dica>, -- idest Ulixes, -- <dica
+ove per lui perduto a morir gissi>.  Nam mors Ulixis nunquam
+clare sciri potuit. 
+
+	|85-92.~  Tunc maius cornu illius antique flamme quasi
+murmurando se movit, illo scilicet motu quo flamma movetur a
+vento.  Et de acumine illius flamme sic mote, tanquam de lingua,
+intonuit ista vox: <Quando / mi diparti' da Circe, che sottrasse
+/ me pi@u d'un anno l@a presso a Gaeta>, etc. usque ad finem istius
+cantus.  In qua quidem responsione quinque notabiles ystorie
+continentur.  Prima tangitur ibi: <mi diparti' da Circe che
+sottrasse> / me pi@u d'un anno l@a presso a Gaeta>.  Ubi continetur
+quod Ulixes stetit cum Circe per unum annum et ultra.  Quam
+ystoriam XIIII+o~ libro ^Meth.~ Ovidius fabulose componit, et
+quarto libro ^De Consolatione~ in exemplum Boetius introducit. 
+Est autem ista ystoria: Ulixes enim dum post bellum troyanum per
+mare, propter sacrilegium quod commiserat Palladium de templo
+Palladis auferendo, diutius vagaretur, tandem in Ytaliam, que
+tunc temporis Magna Grecia vocabatur, tempestatibus est iactatus,
+et ad quandam devenit insulam que in mari Campanie sita est inter
+Caietam et Hostia tyberina.  In ista autem insula manebat quedam
+dea nomine Circe, filia solis, que per potiones et carmina suos
+hospites in diversas bestias transmutabat.  Socios etiam ipsius
+Ulixis, quos ipse ad ipsam Circem premiserat, per tales potiones
+et carmina transmutavit.  Mercurius vero, deus prudentie, ipsius
+miseratus florem album donavit eidem, et quomodo potionem
+veneficam vitaret instruxit.  Quamvis autem isti sic quantum ad
+figuram corporis mutarentur, tamen, ut ait Ovidius et Boetius,
+mens humana integre remanebat in eis, exclusa omni sevitia
+bestiali; et istud est quod resonant verba sociorum Ulixis quando
+Eneam instruxerunt ne ad litora Circea aliqualiter propinquaret,
+dicens, ut XIIIIM+ ^Meth.~ scribit Ovidius: 
+
+     Nos quidem Ulixes Circea ad menia misit,
+     Que simul attigimus primoque in limine tecti,
+     Mille lupi mixtique lupis ursique leeque 
+     Occursu fecere metum, sed nulla timenda,
+     Nullaque erat nostro factura in corpore vulnus, 
+     Quin etiam blandas movere per aera caudas 
+     Nostraque adulantes comitant vestigia, etc.
+
+                        {^Met.~ XIV. 253-259 (^adapted~)}
+
+	Hec licet Ovidius inter fabulas suas ponit [^sic~], et
+Boetius in exemplum adducat, non tamen totum creditur fabulosum,
+quin immo est ibi aliquid verum et aliquid fictum.  Verum fuit
+istud quod ista Circe, secundum ystoricam veritatem, fuit quedam
+maga famosissima, ut patet per beatum Ysidorum, que arte magica,
+in qua plurimum docta erat, homines in bestias transmutabat. 
+Fuit enim maga et sacerdos demonum, ut XIIII+o~ libro ^Eth.~
+{actually ^Etym.~ XVIII. xxviii. 2} scribit idem Ysidorus. 
+Fictum vero est istud: Fingitur enim dea propter scientiam magice
+artis et potentiam operandi per eam: Item fingitur fuisse filia
+solis propter miram pulcritudinem qua pollebat; nam adeo fuit
+pulcra quod se respicientes protinus dementabat.  Item quia
+Ulixes per {^Br.~ propter} suam prudentiam potiones ipsius
+precavit, ideo fingitur florem album et instructionem a Mercurio
+accepisse.  Unde Ovidius, ut supra:
+
+     Pacifer huic dederat florem Cillenius album:
+     Mholy vocant superi, nigra radice tenetur;
+     Tutus eo monitisque simul celestibus intrat,
+     Ille domum Circes et ad insidiosa vocatus
+     Pocula conantem virga mulcere capillos
+     Repulit et stricto pavidam deterruit ense.
+     Inde fides dextreque date thalamoque receptus
+     Coniugii dotem sociorum corpora poscit,
+     Spargimur ignote sucis melioribus herbe
+     Percutimurque caput converse verbere virge,
+     Verbaque dicuntur dictis contraria verbis.
+     Quo magis illa canit, magis hoc telluere levati.
+     Erigimur, seteque cadunt, bifidosque reliquit
+     Rima pedes, redeunt humeri et subiecta lacertis
+     Brachia sunt, flentem flentes amplectimur illum
+     Heremusque ducis collo nec verba locuti
+     Ulla priora sumus quam nos restantia gratos.
+     Annua nos illic tenuit mora, etc.
+
+                        {^Met.~ XIV. 291-308}
+
+	Posito tempore quo Ulixes stetit cum Circe, ponitur locus
+in quo ista Circe, solis filia, habitabat, ibi: ^l@a presso a
+Gaeta.~  Ubi considera tu qui legis quod illi qui dicunt quod
+insula in qua habitavit Circe est in Tracia, manifeste illam
+ignorare videntur.  Re vera enim ista insula est in Ytalia, inter
+Caietam et fluvium Tyberinum; que quidem insula hodie dicitur
+Pontium.  Et in litore opposito ipsi insule est quidam mons in
+litore maris qui usque hodie dicitur mons Circinus, et illa
+litora ab antiquis autoribus Circea litora nuncupantur.  Unde
+Virgilius, in septimo libro ^Eneydorum~, ubi ponit sepulturam
+quam fecit Eneas sue nutrici Caiete, quam fecit in illis partibus
+ubi Caieta civitas sita est, in partibus scilicet Campaninis,
+ponit quod iuxta ipsam civitatem litora sunt circea, dicens:
+<Proxima Circee raduntur litora terre> {^Aeneid~ VII. 10}.  Hoc
+est: illa litora Circea sunt proxima terre Gaiete.  Et Ovidius,
+in quarto libro ^Fastorum~, ubi loquitur de Ytalia, quam ponit
+illis temporibus Magnam Greciam vocitatam fuisse, et ad quam
+ponit multos reges et principes adventasse, ponit Circea litora
+in Ytaliam esse, dicens: 
+
+     Ytala nam tellus Grecia maior erat.  
+     Venerat Evander plena cum classe suorum, 
+     Venerat Alcides, Graius uterque genus
+     Hospes Aventinis armenta pavit in herbis 
+     Claviger, et tanto est Albula pota deo 
+     Dux quoque Naritius testes Lestrigones extant 
+     Et quod adhuc Circes nomina litus habet.
+
+                        {^Fast.~ IV. 64-70}
+
+	Et ideo Dantes, qui nullam ystoriam ignoravit, dicit: ^l@a
+presso a Gaeta.~  
+
+	^QUARTA COMPARATIO.~  Iste comparatio est superius
+explanata.
+
+	|93.~  Tertia ystoria tangitur ibi: |Prima che s@i Enea la
+nomasse.~  Dicitur hic in textu quod Ulixes applicuit ad loca ubi
+habitabat Circe, que quidem habitatio est prope Caietam.  Et ista
+applicatio fuit ante quam Eneas illi terre nomen imposuisset. 
+Cuius ystorie veritas ista est: Eneas enim, ut VII libro
+^Eneydorum~ scribit Virgilius, suam nutricem, que vocabatur
+Caieta, in Campania sepelivit, in quadam scilicet civitate, quam
+instaurans et amplificans Caietam a sue nutricis nomine
+appellavit.  Ideo ait autor in textu: |prima che s@i Enea la
+nomasse.~
+
+	Et de hac sepultura et quomodo fuit ipsa contrata ab ipsa
+sepulta denominata, ait Virgilius, libro ut supra:
+
+     Tu quoque litoribus nostris, Enea nutrix,
+     Eternam moriens famam, Caieta, dedisti;
+     Et nunc servat honos sedem tuus, ossaque nomen
+     Experia {^Br.~ Hesperia} in magna, si qua est ea gloria, signat.
+
+                        {^Aeneid~ VII. 1-4}
+
+Et Ovidius, XIIIIM+ ^Meth.~:
+
+     Hic me Caietam note pietatis alumnus,
+     Ereptam argolico quo debuit igne cremavit.
+
+                        {^Met.~ XIV. 443-444}
+
+	|94-99.~  Quarta ystoria tangitur ibi:
+
+     n$e dolcezza di fillio, n$e la pieta
+     del vecchio padre, n$e 'l debito amore
+     il qual dovea Penelope far lieta,
+     vincer poter dentro da me l'ardore
+     ch'i' ebbi a divenir del mondo experto,
+     et de' vitii humani et del valore;
+
+                        (^Inf.~ XXVI. 94-99)
+
+	Hic tangitur magna crudelitas ipsius Ulixis, qua taliter
+plenus fuit, quod illa que ipsum debebant inducere ad gubernandum
+filium parvulum, patrem senem, et uxorem iuvenem atque solam, non
+potuerunt ipsum retrahere a vagabunda inquisitione, qua
+inducebatur investigare mundum et ea que in mundo sunt.  Nam tria
+ponit hic Ulixes que ipsum ex debito rationis cogebant ad suam
+familiam gubernandam: Primum est dulcedo parvuli filii, que ipsum
+gubernare et instruere in arte paterna cogebat.  Secundum est
+pietas quam habere debebat ad senem patrem, quem similiter
+gubernare tanquam bonus filius artabatur.  Tertium est
+matrimonialis amor, qui ipsum astringebat, et casta ipsius uxoris
+dilectio, que ipsum attrahebat ut ad propria remearet, non ut per
+mundum vaganbundus erraret.  Et ista tria allegat sibi Penelope
+in epistola quam ei misit, dicens:
+
+     Est tibi sitque, precor, natus, qui mollibus annis
+     In patrias {^Br.~ primas} artes erudiendus erat.
+
+                         {Ovid, ^Heroides~ I. 111-112}
+
+Secundo allegat pietatem senis patris, dicens:
+
+     Respice Lahertem, ut iam sua lumina condas
+     Extremum fati sustinet ille diem.
+
+                        {^Heroides~ I. 113-114}
+
+Tertio allegat suam iuventutem, suum viduum lectum et suam
+castitatem, dicens de primo:
+
+     Certe ego, que fueram te discedente puella,
+     Protinus ut redeas, facta videbor anus.
+
+                        {^Heroides~ I. 115-116}
+
+De secundo vero:
+
+     Me pater Ycareus viduo discedere lecto
+     Cogit, et immensas increpat ille moras.
+
+                        {^Heroides~ I. 81-82}
+
+De tertio autem:
+
+     Increpat usque licet -- tua sim, tua dicar oportet
+     Penelope coniunx semper Ulixis ero.
+
+                        {^Heroides~ I. 83-84}
+
+In super ista tria etiam duobus versibus comprehendit, dicens:
+
+     Tres sumus imbelles numero, sine viribus uxor,
+     Lahertesque senex, Thelamacusque puer.
+
+                        {^Heroides~ I. 97-98}
+
+Que quidem omnia Dantes tribus rithimis comprehendit, ibi:
+
+     n$e dolcezza di fillio, n$e la piet@a
+     del vecchio padre, n$e 'l debito amore
+     il qual dovea Penolope far lieta.
+
+	|100.~  Quarta ystoria tangitur ibi: |ma misimi per
+l'alto mare aperto~, etc. usque ad finem cantus.  In quibus
+quidem verbis duo breviter ponit ipse Ulixes.  Primum est itinera
+que fecit per mare ab Ytalia usque in occidentem.  Secundum est
+mors ipsius Ulixis.  Que duo videbimus clarius textum breviter
+discurrendo: |ma misimi per l'alto mare aperto.~  Istud mare est
+mare Mediterraneum, super omnia maria navigabile.  Ideo dicit
+|mare aperto.~
+
+	|101-105.~  Hic ponit Ulixes itinera marina que fecit,
+dicens quod istius nostri Mediterranei maris utrunque litus
+aspexit.  Ubi nota quod istud nostrum mare Mediterraneum incipit
+ab occidente et durat usque in Asiam, dividens Affricam ab
+Europa.  Cuius maris dextrum litus continet Greciam Romaniam,
+Apuliam, Tusciam, Marchiam Ianuensem, provinciam Provincie,
+Cataloniam, Yspaniam, et regnum Castelle, in cuius finibus est
+Sobilia.  Litus vero sinistrum continet ex opposito tertiam
+partem mundi, que Libia sive Affrica nominatur, que incipit ab
+Egipto, et durat usque in occidentem; in cuius litoris fine est
+Morroccho.  Inter ista vero duo litora est mare Mediterraneum, in
+quo sunt multe insule atque regna.  Totum igitur istud mare
+navigavit Ulixes postquam superbum, idest altum, cecidit Ylion,
+et spetialiter postquam recessit a Circe, navigavit a Gaieta
+usque ad fauces occidentales.  Ideo ponit confinia sua, dicens:
+
+     L'un lito et l'altro vidi infin la Spagna,
+     fin nel Morrocco.
+
+Ecce posuit litora inter que mare Mediterraneum situm est,
+
+                       et l'isola de' Sardi,
+     et l'altre che quel mare intorno bagna.
+
+Ecce posuit insulas que sunt isto mari undique circundate.
+
+	|106-108.~  Hic dicit Ulixes quod ipse et socii sui,
+quando devenerunt in partibus occidentis, tantum steterant in
+mari post excidium Troie quod iam senes effecti erant.  Ideo
+dicit: |Io e' compagni eravam vecchi.~  Et quia tantum steterant
+in mari, ideo erant debiles atque fessi, ita quod marinos sudores
+pariter et labores sustinere ulterius non valebant.  Ideo dicit:
+|et tardi.~  Qualis autem sit ille exitus per quem de isto mari
+Mediterraneo in mare ingreditur Occeanum, declarat cum subiungit:
+|Quando venimo a quella foce stretta~ / |dov'Ercule segn@o li suo'
+riguardi.~  Ubi duo sunt breviter attendenda: Primum est quod
+istud nostrum mare Mediterraneum est valde longum ab oriente ad
+occidentem, et valde latum inter Affricam et Europam; sed in fine
+sue longitudinis, in partibus videlicet occidentis, de quo in
+magnum mare intrat, est valde strictum.  Ideo dicit in textu: |a
+quella foce stretta.~  Secundum est signa que posuit Hercules in
+illis strictis faucibus ut nullus ulterius navigaret.  Ideo
+dicit: |dov'Ercule segn@o li suoi riguardi.~
+
+	Ystoria ista est: Postquam enim Hercules utrunque litus
+istius maris Mediterranei suis gloriosis victoriis adornavit,
+quia ex parte Yspaniarum, inter alia mirabilia que fecit,
+Gerionem devicit, ut habetur superius, cantu XVII; et ex parte
+Libie, sive Affrice, Anteum devicit, ut habetur infra, cantu
+31+o~, cum devenisset in partibus occidentis ubi sunt ille fauces
+stricte per quas in magnum mare intratur, videns et considerans
+quam sit periculosum ulterius navigare, posuit ibi columnas
+magnas et altas in signum ut nullus ulterius navigaret. 
+
+	|109-111.~  Hic ponit Ulixes confinia illarum faucium sic
+strictarum, dicens quod ex parte Europe est quedam civitas que
+vocatur Sibilia, et ista est in terra firma; et ex alia parte,
+scilicet ex parte Libie, est quedam terra que vocatur Septa; et
+fuit ista Septa antiquitus insula, mari undique circumcincta, que
+alio nomine dicitur Gadis.  Et ista Gadis, ut ait beatus Ysidorus
+XIIIIM+ libro ^Ethimologiarum~ {^Etym.~ XIV. vi. 7}, dirimit
+Affricam ab Europa.  In ista itaque insula posuit Hercules
+columnas mirabiles et insignes, ut navigantes ab oriente in
+occidentem ulterius non transirent.  Erat autem antiquitus
+proxima terra CXX passibus separata, nunc vero cum terra firma
+coniuncta, quam Tyrii, de mari Rubro profecti, occupantes in
+lingua sua Gadis, idest Septam, nominaverunt pro eo quod mari
+esset undique circunsepta.  Fuit autem insula fructibus et
+spetiebus ditans multas partes mundi, et precipue occidentis.
+
+	|112-120.~  Hic facit Ulixes unam pulcram orationem suis
+sociis atque nautis, videns eos ex preteritis laboribus valde
+fessos, et ex futuris periculis timidos et prostratos; in qua
+quidem oratione tria facit: Primo captat isporum benivolentiam;
+secundo commendat i{*ps*}orum constantiam; tertio inducit ipsos
+ad perseverantiam.  Primum ibi: ^O frati.~  Licet enim esset rex
+ipsorum et dominus, non tamen vocavit eos milites vel clientes,
+sed fratres.  Ista est enim proprietas boni ducis, tractare
+milites atque servos non ut minores sed ut equales; et istum
+morem Romani imperatores et principes antiquitus servaverunt. 
+Nam semper suos milites sive servos vocabant aut conmilitones,
+aut socios sive fratres.  Unde Macrobius, in libro ^De
+Saturnalibus~, dicit quod antiqui Romani, volentes omnem invidiam
+et omnem contumeliam a servis protinus removere, dominum patrem
+familias, servos vero familiares appellari sanxerunt.  Et subdit
+idem Macrobius: <Colant te potius servi tui, michi crede, quam
+timeant> {Macrobius, ^Sat.~ I. xi. 12}.  Secundum ibi: |che per
+cento milia perigli~ -- idest pericula-- |siete giunti a
+l'occidente.~  Hic commendat Ulixes suorum constantiam sociorum,
+qui ab Asia usque in Yspaniam per decem annos in mari errantes,
+tot et tanta pericula tam magnanimiter et tam viriliter
+sustinuerunt.  Et hec est proprietas boni ducis, commendare in
+suis militibus bene facta preterita, ut eos acuat ad futura;
+sicut primo libro ^Eneydorum~ scribit Virgilius de Enea, qui
+videns fessos socios suos propter marina pericula et labores ait
+eis:
+
+     <O socii (neque enim ignari sumus ante malorum),
+     O passi graviora, dabit deus his quoque finem.
+
+     Mittite; forsan et hec olim meminisse iuvabit.
+     Per varios casus, per tot discrimina rerum
+     Tendimus in Latium, sedes ubi fata quietas
+     Ostendunt. ...     
+     Durate [o socii] et vosmet rebus servate secundis>.
+
+                        {^Aeneid~ I. 198-199; 203-207}
+
+	Tertium ibi: |a questa tanto picciola vigilia.~  Hic alto
+consilio et subtili ingenio ostendit Ulixes quod omnes labores
+qui assummuntur in vita nichil quasi sunt respectu premii quod
+homo de benefactis operibus recipit post hanc vitam.  Nam quanta
+differentia est inter vigiliam et festum, tanta nempe est inter
+premium et laborem.  Ideo Ulixes laborem appellat vigiliam,
+premium vero festum.  Idcirco subiungit interrogative more
+oratorio exclamando: |de' nostri sensi ch'@e di rimanente?~, hoc
+est quid remanet de nostris sensibus --  subaudi corpore mortuo
+-- quasi dicat ^nichil.~  Re vera enim, nichil remanet de homine
+{^Br.~ corpore} mortuo nisi gloriose memorie virtutum et factorum
+quibus refulsit in vita; quibus memoriis vivit etiam corpore
+mortuo et sepulto.  Ideo bene ait autori superius Ser Brunettus,
+cantu scilicet XV {*vv. 119-120*}: <Siati raccomandato 'l mio
+tesoro, nel qual'i' vivo ancora>.  Et Lutius Martius dixit
+Romanis qui plorabant in Yspania duos mortuos Scipiones, sicut
+scribit Titus Livius ^De Secundo Bello Punico~, libro V: <Nolite
+lamentis lacrimisque plorare principes nostros tanquam mortuos et
+extinctos.  Vivunt enim, viventque fama rerum gestarum> {cf. ^Ab
+Urbe Condita~ Lib. XXV. 38. 8}.  Ideo sequitur in textu:
+
+     non vogliate negar l'experienza
+     di dietr'al sol, del mondo sanza gente.
+
+	Ista clausula sive punctus sic intelligi debet: O fratres
+qui per centum milia pericula ab oriente venistis in occidentem
+ut mundum scrutari possetis, cum modicum supersit nolite in fine
+deficere, ad hoc ut post mortem vestram possitis vivere per
+gloriosas memorias inter gentes.  Quia si transibitis istas fauces
+quas nec Hercules nec aliquis alius, quantumcumque fuerit audax,
+transire tentavit, dabitis mundo notitiam de illa terra que usque
+hodie incognita mundo fuit.  Ideoque nolite negare experientiam,
+idest facite ut experti sitis istius modice partis mundi que
+nobis videre nunc restat.  Sequamur igitur cursum solis, qui ab
+oriente in occidentem labitur.  Exeamus ergo fauces ab Hercule
+consignatas, et simus maioris audacie quam fuerit ille, ut
+maiorem famam et nomen nobis vendicare possimus.  Nam sol, qui nos
+suo lumine antecedit, faciet nobis viam.  Et ut magis eos acueret
+immediate subiungit:
+
+     Considerate la vostra semenza;
+     fatti non fosti a viver come bruti,
+     ma per seguir virtute et canoscenza.
+
+	Quasi dicat Ulixes: Non enim deficit anima hominis
+corpore mortuo, sicut deficit anima cuiuslibet alterius animalis. 
+Et ideo quia vivit, facite ut, mortuo corpore, vestre anime per
+gloriosa et memoranda facta in mentibus hominum semper vivant. 
+Considerate itaque quod ipse vestre anime fuerunt a deo creatore
+in vestris corporibus seminate ut in ipsis corporibus, tanquam
+semen in bona terra, fructum laudabilem faciant et producant. 
+Nam, sicut granum frumenti et quodlibet aliud semen habet in se
+vitam, quia habet potentiam germinandi, licet palea ex qua ortum
+est sit sicca vel ab animali comesta vel igne cremata, sic anima
+hominis, licet suum corpus sit mortuum, habet nichilominus in se
+vitam.  Ideo ait Ulixes: |Considerate la vostra semenza~, idest
+considerate vestras animas, que ut facerent fructum fuerunt in
+vestris corporibus seminate.  Et ad designandum differentiam
+inter animas nostras et animas brutorum animalium subiungit ipse
+Ulixes: |facti non fosti a viver come bruti.~  Animalia enim
+bruta facta sunt ab ipsa natura ut colant terram, homo vero ut
+colat celum.  Idcirco ipsa natura omnia animalia fecit ad terram
+prona pariter atque curva, hominem vero erectum ad sydera.  Unde
+Ovidius, primo libro ^Meth.~:
+
+     Pronaque cum spectent animalia singula terram,
+     Os homini sublime dedit celumque videre
+     Iussit, et erectos ad sidera tollere vultus.
+
+                        {^Met.~ I. 84-86}
+
+	Et quidam philosophus nomine Secundus, interrogatus ab
+Adriano imperatore ad quid factus fuerit homo, respondit: <Ad
+contemplandum celum et celi lumina>.  Legitur etiam de Empedocle
+philosopho quod cum interrogatus fuisset ad quid viveret, ait:
+<Vivo ut astra aspiciam.  Celum subtrahe, nichil ero>.  Ideo bene
+dicit Ulixes:
+
+     facti non fosti a viver come bruti,
+     ma per seguir virtude et canoscenza -- idest intelligentiam.
+
+	^QUARTUM NOTABILE~ {*vv. 118-120*}.  Lictera plana est,
+et nichilominus superius exarata. 
+
+	|121-123.~  Ecce quantam valuit oratio disertissimi
+oratoris Ulixis.
+
+	|124.  Et volta nostra poppa nel matino.~  Hic ponit
+Ulixes horam quando fauces strictas Sobilie pertransivit, quia
+hora matutinali.
+
+	|125.  De' remi facemo ale al folle volo.~  Bene dicit
+alas, quia sicut ale in avibus, ita remi in navibus; nam sicut
+avis volat cum alis, ita navis cum remis.  Unde versus:
+
+     More volantis avis, volat alta per equora navis.
+
+	|127-129.  Tutte le stelle gi@a dell'alto polo.~  Nota
+quod duo sunt poli in celo super quos volvitur totum celum: unus
+dicitur articus, qui semper apparet; alter vero dicitur
+antarticus, qui a nobis videri non potest, quia est ex opposito
+artici, qui articus vulgo dicitur <tramontana>.  Tramontana autem
+semper est super caput nostrum, et idcirco cum alius polus sit
+australis et semper sit ex opposito tramontane, nullo modo potest
+videri, quia sub pedibus nostris est.  Potest autem videri in
+duabus partibus orbis, videlicet ex ipsa parte australi, vel ex
+paradiso terrestri.  Nam pars australis est subiecta ipsi polo
+antartico, sicut septentrionalis pars in qua habitamus subiecta
+est artico, et ideo ex ipsa parte australi potest videri.  Sed
+sicut dicunt philosophi, illa pars australis est ita calida quia
+propinqua et vicina soli, quod illuc pergi non potest nisi
+fabulose.  Ideo de illa parte mundi nulla nova habemus per veras
+ystorias, sed solum per fabulosa figmenta.  Et isto modo autor in
+parte ista fabulatur tam de illa patria quam de morte ipsius
+Ulixis.  Potest etiam videri ille polus antarticus de monte
+paradisi.  Et ratio est ista: Ille enim mons supereminet omnibus
+montibus mundi, usque ad globum lunarem attingens.  Et ideo est
+tante altitudinis, quod gibbositas ipsa mundi que nos impedit ne
+illum polum videre possimus, est subiecta pedibus dicti montis. 
+Nec etiam ad hunc montem, propter peccatum primi hominis, est
+accessus.  Et quia de isto monte potest polus antarticus videri,
+ideo autor fingit in secunda cantica, cantu primo, illum polum
+antarticum se vidisse.
+
+	|130-132.~  Modo dicit Ulixes quanto tempore navigavit
+per illud mare per quod nullus unquam fuerat ausus navigare.  Et
+dicit quod stetit ibi quinque mensibus.  Ideo dicit: Quinquies
+accensum et totidem extinctum erat lumen lune de subter.  De
+subter dicit quia tantum per illud occeanum navigavit quod ad
+polum antarticum, quod est oppositum nostro artico,
+appropinquavit.  Et ideo illud mare est subter nos. 
+
+	|133-135.~  Et nunc apparuit illi quidam mons tante
+altitudinis, quante nunquam in nostro mundo habitabili
+circunspexit.  Ideo ait Ulixes in textu:
+
+     quando ci apparve una montagna, bruna
+     per la distantia, et parvem'alta tanto
+     quanto veduta non ave' alcuna.
+
+	Que autem terra sit ista quam a longe in plaga meridiana
+vidit Ulixes non bene sciri potest, quia de illa terra nulla vera
+ystoria reperitur; tum quia nullus unquam de illis partibus ad
+nos venit, nec de nobis unquam illuc ivit qui ad nos postea sit
+reversus.  Tamen beatus Ysidorus dicit, XIIII+o~ libro ^Eth.~,
+quod extra tres partes orbis, Asiam scilicet, Affricam et
+Europam, quarta pars transocceanum interior est in meridie, que
+propter solis ardorem incognita nobis est, in cuius finibus
+anthipodas fabulose inhabitare produntur.  Anthipode autem
+dicuntur homines qui subter nos habitare fabulose finguntur, qui
+tenent plantas contrarias nostris plantis.
+
+	|136-142.~  Hanc itaque terram a longe vidit Ulixes, quam
+ut vidit, mirabili gaudio exultavit.  Sed quia, iuxta Salomonem,
+extrema gaudii luctus occupat, ecce de nova terra unus turbo
+subito ortus est.  Est autem turbo quidam ventus tempestuosus et
+tortuosus qui nubes in aere, pulverem in terra, et aquas in mari
+in giro et circuitu circungirat et volvit; qui turbo cum magno
+impetu primam partem navis Ulixis, idest proram, rotando
+percussit.  Et sic triplici rotatu, ipsam girans in quarto
+circuitu et rotatu puppim sullevans et proram inclinans, ipsam
+fecit ab aquarum voraginibus deglutiri.  Simile narrat Virgilius
+de una navium Enee, que ter a fluctibus revoluta pariter et
+girata tandem ab aquarum fuit voragine deglutita.  Unde primo
+^Eneydorum~:
+
+                                Illam ter fluctus ibidem
+     Torquet agens circum et rapidus vorat equore vortex.
+
+                        {^Aeneid~ I. 116-117}
+

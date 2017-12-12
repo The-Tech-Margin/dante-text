@@ -1,0 +1,123 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from dartvax by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15206; Sun, 14 Aug 1994 17:01:15 -0400
+Received: from Princeton.EDU by dartvax.dartmouth.edu (8.6.8.1+DND/4.6HUB)
+	id RAA01779; Sun, 14 Aug 1994 17:01:15 -0400
+Received: from ponyexpress.Princeton.EDU by Princeton.EDU (5.65b/2.111/princeton)
+	id AA06012; Sun, 14 Aug 94 16:58:26 -0400
+Received: from tucson.Princeton.EDU by ponyexpress.princeton.edu (5.65c/1.4/newPE)
+	id AA21227; Sun, 14 Aug 1994 16:58:26 -0400
+Received: by tucson.Princeton.EDU (4.1/Phoenix_Cluster_Client)
+	id AA15598; Sun, 14 Aug 94 16:58:25 EDT
+Message-Id: <9408142058.AA15598@tucson.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert Hollander)
+Date: Sun, 14 Aug 1994 16:58:25 EDT
+X-Mailer: Mail User's Shell (7.2.2 3/2/90)
+To: Steve.Campbell@Dartmouth.EDU
+
+	   CHANGES NECESSARY IN BOCCACCIO'S COMMENTARY
+
+			(RH 8-14-94)
+
+NB: We need to rename some of the docs. in ALL of Boccaccio.  I
+provide the following guide.  Note that this will end up
+renumbering the docs., as we need to add a few (made up of
+elements drawn from exisiting docs. into a new doc. [these are
+marked by asterisk]) and combine a few existing ones [these are
+set off as separate "paragraphs" -- see 55 and 56, below].  I
+hope all this will be VERY clear.
+
+doc. #	current heading		new heading
+
+1	Nota			|Accessus~
+2	^Inf.~ Nota		^Inf.~ |Proemio~
+3	^Inf.~ 1. Nota		^Inf.~ 1 |Proemio~
+54	^Inf.~ 1. Nota		^Inf.~ 1 Index to espos. alleg.
+
+55	^Inf.~ 1. Nota >>
+	   JOIN 55 & 56 as 	^Inf.~ 1 |Proemio~ to espos. alleg.
+56	^Inf.~ 1. Nota >>
+
+57	^Inf.~ 1.10-12 >>
+	   JOIN 57 & 58 as 	^Inf.~ 1.10-12 (espos. alleg.)
+58	^Inf.~ 1. Nota >>
+
+59	^Inf.~ 1.3		^Inf.~ 1.3 (espos. alleg.)
+60	^Inf.~ 1. Nota		^Inf.~ 1.2 (espos. alleg.)
+   {NB: STEVE, here don't worry about the out of order numeration!}
+61-68	add "(espos. alleg.)" after line number, as above in ##59, 60
+69	^Inf.~ 2. Nota		^Inf.~ 2 |Proemio~
+128	^Inf.~ 2. Nota		^Inf.~ 2 Index to espos. alleg.
+129	^Inf.~ 2. Nota		^Inf.~ 2 |Proemio~ to espos. alleg.
+130-132 add "(espos. alleg.)" after line number, as above in ##59, 60
+133	^Inf.~ 3. Nota		^Inf.~ 3 |Proemio~
+188	^Inf.~ 3. Nota		^Inf.~ 3 Index to espos. alleg.
+189	^Inf.~ 3. Nota		^Inf.~ 3 |Proemio~ to espos. alleg.
+190-193 add "(espos. alleg.)" after number, as above in ##59, 60
+194	^Inf.~ 4. Nota		^Inf.~ 4 |Proemio~
+*270	^Inf.~ 4 last lines	separate T. of C. from text and make
+	new document of it (with its own number)
+"270a"				^Inf.~ 4 Index to espos. alleg.
+271	^Inf.~ 4. Nota		^Inf.~ 4 |Proemio~ to espos. alleg.
+273	^Inf.~ 4. Nota		^Inf.~ 4.35-36 (espos. alleg.)
+
+275	^Inf.~ 4. Nota >>
+	   JOIN	
+276	^Inf.~ 4. Nota >> as	Inf. 4.37-38 (espos. alleg.)
+	   JOIN
+277	^Inf.~ 4. Nota >>
+
+272, 274, 278, 279: add "(espos. alleg.)" after number (see 273)
+
+280-297: these entries repeat earlier ones: DELETE ALL OF THEM
+
+298	^Inf.~ 5. Nota		^Inf.~ 5 |Proemio~
+*352	^Inf.~ 5. last lines	separate T. of C. from text and make
+	new document of it (with its own number)
+"352a"				^Inf.~ 5 Index to espos. alleg.
+353	^Inf.~ 5. Nota		^Inf.~ 5 |Proemio~ to espos. alleg.
+354,355: add "(espos. alleg.)" after line number (see, e.g., 273)
+356	^Inf.~ 6. Nota		^Inf.~ 6 |Proemio~
+397	^Inf.~ 6. Nota		^Inf.~ 6 Index to espos. alleg.
+398	^Inf.~ 6. Nota		^Inf.~ 6 |Proemio~ to espos. alleg.
+399-404: add "(espos. alleg.)" after line number (see, e.g., 273)
+405	^Inf.~ 7. Nota		^Inf.~ 7 |Proemio~
+*453	^Inf.~ 7. last lines	separate T. of C. from text and make
+	new document of it (with its own number)
+"453a"				^Inf.~ 7 Index to espos. alleg.
+454	^Inf.~ 7. Nota		^Inf.~ 7 |Proemio~ to espos. alleg.
+455	^Inf.~ 7.1-15		^Inf.~ 7.1-15 (espos. alleg.)
+
+456	^Inf.~ 7. Nota >>
+	   JOIN			^Inf.~ 7.25-35 (espos. alleg.)
+457	^Inf.~ 7. Nota >>
+
+458-461: [1~add "(espos. alleg.)ter line number (see, e.g., 273)
+462	^Inf.~ 8. Nota		^Inf.~ 8 |Proemio~
+512	^Inf.~ 8. Nota		^Inf.~ 8 Index to espos. alleg.
+513	^Inf.~ 8. Nota		^Inf.~ 8 |Proemio~ to espos. alleg.
+514-517: add "(espos. alleg.)" after line number (see, e.g., 273)
+518	^Inf.~ 9. Nota		^Inf.~ 9 |Proemio~
+567	^Inf.~ 9. Nota		^Inf.~ 9 Index to espos. alleg.
+568	^Inf.~ 9. Nota		^Inf.~ 9 |Proemio~ to espos. alleg.
+569-572: add "(espos. alleg.)" after line number (see, e.g., 273)
+573	^Inf.~ 10. Nota		^Inf.~ 10 |Proemio~
+618	^Inf.~ 11. Nota		^Inf.~ 11 |Proemio~
+653	^Inf.~ 12. Nota		^Inf.~ 12 |Proemio~
+706	^Inf.~ 12. Nota		^Inf.~ 12 Index to espos. alleg.
+707	^Inf.~ 12. Nota		^Inf.~ 12 |Proemio~ to espos. alleg.
+708-709: add "(espos. alleg.)" after number (see, e.g., 273)
+710	^Inf.~ 13. Nota		^Inf.~ 13 |Proemio~
+756	^Inf.~ 13. Nota		^Inf.~ 13 Index to espos. alleg.
+757	^Inf.~ 13. Nota		^Inf.~ 13 |Proemio~ to espos. alleg.
+758	^Inf.~ 13. Nota		^Inf.~ 13.4-6 (espos. alleg.)
+759-761: add "(espos. alleg.)" after number (see, e.g., 758)
+762	^Inf.~ 14. Nota		^Inf.~ 14 |Proemio~
+*804    ^Inf.~ 14 last lines	separate T. of C. from text and make
+	new document of it (with its own number)
+"804a"				^Inf.~ 14 Index to espos. alleg.
+805	^Inf.~ 14. Nota		^Inf.~ 14 |Proemio~ to espos. alleg.
+806-807: add "(espos. alleg.)" after line number (see, e.g., 758)
+808	^Inf.~ 15. Nota		^Inf.~ 15 |Proemio~
+808	^Inf.~ 16. Nota		^Inf.~ 16 |Proemio~
+808	^Inf.~ 17. Nota		^Inf.~ 17 |Proemio~

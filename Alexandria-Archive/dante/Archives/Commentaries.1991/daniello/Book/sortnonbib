@@ -1,0 +1,3 @@
+#! /bin/sh
+set -x
+sort +0 -2 +2n -3 +3n -4 inf/nonbib.cit purg/nonbib.cit para/nonbib.cit > nonbib.cit

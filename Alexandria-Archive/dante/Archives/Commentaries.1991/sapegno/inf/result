@@ -1,0 +1,351 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Sapegno
+	Language   = Italian
+	Pub. Year  = 1957
+	Cantica    = 10-Inferno
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/inf/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58308 Apr 19 14:12 ../staging/inf/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/inf/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46446 Apr 19 14:12 ../staging/inf/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.e into ../staging/inf/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43866 Apr 19 14:12 ../staging/inf/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.e into ../staging/inf/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47641 Apr 19 14:13 ../staging/inf/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.e into ../staging/inf/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       58097 Apr 19 14:13 ../staging/inf/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.e into ../staging/inf/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38028 Apr 19 14:13 ../staging/inf/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.e into ../staging/inf/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45507 Apr 19 14:14 ../staging/inf/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.e into ../staging/inf/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43306 Apr 19 14:15 ../staging/inf/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.e into ../staging/inf/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39182 Apr 19 14:15 ../staging/inf/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.e into ../staging/inf/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       54409 Apr 19 14:16 ../staging/inf/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.e into ../staging/inf/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34570 Apr 19 14:17 ../staging/inf/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.e into ../staging/inf/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42225 Apr 19 14:17 ../staging/inf/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.e into ../staging/inf/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48863 Apr 19 14:18 ../staging/inf/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.e into ../staging/inf/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40348 Apr 19 14:18 ../staging/inf/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.e into ../staging/inf/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       44743 Apr 19 14:19 ../staging/inf/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.e into ../staging/inf/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40075 Apr 19 14:19 ../staging/inf/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.e into ../staging/inf/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       46912 Apr 19 14:20 ../staging/inf/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.e into ../staging/inf/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36218 Apr 19 14:21 ../staging/inf/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.e into ../staging/inf/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43749 Apr 19 14:21 ../staging/inf/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.e into ../staging/inf/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35714 Apr 19 14:22 ../staging/inf/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.e into ../staging/inf/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40142 Apr 19 14:22 ../staging/inf/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.e into ../staging/inf/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36350 Apr 19 14:22 ../staging/inf/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.e into ../staging/inf/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42222 Apr 19 14:23 ../staging/inf/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.e into ../staging/inf/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       48148 Apr 19 14:23 ../staging/inf/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.e into ../staging/inf/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36201 Apr 19 14:23 ../staging/inf/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.e into ../staging/inf/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47221 Apr 19 14:24 ../staging/inf/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.e into ../staging/inf/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       42060 Apr 19 14:25 ../staging/inf/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.e into ../staging/inf/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45180 Apr 19 14:25 ../staging/inf/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.e into ../staging/inf/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40027 Apr 19 14:26 ../staging/inf/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.e into ../staging/inf/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37798 Apr 19 14:26 ../staging/inf/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.e into ../staging/inf/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       29960 Apr 19 14:27 ../staging/inf/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.e into ../staging/inf/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       45046 Apr 19 14:28 ../staging/inf/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.e into ../staging/inf/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       38028 Apr 19 14:28 ../staging/inf/33
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 34.e into ../staging/inf/34.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Sapegno...
+Verifying Sapegno...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33544 Apr 19 14:29 ../staging/inf/34

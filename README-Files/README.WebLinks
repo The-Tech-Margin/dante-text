@@ -1,0 +1,21 @@
+This README describes how to hand code a URL in commentary text so that
+when the resulting HTML is rendered by the browser, the URL becomes a
+hot link, i.e. the reader can click on the link and go to the specified
+website. (In some future version of the DDP, we should define a macro
+or some other mechanism so that this encoding does not have to be done
+manually.)
+
+The escaping with the backslash character (\) and doubling of quotation
+marks (") is required in order for the encoding of the link to be processed
+by the ddp2html script and come out as correct HTML.
+
+If LINK represents a some valid URL, then the link should be encoded as:
+
+\<a href=\"\"LINK\"\"\>LINK\</a\>
+
+For example if LINK were http://dante.dartmouth.edu, the encoded link would
+be:
+
+\<a href=\"\"http://dante.dartmouth.EDU\"\"\>http://dante.dartmouth.EDU\</a\>
+
+STC, January 2011

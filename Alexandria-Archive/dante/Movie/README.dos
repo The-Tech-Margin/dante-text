@@ -1,0 +1,26 @@
+This disk contains programs and data needed to run a "movie" of a session
+of the Dartmouth Dante Project (DDP).
+
+The disk contains a bootable version of DOS.  It includes the ANSI.SYS
+driver for implementing ANSI screen functions.
+
+The SHOW program is included in C source and in executable form.  The
+executable form is all that you should need;  the C source is included for
+completeness.
+
+The file MOVIE is the data file that contains the DDP session.
+
+USAGE:
+
+Place this diskette in the computer's A drive and boot the machine.  When
+you receive the a> prompt, type the command:
+
+SHOW MOVIE
+
+The SHOW command displays the session movie, one piece at a time.  A
+"piece" is a screen of output or a response that the user would type.
+After each piece of the session is typed, the SHOW command pauses and waits
+for you to type any character.  The character you type is discarded and the
+next piece of the movie is displayed.  To stop the program, type CONTROL-C.
+
+NOTE: It is not possible to back up.  

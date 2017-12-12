@@ -1,0 +1,8 @@
+create index ddp_text_idx
+on ddp_text_tab(text)
+indextype is ctxsys.context
+parameters ('lexer global_lexer
+             language column text_language
+             filter ctxsys.null_filter')
+
+/

@@ -1,0 +1,5 @@
+ignore received status via message-id date sent-by sender
+set quiet crt=18 ask metoo
+alternates dante@dartmouth dante@u2 dante@baker
+alias staff dantisti
+alias smurthwa smurthwai%uhavax.decnet@uhasun.hartford.edu

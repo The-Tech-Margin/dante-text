@@ -1,0 +1,308 @@
+	|1-9.~  [c.159v]|~ Ha narrato de' suberbi: Hora perch$e dalla superbia 
+oltra agl'altri infiniti vitii procede el tradimento expone in questo 
+canto la pena de' traditori: e' quali si dividono in quattro parti: et 
+el primo @e di quegli che hanno usato tradimento inverso de' parenti: 
+Questi pone nel ghiaccio: perch$e sono al tutto privati d'ogni ardore 
+di carit@a: Et chome questa virt@u perch$e @e pi@u accepta a Dio: che 
+alchuna altra: pi@u apresso allui nel sommo cielo @e collocata 
+nell'ordine de' seraphini: chos@i questo vitio debba essere nel luogo 
+pi@u rimoto et basso essendo contrario.  @E la carit@a nella somma // 
+c.160r alteza et nel sommo ardore: Il perch$e sar@a il tradimento 
+contrario a quella nell'infima basseza: et nel sommo gielo: ^Ubi est 
+fletus et stridor dentium~: lo stridore de' denti dinota el freddo: et 
+Cocyto dinota el pianto: perch$e ^cocyzin~ in greco significa piangere. 
+ Adunque havendo l'auctore a dar principio alla narratione delle chose 
+che truova nel nono cerchio: perch$e la gravit@a del vitio le fa 
+difficili et quasi indicibili: per@o prende scusa et dimostra s@e 
+essere insofficiente ad tanta materia: le quali parole fanno l'auditore 
+attento: Di poi invoca l'aiuto delle Muse accioch$e quello che non pu@o 
+per s$e medesimo possa per l'aiuto di quelle.  |Se io havessi le rime~: 
+e' versi e' quali sono in rima.  |Aspre et ghioccie~: La vera laude del 
+poeta @e che 'l verso sia accomodato alla materia: perch$e non 
+solamente s'appartiene allui a narrare: ma debba quasi dipignere con le 
+parole la chosa in forma che la facci apparire agl'occhi della mente 
+chome quelle chose che si veggono con gl'occhi corporali.  Onde molti 
+hanno diffinito poesia essere una vana pictura che parli.  Il che 
+maximamente si conosce in Virgilio.: Per la qual chosa poich$e lui ha 
+atractare delle chose horrende et terribili et aspre che sono in questo 
+ultimo cerchio conosce che si richiede rime cio@e versi aspri et 
+chiocci: cio@e rochi pe' quali si dimostra merore et tristitia: che 
+chos@i si conviene al tristo buco: A questo ultimo cerchio el quale @e 
+un buco nel centro della terra.  |Sopra 'l qual pontano~: cio@e 
+s'appoggiano et priemono tutte l'altre roccie: tutti gl'altri saxi del 
+vallone et cerchi gi@a decti di sopra perch$e tutti e' pesi d'ogni 
+corpo tondo pontono nel centro chome nel luogo pi@u basso.  O veramente 
+se vogliamo roccie per bructure: et bructure per vitio diremo che in su 
+questo cerchio che @e la superbia pontono tutti e' vitii.  Imper@o che 
+la superbia @e radice di tutti.  |Io premerei di mio concepto el 
+sucho~: prima che alchuno scriva pensa sempre quello che vuole scrivere 
+et poich$e ha facto sua inventione lui comincia a scriverla.  Adunque 
+la mente concepe in s$e chome verbi gratia una barba ha conceputo in 
+s$e el suo sugo Di poi si chome @e necessario a volere che 'l sugo esca 
+di fuori che premiamo l'herva chos@i quando con le parole manifestiamo 
+quello che gi@a habbiamo conceputo nella mente @e quasi priemere el 
+sugo di quello che habbiamo conceputo.  La sententia @e se io havessi 
+e' versi convenienti alla materia io exprimerei pi@u pienamente el mio 
+concepto.  Ma perch'io non l'ho non mi conduco sanza timore a dire Et 
+la cagione perch$e non si conduce a dire sanza timore @e che volere 
+tractare tale materia |non @e impresa da piglare a gabbo~ cio@e a 
+scherzo et a giuocho volere |scrivere fondo~ cio@e obscuramente |a 
+tucto l'universo~ a tucti gl'huomini.  Et di poi perch$e la lingua 
+fiorentina nella quale lui scrive difficilmente @e intesa fuori 
+d'Italia dove si dice babbo o mamma per@o agiugne o lingua che 
+chiamassi babbo o mamma ^id est~ la lingua italicha.  Imper@o che in 
+tutta Italia @e una sola lingua: Ma @e divisa in molte propriet@a 
+perch$e ciaschuna regione ha la sua Et queste propriet@a in greco si 
+chiamono ^idiomati~.  E' latini non hanno idioma alchuno: perch$e la 
+lingua latina essendo ^latio~ piccolo tracto non varia in nessuna 
+chosa.  Ma la greca perch$e si distende in molte regioni ha molte 
+propriet@a chome a dire idioma actico.  eolico.  dorico.  ionico et 
+simili.
+|10-15.~  Poich$e per la impotentia: ha dimostro la grandeza della 
+materia hora da speranza che bench$e per s$e non sia sofficiente a s@i 
+gran chosa pure lo potr@a fare con l'aiuto delle Muse le quale invoca: 
+Delle Muse et della cagione perch$e e' poeti le invochino scrivemmo di 
+sopra nel secondo canto |Ma quelle donne~ cio@e le Muse le quali 
+aiutoron |a Amphione a chiuder Tebe~: a fare le mura di Tebe sieno 
+quelle che aiutino el mio verso in forma che le parole mie 
+corrispondino al facto et quello pienamente exprimino.  Antiope 
+concep@e di Iove tre figluoli secondo Homero: Amphione Zeto et Calai.  
+Amphione con sua dolcie musica tyrava ad s$e le pietre et quelle fece 
+in forma accozarsi che feciono le mura di Tebe il che non significa 
+altro se non che lui con sua prudentia et suavissima eloquentia pot@e 
+conducere gl'huomini di quella regione che habitavono sparsi pe' campi 
+et per le selve ad habitare civilmente in una medesima citt@a.  |O 
+sopra tucto~ dopo la invocatione perch$e la narratione habbia 
+conveniente gravit@a comincia dalla exalamatione la qual da sempre 
+gravita al parlare dicendo.  |O plebe~.  o gente vile: Imper@o che non 
+pu@o essere gentileza o nobilit@a ne' vitiosi perch$e.  ^Nobilitas una 
+atque unica virtus~: chome dice Iuvenale.  |O plebe mal creata~: 
+infelicemente creata sopra tucti gl'altri huomini ^etiam~ sopra a 
+quegli che sono negl'altri cerchi la quale stai nel luogho onde ^id 
+est~ del quale me duro cio@e difficile el parlare.  |Ma fuste pecore o 
+zebe~: pecore o capre o altri animali bruti: accioch$e l'anima fussi 
+stata mortale: perch$e non s'arresti in queste eterne pene chiam@o le 
+capre zebe: perch$e chos@i le chiamano e' pastori nostri.
+
+	|16-24.~  Giunti nel pozo si trovorono pi@u bassi che e' piedi del 
+gigante: Et Danthe perch$e era attento a guardare in s@u l'alteza del 
+muro che cigneva questo nono cerchio non si vedea che era in uno // 
+c.160v lagho ghiacciato.  Ma nel passare ud@i un che dixe / guarda che 
+tu non calchi che tu non calpesti |le teste de' miseri frategli~: cio@e 
+di questi e' quali ti son frategli quanto alla generatione: et sono 
+miseri per la pena che patiscono in questo ghiaccio.  Hora per 
+intendere a punto la fictione del poeta questo nono cerchio si divide 
+in quattro in forma che el primo @e pi@u amplo: et abbraccia el secondo 
+et el secondo el terzo: et el terzo el quarto: et a questo modo sempre 
+el pi@u in dentro ha men circuito et pi@u scende inverso el centro 
+bench$e non vi sia distinctione.  El primo che @e pi@u presso al muro 
+et @e pi@u largho @e decto la Cayna: et la cagione di sobto ci sar@a 
+nota: El secondo Antenora.  El terzo Ptolomea.  El quarto Giudeccha.  
+Et se sobtilmente speculeremo queste spetie di tradimenti / vederemo 
+che vi si contiene non solo superbia: ma anchora invidia: della quale 
+non ha nominatamente tractato: perch$e epsa @e tale che si trasfonde in 
+varii vitii: Et perch$e questa invidia viene da superbia: El primo 
+superbo et invido fu Lucifero: Et perch$e la fraude commessa in chi si 
+fida: et chiamasi tradimento @e da superbia et da invidia per@o si 
+punisce qui.  Et se @e tra' congiunti di sangue si punisce nel primo 
+cerchio el quale @e decto Cayna da Cain el quale per invidia uccise 
+Abel suo fratello: et @e contro alla fede naturale: Et se @e contro 
+alla patria dove @e congiunctione di generatione @e peggio perch$e @e 
+contro a pi@u si punisce nel secondo et chiamasi Antenora.  O veramente 
+si rompe la fede data all'amico: Et questo in due modi o contro a 
+quello el quale habbiamo fedocto a darci con beneficii: et allhora @e 
+el terzo grado: et questo @e peggior che 'l secondo: perch$e @e fede 
+non solamente data: ma meritata: et puniscesi nel terzo chiamato 
+Ptolomea da Pt[o]lomeo el qual convit@o e' sacerdoti et uccisegli nel 
+convito.  O si commecte nell'amico benefactore: el qual grado @e 
+peggiore che gl'altri et questo @e el quarto grado: Et questo quarto 
+grado @e peggiore perch$e @e ingratitudine: Et chiamasi Giudeccha da 
+Iuda Scarioth: el quale trad@i l'humanit@a di Christo: Et nel centro di 
+questo pozo chome in luogho pi@u rimosso dal cielo si punisce Lucifero: 
+perch$e el suo delicto @e sopra tutti gl'altri.
+
+	|25-36.~  Era s@i grosso quel ghiaccio che la Danoia in Osterichi.  
+N$e el Tanai ghiaccia s@i forte.  Osterichi @e la pi@u fredda parte del 
+Lamagna et in latino @e decta Austria per la quale passa la Danoia 
+fiume maggiore che sia in tucta Europa.  Nasce ne' monti del Lamagna et 
+passa per Ungheria et mette nel mare Euxino con tanto empito: che pi@u 
+di lx migla tra mare mantiene l'acqua dolce.  El verno ghiaccia s@i 
+forte che vi passano gl'exerciti interi con cavagli et con carri: 
+chiamasi comunemente Danubio.  Tanai nasce a septentrione de' monti 
+Ryphei ove sono freddi smisurati divide l'Asia dall'Europa et entra nel 
+mare Euxino appresso Atheodosia citt@a.  Era s@i grosso el ghiaccio che 
+se questi se questi (sic) altissimi monti Tabernicchi et Pietrapana vi 
+fussin caduti su non che el ghiaccio fussi ropto ma solamente non 
+harebbe alquanto mosso dall'orlo dove quando si muove fa questo suono 
+chricchi.  Tabernicchi monte altissimo in Schiavonia.  Pietrapana @e in 
+Toscana in Carfagnana sopra Lucca da' latini @e decta Pietra Apuana Et 
+in vero @e grandissima freddura nel chuore del superbo et traditore 
+chome di sopra dicemmo.  Stavano col capo fuor dell'acqua chome al 
+tempo del mietere stanno e' ranocchi quando la villana.  |Sovente~: 
+spesse volte: sogna di spigolare di ristoppiare et ricorre le spighe 
+cadute: et dixe sogno perch$e spesso sogna l'huomo fare quello che ha 
+in animo di fare.  |Livide~: dimostra gran freddura et similmente pone 
+conveniente colore alla invidia.  Onde e' latini dicono livore la 
+invidia.  |Infin dove appar vergogna~: infino al viso el quale fa 
+dimostratione quando uno si vergogna .  nel medesimo ghiaccio pone e' 
+traditori de' parenti degl'amici et della patria.  Ma sempre e' pi@u 
+bassi sono i maggior freddo perch$e sono pi@u inverso el centro et @e 
+ragionevole che chi ha conmesso maggiore tradimento sia pi@u lontano al 
+fuocho della charit@a: et maggiore tradimento quando si rompe la strada 
+alla patria: perch$e si fa contro a pi@u che quando a' parenti: et 
+maggior quando contro agl'amici et maxime contro a Dio.  |Mettendo e' 
+denti in nota~ in canto |di cicogna~ perch$e tremando dibattevono e' 
+denti: et facevon con quegli quello strepito che la cicogna quando 
+perchuote el beccho di sobto con quel di sopra per questo dibattimento 
+di denti si dimonstra gran freddo Et quello che dixe el Vangelio: 
+^stridor dentium~.  // c.161r 
+
+	|37-66.~  Ogni una in gi@u tenea volta la faccia.  @E natura del 
+traditore non guatar mai alchuno in viso.  ^Preterea~ per forza si 
+vergogna che si ricorda haver sempre facto contro a quella virt@u: la 
+quale @e propria dell'huomo: Et certo e' traditori sempre volgono el 
+volto in gi@u: et niente altro considerano che alle chose terrene et 
+basse.  |Quando io hebbi dintorno alquanto visto~.  E' primi quattro 
+ternarii sono assai noti.  Ma che le lachrime aghiacciassino in modo 
+che rifertassino loro gl'ochi dinota che lo 'nvidioso bench$e vegga la 
+miseria nientedimeno el freddo: cio@e el mancamento della carit@a non 
+lo lascia vedere et muoversi a compassione.  |Et un~: non rispondendo 
+que' due rispose un'altra ombra.  |Pur col viso in giue~ chome di sopra 
+dicemmo.  |La valle di Bisentio~.  Bisentio @e un fiume tra Firenze et 
+Prato: et mette in Arno lontano a Firenze sei migla.  |Tutta la Cayna~: 
+dicemmo che dinomina questo primo gyrone da Cain el quale fu figluol 
+d'Adam primo huomo et fu agricultore.  Et hebbe Abel suo fratello 
+pastore.  Sacrific@o Abel delle primitie delle sue et furono accepte a 
+Dio tali primitie.  Cain offerse delle primitie de' fructi della terra: 
+et non furono accepte a Dio.  Il che mosso Cain ad invidia: et dixe al 
+fratello andiamo fuori: et venuti che furono alla campagna Cain uccise 
+el fratello: Et Iddio dixe Cain dove @e el tuo fratello: A cui rispose 
+Cain Io non lo so Sono io guard[i]ano del mio fratello: Et Dio dixe el 
+sangue suo grida a me: la terra l'onghio tira et non ti render@a 
+fructo: et sarai maladecto sopra la terra.  |Non quella a cui fu ropto 
+el pecto et l'ombra~: cio@e el pecto et le reni: Imper@o che l'ombra 
+del pecto va alle reni.  Costui fu Modite figluolo del re Art@u re di 
+Brettagna et capo della Tavola Ritonda.  Modite si ribel@o dal padre et 
+messesi in aguato per ucciderlo.  Ma Art@u scoprendo laguato lo fer@i 
+di lancia nel pecto et passollo per le reni.  Focaccia fu de' 
+Cancellieri di Pistoia: et a tradimento uccise un suo zio.  Nel 
+milletrecento erono in questa famigla tre frategli cavalieri.  Et 
+Focaccia giovane audacissimo et di pessimi costumi era figluolo d'uno 
+di questi.  Intervenne che giucandosi alla neve el padre di Focaccia 
+percosse un suo nipote perch$e troppo acerbamente havea con la neve 
+ingiuriato un'altro fanciullo: Et questo fece chome a sua famigla 
+essendo suo zio.  Ma el fanciullo pi@u temerario et pi@u maligno che 
+non richiedea la sua et@a dissimul@o el dolore: et dopo non lungho 
+spatio finxe volergli parlare all'orecchio / chinossi el zio et el 
+fanciullo gli decte una ceffata: Dolsesene el padre: et rimanendo el 
+fanciullo al zio accioch$e lo punissi a suo modo.  Ma lui non stimando 
+pi@u che si bisognassi e' facti d'un fanciullo in luogho di battitura 
+gli baci@o el volto.  et rimandollo al padre.  Ma lo scelerato Focaccia 
+suo figluolo tagl@o la mano a questo fanciullo.  di poi corse a casa el 
+padre che era suo zio et ucciselo.  Del quale patricidio segu@i tanto 
+scandolo che tutta Toscana ne fu molti anni tribolata: Perch$e di qui 
+ne derivorono le Parte di Bianchi et Neri che divise prima Pistoia et 
+poi Firenze.  |Non questi che m'ingombra / el capo~.  N$e fu pi@u 
+|degno di stare in gelatina~: cio@e in ghiaccio questo el quale 
+m'ingombrava el capo: et stammi innanzi agl'occhi s@i ch'io non posso 
+vedere pi@u l@a.  Chostui fu Sanzol Moscherini fiorentino: el quale 
+similmente amazz@o un suo zio.
+
+	|67-72.  Et perch$e non mi metta in pi@u sermoni~ per domandarmi ch'io 
+sono.  |El Camicione~ questo fu messer Alberto Camicione de' Pazi di 
+Valdarno el qual attradimento uccise messere Ubertino su // c.161v |Et 
+perch$e non mi metta in pi@u sermoni~ per domandarmi ch'io sono sappi 
+che io sono |El Camicione~.  Questo fu messere Alberto Camicione de' 
+Pazzi di Valdarno el quale atradimento uccise messere Ubertino (sic) 
+suo parente.  Carlino anchora costui fu de' Pazi di Valdarno: et mentre 
+che e' fiorentini erono a campo a Pistoia occup@o un castello chiamato 
+Castel di Piano in Valdarno a stanza de' ghibellini.  Il perch$e furono 
+constrecti e' fiorentini lasciare la obsidione di Pistoia et venire in 
+Valdarno.  Stettono adunque a campo a questo castello ventocto giorni 
+Et finalmente messer Carlino corropto con pecunia ingann@o e' suoi 
+ghibellini et la Parte Biancha et decte el castello.  Vidi mille visi.  
+moltissimi visi.  |Cagnazo~: pel freddo grinzi chome di cani.  |Vien 
+ribrezo~ capriccio et horrore.
+
+	|73-81.~  Entra el poeta nel secondo gyro chiamato Antenora da 
+Antenore el qual secondo molti trad@i Troia: Nel quale seguita insino 
+che passa el mezo del sequente canto.  |Andavono inver lo mezo~: 
+inverso el centro el quale @e mezo in ogni corpo sperico adunque quando 
+andavono a basso |Passeggiando fra le teste~ percossi in una: ma non so 
+se fu volere o fato o destino o fortuna.  |Volere~ che procedessi da 
+libero arbitrio.  |Destino~: fato che nasce da universale 
+constellatione |Fortuna~ che procede da particulare constellatione.  
+Questo percuotere el pi@e significa venirgli nella mente tractando di 
+questo peccato tractare di questo huomo o che la volont@a ve lo 
+'nducessi per sua electione o el fato o la fortuna.  |Di Montaperti~ 
+del quale diremo di sobto.
+
+	|82-105.~  Vuole che Virgilio l'aspecti perch$e la ragione inferiore 
+@e quella chome habbiamo decto che discende ne' particulari.  Finge che 
+costui non volessi essere conosciuto perch$e el tradimento @e tanto 
+abhominevol vitio che nessuno @e s@i scelerato che non se ne vergogni: 
+^Preterea~ non @e peccato che con pi@u occultatione si conmetta.  Et 
+per questo vedi che lui non accepta la proferta di Danthe che promecte 
+nominarlo.  |Per l'Antenora~: per questo secondo gyro fu decto da 
+Antenore.  El quale trad@i Troia sua patria.  |Allhor lo presi per la 
+cuticagna~: per la chioma che @e nella colloctola et finge perchuoterlo 
+in quel membro: perch$e quivi sta la memoria: et lui lo sforzava a fare 
+che gli riducessi a memoria chi era.  |Mi dischiome~: cio@e mi peli la 
+chioma.  Et el resto del texo @e aperto.  // c.162r
+
+	|106-123.~  Non giova al traditore volersi coprire et tener celato le 
+sue scelerateze perch$e sempre @e chi le palesa et questo significa el 
+poeta per colui che nomin@o el Bocca el quale non si volea palesare.  
+|Sonar con le mascella~.  dibattere e' denti pel freddo.  Se tu non 
+latri non abbai latrare in latino @e abbaiare et @e proprio ne' cani.  
+|Va via rispose~: quando gli scelerati sono stati scoperti et non si 
+possono pi@u occultare e loro chostume volgersi a nominar gl'altri che 
+hanno conmessi simili errori: et per scusar s$e accusano altri.  Messer 
+Bocca degl'Abati di Firenze del quale fu decto di sopra |Et piange~: 
+chostui che tu vedi chost@i.  |Piange l'argento de' Franceschi~: 
+chostui fu messer Bosio della famigla da Duera da Cremona: et era 
+ghibellino et con gl'altri prompto a vietare el passo a Guido da 
+Monteforte: el quale conducea di Francia l'exercito di Carlo primo nel 
+regno di Napoli contra a Manfredi: Ma corropto con pecunia trad@i 
+gl'amici et oper@o in forma che e' franzesi passorono.  |Di Beccheria~: 
+Chostui fu l'abate di Vallombrosa: ma fu da Parma della casa di quegli 
+di Beccheria: el quale mandato a Firenze per la Chiesa ordin@o per 
+tradimento tor lo stato a' guelfi et darlo a' ghibellini: Et e' guelfi 
+acorgendosene gli taglorono la testa a furore del popolo nella piaza di 
+sancto Apollinari.  Onde la cipt@a ne fu scomunicata.  |Gianni 
+Soldanieri~.  Nel tempo che e' Frati Gaudenti furono podest@a in 
+Firenze chome di sopra dicemmo: e' ghibellini con armata mano vollono 
+mandare al basso quegli che reggevono el popolo che erono guelfi.  il 
+perch$e el popolo sotto l'arme si ragun@o a sancta Trinit@a: Et messer 
+Giovanni Soldanieri el quale era ghibellino et di famigla nobile et 
+anticha ma ghibellina per diventare grande si fece capo del popolo el 
+quale finalmente vinse et cacci@o e' ghibellini tradendogli.  
+|Ganellone~: Ricuperata la Spagna da Carlo Magno et ridoctola alla 
+orthodoxa fede christiana mand@o Gano imbasciadore a duare che vi 
+restavono de' saraceni che si baptezassino et pagassino el tributo.  E' 
+re promessono largamente: Et da altra parte corruppono con gran pecunia 
+Gano che tradissi loro e' christiani.  Gano confort@o che di furto 
+mandassino a occupare e' monti Pyrenei et quivi inagguato aspectassino 
+Orlando conte Cenomanense: et Ulivieri conte Gebenense e' quali Carlo 
+teneva per retroguardo: giunsono e' Paladini con ventimila armati: Et 
+assaltati da' venti altre miglaia di saraceni virilmente combatterono 
+et vinsolgi Ma essendo dopo la victoria stracchi et dinuovo assaltati 
+da xxx mila finalmente fur[o]no tucti morti Ma qual fossi la morte 
+d'Orlando dicemmo di sopra.
+
+	|124-130.~  Era poco allontanato quando vide due si insieme che l'un 
+capo era capello all'altro perch$e lo toccava et el sovrano cio@e 
+quello che gli stava sopra rodea co' denti la collottola all'altro in 
+quella parte dove el cervello si congiugne con la nuca.  |Non~ 
+|altrimenti Tydeo si rose~.  La historia d'Etheocle et Pollinice 
+dimostrammo di sopra: Tydeo figluolo del re Eneo di Calcidonia arriv@o 
+in Argos nel medesimo tempo che Pollinice: Et bench$e nel primo 
+congresso diventassino inimicissimi Nientedimeno poi pel mezo d'Adrasto 
+re d'Argos si riconciliorono et diventorono amici fedelissimi et 
+cognati: perch$e Adrasto s$e gli fece generi.  Et di poi nelle battagle 
+di Tebe accade che insieme conbatterono: Tydeo dalla parte di Pollinice 
+et Menalippo tebano dalla parte d'Etheocle: fer@i Menalippo Tydeo: et 
+Tydeo uccise lui.  Di poi vedendo Tydeo la piagha ricevuta esser 
+mortale si fece rechare el capo del gi@a morto Menalippo et per rabbia 
+et ira co' denti la rose.
+

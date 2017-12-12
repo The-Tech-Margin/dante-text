@@ -1,0 +1,713 @@
+	|1-4.  Quando~: quando per gradevoli o spiacevoli
+impressioni, che una delle nostre facolt@a (|virt@u~: sogg.)
+dell'anima riceva, accolga in s$e (|comprenda~), l'anima si
+concentra (|si raccoglie~) del tutto (|bene~) in quella facolt@a,
+allora appare chiaro, si vede (|par~) che essa anima non volga
+l'attenzione, non attende pi@u (|intenda~) a nessuna delle altre
+sue facolt@a; cio@e quando siamo attenti del tutto ad una cosa,
+l'anima non conserva pi@u coscienza delle altre sue facolt@a.  Cfr.
+Fra Giordano: <L'anima nostra... quando intende bene ad una cosa
+e @evvi bene attratta, si perde all'altra, e per@o non cede n$e ode
+n$e sente cogli altri sensi> (^Prediche ined.~, p. 220, cit.
+^Bull.~, XXV, 59).  L'uomo ha un'anima sola, dotata di tre
+facolt@a o potenze: vegetativa, sensitiva, intellettiva; come D.
+spiegava nel ^Conv.~, III, ii, 11: <l'anima principalmente hae
+tre potenze, cio@e vivere, sentire e ragionare>, secondo la
+filosofia aristotelica ed anche ^Summa th.~, I, LXXVI, 3.  Non,
+quindi, tre anime come credeva Platone.  In questo esordio D.,
+mentre apparentemente mostra di trasportare il lettore a un
+ordine di cose diverse dal suo racconto itinerale, in realt@a
+cerca di spiegare meglio la nuova situazione in cui si trova, la
+sorpresa del tempo trascorso senza che ne abbia avuta percezione;
+e ci@o in netta antitesi con le anime, che invece hanno coscienza
+del tempo e assolvono al loro compito di indicare ai due
+pellegrini la via giusta per salire al monte.
+
+	|5-6.  e questo @e~: e questa @e una prova contro la falsa
+opinione, la errata dottrina (|error~) dei Platonici che
+credevano che in noi si accendano, (vivano formandosi
+successivamente nel tempo) tre anime, sovrapponendosi l'una
+all'altra e distinte tra loro: cio@e l'anima vegetativa, la
+sensitiva e la intellettiva; oppure dei Manichei, che ne
+ammettevano due, la sensitiva e la intellettiva.
+
+	|7-11.  E per@o~: e perci@o quando si ode o si vede cosa
+che attiri (|tegna~: attragga) fortemente a s$e (lett. tenga
+rivolta a s$e) l'attenzione dell'anima, il tempo passa (|vassene~;
+d@a l'idea del suo tacito trascorrere) e l'uomo non se ne accorge,
+oppure non ci si avvede del tempo che passa; perch$e <altra
+potenza @e quella che avverte il tempo (|l'ascolta~), altra @e
+quella a cui s'@e raccolta l'anima intera: l'anima @e legata a quel
+vedere e a quell'udire, e non presta quindi ascolto alla potenza
+che avverte il tempo; questa potenza opera sciolta dall'anima e
+non @e quindi avvertita da essa> (Barbi, ^Probl.~, I, 219) seguito
+anche dal Porena e dal Vandelli.  Sulla difficolt@a del verbo
+|ascolta~ riferito al |tempo~, il Parodi (^Bull.~, XXII, 39) ha
+dimostrato che qui D. ha adattato l'uso di ^sentire il tempo,
+percipere tempus~, frequente allora, il caso suo, nel senso di
+^prestar attenzione~ al tempo.  D. qui segue S. Tommaso (^S.
+Th.~, I, LXXVI, 3); <Un'operazione dell'anima, quando sia
+intensa, ne impedisce un'altra, e questo non potrebbe avvenire in
+nessun modo, se il principio delle nostre azioni non fosse in
+essenza unico>.  Ma il Nardi ha spiegato diversamente: <Altra @e
+la potenza che ascolta quella cosa (^non il tempo~) senza
+concentrarvi sopra tutta l'attenzione (^udendo~ ma ^non
+ammirando~), e altra @e la potenza di ascoltare che tiene assorta
+l'anima intera (^udendo e ammirando~); quest'ultima @e quasi
+legata alla cosa udita, e con essa @e legata tutta l'anima, in
+maniera che l'anima intesa ad ascoltare, e le altre facolt@a,
+compresa quella di avvertire il tempo, sono impedite
+nell'esercizio del loro atto; mentre quando l'anima intera non @e
+legata alla potenza dell'udire, o in generale ad una qualsiasi
+delle sue potenze, anche ciascuna di queste @e sciolta> (^Giorn.
+Dant.~, 1914, 237).  Riferire <legata> ad |anima~ e non a |quella
+potenza~ <urterebbe contro la limpidit@a della costruzione logica
+e grammaticale> (Bosco, ^Atti dell'Arcadia~, 1938).
+
+	|12.  questa~: tutta la polemica @e concentrata, non solo
+sull'oggetto di ^ascolta~ {v. 10}, che per alcuni @e ^il tempo~
+{v. 9} e per altri @e ^cosa~ del v. 7, ma anche su |questa~ che
+alcuni riferiscono ad ^anima~ {v. 11} ed altri a ^potenza~ {v.
+10}.  Una tesi conciliante sarebbe questa: diversa @e la facolt@a
+percettiva (che avverte il tempo) del tempo, che @e come slegata
+dall'anima (|sciolta~), non impegnata; diversa @e la facolt@a
+sensitiva (^che ode e vede~ {v. 7}), fortemente impegnata,
+|legata~, al punto da assorbire l'anima interamente in tutte le
+sue funzioni (^che tegna a s$e l'anima volta~ {v. 8}), da
+concentrarla interamente.
+
+	|13-16.  Di ci@o~: di questo fatto, di questa teoria
+psicologica, io ebbi esperienza vera, ascoltando Manfredi
+(|quello spirto~) e meravigliandomi di quanto mi diceva sulla
+^maladizion~ del papa e del vescovo, e della sua salvazione.  Il
+Del Lungo, per@o, intende: ascoltando attentamente e guardando
+intensamente (|ammirando~) lo Svevo famoso, in relazione col
+^s'ode o vede~ del v. 7.  Tutto il tono di questo esordio segue
+il procedimento discorsivo di un testo teologico, confermato
+dall'esito conclusivo <|di ci@o ebb'io esperienza vera~> che
+sembra pure <confermare, in un riscontro con l@a realt@a, qualche
+cosa di udito o letto pi@u che di pensato personalmente> (Jenni,
+^Il c. IV del Purg.~, in ^Lett. scal.~, Firenze, 1962, p. 131). 
+Ma, a parte il carattere erudito di molti esordi dei canti della
+^Commedia~, qui, la digressione, oltre che aperta dichiarazione
+di tomismo, sia pure polemico, @e una manifestazione della
+consapevolezza che D. personaggio ha acquistato sul valore del
+tempo.  <Qui D. giustifica filosoficamente la necessit@a della
+rampogna di Catone.  La scienza filosofica lo illumina sul
+pericolo della contentezza provata durante il canto dell'amico
+musico...  Alla fine del primo colloquio suo con un'anima ^ben
+nata~, D. accoglie nell'anima sua il valore del grido di Catone,
+e comprende l'alto dovere che spinse il ^veglio solo~ a
+proferirlo.  La filosofia di Tommaso lo aiuta, ed anzi
+|l'esperienza vera~ da se stessa avuta gli conferma la verit@a di
+quella scienza> (Romagnoli, ^Il c. IV del Purg.~, in ^Lett.
+dant.~ del Getto, ed. cit. {Firenze, 1964}, p. 752).  In tal modo
+l'esordio si riannoda al racconto itinerale, quasi come
+giustificazione di quella che apparve a Catone ^negligenza~ o
+indugio all'ascesa, e che, invece, @e condizionata dall'attrazione
+che le facolt@a dell'anima subiscono al primo contatto o
+ambientamento del nuovo regno.  Cos@i @e anche recuperato il legame
+narrativo con i canti precedenti.  |ch$e~: perch$e il sole era
+salito di oltre cinquanta gradi, cio@e erano trascorse circa 3 ore
+e 20 minuti (poich$e il sole percorre 15 gradi all'ora), dal
+sorgere del sole.
+
+	|17-18.  venimmo~: mentre D. non ha avvertito lo scorrere
+del tempo, le anime, pur avendo assecondato D. nel colloquio con
+Manfredi, assolvono al loro compito di indicare ai pellegrini la
+strada che hanno richiesto, dicendo: qui @e il luogo che avete
+domandato (|vostro dimando~).  Il grido delle anime ridesta
+finalmente D. dalla sua ammirazione, richiamandolo alla realt@a
+del tempo e del viaggio.
+
+	|19-22.  Maggiore aperta~: il contadino (|l'uom de la
+villa~) quando l'uva comincia a maturare (|imbruna~: si fa bruna)
+chiude con pruni, con piante spinose (|impruna~: da pruno) con
+una forcata di spini un'apertura (|aperta~: cfr. ^Purg.~, XIX,
+36, <^troviam l'aperta~ per la qual tu entre>; Villani, ^Cron.~,
+XII, 67 <^per un'altra aperta~ che fece fare>) pi@u larga di
+quanto non fosse quel sentiero (|calla~: cfr. ^Purg.~, IX, 123;
+lat. ^callis~, G. Cavalcanti, ^Istor. fiorent.~, ed. Di Pino,
+Milano, 1944, 169: <la nostra valle @e situata di una strettissima
+^calla~>, da dove (|onde~) sal@i (|ne~: epitesi toscana) Virg. ed
+io dietro di lui.
+
+	|23-24.  soli~: <Ora, intellettualmente disposto, lo
+spirito del poeta torna a godere di quelle dolci solitudini che
+prendono maggiore e migliore campo nella nuova arte del Purg.>
+(Romagnoli, ^l.c.~ {^Il c. IV del Purg.~, in ^Lett. dant.~ del
+Getto, Firenze, 1964}, 753).  Lett. l'agg. vuol chiarire la
+situazione nuova, in cui si trovano i pellegrini, ormai senza la
+guida delle anime, che avevano indicata la ^calla~ {v. 22}.  Il
+tema della solitudine, insieme a quello della strettezza e della
+verticalit@a della via stessa, ripropone il motivo drammatico
+dell'ascesa del monte, che in questo canto ha una sua particolare
+poesia.  Cfr. Matteo, VII, 14: <^Quanto angusta @e la porta e
+stretta la via che conduce alla vita: e quanto pochi son quelli
+che la trovano~>.  Il passo dantesco lo ricalca, quasi alla
+lettera, col rilievo di |soli~ al posto di ^pochi.~  Ma la
+similitudine col ricordo agreste ha la funzione di rasserenare
+l'animo del pellegrino.
+
+	|25-27.  Vassi in Sanleo~: dinanzi alle difficolt@a del
+suo viaggio, D. risolve narrativamente la resa descrittiva con un
+rapporto analogico, richiamando alla memoria luoghi noti alla sua
+esperienza di esule, pellegrino di questo mondo, e creando un
+chiaroscuro drammatico-elegiaco tra l'io-esistenziale e
+l'io-narratore, tra il narratore e il personaggio, come anche al
+canto III (vv. 49-51).  Spiega: si pu@o salire e discendere solo
+(|esso~: invar.) a piedi a Sanl@eo (castello presso Urbino, a
+picco su una roccia) e a Noli (cittadina della riviera ligure
+presso Savona, quasi a picco), si pu@o salire soltanto a piedi in
+Bismantova (monte dalle pareti a picco a sud di Reggio Emilia) e
+in Cacume (monte ripido presso Frosinone).  Altri leggono:
+^Bismantova in cacume~, intendendo: su Bismantova, proprio sulla
+sommit@a, |cacume~, cfr. ^Par.~, XVII, 113.  Preferibile la prima
+lezione, anche perch$e confortata da 125 codici, circa (Rossi,
+^Bull.~, V, 41-44).  <|Vassi~, |discendesi~, |montasi~; c'@e ormai
+la sicurezza della cima, il paragone si distende nella
+constatazione della conquista che non pu@o mancare, anche se essa
+sar@a di ben diversa natura da quella delle conquiste terrene>
+(Romagnoli, ^l.c.~ {^Il c. IV del Purg.~, in ^Lett. dant.~ del
+Getto, Firenze, 1964}, 754).
+
+	|28-30.  dico~: si voli (^om voli~ {v. 27}) con le ali
+veloci (|snelle~; ^Inf.~, XII, 76) del desiderio (di ascesa e di
+ascendere a Beatrice; a questo punto la salita fisica del monte
+coincide con l'ascensione spirituale), condotto, confortato
+dall'esempio di colui (|quel~) che mi dava speranza,
+illuminandomi il cammino.  Lo Jenni, invece, spiega: |condotto~
+sar@a piuttosto sostantivo (^guida~) che partic. pass., e tenendo
+conto del solito significato allegorico insito in Virg., il senso
+sar@a: dietro quella guida che in questo momento per mia grande
+fortuna faceva lume a me (^l.c.~ {^Il c. IV del Purg.~, in ^Lett.
+scal.~, Firenze, 1962}, 134).  E l'uso di |condotto~ nel senso di
+^guida~, ^condottiero~ si trova in D. in ^Conv.~, I, xi, 21 <^a
+lo cui condotto vanno li ciechi~>; in G. Villani, ^Cron.~, VII,
+24: <il detto maliscalco... non volle pi@u ^condotto~ di
+Fiorentini.  Il Buti e altri antichi commentatori spiegavano:
+^dietro a quella guida~, cio@e Virgilio che significa la ragione
+umana.  L'unica difficolt@a che si oppone a questa spiegazione @e
+il fatto che: |quel~ al posto di ^quegli~ (pronome) @e molto
+frequente nell'ital. antico.  Cfr. ^Salmi~, CXVIII, 105: <la tua
+parola @e face ai miei passi e lume al mio cammino>.  Il ricordo
+biblico conferisce solennit@a alla figura di Virgilio-guida.  Da
+escludere del tutto il senso di |condotto~: ^passaggio.~
+
+	|31-33.  Noi salivam~: salivamo per un sentiero incavato
+nella roccia (|per entro il sasso rotto~) e la strettezza delle
+pareti (|lo stremo~: secondo altri, tanto stretto che l'orlo
+estremo delle pareti) ci stringeva da una parte e dall'altra
+(|d'ogne lato~), e il fondo stradale (|il suol di sotto~) era
+cos@i ripido che bisognava aiutarsi con i piedi e con le mani per
+salire.  Il richiamo evangelico <stretta @e la via che conduce
+alla vita> qui, oltre al senso morale dell'ascesa verso la
+purificazione, determina il senso drammatico-umano della
+conquista di D. personaggio, costituendo una nota essenziale
+della poesia del viaggio.  Le insistenti suggestioni di questo
+clima alpestre, oltre a conferire al canto <una sensazione di
+romitaggio e di silenzio> (come dice il Momigliano), vogliono
+aggiungere una precisazione: <cio@e D. stesso ha piena cognizione
+che la fatica @e superabile con le forze che promanano dalla sua
+esigenza di purificazione, e che quindi @e l'ascesi che consente
+l'ascesa> (Petrocchi, ^L'attesa di Belacqua~, in <Lettere
+Italiane>, 1954, p. 224).
+
+	|34-36.  Poi che~: dopo che giungemmo sull'orlo superiore
+(|supremo~: al termine in alto di quella via incavata) di quella
+parete, che costituisce la base del monte, l@a dove la salita
+continuava ormai allo scoperto (|a la scoperta piaggia~: pendio
+aperto), io chiesi a Virg.: che via faremo?  Non @e una domanda
+oziosa, come qualcuno ha detto; bens@i mira ad evidenziare quello
+stato di smarrimento e di ansia morale, che ha caratterizzato D.
+personaggio in questi primi canti del Purg.
+
+	|37.  Ed elli~: e Virg. ripose: nessun tuo passo cada
+invano, torni indietro (|caggia~, da ^c@aggere~ -- cadere), nessun
+tuo passo sia in discesa (Parodi, ^Bull.~, XXIII, 41).  Il
+Benvenuto spiegava nessun tuo passo vada a destra o a sinistra,
+poich$e l@i non c'era una via ben segnata.
+
+	|38-39.  pur su~: avanza (|acquista~) sempre (|pur~ in
+su, verso l'alto, finch$e ci appaia qualche guida esperta del
+luogo (|saggia~), un mezzo sovrannaturale che interverr@a
+certamente.  Virg. ha ormai raggiunto un equilibrio morale tale
+che, anche se non conosce la via, sa che la strada che conduce
+alla cima del Purg. @e una salita diritta verso la meta che non
+ammette n$e vie traverse n$e la possibilit@a di tornare indietro; e
+il suo monito morale sull'itinerario ascetico @e pi@u valido, se
+confortato dalla fiducia dell'aiuto divino.
+
+	|40-42.  Lo sommo~: la sommit@a, la cima del monte era
+cos@i alta che superava (|vincea~) la facolt@a della vista, cio@e
+non era possibile vederla; e la pendenza (|costa~) alquanto pi@u
+ripida (|superba~, ^Inf.~, XXI, 34) di una linea (|lista~) che
+dal punto di mezzo di un quadrante va al centro del cerchio.  Il
+quadrante @e la quarta parte di una circonferenza ed ha un angolo
+di 90 gradi; se la lista parte dalla met@a del quadrante per
+giungere al centro della circonferenza, il suo angolo sar@a di 45
+gradi, tale era la pendenza della montagna.  La misura @e
+egualmente valida, anche se qui D. si riferisce al quadrante
+astronomico.  Una vera gara alpinistica, questa, dei due
+pellegrini, che ha ricordato l'ascesa del Petrarca al monte
+Ventoux insieme al fratello Gherardo, e che ha implicito il senso
+religioso di un'ascesi spirituale.  Ma qui la presenza solenne di
+questa montagna del Purg. assurge al ruolo di protagonista e ne
+determina l'atmosfera religiosa.
+
+	|44-45.  O dolce padre~: guarda come io rimango solo, se
+tu non ti fermi (|restai~).  Il timore, che ora ha D. di restar
+solo, colto dalla stanchezza, rivela la mancanza di equilibrio
+interiore e di fiducia che ha D., anche se nel suo accorato
+appello a Virg. padre si sente la sua ansia di ascendere e la
+preoccupazione di venir meno.
+
+	|46-48.  ti tira~: trascinati fin qui, sforzati di
+giungere fin qui, indicandomi un ripiano (|balzo~: lat.
+^balteus~, cintura; al v. 51 dir@a ^cinghio~) un po' pi@u in alto,
+che cingeva (|gira~: con val. di Imperf.) tutto quanto il monte
+orizzontalmente dal lato dove ci trovavamo.  Le parole di Virg.
+affettuose e forti riescono sempre a ridestare in D. coraggio e
+ardimento, come se la lezione di Catone agisse ancora, ma ad
+opera di lui, padre.
+
+	|50-51.  carpando~: il realismo descrittivo dalle
+immagini, ora si trasferisce anche al linguaggio tecnico di
+questo particolare alpinismo.  Mi sforzai, andando carponi dietro
+di lui (|carpando~: lat. ^carpo~; il Buti spiega: andando
+boccone), finch$e (|tanto che~) il ripiano mi fu presto sotto i
+piedi.  La drammaticit@a di questa salita ricorda quella analoga
+di Malebolge (^Inf.~, XXIV, 19-54), ma qui la meta @e ben pi@u alta
+e solenne.
+
+	|53-54.  volti~: rivolti verso oriente, donde eravamo
+saliti, riguardante il quale (|levante~ -- ^oriente~) suole esser
+di buon auspicio (|giovare~).  Questa @e la spiegazione
+dell'Andreoli confermata dal Barbi (^Probl.~, I, 221), tanto pi@u
+valida per la struttura sintattica del periodo, essendo |che~
+pronome oggetto di |riguardare~, ed essendo il verbo |giovare~,
+qui, usato impers. nel senso di ^@e utile~ (|altrui~, agli
+uomini).  Anche dal ^Purg.~, VIII, 11, e dal 1+ sonetto di Forese
+a D., si desume che durante il medioevo il rivolgersi ad oriente
+aveva un significato mistico, che rendeva pi@u viva la preghiera. 
+Ma la maggior parte dei commentatori preferisce intendere: a
+riguardar la qual cosa, cio@e la salita che uno ha superato,
+giova.  Se ne potrebbe proporre una pi@u conciliante: il
+riguardare una faticosa salita gi@a fatta e l'orizzonte che di
+lass@u si offre, fa piacere ed @e anche utile.  Alcuni leggono:
+^ch$e~ nel senso di ^perch$e~; ma il senso non cambia.
+
+	|55-57.  Li occhi~: rivolsi lo sguardo alla marina che
+era gi@a, che appariva, cos@i bassa, e poi guardai verso il sole. 
+Dal che si deduce che ^riguardare~ {v. 54} ha il senso di
+^guardare indietro e attorno la via percorsa~; infatti, qui, egli
+si sofferma a contemplare rapidamente la conquista dello
+spettacolo dei |bassi liti~ e poi la meraviglia del |sole~, che
+lo colpisce a sinistra.  <Non possiamo non partecipare a questo
+silenzioso trionfo della sua vista, che egli volge verso levante
+per godere della lontananza in cui ormai sono posti la piaggia e
+i bassi liti da cui era partito, e non possiamo non assentire a
+quel gesto di alzare gli occhi al sole, di muovere la propria
+vista nella libert@a degli spazi infiniti...  Eppure questa pausa
+contemplativa, questo primo timido annuncio e promessa di che
+saranno ampi e luminosi gli spazi del Paradiso, @e breve;
+intensissima, ma breve... e subito segue lo stupore> (Romagnoli,
+^l.c.~ {^Il c. IV del Purg.~, in ^Lett. dant.~ del Getto,
+Firenze, 1964}, 757).
+
+	|58-60.  Ben s'avvide~: Virg. s'accorse opportunamente
+che io stavo del tutto sbalordito, stupito (|stupito~), a
+guardare (|il carro della luce~) il sole, dalla parte (|ove~)
+dove il sole avanzava (|intrava~) tra noi e il settentrione
+(Aquilone @e il vento che spira dal nord).  D. precisa che
+nell'emisfero australe del Purg. il cammino del sole @e opposto a
+quello dell'emisfero boreale.  Infatti nel nostro emisfero il
+sole nasce tra noi e l'australe, vento del sud.  Virg. sa che D.
+non pu@o indugiare sugli elementi contemplativi, sulle dolci
+meraviglie del paesaggio, che comunque toglierebbero vigore al
+suo sforzo di ascendere verso la cima, al suo equilibrio morale,
+tra i diletti della carne e dei sensi, e il duro dovere di
+purificazione.  Perci@o prende lo spunto da questo legittimo
+momento di pausa contemplativa, da questo istante di
+^negligenza~, come direbbe Catone {^Purg.~ II, 121}, per spiegare
+scientificamente la meraviglia di quel fenomeno solare e di
+quello spettacolo; elevando a mete ben pi@u alte quella gioia
+dello sguardo e quel piacere della conquista della salita.
+
+	|61-66.  Se Castore~: se la costellazione dei Gemelli
+(Castore e Polluce) in questo momento fosse in compagnia del sole
+(|quello specchio~: corpo luminoso) che porta (|conduce~) la sua
+luce nell'emisfero boreale e in quello australe (|su e gi@u~),
+cio@e se fossimo nel solstizio di estate, quando il sole @e nei
+Gemelli, tu vedresti quella parte dello Zodiaco, che @e
+rosseggiante (|rubecchio~) perch$e il sole si trova in essa,
+girare, ruotare (|rotare~) ancora pi@u vicino (|pi@u stretto~) alle
+due Orse, cio@e a settentrione e quindi pi@u a sinistra, a meno che
+(|se non~) non uscisse fuori dal suo corso abituale (|vecchio~:
+da ^vetus~, annoso), dall'eclittica.  Insomma il sole stesso si
+vedrebbe ancora pi@u chiaramente a sinistra; ma per ora siamo
+nella costellazione dell'Ariete e precisamente @e il 10 aprile del
+1300, perci@o il sole ha il circolo d'illuminazione a sinistra del
+polo nord e a destra del polo sud.
+
+	|67-75.  Come ci@o sia~: se vuoi comprendere come questo
+fenomeno (|ci@o~) accade (|sia~), |raccogliendoti~ in te stesso,
+rappres@entati con la tua immaginazione che Gerusalemme (|Sion~
+era il monte vicino) e questa montagna del Purg. si trovano sulla
+terra a una tale collocazione (|stare~), che entrambi hanno il
+medesimo orizzonte ma emisferi diversi, opposti, in quanto sono
+antipodi l'uno all'altro; perci@o (|onde~) la strada che Fetonte
+non fu capace (|seppe~) di percorrere col carro (|carreggiar~),
+cio@e il cammino del sole, constaterai che @e necessario
+(|convien~) che, rispetto al Purgatorio (|a costui~) vada da un
+fianco (verso nord), mentre (|quando~) rispetto al monte di Sion
+(|a colui~) va dall'altro fianco (verso Sud), se la tua
+intelligenza distingue (|bada~) chiaramente le due collocazioni
+antitetiche e il corso del sole.  La prima parte finiva con una
+condizionale apparente: se il sole non uscisse dall'eclittica;
+anche questa seconda si conclude con una condizionale: se il filo
+del tuo ragionamento @e stato attento alle distinzioni
+astronomiche.  <Virg. presuppone che D. conosca la latitudine di
+Gerusalemme, circa 32 gradi Nord e quindi a nord del Tropico del
+Cancro, e ne deduca una pari latitudine sud del Purg., collocato
+a sud del Tropico del Capricorno> (Porena, ^comm.~ 42).  Per
+questi passi astronomici si consiglia: Buti-Bertagni, ^Commento
+astronomico della D. C.~, Firenze, 1966, pp. 119-120).
+
+	|76-84.  unquanco~: in verit@a non ho mai (|unquanco~)
+compreso alcuna cosa cos@i chiaramente (|chiaro~) come ora riesco
+a distinguere (|discerno~), in questa questione (|l@a~) in cui
+(|dove~) il mio ingegno mi appariva (|parea~) insufficiente
+(|manco~), che, cio@e, il cerchio mediano (|mezzo~: il cerchio
+mediano della rotazione celeste) che si chiama Equatore in un
+certa scienza (|in alcun'arte~), nell'astronomia, e che resta
+sempre in mezzo fra la posizione del Sole e l'emisfero dov'@e
+l'inverno (infatti, quando il sole @e nell'emisfero australe, @e
+inverno nell'emisfero settentrionale; e viceversa), per la
+ragione da te esposta (|che di'~), cio@e per il fatto che
+Gerusalemme e il Purgatorio sono antipodi, dista (|si parte~: si
+allontana), @e lontano dal Purgatorio (|quinci~: di qui) verso
+nord (|settentrione~: lat. ^septem triones~, le sette stelle
+dell'Orsa maggiore) tanto quanto lontano gli Ebrei lo vedevano
+verso sud da Gerusalemme.  Altri leggono ^quando~ al posto di
+|quanto~, nel senso di: mentre.  Ma ci@o complicherebbe il passo. 
+Quasi tutti i commentatori ritengono questo passo una lunga
+lezione di astronomia in versi, e che raramente D. possa
+attingere i vertici della sua espressione artistica nelle
+disquisizioni astronomiche.  Un caso concreto di struttura nel
+senso crociano.  Ma @e bene ricordare, qui, che la ^Commedia~ non
+va letta secondo un metro moderno o idealistico, bens@i va
+interpretata secondo il gusto e la tecnica dei tempi di D., che
+non escludevano dalla poesia fini di educazione e di apostolato. 
+In questo passo specifico D. ha voluto dare prova di una
+particolare tecnica di versificazione, giocando su nessi
+gutturali (Jemmi) <^unquanco~ {v. 76} -- ^rubecchio~ {v. 64} --
+^vecchio~ {v. 66} ^e come a costui convien che vada -- quando a
+colui -- fianco~ {vv. 73-74} -- ^alcun'arte~ {v. 80}>, su
+costrutti sintattici complicati, che gli consentivano un
+autentico impegno razionale e culturale.  Del resto il passo
+trova una sua giustificazione psicologica, se si pensa che D. era
+rimasto stupefatto dinanzi all'apparente mistero del fenomeno
+fisico.  Giustamente Virg. ha voluto impegnare la mente di D. a
+quella spiegazione astronomica, onde trasferire l'ammirazione del
+cuore e degli occhi, su di un piano intellettivo.  Ora <i
+movimenti astrali non hanno pi@u segreti per l'intelletto di D.;
+anche non visti e non visibili con l'occhio, essi sono visibili
+con la mente; ragione e immaginazione congiunte hanno condotto al
+risultato esaltante di dominare l'apparente mistero fisico,
+ricomponendo in filosofica quiete lo spirito dinanzi stupefatto>
+(Romagnoli, ^l.c.~ {^Il c. IV del Purg.~, in ^Lett. dant.~ del
+Getto, Firenze, 1964}, 759).
+
+	|85-87.  Quanto~: quanta strada dobbiamo ancora
+percorrere? dato che il monte @e tanto alto che l'occhio mio non
+riesce a scorgerne la cima.  La sensazione del tempo non scompare
+pi@u ormai dalla coscienza di D., anche se questi @e stato
+affascinato dalla discussione astronomica di Virg., seguendolo
+con segni di approvazione e di deduzione, come un discepolo
+medievale.  Del resto questa prima parte ha la funzione di
+preparare lo slancio morale della conquista della montagna; e la
+stessa astronomia mira a creare quell'ambiente di seriet@a e di
+impegno fisico e intellettuale, da cui meglio apparir@a il
+contrasto con la neghittosit@a di Belacqua.  <Questo discorrere di
+astronomia, di cose remote dalla terra, approfondisce il senso di
+solitudine e di silenzio che ispira tutto il canto> (Momigliano).
+
+	|88-90.  Questa montagna~: la natura di questa montagna @e
+tale che si presenta (|@e~) faticosa (|grave~) a chiunque ne
+intraprenda la salita (|al cominciar~) dal di sotto: e poi quanto
+pi@u si sale (|uom pi@u va su~), tanto meno (|e men~) riesce
+faticosa.
+
+	|91-95.  Per@o~: Perci@o, quando essa ti sembrer@a facile
+(|soave~), tanto, che il salire (|su andar~) ti sar@a agevole
+(|leggero~), come per una nave @e agevole l'andare, il discendere
+secondo il senso della corrente, soltanto allora sarai giunto
+alla fine della salita.  Il senso morale di queste parole @e tutto
+qui: l'esercizio della virt@u, la liberazione dagli istinti, @e
+faticosa all'inizio, ma poi, man mano che l'anima si fortifica,
+diventa sempre pi@u facile.  Ma il tono di Virg. si concreta
+meglio nell'esortazione a persistere nella fatica, senza
+chiedersi tanti perch$e.  Questo @e quello che io so.  Ti riposerai
+soltanto allora del tuo affanno fisico, io non posso dirti altro. 
+La scienza della Ragione non va oltre.
+
+	|96.  per vero~: <La risposta di Virg., spiritualizzando
+la sostanza del viaggio, senza celarne la durezza e al contempo
+mostrandone i soavi frutti..., rende moralmente sfocata la
+domanda di D.> (Romagnoli, ^l.c.~ {^Il c. IV del Purg.~, in
+^Lett. dant.~ del Getto, Firenze, 1964}, 760).
+
+	|98.  una voce~: una voce tra stanca e ironica, senza che
+si veda o prima che si veda il personaggio, s'alza
+improvvisamente, inserendosi opportunamente proprio nel momento
+in cui Virg. sottolinea l'impotenza della solerzia morale di D.,
+interrompendo pi@u che le parole di Virg., quell'atmosfera di
+serrato e nobile colloquio tra maestro e scolaro, ma senza
+spaventare i due poeti, che, semmai, rimangono sorpresi (cfr.
+Romagnoli, ^l.c.~  {^Il c. IV del Purg.~, in ^Lett. dant.~ del
+Getto, Firenze, 1964}, 761; ed anche P. Baldelli, ^Diz. Bompiani
+dei Personaggi~, alla voce).  Bellissima la tecnica nuova con cui
+D. introduce in scena il personaggio di Belacqua: <l'obiettivo
+panoramica lentamente fino al petrone; poi si sposta avanti e
+inquadra un gruppo di persone che all'ombra, dietro il sasso
+stanno ^com'uom che per negghienza a star si pone~> {v. 105}
+(Baldelli, ^l.c.~).  E l'abile regia scenica continua nel far
+svolgere l'incontro all'ombra, in modo che Belacqua non sospetti
+neanche, che D. sia vivo, <sicch$e questo ^petrone~ si potrebbe
+chiamare un ^espediente~, se esso non cessasse di esser tale
+nella fantasia di D., che se ne investe e ne fa un elemento
+insostituibile della scena, lo sfondo pi@u conveniente al
+pigrissimo personaggio> (Toffanin, ^Sette interp. dant.~, 1957,
+p. 21).
+
+	|99.  distretta~: forse prima di arrivare alla fine di
+questo cammino, avrai necessit@a (|distretta~: obbligo, bisogno,
+cfr. Latini, ^Rettor.~, CXX, 25 <che noi facemmo non ^per
+distretta di legge~ o per forza, ma per movimento di natura>;
+Villani, ^Cron.~, IX, 118: <a grande ^distretta~ e necessitade di
+vittuaglia lo condussono>) di metterti a sedere.  Questa prima
+frase di Belacqua @e stata variamente interpretata.  Il Torraca
+credette che quel |forse~ @e <il soffio freddo dell'incredulit@a su
+la fiamma della costanza>; molti altri, che ci sia <un tono
+canzonatorio o ironico>.  Il Petrocchi sostiene che la frase <@e
+dettata da un pacato ma fermo richiamo alla severit@a dell'ascesa
+che attende D...  Quel |forse~ va interpretato come l'esitazione
+di un'anima che conosce le leggi che regolano la purificazione su
+questo monte> (^l.c.~, {^L'attesa di Belacqua~, in <Lettere
+Italiane>, 1954}, p. 228).
+
+	|100.  si torse~: ciascun di noi si volse (|torse~) non
+solo col viso ma anche con la persona.  I due pellegrini sono
+scossi dalla voce improvvisa <osservate il |ciascun di noi~ che
+indica un moto simultaneo, ma compiuto spontaneamente da ognun
+dei due; e quel |si torse~ che accenna a una vivacit@a insolita di
+movimento> (Porena, ^La mia lect. Dantis~, cit. {Napoli, 1932}).
+
+	|102.  s'accorse~: nessuno dei due si era accorto prima
+di quest'anima, che, intanto, aveva ascoltato il serrato e dotto
+dialogo tra Virg. e D.  Questa precisazione didascalica
+ripresenta in chiave retrospettiva l'interesse e l'importanza che
+la discussione astronomica e l'impazienza di D. assumono, ora,
+nell'unit@a narrativa della sequenza, in cui Belacqua era gi@a
+testimonio silenzioso.  Quella lezione di astronomia, soltanto
+ora, acquista una vitalit@a e necessit@a poetica, in quanto diventa
+motivo e pretesto di questo singolare episodio, in tono di
+contrasto tra la solerzia di D. e la neghittosit@a di Belacqua.
+
+	|103.  ci traemmo~: verbo molto opportuno per indicare la
+fatica di D. gi@a stanco e affannato.
+
+	|105.  negghienza~: voce popolare per ^negligenza.~  @E il
+momento plastico-descrittivo in cui D. presenta quell'anima negli
+atteggiamenti rilassati tipici del pigro.  Ma non si deve credere
+che a quella esteriore, quasi ostentata, indolenza, corrisponda
+una altrettanta negligenza spirituale, come crede il Porena {^La
+mia Lectura Dantis,~ Napoli, 1932}.  @E vero che D. ci presenta
+qui Belacqua con gli stessi atteggiamenti esteriori della
+pigrizia, che fu tipica di lui in vita; ma @e anche vero che, ora
+nella dimensione dell'eternit@a, a quello stato esteriore di
+negligenza non corrisponde pi@u la pigrizia dell'anima, che, anzi,
+@e riscattata da una interiore pazienza, da un dovere interiore e
+malinconico di doverosa attesa.  Sotto quella <noncuranza
+apparente, il suo fondo @e triste: egli dir@a: se altri non ci
+aiuta, a noi Dio vieta di aiutarci da noi> (Parodi, ^Bull.~, XIV,
+168).  @E opportuno qui richiamare la bella chiosa dell'An.
+fiorentino: <Questo Belacqua fu uno cittadino di Firenze,
+artefice, e facea cotai colli di liuti e di chitarre, e era il
+pi@u pigro uomo che fosse mai.  E si dice di lui ch'egli venia la
+mattina a bottega, e ponevasi a sedere, e mai non si levava se
+non quando egli voleva ire a desinare e a dormire.  Ora l'autore
+fu forte suo dimestico, molto il riprendea di questa sua
+negligenzia; onde un d@i, riprendendolo, Belacqua rispose colle
+parole d'Aristotele: -- sedendo et quiescendo anima efficitur
+sapiens --: di che l'autore gli rispose: -- Per certo, se per
+sedere si diventa savio, niuno fu mai pi@u savio di te -->.  Ora
+nell'aldil@a Belacqua continua a portare questa sua abitudine del
+tempo umano, ma ridimensionata psicologicamente in <un sentimento
+serio e profondo, il senso dell'attesa paziente della
+purificazione> (Petrocchi, ^l.c.~ {^L'attesa di Belacqua~, in
+<Lettere Italiane>, 1954}, 232).
+
+	|106-108.  abbracciava~: la rappresentazione plastica di
+questo indolente @e qui curata nei minimi particolari di un
+realismo che fu consueto ai rimatori del tempo.  Questa pigrizia
+degli atti esterni @e, ora, espressione esteriore del suo interno
+sentire.  Il suo @e <un consapevole e sofferto stato di attesa. 
+Se dobbiamo mettere sotto lo stesso fuoco teologico
+l'atteggiamento di D. e quello di Belacqua, son certo che quello
+di Belacqua @e pi@u consentaneo alla struttura morale
+dell'Antipurgatorio, attesa di una purificazione che deve venire
+al luogo e al tempo assegnati dalla Provvidenza; mentre
+l'atteggiamento di D. @e anticipazione di quello che sar@a poi il
+fervore ascetico, lo slancio verso Dio dell'anima purificantesi>
+(Petrocchi, ^l.c.~ {^L'attesa di Belacqua~, in <Lettere
+Italiane>, 1954}, pp. 232-33).
+
+	|109-111.  adocchia~: guarda attentamente quell'anima che
+appare pi@u pigra che se la stessa Pigrizia fosse sua sorella
+(|serocchia~: lat. ^sororcula~, ma qui @e voce popolare, bene
+adeguata al linguaggio familiare).  Il linguaggio popolare
+evidenzia meglio il tono bonario e amichevole di D.
+
+	|112-113.  Allor~: solo allora sa volse a noi e ci degn@o
+della sua attenzione (|puose mente~), ma senza scomporsi, con la
+sua consueta flemma, volgendo soltanto lo sguardo (|'l viso pur~)
+lungo la coscia.  @E forse il momento plastico pi@u felice
+dell'atteggimento esteriormente indolente di Belacqua, che fa
+fraintendere a D., pellegrino solerte, il rapporto diretto che
+c'@e tra il suo stato di attesa e il suo stare enerte e immobile,
+tra rassegnata pazienza e apparente indolenza.
+
+	|114.  Or va tu~: finalmente Belacqua parla, sia pure in
+monosillabi, che sottolineano non solo la sua pigrizia, in questo
+caso verbale, bens@i anche la carica ironica e canzonatoria di chi
+sa che @e impossibile alle anime salire su, senza attendere un
+lungo periodo di penitenza.  Egli dice a D., scambiandolo per
+un'anima: va su tu, che sei bravo, volenteroso di salire!  Il
+senso recondito sarebbe, qui non si tratta di esser pigri o meno,
+si tratta di impossibilit@a di salire.  Cfr. S. Paolo (^I
+Corinti~, 13) dice: ^caritas patiens est~: la carit@a @e paziente,
+sa attendere; S. Luca, XXI, 19: ^in patientia vestra possidebitis
+animas vestras~: con la vostra perseverante pazienza, con la
+sopportazione sarete padroni delle vostre anime.
+
+	|115-118.  allor~: dalle corte parole riconobbi subito
+chi era, e quell'affanno (|angoscia~: ha valore fisico) che
+accelerava (|avacciava~: da ^vivacius~) il respiro (|la lena~),
+non mi fu d'impedimento per giungere fino a lui.  Anche in questa
+scena @e evidente il contrasto fra la premura, lo slancio
+affettuoso di D., che avendo riconosciuto l'amico fiorentino, si
+trascina, nonostante la stanchezza, fino a lui, e l'indolenza di
+Belacqua, che non si scompone affatto, ma si limita a sollevare
+appena la testa.
+
+	|119-120.  Hai ben~: hai ben capito come il sole illumini
+da sinistra.  Il tono bonario, improntato a sorriso canzonatorio,
+come ben si addice tra amici, che in vita solevano scambiarsi
+frizzi affettuosi, non @e evidenziato soltanto nel ripetere quasi
+alla lettera l'espressione di Virg. (^la via che non seppe
+carreggiar Fet@on~ {v. 72}), bens@i nel far notare a D. l'interesse
+da lui mostrato per una cosa cos@i irrilevante, come prima gli
+aveva fatto notare l'inutilit@a del suo slancio impaziente nel
+salire il monte.  C'@e coerenza nelle due frasi di Belacqua, che
+sorride dell'impazienza e del vano desiderio di sapere che ha
+mostrato D., mentre ha certamente equivocato nel vederlo seduto
+cos@i immobile, credendo che la sua abituale pigrizia, a tutti
+nota in vita, sia anche indolenza spirituale.  Ora il suo ^stare~
+@e un dovere morale, la ^patientia~ dell'anima che attende.  Ma D.
+non ha capito e Belacqua sorride.
+
+	|121-124.  Li atti~: il riso di D. nasce per
+l'atteggiamento esteriore di pigrizia che egli nota in Belacqua,
+del tutto simile a quello che aveva in vita, perfino sottolineato
+nelle sue |parole corte.~  @E vero che la legge del Purgatorio
+vieta a queste anime di salire e impone loro l'^attendere~, la
+^patientia~, lo ^stare~; ma perch$e, allora, attendere con tanta
+indolenza?  Questo @e l'elemento rappresentativo che vivifica la
+drammaticit@a di questo equivoco, di questo chiaroscuro tra una
+apparente negligenza e una malinconia interiore.  E D. nella sua
+risposta costringe Belacqua a uscire dall'equivoco, riportando il
+neghittoso amico al livello della sua seriet@a.
+
+	|125-126.  quiritto~: perch@e proprio qui te ne stai
+seduto? attendi forse chi ti guidi, oppure ti sei presa di nuovo
+qui la tua abituale pigrizia di quando eri vivo?  Altri leggono:
+^t'ha ripriso~, facendo |lo modo~ soggetto.  Ma, accettando la
+^lezione~ del Petrocchi si evidenzia meglio il triplice
+riferimento al modo di comportarsi di Belacqua: |assiso se'~;
+|attendi tu~; |t'ha' ripriso~ (cfr. ediz. crit., p. 67).
+
+	|127-129.  O frate~: il vocativo, mettendo in evidenza
+l'affettuosit@a dell'amico, indica anche il mutamento del registro
+e del tono delle parole di Belacqua, che ora saranno sempre pi@u
+serie.  Spiega: l'andar su che giova? che profitto pu@o avere?
+perch$e l'angelo portiere del Purg. non mi permetterebbe di salire
+ad espiare le pene (|martiri~) nei gironi del Purg. vero e
+proprio.  Nelle prime due battute, Belacqua ha parlato in modo
+equivoco, con esclamativi o interrogativi, senza aggiungere
+alcuna spiegazione.  Ora, invece, si preoccupa subito di
+precisare le ragioni che lo tengono in quello stato di attesa, ma
+non di negligente attesa.  Quell'atteggiamento plastico
+dell'indolente ha una ragione esclusivamente rappresentativa,
+onde mostrare una continuit@a tra il carattere del personaggio in
+vita e nell'aldil@a.  @E in funzione narrativo-figurale, e niente
+affatto morale.
+
+	|130-132.  di fuor~: prima che io possa varcare quella
+porta del Purg., @e necessario (|convien~) che il cielo giri
+attorno a me (|m'aggiri~) in questo posto fuori della porta tanto
+tempo, quanto esso cielo mi gir@o attorno (|fece~) nella mia prima
+vita (|in vita~), cio@e devo ^attendere~ nell'Antipurgatorio tanto
+tempo quanto dur@o la mia vita terrena, perch$e io rimandai
+(|indugiai~) alla fine della mia vita i sospiri del pentimento
+(|buon~: nel senso attivo, che procurano il bene).  Questa
+seconda parte, in cui il discorso di Belacqua si fa pi@u ampio,
+pi@u serio, ed anche pi@u solenne, rivela chiaramente un tono di
+lieve mestizia, e, a suo modo, l'anelito alla purificazione, che
+gli conferisce un fondo pensoso e morale, che dapprima pareva
+imprevedibile in lui.  Anche la sintassi narrativa si @e fatta man
+mano pi@u complicata e solenne nel ritmo accorato con cui egli
+rivela i suoi pi@u segreti sentimenti e le sue ansie del cielo. 
+Il suo linguaggio non @e fatto pi@u di ^parole corte~ {v. 121}:
+sotto quelle apparenze indolenti abituali durante la sua vita
+terrena, ora palpita un'anima nuova, rinnovata da pentimento e
+dal desiderio di espiazione.  Per un momento il sentire di D. e
+quello di Belacqua si armonizzano, ciascuno a suo modo, l'uno
+giustificando la necessit@a del suo ^attendere~ e l'altro il
+dovere del suo ^correre~ (Petrocchi).
+
+	|133-135.  se orazione~: se non mi aiuta ad espiare prima
+(del tempo stabilito da Dio) la preghiera (|orazione~) che
+s'innalza (|surga~) a Dio (|su~) un'anima che stia in grazia del
+cielo: l'altra preghiera, quella del peccatore, a che varrebbe,
+dato che non @e esaudita in cielo.  In questi ultimi versi si
+rivela completamente l'anima vera di Belacqua, esprimendo sempre
+con la consueta flemma, il suo pi@u segreto anelito alla
+purificazione.  Non per nulla la sua ultima frase finisce con un
+punto interrogativo, in cui @e evidente la coerenza col suo
+iniziale scetticismo circa la impazienza e lo zelo di salire
+verso la montagna, che aveva dimostrato D.  Il suo linguaggio ora
+si @e fatto esperto anche di teologia, se @e vero che ripete alla
+lettera un passo di S. Giovanni, IX, 31: <^Dio non ascolta i
+peccatori; ma se qualcuno adora Dio e ne esegue la volont@a, egli
+lo esaudisce~>.  La solennit@a di questa espressione messa in
+bocca a Belacqua a conclusione del suo discorso e del canto
+stesso, che continua il motivo delle indulgenze, gi@a aperto con
+Manfredi, completa l'umanit@a di Belacqua, in quanto alla sua
+paziente attesa del cielo aggiunge anche <quella malinconia che @e
+di tante anime del Purg., di non avere pi@u in terra chi si
+ricordi di loro, o ricordandosene, sia anche degno di rivolgere a
+Dio una preghiera efficace> (Bosco, ^l.c.~ {^Atti dell'Arcadia~,
+1938}, 8).  Sui suffragi, cfr. S. Tommaso, ^S. Th.~, p. III,
+Suppl. qu. LXXI, art. 2, 6.
+
+	|137-139.  vedi~: che il meridiano del Purg. @e toccato
+(|tocco~) dal sole, cio@e @e mezzogiorno qui nel Purg. e nell'altro
+emisfero la notte gi@a ha posto il piede (|cuopre col pi@e~)
+sull'ultima terra occidentale, sul Marocco, alla riva
+dell'Oceano, cio@e @e notte gi@a nell'altro emisfero.  La brusca
+interruzione di Virgilio, che ricorda a D. il tempo del suo
+viaggio, come un dovere sempre sollecito verso l'ascesa, @e in
+perfetta coerenza col suo atteggiamento ostile verso i pigri:
+<perder tempo a chi pi@u sa pi@u spiace> {^Purg.~ III, 78}.

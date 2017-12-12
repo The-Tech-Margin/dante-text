@@ -1,0 +1,776 @@
+	|Proemio.~  ^Poi fummo dentro~ ec.  Questo @e lo decimo canto de la 
+seconda cantica, nel quale l'autore nostro finge che, intrato dentro 
+del purgatorio, sallitte in su la prima cornice del monte, dove finge 
+che si purghi lo peccato de la superbia, come pi@u grave che tutti; 
+finge che si purghi di sotto da tutti, pi@u di lunge dal cielo che 
+tutti li altri.  E dividesi questo canto in due parti, come abbiamo 
+diviso tutti li altri: imper@o che prima descrive lo luogo de la 
+sallita e la cornice e la ripa che @e cinta de la cornice, et alcune de 
+l'istorie che erano intalliate ne la ripa, secondo la sua notabile 
+finzione; ne la secunda finge che vi fusse intalliata un'altra istoria, 
+et incomincia a narrare de la pena dei superbi, che finge che si 
+puniscano in su questa prima cornice con nuovo martirio, ben 
+correspondente al peccato de la superbia, quive: ^Io mossi 'l pi@e del 
+luogo~ ec.  La prima, che ser@a la prima lezione, si divide in cinque 
+parti: imper@o che prima finge come, intrato elli e Virgilio dentro da 
+la porta del purgatorio, la sent@i richiudere sensa voltassi ad essa; 
+ne la seconda descrive la sallita di quinde al primo balso, o volliamo 
+cornice del purgatorio, quive: ^Noi sallivam~ ec.; ne la tersa descrive 
+com'era fatta quella prima cornice, quive: ^Ma quando~ ec.; ne la 
+quarta descrive la ripa che surgea da la cornice in su, e pone alcuna 
+de l'istorie che quive finge essere sculte, quive: ^Lass@u non eran~ 
+ec.; ne la quinta finge che Virgilio lo induca a considerare un'altra 
+istoria del Vecchio Testamento, quive: ^Non tener pur ad un~ ec.  
+Divisa adunqua la lezione, ora @e da vedere lo testo co l'esponizioni 
+litterali, allegoriche e morali.
+
+	|1-6.~  In questi due ternari lo nostro autore finge che, intrato 
+dentro da la porta elli e Virgilio, sentitte serrare la porta del 
+purgatorio, dicendo cos@i: ^Poi~; cio@e poich@e, ^fummo~; cio@e 
+Virgilio et io Dante, ^dentro al sollio de la porta~; cio@e del 
+purgatorio; lo qual sollio finse di sopra, che era di diamante, a 
+denotare la fermessa che conviene avere a colui che entra ne lo stato 
+de la penitenzia.  E d@esi notare, come fu detto di sopra, che altro @e 
+la porta, et altro @e l'uscio che serra la porta.  L'autore dice nel 
+testo ^porta~, a denotare la entrata del purgatorio; e nota che ^porta~ 
+fu ditta prima da portare: imper@o che li antichi, quando edificavano 
+una citt@a iungeano iuvenchi maschio e femina a l'aratro, e lassavano 
+andare intorno del giro de l'aratro; e quive u' volevano le porte de la 
+citt@a, sospendevano e portavano l'aratro, perch@e non segnasse quive 
+u' dovea essere la porta; e perch@e quando era quive, ogni uno gridava: 
+Porta, porta; cio@e l'aratro, per@o fu chiamata poi ^porta~.  E quine 
+dov'era lo sulco cavavano e fondavano lo muro, e questo faceano per 
+dare buono augurio, ch'ella fruttificasse in generazione di cittadini 
+per la coniunzione del maschio co la femmina, e diventasse fertile come 
+la terra per lo lavorio de' buoi.  ^Che il mal amor dell'anime disusa~; 
+si pu@o intendere in du' modi; prima cos@i: ^Che~; cio@e la qual porta, 
+^il mal amor dell'anime~; cio@e l'amore de le cose mondane che @anno 
+l'anime umane, ^disusa~; cio@e fa disusare: imper@o che, come fu sposto 
+di sopra, lo mal amore @e l'uscio, che tiene serrata la porta, fa 
+disusare la porta: per@o che, quando tiene serrata la entrata, non vi 
+si pu@o intrare; lo secondo modo @e questo: ^Che~; cio@e da la quale 
+porta, ^il mal amor~; cio@e mondano, ^disusa~; cio@e disvessa e svia, 
+^dell'anime~; cio@e alquante dell'anime, non tutte; e per@o pilli lo 
+lettore quello intelletto che pi@u li piace.  ^Perch@e~; ecco che 
+assegna la cagione, per che lo mal amore fa sviare l'anima da la 
+entrata de la penitenzia; cio@e imper@o che, ^fa parer~; lo mal amor, 
+^dritta la via torta~; la via torta, cio@e la via viziosa, fa parer 
+virtuosa: l'amore che l'omo @a de le cose mondane fa piacere quello che 
+d@e dispiacere, e fa dispiacere quello che d@e piacere: la via diritta 
+de le virt@u ci mena a la felicit@a eterna, la via torta dei vizi ci 
+mena a la miseria perpetua.  ^Sonando~; questo @e secondo la lettera, 
+che se la porta @ae l'uscio di metallo e li spigoli e li cardini, 
+quando s'apre d@e fare grande suono, e cos@i quando si chiude; et 
+allegoricamente si d@e intendere, gridando la fama di quelli che 
+rimagnano fuora de la via de la penitenzia.  ^la senti'~; io Dante, 
+^esser richiusa~; cio@e la porta ditta di sopra, cio@e per udito non 
+per veduta: per udita @e quando l'omo ode dire: Tale @e ritornato nel 
+vizio; per veduta @e quando l'omo similmente si trova nel vizio in che 
+altri @e caduto; e per@o dice ch'elli la sent@i; ma non vidde 
+richiudere, e per@o adiunge: ^E s'io avesse li occhi~; di me Dante, 
+^volti ad essa~; cio@e ad essa porta chiusa, ^Qual fora stata al fallo 
+degna scusa?~  Cio@e nulla: imper@o ch'io n'era stato ammonito, come 
+appare di sopra, che chi si volge a drieto torna di fuora.  Et 
+allegoricamente d@a ad intendere che, poi che l'omo @e intrato ne la 
+via de la penitenzia, non si d@e volgere a drieto, non ne d@e uscire; e 
+per@o dice: S'io Dante avesse volti li occhi de la ragione e de lo 
+intelletto a l'amore del mondo, e come mi potrei scusare degnamente del 
+mio fallo, che la santa Scrittura me n'ammonisce?  Dice santo Gregorio: 
+^Poenitere est ante peccata deflere, et flenda non committere~; e s. 
+Ambrogio: ^Poenitentia est mala praeterita plangere, et plangenda non 
+committere~; et Boetius in III ^Philosophicae Consolationis~, dice: 
+^Sed lex dona ocerceat, Ne dum tartara liquerit, Fas sit lumina 
+flectere~.
+
+	|7-16.~  In questi tre ternari et uno versetto lo nostro autore 
+descrive la sallita di quinde; cio@e da la porta al primo balso, o vero 
+cornice, dicendo cos@i: ^Noi~; cio@e Virgilio et io Dante, ^sallivam 
+per una pietra fessa~.  Finge l'autore che la pietra, unde era la 
+sallita, fusse fessa per lungo, che si movea or dall'uno lato or da 
+l'altro, e per@o dice: ^Che si movea e d'una e d'altra parte~; cio@e la 
+detta pietra, et adiunge una similitudine, dicendo: ^Come l'onda che 
+fugge o che s'appressa~; e cus@i facea quella pietra fessa come fa 
+l'onda del mare che ora s'appressa a la piaggia, ora fugge da essa, e 
+cos@i la pietra ora s'accostava da la sinistra, e da la destra si 
+scostava; ora facea l'opposito, e cos@i facea per tutto quanto durava 
+la sallita.  E per questo si mostra chiaramente che l'autore, bench@e a 
+la lettera parli di quelli del purgatorio; allegoricamente intende di 
+quelli del mondo: imper@o che questa pietra significa la duressa et 
+aspressa del sallimento a la perseverazione de la penitenzia, a la 
+quale conviene salire l'anima poich@e @a passato li tre gradi ditti di 
+sopra.  E perch@e molti impacci vegnano a quelli che a la perseveranzia 
+de la penitenzia volliano sallire, or da la prosperit@a che li rilassa 
+da la penitenzia, premendo loro addosso et occupandoli et impacciandoli 
+da essa, or da la avversit@a che li preme e grava troppo, conviene che 
+si sappino accostare a la parte che allarga, e cessare quella che 
+stringe et usare discrezione, la quale se non si tiene dalli omini de 
+la penitenzia, tosto vegnano meno: imper@o che la indiscreta penitenzia 
+uccide lo corpo tosto, la quale cosa non piace a Dio che vuole che 
+l'omo viva quanto pu@o; e per@o quando l'omo che @e ne lo stato de la 
+penitenzia vede che la penitenzia lo stringa troppo, allarghisi: 
+imper@o che la discreta penitenzia @e quella che piace a Dio, et anco 
+si pu@o intendere che molte tentazioni vegnano or da la destra or da la 
+sinistra, che stroppiano lo sallimento a la perseveranzia de la 
+penitenzia, e per@o ci fa cauti l'autore che le fuggiamo quando ci 
+premeno addosso, fingendo che Virgilio, che significa la ragione, 
+n'ammonisca lui che significa la sensualit@a.  E per@o dice: ^Qui~; 
+cio@e in questo sallire, ^si convien usare un poco d'arte~; cio@e di 
+regula: imper@o che l'arte @e quella che ci stringe con regule e 
+dottrine, ^Cominci@o 'l Duca mio~; cio@e Virgilio, ^in accostarsi Or 
+quinci, or quindi~; cio@e or da destra, or da sinistra, ^al lato che si 
+parte~; cio@e la detta pietra s'allarga.  ^E questo fece i nostri passi 
+scarsi~; cio@e questo volgere or a destra, or a sinistra, fece li 
+nostri montamenti minori: per@o che non si monta s@i tosto volendo 
+montare con allargamento, quando lo passo fusse troppo stretto o quando 
+si cessa la tentazione, come farebbe quando questi impedimenti non 
+fusseno, ^Tanto, che pria lo scemo de la luna~; questo dice per 
+mostrare che lo quartodecimo de la luna era gi@a passato: imper@o che 
+ne la innovazione de la luna sempre lo lato lucido @e in verso ponente, 
+in fine che @ae passato d@i 14; e passato questo termino, lo lato 
+lucido sta in verso levante e lo scemo in verso ponente; e per mostrar 
+questo dice ^lo scemo de la luna~, che andava innansi, ^Rigiunse al 
+letto suo~; cio@e al ponente, ^per ricolcarsi~; parla secondo li 
+volgari che diceno che la Luna e lo Sole si coricano, quando passano lo 
+nostro orizzonte; e non si d@e intendere che fusse di notte: imper@o 
+che di notte non si potrebbe sallire, come ditto fu di sopra; ma fu di 
+d@i: imper@o che, quando la Luna manca, tutta via tiene del d@i stando 
+ne l'emisperio col Sole, ^Che noi~; cio@e Virgilio et io Dante, 
+^fussimo fuor di quella cuna~; cio@e di quella pietra cava a modo d'una 
+cuna; cio@e d'uno ghieculo che s'appressava da l'uno lato, e dall'altro 
+s'allargava; ora in uno luogo, ora in uno altro, secondo che in su 
+sallivano quando se la vedeano accostare, quando fuggire e scostare, 
+secondo che detto @e di sopra.
+
+	|17-27.~  In questi due versetti e tre ternari lo nostro autore finge 
+come montonno suso in su la prima cornice, e descrive com'ella era 
+fatta, dicendo cos@i: ^Ma quando fummo liberi et aperti~; cio@e 
+Virgilio et io, che eravamo usciti da la pietra cavata, ^Su dove 'l 
+monte dritto si rauna~; cio@e si raccollie in fine a quel primo balso: 
+imper@o che infine a quive la ripa @e ritta, ^Io~; cio@e Dante, 
+^stancato~: imper@o che la carne s@i stanca l'anima nostra del montare 
+a la perseveranzia de la penitenzia; et allegoricamente s'intende la 
+sensualit@a stanca; ma non la ragione, ^et ambedu' incerti Di nostra 
+via~; cio@e Virgilio et io eravamo incerti de la via che dovessimo 
+tenere: imper@o che la sensualit@a, n@e la ragione sa la via che d@e 
+tenere ne la perseverazione de la penitenzia, s'ella nolli @e mostrata 
+da la grazia di Dio, ^ristemmo su in un piano~; e questo @e lo primo 
+balso del purgatorio, dove finge l'autore che si purghi lo peccato de 
+la superbia, ^Solingo pi@u che strade per diserti~; e per questo d@a ad 
+intendere la pogansa delli omini che si salvano, mostrando essere quive 
+solitudine pi@u che ne le strade che sono ne' diserti.  ^Da la sua 
+sponda~; cio@e del canto del balso di fuori, cio@e di verso la montata; 
+e per@o dice: ^onde confina il vano~; per@o che non v'@e riparo, 
+^Appi@e dell'alta ripa~; cio@e verso lo monte che sale, che era 
+talliato ritto com'una ripa, ^che~; cio@e la quale ripa, ^pur sale~: 
+per@o che si stende in suso, ^Misurrebbe in tre volte un corpo umano~; 
+cio@e era largo quel balso 15 piedi: imper@o che comunemente l'omo @e 
+lungo 5 piedi s@i, che quanto tre volte si potea stendere uno omo, era 
+la larghessa del balso primo.  ^E quanto l'occhio mio~; parla Dante de 
+la vista sua, ^potea trar d'ale~; cio@e potea stendersi la virt@u 
+visiva di Dante, ^Or dal sinistro et or dal destro fianco~; cio@e in 
+verso mano destra e sinistra, ragguardando lo circuito del monte, 
+^Questa cornice~; cio@e lo primo balso, ^mi parea cotale~; s@i larga, 
+come detto @e di sopra.  Ora che l'autore @ae incominciato a trattare 
+del purgatorio, debbiamo attendere la divisione del processo; e 
+debbiamo sapere che l'autore finge che intorno a questo monte siano 
+sette balsi fatti, come questo primo; ma l'uno @e minore che l'altro 
+s@i, come lo monte digrada et assottillia quanto pi@u si monta in su, 
+sicch@e nel primo, del quale si tratta in questo canto e nell'altri, 
+finge l'autore che si purghi lo peccato de la superbia; nel secondo 
+balso si purghi lo peccato de la invidia, lo quale balso @e minore che 
+'l primo e pi@u alto; e comincia a trattare d'esso nel canto XIII, che 
+incomincia: ^Noi eravamo~ ec.  Nel terso balso finge che si purghi lo 
+peccato de l'accidia, e finge che sia minore e pi@u alto che 'l 
+secondo; et incomincia a trattare di quello nel canto XV, che 
+incomincia: ^Quanto tra l'ultimar~ ec.  Nel IV balso finge che si 
+purghi lo peccato de l'ira, e finge che sia minore e pi@u alto che 'l 
+terso; et incomincia a trattare di quello nel canto XVII che 
+incomincia: ^Ricorditi, Lettor~ ec.  Nel V balso finge che si purghi lo 
+peccato de l'avarizia, e finge che sia minore e pi@u alto che 'l IV; et 
+incomincia a trattare di quello nel canto XIX, che incomincia: 
+^Nell'ora che non pu@o 'l calor~ ec.  Nel VI balso, che finge essere 
+minore e pi@u alto che 'l V, finge che si purghi lo peccato da la gola; 
+et incomincia a trattare di quello nel canto XXII, et incomincia: ^Gi@a 
+era l'Angel~ ec.  Nel VII balso, che finge essere minore e pi@u alto 
+che 'l VI, finge che si purghi lo peccato de la lussuria; et incomincia 
+a trattare di quello nel canto XXV, che incomincia: ^Ora era che 'l 
+salir~ ec.  E sopra il VII balso finge essere una pianura in su la 
+sommit@a del monte, e quive finge che sia lo paradiso ^delitiarum~; e 
+di quello incomincia a trattare nel canto XXVIII che incomincia: ^Vago 
+gi@a di cercar~ ec., e d'esso tratta infine a la fine de la cantica.
+
+	|28-45.~  In questi sei ternari lo nostro autore finge che la ripa del 
+primo balso, che cinge lo secondo, fusse di marmo bianchissimo, 
+intalliato e sculpito tutto d'imagini d'umilit@a; e la prima che finge 
+che vedesse sculpita si @e quella dell'umilit@a de la Virgine Maria, 
+quando riceve in s@e lo nostro signore Ges@u Cristo incarnato di lei e 
+de lo Spirito Santo, perch@e la Nostra Donna ebbe maggiore umilit@a che 
+mai avesse creatura.  E questo finge l'autore, perch@e in questo primo 
+balso finge che si purghi lo peccato de la superbia, lo quale perch@e 
+@e pi@u grave peccato che sia, per@o finge che si purghi nel luogo pi@u 
+basso e pi@u di lunge dal cielo che tutti li altri.  E perch@e ne la 
+prima cantica @e stato ditto de la superbia, e trattato di quello che 
+era di bisogno a la materia, non replicher@o qui se non quello che @e 
+conveniente a la purgazione di s@i fatto peccato, come finge l'autore; 
+et imper@o che li omini di penitenzia, quando si purgano di tal peccato 
+si recano a memoria quanto @e la grandessa dell'umilit@a, e quanto ella 
+piace e fa piacere chi l'@ae a Dio, e come ella @ae sempre messo li 
+suoi possessori in eccellentissimo stato, acciocch@e si dolliano di non 
+averla avuta e d'avere avuto lo suo contrario; e per@o finge l'autore 
+questa scolpitura, per dare ad intendere che questo cos@i fatto 
+pensieri aiuta a sostenere ogni pena per amore di tale virt@u coloro 
+che sono nel mondo; e quelli che sono in purgatorio adiuta a sostenere 
+la pena loro debita per lo peccato.  Dice cos@i: ^Lass@u~; cio@e in su 
+la prima cornice, e primo balso del purgatorio, ^non eran mossi i pi@e 
+nostri anco~; cio@e li piedi miei e di Virgilio non erano mossi, 
+poich@e eravamo iunti, ^quando cognobbi~; cio@e io Dante, ^quella ripa 
+intorno~; che cingea lo primo balso, ^Che di sallita dritta avea 
+manco~; cio@e che non v'era luogo da sallire: anco era ritta come uno 
+muro, ^Esser di marmo candido et adorno D'intalli~; cio@e che Dante 
+s'avidde che la ripa era di marmo intalliato, ^s@i, che non pur 
+Policreto~; questo Policreto fu uno grande maestro d'intalli, e per@o a 
+lodamento de la scolpitura lo nomina, dicendo che sarebbe stato vinto, 
+^Ma la natura l@i avrebbe scorno~: imper@o che pi@u propie erano le 
+scolpiture che non arebbe saputo fare Policreto, n@e la natura potuto 
+producere.  E questo possiamo dire che significhi che la fantasia 
+nostra apprende le cose pi@u perfettamente che l'arte, ne la natura non 
+produce, o volliamo dire che sia sermone iperbolico.  ^L'Angel che 
+venne in terra col decreto~; cio@e l'Angiul Gabriel che fu mandato a la 
+Virgine Maria, ^De la molti anni lacrimata pace~: imper@o che i santi 
+Padri aveano aspettato questa pace nel limbo milliaia d'anni, come 
+appare ne la tersa cantica: decreto tanto vale quanto cosa iudicata, 
+deliberata e consilliata, ^Che aperse il Ciel al suo lungo devieto~; 
+cio@e all'umana specie che v'era stata divietata tante milliaia d'anni; 
+cio@e 5232 anni passonno dal principio del mondo al descenso di Cristo 
+nel limbo, come appare ne III la cantica nel canto XXVI, ^Dinanzi a 
+noi~; cio@e a Virgilio et a me Dante, ^pareva s@i verace Quivi~; cio@e 
+in quella parete di marmo, ^intalliato in un atto soave~; cio@e dolce e 
+piano, ^Che non sembiava~; cio@e parea, ^imagine che tace~; ma che 
+parlasse.  ^Giurato si ser@e~; da chi l'avesse veduto, ^ch'el dicesse 
+Ave~; cio@e nell'atto che stava, e ne l'aprire de la bocca.  
+^Perch'ivi~; cio@e in quella parete innanti a lui, ^era imaginata 
+Quella~; cio@e la Virgine Maria, ^Che ad aprir l'alto amor~; cio@e lo 
+Spirito Santo, ^volse le chiave~: l'umilit@a e la santit@a de la 
+Virgine Maria fu s@i grande, che 'l s'aperse lo Divino Amore a mandare 
+lo suo Filliuolo ad incarnare, per ricomprare l'umana natura.  ^Et avea 
+in atto impressa~; cio@e figurata et atteggiata s@i, che parea che 
+parlasse l'imagine de la Virgine Maria, ^esta favella~; cio@e questo 
+parlare: ^Ecce ancilla Dei~; come ella rispose, ricevuta l'ambasciata 
+dell'angiulo, ^s@i propriamente, Come figura in cera si suggella~; 
+cos@i pareva propria quella imagine, come si fa propria l'imagine del 
+suggello ne la cera.  Et @e da notare che l'autore finge che tre 
+istorie vedesse figurate et intalliate nel marmo; cio@e la prima de la 
+umilit@a de la Virgine Maria, per la quale s'inchin@o la Divina 
+Maiest@a a mandare lo suo Filliuolo a prendere carne umana di lei; la 
+seconda di David, quando s'umili@o ad andare coi sacerdoti innanti a 
+l'arca ^foederis~, saltando in abito assai infimo; la tersa di Traiano 
+imperadore che s'umili@o ad arrestarsi con tutto l'esercito a far 
+ragione a la vedovella, per mostrare che 'l superbo in tre modi usa la 
+sua superbia; cio@e o contra maggiore di s@e, et essendoli 
+disobediente; e contra questa specie di superbia @e la storia 
+dell'umilit@a de la Virgine Maria, che fu tanto obediente a Dio e s@i 
+l'am@o perfettamente, che disse: ^Ecce ancilla Dei, fiat mihi secundum 
+verbum tuum~.  Lo secondo modo del superbo @e contra li suoi pari, li 
+quali dispregia et inimica; e contra questa specie @e la storia del 
+salmista David, che si fece meno che li suoi pari, et aiutolli al 
+servigio.  Lo terso modo del superbo @e contra li suoi minori, li quali 
+@ae a vile et ingiuriali; e contra questa specie @e la storia di 
+Traiano che tanto s'umili@o, che fece somma iustizia a la vedovella.  E 
+bench@e l'autore, secondo la lettera, finga che siano sculpite nel 
+purgatorio convenientemente, perch@e l'anime che si purgano 
+s'arricordano, quando si purgano de la loro superbia, delli atti 
+dell'umilit@a, e portano pazientemente la pena, pensando quant'@e la 
+virt@u che @anno lassata; e moralmente insegna a quelli del mondo, che 
+sono in stato di penitenzia che rivolgano li loro pensieri sopra li 
+atti virtuosi contro a la loro superbia, e portano volontieri la 
+penitenzia e non parr@a loro grave, e per@o finge l'autore nel testo 
+che le figure fussino s@i proprie: imper@o che la fantasia nostra ci 
+rappresenta la cosa, com'ella @e.
+
+	|46-69.~  In questi otto ternari l'autore nostro finge che di po' la 
+storia della incarnazione del Filliuolo di Dio, dove si mostra la 
+grande umilit@a de la Virgine Maria, l'ubidienzia e l'amore che ebbe in 
+verso Iddio, fusse scolpita nel marmo la storia di David, la quale fu 
+in questa forma.  Dice la Bibbia che Mois@e, che trasse lo populo 
+d'Egitto, fece fare un'arca ne la quale erano riposte le taule de la 
+legge, ch'elli avea ricevuto da Dio nel monte Sinai, e la virga co la 
+quale fece aprire lo mare Rosso, et uno vagello di manna de la quale 
+Iddio notric@o lo populo d'Israel nel diserto.  E quest'arca precedeva 
+lo populo, quando si mutava; e quest'arca figurava lo tempio di 
+Salomone, lo quale in processo di tempo fu poi fatto; e quest'arca era 
+in casa d'Aminadab che era in Gelboe, e David re la volse conducere in 
+Gerusalemme, e fece apparecchiar lo carro e li buoi; e postavi suso 
+l'arca, elli vestito umilmente a modo dei sacerdoti, andava cantando e 
+citarizando innanti a l'arca, e condussela in verso la citt@a.  E 
+quando piacque a Dio, li buoi incomincionno a ricalcitrare, e non 
+volere andare pi@u innanti; et essendo punti incomincionno a levare lo 
+carro, sicch@e l'arca fu per cadere, unde uno dei familli del re puose 
+mano a l'arca perch'ella non cadesse, lo quale aveva nome Oza.  Per la 
+qual cosa Iddio corucciato contra di lui, perch@e s'impacci@o di quello 
+che non era licito a lui, che non era suo off@icio toccare e ministrare 
+le cose sacre, cadere lo fece quive morto; e quive rimase l'arca per 
+mesi tre in casa di Obedion Zarei, e poi torn@o David al modo primo per 
+essa, e condussela in la citt@a al modo ditto di sopra.  Unde Micol sua 
+donna, filliuola del re Saul stava a la finestra; e vedendo lo re cos@i 
+despetto, se ne meravilli@o e turbossi de lo stato vile del re.  E 
+questa istoria @e contra lo superbo che non pate suo pari: imper@o che 
+David s'umili@o a pari dei sacerdoti e dell'altro populo che 
+accompagnava l'arca; li sacerdoti d'inanzi, e 'l populo di rieto.  Dice 
+adunqua cos@i: ^Non tener pur~; cio@e tu, Dante, parla Virgilio, ^ad un 
+luogo la mente~; cio@e non considerare pur lo primo grado dei superbi: 
+imper@o che, volendo purgare interamente lo peccato de la superbia, @e 
+mestieri che si considerino tutti e tre li suoi gradi; e per@o li 
+mostra lo secondo grado ora in questa istoria per opposito: mostratoli 
+lo primo ne la prima istoria dell'umilit@a de la Virgine Maria; cos@i 
+ora li mostra Virgilio, che significa la ragione, lo secondo in questa 
+istoria, mostrandoli l'umilit@a di David, e per@o dice: ^Disse 'l dolce 
+Maestro~; cio@e Virgilio, ^che m'avea~; cio@e me Dante, ^Da quella 
+parte ove il cuor @a la gente~; cio@e m'avea dal lato manco.  E questo 
+secondo la lettera, @e conveniente: imper@o che, giunti in sul balso, e 
+Virgilio che guidava Dante stando ritto verso la parete de la cornice 
+per andare, e Dante guidare in verso man destra, come finge l'autore 
+che tutta via andasseno per lo purgatorio, come per lo inferno, @ae 
+finto che andasseno in verso man sinistra; e Dante volendo onorare 
+Virgilio, andandoli dirietamente su convenia che stesse dal lato manco 
+di Virgilio, e cos@i lo lato manco di Virgilio venia al lato destro di 
+Dante; ma allegoricamente d@a ad intendere che la virt@u sensitiva, 
+significata per Dante, @ae suo principio dal cuore.  ^Perch'io~; cio@e 
+Dante, ^mi mossi~; del luogo dove prima era e passai dal lato destro di 
+Virgilio, come si specifica di sotto, ^e col viso vedea~; io Dante, ^Di 
+rieto da Maria~; dice di rieto de la storia ditta di sopra de la 
+Virgine Maria, ^da quella costa, Onde m'era colui che mi movea~; cio@e 
+da la costa del monte che venia di verso mano sinistra a Virgilio, e 
+cos@i a Dante che li era al lato: la ragione muove la sensualit@a 
+quanto la volont@a obedisce; e per questo si d@e intendere che gi@a 
+s'erano volti in verso mano ritta, per andare, e Dante era dal lato di 
+sotto di verso l'aperto, ^Un'altra storia~; cio@e quella di David ditta 
+di sopra, ^ne la roccia imposta~; cio@e incominciata ne la costa del 
+monte, che era ritta come una parete.  ^Perch'io~; cio@e per la quale 
+cosa io Dante, ^varcai Virgilio~; cio@e di l@a da lui, ^e fe'mi 
+presso~; a la ditta storia, ^Acciocch@e fosse alli occhi miei 
+disposta~; cio@e manifesta.  Che l'autore finga che quella de la 
+Virgine Maria fusse considerata e veduta da lui e da Virgilio, e questa 
+li fusse fatta vedere da Virgilio, non @e sensa cagione: imper@o che a 
+la prima si richiedea la considerazione de la ragione e de la 
+sensualit@a, considerando l'atto e l'allegorico intelletto de la 
+istoria; ma in questa Dante considera pur l'atto, non quello ch'ella 
+dimostrava come figura; e per@o finge che Virgilio lo solliciti, et 
+elli vada a vedere che elli non ne vuole considerare altro che 
+l'umilit@a di David, non quel che figur@o questo misterio.  ^Era 
+intalliato l@i nel marmo stesso~; cio@e in quello ch'era intalliata la 
+storia ditta di sopra, ^Lo carro, e i buoi traendo l'arca santa~; 
+questo appare per la storia ditta di sopra, ^Perch@e si teme officio 
+non commesso~; cio@e perch@e Oza mor@i che volse sostener l'arca 
+perch@e non cadesse, mostr@o Iddio che li omini non si denno mettere a 
+fare l'officio che non @e commesso a lui.  ^D'inanzi parea gente~; nel 
+marmo intalliata, ^e tutta quanta Partita in sette cori~; dice che 
+d'inanzi a l'arca andava gente partita in sette cori, come sono sette 
+li doni de lo Spirito Santo, e come sono li stati delli omini virtuosi 
+che sono nel mondo; e cos@i rispondeno sette stati in vita eterna, ^ai 
+du' miei sensi~; cio@e al vedere et a l'udire, ^Facea dir l'un~; cio@e 
+l'udire: ^Non~; cio@e non canta: imper@o che Dante non udiva lo canto, 
+^l'altro~; cio@e lo vedere facea dire: ^S@i canta~: imper@o che quanto 
+a lo intallio e figurazione parea che cantasseno.  ^Similemente al fumo 
+de l'incensi Che v'era imaginato~; cio@e sculpito nel marmo, ^e li 
+occhi~; cio@e la vista, ^e 'l naso~; cio@e l'odorato, ^Et al s@i et al 
+no discordi fensi~: per@o che li occhi diceano: Io veggio lo fumo de lo 
+incenso; e 'l naso dicea: Io non sento l'odore; e cos@i erano in 
+discordia.  ^L@i~; cio@e quive in quella scolpitura, ^precedeva il 
+benedetto vaso~; cio@e andava innanti a l'arca, ^Trescando~; cio@e 
+ballando, ^alzato~; per essere spedito a ballare, ^l'umile Salmista~; 
+cio@e David che fece lo Salterio, e per@o si chiama lo Salmista, e 
+tanto fu umile che Iddio disse di lui: ^Inveni hominem secundum cor 
+meum -- E pi@u~; era che re: imper@o che tenea officio di sacerdote, ^e 
+men che re era~: imper@o che era umiliato, vestito vilmente a pari di 
+loro, ^in quel caso~: imper@o che non tenea maest@a regale, andando a 
+quel modo anco mancava de la sua grandessa.  ^Di contra~; cio@e a la 
+storia ditta di sopra quine dov'era David alsato che ballava, 
+^effigiata~; cio@e scolpita e figurata, ^ad una vista~; cio@e ad una 
+finestra, ^D'un gran palazzo~; cio@e del palasso regale, effigiata in 
+quel marmo, ^Micol~; questa era la donna di David, filliuola che fu di 
+Saul, ^l'ammirava, S@i come donna dispettosa e trista~: imper@o che 
+vedea David in s@i fatto abito, come ditto fu di sopra, che non era 
+contenta.  E qui finisce la prima lezione del canto X.
+	^Io mossi 'l pi@e~ ec.  Questa @e la secunda lezione del canto X ne la 
+quale finge lo nostro autore che fusse intalliata nel marmo de la 
+cornice ditta di sopra la tersa istoria, che significa umilit@a contra 
+il terso grado dei superbi; e dimostra lo peccato de la superbia esser 
+purgato in su questo primo balso con pena rispondente degnamente al 
+ditto peccato.  E dividesi questa seconda lezione in 5 parti: imper@o 
+che prima finge che vedesse anco scolpita nel marmo de la ditta cornice 
+la storia di Traiano imperadore; ne la seconda finge che Virgilio li 
+mostri li peccatori che quive si purgavano, e come lo conforta, quive: 
+^Mentr'io mi dilettava~ ec.; ne la terza finge che per la nuova 
+condizione, in che erano quelle anime che si purgavano de la superbia, 
+elli nolle scorgea e lamentasene a Virgilio, e Virgilio lo dichiara di 
+ci@o, quive: ^Io comincia'~ ec.; ne la quarta finge com'elli fece una 
+esclamazione contra li superbi, mosso per quello che vedea quive: ^O 
+superbi cristian~, ec.; ne la quinta finge com'era fatta la loro 
+condizione, dichiarandola per similitudini, quive: ^Come, per sostener~ 
+ec.  Divisa la lezione, ora @e da vedere lo testo coll'allegoria e co 
+la sua esposizione.
+
+	|70-96.~  In questi nove ternari lo nostro autore finge come elli di 
+po' la storia ditta di sopra, elli si mosse per vedere un'altra storia 
+ch'era quive presso; cio@e quella di Traiano imperadore la quale @e 
+contra li superbi che opprimeno et iniurano li minori: imper@o che elli 
+fece somma iustizia ad una vedovella, lassandosi da le' riprendere, 
+come appare in essa.  Leggesi che al tempo di s. Gregorio papa, 
+cavandosi a Roma in certo luogo; cio@e ne la piassa publica per fare 
+uno fondamento, li cavatori trovonno in uno sepulcro uno capo umano che 
+avea la lingua fresca come quando era vivo, di che ogni uno si 
+meravilliava.  E portato questo capo a santo Gregorio, elli lo 
+sconiur@o de la parte di Dio che li dovesse dire chi elli fu; et allora 
+la testa parl@o e disse: Io fu' Traiano imperadore, lo quale fu' a 
+cento anni di po' l'avvenimento di Cristo, e sono dannato perch@e non 
+ebbi cognoscimento de la fede di Cristo.  Allora s. Gregorio, 
+dimandando de la vita sua, trov@o che fu benigno, umile et iusto 
+signore, e tra l'altre cose uditte dire questa istoria di che l'autore 
+fa menzione; cio@e che essendo a cavallo co l'esercito di rieto, e co 
+le insegne sopra capo per uscire di Roma et andare a vincere alcuno 
+regno che s'era ribellato, avvenne caso che uno suo filliuolo uccise 
+uno filliuolo d'una vedovella, lo quale sustentava la vita de la madre 
+co la sua fatica; unde la vedovella si li par@o inansi al cavallo, 
+dicendo co lagrime: Signor, fammi iustizia che 'l mio filliuolo m'@e 
+stato morto; et elli rispose: Aspetta tanto ch'io torni, et io la far@o 
+pienamente; unde ella rispuose: E se tu non torni, come faccio io?  Et 
+elli rispuose: Chi ser@a in mio luogo te la far@a; et ella replic@o e 
+disse: E che loda e merito arai tu de l'altrui ben fare, se per te si 
+lassa?  Et elli allora convinto da la ragione disse: Ora aspetta, che 
+conviene ch'io faccia mio debito, innansi ch'io mi parta.  Et allora 
+comand@o al suo maestro de la milizia che facesse trovare lo 
+malfattore; e trovato lo suo filliuolo fu menato dinansi da lui, et 
+elli comand@o che fusse morto come dimandava la ragione; e la vedovella 
+si li gittoe ai piedi dicendo: Signor mio, se tu uccidi lo tuo 
+filliuolo, io non riabbo per@o lo mio che mi sostentava e notricava.  
+Allora disse lo imperadore: Che vuoi tu ch'io faccia? vuoi tu lo mio in 
+scambio del tuo?  Disse la vedovella: Signore, s@i.  Allora lo 
+imperadore li di@e lo filliuolo suo in scambio del morto, e comandolli 
+che li fusse obediente in tutte cose come a vera madre, sotto pena de 
+la vita; e cos@i fece poi lo ditto giovano, avendo di lei cura come di 
+madre; e per questa iustizia fu fatta la statua di Traiano ne la 
+piassa, come fece iustizia a la vedova.  Questo Traiano succed@e a 
+Nerva imperadore e regn@o anni 29, et incominci@o nel 100 da la 
+nativit@a di Cristo, e nel 4063 dal principio del mondo: questo 
+subiug@o la Magna di l@a dal Reno, e di l@a dal Danubio molte genti, e 
+ne l'oriente di l@a da l'Eufrate e del Tigri molte barbare nazioni 
+arrec@o e province, poi occup@o Seleucia e Babillonia, et infine a le 
+fine dell'India.  Costui fu cortese in verso li amici, diligente ne la 
+milizia, benigno in verso cittadini, e largo in verso li abbisognosi, e 
+per rimedio del malo stato de la republica fu pensato dato da Dio; unde 
+questa umilit@a di tanto signore, questa iustizia con tanta clemenzia 
+piacque tanto a s. Gregorio, ch'elli fece prego a Dio per l'anima di 
+Traiano, pregando Iddio che tanta iustisia, clemensia et umilit@a non 
+fusse perduta.  Allora venne l'angiulo a s. Gregorio e disse: Esaudita 
+@e l'orazione tua, e Traiano @e messo in vita eterna; ma perch@e @ai 
+addimandato iniusto, per@o elegge qual vuoi, o stare una ora in 
+purgatorio, o avere tutto 'l tempo de la tua vita lo mal del fianco e 
+le gotte.  Allora s. Gregorio elesse innansi la pena del mondo, che 
+quella del purgatorio; e questa istoria finge l'autore che fusse 
+intalliata quive, contra la tersa condizione dei superbi che 
+dispregiano li minori et ingiuriano, e per@o induce Traiano che ad una 
+vedovella fece somma iustizia e mostr@o grandissima umilit@a, 
+lassandosi rattenere e dire ci@o ch'ella volse.  Dice cos@i lo testo: 
+^Io~; cio@e Dante, ^mossi 'l pi@e del luogo ov'io stava~; cio@e prima a 
+vedere la storia di David, e valicai Virgilio dall'altro lato, ^Per 
+ravvisar da presso un'altra storia~; ecco la cagione, perch@e mosse s@e 
+del luogo de la prima, ^Che dietro da Micol~; de la quale fu ditto di 
+sopra, donna di David, ^mi biancheggiava~; questo dice, perch@e lo 
+intallio era nel marmo.  ^Quivi~; cio@e in quel marmo, ^era storiata 
+l'alta gloria Del roman principe~; cio@e di Traiano imperadore lo quale 
+era co l'esercito, e co la potenzia del romano populo, e co 
+l'adornamento imperiale, ^il cui gran valore~; cio@e de la iustizia e 
+de la umilit@a, e de la clemenzia, ^Mosse Gregorio~; cio@e santo 
+Gregorio papa, ditto di sopra, ^a la sua gran vittoria~; cio@e de la 
+pazienzia del dolore del fianco e de le gotte, unde si pu@o dire che 
+fusse martire.  ^Io dico di Traiano imperadore~; ecco che dichiara di 
+cui elli intende, ^Et una vedovella~, per questo mostra che fusse vile 
+donna e di non grande affare, ^li era al freno~; del cavallo lo quale 
+ella tenea co la mano, ^Di lagrime atteggiata e di dolore~; cio@e ne lo 
+intallio del marmo, bene scolpita, che parea che si dolesse e 
+piangesse.  ^Intorno a lui~; cio@e a lo imperadore, ^parea calcato e 
+pieno Di cavalieri~: imper@o che la puntava come andava ne l'esercito, 
+^e l'aquile nell'oro~; finge che i gonfaloni e li stendali che erano 
+portati sopra lo imperadore fusseno d'oro, messi li campi l'aquile nere 
+nel campo ad oro, come @e la insegna del romano imperio, ^Sovr'esso~; 
+cio@e sopra lo imperadore, ^in vista al vento si moveno~; cio@e parea 
+che si movesseno: s@i erano scolpite propriamente.  ^La miserella~; 
+cio@e vedovella, ^entra tutti costoro~; che erano intalliati quive, 
+^Parea dire~: s@i era scolpita: ^Signor, fammi vendetta Del mio 
+filliuol ch'@e morto, ond'io m'accoro~; cio@e m'uccido.  ^Et elli~; 
+cio@e lo imperadore, ^a lei risponder~; parea ne lo intallio: ^Ora 
+aspetta~; tu, vedova, ^Tanto ch'io torni~; cio@e de l'esercito.  ^E 
+quella~; cio@e la vedova parea dire: ^Signor mio~; dicea a lo 
+imperadore, ^Come persona in cui dolor s'affretta~; cio@e come persona 
+addolorata, che desidera vendetta, ^Se tu non torni~; da l'esercito?  
+^Et el~; cio@e lo imperadore pareva dir: ^Chi fi' dov'io~; cio@e chi 
+fi' in mio luogo, ^La ti far@a~; cio@e la vendetta.  ^Et ella~; cio@e 
+la vedova pareva dire a lui: ^L'altrui bene A te che fi'~; Quasi dica: 
+Nulla, ^se tu 'l metti in oblio~; cio@e in dimenticagione?  ^Et elli~; 
+cio@e lo imperadore pareva dire a lei: ^Or ti conforta~; tu, vedova, 
+^che conviene Ch'io solva il mio dovere~; cio@e ch'io paghi mio debito, 
+^anzi ch'io mova~; cio@e me di questo luogo.  ^Giustizia il vuole~; 
+cio@e quil che tu dimandi, ^e piet@a mi ritiene~; ch'io non vada, 
+innanzi ch'io ti faccia iustizia.  ^Colui che mai non vidde cosa nova~; 
+cio@e Iddio lo quale come @e ab eterno; cos@i ne la mente sua ebbe ab 
+eterno la forma esemplare di tutte le cose produtte e che si denno 
+producere; e per@o ben dice l'autore che mai non vidde cosa nova, e 
+cos@i dice santo Agostino: ^Nihil est novum in tempore apud eum, qui 
+condidit tempora.  -- Produsse esto visibile parlare~: lo parlare, 
+secondo natura, @e udibile; ma non visibile: questo era visibile, 
+perch@e finge che fusse scolpito nel marmo che @e sopra natura, e 
+questo non pu@o fare se none Iddio; e per@o finge che Iddio lo 
+producesse, ^Novello a noi~; cio@e omini che siamo nel mondo, ^perch@e 
+qui~; cio@e nel mondo, ^non si trova~; questo parlare visibile.  Ne 
+l'altro mondo ser@a lo parlare visibile: imper@o che ciascuno vedr@a lo 
+concetto dell'altro, sensa essere espresso con lingua; e questo 
+medesimo addiviene a noi, quando veggiamo dipinta o sculpita una storia 
+che a noi sia nota: pare a noi che le persone dipinte dicano le parole, 
+come l'angiulo ci pare che dica ^Ave~ a la Vergine Maria, quando @e 
+bene atteggiato.  Seguita ora a vedere una dubitazione; cio@e come si 
+salv@o l'anima di Traiano, considerando ch'era morto infidele et era ne 
+lo inferno, e la santa Scrittura dice: ^In inferno nulla est redemptio: 
+qui crediderit et baptizatus fuerit hic salvus erit~.  -- A che si pu@o 
+rispondere, come risponde l'autore ne la tersa cantica canto XX; che 
+Iddio per li preghi di s. Gregorio papa fece tornare l'anima di Traiano 
+nel corpo, meritando ci@o la viva speransa che ebbe quando vivea; e 
+fece potere li prieghi di s. Gregorio suscitarla , sicch@e potesse la 
+sua volont@a venire a la fede; e tornata credette ne la santa Trinit@a 
+con tanta carit@a, che merit@o per la grazia di Dio, stata poco ne la 
+carne, ne la seconda morte d'andare a vita eterna.  E se si dicesse: 
+Come uscitte de l'inferno?  Puossi rispondere che Iddio che sa ogni 
+cosa futura, sapendo che questo dovea avvenire, non lass@o andare 
+quella anima ne lo inferno, unde non scese mai; ma riservolla in certo 
+luogo, forse nel limbo dei santi Padri, unde potette convenientemente 
+uscire.
+
+	|97-111.~  In questi cinque ternari lo nostro autore finge come 
+Virgilio lo fa accorgere de le genti, che in quello primo balso si 
+purgavano, dicendo cos@i: ^Mentr'io~; cio@e Dante, ^mi dilettava di 
+guardare L'imagini~; che erano in quello marmo scolpite, ^di tante 
+umilitadi~; quanto quelle scolpiture dimostravano, de le quali @e stato 
+ditto di sopra, ^E per lo fabro loro~; cio@e Iddio, che quive l'avea 
+scolpite, ^a veder care~: caro @e vedere l'artificio di s@i fatto 
+maestro.  Secondo la finzione de l'autore, Iddio avea fatto quella 
+scolpitura in quello marmo quando fece lo purgatorio, per dare ad 
+intendere che quelli che sono nel purgatorio @anno pensamento a le 
+virtudi contrarie a li peccati di che si purgano, per le quali 
+ricognosceno li loro errori et @anno debita contrizione dei lor 
+peccati, e pazientemente portano la pena; e cos@i intese di quelli del 
+mondo che sono in stato di penitenzia, e considerando li esempli de le 
+persone virtuose come delli umili @anno dispiacere de la superbia stata 
+in loro, e portano la penitenzia volontieri, et @anno debita 
+contrizione.  ^Ecco di qua~; finge che parlasse Virgilio, dicendo le 
+ditte parole, mostrando che venisseno di verso mano sinistra in verso 
+mano ritta, unde era Dante; e per@o ben dice Virgilio ^Ecco di qua~; di 
+verso me, che anco s'erano volti verso la costa per vedere la storia, e 
+Virgilio era di verso loro, ^ma fanno i passi radi~; questo dice, 
+perch@e finge che venisseno adagio, ^Mormorava 'l Poeta~; cio@e 
+Virgilio, mormorando dicea le parole ditte, e quelle che seguitano, 
+^molte genti: Queste~; cio@e genti che vegnono di qua, ^ne invieranno~; 
+cio@e noi invieranno, ^a li altri gradi~; pi@u alti che questo.  ^Li 
+occhi miei~; cio@e di me Dante, ^che a mirar eran contenti~; cio@e li 
+quali erano contenti a mirare quelle istorie di tanta umilit@a, ^Per 
+veder novitadi~: ogni uno @e vago di veder cose nove; e per@o dice: 
+^ond'ei son vaghi~; cio@e questa @e la cagione, perch@e li occhi sono 
+vaghi e non stanno in posa: imper@o che sono vaghi di vedere cose 
+nuove, ^A volgersi in ver loro~; cio@e in verso quelle genti, ^non fur 
+lenti~; ma solliciti, per vedere le genti che avea ditto Virgilio: 
+imper@o che genti venivano loro di rieto, sicch@e Dante, che era in 
+lato a veder la storia e gi@a volto per andare oltra, si volse a rieto. 
+ Et aggiunge uno conforto a lettore, che non pilli sgomento di quello 
+che li dir@a ch'elli vidde, dicendo: ^Non vo' per@o, Lettor~; cio@e o 
+lettore del mio libro, io Dante non vollio per@o; cio@e per quello 
+ch'io dir@o, ^che tu ti smaghi~; cio@e che tu ti sgomenti e che tu ti 
+manchi: smagare @e minorare e mancare, ^Di buon proponimento~; cio@e 
+non mancare del tuo buono proposito di fare penitenzia, ^per udire, 
+Come Dio vuol che 'l debito si paghi~; nel purgatorio di po' questa 
+vita, del peccato commesso.  ^Non attender la forma del martire~; cio@e 
+non ponere cura a la pena, ^Pensa la succession~; che seguita di po' la 
+pena; cio@e lo premio di vita eterna, ^pensa che al peggio~; che possa 
+avvenire quella pena, ^Oltra la gran sentenzia non pu@o gire~; cio@e 
+non pu@o passare lo d@i de l'iudicio: imper@o che allora tutti quelli 
+del purgatorio seranno liberati, e risuscitati verranno a l'iudicio 
+dove fi' loro ditto da Cristo: ^Venite benedicti Patris mei, possidete 
+paratum vobis regnum~.
+
+	|112-120.~  In questi tre ternari finge l'autore come, ragguardando 
+verso la gente, non scorgea che fusseno persone, se non che Virgilio 
+lie fece vedere all'atto del rendersi in colpa; e per@o dice: ^Io~; 
+cio@e Dante, ^comincia': Maestro~; parlando a Virgilio, ^quel ch'io 
+veggio Muover a noi~; cio@e muovere e venire verso noi; questo dice, 
+perch@e stenno fermi per aspettarli, ^non mi sembian persone~; cio@e 
+non mi paiono persone, ^E non so che: s@i nel veder vaneggio~; cio@e 
+s'inganna la vista, parendo ora una cosa et ora un'altra.  ^Et elli~; 
+cio@e Virgilio, ^a me~; Dante rispuose: ^La grave condizione Di lor 
+tormento a terra li rannicchia~; cio@e li tira a terra e nolli lassa 
+parere quel che sono, contraendoli come si contraggie quel vermo che si 
+stringe e poi si stende, e cos@i va: quelli stavano pur ristretti sotto 
+li gravi pesi dei sassi ch'aveano addosso.  ^S@i che i miei occhi~; 
+parla Virgilio a Dante, ^pria n'ebber tenzione~; cio@e discernendo quil 
+che fusseno.  ^Ma guarda fiso l@a~; dice Virgilio a Dante, ^e 
+disviticchia~; cio@e distingue e separa, ^Col viso~; cio@e tuo, ^quel 
+che vien sotto a quei sassi~; che tu vedi, che sono s@i grandi.  ^Gi@a 
+scorger puoi~; cio@e tu, Dante, ^come ciascun si picchia~; rendendosi 
+in colpa.  E per@o qui @e da notare che l'autore incomincia qui a 
+trattare del peccato de la superbia, che finge che si purghi in su 
+questo primo balso del purgatorio, perch@e @e l'infimo pi@u di lunge 
+dal cielo che tutti li altri: imper@o che come pi@u grave peccato d@e 
+essere purgato pi@u al basso et al fondo, come finse ne la prima 
+cantica che fusse punito di sotto a tutti li altri peccati ne lo 
+inferno nel fondo, secondo le suoe spezie, dando a s@i fatto peccato 
+diverse pene.  E per@o si pu@o muovere qui uno dubbio; cio@e, perch@e 
+l'autore ne la prima cantica seguit@o la divisione dei peccati, secondo 
+lo Filosofo distinguendo li peccati in tre specie; cio@e o che si 
+commette per intemperansa, o per malizia, o per bestialit@a; e sotto 
+malizia comprende ne le suoe specie la superbia e la invidia; et in 
+questa cantica seconda procede, pur distinguendo secondo li peccati 
+mortali, incominciando dalla superbia e poi seguendo nella invidia e 
+cos@i delli altri?  A che si d@e rispondere che altro @e punire et 
+altro @e purgare; punire @e dare pena conveniente al peccato; ma 
+purgare @e tolliere la colpa e macchia del peccato, et inducere a la 
+virt@u opposita.  E perch@e diversi modi di peccare @anno diverse pene, 
+imper@o si diversificano le pene che li accompagnano sempre; ma la 
+colpa @e una, che sta ne la volont@a, e per@o una pena vasta a 
+cacciarla via maggiore e minore, secondo la quantit@a de la colpa, a 
+riducere la virt@u opposita.  Si volliamo dire che ne la prima cantica 
+parla dei peccati e de la loro punizione, secondo lo foro di Dio e del 
+mondo, lo quale pone grandissima distinzione nei peccati; cio@e secondo 
+la volont@a e secondo l'effetto; e ne la seconda parla pure dei 
+peccati, secondo lo foro di Dio, nel quale si punisce pur la volont@a, 
+e per@o trattando de la pena che purga lo peccato de la superbia d@e 
+essere una, bench@e maggiore e minore, secondo la depravazione e 
+malizia de la volont@a; ma in tutte le suoe specie una @e che cerca 
+eccellenzia, e per@o sua debita pena @e esser minorato pi@u e meno, 
+secondo la volont@a dell'eccellenzia o nel purgatorio o in questo 
+mondo: imper@o che a purgare non basta la pena, se non @e tale che 
+riduca al grado de la virt@u opposito al grado del peccato; ma a punire 
+vasta la pena respondente a la qualit@a e quantit@a del peccato, la 
+quale ogni peccato induce seco mentre che l'omo in questa vita e 
+nell'altra vita @e corrispondente, secondo convenienzia di iustizia al 
+peccato.  E per@o l'autore seguit@o ne la prima cantica uno modo, et in 
+questa un altro.
+
+	|121-129.~  In questi tre ternari lo nostro autore finge come elli, 
+vedendo la pena dei superbi, facesse contra di loro una bella 
+esclamazione: che cosa sia esclamazione @e stato dichiarato ne la prima 
+cantica.  Dice cos@i: ^O superbi cristian~; ecco che dirissa lo parlare 
+suo pure ai cristiani: imper@o che a stato di penitenzia et al 
+purgatorio non vanno se non li cristiani; dice ^superbi~, per dare ad 
+intendere che qui si tratta del peccato de la superbia, lo quale finge 
+che si purghi in su questo primo balso: che cosa sia superbia e quale 
+siano le suoe specie, compagne e filliuole ditto fu ne la prima 
+cantica, e per@o qui non si replica; ma ben dir@o del modo de la sua 
+purgazione quando sar@o ad esso, ^miseri~; dice, perch@e ogni peccato 
+induce miseria, et ogni peccatore @e misero, ^lassi~; cio@e caduti da 
+la vostra eccellenzia per lo peccato: imper@o che come la virt@u inalsa 
+l'omo e coniungelo con Dio; cos@i lo peccato lo fa cadere di sotto a la 
+condizione de le bestie, ^S@i de la vista e de la mente infermi~; due 
+infermitadi pone nei peccatori; cio@e de la vista e de la mente; per la 
+vista corporale intende la discrezione che @e la vista de l'animo, per 
+la mente intende qui la volont@a: imper@o che lo peccatore @e infermo e 
+defettuoso ne lo intelletto e ne la volont@a, in quanto non discerne 
+quello che d@e, e vuole quello che non si d@e; e per@o adiunge: 
+^Fidanza avete nei ritrosi passi~; due sono li nostri andamenti mentre 
+che siamo in questa vita; l'uno @e secondo la sensualit@a, e questo @e 
+andare adrieto; l'altro @e secondo lo spirito, e questo @e andare 
+innanti: li superbi vanno secondo la sensualit@a, e per@o credendo 
+andare innanzi vanno adrieto: credeno montare in su, et elli sono 
+diritti gi@u; e per@o dice: Avete voi fidansa nei passi ritrosi, che vi 
+fanno cadere dell'altezza in bassezza, ^Non v'accorgete voi~; uomini 
+superbi, ^che noi siam vermi~; cio@e noi omini, secondo la carne: ^Ego 
+sum vermis, et non homo~, dice Iob, ^Nati a formar l'angelica 
+farfalla~; usa qui l'autore una similitudine occulta: imper@o che @a 
+ditto che noi siamo vermi, seguita la similitudine del vermo: lo bruco 
+che nasce in sul caulo s'appicca al muro e diventa la testa, come uno 
+vescovo co la mitula, et in giuso agussato come uno fanciullo fasciato 
+e poi scoppia et esce fuora la biatula; e cos@i del vermo de la seta 
+esce fuora del ghiomitulo che si serva a modo d'una farfalla, e cos@i 
+del corpo umano esce fuor l'anima la quale fu fatta da Dio, per ch'ella 
+fusse a riempiere le sedie voite de li angiuli che ruinonno per la loro 
+superbia; e per@o dice: Non v'avvedete voi, omini, che noi siamo nati 
+ad esser compagni delli angiuli in luogo dei caduti?  ^Che vola a la 
+giustizia~; cio@e di Dio; se muore nell'ira di Dio, a lo inferno; se 
+muore in grazia, al purgatorio, ^senza schermi~; cio@e sensa 
+defensioni?  Come l'anima si parte dal corpo, per s@e medesima va 
+dov'ella @e degna d'andare: ella medesma s@e iudica e nulla difensione 
+fa.  ^Di che~; ora riprende li omini de la superbia.  ^Di che l'animo 
+vostro in alto galla~; cio@e di che va in su e galleggia, ^l'animo 
+vostro~; cio@e la volont@a vostra!  ^Voi siete quasi antonoma in 
+defetto~; cio@e voi siete in defetto; cio@e quando mancate de la vostra 
+perfezione, ^quasi antonoma~; cio@e come cosa contra legge di natura, 
+^ab anti, quod est contra, et noma quod est lex; idest contra legem 
+naturae~; e dice ^quasi~, per mostrare che v'@e differenzia, e non 
+propiamente l'omo si pu@o dire ^antonoma~; ma ^quasi~: questo vocabulo 
+@e greco e significa animale imperfetto: et altri libri diceno 
+^autonoma~.  Quale sia pi@u propio detto io noll'@o trovato; tanto 
+debbiamo vedere che il seguente verso dichiara lo primo, e questo 
+vocabulo; e per@o dice: ^S@i come verme, in cui formazion falla~; cio@e 
+che non viene a compimento di formarsi.  E cos@i l'omo, quanto 
+all'anima infine a tanto che non viene a la beatitudine, tutta via 
+l'anima @e imperfetta: imper@o che li manca la forma beatificata, sensa 
+la quale sempre @e inquieta, siccome dice santo Agostino: ^Domine 
+fecisti nos ad te, et inquietum est cor nostrum, donec requiescamus in 
+te~.
+
+	|130-139.~  In questi tre ternari et uno versetto lo nostro autore 
+specifica la pena, che finge ch'avesseno coloro che si purgavano del 
+peccato de la superbia nel primo balso, dicendo cos@i: ^Come, per 
+sostener solaio e tetto~; per dare mellio ad intendere la pena dei 
+superbi pone una similitudine de le imagini, che si scolpisceno nei 
+capitelli de le colonne, o ne' piumacciuoli de le travi, che si 
+scolpisceno alcuna volta omini co le ginocchia al petto che paiano 
+sostenere tutto quel carico, sicch@e chi li vede n'@ae rancura; e per@o 
+dice: ^Per mensola~; questo vocabulo significa lo piumacciuolo o lo 
+capitello o lo scedone o leoncello che si chiama, che sostiene qualche 
+trave, ^tal volta una figura Si vede giunger le ginocchie al petto~; 
+perch@e cos@i @e scolpita, ^La qual~; cio@e figura, ^fa del non ver~: 
+imper@o che non @e vero che quella figura senta gravessa di carico, e 
+niente di meno pare a chi la vede ch'ella la senta e che nelli atti 
+dica: Non posso pi@u; e fanne increscere a chi la vede; e per@o dice: 
+^vera rancura~; cio@e vero increscimento, ^Nascere a chi lor vede cos@i 
+fatti~; cio@e a chi li vede cos@i dipinti e scolpiti, ^Viddi io~; cio@e 
+Dante, ^color~; cio@e quelle anime dei superbi, come ditto @e di sopra, 
+^quando puosi ben cura.  Ver @e che pi@u e men eran contratti~; cio@e 
+sotto li grandi sassi che portavano addosso, ^Secondo ch'avien pi@u e 
+meno addosso~; e per questo dimostra che i carichi non fusseno equali, 
+^E qual pi@u pazienzia avea nelli atti~; di quelli appenati, ^Piangendo 
+parea dicer: Pi@u non posso~; cio@e nelli atti; non per@o che 'l 
+dicesse.  Questa cos@i fatta pena finge l'autore ch'abbiano l'anime di 
+purgatorio, che si purgano del peccato de la superbia nel primo balso; 
+cio@e che vadano intorno al balso in su la prima cornice con 
+grandissimi sassi addosso, disegualmente secondo che pi@u e meno @anno 
+peccato in s@i fatto peccato; e ciascuna va piangendo, e qual pi@u 
+contratto e qual meno, secondo che era pi@u gravato e meno gravato.  E 
+questa pena propiamente e debitamente si conviene a tale peccato: 
+imper@o che quello peso del sasso d@a ad intendere la coscienzia de la 
+grandezza de la superbia, e la duressa che il peccatore ebbe in questa 
+vita ad uscire di quello, la quale grava lo capo del peccatore; cio@e 
+la memoria sua ch'elli n'@ae, la quale @e significata per lo capo, per 
+ch'ella sta nel capo, come diceno li Naturali che la memoria @e nel 
+celebro, e fa ciascuno piegare a la terra col capo e ritornare in 
+giuso, quando porta lo peso del peccato: imper@o che ciascuno desidera 
+e vorrebbe potere emendare la sua superbia; e tanto col volere 
+s'aumilia, quanto s'inals@o per superbia, et anco pi@u tanto quanto 
+cognosce pi@u valere la vert@u.  Ciascuno piange, perch@e le lagrime 
+sono segno di contrizione del cuore; e ciascuno dice: Pi@u non posso: 
+imper@o che ciascuno @a tanta contrizione, quanto a lui @e possibile.  
+Vanno in giro: imper@o che come peccando andonno nel vizio in giro, 
+raggirandosi ne le suoe specie; cos@i conviene che sia penitenzia e la 
+purgazione tanto, che si sodisfaccia a tutti li gradi et a tutte le 
+specie s@i, che niuna macchia rimagna non forbita e levata.  E questo 
+medesimo si verifica in quelli che sono nel mondo in stato di 
+penitenzia; e per@o, allegoricamente parlando di quelli del purgatorio, 
+intese di quelli del mondo: imper@o che chi vuole fare debita 
+penitenzia del peccato de la superbia, prima d@e considerare la 
+grandessa, duressa, e gravessa ch'@ae avuto la sua superbia, e quella 
+ricognoscere e ripensare; e questo @e portare lo sasso in capo et in 
+collo e piegarsi giuso a la terra, umiliandosi quanto si lev@o suso in 
+superbiendo; e d@e piangere per contrizione di tale peccato; e d@e 
+dire: Pi@u non posso, mostrando a li altri che tanta contrizione 
+n'abbia, quanta avere se ne pu@o; e d@e andare in giro ritrovando tutte 
+le specie de la superbia ne le quali @ae peccato, e di tutte avere 
+debita contrizione tanto, che sodisfaccia ad ogni cosa; e per@o fece lo 
+nostro autore questa finzione.  E qui finisce lo canto X, incomincia lo 
+XI.
+

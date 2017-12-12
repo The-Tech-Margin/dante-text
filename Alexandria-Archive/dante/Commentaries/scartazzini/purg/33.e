@@ -1,0 +1,2261 @@
+	|1-12.~  ^Le sette ninfe cantano alternamente con dolce e
+lagrimosa melodia; Beatrice le ascolta sospirosa, il volto
+atteggiato a piet@a; indi colorata come fuoco risponde loro con
+parole di vicina speranza.~
+
+	|1.  Deus~: sono le parole con cui incomincia il Salmo
+LXXIX (^Vulg.~ LXXVIII): ^O Dio, le nazioni sono entrate nella
+tua eredit#a, hanno contaminato il Tempio della tua Santit@a; hanno
+ridotta Gerusalemme in monti di ruine.~  Il Salmista piange in
+questo Salmo la desolazione della santa citt@a e le orribili
+stragi fatte dagli Assirii e dai Babilonii fra il popolo
+d'Israele.  Dante applica queste parole alle miserie della Chiesa
+test@e figurate.  Le |genti~, ossia i pagani del Salmo, sono per
+Dante il gigante e la meretrice; l'^eredit@a di Dio~ nel Salmo il
+popolo giudaico, in Dante il cristiano; il ^Tempio~ nel Salmo
+quel di Gerusalemme, in Dante il mistico Carro, figura della
+Chiesa.  ^Petr. Dant.~ dice che le parole del Salmo ^vera
+prophetia sunt praesentis status Ecclesiae.~  E gi@a i Padri della
+Chiesa avevano detto che in senso allegorico si lamentano in
+questo Salmo le persecuzioni degli empi di tutti i tempi contro
+la Chiesa di Dio e contro il popolo fedele, e s'invoca la divina
+giustizia contro gli oppressori, e la liberazione degli oppressi. 
+<Non poteva essere scelto pi@u a proposito, e giova premetterne la
+lettura per gustare a pieno questo sublime squarcio del Poema. 
+Esso @e il contrapposto dell'inno cantato poc'anzi dalla comitiva
+celeste, quando la ^divina basterna~ fu dal Grifone condotta e
+legata alla pianta.>  ^Barelli~, ^Alleg.~, pag. 279.  Il ^Tom.~
+rende attento come il |Deus, venerunt gentes~ succede al verso
+che nomina col nome di pi@u volgare dispregio la donna meretrice. 
+-- |Alternando~: le tre donne diceano l'uno verso del Salmo, e le
+quattro diceano il seguente; e cos@i procedevano per lo Salmo. 
+^Ott.~
+
+	|2.  Tre~: le tre virt@u teologali deplorano la
+trascuraggine dei tesori della fede, della speranza e della
+carit@a; le |quattro~ virt@u cardinali si lamentano che prudenza,
+giustizia, fortezza e temperanza sono bandite dalla terra.  --
+|Dolce salmodia~: canto dolce dei Salmi quantunque di amaro
+argomento.  ^Benv. Ramb.~
+
+	|3.  E lagrimando~: ^S. Croce~, ^Vat.~, ^Berl.~, ^Cass.~,
+^Vien.~, ^Stocc.~, ecc., prime quattro edizioni ecc.  La comune
+(col ^Caet.~, ^Benv. Ramb.~, ^Buti~, ecc.) omette l'|E.~ 
+Quest'ultima lezione ci piacerebbe meglio; ma non si sa
+comprendere come l'|E~ si sia intrusa in tanti ottimi codd. se
+non era originariamente nel testo.  ^Costr.~ Le donne
+incominciaro dolce salmodia, ^alternando or tre or quattro~
+{vv.1-2}, |e lagrimando.~
+
+	|4.  Sospirosa e pia~: gemente per piet@a della Chiesa
+straziata.
+
+	|5.  S@i fatta~: talmente commossa e con sembiante s@i
+dolente.
+
+	|6.  S@i cambi@o~: mut@o di colore.  ^Quomodo mutatus est
+color optimus~!  Lam. Jer. IV, 1.  -- |Maria~: <lo strazio della
+Chiesa rinnova lo strazio di Ges@u.>  ^Tom.~  Nel ^Purg.~ XX, 87 e
+segg. parlando dell'oltraggio fatto a Bonifazio VIII e' dice che
+nel papa si rinnuova la passione di Cristo e chiama ^nuovo
+Pilato~ Filippo il Bello.  -- L'ultima scena della gran visione
+sembra contradire alla interpretazione allegorica da noi data
+della Beatrice della Divina Commedia.  Dicemmo gi@a al principio
+del nostro lavoro (^Inf.~ 70 nt.) e ripetemmo pi@u volte nel corso
+dello stesso che Beatrice simboleggia l'autorit@a ecclesiastica
+inquanto essa @e in possesso della divina rivelazione.  Or se
+nell'ultima scena dell'antecedente canto si allude alla
+traslazione della Sede apostolica ad Avignone, come pu@o Beatrice
+rimanere presso all'albero mistico?  Non fu l'autorit@a
+ecclesiastica trasferita assieme colla Sede apostolica?  Si
+risponde che dall'un canto la ^puttana sciolta~ @e il brutto e
+laido contrapposto di Beatrice, ossia dell'autorit@a ecclesiastica
+conforme all'idea non solo di Dante, ma del Cristianesimo; che
+dall'altro canto la ^vera~ autorit@a ecclesiastica non pu@o venir
+trasferita dal luogo dove la pose Ges@u Cristo (il Grifone); che
+in terzo luogo Beatrice stessa nel presente canto dice essa
+autorit@a non esser pi@u in terra (v. 10 e 35); che Beatrice
+rappresenta qu@i l'autorit@a ecclesiastica ^ideale~, la quale non
+fu mai a Avignone ma la cui sede secondo la mente dell'Alighieri
+non pu@o essere che Roma.
+
+	|7.  L'altre~: le tre e quattro ninfe.  -- |Dier loco~:
+finito di cantare il Salmo.
+
+	|8.  Levata~: allegoricamente intende dei predicatori de
+la santa Teologia li quali stanno sempre ritti quando al popolo
+manifestano la parola d'Iddio, li quali parlano inspirati da lo
+Spirito Santo et ammaestrati de la santa Teologia; e per@o stanno
+ritti per dare ad intendere ch'elli stanno levati suso a Dio con
+la mente come col corpo, et anco per mostrare che siano messi
+d'Iddio.  ^Buti~ (?).
+
+	|9.  Colorata~: di fuoco di santo zelo e d'amore, ed
+anche d'ira santa dei guasti avvenuti nella Chiesa della quale
+ella @e guardiana (cfr. XXXII, 95).
+
+	|10.  Modicum~: parole di Cristo ai suoi discepoli (^S.
+Giov.~ XVI, 16): ^Fra poco voi non mi vedrete; e di nuovo fra
+poco voi mi vedrete.~  Con queste parole il Cristo predice a'
+suoi discepoli la sua morte e risurrezione.  Dicono i pi@u che
+Beatrice parla qu@i in persona della Chiesa (^Falso Bocc.~,
+^Vell.~, ^Dan.~, ^Vent.~), vaticinando il ritorno della sede
+pontificia a Roma, sperato prossimo da Dante (^Biag.~, ^Costa~,
+^Tom.~, ^Br. B.~, ^Frat.~, ^Bennass.~, ^Franc.~, ecc.).  Un po'
+diversamente gli antichi.  <Qu@i intende l'Autore che, bene che la
+Chisa sia in privazione d'ubbidienzia al tempo presente, egli
+verr@a tempo ch'ella sar@a in abito d'ubbidienzia> (^Lan.~ ed ^An
+Fior.~).  -- ^Hoc dixit volens pronosticari quomodo in brevi
+dicta Ecclesia redibit ad suos veros terminos et quomodo dicti
+prelati dictis bonis temporalibus privabuntur et sic consolatur
+dictas virtutes~ (^Post. Cass.~).  <Poco durer@a la iniqua
+persecuzione> (^Benv. Ramb.~).  -- <Questo finge che dica
+Beatrice per conforto a le virt@u, dicendo: Non vi turbate di quel
+che vedete fare contra Iddio e contra voi, che tosto ser@a lo
+fine; cio@e quando li virtuosi seranno beatificati e quando Cristo
+verr@a ad iudicare, et allora si far@a iustizia dei peccatori.  E
+cos@i allegoricamente intende che i predicatori de la santa
+Teologia confortino li virtuosi e santi uomini, che si turbano
+dei mali che vedeno fare a s@e, che abbino pazienza che tosto ser@a
+lo fine e farassene ancora iustizia> (^Buti~).  -- <In bocca di
+Beatrice queste parole vogliono dire, che la sana dottrina non
+avrebbe molto tardato a ravvivar gli spiriti erranti e ritornar
+la Chiesa nel primitivo splendore> (^Andr.~).  -- <Beatrice, cio@e
+la sana dottrina, non sar@a oscurata che per breve tempo, poi si
+mostrer@a nuovamente nella chiara luce del giorno> (^Filal.~).  --
+Ci avvisiamo che nessuna di queste interpretazioni colga del
+segno.  Beatrice non parla qui in persona della Chiesa, ma s@i in
+persona propria qual rappresentatrice dell'autorit@a ecclesiastica
+come essa deve essere, conforme alla istituzione di Dio, conforme
+al volere ed alla ordinazione di Cristo.  Poc'anzi dicemmo che
+secondo l'Alighieri tale autorit@a non era pi@u nel mondo, ma in
+sua vece una caricatura di essa, il suo contrapposto.  Pi@u tardi
+Dante deplora per bocca di Beatrice che anche l'aquila sia ^senza
+reda~ (v. 37), cio@e l'Impero senza Imperatore.  Qu@i dunque si
+ripete il lamento gi@a fatto altrove (^Purg.~ XVI, 106 e segg.)
+che i ^due Soli~ hanno spento l'un l'altro e che il mondo @e per
+questo privo delle due guide che sono da Dio ordinate onde
+condurre l'uomo al conseguimento del duplice suo fine.  Qu@i c'@e
+accanto al lamento la speranza espressa in forma di vaticinio. 
+La pianta significante l'Impero non sar@a tutto tempo senza
+Imperatore, l'aquila, figura dell'Imperatore non sar@a tutto tempo
+senza reda.  A questa profezia corrisponde quella espressa qu@i
+colle parole del Vangelo.  Beatrice parla dunque qual simbolo
+dell'autorit@a ecclesiastica inquanto @e in possesso della divina
+rivelazione, ed inquanto essa si conforma al suo ideale.  In
+bocca sua le parole del Vangelo vengono a dire che breve tempo
+soltanto il mondo si vedr@a privo della sua guida spirituale.  Ed
+inquanto il ripristinamento di questa guida presuppone il ritorno
+della sede apostolica nel luogo stabilito al ^successore del
+maggior Piero~ (Inf. II, 24), la profezia involve veramente anche
+la speranza del prossimo ritorno dei papi da Avignone a Roma.  --
+Aggiungeremo l'osservazione del ^Lomb.~ sul metro di questi
+versi: <Quanto al metro conviene ricordarsi lecita e praticata,
+siccome dai greci e latini poeti, cos@i dagl'italiani, la
+spezzatura, e il doversi per@o il primo e il terzo verso di questo
+terzetto leggere:
+
+     ^Modicum, et non vi-debitis me~
+     ^Modicum, et vos vi-debitis me.~
+
+Anche avvertire si dee, ch'essendo queste parole ^Modicum~ ecc.
+non del Poeta ma d'altrui, soffre in questo caso eccezione la
+regola avvisata da Fil. Rosa Morando (^Osserv.~ sopra ^Parad.~
+XXIV, 16), che le stesse voci in rima, nello stesso significato,
+non @e permesso ripeterle se non quando si ripetan tutte.  Per
+mancanza probabilmente di questi avvertimenti sclama qu@i il
+^Vent.~: <Ma che rime, buono Iddio!>
+
+	|13-33.~  ^La comitiva delle sette ninfe, Beatrice,
+Matelda, Dante e Stazio si muove allontanandosi dall'albero;
+colloquio tra Dante e Beatrice.~
+
+	|13.  Innanzi~: le sette ninfe precedono, Beatrice nel
+mezzo, da ultimo Matelda, Dante e Stazio.  Nella mistica
+processione precedevano i sette candelabri (^Purg.~ XXIX, 43 e
+segg.); attorniando la pianta, le sette ninfe tenevano i lumi in
+mano (^Purg.~ XXXII, 98 e segg.); qu@i la comitiva si muove nel
+medesimo ordine della processione: i candelabri vanno davanti.
+
+	|14.  Solo accennando~: con un solo cenno, sia della
+mano, sia del capo, senza proferir parola.
+
+	|15.  La donna~: Matelda.  -- |Il savio~: Stazio.  --
+|Ristette~: rimase presso a noi quando Virgilio se n'and@o;
+^Purg.~ XXX, 49 e seg.
+
+	|16.  Sen giva~: Beatrice.  Dimentica gli altri per non
+parlare che di colei che tutto riempie il suo cuore.
+
+	|17.  Decimo~: alla severit@a teologica e alla
+soprabbondanza dell'affetto congiungesi in modo singolare
+l'esattezza aritmetica e matematica; onde egli conta i dieci
+passi che fece lungo il fiume Beatrice.  ^Tom.~  Non crediamo
+per@o che il Poeta menzioni quei dieci passi pel solo amore della
+<esattezza aritmetica e matematica>, supponiamo piuttosto che
+anche in questo numero e' ci abbia nascosta una qualche allegoria
+che non sappiamo per@o indovinare.  I dieci passi di Beatrice
+rammentano i dieci passi di distanza degli ostendali (^Purg.~
+XXIX, 79).  Il ^Buti~, che pu@o quasi dirsi solo a tentare una
+interpretazione di questi ^dieci passi~ qu@i, ci fa su la
+stranissima chiosa: <Secondo l'allegoria (^dice~) che non avea
+anche passato diece orazioni di quella parte del libro de
+l'Apocalisse di santo Joanni, lo quale elli studiava quando
+componeva questa parte di queste figurazioni, e di quinde le
+cavava; ben ch'elli le trasmutasse et arrecassele a sua
+intenzione che la ragione e lo intelletto suo fu percosso da lo
+intelletto che ebbe santo Joanni a quella parte quando disse:
+^Bestia, quam vidisti, fuit et non est~; s@i che gli venne voglia
+di metterla qu@i appresso, e per@o fa questa figurazione.>  ^Land.~
+sembra aver voluto commentare la inintelligibile chiosa del
+^Buti~: <Questo significa che non sono dieci clausole, dove
+Giovanni nell'Apocalisse pone la meretrice che fa fornicazione
+co' re della terra, a quel dove dice: ^Bestia~>, ecc.  Ma queste
+interpretazioni sono giuochi puerili.  Secondo il ^Barelli~ (l.
+c. pag. 280) i ^dieci passi~ figurano i dieci secoli dalla
+donazione di Costantino al 1300.  Legga di lettore quanto nella
+nota sopra ^Purg.~ XXIX, 79, dicemmo sull'allegoria del numero
+dieci, e procuri poi di indovinare da s@e quale sia il significato
+allegorico di questi ^dieci passi~ di Beatrice.
+
+	|18.  Quando~: allorch@e, guardandomi, percosse gli occhi
+miei collo splendore de' suoi.  -- |Percosse~: cfr. ^Purg.~ XXX,
+40 e seg.
+
+	|19.  Tranquillo~: non pi@u severo e sdegnoso come quando
+gli rinfacciava i suoi traviamenti, ^Purg.~ XXX, 70 e segg.; e
+non pi@u sospirosa e pia come poco fa (v. 4), quando deplorava i
+mali della Chiesa.  -- |Vien~: accelera il passo, acci@o mi stii
+di paro, e ben disposto ad ascoltarmi.  ^Lomb.~
+
+	|21.  Sie~: sia, sii; cfr. ^Purg.~ V, 70 nt.
+
+	|22.  Doveva~: per ubbidirla.
+
+	|23.  Frate~: fratello; cfr. ^Purg.~ XXIX, 15 nt.  --
+|Non ti attenti~: non arrischi.
+
+	|24.  A domandarmi~: ^S. Croce~, ^Berl.~, ^Cass.~,
+^Vienn.~, ^Stocc.~, ecc.; prime quattro edizioni, ^Nidob.~,
+^Falso Bocc.~, ^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~,
+ecc.  ^A dimandare~: ^Vat.~, ^Caet.~, ecc.; ^Ald.~, ^Rovill.~,
+^Crus.~, ecc.
+
+	|25.  Reverenti~: Lo pi@u bello ramo che dalla radice
+razionale consurga, si @e la ^discrezione~.....  Uno de' pi@u belli
+e dolci frutti di questo ramo @e la ^reverenza~ che debbe al
+maggiore il minore....  ^Reverenza~ non @e altro che confessione
+di debita suggezione per manifesto segno.  ^Conv.~ tr. IV, cap.
+8.  -- Da un atto comunissimo trae la similitudine schiettezza di
+forme e venust@a di colore.  ^L. Vent.~
+
+	|26.  Dinanzi~: in Omero (^Odissea~, trad. del
+^Pindemonte~, lib. III, v. 32-35) Telemaco a Mentore:
+
+                                   Esperto
+     Non sono ancor del favellar de' saggi,
+     N@e consente pudor, che a far parole
+     Cominci col pi@u vecchio il men d'etade.
+
+	|27.  Viva~: intera, pronunziata distintamente.
+
+	|28.  Senza~: l'^Ariosto~ (^Orlan.~ XLII, 98):
+
+     Spesso la voce dal des@io cacciata
+     Viene a Rinaldo fin presso alla bocca
+     Per domandarlo, e quivi raffrenata
+     Da cortese modestia fuor non scocca.
+
+	|29.  Mia bisogna~: ci@o che mi occorre di sapere.
+
+	|30.  @E buono~: quanto mi giova sapere.
+
+	|32.  Disviluppe~: disviluppi; cfr. ^Purg.~ XV, 82 nt. 
+-- <Tema e vergogna (come nel Canto XXXI, 13: ^Confusione e paura
+insieme miste~) fanno un viluppo tra s@e, e avviluppano il
+sentimento e il pensiero, e quindi la parola di Dante.>  ^Tom.~
+
+	|33.  Com'uom che sogna~: con parole tronche come chi
+balbetta.  ^Stat.~ ^Theb.~ V, 543: ^Qualia non totas peragunt
+insomnia voces.~  Similitudine imitata dal Petrarca (^Rime~, P.
+I, Son. 41: ^Se parole fai, Sono imperfette, e quasi d'uom che
+sogna~) e dal Tasso (^Ger. lib.~ XIII, 30: ^Gli ragiona in guisa
+d'uom che sogna~).
+
+	|34-51.~  ^Beatrice predice che l'aquila avr@a a sua volta
+un Erede, poich@e un Messo di Dio tra breve uccider@a la meretrice
+assieme con quel gigante che con lei pecca.~
+
+	|34.  Il vaso~: il mistico carro.  -- |Il serpente~: il
+drago, ^Purg.~ XXXII, 130 e seg.  ^Draco ille magnus, serpens
+antiquus, qui vocatur diabolus, et satanas~; Apocal. XII, 9. 
+Dante chiama |serpente~ il dragone, come lo chiama l'Apocalissi. 
+@E questa una nuova prova, che il ^drago~ della visione non altro
+figura che il principio malo, il diavolo.  -- |Ruppe~: ficcando
+la sua coda ^per lo carro su~ e traendo con essa parte del fondo
+del carro, XXXII, 132 e segg.
+
+	|35.  Fu e non @e~: parole anche queste dell'Apocalissi
+(XVII, 9): ^Bestia, quam vidisti, fuit et non est.~  -- <Questa
+parole comparate colle precedenti ^modicum et non videbitis me~
+{v.10}, dinotano: 1+o~- che la sede papale, dacch@e fu trasformata
+dal possesso dei beni mondani e vedovata della scienza di Dio,
+non @e pi@u qual'era da principio, non pi@u cos@i santa, cos@i
+perfetta, cos@i efficace nella santificazione del popolo
+cristiano; 2+o~- che fra non molto s'adempirebbe alla lettera quel
+che fu visto in figura del rapimento del carro.  Ma s@i la
+deformit@a della stessa cattedra, e s@i la vedovanza di questa e
+della citt@a santa durerebbero solo a tempo.  ^Et iterum~ sorelle
+mie dilette, ^Modicum et vos videbitis me~ {v.12}.  Laonde nel
+primo senso alle parole ^fu e non @e~ aggiungerai ^santo quale Dio
+lo fece~; e nel secondo, ^congiunto alla pianta dove Dio lo
+pose.~>  ^Barelli.~  Il ^carro~, qu@i detto ^vaso~ {v.34}, se ci
+ricorda @e simbolo della Chiesa (vedi sopra, pag. 641 e seg.); ma
+verso la fine del Canto antecedente vedemmo che tal simbolo va
+man mano concentrandosi nel simbolo della sola Sede apostolica,
+rappresentatrice che @e della Chiesa universale.  Anche qu@i, non
+potendosi ammettere aver Dante voluto dire che la ^Chiesa
+universale~ abbia cessato di essere, convien supporre che egli
+non abbia avuto in mira che la sola Sede apostolica. 
+Ricordiamoci ora che negli ultimi versi del Canto antecedente il
+Poeta descrive sotto veste allegorica il trasferimento della Sede
+pontificia ad Avignone, e che appunto a questo fatto allude
+Beatrice quando dice: ^Modicum et non videbitis me~ {v.10}. 
+Veramente Dante avea finito il Canto antecedente col dirci che il
+Gigante trascin@o il mostruosamente trasformato carro per la
+selva, tanto lontano che Dante non pot@e pi@u vederlo.  Qu@i dice
+che il ^vaso~ {v.34} |Non @e~, e queste parole non significano
+soltanto che esso non @e santo come Dio lo fece, n@e congiunto alla
+pianta dove Dio lo pose; significano anzi che il ^vaso~ {v.34} @e
+distrutto, ha cessato di essere, che il ^Sole~ il quale deve
+menare l'uomo alla felicit@a di vita eterna @e ^spento.~  Pare
+conseguentemente che secondo il modo dell'Alighieri di vedere e
+considerare le cose la Sedia pontificia in Avignone non era la
+sedia di S. Pietro, ma una caricatura di essa, Bonifazio VIII e
+Clemente V non papi, non successori di San Pietro, ma
+^mercenari~, ^rubatori e ladroni~ (cfr. S. ^Giov.~ X, 8-14).  Lo
+stesso concetto si ripete pi@u chiaramente e fuor d'allegoria nel
+^Paradiso~ (XXVII, 22 e seg.), allorch@e S. Pietro dice che il
+luogo suo @e vacante negli occhi di Cristo non essendo Colui che
+vi siede che un usurpatore.  -- |Chi~: il gigante che condusse
+via il carro divenuto ^nuova~ belva.  -- |Creda~: resti persuaso.
+
+	|36.  Suppe~: propriamente: pane inzuppato nel vino, la
+zuppa, come ^sopa~ nel provenzale e spagnuolo, ^soupe~ nel
+francese.  La voce deriva dal ted. ^soppe~ e |suppe~, cfr. ^Diez,
+Etym. W,orterb.~ I, pag. 388.  Allude qu@i Dante ad un uso dei pi@u
+caratteristici che ritardarono il progresso della civilt@a; era
+questo il diritto che arrogavasi ogni famiglia, cui era stato
+ucciso uno de' suoi membri, di uccidere l'omicida, o in suo
+difetto ogni altro individuo della di lui famiglia.  A questo
+barbaro principio si erano associate alcune strane superstizioni. 
+Credevasi che se un omicida o qualcuno de' suoi pervenisse, nel
+termine di otto giorni, a contar da quello dell'omicidio, a
+mangiare una zuppa o tutt'altra cosa sulla tomba della vittima,
+ogni probabilit@a di vendetta fosse perduta pei parenti
+dell'ucciso.  Cos@i la guerra inevitabile tra le due famiglie
+cominciava intorno alla sepoltura della vittima, l'uno spiando il
+momento di mangiarvi qualche cosa, l'altra vegliando notte e
+giorno per allontanarne i mangiatori.  Tutti gli antichi
+commentatori si accordano nel riferire il presente verso a tale
+superstizione.  Giova addurre qu@i alcune delle loro chiose. 
+^Lan.~: <Qu@i il Poeta intromette un'usanza, ch'era anticamente
+nelle parti di Grecia, che se uno uccidea un altro, ed egli
+poteva andare nove d@i continui a mangiare una suppa suso la
+sepoltura del defunto nel comune, i parenti del morto non faceano
+pi@u nessuna vendetta.  Ed ^usasi~ (si osservi questo presente) a
+Firenze di guardare per nove d@i la sepoltura d'uno che fosse
+ucciso, acci@o non vi sia suso mangiato suppa.>  ^Ott.~: <Nota che
+questo @e tratto da una falsa opinione che le genti ^avevano~, le
+quali ^credeano~, che se lo micidiale potesse mangiare infra
+certi di una suppa in su la sepoltura dello ucciso, che di quella
+morte non sarebbe mai vendetta.>  ^An. Fior.~: <Solevasi
+anticamente, chi aveva fatto alcuno omicidio, acci@o che non fosse
+vendetta, andare sopra la sepoltura dello ucciso, et mangiarvi
+suso una zuppa, dicendo et sperando che poi di tal morto non si
+farebbe vendetta; et per questa cagione i parenti del morto
+guardavano sopra la sepoltura nove d@i continui et nove notti,
+acci@o che questo non intervenisse.>  Il ^Postill. Cass.~ dice che
+questa superstizione aveva luogo ^in non modicis locis, et
+precipue Florentiae.~  Il Postillatore del cod. Cagliaritano,
+della prima met@a del 300, ripete la medesima cosa (cfr.
+^Contini~, ^Di un nuovo codice della D. C.~, Fir. 1865, pag. 10). 
+Pietro, figlio di Dante, chiosa: ^Sed qui hoc fecit, speret
+punitionem Dei, quae non timet illam abusionem Florentinorum, quae
+est, cum aliquis magnus occiditur, custoditur ejus sepulcrum die
+noctuque, ne super ipsum infra novem dies offa, sive suppa
+comedatur.  Alii dicunt quod ultio de tali occisione fieri
+nequiret.~  Il ^Falso Bocc.~ dice che <questa usanza arrec@o Carlo
+senza terra di Francia, che quando egli sconfisse e prese
+Curradino con gli altri baroni de la Magna e fece loro tagliare
+la testa in Napoli, e poi dice che feciono fare le suppe e
+mangiaronle sopra quei corpi morti, cio@e Carlo con gli altri suoi
+baroni, dicendo che mai non se ne farebbe vendetta.>  ^Benv.
+Ramb.~ ricordata la detta superstizione, continua: ^Et hoc
+fecerunt multi famosi Florentini, sicut Dominus Cursius Donatus.~ 
+Il ^Buti~: <@E vulgare opinione dei Fiorentini, non credo di
+quelli che senteno; ma forsi di contadini, o vero che sia d'altra
+gente strana; unde l'autore lo cav@o non s@o: non de' essere che
+non sia, da che l'ha posto, ecc.>  Che il Poeta alluda a questa
+superstizione @e pure opinione di ^Land.~, ^Vell.~, del
+^Bellarmino~ (^Appendix ad libros de summo Pontifice~ ecc. in ^De
+controversiis Christianae fidei adversus hujus temporis
+haereticos.~  Colon. Agripp. 1615, Vol. II, pag. 371-385, cap.
+XVI), ^Vol.~, ^Vent.~, ^Lomb.~, ^Portir.~, ^Pogg.~, ^Ed. Anc.~,
+^Costa~, ^Ed. Pad.~, ^Arrivabene~ (^Secolo di Dante~, Udine 1827,
+pag. 83-85), ^Ces.~, ^Wagn.~, ^Borg.~, ^Tom.~, ^Br. B.~, ^Frat.~,
+^Brun.~, ^Emil. Giud.~, ^Greg.~, ^Andr.~, ^Cam.~, ^Triss.~,
+^Franc.~, ^Kanneg.~, ^Filal.~, ^Kop.~, ^Blanc~, ^Witte~, ^Eitn.~,
+^Krig.~, ^Nott.~, ^Ozan.~, ^Fauriel~ (^Dante e le orig.~ ecc.
+Vol. I, pag. 419 e seg.), ^P. A. Fior.~, ^Brizeux~, ^Ratisb.~,
+^Longf.~, ^Bocci~, ecc.  Il primo a scostarsi dalla
+interpretazione che possiamo chiamare comune fu il ^Dan.~ il
+quale chiosa: <|Non teme suppe~, cio@e che i sacrificj che si
+fanno con l'hostia e col vino, non sono bastanti a fare che la
+maest@a di Dio s'astenga per essi dalla vendetta, che ha destinato
+far contra quelli che cos@i male hanno trattato la sua Chiesa e
+trattano.>  Al ^Dan.~ tenne dietro l'anonimo autore dell'^Avviso
+piacevole dato alla bella Italia~ (Monaco 1586, cfr. ^De
+Batines~, ^Bibl. Dant.~, Vol. I, pag. 500 e seg.), il quale
+interpret@o pure questa zuppa per il Sacrificio della Messa.  Cos@i
+anche l'^Aroux~, che vede in questo verso ^une allusion impie,
+sacril$ege au plus auguste myst@ere de la religion catholique~
+(cfr. Ejusd. ^Dante h$er$etique~, pag. 21, ^La Com. de Dante~, Vol.
+I, pag. 606); anche il ^Bennass.~ intende del Sacrificio della
+Messa, e crede che il Poeta alluda con ci@o <all'Ostia avvelenata
+che trasse a morte il suo Arrigo VII a Buonconvento, quasi
+volesse dire: Dio non @e come l'uomo che tema i vostri veleni
+nelle ostie.>  Persino ^van Mijnden~ si mostra inclinato ad
+accettare questa che il ^Vent.~ chiamava ^empia~ interpretazione. 
+Il ^Biag.~ si burla villanamente al suo solito della comune
+degl'interpreti, e ne insegna che <|Suppe~ dal lat. ^supus~, onde
+il franc. ^souple~, pieghevole, cedevole, soffice, s'usa dal
+Poeta in sentimento di blandimenti, lusinghe, parole, atti o
+fatti, lustre e soie, intese ad addolcir l'ira altrui, o ad
+ingannare, ricoprendo sotto quel velo la verit@a>, dimenticando
+che ^supus~ o ^suppus~ non volle mai dire altro che ^supinus.~ 
+Altri vuole che si stampi ^su'ppe~ parola raccorciata, e che il
+senso suoni: ^a' piedi~, supplice: Creda il colpevole che Dio non
+teme che possa sfuggirgli (^Aloisio Fantoni~, ap. ^Ferrazzi, Man.
+Dant.~, Vol. IV, pag. 412 e seg.).  ^Girolamo Amati~ credeva che
+|suppe~ stesse qu@i per ^supplice~ (^supplex~), onde s'avesse a
+spiegare ^non cura supplice~ (cfr. ^Div. Com.~, Rom. 1821, Vol.
+II, pag. 483).  ^Salvatore Betti~ (l. c.) opin@o che se qualche
+codice avesse ^duppe~ questo vocabolo potrebbe venir dal francese
+^duper~, che vale ^ingannare~, cosicch@e il senso sarebbe:
+Vendetta di Dio non teme inganni.  ^Luigi Biondi~ crede che col
+nome di |suppe~ venga significato una veste militare con quel
+nome chiamata nella bassa latinit@a, e che quindi il concetto di
+Dante valga che la vendetta di Dio ^non teme le armi~, cio@e gli
+eserciti del Re di Francia (cfr. ^Dal Rio~, ^Append. alla Div.
+Com.~, Prato, Passigli 1852, pag. 734), opinione accettata da
+^Sanjuan~ (il quale spiega: ^Crea el rey de Francia que la
+venganza de Dios no teme sus ejercitos~) e titubando da ^v.
+Hoffinger.~  Altri d@a alla voce |suppe~ il significato di
+^pasticci~ (^Parenti~, ^Opusc. Rel. Lett. Mor.~ 1857, I, pag.
+135-149); altri crede che questa voce sia usata metaforicamente a
+dinotare ^imbroglio~, ^intrigo~, ^frode~, ^inganno~, ^malvagit@a~,
+aggiungendo che non le armi di Francia, ma bens@i la cabala
+cagion@o danno alla Chiesa (^Mazzoni Toselli~, ^Diz.
+Gallo-italico~, s. v. ^Suppa~); altri vuole che la voce sia
+tratta dal linguaggio veneto e padovano, che nel parlar
+famigliare ha il valore di ^danno~, ^discapito~, e chiosa: Se Dio
+non teme di nulla, non ha a temere, siccome non teme, suppe, o
+danni, tuttoch@e arrecati dal serpente o da altro colpevole, danni
+che non ostano allo scopo della vendetta divina (^Montanari~, nel
+^Borghini~, Vol. I, pag. 571).  Conchiudiamo: Di sessantaquattro
+interpreti ed illustratori che abbiamo citati, quarantanove si
+accordano nel riferire questo luogo alla superstizione popolare
+di quel tempo, e tra questi quarantanove si trovano tutti quanti
+gli antichi, alcuni dei quali parlano dell'uso superstizioso come
+ancor vivente ai loro giorni.  Gli altri quindici emisero
+interpretazioni discordanti tra loro, alcune ingegnose ma tutte
+insieme degne dell'epiteto di ^ridicole~ dato loro dal ^Blanc~
+(^Vocab. Dant.~ s. v. ^Suppa~).  Quando tutti gli antichi vanno
+d'accordo circa un punto di storia @e temerit@a ed arroganza lo
+scostarsi dalla loro opinione.  Il presente passo @e, come osserva
+^Emil. Giud.~ (^Stor. della lett. ital.~, Vol. I, pag. 215 nt.),
+uno de' pi@u sublimi tocchi del pennello dantesco, un parlare
+misterioso, il quale serbando agli occhi nostri la oscurit@a d'un
+responso di oracolo, doveva ai suoi contemporanei tornare
+lucidissimo, e nel tempo stesso scendere oltre misura amaro al
+cuore degli Angioini, de' quali deridendo la superstizione,
+minaccia le iniquit@a.  Abbiamo qu@i uno dei tanti tesori nascosti,
+di cui rifulgirebbe il Poema, ove venisse illustrato da un
+commento rigorosamente storico. (La dissertazione del ^Montani~:
+<Sopra la voce |Suppe~>, nell'^Antologia~ di Firenze, n+o~ 135,
+pag. 8 e seg., ricordata dal ^De Batines~, ^Bibl. Dant.~, Vol. I,
+pag. 755, n+o~ 1229, non ci venne fatto di vederla).  -- Cfr.
+^Tobia~, c. IV, 18: ^Panem tuum et vinum tuum super sepultura
+justi constitue, et noli ex eo manducare et bibere cum
+peccatoribus.~
+
+	|37.  Reda~: ^Vatic.~, ^Berl.~, ^Cass.~, ^Vienn.~,
+^Stocc.~, ecc. prime quattro edizioni ^Ald.~, ^Revill.~, ^Crus.~,
+^Quattro Fior.~, ecc. ^Ott.~, ^Falso Bocc.~, ^Benv. Ramb.~, ecc. 
+^Ereda~, ^S. Croce~, ^Caet.~, ^Buti~, ^Witte~, ecc.  Di |reda~
+per ^erede~ cfr. ^Inf.~ XXXI, 116; ^Purg.~ VII, 118 nt. 
+L'^aquila senza reda~ @e l'impero vacante.  Beatrice predice che
+l'impero non sar@a |tutto tempo~, cio@e sempre vacante.  <Vacante
+considera il Poeta, come dice altrove della sede papale (^Parad.~
+XXVII, 23), una carica, quando chi la occupa non ne adempie, come
+deve, l'ufficio; e ufficio principale dell'imperatore, secondo
+lui, era di riunire e sottomettere al suo comando il giardino
+dell'impero allora deserto.>  ^Barelli~ (^Alleg.~, pag. 281).  La
+visione si finge avuta nell'anno 1300, nel qual anno l'impero non
+era veramente vacante, ma era tale negli occhi dell'Alighieri. 
+Altrove (^Conv.~ tr. IV, c. 3) e' chiama Federico II ultimo
+Imperatore e Re de' Romani (cfr. ^Parad.~ III, 120), aggiungendo:
+<^Ultimo~, dico, rispetto al tempo presente, non ostante che
+Ridolfo e Adolfo e Alberto poi eletti sieno appresso la sua morte
+e de' suoi discendenti.>  Secondo questa profezia l'Alighieri
+sperava fermamente che in breve fosse eletto un Imperatore
+secondo il cuor suo.  Se si potesse ammettere che Dante scrivesse
+la seconda Cantica prima della morte di Arrigo di Lussemborgo
+(1313) ne risulterebbe esser questi il Monarca sul quale fondava
+Dante le sue speranze.  Ma il Purgatorio, anzi l'intiera Commedia
+fu scritta dopo quell'epoca, come dicemmo altrove (nella nostra
+opera tedesca ^Dante Alighieri~ ecc., pag. 449-457, e nella
+nostra dissertazione ^Zu Dante's innerer Entwicklungsgeschichte~
+nel ^Jahrbuch~, III, pag. 26-29), e come dimostreremo pi@u
+estesamente nel volume dei Prolegomeni.  Non potendo dunque
+riferire questo vaticinio ad Arrigo VII convien supporre che esso
+non esprima che una speranza dell'Alighieri, la quale non ebbe
+adempimento.
+
+	|38.  L'aquila~: ^S. Croce~, ^Berl.~, ^Caet.~, ^Vienn.~,
+^Stocc.~, ecc. ^Folig.~, ^Jesi~, ^Nap.~, ^Buti~, ecc. 
+^L'aguglia~, ^Vat.~, ^Mant.~, ^Ald.~, ^Rovill.~, ^Crus.~, ^Falso
+Bocc.~, ^Benv. Ramb.~, ecc.  -- |Le penne~: cfr. ^Purg.~ XXXII,
+124 e seg.
+
+	|39.  Per che~: per avere accettata la piuma offerta il
+carro mistico prima si transform@o mostruosamente e poi divenne
+preda del gigante che lo trascin@o per la Selva.  -- |Mostro~:
+cfr. XXXII, 147.  <|Mostro~>, dice il ^Buti~, <@e cosa che viene
+contro l'uso de la natura; contro l'uso de la natura @e che il
+carro dovesse essere di nudo diventato pennuto e mettesse le
+sette sue teste con le tre corna fuora.>  E un comento inedito
+antico, citato dal ^Tom.~: <Mostro, ne' beni temporali della
+Chiesa, i quali beni, re, principi, signori, tiranni, ognuno
+l'avolterer@a per questi avere.>  -- |Preda~: letteralmente del
+gigante, allegoricamente della Casa di Francia.  -- <In questo
+verso @e tutta una dottrina storica.>  ^Tom.~
+
+	|40.  Ch'io~: perciocch@e io veggio con certezza e perci@o
+me ne faccio annunciatrice, nascere tra breve stelle che col loro
+benefico influsso ne faranno godere di tempo migliore.  --
+|Veggio~: in Dio.
+
+	|41.  Tempo~: nel quale il misterioso ^Messo di Dio~
+uccider@a la meretrice, v. 43 e seg.  -- |Stelle~: una
+costellazione gi@a vicina.  ^Subdendo quomodo aquila imperialis
+non erit continue sine haerede, cum videat jam per conjunctionem,
+quae erit forte 44 praesentis millesimi, sive quinto de Jove et
+Saturno, dominari quemdam ducem.~  Cos@i ^Petr. Dant.~ il quale si
+crede scrivesse verso il 1340.  Dante credeva senza dubbio che le
+sue speranze si avverassero prima del 1344.  Curioso @e quanto il
+^Land.~ (sopra ^Inf.~ I, 100 e segg.) osserva: <Io credo che 'l
+Poeta, come ottimo matematico, avesse veduto per astrologia, che
+per l'avvenire avessero a essere certe revoluzioni de' Cieli, per
+la benignit@a delle abbi al tutto a cessar l'avarizia.  Sar@a
+dunque il ^veltro~ tal influenza, la quale nascer@a tra Cielo e
+Cielo, o veramente quel Principe, il quale da tal influenza sar@a
+prodotto.  Onde dir@a di sotto ^Ch'io veggio certamente, e per@o il
+narro~ {v.40}.  Et certo, nell'anno MCCCCLXXXIV, nel d@i vigesimo
+quinto di Novembre, et a ore tredici, et minuti XLI, di tal d@i
+sar@a la coniuntione di Saturno et di Giove nel Scorpione, ne
+l'ascendente del quinto grado de la Libra, le qual dimostra
+mutation di religione.  Et perch@e Giove prevale a Saturno,
+significa che tal mutatione sar@a in meglio.  Laonde non potendo
+esser religione alcuna pi@u vera che la nostra, avr@o adunque ferma
+speranza che la Republica cristiana si ridurr@a a ottima vita et
+governo.>  Lutero nacque il 10, novembre 1483, Ulrico Zuinglio il
+1, gennaio 1484.  Si direbbe quasi che il buon ^Landino~
+vaticinasse la cos@i detta Riforma!  -- |Propinque~: vicine,
+prossime.
+
+	|42.  Sicure~: cos@i leggono i quattro codici del Witte,
+il ^Cass.~, ^Vienn.~, ^Stocc.~, molti codd. veduti dagli
+Accademici, dodici veduti dai ^Quattro Fior.~, ecc. hanno
+|sicure~ la ^Jesina~, ^Mant.~, ^Nidob.~, ^Ald.~, ^Burgofr.~,
+^Giol.~, ^Rovill.~, ^Sessa~, ecc. ^Benv. Ramb.~, ^Buti~, ^Land.~,
+^Vell.~, ^Dan.~, ecc.  La ^Crus.~ legge con alcuni codd. e colle
+edizioni di ^Foligno~ e di ^Napoli~ ^Sicuro.~  Il dire che il
+^tempo~ {v.41} @e sicuro da ogni contrasto e da ogni ostacolo
+sembra locuzione un po' strana, mentre @e ben detto che le
+^stelle~ {v.41} le quali vanno avvicinandosi non incontreranno
+ostacolo alcuno.  -- |Sbarro~: ostacolo; dal ted. ant. ^sparro~,
+onde ^barra~; cfr. ^Diez~, ^Etym. W,orterb.~ I, pag. 56 e seg.
+
+	|43.  Cinquecento~: eccoci ad uno dei pi@u oscuri e
+disputabili passi del Poema dantesco.  Per non dilungarci qu@i
+oltre misura, riserberemo il ragguaglio e l'esame delle diverse
+opinioni ed interpretazioni alla digressione in fine del presente
+canto.  Qu@i osserveremo anzi tutto che Dante imita anche qu@i lo
+stile mistico dell'Apocalissi (cap. XIII, 18), ove parlandosi
+della bestia dalle sette teste e dieci corna si dice: ^Hic
+sapientia est.  Qui habet intellectum computet numerum bestiae. 
+Numerus enim hominis est; et numerus ejus sexcenti sexaginta
+sex.~  L'enimma dell'Apocalissi non @e molto forte.  L'autore
+era giudeo ed aveva pertanto in mira lettere ebraiche.  Scritto
+ebraicamente il nome Neron Caesar ({parole ebraiche}) d@a appunto il
+numero 666, cio@e:
+
+     {lettera ebraica} =  50
+              "        = 200
+              "        =   6
+              "        =  50
+              "        = 100
+              "        =  60
+              "        = 200
+                      ------
+                         666
+
+Cfr. ^Hausrath in Schenkel's Bibel-Lexicon~, I, pag. 155.  Onde
+decifrare il numero dantesco bisognerebbe sapere se egli ebbe in
+mira il valore delle lettere latine, oppure soltanto esse lettere
+DXV, le quali trasposte danno la parola DVX, cio@e ^duce~,
+^capitano.~  Comunque siasi, @e chiaro che Dante esprime qu@i la
+speranza che un personaggio sarebbe per insurgere, il quale
+riformerebbe la Chiesa e ripristinerebbe l'autorit@a imperiale. 
+N@e men certo ci sembra, che l'Alighieri non esprime qu@i una
+speranza vaga ed indeterminata, che anzi egli mirava ad un
+personaggio storico dei suoi tempi, su cui credeva poter fondare
+le sue speranze.  Paragonando inoltre il presente passo col
+vaticinio del ^Veltro~ (^Inf.~ I, 100 e segg.) ne risulta ad
+evidenza che il DXV ed il ^Veltro~ sono una cosa.  Dal contesto
+risulta poi che il personaggio vaticinato dall'Alighieri non pu@o
+essere che un capitano, un duce secolare, non gi@a un papa od
+altro uomo di Chiesa.  Prendiamo ora a mano la storia.  Ad@i 16
+Dicembre 1318 Cangrande della Scala, Signor di Verona, gi@a salito
+in fama di gran valore e prudenza, fu da' Principi Ghibellini
+collegati insieme a comune difesa, eletto a Capitano della Lega
+contro la forza de' Guelfi.  Allora fu che Cangrande
+autorevolmente impugn@o lo stendardo dell'Aquila, come Duce in
+Italia di tutti i seguaci dell'Imperio.  (Cfr. ^G. Vill.~, lib.
+IX, cap. 88 e segg. ^Dionisi~, ^Prep. istor~, II, pag. 153 e
+seg.).  E appunto sul finire del 1318 e sul principiare del 1319
+Dante poneva compimento alla seconda Cantica (cfr. ^Witte~,
+^Dante-Forschungen~, pag. 138 e seg.  ^Scartazzini~, ^Dante
+Alig.~, pag. 455 e seg.  Vedi pure il capitolo sull'epoca in cui
+fu scritta la D. C. nel Volume dei Prolegomenti).  Da queste date
+risulta che Cangrande della Scala @e il DVX vaticinato da Dante. 
+Lo stesso risultato si ottiene paragonando il presente passo con
+un altro, ove l'Alighieri parla indubitabilmente di Cangrande
+(^Parad.~ XVII, 76 e seg.).  Il sorgere del DVX @e qu@i cagionato
+da una benigna costellazione; Cangrande deve il suo valore alla
+benigna influenza del pianeta di Marte (^Parad.~ XVII, 76-78). 
+L'uccidere il Gigante assieme con la fuja sembrano essere appunto
+le ^opere notabili~ delle quali parla Dante nel Paradiso.  N@e le
+vicende qu@i vaticinate avrebbero potuto aver luogo senza
+trasmutazione di ^molta gente~; ed ecco l'Alighieri dirci
+altrove, che per Cangrande
+
+           fia trasmutata molta gente
+     Cambiando condizion ricchi e mendici.
+      (^Parad.~ XVII, 89, 90).
+
+E quali mai potrebbero essere le ^incredibili cose~ che sul conto
+di Cane Dante ud@i dire a Cacciaguida (^ibid.~ v. 92, 93), se non
+appunto quelle vaticinate qu@i da Beatrice?  Anche la innegabile
+identit@a del DVX e del ^Veltro~ parla in favore di questa
+interpretazione (Vedi la nostra nota sopra ^Inf.~ I, 101).  Si
+pu@o inoltre, ad ulteriore conferma, aggiungere la seguente
+osservazione di ^Giuseppe Picci~ (^I luoghi pi@u oscuri e
+controversi della D. C.~, pag. 158 e seg.).  <Scrivendo il nome e
+gli aggiunti principali dello Scaligero ^Kan Grande de Scala
+Signore di Verona~, e computandone numericamente le iniziali e le
+preposizioni.... otteniamo:
+
+     K =  10
+     G =   7
+     d =   4
+     e =   4
+     S =  90
+     d =   4
+     e =   5
+     V = 300
+     -------
+         515
+
+Questo infatti @e il numero DXV, e le iniziali e preposizioni
+danno il nome: Kan Grande de Scala, Signore de Verona.>  Tutto
+s'accorda adunque a rendere assai verisimile l'opinione che il
+DXV sia Cangrande della Scala, opinione che, come vedremo nella
+digressione, fu adottata dal maggior numero dei commentatori
+antichi e moderni.
+
+	|44.  Messo~: mandato da Dio.  -- |Di Dio~: ^Vat.~,
+^Berl.~, ^Caet.~, ^Vienn.~, ^Stocc.~, ecc. ^Folig.~, ^Nap.~,
+^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Sessa~,
+^Crus.~, ^Com.~, ^Quattro Fior.~, ecc.  |Di Dio~: ^S. Croce~,
+^Cass.~, ecc. ^Benv. Ramb.~, ^Buti~, ecc.  -- |La fuja~: @e chiaro
+che questa |fuja~ @e la ^puttana sciolta~ del Canto antecedente
+(v. 148 e segg.).  Ma quale @e la vera significazione della voce
+|fuia~ usata qu@i dal Poeta?  La voce medesima occorre anche
+^Inf.~ XII, 90, dove, d'accordo coll'^Ott.~ spiegammo ^ladra.~  E
+anche qu@i ci avvisiamo che |fuja~ debba prendersi nel significato
+di ^ladra~, e che Beatrice chiami cos@i la ^puttana sciolta~,
+perch@e si usurp@o il luogo sopra il carro, nel quale fu vista
+sedere.  Stanno con noi un buon numero di interpreti (^Vol.~,
+^Rosa Morando~, ^Costa~, ^Ed. Pad.~, ^Ces.~, ^Bor.~, ^Tom.~, ^Br.
+B.~, ^Frat.~, ^Brun.~, ^Andr.~, ^Triss.~, ^Bennas.~, ^Franc.~,
+^Picchioni~ [^Del senso alleg. prat. e dei vatic. della D. C.~,
+Basil. 1857, pag. 151-159], ecc.).  Altri intendono diversamente. 
+I pi@u antichi o tirano via (^Ott.~, ^Petr. Dant.~, ^Falso
+Bocc.~), o si appagano col dire che per la |fuja~ s'ha da
+intendere <la puttana predetta> (^Lan.~, ^An. Fior.~, ^Post.
+Cass.~, ^Benv. Ramb.~, ^Land.~, ^Vell.~, ecc.).  Il ^Buti~
+chiosa: <la |fuja~, cio@e meretrice, per la quale intende lo papa
+e la corte di Roma fuggitiva, che @e fuggita, per meglio
+adulterare con lui, da Roma in Francia.>  Tale @e pure
+l'interpretazione del ^Borghini~ (^Studi sulla D. C.~ ed ^Gigli~,
+pag. 232): <Io non so di questa voce in verit@a pi@u che tanto: ma
+non mi dispiacerebbe che venisse dal ^Furus~ o ^Furo~, che
+^oscuro~ e ^nero~ significa.>  Poi, citando il verso (^Parad.~
+IX, 75): ^Nulla voglia di se a te puote esser fuia~, il
+^Borghini~ interpreta ^fuggita~, <non pu@o fuggire innanzi il tuo
+cospetto.>  Anche il ^Galvani~ (^Lettera sulla voce~ |Fuja~
+^usata da Dante~, s. l. et a. cfr. ^Div. Com.~, Prato, Passigli
+1852, pag. 734) interpreta la parola |fuja~ qu@i come ^Inf.~ XII,
+90, nel senso di ^fuggita.~  Ma tale interpretazione @e dimostrata
+falsa dal fatto.  La meretrice non era ^fuggita~ col gigante, ma
+era stata trascinata via per forza.  Il ^Dan.~ chiosa: <La piena
+di foia et adultera puttana.>  Altri vogliono che |fuja~ volga
+qu@i ^nera~, ^rea~, ^scellerata~ ecc. (^Lomb.~, ^Pogg.~, ^Ed.
+Anc.~, ^Biag.~, ^Wagn.~, ^Greg.~, ^Cam.~, ecc.) e la ^Crusca~
+adduce appunto questo verso di Dante a dimostrare che |fuja~
+debbe significar ^scellerata~, ed aggiunge poi quest'altro
+esempio: ^Per avarizia~ FUJE ^si trovan tutte~ (Libro d'Amore,
+79); <nel quale esempio>, osserva il ^Picchioni~ (l. c. pag.
+156), <altri truova il difetto frequentissimo di questo
+Vocabolario: una frase mozza, che nulla significa o dimostra a
+chi non abbia il testo citato alla mano da potere esaminare il
+contesto dell'intiero discorso.  N@e io mi so poi divisare che
+l'epiteto ^scellerata~ meglio si convenga all'avarizia di quello
+di ^ladra~: conciossiach@e, questo vizio recando l'uomo a
+desiderio disordinato di aumentare a pi@u a pi@u, e smisuratamente
+il suo, molto non lo faccia riguardoso nello scegliere i modi da
+pervenire al suo fine, e quindi dall'avarizia al latrocinio breve
+sia il passo, facile lo sdrucciolo, quando far si possa senza che
+altri se ne accorga.>  Si confronti pure ^Blanc~, ^Voc. Dant.~ s.
+v. ^Fuio~; ^Diez~, ^Etym. W,orterb.~ II, pag. 32 (sbaglia per
+altro il ^Diez~ asserendo che la voce ^fujo~ non si trova che in
+Dante).  Non vogliamo poi passare sotto silenzio un'altra
+difficolt@a che questo passo ci presenta.  Che la |fuja~ e la
+meretrice del canto antecedente sono una cosa @e evidente.  Or la
+^meretrice~ simboleggia la Curia romana degenerata e corrotta. 
+Ma se il DXV @e Cangrande, come poteva Dante sperare che egli
+uccidesse la Curia romana assieme col Gigante, cio@e colla Casa
+reale di Francia?  A ci@o si risponde che |ancidere~ non vuolsi
+qu@i intendere alla lettera.  Dante sperava che a Cangrande
+riuscisse di riformare la Sede apostolica e domare l'orgoglio e
+la potenza della Casa di Francia, e questa speranza egli esprime
+colle parole che il |Messo di Dio ancider@a la fuja~ ^Con quel
+gigante che con lei delinque~ {v.45}.  Se non che il DXV ed il
+^Veltro~ del C. I, dell'^Inf.~ essendo una cosa, ne risulta che
+anche la |fuja~ e la ^lupa~ sono una cosa sola.  Infatti la
+predizione del ^Veltro~, che ^far@a morir di doglia~ la lupa, nel
+canto I, dell'Inferno, s'accorda perfettamente con quella del
+^Cinquecento dieci e cinque~ che uccider@a la fuja, e tanto pi@u
+che i caratteri, coi quali @e dipinta la lupa convengono con
+quelli della ^donna sfacciata.~  Ma la ^lupa~ noi dicemmo esser
+simbolo dell'avarizia; la ^donna sfacciata~ della Curia romana. 
+Or se la lupa e la meretrice sono identiche, non hanno ragione
+quegli interpetri che anche nella lupa veggono figurata la Curia
+romana?  Si risponde che secondo Dante l'avarizia era per cos@i
+dire incorporata nella Curia romana, massime nei papi dei suoi
+tempi.  N@e di ci@o mancano le prove.  Parlando ad un papa Dante
+gli rinfaccia: ^La vostra avarizia il mondo attrista Calcando i
+buoni e sollevando i pravi~ (^Inf.~ 104, 105).  Altrove e' dice
+che nei cherici, ^papi e cardinali usa avarizia il suo soperchio~
+(^Inf.~ VII, 46-48).  Cos@i l'avarizia figurata nella lupa @e qu@i
+personificata nella meretrice, cio@e nella Corte romana.  I
+disordini, prodotti dalle ricchezze prodigate alla Chiesa, danno
+origine alla apparizione della donna sfacciata in sul Carro:
+questo s'accorda con ci@o, di cui moralmente anche nella D. C. @e
+simbolo la lupa, cio@e l'avarizia.  Bene il ^Vell.~: <Disperda la
+puttana significata per lo Papa, et esso per l'avarizia....  Et
+in sententia dice, che questo Duca spegner@a l'avarizia, et ogni
+fautor di quella.>
+
+	|45.  Con quel~: <^S. Croce~, ^Berl.~, ^Caet.~, ^Cass.~,
+^Vienn.~, ^Stocc.~, ecc. prime quattro edizioni, ^Benv. Ramb.~,
+^Buti~, ecc.  ^E quel~: ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~,
+^Crus.~, ^Comin.~, ^Quattro Fior.~, ecc.  ^Che con quel gigante
+lei Delinque~: <^Vat.~, ecc.  -- |Gigante~: cfr. XXXII, 152 e
+segg.  Gli antichi espositori si contentano di dire questo
+gigante essere il re di Francia (^An. Fior.~, ^Post. Cass.~,
+^Buti~, ecc.); altri vogliono che il Poeta intenda di Filippo il
+Bello (^Benv. Ramb.~, ^Vell.~, ecc.), anzi alcuni si fondano su
+questo passo per provare che il ^Purgatorio~ era gi@a per esser
+compiuto innanzi il 29 novembre 1314, nel qual giorno Filippo il
+Bello cess@o di vivere.  ^Cos@i~ il ^Troya~ (^Veltro allegorico di
+Dante~, pag. 141) il quale tuttavia concede che il Poeta <pot@e
+aggiungervi alcuni versi dove pi@u gli tornava l'acconcio.>  E il
+^Balbo~ (^Vita di Dante~, Fir. 1853, pag. 358): <Dal trovar
+Filippo ancor menzionato e minacciato come vivente nell'ultimo
+canto del Purgatorio, si trae la data pi@u certa che sia della
+composizione di qualunque parte della Commedia.  Ch@e, come il
+Canto XXIV ov'@e menzione del soggiorno di Lucca, non pot@e esser
+fatto prima del giugno, cos@i il XXXIII ed ultimo non pot@e esser
+fatto dopo il novembre 1314.  E cos@i al pi@u fra questi sei mesi,
+furono fatti tutti almeno questi dieci Canti.>  Anche il
+^Berardinelli~ (^Concetto della D. C.~, pag. 440) opina che nel
+1314 Dante <probabilmente si occupava di comporre questi ultimi
+canti.>  Noi dicemmo invece poco fa (v. 43 nt.) il Purgatorio non
+esser compiuto che sul principiare del 1319, n@e sappiamo
+persuaderci che il presente passo sia contrario alla nostra
+opinione.  Ch@e ci sembra un errore l'opinione di chi nel
+|gigante~ non vede figurato che il solo ^Filippo il Bello.~  Il
+gigante non figura un principe o Re Francese determinato, si deve
+piuttosto intendere in lui significata in astratto quella potenza
+comprensiva di pi@u membri e di pi@u regni, non escluso quello di
+Napoli, tenuto allora dalla potenza medesima, detta forse anche
+perci@o ^mala pianta, Ohe la terra cristiana tutta aduggia S@i che
+buon frutto rado se ne schianta~ (^Purg.~ XX, 43-45). 
+<Posciach@e> osserva molto a proposito il ^Graziani~ (^Interpr.
+dell'Alleg. della D. C.~, pag. 346), <se si riguardi allo
+scioglimento del Carro e trasporto di lui, ossia della S. Sede in
+Francia, esso fu realmente opera pi@u particolare di Filippo il
+Bello, non esclusa per@o la cooperazione non guari posteriore di
+Roberto, se non altro a raffermare il gi@a fatto: e di Filippo qu@i
+intendono tutti (?) i Commentatori.  Ma quando il Poeta
+nell'ultimo del Purgatorio dettava per bocca di Beatrice la
+profezia sulla uccisione del gigante, Filippo era gi@a morto; e
+quindi volendo ritenere la profezia non posta a modo di pura
+finzione, ma informata di speranza vera e contro soggetto in cui
+potesse adempiersi, il Poeta non pot@e intendere del morto
+Filippo; ma piuttoso di Roberto membro principale allora di quel
+potere.>  -- |Delinque~: pecca: e ci@o in due maniere diverse:
+prima puttaneggiando colla meretrice (XXXII, 153; cfr ^Inf.~ XIX,
+108); poi flagellandola (XXXII, 156).
+
+	|46.  Narrazion~: vale qu@i Predizione, Vaticinio.  --
+|Buja~: oscura, difficile da intendere.
+
+	|47.  Qual~: parlare ellittico; vale: Com'erano gli
+oracoli di Temi o gli enimmi della Sfinge.  -- |Temi~: O Temide,
+figlia secondo la mitologia di Urano e della Terra.  Amata da
+Giove, lo fece padre di diverse figliuole (^Horoe~, ^Moiroe~). 
+Omero (^Od.~ II, 68) personifica in lei l'ordine delle cose
+sanzionato dall'uso o dalla legge.  Si riteneva anche per
+rivelatrice del futuro, ed era celebre per la oscurit@a degli
+oracoli che rendeva (cfr. ^Eur. Iph. T.~ 1181 e segg.).  A lei
+andarono dopo il diluvio Deucalione e Pirra, pregandola:
+
+     ^Dic, Themi, qua generis damnum reparabile nostri~
+     ^Arte sit, et mersis fer opem, mitissima, rebus.~
+
+E Temi risponde buio:
+
+     - -- -- -- -- -- -- -- ^Discedite Templo~,
+     ^Et velate caput, cinctasque resolvite vestes~,
+     ^Ossaque post tergum magnae iactate parentis.~
+
+Deucalione e Pirra stupiscono; finalmente il figlio di Prometeo
+indovina il senso dell'enimma:
+
+     ^Magna parens terra est, lapides in corpore terrae~
+     ^Ossa reor dici.  Jacere hos post terga iubemur.~
+
+Vedine il mitico racconto in ^Ovidio~, ^Metam.~, lib. I, v.
+347-415.  Cfr. ^L,ubker's Reallexicon des class. Alt.~ 4, ediz.
+Lips. 1874, pag. 1005 e seg. ^Bocci~, ^Diz.~, pag. 433;
+^Lindemann~, ^Ovid's Verwandlungen~, Lips. 1853, Vol. I, pag. 65
+e seg. Vol. II, pag. 160 e seg.  -- |Sfinge~: ente favoloso della
+mitologia greca, egiziana ed indiana, figlia di Tifone e della
+Chimera (^Hesiod.~ ^theog.~ 326), con faccia muliebre e di natura
+feroce, abitava sul monte Fino nelle vicinanze di Tebe, dove
+costringeva i passeggieri a sciogliere un enimma che loro
+proponeva.  Chi non sapeva spiegarlo era ucciso, e gi@a molti
+erano periti, quando venne Edipo, che sciolse l'enigma, onde la
+sfinge si precipit@o da una rupe e si diede la morte.  Cfr.
+^Lindenmann~, l. c. Vol. II, pag. 159 e seg.  -- |Men~: non ti
+riesce sufficientemente intelligibile.  La lezione di questo
+verso: ^Qual Temi spinge me ti persuade~ che @e del ^Vat.~,
+^Caet.~, ^Vienn.~, ^Stocc.~ ecc. ci sembra errore manifesto,
+derivato dall'aver omesso una ^h~ nella parola ^sphinge~ e
+scritto ^me~ invece di ^m#e~ -- ^men.~
+
+	|48.  Perch'a lor modo~: perch@e la mia narrazione oscura
+ed offusca la mente e l'intelletto tuo nella guisa che Temi e
+Sfinge soleano fare.  -- |Attuja~: questa voce @e si direbbe quasi
+un %$alpha%pi%alpha%xi\
+%lambda%varepsilon%gamma%o%mu%varepsilon%nu%o%nu\, n@e il ^Voc.
+Cr.~ ne cita altro esempio che questo di Dante.  I commentatori
+antichi non si curarono di darne veruna spiegazione.  ^Benv.
+Ramb.~ legge ^ottura~ e spiega: <Perch@e le mie parole ti oscurano
+l'intelletto come i responsi di Temi e della Sfinge.>  Ma
+^ottura~ @e lezione falsa, perch@e guasta le rima.  ^Buti~ lesse
+^acuja~, e chiosa: <assottiglia et oscura lo intelletto suo a lor
+modo; cio@e a modo che oscurava Temi e Sfinge lo intelletto de la
+sua narrazione.>  Cos@i anche ^Land.~ il quale intende: <Et @e cos@i
+oscura la mia narrazione, perch@e essa ^accuia~, cio@e
+s'assotiglia, e fa assotigliar l'intelletto al modo loro, intendi
+di Themi et Sfinge.>  ^Vell.~ e ^Dan.~ spiegano: <^attuia~, cio@e
+offusca l'intelletto.>  Anche la ^Crus.~ ed il ^Vol.~ danno al
+verbo ^attuiare~ il significato di ^offuscare~, mettere il
+cervello a partito, ecc.  ^Lomb.~ crede ^attuiare~ formato da
+^atturare~ che significherebbe ^Chiudere~, ^Turare~, come il lat.
+^obturare.~  Cos@i anche ^Pogg.~  Il ^Ces.~ osserva che <forse fu
+scritto ^abbuja~, e tutto era chiaro.>  Il ^Fosc.~ adott@o la
+lezione proposta dal ^Ces.~, la quale toglierebbe veramente tutte
+le difficolt@a, se soltanto avesse il fondamento di qualche
+autorit@a di codici.  ^Tom.~ spiega: <|attuja~, confonde.> 
+^Blanc~ (^Voc. Dant.~ s. v. ^attuirare~): <S'il $etait permis de
+faire une conjecture nous proposerions |ottuja~ dans le sens
+^d'obturare~, h$eb$eter ^stumpf machen.~>  Il ^Frezzi~ nel
+^Quadriregio~: <Ogni uomo volentier s'attuja gli occhi per non
+vederla>, dove ^attuiare~ @e usato come sinonimo di ^atturare.~
+
+	|49.  Li fatti~: ma gli eventi saranno tosto le
+interpreti che faran chiara la mia predizione.  L'idea venne
+suggerita al Poeta dai seguenti versi di ^Ovidio~ (^Metam.~, lib.
+VII, 759-761):
+
+     ^Carmina Laiades non intellecta priorum~
+     ^Solverat ingeniis, et praecipitat@a iacebat~
+     ^Immemor ambagum vates obscura suarum.~
+
+Invece di ^Laiades~ Dante lesse ^Naiades~, come si leggeva ai
+tempi suoi in tutti i manoscritti di Ovidio.  Passando sotto
+silenzio le diverse strane ed ingegnose interpretazioni dei
+commentatori, che si fondano sulla falsa lezione ^Naiades~,
+riferiremo quanto a proposito scrisse il ^Monti~ (^Saggio dei
+molti e gravi errori trascorsi in tutte le edizioni del Convito
+di Dante~, Mil. 1823, pag. 95 e seg. nt.): <Non potendosi ora pi@u
+porre in dubbio dai Critici la bella emendazione dell'Einsio
+confortata dai migliori testi che leggono ^Carmina Laiades~ ecc.
+ed essendo al pari certissimo che quivi parlasi non delle Naiadi,
+ma del figlio di Laio, cio@e d'Edippo, scioglitore del famoso
+enigma proposto dalla Sfinge, e non inteso prima di lui da
+nessuno, ne segue che Dante affid@o alla falsa lezione ^Naiades~
+il sentimento di questi versi, i quali sono irrepugnabilmente
+tratti dal citato passo d'Ovidio per la proposizione ^Senza danno
+di pecore o di biade~ {v.51}, avversativa a quella del poeta
+latino (^Ovid.~ ^Met.~, lib VII, v. 763-765):
+
+     ^Protinus Aoniis immittitur altera Thebis~
+     ^Pestis, et exitio multi pecorumque suoque~
+     ^Rurigenae pavere feram.~
+
+Ond'@e che mettono compassione le molte chiacchiere che a difesa
+di Dante qu@i fannosi dai chiosatori, quasi che i grandi ingegni
+siano esenti dalla umana condizione di cader qualche volta ancor
+essi, pi@u per altrui che per propria colpa, in errore.  E s@i
+parmi che tutta questa gran lite portata al tribunale della
+Critica risolvasi con una semplicissima argomentazione.  Delle
+due lezioni latine ^Naiades~ e ^Laiades~ quale @e la vera?  La
+Critica risponde ^Laiades.~  L'allegato passo di Dante allude
+egli o non allude al passo di Virgilio?  La Critica risponde:
+V'allude.  Dunque se la lezione ^Naiades~ @e falsa, Dante si @e di
+buona fede ingannato nell'accettarla.  E per finirla si dimandi
+ai difensori di queste Najadi, chi sia la oscura profetessa che
+dimentica de' suoi enigmi si precipita gi@u dalla rupe:
+^praecipitata jacebat Immemor ambagum vates obscura suarum.~ 
+Vorranno essi negare che questa sia la Sfinge, la quale, secondo,
+la favola, per dispetto del vedere sciolto da Edipo il suo
+oscurissimo indovinello, si gitta gi@u dal suo scoglio e fiaccasi
+il collo?  Non li credo s@i stolti: e stando in questi termini la
+questione, egli @e viva forza il concludere che la lezione
+^Laiades~ @e la sicura, e che in questo passo indubitatamente
+preso in mira dall'Alighieri nulla han che fare n@e con Edippo, n@e
+colla Sfinge le fatidiche Najadi di Pausania chiamate dai
+chiosatori in aiuto con tanta vanit@a di parole.>  Ci@o nondimeno
+anche fra i commentatori posteriori al Monti non vi manca chi
+chiosa che <le Naiadi, secondo Ovidio, davano oracoli>
+(^Bennas.~); oppure: <Narra Ovidio nel VII delle Metamorfosi che
+Temi, per dispetto di essersi le Naiadi (ninfe de' fonti)
+arrogato di spiegare i suoi oracoli a' Tebani, mand@o contro
+questi una belva divoratrice di lor m@essi e bestiame> (^Andr.~). 
+Chi ne vuole di pi@u legga quanto scrisse ^Filippo Rosa Morando~
+(^Osservazioni~, in ^Div. Com.~, Venez. Zatta 1757, Vol. III,
+Append. pag. 36), e la nota del ^Lomb.~ a questo verso.
+
+	|50.  Enigma~: del ^Cinquecento dieci e cinque~ {v.43}. 
+-- |Forte~: difficile, oscuro; come ^Purg.~ XXIX, 42.
+
+	|51.  Senza danno~: senza che ce ne venga quel danno che
+soffersero i Tebani, ai quali Temi mand@o una fiera che divor@o le
+loro gregge e devast@o le loro campagne; vedi qu@i sopra la nt. al
+v. 49.
+
+	|52-57.~  ^Beatrice esorta Dante di raccontare ai mortali
+in questo mondo ci@o che egli ha veduto ed udito, e principalmente
+quale vide la pianta, la quale nel Paradiso terrestre @e stata
+rubata due volte.~
+
+	|52.  Nota~: quanto ti ho detto e quanto sono per dirti. 
+-- |Porte~: cfr. ^Inf.~ II, 135: ^Alle vere parole che ti porse.~
+
+	|53.  Segna~: ^S. Croce~, ^Berl.~, ^Caet.~, ^Vienn.~,
+ecc. ^Benv. Ramb.~, ecc.  ^Insegna~, ^Vat.~, ^Cass.~, ^Stocc.~,
+prime quattro ediz., ^Ald.~, ^Buti~, ecc.
+
+	|54.  Del viver~: della vita mortale.  <La naturale morte
+@e quasi porto a noi di lunga navigazione, e riposo.>  ^Conv.~ tr.
+IV, c. 28.  S'@e detto sovente e da molti che l'uomo incomincia a
+morire dal d@i che nasce.
+
+	|55.  Aggi~: ^Vat.~, ^Berl.~, ^Cass.~, ^Vienn.~,
+^Stocc.~, ecc. ^Folig.~, ^Jesi~, ^Nap.~, ^Ald.~, ^Rovil.~,
+^Crus.~, ^Benv. Ramb.~, ^Buti~, ecc.  ^Abbi~, ^S. Croce~,
+^Caet.~, ecc.  |Aggi~ per ^abbi~, v#olti li due ^b~ in ^g~ usaroro
+spesso gli antichi; cfr. ^Nannuc.~ ^Anal. crit.~, pag. 486,
+^Diez.~, ^Rom. Gram.~, II, pag. 149; ^Blanc~, ^Ital. Gram.~, pag.
+389, 395.
+
+	|56.  Qual~: la di lei altezza, il modo di spandere i
+rami, il dispogliamento in cui si trovava di fiori e di frondi
+prima che ad essa fosse legato il trionfale carro.  ^Lamb.~  Cfr.
+^Purg.~ XXXII, 38 e segg.
+
+	|57.  Due volte~: questo passo @e oscuro, osserv@o il
+^Torelli.~  Quali sono queste |due volte~ che la pianta fu
+dirubata nel Paradiso terrestre?  Gli interpreti antichi
+rispondono: La prima volta da Adamo, la seconda dal Gigante
+(^Lan.~, ^Ott.~, ^An. Fior.~, ^Petr. Dant.~, e con questi antichi
+anche l'^Andr.~).  Tale sembra si fosse pure l'opinione del ^Post.
+Cass.~ il quale chiosa: ^Primo per esum primi parentis, secundo
+per dissolutionem prelatorum modernorum facta de ecclesia Christi
+per ipsum ligatam ad dictam plantam.~  E con poca diversit@a di
+parole il ^Witte~: ^Der Dichter stelt den Ungehorsam Adams mit
+dem des Papstes zusammen, der g,ottlicher Ordnung zuwider den
+Stuhl Petri von Rom entfernte.~  Cos@i anche ^Krig.~ e ^Nott.~ 
+Altri molti dicono che la pianta fu dirubata, cio@e spogliata, la
+prima volta dall'aquila (^Purg.~ XXXII, 109 e segg.), la seconda
+dal gigante (^Benv. Ramb.~, ^Buti~, ^Land.~, ^Vell.~, ^Dan.~,
+^Vent.~, ^Lomb.~, ^Port.~, ^Pogg.~, ^Biag.~, ^Costa~, ^Ces.~,
+^Wagn.~, ^Tom.~, ^Greg.~, ^Bennass.~, ^Cam.~, ^Kanneg.~,
+^Streckf.~, ^Kop.~, ecc.).  Altri s'avvisano che la pianta fu
+dirubata la prima volta dall'aquila, che, impetuosamente
+scendendo per quella, ruppe perfino la scorza: la seconda volta
+dal drago, il quale smembr@o colla coda il carro formato del legno
+della medesima pianta (^Torelli~, ^Ed. Pad.~, ^Borg.~, ^Triss.~,
+ecc.).  ^Br. B.~ osserva che <forse ^la pianta~ {v.56} derubata
+due volte accenna al doppio spogliamento da ^Roma~ sofferto, e
+della sedia imperiale e della cattedra apostolica, che per volere
+di Dio debbon essere eredit@a di lei in eterno.  Il papa le rub@o
+l'imperatore, e poi il re di Francia le rub@o il papa.>  Il
+^Frat.~ intende per la prima volta <quando Fozio (^il drago~)
+disgiunse la Chiesa greca dalla latina; per la seconda quando
+Filippo il Bello tolse da Roma la sede pontificia.>  Il ^Filal.~
+laconicamente: ^Einmal durch Adam. einmal durch den Adlet.~  --
+La ^prima volta~ non dovrebbe veramente essere n@e dubbia n@e
+disputabile.  Gi@a nel canto antecedente il Poeta ci ha resi
+avvertiti che la pianta era ^dispogliata di fiori e d'altra
+fronda in ciascun ramo~ (XXXII, 38, 39), e la gloriosa comitiva
+mormora ^Adamo~! per esser stato egli colpa di tale spogliamento. 
+Qu@i poi Beatrice ricorda la lunga pena da Adamo sofferta per aver
+morso la pianta (v. 61 e segg.).  Sembra dunque indubitabile che
+del peccato di Adamo abbia inteso il Poeta dicendo che la pianta
+fu derubata due volte.  Ma e la ^seconda~ volta?  L'^aquila~ non
+^derub@o~ la pianta, ma la danneggi@o coll'impeto con cui discese
+onde ferire il Carro, e la danneggi@o contro la sua intenzione. 
+Il ^drago~ non derub@o n@e offese la pianta n@e tanto n@e poco, ma
+solamente il carro.  Il ^gigante~ {v.45} all'incontro,
+sciogliendo il carro dall'albero ed allontanandonelo ^derub@o~
+veramente la pianta da ^quel di lei.~  Dunque bisogna accettare
+la interpretazione di questo verso data dagli espositori pi@u
+antichi.  Questa interpretazione vien confermata eziandio dalle
+parole che seguono.  Dopo aver detto che chiunque manomette alla
+pianta offende Iddio, Beatrice continua ricordando la lunga pena
+sofferta da Adamo.  Con questo ricordo ella rinnuova in certo
+modo la minaccia dei v. 35, 36, del presente canto.  Ch@e se Adamo
+fu punito s@i severamente per aver la prima volta derubata la
+pianta, convien credere che anche chi la derub@o la seconda volta
+sar@a non men severamente punito.  Tal minaccia non pu@o
+ragionevolmente riferirsi n@e all'aquila n@e al drago, ma soltanto
+al gigante, nel quale vedemmo raffigurata la Casa reale di
+Francia.  Inquanto poi ^Adamo~ @e allegoricamente figura del
+pontefice Romano si pu@o dar luogo anche alla esposizione
+suriferita di ^Br. B.~, osservando per@o non essere essa la
+^letterale~, ma l'^allegorica.~
+
+	|58-78.~  ^Beatrice istruisce Dante intorno alla mistica
+pianta.~  Chiunque la ruba o schianta offende Dio con bestemmia
+di fatto; perocch@e Dio la cre@o santa, soltanto all'uso suo.  Per
+aver morso di quella pianta l'anima di Adamo stette cinquemila
+anni in pena ed in desio ad aspettar Ges@u Cristo, che pun@i in s@e
+il morso.  Per particolare ragione la pianta @e cos@i eccelsa, e
+travolta nella cima, cio@e allargantesi pi@u che s'innalza.  Per
+tante circostanze solamente si deve conoscere la giustizia di
+Dio, nell'interdetto fatto in riguardo all'albero, e ci@o
+spiegandolo moralmente.
+
+	|58.  Ruba quella~: ruba a quella.  Modo simile nel
+^Boccac.~ ^Dec.~ G. V, nov. 2: ^rubando ciascuno che meno poteva
+di lui.~  -- |Ruba~ la pianta chi le toglie il Carro, come fece
+il Gigante; chi si usurpa cose, diritti che appartegono
+all'impero, come fa la gente che dovrebbe esser devota e lasciar
+seder Cesar nella sella (^Purg.~ VI, 91 e seg.).  |Schianta~ la
+pianta chi attenta all'autorit@a imperiale.  <^Rubare~ accenna a
+un accessorio, ^schiantare~ riguarda la sostanza.>  ^Br. B.~
+
+	|59.  Di fatto~: non solo di parole.  -- <Biastema @e
+detrazione e mancamento d'onore, e per@o una biastema @e di ditto
+ed altra @e di fatto; biastema di ditto @e quando con sole parole
+manchiamo l'onore d'Iddio; biastema di fatto @e quando coi fatti
+manchiamo l'onore d'Iddio; e perch@e li fatti sono maggior cosa
+che li ditti, per@o dice l'autore |con biastema di fatto~, a
+dimostrare maggiore offensione che fare si possa.>  ^Buti.~  --
+|Offende a Dio~: ^S. Croce~, ^Vat.~, ^Berl.~, ^Cass.~, ^Vien.~,
+ecc. prime quattro edizioni, ecc.  ^Offende Dio~, ^Caet.~,
+^Stocc.~, ecc. ^Ald.~, ^Rovill.~, ^Comin.~, ecc.  (La ^Crus.~ del
+1595 ha nel testo |offende a Dio~, corretto o piuttosto corrotto
+nell'Errata in ^offende Dio.~)  Sulla lezione |offende a Dio~
+Salv. Betti (in ^Div. Com.~, Roma, De Romanis 1821, Vol. II, pag.
+487) osserva: <@E bel modo italiano, tolto a Latini, che usando
+l'^offendere~ in senso di ^peccare~, ^errare~ ecc. solevano
+sempre accompagnarlo col dativo: come nell'^ep.~ 18, lib. 2,
+delle famigliari di Cicerone: ^sin quid offenderit, sibi totum,
+sibi nihil offenderit.~  Trovasi di frequente ne' pi@u antichi
+scrittori; e specialmente in Guittone, nel Boccaccio, in Giov.
+Villani, ne' volgarizzatori delle omelie di S. Giovanni
+Grisostomo e delle favole esopiane, e nel Sacchetti.  E potrebbe
+qu@i forse averlo adoperato l'Alighieri, per togliere quella non
+gentile assonanza dell'ultima sillaba di |offende~ colla prima di
+|Dio.~>  -- Dicendo che chiunque manomette all'albero
+significante l'impero reca offesa a Dio il Poeta esprime il
+concetto medesimo contenuto nelle parole di S. Paolo (^ad Rom.~
+XIII, 2): ^Qui resistit potestati Dei ordinationi resistit.~
+
+	|60.  All'uso suo~: per fare in terra le sue veci. 
+^Potestas est minister Dei~; ad Rom. XIII, 4, 6.  Inquanto la
+pianta @e letteralmente l'albero della conoscenza del bene e del
+male si pu@o anche intedere (col ^Torelli~) che <solo a Dio @e dato
+di conoscere il bene ed il male.>  Se non che questo concetto
+potrebbe appena dirsi ortodosso.  Si confronti la nota al v. 38
+del canto antecedente.
+
+	|61.  Per morder~: per aver mangiato dei frutti di quella
+pianta.  -- |In pena~: la pena si riferisce soltanto agli anni
+che Adamo visse sulla terra, il |disio~ al tempo che egli pass@o
+nel limbo, ove le anime sono sol di tanto offese che senza speme
+vivono in desio (^Inf.~ IV, 41, 42).  E si osservi che il ^senza
+speme~ non si pu@o riferirlo n@e ad Adamo n@e altri che Cristo
+liber@o dal limbo, i quali dovevano pure sperare di salire quando
+che si fosse alle beate genti.
+
+	|62.  Cinquemil'anni e pi@u~: nel ^Paradiso~ (XXVI, 118 e
+segg.) Dante dice per bocca del primo parente che Adamo fu 4302
+anni nel limbo e 930 anni in terra.  Quest'ultima cifra @e presa
+dalla ^Genesi~ (V, 5): ^Et factun est omne tempus quod vixit
+Adam, anni nongenta triginta, et mortuus est.~  Ma d'onde prese
+Dante la cifra 4302, oppure la cifra 5232, denotante secondo lui
+il numero degli anni scorsi dalla creazione del mondo sino alla
+morte del Redentore?  I cronologisti non vanno d'accordo intorno
+all'anno della nascita di Cristo, a contare dalla creazione. 
+Secondo il giudeo Filone Cristo sarebbe nato verso l'anno del
+mondo 5170; secondo Gioseffo Ebreo verso il 4150; secondo
+Clemente Alessandrino l'anno 5624; secondo Giulio Affricano il
+5500; secondo Eusebio il 5200; secondo gli Alessandrini Aniano e
+Panodoro il 5492 (cfr. ^R,osch~ in ^Herzog's Real-Encykl. f. prot.
+Theol. und Kirche~, Vol. XVIII, pag. 421 e segg.); secondo
+Brunetto Latini (^Tres.~ lib. I, c. 42) l'anno 5254.  Si vede a
+prima vista che Dante si attenne alla cronologia Eusebiana.  Se
+Cristo nacque l'anno del mondo 5200 e mor@i in et@a d'anni 33 si
+ottiene per la discesa al limbo l'anno 5232, cio@e appunto il
+numero dell'Alighieri.  Altri citano il Baronio (^Martyrol.~ ad
+25 decemb.).  Ma il Baronio Dante non lo conosceva.  Vedi del
+resto la nota sopra ^Parad.~ XXVI, 119.  -- |L'anima prima~:
+l'animn di Adamo.  Cos@i la chiama anche ^Parad.~ XXVI, 83, e nel
+^Vulg. eloq.~ lib. I, c. 6.
+
+	|63.  Colui~: Ges@u Cristo il quale mor@i per espiare il
+peccato di Adamo, d'aver mangiato del frutto proibito.
+
+	|64.  Dorme~: non @e in azione.  -- |Istima~; argomenta.
+
+	|65.  Eccelsa~: cfr. XXXII, 40-42.  -- <La prodigiosa
+altezza dell'albero rende tal qual immagine della vasta mole e
+grandezza dell'impero, e quell'esser travolto nella cima, ossia
+digradarsi da sommo ad imo al contrario degli Abeti, forse @e
+detto per pi@u ragioni, ma noi ci limiteremo a questa detta dal
+Poeta di altra simile pianta e di conforme significato (^Purg.~
+XXII, 135): 
+
+     Cred'io perch@e persona su non vada,
+
+accennando cio@e alla voluta da Dio inviolabilit@a dell'impero.> 
+^Graz. Interpr. dell'alleg.~, pag. 348.
+
+	|66.  Travolta~: pi@u larga pi@u in su; cfr. XXXII, 40 e
+seg.
+
+	|67.  Stati non fossero~: non avessero indurata la tua
+mente.  -- |Elsa~: fiumicello della Toscana che esce dal fianco
+occidentale della montagna di Siena col nome d'^Elsa morta~, e
+dopo aver percorso un tratto di otto chilometri chiamasi ^Elsa
+viva.~  Bagna parte del territorio Sanese e parte del Fiorentino. 
+Costeggia la strada Volterrana e si scarica nell'Arno a pochi
+chilometri da Empoli e da Ponte d'Elsa.  In alcune parti l'acqua
+di questo fiumicello ha la propriet@a d'incrostare i corpi che vi
+s'immergono, e specialmente nelle vicinanze di Colle, essendo
+satura di acido carbonico e di sotto-carbonato di calce.  Cfr.
+^Turgioni~, ^Viaggi nella Toscana.~ Vol. V, pag. 103; ^Loria~,
+^L'Italia nella D. C.~, II, pag. 424; ^Bocci~, ^Diz.~, pag. 162. 
+All'acqua d'Elsa, che ricopre di un tartaro petrigno ci@o che vi
+s'immerge, paragona Beatrice i pensieri vani e mondani che
+impediscono l'Alighieri di riconoscere chiaramente quanto nella
+Visione gli si affaccia.  Ma dopo la contrizione e confession
+sua, ma dopo aver bevuto dell'acqua di Lete, non era egli il
+Poeta libero e puro da' pensieri vani e mondani?  Come dunque
+Beatrice gli rinfaccia che tali pensieri gli offuscano la mente? 
+Si risponde che Beatrice parla di tempi passati e che inoltre la
+purificazione di Dante non si compie e perfeziona che dopo aver
+gustato delle acque di Euno@e, mediante le quali e' si sente
+
+     Rifatto s@i, come piante novelle
+     Rinnovellate di novella fronda,
+     Puro e disposto a salire alle stelle.
+
+Se prima di bevere alla ^santissima onda~ la sua virt@u era
+^tramortita~ (v. 129), non pu@o recar meraviglia che anche la sua
+mente fosse tuttora istupidita ed offuscata.  Egli era gi@a libero
+dal peccato, ma ci rimanevano ancora le conseguenze.  Or le
+conseguenze del peccato sono appunto l'offuscamento della mente. 
+^Evanuerunt in cogitationibus suis, et obscuratum est insipiens
+cor eorum~; Rom. I, 21.  Le acque di Lete togliono il peccato, le
+acque di Euno@e togliono le tenebre della mente.
+
+	|68.  Intorno~: pone i ^pensieri vani~ non nella mente,
+ma intorno alla medesima, avendo forse rispetto agli oggetti su
+cui la mente si affisa.
+
+	|69.  Il piacer loro~: e se il diletto che prendesti de'
+vani pensieri non avesse macchiato il candore della tua mente
+come Piramo col suo sangue macchi@o il candore dei frutti del
+gelso.  Vedi la favola di Piramo e Tisbe, ^Ovid.~ ^Met.~, lib.
+IV, 55-166, e le nostre note sopra ^Purg.~ XXVII, 37, 39.  --
+|Gelsa~: il frutto del gelso, la mora.  Il ^Vent.~ prende |gelsa~
+per l'albero, il quale non |gelsa~, ma ^gelso~ o ^moro~ si dee
+chiamare.  <Tra |gelsa~ e ^gelso~ quella differenza passa, che
+tra %mu%$o%rho%o%nu\ e %mu%o%rho%$iota%alpha\ presso i Greci, e
+presso i Latini tra ^morum~ e ^morus.~>  ^Rosa Morando~,
+^Osservaz.~ l. c. pag. 36.  Il ^Tom.~ osserva: <|Gelsa~,
+affettato; ma dice a qualche modo, che gli smodati affetti sono
+perdizione e macchia: e l'altra imagine dice che le tenerezze
+vane istupidiscono e indurano.>
+
+	|70.  Per tante~: le tante significanti circostanze
+finora osservate basterebbero sol esse, senza la mia presente
+spiegazione, a farti vedere nel significato morale dell'albero
+con quanta giustizia Iddio vietasse ad Adamo di manometterlo,
+derubarlo (v. 57) de' suoi frutti.  ^Andr.~  -- |Circostanze~:
+^Quaecumque conditiones sunt extra substantiam actus, et tamen
+attingunt aliquo modo actum humanum~, circumstantiae ^dicuntur.~ 
+Thom. Aq. Sum. theol. P. I, 2+a~e qu. VII, art. 1.  Il ^Torelli~
+(ap. ^Ed. Pad.~ Vol. II, pag. 790) spiega: <Vuol dire, che
+l'albero del bene e del male, dilatandosi pi@u quanto saliva pi@u
+in alto, contro l'uso degli altri alberi, dimostrava con la sua
+semplice figura che Dio l'aveva fatto solo a suo uso, e che
+l'uomo non doveva tentare di ascenderlo, che @e quanto dire di
+conoscere il bene ed il male; onde Adamo, che fu cotanto audace,
+ne fu giustamente punito.>  Meglio: Se tu non ti fossi perduto in
+vani pensieri, e divennto quasi sasso, per tutto ci@o che ti @e
+mostrato in tante figure ed allegorie, avresti potuto conocere
+moralmente la giustizia di Dio nel precetto dato ai primi
+parenti, quasi cio@e fosse in quello tal quale significato o
+dettato ci@o, che Dio volle, sulla inviolabilit@a ed integrit@a
+dell'impero, e sul rispetto ed obbedienza dovutigli.  Cfr. ^Graz.
+Alleg.~, pag. 348, e ^Filal.~ ad h. l.
+
+	|71.  Nello interdetto~: di manomettere l'albero.
+
+	|72.  Moralmente~: le scritture si possono intendere e
+debbonsi sponere massimamente per quattro sensi.  Lo primo si
+chiama ^litterale~.....  Lo secondo si chiama ^allegorico~, e
+questo @e quello che si nasconde sotto il manto di queste favole,
+ed @e una verit@a ascosa sotto bella menzogna....  Il terzo senso
+si chiama MORALE; e questo @e quello che i lettori deono
+intentamente andare appostando per le scritture a utilit@a di loro
+e de' loro discenti....  Lo quarto senso si chiama ^anagogico~,
+cio@e sovra senso: e quest'@e quando spiritualmente si spone una
+scrittura, la quale, ancorch@e sia storica nel senso litterale, o
+narrativa di vicende terrene, per le cose significate significa
+delle cose dell'eternale gloria.  ^Conv.~ tr. II, c. 1.  Secondo
+questa norma, il Poeta ad ogni dubbio che altri non possa per s@e
+^appostare~ questo senso ^morale~, qu@a e l@a occorrente nella
+^Commedia~, ne ammonisce i lettori, richiamandovi la loro
+attenzione (^Inf.~ IX, 61 e seg. ^Purg.~ VIII, 19).  Questo senso
+@e perci@o a credere, che non sia continuo per tutta la ^Commedia~,
+come alcuno pretende, ma solo nell'un luogo o nell'altro, al modo
+che cade opportuno.  Cfr. ^Giuliani~, ^Il Conv. di D.~, Vol. I,
+pag. 163.
+
+	|74.  Fatto di pietra~: indurito e scolorato come pietra. 
+^Induraverunt facies suas super petram, et noluerunt reverti~;
+Jerem. V, 3.  ^Auferam cor lapideum de carne vestra, et dabo
+vobis cor carneum~; Ezech. XXXVI, 26.  -- |Impietrato tinto~:
+cos@i i quattro codd. del Witte, ^Cass.~, ^Vienn.~, ^Stocc.~, e
+molti altri codd. veduti dal ^Borghini~ (cfr. ^Studi sulla D. C.~
+ed ^Gigli~, pag. 345), dai ^Quattro Fior.~ (cfr. Vol. II, pag.
+227) e da altri; cos@i le prime quattro edizioni (la ^Mant.~ ha
+^in pietrato~) ^Witte~, ecc.; ^Lan.~, ^Ott.~, ^An. Fior.~, ^Benv.
+Ramb.~, ^Buti~, ^Vell.~, ^Dan.~, ecc.  La comune ha: ^ed in
+peccato tinto~ (^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovill.~, ^Crus.~,
+^Quattro Fior.~, ^Fosc.~, ^Fanf.~, ^Land.~, ^Dol.~, ^Vent.~,
+^Lomb.~, ecc.).  Ma come poteva Beatrice dire che Dante fosse
+ancor ^tinto in peccato~ dopo che Lete gli aveva preso persino la
+^memoria~ dei peccati commessi?  ^Mauro Ferr.~ legge: ^e di
+petrato tinto~, la qual lezione sembra arbitraria, non occorrendo
+in veruno dei codici sinora confrontati.  Il ^Dion.~ accett@o
+nella sua edizione ^ed in peccato tinto~; ma nell'^Aggiunta
+critica~ (Vol. II, pag. XII e seg. e nella ristampa del
+^Bettoni~, Brescia 1810, Vol. II, pag. 281 e seg.) il canonico
+osserva: <Mi rincresce di non aver qu@i seguito il cod. di ^S.
+Croce~, che legge ^in pietrato~, per essermi paruta una tale
+lezione assai strana e da credersi piuttosto error del copista
+(!), che dettato dell'Autore....  Or mi par verisimile che a
+cotal testo, perch@e non inteso, sia stato sostituito ^in
+peccato~: la qual sostituzione, a guardarla bene, disvia dalla
+metafora antecedente, n@e si unisce punto con ci@o che segue.>  La
+vera interpretazione del verso la avevano data gi@a i commentatori
+antichissimi.  ^Lan.~; ^Et impetrato tinto~, cio@e come lo gelso
+di Piramo.  ^Ott.~: Quasi dica: io veggio ci@o che io ho detto di
+sopra di te (cio@e parlando dell'acqua d'Elsa, e di Piramo), che
+t'ha impetrato, e la pietra @e tinta di bruno, sicch@e tu non sei
+atto a ricevere la luce fulgida del mio mistico parlare.  ^Buti~:
+non solamente impetrato; ma tinto e mutato lo tuo intelletto dal
+piacere dei vani pensieri di bianco in vermillio, come si mut@o lo
+gelso per lo sangue di Piramo; cio@e mutato di puro e netto in
+infetto e macchiato.  -- Nel sonetto: ^Voi che portate la
+sembianza umile~ (^V. N.~ {paragraph.} 22): ^Il vostro colore Par
+divenuto di pietra simile~ (ove per@o gli editori recenti
+[^Fratic. Canzon.~, pag. 100; ^Giul.~, ^La V. N. e il Canzon.~,
+pag. 38; ^D'Ancona~, ^La V. N.~, pag. 27] leggono pi@u
+correttamente ^di piet@a simile~).
+
+	|75.  T'abbaglia~: il peccato indura e macchia
+l'intelletto.  L'intelletto @e occhio dell'anima.  L'occhio di
+carne infermo, o per indurazione, o per macchia, tali per@o che
+non aboliscano la vista, diventa sdegnoso della luce: ne @e anzi
+^abbagliato~, che ^rischiarato.~  Qual @e la luce dell'intelletto? 
+Il vero.  Ma si noti che il vero @e insieme |lume~ ed ^oggetto.~ 
+La parola manifesta il vero; ecco dunque come appositamente Dante
+dice |lume del detto.~  ^Mart.~
+
+	|76.  Se non scritto~: se non chiaramente inciso, ch@e la
+presente durezza della tua mente nol consentirebbe.  --
+|Dipinto~: adombrato.
+
+	|77.  Il te ne porti~: ti porti dentro a te esso mio
+detto.  -- |Per quello~: a quel fine, cio@e per dar segno di
+quello che hai veduto, come fanno i pellegrini ritornati dalla
+visita de' sacri luoghi della Palestina, che portano il bordone
+ornato di foglie di palma, in segno di essere stati in quella
+regione abbondante di tali alberi.  ^Br. B.~
+
+	|78.  Il bordon~: il bastone.  <In tre modi si chiamano
+propriamente le genti che vanno al servigio dell'Altissimo. 
+Chiamansi ^palmieri~, in quanto vanno oltremare, l@a onde molte
+volte recano la palma.>  ^Vita Nuova~ {paragraph.} 41.  <Il
+bordone si reca oltre a mare cinto di palma da' pellegrini, a
+mostrare che sono stati al sepolcro, et hanno avuto vittoria di
+loro viaggio.>  ^An. Fior.~
+
+	|79-102.~  ^Dialogo tra Dante e Beatrice.~  Il Poeta
+assicura Beatrice che le di lei parole gli sono profondamente
+impresse nella mente.  Poi domanda: <Ma perch@e il vostro parlare
+s'innalza cotanto al disopra del mio intendimento?>  -- <Affinch@e
+tu conosca quanto poco la scuola da te seguitata vaglia a tener
+dietro ai miei alti concetti.>  -- <Ma io non mi ricordo
+d'essermi giammai straniato da voi.>  -- <Naturalmente, poich@e
+oggi bevesti di Lete.>  -- In questo commento (pag. 720 e seg.
+del presente volume) ed altrove (^Dante Alig.~, pag. 242 e seg.
+^Zu Dante's innerer Entwicklungsgeschichte~ nel ^Jahrbuch~, Vol.
+III, pag. 24 e seg.) ci siamo fondati sul presente passo a
+sostegno della nostra opinione, che in certa epoca della vita del
+Poeta il dubbio s'introducesse nell'animo suo, e gravi
+oscillazioni si determinassero nella sua coscienza, senza per@o
+ch'ei giungesse mai ad una negazione o ad essere scettico o
+indifferente.  Gli avversari di questa opinione negano che il
+nostro passo involva il senso che noi crediamo dovergli
+attribuire (cfr. ^Wegele~, ^Dante Alig.~, 2+a~ ediz. pag. 93;
+^Notter~, ^Dante Aligh.'s G,ottl. Kom.~, Vol. I, pag. 29 e segg.). 
+Esaminiamo anzi tutto il passo nel suo contesto.  Beatrice ha
+rinfacciato or'ora al Poeta offuscamento d'intelletto.  Dante
+chiede: Perch@e parlate s@i ch'io non posso intendervi? e Beatrice
+gli risponde che parla cos@i affinch@e egli conosca la ^scuola~ da
+lui seguitata, conosca che la ^dottrina~ di essa scuola non @e
+capace di seguitare la di lei parola, conosca che la ^via~ di
+essa scuola @e cos@i lontana dalla divina quanto dal Primo mobile @e
+distante la terra.  Or quale @e quella falsa ^scuola~ che Dante
+per bocca di Beatrice confessa aver seguitata?  Noi dicemmo e
+diciamo questa falsa ^scuola~ non essere altra che la filosofica,
+quella filosofia che, quantunque non fosse nemica dichiarata
+della fede, andava nondimeno per vie diverse e non poteva non
+deviare della fede, quella filosofia i cui capi ponno
+considerarsi Averroe ed Avicenna, un tempo diligentemente
+studiati dall'Alighieri, quella scuola alla quale mirava gi@a
+l'apostolo quando scriveva ai Colossesi (cap. II, 8): ^Videte ne
+quis vos decipiat per philosophiam, et inanem fallaciam, secundum
+traditionem hominum, secundum elementa mundi, et non secundum
+Christum.~  Altri nega e vuole che il termine ^scuola~ non abbia
+qu@i altro senso che quello di Compagnia o Riunione delle persone
+d'una stessa condizione, come ^Inf.~ IV, 94; ^Purg.~ XXXII, 79
+(cfr. ^Notter~, l. c. pag. 31), e che conseguentemente il
+rimprovero qu@i fatto all'Alighieri non si riferisca a difetti
+intellettuali, a mancanza di fede, ma s@i ad aberrazioni sensuali. 
+Di peccati sensuali Dante ne avr@a avuto la sua parte; ma questi
+peccati Beatrice glieli ha rinfacciati gi@a prima che e' bevesse
+di Lete.  Qu@i non si tratta che di mancanza di intelligenza,
+mancanza la quale ha ben poco che fare con quella ^in Italien
+vielfach herrschenden Lebensdoctrin, die, wenn auch mit einigen
+,ausserlichen Schein von Philosophie aufgeputzt, blos das
+sinnliche Dasein zum Gegenstand hatte~ (^Notter~, l. c.).  La
+^scuola~ seguitata da Dante @e qu@i evidentemente l'opposto della
+scuola, se lice usar questo termine, della quale Beatrice @e
+rappresentante.  E che di ^scuola~ dottrinale, filosofica si
+tratti lo prova la menzione che si fa della ^dottrina~ di essa
+scuola.  La ^dottrina~ presuppone il ^dottore~, il maestro.  Or
+come la ^dottrina~ della scuola gi@a seguitata dall'Alighieri @e
+qu@i opposta alla ^dottrina~ di Beatrice, cos@i i ^dottori~ che e'
+prese a maestri sono opposti a Beatrice medesima, la quale, se ci
+ricorda, raffigura autorit@a la cui missione in terra @e di guidare
+il genere umano alla beatitudine di vita eterna conforme le
+dottrine della Rivelazione.  E se la dottrina di Beatrice non
+differisce dalla dottrina della Rivelazione, se la dottrina della
+scuola seguitata da Dante @e opposta alla dottrina di Beatrice, ne
+risulta di necessit@a che la dottrina di quella scuola @e opposta
+alla Rivelazione.  E qual'altra dottrina medievale @e opposta alla
+dottrina rivelata se non la filosofica di Averroe e dei suoi
+seguaci?  Ma qu@i si tratta ancora di due ^vie~, della via divina
+e di un'altra via, lontana dalla divina come il cielo dalla
+terra.  Questa menzione della via che Beatrice chiama ^vostra~
+(cio@e tua e della scuola che hai seguitata) rammenta la selva
+oscura in cui Dante si ritrov@o dopo aver smarrita la dritta via,
+ricorda anzi tutto la ^via non vera~ per la quale Dante, morta,
+Beatrice, volse, i suoi passi (^Purg.~ XXX, 130).  Si osservi
+inoltre che in questo luogo i peccati del senso non c'entrano per
+nessun verso, non trattandosi proprio di null'altro che di
+offuscamento dell'intelletto, di mancanza o povert@a di
+conoscenza.  Ammettendo, come facciamo noi, che si alluda qu@i ad
+aberrazioni filosofiche tutto va coi suoi piedi.  Dante, che un
+d@i credeva poter giungere mediante la ragione naturale e gli
+studi filosofici a riconoscere l'essenza della divinit@a, a mirare
+nel Sole dell'eterno vero, si accorge ora e confessa falsa essere
+la via della speculazione per la quale si @e messo.  Egli che un
+d@i nel filosofico suo orgoglio si lusingava non essergli d'uopo
+della dottrina rivelata, si accorge ora e confessa che la
+filosofica speculazione non @e capace di comprendere le dottrine
+della Rivelazione, non che di giungere ad investigare e
+riconoscere l'eterno vero.  Egli che volse un d@i le spalle alle
+dottrine della fede e le considerava con un tal qual dispregio,
+riconosce ora quanto esse sono a pi@u alte e pi@u profonde delle
+dottrine della filosofia umana.  Dalle parole di Dante a
+Beatrice: ^Non mi ricorda ch'io straniassi me giammai da voi~
+{v.92} risulta inoltre che il seguitare una falsa scuola e lo
+straniarsi da Beatrice sono negli occhi suoi una medesima cosa. 
+Ma Beatrice, che in questo canto si fa maestra di Dante in
+materie s@i sublimi, s@i profondamente teologiche, Beatrice non @e
+certo qu@i la figlia di Folco Portinari, l'amante del Poeta e
+nulla pi@u; Beatrice @e qu@i un personaggio eminentemente simbolico
+ed allegorico; Beatrice @e qu@i anzi tutto figura di quella
+autorit@a che guida l'uomo secondo la Rivelazione.  Lo
+^straniarsi~ da Beatrice involve qu@i dunque lo straniarsi dalla
+Rivelazione, ed anche per questo verso si mostra che la ^scuola~
+seguitata da Dante @e o fu una scuola estranea alla Rivelazione,
+che la ^via~ da lui un giorno tenuta @e o fu una via che allontana
+da Dio e dalla fede.  Ascoltiamo ora alcuni commentatori antichi! 
+L'^Ott.~ chiosa: <Dice Beatrice; Perch@e tu, Dante, conosci la
+^scienza naturale~, la quale tu hai seguitata, e veggi com'ella
+puote seguitare la mia parola, cio@e di teologia; e quanto di
+lungi LA VIA DI FILOSOFIA a quella di teologia, sappi che tanto @e
+dall'una all'altra dottrina e processo, quanto si discorda la
+terra dal Cielo.>  Pietro figlio di Dante: ^Subdendo quod ita
+excelse et profunde ipsa theologia loquitur, ut cognoscat aliarum
+scholarum doctrinam auctor respectu ejus nihil esse.~  Il
+^Postill. Cass.~ alla parola ^scuola~, del v. 85 chiosa: ^Poesie
+scientie~; e ^Benv. Ramb.~: <^Perch@e conosci quella scelta~ (sic!
+doveva dir ^scuola~) di poeti E FILOSOFI;> e il ^Buti~: <^Quella
+scola~ cio@e DEI FILOSOFI, ^ch'@ai seguitato~, cio@e tu Dante; e per
+questo dimostra ch'avea studiato in Filosofia, ^e veggi sua
+dottrina~, cio@e de la scuola dei Filosofi, che seguita pur la
+ragione.>  Ed il ^Land.~: <Domanda Dante Beatrice perch@e le sue
+parole disiate da lui, volano tanto sopra la sua veduta, cio@e
+sopra del suo intelletto, che essa sua veduta et intelletto tanto
+pi@u le perde, quanto pi@u s'aiuta d'intenderle; et in vero gli
+alti sensi de' theologi, a' quali solo per fede s'arriva, tanto
+pi@u si dilungano dalla nostra cognitione, quanto pi@u c'ingegniamo
+d'intendergli per ragione umana.  Onde disse Gregorio: ^Fides non
+habet meritum, ubi humana ratio praebet esperimentum.~  Et per
+questo risponde Beatrice che ha parlato in quella forma, acci@o
+che egli conosca la scuola c'ha seguitato DE' FILOSOFI NATURALI,
+et veggia come la dottrina loro pu@o essere atta a intendere la
+theologia: conci@o sia che il Filosofo cerchi in ogni cosa la
+ragione, et la theologia non si possa avere per ragione umana. 
+Et a questo modo pu@o veder Dante la via nostra, e la dottrina
+filosofica distare, cio@e esser tanto distante et differente dalla
+divina dottrina, cio@e dalla teologia, quanto il cielo che
+festina, cio@e con celerit@a si volge pi@u alto che gli altri cieli,
+si discorda et @e distante dalla terra.>  Ed il ^Vellut.~:
+<Risponde Beatrice questo avvenire acci@o che egli conosca quella
+scuola DE' FILOSOFI, come vuol inferire, che egli ha seguitata, e
+vegga la dottrina di quelli, com'@e possibile che seguiti la
+parola di lei, cio@e la dottrina theologica.>  Conformemente anche
+il ^Dan.~: <Risponde Beatrice, dicendo, che non se gli concede il
+poterla intendere, affine che ei conosca et manifestamente
+comprenda quanto la dottrina di quella scuola che egli aveva
+seguitato, poteva seguir la ^parola~, cio@e il detto sentenzioso
+di lei, non inteso dalla scuola Flosofica.>  La nostra
+interpretazione dunque, ben lungi dall'esser nuova, @e quella che
+ha l'unanime suffragio dei commentatori antichi.  Vedi anche
+^Delff, Die Idee der G,ottl. Kom.~, Lips. 1871, pag. 137 e seg.;
+lo stesso nel ^Jahrbuch~, Vol. III, pag. 62 e seg. ^Notter~,
+^Nachtrag zu Dante's Leben und Ansichten~, nella sua traduzione
+della Div. Com. Vol. II, pag. 768 e seg.
+
+	|79.  Come cera~: cfr. ^Purg.~ X, 45: ^Come figura in
+cera si suggella.~  -- L'immagine del sigillo, del segno e della
+impressione @e famigliare al Poeta, come non poteva non essere a
+lui, del quale ogni parola @e segno scolpito della cosa.  ^L.
+Vent.~, ^Simil.~, pag. 203.  -- <Avvegnach@e pi@u cose a un'ora
+nell'occhio possano venire, veramente quella che viene per retta
+linea nella punta della pupilla, quella veramente si vede, e
+nella immaginativa si suggella veramente.>  ^Conv.~ tr II, c. 10. 
+<L'utilit@a suggella la memoria dell'immagine del dono.>  ^Ibid.~
+lib. I, c. 8.  E nel ^De Mon.~, lib. II, c. 2: ^Occulto existente
+sigillo, cera impressa de illo, quamvis occulto, tradit notitiam
+manifestam.~  -- <Dir@a alcuno: se le attitudini sono da natura,
+dunque a che bisogna ammaestramento e studio?  A ci@o si puote
+rispondere per lo essempro che pone santo Jeronimo nel prolago
+della Bibbia, dov'egli assomiglia lo naturale ingegno alla molle
+cera, la quale, avvegnach@e per virtude sua sia tanto acconcia
+quanto esser pu@o, neentemeno ha bisogno del maestro che forma li
+dea.>  ^Bartol. da S. Conc. Ammaestr. degli Ant.~, Dist. II, c.
+2, ed. Barb@era, Fir. 1861, pag. 15.
+
+	|80.  Impressa~: suggellata in essa.  -- |Non trasmuta~:
+serba inalterata.
+
+	|81.  Segnato~: le vostre parole sono ora s@i fortemente
+impresse nel mio cervello come suggello in buona cera.  --
+|Cervello~: il cervello @e l'organo immediato dell'anima; anzi una
+certa sua parte che dicesi ^il comune sensorio~; qual sia non si
+@e definito.  Perci@o quando si dice che il comune sensorio @e
+organo del senso, del pensiero, si avverta che il corpo non @e che
+strumento di cui si serve l'anima, mentre alberga in esso: che
+sciolta ritiene le sue facolt@a: che il corpo non pu@o spiegare il
+pensiero.  ^Mart.~
+
+	|82.  Sovra mia veduta~: sopra il mio intelletto.  <E
+qual meraviglia dunque>, osserva qu@i l'^Andr.~, <se sopra
+l'intendimento de' poveri commentatori?>
+
+	|83.  Disiata~: che io tanto bramai.  Cfr. ^Inf.~ V, 133:
+^il disiato riso.~  Questo desiderio di udir parlare Beatrice
+rammenta la brama del Poeta di sentirsi salutare dalla figlia di
+Folco Portinari; cfr. ^Vita Nuova~ {paragraph.} 3, 11, ecc. 
+|Disiata~ leggono a quanto veggiamo tutti i codd. e tutte le
+edizioni.  Il solo ^Buti~ lesse, o piuttosto congettur@o che si
+dovesse leggere ^disviata~: <Potrebbe dire lo testo: ^disviata
+vola~; cio@e, perch@e vola la vostra parola disviata dal mio
+intendimento tanto sovra mia veduta, cio@e mio intelletto?> 
+Corruzione, non correzione.
+
+	|84.  La perde~: che riesce tanto pi@u oscura ed
+inintelligibile al mio intendimento quanto pi@u esso si adopera ed
+affatica a intenderla.
+
+	|85.  Scuola~: filosofica.
+
+	|86.  Hai seguitata~: quando straniandoti da me volgesti
+i passi tuoi per via non vera.  V'ha chi sostiene che la scuola
+seguitata da Dante sia la Scolastica, la |dottrina~ alla quale
+qu@i si accenna quella dei Dottori scolastici, e che l'antitesi
+della Scolastica sia il Misticismo, rappresentato nella D. C. da
+Beatrice, conseguentemente la conversione dell'Alighieri ed il
+suo ritorno a Beatrice la conversione dalla filosofia e teologia
+scolastica alla teologia mistica (^Delff.~ l. c.).  Tale opinione
+si fonda sulla presupposizione che la Scolastica sia l'antitesi
+della Mistica, presupposizione dimostrata falsa dal celebre
+filosofo ^Erdmann~ (^Scholastik, Mystik und Dante~, nel ^Jahrbuch
+d. deutschen Dante-Ges.~, Vol. III, pag. 79-99).  Bastava del
+resto ricordarsi che l'Alighieri, ben lungi dall'aver v#olto le
+spalle alla Scolastica ed alle sue dottrine, in tutta la Commedia
+si mostra invece fedel discepolo di S. Tommaso, uno dei
+principali dottori scolastici.  ^Gewiss ist uns~, osserva molto a
+proposito l'^Erdmann~ (l. c. pag. 93), ^dass Dante, um seine
+Beatrice wieder zu finden, den Umgang mit Thomas nicht aufzugeben
+brauchte.  Vielleicht den mit Averroes.~  -- |Dottrina~:
+aristotelica, e pi@u specialmente di Averroes.  Vedi sulle
+dottrine di quest'ultimo: ^Renan~, ^Averro,es et l'Averroisme~,
+Paris 1852; ^Erdmann~, ^Grundriss der Geschichte der
+Philosophie~, Berl. 1866, Vol. I, pag. 314 e segg.  Si confronti
+pure ^Ozanam~, ^Dante et la phil. cath.~, Paris 1845, 48 e seg.
+315 e seg.
+
+	|87.  Come~: quanto essa @e incapace ed inatta a
+sollevarsi alla contemplazione dei misteri della Rivelazione. 
+^Animalis autem homo non percipit ea quae sunt spiritus Dei:
+stultitia enim est illi, et non potest intelligi: quia
+spiritualiter examinatur.~  Ad Cor. I, cap. II, v. 14.
+
+	|88.  Vostra via~: la via per la quale camminasti tu e
+gli altri discepoli della scuola filosofica onde giungere alla
+conoscenza del sommo vero.  Gl'interpreti dicono comunemente
+questa |via~ essere la scienza umana in generale, cio@e quello che
+@e dato all'uomo coi suoi naturali mezzi sapere.  Ma qu@i si tratta
+evidentemente di una via opposta alla divina, dunque peccaminosa,
+della ^via non vera~ per la quale Dante volse i passi suoi
+(^Purg.~ XXX, 130); e questa via non @e la scienza umana in
+generale, ma una scienza umana che devia da Dio e dalla fede.
+
+	|89.  Si discorda~: @e distante.  Il concetto @e preso dal
+profeta Isaia (cap. LV, 8, 9): ^Non enim cogitationes meae
+cogitationes vestroe, neque viae vestroe, vioe meae dicit Dominus. 
+Quia sicut exaltantur coeli a terra, sic exaltatoe sunt viae meae a
+viis vestris, et cogitationes meae a cogitationibus vestris.~  Se
+non che il Profeta parla de' pensieri e delle vie umane in
+generale, e il Poeta d'una via particolare da lui un giorno
+percorsa.
+
+	|90.  Il ciel~: il Primo Mobile.  -- |Festina~: si
+affretta, si muove rapidamente (lat. ^festinat~).  -- <Il cielo
+che pi@u velocemente ruota, @e il ^primo mobile~, secondo il
+sistema di Tolomeo.  Per impulso di questo tutti i cieli
+inferiori movendosi insieme uniformemente, @e chiaro che il pi@u
+alto o pi@u remoto dal centro comune sar@a il pi@u veloce.>  ^Ant.~
+ap. ^Tom.~
+
+	|91.  Ond'io~: per avermi ella rimproverato d'aver
+seguitato una scuola diversa dalla sua, e d'esser camminato per
+una via diversa dalla divina.  -- |Lei~: a lei; cfr. ^Inf.~ I, 81
+nt.  -- |Non mi ricorda~: non mi torna a mente.
+
+	|92.  Straniassi~: mi allontanassi mai da voi per
+seguitare altra scuola.  ^Albertano~ I, 25: <Lo debito strania da
+te lo debitore.>
+
+	|93.  Che rimorda~: che mi rimproveri d'avervi lasciata.
+
+	|96.  Come bevesti di Let@e~: ^S. Croce~, ^Berl.~,
+^Caet.~, ^Cass.~, ^Vien.~, ^Stocc.~, ecc.; ^Folig.~, ^Jesi~,
+^Nap.~, ^Nidob.~, ecc.  ^S@i come di Leteo bevesti~: ^Ald.~,
+^Giol.~, ^Rovill.~, ^Crus.~, ^Com.~, ^Quattro Fior.~, ecc.  ^Come
+di Leth@e bevesti~: ^Vat.~, ^Mant.~ (Come di Leth@e ^tu~ bev.),
+ecc.  Il ^Buti~ ha: ^Come bevesti su di Lete~  -- |Ancoi~: ancora
+oggi; cfr. ^Purg.~ XIII, 52 nt.
+
+	|97.  Dal fummo fuoco~: dall'effetto la causa.  <Qu@i
+esemplifica a simile Beatrice che, s@i come quando si vede fummo
+egli @e notorio che quivi @e fuoco, cos@i quando l'uomo per la detta
+acqua @e in oblivione, egli @e notorio che prima vi fu vizio.> 
+^An. Fior.~
+
+	|98.  Conchiude colpa~: prova che l'aver tu rivolta la
+tua voglia altrove che a me, fu cosa colpevole, perch@e delle sole
+colpe toglie Lete la memoria.  In questi versi Beatrice risponde
+alla scusa di Dante: ^N@e honne coscienza che rimorda~, v. 93.
+
+	|100.  Oramai~: da ora in poi.  -- |Nude~: chiare quanto
+devono essere onde venir comprese dall'ottuso tuo intelletto.
+
+	|102.  Scovrir~: aprire, manifestare.  -- |Rude~: rozza,
+incapace di comprendere.  Bevendo di Lete Dante ha perduto la
+memoria del male commesso, ma la sua mente @e tuttora offuscata. 
+L'acqua di Euno@e gli rischiara ed illumina l'intelletto.
+
+	|103-145.~  ^Beatrice, Matelda, Dante, Stazio e le sette
+donne giungono verso mezzogiorno al fiume Euno@e; condottovi da
+Matelda Dante beve alle sue onde e ritorna quindi rinnovellato e
+disposto a salire dal terrestre al celeste Paradiso.~
+
+	|103.  Corrusco~: fiammeggiante, scintillante.  Dice che
+il sole, essendo giunto al meridiano, appariva pi@u splendente e
+pi@u lento nel suo cammino: lo che vale quanto dire ch'era
+mezzogiorno.  Nota due particolarit@a riguardanti il sole nel
+meridiano.  La prima, che il sole vi passava allora con pi@u
+splendore, <trova riscontro in ci@o che il Poeta ha detto ai versi
+89 e 90 del XXVII, ove notava comparirgli le stelle pi@u chiare e
+maggiori di lor solere; e in sostanza doveva risultare nella
+mente del Poeta, per la dottrina de' suoi tempi, da queste
+considerazioni: 1+o~- dall'avere il sole minor massa d'aria da
+attraversare coi suoi raggi, in virt@u della maggiore elevazione
+cui era l'osservatore pervenuto; 2+o~- dall'essere quest'aria tanto
+pi@u pura, quanto pi@u prossima alle sue pi@u alte regioni; 3+o~- dal
+trovarsi l'aere stesso pi@u vicino alla creduta sfera del fuoco;
+4+o~- dal maggiore effetto che doveva produrre nella impressione
+degli splendori solari il cupo fondo della sacra foresta.  La
+seconda specialit@a, della maggior lentezza, par chiaro dover
+procedere da questo, che il sole in aprile va facendosi pi@u
+boreale ogni giorno, in virt@u dell'apparente suo moto annuo: se
+pi@u boreale diviene pi@u si di scosta dall'equatore, e quindi men
+celere il suo movimento diurno, perch@e fatto su parallelo pi@u
+prossimo al polo.  Soltanto in questo modo pu@o spiegarsi la
+minore velocit@a del sole nel meridiano di quest'ultima giornata:
+perciocch@e le ragioni che adducono i commentatori, desumendole
+dalle apparenze e dalle ombre che sono pi@u corte, e dall'altezza
+del sole, per la quale @e sottratto al confronto di oggetti fissi,
+quali appariscono i terrestri, non possono stare, essendoch@e
+primieramente qu@i non si tratta di apparenza, ma di effettivo
+scemamento di moto, affermando il Poeta che con pi@u lenti passi
+teneva il sole il cerchio di mezzogiorno; e poi, se @e vero che
+nel meriggio il sole non guadagna n@e perde sensibilmente in
+altezza, presenta per@o la massima velocit@a da oriente ad
+occidente, nella quale direzione @e il movimento principale
+diurno; sicch@e le ombre hanno minima e costante lunghezza, ma in
+egual tempo hanno altres@i pi@u grande spostamento angolare
+sull'orizzonte nell'ora meridiana, che nelle altre ore o di
+mattina o di sera nella stessa giornata.  @E dunque evidente, che
+il rapporto di quella maggior luce e di quella maggior lentezza
+deve farsi non con altre ore di quel medesimo giorno, ma con la
+stessa ora meridiana dei d@i precedenti, come abbiamo avvertito;
+altrimenti avrebbe dovuto dire a rovescio, parlando in generale
+del moto diurno del sole.>  ^Ant.~ ap ^Tom.~ (ed. Mil. 1865, Vol.
+II, pag. 605, 606, e ediz. econom. Mil. 1869, Vol. II, pag. 475,
+476).  Nel. ^Parad.~ XXIII, 11, 12, chiama la regione meridiana
+del cielo ^la plaga Sotto la quale il sol mostra men fretta.~
+
+	|104.  Il cerchio di merigge~: il Meridiano; cfr. ^Purg.~
+XXV, 2 nt.
+
+	|105.  Che qua e l@a~: la lezione di questo verso da noi
+accettata @e di quasi tutti i cod. (i quattro del ^Witte~,
+^Cass.~, ^Vienn.~, ^Stocc.~, ecc.) e di quasi tutte le edizioni
+(prime quattro, ^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giolit.~,
+^Rovil.~, ^Crus.~, ^Com.~, ^Quattro Fior.~, ecc.), come pure di
+quasi tutti i commentatori antichi e moderni.  Il senso @e oscuro
+e di difficile interpretazione.  L'^Ott.~ chiosa: <Va pi@u
+lentamente, perocch'@e il montare al colmo dell'arco, ed il
+discendere;> e gli ^Ed. dell'Anc.~ riferendo questa chiosa
+osservano: <Da questa chiosa dell'Anonimo crediamo, che
+l'ortografia delle stampe sia errata, e che invece di |come gli
+aspetti~, debba leggersi, ^com'egli aspetti~, cio@e quasi che egli
+aspetti.>  Il ^Postill. Cass.~ interpreta: ^Quia meridianus
+circulus, secundum aspectus inferiores diversificatur.  Unde
+Macrobius ait: Orizon et meridianus circulus non ascribitur in
+spera quia certum locum habere non possunt uterque ipsorum pro
+diversitate circumspicientium et habitantium variatur.~  E ^Benv.
+Ramb.~: <Il qual cerchio meridiano non @e il medesimo per tutti
+gli abitanti della terra, ma si forma diversamente, secondo la
+posizione di chi lo guarda da una regione all'altra.>  Ed il
+^Vell.~: Il qual meridiano cerchio non @e un medesimo a tutti,
+cos@i poco come ancora quel de l'Orizonte, ma si fa ora qu@a ed ora
+l@a, nel volger il globo de la terra, secondo gli aspetti.  Perch@e
+ogni parte de la terra dietro il corso del Sole vien a riguardar
+il suo.>  Cos@i interpretano pure ^Dan.~, ^Vol.~, ^Vent.~,
+^Lomb.~, ^Portir.~, ^Pogg.~, ^Biag.~, ^Costa~, ^Ces.~, ^Wagn.~,
+^Borg.~, ^Br. B.~, ^Frat.~, ^Greg.~, ^Andr.~, ^Triss.~,
+^Bennass.~, ^Cam.~, ^Franc.~, ^Filal.~, ^Witte~, ^Nott.~, ecc. 
+Il ^Buti~ legge con qualche cod. ^Che qu@a e l@a, come la spera,
+fassi~, e spiega: <Lo quale meridiano del Sole fassi secondo che
+la spera del Sole si muta: imper@o che il Sole a chi si leva pi@u a
+drieto ed a chi pi@u inanti secondo lo sito in che lo omo @e, e
+cos@i si muta lo meriado, ora inverso l'oriente pi@u e meno, ora
+inver l'occidente pi@u e meno, secondo li diversi siti de la
+terra.>  Cos@i lesse anche il ^Land.~: <Teneva adunque il cerchio
+meridiano, il quale non @e in ogni parte del mondo un medesimo, ma
+^come la spera~ da le terra volge, cos@i viene, o prima, o poi in
+diversi luoghi.>  Il ^Picci~ (^I luoghi pi@u oscuri~ ecc. pag.
+258) difende questa lezione e l'interpretazione del ^Buti~ e del
+^Land.~  Finalmente l'^Anton.~ (l. c.) osserva: <Per ci@o che
+riguarda questo verso pare che il pronome |che~, se dev'essere un
+pronome, debba riferirsi a meriggio.  Con gli avverbi |qu@a~ e
+|l@a~ intenderei (piuttosto che pi@u qu@a o pi@u l@a, in diversi
+luoghi, e simili), ^in questo emisfero, ove narro, e nell'altro,
+ove vidi~, con manifesto richiamo agli stessi modi espressi coi
+noti versi:
+
+     ^Qu@i~ @e da man, quando di |l@a~ @e sera:
+     Vespro |l@a~, e ^qu@i~ mezza notte era:
+     Fatto avea di |l@a~ mane e di |qu@a~ sera.
+
+La parola |aspetti~ convengo doversi prendere in significato
+astronomico, che propriamente indica differenze di longitudine
+tra due astri, ma che nella significazione pi@u astratta, e perci@o
+pi@u estesa, che possa avere, pu@o esprimere relazioni di
+posizione.  Il verso direbbe dunque cos@i: ^Il quale meriggio si
+fa in questo e nell'altro emisfero secondo le relazioni di
+posizione~; il che, invero, non ci dice niente di nuovo, avendoci
+gi@a insegnato il Poeta opportunamente pi@u volte questa dottrina. 
+Ho detto se la particella |che~ dev'essere un pronome, perch@e
+potrebbe anche intendersi ^perciocch@e.~  In tal caso il verso
+avrebbe una importanza molto maggiore, perch@e richiamerebbe
+l'attenzione di chi legge a considerar bene quelle due
+particolarit@a relative, che in principio ha notate rispetto al
+sole nel meridiano, siccome quelle che non sono poste l@a a caso,
+ma provengono da profonda dottrina su rapporti di posizione, come
+abbiamo veduto.  Allora esprimerebbe questo concetto: ^E il sole
+teneva il cerchio di meriggio con pi@u splendore e con pi@u lenti
+passi che nei precedenti; perciocch@e in questo e nell'altro
+emisfero si fa~ (^avviene~) ^secondo le relazioni di posizione;
+quando~ ecc.>  Noi ci avvisiamo che l'interpretazione comune
+meriti la preferenza; lasceremo per@o che ognuno scelga quella che
+pi@u gli va a grado.
+
+	|106.  Quando s'affisser~: quando le sette donne,
+personificazioni delle sette virt@u, s'arrestarono a un fonte
+ch'esce in due rivi, Lete e Euno@e; cfr. ^Purg.~ XXVIII, 121 e
+segg.  La similitudine che segue coglie solo l'atto del fermarsi,
+perch@e maraviglia in quelle donne non @e, ma s@i necessit@a di non
+proceder pi@u oltre.  Cfr. ^L. Vent.~, ^Simil.~, pag. 170, Sim.
+295.  Le sette donne precedevano, cfr. v. 13 e seg.
+
+	|107.  A gente~: ^S. Croce~, ^Berl.~, ^Caet.~, ^Cass.~,
+^Vienn.~, ^Stocc.~, e molti altri codd., le prime quattro
+edizioni, le tre del ^Sansovino~, ^Witte~, ecc.; cos@i pure ^Benv.
+Ramb.~, ^Buti~, ^Land.~, ecc.  ^A schiera~ leggono col ^Vat.~ ed
+altri codd. ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Crus.~,
+^Com.~, ^Dion.~, ^De Rom.~, ^Ed. Anc.~, ^Fantoni~, ^Ed. Pad.~,
+^Viv.~, ^Quattro Fior.~, ^Fosc.~, ^Mauro Ferr.~, ^Fanf.~, ecc.
+
+	|108.  In sue~: ^Vat.~, ^Cass.~, ecc., ^Folig.~, ^Nap.~,
+^Nidob.~, ^Ald.~, ^Burgofr.~, ^Giol.~, ^Rovil.~, ^Sessa~,
+^Crusc.~, ^Comin.~, ^Quattro Fior.~, ^Buti~, ecc.  ^O sue~: ^S.
+Croce~, ^Berl.~, ^Caet.~, ^Vienn.~, ^Stocc.~, ecc.  ^Jesi~,
+^Mant.~, ^Benv. Ramb.~, ^Dion.~, ^Witte~, ecc.  Quest'ultima
+lezione @e sostenuta da maggior numero di codd.  L'altra ne sembra
+tuttavia preferibile.  Ch@e leggendo in |sue vestigge~ il senso
+del verso @e: ^Come s'arresta chi guida compagnia di gente quando
+incontra novit@a maravigliosa ne' suoi passi, sulla strada ch'ei
+tiene.~  Leggendo ^o sue vestigge~ il senso @e: ^Quando trova
+novit@a o traccie di novit@a.~  Ma la guida si arresta quando
+incontra cosa nuova sulla sua via, non gi@a quando trova le
+^traccie~ di novit@a alcuna.  -- |Vestigge~: in rima per
+^vestigie~, plur. di ^vestigia~, usato anticamente per
+^vestigio~; cfr. ^Parad.~ XXXI, 81; ^Nannuc.~ ^Teor. dei Nomi~,
+pag. 331.  Qu@i |vestigge~ vale ^cammino.~
+
+	|109.  Al fin~: col@a dove finiva l'ombra della selva,
+ch'era bruna come quella che l'Alpe porta sopra i suoi rivi
+scorrenti sotto verdi foglie.  Letteralmente le sette donne si
+arrestano per esser giunte l@i dove Lete ed Euno@e scaturiscono;
+allegoricamente esse si fermano per modestia l@i dove cessa
+l'^ombra~, cio@e l'occultazione, amica, come osserva il ^Lomb.~,
+delle virt@u e d'ogni spirituale dono.  O forse meglio il ^Lan.~:
+<Per questa ombra intende la tenebrositade in che rimagnono le
+virtudi quando della Chiesa @e fatto mal governo.>  -- |Smorta~:
+pallida; contrapposto alla luce circostante.
+
+	|110.  Qual~: ombra; quarto caso.  -- |Nigri~: neri (dal
+lat. ^niger~), cio@e antichi.  Cfr. ^Virg.~ ^Georg.~ lib. III,
+333, 334:
+
+                              ^sicubi nigrum~ 
+     ^Illicibus crebris sacra nemus accubet umbra.~
+
+In Orazio (^Od.~ lib. IV, od. 4, v. 58): ^Nigroe feraci frondis in
+Algido.~
+
+	|112-113.  Eufrates e Tigri~: vedendo due fiumi uscire
+d'una sola fontana il Poeta si rammenta dei fiumi del terrestre
+Paradiso ricordati nella Genesi (cap. II, 10 e segg.).  Nella
+Genesi @e detto che quel fiume irrigante il Paradiso terrestre si
+divideva in quattro capi; cio@e ^Phison~, ^Gehon~, ^Tygris et
+Euphrates.~  Ma Dante segu@i forse l'esegesi di alcuni sacri
+interpreti che fanno i due primi fiumi derivare da' secondi; cfr.
+^Pereirus in Genes.~ lib. III; ^De Parad.~ c. 2; ^Knobel~, ^Die
+Genesis.~ ad c. II, v. 10 e segg.  O forse Dante si ricord@o
+d'aver letto in Boezio (^Phil. Cons.~ lib. V, metr. I, ed
+^Peiper~, pag. 123):
+
+     ^Tigris et Euphrates uno se fonte resolvunt~
+        ^Et mox abiunctis dissociantur aquis.~
+
+	|114.  Quasi amici~: que' due fiumi mostravano d'andar
+lenti, per il dispiacere di doversi dividere, come sogliono gli
+amici.  Concetto affettuosamente gentile.  Cfr. ^L. Vent.~,
+^Simil.~, pag. 114; Simil. 182.
+
+	|115.  Luce~: gi@a Virgilio avea detto a Beatrice (^Inf.~
+II, 76-78):
+
+     O donna di virt@u, sola per cui
+       L'umana spezie eccede ogni contento
+       Da quel ciel che ha minor' li cerchi sui.
+
+Qu@i, parlando a Beatrice, Dante la chiama ^luce del genere
+umano.~  Parlare esagerato ed iperbolico, se il Poeta non aveva
+in mira che la figlia di Folco Portinari.  Ma Beatrice @e in
+questo canto, come abbiamo gi@a osservato poco fa (nota ai v.
+79-102 del presente canto) personaggio eminentemente simbolico ed
+allegorico.  La |luce della gente umana~ @e la parola di Dio, la
+divina Rivelazione.  ^Lucerna pedibus meis verbum tuum, et lumen
+semitis meis.~  Psal. CXVIII, 105.  Come colei che simboleggia
+l'autorit@a che @e in possesso della divina Rivelazione e che
+secondo le dottrine di essa Rivelazione deve guidare la gente
+umana alla felicit@a somma, Beatrice @e veramente la luce del
+genere umano, colei che va innanzi col lume della Rivelazione,
+colla fiaccola della parola di Dio in mano, ed illumina chi la
+segue.  Si osservi, inoltre che Cristo disse: ^Ego sum lux mundi~
+(^S. Giov.~ VIII, 12; XII, 46).  Chi @e detto |luce della gente
+umana~ sar@a dunque o Cristo stesso, oppure il suo Vicario e
+rappresentante in terra.  Or il Vicario e rappresentante di
+Cristo in terra @e, come insegna la Chiesa alla quale Dante
+apparteneva, il sommo Pontefice.  Anche qu@i dunque si fa
+manifesto che la Beatrice della Divina Commedia non altro
+simboleggia che l'autorit@a ecclesiastica suprema, ossia il sommo
+Pontefice che fa in terra le veci di Colui che @e la ^luce del
+mondo.~  Ma Beatrice @e detta anche |gloria~ della gente umana.  La
+|gloria~ vera dell'uomo @e la cognizione di Dio.  ^In hoc
+glorietur, qui gloriatur, scire et nosse me, quia ego sum
+Dominus~ (Gerem. IX, 24).  ^Qui gloriatur in Domino glorietur~
+(I, Cor. I, 31, II, Cor. X, 17).  E san Tommaso (^Sum. theol.~ P.
+II, 2+a~e qu. CXXXII, art. 1) dice che ^gloria quae habetur a Deo,
+non est gloria vana, sed vera.~  Or se Beatrice simboleggia chi
+ha in terra la missione di guidare l'uomo alla cognizione del
+Sommo Bene, ^Di la dal qual non @e a che s'aspiri~ (Purg. XXXI,
+24), a ragione pu@o chiamarsi |gloria della gente umana.~  E
+veramente il Poeta ci ha gi@a detto che Beatrice lo menava ad amare
+il Sommo Bene (^Purg.~ XXXI, 22 e segg.).  L'amar Dio presuppone
+il conoscerlo.
+
+	|116.  Si dispiega~: scaturisce.
+
+	|117.  Da un principio~: da una sola fontana.  -- |S@e da
+s@e lontana~: diramandosi in due rivi allontana una sua porzione
+dall'altra.
+
+	|118-119.  Per cotal~: per aver io fatto cotal preghiera. 
+-- |Prego~: preghiera; altrove usa anche ^preco~; cfr. ^Inf.~
+XXVIII, 90, nt.  -- |Detto~: da Beatrice.  -- |Matelda~: ecco
+finalmente il nome della bella donna che apparve a Dante appena
+giunto sulla soglia del Paradiso terrestre, che fa una parte s@i
+importante negli ultimi canti del Purgatorio.  Vedi sopra Matelda
+la digressione a pag. 595-617 di questo Volume.  Beatrice rimanda
+qu@i L'Alighieri a Matelda per ottenere risposta alla sua domanda,
+per essere istruito intorno all'acqua che si vede dinanzi.  Pi@u
+tardi, nel ^Paradiso~, vedremo come ella, invece di sciogliere
+lei medesima i suoi dubbi, lo rimanda alle anime glorificate dei
+Dottori della Chiesa che man mano vanno incontrando.  Questa
+circostanza non s'accorda coll'opinione di chi fa Beatrice
+simbolo della Teologia, della Religione, della Rivelazione, del
+Genio del Cristianesimo, e cos@i via discorrendo.  Ma se Beatrice
+simboleggia l'autorit@a ecclesiastica la cosa @e assai naturale. 
+Ch@e l'autorit@a ecclesiastica rimanda il fedele al sacerdote, di
+cui Matelda @e figura (cfr. pag. 615-617), ed ai dottori, onde
+ottenere istruzione e risposta alle sue domande (cfr.
+^Scartazzini~, ^Dante Alighieri~, pag. 517).  Curiosa @e la chiosa
+del ^Buti~ a questo verso: <|Prega Matelda~, cio@e la mia
+filliuola: la dottrina de la santa Teologia @e filliuola de la
+Teologia.>
+
+	|120.  Si dislega~: si difende da colpa imputatagli.  --
+<Se l'ammaestratore che @e posto ad ammaestrare non ammaestrasse
+li discepuli di quello ch'elli (cos@i crediamo si debba leggere,
+non ^che li~ come ha la stampa) @e tenuto, sarebbe colpevile; e
+per@o finge l'Autore che Matelda risponda ch'ella ha ben fatto
+quello che a lei s'apparteneva.>  ^Buti.~
+
+	|121.  La bella donna~: cos@i chiama ripetute volte
+Matelda, ^Purg.~ XXVIII, 43, 148.  -- |Questo~: ci@o che e'
+desidera di sapere.  -- |Altre cose~: Matelda non lo aveva
+soltanto istruito intorno all'acqua del Paradiso terrestre, ma
+eziandio sul vento di colass@u, e sulle condizioni di esso
+Paradiso, e datogli finalmente ^un corollario ancor per grazia~;
+cfr. ^Purg.~ XXVIII, 88-144.
+
+	|122.  Per me~: da me.
+
+	|123.  Let@e~: cos@i i quattro codd. del ^Witte~, ^Cass.~,
+^Vienn.~, ^Stocc.~, ecc., le prime quattro edizioni, la ^Nidob.~,
+^Benv. Ramb.~, ^Buti~, ecc.  L'^Ald.~, ^Burgofr.~, ^Giol.~,
+^Rovill.~, ^Crusc.~, ecc. leggono invece ^Leteo~, ed il ^Blanc~
+(^Voc. Dant.~ s. v. |Let@e~) dice che cos@i richiede qu@i il verso. 
+Bisogna per@o stare alla lezione portata dai codici.  Cfr.
+^Dionisi~, ^Blandim. funebri~, pag. 92 e segg.  -- |Non gliel
+nascose~: non gliene tolse la memoria.  Le acque di Lete non
+togliono che la ricordanza del male commesso, non la memoria di
+cose buone o indifferenti.
+
+	|124.  Maggior cura~: quale?  I commentatori pi@u antichi
+(^Lan.~, ^An. Fior.~, ^Post. Cass.~, ^Petr. Dant.~, ^Falso
+Bocc.~, ecc.) non rispondono.  L'^Ott.~ stranamente: <Qu@i
+Beatrice scusa l'Autore, dicendo: forse che egli non riconosce
+questi fiumi, perocch'elli fu bagnato in Lete, lo quale ha fatto
+negli occhi suoi oscuramento, siccome non si ricorda che li
+vedesse mai.>  ^Benv. Ramb.~ ricorda le tante meraviglie --
+dell'esercito vincitore, del carro trionfale, del duce, ed altre,
+-- dopo le quali Dante non si ricordava pi@u di ci@o che Matelda
+aveagli detto.  ^Buti~, ^Land.~, ^Vel.~, ^Dan.~, ^Vol.~, ^Vent.~,
+ecc. tirano via.  ^Lomb.~ chiosa: <La sollecitudine (dovrebbe
+voler dire) di veder me, che Virgilio accomiatandosi (^Purg.~
+XXVIII, 136 e segg.) promise a Dante ch'avrebbe in quel luogo
+trovata. Non altrimenti che per l'attuale veduta di Beatrice
+confessa Dante di aver perduta attenzione ad altro parlare della
+medesima Matelda> (cfr. ^Purg.~ XXXII, 91 e segg.).  Questa
+interpretazione fu accettata da ^Biag.~, ^Costa~, ^Ces.~,
+^Wagn.~, ^Tom.~, ^Br. B.~, ^Frat.~, ^Andr.~, ^Triss.~, ^Cam.~,
+^Franc.~, ecc.  Il ^Pogg.~: <Forse la maggior premura, ch'egli
+ha, di salir presto alle stelle, che spesse volte fa dimenticare
+di altra minor cura, nell'atto istesso di veder quei due fiumi
+gli ha resa oscura l'idea, che gi@a doveva avere di essi.>  E il
+^Bennass.~ dice che Beatrice <allude ai rimproveri ch'ella fece a
+Dante, rimproveri che lo gettarono in tanta costernazione.>  Non
+avendo il Poeta sinora fatto il menomo cenno della sua premura di
+salire alle stelle, non lice intendere che questa sia la |cura~
+di cui parla Beatrice.  Pi@u probabile sembra l'opinione del
+^Lomb.~, massime se ci ricordiamo come il Poeta ci racconta che
+e' non pensava che a Beatrice, n@e si curava che di lei.  Non
+crediamo per@o che questa sia la sola |maggior cura~, alla quale
+Beatrice allude.  Tutta quanta la gran visione, il peso
+gravissimo dei rimproveri fattigli da Beatrice, e finalmente
+l'enigma del DXV, -- tutte queste cose devevano esser ben atte a
+fargli dimenticare quanto egli aveva prima veduto ed udito.  Ci
+pare dunque che il complesso di quanto Dante ci racconta nei
+canti XXIX e seguenti, sino a questo momento formi nel suo
+insieme la |maggior cura~ alla quale in questo verso si allude.
+
+	|125.  Priva~: della sua virt@u.  -- <Quando l'anima @e
+tutta assorta in un pensiero, tanto pi@u quando vi si aggiunge
+l'affetto, non pu@o pi@u richiamare le idee straniere; non pu@o pi@u
+ragionare dirittamente.  La memoria si dee considerare sotto due
+aspetti: 1+o~- essa @e facolt@a che conserva le idee e le loro
+tracce; 2+o~- non le tiene sempre spiegate davanti; all'uopo
+richiama e spiega or l'una or l'altra.  Sarebbe conveniente di
+dar due nomi a rappresentare i due stati: forse si potrebbe dire
+^memoria virtuale~ la prima, e ^memoria attuale~ la seconda.  Qu@i
+Dante mette e |memoria~ e ^mente~ {v.126}: perci@o per ^mente~
+{v.126} debbesi intendere altra facolt@a: ed @e l'^intellettiva.~ 
+Il ^conoscere~ viene assimilato al ^vedere~; quindi alla mente si
+attribuiscono occhi.>  ^Mart.~
+
+	|126.  Fatta ha~ -- |Oscura~: ha offuscato gli occhi
+della sua mente in modo da non vedervi pi@u l'impressione
+lasciatavi da' tuoi insegnamenti.  Onde leggere ci@o che la mente
+scrisse (^Inf.~ II, 8) @e necessario che gli occhi di essa mente
+non siano offuscati.
+
+	|127.  Euno@e~: cfr. ^Purg.~ XXVIII, 26 nt. 131 nt.
+
+	|128.  Come tu sei usa~: l'interpretazione di questo
+verso, che a nostro avviso @e la sola vera, l'abbiamo gi@a data
+nella digressione sulla Matelda di Dante (cfr. pag. 610 e seg.
+del presente volume).  L@i dicemmo che i commentatori spiegano
+unanimemente: <^Come tu se' usa~ di fare cio@e con tutti quelli
+che qu@i giungono.>  Veramente, con queste precisissime parole
+spiega ^Lomb.~ il verso, e lo stesso ripetono ^Biag.~, ^Costa~,
+^Ed. Pad.~, ^Br. B.~, ^Frat.~, ^Andr.~, ^Triss.~, ^Bennas.~,
+^Franc.~, ecc.  Ma tra i commentatori che cos@i la intendono
+crediamo siano da annoverare anche quelli che tiran via
+silenziosi, come ^Port.~, ^Ces.~, ^Wagn.~, ^Borg.~, ^Brun.~,
+^Tom.~, ^Greg.~, ^Cam.~, ^Kanneg.~, ^Streckf.~, ^Filal.~, ^Bl.~,
+^Witte~, ^Krig.~, ^Nott.~, ecc.  Anche molti antichi non danno
+veruna interpretazione (^Ott.~, ^An. Fior.~, ^Post. Cass.~,
+^Petr. Dant.~, ^Falso Bocc.~, ^Dan.~, ^Vol.~, ^Vent.~, ecc.).  Il
+^Lan.~ si contenta di chiosare: <Qu@i ordina Beatrice a Matelda
+che faccia bere dello Euno@e, acci@o ch'ello s'involga in ogni
+buono e virtudioso desiderio.>  ^Benv. Ramb.~: <Come fu ed @e tuo
+ufficio nella vita attiva.>  ^Buti~ allegorizza: <^E come tu se'
+usa~, imper@o che la pratica della Chiesa significata @e per
+Matelda; la quale pratica sta in predicare, in confessare, in
+batteggiare, in dare li sacramenti de la Chiesa e fare tutti li
+esercizi che sono da fare ne la Chiesa.>  ^Land.~ copia e
+compendia: ^Perch@e questo s'appartiene alla teologia pratica.~> 
+^Vell.~ parafrasa, senza spiegare: <Et s@i come ella @e usa di
+fare, che ravvivi la sua tramortita virt@u.>  Il solo ^Pogg.~ ebbe
+un presentimento del vero, chiosando: <Come praticasti con lui
+tuffandolo nel Lete, e togliendogli cos@i la memoria de' peccati,
+cos@i tuffandolo ora nell'Euno@e ravviva in lui la memoria, e gli
+abiti delle virt@u, quale @e appunto l'effetto del ber di esso
+Euno@e.>  Le altre anime che giungono colass@u qu@i non c'entrano
+nemmeno a tirarcele pei capelli; non si parla che del solo Dante
+e della ^sua~ virt@u illanguidita.  Ma non sembra nemmeno che si
+alluda al solo attuffamento nel Lete, come vuole il ^Pogg.~, ch@e
+alludendo ad un fatto avvenuto una volta sola non si pu@o parlare
+di ^uso.~  Beatrice allude piuttosto alle relazioni che tra
+Matelda e Dante ebbero luogo gi@a in questo mondo.
+
+	|129.  Tramortita~: illanguidita.  -- |Virt@u~: di
+ricordarsi del bene e d'ogni buona opera.  -- |Ravviva~:
+riaccendi, facendogli bere di quell'accqua.  -- <Dante, tutto che
+riconciliato con Dio, era non per@o di meno travagliato dai
+perniciosi effetti o reliquie della colpa; primo de' quali @e
+l'inettitudine della mente a penetrare nel senso intimo della
+divina parola: il secondo @e la tiepidezza della volont@a nella
+pratica del bene; difetti che gli sono rinfacciati da Beatrice
+con frasi a dir vero non troppo cortesi (^Purg.~ XXXIII, 31, 67 e
+85).  Siffatti impedimenti dovevano essere tolti.  Conveniva che
+il novello convertito si svincolasse da ogni terreno affetto, e
+ravvivasse nell'animo suo le grazie e le virt@u tramortite,
+ond'essere degnato di sollevarsi alla contemplazione della virt@u
+soprannaturale.  Tanta dovizia di doni celesti il Poeta l'attinge
+da quel divino mistero che @e appellato sacramento per eccellenza,
+quivi adombrato nel fiumicello Euno@e.  ^A tutti altri sapori esso
+@e di sopra~; aveva gi@a detto Matelda parlando di quello; ma non
+opera i suoi effetti se prima non si @e gustata l'acqua di Lete. 
+Perci@o il Poeta, test@e lavato da ogni macchia in virt@u di
+quest'ultima, @e condotto da Matelda, per comando di Beatrice, a
+dissetarsi nell'onda ristoratrice di quello, che lo riempie di
+forza e di sovr'umana dolcezza.>  ^Barelli~, ^Alleg.~, pag. 164.
+
+	|130.  Gentil~: l'anima gentile @e piena di virt@u e cos@i @e
+piena di carit@a, e per@o imbasciata o richiesta a bisogno altrui
+non si scusa; ma adopera quello che sa e pu@o.  ^Buti.~  Il
+^Frezzi~ (^Quadr.~ I, II): <Come persona a compiacer disposta A
+chi la prega.>
+
+	|131.  Fa sua voglia~: conforma il suo all'altrui volere. 
+^Fazio~, ^Dittam.~ III, 18: <Poi siccom'uom che pensa e
+s'argomenta d'altrui piacer, mi disse.>  -- @E questa una delle
+pi@u affettuose similitudini dantesche.
+
+	|132.  Tosto ch'ell'@e~: ^Vat.~, ^Berl.~, ^Caet.~, ecc. 
+^Tosto che @e~: ^Cass.~, ^Vienn.~, ^Folig.~, ^Jesi~, ^Nap.~, ecc. 
+Al. ^Tosto com'@e~, l'antica ^Mant.~: ^Tosto come per segno @e~
+ecc., tutte differenze d'importanza assai secondaria e che non
+alterano punto il senso, il quale @e che l'anima gentile fa suo
+l'altrui volere quanto prima esso volere le @e per segni, o di
+voce o di cenno, fatto manifesto.
+
+	|133.  Da essa~: da Matelda.  -- |Preso~: per mano.
+
+	|134.  Stazio~: cfr. ^Purg.~ XXI, 10 nt.  @E l'ultima
+volta che vien ricordato.  In tutta quanta la grandiosa scena del
+Paradiso terrestre Stazio fa una parte intieramente passiva, di
+modo che non si sa ben indovinare cosa egli vi abbia che fare. 
+Cfr. ^Purg.~ XXXII, 29, nt.  Qu@i Dante stabilisce una differenza
+tra s@e e Stazio.  Matelda prende l'Alighieri per mano, mentre a
+Stazio impone di seguire.  I tre dunque, Matelda, Dante e Stazio
+vanno verso il fiume Euno@e.  Dante dice d'aver bevuto alle sue
+onde.  Vi bevette anche Stazio?  I commentatori o dicono di s@i o
+sembrano presupporre che lo facesse.  Il ^Lubin~ (^Matelda~, pag.
+10, nt.) dice di no.  Ma i tre vanno verso l'Euno@e, e poi
+^ritornano~, v. 142.  A che dunque dire a Stazio: ^Vien con lui~
+{v.135}, se Stazio non bevette dell'acqua di Euno@e?  Confessiamo
+di non saper rispondere a tale domanda se non ammettendo che
+anche Stazio bevesse alla ^santissim'onda~, v. 142.  Ma perch@e
+Matelda non ^prende~ eziandio Stazio per mano, perch@e parla
+Beatrice nei versi 128 e 129 del solo Dante?  N@e Beatrice, n@e
+Matelda si curano tanto o poco di Stazio, il ^Vien con lui~
+{v.135} @e la sola parola di cui questo personaggio @e degnato nel
+Paradiso terrestre.  Dicono che Stazio, anima gi@a pervenuta al
+suo fine non abbisognava pi@u di guida (^Tom.~).  Sar@a; ma pare
+che in tal caso anche quel ^Vien con lui~ fosse superfluo. 
+Insomma il personaggio di Stazio diventa qu@i enigmatico al
+superlativo, n@e noi siamo capaci di rispondere definitivamente
+alle due domande: 1+o~- Quale @e la parte voluta fare rappresentare
+a Stazio in quest'ultimo canto del Purgatorio? e 2+o~- Bevette
+anche Stazio dell'acqua d'Euno@e, oppure ne bevette solamente
+Dante?  -- Sospettiamo che, secondo l'intenzione del Poeta,
+Stazio sia in questo canto un personaggio pi@u allegorico che
+reale, come personaggi allegorici sono le sette donne, ed
+allegorico-reali Beatrice e Matelda.  Ma simbolo od allegoria di
+che?
+
+	|135.  Donnescamente~: cio@e signorevole atto, chiosa il
+^Lan~; il ^Vent.~: <Con aria signorile e atto di graziosa donna>,
+e cos@i intendono anche ^Lomb.~, ^Costa~, ^Ces.~, ^Borg.~, ^Tom.~,
+^Frat.~, ^Andr.~, ^Triss.~, ^Bennass.~, ^Cam.~, ^Franc.~, ecc. 
+Ma qual necessit@a induce mai a tradurre questa voce per
+^signorilmente~?  Non basta egli di intendere: Con quella grazia e
+gentilezza, che sono il pregio e la qualit@a distintiva delle
+donne, come intendono e spiegano ^Benv. Ramb.~, ^Vell.~, ^Dan.~,
+^Port.~, ^Biag.~, ^Wagn.~, ^Br. B.~, ^Greg.~, ^Blanc~ e molti
+altri?  Il ^Buti~ invece di |donnescamente~ ha ^onestamente~, e
+cos@i legge anche il ^Cagliar.~, e qualche altro codice.
+
+	|136.  Avessi~: forse imitazione di Virgilio, ^Georg.~
+lib. IV, 116 e segg.:
+
+     ^Atque equidem, extremo ni iam sub fine laborum~
+     ^Vela traham et terris festinem advertere proram~,
+     ^Forsitan et pinguis hortos quae cura colendi~
+     ^Ornaret canerem~, ecc.
+
+	|137.  In parte~: per quanto fosse possibile ad ingegno e
+lingua mortale, ch@e, dice il ^Dan.~, in tutto sarebbe
+difficilissimo e forse impossibile.  Cos@i intendono e spiegano
+^Dan.~, ^Biag.~, ^Br. B.~, ^Frat.~, ^Triss.~, ^Franc.~, ecc.  Il
+^Lomb.~ invece: Canterei in disparte, spartatamente, in altro
+canto.  Cos@i pure ^Wagn.~  Agli altri commentatori la penna @e qu@i
+rimasta ferma nel calamaio.  Dante non vuol certo dire che egli
+descriverebbe minutamente quel dolce bere, ma ne vuol piuttosto
+accennare non esservi lingua n@e penna umana che v'aggiunga. 
+Questa interpretazione @e confortata, come osserva il ^Biag.~,
+dalla particella ^pur~, essendo il valore e sentimento suo lo
+stesso che ^malgrado l'impossibilit@a d'aggiungervi col parlare.~
+
+	|138.  Lo dolce ber~: dell'acqua d'Euno@e.  I commentatori
+suppongono generalmente che Matelda attuffasse il Poeta nelle
+acque di Euno@e, come lo aveva attuffato in quelle di Lete. 
+Questa supposizione sembra falsa.  Oltrecch@e di tale immersione
+l'Alighieri non ne fa il menomo cenno, vi si oppone la natura dei
+due fiumi.  Togliendo la memoria delle colpe commesse l'acqua
+d'Euno@e lava l'uomo.  Il lavamento ^interno~ @e simboleggiato
+mediante il bere, l'^esterno~ mediante l'immersione nell'acqua. 
+Perci@o Dante beve non solo di Lete, ma vi viene anche immerso. 
+Ma l'acqua di Euno@e ridona all'uomo purificato la ricordanza del
+bene.  Qu@i l'immersione non avrebbe verun senso e sarebbe
+pertanto superflua.  -- |M'avria~: m'avrebbe; cfr. ^Nannuc.~
+^Anal. crit.~, pag. 512 e seg.  -- |Sazio~: saziato, come
+^Parad.~ XXVIII, 48.
+
+	|139.  Piene~: compiuti i trentatr@e canti destinati a
+questa seconda Cantica.  Nella divisione del suo Poema
+l'Alighieri osserva rigorosamente le leggi della simmetria. 
+Ognuna delle tre Cantiche ha 33 canti, il primo dall'Inferno
+dovendo considerarsi come l'^introduzione~ a tutta l'opera. 
+Appunto per questo motivo l'invocazione @e nell'Inferno non nel
+primo canto, come nel ^Purg.~ e ^Parad.~, ma al principiar del
+secondo.  I cento canti della Commedia hanno insieme 14233 versi,
+cio@e l'^Inf.~ 4720, il ^Purg.~ 4755 e il ^Parad.~ 4758 (i numeri
+dati dal ^Blanc~ nell'^Encyklop,adie der Wissenschaften und
+K,unste~ di ^Ersch e Gruber~, Sez. I, Vol. XXIII, pag. 57, e dal
+^Witte~ nei ^Prolegomeni~ della sua edizione critica della Div.
+Com. p. XXIV, nt. 1, non sono esatti).  Di questa simmetria
+avremo a discorrere nel volume dei Prolegomeni (Si confronti pure
+^Blanc~, l. c. e ^Scartazzini~, ^Dante Aligh.~ ecc. 464 e segg.).
+
+	|140.  Ordite~: ordinate, o forse meglio ^predisposte~,
+come l'ordito alla tela.
+
+	|141.  Pi@u ir~: stendermi di pi@u; m'impone di finire.  --
+|Lo fren dell'arte~: l'arte, essendo freno perch@e nel comporre
+non si oltrepassino le giuste proporzioni, non permetteva
+all'Alighieri di far questo canto smisuratamente pi@u lungo degli
+altri, e molto meno ancora di aggiungere a questa Cantica un
+altro canto.
+
+	|142.  Ritornai~: al luogo dove Beatrice era rimasta ad
+aspettarlo; cfr. v. 128.  -- |Onda~: dell'Euno@e.  Per la bevanda
+delle acque d'Euno@e Dante si sente rinnovellato e disposto a
+salire al cielo.  Il concetto rammenta le parole di Cristo alla
+Samaritana (^S. Giov.~ IV, 14): ^Aqua, quam ego dabo ei, fiet in
+eo fons aquae salientis in vitam aeternam.~  E l'immagine della
+mistica acqua innovatrice ricorre spesso nelle Scritture sacre.
+
+	|143.  Rifatto~: ^Virg.~ ^Georg.~, lib. III, 235: ^Robur
+viresque refectoe~; e nell'Eneide l. XII, 788: ^Armis animisque
+refecti.~  -- |Come piante~: idea non dissimile in un'ode di
+Pindaro (^Nem.~ VIII): <Cresce la virt@u negli uomini savi e
+giusti, come l'albero, per le vivificanti rugiade, cresce verso
+l'umido aere.>
+
+	|144.  Rinnovellate~: ^Renovamini autem spiritu mentis
+vestrae~; agli Efesi IV, 23.  ^Et prolapsi sunt: rursus renovati
+ad poenitentiam~; agli Ebrei VI, 6.  Virgilio, del ramo d'oro
+svelto da Enea, e ripullulante (^Aen.~ lib. VI, 205 e seg.):
+
+     ^Quale solet silvis brumali frigore viscum~
+     ^Fronde virere nova~, ecc.
+
+	|145.  Alle stelle~: al cielo.  Abbiamo gi@a osservato
+(^Inf.~ XXXIV, 136 nt.) che ognuna delle tre cantiche finisce
+colla parola |stelle.~  Alla fine del viaggio per l'Inferno Dante
+esce a ^rivedere~ le stelle; dopo aver gustate le acque di Euno@e
+e' si sente atto a ^salire~ alle stelle; al termine del mistico
+suo viaggio e' sente il desiderio e la volont@a sua uniformi al
+volere di Colui che muove il sole e l'altre stelle.  Finisce
+tutte e tre le Cantiche colla parola stelle forse ad indicare sia
+il fine ultimo del suo Poema e dove debba costantemente mirare
+l'occhio di chiunque non ignora l'alta sua origine e l'alto suo
+destino.  Con quest'ultima parola il Poeta esclama ai suoi
+lettori ^Al cielo, al cielo~! come il Segneri (^Pred.~ X)
+esortava i suoi uditori.  Cfr. ^Ponta~, ^Ragionamento sopra
+l'ultimo verso del Purgatorio~; Roma 1842.  -- Nel suo viaggio
+per l'Inferno Dante impieg@o una notte ed un giorno; una notte ed
+un giorno impieg@o dal centro all'altro emisfero.  Nel Purgatorio
+impiega quattro giorni: il primo incomincia sul principio del
+canto secondo; il secondo sul principio del IX (v. 13); il terzo
+sul principio del XIX, e finalmente il quarto al XXVII, 109-112. 
+Al mezzod@i @e alla sorgente de' due fiumi del Paradiso terrestre;
+il mattino del giorno seguente sale al Paradiso celeste (^Parad.~
+I, 58).  Cfr. ^Della Valle~, ^Orario del viaggio dantesco~, nel
+di lui ^Supplemento al libro~: ^Il senso geograf. astron.~ ecc.
+Faenza 1870, pag. 59-61.

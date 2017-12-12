@@ -1,0 +1,113 @@
+	|Proemio.~  Canto XXXIII+o~ ove si tracta di quilli che
+traderono colloro che in loro tucto se fidavano et colloro chui
+aveano promossi a degnetade et stato.  Et isgrida contra i Pisani
+et contra i Ginovisi.
+
+	Hoc capitulum habet duas partes: nam in prima auctor
+continuat se ad proxime supradicta et hec durat usque ibi: <Noe
+passammo oltre, ove la gelata>; ibi secunda, in qua incipit
+dicere de tertia parte dicti Cociti et hec usque in finem.
+
+	|1-78.~  Ad primam igitur auctor inducit ad dicendum
+dictum spiritum Comitis Ugolini quomodo mortuus fame est in dicta
+turri cum IIII suis filiis, scilicet Anselmutio, Gaddo, Ugutione
+et Brigata, et quomodo per plures lunas, idest per plures menses,
+ibi carcerati vixerunt et quomodo ultimo sompniavit dictus comes,
+ut dicit textus.
+
+	|79-90.~  Et ex hoc imprecatur auctor contra dictam
+civitatem Pisarum, videlicet quod ille due insule, Cavrara
+scilicet et Gorgona, vicine fauci fluminis Arni, manantis per
+medium dicte civitatis Pisarum, agant, ut dicit textus.  Vocando
+dictam civitatem Pisanam novellam Thebem ratione dicte
+crudelitatis.  Nam in Thebe, civitate Grecie, que nova potest
+dici -- ad differentiam Thebe veteris, que ante fuerat per magnum
+tempus in Egypto et que destructa est demum per Alexandrum; de
+qua tangens Iuvenalis in ultima ^Satira~ ait: ^Atque vetus Thebe
+centum iacet obrupta portis~; et Phylosophus in primo
+^Metaurorum~ ait: ^Et antiquitus Egyptus Thebe vocate~ etc. --
+similes et diverse iam sceleritates perpetrate fuerunt, teste
+Statio dicente in primo: ^Decertata odiis sontesque evolvere
+Thebas.~  Et subdit inferius de reatibus eius: ^(...)/ erroresque
+feros nemorum et reticenda deorum/ crimina?  vix lucis spatio,
+vix noctis abacte/ enumerare queam mores gentemque prophanam.~
+Et hoc quantum ad primam partem premissam.
+
+	|118-120.~  Item fecit iste frater Albericus de Manfredis
+de Faventia, qui convitavit secum ad prandium in terra Sozarie,
+districtus Faventie civitatis predicte, Manfredum et Albergettum,
+fratres et nepotes eius, et ordinavit cum certis satellitibus
+suis, absconditis in quadam camera iuxta locum ubi fiebat dictum
+prandium, quod, quando frater Albericus diceret in fine prandii:
+^Apportentur fructus~, quod deberent exire dictam cameram et
+aggredi dictos duos eius nepotes et in mensa occidere eos; et ita
+factum fuit.
+
+	|124.~  Venio ad secundam partem, in qua auctor tractat
+de tertia premissa parte Cociti, in qua fingit puniri animas
+proditorum, qui rumpunt vinculum confidentie habite de eis
+ratione beneficii impensi per eosdem proditores proditis ab eis,
+ut fecit ille Tholomeus, filius Abobi, a quo auctor vocat hanc
+talem partem tertiam Cociti Tholomeam.  Qui, ut legitur in primo
+^Machabeorum~ capitulo ultimo, dum esset dux in campo Yerico
+populi Iudeorum, convitavit secum ad prandium Symonem Machabeum,
+summum sacerdotem tunc Iudeorum, socerum ipsius Tholomei, et Iuda
+et Mathatiam, filios dicti Symonis et eius cognatos, et in mensa
+proditorie eos fecit occidi.
+
+	|125-135.~  Quorum animas auctor fingit esse in dicto
+loco Inferni, viventibus adhuc in corporibus eorum in hoc mundo
+dyabolico spiritu animatis donec, ut dicit hic textus, Atropos,
+idest mors, etc.  Circa quem passum auctor intelligendus est
+loqui anagogice, idest spiritualiter, hoc modo: videlicet quod
+homo, pollutus tanto abominabili peccato et facinore prodendi et
+occidendi sic homines sibi coniunctos parentela ad mensas,
+putando se ab hominibus ex hoc vehementissime odiri et abominari
+hac vita et vere -- unde Claudianus: ^Proditor apportet suspensa
+morte salutem:/ nunquam gratus erit; dampnamus luce reperta/
+perfidiam nec nos patimur commictere tali~ -- quasi desperante
+dyabolum sumit in corde ad se regendum et animam suam destinat in
+Infernum, quasi quadam conventione de qua ait Ysaia dicens
+capitulo XXVIII+o~: ^Percussimus fedus cum morte, et cum inferno
+fecimus pactum~, scilicet penitus veniendi cum anima ad ipsum,
+quasi diffidendo de misericordia Dei, ut diffidit ille proditor
+et homicidia sui fratris Caym, dum dixit: ^Maior est iniquitas
+mea, quam ut veniam merear~, ut ^Genesis~ capitulo IIII+o~
+habetur.  Et de tali proditore desperato etiam sentit Salamon,
+dum in capitulo XVIII+o Proverbiorum~ ait: ^Impius, dum in
+profundum peccatorum venerit, contempnit.~  Et alibi eodem libro:
+^Ne acquiescas peccatoribus dicentibus: insidiemur sanguini,/
+abscondamus tendiculas contra insontem,/ et deglutiamus eum sicut
+infernus viventem/ et integrum quasi descendentem in lacum.~  Ad
+quod etiam inquit Psalmista: ^Veniat mors super eos, et
+descendant in infernum viventes.~  Item et de tali proditore
+desperato sentit in ^Apocalypsi~ Iohannes, dum ait: ^Scio enim
+opera tua, quod nomen habes ut vivas et mortuus es.~  Ad hoc
+etiam facit quod ait Ieronimus in quodam ^Decreto~ super illis
+verbis Apostoli: ^Tradi hominem huiusmodi Sathane in interitum
+carnis~, dicens quomodo tradit eum Sathane et discedit a mente
+sua et avertit se et reliquit domum eius vacuam -- ubi dicit
+Glosa: ^Sathane dicitur tradi quia dyabolus in eo habet
+potestatem quasi in pectore suo~ --.  Et quod dicitur in
+^Evangelio~ de Iuda proditore Domini ibi: ^Et cena facta, cum
+dyabolus iam misisset in cor ut traderet, et post bucellam
+introivit in illum Sathanas.~  Ad quod exponendum ait Magister
+^Sententiarum~, super illis verbis Petri dicentis Ananie: ^Cur
+temptavit cor tuum Sathanas?~: ^Sathanas eius cor implevit non
+intrando substantialiter, sed malitie sue virus inserendo.~  Et
+sic intellige auctorem in hoc sensisse sub dicto sensu anagogico.
+Verum quia nonnulli taliter prodentes reducunt se ad
+misericordiam Dei, ut David proditor Urie dicendo: ^Miserere mei,
+Deus, secundum magnam misericordiam tuam~, ideo dicit hic auctor
+quod sepe hoc contingit de talibus proditoribus, ut dictum est,
+ergo non semper.  Unde Augustinus, super illud ^Psalmiste~: ^Non
+absorbeat me profundum: neque urgeat super me puteus os suum~,
+ita inquit: ^Puteus est profundum seu profunditas humane
+iniquitatis in quam, si cecideris, non claudet super te os suum,
+si tu non claudis os tuum, scilicet confitendo et penitendo~ etc.
+
+	|137-144.~  Idem etiam fecit iste Dominus Branca d'Oria
+de Ianua, qui existens in Sardinia convitavit secum ad prandium
+Dominum Michelem Zancam, eius socerum, et in mensa eum fecit
+occidi.
+

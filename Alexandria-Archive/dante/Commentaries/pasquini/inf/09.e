@@ -1,0 +1,330 @@
+	|1.~  Quel pallore che la paura mi aveva fatto affiorare
+sul viso (|pinse~ <spinse>; secondo altri: <dipinse>).
+
+	|2.  in volta~: indietro.
+
+	|3.~  fece scomparire dal volto di Virgilio (|dentro~
+[...] |ristrinse~ <respinse nel suo animo>) pi$u rapidamente
+(|tosto~) il rossore del corruccio appena nato in lui (|il suo
+novo~, sottinteso ^colore~ {v.1}).
+
+	|5.~  perch@e la vista non lo poteva condurre lontano (|a
+lunga~).
+
+	|6.  per~: attraverso (oppure: <a causa di>).
+
+	|7.~  Eppure sar@a necessario che noi vinciamo, @e certo
+che vinceremo la battaglia (|punga~ <pugna>).
+
+	|8.  se non~...: a meno che... (reticenza che rispecchia
+un dubbio irrazionale, subito esorcizzato, sulle proprie forze
+piuttosto che sull'autorizzazione per simile viaggio).  -- |Tal
+ne s'offerse~: Un tale protettore ci si @e offerto, da tanto in
+alto ci @e stato promesso aiuto (da Beatrice e indirettamente da
+Dio stesso).
+
+	|9.  altri~: un certo personaggio, il Messo celeste (gi@a
+adombrato a VIII, 130).
+
+	|10.  ricoperse~: nascose.
+
+	|11.~  la frase iniziale (^se non~ {v.8}...) con quella
+successiva (^Tal ne s'offerse~ {v.8}).
+
+	|12.  a~... |diverse~: differenti (in quanto fiduciose)
+rispetto alle prime (che erano di esitante perplessit@a).
+
+	|13.  paura~... |dienne~: il suo discorso mi infuse
+(|dienne~, propriamente, <ci diede>) paura.
+
+	|14-15.~  perch@e io interpretavo la frase rimasta a met@a
+(|tronca~ <troncata>) forse in un significato peggiore di quanto
+in realt@a non avesse.
+
+	|16.  trista conca~: vaso o imbuto malvagio (cio@e la
+cavit@a infernale).  La intera perifrasi vuole appunto indicare il
+basso Inferno.
+
+	|17.  grado~: cerchio (la perifrasi: <il Limbo>).
+
+	|18.  cionca~: monca, senza fondamento.  Ripete
+abbreviandola la definizione di IV, 41-42.
+
+	|19.  question~: domanda.
+
+	|20-21.  incontra~: accade.  -- |di noi~ [...] |alcun~:
+qualcuno di noi limb$icoli.  -- |per~... |vado~: attraverso il
+quale sto andando.
+
+	|22.  Ver @e~: @E pur vero.  -- |f,iata~: volta.
+
+	|23.  congiurato~: evocato con scongiuri.  -- |cruda~:
+crudele.  Di Eritone, maga tessala, narra ^Lucano~ (^Phars.~, VI,
+508-827) che resuscit@o un soldato morto perch@e predicesse a Sesto
+Pompeo l'esito della battaglia di Farsalo.  Di qui l'invenzione
+di D. autore per consentire a Virgilio di rassicurare D.
+personaggio sulla propria conoscenza dell'intero Inferno.
+
+	|24.  l'ombre~: le anime.  -- |sui~: suoi, loro.
+
+	|25.~  Da breve tempo il mio corpo era privo di me
+spirito (non si dimentichi che @e l'anima di Virgilio a parlare);
+cio@e: <ero appena morto>).
+
+	|26.  quel muro~: le mura della citt@a di Dite.
+
+	|27.  un~... |Giuda~: l'anima di un traditore (la
+perifrasi allude appunto al nono e ultimo cerchio dell'Inferno).
+
+	|29.  dal~... |gira~: dal cielo che abbraccia nel suo
+giro tutto l'universo, dal Primo Mobile o Cristallino.
+
+	|30.  per@o~... |sicuro~: perci@o rassic$urati.
+
+	|31.  che~... |spira~: la quale esala il violento fetore
+(che tu avverti).
+
+	|32.  cigne dintorno~: cinge per intero.
+
+	|33.  u'~: dove.  -- |potemo~: possiamo.  -- |sanz'ira~:
+senza contrasto, con le buone.  L'unico ingresso @e vietato:
+occorre pertanto un aiuto superiore.
+
+	|35.  m'avea~... |tratto~: aveva attratto tutta la mia
+attenzione.
+
+	|36.  ver'~: verso.  -- |a la~: dalla (complemento di
+qualit@a).
+
+	|37.  punto~: attimo.  -- |furon~... |ratto~: si
+drizzarono in piedi rapidamente.
+
+	|38.  tinte~: insozzate.
+
+	|39.~  che avevano membra e atteggiamento di donna.
+
+	|40.  idre~: grossi serpenti d'acqua.
+
+	|41.  ceraste~: serpenti muniti di corna.  -- |crine~:
+capigliatura.
+
+	|42.  fiere~: orribili.
+
+	|43.  quei~: quello, Virgilio.  -- |meschine~: schiave
+(dall'arabo <miskin>, <povero>, attraverso lo spagnolo <mezquino>
+o il provenzale <mesqui>).
+
+	|44.~  di Proserpina o Ecate, moglie di Plutone, regina
+dell'Inferno pagano.
+
+	|45.  Erine~: Erinni, per i greci simbolo del rimorso
+negli omicidi (ma <Eumenidi>, cio@e <benevole>, dopo la catarsi);
+per i latini ^Furie~ (v. 38), figlie di Acheronte e della Notte e
+dee della discordia e dell'odio.  Per D. invece aralde di Medusa
+(forse emblema della pervicacia eretica) e in qualche modo
+simboleggianti vizi che ad essa preparano.  Secondo altri,
+invece, Megera Aletto e Tesifone corrisponderebbero alle tre
+specie d'ira punite nel quinto cerchio, ma il collegamento con
+Medusa ne riuscirebbe assai pi$u precario.
+
+	|46.  dal~... |canto~: dalla parte sinistra.
+
+	|48.  a tanto~: a questo, dopo aver detto ci@o.
+
+	|50.  battiensi a palme~: si percotevano con le palme
+delle mani.
+
+	|51.  sospetto~: timore.
+
+	|52.  Medusa~: la minore delle tre Gorgoni (cfr. v. 56,
+^'l Gorg$on~), figlie del dio marino Forco, aveva il potere
+malefico di pietrificare chi la guardava (prerogativa che rimase
+anche al capo mozzato, quando essa venne uccisa da Perseo). 
+Quanto al suo valore allegorico, cfr. v. 45.  -- |smalto~: sasso,
+pietra.
+
+	|53.  in giuso~: in basso, verso di me.
+
+	|54.~  malamente non vendicammo (<vengiare> sul francese
+<venger>), facemmo male a non vendicare contro Teseo il suo
+attacco.  Si allude alla violazione degli Inferi da parte di
+Teseo e Piritoo, che intendevano rapire Proserpina dall'Ade.
+
+	|55.  lo~... |chiuso~: gli occhi serrati.
+
+	|57.~  non ci sarebbe niente da fare circa il tuo ritorno
+sulla terra.
+
+	|58.  elli stessi~: egli stesso.
+
+	|59.  volse~: fece voltare.  -- |non~... |a le~: non si
+accontent@o delle.
+
+	|60.~  cos$i che non mi coprisse gli occhi anche con le
+sue.
+
+	|61.  sani~: capaci di conoscere la verit@a.
+
+	|62.  la dottrina~: il senso allegorico o l'insegnamento
+morale (nascosti dietro la lettera).
+
+	|63.  velame~: velo, manto.  -- |strani~: misteriosi,
+enigmatici.
+
+	|64.  onde~: le acque stigie.
+
+	|65.  pien di spavento~: spaventoso (specie per D. che,
+ad occhi chiusi, udiva e non poteva vedere).
+
+	|66.  amendue~: ambedue.
+
+	|67.  non~... |che~: non dissimile dal fragore.
+
+	|68.  per~... |ardori~: per il suo scontrarsi con masse
+d'aria calda.
+
+	|69.  fier~: ferisce, investe.  -- |rattento~:
+ritenimento, ostacolo.
+
+	|70.  fori~: fuori, lontano dalla foresta.
+
+	|71.  dinanzi polveroso~: sollevando davanti a s@e una
+nube di polvere.
+
+	|72.  le fiere~: le bestie, gli animali.
+
+	|73-74.  li~... |sciolse~: (Virgilio) mi liber@o gli
+occhi.  -- |il~... |viso~: l'energia, l'acume della vista.  --
+|schiuma~: superficie schiumosa (dello Stige).
+
+	|75.~  verso la parte dove la nebbia @e pi$u fastidiosa,
+pi$u densa.
+
+	|77.  per~... |dileguan~: saltano via rapide nuotando per
+l'acqua.
+
+	|78.~  finch@e ciascuna di esse fa mucchio (il verbo @e su
+|bica~, covone di grano) sul fondo, si raggroppa nel fango (per
+mimetizzarsi).
+
+	|79.  distrutte~: vinte dalla paura.
+
+	|80-81.  un~... |Stige~: uno che, camminando,
+attraversava la palude Stigia.  -- |piante~: dei piedi.
+
+	|82.  rimovea~: allontanava.  -- |grasso~: denso di
+esalazioni.
+
+	|83.~  passandosi spesso davanti la mano sinistra.
+
+	|84.~  e sembrava affaticato (|lasso~) solo per quel
+fastidio (|angoscia~).
+
+	|85.  da~... |messo~: inviato dal cielo.  @E appunto
+l'aiuto divino auspicato e atteso da Virgilio, il Messo celeste,
+da identificare certo con angelo.
+
+	|87.  inchinassi~: mi inchinassi.
+
+	|90.  che~... |ritegno~: in modo tale che non vi trov@o
+alcuna resistenza.
+
+	|91.  del~: dal.  -- |dispetta~: disprezzata, spregevole.
+
+	|93.~  di dove (viene) questa tracotanza di cui vi
+compiacete?
+
+	|94.  voglia~: volont@a di Dio.
+
+	|95.  non~... |mozzo~: non pu@o mai essere impedito
+(|mozzo~ <mozzato>) il successo.
+
+	|96.  v'ha~... |doglia~: ha reso pi$u pesante il vostro
+dolore (di esclusi dal cielo).
+
+	|97.  ne~... |cozzo~: cozzare contro i de creti divini
+(|fata~, neutro plurale passato al femminile).
+
+	|98.  vi ricorda~: vi rammentate.
+
+	|99.  ne~: a causa di questa presunzione.  -- |pelato~:
+spelacchiato.  Allude al vano tentativo di Cerbero per opporsi
+alla fatale discesa di Ercole: l'eroe lo incaten@o, come narra
+^Virgilio~ (e D. qui immagina che il guardiano dell'Ade porti
+ancora i segni visibili di quella umiliazione).
+
+	|100.  la~... |lorda~: il passaggio fangoso dello Stige.
+
+	|101.  f$e motto~: fece parola.  -- |f$e sembiante~: mostr@o
+l'atteggiamento.
+
+	|102.  cui~... |morda~: che tutt'altro pensiero occupi e
+stimoli (in questo caso, il desiderio di ritornare in Paradiso).
+
+	|104.  inver' la terra~: verso la citt@a.
+
+	|105.  appresso~: dopo.  -- |sante~: dell'angelo, del
+Messo celeste.
+
+	|106.  li~: vi.  -- |guerra~: opposizione, resistenza.
+
+	|107.  di~... |disio~: desiderio di osservare.
+
+	|108.~  la natura dei peccatori e delle pene contenuti
+nella fortezza di Dite.
+
+	|109.  l'occhio~... |invio~: lascio spaziare lo sguardo
+da ogni parte.
+
+	|110.  ad ogne man~: a destra e a sinistra.
+
+	|111.  duolo~: lamenti di dolorea.  -- |rio~: atroce.
+
+	|112.  Arli~: Arles (in Provenza).  -- |Rodano stagna~:
+il fiume Rodano sbocca nel mare col suo delta paludoso.
+
+	|113.  Carnaro~: Quarnaro, golfo tra l'Istria (sulla cui
+punta si trova Pola) e la Dalmazia.
+
+	|114.  termini~: confini.
+
+	|115.  sepulcri~: sepolcreti, necropoli romane (oggi in
+gran parte scomparse).  -- |varo~: vario, accidentato.
+
+	|117.  'l modo~: la condizione, l'aspetto (di questi
+sarcofaghi infernali).  -- |amaro~: molesto, crudele.
+
+	|118.  avelli~: tombe.  -- |sparte~: sparse, disposte.
+
+	|119.  accesi~: incandescenti, arroventati.
+
+	|120.~  che nessuna tecnica o opera (di fabbro) richiede
+ferro pi$u rovente.
+
+	|121.  sospesi~: sollevati.
+
+	|122.  duri~: dolorosi, strazianti.
+
+	|123.  offesi~: tormentati.
+
+	|124.  quai~: quali, chi.
+
+	|125.  arche~: sarcofaghi, tombe.
+
+	|127.  eres,iarche~: fondatori di sette religiose capi
+eretici.
+
+	|129.  carche~: cariche, piene (di dannati).
+
+	|130.~  Gli appartenenti alle singole sette stanno
+sepolti insieme.
+
+	|131.  monimenti~: monumenti, sepolcri.  -- |pi$u e men~:
+secondo la gravit@a dell'eresia.
+
+	|132.  a~... |destra~: verso il lato destro.  Alla regola
+(dell'andare verso sinistra) faranno eccezione solo un'altra
+volta, entrando nel regno della frode.
+
+	|133.  mart$iri~: le tombe stesse, strumenti di pena.  --
+|spaldi~: spalti (e per sineddoche: <mura>).

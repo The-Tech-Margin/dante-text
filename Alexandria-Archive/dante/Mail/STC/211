@@ -1,0 +1,73 @@
+Return-Path: kirk@Princeton.EDU
+Received: from Princeton.EDU (postoffice.Princeton.EDU [128.112.129.120])
+	by avalon.Dartmouth.EDU (8.9.3/8.9.1) with ESMTP id SAA22229
+	for <steve@avalon.Dartmouth.EDU>; Wed, 19 Jan 2000 18:07:56 -0500 (EST)
+Received: from mailserver.Princeton.EDU (mailserver.Princeton.EDU [128.112.129.65])
+	by Princeton.EDU (8.9.3/8.9.3) with ESMTP id SAA17998;
+	Wed, 19 Jan 2000 18:08:01 -0500 (EST)
+Received: from princeton.edu (magritte.Princeton.EDU [128.112.224.15])
+	by mailserver.Princeton.EDU (8.9.3/8.9.3) with ESMTP id SAA04985;
+	Wed, 19 Jan 2000 18:08:00 -0500 (EST)
+Sender: kirk@phoenix.Princeton.EDU
+Message-ID: <388643D0.AE864CB0@princeton.edu>
+Date: Wed, 19 Jan 2000 18:08:00 -0500
+From: Kirk Alexander <kirk@Princeton.EDU>
+Organization: Princeton University SEAS/MECA
+X-Mailer: Mozilla 4.7 [en] (X11; U; IRIX 6.5 IP22)
+X-Accept-Language: en
+MIME-Version: 1.0
+To: "Robert J. Brentrup" <Robert.J.Brentrup@Dartmouth.EDU>
+CC: bobh@Princeton.EDU, steve@avalon.Dartmouth.EDU
+Subject: Re: DDP troubles
+References: <28186697@vixen.Dartmouth.EDU>
+Content-Type: multipart/mixed;
+ boundary="------------58F6E9CDD7934385245028FF"
+
+This is a multi-part message in MIME format.
+--------------58F6E9CDD7934385245028FF
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+You should now be set to use Steve Campbell's
+Dante account here at Princeton.  Try the URL
+again and enter
+SteveCampbell   as the username
+qwerty          as the password.
+Note that the name is case sensitive
+-- 
+Kirk Alexander,
+Manager                                                   
+Multimedia Engineering Computation Atelier (MECA)
+School of Engineering and Applied Science
+E-430 Engineering Quadrangle
+Princeton University
+Princeton, N.J. 08544-5263
+(609) 258-5420 (tel)
+(609) 258-6744 (fax)
+kirk@princeton.edu (email)
+http://www.princeton.edu/~kirk
+--------------58F6E9CDD7934385245028FF
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="kirk.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Kirk Alexander
+Content-Disposition: attachment;
+ filename="kirk.vcf"
+
+begin:vcard 
+n:Alexander;Kirk
+tel;fax:497-0247 home
+tel;work:609.258.4609
+x-mozilla-html:FALSE
+url:http://gis.princeton.edu/costi/
+org:Multimedia Engineering Computation Atelier;School of Engineering and Applied Science
+version:2.1
+email;internet:kirk@princeton.edu
+title:GIS Specialist
+adr;quoted-printable:;;E430 E-Quad=0D=0ASEAS- MECA=0D=0APrinceton University;Princeton;NJ;08544;US
+x-mozilla-cpt:;0
+fn:Kirk Alexander
+end:vcard
+
+--------------58F6E9CDD7934385245028FF--
+

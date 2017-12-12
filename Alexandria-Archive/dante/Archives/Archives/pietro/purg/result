@@ -1,0 +1,341 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Pietro
+	Language   = Latin
+	Pub. Year  = 1340
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14391 Mar 21 21:23 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8046 Mar 21 21:23 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8758 Mar 21 21:23 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12817 Mar 21 21:23 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        4140 Mar 21 21:23 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       18761 Mar 21 21:24 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        8435 Mar 21 21:24 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14127 Mar 21 21:24 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       21482 Mar 21 21:24 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9586 Mar 21 21:24 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6378 Mar 21 21:24 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13412 Mar 21 21:25 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9715 Mar 21 21:25 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       13390 Mar 21 21:25 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/purg/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12034 Mar 21 21:25 ../staging/purg/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14688 Mar 21 21:25 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7733 Mar 21 21:25 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9308 Mar 21 21:26 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7910 Mar 21 21:26 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/purg/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14966 Mar 21 21:26 ../staging/purg/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9604 Mar 21 21:26 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       16536 Mar 21 21:26 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/purg/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        4784 Mar 21 21:26 ../staging/purg/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7309 Mar 21 21:27 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/purg/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       22170 Mar 21 21:27 ../staging/purg/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 26.f into ../staging/purg/26.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        6032 Mar 21 21:27 ../staging/purg/26
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       14474 Mar 21 21:27 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        7151 Mar 21 21:27 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       12997 Mar 21 21:28 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante        9946 Mar 21 21:28 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       11723 Mar 21 21:28 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       11433 Mar 21 21:28 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Pietro...
+Verifying Pietro...
+
+No Verification Errors.
+-rw-r--r--  1 dante       11133 Mar 21 21:29 ../staging/purg/33

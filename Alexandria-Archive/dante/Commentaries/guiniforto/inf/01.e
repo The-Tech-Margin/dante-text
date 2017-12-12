@@ -1,0 +1,581 @@
+	|Canto primo dello Inferno, ove si tratta come, trovatosi
+Dante in una selva ed impedito da tre fiere a montar un colle,
+trova Virgilio quale lo consigli@o e diedesegli per sua guida.~
+
+	|Proemio al Poema.~  Dante distingue la sua ^Commedia~ in
+tre cantiche: nella prima ei si finge aver veduto nell'Inferno la
+punizione de' viziosi: nella seconda, nel Purgatorio, la
+purgazione de' penitenti: nella terza, nel Paradiso, la
+premiazione de' virtuosi.  La prima cantica chiamata ^Inferno~,
+la qual contiene trenta quattro canti, @e distinta in due parti
+principali.  La prima parte proemiale contiene la cagione per la
+quale fu indotto Dante a fare il cammino da lui descritto in
+questa commedia, ed esso si dispone al camminare.  Nella seconda
+parte, la quale comincia nel terzo canto: ^Per me si va~ etc.
+descrive Dante la sua entrata nell'Inferno e le cose ch'ei vi ha
+veduto.  La prima parte contiene due canti: nel primo canto,
+quasi introduzione di tutta la commedia, recita il nostro autore
+a qual punto ci si trov@o condotto, onde gli fosse mestieri per
+consiglio di Virgilio discendere all'Inferno, ed ancora a fine di
+acquistar benivolenza ei mostra che si sia mosso a scrivere di
+questa sua andata per comunicare con tutto il bene, ch'ivi ha
+trovato.  Nel secondo canto si dispone Dante, e da Virgilio @e
+confortato a pigliare il suo cammino senza paura.  E volendo egli
+scriver di tal cosa, perocch@e la impresa gli par difficile, fa
+una invocazione secondo usanza poetica.
+
+	|Proemio al Canto I.~  Nel primo canto Dante a nostra
+moral instruzione si finge, che essendo nel mezzo della vita
+umana si trov@o nella oscura selva de' vizi, desviato dalla via
+dritta di virt@u, la qual conduce in patria superna; onde tutto
+affannoso cercandone di uscire arriv@o al pi@e del colle de' mirti
+al quale si finiva quella valle di miseria.  E qu@i vide nella
+cima del colle relucer il sole della grazia e fruizione di Dio, e
+confortato adunque, ed alquanto riposato cominci@o a montare
+donandosi alla vita virtuosa.  Ma qu@i tre crudeli e ferocissime
+bestie, cio@e tre vizi, concupiscenza di carne, concupiscenza
+d'occhi e superbia di vita gli furono al contrasto in modo, che
+si lasciava ridurre ancora al luogo basso, ed alle tenebre del
+peccare, se Virgilio, cio@e, se il giudicio buono della potenza
+ragionevole dell'anima, non gli avesse donato soccorso
+confortandolo al montare, e mostrandogli esser da tenere altro
+cammino.  Al qual cammino Dante accett@o quel buon consigliere per
+sua guida.  Questa @e la sommaria sentenza del primo canto, per la
+quale possiamo comprender la ragione, che ha indotto Dante a
+discender nell'Inferno, per considerazione cio@e della orribilit@a
+de' vizi, e delle pene convenienti a quelli: a passar per lo
+Purgatorio, per investigazion del modo di purgazione: a salir in
+Paradiso, per contemplazione della gloria superna.  Tutto questo
+ha fatto per montare, o per mostrare a noi la via di montare il
+dilettoso monte di virt@u, al quale non pu@o altramente, che per
+tal considerazione ben montar l'uomo, che sia usato nella valle
+de' peccati.  E secondo il modo di proceder in questo canto
+possiamo congruamente distinguerlo in quattro parti principali. 
+Nella prima recita Dante, com'ei si trov@o nella selva: nella
+seconda, com'ei si trov@o al pi@e di un colle ove prese riposo
+alquanto: ivi, ^Ma poi che fui.~  Nella terza, come volendo egli
+montare ne fu impedito: ivi: ^Et ecco quasi.~  Nella quarta si
+contiene come egli ebbe soccorso da Virgilio: ivi: ^Mentr'io
+ruinava.~
+
+	|1-3.  Nel mezzo del cammin~ etc.: Ora venendo al testo;
+per due cagioni possiamo dire, che Dante descrive il tempo, nel
+quale ei si riconobbe aver desviato dalla via diritta, secondo
+che in due modi si ponno intender quelle parole: ^Nel mezzo del
+cammin~ etc.: onde per evidenza di questo dobbiamo sapere, che in
+un modo si chiama mezzo solamente quello, che dista egualmente
+dalli estremi, ed in altro modo si chiama mezzo tutto ci@o che si
+comprende intra li estremi.  Intendendo noi adunque il testo di
+Dante nel primo modo diremo: nel mezzo del cammin di nostra vita,
+cio@e nella et@a circa di trentacinque anni, perocch@e li
+settant'anni son reputati esser comune misura della vita umana,
+secondo che appare per esperienza.  E cos@i intendendo, dico, che
+Dante ha descritto questo tempo, acciocch@e pi@u credibile appaia
+il suo riconoscimento, dicendo egli, che si sia riconosciuto
+nella et@a di trentacinque anni, nella qual essendo gi@a assai
+refrigerato il fervore delle sensualit@a giovenili, e cominciando
+a valere il giudicio della ragione, non @e tanto difficile
+all'uomo rittrarsi dalla mala vita, quanto sarebbe stato in et@a
+pi@u giovenile per poco vigor di ragione.  Ancora non @e tanto
+difficile correggersi in quella di trentacinque anni, quanto
+sarebbe dippoi in et@a pi@u provetta, perocch@e quanto pi@u l'uomo
+invecchia nei vizi, tanto gli @e maggior difficolt@a partirsi da
+quelli contrastando la mala usanza.  Per altro modo, intendendo
+esser mezzo ogni tempo fin alla estremit@a della morte, possiamo
+esporre il testo: |nel mezzo del cammin di nostra vita~, cio$e
+innanzi che fosse venuto il tempo della morte.  E cos@i troviamo
+esser detto nel canto quindicesimo, ove dice: ^Mi smarri' in una
+valle Avanti che l'ora mia fosse piena.~  Or, vedute queste due
+sposizioni belle e buone, seguitiamo la sposizione del testo. 
+Nel mezzo del cammin di nostra vita mi ritrovai in una selva
+oscura, cio@e nello stato vizioso il qual si pu@o chiamar selva, e
+dice, ch'ella era oscura, perocch@e il vizio offusca la mente
+dell'uomo e lo fa viver in oscurit@a, sicch@e non vede ove vada, n@e
+considera quanto bene ei lascia ed in quanto male ei s'inviluppa. 
+Dice adunque, mi ritrovai in una selva oscura, e soggiunge, come
+si trov@o in questa selva, perocch@e la diritta via era smarrita. 
+E questo dice, poich@e dovendo camminare per lo illuminato monte
+di virt@u, il qual dritto conduce al termine di felicit@a umana,
+egli aveva tenuto suo cammino per la selvaggia ed oscura valle
+de' vizi.  E nota, ch'ei non dice aver perduta la via, sicch@e ad
+essa tornar non potesse, ma dice smarrita, quasi a tempo perduta. 
+
+	|4-9.~  Susseguentemente volendo il nostro autore
+descriver qual era questa selva mostra prima, che questo gli sia
+difficile, e dice con sospiri: ah!  quanto @e cosa dura a dire
+qual'era esta, cio@e questa selva selvaggia, cio@e salvatica, ed
+aspra e forte, che rinnova la paura nel pensiere, cio@e pur al
+solo pensare.  E quanta sia questa paura lo mostra dicendo: tanto
+@e amara questa paura, che poco pi@u amara @e la morte.  E per
+questo possiamo estimare quanto doveva esser la sua paura, quando
+ei si conobbe esser in quella selva.  Ma potrebbono dir alcuni;
+se questa paura la qual si rinnuova nel pensare, ovvero, se la
+ricordanza di questa selva @e tanto amara come tu la fai, o Dante,
+perch@e adunque vuoi tu scriver, e ricordarti delle cose che tu vi
+hai vedute?  Assegna ei la cagione dicendo: amara @e questa paura
+nel pensare, ma per trattare, ad instruzione di ogni uomo, del
+bene, che io vi trovai, qual fu il risguardamento de' raggi del
+sole sopra il monte, lo avvenimento e lo ammaestramento di
+Virgilio, e molte altre cose gioconde, ed utili a sapere, le
+quali egli ha trovato per aver conosciuto nella selva il suo
+smarrimento dalla via dritta, or per trattare di questo bene dir@o
+dell'altre cose amare e terribili, ch'io vi ho scorte, cio@e
+conosciute, qual fu lo impedimento di quelli tre fieri animali;
+le pene dello Inferno, ed ancora del Purgatorio; la miserabile
+condizione umana, ed altre simili cose, delle quali si tratter@a
+in questa opera, e tutto pur a nostra instruzione.  E per questo
+parlare merita il nostro autore d'acquistare la benivolenza di
+ciascuno verso di s@e, perocch@e vuol sostener amaritudine di
+questa ricordanza per comunicare con noi del bene che vi ha
+trovato.
+
+	|10-12.~  Descritta la qualit@a di questa selva vuol Dante
+quietare la mente di molti, li quali si potrebbono maravigliare,
+com'ei si disviasse dalla via diritta, ed entrasse in quella
+selva, ond'ei si scusa, e dice: in su quel punto, che abbandonai
+la verace via, io era tanto pien di sonno, ch'io non so ben
+ridire, com'io v'entrai in questa selva.  Altramente possiamo
+esporre dicendo: in su quel punto io era tanto pien di sonno,
+ch'io abbandonai la verace via, e vennimi ad inviluppare in
+questa selva.  E questa similitudine del sonno molto
+convenevolmente conduce il nostro autore a proposito, perocch@e
+l'uomo, poich@e @e venuto ad anni di discrezione, mettendo prima il
+suo pensamento a quelle cose, le quali si offeriscono alla mente,
+poi cominciando sentir dilettazione in tal pensamento,
+successivamente cascando in concupiscenza, e desiderio delle cose
+pensate, fermando la intenzione a voler tali cose adempiere,
+mettendovi opera per adempierle, e finalmente adempiendole,
+frequentandole, e da una concupiscenza nell'altra passando, cos@i
+di passo in passo abbandona la verace via di viver bene, e
+s'inviluppa nella selva de' vizi, quasi non avvedendosene, a
+similitudine di ci@o, ch'esperimentiamo nel sonno, dal qual tutti
+ci lasciamo occupare, e non ci avvediamo in qual modo.
+
+	|13-18.  Ma poi ch'io fui a pi@e d'un colle~: In questa
+seconda parte principale del primo canto Dante, riconosciutosi
+esser nella selva di vita viziosa camminando per uscirne, arriv@o
+al pi@e del colle di virt@u, il quale nella cima era illuminato da'
+raggi, e fruizione di Dio, sole di giustizia, ove alquanto
+riconfortato, e riposato cominci@o a montar questo colle. 
+Continua adunque il nostro autore il parlar suo, e comincia a
+narrare le cose ch'egli ha vedute: gi@a ho detto, ch'io mi trovai
+in una selva oscura, e ch'io non so ben ridire, com'io v'entrai,
+ma ben sapr@o dire, come son uscito fuori, e qu@i comincia dirlo:
+Poi ch'io fui giunto, ch'io fui arrivato a pi@e di un colle, di un
+monte, l@a dove, cio@e al qual monte si terminava quella valle
+selvaggia, che mi avea compunto il cuor di paura, secondo che
+abbiamo veduto di sopra; or, poich'io fui giunto a pi@e di questo
+colle, io, il quale prima era stato in tenebre, guardai in alto e
+vidi le spalle sue di quel colle vestite gi@a, cio@e la cima sua
+gi@a illuminata de' raggi del pianeta, che mena dritto altrui per
+ogni calle, per ogni via.  E questo pianeta @e il sole nel lume
+del quale ciascuno vede, ove mena li piedi, e per questo mostra,
+che era gi@a venuto d@i.
+
+	|19-21.~  Veduto, ch'io ebbi questo, allora, nascendomi
+speranza di uscir di questa valle, fu un poco queta, un poco
+cess@o, la paura che mi era durata nel lago, nel profondo del
+cuore la notte precedente, ch'io passai con tanta pieta
+trovandomi nella selva, com'@e detto di sopra, e non vedendo la
+via di uscirne.
+
+	|22-27.  E come quei, che con lena affannata~: Dante usa
+qu@i di una comparazione da se ad uomo naufrago, il qual essendo
+data a traverso e pericolata la nave per fortuna, campa e viene
+alla riva.  Continuando adunque dice Dante: allor fu la paura mia
+un poco quieta, e come quei, cio@e, come accade ad uomo naufrago,
+che con lena affannata, con lo anelito affannato, sbuffando
+uscito fuor del pelago, fuor del mar alla riva, si volge
+all'acqua perigliosa e guata, cio@e guarda quell'acqua
+considerando il gran pericolo dil quale @e campato; cos@i l'animo
+mio, che ancora per paura fuggiva dal pericolo di sopra detto, si
+volse, si volt@o a rietro a rimirar lo passo, che non lasci@o
+giammai persona viva.  Poeticamente esponendo possiamo dire, che
+Dante il quale fingeva esser andato all'Inferno, dove secondo
+verit@a non and@o mai persona viva, ora comincia a mostrare,
+ch'egli abbia gi@a passato quel passo che varcano gli altri morti. 
+Possiamo ancora altramente dire, che Dante mostra aver passato
+questo passo ad imitazione di Virgilio nel sesto libro della
+^Eneida~, il qual finge, che Enea, avanti ch'entrasse
+nell'Inferno, trov@o un lago tanto pestilente, che sopra esso non
+poteva passar anima con vita.
+
+	|28-30.  Poi ch'ebbi riposato~: Continuando Dante il suo
+parlare dice: quietata un poco quella paura, poi ch'ebbi riposato
+il corpo lasso, per fatica ed amaritudine stanco; cio@e
+moralmente, poich@e la mente tutta commossa si quiet@o, e si
+raccolse in se medesima, io ripresi via, presi nuovo modo di
+viver non pi@u per la selva, ma per la piaggia diserta del monte,
+la quale a moral intelletto ben si pu@o chiamar diserta, perocch@e
+pochi si trovano, che facciano per quella piaggia lor passaggio,
+lasciando la valle de' vizi, e montando a virt@u.  Piaggia
+propriamente si chiama la ripa del mare, o d'altr'acqua, la qual
+ripa non sia molto elevata a modo che tagliata, ma sia spaziosa,
+e qu@i era una tal ripa di una fiumara, la quale discorreva per la
+valle secondo che vedremo nel secondo canto.  Or io presi via per
+questa piaggia montando s@i, che il pi@e fermo era il pi@u basso. 
+Questo dice, perocch@e quando l'uomo monta di passo in passo
+rimane pi@u basso il pi@e sul quale si ferma tutta la persona, e
+l'altro pi@e monta, il quale @e in movimento: per lo contrario al
+dismontare pi@u alto rimane il pi@e fermo, e l'altro dismonta.
+
+	|31-36.  Et ecco, quasi al cominciar dell'erta~: In
+questa terza parte principale del primo canto, attendendo Dante a
+quel detto della scrittura sacra: ^Omne quod est in mundo aut est
+concupiscentia carnis, aut concupiscentia oculorum, aut superbia
+vitae~, recita a nostra instruzione, come fu impedito montare
+all'altezza di virt@u da tre bestie fiere, cio@e da una lionza, la
+quale rappresenta la lussuria, da un lione il quale significa
+superbia, e da una lupa la quale importa avarizia.  Prima adunque
+continuando il parlar suo Dante dice: ed ecco quasi al cominciar
+dell'erta cio@e al mio cominciar del montare per l'erta, mi venne
+all'incontro una lionza leggiera e molto presta, ch'era coperta
+di pel maculato, e questa lionza non mi si partiva dinanzi al
+volto, anzi impediva tanto il mio cammino, cio@e il mio montare,
+che fui pi@u volte per ritornare volto, cio@e voltato a rietro. 
+Testualmente intendendo, questa lionza @e la femmina del lupo
+cerviere, alla quale convengono tutte le qualitati qu@i poste nel
+testo.
+
+	|37-43.  Temp'era dal principio del mattino~: Qu@i mostra
+Dante, come sperava di vincer questa lionza, e far suo cammino,
+ma altro impedimento gli sopraggiunse di un leone, e di una lupa. 
+Dice adunque: tempo era dal principio del mattino, e il sol
+montava su con quelle stelle, ch'eran con lui, cio@e montava il
+sole, essendo in quel segno del zodiaco, nel qual cominci@o suo
+corso, quando l'amor divino, quando Dio da prima, dal principio
+della creazione del mondo, mosse quelle cose belle, cio@e li
+Cieli, e li pianeti.  E per questo conosciamo ch'era il principio
+della primavera, essendo il sole nel segno dell'Ariete.  Era
+dunque il tempo gi@a detto, sicch@e l'ora del tempo, cio@e l'ora
+mattutina, nella qual ora sopravvenendo il giorno li feroci
+animali usati a ritornare alle loro spelonche perdono assai di
+loro ferocit@a, come per esperienza si vede nei lupi, ed era la
+dolce stagione del tempo della primavera.  Tal ora dico, e tal
+stagione m'erano cagion di ben sperare la gaietta, cio@e vaga e
+bella pelle di quella fiera, di quella lionza della quale Dante
+non avrebbe potuto aver la pelle, che non avesse vinta, e
+scorticata la bestia.
+
+	|44-48.  Ma non s@i, che paura non mi desse~: Qui si
+manifesta il secondo impedimento, il qual ebbe Dante nel montare. 
+Continuando adunque dice: l'ora, e la dolce stagione mi faceva
+bene sperare; ma non s@i, in tal modo, che paura non mi desse la
+vista di un lione che mi apparve.  Questi, cio@e questo lione
+pareva, che venesse, cio@e venisse contra me con la test'alta,
+con grande audacia, e con rabbiosa fame, con grande appetito di
+nuocermi s@i che pareva che l'aere ne tremesse per lo grande
+impeto suo, il quale aveva a commuover l'aere circa di se.
+
+	|49-54.  Et una lupa, che di tutte brame~: Qui si
+manifesta il terzo impedimento pi@u forte, che gli altri.  In
+alcuni libri il testo dice: ^E di una lupa~, nel qual modo la
+continuazione @e chiara.  Altri libri hanno: |Et una lupa~ ed in
+questo modo diremo; ed una lupa, oltre le due sopradette fiere,
+mi apparve, che nella sua magrezza sembiava, appariva esser carca
+di tutte brame, cio@e tutta bramosa, caricata e piena
+d'ingordigia, la qual lupa gi@a fece viver grame molte genti. 
+Questa lupa con la paura che usciva di sua vista mi porse tanto
+di gravezza, ch'io perdei la speranza dell'altezza, perdei la
+speranza di montar in alto.
+
+	|55-60.  E qual'@e quei, che volentieri acquista~: Qu@i usa
+Dante di una comparazione dicendo: che a lui occorse, come a uomo
+cupido di guadagnare, il qual nel tempo di perdita si attrista, e
+piange.  Continuando adunque dice: e la bestia senza pace, cio@e
+la lupa, il vizio d'avarizia, che venendomi incontro mi
+ripingeva, cio@e mi faceva tornare a rietro a poco a poco l@a dove
+il sol tace, cio@e alla profonda valle, ed oscura selva de' vizi,
+ove non luce il sole di verit@a, e di giustizia nella mente de'
+viziosi.  Or questa bestia mi fece tale, qual @e quei che
+volentieri acquista, e cercando di acquistare giunge al tempo,
+che li face, che gli fa, e in che gli bisogna perdere, che in
+tutti, cio@e il qual uomo in tutti i suoi pensieri piange, e
+s'attrista del guadagno, che gli fugge dalle mani, e della
+perdita che sostiene.  E per questo moralmente mostra Dante, che
+tentato da questi tre vizi di lussuria, di superbia e di
+avarizia, lasciando la via di virt@u, e per fragilit@a ritornando
+alla viziosa vita, ei si tristava, e doleva, che non gli
+bastasser le forze dell'animo per resister alle tentazioni,
+ond'ei merit@o di trovare grazioso conforto, buon consiglio, e
+possente aiutorio, del quale seguita nel testo.
+
+	|61-66.  Mentre ch'io ruinava in basso loco~: In questa
+quarta parte principal del primo canto si contiene, come gi@a
+ruinando Dante dal monte di virt@u al luogo basso de' vizi se gli
+offerse innanzi agli occhi Virgilio, cio@e lo natural giudicio di
+ragione, il qual @e delle cose operabili, e praticabili dall'uomo
+e questo lo riconfort@o al montare, e, donandogli a conoscere la
+qualit@a di quel vizio che lo impediva, gli diede consiglio, che
+altro cammino era da tenere, ed oltra di questo se gli proferse a
+suo aiutorio e guida.  E per questo abbiamo noi a distinguere
+questa parte principale in tre particelle: nella prima Dante
+trova Virgilio, che lo conforta a montare: nella seconda, ivi: ^A
+te conviene~, Virgilio dona consiglio assai in generale a Dante,
+ed assegna la ragione del suo consiglio: nella terza, ivi:
+^Ond'io per lo tuo me'~, Virgilio particolarmente manifestando la
+via ch'@e da tenere secondo il suo consiglio fa proferta di se
+medesimo ad esser guida in aiuto di Dante.  Nella prima parte,
+tornando addietro Dante per lo impedimento della lupa, ei si vide
+uno innanzi agli occhi, e gli dimand@o aiuto.  E qu@i s'introduce
+alcuno bel parlare, ch'ebbero insieme ambedue per conforto di
+Dante.  Continuando adunque dice Dante: mentre io ruinava in
+basso luogo, cio@e alla valle de' vizi, si fu offerto innanzi agli
+occhi miei uno, che per lungo silenzio, per aver lungamente
+taciuto pareva fioco, cio@e rauco, e non aver la voce chiara, o
+veramente la pareva aver fievole, secondo che accade a chi molto
+tempo sta senza parlare.  Or, quando vidi costui nel gran
+deserto, ove non era abitacolo, n@e uomo alcuno, io, non sapendo
+chi ei fosse, pur gridai a lui: miserere di me, qual che tu sia,
+o ombra, cio@e anima apparente, o uomo certo, o uomo vero. 
+Costui, che si offerse dinanzi agli occhi di Dante fu Virgilio
+dal quale si finge Dante esser consigliato di tutto il cammino,
+ch'egli aveva a tenere, e guidato parto Inferno, e Purgatorio, e
+non pi@u in l@a, ch@e poi fu guidato dalla Beatrice.  Onde per
+morale intelligenza di tutta questa parte principale la qual
+vediamo esser molto poetica, dobbiamo sapere, che Virgilio
+significa la ragion naturale pratica mediante la quale pu@o l'uomo
+venire in cognizione delle cose da se operabili.  Virgilio dunque
+conduce Dante per lo Inferno, e per lo Purgatorio, perocch@e
+ragion naturale basta ad intender la turpitudine del vizio, e ad
+averlo in abominazione, e basta ancora ad intender il modo di
+correzione, ed a riformare in meglio la vita attiva; ma non basta
+ragion naturale a montare in Paradiso, ed intender quelle cose
+sopranaturali della Trinit@a, e molte altre cose: ed oltra di
+questo non sarebbe stato convenevole finzione, che Virgilio
+infedele fosse entrato in Paradiso, ove bisogna entrar per fede
+con aiuto di sacra teologia sotto guida, e scorta della Beatrice. 
+Ed a Virgilio piuttosto che ad altri ha voluto Dante attribuir
+questa rappresentazione, perocch@e da Virgilio ha preso Dante lo
+bello stile, ed ancora il principio, e fantasia di compilare
+questa sua opera sotto cotal finzione.
+
+	|67-75.  Risposemi: non uomo, uomo gi@a fui~: Dimandato ha
+Dante soccorso a Virgilio non sapendo per@o chi ei fosse: ora
+mette la risposta di Virgilio.  Continuando dunque dice: io
+gridai a lui: o sia tu uomo, o sia ombra, miserere di me, ed egli
+risposemi: Non son uomo: gi@a fui uomo, ed ambedui li parenti miei
+furon Lombardi, Mantuani per patria: nacqui ^sub Julio.~  Questa
+dinumerazione del tempo di sua nativit@a fa Virgilio da Giulio
+Cesare, non perch@e allora gi@a fosse Cesare in tal dignit@a, che si
+dovesser numerare gli anni da lui, ma questo fa per onore di
+Cesare, e per affezione ch'egli aveva al nome suo.  Diremo
+adunque, nacqui ^sub Julio~, cio@e al tempo della vita di Giulio
+Cesare, ancorch@e fosse tardi la mia nativit@a per rispetto di
+Cesare, perocch@e non me gli potei dare a conoscere in vita sua,
+non essendo ancora io in et@a, n@e in buona sufficienza.  E questo
+dice Virgilio dolendosi di quella tardit@a, perocch@e Cesare molto
+onorava li valent'uomini.  Continua poi Virgilio il suo parlar
+dicendo, e vissi, e feci mia vita a Roma sotto il buon Augusto
+Ottaviano imperatore, successor di Giulio Cesare, al tempo delli
+Dei falsi e bugiardi, li quali erano adorati in Roma nanzi la
+cognizione della fede cristiana.  Poeta fui, e cantai di quel
+giusto Enea figliuolo di Anchise, che venne da Troia in Italia,
+poi ch@e il superbo Ilion, la possente citt@a di Troia fu arsa da
+Greci.  Assai @e nota la istoria.
+
+	|76-78.~  Datosi Virgilio a conoscere per molte
+circostanze, per rispetto del suo essere, del tempo della sua
+nativit@a, del luogo di sua abitazione, della professione sua, e
+dell'opera che compose, susseguentemente mosso da misericordia
+conforta Dante facendogli cuore, ed incitandolo per timore del
+male, al quale ei torna, e per desiderio del bene, ch'ei lascia. 
+E dice: ma tu o Dante, perch@e ritorni a tanta noia, quanta @e
+quella, che tu hai gi@a provato nella valle dei vizi?  Perch@e non
+sali, perch@e non ascendi al dilettoso monte di virt@u, ch'@e
+principio, e cagion di tutta gioia?  Perocch@e il viver
+virtuosamente conduce l'uomo a felicit@a.
+
+	|79-87.  Oh!  se' tu quel Virgilio~: Qu@i si contiene,
+come Dante per le circostanze sopradette conobbe, che costui era
+Virgilio, ed acquistando benevolenza da lui assegna la cagione
+del suo ritornare in luogo basso, e dimandagli aiuto. 
+Continuando adunque, dice: io con vergognosa fronte risposi a
+lui: oh!  se' tu quel Virgilio, e quella fonte, che spande cos@i
+largo fiume di parlare, che hai tanta eloquenza nelle tue opere,
+e specialmente nella ^Eneida?~  Poi lo prega dicendo: o onor e
+lume degli altri poeti vagliami il lungo studio, e il grande
+amore che mi ha fatto cercare il tuo volume, il tuo libro, e
+massime della ^Eneida.~  Tu sei il mio maestro, e il mio autore:
+tu solo sei colui, da cui io tolsi lo bello stile, e modo di
+dire, che mi ha fatt'onore.  E questo dice Dante, perch@e
+studiando nelle opere di Virgilio eccellentissimo poeta, prese
+anch'ei lo bello stile di dire.
+
+	|88-90.~  Susseguentemente Dante riferendosi a quello che
+disse Virgilio; ^ma tu perch@e ritorni~ etc., fa una petizione e
+dice: vedi la bestia, vedi la lupa, attendi al vizio
+dell'avarizia per cui mi volsi, mi voltai a rietro a peccare:
+aiutami da lei famoso saggio, cio@e savio di gran fama.  Alcuni
+libri hanno ^famoso e saggio~, ed in questo modo diremo, che non
+basta dire famoso, perocch$e la fama alcuna volta @e falsa, e per@o
+aggiunge e saggio: aiutami dico, perocch@e ella mi fa di paura
+tremare le vene, ed i polsi.
+
+	|91-99.  A te convien tener altro viaggio~: In questa
+particella si contiene il consiglio di Virgilio.  Continuando
+adunque dice Dante: poich@e Virgilio mi vide lacrimare, mosso da
+piet@a s@i mi rispose: a te convien tener altro viaggio, che
+questo, che tu tieni, se vuoi campar, se tu vuoi uscir d'esto, di
+questo luogo selvaggio, da questo diserto bosco e selvaggio, nel
+qual tu sei, ed assegna la cagione, perocch@e quella bestia,
+quella lupa per la quale tu gride non lascia altrui passar per la
+sua via, ma tanto lo impedisce, tanto impedimento gli d@a, che lo
+uccide.  E descrive Virgilio la natura di questa lupa dicendo: e
+questa lupa ha s@i malvagia, e ria natura, malvagia in se, e ria
+quanto ad altri, che non empie mai, non sazia mai la sua bramosa
+voglia, il suo insaziabil appetito, e dopo il pasto, dappoi
+ch'ella @e pasturata ha pi@u fame che pria: viene a dire, quanto
+pi@u mangia, tanto pi@u ha fame.  Il qual parlar di Virgilio a
+moral esposizione riducendo intender si deve del vizio
+d'avarizia, perocch@e di esso pi@u che di altro vizio si era
+lamentato Dante.
+
+	|100-111.  Molti son li animali, a cui s'ammoglia~:
+Prosegue Dante la sua descrizione di questa lupa di avarizia, e
+dice: che a molti animali, a molti uomini bestiali questa lupa si
+congiunge inseparabilmente a modo che mogliere; ed ancora saranno
+pi@u cotali animali a cui si congiunger@a fin a tanto che verr@a un
+Cane, cio@e un uomo di gran virt@u, che caccer@a questa lupa, cio@e
+questo vizio nell'inferno, da onde per invidia venne al mondo. 
+Continuando adunque dice Dante: molti son li animali, cio@e li
+uomini bestiali, a cui si ammoglia questa lupa, cio@e alli quali
+si congiunge inseparabilmente a modo che mogliere, e pi@u saranno
+ancora, infin che verr@a il veltro, cio@e il cane cos@i chiamato,
+che la far@a morir questa lupa con doglia.  Veltro @e una specie di
+cane inimicissimo al lupo, e per@o Dante, secondo che per la lupa
+figura avarizia, cos@i per lo veltro significa il persecutor di
+avarizia.  Di questo veltro descrive Dante le condizioni dicendo:
+non ciber@a terra, n@e peltro etc.  Questa sua descrizione ha fatto
+Dante molto dubbiosa, ed oscura, come quello, che parla di cose
+che hanno a venire.  In molti modi adunque s'intende questo
+veltro, e cos@i la lettera del testo, ed ancora non ho trovato la
+cosa ben chiara e netta.  Ma in un modo forse pi@u di mente
+dell'autor nostro possiamo intender, che questo veltro sar@a un
+principe di somma virt@u, sotto il quale saranno esterminati, e
+scacciati li vizi, e specialmente l'avarizia dal mondo, e
+ciascuno si doner@a a virt@u; ed io credo, che Dante, il quale
+finge qu@i Virgilio parlare, lo faccia parlare, non come
+oblivioso, ma come quello, che ben si ricorda di ci@o che scrisse
+nella quarta Egloga della ^Bucolica~ sua: ^Ultima cumaei venit jam
+carminis aetas~, etc.  Ove disse, che gi@a veniva quella et@a della
+quale aveva parlato la profezia della Sibilla Cumea; gi@a veniva
+quella ragione, e quel figliuolo, sotto il quale cesserebbe la
+et@a ferrea piena di vizi, e ritornerebbe quella prima et@a aurea,
+nella quale non si sapeva, che cosa fosse mio, n@e tuo.  Onde,
+perocch@e gi@a era venuta l'ultima et@a, ma pur non gli pare, che
+sia venuto nel mondo il modo aureo di vivere, convenevolmente qu@i
+significa Virgilio, che tal tempo verr@a.  Esponiamo dunque il
+testo.  In fin che il veltro, in fin che un sant'uomo verr@a, che
+la far@a morir di doglia, cio@e inducendo nella mente degli uomini
+avari doglia, e penitenza del loro peccato.  Seguita nel testo:
+Questi, cio@e questo sant'Uomo non ciber@a terra, n@e peltro, non
+metter@a sua affezione a beni temporali, ma ciber@a sapienza per la
+qual si esclude la ignoranza e cecit@a di mente, ciber@a amore, per
+lo quale si regga, e governi bene verso li sudditi suoi, e verso
+ogni uomo, e ciber@a virtute, per la quale si disponga bene in se
+medesimo ad ogni opra, ed intenzione, e cogitazione buona.  E non
+solamente se medesimo, ma eziandio tutti li suoi ciber@a di tal
+cibo con sante leggi, ed instruzioni, scacciando ignoranza, e
+mostrando la via di ben vivere.  Seguita il testo: e sua Nazion
+sar@a tra Feltro e Feltro, cio@e, come alcuni dicono, nascer@a
+costui in Italia intra la citt@a di Feltro della Marca Trevisana,
+e Montefeltro di Romagnola.  E prosegue: di quella umile Italia
+fia salute, per la qual Italia mor@i di ferute la vergine Camilla,
+e mor@i Eurialo, e Niso, e Turno.  Viene a dire, che questo
+grand'uomo salver@a Roma, che, considerata l'altezza nella quale
+gi@a fu, appare umiliata e venuta s@i basso, e tirannizzata pi@u che
+gli altri paesi.  Conciosiach$e per intelligenza della morte della
+vergine Camilla, e degli altri  qu@i nominati nel testo, dobbiamo
+sapere, che nel principio dell'avvenimento di Enea in Italia,
+promesso ch'ebbe Latino re de' Latini ad Enea per mogliere la sua
+figlia Lavinia, della quale gi@a prima era data speranza a Turno
+re de' Rutuli, fu mossa guerra intra Enea e Turno, pretendendo
+ciascun di loro, Lavinia dover esser sua mogliere, ed in questa
+guerra, secondo i poeti, intra quelli della parte di Enea furon
+morti due Troiani, Eurialo e Niso, compagni molto nominati per la
+grande fede, ch'ebbero insieme; intra gli altri della parte
+contraria fu morta Camilla regina de' Volsci, vergine bellicosa,
+la quale era venuta in soccorso di Turno, ed ancora fu morto in
+successo della guerra il re Turno.  E tutto questo fu per amor di
+Lavinia, alla quale dappoi la morte del padre spettava la
+successione del suo regno situato in quella parte d'Italia, che
+ora @e vicina a Roma di l@a dalla fiumara del Tevere.  Largamente
+si potrebb'estendere questa istoria, chi volesse, ma questo
+basti.  Seguita nel testo: |Questi la caccer@a~, etc.  Alcuni
+vogliono esporre questa lettera in dettrazione de' Prelati
+ecclesiastici la qual esposizione dico non essere onesta.  Onde,
+non specificando pi@u di prelati, come di altri, dico, che Dante
+vuol significare che questo santo Principe esterminer@a il vizio
+di avarizia fuori delle menti umane.  Ed a questo usa Dante di
+poetico parlare, come si puo veder nel testo, il qual @e chiaro
+cos@i testualmente intendendolo.
+
+	|112-123.  Ond'io per lo tuo me'~: In questa particella
+si contiene special consiglio di Virgilio, e proferta d'aiuto,
+cio@e il discreto modo, il quale ha da tenere uomo che voglia
+dalla valle de' vizi transferirsi al dilettoso monte di virt@u,
+perocch@e gli convien dismontar all'inferno, cio@e considerar la
+orribilit@a de' vizi, e le pene condegne a quelli, e da questo
+passare al purgatorio ad emendazione di vita, sicch@e poi non per
+timor servile di tormenti, n$e per speranza mercenaria di premi,
+ma per amor del bene possa entrar nel Paradiso, cio@e venire a
+perfezione di virt@u, e contemplazione di cose alte, e superne,
+alle quali non basti Virgilio, cio@e ragion umana, ma bisogni
+anima pi@u degna di lui, cio@e guida di fede e di teologia. 
+Continuando adunque il parlare di Virgilio diremo: a te convien
+tenere altro cammino, perch@e questa lupa non lascia altrui passar
+per la sua via.  Ond'io Virgilio per lo tuo meglio penso, e
+deliberatamente discerno, che tu mi siegui ed io sar@o tua guida. 
+Donagli ad intender per qual cammino lo mener@a dicendo: e
+trarrotti di qu@i, ove tu sei, per luogo eterno, il quale non avr@a
+mai fine: questo sar@a lo Inferno, ove tu udirai le dispietate
+strida, li pianti e stridori di quelli spiriti antichi fin dal
+principio del mondo dolenti, e cos@i dolenti, che ciascuno grida,
+ciascuno per soperchio dolore chiama ed invoca la seconda morte,
+cio@e per esser fuori di queste pene desideran morire un altra
+volta, ed annichilarsi contro il natural appetito di ogni
+creatura.  Prosegue Virgilio il suo parlare dicendo: e poi che
+avrai udito costoro nell'Inferno, tu vederai nel purgatorio
+coloro che son contenti nel fuoco, cio@e essendo in pene, contenti
+dico, perch@e speran quando che sia, cio@e qualcuna volta finir@a la
+purgazione loro, di venire tra le beate genti del paradiso, alle
+quali genti, se poi tu vorrai salire, io non ti prometto pi@u di
+esser tua guida: ma convien che sia a ci@o tua guida anima pi@u
+degna di me, cio@e la Beatrice: con lei ti lascer@o nel mio partire
+da te.
+
+	|124-129.~  La cagione per cui io non ti posso guidare @e,
+perocch@e quell'imperador che lass@u regna, cio@e Dio, non vuole che
+per me si vegna nella sua citt@a, perch'io fui ribellante alla sua
+legge, non adorando lui uno Dio.  E qu@i assegna Virgilio la
+cagione, perch@e Dio specialmente gli denega entrata in quella
+citt@a, perocch@e ivi @e la sua sedia.  Dice adunque: in tutte parti
+impera e signoreggia, e quivi, cio@e lass@u in cielo regge: quivi
+in cielo @e la sua citt@a, e l'alto seggio, l'alta sedia, della
+quale dolendosi Virgilio esser privato, con sospiri grida: oh! 
+felice colui che Dio elegge ivi a quella citt@a, cio@e felice colui
+che fu eletto, e ricettato da Dio a quella beatitudine.
+
+	|130-135.  Et io a lui: Poeta io ti richieggio~: Qu@i
+Dante, udito il parlar di Virgilio, lo prega e per gran desiderio
+lo scongiura a far quello a che egli spontaneamente si @e
+proferto; onde dice; ed io Dante dissi a lui, a Virgilio: o
+poeta, per quello Dio, per lo vero Dio, che tu non conoscesti
+adorando gl'idoli, io ti richieggio, io ti dimando acci@o che io
+fugga questo male della selva alla quale io ritorno, e peggio,
+cio@e la dannazione eterna, la quale son per incorrere, ti
+richieggio che tu mi meni l@a dove or, cio@e l@a dove pur adesso
+dicesti di volermi menare, sicch'io veggia la porta di San
+Pietro, cio@e la porta del Paradiso, della quale Cristo diede la
+chiave a San Pietro; e veggia ancora coloro che tu fai, che tu
+dici esser cotanto mesti, cio@e tristi e mal contenti
+nell'Inferno.  E qu@i vediamo esser stata la intenzione che mosse
+Dante a far questo viaggio, acci@o ch'ei fugga questo male della
+selva, e peggio ch'era per seguirne.
+
+	|136.  Allor si mosse, et io li tenni dietro~: In questo
+ultimo versetto del canto manifesta Dante, come finito il parlare
+cominciarono il loro cammino.  Dice adunque: allora si mosse
+Virgilio a camminare, ed io li tenni dietro.  E questo basti per
+esposizione del primo canto.

@@ -1,0 +1,555 @@
+	|Proemio.~  Come fu detto nel principio di questa seconda
+cantica, l'Auttore la divide in tre parti, la prima @e
+Antipurgatorio; la seconda parte @e Purgatorio; la terza @e
+Postpurgatorio.  Viene, seguendo sua materia, in questo presente
+capitolo al principio del Purgatorio, et a trattare di quello; et
+per@o che nel precedente capitolo avea narrato come egli era in
+sul fare della sera, dice in questo ch'era presso al giorno: et
+qui vuole mostrare, come ogni altro componitore, che nella sua
+composizione occupi tempo, per@o che operando passa tempo, et
+l'Auttore vuole mostrare ch'egli tenga simile modo a coloro che
+adoperano alcune cose, per fare il suo trattato pi@u addorno et
+pi@u verisimile, et pi@u conformarlo allo intendimento dello
+studente.  Dice addunque che, nel parlare che fece et con
+Sordello, et col giudice Nino, et col marchese Currado, avea
+spesa tanto della notte ch'erono presso alle tre ore, come nella
+sposizione della lettera pi@u apertamente si mostrerr@a: et per
+venire al modo usato alla divisione del capitolo, fa di questo
+presente quattro parti.  Nella prima ei dimostra, come di sopra @e
+detto, l'ora del tempo per tre be' modi di parlare.  Nella
+seconda parte narra una sua visione, la quale egli chiarisce, et
+appresso la conferma con due chiare similitudini.  Nella terza
+parte discrive la porta et la entrata del Purgatorio.  Nella
+quarta et ultima dice che venne a entrare nella detta porta; et
+figura l'abito et la statura del portinaro, et il suo vestimento,
+et la sua autorit@a.  La seconda parte comincia quivi: ^In sogno
+mi parea veder sospesa~ {19}; la terza ivi: ^Lettor, tu vedi
+bene~ {70}; l'ultima quivi: ^L@a ne venimmo allo scaglion~ {94}.
+
+	|1.  La concubina di Titone~: Egli @e qui da sapere che il
+re Trous, avolo di Priamo, ebbe due figliuoli, Laumedonte et
+Titanio: a Laumedonte tocc@o in parte, doppo la morte di Trous, la
+citt@a di Troja et la provincia di Frigia; Titanio, l'altro
+fratello, colla forza del suo padre acquist@o provincia et reame
+nelle parti dell'Oriente: et questo gli tocc@o in parte, et fu re
+et signore di quello luogo.  Ora, per che la mattina si vede
+innanzi al levare del sole biancheggiare que' monti dell'Oriente,
+et questo tale biancheggiare si chiama l'Aurora, ^et dicitur ab
+auro~, per@o che, pi@u appressandosi il sole, hae colore
+propriamente d'oro, pigliavono qui i poeti, et dicevono che
+quella Aurora, per@o che venia da quelle parti che signoreggiava
+Titanio, era sua donna et moglie del detto Titone.  Ora l'Auttore
+fa un'altra fizione, et immagina che, come il sole fa, innanzi al
+suo apparire, biancheggiare i monti, com'@e detto, cos@i la luna,
+venendo ancora dall'Oriente, innanzi ch'ella si lievi, fa una
+altra aurora simile a quella del sole; et questa Aurora della
+luna, chiama l'Auttore concubina di Titanio: per@o che l'Aurora
+del sole @e sua moglie, com'@e detto, convenevolmente si pu@o dire
+quella della luna, ch'@e men bella, essere concubina, ci@o @e amica
+di Titanio.
+
+	|2-3.  Gi@a s'imbiancava~: Com'@e stato narrato nel ^Purg.~
+II, 1-9, l'Aurora si fa innanzi al levare del sole di pi@u colori
+in diversi tempi, ch@e in prima @e bianca, poi @e vermiglia, poi
+rancia; tutto a simile si fa l'Aurora della luna di pi@u colori:
+dice che allora s'incominciava a imbiancare.  |Al balzo~: Ci@o @e
+a' monti d'Oriente.  |Fuor delle braccia~: Ci@o @e di Titanio, che
+era suo amico com'@e detto; et ella uscia fuori delle sue braccia
+ci@o @e del suo paese orientale, il quale egli signoreggiava.
+
+	|4-6.  Di gemme la sua fronte~: Era la luna nel segno
+dello Scorpione, che sono 19 stelle che costituiscono questo
+segno dello Scorpione, la cui natura @e fredda et secca.  Et qui @e
+da sapere che gli astrolaghi figurono le costellazioni del cielo,
+certe in forma umana, come Artifilace, Ercole, Cefeo, Casiopa,
+Andromaca, et Gemini; et altre in figura d'animali, come 'l
+Serpente et l'Orsa, et Scorpione, dello quale si fa ora qui
+menzione; et per@o che, per questo essere la luna in Scorpione, si
+prende il tempo che l'Auttore @e stato in questo viaggio, si @e da
+sapere che la luna va per li dodici segnali del Zodiaco in
+ventinove d@i et ore 12, ci@o @e quel corso che il sole fa in uno
+anno, s@i che l'anno, secondo il sole @e 365 d@i et ore sei; et
+quello della luna @e 354 d@i.  La luna si raccende sempre in quello
+segno ov'ella truova il sole, et sua ragione @e di stare nel segno
+due d@i et due notti et due ore et una mezza ora.  Quando
+l'Auttore cominci@o questo suo trattato era il sole, come pi@u
+volte @e stato detto, in Ariete; et per conseguente la luna era in
+Libra, ch'@e opposita ad Ariete; et ora @e in Scorpio: s@i che
+ell'era stata pi@u di due d@i, due ore et una mezza ora in Libra;
+et ora, levandosi a quella ora della quale appresso si narrer@a,
+era tanto stata in questo secondo segno di Scorpio, che segue
+essere stato l'Auttore in questo suo viaggio intorno di 4 giorni. 
+|Che colla coda~: Com'@e stato narrato, la natura dello Scorpione
+@e fredda et secca.  Et truovasi che lo Scorpione @e di questa
+natura, che quando egli vuole pugnere alcuna cosa, prima colle
+brancucce dinanzi assottiglia la bruccia, et quando l'ha bene
+assottigliata et tirato il sangue di quella parte in pelle, vi
+volge la coda, et con quella coda percuote et pugnie, et per la
+sua freddezza, toccando il sangue, assai volte uccide altrui: et
+questo @e quello che tocca in questa parte l'Auttore.
+
+	|7-9.  Et la notte de' passi con che sale~: Chiosa cos@i
+qui alcuno, che la notte va co' passi suoi verso il suo termine
+come il sole ci@o @e come il d@i; et questi passi vuol dire che
+sieno l'ore che sono 24, fra 'l d@i et la notte, per@o che, come
+dice il Filosofo: ^Tempus est mensura motus~; et a questo modo
+intendendo seguirebbe che, se la notte avea fatti due passi, et
+gi@a il terzo declinava, ch'egli era presso alle tre ore di notte;
+ma quello che pi@u pare conformasi alla intenzione dell'Auttore, @e
+quello che scrive Macrobio che dice, la notte essere distinta in
+sette parti, et questi sono i sette suoi passi.  La prima parte @e
+detta Crepuscolo; la seconda Conticinio; la terza Gallicinio, la
+quale volgarmente si dice primo sonno; la quarta Intempesto; la
+quinta Gallicanto; la sesta Mattotino; la settima et ultima
+Diluculo, ovvero Aurora; s@i che, secondo questa sposizione, egli
+era primo sonno.
+
+	|10-12.  Quand'io, che meco avea di quel d'Adamo~:
+Secondo l'oppenione del Filosofo, il sangue riceve nel cuore la
+sua perfetta generazione, il quale, non solamente si genera
+quivi, a ci@o che sia materia di notricare il corpo, ma eziandio a
+ci@o che sia materia d'ingenerare; et per@o la natura genera del
+sangue, oltre a quello che bisogna al nutrimento, tanto pi@u che
+avanza per generare: onde per questa cagione furono alcuni che
+tennono che di sangue in sangue, incominciando dal primo uomo
+infino all'ultimo, procedesse tal generazione; et non solamente
+quello che s'appartiene al corpo; ma ancora che per simile modo
+procedesse l'anima, s@i che da uno medesimo uomo, ci@o @e dal nostro
+principio, procedesse in noi l'anima et il corpo; onde l'Auttore,
+rimovendo questo oppinione per uno tacito modo di parlare, dice
+che solo egli avea di quel d'Adamo, ci@o @e il corpo, et per@o
+s'addorment@o; et Sordello et gli altri, ch'erono spiriti, non
+s'addormentorono, per@o che niente aveono di quello d'Adamo.  Et
+qui @e da notare che poi ch'@e fatto il cuore degli uomini, nella
+cui potenzia si formono le membra, Dio, il quale @e sommo artefice
+di tutta la natura, finalmente induce lo spirito, ci@o @e l'anima,
+che ha in s@e ogni perfezione, la quale prima era nell'embrione,
+per la qual si movea et sentiva solamente; s@i che conchiudendo
+brievemente, solo l'Auttore, per che avea il corpo seco et
+l'anima, s'addorment@o secondo l'uso dell'umana generazione et
+fragilit@a.
+
+	|13-17.  Nell'ora che comincia~: Qui l'Auttore procede a
+narrare sua provisione, et dice che fu presso alla mattina; et
+questo @e il terzo modo in questo capitolo da narrare l'ora del
+tempo; et vuole mostrare che la mente umana in quella ora @e pi@u
+partita dalla carne, et meno presa da' pensieri.  Et tocca qui
+una favola, la quale pone Ovidio nel ^Met.~ VI in questo modo
+brievemente.  Avendo gran tempo in Grecia il re Terreo guerra col
+re Pandion, s'accordorono insieme, et per confermamento della
+pace tolse Terreo per moglie Prognie figliuola di Pandion; et
+stata Prognie con Terreo pi@u tempo, il preg@o che andasse per la
+sua sirocchia nome Filomena, ch@e avea gran voglia di vederla; o
+ch'egli la lasciassi andare lei a vederla.  Terreo s'accord@o, et
+and@o verso Atene; et giunto al re Pandion, gli spose l'ambasciata
+di Prognie, com'ella volea vedere Filomena.  Pandion, ch'era
+molto vecchio, nolla volea mandare; onde Terreo, veggendo
+Filomena ch'era molto bella, innamor@o di lei; et dice qui Ovidio
+che, per l'amore che gi@a gli avea posto, cominci@o a lagrimare;
+onde Pandion, credendo ch'ei lagrimasse per compassione che
+avesse a Prognie, contro a suo volere consent@i che Filomena
+andasse con lui.  Menatala addunque Terreo in uno certo bosco et
+luogo riposto per la via, la trassin@o et sforzolla, et tolsele la
+sua virginit@a.  Costei, sdegnosa di tanta ingiuria, comincia a
+dirgli gran villania; Terreo sdegnato, gli tagli@o la lingua, et
+legata la lasci@o in quello bosco.  Costei, vogliendo significare
+alla sirocchia la sua disavventura, fece una tela, nella quale
+compose storialmente tutta la forza ricevuta; et mandolla per uno
+famiglio: onde Prognie, intendendo il fatto, and@o per lei, et
+menolla alla sua casa; et ivi narrato il fatto, per vendetta
+presono Jus figliuolo di Prognie et di Terreo, et ucciserlo et
+cosserlo in certe vivande, et poi il dierono a mangiare a Terreo,
+et mangiando dimand@o dove fosse il suo figliuolo.  Prognie
+rispose: ^Quod petis intus habes~; quello che tu dimandi hai
+dentro; et dicendo pi@u volte questo, s'avvidono ch'egli avea
+mangiato il figliuolo.  Corse con una spada verso la moglie et
+fedilla nel petto: pur costei, cos@i fedita, si fugg@i di casa in
+casa, et similmente Filomena.  Et dicono qui i poeti,
+favoleggiando, che Progne divent@o rondine et Filomena rusignolo:
+et questo dicono, per che Progne fugg@i di casa in casa, come la
+rondine; et Filomena si dilett@o molto in cantare, come
+l'usignolo: et ancora dicono che Progne @e detta la rondine in
+grammatica per questa Progne; et Filomena @e detto l'usignolo. 
+|Forse a memoria~: Qui, seguendo l'Auttore la fizione poetica,
+dice che quei |laj~ (ci@o @e versetti rammarichevoli, sono detti
+laj in Francesco, che fa la rondine la mattina) gli fa forse per
+che si ricorda de' lamenti et del duolo di quella Progne antica,
+che fu, com'@e detto, secondo i poeti, il principio della sua
+spezie.
+
+	|18.  Alle sue vis,ion quasi~: Per@o che nell^Inferno~ XXVI
+@e stato detto distesamente, come in sulla mattina le visioni et i
+sogni assai volte tengono del vero; ch@e, come dice Ovidio nelle
+^Epistole~: ^Jam dormitante lucerna Somnia quo cerni tempore vera
+solent~, et assegnativi le ragioni et le cagioni; il per che non
+si distende qui pi@u innanzi, se non che innanzi o presso al
+giorno, per che i cibi sono digesti, et l'anima ben disposta et
+meno occupata et aggravata della carne, @e indovina, come dice nel
+testo, nelle sue visioni.
+
+	|19-21.  In sogno mi parea veder sospesa~: Qui procede a
+narrare la sua visione, et dice che vidde un'aquila in cielo
+volare et discendere gi@u con penne d'oro, et pigliarlo et menarlo
+infino alla spera del fuoco; et ivi parea ch'egli et l'aquila
+ardesse; et per lo incendio della immaginazione si ruppe il
+sonno.  Ora sotto questo velo della fizione intende l'Auttore per
+quest'aquila la grazia preveniente di Dio, la quale grazia
+previene negli uomini per suo proprio dono, et non per loro
+meriti, come distesamente @e stato mostrato nel precedente
+capitolo; et figurala l'Auttore in forma d'aquila colle penne
+dell'oro, per@o che l'aquila vola pi@u alto che veruno altro
+uccello, come la grazia divina @e sopra a ogni altra grazia; et
+per che l'oro non tiene di veruno altro metallo quando egli @e
+affinato, et @e il pi@u nobile metallo, et ancora quanto pi@u si
+mette nel fuoco infino a sua perfezione, pi@u affina, dice
+quest'aquila avere le penne dell'oro, a dimostrare che i doni
+della grazia, quanto pi@u s'accendono dell'amore et della carit@a
+divina, pi@u affinono, et sono ancora pi@u cari, et sopra a tutti
+altri doni, et non tengono et non procedono negli uomini per
+veruno loro merito, ma solo per la volont@a assoluta di Dio.
+
+	|22-24.  Et esser mi parea l@a dove foro~: Qui rende una
+similitudine a questa sua visione, et induce una favola in questo
+modo.  Dicono i poeti, per che Junone moglie di Jove dispiacque
+al suo marito, Giove non volle che pi@u gli servisse innanzi:
+mand@o il messo suo, ci@o @e l'aquila, per altro servidore, et
+volando l'aquila sopra la selva Ida, vide Ganimedes fratello di
+Laumedonte, et figliuolo del re Trous di Troja, ch'era uno bello
+giovane et cacciava in quella selva; onde l'aquila, scendendo, il
+prese et menollo a Giove, et egli il misse al servigio della sua
+mensa; et fu questa una delle cagioni, per che Junone fece contro
+a' Trojani, come scrive Virgilio nel I libro: ^At genus invisum
+et rapti Ganimedis honores His accensa super~ etc.  Ora sotto
+questa fizione velano i poeti una storia in questo modo: Giove,
+essendo re di Candia, ovvero d'Olimpo, ebbe gran tempo guerra col
+re Trous; et avendo la posta come Ganimede suo figliuolo cacciava
+spesso nella selva Ida, ch'era presso a Troja, mand@o sua gente
+armata sotto una insegna, nella quale era dipinta un'aquila; et
+questa sua gente, trovato Ganimede, il presono et menorollo a
+Jove; onde egli, veggendo questo giovine bello et grazioso, il
+ritenne al suo servigio, et mai nollo volle rendere: et di questo
+acquist@o assai mal nome, tanto che dispiacque a Junone sua
+moglie, come detto @e.  |Ratto al sommo concestoro~: Ci@o @e al
+sommo cielo, ove era Jove.
+
+	|31-33.  Ivi parea che io et ella ardesse~: Per questo
+vuole dare a intendere che ia grazia di Dio, figurata per questa
+aquila, com'@e detto, sopravegnendo ne' cuori degli uomini, gli
+accende d'uno fuoco di carit@a verso il loro creatore; et
+cognoscendo questa grazia essere di tanto dono, cominciono a
+odiare ogni peccato, et a pentersi d'ogni rea operazione, et
+queste male operazioni abbandonare et lasciare: et questo @e
+quello fuoco, ci@o @e quella carit@a che 'ncendendo gli uomini, gli
+desta dal sonno, ci@o @e dalla ignoranzia et dalla oscurit@a de'
+peccati; ch@e, com'@e scritto: ^Omnis malus est ignorans.~
+
+	|34-39.  Non altrimenti Achille~: Per@o che di questa
+novella d'Achille @e stato narrato nell'^Inferno~ XII, @e da
+vederne succintamente.  Avendo Tetis madre d'Achille, ch'era
+iddea marina, dato Achille ad allevare a Chirone centauro; et
+avendo veduto per suoi aiuti, et ancora per risponso de' loro
+iddei, che Achille dovea morire a Troja, se n'and@o a Chirone,
+come scrive Stazio, et dimandatolo d'Achille, et Chirone
+dicendole come tutti i centauri del paese si doleono di lui, per@o
+che Achille tutti gli oltreggiava, in fine una sera, avendo dato
+bere ad Achille oltre al modo usato, s'addorment@o: ond'ella il
+prese, et portata da due dalfini, come scrive Stazio, arriv@o
+all'isola di Sciro; et ivi mostrando al re Licomedes che questi
+era la sirocchia d'Achille, per@o che avea vestito Achille a modo
+di femina, il lasci@o ivi; et credendo fuggire i fati d'Achille
+per averlo quivi portato, gli adempi@e, per@o che Achille ebbe di
+Deidamia uno figliuolo nome Pirro, che doppo la morte d'Achille
+fece peggio a' Trojani che il padre.  |L@a onde i Greci~: Ito
+Ulisse et Diomedes per cercare d'Achille, et arrivati all'isola
+di Schiro, pens@o Ulisse che Achille fosse nascoso tra le
+fanciulle, come egli era.  Fatte portare a Diomedes mercatanzie
+da uomini et da femine, giunti tra quelle giovani dov'era
+Achille, dove le fanciulle sue compagne toglievono ghirlande et
+corone, Achille prese in mano una spada et brandilla; onde Ulisse
+il riconobbe, et ultimamente il menaron nell'oste a Troja etc.
+
+	|44.  E 'l sole~: In questo dormire dell'Auttore, et in
+questa sua visione, era tanto tempo passato che gi@a erono due ore
+del giorno.
+
+	|49-51.  Tu se' omai~: Virgilio conforta l'Auttore, che
+per la visione parea et per lo suo subito svegliare un poco
+sbigottito, mostrandogli come erono giunti al Purgatorio,
+mostrandogli il balzo, ci@o @e la ripa, e dove parea digiunto, ci@o
+@e dov'era il fosso.
+
+	|52-57.  Venne una donna~: Qui chiarisce la visione sua,
+et dice che quella aquila che gli parve vedere nel sonno era
+Lucia, ci@o @e gratia illuminans, la grazia di Dio, et di questa
+Lucia @e stato trattato nell'^Inferno~ II, dove disse: ^poscia che
+tai tre donne benedette~; et ivi se n'@e a sufficenza trattato. 
+|S@i lo agevoler@o per la sua via~: Lucia promisse d'agevolare
+l'Auttore, per@o che senza essa grazia era impossibile a venire a
+quello luogo: levollo dall'erba et da' fiori, dove s'era
+addormentato, ci@o @e era avviluppato et invescato tra l'erba et
+tra' fiori, ci@o @e tra' diletti et le vanit@a mondane, dalle quali
+questa donna il ritrasse.
+
+	|58-60.  Sordel rimase et l'altre gentil forme~: Ci@o @e
+Sordello e il giudice Nino et il marchese Currado, ch'erano anime
+senza corpo, et l'anima @e una forma sustanziale, per@o che come
+dice il Filosofo: ^Forma est quae dat esse rei~: La forma @e
+quella che d@a l'essere alla cosa.
+
+	|61-63.  Qui ti pos@o~: Ci@o @e la grazia di Dio ci ha
+mostrato l'entrata di Purgitorio; ch@e senza essa grazia n@e
+averestilo conosciuto, ne potuto qui venire.  |Poi ella e il
+sonno~: Ci@o @e, alluminato che fusti di tal grazia, si part@i il
+sonno, com'@e detto.
+
+	|64-67.  A guisa d'uom ch'@e in dubbio~: Qui d@a la
+similitudine, et @e chiara.
+
+	|70-72.  Lettor, tu vedi ben com'io innalzo~: per@o che
+ci@o che l'Auttore tratter@a in questo capitolo @e allegorico, avisa
+il lettore della sua ^Commedia~, dicendogli ch'egli innalza la
+materia sua, ci@o @e a trattare di cose auttorevoli, et poi la
+rincalza, ci@o @e l'addorna, et vela con belle fizioni poetiche.
+
+	|73-75.  Noi ci appressammo~: Ci@o @e quello che prima mi
+parea uno fosso non era una picciola valletta che 'l monte
+producea per sua natura.
+
+	|76-78.  Vidi una porta, et tre gradi~: Qui comincia a
+discrivere l'entrata di Purgatorio.  |Et un portier~: Questo
+portieri di Purgatorio era uno angiolo che sta all'entrata, il
+quale tiene luogo di sacerdote et di confessore.
+
+	|80-81.  Tal nella faccia~: Per queste parole vuole
+mostrare l'Auttore che la faccia del sacerdote, il quale ha vera
+commessione et auttorit@a di confessare, et di prosciogliere et
+d'aprire altrui la porta di Purgatorio, @e di s@i maravigliosa
+auttorit@a che l'occhio dello intelletto umano nol pu@o
+compreendere; et pertanto ben dice ch'egli nol sofferse, ci@o @e
+nollo pot@e guardare.
+
+	|82-84.  Ch'io dirizzava spesso il viso invano~: Naturale
+@e che ogni spada forbita et lucida, procedendovi i razzi del
+sole, riflette quei razzi per modo che l'occhio di chi la guarda
+nol pu@o sofferire.  Per questa spada intende la spada della
+divina giustizia; et allegoricamente si dee intendere che ancora
+veruno occhio d'intelletto umano pu@o cognoscere in ogni suo grado
+la divina giustizia, per@o che tanto non pu@o penetrare la vista
+umana, n@e fare comparazione del nostro giudicio al giudicio di
+Dio.  Et per@o scrive S. Agostino queste parole: ^Nullo modo
+judiciis hominum comparanda sunt judicia Dei, quia non est
+dubitandum justum esse~ etc.  ^Quando facit quod hominibus
+videtur injustum.~
+
+	|85-90.  Dite costinci, che volete voi~: Per queste
+parole @e da notare il modo che dee tenere il sacerdote nella
+confessione, ch'egli debba dimandare cui egli confessa
+ordinatamente de' suoi peccati, s'egli @e pentuto et contrito; con
+che disposizione viene alla confessione; s'egli @e mosso, come
+molti che per ben parere sanz'altra buona disposizione, si vanno
+a confessare et non commossi dalla divina grazia: et per@o
+incontanente soggiunse rispondendo l'Auttore: |Donna del cielo~,
+ci@o @e la divina grazia ci ha disposti bene et ci conduce.
+
+	|91-93.  Et ella i passi vostri~: Nota che non basta
+essere bene disposto, se tu non segui infino al fine, per@o che
+^Omnis laus in fine canitur~ etc.  Et in Lege ^Exitus acta
+probat~ etc.
+
+	|94-96.  L@a ne venimmo~: Chiaro appare.  |Bianco marmo
+era~: Per questo primo scaglione @e da notare la contrizione che
+debbe avere ciascun fedele prima che venga alla confessione, che
+esaminato in se medesimo, et specchiatosi nel cuore suo, recasi a
+mente tutti i suoi peccati, et di quelli pentesi interamente con
+buona contrizione; et in quel punto rimane bianco come il marmo,
+senza veruna macchia o oscurit@a di peccati.
+
+	|97-99.  Era il secondo tinto pi@u che perso~: Per questo
+secondo grado si dee intendere la confessione; ch@e, poi che
+l'uomo @e contrito et pentuto de' suoi peccati, gli dee confessare
+al sacerdote.  Et quello essere tinto ci ha a dimostrare la tinta
+della vergogna che riceve il peccatore confessando i suoi
+peccati.  L'essere la pietra crepata per lungo et per traverso ci
+dimostra che dentro come di fuori si debbe vergognare; et quel
+medesimo che sente nel cuore dire colle parole, et rompere questa
+pietra della durezza et ostinazione de' suoi peccati; per@o che
+l'uomo, indurando ne' peccati, diventa tenace et duro come pietra
+in non lasciargli, et a non pentersi; onde il Petrarca: <Medusa e
+l'error mio m'ha fatto uno sasso>; et cos@i rotta la pietra dentro
+et di fuori, et per ogni sua parte, @e quello avere nella lingua
+che @e nel cuore; et allora @e veramente confessato; come scrive S.
+Agostino: ^Vera est confessio benedicentis cum idem sonus est
+oris et cordis, bene autem loqui et male facere nil est aliud
+quam se sua voce damnare.~
+
+	|100-102.  E 'l terzo che di sopra s'ammassiccia~: Il
+terzo grado hae a significare la satisfazione de' suoi peccati,
+per@o che non basta essere contrito, avere confessati i suoi
+peccati se l'uomo non fa la penitenzia et la satisfazione; et
+per@o dice che 'l terzo grado era fiammeggiante: et questo colore
+di fuoco hae a denotare l'ardore della carit@a et dell'amore che
+accende gli uomini, et sospigne a fare la penitenzia de' peccati
+commessi, et avere satisfazione d'ogni suo difetto; et a fare
+tali operazioni @e la carit@a fondamento et radice, cos@i di questo
+come d'ogni bene, onde l'Appostolo ad Corinthios: ^Si habuero
+profetiam, et noverim ministeria omnia, et omnem scientiam, et si
+habuero omnnem fidem ita ut montes transferam, charitatem autem
+non habuero, nihil sum.~
+
+	|103-104.  Sovra a questo teneva ambo le piante~: Questo
+tenere i pi@e sopra a questo terzo grado ha a denotare che il dare
+della penitenzia a' peccatori @e nella discrezione del sacerdote,
+et @e tale arbitrio sottoposto alla sua volont@a et alla sua
+cognoscenza in dare et digiuni et viaggi et limosine et altre
+operazioni meritorie, et in rendere l'altrui, se tolto avesse,
+per@o che ^non remictitur peccatum nisi restituatur ablatum~ etc.
+
+	|105.  Che mi sembrava pietra di diamante~: Il diamante @e
+una pietra durissima, della quale non si pu@o levare n@e per ferro
+n@e per fuoco; et per questo si dee allegoricamente intendere la
+costanzia et la fermezza che debba avere il Sacerdote in dare
+discretamente la penitenzia, in considerare solidamente la
+qualit@a de' peccati, et non muoversi dal diritto giudicio n@e per
+amore n@e per forza n@e per veruno premio, per@o che l'animo di chi
+ha a dare veruno giudicio debbe essere libero da ogni passione;
+onde Salustio, ^ex Catelinario~: ^Omnis homines qui de rebus
+dubiis consultant ab odio, amicitia, ira atque misericordia
+vacuos esse decet.~
+
+	|106-108.  Mi trasse il duca mio dicendo: chiedi~:
+Moralmente si dee intendere che colui riverentemente debbe
+chiedere al Sacerdote la penitenzia de' peccati commessi, per la
+satisfazione de' quali gli sia aperta la porta et l'entrata del
+Purgatorio, et in fine quella del celeste regno; et per@o in
+Evangelio: ^Petite et dabitur vobis; pulsate et aperietur vobis.~
+
+	|109-111.  Misericordia chiesi, et ch'ei m'aprisse~:
+Deesi chiedere riverentemente misericordia a Dio, o a cui ha
+commessa l'autorit@a in terra, come a ministro et a vicario d'esso
+onnipotente Iddio; onde il Salmista: ^Miserere mei Deus secundum
+magnam misericordiam tuam~ etc.  |Ma pria nel petto tre fiate mi
+diedi~: Dassi tre volte nel petto a mostrare che in tre modi si
+pecca, et di tutti si debbe pentere et amendare con penitenzia;
+per@o che si pecca in desiderare, in parlare, et in operare.
+
+	|112-114.  Sette P nella fronte~: Ci@o sono i sette
+peccati mortali: Superbia, Invidia, Ira, Accidia, Avarizia, et
+Gola, et Lussuria, i quali si purgono in questo luogo.
+
+	|115-117.  Cenere o terra~: Per questo vestimento ci d@a a
+dinotare l'umilt@a che debbe essere nel Sacerdote, che di fuori in
+apparenza si debbe vestire di colori non apparenti; et colore
+smorto per digiuni, per l'orazioni, et per l'altre meditazioni
+meritorie, simile al colore della cenere o della terra.
+
+	|118-120.  L'una era d'oro et l'altra~: Queste due
+chiavi, et l'una @e la chiave dell'auttorit@a et l'altra della
+scienza.  Quella dell'oro significa l'autorit@a che debbe avere il
+sacerdote di potere amministrare i sacramenti della Chiesa, la
+quale auttorit@a gli @e data dal sommo pontefice, o da cui commesso
+l'avessi: et per che l'oro @e pi@u caro et migliore et pi@u nobile
+che altro metallo, il figura alla chiave della auttorit@a ch'@e
+sopra ogni scienzia: per la chiave dell'ariento ci dimostra la
+scienzia; ch@e, come l'ariento @e chiaro et sonoro, cos@i la
+scienzia fa chiaro lo 'ntelletto et fa l'uomo nominato et famoso,
+et fa sonare la sua nominanza.  |Pria colla bianca~: Ci@o @e prima
+esaminando, quegli che confessa, et discretamente giudicando; et
+questa tale discrezione et giudicio gli d@a la scienzia; et per@o
+dice che colla chiave dell'ariento prima aperse l'uno serrame,
+|poscia colla gialla~, ci@o @e colla autorit@a, aperse l'altro
+serrame; et cos@i coll'una et coll'altra chiave aperse la porta.
+
+	|121-123.  Quandunche l'una d'este chiavi~: Vuole essere
+l'una chiave et l'altra; ch@e solo coll'una fare non si puote.
+
+	|124-126.  Pi@u cara @e l'una~: Ci@o @e quella dell'autorit@a,
+|ma l'altra vuol troppa~, ci@o @e la chiave della scienzia, ch'@e
+quella ch'@a a dare il giudicio et sciogliere il groppo, ci@o @e il
+nodo de' peccati.
+
+	|127-129.  Da Pier le tengo~: Ci@o @e dal vicario di Dio,
+dal sommo pontefice, che tiene il luogo che prima tenne S. Piero. 
+|Et dissemi ch'io erri~: Ci@o @e che pi@u si vuole pendere nella
+misericordia che nella giustizia, ovvero nella austerit@a; et
+questo pu@o prendere ciascuno esemplo da S. Piero, che fu cos@i
+fedele, et tre volte neg@o il suo creatore, et tre volte gli
+perdon@o, ut in Evangelio.
+
+	|130-132.  Che di fuor torna~: Qui @e da notare che, poi
+che gli uomini sono confessati, per la virt@u della confessione
+sono entrati nella via di salvazione; guardandosi addirietro, ci@o
+@e tornando a peccare, escono fuoi della diritta et bene
+principiata via, et tornonsi quali erono in prima, et assai volte
+piggiori.
+
+	|133-135.  Ne' cardini distorti gli spigoli~: I cardini
+sono gli arpioni in su' quali si sostiene la porta; gli spigoli
+sono le bandelle, che sono confitte nella porta, che quando
+s'apre si discorrono, ci@o @e si volgono.
+
+	|136-138.  Non rugg$io s@i~: Per questo @e da considerare
+che gli uomini veramente pentuti et confessati, et lasciati i
+vizii, et seguendo la via che ci addirizza verso il cielo,
+ricordandosi de' peccati gi@a commessi, et esaminandogli in loro
+medesimi quanto sono stati grandi, quanto sono stati pericolosi;
+et il metallo ci@o @e la variet@a di molti peccati raccolti in uno
+nodo di durezza, grida et rimorde s@i forte questa memoria et
+ricordazione de' peccati, che, come dice Seneca: ^Post
+calamitatem memoria alia est calamitas~, che non son@o s@i forte
+Tarpea, ci@o @e la porta della camera del comune di Roma, come
+suona questa ricordazione negli orecchi dello 'ntelletto. 
+|Metello, perch@e poi rimase macra~: Come scrive Lucano nel suo
+III libro, entrato Cesare in Roma, et Pompeo, et i Pompejani
+fuggitisi per paura di lui, trov@o i palagj voti, le sedie dove
+stavono i consoli, et ogni fortezza et ogni autorit@a gli di@e
+luogo: solo Metello, camarlingo della camera de' Romani, veggendo
+Cesare dirizzarsi alla camera dov'era la moneta, per mezzo delle
+sue schiere se ne venne et posesi innanzi a Tarpea, ci@o @e alla
+porta della camera, dicendo a Cesare queste parole: ^Non nisi per
+nostrum vobis percussa patebunt, Templa latus, nullasque feres
+nisi sanguine nostro, Sparsas, raptor, opes~ etc.; O rattore,
+disse, et usurpatore, i tempj percossi della tua gente non ti
+s'apriranno se tu non fori i nostri fianchi, et le sparse et
+raunate ricchezze non porterai, se non col sangue nostro: onde,
+per queste parole di Metello, dice Lucano che Cesare s'adir@o:
+^His magnam victor in iram, Vocibus accensus: vanam spem mortis
+honestae Concipis: haud, inquit, jugulo se polluet isto Nostra,
+Metelle, manus dignum te Caesaris ira Nullus honor faciet~ etc.;
+Per queste parole di Metello Cesare vincitore acceso in grande
+ira: Tu hai, Metello, conceputo vana speranza, disse, d'onesta
+morte: le nostre mani non si brutteranno del tuo sangue, n@e i
+nostri ferri, et niuno onore ti far@a degno dell'ira di Cesare; et
+con queste et con molte altre parole fu preso Metello per paura,
+sanza fargli altro male; et allora s'apersono le porti: ^Protinus
+educto patuerunt templa Metello, Tunc rupes Tarpea sonat,
+magnoque reclusas Testatur stridore fores; tunc conditus imo
+Eruitur templo multis non tactus ab annis Romanus census~ etc.;
+Et quando Metello fu levato via s'apersono le porti, et Tarpea
+con grande stridore son@o: et finalmente Cesare tolse tutto il
+censo de' Romani, serbato per molti anni, et distribuillo fra'
+suoi cavalieri etc.
+
+	|139-141.  Io mi rivolsi attento~: Ci@o @e, aperta la porta
+del Purgatorio, al primo tuono ch'egli ud@i, entrato dentro, si
+volse et ud@i cantare: ^|Te Deum laudamus~ etc.  Questo Salmo non
+si canta mai, se non a grandi allegrezze et a gran feste; et la
+ragione @e che S. Ambruogio, battezzato S. Agostino nella citt@a di
+Melano, che ivi era venuto a lui, che prima lungamente era stato
+pagano, et per la sua conversione molti infedeli si convertirono,
+disse: ^Te Deum laudamus~; et S. Agostino rispose: ^Te Dominum
+confitemur~; et cos@i l'uno disse una particella del Salmo, et
+l'altro rispondea; et tra l'uno et l'altro feciono interamente
+tutto il Salmo.  Et per questa cagione, com'@e detto,
+rallegrandosi quelli ch'erono in Purgatorio per la venuta
+dell'Auttore, cantorono questo salmo.  Et degnamente questo salmo
+si debbe cantare alle solennit@a et allegrezze; ch@e la conversione
+di S. Agostino fu de' grandi esaltamenti che avessi mai la chiesa
+di Dio; ch@e tutto fu per ordinazione divina; onde il Petrarca in
+^Vita solitaria~: ^Augustinum, quem Deus Ambrosio malis erroribus
+infectum, quasi aegrotum filium docto medico pius pater dedit uti
+eum undis salubribus ablutum curatumque, Deo redderet~ etc.
+
+	|142-145.  Tale immagine appunto mi rendea~: Dice che qui
+gli parve quel canto simile a quello degli organi; ch@e, stando a
+cantare cogli organi, alcuna volta il suono scolpisce le parole
+del canto, et quando l'offusca col tuono.

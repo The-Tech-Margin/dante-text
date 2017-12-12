@@ -1,0 +1,283 @@
+	Expositiones et glose super Comediam Dantis facte per
+Fratrem Guidonem Pisanum, Ordinis Beate Marie de Monte Carmeli,
+ad nobilem virum dominum Lucanum de Spinolis de Ianua.
+
+     |Incipit Prologus.~
+
+	Scribitur ^Danielis~, quinto capitulo, quod cum Baltassar
+rex Babillonie sederet ad mensam, apparuit contra eum manus
+scribens in pariete: ^Mane, Thechel, Phares.~  Ista manus est
+noster novus poeta Dantes, qui scripsit, idest composuit, istam
+altissimam et subtilissimam Comediam, que dividitur in tres
+partes: prima dicitur ^Infernus~, secunda ^Purgatorium~, tertia
+^Paradisus.~  His tribus partibus correspondent illa tria que
+scripta sunt in pariete.  Nam ^Mane~ correspondet Inferno;
+interpretatur enim ^Mane~ <numerus>; et iste poeta in prima parte
+sue Comedie numerat loca, penas et scelera damnatorum.  ^Thechel~
+correspondet Purgatorio; interpretatur enim ^Thechel~ <appensio>
+sive <ponderatio>; et in secunda parte sue Comedie appendit et
+ponderat penitentias purgandorum.  ^Phares~ autem correspondet
+Paradiso; interpretatur enim ^Phares~ <divisio>; et iste poeta in
+tertia parte sue Comedie dividit, idest distinguit, ordines
+beatorum et angelicas ierarchias.  Igitur ^manus~, idest Dantes;
+nam per ^manum~ accipimus Dantem.  ^Manus~ enim dicitur a ^mano~,
+^manas~, et Dantes dicitur a ^do~, ^das~; quia sicut a manu manat
+donum, ita a Dante datur nobis istud altissimum opus.
+
+	Scripsit dico in pariete, idest in aperto et publico, ad
+utilitatem omnium: ^Mane~, idest Infernum, cuius penas et loca
+numeravit; ^Thechel~, idest Purgatorium, cuius penitentias
+appendit et ponderavit; ^Phares~, idest Paradisum, cuius situm ab
+infimis elevatum esse monstravit, et cuius beatitudines ordinate
+distinxit.  Omnia enim ista, secundum quod scribitur in Libro
+Sapientie VIIII+o~, posuit iste egregius poetarum in numero,
+pondere et mensura.  Posuit namque iste poeta Infernum in numero,
+quia peccata et penas numerat; Purgatorium in pondere, quia
+penitentias ponderat et appendit; Paradisum in mensura, quia
+mensurat celos et distinguit ordines beatorum.  Ad istum certe
+poetam et ad suam Comediam potest referri illa visio, quam vidit
+Exechiel propheta; de qua visione sic scribit idem propheta:
+<Ecce manus missa ad me in qua erat liber scriptus intus et
+foris: et scripta erant in eo ^Lamentationes~, ^Carmen~ et ^Ve~>
+{^Ezechiel~ 2.9 (adapted)}.  Ista manus est iste poeta.  Liber
+istius manus est sua altissima Comedia, que ideo scripta dicitur
+intus et foris, quia continet non solum licteram, sed etiam
+allegoriam.  Scripta sunt autem in isto libro tria, scilicet
+^Lamentationes~, ^Carmen~, et ^Ve.~  ^Ve~, quod est interiectio
+dolentis et desperantis, refertur ad Infernum.  ^Ve~ enim in
+Sacra Scriptura eternam damnationem notat, ut dicunt sancti super
+illo verbo: <Ve homini illi per quem filius hominis tradetur>
+{^Matth.~ 26.24}; et est sensus: peribit eternaliter. 
+^Lamentationes~, que sunt note voluntarii et assumpti doloris, ad
+Purgatorium referuntur.  ^Carmen~ vero, quod idem est quod <laus>
+et <iubilatio> ad Paradisum refertur.
+
+	Ista re vera Comedia figurari potest etiam in archa Noe,
+que fuit tricamerata.  In inferiori enim camera erant animalia
+silvestria et serpentes; in media erant animalia domestica atque
+mitia; in superiori vero erant homines et aves.  Per primam
+cameram possumus accipere Infernum, in quo sunt animalia
+silvestria et inmitia, idest homines damnati et serpentes, idest
+demones.  Per secundam cameram possumus accipere Purgatorium, in
+quo sunt animalia mitia, idest anime mites, que patienter
+sustinent passiones.  Per tertiam vero cameram possumus accipere
+Paradisum, in quo sunt homines et aves, idest sancti et angeli in
+gloria sublimati.  His visis, sex in ista Comedia breviter
+indagemus: primo subiectum, idest causam materialem; secundo
+formam, idest causam formalem; tertio auctorem, idest causam
+agentem; quarto finem, idest causam finalem; quinto genus
+philosophie, idest sub quo genere philosophie ista Comedia
+comprehendatur sive decurrat; sexto et ultimo libri titulum,
+idest quo titulo liber iste debeat intitulari.  Circa primum nota
+quod subiectum huius operis est duplex, scilicet licterale et
+allegoricum.  Si enim accipiatur licteraliter, dico quod
+subiectum huius operis est status animarum post mortem
+simpliciter sumptus; qui quidem status dividitur in tres partes,
+prout conditio animarum est triplex.  Primus status sive conditio
+est illarum animarum que eternaliter sunt damnate, et que in
+penis habitant sine spe aliqua evadendi ex illis; et ista pars
+appellatur ^Infernus.~  Secundus status sive conditio est illarum
+animarum que voluntarie stant in penis, ut Deo satisfaciant de
+commissis, et sunt in ipsis penis cum spe ad gloriam ascendendi;
+et ista pars ^Purgatorium~ appellatur.  Tertius status sive
+conditio est illarum animarum que sunt in beata gloria, ipsi
+summo et eterno bono eternaliter, hoc est sine fine, coniuncte;
+et ista pars appellatur ^Paradisus.~  Et sic patet quomodo
+subiectum huius operis est status animarum post mortem,
+simpliciter sumptus.  Nam de illo et circa illum totius huius
+operis versatur processus.  Si vero subiectum accipiatur
+allegorice, dico quod subiectum sive materia est ipse homo prout
+merendo vel demerendo per arbitrii libertatem, iustitie premiandi
+et puniendi obnoxius est, propter quod meritum sive culpam
+tribuitur ipsi homini gloria sive pena.  Nam de pena sive gloria
+ipsi homini attributa nobis narranda sive manifestanda intentio
+versatur autoris.  Et sic patet quod est subiectum in hoc opere,
+sive causa materialis.  Circa secundum vero, idest circa causam
+formalem, nota quod causa formalis in hoc opere est duplex,
+scilicet forma tractatus et forma tractandi.  Forma tractatus est
+triplex, secundum triplicem divisionem quam recepit sive continet
+liber iste.  Prima divisio est qua totum opus dividitur in
+canticas, et iste sunt tres.  Secunda, qua quelibet cantica
+dividitur in cantus: nam prima cantica dividitur in cantus
+XXXIIII+or~; secunda in cantus XXXIII; et tertia in totidem.  Et
+sic totum opus continet centum cantus.
+
+	Tertia autem divisio est qua quilibet cantus dividitur in
+rithimos.  Est autem rithimus quoddam genus versuum, quorum fines
+ad invicem {ternatim} copulantur, et concordibus sillabis
+concorditer colligantur.  Et iste est unus ex tribus dulcissimis
+sonis qui magis delectant et mulcent animum auditoris; et oritur
+ex musica, cuius partes sunt tres, scilicet armonica, rithimica
+et metrica, sicut dicit beatus Ysidorus tertio ^Ethimologiarum~
+libro.  Tria sunt vero quantum ad presentem Comediam genera
+rithimorum.  Primum est illud cuius rithimus continet tantummodo
+decem sillabas; et iste est ille cuius ultima sillaba est longa
+et accentuata, ut ibi: <d'Abel su' fillio et quella di Noe>; item
+ibi: <Abraham patriarca et David re>; item ibi: <Et con Rachele,
+per cui tanto f$e>; item in tertia cantica: <Osanna sanctus Deus
+Sabaoth>.  Isti enim rithimi non recipiunt nisi decem sillabas. 
+Secundum genus est cuius rithimus habet XII sillabas, et iste est
+ille cuius penultima sillaba est brevis, ut ibi: <ch'era
+ronchioso, stretto et malagevole>; item ibi: <Parlando andava per
+non parer fievole>; item ibi: <a parole formar disconvenevole>. 
+Tertium vero genus est cuius rithimus habet XI sillabas; et iste
+est ille cuius penultima sillaba est longa, ut communis usus
+demonstrat, sicut ibi: <Nel mezzo del cammin di nostra vita>.
+
+	Adhuc nota, Lucane de Spinolis, cui istam expositionem
+ascribo, quod rithimi primi generis in una tantum debent sillaba
+sive lictera concordare, hoc est in ultima; secundi vero debent
+concordare in tribus sillabis, idest in penultimis et ultimis; et
+tertii in duobus, hoc est in duobus ultimis, ut in lictera
+manifestissime demonstratur.  Et sic patet que est forma
+tractatus.  Forma vero sive modus tractandi est poeticus,
+fictivus, descriptivus, disgressivus et transumptivus; et cum hoc
+diffinitivus, divisivus, probativus, improbativus et exemplorum
+positivus.  Et sic patet que est forma sive modus tractandi.
+
+	Circa tertium vero, idest circa causam agentem, nota quod
+agens sive autor huius operis est Dantes.  Fuit autem Dantes
+natione florentinus, nobili et antiquo sanguine natus, descendens
+de illis gloriosis Romanis qui civitatem Florentie, destructis
+Fesulis, fundaverunt; moribus insignitus et multis scientiis
+clare fultus, et maxime scientiis poetarum.  Ipse enim mortuam
+poesiam de tenebris reduxit ad lucem.  Et in hoc fuit imitatus
+Boetium, qui philosophiam mortuam suo tempore suscitavit.  Circa
+quartum, idest circa causam finalem, nota quod autor istud opus
+composuit ad hunc finem principaliter, licet et multi alii
+possint assignari fines.  Est autem principalis eius intentio
+removere viventes a statu miserie, relinquendo peccata, et sic
+composuit Infernum; reducere ad virtutes, et sic composuit
+Purgatorium; ut sic eos perducat ad gloriam, et sic composuit
+Paradisum.  Fines vero alii qui possunt assignari in hoc opere
+sunt tres: Primus, ut discant homines polite et ordinate loqui;
+nullus enim mortalis potest sibi in lingue gloria comparari.  Re
+vera, potest ipse dicere verbum prophete dicentis: <Deus dedit
+michi linguam eruditam>; et illud: <Lingua mea calamus scribe
+velociter scribentis>.  Ipse enim fuit calamus Spiritus Sancti,
+cum quo calamo ipse Spiritus Sanctus velociter scripsit nobis et
+penas damnatorum et gloriam beatorum.  Ipse etiam Spiritus
+Sanctus per istum aperte redarguit scelera prelatorum et regum et
+principum orbis terre.  Secundus finis est ut libros poetarum,
+qui erant totaliter derelicti et quasi oblivioni traditi, in
+quibus sunt multa utilia et ad bene vivendum necessaria,
+renovaret, quia sine ipsis ad cognitionem sue Comedie accedere
+non valemus.  Tertius finis est ut vitam pessimam malorum
+hominum, et maxime prelatorum et principum, exemplariter
+condemnaret, bonorum autem et virtuosorum, per exempla que ponit,
+multipliciter commendaret.  Et sic patet que est causa finalis in
+hoc opere.
+
+	Circa quintum, sub quo scilicet genere philosophie ista
+Comedia decurrat, nota quod istud genus est morale negotium, sive
+ethyca, quia non ad speculandum, sed ad opus inventum et fictum
+est totum et pars.  Nam etsi in aliquo loco vel passu
+pertractatur ad modum speculativi negotii, hoc non est gratia
+speculativi negotii principaliter, sed operis, quia, ut ait
+Philosophus, secundo ^Methaphysice~: <Ad aliquid et nunc
+speculantur pratici aliquando>.  Et sic patet sub qua philosophia
+comprehendatur ista altissima Comedia.  Circa sexto vero et
+ultimum, hoc est circa titulum, nota quod libri titulus est iste:
+^Incipit profundissima et altissima Comedia Dantis,
+excellentissimi poete.~  Que quidem Comedia in tres canticas est
+divisa: prima dicitur ^Infernus~, secunda ^Purgatorium~, et
+tertia ^Paradisus.~  Profundissima dicitur quia tractat de
+inferis; altissima vero quia tractat de superis.  Comedia autem
+ideo dicitur quia in principio est horribilis, sed in fine
+delectabilis.  Ad cuius maiorem et clariorem evidentiam te volo
+scire, Lucane, quod IIII+or~ sunt genera poetarum, quorum
+quodlibet genus propriam habet scientiam.  Quidam enim dicuntur
+poete lirici, qui in operibus suis omnes carminum varietates
+includunt; et dicuntur lirici ^apotulirin~ greco, idest a
+varietate carminum; unde et lira dicta que habet varias cordas. 
+Hoc genere carminum usus est David in componendo Psalterium. 
+Unde Arator, Sancte Romane Ecclesie Cardinalis, super Actus
+Apostolorum ait: <Psalterium lirici composuere pedes>.  Quidam
+dicuntur satirici eo quod pleni sunt omni facundia, sive a
+saturitate vel copia.  De pluribus enim rebus simul loquuntur, et
+dicuntur satirici sive satiri a quadam scientia poetica que
+dicitur ^satyra~, sicut dicit quedam glosa super Persium: <Satyra
+est lauta mensa multis generibus frugum repleta, que consuevit
+offerri Veneri in sacrificio>.  Et ista de causa istud secundum
+genus poetice narrationis dicitur satira, quia abundat
+reprehensione vitii et commendatione virtutis; vel satyra dicitur
+a Satyro, deo silvarum.  Satyri enim sunt quedam animalia ab
+umbilico supra formam hominis habentia, sed ab umbilico deorsum
+habent formam caprinam; in capite habent duo cornua, et nasum
+uncinatum.  Sunt autem isti satyres leves et saltatores, nudi et
+dicaces, et omnium subsannatores.  Sic ista scientia poetarum est
+levis, quia cito saltat de vitio in virtutem et de virtute in
+vitium; nuda et dicax dicitur, quia aperte vitia reprehendit;
+subsannatrix est quia deridet vitiosos.
+
+	Quidam dicuntur tragedi, et eorum scientia dicitur
+tragedia.  Est autem tragedia quedam poetica narratio, que in
+principio est admirabilis et grata, in fine vero, sive exitu, est
+fetida et horribilis; et propter hoc dicitur a ^tragos~, quod est
+<hircus> et oda, quod est <cantus> inde tragedia quasi <cantus
+hircinus> idest fetidus ad modum hirci, ut patet per Senecam in
+suis tragediis.  Vel, ut dicit beatus Ysidorus octavo libro
+^Ethymologiarum~: <Tragedi dicuntur eo quod initia canentibus
+premium erat hircus, quem Greci tragos vocant> {^Etym.~ VIII.
+vii. 5}.  Unde et Oratius: <Carmine qui tragico vilem certavit
+ob hircum> {^Ars Poet.~ 220}.  Quidam vero dicuntur comici, et
+eorum scientia comedia.  Est autem comedia quedam narratio
+{scientia} poetica que in principio habet asperitatem alicuius
+miserie; sed eius materia prospere terminatur, ut patet per
+Terrentium in suis comediis.  Dicitur autem iste liber ^Comedia~
+quia in principio sue narrationis sive descriptionis habet
+asperitatem et horribilitatem, quia tractat de penis Inferni, in
+fine vero continet iocunditatem et delectationem, quia tractat de
+gaudiis Paradisi.  Inter poetas liricos, Boetius et Symonides
+obtinent principatum; inter satyros, Oratius et Persius; inter
+tragedos, Homerus et Virgilius; inter comicos autem, Plautus et
+Terrentius.  Dantes autem potest dici non solum comicus propter
+suam Comediam, sed etiam poeta liricus, propter diversitatem
+rithimorum et propter dulcissimum et mellifluum quem reddunt
+sonum; et satyricus, propter reprehensionem vitiorum et
+commendationem virtutum quas facit; et tragedus, propter magnalia
+gesta que narrat sublimium personarum.  Et hoc demonstrant duo
+versus sui epytafii, quos ad suam memoriam fabricavi:
+
+     Hic iacet excelsus poeta comicus Dantes,
+     Necnon et satirus et liricus atque tragedus.
+
+Et sic patet libri titulus.
+
+	Postquam manifestata sunt illa sex que in quolibet
+doctrinali opere sunt querenda, est sciendum quod ista Comedia
+continet quatuor sensus, quemadmodum et scientia sacre theologie. 
+Currit enim in hoc poesia cum theologia, quia utraque scientia
+quadrupliciter potest exponi; imo ab antiquis doctoribus ponitur
+poesia in numero theologie.  Scribit enim beatus Augustinus
+VII+o~ libro ^De Civitate Dei~ quod Marcus Varro tria genera
+theologie esse posuit: unum scilicet fabulosum, quo utuntur
+poete; alterum naturale, quo utuntur philosophi; tertium vero
+civile, quo utuntur populi.  Primus namque intellectus sive
+sensus quem continet Comedia dicitur hystoricus, secundus
+allegoricus, tertius tropologicus, quartus vero et ultimus
+dicitur anagogicus.  Primus dico intellectus est hystoricus. 
+Iste intellectus non se extendit nisi ad licteram, sicut quando
+accipimus Minoem iudicem et assessorem Inferni, qui diiudicat
+animas descendentes.  Secundus intellectus est allegoricus, per
+quem intelligo quod lictera sive hystoria unum significat in
+cortice et aliud in medulla; et secundum istum intellectum
+allegoricum, Minoes tenet figuram divine iustitie.  Tertius
+intellectus est tropologicus sive moralis, per quem intelligo
+quomodo me ipsum debeo iudicare.  Et secundum istum intellectum,
+Minos tenet figuram rationis humane, que debet regere totum
+hominem, sive remorsus conscientie, qui debet malefacta
+corrigere.  Quartus vero et ultimus intellectus est anagogicus,
+per quem sperare debeo digna recipere pro commissis; et secundum
+istum intellectum Minos tenet figuram spei, qua mediante penam
+pro peccatis et gloriam pro virtutibus sperare debemus.  De illis
+autem personis quas ibi ponit hoc accipe, quod non debemus
+credere eos ibi esse, sed exemplariter intelligere quod, cum ipse
+tractat de aliquo vitio, ut melius illud vitium intelligamus,
+aliquem hominem qui multum illo vitio plenus fuit, in exemplum
+adducit.  His omnibus visis, ad aliqualem expositionem lictere
+accedamus.  Ista Comedia, ut dictum est, dividitur in tres
+canticas: prima dicitur ^Infernus~, secunda ^Purgatorium~, et
+tertia ^Paradisus.~  Sed primo de prima, cuius titulus talis est:
+^Incipit prima cantica Comedie Dantis.~
+

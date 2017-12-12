@@ -1,0 +1,437 @@
+	|1.~  Richiama i vv. 85-90 del canto XXVI.  Quanto larghi
+e mossi quelli, altrettanto immobile questo; quelli pieni di
+vita, e gi@a quasi eroici, questo come morto: e continua
+mirabilmente l'impressione funebre del verso che suggella il
+canto precedente.  La fiamma si allontana in silenzio, come un
+fuoco di cimitero.
+
+	|2.~  ^Perch$e aveva finito di parlare.~
+
+	|3.~  Virgilio l'aveva licenziato, come dir@a pi@u
+apertamente ai vv. 19-21.  Ma qui la licenza @e appena accennata:
+e non guasta l'impressione da regno delle ombre lasciata in noi
+dall'allontanarsi silenzioso della fiamma.  Queste impressioni
+fantomatiche, che d@anno un senso di brivido, sono rare in questa
+cantica, tutta cos@i rilevata.  Altre impressioni del genere: i
+due pellegrini che camminano sulle ombre dei golosi, e gli avelli
+scoperchiati del cerchio degli eresiarchi.
+
+	|6.~  Altro verso che d@a un leggero senso di brivido. Poi
+il motivo cambia: come i vv. 85-90 del c. XXVI hanno gi@a il
+movimento dell'episodio di Ulisse, cos@i, ma con minor vigoria, i
+vv. 7-18 hanno gi@a l'intonazione procellosa di quello che sar@a
+l'episodio di Guido da Montefeltro: e se non fanno una grande
+impressione, @e perch$e fra la descrizione di questa fiamma
+rugghiante e l'episodio di Guido @e intromessa una parentesi di
+cronaca versificata (28-54).  Ma quando sta per cominciare la sua
+storia, i versi di preludio (61-66) ci suonano all'orecchio con
+quello stesso suono fiero e gagliardo di questo rugghio che si fa
+parola.  Anche qui, come nel canto di Ulisse, il preludio @e
+abbandonato per un tratto, poi ripreso (XXVI, 19-24 preludio;
+episodio 79-142; XXVII, 7-18 preludio; episodio 58-132).
+
+	|7-12.~  Allude all'invenzione di Perillo a servizio di
+Falaride, tiranno di Agrigento.  Perillo aveva proposto di
+mettere i condannati dentro un toro di rame, e poi arroventare il
+toro; i condannati avrebbero urlato di dolore, e il loro urlo,
+risonando dentro la cavit@a del toro, sarebbe sembrato un muggito. 
+Falaride, ^come era giusto~ (|e ci@o fu dritto~), fece provare
+prima l'invenzione all'inventore stesso (^colui che l'aveva
+foggiato, temprato con la sua arte~).  Il ricordo di Dante deriva
+da Orosio (^Adversum paganos~, I, XX, 1-4).
+
+	|13-15.~  ^Cos@i, perch$e dapprima le parole non trovavano
+nel fuoco n$e via n$e sfogo per uscire, si convertivano nel rugghio
+della fiamma~ (il rugghio @e il |linguaggio~ del fuoco).  |Grame~:
+aggettivo patetico, esprime la pena di quelle parole che non
+riescono a formarsi.
+
+	|16-18.~  ^Ma poich$e le parole ebbero trovato su per la
+punta della fiamma la via per uscire, facendo guizzare la punta
+come aveva guizzato la lingua quando passavano attraverso ad essa
+le parole.~  L'ultima parte del periodo ci fa ricordare che la
+fiamma non @e il travestimento del peccatore, ma il rivestimento
+(cfr. XXVI, 42): dentro la fiamma c'@e il peccatore, con la sua
+figura d'uomo: quindi la parola passa dalla lingua alla fiamma, e
+il guizzo della lingua si trasmette alla fiamma.  @E evidente che
+il motivo difficile seduce l'abilit@a descrittiva di Dante; e
+Dante ci si indugia sopra qui per la seconda, e alla fine del
+canto per l'ultima volta.  Qui si sente l'abilit@a, negli altri
+punti l'arte che sa ricavare grandi effetti dal motivo dell'anima
+incarcerata nella fiamma, come li aveva ricavati dal motivo
+dell'anima incarcerata nella pianta.  Il canto dei suicidi,
+quelli dei ladri e questi dei consiglieri frodolenti stanno a s$e
+nell'^Inferno~: rappresentano l'occultamento dell'anima in un
+corpo non umano: la pianta, il serpe, la fiamma; con effetti
+episodici nei canti dei consiglieri frodolenti, essenziali negli
+altri, dove l'occultamento diventa motivo di un largo dramma.  Ma
+in tutti l'occultamento non si limita ad essere un tema
+fantasioso, in tutti tocca, pi@u o meno, la sostanza umana del
+peccatore.
+
+	|19-21.~  In complesso questa prima presentazione di
+Guido non risponde alla forza della descrizione che l'ha
+preceduta, e sembra un po' meschina per la provincialit@a dei vv.
+19-21; che sono un mezzuccio: altrimenti Guido non avrebbe saputo
+come individuare Virgilio.  Che poi Virgilio licenziando Ulisse
+avesse parlato lombardo, con la frase citata da Guido, @e un
+particolare locale assolutamente stonato: proprio ora che ha
+voluto esser lui ad interrogare Ulisse, osservando ^Ei sarebbero
+schivi, Perch$e fur Greci, forse del tuo detto~ (XXVI, 74-75),
+Virgilio usa una parola lombarda o parla con accento lombardo;
+ma, sopra tutto, un particolare cos@i dimesso, e provinciale,
+stride dopo un racconto cos@i solenne e universale come quello di
+Ulisse.  Quanto alla frase di Virgilio, alcuni scrivono |Istra~,
+che sarebbe un lombardismo (^ora~); altri |Issa~, che @e toscano e
+che si dovrebbe pensare pronunciato, come tutta la frase, con un
+accento lombardo.  |Pi@u non t'adizzo~: ^non ti aizzo, non ti
+stimolo pi@u a parlare.~
+
+	|22.~  Ci fa immaginare, ma senza forza descrittiva, la
+corsa di questa fiamma lungo la bolgia per arrivare in tempo a
+parlare al pellegrino.
+
+	|24.~  Bel verso patetico: quanta dolorosa mobilit@a in
+queste fiamme!  eppure Guido vuol fermarsi a sentir notizie della
+sua terra: e questa nota di dolore, che tuttavia @e vinta dal
+ricordo della terra, questa nostalgia del dolce mondo in mezzo al
+mondo cieco, @e quella che infonde un soffio di poesia anche in
+questa incerta parlata di Guido.  Qui il motivo nostalgico,
+comune a tanti dannati, assume, in virt@u di quel verso da
+martire, un accento singolarmente forte.
+
+	|27.~  ^Da cui io ho portato qui tutto il peso delle mie
+colpe.~
+
+	|29-30.~  ^Perch$e fui anch'io romagnolo, della parte di
+Romagna che sta fra i monti di Urbino e quelli d'onde sgorga il
+Tevere~ (del Montefeltro): la designazione @e colorita, come se
+Guido, parlando, rivedesse quei luoghi.
+
+	|31.~  Per sentire le parole di Guido.
+
+	|32.~  Vivo gesto famigliare: un gesto simile nel canto
+di Brunetto (XV, 23-24).
+
+	|34-54.~  Si @e detto che, avendo Guido avuto molta parte
+nelle vicende guerresche della Romagna, @e naturale che egli sia
+curioso delle sue condizioni presenti e che Dante glie ne parli:
+questa @e una giustificazione logica, non poetica.  Questo tratto
+del canto, come l'inizio del XXVI, riguarda gli interessi
+politici di Dante, rientra nel quadro, o nella cronaca, della
+politica contemporanea tracciata da Dante attraverso il poema, ma
+rimane isolato dalla compagine poetica, e si regge decorosamente
+solo in virt@u delle solite designazioni perifrastiche che hanno
+un po' l'aria di ingegnosi indovinelli.
+
+	|37-39.~  ^I signori di Romagna desiderano sempre la
+guerra; ma ora non c'@e in Romagna nessuna guerra palese.~  Nel
+1300 durava ancora la pace che era stata giurata l'anno prima.
+
+	|40-42.~  Ravenna era sotto i Polentani fin dal 1270: la
+loro arme era l'aquila vermiglia in campo giallo; il loro dominio
+comprendeva anche Cervia.  |Vanni~: ^ale.~
+
+	|43-45.~  Forl@i, che si difese a lungo, dal 1281 al 1283,
+contro i Francesi ed i Guelfi mandati dal papa Martino IV, e fece
+strage dei Francesi (allusione ad una vittoria di Guido da
+Montefeltro), @e dominata dagli Ordelaffi (avevano per insegna un
+leone verde [le |branche~ sono gli ^artigli~ del leone] in campo
+d'oro).
+
+	|46-48.~  Nota il duro cipiglio di questa terzina.
+
+	|46.~  Sono entrambi chiamati |mastini~ per la loro
+ferocia: v. sotto |fan de' denti succhio~, ^fanno succhiello dei
+denti, azzannano.~  Il |vecchio~ @e Malatesta da Verrucchio, padre
+di Gianciotto, di Paolo e di Malatestino (|il nuovo~); fu signore
+di Rimini dal 1295 al 1312.
+
+	|47.~  Malatesta e Malatestino fecero uccidere in carcere
+il capo ghibellino Montagna de' Parcitadi: fatto feroce,
+trucemente rievocato dal D'Annunzio nel suo poema di sangue e di
+lussuria (^Francesca da Rimini~).
+
+	|49-51.~  ^Faenza~ (bagnata dal Lamone) ^e Imola~ (posta
+vicino al Santerno) ^sono governate da Maghinardo di Pagano da
+Susinana~ (aveva come arme un leone azzurro in campo bianco),
+^che si allea ora con una fazione ora con un'altra.~
+
+	|52-54.~  ^E Cesena, come @e posta fra piano e collina,
+cos@i vive fra tirannide e libert@a~: perch$e nel 1300 essa era
+retta da un podest@a, il quale per@o teneva la carica gi@a da
+quattro anni.
+
+	|56.~  Ulisse aveva accondisceso a questo desiderio.
+Alcuni commentatori riferiscono |altri~ a Dante: ^Non esser duro
+pi@u che non sia stato io, che ho accondisceso al tuo desiderio.~
+
+	|57.~  Il solito se desiderativo: ^Cos@i possa il tuo nome
+durare nel mondo.~  L'augurio non riesce gradito a Guido, il
+quale, conscio delle sue colpe, desidera esser dimenticato nel
+mondo: cfr. i vv. 61-63.
+
+	|58-60.~  Pi@u vivo che il movimento della fiamma al
+principio del canto: preannunzia la sinistra drammaticit@a di quel
+che segue, come nell'episodio di Ulisse (XXVI, 85-90); si sente
+che il tono muta, che qualcosa incomincia.  Altri grandi episodi
+della ^Divina Commedia~ cominciano con uno stacco e con una mossa
+in cui gi@a si riflette intera la personalit@a del protagonista:
+vedi quello di Paolo e Francesca (V, 70-75), di Farinata (X,
+22-28), di Manfredi (^Purg.~ III, 105-108), di Belacqua (IV,
+97-99).
+
+	|60.~  ^Mand@o fuori queste parole.~
+
+	|61-66.~  Senti com'@e potente il giro del periodo, quanto
+ha gi@a del ritratto questo ritmo.  Non dice: <Non ti
+risponderei>; ma: |Questa fiamma star@ia sanza pi@u scosse~; e
+conclude: |Sanza tema d'infamia ti rispondo~, dove permane ancora
+l'intrepidezza dell'antico uomo, di quello che pi@u sotto Dante
+dipinger@a con parola cos@i larga e dominatrice (^Gli accorgimenti
+e le coperte vie Io seppi tutte; e s@i menai lor arte, Ch'al fine
+della terra il suono usc@ie~ 76-78).  Tutta questa prima parte,
+fino al v. 78, @e un robusto ritratto, d'un piglio sicuro, d'un
+colore unito.  Dimenticate la fiamma, e vi vedete dinanzi l'uomo,
+chiuso nella sua antica armatura.
+
+	|67.  Cordigliero~: ^frate francescano~; i francescani
+hanno per cintura un cordiglio.
+
+	|68.~  ^Si sarebbe avverato interamente.~  Le parole di
+Guido hanno sempre il medesimo ritmo largo e scuro; sempre quello
+che pi@u lo dipinge @e questo ritmo, che conserva la gagliardia
+tempestosa di quella tempra e in cui risenti il suono della
+fiamma: ^Poscia che 'l foco alquanto ebbe rugghiato~ (58).
+
+	|70.~  ^Bonifazio VIII.~  Nota quest'imprecazione,
+anch'essa cos@i robusta.  Tutto questo discorso rende un fremito
+profondo: in un'opera musicale sarebbe una grande parte da basso.
+
+	|71.~  ^Mi fece ricadere nelle antiche colpe~ (i consigli
+frodolenti).
+
+	|72-111.~  Questo racconto @e la sua vendetta: e per farla
+dimentica che cos@i copre d'infamia anche s$e stesso.  Racconta con
+scaltrezza, con una sobriet@a, un ordine, un'attenzione da grande
+oratore: @e ancora quello dalle |coperte vie.~  Si vendica di
+Bonifazio VIII come Ugolino dell'arcivescovo Ruggieri, ma con
+un'eloquenza pi@u nuda, senza parentesi appassionate: Ugolino @e un
+padre straziato, Guido uno scaltro formidabile, vittima di un
+obliquo ricatto.  E lo svela con una disposizione magistrale di
+luci e d'ombre, in una scena a due ritratti dove accanto a lui si
+leva, ombra dominante, la figura sinistra di Bonifazio VIII.
+
+	|73-74.~  Caratteristica anche questa perifrasi (^finch$e
+rimasi in vita ~; l'anima @e la |forma~, il principio informativo
+del corpo): ha la muscolatura del guerriero.
+
+	|75.~  Anche qui quel giro squillante.
+
+	|77-78.~  ^E li condussi cos@i bene, che infine se ne
+sparse la fama sino ai confini del mondo.~
+
+	|79-83.~  Qui il ritratto cambia aspetto: all'^uom
+d'arme~ sottentra il ^cordigliero~, alle frodi che si dilatano
+stupendamente per tutto il mondo sottentra il raccoglimento: ma
+la tempra rimane quella, come nell'Innominato convertito, e il
+ritmo continua a dipingerla: vedi sopra tutto il verso |Calar le
+vele e raccoglier le sarte.~  Fa riscontro a questo passo un
+tratto del ^Convivio~: <La naturale morte @e quasi porto a noi di
+lunga navigazione, e riposo.  Ed @e cos@i; [ch$e] come lo buono
+marinaio, come esso appropinqua al porto, cala le sue vele, e
+soavemente, con debole conducimento, entra in quello; cos@i noi
+dovemo |calare le vele~ de le nostre mondane operazioni, e
+tornare a Dio con tutto nostro intendimento e cuore; s@i che a
+quello porto si vegna con tutta soavitade e con tutta pace> (IV,
+xxviii, 8).  |Sarte~: ^sartie, corde delle vele.~
+
+	|83.  Mi rendei~: ^mi feci frate.~
+
+	|85-97.~  @E il centro oratorio del racconto, una
+requisitoria serrata come una maglia d'acciaio.  E non @e
+eloquenza ma poesia: proietta un fascio di luce sulla figura che
+nella scena del consiglio frodolento si profiler@a come un'ombra,
+smaschera in anticipo il tentatore del chiuso conciliabolo,
+sgomina con una falange di argomenti l'argomentazione lenta e
+sommessa di Bonifazio VIII.
+
+	|85.~  ^Il capo dei sacerdoti~ (fariseo @e il finto
+religioso), Bonifazio VIII: che nel 1300 era ancora vivo.
+
+	|86.~  ^Presso Roma.~  Il Laterano era il palazzo dove
+abitavano i papi.  Bonifazio VIII fu in guerra contro i Colonna
+dal 1297 al 1298.
+
+	|87.~  ^Non coi nemici del cristianesimo.~
+
+	|89.~  I Saraceni nel 1291 avevano conquistato Acri, che
+era l'ultima citt@a palestinese rimasta in mano dei Cristiani.
+
+	|90.~  La Chiesa aveva vietato di mercanteggiare in terra
+di Saraceni.
+
+	|91-93.~  ^Non ebbe riguardo n$e al fatto che egli era il
+capo della Cristianit@a e sacerdote, n$e al fatto che io portavo il
+capestro francescano che, nei tempi buoni dell'ordine, soleva
+indurre a vita di penitenza chi lo cingeva.~  Doppia
+profanazione, dunque: nel tentatore e nel tentato.  Il v. 93
+allude a quella degenerazione dell'ordine contro la quale si
+scaglier@a San Bonaventura nel XII del ^Paradiso~ (vv. 112-126).
+
+	|94-95.~  Leggenda, che ai tempi di Dante era creduta
+storia: l'imperatore Costantino chiam@o dalle grotte del monte
+Soratte papa Silvestro perch$e lo guarisse dalla lebbra: e allora
+Costantino si convert@i.  I medici si chiamavano |maestri.~
+
+	|94-97.~  Sulla fine della requisitoria la parola pi@u
+scolpita e pi@u martellante: vedi la perfetta simmetria fra i vv.
+94-95 e 96-97, e la violenta sottolineatura della rima tra
+|lebbre~ e |febbre~; e nota la dura ironia del paragone, la
+costante unit@a di questo stile da duellante catafratto.
+
+	|98-111.~  Dopo la requisitoria, la scena della
+tentazione: quella @e squillante, questa @e tutta chiusa nel
+silenzio e nell'ombra; come se Guido volesse alzare la tenda su
+questo grande retroscena della storia.  Non dobbiamo dimenticare
+che chi move le fila di quest'episodio @e Dante, e che perci@o
+quest'episodio in cui Dante, la vittima di Bonifazio VIII, @e cos@i
+vitalmente interessato, @e infuso di un'acre malizia: Guido ha
+detto che parler@a perch$e sa che le sue parole non saranno
+riportate nel mondo, che parler@a senza tema d'infamia; le sue
+parole, invece, risuonano sul pi@u grande palcoscenico del mondo,
+la ^Divina Commedia~, e l'infamia non ricade veramente su di lui,
+ma su Bonifazio VIII poich$e il suo racconto @e prospettato in modo
+che il colpevole appare non lui, ma Bonifazio VIII, il tentatore
+di Guido, e l'avversario di Dante.  Una simile malizia, ma meno
+bieca, abbiamo trovato nel canto dei simoniaci, dove Bonifazio
+sembra condannato per equivoco.
+
+	Apparentemente questo non @e che dialogo: ma sotto di esso
+si vede il lavor@io nascosto delle due coscienze, e intorno, senza
+che una parola vi accenni, l'aria segreta della sala del
+conciliabolo.  Nota le pause: |Domandommi consiglio; e io
+tacetti~; |E poi mi disse~ (la Dantesca ha sostituito una lezione
+prosastica, logica: |E' poi ridisse~: come in X, 88); |Allor mi
+pinser gli argomenti gravi...~
+
+	|101.  Finor~: ^fin d'ora.~
+
+	|102.~  Bonifazio VIII domanda a Guido come poter
+prendere Palestrina, la fortezza dei Colonnesi.
+
+	|103-105.~  Parole lente, avvolgenti: |Come tu sai~ @e
+sottolineato dalla voce e dallo sguardo; |Le chiavi Che il mio
+antecessor non ebbe care~ non @e una perifrasi (^le chiavi
+pontificie~), ma una dura affermazione di potere, un pensiero
+beffardo di trionfo: quell'inetto predecessore, che non conobbe
+il valore della potenza che aveva fra mani.  La figura di ^Colui
+Che fece per vilt@a il gran rifiuto~ @e quasi riscattata dalla
+sacrilega empiet@a del suo successore.  Questi versi sono una
+parafrasi delle parole del Vangelo di S. Matteo, dove @e detto che
+S. Pietro pu@o con le sue chiavi aprire e negare il regno dei
+cieli (XVI, 19): cos@i pu@o fare il pontefice, successore di S.
+Pietro.
+
+	|106-107.~  ^Mi spinsero a pensare che il tacere fosse il
+peggio.~
+
+	|108-109.~  La risoluzione @e drammatica, ma il dramma @e
+condensato con la solita virile sobriet@a in questo preambolo,
+sillabato come la subornazione di Bonifazio, che esprime la
+coscienza del peccato e la coscienza della costrizione (|ov'io mo
+cader deggio~): sempre, il protagonista appare Bonifazio, e Guido
+sembra raccontare, non il proprio peccato, ma quello del suo
+violento tentatore.
+
+	|110-111.~  ^Prometter molto e mantener poco ti far@a
+trionfare, <siccome pontefice~ (|nell'alto seggio~), ^di coloro
+che, come i Colonnesi~ (fra i quali due cardinali), ^impugnavano
+anche la legittimit@a della elezione di Bonifacio a Pontefice~>
+(Del Lungo).
+
+	|112-123.~  Dopo la colpa, la pena, senza intervallo. 
+L'ultimo tratto di grande eloquenza @e questo passar sotto
+silenzio tutto quanto @e seguito della sua vita, e mostrar solo le
+conseguenze del consiglio estorto.  Il trapasso improvviso getta
+un'ombra pi@u scura sulla persona di Bonifazio VIII, ne fa il
+padrone satanico di un destino.  San Francesco va per prender
+l'anima del frate che era appartenuto al suo ordine, ma un
+diavolo glie la contende.  E il diavolo viene a collocarsi come
+terzo ritratto accanto ai primi due: un frate, un papa, un
+diavolo; uno scaltro, un perfido, un loico trionfante: e formano
+un trittico di mirabile armonia.
+
+	|115.  Meschini~: ^servi.~
+
+	|117.~  @E l'antecedente drammatico taciuto nel trapasso
+fra i vv. 106-111 e i vv. 112-114; ed @e come un diabolico schizzo
+in penombra degli ultimi giorni di Guido.
+
+	|118-120.~  Perch$e l'assoluzione di Bonifazio VIII fosse
+valida bisognerebbe che Guido si fosse pentito nell'atto stesso
+che (voleva) commetteva il peccato: il che @e assurdo.  E poich$e
+non s'@e pentito, non pu@o essere assolto.  Il diavolo,
+apparentemente trionfa di Guido, in realt@a trionfa del papa che
+ha creduto di poter dare l'assoluzione.  Anche qui il
+protagonista @e, pi@u che Guido, Bonifazio VIII.
+
+	|121-132.~  Anche questo atto di Guido (|Come mi
+riscossi~!) ritiene della sua tempra gagliarda.  Tutto il suo
+discorso porta un'impronta disperata e virile.  Non indugia in
+commenti, in particolari: argomenta dove l'apologia lo richiede;
+lascia parlare i fatti quando questi, accostati, sono di per s$e
+stessi eloquenti; diede la sua vita in pochi quadri
+significativi: la rete dei consigli frodolenti; la conversione;
+la ricaduta; la dannazione: epilogo, il giudizio di Minosse, che,
+reciso e scuro, sembra intervenire quarto personaggio in questa
+sinistra accolta di spiriti demoniaci.  In tutto l'episodio c'@e
+una superba unit@a di stile, rara anche in Dante: un piglio, un
+suono, un colore della frase in cui si traduce indefettibilmente
+lo spirito amaro e risoluto di Guido.  Il quale sembra, ancora
+qui, chiuso nella sua armatura di guerriero: cos@i quando
+incomincia (^S'io credessi che mia risposta fosse...~), come
+quando conclude, con una constatazione nuda, appena commentata
+dal fremito sordo della voce: |Per ch'io l@a dove vedi son
+perduto, E s@i vestito, andando, mi rancuro.~  E le parole con cui
+Dante descrive l'allontanarsi della sua fiamma ritengono ancora
+di quella virile sobriet@a di pathos, e sono il coronamento
+musicale di quella magistrale orazione.  Nella terzina di Dante
+(130-132) il dolore passa come una folata breve di vento.  Dante
+non commenta, ma tutto il tono dell'episodio, e particolarmente
+la dignit@a dell'esordio e della chiusa e la severit@a della
+descrizione di quella fiamma che si allontana, dicono che egli
+non ha per Guido gli abituali sentimenti di disprezzo e di
+sdegno, e che qualche cosa in lui gli impone rispetto.  In Guido,
+come in tutti i grandi personaggi del poema, c'@e l'uomo vecchio e
+il nuovo: se non vi fosse che il secondo, l'^Inferno~ e il
+^Purgatorio~ si ridurrebbero a rassegne scolorite: come succede
+per lo pi@u nel ^Paradiso.~
+
+	Guido nacque circa il 1220.  Fu capitano generale dei
+Ghibellini di Romagna, e come tale sconfisse replicatamente i
+Guelfi nel 1275.  Confinato dalla Chiesa, riprese la lotta contro
+i Guelfi nel 1292.  Riconciliatosi con la Chiesa, nel 1296 si
+fece francescano.  Una tradizione raccolta dal cronista
+Riccobaldo ferrarese racconta che a lui ricorse poi nel 1298
+Bonifazio VIII perch$e si mettesse a capo delle soldatesche contro
+i Colonna, e che, avendo egli rifiutato, il papa gli domand@o di
+consigliarlo almeno intorno al modo di soggiogarli; e allora
+Guido rispose con il famoso consiglio.  Le cronache esaltano il
+suo valore e la sua scaltrezza.  Ma Guido @e, come Francesca e
+come Ugolino, uno di quei personaggi della ^Commedia~ a cui
+un'illustrazione storica toglie la grandezza ideale che gli ha
+conferito la poesia.
+
+	|127.~  ^Della fiamma che avvolge, che sottrae alla vista
+i peccatori.~  Cfr. 129: |s@i vestito~: ^vestito della fiamma.~
+
+	|129.~  Senti, con il dolore, quell'inquietudine eterna:
+|andando.~  |Mi rancuro~: i commentatori spiegano: ^mi dolgo~, o
+simili; ma |mi rancuro~ ha un significato pi@u preciso, pi@u
+aderente alla personalit@a poetica di Guido: indica un dolore
+chiuso, il rod@io di un forte.
+
+	|134-136.~  ^Sul ponte che copre la bolgia in cui si paga
+il fio da quelli che si caricano di colpa separando coloro che
+dovrebbero essere uniti, seminando discordie.~

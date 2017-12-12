@@ -1,0 +1,157 @@
+	|4-5.~ |(ed.  Rosini)~
+Soperchio del puzzo.  [richiamo marginale] [Sessa]
+
+	|6.~ |(ed.  Rosini)~
+^Raccostare~, in senso semplice.  [Sessa]
+
+	|11.~ |(ed.  Rosini)~
+Ausi.  [richiamo marginale] [Sessa]
+
+^S'ausi~, s'avvezzi.  [Da Fino]
+
+	|(ed.  Celani)~
+S@i, che ^s'ausi~ un poco prima il senso
+
+	|13.~ |(ed.  Rosini)~
+Compenso.  [richiamo marginale] [Sessa]
+
+^Compenso~, modo.  [Da Fino]
+
+	|22.~ |(ed.  Rosini)~
+Divisione de' peccati.  [Da Fino]
+
+	|26.~ |(ed.  Rosini)~
+Lo star di sotto @e argomento di maggior colpa.  [Sessa]
+
+	|(ed.  Celani)~
+Pi@u spiace a Dio: et per@o stan ^di sutto~
+
+	|34.~ |(ed.  Rosini)~
+^Ferute~, ferite.  [Da Fino]
+
+	|36.~ |(ed.  Rosini)~
+Tollette.  [richiamo marginale] [Sessa]
+
+^Tollette~, furti.  [Da Fino]
+
+	|38.~ |(ed.  Rosini)~
+Predon.  [richiamo marginale] [Sessa]
+
+	|44.~ |(ed.  Rosini)~
+^Biscazza e fonde la sua facultade~.  Parole riprese dal Bembo nelle 
+prose.  [Sessa]
+
+^Biscazza~, dissipa.  [Da Fino]
+
+	|(ed.  Celani)~
+^Biscazza,~ et fonde la sua facultate,
+
+	|45.~ |(ed.  Rosini)~
+Se fosse vissuto bene.  [Da Fino]
+
+	|50.~ |(ed.  Rosini)~
+Soddoma e Caorsa.  [richiamo marginale] [Sessa]
+
+Carnali ed usurari che violano la natura.  [Da Fino]
+
+	|52.~ |(ed.  Rosini)~
+Che induce peccato mortale.  [Da Fino]
+
+	|53-54.~ |(ed.  Rosini)~
+Non sono amici, n@e inimici.  [Da Fino]
+
+	|55.~ |(ed.  Rosini)~
+^Questo modo di retro~, che inganna chi non si fida.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Per l'altro modo~, che offende la fede e l'amicizia.  ^Oblia~, 
+dimentica.  [Da Fino]
+
+	|64.~ |(ed.  Rosini)~
+^Punto~, centro.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+Trade.  [richiamo marginale] [Sessa]
+
+	|69.~ |(ed.  Rosini)~
+Baratro.  [richiamo marginale] [Sessa]
+
+^Baratro~, profondit@a.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+^Pingue~, grassa.  [Da Fino]
+
+	|73.~ |(ed.  Rosini)~
+Dentro de la citt@a roggia.  [richiamo marginale] [Sessa]
+
+^Roggia~, rossa.  [Da Fino]
+
+	|74.~ |(ed.  Rosini)~
+Ei, [richiamo marginale] [Sessa]
+
+	|79-84.~ |(ed.  Rosini)~
+La malizia @e punita in tutti questi cerchi seguenti: ma ove la 
+bestialit@a?  se forse bestiali non sono i sodomiti che Aristotile 
+ripone tra i fieri.  Bestiali crede il Landino i violenti.  
+Nell'irascibile, e nella concupiscibile, sotto la quale ripongo ancora 
+la cupidit@a del danajo, pu@o ritrovarsi non solo incontinenza, ma 
+abito pravo ancora, ch'egli chiama malizia.  Ed @e verisimile che 
+abituato nel vizio della gola fosse Ciacco, e nella libidine Semiramis, 
+e nella iracondia l'Argenti.  Non @e dunque soluto il dubbio.  Oltra di 
+ci@o, gli abituati in tai vizj ove sono puniti?  [Sessa]
+
+	|82.~ |(ed.  Rosini)~
+^Incontinenza~, ec.  Distingue Dante l'incontinenza dalla malizia 
+secondo la materia, non secondo l'abito.  [Giolito]
+
+	|(ed.  Celani)~
+Incontinentia, malitia et la matta
+
+	|83.~ |(ed.  Celani)~
+Bestialitate; et come incontinenza
+	^distingue Dante l'incontinenza dalla malitia sia secondo la materia 
+non secondo l'abito~
+
+	|86.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|91.~ |(ed.  Rosini)~
+Virgilio.  [Da Fino]
+
+	|93.~ |(ed.  Celani)~
+Che, non men che saver, dubbiar ^m'aggrata.~
+
+	|96.~ |(ed.  Rosini)~
+^Groppo~, dubbio.  [Da Fino]
+
+	|100.~ |(ed.  Rosini)~
+^da su'arte~, dal volere.  [Da Fino]
+
+	|104.~ |(ed.  Rosini)~
+^Discente~, scolare.  [Da Fino]
+
+	|105.~ |(ed.  Rosini)~
+^Arte~, figliuola della natura, e nipote di Dio.  [Sessa]
+
+	|107.~ |(ed.  Rosini)~
+Non so quanto sia convenevole, che Virgilio alleghi il Genesi.  [Sessa]
+
+	|108.~ |(ed.  Rosini)~
+Con arte.  [Da Fino]
+
+	|111.~ |(ed.  Rosini)~
+L'usurajo non segue l'arte, n@e natura.  [Da Fino]
+
+	|112.~ |(ed.  Celani)~
+Ma seguimi horamai; che 'l gir mi piace:
+	^hora mai~
+
+	|113.~ |(ed.  Rosini)~
+Aurora.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+Vicino al giorno.  [Da Fino]
+
+	|115.~ |(ed.  Rosini)~
+^Balzo~, la costa.  [Da Fino]
+

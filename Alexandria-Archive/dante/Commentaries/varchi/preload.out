@@ -1,0 +1,40 @@
+
+Document parameters:
+	Doc. type  = Description
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading desc into staging/desc.
+::::::::::::::::::::::::::::::::::::::::::::
+Verifying staging/desc...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante        654 Jun  1 12:44 staging/desc
+Using descriptive data from ../desc.
+
+Document parameters:
+	Doc. type  = Commentary
+	Commentary = Varchi
+	Language   = Italian
+	Pub. Year  = 1545
+	Cantica    = 30-Paradiso
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.e into ../staging/para/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 01.e...
+Verifying ../staging/para/01...
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     323866 Jun  1 12:44 ../staging/para/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.e into ../staging/para/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering 02.e...
+Verifying ../staging/para/02...
+Line 1553 length exceeded 255 character limit - inserting carriage return.
+
+No Verification Errors.
+-rw-r--r--   1 dante    dante     117599 Jun  1 12:44 ../staging/para/02

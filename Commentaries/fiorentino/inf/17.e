@@ -1,0 +1,441 @@
+	|Proemio.~  Poi che l'Auttore nel precedente capitolo s'@e
+scusato della cosa incredibile ch'elli intendea dire, che per
+l'ordine della sua ^Comedia~ nol potea tacere; et mostro, per una
+comparazione chiara et aperta, come la fiera, di che intende di
+trattare, ven$ia natando per l'acqua; ora nel presente capitolo,
+continuando dice: ^Ecco la fiera.~  Et per venire al modo usato
+alla divisione, fassi del presente cinque parti.  La seconda
+comincia quivi: ^Poco pi@u~ {v. 35}; la terza quivi: ^Trovai il
+duca mio~ {79}; la quarta quivi: ^Come la navicella~ {100};
+l'ultima quivi: ^Io sentia gi@a~ {118}.  Ora, perch@e queste cinque
+parti sono insieme ristrette et connesse, et poco si sviano da
+uno medesimo termine, insiememente se ne tratter@a.  Intende
+l'Auttore trattare in questo capitolo pienamente della
+frodolenzia, la qual figura per questa fiera, dalla quale egli si
+principia.  Dice addunque che questo animale ha la coda aguzza,
+la faccia sua d'uno uomo giusto et benigno, et d'uno serpente
+avea forma dal viso in gi@u; due branche pilosissime; il dosso e
+il petto et amendue le coste dipinte di rotelle et di nodi, et di
+colori varj et diversi era mischiato.  Per lo viso benigno et
+abito d'uomo giusto, si dee intendere che l'uomo che @e frodolente
+si mostra benigno et pietoso, affine che altri si fidi di lui,
+per@o che chi non si fidasse, non poterebbe essere ingannato mai. 
+Dice che, dalla faccia in fuori, @e di serpente tutto il
+rimanente.  Il serpente, fra le propriet@a degli animali si truova
+ch'egli @e frodolentissimo; et sempre, per potere ingannare et per
+non esser veduto, sta occulto nell'erba; ch@e sa per natura che 'l
+colore suo @e simile a quello dell'erba.  Et per@o ch'egli @e cos@i
+frodolente, pone la Scrittura ch'egli fosse quello che ingannasse
+Eva; et per@o dice che, dal viso in fuori, @e tutto serpente, ci@o @e
+tutto frodolente.  Le branche, che avea pilose infino alle
+ascelle, ci@o @e mammelle, vuole qui mostrare che, come gli animali
+ci@o ch'elli vogliono pigliono colle branche, cos@i gli uomini
+frodolenti non ingannano mai, se non per tirare a loro.  Et dice
+che sono pilose, ci@o @e gli uomini hanno le branche pilose, la
+loro intenzione @e coperta et ascosa.  Per li nodi, di che era
+dipinta la fiera, et le rotelle, si dee intendere che gli uomini
+frodolenti parlono con belli colori variati, et le sentenzie loro
+sono annodate et avvolte in forma et in modo ch'altri non gli pu@o
+intendere; onde, sotto questi colori del parlare, ingannono
+altrui.  Per la coda s'intende il fine, per lo quale l'uomo
+frodolente adopera et parla, per venire alla sua intenzione. 
+Dice che l'avea fessa a modo di scarpione.  Lo scarpione ha
+questa natura, che quando vuole mordere altrui in veruno luogo,
+ha certe branche d'innanzi, colle quali e' viene solleticando, et
+menando queste sue branche, in pelle fa il sangue tornare, et
+assottiglia la buccia; et quando egli l'ha bene assottigliata, et
+quelli pugne quello luogo colla coda, ove egli ha il veleno, il
+quale veleno non offende s'egli non tocca il sangue.  Ancora dice
+che l'Auttore mont@o in sulle spalle dell'animale; et per questo
+si dee intendere che la ragione umana dee vincere ogni cosa.  Et
+per allegoria ancora si dee intendere che gli uomini debbono
+avere la frodolenza a vile, cavalcarla, et tenerla sotto i piedi. 
+Mont@o Virgilio in mezzo fra l'Auttore et la coda della fiera. 
+Per questo si dee intendere che la ragione umana si debbe sempre
+mettere fra 'l buono uomo et il frodolente, a ci@o ch'egli nol
+possa ingannare n@e offendere colla coda, ci@o @e col fine suo, col
+quale il frodolente offende, coll'ultima intenzione: cos@i
+l'ultima parte, colla quale la fiera offendea, era la sua coda. 
+L'altre cose che restano appariranno chiare nella sposizione del
+testo.  @E da venire alla lettera al modo usato.
+
+	|1.  Ecco la fiera colla coda~: Quello che sia questa
+fiera, et quello che s'intende per essa, @e chiarito et aperto.
+
+	|2.  Che passa i muri~: Veramente alla frodolenzia @e
+debile ogni riparo, et male si pu@o resistere, o con muro o con
+arme.  Et puossi recare, in esemplo et in chiarezza di ci@o, una
+novella di Teodonzio, che scrive che, essendo stati i Greci
+nell'oste di Troja gran tempo, tanto che molti et de' Greci et
+de' Trojani v'erono morti et consumati, faceono i Greci spesso
+consiglio per trovare il modo per lo quale pi@u tosto potessono
+prendere la citt@a.  In questo tempo venne a Ulisse uno suo
+compagno, il quale avea nome Dolus: costui, veggendo ogni d@i
+Ulisse tornare dal consiglio, il dimand@o quello ch'egli faceano
+nel consiglio.  Ulisse gliel disse.  Rispose Dolus, ch'egli volea
+andare uno giorno con lui.  Ulisse contento, et menato Dolus nel
+consiglio, et levati a dire molti de' Greci, i quali comunemente
+consigliavono che da Troja non si partisse mai infino a tanto che
+per forza non l'avessono, Dolus, doppo molti finalmente si lev@o,
+et disse che per forza egli non vedea che la citt@a mai si potessi
+prendere, per@o che ell'era forte, et piena di cavalieri, che bene
+la poteono difendere; ma che per inganni et per frode egli vedea
+ch'ella si potea prendere.  I Greci furono contenti, et
+attennonsi al consiglio di costui.  Questi ordin@o che si facesse
+uno gran cavallo di rame, nel quale si nascondessono cavalieri;
+et che, fatto questo, i Greci s'infignessono di partire, et
+lasciassono questo cavallo; et ordin@o che uno sagace uomo, nome
+Sinone, rimanesse, il quale, infintisi i Greci di partirsi, fu
+preso da' Trojani, al quale per sue parolo maliziose i Trojani
+dato fede, disse loro che, s'egliono facessono mettere dentro
+quello cavallo di legno, che sempre egliono arebbono vittoria,
+per@o che i Greci l'avevono fatto a onore di Pallade, la quale
+trasse Ulisse per inganno di Troja, stimando: Questo cavallo @e s@i
+grande, ch'egli non potr@a entrare per la porta, onde i Trojani il
+lasceranno di fuori; onde Pallade sdegner@a contro a Trojani, et
+umilier@a l'ira sua, la quale avea contro a' Greci.  I Trojani,
+dato fede alle parole, ruppono il muro della citt@a et missono
+dentro il cavallo, ch'era pieno di cavalieri; et venuta la
+seguente notte, questi, ch'erono nel cavallo ascosi, uscirono
+fuori, et feciono cenno a' Greci ch'erono ascosi nelle navi,
+partitosi dall'isola di Tenedos.  Vuole dire alcuno che Elena
+fosse consenziente al trattato, et ch'ella d'in sul palagio
+facesse cenno a' Greci; ma come che 'l fatto andasse, i Greci
+entrarono in Troja et presono Ilion, et arsono ogni cosa; s@i che
+veramente Dolus, che tanto vuol dire quanto Inganno, il quale era
+gran compagno d'Ulisse, per@o che Ulisse fu pieno d'inganno, ruppe
+i muri et l'armi, quello che i Greci per forza non avevono potuto
+fare.
+
+	|3.  Ecco colei che tutto~: Veramente la frodolenzia
+dispiace a ogni uomo; et pertanto ben dice ch'ella appuzza tutto
+il mondo.
+
+	|4.  S@i cominci@o il mio Duca~: Ci@o @e queste parole dette
+di sopra disse Virgilio.
+
+	|6.  Vicin al fin~: Questo argine era di pietra, come @e
+detto, al quale erono venuti al suo fine.  Chiama l'Auttore
+queste pietre marmo, per@o che 'l marmo @e spezie di pietra, et @e
+dentro come pietra.
+
+	|7-9.  Et quella sozza immagine~: Questa frodolenzia
+misse fuori dell'acqua la testa et il busto, et la coda non
+trasse fuori, per@o che per la coda, com'@e detto nell'allegoria,
+s'intende il fine dell'uomo frodolente, il quale mostra il viso
+benigno, et abito et statura d'uomo onestissimo, affine che altri
+si fidi di lui.
+
+	|14-15.  Dipinte avea di nodi~: Chiaro appare per quello
+ch'@e stato detto.
+
+	|16-17.  Con pi@u color~: I drappi de' Turchi, quelli che
+sono tessuti in Turchia, non hanno tanti colori, n@e cos@i varj. 
+Furono gi@a i Turchi la pi@u vile generazione di gente che avessi
+il mondo; et cos@i vissono gran tempo senza niuno signore, infino
+a tanto che uno Turco, ch'ebbe nome Cingis, gli parve che uno
+loro iddio gli apparisse in visione et dicessigli: D@i a quelli
+che sono i maggiori del popolo de' Turchi, ch'egliono ti facciono
+signore.  Questo Cingis si lev@o la mattina, et disse a alcuno de'
+maggiori la visione, dicendo loro che il loro iddio, s'egli il
+facessono signore, farebbe loro grande vittoria.  Questi si
+feciono beffe di lui infino a tanto che una notte a sette del
+popolo, ch'erono i maggiori, apparve loro in visione il loro
+iddio, dicendo loro ch'egli facessono signore Cingis.  Costoro,
+levatisi la mattina, l'uno cominci@o a dire all'altro quello
+ch'egli avevono sentito la notte; et trovatisi accordare tutti a
+sette, pensorono che questo non potessi essere senza volont@a di
+Dio.  Dierono ordine, et raunato il popolo, dicendo loro quello
+ch'elli aveono sentito la notte, et trovatosi tutti essere
+accordati, pensorono che questo non potesse essere senza volont@a
+di Dio, e di comune concordia il feciono signore.  Costui, presa
+la signoria, cominci@o a conquistare per India, et sottomettere
+sotto sua signoria molti popoli verso le parti orientali, et
+divennono i pi@u valenti uomini del mondo, che prima erono i pi@u
+vili.  |N@e Tartari~: Tartari ancora sono gran maestri di drappi. 
+Sono questi Tartari in paese freddo verso la tramontana, et
+scesono anticamente di una selva sotto tramontana sopra il fiume
+del Tanay, che si chiama Tarcon, et per lo fiume furono poi
+chiamati Tartari.
+
+	|18.  N@e fur tai tele~: Ovidio racconta nel VJ+o~ L+o~ del
+^Matamarfoseos~ che Aragne di Meonia, figliuola di Dimon
+Coloferno, fu grandissima maestra di tessere: fu costei di vile
+nazione, nata di vile padre et di vil madre; ma quello che le
+manc@o di nobilt@a, fu ristorata nella bont@a del tessere.  Costei
+facea le tele sue s@i bene che dice Ovidio che le Ninfe, per
+vedere tessere costei, abbandonavono le vigne del monte Timolo,
+et venivono a vederla.  Ora questa Aragne mont@o in tanta
+superbia, ch'ella si vant@o ch'ella tesserebbe meglio della dea
+Pallas; et pervenuto questo agli orecchi a Pallas, venne in forma
+d'una vecchierella ad Aragne.  Cominci@o a dire: Aragne, non
+spregiare i miei detti per ch'io sia vecchia, per@o che l'uso et
+il tempo insegna altrui molte cose: tu se' grande maestra di
+tessere; voglia stendere la fama tua fra' mortali, et non ti
+vantare l'essere maggiore maestra che Pallas.  Aragne, non
+ammonita per questo, mont@o in pi@u superbia, et disse ch'ella si
+proverebbe con Pallas, ognora ch'ella volesse.  Pallas non pot@e
+sostenere pi@u: levatosi l'abito della vecchierella, fu presente
+all'opera, et cominci@o a fare la sua tela, et Aragne la sua. 
+Aragne f@e una tela di svariati colori, et tess@e in ciascuno canto
+della tela tutte le vergogne et le cose abominevoli che avevono
+mai fatte gli iddii: Pallas dall'altra parte fece la tela sua, et
+tessette in quella tutte le vittorie et gli onori degl'iddii.  Et
+come che la tela d'Aragne fusse nobile, pure quella di Pallas
+avanz@o in magisterio; onde Aragne, animosa et sdegnosa, si misse
+uno laccio in collo et impiccossi per la gola.  Pallas, avuto
+misericordia di lei, la sostenne; et quello filo a che ell'era
+appiccata divenne sottile; et secondo la favola, divenne ragno,
+et fa ancora, com'ella solea fare, le sue tele.
+
+	|19-20.  Come talvolta stanno~: Quando i navolesti non
+vogliono pi@u navicare, sogliono menare le nave, ovvero burchj,
+alla riva, et quivi rimangono che la prora @e in sulla terra et la
+poppa @e nell'acqua.
+
+	|21-22.  Et come l@a tra~: Lurchi, ci@o @e ghiotti; et non
+solamente ghiotti, ma ancora con bruttezza.  |Lo bevero
+s'assetta~: Ne' laghi della Magna usono certi animali, i quali si
+chiamono Beveri, i quali sono grandi a modo che cotali catelli,
+salvo che hanno il niffolo pi@u lungo a modo di volpe, et hanno la
+coda a modo d'una lingua di bue, soda et grassissima; et della
+lana loro si fa questi cappelli morbidi.  Usano nell'acqua, et
+pasconsi di pesci in questo modo, ch'egli hanno la coda grassa,
+com'@e detto: entrono nell'acqua; la coda, ch'@e grassa, fa cotali
+scandelli per l'acqua; i pesci, che sono vaghi di quello grasso,
+traggono l@a; il bevero, ch'@e parte di fuori dell'acqua e la coda
+hae nell'acqua, veggendo i pesci presso, gli percuote colla coda
+et uccideli.  Ora, per@o che alcuna volta i fiumi et i laghi
+dov'egli sta crescono, questi fa in sulla riva in luogo occulto
+cotali casette di legname, con palchetti dentro; et quando il
+fiume cresce v'entra dentro et come il fiume cresce cos@i monta di
+palco in palco, tenendo la coda et la parte dirietro nell'acqua,
+et l'avanzo da indi in su fuori dell'acqua.
+
+	|23-24.  Cos@i la fiera pessima~: Come il bevero, et come
+i burchi, et nell'acqua et fuori dell'acqua.
+
+	|25-27.  Nel vano tutta~: Chiama l'acqua cosa vana; non
+ch'ella sia vana, ma per rispetto ch'@e liquida @e simile alle cose
+vane.  |Che a guisa di scarpion~: Chiaro appare per quel ch'@e
+detto nella allegoria.
+
+	|35-36.  Al luogo scemo~: Scemo dice essere il luogo,
+per@o che ivi cadea l'acqua del settimo cerchio nell'ottavo, s@i
+che il luogo dov'ella cadea avea scemato et roso.  Et qui si
+purgono ancora i peccatori di quella altra qualit@a, ci@o @e della
+terza, i quali, prestando a usura, offendono l'arte, la quale noi
+dicemmo essere nipote di Dio et figliuola della natura.
+
+	|43-45.  Cos@i ancora su~: Ci@o @e per l'ultimo orlo del
+sabbione.
+
+	|46-48.  Per gli occhi fuor~: Ci@o @e piangeano, et
+piangendo sfogavono il loro duolo, et veniansi arrostando colle
+mani da' vapori che cadeano.
+
+	|49-51.  Non altrimenti~: La similitudine @e chiara.
+
+	|55-57.  E quindi par che~: Guardando la tasca ch'egli
+aveano a collo, si dilettavono gli occhi loro: il perch@e si dir@a
+appresso.
+
+	|59-60.  In una borsa gialla~: Questi, il quale l'Auttore
+non nomina, fu de' Gianfigliazzi, grande usurajo, i quali portono
+per arme uno leone azzurro nel campo a oro.
+
+	|61.  Poi procedendo~: Parla qui metaforice.
+
+	|62-63.  Vidine un'altra~: Questi fu degli Obriachi, i
+quali portono per arme una oca bianca nel campo vermiglio.
+
+	|64-66.  Et un che d'una scrofa~: Questo fue degli
+Scrofigni di Padoa, i quali portono per arme una scrofa azzurra a
+traverso nel campo bianco.
+
+	|68-69.  Sappi che 'l mio vicin~: Questi fu messer
+Vitaliano d'Asdente della citt@a di Padoa, grandissimo usurajo.
+
+	|70-73.  Spesse fiate m'intronon~: Dice ancora questo
+Padovano che i Fiorentini, ch'erono presso a lui, gridavono tanto
+|Venga il cavalier sovrano~, ch'egli l'aveono intronato.  Fue
+costui, ch'era chiamato, messer Gianni Bujamonti da Firenze, il
+quale portava per arme il campo giallo et tre becchi neri l'uno
+sopra l'altro, come stanno i Leopardi che sono nell'arme del re
+d'Inghilterra.
+
+	|79-81.  Trovai il Duca mio~: Chiaro appare.
+
+	|83-84.  Monta dinanzi~: Virgilio conforta a salire
+l'Auttore per la ragione detta su nell'allegoria.
+
+	|85-87.  Qual'@e colui~: Colui che aspetta la febbre
+quartana, innanzi ch'ella giunga comincia avere l'unghie smorte,
+per lo sangue, il quale si tira verso il cuore per scaldarlo, per
+lo freddo che gli dee dare la febbre: et dice che costui,
+guardando pure il freddo, ogni cosa gelata, immaginandola triema.
+
+	|91.  Spallacce~: Perch@e erono disordinate et sconce.
+
+	|94-96.  Ad altro forte~: Vuol dire che Virgilio l'avea
+sovvenuto pi@u volte, et a forte cose, come quando furono alla
+porta di Dite, et agli altri demonj che lo spaventaro.
+
+	|97.  Et disse: Gerion~: Chiama questa frodolenza
+Gerione.  Fue Gerione uno signore crudelissimo et frodolente
+nelle parti di Spagna, il quale accoglieva gli uomini et
+tiravagli a s@e d'ogni paese, et poi ch'egli gli avea nel suo
+albergo, mostrando di volere loro fare cortesia, gli rubava et
+uccidevagli, et davagli a mangiare et a divorare a sue cavalle
+ch'egli avea, per@o ch'era molto ricco di bestiame.  Ora
+finalmente Ercole Tebano, arrivando nel paese, et sentendo la
+crudelt@a di questo Gerione, finalmente l'uccise, per@o che trov@o
+le mangiatoje piene d'uomini morti.  Et perch'elli fu cos@i
+frodolente, chiama l'Auttore questa fiera Cerione.
+
+	|99.  Pensa la nuova soma~: Ci@o @e, questi ch'@e vivo, che
+mai pi@u veruno non ne passasti.
+
+	|100-101.  Come la navicella~: Chiaro appare.
+
+	|105.  E con le branche~: L'acqua, come ch'ella sia
+liquida et spessa, pure tiene dentro a s@e aere, et piglia qui
+l'Auttore l'aere per l'acqua.
+
+	|106-108.  Maggior paura~: Racconta Ovidio nel principio
+del II+o~ libro del ^Metamorfoseos~, et nella fine del I+o~ libro,
+che Feton, il quale fu figliuolo del Sole, superbo per lo padre,
+essendo uguale di tempo a Epafo, et usando con lui, gli disse pi@u
+volte parole ingiuriose et superbe: onde Epafo, non possendo
+sostenere la ingiuria, gli disse un d@i ch'egli si tenea troppo
+grande, et questo gl'intervenia per sciocchezza, ch'egli credea
+troppo alla madre, la quale gli avea detto ch'egli era figliuolo
+del Sole; et che questo non era vero, ch'egli non era figliuolo
+del Sole.  Onde Feton, adirato et sdegnoso, torn@o alla madre, et
+piagnendo gli disse ch'egli gli era stato rimproverato com'egli
+non era figliuolo del Sole, et pertanto che la pregava che gli
+dicessi i veri nascimenti.  La madre lev@o le mani al cielo, et
+disse: Io ti giuro per colui che vede tutte le cose, ci@o @e il
+Sole, che tu se' suo figliuolo; et se non @e cos@i, io priego lui
+che mai non mi si lasci vedere; et se tu non mi credi, va a lui:
+egli @e in cotal parte, egli tel dir@a.  Feton and@o dove la madre
+gli disse, et trovato il Sole, il quale era nella sua casa reale,
+si maravigli@o.  Il Sole, con quelli occhi co' quali vede tutte le
+cose vidde il figliuolo, et dimand@o della cagione per la quale
+egli era venuto.  Feton gli disse et pregollo ch'egli gli desse
+segno com'elli fusse suo figliuolo.  Il Sole gli disse ch'egli
+non dubitasse, che chiaramente egli era suo figliuolo; et che ci@o
+fosse vero, egli addimandasse qualunque cosa volesse, ogni cosa
+arebbe da lui.  Appena avea il Sole compiuto di dire queste
+parole, ch'egli addimand@o di reggere i carri del sole.  Il Sole,
+udendolo, si pent@e d'avergli promesso: volle rimuovere Feton; non
+v'ebbe luogo: finalmente, poi che promesso gliel'avea, gli diede,
+et ammonillo di quello ch'egli avessi a fare; et venuta l'aurora,
+il Sole gli pose in capo la diadema de' razzi, et egli si mosse
+col carro del Sole; et sentendo i cavalli che tiravono il carro,
+non esser retti com'elli soleano, cominciorono in qua et in l@a ad
+andare per lo cielo, non per lo diritto cammino; onde per lo
+calore gi@u nel mondo molti fiumi si seccorono: poi finalmente,
+venuto il Sole al segno dello scarpione, Feton per paura lasci@o
+al tutto i freni de' cavalli, et i cavalli corsono in qua et in
+l@a per lo cielo.  Ultimamente la terra, arsa et divorata per lo
+caldo, preg@o Giove che gli levasse il calore da dosso.  Jove
+fulmin@o Feton, onde egli cadde del carro et cadde nel Po; onde
+incontanente fu levato il calore della terra, et i fiumi ch'erono
+secchi si rifeciono.  Ora questo mezzo dove andorono i carri del
+sole, cossono tutto il cielo.  Questo @e secondo la favola.  La
+verit@a fu che in quel tempo stette il cielo bene per spazio di
+pi@u di sei mesi che in Grecia non piovve; onde per lo secco tutti
+i fiumi di Grecia scemorono, et qual si secc@o.  Feton hae a
+significare questo; ch@e tanto vuol dire Feton quanto Incendio:
+per ci@o dicono i poeti Feton figliuolo del Sole.  Et @e vero che
+lo incendio et il calore @e figliuolo del Sole: non che 'l sole
+sia caldo da s@e; ma quando egli percuote in questi elementi, per
+la chiarezza de' razzi suoi, riscalda.  La terra, non possendo
+pi@u sostenere, preg@o Giove.  Ci@o @e Iddio onnipotente, veggendo la
+terra essere sterile, acci@o ch'ella menasse frutto, fulmin@o
+Feton, ci@o @e fece piovere, onde tutta la terra si bagn@o et mor@i
+questo incendio; onde i fiumi ch'erono secchi tornorono ne' loro
+luoghi.  Cadde Feton in Po.  Gli Ebrei figurono nel cielo tutta
+la terra et i fiumi; ora in quella parte dello Scarpione, di che
+@e ragionato, @e figurato il fiume del Po.  Dicono ancora i poeti
+che 'l cielo si cosse in quella parte; et questo non vuol dire
+altro, se non che il Sole, poi ch'@e entrato in Libra, di venti
+punti di Libra infino a dieci punti dello Scorpione, per la virt@u
+del Sole, tutte le foglie degli albori si seccono, onde pare il
+cielo essere arso: quando egli arde cos@i, quando il sole @e in
+quella parte, tutte le cose che sono sopra la terra, ci@o @e queste
+delle quali @e ragionato; et @e questo tempo dal principio
+d'Ottobre infino a venti d@i del mese: et in quello tempo venne
+quella piova della quale @e fatta menzione.
+
+	|109-111.  N@e quando Icaro~: Com'@e trattato addirietro
+nel XII capitolo di questo libro, Pasife, moglie del re Minos di
+Creti, essendo innamorata del toro, non trovando da s@e modo di
+potere giacere con questo toro, mand@o per Dedalo ingegnoso uomo,
+il quale fece la vacca del legname, nella quale entr@o Pasife et
+us@o col toro, del quale congiugnimento nacque il Minutauro.  Era
+tornato il re Minos d'Atene, et saputo l'adulterio commesso per
+l'artificio di Dedalo, il fece pigliare et mettere in una torre,
+lui et Icaro suo figliuolo, la qual torre era molto fra 'l mare;
+et questo fece per non avere mai remissione Dedalo, sentendosi
+rinchiuso, et chiuso il mare et la terra da poter fuggire, et non
+veggendo altro aperto che l'aere, pens@o d'andare per quella: fece
+artificiose ale, et appiccolle a s@e et al figliuolo, et tutto
+s'empi@e di penne con cera legate; et mostr@o questo al figliuolo
+dicendo: Vedi, per queste ale si conviene tornare a casa nostra;
+ogni altra via ci ha chiusa il re Minos.  Et ammonillo ch'egli
+non tenessi troppo verso il cielo, per@o che per lo caldo del sole
+la cera si scalderebbe; et, s'elli tenessi troppo basso,
+poterebbe incappare ne' poggi, et forse per l'umidore immollarsi
+le penne.  Ammonillo adunque ch'egli tenessi la via del mezzo, et
+baciato Icaro suo figliuolo, sel misse innanzi, et egli vol@o
+appresso a lui.  Icaro, per la vaghezza del volare, non contento
+agli ammonimenti del padre, tenne verso il cielo.  Gridando
+continuamente Dedalo ^Tu tieni mala via~, Icaro, non si ritenendo
+per questo, tenne tanto verso il cielo che le penne si
+scaldorono, et la cera con che ell'erono appiccate si strusse;
+onde, rimaso senza penne, per@o che si spiccorono, Icaro, non
+possendo sostenere, in mare, l@a presso all'isola di Sardigna,
+cadde, et ivi affog@o; et per lui ebbe nome quel mare il mare
+Icaro.  Dedalo camp@o, et torn@o a casa sua.  Ora questo @e secondo
+la favola.  La verit@a fu che Dedalo, com'@e scritto nel XII
+capitolo di questo libro, fue ingegnoso uomo, per lo cui ingegno
+et arte Pasife us@o con quello scrittore del re, nome Toro; onde
+il re Minos, saputo il fatto, fece mettere Dedalo et Icaro suo
+figliuolo in una torre fra mare, a fine che mai questo fatto non
+si ridicesse, et che mai di quello luogo non uscisse; onde
+Dedalo, veggendo chiusa ogni altra via, fece due navicelli,
+nell'uno entr@o il figliuolo, nell'altro entr@o egli.  Ora, come
+gli uccelli hanno l'ale, per le quali elli volano per l'aere,
+cos@i le navi hanno remi, pe' quali vanno per l'acqua; et per@o
+dicono i poeti che Dedalo fece alie.  Ammon@i Dedalo Icaro ch'egli
+non tenessi troppo presso alla terra, per@o che potea percuotere
+negli scoli et rompere la nave.  Icaro, per vaghezza di navicare,
+ch@e poco v'era uso, tenne fra 'l mare, onde sopravvenne una
+tempesta, per la quale la nave ruppe, onde Icaro l@a presso a
+Sardigna cadde et affog@o in mare: et perch'egli affog@o in quello
+luogo, fue quello mare chiamato il mare Icaro.
+
+	|112-114.  Che fu la mia~: Fa la comparazione.
+
+	|115-117.  Ella sen va~: Dice l'Auttore, che, per@o che
+quella scesa del fiume era dirupinata molto, et Gerione aveva
+addosso l'Auttore, per fare che la scesa fosse pi@u leggeri,
+pigliava le rote larghe, a simile di una scesa dirupinata d'uno
+monte, che la via per la quale vae ha volte, acci@o che la scesa
+sia meno fatichevole: onde era s@i poco lo smontare, che appena se
+n'accorgeva l'Auttore.
+
+	|122-126.  Et vidil poi~: Dice l'Auttore che, per@o
+ch'egli sent@i pianti, che in prima non gli avea sentiti,
+s'accorse ch'egli era appressato al luogo, et per tanto che
+Gerione era sceso, ch@e in prima non se n'era accorto.
+
+	|127-132.  Come 'l falcon~: Chiaro appare.
+
+	|133-136.  Cos@i ne pose~: Rotando a modo di falcone, che
+scende alla terra per molte ruote: Gerione, per simile modo
+sceso, pos@o l'Auttore a pi@e della scesa ch'@e stagliata, ci@o @e
+senza scoglio: et cos@i compie la intenzione del decimo settimo
+capitolo.

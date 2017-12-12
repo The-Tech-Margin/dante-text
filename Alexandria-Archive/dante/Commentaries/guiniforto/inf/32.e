@@ -1,0 +1,402 @@
+	|Canto XXXII dell'Inferno, ove deposto Dante nel pozzo,
+vide in ghiaccio nel primo girone, chiamato Caina, puniti i
+traditori dei fratelli, ed altri loro pertinenti, e nel secondo,
+chiamato Antenora, i traditori della Patria.~
+
+	|Proemio.~  Nel Canto presente e ne' due seguenti
+descrive Dante il suo passaggio per lo nono cerchio dell'Inferno,
+ove vide la pena de' traditori, fraudolenti, rompitori di fede,
+sommersi in ghiaccio ed indi pervenuto al centro della terra,
+dove stava Dite, Lucifero, descrive il suo passaggio oltra il
+centro, ed indi la salita che fece dall'altra parte in su verso
+l'altro emisperio.  Circa questo trattato serva l'autore cotal
+ordine.  Prima per ornamento di poesia, e perch@e i lettori di
+quest'opera rinfreschino lo ingegno loro ad attenzione, fa un
+preambolo alla materia della quale vuol dire.  Poi attendendo,
+che quattro si possono assegnare le specie de' traditori, la
+prima de' rompitori di fede verso i fratelli, od altri parenti,
+tra i quali ha posto natura vincolo di amore, ed alquanta
+congiunzione di volont@a, ancora senza nostr'opera propria, o
+deliberazione.  La seconda de' traditori della Patria, che in s@e
+abbraccia padre, fratelli, parenti, vicini, ed universalmente
+tutti i cittadini pertinenti alla stessa Nazione, e per la qual
+Patria, secondo il giudizio di ogni buon filosofo, pi@u dobbiamo
+fare, che per padre, per figli, o per moglie.  La terza de'
+traditori rompitori di fede, proceduta da spontanea e volontaria
+congiunzione, indotta per opera e compiacenza di alcun di loro. 
+La quarta specie, quantunque ridurre si possa sotto la terza,
+nondimeno per la magnitudine del peccato merita special nome. 
+Questa @e di quelli che tradiscono i loro benefattori.  Tal
+variet@a di traditori attendendo Dante, tratter@a in questi tre
+Canti di ciascuna specie separatamente l'una dall'altra. 
+Descriver@a poi lo stato di Lucifero, ed il passaggio di Virgilio
+e di s@e oltra il centro; finalmente in brevi parole dir@a, come
+fuor della terra salirono a vedere il Cielo.  Piacemi dunque
+distinguere questi tre Canti in otto parti principali: nella
+prima si fa il sopraddetto preambolo: nella seconda, perocch@e
+rompimento di manco stretta fede pare quello, che infrange il
+vincolo di volont@a da natura ingenerato, per tal rispetto in essa
+si tratta della prima specie de' traditori contra i fratelli od
+altri parenti.  Comincia questa seconda parte nel testo non lungi
+dal principio del Canto, ivi: ^Come noi fummo.~  Della seconda
+specie di traditori contra la Patria si parla pure nel presente
+Canto, e comincia a quei versi: ^Poscia vid'io~, e prosegue
+continuando questa materia insino oltra il mezzo del Canto
+seguente.  In due particelle mi piace dividere questa parte;
+nella prima generalmente parla, e dietro ci@o in particolarit@a di
+alcuni ai quali attribuisce infamia di tradimento contra la
+Patria.  Nella seconda dice averne veduto uno degno di special
+nota, del quale si estende il parlamento fin oltra il mezzo del
+Canto seguente.  Quella seconda particella comincia presso al
+fine del Canto presente, ivi: ^Noi eravamo.~  E partendo dal
+trinario che comincia, ^Noi passamm'oltre~, comincer@a della terza
+specie de' traditori.  Della ultima specie poi, dei quali
+parlando, descriver@a lo stato e la forma di Lucifero, si tratta
+nel principio dell'ultimo Canto.  Poscia descrive il suo
+passaggio ed il modo di passare, ivi: ^Come a lui piacque~;
+finalmente la sua salita fuor della terra a vedere il Cielo
+vedremo presso alla fine di questa Cantica, ivi: ^Loco @e
+lagggi@u.~  Inoltre saper dobbiamo, che tutti i traditori finge
+sommersi in ghiaccio, a denotare in loro nella presente vita
+essere estinto ogni, non dico ardore, ma pur calore di carit@a: ed
+in diversi modi finge sommersi ed in diverse parti del pozzo:
+quelli della prima specie presso alle sponde per tutto intorno
+col capo solo fuori del ghiaccio guardando in gi@u, e chiamasi
+quel girone ^Caina~, da Caino uccisore del fratello per invidia. 
+Quelli della seconda specie nel secondo che non tocca il muro,
+chiamato ^Antenora~, puniti nello stesso modo, salvo che sono pi@u
+gelati.  Quelli della terza specie nel terzo girone, chiamato
+^Ptolomea~, pi@u verso il mezzo del pozzo, anch'essi posti nel
+ghiaccio, quanto i sopraddetti, salvo che stanno col viso
+riversato in su.  Quelli della quarta specie tutti sommersi nel
+quarto girone; chiamato ^Giudecca~, in circuito di Lucifero che
+sta nel mezzo.
+
+	|1-12.  Se io avessi le rime et aspre e chiocce~: Quanto
+alla prima parte del presente Canto, Dante per farci attenti alla
+materia di che parler@a mostra prima, ch'ei non si fidi poter
+esplicarla in modo convenevole; per@o invoca le muse, che
+aiutarono Anfione, figlio di Giove e di Antiope, a circondar di
+mura la citt@a di Tebe.  Del quale Anfione fingono i poeti, che
+tanto bene seppe suonare la cetra, che avendo gi@a scacciato da
+Tebe Cadmo primo fondatore di quella citt@a, volendola circondare
+di muro, e non sapendo come altramente lo potesse fare, cominci@o
+soavemente a suonare in modo che le pietre si mossero dai monti,
+e nel luogo deputato accostandosi debitamente l'una all'altra
+senz'altro maestro, levarono il muro.  La qual finzione si
+riferisce a verit@a di storia, conciosiach@e Anfione fu di tanta
+eloquenza, che gli uomini rozzi di quel paese, che riputare si
+potevano pietre, indusse a venire alla citt@a ad abitare insieme,
+a viver civilmente ed a fortificarsi in moltitudine di popoli, ed
+in muraglie.  Quelle muse di eloquenza, che tali grazie diedero
+ad Anfione invoca Dante, che siano in suo aiuto, e poi per orrore
+di mente che ha nel ricordarsi ci@o che vide laggi@u, fa una
+esclamazione contra i peccatori ivi puniti.  Dice adunque: Se io
+avessi aspre e chiocce, mal risonanti le rime (i volgari versi di
+questa mia poesia) come si converrebbe alla materia, di che debbo
+parlare, la quale @e del tristo buco, del pozzo cavato nel centro
+della terra, sovra il quale pontan tutte le altre rocce, tutti
+gli altri circoli dell'inferno, che sono di rocca, ed ancora
+tutti i gravi pesi del mondo, che tratti gi@u verso il centro da
+ogni parte si vengono a fermare, e terminare gi@u a quel buco. 
+Or, se io avessi tali rime, premerei il suco del mio concetto pi@u
+pienamente; dichiarerei la sentenza mia con maggior forza, ma
+perch@e io non le abbo, non le ho, cos@i aspre e chiocce, non senza
+tema mi conduco a dicere, mi conduco a dire; perocch@e descriver
+fondo a tutto l'universo non @e impresa da pigliare a gabbo, da
+pigliare a beffe, da farne s@i poca stima; n@e da lingua che chiami
+mamma, o babbo.  Non @e impresa da fanciullino che alla madre dica
+mamma, ed al padre dica babbo.  Non @e impresa da uomo che non sia
+ben scienziato ed eloquente.  Ma perch@e io da me non sono
+sufficiente a ci@o, quelle donne, che aiutaro Anfione a chiuder di
+muro la citt@a di Tebe in Grecia, aiutino il mio verso, s@i che il
+dire non sia diverso dal fatto: sicch@e io propriamente dica come
+sta il fatto.
+
+	|13-15.~  Posto che ha sua fidanza nell'aiutorio delle
+muse, volendo venire al fatto, prima per orror di mente grida:
+Oh!  sopra tutto mal creata plebe: O pi@u che tutte l'altre
+maledetta gente, che stai nel loco, onde il parlare, del qual
+luogo il parlare mi @e duro; voi foste, voi sareste qui state mei,
+cio@e meglio, pecore o zebe, o capre, che uomini per cadere in
+peccati, onde meritaste cotal luogo, e pena.
+
+	|16-24.  Come noi fummo gi@u nel pozzo scuro~: Volendo
+Dante descrivere la pena de' rompitori di fede secondo la prima
+specie, prima denota qual era quel ghiaccio del pozzo, poi
+descrive il modo della pena, e nomina in specialit@a alcuni, che
+pi@u a lui piacque mettere in perpetua infamia.  Dice: come noi
+fummo gi@u nel pozzo scuro sotto i pi@e del gigante Ant@eo, assai
+pi@u bassi, che quel gigante, ed io mirava ancora intorno il muro,
+sicch@e non vedeva ghiaccio che mi fosse sotto: udimmi una voce
+dicere: va s@i che tu colle piante de' piedi non calchi le teste
+de' fratei miseri lassi.  Perch'io, per la qual voce io mi volsi,
+e vidimi davante, e sotto i piedi un lago, che per gelo avea
+sembiante di vetro, non di acqua.
+
+	|25-30.~  Quanto grosso fosse quel gelo lo descrive
+facendo alcune comparazioni, dicendo, la Danoia, ovvero il
+Danubio, fiume grandissimo, che nasce in Allemagna alta, non fece
+mai d'inverno in Austrelicchi, paese freddo, s@i grosso velo al
+suo corso, s@i grosso ghiaccio a velare, a coprire il suo corso,
+quando tutto di sopra gelato il verno, lo restante dell'acqua non
+gelata fa suo corso sotto il ghiaccio.  N@e il Tanai, quell'altro
+gran fiume che parte l'Europa dall'Asia, fece mai s@i grosso velo
+l@a sotto il freddo cielo, sotto la tramontana nelle parti
+settentrionali, ove i ghiacci sono continui, mai alcuno de' detti
+fiumi, che pi@u si sogliono gelare ch'altro famoso fiume, fece tal
+ghiaccio, come era quivi nel pozzo, il qual ghiaccio era tale,
+che se Tabernicchi, montagna di Schiavonia, o Pietra piana, altra
+montagna Lucchese, vi fosse caduto su, non avria questo ghiaccio
+fatto cricchi pur dall'orlo, non si saria aperto il ghiaccio
+nemmeno dall'orlo facendo un suono a modo di cricchi: onde puoi
+pensare quanto vi era grosso.  Moralmente l'autore per questo
+tanto gelo vuol denotare la gran durezza che occupa il gelato
+cuore de' traditori, la qual durezza romper non pu@o alcuna
+possanza di cosa acuta.
+
+	|31-39.  E come a gracidar si sta la rana~: La pena di
+quelli che hanno rotto fede verso i fratelli, od altri parenti @e
+qui descritta; onde per denotare in che modo stavano le anime di
+tali nel ghiaccio, si adduce una similitudine, dicendo: E come
+nel tempo quando la villana sovente sogna di spigolare, come nel
+mese di giugno o luglio, nel qual tempo la villana di giorno
+raccogliendo le spiche rimaste nei campi, ancora di notte
+dormendo spessa fiata sogna ci@o fare, dico, come in quel tempo la
+rana sta a gracidare, a fare il suo verso col muso for
+dell'acqua, essendo il restante del corpo sotto, in tal modo le
+ombre dolenti ivi dannate erano per freddo livide nella ghiaccia,
+tutte dentro infin l@a dove par vergogna, fino al viso, nel quale
+per la mutazion del colore, e confusion degli occhi si suol
+decernere, quando l'uom ha vergogna; e dico, che ivi erano quelle
+ombre mettendo i denti in nota, a similitudine di cicogna,
+sbattendo i denti l'uno contra l'altro, sicch@e si facevano udire
+come fa la cicogna, quando sbatte il becco.  Ognuna di quelle
+ombre teneva la faccia volta in gi@u; il freddo, ed il cuor tristo
+si procaccian testimonianza tra loro, il freddo procaccia sua
+testimonianza dalla bocca, la quale sbatte i denti, ch'@e segnale
+di freddo: il cuor tristo procaccia testimonianza dagli occhi,
+che piangono, onde si dimostra essere nel cuore tristezza.  Altra
+moralit@a qui non mi piace dire, se non che Dante finge questi
+peccatori, e quelli della seconda specie star con la faccia in
+gi@u, perocch@e a tali induce orrore la natura nel commettere, o
+pensare il loro peccato; onde non par loro, che possano sostenere
+di guardare a viso aperto, ma conviene che abbassino gli occhi
+alla scura, e riversata.
+
+	|40-48.  Quand'io ebbi d'intorno alquanto visto~: Qui
+l'autore dice aver veduto alcuni de' quali in specialit@a ud@i il
+proprio nome.  Quand'io ebbi alquanto visto d'intorno volsi i
+miei piedi per andare verso il mezzo del pozzo, e vidi due
+dinanzi a me s@i stretti l'uno presso all'altro, che avevano misto
+insieme il pel del capo.  Allora io dissi: o voi, che s@i
+stringete i petti l'uno contro l'altro ditemi, chi siete?  E quei
+piegaro i colli per guardarmi, e poi ch'ebbero eretti a me i
+visi, poich@e mi ebbero veduto e conosciuto, gli occhi loro che
+pria erano dentro pur molli, e non piangevano, gocciarono allora
+su per le labbra; il gelo strinse le lacrime tra essi, tra le
+palpebre congelando le lacrime, e riserrolli.
+
+	|49-54.~  Facendo una similitudine mostra quanto forte
+furono chiusi da quelle lacrime gelate, dicendo, che spranga non
+strinse mai cos@i forte legno con legno.  Onde, cio@e, fatto ci@o,
+ei cozzaro, quei due peccatori insieme percossero fronte contro
+fronte, come due becchi sogliono fare l'uno contro l'altro.  E
+ci@o fecero, tant'ira li vinse, perch@e non avevano potuto veder
+Dante, o forse perch@e loro doleva di essere veduti da lui, ed
+anche perch@e la presenza di lui rinnovava in essi la memoria
+dell'antico odio che intra se medesimi avevano portato nel mondo,
+vivendo in un paese con esso lui.  Come sapesse Dante chi erano,
+lo recita nel testo.  Ed un altro dannato, che per la freddura
+aveva perduto ambo gli orecchi, pur col viso in gi@u, disse a me:
+perch@e ti specchi tu, perch@e guardi tu tanto in noi?
+
+	|55-60.  Se vuoi saper chi sono cotesti due~ io te lo
+dir@o.  Sappi, che la valle, onde Bisenzio, fiume cos@i chiamato
+intra Fiorenza e Pistoia, dichina verso l'Arno, nel quale entra;
+quella valle fu del padre loro Alberto, e fue di loro; d'un corpo
+uscirono, sicch@e furon fratelli di padre e di madre: e tu potrai
+cercare tutta la Caina, tutto questo primo girone, appellato
+Caina, e non troverai ombra degna pi@u di esser posta in gelatina,
+in questo gelo, conciosiach@e ambedue questi fratelli, non pur un
+solo tradimento, e tra agnati, ma molti avendone fatti,
+finalmente, dicesi, che si uccisero l'un l'altro.
+
+	|61-69.~  Per confermare questo dannato, ch'ei dica il
+vero, nomina un altro gran traditore contra il padre, dicendo,
+quell'altro non essere stato maggiore che questi due.  Per
+notizia del quale, senza estendermi in novelle non autentiche,
+brevemente dico, che il re Arturo di Brettagna ebbe un figlio
+bastardo, nominato Morderetto, che, volendo privare il padre del
+regname, venne in battaglia contra lui, e da esso fu passato con
+una lancia da parte all'altra, in modo che essendogli poi tratto
+il ferro dal petto, rimase tanto larga la piaga, che il sole
+mand@o i raggi per entro fino in terra nel mezzo dell'ombra, che
+faceva il corpo.  Perocch@e di questi due fratelli, dice il
+dannato che parla, non troverai in tutta la Caina ombra pi@u degna
+di esser fitta in gelatina, non @e pi@u degna l'ombra di quelli, di
+Morderetto, a cui con esso un colpo fu per la man di Art@u, suo
+padre, rotto il petto, e rotta l'ombra, forato il petto in tal
+modo, che anche parve rotta l'ombra del corpo suo nel mezzo di
+essa, parendo il raggio del sole passato per entro la ferita. 
+Non ancora @e pi@u degno che costoro, Focaccia, Pistoiese, di stare
+in gelatina, il quale uccise il fratello del padre, onde nacque
+la parzialit@a de' ^Bianchi~ e ^Negri~, che in breve tempo
+largamente si distese per Toscana, massimamente in Fiorenza.  Non
+ancora @e pi@u degno di stare in gelatina quelli che m'ingombra il
+capo, che mi sta qui nanti al capo, che mi occupa la vista s@i,
+ch'io non veggio pi@u oltre chi altri siano qui da me conosciuti. 
+Lo quale, se tu vuoi sapere chi sia, io tel dico: ei fu nomato
+Sassol Mascheroni, se tu con cui parlo sei Tosco, omai ben sai
+chi fu, e ci@o che fece, che uccise a tradimento un fanciullo,
+figlio unico di suo fratello, per succeder lui nella eredit@a;
+onde fu punito per pubblica sentenza.  E se vuoi anche sapere chi
+io fui, io tel dir@o di presente, perch@e tu non mi metti in pi@u
+sermoni, perch@e tu non mi tenga in pi@u parole, dimandandomi chi
+io sia.  Sappi, ch'io fui il Camiscion dei Pazzi da Fiorenza,
+anch'io per simili peccati qui dannato, ed aspetto Carlin, mio
+parente, che mi scagioni, il quale ancora vive diffettoso di s@i
+brutto vizio, in tal modo che quando pubblicato sia il suo, il
+mio sembrer@a minor peccato, e parer@a, che la sua infamia cuopra
+la mia, e quasi mi scusi.
+
+	|70-78.  Poscia vid'io mille visi cagnazzi~: Parla qui
+Dante di quelli, che hanno rotto fede contro la patria, puniti
+nel secondo girone appellato Antenora da Antenore Troiano; al
+quale, se al soprano istoriografo latino creder vogliamo,
+falsamente @e imputato aver tradito Troia a' Greci, quando fu
+distrutta.  E descrive, che in un medesimo modo tengano costoro
+la faccia in gi@u, come quelli della Caina, perocch@e orror di
+natura cos@i abbassa, e riversa la vista a loro, come a quegli
+altri; ma denota, questi aver visi cagnazzi pi@u dal freddo
+tormentati, secondo che maggiore @e stato il loro peccato, come
+dichiarai nel principio del Canto presente.  Dice dunque
+l'autore, poscia vid'io mille visi fatti cagnazzi per freddo,
+onde mi vien riprezzo, mi vien rigore alla persona, e verr@a
+sempre, ricordandomi de' gelati guazzi di quel luogo.  Per
+questo, con supplemento di ci@o che fu detto nella precedente
+parte, comprender si puo la general pena di costoro.  Vuol venire
+Dante a nominare alcuni in particolarit@a, e dice.  E mentre che
+noi andavamo in ver lo mezzo, al quale ogni gravezza si rauna,
+cercando ogni cosa grave andar gi@u al centro della terra, che ivi
+era nel mezzo del pozzo; or mentre che ivi andavamo, ed io
+tremava nell'eterno rigore di freddo; non so, se fu voler mio
+proprio di far cos@i, o destino, perch@e Dio avesse cos@i ordinato,
+o fortuna; ma pur accadette, che passeggiando tra quelle teste,
+che avanzavano fuora del ghiaccio, io percossi forte il pi@e nel
+viso ad una.
+
+	|79-87.~  Ella percossa mi grid@o piangendo, perch@e mi
+peste?  perch@e mi molesti, se tu non vieni a crescer la vendetta
+di Monte-Aperti, la pena, ch'io patisco da Dio per vendetta del
+tradimento, ch'io, essendo Firentino di reggimento, feci in tener
+modo, che lo esercito de' Fiorentini fu presso a Monte-Aperti
+sconfitto, con grandissima effusione di sangue, e morte d'uomini,
+da fuorusciti di quel tempo co' loro collegati.  Dice l'autore:
+ed io Dante, udite queste parole, dissi a Virgilio: O Maestro
+mio: or aspettami qui, s@i ch'io esca d'un dubbio per costui.  Poi
+quando sar@o uscito di questo dubbio faraimi fretta di camminare,
+quantunque vorrai.  Lo Duca stette; ed io a colui che ancora
+bestemmiava duramente, dissi: O qual se' tu che cos@i rampogni
+altrui?
+
+	|88-96.~  Ed egli disse a me: Or tu chi se', che per
+l'Anten@ora, per questo girone cos@i chiamato da Antenore riputato
+della patria sua Troia traditore, vai percotendo ad altrui le
+gote s@i, che troppo fora, troppo saria, se tu fossi vivo?  Contra
+costui mia risposta fu: io son vivo, e se domandi fama caro esser
+ti pu@o, ch'io metta il nome tuo tra le altre note, tra i nomi
+degli altri, ch'io noter@o in scrittura a perpetua ricordazion
+loro.  Ed egli a me: io ho brama del contrario; io non vorrei,
+che il mio nome fosse posto in nota; ma vorrei, che la infamia,
+la quale di me ancora nel mondo dura gi@a fosse posta in tacere, e
+dimenticanza.  Or levati quinci tu che mi hai percosso, e non mi
+dar pi@u lagna, e non mi dar pi@u motivo di lamentarmi, perocch@e
+mal sai lusingar per questa lama, per questo luogo, il qual si
+puo chiamar lama per la congregazione di acqua, che vi si fa.
+
+	|97-102.~  Dante cos@i accomiatato da costui soggiunge nel
+testo ci@o che fece per udire il nome suo.  Dice: allora io lo
+presi per la coticagna, e dissi: e' converr@a, che tu ti nomi, o
+che qui su questa coticagna non ti rimagna capello; ond'egli
+rispose a me, perch@e tu mi dischiomi, ancor che tu mi discapelli,
+non ti dir@o chi io sia, n@e mostrerolti, n@e te lo mostrer@o,
+levando il capo in su, perch@e mi possa conoscere, se mille fiate,
+quantunque mille fiate tu mi tomi, tu mi percuota in sul capo,
+gi@a levati che tu mi abbia i capelli.
+
+	|103-111.~  Mostra in che modo ud@i nominar costui, e
+dice: Io aveva gi@a i capelli in mano avvolti, e tratti ne li avea
+pi@u di una ciocca, pi@u di una brancata, latrando lui con gli
+occhi in gi@u rivolti, quando un altro dannato grid@o, che hai tu o
+Bocca?  non ti basta gridar con le mascelle, sbattendo i denti in
+modo di cicogna, se tu non latri a modo di un cane?  Qual diavolo
+ti tocca?  Uditolo nominare chi egli era: Messer Bocca, io dissi,
+malvagio traditore, omai non vo', non mi curo, che tu favelle. 
+Io con la tua onta, con tuo vitupero porter@o su al mondo vere
+novelle di te.
+
+	|112-117.~  Gi@a essendo nominato costui, l'autore
+per mettere anche altri in nota lo introduce successivamente a
+nominare quello, che nominato avea lui, ed anche altri.  Onde
+dice: Bocca rispose a me: Va via; e conta ci@o che tu vuoi; ma se
+tu eschi di qua entro non tacer di quei che ora ebbe cos@i pronta
+la lingua in nominarmi per nome proprio.  Sappi ch'ei piange qui
+l'argento de' Franceschi, piange il tradimento, che da Francesi
+corrotto con pecunia, fece, tenendo modo, che la resistenza non
+valse, la quale fedelmente apparecchiavano fare i Cremonesi in
+favor del re Manfredo contra la gente del re Carlo, dei quali
+Manfredo e Carlo fu detto alquanto nel XXVIII Canto.  Tu quando
+sarai da qui uscito, portando novelle ancora di costui, potrai
+dire: io vidi quel da Doera l@a dove i traditori stanno freschi in
+ghiaccio nel profondo pozzo.
+
+	|118-123.~  E se tu fossi dimandato chi vi era altri in
+questo pozzo, tu hai dallato quel da Beccaria, Messer Tesanco,
+Abbate di Val-Ombrosa, a cui seg@o Fiorenza la gorgiera a cui
+fecero i parziali, che signoreggiavano in Fiorenza, tagliar la
+testa, imputandogli, che trattava introdurre la parte fuoruscita. 
+Prosegue Messer Bocca in nominare altri, dicendo: Gianni di
+Soldanieri, che gentiluomo, nel tempo che gentiluomini reggevano
+lo stato in Fiorenza, a tradimento si fece capo del popolo per
+discacciare gli altri gentiluomini con loro distruzione.  Questo
+Gianni credo che sia pi@u l@a pur nell'Antenora con Ganellone, del
+qual traditore fu detto nel Canto precedente circa il principio,
+dove si parl@o di Orlando, e con Tribaldello, che apr@i Faenza ai
+Bolognesi, quando si dormiva.
+
+	|124-132.  Noi eravamo gi@a partiti da ello~: Introduce
+Dante, che abbia veduto il Conte Ugolino da Pisa dal quale ode
+recitare il modo di sua morte; onde si muove a biasimare Pisa. 
+Or quanto al presente Canto descrive solamente, come ci vide
+costui roder la testa ad un altro peccatore, e come lo invit@o a
+dire chi era, e perch@e cos@i faceva.  Dice: Noi, Virgilio ed io,
+eravamo gi@a partiti da ello, da Messer Bocca, ch'io vidi duo
+ghiacciati in una buca ambedue insieme, s@i che l'un capo era
+cappello all'altro, l'un capo era disopra dall'altro, quel di
+sopra era del Conte Ugolino dei Gherardeschi da Pisa, l'altro era
+dell'Arcivescovo Ruggieri.  E come il pane si manduca per fame,
+cos@i il sovran, quel ch'era superiormente, pose li denti
+all'altro l@a dove il cervel si aggiunge colla nuca.  Per una
+similitudine mostra, come lo rodeva; per notizia della quale
+dico, che alla guerra di Tebe contra Eteocle di cui fu detto in
+alcuni luoghi di sopra, essendo andato con Polinice il cognato
+Tideo, re di Calidonia, vi fu mortalmente ferito dall'arciere
+Menalippo, di che non avendo pazienza, comand@o a' suoi, che
+tenessero modo di presentargli nanti che morisse la testa di
+colui che ferito lo aveva.  La qual cosa con dura battaglia
+mandata ad esecuzione, pigli@o in mano Tideo quella testa, e come
+arrabbiato cacci@o i denti in essa.  Di ci@o parla Dante, dicendo:
+non altrimente Tideo s@i rose le tempie a Menalippo per disdegno
+alla guerra di Tebe, che quei, che il sovran faceva all'altro
+peccatore il teschio, l'osso del capo, e l'altre cose, che vi
+eran entro.
+
+	|133-139.~  Soggiunge il suo parlare verso colui, e dice. 
+Io Dante dissi: O tu che per s@i bestial segno mostri odio sovra
+colui che ti mangi, dimmi il perch@e lo fai, per tal convegno, a
+tal convenzione e patto, che se tu a ragion ti piangi di lui, io
+sapendo chi voi siete, e sapendo la sua pecca, ancor io te ne
+cangi, ancora te ne renda cambio rimeritandoti di ci@o, e
+moltiplicando fama suso nel mondo, se quella con che parlo, se la
+mia lingua non si secca.  Vedremo la risposta nel Canto seguente.

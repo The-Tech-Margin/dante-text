@@ -1,0 +1,7 @@
+ddpload desc inf/[0-3][0-9] purg/[0-3][0-9] para/[0-3][0-9]
+cd inf
+compress *
+cd ./../purg
+compress *
+cd ./../para
+compress *

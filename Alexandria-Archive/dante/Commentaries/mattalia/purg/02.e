@@ -1,0 +1,894 @@
+	|1-2.  Gi@a~: i dati sottintesi a questa indicazione
+dell'ora, spiegata in tutti termini di <arte> astronomica, sono i
+seguenti.  Il globo terracqueo @e diviso in due emisferi, boreale
+e australe, divisi dall'equatore, tagliato a sua volta,
+normalmente, dalla linea congiungente i due poli.  Gerusalemme si
+trova nell'emisfero boreale, a circa 32+o~ di latitudine nord, e il
+Purgatorio nell'emisfero australe, ai suoi esatti antipodi, e
+perci@o a una corrispondente latitudine sud, come sar@a spiegato in
+^Purg.~, IV, 55-84: di conseguenza, il mattino di Gerusalemme
+sar@a la sera del Purgatorio, il mezzogiorno della prima la
+mezzanotte del secondo, e viceversa.  Nell'emisfero boreale,
+Gerusalemme @e situata in un punto equidistante dai limiti estremi
+dell'emisfero stesso; le colonne di Ercole a occidente, secondo
+la geografia medievale, e la foce del Gange ad oriente.  Il sole,
+impiegando 24 ore a fare il giro completo della terra (360+o~), ne
+impiegher@a ovviamente sei a percorrere un angolo di 90+o~, cio@e la
+distanza tra Gange e Gerusalemme, e tra questa e le colonne
+d'Ercole; mezzanotte al Gange @e quindi la sera a Gerusalemme, e
+mezzogiorno alle colonne d'Ercole.  Ma poich$e Gerusalemme si
+trova non gi@a a met@a dell'arco Polo-Equatore, cio@e a 45+o~ di
+latitudine-nord, ma in una posizione pi@u a sud, verso il tropico
+del Cancro, e Dante afferma che su Gerusalemme passa il meridiano
+di mezzogiorno o zenitale, tagliante al centro |l'orizzonte~
+comune a Gerusalemme e al Purgatorio, bisogner@a immaginare la
+linea dell'orizzonte divisorio comune ai due emisferi inclinata
+sull'equatore in direzione nordovest-sudest di un angolo di circa
+32+o~, per rapporto alla normale congiungente i due poli.  Altro
+insomma @e parlare dei due emisferi divisi dall'equatore e in
+direzione nord-sud, altro dell'emisfero il cui cerchio
+|meridiano~, cio@e centrale, passa su Gerusalemme e, dalla parte
+opposta, sul Purgatorio.  Si aggiunga infine che siamo ancora nel
+periodo equinoziale (25 marzo-10 aprile), in cui la durata del
+giorno e della notte @e pressoch$e uguale.  -- |sole~:
+nell'^Inferno~ le indicazioni astronomiche dell'ora, per
+intonazione propria e metaforica con l'ambiente, eran date, in
+genere, in chiave lunare-notturna: in chiave solare-diurna, per
+lo pi@u, quelle del ^Purgatorio~, e per la stessa ragione; una
+chiave doppia, indicandosi contemporaneamente la congiuntura
+astronomica del Purgatorio e la corrispondente congiuntura
+dell'emisfero boreale, e con la fantasia (l'Astronomia del poema
+@e poeticamente fantasticante) scientificamente guidata ad
+abbracciare dall'alto l'uno-varia vicenda notturno-diurna della
+Terra, e le sue unitarie correlazioni col rotante universo, di
+cui il Sole @e l'astro massimo, fonte di luce e generatore di
+vita.  E stretti in allusivo vincolo si trovano, in questi versi,
+anche Gerusalemme e Purgatorio: la citt@a provvidenziale in cui il
+sacrificio del Dio-uomo oper@o il riscatto dell'umanit@a,
+rendendole possibile il riapprodo alla perfezione simboleggiata
+dal Paradiso Terrestre che, come sappiamo, Dante ha collocato
+sulla vetta del suo Purgatorio.  Cos@i, sulla materiale linea
+astronomica che congiunge il Calvario al Paradiso Terrestre la
+pena purgatoriale delle anime, lieto pegno di salvazione, esempla
+misticamente, il sublime e fecondo penare del Salvatore.  --
+|giunto~: il sole sovrastava ormai l'orizzonte comune a
+Gerusalemme e Purgatorio, passante sulle colonne d'Ercole: in
+altre parole, @e mezzogiorno a Gibilterra; circa le sei del
+mattino in Purgatorio.  -- |meridian cerchio~: il circolo
+corrispondente al punto di mezzod@i, di una determinata zona o
+emisfero: il meridiano centrale.  -- |coverchia~: copre,
+sovrasta; cfr. ^Inf.~, XXIII, 136.
+
+	|3.  pi@u alto punto~: il punto di zenith, verticalmente
+sovrastante: <zenith>, correntemente, in ^Quaestio.~
+
+	|4.  la notte~: mezzanotte, propriamente.  -- |opposita~:
+alla latina: in opposizione diametrale.  -- |a lui~: al sole.  --
+|cerchia~: circola, gira intorno alla terra: usitato.
+
+	|5-6.  di Gange~: i punti estremi della Terra abitata,
+situata tutta e solo nell'emisfero boreale, sono, nella Geografia
+medievale, lo stretto di Gibilterra e le foci del Gange.  In
+^Quaestio~, XIX: <habitabilis (terra) extenditur per lineam
+longitudinis a Gadibus, que supra terminos occidentales ab
+Hercule positos ponitur, usque ad hostia fluminis Ganges, ut
+scribit Orosius...>.  -- |con le Bilance~: la costellazione della
+Libra che @e <in mano> alla Notte, brilla cio@e di notte ed @e
+quindi visibile, nel periodo 21 marzo-21 settembre in cui il
+giorno @e pi@u lungo della notte; e cade |di mano~ alla Notte, non
+@e pi@u visibile, nei mesi in cui essa notte |soverchia~, supera in
+durata il giorno, 21 settembre-21 marzo.  La Libra, nella fascia
+dello Zodiaco, @e agli antipodi della costellazione dell'Ariete,
+nella quale ora si trova il sole.  Cfr. ^Georg.~, I, 208 sg.:
+<Libra diei somnique pares ubi fecerit horas, -- et medium luci
+atque umbris iam dividet orbem>.  -- |soverchia~: d'uso normale.
+
+	|7-9.  s@i che~... |rance~: l'Aurora @e |bella~, ma di
+labile vita: bella nel fresco fulgore della sua giovinezza,
+quando ha le guance |bianche~ e |vermiglie~: poi invecchia
+rapidamente e il farsi |rance~, giallo-oro (Cfr. ^Inf.~, XXII,
+100) delle sue |guance~ (nuvole) @e segno di corruzione e di
+prossima morte.  Nei tre aggettivi (|bianche-vermiglie-rance~), e
+nella loro successione, @e una traccia della distinzione,
+convenzionale, dell'Aurora in tre fasi: Aurora <alba>, (bianca),
+<rubea> (rossa), <lutea> (giallo-oro).  -- |dov'i' era~: in
+Purgatorio, e non altrove, poich$e c'@e sempre un punto, sulla
+terra, l'Aurora precedendo il Sole nel suo eterno girare, in cui
+essa ha guance bianche e rosse: sempre morente, sempre nascente! 
+-- |bella~: secolarmente |bella~, nelle descrizioni dei poeti. 
+-- |troppa etate~: vecchiaia.  -- |rance~: giallo-oro; |rance~,
+nota il Tommaseo, in antico non sonava punto <rancide>, ma
+rammentava l'origine <aurantius>.  La stessa successione di note
+cromatiche (bianco, rosa, giallo) nelle descrizioni virgiliane
+dell'Aurora: <aethere ab alto -- Aurora in roseis fulgebat lutea
+bigis>, in ^En.~, VII, 26, e passim.
+
+	|10.  lunghesso mare~: in riva al mare, dove si erano
+recati per consiglio di Catone: cfr. ^Purg.~, I, 94-fine.
+
+	|11-12.  gente~: pellegrini, probabilmente, come dice il
+procedere in gruppo.  @E un motivo tipico e familiare del
+<turismo> medievale.  -- |pensa~: riflette, pensosamente, perch$e
+incerta, intorno alla via da prendere e, pur andando |col cuore~,
+desiderosa di mettersi in cammino, se ne sta ferma |col corpo.~ 
+Un motivo affine in ^V. N.~, XIII; <come colui che non sa per
+qual via pigli lo suo cammino, e che vuole andare e non sa onde
+se ne vada>; e cfr. ^Purg.~, III, 72.
+
+	|13.  ed ecco~: di modulo scritturale (<et ecce>, <ecce
+autem>) e virgiliano, e usitato nel poema per segnare accadimento
+nuovo e improvviso.  -- |sul presso~: all'avvicinarsi del...;
+|sul~, perch$e le ultime sei ore della notte sono considerate
+cadenti, in caduta.  |Presso al mattin~ in ^Inf.~, XXVI, 7. 
+|Presso~ ha valore sostantivale, come nell'espressione <nei
+pressi di>, e simili.
+
+	|14.  per~... |vapor~: di Marte, in ^Conv.~, II, 13:
+<Marte dissecca e arde le cose, perch$e lo suo calore @e simile a
+quello del fuoco; e questo @e quello per che esso appare affocato
+di colore, quando pi@u e quando meno, secondo la spessezza e
+raritade de li vapori che 'l seguono: li quali per lor medesimi
+molte volte s'accendono>.  E delle modificazioni del mezzo,
+l'aria, che trasmette i raggi, ibid, III, 9: <transmutasi anche
+questo mezzo (l'aria) di sottile in grosso, di secco in umido,
+per li vapori della terra che continuamente salgono; lo quale
+mezzo, cos@i transmutato, transmuta la immagine de la stella che
+viene per esso...>.  |Per~ pu@o avere valore causale o, anche,
+locativo (attraverso); i |vapori~ saranno i vapori <secchi>
+soggetti a infiammarsi, e capaci di presentare, dilatata in
+circolo, l'immagine di Marte.  Nel citato passo di ^Conv.~ Dante
+disserta sul tema dei rapporti simbolici tra Marte e la Musica, e
+il paragone, secondo il Flora, potrebbe essere una prima lontana
+nota d'intenzionale preludio all'episodio di Casella, ch'@e il
+tema, appunto, delle virt@u e del fascino del canto e della
+musica.
+
+	|15.  gi@u nel ponente~: nel lontano ponente, e, quindi,
+basso sull'orizzonte marino.  Anche in altre posizioni e
+direzioni, osserva il Porena, il quale pensa alla prevalente
+familiarit@a di Dante con la marina toscana, volta a ponente.  In
+realt@a @e indicata la posizione di Marte che offre diretta
+analogia col fatto che segue; n$e ^rosseggia~ {v.14} significa che
+Marte rosseggi, esclusivamente, in quella direzione.  -- |suol
+marino~: ^marin suolo~, in ^Inf.~, XXVI, 129.
+
+	|16-17.  cotal~: rosseggiante, quindi.  -- |s'io~...
+|veggia~: augurativo: |lume~ di salvazione! possa io vederlo
+ancora!  E in contrapposto, e sottilmente interpretando, sempre
+col Flora: <possa io non rivederlo, se non @e vero ch'io lo vidi>. 
+-- |ratto~: veloce: @e detto forse per anticipazione, poich$e la
+sensazione-misura della velocit@a @e dedotta dal fatto indicato
+subito sotto, tanto pi@u che quel |lume~ @e ancora assai lontano
+sul mare, e la sensazione di velocit@a, a tale distanza, non pu@o
+esser forte, anche immaginando il |lume~ come muoventesi in
+direzione trasversale.
+
+	|18.  mover~: moto, movimento (@e oggetto di |pareggia~,
+uguaglia).  -- |volar~: volo d'uccello, anche il pi@u veloce.  Si
+noti l'uso dei due infiniti, a indicare oggetto-immagine in
+movimento.  Cfr. ^Inf.~, VIII, 13-6, dove la velocit@a della barca
+di Flegi@as @e paragonata a quella di una freccia: analogia a
+raggio limitato: qui, invece, pi@u vastamente spaziale.
+
+	|19.  com'io~: nel brevissimo tempo necessario a
+interrogare Virgilio con lo sguardo, e tornare a volgerlo verso
+il mare.
+
+	|20.  duca~: conduttore, guida; usitato.
+
+	|21.  fatto~: diventato, essersi fatto.  Doppio aumento,
+in sincronia, di luce e di estensione: e la descrizione prosegue,
+razionalmente graduata nei susseguentisi passaggi dall'indistinto
+e generico, al distinto e determinato, compresa la graduale
+tramutazione del colore dal rosseggiante al bianco.
+
+	|23.  bianco~: due imprecisabili biancori laterali, a cui
+si aggiunge, pi@u lentamente, un terzo biancore in basso.  Vien
+cessando l'effetto dei ^grossi vapor~ {v.14} che facevano
+rosseggiare il ^lume~ {v.17}: prima in alto, dove i vapori sono
+men densi, poi in basso.  Sapremo di che si tratta: due ali di
+Angelo e, in basso, la veste candida e svolazzante.
+
+	|24.  a lui usc@io~: ^di sotto~ {v.23} |a lui~, ne usc@i,
+se ne form@o.
+
+	|25-27.  Lo mio~... |galeotto~: terzina inutilmente
+tormentata dagli interpreti: |ancor~ indica la durata del
+silenzio di Virgilio, e va legato con |mentre che~: Virgilio si
+astiene dal parlare fino al momento in cui i |primi~, (si erano
+formati per primi) |bianchi~ laterali apparvero chiaramente
+essere delle |ali~; e a questo punto, riconosciuto senza ombra di
+dubbio (|ben~) chi fosse il |galeotto~...  -- |fece motto~:
+parlare, batter verbo e simili; usitato, a cominciare da ^Inf.~,
+IX, 101.  -- |conobbe~: riconobbe.  -- |galeotto~: da <galea>:
+marinaio o, come qui e in ^Inf.~, VIII, 17: nocchiero, timoniere;
+cfr. v. 43.
+
+	|28.  grid@o~: prima silenzio, poi un grido, che sollecita
+pronta esecuzione, e fa velo sul silenzio e sull'incertezza di
+prima.  Molte cose Virgilio ignora del Purgatorio del quale ha
+un'idea generale, ma non conosce la organizzazione particolare:
+non sapeva (nel canto precedente) di dover lavare il volto di
+Dante e cingere questi con un giunco: l'arrivo della barca @e una
+sorpresa, da cui si riprende rapidamente, ma non siamo proprio
+sicuri, malgrado il v. 33 (che potrebbe essere un'illazione) che
+egli sia veramente in chiaro del fatto e del preciso significato
+delle parole pronunziate da Caronte in ^Inf.~, III, 93: ^pi@u
+lieve legno convien che ti porti~: sapremo da altri, Casella,
+nella seconda parte del canto, che le anime destinate al
+Purgatorio si radunano sulla foce del Tevere e compiono il lungo
+tragitto (quello stesso di Ulisse: cfr. ^Inf.~, XXVI, 85-fine)
+dal Lazio al Purgatorio sulla nave di un Angelo.  Anche le
+informazioni sull'Angelo ch'egli accumula con gridata urgenza,
+son piuttosto ovvie.  -- |fa che~: l'usitato costrutto latino,
+per esprimere: ordine, esortazione, preghiera: di <calare>,
+abbassare a terra le ginocchia.
+
+	|29.  l'angel di Dio~: cos@i in ^Purg.~, IV, 129; V, 104. 
+Anche il diavolo fu in origine <angelo> e conserva alcuni
+attributi della sua originaria natura; ma @e ^angel d'inferno~,
+^nero cherubino~ (^Inf.~, XXVII, 113, e ^Purg.~, V, 104).  --
+|piega le mani~: gesto di adorazione o preghiera.
+
+	|30.  officiali~: esecutori, addetti a un <officio> o
+compito.  |S@i fatti, officiali~ celesti, ch$e anche i diavoli
+sono, a loro modo, |officiali~ del Dio giustiziere (cfr. in
+^Purg.~, I, 99), tramite la sovranit@a assegnata a Lucifero,
+^imperador del doloroso regno~ (Cfr. ^Inf.~, XXXIV, 28).  E di
+Angeli ne incontreremo parecchi, nei punti di passaggio da una
+sezione all'altra del Purgatorio: ^ministri e messaggier di vita
+etterna~ (^Purg.~, XXX, 18).
+
+	|31.  sdegna~: trionfale ripudio!  -- |argomenti~: mezzi,
+strumenti usati dagli uomini per navigare.  L'affermazione,
+generica, nei versi seguenti si fa rappresentazione, fissando,
+con una serie di squillanti richiami, il prodigio in atto.
+
+	|32.  altro velo~: non: un'altra vela, ma: ogni altro
+mezzo proprio dell'uomo, come la vela.  -- |velo~: in lat.
+<velum>; ma sempre <vele>, al plurale.
+
+	|33.  l'ali~: che, in questo caso, sono veramente il
+virgiliano <remigium alarum> di ^En.~, VI, 19.
+
+	|34.  l'ha dritte~: le ha, tiene drizzate: @e la posizione
+continuata delle ali, con le qual l'Angelo <tratta> l'aria, e il
+segno della sua vittoria sulle leggi fisiche, non avendo bisogno
+n$e di vento, come la vela (in linea orizzontale); n$e di
+abbassarse sull'acqua, come fa il remo.
+
+	|35.  trattando~: battendo, agitando.  -- |l'etterne
+penne~: con <praepetibus pennis>, Dedalo, in ^En.~, VI, 15.
+
+	|36.  si mutan~: l'^uccel divino~ {v.38}, l'Angelo non fa
+la muda, n$e le sue penne cambian colore, come il |mortal pelo~,
+capelli o pelame o piuma, di uomo o di altro animale.  ^Bianco,
+per antico pelo~, Caronte in ^Inf.~, III, 83.
+
+	|38.  l'uccel divino~: |uccello~ con due grand'ali
+Lucifero (^Inf.~, XXXIV, 47); ^malvagio uccello~ il diavolo dei
+barattieri in ^Inf.~, XXII, 96.  Forse @e un ricordo dell'<impiger
+ales> predicato di Mercurio da Stazio, ^Teb.~, I, 292; ^astor
+celestiali~ in ^Purg.~, VIII, 104.  -- |chiaro~: splendente,
+luminoso.
+
+	|41.  vasello~: vascello, navicella: ^pi@u lieve legno~
+aveva detto Caronte, in ^Inf.~, III, 93; |vasello~ in ^Inf.~,
+XXVIII, 79.  -- |snelletto~: il diminutivo indicher@a, come
+intende il Tommaseo, agile grazia di struttura con annessa idea
+di velocit@a; ^snella~, veloce la ^nave piccioletta~ di Flegi@as,
+in ^Inf.~, VIII, 14; ^snello~: agile e rapido nel volo il
+falcone, ibid. XVII, 130: ^fiere snelle~ i Centauri, ibid. XII,
+76.
+
+	|42.  ne 'nghiottiva~: poggiava sull'acqua senza
+affondarvi minimamente; non accusava peso di sorta: cfr. ^Inf.~,
+VIII, 21-31.
+
+	|43.  stava~: la figura dell'Angelo campeggia, alta e
+luminosa, sulla folla di anime ammassate nella nave.  --
+|celestial nocchiero~: contrapposto a Caronte ^nocchier de la
+livida palude~ (^Inf.~, III, 98), col quale fa intenso contrasto
+anche nell'aspetto fisico.
+
+	|44.  beato per iscripto~: appariva, a guardarlo, portare
+scritta (o: incisa) in volto la beatitudine: evidentemente beato. 
+<Fa pensare ai cartigli che, nelle antiche pitture, accompagnano
+e illustrano le figure dei santi> (Sapegno).  In ^Purg.~, XXXIII,
+76, Dante distingue ^dipinto~ e ^scritto~, attribuendo a
+quest'ultimo termine significato di maggior evidenza, chiarezza.
+
+	|45.  pi@u di cento~: gran numero di anime sedevano
+(|sediero~) nella navicella.  Per il valore enfaticamente
+indeterminato del numero cfr. ^Inf.~, VIII, 82; XIX, 114; XXVI,
+112.
+
+	|46.  In exitu~: @e l'incipit del ^Salmo~ CXIII che canta
+l'uscita degli Ebrei dalla schiavit@u dell'Egitto, salmo pregnante
+di significati analogici con la condizione di queste anime,
+approdanti ai lidi del Purgatorio.  Nell'^Epistola~ a Cangrande,
+Dante, esemplificando, precisa i diversi significati secondo cui
+il versetto pu@o essere interpretato: allegorico, <nostra
+redemptio facta per Christum>; morale <conversio anime de luctu
+et miseria peccati ad statum gratie>: anagogico: <exitus anime
+sancte ab huius corruptionis servitute ad eterne glorie
+libertatem>.
+
+	|47.  tutti~... |voce~: |tutti~, in perfetto sincronismo
+e con un unico tono di voce.  Preannuncia la condizione
+spirituale, psicologica e affettiva, ma praticata come
+consapevole disciplina, degli spiriti del Purgatorio, e sulla
+quale dovremo tornare pi@u di una volta: l'armonizzazione, la
+sintonia collettiva dei moti affettivi e psicologici,
+manifestantesi anche nella unit@a e sincronia degli atti
+esteriori.
+
+	|48.  con~... |scripto~: il carattere della scena @e
+religioso, quasi liturgico, poich$e il canto del Salmo pare far
+parte del rito dell'approdo, e solo a salmo finito l'Angelo se ne
+riparte, col rituale congedo della benedizione.  La balenante
+rapidit@a dell'approdo si @e cos@i distesa e tramutata nella lenta
+salmodiazione delle anime; finita la quale e partito l'Angelo,
+segue una pausa d'incerto, e disorientato silenzio.  La
+precisazione che le anime cantano tutto il Salmo pu@o esser
+significante: nel Salmo @e esaltata la potenza di Dio al cui
+cospetto fugg@i il mare e le acque del fiume Giordano si volsero
+indietro, e del quale la Giudea @e divenuta <sanctificatio> e
+<potestas> Israele: tale motivo, secondo il Flora, tradurrebbe
+<per contrasto l'umilt@a delle anime: quel tema che s'@e annunziato
+gi@a nel motivo del giunco di cui Virgilio ricinge Dante>.  --
+|scripto~: scritto: dove?  Forse il termine richiama
+l'espressione <scriptum est>, o il fatto che il Salmo si legge
+nella <Scriptura> o nelle <Scritture> (la Sacra Bibbia), o
+ch'esso @e cantato leggendo il Messale o altro libro ad uso
+liturgico.
+
+	|50.  si gittar~: tutti, con uguale slancio e prontezza:
+cfr. ^Inf.~, III, 116.
+
+	|51.  sen g@i~: senza far motto e senza badare ai due
+poeti.  Tale, netto e rigorosamente funzionale, lo stile di
+questi ^ufficiali~: cfr. ^Inf.~, IX, 100-103.
+
+	|52.  selvaggia~: vale: ignara, inesperta: |selvaggia~
+(in ^Inf.~, VI, 65) @e detta Parte guelfa-bianca perch$e capeggiata
+da famiglia venuta di fuori, dalla campagna, forestiera:
+l'aggettivo, come confermano altri esempi dell'italiano antico,
+porta in s$e annessa nozione di: ignornaza, imperizia.  ^Esperti~
+del luogo al v. 62.
+
+	|53-54.  parea~: appariva.  -- |rimirando~: con valore
+causale-epesegetico: si vedeva ch'era ^selvaggia~ {v.52} del
+luogo per il fatto che si guardava intorno con l'atteggiamento
+incerto e cauteloso di chi |assaggia~ cose nuove, entra per la
+prima volta in contatto con cose o fatti estranei alla sua
+normale esperienza.
+
+	|55-57.  Da~... |Capricorno~: il sole, ormai salito
+sull'orizzonte, |saettava~ (saetta-raggio) da ogni parte il
+|giorno~, illuminando per vasta estensione l'emisfero del
+Purgatorio dopo avere, con le sue saette |conte~, ecc.  --
+|conte~: esperte, infallibili; si spiega, conform. a ^Inf.~,
+XXXIII, 31; o: chiare, luminose.  L'arco era attributo mitologico
+di Febo o Sole e, correlativamente, di <dardi> <saette>, <colpi>
+<ferite> parlano i poeti latini.  -- |cacciato Capricorno~: la
+costellazione del Capricorno dista 90+o~ da quella dell'Ariete, e
+trovandosi il sole in congiunzione con questa, il Capricorno @e a
+met@a cielo, cio@e sul meridiano zenitale del Purgatorio, quando il
+sole si affaccia all'orizzonte; essendo ora il sole spuntato da
+qualche tempo, il Capricorno, prima allo zenith, per effetto del
+moto apparente del sistema celeste, si sar@a spostato di un angolo
+press'a poco equivalente.  Il tutto, come sempre in queste
+determinazioni astronomiche, @e vagamente fantasticato in un
+riverbero di luce mitica, e svolto sino in fondo nei termini
+della metafora iniziale: il sole col suo arco <saetta> il giorno
+e bersaglia il Capricorno che, spaventato, si mette in fuga. 
+Altri intende |cacciato~ nel senso di: soverchiato con la sua
+luce, reso invisibile.
+
+	|58.  nova~: appena arrivata.
+
+	|59.  noi~... |a noi~: quasi a dire: come noi ne
+sapessimo pi@u di loro!  Sotto, in contrappunto: |noi~... ^come
+voi~, al v. 63; e, ^dianzi... innanzi~, al v. 64.
+
+	|63.  peregrin~: nel senso etimologico: chi viene o
+viaggia in terra straniera, forestiere.  In ^V. N.~, XL: <@E
+peregrino chiunque @e fuori de la sua patria>.  Cfr. ^Purg.~,
+XIII, 96 e XXIII, 16.
+
+	|65.  aspra e forte~: disagevole e irta di ostacoli, come
+la selva del I dell'^Inf.~ v. 5.
+
+	|66.  ne~: ci.  -- |gioco~: cosa da nulla, cosa piacevole
+al confronto: usitato.  Non sar@a proprio cos@i, almeno per Dante,
+ma il penoso ricordo suggerisce, auguralmente, il contrasto.
+
+	|67-68.  accorte~: @e la prima delle ricorrenti scene di
+stupore o spaurimento delle anime nel loro incontro con Dante,
+|vivo.~  -- |spirar~: il respirare: un'anima, in ^Inf.~, XXIII,
+88, si era accorta che Dante era vivo, ^all'atto della gola.~  Ma
+non poniamoci troppe domande: le anime notano il rumore del
+respiro, o il ritmico alzarsi-abbassarsi del petto?  Virgilio,
+ricordiamo, ha riconosciuto Catone dallo stile del discorso;
+Dante, a sua volta, solo dalla voce riconosce l'amico Casella.
+
+	|69.  smorte~: pallide, per lo stupore, di un pallore
+mortale.  @E un tratto, riscontrabile in numerosi altri casi,
+caratteristico delle anime purganti, che hanno qualcosa di
+umbratile e delicato per cui basta un nulla a scatenare, in loro,
+devastanti turbe emotive.
+
+	|70.  E come~: ^smorte~ {v.69} ha chiuso il motivo
+precedente nella stretta fonica di una spaurita contrazione; poi,
+sopravvenuta la riflessione, con rapido ma naturale trapasso lo
+stupore, sgravatosi dell'emozione, si muta in vivo e palpitante
+interesse.  -- |messagger~... |ulivo~: il ramo d'olivo era
+insegna di pace gi@a presso gli antichi (cfr. ^En.~, VIII, 116;
+XI, 101; ^Teb.~, II, 39): ma anche nel medio evo, e in tempi
+posteriori a quelli di Dante, l'invio o l'arrivo di un messo con
+olivo significava pace o comunque lieta notizia, come confermano
+i riscontri, tratti dai Cronisti del tempo, addotti dai
+commentatori ( Casini, Scartazzini, Torraca).  Ricordiamo per
+tutti: Villani, ^Cron.~, XII, 95 <Mandonne lettere e messi con
+olivo al nostro Comune...>; B. Della Pugliola, ^Cron. bologn.~:
+<Venne in Bologna un messo da Firenze coll'olivo in mano> ecc. 
+In ^En.~, VIII, 115: <paciferaeque manu ramum praetendit olivae>.
+
+	|71.  tragge~: trae, accorre; usitato, al pari di
+|novelle~, notizie.
+
+	|72.  di calcar~: di far calca, di pigiarsi nella folla. 
+-- |nessun~... |schivo~: l'espressione negativa del fatto, d@a
+maggior rilievo al fatto stesso: tutti accorrono.
+
+	|73.  cos@i~: in realt@a le anime non si sono mosse e il
+rapporto tra i due termini della comparazione @e nel v. 72: il
+convergere di teste e sguardi verso una sola persona; l@a il
+messaggero, qui Dante.  -- |al viso mio~: <affisarsi> vale,
+normalmente: <mettersi fisso a>: e |al viso mio~ sar@a forse da
+intendere come ^nel suo aspetto~, di ^Par.~, I, 67: si misero a
+guardarmi, volsero tutti il capo a guardarmi, a osservarmi
+intensamente.
+
+	|74.  fortunate~: ^ben nate~ altrove, ^ben finite~; tali
+le anime del Purgatorio, n$e occorre spiegare perch$e.  -- |tutte
+quante~: associazione verbale tipica e usitata.  |Tutte~, come
+sopra, quando cantavano e si gettarono dalla barca dell'Angelo
+^tutti insieme, tutti.~
+
+	|75.  quasi~: tempera e sfuma |obliando~, che da solo
+sarebbe eccessivo, risolvendolo in un'impressione soggettiva di
+Dante: |obliando~: il loro dovere di |ire a farsi belle.~  --
+|farsi belle~: la bellezza dell'anima @e la perfezione morale che
+nel Purgatorio si consegue con la pena, la meditazione morale e
+la pratica in atto della virt@u.  Fatta la spiegazione, si deve
+aggiungere che |farsi belle~ ha una sua maliosa e mal traducibile
+vaghezza.  Moti e motivi d'intensa curiosit@a ricorrono frequenti
+nel ^Purgatorio~, ma si pu@o pensare che in queste anime, di cui @e
+recente l'abbandono del mondo, la spogliazione delle memorie e
+degli abiti terrestri sia meno completa che nelle altre, men
+forte e vivo l'abito del distacco.  Si tratta infatti di anime
+che devono rieducarsi, farsi l'abito dell'ascesi trascendentale,
+e che dalla brusca e recente rottura della morte hanno portato
+con s$e qualcosa di umbratilmente inquieto e labile.  Di qui anche
+la loro prontezza a cedere all'impulso o ad altro richiamo, come
+vedremo poco sotto: il contrasto con Catone, incarnazione di
+un'intransigente Etica del puro e assoluto dovere, @e
+indubbiamente forte.
+
+	|76.  una di lor~: cfr. ^Purg.~, III, 103.  Il farsi
+avanti di |una~ non romper@a l'armonia del gruppo, che fa da
+sfondo prospettico, continuando a guardare e a partecipare:
+quest'anima, anzi, fa da <trait d'union> tra il gruppo e i due
+poeti, che finiscono con l'essere attratti in questo circolo e
+librarsi, coralmente, con le anime, nell'incantata tensione
+poetico-musicale del canto di Casella.
+
+	|78.  mosse~... |simigliante~: per induzione irriflessa
+ed immediata: notazione psicologicamente esatta, ricambiandosi,
+d'istinto, i gesti amichevoli o affettuosi, come l'abbraccio e il
+tender la mano.  Atto, direbbe uno scolastico, genera atto.
+
+	|79.  Oi~: anticipa, nel grido di sorpresa, le ragioni
+della sorpresa stessa.  -- |vane~: senza consistenza fisica:
+^Vanit@a che par persona~ in ^Inf.~, VI, 36, ecc.  Come si generi
+questo <corpo> aereo delle anime, sar@a spiegato in ^Purg.~, XXV,
+79 sgg.  -- |nell'aspetto~: nell'aspetto esteriore o, forse
+meglio: nell'apparenza visibile, nell'impressione visiva,
+guardandole (|aspetto~ da <aspicere>: cfr. sopra v. 73).
+
+	|80.  Tre volte~: evidente il ricalco della nota scena
+del tre volte tentato abbraccio di Enea al padre Anchise in
+^En.~, VI, 700 sgg.: <Ter conatus ibi collo dare brachia circum
+-- ter frustra comprensa manus effugit imago -- par levibus
+ventis volucrique simillima somno>.  Dante varia il motivo
+virgiliano nell'accenno dell'urto fisico delle mani che tornano a
+vuoto sul petto, aggiungendo di nuovo, e suo, una sorta di
+stupefatto e quasi irritato disorientamento che lo spinge, non
+persuaso, a rinnovare l'abbraccio.  Si dir@a, e si @e detto, ed @e
+vero, che Dante queste cose le sapeva fin da ^Inf.~, VI, 36; ma
+la sperimentazione personale del fatto avviene qui per la prima
+volta, o, meglio, il vuoto improvviso dell'abbozzato abbraccio
+stride col ricordo di tante manifestazioni di apparente
+corpulenza delle anime dell'Inferno ch'egli aveva visto muoversi,
+urtarsi, sanguinare: per di pi@u, l'iniziativa dell'abbraccio
+(cfr. ^Inf.~, VIII, 43) era partita dall'anima.
+
+	|81.  tante~: altrettante, tre volte.  -- |al petto~: se
+le mani tornano al petto, vuol dire che non hanno incontrato
+nulla nel moto di ritorno; che l'abbraccio @e andato a vuoto.
+
+	|82-83.  credo~: Dante non @e certo, ma sar@a stato questo
+il motivo del sorriso dell'anima.  -- |mi dipinsi~: in volto:
+cfr. ^Inf.~, XXIV, 132; ^Par.~, IV, 10; XXIX, 7.  Il colore della
+|maraviglia~, come per le anime, sar@a il pallore.
+
+	|84.  mi pinsi~: mi spinsi, per rinnovare l'abbraccio:
+usitato.  L'abbraccio ripetuto tre volte, come ogni gesto fatto a
+vuoto, ha un che di comico e sar@a questo il significato del
+sorriso dell'anima la quale, supposto che abbia anch'essa ceduto
+a un impulso incontrollato, se n'@e per@o ripresa pi@u prontamente. 
+Dante, invece, non persuaso, la segue, insiste: possibile?...
+
+	|85.  posasse~: stessi cheto, mi mettessi tranquillo.
+
+	|86.  allor~: solo allora, dalla voce, Dante riconosce
+l'anima, e cos@i altre volte in Purgatorio: si deve supporre che i
+lineamenti siano sfumati, e resi mal percepibili dal giuoco
+ottico della trasparenza del corpo d'aria, avvertendo peraltro
+che Dante, di queste particolarit@a, fa un uso assai vario ed
+elastico, condizionato pi@u da puntuali ragioni
+artistico-rappresentative che non dalla preoccupazione di una
+rigorosa e uniforme applicazione della dottrina della formazione
+e della natura del corpo aereo delle anime, esposta in ^Purg.~,
+XXV.
+
+	|88-89.  io~: parla l'anima la quale, in terra, @e <fitta>
+o unita al corpo mortale (consistente e corruttibile) e ora, dopo
+la morte, ne @e |sciolta~, libera.  @E concetto corrente, come pure
+il principio sottinteso: la <forma>, la sostanza della
+personalit@a umana @e l'anima razionale: donde il femminile:
+|io~... |sciolta.~  -- |t'amai~... |t'amo~: l'affetto lo si era
+visto al v. 77, ma l'anima torna a dichiararlo; tal quale, non
+meno vivo e caldo ora, di allora, e solo esso spiega, e scusa, il
+suo fermarsi, in contrasto col suo dovere, d'^ire a farsi bella~
+{v.75}.
+
+	|91.  Casella~: eponimo dell'episodio @e Casella, tanto
+famoso quanto sono vaghe e incerte le notizie che di lui
+possediamo.  Fu cantore eccellente e probabilmente musicista, se
+@e lo stesso Casella che nel cod. Vaticano 3214 si afferma aver
+<dato il suono>, cio@e musicato un madrigale di Lemmo da Pistoia;
+fiorentino secondo Pietro di Dante, Benvenuto e il Buti;
+pistoiese secondo l'^Anonimo.~  Molto incerta l'identificazione
+del Casella dantesco con altri Casella nominati in documenti del
+periodo 1260-1300.  Dovette morire qualche tempo prima
+dell'aprile 1300, come si rileva dai vv. 93-9.  Delle relazioni
+affettuose dei due artisti @e documento l'episodio stesso; e
+|mio~, usato solo a esprimere legame intimo e affettuoso: cfr.
+^Purg.~, III, 115, 143; VIII, 71, ecc.  -- |altra volta~: una
+seconda volta, dopo la morte.
+
+	|92.  l@a~... |son~: qui, dove mi trovo, in Purgatorio,
+regno di salvazione, ch$e tale @e lo scopo del viaggio di Dante. 
+|L@a dove~, @e indicazione locativa unitaria per <dove>, come in
+^Purg.~, IV, 78; VIII, 72 ecc.  Altri intende: l@a dove vivo ora,
+nel mondo; ma il significato riesce incongruo, e guasta il modo
+concettoso della risposta: faccio questo viaggio, per tornare a
+farlo un'altra volta.
+
+	|93.  tanta ora tolta~: @e stato tolto, sottratto tanto
+tempo (|ora~) alla tua venuta qui, quanto ne corre dal momento
+della tua morte ad oggi?  Cfr. ^Purg.~, XIII, 133; XV, 126.
+
+	|94.  oltraggio~: torto: non sono vittima di alcun
+trattamento irregolare o ingiusto.
+
+	|95.  quei~: l'Angelo-nocchiero, che ha facolt@a di
+decidere, a suo alto arbitrio, |quando~ e <chi> <levare> dalla
+riva del Tevere, accogliendolo nella barca, per il viaggio al
+Purgatorio.  Caronte in ^En.~, VI, 315 sgg.: <nunc hos, nunc
+accipit illos -- ast alios longe submotos arcet harena>.
+
+	|96.  m'ha negato~...: come nell'idea del traghetto
+(|passaggio~) Tevere-Purgatorio Dante ha, inventivamente,
+applicato, con le debite variazioni, il motivo mitologico del
+traghetto all'Averno, cos@i pu@o darsi, si fa osservare, che in
+Casella egli abbia voluto creare, per analogia, il suo Palinuro;
+il quale, nel racconto virgiliano, non pu@o essere accolto nella
+barca di Caronte perch$e il suo corpo giace ancora insepolto. 
+L'incontro Dante-Casella @e contrassegnato dallo stesso vivo
+calore affettivo dell'incontro Enea-Palinuro nel VI dell'^En.~ 
+-- |esto~: questo, come Dante ha visto.  -- |passaggio~:
+traghetto; ^passare~, in ^Inf.~, III, 92.
+
+	|97.  di giusto~... |si face~: il volere dell'Angelo
+deriva, s'informa dalla giusta volont@a di Dio.  Lo stesso
+costrutto in ^Par.~, I, 51-3.
+
+	|98.  veramente~: tuttavia, sta di fatto.  -- |da tre
+mesi~: la bolla pontificia con la quale fu solennemente
+proclamato il Giubileo del 1300, @e del 22 febbraio 1300, e in
+essa venivano concesse indulgenze estensibili alle anime del
+Purgatorio, ma con effetto retroattivamente spostato al 25
+dicembre 1299.  Perci@o, se l'indicazione |tre mesi~ @e formulata
+con tutta e intenzionale esattezza, avremmo qui un (trascurato)
+argomento di rincalzo alla datazione del viaggio oltremondano al
+25 marzo 1300, invece che alla prima decade del successivo
+aprile.  E qui sta il piccolo insoluto mistero di Casella: prima
+del 25 dicembre 1299, data-limite per l'applicazione retroattiva
+delle indulgenze bandite nella Bolla pontificia, l'Angelo rifiuta
+di traghettarlo, della cosa (accogliere alcune anime e
+respingerne altre) essendo chiara solo l'analogia paradigmatica
+con quanto fa il Caronte dell'Averno virgiliano; poi Casella
+potrebbe imbarcarsi, ma se ne astiene, continuando ad aggirarsi
+torvo e malinconico sulla foce del fiume sacro.  Fatto davvero
+singolare, e di cui @e oscura la ragione; oscura e, dagli
+interpreti, molto almanaccata.  Personalmente, tuttavia, siamo
+pronti a scommetter che Dante, del cui totale abbandono alle sue
+anche pi@u maliose invenzioni c'@e sempre da diffidare, non ha
+voluto perdere, in tema di Giubileo, l'occasione per ricordarsi
+ancora una volta di Bonifacio VIII, attribuendo all'amico Casella
+un gesto o di simbolica protesta contro la tardiva proclamazione
+del Giubileo o, addirittura, di rifiuto delle indulgenze bandite
+dall'indegno pontefice: ritenute e, col gesto (una sorta di
+sciopero, per dirla col linguaggio dei moderni sindacalisti)
+conclamate come non valide e operanti davanti a Dio.  -- |ha
+tolto~: dalla riva, imbarcando.  Palinuro, alla Sibilla in ^En.~,
+VI, 370: <tecum me tolle per undas>.
+
+	|99.  intrar~: nella nave.  -- |con tutta pace~: senza
+alcuna opposizione.
+
+	|100.  volto~: rivolto: atteggiamento di attesa, di chi
+spia, ansioso, il ritorno della sospirata navicella.
+
+	|101.  s'insala~: ^sale~ per <mare> in ^Par.~, II, 13: e
+perci@o: sfocia in mare; oppure, e meglio: diventa salina, con che
+l'espressione si fa pi@u concettosamente propria: l'acqua (dolce)
+del Tevere si |insala~ (dove il fiume entra in mare); e si evita
+la ripetizione con ^foce~ del v. 103.
+
+	|102.  ricolto~: accolto (nella nave), ricevuto; conform.
+a ^Inf.~, III, 69; ^Purg.~, XVIII, 86; ^Par.~, XVIII, 69.  Ma
+^ricolta~ per <raccolto>, in ^Par.~, XII, 118; e qui, forse:
+tratto, levato su dalla riva, da quello stato di attesa.
+
+	|103.  A~... |l'ala~: verso quella foce egli ora |ha
+dritta~, viaggia con le ali ^dritte~ al cielo.
+
+	|104-105.  per@o~... |cala~: il lettore, a questo punto, @e
+compiutamente informato: ogni anima (|quale~) che non piomba a
+volo verso l'Acheronte (cfr. ^Inf.~, III, 121-24) |si ricoglie~,
+si raduna (con le altre) |quivi~, alla foce del Tevere.  La
+scelta del luogo @e allegoricamente significativa: il Tevere bagna
+Roma, sede provvidenzialmente designata dei due sommi Poteri a
+cui Dio ha delegata la guida dell'umanit@a al conseguimento del
+suo duplice fine, mondano e oltremondano.  La navicella
+dell'Angelo ripercorre, in sostanza, il viaggio di Ulisse
+(evocato indirettamente nei vv. 131-132 del canto precedente), di
+cui il percorso della angelica navicella attesta la validit@a e
+insieme chiarisce allusivamente la ragione del fallimento: la
+mancanza della necessaria guida <spirituale>.
+
+	|106.  nuova legge~: la legge della sua nuova condizione,
+di anima purgante e separata dal corpo.  Anche Catone aveva
+accennato a una |legge~: cfr. ^Purg.~, I, 89.  -- |toglie~:
+doppio significato per doppia reggenza: toglie la ^memoria~
+{v.107}, e vieta o impedisce ^l'uso~ {v.107}.
+
+	|107.  uso~: pratica, esercizio, la possibilit@a di
+<usare>.  -- |all'amoroso canto~: a Dante piacerebbe riudire la
+bella e maliosa voce del cantore Casella ma, dato il costume di
+mettere in musica alcuni tipi di lirica (madrigali, ballate,
+canzoni), pu@o darsi che nella domanda di Dante la nozione di
+|canto~ sia stettamente associata a quella di poesia: Casella,
+infatti, intona, secondo le norme dell'arte musicale, ovviamente,
+una canzone di Dante.  E in quanto la intona, e proprio questa, @e
+plausibile supporre ch'egli l'avesse musicata, insieme ad altre
+liriche dantesche: e fin qui si pu@o far credito a quanto afferma,
+in proposito, l'^Anonimo.~  Pi@u, incerta @e l'interpretazione di
+|amoroso~, che potrebbe accennare al contenuto delle liriche
+musicate (liriche d'amore), tema e ricordo profani men
+compatibili con la severa ^legge~ {v.106} del Purgatorio; o
+significare, genericamente: dolce, soave, conform. a ^V. N.~,
+XXIII, e ^Par.~, XVIII, 7-8, data la quasi costante equivalenza
+di amore-dolcezza-estasi, nelle liriche di Dante.  Come che sia,
+Casella fa bene la sua scelta, intonando una canzone che canta,
+s@i, d'amore, ma di un amore spiritualmente nobilitato a passione
+intellettuale, l'amore per la Filosofia.
+
+	|108.  quetar~: placare e appagare.  -- |voglie~: non
+solo desideri, ma ansie, inquietudini, poich$e solo cos@i si esalta
+la potenza della Musica la quale, @e detto in ^Conv.~, II, 13,
+<trae a s$e li spiriti (facolt@a) umani, che quasi sono
+principalmente vapori del cuore, s@i che quasi cessano da ogni
+operazione; si @e l'anima intera, quando l'ode, e la virt@u di
+tutti quasi corre a lo spirito sensibile che riceve lo suono>.  @E
+di rito, a proposito degli interessi e degli studi di Dante nel
+campo musicale, citare il Boccaccio, ^Vita di D.~, 8: <Sommamente
+si dilett@o in suoni e in canti nella sua giovinezza, e a ciascuno
+che a que' tempi era ottimo cantatore o sonatore fu amico e ebbe
+sua usanza; e assai cose, da questo diletto tirato, compose, le
+quali di piacevole e maestrevole nota a questi cotali facea
+rivestire>.  I riferimenti alla musica, sparsi nel poema,
+attestano concrete conoscenze tecniche.
+
+	|109.  di ci@o~: con ^l'amoroso canto~ {v.107}, cantando
+qualcosa.  -- |consolare~: appropriato: alleviamento, placamento
+di ^affanno.~
+
+	|110.  persona~: corpo; cfr. ^Inf.~, V, 101; VI, 36;
+^Purg.~, XIV, 19 ecc.
+
+	|111.  tanto~: un poco, ^alquanto~ {v.109} di oblio, un
+momento di dolcezza dopo il lungo e grave ^affanno~ del viaggio
+infernale.  Nel verso, trema una nota di pathos maliosamente
+languido, sensuosamente stanco.
+
+	|112.  Amor~...: @e la canzone premessa al III libro del
+^Convivio~, e la prima, nell'ordine, delle proprie canzoni (la
+canzone, per Dante, @e il pi@u alto genere d'arte) citate nella
+^Commedia.~  Seguono ^Donne ch'avete intelletto d'amore~, citata
+in ^Purg.~, XXIV, 51, e ^Voi che 'ntendendo il terzo ciel movete~
+in ^Par.~, VIII, 37.  L'^incipit~ della canzone, con la parola
+Amore in prima posizione, @e tematicamente in tono con la
+condizione psicologica di molte anime (non tutte!) e con la legge
+morale del Purgatorio nonch$e, a pi@u largo raggio di rapporti
+dottrinali, con la teoria dell'Amore come principio dinamico
+dell'animo umano svolta da Virgilio nei canti XVII-XVIII di
+^Purg.~  Sar@a bene, tuttavia, guardarsi dal dedurre da questa
+affermazione, infinite volte fatta e genericamente vera, una
+nozione eccessivamente idillica e quasi sentimentalistica del
+Purgatorio dantesco, il quale, dietro la formula generale della
+sua concezione, di mondo intermedio, di trapasso, dall'umano al
+divino, dal contingente all'eterno, ha una sua vivace e
+drammatizzata dialettica, risuona di voci aspre e sferzanti, e,
+nella sfera dottrinalmente pi@u elevata in cui esso si colloca in
+confronto all'Inferno, accusa con pi@u impegnata e battagliera
+urgenza i problemi del terrestre mondo, politica compresa.  Nella
+prima cantica la meditazione e la contemplazione del male nei
+suoi effetti ha qualcosa di psicologicamente ancor bruto e
+immediato, appare limitata alla funzione di terrificante
+stimolazione etica e psicologica, e solo di rado si chiarisce in
+ripensamento dottrinale, dove la contemplazione degli effetti si
+annoda dialetticamente col problema delle cause.  Quel che
+avviene nel ^Purgatorio~: qui la mondana <civitas>, che
+l'^Inferno~ ci presentava capovolta e scomposta nei suoi fattori
+negativi e dissolventi, @e assunta a problema, esemplandosi anche,
+nella pi@u larga apertura della cantica alla dialettica
+dottrinale, la formula generale con cui il poema @e stato
+concepito: lo <speculativum negotium> subordinato al <morale>,
+per dirla con le parole dell'^Epistola~ a Cangrande; il pensiero
+che dall'alto osservatorio degli universali rifluisce nel mondo
+degli uomini, come guida e stimolo dell'azione, anzi azione in
+atto, spesso, e atto di vera e propria battaglia.  Il
+^Purgatorio~, nella sua pi@u intima vita, @e pi@u domenicano che
+francescano.
+
+	|113.  dolcemente~: ^dolce~ @e attributo tipico della
+musica in Dante: ^dolci note~ in ^Par.~, VI, 124: ^con s@i dolci
+note~ in ^Purg.~, VIII, 14 (dov'@e lo stesso effetto di estasi
+dolcemente smemorata) ^dolce nota~ in ^Par.~, X, 143, ecc.
+
+	|114.  sona~: gli @e rimasta nell'anima, ma, essendo
+dolcezza di canto, <risuona> ancora, memorialmente.  In modo pi@u
+esplicito, in ^Par.~, XXIII, 129.
+
+	|116.  parevan~: apparivano.
+
+	|117.  come~... |mente~: felici, ma di quella felicit@a
+particolare che nasce dalla liberazione di ogni altro pensiero, e
+dal librarsi dell'anima in una sospensione di magico incanto.  La
+Sirena (cfr. ^Purg.~, XIX, 20), <dismaga> i marinai in mezzo al
+mare, il <buono incantatore, Merlino (cfr. son. ^Guido i'
+vorrei~...) prende <per incantamento, gli amanti sul vascello
+incantato: nel canto di Casella, pericolosamente incantatore, le
+anime hanno, per un attimo, tutto dimenticato.  Magica e, per
+Catone, temibile potenza della divina ma <sensuale> arte!  Ed
+ecco, infatti, Catone intervenire bruscamente a squarciare, con
+la sua voce aspra, il labile tessuto di quell'incanto.  --
+|toccasse~... |mente~: altro (pensiero o affetto o cura)
+|toccasse~ loro l'anima.  Una scena consimile, di anime
+nell'oltretomba intente ad ascoltare incantate e commosse il
+cantore Orfeo, nella descrizione virgiliana della discesa di
+Orfeo all'Ade (nelle ^Georgiche~, IV).
+
+	|118.  fissi e attenti~: fermi e con gli sguardi rivolti
+verso Casella, e |attenti~, presi, con l'anima, dalle sue ^note~
+{v.119}.
+
+	|119.  ecco~: ecco farsi avanti, sopravvenire:
+apparizione improvvisa, effetto devastante...  -- |veglio~:
+Catone: cfr. ^Purg.~, I, 31.  -- |onesto~: nobile, qui con
+aggiunta idea di temibile austerit@a.
+
+	|120-121.  lenti~: tardi, che tardano a fare quanto
+dovrebbero: correre ^al monte~ {v.122}, ecc.  -- |Che @e~...
+|qual~... |quale~: richiesta martellata sull'incudine di una
+stupita indignazione: quello |stare~ @e fuori della <legge> e, a
+considerarlo con indulgenza, @e almeno segno di colpevole
+negligenza.  In ^En.~, II, 373 sgg., Androgeo, a Troia, cos@i
+rimprovera dei guerrieri incontrati nelle vie: <Festinate viri. 
+Nam quae tam sera moratur -- segnities....?>.
+
+	|122.  scoglio~: o scoglia, scorza, involucro (del
+peccato); |scoglio~ anche la pelle di cui la serpe si libera,
+mudando.
+
+	|123.  ch'esser~... |manifesto~: ^Isaia~, LIX, 2:
+<Iniquitates vestrae diviserunt inter vos et Deum vestrum, et
+peccata vestra absconderunt faciem eius a vobis>.  Un motivo
+affine in ^Par.~, XXXIII, 32-3.
+
+	|124-126.  Come quando~...: |come~ segna la rispondenza
+generale dei due termini della comparazione, |quando~ la
+rispondenza nel punto particolare pi@u illuminante: disperdersi
+dei colombi, fuga panica delle anime.  In questa rispondenza, il
+quadretto dei colombi, come al solito, @e delineato con una rapida
+ed essenziale completezza di notazioni.  Men netta, invece, di
+quanto non sembri a prima vista, la minuta commettitura
+sintattica della prima terzina nel suo rapporto con la seconda,
+poich$e se |li colombi~ fa, ovviamente, da soggetto a ^lasciano
+star~ del v. 128, @e tuttavia inserito in un contesto nel tipo di
+un ablativo assoluto; se |come~, poi, richiama il ^cos@i~ del v.
+130; e |quando~, per evitare la ripetizione col ^se~ del v. 127,
+sar@a da legare a ^subitamente~ {v.128}.  Si potrebbe quindi
+costruire: come quando, standosene i colombi adunati per il
+pasto, intenti a beccare (<cogliene>) chicchi di biada o loglio,
+|queti~, tutti tranquilli, in modo ben diverso dal loro usuale
+starsene impettiti che li fa parere uccelli orgogliosi, o
+presuntuosetti, se appare cosa che li spaventi, (essi)...  Altri
+lega |come~ a ^subitamente~ {v.128}: con la velocit@a con cui...;
+|quando~, in tal caso, si potrebbe legare a |cogliendo~, a
+completare l'indicazione temporale.  -- |pastura~: cibo, pasto:
+cfr. ^Par.~, V, 102; XXI, 19.
+
+	|128.  subitamente~: esatto: spicco fulmineo e
+sincronizzato di voli!  -- |l'esca~: il cibo, la cui vista li
+aveva <adescati>, attratti.
+
+	|129.  maggior cura~: preoccupazione pi@u urgente del
+cibo; di mettersi in salvo.  Con l'usuale scrupolo teorico, di
+ogni fatto @e indicata la causa.
+
+	|130.  masnada~: schiera, gruppo: originariamente la
+famiglia di un <manso> o podere concesso da un signore
+(Casini-Barbi).  Cos@i anche in ^Inf.~, XV, 41, solo pi@u tardi il
+vocabolo assunse il significato peggiorativo con cui @e rimasto
+nell'uso.  -- |fresca~: recente, appena arrivata; ^nova~ al v.
+58: ^arsura fresca~, in ^Inf.~, XIV, 42.
+
+	|131.  lasciar~: partenza un po' brusca, di gente colta
+in fallo!  E non priva di una sua aerea comicit@a, questa fuga
+all'impazzata, quasi panica, certo sproporzionata: le anime
+corrono, corrono senza sapere esattamente dove e a che
+arriveranno; a gambe levate, n$e pi@u n$e meno.  Cos@i Virgilio, e
+cos@i Dante che lo segue, ma non pu@o fare a meno, pur fuggendo, di
+osservare quanto poco dignitosamente, il Maestro, batta le
+calcagna.  Cfr. ^Purg.~, III, 10.
+
+	|132.  riesca~: vada a finire.  Cfr. nota al v. 11-12.
+
+	|133.  partita~: dipartita partenza: usitato.  --
+|tosta~: pronta, veloce: usitato.  <I colombi avevan deposto
+l'usato orgoglio perch$e tutti bramosamente intenti alla pastura,
+che non consente incedere solenne e di parata; se cos@i non fosse,
+mal s'intenderebbe il ^queti~ {v.126} che non s'accorda alla
+^maggior cura~ {v.129} per la quale lascian l'esca, ma la loro
+fuga contrastando con quell'orgoglio che s'era rilasciato
+soltanto per la brama del cibo, @e colta dal poeta con un allusivo
+sorriso.  Questo sorriso si prolunga anche nell'espressione
+indiretta con la quale Dante chiude il canto secondo: |n$e la
+nostra partita fu men tosta.~  Si estende cio@e anche alla fuga di
+Dante e Virgilio, anch'essi paragonati ai colombi.  Cos@i il canto
+secondo del Purgatorio si articola, nei suoi temi e motivi
+dominanti; l'attenzione alla ritrovata luce e alla vicenda del
+sole, la dolcezza dell'^amoroso canto~ {v.107} di Casella, lo
+sgomento e il rimorso di aver ceduto all'incanto di arti terrene,
+e siano le pi@u spirituali, come la poesia e la musica,
+dimenticando per un poco la necessit@a di affrettarsi alla
+purificazione per rendersi degni di salire al cielo.  E anche qui
+@e palese la sfericit@a della Commedia ove ogni raggio parte da un
+unico centro>.  (Flora).

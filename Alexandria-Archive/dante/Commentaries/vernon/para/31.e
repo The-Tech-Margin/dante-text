@@ -1,0 +1,182 @@
+	|Proemio.~  Incomincia il cap.o XXXI del Paradiso.
+
+	|1-51.~ 
+	^In forma dunque di chandida rosa~
+^mi si mostrava la milizia santa~
+^che nel suo sanghue Cristo fecie sposa.~
+
+Discritto l'altore in gienerale la forma del paradiso ora discrive 
+l'atto degli angioli e de' santi abitanti in quella corte cielestiale e 
+puotesi dividere questo C.o in tre parti gienerali.  In questa prima 
+parte l'altore discrive gli atti degli abitanti di quella corte 
+cielestiale i quali sono in quella rosa sempiterna ed etterna.  E 
+perch@e principalmente nella rosa sono tre virt@u principali per@o 
+fingie l'altore in segnio di rosa cio@e che lla rosa ha in s@e sustanza 
+colore e odore.  E simile Iddio si @e tre persone cio@e Padre Figlio e 
+Spirito Santo in una possanza una sustanza e una deit@a e una essenzia. 
+ Ancora dicie che lla rosa @e biancha e per questo dei 'ntendere la 
+purit@a e fede.  Ancora dicie che gli angioli si partono dal giallo di 
+questa rosa cio@e dal cientro il quale @e Iddio cantando e volando di 
+foglia in foglia infino all'estremit@a di questa rosa.  E poi cos@i 
+cantando si ritornano inverso il mezo cio@e Iddio e lui magnifichando e 
+ringraziando.  E dicie l'altore che questi angioli fanno simile alle 
+api o pecchie che fanno il mele le quali si partono a grande ischiere 
+da lloro chovile andando per la manna e per lo cibo che a lloro 
+bisognia pogniendosi di fiore in fiore e poi si ritornano a lloro 
+chovile cos@i diciendo l'altore
+
+	^Le faccie avien tutte di fiamma viva~
+^e l'ali d'oro e ll'altro tanto bianco~
+^che nulla neve a quel termine arriva.~
+
+Ancora per queste parole l'altore discrive gli comandamenti di questi 
+angieli e dicie ch'egli avieno le faccie loro tutte rosse e per questo 
+dei intendere per la loro charit@a.  Ancora dice ch'egli avieno l'ali 
+d'oro e per questo dei intendere che chome l'oro e sopra tutti gli 
+altri metalli e mai non si corrompe cos@i questi angeli fatti da Dio 
+sono incorrottibili.  Ancora dicie che gli vide bianchi pi@u che neve e 
+questo dei intendere per la purit@a e fede c'hanno a Dio.  Ancora dicie 
+che questo regnio di vita eterna e participato a quegli del Vecchio e 
+Nuovo Testamento.  E ffa l'altore una orazione a Dio per questo cos@i 
+diciendo
+
+	^O trina lucie che in unicha stella~
+^scintilando a llor vista s@i gli appagha~
+^ghuarda quaggi@u alla nostra prociella.~
+
+La orazione che ffa l'altore a Dio e questa o lucie di santa trinitade 
+ghuarda quagi@u in terra di tanta brigha e tempesta e fatiche e 
+tribolazioni quante ci sono.
+
+	^Se ' barberi venendo da tal plagha~
+^che ciaschun giorno d'Elice si cuopra~
+^rotante col suo figlio ond'ell'@e vagha.~
+
+Per queste parole ti d@a l'altore questa comperazione per lo vedere di 
+questa corte cielestiale diciendo che non fu mai barberi n@e altre 
+lontane gienti i quali si partissono da lloro contrade e andassono a 
+Roma nel tempo della grande magnificienzia e quelle cotali 
+magnificienzie vedessono che quelle dette gienti s'empierebbono tutte 
+d'amirazioni e d'allegrezza ci@o veggiendo quanto fec'io dicie l'altore 
+quand'io mi vidi in questa cielestiale corte.  Ancora dicie l'altore 
+cos@i per questo
+
+	^E quasi pellegrin che ssi recrea~
+^nel tempio del suo voto righuardando~
+^e spera gi@a ridir chom'egli stea.~
+
+Ancora ti d@a l'altore un'altra comperazione ci@o cch'egli incontr@o 
+essendo in questa corte simile che ffa al pellegrino il quale si vota 
+d'andare in pellegrinaggio e mosso al suo chammino si ffa quello con 
+gran faticha e affanno d'anima e di corpo insino ch'egli ha penato a 
+giugniere ne[l] luogho del suo voto.  E giunto a[l] luogho del voto 
+subito s'empie d'allegrezza pensando di dovere tornare a cchasa per 
+racontare il suo affanno del voto ch'egli avea disiderato di fare.  E 
+simile dicie l'altore incontro a mme che io essendo giunto al mio 
+disiderio era allegro di ci@o vedere e gi@a isperando di questo ridire 
+e di mettere in iscritto l'allegrezza e ll'amore che quivi era e che 
+faciea l'una anima insieme coll'altra.
+
+	|52-93.~ 
+	^La forma gieneral di paradiso~
+^gi@a tutta il mio sguardo avea compreso~
+^in nulla parte ancor fermato fiso.~
+
+In questa seconda parte l'altore introdducie un vecchio venerabile il 
+quale da qui inanzi fingie l'altore che questo tal vecchio il debba 
+ghuidare e menare pi@u in suso e che Beatricie lui abandoni e questo 
+fingie l'altore perch@e qui non bisognia teologia anzi bisognia l'animo 
+contemplativo.  E perch@e san Bernardo fu huomo al mondo molto 
+contemplativo e pi@u divoto della Vergine Maria che mai niuno altro 
+per@o fingie l'altore che san Bernardo gli sia qui apparito e che lui 
+il debba ghuidare da qui inanzi esendosi partita Beatricie.  Dicie 
+l'altore che di ci@o anchora non s'era acchorto se non che domandando 
+lui Beatricie d'alchune chose san Bernardo gli rispuose per lei il 
+quale era venuto ed ella s'era partita.
+
+	^Difuso era per gl'occhi e per le gene~
+^di benignia letizia in atto pio~
+^quale a tenero padre si conviene.~
+
+Qui discrive l'altore gli atti e modi e gli ordinamenti di san Bernardo 
+lui veggiendo e fingie che san Bernardo gli cominci a dire ch'egli @e 
+venuto a lui a preghiera di Beatricie per lui ghuidare e ch'ella fe' da 
+llui partita e ritornossi nel suo luogho colla sua compagnia cio@e 
+Racchael.  E dicie l'altore che parlando san Bernardo lev@o gli occhi 
+per vedere ov'era andata Beatricie e dicie l'altore ch'egli la vide 
+tanto dilunghata da ss@e in alto che non @e occhio tanto humano in 
+terra che se fosse nel profondo del mare e ghuardasse suso in aria in 
+quella regione d'aria dove si fanno i tuoni non sarebbe tanto di 
+lontano quanto dicie che a lui gli pareva essere di lungi da Beatricie. 
+ Ma dicie l'altore che questo niente gli faciea per@o ch'egli dicie che 
+vedea lei e tutta la sua faccia libera com'ella gli fosse presso.  E 
+altro per questo non vuol dire se non che sempre la portava seco nella 
+mente.
+
+	^O donna in chui la mie speranza vigie~
+^e cche soffristi per la mie salute~
+^in inferno lasciar le tue vestigie.~
+
+Per queste parole ringrazia l'altore Beatricie diciendole ch'ella per 
+lui sofferse d'andare allo 'nferno e di quello chavarlone e di trallo 
+de' vizi e de' pecchati di questo misero e chaduco mondo.
+
+	^Tu m'hai di servo tratto a libertate~
+^per tutte quelle vie per tutt'i modi~
+^che di ci@o fare avean la potestate.~
+
+Per queste parole dicie l'altore a Beatricie ringraziandola tu m'hai di 
+servo fatto libero cio@e che ttu m'hai tolto da' vizy e da' pecchati e 
+ha'mi condotto alla virt@u.  E per@o ti priegho che lla tua 
+magnificienza che ttu lla seghua e ghuardi i[n] mme acci@o che lla mia 
+anima che ttu hai liberata e sanata quando piacier@a a dDio ch'ella si 
+parta dal corpo ella vengha ad abitare presso a tte nella vita 
+cielestiale degli altri santi.  E dicie l'altore che a questi prieghi 
+Beatricie si volse verso lui e poi sorrise e lasciollo stare.
+
+	|94-142.~ 
+	^E 'l santo sene acci@o che ttu assommi~
+^perfettamente disse il tuo chammino~
+^a che priegho e amor santo mandommi.~
+
+In questa terza parte l'altore introdducie san Bernardo a esere con 
+esso lui il quale gli vuole mostrare tutta la cielestiale corte e 
+ultimatamente la Vergine Maria.  E dicie san Bernardo all'altore questo 
+ti fo per gli prieghi che m'ha fatti Beatricie di te e per@o leva e 
+alza gli occhi della tua mente e raghuarda intorno a questo giardino e 
+vedrai quello amore per chui dentro io ardo di charit@a cio@e la 
+Vergine Maria la quale fu sempre mia avocata.  Dicie l'altore nel testo.
+
+	^Quale cholui che forse di Croazia~
+^viene a veder la veronicha nostra~
+^che per l'anticha fama non si sazia.~
+
+Qui dicie l'altore che udendoli dire san Bernardo che gli s'enpieva 
+tanto di dolciezza ch'egli non sapea che ssi fare in se medesimo E 
+dicie l'altore che san Bernardo gli disse ghuarda pur pi@u fiso tu non 
+vedrai pi@u niente che ttu voglia ma leva gli occhi in alto della tua 
+mente all'ultimo grado e vedrai Maria.  Allora dicie l'altore che 
+levando gli occhi in alto vide tanta maggior chiarezza che dinanzi 
+quanto a ssimile la mattina quando si leva il sole ghuardando in 
+occidente che n'@e oschuro e volgiendo gli occhi in oriente onde tu 
+vedi apparire il sole lucido e risplendiente simile dicie ch'egli 
+ghuard@o in suso e vide tanta maggior chiarezza e isplendiente per la 
+Vergine Maria che non @e quella del sole quando si leva a' nostri 
+occhi.  E dicie che ci@o ghuardando vide rallegrare tutti i santi 
+ghuardando i[n] llei.
+
+	^E ss'io avessi in dir tanta divizia~
+^quanta ad immangiar non ardirei~
+^lo minimo tentar di suo delizia.~
+
+Qui dicie l'altore che veggiendo egli tanta chiarezza e tanta 
+allegrezza fare per Nostra Donna in cielo che linghua nollo potrebbe 
+contare n@e penna iscrivere quanto fu la chiarezza e lla bellezza e 
+ll'allegrezza che allora egli vide.  E dicie l'altore che cci@o 
+ghuardando san Bernardo divoto sempre istato di Nostra Donna ch'egli 
+avea fissi gli occhi sua i[n] Maria di che forte si maravigli@o san 
+Bernardo volgiendo i suoi occhi per allegrezza di subito i[n] llei 
+com'egli diciesse costui ti racchomando per la qual chosa dicie 
+l'altore che gli si fecie per quello pi@u fervente a rimirare i[n] lei 
+cio@e nella Vergine Maria.
+

@@ -1,0 +1,748 @@
+	|1-6~. I due viatori giungono sulla ^sommit@a~ (|colmo~) del |ponte~ 
+della quinta ^bolgia~ (|fessura~ = "fenditura"), il cui fondo @e 
+occupato dalla nera pece, nella quale sono immersi i barattieri. La 
+natura eccezionalmente |oscura~ della bolgia @e evidenziata dalla 
+lunghezza dell'avverbio |mirabilmente~ (= "orribilmente"), che crea un 
+verso ritmicamente insolito, con accento di seconda ed ottava. I 
+|pianti~ dei barattieri (come quelli di tutti i dannati) sono ^inutili~ 
+(|vani~) in quanto la pena @e immutabile ed eterna. Circa il termine 
+|comed@ia~, cfr. ^Inf~. XVI.128; esso @e posto a breve distanza da 
+^traged@ia~ (^Inf~. XX.113) per distinguere il poema dantesco 
+dall'^Eneide~ (cfr. ^Inf~. XX, n. 97-99).
+
+	|7-15~. ^Come~ (|Quale~) ^nell'arsenale~ (|ne l'arzan@a~) ^dei~ 
+^Veneziani nella stagione invernale~ (|l'inverno~) ^bolle la pece 
+tenace che serve a~ (|a~) ^spalmare di nuovo~ (|rimpalmare~) ^le loro 
+navi~ (|i lor legni~) ^danneggiate~ (|non sani~), ^poich$e~ (|ch$e~) ^i 
+Veneziani~ (|essi~) ^non possono~ (|ponno~) ^mettersi per mare~ 
+(|navicar~)  --  ^invece di navigare~ (|in quella vece~) ^chi si fabbrica 
+una nave nuova~ (|fa suo legno novo~) ^e chi ottura con la stoppa~ 
+(|ristoppa~) ^le falle aperte nei fianchi~ (|le coste~) ^della nave~ 
+(|a quel~) ^che ha compiuto~ (|fece~) ^numerosi~ (|pi@u~) ^viaggi; chi 
+batte continuamente col martello~ (|ribatte~) ^a prua~ (|da proda~) ^ed 
+a~ (|da~) ^poppa; altri costruiscono~ (|fa~) ^remi e altri 
+attorcigliano~ (|volge~) ^sartie~ (|sarte~)^; chi rattoppa~ 
+(|rintoppa~) ^la vela minore di prua~ (|terzeruolo~) ^e chi la vela 
+maggiore~ (|artimon~).  --  Si tratta della prima parte di una celebre 
+similitudine che ha la primaria intenzione di porre a raffronto la pece 
+che ribolle nel fondo della bolgia con la pece (|tenace~) con la quale 
+si rendevano impermeabili gli scafi (calafatura). @E plausibile 
+intendere l'espressione |fa suo legno nuovo~ come "rinnova, ristruttura 
+la sua imbarcazione". In questa parte viene descritta la febbrile 
+attivit@a che d'inverno (quando la navigazione @e ridotta al minimo) 
+caratterizza gli operai dell'^arsenale~ (|arzan@a~, voce veneziana 
+dall'arabo ^dar$canah~, "officina": cfr. la nostra voce "darsena") di 
+Venezia (sorto nel 1104 ed ampliato nel 1303, era al tempo uno dei pi@u 
+importanti d'Europa); nella descrizione il poeta (che vide l'arsenale 
+fra il 1304 ed il 1306) utilizza un lessico preciso ed anche tecnico 
+(|sarte~, |terzeruol~, |artimon~). Cfr. I. Baldelli, ^L'arsenale di 
+Venezia e la~ Commedia, in G. B@arberi Squarotti - C. Ossola (a cura 
+di), ^Letteratura e industria~, Firenze, Olschki, 1997, I, pp. 7-23. Le 
+|sarte~ sono cordami ottenuti intrecciando ed avvolgendo canapa. Per 
+quanto concerne l'"artimone" (cfr. ^Conv~. II.i.1), il senso non @e 
+sicuro (si veda la voce in ^ED~ I.408); indubitabile, tuttavia, il 
+richiamo scritturale (^Acta~ 27.40).
+
+	Secondo alcuni critici, la similitudine, giustamente celebre, evade 
+alquanto dalla linea narrativa, costituendo di conseguenza una lunga 
+digressione: cos@i B. Croce la considerava come una piccola "lirica a 
+s$e" (^La poesia di Dante~, Bari, Laterza, 1961, p. 61). La maggior 
+parte dei dantisti, comunque, tende a correlare la similitudine alla 
+descrizione della quinta bolgia: a parere di N. Sapegno, p. es., essa 
+non costituisce "una pausa della fantasia che si abbandona al suo 
+libero estro pittorico; perch$e nel quadro, indirettamente, si riflette 
+il ritmo movimentato e tumultuoso con cui alla mente di Dante gi@a si 
+presenta lo spettacolo di questa bolgia". Ma la similitudine pu@o 
+anticipare con precisione eventi che saranno narrati: "La divisione del 
+lavoro, che caratterizza l'attivit@a degli operai dell'arsenale, trova 
+corrispondenza nell'alacre efficienza con cui ogni diavolo esegue il 
+suo compito di scovare ed attaccare i peccatori che tentano di uscire 
+dalla pece bollente" (R.H. Lansing, ^From Image to Idea~, Ravenna, 
+Longo, 1977, p. 62). Tuttavia @e probabile che il ruolo primario della 
+similitudine sia contrastivo, come ritengono G. Favati (in ^Cultura 
+neolatina~, 1965, pp. 34-52) e J. Applewhite (in ^Italica~, 1964, pp. 
+294-309). Quest'ultimo rileva la relazione ironica fra l'attivit@a 
+cooperativa vigente nell'arsenale ed il quadro di corruzione cittadina 
+determinato dalla baratteria e quella tra la funzione di restauro che 
+la pece svolge nella riparazione delle navi e la funzione punitiva che 
+essa esercita nei confronti delle anime, oramai non pi@u 'restaurabili' 
+(si tenga presente che spesso nel poema l'immagine della nave e del 
+mare simboleggia l'uomo ed il suo viaggio terreno).
+
+	|16-18~. Si conclude la similitudine: |tal~ si collega a |Quale~ del 
+v. 7. La ^pece~ (|pegola~: vocabolo veneto, dal basso lat. ^picula~, in 
+origine diminutivo di ^pix~), qui prodotta senza bisogno di |foco~ in 
+quanto effetto di |divin'arte~, ricopriva di una patina vischiosa 
+([|i]nviscava~) anche le pareti (o almeno le loro parti basse) della 
+quinta bolgia.
+
+	|19-21~. "La pece si gonfia assai bollendo, per la viscosit@a della 
+materia, e laddove una bolla si rompe, si forma una concavit@a per la 
+compressione del vapore che, come arrotonda la superficie della bolla 
+in su, cos@i deprime la superficie sottostante" (Steiner). Forse Dante 
+ha qui avuto presente Virgilio (^Georg~. II.479-80), ma secondo 
+Berthier egli traduce frate Alberigo: "Vidi etiam puteum magnum, 
+flammas emittentem, et nunc sursum, nunc deorsum descendentem" 
+(^Visio~, § 11). Il pronome |lei~ @e riferito alla pece, cio@e  --  
+secondo prassi lecita nell'ital. ant.  --  a cosa inanimata (cfr. ^Inf~. 
+XIV, n. 13-15). Circa |mai che~ ("altro che"; lat. ^magis quam~), cfr. 
+^Inf~. IV.26.
+
+	|22~. |fisamente~: "attentamente".
+
+	|23~. Il grido |Guarda, guarda!~ costituiva un invito a stare all'erta 
+(cfr. ^Fiore~ XXXII.10).
+
+	|25-28~. ^Allora mi girai~ (|volsi~) ^come colui~ (|l'uom~) ^che @e 
+ansioso~ (|cui tarda~) ^di vedere quello che deve~ (|li convien~) 
+^fuggire e a cui l'improvvisa~ (|s@ubita~) ^paura toglie vigore~ 
+(|sgagliarda~), ^il quale~ (|che~), ^pur cercando di guardare~ (|per 
+vedere~), ^non ritarda~ (|indugia~) ^la fuga~ (|'l partire~).  --  Dante 
+@e combattuto fra il bisogno di sapere (^tardare di~ vuol dire "non 
+vedere l'ora di" e quindi "essere in ansia") quale sia il pericolo 
+incombente e la |paura~ che lo attanaglia, per cui guarda e fugge al 
+medesimo tempo. Circa il valore di |per vedere~, cfr. ^Inf~. IV.11.
+
+	|29-30~. L'attributo di |nero~, assegnato al diavolo, @e tipico della 
+raffigurazione popolare del demonio; ma tutti i diavoli di Malebolge 
+sono dipinti in ossequio ai canoni tradizionali e popolari. Del resto 
+il nero era, nella tradizione medievale, il colore delle sotterranee 
+forze del male. Cfr. ^Inf~. XXIII, n. 127-132.
+
+	|31-33~. Dante ricorda che il diavolo era ^feroce~ (|fero~) ^nel 
+volto~ (|ne l'aspetto~) e appariva ^crudele~ (|acerbo~) ^nel contegno~ 
+(|ne l'atto~): egli aveva le ali aperte ed era ^rapido nel cammino~ 
+(|sovra i pi$e leggero~)^,~ sembrava cio@e camminare ed insieme volare. 
+I diavoli sono angeli decaduti e quindi hanno le ali; vedremo che 
+possono anche effettivamente volare (canto XXII). Essi sono anche 
+organizzati in ordini gerarchici, come spiega l'Aquinate sulla base 
+della distinzione fra grazia allo stato imperfetto (^status merendi~) e 
+grazia allo stato perfetto (^status gloriae consummatae~): "Se infatti 
+gli ordini angelici si considerano in rapporto alla perfezione della 
+gloria, @e vero che i demoni n$e sono n$e mai furono negli ordini 
+angelici. Se invece si considerano in rapporto alla grazia nel suo 
+stato imperfetto, allora @e vero che i demoni appartennero una volta 
+agli ordini angelici, ma decaddero da essi: infatti abbiamo detto (^ST~ 
+I, q. 62, a. 3) che tutti gli angeli furono creati in grazia. Se infine 
+si considerano in rapporto alla natura, allora @e vero che i demoni 
+appartengono sempre ai loro ordini, poich$e, come insegna Dionigi (^De 
+div. nom~. IV.19), essi non hanno perso le loro doti naturali" (^ST~ I, 
+q. 109, a. 1).
+
+	|34-36~. Il diavolo porta sulla ^spalla~ (|omero~), ^appuntita~ 
+(|aguto~) e ^sporgente~ (|superbo~), un dannato, stringendo con le mani 
+(unghiate) il ^tendine~ (|nerbo~ = "garretto"), la giuntura tra gamba e 
+calcagno. Il dannato non @e a cavalcioni sulle spalle, ma penzola su un 
+|omero~ ^~a testa in gi@u, lungo la schiena del diavolo, il quale sul 
+davanti tiene insieme, con una mano sola, le gambe del |peccator~, il 
+quale @e dunque "nella posizione in cui il macellaio porta un animale 
+ucciso al macello per scuoiarlo e venderlo" (Benvenuto).
+
+	|37-38~. Il diavolo, giunto sul ponte e non curandosi affatto dei due 
+estranei, annuncia ai suoi compagni (|Malebranche~ @e il nome generico 
+dei diavoli della bolgia, nome che proviene da ^Malebolge~ e dalle 
+^branche~, cio@e dalle loro unghie artigliate) l'arrivo di un |anzian 
+di Santa Zita~: si tratta di uno dei dieci reggitori del comune di 
+Lucca (come i "priori" in Firenze), comune devoto a Santa Zita, la 
+quale, nata nel 1212 a Pontremoli, visse a lungo a Lucca, dove mor@i 
+nel 1272 in odore di santit@a (sar@a canonizzata nel 1696). Secondo il 
+pisano Buti (d'accordo col pisano Guido: cfr. n. 46-51), "possiamo dire 
+che l'Autor dica questo per irrisione, in quanto adorano quel corpo che 
+non @e canonizzato dalla Chiesa". Circa l'identit@a del dannato, alcuni 
+commentatori affermano che il suo anonimato @e dovuto alla volont@a del 
+poeta di colpire l'intera classe dirigente, profondamente corrotta, 
+della citt@a (roccaforte dei Neri di Toscana); altri, invece, sono 
+dell'opinione che il barattiere sia Martino Bottaio, che fu magistrato 
+di Lucca. Tale opinione fu espressa per primo da Guido da Pisa, il 
+quale specifica anche che Martino mor@i il 26 marzo del 1300.
+
+	|39-42~. Lucca @e terra di conquista per i Malebranche: tutti infatti 
+vi sono barattieri, |fuor che~ ("ad eccezione di") |Bonturo~; ma ci@o 
+@e detto ironicamente (@e la figura retorica dell'"eccezione": cfr. 
+^Inf~. XXIX.125), poich$e Bonturo Dati, capo della parte popolare che 
+fu al governo tra il 1310 ed il 1314 (morir@a a Firenze nel 1325), 
+commise parecchie baratterie (@e citato nell'ode carducciana ^Faida di 
+comune~). A Lucca esisteva la carica di Re dei ribaldi o dei barattieri 
+(cfr. L. Rossi, in ^Cultura neolatina~, 1973, pp. 217-21). Tipico atto 
+di |barattiere~ @e quello descritto, con espressione tratta dal parlato 
+popolare, al v. 42, con chiaro riferimento agli atti pubblici: 
+approvare (|ita~ @e un avverbio lat. usato nelle risposte affermative: 
+^ita est~ = "cos@i @e"), dietro illecito compenso, quello che dovrebbe 
+essere respinto. Quanto dice il diavolo sembra violare la norma per cui 
+ogni dannato deve essere traghettato da Caronte e  --  salvo che non sia 
+destinato al Limbo (cfr. ^Inf~. V, n. 7-8)  --  presentarsi al cospetto di 
+Minosse (a meno che di non supporre che il diavolo salga anch'egli 
+sulla barca di Caronte e si fermi poi ad ascoltare la sentenza del 
+giudice infernale). Circa la locuzione |per anche~ (= "ancora"), essa 
+pu@o anche intendersi come "per (prenderne) altri".
+
+	Immersi nella pece, che come strumento di punizione ha ascendenza 
+biblica (^Is~. 34.9), stanno i barattieri, in generale individui che 
+vivono di sotterfugi e di espedienti, ma soprattutto che hanno 
+sfruttato il fatto di ricoprire una carica pubblica per trarre illecito 
+guadagno. Essi, nell'ambito dell'amministrazione civile, equivalgono a 
+quelli che sono i simoniaci all'interno della Chiesa. Contro di loro, 
+che hanno spezzato il vincolo costitutivo della vita civile invece che 
+(in qualit@a di reggitori dello Stato) rinsaldarlo, l'Alighieri @e 
+sprezzante e spesso ricorre allo strumento del sarcasmo; i barattieri 
+sono sostanzialmente equiparati ai diavoli, coi quali coabitano in un 
+mondo bestiale e brutale. Del resto la loro @e una colpa tipica di 
+quella civilt@a mercantile aborrita dal poeta, civilt@a che @e 
+veramente simile all'Inferno, se si pensa che le principali cariche 
+pubbliche sono ricoperte da simoniaci e barattieri. Non @e escluso che 
+sul modo della rappresentazione (a partire dallo spazio dedicato a tali 
+dannati: pi@u di due canti) abbiano giocato motivi personali, essendo 
+stato Dante stesso ingiustamente accusato e condannato per baratteria. 
+Secondo alcuni, il colore nero dei diavoli sarebbe un'allusione alla 
+parte avversa a quella di Dante. Lo stesso modo della pena si rif@a ad 
+alcune procedure giudiziarie della Firenze del tempo, ove i nemici 
+dello Stato, prima di essere impiccati, potevano essere messi a bollire 
+nell'olio o nell'acqua oppure fatti a pezzi. Berthier ricorda la 
+dottrina della giustizia dell'Aquinate: "Justitia ordinat hominem in 
+comparatione ad alium. Quod quidem potest esse dupliciter. Uno modo ad 
+alium singulariter consideratum; alio modo ad alium in communi, 
+secundum scilicet quod ille qui servit alicui communitati servit 
+omnibus hominibus qui sub communitate illa continentur. Ad utrumque 
+ergo se potest habere justitia secundum propriam rationem" (^ST~ II-II, 
+q. 58, a. 5). Donde la conclusione del commentatore ottocentesco: 
+"Dante considera nel presente canto e nel seguente quelli che violarono 
+la giustizia generale. Nel canto presente parla di quelli che violarono 
+la giustizia rubando il comune; nel seguente, di quelli che 
+s'approfittano della grazia del loro signore".
+
+	Tuttavia, oltre a tale accezione 'politica' della baratteria, ve n'@e 
+un'altra 'culturale'. In questo secondo senso, il peccato qualifica "un 
+tipo di persona che fa dell'impostura ideologica e della falsificazione 
+segnica il suo marchio di appartenenza: caratterizza cio@e quegli 
+intellettuali che, avendo accesso alla parola, la manipolano 
+sistematicamente, facendola servire non alla ^verit@a~ (della quale il 
+poeta-pellegrino @e alla ricerca), ma al suo opposto; alterando per 
+l'utilit@a personale il legame sacro che corre fra significanti e 
+significati; insomma contraffacendo il segno linguistico: proprio 
+quello che Dante coglie con la forma |del no per li denar vi si fa ita~ 
+(v. 42)" (M. Picone, ^Baratteria e stile comico in Dante~, in C.G. 
+Alessio  --  R. Hollander [a cura di], ^Studi americani su Dante~, Milano, 
+Angeli, 1989, p. 69). Infatti, per caratterizzare l'ascendenza 
+culturale di Ciampolo (il barattiere protagonista del prossimo canto), 
+Dante utilizza la voce ^ribaldo~, che, rispetto a ^barattiere~, @e 
+molto pi@u tecnicizzata, essendo associata a termini quali giullare, 
+mimo, istrione, ecc. La voce denota quindi persone che conducono 
+un'esistenza precaria, mettono in scena la propria vita per suscitare 
+non la compassione, ma il riso degli spettatori, la cui simpatia pu@o 
+tradursi s@i in applausi, ma anche in donazioni. "Il giullare-ribaldo 
+si presenta davanti al suo pubblico pi@u nelle vesti di imbonitore che 
+di poeta: le storie e i romanzi da recitare vengono da lui per cos@i 
+dire mercificati; sono cio@e dei prodotti equipollenti che egli vende 
+al migliore offerente, regolando la scelta del prezzo da mettere in 
+vetrina sulle esigenze particolari dell'udienza del momento. Il 
+giullare non si lascia guidare dalla fedelt@a all'ispirazione 
+interiore; @e invece dominato dalla legge della domanda e dell'offerta. 
+In definitiva egli stravolge l'opera del vero poeta (e in questo 
+consiste il senso profondo della sua 'ribalderia'), in quanto 
+prostituisce la creazione poetica asservendola alle esigenze dello 
+spettacolo. Egli diventa cos@i uno ^showman~, un giocoliere o 
+prestigiatore della parola, capace di fare apparire come vera e 
+naturale una realt@a che @e invece falsa e artificiale" (Ivi, p. 68). 
+L'episodio si presenta, dunque, anche come rivendicazione della vera 
+poesia da parte dell'Autore, che recupera una tradizione letteraria di 
+tipo anti-cortese, realistico-borghese, per superarla ed in tal modo 
+inverarla (cfr. ^Inf~. XXII, n. 139-141).
+
+	Per quanto riguarda il ^contrapasso~, si legga Buti: "come sono stati 
+impaniati nel mondo dei danari o d'altro dono equivalente, sicch$e non 
+hanno avuto poi la podest@a di seguire la ragione, cos@i sieno di l@a 
+impegolati; e come nel mondo sono arsi dall'avarizia, cos@i bollano; e 
+come nel mondo hanno cercato con fraude appiattamento e scurit@a alla 
+loro baratteria, cos@i sieno messi sotto la nera et oscura pegola; e 
+come l'uno ha tirato dall'altro la pecunia, cos@i sieno di l@a 
+afferrati e tirati dai demoni con li uncini; e come hanno avuto l'animo 
+desideroso di rapina e sono stati rapaci con le mani uncinate a tirare 
+a s$e, cos@i sieno guardati dai demoni, chiamati Malebranche, con li 
+graffi e raffi che li graffino con essi in vendetta della loro rapina".
+
+	|43-45~. Buttato nella pece il dannato lucchese, il diavolo torna 
+indietro, dirigendosi evidentemente verso Lucca, dove continuamente 
+muoiono barattieri. Egli va verso la preda pi@u velocemente di quanto 
+faccia un mastino che, ^slegato dalla catena~ (|sciolto~), insegue un 
+^ladro~ (|furo~: dal lat. ^fur~: cfr. ^Inf~. XXVI.41-42): in effetti, 
+un barattiere @e "ladro" del denaro pubblico.
+
+	|46-51~. L'anziano di S. Zita (|Quel~), buttato nella pece, riemerge 
+^ricoperto di pece~ (|convolto~) ed i diavoli che stanno sotto il ponte 
+(quindi non visti sinora dai due viaggiatori) lo apostrofano 
+sarcasticamente, ricordandogli che ormai egli non @e pi@u a Lucca e 
+deve obbedire alle leggi della bolgia: prima essi, alludendo al |Santo 
+Volto~, un crocifisso bizantino di legno nero venerato a Lucca (cfr. G. 
+Fallani, ^Dante e la cultura figurativa medievale~, Bergamo, Minerva 
+Italica, 1971, pp. 163-69), gridano al dannato che egli non pu@o 
+mostrare il proprio ceffo nero (al contrario di quanto accade a Lucca, 
+dove viene mostrato, esposto, il crocifisso nero), quindi gli gridano 
+che nella |pegola~ non si pu@o nuotare come nel |Serchio~ (fiume che 
+scorre presso Lucca). Egli non deve perci@o ^stare a galla~ (|far... 
+soverchio~), deve continuare cio@e ad agire  --  da bravo barattiere  --  in 
+maniera 'sommersa', se vuole evitare di essere graffiato (|di nostri 
+graffi~ @e un costrutto partitivo = "qualcuna delle nostre 
+graffiature"). Va precisato che alcuni commentatori intendono 
+|convolto~ come "con la schiena piegata ad arco (per lo spasimo della 
+cottura)" (cfr. ^Inf~. XXII.19-24); in tal caso, l'accenno al |Santo 
+Volto~ va spiegato diversamente: "Sembra che il peccatore pieghi la 
+schiena come in una profonda, grottesca genuflessione, e i diavoli gli 
+rinfaccino le molte che ipocritamente aveva fatte da vivo dinanzi al 
+Santo Volto, gabbando gli uomini e quel Dio che ora sarebbe inutile 
+invocare" (Grabher). Secondo F.P. Luiso (in ^Miscellanea di studi 
+storici e letterari in memoria di S. Bongi~, Lucca, 1931), un Lucchese 
+contrario al culto del crocifisso venne gettato, chiuso in un sacco, 
+nel Serchio: tenendo presente ci@o, il sarcasmo dei diavoli alluderebbe 
+anche ad un altro genere di ^contrapasso~. Secondo Guido da Pisa, per 
+il quale i Lucchesi sono "stulti et fatui", il poeta intende qui 
+deriderli: da un lato, infatti, essi adorano il crocifisso nero "non ut 
+figuram vel effigiem crucifixi, sed quasi ipsum Deum humanatum et in 
+carne natum"; dall'altro, essi si bagnano nudi, "inverecunde", nel 
+Serchio, denotando una vanit@a "more pagano". Il frate pisano rinvia 
+anche a ^Deut~. 32.20, ove si legge che Dio dice a Mos@e: "Abscondam 
+faciem meam ab eis et considerabo nocissima eorum": infatti, spiega 
+Guido, "licet facies Dei sit plena gratiarum, quia peccatores 
+impenitentes [cfr. i |pianti vani~ del v. 5] eius gratiis se reddunt 
+indignos, ideo in Inferno, ubi nulla est redemptio, divina facies locum 
+non habet".
+
+	|52-54~. I diavoli infieriscono (|l'addentar~ = "lo addentarono", "lo 
+infilzarono") sul barattiere con i loro |raffi~ (sono le loro armi, 
+cio@e ferri uncinati posti in cima ad un'asta: altrove sono detti 
+^runcigli~ e ^uncini~) e con il loro ^humour~ grossolano e schernevole: 
+infatti egli in vita "arraff@o" stando celato e manovrando oscuramente; 
+che provi ora, che @e celato dalla pece (|coverto~), ad "arraffare" di 
+nascosto! La voce ^accaffare~ @e arcaica del dialetto fiorentino, forse 
+proveniente da ^cafare~, termine con cui s'indicava una sorta di 
+tributo preteso dai pellegrini cristiani da parte dei Turchi. Guido da 
+Pisa parla di un gioco infantile, detto ^acaffo~, in cui si tratta di 
+indovinare il numero (pari o dispari) di oggetti tenuti nascosti nella 
+mano chiusa. Ci@o si addice ai barattieri, i quali "in consiliis tenent 
+manus clausas et id quod demonstrant mittere in unam pixidem mittunt in 
+aliam". Il "ballare" si riferisce sarcasticamente ai contorcimenti 
+provocati dal dolore.  --  In questo caso |poi~ @e congiunzione (= "dopo 
+che"), non avverbio.
+
+	|55-57~. Nelle rappresentazioni popolari dell'Inferno, era frequente 
+l'utilizzo del linguaggio culinario (cfr. v. 135), mentre, nella 
+letteratura di 'visioni' d'oltretomba, il motivo @e ampiamente svolto: 
+nella ^Visione del fanciullo Guglielmo~ (riportata nel XXVII libro 
+dello ^Speculum historiale~ di Vincenzo di Beauvais), i diavoli sono 
+descritti come cuochi infernali e le loro vittime come pezzi di carne; 
+nella ^Babilonia infernale~ di Giacomino da Verona la trattazione @e 
+scherzosa (p. es. il cuoco Belzeb@u mette l'anima ad arrostire, la 
+condisce e la serve in tavola al re dell'Inferno, il quale, 
+insoddisfatto del grado di cottura, la rimanda indietro). Si legga 
+Benvenuto, attento anche all' 'inquinamento' prodotto dalla baratteria: 
+"Et hic nota quod ista solatiosa comparatio est valde conveniens et 
+propria, quia sicut coqui cum uncinis faciunt carnes coquendas stare 
+sub aqua bulliente, ut elius coquantur et non recipiant fumum; ita isti 
+magni magistri coquinae faciunt cum graffis ferreis animas cruciandas 
+stare sub pice bulliente, ut magis coquantur, et ne fumus infamiae 
+exeat de pice, idest barataria, et inficiat aerem, scilicet ne 
+divulgeretur". La pece, chiosa Guido da Pisa, "inquinat quicquid 
+tangit, et talis inquinatio non de facili aboletur. Simili modo 
+peccatum barattarie habet officiales et cives turpiter inquinare, sive 
+etiam infamare; et talis infamia est valde difficilis, immo 
+impossibilis ad lavandum. Ideo ait Salus: 'Qui tangit picem 
+coinquinabitur ab ea' [^Ecclus~. 13.1]".  --  |Cuoci~ @e plurale arcaico 
+(come p. es. ^mendici~: ^Par~. XVII.90); i |vassalli~ sono gli 
+^aiutanti~ dei cuochi; |galli~ (= "galleggi") @e congiuntivo presente 
+di "gallare" (in senso metaforico a ^Purg~. X.127).
+
+	|58-63~. Ha inizio l'episodio pi@u lungo della cantica (ha termine a 
+^Inf~. XXIII.57). Virgilio ordina a Dante di "acquattarsi" ^dietro~ 
+(|dopo~) ^una sporgenza rocciosa~ (|uno scheggio~) e lo tranquillizza 
+(o, almeno, cerca di farlo), dicendo di sapere come stanno le cose (|ho 
+le cose conte~) e che gi@a in altra occasione si trov@o ^in una simile 
+contesa~ (|a tal baratta~)^.~ Il |maestro~ pu@o far riferimento alla 
+sua precedente discesa nell'Inferno (^Inf~. IX.22) oppure alle 
+difficolt@a incontrate nei confronti dei diavoli di fronte alla citt@a 
+di Dite (^Inf~. VIII.82-130); ma l'esperienza accumulata (|conte~ dal 
+lat. ^cognitae~, "conosciute", "note": cfr. ^Inf~. III.76; X.39)  --  come 
+vedremo  --  si riveler@a vana. Di tutt'altro tenore l'esegesi di Trucchi: 
+"Quando fu Virgilio altra volta |a tal baratta~? Quando scese nel basso 
+Inferno congiurato da Eritone? non pare, perch$e allora il nome della 
+maga gli sarebbe valso di talismano in faccia ai diavoli. Pi@u 
+probabilmente in vita, quando un rapace centurione non volle rendergli 
+i campi, nonostante l'ordine di Augusto, e, minacciandolo di morte 
+(^Egloga~ IX.16), l'obblig@o a fuggire, passando il Mincio a nuoto". 
+Benvenuto ritiene che Virgilio faccia riferimento alla sua precedente 
+discesa, "coniuratus" da Eritone, ma nel contesto della "fictio": 
+"histyorice", invece, egli alluderebbe alla sua esperienza con i 
+cortigiani (di cui alcuni barattieri) incontrati alla corte di Augusto, 
+dove si era recato dopo essere stato spogliato delle sue propriet@a 
+terriere.  --  La voce |aia~ (^aggia~, "abbia": cfr. ^Par~. XVII.140), di 
+origine meridionale, era tipica del linguaggio lirico.
+
+	|64-66~. Arrivato ^sull'argine fra la quinta e la sesta bolgia~ (|in 
+su la ripa sesta~), Virgilio dovette (|mestier li fu =~ "gli fu 
+necessario") ^assumere un aspetto imperturbabile~ (|d'aver sicura 
+fronte~); un aspetto tale, cio@e, da non far trasparire alcun 
+turbamento interiore. Abbiamo gi@a incontrato (XX.76) la voce |co~ 
+("capo"): cfr. ^Purg~. III.128; ^Par~. III.96.
+
+	|67-71~. Per la seconda volta, ed in maniera pi@u estesa, i diavoli 
+vengono paragonati a cani (la prima volta ai vv. 44-45): i Malebranche 
+si scagliano contro Virgilio allo stesso modo in cui i cani si 
+avventano latrando (|tempesta~) contro il ^mendicante~ (|poverello~), 
+il quale, visti i cani, ^immediatamente~ (|di s@ubito~) si ferma e 
+chiede l'elemosina, per far capire di non essere un malintenzionato; 
+allo stesso modo Virgilio si ferma ed apostrofa i diavoli, armati di 
+^ferri uncinati~ (|runcigli~, da ^ronca~, strumento di ferro utilizzato 
+per estirpare le erbe), da lontano. Secondo M. Barbi, |di s@ubito~ vale 
+"all'improvviso", donde la seguente interpretazione: "la voce del 
+mendicante giunge improvvisa entro quella casa dove s'arresta a 
+chiedere; onde la furia dei cani sorpresi dall'improvviso rumore". 
+L'interpretazione @e tuttavia "improbabile, sia perch$e i cani non 
+aspettano di sentire la voce di un estraneo per avvertirne la presenza, 
+e sia perch$e non sarebbe perfetta la rispondenza tra i due termini 
+della similitudine, se i cani si lanciassero contro il |poverello~ 
+soltanto dopo averne sentito la voce: i diavoli, infatti, si lanciano 
+contro Virgilio prima ch'egli parli, al solo vederlo a una certa 
+distanza" (Chimenz).
+
+	|72-75~. Virgilio chiede di parlare al capo dei demoni (|l'un di voi~ 
+= "quello di voi che sapete"). L'aggettivo |fello~ ha una vasta gamma 
+di significati (si pensi a "fellone", in origine "traditore"): cfr. 
+^Inf~. VIII, n. 13-18. Secondo Steiner, invitare i diavoli a non essere 
+"malvagi" @e fuor di luogo, non potendo essi non essere 
+malintenzionati; quindi, l'aggettivo @e qui usato nel significato 
+giuridico di ^fellone~, cio@e "ribelle al proprio signore": "Virgilio 
+cos@i con una sola parola avverte i demoni della gravit@a dell'atto che 
+stanno compiendo, in quanto egli viene mandato da Dio. Se mi toccate, 
+dice, sarete dei ribelli a Dio e avrete a temere l'inevitabile 
+castigo". Tuttavia vedremo che la guida non @e consapevole del ^mal 
+volere~ che inevitabilmente contraddistingue le creature diaboliche 
+(cfr. n. 133-135; ^Inf~. XXIII, n. 13-18). Il verbo "arruncigliare" @e 
+coniato da Dante sul sostantivo ^runciglio~ (v. 71: cfr. ^Inf~. 
+XXII.35).
+
+	|76~. Il capo dei Malebranche si chiama |Malacoda~. Nel coniare i nomi 
+dei diavoli, l'Alighieri fa s@i che il suono evochi precise 
+caratteristiche comportamentali. Nel nome |Malacoda~ gi@a gli antichi 
+commentatori vedono il riferimento alla malizia, all'astuzia (la coda, 
+insidiosa, @e pronta ad afferrare e a sferzare), in considerazione 
+dell'inganno che egli, apparentemente disponibile, sta per ordire ai 
+danni dei viaggiatori.
+
+	|77-78~. Malacoda si avvicina a Virgilio dicendo: 'Che ^gli~ (|li~) 
+^giova~ (|approda~)?"; ossia: "A che gli serve che io vada? tanto sar@a 
+comunque arroncigliato!" Il verbo "approdare", in questo senso (^Purg~. 
+XIII.67), deriva probabilmente dal sost. ^prode~ ("pro", "giovamento", 
+"utilit@a": cfr. ^Par~. VII.26), a sua volta derivato dal verbo lat. 
+^prodesse~ ("giovare", "essere utile").
+
+	|79-84~. Virgilio (che pare conoscere Malacoda) dice, per liberarsi 
+dell'opposizione dei diavoli, di aver superato tutti gli ^impedimenti~ 
+(|schermi~) ^da loro opposti~ (|vostri~) perch$e il viaggio @e voluto 
+da Dio, alla cui volont@a @e assurdo dunque contrastare. I sintagmi 
+|voler divino~ e |fato destro~ ("= propizio") non sono sinonimi: "fra 
+di loro @e stabilita una relazione analoga a quella che si osserva fra 
+^numen divum~ e ^mens~ (^Aen~. V.56) e ^numina~ e ^fata~ (^Aen~. 
+VIII.574-75). In latino, ^numen~ designa la forza agente della 
+divinit@a, mentre ^mens~ et ^fatum~ si riferiscono piuttosto 
+all'intenzione ed alla decisione. |Voler divino~ pu@o dunque 
+intendersi, come il ^numen~ virgiliano, come volont@a provvidenziale, e 
+|fato destro~ come giusta disposizione formulata nei modi di un 
+decreto" (M. Dozon, ^Mythe and symbole dans la 'Divine Com$edie'~, 
+Firenze, Olschki, 1991, p. 535). A parere degli intellettuali cristiani 
+medievali, col nome |fato~ i pagani si riferiscono al condizionamento 
+necessitante degli astri, per cui il termine pu@o correttamente 
+utilizzarsi solo se designa l'ordinamento delle cose contingenti 
+operato dalla Provvidenza. Infatti, spiega Guido da Pisa, tale 
+ordinamento "secundum quod est in mente divina, nondum rebus impressa, 
+providentia est; secundum vero quod iam est explicita in rebus, fatum 
+nominatur". L'espressione di Virgilio ci porta di nuovo a ^Aen~. 
+VI.531-34, ove il poeta latino parla di "casus", "fortuna" e "monitus 
+divum"; mentre Brunetto Latini aveva ignorato l'ultimo (decisivo) 
+fattore causativo degli eventi (cfr. ^Inf~. XV, n. 46-48), Virgilio ora 
+rinvia alla volont@a divina, al cui servizio @e consapevole di essere. 
+Ma ci@o non significa che egli sia consapevole della natura della 
+Provvidenza: Dio @e per lui ^spiritus~ ma non Padre, "autore della 
+natura" ma non "autore della grazia" (cfr. ^Inf~. I, n. 76-78): si 
+tratta di una prospettiva intellettualistica i cui limiti emergono in 
+tutta evidenza  --  come si vedr@a fra poco (n. 133-135)  --  proprio in 
+questo canto. La differenza comunque fra Virgilio e Brunetto Latini 
+(tra ^Fortuna~ e ^fortuna~) segna la differenza fra la superbia del 
+primo, non assoggettatosi a Dio-Padre ma rispettoso della legge 
+naturale, e quella del secondo, conscio violatore della legge naturale 
+e divina.  --  Si noti come il tono del |maestro~ non sia aspro come in 
+III.95-96 (Caronte) o V.23-24 (Minosse) o VII.11-12 (Pluto), 
+avvicinandosi a quello usato nei confronti dei Centauri (XII.87-89). 
+Inoltre la formula |lascian' andare~ si ripresenter@a nell'ambito del 
+discorso che Virgilio rivolger@a a Catone, il 'custode' del Purgatorio 
+(^Purg~. I.82).
+
+	|85-87~. Malacoda, deposto l'|orgoglio~, si lascia cadere l'uncino ai 
+piedi: egli sembra perci@o arrendersi, ma in realt@a sta sostituendo 
+all'arma della violenza quella dell'astuzia. Trucchi: "Quanta 
+sommissione! o meglio, com'@e finta magistralmente! perch$e essa @e 
+menzogna. Il furbo, udendo parlar Virgilio, ha compreso subito d'aver 
+innanzi a s$e un ingenuo, a cui la lezione alle porte di Dite non @e 
+valsa a nulla, e vuol divertirsi a spese sue e del compagno: ha gi@a 
+abbozzato il suo piano, conciar tutti e due pel d@i delle feste, e 
+perch$e gli riesca, finge eccessiva sottomissione. Virgilio abbocca e 
+chiama Dante".  --  Il trapassato |fu caduto~ indica un'azione subitanea: 
+"cadde d'un tratto".
+
+	|88-90~. Dante si era acquattato (v. 59), impaurito, dietro le rocce: 
+|quatto quatto~ "non significa propriamente ^nascoso~, ma ^chinato e 
+come spianato in terra~, come fa la gatta quando uccella, che si 
+stiaccia in terra per non esser veduta; e lo fa talvolta il cane" 
+(Borghini). Virgilio invita ora Dante ad uscire allo scoperto (|ti 
+riedi a me~ = "ritorna da me"), ^senza timore~ (|sicuramente~: 
+dall'aggettivo lat. ^securus~, che deriva da ^sine cura~, "senza 
+preoccupazione"); nota l'|omai~ che riprende, in tono baldanzoso, 
+l'|omai~ (v. 87) di Malacoda. "Che le parole di Virgilio abbiano 
+un'intonazione scherzosa, come vogliono i pi@u, non credo (Dante non ha 
+fatto che attenersi strettamente al consiglio della sua guida); c'@e 
+bens@i in esse l'orgoglio di chi s'illude d'aver superato un difficile 
+ostacolo, umiliando ancora una volta la tracotanza delle forze 
+infernali. E in questo illudersi di Virgilio @e, se mai, l'ironia, 
+tutta oggettiva, della situazione" (Sapegno). Trucchi: "La semplicit@a 
+di Virgilio non ci stupisca: egli, pagano, non conosce tutta la malizia 
+diabolica; ma Dante, cristiano, non condivide affatto tanta fiducia: 
+accorre alla chiamata con una fretta che dinota paura".
+
+	|91-93~. ^Velocemente~ (|ratto~) Dante raggiunge la guida; al suo 
+arrivo i diavoli si fanno avanti, spaventando il pellegrino, timoroso 
+che essi non mantengano la ^promessa~ (|patto~) fatta da Malacoda (v. 
+87). Il verbo "temere" @e costruito alla latina: |temetti che~ equivale 
+a ^timui ut~ ("temetti che non"); la presenza dell'altra forma (^timeo 
+ne~: "temo che") @e stata rilevata a ^Inf~. II.35.
+
+	|94-96~. Il castello di Caprona fu preso dall'esercito della lega 
+guelfa di Toscana (formato soprattutto da Fiorentini e Lucchesi) 
+nell'agosto del 1289; il castello, collocato sulla sponda destra 
+dell'Arno, a circa cinque miglia da Pisa, era stato conquistato da 
+Guido da Montefeltro, capitano del popolo e poi anche podest@a dei 
+Pisani dal marzo 1289 al 1293. I soldati che presidiavano il castello 
+(|li fanti~) si arresero (pattuirono la resa in cambio della vita) e 
+furono lasciati liberi. Dante, circondato dai diavoli, si sente come 
+dovettero sentirsi i soldati pisani quando, uscendo legati dal 
+castello, attraversarono la folla dei nemici, dalla quale si alzavano 
+grida minacciose. L'occorrenza di |vid'io~ fa pensare che Dante sia 
+stato fra i protagonisti del fatto d'arme, anche se qualcuno ritiene 
+che egli sia stato solo un osservatore; tuttavia Dante certamente 
+partecip@o alla battaglia di Campaldino (11.6.1289), per cui 
+probabilmente partecip@o anche all'assedio di Caprona.
+
+	|97-99~. Dante, spaventatissimo dall'^atteggiamento~ (|sembianza~) 
+minaccioso dei diavoli, si stringe, in cerca di protezione, a Virgilio 
+(cfr. ^Purg~. III.4). |Non buona~ @e una litote.
+
+	|100-102~. I diavoli minacciano Dante con i loro ^uncini~ (|raffi~) 
+mostrandosi pronti a colpirlo. "Accoccarla a uno" era espressione 
+plebea per "fargli danno, dispiacere o beffa"; come plebeo @e il 
+termine |groppone~, per "schiena". Nota anche il beffardo eufemismo 
+|tocchi~ ("colpisca").
+
+	|103-105~. Malacoda, che tratta con Virgilio (|tenea sermone~ = 
+"discuteva") e simula lealt@a nel suo ruolo di paciere, ferma uno dei 
+diavoli, Scarmiglione, evidentemente desideroso di colpire Dante. 
+|Scarmiglione~ vale "scarmigliatore", "quasi cupido di scarmigliare, 
+scompigliare persone e cose" (Tommaseo); ma "scarmigliare" significava 
+anche "pettinare la lana", per cui il diavolo, in tal caso, @e "quasi 
+gran cardatore di dannati" (Chimenz).
+
+	|106-108~. Malacoda fornisce (per il momento) informazioni esatte: il 
+^ponte~ (|arco~) che scavalca la sesta bolgia, continuazione di quello 
+sulla quinta bolgia da poco attraversata dai due poeti, @e a pezzi, 
+quindi il cammino di questi non pu@o proseguire per la ^fila di ponti~ 
+(|scoglio~) che va dalla parete esterna di Malebolge al pozzo centrale.
+
+	|109-111~. Ed ecco che Malacoda mente: egli dice ai viatori di 
+proseguire per l'^argine roccioso~ (la |grotta~) fino a raggiungere 
+un'altra ^fila di ponti~ (|scoglio~), non lontana, che ^permette il 
+passaggio~ (|via face~); ma questa, in realt@a, @e anch'esso rotta, 
+oppure non esiste proprio, per quei commentatori che ritengono che ci 
+sia solo una fila di ponticelli che scavalca Malebolge (cfr. ^Inf~. 
+XXIII, n. 133-138): "bene erat verum quod arcus sextae bulgiae erat 
+fractus ad terram; sed non erat verum quod prope erat alius pons qui 
+viam faceret" (Benvenuto). Approntando questa beffa, Malacoda, il quale 
+non pu@o certo pretendere di fermare un cammino voluto da Dio, si 
+vendica dell'umiliazione subita da Virgilio, esercitando la propria 
+malizia, degna di un barattiere. Virgilio cade nel tranello: egli, 
+infatti, @e sceso all'Inferno prima della caduta dei ponti, per cui non 
+pu@o rendersi conto della beffa; quindi subisce un altro smacco dopo 
+quello patito davanti alla citt@a di Dite. Cfr. n. 133-135.
+
+	|112-114~. Malacoda, per rendere pi@u credibile la menzogna, dice ora 
+il vero: questo ponte @e crollato 1266 anni e un giorno fa, meno cinque 
+ore rispetto alla presente ^ora~ (|otta~: fiorentinismo, come 
+"allotta"); il crollo fu dovuto al terremoto avvenuto alla morte di 
+Cristo. Quindi, siccome Dante ritiene che Cristo sia spirato a 34 anni 
+compiuti, esattamente a mezzogiorno e non alle 15 (seguendo, fra gli 
+evangelisti, Luca, anche se questi pone a mezzogiorno solo l'oscurarsi 
+del cielo: ^Conv~. IV.xxiii.10-11), si deduce, come riferimento 
+cronologico del viaggio, che l'anno @e il 1300 (1266\+34), il giorno @e 
+probabilmente il 26 marzo (cfr. ^Inf~. I, n. 1-2), l'ora @e la settima 
+(cinque prima del mezzogiorno del sabato). A tale riferimento il poeta 
+sembra anche adattare il quadro astronomico (cfr. ^Purg~. I, n. 19-21). 
+Quello che Malacoda tace @e il fatto che non ci sono ponti sani sulla 
+sesta bolgia, fatto ignoto a Virgilio, sceso all'Inferno prima della 
+morte di Cristo (ma informato sui vari crolli che si ebbero 
+nell'Inferno in seguito al terremoto: ^Inf~. XII.37-45).
+
+	|115-117~. Malacoda invita i due poeti a seguire, in direzione del 
+presunto ponte intatto (|verso l@a~), un gruppo di diavoli a lui 
+sottoposti (|di questi miei~ ^~@e un costrutto partitivo), incaricati 
+(e qui sta il pretesto) di ^controllare~ (|riguardar~) i dannati 
+impeciati. Il verbo ^sciorinare~ vale propriamente "stendere i panni 
+all'aperto ad asciugare", per estensione "mettere qualcosa in mostra" 
+(qui in riferimento al tentativo dei barattieri di alleviare un po' la 
+pena uscendo fuori della pece).
+
+	|118~. |Tra'ti avante~: "Fatti (|Tra'ti~ = "Traiti", "Tirati") avanti".
+
+	|118-123~. Malacoda sceglie come accompagnatori dei poeti dieci 
+diavoli, capitanati da |Barbariccia~. I nomi, tranne |Alichino~ (franc. 
+^Hallequin~) e |Farfarello~ ^~(forse col senso di "folletto"), che 
+appartengono alla demonologia medievale, poterono essere ricavati da 
+Dante "cos@i come sono, o leggermente modificandoli, da nomi, cognomi, 
+soprannomi dei suoi contemporanei" (Torraca). Essi comunque si 
+riferiscono a determinate caratteristiche dei diavoli: p. es. 
+|Cagnazzo~ allude a un grosso e feroce cane, |Libicocco~, in quanto 
+fusione di "scirocco" e "libeccio", @e "impetuoso come il vento", 
+|Draghignazzo~ fa pensare a un drago, simbolo di Satana (con la fusione 
+di "ghigno" o "sghignazzo"), ecc. (cfr. ^Inf~. XXII, n. 13). Come capo 
+di una |decina~, Barbariccia verr@a chiamato ^decurio~ (cfr. ^Inf~. 
+XXII, n. 71-75).
+
+	|124-126~. ^Perlustrate~ (|Cercate~) ^le rive ricolme di vischiosa 
+pece bollente~ (|'ntorno le boglienti pane~)^; costoro stiano al 
+sicuro~ (|sian salvi~) ^fino all'altro ponte~ (|scheggio~) ^che 
+scavalca~ (|va sovra~) ^senza interruzioni~ (|tutto intero~) ^le bolge~ 
+(|tane~).  --  L'ordine di Malacoda @e beffardo, dato che lo |scheggio~ 
+(nel medesimo senso di |scoglio~: v. 30) intatto, in realt@a, non 
+esiste. Il verbo ^cercare~ ha spesso in Dante il senso di "percorrere 
+cercando". |Pane~ @e forma arcaica per ^panie~ (la pece @e vischiosa, 
+appiccicaticcia, come pania; cfr. ^Inf~. XXII.149).
+
+	|127-132~. I demoni, scambiandosi cenni d'intesa, ammiccando 
+minacciosamente e digrignando i denti, spaventano Dante, che si appella 
+alla guida chiedendogli di rinunciare alla |scorta~. Ma Virgilio, 
+eccessivamente sicuro di s$e, non d@a seguito alla sua richiesta: egli 
+si fida della parola di Malacoda, ignorando il fatto che il demonio @e 
+maestro di menzogna e rivelando una capacit@a di captare il male 
+inferiore a quella di Dante, che infatti ha fede, pur se ancora 
+"informe" (non informata dalla carit@a), e torna a dubitare della 
+capacit@a della sua guida (|se tu sa' ir~; |Se tu se' s@i accorto come 
+suoli~). Si noti la sineddoche |ciglia~, per "occhi".
+
+	|133-135~. Virgilio fraintende l'atteggiamento dei diavoli: non ce 
+l'hanno con noi  --  dice al suo pupillo  -- , ma coi barattieri che ^bollono 
+dolorosamente~ (|li lessi dolenti~) nella pece, perci@o lasciali 
+digrignare a ^loro piacimento~ (|lor senno:~ cfr. ^Purg~. XIX.88; 
+XXVII.141.) e non avere paura. Il saggio pagano non coglie il 
+significato del "digrignare", significato che sar@a ben compreso, 
+invece, dal dannato Ciampolo (^Inf~. XXII.91). Con le parole di R. 
+Hollander: "the ^altissimo poeta~ turns out to be a rather poor reader 
+of another sort of text, the gnashing of teeth" ("Virgil and Dante as 
+Mind-Readers": ^Medioevo romanzo~, 1984, pp. 88-89). Chiarissima la 
+chiosa del Vellutello: "Ma Dante, che prende il digrignar, che fanno i 
+demoni col mettersi la lingua tra denti, in luogo di minacce, e per 
+questo comincia molto piu forte di prima a temere, s'ingegna di 
+dissuader a Virgilio tale scorta, il qual per torli via il timore, gli 
+dice che i demoni non digrignano per loro, ma per li lesi dolenti, 
+cio@e per gl'incesi, che erano nella bollente pegola, oppressi da 
+dolore, ingannandosi egli ancora, non solamente in questo, ma nel 
+creder a Malacoda d'haver a trovar lo scoglio intero sopra della sesta 
+bolgia". Vellutello, come rilevato da Hollander (^Op. cit~., p. 88n.), 
+@e il primo commentatore ad ammettere l'inganno patito da Virgilio, 
+anche se egli poi "blunts his keen literal reading with a poorly 
+matched allegorical one".
+
+	Virgilio cade dunque nella trappola tesa da Malacoda: egli commette 
+l'errore di fidarsi del diavolo, presumendo ancora una volta troppo 
+(dopo lo smacco subito alle porte di Dite) dalle proprie forze 
+razionali. L'episodio @e "extraordinary" perch@e "for first and only 
+time in the ^Commedia~ Virgil is explicitly (rather than tacitly) shown 
+to have made a mistake in judgement" (R. Hollander, ^Op. cit~., p. 88). 
+Convinto dalle verit@a che il diavolo mescola malignamente alla 
+menzogna (secondo un motivo diffuso: cfr. p. es. ^ST~ II-II, q. 72, a. 
+6), la guida d@a per scontato che le forze del male accettino 
+pacificamente la discesa di Dante. "Per non cadere nell'illusione, per 
+intendervi la finzione, per sospettar l'inganno e tanto inganno, di 
+tanta e cos@i pervicace malizia, bisognerebbe a Virgilio l'istruzione, 
+che gli @e preclusa, di ci@o che importi l'originaria ed ultima, la 
+soprannaturale e teologale essenza dei diavoli. Ancora una volta, 
+escluso dalla conoscenza della grazia, @e escluso da quella della 
+disgrazia assoluta, eterna, infernale" (R. Bacchelli, ^Saggi critici~, 
+Milano, Mondadori, 1962, p. 865). Mentre Virgilio ostenta una 
+sprezzante sufficienza nei confronti dei demoni, mostrando di non 
+rendersi conto del pericolo insito nel patteggiare col diavolo, Dante, 
+atterrito e consapevole della propria debolezza, lo intuisce e dimostra 
+la propria riluttanza a simili patteggiamenti: una "riluttanza 
+cristiana, e perci@o ^toto coelo~ superiore e pi@u prudente e meglio 
+ispirata di tutta la filosofica sapienza e sicurezza della mente 
+virgiliana" (Ivi, p. 871). Nella mente di Dante, perci@o, "incominciano 
+a presentarsi dubbi sulle conoscenze e sull'accortezza della guida. 
+Alla coscienza cristiana di Dante sembra incredibile che Virgilio si 
+veda dinnanzi le forze diaboliche e non riesca a scorgerne la 
+pericolosit@a, e che, invece di condividere con lui un moto di 
+ripugnanza (|sanza scorta andianci soli~: v. 128), si affidi alla loro 
+guida, si ponga nelle mani del diavolo. Virgilio @e troppo sicuro, 
+addirittura incurante di ci@o che ha sotto gli occhi (|lasciali 
+digrignar pur a lor senno~: v. 134); pensa che le minacce diaboliche 
+non li riguardino (|fanno ci@o per li lessi dolenti~: v. 135). Egli si 
+sottrae a quel nesso tra visione e paura che ha individuato per tutto 
+il canto l'atteggiamento di Dante-personaggio: vede e non teme. Il suo 
+errore @e nel limite della sua conoscenza della natura diabolica, della 
+quale sottovaluta l'infinita malizia" (D. Conrieri, "Lettura del canto 
+XXI dell'^Inferno~": ^Giornale storico della letteratura ital.~, 1981, 
+pp. 33-34). Dall'episodio si comprende, scrive Ryan, come le 
+limitazioni di Virgilio riguardino non soltanto le altezze celesti, ma 
+anche gli abissi infernali, mostrandosi egli alquanto disarmato al 
+cospetto del male. La guida si fa facilmente ingannare dalla teatrale 
+remissivit@a di Malacoda (che butta a terra l'uncino) e quindi dalle 
+sue melate ed accondiscendenti parole, segno di apparente 
+sottomissione. L'atteggiamento di superiorit@a di Virgilio stride con 
+quello di Dante, che si sente minacciato dai seguaci di Malacoda e 
+intuitivamente non si fida di loro. Ma Dante @e sorretto dalla fede, 
+che risiede anche in chi @e ancora in stato di peccato: a lui la 
+coscienza cristiana "non soltanto rivela la bont@a divina, ma rivela 
+anche le profondit@a del male, che ha le radici non semplicemente nel 
+peccato dell'uomo, ma nella ribellione di alcune delle creature pi@u 
+perfette di Dio, gli angeli". Permane quindi, in Virgilio, 
+un'innocenza, un'ingenuit@a rispetto al male; allo stesso modo la sua 
+conoscenza delle cose celesti @e limitata, in quanto "@e stata ottenuta 
+senza aver fatto esperienza di quell'unione con Dio nell'amore che @e 
+l'essenza della beatitudine" (C.J. Ryan, "^Inferno~ XXI: Virgil and 
+Dante. A Study in Contrasts": ^Italica~, 1982, p. 22).
+
+	|136-139~. Barbariccia (|duca~, come Virgilio!) d@a il segno di 
+partenza emettendo un peto, sconcio ^segnale~ (|cenno~) in risposta a 
+(e ad imitazione di) quello che i suoi sottoposti sono pronti ad 
+emettere: "tenebant linguam dispositam et paratam ad trulizandum" 
+(Benvenuto). "La scena, come molte dei canti XXI e XXII, @e ripresa 
+dalla vita militare: una decuria, un caporale, un appello nominale, 
+infine una partenza in squadra a suon di tromba; il segnale di 
+partenza, anch'esso un ^topos~ codificato della letteratura comica (si 
+veda Matteo di Vend#ome, ^Arte versificatoria~ 53.72), @e in tutto 
+conveniente ai soldati di cui qui si tratta e, in chiusura di canto, 
+segna un acme del linguaggio che per esso @e stato scelto. Questa 
+figura della milizia vuol essere, come apparir@a nel canto seguente, 
+una parodia della milizia terrena; ma essa richiama anche un'altra 
+milizia, quella angelica, alla quale un tempo questi diavoli 
+appartennero, ora in essi cos@i miseramente contraffatta" (Chiavacci 
+Leonardi). Cfr. ^Inf~. XXII, n. 1-12. Ma la scena convoglia altro 
+significato, come @e segnalato da R. Hollander, che rinvia alla 
+eloquente glossa del Landino ("'Strignere la lingua tra denti' 
+significa fare tale strepito con bocca quale fa el vento quando esce 
+per le parti posteriori: el che fanno gl'imprudenti buffoni quando 
+scherniscono alcuno"): "It is probably best to see that the signal and 
+the response are both a token of understanding among the malefactors 
+and a sign of their derision for Virgil's self-confident misreading of 
+their intentions" ("Virgil and Dante as Mind-Readers": ^Medioevo 
+romanzo~, 1984, pp. 89-90). Vellutello: "In tal modo facendoli cenno 
+d'haver inteso la fraude, e beffandosi dell'ignorantia di questi Poeti, 
+che gli habbino creduto". Secondo Di Siena, i diavoli "beffano la 
+credulit@a de' poeti", stringendo la lingua tra i denti "a tenere il 
+riso".  --  |Volta dienno~ vale "svoltarono" ("diedero volta"). In questa 
+occasione (evento raro; cfr. ^Inf~. VIII, n. 3-6) il poeta rompe la 
+diretta corrispondenza fra la successione effettiva degli avvenimenti e 
+l'ordine della narrazione (|ma prima~).
+
+

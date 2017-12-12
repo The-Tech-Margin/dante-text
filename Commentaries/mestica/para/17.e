@@ -1,0 +1,330 @@
+	|1-3.  Qual venne~ ec.: Dante per la sua viva brama di avere 
+da Cacciaguida schiarimenti intorno a certi tristi accenni avuti su 
+la sua vita futura, si paragona a Fetonte quando affannoso corre 
+alla madre per sapere da lei se veramente egli era figlio ad Apollo. 
+Con la perifrasi |Quei ch'ancor~ ec. si allude alla eccessiva e 
+rovinosa condiscendenza d'Apollo verso Fetonte nell'affidargli il 
+carro del Sole, e alla conseguente sventura di Fetonte, che rimase 
+bruciato. -- Ci@o, dice il Poeta, fa ancora oggi pi$u riguardati i 
+padri in condiscendere ai figli. -- La ragione di questa 
+similitudine sta nella veemenza del desiderio di chiarirsi da 
+persona cara che poteva saperlo, di cose dolorose a cui non si 
+vorrebbe credere; ma @e un po' forzata, e non ci ha poi nulla che 
+fare il concetto racchiuso nel terzo verso. 
+
+	|4-6.  E tal era sentito~ ec.: La bramosia di Dante era 
+sentita, era nota in tutta la sua forza a Beatrice e a Cacciaguida. 
+
+	|13.  O cara piota mia~: Dante altra volta ha usato |piota~ 
+per pianta dei piedi (^Inf.~, XIX, 120); qui @e propriamente nel 
+significato di Pianta (e |pianta~ infatti qui leggono manoscritti 
+autorevoli) e in rispondenza con le parole dello stesso Cacciaguida: 
+<O fronda mia... io fui la tua radice> (C. XV, 88-89).   
+
+	|16-18.  Cos@i vedi~ ec.: Con quella geometrica chiarezza 
+con cui le menti umane vedono l'impossibilit@a di due angoli ottusi 
+in un triangolo, tu vedi le cose che possono o no accadere, cio@e le 
+cose future, e le vedi in Dio, che @e quel |Punto~ in cui tutte le 
+cose si fan manifeste, e le passate e le presenti e le future. 
+Anche nel C. XXVIII, v. 16, Dio apparisce al Poeta quale un ^Punto~ 
+fuori d'ogni materialit@a, cio@e fuori del tempo e dello spazio: <Un 
+punto vidi che raggiava lume>. 
+
+	|Contingenti~: Le cose che possono essere e anche non 
+essere, quelle, cio@e, che non sono di assoluta necessit@a 
+nell'ordine universale, e che hanno a venire. 
+
+	|20-22.  Su per lo monte~ ec.: e |nel mondo defunto~ ec.: 
+<Per lo regno de la morta gente> (^Inf.~, VIII, 85) e per il <regno 
+Dove l'umano spirito si purga> (^Purg.~, I, 4-5): Dante aveva 
+sentite le predizioni di Farinata degli Uberti (^Inf.~, X, 79-81 e 
+121-132): di Brunetto Latini (C. XV, 61-72); di Corrado Malaspina 
+(^Purg.~, VIII, 133-139); di Oderisi da Gubbio (C. XI, 139-141).   
+
+	|23-24.  Avvegna ch'io mi senta~ ec.: Dante alla predizione 
+di Brunetto aveva risposto: <Tanto vogl'io che vi sia manifesto, 
+Pur che mia coscienza non mi garra, Ch'a la Fortuna, come vuol, son 
+presto> (^Inf.~, XV, 91-93).  -- Qui esprime con forza lo stesso 
+concetto prendendo l'immagine del tetraedro, o piramide 
+triangolare, che ben posa nella sua base e sta salda. 
+
+	|27.  Ch@e saetta~ ec.: Anche il Petrarca nel ^Trionfo del 
+Tempo~ esprime lo stesso concetto: <Ch$e piaga antiveduta assai men 
+duole>.  Chi non sente la maggiore efficacia della locuzione 
+dantesca per l'immagine che porta con s$e? senza dire che nella 
+locuzione del Petrarca non ci sembra del tutto proprio 
+quell'^antivedere la piaga.~ 
+
+	|31-33.  N@e per ambage~ ec.: N$e in modo ambiguo.  Accena 
+al linguaggio sibillino, equivoco con cui erano formulati i responsi 
+degli oracoli al tempo dei Pagani. -- |Ambage~ dal lat. ^Ambages~, 
+Tortuosit@a, Giravolta, e in senso traslato, Giro di parole ad arte. 
+
+	|36.  Chiuso e parvente~ ec.: <Verso (dice il Tommas@eo) che 
+@e simbolo d'ogni verit@a e d'ogni bont@a e d'ogni bellezza, che con 
+la propria luce si vela insieme e si manifesta; verso che 
+divinamente dichiara la splendida oscurit@a del mistero>. 
+
+	|37-42.  La contingenza~ ec.: Con quest'avvertimento che le 
+cose possibili ad accadere costituiscono esse la prescienza divina, 
+e non questa quelle, e che per@o non @e offesa la libert@a umana, 
+perch$e dalla prescienza divina non prendono esse il carattere di 
+necessit@a, nella ste$ssa guisa che l'occhio in quanto percepisce 
+l'immagine del moto d'una nave che va gi$u per la corrente non @e 
+cagione del moto di essa, Cacciaguida vuol far intendere al suo amato 
+pronipote che egli gli dichiarer@a con parole aperte e preciso 
+latino il viaggio doloroso di sua vita, senza per@o poter nulla per 
+impedire gli eventi. 
+
+	|La contingenza, che fuor del quaderno~ ec.: Sono le cose 
+possibili, le quali, appunto perch$e tali, non escono dai confini 
+della materia, cio@e del Mondo creato; se ne uscissero sarebbero 
+necessarie.  Dall'immagine del <magno volume> con cui Dio @e 
+rappresentato (C. XV, 50) deriva questa di |quaderno~; e tutte e due 
+le immagini tornano con vigorosa locuzione in fine di questa 
+Cantica: Dante vede nel profondo della Luce eterna <Legato con amore 
+in un volume Ci@o che per l'universo si squaderna> (C. XXXIII, 
+86-87). 
+
+	|43-45.  Da indi~ ec.: Dal cospetto eterno, dove tutte le 
+contingenze son dipinte, viene a me, come da organo, dolce armonia 
+all'orecchio, le non lontane vicende di tua vita. 
+
+	La |dolce armonia~ ec. e la visione che Cacciaguida ha 
+dalla mente divina delle sventure di Dante parrebbe a prima giunta 
+che mal s'accordassero: se non che bisogna considerare che @e un 
+Beato che parla, e a un Beato anche i patimenti che vengono da Dio 
+sono dolci, perch$e mirano ad alcun bene. 
+
+	|46-48.  Qual si partio~ ec.: Ippolito, figlio di Teseo, 
+accusato iniquamente di offesa dalla matrigna Fedra, fu cacciato da 
+Tebe e maledetto dal padre.  Ovidio racconta per disteso il fatto 
+nelle ^Metamorfosi~ (Lib. XV, v. 497 e seguenti), alle quali 
+indubbiamente attinse Dante, e ce lo provano alcune frasi del Poeta 
+latino, tra cui <^sceleratae fraude novercae~> e ^immeritumque pater 
+proiecit ab urbe~>; la parole ^immeritum~ la troviamo in alcune 
+^Epistole~ di Dante, in quella ai suoi concittadini dopo la discesa 
+di Arrigo VII in Italia e in quella allo stesso imperatore: <^Dantes 
+Alaghierii florentinus et exul immeritus~>.  Con questa similitudine 
+l'esule poeta alto proclama la sua innocenza e la perfidia e 
+crudelt@a de' suoi nemici. 
+
+	|49-51.  Questo si vuole~ ec.: Dante ebbe la prima condanna 
+il 27 gennaio del 1302; ma gi@a fin dal 1300, fin da quando, essendo 
+dei Priori (15 giugno-15 agosto), cominci@o a combattere 
+l'intromissione di Bonifazio VIII nel governo dela Repubblica, la 
+sua condanna era stata decretata dall'odio della parte donatesca e 
+del papa simoniaco.  A chiarimento di ci@o si veda l'^Introduzione~, 
+pag. xxxiii-xxxvi. 
+
+	|52-54.  La colpa~ ec.: <Per le parti quasi tutte a le quali 
+questa lingua si stende, peregrino, quasi mendicando, sono andato, 
+mostrando contra mi avoglia ^la piaga de la fortuna, che suole 
+ingiustamente al piagato~ molte volte essere imputata> (^Conv.~, 
+Tratt. I, c. III). 
+
+	|In grido~, cio@e, Nell'opinione pubblica, come oggi si 
+direbbe. 
+
+	|Ma la vendetta~ ec.: Ma le sventure che colpiranno poi i 
+tuoi persecutori (e qui si accenna principalmente alla misera fine 
+di Corso Donati e allo sfregio d'Anagni) faranno poi testimonianza 
+del vero, che finisce sempre per trionfare. 
+
+	|55-57.  Tu lascerai~ ec.: Quanta mestizia dolorosa e 
+dolcezza di affetti, quanto rimpianto in questi versi! @e il cuore 
+dell'esule che geme e sogna la sua casa, i suoi cari, gli amici 
+lontani, il <dolcissimo seno> della Patria, <nel quale desidera di 
+riposare l'anime stancato>; e l'eco di questi affetti mestamente 
+risuona nelle parole che egli poi rivolge al suo trisavolo: <Se 'l 
+loco m'@e tolto pi@u caro> (v. 110). 
+
+     <Il verso |Tu lascerai~ ec. @e il pi$u pietoso del Canto, ma 
+cede in potenza di dolore a quel che sopra leggemmo: <Oh fortunate! 
+e ciascuna era certa Della sua sepoltura>.  L'esule invidia la 
+sicurt@a del sepolcro, e sente che chi non pu@o sperare sepoltura 
+visitata dai cari suoi non ha patria> (TOMMAS@EO). 
+
+	|58-60.  Tu proverai~ ec.: <Peregrino, quasi mendicando, 
+sono andato ec.> (^Conv.~ Tratt. I, c. III), e <mendicando sua vita 
+a frusto a frusto> (C. VI, 141): <Veramente io sono stato legno 
+sanza vela e sanza governo, portato a diversi porti e foci e liti 
+dal vento secco che vapora la dolorosa povertade> (^Convivio~, ^ivi~). 
+
+	Si noti la bellezza di questa terzina, procedente dalla 
+verit@a e dalla ottima scelta dei concetti e dei sentimenti e dalla 
+non meno felice scelta e unione delle parole, onde quelli trapassano 
+nella mente rapidi, lucidi e scolpiti, quali erano in quella del 
+Poeta stesso. 
+
+	|61-69.  E quel che pi$u~ ec.: Quali fossero i gravi 
+dispiaceri, le offese che Dante dovette soffrire dai suoi compagni 
+di sventura, e quali ne fossero le cause @e assai difficile poter 
+determinare: forse non andremmo tanto lontani dal vero dicendo che 
+l'ingratitudine, la follia e l'empiet@a dei fuorusciti verso Dante 
+dovette consistere non solo nel non aver saputo essi apprezzare i 
+prudenti e saggi consigli, ma nell'averli eziandio dichiarati 
+perniciosi alla loro causa.  Egli quindi s'ascrive a gloria 
+l'essersi separato da quella compagnia, e l'aver cominciato a far 
+parte per se stesso. 
+
+	|70-75.  Lo tuo primo refugio~ ec.: @E opportuno dare qui 
+una breve notizia degli Scaligeri contemporanei a Dante per poter 
+determinare presso quale di essi l'esuli Poeta trov@o il suo primo 
+rifugio. 
+
+	|Che 'n su la scala~ ec.: Lo stemma degli Scaligeri era 
+una scala con in cima l'aquila imperiale. 
+
+	|Ch'in te avr@a ec.: <La terza cosa, ne la quale si 
+pu@o notare la pronta liberalitade, si @e dare non domandato.... 
+Acci@o che nel dono sia pronto a liberalitade e che essa si possa in 
+esso notare, ancora si conviene esser... lo dono non domandato> 
+(^Convivio~, Tratt. I, c. VIII); C. XXXIII, v. 18: <Liberamente al 
+dimandar precorre>.  Si veda la nota ai versi 59-60 del C. XVII, 
+^Purgatorio~. 
+
+	|GLI SCALIGERI~. -- Alberto I della Scala, signore di Verona 
+per elezione popolare col titolo di Capitano del popolo dal 1277, in 
+cui mor$i trucidato suo padre Mastino, morendo il 10 settembre del 
+1301 lasci@o quattro figli: Bartolomeo, Alboino, Cane e Giuseppe.  
+Quest'ultimo, illegittimo e zoppo, fu fatto nominare dal padre nel 
+1291 Abate del Monastero di San Zeno in Verona, nel quale ufficio 
+dur@o fino alla morte (1314): ma fu cos$i malvagio e dannoso al 
+Monastero stesso, che Dante dall'Abate precedessore, morto nel 1287, 
+si fa predire la condanna di Alberto I all'Inferno, e fa supporre 
+che all'Inferno sar@a pure condannato quel suo figlio illegittimo 
+(^Purg.~, XVIII, 118-126).  Ad Alberto, morto il 10 settembre del 
+1301, successe nella signoria il maggiore dei figli, Bartolomeo, che 
+mor$i il 7 marzo del 1304, e a lui Alboino, che mor$i il 31 decembre 
+del 1311, quando gi@a s'era associato nel governo il fratello 
+minore, Cane, il quale, perch$e cresciuto su vigoroso e aitante 
+della persona, fin dall'adolescenza fu denominato Grande.  Alboino e 
+Can Grande ottennero ambedue nell'ottobre del 1311 da Arrigo VII il 
+titolo di Vicari generali dell'impero in Verona e Vicenza.  Dopo la 
+morte del fratello, Can Grande tenne da solo la signoria fino al 29 
+luglio del 1329, in cui prematuramente mor$i. 
+
+	Molto s'@e disputato sui soggiorni di Dante a Verona.  Da 
+questo Canto possiamo arguire con sicurezza che egli ebbe col@a 
+presso gli Scaligeri rifugio e ospitalit@a due volte.  Alcuni 
+credono che la prima volta ci andasse nel 1306 quando ne teneva la 
+signoria Alboino; ma il biasimo che l'Alighieri d@a a questo 
+principe nel ^Convivio~ (Tratt. IV, c. XVI) mal s'accorda con la 
+ricevuta ospitalit@a, e contraddice stranamente allo splendido 
+elogio che Dante fa del |gran Lombardo~ da cui ebbe il primo 
+rifugio.  Il gran Lombardo dunque deve essere Bartolomeo, alla cui 
+corte Dante dovette perci@o riparare prima del 7 marzo 1304, e 
+precisamente su lo scorcio del 1303, dopo la seconda impresa 
+mugellana terminata infelicemente nella primavera di quell'anno.  Il 
+secondo rifugio lo ebbe da Can Grande, probabilmente dopo la caduta 
+di Uguiccione della Faggiuola in Toscana (apr. 1316), presso cui 
+allora pare si trovasse Dante.  Il tempo pi$u probabile di questo 
+soggiorno cade tra la fine del 1316 e il 1318. 
+
+	|76.  Con lui vedrai colui~ ec.: Alla corte di Bartolomeo 
+vedrai il fratello Cangrande, nato il 9 marzo 1291 sotto l'influenza 
+del Cielo di Marte. 
+
+	|82.  Ma pria che 'l Guasco~ ec.: Clemente V, guascone, il 
+<pastor sanza legge> (^Inf.~, XIX, 83), invit@o da prima Arrigo VII 
+a scendere in Italia, promettendogli il suo favore, ma poi gli si 
+mostro@o ostile (C. XXX, 142-144.). 
+
+	|84.  In non curar d'argento~; Racconta Benvenuto da Imola 
+nel suo Commento che Can Grande condotto quando era fanciullo dal 
+padre a vedere un tesoro <minxit super eum>. 
+
+	|85-88.  Le sue magnificenze~ ec.: Con questi e con i 
+precedenti versi e col dedicare a Can Grande la terza Cantica Dante 
+volle ricambiare l'ospitalit@a e munificenza di lui.  E nei primi 
+quattro capitoli dell'^Epistola~ dedicatoria ne esalta la virt@u e 
+la gloria, e gli professa la sua gratitudine e la sua amicizia.  
+Riferiamo il Cap. I, che serve di commento esplicativo: <L'inclita 
+lode della vostra magnificenza che la vigile fama in ogni parte 
+diffonde, opera si diversamente negli uomini, che alcuni solleva 
+alla speranza di loro prosperit@a, altri getta nel terrore dello 
+sterminio.  Questa lode, per vero superiore ai fatti dei moderni mi 
+pareva un tempo eccesssiva.  E per non rimanere sospeso in una 
+continua incertezza, a Verona ne venni per vedere con questi occhi 
+fedeli le cose udite.  Quivi le vostre magnificenze io vidi, vidi i 
+benefici e li provai, e a quel modo che prima sospettavo eccesso in 
+ci@o che si diceva, conobbi poscia essere straordinari i fatti 
+stessi>. 
+
+	|89-93.  Per lui fia trasmutata~ ec.: Il giovane Scaligero 
+nel settembre del 1314 riport@o una vittoria su i Padovani, per cui 
+ebbe il titolo di ^Vittorioso~ che insieme all'altro di ^Vicario 
+dell'Impero~ troviamo nell'indirizzo dell'^Epistola~ di Dante, 
+(segno certo questo che essa fu scritta dopo il '14); nel decembre 
+del 1318 fu nominato Capitano generale della lega ghibellina; 
+nell'agosto del 1319 fu sconfitto sotto le mura di Padova.  Senza 
+dubbio Dante scriveva questo Canto innanzi al 1319, quando vivissime 
+erano le sue speranze nelle future imprese dello Scaligero; imprese 
+a cui qui naturalmente accenna in modo vago, immaginandole per@o 
+cos$i straordinarie da parere incredibili perfino a chi un giorno le 
+vedr@a compiere sotto i propri occhi.  L'avvertimento |ma nol 
+dirai~, con cui prudentemente si nasconde un immaginato vaticinio, ci 
+ricorda l'altro di Carlo Martello: <Taci e lascia volger li anni> 
+(C. IX, 4). 
+
+	|94-96.  Queste son le chiose~ ec.: Gi@a Virgilio, 
+alla profezia di Farinata, aveva detto a Dante di serbare nella sua 
+mente il triste annunzio di futuro danno, che gli sarebbe chiarito 
+da Beatrice (^Inf.~, X, 127-132); e alla profezia fattagli da 
+Brunetto Latini, Dante stesso aveva risposto che egli la serbava <a 
+chiosar con altro testo> (^Ivi~, XV, 89), con quello cio@e di 
+Farinata.  E queste appunto son le |chiose~ a lui fatte dal 
+trisavolo Cacciaguida, e indirettamente da Beatrice, in quanto che 
+essa @e quella che lo esorta a mandar fuor la vampa del suo des$io 
+(v. 7-8). 
+
+	|Ecco le 'nsidie~ ec.; Le insidie che dentro un breve volger 
+di tempo si preparavano a Dante sono accennate nei versi 49-51. 
+
+	|100-102.  Si mostr@o spedita~ ec.: Mostr@o d'aver compiuta 
+la tela di cui io gli avevo dato l'orditura.  Consimile immagine 
+l'abbiamo nel C. III, 95-96. 
+
+	|108-109.  Tal che pi@u grave~ ec.: I colpi della fortuna 
+riescono tanto pi$u gravi a chi si lascia andare senza armarsi di 
+previdenza (|provedenza~); <saetta previsa vien pi@u lenta> (v. 27). 
+
+	|112-120.  Gi@u per lo mondo~ ec.: Ecco il contenuto 
+sostanziale di questi versi; -- Viaggiando pei regni dei morti ho 
+veduto cose che se io ridico saranno a molti assai agre; d'altra 
+parte, se non ho coraggio di rivelarle, non avr@o fama nei posteri. 
+-- 
+
+	|121.  La luce in che rideva~ ec.: Verso bellissimo, da 
+paragonarsi all'altro <Chiuso e parvente del suo proprio riso> (V. 
+36).   
+
+	|122.  Ch'io trovai l@i~: determinazione non necessaria. 
+
+	|124-135.  Coscienza fusca~ ec.: -- Lascia che chi @e 
+macchiato di colpe senta il pungolo dei tuoi rimproveri, rivela 
+tutto ci@o che hai visto e udito, ch$e le tue parole saranno col 
+tempo purificatrici, e colpisci pi$u forte i potenti, poich$e il 
+loro esempio ha su le moltitudini maggiore efficacia.  Questa tua 
+franchezza al vero ti frutter@a onore grande. --  
+
+	|Coscienza fusca de l'altrui vergogna~: <I provocatori, i 
+soverchiatori, tutti coloro che in qualunque modo fanno torto altrui 
+sono rei non solo del male che commettono, ma del pervertimento 
+ancora a cui portano gli animi degli offesi> (MANZONI, ^Pr. Sp.~ 
+cap. 2).  Queste parole sono di vero commento a ci@o che dice Dante 
+riguardo alla coscienza fosca dell'altrui vergogna, non bene intesa 
+dai Commentatori, i quali spiegano: Per la vergogna dei congiunti. 
+
+	In questi versi si racchiude l'alto intendimento morale e 
+civile che Dante s'era proposta col suo Poema.  (Si veda 
+^Introduzione~, pag. cvi-cx. 
+
+	|139-142.  Che l'animo~ ec.; Perch$e l'animo di chi ascolta 
+non si quieta, non s'appaga, n$e presta intera fede altrui per esempi 
+fondati su persone sconosciute e oscure, n$e s'appaga per qualsiasi 
+altro ragionamento, la cui verit@a non si mostri evidente, in modo 
+concreto. 
+
+

@@ -1,0 +1,417 @@
+	|1-12.~  After his first downward look at the Earth and the Seven
+Planets, Dante `turned back his eyes to the eyes beautiful': if
+Beatrice, the Divine Wisdom, had `set so great a world beneath his
+feet,' what must that world be to which this was but the prelude?  He
+compares her to a mother-bird poised on an open spray above her nest,
+in eager outlook for the dawn which will give her light to find food
+for her young: with the same intentness are the eyes of Beatrice turned
+to the meridian, `the region under which the sun shows least haste'
+[^Par.~ xxiii. 10-12.  This is the usual interpretation; but Antonelli,
+says Casini, `thinks that from the constellation of the Twins Beatrice
+would look into that of Cancer, that is, toward the East, from which it
+was fitting that Christ should appear in triumph.'  But is there any
+East or West in Paradise?], waiting `until the day breathe, and the
+shadows flee away' [Cant. ii. 17: `Donec aspiret dies, et inclinentur
+umbrae' (Vulg.).]  Allegorically, the meaning seems to be that all
+Dante has yet seen of Paradise -- the light and glory of the Seven
+Heavens below -- is but the darkness of the night in comparison with
+the dawn about to brighten.  That this contrast is no exaggeration will
+be apparent if we remember that the Sun for whom they look is Christ
+Himself, kindling into light and glory the triumphant hosts of His
+Redeemed. 
+
+	|16-24.~  They had not long to wait.  Suddenly the Heaven grew
+radiant and ever more radiant; and Beatrice, her face burning with love
+and her eyes with joy, exclaimed:
+
+                              Behold the hosts
+     Of the Triumph of Christ, and all the fruit
+     Ingathered by the circling of these spheres!' --
+
+that is, by the power and grace of God flowing out through Christ to
+the Nine Orders of Angels, and through them to the spheres of which
+they are the movers, and thus down to men on earth.  [For the way in
+which Christ is conceived as `the Living Light' which `unites its rays
+in nine subsistences,' the nine Angelic Orders, and flows down to the
+`brief contingencies' of earth, see ^Par.~ xiii. 52-66, and {comm. to
+vv. 46-87}].
+
+	|25-39.~
+
+     As when in nights serene of the full moon
+     Smiles Trivia among the nymphs eternal
+     Who paint the firmament thro' all its gulfs,
+     Saw I, above the myriads of lamps,
+     A Sun that one and all of them enkindled,
+     Even as our own doth the supernal sights.
+     And thro' the living light transparent shone
+     The lucent substance so intensely clear
+     Into my sight that I sustained it not.
+     O Beatrice, thou gentle guide and dear!
+     To me she said: `What overmasters thee
+     A virtue is from which naught shields itself.
+     Therein is the Wisdom and the Power
+     That opened the pathways between heaven and earth,
+     For which there erst had been so long a yearning.'
+
+[In 1 Cor. i. 24, Christ is called `the power of God, and the wisdom of
+God.'  The opening of the pathways refers to ^Par.~ vii. 109-111:
+
+     `The Divine Goodness, which imprints the world,
+     Was well contented to proceed by ^all~
+     ^Its ways~, to lift you up again.'
+
+See {comm. to ^Par.~ 7.67-120}.  ^Trivia~ is the Moon, so called from
+the temple of Diana, the Moon-goddess, which was frequently built at
+the meeting of three roads (^Aen~. vi. 13, 35, etc.).  The nymphs are
+the stars (^Purg.~ xxxi. 106).]  The chief difficulty of this passage
+is in ll. 31-33: Dante's eyes cannot endure `the lucent substance'
+which shone through `the living light' of Christ, the Sun that kindles
+the starry hosts of His Triumph.  The usual interpretation is that `the
+lucent substance' is the glorified Humanity of our Lord, `the body of
+His glory,' to use St. Paul's phrase; and that `the living light'
+through which it shines is the glory of His soul, from which the glory
+of His body flows.  According to Aquinas, the soul of Christ from the
+instant of His conception was glorious by its perfect fruition of
+Divinity.  In the ordinary course of the spiritual life, this glory of
+His soul would have `redounded' to His body and made it glorious; but
+there was a dispensation from this natural law `in order that He might
+fulfil the mystery of our redemption by His Passion.'  This being done,
+the soul imparted its glory to the body, which it resumed in the
+Resurrection.  In this Heaven, then, where the fruits of that Passion
+are gathered in, `the lucent substance' of Christ's body, once veiled
+for our salvation in the humiliation of earth, shines through the glory
+of His soul, to be the eternal sunlight of His Redeemed.  That `body of
+His glory' is the earnest of the glory of their own bodies in the
+Resurrection; for, as Aquinas says in the passage just referred to,
+`the Resurrection of Christ was the exemplar and the cause of ours'
+[^Summa~, iii. q. liv. a. 3.  This interpretation harmonizes with what
+Solomon says of the human body in the Resurrection (^Par.~ xiv. 52-57). 
+The risen body is compared to a live coal which conquers the glow of
+its own flame and `maintains its own appearance in the very midst of
+it.  This would correspond exactly to `the lucent substance' of
+Christ's body shining through `the living light' of the soul.
+
+A quite different view is given by Vellutello: `^E per la
+viva luce~, that is, through the splendour of the Humanity of Christ
+shone forth ^la lucente sustanzia~, that is, the splendour of His
+Divinity, which was contained in such a Humanity.'  The use of the word
+^substance~ seems in favour of this interpretation.  The meaning would
+then be that what blinded Dante was not the glory of the body and soul
+of Christ, but of His Humanity and Divinity.  Perhaps, taking into
+account the Heaven we are in, the former is likelier to be the stage of
+vision Dante has reached: the union of Humanity and Divinity in Christ
+is reserved for the Empyrean (xxxiii. 127-141).  This is the second of
+three visions of Christ in the ^Paradiso~: see {comm. to ^Par.~ 14.103-
+108}].
+
+	|43-45.~  This flash of the glory of the Risen Christ, shining on
+the blessed souls who yet await the Resurrection, is Dante's first
+vision of the Contemplative Life; and, brief and blinding as it was, it
+broke down the limits of nature, and his mind `issued forth from
+itself,' he knew not how, as lightning bursts from a cloud. 
+
+	|46-48.~ From this ecstatic trance he is recalled by the voice of
+Beatrice:
+
+     `Open thine eyes, and look at what I am;
+     Thou hast beheld things such that mighty
+     Hast thou been made to bear my smile.'
+
+Since entering the Heaven of Saturn Beatrice, for Dante's sake, has not
+dared to smile [^Par.~ xxi. 4. f.].  Now he is able to bear the `joy
+unspeakable and full of glory.'  The meaning appears to be to this
+effect.  The mind of mortal man cannot remain at the ecstatic height of
+contemplation for ever; Dante must return to Beatrice in her symbolic
+character of Theology -- meditation on what he has seen in vision.  But
+Theology is now transfigured and glorified.  The things he has seen --
+the glory of Christ and His saints -- have invested her with a
+sweetness and beauty he never saw before, a smile which made the holy
+face so pure that all the poets most nourished by the Muses had been
+powerless to enable him to sing it.  Hence he is forced to pass it by
+in silence.  The voyage is not one for a little ship, or for `a
+helmsman who spares himself'; no wonder if the mortal shoulder tremble
+under the weighty theme.
+
+	|70-75.~  So long and eagerly did Dante gaze at his Lady's smile
+that at last she had to turn away his eyes to the souls of the
+Redeemed:
+
+     `Why doth my face so much enamour thee,
+     That to the garden fair thou turnest not,
+     Which 'neath the rays of Christ enflowers itself?
+     There is the Rose in which the Word Divine
+     Made itself flesh; there are the Lilies
+     At whose odour the good way was taken.'
+
+From several similar passages, it is plain that Dante regarded as a
+failing his habit of absorption in Theology, to the neglect of the
+lives of the saints.  Again and again, in the course of the poem, he
+has to be roused from some abstract meditation, and his attention
+turned to good men as a source of knowledge of things Divine.  [For
+example: in ^Purg.~ xxix. 61, Matelda reproves him for gazing at the
+sevenfold light of the Spirit, to the neglect of the Procession of
+Scripture writers inspired by that Spirit; in ^Purg.~ xxxii. 1-9, the
+Theological Virtues say `Too fixed,' when they see him forget all else
+in looking at `the second beauty' of Beatrice; and in ^Par.~ xviii. 20,
+Beatrice reminds him that all Paradise is not in her eyes, and turns
+him to the warrior-saints of Mars (see {comm. to ^Par.~ 18.19-21}).] 
+At this point, when his eyes cannot bear the direct vision of Christ,
+he must train himself to see His light reflected in the Redeemed, that
+he `may be able to comprehend ^with all saints~ what is the breadth,
+and length, and depth, and the height; and to know the love of Christ,
+which passeth knowledge' [^Eph.~ iii. 18, 19].  The comparison of the
+Redeemed to a garden comes, of course, from the garden which man lost:
+this is the Celestial Eden or Paradise, won by Christ's Passion, in
+which every soul is a fair flower lifting its shining head to the Sun
+of its salvation.  It is for this reason, as Mr. Gardner points out,
+that there are so many correspondences between this Heaven and the
+Earthly Paradise on the top of Mount Purgatory.  The Procession of the
+Church down below answers to the Triumph of Christ here.  `It was in
+the Earthly Paradise, the highest region of the terrestrial world, that
+Dante beheld the despoiled Tree from which the forbidden fruit had been
+taken, and heard the reproachful murmur of "Adamo" (^Purg.~ xxxii.
+37-39); so now in the Firmament, the highest visible region of the
+celestial world, the poet sees the fruit of the redemption and
+atonement by Christ.  Each again is but a prelude to the ascent to
+^pi@u alta salute~.  The passage of Lethe in the Earthly Paradise
+corresponds to the examination upon the theological virtues in the
+Firmament; at the intercession of the three maidens, presenting Faith,
+Hope and Charity, Beatrice had unveiled her countenance to Dante's
+gaze, and similarly it is his examination as to his knowledge of these
+three virtues which will permit him to make the further ascent into the
+hidden things of God.  Also it is in this heaven that Adam himself
+appears to instruct Dante upon the fall, now that he has seen the
+mystery of Redemption; and to speak to him of the nature of his life in
+the Earthly Paradise, now that the poet has had a vision of the triumph
+of the new Adam in its celestial counterpart, the Firmament.'  And
+finally, the contrast between Eve and Mary is striking and obvious;
+`for Mary had healed the wound that Eve dealt the human race (^Par.~
+xxxiii. 4-6); or as St. Bernard put it: Eve was the thorn, Mary came
+forth as the Rose; Eve was the thorn whose pride brought death to all,
+but Mary was the Rose diffusing the sweet odour of eternal salvation to
+all' [^Dante's Ten Heavens~, 170, 171].
+
+In naming the Virgin-Mother the Rose, Dante was doubtless
+influenced by many associations.  The direct origin was probably the
+Litany of the Blessed Virgin, in which she is called the ^Rose Mystica~
+[in his ^Laus B.V.M.~, Bonaventura calls her `Rosa decens, rosa munda';
+and in his ^Psalterium Minus B. Mariae Virginis~ occurs the verse:
+
+     Ave Virgo speciosa,
+     Cuius quasi recens rosa,
+     Spirat caro, cor laetatur,
+     Mens in bonis demoratur.],
+
+on account of the place which the rose occupies among the flowers.  The
+Virgin, says Landino, is `deservedly compared to the rose, which by
+usefulness in divers diseases, by beauty, and by fragrance, holds the
+supremacy among the flowers.'  It is quite possible, as Butler
+suggests, that Dante had in mind the name of the Cathedral of his
+native city, Santa Maria ^del Fiore~ [compare ^Par.~ xxiii. 88: `Il
+nome del bel fior,' i.e. of Mary].  According to Lana, the Apostles are
+called Lilies for three reasons.  The whiteness of the outside of the
+flower signifies purity and faith; the red heart, incorruptibility and
+charity; the odour, their preaching and hope [`I am the Rose of Sharon
+and the Lily of the Valleys' (Cant. ii. 1, 2) was applied mystically
+to the Virgin.  The Angel of the Annunciation is represented as bearing
+a lily in token of her purity, and for this reason both Florence and
+France chose the lily as their device.  In pictures of the Coronation
+of the Virgin roses and lilies are usually introduced.  A plantation of
+roses is often set in the background of pictures of the Madonna (`Quasi
+plantatio rosae in Hiericho' -- ^Ecclus.~ xxiv. 14); and in some
+paintings of the Coronation the apostles down on earth stand round an
+open tomb, filled with roses and lilies, from which her body has just
+risen.  See ^Legends of the Madonna~, Introduction, for this and the
+following note].
+
+	|76-84.~  At the word of Beatrice, Dante betook himself to `the
+battle of the feeble brows,' that is, the effort to look with his weak
+eyes upon the splendour of the shining hosts of saints.  In pity for
+the frailty of his sight, Christ had risen with His blinding glory to
+the upper Heavens, though His rays still lighted up the garden of
+souls.  The poet compares what he saw to a meadow of flowers on which a
+ray of sunlight streams through a broken cloud, while his own eyes are
+in the shadow. 
+
+	|88-90.~  `The name of the beautiful Flower which he invoked
+morning and evening' drew all his mind to the greatest star,
+
+                         the sapphire beautiful
+     With which the most clear heaven itself ensapphires, --
+
+perhaps in allusion to the blue mantle with the star on the right
+shoulder, in which Christian art often clothes her.  Or, possibly,
+there is a reference to the `^Ave Maris Stella'~ of the hymm, one
+mediaeval interpretation of the Virgin's Hebrew name, Miriam, being
+^Star of the Sea~ [`When, instead of the single star on her veil or
+mantle, she has the crown of twelve stars, the allusion is to the text
+of the Apocalypse (xii. 1): "And there appeared a great sign in heaven;
+a woman clothed with the sun, and the moon under her feet, and upon her
+head a crown of twelve stars," and the number of the stars is in
+allusion to the number of the Apostles.'  The ^Catholic Dictionary~ in
+a note on the name Miriam (Art. `Mary') says: `The mediaeval notion
+that the word "Mary" was connected with the Latin "mare" is curious. 
+The last syllable "yam" {2 Hebrew characters}, does mean the sea.  But
+how St. Bernard came to think "Mary" meant "star of the sea," we cannot
+say ({6 Hebrew characters}, "light of the sea"?)  No part of the word
+resembles any word for star in Hebrew, Syriac, Chaldee, or, so far as
+we are aware, in any language.'  The interpretation gave scope for the
+play of pious fancy.  In the ^Speculum~ of the Virgin (Lectio iii.)
+Bonaventura writes: `Well does Innocent say: By what aids can ships
+pass through so many perils to the shore of the Fatherland?  Assuredly,
+he says, by two, namely, by wood and star, that is, by the faith of the
+cross, and by the virtue of the light, which Mary, the star of the sea,
+brought forth for us.  Well, indeed, is Mary likened to a star of the
+sea, for purity, for radiancy, and for utility.  For Mary is a star
+most pure, a star most radiant, and a star most useful.  Mary is a star
+most pure, by living most purely; and Mary is a star most useful, by
+directing to the shore of the Fatherland'].  In the colour Dante
+appears to be thinking of the vision of God in Exodus xxxiv. 10; `and
+there was under his feet as it were a paved work of a sapphire stone,
+and as it were the body of heaven in his clearness.'  We miss much of
+Dante's meaning if we think of the blue colour as confined to the
+Virgin; her sapphire star is so great it `ensapphires' the entire
+Heaven.  It is, indeed, the symbolic colour of this Eighth Heaven.  The
+Cherubim who preside over it, as we have seen more than once, are the
+Angels who excel in the wisdom and knowledge of God; and, in token of
+this, the proper colour of their wings in Christian art is blue, the
+clear sapphire blue of the sky, which represents unclouded Truth.  [For
+the symbolism of angelic colours, see Mrs. Jameson's ^Sacred and
+Legendary Art~, 47-49.  As blue was the colour of the Cherubim, red was
+that of the Seraphim, who burned with Divine love.  By the end of the
+fifteenth century the distinction was disregarded.  For example, `in
+Raphael's Madonna di San Sisto, the whole background is formed of
+Cherubim and Seraphim of a uniform delicate bluish tinge, as if
+composed of air, and melting away into an abyss of golden glory, the
+principal figures standing relieved against this flood of living love
+and light -- beautiful!']  In short, the colour with which the
+sapphire star of Mary ensapphires this Heaven represents the knowledge
+of God shed forth, through her, who, in Bonaventura's words, `gave
+birth to the Eternal Ray.'
+
+	|91-108.~  Then follows what we may call the celestial Assumption
+of the Virgin, -- not, as some call it, her Apotheosis.  Dante is
+obviously thinking of the heavenly counterpart of the Assumption of the
+body of Mary, which, according to the belief of the Church, God did not
+suffer to see corruption.  Like her Son, she rose from the dead on the
+third day, and was received by Him and the angels into the joy of
+Paradise.  Speaking of the Feast of the Assumption, St. Jerome says, as
+quoted in the ^Golden Legend~: `It is on this day that the chivalry of
+heaven came hastily for to meet with the mother of God, and environed
+her with great light, and brought her to her seat with praisings and
+songs spiritual.  And then enjoyed them the celestial company of
+Jerusalem with so great gladness that no man may recount ne tell, and
+made joy and song' [The Assumption of our Lady, Caxton's translation. 
+The bodily assumption is not an article of faith, but it is so commonly
+believed in the Church that to deny it would be `a mark of insolent
+temerity.'  Dante accepted it without any doubt (^Par.~ xxv.
+127-129)].  It is this joy of Paradise which begins here in the hymn
+of the Archangel Gabriel.  `This great Ambassador of the Holy King
+celestial' [^Conv.~ ii. 6.] descends once more on an errand to the
+Virgin.  In the form of a crown of fire he encircles the sapphire star,
+and revolves around her with melody so heavenly sweet that the sweetest
+music of earth had seemed the rending of a cloud in thunder:
+
+     `I am Angelic Love, that circle round
+     The joy sublime which breathes from out of the womb
+     That was the hostelry of our Desire;
+     And I shall circle, Lady of Heaven, while
+     Thou followest thy Son, and mak'st diviner
+     The sphere supreme, because thou enterest there.'
+
+[Longfellow.  `Our Desire' is probably a reference to 1 Peter i. 12:
+`which things the angels desire to look into.']  I cannot but think
+that this has more meaning than is usually found in it.  Aquinas
+distinguishes between the ^essential bliss~ of heaven and the
+^accidental reward~.  The essential bliss he calls the ^corona aurea~,
+or simply ^aurea~; and the accidental reward, ^aureola~, a diminutive
+of ^aurea.~  All saints in the Fatherland receive the ^aurea~, the
+essential bliss of perfect union of the soul with God; but the
+^aureola~, or accidental reward, is given only to those who, in the
+earthly warfare, have won an excellent victory over some special foe:
+virgins, martyrs, and doctors and preachers [^Summa~, Supp. q. xcvi. a.
+1, 11.  See above, note {in comm. to ^Par.~ 8.52-54}].  Now, according
+to another passage in Aquinas, it was fitting that the Annunciation
+should be made by an Angel because of the virginity of the Mother of
+God, since virginity is `cognate to the Angels' [^Summa~, iii. q. xxx.
+a. 2.  What Aquinas means by `cognate' is seen from ^Summa~, Supp. q.
+xcvi. a. 9: `Virginity is said to be the angelic life, inasmusch as by
+grace virgins imitate that which angels have by nature'].  I suggest,
+then, that the meaning is to this effect: The Archangel Gabriel forms
+himself into the ~aureola~, the accidental reward of Mary's virginity
+[in ^Summa~, Supp. q. xcvi. a. 5, Aquinas discusses whether the
+^aureola~ can be rightly said to be given to the Virgin since she had
+no struggle to maintain her purity, and therefore cannot be said to
+have gained an excellent victory.  His decision is that `she rightly
+has the ^aureola~, that she may be conformed to the other members of
+the Church in whom is found virginity'; and that the struggle came to
+her, as to her Son through other temptations of the enemy]; and it is
+to this he refers when he says, `I am Angelic Love,' the Love cognate
+to that virginity.  We must remember, of course, that the word
+`accidental' does not imply a lowering, but a heightening of the
+essential bliss, `as political felicity is adorned by nobility, and
+bodily felicity by beauty' [^Summa~, Supp. q. xcvi. a. 10: The
+^aureola~ is properly in the mind, but from its joy `there redounds a
+certain comeliness to the body'].  Further, all this has its bearing on
+the blessedness of Gabriel himself and all the hosts of Angels. 
+Aquinas denies that the ^aureola~ can be earned by Angels [^Summa~,
+Supp. q. xcvi. a. 9.], yet admits that they can win an accidental
+reward in the joy they have in the salvation of those to whom they
+minister [^Summa~, i. q. lxii. a. 9; Luke xv. 10.  This `accidental'
+joy of the Angels may increase until the day of judgment, that is,
+until the number of the `heirs of salvation' is fulfilled].  This is
+Gabriel's joy here, as he circles round `the hostelry of our Desire':
+these hosts of souls redeemed were the fruit of his Annunciation to the
+Virgin, when he `opened his wings' in Nazareth centuries ago.  I do not
+press this interpretation, but all these things were familiar to
+Dante's mind, and it would certainly give a much more definite
+significance to the whole passage.
+
+	|109-129.~  The Assumption follows.  Joining in the Archangel's
+song, the other lights fill Heaven with the sound of Mary's name; and,
+surrounded thus by the praises of the souls redeemed by her Son, `the
+crowned flame' passes up beyond the poet's sight into the Primum
+mobile, `the royal mantle' that folds in all the spheres with love and
+life.  Yearningly the white souls reach up after her with their flames,
+as in pictures of her Coronation we see Apostles and saints stretching
+up their hands.  Meantime they remain behind, as waiting for `the
+redemption of their bodies,' and sing the ^Regina coeli~, the Easter
+Antiphon at lauds and compline, in hope of their own rising from the
+dead.  And the sweet music of that hope never faded from the Pilgrim's
+heart [^Par.~ xxiii. 109-129.  The Antiphon is:
+
+     Regina coeli, laetare! alleluia,
+     Quia quem meruisti portare, alleluia,
+     Resurrexit, sicut dixit, alleluia.
+     Ora pro nobis Deum; alleluia].
+
+	|130-139.~  When Mary passed out of his sight into the Crystalline
+Heaven, Dante broke into an exclamation of wonder and praise as he
+turned his eyes to contemplate the heavenly treasures stored up in the
+Apostles.  The metaphors, it must be confessed, are somewhat mixed. 
+The Apostles are at once the sowers or the soil (according as we
+understand ^bobolce~ of xxiii. 132), and the chests in which the
+abundant harvest is stored.  The harvest is not simply their own
+personal bliss, but the life and joy they have in the treasure of
+redeemed souls all round them in this Heaven, won in weeping in the
+Babylonian exile of earth, where for this wealth, they abandoned gold. 
+Next to the Son of God and Mary triumphs St. Peter, `who holds the keys
+of such a glory.'  [The meaning is that Peter is the third in this
+Triumph of Christ's Church: in the White Rose his place is at Mary's
+right hand (xxxii. 124-126).  The older commentators take ^bobolce~ of
+l. 132 as equivalent to the Latin ^bubulcus~, a ploughman (comp.
+^bifolco~ in ii. 18), though the form is feminine to correspond with
+^arche~ of the previous line.  Others derive it from ^bubulca~ or
+^bubulcata~, the quantity of land a yoke of oxen can plough in a day. 
+Dante seems to have had a number of passages of Scripture in his mind:
+the parable of the sower, where soil and seed are identified (Matt.
+xiii. 23: `He that was sown in the good soil,' R.V. and Vulgate); Gal.
+vi. 8: `He that soweth to the Spirit shall of the Spirit reap eternal
+life'; 2 Cor. ix. 6: `He that soweth bountifully shall reap also
+bountifully'; and the references to Babylon and weeping are from the
+Psalm: cxxxvii. 1: `By the rivers of Babylon, there we sat down, yea we
+wept, when we remembered Zion'; and cxxvi. 5, 6: `They that sow in
+tears shall reap in joy.  Though he goeth on his way weeping, bearing
+forth the seed, he shall come again with joy, bringing his sheaves with
+him' (R.V.).]

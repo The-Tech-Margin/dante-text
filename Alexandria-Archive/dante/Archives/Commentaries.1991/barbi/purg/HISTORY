@@ -1,0 +1,14 @@
+Wed Feb 12 09:52:27 EST 1986 jvs fixed M- probs except 7 and 20 which have M-g
+Wed Feb 12 09:53:06 EST 1986 jvs M-{ equals circumflexed u (see
+BARBI/INF/HISTORY)
+Fri Feb 28 14:46:26 EST 1986 jvs uploaded cantos 23-33 continue M- probs
+Tue Jan 19 11:44:02 EST 1988 tilde-period changed to period-tilde combos in all
+cantos
+Wed Feb 1 14:18:37 EST 1989 08.45 typo Virgllio fixed to Virgilio. jvs
+Tue Feb 14 18:53:47 EST 1989 preloaded purg jvs
+Sun Apr 16 08:37:13 EDT 1989 jvs corrected .f files using checknew
+Sun Apr 16 08:37:19 EDT 1989 jvs preloaded corrected .f files
+Wed Apr 19 19:57:17 EDT 1989 jvs deleted obsolete .e files
+Thu Apr 27 09:30:04 EDT 1989 jvs corrected xfer errors using xfercheck
+Thu Apr 27 09:30:11 EDT 1989 jvs preloaded corrected files
+Mon Mar 26 10:28:49 EST 1990 jvs renamed .f files to .e

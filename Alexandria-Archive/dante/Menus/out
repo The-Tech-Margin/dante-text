@@ -1,0 +1,2 @@
+mv -i CNTXT.MNS cntxt.new 
+mv -i cntxt.old CNTXT.MNS 

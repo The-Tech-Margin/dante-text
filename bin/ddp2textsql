@@ -1,0 +1,259 @@
+#!/usr/bin/perl
+#########################################################################
+#
+#				ddp2textsql
+#
+# Convert a DDP commentary text file into a data file suitable for sqlldr to load.
+#
+# Usage: ddp2textsql source_path comm_id comm_lang cantica_name canto_name
+#
+# The DDP text file (*.e) is assumed to be on stdin; the sqlldr file is
+# written to stdout.
+#
+# NB: This program must agree with the sqlldr control file concerning the
+# order and format of the fields in the data file.
+#
+# Historical note: In the original BRS-based DDP, the functions of this
+# program were performed by the C program dbloadf.
+#
+#########################################################################
+
+#
+# This "use bytes;" prevents Perl from complaining about malformed UTF-8
+# characters in the input stream. This complaint may be a bug in Perl.
+#
+#use bytes;
+
+#########################################################################
+#
+# A function to read a line of text from stdin and classify it. Returns
+# the type of line found.
+#
+# Side effects: sets some global variables. Removes any leading white space
+# from the text. Removes the line numbers from lines that have them.
+#
+#########################################################################
+
+$EOF = 0;
+$CONTROL = 1;
+$LINENOS = 2;
+$BLANK = 3;
+$NOTA = 4;
+$INDENTED = 5;
+$PLAIN = 6;
+
+#########################################################################
+#
+# MAXLINENO is an arbitrary value larger than any line number in the poem
+# or commentaries. Assinging a line number greater than this value indicates
+# that the associated text is a "conclusione" and should appear at the end
+# of a canto's hits. See also search_results.php, config.php, and objects.php.
+#
+#########################################################################
+$MAXLINENO = 200;
+
+sub get_line {
+	$start_line_no = $end_line_no = 0;
+	if ($_ = <>) {
+		if ($in_prefmt) {
+			$line_text = $_;
+			return $PLAIN;
+		}
+		if (/^[\s]*$/) {
+			$line_text = "";
+			return $BLANK;
+		}
+		if (/^&amp;&amp;/) {
+			s/&amp;&amp;//;
+			$line_text = $_;
+			return $CONTROL;
+		}
+		if (/^ +/) {
+			$line_text = $_;
+			return $INDENTED;
+		}
+		if (/^\t<b>([\d]+)-([\d]+)\.?(<\/b>)?\.?[\s]*(.*)/s) {
+			$start_line_no = $1;
+			$end_line_no = $2;
+			$line_text = ($3 ? "" : "<b>") . $4;
+			return $LINENOS;
+		}
+		elsif (/^\t<b>([\d]+)\.?(<\/b>)?\.?[\s]*(.*)/s) {
+			$start_line_no = $end_line_no = $1;
+			$line_text = ($2 ? "" : "<b>") . $3;
+			return $LINENOS;
+		}
+		elsif (/^\t<b>Nota Finale/i || /^\t<b>Conclusione/i ) {
+			$start_line_no = $end_line_no = $MAXLINENO + 1;
+			$line_text = $_;
+			return $NOTA;
+		}
+		elsif (/^\t<b>Proemio/i || /^\t<b>Proemium/i || /^\t<b>Rubrica/i ||
+			/^\t<b>Nota/i || /^\t<b>Summarium/i ||
+			/^\t<b>Table/i || /^\t<b>Deductio/i ) {
+			$line_text = $_;
+			return $NOTA;
+		}
+		else {
+			$line_text = $_;
+			return $PLAIN;
+		}
+	} else {
+		return $EOF;
+	}
+}
+
+###############
+#
+# Main routine
+#
+###############
+
+$TEXT_FMT = "\"%s\",";
+$INT_FMT = "%d,";
+
+$RECORD_MARK = "###";	# Indicates end of record to SQL*Loader
+
+$source_path = $ARGV[0];
+$comm_id = $ARGV[1];
+$comm_lang = $ARGV[2];
+$cantica_name = $ARGV[3];
+$canto_name = $ARGV[4];
+shift; shift; shift; shift; shift;
+
+if ($cantica_name eq "inf") {
+	$cantica_no = 1;
+} elsif ($cantica_name eq "purg") {
+	$cantica_no = 2;
+} elsif ($cantica_name eq "para") {
+	$cantica_no = 3;
+} else {
+	$cantica_no = 0;
+}
+
+#
+# If the canto number argument isn't two digits,
+# then it must be a "nota" file.
+#
+
+if ($canto_name =~ /[\d]{2}/) {
+	$canto_no = $canto_name;
+} else {
+	$canto_no = 0;
+}
+
+#
+# Main loop
+#
+
+$in_paragraph = 0;
+$in_piece = 0;
+$in_prefmt = 0;		# Indicates we are in a <pre>...</pre> block.
+
+LINE:
+while (1) {
+	#
+	# Read and classify a line.
+	#
+	$line_type = get_line();
+	#
+	# Control lines, which as of Feb 2005 occur only in Boccaccio,
+	# get processed but have no impact on the scanner state.
+	#
+	if ($line_type == $CONTROL) {
+		@control_token = split ' ', $line_text;
+		$attribute_tag = "<i>[Esposizione $control_token[1]]</i>\n";
+		next LINE;
+	}
+	#
+	# End the previous paragraph (if any).
+	#
+	if ($line_type == $BLANK || $line_type == $EOF || $line_type == $LINENOS || $line_type == $NOTA) {
+		if ($in_paragraph) {
+			printf "%s", $end_tag;
+			$in_paragraph = 0;
+		}
+	}
+	#
+	# Blank lines are not of further interest.
+	#
+	if ($line_type == $BLANK) {
+		next LINE;
+	}
+	#
+	# These line types finish off the previous piece of text, ie row (if any).
+	#
+	if ($line_type == $LINENOS || $line_type == $NOTA || $line_type == $EOF) {
+		if ($in_piece) {
+			printf "\"\n%s\n", $RECORD_MARK;
+			$in_piece = 0;
+		}
+	}
+	#
+	# EOF ends it.
+	#
+	if ($line_type == $EOF) {
+		last LINE;
+	}
+	#
+	# By here, we know we have a text line. If we are not in the middle
+	# of a piece of text, then we will start one.
+	#
+	if (not $in_piece) {
+		#
+		# Generate the root doc_id. That contains all digits except the tie-breaker digit.
+		#
+		$root_doc_id = sprintf "%s%d%02d%03d", $comm_id, $cantica_no, $canto_no, $start_line_no ;
+		#
+		# Now generate the real doc_id using a tie-breaker digit.
+		#
+		$doc_id = sprintf "%s%d", $root_doc_id, $tie_breaker{$root_doc_id}++;
+		#
+		# Output the columns up to the text CLOB.
+		#
+		printf $TEXT_FMT, $doc_id;
+		printf $TEXT_FMT, $comm_id;
+		printf $INT_FMT, $cantica_no;
+		printf $INT_FMT, $canto_no;
+		printf $INT_FMT, $start_line_no;
+		printf $INT_FMT, $end_line_no;
+		printf $TEXT_FMT, $comm_lang;
+		printf $TEXT_FMT, $source_path;
+		printf "\n\"";
+		$in_piece = 1;
+	}
+	#
+	# We have some text to deal with. If we are starting a paragraph, determine the tags.
+	#
+	if (not $in_paragraph) {
+		if ($line_type == $INDENTED) {
+			printf "<pre class=\"\"commentaryindented\"\">\n";
+			$end_tag = "</pre>";
+		} else {
+			printf "<p class=\"\"commentarytext\"\">\n";
+			print $attribute_tag;
+			$end_tag = "</p>";
+		}
+		$in_paragraph = 1;
+	}
+	#
+	# If we encounter a <pre>...</pre> block in the input stream,
+	# we transparently copy input to output until the end of the block.
+	#
+	if ($line_text =~ /<pre>/) {
+		$in_prefmt = 1;
+	} elsif ($line_text =~ /<\/pre>/) {
+		$in_prefmt = 0;
+	}
+	#
+	# Eliminate extraneous white space.
+	#
+	if (not $in_prefmt) {
+		$line_text =~ s/^[\s]+//;
+		$line_text =~ s/ {2,}/ /g;
+	}
+	#
+	# Now just output the text.
+	#
+	printf "%s", $line_text;
+}

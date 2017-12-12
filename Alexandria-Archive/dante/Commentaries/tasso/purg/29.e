@@ -1,0 +1,95 @@
+	|4-6.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|16.~ |(ed.  Rosini)~
+Un lustro.  [richiamo marginale] [Sessa]
+
+^Lustro~, splendore.  [Da Fino]
+
+	|24.~ |(ed.  Rosini)~
+Biasmare la temerit@a di Eva.  [Da Fino]
+
+	|27.~ |(ed.  Rosini)~
+Perch@e volesse sapere ogni cosa.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+Lunga fiata.  [richiamo marginale] [Sessa]
+
+	|43.~ |(ed.  Rosini)~
+Allegoria.  [Da Fino]
+
+	|44.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|49.~ |(ed.  Rosini)~
+Ammanna.  [richiamo marginale] [Sessa]
+
+^Discorso ammanna~, porge discorso.  [Da Fino]
+
+	|60.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|66.~ |(ed.  Rosini)~
+^Fuci~, fu.  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+^Pennelli~, stendali di .....  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+^Egli~, aere.  [Da Fino]
+
+	|78.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+	|79.~ |(ed.  Rosini)~
+^Stendali~, voce usitatissima dal Villani.  [Sessa]
+
+	|81.~ |(ed.  Rosini)~
+^Diece passi distavan quei di fuori~.  Da' fiori.  [Sessa]
+
+	|91.~ |(ed.  Rosini)~
+^Luce luce~, agnominazione.  [Da Fino]
+
+	|92.~ |(ed.  Rosini)~
+^Quattro animali~, Evangelisti.  [Da Fino]
+
+	|103.~ |(ed.  Rosini)~
+Li troverai.  [richiamo marginale] [Sessa]
+
+	|109.~ |(ed.  Rosini)~
+^Ed esso tendea su l'una e l'altr'ale.  Ale~, nel numero del meno.  
+[Sessa]
+
+	|115-120.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|117.~ |(ed.  Rosini)~
+^Con ello.  Con ello~, cio@e rispetto.  [Sessa]
+
+	|120.~ |(ed.  Rosini)~
+^Arcanamente~, sommamente.  [Da Fino]
+
+	|121.~ |(ed.  Rosini)~
+^Tre donne~, Virt@u teologiche.  [Da Fino]
+
+	|130.~ |(ed.  Rosini)~
+^Quattro~, Virt@u cardinali.  [Da Fino]
+
+	|135.~ |(ed.  Rosini)~
+Onestato, [richiamo marginale] [Sessa]
+
+	|136-137.~ |(ed.  Rosini)~
+S. Luca.  [Da Fino]
+
+	|138.~ |(ed.  Rosini)~
+Uomini.  [Da Fino]
+
+	|140.~ |(ed.  Rosini)~
+S. Paolo.  [Da Fino]
+
+	|142.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|147.~ |(ed.  Rosini)~
+^Brolo~, corona.  [Da Fino]
+

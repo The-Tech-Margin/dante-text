@@ -1,0 +1,756 @@
+	|SUMMARIUM.~  CANTUS SEPTIMUS, ^in quo tractat ubi
+Virgilius dixit cum Sordello de suo statu multa; it hoc dicto
+duxit eos Sordellus in locum in quo sunt reges et comites et
+nobiles; et omnes nominat, ac etiam defectus eorum per ordinem,
+ac etiam de sequenti aliquantulum.~
+
+	|Proemio.~  ^POSCIA che l'accoglienze oneste e liete.~ 
+Postquam in superiori capitulo proxime praecedenti poeta noster
+expedivit tractatum negligentium quartae speciei, qui distulerunt
+tempus poenitendi praeventi morte violenta, et viam fecit ad
+sequentem materiam, quae est de negligentibus quintae speciei,
+qui distulerunt poenitentiam occupati laudabiliter circa regna
+temporalia; nunc consequenter in isto VII capitulo exequitur
+istam materiam nobilem principum; et praesens capitulum, ut per
+se patet, est divisum in tres partes generales.  In prima quarum
+poeta describit unum dialogum sive collationem factam inter duos
+mantuanos, scilicet Virgilium et Sordellum, per quam Virgilius
+manifestat se Sordello, et Sordellus Virgilium laudibus extollit. 
+In secunda describit magnifice locum amoenissimum illustrium
+virorum, ibi: ^ala se tu puoi o sai.~  In tertia et ultima
+describit artificiose aliquos principes modernos illustres,
+quorum fama dignius celebratur, ibi: ^Prima che 'l poco sole.~ 
+
+	|1-3.~  Ad primum veniens dico, quod poeta describit
+mutuam collationem Virgilii et Sordelli, et primo continuat
+materiam sequentem ad praecedentem: quia enim finxerat in
+praecedenti capitulo quod Sordellus audito solo nomine Mantuae
+iverat mirabundus in amplexus Virgilii; ideo nunc pro
+continuatione fingit quod, gratulatione saepius repetita,
+Sordellus petivit a Virgilio quis esset, et ille respondit. 
+Dicit ergo: |Sordel~, et videtur nomen conveniens, quasi parum
+sordidus libidine, |si trasse~, idest, parum retro se reduxit, |e
+disse: voi chi siete~, quia erant duo magni poetae simul, unus
+antiquus, alter modernus; vel dicit simpliciter Virgilio, causa
+honoris et reverentiae, in plurali, vos; et ista videtur melior
+expositio, quia Virgilius respondebit solum de se, et non
+nominabit socium hic: |poscia che l'accoglienze~, idest,
+gratulationes, amplexiones, |oneste e liete~, non lascivae vel
+vanae, |furo iterate~, idest factae et refactae, |tre e quattro
+volte~, idest, pluries et pluries.  Et hic nota quod poeta hic
+comprehendit utrumque numerum, scilicet parem et imparem, et
+praemittit imparem tamquam perfectiorem; unde numerus impar apud
+arismetricos appellatur masculus; par vero foemina propter sui
+imperfectionem, sicut scribit Macrobius in suo de somnio
+Scipionis, exponens illud Virgilii: ^O terque quaterque beati~
+etc.  
+
+	|4-6.~  Et continuo subdit responsionem Virgilii, qui
+breviter dicit, quod licet sit hic novus, est mortuus et damnatus
+antequam esset ordinatum purgatorium, circa initia imperii
+Caesaris Augusti.  Ordina sic literam: |il duca mio rispose
+cos@i~, idest, Virgilius respondit Sordello sub hac forma
+verborum: |l'ossa mie fur sepolte per Ottavian~, de qua sepultura
+dictum est supra plene capitulo III, |prima ch'a questo monte~,
+scilicet purgatorii, |fosser volte l'anime degne di salire a
+Dio~, idest, animae salvandorum, quia ante adventum Christi, qui
+incarnatus est sub Augusto, non erat purgatorium.  
+
+	|7-9.~  Et tacto tempore mortis et sepulturae, tangit
+nomen suum et vitium infidelitatis, dicens: |io son Virgilio~, a
+virga dictus, ut dictum est primo capitulo Inferni.  Virga enim
+utuntur pastores, de quibus tractat libro Bucolicorum; virga
+utuntur agricultores, de quibus tractat libro Georgicorum; virga
+utuntur rectores urbium, de quibus tractat libro Eneidorum.  Vel
+dictus est Virgilius quasi vir gloriosus, vel virtute gloriosus. 
+Et dicit: |e per nullo altro rio~, idest, non propter alium
+reatum, |lo ciel perdei~, idest, visionem Dei et salutem
+aeternam, |che per non aver fe'~, scilicet, christianam; quasi
+dicat: non sum damnatus defectu ingenii, sed gratiae, quia si
+habuissem fidem, pluralitas virtutum juncta cum magnitudine
+scientiae poterat extinguere paucitatem vitiorum.  
+
+	|10-15.  Quale.~  Hic poeta ponit effectum responsionis
+Virgilii per unam comparationem claram et apertam: et vult dicere
+breviter quod Sordellus stupefactus re mirabili, audito quod
+Virgilius mortuus per mille ducentos annos et ultra, nunc
+appareret ibi, nesciebat quid faceret, quia credebat et non
+credebat, affirmabat et negabat, sicut homo facit communiter in
+re subita; et tamen credens rem non esse fictam, iterum cucurrit
+ad amplectendum eum de novo; dicit ergo: |tal parve quelli~,
+scilicet Sordellus, |qual'@e colui~, scilicet, videtur, |che
+subito vede cosa innanzi se~, quam numquam putaverat evenire;
+|ond'ei si meraviglia~, juste, |credendo e no~, quia res videtur
+vera, licet videatur incredibilis, |dicendo~, scilicet, in animo
+suo, |ella @e, non @e~; sed parum stetit Sordellus cum isto
+stupore.  Unde dicit: |e poi chin@o le ciglia~, in signum
+reverentiae; |et umilmente ritorn@o ver lui~, tamquam minor versus
+maiorem; primo enim honoraverat ipsum solum pietate patriae, nunc
+vero ratione virtutis et scientiae; ideo dicit: |et abbracciollo
+ove 'l minor s'appiglia.~  Minor enim cum recipit maiorem
+inclinat se, et amplectitur illum infra brachia et interdum
+amplectitur genua, ut scribit Homerus.  
+
+	|16-18.  O gloria.~  Hic poeta posita gratulatione
+Virgilii, ponit magnificam orationem illius magnanimi super
+commendationem Virgilii.  Et ad huius altae commendationis
+confirmationem, hic tota mente considera, quod poeta noster
+dignissime prorumpit in laudem excellentissimi Virgilii, de cuius
+copiosa eloquentia mirabilia dicit Macrobius V Saturnalium,
+dicens: ^Facundia Mantuani multiplex et multiformis est, et
+dicendi genus omne complectitur.~  Virgilius namque eloquentiam
+ex omni genere dicendi conflavit.  Quatuor enim sunt genera
+dicendi, scilicet copiosum, in quo Cicero dominatur; breve, in
+quo Salustius regnat; siccum, quod Frontoni adscribitur; pingue
+et floridum, in quo Plinius luxuriatur.  Sed apud Junium Maronem
+haec quatuor genera reperies.  Fuerunt etiam olim Athenis decem
+nobiles oratores, quorum omnium stylos Virgilius imitatus est; ex
+quibus omnibus fecit unum pulcerrimum temperamentum: unde paulo
+infra dicit: eloquentia Maronis ad omnium mores integra est, nunc
+brevis, nunc copiosa, nunc sicca, nunc florida, nunc simul omnia. 
+Et erat hic autor eloquentiae metricae vere necessarius post
+Tullium principem eloquentiae prosaicae, qui de Virgilio egregie
+vaticinatus est; nam cum vidisset quoddam juvenile opusculum
+eius, et admiratus quaesivisset autorem jam senior, videns
+juvenem dixit verbum illud magnificum: ^Magnae spes altera
+Romae.~  Quod dictum auditum ex ore Tullii tantum placuit
+Virgilio quod post annos viginti, jam mortuo Tullio, inseruit
+operi suo.  Sicut ergo Tullius in oratoria, ita Virgilius in
+poetica palmam tulit, de quo Propertius non timuit dicere:
+^Cedite romani scriptores, cedite Graii, Nescio quid maius
+nascitur Iliade.~  Et ne plura praeconia Virgilii quaeram,
+concludo breviter cum Macrobio: Haec est Maronis gloria, ut
+nullius laudibus crescat, nullius vituperatione minuatur.  Nunc
+ad literam: dicit poeta noster quod ille Sordellus exordiens
+primo commendavit Virgilium a singulari eloquentia, dicens: ille
+Sordellus, |disse: O gloria de' latini~; sicut Homerus gloria
+graecorum.  Licet enim lingua latina habeat multas et magnas
+nationes, tamen habuit ortum ab Italia, a rege Latino denominata,
+et autores italicos habuit, sicut Priscianum, Donatum, Tullium:
+unde dicit: |per cui mostr@o ci@o che potea la lingua nostra~,
+scilicet, italica, in metro; et commendat ipsum a singulari
+honorificentia patriae, |O pregio eterno~, quia gloria Virgilii
+durabit quamdiu mundus, ut dictum est II capitulo Inferni, |del
+loco ond'io fui~, scilicet civitatis Mantuae.  Et vere nomen
+Virgilii fecit famosam Mantuam, plusquam illius antiquitas,
+fertilitas vel pulcritudo; ita ut non solum in Gallia apud
+Parisius in occidente, sed in Graecia apud Constantinopolim in
+oriente.  Et hic nota quod viri valentes faciunt civitates suas
+famosas, sicut Aristoteles Stragirim, Homerus Smyrnam, Democritus
+Abderam, Pindarus Thebas; sed ut omittam graecos, quorum maximus
+est numerus, quid dicam de italicis et nostris?  Plinius et
+Catullus celebrant Veronam, Titus Livius Paduam, Virgilius
+Mantuam, Varus Cremonam, Macrobius et Cassius Parmam, Gallus
+Forum Julii, Claudianus Florentiam, Persius Vulterras, Accius
+Pisaurum, Ovidius Sulmonem, Horatius Venusiam, Tullius Arpinum,
+Juvenalis Aquinum, Archita et Ennius Tarentum, Propertius
+Spoletum, Pacuvius Brundisium; et ne per singulos discurram,
+plurimi Romam, sed praecipue M. Varo vir doctissimus romanorum. 
+
+	|19-21.~  Et petit Sordellus: |qual merito~, quasi dicat:
+nullum meum meritum, |o qual grazia~, quasi dicat: sola divina
+gratia, |mi ti mostra~, in isto loco solitario? |dimmi, se vien
+d'inferno~; audiverat enim jam Sordellus a Virgilio quod
+perdiderat coelum defectu fidei; ideo non poterat esse in
+purgatorio.  Et dicit in speciali: |e di qual chiostra~, idest,
+de quo circulo, quia nimis videretur indignum si esset positus in
+loco tenebrarum qui illuminavit tantum mundi: et nimis se
+humiliat, dicens, |s'io son degno d'udir le tue parole~; quae
+meruerunt audientiam principum, imo extorserunt lacrymas Augusto
+dignissimo principi totius orbis.  
+
+	|22-27.  Per tutti.~  Hic poeta ponit responsionem
+Virgilii ad quaesita Sordelli qui primo respondet ad id quod
+petiverat Sordellus, si veniebat ab inferno.  Dicit ergo: |lui~,
+scilicet, Virgilius sic persuasus, |rispose: io son venuto di
+qua~, scilicet, in purgatorium; et quia ille dixerat de quo
+circulo, ideo dicit, |per tutti i cerchi del dolente regno~,
+scilicet, inferni qui est locus perpetui doloris.  Deinde
+respondet ad id quod primo petiverat Sordellus, scilicet, quae
+gratia; et dicit: |vert@u del ciel~, scilicet, gratia praeveniens
+et subsequens et Beatrix, |mi mosse~, ut ostensum est clare II
+capitulo Inferni, |e con lei vegno~; illa semper juvante et
+custodiente me per loca tam aspera et pericula tanta.  Et quia
+Sordellus posset petere, quid mali fecisti propter quod sis
+damnatus, dicit Virgilius: |ho perduto di veder l'alto sol~,
+scilicet, solem justitiae, Deum, qui est altior sole sensibili,
+et omni corpore super coelesti, |che tu disiri~, idest, quem tu
+desideras cum certa spe videndi, ego vero sine spe; |e che fu
+tardi per me conosciuto~, quia scilicet solum post mortem,
+scilicet quando Christus spoliavit limbum, quando non erat
+amplius poenitentiae locus pro Virgilio, |non per fare~, scilicet
+peccata, quia scilicet peccata mea non demersissent me in
+infernum, quorum poenituissem si habuisem fidem, |ma per non
+fare~, scilicet, opera meritoria. 
+
+	|28-30.  Loco~.  Hic Virgilius, dicto quomodo transivit
+per omnia loca inferni, tangit locum sua; residentiae in inferno,
+dicens: |Loco~, scilicet, limbus, |@e l@a gi@u~, scilicet, in
+inferno, |non tristo da mart@iri~, quia ibi non habemus poenam
+sensus, sed poenam damni, quia sumus privati visione Dei; unde
+dicit: |ma solo di tenebre~, idest, solummodo tristis tenebris:
+sed contra poeta describit hunc locum IIII capitulo Inferni
+luminosum et clarum, hic vero dicit ipsum tenebrosum.  Dici
+potest, quod poeta non loquitur hic singulariter de loco virorum
+illustrium semoto, sed de toto circulo limbi; vel dic et melius
+quod omnis illa lux damnatorum est tenebra respectu lucis
+salvandorum; et declarat qualitatem illius loci, dicens: |ove i
+lamenti non sonan come guai~; quia ad poenam sequitur dolor et
+planctus, |ma son sospiri~, quia ad desiderium sequitur
+suspirium; isti ergo suspirant videre Deum.  
+
+	|31-36.~  Et subdit Virgilius societatem quam habet in
+dicto loco, ne forte Sordellus putaret ipsum stare solitarium,
+sicut et ipse stat; et vult dicere breviter quod in limbo illo
+sunt duo genera personarum, scilicet, parvuli innocentes, et viri
+virtuosi pagani.  Dicit ergo bene: |quivi sto io coi parvuli
+innocenti~, qui non peccaverunt actualiter, quia non habebant
+adhuc electionem, |morsi dai denti della morte~, idest,
+crudeliter praeventi in tenera aetate a morte acerba; et audi
+quomodo: |avante che fosser esenti~, idest, antequam essent
+liberati, |dall'umana colpa~, idest, a peccato originali.  Et hic
+nota quod peccatum originale est illa macula quam primo contrahit
+anima, quando unitur corpori ex anima corrupta per peccatum primi
+parentis, quo tota massa posteritatis fuit infecta; quia prima
+caro fuit rebellis Deo, ideo non est habilis ad recipiendam
+gratiam viatorum et justorum, nisi primo reconcilietur Deo,
+abluta sorde per baptismum, sicut olim reconciliabatur per fidem
+parentum et per circumcisionem.  Et tangit aliud genus hominum,
+dicens: |quivi sto io con quei~, scilicet philosophis et poetis
+paganis, |che non si vestiro le tre sante vert@u~, scilicet,
+fidem, spem, caritatem; quae virtutes divinae sunt christianorum
+tantum, |e conobber l'altre~, scilicet, quatuor morales,
+scilicet, prudentiam, justitiam, fortitudinem, temperantiam;
+|senza vizio~, quantum est possibile homini posito extra gratiam
+fidei, |e seguir tutte quante~, sicut jam satis dictum est primo
+capitulo huius libri.
+
+	|37-39.  Ma se tu sai o puoi.~  Ista est secunda pars
+generalis, in qua poeta describit magna arte locum virorum
+illustrium christianorum, qui impediti circa curam aliorum, non
+recordati sunt suae salutis nisi in morte; sed antequam veniat ad
+istam descriptionem Virgilius petit a Sordello de via breviori
+purgatorii ad quod appropinquabant.  Dicit ergo: satis dixi tibi
+quis sim, et unde venerim, et quomodo: |ma se tu sai o puoi~, hoc
+dicit, quia nesciebat si iste quem invenerat quiescentem et
+solitarium, erat solitus ascendere superius; |da' noi alcuno
+indizio~, si non potes vel non vis venire nobiscum, |perch@e venir
+possiam pi@u tosto~, quia expendi plus temporis tecum quam
+putabam, |l@a dove il purgatorio ha dritto inizio~, idest, portam. 
+
+	|40-42.~  Et statim ponit responsionem illius dicens:
+|rispose~, ille Sordellus: |loco certo non m'@e posto~; juxta
+illud Virgilii: ^Nulli certa domus, lucis habitamus opacis~,
+|licito m'@e andar suso ed intorno.~  Et hic nota quod ista
+responsio Sordelli videtur competere omnibus confinatis,
+tardantibus poenitentiam, qui non tenuerunt viam certam virtutis,
+quae ducit ad felicitatem, sed iverunt vagando et errando per
+temporalia quae sunt quaedam devia; ideo dicit: |per quanto ir
+posso~, scilicet, usque ad convallem virorum illustrium, |a guida
+mi t'accosto~; ita quod dux Dantis hic invenit ducem dum
+appropinquaret ad locum quo principaliter tendebat.  
+
+	|43-48.~  Et Sordellus dat suum consilium Virgilio,
+scilicet ut provideant de loco idoneo, ubi quiescant in nocte. 
+Dicit ergo: |ma vedi omai come dichina il giorno~, idest, primus
+dies sole jam occidente, quasi dicat, parum possumus amodo
+ambulare in die ista; ideo dicit: |et andar su di notte non si
+puote~, et hoc de natura montis, ut dicetur infra capitulo XXVII
+circa medium; |per@o @e buon pensar di bel soggiorno~, idest, de
+loco ubi quiescamus, sicut faciunt viatores, qui provident sibi
+de bono hospitio adveniente sero; et ideo dicit Sordellus: ne
+perdamus tempus, ducam vos ad locum amoenum, ubi videbitis
+nobilissimam sectam hominum.  Unde dicit: |anime sono a destra~,
+in bona parte, |qua rimote~, idest, in loco nobilissimo
+sequestratae ab omni grege vulgarium hominum; ideo, |se il mi
+consenti, io ti merr@o ad esse~, si faciunt ad factum tuum, |e non
+senza diletto ti fien note.~  Et bene dicit, quia delectabile est
+videre magnificentiam istorum principum, et audire gesta eorum,
+et praecipue poetis, qui habent pro materia describere gesta
+illustrium virorum; et si antiquus poeta paganus Virgilius hoc
+fecit de aliquibus antiquis paganis, quanto justius hic novus
+poeta de modernis christianis?  
+
+	|49-51.  Com'@e ci@o.~  Hic poeta ostendit quomodo
+Virgilius petiverit de causa, quare de nocte non potest iri per
+purgatorium? unde dicit: |risposto fu~, scilicet per Virgilium
+Sordello: |Com'@e ci@o?~ idest, quae est causa? |chi volesse salir
+di notte~, idest, ascendere sursum per purgatorium, |fora egli
+impedito~, scilicet ab aliquo qui habeat custodiam loci, |o ser@ia
+pur perch@e non potesse?~ idest, an hoc solum proveniret ab
+impotentia sua? quasi dicat: an causa istius prohibitionis esset
+a se vel ab alio.  
+
+	|52-57.~  Et ponit responsionem Sordelli ad quaestionem
+suam, dicens: |e 'l buon Sordello in terra freg@o il dito~,
+faciendo unam lineam, |dicendo: vedi, sola questa riga non
+varcheresti~, idest, transire posses, |d{o}po il sol partito.~ 
+Per hoc dat intelligi, quod homo non potest ire ad poenitentiam
+et virtutem, nisi sol divinae gratiae luceat super ipsum.  Et
+assignat causam, quia homo potest habere gratiam quando vult;
+unde dicit: |non per@o ch'altra cosa desse briga ad ir suso, che
+la notturna tenebra~, quasi dicat: sola tenebra peccati est illa
+quae obscurat viam purgatorii homini; ideo dicit: |quella~,
+scilicet, tenebra nocturna, |intriga la voglia~, idest, impedit
+et implicat voluntatem, quia non permittit hominem velle, |col
+non potere~, quia non potest, quod non vult; et sic vide quod
+homo est sibi causa, quia non vult et non potest tendere ad
+virtutem, quia ex libero arbitrio facit sibi tenebram peccati,
+quae privat ipsum lumine solis.  Et Sordellus addit pulcre quod
+homo bene posset descendere aut circumvagari; unde dicit: |ben si
+poria tornar in giuso con lei~, scilicet, cum illa tenebra
+nocturna, |e passeggiar la costa~, idest, ripam, |intorno
+errando~, quasi dicat: bene potest relabi in vitia et vagari per
+illa, |mentre che l'orizzonte tien chiuso il die~; quasi dicat,
+donec duret nox, antequam sol veniat ad orizontem, et faciat
+lucem.  Per hoc dat intelligi, quod homo positus in peccato
+mortali bene potest adhuc descendere, idest peccare aut circuire
+errando, idest, nec plus addere virtutibus.  
+
+	|61-63.  Allora~ Hic poeta ponit deliberationem Virgilii
+post consilium Sordelli, dicens: |Allora il mio signor, quasi
+ammirando~, de natura istius loci, qui non potest adiri nisi de
+die, lucente sole, |disse: menane dunque~, ex quo non potest iri
+de nocte ne perdamus tempus, |l@a dove dici~, scilicet ad locum
+virorum illustrium, |ch'aver si pu@o diletto dimorando~, quasi
+dicat tacite: quando quidem non possumus nunc tendere ad bonum
+honestum virtutis tendamus ad aliquod bonum delectabile vel
+utile, quia multum decorabit materiam nostram consideratio
+istarum animarum clararum, quae gaudent hic tanto privilegio.  
+
+	|64-69.~  Et continuo ostendit qualiter pervenerint ad
+videndum locum promissum, dicens: |poco allungati c'eravam di
+lici~, per hoc praesupponit quod Sordellus duxerat eos versus
+locum, |quand'io m'accorsi che 'l monte era scemo~, idest,
+excavatus, ita quod erat una camera concava plana intra montem,
+|a guisa che i valloni sceman quici~, idest, a simili sicut
+videmus in nostra terra habitabili, quod vallis subiecta vel
+adhaerens monti excavat ipsum montem.  Per hoc autem poeta
+figurat quod isti viri valentes habent locum remotum ab aliis
+spectabilem in loco alto, ad quem Sordellus obtulit se ducturum
+eos; unde dicit: |quell'ombra~, scilicet, Sordellus, |disse: col@a
+n'anderemo~, ostendebat eis locum, |dove la costa face di s@e
+grembo~, idest, sinum et receptaculum in concavitate pulcra, |e
+l@a attenderemo~, idest, ibi expectabimus, |il nuovo giorno~,
+idest, diem sequentem, ita quod hanc noctem expendemus
+delectabiliter circa visionem istorum.  Et hic nota quod poeta
+pulcre fingit quod Sordellus duxerat istos poetas ad videndum
+istos viros illustres, quia fuit homo curialis et curiosus
+investigator et admirator omnium valentum sui temporis et omnium
+virtutes et mores sciebat et referebat.  
+
+	|70-72.  Tra erto.~  Nunc poeta describit nobiliter locum
+istorum illustrium, ut locus correspondeat locato; et primo unam
+violam tortuosam, per quam pervenerunt ad locum residentiae,
+dicens: |un sentier sghembo~, idest, tortuosus vel transversus,
+|era tra erto e piano~, idest, inter montem et planitiem vallis,
+vel dic quod callis ille nec erat erectus nec planus, |che ne
+condusse in fianco della lacca~, idest, in latus dictae costae ad
+quoddam balcium, unde respexerunt vallem, ut paulo post dicetur,
+|l@a dove il lembo~, idest, extremitas, |muore pi@u ch'a mezzo.~  
+
+	|73-81.~  Deinde describit in speciali locum pulcerrimae
+stationis istorum; et quia descripserat locum illustrium
+paganorum IIII capitulo Inferni herbosum et clarum sub divo, nunc
+maiori arte describit locum illustrium christianorum modernorum
+sub tecto montis.  Et est litera fortis et sententia occulta;
+ideo adverte, quod Dantes vult sententialiter dicere, quod hic
+locus erat amoenissimus omnium, quia si quicquid colorum
+delectabilium umquam natura rerum produxit in aliqua parte
+terrarum, totum simul collectum reponeretur intra illam cameram,
+vinceretur a pulcritudine mirabili colorum qui sunt ibi.  Ordina
+ergo literam, et construe sic: |oro e argento fino~, sine mixtura
+aliqua, quorum utrumque habet colorem perfectissimum
+incorruptibilem, |cocco~, coccus, ut scribit Dyascorides, est
+herba ramosa habens in virgis grana rotunda similia lenticulae,
+et dicit Plinius quod est genus ex eo in Athica et Asia nascens
+celerrime in vermiculum se mutans; ex ista herba tingitur pannus
+pulcerrimus rubei coloris, de quo hic loquitur autor; |e biacca~,
+idest, cerussa, quae, ut dicit idem Dyascorides, fit
+multipliciter ex aceto optimo in vase cooperto plumbo et optima
+cerussa est candidissima; ideo per coccum et cerussam intellige
+colorem rubicundissimum, et albissimum; |indico legno~, idest,
+arbor de India, quia in India est multiplex genus arborum
+diversorum colorum, quos est delectabile videre, |lucido e
+sereno~, idest, pulcer color aeris puri sereni, qui est
+delectabilissimus aspectui oculorum, |fresco smeraldo~, lapis
+pretiosus viridis coloris, maxime cum frangitur; omnia haec et
+similia, |posti dentro a quel seno~, idest, aggregata simul intra
+illum locum capacem, concavum, |seria vinto ciascun di color~,
+idest, in colore, |da l'erba e dalli fiori~, quia scilicet color
+mirabilis herbae et florum existentium ibi, erat maior et
+excellentior omnibus coloribus praedictarum rerum, a simili,
+|come il menor @e vinto dal suo maggiore~; quia maius lumen
+offuscat minus.  Aliqui tamen volunt, quod praedicta vocabula
+ponantur ablative in consequentia.  Et subdit poeta, quod ultra
+istam pulcritudinem colorum, ibi erat mirabilis suavitas odorum;
+unde dicit: |non avea pur natura ivi dipinto~, quasi dicat: non
+solum natura posuerat ibi tot et tam varios colores ad
+delectationem visus, |ma vi facea~, ipsa natura, |uno~, scilicet,
+odorem, |incognito~, ideo, non potest describi, |indistinto~,
+propter commixtionem tot odorum, |di soavit@a di mille odori~,
+idest, fragrantia multorum odorum, quo ad delectationem odoratus. 
+Et hic nota quod quicquid poeta fingit de isto loco amoenissimo
+est verum historice et allegorice: primo quia isti reges et
+principes habent palatia alta, adornata, picta variis figuris;
+abundant auro, argento, gemmis, margaritis, et lapidibus
+pretiosis, et utuntur vestibus variis et cibis splendidis mille
+colorum et odorum; similiter habent jocalia, vasa, aromata et
+omnia genera pigmentorum; sed allegorice per istam viriditatem
+florum et suavitatem odorum poeta dat intelligi viriditatem
+florentium operum, et odorem bonae famae et splendorem inclitae
+gloriae istorum.  Nam isti spiritus illustrissimi naturaliter
+viguerunt maiori ingenio et virtute.  De virtuosis enim loquitur
+hic poeta; ideo notanter dixit in litera, quod natura pinxerat
+ibi.  
+
+	|82-84.  Salve.~  Hic poeta descripto loco
+delectabilissimo virorum illustrium, describit cantum
+devotissimum eorumdem, et pulcre fingit quod cantabant illam
+orationem; unde dicit: |quindi~, idest, ex isto gradu, |vidi
+anime~, nobilissimas, |seder in sul verde~, idest, herba
+viridissima, |e in su i fiori~, tot colorum, |cantando: Salve
+Regina~, quae oratio summe convenit istis; primo, quia ista
+oratio cantatur in ecclesia ad completorium, et nunc fiebat sero;
+secundo, quia oratio fit ad Virginem, cuius isti fuerunt devoti;
+tertio, quia ista oratio admonet superbos, qui colunt et
+affectant nimis dominia et imperia temporalia, quibus credunt
+felicitari, et ut humilientur et contemplentur calamitates mundi,
+cum dicit: ^ad te clamamus exules filii Evae.~  Quid ergo de
+muliere nati laetantur et gloriantur regnis in exilio huius
+vitae? et dicit: |che per la valle~, idest, quae animae
+existentes in illa planitie cavata, et concamerata; et sic bene
+convenit id quod dicitur in illa oratione, scilicet, ^in hac
+lacrymarum valle~; licet enim vallis ista sit vestita herbis et
+floribus, et delectabilis coloribus et odoribus, tamen est
+repleta lacrymis et miseriis, |non parean di fuori~, idest,
+perveniebant ad visum meum extra, ita quod Dantes stans extra in
+loco altiusculo videbat illos sedentes et cantantes intra illam
+concavitatem virentem et splendentem.
+
+	|85-90.  Prima che'l poco sole.~  Ista est tertia pars
+generalis, in qua poeta descripto loco convenienti, nunc
+describit singulariter aliquot spiritus illustres modernos, qui
+visi sunt sibi memoria digniores.  Et primo quidem ostendit
+quomodo Sordellus invitaverit Virgilium ad considerationem
+istorum, dicens: |el Mantoan~, scilicet, Sordellus, |che ci avea
+volti~, quia traxerat eos de via recta per unum tramitem
+obliquum, ut jam dictum est, |cominci@o~, supple, dicere Virgilio
+mantuano: |non vogliate ch'io vi guidi~, scilicet nunc, sed
+postea ducam vos, |tra costoro~, tam devote cantantes, |prima che
+'l poco sole omai s'annidi~: erat ergo sol quasi in occasu.  Et
+sic nota quod subtiliter poeta fingit se videre istos tali hora,
+quia non essent hic salvati, nisi quod in occasu vitae
+converterunt se ad solem justitiae; et assignat locum, quare de
+loco illo sint spectandi, dicens: |voi conoscerete meglio gli
+atti e' volti di tutti quanti~, idest, omnium et singulorum, |di
+questo balzo~, idest, stando hic in isto gradu alto, |che accolti
+tra essi gi@u nella lama~, idest, quam si essetis congregati cum
+eis intra illam planitiem cavatam, ad denotandum, quod fama
+istorum interdum magis sonat a longe, quam a prope, juxta illud
+Claudiani: ^minuit praesentia famam.~  
+
+	|91-93.  Colui.~  Hic Sordellus nominat aliquot spiritus
+electiores, et primo principaliorem principem, scilicet unum
+imperatorem.  Ad cuius cognitionem est primo sciendum, quod
+Rodulphus genere germanus, patruus comes Alberti, sua probitate
+factus est dux potentissimus.  Nam acquisivit Sueviam, quae
+vacabat morte ducis Austriae qui fuerat decapitatus simul cum
+Conradino; cuius fecit ducem Albertum filium suum.  Et regnavit
+Rodulphus annis viginti.  Et electus imperator habuit grave
+bellum cum rege Bohemiae potentissimo anno Domini MCCLXXVII; qui
+potentia et opulentia sua indignabatur parere sibi.  Propter quod
+Rodulphus cum magno et forti exercitu ivit contra eum.  Cui rex
+potenter occurrit, et commisso acerrimo proelio inter tam feroces
+gentes, rex Bohemiae acie peremtus est cum magna strage
+bellatorum.  Et sic regnum Bohemiae venit sub jugum Rodulphi. 
+Sed postea fecit pacem cum filio regis mortui, sed fecit ipsum
+venire ad se sedentem in sede per medium luti.  Et illum stantem
+genibus flexis in luto conciliavit sibi, praesentibus omnibus
+baronibus, et dedit sibi filiam in uxorem, et regnum restituit:
+et sic superbum humiliavit, et humiliatum exaltavit die vigesima
+sexta augusti.  Et sic vide, quare poeta ponit ipsum salvum.  Nam
+Rodulphus iste fuit magnanimus, magnificus, justus et pius, sine
+dolo, timens Deum, victor in bello, multum formidatus ab
+alemannis et italicis; et certe si voluisset venire in Italiam,
+sine resistentia erat dominus: ideo autor arguit eum negligentiae
+hic et in praecedenti capitulo.  Ad literam ergo: poeta
+praemittit Rodulphum cunctis, quia habuit principatum romanum,
+quo nullus est altior in orbe christiano; sed arguit eum
+negligentiae, dicens: |colui che pi@u siede alto~, supereminens
+omnibus, quia imperator, |e fa sembianti~, idest, ostendit in
+apparentia, |d'aver negletto ci@o che far dovea~; nam debebat
+venire Romam, ut reciperet coronam imperii, et visitare et
+corrigere Italiam, deinde facere transitum ad recuperandam terram
+sanctam; imo principaliter ad istum finem papa Gregorius X de
+Placentia fecerat ipsum eligi imperatorem.  Quae omnia facere
+neglexit cupiditate potentiae in Germania, ut autor tetigit
+capitulo praecedenti; imo visus est diminuere jura imperii in
+Italia, quia resignavit Bononiam et Romandiolam ecclesiae, papae
+Nicolao de Ursinis.  Ideo dicit: |e che non muove bocca a gli
+altrui canti~, quia dolet et erubescit de negligentia sua, |fu
+Ridolfo imperador~, electus, |che potea sanar le piaghe~, idest,
+partialitates et divisiones, |c'hanno Italia morta~; ita quod
+forte numquam reviviscet, |s@i che tardi per altri si ricrea~,
+idest, reformatur per Henricum imperatorem de Lucimborgo, qui
+licet descenderet cum bono animo, non potuit erigere Italiam, ut
+tactum est in praecedenti capitulo, et tangetur plenius capitulo
+XXX Paradisi.  
+
+	|97-102.  L'altro.~  Hic Sordellus nominat alium,
+scilicet regem Bohemiae, quia fuit gener dicti Rodulphi, et eodem
+tempore, satis magnae virtutis; dicit ergo: |l'altro~, scilicet,
+rex, |che nella vista lui conforta~, sicut confortaverat eum in
+vita, ut perficeret dicta sua debita, |resse la terra~, scilicet,
+Bohemiam, quam describit a fluminibus suis, dicens: |dove l'acqua
+nasce~, scilicet, fluvius Molottus, |che monta in Albia~, idest,
+expressa inferius.  Albia est flumen, quod derivatur ab
+Alamannia, de quo Lucanus in secundo.  Vel secundum aliam literam
+|molta~ a mulgeo, sicut ^monta~ a mungo; vel est ipsum nomen
+fluvii; |et Albia in mar ne porta.~  Est fluvius magnus, qui
+labitur per medium Pragae urbis, ubi imperator habet hodie sedem. 
+Et exprimit nomen et virtutem eius, dicens: |Ottachero ebbe
+nome~; et dicit, quod pater fuit melior filio multum, unde dicit:
+|e nelle fasce fu meglio assai~, idest, in regalibus honoribus,
+|che Vincislao suo figlio Barbuto~, qui tunc regnabat, et habebat
+barbam valde magnam juxta illud: <Est bene barbatus, sub Mercurio
+generatus.>  Vel dic, et verius, quod pater fuit melior in
+infantia, quando ligatus in fasciis vagiebat in cunabulis, quam
+filius postquam fuit juvenis jam barbatus.  Loquitur hyperbolice;
+quod optime probat, dicens: |cui~, idest, quem Vincislaum,
+|lussuria et ozio pasce~, quia adhuc vivebat.  Quae duo vitia
+sunt valde detestabilia in uno vulgari, nedum in rege; nam
+otiositas et voluptas arma sunt hostis antiqui, ad miseras animas
+captivandas.  
+
+	|103-111.  E quel Nasetto.~  Hic Sordellus nominat alios
+duos reges simul.  Ad cognitionem primi oportet hic scire, quod
+multi dicunt, quod iste, qui mortuus est, deflorando lilium, fuit
+bonus Ludovicus Franciae rex, qui bis fecit passagium primo
+contra Soldanum in AEgyptum, ubi fuit captus et dimissus; secundo
+in Barbariam contra Tunitium, ubi amisit magnam partem exercitus
+ex pestilentia, et ipse infirmatus, mortuus est in itinere.  Sed
+nullo modo potest intelligi de praedicto, tum quia non est
+mortuus deflorando lilium, fugiens, tum quia iste fuit vir
+sanctus, et est positus in catalogo sanctorum; ideo non debet
+poni hic in numero negligentium.  Dicendum est ergo, quod potius
+poeta loquitur de filio eius, qui vocatus est Philippus Nasellus. 
+Ideo ulterius debes scire, quod iste Philippus fuit cognatus
+domini Petri regis Aragonum, quia habuit sororem eius in uxorem. 
+Qui audita rebellione Siciliae, quam dictus Petrus eripuerat
+Carolo I patruo ipsius Philippi, juravit facere vindictam de
+proditione, quam fecerat domui Franciae.  Igitur anno Domini
+MCCLXXXIV Philippus, Sancti Ludovici filius, facto magno
+apparatu, cum numeroso exercitu viginti millium equitum et
+octuaginta millium peditum crucesignatorum francorum,
+provincialium, et theutonicorum, cum maximo thesauro recessit de
+Francia cum Philippo et Carolo suo filio, et cum uno cardinali
+legato papae, et ivit Narbonam causa transeundi in Cataloniam
+contra regem Petrum causa subiugandi Aragoniam; de qua Carolus
+filius eius erat privilegiatus ab Ecclesia romana.  Et per mare
+armavit in Provincia centum viginti inter galeas et alia ligna;
+et coniunxit se cum domino Jacobo fratre Petri et inimico, quia
+abstulerat sibi insulam Maioricae, de qua coronaverat Alphonsum
+primogenitum suum.  Anno sequenti recessit a Narbona, et post
+multos labores perveniens in Cataloniam, obsedit civitatem
+Girondae, quam tandem cepit per famem.  Petrus prudenter
+considerans vires regis Franciae, quibus se imparem sentiebat,
+noluit committere se proelio campestri, sed tantum intendebat ad
+impediendum victualia.  Et cum semel posuisset in insidiis,
+occurrente sibi acie electissimorum equitum francorum, rex Petrus
+victus est, et vulneratus in facie cum una lancea, et equo eius
+capto per habenas, ipse probus et providus, non obstante vulnere
+faciei incidit habenas cum ense, et urgens equum calcaribus,
+exivit de pressura et evasit a captura.  Sed non gerens bonam
+curam de vulnere, reversus ad Villamfrancam, post modicum mortuus
+est octava die novembris anno Domini MCCLXXXV, et sepultus
+honorifice in Barcellona.  Philippus autem amisit classem suam,
+quam Rogerius de Loria, valentissimus amiraglius donni Petri,
+veniens de Sicilia, cum classe invasit, et incendit.  Quapropter
+Philippus videns fortunam sibi adversam, cremato navigio, quo
+victualia portabantur, concepit tantum dolorem, quod infirmatus
+est ad mortem.  Ex quo franci compulsi sunt recedere, portantes
+regem eorum infirmantem.  Magna pars exercitus periit fame et
+peste.  Et rex Petrus ante mortem rehabuit Girondam.  Exercitus
+Philippi fugiens pervenit Perpinianum, ubi rex expiravit die
+secunda octobris; et sepultus est apud Sanctum Dionysium.  Deinde
+factus est rex Philippus filius eius, qui agnominatus est Pulcer,
+cum regina Johanna de Novaria uxore sua.  Nunc ad literam: dicit
+Sordellus: |E quel Nasetto~, idest, Philippus Nasellus.  Aliqui
+tamen textus habent: ^Nasuto~, sed male; |che stretto a consiglio
+par con colui~, idest, loquitur cum illo in sensu composito, vel
+|parla~, idest, videtur ibi in sensu diviso; est tamen eadem
+sententia, |c'ha s@i benigno aspetto~; iste erat Guillielmus rex
+Navarrae, filius boni regis Thebaldi, |mor@i fuggendo e
+disfiorando il giglio~; signum regum Franciae, idest, minorando,
+quia Philippus iste fecerat maiorem apparatum contra Aragoniam,
+quam unquam aliquis praedecessorum suorum.  Et istud bellum fuit
+cum maiori amissione hominum et equorum et impensa pecuniarum,
+quam unquam per aliqua tempora in regno Franciae.  Nam rex
+sequens et plures barones fuerunt postea semper in debitis; ideo
+notanter poeta dixit: |e disfiorando il giglio.~  Dicit ergo:
+|guardate l@a come si batte il petto~, dolens de suo infortunio,
+et filio vitioso simul cum praedicto Guillielmo; unde dicit:
+|l'altro vedete~, scilicet Guillielmum praedictum, |c'ha fatto
+alla guancia della sua palma sospirando letto~, quia scilicet in
+gena reclinabat, et pausabat in palma, sicut in lecto, quia ipse
+etiam dolebat de Philippo genero suo vitioso, licet non tantum. 
+Et declarat, qui fuerunt isti duo reges, dicens: |padre~,
+scilicet, Philippus Nasellus, |e suocero~, scilicet Guillielmus
+rex Navarrae, socer Philippi Pulcri tunc viventis, |son del mal
+di Francia~, idest, Philippi Pulcri mali, imo pessimi omnium
+regum francorum; ideo dicit: |sanno la vita sua~, idest, illius
+mali regis, |viziata e lorda~; multa et enormia crimina istius
+Philippi tanguntur infra capitulo XX; ideo dicit: |e quindi viene
+'l duol~, idest, dolor, |che s@i gli lancia~, idest, ferit ad
+vivum.  
+
+	|112-114.  Quel che par.~  Hic Sordellus nominat simul
+duos alios reges modernos occidentis temporaneos, quorum uterque
+fuit valentissimus, et fuerunt in vita hostes acerrimi; scilicet
+donnus Petrus rex Aragonum, et Carolus I cui eripuit Siciliam,
+pro qua mortus est ipse Petrus et Philippus Nasellus, ut patet ex
+jam dictis; et ipse Carolus etiam mortuus quasi in uno anno dicta
+de causa.  Unde debes scire, quod Carolus dum reverteretur de
+Provincia cum magno apparatu ut faceret bellum contra Siciliam,
+reperit filium captum et cum magna classe ivit in Siciliam et
+obsedit Messanam.  Sed in brevi omnibus sibi adverse cedentibus,
+concepit tantum dolorem, qui, ut creditur, fuit causa
+accelerandae mortis.  Nam in brevi postea mortuus est die septima
+januarii, die sequenti post Epiphaniam anno Domini MCCLXXXIIII,
+cum vera poenitentia et contritione, et sepultus est Neapoli. 
+Nunc ad literam: Sordellus describit Petrum praedictum ab habitu
+corporis et animi, scilicet a virtute, et dat sibi in socium
+Carolum praedictum, quem describit ab habitu corporis.  Dicit
+ergo: |Quel che par s@i membruto~, scilicet, Petrus rex Aragonum. 
+Et hic nota, quod iste Petrus fuit valorosissimus et famosissimus
+regum occidentalium suo tempore, strenuissimus in armis,
+formidatus plusquam aliquis regum a christianis et saracenis,
+considerato parvo et paupere regno suo.  Et dat sibi socium
+valentissimum, dicens: |e che s'accorda~, licet in vita
+discordassent, quia modo sunt in loco poenitentiae; ideo
+remiserunt sibi iniurias, |cantando con colui del maschio naso~,
+idest, cum Carolo I, virili valde.  Et hic nota quod iste Carolus
+fuit magnus et membratus, colore oleagino, et magno naso, ferocis
+aspectus, rigidus in justitia, multum vigilans, parum dormiens,
+solitus dicere quod dormiendo perdebatur tantum temporis; cupidus
+regni et pecuniae; probus, alti cordis, audax et constans; verax
+in promissis, tardiloquus, sed factivus, minimum ridens, honestus
+et catholicus, magnus pugil ecclesiae; qui maiora fecisset, si
+non habuisset fortunam adversam in fine, ut dicetur plene
+Paradisi capitulo VIII, |d'ogni valor port@o cinta la corda~,
+idest, quod ille Petrus fuit cingulo militiae decoratus, armatus
+omni scientia belli et disciplina militari.  
+
+	|115-120.  E se re dopo lui.~  Hic Sordellus nominat post
+Petrum filium eius primogenitum, commendans eum, et vituperans
+fratres eius.  Unde dicit: |ben andava il valor di vaso in vaso~,
+idest, et bene transfundebatur virtus de patre in filium, |se lo
+giovinetto, che dietro a lui siede~, scilicet, Alphonsus, |fosse
+rimaso re dopo lui~, idest, supervixisset diutius in regno.  Unde
+nota, quod tempore mortis, Petrus reliquit in testamento
+Alphonsum primogenitum regem Aragoniae, et Jacobum II regem
+Siciliae.  Sed Alphonsus parum vixit post mortem patris; ex quo
+Jacobus II frater successit in regno Aragoniae, et Fridericus III
+frater habuit regnum Siciliae; ideo poeta dicit in improperium
+istorum duorum; |che non si puote dir de l'altro erede~, quod
+probat, quia, |Jacopo e Federico hanno i reami~; quod
+hereditagium est fortuitum; sed |del retaggio miglior nessun
+possiede~, quia neuter istorum duorum possidet de virtute
+paterna; sed Alphonsus virtuosus fuit patri similis et nobilis. 
+Sordellus ex hoc subiungit nobilem sententiam, dicens: |l'umana
+probitade~, idest, virtus, |rade volte risurge~ a radice, |per li
+rami~ sicut a patre in filios; et ratio est quia anima non est a
+trunco, sed a Deo; ideo assignans causam, dicit: |e questo vuole
+quel che la d@a~, idest, Deus, |perch@e da lui si chiami~, idest,
+ut recognoscatur a Deo, non ab alio.  
+
+	|124-126.  Anco al Nasuto.~  Hic Sordellus, quia
+vituperaverat utrumque successorem Petri, degenerantem a paterna
+probitate, nunc reflectit sermonem suum ad socium eius Carolum,
+et dicit: |Anco mie parole~, mordentia, |vanno al Nasuto~, idest,
+ad Carolum praefatum, quem superius descripsit a masculo naso,
+quia habuit magnum nasum et virilem animum, |non men ch'a
+l'altro, Pier~, regem Aragonum, |che con lui canta~, cum tamen
+contenderit secum in vita de regno Siciliae occupato ab eo, et
+vocavit eum proditorem, et provocavit ad singulare certamen.  Sed
+assignato loco et tempore, Petrus non comparuit, allegans locum
+suspectum: hoc autem creditur fecisse sagaci fraude, ut
+interponeret tempus, quo firmaret statum suum in Sicilia, sicut
+fecit.  Vult ergo dicere Sordellus: idem dico de uno herede
+Caroli, quod jam dixi de duobus heredibus Petri; ideo dicit:
+|onde~, idest, a quo Carolo, |Puglia e Proenza gi@a si duole~;
+propter mortem eius, quia heres debilis, scilicet Carolus
+Claudus, successit sibi in regno Apuliae et Provinciae, quorum
+primum Carolus vindicaverat a rege Manfredo, secundum habuerat ex
+dote uxoris, quae fuerat filia Raymundi Beringerii comitis
+Provinciae, ut dicetur plene capitulo VI Paradisi.  
+
+	|127-129.~  Et declarat Sordellus vilitatem heredis
+Caroli per unam comparationem sub litera satis intricata; et vult
+sententialiter dicere, quod Carolus Claudus est tanto vilior
+patre, quanto Petrus Aragonum est melior filiis suis.  Dicit
+ergo: |tanto @e del seme suo minor la pianta~, idest, filius eius,
+qui velut planta descendit ex semine patris, tanto minor est in
+probitate et virtute, |quanto Gostanza~, quae fuerat filia regis
+Manfredi, de qua plene dictum est capitulo III huius libri, |di
+marito ancor si vanta~, idest, gloriatur de meliore marito,
+scilicet, donno Petro valentissimo, |quanto pi@u che Beatrice e
+Margarita.~  Istae duae erant nurus dictae Constantiae, altera
+uxor donni Jacobi, altera donni Friderici, quarum neutra poterat
+gloriari de probo viro, quia, ut patet ex dictis, isti duo
+degenerabant a virtute paterna.  Alii tamen dicunt, quod istae
+duae fuerunt sorores Constantiae, quod non credo.  
+
+	|130-132.  Vedete il re.~  Hic Sordellus nominat alium
+spiritum illustrem Henricum regem Angliae.  Iste fuit filius
+Richardi valentissimi, qui mirabilia fecit strenue contra
+Saladinum; qui Henricus fuit vir bonus, et bonae fidei possessor,
+sed habuit heredem meliorem se per contrarium Petri et Caroli,
+scilicet Adoardum virum valentissimum.  Dicit ergo: |il re de la
+semplice vita~, fuit simplex et purus, sed non strenuus, sicut
+pater et filius, scilicet, |Arrigo d'Inghilterra seder l@a solo~;
+ponit ipsum solum, quia solus fuit simplex in numero regum
+Angliae, qui fuerunt communiter astuti valde; vel quia solitarius
+non gaudebat conversatione hominum, vel quia anglicus: Anglia
+enim angulus terrae est reposita in Oceano occidentali.  Unde
+Virgilius: |Et penitus toto divisos orbe britannos.~   |Questi~,
+scilicet, rex Henricus, |ha ne' rami suoi~, scilicet, Anglia,
+Scotia et aliis insulis, |miglior uscita~, idest, meliorem
+filium, scilicet Adoardum, qui tunc vivebat.  
+
+	|133-136.  Quel che pi@u basso.~  Hic ultimo Sordellus
+nominat ultimum spiritum minoris gradus.  Ad cuius cognitionem
+est sciendum, quod iste fuit Guillielmus marchio Montisferrati,
+vir ferox et crudus, tamen valens et potens, qui fuit aliquando
+capitaneus Mediolani contra Papiam.  Iste anno Domini MCCXC cum
+ivisset cum paucis ad civitatem Alexandriae, Alexandrini ad
+instantiam Astensium, quibus marchio erat inimicus, ceperunt eum
+proditorie, acceptis magnis pecuniis ab Astensibus, qui sunt
+pecuniosiores omnibus italicis, caeteris paribus, quia sunt magni
+usurarii; et mortuus est in carcere praedictorum captivus; imo
+unus civis saltavit crudeliter super corpus defuncti, et cepit
+caput eius cum manibus, et percussit ad terram.  Alexandrini enim
+reputantur homines nimis temerarii in Lombardia, qui
+interfecerunt episcopum suum.  Ego credo, quod civitas facta sit
+ex colluvione variarum gentium, ut dicetur infra capitulo XVIII. 
+Ad literam ergo, dicit Sordellus: |Quel che pi@u basso tra costor
+s'atterra~, ponit eum bassiorem, quia non fuit tantae dignitatis
+et potestatis, sicut praedicti; et si fuit superbus, bene
+humiliatus est in vita et in morte, |guardando in suso~,
+scilicet, ad coelum ex devotione, |@e Guiglielmo Marchese~; iste
+cognominatus est Spata-Longa, |per cui~, idest, propter cuius
+capturam, |et Alessandria~, scilicet, Alexandria della Paglia in
+Lombardia, civitas valde nova, |e la sua guerra~, idest, ipsius
+Alexandriae, |fa pianger Monferrato~, quia spoliatus est domino
+suo, qui mortuus est sine herede masculo, et hereditas pervenit
+ad imperatorem Constantinopolitanum, qui habuit unam filiam
+Guillielmi.  Est autem Monsferratus in finibus Lombardiae
+contrata amoena, habens infinita castella in collibus fertilibus,
+|e il Canavese.~  Contrata est contermina Montiferrato, quae
+clauditur a duobus brachiis fluminis, quod dicitur Dura, a tertia
+parte clauditur Pado, a quarta ab Alpibus, et habet forte ducenta
+castella: quae est etiam valde fertilis; et ipsa similiter plorat
+mortem domini sui.
+
+

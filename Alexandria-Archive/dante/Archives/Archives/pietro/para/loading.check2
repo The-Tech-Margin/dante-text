@@ -1,0 +1,251 @@
+Checking file 01.f
+Warning: Single line indent at line 19
+>>>     ^Stabilisque manens das cuncta moveri:~
+
+Warning: Single line indent at line 81
+>>>     ^Inter victrices hederas tibi serpere lauros.~
+
+Warning: Single line indent at line 88
+>>>     ^Pastores hedera nascentem ornate poetam.~
+
+Warning: Single line indent at line 116
+>>>     ^Sollicitare Deum, Bacchumque avertere Nysa~.
+
+Warning: Single line indent at line 248
+>>>     ^O qui perpetua mundum ratione gubernas.~
+
+Error at line 254: Spaces/Tabs used in paragraph
+>>>     ^Ducis ab exemplo: pulcrum pulcherrimus ipse~
+>>>     ^Mundum mente gerens, similique imagine formans~...
+>>>     ^Tu requies tranquilla piis: te cernere sinis~
+>>>     ^Principium, vector, dux, semita, terminus idem.~
+Checking file 02.f
+Warning: Single line indent at line 135
+>>>     ^Mundum mente gerens~ etc.
+
+Checking file 03.f
+Warning: Single line indent at line 32
+>>>     ^Casta fave Lucina~ etc.
+
+Warning: Single line indent at line 40
+>>>     ^Nequidquam lucis Hecate~ etc.
+
+Warning: Single line indent at line 46
+>>>        ^...Ecate pars ultima nostrae~ etc.
+
+Warning: Single line indent at line 55
+>>>     ^Fons erat illimis nitidis argenteus undis~ etc.
+
+Checking file 04.f
+Warning: Single line indent at line 169
+>>>     ^Natus erat facto pius et sceleratus eodem.~
+
+Checking file 05.f
+Checking file 06.f
+Warning: Single line indent at line 158
+>>>     ^Devotum hostiles Decium pressere catervae.~
+
+Warning: Single line indent at line 162
+>>>     ^Vicit amor patriae, laudumque immensa cupido.~
+
+Warning: Single line indent at line 250
+>>>     ^Jam gelidas Caesar cursu superaverat Alpes,~
+
+Warning: Single line indent at line 255
+>>>     ^Ut notae fulsere aquilae, Romanaquae signa.~
+
+Warning: Single line indent at line 316
+>>>     ^His Caesar, Perusina fames, Mutinaeque labores~ etc.
+
+Warning: Single line indent at line 355
+>>>     ^Ultima funesti concurrant praelia mundi.~
+
+Checking file 07.f
+Checking file 08.f
+Warning: Single line indent at line 50
+>>>     ^Multa super Thebis Bacchum ausuramque Dionem~ etc.
+
+Warning: Single line indent at line 96
+>>>     <Voi che'ntendendo il terzo ciel movete,>
+
+Warning: Single line indent at line 172
+>>>     ^Format enim natura prius nos intus ad omnem~ etc.
+
+Checking file 09.f
+Warning: Single line indent at line 69
+>>>     ^Gurgite cum medio portans Oeagrius Hebrus,~
+
+Warning: Single line indent at line 97
+>>>     ^Hospita, Demophoon, tua te Rhodopeia Phyllis.~
+
+Warning: Single line indent at line 101
+>>>     ^Qua patet umbrosum Rhodope glacialis ad Haemum~.
+
+Warning: Single line indent at line 109
+>>>     ^Incipe, Mopse prior, si quos aut Phyllidis ignes~ etc.
+
+Warning: Single line indent at line 126
+>>>     ^Mundum mente gerens~ etc.
+
+Checking file 10.f
+Warning: Single line indent at line 42
+>>>     ^Ille opifex rerum, mundi melioris origo~ etc.
+
+Checking file 11.f
+Warning: single line paragraph at line 122
+>>>	|100-102.~  Dicendo quomodo ivit in Syriam;
+
+Checking file 12.f
+Error at line 20: First indent not five spaces
+>>>        ^...Varios induta colores~
+
+Checking file 13.f
+Warning: Single line indent at line 17
+>>>     ^Protinus aspicias veniente nocte coronam.~
+
+Warning: Single line indent at line 43
+>>>     ^Vescentes, laetumque choro Paeana canentes~ etc.
+
+Warning: Single line indent at line 47
+>>>     ^Dicite io Paean, et io bis dicite Paean.~
+
+Checking file 14.f
+Checking file 15.f
+Warning: Single line indent at line 54
+>>>     ^Et Venere et caenis et plumis Sardanapali.~
+
+Checking file 16.f
+Warning: Single line indent at line 10
+>>>     ^Nobilitas animi sola est atque unica virtus.~
+
+Warning: single line paragraph at line 17
+>>>	|7-9.~  Et hoc est quod subditur: in tempore perditur.
+
+Error at line 25: First indent not five spaces
+>>>        ^... Summum dictator honorem~
+
+Error at line 101: Tab used in indenting
+>>>	     ^Sobrius aula.~
+Error at line 103: Tab used in indenting
+>>>	|73-75.~  Inde nominat aliquos rusticos tales, in persona
+Error at line 104: Missing indentation
+>>>etiam aliorum, non ad virtuosa civilia et actus proportionatos. 
+Error at line 106: Missing indentation
+>>>quae non congruit suo toti.  Nam cum quilibet homo civis sit pars
+Error at line 108: Missing indentation
+>>>sit bene proportionatus bono communi; nec totum potest bene
+Error at line 110: Missing indentation
+>>>civitatis non est, nisi cives sint virtuosi, maxime illi, quibus
+Error at line 112: Missing indentation
+>>>principis et boni viri.~
+Error at line 114: Tab used in indenting
+>>>	|85-139.~  Nominando per diversa nomina et signa 44
+Error at line 115: Missing indentation
+>>>domos, seu prosapias, quae suo tempore magnae erant mediocres et
+Error at line 117: Missing indentation
+>>>Graeci, Ormanni, Alberici: item illi della Sannella, et illi de
+Error at line 119: Missing indentation
+>>>in loco dicto Porta, ubi illi de Cerchiis venerunt postea de
+Error at line 121: Missing indentation
+>>>portantes columnam varii per armaturam, Sacchetti, Giochi,
+Error at line 123: Missing indentation
+>>>starium Doanae salis minuit false, et ideo adhuc de hoc
+Error at line 125: Missing indentation
+>>>cippo: item Sitii et Arrigucci; item Uberti sua superbia deserti:
+Error at line 127: Missing indentation
+>>>Tosa, Bisdomini et Aliotti, patroni Florentinae ecclesiae
+Error at line 129: Missing indentation
+>>>Peruzzii: item Nerli, illi etiam de Pulcis et de la Bella, et
+Error at line 131: Missing indentation
+>>>cujus commemoratio fit in festo sancti Thomae in Abbatia
+Error at line 133: Missing indentation
+>>>Gherardini eorum consortes; de quibus Amideis fletus Florentiae
+Error at line 135: Missing indentation
+>>>Dominum Bondelmontem renuentem unam de eis, contra suam
+Error at line 137: Missing indentation
+>>>mortuus est: inde et Gebellini expulsi.
+Error at line 139: Tab used in indenting
+>>>	|140-144.~  Et ideo dicit: utinam tu, Domine Bondelmonte,
+Error at line 140: Missing indentation
+>>>stetisses ad Emam flumen manans ejus originis;
+Error at line 142: Tab used in indenting
+>>>	|145-147.~  sed debitum fuit quod esset de eo victima
+Error at line 143: Missing indentation
+>>>facta statuae lapideae Martis ruptae statim supra pontem, qui
+Checking file 17.f
+Warning: Single line indent at line 179
+>>>     ^Dulcis amor patriae... allicit omnes~.
+
+Warning: Single line indent at line 227
+>>>     ^Saepe tulit lapsis succus amarus opem.~
+
+Checking file 18.f
+Warning: single line paragraph at line 13
+>>>	|40.~  Item Judam Machabaeum, filium Mathatiae.
+
+Warning: single line paragraph at line 15
+>>>	|43.~  Item Karolum magnum et Orlandum.
+
+Warning: single line paragraph at line 25
+>>>	|48.~  Item Robertum Guiscardum de Soapia.
+
+Warning: Single line indent at line 34
+>>>     ^Sub Jove temperies, et numquam turbidus aer.~
+
+Warning: Single line indent at line 75
+>>>     ^Aetherea quos lapsa plaga Jovis ales aperto.~
+
+Checking file 19.f
+Warning: single line paragraph at line 3
+>>>	|Proemio.~  <Parea dinanzi a me con l' ali aperte>.
+
+Warning: single line paragraph at line 92
+>>>	|121-123.~  Item superbia regis Scotiae et Angliae.
+
+Warning: single line paragraph at line 94
+>>>	|124-126.~  Item opera mala illius Hispaniae et Bohemiae.
+
+Checking file 20.f
+Warning: Single line indent at line 49
+>>>     ^Est virtus placitis abstinuisse bonis.~
+
+Checking file 21.f
+Checking file 22.f
+Error at line 98: First indent not five spaces
+>>>        ^...Postquam se lumine vero~
+
+Warning: single line paragraph at line 107
+>>>	|142-144.~  Natus Hyperione est Sol.  Unde Ovidius:
+
+Error at line 109: First indent not five spaces
+>>>        ^...Quid nunc, Hyperione nate,~
+
+Warning: Single line indent at line 114
+>>>        ^...Maja genitum demittit ab alto.~
+
+Checking file 23.f
+Checking file 24.f
+Warning: Single line indent at line 26
+>>>     ^Bella quibus populis, quae mutent sceptra cometae.~
+
+Checking file 25.f
+Checking file 26.f
+Error at line 87: First indent not five spaces
+>>>        ^...cadentque~
+
+Checking file 27.f
+Warning: Single line indent at line 93
+>>>     ^Fecit olorinis Ledam recubare sub alis.~
+
+Checking file 28.f
+Checking file 29.f
+Checking file 30.f
+Checking file 31.f
+Warning: Single line indent at line 40
+>>>     ^Nec sequar aut Helicen, aut, qua Tyros utitur, Arcton.~
+
+Checking file 32.f
+Checking file 33.f
+Warning: Single line indent at line 152
+>>>        		DEO GRATIAS.
+

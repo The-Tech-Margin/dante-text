@@ -1,0 +1,44 @@
+	|34.~  ^Anfirao~.  costui fu grande indivinatore et quando el re 
+arastro pose oste a la cit@a de tebe diede per consiglio al decto re 
+che no seguisse quella empresa per@o ch'elli avia veduto la grande 
+destrucion che n'averia.  et volendo el decto re seguire il suo 
+consiglio el decto Anfirao a peticione della sua moglie coro[cto] per 
+denari da llei disse al re ch'elli avia refacta l'arte e ch'elli 
+securamente seguisse la 'mpresa.  per la quale essa andando dentorno a 
+la cit@a en sun uno grande carro questo anfira[o] la terra li s'aperse 
+socto et ruinando gridavano i tebani: o anfirao dove vai.  dove ruini.  
+perch@e lassi la guerra.  facendosene strazio.  cos@i ruin@o fino a 
+minos gi@u nell'inferno.  etc.
+
+	|46 [chiose latine].~  ^s@i s'aterga~.  i.  quod de ventre sunt facta 
+terga.  vel stabat post tergum dicti.  arunca fuit quidam divinator in 
+partibus tuscie [^om.~].
+
+	|61 [chiose latine].~  ^Suso in [i]talia bella giace un laco~.  hi[c] 
+a[u]ctor prospiciens materiam istius mantoe declarat vitam et finem 
+mortis sue ac locum ubi ipsa elegit habitare.  et dicit quod quoddam 
+flumen est ibi quod ibi vocatur benaco qui transit et se derivat in 
+quodam lacu qui est ibi.  qui lacus vocatur lacus garde.  quique lacus 
+spandit se intra dictam civitatem Garde et vallem cammoge.  sen 
+Valcamonice.  et in medio istius lacue garde civitatum sunt confinia.  
+Civitatum Trenti brescie Verone [^om.~].
+
+	|67.~  quel luo[go] si @e uno confine de verona et de trento et de 
+brescia.  si che se tucti e tre i vescovi de le decte cit@a ve fossaro, 
+porrie[n] bendice[re] segnia[re] ciascuno che in quello luogo alora se 
+trovasse.
+
+	|67 [chiose latine].~  ^luogo @e nel metzo~.  etc. in quo quidem lacu 
+est quaedam ripa.  ubi est quoddam nobile castrum vocatum pescheria.  
+et ab inde inferius s. ubi intrat aqua dicti lacus et facit unum flumen 
+vocatum almentzo et istud flumen descendens sic vocatur usque aplicat 
+ad quendam locum et tunc ibi vocatur governolus de mantoanis et deinde 
+intrat in flumen quod vocatur Po.  et totum hoc dicit textus.
+
+	|127 [chiose latine].~  ^Et gi@a ier nocte fu~.  Cum autem auctor 
+incepisset presens opus in medietate mensis marcij.  et tempore marcij 
+prope auroram diey luna est plena et cadat in partibus occidentalibus 
+ubi est yspania et loco hoc non est aliud diem nisi quod in tali hora 
+dies se separat ab eis pro eo quod erant in alio emisperio et 
+succedebat nobis mundanis, qui sumus primo emisperio, et per hoc nota 
+seu intelligitur secundus dies visionis et in inferno.  etc.

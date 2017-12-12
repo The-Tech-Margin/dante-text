@@ -1,0 +1,1061 @@
+From siena@eleazar.dartmouth.edu Mon Oct  7 09:44:56 1991
+Received: by eleazar.dartmouth.edu (5.65D1/4.2)
+	id AA04747; Mon, 7 Oct 91 09:44:47 -0400
+Date: Mon, 7 Oct 91 09:44:47 -0400
+From: siena@eleazar.dartmouth.edu (Janet Stephens)
+Message-Id: <9110071344.AA04747@eleazar.dartmouth.edu>
+To: dante@baker.Dartmouth.EDU
+Status: RO
+
+>From bobh Sun Aug 11 10:27:16 1991
+Received: by eleazar.dartmouth.edu (5.65D1/4.2)
+	id AA18410; Sun, 11 Aug 91 10:27:15 -0400
+Date: Sun, 11 Aug 91 10:27:15 -0400
+From: bobh (Robert Hollander)
+Message-Id: <9108111427.AA18410@eleazar.dartmouth.edu>
+Apparently-To: siena
+Status: R
+
+Benvenuto, INF. 3.97-99: nochier = nocchier
+Daniello,  INF. 3.97-98:    "    =     "
+
+Ciao, Bob
+
+
+From siena Mon Jan 13 11:44:59 1992
+Date: Mon, 13 Jan 92 11:44:56 -0500
+From: siena (Janet Stevens - DDP Adminsitrator)
+To: dante
+Subject: cassinese dates
+Status: R
+
+next load, change date on author.list.1 to 1375[?]
+and REPRELOAD with 1375 date.
+
+Janet
+
+From dante@hopper.dartmouth.edu Wed Sep  2 09:52:29 1992
+Received: by hopper.dartmouth.edu (5.65+D3/4.2)
+	id AA10773; Wed, 2 Sep 92 09:52:21 EDT
+Date: Wed, 2 Sep 92 09:52:21 EDT
+From: dante@hopper.dartmouth.edu (Dartmouth Dante Project)
+Message-Id: <9209021352.AA10773@hopper.dartmouth.edu>
+To: dante@baker.Dartmouth.EDU
+Status: RO
+
+NB: All these files in DOS from WP 4.2.  And note that the ten
+Inferno files each contain a correction, and should be loaded in
+place of what you have got from me--or else indiv. correction can
+be made, as follows: [Please note that many of these are changes
+in verse number, and need to be changed carefully.]
+
+Inf. 6:   33 = 53; 63 = 65
+
+Inf. 9:   5 [1st occurrence] = 3
+
+Inf. 10:  75 [1st occ.] = 73
+Inf. 10.39: "compt@@ae" in place of "compt@@oe"
+
+Inf. 12:  22-25 = 22-23; 85 [1st occ.] = 83
+
+Inf. 15.30: Pataffio in place of Patafaffio
+Inf. 15.112-113: savi.~  Il instead of savi.~ Il [needs a space]
+
+Inf. 19:  19-24 = 19-21
+
+Inf. 20:  73: move up into body of preceding note 70-73, erasing
+          its number since it's contained in the former's range
+Inf. 20.64-66: "Poenae" for "Poenoe"
+
+Inf. 22:  73 = 78; 135 [2nd occ.] = 138
+
+Inf. 24:  152 = 132
+Inf. 24.34-35: "praecinctus" for "proecinctus"
+
+Inf. 31:  122 [1st occ.] = 112; 115-177 = 115-117
+
+That's it.  Ciao, Bob 
+(Verona, 4 August 1992)
+
+PS: editing credit for the entire Andreoli text should read:
+Carrie Prettiman and Robert Hollander, in that order.
+
+From MARCUSC@ACFcluster.NYU.EDU Fri Nov  6 16:25:47 1992
+Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+ <01GQU5HHKDCSA3IK0J@ACFcluster.NYU.EDU>; Fri, 6 Nov 1992 16:12:03 EDT
+Date: 06 Nov 1992 16:12:03 -0400 (EDT)
+From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+Subject: Mistake in text in dbase?
+To: Dante
+Message-Id: <01GQU5HHLPKUA3IK0J@ACFcluster.NYU.EDU>
+X-Vms-To: IN%"Dante@baker.dartmouth.edu"
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7BIT
+Status: R
+
+Just thought I would report what looks like an error in the text of
+the Dante Data base.
+ 
+Scanning under Boccaccio at one point the following is found:
+Boccaccio (1373), ^Inf~. Nota.                    Doc 6 of 2077, Screen 30
+
+
+Vedute le predette cose, avanti che all'ordine della lettura si vegna, pare
+doversi rimuovere un dubbio, il quale spesse volte gi@a @e stato, e
+massimamente da litterati uomini, mosso, il quale @e questo.  Diconoss adunque
+questi cotali: <Secondo che ciascuno ragiona, Dante fu litteratissimo uomo; e
+
+The last two words of the penultimate line appear to be diconss adunque.
+I wonder if diconoss should be dicono or diconosi or diconossi.
+Hoping this observation may be of use
+Clifford Marcus
+
+From siena Wed Nov 11 09:07:45 1992
+Date: Wed, 11 Nov 1992 09:07:45 -0500
+From: siena (Janet Stevens - DDP Adminsitrator)
+To: dante
+Status: RO
+
+>From bobh Fri Aug 30 13:21:01 1991
+Date: Fri, 30 Aug 91 13:20:58 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: varia
+Status: RO
+
+
+Hey, I forgot a sponsor we need to put on welcome screen:
+
+	The David and Lucile Packard Foundation
+
+(yes, that ios the spelling of Lucile she used).  And what about Tom Vance?
+There was a $1K gift from him.  Does he rate (or did we promise) marquis
+space?  Packard gave us $10K, as did AT&T, and really has to be there.
+
+Some Vellutello typos (Smurth's work look very good--I checked some 8
+passsages):
+
+Inf. 12.136-139: Passara quazzo = Passar a guazzo  {yipes!}
+
+Inf. 34.136-139: cose E quindi = cose.  E quindi
+
+Alessio, who is a really good scholar, was absolutely bowled over by
+the DDP and will make urgent appeal to get on from Venice when he goes
+home.  And I, who am a pretty good scholar, am also knocked out by it
+now.  I'm getting lots of stuff I can use in the article I'm trying
+to finish now.  Ciao, Bob
+
+>From bobh Fri Aug 30 13:21:01 1991
+Date: Fri, 30 Aug 91 13:20:58 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: varia
+Status: RO
+
+
+Hey, I forgot a sponsor we need to put on welcome screen:
+
+	The David and Lucile Packard Foundation
+
+(yes, that ios the spelling of Lucile she used).  And what about Tom Vance?
+There was a $1K gift from him.  Does he rate (or did we promise) marquis
+space?  Packard gave us $10K, as did AT&T, and really has to be there.
+
+Some Vellutello typos (Smurth's work look very good--I checked some 8
+passsages):
+
+Inf. 12.136-139: Passara quazzo = Passar a guazzo  {yipes!}
+
+Inf. 34.136-139: cose E quindi = cose.  E quindi
+
+Alessio, who is a really good scholar, was absolutely bowled over by
+the DDP and will make urgent appeal to get on from Venice when he goes
+home.  And I, who am a pretty good scholar, am also knocked out by it
+now.  I'm getting lots of stuff I can use in the article I'm trying
+to finish now.  Ciao, Bob
+
+>From bobh@phoenix.Princeton.EDU Fri Oct 11 20:34:08 1991
+Received: from phoenix.Princeton.EDU by Princeton.EDU (5.65b/2.84/princeton)
+	id AA23679; Fri, 11 Oct 91 18:46:48 -0400
+Received: by phoenix.Princeton.EDU (4.1/1.110)
+	id AA21361; Fri, 11 Oct 91 18:46:45 EDT
+Date: Fri, 11 Oct 91 18:46:45 EDT
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Message-Id: <9110112246.AA21361@phoenix.Princeton.EDU>
+To: bobh@phoenix.Princeton.EDU, siena@baker.Dartmouth.EDU
+Subject: typos
+Status: R
+
+Some Daniello typos:
+Purg. 15.70-75: a(accented) la gr... = e' la gr...
+Purg. 19.1-3: dell diurno = del diurno
+Purg. 19.10-15: delle notte = della notte
+Purg. 28.123-123: il acqua = in acqua
+
+Is your mailing address no longer "Reed Hall"? UPS called to say they
+couldn't find you there.  Please advise (I'm also trying to get your
+new e-mail address for my names file here).
+
+Ciao, B
+
+>From bobh Sun Nov 10 18:59:46 1991
+Date: Sun, 10 Nov 91 18:59:43 -0500
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typo
+Status: R
+
+Lombardi Pr. 21.90 ptoxima = proxima
+
+>From bobh Wed Nov 27 10:39:24 1991
+Date: Wed, 27 Nov 91 10:39:20 -0500
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typo
+Status: RO
+
+A student at PU spotted one:
+Tozer, Purg. 32.25-27: inimutable = immutable
+
+Happy Thanksgiving to you both.  As ever, Bob
+
+>From bobh@phoenix.Princeton.EDU Fri Oct 11 20:34:08 1991
+Received: from phoenix.Princeton.EDU by Princeton.EDU (5.65b/2.84/princeton)
+	id AA23679; Fri, 11 Oct 91 18:46:48 -0400
+Received: by phoenix.Princeton.EDU (4.1/1.110)
+	id AA21361; Fri, 11 Oct 91 18:46:45 EDT
+Date: Fri, 11 Oct 91 18:46:45 EDT
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Message-Id: <9110112246.AA21361@phoenix.Princeton.EDU>
+To: bobh@phoenix.Princeton.EDU, siena@baker.Dartmouth.EDU
+Subject: typos
+Status: RO
+
+Some Daniello typos:
+Purg. 15.70-75: a(accented) la gr... = e' la gr...
+Purg. 19.1-3: dell diurno = del diurno
+Purg. 19.10-15: delle notte = della notte
+Purg. 28.123-123: il acqua = in acqua
+
+Is your mailing address no longer "Reed Hall"? UPS called to say they
+couldn't find you there.  Please advise (I'm also trying to get your
+new e-mail address for my names file here).
+
+Ciao, B
+
+>From bobh Sun Nov 10 18:59:46 1991
+Date: Sun, 10 Nov 91 18:59:43 -0500
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typo
+Status: RO
+
+Lombardi Pr. 21.90 ptoxima = proxima
+
+>From bobh Wed Nov 27 10:39:24 1991
+Date: Wed, 27 Nov 91 10:39:20 -0500
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typo
+Status: RO
+
+A student at PU spotted one:
+Tozer, Purg. 32.25-27: inimutable = immutable
+
+Happy Thanksgiving to you both.  As ever, Bob
+
+>From bobh Wed Feb 12 00:08:39 1992
+Date: Wed, 12 Feb 92 00:08:36 -0500
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: DAniello
+Status: R
+
+I found a card with these Daniello typos on it.  Does that mean I
+never sent 'em to you?
+
+Pg. 15.70-75, fifth line of printed text: a*` = e' la grandezza
+Pg. 19.1-3, 6th line: del diurno (not dell)
+ "  " .10-15, 3rd line: della notte (not delle)
+Pg. 28.121-123: in acqua (not il)
+
+Ciao, Bob
+
+>From bobh Mon Apr  6 10:53:43 1992
+Date: Mon, 6 Apr 92 10:53:38 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typo
+Status: R
+
+
+Mestica, Purg. 26.4-8: il Solo = il Sole
+
+Ciao, Bob
+
+>From bobh Sun Aug 16 14:45:13 1992
+Date: Sun, 16 Aug 92 14:45:12 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: typos
+Status: R
+
+
+Scartazzini	Purg. 6.82	diversl = diversi
+Pietro di Dante Inf. Nota	primcipi = principe
+   "   "   "	Inf. 34. Nota	et de de hac = et de hac
+	{NB: the last two items are in reverse order: Pietro has
+	 primcipi at Inf. 34; de de at opening Nota}
+Guido da Pisa	Inf. 15.70-71 = Inf. 15.69-71 (numbering error)
+Ottimo	first bibliog. screen: Vocabulario = Vocabolario
+Singleton	Par. 1.1:	luppiter = Iuppiter
+   "		Par. 3.2:	metaphorsoriginally: sep. words
+   "		 "   2.3 (the last one is here too, not in 3.2): geius = genius
+
+All for now.  Singleton is in pretty bad shape.  Are you going to have time for
+that?  Or shd. we find someone (if we can?).
+
+what is happening to your job after December?  Can you bring me up to date?
+
+Best, Bob
+
+>From bobh@phoenix.Princeton.EDU Thu Aug 27 19:06:40 1992
+Received: from phoenix.Princeton.EDU by Princeton.EDU (5.65b/2.93/princeton)
+	id AA28910; Thu, 27 Aug 92 19:06:27 -0400
+Received: by phoenix.Princeton.EDU (5.65b/1.112)
+	id AA20717; Thu, 27 Aug 92 19:06:23 -0400
+Date: Thu, 27 Aug 92 19:06:23 -0400
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Message-Id: <9208272306.AA20717@phoenix.Princeton.EDU>
+To: siena@baker.Dartmouth.EDU
+Subject: typo
+Status: R
+
+
+Castelvetro, Inf. 1.31-43: text MAY be scrambled (might be worth a look
+into hardcopy.  It now reads "non lS dimeno";  I ASSUME that shld. read
+"nondimeno";  ciao, Bob
+
+>From bobh Sat Sep  5 20:29:03 1992
+Date: Sat, 5 Sep 92 20:29:02 -0400
+From: bobh (Robert Hollander - DDP PI)
+To: siena
+Subject: Anon. Lomb.
+Status: R
+
+
+I'm sending hard copy back.  Cjecked a few canti; all the wierd
+stuff is in the dition; Kay seems near perfect.  But there's one prob.,
+at least in Purg. I: he spaces wrong.  This can be fixed globally,
+perhaps, as it occurs only after the verse numbers at the beginning
+of "paragraphs."  E.g.,  |1-3.~ Here we go (And not .~  Here we go.)
+
+Clear?  LEt me know if not.  Ciao, Bob
+
+
+From bobh@baker.dartmouth.edu  Wed Dec 16 15:38:33 1992
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA25096; Wed, 16 Dec 1992 15:38:34 -0500
+Date: Wed, 16 Dec 1992 15:38:34 -0500
+From: bobh@baker.dartmouth.edu (Robert Hollander - DDP PI)
+Message-Id: <9212162038.AA25096@baker.dartmouth.edu>
+To: steve@baker.dartmouth.edu
+Subject: whoops
+Status: OR
+
+
+That typo shd be corrected to "conclusione"; sorry.  Bob
+
+
+From steve@baker.dartmouth.edu  Sat Jan  9 22:45:26 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA22412; Sat, 9 Jan 1993 22:45:26 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA28412; Sat, 9 Jan 93 22:44:35 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15294; Sat, 9 Jan 1993 22:43:15 -0500
+Date: Sat, 9 Jan 1993 22:43:15 -0500
+Message-Id: <9301100343.AA15294@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: steve@baker.dartmouth.edu
+Subject: two things
+X-Original-Date: 5-APR-1992 20:07
+Status: OR
+
+Only the first of which regards you, Steve.  When one searches hits
+in context, the text of the poem still shows up on a "prose line"
+format, not as indented tercets, as they do in "f" mode.  Can you
+fix this?
+
+Janet, some typos/queries:
+
+Lombardi, Purg. 26.77-78: Pe 'l medesimo: should that be "Per"?
+
+Portirelli, Purg. 26.76-81, screen 3: curruna: is that Latin ok?
+	(I don't know the word; might it have been "carmina"?)
+
+Scartazzini, Purg. 26.82: neformassero = ne formassero
+
+Gues what canto I've been working on today.
+
+Ciao, Bob
+
+cc: SIENA
+
+
+From steve@baker.dartmouth.edu  Sat Jan  9 23:14:27 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA22620; Sat, 9 Jan 1993 23:14:27 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA28538; Sat, 9 Jan 93 22:45:11 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA15437; Sat, 9 Jan 1993 22:43:46 -0500
+Date: Sat, 9 Jan 1993 22:43:46 -0500
+Message-Id: <9301100343.AA15437@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: steve@baker.dartmouth.edu
+Subject: test
+X-Original-Date: 15-DEC-1992 18:22
+Status: OR
+
+Here's a typo.  LEt's see if you get it OK.  My plan would be for you to
+hold these and assemble for a reloading (unless you can do things on
+individual bases, from time to time).  I'll send copies to me as well,
+and collect 'em as a control.
+
+Trucchi, Purg. 28.37-42 (screen 5): conclusine = consclusione
+
+Greetings, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:57:06 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23128; Sun, 10 Jan 1993 12:57:06 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24402; Sun, 10 Jan 1993 12:55:48 -0500
+Date: Sun, 10 Jan 1993 12:55:48 -0500
+Message-Id: <9301101755.AA24402@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 14-FEB-1992 15:43
+Status: OR
+
+Di Siena, inf. 28-134-5: Pitoriensem = Pistoriensem
+Scartazzini, Par. 10.96: suono = suona
+
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:57:06 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23129; Sun, 10 Jan 1993 12:57:06 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24374; Sun, 10 Jan 1993 12:55:47 -0500
+Date: Sun, 10 Jan 1993 12:55:47 -0500
+Message-Id: <9301101755.AA24374@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 11-FEB-1992 18:53
+Status: OR
+
+Hi.  BAck sat some Dante for a chasnnge.  Hope you are both well.
+
+Lombardi, Prg. 23.46-48: stroia = storia
+Scartazzini, Pg. 23.48 (4th screen) sue sonetti = due sonetti
+
+Ciao, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:57:06 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23130; Sun, 10 Jan 1993 12:57:06 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24377; Sun, 10 Jan 1993 12:55:47 -0500
+Date: Sun, 10 Jan 1993 12:55:47 -0500
+Message-Id: <9301101755.AA24377@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 14-FEB-1992 12:17
+Status: OR
+
+Scartazzini, Par. 8, 120  AND 26.38 (2 occurrences):
+		Artistotele = Aristotele
+
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:58:10 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23180; Sun, 10 Jan 1993 12:58:10 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04142; Sun, 10 Jan 93 12:57:12 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24457; Sun, 10 Jan 1993 12:55:53 -0500
+Date: Sun, 10 Jan 1993 12:55:53 -0500
+Message-Id: <9301101755.AA24457@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 27-AUG-1992 17:51
+Status: OR
+
+Boccaccio, Inf. Nota: 	lncomincia = incomincia
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:58:10 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23179; Sun, 10 Jan 1993 12:58:10 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04140; Sun, 10 Jan 93 12:57:12 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24454; Sun, 10 Jan 1993 12:55:53 -0500
+Date: Sun, 10 Jan 1993 12:55:53 -0500
+Message-Id: <9301101755.AA24454@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 19-AUG-1992 19:30
+Status: OR
+
+Scartazzini Inf. 32.9	Kansi = Kani
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 12:58:10 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23178; Sun, 10 Jan 1993 12:58:10 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04137; Sun, 10 Jan 93 12:57:11 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24452; Sun, 10 Jan 1993 12:55:52 -0500
+Date: Sun, 10 Jan 1993 12:55:52 -0500
+Message-Id: <9301101755.AA24452@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 18-AUG-1992 15:24
+Status: OR
+
+Lombardi	Par. 13.1-15: qu@i Dante~, = qui Dante,
+    "		 "	"   : 6di = ^di
+Ottimo		Par. 13.4-6 : Matamorphoseos = Metamorphoseos
+
+Ciao, Bob
+
+
+From MAILER-DAEMON@avalon.dartmouth.edu  Sun Jan 10 12:58:17 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23194; Sun, 10 Jan 1993 12:58:17 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04217; Sun, 10 Jan 93 12:57:57 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24517; Sun, 10 Jan 1993 12:57:51 -0500
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AB23150; Sun, 10 Jan 1993 12:57:25 -0500
+Date: Sun, 10 Jan 1993 12:57:25 -0500
+From: MAILER-DAEMON@avalon.dartmouth.edu (Mail Delivery Subsystem)
+Subject: Returned mail: unknown mailer error 1
+Message-Id: <9301101757.AB23150@avalon.dartmouth.edu>
+To: root@baker.dartmouth.edu
+Status: OR
+
+   ----- Transcript of session follows -----
+sh: /usr/local/bin/filter: too big
+554 "|/usr/local/bin/filter -q -o /dev/null"... unknown mailer error 1
+
+   ----- Unsent message follows -----
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23150; Sun, 10 Jan 1993 12:57:25 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24442; Sun, 10 Jan 1993 12:55:50 -0500
+Date: Sun, 10 Jan 1993 12:55:50 -0500
+Message-Id: <9301101755.AA24442@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 15-AUG-1992 19:16
+
+Guido da Pisa, Nota to Inf. (at begining of COmm.):
+screen 7: ficticus (or whatever it says) = fictivus
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:17 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23088; Sun, 10 Jan 1993 12:55:41 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24334; Sun, 10 Jan 1993 12:55:38 -0500
+Date: Sun, 10 Jan 1993 12:55:38 -0500
+Message-Id: <9301101755.AA24334@baker.dartmouth.edu>
+From: ANON02@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 20-AUG-1991 12:44
+Status: OR
+
+Sapegno, Inf. 25.140: Benevenuto = Benvenuto
+Bosco/Reggio, Purg. 16.98-99: Benevenuto = Benvenuto
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:20 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23104; Sun, 10 Jan 1993 12:56:20 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24349; Sun, 10 Jan 1993 12:55:41 -0500
+Date: Sun, 10 Jan 1993 12:55:41 -0500
+Message-Id: <9301101755.AA24349@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 31-AUG-1991 17:36
+Status: OR
+
+The flag date for Bianchi is wrong (and thus so appears in every hit
+in Bianchi).  It shows as 1863 and should be 1868.  Ciao, b
+.\
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:22 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23154; Sun, 10 Jan 1993 12:57:29 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24445; Sun, 10 Jan 1993 12:55:51 -0500
+Date: Sun, 10 Jan 1993 12:55:51 -0500
+Message-Id: <9301101755.AA24445@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: whoops
+X-Original-Date: 15-AUG-1992 19:17
+Status: OR
+
+That error is NOT for the word I put down: poetivus = poeticus
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:24 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23103; Sun, 10 Jan 1993 12:56:22 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24345; Sun, 10 Jan 1993 12:55:41 -0500
+Date: Sun, 10 Jan 1993 12:55:41 -0500
+Message-Id: <9301101755.AA24345@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 30-AUG-1991 14:21
+Status: OR
+
+Mestica, Purg. 24.61-63: ch @e = che @e
+Di Siena, Inf. 28.134-5: Pitoriensem = Pistoriensem
+	{for the latter check orig.; if it is as DDP has it,
+	 add "s" between squiggles: Pi{s}toriensem}
+
+Ciao, B.
+d.
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:27 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23172; Sun, 10 Jan 1993 12:57:47 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04163; Sun, 10 Jan 93 12:57:18 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24496; Sun, 10 Jan 1993 12:55:58 -0500
+Date: Sun, 10 Jan 1993 12:55:58 -0500
+Message-Id: <9301101755.AA24496@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 4-NOV-1992 21:53
+Status: OR
+
+Serravalle, PURG. 27.22-24: propre = prope
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:29 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23169; Sun, 10 Jan 1993 12:57:43 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04157; Sun, 10 Jan 93 12:57:16 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24487; Sun, 10 Jan 1993 12:55:57 -0500
+Date: Sun, 10 Jan 1993 12:55:57 -0500
+Message-Id: <9301101755.AA24487@baker.dartmouth.edu>
+From: ANON02@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 8-OCT-1992 15:50
+Status: OR
+
+Pietrobono, Par.25.9: Benvenutoo = Benvenuto
+
+Ciao, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:33 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23127; Sun, 10 Jan 1993 12:57:06 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24368; Sun, 10 Jan 1993 12:55:45 -0500
+Date: Sun, 10 Jan 1993 12:55:45 -0500
+Message-Id: <9301101755.AA24368@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: Problem
+X-Original-Date: 18-DEC-1991 01:37
+Status: OR
+
+A student using DDP typed in "poeta" and got very few responses.
+It si a word that is frequently in the poem and must occur hundreds
+of times in the comms.  I just tried it and got 19 hits, the
+first in Grandgent.  What's up?  BEst, Bob
+
+cc: STEVE
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:35 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23165; Sun, 10 Jan 1993 12:57:40 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04150; Sun, 10 Jan 93 12:57:15 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24485; Sun, 10 Jan 1993 12:55:56 -0500
+Date: Sun, 10 Jan 1993 12:55:56 -0500
+Message-Id: <9301101755.AA24485@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 20-SEP-1992 04:44
+Status: OR
+
+Casini/BArbi, Par. 31.35: Dante a Roma = Dante e Roma (in the ref.
+to Monti's book by that title).
+
+Ciao, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:38 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23167; Sun, 10 Jan 1993 12:57:43 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04165; Sun, 10 Jan 93 12:57:19 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24494; Sun, 10 Jan 1993 12:55:58 -0500
+Date: Sun, 10 Jan 1993 12:55:58 -0500
+Message-Id: <9301101755.AA24494@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 31-OCT-1992 12:08
+Status: OR
+
+Serravalle, Purg. 26.127-132: at the end of this doc. appears the number for
+the next doc.: "|133-135.~"  I'll bet that's missing from there.  Please
+adjust accordingly.  Thanks, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:40 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23101; Sun, 10 Jan 1993 12:56:12 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24340; Sun, 10 Jan 1993 12:55:40 -0500
+Date: Sun, 10 Jan 1993 12:55:40 -0500
+Message-Id: <9301101755.AA24340@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: DDP welcome screens
+X-Original-Date: 30-AUG-1991 13:29
+Status: OR
+
+Hi.  Janet, I think the Packard credit should go last, centered in a line
+to itself under AT&T line.  
+
+What I'm wondering is couldn't we put the dates (dervied from those
+that appear alongside each comm's name in the database) next to the
+names?  Now that we've got two screens worth, there _is_ room. And I
+think neophyte users really need some chronological help.
+
+Best, B
+
+cc: STEVE
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:42 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23094; Sun, 10 Jan 1993 12:55:48 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24342; Sun, 10 Jan 1993 12:55:40 -0500
+Date: Sun, 10 Jan 1993 12:55:40 -0500
+Message-Id: <9301101755.AA24342@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: info screen
+X-Original-Date: 30-AUG-1991 13:37
+Status: OR
+
+Shouldn't we set up an info screen after the comms are listed doing
+the following:
+
+1) pointing to help feature for aid in formulating searches;
+
+2) describing facilities on Baker and whatever we want to say
+about subscription, their costs (at their end);
+
+3) encouraging users to contact us with comments/queries via the
+"Dante function";
+
+4) sying that we now expect to finish the loading of from 55-60
+comms. by Dec. 1992.
+
+Does that make sense?  Ciao, B
+
+cc: STEVE
+
+
+From MAILER-DAEMON@avalon.dartmouth.edu  Sun Jan 10 13:00:45 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23171; Sun, 10 Jan 1993 12:57:47 -0500
+Received: from baker.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA04125; Sun, 10 Jan 93 12:56:47 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24509; Sun, 10 Jan 1993 12:56:42 -0500
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23098; Sun, 10 Jan 1993 12:55:40 -0500
+Date: Sun, 10 Jan 1993 12:55:40 -0500
+From: MAILER-DAEMON@avalon.dartmouth.edu (Mail Delivery Subsystem)
+Subject: Returned mail: unknown mailer error 1
+Message-Id: <9301101755.AA23098@avalon.dartmouth.edu>
+To: root@baker.dartmouth.edu
+Status: OR
+
+   ----- Transcript of session follows -----
+sh: /usr/local/bin/filter: too big
+554 "|/usr/local/bin/filter -q -o /dev/null"... unknown mailer error 1
+
+   ----- Unsent message follows -----
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23086; Sun, 10 Jan 1993 12:55:40 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24331; Sun, 10 Jan 1993 12:55:38 -0500
+Date: Sun, 10 Jan 1993 12:55:38 -0500
+Message-Id: <9301101755.AA24331@baker.dartmouth.edu>
+From: ANON02@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 20-AUG-1991 12:41
+
+I'm on the Baker exper. DDP which is FANTASTIC except that, as I've
+told Steve, we're not getting hit in text of poem at the start of
+LINE searches (it bypasses poem and goes staright to comms.).  Now
+that I've got a few days to do my own work[!], I am dazzled by the
+new speed and greater power of the expanded data base.  It is an
+incredible tool.  I can't understand how more dantisti aren't
+using it.  Their problem.
+
+TYPO:
+
+Daniello, Inf. 10, 52{?}-63: Eeneid = Aeneid
+
+Ciao, Bovb
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:00:47 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23152; Sun, 10 Jan 1993 12:57:26 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24481; Sun, 10 Jan 1993 12:55:55 -0500
+Date: Sun, 10 Jan 1993 12:55:55 -0500
+Message-Id: <9301101755.AA24481@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: whoops!
+X-Original-Date: 2-SEP-1992 21:42
+Status: OR
+
+Kevin left us a beauty, which I just discovered the other day in 
+Benvenuto.  At Inf. 18.46-47, the text runs right, follwing vol. 2
+of the Commento at p. 10, up to the phrase suam ad terram, sed...
+Then a page got dropped in from somewhere, beginning "Plato, ^phil-
+osophia~, ait in Phaedone"... and continuing to "ut patebit in
+discursu", where it abruptly switches back to p. 12, "taphora esset
+aliena..."  That first word is (or should be) "MEtaphora," as "me-"
+is the last thing on page 11.  Now, old friend,where did that page go?
+I see that a word from p. 11 is given at his gloss to Inf. 18.64-66:
+"Venetico"; is that where the switch got lost?  In any case, here's
+some detective work for you before the next load.  Cripes, these
+things do happen.
+
+I've got PAR01.AND ready to go for you.  Any day now.
+
+And I plan to check Kay's Anon. Lomb. any day now too.
+
+A bummer: e-mail and snail mail have not elicited a response
+from our buddy Summerthwaite.  Is it time to close down his
+shop?  Cripes, he begged to do this.  I further note that
+Vellutello is a mess, in the sense that where he has not
+found sources, he has left {?????}--a bit distracting.  Any ideas?
+We could just clean out his unanswered questions, leaving the
+ascriptions he has got.  Tell me what you think.
+
+And let me know if you can't find the transposed page of Benvenuto.
+
+Last: you never told me how D'mth expects to replace you, e.g., for
+exactly such moments as these.  With whom should I speak?  The undestanding
+was, I thought, that some piece of a "Siena" would always run the office,
+be able to consult the archive, etc.  Have they cut and run?  A database
+does require some professional attention.  Are they aware of that?  The
+computing chaps cannot handle what I'm talking about.  Do I need to
+drop in on Freedman?  Tell me what you can.
+
+It would be a nice world if folks thought Humanites Computing was in
+fact of some importance.  I also believe in Santa Claus, the Tooth
+Fairy, Bill CLinton's monogamy, and George Bush's altruistic
+visiting of disaster sites.
+
+Sorry to load you up with all of this.  Talk to you. Ciao, Bob
+
+PS What are you up to after December?
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:01:00 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23250; Sun, 10 Jan 1993 13:01:00 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24356; Sun, 10 Jan 1993 12:55:43 -0500
+Date: Sun, 10 Jan 1993 12:55:43 -0500
+Message-Id: <9301101755.AA24356@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 25-SEP-1991 10:33
+Status: OR
+
+G. Di Siena, Inf 29.57: Regitra = Registra
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:01:04 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23256; Sun, 10 Jan 1993 13:01:04 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24362; Sun, 10 Jan 1993 12:55:44 -0500
+Date: Sun, 10 Jan 1993 12:55:44 -0500
+Message-Id: <9301101755.AA24362@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 21-NOV-1991 14:37
+Status: OR
+
+Serravalle, Purg. 27.139-142: liberate = libertate
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:01:11 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23268; Sun, 10 Jan 1993 13:01:11 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24366; Sun, 10 Jan 1993 12:55:45 -0500
+Date: Sun, 10 Jan 1993 12:55:45 -0500
+Message-Id: <9301101755.AA24366@baker.dartmouth.edu>
+From: ANON02@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 29-NOV-1991 11:06
+Status: OR
+
+This is from BobH, trying out the regular folks' mode of accessing
+DDP.  Typo:
+Grabher, Purg. 7.10-21: contenuoto = ? (I'm afraid this one needs
+to be looked up ion the orgicial to be checked).
+
+Ciao, Bob
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:01:14 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23274; Sun, 10 Jan 1993 13:01:14 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24353; Sun, 10 Jan 1993 12:55:42 -0500
+Date: Sun, 10 Jan 1993 12:55:42 -0500
+Message-Id: <9301101755.AA24353@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: siena@baker.dartmouth.edu
+Subject: Thanks
+X-Original-Date: 31-AUG-1991 19:52
+Status: OR
+
+I was going but to send Janet two more typos, but I've been having a WILD
+day on the DDP, finding incredible stuff for a piece I'm writing.  ANd
+it crossed my miond that I wouldn't be doing this except for the efforts
+of a whole lot of people, not the least of whom are you two.  THANKS.
+
+Typos:
+
+Portirelli, Par. 11.95-105 & 17.94-102: mataforicamente = metaforicamente
+
+Ciao, B
+
+cc: STEVE
+
+
+From root@baker.dartmouth.edu  Sun Jan 10 13:02:08 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA23283; Sun, 10 Jan 1993 13:02:08 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA24900; Sun, 10 Jan 1993 13:02:06 -0500
+Date: Sun, 10 Jan 1993 13:02:06 -0500
+Message-Id: <9301101802.AA24900@baker.dartmouth.edu>
+From: ANON03@baker.dartmouth.edu
+To: dante@baker.dartmouth.edu
+Subject: Reinstating account
+X-Original-Date: 20-DEC-1991 15:58
+Status: OR
+
+Account Name:  ddpnino
+           Pwd:  924 SW4SW16
+
+This is my old account info.  Could you re-instate it?  We are
+spending most of next term on the Inferno, and access would be
+greatly appreciated.
+
+Respond to: johnc@m2xenix.psg.com
+
+HJohn M Canino
+924 SW 16th Ave #404
+Portland, OR 97205-1737
+
+
+From root@baker.dartmouth.edu  Tue Jan 12 13:32:01 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA25470; Tue, 12 Jan 1993 13:32:01 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA16838; Tue, 12 Jan 1993 13:25:03 -0500
+Date: Tue, 12 Jan 1993 13:25:03 -0500
+Message-Id: <9301121825.AA16838@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: steve@baker.dartmouth.edu
+Subject: typos
+X-Original-Date: 12-JAN-1993 13:21
+Status: OR
+
+Lombardi	Purg. 29.4-6	giusa = guisa
+Trucchi		ditto		sentimendo = sentimento
+Portirelli	Purg. 29.37-42	Pergaseo = Pegaseo
+
+Ciao, Bob  (I hope this is now working for you)
+
+
+From root@baker.dartmouth.edu  Wed Jan 13 13:31:01 1993
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA26526; Wed, 13 Jan 1993 13:31:01 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA14787; Wed, 13 Jan 1993 13:25:02 -0500
+Date: Wed, 13 Jan 1993 13:25:02 -0500
+Message-Id: <9301131825.AA14787@baker.dartmouth.edu>
+From: BOBH@baker.dartmouth.edu
+To: steve@baker.dartmouth.edu
+Subject: typo
+X-Original-Date: 13-JAN-1993 13:24
+Status: OR
+
+Portirelli	Purg. 29.14-30	chairore =chiarore
+
+
+

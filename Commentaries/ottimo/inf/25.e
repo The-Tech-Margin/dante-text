@@ -1,0 +1,362 @@
+	|Proemio.~  Poi che l'Autore hae trattato di sopra delli
+ladroni sacrileg[h]i, qui intende di trattare di quelli furi, li
+quali imbolarono cose non sacrate; o vero, trattato di sopra
+d'una spezie di ladroni, che non perseveraro in imbolare, a tempo
+a tempo se ne rimasono, qui perseguita dell'altre due spezie; e
+prima di quella spezie, che nell'arte del furare morirono, s@i
+come fece Caccus; qui di quella, che imbolarono a tempo a tempo
+di quivi alla fine di lor vita.  Dividesi questo capitolo in tre
+parti; nella prima parte continuandosi al precedente capitolo,
+discrive la partita di Vanni Fucci, del quale nella fine del
+precedente capitolo scrise; nella seconda parte tratta della
+detta seconda spezie di ladroni, la quale parte comincia quivi --
+^Ed io vidi un Centauro~; nella IIJ parte tratta della IIJ spezie
+quivi -- ^Mentre che s@i parlava~ ec.; e in questa li noma, e fa
+sue trasmutazioni: e per@o che de' furti si tratta, difiniremo che
+@e furto, di quante maniere sono furti, che @e ladro, che @e furo,
+che @e predone.  Furto @e contrattamento della cosa altrui contra
+la volontade del signore d'essa, ed @e di due guise; per@o che @e
+furto manifesto, e furto non manifesto: furto manifesto @e quello,
+collo quale il ladro @e ingiunto prima, che lo conduca l@a dove
+avea pensato di portarlo; non manifesto @e quello, che il ladro
+conduce al luogo della sua intenzione: e per@o secondo ragione
+civile altrimenti @e punito dell'uno, e altrimenti @e punito
+dell'altro.  Ladrone @e colui, che in luogo occulto sta per
+rubare; furo @e quello, che di notte toglie, e di d@i si guarda;
+predone @e quegli, che violentemente, e manifestamente toglie, s@i
+come sono li pirati, cio@e corsali di mare.  E per@o che in questo
+Canto si fa menzione di Caccus, il quale nell'arte sua fu morto
+da Ercule, si pu@o fare quistione: se l'uomo, a cui il ladro
+imbola, puote uccidere il ladro sanza punizione; e pare che s@i,
+per@o che sanza punizione difendendomi, posso ferire, e talora
+uccidere colui che mi fiere, o vuole uccidere, pure che tale atto
+sia manifesto dello ass[olu]to.  Ancora posso uccidere
+l'av@oltero, se io nello avolt@ero pigliandolo, si difende: cos@i
+fia dunque del ladro.  In contrario s'argomenta: a nullo @e lecito
+d'uccidere, eccetto a colui, a cui @e data l'auturitade di
+plubico, s@i come sono li principi, e li magistrati, e rettori
+delle terre; dunque non @e lecito a privata persona d'uccidere il
+ladro.  Ora, a solvere questa quistione, si vole procedere con
+distinzione cos@i: o tu volesti pigliare il ladro per conducerlo a
+rettore che 'l punisse, e quelli essendo armato ti corressi con
+l'armi adosso e ferie, e in questo atto l'uccidessi, non potendo
+altrimenti pigliarlo, e schifare tua morte; o tu il volessi
+uccidere propriamente: nel primo caso @e licito d'ucciderlo; nel
+secondo @e vietato.
+
+	|1-3.  Al fine delle sue parole~ ec.  L'Autore
+continuando questo capitolo al precedente, mostra a questo
+principio quanto questo peccato[re] fu bestiale e iracundo, che
+lev@oe ingiuriosamente le mani contra a Dio, e con le parole
+ingiuri@ose Idio; di che due serpi li si gittarono adosso, come
+nel testo appare.
+
+	|4.  D'allora in qua~ ec.  Prosegue suo poema.
+
+	|10-12.  Ahi Pistoia~ ec.  Qui sgrida l'Autore contra la
+citt@a di Pistoia, dicendo: per lo seme suo reo cos@i dovrebe
+ardere, come arse questo Vanni Fucci nel prossimo precedente
+capitolo.
+
+	|13-15.  Per tutti i cerchi~ ec.  Qui infama questo
+spirito di superbia, dicendo che nullo ne trov@o in Inferno pi@u
+superbo, non eziendio Campan@eo, il quale cadde de' muri di Tebe,
+come @e scritto, capitolo XIIIJ ^Inferni.~
+
+	|16.  Ei si fugg@i~ ec.  Assai @e aperto il testo: ma
+questo Centauro @e Cacco; e pone infra la cagione, perch'elli non
+@e di sopra con li altri Centauri.
+
+	|19-23.  Maremma non cred'io~ ec.  Qui reca a
+comparazione: [non] erano pi@u al suo credere le serpi di Marema,
+a quelle ch'aveva Caccus sopra la groppa; poi sogiugne, e dice
+che sopra le spalle di questo Caccus di drieto dalla co[llo]ttola
+gli era un draco.  Dragone @e il maggiore di tutti i serpenti, o
+vero di tutti li animali che sono sopra la terra, lo quale spesse
+volte dalle spelonche uscito vola in aere; e l'aere per lui si
+commove: elli hae cresta con piccola bocca, e stretti canali
+della gorgia, per li quali trae l'alito, e mette la lingua; la
+forza hae non nelli denti, ma nella coda; e maggiormente col
+percuotere d'essa, che altra guisa nuoce; non hae tossico, ma
+per@o non sono necessari li veleni a uccidere; per@o cui elli lega,
+uccide: dal quale n@e il leofante per grandezza di corpo @e sicuro,
+per@o che nascondendosi circa le vie per le quali li leofanti
+acostumatamente vanno, col nodo della coda lega le gambe a
+quelli, e soffogati li uccide.  Ingene[ra]si in Libia e in
+Etiopia nel maggiore cocimento del caldo; e ottimamente induce
+l'Autore cos@i grande e speluncoso ladro, come fu Cacus.
+
+	|25-27.  Lo mio Maestro disse~ ec.  Qui Vergilio palesa
+il nome di questo ladro, e dove si ridusse con furti, e la
+cagione perch'egli non @e di sopra con gli altri Centauri, e il
+fine suo, il quale fu morto da Ercule.  Questo Cacco fu uno de'
+Centauri, ma forse di minore animo, fece suo ridotto in una
+caverna in sul te[nere] di monte Aventino, tra la marina e
+Pallantea, ch'@e oggi Roma; e quivi spesse volte di persone e di
+bestie, sotto il grande sasso della rocca, fece lago di sangue,
+mangiando, e vivendo occultamente di s@i fatta preda.  Ercule
+tornando con grande preda d'armento dell'Occidente, avendo
+sconfitto il re Gerione, nella campagna del detto monte Aventino
+per pasturarlo per alquanto tempo s@i sogiorn@oe; e Caccus
+continuamente li furava il bestiame.  Ercule, avedendosi che 'l
+suo armento scemava, si diede a pi@u sollicita guardia; poi
+sottilmente cercato, trov@oe che 'l furto era tratto nella caverna
+del monte, nel quale Caccus il traeva per la coda, s@i che non
+parea ch'elli fosse entrato, ma uscito; dopo molti assalimenti
+entr@o nel monte, e con la sua mazza uccise Caccus.  Altri dice,
+che Ercule dolendosi di questo suo armento, ch'imbolato gli era,
+e non sapeva da cui, ricevette per consiglio, ch'egli togliesse
+del rimanente delle sue vacche, e menassele per la contrada, e
+facessele mugghiare, e che se in alcuno luogo fosse nascoso il
+bestiame che gli era tolto, che allora il saprebe, per@o che la
+natura bovina @e di questa condizione, che l'uno risponde
+all'altro.  Seguit@o il consiglio, e trov@o nelle circustanze del
+monte Aventino, che al mugito delle sue vacche era risposto; s@i
+che al fine trov@o il furto e il ladro, e con la mazza percosse
+Cacco; e non fu contento di dargliene tante, ch'egli morisse; ma
+per sfogarsi di lui, poi che fu morto, glie ne porse assai.
+
+	|28-30.  Non va co' suoi fratei~ ec.  Qui pone
+apertamente la cagione, perch'elli non va cogli altri Centauri di
+sopra intorno al lago del sangue dove sono puniti li tiranni,
+capitolo XIJ; e dice, che fue per lo suo furto frodolente, s@i che
+non dee essere punito tra gli bestiali, ma tralli frodolenti.
+
+	|34-37.  Mentre che s@i parlava~... |E tre spiriti venner~
+ec.  Qui induce l'Autore tre altri ladri, e dice che li
+domandarono, Virgilio e Dante, chi elli erano.
+
+	|40-45.  Io non li conoscea~... |Dicendo: Cianfa~ ec.
+Questo testo @e aperto, nel quale l'Autore dice, che non conoscea
+questi tre, ma acca[d]de un caso, che li era rimaso uno di loro
+adrieto, del quale coloro parlaro, e nominarlo Cianfa.  Onde
+l'Autore udendo quello nome, per@o ch'avea conosciuto un cavalier
+de' Donati di Firenze, nome Messer Cianfa, e avevalo udito
+infa[ma]re di questo vizio, disideroso di sapere il vero, fa
+certo segno a Virgilio, perch@e stea atento.
+
+	|46.  Se tu se' or, Lettore~ ec.  In questa parte
+l'Autore rende l'auditore atento, perch'elli intende qui usare
+ogni suo ingegno di poesi[a] in trasmutare una forma in altra;
+alla qual cosa intendendo Ovidio, per@o ch'era molto malagevole,
+dice cos@i: l'animo mio disidera di racontare le forme mutate in
+nuovi corpi: o Dii, siate favorevoli a' miei cominciamenti, per@o
+che voi mutaste quelle.
+
+	|49-63.  Com'io tenea~ ec.  Qui comincia l'Autore alla
+trasmutazione: ora atendi bene, lettore, e udirai nuovo giuoco.
+Un serpente, che [avea] VJ piedi, si lancia dinanzi dell'uno di
+questi IIJ spiriti; con li piedi di mezzo li prese la ventresca;
+con quelli pi@u presso alla bocca li prese le braccia; e li denti
+li ficc@oe [al]la parte di sopra nell'una guancia, e quella di
+sotto nell'altra; li utimi due piedi distese l'uno sopra l'una
+coscia, l'altro sopra l'altra; e [la coda] mandogliele
+distendendo di drieto infino alle reni; e cos@i abarbicati,
+s'apicc@o il serpente con lo spirito, e non parevano due, e non
+parevano pure uno: e cos@i sta questo uno spirito.  Li poeti hanno
+parlato fittiziamente, ed essemplificatamente nelle sue poetrie,
+e hanno usato un modo di parlare, di trasformare quelle persone,
+di cui hanno voluto parlare, cos@i in virt@u, come in vizio; e con
+tali trasformazioni dicono, e narrano con quelli preamboli e
+circumstanzie, che a colorire la materia hanno fatto bisogno: s@i
+come Ovidio, e Lucano trasmutando coloro, li quali non si
+passavano secondo corso umano, ma secondo alcuna stremit@a di
+costumi, li quali trasmutavano in animali, alli quali @e proprio
+atributo quello costume.  Or similmente volle l'Autore
+trasformare li predetti ladri in serpente, a mostrare come tutti
+li suoi abiti, e effetti erano intorno ad imbolare; e pone, come
+@e detto, per allegoria il serpente, a significare il pensamento e
+mala deliberazione del furto: la quale trasformazione @e della
+seconda condizione de' ladri, che non sono abituati a furare; ma
+quando hanno il destro, s@i furano, e poi mai non si pentono, e
+per conseguente diventano serpenti, e mai altro non se ne vede.
+
+	|64-66.  Come procede~ ec.  Qui fa una similitudine
+dicendo, che cos@i non parea costui perfettamente uomo, n@e
+distintamente due; come il papiro d'una candela, quello ch'@e
+dinanzi alla fiamma, che la fiamma, consumando l'umido della
+candela, mette uno fummo nero che viene oscurando il bambagio
+bianco, che n@e bianco pare, n@e nero pare, n@e adiviso l'uno da
+l'altro; e questo @e tosto, come s'aprende.
+
+	|67-68.  Gli altri due riguardavan~ ec.  Qui introduce lo
+smarimento de' due rimasi, e 'l nome di colui che si trasforma,
+il quale chiamano Agnello: fue molto vizioso in imbolare.
+
+	|70-75.  Gi@a eran li due capi~ ec.  Qui procede l'Autore
+a compiere questa trasmutazione; e dice, che gi@a del capo
+dell'uomo, e di quello del serpente era fatto un solo capo; e
+delle due braccia d'Agnello con le due enteriore della bestia si
+feciono solamente due; e cos@i feciono le coscie con le gambe
+posteriori del serpente; e le mezzane s'informarono col ventre, e
+divennero tali membra, che l'Autore dice, che non furono mai
+vedute membra tali.
+
+	|76.  Ogni primaio aspetto~ ec.  Qui @e compiuta questa
+trasformazione d'Agnello, e del serpente.
+
+	|79-93.  Come 'l ramarro~ ec.  L'Autore essemplificando
+dice, che come il ramarro del mese d'Agosto ne' d@i caniculari,
+quando regna quella stella ch'@e chiamata la canicula, che @e della
+natura di Marte, passando d'una siepe in altra va con tanta
+velocitade e leggerezza, che passa com'una folgore, per la
+velenosa caldezza e stemperanza dell'aere; vide un picciolo
+serpentello nero e livido, a modo di colore di pevere, subito
+venire [al]li altri due spiriti, de' quali di sopra @e detto;
+prese l'uno nel bellico, donde prima l'elemento ha la ingenerata
+creatura, e caddeli dinanzi a lui disteso; e proced@e, che lo
+spirito il guat@o, e nulla li disse, ma per lo tosico sbadigliava,
+e il serpente guatava lui, e fumava forte per la bocca, come
+colui per la fedita: mostra che l'uno e l'altro fosse[ro]
+atosicati insieme.  Da sapere @e, che la creatura, infino ch'ella
+@e nel corpo della madre, s@i come ne mostra Avicenna, e chiaro se
+hae nel trattato di frate Gilio de' Romitani ^Della formazione
+del corpo umano~, si riceve nutricamento per lo bellico, e la
+superfluitade getta per li strumenti di sotto, ma per la bocca
+non riceve nulla; e per@o si dee intendere, quando dice |quella
+parte~, del bellico.
+
+	|94-99.  Taccia Lucano~ ec.  Alle parole, che usa qui
+l'Autore, elli pare volere che per Lucano, nella trasmutazione
+che fa di Sabello e di Nasidio, n@e per Ovidio come tocca, come
+Cadmo si convert@i in serpente, e la sua moglie Creusa in fonte,
+non si proced@e cos@i perfettamente, come fa qui.  Lucano nel VIIIJ
+dice, che conducendo Catone per Libia l'oste de' Romani, intra
+gli altri erano questi due, [S]abello e Nassidio.  Ovidio nel
+IIIJ del ^Metamorphoseos~ dice, che quando Cadmo, figliuolo
+d'Agenoro Re, edeficava Tebe, e sentita ne' suoi l'ira della
+crudele Junone, vinto per lo pianto e per l'ordine de' mali, esce
+della sua cittade, s@i come la disventura delli luoghi, e non la
+sua l'offendesse; e men[a]to per molti errori, capit@o con la
+moglie nelli confini illirici, e novellando le loro fatiche,
+disse Cadmo: qui era sagrato quello serpente, che fue passato co
+la mia lancia.  Allora quando uscietti di Sidonia, seminai per la
+terra li denti del serpente; nuovo seme, lo quale se la cura
+delli Idii vendica con cos@i certa ira, io priego ch'io mi dirizzi
+in serpente in lungo ventre.  Ebbe detto, e distesesi in
+serpente; elli sent@ie crescere le squame alla dura cotenna, e
+sent@ie lo nero corpo essere svariato di gialle macchie, e
+inchinevole cadde in sul petto, e le gambe mescolate insieme a
+poco a poco si piegano con tanta sottigliezza, e cos@i si fa
+serpente.  La moglie percotendo con le mani lo ignudo petto,
+grida: o Cadmo, apettami; o disaventurato, dispogliati di queste
+maraviglie; o Cadmo, che @e questo? ov'@e il pi@e tuo, ove il petto,
+e gli omeri? ec.  Quella lisciava lo discordevole collo del
+crestuto serpente, e subitamente ella @e fatta altress@ie serpente. 
+L'alegoria e morale non @e altro a dire, se non che come il
+serpente mangia la terra, e col petto ad essa s'acosta; cos@i
+Cadmo e la moglie amavano le cose terrene, e a esse s'apogiavano.
+
+	|100-102.  Che duo nature~ ec.  Quasi dica, Ovidio e
+Lucano facciano pur d'uno un altro, ma io fo di due nature una, e
+non solo cambio la forma, ma eziendio disposizione di materia,
+ch'@e quella ch'era sotto forma umana, e disposta a ricevere le
+alterazioni umane: io la converto in disposizione disposta a
+ricevere le alterazioni serpentine; e cosi ^e converso~, di
+serpentine umane.  E nota, che s@i come @e malagevole ad imaginare
+che la materia disposta ad una forma d'una spezia, sia in quella
+in tanto disposta a forma d'altra spezia: e questa parlatura
+poetica si @e quella, che impone silenzio a Lucano, e a Ovidio.
+
+	|103-108.  Insieme si risposero~ ec.  Procede l'Autore a
+compiere la trasformazione, e dice che cos@i scontrandosi il fummo
+ch'usc@ia della bocca del serpente con quelo ch'usciva della piaga
+del bellico, il serpente fece dell'una coda due, e lo spirito
+fece delle coscie e delle gambe una coda, e fecionsi un mostro; e
+cos@i uniscono tutti li membri dell'un coll'altro.  D'Aretusa dice
+Ovidio predetto, libro V: @e, dice egli, un braccio di mare tra
+Ciane e Aretusa da Pisa, lo quale richiuso si congiugne con
+strette corna ec.  E poco infra: Aretusa, moglie d'Alfeo, io
+venni qua d'altro paese; Pisa era a me patria, ma io nacqui ad
+Elide.  Io pellegrina abito in Cicilia, questa terra piace a me
+pi@u che niuna altra; io [ho] ora queste case; e se tu domandi,
+perch'io sia mossa del mio luogo: Io fui una parte [delle] ninfe,
+che sono in Grecia, e niuna seppe pi@u studiosamente di me stare
+alle poste del cacciare, n@e tendere reti; di bellezza era molto
+lodata.  Io tornai lassa della selva del monte Stifalide; il
+caldo era, e la fatica avea radoppiato il grande caldo; trovai
+l'acque che si moveano con mormorio chiare infino al fondo; le
+vetrici, e li arbori vi davano ombra.  Io mi bagnava; non so che
+mormorio mi sentii nel mezzo dell'acqua.  Io spaventata fug@io
+nella prossima ripa del fiume; Alfeo mi disse delle sue acque con
+affiocata voce: Aretusa, dove fuggi, ove vai? Io fuggo sanza
+vestirmi, quelli mi seguita, e arde d'amore.  Io sostenni di
+correr infino al monte Orcomene, e A[p]sofida, di quivi ad Eli. 
+Pi@u veloce, ma pi@u faticante di me era quelli; lassa per la
+fatica, chiamo Diana, che mi dea aiuto: la Dea mossa a piet@a
+gitt@o sopra me una nuvola; quelli non vedendomi fue d'intorno
+alla nuvola, e chiama me due volte; lo freddo sudore prese li
+miei assediati membri; le grandi gocciole caggiono di tutto il
+mio corpo, e da qualunque parte io mossi il piede, corre il lago;
+de' capelli cadde la rugiada, e in meno tempo ch'io non te l'ho
+penato a dire, io fui mutata in acqua.  Ma Alfeo ebbe cognosciute
+le [a]mate acque; ed elli lasciata la forma dell'uomo, ch'elli
+avea presa, si volse nelle sue acque, acci@o ch'elli si mescolassi
+meco; ed io atuffata nelle cieche caverne, rotta la terra della
+Dea Diana, sono portata a Ortigia, la quale fu a me graziosa per
+lo sopranome della Dea; e prima mi trasse all'aria.  L'alegoria @e
+questa: ^Alpheos~ appo li Greci, quasi ^Aleifeos~, cio@e luce di
+veritade; ^Aretusa~ {v.97}, quasi ^Aretessa~, cio@e movimento
+d'equitade: adunque che potea amare la veritade, se non equitade?
+ch'@e la luce, se non nobilitade?  Nel senno dell'equitade
+discorre la luce della veritade; sempre imparte dimenticanza di
+mali.  Di questa fonte parla Virgilio, ch'@e in Sicilia, e Solino
+e Cassiodoro; e dice, che quando quelli che la guata sta cheto,
+ch'ella tace; e quando favella, ch'ella bolle.
+
+	|109.  Togliea la coda fessa~ ec.  Pur procede
+convertendo costui in serpente.
+
+	|124.  Quel, ch'era dritto~ ec.  Poi ch'ha compiuto di
+trasformare quello secondo spirito di forma umana in serpentina,
+ora procede a compiere di trasformare il serpente in forma umana.
+
+	|133-134.  E la lingua, ch'avea~ ec.  Qui s@i come
+trasmuta l'altre membra, cos@i fa trasmutazione della lingua;
+intorno alla quale trasmutazione si @e da sapere, che comunemente
+le serpi hanno la lingua forcelluta, e per@o zufolano, o vero
+stufelano, o vero sublano; e li uomini hanno la lingua intera, e
+usano uno atto di sputare, che nol fa altro animale: e per@o dice
+che quello, che si trasmut@o in serpente, andava sufolando, e
+quell'altro drieto a lui parlando sputava.
+
+	|135-141.  L'anima, ch'era fiera~ ec.  Poi ch'ha compiute
+le trasformazioni di questi due, dice: colui, che d'uomo era
+fatto serpente, se ne fugge sufolando a modo di serpente; e
+colui, che di serpente era fatto uomo, li sputava dirieto, e
+vol[segli] le spalle, che prima erano serpentine, ora sono umane;
+e nomin@oe a lui, dicendo: Io voglio, che Buoso corra carpone in
+forma serpentina il suo tempo, come io feci il mio.  Questa
+trasformazione si vole allegorizzare; e a ci@o intendere, @e da
+sapere, che questi non furono ladri continuo, ma per
+interpollazione di tempo; e questo si figura in ci@o, che infino
+ch'elli son ladri, lasciano la forma umana, e prendono la
+serpentina, il cui proprio @e imbolare; e tanto quanto riprendono
+l'umana, e lasciano la serpentina, tanto lasciano l'abito e
+l'atto del furare, e usano ragione; e per@o come questi imbolano a
+tempo, a tempo si contenevano de' furti; cos@i ora serpenti, ora
+uomini paiono; e questa @e vera, e propria allegoria di questa
+trasformazione: e quelli, che se n'and@oe serpente, dimor@o ladro
+da certo tempo di qui alla fine; e l'altro us@o suo furto infino a
+certi tempi, poi se ne astenne di qui alla fine.
+
+	|142-143.  Cos@i vid'io la settima~ ec.  Cosi vidi
+trasformare la VIJ bolgia, cio@e quelli che dentro v'erano; e qui
+prende quello che contiene, per quello che v'@e entro contenuto;
+bene che alcuno dice delle VIJ anime, delle quali fa menzione,
+cio@e di Vanni Fucci, di Caccus, d'Agnello, di Messer Cianfa, di
+Messer Buoso, di Messer Guelfo Cavalcanti, e di Puccio Sciancato;
+e cos@i trasmutava li ladri dalla prima, e seconda, e terza
+condizione.  Questi, ch'@e de' tre che vennero prima, de' quali
+l'uno fu Agnello Brunelleschi, l'altro Messer Buoso Donati, si @e
+Puccio Sciancato de' Galigari; costui non si mut@o: e dice:
+
+	|144.  Avvegnach@e gli occhi miei~ ec.  Quasi dica: gli
+occhi a tanta novitade riceveano confusione, e l'animo
+smarrimento; ma non s@i, ch'io ec.
+
+	|151.  L'altro era quel~ ec.  Questi @e Messer Guelfo
+Cavalcanti, il quale quegli d'uno castello del contado di
+Firenze, nome Gaville, fecero morire, e amara la comperarono; e
+per@o dice, che egli il piangono.
+

@@ -1,0 +1,36 @@
+Return-Path: bobh@Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id AAA30313
+	for <steve@avalon.dartmouth.edu>; Wed, 20 Jan 1999 00:44:54 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id AAA25481
+	for <Steve.Campbell@dartmouth.edu>; Wed, 20 Jan 1999 00:44:52 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 50767 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67432-4405>; Wed, 20 Jan 1999 00:44:28 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id AAA16152
+	for <Steve.Campbell@dartmouth.edu>; Wed, 20 Jan 1999 00:44:14 -0500 (EST)
+Received: from pdp.remote.princeton.edu (comserv7-dialup66.Princeton.EDU [128.112.71.66])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id AAA22479
+	for <Steve.Campbell@dartmouth.edu>; Wed, 20 Jan 1999 00:44:12 -0500 (EST)
+Message-ID: <36A56D46.8F621AEF@princeton.edu>
+Date: 	Wed, 20 Jan 1999 00:44:38 -0500
+From: Robert Hollander <bobh@Princeton.EDU>
+Reply-To: bobh@Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.01 [en] (Win95; U)
+MIME-Version: 1.0
+To: "Steve.Campbell" <Steve.Campbell@Dartmouth.EDU>
+Subject: Campi
+X-Priority: 3 (Normal)
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+I today got from Cornell the botched Purg. file.  Only one hunk, thank
+goodness, had been really blown away: about 15 lines I had to retype. 
+But there is lots of editing to do, weird characters, etc.  I wonder
+what happened (don;t we always).  I _may_ be able to finish before we
+take off.  I will try.  It took me 2.75 hrs. to do the first third or
+so.  Most of the rest looks better, but there are rough patches.  But at
+least we'll get it right.
+
+All the best, Bob

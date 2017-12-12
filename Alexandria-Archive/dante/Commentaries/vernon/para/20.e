@@ -1,0 +1,158 @@
+	|Proemio.~  Incomincia il chapitolo XX dell Paradiso.
+
+	|1-30.~ 
+	^Quando cholui che tutto il mondo alluma~
+^dell'emisperio nostro si disciende~
+^che 'l giorno d'ogni parte si consuma.~
+
+Discritto e nominato l'altore gli re della terra cristiana i quali non 
+seghuirono le vestigie di questo segnio d'aquila il quale @e dato per 
+la iustizia e costoro operarono nella lor vita tutto il contrario.  Ora 
+l'altore intende nomare alquanti re e altri valenti huomini i quali 
+seghuirono le vestigie di questo segnio d'aquila cio@e furono huomini 
+giusti e perfetti e puotesi dividere questo chapitolo in quatro parti 
+gienerali.  In questa prima parte l'altore discrive l'atto che facieano 
+quell'anime a ben fare quel segnio d'aquila e dicie l'altore che a llui 
+incontr@o chome incontra del sole quando egli @e di d@i a noi e ch'egli 
+rilucie in questo nostro emisperio che mentre che noi veggiamo il sole 
+va la sera sotto a noi chos@i cominciamo a vedere apparire le stelle a 
+ppoco a ppoco.  Simile dicie l'altore che incontro a llui che 
+quell'aquila gli favellava che altro non voleva.  E com'ella taque e 
+naschosesi a llui il suo parlare cos@i di presente dicie l'altore a 
+ppoco a ppoco tutte queste anime che facievano quel segnio d'aquila 
+incominci@o a vedere e a udire e a ffare lor festa chome comincia il 
+chapitolo.
+
+	^Poscia che i cari lucidi lapilli~
+^ond'io vidi ingiemmato il sesto lume~
+^puoson silenzio agli angelici squilli.~
+
+Iscrive qui l'altore la similitudine del modo che tenono queste anime 
+sante a quietarsi quando ell'ebono compiuta la loro lalde e che poi 
+egli taciendo sent@i chominciare tra lloro tutti un gra[n] mormorio tal 
+ch'egli per s@e non potea comprendere veruna vocie imper@o che tutte 
+pareano mischiate in una a simile che ffa u[n] ruscielletto d'aqua la 
+quale escha d'un poggio fortemente e percotendo insieme priete picciole 
+e grosse insieme e che per questo perchuotere fanno u[n] nuovo romore 
+udendo da presso.
+
+	^E chome sono all collo della cietra~
+^prende suo forma e ss@i chome al pertugio~
+^della sampognia vento che penetra.~
+
+Poi che ll'altore ha posto silenzio a tutte queste anime sante di stare 
+chete or vuole chominciare di falle parlare e d@a questa comparazione 
+del testo.  Che s@i chome il zufolo che ssi suona conviene ch'abbia 
+prima la nota da cholui che 'l suona e gli atti delle dita i quali si 
+ponghono e lievano in sul buco del zufolo perch@e il suono consuoni 
+agli orecchi degli uditori ci@o cche vuol dire il sonatore.  Simile 
+dicie l'altore che incontro a questa aquila che tutte quelle anime 
+sante chommosse i[n] llei rispuosono la loro vocie per lo collo 
+dell'aquila s@i cche tutte quest'aquile parlarono a una vocie a un'ora 
+e a una medesima volont@a dicievano tutte insieme
+
+	|31-78.~ 
+	^La parte i[n] me che vede e pate il sole~
+^nell'aghuglie mortali incominciommi~
+^or fisamente righuardar si vuole.~
+
+In questa seconda parte l'altore fa che anchora questa aquila gli 
+ricominci a pparlare e a nominagli sei valenti huomini re che ssono 
+i[n] llei principali sopra tutti gli altri e s@i ffa che il maggiore di 
+tutti sia la popilla dell'occhio di questa aquila e gli altri cinque 
+sieno il cerchio dell'occhio.  E questi sei valenti re son questi.  Il 
+primo fa che sia il re Davit questo chome amicho di Dio e pi@u pieno 
+d'ogni virt@u e d'ogne scielenzia ed eciellenzia il mette per popilla 
+dell'occhio.  Chostui fu quello che traslato l'archa del vecchio 
+testamento ch'avea dentro le loro relique fra lle quali v'era la vergha 
+che Iddio diede a Moises per la quale pass@o il Mare Rosso di l@a con 
+tutto il suo popolo.  Ed essendo valichato con tutta la sua giente 
+Faraone seghuendo Moises per dagli morte a llui e al suo popolo ed 
+essendo i[n] mare il re Moises ritocch@o il Mare Rosso cholla detta 
+bacchetta e 'l mare s@i ssi richiuse sopra Faraone e affoghovvi con 
+tutta la sua giente che furono CCC.°M.a Eravi ancora un orcie della 
+manna che Iddio mand@o a Moises quando istette nel diserto col suo 
+popolo.  Il secondo ispirito fu Traiano imperadore di Roma il quale fu 
+giustissimo huomo e ffu cholui ch'andando alla battaglia si gli par@o 
+incontro una donna vedova e si gli domand@o ragione d'un suo figliuolo 
+chome la storia a pieno @e detta adietro.  Il terzo re si @e Ezachia re 
+e profeta il quale essendo vecchio Isaia gli apparve e venne a lui 
+diciendo che gli si apparecchiasse che Iddio il volea chiamare a ss@e.  
+Ezacchia gli chiese di grazia termine quindici d@i per fare penitenza 
+de' suo pecchati e Isaia profeta gli rispuose che Iddio l'avea esaldito 
+e vivette poi quindici anni.  Il quarto fu Ghostantino imperadore di 
+Roma chostui fu il primo imperadore cristiano battezzato per le mani di 
+san Salvestro papa e ffu quel Ghostantino che dot@o la chiesa di Dio.  
+Il quinto fu il re Guillo overo Ghuglielmo il quale fu huomo valoroso e 
+pieno d'ogni virt@u che dir si possa.  Il sesto spirito fu di Rifeo 
+Troiano e secondo iscrive Virgilio questo Rifeo fu compagnio d'Enea 
+quando Troia si perd@e e ffu valentissimo e giustissimo huomo e pieno 
+d'ogni bont@a e somma virt@u e per@o dicie chos@i l'altore nostro.
+
+	|79-129.~ 
+	^Avegnia che i' fossi al dubiar mio~
+^l@i quasi vetro allo color ch'el veste~
+^tempo aspettar taciendo non pat@io.~
+
+In questa terza parte l'altore fa menzione overo muove a questo segnio 
+una quistione e questo segnio d'aquila gliele assolve ed @e questa.  
+L'altore domanda chome Traiano imperadore e chome Rifeo sie messi in 
+questo [cerchio] tra queste anime sante e tra s@i valenti re e profeti 
+conciossiacosach'egli erano quando morirono paghani e secondo la nostra 
+fede eglino debbono essere dannati alle pene dello inferno risponde 
+questo segnio d'aquila cos@i diciendo
+
+	^Regnum cielorum violenza pate~
+^di cald'amore e di viva speranza~
+^che vincie la divina volontate.~
+
+Risponde questo segnio d'aquila all'altore assolvendolo di sua 
+dubitazione e si gli dicie che 'l regnio del cielo @e molte volte 
+isforzato in questo modo che lle costellazioni del cielo costringhono 
+l'uomo tale a lluxuria e tale avarizia tale i[l] ladro e altri chasi e 
+il valente e savio e perfetto huomo ripara a questa fortuna alla quale 
+@e chostretto da quello cotale pianeto e che l'uomo fa s@i cche gli 
+isforza lui cio@e quel tale pianeto di none aoperare quelle cose a cche 
+egli il volle costrigniere di chattive operazioni.  Simile dicie questa 
+aquila la divina podest@a cio@e Iddio s@i ssi pieghe per la charit@a 
+de' valenti e santi amici di Dio conosciendo la virt@u di Dio.  E per@o 
+tu tti maravigli che Traiano e Rifeo sono im paradiso e per@o non te ne 
+maravigliare imper@o che nella loro fine eglino no' morirono paghani 
+anzi perfetti cristiani imper@o che primamente Rifeo Troiano perfetto e 
+fedele e savio huomo si ebbe la fede dello avenimento di Cristo il 
+quale si dovea essere paxionato e con quella fede Rifeo s@i ssi mor@i 
+la quale il fecie salvo conciosiacosach'egli @e di tre ragione fede 
+cio@e il battesimo primo battesimo di sanghue e questo ebbono assai de' 
+martiri di Cristo prima che fossono battezzati d'acqua.  Il secondo si 
+@e battesimo di fiamma cio@e quello dello spirito santo e questo pone 
+che se fosse un paghano il quale subito nell'animo suo perchosso fosse 
+dell'amore di Cristo e in quello egli credesse e allora morisse sanza 
+altro battesimo d'acqua e sarebbe salvo per la misericordia di Dio.  Il 
+terzo battesimo si @e quello dell'acqua il quale noi usiamo ed @e il 
+nuovo cio@e del nuovo testamento.  Rifeo e Traiano imperadore ebbono 
+battesimo della fiamma cio@e di spirito santo paraclito.
+
+	|130-148.~ 
+	^O predestinazion quanto remota~
+^@e lla radicie tua da quegli aspetti~
+^che lla prima chagion non veggon tota.~
+
+In questa quarta parte l'altore fa una appostrofa e laldazione inverso 
+Iddio per queste chose ch'egli ha vedute che veruna persona non debba 
+mai volere giudichare veruno conciosiacosach'io credea che questi 
+fossono dannati e perduti ed eglino sono salvi cio@e Rifeo per credere 
+dell'avenimento e paxione di Cristo e Traiano per gli prieghi di san 
+Greghorio papa il quale pregh@o Iddio per lui ch'era gi@a morto e s@i 
+risucit@o e s@i ssi battezz@o e mor@i fedele cristiano.  E per@o dicie 
+l'altore chos@i per lo giudichare che ffa la giente l'uno l'altro cio@e 
+fa l'altore che 'l dicha quella aquila in questa forma
+
+	^O voi mortali tenetevi stretti~
+^a giudicar che noi che Dio vedemo~
+^non conosciemo ancora tutti gli eletti.~
+
+Per questo parlare altro non vole dire l'altore se non che quello che 
+Iddio vuole che noi veggiamo i[n] lui noi il vedemo ma noi non vedemo 
+il segreto divino n@e non possiamo intendere n@e chognosciere n@e 
+vedere.
+

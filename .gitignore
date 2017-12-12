@@ -1,0 +1,22 @@
+#
+# Ignore the file that the OS X Finder places in directories.
+#
+.DS_Store
+#
+# Ignore the error files from data loading. They are useful
+# but don't need to be archived.
+#
+Commentaries/Errs/
+errs.*
+#
+# Ignore temporary files in the commentary directories.
+#
+*.cdat
+*.tdat
+*.pdat
+
+*.log
+
+*.cld
+*.tld
+*.pld

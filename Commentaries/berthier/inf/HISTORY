@@ -1,0 +1,19 @@
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #199. -stc
+-------------------------------------------------
+Entered on 23 Feb 1999 by dante:
+Fixed typo as per email #201. -stc
+-------------------------------------------------
+Entered on 08 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 22 Mar 2005 by dante:
+Combined intro.e and pro.e into one file named intro.e
+to avoid having a non-unique doc_id in the database.  -stc

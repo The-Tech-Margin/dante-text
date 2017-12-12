@@ -1,0 +1,634 @@
+	Testo e Commento.  -- Canto ricco di tante bellezze che
+il Tommaseo non si perit@o di metterlo a raffronto col V
+dell'Inferno; ma poco popolare perch@e pieno di allusioni
+mitologiche da ristudiarsi nelle favole antiche e di oscure
+allegorie da interpretare.  La principale difficolt@a sta
+nell'interpretazione allegorica del Messo del cielo che scende a
+vincere la resistenza diabolica, e delle figure simboliche nelle
+quali questa resistenza si personifica, le Furie e Medusa.  Due
+allegorie manifestamente collegate, perch@e dal concetto che ci
+facciamo della potenza vincitrice @e facile dedurre quali siano i
+suoi naturali nemici, e, viceversa, conosciuti gli ostacoli @e
+ovvio argomentare quale sia la forza pi@u atta a vincerli. 
+Diciamo subito che le differenze di opinioni non implicano
+contraddizione, se noi ricordiamo che il Poema dantesco @e
+plurisenso.
+
+	Riassumiamo nel seguente specchietto le tre principali
+opinioni.
+
+	Furie: 1o) Superbia.  2o) Violenza e Frode (Ingiustizia). 
+3o) Malizia.
+
+	Medusa: Terrore o dimenticanza.  Eresia.  Incredulit@a.
+
+	Messo del cielo: Mercurio.  Enea.  Angelo.
+
+	Resistenza diabolica: Difficolt@a artistiche.  Ingiustizia
+(Lupa) vinta dall'Imperatore.  Tenebre e peccato senza la Grazia.
+
+	Se ricordiamo l'interpretazione allegorica del I Canto, 
+che deve manifestamente collegarsi con questa, vedremo che tutte
+e tre queste opinioni concorrono alla spiegazione del nostro
+Canto.
+
+	Nel senso letterale il Poeta riconosce le crescenti
+difficolt@a dell'opera sua e la necessit@a dell'ispirazione poetica
+simboleggiata in Mercurio.
+
+	Secondo il senso morale mostra il pericolo del peccatore, 
+gi@a divenuto preda della Lonza (Incontinenza del concupiscibile)
+o del Leone (Incontinenza dell'Irascibile), di divenir preda
+della Lupa, cio@e di cader in violenza od in frode (regno
+dell'Ingiustizia che a questo punto del Poema incomincia) senza
+il soccorso tempestivo della Grazia (Angelo).
+
+	Secondo il senso allegorico si ripete il concetto delle
+difficolt@a che si oppongono alla felicit@a e alla beatitudine
+dell'uomo (Ingiustizia altrui), senza il presidio dell'Impero che
+vinca la Lupa, e che @e qui rappresentato da Enea, in cui
+riconosciamo il ^messo del cielo~: ed @e questa per noi
+l'allegoria principale.
+
+	La complessit@a dell'allegoria rende le immagini alquanto
+meno precise; vedremo ad esempio come dei caratteri del ^messo
+del cielo~ alcuni si convengano piuttosto ad un Angelo, altri ad
+un eroe umano.  Convengono specialmente ad Angelo la
+denominazione di ^Messo del cielo~, l'attributo di ^sante~ dato
+alle sue parole, e il fragor di tempesta che accompagna la sua
+venuta: convengono ad eroe il dire che non ^vola~, ma discende
+l'erta, l'accenno che vien ^senza scorta~, inutile riferito ad
+Angelo, conveniente riferito ad Enea, che conosce il cammino, 
+avendolo altra volta fatto con la Sibilla, e l'aggiunto che
+leggeremo, con ^sembiante d'uomo.~  Di pi@u gi@a vedemmo che il
+messo appare ^di qua~ della porta infernale, cio@e dal Limbo, dove
+appunto Enea si trova con gli altri virtuosi eroi pagani.
+
+	|1-3.~  La poesia delle prime terzine del Canto sta nella
+verace dipintura dello stato d'animo degli attori, maestro e
+discepolo.
+
+	Arrossato in viso per l'ira concepita contro i demoni, 
+vedendo dal colore del viso di Dante, pallido di paura, che le
+sue parole non bastavano per riconfortarlo, Virgilio restringe
+l'ira sua, e riprende il colore naturale.  Notisi l'antitesi tra
+il |pinse~ e |respinse~: Virgilio, il cui atto ricorda quello di
+Enea, <^Spem vltu simulat, premit altum corde dolorem~>
+(^Eneide~, 1, 219), riesce a far scomparire dal suo viso le
+traccie dell'ira, per amore di Dante, |pi@u tosto~ ancora che non
+soglia, come suole, avvenire nei savi; nei quali quell'accendersi
+d'ira @e |novo~, cio@e insolito e raro.  Solo un'ingiuria eccessiva
+poteva commover d'ira Virgilio, e solo una saggezza somma poteva
+reprimere quell'ira giustissima.
+
+	|4-9.~  Ecco l'uomo fatto impaziente dall'attesa, che non
+potendo veder lontano |per~, cio@e a cagione o attraverso la
+nebbia e l'oscurit@a, si ferma, fa della mano imbuto all'orecchio
+ed ascolta; intanto rimane sopra pensieri, non si accorge di
+parlare a voce alta, e parla con frasi incompiute, seguendo il
+rapido succedersi dei suoi pensieri.
+
+	|Punga~ pu@o essere metatesi di ^pugna~, per il comune
+scambio tra ^gn~ e ^ng~ negli antichi, o parola a s@e, nel senso
+di gara, sforzo, contrasto, come ne abbiamo un esempio nel
+Malaspini: <si fecer ^punge~ di farla (Firenze) maggiore e pi@u
+bella e pi@u forte di prima> (^Cron.~, cap. XLV).
+
+	|Tal ne s'offerse~: cio@e Beatrice quando appar@i a
+Virgilio nel Limbo, o forse Enea che nel Limbo, bench@e Virgilio
+non l'abbia detto, si sarebbe offerto di venir in aiuto a un
+bisogno: a questa interpretazione aggiunge probabilit@a la
+ripetizione del pronome |Tal~ dagli ultimi versi del Canto
+precedente: ^Tal che per lui ne fia la porta aperta.~..  |Tal ne
+s'offerse.~
+
+	|Se non.~..: si proposero moltissime integrazioni di
+questa reticenza; la migliore ci par la seguente.  Virgilio fa
+un'ipotesi impossibile, come sogliam fare quando ci troviamo
+dinanzi ad apparenze che parrebbero negar l'evidenza: se non ho
+le traveggole; se non son diventato pazzo; se non ho mal inteso, 
+e via dicendo.  Ma Dante, come tosto vedremo, prende l'ipotesi
+impossibile come allusiva a un possibile impedimento insuperabile
+alla prosecuzione del viaggio.
+
+	Tutto, impazienza, esclamazione, interruzione, cade a
+proposito per dipingere lo stato d'animo di Virgilio; il
+discepolo intanto spia ogni suo atto, non perde una sola delle
+sue parole; ma, turbato com'@e, intende alla peggio
+l'interruzione; fra le parole udite prima, che espressero dubbio, 
+e queste, voglion mostrare fiducia, crede vere quelle sole, e
+queste dettate da piet@a di lui, pi@u che da sicurezza vera di s@e;
+gli si riaffacciano alla mente gli antichi dubbi e fantasmi
+paurosi.  Virgilio poco prima aveva conchiuso: discende di qua
+dalla porta |tal~ per cui la porta si aprir@a, e Dante ora ripensa
+a quella frase che dapprima l'aveva in parte confortato: pensa: @e
+mai possibile che qualcuno scenda dal Limbo? e dovrebbe farsi
+un'eccezione per me?  Sicch@e, per accertarsi e per rompere il
+silenzio, in simili circostanze, sempre impacciante e doloroso, 
+interroga il Maestro, secondo i suoi pensieri.  Ma il Maestro, 
+turbato com'@e, intende a mezzo a sua volta; teme che il discepolo
+abbia perso la fiducia in lui, per lo smacco subito dai demoni, e
+lo creda poco pratico della via dell'Inferno; per cui nella sua
+risposta si dilunga a dimostrare che conosce bene il cammino. 
+Stupenda scenetta, e tanto pi@u mirabile in quanto @e un mezzo per
+farci conoscere altre cose che dobbiamo sapere.
+
+	|10-12.~  Dante ha notato la reticenza: vede bene che le
+ultime parole prounciate da Virgilio furono |diverse~ dalle
+prime: queste di dubbio e quelle di fiducia.
+
+	|13-21.~  Il primo grado |che sol per pena ha la speranza
+cionca~ @e proprio il Limbo, e Dante, insistendo, |questa question
+fec'io~, proprio questa, ricalca sulla chiarezza della sua
+domanda.  Coloro che persistono a credere che il Messo del cielo
+sia puramente un Angelo, qui intendono che Dante vuol accertarsi
+se il Maestro sa bene la via.  Ma a che varrebbe il conoscere la
+via, se non pu@o proseguire?  Dante vuol proprio sapere se qualche
+volta discende qualcuno dal Limbo, come colui da cui ora si
+aspetta il soccorso; e se Virgilio si distender@a sopratutto a
+dimostrare che sa bene il cammino, si @e perch@e egli stesso ha
+frainteso la ^questio~ mossagli dal discepolo.  -- |Incontra di
+rado~, ma qualche volta incontra, risponde Virgilio che |alcuno
+di nui~, abitatori del Limbo, scenda nel basso Inferno.  Poi, 
+rispondendo alla domanda indiretta che aveva sospettato nascosta
+nelle parole del discepolo, Virgilio ci dice le altre cose che
+Dante vuol farci sapere, e cio@e che egli stesso, Virgilio, aveva
+attraversato tutto l'Inferno altra volta, e come e perch@e.
+
+	|22-30.  Ver @e~: si sente che Virgilio si accinge a
+malincuore a parlare di questa sua disgraziata avventura che lo
+rese schiavo del volere d'una maga; le espressioni |congiurato, 
+mi fece entrar~ confermano l'idea d'una violenza patita.
+
+	|Cruda~ @e qui detta Eritone che costrinse Virgilio dopo
+morte a trarre uno spirito dal pi@u profondo cerchio dell'Inferno, 
+e |cruda~ sar@a detta un'altra maga, Manto (^Inf.~, XX, 82), 
+fondatrice della citt@a alla quale Virgilio dovette i natali: si
+direbbe che una strana fatalit@a di magia abbia pesato sul mite
+Poeta in vita ed in morte.  Se non che il secondo viaggio di
+Virgilio per il regno buio, per compiacere la pietosa e santa
+Beatrice, @e quasi in antitesi del primo, e ne @e la
+riabilitazione.  Si comprende adesso perch@e Virgilio non abbia
+previsto l'impedimento alle mura di Dite: quell'altra volta, 
+venendo sotto la protezione d'Eritone, aveva trovato spalancata
+la porta che ora i demoni sbarrano dinanzi all'inviato d'una
+donna del cielo.
+
+	Eritone, maga della Tessalia, @e specialmente ricordata da
+Lucano (^Pharsalia~, VI, 507 e 827), il quale narra che costei
+aveva richiamato in vita un soldato morto in guerra, per far da
+lui predire a Sesto Pompeo, alla vigilia della battaglia di
+Farsalo tra Cesare e Pompeo, quale ne sarebbe stato l'esito. 
+Virgilio non parla mai d'Eritone nelle sue opere; n@e dei rapporti
+di lei con Virgilio si trova altra menzione che questa di Dante. 
+Ma quale scopo si prefisse il Poeta nostro con tale invenzione?
+
+	Per rispondere a questa domanda bisognerebbe sapere quale
+sia lo spirito che Virgilio trasse dal pi@u basso e oscuro luogo
+dell'Inferno per voler della maga.  Orbene: osserviamo anzitutto
+che ci@o avvenne ^poco dopo~ la morte di Virgilio, e, come si
+dichiarer@a meglio in seguito (^Inf.~, XII, 34-39), ^poco prima~
+della morte del Redentore; osserviamo ancora che nel pi@u basso e
+scuro luogo dell'Inferno sta Lucifero maciullando tre soli
+dannati, e ci persuaderemo che il personaggio cui qui si allude
+non pu@o essere che uno di quei tre, e precisamente Bruto II.  Ed
+ecco cos@i chiarircisi l'intenzione duplice di Dante: far
+assistere al Sacrificio divino, in punizione e testimonianza dei
+loro misfatti, i due pessimi peccatori dell'umanit@a, cio@e con
+Giuda, traditore di Cristo, Bruto, traditor dell'Impero voluto da
+Dio; e nello stesso tempo, ricingere quasi di aureola di martirio
+Virgilio, costretto dalla maga Eritone a opera a lui ripugnante, 
+a vendetta della profezia dell'Avvento che, secondo la credenza
+di tanti autori e di Dante (^Purg.~, XXII, 78) egli aveva, sia
+pure inconsciamente, cantato nell'^Egloga~ famosa.
+
+	Secondo la lettera, Virgilio con questo suo racconto vuol
+dimostrare che egli @e giunto fino al punto pi@u basso
+dell'Inferno, il punto pi@u lontano |dal cielo che tutto gira~, 
+cio@e dal Primo Mobile, che avvolge tutti i cieli in movimento e
+d'ogni movimento @e principio: Virgilio ha dunque percorso tutto
+l'Inferno altra volta e pu@o ben dire di saperne il cammino.  E
+per far vedere che lo sa davvero, comincia a descrivere l'entrata
+del basso Inferno, e andrebbe descrivendo tutto quello che ci
+riman da vedere, se Dante, dopo poche parole di lui, non si
+volgesse a guardare ben altra novit@a.
+
+	|31-33.~  Il |puzzo~ che spira dalla palude Stigia alla
+citt@a dolente del basso inferno, allegoricamente riproduce il
+^fetor peccatorum~, e la novit@a che ci insegna Virgilio @e che la
+palude Stigia, soltanto attraversata da Dante, gira tutt'intorno
+le mura di Dite.
+
+	|34-42.~  Virgilio continua a descrivere il restante
+Inferno, ma Dante non ricorda le sue parole.  V'@e forse in questi
+versi e in questo insolito contrasto fra maestro e discepolo un
+cenno alla diversit@a dei due Inferni: nell'Eneide la Sibilla
+descrive ci@o che non pu@o mostrare; nell'Inferno dantesco tutto si
+manifesta, e Dante rimette la descrizione al momento pi@u
+opportuno per non smorzare con ripetizioni la curiosit@a e la
+commozione del lettore.  La scena stessa delle Furie ha nella
+Commedia un ben pi@u ampio svolgimento che nel Poema latino!
+
+	Nel Canto precedente i nemici erano un esercito
+innominato, ^pi@u di mille~; adesso son pochi; ma i nomi, 
+l'ergersi improvviso, |in un punto~, tra i bagliori, in alto, e
+in modo violento, |ratto~; tutti quei serpenti alla cintura e per
+chioma, alcuni stranamente cornuti, come le ^ceraste~, accrescon
+terrore.  I seprenti furono forse suggeriti da Ovidio: <Altro
+crinibus angue sorores> (^Met.~, X, 349), <sedebant; deque suis
+atris pectebant crinibus anguis> (^Met.~, IV, 454).  Stiamo per
+entrare nel regno della malizia, e le Furie dovevano avere una
+duplice natura, serpentina ed umana, secondo la legge da noi gi@a
+annunciata (^Inf.~, VI, 13-15), per simboleggiare la duplice
+depravazione, dell'appetito e della volont@a.
+
+	Le Furie o Eumenidi, figlie dell'Acheronte. <che
+s'interpreta privazione di grazia> (Buti), e della Notte <che
+s'interpreta ignoranza> (Buti), secondo la favola mitologica, 
+eran state date per ancelle a Proserpina, la consorte del Dio
+infernale, Plutone.  I tragici greci ne avevan fatto la
+personificazione delle istigazioni al delitto e dei rimorsi; ma
+Dante non conosceva le ^Eumenidi~ dei Poieti greci.  Egli le
+imit@o dai latini, e forse ne apprese il significato allegorico da
+Fulgenzio, antico commentatore di Virgilio; poich@e anche il Buti
+traduce da Fulgenzio, che spiegava: Aletto, ^impausabilis~;
+Megera, ^magna contentio~; Testifone, ^istarum vox.~
+
+	|43-48.  Erine~ o Erinni @e un altro nome classico delle
+Furie, mentre |meschine~ @e parola toscana del Medio Evo, forse
+derivata dall'ebraico ^Mika~, con significato di ancelle: le
+ancelle di Proserpina.
+
+	|Ben le conobbe~ Virgilio, quantunque descrivendo
+l'Inferno nel VI dell'^Enedie~ non nominasse che Tesifone, <palla
+succinta cruore>, che Dante traduce, estendendolo a tutte tre le
+Furie, ^di sangue tinte~ [v.38}.  Nel VII dell'^Eneide~ poi
+troviamo Aletto che sparge i semi di guerra fra Turno ed Enea.
+
+	Nella protasi del Poema di Stazio, Edipo, dopo essersi
+accecato, lasciando il trono ai figli Eteocle e Polinice, che
+insultarono alla sua miseria e ai gemiti paterni, invoca l'Erinni
+che perseguiti la sua famiglia: Tesifone l'ode e scatena l'odio
+fraterno.
+
+	Dopo aver appena nominate le Furie, Virgilio tace |e
+tacque a tanto~, <come inorridito dopo aver solo accennato a
+quelle empie> (Buti), di cui nel suo Poema aveva fatto s@i rapido
+cenno.
+
+	|49-51.~  Questi versi sono ugualmente presi in appoggio
+della loro opinione da tutti i sostenitori dei vari significati
+allegorici delle Furie, superbia, rimorso, male disposizioni: lo
+stringersi di Dante a Virgilio significa che contro questi nemici
+bisogna armarsi della ragione.
+
+	|52-54.  Riguardando in giuso~, verso Dante, per vedere
+se fosse spaventato delle loro minacce, lo vedono stringersi alla
+ragione, e perci@o chiamano Medusa, la cui vista convertirebbe
+Dante in |smalto~, parola gi@a da noi vista e interpretata (Vedi
+^Commento Inf.~, IV, 106-111), che sembra indicare in Dante la
+vita attiva: Medusa che le Furie invocano, torcerebbe adunque il
+Poeta dalla vita contemplativa, e privandolo della Grazia, lo
+pietrificherebbe, renderebbe vano il lume della ragione: essa
+rappresenta adunque veramente l'Eresia, punita nel primo Cerchio
+di Dite in cui siamo per entrare.
+
+	Medusa @e la terribile Gorgone dal riso enigmatico che
+doveva pi@u tardi rivivere nei capolavori di Leonardo, del Cellini
+e del Canova.  Racconta la favola che Folco, re d'Affrica, gener@o
+da un mostro marino tre figlie, Stenio, Euriale e Medusa, le
+quali, possedendo un solo occhio in tre, se lo prestavano a
+vicenda.  Medusa succedette al padre nel regno, come primogenita, 
+e Nettuno, innamoratosi di lei, se le congiunse nel tempio di
+Pallade.  Sdegnata la Dea di tanta profanazione, mut@o in serpenti
+i bellissimi capelli biondi di Medusa, e decret@o che chiunque la
+mirasse fosse mutato in sasso.  Pi@u tardi Perseo, per consiglio
+della stessa Pallade, che lo mun@i d'uno scudo lucente, affinch@e
+l'eroe potesse veder in quello ritratta la Gorgone senza mirarla
+in viso, la ricerc@o e le mozz@o la testa.  Dal sangue di Medusa
+nacque il cavallo alato Pegaso, sul quale Perseo vol@o presso
+Atlante, che lo ricevette sgarbatamente; ma Perseo, scopertogli
+innanzi agli occhi il volto gorgonico che portava seco come un
+trofeo, lo convert@i nel celebre monte che, secondo le antiche
+favole, sostiene il cielo.  Poscia Perseo vol@o sul Parnaso, dove, 
+dal raspar del suolo che fece lo zoccolo del cavallo, scatur@i la
+fontana delle Muse.  La complessa interpretazione che di questa
+favola correva nel Medio Evo, @e esposta dal Buti, citando
+Fulgenzio e Sant'Ilario.  Per ci@o che si riferisce al nostro
+Canto, la favola sembra racchiudere principalmente questo
+insegnamento morale: che bisogna non guardare Medusa, fuggire il
+dubbio pietrificante che inaridisce il cuore e la fantasia, 
+essere amici della sapienza (Minerva), per superare ogni ostacolo
+e perch@e dinanzi a noi scorra la fonte dell'invenzione e della
+poesia.
+
+	Le ultime parole delle Erinni, |mal non vengiammo in
+Teseo l'assalto~, furono interpretate in due modi: o che le Furie
+voglian gloriarsi di essersi ben vendicate di Teseo, o che si
+pentano di non essersi ben vendicate di lui, che fu uno di coloro
+che scesero vivi all'Inferno, perch@e la sua punizione servisse
+d'esempio a chiunque altro avesse voluto imitarlo.  La prima
+interpretazione @e la giusta, come appare ristudiando la favola e
+l'imitazione dantesca.
+
+	Teseo, re degli Ateniesi, insieme col suo amico Piritoo, 
+avevan determinato di non prender moglie se non sposando una
+figlia di Giove; Teseo spos@o Elena, che fu rapita dai fratelli
+Castore e Polluce; Piritoo, non trovando sposa sulla terra, scese
+con l'amico all'inferno per rapir Proserpina (^Eneide~, VI, 392;
+^Tebaide~, VIII, 5 e seg.); ma fallirono il colpo.  A questo
+punto la favola continua in due modi: alcune leggende narravano
+che i due amici ritornarono incolumi, e quindi le Furie non si
+sarebbero vendicate.  Ma altre leggende narravano che Teseo, fu
+trattenuto nell'Inferno, sicch@e Piritoo dovette ritornarvi con
+Ercole per liberarlo; le Furie adunque avrebbero punito l'audacia
+di Teseo, se anche Ercole riusc@i poi nella sua impresa.  @E questa
+la versione che segue Dante, perch@e proprio in quella
+circostanza, come Dante presto ricorder@a, Ercole trascin@o
+Cerbero, dopo avegli legato al collo una catena di diamante, 
+pelandogli ^il mento e il gozzo~ {v.99}.
+
+	|55-57.~  Contro il pericolo della vista del capo di
+Medusa, Virgilio raddoppia di cautele: se Dante guardasse Medusa, 
+addio speranza di tornare nel mondo! rimarrebbe nell'Inferno. 
+Deve quindi guardare indietro: proprio il contrario di quel che
+dovr@a fare nel Purgatorio, dove l'Angelo guardiano della porta lo
+avverte che ^di fuor torna chi indietro si guata~ (^Purg.~, IX, 
+132).
+
+	|58-60.~  Siamo dinanzi alla porta dell'Ingiustizia, che
+sembra contrastare con l'esistenza d'un Dio buono e giusto nel
+mondo.  Se l'uomo s'abbandonasse alla tentazione di credere che
+il male superi la misericordia divina e cadesse in disperazione o
+in miscredenza, perderebbe la Fede e la Speranza.  Ma al male
+Iddio ha posto i suoi rimedi: la Chiesa e l'Impero, rappresentati
+dalle mani di Dante, cattolico, e dalle mani sovrapposte di
+Virgilio che conobbe la virt@u dell'Impero: <la fede nella Croce e
+nell'Aquila, la speranza nella Croce e nell'Aquila salvano
+l'uomo>, dice il Valli, da questo pericolo, simboleggiato in
+Medusa.  Tale, crediamo, il miglior commento ai versi seguenti, 
+in cui Dante ci ammonisce di ricercare bene il significato
+dell'allegoria attraverso la lettera.
+
+	|61-63.~  L'ammonizione pu@o riguardar soltanto la
+precedente terzina o tutto l'episodio della resistenza diabolica;
+ma quanto abbiam detto ci sembra sufficente a comprenderla.  E
+difatti appena il Poeta ha compiuto l'atto simbolico di Fede e di
+Speranza davanti all'Ingiustizia, apparentemente trionfante, 
+appare l'atteso soccorso, e appare con segni di tempesta, non
+dissimili da quelli che presso l'Acheronte accompagnarono la
+discesa della Grazia su Dante.
+
+	|64-72.~  Ammirevole sempre l'attitudine di Dante nel
+personificare in vivissimi fantasmi ogni astrazione del pensiero, 
+ogni fenomeno della natura!  <Quale efficacia rappresentativa
+raggiungono qui le magiche terzine dantesche! un turbinoso vento
+@e preso ad ovvio termine di paragone, studiato dapprima
+scientificamente nella sua genesi, descritto appresso nelle
+conseguenze che porta seco, con un crescendo meraviglioso
+d'immagini e di suoni....  Coll'uragano vediamo dapprima il pazzo
+furore scatenarsi contro una selva, ch'egli percuote schiantando, 
+abbattendo, portando seco nella corsa i rami divelti.  Negli
+ultimi versi il conato furibondo cede luogo ad una quasi maligna
+soddisfazione del guasto compiuto, ad una piena fiducia nelle
+proprie forze test@e sperimentate, ond'esso polveroso insieme e
+superbo, procede innanzi: fuggono le creature feline ed umane
+ch'erano nei pressi del bosco, ancora in sussulto sotto l'impeto
+delle sue scosse poderose> (Flaminio Pellegrini).  E quanto
+acquista la poesia dalla sua unione con la scienza! poich@e la
+bufera tra le varie sue cause ha frequentemente quella della
+rarefazione dei vapori secchi e caldi, che Dante chiama |avversi
+ardori~ (Bottagisio), mentre le spesse alliterazioni e le rime
+concorrono efficacemente alla rumorosa armonia del periodo.
+
+	|73-75.~  Virgilio, sciogliendo gli occhi a Dante, il
+quale continua a volger le spalle alle porte di Dite, l'invita a
+guardare innanzi a s@e, cio@e verso la palude stigia, donde
+s'aspetta il soccorso, e dove pi@u denso e molesto @e il fumo che
+si leva su dall'|antica schiuma~: l'invita anzi a guardare ora
+intesamente, fissamente, col |nerbo del viso~ che traduce
+l'^acies oculorum~ dei latini.
+
+	|76-81.~  Altra bella e lucida similitudine che sembra
+rompere il fumo dopo tanta battaglia.
+
+	Ecco i compagni di Filippo Argenti divenuti come rane, 
+ognuna delle quali, alla vista della biscia acquatica detta Idra, 
+loro fierissimo nemico, |s'abbica~, cio@e <cos@i solleva il dorso e
+si raccoglie tutta raccosciandosi e serrandosi al petto le
+braccia> (Caverni) che pare una ^bica~, un monticello di covoni. 
+Il |distrutte~, ritorna a mostrarci gli irosi disfatti dalle
+percosse che fra loro si danno continuamente, mentre il vincitore
+@e descritto nella sua imperturbabile serenit@a da quel muoversi
+|al passo.~  La scena @e stupenda, <l'antitesi @e completa: da un
+lato i |mille~, dall'altro l'uno: di qua la fuga, di l@a il passo;
+di qua le grida terribili, di l@a il silenzio.  Ancora due tocchi
+all'aspetto ed all'opera dell'essere superiore, e la figura @e
+completa: ^Ahi quanto mi parea~ {v.88} ecc.: @e il sublime della
+potenza fisica espressa col meraviglioso dei suoi effetti
+materiali; ma insieme il sublime della grandezza morale conscia e
+sicura di s@e stessa rivelata da una rappresentazione tutta
+plastica e umana> (Manfredi Porena).
+
+	|82-84.~  Efficace terzina, ma pi@u conveniente ad uomo
+che ad Angelo, perch@e un'Intelligenza pura e beata n@e prova
+angoscia, n@e dimostra stanchezza!
+
+	|85-87.~  Terzina d'impareggiabile efficacia nella sua
+semplicit@a: |ben m'accorsi ch'elli era da ciel messo~: e chi, se
+non un messo del cielo poteva apparire cos@i?  Dante si volge a
+Virgilio senza parola, tanto nel viso ha dipinto stupore, 
+reverenza e domanda, e Virgilio risponde appena con un gesto, ma
+che dice tutto.  |Da ciel messo~ per@o non implica necessariamente
+un Angelo, perch@e la stessa locuzione @e usata dal Poeta per il
+^Dux~ (^Purg.~, XXXIII, 44) e per San Domenico (^Par.~, XII, 73);
+e Dante non @e invitato qui a inginocchiarsi davanti a questo suo
+salvatore come avverr@a dinanzi al primo angelo che incontrer@a nel
+Purgatorio: ^fa, fa che le ginocchie cali~ (^Purg.~, II, 28).
+
+	|88-90.~  Anche questa |verghetta~ sembra riferirsi ad
+Enea, ricordo della verga che per consiglio della Sibilla l'eroe
+troiano port@o in dono a Proserpina, ^venerabile donum Fatalis
+virgae~ (^Eneide~, VI, 407).  Pareva a Dante quando scriveva cos@i
+che l'Imperatore, ^Dei ministrum~ (^Epistola VII~), appena si
+fosse presentato sulla terra avrebbe fugato l'ingiustizia: gli
+eventi futuri della sua vita dovranno disingannarlo (^Par.~, XXX, 
+136-138).
+
+	|91-99.~  Allocuzione chiara per noi, quando abbiamo
+detto che |dispetta~ in Dante significa dispregiata (^Par.~, XI, 
+65 e 90), e notato l'amara ironia di quel |se ben vi ricorda.~
+
+	|100-105.~  Il |non f@e motto a noi~ ricorda le parole di
+Eliseo a Giezi: <si occurrerit tibi homo, non salutes eum> (^Dei
+Re~, IV, 29); n@e si disdice il silenzio, dinanzi a Virgilio, del
+messo del cielo, se anche egli sia Enea in persona, perch@e
+l'Imperatore, nell'esercizio della sua potest@a, ordina per s@e e
+non per altri: ^suimet et non alterius gratia~ (^Monarchia~, I, 
+XII, 9).
+
+	Cerchio IV -- Eretici.
+
+	Primo Cerchio del basso Inferno @e quello degli Eretici, 
+quasi porte del pi@u triste Inferno: <qui sunt portae inferi? 
+Haeretici, quia sicut per portam intratur in domun, sic per istos
+intratur in infernum> (San Tommaso, ^Commentum in Matt.~, XVI).
+
+	|106-111.  Condizion~ nel linguaggio scolastico era lo
+stato e la qualit@a delle cose (Tommaseo).
+
+	Dante ci descrive il VI Cerchio come una |grande
+campagna~, non lieta di vegetazione, ma lugubre; per@o passa sotto
+silenzio una circostanza: non ci dice di esser disceso passando
+da Stige agli Eretici, com'@e sua abitudine ripetere.  Dunque il
+VI Cerchio ha questo di speciale fra tutti, di essere allo stesso
+piano del precedente.  Perch@e?  Perch@e l'eresia appartiene
+ugualmente all'Incontinenza ed alla Malizia; infatti San Tommaso, 
+commentando San Paolo (^Comm. Epist. ad. Ephesios~, cap IV), 
+dice: ^in talibus errantibus~ (quelli che negano la Provvidenza
+divina) ^corrumpitur intellectus et affectus~, e noi sappiamo gi@a
+che la corruzione dell'affetto o appetito @e proprio degli
+incontinenti e la corruzione dell'intelletto dei pessimi
+peccatori.  Ma non @e questa la sola eccezione che ci offre il
+Cerchio VI: noi le noteremo via via che le incontriamo, per poi
+giovarcene nel Commento del Canto XI.
+
+	|112-117.  Arli~, un tempo ^Elisii campi~, poi ^Aylis
+campi~ e ^Aliscampi e Arles~, @e citt@a della Provenza, che ancor
+oggi conserva i ruderi di antichi sepolcreti dell'epoca romana;
+ma, dopo che la leggenda li volle consacrati da San Trofimo, con
+apparizione di Ges@u al Santo e promessa di speciali grazie, si
+credette che in quei sepolcri fossero rinchiuse le salme di
+guerrieri cristiani morti combattendo contro gli infedeli, e cio@e
+dei paladini di Carlo Magno.  Dopo la battaglia, dice la
+leggenda, l'Imperatore preg@o Iddio che i morti cristiani
+potessero essere riconosciuti dagli infedeli, e la dimane
+miracolosamente si trov@o il campo sparso di avelli, e dentro
+d'ogni avello pi@u morti insieme coi nomi scolpiti sulla fronte. 
+Leggenda di semplice credulit@a in contrasto con la superbia degli
+eretici.  Dante ci dice che il confronto fra l'aspetto del VI
+Cerchio e i sepolcreti di Arli riguardava la disuguaglianza del
+terreno qua e l@a |varo~, cio@e vario, di tombe.  Ma la
+rassomiglianza @e ancor maggiore; di modo che si pu@o pensare che i
+sepolcri di Arli abbiano suggerito la pena degli eretici. Erano
+infatti quelli di Arli sepolcri di marmo, disposti senz'ordine, 
+molti scoperchiati dal tempo, in forma di grandi cassoni
+quadrati; e <qualcuno di questi monumenti presenta un diaframma, 
+che divide la parte vuota in due casse, cosicch@e potevano esservi
+collocati due gruppi di morti, e sicuramente quei monumenti
+servivano a diversi morti> (Carlo Cipolla).  Erano quelle tombe
+elevate dal suolo, con coperchio a tetto e fornito di acroteri, 
+sicch@e sembra ragionevole interpretare |varo~ per vario in
+altezza: anche le tombe dantesche dovevano essere rialzate dal
+suolo, perch@e il Poeta, presso la tomba di Farinata, lo vedr@a
+dalla cintola in s@u.
+
+	Ma fu Dante in Francia?  Vide le tombe di Arli?  Il
+Boccaccio l'afferma, molti dubitano: il nostro passo
+confermerebbe le parole del Boccaccio, anche per un'altra
+ragione.  Dante dice che il Rodano |stagna~ presso Arli:
+giustamente, perch@e il Rodano dividendosi e suddividendosi in
+canali forma ivi le cos@i dette ^bocche del Rodano~, che non sono
+che un gruppo di stagni attraverso le dune che chiudono il
+littorale.  Il corretto vocabolo usato dal Poeta @e tanto pi@u
+notevole in quanto Brunetto Latini (^Tesoro~, parte I, III, 3)
+scriveva che il Rodano entra furiosamente nel mare, portando le
+navi fino a cinque miglia dal lido.
+
+	|Pola~, la bella citt@a istriana che tutti gli Italiani
+conoscono ormai, come tutti serbiamo gratitudine a Dante che
+primo fiss@o in questi versi con tanta chiarezza quel ntural
+|termine~ politico geografico della nostra Patria, che doveva
+essere raggiunto sei secoli dopo la morte del Vate, fu in antico
+una stazione navale dei romani, e l@a, nel sito detto Prato
+Grande, sorgeva la necropoli, ancora ben visibile ai tempi di
+Benvenuto da Imola, che vi cont@o cento sepolcri, probabilmente di
+marmo, perch@e di marmo abbondano i dintorni di Pola.  Anche
+queste tombe erano in gran parte occupate da soldati della Fede, 
+Veneziani morti combattendo contro i Turchi; di modo che nei
+confronti di Arles e di Pola appare manifesta l'allusione morale
+contro gli eretici.
+
+	|Carnaro~, oggi Quarnaro, @e l'intero golfo dalla cui
+parte pi@u interna biancheggia Fiume.  @E un nome derivato da due
+voci primitive dell'antica lingua dei Celti Galli, ^Car~ o
+^Carn~, e ^Nar~ o ^Ar~, che significano ugualmente scoglio, e che
+rivivono in molti nomi di luoghi e di popoli, come Carinzia, 
+Carso, Narbona, Narni, Carrara, ecc.: nome conveniente a quel
+golfo pericoloso per i naviganti a cagione degli innumerevoli
+scogli che giungono a poco profondit@a dallo specchio delle acque.
+
+	|118-120.~  I caratteri della pena sono adunque sepolcro
+e rogo.  I sepolcri spezzano la campagna, come l'eresia colle sue
+variet@a spezza l'unit@a della religione; il marmo indica la
+durezza e la freddezza del cuore, e il rogo @e la punizione che la
+Chiesa stessa aveva decretato per tali colpe; e forse Dante
+l'aveva vista nei vivi (^Purg.~, XXVII, 18), n@e gli sfugg@i quanto
+quelle lingue corrusche di fiamme si prestassero a dar rilievo
+alla macabra campagna, priva di vita, salvo i gemiti ed i
+lamenti.
+
+	|121-123.~  I coperchi sono |sospesi~ e gli avelli
+|aperti~ perch@e l'eresia non @e ancor terminata, n@e, secondo la
+tradizione cristiana, terminer@a prima del Giudizio finale:
+vedremo infatti nel Canto seguente che in quel giorno tutti i
+sepolcri degli eretici si chiuderanno.
+
+	|124-131.  Eresiarche~, cio@e capi di sette eretiche. Ogni
+capo @e sepolto nella medesima tomba coi suoi seguaci.  Qui
+|eresiarche~ si riferisce agli eretici cristiani; gli Epicurei
+del Canto seguente ricordan l'eresia pagana.  Di nessuna vera
+setta eretica dei tempi suoi fa menzione il Poeta, salvo
+l'accenno a Fotino nel Canto XI dell'Inferno, e ad Ario e
+Sabellio nel XIII del ^Paradiso.~  Eppure l'eresia era una piaga
+diffusa nel trecento e multiforme: <oltre le dottrine di
+Avicenna, di Averro@e, del Maimonide che s'insinuavano con lo
+studio dell'ebraico e dell'arabo>, scrive Cesare Cant@u, <i
+Patarini disseppellivano gli errori degli Ariani e dei Manichei;
+la Guglielmina, fra Dolcino, il nominalista Aberlardo, gli
+scettici cornificiani, il materialista Roscellino, il panteista
+Amalarico predicavano e praticavano dottrine avverse alla
+religione non meno che alla societ@a>.  E l'elenco pu@o accrescersi
+colle notizie riportate da Felice Tocco, con preziose
+osservazioni intorno ai Patarini, Catari, Arnaldisti, 
+Gioachinisti, Spirituali e Bizochi; a noi basta riportare la
+conclusione del Tocco: Dante, egli dice, giudicava la gravit@a
+delle colpe dal danno cagionato e dal sangue versato; perci@o pose
+fra Dolcino in pi@u profondo luogo del suo Inferno, bench@e, in
+linguaggio scolastico, lo Scisma sia meno grave dell'Eresia, e
+perci@o consider@o gli Eretici dottrinari con poca attenzione.
+
+	Una cosa per@o nn sfugg@i a Dante: il pericolo che offriva
+l'eresia per il gran numero di sette e di adepti: |pi@u che non
+credi son le tombe carche~, che allude anche alla segretezza con
+cui molti professavano eretiche credenze.
+
+	|132-133.  A la man destra~: @e questa la seconda
+eccezione che si nota nel Cerchio VI, poich@e mentre Dante per
+tutto l'Inferno procede sempre verso sinistra, qui espressamente
+ci dice di aver piegato a destra.  L'eccezione si ripeter@a quando
+i due Poeti scorgeranno Gerione, che deve trasportarli nel regno
+della Frode, cio@e sulla soglia dell'ultima divisione del Girone
+III della Violenza, presso il luogo dov'@e punita l'Usura.
+
+	Un'altra eccezione distingue ugualmente Eresia ed Usura
+dalle altre colpe; ed @e che nel Canto XI, nella trattazione
+dell'ordinamento generale dell'Inferno di Dante, l'eresia @e
+taciuta affatto, e l'usura abbisogna di special ragionamento. Per
+ci@o riteniamo che Dante volga a sinistra di regola, perch@e di
+regola egli considera le colpe secondo la dottrina aristotelica
+delle male disposizioni, come vedremo al Canto XI; ma quando deve
+nominare e trattare colpe che sono specialmente connesse alla
+dottrina cristiana, come sono l'Eresia e l'Usura, allora volge a
+destra, quasi a dire verso la vera e santa Sapienza.
+
+	E v'@e una terza rassomiglianza che conferma questo modo
+d'intendere: Dante conchiude il suo Canto col verso <|passammo
+tra i mart@iri e gli alti spaldi~>: gli |spaldi~ sono gli sporti o
+ballatoi di torri e di mura: Dante e Virgilio si avviano adunque
+tra le mura e le tombe degli eretici, e siamo gi@a entrati nel VI
+Cerchio.  Orbene, al contrario di quanto vedemmo fin ora, 
+all'entrata di questo Cerchio non abbiamo visto il solito mostro
+simbolico come guardiano: anche nel Girone dell'Usura non
+troveremo n@e diavoli n@e demoni: si direbbe che qui e l@a, la
+divina Giustizia imperi e governi direttamente.

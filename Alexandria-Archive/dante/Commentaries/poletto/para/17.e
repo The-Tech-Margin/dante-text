@@ -1,0 +1,1253 @@
+	|1-6.~  Non era possibile che il Poeta si fosse
+dimenticato il ^parlare~, che parvegli ^nimico~, sentito qualche
+d@i prima da Farinata (^Inf.~, X, 79-81), profezia amara, che gli
+@e raffermata da Brunetto (^Inf.~, XV, 61-65), e da altri via via
+lungo il viaggio (^Purg.~, VIII, 133-139; XI, 139-141), sulle
+sventure, che l'attendevano.  Virgilio gli aveva detto che la
+spiegazione delle parole del fiero vincitore di Montaperti
+l'avrebbe avuta da Beatrice (^Inf.~, X, 130-132); e il Poeta se
+ne teneva sicuro (^Inf.~, XV, 88 e segg.).  Persuasissimo dunque
+che il suo antenato,
+
+             leggendo nel magno Volume,
+     U' non si muta mai bianco n@e bruno
+
+(^Par.~, XV, 50-51; cf. qui vv. 14-18) vedesse le cose
+contigenti, e quanto gli doveva accadere, non pu@o trattenersi che
+non colga l'occasione di chiarirsi de' suoi dubbi circa alle
+^parole gravi~ intese di sua ^vita futura~ (vv. 22-23).  La
+spiegazione quindi non l'ha propriamente da Beatrice, come
+Virgilio gli aveva detto; per@o coloro che per ci@o, sofisticando,
+trovano nel Poema una contraddizione, non badarono, parmi,
+abbastanza alle esplicite parole del testo, che il Poeta
+^confess@o~ a Cacciaguida la sua ^voglia come volle Beatrice~ (vv.
+29-30), perch'ella stessa gli aveva comandato di sgravarsi della
+sua incertezza e del suo ardente desiderio, manifestando tutto a
+Cacciaguida.  -- |Qual venne~ ecc.; io era nella stessa
+condizione d'animo, in che si trovava Fetonte (cf. ^Inf.~, XXII,
+106), allorch@e Epafo, figlio di Giove e di Io, gli dichiar@o che
+non era vero ch'ei fosse figlio del Sole: Fetonte allora corse
+dalla madre Climene, pregandola di dirgli la verit@a sul padre
+suo.  -- |Incontro a s@e~; Epafo gli aveva detto (Ovidio,
+^Metam.~, I, 753-754):
+
+                                 matri omnia demens
+     Credis, et es tumidus genitoris imagine falsi.
+
+-- |Quei~ ecc.; Fetonte.  -- |Scarsi~; lenti, circospetti nel
+consentire alle voglie dei figliuoli.  -- |E tale~ ecc.; e questa
+mia condizione d'animo era conosciuta da Beatrice, perch@e ella
+vedeva l'interno di Dante come ella fosse un altro lui stesso
+(^Par.~, I, 85).  -- |Santa Lampa~; l'anima di Cacciaguida,
+splendente di luce.
+
+	|7-12.~  L'Alfieri not@o |s@i ch'ell'esca~ col verso
+seguente.  |Vampa~ ecc.; manifesta, esprimi l'ardor del desiderio
+(^Par.~, XXXIII, 48), il desiderio ardente.  -- |S@i~ ecc.; in
+modo che le tue parole lo rendano con quella vivezza, onde lo
+senti nel tuo dentro.  -- |Stampa~; @e come l'impronta, il
+suggello, che designa il grado d'intensit@a del desiderio.  --
+|Non perch@e~ il tuo parlare possa svelarci un pensiero qualsiasi,
+che a noi sia sconosciuto (cf. ^Purg.~, XXX, 103-108), ma per
+abituarti a manifestare con chiarezza i tuoi desiderii in guisa,
+che gli uomini, conoscendoli, te ne possano appagare.  Nella
+^Mon.~, II, 2: ^Humana voluntas extra volentem non aliter quam
+per signa cernitur~, come legge il testo del Giuliani; e meglio,
+riducendo il testo secondo la traduzione del Ficino: ^Humana
+voluntas non aliter, quam per signa exteriora cernitur.~  -- |Ti
+mesca~; ti dia bere (cf. ^Par.~, X, 88-89); @e il ^miscere~ de'
+Latini; Ovidio (^Metam.~, I):
+
+     Lurida terribiles miscent aconita novercae;
+
+e anche diceano, nota il Cesari, ^miscere pocula, calices.~  Su
+questi versi il Lana: <Qui @e da notare avvegnach@e nostre bisogne
+sieno natevoli a Dio, ello fae bisogno, acci@o che nostra
+soggezione appaia, che con propria bocca le domandiamo.>
+
+	|13-18.  Pianta~ ecc.; (cf. ^Par.~, XV, 88-89); ceppo
+(^Par.~, XVI, 106), capostipite, progenitore, radice della mia
+farmiglia (^Par.~, XV, 89).  -- |T'insusi~; ti elevi in suso,
+tanto da vedere in Dio il futuro con certezza matematica.  --
+|Come veggion~ ecc.; colla medesima evidenza con la quale l'umano
+intelletto, per dimostrazione geometrica, comprende che in un
+triangolo non possono essere contenuti due angoli ottusi; e ci@o
+secondo quel teorema geometrico, che in un triangolo rettilineo
+la somma de' suoi angoli @e eguale a due retti; donde la
+necessaria conseguenza che in esso non possono coesistere due
+ottusi, altrimenti la somma di quelli sarebbe maggiore di due
+retti.  Nella ^Mon.~, I, 14: ^Triangulus habet tres angulos,
+duobus rectis aequales.~  -- |Capere~; capirsi, esser contenuti.
+-- |Cos@i vedi~ ecc.; con pari evidenza.  -- |Contingenti~; cf.
+^Par.~, XIII, 99, e ivi, 63-64.  Pietro, in altra parte di questo
+Canto, cita l'Angelico (^Contra Gentiles~, in Prima):
+<Necessarium et contingens differunt, secundum quod unumquodque
+in sua causa est.  Contingens enim sic in sua causa est, ut non
+esse ex ea possit et esse; necessarium vero ex sua causa non
+potest non esse: secundum id vero quod utrumque horum in se est
+non differt quantum ad esse, supra quod fundatur verum: quia in
+contingenti secundum id quod in se est, non est esse et non esse,
+sed solum esse, licet in futurum contingens possit non esse.>
+
+	|19-24.~  L'Alfieri not@o il 21 e 22, e del 23 |parole
+gravi.~  -- |Su~ ecc.; nel mio viaggio su pel monte del
+Purgatorio (cf. ^Purg.~, VIII, 133-139; XI, 139-141).  -- |Cura~;
+medica sana dalle piaghe delle colpe (^purga~, ^Purg.~, I, 5). 
+-- |Mondo defunto~; l'Inferno, il ^regno della morta gente~
+(^Inf.~, VIII, 85), de' ^veri morti~ (^Purg.~, XXIII, 122), ^il
+mondo senza fine amaro~ (v. 112).  -- |Di mia vita~ ecc.; della
+vita mortale che ancor mi resta.  -- |Parole gravi~; di tristo
+annunzio, di futuro danno (^Inf.~, XIII, 12).  -- |Avvegnach@e~
+ecc.; bench@e per la voce della mia coscienza, che me ne dice
+immeritevole io mi senta gi@a forte a sopportare i colpi
+dell'avversa fortuna (cf. v. 107).  Nel ^Conv.~, I, 3, parlando
+di s@e stesso: <Per le parti quasi tutte, alle quali questa lingua
+(^l'italiana~) si stende, peregrino, quasi mendicando, sono
+andato, mostrando contro a mia voglia la piaga della fortuna, che
+suole al piagato molte volte essere imputata> (cf. vv. 52-53).  E
+ivi, 4: ^maculato~ (quasi i colpi della fortuna lascin visibili
+lividure) ^d'alcuno colpo di fortuna.~  Questo dichiararsi
+|tetragono~ ecc., richiama l'altro punto dell'^Inf.~, XV, 91-93,
+e l'avviso di Virgilio (^Purg.~, V, 14-15).  Il Venosino (II
+^Sat.~, 2, 135-136):
+
+                                 vivite fortes,
+     Fortiaque adversis opponite pectora rebus.
+
+Nell'^Epistola~, ^exulanti Pistoriensi~ ({Paragraph.} 5), cos@i
+consolava l'amico: <Frater carissime, ad patientiam, quod contra
+Rhamnusiae spicula (i |colpi della fortuna~, ch@e ^Rannusia~ @e
+l'antica Nemesi, la Dea vendicatrice, o avversa fortuna) sis
+potens, te exhortor.  Perlege, deprecor, ^Fortuitorum remedia~>
+(libro di Seneca).  Il Davanzati (^Tacit. Stor.~, 4, 331): <Per
+governare la repubblica ben tetragono a' colpi di ventura> (il
+testo lat. ha: ^firmior adversus fortuita~).  E nella ^Oraz.
+Cos.~, I, 137: <Oh anima forte, e tetragona ai colpi della
+fortuna e del mondo!>  E Boezio (^Consol.~ ecc., III, pr. I): <Mi
+credo bastevole di resistere a' colpi della fortuna.> 
+|Tetragono~; Pietro: <Aristoteles in primo Ethicorum: ^virtuosus
+fortunas prosperas et adversas fert ubique omnino prudenter, ut
+bonus tetragonus, sine vituperio existens.~  Dicitur tetragonum,
+corpus alicuius rei, quod proiectum, semper est erectum, ut
+taxillus.>  L'Antonelli: <|Tetragono~, ogni figura che ha quattro
+angoli.  L'imagine per@o del Poeta esclude le figure piane, porge
+il concetto di tetraedro, il pi@u semplice dei poliedri, che @e una
+piramide triangolare, la quale viene determinata da quattro
+triangoli, ed ha quattro angoli solidi.  Il concetto e il fatto
+della stabilit@a di un'opera materiale avente questa forma, deriva
+da questo, che il centro di gravit@a di una piramide @e ad un
+quarto della retta che unisce il vertice della piramide col
+centro di gravit@a della sua base, misurando quella parte della
+base medesima, il che fa s@i che quello sia poco remoto da questa,
+e che per tal modo adempiasi una delle principali condizioni
+della stabilit@a.>
+
+	|25-27.~  L'Alfieri not@o |previsa.~  |Perch@e~; stando
+cos@i le cose.  -- |Contenta~; cf. ^Par.~, XI, 36; XXII, 30 (cf.
+ivi, III, 40; IV, 72).  -- |S'appressa~ (cf. vv. 44-45); sta per
+incogliermi, mi s'avvicina (cf. ^Purg.~, XXIV, 88; XXXIII,
+41-42).  |Saetta~ ecc.; S. Gregorio M. (^Homil. 35 in Ev.~): ^Eo
+minus perturbant venientia, quo fuerint praescita.  Minus enim
+jacula feriunt, quae praevidentur.  Et nos tolerabilius mundi
+mala suscipimus, si contra haec per praescientiae clypeum
+munimur.~  Il Petrarca: ^piaga antiveduta assai men duole.~  --
+|Pi@u lenta~; nel ^Purg.~, XXXI, 18: ^con men foga l'asta il segno
+tocca.~
+
+	|28-30.  A quella luce~ ecc.; al mio antenato.  -- |Come
+volle~ ecc.; cf. vv. 7-12.  -- |Confessa~; espressa, fatta
+palese.
+
+	|31-33.~  Notati dall'Alfieri, che scrisse in margine:
+^non coglionerie, come s'usava prima di Cristo.~  -- |Non per
+ambage~ ecc.; non colle parole ambigue, equivoche, che solevano
+usare i pagani ecc.  Il Poeta accenna ai responsi degli oracoli
+de' Gentili, che tornavano le pi@u volte indecifrabili.  L'Ottimo:
+<Non |per ambage~, cio@e per parole doppie e dubitative, piene
+d'involuzioni e di labirinti.>  -- |La gente folle~; i pagani,
+
+     Le genti antiche nell'antico corre
+
+(^Par.~, VIII, 6).  -- |Gi@a~; in altri tempi.  -- |S'invescava~
+(cf. ^Inf.~, XIII, 57); il Buti: <|S'invescava~, cio@e si pigliava
+come l'uccello al vesco, come appare alli oracoli d'Appolline et
+a le risposte di Sibilla.>  -- |Pria che~ ecc.; prima Cristo, ci@o
+dominante il paganesimo,
+
+     Al tempo degli Dei falsi e bugiardi
+
+(^Inf.~, I, 72).  -- |L'Agnel di Dio~; cf. ^Purg.~, XVI, 18.
+
+	|34-36.~  L'Alfieri not@o |ma per chiare parole rispose.~ 
+-- |Per chiare parole~; l'apposto nel ^Purg.~, XI, 139.  --
+|Latini~; non credo, come credono alcuni, che qui il Poeta si
+richiami al latino, alla foggia di parlare, che sentimmo altrove
+da Cacciaguida (cf. ^Par.~, XV, 28-30), per raffermare che quella
+sua non era la ^favella~, che s'usava al tempo di Dante (cf.
+^Par.~, XVI, 33); ma ^latino~ qui, come altrove (^Par.~, XII,
+144), ha il senso generico di linguaggio e il |preciso latino~
+non @e che forma aggiuntiva di |chiare parole.~  -- |Amor
+paterno~; Cacciaguida.  -- |Chiuso~ ecc. (cf. V, 38); nascosto
+entro alla luce, dentro dalla quale dando segno d'allegrezza col
+farsi pi@u vivace, si faceva |parvente~, appariva la sua
+beatitudine (|riso~).  Il Tommaseo: <Ammirisi il verso: |Chiuso e
+parvente~ ecc.; verso ch'@e simbolo d'ogni verit@a e d'ogni bont@a e
+d'ogni bellezza, che con la propria luce si vela insieme e si
+manifesta; verso che divinamente dichiara la splendida oscurit@a
+del mistero.>
+
+	|37-39.~  L'Alfieri not@o il terzo.  Alla meditazione di
+questa e della seguente terzina sarebbe cosa utilissima, che il
+giovane studioso premettesse l'attenta lettura di quanto scrive
+l'Angelico (^Summ. Theol.~, I, 14, 8, 9, e specialmente 13); e il
+frutto sarebbe doppio, se volesse aggiungervi l'intiero ^libro
+quinto~, ch'@e brevissimo, della ^Consolazione~ di Boezio, dal
+quale premetto questo tratto (pr. 6): <Poscia che ciascuno
+giudizio le cose, che sottoposte gli sono secondo la sua natura
+comprende, e Dio ha il suo stato sempre eterno e tutto insieme
+presente, ancora la scienza di lui trapassando ogni movimento di
+tempo, nella semplicit@a della sua presenza sta ferma, e, infiniti
+spazi di preterito e di futuro abbracciando, tutte le cose, come
+se allora si facessero, nella sua semplice conoscenza considera. 
+Se tu pertanto la prescienza di Dio, mediante la quale tutte le
+cose conosce, pesare vorrai, tu stimerai pi@u dirittamcnte pensare
+che ella non prescienza sia quasi del futuro, ma scienza d'un
+presente, il quale mai non venga meno; onde ella non previdenza,
+ma provvidenza si chiama: perciocch@e lungi posta dalle cose
+basse, quasi da un'alta sommit@a vede tutte le cose.>  -- |La
+contingenza~ ecc. (cf. v. 16); imprende Cacciaguida a svelare al
+suo discendente la sua ^vita futura~, e dovendogli narrare le
+tante amarezze, che in processo di tempo gli sarebbero cadute
+addosso per la malizia degli uomini, accenna prima alla
+prescienza divina, la quale in nulla sforza il libero arbitrio, e
+per ci@o non rende necessari i futuri avvenimenti (cf. ^Summ.
+Theol.~, I, 23, 6).  -- |Fuor del quaderno~ ecc. (cf. ^Par.~, XV,
+50, nel commento); le cose contingenti non hanno luogo fuori del
+mondo materiale, perch@e in quella guisa che
+
+     dove Dio senza mezzo governa
+     La legge natural nulla rileva
+
+(^Par.~, XXX, 122-123); cos@i nel Cielo
+
+     Casual punto non puote aver sito
+
+(^Par.~, XXXII, 53).  Invece il Lana ed altri antichi, seguiti da
+parecchi moderni, intendono che ^la contingenza non si pu@o sapere
+per scienza naturale~ (Ottimo), cio@e che la scienza umana non pu@o
+arrivare a conoscere il futuro.  -- |Tutta~ ecc.; perch@e Dio vede
+tutto (^Par.~, IX, 73).  L'Angelico (^Summ. Theol.~, I, 14, 13):
+^Contingentia infallibiliter a Deo cognoscuntur, in quantum
+subduntur divino conspectui secundum suam praesentialitatem, et
+tamen sunt futura contingentia, suis causis proximis comparata.~ 
+Pietro cita L'Angelico (^Contra gentiles~, in Prima): <Deus ab
+aeterno cognoscit res non solum secundum esse quod habent in
+causis suis, sed etian secundum esse quod habent in se ipsis... 
+Scit non solum causas contingentium, sed etiam ea quibus possent
+impediri.  Scit enim per certitudinem an contingentia sint vel
+non sint.  Habuit igitur Deus ab aeterno omnium contingentium
+singularium infallibilem scientiam, nec tamen contingentia esse
+desistunt.  Contingens enim certitudini cognitionis non repugnat,
+nisi secundum quod futurum est, non autem quod praesens est. 
+Contingens enim, cum futurum est, potest non esse, et sic
+cognitio aestimantis ipsum futurum esse, falli potest: falletur
+enim si non erit quod futurum esse aestimavit; ex quo autem
+praesens est, pro illo tempore non potest non esse, potest autem
+in futurum esse...  Omnis igitur cognitio, quae supra contingens
+fertur prout praesens est, certa ipse potest.  Divini autem
+intellectus intuitus ab aeterno fertur in unumquodque eorum, quae
+temporis cursu peraguntur, prout praesens est.  Accipitur enim
+quoddam medium inter divinam scientiam, et rem scitam, scilicet
+tempus in quo est locutio respectu cuius id quod a Deo scitum
+dicitur, est futurum; non autem respectu divinae scientiae est
+futurum, quae in momento aeternitatis existens ad omnia
+praesentialiter se habet; respectu cuius si tempus locutionis de
+medio subtrahatur, non est dicere hoc esse cognitum quasi non
+existens.  Unde Salomon, Sapientiae VIII: Signa et monstra scit
+antequam fiant, et eventus temporum et saeculorum.  Et
+Ecclesiastici XXXIX: Non est quidquam absconditum ab oculis eius. 
+A saeculo et usque in saeculum respicit.  Item idem: antequam
+crearentur, omnia nota sunt illi, sicut et postquam consumata
+sunt.  Ac etiam Magister Sententiarum ait: scit enim Deus, et
+scivit semper omnia tam bona quam mala, etiam antequam fierent,
+et praescivit ab aeterno ea futura.  Scit ergo Deus et bona et
+mala per scientiam; sed bona cognoscit etiam per approbationem et
+per beneplacitum, mala vero non.>
+
+	|40-42.~  L'Alfieri not@o il terzo.  |Necessit@a~ ecc.; da
+questo antiveder di Dio, da questa divina prescienza delle cose
+future non deriva necessit@a, non impulso (quindi non violenza o
+sminuzione di libert@a all'umano arbitrio); come l'occhio che vede
+una nave andare, col suo vedere non isforza l'andare di quella. 
+Boezio (^Consol.~ ecc., pr. 6): <Se degno @e agguagliare il
+presente divino coll'umano, come voi con questo presente
+temporale alcune cose vedete, cos@i Dio col suo presente eterno le
+vede tutte.  Il perch@e questa preconoscenza divina la natura e
+propriet@a delle cose non muta; e tali vede appo s@e le cose
+presenti, chenti, quando che sia, nel tempo futuro avverranno: n@e
+i giudizi delle cose confonde: e con un guardo solo della mente
+sua vede tutte le cose, cos@i quelle che necessariamente deono
+venire, come quelle che necessario non @e che vengano: non
+altrimente che voi, quando in un tempo medesimo alcuno uomo andar
+per terra e il sole in cielo levarsi vedete; perch@e, sebbene
+vedete l'uno e l'altro insieme, questo per@o essere volontario
+discernete, e quello necessariamente avvenire giudicate: cos@i
+dunque l'occhio divino sguardando il tutto, non perturba la
+qualit@a delle cose, le quali appo lui sono ben presenti, ma
+quanto alla condizione del tempo futuro; onde nasce che, quando
+egli conosce alcuna cosa dovere avvenire, la quale medesima sa
+che non ha necessit@a d'avere a essere, questa non @e opinione;
+anzi @e cognizione sopra essa verit@a fondata.  E, se tu qui
+dicessi: quello che Dio vede dovere avvenire, non pu@o non
+avvenire; quello che non pu@o non avvenire, @e di necessit@a che
+avvenga; e mi volessi astringere a questo nome di necessit@a; io
+ti confesser@o una cosa, la quale @e bene saldissimamente vera, ma
+tale che appena alcuno, se gi@a non fosse contemplatore delle cose
+divine, acconsentirla potrebbe.  Perch@e io risponder@o: quel
+medesimo futuro essere, quando si riferisce alla conoscenza di
+Dio, necessario; e quando nella propria natura sua si considera,
+libero al tutto e sciolto parere.  Perciocch@e due sono le
+necessitadi: una semplice, come @e quella quando diciamo, egli @e
+necessario che tutti gli uomini siano mortali; l'altra
+condizionale, come, se tu sai che alcuno vada, egli @e necessario
+che egli vada.  Perch@e quello che alcuno conosce, altramente, che
+egli il conosce, essere non pu@o: ma questa condizione non si tira
+dietro quella necessit@a semplice; perch@e questa necessit@a non fa
+la propria natura, ma la aggiunta della condizione.  Perch@e
+nessuna necessit@a costrigne ad andare uno che di sua propria
+volont@a cammina, sia necessario (-- cf. l'Angelico, ^Summ.
+Theol.~, II, II, 49, 6 --); cos@i nel medesimo modo appunto, se
+alcuna cosa vede presente la provvidenza, @e necessario che ella
+sia, non ostante che ella di sua natura necessit@a non abbia.>  --
+|Dal viso, in che~ ecc.; qui @e l'oggetto che si specchia
+nell'occhio; altrove invece @e l'occhio che si specchia
+nell'oggetto (^Inf.~, XXXII, 54).  Cf. ^Par.~, III, 20; XIII, 59. 
+E si rammenti ci@o che l'autore ragiona nel ^Convito~ (III, 9)
+intorno al ^vedere~; secondo Platone @e la virt@u visiva, che va
+all'oggetto; ma secondo Aristotele @e la forma dell'oggetto, che
+viene all'occhio.
+
+	|43-45.  Da indi~; dal cospetto eterno, nel quale son
+dipinti i contingenti (v. 39).  -- |Come viene~; cf. ^Par.~, XIV,
+125.  Il Tommaseo (accennando a termini di raffronto tra
+l'^Eneide~ e la ^Commedia~): <Gli intendimenti e religiosi e
+civili, nell'opera del poeta cristiano necessariamente pi@u ampi,
+ancorch@e non bene conformi tutti al puro principio cristiano (?),
+donano al minore soggetto altezza maggiore, e fanno parere ed
+essere le sventure d'un solo uomo, poco pi@u che privato, non meno
+degne di considerazione che le sventure e le grandezze d'un
+popolo, facendo l'uomo singolo simbolo della natura umana, e
+sollevandolo quasi a potenza ideale.  Non pu@o Dante entrare a
+dire delle vicende che gli si apparecchiano nel futuro, che non
+innalzi la mente propria alla Mente che vede presente e il
+passato e il futuro, e non tocchi il mistero per il quale @e
+congiunta la libert@a con la prescienza.  La profondit@a di questo
+tocco @e gi@a un volo che porta il pensiero di Dante sopra quel di
+Virgilio tanto quanto pi@u alto dell'Eliso sotterra e pi@u luminoso
+risplende il suo Paradiso...  Del libero arbitrio egli ha gi@a
+toccato pi@u volte, ma qui pone a s@e stesso l'obbiezione che
+risulta dalla prescienza di Dio, e la risolve con una
+similitudine, dacch@e anco le similitudini possono farsi argomenti
+valenti.  Vedremo poi, dove tocca della predestinazione, che alla
+fine @e tutt'uno con la prescienza, riaffacciarsi la medesima
+difficolt@a, ed egli confessarla mistero, anzi professarla mistero
+con umilt@a tinta d'alterezza e di sdegno (^Par.~, XXI).  I due
+fatti del libero arbitrio umano e della prescienza divina essendo
+innegabili a chi osserva s@e stesso ed ammette l'idea di Dio, il
+non li saper conciliare non sarebbe ragione a negarli, il che
+sarebbe un aggiungere mistero a mistero, e sotto pretesto che il
+lume non @e chiaro assai, spegnerlo; e, per non poter essere
+onniveggenti, farsi ciechi.>
+
+	|46-48.  Ippolito~ ecc.; figliuolo di Teseo, il quale per
+avere resistito alle voglie della scellerata Fedra sua matrigna,
+e invece accusato da lei a Teseo di aver tentato di sedurla, fu
+dal padre bandito da Atene (cf. Ovidio, ^Metam.~, XV, 49; e
+segg.).  Ovidio, a spiegare l'orrendo flagizio dell'accusa di
+Fedra, chiede:
+
+     Indiciine metu magis, offens#ane repulsae?
+
+e l'Ottimo: <La figliuola di Pasife accus@o Ippolito, lo quale
+ella aveva tentato indarno; e disse, che avea voluto corrompere
+il letto del suo padre; ed il peccato ch'ella volle, disse che
+volea il figliastro, per paura che nol manifestasse, e
+maggiormente per lo dispetto che la discacci@o: sicch@e il padre il
+condann@o, e cacci@o lui della cittade che non l'avea meritato, e
+per priego della sua nimica il condann@o nel capo.>  Forse nessun
+altro esempio dell'antichit@a poteva, come questo, cader meglio a
+proposito, dacch@e nel fatto stesso @e racchiusa dal Poeta la pi@u
+viva protesta della sua innocenza.  Ovidio termina il racconto
+d'Ippolito colle parole: ^immeritumque pater projecit ab urbe~; e
+Dante, scrivendo ^exulanti Pistoriensi~ (^Epist.~, IV, nel tit.),
+si dichiara ^exsul immeritus~; e nel ^Conv.~, I, 3, di soffrir
+^pena~ (dell'esilio) ^ingiustamente.~  E nella ^Vulg. El.~, I, 6:
+^Florentiam adeo diligimus, ut quia dileximus, exilium patiamur
+injuste.~  E all'^amico Fiorentino~ (^Epist.~, IX, {Paragraph.}
+3), parlandogli del proposto richiamo dall'esilio a condizioni,
+che al Poeta non parevano accettabili, scrive: ^Hoc ne meruit
+innocentia manfesta quibuslibet~?  E il concetto dell'innocenza
+sua (e cos@i la ^spietatezza~ e la perfidia della ^matrigna~
+Firenze) risorge limpido anche dalle parole di Brunetto (^Inf.~,
+XV, 61-64):
+
+     Ma quello ingrato popolo maligno
+     Ti si far@a per tuo ben far nimico.
+
+-- |Noverca~ (cf. ^Par.~, XVI, 59); matrigna; e che Firenze pi@u
+che madre fosse al Poeta matrigna, lo abbiamo anche
+dall'epitaffio, che dicono che il povero esule s'avesse scritto
+negli ultimi tempi delle sua vita:
+
+     Hic claudor Dantes, patriis extorris ab oris,
+     Quem genuit parvi Florentia mater amoris.
+
+E nel ^Canzoniere~ (Part. III, canz. I, nella chiusa):
+
+     O montanina mia Canzon, tu vai;
+     Forse vedrai Fiorenza, la mia terra,
+     Che fuor di s@e mi serra
+     Vuota d'amore e nuda di pietate
+
+(cf. ^Par.~, XXV, 4).  E il Boccaccio, in un sonetto, cos@i fa
+parlar Dante:
+
+     Fiorenza gloriosa ebbi per madre,
+     Anzi matrigna a me, pietoso figlio,
+     Colpa di lingue scellerate e ladre.
+
+-- |Tal di Fiorenza~ ecc.; vittima delle calunnie scevro di
+colpa.  E delle calunnie abbiamo i documenti.  Entrato Carlo di
+Valois in Firenze sul principio di Novembre del 1301, e per tal
+guisa essendo sormontata la parte de' Neri (cf. ^Inf.~, VI, 67),
+si di@e mano a mandare a confine que' cittadini di parte Bianca,
+che potevano essere un pruno negli occhi a coloro che avevano
+instaurato il nuovo ordine di cose; e il 27 Gennaio del 1302,
+l'Allighieri con altri del suo partito fu condannato a due anni
+d'esilio e a cinquemila fiorini di multa da pagarsi entro tre
+giorni, pena la confisca dei beni; e i motivi, che in quel
+decreto si adducono per tali pene, sono di baratterie commesse
+nel tempo del suo Priorato, di opposizione fatta alla venuta di
+Carlo di Valois, imputandogli anche la colpa d'aver procurato la
+divisione di Pistoia nelle fazioni de' Banchi e de' Neri. 
+L'altra sentenza del 10 Marzo susseguente condanna il Poeta, in
+contumacia, al rogo ^si in fortiam Communis~ (^Florentiae~)
+^pervenerit~ (cf. Balbo, ^Vit. D.~, lib. I, cap. XII; e il
+Fraticelli, che riporta le due sentenze, ^Vit. Dant.~, cap. V); e
+cos@i ebbe principio pel Nostro quella tremenda serie di guai, che
+non dovevano pi@u finire, se non con la vita.  Ma, rispetto alle
+nostre lettere, per l'Italia e pel mondo, ci@o fu provvidenziale;
+l'amore per Beatrice fu la base della immortale grandezza di
+Dante, ma al conseguimento di grandezza siffatta non sarebbe mai
+giunto senza gli affanni dell'esilio; in questo l'anima sua ebbe
+campo di manifestarsi in tutta la sua potenza di passioni
+profonde, d'affetti fecondi e sublimi, che sono ancora e saran
+sempre l'ammirazione del mondo.  Se Dante fosse stato ai tempi
+del ^lieto vivere~ di Firenze, in una ^fida cittadinanza~, nessun
+pu@o dire qual sonerebbe il suo nome a' d@i nostri; ma certo non si
+erra affermando che, in qualunque modo, Dante non sarebbe stato
+quale i secoli e tutto il mondo l'ammirano e l'ammireranno.  Le
+sventure abbattono i deboli; ma chi ebbe tanto vigor di fibra
+morale da vantarsi ^tetragono ai colpi di ventura~ {v.24}, e al
+loro urto starsene
+
+     come torre terma, che non crolla
+     Giammai la cima per soffiar di venti
+
+(^Purg.~, V, 14-15); e per salvezza del proprio onore scrivere
+quanto e come scrisse l'Allighieri nella Epistola IX; per costui
+le sventure sono gloria e immortalit@a, perch@e pu@o proclamare al
+mondo (^Canzon.~, P. II, canz. 6, st. 5):
+
+     L'esilio che m'@e dato, onor mi tegno...
+     Cader tra' buoni @e pur di lode degno.
+
+	|49-51.~  Questa terzina comprende una storia, la storia
+cio@e delle relazioni tra papa Bonifazio e il Comune di Firenze,
+per giudicar le quali fa d'uopo di molta spassionatezza, di molta
+equanimit@a ed equit@a; e soprattutto occorre (ci@o che molti ancor
+non intendono) di non giudicare mai uomini e fatti da noi s@i
+lontani, con criteri del tempo nostro; qui sta il guaio, e di qui
+l'esorbitare dei giudizi.  Che Bonifazio VIII potesse veder di
+buon occhio le fazioni di Toscana, e specialmente il prevalere
+de' Bianchi a Firenze, manco a dirlo; ma non bisogna dimenticare
+che il guelfismo in Italia, sia pure ne' suoi ultimi aneliti,
+rappresentava tuttavia il partito democratico anzi nazionale
+contro le pretese imperiali, alle quali Dante concedeva non solo
+di soverchio, ma sinanco la serenit@a del suo genio, come vediamo
+ne' faticosi avvolgimenti della sua ^Monarchia.~  Si capisce che
+parte Nera non sar@a rimasta colle mani alla cintola, e il
+terribile Corso avr@a saputo usare di tutta la forza, che gli
+veniva dal principio, che professava, dal nome della sua casa,
+dalle influenze, e da quelle destrezze dalle quali nessun partito
+politico non mai rifugge, anche se alle volte potesse perci@o
+corrugarsi il viso di madonna giustizia.  Che Dante, all'entrare
+di Carlo di Valois in Firenze, fosse alla corte pontificia
+ambasciatore della signoria di Firenze di parte Bianca, lo
+afferma Dino Compagni (^Cron.~, II, 25); e per quanto qualcuno
+dica ^falsa~ la Cronaca di Dino (e domandi sarcastico: ^chi bada
+oggi giorno a Dino e Compagni~?) con Dino bisogna ancora fare i
+conti, n@e il sarcasmo baster@a mai ad abbattere l'insigne lavoro,
+onde l'Italia s'onora, di Isidoro Del Lungo; men male che quella
+interrogazione non fu fatta da un italiano.  Ad ogni modo
+l'Allighieri ha fatto di tutto per rivelarsi oppositore di
+Bonifazio fin da quando il Papa mostr@o di volersi intromettere
+nelle cose di Firenze; ma non pot@e impedire l'influenza che il
+partito dantesco esercitava sull'animo del Papa sia con proprie
+ambascerie, sia per mezzo degli Spini, guelfi e banchieri papali,
+e d'altri gentiluomini fuorusciti (cf. Bartoli, ^Stor. Lett.
+It.~, vol. V, cap. 6).  Dante fu de' Priori di parte Bianca dal
+15 Giugno al 15 Agosto del 1300, n@e in quel posto seppe attutire
+gli odi de' suoi avversari; sembra anzi che dal suo Priorato
+avesse per lui vero principio ogni suo malanno, se @e vera la
+lettera, che come autentica cita Leonardo Bruni nella ^Vita~ del
+Poeta.  -- |Questo si vuole~ ecc.; il tuo partir di Firenze,
+prosegue Cacciaguida, @e gi@a stabilito, e se ne medita il modo a
+Roma da' tuoi avversari, dai fiorentini che son presso al Papa. 
+-- |A chi ci@o pensa~; l'Ottimo: <Tacitamente vuole che s'intenda,
+che cacciato anzi il mille trecento messer Corso e' suoi Neri di
+Firenze, elli se n'and@o a corte a papa Bonifazio, e con prieghi e
+con amici, con moneta e con senno fece s@i, che 'l detto Papa
+mand@o per messer Carlo fratello del re di Francia, per lo cui
+vigore il detto messer Corso ritorn@o in Firenze, e caccionne
+l'autore e li Bianchi.  O vuole dire Dante, ch'elli fosse
+richiesto dalla parte Nera (essendo in istato da poterlo fare)
+d'alcuna grande e disonesta cosa: e perch'elli non volle
+assentire, s@i lo giudicarono nemico del senato di Firenze.>  --
+|Cristo~; le cose sacre; cos@i altrove (^Inf.~, XIX, 2) chiama
+^cose di Dio~ i benefizi ecclesiastici.  -- |Si merca~; accenna
+al ^comperare e vendere dentro al templo~ (^Par.~, I, 22), cio@e
+all'^adulterare le cose di Dio simoniacamente, per oro e per
+argento~ (^Inf.~, XIX, 4).
+
+	|52-54.  La colpa~ ecc.; la colpa imputata, secondo il
+solito, al vinto.  Boezio (^Consol. Fil.~, I, pr. 4): <A questi
+miei mali se ne aggiugne un altro, che gli uomini per lo pi@u non
+istimano le cose secondo il valore e merito loro, ma secondo il
+successo e avvenimento della ventura, e solo quelle giudicano
+essere state ben fatte e con prudenza, le quali sono riuscite
+felicemente; e di qui nasce, che la prima cosa che abbandoni
+coloro i quali caggiono in miseria, @e la riputazione.  Io non
+posso ricordarmi senza rincrescimento e fastidio grande quali
+debbono ora essere i cicalamenti del popolo sopra i fatti miei,
+quanti e quanto diversi e discordanti i pareri.  Questo solo
+voglio aver detto, che la pi@u grave soma che sostengano gli
+sbattuti e afflitti dalla fortuna, @e che i peccati, che sono loro
+apposti, sono creduti veri, ed essi soffrirne meritamente le
+pene.  E cos@i io, cacciato di tutti i beni, spogliato di tutte le
+dignit@a, perduta ogni reputazione, anzi macchiato di sozza
+infamia, porto tormento d'aver bene operato.>  E Dante nel
+^Conv.~, I, 3: <... la piaga della fortuna, che suole
+ingiustamente al piagato molte volte essere imputata.>  E
+l'adagio popolare: ^chi le piglia ha torto.~  -- |La vendetta~;
+il castigo di Dio, quella vendetta, ch'egli s'accertava di vedere
+prima di morire (^Par.~, XXII, 14-15) ma forse per ci@o che ivi
+tosto soggiunge.  -- |Fia testimonio~ ecc.; il castigo del cielo
+sui veri rei render@a testimonianza alla verit@a; che lo infligge;
+la pena inflitta dal vero (da Dio, somma Verit@a e giusto
+Giudice), mostrer@a dov'@e il fallo, la colpa.  Anzich@e a qualche
+fatto speciale, pare che il Poeta accenni con ci@o al complesso di
+quelle disgrazie, che nell'entrata di Carlo di Valois in poi
+afflissero Firenze; onde la profezia arieggia all'altra, che
+sentimmo nell'^Inf.~, XXVI, 1-12.  Il concetto poi trova ampia
+spiegazione nel cap. I, del lib. III del ^Monarchia.~
+
+	|55-57.~  Il rompimento a mezzo il secondo verso @e quasi
+singulto.  |Ogni cosa~ ecc.; la patria, la famiglia, i parenti, e
+simili.  -- |Strale~; cf. ^Purg.~, XXXI, 55.  -- |Esilio~;
+secondo il Compagni (cf. vv. 49-51) e Leonardo Bruni, Dante al
+sormontare de' Neri in Firenze, era ambasciatore a Roma; per@o
+secondo il Villani (^Cron.~, IX, 134), era a Firenze, e di l@a
+cogli altri Bianchi prese la via dell'esilio.
+
+	|58-60.~  Notati dall'Alfieri.  Miglior commento non pu@o
+darsi a questi versi lagrimosi, che le parole stesse dell'Autore;
+nel ^Conv.~, I, 3: <... n@e altri avria contro a me fallato, n@e
+sofferto avrei pena ingiustamente; pena, dico, d'esilio e di
+povert@a.  Poich@e fu piacere de' cittadini di Fiorenza di gettarmi
+fuori del suo dolcissimo seno..., per le parti quasi tutte, alle
+quali questa lingua si stende, peregrino, quasi mendicando, sono
+andato.>  E ai nepoti di Alessandro da Romena (^Epist.~, II,
+{Paragraph.} 3): <Nec negligentia neve ingratitudo me tenuit,
+^sed inopina paupertas, quam fecit exsilium.~  Haec etiam, velut
+effera persecutrix, equis armisque vacantem, jam suae
+captivitatis me detrusit in antrum, et nitentem cunctis exsurgere
+viribus, huc usque praevalens, impia retinere molitur.>  Il che @e
+confermato dalle parole a Cangrande (^Epist.~, X, {Paragraph.}
+32): ^urget me rei familiaris angustia.~  E a ci@o mirano le
+parole del ^Canzoniere~ (P. II, canz. 5, st. 5):
+
+            vedete gir nudi
+     Per colli e per paludi
+     Uomini, innanzi a cui vizio @e fuggito.
+
+-- |Sa di sale~ ecc.; costa caro (^Par.~, XX, 46); onde le frasi:
+^gli costa salato quell'impiego~: -- ^me la pagherai salata~, ed
+altre ancora.  -- |Dura calle~ ecc.; cf. ^Purg.~, XI, 133-142;
+^Par.~, VI, 139-142.  Su questo tratto sar@a utile leggere quanto
+scrisse il Foscolo (^Discorso~ ecc., sez. 79 e segg.).
+
+	|61-66.~  Notati dall'Alfieri.  |E quel~ ecc.; ma la
+sventura maggiore, che ti cadr@a addosso nel tuo esilio sar@a il
+doverti mescolare con compagni malvagi e sciocchi, che per la
+loro ingratitudine e stoltezza ed empiet@a inviperiranno tutti
+contro di te; ma non andr@a molto ch'essi e non tu ne pagheranno
+il fio.  Il Del Lungo (^Cron. D. Comp.~, II, 562 e segg.), con
+quella diligenza, che @e il pregio dei veri dotti, ha studiato con
+amore questo punto della profezia di Cacciaguida, e colla scorta
+di documenti ha chiarito questi versi, sui quali o tiraron via, o
+dissero stranezze e contraddizioni i chiosatori antichi e anche
+non pochi moderni.  L'egregio scrittore dimostra che dopo la
+proscrizione del 1302 i Bianchi esiliati unendosi ai Ghibellini
+tentarono contro Firenze tre imprese, movendo dal Mugello (1302,
+1303, 1306).  In quanto alla prima, che fu nell'estate, nessun
+dubbio che Dante vi prendesse parte, dacch@e il suo nome @e
+registrato con quello d'altri maggiorenti nell'atto del d@i 8
+Giugno fatto nella chiesa di S. Godenzo appi@e dell'Apennino, con
+che dagli esuli si prometteva agli Ubaldini ogni ristoro dei
+danni, che avessero incontrato per la guerra contro Firenze, la
+qual guerra avrebbe avuto per base il castello di Montaccenico,
+propriet@a degli Ubaldini.  Sapendo che Dante era in amicizia con
+Scarpetta degli Ordelaffi, e Scarpetta avendo capitanato la
+seconda guerra (nella primavera del 1303), il Del Lungo opina che
+l'Allighieri vi fosse presente, e che poscia, fallite queste due
+imprese, siasi staccato subito dai fuorusciti; infatti, secondo
+il Del Lungo niente abbiamo da poter affermare che il Poeta abbia
+avuto mano nelle pratiche del Cardinal da Prato, paciere in
+Toscana per Benedetto XI (primavera 1304) pel rimpatrio degli
+esuli Bianchi (e per questo il Del Lungo reputa apocrifa
+l'Epistola di Dante a quel Cardinale, da altri tenuta autentica,
+e ch'@e la prima dell'Epistolario nell'ediz. del Giuliani e
+d'altri); e niente che ci obblighi a crederlo congiunto ai
+Bianchi nell'impresa della Lastra (estate 1304), quando tentarono
+inutilmente un nuovo colpo di mano contro Firenze; n@e il troviamo
+coi Bianchi ne' fatti posteriori, vale a dire nella perdita da
+essi fatta di Pistoia (aprile 1306), nella terza guerra mugellana
+(estate 1306), che ebbe per effetto la distruzione di
+Montaccenico; n@e apparisce che fosse con loro al venire in
+Toscana del Card.  Napoleone Orsini legato di Clemente V in
+favore dei Bianchi (1306-1307), n@e alla radunata di Arezzo
+(1307), ultimo alito del partito dei Bianchi; dopo la quale,
+scrive Dino, ^la gente che in aiuto erano venuti al Cardinale,
+sconsolati si partirono, perch@e vediano il partito vinto: e
+aveano speso assai senza alcun frutto, credendosi racquistare la
+terra loro.  E mai si raunaron pi@u.~  Ad ogni modo in che stesse
+propriamente l'^ingratitudine~, la ^mattia~ e l'^empiet@a~ di
+parte Bianca contro a Dante; non sappiam di preciso, ragione per
+cui furon fatte dai chiosatori e dai critici tante ipotesi e
+congetture.  Savie mi paiono perci@o queste parole dello
+Scartazzini: <Giova ricordarsi che questi versi non contengono
+che il giudizio tutto subbiettivo dell'una delle due parti, e che
+anche un Dante vede le cose dal suo punto di vista. Conoscendo
+tutti i fatti colle loro cause un giudice imparziale non darebbe
+forse tutta la ragione all'Allighieri.>  -- |Poco appresso~ ecc.;
+i Bianchi ne pagheranno il fio, n'avranno |rossa~ (altri ^rotta~)
+|la tempia~, pel sangue sparso inutilmente nell'impresa della
+Lastra (estate 1304), impresa mal preparata, e frutto di quella
+fretta che Dante, secondo l'ottimo, sconsigliava e biasimava; di
+qui i danni al partito e i sospetti sul Poeta per quello che ne
+dicono a questo punto e l'Ottimo le Chiose anonime (cf. F.
+Palermo, ^I manoscritti palatini di Firenze~, Fir. 1860, vol. II,
+pagg. 715 e segg.).  Ma |rossa~ altri intende non pel sangue
+versato, s@i per la vergogna; cos@i anche il Giuliani, che
+postill@o: <n'avr@a a vergognare, ad ^arrossare.~>
+
+	|67-69.~  Notati dall'Alfieri, eccetto il primo.  |Di sua
+bestialitate~ ecc.; il succedersi dei fatti di tale ^compagnia~
+{v.62} dar@a la prova evidente della sua bestialit@a.  -- |Il suo
+processo~; <il procedere, ^l'opere sue~,> postill@o il Giuliani. 
+|Processo~; cf. ^Par.~, VII, 113, nel commento.  -- |A te fia
+bello~ ecc.; se il Poeta, rigido giudice, s@i apertamente
+biasimava le imprese intempestive e gli inconsulti tentativi,
+costituenti il |processo~ della |bestialit@a~ del suo partito, @e
+logico che doveva vantarsi d'essersene tratto in disparte; e
+questo luogo rafferma l'^Inf.~, XV, 70-72.
+
+	|70-75.  Lo primo~ ecc.; dopo la tua separazione dalla
+^compagnia malvagia e scempia~ {v.62} avrai primamente cortese
+ospitalit@a dal Signor della Scala, chi sia |il gran Lombardo~ fu
+scritto da molti in vario senso, specialmente nel secol nostro; i
+pi@u degli interpreti per@o, vuoi antichi che moderni, intesero che
+si parli di Bartolommeo della Scala, ch'ebbe la signoria di
+Verona dalla morte del padre Alberto (cf. ^Purg.~, XVIII, 121),
+avvenuta nel 1301, sino al 1304, anno in cui mor@i.  Il Boccaccio
+(^Vit. Dant.~, {Paragraph.} 5) volle intendere Alberto della
+Scala; opinione affatto assurda, quando si pensi che Alberto mor@i
+prima che Dante venisse esiliato.  Il Vellutello, seguito da
+parecchi altri, intese che si parli di Alboino I, successo al
+fratello Bartolommeo nel marzo del 1304, e che mor@i nell'ottobre
+del 1311; e l'opinione del Vellutello arrise al Del Lungo
+(^Cron.~ ecc., II, 578 e segg.), che la rivest@i a nuovo, e con
+quella copia di erudizione, ch'@e patrimonio suo; ma non sempre
+l'erudizione anche pi@u ampia e leggiadra @e bastevole a
+convincere, nonch@e a persuadere; d'Alboino della Scala ci son nel
+^Convito~ (IV, 16) parole, le quali (dato pure il vario senso che
+a quel passo da vari critici viene attribuito) lasciano ritroso
+l'animo a credere che nel |gran Lombardo~ il Poeta potesse mai
+intendere Alboino.  Perci@o, ammesso il distacco dell'Allighieri
+dai Bianchi dopo la mal riuscita impresa condotta da Scarpetta
+(cf. vv. 61-66), e certo nell'autunno di quell'anno (1303),
+biasimando il Poeta il modo disavveduto con che i Bianchi si
+preparavano a una nuova impresa (che poi port@o alla disfatta
+della Lastra), @e certo che la spiegazione pi@u ovvia @e quella che
+ammette che l'Allighieri, uscendo di Toscana, riparasse dapprima
+a Verona, appunto negli ultimi mesi della signoria di
+Bartolommeo.  -- |Il santo uccello~; l'Aquila, l'uccel di Dio
+(^Par.~, VI, 4), arme dell'Impero.  Quando i signori di Verona
+all'arme della lor casa, ch'era una |scala~, abbiano aggiunto
+l'Aquila imperiale, non sappiamo; ma l'affermazione del Poeta che
+nella primavera del 1300 gli Scaligeri nel loro stemma gentilizio
+avevan gi@a l'Aquila, costituisce un fatto, che non si pu@o
+distruggere, e che esclude l'opinione di chi sostiene che ci@o
+accadesse soltanto nel 1311, quando conseguirono la dignit@a di
+Vicari imperiali.  Qualcuno @e d'avviso, che avendo Bartolommeo
+sin dal 1291 sposata Costanza di Svevia, figlia di Corrado
+d'Antiochia e pronipote di Federico II, siasi allora aggiunto
+allo scaligero lo stemma imperiale.  -- |Benigno riguardo~; sar@a
+verso di te cos@i benevolo, generoso, da prevenire le tue domande,
+i tuoi bisogni.  ^Di benigno e benignit@a~ cf. ^Par.~, XII, 57;
+XXXIII, 16-18 (ove in altra forma si ridice identico concetto). 
+-- |Fia primo~ ecc.; comunemente fra gli uomini bisogna domandare
+per ricevere; ma tra voi e due avverr@a l'opposto; riceverai prima
+di chiedere.  E schiarimento quello del ^Purg.~, XVII, 59-60; e
+nel ^Conv.~, I, 8: <La terza cosa, nella quale si pu@o notare la
+pronta liberalit@a, si @e dar il non domandato: perciocch@e dare 'l
+domandato @e da una parte non virt@u, ma mercatanzia: perocch@e
+quello ricevitore compera, tuttoch@e 'l datore non venda; perch@e
+dice Seneca: ^nulla cosa pi@u cara si compera che quella dove i
+prieghi si spendano.~  Onde, acciocch@e nel dono sia pronta
+liberalit@a, e che essa si possa in esso notare, allora si
+conviene essere netto d'ogni atto di mercatanzia; e cos@i conviene
+essere lo dono non domandato.>  Il Poeta scriveva poscia
+all'^Amico fiorentino~ (^Epist.~, IX, {Paragraph.} I): ^Tanto me
+districtius obligastis, quanto rarius exsules invenire amicos
+contingit.~
+
+	|76-78.~  Notati dall'Alfieri.  |Con lui~ ecc.; insieme
+col ^gran Lombardo~ {v.71} vedrai Cangrande, che nacque sotto
+l'influsso di Marte, onde ^mirabili fieno in guerra l'opere sue~
+(Ottimo).  Cangrande, terzogenito di Alberto della Scala nacque
+il 9 marzo del 1291 (cf. vv. 80-81); nel 1311 fu associato al
+governo dal fratello Alboino, e dall'imperatore Enrico VII ebbero
+il titolo di Vicari imperiali; morto Alboino (1312) Cangrande
+ebbe da solo la signoria di Verona; mor@i a Treviso il 22 luglio
+del 1329 (cf. il bel lavoro del prof. A. Medin, ^La resa di
+Treviso e la morte di Cangrande I della Scala~ ecc.; Venezia,
+1886).  -- |Impresso~ ecc. (nella ^Summ. Theol.~, I, 86, 4, ad 2:
+^corpora superiora imprimunt in corpora inferiora~): sulle
+^influenze~ de' pianeti nel disporre le indoli umane cf.
+^Dizionario Dantesco~, alla voce Cieli, E, {Paragraph.} I, II,
+III, e IV; e veggasi anche Forma ed Educazione.  -- |Da questa
+stella~; dal pianeta Marte (cf. ^Conv.~, II, 14), che dispone gli
+animi alle imprese guerresche.
+
+	|79-81.  Novella et@a~; et@a fanciulla (cf. ^Vit. N.~,
+{Paragraph.} 23, nella canz., v. 1, dove ^donna di novella etate~
+ha senso pi@u ampio, cio@e di ^donna giovane~; e ^Inf.~, XXXIII,
+88, nel commento).  -- |Nove anni~; da quando Cangrande venne al
+mondo, |queste ruote~, i Cieli, s'aggirarono intorno a lui per
+soli |nove anni~; ed ecco perch@e della sua indole guerresca |le
+genti~ (e ci@o non esclude che se ne fossero accorti i parenti e i
+famigliari) non se ne sono accorte per anco, nessuna impresa
+pubblica avendo potuto ancor compiere.  S'@e disputato (e per
+quanto la si voglia pomposamente rimettere a nuovo, la questione
+@e vecchia quanto il commento dell'Ottimo) se in questi |nove
+anni~; si debbano intendere ^nove anni solari~, ovvero ^nove
+giri~ del pianeta Marte; l'Ottimo scrisse: <Dice, che per la
+piccola etade che ha messer Cane, le genti non si sono accorte
+del suo valore: e secondo una sposizione messer Cane aveva nove
+anni nel 1300; e secondo un'altra, ne aveva diciannove, perocch@e
+Marte pone (-- il testo legge ^pena~ --) due anni a fare suo
+corso.>  Ma se il Poeta avesse voluto intendere ^nove
+rivoluzioni~ di Marte sarebbesi espresso in altra guisa, s@i da
+non creare un equivoco; ma, checch@e se ne dica, avendo detto
+|anni~, non puossi intender altro che rivoluzioni solari (cf.
+^Vit. N.~, {Paragraph.} 2); e perci@o non reggono gli sforzi del
+Grion n@e d'altri, intesi a provare che Cangrande sia nato nel
+1280 (o 1279, come voglion altri): ma se anche con documenti
+irrefragabili si potesse provare che Cangrande @e nato proprio nel
+1280 o 1279, non sar@a mai permesso di scrivere contro i
+chiosatori (e duole perch@e l'autore mostr@o gi@a d'avere scienza e
+attitudini a questi studi) le parole, con che si conchiude un
+recente o uscolo Nicol@o de Claricini Dornpacher ^Quando nacque
+Cangrande I della Scala~ ecc.; Padova Tip. Seminario, 1892), che
+propugna l'anno 1279: <^Solo una falsa critica, una critica
+improntata ai preconcetti, la critica purtroppo di molti
+Dantisti, ha conservato e perpetuato per tanti secoli l'errata
+notizia sulla nascita di Cangrande; ma finalmente la luce fu
+fatta~, la verit@a nulla menzogna frodi.>  Dicemmo che la
+quistione @e vecchia quanto quasi la storia del commento del sacro
+Poema; eppure prevalse l'opinione che Cangrande sia nato nel
+1291; ma ora che ^la luce~ finalmente ^fu fatta~, @e giusto che
+^la verit@a nulla menzogna frodi~; per@o, bisogna dire, che se i
+pi@u accreditati fra' Dantisti, con tutti i difetti della loro
+critica, ^improntata~ come sopra, son costretti di spiegare le
+parole come suonano, e non se la sentono alla voce ^anno~ (in
+barba al dizionario e al senso comune) di dare il significato di
+ventiquattro mesi e qualche giorno; bisogna dire, dico, che non
+hanno torto; infatti, o per |ruote~ intendete i Cieli, in genere,
+e avete nove anni solari; o intendete le ^rivoluzioni~ di Marte
+(ci@o ch'io non credo), e allora Marte n'avrebbe compiute circa
+quattro e mezzo, volgendosi per |nove anni~; ond'@e che, da
+qualunque lato si prenda la cosa, restano sempre i |nove anni~
+consacrati dall'autorit@a del Poeta.  Che se in luogo di |nove
+anni~ Dante avesse detto ^nove volte~, o altra frase consimile,
+la disputa potrebbe aver luogo, e le conclusioni, suffragate da
+documenti, dovrebbero anzi essere accolte: ma quel |pur nove
+anni~ toglie alla disputa nonch@e la seriet@a, la possibilit@a
+stessa.  Dal che, ognun vede, anche si inferisce che se Cangrande
+nacque nel 1280 o 1279, il ^menzognero frodatore~ della verit@a, o
+sciente o ignaro, non fu altri che il Poeta stesso.  Ma mettiamo
+pure che Dante abbia sbagliato sull'et@a di Cane; ma si potr@a per
+questo dir ^critica improntata ai preconcetti~ quella che spiega
+un autore secondo il genuino senso delle parole? rilevare
+l'errore, specialmente di date, d'un autore, non pure @e lecito,
+ma doveroso; ma non sar@a lecito mai (e sarebbe certo una critica
+senza criterio) obbligare gli interpreti a dare alle parole d'un
+testo il senso che non hanno, n@e possono avere.  Perci@o io credo
+che i chiosatori, ad onta della luce fatta, si crederanno anche
+quindi innanzi in dovere di tener fede alla parola chiarissima di
+Dante, (posto pure che sia provatissimo che Dante sbagli@o l'epoca
+della nascita di Cangrande), e che faran proprie le parole dello
+Scartazzini: <Resta fermo ed indubitato, che, secondo Dante,
+Cangrande nel 1300 aveva nove anni solari; e se mai la storia
+dovesse riuscire a provare che Cangrande nacque nel 1280, come
+vuole il Grion, si dovrebbe ammettere uno sbaglio del Poeta,
+sbaglio improbabile e poco meno che incomprensibile.>
+
+	|82-84.~  L'Alfieri not@o i due ultimi.  |Il Guasco~;
+Clemente V, di Guascogna (^Vasconum opprobrium~ dice Dante la
+traslazione della S. Sede da Roma ad Avignone: ^Epist.~, VIII,
+{Paragraph.} II); cf. ^Inf.~, XIX, 82 e segg.  -- |L'alto Arrigo~
+(|alto~ cf. ^Par.~, XVIII, 40); l'imperatore Enrico VII (cf.
+^Purg.~, XXXIII, 35-36; ^Par.~, XXX, 142 e segg.; e le tre
+^Epistole~ agli Italiani, ai Fiorentini e allo stesso Enrico). 
+-- |Inganni~; l'Ottimo: <Nel 1308 il detto Arrigo fu eletto e
+coronato re de' Romani, il quale era conte di Luzzinborgo, uomo
+di buona coscienza, valoroso in arme, valoroso e cortese, pietoso
+e dolce, e di virtude amico (-- ^e son pregi tutti che Dante
+decanta nel suo Epistolario, parlando d'Enrico~ --); il quale per
+circumspezione del cardinale d'Ostia, nato di Prato (-- ^@e colui
+al quale fu indirizzata l'Epistola I attribuita a Dante~ --), di
+consentimento di papa Clemente, nato di Guascogna, fu eletto in
+re de' Romani, ed a Roma venne, e fu coronato (-- 1312 --) per
+due cardinali, de' quali fu l'uno? il sopradetto d'Ostia; poi
+l'abbandon@o del tutto il detto papa, perch@e li devoti della
+Chiesa non l'ubbidivano.>  Cf. ^Par.~, XVI, 56, nel commento.  --
+|Faville~; indicii, segni, tracce (cf. ^Purg.~, XXIII, 46;
+^Par.~, XXIII, 71).  -- |In non curar~ ecc.; @e questo il luogo,
+che per la sua stretta affinit@a coll'^Inf.~, I, 103-105, pot@e
+trarre in errore alcuni chiosatori, che in Cangrande si
+persuasero di ravvisare il profetato Veltro; ma credo che non sia
+mestieri di ritornar sopra alla dibattuta quistione, e mi
+richiamo (chi voglia vederla trattata in lungo) a quanto n'ho
+detto altra volta (cf. ^Dizionario Dantesco~, vol. VIII, App.
+IV).  Di Cangrande scrive il Villani ^Cron.~, X, 140): <Questi fu
+il maggiore tiranno e 'l pi@u possente e ricco che fosse in
+Lombardia da Azzolino di Romano infino allora.>  Ma che l'animo
+di Cangrande non fosse attaccato alle ricchezze, ce ne fa fede
+Benvenuto, il quale narra, che, ancor fanciullo, condotto dal
+padre a vedere un tesoro, Cangrande ^levatis pannis, minxit super
+eum~; e se questa fosse anche leggenda, tuttavia, come nota il
+Casini, @e da tenerne conto, come di cosa raccontata nel secolo di
+Dante.  Ma abbiamo testimonianza che vince ogn'altra, quella cio@e
+di Dante stesso; egli scriveva a Cangrande (^Epist.~, X,
+{Paragraph.} I): <Inclyta vestrae magnificentiae laus, quam fama
+vigil volitando disseminat, sic distrahit in diversa diversos, ut
+hos in spem suae prosperitatis attollat, hos exterminii dejiciat
+in terrorem.  Hoc quidem praeconium, facta modernorum exsuperans,
+tanquam veri existentia latius, arbitrabar aliquando superfluum. 
+Verum ne diuturna me nimis incertitudo suspenderet, velut Austri
+regina Hierusalem petiit, velut Pallas petiit Helicona, Veronam
+petii fidis oculis discursurus audita. Ibique magnalia vestra
+vidi, vidi beneficia simul et tetigi; et quemadmodum prius
+dictorum suspicabar excessum, sic posterius ipsa facta excessiva
+cognovi.  Quo factum, ut ex auditu solo, cum quadam animi
+subjectione benevolus prius exstiterim; sed ex visu postmodum, et
+devotissimus et amicus.>  E nel {Paragraph.} 32: <Urget me rei
+familiaris angustia, ut haec (-- ^pi@u larga esposizione e
+speciale sal~ prologo ^del Paradiso, che gli mandava~ --) et alia
+utilia reipublicae derelinquere oporteat. Sed spero de
+magnificentia vestra, ut alias habeatur procedendi ad utilem
+exspositionem facultas.>  -- |Affanni~; onorate fatiche, spiega
+il Tommaseo; ma come? che lode sarebbe mai quella di dire che
+Cangrande non si sarebbe curato di onorate fatiche? qui la voce
+|affanni~ non vel certo quello che nel ^Purg.~, XIV, 99 (cf. ivi,
+nel commento), ma significa le fatiche, le cure in servigio del
+pubblico bene.
+
+	|85-87.~  L'Alfieri not@o |i suoi nemici~ col verso
+seguente.  Narra il Tommaseo: <Nel suo palazzo erano stanze per
+gli uomini di sapere, di stato, di guerra, con motti appropriati
+a ciascuna condizione: e quivi erano servi per tutti, e gli agi
+tutti del vivere; e suoni e canti.  Quel che narrasi dei motti
+pungenti dal Poeta rivoltigli, dimostra forse pi@u l'acre umore di
+Dante che la miseria di Cane.  Quando pure le dette novelle sian
+vere.>  -- |Magnificenze~; sentimmo test@e (vv. 82-84) due volte
+la voce ^magnificentia~, detta di Cane; ad ogni modo @e notabile
+che l'altre due volte, che nel Poema accorre tal voce, l'una sia
+per Beatrice (^Par.~, XXXI, 88), l'altra per la Vergine (^Par.~,
+XXXIII, 20), intendendo l'immenso lavorio della Grazia operatosi
+nella sua conversione per mezzo della Madre di Dio e della sua
+Donna.  Anche di Alessandro da Romena ricorda la ^magnificenza~,
+colla quale, scrive, ^me sibi ab annosis temporibus sponte sua
+fecit esse subditum~ (^Epist.~, II, {Paragraph.} 1).  E nel
+^Conv.~, IV, 17: Magnificenza @e moderatrice delle grandi spese,
+quelle facendo e sostenendo a certo termine.>
+
+	|88-90.~  Notati dall'Alfieri salvo il primo.  |A lui~
+ecc.; (col. dat. anche ^Pur.~, XVIII, 47); a lui sia rivolta la
+tua aspettazione; in lui e ne' suoi benefizi riponi la tua
+speranza, perch@e per opera sua molti muteranno condizione, i
+ricchi depressi, sollevati i poveri.  In forma non dissimile
+scrive dell'imperatore Enrico agli Italiani (^Epist.~, V,
+{Paragraph.} 2): ^Prope est qui liberabit te~ (^parla
+all'Italia~) ^de carcere impiorum; qui perctutients malignantes,
+in ore gladii perdet eos, et vineam suam aliis locabit
+agricolis.~  Quanto @e chiaro e determinato il primo verso,
+altrettanto sono oscuri e di senso vago gli altri due; e l'Ottimo
+avvert@i: <Questo testo @e chiaro in parte, e nel rimanente @e s@i
+oscuro, che non si pu@o chiosare per parole ch'entro vi sono; ma
+per lo effetto potrebbe uomo dire, questo volle intendere.  Ma
+l'Autore lasci@o cos@i in sospeso a prospero ed avverso stato,
+apparecchiato di ricevere sospizione.>  E in vero se i due versi
+debbonsi, come par giusto, intendere in senso di lode, non abbiam
+fatti nella storia di Cangrande che, per atto di giustizia da lui
+esercitata, abbiano mutato |condizione ricchi e mendici.~  N@e a
+tutti potr@a piacere il dubbio del Troja, che siavi racchiuso un
+biasimo per i saccheggi di Vicenza del 15 Aprile 1311 e del 17
+Settembre 1314, (cf. vv.) 91-93, nel commento, in fine).
+
+	|91-93.  E portera' ne~ ecc.; la reticenza conferma, anzi
+cresce la lode; a ci@o ne obliga il succedersi del pensiero, che
+d'una in altra lode va crescendo; ben chiara @e altrove, in senso
+opposto, consimile reticenza (^Par.~, IX, 4); @e come a dire: Tien
+fisso nella tua memoria tali mie predizioni, ma non dirle a
+nessuno.  -- |Scritto~ ecc.; cf. ^Inf.~, II, 8; ^Purg.~, XXXIII,
+70-77; ^Vit. N.~, {Paragraph.} I.  -- |Disse cose~ ecc.; i grandi
+fatti, che operer@a in benefizio altrui, le sue virt@u parranno
+incredibili sinanco a quelli che ne saran testimoni.  Se il
+Bennassuti ci volle intendere un forte biasimo, per gli ^sprezzi~
+di Cane al Poeta (de' quali po' poi non v'ha certezza storica),
+ben si merit@o il severo giudizio dello Scartazzini, che ^tale
+interpretazione urta contro la logica, contro la ragione e contro
+il senso comune~ (cf. terz. preced. nel commento, in fine).
+
+	|94-96.~  L'Alfieri not@o |ecco le insidie~ ecc.; si
+rammenti di che cosa il Poeta chiese spiegazione al suo antenato
+(vv. 18-26); or Cacciaguida fece le |chiose~ (cf. ^Inf.~, XV, 89;
+^Purg.~, XI, 141), diede la spiegazione alle oscure profezie che
+Dante aveva udito nel corso del suo viaggio.  -- |Insidie~ ecc.;
+queste sono le insidie ch'a' tuoi danni si vanno ordendo da' tuoi
+nemici, e che fra pochi anni si matureranno, ti si sveleranno di
+qui a non molti anni.
+
+	|97-99.~  L'Alfieri not@o i due ultimi, e scrisse nel
+margine: ^durer@a la tua vita pi@u che le pene dei perfidi.~  |Non
+vo'~ ecc.; non devi per questo portar odio ai tuoi concittadini
+ecc.; cos@i spiegano quasi tutti; ma qui il Poeta parla
+^d'invidia~ e non ^d'odio~, due colpe di specie distinte. 
+L'invidia @e il peccato d'anime fiacche; non dovea quindi capire
+in quella di Dante (cf. ^Purg.~, XIII, 135); e l'invidia
+presuppone un qualche bene desiderabile, una qualche prosperit@a
+nell'invidiato (cf. ^Conv.~, I, 4), ovvero un timore, che il suo
+^sormontare~ ci sia cagione di ^perdere podere, grazia, onore e
+fama~ (^Purg.~, XVII, 118-120): e tutto ci@o Dante doveva perdere
+e presso i Neri, che doveano ^sormontare~ fra non molto (^Inf.~,
+XII, 68), e presso la ^compagnia malvagia e scempia~ cui non
+sarebbe tornata gradita la voce di lui, e che l'avrebbe
+oltraggiato con disleali sospetti (cf. vv. 61-69).  -- |Vicini~;
+concittadini (cf. ^Inf.~, XVII, 68; ^Purg.~, XI, 140).  Il Cesari
+(in tutto non bene): <Tu, dice, nulla hai da invidiar alla
+prosperit@a di coloro; perocch@e ti @e apparecchiato un piacere
+senza pari, per solo il quale la tua sventura ti sar@a vantaggiata
+di lunga mano da ogni maggior loro gloria e fortuna: tu dei
+sopravvivere ancora tanto, da saziarti bene della vendetta che
+vedrai fare delle loro ribalderie.>  -- |S'infutura~ ecc.; la tua
+vita di gloria, il tuo nome durer@a ben pi@u del giorno che le loro
+perfidie saran punite: alle |perfidie~ predice castigo sicuro e
+forse non lontano; alla rettitudine predice lunghissima gloria. 
+E io non so come si possa cavare la spiegazione del Cesari: ^tu
+dei sopravvivere ancor a tanto, da saziarti bene della vendetta
+che vedrai fare delle loro ribalderie~, che parmi in opposizione
+sostanzialmente coll'altro: ^non vo' ch'a' tuoi vicini invidie.~ 
+Il Tommaseo: <Non so s'egli (^Dante~) creasse a uso suo
+|s'infutura la tua vita~ (pi@u bello assai del ^t'insusi~); ma
+certo questa parola tiene della divina onnipotenza ne' tempi.>  A
+dir breve, io intendo che Cacciaguida, checch@e ne dicano i
+chiosatori, insinui a Dante il cristiano precetto di perdonare
+agli offensori le ingiurie, coll'assicurarlo di due cose, che
+cio@e tali ingiurie Dio le punir@a, e che la gloria del Poeta, resa
+grande e bella appunto da tali ingiustizie, s'infuturer@a, mentre
+i suoi avversari, con tutto il loro chiasso, cadranno nella
+dimenticanza.  Un passo notabilissimo; scrivendo agli Italiani,
+rivolgendosi a coloro che, come lui, avevano patito ingiustizie e
+danni immeritati, esclama: ^Parcite, parcite jam et nunc, o
+carissimi, qui mecum injuriam passi estis, ut Hectoreus pastor~
+(l'Imperatore) ^vos oves de ovili suo cognoscat~, inclinatissimo
+anch'egli, come ministro di Dio clementissimo, al perdono
+(^Epist.~, V, {Paragraph.} 5).  E nell'^Epist.~, VI, {Paragraph.}
+I, ricorda le parole del Signore ^mea est ultio.~  E all'amico
+Cino, ^l'exulanti Pistoriensi~ (^Epist.~, IV), a indurlo a
+perdonare agli offensori, rammenta le parole di Cristo agli
+Apostoli: <Illud de memoria sane tua non defluat: ^Si de mundo
+fuissetis, mundus quod suum erat, diligeret~> ({Paragraph.} 5). 
+Bellissime, e a schiarimento della presente terzina
+opportunissime, queste parole di Boezio (^Consol. Fil.~, IV, pr.
+3): <Incrudeliscano dunque i cattivi, e facciano male quanto a
+lor piace; non perci@o cade all'uomo savio, n@e si seccher@a il suo
+pregio e la sua ghirlanda, perch@e l'altrui malvagit@a non toglie
+agli animi buoni il loro proprio ornamento.>
+
+	|100-105.~  L'Alfieri not@o la seconda terzina.  Il nostro
+Poeta n'ha insegnato altrove che nasce, ^a guisa di rampollo,
+Appi@e del vero il dubbio~ (^Par.~, IV, 130): e qui pure s'avvera
+un tale principio; avuta una spiegazione, eccoti un nuovo dubbio
+attraversargli la mente; e il dubbio @e questo, che propone a
+Cacciaguida: Quanto ho veduto e sentito lungo il mio viaggio
+dovr@o tacere per non recar molestia ai potenti del mondo? o
+invece dovr@o dir tutto per acquistarmi un nome glorioso?  -- |Si
+mostr@o spedita~; mostr@o d'aver finito, d'avermi dato la
+necessaria spiegazione alla mia domanda (cf. vv. 19-26).  -- |La
+trama~ ecc.; mostrarmi il tessuto de' casi miei, chiosa il
+Tommaseo.  Il Bianchi: <Chi domanda, ordisce in certo modo la
+tela; chi risponde alla domanda, riempie questa tela.>  -- |La
+tela~ ecc.; lo stesso traslato ricorre nel ^Par.~, III, 95-96. 
+Nel ^Conv.~, IV, 18: <Quello ch'@e detto sia presupposto, cio@e
+ordito e apparecchiato a quello che per innanzi s'intende.>  --
+|Come colui~ ecc.; coll'atto, colla fiducia di persona, che non
+sapendo come distrigarsi da' suoi dubbi, chiede consiglio a
+persona di senno, retta e affezionata; ed ecco le tre qualit@a che
+il Poeta pone per un buon consigliere, testa, coscienza e cuore.
+
+	|106-111.~  Notati dall'Alfieri.  |Ben veggio~; da tutto
+quello che aveva test@e inteso da Cacciaguida.  -- |Sprona~ ecc.;
+mi s'appressa (v. 26), s'affretta.  -- |Colpo~ ecc.; pi@u addietro
+^colpi di ventura~ (v. 24), e ^strali~ saettati dall'arco
+dell'esilio (v. 56).  -- |Pi@u grave~ ecc.; ai deboli d'animo
+duole pi@u; @e pi@u funesto a chi si perde di coraggio,
+s'annighittisce.  -- |Perch@e~; per le quali cose udite.  --
+|Provvedenza~ ecc.; @e bene che provvegga a' casi miei (cf.
+^Inf.~, XXIV, 25, nel commento).  ^L'Anon. Fior.~: <Quasi a dire:
+s'io ponessi silenzio a mia scienza, potrei schifare tale silio. 
+Nel ^Conv.~, III, 1: <Dice Boezio: ^Non basta di guardane pur
+quello ch'@e dinanzi agli occhi, cio@e il presente; e per@o n'@e data
+la provvidenza, che riguarda oltre a quello che pu@o avvenire.~> 
+Cf. ^Inf.~, XV, 95-96.  Boezio (^Consol. Filos.~, II, pr. 8): <Io
+tengo che pi@u giovi agli uomini la fortuna avversa che la
+prospera, perch@e quella sotto la speranza della felicit@a, quando
+ti pare piacevole, sempre mente; questa @e sempre vera, quando col
+mutarsi si mostra stabile (-- cf. ^Inf.~, VII, 88 --); quella
+inganna, questa ammaestra; quella lega le menti di chi la gode
+colla speranza de' beni bugiardi; questa col conoscimento della
+felicit@a frale e falsa le scioglie.>  -- |Se luogo~ ecc.; se da'
+nemici m'@e stato tolta la patria, non abbia a perdere gli altri
+luoghi, ove potermi rifugiare.  -- |Per miei carmi~; pel mio
+libero parlare.
+
+	|112-117.~  Notati dall'Alfieri.  |Lo mondo~ ecc.;
+l'Inferno, la ^valle dolorosa~ (v. 137, che ^tuono accoglie
+d'infiniti guai~ (^Inf.~, IV, 9).  -- |Monte~; il ^Purgatorio~
+(cf. vv. 19-21).  -- |Cacume~; vetta, il Paradiso Terrestre.  --
+|Gli occhi~ ecc.; di ci@o cf. ^Par.~, I, 75.  Il Tommaseo: <Il
+verso che dice come ^dalla cima del monte santo gli occhi della
+donna sua lo levarono~ al cielo, @e sublime nella semplicit@a, e
+compendia tutto l'etereo viaggio; anzi ci fa da quelle altezze
+riscendere fin sulla soglia dell'abisso, e rammenta.  ^Gli occhi
+lucenti, lagrimando volse; gli occhi belli Che lagrimando, a te
+venti mi fenno~: dal che si vede come la virt@u di questi occhi
+dall'^infima laguna dell'universo~ lo levassero al ^cielo che @e
+pura luce~ d'intelletto e d'amore, e siano l'ordigno spirituale e
+la macchina mistica del poema.>  -- |Di lume~ ecc.; d'uno in
+altro pianeta.  -- |Appreso~ ecc. (^vidi cose~, ^Par.~, I, 5);
+s'io le narrassi come appunto le appresi, temo che a molti
+tornerebbero ostiche.  E tra le tante vedute sentite, la cui
+sincera narrazione avrebbe potuto procurargli i temuti dispiaceri
+dai potenti o da' male intenzionati, o da chi spesso confonde la
+calda parola, che pu@o esser zelo, colla pervicacia dell'errore,
+son da notarsi Francesca, Filippo Argenti, Niccol@o III, anche per
+quanto disse contro Bonifazio e Clemente, Branca d'Oria; le
+parole di Nino Visconti contro la moglie; quelle di Guido Del
+Duca contro Toscana tutta e tutta la Romagna; quanto disse Ugo
+Capeto contro tutta la casa di Francia; e quello che sent@i da
+Forese contro Corso e tutte le donne Fiorentine; la
+trasformazione del Carro, e l'atto in che vide il gigante; la
+tirata contro Alberto della Scola, padre di Bartolommeo,
+d'Alboino e di Cane; quanto sent@i da Giustiniano contro Guelfi e
+Ghibellini; da Carlo Martello contro il fratello Roberto; da
+Cunizza contro i popoli della Marca Trivigiana; e quello che da
+S. Tommaso e da S. Bonaventura contro i Domenicani e i
+Francescani, e dalla sant'Aquila contro tutti i re allora
+regnanti, e altro da altri; c'era da mettere a subisso mezzo
+mondo, e non solo da inviperire ancor peggio i potenti e i suoi
+nemici, ma da procurargliene facilmente di nuovi.
+
+	|118-120.~  Notati dall'Alfieri.  |E s'io~ ecc.; e se io,
+col tacere, mi mostrassi poco coraggioso, tacessi la verit@a, temo
+di restar senza buona fama presso i posteri, d'essere disprezzato
+da loro.  -- |Vita~; cf. v. 98; ^Inf.~, XV, 120; XXIV, 47-51;
+^Par.~, IX, 42.  Del dire la verit@a, anche a rischio non solo di
+farsi de' nemici, ma anco di perdere amici, ne insegna il nostro
+Autore (^Conv.~, IV, 8; ^Mon.~, III, 1; ^Epist.~, VIII,
+{Paragraph.} 5, citando Aristotele); nel quale ultimo passo sono
+pur notabili queste parole: ^In ore lactentium et infantium
+sonuit iam Deo placita veritas, et caecus natus veritatem
+confessus est, quam Pharisaei non modo tacebant, sed et maligne
+reflectere conabantur~; n@e si potr@a certamente dire che alla
+verit@a il nostro Autore in tutte le sue opere non abbia reso il
+pi@u grande omaggio, sino ad affrontare in difesa di lei le
+quistioni pi@u ardenti e scabrose; nella ^Mon.~, III, 3: ^Pro
+salute veritatis in hoc libro certamen incipio.~  -- |Coloro, che
+questo tempo~ ecc.; la futura gente (^Par.~, XXXIII, 72).
+
+	|121-123.~  Notati dall'Alfieri.  |La luce~; l'anima di
+Cacciaguida, spiega un moderno; e non va, perch@e che vorrebbe
+significare allora quel |mio tesoro~? dunque, il globo luminoso
+entro il quale |rideva~ l'anima ecc.  -- |Rideva~; tripudiava
+(cf. v. 36; ^Par.~, IX, 70-71).  -- |L@i~; nella croce antro il
+pianeta Marte.  -- |Corrusca~ (cf. ^Purg.~, XXXIII, 103,
+^corrusco~, del Sole), splendente, scintillante.  Nel ^Conv.~,
+III, 8: <Che @e ridere se non una corruscazione della dilettazione
+dell'anima?>  Egli @e questo, nota il Cesari, l'usato guizzar di
+luce pi@u acceso, pel piacere di compiacere al Poeta.
+
+	|124-129.~  L'Alfieri not@o i due penultimi.  |Coscienza
+fusca~; nera, macchiata, ^coscienza maliziata~ (^Conv.~, I, 2). 
+-- |Propria~ ecc.; o per proprie azioni vergognose, o per
+siffatte de' propri congiunti; nel primo caso si ripensi a
+Venedico Caccianimico, a Vanni Fucci, a Bocca degli Abati, a
+Branca d'Oria, e a cent'altri; nel secondo, ai Chiaramontesi, che
+^arrossan per lo staio~ (^Par.~, XVI, 105; cf. ivi, nel
+commento).  Il Tommaseo: <|vergogna~ da s@e permessa, o non
+lavata, potendo;> il che non esclude fatti consimili a quello
+dello ^staio~, e dichiara la giustizia che un discendente bene
+operante non dovrebbe ^arrossare~ delle malvagit@a de' suoi avi;
+ma pur troppo pare che il mondo non la intenda cos@i (cf. ^Conv.~,
+IV, 25).  -- |Pur~; alcuni spiegano ^soltanto, solamente~; altri
+^certamente, davvero~; pu@o stare e l'una e l'altra chiosa.  --
+|Parola brusca~; parole d'aspro sapore, pungenti.  Si leggano
+attentamente queste parole della ^Mon.~, (III, 1): <^Nunc de
+tertia~ (-- ^quaestione~, che consiste nel provare che
+l'imperiale Autorit@a emana immediatamente da Dio --) ^restat
+agendum.  Cuius quidem veritas, quia sine rubore aliquorum
+emergere nequit, forsitan alicuius indignationis causa in me
+erit.~  -- |Rimossa~; tolta via, messa in disparte.  -- |Tutta
+tua vision~ ecc.; svela tutto che vedesti.  N@e ci@o contraddice al
+divieto dato a Dante da Cacciaguida, rispetto ai grandi fatti di
+Cangrande, de' quali il mondo sarebbe stato spettatore (vv.
+91-93), e dal vederli le genti avrebbero potuto di per s@e trarne
+eccitamento alla debita imitazione, al bene; e nel lodare i vivi
+e potenti alle volte si cade in sospetto d'adulazione (cf.
+^Conv.~, I, 2); ma qui si tratta di svelare segrete e disgustose
+cose per farne abborrenti i vivi e guidarli alla virt@u.  Del far
+pubblica la sua visione senza reticenze @e cenno anche nel
+^Purg.~, XXXII, 103; XXXIII, 52-54; e pi@u innanzi il sentiremo da
+S. Pietro (^Par.~, XXVII, 64); per@o mal da ci@o il Foscolo e il
+Rossetti pretesero vederci una missione assuntasi dal Poeta di
+una riforma religiosa.  Della libert@a e franchezza de' grandi
+uomini sono argomento e dottrina queste parole (^Epist.~, X,
+{Paragraph.} 2): ^Eos, quibus optimum quod est in nobis noscere
+datum est, gregum vestigia sectari non decet, quinimmo suis
+erroribus obviare tenentur.  Nam intellectu et ratione vigentes,
+divina quadam libertate dotati, nullis consuetudinibus
+adstringuntur~: e quindi gi@a botte da orbi.  -- |Lascia~...
+|grattar~ ecc.; e si dolgano a lor posta quei che hanno la
+|coscienza fusca.~  E su queste voci non mancarono mille
+avvocati, ad accusa e a discolpa; ^e quisquis abunda in sensu
+suo~; e sotto un aspetto ben si pu@o difendere con valide ragioni;
+e sotto un altro, con altrettanto valide, biasimarlo: non facile
+il caso in altri poeti: Dante @e singolare anche in questo (cf.
+^Inf.~, XVIII, 131).
+
+	|130-132.~  Notati dall'Alfieri.  |Molesta~;
+rincresciosa, perch@e ^brusca~ {v.126}.  -- |Vital nutrimento~
+ecc.; gioveranno assai le tue parole alla correzione degli
+uomini, quand'essi, digeritane la prima asprezza, ne mediteranno
+a mente calma gli insegnamenti racchiusi.  Dunque @e un dire:
+Predica, e un po' alla volta metteranno giudicio.  Cos@i Meri in
+Virgilio (^Buc.~, IX, 50):
+
+     Insere, Daphani, pyros; carpent tua poma nepotes;
+
+e dai nostri contadini accade di sentire: ^Seminiamo, e qualcuno
+raccoglier@a.~
+
+	|133-135.~  Notati dall'Alfieri.  |Questo tuo grido~
+ecc.; questo tuo gridare, manifestando le cose vedute,
+s'indirizzer@a alle teste pi@u alte, ai pi@u potenti della terra; e
+far@a perci@o come fa il vento, che pi@u percuote le cime quanto pi@u
+son alte; e questo tuo coraggio ti sar@a principale motivo
+d'onore.  -- |Grido~; nel ^Conv.~, IV, 1: <Per fuggire aziosit@a,
+che massimamente di questa Donna (^la Filosofia~) @e nemica,...
+proposi di ^gridare~ alla gente che per mal cammino andavano,
+acciocch@e per diritto calle si dirizzassono.>  E che altro @e mai
+la ^Commedia~, se non un alto |grido~, per ridurre ^viventes in
+hac vita de statu miseriae, et perducere ad statum felicitatis~?
+(^Epist.~, X, {Paragraph.} 15).  S. Paolo (II ^Cor.~, X, 4):
+^Arma militiae nostrae non carnalia sunt, sed potentia Deo, ad
+destructionem munitionum, consilia destruentes, et omnem
+altitudinemn extollentem se adversus scientiam Dei.~  -- |E ci@o~
+ecc.; il mostrare il dente ai potenti, e cantare a faccia
+scoperta le loro reit@a, @e indicio d'animo generoso, amante della
+virt@u, pensoso della giustizia, difensore dei deboli; chi invece
+ha paura, chi ha coscienza ^fusca~ {v.124} di ribalderie come
+essi, o di pusillanimit@a, lascia fare, se al pi@u non si decida a
+qualche epigramma senza nome.  Attenda il giovane studioso; uno
+scrittore, che ha paura dei grandi o cerca da loro materiali
+vantaggi, non isvela e rampogna il loro malfare; anzi quand'ha
+tale anima, seconder@a le loro malvage passioni.  In questa
+terzina sta tutto il germe della moralit@a letteraria, condizione
+necessarissima perch@e una letteratura riesca feconda di bene
+morale e civile, ed essa stessa possa grandeggiare.  Ora si
+raffronti questo principio alle condizioni delle nostre lettere,
+quando un falso mecenatismo le attrasse nelle corti de' Principi;
+e si vedr@a che pi@u che luce, dopo la met@a del quattrocento fino
+al Galilei non abbiam che bagliore, il quale sovente, come manto
+dorato, copre infinite miserie.
+
+	|136-138.~  Notati dall'Alfieri.  |Per@o~; a questo
+intento di non aver paura dei potenti del secolo.  -- |Ti son
+mostrate~; cf. ^Inf.~, XXIX, 95; ^Purg.~, XVI, 32.  -- |In queste
+ruote~; nei cieli.  -- |Nel monte~; nel Purgatorio (cf. vv.
+19-21, e 113).  -- |Valle dolorosa~; cf. v. 112.  -- |Pur~ ecc.;
+solamente le anime ^pi@u note e pi@u somme~ (^Inf.~, XV, 102)
+d'uomini famosi (^di gran voce~, ^Par.~, XVIII, 32); ^di gran
+fama~ (^Inf.~, XV, 107); <perch@e di questi, nota il Cesari, fa
+maggior prova ne' lettori il libero scoprir de' misfatti;> ma non
+bisogna escludere che il Poeta parla anche de' famosi, che sono
+in cielo, perch@e due sono i modi di attrarre altri al bene, la
+bruttezza del vizio, la bellezza della virt@u, pena e premio, i
+grandi rei, per starsene in disparte, i grandi buoni per
+seguitarli, perch@e ^la via de' giusti, quasi luce splendiente
+procede, e quella delli malvagi @e oscura, ed essi non sanno dove
+rovivano~ (^Conv.~, IV, 7).  E ivi, III, 15: <Non chiudete gli
+orecchi a Salomone, che vi dice che ^la via de' giusti @e quasi
+luce splendente, che procede e cresce infinto al d@i della
+beatitudine~; andando loro dietro, mirando le loro operazioni
+ch'esser debbono a voi luce nel cammino di questa brevissima
+vita.>
+
+	|139-142.  Che l'animo~ ecc.; gli esempi, che a
+persuadere una virt@u, si traggono da fatti o nomi di persone
+ignote, sono inefficaci.  Il Biagioli: <Dice il Poeta, che
+l'animo della persona, a cui vuolsi insinuare una verit@a, non
+l'accoglie n@e vi presta intera fede senza due condizioni, le
+quali sono: 1+o~ che il precetto sia accompagnato da esempio
+apparente o visibile; 2+o~ che non abbia l'esempio esposto la
+|radice sua incognita e nascosa~, come sarebbe producendosi
+esempi di persone oscure, d'uno artigianello invece di quelli di
+persone cospicue.>  -- |Posa~; cf. ^Par.~, IV, 127.  -- |Ferma
+fede~; prestar credenza fermamente, essere convinto e persuaso
+(^Purg.~, III, 65, ^fermar la speme~); cf. ^Par.~, XX, 104 (nel
+^Purg.~, XXVI, 12, ^fermar l'opinione~).  -- |Haia~; abbia, anche
+in prosa presso i nostri antichi.  -- |La sua radice~; la sua
+prima posizione, spiega l'Ottimo; e aggiunge: <Per@o conviene che
+il primo posto sia per s@e noto, se per argomenti non @e
+probabile.>  -- |Non paia~; non si mostri manifesto.  Il Cesari:
+<Chi ascolta, non s'acqueta, n@e aggiusta ferma fede alle verit@a
+increscevoli (-- e anche ^non increscevoli~ --), se non gli son
+provate per esempi sfolgoranti di persone di molta voce; quello
+di oscure e basse, non pon n@e leva.>
+
+	Nota le terzine 1 alla 9; 11, 12; 14 alle 33; 35 alla 45,
+con l'ultima.

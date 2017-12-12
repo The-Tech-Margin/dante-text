@@ -1,0 +1,135 @@
+	|1.~ |(ed.  Rosini)~
+^Contemplante~, S. Bernardo.  [Da Fino]
+
+	|2.~ |(ed.  Rosini)~
+^Assunse~, elesse.  [Da Fino]
+
+	|4-6.~ |(ed.  Rosini)~
+Nota costruzione.  [Sessa]
+
+Eva.  Contrarj.  [Da Fino]
+
+	|7-12.~ |(ed.  Rosini)~
+Descrive.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+Di sotto da costei.  [richiamo marginale] [Sessa]
+
+	|12.~ |(ed.  Rosini)~
+David.  [Da Fino]
+
+	|30.~ |(ed.  Rosini)~
+^Cerna~, divisione.  [Da Fino]
+
+	|33.~ |(ed.  Rosini)~
+^Inferno~, ol limbo.  [Da Fino]
+
+	|40.~ |(ed.  Rosini)~
+^Fiede~, divide.  [Da Fino]
+
+	|42.~ |(ed.  Rosini)~
+^Per nullo proprio merito~, per esser putti.  [Da Fino]
+
+	|49.~ |(ed.  Rosini)~
+^Sili~, stai cheto.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+^Dall'anello al dito~, ogni cosa a misura.  Traslazione.  [Da Fino]
+
+	|58.~ |(ed.  Rosini)~
+^Festinata~, essendo morti putti.  [Da Fino]
+
+	|61.~ |(ed.  Rosini)~
+^Pausa~, posa.  [Da Fino]
+
+	|69.~ |(ed.  Rosini)~
+Esa@u e Jacob.  [Da Fino]
+
+	|70-72.~ |(ed.  Rosini)~
+Si d@a corona secondo la diversit@a delle grazie.  [Da Fino]
+
+	|75.~ |(ed.  Rosini)~
+^Nel primiero acume~, nella prima grazia.  [Da Fino]
+
+	|76.~ |(ed.  Rosini)~
+^Ne' secoli recenti.  Secoli recenti~, per primi.  [Sessa]
+
+	|76-78.~ |(ed.  Rosini)~
+Dunque son oggi di peggior condizione li putti che non si salvano per 
+fede delli parenti.  [Da Fino]
+
+	|80.~ |(ed.  Rosini)~
+^Convenne a' maschi a gl'innocenti penne.  Maschili penne~, 
+nell'Inferno (c. XX v. 45) [Sessa]
+
+	|83-84.~ |(ed.  Rosini)~
+Non ha luogo senza battesimo.  [Da Fino]
+
+	|83-88.~ |(ed.  Rosini)~
+^Sola ti pu@o disporre a veder Cristo~.  Nota religione in Dante, che 
+non accorda mai altra rima con Cristo.  [Sessa]
+
+	|85-86.~ |(ed.  Rosini)~
+^...  nella faccia, che a Cristo Pi@u s'assomiglia~, faccia di Maria.  
+[Da Fino]
+
+	|94.~ |(ed.  Rosini)~
+^E quell'amor~, arcangelo Gabriele.  [Da Fino]
+
+	|107.~ |(ed.  Rosini)~
+^Che abbelliva di Maria.  Abbelliva~, passivamente senza il ^si~.  
+[Sessa]
+
+^Di colui~, S. Bernardo.  [Da Fino]
+
+	|112.~ |(ed.  Rosini)~
+^Palma~, annunzio.  [Da Fino]
+
+	|114.~ |(ed.  Rosini)~
+S'incarn@o.  [Da Fino]
+
+	|116.~ |(ed.  Rosini)~
+^Patrici~, cittadini.  [Da Fino]
+
+	|119.~ |(ed.  Rosini)~
+^Augusta~, Maria.  [Da Fino]
+
+	|121.~ |(ed.  Rosini)~
+S'aggiusta.  [richiamo marginale] [Sessa]
+
+	|123.~ |(ed.  Rosini)~
+Adamo.  [Da Fino]
+
+	|126.~ |(ed.  Rosini)~
+S. Pietro.  [Da Fino]
+
+	|129.~ |(ed.  Rosini)~
+S. Giovanni.  [Da Fino]
+
+	|132.~ |(ed.  Rosini)~
+Mois@e.  [Da Fino]
+
+	|136.~ |(ed.  Rosini)~
+Adamo.  [Da Fino]
+
+	|139.~ |(ed.  Rosini)~
+^Ma perch@e il tempo fugge, che t'assonna.~  Qui accenna, che la sua 
+sia visione, siccome sopra Cacciaguida: ^Questa tua vis@ion fa 
+manifesta.~  (Parad. c. XVII v. 128) [Sessa]
+
+^Assonna~, fa dormire.  [Da Fino]
+
+	|140-141.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|142.~ |(ed.  Rosini)~
+^Primo amore~, Dio.  [Da Fino]
+
+	|145.~ |(ed.  Rosini)~
+^Veramente, n@e forse, tu t'arretri.  N@e~, alla latina.  [Sessa]
+
+Contrarj.  Pensando d'andare innanzi, torni addietro.  [Da Fino]
+
+	|146.~ |(ed.  Rosini)~
+Oltrarti.  [richiamo marginale] [Sessa]
+

@@ -1,0 +1,174 @@
+	|1.~  QUANDO SI PARTE 'L GIUCO DELLA ZARA: il giuco della zara @e un 
+giuoco a dadi, e proprio discrive i costumi d'un giucatore.
+
+	|6.~  E QUEL DEL LATO LI SI RECA A MENTE, idest, gli va a lato per 
+farsi vedere, acci@o che si ricordi di donargli alcuna cosa.
+
+	|8.~  A CUI PORGE LA MAN, s'intende, dandogli danari, PI@U NON [F]A 
+PPRESSA, perch@e ha a@uto quello che volea.
+
+	|18.~  CHE F@E PARERE 'L BUON MARZUCCO FORTE: lauda il Poeta per 
+fortezza, e meritamente, il perdono che fece Marzucco de la morte del 
+figlio.
+
+	|20.~  ASTIO: dicemo noi `asto' e molestia; INVEGGIA, idest, invidia.
+
+	|24.~  GREGGIA: nota che sono alcuni nomi che nel numero del meno ha 
+la ^i~ e in quel del pi@u la lascia, come questo ^greggia~, che fa poi 
+^gregge: calcia calce, faccia facce, coscia cosce, scaggia scagge~.
+
+	|29.~  ESPRESSO, idest, espressamente; IN ALCUN TESTO, ch'@e nel VI de 
+l'^Eneide~: <Desine fata Deum flecti sperare precando>.
+
+	|30.~  PIEGHI, ch'@e quello proprio che dice <flecti>.
+
+	|34-35.~  LA MIA SCRITTURA @E PIANA, che risponde a quello che avea 
+detto Dante, ^o non m'@e 'l detto tuo ben manifesto~; E LA SPERANZA DI 
+COSTOR NON FALLA, che Dante avea detto ^sarebbe adunque loro speme 
+vana~.
+
+	|37-39.~  CHE CIMA DI GIUDICIO, ch'@e Dio, NON S'AVALLA, non si piega 
+in gi@u, PERCH@E FOCO D'AMOR, idest, la carit@a d'alcun, COMPIA IN UN 
+PUNTO CI@O CHE DEE SATISFAR CHI QUI S'ASTALLA, che risponde a quel 
+punto, perch'@e vero: sar@a un morto ch'aver@a da purgar con 
+lunghissimo tempo e martirio i suoi peccati; sar@a un vivo che pregar@a 
+ferventissimamente Idio per remission d'i peccati di quel morto, e Dio 
+lui rimetter@a, e non sar@a per questo piegato Idio, ma aver@a per 
+giustitia fatto quello, perch@e, se si trova uno che voglia pagare il 
+debito d'un altro, sar@a ben crudele quello che non si pigli quelli 
+denari e liberi quel altro dal debito; che l'uno mo possi in un punto 
+pagar il debito che l'altro in molt'anni ar@a contratto, non @e fuor di 
+giustitia; s'uno @e debito mille marcelli e che dia una moneta sola che 
+vaglia mille marcelli, sar@a pur pagato il debito de' mille con uno.  
+Di questa natura @e la carit@a che qui Dante chiama <fuoco d'amore>, 
+che, quando si trova chi tanto contrito e con tante ferventie prieghi, 
+@e la moneta d'oro che paga il debito della pena, contratta in molti 
+anni, in un sol punto.
+
+	|40-42.~  E L@A DOV'IO F[E]RMAI COTESTO PUNTO: d@a un'altra 
+solutione Virgilio, che, dov'egli tocc@o quel punto, @e ne l'Inferno, 
+dove non hanno luogo i prieghi, per essere in disgratia totalmente di 
+Dio, ma qui nel Purgatorio non @e cos@i.
+	|44.~  NON TI FERMAR SE QUELLA NOL TI DICE: la virt@u morale non pu@o 
+fermar quello ch'@e proprio della contemplatione e della teologia.
+
+	|45.~  CHE LUME FIA TRA 'L VERO E L'INTELLETTO: illumina senza dubbio 
+l'intelletto la teologia.
+
+	|47.~  VETTA, cima, e perci@o dicemo `vetta' quelli che si porta sulla 
+testa, quasi la sommit@a.
+
+	|50-51.~  CHE GI@A NON M'AFFATICO, COME DIANZI: avendo inteso di 
+Beatrice, @e volenteroso di vederla; E VEDI OMAI CHE 'L POGGIO L'OMBRA 
+GETTA: vuol dir ch'era gi@a passato il mezzod@i, perch@e salivano dalla 
+banda del levante e, come @e passato il mezzod@i, il sole, che va verso 
+l'occaso, getta l'ombre verso levante.
+
+	|54.~  CHE NON STANZI, che non deliberi e che non giudichi.
+
+	|61.~  O ANIMA LOMBARDA: questa @e conversione da s@e che fa il Poeta 
+dapoi.
+
+	|62.~  ALTERA E DISDEGNOSA: cos@i us@o il Petrarca: <altera e 
+disdegnosa, non superba e ritrosa>, e del poter de questi epititi vedi 
+qui il Landino.
+
+	|66.~  DE LEON: avendo descritto un omo grave, lo compara al pi@u 
+grave animale.
+
+	|71.~  C'INCHIESE, idest, inchiese e richiese noi.
+
+	|72.~  MANTOA, che @e lo epitafio proprio, <Mantua me genuit> etc.; IN 
+S@E ROMITA, idest, in s@e raccolta e non avendo il pensier sparto 
+altrove.
+
+	|76.~  AHI SERVA ITALIA: presa occasione, fa una vituperosa 
+conversione contra Italia e contra l'imperatore del suo tempo e contra 
+Firenze; OSTELLO, albergo.
+
+	|77.~  NAVE, e perci@o dice ^nochier e tempesta~.
+
+	|78.~  NON DONNA, che risponde a quel ch'avea detto, ^serva~; MA 
+BORDELLO, perch@e ha detto ^di provincie~.
+
+	|82-83.~  SENZA GUERRA, e colui f@e festa; LI VIVI TUOI, e color eran 
+anime.
+
+	|84.~  UN MURO E UNA FOSSA SERRA: @e circumlocutione delle citt@a.
+
+	|85.~  PRODE, idest, da le sponde, perch@e Italia @e circundata da 
+mare.
+
+	|88.~  PERCH@E LI RACCONCIASSE IL FRENO: chiama ^il freno~ le leggi, e 
+Giustinian conci@o quelle leggi antique d'i primi iureconsulti.
+
+	|89.~  SE LA SELLA @E VOTA: avendo detto ^freno~ etc., intende ^sella 
+vota~ se non v'@e l'imperadore che la governi.
+
+	|90.~  SENZA ESSO FORA LA VERGOGNA MENO: se voi non avesti il freno 
+delle leggi, la vergogna de' vostri vitii e di non voler far bene, 
+saria meno, perch@e scusabile.
+
+	|93.~  CHE DIO TI NOTA, che dice: <quae sunt Caesaris Caesari et quae 
+sunt Dei Deo>.
+
+	|94.~  FIERA, avendo detto e ^freno~ e ^sella~, e perci@o dir@a 
+^sproni~.
+
+	|96.~  PREDELLA: @e quella parte di briglia che tenemo in mano; di' 
+redine.
+
+	|97.~  O ALBERTO TODESCO: questo fu l'imperator del suo tempo, e per 
+dispregio conominalo con la voce propria, ^Alberto~, e della nation, 
+^Todesco~, quasi ebriaco e da poco; e dicesi che Dante fu in Alemagna a 
+persuader a costui in venir in Italia, acci@o che potesse con gli altri 
+ghebellini scacciati tornare in casa, bench@e fusse egli ghelfo.
+
+	|98.~  INDOMITA E SELVAGGIA, avendo detto ^@e fatta fella~.
+
+	|99.~  E DOVRESTI INFORCAR GLI SUOI ARCIONI: stando pur nella presa 
+translatione, ^inforcar~ vol dir `cavalcar' e vien dal stare a cavallo 
+l'omo, che quasi pare che sia una forca con una gamba di qua, l'altra 
+di l@a, e perci@o ne l'Inferno, al canto XXX, parlando de le gambe 
+disse,
+
+^	pur ch'egli avesse a@uta lenta l'anguinaia~
+^	tronca dal lato che l'omo ha forcuto~.
+
+	|104.~  DI COST@A DISTRETTI, per li distretti di l@a di Alamagna.
+
+	|106.~  VIEN A VEDER: nomina tutte le famiglie ghebelline.
+
+	|110.~  GENTILI, idest gentilomini; LOR MAGAGNE: non @e in mala parte 
+^magagna~, ma lor disfacimenti e povert@a e morte.
+
+	|123.~  SCISSO, idest, diviso.
+
+	|125-126.~  E UN METEL DIVENTA: cos@i vuol star, perch@e Metello fu 
+primo che, doppo scacciato Pompeio, volendo tor Cesare li denari de 
+l'erario publico, quali eran devietati toccar, se gli oppose e non 
+volea; e perci@o dice che ^ogni villan~, intendendo di parte guelfa, 
+avendo chiamati i ghebillini di sopra ^gentili~, si vogliono opporre 
+tutti all'imperatore.
+
+	|127.~  FIORENZA MIA: @e tutta con ironia che si difende, e risponde 
+^all'arco~, avendo detto ^scocca~.
+
+	|131.~  PER NON VENIR SENZA CONSIGLIO A L'ARCO, cio@e che prima che 
+dica nulla, vol ben pensarvi prima.
+	|132.~  HA IN SUMMO DE LA BOCCA, ch'@e il contrario di cului che 
+^tardi scocca~.
+
+	|135.~  I' MI SOBARCO, idest, sotto entro, tratto da questi che 
+vogliono levar alcun gran peso su le spalle, che quelle piegano in 
+foggia d'arco.
+
+	|136.~  TU: nota che repiglia tre volte.
+
+	|142.~  VERSO DI TE, a comparatione di quello che hai fatto tu.
+
+	|145.~  QUANTE VOLTE: il costrutto va cos@i: ^quante volte hai mutato 
+legge~ etc., ^e rinovate membre~, le quali ^membre~ sono quelle leggi e 
+moneta e officii che ha detto; ^del tempo che rimembre~, idest, del 
+tempo passato, e quel ^del~ @e quanto ^nel~, e usasi `^del~ mese di 
+maggio fu fatto cos@i', e `^nel~ mese di maggio' etc.

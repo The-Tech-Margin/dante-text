@@ -1,0 +1,20 @@
+..COMM:
+Sapegno
+..DTYP:
+D
+..LANG:
+Italian
+..AUTH:
+Natalino Sapegno
+..PUBD:
+1955-57
+..ATTR:
+copyright
+..PUBL:
+La Divina Commedia a cura di Natalino Sapegno.  Firenze, La Nuova
+Italia, 1968.
+..DENT:
+KDEM
+..EDTR:
+Antonia Rossi
+..LODD:

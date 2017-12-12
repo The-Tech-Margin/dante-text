@@ -1,0 +1,112 @@
+	|1-21.~  NEL TEMPO CHE IUNON etc.: queste favole si trattano a pieno 
+nella ^Metamorfose~ d'Ovidio; volse mostrar il Poeta di saperle e a 
+luochi convenienti le pose.
+
+	|13-14.~  L'ALTEZZA, e perci@o disse ^al basso~, CHE TUTTO ARDIVA, 
+idest, presumeva.
+
+	|16.~  CATTIVA, idest, captiva, prigione.
+
+	|22.~  MA N@E DI TEBBE FURIE, che risponde a quello che avea detto, 
+^Nel tempo che Iunon era crucciata~ etc., N@E TROIANE, avendo detto ^e 
+quando la fortuna volse in basso~ etc.
+
+	|24.~  NON PUNGER BESTIE etc., che risponde a quello che avea detto 
+^n@e troiane~, avendo prima detto ^forsennata latr@o s@i come cane~; 
+NON CHE MEMBRA UMANE, che risponde a quello ch'avea detto ^Ma n@e di 
+Tebbe furie~, perch@e avea detto ^Atamante divenne tanto insano~ etc.
+
+	|26.~  CHE MORDENDO CORREVAN: punisce in questa decima bolgia, come 
+abbiam veduto, i falsatori, e perch@e si p@o falsare in molte manere, 
+cos@i in molte maniere d'infermit@a sono puniti.
+
+	|29.~  L'ASSANN@O, idest, lo pigli@o con le sanne, con denti.
+
+	|30.~  GRATTAR GLI FECE IL VENTRE AL FONDO SODO, perch@e lo tir@o a 
+terra e lo strascin@o, e per ci@o il fondo della valle gli grattava la 
+rogna.
+
+	|37.~  L'ANIMA ANTICA: @e da notare che 'l Poeta per tutta l'opera 
+pone e le moderne e l'antiche istorie insieme come qui.
+
+	|43.~  LA DONNA DELLA TORMA, che cos@i si chiama la cavalla che ebbe.
+
+	|51.~  L'UOMO HA FORCUTO: qui @e posto l'^ha~ in luogo d'^@e~; l'uomo 
+adunque @e forcuto dal petennecchio in gi@u.
+
+	|64.~  LI RUSCELLETTI: fa vaghissima descrittion, acci@o che mostri 
+maggior il disio di quelli.
+
+	|70.~  FRUGA, idest, furega e travasa.
+
+	|79.~  ARRABBIATE OMBRE, che sono di quelli che morse Capocchio.
+
+	|83.~  ONCIA: adunque fie misura, n@e tanto di peso quanto di 
+longitudine.
+
+	|86.~  CON TUTTO CHE LA VOGLIA UNDECI MIGLIA: @e da notare che, avendo 
+la nona 22 e questa 11 miglia di circumferentia, ne vuole mostrar il 
+Poeta che queste dieci bolgie erano andate calando e stringendosi la 
+met@a sempre.
+
+	|87.~  E MEN D'UN MEZZO DI TRAVERSO NON CI HA: cos@i diessi legere e 
+non ^pi@u~, che direbbe tutto al contrario di quello intende dire; vuol 
+dir adunque: <s'io potessi un poco caminare, ancor che la valle cinghia 
+11 miglia e non vi @e men d'un mezzo miglio di traverso, tamen mi sarei 
+mosso gi@a>; ^di traverso~, intende fin alla bocca del pozzo.
+
+	|90.~  CH'AVEAN TRE CARRATE DI MONDIGLIA, idest, de cosa falsa, onde 
+quando vole\<m\>o dire alcun lavoro esser d'argento falso, dicemo: 
+<l'@e d'argento mondo>.
+
+	|95.~  GREPPO.
+
+	|97.~  L'UN'@E LA FALSA CH'ACCUS@O GIOSEPPO: @e cosa della sacra 
+scrittura, come appresso i gentili Ippolito.
+
+	|98.~  L'ALTRO @E 'L FALSO SINON GRECO DA TROIA: ecco, mischia le 
+gentili con cristiane istorie.
+
+	|99.~  LEPPO: smania.
+
+	|101.~  S@I OSCURO, idest, s@i bassamente e vituperosamente; @e 
+adverbio ^oscuro~.
+
+	|102.~  EPA, idest, il corpo, CROIA: duro.
+
+	|109.~  OND'EI RISPOSE QUANDO TU ANDAVI: questa villania di questi dui 
+@e bella digressione e propria da comedia.
+
+	|111.~  MA S@I, idest, cos@i.
+
+	|120.~  E SIATE REO, idest, siate cosa rea e dispiacevole.
+
+	|122.~  L'ACQUA MARCIA chiama l'idropesia.
+
+	|123.~  ASSEPA, idest, in guisa di sepe si ti para dinanzi agli occhi, 
+che non puoi veder.
+
+	|124-125.~  COS@I SI SQUARCIA LA BOCCA TUA PER SU' MAL COME SUOLE, 
+idest, cos@i s'apre la bocca tua per dir mal come @e di sua usanza.
+
+	|126.~  RINFARCIA, idest, riempie.
+
+	|131.~  OR PUR MIRA: ironica concessione, quando concedemo quello che 
+non volemo che si faccia.
+
+	|132.~  NON MI RISSO, idest, non fo rissa e scorroccio.
+
+	|138.~  AGOGNA: desia.
+
+	|140-142.~  E SCUSAVA, perch@e non parlando veniva da vergogna, la 
+quale era scusa grandissima de l'error, e per ci@o Virgilio rispose: 
+^maggior difetto men vergogna lava~.
+
+	|145-146.~  E FA RAGION CH'IO TI SIA SEMPRE A LATO, SE PI@U AVIEN CHE 
+FORTUNA etc.: bellissimo precetto, tratto dal mezzo della filosofia, 
+perch@e dice Platone che quando vogliamo schifarci di far alcuna cosa 
+men che onesta, dovemo in ogni nostra attione metterci innanzi agli 
+occhi de l'intelletto alcun uomo di gran reverenza e grave, come si 
+fosse presente a veder far ci@o che far intendiamo, e certo che, se la 
+cosa non sar@a grave, ce ne vergognaremo ch'un tanto uomo ci veda, e ce 
+ne asteremo.

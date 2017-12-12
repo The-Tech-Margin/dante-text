@@ -1,0 +1,36 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id NAA24131
+	for <steve@avalon.dartmouth.edu>; Sun, 4 Jan 1998 13:20:28 -0500
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.7+DND/8.8.7) with ESMTP id NAA01172;
+	Sun, 4 Jan 1998 13:20:26 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 2353 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <544997-844>; Sun, 4 Jan 1998 13:19:22 -0500
+Received: from phoenix.Princeton.EDU (bobh@phoenix.Princeton.EDU [128.112.131.153]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id NAA28227; Sun, 4 Jan 1998 13:19:09 -0500
+Received: (from bobh@localhost)
+	by phoenix.Princeton.EDU (8.8.8/8.8.8) id NAA15712;
+	Sun, 4 Jan 1998 13:19:09 -0500 (EST)
+Message-Id: <199801041819.NAA15712@phoenix.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Sun, 4 Jan 1998 13:19:08 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU, Malcolm.Brown@Dartmouth.EDU
+Subject: errata
+Cc: tobypaff@PUCC.PRINCETON.EDU
+
+I've had a nasty bout with flu for 5 days and, since I
+couldn't think as well as I usually do (??), did a lot
+of dog work, going over ALL my errata files, redoing
+them into individual files for each commentator.  There
+are now some 2000 individual errors that I have record
+of, and I have five commentators ready to be entered:
+Andreoli (not yet loaded)
+Chimenz
+Sapegno
+Steiner
+Pasquini/Quaglio
+
+Doing these now will tellus a lot about what this
+operation will cost in time, and may suggest how we
+should
+proceed.  I await your instructions.  All the best, Bob

@@ -1,0 +1,50 @@
+	|1.~  ^Qual venne a Climin@e~ -- Supra cantu XVII ^Inferni~ patet.
+
+	|15.~  ^Obtusi~ -- Triangulus constat ex tribus lineis et habet tres 
+angulos.  Et potest habere omnes angulos acutos vel unum rectum et duos 
+acutos vel unum obtusum et duos acutos.  Angulus rectus est quando 
+linea perpendicularis cadit super lineam rectam.  Angulus acutus est 
+quando linea restringitur ut hic.  Angulus obtusus est quando linea 
+dilatatur ut hic.  Et iste angulus obtusus neque rectus non potest esse 
+in triangulo nisi semel.
+
+	|17.~  ^El punto~ -- Scilicet divinitatis.
+
+	|31.~  ^Anbage~ -- Idest sermo dubius.
+
+	|32.~  ^S'enviscava~ -- Sequendo sortilegia et responsa demonum que 
+semper fuerunt ambigua et periculosa.  ^Anciso~ -- Crucifixus; post 
+quam paxionem Christi gentes ydola deserure.
+
+	|37.~  ^La contingenza~ -- Ex influentia superiorum et actibus hominum.
+
+	|38.~  ^Materia~ -- Corporea.
+
+	|39.~  ^Depinta~ -- In prescientia divina.
+
+	|40.~  ^Non prende~ -- Quia prescientia Dei non \<est\> causa peccati, 
+licet ante tempus sciat hominem peccaturum.
+
+	|46.~  ^Ipolito~ -- Teseus, Egei filius, mortua Ipolite ex qua 
+Ipolitum genuerat, duxit Fedram, Minois et Pasife filiam.  Qui, cum de 
+incestu illam requirentem eum contempneret, falso accusatus patri per 
+eam, aufugit timens patris sevitiam et novercam.
+
+	|53.~  ^In grido~ -- Semper contra perdentem fama laborat et 
+vulgariter dicitur: <Ben li sta>.
+
+	|71.~  ^Lombardo~ -- Scilicet dominus Canis de la Scala in Verona.
+
+	|72.~  ^Ucello~ -- Scilicet aquilam.
+
+	|80.~  ^Nove anni~ -- Revolutionis Martis qui capiunt XVIII annos 
+solares; quasi dicat: dominus Canis erat tunc XVIII annorum, natus sub 
+planeta Martis.
+
+	|82.~  ^Guasco~ -- Scilicet Clemens papa Vus de Guasconia.  ^Enrico~ 
+-- Imperatorem avum presentis Karoli imperatoris MCCCLV.  ^Inganni~ -- 
+Quia ad petitionem Guelforum Italie prodidit eum.
+
+	|109.~  \<^Ch'io m'armi~\> -- Quia iacula que previdentur minus 
+feriunt et previsa solent ledere tela minus.
+

@@ -1,0 +1,484 @@
+Traditores intus fratres
+
+	|1-9.~ 
+
+   ^S'io avessi le rime aspre e chioce,~
+   ^come si converrebe al tristo buco~
+   ^sovra 'l qual pontan tute l'altre roce,~
+
+   ^io premerei di mio concepto il suco~
+   ^pi@u pienamente; ma perch'io non l'abbo,~
+   ^non senza tema a dicer mi conduco;~
+
+   ^ch@e non @e impresa da piliar a gabbo~
+   ^di scriver fondo a tuto l'universo,~
+   ^n@e a lingua che chiammi mamma o babbo.~
+
+	Avendo dicto D. de tute le spetie de fraude e mostrato le penne ognuna 
+segondo la sua spetie, mo resta una spetie de fraude a dicere, la qual 
+se chiama tradimento, la quale @e la pi@u exsacrabile e la pi@u 
+detestabile che tute le altre.  E fa 4 cosse in questo capitulo.
+
+	A la prima esso se scusa che esso voria ponere ^RIME~, in questo 
+tractato de' traditori, ^ASPRE E CHIOZE~, ^idest~ stridenti, como se 
+convenerebe ^AL TRISTO BUCO~, ^idest~ pertuso, referendosi a quel che 
+dice Aristotile nel primo de la ^[Po]etica, quod~ <sermones sunt 
+exquirendi secundum materiam>.  E per@o dice che esso premeria ^EL 
+SUCO~ del so concepto ^PI@U PIENAMENTE~; e per@o che esso [non] le 
+ha, esso dubita de dire.
+
+	A la 2a fa una invocatione a le muse.  A la 3a fa una distinctione de 
+questo pecato in quatro parte.  A la 4a nomina alcuni contaminati de 
+questo vitio in tute 4 le spetie; e dice che ^NON @E IMPRESA DA PILIAR 
+ETC. N@E A LINGUA CHE CHIAMI MAMMA~, ^idest~ matre, ^BABBO~, ^idest~ 
+patre, como sono li fanciuli.
+
+	|10-12.~ 
+
+   ^Ma quelle donne aiutino 'l mio verso~
+   ^ch'aiutaro Amfione a chiuder Tebe,~
+   ^s@i che dal fatto el dir non sia diverso.~
+
+	Questa @e la segonda parte del capitulo, ove D. fa una invocatione a 
+le muse dicendo che, como esse aiutaron Amfione ^A CHIUDER~, ^idest~ 
+murar, ^TEBE~, coss@i aiutino esso aci@o che 'l fato al dir ^NON SIA 
+DIVERSO~.  E nota che D. in tuta questa opera non invoca muse si non 
+quando tracta de cosse ardue, coss@i como fa qui.
+
+	Or resta a dir la favola de Amfione.  Amfione, volendo murare la cit@a 
+de Tebe in picolo spacio di tempo, esso preg@o le muse che li 
+voless[er]o dar aiuto.  Le muse elexero, de' loro compagni, alcuni, 
+[s@i] che, con lo canto e col sono de la citara de Amfione, 
+[Amfione] forn@i el so murare.  Ma la verit@a fo che esso seppe tanto 
+ben dire che induxe tuti li citadini de la cit@a a lavorare, e coss@i 
+comp@i el so murare.
+
+	|13-15.~ 
+
+   ^Oh sopra tute mal creata plebe~
+   ^che stai nel luogo onde parlar @e duro,~
+   ^mei fosti state qui pecore o zebe!~
+
+	D. sgrida contra questi traditori dicendo: <Oh plebe mal creata>, ch@e 
+megliore seria per loro essere state ^PECORE O ZEBE~, ^idest~ capre 
+salvage, per@o che essi sono dampnati in questo loco che 'l parlare ne 
+@e duro.
+
+	|16-21.~ 
+
+   ^Come noi fummo gi@u nel pozo obscuro~
+   ^sotto i p@e de' giganti assai pi@u bassi,~
+   ^e io mirava ancora a l'alto muro,~
+
+   ^dicere udimmo: <Guarda come passi:~
+   ^va s@i, che tu non calchi con le piante~
+   ^le teste de' fratei miseri e lassi>.~
+
+	D. dice che mirava ^A L'ALTO MURO~, stando assai pi@u basso de li pedi 
+de' giganti, quando essi foron gi@u ne l'obscuro pozo; e ud@i dire etc. 
+ Qui toca la 3a parte del capitulo, ove tracta la pena de quisti 
+traditori.  Ed @e da sapere che D. prende quatro famosissime 
+traditione, le qual foro le maiore che fossero mai facte al mondo per 
+quatro omini.  E intitula qui ciascuna per lo nome de quelo che la 
+comisse.
+
+	La prima traditione che fosse mai facta al mondo, fo da frate a frate, 
+^idest~ da Caim ad Abel, figli de Adam e de Eva.  La seconda fo da 
+citadino a la patria: e questo fo Antenor lo qual dede la cit@a de 
+Troia a li Greci.  La tercia da benefitiato contra quello che li dede 
+el benefitio: e questo Tolomeo fo, che trad@i Simone Macabeo.  La 
+quarta fo da discipulo al maestro e al signore: e questo fo Iuda contra 
+Cristo.  E per@o D. intitula Caima da Caim, Antenora da Antenor, 
+Tollomea da Tollomeo, Iudeca da Iuda Scariot.  E de tute quante queste 
+tracta in questo capitulo e ne li altri che sequeno infin a la fine de 
+questa prima comedia chiamata ^Inferno~.  Cain figlio de Adam, Antenor 
+citadin di Troia, Tollomeo figlio de Abobi, Iuda Scariot discipulo de 
+Cristo: e questi foron quatro coss@i famo[si]ssimi traditori como 
+[mai] fosser in quel tempo.  E sequita apresso ^DICERE UDIMMO ETC.~, 
+lo qual @e chiaro testo.
+
+	|22-30.~ 
+
+   ^Per ch'io mi volsci, e vidimi davante~
+   ^e sotto i piedi un lago che per gelo~
+   ^avea di vetro e non d'aqua sembiante.~
+
+   ^Non fece al corso suo s@i grosso velo~
+   ^d'inverno la Danoia in Osterlichi,~
+   ^n@e Tanai l@a sotto el freddo cielo,~
+
+   ^com'era quivi; che se Tambernichi~
+   ^vi fosse s@u caduto, o Pietrapiana,~
+   ^non averia pur da l'orlo fatto crichi.~
+
+	Qui dice D. che vide un lago de gelo a modo de vetro, e fa una 
+comparatione de la Danoia, la qual passa per Sterliche, poi in Ongaria 
+se chiama Danubio.  E ancora fa una comparatione de Tanai, lo qual @e 
+fiume ne le parte septentrionale -- quisti sono fiumi li quali giaciano 
+a modo di vetro: e io ho veduto tal giacio l'inverno nel dicto Danubio, 
+che carri e cavalli carcati passano di sopra e non se disgiacia --, 
+dicendo che, ^SE TAMBERNICHI~, lo qual @e in Sclavonia un saxo 
+grossissimo, ^O PETRAPIANA~, la qual @e in Carfugnana nel streto di 
+Luca, fossero cadute sopra quel gelo, non li averia potuto far fare un 
+suono como @e ^CRICHI~.
+
+	|31-36.~ 
+
+   ^E come a gracidar si sta la rana~
+   ^col muso fuor de l'aqua, quando sogna~
+   ^de spigolar sovente la vilana,~
+
+   ^lividi s@i, l@a dove apar vergogna,~
+   ^eran l'ombre dolenti ne la giacia,~
+   ^metendo i denti in nota di cigogna.~
+
+	Qui fa un'altra comparatione de la rana, la quale nel mese de iulio 
+sta ^COL MUSO FUOR DE L'AQUA~ a cantar, quando la vilanna se sogna ^DE 
+SPICOLARE~, ^idest~ de acogliere le spiche; coss@i dice che erano 
+l'ombre, livide ^L@A DOVE APAR VERGOGNA~, ^idest~ al volto, ^NE LA 
+GIACIA, METENDO I DENTI ETC.~, ^idest~ che la ciconia non ha lengua, e 
+per@o dibate forte col beco, coss@i questi pecatori dibatevano con i 
+denti forte como fa la ciconia.
+
+	|37-39.~ 
+
+   ^Ognuna in gi@u tenea volta la facia;~
+   ^da boca el freddo, e da li ochi el cor tristo~
+   ^tra lor testimonianza si procacia.~
+
+	Questo vol dire che ognuna de queste ombre tenea voltata la facia in 
+gioso e per la boca mostravano la fredoza del lor core e da li ochi la 
+malvasa volunt@a del dicto core, sospirando e piangendo: e queste son 
+le testimonianze de li gelati cori de li traditori senza misericordia e 
+senza pietate.
+
+	|40-51.~ 
+
+   ^Quand'io ebbi dintorno alquanto visto,~
+   ^volsimi a' piedi, e vidi due s@i stretti,~
+   ^che 'l pel del capo avieno insieme misto.~
+
+   ^<Ditemi, voi che s@i strengeti i petti>,~
+   ^diss'io, <chi siete?>.  E quei piegaro i colli~
+   ^e poi ch'ebber li visi a me eretti,~
+
+   ^li ochi lor, ch'eran pria pur dentro molli,~
+   ^gociar gi@u per le labra, e 'l gelo strinxe~
+   ^le lagrime tra essi e risserolli.~
+
+   ^Con legno legno spranga mai non cinxe~
+   ^forte coss@i; ond'ei come due bechi~
+   ^cociar inseme, tant'ira li avinse.~
+
+	Questo testo @e chiaro.  E fa D. una comparatione d'un legno el qual 
+@e ligato con un altro legno, como se sol fare tal volta per antena de 
+nave o per qualche altra cossa, che un legno se liga con un altro con 
+bone corde e con bone funicole; dicendo che non se strinxe mai como 
+costoro che vide qui: onde essi per ira se cozaro a modo de due bechi, 
+per l'ira che ebbero, quando D. li domanda chi erano, per la vergogna 
+del pecato.  E dice ^SPRANGA~, ^idest~ una barra, con altra spranga 
+diritamente, e legno o palanga.  Alcuni dicono che <spranga> @e una 
+natura de chiodi che non hanno capella, ma sono longhi e sono acapinati 
+da tute doe le parte; e de queste se usa assai in uno lago che @e in 
+Lombardia, chiamato lo Lago da Como, per far le soe nave.
+
+	|52-54.~ 
+
+   ^E un ch'avea perdute ambo li orechi~
+   ^per la fredura, pur col viso in gi@ue,~
+   ^disse: <Cotanto in noi perch@e te spechi?>.~
+
+	Qui uno che avea perdute ambo le orechie domand@o D. perch@e esso se 
+affigurava tanto in loro.
+
+	|55-60.~ 
+
+   ^Se vo' saper chi son cotesti due,~
+   ^la valle onde Bisenzo si dichina~
+   ^del padre lor Alberto e di lor fue.~
+
+   ^D'un corpo usciro; e tuta la Caina~
+   ^potrai cercare, e non troverai ombra~
+   ^degna pi@u d'esser ficta in gillatina.~
+
+	Qui D. induce li figli del conte Alberto, de li quali un se chiam@o 
+Alexandro, e l'altro Napoleone; li quali Alexandro e Napoleone foron 
+contaminati in questo vitio, e foron signori dove ^DICHINA~ lo fiume de 
+Bisenzo, in Toscana, ^idest~ in la valle [Falterona].  E foron coss@i 
+gran traditori, che se poria cercare tuta questa Caina e non se 
+trovaria ombre de esser s@i digne de star in questo gelo como sono 
+costoro.  E occisero un loro ciano.  Altri dicono che occisero so 
+patre, e altri che l'uno amaz@o l'altro: ormai domanda del vero a color 
+che 'l sanno.
+
+	|61-66.~ 
+
+   ^Non quelli a cui fo rotto el petto e l'ombra~
+   ^con esso un colpo per la man d'Art@u;~
+   ^non Focacia; non questi che m'ingombra~
+
+   ^col capo s@i, ch'io non veggio oltre pi@u,~
+   ^e fo nomato Sassol Macheroni;~
+   ^se tosco se', ben sai ormai chi fu.~
+
+	Qui D. dice che Mordeto, el qual fo figlio naturale del re Art@u, 
+morto per la mano del patre, per@o che esso se rebell@o contra al dicto 
+re con altri cavaleri de la tavola del re suprascripto, non fo coss@i 
+digno de star in questo gello como quisti doi fratelli.  ^NON FOCACIA 
+ETC. E FU NOMATO ETC.~  Qui D., como disse de Mordetto, coss@i dice de 
+questi doi che costoro ancora non son tanto digni de questa pena como 
+questi doi fratelli suprascripti, figli del conte Alberto: ^idest~ 
+Focacia da Rimer che fo traditor de' soi consorti, e Sassel Macheroni 
+de' Rusticuci, lo qual trad@i soi parenti.
+
+	|67-69.~ 
+
+   ^E perch@e non mi metti in pi@u sermoni,~
+   ^sappi che fu' il Camiscion de Pazi;~
+   ^e aspetto Carlin che mi scagioni.~
+
+	Qui questo spirito, lo qual avea perduto ambo le orechi, che ha dicto 
+queste cosse soprascripte a D., mo se palesa per nome.  Ed @e costui 
+miser Camiscion de' Pazi de Fiorenza, il qual trad@i soi consorti del 
+so lignagio; il qual dice [a] D. che aspeta Carlin -- il qual era so 
+proximano, e vivea allora, e avea tradito lo castello de Piano e 
+diedelo a li Fiorentini -- aci@o che ^MI SCAGIONE~, ^idest~ per 
+contrario.  E altri intendono che, per questo novo tradimento del dicto 
+Carlino, esso non aver@a tanta infamia.
+
+	|70-78.~ 
+
+   ^Possia vid'io mille visi cagnazi~
+   ^facti per fredo; onde mi vien riprezo,~
+   ^e verr@a sempre, de' gelati guazi.~
+
+   ^E mentre che andavam inver' lo mezo~
+   ^al qual ogni graveza si rauna,~
+   ^e io tremava ne l'eterno rezo;~
+
+   ^se voler fo o destino o fortuna,~
+   ^non so; ma, passegiando tra le teste,~
+   ^forte percossi el pi@e nel viso a una.~
+
+	E 'n questa parte D. tracta la 2a spetie di traditione, ove se 
+puniscono li traditori de la patria in Antenora, ^idest~ in lo loco 
+[ove se punisse Antenor].  E dice che vide pi@u de ^MILLE VISI 
+CAGNACI~, ^idest~ aracagnazi, de li qual D. gli ne venne ^RIPREZO~, 
+^idest~ schiffo.
+
+	E como D. dice che venne ^INVER' LO MEZO~ de questo pozo ove se rauna 
+^OGNI GRAVEZA~, ^idest~ ogni spetie di traditione, esso tremava ^NE LO 
+ETERNO REZO~, ^idest~ eternal pregione.  ^SE VOLER FO~, ^idest~ [de] 
+Dio, ^O FORTUNA~, ^idest~ per incontro, ^O DESTINO~, ^idest~ cossa 
+data, passegiando tra queste teste, D. dice percosse col pede forte ad 
+una nel viso.
+
+	|79-81.~ 
+
+   ^Piangendo mi sgrid@o: <Perch@e mi peste?~
+   ^se tu non vieni a crescer la vendetta~
+   ^di Monteaperti, perch@e mi molleste?>.~
+
+	Qui D. toca quella bataglia la qual fo tra Senesi e Fiorentini a 
+Monteaperto, ove miser Boca de li Abbati de Fiorenza trad@i el comune e 
+f@e per tal modo che li Senesi optenero la victoria.  E questa istoria 
+t'ho dicto suso, capitolo X.
+
+	|82-84.~ 
+
+   ^E io: <Maestro mio, or qui m'aspetta,~
+   ^s@i ch'io esca d'un dubio per costui;~
+   ^poi mi farrai, qua[n]tumche vorrai, fretta>.~
+
+	Qui D. fa una molto bela poesia, e il testo @e chiaro.  E fa un color 
+retorico chiamato [...].
+
+	|85-87.~ 
+
+   ^Lo duca stette, e io dissi a colui~
+   ^che biastemava duramente ancora:~
+   ^<Qual se' tu che s@i rampogni altrui?>.~
+
+	Questa domanda fa D. a quel spirito lo quale esso avea percosso col 
+pede.
+
+	|88-90.~ 
+
+   ^<Or tu chi se' che vai per l'Antenora,~
+   ^percotendo>, rispuose, <altrui le gotte,~
+   ^s@i che, se fossi vivo, troppo fora?>.~
+
+	Questa risposta fa lo spirito.  ^ANTENORA~, ^idest~ per lo loco ove se 
+punisse Antenor.
+
+	|91-93.~ 
+
+   ^<Vivo son io, e caro esser ti puotte>,~
+   ^fu mia risposta, <se domandi fama,~
+   ^che meta el nome tuo tra l'altre notte>.~
+
+	D. li responde che esso li promete de far mentione di lui in questo 
+libro.
+
+	|94-96.~ 
+
+   ^Ed elli a me: <Del contrario ho io brama.~
+   ^L@evati quinci e non mi dar pi@u lagna,~
+   ^ch@e mal sai lusingar per questa lama!>.~
+
+	Qui responde lo spirito che esso ha desiderio ^DEL CONTRARIO~, ^idest~ 
+de non esser nominato.  E poi dice ^LEVATI QUINCI ETC.~
+
+	|97-99.~ 
+
+   ^Allora presi per la coticagna~
+   ^e dissi: <El converr@a che tu ti nomi,~
+   ^o che capel qui s@u non ti rimagna>.~
+
+	D. dice che costui converr@a anomarse, ^O CHE CAPEL ETC.~
+
+	|100-102.~ 
+
+   ^Ond'elli a me: <Perch@e tu mi dischiomi,~
+   ^non ti dir@o ch'io sia, n@e mostrerolti~
+   ^se mille fiate in sul capo mi tomi>.~
+
+	Questo dice lo spirito.
+
+	|103-108.~ 
+
+   ^Io avea gi@a i capelli in mano avolti,~
+   ^e tratti li n'avea pi@u d'una cioca,~
+   ^latrando lui con li ochi in gi@u racolti,~
+
+   ^quando un altro grid@o: <Che hai tu, Boca?~
+   ^non ti basta sonar con le masselle?~
+   ^se' tu, non latri: qual diavol ti toca?>.~
+
+	Qui D. introduce un altro spirito a nominar questo, il qual, como t'ho 
+dicto, fo miser Boca de li Abati, dicendo: ^CHE HAI TU, BOCA?  NON TI 
+BASTA SONARE CON LE MASSELLE~, ^idest~ al modo de omo che sta 
+ingiaciato.  Se' tu solo e non altri: ^QUAL DIAVOLO TI TOCA?~
+
+	|109-111.~ 
+
+   ^<Omai>, dis'io, <non vuo' che pi@u favelle,~
+   ^malvagio traditor; che la toa onta~
+   ^io porter@o di te vere novelle>.~
+
+	D., avendo odito che era miser Boca, li responde como dice el testo.
+
+	|112-117.~ 
+
+   ^<Va via>, rispuose, <e ci@o che tu vuo' conta;~
+   ^ma non tacer, se tu di qua entro eschi,~
+   ^di quel ch'ebbe or coss@i la lingua pronta.~
+
+   ^El piange qui l'argento d'i Franceschi:~
+   ^"Io vidi", potrai dir, "quel da Duera~
+   ^l@a dove i pecatori stano freschi">.~
+
+	Miser Boca responde e dice: <Va via e conta ci@o che tu voi>.  E poi 
+lo scongiura, se esso esca de quel loco, che esso non debia tacere de 
+quello ^CHE EBBE COSS@I LA LINGUA PRONTA~, ^idest~ de quello che l'avea 
+acusato quando disse: <Che ha' tu, Boca?>.  ^EL PIANGE ETC.~  Qui miser 
+Boca manifesta a D. perch@e quello che l'avea acusato era l@i; e dice: 
+<Tu potrai dire "Io vidi ^QUEL DA DUERA~ in quel loco ove se puniscono 
+li traditori de la patria">.
+
+	Costui se chiam@o miser Boso ed era capitaneo de la gente de Cremona; 
+e, avendo il comune de Cremona promisso al re Manfredi, figlio de 
+l'imperator Federico secondo, de non dar passo a la gente de re Carlo 
+quando esso venne in Italia per lo conquisto del reame di Puglia, 
+questo miser Boso li dede el passo per moneta e lassolli venire in 
+Puglia.
+
+	|118-120.~ 
+
+   ^Se fossi domandato <Altri chi v'era?>,~
+   ^tu hai dallato quel di Becaria~
+   ^di cui seg@o Fiorenza la gorgiera.~
+
+	Ancora dice el dicto miser Boca che qui @e quello de Becaria, a cui 
+Fiorenza seg@o ^LA GORGIERA~, [^idest~] tali@o la testa.  Questo fo 
+miser Tesauro d'i Becaria, il qual ordinava un tractato tra li Uberti e 
+certi Ghibellini foraessiti de remeterli dentro, onde che fo decapitato 
+per lo comune de Fiorenza.  E costui fo da Pavia, abbate de Valombrosa, 
+la qual abatigia @e nel tenimento de Fiorenza.
+
+	|121-123.~ 
+
+   ^Gianni de' Soldanieri credo che sia~
+   ^pi@u l@a con Gianellone e Tribaltello,~
+   ^ch'apr@i Faenza quando se dormia.~
+
+	D. introduce Gianni de' Soldanieri de Fiorenza, il qual tract@o de 
+tradir Fiorenza; el quale miser Boca dice che crede che sia ^PI@U L@A 
+CUM GIANELLONE~.  Questo fo quel traditor Gianellone el qual trad@i 
+Carlo Magno cum li XII pari de Franza.
+
+	Tribaltello de Ciambrasio da Faenza fo quello che de nocte, quando 
+ognuno era in letto, che dede la terra al comune di Bologna.  E tuti 
+questi foron traditori de la patria.
+
+	|124-126.~ 
+
+   ^Noi eravam partiti gi@a da ello,~
+   ^ch'io vidi due ghiaciati in una buca,~
+   ^s@i che l'un capo a l'altro era capello.~
+
+	Qui dice D. che eravano partiti da miser Boca, che vide ^DOI GHIACIATI 
+IN UNA BOCA~, ^idest~ fossa o pertuso, ^S@I CHE L'UN CAPO~ era capello 
+a l'altro, ^idest~ che l'uno mangiava de l'altro la nuca, e per@o gli 
+era capello lo capo de l'altro.
+
+	|127-129.~ 
+
+   ^E come 'l pan per fame si manduca,~
+   ^coss@i sovra li denti a l'altro pose~
+   ^l@a ove 'l cervello s'agionge con la nuca.~
+
+	Questo @e chiaro, zo@e che costui li mangiava sopra l'osso del collo, 
+il qual se chiama <nuca>, ove se agionge el cervello.
+
+	|130-132.~ 
+
+   ^Non altrimenti Tideo si rose~
+   ^le tempie a Menalippo per disdegno,~
+   ^che quei facea el teschio e l'altre cose.~
+
+	Qui D. fa una comparatione de Tideo, che and@o cum suo cugnato 
+Polinice a l'aquisto di Tebbe contra Etiocle suo fratello, e de 
+Menalippo che and@o cum Etiocle fratello del dicto Polinice.  Ed 
+essendo in bataglia, si scontraron Tideo e Menalipo, de che Tideo fu 
+ferito; ed essendo ferito, esso ferr@i poi da morte Menalipo.  E 
+sentando lui che non potea scampare, se fece portare la testa de 
+Menalipo e se la misse ai denti: e per@o dice D. che non ^aliter~ 
+rodeva quelo spirito quelo altro, che faceva Tideo la testa de 
+Menalippo in le sguanze.
+
+	|133-139.~ 
+
+   ^<O tu che mostri per s@i bestial segno~
+   ^odio sovra colui che tu ti mangi~
+   ^dimme 'l perch@e>, dis'io, <per tal convegno,~
+
+   ^che se tu hai ragione di lui ti piangi,~
+   ^sapiendo chi voi sete e la sua pecca,~
+   ^nel mondo s@u ancor io te ne cangi,~
+
+   ^se quella con ch'io parlo non si secca>.~
+
+	D. domanda costui -- il quale se mangiava el teschio, ^idest~ lo 
+cervicale de questo altro, e dicili che esso mostra odio de segno 
+bestial sopra colui che se mangia -- perch@e @e e per qual ^CONVEGNO~, 
+ch@e, se a ragion di lui se piange, sapendo chi essi sono e la pena del 
+mocicato, <io nel mondo suso, io ancor ^TE NE CANGI~, ^idest~ rendo 
+cambio, ^SE QUELLA CON CH'I' PARLO~, ^idest~ lengua, ^NON SI SECA~>.
+
+	Or convene ch'io te dica la cagione perch@e D. induce questo pecato de 
+tradigione essere ficto nel gelo colui che 'l commete.  Dico che 'l 
+traditore perde l'amore de la carit@a tanto al parente quanto a la 
+patria, tanto al beneficiante quanto al signore: e per@o che la carit@a 
+se pone a modo d'una fiama, costoro hano spento nel core la dicta 
+fiama, e per@o son ficti in questo gello.

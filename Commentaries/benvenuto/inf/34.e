@@ -1,0 +1,715 @@
+	|SUMMARIUM.~  CANTUS TRIGESIMUS QUARTUS ET ULTIMUS
+INFERNI, ^in quo tractat de statu Luciferi et de sua figura, ac
+de~ ^poena Judae Scarioth, et Cassii et Bruti tormentatorum a~
+^Lucifero; et sicut visis omnibus exiverunt ambo de abysso, ubi~
+^Virgilius declaravit Danti quamdam quaestionem etc.~
+
+	|PROEMIO~  ^Vexilla regis prodeunt Inferni.~  Postquam in
+superiori capitulo proxime praecedenti autor noster tractavit et
+determinavit de tertia specie proditorum qui puniuntur in tertia
+specie lacus glacialis; nunc consequenter in XXXIIII et ultimo
+capitulo agit et tractat de quarta specie proditorum et poena
+eorum qui prodiderunt dominos suos, a quibus receperant multa et
+magna beneficia, qui puniuntur in quarta parte glaciei.  Et
+praesens capitulum potest breviter dividi in tres partes
+generales; in prima quarum describit in generali poenam istorum
+proditorum, et imperatorem et dominum totius inferni, qui
+consistit in centro.  In secunda describit in speciali triplex
+caput Luciferi, et tres spiritus qui puniuntur in triplici ore
+eius, ibi: ^O quanto.~  In tertia et ultima describit suum
+recessum ab inferno, et removet duo dubia, circa ipsum recessum,
+ibi: ^Ma la notte.~
+
+	|1-3.~  Ad primum dico, quod autor tractat de poena
+proditorum pessimorum omnium; sed primo praemittit signa
+imperatoris manentis in isto loco, dicens: |il maestro mio
+disse~: |vexilla~, idest, insignia, scilicet sex alae Luciferi,
+quae videbantur magna vella, sicut dicitur hic paulo infra,
+|regis Inferni~, idest, infernalis, |prodeunt~, idest, exeunt, a
+longe veniunt ad visum nostrum, quia quanto maius est vexillum,
+tanto magis videtur a longe.  Et hic nota quod autor ideo hoc
+fingit, quia quando vexillum explicatur est signum quod dominus
+est prope; nam vexillum solet portari prope et ante dominum,
+quamvis praecesserit magna multitudo exercitus, |verso di noi~;
+et dicit: |per@o dinanzi mira~, scilicet, ante te, |se tu il
+discerni~, scilicet, ipsum regem.
+
+	|4-7.~  Et declarat formam visionis vexillorum per unam
+comparationem domesticam et claram: et vult breviter dicere, quod
+videbat taliter istas alas ventilantes per aerem, sicut homo
+videt a longe palas ventantes unius molendini, vel de die quando
+est magna nebula, vel de nocte; dicit ergo: |veder mi parve un
+dificio allotta, come par da lungi un molin che vento gira,
+quando una grossa nebbia spira~, scilicet de die quando est valde
+caliginosa, |o quando l'emisperio nostro annotta~, idest, vel
+quando fit nox in hemisperio nostro superiori naturaliter, sive
+nubibus.  Hoc est dicere: ego parum discernebam illa insignia in
+confuso, sicut si viderem unum molendinum moveri ad ventum vel de
+die nebulosa, vel de nocte obscura.  Et hic nota quod comparatio
+est propria; quia sicut multae palae molendini velociter
+volvuntur, ita multae alae altae et amplae Luciferi movebantur
+velociter, et emittebant magnum ventum: et videbat alas in
+obscuro, quia diabolus non apparet nisi in tenebra, quia eius
+nocumenta et tentamenta non fiunt nisi in obscuro.  Ideo bene
+fingit quod in tenebra noctis, vel nebula diei videt ista
+insignia quantumcumque maxima;
+
+	|8-9.~  et quia magnus ventus procedebat ab alis magnis,
+dicit: |per@o per lo vento~, qui erat multiplex a multis alis, |mi
+ristrinsi retro al duca mio~, scilicet post terga Virgilii, |che
+non v'era altra grotta~, idest, alia spelunca, in qua laterem,
+quasi dicat: non habebam aliud refugium, nisi solam umbram
+Virgilii.
+
+	|10-12.  Gi@a.~  Hic autor describit forman poenae
+ultimorum proditorum; et dicit quod ingressus curiam istius
+regis, vidit animas in totum tectas sub glacie.  Dicit ergo: |gi@a
+era l@a dove l'ombre eran tutte coperte~, ubi huc usque invenerat
+animas pro parte discoopertas.  Sed istae gravius caeteris
+deliquerant in proditione, |e trasparian come festuca in vetro~,
+idest, quia anima proditoris vilior festuca, videbatur in ista
+glacie lucidissima, licet esset cooperta; et facit parenthesim,
+dicens: |e con paura il metto in metro~, quia mens horret et
+manus tremit, metrice describendo ista.
+
+	|13-15.~  Et distinguit diversas formas poenarum secundum
+diversas formas delictorum, dicens: |altre stanno erte~, et
+istarum rectarum, |quella col capo~, idest, aliqua stat erecta
+cum capite desuper, |e quella con le piante~, idest, aliqua stat
+cum capite deorsum plantato, sicut saepe plantantur proditores in
+mundo isto; |altra riverte il volto ai pei~, idest, reflectit
+caput ad pedes, |come arco~; et toti tamen stant sub glacie, quia
+tales sunt omnino perditi in proditione.
+
+	|16-21.  Quando.~  Nunc autor, ostenso quomodo Virgilius
+ostenderit sibi a longe alas, ostendit quomodo ostenderit ipsi de
+prope ipsum Luciferum; et primo ostendit quomodo Virgilius
+praedisposuerit ipsum ad videndum tam terribilem regem, dicens:
+|dinanzi mi si tolse~, scilicet, ille Virgilius, ut daret mibi
+locum videndi cum essem post terga eius, |quando noi fummo fatti
+tanto avante~, idest, cum tantum processissemus versus illa
+insignia, |ch'al mio maestro piacque di mostrarmi la creatura che
+ebbe il bel sembiante~, scilicet, Luciferum, qui fuit pulcerrima
+creaturarum, |e fe ristarmi~, ubi prius ambulabant, et quia
+venerunt ad passum fortem, ideo firmaverunt se, |dicendo: ecco
+Dite~, scilicet rex infernalis, unde civitas istas appellatur
+civitas Ditis, |ecco il loco~, scilicet centrum infernum, |ove
+coven che di fortezza t'armi,~ quasi dicat: ecce ultimum malum a
+quo procedunt omnia mala, ideo sis fortis.
+
+	|22-27.~  Et subdit effectum istius visionis; unde
+apostrophans ad lectorem ut reddat ipsum attentum, dicit: |o
+lettor, nol dimandar, com'io divenni allor gelato e fioco~,
+idest, qualiter perdidi vigorem et vocem prae timore; et excusat
+se a descriptione istius ultimi timoris, dicens: |ch'io non lo
+scrivo~; et ecce causam, |per@o ch'ogni parlar sarebbe poco~, quia
+si autor saepe habuit magnos timores in inferno, et multum timuit
+videre diabolos, sicut patuit in introitu istius civitatis,
+quanto magis nunc in centro omnium malorum extimuit regem omnium
+diabolorum?  Et sic vide quam pulcre autor describit timorem suum
+in eo quod ostendit se non posse ipsum explicare, quasi dicat:
+iste fuit timor incomprehensibilis, infinitus, et qui non potest
+intelligi nisi ab experto, unde dicit: |io non morii~, quia sum
+adhuc vivus, |e non rimasi vivo~, quia perdidi omnem sensum et
+intellectum pro tunc; ergo, o lector: |pensa per te omai qual io
+divenni, privo~, pro privatus, |d'uno e d'altro~, scilicet morte
+et vita, |s'hai fior d'ingegno~, idest, si habes aliquid rectae
+intelligentiae.  Est autem hic attente notandum, quod autor hic
+procedit prudenter et caute; nam vult dare intelligi spiritualia
+per corporalia, et invisibilia per visibilia, sicut etiam divina
+scriptura saepe facit in multis, ut scribit IIII capitulo
+Paradisi.  Ista ergo litera non est intelligenda sicut sonare
+videtur, quia diabolus non est turpis nec terribilis, cum sit
+angelus; sed autor per fictionem suam figurat pravos effectus qui
+procedunt ab eo, et oportet sic loqui vulgo.  Dicunt enim
+vulgares quod unusquisque moriens cogitur de necessitate videre
+diabolum in morte, quod tamen est ridiculosum, nisi intelligatur
+praedicto modo; quia scilicet homo sentit eius tentationem qui
+adest et proponit homini, et ad memoriam reducit omnia mala et
+peccata quae fecit, ut inducat ipsum in desperationem.  Diabolus
+ergo non est magnus, nec parvus, nec turpis, nec pulcer, nisi eo
+modo quo dictum est.
+
+	|28-29.  Lo imperador.~  Hic describit in speciali ipsum
+Luciferum a magnitudine et mansione eius, dicens: |lo imperador
+del doloroso regno~, scilicet, inferni, |di mezzo il petto uscia
+fuor de la ghiaccia~, quia a medio supra stat supra centrum; a
+medio infra intra centrum;
+
+	|30-33.~  et ostendit immensam magnitudinem eius per unam
+partem eius, et vult dicere quod brachia Luciferi erant tanto
+maiora uno gigante, quanto gigas est maior ipso Dante.  Dicit
+ergo: |e pi@u mi convegno con un gigante~, idest, ego Dantes qui
+sum parvus habeo maiorem convenientiam magnitudinis cum uno
+gigante qui est maximus, |che i giganti non fan~, idest,
+conveniunt, |con le sue braccia.~  Et hic nota quod autor merito
+dat longa brachia isti regi juxta illud Ovidii: ^An nescis longas
+regibus esse manus~; quia per istam longitudinem brachiorum
+figurat longam potestatem istius magni regis, qui habet sub se
+multos reges, et extendit brachia sua ad orientem, occidentem et
+per totum; et concludit: |vedi oggimai quanto esser dee quel
+tutto~, scilicet reliquum corpus, |ch'a cos@i fatta parte~, idest,
+talibus brachiis, |si confaccia~, idest, conformetur et
+proportionetur.
+
+	|34-36.~  Et arguit, quod vere debeat esse autor omnis
+doloris, dicens: |ogni lutto~, idest, planctus, |ben dee
+procedere da lui s'ei fo s@i bello, se~, pro quia, |com'elli @ee
+ora brutto~, quanto enim fuit pulcrior ante lapsum, tanto turpior
+post lapsum, quia privatus est gratia qua erat dotatus; |e alz@o
+le ciglia~, idest, et si ipse superbivit, |contra 'l suo
+fattore~, idest, creatorem, qui ex nihilo fecerat eum tam
+excelsum.
+
+	|37-45.  O quanto.~  Ista est secunda pars generalis in
+qua autor describit triplex caput Luciferi et tres spiritus, qui
+puniuntur ab eo; et quia istud caput erat monstruosum et
+triforme, ideo autor cum admiratione exclamat: |o quanto parve a
+me gran meraviglia, quand'io vidi tre faccie a la sua testa.~ 
+Est autem hic diligentissime advertendum, quod autor subtiliter
+fingit Luciferum habere tria capita diversa; quoniam nulla
+videtur maior distantia vel difformitas illa quae est inter
+summum Deum et summum diabolum.  Primo namque in Deo est summum
+bonum, in diabolo summum malum; secundo, in Deo est summus amor,
+in isto summum odium; tertio, in Deo est summa sapientia, in isto
+summa ignorantia; quarto, in Deo est summa lux, in isto summa
+tenebra; quinto, in Deo est summa veritas, iste est pater
+mendacii; sexto, in Deo est summa vita, in isto est mors sine
+morte; septimo, a Deo procedit omne gaudium, ab isto omnis
+tristitia; octavo, Deus est altissimus in summo coelo, iste est
+infimus in profundo terrae; nono, Deus est clementissimus et
+misericorditer parcit, iste crudelissimus, semper irascitur.  Hoc
+autem pro tanto dictum sit, quia autor noster hic ex dictis
+elicit tantum tria quae videntur recte contrariari in istis. 
+Sicut enim Deus est trinus et unus, in quo est summa potentia,
+summus amor, et summa sapientia; ita in isto est summa
+impotentia, summum odium, summa ignorantia.  Primum probatur,
+quia non potest nisi mala, quae potestas procedit a magna
+impotentia; unde si pravus homo vel angelus malus posset dici
+potens quia potest mala, sequeretur, quod esset potentior Deo,
+qui nullo modo potest mala.  Secundum, scilicet odium, patet,
+quia diabolus odit diligentes se et servientes sibi.  Tertium
+etiam, scilicet ignorantia eius faciliter ostenditur, quia sicut
+homo pravus, teste philosopho, potest dici astutus sed non
+prudens, cum prudentia sit summa virtus; ita malitia diaboli non
+potest vocari sapientia, sed potius ignorantia.  Nunc ergo ad
+literam: autor describit ista tria capita, unumquodque sub certa
+figura, dicens: |l'una dinanci~, scilicet testa media, |e quella
+era vermiglia~, et ista prima figurat impotentiam, quae accendit
+et inflammat ipsum; |l'altre erano due, che si giungeano a
+questa~, quia una a dextris, altera a sinistris uniebatur illi
+mediae, |sovresso il mezzo di ciascuna spalla~, quae erat ita
+ampla, quod unum caput bene sedebat in ea; ideo dicit: |e si
+giungeano al toco de la cresta~, idest, coniungebantur faciei
+mediae, quae erat rubea sicut crista, et supereminens aliis in
+modum cristae quae stat alta in summitate, |e la destra parea tra
+bianca e gialla~; idest, pallida, et haec figurat odium invidiae
+diaboli; |la sinistra era tal~, idest, tam nigra, |a veder,
+quali~, scilicet aethiopes nigri, |vengon di l@a~, scilicet, ab
+austro, |onde il Nilo s'avvalla.~  Nilus enim fluvius transit per
+AEthiopiam, Africam et AEgyptum; per hanc faciem nigram figurat
+ignorantiam quae est tenebrosa semper.
+
+	|46-47.  Sotto.~  Hic autor describit in speciali alas
+Luciferi, dicens: |sotto ciascuna uscivan due grandi ali~, et sic
+erant sex.  Istae alae figurant instigationes et inspirationes
+diaboli, quae sunt valde magnae, cum quibus discurrit per totum
+mundum; ideo dicit: |quanto si conveniva a tanto uccello~, idest
+tam magno, quia habet alas quibus volat, et ungues quibus rapit
+et aucupatur semper praedam.
+
+	|48.~  Et specificat magnitudinem alarum per unam
+comparationem manifestam, dicens: |vele di mar non vid'io mai
+cotali~; et bene dicit; nulla enim vela ita currunt per aquam,
+sicut alae diaboli per totum mundum amarum, nec ulla vela
+deducunt navim ad tot scopulos, ad tot naufragia, ad tot pericula
+et damna, sicut alae diaboli deducunt vitam hominis, qui vere est
+sicut navis fragilis, instabilis, quam vagantem per varios
+fluctus istae alae mergunt in abyssum.
+
+	|49-52.~  Et describit autor pennas alarum diaboli per
+unam comparationem pulcram, dicens: |non avean penne~, scilicet
+illae alae non habebant proprie pennas, quia occultas, |ma di
+vispistrello era lor modo~, idest, nisi solum tales, quales habet
+vespertilio.  Ad quod sciendum quod vespertilio dicitur quasi
+vespere utens animal; eo quod vespere volat, et est quasi volans
+mus.  Habet enim caput muris, et est in figura capitis canis, et
+aliquando invenitur cum quatuor auribus; dentes habet serratiles,
+et imitatur in voce exili potius latratum canum, quam stridorem
+murum; corpus habet pilosum fulvo pilo; alas habet membranales,
+et in cubitis alarum habet unum digitum quo tenet se quando
+haeret parietibus; caudam habet valde latam et membranalem, et in
+cauda est figura duorum pedum cum quinque digitis, et acutis
+unguibus, quibus similiter se tenet, quando haeret muris; non
+enim habet statum vel sessionem sicut alia animalia, sed quando
+non volat, aut supenditur parietibus in rimis umbrosis, aut jacet
+in cavernis: cibus eius est muscae, culices, et hunc quaerit
+volans de nocte.  Et sic nota quantam similitudinem habet iste
+miser cum vespertilione ave miserrima, quae in aliquo participat
+cum mure per furtum, in aliquo cum cane per crudelitatem; nec
+habet statum, sicut caetera animalia, et vorat vilia animalia
+quae nascuntur de corruptione, et habet ungues acutos
+rapacitatis, et pellem pilosam; et breviter comparatio est
+optima.  Sicut enim vespertilio proditor spoliatus plumis suis
+missus est in tenebram nocturnam ab aquila juxta fabulam AEsopi,
+unde non audet apparere in luce; ita recte ipse Lucifer, qui
+prodidit Dominum Deum suum, et velut transfuga deseruit coelum,
+privatus gloria et luce sua damnatus est ad tenebram aeternam
+inferni, et non volat nisi nocte, quia in occulto tentat; et
+sicut omnes aves odiunt et persequuntur vespertilionem, ita omnes
+angeli boni ipsum inimicum lucis.  Et tangit exercitium et
+officium illarum alarum dicens: |e quelle insuso alzava~, idest,
+erigebat alas contra coelum, contra Deum, |s@i che tre venti si
+partian da ello~, quia scilicet habebat tria paria alarum, et
+hinc procedebat causa totius glaciei.  Unde dicit: |quindi Cocito
+tutto s'aggelava.~  Nam sicut ventus spirans ab Aquilone
+inglaciat aquas, ita inspiratio illius qui dixit: ^ponam sedem
+meam ab Aquilone~, inglaciat corda istorum proditorum.
+
+	|53-54.~  Et tangit tristitiam eius, dicens: |con sei
+occhi piangeva~, suam miseriam aeternam, |e per tre menti
+gocciava al petto sanguinosa bava~, emittebat enim bavam in modum
+apri ex ira et odio lacerans crudeliter tres spiritus; et sic
+sanguis illorum manans faciebat bavam sanguineam.
+
+	|55-57.  Da ogni.~  Nunc consequenter autor describit
+poenam trium proditorum antiquorum, qui puniuntur ab isto
+principe daemoniorum, quorum unus prodidit aeternum Principem,
+alii duo principem terrenum; et primo proponit poenam istorum in
+generali, dicens: ille Lucifer, |dirompea coi denti un peccator~,
+idest, summum proditorem, |da ogni bocca.~  Et tangit modum per
+comparationem claram et propriam; et vult breviter dicere quod
+Lucifer dirumpebat et dissipabat quemlibet istorum eo modo quo
+linum maceratur et laceratur; unde dicit: |a guisa di maciulla~;
+est enim maciulla instrumentum ligneum quo excutitur linum, quod
+alibi appellatur gramma, ideo dicit: |s@i che tre ne facea cos@i
+dolenti.~
+
+	|58-60.~  Et specificat poenam maiorem eius, qui erat in
+medio, dicens: |a quel dinanzi il mordere era nulla, verso il
+graffiar~, vult dicere quod morsio quam faciebat Judae nihil erat
+respectu lacerationis quam faciebat cum unguibus; unde dicit:
+|che talvolta la schiena rimanea de la pelle tutta brulla~,
+idest, pauperata et nudata.
+
+	|61-63.~  Et nominat istum, cuius proditio excedit omnes
+proditiones mundi, dicens: |disse il maestro~, scilicet
+Virgilius; |quella anima lass@u che ha maggior pena~, scilicet in
+ore medio Luciferi, |@ee Giuda Scariotto~; sic denominatus a loco,
+|che 'l capo ha dentro~, scilicet, intra os, |e fuor le gambe
+mena~, scilicet extra os.  Et hic nota quod justissime autor
+fingit quod Lucifer, qui primus prodidit Dominum Deum suum, a quo
+receperat tantam praerogativam excellentiae, puniat Judam, qui
+prodidit Christum Deum et hominem Dominum suum, a quo receperat
+tot singularia beneficia.
+
+	|64-67.  De gli altri.~  Hic Virgilius nominat alios duos
+qui prodiderunt principem romanum, scilicet Brutum et Cassium,
+qui prodiderunt Julium Caesarem.  Et ad intelligentiam claram
+istius litterae est sciendum, quod M. Brutus et Caius Cassius
+post mortem Julii Caesaris fugientes a Roma occupaverunt
+provincias sibi datas ab ipso Caesare, scilicet Syriam et
+Macedoniam.  Augustus autem, victo Antonio apud Mutinam, fecit
+deinde foedus secum, ut posset cum illo mortem Caesaris
+vindicare.  Contractis ergo viribus utrorumque exercituum in
+Thessalia, quae destinata erat bellis civilibus romanorum,
+pugnatum fuit cum tanto fervore quod aliquandiu neutra partium
+victrix vel victa videbatur; sed fortuna favens Augusto, tandem
+dedit illi victoriam duplici errore.  Nam Cassius contra Antonium
+ardenter pugnans cum compulisset ipsum retrocedere, visus est
+videre Julium Caesarem obvium facientem impetum in eum.  Credo
+ego quod timor animi finxit sibi talem imaginem; quo monstro
+perterritus refugit: et cum jam sui invasissent castra Augusti,
+et lectum mucronibus perforassent, quia credebant illum infirmum
+ibi esse, qui tamen erat in proelio, Cassius, cuius castra
+similiter capta fuerant, videns suos reverti, credens illos
+fugere, fugit in montem proximum; sed pulvis, strepitus et nox
+vicina non permiserunt sibi sentire rem.  Unde cum explorator ad
+hoc missus tardaret reverti, Cassius proprio gladio se
+transfixit, et sic poenam parricidii dignam luit, suis adhuc pro
+parte vincentibus.  Brutus autem, cum perdidisset animum ex morte
+Cassii, fugiens, omni spe perdita, precibus obtinuit ut a
+Stratone socio suo interficeretur, cuius corpus Antonius fecit
+cum suo pallio honorifice cremari.  Augustus autem, ut dicit
+Svetonius in secundo, non temperavit prosperitatem victoriae, sed
+misit caput Bruti Romam, ut subfigeretur statuae Julii Caesaris,
+et in omnes nobiles adversarios crudeliter se habuit factis et
+verbis.  Unde uni petenti sepulturam, indignabundus respondit,
+quod hanc curam avibus relinquebat.  Ideo vide qualiter autor
+ultra vindictam temporalem det eis poenam aeternalem.  Sed
+ulterius ad cognoscendum culpam eorum est sciendum, quod, sicut
+scribit Svetonius in primo, coniuratum est a sexaginta
+senatoribus, cuius coniurationis tres fuerunt autores
+principales, scilicet Marcus Brutus, Decimus Brutus et Gaius
+Cassius: Caesar occisus fuit in curia pompeiana, quae est in
+latere montis Tarpeii.  Quidam Tullius Cimber primo cepit eum per
+togam et utraque spatula, Cassius vulneravit eum infra gulam. 
+Sed Caesar subito extorto pugione de manu eius transfixit illi
+brachium, et volens sic insurgere, alio vulnere retardatus est,
+quod medici dixerunt esse mortale.  Tunc Caesar videns se peti
+undique ferro, et se solum inermem sine auxilio aliquo, collegit
+vires animae in unum ne diceret vel ageret aliquid turpe in
+ultimo, et velavit sibi caput cum toga manu dextra, cum sinistra
+vero extendit sinum vestimenti ad inferiores partes corporis, ut
+honestius caderet; et sic victor omnium viginti tribus vulneribus
+victus est, et quod peius morte fuisset, decreverunt jactare
+corpus in Tiberim, bona publicare, et acta rescindere; sed
+exterriti magnitudine facinoris et timore M. Antonii, qui tunc
+erat consul, et Lepidi qui erat magister equitum ipsius Caesaris
+dictatoris, destiterunt, et fuga salutem petierunt.  Caesar
+magnificentissime cum omni pompa crematus est et sepultus in
+campo Martio; nam eius cineres repositi sunt in columna lapidis
+Numidici altitudinis viginti pedum, in qua scriptum est: ^parenti
+patriae.~  Ad quam sacrificare, vovere, jurare per Caesarem diu
+observatum est, et relatus est in numerum deorum, non solum
+autoritate principum, sed etiam opinione populari, sicut factum
+fuerat de Romulo primo conditore urbis.  Et quod miraculosum
+videtur nullus interfectorum supervixit ultra triennium, et
+nullus mortuus est morte naturali; sed omnes diversis casibus
+perierunt; alii naufragio, alii bello, quidam eo ipso pugione quo
+vulneraverant Caesarem semetipsos occiderunt: sic adeo mors illa
+indignissima visa est displicuisse Deo et hominibus.  Nunc ad
+literam dicit Virgilius: |de gli altri duo c'hanno il capo di
+sotto~, per contrarium Judae habent pedes et crura in ore
+Luciferi, et caput pendens inferius, |quel che pende dal nero
+ceffo~, idest, ab ore nigro sinistro Luciferi, |@ee Bruto.~  Et
+hic nota quod Dantes de industria non expressit de quo Bruto
+potius intelligeret, ut relinqueret lectori locum inquirendi;
+tamen mihi videtur quod debeat intelligi potius de Decimo Bruto,
+quia fuit ingratior; nam semper fuerat cum Caesare, et in bellis
+civilibus et gallicis, et Massiliam oppresserat pro eo; unde
+Svetonius ad arguendam malignam ingratitudinem proditorum
+scribit, quod multi, ex illis qui occiderunt eum erant nominati
+tutores filii sui, si aliquis nasceretur.  Aliqui etiam erant
+substituti, sicut Decimus Brutus in testamento quod fecerat
+paucis mensibus ante mortem.  Videtur etiam posse intelligi de M.
+Bruto, qui licet fuisset semper infestus Caesari et gener
+Catonis, tamen clementissimus princeps, qui omnibus ignoverat,
+numquam solitus ulcisci, non merebatur mortem a Bruto, qui venia
+donatus et provincia sublimatus aut debebat beneficia recusare,
+aut esse amicus eius; et ipse fuit principalis in ista
+coniuratione.  Fuit enim vir magni animi et ingenii literati,
+quem Tullius summe commendat in libro Philippicarum, tamquam
+autorem libertatis, et Lucanus saepe hoc confirmat.  Unde autor
+dicit: |Vedi come si torce e non fa motto~; in signum viri fortis
+qui nescit conqueri.
+
+	|67.~  Et specificat alium ab habitu corporis, dicens: |e
+l'altro~, scilicet pendens ab ore dextro, |@e Cassio~, intellige
+de Gaio Cassio; nam fuit alius Cassius in ista coniuratione,
+scilicet Cassius Parmensis; et dicit: |che par s@i membruto~, quia
+corpore magnus.  Nota etiam quod Caesar visus dignissimus tali
+morte; quia qui totam terram civilis sanguinis fusione
+resperserat, suo sanguine totam curiam debuit inundare, etiam
+quia talem mortem videbatur optare; nam paulo ante mortem eius
+orta quaestione in coena quod esset optimum genus mortis, ipse
+mortem subitam et inexpectatam praetulerat; et in quodam sermone
+saepe erat solitus dicere se satis diu vixisse vel naturae vel
+gloriae.  Demum percursis generaliter omnibus poenis inferni,
+debes notare, lector, totum ordinem et dispositionem istius
+civitatis.  Considera ergo quod sicut imperator, rex vel dominus
+stat in medio civitatis, ita Lucifer stat in centro istius
+civitatis; et sicut apud regem stant nobiles et magnates, qui
+sunt sibi magis familiares et amici, ita de prope Luciferum stant
+isti proditores sub umbra alarum eius; et sicut circa palatium,
+ad portas et in platea stant custodes, ita hic in circuitu circa
+lacum stant gigantes magni et fortes, tamquam satellites et
+stipatores deputati ad custodiam tanti regis, per quorum manus
+omnes transeunt ad curiam eius.  Et sicut postea in tota terra
+per diversos vicos et contratas stant cives, mercatores et
+artistae, ita in tota ista civitate sunt fraudulenti et violenti
+per diversas bulgias et circulos; quia in omni contrata
+inveniuntur diversae fraudes mercatorum et artistarum, et ita
+diversae violentiae divitum et nobilium, qui nituntur suppeditare
+alios quantum possunt; et sicut in suburbiis civitatis stant
+rustici, viles et incogniti, ita hic extra civitatem fortem et
+muratam stant incontinentes; et sicut communiter extra civitatem
+est flumen per quod transitur ad civitatem, ita hic est Acheron
+magnus fluvius per quem transitur ad istam civitatem maximam
+omnium, quae continet in se magnam partem civium omnium civitatum
+mundi.  Et sicut longe a civitate stant strenui et bellatores in
+campis qui gerunt bella, et philosophi et heremitae qui
+speculantur in solitudine; ita hic in campo herboso et amoeno
+stant viri illustres, philosophi et poetae separati ab omni turba
+confusa aliorum gloriosi; sicut haec omnia singula patent in
+tractatu istius libri primi qui dicitur Infernus.
+
+	|68-69.  Ma la notte.~  Ista est tertia et ultima pars
+generalis, in qua autor describit suum recessum ab inferno, et
+removet aliqua dubia circa hoc.  Et primo Virgilius proponit quod
+non sit amplius standum hic, tum quia tempus vocat eos, tum quia
+viderunt omnia videnda per eos.  Dicit ergo: |ma la notte
+risorge~, quasi dicat: sicut adveniente nocte descendimus ad
+infernum, ita nocte recedente debemus recedere ab inferno, sicut
+plene expositum est secundo capitulo huius libri in principio: |e
+or mai @ee da partir, ch@e tutto avem veduto~, scilicet omnia loca
+inferni cum omnibus suppliciis damnatorum.
+
+	|70-75.~  Et continuo tangit modum recessus, dicens:
+|com'a lui piacque, il collo gli avvinghiai~, idest, amplexus fui
+Virgilium cum brachiis ad collum, |et ei prese di tempo~, idest,
+servavit horam temporis, qua deberet applicare se illi Lucifero,
+|e loco poste~, idest, in qua parte corporis, |e appigliossi a le
+vellute coste~, quia non habebat pennas, sed quamdam subtilem
+lanam, |quando l'ale furo aperte assai~, et sic, |discese poscia
+gi@u di vello in vello~, gradatim et paulatim, |tral folto pelo~,
+idest, alas pilosas, |e le gelate croste~, idest, et ipsam
+glaciem gelidam.
+
+	|76-81.  Quando.~  Hic autor ostendit quomodo
+transiverint centrum, et pervenerunt ad aliud hemisperium
+inferius.  Unde dicit: |lo duca volse la testa ov'egli avea le
+cianche~, idest, vertit caput ubi primo habebat pedes, |con
+fatica e con angoscia, quando noi fummo l@a dove la coscia si
+volge appunto in sul grosso de l'anche~, idest in natibus, |et
+aggrappossi al pelo~, illarum alarum, quae erant valde subtiles
+et densae, |com'uom che sale~, idest, ascendit, ubi primo solitus
+erat semper descendere a principio inferni usque ad finem; unde
+dicit: |s@i che in inferno io credea tornar anche.~  Ad
+declarationem istius literae, quae vulgo videtur obscura, volo te
+imaginari, quod si terra esset in medio perforata, ita quod
+foramen transiret per totum corpus usque ad aliud hemisperium, et
+aliquis proiiceret lapidem per foramen, lapis ille perveniret
+usque ad centrum terrae, et si transiret centrum motu violento,
+nihilominus reverteretur ad centrum, et quiesceret ibi; et est
+ratio naturalis, quia omne grave naturaliter tendit ad centrum;
+unde si transiret, tunc ascenderet, quod est impossibile per
+naturam.  Modo ad propositum Dantes secundum suam fictionem
+descenderat usque ad centrum terrae, nec volebat retrocedere,
+quia nolebat reverti per eamdem viam.  Volens igitur transire
+ultra centrum ad aliud hemisperium, de necessitate oportebat quod
+egrederetur per aliam partem cum capite ante.
+
+	|82-84.~  Et ponit exhortationem Virgilii ad se, dicens:
+|il maestro ansando com'uom lasso, disse: attienti bene~, ne
+recidas in manus istius, |ch@e conviensi dipartir da tanto male
+per cotali scale.~  Per hoc figurat quod laboriosissimum est
+homini, qui diu stetit in inferno, idest in statu vitiorum,
+recedere inde, et tendere ad purgatorium, idest ad statum
+poenitentiae.
+
+	|85-87.  Poi.~  Hic autor describit exitum eorum de
+inferno, dicens: |poi~, ille Virgilius, |usc@i fuor per li foro
+d'un sasso~, idest, per foramen respondens centro, per quod
+Lucifer cecidit, ut statim dicetur, |e posemi in su l'orlo~,
+idest, in extremitate in introitu illius saxi forati, |a sedere~,
+ut parum posset respirare cum esset valde lassus, |appresso porse
+a me l'accorto passo~, quasi dicat: prudenter et aperte venit et
+sedit juxta me.
+
+	|88-92.~  Et ostendit autor quid fecerit positus extra
+infernum; unde dicit: |io levai gli occhi, e credetti vedere
+Lucifero com'io l'avea lassato~, scilicet, cum capite sursum, |e
+vidili tenere le gambe in su~, per oppositum, ex quo factus est
+valde stupefactus; unde dicit: |e s'io divenni allora
+travagliato, la gente grossa il pensi~, et bene dicit gens rudis;
+nam homini ignoranti istud videtur mirabile, non tamen uni
+philosopho vel astrologo, imo videtur quod de necessitate oportet
+sic esse, si debet transire centrum.  Ideo dicit: |che non vede
+qual era il punto ch'io avea passato~, idest, quae non
+recognoscit quid sit centrum vel quomodo.
+
+	|93-95.  Levati.~  Hic autor ostendit qualiter post
+parvam quietationem Virgilius persuaserit sibi esse recedendum,
+unde dicit: |disse 'l maestro, levati su in pede~, quasi dicat:
+non est amplius hic standum, nec perdendum hic tempus; et ecce
+causam: quia |la via @e lunga~, quia quanta via est a centro
+supra, tanta est a centro infra, |e 'l cammino @e malvagio~, quia
+iter est difficillimum tendere ad virtutem a principio, |e gi@a il
+sole riede a mezza terza~, idest, quod sol revertitur ad ortum in
+illo alio hemisperio.
+
+	|96-99.~  Et tangit difficultatem itineris, dicens: |non
+era camminata di palagio~, quasi dicat: non erat via laevis et
+plana et lata, |l@a ove eravam, ma natural burella~, idest,
+obscura et stricta naturaliter, |ch'avea mal suolo~, idest,
+asperum, |e di lume disagio~, quia parum vel nihil habebat
+luminis.
+
+	|100-105.  Prima.~  Nunc autor recessurus a loco petit
+certiorari a Virgilio de quibusdam dubiis.  Dicit ergo: |diss'io
+quando fui dritto: o maestro mio, favellami un poco a trarmi
+d'erro~, idest, de dubiis, quibus sum implicitus, |prima che de
+l'abisso mi divella~, idest, abstrahas me.  Sed quid petit autor,
+cum jam esset evulsus et separatus de abysso inferni?  Dicendum,
+quod erat adhuc in conspectu abyssi et respiciebat Luciferum; vel
+dic quod vocat abyssum locum infimum, ubi erant.  Unde statim
+incipient ascendere cum movebunt.  Et ecce dubia: |ov'@ee la
+ghiaccia~? quia non videbat amplius eam, |e questi~, scilicet
+Lucifer, |com'@ee fitto s@i sotto sopra, e come il sole ha fatto
+tragitto~, idest, transitum, |da sera a mane~, idest, ab occasu
+ad ortum, sive a nocte ad diem, |in s@i poc'ora~?
+
+	|106-111.~  Et subdit responsionem Virgilii, qui primo
+tangit causam admirationis, et dubitationis eius, unde dicit: |et
+elli a me~, scilicet Virgilius respondit: |tu imagini ancora
+d'esser di l@a dal centro, ov'io mi presi al pel del vermo rio~,
+scilicet Luciferi, |che 'l mondo fora~, idest, forat, vel
+furatur; sed non est sic, quia non es ibi, quia solummodo, |di
+l@a~, ultra centrum, |fosti cotanto quant'io scesi~, quasi dicat:
+tamdiu quamdiu tetendi deorsum, |e quando mi volsi~, idest,
+quando verti caput ubi habebam pedes, |tu passasti il punto~,
+idest, centrum, |al qual si traggon d'ogni parte i pesi~, quia,
+ut totiens dictum est, omnia gravia tendunt ad centrum.
+
+	|112-115.  E sie'.~  Hic Virgilius specificat autori
+locum; ubi est, dicens; |e sie' or~, idest, nunc, |giunto sotto
+l'emisperio~, idest, sub hemisperio inferiori opposito superiori;
+unde dicit; |che @ee opposito a quel~, scilicet, hemisperio nostro
+superiori, |che coverchia la gran secca~, idest, totam terram
+discoopertam.  Et melius declarat ipsum hemisperium superius
+nostrum per id quod Christus passionatus est sub eo, dicens: |e
+sotto il cui colmo~, idest, sub cuius hemisperii altitudine,
+|l'uom che nacque e visse senza pecca~, idest Christus qui solus
+inter homines fuit sine peccato, |fue consunto~, idest,
+crucifixus et ex omni parte afflictus; unde ipse dixit:
+^consummatum est.~  Christus enim fuit passus, mortuus et
+sepultus in Hierusalem, quae dicitur esse sub altiori puncto
+hemisperii sperae nostrae habitabilis.
+
+	|116-117.~  Et declarato loco ubi erat per hemisperium
+declarat ipsum per situm terrae, et dicit: |tu hai li pedi in su
+picciola spera~, parvam speram appellat autor parvam aream
+spericam, in qua est mons purgatorii, quam invenerunt in illo
+hemisperio inferiori; quae terra est parva respectu nostrae
+superioris.  Et declarat ipsam speram parvam, dicens: |che
+l'altra parte fa della Giudecca~, idest, quod in opposita facie
+terrae illius montis est Judecha, idest, Judaica regio; nam mons
+ille purgatorii est directe oppositus regioni Hierusalem, quae
+dicitur Judaea; vel et verius quod autor per Judecham intelligit
+ultimam partem glaciei, quam autor denominat Judecham a Juda
+archiproditore, qui prodidit Dominum et benefactorem suum; quae
+Judecha directe opponitur illi saxo ad quod pervenerant nunc; et
+ista est propria intentio autoris, quia nondum nominaverat istam
+quartam regionem glaciei nomine proprio, sicut nominaverat alias
+tres, scilicet Chainam, Anthenoream, Ptholomaeam.  Ideo nunc
+nominat quartam, scilicet Judecham; et tamen utraque expositio
+importat eumdem sensum, quia regio Judaica, et Judecha opponuntur
+isti parvae sperae; sed Judecha magis immediate et stricte.
+
+	|118.  Qui.~  Hic Virgilius respondet ultimae quaestioni,
+dicens: |qui @e da man~, scilicet, in isto hemisperio inferiori,
+|quando di l@a @e sera~, scilicet in hemisperio superiori, sicut in
+Judaea, ut dicetur clare in tertio capitulo Purgatorii; et
+considera quod Virgilius cum loquitur hic cum autore est continuo
+in illa parte terrae opposita nostrae.
+
+	|119-121.~  Deinde respondet secundae et primae
+quaestioni, dicens: |e questi~, scilicet Lucifer, |che ne fe
+scala col pelo~, quia per alas eius pilosas descendimus ad
+fundum, |fitto @e ancora, s@i come prim'era~, idest, eo modo stat
+quo tu vidisti primo eum, nec est mutatus in aliquo, sed tu
+mutasti locum.  Et ad declarationem dictorum describit casum
+diaboli, per quem factus est infernus.  Dicit ergo: et ille
+Lucifer, |cadde gi@u dal cielo da questa parte~, idest ab isto
+hemisperio inferiori, ubi erat nunc Virgilius; et non intelligas
+quod ceciderit ab isto nostro hemisperio superiori, sicut quidam
+ponunt et exponunt falso, quia tunc Lucifer apparuisset autori
+cum capite deorsum quando descendit, cuius contrarium fuit; quia
+invenerunt eum cum capite desuper versus nostram terram
+habitabilem antequam transirent centrum.
+
+	|122-126.~  Et dicit quod terra cooperta fuit a mari
+timore eius Luciferi ab illa parte, et cessit et venit ad
+hemisperium nostrum quod habitatur.  Construe et expone literam,
+quae est valde fortis, et dicit: |e la terra che pria si sporse
+di qua~, idest, quae removit se ab ista parte inferiori et
+retraxit se sursum, |fee del mar velo~, idest, claustrum et
+obstaculum, quia velavit se mari, |per paura di lui~, ne
+egrederetur, |e venne a l'emisperio nostro~, ubi scilicet est
+discooperta habitabilis; ita quod vult dicere quod terra in
+nostra parte intumuit, et e converso pars terrae aufugit per
+ipsum foramen, quod fecit Lucifer dum iret ad centrum, et ex ipsa
+factus est mons purgatorii.  Construe sic: |e quella che par di
+qua~, scilicet, terra montis purgatorii, quem ascendere volumus,
+|lasci@o qui luogo voto~, scilicet, istam viam foratam per quam
+exire volumus, |per fuggir lui~, idest, volens fugere a facie
+Luciferi recessit inde, |e ricorse su~, idest, saliit sursum et
+erexit se in altitudinem istius montis purgatorii.  Et hic nota
+quod autor fecit hic pulcerrimam fictionem, per quam figurat quod
+tota terra habitabilis est subdita potestati diaboli, quia ipse
+dicitur princeps mundi, sed illa pars quae recessit, non; hoc est
+quod recedentes a vitiis et tendentes ad virtutes, quales sunt
+existentes in purgatorio, recedunt a regno diaboli, et tendunt
+sursum ad coelum, sicut ostendetur plenissime in libro sequenti
+Purgatorii.
+
+	|127-132.  Loco.~  Hic Virgilius facit topographiam,
+idest descriptionem loci.  Et ad huius literae fortis evidentiam
+volo te notare, quod locus iste foratus per quem habebant
+transire et exire foris est infra centrum terrae usque ad
+superficiem aliam terrae inferioris; qui locus est tantae
+distantiae et longitudinis, quantae est locus supra centrum usque
+ad superficiem istius nostrae terrae superioris, ita quod centrum
+terrae equidistanter dividit istas duas medietates.  Ideo bene
+dicit litera: |loco @ee l@a gi@u rimoto da Belzeb@u~, idest, a
+Lucifero, |tanto, quanto la tomba si distende~, idest, infernus
+qui est sepultura omnium mortuorum damnatorum.  Et dicit quod hic
+locus foratus, excavatus est incognitus visui, sed solum
+percipitur auribus propter sonum aquae, quae labitur per ipsum;
+unde dicit: |che @e noto non per vista~; hic locus est absconditus
+et inaspectus, quia nullus ibi moratur, nullus ibi punitur, unde
+dicit: |ma per suono d'un ruscelletto~, idest, rivuli: nec credas
+quod iste rivulus manet a Cocyto, sicut aliqui male opinantur,
+quia istud est impossibile per naturam, quia tunc aqua
+ascenderet; sed potius e contra, iste rivulus oritur a monte
+purgatorii et labitur contra infernum usque ad centrum, quia aqua
+purgatorii et aqua inferni sunt contrariae; unde dicit: |che
+quivi discende per la buca~, idest, per foramen, |d'un sasso
+ch'elli~, scilicet rivulus, |ha roso col corso ch'elli avvolge~,
+idest, torquet, |e poco pende~, imo jacet propter revolutiones
+cursus.
+
+	|133-139.  Lo duca.~  Nunc autor claudens capitulum et
+librum totum concludit, quod per viam descriptam exiverunt de
+corpore poenae et pervenerunt ad illam superficiem terrae, ubi
+est mons purgatorii.  Unde dicit: |lo duca~, scilicet Virgilius
+qui duxerat eum incolumem per loca omnia plena timore, labore et
+dolore, |et io~, qui numquam deserueram vestigia eius, |intrammo
+per quel camino ascoso~, quia locus subterraneus est et nulli
+notus, quia nullus vadit per ipsum, |a ritornar nel chiaro
+mondo~, idest, ad claritatem virtutum, quia hucusque steterat in
+tenebra vitiorum, |e salimmo su~, ubi eramus soliti descendere,
+|ei primo~, tamquam dominus, pater, dux et magister, |et io
+secondo~, tamquam servus, filius, peregrinus et discipulus,
+|senza aver cura d'alcun riposo~, idest, sine interpositione
+quietis vel intermissione laboris.  Et hic nota, lector, quod hic
+mirabilis poeta non sine magno ministerio finxit se infra centrum
+terrae locum vacuum invenire, et tam celeriter tantum spatium
+transcurrere; nam ut mihi videtur ipse totum infernum tam
+laboriose quam morose percurrit, quaerens investigare et
+propalare singula supplicia vitiorum.  Nolens ergo redire per
+eamdem viam more canis revertentis ad vomitum; sed volens per
+purgatorium, in inferiori hemisperio positum, infernoque
+oppositum, redire in regionem suam quae coelum est, cogitur
+fingere locum perforatum et pervium per quem evadat ad superos;
+ideo elegantissime fingit quod iste locus inferior sit vacuus, et
+superior sit plenus animabus damnatorum; et ideo tam celeriter
+autor percurrit istum locum vacuum, quia nihil invenit hic quod
+haberet speculari.  Ideo dicit: |tanto~, supple salivimus et
+ascendimus per illam viam obscuram absconditam, |ch'io vidi delle
+cose belle che porta il ciel~, scilicet corpora coelestia, quae
+sunt pulcerrima respectu terrenorum, |per un pertugio tondo~,
+idest, per ostium angustum istius saxi forati sperici, |e
+quindi~, scilicet per istud os foraminosum, |uscimmo a riveder le
+stelle~, scilicet, apparentes in aurora in illo hemisperio
+inferiori, sicut statim apparebit primo capitulo Purgatorii.  Sic
+igitur vide, lector, quod autor cum summa festinantia recedit a
+loco tenebrarum, et cum summa laetitia accedit ad claritatem
+stellarum, idest, virtutum.  Ad quarum lucem nos transire
+concedat a vitiis qui est lux, vita, via et veritas in secula
+seculorum.  Amen.
+
+	|EPILOGO~  
+     ^Jamque domos Stygias et tristia regna silentum~,
+     ^Destituens, sublimis agor; jam noctis ab imo~
+     ^Carcere felices rediens extollor ad auras.~
+     ^Vidi ego diversis animarum tartara poenis~
+     ^In circlos distincta novem, lacrymosaque passim~
+     ^Flumina et horribilem ferratis pestibus urbem.~
+     ^Sit tibi, summe Deus, nostrae spes una salutis~
+     ^Gloria et aeternae maneant per secula laudes.~
+
+Expletum die VII februarii hora XV 1409.
+
+FINIS INFERNI ET TOMI SECUNDI.

@@ -1,0 +1,836 @@
+	|1.  Nel mezzo~ ecc.  Non vuole, qui, D. alludere alla
+data storica dell'inizio del suo viaggio nell'oltretomba (cio@e la
+sera del venerd@i santo dell'8 aprile, secondo alcuni, o del 25
+marzo del 1300, secondo altri; per cui vedi, ^Camilli~, in ^Studi
+danteschi~, XXIX, 1950), la quale, peraltro, poteva esser dedotta
+soltanto da chi conoscesse la data di nascita del poeta; bens@i
+intende soltanto precisare il dato oggettivo, che indica la
+pienezza, la maturit@a della propria et@a, secondo la misura
+dell'arco medio della vita umana, cio@e del trentacinquesimo anno. 
+Seguendo i medici e i filosofi aristotelici (cfr. B. Nardi,
+^Saggi di filos. dant.~, Milano, 1930, pp. 123-53) D. stesso aveva
+scritto nel ^Conv.~ (IV, xxiii, 6-10) <Tutte le terrene vite...
+convengo essere quasi ad imagine d'arco assimiglianti...  Lo
+punto sommo di questo arco io credo... ne li perfettamente
+maturati... nel trentacinquesimo anno>.  Pochi lettori hanno
+notato, in una pur secolare esperienza critica della ^Div.
+Comm.~, che il senso pi@u vero della poesia di D. consista in
+questa ideologia di fondo, allorch$e pone in modo preciso e
+perentorio la dimensione del tempo, proprio nel momento in cui
+narra di aver intrapreso il viaggio verso l'eternit@a.  E questa
+precisazione non tanto deriva dal testo di Isaia (^ego dixi in
+dimidio dierum meorum: vadam ad portas inferi~), che peraltro
+fornisce a D. un mero ausilio semantico-linguistico figurale,
+quanto dal fatto che vuole stabilire sin dall'inizio del poema la
+sua prospettiva psicologica e morale, la sua stessa condizione di
+viaggiatore e narratore del suo miracoloso viaggio verso
+l'eternit@a, ma sempre ridimensionato nella sua condizione di uomo
+vivo, legato ancora alla sua dimensione temporale ed umana.  Non
+si dimentichi che la ^Div. Comm.~ @e la memoria di un viaggio
+nell'oltretomba, scritta dopo il compimento, e, quindi, gi@a di
+per se stessa ridimensionata psicologicamente nel rapporto
+dialettico di tempo-eternit@a.  Questo primo canto, in quanto
+preludio generale al poema sacro; ed anche il secondo, in quanto
+preludio all'^Inferno~, mirano a stabilire, sul piano del tempo,
+la poetica narrativa di quell'esperienza spirituale, gi@a
+superata, del viaggio: perci@o, necessariamente, descrivono i
+momenti occasionali-temporali-psicologici, che precedono, in
+questa terra, il viaggio verso l'aldil@a.
+
+	|2.  mi ritrovai~ ecc.  Prima ha indicato in un senso
+generale e universale la <^nostra vita~>, cio@e quella di tutti
+gli uomini, a cui egli si associa; ora, indica soltanto la sua
+crisi, la sua esperienza <|mi ritrovai~>, che ha, comunque, un
+valore emblematico e paradigmatico, dello smarrimento morale, in
+cui pu@o cadere l'uomo durante la sua peregrinazione in terra,
+durante il cammino lontano dalla sua vera patria celeste, (cfr.
+^Conv.~ IV, xii, 14-20, ^cos@i l'anima nostra, incontanente che
+nel nuovo e mai non fatto cammino di questa vita entra, dirizza
+li occhi al termine del suo sommo bene...~).  Nell'^Epist.~, XIII
+(a Cangrande) D. spiega il fine morale-religioso che il suo poema
+si propone <^finis... est removere viventes in hac vita de statu
+miserie et perducere ad statum felicitatis~>.  Cio@e riportare se
+stesso, e l'umanit@a tutta, dallo stato di miseria e di errore
+allo stato di felicit@a.  La selva oscura @e, infatti, la vita
+dominata dagli appetiti e non illuminata dal giusto giudizio,
+cio@e lo stato di miseria, |oscura~, appunto perch$e non vi riluce
+la ragione.  Il senso morale della ^Div. Comm.~ @e tutto contenuto
+in questa dialettica tra l'uomo e la selva, in questa confusione
+dei due poteri, temporale e spirituale, indispensabili per la
+felicit@a, simboleggiata nel Paradiso terrestre.  C'@e, anzi, un
+iter costante e coerente nella ^Div. Comm.~, dalla ^selva
+selvaggia~ fino alla ^divina foresta~; tutto il viaggio dantesco,
+in fondo, dovendo narrare la purificazione spirituale del
+peccatore, implicitamente ridimensiona, in questa, anche la
+riconquista spirituale di Beatrice.  E proprio questa nobile
+creatura @e alla preistoria di quel viaggio, quando essa va a
+visitare ^l'uscio dei morti~ per salvare Dante, ed anche al
+compimento di esso, quando apparir@a a Dante nella divina foresta. 
+Questo iter, dal tempo umano del peccato alla dimensione eterna
+della salvezza, implica gi@a nell'impostazione narrativa la stessa
+autobiografia morale del poeta.  Perci@o, qui, la storia di Dante
+si confonde con quella dell'umanit@a, il risvegliarsi della sua
+coscienza coincide col rinnovamento dell'umanit@a tutta, in modo
+che s'incontrano unitariamente l'elemento personale e quello
+universale, la componente lirico-soggettiva e quella
+etico-politica-dottrinaria della sua cultura, il dramma di Dante
+e quello dell'umanit@a.  La genesi polemica coincide, in fondo,
+col fine pedagogico-religioso della ^Comm.~  Perci@o, qui, il
+senso @e: non un trovarsi vero e proprio nella selva, ma un
+risvegliarsi improvviso della coscienza, un ritrovare se stessi,
+un riconoscere l'improvvisa condizione di essersi smarrito nella
+selva, ma con l'ansia di uscirne fuori.  |Per~: indica il suo
+errare qua e l@a.
+
+	|3.  ch$e la diritta~ ecc.  Alcuni leggono |ch$e~, nel
+senso di ^poich$e~ altri |che~, nel senso di, ^in modo che~;
+altri, meno bene, nel senso di, ^di cui, nella quale~, e in
+questo caso la |diritta via~ si troverebbe dentro la selva, ma
+ci@o @e smentito dallo stesso testo al v. 10.  Il Pagliaro ritiene
+che sia una congiunzione relativa, la quale serve ad esprimere un
+dato modale, ed allora il senso sarebbe: ^mi ritrovai per una
+selva oscura nella condizione di uno che ha smarrito la diritta
+via~, (cfr. ^Nuovi saggi di critica semantica~, Firenze, 1956,
+pag. 256; S. Battaglia, ^Il primo verso del poema sacro~, in ^Il
+Veltro~, V, 9-10, Roma, 1961, pp. 31, sgg.).  |La diritta via~:
+la via della virt@u era stata da me smarrita; non perduta, perch$e
+il poeta sperava di ritrovarla.  Anzi tutto il passo lascia
+intendere che, qui, si tratta del disagio, della situazione
+drammatica di chi si accorge improvvisamente di aver smarrito la
+giusta via, senza, per@o, escludere che quella situazione sia
+anche la causa del ravvedimento e dell'idea stessa di quel
+viaggio nell'oltretomba.  Per questo accetterei la tesi
+Pagliaro-Chimenz, pur riconoscendo la validit@a del ^perch$e~
+sostenuta dal Petrocchi.  Dante, qui, allude chiaramente al
+traviamento morale della sua vita, storicamente accertato anche
+in sede filosofica, e, quindi, al suo ritrovamento dopo il 1295,
+dopo che si era staccato dalle idee dell'amico Guido Cavalcanti
+(^Inf.~ X, 58-60; ^Purg.~ XXX, 124-33).
+
+	Non insisterei molto sulle allegorie, non solo perch$e la
+^Commedia~ non deve esser considerata come un'allegoria da capo a
+fondo, bens@i perch$e l'allegoria @e soltanto episodica, ed indicata
+dal poeta di volta in volta (cfr. A. Pagliaro, ^Simbolo e
+allegoria nella Divina Commedia~, in <L'Alighieri>, VI, 1963, 2). 
+@E bene, anzi, dire che il poema sacro vada letto secondo quanto
+Dante ha affermato nell'^Epistola a Cangrande~, cio@e secondo
+l'^allegoria dei teologi~, o, meglio ancora, secondo
+l'interpretazione figurale (cfr. E. Auerbach, ^Studi su Dante~,
+Milano, 1963; C. S. Singleton, ^Introduzione alla D. C.~, Napoli,
+1965).  Quanto Dante afferma, circa la selva, ha un valore
+letterale o istoriale fondamentale realmente accaduto o
+immaginato, un valore biografico e morale.  Il suo poema @e la
+memoria di un viaggio nell'oltretomba, la cui esperienza dovr@a
+servire di esempio a tutta l'umanit@a smarrita nell'errore.  Ma
+questo viaggio @e anticipazione, ^figura~, di quell'altro viaggio
+che egli dovr@a compiere sul piano della eternit@a, quando sar@a
+solamente anima.  Quello che narra di aver compiuto, @e un viaggio
+figurale, cio@e esempio anticipato per volont@a divina, in corpo e
+anima del vero viaggio che compir@a dopo morto.  Di qui la
+concretezza e il realismo delle immagini.
+
+	|4-6.  Ahi quanto~ ecc.: Ahi quanto penosa e difficile
+(^ardua~) cosa @e dire qual era questa (|esta~) selva orrida
+(|selvaggia~), intricata di vegetazione (|aspra) e~ difficile ad
+attraversare (|forte~), che solo a pensarvi (|nel pensier~) mette
+di nuovo paura.  L'aggettivazione a ritmo ternario (|selvaggia e
+aspra e forte~), che mira a sottolineare il sentimento dominante
+della paura, risponde ad una tecnica retorica e stilistica,
+tipicamente medievale, tendente a rafforzare le ^figura
+etymologica~ della ^selva selvaggia~, (cfr. Iacopone da Todi,
+^lauda XLVI~, 31, <^O vita mia maledetta, villana, engrata,
+superba~).
+
+	|7.  Tant'@e amara~ ecc.  La selva @e tanto amara che la
+morte naturale e spirituale, lo @e poco di pi@u, in quanto ci priva
+della dolcezza della vita e avvia l'anima alla dannazione. 
+Un'amarezza, quindi, fisica e spirituale, quella del peccato. 
+<^Amaro @e il pensiero della morte~>, ^Ecclesiastico~, XLI, 1.  Il
+linguaggio biblico @e sempre presente nella ^Div.~ ^Comm.~  Ma qui
+Dante, attraverso l'effetto dell'allitterazione tra |amara~ e
+|morte~, ha reso, con essenzialit@a di mezzi psico-linguistici, la
+concretezza e l'esattezza di un rapporto morale, limitandola in
+un solo endecasillabo di senso compiuto.  Il lettore avverte
+anche questa capacit@a di sintesi del verso dantesco, che
+racchiude in se stesso un valore logico autonomo.
+
+	|8-9.  ma, per trattar~ ecc.  Ma per poter parlare del
+ben (cio@e ^della volont@a di liberarmi dal peccato~, e non di
+Virgilio, come suppongono erroneamente i commentatori, smentiti
+dal fatto che questi non si trova nella selva), dir@o anche delle
+altre cose (^il colle, le fiere e Virgilio~) che non furono
+trovate nella selva, bens@i in relazione con essa.  Altri intende:
+^il mondo del male fino in fondo.~  Intento di D., qui, @e di
+fissare l'argomento della sua narrazione.  Il tono narrativo vien
+fissato subito nella dialettica del poeta e del personaggio del
+suo poema; di qui l'insistenza del pronome |io~ ripetuto tre
+volte.
+
+	|10-12.  Io non so ben~ ecc.  Il narratore, qui, si
+distacca dal personaggio, in quanto non ricorda lo stato della
+anima ottenebrata dal peccato, al momento in cui abbandon@o la
+verace via.  Il linguaggio scritturale-teologico soccorre il
+poeta all'atto in cui vuol trascrivere l'esperienza dolorosa del
+peccato <^Nel sonno non si pu@o avere perfetto il giudizio della
+ragione~> Tomm. ^Sum. Teol.~ I, 84, 8.  Non parlerei quindi, qui,
+di allegoria dei poeti, ma di allegoria dei teologi, cio@e di
+ispirazione figurale, dato che il poeta tende a trascrivere
+un'esperienza veramente sofferta, che vale per lui, ed anche per
+esempio e edificazione dell'umanit@a tutta.
+
+	|13.  Ma poi ch'i' fui~ ecc.  Il colle @e, anzitutto, un
+elemento geografico di questo paesaggio, immaginato e descritto
+dal poeta nel suo realismo narrativo; secondariamente, pu@o anche
+esser inteso come simbolo della ^vita virtuosa~: (al v. 78) sar@a
+infatti, chiamato dal poeta <^principio e cagion di tutta
+gioia~>, in contrapposizione alla selva-vita peccaminosa.
+
+	|15.  Compunto~: che m'aveva con la paura trafitto in
+ogni parte il cuore; quindi amareggiato (cfr. ^Inf.~ X, 109 <^Allor
+quasi di mia colpa compunto~>).
+
+	|16.  guardai in alto~ ecc.  Anche nel peccato, l'uomo
+sente l'ansia di Dio e la sua primitiva innocenza, ma la esprime
+con un gesto istintivo e naturale.  Con questo spirito fiducioso,
+il poeta guarda le parti pi@u alte del colle (|le spalle~), il cui
+approdo di salvezza avverte, istintivamente, nella presenza della
+luce del sole, che guida dirittamente ognuno, qualunque via
+faccia (^per ogni calle~ {v. 18}).
+
+	|17.~  Secondo la scienza del tempo, il sole era il
+quarto |pianeta~, che, nel sistema tolemaico da D. accettato,
+girava attorno alla terra.  Anche S. Francesco riteneva il sole
+simbolo di Dio (v. ^Cantico~: ^de Te, Altissimo, porta
+significatione~); e D. nel ^Conv.~ III, xii, {7}, <Nullo
+sensibile ^in tutto 'l mondo @e pi@u degno di farsi esempio di Dio,
+che 'l sole.~  Lo quale di sensibile luce s@e prima, e poi tutte
+le corpore celestiali e le elementali allumina> ed ancora,
+^Conv.~ II, {vi, 9}, <Li raggi di ciascuno cielo sono la via, per
+la quale discende la loro virt@u in queste cose di quaggi@u>. 
+L'antitesi fisica, tra la selva oscura e il colle luminoso,
+lascia intendere, ovviamente, la contrapposizione tra la vita
+peccaminosa e quella virtuosa, a cui D. anela; come @e
+testimoniato da questo senso di paura dell'anima, in seguito allo
+smarrimento nella selva.
+
+	|19-21.  Allor~: La paura fu un poco quietata, che si era
+protratta a lungo nel profondo del cuore (per il Bocc. |lago del
+cor~ era <una parte concava, sempre abbondante di sangue, nella
+quale abitano gli spiriti vitali>) durante il tempo trascorso
+nella selva oscura (|notte~) con tanta angoscia (|piet@a~) o
+turbamento.  Da rilevare l'uso dantesco di ^pi@eta~ e ^piet@a~ nel
+senso di <turbamento, tristezza, angoscia> notato dal Sapegno e
+accettato dai dantisti.  Per il termine |lago del cor~, v. Dante,
+ballata ^Donne io non so~: dai begli occhi della sua donna
+<discende una saetta, che m'asciuga ^il lago del cor~>; e in
+^V.N.~ II, 4: <lo spirito de la vita, lo quale dimora ^ne la
+secretissima camera de lo cuore~>.  @E uno stilema dotto della
+lirica del tempo.
+
+	|22-26.  E come~ ecc.  Come il naufrago, che con respiro
+(|lena~) affannoso, uscito fuori dal mare (|del pelago~) si volge
+all'acqua, in cui stava per affogare (|perigliosa~), e guarda con
+terrore (|guata~), cos@i (|l'animo mio~) io (allo stesso modo come
+i provenzali dicevano ^il mio corpo~ per dire ^io~) che ancor
+fuggivo (cio@e in preda alla paura e al desiderio di fuggire)
+dalla selva, mi volsi indietro (|a retro~) a contemplare ancora
+(|rimirar~) il passaggio (|lo passo~), che separa la selva dalle
+pendici del colle, come limite pressoch$e insormontabile.  Il
+Pagliaro intende per passo <non la distesa della valle immersa
+nell'oscurit@a, ma l'ultimo tratto che gli d@a vivo il senso della
+liberazione commisurato allo sforzo: l'animo ancora fugge, e il
+corpo @e accasciato dalla fatica> (^Nuovi saggi di critica
+semantica~, Firenze, 1956, pag. 260-61).
+
+	|27.~  Il passaggio (che separa la selva dalle pendici
+del colle), che (sogg.) non lasci@o mai passare un uomo in corpo
+ed anima (|persona~ = corpo; |viva~, attr. di ^persona~), cio@e un
+uomo che sia in vita; infatti il corpo costituir@a impedimento a
+proseguire quel cammino faticoso verso la liberazione dal
+peccato, nell'ascesa del colle.  Per quello sforzo di volont@a di
+redimersi, verr@a, inviato da Beatrice, Virgilio, il quale
+indicher@a una ben diversa via da seguire, onde raggiungere la
+meta divina.  Vuole, qui, D. trovare la giustificazione del suo
+viaggio e dell'intervento di Virgilio, nella trama stessa della
+sua situazione drammatica e della sua ansia di salvezza.
+
+	|28-29.  Poi ch'ei~ ecc.  Dopo che ebbi (|ei~, forma
+arcaica frequente anche in prosa) riposato un poco (perch$e la
+paura non gli consente un lungo riposo) il corpo stanco
+(|lasso~), ripresi il cammino (|via~) per il pendio solitario tra
+la valle e il colle (|piaggia diserta~, Barbi, ^Probl.~ I,
+200-201, 235-36).  Il senso della solitudine @e ancora in funzione
+della paura e dell'angoscia del peccatore.
+
+	|30.  s@i che~ ecc.  Il verso indica la volont@a
+dell'ascesa, come @e rilevato da quel |sempre~ e dal |pi@e fermo~
+(saldo-firmus), che rimane pi@u basso.  D. cammina in salita, ma
+tende a precisare non, banalmente, l'ovvio movimento del piede
+che sale, rispetto a quello fermo, bens@i la continuit@a e il ritmo
+del suo ascendere, l'intensit@a della sua stessa ansia di
+liberazione, attraverso l'immagine reale del suo salire fisico. 
+Dal momento che si @e riposato alquanto, D. riprende il suo
+cammino con un ritmo pi@u alacre e crescente, in quanto ancora
+suggestionato dalla paura della selva, che ora ha la sua pi@u
+nitida espressione poetica, in questo passo cos@i ovvio
+psicologicamente, eppure cos@i frainteso dai commentatori, che vi
+hanno voluto ad ogni costo trovare un significato allegorico
+della sua incerta volont@a di raggiungere la virt@u,
+sovrapponendolo allo stesso senso letterale o istoriale.
+
+	|31-33.  una lonza~ ecc.  Ed ecco al cominciare della
+salita vera e propria (|erta~) una lonza, (^lynx.~ animale simile
+al leopardo e alla pantera) agile (leggera e molto veloce
+(|presta~), che era macchiettata, screziata, nella pelle.  L'idea
+@e tratta da Geremia, V, 6 <Il leone della selva li ha percossi,
+il lupo del deserto li sbrana, il leopardo sta in agguato presso
+alle lor citt@a>, perci@o non si tratta di finzioni astratte, di
+allegorie, bens@i di immagini figurali delle sacre scritture con
+valore storico e reale.  Infatti, il tema @e comune al gusto
+medievale-scritturale, dalla visione del profeta Daniele
+(interpretata da Riccardo da S. Vittore), fino all'^Expositio in
+Apocalypsim~ di Gioacchino da Fiore, che narra di un religioso
+impedito in una selva da linci, leoni e serpenti.  Tra le tante
+ipotesi avanzate, la pi@u probabile sembra quella che riconosce
+nella lonza il peccato della lussuria o la disposizione
+peccaminosa dell'incontinenza, che riflette anche la gradualit@a
+delle pene e dei cerchi infernali.  @E bene, qui, precisare subito
+che si tratta di un simbolo e non di un'allegoria.  Infatti D.
+prima ha precisato nella lonza un animale con determinate
+caratteristiche, poi su questa figura ha inteso coordinare le
+linee di un simbolo morale, l'incontinenza, in modo da presentare
+la lonza per quel che @e in realt@a, ed anche per quel che pu@o
+simboleggiare.  Il senso letterale condiziona il simbolo.  Di qui
+quell'animazione emotiva e psicologica, che ne determina
+l'atmosfera narrativa.  Il realismo figurale di D. @e gi@a vivo fin
+da questa sequenza.  Il |pel macolato~ ha richiamato a Pietro di
+Dante un'immagine virgiliana di Venere (^Eneide~, I, 323)
+<^maculosae tegmine lyncis~>, da lui interpretata come simbolo di
+vizio carnale.  <La lussuria @e, anche per Aristotele, un vizio
+che nasce dall'esasperazione di un bisogno naturale dell'uomo: @e
+un nemico che @e dentro di noi.  Perci@o D. ritiene questo vizio
+d'incontinenza men grave, per esempio della gola e dell'avarizia>
+(B. Nardi, ^Il preludio alla Div. Comm.~, in <L'Alighieri>, 1963,
+p. 11).  Cfr. anche, G. Fallani, ^Poesia e teologia nella Div.
+Comm.~, Milano, 1950, p. 28; e G. Busnelli, ^Il simbolo delle tre
+fiere dantesche~, Roma, 1909; G. Getto, ^Il canto I dell'Inf.~,
+Firenze, 1965; per la distinzione dell'allegoria dei poeti e
+dell'allegoria dei teologi, v. Singleton, op. cit. {^Introduzione
+alla D.C.~, Napoli, 1965}, p. 137-55; per l'interpretazione
+figurale, Auerbach, op. cit. {^Studi su Dante~, Milano, 1963}.
+
+	|34-36.  e non~: e non s'allontanava, nonostante la sua
+agilit@a, dal mio cospetto (|volto~), come se fosse un'ossessione,
+anzi impediva il mio procedere tanto, che io fui pi@u volte sul
+punto di tornare indietro.  <L'intervento delle tre fiere porta
+la tragedia di D. alla sua massima tensione.  Alla dinamica degli
+animali corrisponde la dinamica del personaggio D.  Anche questa,
+come la prima, si sviluppa con progressiva intensit@a>.  (Getto,
+op. cit. {^Il canto I dell'Inf.~, Firenze, 1965}, p. 410).
+
+	|37.  Temp'era~ ecc.  L'ora (^tempo~) era al principio
+del mattino e il sole sorgeva nel segno dell'Ariete (^quelle
+stelle~).  Anche ^Inf.~ XV, 18 <come suol ^da sera~>, XXXIV, 118,
+<Qui @e ^da man~> nel senso di ^al~ per il compl. di tempo.
+
+	|38-45.~  Notevole il rilievo tecnico-metrico fatto a
+questo punto dal Fubini, che conferma in modo inoppugnabile come
+la tecnica stilistica della ^Commedia~ si vada perfezionando man
+mano dal carattere meccanico e un po' provvisorio dei primi
+canti, riuscendo a far divenire in seguito, attraverso un lungo
+travaglio e una lunga esperienza narrativa, la rima dantesca una
+cosa sola col possente respiro poetico.  <Vediamo come il periodo
+sintattico non si snodi insieme con quello ritmico, come il ritmo
+sintattico non coincida col respiro poetico e la terzina non
+venga fuori dalla precedente, ma riveli la sua funzione
+esclusivamente mnemonica; mentre altrove il contrasto tra
+sintassi e metro ha un valore, qui @e soltanto indice di
+debolezza, e noi sentiamo in queste terzine alcunch$e di cascante>
+(Cfr. ^Metrica e poesia~, Milano, 1962, p. 202; vedi pure recens.
+di L. Blasucci, in <^Belfagor~>, 1963, p. 74-88).
+
+	|39-43.~  Secondo una <bizzarra idea> dei poeti pagani,
+confermata dai Padri della Chiesa, il mondo sarebbe stato creato
+di primavera, cio@e nel segno dell'Ariete, in cui, del resto, era
+avvenuta anche la redenzione dell'umanit@a.  Per questa favorevole
+disposizione del Creatore verso la terra e gli uomini, proprio in
+primavera, D. crede che l'ora della levata del sole, che dissipa
+i terrori della notte, e la dolce stagione gli erano motivo a
+sperar bene, gli davano fiducia di aver ragione, relativamente al
+pericolo di quella fiera dalla (|a la~: francesismo) pelle
+screziata (|gaetta~: dal provenzale ^gai~, amabile, leggiadro,
+come intendeva il Boccaccio, ^leggiadretta~).  Questi riferimenti
+farebbero spostare al 25 marzo l'inizio del viaggio.
+
+	|44-45.  ma non s@i~ ecc.  Data la minore gravit@a del
+peccato d'incontinenza, simboleggiato nella lonza, D. era
+riuscito a trovare, in se stesso e nella virt@u serenatrice del
+nascente mattino primaverile, fiducia e slancio; ma, ora, la
+stessa fiducia non gli ispira pi@u l'apparire d'un leone, anzi
+questa viene annullata dalla paura di quella nuova apparizione. 
+Il leone simboleggia il peccato della superbia e la disposizione
+peccaminosa della violenza.  Secondo il Nardi (op. cit. {^Il
+preludio alla Div. Comm.~, in <L'Alighieri>, 1963}, p. 12) <non
+il vizio generico della superbia di cui fosse preso l'animo di
+Dante, ma la superbia e l'orgoglio in atto nella lotta tra le
+fazioni fiorentine avventatesi contro di lui>.
+
+	|46-48.  Questi parea~ ecc.  Quel |parea~, diversamente
+del piano oggettivo con cui @e presentata la lonza, riporta
+l'impressione all'ambito soggettivo, facendo s@i che la
+descrizione maestosa del leone e l'atmosfera stessa, che lo
+circonda, appaia a Dante nella suggestione psicologica della sua
+paura e del suo terrore.  Il |rabbiosa fame~ ricorda un passo
+dell'^Ep.~ I, V, 8, di S. Pietro <^tamquam leo rugiens circuit,
+quaerens quem devoret~>.  Il che conferma gli stilemi scritturali
+e figurali tipici della poesia dantesca.  Il senso @e: Questi
+sembrava che venisse contro di me con la test'alta e minacciando
+distruzione (|rabbiosa fame~), tanto che l'aria <parea che
+fuggisse dinanzi da lui per tremore, e questo si mostra per
+ragione naturale: ch$e l'aer fortemente agitato d@a luogo e fa
+fragore> (Buti).  La lezione |tremesse~, invece di ^temesse~
+accolta dal Casella e dai moderni, era gi@a chiara in qualche modo
+ai commentatori antichi, ed @e giustificata anche da altri esempi
+(^Inf.~ IV, 150 <^nell'aura che trema~>.  Cfr. Pagliaro, ^Altri
+saggi~ ecc. {Messina-Firenze, 1961}, pag. 217-19.
+
+	|49.  Ed una lupa~ ecc.  Simbolo dell'avarizia nel senso
+largo di rapacit@a, cupidigia; secondo S. Paolo <^radice di tutti
+i mali @e la cupidigia~> (Timoteo, VI, 10).  <Nella sua realt@a
+storica la lupa, per Dante, s'incarna in Bonifacio VIII... il
+quale, nella sua avidit@a di fiorini d'oro e di dominio,
+tempestivamente informato da spie fiorentine di parte nera sui
+sentimenti di coloro che si opponevano ai suoi disegni, non tard@o
+a prender di mira il poeta e i suoi compagni nel priorato,
+provvedendo a mandare a Firenze messer Cante de' Gabrieli da
+Gubbio con istruzioni precise, e un paciaro armato, armato
+soprattutto della ^lancia con la qual giostr@a Giuda~ (^Purg.~ XX,
+73-74), e che fu per Firenze un secondo Totila (^De vulg. eloq.~
+II, vi, 5).  A tutto questo dobbiamo ripensare se vogliamo
+comprendere come la bestia senza pace, incalzandolo da presso,
+respingeva lo smarrito poeta ^l@a dove 'l sol tace~ {v. 60}, e
+com'egli corresse davvero pericolo di morte temporale ed eterna>
+(Nardi, op. cit. {^Il preludio alla Div. Comm.~, in
+<L'Alighieri>, 1963}, p. 13).
+
+	|50-54.~  Senso: |Ed una lupa...~  si collega con
+|questa.~  Ed una lupa, che sembrava, per la magrezza del corpo,
+affamata (|carca~) di qualunque cibo, di tutti i cupidi desideri
+(|brame~), e fece gi@a vivere misere (|grame~) molte genti, questa
+(pleonastico) mi provoc@o (|porse~) tanto affanno, sgomento
+(|gravezza~) con la paura che si diffondeva (|uscia~) dal suo
+aspetto (|vista~: come al v. 32 del I del ^Purg.~ <^degno di
+tanta reverenza in vista~>), che io perdetti la speranza di
+raggiungere la cima del colle (|l'altezza~).
+
+	Il senso letterale ha di per s@e gi@a una validit@a reale e
+psicologica da poter da solo trascrivere poeticamente la
+situazione drammatica e disperata, in cui il poeta @e venuto a
+trovarsi.  Il significato simbolico, che se ne deduce, filtra
+senza sforzo dal tono stesso della narrazione e della
+descrizione.  Questo @e un esempio di allegoria dei teologi,
+secondo cui la narrazione presenta un valore bivalente, cio@e la
+descrizione di un animale, valevole di per s$e per le sue
+caratteristiche reali, e, nello stesso tempo, il simbolo morale
+di un peccato.  Ma questa corrispondenza tra senso letterale e
+senso simbolico viene man mano a mancare al v. 51, dove si dice
+che la lupa fece vivere miseramente molte genti, tanto da dar
+l'impressione che il senso allegorico si sovrapponga a quello
+letterale, sostituendolo.  In questo caso, come al v. 100, si ha
+l'allegoria dei poeti, secondo cui si dice una cosa per lasciarne
+intendere un'altra.  Nella seconda parte del canto l'allegoria
+dei poeti prevale, fino a raggiungere un prevalente senso
+profetico.
+
+	|55-60.~  E come l'avaro, che con tutta la sua volont@a
+mira sempre ad acquistar nuovi beni, se giunge un momento,
+un'occasione (|tempo~) che gli fa perdere tutto, in quella
+disgrazia (|che~, con valore temporale) si rattrista e piange in
+ogni suo pensiero (profondamente), cos@i mi rese (inquieto,
+addolorato) la bestia senza pace, cio@e la lupa, che non ha e d@a
+mai pace, in quanto insaziabile e avida.  |Senza pace~ si pu@o
+attribuire a |bestia~ e a |tal~, cio@e come l'avaro deluso, ormai
+senza pace.  In ogni caso, il senso di ^inquieto~ @e implicito,
+dopo il paragone, nel pronome |tal.~  |La dove il sol tace~:
+nella selva oscura, dove il sole non penetra, non si fa sentire,
+come in ^Inf.~ V, 28 <^loco d'ogni luce muto~>; immagine poetica
+per dire che le tenebre sono il silenzio, l'assenza della luce
+(v. Steiner, commento, p. 7).
+
+	|61-63.  Mentre ch'i'rovinava~ ecc.  Mentre che io
+precipitavo (in senso morale, perch$e in realt@a la belva lo
+respingeva |a poco a poco~) al punto da perdere l'anima, dinanzi
+agli occhi mi si mostr@o, mi apparve (|se offerre~: mi si fu
+offerto), si offerse alla vista, all'improvviso, uno che sembrava
+<evanescente come lo sono le immagini che hanno a lungo taciuto,
+sono state, cio@e, per troppo tempo lontane dalla nostra
+coscienza> (Pagliaro, ^Altri saggi~ ecc. {Messina-Firenze, 1961},
+pag. 282).  Il Nardi, invece, accettando l'interpretazione
+tradizionale, spiega <muto come se per lungo silenzio avesse
+quasi perduto l'uso della parola e fosse diventato ^fioco~> (op.
+cit. {^Il preludio alla Div. Comm.~, in <L'Alighieri>, 1963}, p.
+14).  La difficolt@a del passo ha fatto credere ai commentatori
+pi@u legittima l'interpretazione allegorica, secondo cui la voce
+della ragione illuminata, rappresentata da Virgilio, @e, o sembra,
+al primo svegliarsi del peccatore assai bassa e sommessa.  Ma in
+questo caso l'allegoria @e arbitraria, se non @e sostenuta prima
+dal senso letterale.  D'altra parte @e inconcepibile che D. possa
+dire |fioco~ uno, prima ancora che questi parli.  Di qui la
+necessit@a di intendere |fioco~ in senso visivo, cio@e
+^evanescente.  Per lungo silenzio~ potrebbe significare che
+Virgilio aveva visto indietreggiare Dante senza intervenire con
+la sua parola, dandogli quasi l'impressione d'esser muto.  Ma
+forse @e meglio intendere |silenzio~ in rapporto all'assenza di
+luce, che @e attorno alla selva <^dove il sol tace~>.  In questo
+caso il senso sarebbe questo: ^uno che per la vasta oscurit@a
+diffusa attorno alla selva appariva d'incerto aspetto,
+evanescente, come un'ombra~, tant'@e vero che D. dice <^qual che
+tu sii, od ombra od omo certo!~ {v. 66}>.  @E evidente che il
+poeta, qui, <traduca in un'emozione fonica un'emozione visiva>
+(Getto) <nella sua ambivalenza, niun vocabolo sarebbe pi@u di
+|fioco~ in quel momento necessario: per la sua debolezza ancora
+non @e voce udita, e, per la lontananza, ancora l'apparso si
+profila in debole luce...  |Fioco~ dir@a, per precisare che si
+tratta di debole illuminazione, e anche... di debole grido,
+dovuti a limiti estremi di spazio; e, per accrescere intensit@a
+all'aggettivo, accrescendo la prospettiva, abbracciando
+addirittura tutto quanto l'orizzonte> (Ungaretti, ^Lect. I,
+Inf.~).  Ma gi@a il Grabher aveva detto <quest'ombra, unica,
+labile parvenza nel gran ^diserto~, @e naturale che sembri
+fasciata di quel silenzio che suggella la bocca dei morti, s@i che
+la voce, se dovesse uscire, l'attenderemo simile all'apparizione
+stessa: fioca, quasi velata> (p. 7, commento). 
+
+	|67-69.  Rispuosemi~ ecc.  All'invocazione di D. smarrito
+V. risponde: non sono pi@u uomo vivo, ma anima e i miei genitori
+(|parenti~) furono ambedue dell'Italia settentrionale (chiamata
+nel Medioevo ^Lombardia~) e per luogo di nascita (|patria~)
+mantovani.  Virgilio nacque ad Andes, oggi Pietole, presso
+Mantova, nel 70 a. Cr.  Qui assume un particolare ruolo di
+guida-ragione nel viaggio di D.  Ma non @e un'allegoria; @e,
+piuttosto, il Virgilio storico, quale poteva esser interpretato
+dalla cultura medievale e figurale di D., cio@e un profeta del
+Cristianesimo gi@a nel mondo pagano, secondo quanto dir@a Stazio
+nel XXII del ^Purg.~, simile ad uno che porta di notte il lume
+dietro di s$e, non giovando a se stesso, bens@i agli altri; con la
+sua quarta ^egloga~, in cui intuiva la nascita di un bambino e di
+una nuova et@a di redenzione umana.
+
+	|73.  poeta fui~: Per comprendere la scelta di tale
+guida, @e bene storicizzare il metodo figurale-medievale, con cui
+D. interpreta la vita e la realt@a.  Gli antichi credevano reale
+la vita terrena, D. ritiene vera realt@a soltanto l'oltretomba,
+mentre il mondo terreno @e soltanto ^umbra futurorum~, cio@e
+prefigurazione della realt@a ultraterrena, anticipazione, quindi,
+di una realt@a che trover@a compimento assoluto nell'aldil@a.  La
+vera realt@a di Virgilio @e, quindi, questa sua ^figura impleta~,
+questa anima, inserita nel piano della salute eterna, di cui il
+Virgilio storico fu ^figura~ o anticipazione terrena, per il
+periodo che visse.  Pertanto, cos@i, come nella sua persona e
+nella sua influenza terrena Virgilio aveva guidato alla salvezza
+Stazio, ora, come figura adempiuta, egli guida D.: anche D. ha
+ricevuto da lui il bello stile della poesia, da lui @e stato
+salvato dalla perdizione eterna e guidato sulla via della
+salvezza; e come un tempo aveva illuminato Stazio senza vedere
+egli stesso la luce che portava e diffondeva, cos@i egli ora guida
+D. fino alla soglia della luce, che conosce ma che personalmente
+non pu@o guardare.  (Auerbach, ^Studi su Dante~, Milano, 1963, p.
+217).  Buono Augusto {v. 71} = eccellente nella sua arte di
+governo; ved. il ^buon Barbarossa~ a ^Purg. XVIII~, 119 (cfr.
+Barbi, ^Probl~. I, 201).
+
+	|74.  figliuol d'Anchise~: Agli occhi di D. il Virgilio
+storico @e in pari tempo poeta e guida, la sua anima @e divenuta
+figura impleta nel Limbo; la sua stessa opera di poeta fu
+ispirata dalla Provvidenza divina.  <Come egli un tempo, da
+romano e da poeta, aveva fatto discendere Enea per consiglio
+divino nell'oltretomba, affinch$e egli conoscesse il destino del
+mondo romano... cos@i ora egli @e chiamato dalle potenze celesti a
+una funzione di guida non meno importante: perch$e non @e dubbio
+che D. vede se stesso in una missione importante quanto quella di
+Enea: egli @e chiamato ad annunciare al mondo dissestato
+l'ordinamento giusto, che gli viene rivelato nel suo cammino>
+(Auerbach, ivi).  Essendo D. personaggio un nuovo Enea, era
+logica la scelta di Virgilio a guida della sua missione, a parte
+la considerazione in cui questi era tenuto come maestro di
+poesia.  L'interpretazione figurale di Auerbach @e l'unico metodo
+che ci mette in condizione di storicizzare le ragioni della
+scelta di D.  (Cfr. anche D. Comparetti, ^Virgilio nel medioevo~,
+Firenze, 1937).
+
+	|75.~  Dopo che fu arsa (|combusto~) la superba Troia
+(^superbum Ilium~, ^Aen.~, III, 2-3); anche nel ^Purg.~ la
+distruzione di Troia @e presentata come esempio di superbia punita
+(XII, 61-63).
+
+	|76-78.  Ma tu~: Ma tu perch$e ritorni a quel luogo di
+affanno (|noia~), cio@e nella selva?  Perch$e, piuttosto, non sali
+il colle (|dilettoso~ in contrapposto alla |noia~ della selva)
+che @e soltanto principio e scala (|cagion~) della compiuta gioia,
+della beatitudine celeste?  Il premuroso e affettuoso tono con
+cui Virgilio si rivolge a D. trascrive chiaramente un valore
+autobiografico e culturale della formazione del poeta.  Sin dal
+primo incontro si stabilisce una corrente di simpatia, di
+ammirazione, e di riconoscenza, come tra scolaro e maestro.  Un
+tema molto importante della poesia di D. questo, che fu definito
+dal Getto <la celebrazione concreta della poesia
+dell'intelligenza> (^Aspetti della poesia di Dante~, Firenze,
+1947, p. 60).
+
+	|79-80.  Or se' tu quel Virgilio~: quel famoso (^ille,
+quel~) Virgilio e quella fonte che spandi s@i largo fiume
+d'eloquenza poetica?  Nel ^Conv.~ I, i, 9 <liberamente coloro che
+sanno porgono de la loro ricchezza a li veri poveri, e sono quasi
+^fonte vivo~, de la cui acqua si refrigera la naturale sete>.
+
+	|81.  lui~: a lui, l'ellissi della preposizione, nel
+compl. di termine era frequente, anche in prosa, nell'ital.
+antico, in analogia al francese.  La fronte di D. @e vergognosa
+per riverenza, per stupore, per ammirazione di trovarsi di fronte
+al suo grande maestro, e non per la situazione in cui si trova
+(cfr. Barbi, ^Probl.~ I, 202, ove cita ^Conv.~ IV, xxv, 4-5).
+
+	|82.  O de li altri~: D. chiama Virgilio onore e luce
+degli altri poeti, in quanto col suo prestigio ha onorato la
+poesia e ha fatto da guida ai poeti venuti dopo lui; cfr. ^Purg.~
+XXI, {95-96,} <de la divina fiamma / onde sono ^allumati pi@u di
+mille~>.
+
+	|83-84.  vagliami~: mi valga, mi giovi presso di te il
+lungo studio condotto con grande amore (endiadi), che mi ha fatto
+leggere continuamente e attentamente la raccolta (|volume~) delle
+tue opere.  Certamente l'^Eneide~ e le ^Bucoliche~: ^Inf.~ XX,
+113-14 <l'alta mia ^traged@ia~ in alcun loco / ben lo sai tu che
+^la sai tutta quanta~>.  Non @e certo che conoscesse le
+^Georgiche.~  Virgilio era uno dei poeti principali che si
+studiavano nelle scuole di grammatica dell'alto medioevo.  La sua
+presenza @e registrata nel II libro del ^De vulg. eloq.~ come
+maestro dello stile regolato e tragico, nel IV del ^Conv.~, come
+poeta dell'Impero romano, preparazione alla redenzione di Cristo;
+e nel Il della ^Monarchia~, in cui al cap. XII si afferma <Se
+Cristo non fosse stato punito da un giudice in carica, la sua
+pena non sarebbe stata punizione.  E poich$e tutto il genere umano
+era punito nella carne di Cristo... il giudice in carica che pun@i
+il Signore doveva avere giurisdizione di ampiezza universale>. 
+Virgilio assertore e filosofo dell'Impero romano esercit@o nella
+mente di Dante un fascino singolare per quella interpretazione
+figurale, secondo cui D. credette <a una concordanza predestinata
+fra la redenzione cristiana e la monarchia universale romana>
+(Auerbach).
+
+	|85-87.  Tu se' lo mio~ ecc.  |Maestro~, perch$e modello
+di poesia; |autore~, perch$e <persona degna d'essere creduta e
+obedita> (^Conv.~, IV, vi, 5).  |Lo bello stilo~ @e quello che D.
+nel ^De vulg. eloq.~ chiama ^stile tragico~, l'unico che possa
+trattare gli argomenti pi@u alti della poesia: armi, amore e
+virt@u.  Probabilmente D. si riferisce al genere delle sue canzoni
+allegoriche-dottrinali, non tentato neanche dal Guinizelli, e
+modellato sulla poesia virgiliana e classica, secondo quanto
+afferma in ^De vulg. eloq.~ II, 4 e 6.  Quelle canzoni, composte
+prima del 1300, avevano gi@a procacciato onore e fama al poeta. 
+In questo passo il gusto autobiografico prende la mano a D. onde
+arricchire di commossa umanit@a l'incontro e il colloquio con
+Virgilio.  Una vera confessione estetica, ed anche un passo di
+poetica.
+
+	|88-90.~  La paura, dimenticata per un momento durante
+l'emozionante incontro con Virgilio, si fa risentire; ed ora D.
+indica la lupa che lo aveva fatto volgere, indietreggiare verso
+la selva, implorando il suo aiuto.  Prima aveva chiamato il
+maestro fonte di eloquenza poetica, ora lo chiama |saggio~, come
+anche Omero, Guinizelli e i poeti antichi del Limbo, perch$e al
+poeta si richiede anche ^l'habitus scientiarum~ (^De vulg. eloq.~
+II, iv, 9).  Dicendo ^famoso saggio~, mette in luce le
+particolari qualit@a della poesia e della saggezza virgiliana, a
+cui nell'alto medioevo si attribuivano i meriti di profezia del
+Cristianesimo e di esaltazione dell'Impero romano universale,
+condizione dell'universalit@a della Chiesa di Cristo.  |Polsi~:
+arterie.
+
+	|91-93.  A te convien~ ecc.  L'intervento di Virgilio @e
+immediato, quale maestro di saggezza contro la lupa, nemica
+suprema di quell'Impero, di cui egli era stato cantore.  Senso: @E
+necessario che tu faccia una via (|viaggio~) diversa (|altro~) da
+quella del colle, se veramente vuoi salvarti (|campare~) da
+questo luogo selvaggio (in quanto non idoneo all'uomo: la
+^selva~, in contrapposto al Paradiso terrestre ^fatto per proprio
+dell'umana gente~).
+
+	|94-99.~  Perch$e questa bestia per la quale tu invochi
+soccorso, ti lamenti fortemente (|gride~, la desinenza in ^e~
+alla seconda persona dell'indic. e cong. presente @e normale
+nell'ital. antico e in D.) non permette che altri passi per la
+sua via, ma tanto lo ostacola finch$e lo fa morire, ed ha natura
+cos@i malvagia ed empia che mai non sazia (|empie~) la sua
+insaziabile fame, anzi dopo il pasto ha pi@u fame di prima.  <In
+nullo tempo si compie n$e si sazia la sete de la cupiditate>
+(^Conv.~ IV, xii, 6).  ^Purg.~ XX, 10-13: <Maledetta sie tu,
+^antica lupa~, -- che pi@u di tutte l'altre bestie hai preda --
+per la tua ^fame sanza fine cupa!~>.
+
+	|100-111.~  Questi versi sono tra i pi@u dibattuti del
+poema.  La prima difficolt@a nasce dal fatto che, qui, D. ha
+voluto di proposito esser oscuro, dato il carattere profetico del
+passo.  Intanto il senso letterale @e sacrificato per quello
+meramente allegorico; del veltro (^cane da caccia~) non si
+descrive affatto la qualit@a animalesca, e la stessa lupa @e
+ridotta soltanto a metafora del peccato dell'avidit@a dei beni
+terreni.  @E un esempio, questo, dell'allegoria dei poeti, in
+quanto si dice una cosa per affermarne un'altra; un velo alla
+verit@a.  Questo metodo D. aveva usato nella ^Vita nova~ e nel
+^Convivio~ costantemente; mentre nella ^D.C.~ lo usa soltanto
+episodicamente, avendo ivi, preferito l'allegoria dei teologi,
+ovvero l'interpretazione figurale o simbolica pi@u conforme al
+metodo delle sacre scritture.
+
+	|100-102.  Molti son~ ecc.  Molti sono i vizi (|animali~,
+in rapporto alla lupa-cupidigia) a cui si accoppia (in quanto
+dice S. Paolo: ^la cupidigia @e radice di tutti i mali~) e
+cresceranno sempre di pi@u, finch$e verr@a il veltro, che la far@a
+morire con dolore.  Il Landino, invece: <Molti son li uomini a'
+quali la lupa, cio@e l'avarizia, s'ammoglia, cio@e si congiunge
+inseparabilmente, come la moglie per vinculo del matrimonio non
+si p@o separare dal marito>.  Non avendo pi@u il senso letterale
+alcuna rispondenza con la lupa come lupa, ovviamente bisogna
+considerare soltanto quello allegorico-profetico.  Infatti il
+destino della lupa @e legato alla venuta e all'azione riformatrice
+del veltro; che sar@a anche violenta, se @e vero che |la far@a morir
+con doglia.~  Sul veltro c'@e tutta una letteratura critica che si
+pu@o riassumere in quattro ipotesi, pi@u o meno arbitrarie: 1)
+quella che, intendendo fra |feltro e feltro~ in senso geografico
+(cio@e fra Feltre nel Veneto e Montefeltro in Romagna), vuol
+riconoscere un personaggio nato (|nazion~) in quella zona,
+Cangrande della Scala, Uguccione della Faggiola, Guido da
+Montefeltro, Benedetto I; 2) quella di A. Regis, che, intendendo
+per |feltro~ il panno con cui si foderavano le urne, vuole
+indicare un magistrato eletto, (^Studi danteschi~ del Barbi, IV,
+85); 3) quella di L. Olschki (^Tra feltro e feltro~, ^Nuova
+Antologia~, 1952) accettata dal Getto, la quale, vedendo nel
+|feltro~ il berrettino di Castore e Polluce rappresentati in
+cielo dalla costellazione dei Gemelli, crede che il veltro sia
+Dante stesso, nato, appunto, sotto i Gemelli; 4) quella del Cian
+(^Sulle orme del veltro~, Messina, 1897), seguita da molti
+moderni, che nel |veltro~ sia simboleggiata la speranza di una
+prossima restaurazione dell'autorit@a civile, come inizio della
+rigenerazione morale dell'umanit@a, per opera di un imperatore o
+di un riformatore.  Tra i pi@u autorevoli dantisti moderni: il
+Nardi ritiene che <il |veltro~, che, annullando la donazione di
+Costantino, riconduce la Chiesa alla povert@a evangelica, dovrebbe
+essere sicuramente un ^imperatore~>; il Pagliaro (^Dialoghi~, IX,
+1961, p. 125-135) crede che nel |veltro~ si possa vedere
+<l'auspicio di un ^movimento religioso~ di origine e carattere
+popolari, che, combattendo l'egoismo e la cupidigia, riporti la
+Chiesa alla sua funzione e la societ@a all'ordine e alla
+giustizia>; il Porena, seguito dal Sapegno, avanza l'ipotesi di
+un pontefice spirituale che, nel senso evangelico rinnover@a la
+Chiesa; il Vallone (^Del Veltro dantesco~, Alcamo, 1954) sostiene
+che si tratta di una <^vera e propria profezia~> ^ante eventum~,
+sicch$e @e bene lasciare questa profezia sospesa, senza alcun
+riferimento particolare, in quanto D. scorgeva nella venuta del
+|Veltro~ l'avvento di un ^uomo nuovo~ rinnovatore dell'Italia e
+del mondo.  Suggestiva ci sembra la tesi di Tondelli (^Da
+Gioacchino a Dante~, Torino, 1944), il quale interpreta la
+profezia, non come assoluta creazione di D., bens@i alla luce
+delle correnti spiritualiste contemporanee, delle speranze
+escatologiche del tempo; pertanto il Veltro nascerebbe tra il
+popolo nuovo dei monaci poveri, in rapporto ad una tavola di
+Gioacchino da Fiore, in cui c'@e un cane tra due ordini religiosi
+che tengono in alto pregio la povert@a nel terzo momento dello
+Spirito Santo.  Il |feltro e feltro~ dantesco deriverebbe dal
+rozzo saio e dall'umile capestro dei monaci innamorati della
+povert@a.  Indubbiamente questo tema escatologico di un
+rinnovamento, di una ^renovatio rerum~ ricorre continuamente
+nella ^Div. Comm.~, costituendone, quasi, il motivo vitale ed
+anche il fine pedagogico.  Per questo il |Veltro~, proprio nel
+preludio del poema, assume, nel suo tono misterioso e profetico,
+il ruolo emblematico della missione morale e del rinnovamento,
+che apporter@a all'umanit@a anche l'opera del poeta, banditore di
+tale messaggio (cfr. F. Mazzoni, ^Per un nuovo commento alla D.
+C.~, Firenze, 1967).
+
+	|103-105.  Questi~: il veltro non cercher@a possedimenti
+(terra) n$e denaro (|peltro~: lega di stagno con altri metalli),
+ma si ispirer@a ai principi fondamentali della religione
+(|sapienza, amore e virtute~) e la sua nascita (|nazion~) avverr@a
+tra umili panni (^feltro~: <spezie di panno oltre ad ogni altra
+vilissima> Boccaccio).  Ma ^feltro~ @e stato interpretato
+variamente: 1) come espressione geografica Feltre e Montefeltro;
+2) il panno delle urne; 3) cielo, cio@e fra cielo e cielo, di
+recente accolta anche dal Getto, per indicare che nel suo viaggio
+di cielo in cielo D. nascer@a come uomo nuovo e poeta veltro; 4)
+panno monacale.  Il verso ricalca un passo scritturale <Egli (il
+Battista) non berr@a n$e vino n$e cervog@ia e sar@a ripieno di Spirito
+Santo> (S. Luca, I, 15).
+
+	|106-108.  Di quell'umile~ ecc.  Sar@a (|fia~) salvezza
+<degli stati umili di quell'Italia, al cui costituirsi come
+nazione concorsero vincitori e vinti, attraverso una prova, in
+cui si manifest@o il volere divino> (Pagliaro, ^Dialoghi~, IX,
+1961, p. 125-35).  Umile @e un ricordo virgiliano <^humilemque
+Italiam~> (^Eneide~, III, 522), ma in Virg. significava la bassa
+spiaggia, le pianure d'Italia; mentre, qui, il senso @e diverso,
+cio@e la parte umile, i poveri; secondo altri, ^decaduta, misera~,
+oppure Italia laziale, meridionale.  |Camilla e Turno~, eroi
+vinti per difendere quella terra; |Eurialo e Niso~, vincitori, ma
+morti per conquistarla.
+
+	|109-111.~  Questi la inseguir@a in caccia (|caccer@a~) per
+ogni citt@a (|villa~: ville) finch$e l'avr@a rimessa nell'inferno,
+donde la fece uscire (|dipartilla~) primamente (|prima~)
+l'invidia del demonio per la felicit@a di Adamo ed Eva.  Altri
+lega |prima~ con |invidia~, indicando per |invidia prima~ il
+demonio, come ^primo Amore~ @e Dio.
+
+	|112-114.~  Onde io per il tuo meglio (|me'~, apocope di
+^mei~ d'uso toscano) penso e giudico che mi segua (finch$e non
+venga il veltro), e io sar@o tua guida attraverso l'inferno che @e
+luogo eterno (diversamente dal Purgatorio che @e temporale).
+
+	|117.  La seconda morte~: la dannazione.  La prima morte
+@e la separazione dell'anima dal corpo, la seconda per i dannati @e
+la privazione di Dio.  <^Et infernus et mors missi sunt in
+stagnum ignis.  Haec est mors secunda~> (Apocalissi, XX, 14).  I
+dannati si trovano nella condizione (che) ciascuno attesta col
+suo dolore (|grida~) la disperazione di essere dannato in eterno
+(|la seconda morte~).
+
+	|118-120.~  Vedrai anche le anime del Purgatorio che son
+contente di stare nel fuoco (la pena dei lussuriosi @e assunta a
+valore generico), perch$e sperano, prima o dopo, di giungere tra i
+beati del Paradiso, al termine della loro espiazione.
+
+	|122.  Anima fia~: Beatrice, pi@u degna di Virgilio,
+perch$e, oltre ad essere la persona storica della ^Vita nova~ da
+D. considerata, sin d'allora, un miracolo mandato dal cielo, @e,
+ora, nella ^Div. Comm. figura impleta~, simbolo della
+rivelazione, guida alla visione di Dio, luce tra la Verit@a e
+l'intelletto umano.  Questa concordanza spirituale, tra la
+Beatrice storica e la Beatrice anima del cielo, conferisce al
+simbolo, da lei incarnato, una realt@a poetica e un'umanit@a ben
+chiara.
+
+	|123.~  Virgilio scomparir@a nel Paradiso terrestre,
+lasciando Dante alla guida di Beatrice, proprio nel momento in
+cui termina l'opera della ragione e incomincia quella della fede
+(^Purg~ XXX, 49-51).
+
+	|124-126.  Quello imperador~: Dio che regna nel Paradiso,
+poich$e io fui estraneo, non sottomesso (|ribellante~) alla sua
+legge, in quanto vissuto prima di Cristo, non permette che da me,
+da parte mia (|per me~: compl. d'agente, ^par~ francese) si venga
+(che io venga) alla sua citt@a, nel Paradiso.
+
+	|127-129.~  Dio @e definito padrone dell'universo, ma re
+dell'Empireo e del Paradiso, in cui ha la sua corte e i suoi
+ministri (beati e angeli).  Traspare il sospiro elegiaco di
+Virgilio per la beatitudine perduta, e non concessa a lui.
+
+	|132-135.~  Lo prega in nome di quel Dio, affinch$e possa
+evitare la lupa (|questo male~) e la dannazione (|peggio~), di
+guidarlo all'Inferno e al Purgatorio, in modo da poter vedere la
+porta del Paradiso, custodita da S. Pietro (in senso metaforico,
+perch$e il Paradiso non ha porta), e i dannati (|color~) che tu
+dici (fai) cos@i mesti, tristi per la dannazione eterna.  D.
+intende la soglia del Paradiso, come meta suprema del viaggio, in
+cui potr@a guidarlo Virgilio, ma soltanto fino alla cima del
+Purgatorio.

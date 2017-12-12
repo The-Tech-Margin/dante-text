@@ -1,0 +1,74 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.8.8/8.8.8) with ESMTP id SAA04749
+	for <steve@avalon.dartmouth.edu>; Fri, 4 Sep 1998 18:40:47 -0400 (EDT)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.88])
+	by mailhub.dartmouth.edu (8.8.8+DND/8.8.8) with ESMTP id SAA30211
+	for <Stephen.Campbell@Dartmouth.EDU>; Fri, 4 Sep 1998 18:40:46 -0400 (EDT)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 33183 [128.112.128.88]) by outbound.Princeton.EDU with ESMTP id <541423-24187>; Fri, 4 Sep 1998 18:39:36 -0400
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id SAA24213
+	for <Stephen.Campbell@Dartmouth.EDU>; Fri, 4 Sep 1998 18:39:28 -0400 (EDT)
+Received: from phoenix.princeton.edu (bobh96.Princeton.EDU [128.112.197.149])
+	by mail.Princeton.EDU (8.8.8/8.8.8) with ESMTP id SAA27378
+	for <Stephen.Campbell@Dartmouth.EDU>; Fri, 4 Sep 1998 18:39:28 -0400 (EDT)
+Message-ID: <35F06A55.A8AD33D2@phoenix.princeton.edu>
+Date: 	Fri, 04 Sep 1998 18:31:49 -0400
+From: Robert Hollander <bobh@phoenix.Princeton.EDU>
+Reply-To: bobh@phoenix.Princeton.EDU
+Organization: Princeton University
+X-Mailer: Mozilla 4.04 [en] (Win95; I)
+MIME-Version: 1.0
+To: Stephen.Campbell@Dartmouth.EDU
+Subject: Re: Scartazzini
+References: <199809042001.QAA04322@avalon.Dartmouth.EDU>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Steve Campbell wrote:
+> 
+> It matters in one sense. The order in the file is the order in which they get
+> loaded into the db, and the order in the db is the order they get displayed
+> in. So in your exmaple below, if I search for a word that appears in line 4
+> and line 3, I'm going to see the line 4 hit displayed first and then the line
+> 3 hit. That's probably NOT what we want, so if possible, I'd say you should
+> reorder the line sections to be in strict numerical order.
+> 
+>                                                         Steve
+> 
+> > OK, I've pounded in the Infernal changes and recompressed the files.
+> > One quick question.  It doesn;t matter WHERE in a file a line
+> > number appears, right?  E.g., the following arrangment would
+> > display in the right order, yes?
+> >
+> >       |1.  BLAH.~  The name of Campbell's view of this matter.
+> >
+> >       |2.  Buh.~  Ditto.
+> >
+> >       |4-6.  Gumph.~  RHRHRHRHRHRHRHR
+> >
+> >       |18.  Dum.~  RHRHRHRHRHRH
+> >
+> >       |3.  Inset.~  This is the one I'm worried about.
+> >
+> >
+> > If there is a problem, let me know, because I have renumbed some
+> > of the endnotes so as to make 'em earlier in sequence.
+> >
+> > Best, Bob
+
+That's not entirely what I wanted you to say.  But for
+LINE searches it would be OK, at least.  In order to
+change those around (there are about 6 of them in
+Scartazzini, Inferno, maybe 8, I'd need more help than
+makes sense to expect, moving blocks in UNIX (Wow). 
+What if I told you where the problems are and YOU moved
+the blocks?  I still have to go find 'em, but I think
+my records are Absolutely Accurate.
+
+Another problem: my student has not got Inf. I on her
+disk.  I'll see if she has it somewhere else.  I
+remember we did a great mass of wrok re-editing that
+canto.  Now where has it gone?  Hmmm.
+
+More soon.  BEst, Bob

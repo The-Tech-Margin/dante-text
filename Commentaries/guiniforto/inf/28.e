@@ -1,0 +1,536 @@
+	|Canto XXVIII dell'Inferno, dove si tratta degli
+Scismatici, e della loro pena, tra i quali sono nominati
+Macometto ed altri.~
+
+	|Proemio.~  Trattatto ha Dante nei precedenti Canti dei
+fraudolenti insidiosi, ed astuti consiglieri per s@e o per altri. 
+Tratta nel presente di un'altra specie di frode, che consiste in
+seminare scisma, discordia, o scandalo.  ^Scisma~, in separare, e
+dispartire la unione della cattolica Chiesa: ^discordia~, in
+separare la concordia di Principi secolari, o di popoli: e
+^scandalo~, in corrompere la carit@a del prossimo.  In cinque
+parti principali dobbiamo dividerlo.  Nella prima descrive la
+pena in generale da lui veduta nella bolgia nona.  Nella seconda
+nomina in ispecialit@a Macometto, soprano seminatore di scisma,
+per parole del quale intende qual vizio sia punito in quella
+bolgia, ivi: ^Gi@a veggia per mezzul.~  Nella terza nomina un
+seminatore di discordie massimamente intra Signori temporali,
+ivi: ^Un altro che forata.~  Nella quarta nomina un altro
+seminatore di discordie, massimamente intra genti popolari, cio@e
+che vivevano in citt@a rette dal popolo, ivi: ^Et un che avea.~ 
+Nella quinta nomina un altro che semin@o scandalo tra uomo e uomo,
+non dico tra amico ed amico, il che sarebbe gran scandalo, non
+tra parenti e parenti, che sarebbe pi@u grande, ma tra padre e
+figlio, del cui scandalo maggiore non si potrebbe dire.
+
+	|1-6.  Chi poria mai pur con parole sciolte~: Nella prima
+parte Dante, che per rappresentazione dei predetti vizi, finge di
+aver trovato nella bolgia nona gran moltitudine di peccatori
+feriti e tagliati a pezzi per diversi modi, ora per indurre
+attenzione nell'animo di chi viene a lettura del presente Canto
+comincia con tal voce dicendo: Chi poria mai, pur con parole
+sciolte, pur alla piana, senza norma di ritmo parlando dicer
+appieno del sangue e delle piaghe ch'io vidi ora nella bolgia
+nona sopra la quale era giunto?  Per certo per narrar pi@u volte,
+cio@e non solamente volendo narrare ci@o in una sola volta, ma
+eziandio volendo narrarlo in pi@u volte verria meno ogni lingua;
+non basterebbe lingua alcuna a dirlo per lo nostro sermone, e per
+la mente nostra, che hanno poco seno a tanto comprendere. 
+Facendo alcune comparazioni denota quante, e di quanto diverse
+maniere erano quelle piaghe, ch'ei vide; nel qual parlare
+consiste la general descrizione della pena di questa bolgia.
+
+	|Proemio: vv. 7-18.~  Per notizia delle comparazioni che
+nel testo si adducono dobbiamo sapere: che largamente sotto nome
+di Appuglia intendendo ancora Terra di Lavoro di Napoli, furono
+date in essa per tempi antichi e per moderni molte battaglie con
+grande effusione di sangue e morte d'uomini, tra le quali
+memorabili sono quelle intra Enea Troiano giunto in Italia, e
+Turno re de' Rutuli, poeticamente da Virgilio nella sua ^Eneide~
+descritte, e secondo verit@a da Tito Livio storico eloquentissimo
+al principio della I Decade brevemente narrate.  Leggesi ancora
+delle battaglie in Appuglia accadute nel tempo che Annibale
+Cartaginese guerreggiava contra i Romani.  Molte altre ancora
+sono le pugne, molti li spargimenti di sangue, e le uccisioni
+anticamente commesse in Appuglia, ma a Dante basta di quelle de'
+Troiani, e di quelle di Annibale far menzione.  Le tre moderne
+nel testo contenute, io le reciterei largamente, se potessi
+sapere la verit@a.  Non so a cui mi creda: non trovo alcuno
+autentico istoriografo di tale materia parlare, e tra gli
+espositori del testo trovo tanta contrariet@a, che a nessuno posso
+dar fede.  Io non affermer@o cos'alcuna: reciter@o seguitando
+coloro che mi paiono essere stati pi@u solleciti che gli altri
+circa la verit@a.  Dicono, che nell'anno 1070 dalla nascita di
+Cristo, essendo al Duca di Normandia succeduto Ricardo suo figlio
+primogenito, si mosse di Francia un altro suo figlio, nominato
+Roberto Guiscardo, e venuto in Italia in tal modo si port@o in
+fatti d'arme per servizio del Duca d'Appuglia, che da lui fu
+magnificamente premiato.  Magnanimo e non men prudente Roberto
+dispens@o gran parte di ci@o che acquistato aveva, in arme, cavalli
+ed altri paramenti cavallereschi, e nobilmente accompagnato
+ritorn@o in Francia, dove facendo mostra di tanto fiorita e ben
+fornita compagnia, e sollicitando altri nobili cavalieri e uomini
+valorosi, facilmente trov@o gran seguito, col quale ritornando in
+Appuglia ebbe per moglie la figlia del Duca, e dietro la morte
+sua, pur contrastando a lui alcuni Baroni e popoli, con forza
+d'arme la soggiog@o.  Dietro all'Appuglia succedette la Calabria;
+indi non contento di terra ferma pass@o in Sicilia, donde scacci@o
+lo Imperatore de' Greci, che la signoreggiava.  Le quali vittorie
+ei non pot@e avere senza grande effusione di sangue.  Di un'altra
+battaglia fa menzione Dante.  Dietro alla morte dell'Imperatore
+Federico II e di Corrado figlio, succedette nel regname di Napoli
+e di Sicilia l'altro figlio Manfredo, contro il quale indignato
+il Papa fece nell'anno 1265 venire in Italia il Duca d'Angi@o,
+Conte di Provenza, Carlo, fratello del re Lodovico di Francia
+coronato dal Papa in Roma.  Carlo avendo gi@a pigliato Aquino, e
+San Germano e passato il fiume Vulturno, su alto nei monti a
+guazzo, con gran fatica fece battaglia col re Manfredo, il quale
+abbandonato da' suoi Pugliesi fu morto con molti Tedeschi,
+Lombardi, Toscani, e Saracini da Nocera; onde poi non fu a Carlo
+difficil cosa farsi re del regname.  Menziona ancora l'autore una
+battaglia data a Tagliacozzo.  Insuperbito Carlo per la vittoria
+sopraddetta, e dal Papa fatto Vicario generale dell'Impero in
+Toscana, mosse guerra contro i Pisani.  Per la qual cosa
+confederati essi con Senesi, e con Enrico fratello del re di
+Spagna, fecero venire di Alamagna Corradino con aiuto di loro
+denari: fatta la via per Verona a Genova, per mare pass@o a Roma,
+ove fu ricevuto a modo d'Imperatore: indi per entro i monti
+dell'Abruzzo e di Campagna discese gi@u a Tagliacozzo.  Gi@a
+ribellati si erano contra Carlo molte citt@a, e castella, ed erano
+di giorno in giorno per ribellarne altre; onde Carlo udite cotai
+novelle, tosto lasciando parte dell'esercito in Toscana sen'
+discese per la citt@a dell'Aquila dell'Abruzzo pi@u vicino al campo
+di Corradino; ivi, essendo Carlo manco possente in campo, il
+vinse con astuzia e consiglio di un Cavalier di Francia, nominato
+Alardo, che per vecchiezza non potendo portar arme, e nuovamente
+ritornando di Gerusalemme, si era accostato a lui per
+consigliarlo bene.  Consigli@o costui, che tre schiere ordinasse
+Carlo della sua gente, nella prima delle quali fingesse esservi
+personalmente, nondimeno si tenesse nella terza.  Le prime due
+battaglie ordin@o si presentassero a certo passo contra il nemico,
+la terza, nella quale era il re, si collocasse in insidie,
+affinch@e, se le prime due fossero rotte, i nemici vincitori,
+credendosi aver sconfitto, e forse ucciso Carlo, e non restar pi@u
+gente integra con chi combattere, e per@o disordinandosi nello
+spogliare, e fare prigioni, facilmente da esso Carlo, uscito
+d'insidie, fossero sconfitti.  Servando questo consiglio, e nel
+fare fatti seguitando nuovi partiti, che sapeva pensare Alardo,
+secondo che occorreva il bisogno, piena vittoria ebbe Carlo.  Di
+tutte le prenominate vittorie tocca Dante per denotare quanta
+moltitudine di peccatori, ed in quanto diversi modi feriti erano
+gi@u nella bolgia nona del cerchio ottavo.
+
+	|7-18.~  Continuando adunque dice: Chi poria dicer
+appieno del sangue e delle piaghe che ora vidi nella bolgia nona:
+certo se si adunasse ancora tutta la gente, che per la venuta dei
+Troiani in Italia gi@a fu dolente del suo sangue per le ferite
+ricevute in su la terra d'Appuglia fortunata, molto soggetta alla
+fortuna, se si adunasse ancora tutta la gente, che del suo sangue
+fu dolente per la lunga guerra di Annibale contra i Romani, che
+per la sconfitta data presso a Canne fe' s@i alte spoglie delle
+anella a Cartagine mandate, s@i alte, dico, come lo scrive Tito
+Livio, istoriografo che non erra, il quale dice, che secondo il
+parlare di alcuni furono mandate a Cartagine due moggia, e
+secondo altri sei moggia di anella tolte fuora di mano ai
+cittadini Romani, uomini di riputazione.  Onde comprendere si
+poteva smisurata essere stata la moltitudine degli uccisi.  Dice
+Dante: se si adunasse tutta la sopraddetta gente, con quella che
+sent@io, con quella che sent@i doglie dei colpi, delle ferite per
+contrastare a Ruberto Guiscardo, figlio del Duca di Normand@ia
+venuto in Appuglia, e se tutta si adunasse l'altra gente, il cui
+ossame ancor si accoglie, della quale ancora di presente si
+trovano e raccolgono le ossa per li campi ad un luogo chiamato
+Ceperano, l@a dove fu bugiardo ciascun Pugliese, abbandonando il
+re Manfredo, al quale avevano promesso fede, e l'altra gente il
+cui ossame si accoglie ancora l@a da Tagliacozzo, ove senz'arme,
+cio@e disarmato, il vecchio Alardo, consigliero del re Carlo,
+vinse Corradino, secondo ch'io dichiarai poco di sopra.
+
+	|19-21.~  Or se tutta la sopraddetta gente ancora si
+adunasse, e quale di loro mostrasse il suo membro forato, e quale
+lo mostrasse mozzo; alcuno si mostrasse ferito in un modo, ed
+altri in un altro, tutto ci@o che potrebbero mostrare sarebbe
+nulla ad equare il sozzo modo della nona bolgia.  Vuol dir Dante,
+che non si troverebbero intra tanti uccisi tante diverse ferite,
+quante ei ne vide nella bolgia nona.  Per questo parlare denota
+in generale qual'era la pena di quella bolgia.  In ispecialit@a
+nominer@a alcuni nelle particelle seguenti.
+
+	|Proemio: Maometto.~  Quelli che hanno seminato scisma, e
+separati i figli dal ventre della Chiesa volendo qui Dante
+rappresentare, dice; aver veduto Macometto per condecente e
+proporzionata pena fesso tutto il busto dalla gola fino alla
+inforcaglia, in modo che gli uscivano le interiora, e recita ci@o
+che da lui ud@i.  Di questo Macometto non si pu@o sapere la certa
+verit@a: in tanti modi si conta la istoria.  Dicesi: che circa
+l'anno 700 di Cristo and@o in Arabia un Monaco per nome Sergio,
+cacciato dagli altri fuora del Monastero per eretico.  Altri
+dicono, che fu Archidiacono d'Antiochia: altri che fu Cardinale
+della Corte Romana partito per disdegno.  Or fosse chi si voglia,
+venuto in Arabia costui fece sottile investigazione per trovare
+uomo alcuno di soprano ingegno, scientifico, e di alquanta fama,
+col quale potesse ordire nuova tela per alienare quei popoli
+dalla fede Cristiana, ed ottenere da loro ci@o che gli piacesse. 
+Sopra gli altri uno, per nazione Giudeo, chiamato Macometto, gli
+apparve esser tale; conciosiach@e fino dalla sua giovent@u
+praticando in mercatanzie per Egitto, per Soria, e per diversi
+altri paesi, e sollicitando di sapere pi@u cose, erasi informato
+cos@i del testamento nuovo, come del vecchio, e di diverse usanze,
+e maniere di vivere, di diverse nature, e qualit@a d'uomini, ed
+ancora imparato aveva le magiche arti.  Per aiuto delle quali
+cose montato era in fama di essere uomo prudente in consigliare,
+savio nella scrittura sacra, ed amico di Dio per le cose
+maravigliose che faceva.  Con questo Macometto secretamente si
+accord@o Sergio, ed avvezzarono ambedue una colombetta bianca a
+mangiare nell'orecchia a Macometto.  Dietro a ci@o, predicando
+Sergio in pubblico, un giorno mostrossi tratto in gran fervore di
+spirito, ed occorrergli cose nuove da nunziare al popolo.  Ma
+diceva, che da uomo pi@u accetto a Dio che tutti gli altri,
+conveniva essere nunziate, e chi era tale, Dio lo mostrerebbe,
+sopra lui mandando lo Spirito Santo in forma di colomba.  Era
+presente a quella predicazione Macometto, e, secondo l'ordine
+dato, la colombetta a quel parlare di Sergio lasciata, volando
+sopra la moltitudine del popolo, veduto ch'ebbe Macometto, subito
+cal@o gi@u ad esso, e volatagli sopra la spalla cominci@o a beccare
+nella orecchia sua; al quale atto credendo quella gente grossa,
+che lo Spirito Santo gli parlasse, massimamente perocch@e nei
+tempi passati avevano fatto buona stima di lui, tutti
+s'inclinarono devotamente pregandolo, ch'ei nunciasse la volont@a
+di Dio.  Allora questo gran simulatore, non come a preghiere
+mosso, ma come pieno di spirito, quasi fuora di suo proprio
+sentimento uscito, mont@o in luogo alto, e come perito che era di
+Sacra Scrittura cominci@o altamente a parlare, in essa
+intramischiando molte parole nel suo predicare, per le quali
+derogava alla vera credenza.  Con tal arte continuando in breve
+tempo acquist@o devozione ed obbedienza di tutti quei popoli, e
+non solo di quelli, ma eziandio di altri crescendo la fama in
+modo, che li fece ribelli contra la fede, e diede loro nuova
+legge tale quale pu@o sapere chi da infedeli moderni informazione
+ne piglia.
+
+	|22-27.  Gi@a veggia per mezzul~: Di {Maometto} adunque
+Dante descrive la pena, facendo una comparazione per denotarla
+pi@u apertamente.  Dice: gi@a veggia, gi@a botte, ovvero vasello da
+vino non si pertugia cos@i per mezzul perdere o lulla, quantunque
+essa perda il fondo o doga alcuna, dico, ch'essa non si pertugia
+cos@i, quantunque ci@o perda, come io vidi un pertugiato, fesso e
+rotto dal mento infin dove si trulla, infino alla inforcaglia. 
+Le minugia, le budella, pendevano tra le gambe, la corata
+appariva, ed appariva il tristo sacco che merda fa di quel che si
+trangugia, di quello che si mangia e mandasi giuso.
+
+	|28-36.~  Prosegue la sua descrizione dicendo: Mentre che
+io tutto mi attacco in veder lui, guardommi, e con le man si
+aperse il petto dicendomi: or vedi, come mi dilacco, vedi, come
+mi sbarratto ed apro: vedi, come scoppiato @e Macometto, il quale
+son io che parlo.  Manifesta ancora chi sia colui, che dinanzi
+gli va col volto fesso.  Dice: dinanzi a me sen' va piangendo
+Al@i, il mio Maestro, che mi avvezz@o a quello ch'io doveva fare e
+dire per scisma seminare, e dal grembo della Chiesa separare
+tanti popoli, e secondo ch'io per aver tal separazione fatta,
+sono aperto nel petto e ventre, cos@i sen' va costui fesso nel
+volto dal mento fino al ciuffetto della fronte, perocch@e ei fu
+capo, e maestro mio, quantunque egli prima essendo stato pubblico
+predicatore, poi si finse mio discepolo per pi@u credito
+acquistarmi.  Manifesta ancora per qual peccato ivi sono puniti
+gli altri, dicendo: E tutti gli altri, che tu vedi qui, essendo
+vivi nel mondo furono seminatori di scandalo e scisma, e per@o son
+fessi cos@i, come tu vedi.
+
+	|37-42.~  Chi cos@i ne fenda, e come perpetua sia la
+nostra pena, io te lo dichiaro.  Un diavolo @e qua dietro a me,
+che ne ascisma, che ne divide e taglia al taglio della spada s@i
+crudelmente, come tu vedi: dico, che cos@i ne taglia rimettendo
+ciascun di questa risma, di questa setta, di questo vizio,
+rimettendolo, intendere si dee a camminare ancora in circuito
+della bolgia.  Sogliono i cartolari gran moltitudine di quaderni
+di carta partire in pigne, ossia legature di venticinque quaderni
+l'una, e chiamarle ^risme~, cos@i in proposito nostro, essendo
+nell'inferno gran moltitudine di peccatori separati e distinti in
+diversi circoli, gironi e bolgie, usa qui Macometto di questo
+vocabolo |risma~ a denotare squadra di peccatori.  Continua poi
+il suo parlare, e dice.  Dico, che cos@i crudelmente ne ascisma, e
+taglia, come tu vedi, ogni fiata quando av@em, quando abbiamo
+volta la dolente strada, ed andati in circuito della bolgia
+giungiamo al cospetto suo.  Non voglio, che tu creda una sola
+volta bastare per sempre; ogni volta cos@i ne taglia, perocch@e le
+ferite son richiuse prima ch'altri li rivada, prima che alcun di
+noi li ritorni dinanzi al cospetto a quel diavolo.  Onde essendo
+redintegrate le ferite, ben le pu@o rinnovare, e far perpetua
+questa pena.  Dichiarato che ha il castigo che si esercita in
+questa bolgia, domanda nel testo che seguita, chi sia Dante,
+credendo, ch'ei pure sia dannato a simil pena, ma intendendo che
+ancora vive, gli commette, che, tornato che sar@a di su nel mondo,
+faccia un'ambasciata.
+
+	|43-51.  Ma tu chi sei~: Dice Macometto, udito hai da me
+chi sono; ma tu chi sei che muse in su lo scoglio del ponte, che
+ti dimori, e stai col muso quasi meravigliandoti di ci@o che vedi,
+e forse ci@o fai per indugiar d'ire alla pena, che in su, nella
+entrata del secondo cerchio, al cospetto di Minos, @e giudicata
+alle tue accuse, innanzi al suo tribunale svelate.  Altramente
+pu@o dire il testo; ^che han giudicata in su~, nel predetto luogo,
+^le tue accuse~, conciosiach@e per conscienza propria de' peccati
+danna l'anima se medesima.  Seguita la risposta, e dice l'autore:
+Rispose il mio maestro Virgilio: N@e morte il giunse ancor, non @e
+ancora morto costui, Dante, n@e colpa di peccati suoi lo mena a
+tormentarlo; ma per dare a lui esperienza piena delle virt@u e dei
+vizi conviene a me, che sono morto, menarlo di giro in giro, di
+cerchio in cerchio, qua gi@u per lo inferno.  E questo @e vero cos@i
+com'io ti parlo.
+
+	|52-54.~  Ci@o che seguit@o, poich@e Virgilio ebbe dette
+queste parole, soggiunge Dante dicendo: fur pi@u di cento di
+quelli peccatori dannati, che quando l'udiro, Virgilio, dire,
+ch'io vivea, si arrestaron nel fosso nel quale erano, stettero
+fermi a riguardarmi per meraviglia, che io vivo fossi laggi@u
+disceso, obbliando il mart@iro, che pativano, tanto stavano
+intenti a riguardarmi, che non parevano sentire il loro martiro.
+
+	|55-63.~  Che in questo punto Macometto commettesse a
+Dante un'ambasciata da fare al mondo, lo descrive l'autore per
+aver cagione di nominare un grandissimo scismatico che ancora
+viveva nel tempo della discesa di Dante all'inferno, e gi@a era
+punito nanti questa poesia.  Costui fu chiamato frate Dolcino,
+che in Lombardia cominci@o con sottile ingegno a seminare alcune
+disoneste, e pericolose eresie, mediante le quali era per farsi
+gran divisione tra il popolo cristiano, se tosto non fosse stato
+provvisto, scacciandolo da ogni luogo, e finalmente per assedio
+pigliandolo nei confini del Novarese, e Vercellese in alcuni
+monti affamato, dove col suo seguito ridotto si era, e dove fu
+condotto a morte con quelli che non si vollero correggere.  Dice
+adunque Dante, poich@e Macometto sospese, lev@o da terra l'un pi@e
+per girsene da indi, ei mi disse esta parola: O tu che forse in
+breve vedrai il sole di sopra nel mondo, or dunque, quando
+uscirai, di' a Fra Dolcino, che se egli non vuol qui presto
+seguitarmi, si armi di vivanda, di vittuaglia s@i, che stretto di
+neve negli alti monti al tempo dell'inverno non porti vittoria al
+popolo Novarese, il quale sar@a de' principali suoi nemici.  Vuol
+dire Macometto: avvisalo, ch'ei si fornisca di vittuaglia la
+state per lo inverno, sicch@e per fame non si possa assediare,
+perocch@e altrimente, se non per assedio, non saria lieve cosa
+acquistarlo.  Dico, che Macometto mi disse questa parola, poich@e
+sospese l'un pi@e da terra per partirsene; indi compiuta la detta
+parola lo distese in terra quel piede, e se ne and@o.
+
+	|64-75.~  Introduce qui Dante uno scismatico moderno
+seminatore di discordie tra uomini magnati, e fa ch'egli nomini,
+e gli mostri un altro spirito antico per simile colpa dannato. 
+Prima vediamo di lui il quale si fa conoscere da Dante: un altro
+dannato |che forata avea la gola, e tronco il naso infin sotto le
+ciglia, e non aveva ma che una orecchia sola~, restato cogli
+altri a riguardarmi per meraviglia, egli innanzi agli altri, cio@e
+prima che gli altri volendo parlare, apr@i la canna ch'era di
+fuora da ogni parte vermiglia, insanguinata, per la nuova ferita
+ricevuta dal diavolo di sopra descritto, e disse a me Dante: O
+tu, cui non condanna colpa, tu che non sei dannato per alcun
+peccato, e cui vidi gi@a in su terra latina, in Italia, se troppa
+simiglianza non m'inganna, rimembrati di me Pier da Medicina, se
+tu ritorni mai a veder lo dolce piano, che da Vercelli, antica
+citt@a situata non lungi dalle Alpi, nella parte di sopra di
+Lombardia, dichina gi@u a Marcab@o, che gi@a fu Castello de'
+Veneziani su quel di Ravenna edificato, dove in mare entra Po, ma
+pigliato da Messer Ramberto da Polenta fu ruinato fino dalle
+fondamenta.  Vuol dire costui; se mai ritornerai nella pianura,
+che si trova tra Vercelli e Ravenna, ricordati di Pier da
+Medicina, il quale son io, che qui ti parlo.
+
+	|76-84.~  Per intelligenza dell'ambasciata che questo
+spirito gli commette dobbiamo sapere, che dietro la discesa di
+Dante, secondo sua finzione, all'Inferno, il Signor Malatestino
+d'Arimino desideroso di occupare la Signoria di Fano, fece
+dimandare due principali cittadini di quella citt@a qui nominati
+nel testo, dai quali pendeva il reggimento, feceli dico,
+dimandare a parlamento ad un luogo chiamato la Cattolica sotto
+nome di ben comune.  Al qual luogo venendo essi per nave, feceli
+traboccare in acqua.  Or vediamo il testo: |E fa sapere a' duo
+miglior da Fano~, a Messer Guido del Cassero ed ancora ad
+Agnolello da Carignano, che, se l'antiveder, che hanno i dannati
+qua gi@u delle cose, che sono per avvenire, non @e vano, quei due
+gittati saran fuora di lor vagello, di loro navicella, e
+macerati, sommersi in mare presso alla Cattolica per tradimento
+di un tiranno fello.  Biasima costui quel tradimento, dicendo:
+tra l'Isola di Cipri, ultima delle grandi nel mare di Levante,
+donde procedettero tanti gran pirati nel tempo del Magno Pompeo,
+e tra Maiolica altra isola, ultima delle Formose verso ponente
+nel mare Mediterraneo, pure ricettacolo di pirati nel predetto
+tempo; tra le dette Isole Nettuno, Dio del mare, non vide mai s@i
+gran fallo non da pirati, corsari di mare, non da gente Argolica,
+Greca, che molte grandissime battaglie fecero in mare.
+
+	|85-90.~  Dichiara chi sar@a costui che far@a tanto fallo;
+dico: quel traditor che vede pur coll'uno occhio, e tien la
+terra, che, tale @e qui meco, vorrebbe esser digiuno di vedere,
+cio@e quel guercio che tiene la citt@a di Arimini, la qual citt@a
+non vorrebbe mai aver veduta, tale @e qui meco, e questo @e Curione
+Romano, di cui parleremo nella particella seguente del testo,
+dico, che quel guercio far@a venirli, quei due Fanesi sopra
+nominati, a parlamento seco, poi far@a s@i, che al vento di Focara
+non sar@a lor mestier voto n@e preco, ci@o dice costui, perocch@e
+vicino alla Cattolica @e un luogo chiamato Focara, dove per
+fortuna pericolavano molte navi dal vento portate contra terra,
+onde i naviganti, per campare, in tal tempo fanno preghiere e
+voti a Dio, le quali preghiere non faranno questi Fanesi,
+conciosiach@e non per fortuna prima veduta, ma per tradimento
+saranno macerati in mare.  Alla petizione di questo spirito
+risponde l'autore nel testo che seguita promettendo di fare
+l'ambasciata, ma vuol prima sapere chi @e colui, che vorrebbe
+esser digiuno di vedere, vorrebbe non aver mai veduta la Citt@a di
+Arimini, del che seguita nel testo.
+
+	|91-99.  Et io a lui: dimostrami e dichiara~: Questo
+Curio del quale si parla qui, Cittadino Romano eloquente e
+tribuno della plebe, cio@e uficiale sopra il popolo minuto di
+Roma, nel tempo che Cesare ritornava vincitore di Francia, gli fu
+molto favorevole in Roma, donde per opera degli avversari
+scacciato si ridusse verso Cesare, e nella citt@a di Arimini
+trovatolo alquanto dubbioso, se contra la patria doveva muovere
+guerra, us@o questo Curio di tanto eloquente orazione, che
+conferm@o Cesare nella opinione di venire a Roma con mano armata,
+e per@o finge Dante, che qui sia punito, come quello, che incit@o
+Cesare a muover guerra contra la Patria, e fingerallo non aver
+lingua, privato di quello strumento, nel quale molto valendo in
+vita abus@o non usandone per la libert@a, ma vendendolo a chi pagar
+lo voleva, secondo che denota Virgilio nel VI dell'^Eneide~, ove
+dice: ^Vendidit hic auro patriam~: costui fece per oro vendizione
+della patria; e Lucano: ^Emere alii, hic vendidit urbem.~  La
+citt@a Romana altri la comprarono, ma costui, Curione, ne fece
+vendizione.  Vengo dlla esposizione del testo.  Dice Dante: ed io
+a lui, a Pier da Medicina, dissi: Se tu vuoi, o Piero, ch'io
+porti novella di te su al mondo, dimostrami e dichiarami |chi @e
+colui dalla veduta amara~, chi @e colui, che mai non vorrebbe aver
+veduta la citt@a che tiene quello che vede pur coll'uno degli
+occhi, il Signor Malatestino tiranno di Arimini, nella quale
+citt@a colui fece il peccato per cui qui @e dannato.  Allora Pietro
+pose la mano alla mascella di un suo compagno, e gli aperse la
+bocca gridando a me: o Dante; questi @e desso; costui @e quello
+dalla veduta amara, e non favella, essendo privato della lingua,
+che in vita non estimava essere sua, ma di colui, che da s@e la
+comprava: dichiara essergli stata amara quella veduta di Arimini,
+perocch@e egli conferm@o ivi Cesare a muovere l'armi contro Roma. 
+Questi, Curio, scacciato da Roma sommerse, vinse e suffoc@o in
+Cesare il dubitare; essendo prima Cesare dubbioso, se contra Roma
+venir doveva, costui gli tolse ogni dubitanza ed indusselo ad
+andare; affirmando, che il fornito sempre con danno sofferse
+l'attendere, dicendo a Cesare: tu sei fornito, tu hai la gente
+d'arme in pronto, i tuoi nemici sono sbigottiti, a te sar@a danno
+lo aspettare.
+
+	|100-102.~  A terrore dei seminatori di scandalo
+soggiunge l'autore nel testo: Oh!  quanto mi pareva sbigottito
+Curio con la lingua tagliata nella strozza, nella gola, Curio,
+dico, che fu cos@i ardito a dire ci@o che a Cesare disse.
+
+	|103-111.~  Nomina qui Dante un gentiluomo di Fiorenza
+per consiglio del quale fu fatta vendetta di una offensione
+ricevuta, donde seguit@o gran divisione nella Citt@a, ed indi fu
+scacciata la parte Ghibellina.  Il caso dicesi che fu tale: Un
+giovane dei Buondelmonti, principale di parte guelfa, dovendo
+sposare per moglie una fanciulla di gentil parentela ghibellina,
+e gi@a essendo fatta congregazione di parenti ed amici per l'una
+parte, e per l'altra, il giovane consigliato da' suoi parenti,
+partitosi con loro da casa sua sotto nome di andare a casa della
+giovinetta, fece loro la beffa, ed and@o a sposare una dei Donati. 
+Per la qual cosa tenendosi gravemente ingiuriati i parenti della
+fanciulla fecero loro consiglio, trai quali Messer Mosca dei
+Lamberti consigli@o, che si doveva procurare di uccidere quel
+giovane, e perch@e il di lui consiglio pi@u fosse atteso, egli us@o
+di questo proverbio: ^Capo ha cosa fatta~: il qual consiglio fu
+mal seme in Toscana, conciosiach@e uccidendo essi quel giovane, si
+concitarono a guerra le parti non solamente di Firenze, ma
+eziandio delle terre circonstanti.  A questo Mosca dice l'autore,
+ambedue le mani essere mozze, conformando la pena al peccato,
+conciosiach@e del mal operare di ambedue le parti egli era stato
+cagione.  Vediamo il testo: |Ed un che avea l'una e l'altra man
+mozza~ grid@o levando per l'aura fosca di quel luogo i moncherini
+delle braccia s@i che il sangue faceva la faccia sozza, dico,
+ch'ei grid@o dicendomi: Non ti ricordar solamente di Pier da
+Medicina, ma ricorderati anche del Mosca, che, lasso, misero,
+dolente disse: ^Cosa fatta ha capo~, uccidiamo quel traditore;
+che, cio@e il qual consiglio, e detto mio fu il mal seme per la
+gente Tosca, pei Toscani, conciosiach@e da indi discese la mortal
+guerra tra parte e parte in Toscana.  Soggiunge la risposta,
+ch'ei diede partigianamente a colui.  Ed io Dante li aggiunsi; tu
+Mosca dici, che fu mal seme per la gente Tosca, ed io pi@u dico,
+che fu morte di tua schiatta, perocch@e tua schiatta, e tua parte
+in Firenze fu disfatta.  Dice poi Dante, perch@e egli, il Mosca
+accumulando duol con duolo, accrescendo dolore di questo novella
+sopra dolore della sua pena, sen' g@io, sen'and@o come persona
+trista e matta.
+
+	|112-120.  Ma io rimasi~: Descrive Dante la pena di un
+cavaliere per nome Beltramo del Bornio, il quale, essendo dal re
+Enrico d'Inghilterra deputato a governo di suo figlio giovinetto,
+nominato Giovanni, indusse il figlio a disobbedienza del padre,
+in modo che intra loro commettendosi durissima guerra, in una
+battaglia fu ferito il figlio e mor@i in un luogo, chiamato
+Altaforte, il qual luogo tenea in guardia per lui Messer
+Beltramo.  Perci@o finge Dante di aver veduto questo seminatore di
+scandalo tra il figlio, e il padre nella bolgia de' scismatici
+col capo mozzo separato dal busto.  E perocch@e questa pareva
+essere stata opera impossibile secondo natura, ch@e padre e figlio
+fossero nemici, cos@i finge, che Beltramo nell'inferno facesse
+pure cosa per natura impossibile.  Impossibile @e che opera d'uom
+vivo faccia colui che ha mozzo il capo; non @e cos@i degli altri
+morti, perocch@e tal opera puo fare uomo in qual altro si voglia
+modo guasto.  Uomo impiccato ancora alquanto vive, e pu@o campare
+chi il dispicchi: uomo aperto, a cui pendano le budella tra le
+gambe e paiano le interiora, ancora vive ed alcuna opera d'uomo
+vivo pu@o fare; per lo simile uomo che abbia falciata la testa, e
+membro qual si voglia tagliato: non @e cos@i di quello che ha mozzo
+il capo; ma perocch@e incredibile potrebbe parere a ciascuno, che
+costui andasse col capo mozzo in mano a modo di una lanterna
+colla quale vedesse dove mettere i piedi, e parlare potesse, per@o
+Dante per acquistare credito prima usa di parole che vedremo nel
+testo.  Dic'egli continuando il parlar suo: Il Mosca sen' g@io
+come persona trista e matta; ma io rimasi a rimirar lo stuolo, la
+moltitudine di quella gente tagliata a pezzi, e vidi cosa, ch'io
+avrei paura solo di contarla senza pi@u prova, non avendo perci@o
+modo, come ho, di provarla, essere vera.  Dico, ch'io avrei paura
+contarla senza prova, se non che conscienzia mi assicura,
+perocch@e io so ch'essa @e vera.  Conscienzia, dico, la buona
+compagnia che francheggia, che franco fa l'uomo sotto l'osbergo,
+sotto la protezione del sentirsi pura.  Vien a dire: l'uomo che
+sente la conscienza sua pura francamente parla, chi non vuol
+credere suo danno, poco a me; io mi sento pura la conscienza e
+dir@o il vero.  E dice: io vidi certo, ed ancora mi par ch'io il
+veggia un busto senza capo andar s@i come andavan gli altri della
+trista greggia.  Propriamente greggia si chiama una gran
+moltitudine di pecore, capre, o di altri animali minuti; qui
+s'intende per la moltitudine dei peccatori di quella bolgia.
+
+	|121-126.~  Ed il suo capo tronco dal busto, colui con la
+mano il tenea per le chiome pesol, cio@e pendente a guisa di
+lanterna, e quel capo mirava noi, e lamentandosi diceva: o me! 
+Descrive, come quella testa faceva uficio suo.  Colui faceva a se
+stesso lucerna di se; col suo capo a modo di lanterna si faceva
+lume, mostrava a se la via, dove metter dovesse i piedi; ed era
+uno in due cavezzi, un cavezzo del busto, l'altro del capo, e due
+in uno; perocch@e quelle due parti facevano un solo peccatore; chi
+mi dimandi come pu@o essere questo, io non so; quel che su in
+Cielo governa, Dio, lo sa.
+
+	|127-132.~  Prosegue in parlare di costui, dicendo:
+quando fue diritto a pi$e del ponte, lev@o il braccio alto con
+tutta la testa per appressarne a Virgilio, ed a me le parole sue
+che furon tali.  Diss'egli a me Dante: o tu che spirando, ancor
+vivo, vai veggendo i morti, or vedi la molesta mia pena: vedi, se
+alcuna @e grande come questa.
+
+	|133-142.~  E perch@e tu porti su nel mondo novelle di me,
+sappi ch'io son Beltram del Bornio, quelli che diedi mai conforti
+al re Giovanni, figlio del re d'Inghilterra: io feci il padre, ed
+il figlio in se ribelli.  Quanto malvagi fossero i suoi mali
+conforti ei medesimo confessa, facendo comparazione da se ad
+Achitofel, che indusse Absalon a ribellare, e muovere guerra
+contra il padre suo David, della qual cosa si legge nella Bibbia
+nel II libro dei Re.  Dice: Achitofel coi suoi malvagi puntelli,
+coi suoi malvagi consigli non fe' pi@u di Absalone e di David,
+come fec'io di costoro.  Ecco la mia pena: perch@e io partii cos@i
+giunte persone, come sono figlio, e padre; poseli in guerra l'uno
+contra l'altro, lasso!  io porto il mio cerebro partito dal suo
+principio, ch'@e in questo troncone, in questo mio busto. 
+Confessa questo peccatore, giusta essere la pena, e dice: Cos@i
+secondo la qualit@a del mio peccato si osserva in me quaggi@u lo
+contrappasso, cio@e mi @e data questa pena per contrappeso di
+questo peccato.  Faccio fine al presente Canto.

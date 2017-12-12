@@ -1,0 +1,546 @@
+	|1-6.  N$e 'l dir~ ecc.  N$e il parlare faceva pi@u lento il
+camminare, n$e questo faceva pi@u lento il parlare (|lui~); ma, pur
+ragionando, andavamo rapidi, come nave |pinta~, spinta, |da buon
+vento~; che @e il "buon volere" (69; ^Purg.~, XII, 124).  -- |E
+l'ombre~ ecc.  L'aspetto di queste anime (^C. pr.~, 23-4) @e messo
+ancora in evidenza da |"rimorte"~ -- pi@u che morte: sia per
+l'orribile pallore, sia per la scheletrica secchezza -- e da
+|"per le fosse de li occhi"~, espressione che non significa
+genericamente "per gli occhi infossati" ma dice la cosa facendo
+grandeggiare solo quelle cavit@a orbitali, quelle fosse che si
+profondano nella testa e in cui quasi scompaiono gli occhi (^C.
+pr.~, 40).  Attraverso (|per~) tali "fosse", e per mezzo degli
+occhi che sono in fondo ad esse, |l'ombre~ traggono
+|ammirazione~, meraviglia, della persona di Dante (|di me~),
+perch$e si sono accorte che egli @e vivo.  Si noti ancora una volta
+che, di fronte a un vivo, nel Purgatorio le anime si meravigliano
+soltanto; non si sgomentano come nell'Antipurgatorio.
+
+	|7-9.  continuando~ ecc.: facendo seguito al discorso
+cominciato al v. 115 del Canto precedente.  -- |Ella sen va su
+forse~ ecc.  |Ella~ -- l'ombra di Stazio (^C. pr.~, 131-133) --,
+per cagione di Virgilio (|altrui~), cio@e per stare con Virgilio
+-- che, accompagnando Dante attardato dal peso del corpo, deve
+procedere pi@u lentamente delle anime -- sale verso il Cielo
+|forse pi$u tarda~ che se fosse sola.  Il |forse~ qui vuol dire
+"come credo" e non @e dubitativo, ma serve piuttosto, come spesso
+nel parlar vivo, ad attenuare una recisa affermazione.  Dante,
+infatti, non pu@o ancora avere piena conoscenza del Purgatorio.
+
+	|10-15.  Ma dimmi~ ecc.  L'ansia di conoscere altre anime
+e specialmente d'aver notizia di Piccarda, fa sgorgare caldissimo
+quel |dimmi~... |dimmi.~  -- |Piccarda~: |sorella~ di Forese.  La
+vedremo esaltata nel Paradiso (III, 34 sgg.); ma gi@a qui Forese
+la presenta in pochi tratti che profilano la creatura umana ed
+angelica, in cui la bellezza @e illuminata dalla bont@a e la bont@a
+si trasforma in bellezza: in una delicata oscillazione -- |tra
+bella e buona~... -- che si risolve poi nel pi@u alto splendore
+della creatura divina, che |ne l'alto Olimpo~, nel Cielo, gi@a
+trionfa lieta della sua luminosa aureola: |di sua corona.~ 
+Parola che, insieme a |triunfa~ -- cfr. ^Benv.~, ^An. Fior.~,
+^Landino~, ecc. -- richiama anche l'immagine della lotta
+sostenuta nel mondo contro il male e "coronata" dal "trionfo".
+
+	|16-18.  Qui non si vieta~ ecc.  In nessun luogo del
+Purgatorio @e vietato di nominare le anime, ma Forese mette ci@o in
+particolare rilievo nei riguardi del 6+o~ girone dove, essendo le
+anime cos@i sfigurate, @e pi@u necessario che mai designarle per
+nome.  -- |munta via.~  Significa "smunta", consumata e simili ma
+-- cfr. ^munge le lagrime~ (^Inf.~, XII, 135 sg.); ^lena~...
+|munta~ (^Inf.~, XXIV, 43), ecc. -- ci sembra richiami
+direttamente la forte immagine del toglier via "mungendo": come
+se la |sembianza~ fosse spremuta via dal digiuno (|dieta~).
+
+	|19-33.~  ^Figure di golosi.~  Vedremo ora figure di
+golosi presentate di scorcio, ma si tratta di scorci che, nella
+loro secchezza, mostrano al vivo particolari caratteri di tali
+figure: quali appaiono qui nel Purgatorio o qual apparvero nel
+mondo; e del mondo tornano gli sprazzi in una incisiva
+concretezza d'immagini: |faccia~... |trapunta~ (20-1);
+|l'anguille di Bolsena e la vernaccia~ (24); |per fame a v@oto
+usar li denti~ (28); |che pastur@o col rocco molte genti~ (30);
+|ebbe spazio gi@a di bere a Forl$i con men secchezza~ (31-2).
+
+	|19.  Bonagiunta~: Bonagiunta Orbicciani da Lucca,
+vissuto fino agli ultimi anni del '200, fu un freddo e non
+raffinato rimatore provenzaleggiante.  Dante lo riprov@o --
+insieme a Guittone (56) e ad altri -- per aver usato il volgare
+<municipale> invece che il <curiale> (^D. V. E.~, I, xiii, 1). 
+Per queste ragioni, giustamente @e stato scelto Bonagiunta a
+rilevare i pregi dello ^stil novo~ rispetto alla vecchia maniera
+(55 sgg.).
+
+	|20-24.  quella faccia~ ecc.  Ecco di nuovo in evidenza i
+particolari essenziali degli smagriti.  Prima "le ^fosse~ de li
+occhi" (5 n.); ora di Martino IV si mette in evidenza solo la
+faccia -- si noti la costruzione: |e quella faccia~... |ebbe la
+Santa Chiesa~ ecc. --; quella faccia pi@u smagrita di tutte.  Ma
+|trapunta~ la mostra tutta a solchi e rilievi come in un lavoro
+di trapunto e richiama ^squama~, ^scabbia~ (^C. pr.~, 39 e 49). 
+-- |ebbe la Santa Chiesa~ ecc.: fu sposo della Chiesa (^Inf.~,
+XIX, 56-57).  @E Martino IV, pontefice dal 1281 al 1285, nato a
+Montpinc$e nella Brie, ma detto |dal Torso~, cio@e di Tours, per
+esser stato tesoriere della cattedrale di questa citt@a.  <Molto
+fu magnanimo e di grande cuore ne' fatti della Chiesa> (^G.
+Villani~, VII, 58) ma fu anche tanto goloso che Dante qui lo
+immagina pi@u magro di tutti.  Fra le altre <ghiottornie nel
+mangiare ch'elli usava, facea t@orre l'|anguille~ del lago di
+Bolsena, e quelle facea annegare e morire nel vino della
+|vernaccia~, poi fatte arrosto le mangiava> (^Lana~).  Dante,
+accennata la pena (|per digiuno~), anzich$e ricordare
+genericamente la colpa la rappresenta in concreto con le cose
+golosamente appetite; e in un verso, starei per dire, anch'esso
+carnoso e corpulento: |l'anguille di Bolsena e la vernaccia.~
+
+	|26-27.  e del nomar~ ecc.: apparivano tutti contenti
+d'esser nominati e sul volto di nessuno apparve un |atto bruno~:
+un atteggiamento che dimostrasse l'oscurarsi per contrariet@a. 
+Essi sono contenti sia perch$e nel Purgatorio il peccato non @e mai
+infamante, sia perch$e potranno essere ricordati alla piet@a dei
+vivi.
+
+	|28-30.  Vidi per fame~ ecc.  Anche qui: non la fame in
+astratto, ma in atto; in quel |a v@oto usar li denti~, in quel
+muovere invano i denti -- la cosa pi@u visibile in una tal bocca
+scarnita -- come per divorare.  Non sentiamo qui i denti "in nota
+di cicogna" (^Inf.~, XXXII, 36) n$e quelli di Ugolino sul cranio
+di Ruggieri, ma, pur nella mutata situazione, si nota una simile
+forza rappresentativa.  -- |Ubaldin de la Pila~: di quel ramo
+della famiglia degli Ubaldini detto della Pila, dal castello
+omonimo nel Mugello.  Fu fratello del cardinale Ottaviano
+(^Inf.~, X, 120) e padre dell'arcivescovo Ruggieri (^Inf.~,
+XXXIII, 14).  -- |Bonifazio~: dei Fieschi, genovese, nipote di
+Innocenzo IV, arcivescovo di Ravenna, pi@u politico che sacerdote,
+amante di lussi e raffinatezze.  -- |rocco.~  L'arcivescovo di
+Ravenna <non porta lo pastorale cos@i ritorto come gli altri
+arcivescovi, ma @e fatto di sopra al modo di r@occo degli scacchi>
+(^Lana~).  Tutto il verso, pur senza acrimonia, ha un senso
+ironico poich$e <il verbo |pasturare~ presenta in questo caso due
+tagli e con l'ambiguit@a determina l'epigramma fra il |pasturare~
+il gregge cristiano con la parola evangelica e la piet@a, e il
+|pasturare~ o sfamare il gregge dei cortigiani che gli si
+addensavano intorno> (^C. Ricci~, ^L'ultimo rifugio di D.~); e
+che Bonifazio "pasturasse" anche i cortigiani @e provato fra
+l'altro da una lettera del 1281 al comune di Savignano in cui il
+detto arcivescovo di Ravenna ordina, con minaccia di gravi pene
+pecuniarie, un lauto pranzo per s$e e per la sua gente.  Seguiamo
+questa interpretazione perch$e, secondo noi, mette in rilievo la
+colpa di Bonifazio in simmetrica rispondenza coi versi 24 e 31-32
+-- dove anche per altre anime @e messa in rilievo la colpa -- e
+con una simile concretezza rappresentativa, non scompagnata da
+una punta d'indulgente ironia.
+
+	|31-33.  messer Marchese~: degli Argogliosi, nobile
+cavaliere forlivese, buontempone "placido molto", secondo
+^Benvenuto~, e arguto e gran bevitore, il quale, come pure dice
+^Benvenuto~, a chi gli riferiva che tutti parlavano del suo gran
+bere, rispose ridendo: <E perch$e non dicono mai che ho sempre
+sete?> (<Et quare numquam dicunt quod semper sitio?>).  Ma i
+versi di Dante -- |ch'ebbe spazio~, tempo, agio, |gi@a di bere a
+Forl$i con men secchezza~, con minore arsura di quella che soffre
+qui in Purgatorio, |e s$i~, eppure, |fu tal~, cos@i assetato
+bevitore, |che non si sent$i sazio~ -- hanno una scarna
+concisione, in cui l'amabile ironia, intonata alla figura di lui,
+d@a rilievo e al carattere del "placido" buontempone -- nota |ebbe
+spazio~, "agio" -- e alla sua sete: rappresentata soprattutto in
+|secchezza~, che fa vedere quella gola addirittura arsa,
+disseccata dall'arsura.
+
+	|34-36.  si prezza~: invece che <si compiace> intendiamo:
+<fa conto, fa stima>.  Cfr. ^Rime~, CIII, 18.  -- |quel da
+Lucca~: Bonagiunta.  Cfr. v. 19 n.  -- |di me voler contezza~: di
+voler cognizione, notizia di me.
+
+	|37-45.  Gentucca.~  Nel mormorio indistinto di
+Bonagiunta, suona distinto un nome: |Gentucca.~  Ma il Poeta non
+conosce ancora quel nome -- |non so che~, quale, |Gentucca~ -- n$e
+intende le altre parole di Bonagiunta, onde la preghiera rivolta
+a lui (41-2) che, cos@i incoraggiato, vince la sua esitazione e
+predice a Dante come una donna lucchese, ancora giovinetta, gli
+render@a grata la biasimata citt@a di Lucca (435).  Costei -- forse
+Gentucca Morla, sposa di Bonaccorso Fondora, la quale intorno al
+1315, quando cio@e @e possibile che Dante sia andato a Lucca, era
+nel fiore della giovent@u -- dovette dimostrare verso l'esule una
+tenera amicizia e un'affettuosa gentilezza, s@i che il Poeta, <per
+la virt@u grande et onesta che era in lei> (^Buti~), la ricambi@o
+certo con un delicato e riconoscente affetto che, anche senza
+essere amore nel vero senso -- cui non allude di necessit@a questo
+passo, unica testimonianza di lei -- n$e, tanto meno, un amore
+sensuale -- il cui preannuncio (|che ti far@a piacere la mia
+citt@a~) suonerebbe sconveniente al luogo e all'anima che parla --
+profila questa fuggevole e tenera creatura.  Il mondo @e, s@i,
+tanto perverso da far malinconicamente desiderare di non vivere
+(76 sgg.), ma, di fronte a malvagi come Corso Donati che fanno
+maledire la vita (82 sgg.), ecco rievocate in questo stesso
+cerchio e Nella (^C. pr.~, 87 sgg.) e Piccarda (10) e questa
+dolce creatura che, senza esser santa come Piccarda, @e pur essa
+una chiara luce sulla terra, con la sua velata promessa di bont@a
+per l'esule sbattuto dagli uomini e dalla sorte.
+
+	|38-39.  l@a, ov'el sent$ia~ ecc.: nella bocca, ove pi@u
+forte sentiva il tormento della fame e della sete, che @e come una
+|piaga~ aperta dalla giustizia di Dio |che s$i li pilucca~, che
+cos@i consuma i peccatori in quel girone.  |Piluccare~ <@e spiccare
+dal grappolo i granelli; e qui per figura "li sfoglia, li
+dimagra"> (^Cesari~); ma ricordando appunto lo ^sfogliare~ (^C.
+pr.~ 58 n.), il verbo -- che deriva da un frequentativo del lat.
+^pilare~ -- potrebbe essere ricondotto a questo suo primo
+significato -- "pelare, depilare" -- che richiamerebbe pi@u vivo
+l'aculeo della pena e l'atto dello strappar via "sfogliando".
+
+	|42.  e te e me~ ecc.  B. @e ^vago~ di parlare e D. di
+sapere (40-1).
+
+	|43-45.  e non porta~ ecc.  Le giovinette non avevano i
+capelli velati dalla |benda~; ch'era nera per le maritate, bianca
+per le vedove (^Purg.~, VIII, 74).  -- |che ti far@a piacere~
+ecc.: che ti render@a grata |la mia citt@a~, Lucca, comunque la si
+biasimi.  I Lucchesi, con pi@u o meno ragione, avevano fama di
+barattieri (^Inf.~, XXI, 41) ed erano biasimati in genere per i
+loro costumi.
+
+	|46-48.  antivedere~: previsione, profezia.  -- |se~...
+|prendesti errore~ ecc.: se non hai inteso bene quel che ho detto
+e hai concepito qualche dubbio, |le cose vere~, i fatti, ti
+chiariranno di pi@u e meglio.
+
+	|49-51.  f@ore~: fuori.  -- |le nove rime~ ecc.: |nove~
+rispetto alla vecchia maniera largamente influenzata dalla lirica
+provenzale e a cui, pur con varie differenze, appartennero ^il
+Notaro~ {v.56} Iacopo da Lentini e ^Guittone~ d'Arezzo e
+Bonagiunta (56); ma |nove~ anche rispetto alle anteriori rime di
+Dante stesso.  Il quale considera come inizio di questo poetico
+rinnovamento la prima canzone della ^Vita Nuova~, il cui primo
+verso -- |Donne ch'avete intelletto d'amore~ -- gli flu@i
+dall'anima limpido come quel <rivo chiaro molto> lungo il quale
+gli <giunse tanta volontade di dire>, e cos@i spontaneo che la sua
+<lingua parl@o quasi come per se stessa mossa> (^V. N.~, XIX,
+1-2).  Questa canzone @e gi@a una chiara dimostrazione del suo modo
+di concepire la poesia: come schietta aderenza della parola al
+sentimento (^I' mi son un, che quando amor mi spira~...); nella
+quale aderenza il Poeta identifica la caratteristica essenziale
+dello ^stil novo~ (55-60).  Cfr. ^Inf.~, II, n. 61.
+
+	|53-54.  Amor.~  Il Poeta qui non vuole limitare
+l'argomento della poesia, ma precisare il carattere
+dell'ispirazione; che deve venire dall'animo.  <Spirazione
+d'amore: non materia accolta dal di fuori, gi@a elaborata nei
+libri e accettata passivamente per farne oggetto di puro
+virtuosismo formale; ma verit@a del sentimento d'amore, che si
+rivela in noi stessi "secundum quod cor dictat" [come dice
+Riccardo da San Vittore: ^Par.~, X, 131-2], e che la parola
+rispecchia fedelmente con immediatezza...  Una verit@a dunque
+essenzialmente psicologica, profondamente vissuta e sinceramente
+espressa...> (^M. Casella~, ^St. D.~, XVIII, 108).  -- |mi
+spira~: mi parla, mi dice -- cfr. |ditta~ (54) e ^Par.~, XIX, 25
+n. -- ma "ispirandomi", infondendomi dentro il suo afflato;
+significati che si riconnettono al lat. ^spirare.~  -- |noto~:
+noto attentamente e imprimo nell'animo.  -- |ditta dentro~: dice,
+detta (^Purg.~, XIV, 12) |dentro~ di me.  -- |vo significando~:
+esprimo.
+
+	|55-63.  O frate~ ecc.  Non solo per lo spirito di carit@a
+proprio del Purgatorio, ma anche in nome di quell'arte, che pure
+lui a suo modo ha persegu$ita e di cui @e stata rivelata ora la
+vera legge, Bonagiunta si sente "fratello" di Dante.  Egli, che
+fu cos@i lontano dall'ideale della nuova scuola, @e colpito dalla
+chiara verit@a enunciata da Dante e riconosce il valore dello
+|stil novo~ insieme alle manchevolezze sue e degli altri che
+rimasero al |di qua~ di esso (57).  E la malinconia per la
+propria inferiorit@a @e superata dalla gioia di un riconoscimento
+in cui @e il disinteresse dell'artista che vede una vittoria
+dell'arte.  -- |issa~: adesso (^Inf.~, XXIII, 7 n.).  -- |il
+nodo~: l'impedimento.  Ma @e un impedimento che lega, avviluppa
+(^Inf.~, X, 95; ^Purg.~, XVI, 24; ecc.).  Si allude al principio
+che D. ha ora esposto (52-54) e che B. e gli altri ignorarono. 
+-- |'l Notaro~: Iacopo da Lentini.  Fior@i nella prima met@a del
+'200.  Altrove (^D. V. E.~, I, xii, 8) D. ha lodato la lingua da
+lui usata, ma qui ne giudica in complesso l'arte.  -- |Guittone~:
+d'Arezzo, la pi@u cospicua personalit@a tra i rimatori rimasti al
+|di qua~ dello |stil novo~ (n. 19 e 49-51).  Mor@i nel 1294.  Cfr.
+^Purg.~, XXVI, 124 n.  -- |ritenne di qua~ ecc.: c'imped@i di
+giungere a poetare come voi dello "stil novo": ci escluse dalla
+vera poesia.  -- |come le vostre~ ecc.: come le penne |vostre~ --
+di Dante, Guido Cavalcanti e degli altri dello "stil novo" --
+seguono fedelmente il |dittator~, cio@e l'ispirazione -- qui
+^l'Amore~ (53 n.) -- ^che ditta dentro~ (54); il che certo non
+fecero le nostre "penne"; e chiunque |si mette a riguardare~ la
+questione |pi@u oltre~, al di l@a di ci@o che @e stato ora esposto,
+non vede altra differenza tra il vecchio e il nuovo stile; cio@e
+che voi seguite l'ispirazione e noi non la seguimmo.  -- |quasi
+contentato~ ecc.: come persona appagata, tacque.  |Quasi~ non
+significa "pressoch$e" ma ha valore comparativo (^Purg.~, VII, 61
+n.).
+
+	|64-69.  Come li augei~ ecc.  Il paragone delle gru --
+|li augei che vernan~, svernano (^Inf.~, XXXIII, 135; ^Purg.~,
+XXVI, 43-5), |lungo 'l Nilo~ -- ricorda quello dell'Inferno (V,
+46-49 n.), ma qui d@a rilievo solo all'immagine visiva delle
+anime.  Le quali, rallentando il passo, si erano prima aggruppate
+|a schiera~ accanto ai Poeti e poi, terminato il discorso tra D.
+e Bonagiunta, distolgono l'occhio (|viso~) da loro e |in filo~
+(^Inf.~, V, 47), l'una dietro l'altra, |raffrettano~ il passo,
+agili e rapide (|leggera~) per |magrezza~ e per il vivo desiderio
+(|voler~) di continuare la penitenza purificatrice.
+
+	|70-75.  E come l'om~ ecc.  Solo Forese, distaccandosi
+dai compagni di pena, continua a procedere a fianco di Dante
+trattenuto ancora da un ultimo, affettuoso desiderio: rivederlo. 
+E nella ansiosa domanda -- |Quando fia ch'io ti riveggia~? --
+sentiamo improvvisa la barriera che si leva tra la vita e la
+morte, tra Forese e Dante, troncando il fuggevole ritrovamento. 
+-- |trottare.~  Si usa ancora per "correre" anche riferito a
+persone.  Qui richiama pure l'andatura delle anime di ^gualoppo~
+(94); "con maggior ^valchi~" (97).  -- |passeggia~: va al passo. 
+-- |fin che si sfoghi~ ecc.: fin che perda la sua foga, si calmi
+l'ansare (|affollar~; dal lat. ^follis~ = mantice) del petto
+(|casso~: ^Inf.~, XII, 122 n.).
+
+	|76-81.  Non so quant'io mi viva~...  Non c'@e che una via
+per rivedere Forese: la morte; ma se Dante desidera di morire e
+guarda con amarezza il tempo che gli rester@a da vivere e che sar@a
+sempre troppo, non @e per un sentimentale compiacimento e per una
+imbelle rinuncia.  Quel desiderio di morire @e solo una magnanima
+protesta contro la malvagit@a che dilaga tra gli uomini e che il
+Poeta, tratto dal dolente amore per la sua citt@a, vede
+accentrarsi in essa come sempre: |per@o che 'l loco u' fui a viver
+posto, di giorno in giorno pi$u di ben si spolpa, e a trista ruina
+par disposto.~  N$e manca l'alta malinconia di un cuore che non
+regge alla visione di tanto male.
+
+	|77-78.  ma gi@a non fia~ ecc.: ma il mio ritorno qui in
+Purgatorio -- il che avverr@a ormai solo dopo la morte -- non sar@a
+(|non fia~) mai |tanto tosto~ -- per quanto io muoia presto --
+che io non sia gi@a prima col desiderio a quest'ultimo approdo
+(|riva~).  In altre parole: non morir@o mai tanto presto come
+sarebbe mio desiderio.
+
+	|79-81.  per@o che 'l loco~ ecc.: perciocch$e Firenze (n.
+76-81) sempre pi@u |si spolpa~ -- si priva, si spoglia -- |di
+bene~ e appare ormai incline a precipitare verso la peggiore
+|ruina.~  Nota la forza di |si spolpa~ che ricorda ^si dimagra~
+(^Inf.~, XXIV, 143) e che sembra suggerita dall'immagine
+dominante in questo girone di smagriti.
+
+	|82-87.  Or va; che quei che pi$u n'ha colpa~...  Come
+Firenze @e il pi@u tristo esempio della umana malvagit@a, cos@i Corso
+Donati, capo di Parte Nera e uno dei pi@u potenti avversari di
+Dante, diviene -- a giudizio del suo stesso fratello, Forese, --
+|quei che pi$u n'ha colpa~: il prototipo dei malvagi.  E la
+passione del partigiano, unita all'alto senso morale offeso, d@a
+nerbo ed ala alla fantasia del Poeta, il quale strappa Corso
+dalla storia e lo proietta nell'aldil@a in un torbido alone di
+leggenda; poich$e immagina che -- allorquando, venuto in discordia
+coi Neri e accusato di tradimento (1308), Corso fu costretto a
+fuggire e, raggiunto e caduto da cavallo, fu ucciso dagli
+inseguitori (^G. Villani~, VIII, 96) -- il cavallo lo trascinasse
+direttamente verso l'Inferno, di cui @e profilato il baratro --
+|la valle~ -- con l'eterna sofferenza di una pena che non laver@a
+mai la colpa: |ove mai non si scolpa.~  E |a coda~ il Poeta lo fa
+vedere tratto, mutando <il particolare della caduta di Corso da
+cavallo in un vero trascinamento alla coda d'una bestia, per
+assegnargli la pena dei traditori e dei micidiali> (^Barbi~,
+^Probl.~, ^I~, 250).  Quel cavaliere che ^Dino Compagni~ (^Cr.~,
+II, 20) presenta come un misto di affascinante e di diabolico,
+quel <cavaliere dalla somiglianza di Catellina romano, ma pi@u
+crudele di lui, gentile di sangue, bello del corpo, piacevole
+parlatore, adorno di belli costumi, sottile d'ingegno, con
+l'animo sempre intento al malfare>, compie qui la sua bieca
+trasfigurazione: gi@a anima d'inferno prima di morire, egli @e
+|tratto~ da una |bestia~ quasi infernale che -- in tutto il verso
+par di sentirne lo scalpito serrato -- |ad ogni passo va pi$u
+ratto~, con un crescendo di tregenda -- |crescendo sempre~ --
+finch$e non gl'inseguitori ma |ella~, la bestia stessa, fatta
+cosciente punitrice, lo |percote~ coi suoi zoccoli e cancella
+quell'obbrobrio dal mondo e |lascia il corpo vilmente disfatto~:
+sconciamente massacrato e sfigurato.  Nella medesima famiglia,
+quella dei Donati, tre fratelli, Corso, Forese e Piccarda,
+sembrano insieme rappresentare i vari aspetti dell'eterna vicenda
+umana: Corso, l'uomo della terra, tutto carne e torbida passione,
+ingoiato dall'Inferno; Forese, tra carne e spirito, tra Cielo e
+terra, in Purgatorio nello sforzo tormentoso di liberarsi dai
+vincoli del male; Piccarda, purissima creatura, in Cielo.
+
+	|82-84.  quei.~  Forese non nomina Corso "com'uom fa de
+l'orribili cose" (^Purg.~, XIV, 27) e anche per rendere pi@u
+velata di mistero la profezia; ma forse in lui, come poi in
+Piccarda (^Par.~, III, 106), si aggiunge pure il dolore di dover
+ricordare in tal modo un suo fratello.  -- |dove mai non si
+scolpa~: <ove per le pene non si purga la colpa, come nel
+Purgatorio fassi> (^Lombardi~).
+
+	|88-93.  Non hanno molto~ ecc.  Non debbono rotare a
+lungo le sfere celesti.  Infatti poco @e il tempo dal 1300 al
+1308, anno della morte di Corso.  -- |pi$u dichiarar non pote~
+ecc.: non pu@o pi@u oltre palesare, perch$e D. pu@o pur rimanere
+indietro (|ti rimani~), ma il tempo @e prezioso (|caro~) per le
+anime del Purgatorio che vogliono purificarsi al pi@u presto; e
+Forese, andando di pari passo con D., perderebbe |troppo~: una
+cosa troppo grande.  Si concilia cos@i il "volere" (69) delle
+anime con le ragioni dell'arte, che vuol lasciare in tronco la
+profezia per non squarciarne il mistero.
+
+	|94-99.  Qual esce~ ecc.  Come talvolta un cavaliere esce
+di galoppo da una schiera che stia cavalcando e va incontro al
+nemico per aver l'onore del primo scontro, allo stesso modo
+Forese si part@i da noi con passi maggiori dei nostri e io rimasi
+in cammino insieme ai |due~ -- Virgilio e Stazio -- che nel mondo
+furono personaggi cos@i illustri.  Il paragone del cavaliere d@a
+rilievo psicologico e figurativo all'atto di Forese: al suo
+"volere" (69) e a quei suoi passi, detti |valchi~ (valichi) con
+una sfumatura rappresentativa che sembra ricordare <suo passo
+|falca~> di ^Purg.~, XVIII, 94.  -- |marescalchi.~  Parola
+d'origine germanica -- che fu poi usata per un'alta dignit@a di
+corte e da cui deriva ^maresciallo~ -- presa qui nel significato
+generico di "grandi personaggi" o anche in quello di "maestri",
+derivato dal significato originario di <maestro d'armi e di
+cavalli> (cfr. ^maniscalco~).  Si veda ^R. E. W.~, 5344.
+
+	|100-105.  E quando~ ecc.  E quando Forese si fu
+inoltrato innanzi a noi nel cammino tanto che i miei occhi lo
+seguivano vedendolo ormai in modo confuso, come la mia mente
+aveva segu$ito le sue parole sulla morte di Corso, che, nella
+forma misteriosa della profezia, si presentavano avvolte in una
+specie di nebbia, |parvermi~, mi apparvero, ecc.  -- |gravidi e
+vivaci~: carichi di frutta e con verdi foglie.  Ma |gravidi~ d@a
+pi@u pieno il senso del peso, onde vedi spesseggiare e
+grandeggiare i ricchi pomi, mentre |vivaci~, richiamando il forte
+senso etimologico -- "ricco di vita" --, fa pensare alla dovizia
+della linfa che nutrisce quella massa di verde.  Anche
+quest'altro albero (^Purg.~, XXII, 130-8; XXIII, 67-9) @e visto
+nella sua bellezza ma attraverso la "brama" di quelle anime.  --
+|pomo~: albero di pomi (^Purg.~, XXIII, 34 n.).  -- |e non molto
+lontani~ ecc.: e non molto lontani da me, che non avevo potuto
+vederli prima per il fatto di essermi v@olto in l@a (|laci~: lat.
+^illac~; cfr. ^Inf.~, XIV, 84) solo allora: con lo sguardo, che
+prima era tutto concentrato verso Forese.  Sono d'accordo con chi
+intende cos@i, perch$e se l'albero fosse apparso per il fatto
+d'aver svoltato la curva del monte, dietro di essa sarebbe gi@a da
+un pezzo scomparso Forese che fugge via rapidissimo.
+
+	|106-111.  Vidi gente sott'esso alzar le mani~...  La
+brama delle anime non @e qui descritta (^Purg.~, XXIII, 61-75) ma
+rappresentata nel modo pi@u vivo: in quell'|alzar le mani~ per
+ghermire gl'inafferrabili frutti e in quelle confuse grida di
+desiderio e di preghiera |verso le fronde.~  @E il supplizio di
+Tantalo ma fatto nuovo e attuale: anche dal paragone dei
+|fantolini~, dei fanciullini, che cercano invano di afferrar cosa
+che altri tenga in alto per acuire il loro desiderio; paragone
+che si stacca con un suo tenero rilievo affettivo dal quadro
+drammatico delle anime (106-7).  -- |vani.~  La parola, che
+altrove (^Inf.~, XXIX, 122) ha indicato "semplicit@a" in senso
+cattivo, qui vuol dire: semplici, illusi, ingenui.  -- |che
+pregano~ ecc.  L'insistenza della preghiera si riflette vivissima
+nella ripetizione dell'immagine: |pregano e 'l pregato~...  --
+|lor dis$io~: la cosa desiderata.  Ma Dante, trasferendosi tutto
+nell'animo dei |fantolini~, vede solo il |dis$io~ che @e "tenuto
+alto" insieme a quegli accesi occhi cercanti.
+
+	|112-114.  Poi si part$i~ ecc.  Poi quella "gente" si
+allontan@o come delusa e rassegnatamente convinta di non poter
+prendere ci@o che credeva; e cio@e quei frutti.  -- |adesso~:
+subito.
+
+	|115-120.  Trapassate~ ecc: Siccome questo albero deriva
+(|si lev@o~) da quello della scienza del bene e del male (|legno @e
+pi$u su~ ecc.) di cui Dio aveva vietato di mangiare i frutti
+(^Genesi~, II, 17), l'ignota voce che viene di |tra le frasche~
+(^Purg.~, XXII, 140) invita a passare standone lontani.  -- |pi$u
+su~: nel Paradiso Terrestre (^Purg.~, XXXII, 37 sgg.).  --
+|ristretti~: ecc.: stretti insieme, procedevamo accanto alla
+costa, che @e il |lato che si leva~, sale.
+
+	|121-129.~  ^Esempi di golosit@a punita.~  L'ignota voce
+(118) ora accenna esempi di golosit@a punita; ma Dante ne ricorda
+due soli -- uno tolto dal mito classico, uno dalla Bibbia --,
+sottintendendo gli altri (128-9); e i due sono stringatamente e
+puramente informativi.  Il motivo degli esempi gridati in modo
+misterioso qui appare in tutta la sua stanchezza e torna per
+semplice necessit@a di rispondenza strutturale con altri gironi.
+
+	|121-123.~  Il primo esempio @e quello dei Centauri, dei
+|maladetti~ -- per la loro cruda bestialit@a -- |nei nuvoli
+formati~ (^Inf.~, XII, 56 n.) i quali, invitati dai Lapiti alle
+nozze di Pir$itoo con Ippodamia, avendo mangiato e bevuto
+smisuratamente -- |satolli~ li mostra sazi come bestie --
+tentarono poi di rapire le donne, onde furono vinti e molti
+uccisi da Teseo.  -- |doppi petti~: umani ed equini.  Vedi meglio
+il fiero ostacolo incontrato da Teseo.
+
+	|124-126.  e de li Ebrei~ ecc.  E vi sovvenga
+(|ricordivi~) degli Ebrei ecc.  Si allude a quegli Ebrei che,
+seguendo Gedeone contro i Madianiti, giunti alla fonte di Arad,
+s'inginocchiarono per bere meglio, onde -- rispetto ad altri
+trecento, che furono poi i prescelti -- si mostrarono |molli~ --
+amanti dell'agio e ingordi -- e, secondo il volere divino, furono
+esclusi dall'impresa (^Giudici~, VII, 4-7).  -- |discese i
+colli.~  Quei di |Madian~ erano nella valle, al disotto degli
+Ebrei.
+
+	|127-132.  vivagni~: margini, orli (120 e ^Inf.~, XIV,
+123 n.).  -- |miseri guadagni~: danni e castighi.  --
+|rallargati.~  Prima si erano stretti l'uno all'altro (119).  --
+|sola~: solitaria, poich$e le anime erano passate oltre.  --
+|contemplando~ ecc.: ciascuno di noi essendo silenziosamente e
+profondamente assorto nella meditazione di ci@o che aveva l@i visto
+e udito. Meditazione che per D. @e ^contemplazione.~
+
+	|133-135.  sol tre~: voi tre soli; invece le anime vanno
+in schiera (^Purg.~, XXIII, 21).  Altro esempio di "rima
+composta" (^Inf.~, VII, 28 n.).  -- |poltre.~  Alcuni -- non
+senza antichi esempi -- intendono: ^polledre~, cio@e "giovani, non
+dome" e quindi: facili a risentirsi; altri: "che riposano
+tranquille, che poltriscono".  L'ultima interpretazione sembra la
+pi@u adatta sia per la graduazione dei significati -- <spaventate
+mentre riposano tranquille> @e assai pi@u coerente che <spaventate
+e giovani (o simili)> --, sia per aderenza allo stato di Dante
+che @e spaventato mentre @e immerso nella tranquilla astrazione dei
+suoi pensieri (132).
+
+	|136-144.  fossi~: fosse (^Inf.~, IV, 64).  -- |vidi un.~ 
+@E l'angelo della temperanza, custode del girone, il quale appare
+pi@u fulgente che |vetri o metalli~ mentre si fondono, s@i che
+abbaglia, toglie la possibilit@a di vedere (142).  -- |si convien~
+ecc. = @e necessario voltare: verso la scala per salire al
+successivo girone.  -- |quinci~ ecc.: di qui si va se si vuole
+andare ad acquistar la pace del Cielo.
+
+	|145-150.  E quale, annunziatrice de li albori~... 
+L'angelo della temperanza, "ventilando" con l'ala la fronte del
+Poeta, ne toglie un altro dei setre ^P~: quello che simboleggia
+il peccato della gola.  Ma nella descrizione di Dante che ventata
+di primavera entra nel Canto degli smagriti!  Chiarit@a mattinale
+-- |annunziatrice de li albori~ -- visione di |maggio~, dolcezza
+d'un'|aura che movesi ed olezza tutta impregnata da l'erba e da'
+fiori.~  Ma la gioiosa folata primaverile sembra penetrare anche
+nella struttura dei versi, sfumando e colorendo i suoni in
+improvvise dolcezze e dando al ritmo un molle abbandono, che si
+prolunga nella seconda terzina di cui distende il primo verso nel
+seguente -- |tal mi senti' un vento dar per mezza la fronte~ --
+con un ondante trasognamento che ricorda non poco i vv. 7-8 del
+XXVIII del Purgatorio.  Il Poeta @e tutto teso a ^sentire~ -- |mi
+senti'~... |ben senti'~... |fe' sentir~... -- e s'incanta al
+soave |vento~ dell'angelica |piuma~ -- com'@e lieve quest'ala! --
+che lo sfiora appena (^Purg.~, XVII, 67 n.).  E quella |piuma~
+spira una paradisiaca ebbrezza di profumo, la cui immagine @e
+tutta assaporata -- si noti il peso della dieresi -- in un verso
+trasognatamente scandito: |che fe' sentir d'ambros,ia l'orezza.~
+
+	|150.  che fe' sentir~ ecc.: la quale fece s@i che
+|l'orezza~, l'auretta (^Purg.~, I, 123; ^Inf.~, XVII, 87, nn.),
+|sentisse~ -- avesse il sentore, l'odore -- dell'|ambrosia~,
+fragrante cibo o unguento degli dei.
+
+	|151-154.  senti'.~  Torna il verbo dominante nella
+terzina precedente sebbene con diversa sfumatura di significato. 
+-- |dir~: dall'angelo.  -- |Beati~ ecc.  Beati coloro a cui
+splende tanta grazia divina (lett.: coloro i quali t. g. d.
+illumina) che l'amore ai piaceri della gola |non fuma~, non
+vapora, non infonde, |nel petto loro~ un eccessivo desiderio,
+appetendo essi (|esuriendo~: dal lat. ^esurire~) |sempre quanto @e
+giusto~; espressione che sembra richiamare il senso del limite
+non nel solo appetito della gola, ma in tutti gli umani appetiti. 
+Con |esur,iendo~ ecc. l'angelo si riferisce alla 4+a~ beatitudine
+evangelica (^Purg.~, XXII, n. 1-6); ma, mentre l'angelo del
+girone precedente ha ricordato il ^Beati qui sitiunt iustitiam~,
+questo sostituisce, a ^sitiunt~, ^esuriunt~ (^l. c.~).

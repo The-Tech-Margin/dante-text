@@ -1,0 +1,108 @@
+head     1.1;
+access   ;
+symbols  ;
+locks    ;
+comment  @# @;
+
+
+1.1
+date     86.03.12.15.13.58;  author dante;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@Shell script to download Unix files to the Rainbow using Mlink.
+@
+
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh
+
+# Download files to the Rainbow
+
+set HARDDISK=E
+set BATCH=down.bat
+set MLEXEC=mlink.exec
+set SUFFIX=s
+set RUNMLINK="/people/cmi/bin/mlink console e $MLEXEC"
+set MLCMD=ST
+set UTMP="${HARDDISK}:/tmp/"
+set UBIN="${HARDDISK}:/bin/"
+set PAUSECMD="pause Insert next floppy"
+@@ MAXFLOPPY = 393000
+
+# CHARRATE is the average number of characters per minute transferred.
+@@ CHARRATE = 105 * 60
+
+if ("$1" != "") then
+	set sources=($*)
+else
+	echo -n 'Enter source file names - '
+	set sources=(`eval echo $<`)
+endif
+
+echo -n 'Download to which drive [e,a,b] - '
+set drive=$<
+if ($drive == E || $drive == e) then
+	set drive
+else
+	set drive="${drive}:"
+endif
+
+echo -n 'Cantica abbreviation for downloaded filenames [inf,purg,para] - '
+set cantica=$<
+
+echo -n 'Commentary abbreviation for downloaded file extensions [dan,bos,etc.] - '
+set commentary=$<
+
+# Initialize the mlink transfer exec file and the micro's batch file.
+
+rm -f $BATCH
+echo "$MLCMD $BATCH ${UBIN}$BATCH" >! $MLEXEC
+
+echo ""
+echo 'The following files will be downloaded...'
+@@ curfloppy = 0
+@@ totalchars = 0
+foreach s ($sources)
+	set d="${cantica}`basename $s .${SUFFIX}`.${commentary}"
+	echo $s "	-> " $d
+	set wcout=`wc -lc $s`
+	@@ filelen = $wcout[1] + $wcout[2]
+	@@ totalchars += $filelen 
+	if ($drive != "") then
+		if ($curfloppy + $filelen >= ${MAXFLOPPY}) then
+			echo "${PAUSECMD}" >> ${BATCH}
+			echo "(End of floppy disk)"
+			@@ curfloppy = 0
+		endif
+		@@ curfloppy += $filelen
+	endif
+	echo "${MLCMD} $s ${UTMP}$d" >> ${MLEXEC}
+	echo "display -f ${UTMP}$d ${UTMP}T$d" >> ${BATCH}
+	echo "copy ${UTMP}T$d ${drive}$d -a -v" >> ${BATCH}
+	echo "del ${UTMP}T$d" >> ${BATCH}
+end
+
+echo ""
+echo -n 'Type y to continue - '
+if ("$<" != "y") exit
+
+@@ totalchars /= $CHARRATE
+echo "Expected running time - $totalchars minutes."
+date
+echo ""
+echo -n "Hit RETURN to begin transfer "
+set junk=$<
+$RUNMLINK
+date
+
+echo ""
+echo "Now run DOWN on the Rainbow."
+@

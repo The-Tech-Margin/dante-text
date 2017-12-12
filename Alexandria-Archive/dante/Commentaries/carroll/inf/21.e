@@ -1,0 +1,553 @@
+	|Proemio.~  We have now before us the long, hideous, and
+grotesque narrative, the reading of which seems almost to leave
+the stain of its defilement on the mind.  When we turn to the
+interpretation, the difficulty lies in the multiplicity of the
+meanings which Dante has woven together almost inextricable.  Let
+us begin be examining the form of this `Pantomime of Hell,' as
+one has called it.  It was probably suggested by the
+morality-plays of the Middle Ages, if not, indeed, as many think,
+by one in particular.  In the ^Chronicle~ of Villani we have the
+record of an extraordinary `morality' performed on the river Arno
+in 1304, which may well have been in Dante's mind.  The
+inhabitants of a certain quarter of Florence, we read, `sent
+forth a proclamation that whosoever desired news of the other
+world should come on the first day of May upon the Carraia
+Bridge, and beside the Arno; and the erected upon the Arno a
+theatre upon boats and vessels, and thereupon they made the
+similitude and figure of hell, with fires and other pains and
+sufferings, with men disguised as demons, horrible to behold, and
+others which had the appearance of naked souls, which seemed to
+be persons, and they were putting them to the said divers
+torments, with loud cries, and shrieks and tumult, which seemed
+hateful and fearful to hear and to see; and by reason of this new
+pastime there came may citizens to look on, and the Carraia
+Bridge, which then was of wood from pile to pile, was so burdened
+with people that it gave way in many places, and fell with the
+people which were upon it, wherefore many were killed and
+drowned, and many were maimed; so that the pastime from sport
+became earnest, and, as the proclamation had said, many by death
+went to learn news of the other world, with great lamentation and
+sorrow to all the city, for each one believed he must have lost
+his son or his brother there; and this was a sign of future ill,
+which in a short time should come to our city through the
+exceeding wickedness of the citizens, as hereafter we shall make
+mention' [^Villani~, viii. 70].  It is far from unlikely that
+this grotesque morality-play on the Arno was in Dante's mind when
+he wrote this part of the ^Inferno~, particularly as there are
+other things, to be explained later on, which appear to connect
+this Moat with Florence in a peculiar way.
+
+
+	|1-3.~  1. ^The Narrative~
+
+	Talking of things `of which,' says Dante, `my
+Comedy cares not to sing,' the two pilgrims pass downward from
+the fourth bridge to the fifth, which spans the Moat of the
+Barrators.  Barratry has several meanings.  It was sometimes used
+as a synonym for Simony.  In old Scots Law it is the taking of
+bribes by judges; but here it has the wider meaning of using any
+public office or position of trust for purposes of fraudulent
+gain -- trafficking in justice, office, or employment.  It is
+therefore in the State what Simony is in the Church, and we may
+guess the depth of Dante's hatred of it partly by the large space
+he devotes to it -- nearly two and a half cantos  -- and partly
+by the coarseness and grotesquery with which he holds it up to
+abhorrence and contempt.  We shall first give the narrative of
+Dante's adventures in this Bolgia, and then attempt some
+interpretation of them.
+
+	|6-8.~  The Moat, says Dante, as he gazed down on it from
+the bridge, was `marvellously dark' -- literally pitch-dark
+indeed, for it was filled with pitch.  He could discern nothing
+but the bubbles which rose and fell with the boiling of the black
+canal; and the sight reminded him of the cauldrons of boiling
+pitch which he had seen in the famous Arsenal of Venice, where
+its merchants re-caulked their ships to fit them for new voyages.
+
+	The symbolism of the pitch is comparatively easy and
+simple.  It is generally agreed that it represents the clinging
+and defiling power of money, when men stoop to gain it by the
+fraudulent use of positions and offices of public trust.  Perhaps
+Ruskins's way of putting it is the most interesting: `This lake
+of pitch is money, which, in our own vulgar English phrase,
+"sticks to people's fingers"; it clogs and plasters its margin
+all over, because the mind of a man bent on dishonest gain makes
+everything within its reach dirty; it bubbles up and down,
+because underhand gains nearly always involve alternate
+excitement and depression; and it is haunted by the most cruel
+and indecent of all the devils, because there is nothing so mean,
+and nothing so cruel, but a peculator will do it' [^Fors
+Clavigera~, Letter xviii. p. 12.].
+
+	Another obvious element in this punishment of the pitch
+is one which exists more or less in every Circle of the lost,
+namely, darkness.  When, for example, the Alderman from Lucca
+rose after his plunge in the black river, the demons from under
+the bridge thrust him down with their hooks, crying,
+
+     `It here behoves thee to dance covered,
+     That, if thou canst, thou secretly may'st pilfer.'
+
+As on earth these Barrators had wrought their frauds in secret,
+loving the darkness because their deeds were evil, now they shall
+have enough of it.  A lifetime of dark and underhand dealing and
+violation of public trust, such as these men were guilty of,
+produces a deep and terrible moral blindness from which escape is
+impossible: the demons of their own habitual evil stand on the
+banks and violently thrust them down.  Dante saw in this
+particular form of fraud the most blinding of all sins; others
+do, indeed, darken the air, and one even plunges into a black
+mire, but this produces pitch-darkness from which the soul never
+escapes -- it has become its eternal element and portion.
+
+	It is not so easy to say what is represented by the
+boiling of the pitch.  If the souls here could be supposed to
+have a touch of nobleness left, it might mean the torment of
+shame -- the agony of having the fair and honourable reputation
+which they once bore strippd off, and themselves revealed as men
+who vilely abused the high posts of power and office with which
+their fellow-men had intrusted them.  One remembers the disgrace
+and fall of a man like Francis Bacon, and the burning, defiling
+pain it must have been to make public confession of this very sin
+of barratry: `I beseech your Lordships to be merciful to a broken
+reed.'  Shame like this can hardly have existed here, for the
+very capacity of such feeling would probably carry within it some
+power of repentance and salvation.  It is much more likely,
+therefore, that Dante has in view pain of another kind, of which
+we have many hints in the ^Inferno~ -- the torment of the evil
+desires and habits of a lifetime suddenly dammed-up by death,
+denied an outlet, and for ever turned back upon the soul in a
+baffled, impotent longing.  Doubtless these Barrators were as
+dead to shame as the fiends who preyed upon them; but they were
+only too keenly alive to the loss of all the worldly possessions
+for which they had sinned away their souls, the loss too of every
+opportunity of pursuing their old fraudulent career, the only one
+they were not fit for.  Dante tells how the two old rogues from
+Sardinia talk over their former frauds, as old soldiers re-fight
+their battles: if it eased thir pain to go over them in memory,
+it probably also increased it by reminding them that the old lust
+of the world and the old cunning, fraudulent power to gain it,
+which still burned within them, were now doomed to find no outlet
+and field for ever.  Death had outdone them at their own game,
+and played a finer trick on them than any they had ever played on
+their fellows.  The pain, then, of the boiling pitch may well
+represent the agony of knowing that they have lost at one cast
+their souls and the prize for which they staked them, that no
+fraud they ever practised on their fellow-men is so great as that
+with which they cheated themselves, and that now all outlet and
+field is for ever denied to that one master vice to which they
+have narrowed down their whole life and being.
+
+	|23.~  Suddenly Virgil caught his companion and drew him
+to himself, crying `Take care, take care!' 
+
+	|29-42.~  Turning his startled eyes, Dante sees `a black
+devil', who, `with open wings and light upon his feet', rushes
+upon the bridge and flings into the river of pitch below a sinner
+whom he carried on his shoulders `clutched by the sinews of the
+feet', crying,
+
+                `O Malebranche of our bridge,
+     Behold one of the Elders of Santa Zita;
+     Plunge him beneath, for I return for others
+     To that city which I have well furnished with them:
+     Every one there is a barrator, except Bonturo:
+     No into Yes for money there is changed.'
+
+     [The `Elder' is said to have been one Martino Bottaio, who
+     died in 1300.]
+
+Malebranche means Evil-claws, and is the general name of all the
+demons who infest this Moat.  
+
+	Still further, they receive from the demons who patrol
+the banks precisely the same treatment as they gave to their
+fellow-men on earth.  When the fiends lie in ambush under the
+bridge and among the rocks that they may surprise and hook the
+unwary, the obvious meaning is that Barrators receive back in
+kind the frauds and cruelties they had practised upon other. 
+Just so had they lurked for the unwary, caught them in their
+toils, tortured them without mercy; and now with what measure
+they meted to others, it is measured to them again.  As one says,
+they had `skinned' others, now they themselves are skinned.
+
+	In short, the demons are the infernal image of the sin of
+Barratry, and, revolting as they are, it may be worth while to
+examine them more closely that we may understand Dante's estimate
+of the vice.  To begin with, these fiends are a dreadful mingling
+of the diabolic and the brute.  Their general title is
+Malebranche, which means Evil-claws.  Twelve are named, and
+although in some cases the meaning of the names is uncertain, in
+others the obvious reference is to their resemblance to certain
+wild and ferocious beasts: such as Cagnazzo, Dog-face;
+Draghinazzo, Dragon-face; Ciriatto, Swine-face; and Graffiacane,
+Scratch-dog [The names of the twelve are as follows:
+
+     1. Malacoda.      7. Libicocco.
+     2. Scarmiglione.  8. Draghinazzo.
+     3. Barbariccia.   9. Ciriatto.
+     4. Alichino.     10. Graffiacane.
+     5. Calcabrina.   11. Farfarello.
+     6. Cagnazzo.     12. Rubicante.
+
+The last ten form the escort sent with the two travellers by the
+captain, Malacoda].  They represent Dante's estimate of Barratry:
+it is a diabolic sin, brutal in its cruelty.  Further, it is as
+cunning as it is brutal.  It lurks in secret places; it has hooks
+to catch its victims, and wings to swoop down on them if they
+attempt to escape.  It knows well how to use words with a secret
+meaning, as when Malacoda instructed the escort to have the
+travellers in safety as far as the next unbroken bridge, knowing
+perfectly that no such bridge existed.  It has every kind of
+knowledge at its command that may serve its fraudulent purposes:
+who, for example, could have expected Malacoda to know the date
+of the Crucifixion to an hour?  Yet the knowledge has its use,
+and is cunningly put forward to create confidence in his other
+statements.
+
+	It is perhaps natural that readers should be somewhat
+scandalized by the grotesqueness and grossness of the fiends; but
+we may be sure that when a man like Dante writes deliberately as
+he does in these Cantos, he has a meaning and a purpose.  His aim
+is partly to show his utter contempt for this sin; and partly to
+declare his conviction that this grossness and indecency are of
+the very essence of the vice.  He distinctly disclaims
+responsibility for such companions:
+
+     We went upon our way with the ten demons;
+     Ah savage company! but, in the church
+     With saints, and in the tavern with the gluttons!
+     [^Inf.~ xxii. 13-15.]
+
+In other words, he did not create the fiends, he found them
+there, and a man cannot always choose his company.  If they are
+gross, it is because the sin of which they are the image is
+gross, an outrage upon public decency.  The betrayal of public
+trusts for gain is a thing so foul that it changes a man into a
+demon who will shrink from nothing mean, base, or degrading in
+pursuit of his ends.  Ruskin rightly defends this passage on the
+ground that `it is not possible to express intense wickedness
+without some condition of degradation.'  The passage, though
+long, is worth quoting in full.  `Malice, subtlety, and pride, in
+their extreme, cannot be written upon noble forms; and I am aware
+of no effort to represent the Satanic mind in the angelic form
+which has suceeded in painting.  Milton succeeds only because he
+separately describes the movements of the mind, and therefore
+leaves himself at liberty to make the form heroic; but that form
+is never distinct enough to be painted.  Dante, who will not
+leave even external forms obscure, degrades them before be can
+feel them to be demoniacal; so also John Bunyan: both of them, I
+think, having firmer faith than Milton's in their own creations,
+and deeper insight into the nature of sin.  Milton makes his
+fiends too noble, and misses the foulness, inconstancy, and fury
+of wickedness.  His Satan possesses some virtues, not the less
+virtues for being applied to evil purpose.  Courage, resolution,
+patience, deliberation in counsel, this latter being eminently a
+wise and holy character, as opposed to the "Insania" of excessive
+sin: and all this, if not a shallow and false, is a smoothed and
+artistical, conception.  On the other hand, I have always felt
+that there was a peculiar grandeur in the indescribable
+ungovernable fury of Dante's fiends, ever shortening its own
+powers, and disappointing its own purposes; the deaf, blind,
+speechless, unspeakable rage, fierce as the lightning, but erring
+from its mark or turning senselessly against itself, and still
+further debased by foulness of form and action.  Something is
+indeed to be allowed for the rude feelings of the time, but I
+believe all such men as Dante are sent into the world at the time
+when they can do their work best; and that, it being appointed
+for him to give to mankind the most vigorous realization possible
+both of Hell and Heaven, he was born both in the country and at
+the time which furnished the most stern oppostion of Horror and
+Beauty, and permitted it to be written in the clearest terms. 
+And, therefore, though there are passages in the ^Inferno~ which
+it would be impossible for any poet now to write, I look upon it
+as all the more perfect for them.  For there can be no question
+but that one characteristic of excessive vice is indecency, a
+general baseness in its thoughts and acts concerning the body,
+and that the full portraiture of it cannot be given without
+marking, and that in the strongest lines, this tendency to
+corporeal degradation; which, in the time of Dante, could be done
+frankly, but cannot now.  And, therefore, I think the
+twenty-first and twenty-second books of the ^Inferno~ the most
+perfect portraitures of fiendish nature which we possess; and, at
+the same time, in their mingling of the extreme of horror... with
+ludicrous actions and images, they present the most perfect
+instances with which I am acquainted of the terrible grotesque'
+[^Stones of Venice~, vol. III. chap. iii. {paragraph} liii.].
+
+Santa Zita is the patron saint to Lucca, and the Elders or
+Ancients are the magistrates of that city, corresponding to the
+Priors of Florence.  The exception of Bonturo Dati is ironical,
+for, if the early commentators are to be believed, he was the
+arch-barrator of the city, and managed nearly all its offices for
+his own profit.  `No into Yes for money there is changed' may
+mean that judges and magistrates at first refused men's suits and
+afterwards granted them on payment of the desired bribe, but it
+is said to have had a more specific reference.  In the Council of
+Lucca the votes were taken by urns, one for the Ayes, the other
+for the Noes, and the accusation is that the votes were cast into
+one or other according to the bribe.  It has been suggested that
+in calling Lucca `Santa Zita,' Dante is sneering at that city for
+having chosen a servant-maid as its patron saint, but this is a
+total misunderstanding of the very spirit of the poet.  He is
+indeed sneering, but it is not at the poor servant-girl.  His
+reason for naming her is undoubtedly to draw a contrast between
+her faithfulness in her humble position of trust and the
+unfaithfulness of these magistrates to their higher duties and
+responsibilities.  Zita was a servant in the same family for
+nearly fifty years, and her master had such confidence in her
+integrity that he intrusted his whole household to her, giving
+her liberty to distribute alms to the poor out of his bounty at
+her own pleasure.  Yet here are the magistrates of the city which
+had chosen this faithful servant-girl as its patron saint so
+unfaithful to their higher trust that this `black devil' is kept
+busy carrying them to the river of pitch, which is the image of
+their sin!  [Zita died about 1275, and was canonized by Nicholas
+III., the Pope who `pocketed himself' in the `pouch' of the
+Simoniacs (^Inf.~ xix. 72)].  
+
+	|43-45.~  With a fiendish joy in his infernal task he
+rushes back to Lucca for another load:
+
+     Never was a mastiff loosened
+     With so much hurry to pursue a thief.
+
+This, indeed, is the mark of the diabolic spirit -- delight in
+the perdition of men -- just as joy in their salvation is the
+sign of the angelic.  We read, for example, of a like haste on
+the part of the angel who ferried the souls across to Mount
+Purgatory: the moment he landed his passengers he `departed
+swiftly as he came,' eager to bring another load.
+
+	|48-57.~  When the Alderman of Santa Zita rose, face
+downward, in the boiling pitch, the demons who had been lurking
+under the bridge in wait for such sinners rushed at him and beat
+him down `with more than a hundred rakes,' as scullions with
+their hooks thrust down the meat in the cauldron, crying,
+
+            `Here the Santo Volto has no place!
+     Here one swims otherwise than in the Serchio:
+     Therefore if for our hooks thou wishest not,
+     Do not uplift thyself above the pitch.
+     ...It here behoves thee to dance covered,
+     That, if thou canst, thou secretly may'st pilfer.'
+
+The Serchio is the river on which Lucca stands, and a favourite
+bathing-place of the citizens.  The ^Santo Volto~ or Holy Face is
+a famous crucifix still preserved in the Cathedral of that city. 
+The legend is that it was carved out of cedar-wood by Nicodemus,
+the face, which he had not dared to attempt, being finished by an
+angel while he slept.  In 782 it was floated miraculously to the
+shores of Italy not far from Lucca, and its fame spread even to
+our own distant island.  William Rufus swore habitually `by the
+Holy Face of Lucca', and it is said that in the old London Church
+of St. Thomas there was an effigy of it.  When this Alderman of
+Lucca rises from his plunge into the pitch `doubled up', the
+demons humorously affect to believe that he is the attitude of
+prayer, and mock him with the cry that here there is no Holy Face
+to invoke, as his custom was on earth.  Dante is said to have
+lived in Lucca in 1314, and probably it was then that he learnt
+the corruption of its magistrates, and indeed of the whole city.
+
+	|58-63.~  At this point Virgil thinks it prudent to
+conceal Dante among the rocks of the bridge above, while he
+descends into the Moat to hold parley with the fiends.  He warns
+him not to fear anything that may happen to himself, as he has
+been in a similar affray before and understands how to conduct
+it.  The reference is perhaps to the former journey which he had
+made through Hell [^Inf.~ ix. 22-24]; or he may be speaking in
+his purely allegorical character of Reason, which knows by
+experience how to meet such a sin as this and overcome it. 
+
+	|64-78.~  The moment Virgil appears, the fiends with a
+roar of fury rush at him like dogs upon a beggar, but his
+resolute front daunts them.  He orders them to stand while one of
+their number comes forth to speak with him; whereupon their
+chief, Malacoda, advances, saying `What will it avail him?' 
+
+	|79-105.~  Virgil warns him not to oppose the Divine will
+which has ordained that he show another `the savage way'; and so
+humbles his arrogance that his grapnel drops from his hand.  He
+than calls to his companion to come out of his hiding-place among
+the rocks and join him.  Dante immediately rushes to his side for
+safety; but the demons gather round with such cries and
+threatenings of their hooks that his own terror reminds him of
+how he once beheld the garrison of Caprona march out, when the
+fortress was taken, with glances of fear as they passed through
+the ranks of their victorious foes, lest they should break the
+treaty of surrender and slay them on the spot.  Malacoda,
+however, restrains his fiends for the moment. 
+
+	|106-117.~  With a show of kindness he offers the
+travellers an escort as far as the next bridge over the sixth
+Moat, that of the Hypocrites, giving as his reason that the
+bridge at the point where they now stood was broken down:
+
+                     `You can no farther go
+     Forward upon this crag, because is lying
+     All shattered at the bottom, the sixth arch;
+     And if it still doth please you to go onward,
+     Pursue your way along upon this ridge;
+     Near is another crag which yields a path.
+     Yesterday, five hours later than this hour,
+     One thousand two hundred and sixty-six years
+     Completed were since here the way was broken.'
+
+The reference is to the earthquake of the Crucifixion which
+ruined the pathway that descends to the Circle of Violence, and
+shook down the bridges over the Moat of the Hypocrites.  Malacoda
+knows the date to the hour.  Dante tells us in the ^Convito~ that
+Christ died in His thirty-fourth year, and this added to 1266,
+brings us to 1300 -- the ideal date of the poem [^Conv.~ iv. 23]. 
+In the same passage he says that, according to St Luke, our Lord
+died at the sixth hour of the day, that is, at twelve o'clock
+noon; it was therefore seven o'clock in the morning of Easter Eve
+in the year 1300, when Malacoda spoke these words.  Doubtless
+this show of minute accuracy was intended to deceive the
+travellers by inspiring them with confidence in his other
+statements.  For his information about the bridges contains just
+that cunning admixture of truth and falsehood which is natural in
+a past-master of barratry.  It was indeed true that the bridge
+over the next Moat was broken down at this particular point; but
+it was ^not~ true that by going farther round this valley they
+would find another bridge unbroken, as Malacoda promised them. 
+^All~ the bridges over the Moat of the Hypocrites had been shaken
+down by the earthquake, as Virgil to his indignation discovered
+when he reached it.  In short, the obvious intention of Malacoda
+is to retain the strangers in his territory by this fiction of an
+unbroken bridge farther on, in the hope that some lucky chance
+would place them in the power of his fiends.
+
+	|118-126.~  For this purpose, under the pretence of
+patrolling the banks of the canal, he detailed ten of them under
+a `decurion' or lieutenant, named Barbariccia, to act as escort;
+and his command,
+
+     `Let these be safe as far as the other ridge
+     Which all unbroken goes across the dens',
+
+     [The names of the fiends are given {at vv. 29-42}.]
+
+was in reality a secret order to destroy them if they could,
+since there was no `other ridge' that was `all unbroken'.  The
+demons show that they understand the true meaning of their
+instructions, for `each presses his tongue between his teeth
+toward their leader for a signal.' 
+
+	There is another aspect of these demons which is seldom
+noticed, and yet can scarcely be accidental.  I refer to the
+discipline, authority, and government which exist among them. 
+Twelve demons are named, and Malacoda is their captain.  He
+singles out ten as escort, and appoints Barbariccia as
+`decurion.'  The discipline is wonderful, when we remember the
+brutal, fiendish nature of the company.  At given signals they
+move off like soldiers, and on the whole, however sullenly, they
+obey the orders of their officers.  When two of them quarrel over
+the escape of a victim (as barrators often do), their comrades
+fly to separate them and drag them out of the pitch.  This
+discipline and obedience to authority cannot be accidental.  From
+the moral side it probably means that Barratry is usually carried
+on by several men in a conspiracy and working to one another's
+hands; that they are controlled by some master mind who uses the
+others as his tools; and that all quarrels among themselves are
+promptly suppressed lest the whole scheme of villainy should be
+ruined.  Even a band of brigands cannot hold together and be
+successful in its robberies, unless some respect is paid to
+authority and discipline.  One cannot help suspecting, however,
+that Dante has in all this a political meaning.  We must remember
+that Barratry is to the State what Simony is to the Church, and
+in placing it in a lower Moat we see that he regarded it as a
+deeper sin [just as, on the other hand, in the ^Paradiso~
+Righteous Rulers of the State are set two Heavens higher than
+Theologians and Fathers of the Church].  Now, in the Moat of the
+Simoniacs, we saw an infernal caricature of Apostolic Succession,
+a grotesque inversion of Church order and government.  Here we
+have the same idea carried out.  Barratry is the fraudulent use
+and sale of offices and employments of public trust, and
+therefore the subversion of the entire meaning and purpose of
+civil government.  The men who are guilty of this use the
+authority and discipline originally meant for the safety and
+well-being of their fellows precisely as these fiends do -- for
+their ruin and torture.  The discipline of the demons, therefore,
+is the hellish caricature and parody of civil government, as the
+non-Apostolic Succession of the Simoniacs is that of
+ecclesiastical.
+
+	One last point.  It is impossible to read these Cantos
+without the growing conviction that Dante has some peculiar
+personal interest in this Moat.  It is the only place in Hell in
+which he was in actual personal danger, and this must refer to
+the fact that one of the charges on which he was banished from
+Florence was this very sin of Barratry -- the misuse of public
+money during his magistracy.  We cannot be far wrong if we see in
+his adventures with the fiends the story of his treatment at the
+hands of his countrymen; and in the way in which he brands the
+crime with infamy and indecency his indignant denial of guilt,
+just as Virgil cleared himself of the charge of wizardry in the
+Moat of the Diviners.  If we thus connect it with Dante's
+fortunes, it gives significance to several points in the story
+which seem otherwise inexplicable.  Take, for example, the names
+of the twelve fiends.  It is extremely difficult to give any
+convincing explantion of them; but if the ingenious suggestion of
+Gabriel Rossetti is accepted, the general meaning would at once
+become clear.  According to Rossetti, the whole scene in this
+Moat is a kind of infernal parody of the extraordinary morality
+play performed on the Arno on May-day, 1304, the account of which
+has been already quoted from Villani.  Further, Rossetti says
+that when in 1300 Cardinal Acquasparta was sent to Florence to
+make peace between the Blacks and Whites, there were twelve
+Priors of the city, and also that twelve representatives of the
+party of the Blacks were elected to treat with the Cardinal.  The
+suggestion is that the names of the twelve demons are simply
+parodied from those of the twelve Priors or of the twelve Blacks. 
+`One name may recall the face of one of them, another may refer
+to some habit or custom of another....  There may be some
+corroboration of his idea, Rossetti thinks, in the fact that at
+the time of the entrance of the Cardinal into Florence ^Manno
+Branca~ was Podest@a; and from his name people may have got to
+call the magistrates under his sway ^Malebranche.~  If one
+remembers that the ^gonfaloniere di giustizia~, or corporal of
+the city, at that time was ^Jacopo Ricci~, one may be able to
+understand how the corporal of the band of ten demons came to be
+called ^Barbariccia.~  If one remembers that one of the ^Priori~
+at the same time was one of the ^Raffacani~, one may see from
+whence was bestowed on Hell the gift of the demon ^Graffiacane.~ 
+^Rubicante pazzo~ may have been the nickname of Pazzin' de'
+Pazzi, who may have been rubicund in the face, with red hair.' As
+Dr. Moore says, `it might well result that, in spite of its
+present obscurity, the whole travesty might have been
+transparently obvious and irresistibly telling when the names and
+incidents were fresh in men's minds' [Vernon's ^Readings~, ii.
+180-181; Moore's ^Studies in Dante~, 2nd Series, 231-235].  The
+most interesting thing, however, about this ingenious conjecture
+is the significance it would give to Dante's own danger in this
+Moat.  When we remember how Virgil at the outset hid him among
+the rocks of the bridge; how the moment he appeared the fiends
+tried to get him into their hands; and finally how he had to save
+himself from their malice by flight: it is difficult to believe
+that Dante is not describing the plots of his enemies in Florence
+to seize and punish him for this same sin of Barratry, -- the
+very sin, he here declares, of which they themselves are guilty. 
+For example, it has been asked why Dante did not return to
+Florence and face this charge: is not his absence proof of his
+guilt?  The answer which I understand him to give in the story of
+his adventures with the demons is that he had no hope of justice. 
+The men who sought to get him into their hands were, like these
+fiends, so cruel and treacherous as to be beyond the reach of
+reason.  From such intensity of malice the only wisdom, even for
+an innocent man, is concealment and flight.  Hence it is that
+Virgil, who is Reason personified, counsels him to hide, and at
+last is forced to snatch him up and flee from his pursuers.  This
+flight is neither cowardice nor an acknowledgement of guilt, but
+simple prudence.  Dante knew only too well that there is a
+fiendish depth of malignity, dead to every appeal of pity,
+reason, and justice, which it is certain death to face.
+
+	|127-135.~  Dante, terrified at their gnashing teeth and
+threatening brows, entreats Virgil to dispense with such an
+escort; but he replies contemptuously, `Let them gnash on
+according to their fancy' -- only the wretches in the pitch need
+fear, they can do no harm to honest men.  For once Virgil was
+quite mistaken.  The sequel shows that Dante was right, and that
+the instinct of fear is sometimes a wiser and safer guide than
+Reason itself.

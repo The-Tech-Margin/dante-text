@@ -1,0 +1,1231 @@
+	|1-6.~  L'Alfieri not@o il primo e il terzo.  Quando per
+effetto d'impressioni veementi, piacevoli o dolorose, che una
+delle facolt@a dell'anima nostra riceva (cio@e che operino sopra di
+essa), l'anima nostra tutta si raccoglie, si concentra in quella
+facolt@a, allora pare che essa anima non attenda, non si occupi di
+verun'altra delle sue facolt@a (le altre facolt@a paiono
+inoperose); e questo @e un argomento contro all'errore de'
+Platonici, che ammettevano nell'uomo l'anima esser triplice
+(vegetativa, sensitiva, intellettiva), e de' Manichei, che ne
+ammettevano due.  -- |Che alcuna virt@u~ ecc.; il |che~ (le quali
+|dilettanze~ o |doglie~) @e di caso accusativo.  -- |Virt@u~, 
+potenza dell'anima (v. 4): ^Summ. Th.~, I, 77, 2, ad 3: ^Est una
+essentia animae, sed potentiae plures.~  Nel ^Conv.~, III, 2: <Il
+Filosofo nel secondo ^dell'Anima~, partendo le potenze di quella, 
+dice che l'anima principalmente ha tre potenze, cio@e di vivere, 
+sentire e ragionare...: la vegetativa, per la quale si vive, ...
+la sensitiva, ... l'intellettiva.>  Cf. ivi, IV, 7.  Nella ^Vulg.
+El.~, II, 3: <Homo tripliciter spirituatus est, videlicet
+vegatabilis, animalis et rationalis.>  E fu appunto questo luogo
+(dove il Trissino tradusse addirittura ^nell'uomo sono tre
+anime~) che al Rossetti (che intende che l'^uomo ha tre spiriti~)
+porse nuovo pretesto a ribadire il suo pregiudizio, che anche la
+^Volgare Eloquenza~, non altrimenti che la ^Commedia~, sia un
+trattato di segreto linguaggio de' Ghibellini per gabellare le
+loro dottrine politiche e religiose!  -- |Comprenda~ ecc.; questa
+sensazione cara o dolorosa sia bene addentro ricevuta da alcuna
+potenza della nostr'anima; e ci@o appunto si illustra cogli esempi
+che tosto qui reco.  -- |Bene ad essa~ ecc.; tutta si affisa, 
+raccoglie in quella tutta s@e stessa.  Nel ^Conv.~, II, 8:
+<pensando spesse volte come possibile mi era, me n'andava quasi
+rapito.>  E ^Vit. N.~, {Paragraph.} 40: <Molte volte avvenia che
+tanto dolore avea in s@e alcuno pensiero, che io dimenticava lui, 
+e l@a dov'io era.>  Per simil modo (^Purg.~, XXXII, 1-3):
+
+     Tant'eran gli occhi miei fissi ed attenti
+     A disbramarsi la decenne sete, 
+     Che gli altri sensi m'eran tutti spenti.
+
+E ^Conv.~, III, 8: <Fisamente in esso guardare non pu@o, perch@e
+quivi s'inebria l'anima; sicch@e incontanente, dopo di sguardare, 
+disvia in ciascuna sua operazione> (^Purg.~, XXVIII, 33; XXXIII, 
+124-126).  E nel ^Par.~, XVIII, 22-24 (cf. ^Purg.~, XVIII, 
+22-24):
+
+             Come si vede qui alcuna volta
+     L'affetto nella vista, s'ello @e tanto
+     Che da lui sia tutta l'anima tolta.
+
+-- |Contra quello error~ ecc. (nella ^Vit. N.~, {Paragraph.} 22:
+^E questo @e contra a coloro che rimano~ ecc.); errore di Platone
+e de' Manichei, rinnovato poscia da Averrois (cf. ^Summ. Th.~, I, 
+118, 2).  Il fatto che l'anima ad ora ad ora tutta si concentra e
+si affisa con una sua potenza in dato obbietto, senza pi@u
+attendere all'altre due, basta a concludere che un'anima sola @e
+nell'uomo.  Sieno pur varie le ^potenze~ o ^virt@u~ dell'anima, 
+uno @e il principio delle umane operazioni, onde non puossi
+ammettere se non un'anima soltanto, 
+
+     Che vive, e sente, e s@e in s@e rigira
+
+(^Purg.~, XXV, 75).  E l'Angelico (^Summ. Th.~, I, 76, 3), 
+combattendo i Platonici, fra i tre principali argomenti che
+adduce a provare l'unit@a dell'anima umana, reca per terzo il
+seguente, ch'@e precisamente quello qui usato da Dante: <Una
+operatio animae, cum fuerit intensa, impedit aliam; quod nullo
+modo contingeret, nisi principium actionum esset per essentiam
+unum.>  Su ci@o ogni studioso di Dante potr@a avere ricchezza di
+dottrina vera dal bellissimo ed elegantissimo scritto di Augusto
+Conti, ^La Filosofia di Dante~, nel volume ^Dante e il suo
+secolo.~  -- |S'acccenda~; traslato, che bellamente rappresenta
+l'anima come fiaccola che raggia e vivifica, vivificata e
+raggiata essa dalla ^Luce divina~ (^Conv.~, III, 2); perch@e
+l'anima nostra, come le altre cose create, secondo il loro grado
+di perfezione, non @e che ^splendor dell'eterna Idea~ (^Par.~, 
+XIII, 53).
+
+	|7-12.~  L'Alfieri li trascrisse.  -- |S'ode cosa o
+vede~; si notino i due verbi, che segnano in certa guisa il campo
+nel quale accade quant'ha detto ne' versi precedenti, quando essi
+dal senso fisico si estendano all'intellettuale.  -- |Che tenga
+forte a s@e~ ecc. (cf. v. 3), condizione da bene attendersi, 
+mostra l'intensit@a dell'occupazione di quella data potenza, tutta
+concentrata in un dato obbietto; senza questa ^forza~ di
+meditazione o di osservazione non pu@o succedere che quanto
+dichiara l'antico adagio: ^pluribus intentus, minor est ad
+singula sensus~, perch@e son come disgregate ed inerti le forze
+dell'anima; il che vien chiarito dagli esempi del Nostro allegati
+al v. 3.  -- |Vassene il tempo~ ecc.; l'osservazione psicologica
+il Poeta chiarisce appresso con quanto avvenne a lui stesso (v.
+13 e segg.); e nella ^Vit. N.~, {Paragraph.} 35: <Io... disegnava
+un Angelo sopra certe tavolette; e mentre io il disegnava, volsi
+gli occhi, e vidi lungo me uomini ai quali si convenia di fare
+onore.  E riguardavano quello ch'io facea, e secondo che mi fu
+detto poi, egli erano stati gi@a alquanto anzi che io me ne
+accorgessi.>  Cf. ^Purg.~, II, 117; XII, 73-75; ^Par.~, XXI, 1-3;
+^Purg.~, XVIII, 13, nel commento.  -- |Altra potenza~ ecc.; altra
+@e la facolt@a che |ode~ o |vede~ (v. 7) quella tal cosa, che le fa
+viva impressione; altra quella che l'anima serba |intera~
+(intatta, inoperosa, disoccupata), perch@e non attratta da
+impressioni.  -- |Quasi legata~ (cf. ^Inf.~, XXX, 81, nel
+commento); |legata~ (raccolta, intenta tutta in quel dato
+obbietto), risguarda il v. 10; |sciolta~ (non preoccupata, 
+inoperosa, cf. ^Purg.~, XII, 75; ^Par.~, XXVII, 76), risguarda il
+v. 11; onde |intera~ @e quanto |sciolta~, ^libera~ cio@e dal suo
+esercizio.  @E dunque chiaro come il sole che aveva ragione il
+Giuliani, che propugn@o e adott@o la legione <|quella~ @e quasi
+legata, e |questa~ @e sciolta:> n@e vi si pu@o fare ragionevole
+opposizione.  Nella ^Summ. Th.~, I, II, 2, 6: ^Pars animae~
+(^virt@u~, v. 2, |potenza~, v. 10), ^quae est ab organo corporeo
+absoluta, quamdam habet infinitatem respectu ipsius corporis, et
+partium animae corpori concreatarum.~
+
+	|13-18.  Di ci@o~, di tal fatto, di tal fenomeno.  --
+|Esperienza vera~; @e sempre cos@i; al Poeta piace la indagine
+teorica, ma a dimostrarla meglio vien ad illustrazioni tratte
+dall'esperienza, e questa encomia come grande elemento del sapere
+(cf. ^Inf.~, XXVI, 116; ^Par.~, II, 93; III, 3, nel commento: si
+vegga ^Dizionario Dantesco~, alla voce Esperienza).  -- |Quello
+spirto~; Manfredi.  -- |Ammirando~, ammirato, provando viva
+maraviglia di quanto vedevo e ascoltavo, di veder salvo Manfredi, 
+e di sentire da lui il lavorio provvidenziale, che a salvezza il
+trasse (cf. ^Purg.~, III, 136, nel commento); e la maraviglia
+dovette essere e cara e profonda, se il Poeta non s'accorse del
+lungo tempo che in quel colloquio egli aveva trascorso.  -- |Ben
+cinquanta gradi~ (il |ben~ qui indica quello che comunemente
+diciam noi: <tre ^buone~ o ^grosse~ ore, per dire ^tre ore e
+pi@u~, o ^pi@u che tre ore~).  Nel Canto antecedente (v. 16; cf.
+ivi, II, 55-57) il Poeta aveva dichiarato che era circa un'ora di
+Sole; adesso il Sole, @e a tre ore e venti minuti, cio@e a gradi
+cinquanta sopra l'orizzonte.  Non @e gi@a, come qualcuno afferm@o, 
+che Dante abbia speso pi@u di due ore con Manfredi: dobbiamo
+attendere che il Sole er'alto gi@a d'un'ora quando Dante e
+Virgilio, tra lor discorrendo, camminavano verso il monte
+(^Purg.~, III, 16 e segg.); v'arrivano (ivi, 46); passano un po'
+di tempo pensando al modo di trovar la strada (ivi, 55-56), ed
+ecco la comitiva d'anime lente (ivi, 46); verso le quali son
+costretti di andare per ^mille passi~ (v. 68); e un po' dopo
+comincia il colloquio con Manfredi.  Altri fanno dipendere il
+^che~ di questo verso da |ammirando~; io sto colle edizioni pi@u
+accreditate, punteggiando cos@i, che |ammirando~ sia consecutivo
+di |udendo~; onde il |ch@e~, in senso di ^perch@e~, esplica la
+frase ^di ci@o ebb'io esperienza piena.~  -- |Non m'era accorto~;
+per quello che espose ne' versi precedenti, cio@e perch@e il suo
+animo non era ^sciolto~ (^Purg.~, XII, 75; ^Par.~, XXVII, 76), ma
+legato a quanto avveniva intorno a lui.  -- |Ad una~; unitamente, 
+ad una voce: altrove (^Purg.~, XXI, 35), ^ad una parver gridar~, 
+nello stesso senso; e cos@i ^Purg.~, IX, 63, contemporaneamente;
+nel ^Par.~, XI, 42, di S. Francesco e S. Dominico, ^ad una
+militaro~, cio@e insieme, col medesimo scopo.  -- |Qui @e vostro
+dimando~; modo poetico di molta efficacia, in luogo dell'oggetto
+domandato; cio@e, qui @e la via, della quale ne dimandaste
+(^Purg.~, III, 76 e segg.); e cos@i diciamo ^amore, desio~, per la
+cosa amata e desiderata.  Ne' ^Salmi~ (XXXVI, 4): ^Delectare in
+Domino; et dabit tibi petitiones cordis tui.~  L'Ariosto (^Orl.
+Fur.~, XXX, 76): ^nuova le arreco del suo desire~, cio@e, del suo
+innamorato.  Cf. ^Conv.~, III, 11.
+
+	|19-24.  Aperta~, apertura, varco.  -- |Impruna~, chiude
+con pruni.  Il Talice: <|Maggiore aperta~: et notandum quod
+nondum coeperant Virgilius et Dantes ascendere mentem; sed hic
+incipiunt.  Et describit locum istum per unam comparationem
+claram.  Dicit quod iste collis erat talis quale unum sabellum
+est illud vinearum, quando uvae sunt maturae, quod claudit
+rusticus ne quis intret vineam suam, et projicit spinas in
+transitu cum furca.  |Impruna~, idest inspinat.>  --
+|Forcatella~, piccola forcata, quanto di pruni si pu@o prendere
+con una piccola forca; il che ben chiarisce che quell'|aperta~
+doveva essere assai picciola.  <^Quell'~|impruna~ e ^quella~
+|forcatella di spine~, osserva il Cesari, son due perle, che
+fanno brillare questa terzina, perch@e la lor propriet@a mette la
+cosa affatto sugli occhi.>  -- |L'uva imbruna~, comincia a
+divenir matura; il Lombardi: <Essendo in Toscana, siccome in
+Lombardia, quasi, tutta l'uva nera, prende perci@o Dante il
+maturare dell'uva nera, ch'@e la sola che imbruna, pel maturare di
+tutta l'uva.>  E il Cesari: <Questo ^imbrunare~ @e un bel dire;
+per salvar da' ladri l'uva che scura, cio@e che comincia a
+^saracinare~, come dicono i contadini nostri, ed @e allegato dal
+Salvini nelle sue note alla ^Tancia.~>  -- |Calla~ (la Nidob. ed
+altri ^lo calle~, ed altri la ^scala~); apertura, adito; e la
+voce ricorre in rima nel ^Purg.~, IX, 123 (e altrove, nel senso
+di via angusta, ^callaia~, ^Purg.~, XXV, 7).  -- |Onde~, per la
+qual |calla.~  -- |Saline~, prese a salire.  Su questa forma
+|saline~ per ^sal@i~ ecc., vale quanto il Varchi (allegato
+dall'Andreoli, ^Inf.~, XI, 31) scrisse nell'^Ercolano~: <Sappiate
+che in quei tempi si favellava cos@i; anzi si diceva ancora ^mene, 
+tene~, per ^me~ e ^te~, ^sine~ per ^s@i~ affermativa, ^tene~ per
+^te'~ o ^togli~, e molti altri cos@i fatti, purch@e la sillaba
+dietro alla quale s'aggiungeva cotal particella, avesse l'accento
+acuto sopra s@e; come si pu@o vedere nelle antiche scritture, e
+nelle moderne lingue, perch@e ancora oggi sono in Firenze nelle
+bocche de' fanciulli e di cotali grossolani, che
+fanciullescamente favellano, queste e altre somiglianti parole.> 
+-- |Soli~, soli noi e due, senza la compagnia di quelle anime. 
+-- |Come~, tosto che, non appena si part@i da noi la schiera di
+quelle anime.
+
+	|25-27.~  L Alfieri not@o i due ultimi.  Per le erte
+ripidissime di Sanleo, di Noli e di Bismantova (bench@e ^sarebbe
+alle capre duro varco~, ^Inf.~, XIX, 132), si sale e si discende
+co' propri piedi; ma per quella ^calla~ {v.22} <dove noi
+conveniva andare, conviene che si voli> (Ottimo); modo risentito
+di amplificazione.  -- |Sanleo~; piccola citt@a dell'antico ducato
+d'Urbino, della quale Benvenuto fa la descrizione: <In altissimo
+monte sita, montibus altissimis aggregatis circumcincta, ita quod
+colligit intra fortilitium fructus et omnia necessaria ad victum
+et substentationem humanae vitae, sicut Samarinum, castrum
+naturali situ munitissimum et optimum, distans a Sancto Leone per
+quatuor milliaria.>  -- |Noli~; borgo della riviera Ligure tra
+Savona ed Albenga gi@u in fondo ad un golfo circondato da monti, 
+dove al tempo del Poeta non si poteva per terra accedere, se non
+discendendo per certi scaglioni incavati nelle pareti quasi
+verticali del monte.  -- |Bismantova~ (detto cos@i, dichiara il
+Tommaseo, perch@e a veder quel monte dalla pianura, rende qualche
+somiglianza della citt@a di Mantova); ai tempi del nostro Autore
+era un forte castello, del quale ora non rimane vestigio; ^pietra
+Bismantova~, nell'Apennino in Emilia a oltre 30 chilometri e
+mezzo da Reggio, monte tagliato a picco che domina su tutti i
+monti vicini.  -- |In cacume~, in vetta, in sulla cima (cf.
+^Par.~, XVII, 113; XX, 21) intendono i pi@u, a differenza del
+Postill. Cass., e del Buti, seguiti da ben pochi, che ^Cacume~
+fan nome proprio d'un monte chi del Lazio, chi della Calabria, 
+monte finora ignoto.  Benvenuto intende e descrive preciso:
+<^Bismantua.~.. tota saxea viva altissima, ita quod superat omnes
+colles vicinos et habet solam viam in circuitu, quam pauci
+defenderent a toto mundo; in cuius summitate est planities, quae
+colitur quando est opportunum, et loca circumvicina sunt
+sylvestria et aspera, unde habitantes in plano inferius refugiunt
+ad istum locum tutissimum tempore belli...  In ista summitate est
+una pars in extremo eminens et altior; modo vult dicere autor
+quod non solum ab homine potest iri ad summitatem huius montis, 
+sed etiam ad ipsum cacumen particulare.>  -- |Con esso i pi@e~;
+senz'altro aiuto che de' suoi piedi (|esso~ indeclin.; cf.
+^Purg.~, XXIV, 98); ma |esso~, avvisa il Portirelli, non @e qui
+soltanto riempitivo, ma aggiunge anche molto vigore a ci@o che
+vien detto, quasi valendo l'espressione: ^coi soli piedi.~  --
+|Qui~; per quella ^calla~ {v.22}, per la quale dovevano ascendere
+i Poeti.  -- |Voli~; @e mestieri volare, cos@i ardua era l'ascesa! 
+Il Biagioli: <Questi versi... sono degni di molta attenzione...
+pel sentimento che vi si nasconde.  Adunque @e intenzione del
+Poeta di mostrarci, per la difficolt@a e fatica di questa lunga
+salita, pi@u assai delle altre ripida e malagevole, la pena che ha
+l'uomo nell'uscir del vizio, d'entrare per la porta della
+penitenza, il cui sentiero non potrebbe superare, se dal
+desiderio della felicit@a e dal lume della ragione assistito non
+fosse.  E questo s'intende ancora di chi, uscito dall'oscura
+selva dell'ignoranza e d'errore, salir vuole l'alpestro e
+faticoso monte ov'ha sua sede quella donna, la quale, dice il
+Poeta, veramente @e donna piena di dolcezza, ornata d'onestate, 
+mirabile di sapere, gloriosa di libertate.>  A proposito delle
+descrizioni topografiche, che qui e in molti luoghi della
+^Commedia~ incontriamo, non so se tutti senza riserva saranno
+dell'avviso dello Scartazzini, che in una sua operetta (^Dante~, 
+Parte II, pag. 62) scrisse: <Forse tutti gli episodi e tutte le
+similitudini della ^Commedia~ sono tali pietre radunate e
+preparate man mano in diversi tempi; indubitabile @e, che tutte le
+descrizioni topografiche furono dettate sui relativi luoghi, 
+quindi in tempi diversi.>  Cf. ^Dizionario Dantesco~, vol. VIII, 
+Appendice XVII, Parte II.  E v'ha poi anche altri, che pensano
+che il Poeta abbia davvero visitato tutti i luoghi, che nomina
+nel suo lavoro; e cos@i torna agevole farlo andare in sul Tamigi, 
+in sulla Senna, in sul Danubio, in Olanda, e magari al Gange e
+nella vallata del Nilo, perch@e ricorda quei luoghi.  Il Bartoli
+(^Stor. Lett. It.~, VI, II, p. 230) scrive: <Chi avesse agio di
+visitare minutamente tutti i luoghi d'Italia ricordati nel Poema, 
+dovrebbe dall'aspetto di essi e dal modo col quale sono
+descritti, procurare (ma senza preconcetti) di stabilire in quali
+l'Alighieri sia veramente stato di persona, e quali abbia veduti
+solo di lontano.  Io, per esempio, non credo che abbia ragione il
+Burckhardt di dire che Dante sia stato ^sulla vetta del monte
+Bismantova~ (-- anche il Carducci fu d'avviso che Dante vi sia
+salito; cf. l'esordio della sua conferenza, ^L'opera di Dante~
+--), perch@e in tal caso non avrebbe citata Bismantova tra i
+luoghi a salirsi difficili, essendone anzi l'ascensione, almeno
+da un lato, agevolissima.  Credo invece che quella grande roccia
+l'abbia veduta, forse, dalla pianura Reggiana, di dove in realt@a
+apparisce scoscesa e inaccessibile.>
+
+	|28-30.  Ali snelle~ ecc.: per questa ^calla~ {v.22} non
+si pu@o andare materialmente co' piedi, ma sibbene spiritualmente
+come andava io coll'^ali pronte~ della contemplazione e colle
+^penne~ della carit@a che ne deriva, dietro a quella scorta che mi
+incorava speranza e rischiarava la mia ragione.  S. Gregorio il
+Grande, commentando i quattro Animali (cf. ^Purg.~, XXIX, 92 e
+segg.) nella visione d'Ezechiele (Homil. 3, lib. I), scrive:
+^Quid per pennas, nisi volatus exprimitur~?...  ^Per pennas in
+altum avium corpora sublevantur.~..  ^Penna pertinet ad
+contemplationem.~..  ^Per contemplationem, qua super nosmetipsos
+tollimur, quasi in aera levamur.~  Tal viaggio non si pu@o dunque
+compiere se non se coll'attenta e assidua considerazione di Dio, 
+delle sue operazioni, della sua immensa bont@a e misericordia e
+giustizia, in quanto opera in altri e in noi, nel mondo sensibile
+e nell'intellettuale, dal che scaturisce il nostro amore per lui, 
+quell'ordinato amore, che ci guida ad amar lui per s@e stesso, e
+tutte le creature in ordine a lui (^in meditatione mea exardescet
+ignis~, diceva il Profeta); e allor soltanto l'amore ci fa
+scansare la Selva selvaggia, o ne d@a modo d'uscirne, e forza di
+ascendere sino alla vetta il santo Monte della virt@u e della vera
+felicit@a.  -- |Condotto~; ^condotto dietro a colui~ ecc., 
+intesero molti; ma i pi@u accreditati de' chiosatori intesero
+|condotto~ per conduttore, guida, scorta; nel ^Conv.~, I, 11:
+<Questi adulteri, al cui condotto (^dietro alla cui scorta~)
+vanno li ciechi.>  -- |Speranza~ ecc.; m'insinuava speranza di
+buona riuscita, m'incoraggiava.  -- |Facea lume~, m'era ^lucerna~
+(^Purg.~, I, 43), co' suoi illuminati ammaestramenti mi agevolava
+la via.  Ne' ^Salmi~ (CXVIII, 105): ^Lucerna pedibus meis verbum
+tuum, et lumen semitis meis.~
+
+	|31-33.~  Notati dall'Alfieri.  |Noi salivam~ ecc.; per
+giungere dal pi@e del monte (^Purg.~, III, 46) al primo balzo, o
+secondo scompartimento dell'Antipurgatorio (cf. ^Purg.~, III, 
+61-63, nel commento), dovevano i Poeti salire per un sentiero
+incavato nella roccia, e tanto angusto che toccavano cogli omeri
+le sponde laterali; e per giunta s@i ripido, che a non scivolare
+in gi@u bisognava aiutarsi pur con le mani.  -- |Sasso rotto~, 
+spaccatura (^pietra fessa~, ^Purg.~, X, 7), che vaneggiava per
+entro il monte.  -- |D'ogni lato~ (cf. ^Inf.~, VII, 32 e XXII, 
+146, nel commento), a destra e a sinistra.  -- |Lo stremo~, 
+l'estremit@a, la sponda (cf. ^Inf.~, XVII, 32; ^Purg.~, XXII, 
+121).  -- |E piedi e man~ ecc.; bisognava salire arrampicandosi, 
+andando carpone.  Altrove (^Inf.~, XXVI, 18), 
+
+     Lo pi@e senza la man non si spedia, 
+
+per la ^rattezza~ dell'ascesa (^Par.~, XI, 50).  Altro sentiero
+arduo ed angusto, cf. ^Purg.~, X, 7-9, dove pure un opportuno
+monito di Virgilio (cf. ^Inf.~, XXIV, 31-33).
+
+	|34-36.~  Notati dall'Alfieri.  |Orlo supremo~; @e il
+punto dove la roccia partente dalla base del monte cessava di
+essere a perpendicolo, dove la montagna raunandosi indietro
+presentava la sua costa erta s@i, ma possibile a salirsi di
+fianco, e dove erano arrivati per la ripidissima ed angustissima
+calla poco fa veduta.  -- |Alta ripa~; @e quella gi@a prima veduta
+dal Poeta dalla parte inferiore, quando s'incontr@o colla schiera
+d'anime, nella quale era Manfredi (^Purg.~, III, 71), e che non
+dava adito a salirsi.  -- |Alla scoverta piaggia~, giunti
+all'aperto, usciti fuori del ^sasso rotto~ (v. 31), ond'eran
+saliti; altrove (^Purg.~, X, 17-19) di consimile fatto.
+
+	       quando fummo liberi ed aperti
+     Su, dove il monte indietro si rauna ecc.;
+
+e altrove ^fui dischiuso~ (^Purg.~, XIX, 70), uscii fuori.  --
+|Scoverta piaggia~, in quella parte della costa del monte (cf.
+^Conv.~, III, 3; ^Inf.~, I, 29), nella quale noi eravamo allo
+scoperto, non pi@u racchiusi fra le pareti di quella ^cruna~
+(^Purg.~, X, 16), che prima ci serv@i di strada.  -- |Maestro mio~
+ecc.; bello perch@e spontaneo e naturale in anima buona questo
+rivolgersi confidente nelle incertezze a colui, alla cui scuola
+s'@e dato, e del quale sa per prova l'amore disinteressato, le
+rette intenzioni e la rispondente attitudine e prudenza al suo
+ministero (^Par.~, XVII, 103-105).  -- |Che via faremo~? da qual
+parte, a destra o a sinistra? In seguito, per insegnamenti e per
+esperienza, argomenteranno i Poeti che al Purgatorio si tiene
+sempre a destra (cf. ^Purg.~, XIX, 8; XXII, 121-124).
+
+	|37-39.~  Non @e vero che Virgilio, come afferma un
+chiosatore moderno, mostri qui di non sapere nemmen lui se debba
+tener a destra o a sinistra, se @e vero che ingiunge al discepolo
+di non dechinare n@e a sinistra n@e a destra ma di seguirlo sempre
+continuando la salita.  |Nessun tuo passo~ ecc., ^idest~, spiega
+Benvenuto, ^ne declinet in dexteram vel sinistram~; ed @e
+manifestamente falso l'intendere ^non dar passo indietro~, perch@e
+nella dimanda di Dante non @e affatto supponibile che
+s'inchiudesse il concetto del tornar addietro, onde sarebbe da
+pazzo la risposta: alla chiara domanda se a destra o a sinistra, 
+il maestro risponde: n@e a sinistra n@e a destra, ma in su.  Nella
+via della virt@u il non procedere @e un tornare indietro; ma a ben
+procedere fa duopo di consiglio, di docilit@a e di grazia celeste, 
+senza la quale ogni nostro sforzo cade a vuoto, e ogni tentativo
+di andare innanzi non porta che ad andare indietro (cf. ^Purg.~, 
+XI, 14).  Perci@o un Angelo altrove (^Purg.~, IX, 131-132)
+avviser@a i Poeti di andar sempre innanzi senza pur guardarsi
+indietro, colla minaccia d'essere rigettati (cf. ivi, nel
+commento).  -- |Pur~, soltanto procedi in su; il che rafferma che
+Virgilio escludeva affatto l'andare a destra o a sinistra.  --
+|Acquista~; ^acquistare~ vale procedere innanzi; e per ^salire~
+vive tuttavia in alcune parti della Toscana.  Nell'^Inf.~, XXVI, 
+126:
+
+     Sempre acquistando del lato mancino.
+
+Ho notato altrove che il verbo accenna a lucro; e cos@i, nel
+medesimo senso diciamo ^guadagnar terreno, spazio, via~; e il
+^prendere~ del pari (^Purg.~, I, 108; XXVIII, 5: cf. ^Inf.~, 
+XVII, 17); e il Poeta altrove, per mostrare il suo dolore di
+dover recedere e abbandonare la via percorsa, trae dall'avaro, 
+che ^volentieri acquista e giunge il tempo che perder lo fece~
+(^Inf.~, I, 55), una sua evidentissima similitudine.  -- |Scorta
+saggia~, guida ^saputa e fida~ (^Purg.~, XVI, 8), ch@e il sapere
+non basta se non c'@e drittura d'intendimenti.  Anche i savi
+sentono alle volte il bisogno degli altrui consigli: nessuno @e
+tanto sapiente, che in ogni ardua impresa a tutto possa bastar di
+per s@e; se uno il credesse, non sarebbe sapiente.  Nell'^Imit.
+Cr.~, I, 2, 3: <Se e' ti pare di sapere intendere molte cose, 
+nientedimeno sappi che sono molte pi@u quelle che non intendi n@e
+conosci.>
+
+	|40-42.~  L'Alfieri trascrisse il primo.  |Lo sommo~ (cf.
+^Purg.~, III, 111), la sommit@a, la vetta del monte tanto
+s'innalzava, che l'occhio non la potea t#orre (^Inf.~, VIII, 6), 
+gli occhi non poteano salire a tanta altezza e distanza (v. 87). 
+-- |La costa~, il pendio del monte.  -- |Superba~, erta, ritta. 
+Altrove dell'omero d'un demonio (^Inf.~, XXI, 34).  -- |Che da
+mezzo quadrante~ ecc.; quell'erta era assai pi@u ripida, che non
+sia una ^lista~ (linea) che si tiri dal mezzo del quadrante al
+centro.  -- |Quadrante~; @e un angolo di 90 gradi, ovvero la
+quarta parte d'un cerchio; |mezzo quadrante~, la met@a del
+quadrante.  L'Antonelli: <La costa faceva colla perpendicolare un
+angolo minore di quarantacinque gradi.  Si tiri sopra
+un'orizzontale una perpendicolare: tra le due linee un arco, e
+dal mezzo dell'arco una linea all'angolo delle due prime. 
+L'angolo della linea di mezzo all'orizzontale sar@a di gradi
+quarantacinque: ma se si tiri un'altra linea pi@u alta di quella
+che si parte dal mezzo del cerchio, questa far@a coll'orizzontale
+un angolo maggiore e sar@a pi@u ripida alla salita.>  Per@o dee
+tenersi ben fissa l'espressione |pi@u assai~, onde l'ertezza della
+costa si pu@o ragionevolmente crescere dai dieci ai quindici
+gradi.  Ecco la figura: A B, il mezzo quadrante, perci@o
+l'inclinazione @e di gradi 45; A C, la |lista pi@u assai che a
+mezzo quadrante~; onde si pu@o computare la sua inclinazione
+essere di gradi 60 {vedere disegno}.
+
+	|43-45.~  L'Alfieri not@o i due ultimi, tranne l'inciso |o
+dolce padre.~  |Lasso~, stanco oltremodo, affievolito (cf.
+^Inf.~, XXIV, 43-44) per la fatica gi@a sostenuta su per la calla. 
+L'Antico, allegato dal Tommaseo: <A dimostrare che ciascuno
+quando si d@a a virt@u di nuovo, tosto s'allassa, se Virgilio, cio@e
+la ragione vera, non conforta ed aiuta ciascuno.>  Il Vellutello:
+<Il senso si stanca sempre, e specialmente ne' principi de le
+opere virtuose, e per questo domanda aiuto a la ragione, la qual
+gli dice, ch'egli si debba tirar sin l@a, dove che essa era di gi@a
+salita, perch@e poi c'havea fatto qualche processo ne le virtuose
+operazioni, li sar@a, come vuole inferire, men difficile il
+perseverar in quelle.>  -- |Quando incominciai~; e dissi a
+Virgilio.  -- |Dolce padre~: bene avverte il Casini, che uno dei
+pi@u affettuosi modi, coi quali Dante designa Virgilio, @e questo
+di |dolce padre~ (cf. ^Inf.~, VIII, 10; ^Purg.~, XV, 25, 124;
+XVII, 82; XVIII, 13; XXIII, 13; XXV, 17; XXVII, 52), usato di
+preferenza nella seconda Cantica; e ci@o @e ragionevole, perch@e, ne
+afferma Dante (^Conv.~, II, 2), ^non subitamente nasce amore e
+fassi grande e viene perfetto~, quale esser deve quello che nasce
+e s'accresce per gratitudine di ricevuti benefizi, che s'aumenta
+e si rafferma man mano che si van ricevendo, e quanto meglio essi
+dimostrano la bont@a del cuore di chi li fa (cf. ^Par.~, VII, 
+106-108).  L'^Imit. Cr.~, I, 25, 9: <Senza sollecitudine e
+diligenza mai non acquisterai virr@u alcuna; e se incomincerai a
+intepidire, incomincerai a sentire grande fastidio.  Ma se ti
+darai al fervore, avrai grande pace, e sentirai meno fatica, per
+grazia di Dio ed amore della virt@u.  Maggiore fatica @e a fare
+resistenza a vizi o passioni disordinate, che molto affaticarsi
+corporalmente.>  -- |Volgiti~; Virgilio, come colui che non aveva
+di ^quel d'Adamo~ (^Purg.~, IX, 10), andava in su lesto: --
+|rimira~, bada, osserva, ti prego, |com'io rimango sol~, resto
+indietro, non potendo per la stanchezza e l'arduit@a della costa
+seguitarti, se non ti fermi ad aspettarmi: pietoso e dolce e
+natural parlare lo dice il Cesari (cf. il passo di S. Gregorio, 
+riferito nell'^Inf.~, XXIV, 32).
+
+	|46-48.~  Al dolce appellativo di ^padre~ {v.44}, col
+dolce di ^figlio~ risponde Virgilio.  |Insin quivi~, insino a l@a, 
+ad un punto che colla mano gli mostrava.  -- |Ti tira~, 
+trascinati, sforzati d'arrivare.  -- |Additandomi~ ecc.; si
+confronti coll'^Inf.~, XX, IV, 28.  -- |Un balzo~, uno
+sporgimento della costa, che ivi formava una specie di ripiano
+sul quale Dante avrebbe potuto sedersi, e che girava tutto il
+lato visibile del monte ov'erano i Poeti.  -- |Un poco in sue~;
+alquanto pi@u in su, al di sopra di Virgilio, dove Virgilio
+proseguendo, e Dante ^carpando~ {v.50}, arriveranno.  -- |In
+sue~; cos@i ^in giue~ (^Inf.~, XXXII, 53; ^Purg.~, XII, 13), come
+^piue~ per ^pi@u~, ^fue~ per ^fu~, per la ragione altrove notata
+(cf. v. 22).  -- |Il poggio~, il monte del Purgatorio (cf.
+^Purg.~, III, 14; VI, 51; XIII, 5).  -- |Gira~, circuisce, taglia
+a modo di strada (^sega~, dice altrove il Poeta, ^Purg.~, XIII, 
+2) in linea parallela al ^piano~ (^Purg.~, I, 118) ovvero
+^campagna~ (ivi, III, 2), in mezzo alla quale il monte
+s'innalzava.
+
+	|49-51.~  L'Alfieri nota i due primi.  L'eccitamento
+grazioso, l'animare altrui pur mostrando nel consiglio di far la
+debita stima delle sue forze e del suo buon volere, raddoppia gli
+spiriti; l'asprezza insolente ottunde le forze.  |S@i mi
+spronaron~ ecc.; le parole di Virgilio mi insinuarono tanto
+vigore, ecc.  L'uomo ha sempre bisogno di ^sprone~ e di ^freno~
+in tutte sue azioni, perch@e si pu@o peccare per ^troppo~ e per
+^poco~ di vigore, come il Poeta ragiona a lungo (cf. ^Purg.~, 
+XVII, 96, dal che si chiarisce tutta la divisione penale del
+Purgatorio; ^Conv.~, IV, 6 e 17; cf. ^Purg.~, XIII, 37-40; XIV, 
+143).  Nell'^Inf.~, XXIV, 58-59; dopo consimile avviso:
+
+     Levaimi allor, mostrandomi fornito
+     Meglio di lena ch'io non mi sentia.
+
+-- |Carpando~, arrampicandomi (co' ^piedi~ e colle ^man~ (v. 33), 
+andando carpone, aggrappandomi alle punte de' sassi dietro a
+Virgilio.  ^Carpo~ (onde ^carpare~ e ^carpire~ ne' differenti lor
+sensi), definisce il ^Dizionario di Torino~, da
+%kappa%alpha%rho%pi%@o%varsigma\, polso, parte del membro
+toracico ch'@e intermedio tra l'antibraccio e la mano, e che si
+chiama volgarmente pugno.  Il Monti (^Iliad.~, V, 593): ^fer@i
+prima Ciprigna Al carpo della mano~; e ivi, XVIII, 827: ^saltando
+Teneansi al carpo delle palme avvinti.~  |Carpando~ ecc.; ^idest
+eundo cum manibus et pedibus.~ (Postill. Cass., interl.).  -- |Il
+cinghio~, (per l'origine da ^cingere~, ha in s@e l'idea del
+^girare~, v. 48), il balzo girante additato da Virgilio (v. 47). 
+-- |Sotto i pi@e~, ecc.; mi trovai sopra il balzo; ma la frase dal
+Nostro adoperata @e, secondo il Cesari, elegante e nuova.  Affine
+l'altro (^Purg.~, XXVII, 124):
+
+     Come la scala tutta sotto noi
+     Fu corsa, e fummo in sul grado supremo, ecc.
+
+Della fatica di Dante in questa salita, scrive Pietro (il che @e
+buona spiegazione ai vv. 88 e segg.): <Vult ostendere quomodo cum
+magno labore de infimo statu vitiorum ad excelsum statum
+virtutum, pro quo ponitur ille mons, in principio homo procedat
+cum labore, Cum via virtutis in principio difficultatem habeat, 
+quae inconsueta est.  Unde Apostolus: ^insuavem et asperam fecit
+nobis viam virtutis longa consuetudo peccandi.~  Unde Tullius:
+^optima forma vivendi eligenda est, quam iucundam reddet
+assuetudo.~  Et Glosa super Matthaei IIo: ^lugum meum suave est;
+angusta est via quae ducit ad vitam~; dicit quod nonnisi angusto
+initio incipitur, in processu vero temporis ineffabili
+delectationis dulcedine delectatur.>
+
+	|52-54.~  Qui c'@e la prova che la salita de' Poeti fu dal
+lato d'oriente del santo monte.  |Ivi~, su quel balzo o cinghio. 
+-- |A seder~ ecc.; dopo tanto stento di salita, e trovandosi in
+luogo piano, che altro era da aspettarsi? e cos@i altrove (^Inf.~, 
+XXIV, 41-45).  -- |V#olti a levante~; nel Canto VIII (v. II)
+vedremo un'Anima, che d@a alle altre l'intonazione dell'inno
+contro le tentazioni; notturne, ^ficcar gli occhi verso
+l'oriente~ (cf. ivi, nel commento); e l'^oriente~, dice
+Lattanzio, ^si tiene per similitudine di Dio.~  Quindi la Chiesa, 
+invocante la venuta del Giusto, in una sua antifona ne' d@i che
+precedono il Natale: ^O Oriens, splendor Lucis aeternae, et Sol
+justitiae, veni et illumina sedentes iri tenebris, et umbra
+mortis.~  Notabili queste parole di S. Germano (^in praesent. Dei
+parae~); rivolgendosi alla Vergine, le dice: ^Ave, amoenissimus
+et rationalis Dei paradisus, benevolentissima et omnipotenti
+eiusdem dextra hodie ad orientem plantatus.~.. ^in eorum medelam, 
+qui pestiferam animaeque exitialem amaritudinem mortis ad
+occidentem ebiberant.~  Sull'origine poi del frabbricare le
+Chiese per guisa che i fideli quivi raccolti alla celebrazione
+de' divini misteri, tenendo volta la faccia all'altar maggiore
+abbiano dinanzi l'oriente, si vegga il Franciosi (^Scritt.
+Danteschi~, pagg. 220-221).  E si vegga il passo di S. Tommaso al
+^Purg.~, VIII, 11.  -- |Onde~, di dove, dalla qual parte.  --
+|Suole~ ecc.; ^giova~, ed @e anche naturale dopo scansato un
+pericolo o vinta una difficolt@a; e rammentasi tosto il celebre
+luogo (^Inf.~, I, 22 e segg.):
+
+     E come quei che con lena affannata, 
+     Uscito fuor del pelago alla riva, 
+     Si volge all'acqua perigliosa, e ^guata~;
+     Cos@i l'animo mio, ch'ancor fuggiva, 
+     Si volse indietro a ^rimirar~ lo passo ecc.
+
+Il riguardare alla corsa via @e sprone a tirar innanzi, e ravviva
+il desiderio della meta (cf. ^Purg.~, XXVII, 110).  Geremia (VI, 
+16): ^State super vias, et videte, et interrogate de semitis
+antiquis, quae sit via bona.~  Virgilio altrove avviser@a Dante di
+considerare la via che fa per trarne indi vantaggio da ci@o che
+vedr@a (^Purg.~, XII, 13-15).  Nel ^Conv.~, IV, 28: <Benedice la
+nobile Anima in questa et@a (^della vecchiezza~) li tempi passati, 
+e bene li pu@o benedire; perocch@e per quelli rivolvendo la sua
+memoria, essa si rimembra delle sue diritte operazioni; senza le
+quali al porto, ove s'appressa, venire non si potea con tanta
+ricchezza, n@e con tanto guadagno.  E fa come il buono mercatante, 
+che, quando viene presso al suo porto, esamina il suo procaccio, 
+e dice: se io non fossi per tale cammino passato, questo tesoro
+non avrei io, e non avrei di ch'io godessi nella Citt@a mia, alla
+quale io m'appresso; e per@o benedice la via che ha fatta.>
+
+	|55-57.~  Notati dall'Alfieri.  Il primo sguardo di chi
+arriva sur un poggio, @e ai luoghi sottostanti; ^gli occhi prima
+dirizzai~ ecc.  ^Drizzar gli occhi, il viso, la mente~, ecc., 
+^Inf.~, IX, 73; XVI, 26; ^Purg.~, I, 111; ^Par.~, II, 29; XVIII, 
+16.  -- |Ai bassi liti~, ^ai termini bassi~ (^Purg.~, I, 114), 
+dove l'isola moriva nel mare.  -- |Ammirava~ ecc.; si maraviglia
+osservando che il Sole gli batteva a sinistra; tutto all'opposto
+di quanto, ad uno in simile posizione, accade nel nostro
+emisfero.  E Pietro, chiosando, ricorda un fatto consimile:
+^Similem admirationem habuerunt illi Arabes, qui venerunt in
+subsidium Pompei, Lucano dicente~ (^Phars.~, III, 247-248):
+
+     Ignotum vobis, Arabes, venistis in orbem, 
+     Umbras mirati nemorum non ire sinistras.
+
+-- |Feriti~; qui @e il Sole, che con le sue ^saette~ (^Purg.~, II, 
+56) ^ferisce~; altrove @e l'^aura~ che ^ferisce~ di lieve colpo
+(^Purg.~, XXVIII, 1-3).
+
+	|58-60.~  L'Alfieri not@o |io stava~ col v. seg.  --
+|Stupido~; non solo attento e ammirato, ma come trasognato per
+grande novit@a.  Nel ^Conv.~, IV, 25: <Gli antichi Regi nelle loro
+magioni faceano fare magnifici lavori d'oro e di pietre e
+d'artificio, acciocch@e quelli che le vedessero, divenissero
+stupidi, e per@o reverenti.>  Il che, in certo modo, vorrebbe
+dire, che certe riverenze hanno per base la stupidaggine: non @e
+bello per certi ^riverenti~, che le loro riverenze credon fiore
+di sapienza.  Nell'^Epist.~, III, 2: ^Oh quam in eius admiratione
+obstupui!  Sed stupor subsequentis tonitrui terrore cessavit.~  --
+|Al carro della luce~, al Sole, che @e ^quei che apporta mane e
+lascia sera~ (^Par.~, XXVII, 138).  Nella ^Vit. N.~, {Paragraph.}
+2, in luogo di Sole dice ^il cielo della luce~, che gira; e nel
+^Conv.~, III, 5; ^il mondo dal Sole @e girato.~  -- |Ove~ ecc.;
+quest'|ove~ chi intende per ^poich@e~, come dichiarativo del
+perch@e dell'ammirazione; e chi lo spiega per ^dalla parte dove~, 
+dipendente dalla frase ^stava stupido al carro della luce.~  --
+|Tra noi ed Aquilone~; il Sole nasceva, |entrava~, tra noi ed
+Aquilone, mentre nell'emisfero nostro nasce tra noi ed Austro, 
+ch'@e il punto opposto diametralmente all'Aquilone; e ci@o doveva
+essere, perch@e il monte del Purgatorio @e antipodo a Gerusalemme, 
+che si reputava il centro del nostro emisfero.
+
+	|61-66.  Castore e Polluce~ (i Dioscuri, figliuoli di
+Giove e di Leda, onde ^il bel nido di Leda~ li disse il Poeta, 
+^Par.~, XXVII, 98), sono la costellazione de' Gemelli o Gemini, 
+nella quale Dante si pregiava di essere nato (^Par.~, XXII, 102 e
+segg.), ed @e la costellazione o quel segno dello Zodiaco nel
+quale sia il sole dal 21 Maggio al 20 Giugno, ed @e per
+conseguenza di due segni pi@u settentrionale del segno
+dell'Ariete, in che ora siamo.  -- |Specchio~, il sole, che a
+guisa di specchio riverbera la sua luce su tutte le cose
+(|specchio~ dice anche il pianeta di Saturno, ^Par.~, XXI, 18);
+quindi @e la creatura pi@u degna ed adatta a esser presa ad
+immagine di Dio (^Conv.~, III, 7), il Sole ^padre d'ogni mortal
+vita~ (^Par.~, XXII, 16; cf. ^Mon.~, II, 11).  -- |Che su e gi@u~
+ecc.; Filatete vorrebbe intendere che il Sole alluma i pianeti
+tanto superiori che inferiori a lui, dacch@e, giusta il sistema
+tolemaico seguito da Dante, tre de' principali pianeti (Saturno, 
+Giove e Marte) gli stan di sopra; invece Mercurio, Venere e la
+Luna gli stan di sotto.  Per@o la spiegazione pi@u accolta si @e che
+qui s'intenda che il sole illumina a vicenda l'emisfero superiore
+e l'inferiore, mantenendovi la vita e la fecondit@a (cf. ^Par.~, 
+I, 37-38; X, 7-21).  -- |Conduce~; nel ^Conv.~, III, 14: <Il
+sole, discendendo il suo raggio quaggi@u (-- e ivi, 7: ^li raggi
+di ciascun Cielo sono la via, per la quale discende la loro virt@u
+in queste cose di quaggi@u~ --), riduce le cose a sua similitudine
+di lume, quanto esse per disposizione della loro virt@u possono
+lume ricevere...  Il primo Agente, ch'@e Dio, pinge la sua virt@u
+in cose per modo di diritto raggio, e in cose per modo di
+splendore riverberato.  Onde nelle Intelligenze raggia la divina
+Luce senza mezzo, nell'altre si ripercuote da queste Intelligenze
+prima illuminate.>  -- |Zodiaco~; uno dei circoli massimi della
+sfera, il quale taglia l'equatore e tocca i tropici, ed @e diviso
+in dodici costellazioni, che sono ^Ariete, Toro, Gemelli~, per la
+primavera; ^Cancro, Leone, Vergine~, per l'estate; ^Bilancia, 
+Scorpione, Sagittario~, per l'autunno; ^Capricorno, Aquario, 
+Pesci~ per l'inverno.  -- |Rubecchio~; @e chiara la sua
+derivazione da ^rubeus~; e qui s'intende quella parte del Zodiaco
+che @e rosseggiante per aver seco il Sole.  Virgilio (^Georg.~, I, 
+234-235):
+
+     Quinque tenent coelum zonae; quarum una corusco
+     Semper sole rubens, et torrida semper ab igne.
+
+Pier di Dante per@o, seguito dal Postill. Cass. e da pochi altri
+(il Parenti tra' moderni), intende |zodiaco~ per aggettivo
+qualificativo (^zodiaco cerchio~ disse il Salvini), e |rubecchio~
+spiega ^ruota, cerchio~: <^Zodiacus robecchius~, idest rota
+Zodiaci; nam ^robecchius~ in Thuscia dicitur rota dentata
+molendini.>  Del cerchio zodiacale e de' suoi effetti
+maravigliosi sulla terra, parla Dante altrove (^Par.~, I, 9 e
+segg.), chiamandolo
+
+     L'obliquo cerchio, che i pianeti porta.
+
+-- |Pi@u stretto~, pi@u vicino, pi@u dappresso, pi@u inclinato a
+tramontana.  -- |Orse~, la maggiore e la minore, costellazioni
+vicine al polo artico o boreale (cf. ^Par.~, II, 9).  -- |Se non
+uscisse~ ecc.; mette una condizione impossibile per dare pi@u
+forza alla posta verit@a; e vuol dire: ^posto, salvo che non
+avvenisse che il sole uscisse fuori dal consueto suo corso, 
+dall'eclittica, il che @e impossibile~ (accennando forse alla
+favola di Fetonte, cf. v. 72; ^Inf.~, XVII, 107; ^Purg.~, XXIX, 
+119; ^Par.~, XVII, 3; XXXI, 125; ^Epist.~, VIII, 4; ^Conv.~, II, 
+15).  Un consimile |se~ occorre nel ^Purg.~, XXVIII, 105; e forse
+vi hanno molta affinit@a, chi pensi sottilmente, questi altri due, 
+^Par.~, VIII, 120; X, 113.  Il senso adunque delle parole di
+Virgilio @e: ^tu ti maravigli che, stando tu volto ad oriente, il
+Sole ti sia dalla parte sinistra; ma sappi che se il Sole, in
+cambio d'essere, com'@e adesso, in Ariete, fosse in Gemelli~, cio@e
+di qui a due mesi, ^tu lo vedresti ancor pi@u alla tua sinistra, 
+ancor pi@u inclinato a settentrione, di quello che adesso non
+sia.~
+
+	|67-75.~  L'Alfieri nota |onde la strada~ col. v. seg. 
+Virgilio dalla posta proposizione passa alla sua dimostrazione, 
+perch@e stando al Purgatorio rivolti ad oriente si vegga sempre il
+Sole dalla parte sinistra o settentrionale, mentre chi si pone in
+egual posizione a Gerusalemme, lo vede sempre alla sua destra o
+dalla parte di mezzo giorno.  Ammesso che il monte del Purgatorio
+e Gerusalemme hanno un solo orizzonte e diversi emisferi, ne
+viene che sono antipodi l'uno dell'altro.  Ma il Della Valle fa
+qui una necessaria osservazione, e scrive: <Queste due condizioni
+non bastano alla detta veduta, perch@e se i due luoghi fossero
+dentro i due tropici o nel giro dell'eclittica, @e chiaro che
+potrebbero essere antipodi senza che l'uno vedesse il sole sempre
+dalla parte del Nord, e l'altro da quella del Sud.  Bisogna
+dunque che siano anche fuori dei Tropici o dell'eclittica.  Dante
+non esprime una tale condizione, ma la sottintende, in chi legge;
+e siccome @e Virgilio che qui parla, cos@i egli la suppone in Dante
+stesso.  Virgilio non pu@o credere, che Dante non sappia, che
+Gerusalemme @e al di qua del Tropico di Cancro, e per conseguenza
+non veda, che anche il monte del Purgatorio @e al di l@a del
+Tropico di Capricorno, dopo che gli ha detto, che questi due
+luoghi sono antipodi l'uno all'altro.  Queste sono idee, che
+Dante pur suppone ne' suoi lettori, come Virgilio le suppone in
+lui, perch@e Dante non pu@o n@e deve supporre in chi legge il suo
+poema, l'ignoranza dei primi primissimi elementi di Geografia
+astronomica.>  -- |Come ci@o sia~, come, per quali ragioni accada
+questo fenomeno.  -- |Se il vuoi poter pensare.~.. |immagina~
+ecc.; Lorenzo de' Medici, nel ^commento~ ai suoi ^Sonetti~, 179:
+<Il pensare non @e altro che un tacito parlare, perch@e chi pensa
+immagina quelle cose in s@e medesimo, e le chiama pe' nomi loro.> 
+-- |Dentro raccolto~; raccolto bene in te stesso, meditandoci
+sopra con pieno raccoglimento della tua mente (e |dentro~ usa
+Dante per ^cuore~, ^Conv.~, II, 7; e ^cuore~ per ^mente~ Dante e
+tutti i classici; e cf. ^Inf.~, XXIII, 27).  Alla speculazione
+feconda @e mestieri raccoglimento, s@i che l'anima a quel dato
+soggetto ^bene si raccolga~ (cf. v. 3); e il Nostro in tutte le
+sue Opere ne porge esempio e dottrina frequente; e fa venire a
+mente ^il pensarci su~ del Manzoni.  -- |Immagina~; pensa che
+Gerusalemme relativamente al Purgatorio @e sopra la terra situata
+in maniera, che ambedue questi luoghi hanno un solo orizzonte e
+differenti emisferi, cio@e l'uno ha le sue radici diametralmente
+opposte a quelle dell'altro.  -- |Sion~, il monte sul quale fu
+edificata Gerusalemme, onde si prende per quella.  -- |Questo
+monte~, del Purgatorio.  -- |Orizzon~ (cf. ^Purg.~, II, 9), 
+secondo la forma greca %o%rho%$iota%xi%omega%nu\; quindi altrove
+^orizzonta~ (^Inf.~, XI, 113). Nella ^Mon.~, III, 15: <Recte a
+Philosophis ad similatur (^homo~) horizonti, qui est medium
+duorum hemisphaeriorum.>  -- |Onde la strada~ (altri, non bene, 
+^ond'@e~, lezione manifestamente falsa, perch@e se |strada~
+dev'essere soggetto di |convien che vada~ del v. 73, non si
+capisce come possa divenir soggetto d'altro verbo); dunque:
+perci@o tu capirai bene che la strada del Sole deve di necessit@a
+essere alla sinistra del Purgatorio, mentre per Gerusalemme @e
+alla destra.  -- |La strada~, l'eclittica, ovvero il corso annuo
+del sole.  -- |Mal~; per suo danno, per sua disgrazia (cf.
+^Inf.~, IX, 54).  -- |Carreggiar~, percorrere guidando il carro
+del Sole (cf. v. 66, nel commento).  -- |Fetonte~, non avendo
+bastevole scienza e forza per guidare i cavalli del Sole, fu
+tratto fuor di carreggiata, e in quel disordine fu il cielo in
+parte bruciato, e si form@o cos@i quel tratto biancastro, che noi
+appelliamo ^via lattea~ e i Greci ^galassia~ (cf. ^Inf.~, XVII, 
+107-108: ^Par.~, XIV, 99: ^Conv.~, II, 15).  Fetonte, osserv@o il
+Tommaseo, @e pi@u volte ricordato dal nostro Autore come simbolo di
+podest@a male ambita.  -- |A costui~, al monte del Purgatorio.  --
+|A colui~, al monte Sion. -- |Se lo intelleto tuo~ ecc.; se ben
+rifletti, se badi sottilmente, scevro di preconcetti (cf. ^Par.~, 
+VI, 86-87).
+
+	|76-78.~  L'Alfieri nota |unquanco~ e i due versi
+seguenti.  Era il caso che Dante ripetesse qui quanto, dopo altra
+dimostrazione, disse al suo Maestro altrove (^Inf.~, XI, 9-93). 
+-- |Unquanco~ (cf. ^Inf.~, XXXIII, 140: ^Par.~, I, 48), mai
+finora, -- |non vidi chiaro s@i~ ecc.; in nessuna quistione e
+ricerca non ho mai finora veduto s@i chiara la verit@a, come in
+questa.  -- |L@a dove~ ecc., dove prima mi pareva che il mio
+ingegno non potesse arrivare, mi pareva incapace, insufficiente.
+
+	|79-84.~  Notati dall'Alfieri.  E qui accade quello che
+in ogni alunno in simili casi; in quistione, creduta prima
+difficilissima e di arduit@a insormontabile, trovata inattesamente
+la verit@a, l'anima esulta, e l'alunno allarga le ali e porta
+anche lui i suoi argomenti a rincalzo di quelli adottati dal
+maestro, non tanto per approfondire la cosa, quanto per far
+dimenticare agli altri se prima pot@e parere un citrullo: e il
+mondo fu sempre cos@i, e Dante non solo lo ritrae, ma lo
+scolpisce.  -- |Il mezzo cerchio~, il cerchio del mezzo o
+intermedio ai due poli, o anche ai due tropici.  -- |Moto
+superno~; il pi@u alto de' Cieli mobili, ch'@e il cristallino, 
+spiegano alcuni; ma non @e esatto; qui il Poeta per |moto superno~
+intende, a parer mio, quanto intese altrove per ^eterni~ o ^santi
+giri~ (^Purg.~, XXX, 93; ^Par.~, II, 127), cio@e i ^Cieli~, in
+genere; e me ne d@a certezza il passo del ^Convito~, che allego
+qui appresso.  -- |Equatore~: nel ^Conv.~, II, 4: <Ciascuno
+(cielo), s@i lo nono come gli altri, hanno un cerchio, che si pu@o
+chiamare equatore del suo cielo proprio; il quale egualmente in
+ciascuna parte della sua rivoluzione @e rimoto dall'uno polo e
+dall'altro, come pu@o sensibilmente vedere chi rivolge un pomo, od
+altra cosa tonda.>  E ivi, III, 5: <Nella cui girazione (^del
+cielo~) conviene di necessit@a essere due poli fermi, e un cerchio
+egualmente distante da quelli che massimamente giri...  Lo
+cerchio che nel mezzo di questi (^poli~) s'intende, @e quella
+parte del cielo, sotto la quale si gira il Sole, quando va
+coll'Ariete e colla Libra.>  E ora sentiamo il bravo figliuolo di
+Dante: <In medio coelestis motus est quidam intellectualis
+circulus, procedens de oriente in occidentem, et vocatur per
+astrologos circulus iste aequator, eo quod, cum sol est ibi, 
+aequales sunt noctes diebus, et e contrario, et sic aequat dies
+noctibus, et tunc dicimus aequinoctium, quod fit in signo Arietis
+et Librae, diverso tempore tamen.  Qui circulus est semper intra
+solem, idest meridiem et vernum, idest tramontanam; a quo
+aequinoctiali circulo citra sunt gentes, ab eo ultra, non.  Item
+ab illo circulo aequinoctiali citra versus polum arcticum, idest
+tramontanam, a sole extenditur quidam circulus et est in illo
+puncto ubi sol plus ascendit hic, quod est dum dicimus
+solstitium.  Et talis circulus dicitur tropicus Cancri: sicut e
+contrario dicitur tropicus Capricorni ille circulus, in quo sol a
+nobis magis declinat, et dies sunt minores.>  -- |In alcun'arte~, 
+nella scienza astronomica; e ^arti~ chiama Dante la Prospettiva, 
+l'Aritmetica, la Geometria (^Conv.~, II, 3); e ^Conv.~, IV, 5, 
+parlando del movimento del Cielo come produttore delle cose di
+quaggi@u (cf. ^Purg.~, XX, 13): <... ancora per virt@u di loro arti
+li matematici possono ritrovare.>  Cf. ^Par.~, II, 96.  --
+|Sempre riman~ ecc.; l'equatore essendo fra i tropici resta
+sempre fra l'estate (|il Sole~) e l'inverno, perch@e quando
+l'estate @e nel tropico del Cancro, l'inverno @e nell'emisfero
+australe; e quando @e estate nel tropico del Capricorno, @e inverno
+nell'emisfero boreale.  -- |Per la ragion che di'~ (cf. v. 68 e
+segg.), cio@e per essere il Purgatorio antipodo a Gerusalemme; --
+|quinci~, da questo monte di tanto |si parte~, si scosta, inclina
+inverso settentrione, di quanto gli Ebrei da Gerusalemme lo
+vedevano scostarsi, inclinarsi |verso la calda parte~, verso il
+lato di mezzod@i.  Nel ^Conv.~, II, 4: ^L'equatore egualmente in
+ciascuna parte della sua rivoluzione @e rimoto dall'uno polo e
+dall'altro.~  Altri, e tra questi il Giuliani, adottano la lez.
+^Quando gli Ebrei~, la quale porterebbe a dire: ^al Purgatorio il
+Sole @e a nord, mentre a Gerusalemme @e a sud~; cosa invero non
+molto notabile: l'altra lezione invece comprende un dato
+scientifico.  Quando usc@i l'ediz. della ^Div. Commedia~ procurata
+dal Giuliani (Firenze, Succ. Le Monnier, 1880), in una
+recensione, ch'io ne feci nell'^Archivio Veneto~ (tom. XIX, Parte
+II), m'accadde di parlare di questa lezione; e il degno dantista
+poi (22 aprile 1880), tra altro, mi scriveva: <Mi parve di dover
+leggere ^quando gli Ebrei~ ecc.; anzi che |quanto~, che il Ponta
+ebbe cercato di sostenere con ingegnosa dottrina, e che voi
+avvalorate con un testo del ^Convito.~  Se non che ivi la
+sentenza voluta esprimere dal Poeta, e conforme a ci@o che precede
+e vien dopo, ci astringe a prendere |si parte~ in significazione
+di ^vien diviso~ o ^tagliato~, essendo appunto dal sole nella
+obliqua sua via diviso l'Equatore mentre esso sole s'inoltra
+verso l'Aquilone o verso l'Austro.  Il che riceve dichiarazione e
+conferma dalla prima terzina del X del Paradiso.>  Non potei
+dichiararmene persuaso.  -- |Gli Ebrei~, prima della loro
+dispersione; e perci@o dice |vedevan~, dacch@e non sarebbe stato
+esatto dir ^veggon~, non potendosi pi@u ricordare quel popolo per
+indicare il luogo ove sorge Gerusalemme.
+
+	|85-87.~  Notati dall'Alfieri.  |S'a te piace~, inciso di
+parlar gentile.  -- |Quanto avemo~ ecc.; quanto sia lunga questa
+salita, dacch@e |il poggio~, il monte ^vince la mia vista~ (v.
+40); e se, dice il Cesari, debbo montar fino in cima, a mezza
+strada son morto.
+
+	|88-96.~  L'Alfier@i not@o sino al v. 94.  Virgilio lo
+consola col dirgli: quanto sia lunga la strada non so; ma questo
+ben so, che la fatica di salir questo monte vien sempre pi@u
+scemando, quant'uno va pi@u su.  E ci@o avviene per quanto il Poeta
+dichiara nel ^Purg.~, XVI, 76.  E ottimo commento son queste
+parole del ^Convito~ (III, 8): <Questi vizi (^derivanti dalla
+cattiva consuetudine~) si fuggono e si vincono per buona
+consuetudine, e fassi l'uomo per essa virtuoso, senza fatica
+avere nella sua operazione> (dove c'@e, in germe, la ^selva
+selvaggia~ ed anco questo monte della purificazione): e
+soggiunge: <le passioni consuetudinarie per buona consuetudine
+del tutto vanno via; perocch@e il principio loro, cio@e la mala
+consuetudine, per lo suo contrario si corrompe.>  E ivi, IV, 17:
+<Queste (^le virt@u morali~) sono i mezzi intra quelli (^tra~ i
+vizi, ^pe' quali si pecca~ in troppo e in poco), e nascono tutte
+da uno principio, cio@e dall'abito della nostra buona elezione...
+E queste sono quelle che fanno l'uomo beato, ovvero felice, nella
+loro operazione, siccome dice il Filosofo... dicendo che
+^felicit@a @e operazione secondo virt@u in vita perfetta.~>  E
+^Imit. Cr.~, III, 13, 5: <Quanto pi@u ti rimoverai dal piacere di
+tutte le creature, tanto pi@u troverai in me soave dolcezza e
+consolazione.  Ma non potrai pervenire a questo senza tristizia e
+fatica di battaglia.>  -- |Di sotto~ alle sue radici nella parte
+inferiore.  -- |Grave~, piena di contrasti, di affanni (si
+rammenti l'opposizione delle tre fiere e la fatica di Dante per
+giungere dall'esterna ripa del monte sino a questo punto).  --
+|Men fa male~, riesce difficile a scuotersi di dosso, ch@e mille
+difficolt@a e seduzioni ed orgogli vi fan contrasto.  Ma presa una
+ferma decisione per la via del bene, il peso si va meno pesante, 
+meno difficile, @e meno erta.  Qui c'@e tutta l'allegoria del
+Purgatorio.  Le abitudini peccaminose sono un peso a chi le
+porta, e peso assai alleviando a mano a mano che la ragione
+riprende la sua signoria, fino a tanto che la via divien soave e
+fa la nostra felicit@a.  S. Gregorio scrisse (^Moral.~, XXX, 9);
+^Si exterior evagatio sensus clauditur, interior sensus
+aperitur~; e al contrario, come disse sant'Agostino (^Lib. de
+Spir. et Anim.~, cap. 9), ^cum exterior sensus carnalis bono suo
+utitur, interior sensus mentis quasi obdormit.~  E tutto ci@o si
+avvera appuntino nel viaggio del Poeta pel santo monte.  E se pel
+Purgatorio gli si va di giro in giro scemando la fatica, sino a
+non trovare che diletto nella sua operazione, di cielo in cielo
+il suo intelletto si va schiarendo, infervorando di santo amore
+la sua anima.  Di quanto qui dice Virgilio son conferma i
+seguenti versi (^Par.~, XVIII, 58-60):
+
+           E come per sentir pi@u dilettanza, 
+     Ben operando l'uom, di giorno in giorno
+     S'accorge che la sua virtute avanza, ecc.
+
+-- |Soave~; non solo senza difficolt@a, ma dilettosa (ricorda il
+^dilettoso monte~, ^Inf.~, I, 77); e vedremo come ci@o avverr@a
+(^Purg.~, XII, 121-126).  ^Imit. Cr.~, II, 4, 1: <Niuna
+operazione t'impedisce, se dentro sarai libero da ogni inordinato
+affetto.>  -- |A seconda~, secondo la corrente (|gi@u~, perch@e i
+fiumi ^cadono~, ^Purg.~, XXVII, 3; ^Par.~, VI, 51); @e il
+contrario dell'altra frase ^contro il fiume~ (^Purg.~, I, 40), 
+cio@e in direzione opposta alla corrente.  -- |Per nave~, sopra
+una nave (la stessa frase nell'^Inf.~, III, 82).  Qui la minor
+fatica sar@a manifesto segno del salire; nel viaggio pel Paradiso
+tale segno lo avr@a il Poeta dal crescere della luce nel volto di
+Beatrice, mentre il discendere per l'Inferno gli poteva esser
+palese dal crescere de' tormenti (^Inf.~, V, 1-3).  -- |D'esto
+sentiero~, del viaggio pel Purgatorio (cf. ^Purg.~, XXVII, 123 e
+130 e segg.).  Il Buti: <Allora arai l'abito della penitenza. 
+^Signum regenerati habitus est in opere delectatio.~>  E si
+avvera per tal modo la parola di nostro Signore: ^Iugum meum
+suave est et onus meum leve.~  -- |Pi@u non rispondo~; la mia
+scienza, tratta dalla ragione non pu@o andar pi@u oltre (e si
+mediti e raffronti altra risposta altrove, ^Purg.~, XVIII, 46-48;
+cf. VI, 43-45).  -- |E questo~ ecc.; ma quanto ti dissi lo so per
+mia stessa esperienza, avendo seguito in vita tutte le morali
+virt@u (^Purg.~, VII, 35-36).  Maraviglioso raffronto son queste
+parole dell'^Imit. Cr.~, III, 37, 1: <Tieni a mente uno brieve e
+perfetto parlare che dice: ^Lascia ogni cosa ed ogni cosa
+troverai: non ti lasciar legare dallo amore d'alcuna cosa, e
+troverai la pace.~  Pensa questo ch'io t'ho detto, e quando
+l'avrai fatto intenderai ogni cosa.>  E ivi, II, 1, 1: <Il regno
+di Dio @e dentro da noi, dice il Signore.  Convertiti al Signore
+con tutto il cuore, e lascia andare questo misero mondo, e
+l'anima tua trover@a riposo e requie.  Impara a dispregiare le
+cose del mondo, ed amare quelle dell'anima, e vedrai che il regno
+di Dio verr@a in te (-- cf. ^Purg.~, XI, 7-9 --); imperocch@e il
+regno di Dio @e pace (-- cf. ^Purg.~, XXIV, 141; ^Par.~, II, 112;
+III, 85 --) e gaudio in Spirito Santo, il quale non @e dato agli
+uomini fuori della fede.>  E ivi, 4, 3: <Quando l'uomo
+perfettamente comincia a vincere s@e medesimo, e virilmente
+camminare nella via di Dio, quelle cose che prima gli parevano
+fatica, gli paiono consolazione.>   Cf. ^Par.~, XVIII, 58-60.  E
+sentiamo anche S. Bernardo (^de Consid.~, I), il quale, chiosando
+le parole di Giobbe (VI, 7), ^quae prius nolebat tangere anima
+mea, nunc cibi mei sunt~, scrive: ^Primum tibi importabile
+videbitur aliquid; processu temporis, si assuescas, iudicabis non
+adeo grave; paulo post et leve senties; paulo post nec serities;
+paulo post etiam delectabit~; che ben richiama e conferma il
+^Purg.~, XVI, 74-78.
+
+	|97-99.~  L'Alfieri not@o l'ultimo.  |E come~ ecc.; appena
+Virgilio fin@i di parlare; e si vegga naturalezza di creare nuovi
+incidenti.  -- |Forse~; non @e qui dubitativo, ma ironico; cos@i a
+cui par facile una cosa, che noi sappiamo difficilissima, gli
+buttiam l@i un |forse~, che dice pi@u d'una patente in
+melensaggine.  -- |In prima~; prima che tu sia giunto alla vetta. 
+-- |Distretta~, bisogno, necessit@a.  Questa voce venne dal di
+dietro d'un gran masso, del quale i Poeti non s'erano prima
+accorti, e presso il quale sedute e sdraiate stavan anime di
+egligenti al pentimento.
+
+	|100-102.  Si torse~, si volt@o verso l@a onde quella voce
+era venuta.  -- |A mancina~; a man sinistra; scrive lo
+Scartazzini: <|A mancina~ ha qui ad intendersi non gi@a rispetto
+alla posizione dei poeti mentra sedevano, sibbene rispetto alla
+lor posizione salendo.>  Veramente dalle parole di Dante una tale
+distinzione non si scorge; io anzi sarei del parere contrario, e
+credo che |a mancina~ significhi il lato sinistro de' Poeti
+mentre erano seduti, perch@e quindi alzandosi per recarsi l@a, 
+sarebbero andati a destra, come si deve andare nel Purgatorio, 
+dacch@e altrimenti avrebbero dovuto andare a sinistra: pi@u sotto
+anche Sordello dir@a (^Purg.~, VII, 46).
+
+     Anime sono a destra qua remote.
+
+-- |Non s'accorse~, del quale ^non ci addemmo~ prima (^Purg.~, 
+XXI, 12), non vi ponemmo mente.
+
+	|103-105.~  L'Alfieri nota sino al v. 132.  |L@a~ ecc.;
+venimmo l@a (^Par.~, VI, 61 e 67).  -- |Persone~, anime, ombre
+nella posizione scomposta dei pigri.  -- |Negghienza~ (altri:
+^com'uom per negligenza~ ecc.), pigrizia.  Scrive Pietro: <Auctor
+procedit ad dicendum de tertia qualitate personarum, quae propter
+negligentiam tardant poenitere et confiteri; fingendo tales
+spiritus inter saxa ruinosa ita negligenter sedere, ut dicit
+textus.  Ad quod facit quod dicit Bernardus, dicens: ^Status
+hominis negligentis domus est ruinosa.~  Et Boetius: ^sicut iri
+unoquoque opere intus invenitur constantia, ita universae
+doctrinae noverca est negligentia.~>
+
+	|106-108.  Un di lor~ ecc.  Il Cesari: <Un lasagnone, 
+di que' che torrebbono morir di fame, per non darsi il disagio di
+recarsi le mani a bocca.  Or Dante dipinge qui il costui costume
+con tre pennellate da pari suo.  Stava costui accosciato, e colle
+mani tenea le cosce raccolte, e gi@u il viso tra esse; viva
+poltronneria!>
+
+	|109-111.~  Tutti erano in atteggiamento da mostrar
+pigrizia; ma costui in modo particolare; onde il Poeta
+maravigliato lo addita al maestro.  -- |Adocchia~, osserva, bada
+(cf. ^Inf.~, XV, 22; XVIII, 123; XXIX, 138; ^Par.~, XXV, 118, 
+dove par significare guardar fisamente, con attenzione; mentre
+^Purg.~, XXI, 30, altro non significa che ^vedere~).  --
+|Negligente~; S. Tommaso (^Summ. Th.~, II, II, 54, 2): <Isidorus
+dicit in libro X Etymolog.: ^negligens dicitur quasi~ nec
+eligens.>  E ivi: <^Negligentia~ consistit in defectu interioris
+actus, ad quem pertinet etiam electio: ^pigritia~ autem, et
+^torpor~ magis pertinent ad executionem.>  -- |Pigrizia~ ecc.;
+sempre sdegnoso ai pigri, ai poltroni il nostro Autore; a Caronte
+fa battere a remate sanguinose qualunque ^s'adagia~; qui li
+riprende con sale comico; nel Purgatorio fa che l'indolenza
+primitiva si converta in sollecito amore di penitenza, e fa
+gridar all'anime (XVIII, 105), 
+
+     Ratto, ratto, che il tempo non si perda.
+
+E invita a venire al suo ^Convito~ <qualunque per cura famigliare
+o civile nell'umana fame @e rimaso;> per@o vuole che non alla mensa
+ma ai piedi degli altri <si pongano tutti quelli che per pigrizia
+si sono stati, ch@e non sono degni di pi@u alto sedere> (^Conv.~, 
+I, 1).  E scopo del comporre la sua Canzone ^Le dolci rime
+d'Amor~ ecc., dichiara che fu principalmente ^per fuggire
+oziosit@a~, nemica della Filosofia (^Conv.~, IV, 1).  --
+|Sirocchia~ (dal lat. ^sororcula~), sorella, voce omai antiquata, 
+se non forse nello stile comico o famigliare.
+
+	|112-114.~  Il Cesari: <Or questa @e una scena di vera
+commedia.  Belacqua sentitosi cos@i trafiggere, non si cruccia
+per@o n@e ismania; ma senza levar la testa che tenea gi@u basso, 
+appena la volge movendola lungo la coscia: udiste? ^movendola
+pur~ senza pi@u, per non isconciarsi; e mollemente gli dice: Io
+son negligente: ma tu che sei ben gagliardo, va su tu per lo
+monte, ch'io t'aspetter@o.>  -- |Pose mente~, cf. ^Purg.~, III, 
+105, nel commento.  -- |Il viso~, non la faccia, sibbene lo
+sguardo; la faccia la mover@a un pochino in appresso (v. 118).  --
+|Pur su~ ecc.; scorrendo collo sguardo soltanto su per la coscia, 
+come pauroso di far troppa fatica se avesse levato la testa.  --
+|Valente~; qui vale l'opposto di ^pigro.~  Belacqua, da Dante a
+chiara voce additato a Virgilio come immagine incarnata della
+pigrizia, punto di ci@o, ironicamente rimbecca il Poeta.  Nel
+^Conv.~, IV, 3, parlando di due, de' quali l'uno senza aiuto va
+per la dritta via, e l'altro con aiuti la sbaglia, scrive: <Quale
+di costoro si dee dicere |valente~?  Rispondo: quello che and@o
+dinanzi (^cio@e il primo~).  Quest'altro come si chiamer@a? 
+Rispondo: vilissimo.>
+
+	|115-120.  Conobbi allor~, alla voce, che mi fu lume a
+chiarirmi che colui era il pigro Belacqua (cf. ^Par.~, III, 
+61-63); @e in parte affine all'altro (^Inf.~, X, 64-65):
+
+     Le sue parole e il modo della pena
+     M'avevan di costui gi@a letto il nome.
+
+-- |Angoscia~; la grave fatica durata prima nell'ascendere (cf.
+^Inf.~, XXXIV, 78).  -- |Avacciava la lena~, m'affollava il
+respiro (^avacciare~, affrettare, cf. ^Purg.~, VI, 27, deducono
+dal basso latino ^abactiare~, da ^abactus~, sup. di ^abigere~):
+|lena~, cf. ^Inf.~, XXIV, 43.  -- |Alz@o la testa appena~;
+finalmente si muove un tantino; @e un paltrone, che serba il suo
+carattere!  Pietro chiosa: <Fingit illum Belacquam ita loqui, et
+respicere, et stare, ut ait Salomon dicens: ^abscondit piger
+manus suas sub ascella sua et laborat, si ad os suum eam
+converterit.~  -- |Hai ben veduto~ ecc.; Belacqua rende pan per
+focaccia; Dante il derise per la sua pigrizia, e questi gli
+rimbecca la poco accorta maraviglia che il Sole al Purgatorio
+fosse a sinistra; i pigri, nota il Tommaseo, si ridono delle cure
+de' saggi.  Nella ^Mon.~, II, 1: <Sicut ad faciem causae non
+pertingentes, novum effectum communiter admiramur; sic, cum
+causam cognoscimus, eos, qui sunt in admiratione restantes, 
+quadam derisione despicimus.>  -- |Il Sole il carro~ ecc., (cf.
+^Conv.~, IV, 23).  Il Cesari: <Gli d@a anche la baia: al tutto
+questa @e una delle pi@u leggiadre pitturette Fiamminghe.  --
+|Dall'omero sinistro~; cf. ^Par.~, I, 46.
+
+	|121-122.~  Ma Dante non prende cappello, che anzi
+sorride; ed @e da savio non far caso delle punture dei poltroni;
+il sorriso @e il modo pi@u civile e serio di punirli.  -- |Le.~..
+|parole mosson~, ecc.; perfin le parole scansa costui per timor
+di troppa fatica; onde son |corte.~  Nel ^Purg.~, XXII, 23, 
+d'altra maraviglia per erroneo supposto:
+
+     Queste parole Stazio muover fenno
+     Un poco a riso.
+
+	|123-126.  Belacqua~: son d'accordo nel dirlo Fiorentino, 
+ma scarse notizie ci tramandarono gli antichi chiosatori su
+Belacqua.  Il Postill. Cass.: ^Iste Belacqua fuit optimus
+magister chitararum et leutorum, et pigrissimus homo in operibus
+mundi sicut in operibus animae~; e ^pigrissima persona~ lo dice
+il Lana.  Pier di Dante e l'Ottimo ed altri tiran via.  Benvenuto
+non solo lo dice fabbricatore di ^cetre e d'altri strumenti
+musicali~, ma anche sonatore di essi; ^ideo~, soggiunge, ^Dantes
+familiariter noverat eum, quia delectatus est in sono.~  L'^Anon.
+Fior.~: ne racconta qualcosa pi@u, e dal modo della narrazione ci
+lascia credere che l'aneddoto, che arreca, l'abbia raccolto dalla
+tradizione viva in Firenze: <Questo Belacqua fu uno cittadino da
+Firenze, artefice, et facea cotai colli di liuti e di chitarre
+(-- Benvenuto: ^cum magna cura sculpebat et incidebat colla et
+capita cithararum~ --), et era il pi@u pigro uomo che fosse mai:
+et si dice di lui ch'egli venia la mattina a bottega, et ponevasi
+a sedere, et mai non si levava se non quando voleva ire a
+desinare et a dormire.  Ora l'autore fu forte suo dimestico:
+molto il riprendea di questa sua negligenza; onde un d@i, 
+riprendendolo, Belacqua rispose colle parole di Aristotele:
+^sedendo et quiescendo anima efficitur sapiens~; di che l'autore
+gli rispose: Per certo, se per sedere si diventa savio, niuno fu
+mai pi@u savio di te.>  -- |A me non duole~ ecc.; ormai smetto il
+dolore cagionatomi dalla tua morte dacch@e ti trovo qui in istato
+di salvezza: parole che non lasciano alcun dubbio sull'amicizia
+di Dante e Belacqua.  Ad altra persona cara e pregiata, che
+trover@a pi@u avanti (^Purg.~, VIII, 53-54), dir@a:
+
+     Giudice Nin gentil quanto mi piacque
+     Quando ti vidi non esser tra' rei!
+
+     -- |Assiso~, seduto, fermato (cf. ^Inf.~, XV, 35).  --
+|Quiritta~ (il Buti legge ^qui ritto sei~); il ^Dizionario di
+Torino~: <Avv. di luogo.  La voce ^ritta~ @e aggiunta, e ne
+restringe il significato, e vale ^qui appunto~, ed @e voce
+contadinesca> cf. ^Purg.~, XVII, 86.  La Crusca poi nota che oggi
+pi@u comunemente si dice ^quiciritta.~  -- |Modo usato~, la solita
+pigrizia nel tuo operare.  -- |Ripriso~, ti ha ripigliato, ti @e
+rivenuta addosso (e a studenti che studiano niente si dice tra
+burla e rimprovero: ^Oh voglia di studiar saltami addosso~!):
+|ripriso~, come ^sorpriso~ per ^sorpreso~ (^Purg.~, I, 97).
+
+	|127-129.~  L'Alfieri trascrisse il primo.  |Frate~, 
+fratello, espressione di tenerezza a persona cara, che si tiene
+in conto di fratello carnale; e nel Purgatorio, (e se ne capisce
+senz'altro il perch@e) Dante ne fa uso frequente (quattordici
+volte, secondo il Blanc); ma, a proposito del Blanc, non si
+capisce perch'egli intenda come espressione di tenerezza il luogo
+dell'^Inf.~, XXIII, 109, dove c'@e nient'altro che quella
+invettiva! e poi coloro non erano ^Frati Godenti~? (ivi, 103). 
+-- |Che porta~? che fa? che giova? L'andare in su non mi
+tornerebbe di nessun utile, poich@e l'Angelo che guarda la porta
+del Purgatorio, non mi lascerebbe entrare per far penitenza.  --
+|L'Angel di Dio~ ecc.; molti Codd. e le prime edizioni ^uccel~, 
+come nel ^Purg.~, II, 38; gli Accademici della Crusca prescelsero
+^uscier~, che trovarono in due testi (lez. seguita dal
+Bennassuti); ma nell'ediz. dal 1837 vi fu rimesso |Angel~;
+dacch@e, osserva il Becchi, le parole |che siede in sulla porta~
+rendono inutile il chiamar l'Angelo ^usciere.~  Nel Canto IX, 
+104, @e detto del pari:
+
+     L'Angel di Dio, sedendo in sulla soglia.
+
+-- |Siede in sulla porta~; cf. ^Purg.~, IX, 76 e segg.
+
+	|130-135.~  L'Alfieri not@o i due penultimi.  Vedemmo la
+prima specie di negligenti aver pena di starsene fuori del
+Purgatorio trenta volte il tempo che tali furono in vita; questa
+@e la seconda specie, che, come quei che troveremo pi@u innanzi, 
+devono pagare ^tempo per tempo~ (cf. ^Purg.~, XXIII, 84).  |Prima
+convien~ ecc.; chi visse impenitente e si ridusse in fin di vita
+prima di convertirsi, deve restarsene fuori del Purgatorio tanto
+tempo quanto visse impenitente, se i suffragi dei viventi non
+abbreviano quella condanna (^Purg.~, XI, 127-132).  -- |Prima~
+ch'io possa entrare nel Purgatorio.  -- |Convien~, @e mestieri, @e
+stabilito (^Purg.~, III, 38).  -- |Il ciel m'aggiri~, il cielo mi
+giri intorno standomi io nell'Antipurgatorio, quanto intorno mi
+gir@o nell'altra vita mentr'io durai impenitente.  Alcuni spiegano
+^quanti anni io vissi~, intenendo di tutta la vita; ma pare a me
+che ci@o non convenga alla Giustizia divina; se uno visse
+settant'anni di vita, e soli cinque impenitente; ed un altro ne
+visse settanta del pari, ma fu impenitente per trenta, ov'@e la
+giustizia che ad ambedue dia la pena istessa di settant'anni? Per
+questo motivo che la pena debba commisurarsi alla colpa, io son
+di fermo avviso che la frase |quanto fece in vita~, significhi il
+tempo dell'impenitenza, che @e il motivo della condanna. 
+Soprach@e, il Poeta accennando altrove a tal foggia d'anime, dice
+che qui ^tempo per tempo si ristora~ (^Purg.~, XXIII, 84): ora
+questo ^ristoro~ non @e che una riparazione della negligenza
+usata, la pena non @e che conseguenza di questa; dunque risguarda
+il tempo dell'impenitenza; e perci@o la frase deve valere ^si
+restituisce a Dio ci@o che gli s'@e tolto~, ridandogli tanto
+^tempo~ di penitenza qui, quanto fu il ^tempo~ usurpatogli
+nell'altro mondo. E se Manfredi disse chiaro che il tempo della
+pena @e ivi trentuplicato, tenendo per dato il tempo della durata
+della colpa (^Purg.~, III, 138-140), che ragione c'@e che qui pel
+calcolo si prenda un dato differente da quella durata, in aperta
+contraddizione colla chiarissima espressione del Poeta?  Lo
+Scartazzini, che nel commento spieg@o la frase per ^tanto tempo
+quanto vissi~, pi@u tardi si ricredette, e tenne per l'altra
+spiegazione (cf. ^Dante~, II, pag. 137).  -- |Li buon sospiri~;
+il pentimento, che i peccatori riconcilia a Dio, ^il buon dolor
+chi rimarita a Dio~ le anime (^Purg.~, XXIII, 81; cf. ^Conv.~, 
+IV, nella Canz., vv. 156-158).  Qui, come spesso altrove, 
+^sospiri~ per pentimento, come ^sospirare~ per pentirsi; nella
+^Vit. N.~, {Paragraph.}, 21:
+
+          bassando il viso tutto smuore, 
+     E d'ogni suo difetto allor sospira.
+
+-- |Se orazione~ ecc.; suffragi (cf. ^Purg.~, III, 141).  --
+|Surga su~, si elevi, s'innalzi: nella Bibbia: ^Dirigatur, 
+Domine, oratio mea sicut incensum in conspectu tuo.~  -- |In
+grazia viva~, che sia in carit@a con Dio, senza di che il
+suffragio non ha valore (cf. ^Purg.~, III, 141 e segg.; VIII, 72;
+cf. ivi, V, 71 e 87).  -- |L'altra~, fatta fuori dello stato di
+grazia.  -- |Non @e udita~; ne' ^Salmi~ (LXV, 18): ^Iniquitatem si
+aspexi in corde meo, non exaudiet Dominus.~  E: ^Deus peccatores
+non audit~ (Joan, IX, 31).  E S. Agostino (^Serm.~, 226, de
+^Temp.~): ^Oratio iusti clavis est coeli.  Ascendit precatio, et
+descendit Dei miseratio.  Audit Deus hominis linguam, si mundam
+habet conscientiam.~
+
+	|136-139.~  L'Alfieri not@o l'ultimo.  -- |Saliva~, su per
+la costa del monte.  -- |@E tocco meridian dal Sole~; @e mezzod@i;
+perci@o mezzanotte a Gerusalemme, e per conseguente nelle estreme
+parti occidentali dell'emisfero nostro, qui indicate col Marocco
+(si prenda il regno o la citt@a), la notte cominciava a stendere
+la sua ombra (cf. ^Purg.~, II, 1 e segg).  -- |Dal riva~ del
+Gange (altri ^alla riva~, intendendo al confine, al limite
+estremo del nostro emisfero); ma pare che il Poeta voglia
+significare che in questo momento il dominio della notte
+protendevasi dal Gange al Marocco, quanto a dire per due
+quadranti; cio@e la Notte, dal Poeta personificata, dalla riva del
+Gange, ove teneva l'uno, stendeva l'altro piede sol Marocco, 
+lontano da Gerusalemme, e dal Purgatorio un quadrante; onde
+consegue che all'estremo lembo orientale dell'emisfero del
+Purgatorio, che proprio confina col Marocco, cominciava la notte. 
+Su questo Canto il Tommaseo: <Il proemio psicologico, e
+l'esposizione tra astronomica e geografica, sono notabili non per
+la poesia, ma per le difficolt@a vinte pi@u d'una volta
+valentemente.  Quel che potrebbe additarsi d'alquanto incerto, e
+contorto, @e compensato dalla precisione di parecchi luoghi
+(qualit@a oggimai rara e ne' poeti e negli scienziati), dalla
+pittura della salita, e del pigro sedente.  Questi muove Dante al
+sorriso: la prima volta ch'e' rida.  L'altra sar@a alle parole di
+Stazio.  L'uno sorriso di sdegno, ma amico, l'altro d'affetto, ma
+riverente; le due ale di Dante.  Nel Purgatorio le passioni
+decrescono, s'innalzan gli affetti.>
+
+	Nota le terzine 6, 7, 9, 11, 12, 17, 18, 19, 21, 24, 30, 
+31; 33 alla 36; 38 alla 44, con l'ultima.

@@ -1,0 +1,964 @@
+	|Introduzione.~  Schematizzando ora gli accadimenti
+narrati nel canto XXXII, diremo che il lettore assiste con Dante
+a una ripresa della processione come corteo, che il poeta segue
+per cos@i dire al rallentatore: la processione si era arrestata
+all'altezza di Dante (^Pg~ XXIX 151-154); ora riprende il cammino
+ma invertendo la marcia, volgendola verso levante; alla ruota
+destra del carro si affiancano ora, parte integrante della
+processione, Matelda, Stazio e Dante, che @e ormai di l@a del Let$e
+(13-30).  A questo punto ha termine la processione in quanto
+corteo; Beatrice scende dal carro, tutti mormorano |`Adamo'~ e
+circondano una pianta altissima con i rami dilatati verso l'alto
+(come gli alberi del girone dei golosi), ma totalmente priva di
+foglie (31-48).  Quindi il grifone lega il carro all'albero, che
+subito rifiorisce (49-60); un inno cantato dai componenti della
+processione persuade al sonno il poeta (61-69); al risveglio
+questi vede soltanto Matelda: il grifone, i seniori, i quattro
+animali che circondavano il carro, i sette personaggi che
+chiudevano il corteo se ne stanno tornando al cielo; Beatrice
+siede alla radice dell'albero, insieme con le quattro virt@u
+cardinali e le tre teologali, recanti i sette candelabri, che
+prima erano semoventi (70-99).  Beatrice incita Dante a fare
+attenzione al carro, per riferire al ^mondo che mal vive~ le
+vicissitudini di esso cui assister@a (100-108).  Terribili e
+misteriose queste vicissitudini: un'aquila scende fulminea,
+dispoglia l'albero rifiorito, squassa il carro (109-117); una
+volpe si avventa al fondo del carro, ma, rimbrottata fieramente
+da Beatrice, fugge veloce (118-123); l'aquila scende una seconda
+volta e lascia sul carro parte delle sue penne, dono di cui una
+voce proveniente dal cielo si rammarica (124-129); si apre poi la
+terra tra le ruote del carro e ne esce un drago-serpente che
+figge la coda sul fondo di esso, traendone via una parte: quel
+che rimane si ricopre in tutte le sue parti delle penne
+dell'aquila (130-141).  Infine il carro mette fuori sette teste e
+dieci corna, diventando un ^mostro~ mai prima visto: su esso
+siede una prostituta che guarda lascivamente intorno, offrendosi,
+bacia un gigante che le sta accanto: poich$e volge anche a Dante
+^l'occhio cupido e vagante~, il gigante la flagella e poi la
+trascina insieme col carro nel folto della foresta, sottraendo
+l'uno e l'altra alla vista del poeta (142-160).  @E un grande
+racconto condotto per figurazioni simboliche.  Non @e difficile
+penetrare n$e il suo significato generale, n$e, nella quasi
+totalit@a dei casi, quello degli elementi che lo compongono; e
+infatti i commentatori, pur con infinite sottigliezze e sfumature
+sulle quali si pu@o senza danno sorvolare, sono d'accordo: di
+alcune pieghe simboliche del racconto, effettive o presunte, che
+non incidono sulla interpretazione sostanziale, si dir@a nelle
+note ai singoli luoghi.  Nella sua linea generale, si tratta
+d'una storia della Chiesa cristiana (rappresentata, come sappiamo
+dal canto XXIX, dal carro trionfale), con nello sfondo le origini
+dell'umanit@a e del suo primo peccato.  Pare oggi superfluo
+discettare, come si @e fatto negli ultimi anni, se questa grande
+pagina allegorica sia `poetica' o no; ed erroneo ravvisare
+eventualmente la sua `poesia' solo in qualcuna di quelle che
+altrove (^Introd.~ a ^Pg~ XV) chiamammo `schegge' di poesia,
+intese queste come aperture alla sensibilit@a di noi uomini
+d'oggi.  La stessa antitesi poesia-dottrina @e estranea a Dante, e
+quindi anche alla comprensione storica dei suoi testi.  Ma ci
+guarderemo bene dal rovesciare la posizione critica
+romantico-crociana, pretendendo d'imporre una `poeticit@a' in
+senso moderno a ogni pagina dottrinale-allegorica; e anzi
+osserveremo che, anche nel campo dell'allegoria, alcune
+figurazioni di questo canto, pi@u che tali, risultano semplici
+trascrizioni emblematiche.  Il fascino di questa pagina per noi
+moderni @e soprattutto nella sua grandiosit@a complessiva. 
+Piuttosto, potremmo chiederci: la sostanza del pensiero politico-
+religioso che @e alla base della figurazione, e gli avvenimenti
+storici qui rappresentati per simboli, sono pi@u volte trattati da
+Dante, nel poema e altrove, direttamente, fuori d'ogni allegoria:
+si pensi a quel che egli dice a pi@u riprese sulla corruzione
+della Chiesa e sulle sue collusioni e scontri col potere civile e
+in particolare coi re di Francia (^Pg~ XX 43-96); sulla `simonia'
+di papi e prelati, ecc.  Perch$e dunque, ora, questo ripensamento
+allegorico?  La ragione sta nel fatto che qui, sulla base delle
+convinzioni politiche generali di Dante, ciascuno di quegli
+avvenimenti, prima considerati isolatamente, @e coordinato
+all'altro, in una successione misteriosamente provvidenziale:
+Dante vuol colpire il lettore con l'alto spavento che proviene
+dal soffio della volont@a divina che determina quegli avvenimenti. 
+L'idillica selva del canto XXVIII diviene un oscuro bosco di
+esilio senza pi@u connotazioni edeniche.
+
+	|1-9 {Nota Bosco}.~  La scienza del divino dev'essere,
+s@i, approfondita al massimo: ^Fa che le viste non risparmi~,
+avevano raccomandato al poeta le virt@u cardinali, cio@e le virt@u
+della vita terrena (XXXI 115); ma ora le virt@u teologali, quelle
+che conducono alla vita celeste, vedendolo troppo intento alla
+contemplazione di Beatrice, s@i che per lui non esiste null'altro,
+lo rimproverano (8-9).  Ci dev'essere dunque un limite anche alla
+indagine teologica, che potrebbe condurre, se non si arrestasse
+alle soglie del messaggio diretto di Dio pur umanamente non
+comprensibile, a una forma di superbia intellettuale forse meno
+grave ma dello stesso ordine dell'indagine filosofica troppo
+fiduciosa in s$e stessa.  Alcuni considerano il rimprovero delle
+virt@u come rivolto al troppo indulgere di Dante ai ricordi
+terreni, il che pu@o essere ammesso, ma non nel senso che Dante si
+faccia rimproverare per la sua troppa attenzione alla donna
+piuttosto che alla creatura sacra (per lui le due figure, lo
+sappiamo, coincidono), ma nel senso che il discorso poetico deve
+ormai cambiare direzione, lasciare il tema dell'amore terreno. 
+Il che significa, in altre parole, che il |troppo fiso!~ detto
+dalle virt@u segna in sostanza un passaggio ad altro tema.  Nel
+seguito, infatti, scompare totalmente ogni eco stilnovistica;
+persino il personaggio Dante scompare per tutto il canto XXXII:
+se fuggevolmente riappare alla fine di esso, @e in funzione
+strettamente allegorica.
+
+	|1-3.  a disbramarsi~: a saziarsi.  |La decenne sete~: il
+desiderio di vedere Beatrice, desiderio che durava da dieci anni,
+dalla morte cio@e di Beatrice (1290) al momento presente (1300). 
+Cfr. ^Pg~ XXX 34-36.  |Che~: @e in correlazione a |tanto~ del v.
+1.  |Spenti~: inattivi, sopiti: la capacit@a visiva concentrava in
+s$e l'animo al punto di rendere inattive tutte le altre facolt@a. 
+Il fenomeno era gi@a stato descritto da Dante in ^Pg~ IV 1-12.
+
+	|4-6.  Ed... caler~: ed essi, gli occhi, avevano da una
+parte e dall'altra (|quinci e quindi~) una parete di noncuranza
+(|non caler~).  Fuori metafora: gli occhi non si curavano di
+vedere altri oggetti che non fosse quell'unico, Beatrice, in cui
+erano tutti ^fissi e attenti.~  |Non caler~, che si trova anche
+in ^Rime~ XLVIII 12, ha funzione di sostantivo e secondo il
+Contini era pi@u corrente che ^non cale~ con lo stesso valore. 
+Forse potrebbe scriversi anche unito, ^noncaler~, come ^nonpossa~
+in ^Pg~ V 66.  |Santo riso~: la bocca ridente di Beatrice, la
+^seconda bellezza~; vedi nota a ^Pg~ XXXI 138.  |Tra$eli~: li
+traeva, traeali, come legge il Porena con sineresi (^tra$eali~). 
+|Antica rete~: metafora del linguaggio lirico amoroso, ma spesso
+non manca un senso ostile di origine biblica (cfr. ^Pg~ XXI 76,
+XXVI 24).  Benvenuto chiosa: <memoria antiqui amoris, qui nunc...
+reaccensus est> e cfr. ^Pg~ XXX 39: quindi forse pi@u l'attrattiva
+o il ricordo dell'antico amore, che l'amore stesso.
+
+	|7-9.  mi fu v@olto~: mi fu fatto volgere, cio@e fui
+costretto a volgere.  |Quelle dee~: le tre virt@u teologali. 
+|<Troppo fiso!>~: @e sottinteso: <guardi>, o <tieni lo sguardo>. 
+@E dubbio se l'ammonizione valga in quanto Beatrice appare agli
+occhi di Dante come donna, e non come simbolo, o si riferisca
+invece a questo.  Vedi ^1-9 {Nota Bosco}.~  Il Chimenz, che non
+crede si tratti d'ammonizione terrena, resta assai perplesso e
+s'accosta, pur dubitoso, alla chiosa dell'Anonimo Fiorentino:
+<con ragione non si debbono cercare le cose sopra natura; e per@o
+non le cercare, ma credi veramente quello che ne tiene la Santa
+Chiesa>.  Mi sembra per@o non potersi escludere che, da quando
+Dante ha sentito ^d'antico amor... la gran potenza~ (^Pg~ XXX
+29), palpiti in lui continuamente un senso d'amor terreno, anche
+se ci@o sembri strano.  Dante, anche se purificato, @e pur sempre
+uomo della terra, non puro spirito!
+
+	|10-12.  e la... f$ee~: e la capacit@a visiva (|la
+disposizion... a veder~) che c'@e (|@ee~; con epitesi in ^-e~ gi@a
+vista pi@u volte), che rimane negli occhi |percossi~ dal sole,
+cio@e abbagliati poco prima (|pur test$e~), mi fece (|f$ee~)
+rimanere alquanto senza la vista.  Si tratta della stessa
+capacit@a visiva, naturalmente negativa, che ha ora Dante,
+abbagliato dalla bellezza sovrumana di Beatrice.
+
+	|13-15.  il viso riformossi~: la vista (|viso~) si
+riform@o; cio@e fu di nuovo adatta a percepire sensazioni meno
+forti (|poco~).  |Al molto sensibile~: al fulgore di Beatrice che
+rifletteva l'^isplendor di viva luce etterna~ (^Pg~ XXXI 139). 
+Il termine il |molto sensibile~ @e tecnico del linguaggio
+filosofico-scientifico del tempo, per indicare l'oggetto che
+determina una forte sensazione (cfr. ^soverchio visibile~ di ^Pg~
+XV 15).  |Onde~: da cui.  |A forza~: vedi v. 7.
+
+	|16-18.  'n sul braccio destro~: a destra, verso destra. 
+La processione, che procedette prima da oriente a occidente, in
+direzione contraria a quella che Dante aveva percorso sull'altra
+riva del Let$e (^Pg~ XXIX 11-12), ora ha fatto una conversione a
+destra, ritornando indietro, quindi in direzione dell'oriente. 
+|Lo glor,ioso essercito~: la processione mistica (per |essercito~
+col senso di <moltitudine>, <folla>, cfr. ^If~ XVIII 28; ^Pg~
+VIII 22).  |Col sole... volto~: con i 7 candelabri e con il sole
+|al volto~, cio@e: preceduto dai sette candelabri e con il sole
+davanti al volto.
+
+	|19-21.  Come... mutarsi~: la similitudine militaresca @e
+stata forse suggerita dal termine militare (anche se non con tale
+significato) che precede (^lo glorioso essercito~, v. 17) e porta
+con s@e la continuazione di tale linguaggio ancora nel v. 22
+(^quella milizia~).  D'altronde non si dimentichi che il carro
+simbolico @e anche paragonato alla biga romana, che conduceva il
+generale al trionfo.  Intendi la terzina cos@i: come una schiera
+di soldati si volge per suo scampo (|per salvarsi~) proteggendosi
+con gli scudi, e ruota con la prima squadra, che porta l'insegna
+(|segno~) e poi seguono le altre squadre ad una ad una, prima che
+tutta la schiera abbia mutato la direzione di marcia.  Si tratta
+quindi non di un dietrofront, ma di una manovra di conversione di
+fronte, in cui ogni componente della schiera `segna il passo',
+come suol dirsi in termine militare moderno, attendendo che chi
+lo precede abbia operato la conversione prima di volgersi e
+accodarsi a quello.  Seguo per l'espressione |sotto gli scudi per
+salvarsi volgesi~ l'interpretazione del Chimenz, che unisce |per
+salvarsi~ non a |sotto gli scudi~, come intendono i pi@u, ma a
+|volgesi~, in quanto @e la conversione della schiera, esposta alle
+offese nemiche, che @e fatta |per salvarsi.~  Si noti poi che
+questa espressione non ha rispondenza nel secondo termine di
+paragone.  Il ^tertium comparationis~ @e solo l'ordine perfetto
+dell'inversione di marcia.  |Segno~: @e il latino ^signum~,
+<insegna>, <bandiera>.  Cfr. ^Pg~ XXIX 154 dove i 7 candelabri
+sono detti ^insegne.~
+
+	|22-24.  quella... regno~: i ventiquattro seniori. 
+|Procedeva~: precedeva; quindi non occorre mutare il testo, come
+fa il Porena, dato che ^procedere~ @e sinonimo di ^precedere~, @e
+vale <camminare dinnanzi>, <formar l'avanguardia> e simili. 
+|Trapassonne~: pass@o davanti a noi.  |Pria... legno~: prima che
+il carro volgesse il timone (|primo legno~).
+
+	|25-27.  Indi... le donne~: le tre donne ritornano presso
+la ruota destra, le quattro verso la sinistra, da cui si erano
+mosse per andare incontro a Dante (cfr. ^Pg~ XXXI 113 e 131)
+dinanzi al grifone.  |Il benedetto carco~: il benedetto carico
+(|carco~), cio@e il carro.  |S@i, che... crollonne~: in modo tale
+che per questo (|per@o~), cio@e per aver tirato il carro, nessuna
+delle sue penne si mosse.  In |crollonne~, il verbo @e usato
+intransitivamente, almeno cos@i @e meglio intendere, e il ^-ne~ @e
+pronome e vale <di esso>.  L'immobilit@a delle penne ha certo
+valore simbolico e pu@o significare, come intendono i pi@u fra i
+moderni, che Cristo guida la sua Chiesa non con mezzi materiali,
+bens@i con il suo spirito, sempre presente.  Fra gli antichi
+commentatori, il Buti riteneva invece trattarsi dell'immutabilit@a
+della giustizia e della misericordia divina anche nel trapasso
+tra il Vecchio e il Nuovo Testamento, mentre per Benvenuto le
+penne non si muovono: <quia nichil de divinitate mutatum est,
+quamvis mutaretur forma Ecclesiae> (<perch$e nulla @e mutato della
+divinit@a, anche se @e mutata la forma della Chiesa>).  L'Ottimo
+ritiene che <il moto della umana generazione dallo stato della
+legge allo stato della grazia fu s@i soave, che considerato il
+Vecchio Testamento figurativo del Nuovo... nulla mutazione quasi
+sent@i>.
+
+	|28-30.  La bella... varco~: Matelda, che mi aveva fatto
+varcare il Let$e.  |La rota... arco~: la ruota che, nel volgersi
+del carro verso destra, aveva descritto col suo giro (|orbita~)
+un arco minore, cio@e la ruota destra.
+
+	|31-33.  passeggiando~: percorrendo a passo lento.  Il
+verbo ha valore transitivo come in ^Pg~ VII 59 (cfr. anche ^If~
+XVII 6 usato in forma passiva).  |V@ota~: priva di abitanti. 
+|Colpa... crese~: Eva.  |Crese~ @e forma antica per <credette>. 
+Cfr. Parodi, ^Lingua~, II 259.  |Temprava... nota~: un canto
+(|nota~) angelico regolava (|temprava~) i passi.  Sono forse gli
+angeli, che dopo avere accolto con una pioggia di fiori Beatrice
+(^Pg~ XXX 16 ss.) e commiserato Dante (XXX 82-84), riprendono a
+cantare.
+
+	|34-36.  Forse... scese~: ordina e intendi: forse ci
+eravamo (|eramo~) allontanati (|rimossi~) tanto spazio, quanto
+una saetta scoccata (|disfrenata~) in tre tiri (|voli~) ne suole
+percorrere (|prese~), quando Beatrice scese.  |Prese~: @e il
+cosiddetto perf. di consuetudine e vale <prende, suole prendere>. 
+|Disfrenata~: scoccata, lanciata dall'arco; letteralmente
+<liberata dal freno>.  |Eramo~: <eravamo>; latinismo (lat.
+^eramus~) o provenzalismo (prv. ^er@am~): cfr. Parodi, ^Lingua~,
+II 255.
+
+	|37-60 {Nota Bosco}.~  Abbiamo tralasciato di dare
+l'equivalenza delle due figurazioni che destano serie perplessit@a
+interpretative: una particolare {vedi ^130-141 Nota Bosco~},
+l'altra centrale {qui}.  La pianta, |dispogliata~ {38} per colpa
+del peccato di Adamo, che infatti tutti rimproverano, rifiorisce
+dopo che il grifone-Cristo attacca a essa il carro della Chiesa,
+cio@e dopo la Redenzione che cancella il peccato originale; Dio
+vuole che albero e Chiesa siano legati tra loro.  Pi@u grave @e la
+perplessit@a che riguarda l'albero: grave sia per le difficolt@a di
+risolvere il problema senza residui di dubbio, sia per la
+posizione centrale che ha l'albero nel sistema allegorico
+generale.  Tra le troppe spiegazioni, due sono da prendere in
+seria considerazione: quella per cui l'albero rappresenta la
+giustizia divina, e l'obbedienza che essa impone, e l'altra che
+vede nella pianta un simbolo dell'Impero in quanto tale.  Ambedue
+le interpretazioni sono plausibili, ma ambedue presentano
+difficolt@a; soprattutto @e difficile ammettere che l'Impero possa
+avere due figurazioni simboliche, l'albero e l'aquila.  D'altra
+parte, nel canto successivo (55-72), Beatrice perentoriamente
+spiega che l'albero @e quello stesso del bene e del male di cui
+Adamo mangi@o il frutto, contro il divieto, l'^interdetto~ divino;
+e dunque, aggiunge Beatrice, l'albero rappresenta la giustizia di
+Dio, violata dalla disobbedienza di Adamo, e restaurata da Cristo
+col suo sacrificio.  @E alto e ha la chioma dilatata verso la sua
+parte superiore, perch$e la giustizia di Dio non @e penetrabile
+dall'uomo, e forse appunto in relazione al divieto: basterebbero
+queste sue caratteristiche, dice il poeta, per far comprendere il
+suo significato: ^per tante circostanze solamente / la giustizia
+di Dio, ne l'interdetto, / conosceresti a l'arbor moralmente.~ 
+Non che questa interpretazione elimini ogni dubbio; ma nella
+incertezza par cosa saggia attenersi a questa interpretazione
+autentica, fornitaci dallo stesso poeta: non senza osservare che,
+essendo l'Impero, secondo il pensiero di Dante, interprete e
+custode della giustizia, le due ipotesi finiscono col coincidere.
+
+	|37-39.  Adamo~: tutti i personaggi della processione
+mormorano la parola |Adamo~, che @e lamento e rimprovero insieme
+per il peccato del primo uomo.  |Cerchiaro~: circondarono.  |Una
+pianta dispogliata~: il nome di Adamo mormorato da tutti, al
+cospetto della pianta dispogliata, sta chiaramente e senza
+possibilit@a di dubbio ad indicare che nel senso letterale la
+|pianta~ @e <l'albero del bene e del male>, il cui frutto era
+stato vietato all'uomo (cfr. ^Gen.~ II 9, 16-17; III 1-6). 
+Poich$e Dante stesso indic@o nelle Scritture quattro sensi (^Cv~ II
+i 3-5), abbiamo della |pianta~ un secondo preciso significato,
+indicato da Dante stesso nel senso morale (^Pg~ XXXIII 70-72), e
+cio@e <la giustizia divina>.  Sono questi quindi i due soli dati
+sicuri.  Si pu@o soltanto avanzare l'ipotesi che la spogliazione
+della pianta simboleggi la giustizia divina, offesa dal peccato
+di Adamo, e il suo rinverdire, quando il grifone vi lega il carro
+(49-60), l'effetto della Redenzione, che reintegra la giustizia
+violata.  Ma naturalmente i simboli attribuiti alla pianta furono
+tanti e vari.  Cos@i essa venne interpretata di volta in volta
+come l'ubbidienza, l'umanit@a, la Croce, Roma, la Chiesa, il ^ius
+naturale~ o la volont@a divina, e cos@i via.  Assai diffusa
+l'interpretazione che fa della pianta il simbolo dell'Impero: ma
+essa @e in contrasto con ci@o che apparir@a dopo (112-117 e 124-129)
+dove il simbolo dell'Impero sar@a chiaramente rappresentato
+dall'aquila (^l'uccel di Giove~).  Ci@o non toglie che il simbolo
+della giustizia divina non contenga in s$e anche il concetto che
+essa trovi la sua attuazione sulla terra nella Monarchia
+universale.  Ci@o che @e contraddittorio, come s'@e detto, @e il
+farne senz'altro il simbolo dell'Impero.  Si rimanda comunque,
+per una pi@u ampia visione di tutto il simbolismo, a ^37-60 {Nota
+Bosco}~ e, tra i molti altri, ai seguenti scritti: BARBI, ^Con
+Dante~, 58-70; Id., ^Nuovo Commento~, 134-139; NARDI, ^Mondo~,
+150-157; PARODI, ^Poesia~, 325-338; PAGLIARO, ^Ulisse~, II
+519-521; CHIERICI, in <L'Alighieri> XII, 1, 14-18.  |D'altra
+fronda~: probabilmente le gemme o i rimessiticci.
+
+	|40-42.  La coma... @e s@u~: la sua chioma che si dilata,
+che diventa sempre pi@u larga, man mano che s'innalza.  La forma
+di quest'albero @e la stessa di quella degli alberi che stanno
+nella cornice dei golosi (^Pg~ XXII 133-135) i quali, d'altronde,
+hanno la loro origine da questo (cfr. ^Pg~ XXIV 115-117). 
+|Fora... ammirata~: sarebbe (|fora~), per la sua altezza,
+ammirata dagli Indiani se fosse nei loro boschi.  Nelle selve
+indiane si diceva che crescessero alberi altissimi, tanto che
+alla cima non sarebbe arrivata una saetta scagliata dall'arco
+(cfr. Virg. ^Georg.~ II 122-124 e Plinio, ^N. H.~ VII 2).
+
+	|43-45.  <Beato... quindi>~: i personaggi della
+processione avevano biasimato Adamo per aver disobbedito
+all'ordine divino e averne quindi offesa la giustizia; ora lodano
+il grifone, Cristo, per non averla mai offesa, mediante la sua
+obbedienza alla volont@a del Padre.  Il simbolo dell'albero da noi
+sostenuto, sulla scorta dell'indicazione del poeta stesso,
+concorda perfettamente, come si vede, con questa lode tributata
+al grifone.  Per chi identifica l'albero con l'Impero, questa
+lode al grifone significherebbe invece l'esaltazione
+dell'ossequio di Cristo all'autorit@a imperiale (cfr. ^Matth.~
+XXII 21) e la sua obbedienza ad essa (^Mn~ II xi 6): simbologia
+che si potrebbe anche accettare, ma che comunque non supera le
+difficolt@a accennate nella nota al v. 38.  |Discindi~: scheggi,
+laceri.  Per il Vandelli, che sostiene il simbolo dell'Impero, il
+verbo richiama ^Mn~ III x 5: <scindere Imperium>.  Si pu@o anche
+intendere: <cogli, stacchi>, dando a |legno~ il senso del <frutto
+dell'albero>.  |Legno~: @e termine biblico: <de ligno... scientiae
+boni et mali ne comedas> (^Gen.~ II 17 e cfr. anche III 6), dove
+^lignum~ vale <frutto>.  |Poscia... quindi~: poich$e di qui
+(|quindi~) cio@e per effetto di quello, il ventre si contorce dal
+dolore.  L'espressione |mal si torce~ @e calco dal latino ^male
+torqueri~, <contorcersi per il dolore>.  Il Vandelli spiega: <chi
+viola ci@o che l'albero figura, male se ne ritrova>: e sta bene,
+ma l'immagine del ventre, colpito dal dolore a causa del |legno~,
+farebbe pensare di pi@u ad Adamo ed Eva (non per nulla alcuni
+lessero ^si torse~).  Se diamo per@o a |discindi... d'esto legno~
+il senso di <cogli il frutto (proibito)> l'immagine si accorda
+perfettamente anche con il grifone-Cristo, n$e occorre pensare ad
+un altro simbolo, quello dei beni temporali, da cui appunto
+Cristo si sarebbe sempre astenuto.  Si evita cos@i di caricare
+l'albero di un eccessivo simbolismo, che pu@o aprire la strada
+alle pi@u spericolate ipotesi.
+
+	|46-48.  albero robusto~: qualcuno ha pensato all'^arbor
+robusta~ di ^Daniel~ IV 17 (nel sogno di Nabuccodonosor),
+ritenuto anche fonte dell'episodio dantesco.  |L'animal binato~:
+il grifone che ha doppia natura.  Qualcuno, sulla traccia
+dell'Ottimo, intende invece <nato due volte>: ^ab aeterno~ e con
+l'incarnazione.  Ma la prima <nascita> sembra espressione poco
+ortodossa: in quanto Dio, Cristo non nasce; esiste ^ab aeterno.~ 
+|<S@i si conserva... giusto>~: rispettando la giustizia divina si
+conserva il fondamento di ogni giustizia: <ci conviene compiere
+ogni giustizia>, aveva detto Ges@u (^Matth.~ III 15).  In tal caso
+l'aggettivo ^giusto~ ha valore di neutro, in luogo dell'astratto
+<giustizia>.  Si pu@o anche intendere col valore normale di agg.
+sostantivato: <di ogni uomo innocente, non peccatore>: cfr.
+Paolo, ^Rom.~ V 19, con la contrapposizione ^peccatori/giusti.~
+
+	|49-51.  temo~: timone.  Per qualcuno simboleggerebbe la
+Croce, ma non se ne vede la necessit@a.  Escluderei anche l'altra
+interpretazione, che pur sarebbe pi@u plausibile, che vede in esso
+la curia.  |Vedova frasca~: l'albero dispogliato (lat. ^viduus~ =
+privo).  |E quel... legato~: e leg@o il timone all'albero (|a
+lei~) con una frasca dell'albero stesso (|di lei~).  Ma il Buti
+intese |quel di lei~, come il timone fatto dello stesso legno
+della pianta.  L'aver ritenuto il timone simbolo della croce,
+portava facilmente a dar credito alla diffusa leggenda medievale
+che la croce, su cui Ges@u fu crocifisso, fosse fatta con il legno
+dell'albero della scienza del bene e del male.  Tale
+interpretazione che parve, per esempio al Sapegno, <suggestiva>,
+perch$e in un contesto dove il linguaggio @e chiuso e cifrato, @e
+invece da respingere, perch$e @e impossibile che il timone, se @e
+simbolo del sacrificio di Cristo, possa essere oggetto della
+mostruosa trasformazione, che verr@a narrata nei vv. 136-147. 
+L'azione qui descritta del carro legato dal grifone all'albero
+che tutto rifiorisce, pu@o voler significare il frutto della
+Redenzione, cio@e la pacificazione dell'umanit@a con Dio, la
+riconciliazione con la giustizia divina per mezzo della Chiesa.
+
+	|52-54.  le nostre piante~: le piante che crescono sulla
+terra.  |Quando... lasca~: quando la luce del sole (|la gran
+luce~) in primavera piove sulla terra (|casca gi@u~), congiunta
+con quella della costellazione dell'Ariete (letter. con quella
+che |raggia~), seguendo (|dietro a~) la costellazione dei Pesci
+(|la celeste lasca~).  |La celeste lasca~: <la |lasca~ @e una
+specie di pesci che si trova nel lago di Perogia> spiega il Buti. 
+In effetti la lasca @e un pesce d'acqua dolce (^chrondrosoma
+genei~) della specie dei Ciprinidi, di color cenerognolo, da cui
+l'etimo dal longobardo *^aska~ = <cenere>.  E. BIANCHI, in
+<Lingua nostra>, X (1949) p. 78, dimostr@o che il nome aveva
+allora in Toscana il valore generico di <pesce> (cfr. la locuz.
+^sano come una lasca~ = sano come un pesce, sanissimo).  Il
+Casella lo intende come plurale ^le lasca~, ricalcato sulla forma
+del neutro latino; ma vedi le obiezioni in PETROCCHI, III 555.
+
+	|55-57.  turgide fansi~: per il rigonfiamento delle gemme
+(cfr. Virg. ^Buc.~ VII 48).  |Si rinovella... ciascuna~: ciascuna
+pianta rinnova i suoi colori, il verde delle foglie e i
+variopinti fiori.  Cos@i, per lo pi@u, si intende.  Ma forse @e
+meglio letteralmente: <ciascuna si rinnova con i suoi fiori>
+(|colori~ = fiori; cfr. ^Pg~ XXVIII 68).  |Giunga... stella~:
+passi nella costellazione successiva, cio@e prima del compirsi di
+un mese.  L'immagine del sole, che aggioga i cavalli, @e forse di
+origine virgiliana (cfr. ^Aen.~ I 568: <equos Tyria sol iungit ab
+urbe>) come si suol citare; @e, comunque, genericamente di origine
+classica.  |Giunga~ vale <congiunga>, <attacchi>.
+
+	|58-60.  men che... aprendo~: facendo sbocciare fiori dal
+colore meno vivo di quello delle rose e pi@u vivo di quello delle
+viole.  Si tratta quindi di un colore tra il roseo e il violetto,
+che gi@a gli antichi commentatori interpretavano come allusione al
+sangue di Cristo.  I fautori del simbolismo imperiale intendono
+per tale colore la porpora degli imperatori; altri lo collegano
+al colore delle vesti delle quattro virt@u cardinali.  Suggestiva
+l'ipotesi del Parodi (<Bull.> XVII 137) che tale colore sia
+quello dell'ametista, pietra preziosa interpretata da S. Bernardo
+come simbolo della giustizia.  |Ramora~: rami; forma arcaica di
+plurale, ricalcato sui neutri latini, come ^tempora~, ^corpora.~ 
+Cfr. infatti altri plurali arcaici italiani: <pr@atora>,
+<c@ampora>, <f@ocora>, ecc.  |S@i sole~: cos@i spoglie.
+
+	|61-63.  n$e qui non si canta~: n$e si canta qui, sulla
+terra.  Si noti la doppia negazione, |n$e... non~, dove la seconda
+@e pleonastica.  |Cantaro~: cantarono; plurale concordato a senso
+con |gente~, singolare collettivo.  |N$e... quanta~: n$e resistetti
+(|soffersi~) ad ascoltare tutto il canto (|nota~) fino alla fine,
+perch$e sopraffatto dalla sua dolcezza e vinto dal sonno.  |Nota~
+per <canto> come al v. 33.
+
+	|64-66.  ritrar~: narrare, descrivere.  |Assonnaro~: si
+chiusero per il sonno.  Si ricordi il tramortimento di ^Pg~ XXXI
+89-90.  |Li occhi... Siringa~: gli occhi di Argo, che li chiuse
+persuaso al sonno dal canto di Mercurio, che gli narr@o gli amori
+del dio Pan e della ninfa Siringa; cos@i Mercurio pot$e ucciderlo
+(Ov. ^Met.~ I 568-747).  Cfr. ^Pg~ XXIX 95.  |Li occhi... caro~:
+l'uccisione di Argo fu voluta da Giove, perch$e l'assidua
+vigilanza dei cento occhi del pastore impedivano al dio di
+avvicinarsi a Io, la ninfa da lui amata.  Perci@o il loro vegliare
+continuamente (|pur vegghiar~) cost@o ad Argo cos@i caro.
+
+	|67-69.  pintor~: pittore.  |Con essempro pinga~: dipinga
+tenendo dinanzi a s$e un modello (|essempro~).  Per la forma
+|essempro~ preferita dal Petrocchi a ^essemplo~, vedi n. a ^Pg~
+XIX 144.  Per l'immagine, si ricordi Iacopo da Lentini: <Com'om
+che pone mente / in altro exemplo pinge / la simile pintura>
+(^Meravigliosamente~, vv. 4-6, in CONTINI, ^Poeti~, I 55). 
+|Disegnerei~: continua nel verbo l'immagine antecedente del
+pittore.  Dante vuol dire che racconterebbe il suo addormentarsi
+servendosi, come modello, della descrizione dell'addormentarsi di
+Argo.  Il modello per@o non pu@o essere Ovidio che, nel passo cit.,
+non descrive l'addormentarsi di Argo.  Vedi n. seguente.  |Ma
+qual... finga~: ma sia chi vuole colui che ben rappresenti
+l'assonnare, non io.  Se anche Ovidio non ha descritto
+l'addormentarsi di Argo che sarebbe stata rappresentazione
+oggettiva, tanto meno poteva Dante descrivere il suo, dal momento
+che, con l'addormentarsi, cessa la coscienza della realt@a e
+quindi non pu@o esservi memoria.  Di qui forse la ragione di
+questa precisazione.
+
+	|70-72.  Per@o trascorro~: per ci@o, per questo, passo
+oltre.  |Un splendor~: per alcuni @e la luminosa processione che
+sale verso il cielo (vv. 89-90); per altri, e forse meglio, la
+luce dei sette candelabri che circondano Beatrice, insieme con le
+sette virt@u (vv. 97-98).  |Un chiamar~: @e la voce di Matelda.
+
+	|73-81.  Quali... stola~: le spiegazioni particolari
+verranno date ai singoli versi; intanto ordina e intendi cos@i le
+tre terzine: <Quali Pietro, Giovanni e Iacopo, condotti a vedere
+de' fioretti del melo che fa sempre ghiotti gli angeli del suo
+frutto (|pome~) e fa perpetue nozze nel cielo (cio@e condotti a
+vedere la trasfigurazione che fu per loro pregustazione del
+divino) e vinti, ritornarono in s$e alla parola di Ges@u, dalla
+quale furono rotti sonni pi@u profondi (|maggior~), e videro
+scemata la loro compagnia (|scuola~) sia di Mos@e sia di Elia, e
+Ges@u con la veste (|stola~) mutata>.  La lunga similitudine si
+riferisce al racconto evangelico della trasfigurazione (^Matth.~
+XVII 1-8; ^Marc.~ IX 1-7; ^Luc.~ IX 28-36) a cui assistettero,
+sul monte Tabor, Pietro, Giovanni e Giacomo.  Abbagliati dal viso
+luminoso e dalla candida veste di Cristo, che apparve ai loro
+occhi con Mos@e ed Elia, caddero a terra tramortiti; li ridest@o la
+voce di Ges@u, che disse loro: <Surgite et nolite timere>
+(<Alzatevi e non temete>).  Ridestati, videro che Mos@e ed Elia
+erano scomparsi e Ges@u era vestito della solita veste non pi@u
+abbagliante.
+
+	|73-75.  a veder~: dipende sia da ^condotti~ sia da
+^vinti~ (vv. 76-77), nel primo caso con valore finale, nel
+secondo con valore temporale: condotti |per~ vedere e vinti |nel~
+vedere.  |De' fioretti del melo~: un saggio (|fioretti~) dello
+splendore di Cristo.  La metafora |melo~-^Cristo~ @e di ascendenza
+biblica (^Cantico dei Cantici~, II 3): <Sicut malus inter ligna
+silvarum, sic dilectus meus inter filios> (<Come un melo fra
+piante selvatiche, cos@i il mio diletto fra i giovani>).  Si noti
+che |de'~ @e partitivo e |fioretti~ non @e diminutivo (cfr. nota a
+^If~ II 127-129).  |Pome~: arc. per pomo: qui <frutto>;
+metaforicamente indica la visione di Cristo, di cui sono ghiotti
+gli angeli.  |E... cielo~: e li ciba copiosamente.  L'immagine
+delle |nozze~ @e frequente per indicare la beatitudine celeste,
+che @e visione perpetua di Dio.
+
+	|76-78.  condotti e vinti~: vedi nota al v. 73.  |La
+parola~: <Surgite et nolite timere> con la quale Ges@u si rivolse
+ai tre discepoli tramortiti.  |Da la qual... rotti~: dalla quale
+parola di Cristo furono vinti sonni ben pi@u profondi.  Chiara
+allusione alle resurrezioni operate da Ges@u con la parola <Surge>
+(cfr. ad es. ^Luc.~ VIII 54; ^Ioann.~ IX 43).
+
+	|79-81.  scuola~: cfr. ^If~ IV 94.  |Al maestro suo~: al
+loro maestro, a Ges@u.  |Stola~: abito; durante la trasfigurazione
+la veste di Cristo apparve ai tre luminosissima (<e la sua veste
+bianca e fulgente>, ^Luc.~ IX 29, e ^Marc.~ IX 2: <e le vesti
+divennero splendenti e candide come la neve, candide come sulla
+terra non pu@o fare nessun tintore>).
+
+	|82-84.  torna' io~: mi ridestai.  |Quella pia~: Matelda. 
+|Che conducitrice... pria~: cfr. ^Pg~ XXIX 7 ss.
+
+	|85-105 {Nota Bosco}.~  Dopo il ritorno al cielo del
+grifone-Cristo, Beatrice siede sulla radice dell'albero e a
+guardia del carro: la scienza del divino @e deputata alla
+salvaguardia dell'uno e dell'altro.  Dante riprende, anzi
+ricalca, toni delle profezie del Vecchio Testamento e delle
+visioni dell'^Apoc.~, le une e le altre secondo l'interpretazione
+di Gioachino da Fiore e poi dei francescani spirituali (Tocco);
+questo canto @e un punto di arrivo del profetismo e del
+visionarismo medievali.  Il poeta cala l'^Apocalisse~ nella
+storia, la vede in azione, divenuta storia; o, che @e lo stesso,
+vede la storia, anche l'attuale, segnata dal dito di Dio.  Egli @e
+un nuovo Giovanni: come a questo una <magna vox> aveva imposto
+<quod vides scribe in libro>, cos@i a lui Beatrice imporr@a per due
+volte (103-105; ^Pg~ XXXIII 52-54); di riferire ai vivi quel che
+avr@a visto; gli conferir@a cio@e un'esplicita investitura
+profetica, che gli sar@a confermata in Paradiso per bocca dello
+stesso San Pietro (^Pd~ XXVII 64-66); la missione religiosa di
+Dante e del suo poema @e cos@i solennemente riaffermata.  Non per
+nulla la processione s'era arrestata quando il carro era giunto
+all'altezza di lui Dante e poi era tornata indietro includendolo
+nel corteo: essa, e gli spettacoli connessi, sono ordinati per
+lui, perch$e veda e riferisca.  I danni subiti dalla Chiesa sono
+voluti da Dio per suoi misteriosi fini; la loro provvidenzialit@a
+@e garanzia che presto Dio interverr@a direttamente per ristabilire
+l'ordine terreno turbato dalla disobbedienza e dalla cupidigia:
+Beatrice dar@a nel canto successivo (37-54) l'annuncio della
+prossima certa salvezza.
+
+	|85-87.  tutto in dubbio~: dubbioso e smarrito alla idea
+di essere abbandonato da Beatrice.  |Sotto la fronda... radice~:
+sotto la fronda dell'albero rinnovellato e seduta sulla radice di
+esso.  @E probabile che il significato allegorico della scena sia
+questo: la scienza divina siede a custode della Chiesa (^carro~),
+unita da Cristo (^grifone~) alla giustizia di Dio (^albero~),
+custode cio@e di questo vincolo nuovo tra Dio e l'umanit@a redenta. 
+Forse, il sedere sulla radice significher@a che la Teologia poggia
+sulla scienza del bene e del male e le virt@u teologali e
+cardinali l'illuminano con la luce dello Spirito Santo (vv. 88 e
+97-99).  Ma naturalmente non sono mancate altre interpretazioni:
+la radice @e stata identificata con Roma, sede delle due podest@a;
+altri l'hanno intesa come l'umilt@a, fondamento della scienza
+delle cose divine, e via dicendo.  @E difficile dire quale
+opinione sia preferibile, anche perch$e tutto il grande mistero
+drammatico di questi canti ultimi del ^Purgatorio~, pu@o essere
+soggetto a interpretazioni di fondo diverse, e gli interpreti
+cercano naturalmente di conservare nei particolari una certa
+coerenza con le premesse.
+
+	|88-90.  la compagnia~: le sette donne-virt@u (vv. 97-98). 
+|Gli altri dopo 'l grifon~: tutti i personaggi (i 24 seniori, i 4
+animali, i 7 vecchi) della processione seguono (|dopo~ = dietro)
+il grifone nella sua ascesa al cielo.  |Pi@u... profonda~: o di
+quelle finora udite, o di quella che lo fece addormentare.
+
+	|91-93.  se pi@u... diffuso~: se Matelda aggiunse altre
+parole, se parl@o pi@u a lungo.  |Quella... chiuso~: Beatrice, che
+mi aveva precluso, impedito (|chiuso~) d'intendere altro.  @E di
+nuovo il fenomeno accennato al v. 3 e spiegato in ^Pg~ IV 1-12.
+
+	|94-96.  in su la terra vera~: l'agg. |vera~ @e un po'
+strano.  La pi@u ovvia interpretazione @e quella che gli d@a il
+valore di <nuda>: cio@e Beatrice siede sulla <nuda terra>: ma @e da
+escludere che ci@o voglia alludere alla povert@a della Chiesa
+primitiva, in quanto Beatrice non rappresenta simbolicamente la
+Chiesa, bens@i la Teologia.  Altri intende invece l'agg. nel senso
+proprio di <verace>, in quanto il Paradiso terrestre @e la terra
+dell'innocenza e della verit@a.  Suggestiva l'ipotesi del Porena
+che pensa ad una lezione <terra mera>, che il Petrocchi rifiuta
+perch$e <potrebbe riecheggiare il precedente ^m'era~ del v. 92>
+(scritto ovviamente nei codici ^mera~).  Questa ragione, invece,
+pu@o essere proprio il motivo per accettare tale lezione in quanto
+ben frequente nella poesia del tempo (si pensi in particolare a
+Guittone), e anche non raro in Dante, l'artificio della rima
+equivoca e di quella composta.  |Plaustro~: carro (latino
+^plaustrum~).  |A la biforme fera~: dal (|a la~) grifone, con la
+doppia natura di leone e di aquila.
+
+	|97-99.  claustro~: (lat. ^claustrum~), propriamente vale
+<chiusura>, <sbarramento>, quindi per estensione <cintura>,
+<corona> e simili.  |Le sette ninfe~: le 7 donne-virt@u (|ninfe~
+anche in ^Pg~ XXXI 106 son dette le quattro che danzano presso la
+ruota sinistra).  |Con quei... Austro~: con in mano quelle
+lampade (|lumi~) che sono sicure, cio@e non vengono spente, n$e da
+Aquilone n$e da Austro (due venti assai violenti e impetuosi che
+soffiano il primo da nord, il secondo da sud).  Sembrerebbe
+trattarsi dei sette candelabri, e cos@i per lo pi@u s'interpreta. 
+Ma come possono essere tenuti |in mano~ quei candelabri, che
+dobbiamo immaginare giganteschi, se erano stati scambiati da
+lontano con alberi (cfr. ^Pg~ XXIX 43-50)?  Potrebbe anche darsi
+che Dante immaginasse sette lampade, suggeritegli dalla parabola
+evangelica delle vergini sagge: sarebbe interpretazione pi@u
+logica, ma Dante non dice che si tratta di lampade diverse. 
+Anche qui dobbiamo pensare che il poeta non si sia preoccupato
+della verisimiglianza realistica, specie in un contesto cos@i
+ricco di simboli.
+
+	|100-102.  Qui... silvano~: tu rimarrai in questa selva
+poco tempo.  Beatrice profetizza qui a Dante la sua salvazione
+(accenni ad essa erano gi@a apparsi qua e l@a sporadicamente
+nell'^Inferno~): questo verso allude evidentemente al breve
+passaggio del poeta, dopo la morte, attraverso il Paradiso
+terrestre, dopo aver compiuto la sua espiazione nel Purgatorio. 
+|Cive~: cittadino (lat. ^civis~).  |Di quella... romano~: il
+Paradiso, la Roma celeste (non la terrena, qui, si badi,
+volutamente e polemicamente contrapposta in forma implicita), di
+cui Cristo @e il primo cittadino.  Per@o l'aver indicato Roma e non
+Gerusalemme, poniamo, o Atene, come in ^Cv~ III xiv 15, sta a
+indicare il significato universale che la Roma terrena ha nel
+pensiero di Dante, come luogo da cui si diffuse il cristianesimo,
+scelto ^ab aeterno~ come sede delle due podest@a (^If~ II 22-24).
+
+	|103-105.  Per@o... scrive~: @e la prima volta che nel
+poema viene affidato a Dante il compito di scrivere per
+ammaestrare gli uomini; di questa missione verr@a pi@u solennemente
+investito successivamente da S. Pietro (^Pd~ XXVII 64-66). 
+|Per@o~: e perci@o, per il fatto di essere un eletto.  |In pro...
+vive~: a vantaggio dell'umanit@a corrotta e traviata.  Ma forse
+non ci si riferisce genericamente ai peccatori, bens@i a coloro
+che non credono alla sacert@a dell'Impero.  Infatti Dante dovr@a
+fare attenzione al carro e poi (XXXIII 55-60) alla pianta; dovr@a
+cio@e rendere testimonianza essenzialmente, se non esclusivamente,
+sulla necessit@a di ubbidire a ci@o che Dio ha stabilito nella sua
+giustizia, e testimoniare che la Chiesa sia libera dalla
+corruzione presente.  @E un messaggio, dunque, politico-religioso. 
+|Quel che vedi~: nell'^Apocalisse~ spesso una voce ammonisce
+Giovanni a scrivere ci@o che vede: <Quod vides, scribe in libro>
+(I 11 e cfr. anche I 19, XXI 5).  Dante assume qui esplicitamente
+la funzione di <profeta>.  |Di l@a~: sulla terra, nel mondo.  |Fa
+che tu scrive~: ricalco della forma latina ^fac ut scribas~, pi@u
+solenne che il semplice imperativo.  |Scrive~ con la gi@a vista
+desinenza in ^-e~ della 2a persona sing. del cong. presente.
+
+	|106-108.  tutto... divoto~: ero pronto umilmente ad
+ubbidire ai suoi ordini.  L'espressione ^ai piedi dei
+comandamenti~, che il Vandelli giudica sapere di secentismo, era
+nel gusto medievale del discorso immaginoso e fiorito.  Il
+Torraca infatti ricorda Guittone: <... del cor meo la cervice /
+devotamente ai piei vostri s'enchina> (^Padre dei padri miei~,
+ed. Egidi XL, 41-42); @e inoltre nota l'analoga immagine del
+Petrarca <con le ginocchia de la mente inchine> (^Vergine bella~,
+^Canz.~ CCCLXVI 63) e dello stesso Petrarca: <flexis ipsius
+animae genibus> (<piegate le ginocchia dell'anima>) nel ^Testam.~
+{par.} 3.  Tale immagine vuole indicare l'atteggiamento di
+devozione del poeta, e l'atto del prostrarsi umilmente sottolinea
+il senso quasi religioso del comando di Beatrice (^comandamento~,
+invece del pi@u comune <comando>: cfr. ^If~ II 79), e concretizza
+in un atteggiamento materiale un'astrazione, tendenza frequente
+della poesia dantesca.  |Diedi~: rivolsi (cfr. ^Pg~ III 14).
+
+	|109-123 {Nota Bosco}.~  Gli imperatori romani,
+perseguitando i primi cristiani, `dirubano' s@i, un'altra volta,
+l'albero, squassano il carro, ma questo resiste.  Come resiste
+anche alle astuzie delle eresie, figurate nell'assalto della
+volpe; le sottigliezze teologiche, che portano o possono portare
+all'eresia, son dissolte senza sforzo dalla verit@a rivelata.
+
+	|110-111.  foco~: fulmine.  |Di spessa nube~: da nube
+densa, condensata.  |Quando... remoto~: quando (il fulmine; sogg.
+sottinteso) piomba, precipita (|piove~) dalle regioni pi@u alte
+del cielo.  Cos@i @e meglio intendere; ma altri ritengono |piove~
+impersonale e in senso proprio, e spiegano: quando piove dalle
+regioni pi@u alte.  L'una e l'altra interpretazione si equivalgono
+in quanto, secondo la fisica del tempo, quando le nubi vengono a
+trovarsi pi@u vicine alla sfera del fuoco, in esse si concentra
+maggior copia di calore e quindi il cadere del fulmine @e pi@u
+violento e fragoroso.  Ma si ricordi che il fuoco @e gi@a
+nell'interno della nube e il suo dilatarsi provoca lo squarciarsi
+della nube stessa e il cadere del fulmine.  Data quindi
+l'equivalenza semantica delle due interpretazioni, la preferenza
+da darsi alla prima deriva dal fatto che ^piovere~, in senso
+proprio con il costrutto impersonale, sarebbe documentato solo
+qui, mentre in tutte le altre occorrenze del poema il verbo vale
+sempre <cadere>, <scendere> e simili, con maggiore o minore
+violenza (cfr. ad es. ^If~ XIV 29, unico in cui si avvicina, ma
+solo si avvicina, al senso proprio, e invece: ^If~ VIII 83, XXIV
+122, XXX 95; ^Pg~ XVII 25; e con sogg. astratti: ^Pd~ III 90,
+XXIV 135, ecc.) e cos@i sempre si trova nelle ^Rime~ (LXV 5;
+LXXXVII 11; C 67; ecc.) e in ^Amor che ne la mente mi ragiona~,
+v. 63; in ^Cv~ III viii 15 e 16; xv 11; ecc.
+
+	|112-114.  l'uccel di Giove~: l'aquila, sacra appunto a
+Giove.  Cfr. Virg. ^Aen.~ I 394: <Iovis ales>; e in Dante stesso
+(^Pd~ VI 4): ^l'uccel di Dio.~  L'aquila che, scendendo con
+violenza, rompe la scorza, i fiori e le fronde dell'albero e
+colpisce con violenza il carro, simboleggia l'impero romano che,
+da Nerone a Diocleziano, perseguitando i cristiani, offese la
+giustizia divina e colp@i gravemente la Chiesa.  Questa simbologia
+fa escludere che l'albero raffiguri l'Impero; i commentatori, che
+invece cos@i credono, son costretti a strane e contorte
+interpretazioni.  |Rompendo... nove~: si noti che ^de la scorza~,
+^d'i fiori~ e ^de le foglie~ sono partitivi e quindi complementi
+oggetto dipendenti da |rompendo.~  La rottura della scorza
+significher@a forse la vera e propria offesa alla giustizia,
+mentre quella dei fiori e delle fronde, l'offesa al frutto della
+Redenzione (Chimenz).
+
+	|116-117.  fortuna~: tempesta.  |Poggia... orza~: due
+termini marinareschi, che indicano rispettivamente il lato di
+sottovento (il lato opposto a quello dal quale soffia il vento) e
+il lato di sopravvento.  @E probabile per@o che qui la locuzione
+|da poggia... da orza~ valga semplicemente <di qua e di l@a>,
+indipendentemente dal significato tecnico dei due termini, e stia
+ad indicare il movimento di una nave senza governo, sballottata
+qua e l@a dalle onde.  Inesatta la chiosa, che spesso i
+commentatori si rimandano l'un l'altro, che i due termini siano
+il nome di due corde che reggono l'antenna a destra e a sinistra
+della nave.  Cfr. VIVALDI, in <L'Alighieri> II 1, 31-33.
+
+	|118-120.  la cuna~: il fondo del carro, la concavit@a di
+esso.  Il latinismo (lat. ^cunae~) @e pi@u adatto parlando del
+carro-Chiesa, mentre il termine in s$e (<culla>) si conviene alla
+bestia che ivi vuol fare la sua tana.  |Una volpe~: quasi unanime
+l'interpretazione della volpe come simbolo dell'eresia, messa in
+fuga dalla scienza divina, attraverso i Padri della Chiesa. 
+L'identificazione poi con l'eresia ariana o con quella di papa
+Anastasio (cfr. ^If~ XI 8) o addirittura con personaggi come
+Maometto o Giuliano l'Apostata, sono illazioni particolari, che
+non merita discutere specificatamente.  L'affresco trecentesco
+sulla parete destra del Cappellone degli Spagnoli a Firenze,
+attribuito ad Andrea di Bonaiuto, rappresenta il trionfo
+dell'Ordine domenicano.  In esso sono effigiati i santi Domenico,
+Tommaso e Pietro Martire, che confutano gli eretici e sotto di
+loro, in forma simbolica, dei cani bianchi pezzati di nero
+(^Domini canes~) che dilaniano delle volpi: cio@e i domenicani che
+combattono le eresie (Porena).  |Che... digiuna~: l'eresia si
+nutre di dottrine non vere, errate (|pasto buon~ = la verit@a
+rivelata).
+
+	|121-123.  laide colpe~: gli errori propri dell'eresia. 
+|Futa~: forma popolare per <fuga>, ancor viva in qualche dialetto
+(genovese ^f,uta~ = fretta).  Risale al lat. volg. ^fugita~, da
+cui ^fuita~ e poi ^futa~ in fiorentino.  Cfr. PARODI, ^Lingua~,
+II 281.  |Quanto... polpe~: quanto glielo permise (|sofferser~)
+la sua magrezza.  @E dubbio se il senso del verso sia che essa
+fugg@i rapidamente, perch$e magra e quindi svelta, o lentamente,
+per la sua debolezza dimostrata dalla macilenza del corpo.
+
+	|124-129 {Nota Bosco}.~  L'avvenimento fatale @e un altro:
+il funesto dono dell'aquila, che come sempre impersona l'Impero:
+cio@e la donazione di Costantino, inizio del potere temporale,
+primo avvio alla cupidigia di beni terreni, la quale in un
+istante corrompe tutta la Chiesa.
+
+	|124.  per indi... venuta~: per la stessa parte donde era
+venuta la prima volta: cio@e lungo l'albero.  Il Chimenz ritiene
+che l'aquila abbia il suo nido sull'albero, a significare che Dio
+ha affidato all'Impero la sua giustizia, alla quale s'ispira
+quella terrena.  Dante non lo dice esplicitamente, ma
+l'indicazione che per due volte l'aquila scende ^per l'alber gi@u~
+potrebbe convalidare questa interpretazione.
+
+	|125-126.  l'aguglia~: la forma popolare sembra meno
+adatta in questa sede di quella classica ^aquila~, che mi
+sembrerebbe preferibile, anche se il Petrocchi (I 418) ritiene
+che l'alternanza delle due forme sia pi@u condizionata dalla
+diversit@a di accento che dalla maggior letterariet@a del termine
+^aquila~, in cui la forma italiana coincide con la latina.  @E di
+nuovo e inequivocabilmente simbolo dell'Impero.  |L'arca~: come
+<cuna> di v. 118.  |Di s$e pennuta~: ricoperta delle sue penne. 
+Chiara allusione alla donazione di Costantino, disapprovata da
+Dante pi@u volte nel poema come inizio della cupidigia terrena
+della Chiesa e quindi come prima causa di confusione dei due
+poteri (cfr. ^If~ XIX 115-117; ^Pg~ XVI 109-110 e 127-129; ^Pd~
+XXVII 140-141, ecc.) e fulcro della polemica del ^Monarchia.~
+
+	|127-129.  si rammarca~: si rammarica.  |Cotal~: forse
+avv. <cos@i>; ma potrebbe anche riferirsi a |voce.~  |Navicella~:
+la barca di S. Pietro, la Chiesa (cfr. ^Pd~ XI 119-120).  Il
+diminutivo @e gi@a nel Vangelo (^Matth.~ VIII 23, IX 1, XIII 2;
+^Luc.~ VIII 22; ecc.) e <navicula Petri> @e in ^Ep~ VI 3; cfr.
+anche ^Ep~ XI 12.  Che si tratti della voce di S. Pietro @e
+supposizione possibile, sostenuta da alcuni, ma potrebbe essere
+la voce stessa di Cristo.  |Com'... carca~: <di che merce cattiva
+sei carica!>, ovvero: <come sei caricata malamente!>.  @E evidente
+che, con la donazione di Costantino, la Chiesa si addoss@o un
+carico materiale (il potere temporale) del tutto estraneo al
+compito puramente spirituale di essa.  Alcuni antichi
+commentatori riferiscono la leggenda che, al momento della
+donazione costantiniana, si ud@i nel cielo una voce che disse:
+<Hodie diffusum est venenum in Ecclesia Dei!> (<Oggi si diffuse
+il veleno nella Chiesa di Dio>).
+
+	|130-141 {Nota Bosco}.~  La {figurazione} particolare
+{vedi ^37-60 Nota Bosco~} concerne la simbologia del drago che
+toglie via al carro della Chesa una parte del suo fondo: ci@o
+significherebbe, secondo alcuni, l'azione di Satana-serpente che
+porta agli scismi, toglie dunque alla Chiesa di Roma parte dei
+suoi fedeli; in particolare, qualcuno pensa che il poeta alluda
+ai grandi scismi di Ario e di Maometto, quest'ultimo da lui
+considerato scismatico (^If~ XXVIII 22-31).  Secondo altri,
+invece, il simbolo alluderebbe al fatto che per l'opera di Satana
+la Chiesa perdette lo spirito di povert@a, parte essenziale della
+sua spiritualit@a.  Forse questa seconda interpretazione @e la
+giusta: i danni subiti dal carro della Chiesa sono nel racconto
+disposti in ordine logico-cronologico: le persecuzioni degli
+imperatori romani, le eresie, la donazione di Costantino, il
+dilagare dell'amore ai beni terreni, infine le collusioni e gli
+scontri col potere regio.  Se l'assalto del drago alludesse agli
+scismi, questi s'inserirebbero indebitamente tra un evento (la
+donazione) e la sua conseguenza (la gramigna della cupidigia). 
+Inoltre, l'azione del serpente @e quella che il messo di Dio
+vaticinato vorr@a vendicare (XXXIII 34-36): dunque non gli scismi
+ma la cupidigia.
+
+	|131-132.  tr'ambo le ruote~: tra l'una e l'altra ruota
+del carro.  |Un drago~: figura di animale mostruoso fornito di
+ali e di cresta.  Varie le interpretazioni allegoriche del
+mostro.  Per alcuni @e Maometto, per altri @e l'Anticristo, per
+altri simbolo in generale di scismi che, per opera del demonio
+(il drago esce infatti di sotto terra, quindi viene dall'Inferno)
+sottraggono parte dei fedeli alla Chiesa.  Per alcuni interpreti
+esso sarebbe ricavato dall'^Apocalisse~ (XII 3-9), dove raffigura
+Satana: esso sottrae alla Chiesa lo spirito di povert@a, ispirando
+la cupidigia per i beni terreni.  Vedi ^130-141 {Nota Bosco}.~ 
+|Fisse~: latinismo <confisse> (lat. ^fixit~).
+
+	|133-135.  l'ago~: il pungiglione.  |A s$e... maligna~:
+ritirando la coda.  Anche di Gerione (^If~ XVII) Dante sottolinea
+il pericolo insito nella coda.  |Del fondo~: compl. ogg. con la
+particella del partitivo: <una parte del fondo>.  |Gissen~: se ne
+g@i, se ne and@o.  |Vago vago~: variamente inteso: serpeggiando,
+ondeggiando, soddisfatto, lieto, baldanzoso, ecc.
+
+	|136-138.  Quel che rimase~: la parte del carro rimasta
+dopo la mutilazione operata dal drago.  |Vivace~: fertile.  |Da
+la piuma... benigna~: cfr. v. 126.  In quanto alla intenzione di
+Costantino, buona in s$e, ma radice di gravi mali per la Chiesa,
+cfr. ^Pd~ XX 56: ^buona intenzion che f@e mal frutto~, e ^Mn~ II
+xii 8: qui per@o la cosa @e espressa dubitosamente (|forse~).
+
+	|140-141.  'l temo~: il timone.  |Che... aperta~: con
+minor tempo di quanto la bocca resta aperta per un sospiro: in un
+attimo, in un ^amen.~
+
+	|142-160 {Nota Bosco}.~  Il sacro carro di Cristo diviene
+cos@i l'apocalittico mostro dell'Anticristo; su esso, in luogo di
+Beatrice, della scienza del divino, siede una prostituta, pronta
+agli abbracci di chi la paga, desiderosa di essi: bacia un
+gigante, che poi geloso la flagella e la trascina lontano col
+carro trasformato: non @e difficile riconoscere in ci@o un'allusione
+alla connivenza per fini politici della Chiesa col re di Francia,
+e poi agli screzi tra essi (forse l'offesa di Anagni, quando
+Bonifazio VIII fu catturato, vestito dei paramenti pontifici, e
+insultato da milizie francesi e colonnesi), e al trasporto della
+sede pontificia ad Avignone, per volere di questo.  Dunque, una
+storia della Chiesa, dalla Redenzione ai tempi di Dante: cos@i nel
+canto VI del ^Paradiso~ leggeremo, su assai diverso registro, una
+storia dell'Impero, da quando ^Pallante mor@i per darli regno~
+alle lotte tra Guelfi e Ghibellini del tempo del poeta.
+
+	|142-144.  dificio~: <edificio> (aferesi) e vale <arnese,
+macchina> (cfr. ^If~ XXXIV 7).  @E il carro cos@i trasformato. 
+|Per le parti sue~: nelle sue varie parti, come verr@a indicato
+nei versi seguenti.  |'l temo~: il timone.  |In ciascun canto~:
+in ciascun angolo del carro.
+
+	|145-147.  Le prime... bue~: le tre che erano sul timone
+portavano due corna ciascuna, come buoi.  |Le quattro~: quelle
+degli angoli del carro.  |Simile... fue~: il carro, cos@i
+trasformato, prende l'aspetto del famoso mostro dell'^Apocalisse~
+(XVII 1 ss.), gi@a descritto da Dante in ^If~ XIX 109-111 (vedi
+nota ivi con citazione del passo dell'^Apocalisse~).  Qui per@o
+l'interpretazione @e diversa e la rappresentazione @e pi@u vicina al
+modello giovanneo.  In ^If~ XIX infatti era la meretrice ad avere
+le sette teste e le dieci corna, mentre qui la meretrice, simbolo
+della curia romana, apparir@a seduta sul carro mostruoso (vv.
+148-150).  Le sette teste, che nel passo dell'^Inferno~ venivano
+interpretate in senso buono, come i sette doni dello Spirito
+Santo o i sette sacramenti e le corna i dieci comandamenti,
+vengono invece qui interpretate come i sette peccati capitali:
+quelle del timone, con due corna, i tre peccati che offendono Dio
+e il prossimo, le quattro agli angoli con un corno solo, i
+quattro che offendono solo Dio.  Cos@i per lo pi@u gli antichi
+commentatori e gran parte dei moderni: ma non mancano varianti
+tra l'uno e l'altro.  Comunque, dato che il carro rappresenta la
+Chiesa, la mostruosa trasformazione di esso simboleggia la
+corruzione di quella, dal momento in cui la donazione di
+Costantino l'ha resa avida di beni mondani, deviandola dalla sua
+primitiva missione spirituale.
+
+	|148-150.  Sicura~: sicura di s$e, consapevole della
+propria forza.  |Sciolta~: forse <discinta>, come pensa il
+Chimenz meglio di <sfrontata, senza ritegno>, che @e detto nel
+verso seguente.  La |puttana sciolta~ @e simbolo della curia
+romana e forse in particolare quella del tempo di Bonifazio VIII
+e di Clemente V, o, pi@u genericamente, quella di Avignone.  |Con
+le ciglia... pronte~: con gli occhi procaci: pronti a invitare
+sfrontatamente (cfr. v. 154).
+
+	|151-153.  come... tolta~: cio@e per vigilarla, perch$e non
+gliela portassero via.  |Di costa a lei~: di fianco a lei.  |Un
+gigante~: con massima concordia, gli antichi commentatori
+ritengono rappresentata qui la soggezione del papato alla casa di
+Francia, e, per lo pi@u, identificano il gigante con Filippo il
+Bello.  Cos@i anche la maggior parte dei moderni; secondo altri,
+pi@u in generale la casa di Francia.  Che sia pi@u probabile
+l'identificazione del gigante con Filippo il Bello, sembra
+provato dal fatto che Dante stesso lo ha indicato come Golia,
+anch'esso un gigante, in ^Ep~ VII 29.  |E basciavansi... volta~:
+l'atto sembra bene indicare ci@o che in ^If~ XIX 108 @e detto della
+meretrice che ^puttaneggiava~ con i re.
+
+	|154-156.  l'occhio cupido e vagante~: cfr. v. 150: <con
+le ciglia intorno pronte>.  |A me~: secondo alcuni lo sguardo
+della meretrice a Dante simboleggerebbe l'accostarsi di Bonifazio
+VIII ad altri sovrani, come all'imperatore Alberto d'Austria o a
+Federico, re di Sicilia; altri pensa che Dante simboleggi il
+popolo cristiano e in ispecie quello italiano.  Forse, pi@u
+giustamente, pu@o essere la rottura di Bonifazio con Filippo
+(Porena): la flagellazione della meretrice (v. 156) potrebbe
+allora indicare l'offesa di Anagni.  |Drudo~: amante.
+
+	|157-160.  d'ira crudo~: crudele per l'ira. 
+|Disciolse... selva~: quasi certamente si allude al trasferimento
+della sede papale ad Avignone, ottenuta da Filippo il Bello
+agendo sul debole Clemente V (1305).  |Di lei~: cio@e della selva. 
+|Scudo~: impedimento, ostacolo.  Dante cio@e non pot@e pi@u vedere
+la meretrice e il mostruoso carro, tanto all'interno della selva
+il gigante li aveva condotti.  |Nova belva~: lo strano (|nova~)
+mostro, in cui si era trasformato il carro.

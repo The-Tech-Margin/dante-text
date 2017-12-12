@@ -1,0 +1,18 @@
+{CMD1}
+
+;
+; Transmit "end of previous command" prompt, wait for handshake signal from
+; Macintosh
+;
+
+:GET @LINE ~\007~
+
+:COMPARE @LINE
+
+      TO "\007"
+
+           :MENU ~CMD_~
+
+:DONE
+
+:MENU

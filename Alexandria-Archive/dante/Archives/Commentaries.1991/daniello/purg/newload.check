@@ -1,0 +1,77 @@
+Checking file 01.f
+Warning: single line paragraph at line 399
+>>>	|102.~  Porta de GIUNCHI, cio@e produce de giunchi.
+
+Checking file 02.f
+Warning: single line paragraph at line 195
+>>>	|63.~  ma noi siamo come voi peregrini & stranieri.
+
+Warning: single line paragraph at line 197
+>>>	|64.~  DIANZI, avverbio, INNANZI prepositione.
+
+Checking file 03.f
+Checking file 04.f
+Warning: single line paragraph at line 297
+>>>	|78.~  MANCO, manchevole.
+
+Checking file 05.f
+Checking file 06.f
+Warning: single line paragraph at line 140
+>>>	|47.~  VETTA, cima.
+
+Checking file 07.f
+Checking file 08.f
+Error at line 110: Multiple blank lines
+>>>
+Error at line 111: Spaces/Tabs used in paragraph
+>>>	|55.~  LUCIA, questa @e figurata per la gratia
+Checking file 09.f
+Error at line 110: Multiple blank lines
+>>>
+Error at line 111: Spaces/Tabs used in paragraph
+>>>	|55.~  LUCIA, questa @e figurata per la gratia
+Checking file 10.f
+Warning: single line paragraph at line 208
+>>>	|116.~  RANNICCHIA, inchina @a terra.
+
+Warning: single line paragraph at line 215
+>>>	|120.~  si PICCHIA, batte & percuote.
+
+Checking file 11.f
+Checking file 12.f
+Warning: single line paragraph at line 311
+>>>	|88.~  @A noi venia la creatura BELLA, esso Angelo.
+
+Checking file 13.f
+Checking file 14.f
+Warning: single line paragraph at line 277
+>>>	|105.~  Ugolin d'AZZO, de gli Ubaldini.
+
+Warning: single line paragraph at line 279
+>>>	|106.~  Federigo TIGNOSO, da Rimini.
+
+Checking file 15.f
+Checking file 16.f
+Checking file 17.f
+Checking file 18.f
+Checking file 19.f
+Warning: single line paragraph at line 58
+>>>		[[[[DIAGRAM]]]]
+
+Checking file 20.f
+Checking file 21.f
+Checking file 22.f
+Checking file 23.f
+Checking file 24.f
+Warning: single line paragraph at line 207
+>>>	|97.~  VALCHI, passi.
+
+Checking file 25.f
+Checking file 26.f
+Checking file 27.f
+Checking file 28.f
+Checking file 29.f
+Checking file 30.f
+Checking file 31.f
+Checking file 32.f
+Checking file 33.f

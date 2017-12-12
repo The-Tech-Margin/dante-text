@@ -1,0 +1,82 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.Dartmouth.EDU (8.9.1/8.9.1) with ESMTP id RAA29628
+	for <steve@avalon.dartmouth.edu>; Mon, 4 Jan 1999 17:54:26 -0500 (EST)
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.129.74])
+	by mailhub.dartmouth.edu (8.9.1+DND/8.9.1) with ESMTP id RAA09146
+	for <Steve.Campbell@Dartmouth.EDU>; Mon, 4 Jan 1999 17:54:25 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@outbound.Princeton.EDU (port 53039 [128.112.129.74]) by outbound.Princeton.EDU with ESMTP id <67191-22843>; Mon, 4 Jan 1999 17:54:04 -0500
+Received: from mail.Princeton.EDU (mail.Princeton.EDU [128.112.129.14])
+	by Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA08466
+	for <Steve.Campbell@dartmouth.edu>; Mon, 4 Jan 1999 17:53:56 -0500 (EST)
+Received: from phoenix.princeton.edu (phoenix.Princeton.EDU [128.112.131.153])
+	by mail.Princeton.EDU (8.9.1/8.9.1) with ESMTP id RAA28358;
+	Mon, 4 Jan 1999 17:53:55 -0500 (EST)
+Received: (from bobh@localhost)
+	by phoenix.princeton.edu (8.8.8/8.8.8) id RAA10553;
+	Mon, 4 Jan 1999 17:53:55 -0500 (EST)
+Message-Id: <199901042253.RAA10553@phoenix.princeton.edu>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Mon, 4 Jan 1999 17:53:55 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: Pietro3
+Cc: bobh@phoenix.Princeton.EDU
+
+I see you got allthat loaded.  Stout lad!  I checked it
+all out.  There are NO problems with incorrect Latin
+words, as you feared.  It is all quite clean.  Here are
+some problems, corrections, suggestions.
+
+Header (this may impact other headers as well for other
+comms.): the date appears as follows:
+
+        (1359-64 (?))
+
+I think that is not pretty.  Here are two  options:
+
+        (1359-64[?])  OR (1359-64 [?])
+
+I am not sure which I think is "prettier."  Do you have
+a view?  I think I lean toward the first (no space).
+
+document 2 is called Inf. Nota.  Can it be "Inf.
+Proemio"?  If not, can we stick a "Proemio" at the
+beginning of the first line of text, as we do for the
+proemi when that is the first text for a canto?  Or put
+a "PROEMIO" above this text?  It is important that
+people know it is the proem to the Inferno, not to any
+partic. canto.
+
+doc. 2, in text: both septimum}capitulum and
+noni}capituli need spaces between the "}" and the next
+word.  Did I cause that?
+
+doc. 9: Aug. Conf. XIII i 6 (&gt; Decr  should read
+        Aug. Conf. XIII i 6 (> Decr
+
+If the ">" is problematic, we can use "cf."
+
+docs. 14 & 21: some superscript control chars. made
+their way into text: <<SUP>> <<SUP>>.  These should be
+removed and the words they appear between be put one
+space from one another.  I only found these two, but
+perhaps you should do a search to check for more.
+
+doc 116 Decr.  Grat = Decr. Grat (one space)
+
+doc 123 Ep.  Hebr. = Ep. Hebr. (1 sp.)
+
+doc 123 bestiam&nbsp;habentem = bestiam habentem  (what
+is happening here?)
+
+doc 123 Grat.  I D = Grat. I D (1 space)
+
+doc. 29 Adv.  Iovianiam = Adv. Ioviniam (1 sp.)
+
+ACCENT PROBS.:  There are few Italian words in this
+comm., and thus few accents.  In the following docs I
+found them in an unresolved form: e.g., citt&agrave:
+docs. 11, 45, 57, 63, 86, 94, 98, 99, 110, 116.
+
+That's all for Pietro3.  I'll now check Graziolo.  Bob

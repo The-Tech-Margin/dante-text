@@ -1,0 +1,91 @@
+\\
+\\ This file defines the load order for the DDP.
+\\
+\\ This file is read by the LoadAll script. Lines that begin with \\
+\\ are comments. Otherwise, there should be one line for the poem and
+\\ each commentary. Each line contains the following parameter:
+\\
+\\ COMM= specifies the name of the commentary directory.
+\\ COMMID= specifies the commentary ID number in the format yyyyt.
+\\ LANG= specifies the language stopwords list(s) that should be used
+\\       for this commentary. Values are I, E, and L. Specify 1 to 3
+\\       letters, blank separated and quoted as needed.
+\\ FILES= specifies the data files to load, relative to the
+\\        commentary's staging directory. Blank=separated and quoted as
+\\        needed. Order is important.
+\\
+COMM=poem COMMID=13215 LANG=IL FILES="desc inf/inf purg/purg para/para"
+COMM=jacopo COMMID=13225 LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=graziolo COMMID=13244 LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=lana COMMID=13247 LANG=IL FILES="desc inf/abbr inf/proem inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=lombardus COMMID=13255 LANG=IL FILES="desc purg/[0-3]*"
+COMM=guido COMMID=13275 LANG=LI FILES="desc inf/prolo inf/[0-3]*"
+COMM=ottimo COMMID=13335 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/Proem para/[0-3]*"
+COMM=selmiano COMMID=13375 LANG=IL FILES="desc inf/[0-3]*"
+COMM=pietro1 COMMID=13405 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=pietro2 COMMID=13445 LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=pietro3 COMMID=13495 LANG=IL FILES="desc inf/proem inf/[0-3]*"
+COMM=cassinese COMMID=13505 LANG=LI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=ambrosiane COMMID=13555 LANG=IL FILES="desc purg/[0-3]* para/[0-3]*"
+COMM=maramauro COMMID=13695 LANG=IL FILES="desc inf/[0-3]*"
+COMM=cagliaritane COMMID=13705 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=boccaccio COMMID=13735 LANG=IL FILES="desc inf/access inf/[0-3]*"
+COMM=benvenuto COMMID=13755 LANG=LI FILES="desc comentum inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=buti COMMID=13855 LANG=IL FILES="desc inf/pro inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=vernon COMMID=13905 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=fiorentino COMMID=14005 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=villani COMMID=14055 LANG=IL FILES="desc inf/[0-3]*
+COMM=serravalle COMMID=14165 LANG=LI FILES="desc inf/pream inf/[0-3]* purg/pream purg/[0-3]* para/[0-3]*"
+COMM=guiniforto COMMID=14405 LANG=IL FILES="desc inf/[0-3]*"
+COMM=landino COMMID=14815 LANG=IL FILES="desc inf/[0-3]*"
+COMM=vellutello COMMID=15445 LANG=IL FILES="desc inf/proem inf/[0-3]* purg/[0-3]*"
+COMM=giambullari COMMID=15448 LANG=IL FILES="desc inf/[0-3]*"
+COMM=gelli COMMID=15450 LANG=IL FILES="desc inf/introinf inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=varchi COMMID=15455 LANG=IL FILES="desc para/[0-3]*"
+COMM=gabriele COMMID=15465 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=daniello COMMID=15475 LANG=IL FILES="desc inf/vita inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=tasso COMMID=15555 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=castelvetro COMMID=15705 LANG=IL FILES="desc inf/[0-3]*"
+COMM=venturi COMMID=17325 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=lombardi COMMID=17915 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=portirelli COMMID=18045 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=costa COMMID=18195 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=rossetti COMMID=18265 LANG=IL FILES="desc inf/[0-3]*"
+COMM=tommaseo COMMID=18375 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=andreoli COMMID=18565 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+\\COMM=bennassuti COMMID=18645 LANG=IL FILES="desc inf/intro inf/[0-3]* purg/intro purg/[0-3]* para/intro para/[0-3]* para/appendix"
+COMM=longfellow COMMID=18674 LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=disiena COMMID=18677 LANG=IL FILES="desc inf/[0-3]*"
+COMM=bianchi COMMID=18685 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=scartazzini COMMID=18725 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=campi COMMID=18885 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=berthier COMMID=18925 LANG=IL FILES="desc inf/intro inf/pro inf/[0-3]*"
+COMM=poletto COMMID=18945 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=oelsner COMMID=18995 LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=tozer COMMID=19015 LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=ruskin COMMID=19035 LANG=EI FILES="desc inf/proem inf/[0-3]* purg/proem purg/[0-3]* para/proem para/[0-3]*"
+COMM=carroll COMMID=19045 LANG=EI FILES="desc inf/intro inf/[0-3]* purg/intro purg/[0-3]* para/intro para/[0-3]*"
+COMM=torraca COMMID=19055 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=grandgent COMMID=19095 LANG=EI FILES="desc inf/intro inf/[0-3]* purg/intro purg/[0-3]* para/[0-3]*"
+COMM=mestica COMMID=19212 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=casini COMMID=19215 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=steiner COMMID=19218 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=dellungo COMMID=19265 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=vandelli COMMID=19295 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=grabher COMMID=19345 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=trucchi COMMID=19365 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+\\COMM=provenzal COMMID=19385 LANG=IL FILES="desc"
+COMM=pietrobono COMMID=19464 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=momigliano COMMID=19468 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=porena COMMID=19475 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/proem para/[0-3]*"
+COMM=sapegno COMMID=19555 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=mattalia COMMID=19605 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=chimenz COMMID=19625 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=fallani COMMID=19655 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=padoan COMMID=19675 LANG=IL FILES="desc inf/0*"
+COMM=giacalone COMMID=19685 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=singleton COMMID=19705 LANG=EI FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=bosco COMMID=19795 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=pasquini COMMID=19825 LANG=IL FILES="desc inf/[0-3]* purg/[0-3]* para/[0-3]*"
+COMM=hollander COMMID=20005 LANG=EI FILES="desc inf/[0-3]* purg/[0-3]*"
+COMM=fosca COMMID=20035 LANG=IL FILES="desc inf/[0-3]*"

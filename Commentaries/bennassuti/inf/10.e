@@ -1,0 +1,584 @@
+	|1-3. Io dopo~ ecc. Perch@e Virgilio va innanzi e Dante
+dopo? Perch@e Virgilio @e guida, e la guida dee sempre
+precedere, salvo qualche eccezione che vedremo; e perch@e cos@i
+si guarentisce meglio Dante dai demoni. Perch@e si va senza
+parlare? Perch@e la mente @e occupata ad osservare.
+
+	|4-6. O virt@u somma~ ecc. O Virgilio, che mi meni per
+questi giri della citt@a di Dite, dove sono puniti gli empi
+(eresiarche ed eretici, che sono empi nella loro credenza).
+
+	|9. Nessun guardia face.~ Ma che n'@e della guarnigion
+demoniaca? Non se ne parla pi@u per la citt@a di Dite, tanto fu
+ben servita di coppa e di coltello da quella magnifica
+risciacquata dell'angelo!
+
+	|10. Tutti saran serrati.~ Perch@e non ci avranno pi@u
+n@e eresiarche, n@e eretici da entrarvi.
+
+	|11-12. Josaff@a.~ Parola ebraica che suona ^valle del
+giudizio~: e sar@a quel luogo dove, finito il mondo, si
+aduneranno tutti gli uomini per esservi giudicati da Dio con un
+giudizio universale, al quale ciascuno andr@a col suo corpo,
+perch@e anche il corpo, siccome fu istrumento all'anima del bene
+o del male che oper@o, cos@i dovr@a quindi in poi partecipare
+alle glorie od ai tormenti dell'anima.
+
+	|13-15. Da questa parte~ ecc. Perch@e Virgilio accenna a
+Dante in particolare di soli questi? Per due ragioni: 1. perch@e
+col@a, dov'erano i poeti, c'erano soli gli Epicurei; 2. per
+indicare che questa @e la setta che ha pi@u seguaci di tutte;
+pi@u seguaci nel paganesimo, e pi@u seguaci anche nel
+cristianesimo e fin nel cattolicesimo.
+
+	Quanti cattolici non ci sono, che non dubitano nemmeno di
+essere eretici, e pure sono epicurei n@e pi@u n@e men degli
+antichi, anzi veramente lo sono pi@u degli antichi, perch@e gli
+antichi almeno non appartenevano alla vera Chiesa! In generale
+ogni eresia che sorge tra ' cattolici, @e frutto dell'Epicureismo
+redivivo: la mente ci ha poca parte; quasi tutta il cuore.
+Questo fa vedere a qual setta appartenesse Farinata e Cavalcante,
+che presto verranno.
+
+	|16-18. Alla dimanda~ di vedere (^Potrebbesi veder~?). Ma
+come sa Virgilio che poco pi@u oltre giaceano nelle tombe spiriti
+fiorentini, e che questi si sarebbero levati all'appressarsi di
+Dante? Per questa ragione che Dante attribuisce a Virgilio puro
+spirito la cos@i detta introspicienza. ^E tale infatti @e la
+propriet@a degli spiriti separati, che non sono impediti nel lor
+vedere dal velame e dall'ingombro dei sensi. Per questa stessa
+ragion Virgilio vede anche nel cuor di Dante, onde dice: ^E al
+disio ancor che tu mi taci.~ -- Qual @e questo disio?
+
+	@E il disio di parlar con qualcuno di quegli eretici.
+Inoltre Dante ha questo canone: che quelli che appartengono al
+medesimo luogo tutti si conoscano tra loro; dannati tra dannati,
+beati tra beati, con ci@o si spiega come Virgilio da qui a poco
+additi a nome Farinata. Sa Virgilio in secondo luogo, che questi
+spiriti fiorentini si sarebbero levati e mostrati a Dante per
+questo, che parlando Dante fiorentino, e facendosi sentir dai
+dannati suoi concittadini, questi non avrebbero potuto fare a
+meno di non alzarsi a vedere chi era questo fiorentino, che
+discorreva e passava. Per questo Virgilio con dire a Dante del
+suo taciuto disio, gli porge occasione di continuare a parlare,
+giustificandosi; e cos@i continuando a parlare, stuzzica la
+curiosit@a dei dannati fiorentini.
+
+	|19-20. Non tegno nascosto~ ecc. Il verso antecedente lo
+prese Dante per un dolce rimprovero che Virgilio gli desse, per
+non avere in lui tanta confidenza da manifestargli candidamente
+il suo cuore; e per@o qui Dante fa le sue scuse, allegando che se
+non gli ha detto tutto, non fu per difetto di confidenza che gli
+avesse, ma per non tornargli grave con parole inutili, le quali
+mal s'addicono ad una persona educata che le faccia.
+
+	|21. A ci@o disposto~ ecc. Ad esser parco di parole tu
+m'hai disposto ora ed altre volte (^non pur mo~). Come l'ha
+disposto ora (^pur mo~) e dove l'ha disposto a ci@o le altre
+volte? Vediamolo:
+
+	L'ha disposto altre volte prima d'ora, come sarebbe, a
+cagion d'esempio, nel Canto terzo, quando Dante volea saper di
+quelle anime che in lontananza vedea s@i pronte al passaggio, e
+non sapea comprendere come ci@o fosse, ed avendone chiesto a
+Virgilio, questi gli rispose il saprai dopo; onde mortificato
+esce in quella terzina:
+
+     Allor con gli occhi vergognosi e bassi,
+       Temendo no 'l mio dir gli fosse grave,
+       In sino al fiume di parlar mi trassi.
+
+	|22. Per la citt@a del foco.~ Per la citt@a di Dite,
+dove il tormento era foco. Perch@e dare il foco per tormento
+agli eretici?
+
+	Perch@e questo era il proprio tormento, a cui nel medio
+evo si condannavano i dogmatizzatori di eresie; si condannavano
+ad esser arsi vivi, se non si ritrattavano. Il medio evo poi
+apprese un siffatto tormento da Dio medesimo, il quale us@o
+ardere col foco gli empi, cio@e quelli che non con qualunque
+peccato, ma proprio col peccato dell'empiet@a, che va a ferire
+direttamente la religione, si voltavano contro di lui. Di qui il
+castigo di Core e seguaci.
+
+	|23. Cos@i parlando onesto.~ Appunto Virgilio l'ha
+indovinata.
+
+	Era impossibile che un eretico fiorentino, sentendo un
+fiorentino, non si levasse. Farinata, dicendo che Dante parlava
+^onesto~, fa l'elogio della lingua toscana; ed ha ragione,
+perciocch@e mentre per tutta Europa, meno una parte d'Italia, si
+parlava barbaro, solo in Toscana si parlava gentile.
+
+	|26-27. Alla qual~ ecc. Dice il Balbo nella ^Vita di Dante~
+a questo proposito, vol. I, c. 2: <Parteggiandosi in citt@a erano
+stati cacciati primi nel 1248 i Guelfi, poi nel 1251 alcuni capi,
+e nel 1258 tutti i Ghibellini; i quali aiutati dal re Manfredi,
+diedero in ultimo ai loro compatrioti la famosa rotta di
+Monteaperti, o dell'Arbia, add@i 4 Settembre 1260, e rientrarono
+quindi cacciando i Guelfi. E cos@i Guelfa era, cos@i tenuta per
+irrimediabilmente tale Firenze, che trattossi tra' Ghibellini
+vittoriosi di distruggerla, ma fu impedito dall'eloquenza e dal
+credito di Farinata degli Uberti. Tra' Guelfi cacciati dopo la
+rotta di Monteaperti, erano o l'avo o il padre di Dante.>
+
+	|29-30. Temendo~ ecc. @E naturale questa subita paura, e
+questo pronto accostarsi. Si noti che Dante era sempre di dietro
+a Virgilio che lo precedeva. Quante volte non vediamo noi un
+bambino, rimasto dietro alla madre nel cammino, impaurirsi d'un
+accidente, per esempio, d'un cane che abbai, e correr tosto ad unirsi a lei!
+
+	|34. Viso.~ Vista, occhi. Io aveva i miei occhi fissati
+ne' suoi. Quando si guarda una persona, la si guarda sempre negli
+occhi. @E un fatto naturale che lo facciamo senza accorgerci.
+
+	|35. S'ergea~ ecc. Bella pittura d'un potente
+ghibellinaccio.
+
+	Ma questo atteggio tien Dante in timore, che non osa
+perci@o d'avvicinarsegli: onde ha bisogno che Virgilio lo
+sospinga con le mani.
+
+	|39. Conte.~ Nobili, argute e dignitosamente superbe.
+
+	Era proprio quel che cercava Dante. Notate bene questa
+raccomandazione che fa Virgilio a Dante. Farinata, che fu
+grande, non avrebbe degnato di parlare ad un piccolo. Cos@i
+avverr@a di Ulisse e Diomede, ai quali per l'anzidetta ragione,
+parler@a non Dante, ma Virgilio. Vedi ^Inferno~, XXVI, 70.
+
+	|41-42.~ Perch@e ^guardommi un poco~? Per veder se lo
+conosceva, se era un suo contemporaneo, e dei grandi, e della sua
+parte. Perch@e ^quasi sdegnoso~? Perch@e alle fattezze del
+volto di Dante, gli entr@o sospetto che fosse figlio di padri a
+lui noti e nemici, perch@e Guelfi, e male non s'appose: ma era
+puro sospetto; a certificarsi del quale, fa poi la dimanda
+de' suoi maggiori (^Chi fur gli maggior tui~?)
+
+	|43.~ Perch'era ^d'ubbidir desideroso~? Perch@e sapeva
+che nominandogli i suoi maggiori, gli toccava persone poco
+simpatiche: ond'egli, Farinata, sarebbe uscito in parole amare
+contro di loro; e in tal caso egli, Dante, avrebbe preso la palla
+al balzo per dargli di ripicco una pungente risposta, come gli
+avea ordinato prima Virgilio dicendogli: ^Le parole tue sien
+conte.~ In sostanza questa era una nuova edizione dell'altra che
+gli merit@o un bacio da Virgilio. ^Inferno~, Canto VIII, commento ai versi 43-45.
+
+	|44. Tutto gliel'apersi.~ Sui maggiori di Dante il Balbo
+ha: <La famiglia di lui vantavasi di discendenza romana antica, e
+dicevasi, o dissesi poi staccata da quella dei Frangipani
+sopravvivuti in Roma. Dante sembra in pi@u luoghi vantarsi di
+sangue romano (^Inf.~ XV). Ma dove ci parla espressamente della
+propria famiglia (^Par.~ XV), non la fa risalire se non a tre
+fratelli chiamati Moronto, Eliseo e Cacciaguida, viventi al
+principio del secolo XII.> (^Vita di Dante~, vol. I, c. 2).
+
+	|45. Lev@o le ciglia~ ecc. Quest'atto si fa non per
+esprimere amarezza, (come disse alcuno), ma per esprimere
+ammirazione. Cos@i porta anche il senso in seguito alla nobilt@a
+di Dante gi@a toccata.
+
+	|46. Poi disse~ ecc. Farinata, da quel superbo ch'@e,
+vanta s@e stesso, i suoi e la sua parte, quali uomini dappi@u che
+i maggiori di Dante, e dice che per due volte gli disperse.
+Farinata e i suoi erano Ghibellini, e Dante ed i suoi maggiori
+erano Guelfi.
+
+	Dissi anche Dante Guelfo, perch@e lo fu sino poco dopo al
+suo esiglio: allora divenne Ghibellino: poi n@e Ghibellino n@e
+Guelfo: e finalmente torn@o ad esser Guelfo. Nel 1304, quando
+incominciava a scriver l'^Inferno~, sotto Benedetto XI, egli era
+Guelfo, e nel 1318 al fine (1321) torn@o Guelfo.
+
+	|48. Due fiate~ ecc. La prima sotto Federigo II, padre
+di Manfredi, al tempo che sorsero in Firenze i Ghibellini, e
+l'altra sotto Manfredi, figlio bastardo di lui, al tempo della
+rotta di Monteaperti.
+
+	|49-50. S'ei~ ecc. I miei Guelfi, dice Dante, ed ecco le
+^parole conte~, se furono cacciati due volte in esiglio, seppero
+anche due volte ritornare e riguadagnarsi la patria. Ma i vostri
+Ghibellini, cacciati una volta, non trovarono pi@u la via per
+ritornarci. Sicch@e Firenze era tutta Guelfa, non ostante i suoi
+Bianchi e i suoi Neri.
+
+	Si pretende che Farinati di Verona, celebre pittore del
+secolo XVI, fosse un rampollo degli Uberti di Firenze, riparati a
+Verona sin dalla loro cacciata: desso @e autore d'un Infinito
+numero di tele tutte d'immenso valore. Questa famiglia vene a
+spegnersi un tredici anni sono (1852) in un frate Olivetano di
+Santa Maria in Organo di Verona.
+
+	|54. Credo~ ecc. S'immagina Dante che fosse in
+ginocchioni, dall'arrivar che facea sino al mento di Farinata.
+@E bella anche questa.
+
+	|55. D'intorno~ ecc. Perch@e guard@o intorno a Dante?
+
+	Perch@e l'Ombra, dal discorso che Dante faceva con
+Farinata, apprese chi era, cio@e apprese che era il primo amico
+di suo figlio Cavalcanti, e perci@o lo guarda intorno per veder
+se suo figlio @e con l'amico.
+
+	Questi @e dunque Cavalcante Cavalcanti, miscredente
+epicureo, marito d'una figlia di Farinata e padre di Guido, il
+quale Guido era di parte Bianca, uno degli esigliati a Serezzana,
+che mor@i subito dopo richiamato in patria, per morbo contratto
+dalla mal'aria di confine, come si disse al commento al verso 61, Canto VI.
+
+	|60. Perch@e non @e teco~? Dante e Guido Cavalcanti,
+com'erano i due pi@u grandi amici, cos@i erano i due pi@u grandi
+letterati di Firenze, con questa differenza, che Guido era tutto
+dato alla filosofia e poesia italiana, ma niente alla latina di
+Virgilio, mentre Dante si dedic@o ad entrambi. Guido era, dopo
+Dante, il pi@u grande verseggiatore del suo tempo: anzi cagione
+della intima amist@a di questi due (come dice Dante stesso) fu un
+sonetto, che Dante compose e che comincia: ^A ciascun'alma presa
+e gentil core~, che a Guido parve s@i bello, che gli rispose con
+un altro, il quale comincia: ^Vedeste al mio parer ogni valore.~
+(^Vita Nuova~). Adunque questo povero vecchio, sapendo della
+loro stretta amicizia e del loro ingegno, pensa cos@i: Dante dee
+avere ottenuto il privilegio di viaggiar per l'Inferno, atteso il
+suo eletto ingegno: ma anche mio figlio lo aveva pari: perch@e
+dunque una tal grazia non @e fatta ad entrambi, massime che
+questi due figliuoli sono sempre stati indivisi, n@e l'uno sapea
+vivere senza l'altro?
+
+	|63. Forse~ ecc. Quel Virgilio, a cui Guido non avea
+troppo amore.
+
+	|69. Non fiere~ ecc. La morte di Guido avvenne verso il
+fine del 1300, ed ora per l'epoca fittizia siamo ai 9 di aprile
+1300.
+
+	Guido era dunque vivo; ma Dante in questo momento pensava
+ad un'altra cosa, che troveremo pi@u innanzi in questo canto. Se
+poi guardiamo l'epoca reale in cui il poeta scrisse, cio@e il
+1304, Guido era morto.
+
+	|73. A cui posta.~ Appositamente pel quale, a conto del
+quale.
+
+	|75. N@e mosse~ ecc. Vera indole feroce, che finisce il
+ritratto incominciato di sopra.
+
+	|76. E se continuando~ ecc. Questa copulativa ^E~ val
+tanto oro, perch@e fa vedere che l'incidente di Cavalcante per
+Farinata @e come non avvenuto; fa vedere che tra i dannati non
+esiste il minimo legame di carit@a; fa vedere ch'egli frattanto
+avea mente inchiodata in quel frizzo sanguinoso di Dante, che gli
+pesava pi@u che il tormento d'Inferno. Che ritratti terribili!
+
+	Anche il ^continuando il primo detto~, sono parole del
+Farinata non del poeta. Del poeta @e solo il ^disse.~
+
+	|79-80. Ma non~ ecc. Non passeranno cinquanta lune piene.
+
+	A cinquanta lune piene o cinquanta mesi ci mancherebbe un
+giorno, come vedremo tosto. La luna in Inferno @e detta
+Proserpina regina del luogo.
+
+	|81. L'arte~, ch'hanno avuto i tuoi e non i miei, di
+saper ripatriare, tu saprai quanto pesa, ossia quanto ti @e di
+danno, non tanto per l'esiglio che ti daranno i tuoi Guelfi, il
+che avverr@a ne' primi di aprile 1302, quanto perch@e ti torranno
+perfin la speranza di richiamo in patria, il che avverr@a add@i 8
+giugno 1304, che @e la data della rottura dei negoziati dei
+Bianchi ripatriati. @E bello udir per disteso l'accaduto da
+Cesare Balbo (^Vita di Dante~, vol II, c. 3), che attinge tutto
+da Dino e Villani contemporanei.
+
+	-- Benedetto (santo papa, XI di questo nome)
+pacificatosi con li Colonna e con Francia, si rivolse a Firenze,
+uno dei fuochi di discordia. Mandovvi di Perugia a legato il
+cardinal Ostiense Niccol@o da Prato, frate predicatore ancor esso
+<di piccioli parenti, ma di grande scienza, grazioso e savio, ma
+di progenie ghibellina,> onde che fu spedito ad istigazione de' 
+Bianchi e Ghibellini, e giunse a Firenze add@i 10 marzo
+1304...... Il cardinal ricevuto in Firenze con rami di ulivo e
+con gran festa <riposato alcuni d@i, domand@o bal@ia dal popolo
+di poter costringere i cittadini a pace (erano ancor divisi tra
+loro, Grandi e Popolani; dei primi era capo Corso Donati, dei
+secondi Rosso della Tosa); la quale fu concessa perfino a calen
+di maggio 1304, e poi prolungata per un anno.> Incominci@o con
+far pace tra i divisi addentro; diede uffizi ai partigiani di
+messer Corso, e fecelo esso capitano di parte guelfa, che come
+s'@e veduto in pi@u luoghi, era uffizio di grande importanza.
+Add@i 26 di aprile principalmente <raunato il popolo sulla piazza
+di Santa Maria Novella, nella presenza dei Signori, fatte molte
+paci, si baciarono in bocca per pace fatta; e contratti se ne
+fece....  E tanto parea che la pace piacesse a ognuno, che
+vegnendo una gran piova, niuno si part@i.... I fuochi furono
+grandi, le chiese suonavano.... ma il palagio di Gianfigliazzi,
+che per la guerra facea gran fuochi, la sera niente fece, e molto
+se ne parl@o per li buoni.> Diceano: ^non era segno di pace.~
+Finalmente il cardinale tanto gli umili@o con dolci parole, che
+lo lasciarono chiamar sindachi, cio@e deputati di fuorusciti a
+trattar pace con quelli d'addentro. Due per parte ne nomina
+Dino: il Villani dice che furono dodici per parte, ma non li
+nomina....  Un appressarsi a Monte Accianico dei Bianchi e
+Ghibellini che tornarono dal soccorso di Forl@i, mise sospetto
+nei reggitori di Firenze. Rosso della Tosa, capo della parte
+popolare, addentro metteva indugi e ostacoli a' negoziati.
+
+	Add@i 6 maggio l'esecuzione della pace universale, che
+solo poteva farsi con ripatriamenti e accomunamenti d'uffici, fu
+commessa al cardinale stesso e a quattro uomini potenti ma
+forestieri, e probabilmente lontani; messer Martino della Torre
+da Milano, messer Antonio da Fostierato da Lodi, messer Antonio
+de' Brusciati da Brescia, e messer Guidotto de' Bagni da Bergamo.
+Certo non era questo modo da conchiuder nulla.
+
+	Poi <i contrari alla volont@a del papa feciono tanto con
+false parole, che rimossono il cardinale da Firenze, dicendogli:
+Monsignore! Anzi che andiate pi@u avanti con l'esecuzione della
+pace, fateci certi che Pistoja ubbidisca; perch@e facendo noi
+pace, e Pistoja rimanesse co' nostri avversari, noi saremmo
+ingannati.> Pistoja, origine della divisione dei Bianchi e Neri,
+era la sola citt@a di Toscana rimasta Bianca. Ma gli avversari
+del cardinale <non diceano questo, perch@e avendo Pistoja
+volessono la pace, ma per prolungare il trattato; e tanto con
+colorate parole il mossono, che add@i 8 maggio si part@i da
+Firense.> Quinci pass@o a Prato sua patria, e poi a Pistoja; e
+provatosi a pacificare l'una e l'altra, non ascoltato da Pistoja
+e cacciato da Prato, ch'egli scommunic@o, torn@o a Firenze, dove
+riprese l'opera, e ottenne di far venire quattordici commissari
+de' fuorusciti.
+
+	Principale di questi era Baschiera della Tosa. Dei
+commissari addentro erano principali i due capi della cosa
+publica, Corso Donati e Rosso della Tosa; onde si vedono due
+della medesima famiglia dei Tosinghi dalle due parti, come
+succede in tali discordie civili. Fecersi onore reciprocamente,
+e molta speranza ne prese il popolo. Ma stavano con sospetto i
+Bianchi Oltrearno in casa i Mozzi, fortificati con chiuse di
+legname e guardie; e i Neri non concedevan nulla. I Bianchi
+furon consigliati d'entrare in citt@a, e farsi forti in casa i
+Cavalcanti; ma questi richiestine non acconsentirono. E cos@i
+finalmente si partirono i Bianchi da s@e add@i 8 giugno, e il
+cardinale minacciato il d@i 9, dicendo ai Fiorentini: <Dapoi che
+volete essere in guerra et in maledittione, et non volete udire
+n@e ubbidire il messo del vicario di Dio, n@e havere riposo n@e
+pace tra voi; rimanete con la maledittione di Dio e con quella di
+Santa Chiesa.> Nel medesimo giorno 9, o nel seguente, le due
+parti interne si mostrarono armate per la citt@a; e il d@i 10,
+non senza sospetto contro la parte di messer Corso, s'appicc@o un
+grande incendio che guast@o mezza Firenze.  Cos@i fin@i quel mal
+augurato trattato.... --
+
+	Cesare Balbo viene finalmente alle 50 lune o 50 mesi
+predetti dal Farinata dicendo: Cinquanta mesi appunto corsero dal
+7 di aprile 1300, data supposta dalla discesa di Dante
+all'Inferno, e cos@i del colloquio riferito, fino agli 8 giugno
+1304, data della rottura di questi negoziati dei Bianchi; onde
+vedesi con quanta esattezza ei dicesse che dopo tal corso di
+tempo egli avr@a ad imparare ^quanto difficile sia l'arte del
+ripatriare~ e quanto gli torni dura quell'arte dei Guelfi suoi
+per la quale essi ripatriarono, e poi lui stesso esclusero per
+sempre. Segue lo specchietto di queste lune secondo il Balbo:
+
+\<pre\>
+  Dal 7 aprile al 31 dicembre 1300  mesi  8  d@i  22
+  Tutto il .................. 1301   "   12   "   --
+     "     .................. 1302   "   12   "   --
+     "     .................. 1303   "   12   "   --
+  Dal 1 gennaio a 8 giugno    1304   "    5   "    8
+                                   ------------------
+                                         50
+\</pre\>
+
+	Faccio osservare che questo specchietto del Balbo ci d@a
+50, mentre il poeta dice: ^non cinquanta.~ Ma se prendete
+l'epoca fittizia di questo colloquio di Farinata con Dante, che
+troverete e nei casellini di questo Canto, nella mia Tav. II, il
+conto vi verr@a esattissimo.  Eccolo:
+
+\<pre\>
+  Dal 7 aprile al 31 dicembre 1300  mesi  8  d@i  22
+  Tutto il .................. 1301   "   12   "   --
+     "     .................. 1302   "   12   "   --
+     "     .................. 1303   "   12   "   --
+  Dal 1 gennaio a 8 giugno    1304   "    5   "    8
+                                   ------------------
+                                         49       29
+\</pre\>
+
+	Questa sarebbe la prova che l'epoca fittizia del poema da
+noi adottata @e la vera. Se la ritirate di un giorno, @e falsa.
+
+	Ma per dare il pieno compimento alla perdita d'ogni
+speranza di ritorno in patria pel nostro Dante, si abbia ancora
+la pazienza di leggere il resto nel Balbo ^luogo citato.~
+
+	-- Tornato il cardinale a Perugia al buon papa Benedetto
+XI, questi chiam@o a s@e per render conto del mal operato dodici
+dei maggiori caporali di parte Bianca e Nera che reggevano
+Firenze, tra cui naturalmente i due principali Corso Donati e
+Rosso della Tosa.
+
+	I quali venuti con gran seguito di cento cinquanta
+cavalli, mentre cos@i si trattenevano in corte, i fuorusciti non
+senza sospetto di connivenza del cardinale, apparecchiarono con
+gran segretezza una sorpresa contra Firenze, priva di questi suoi
+capi, divisa dalle parti interne, e poc'anzi guasta
+dall'incendio. Raunarono gente da tutti i loro all'intorno.
+Principali erano gli Ubaldini in Mugello. E di questo mese di
+giugno trovasi una guarentigia rogata nel coro dell'abbazia di S.
+Gaudenzio in cui <Torrignano, Carbone, e Vieri de' Cerchi,
+Guellino de' Ricasoli Neri, otto o nove degli Ubertini, Andrea
+de' Gherardini, Branca e Chete degli Scolari, Dante Alighieri,
+Mino da Radda, e Bertino de' Pazzi promettono ad Ugolino da
+Felicione, ai figli di lui, e a qualunque altro della casa degli
+Ubaldini e de' loro, di ristorare su propri beni i danni e le
+spese in cui incorressero nei loro beni temporali, od anche
+benefizi ecclesiastici in occasione della nocit@a della guerra
+fatta o da farsi pel castello di Monte Accianico, o per s@e
+stessi, ad arbitrio loro, sotto pena di due mila marchi di
+argento.>
+
+	I quali dando appuntamento a messer Tolasato degli Uberti
+co' loro amici Bolognesi, Romagnuoli, Aretini ed altri a pi@e e a
+cavallo, a un tratto si trovarono insieme mille dugento uomini
+d'arme alla Lastra a due miglia di Firenze. Dicono gli uni che,
+se fossero scesi quella notte, avrebbero presa la citt@a; altri,
+se avessero aspettato la notte appresso, e l'aiuto dei Pistojesi:
+ma non fecero n@e l'un n@e l'altro. Capitano era Alessandro da
+Romena, ma i principali tra i fuorusciti quel Baschiera della
+Tosa, il quale era stato poc'anzi de' commissari in Firenze, e
+probabilmente vi aveva amici che il pressarono, ed era giovane
+uomo ed ardito. Adunque nel giorno 21 o 22 luglio, senza
+aspettare n@e quegli aiuti, n@e l'ora fermata con altri
+congiurati all'intorno, Baschiera <chin@o gi@u coi cavalieri alla
+terra....  Vennono da S. Gallo, e si schierarono presso a S.
+Marco con le insegne bianche spiegate, e con ghirlanda d'ulivo, e
+con le spade ignude, gridando ^pace~, senza far violenza o
+ruberia a alcuno. Molto fu bello a vedersi con segni di pace
+stando schierati. Il caldo era grande s@i che parea che l'aria
+ardesse.> Non aveano acqua, il fiume era discosto; le vie dal
+borgo ove era allora S. Marco, sbarrate co' serragli dai cittadini
+tornati dalla prima sorpresa. Avanzaronsi tuttavia fino alla
+porta, e combattendo, entrarono per essa alcuni dei bianchi
+fuorusciti; ma quelli di dentro non che unirsi con essi, fecer
+loro contro per non esser sospetti poi, ed appiccatosi un fuoco
+alla porta, gli entrati temettero essere rinchiusi, e fuggendo
+alla spicciolata si raccolsero al grosso loro a S. Marco, e via
+via attaccarono il mal della fuga alla loro riserva alla lastra,
+e fuggirono quinci poi tutti qu@a e l@a. Baschiera si port@o via
+due nipoti sue, molto ricche, dal monistero di Dan Domenico. I
+fuggiaschi sbandati, non inseguiti da' cittadini, ma presi
+da' villani, eran impiccati per le vie. Il grosso incontr@o
+l'Uberti co' Pistojesi, che venivano in aiuto, e tentarono in
+vano rivolgere i fuggiaschi coi rimproveri. Ma abbondano questi
+sempre senza frutto in tali frangenti; e cos@i vergognosamente
+termin@o quel tentativo de' Bianchi, per la leggerezza loro
+stessa. Mor@i papa Benedetto, il buon paciere, quel medesimo d@i
+o il seguente 22 luglio 1304, a Perugia.
+
+	La morte di papa B. Benedetto XI recise a Dante sin
+l'ultimo filo di speranza di ripatriare, stante che dopo lui
+venne Clemente V francese, che transport@o la sede da Roma ad
+Avignone, e cos@i pose s@e e i suoi successori per 70 anni nelle
+mani dei re francesi tanto avversati da Dante.
+
+	|82. E se tu mai~ ecc. Nell'uso fiorentino @e
+un'espressione non gi@a di condizione, ma di desiderio. Vale:
+^Cos@i tu rieda.~
+
+	|85-86. Lo strazio~ ecc. Allude alla rotta di Montaperti
+all'Arbia, ricordata di sopra, Canto X, commento ai versi 26-27.
+
+	|87. Orazion~ ecc. In un governo republicano le leggi si
+fanno dietro discussioni ed arringhe di oratori pro e contra le
+leggi. ^Nel nostro tempio.~ Nel palazzo del Comune, dove si
+disponevano e discutevano le leggi. Oggi sarebbero le Camere del
+corpo legislativo.
+
+	Si dice tempio all'uso dei Romani, che chiamavano tempio
+la Curia.
+
+	|93. Colui~ ecc. Si spieg@o in questo Canto, nel commento ai versi 26-27.
+
+	|94. Deh! Se riposi~ ecc. Altro modo come sopra, nota al verso 82. ^Deh! Cos@i riposi~ ecc.
+
+	|95-99. Quel nodo -- Che qui~ ecc. Quella difficolt@a che
+qui ha inviluppato il mio giudizio, s@i ch'io non so che pensare
+di voi sulla previsione che avete. La difficolt@a che non so
+sciogliere @e la seguente: Voi Farinata sapete quello che dovr@a
+succedere a me da qui a pi@u che quattro anni, e Cavalcante
+invece mostr@o di non sapere quello che fosse adesso di suo
+figlio Guido che lo credette morto, perch@e non risposi subito
+alla sua dimanda che ne dubitava.
+
+	Come @e dunque questa cosa che voi vedete il futuro
+lontano e Cavalcante non vede il presente?
+
+	|100-105. Che ha mala luce.~ Che @e presbite, il quale vede
+da lontano meglio che da vicino. Cos@i i dannati, veggono le
+cose fin che sono lontane ad accadere, e quando son presso ad
+accadere od accadute non le veggono pi@u. Perch@e Dante suppose
+in essi questa antiveggenza? 1.  Per ragione poetica, come si
+disse; 2. Anche per lor tormento, essendo questo da un lato un
+bene e dall'altro un male.
+
+	Sarebbe possibile questa cosa? @E possibile, e non
+ripugna al sentimento cattolico. Questo basta per il poeta.
+
+	|106-108. Che del futuro~ ecc. Questa @e legittima
+conseguenza della premessa.  Se veggono solo i fatti avvenire e
+lontani, dunque quando niente ha pi@u da avvenire non veggono
+pi@u.
+
+	|110. quel caduto.~ A Cavalcante Cavalcanti, a cui sono
+dolente di aver recato involontariamente una pena, avendolo
+lasciato supporre che suo figlio fosse morto, mentre invece @e
+vivo. Allora il povero Guido Cavalcanti era infermo di malattia
+mortale.
+
+	|113-114. Fat' ei~ ecc. Fate anche con lui le mie scuse,
+dicendogli il perch@e non gli risposi, cio@e perch@e pensava a
+questo dubbio.
+
+	|116. Pi@u avaccio.~ Con maggior fretta.
+
+	|119. Federico.~ Imperadore scomunicato ed epicureo,
+padre di Manfredi re di Puglia.
+
+	|120. Cardinale.~ Ottaviano Ubaldini tutto Ghibellino
+contro il papa. Si dice il Cardinale, ch@e era detto cos@i per
+antonomasia.
+
+	(Ved. il Villani.)
+
+	|123. A quel parlar~ ecc. Alla predizione delle sue
+disgrazie, che gli fece Farinata, predizione che lo fe ritornare
+pensieroso e di mal umore a Virgilio. La predizione non veniva a
+particolari, ma si teneva tutta sul generale, ragion per cui
+lasci@o in Dante molti dubbi, che gli saranno spiegati da altri
+procedendo nel poema. Quanto sarebbe cosa bella ed utile che le
+scene del teatro italiano invece di risuonare di nenie, spesso
+lascive ed indigeste, risuonassero di questo e di simili brani di
+Dante, che si potrebbero trascegliere a tal uopo da tutta la
+^Divina Comedia~! Il teatro italiano sarebbe cos@i veramente
+ristaurato.
+
+	|129. E ora attendi qui~ ecc. A che attendere? Alla
+nuova strada che faremo, attraversando la citt@a di Dite tra gli
+avelli infocati che rendeano il sentiero tortuoso, ineguale e
+stretto. @E quel che fa ogni guida, che al cangiar di una strada
+comoda e spaziosa, e al mettersi per un'altra malagevole, avvisa
+sempre il suo guidato ad andar pi@u cauto ed atteso. ^E
+drizz@o' l dito.~ Verso dove drizz@o il dito? A sinistra,
+dov'era appunto il sentiero che attraversava il cerchio dov'era
+la citt@a di Dite, e riusciva sopra una valle.
+
+	Col dito dunque appuntato gli accenn@o il nuovo cammino.
+Notate che il viaggio @e sempre a sinistra come fu cominciato.
+Cos@i si discende e si gira tutto l'Inferno.
+
+	|130. Quando sarai dinanzi~ a Beatrice che vede tutto (in
+Dio).
+
+	|132. Da lei saprai~ tutti i particolari di tua vita
+futura, di cui Farinata non ti tocc@o che i generali. Perch@e
+poi nel verso seguente dica di volgersi a sinistra, vedilo al
+Canto XXX, nota 55 {this '55' has to be converted into a line number}.

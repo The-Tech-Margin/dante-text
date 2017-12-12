@@ -1,0 +1,654 @@
+	|1-15.~   Dicemmo di sopra che havendo el poeta distincto lo 'nferno 
+in cerchi @E necessario secondo la dimensione del corpo spericho: 
+perch$e si parte dalla circumferentia: et appocho appocho s'accosta al 
+profondo che @e el centro: che sempre el cerchio inferiore sia minore 
+che el superiore.   Et perch$e el luogho quanto pi@u s'accosta al 
+profondo: et pi@u si parte dal cielo/ pi@u @e apto alla pena: per@o 
+l'ordine di questa discensione fa che el principio sia da' peccati men 
+gravi: et poi si segua digradando sempre a' pi@u gravi.   Et questo 
+quanto al sito del mondo: et all'Inferno essentiale.   Et quanto al 
+morale @e el medesimo ordine.  Imper@o che solo el delicto @e quello 
+che ci priva di Dio et della nostra felicit@a.  Adunque quanto men 
+grave @e el peccato/ tanto fa l'huomo men lontano da Dio et quanto pi@u 
+@e grave tanto pi@u lo fa vicino al profondo.  Il perch$e @e 
+conveniente cosa che essendo nel primo cerchio gli spiriti gi@a decti 
+debbino in questo secondo punirsi el men grave peccato: et questo @e la 
+luxuria.  @E manifesto perch$e dixe: |Che men luogho cinghia~: cio@e 
+cigne.  |Et tanto pi@u dolor che punge a guaio~: perch$e oltra al dolor 
+della mente: el quale sentono anchora quegli del primo cerchio/ sentono 
+quel del senso: che gli fa guaire: cio@e lamentare.  |Stavvi Minos~.  
+Furono in Grecia tre re.  Minos.  Eacho: et Rhadamanto/ figliuoli di 
+Iove: E' quali e' poeti perch$e furono molto giusti principi finghono 
+che doppo la morte loro fussino facti giudici dell'Inferno: e' quali 
+havessino a examinare l'anime: et di poi punirle secondo che 
+meritassino e' lor delicti.  Ma di Rhadamanto: et Eacho diremo in altro 
+locho.  Minos fu figluolo di Iove et d'Europa: Regn@o nell'isola di 
+Creta hoggi decta Candia: Et secondo Diodoro Siculo in quella hedific@o 
+pi@u citt@a.  Ma le pi@u nobili furono tre: Gnoso posto inverso Asia.  
+Phesto posto dalle parte di mezod@i: Et Cydonia collocata a ponente.  
+^Item~ decte le leggi a' cretesi: le quali accioch$e fussino di 
+maggiore auctorit@a fingeva haverle havute da Iove.  Et spesso entrava 
+in una certa speloncha: et dimostrava haver colloquio con quello.  
+Strabone dice che lui imit@o in questo un certo Rhadamanto: non el 
+fratello: ma un altro: el qual fu molti secoli innanzi.  Fu el primo 
+secondo Plinio che fece battaglie navali: et molte isole: et terre 
+maritime acquist@o.  Et molti popoli gli furono obedienti mossi pi@u 
+dalla iustitia sua che dalle forze.  Danthe andunque imita gli antichi 
+poeti: et maxime Virgilio: el quale scrive.  ^Quesitor Minos urnam 
+movet ille silentum Conciliumque vocat vitas: et crimina discit~: N$e 
+@e altro Minos che el giudicio della conscientia Della quale diremo 
+pocho di sobto.  Questo @e da Virgilio discripto in forma d'huomo: Ma 
+Danthe lo configura chome bestia dandogli la coda: et el ringhi@o: che 
+@e proprio del cane: Ma non @e sanza cagione perch$e intende per Minos 
+la conscientia dell'huomo dannato: cio@e che ha gi@a facto habito de' 
+vitii: perch$e chostoro sono rimorsi dalla conscientia: la quale non @e 
+pi@u huomo: perch$e tale rimordimento non gli rimuta dal male operare.  
+Imper@o che hanno spento in loro el lume della ragione: per la quale 
+siamo huomini: Ma solamente gli stimola: et fagli diventare furiosi.  
+Onde si pu@o dire che la conscientia ne' dannati: et in quegli che 
+hanno facto habito de' vitii sia una crudelissima fiera.  ^Preterea~ 
+pone che chon la coda dinota el luogho dove debba esser messo el 
+peccatore: La coda @e l'ultima parte del corpo della fiera.  Onde per 
+questa significa che questi tali huomini non sentono mai rimorso della 
+conscientia se non nella fine: et quando hanno commesso el peccato.  Et 
+certamente questo solo @e quello giudice: el quale nessun pu@o fuggire. 
+ Onde Iuvenale: ^Prima hec est ultio quod se iudice nemo nocens 
+absolvitur improba quanquam Gratia fallacis pretoris vicerit urnam~.  
+|Stavvi Minos~.  Non immerito dice stavvi: perch$e la conscientia @e 
+sempre nell'animo nostro: n$e mai si parte: Ma del continuo questo 
+giudice in noi fa sua residentia.  N$e @e da maravigliarsi che se Minos 
+@e el rimordimento della conscientia: Et ogni peccato arreca tale 
+rimordimento: perch$e el poeta non pose Minos nel primo cerchio ove @e 
+alchuna spetie di peccato Perch$e in quel cerchio sono o e' vilissimi: 
+e' quali sono puniti non per havere facto: Ma per non haver facto: et 
+per questo non poterono haver rimorso non conoscendo quanto mal fussi 
+non far bene.  O vi sono e' gentili: e' quali vixono con tali virt@u 
+che nessuna conscientia gli rimordeva: et del baptesimo non hebbono 
+scientia.  |Horribilmente ringhia~: Nessuna chosa @e che pi@u 
+horribilmente ringhi: et abbai et minacci che la conscientia: la quale 
+d@i et nocte stimola che ha commesso el delicto.  Tre chose fa la 
+conscientia: Prima ci rimorde: et rode del peccato commesso.  Onde 
+Isaia dixe: ^Vermis eorum non morietur~: N$e @e altro el vermine: el 
+quale dice Che non morr@a se non el rimorso che mai non cessa: Ma chome 
+vermine ci rode.  La seconda @e che sempre sta contro a noi la 
+conscientia quasi chome testimonio che // c.48r ci ripruovi: Et per@o 
+Iuvenale: ^Nocte dieque suum gestare in pectore testem Spartano cuidam 
+respondit pythia vates~.  Nel terzo luogho giudica el supplicio che 
+merita el peccato.  Onde chome pocho di sopra dixi: ^Prima est hec 
+ultio quod se iudice nemo nocens absolvitur~.  Et per questo forse 
+posono e' poeti tre giudici nello 'nferno Minos Eacho et Rhadamanto.  
+|Examina le colpe~: Sempre la conscientia seco medesima ripensa al 
+fallo commesso: et giudica la pena.  |Giudica et manda~.  Pone tre cose 
+che fa la conscientia.  Prima examina: poi giudica: poi manda ad 
+executione quanto @e giudicato |Secondo che avinghia~: Cio@e abbraccia: 
+et @e anticho vocabolo fiorentino: et viene dal vocabolo latino 
+^vincire~ che significa legare: perch$e chi abbraccia lega.  Onde 
+ancora e' nostri rustici dicono Una vinghiata: cio@e una bracciata.  
+|Dicho che quando l'anima @e mal nata~: Cio@e quando @e coinquinata nel 
+peccato.  Il che la fa s$i misera che chome dixe Christo di Iuda: 
+^Melius fuisset homini isti si nunquam natus fuisset~: Ne intendi mal 
+nata: perch$e nel suo nascimento havessi tale influxo dalle stelle che 
+fussi necessitata a peccare: perch$e questo torrebbe el libero 
+arbitrio: et @e falso non solamente secondo e' nostri theologi: Ma 
+anchora secondo e' philosophi: che vogliono che le stelle possino 
+inclinare: Ma non necessitare: perch$e l'anima creata inmediate da Dio 
+sanza mezo delle seconde cause che sono e' cieli non @e sobtoposta a' 
+cieli: chome el corpo: el quale pel mezo de' sensi pu@o dare qualche 
+inclinatione all'animo: Ma non sicch$e non rimanghi libero: et di sua 
+potest@a d'operare bene et male.  Il perch$e el docto astrologo dixe 
+che 'l savio signoreggia ale stelle Adunque mal nata: cio@e nata per 
+suo male poich$e @e stata s$i stolta che dilibera se facta serva del 
+peccato |Tutta si confessa~: Perch$e niente pu@o essere celato alla 
+nostra conscientia.  |Et quel conoscitore delle peccata~.  Et certo 
+nessuno meglio conosce e' peccati che la conscientia: per questo dixe 
+Cicerone.  ^Nullum maius theatrum conscientia~.  |Sempre innanzi allui 
+ne stanno molte vanno a vicenda~.  Luogho tracto di Virgilio ^Quesitor 
+Minos urnam mover ille silentum conciliumque vocat vitasque et crimina 
+discit~.  Dice adunque Virgilio: che essendovi infinita turba d'anime 
+e' nomi loro sono tutti scripti: et messi in un vaso: et traggonsi a 
+sorte: et chi @e tracta @e examinata.  |Vanno a vicenda~: cio@e vanno 
+secondo che la volta gli toccha.  Imper@o che vicenda vuol dire la 
+volta che toccha per sorte: et @e derivato dal vocabolo latino decto 
+^vice~.  |Dicono et odono et sono in gi@u volte~.  Im brevissimo spatio 
+di tempo: et quasi a un tracto epsi dicono e' lor peccati: et odono 
+Minos: el quale pronuntia la pena: et sono in gi@u volti: perch$e e' 
+diavoli le volgono al martorio.  Et chos@i @e certo.  Imper@o che nel 
+medesimo puncto la conscientia ti ricorda el peccato: et la ragione ti 
+condanna: et l'ansiet@a t'affligge.
+
+	|16-24.~  Non @e inconveniente che Minos voglia sbigottire Danthe.  
+Imper@o che spesso la sensualit@a: la quale @e consapevole della sua 
+fragilit@a sconforta se medesima d'entrare nello 'nferno: cio@e nella 
+contemplatione de' vitii temendo non rimanere presa da' piaceri di 
+quegli.  Ma la ragione superiore s'oppone a tal conscientia: et 
+dimostra che la gratia divina lo guider@a salvo.  Conscientia non @e 
+altro che consapere che ha l' huomo di se: et de' meriti: et delle 
+forze sue in se medesimo.  Adunque questo sapere che ha in se la 
+sensualit@a della sua fragilit@a: et piccole forze di potersi difendere 
+dalle volupt@a carnali gli grida: Et dice.  |O tu che vieni al doloroso 
+hospitio~.  Cio@e al doloroso albergho: cio@e alla contemplatione de' 
+vitii.  |Guarda chome entri~: In tale speculatione.  |Et di cui tu ti 
+fidi~: Quasi dica tu ti confidi nelle tue forze: ma epse non saranno 
+sufficienti a trartene.  |Non t'inganni l'ampieza~: cio@e la largheza 
+dell'entrare: Quasi dica l'entrata @e largha: ma l'uscita @e strecta: 
+perch$e ognuno pu@o entrare ne' vitii: ma non uscirne.  Pu@o l'huomo 
+per s$e medesimo col suo libero arbitrio entrare ne' vitii: Ma non pu@o 
+sanza la divina gratia uscirne.  Et chome dixi: ^Facilis descensus 
+Averni: Sed revocare gradum: superasque evadere ad auras.  Hoc opus hic 
+labor est~.  Adunque essendo chos@i sbigottita la sensualit@a del 
+conoscimento della sua fragilit@a .  Virgilio cio@e la ragione 
+superiore: la quale conosce che la divina gratia non abandona chi 
+s'aiuta: et mettesi per buon viaggio/ riprieme tal conscientia: et 
+dice.  |Non impedire el suo fatale andare~: Cio@e non t'opporre al suo 
+buon proposito: el quale procede da fato: cio@e da dispositione 
+ordinata dalla divina providentia.  La quale perch$e pu@o ci@o che 
+vuole @e somma stultitia dell'huomo o volersi opporre o voler sapere la 
+cagione perch$e vuol chos@i: perch$e/ ^incomprensibilia sunt iudicia 
+tua domine~.  El fato da' varii philosophi @e posto variamente.  N$e 
+posso io in tanta turba di chose tractarle tutte distesamente.  Ma 
+perch$e e' christiani nella chose divine seguitano pi@u Platone che gli 
+altri.  Conciosiach$e chome dice Augustino lui in quelle s'appress@o 
+pi@u alla verit@a: Diremo secondo Platone che cosa sia fato.  Ma prima 
+intendi che varie furono l'opinioni de' philosophi se Iddio cura et 
+provede alle chose o no.  Et Leucippo.  Democrito.  Prothagora.  
+Theodoro.  Aristippo: et Epicuro Vogliono che ogni cosa sia a caso 
+sanza alchuno governo.  Alquanti credono che Dio governi ogni chosa dal 
+cielo della luna in su: Et le chose inferiori non curi.  Alquanti 
+dicono che cura anchora le inferiori: Ma solamente le grandi.  Platone 
+prin- // c.48v cipe di tutti e' philosophi vuole che la divina 
+providentia si distenda per tutte le cose etiam per le minime et tutte 
+quelle governi: Alla qual sententia s'accorda Empedocle.  Hippocrate.  
+Heraclito.  Pythagora: et gli stoici.  Aristotele scrive in modo che 
+alchuni interpretano che lui pongha la providentia.  Alchuni el 
+contrario.  Vuole adunque Platone che la sapientia di dio cognoscendo 
+la essentia et la potentia sua: et per quella ogni chosa che da quella 
+pende subito la volont@a ama: et desidera l'ordine delle chose: el 
+quale la sapientia ha giudicato essere optimo: et in se lo discrive: et 
+constituisce in forma: che non pu@o essere altrimenti.  Adunque questa 
+constitutione: et ordine: et legge delle chose: che hanno a essere 
+necessariamente: et nientedimeno non impediscono el libero arbitrio @e 
+chiamata providentia.  Questo medesimo ordine considerato nelle chose 
+chiama fato: Et dice fato essere legge divina: per la quale s'adempiano 
+le inevitabili cogitationi: et incepte di dio.  Il perch$e Augustino 
+non contende/ n$e s'oppone a quegli che chiamano fato la connexione: et 
+continuato ordine di tutte le cause: pel quale si fa ci@o che si fa.  
+Ma non vuole chiamarlo fato lui: perch$e questo nome dagli antichi si 
+tira in diverse significationi: et potrebbe ingannare gl'huomini.  
+Adunque dixe Danthe el suo fatale andare ^id est~ el suo andare: el 
+quale procede dall'ordine posto da Dio nelle cagioni delle chose: et 
+per@o seguita.  |Vuolsi~ chos@i chola dove si puote ci@o che si vuole: 
+E' quali versi exponi chome di sopra furono exposti
+
+	|25-45.~  Habiamo gi@a dimostro che per tutta questa opera @e 
+necessario che il texto dinoti due chose: Cio@e le pene che sostengono 
+e' dannati nello 'nferno essentiale: et un senso allegorico: el quale 
+dimostri le perturbationi: le quali induce el vitio del quale si 
+tracta.  Adunque qui tractandosi dell'amore carnale el quale peccato 
+universalmente @e decto luxuria.  Et perch$e el nostro auctore @e 
+insieme poeta: et theologo christiano/ mi sforzer@o satisfare all'una: 
+et all'altra doctrina.  Et prima intendendo dello 'nferno de' dannati.  
+|Qui cominciono le dolenti note~: cio@e strida: et pianti: perch$e 
+cominciono le pene sensitive.  Et pone questi in luogho tenebroso: 
+perch$e havendo molto peccato chogli occhi: e' quali sono guida nello 
+amore: et havendo preso dilecto delle belleze corporali: le quali tutti 
+consiston nel vedere @e conveniente pena che sieno privati dell'uso di 
+quel senso: con quale hanno peccato.  ^Preterea~ perch$e @e 
+consuetudine degli amanti dilectarsi in varii suoni et canti: et 
+harmonie debitamente perch$e questo senso sia punito odono mughia: et 
+altre voci moleste.  Item perch$e la luxuria induce cecit@a di mente: 
+et inconsideratione: perch$e per quella lamente perde el lume della 
+ragione superiore.  N$e pu@o pi@u contemplare alchuna excellente chosa: 
+Et similmente della inferiore: perch$e l'animo occupato nello impudico 
+amore/ perde ogni suo honore: et utile nella vita civile: et activa 
+Pertanto el poeta gli pone in tenebre.  Queste due cecit@a/ una della 
+ragione superiore: et l'altra della inferiore/ exprexe optimamente 
+Virgilio la prima in Enea: el quale per Dido lasciava Italia: cio@e la 
+inquisitione: et contemplatione delle chose celesti.  La seconda in 
+Dido: la quale impedita dall'amore/ ogni altra chosa intralasciava.  
+^Unde Non cepte insurgunt turres~.  Item induce la luxuria inconstante. 
+ Il perch$e l'amore @e dipinto alato: Onde Propertio assegnando la 
+ragione perch$e @e alato/ dixe: ^Scilicet alternis quoniam iactamur in 
+undis Nostraque non ullis permanet aura locis~.  Onde el poeta dixe: 
+|La bufera infernale che mai non resta~.  Item nell'amore e' consigli 
+sono precipiti: cio@e inconsiderati: et sanza ragione.  Et per questo 
+lui pone la ruina: Et chi vuole apuncto intendere la inconstantia degli 
+amanti: et la ruina de' loro consigli da uno extremo a un altro/ legga 
+il ^Triompho~ che scrive Francesco Petrarcha dell'amore chosa molto 
+utile considerandolo bene a chi cercha liberarsi da s$i crudele 
+servit@u.  |Hora incomincion le dolenti note~: Pone gran pianti: et 
+lamenti: perch$e di tutte le perturbationi humane nessuna @e che faccia 
+gl'huomini pi@u queruli: et pi@u lachrimosi: et con maggior lucto che 
+l'amore.  |D'ogni luce muto~: cio@e privato: et prese quello che @e 
+dell'audito per quello che @e del vedere.  Le perturbationi dell'animo 
+sono quattro in genere: Ma in spetie molto pi@u: chome in altro luogho 
+dimostrerremo: Tutte queste chose spengono in noi el lume della 
+ragione.  Ma sopra l'altre L'amore fa l' huomo cieco del tutto.  Onde 
+e' poeti lo dipingono cieco.  Item fanciullo a dimostrare che manca 
+d'ogni sentimento.  Di qui Propertio: ^Quicunque ille fuit puerum qui 
+pinxit amorem Non ne putas miras hunc habuisse ma-~ // c.49r ^nus Is 
+primum vidit sine sensu vivere amantes Et levibus curis magna perire 
+bona~.  Et ben fa comperatione del mare: el quale chome dimostramo 
+nell'^Eneide~ di Virgilio optimamente si pone per l'appetito et per la 
+sensualit@a.  Imper@o che chome el mare per se medesimo @e tranquillo: 
+Ma mosso da' venti: et maxime se sono contrarii surge in gran tempesta. 
+ Chos@i l'appetito nostro per se quieto si perturba per varie passioni: 
+le quali sono spesse volte contrarie nella mente: chome dimostra el 
+Terentiano Pamphilo el quale da una parte @e pinto dall'amore: et 
+compassione di Glicerio: Dall'altra @e rivocato dalla riverentia 
+paterna.  Questi contrarii venti fanno mughiare el mare: cio@e 
+commuovono a mughi: et a guai la sensualit@a dell'amante.  |La bufera 
+infernale~.  Proprio bufera: et bufe[r]a dicono quando nelle montagne 
+la neve che cade @e rivolta: et con ruina aggirata da' diversi venti.  
+Finge adunque che quegli spiriti nel medesimo modo fussino amulinati: 
+et trasportati per l'aria.  Il che niente altro significa che la 
+continua instabilit@a: et inconstantia: et subitanea mutatione negli 
+amanti.  Imper@o che chome dice Terrentio Nello amore son tutte queste 
+chose.  Adunque questa assidua inconstantia: et furibunda mutatione 
+rapisce l'animo: et volgendolo di proposito in proposito: et 
+percotendolo: cio@e dandogli gravi dolori lo molesta et affligge.  Et 
+quando giungono innanzi alla ruina: cio@e quando caggiono dalla chosa 
+amata: et rimangonne privati/ quivi sono le strida/ et el pianto: et e' 
+lamenti: et bestemmiano la virt@u divina.  Il che significa extremo 
+furore: et quale suole essere negl'amanti: Et dimostra la perversione 
+nell'amore.  Imper@o che prepongono tale amore all'amore di Dio: et del 
+padre.  |Che la ragione sobmettono al talento~: Cio@e all'apetito.  
+Talento @e inclinatione d'animo: et d'apetito alla volupt@a: et dilecto 
+sensitivo.  Onde atalentare significa aconsentire.  |Et chome gli 
+stornegli ne porton l'ali~.  Optima comperatione degl'uccegli all'anime 
+per la loro leggereza: et perch$e gli stornegli volan presto: et in 
+gran turba/ exprime la moltitudine: et velocit@a degli spiriti.  |Di 
+qu@a.  Di l@a di s@u.  di gi@u gli mena~: L'amante non sta mai in uno 
+stato: Ma hora sale nella gratia della chosa amata: et hora ruina per 
+le inimicitie: et dissensioni.  |Nulla speranza gli conforta mai~ |Non 
+che di posa: ma di minor pena~.  Quanto allo 'nferno essentiale questo 
+si verifica in ogni dannato per qualunque peccato.  Et per@o l'auctore 
+le pose qui nel primo luogho delle pene: accioch$e s'intenda decto per 
+tutti gli altri.  Ma quanto al senso allegorico @e proprio del 
+luxurioso: perch$e tale perturbatione @e insatiabile.  Et quanto pi@u 
+s'exercita: tanto pi@u s'accende l'apetito.  N$e altro intendono e' 
+poeti per Titio figliuolo della terra: el quale volle fare violentia a 
+Latona madre di Phebo: se non la luxuria la qual nasce di cupidit@a di 
+chose terrene: al quale bench$e l'avvoltoio roda el fegato: 
+nientedimeno del continuo altrettanto ne rinasce quanto tale ucciellone 
+divora.  ^Preterea~ non @e mai sanza pena l'amante.  Imper@o che se @e 
+privato della chosa amata si strugge per disiderio d'haverla.  Se la 
+possiede sempre sta in gelosia: et in sospecto di non la perdere
+
+	|46-51.~  Chome per la comperatione degli stornegli expresse la 
+moltitudine: et la velocit@a degli spiriti: chos@i pe' gru significa e' 
+lamenti loro.  Et ben dixe van cantando loro lai: cio@e lamenti.  
+Imper@o che quasi tutti e' versi: et tutte canzone degl'innamorati 
+contenghono querele et ramarichii: et chose che muovino a 
+commiseratione.  Onde e' greci chiamano tali versi Elegi: perch$e 
+^elos~ in greco significa misericordia: et compassione.  |Faccendo in 
+aere di se lunga righa~.  Non dice che gli spiriti volassino faccendo 
+di se lunga righa: perch$e di sopra ha dimostro che volavono in turma 
+chome gli stornegli.  Ma dice che volavon cantando e' lor lai come e' 
+gru: quando volando fanno di se lungha righa.  |Chi son quelle genti~? 
+Non domanda di tutta la gente di quel cerchio: perch$e gi@a sa che 
+spetie di peccatori si tormentono quivi.  Ma in spetie domanda di 
+quegli: che gli son propinqui: Et perch$e sono nomi d'antiche historie 
+ne domanda lui.  Et per tutto el poema observa quasi questo modo che le 
+historie antiche fa dire a Virgilio.  Le moderne le quali furono dopo 
+Virgilio fa dire ad altri.
+
+
+|52-69.~  Semyramis fu moglie di Nino re degli asyrii: della cui 
+origine Diodoro Siculo pone chose fabulose.  Imper@o che scrive lei 
+esser nata in una selva appresso d'un lago d'Ascalonia citt@a: Et la 
+madre pone una: la quale quivi era adorata per idia: et el padre 
+giovane: el quale gli sacrificava: et nata dice esser stata occultata 
+in una speloncha: et quivi dalle colombe nutrita chol lacte: el qual 
+toglievano a' pastori: quando mugnevano.  Et finalmente trovata essere 
+stata data a Simma prefecto de' pastori del re.  Chostei adunque fu 
+nominata Semyramis per esser stata nutrita dalle colombe: perch$e in 
+lingua soriana Semyramis significa colomba.  Crescendo divenne di s$i 
+// c.49v maravigliosa belleza: che Menone huomo primo del consiglio del 
+re la spos@o.  N$e fu in questa femina minore la prudentia che la 
+belleza.  Onde el marito niente faceva sanza el suo consiglio.  Era in 
+questi tempi Nino re degli asyrii con l'exercito contro a' bactriani: 
+et assediava Bactra citt@a principale di quella regione.  Et vedendo 
+Menone che l'obsidione haveva a essere lungha/ mand@o per Semyramis 
+sanza la quale non viveva se non in merore.  Venne la donna: et con 
+diligentia speculando el sito della terra/ tandem per via difficile: et 
+non guardata: perch$e quella parte parea inexpugnabile prese la roccha 
+della citt@a.  Onde e' bactriani furono constrecti a darsi.  Questo 
+alla donna decte grandissima fama.  Et il re mosso chos@i dalle 
+belleze: chome dalle virt@u/ la chiese al marito promettendogli in 
+cambio Sosane sua figliuola: et denegandola minacci@o d'acciecarlo.  
+Menone pel dolore s'impicc@o.  Et in questo modo divent@o moglie di 
+Nino Semyramis: et di lui partor@i Ninia: Nino morendo gli lasci@o el 
+reame.  Lei volendo fare chose egregie edific@o Babylonia sopra 
+l'Euphrate: le mura della quale giravono tanti stadii quanti d@i ha 
+l'anno: et @e lo stadio l'octava parte d'un miglio.  Adunque .ccclxv.  
+stadii sono miglia quarantasei.  Le mura eron di mattoni.  Et havevano 
+.CCL.  torri N$e mattoni crudi havea impresso varie forme di fiere: et 
+ciaschuna di suo colore: In forma ch'el circuito faceva una caccia: et 
+in luogho di calcina tolse bitume delle palude asfaltide.  Lasci@o in 
+drieto molte stupende chose di questa opera: perch$e sole queste 
+richiederebbono un volume.  Vinxe e' medi: dove lasci@o mirabili opere 
+orti.  aquedocti: et vie.  Vinxe e' persi dove molti monti appiano: et 
+in piano molti monti fece per sepulture di suoi amici.  Vinse gl'indi 
+contro a' quali tre milieri d'huomini a pie: et cinquanta migliaia a 
+cavallo: et cento migliaia di carri conduxe.  Fu molto luxuriosa: Ma 
+non volle marito proprio.  Eleggeva tra' giovani e' pi@u begli: et di 
+poi gli mandava in luogho che pi@u non si rivedevono.  Questo scrive 
+Diodoro.  Iustino dice che finalmente volendo usare col figliuolo fu da 
+lui morta.  Alquanti dicono che lo prese per marito: et a ricoprire la 
+infamia constitu@i per legge: che fussi licito a ciaschuno fare el 
+simile.  |L'altra @e colei che s'ancise amorosa~ ^id est~ mor@i per 
+amore.  Seguita Dido.  Chostei fu figliuola di Belo re di Phenycia: et 
+moglie di Sicheo: el quale perch$e haveva di molto thesoro da 
+Pygmaleone fratello di Dido fu ucciso sperando possedere le sue 
+riccheze: Ma Dido con quelle si fugg@i in Affrica dove edific@o 
+Cartagine: et vixe in gran castit@a: n$e mai ruppe la fede al gi@a 
+morto marito: Et finalmente vedendosi constringere a Iarba re di 
+Mauritania: el quale la volea sposare/ chon le proprie mani s'uccise 
+per non rompere la fede a Sicheo.  Ma Virgilio per ornare el suo poema 
+finge: che arrivando per tempesta Enea a' liti cartaginesi: et 
+visitandola lei s'innamor@o di lui: et fuggendo nella caccia la piova 
+in una speloncha dove s'accozorono lo conobbe.  Di poi andatosene Enea 
+in Italia Dido vincta dal troppo amore s'uccise.  Adunque Danthe 
+seguitando Virgilio nell'altre chose/ lo seguita anchora in questa 
+historia.  Cleopatra fu figluola di Ptolomeo Pythone re d'Egypto: et 
+sorella: et moglie di Ptholomeo Dyonisio: el quale uccise Pompeo: Tra 
+questi nacque civile dissensione: et nella expugnatione che Cesare f@e 
+d'Alexandria/ epsa et con belleze: et con l'ornato parlare: et dolce 
+maniera: le quali chose maravigliosamente erono in lei/ allect@o Cesare 
+nel suo amore: et di lei partor@i Cesarione.  Et dopo la morte di 
+Cesare con le medesime atti tanto tir@o a s$e.  M[arco] Antonio: che 
+lui ardentemente l'am@o: et per lei rifiut@o Octavia sorella 
+d'Octaviano.  In molte delitie: et in gran luxo vixono in Alexandria.  
+Finalmente vinto che fu Antonio da Octaviano si rifuggirono in Egypto: 
+Et Antonio vedendo non potere altrimenti fuggire Octaviano s'uccise.  
+Cleopatra presa viva/ temendo non havere a esser menata nel triompho/ 
+s'uccise col veleno.  Femina di grande animo: et molto prudente: ma non 
+meno lasciva: et la qual chome scrive Plutarcho valeva pi@u per certa 
+venusta: et gesti: et modi pieni d'allectamenti: che per belleza.  
+Helena fu figliuola di Leda moglie di Tindaro re di Lacedemonia.  
+Dicono e' poeti che Iove innamorato di lei si trasform@o in cigno ^id 
+est~ cecero uccello candidissimo: et chos@i con lei giacendo nacquono 
+due huova: et dell'uno nacque Polluce: et Helena: la quale venuta 
+all'et@a matura si marit@o a Menelao.  N$e medesimi tempi era Paris 
+figluolo del re Priamo reputato giusto giudice.  Il perch$e tre idie 
+Iunone.  Minerva: et Venere contendendo chi di loro avanzassi l'altre 
+di belleza/ rimessono in lui tanta lite.  Accept@o l'arbitrato Paris: 
+Ma giudic@o non sanza corruptela.  Imper@o che prepose Venere: perch$e 
+epsa gli promisse fargli hevere Helena bellissima di tutte le donne: 
+Sotto la quale speranza navig@o in Grecia: et rap@i Helena.  Bench$e 
+alquanti dicono che non la rap@i: Ma epsa di sua volont@a lo segu@i: et 
+vennene in Troia.  Questa ingiuria commosse e' greci a condurre 
+l'exercito in Troia: et dopo dieci anni vinsono la citt@a.  arsonla: et 
+sacheggioronla: et Menelao ricuper@o Helena.  Bench$e Herodoto scriva 
+che Helena non venne mai in Troia: Ma che Paris per fortuna scorse in 
+Egypto: et quivi dal re nominato Proteo gli fu tolta: et servata 
+tantoch$e Menelao dopo l'excidio troiano and@o per lei.  Dione 
+Chrysostomo tutta questa historia perverte.  Ma non si pu@o in tanta 
+multitudine di chose tractare di ciaschuna apieno.  |Per chui tanto reo 
+tempo si volse~.  Fioriva // c.50r Grecia Erono incredibili le riccheze 
+de' troiani innanzi che Helena fussi rapita.  Ma per lei poi s'arm@o 
+tutta la Grecia per ricuperalla.  Et tutta l'Asia per difender Troia.  
+Onde seguirono uccisioni d'infiniti huomini.  Perirono excellentissimi 
+principi.  Nacquonne incendii: prede.  rapine.  distructioni di molte 
+citt@a.  Onde el Petrarcha: <Et funne el mondo sobtosopra volto>.  
+Achille l'origine di chostui @e da Iove Imper@o che di Iove et d'Egina 
+nacque Eacho: et d'Eacho Pelleo: et Pelleo di Thetis dia marina gener@o 
+Achille: el quale la madre tuff@o tutto nella palude Styge excepto 
+ch'el calcagno pel quale epsa lo tenea.  Onde dicono che non potea 
+esser ferito se non nel calcagno.  Fu nutrito nel monte Pelio da 
+Chyrone centauro: N$e mai in quel tempo mangi@o cibo cocto.  Il perch$e 
+fu nominato Achille: perch$e in greco .^A~.  significa senza: et 
+^chilos~ cibo cocto: Impar@o da Chyrone astrologia.  musica: et 
+medicina.  Di poi non volendo Thetis che fussi menato alla guerra 
+troiana/ lo port@o adormentato nell'isola di Scyro a Lycomede re: et 
+chon le sue figluole stava in veste feminile: in forma che non si 
+conoscea per maschio.  Et pure in quel tempo Dideydamia figluola di 
+Lycomede di lui gener@o Pyrrho.  Demum conosciuto per l'astutia d'Ulixe 
+fu constrecto andare a Troia: dove secondo Homero dimostr@o incredibil 
+forteza.  N$e mai vinxono e' troiani quando Achille era alla battaglia. 
+ Ma mentre che irato chon Agamemnone: perch$e gl'havea tolto Briseida 
+non voleva combactere/ Patroclo vestito delle sue armi and@o contro a 
+Hectorre: et da lui fu morto.  Ma Thetis gli f@e fabricare nuove armi a 
+Vulcano con le quali uccise Hectorre: et vendic@o Patroclo.  Bench$e 
+Dione Chrysostomo narri l'opposito: et pruovi che Hectorre uccise lui.  
+Ma seguitando Homero Achille uccise Hectorre: et Troiolo.  Di poi 
+innamorato di Polyxena figluola di Priamo/ per haverla venne in 
+conloquio chon Heccuba sua madre nel tempio d'Apolline Tymbreo: et 
+inginocchiato per honorare Apolline fu ferito di strale nel calcagno da 
+Paris: el quale per questo fare l'aspectava posto in aguato: et chos@i 
+mor@i Onde dixe el poeta: |Che~ |chon amore al fin combacteo~.  
+Tristano fu nipote di Marco re di Cornovaglia: et innamorossi della 
+reina Isotta moglie del re Marco.  El re gl'appost@o in camera: et chon 
+la lancia medesima di Tristano: la quale lui haveva lasciata fuori 
+dell'uscio lo fer@i mettendo la lancia per un bucho dell'uscio: Et 
+Tristano dopo poco tempo mor@i di tal ferita.  Questo fu el principale 
+de' cavalieri chiamati erranti/ le prodeze de' quali sono pi@u fabulose 
+che vere.  Di qui Francesco Petrarcha dixe: Ecco que che le carte 
+empion di sogni Lancilotto: et Tristano et gli altri erranti.
+
+	|70-72.~  Dimostra che Danthe cio@e la sensualit@a pigla compassione 
+delle pene degli amanti: Et quasi si smarrisce: perch$e si divia dalla 
+ragione: la quale non vuol che noi habbiamo compassione a chi 
+debitamente @e tormentato.  Imper@o che la piet@a: et misericordia @e 
+commendata quando ci prende compassione di chi immeritamente @e posto 
+in miseria: Ma ad chi merita el supplicio non dobbiamo havere alchuna 
+compassione.  Onde lui altrove: |Qui regna la piet@a quando @e ben 
+morta~.  chi @e pi@u scellerato di cholui: ch'al giudicio di Dio 
+passion porta.  Nientedimeno attesa la qualit@a del vitio dell'amore 
+lascivo: el quale non procede chome molti altri peccati da crudelt@a o 
+da immanit@a alchuna.  Il che @e al tutto contro alla natura 
+dell'huomo: Ma piutosto da gentileza d'animo.  et da humanit@a bench$e 
+male regolata sia: et atteso quanto sia difficile a resistervi: 
+conciosiach$e e' pi@u savi sono rimasi all' hamo/ non @e maraviglia se 
+la nostra sensualit@a ne prende compassione.  Questo medesimo conferma 
+el Petrarcha nel primo sonecto quando dice: <Dove sia chi per pruova 
+intenda amore Spero trovar piet@a non che perdono>.
+
+	|73-78.~  Chiede consiglio a Virgilio se gli pare che parli chon 
+questi spirti.  Il che allegoricamente significa: che innanzi che 
+parliamo o scriviamo di cosa che habbia ad a[v]er infamia ad alchuno 
+dobbiamo volere el consiglio della ragione.  |Che insieme vanno~: 
+perch$e chi insieme pecca insieme @e punito.  ^Preterea~ entrano in una 
+medesima infamia.  |Et paion si al vento esser leggieri~.  La leggereza 
+si dimostra dalla velocit@a.  Erono pi@u veloci: perch$e erono pi@u 
+tirati dal vento: cio@e haveano maggior pena: la quale meritavono per 
+essere cognati: et in grande stato: perch$e queste due circunstantie 
+aggravano el peccato: et quanto al morale pi@u sono diffamati quegli 
+che sono parenti: et in grande stato.  Onde Iuvenale: ^Omne animi 
+vitium tanto conspectius in se crimen habet quanto maior qui peccat 
+habetur.~
+
+	|79-87.~  Fece comperatione alle colombe non solamente perch$e sono 
+veloci nel volare.  Ma anchora perch$e @e conveniente uccello agli 
+amanti.  @E la colomba animale molto luxurioso et affectionato 
+nell'amore // c.50v Et per questo gl'antichi dedicorono e' colombi a 
+Venere: chome l'aquila a Iove.  el corvo a Phebo.  la cornacchia a 
+Minerva.  El picchio a Marte.  El pavone a Iunone: Et similmente a' 
+altri dii/ altri ucciegli.  |Chotali uscir della schiera ove Dido~.  
+Cio@e dove era Dido: della quale dicemmo di sopra.
+
+
+|88-108.~  Parrebbe forse ad alchuno: che questi spirti non dovessin 
+favellare se prima non fussino domandati: et pure hevendo a favellare 
+piutosto dovessi dir l'huomo che la donna.  Alla prima si risponde che 
+havendo Danthe richiesto che parlassino era facile a conoscere che 
+niente altro volessi/ se non sapere alchuna chosa della vita: et de' 
+costumi loro.  ^Preterea~ piglion gl'amanti et gran volupt@a nella 
+felicit@a: et gran consolatione nell'adversit@a inferire quello che 
+alloro @e intervenuto nell'amore.  Presertim a chi dimostra haverne 
+compassione: chome havea dimostro Danthe per quelle parole.  |O anime 
+affannate/ Venite a noi parlar s'altri nol niegha~.  Et per questo 
+spesso narrono etiam a chi non gli domanda.  Alla seconda non @e dubbio 
+che la femina @e pi@u perturbata nell'amore et pi@u querula: et 
+rammarichosa: et men considerata nel parlare: et pi@u loquace |O animal 
+gratioso: et benigno~: Dixe animale: perch$e lo vedeva chol corpo et 
+coll'anima.  Imper@o che animale @e corpo animato.  |Gratioso et 
+benigno~.  Dixe: perch$e chos@i comprese dalle sue parole/ quando dixe 
+o anime affannate venite a noi parlar s'altri nol niegha.  |Tignemmo el 
+mondo di sanguigno~.  Perch$e fummo morti: et spargemmo el sangue sopra 
+la terra.  |Noi udiremo~ et parleremo a vui: Cio@e a voi.  Usa 
+l'auctore a qualunque induce a parlare accomodare alchun vocabolo della 
+patria sua.  Il perch$e dixe vui non solamente per far la rima: Ma 
+perch$e questa Francesca era romagnuola.  |Mentre che'l vento chome fa 
+si tace~: Pare contrario a quel che dixe La bufera infernal che mai non 
+resta.  Ma intendi che fussi posata in beneficio di Danthe quanto a 
+questi due.  Et allegoricamente intende questo: che bench$e l'amore sia 
+in continuo moto: nientedimeno a chi fuori d'amore lo considera in 
+altri non ha alchuno furore chome l'avaritia: la quale @e considerata 
+da chi investiga la natura de' vitii sanza alchuna cupidit@a.  Di poi 
+discrive del sito di Ravenna sua patria: la quale @e presto alla foce 
+del Po in sul mare.  El qual Po corre con suoi sequaci: cio@e fiumi che 
+entrono in lui insino al mare: et qui chome gli altri fiumi cessa dal 
+suo corso.  Ma del Po diremo in pi@u comodo luogho.  Francesca fu 
+figluola di Guido da Polenta signor di Ravenna/ femina di belleze: et 
+di maniera excellentissima: et mogle di Ianciotto figluolo di Malatesta 
+signor da Rimino huomo bellicoso: et di grande animo: Ma brutto di 
+corpo: et scianchato.  Chostui havea un fratello chiamato Paolo bello 
+di corpo: et di dolce maniera et chostumi: et pi@u apto all'otio che 
+all'armi: et quasi un Paris a comperatione d'Hectorre.  Et usando 
+familiarmente chon Francesca chome con cognata: La lunga practica 
+partor@i tra loro amor lascivo: Et finalmente leggendo un giorno el 
+libro della tavola ritonda: el captivo exemplo gl'incit@o a captivo 
+acto.  Et seguitando in questo proposito pi@u tempo Ianciotto se 
+n'accorse: et appostogli: et giuntogli in sul facto con uno medesimo 
+ferro: et colpo confixe l'uno et l'altro.  Dicono che la madre sua la 
+voleva dare a Paolo: et Ianciotto and@o a Ravenna per sposarla per lui: 
+ma vedendola s@i bella: et innamoratosene la chiese per s$e: et perch$e 
+era huomo potente: et terribile gli fu data pi@u per paura che per 
+amore.  |Amor ch'al cor gentile tosto s'apprende~.  @E vera sententia 
+che l'animo generoso: et elegante: cio@e acuto in eleggere facilmente 
+ama le chose belle: Imper@o che amore non @e altro che desiderio di 
+belleza.  Noi diciamo animo gentile quello che @e humano.  affabile.  
+clemente.  benigno.  gratioso.  cupido di compiacere.  alieno 
+dall'opposito: el quale s@i dilecta di chose belle: et ben composte.  
+Et ha in horrore ogni crudelt@a: et efferit@a: le quali tutte chose 
+dimostrono quello da natura essere disposto ad amare.  O piutosto 
+havere universale amore a tutti.  Adunque sar@a facile amare 
+singularmente uno in particulare.  Molte // c.51r chose: et degne 
+d'essere intese mi restano dall'amore: Ma perch$e sono divine: et 
+proprie del vero amore non quadrano in questo luogo: dove si tracta 
+dall'amor lascivo: el quale tanto degenera et traligna dal vero amore: 
+che gli diventa contrario.  Il perch$e le differisco in altro tempo 
+quando di quello tracteremo.  |Amor ch'al cor gentil tosto s'apprende~. 
+ Qui @e un color rhetorico decto sententia che @e parlare tracto della 
+vita nostra: pel quale si dimostra quello che si fa.  O quel che 
+ragionevolmente si debba fare: Et bench$e si pongha in chosa 
+particulare: nientedimeno si pu@o trasferire al generale: chome quando 
+dice el Petrarcha.  Mal fa chi tanta f@e si tosto oblia.  Et un bel 
+morire tutta la vita honora: et non @e minore el duol perch'altri el 
+priema: et simili.  ^Preterea~ @e in questi tre ternarii un altro color 
+rhetorico decto repetitione Il che @e quando una medesima parola si 
+repete pi@u volte nel principio delle clausule: come @e qui Amor ch'al 
+cor gentile.  Amor ch'a nullo amato.  Amor conduxe: chos@i el Petrarcha 
+nella canzona S'il dixi mai.  |El modo anchor m'offende~: cio@e el modo 
+di questo amore che fu disordinato: imper@o che el peccato commesso 
+m'offende al presente con la pena: et moralmente ogni delicto commesso 
+di poi sempre offende el deliquente: pel rimordimento della 
+conscientia: Et certo l'anima rationale non pu@o essere sanza amore: ma 
+bisogna el modo.  Non l'offende che l'amassi: Ma che disordinatamente 
+l'amassi.  Cayna attende: cio@e aspecta cholui che uccise noi: Et @e 
+Cayna un luogho del quale far@a mentione di sobto dove si puniscono e' 
+traditori: et homicidi decto da Cain: el quale fu el primo homicida: 
+chome pi@u appieno quivi si tracter@a.
+
+	|109-120.~  Mostra che la sensualit@a exprassa per Danthe si muove ad 
+compassione: et el chinare el viso a terra significa quella havere pi@u 
+cura delle volupt@a corporee di che costoro son privati: che della 
+vera: et immortale volupt@a.  Ma la ragione superiore l'excita: et 
+fallo dirizare.  |Quanti dolci sospiri~.  Certo @e molto dolce la 
+volupt@a corporea ai sensi: Ma se si seguita ha in se occulto veleno: 
+el qual ci conduce ad extrema pernitie.  Onde optime el lyrico toscano 
+dixe: <So chome sta tra' fiori ascoso langue>.  Il perch$e dobbiamo 
+fare della volupt@a quello che e' vecchi troiani dixono d'Helena.  
+Certo @e bella questa donna.  Ma pure piutosto vada via che Troia 
+perisca.  @E la volupt@a chosa molto dolce: et molto dilecta e' sensi: 
+Ma lascisi piutosto che l'animo perisca: perch$e ci conduce al doloroso 
+passo: che @e non solo lo 'nferno essentiale: Ma anchora el morale: 
+perch$e nessuna perturbatione pi@u tormanta l'animo che questa.  |Che 
+conosciesti e' dubbiosi disiri~: cio@e venisti a tantoch$e l'uno 
+manifesto all'altro e' suoi desiderii.  Imper@o che l'amante non ha 
+ardire di scroprirsi alla chosa amata: mentre che e' disiri sono 
+dubbiosi: cio@e non conosciuti.  Ma poich$e intende epsa volere quel 
+medesimo/ allhora piglia ardire a scoprirsi.
+
+	|121-142.~  Quando l'anima esce del corpo puro: et sanza alchuna 
+contagione d'alchun peccato/ rimane semplice nella propria natura: n$e 
+altro pensa se non alla sua felicit@a: la quale @e fruire Dio: et a 
+quello perch$e non @e aggravato d'alchuna terrestre mole/ facilmente: 
+et con sommo desiderio vola.  Ma quello che si parte lordo: et 
+coinquinato di peccati: ne' quali ha riposto ogni sua felicit@a: niente 
+altro desidera se non exercitar quegli.  Onde optimamente dixe 
+l'^Apocalypse~: ^Opera enim illorum sequuntur illos~.  Et Virgilio: 
+^Que gratia currum Armorumque fuit vivis que cura nitentes Pascere 
+equos eadem sequitur tellure repostos~: et el pensare alle volupt@a 
+passate nel tempo che non le possono exercitare @e loro gran passione: 
+et non piccholo tormento.  Questo adunque dimostra per sententia 
+generale dicendo: che nessuno dolore @e maggiore che ricordarsi del 
+tempo felice nella miseria.  Et arroge |Et ci@o sa el tuo doctore~ 
+Perch$e Virgilio nel sexto significa questa medesima sententia ne' 
+versi gi@a decti.  Altri dicono |ci@o~ // c.51v |sa el tuo doctore~: 
+Perch$e al presente @e dannato nel Limbo: et privato della gloria: la 
+quale haveva appresso a Octaviano.  Ma la prima sententia quadra meglo. 
+ Di poi pur seguita.  Imper@o che non obstante: che sia dolore 
+ricordarsi del tempo felice nella miseria: Nientedimeno non @e piccola 
+consolatione riferirlo a chi dimostra haverne compassione.  Questi due 
+primi ternarii son per proemio della sua oratione Et nel primo capta 
+attentione per la gravit@a del colore rhetorico decto sententia: et 
+anchora benivolentia dalla commiseratione.  Nel secondo lo fa docile.  
+Di poi nel terzo comincia la narratione: la quale fa brieve: perch$e 
+non vi pone chosa alchuna superflua: et dilucida: et aperta: perch$e 
+observa l'ordine: et usa parole aperte: Et verisimile: perch$e dimostra 
+esservi stati tutti e' mezi che possino condurre a tal fine.  Prima la 
+lectura di chose amatorie: et di simil caso: la qual poteva etiam fare 
+amare quegli che non amassino.  Et ciaschuno intende che l'exemplo 
+facilmente commuove a fare el simile: Maxime quando v'@e l'auctorita di 
+persone reputate: chome era Lancilotto: et Ginevra Di poi perch$e eron 
+soli: Et finalmente sanza sospecto.  Queste commodit@a potevon far 
+peccare chi prima non vi fussi stato inclinato: perch$e chome dice el 
+proverbio A archa aperta giusto vi pecca.  Et questo sia in 
+dimostratione dell'arte: Ma moralmente dimostra che l'otio.  le 
+lectioni lascive.  l'exemplo di chi ha facto quello che vogliamo far 
+noi: Maxime se @e huomo d'auctorit@a: Et finalmente la comodit@a del 
+luogo et del tempo/ facile induce gl'huomini a lascivo: et non concesso 
+amore.  |Noi leggiavamo un giorno per dilecto~.  Legger per dilecto 
+significa essere in otio.  Imper@o che chi @e occupato non cerca 
+trastullo: ma cerca expedire le sue faccende.  Adunque erono in otio: 
+Et l'otio insieme con lascivo trastullo genera l'amore carnale.  Onde 
+el Petrarcha: <Et nato d'otio: et di lascivia humana>: Et Ovidio: ^Otia 
+si tollas periere cupidinis arcus~: Et el Terentiano Menedemo al 
+figluolo dimostra.  che l'otio @e quello che fa gl'huomini cadere in 
+lascivia: come per l'oposito la faticha: et l'occupationi conservono la 
+castit@a.  Di qui Iuvenale: ^Prestabat castas humilis fortuna latinas 
+Quondam nec vitiis contingi parva sinebat Tecta labor somnique breve et 
+vellere tusco Vexate dureque manus et proximus urbi Hanibal~.  |Di 
+Lancilotto come amor lo strinse~.  Era ne' tempi di Danthe in prezo un 
+libro chiamato ^Della Tavola Ritonda~: Nel quale @e scripto che 
+Lancilotto era innamorato di Ginevra moglie del re Marco.  Et Galeotto 
+fu mezano che si potessino congiugnere.  Adunque questo libro: et chi 
+la scripse fu Galeotto: cio@e fu mezano a noi: chome Galeotto a 
+Lancilotto: et a Ginevra.  Fu adunque mezano a noi el libro: perch$e 
+socto spetie di leggere el libro/ altro potavamo tractare: et fu 
+anchora mezano chi lo scripse: perch$e e' suoi lascivi versi ci 
+commossono ad amare.  |Per pi@u fiate gli occhi ci sospinse quella 
+lectura et scolorocci el viso~.  Quella lectura ci sospinse gli occhi: 
+perch$e leggendo chose d'altri tali: quali desideravamo in noi l'uno 
+guardava l'altro innanzi che s'ardissi di cominciare.  |Et scolorocci 
+el viso~: cio@e ci f@e pallidi: el qual colore @e proprio degl'amanti: 
+Onde Ovidio: ^Palleat omnis amans color est hic aptus amanti~.  
+Scolorocci el viso pel subito: et gran travaglio che sentiva l'animo.  
+|Ma solo un puncto fu quel che ci vinse~.  Imper@o che quando giugnemmo 
+leggendo a quel passo dove a Ginevra fu grato esser baciata: et lui: et 
+io ci accordamo a fare el simile.  Et seguita.  Questi: cio@e Paolo.  
+|Che gi@a mai da me non fia diviso~: Per la ententia gi@a decta di 
+sopra: che dopo la morte s'ingegnono exercitare el medesimo peccato.  
+|La boccha mi bacio tutto tremante~.  Exprime per questo tremare la 
+grande commotione: la quale @e nell'amante.  Galeotto fu el libro ^id 
+est~ el libro fu mezano/ chome gi@a @e decto.  |Quel giorno pi@u non vi 
+leggemmo avante~: Quasi dica fummo occupati in altro: et chon 
+honestissime parole accenna quello: che sanza rossore non si pu@o dire 
+apertamente: chome Terrentio: ^Quid tum? Quid tum Fatue~.  |Mentre che 
+l'uno spirto~: cio@e Francesca.  l'altro: cio@e Paolo |Piangea~: a 
+dimostrare che lui non era in minore pena.  |Si che di pietade~: et 
+cetera.  Qui per questa sua compassione dimostra quello medesimo che di 
+sopra dicemmo della sensualit@a.
+

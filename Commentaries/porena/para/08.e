@@ -1,0 +1,477 @@
+	|1.  Solea creder~: corrisponde in tutto a un ^credeva~;
+ch@e il verbo ^solere~ spesso in Dante non indica abitudine
+prevalente, ma addirittura uno stato continuo.  |In suo periclo~:
+nel suo danno (secondo un significato arcaico non infrequente
+della parola |periclo~ o ^pericolo~), cio@e quando non aveva la
+vera fede.
+
+	|2-3.  la bella Ciprigna~: Venere, di cui uno dei
+soprannomi era Ciprigna, perch@e oggetto di un culto speciale in
+Cipro.  |Il folle amore~: l'amore sensuale.  |Raggiasse~ ecc.:
+irradiasse sulla Terra, volgendosi nel |terzo epiciclo.~  Gli
+antichi astronomi per spiegare tutti quei fenomeni che nel moto
+dei pianeti non erano comprensibili dato il loro concetto della
+Terra al centro dell'universo e tutti i cieli volgentisi intorno
+ad essa, avevano immaginato che nello spessore dei vari cieli vi
+fossero delle sferette giranti di moto proprio intorno al proprio
+centro, sulla cui superficie erano infissi i pianeti.  Queste
+sferette secondarie si chiamavano gli epicicli.
+
+	|5.  votivo grido~: preghiere votive.
+
+	|7.  Dione~: figlia di Oceano e di Teti, da cui, secondo
+alcuni mitografi, Giove ebbe Venere.  |Cupido~: @e lo stesso che
+Amore.
+
+	|9.~  Ricordo virgiliano a dimostrazione ed esempio di
+tali favolose personificazioni fatte dai pagani: Virgilio
+rappresenta Amore seduto sulle ginocchia di Didone, in sembianza
+di Ascanio, a innamorarla di Enea (^Eneide~ I, 657 sgg.).
+
+	|10-12.  da costei~: da Venere.  |Il vocabol~: il nome. 
+|Vagheggia~: <Venere guarda amorosamente il Sole ora di dietro
+(nel tempo in cui @e vespertina e tramonta dopo di lui), ora
+davanti (quando @e mattutina e sorge prima)>.  La |coppa~ @e la
+nuca.
+
+	|14.  mi fe' assai fede~: mi dette sufficiente certezza. 
+Beatrice diviene pi@u bella via via che salgono verso Dio, e il
+vederla pi@u bella @e quindi prova che sono in pi@u alto cielo.
+
+	|18.~  <Quando l'una delle due (la fiamma o l'una delle
+voci) @e ferma, e l'altra (la favilla o la seconda voce) si
+muove>.  Il movimento della voce @e, naturalmente, movimento di
+tono, @e voce modulata in melodia.
+
+	|21.~  <credo, secondo che vedevano Dio pi@u o meno
+chiaramente>.  Il vedere di pi@u produce maggior amore, onde
+maggior gaudio e movimento pi@u vivo.
+
+	|23.  visibili~: fulmini o stelle cadenti (chiamati in
+^Purg.~ V, 37 ^vapori accesi~; e vento e vapore in Dante son
+spesso sinonimi); |o no~: venti veri e propri secondo il senso
+moderno della parola.  |Festini~: rapidi.  Potrebbe obiettarsi:
+come possono <venti invisibili> parere rapidi o lenti?  Si
+risponde che il vento, invisibile in s@e, pu@o vedersi nei suoi
+effetti, come p. es. nella polvere che solleva e trasporta (cfr.
+^Inf.~ IX, 71).
+
+	|26-27.  lasciando il giro~ ecc.: Qui apparirebbe una
+visione dell'Empireo diversa da quella che troveremo nella Rosa
+dei beati (cfr. l'Introduzione a questa cantica), dove tutti gli
+spiriti seggono immobili in eterno.  Qui, invece, si parla
+dell'Empireo (dove @e Dio con le gerarchie angeliche, di cui sono
+menzionati i |Serafini~ come il coro pi@u eccelso) come di un
+luogo dove le anime beate si muovono a cerchio.  Altri cenni di
+una simile concezione troveremo ben presto.
+
+	|28-29.  pi@u innanzi appariro~: si avanzarono verso Dante
+pi@u degli altri.  |S@i che~: con tale dolcezza.
+
+	|32-33.  presti~ ecc.: <pronti a fare la tua volont@a
+affinch@e tu gioisca di noi> (sodisfi per mezzo nostro i tuoi
+desideri).
+
+	|34.  I Principi celesti~: sono i Principati, terzo
+ordine dei cori angelici cominciando dal basso, secondo
+l'ordinamento adottato da Dante (cfr. il canto XXVIII).
+
+	|35.~  <nel medesimo giro (cio@e terzo fra i beati come
+terzo @e quello dei Principati fra gli angeli), con la medesima
+velocit@a e col medesimo desiderio di Dio>.  Anche qui traspare
+una visione simile a quella osservata nei vv. 26-27. 
+Nell'Empireo invece Dante non solo ci mostrer@a le anime sedute e
+immobili, ma questi spiriti del cielo di Venere non risulta
+neanche punto che occupino il terzo giro di seggi.
+
+	|36-37.~  Dante aveva invocato i motori del cielo di
+Venere nella canzone che poi comment@o nel secondo trattato del
+^Convivio~, che comincia col verso qui citato.  Ma veramente egli
+riteneva allora che motori del cielo di Venere fossero i Troni
+(^Convivio~ II, v, 13).
+
+	|40-42.~  Una scena muta: Dante guarda con reverenza
+Beatrice per domandarle il permesso di parlare a quell'anima;
+Beatrice lo guarda in modo che gli occhi di Dante sono certi
+ch'ella approva, e sono di ci@o contenti.
+
+	|43-44.  che promessa tanto s'avea~: <che si era promessa
+cos@i largamente disposta ad appagarmi>.  |Chi sei tu?~ leggo,
+diversamente dal testo della Dantesca, seguito oggi generalmente,
+che d@a |chi siete?~  La tradizione dei codici sta per questa
+lezione, ma @e proprio uno dei casi tipici in cui le ragioni del
+senso debbono prevalere; e per molti motivi.  Nel poema dantesco
+le risposte corrispondono sempre esattamente alle domande; e nel
+rispondere, quest'anima non presenter@a che s@e e non parler@a che
+di s@e, e niente affatto de' suoi compagni.  E si comprende: chi
+questi spiriti siano come schiera, Dante lo deve gi@a sapere senza
+alcun bisogno di domandarlo, perch@e ormai dall'esperienza dei
+primi due cieli ha ben capito che le anime che via via incontra
+sono legate al cielo in cui discendono per averne sub@ito
+gl'influssi; e se ci@o non bastasse, questo nuovo spirito ha detto
+chiaro che essi si volgono in cielo con quel coro angelico che
+regge il cielo dell'amore terreno, e che Dante ha apostrofato in
+una sua canzone d'amore.  E poi, che Dante, cos@i pieno di
+gratitudine per le offerte di quell'anima, e commosso e
+incuriosito dal sentirsi citare una sua canzone, imprima di caldo
+affetto la domanda |Chi sei tu?~ si capisce troppo bene; mentre
+sarebbe stranissimo che in quello stato d'animo, e con grande
+affetto, domandasse genericamente che specie di spiriti siano
+quelli di quel gruppo.
+
+	|46-47.~  <E come la vidi farsi maggiore (|piue~ per
+^pi@u~) in quantit@a di luce e in bellezza>.  O forse il |quanta...
+piue~ potrebbe riferirsi alle dimensioni dato che un lume pi@u
+splendente sembra pi@u grande.  |Allegrezza nova~: prodotta, al
+solito, dalla gioia di contentare Dante.
+
+	|49-50.~  L'anima che parla @e quella di Carlo Martello,
+figlio primogenito di Carlo II d'Angi@o e di Maria d'Ungheria,
+nato nel 1271, morto giovanissimo nel 1295.  Carlo II mor@i nel
+1309.  Se Carlo Martello fosse vissuto e succeduto al padre, non
+sarebbe nato tutto il male che deriv@o dall'esser succeduto invece
+il terzogenito Roberto (il secondogenito Ludovico si fece frate),
+malvisto da Dante per le sue concezioni e la sua opera di guelfo
+ardentissimo, che si manifest@o soprattutto con la fiera
+opposizione ai disegni di Arrigo VII di Lussemburgo.
+
+	|54.~  Similitudine un po' strana a primo aspetto, ma
+giusta ed efficace.  Il baco da seta si circonda d'un involucro
+lucente e bello, tratto dal suo interno ed elaborato di sostanza
+propria; cos@i l'anima beata si circonda d'un involucro di luce,
+che @e tratto dalla letizia che essa ha in s@e.
+
+	|55-57.~  Dante e Carlo Martello si dovettero conoscere e
+amarsi e stimarsi nel 1294, quando Carlo and@o a Firenze a
+incontrare i genitori che tornavano di Francia, dove avevan
+concluso un accordo col re d'Aragona per la guerra del Vespro; e,
+come c'informa Giovanni Villani, piacque assai ai Fiorentini e fu
+con essi assai benevolo.  Le parole di Carlo, e anche la
+citazione della canzone di Dante, mostrano che tra i due debbono
+essere corsi rapporti particolarmente cordiali; e Dante doveva
+ora pensare che se Carlo fosse vissuto avrebbe avuto occasione di
+mostrargli la sua benevolenza coi fatti, non solo a parole (|pi@u
+oltre che le fronde~), accogliendolo nell'esilio, e facendosi suo
+protettore potente e amante.
+
+	|58-60.~  La |sinistra riva~ ecc. @e la contea di
+Provenza, che Carlo avrebbe a suo tempo ereditato dal padre.
+
+	|61-63.~  E lo avrebbe aspettato come suo signore anche
+|quel corno d'Ausonia~ (Italia) ecc., cio@e il regno comprendente
+tutta la parte meridionale della penisola.  Carlo designa qui
+esso Regno con la menzione di tre importanti sue citt@a marine e
+di due fiumi che ne segnano alla foce i confini terrestri.  Per
+una spiegazione dei particolari e per dubbi e difficolt@a ad essi
+relativi, vedi la nota finale n. 2 {alla fine del canto}.
+
+	|64-66.~  Carlo, come figlio di Maria d'Ungheria, fu
+coronato re d'Ungheria nel 1292; ma non prese mai possesso
+effettivo di quel regno, che fu poi di suo figlio Caroberto.
+
+	|67-69.  Trinacria~: Sicilia.  |Caliga~: si vela di
+caligine (pel fumo dell'Etna).  |Pachino~: citt@a presso il capo
+Passaro, punta meridionale della Sicilia; |Peloro~: capo detto
+anche del Faro, poco a nord di Messina.  Con questi due luoghi
+Dante circoscrive la costa orientale della Sicilia; ma poi
+determina meglio la regione etnea, come quella che @e sul golfo di
+Catania; il quale @e esposto a scirocco, e quindi riceve maggior
+assalto di tempeste dal vento Euro, che corrisponde appunto allo
+scirocco.  Che col |golfo che riceve~ ecc. Dante, come
+recentemente @e stato sostenuto, voglia designare l'insieme
+dell'Adriatico e del Jonio (che talvolta ai suoi tempi si
+considerava tutto come Adriatico), io non lo credo punto,
+sembrandomi inverosimile che a una indicazione pi@u specifica,
+qual @e quella data con le parole |tra Pachino e Peloro~, Dante ne
+faccia inutilmente seguire un'altra assai pi@u generica.  Sarebbe
+come dire che <Lucca sta tra Pisa e Firenze, in Toscana>.
+
+	|70.~  Si riferisce a ^caliga~, ed @e una smentita alla
+favola che il gigante Tifeo fosse sepolto sotto l'Etna, che
+fumerebbe pel suo sbuffare: l'Etna fuma perch@e dalla terra si
+sprigionano vapori sulfurei.
+
+	|71-75.~  La Sicilia, dunque, avrebbe aspettato come
+sovrani i figli di Carlo Martello (discendenti di Carlo II e di
+Rodolfo d'Asburgo, di cui Carlo Martello aveva sposato la figlia
+Clemenza), se il cattivo governo di Carlo I d'Angi@o non avesse
+prodotto la famosa rivolta di Palermo e di Sicilia detta il
+Vespro Siciliano, in cui fu fatta strage di Francesi al grido
+|^Mora~ ^lu Franzese~: in s$eguito alla quale, dopo lunga guerra,
+la Sicilia and@o definitivamente perduta per la casa d'Angi@o.
+
+	|76-78.~  <Se Roberto d'Angi@o pensasse prudentemente che
+la mala signoria accora i popoli soggetti, gi@a fuggirebbe i suoi
+Catalani avidi e spilorci (ossia li allontanerebbe da s@e) perch@e
+non offendessero quei popoli>.  Durante la guerra del Vespro,
+Roberto era stato, con altri due fratelli, ostaggio in Catalogna
+per la liberazione di Carlo II, fatto prigioniero (cfr. ^Purg.~
+XX, 79), e aveva contratto amicizia con Catalani che poi condusse
+a Napoli e fece suoi ministri quando fu re.
+
+	|79-81.~  <Ch@e veramente da lui o dai suoi ministri
+bisogna provvedere affinch@e al suo stato, gi@a carico di imposte,
+non si pongano altri carichi>.
+
+	|82-84.~  <La sua indole, che discese |parca~ (cio@e
+tirchia) da un'indole |larga~ (quella di Carlo II) avrebbe
+bisogno di tali funzionarii (^milites~ nel latino medievale), che
+non curassero di riempire le casse>.  L'ammonizione di Carlo al
+fratello quantunque questi nel 1300 ancora non fosse re, pu@o
+spiegarsi con ci@o, che per@o Roberto, di fatto, gi@a esercitava
+poteri regi; e poi il discorso di Carlo Martello mira anche al
+futuro.  Potrebbe parere che vi fosse contradizione tra il dire
+qui |larga~ l'indole di Carlo II, e l'accusa di avarizia turpe
+fatta a lui da Ugo Capeto (^Purg.~ XX, 79-84).  Ma avarizia in
+Dante significa avidit@a di ricchezze, la quale pu@o benissimo
+accordarsi con una certa liberalit@a nello spendere, e anzi @e
+spesso un mezzo per nutrire la liberalit@a.  Lode di liberalit@a
+d@anno a Carlo II Giovanni Villani (VIII, 102), e il Petrarca
+(^Senili~, X, 4).
+
+	|85-87.  alta~: profonda.  |L@a 've~: in Dio.
+
+	|88-90.  per te~: da te.  |Anco questo~ ecc.: non @e una
+ripetizione superflua.  La prima volta Dante dice che Carlo legge
+in Dio la sua letizia, semplicemente per accennare il modo in cui
+la legge, ma il concetto principale @e che egli ha pi@u cara la
+propria letizia perch@e sa che Carlo la vede come egli stesso: la
+seconda volta ci torna sopra per aggiungere che questo tramite
+per cui Carlo vede la sua letizia gliela rende ancor pi@u cara. 
+Un simile ritorno su un concetto gi@a espresso di scorcio, per
+accentuarlo meglio, abbiamo in ^Purg.~ X, 124-129.  Non c'@e
+quindi nessun bisogno di ricorrere ad altre interpretazioni pi@u o
+meno complicate per evitare quella che non @e se non
+apparentemente una ripetizione superflua.  Notare che |il
+discerni~ si accorda a senso col concetto che Dante si rallegra,
+e non formalmente con la parola ^letizia.~
+
+	|91.  mi fa chiaro~: chiariscimi, illuminami.
+
+	|93.~  <come da un padre di un certo carattere pu@o uscire
+un figlio di carattere opposto>.  @E allusione al fatto che
+Roberto sia venuto avaro da genitore largo.  La Dantesca d@a
+|esser~ invece de |escir~, ma ^escir~ @e troppo migliore pel
+senso, e la differenza grafica @e cos@i piccola, che poco contano
+le ragioni dei codici.
+
+	|95-96.  a quel che tu domandi~ ecc.: <la spiegazione che
+chiedi, la vedrai, mentre ora non la vedi>.
+
+	|97-105.~  <Il |bene~ (Dio) che fa girare e rende lieto
+il regno dei cieli che tu vai ascendendo, fa che la sua
+provvidenza divenga virt@u in questi pianeti (mette in essi una
+virt@u che @e strumento della sua provvidenza).  E nella mente di
+Dio, che @e perfetta assolutamente in |s@e~ (e non, come sono
+perfette le altre cose, solo relativamente a Dio) non si provvede
+soltanto alla determinazione (per mezzo dei cieli) delle varie
+nature, ma anche a determinarle in modo che ne risulti il loro
+bene (|salute~).  Laonde tutto quanto questi cieli inviano in
+Terra (tutte le loro influenze) vi giunge ordinato a un fine
+preveduto, come un dardo diretto a un determinato segno>.  Leggo
+|cocca~ e non |cosa~ come legge la Dantesca, perch@e @e troppo pi@u
+naturalmente derivante dalla metafora del bersaglio (il |segno~). 
+E ^cocca~ @e una sineddoche per indicare il dardo (cfr. ^Inf.~
+XVII, 136).
+
+	|106-110.~  <Se non fosse cos@i, questi cieli che tu vai
+percorrendo produrrebbero coi loro influssi effetti non ordinati
+e sapienti come quelli che produce un artista, ma rovinosi.  E
+questo non pu@o essere se non sono difettosi gl'intelletti
+angelici che governano il moto e la virt@u degli astri, e quindi
+difettoso l'intelletto primo (Dio) che non li avrebbe
+perfezionati> (che se gli angeli fossero difettosi avrebbe la
+responsabilit@a di averli fatti tali).
+
+	|112-114.  imbianchi~: illumini.  |Stanchi~: <|che la
+natura~ (cio@e i cieli) in quel che @e necessario sia in difetto>. 
+Per ^stancare~ nel senso di venire a mancare, far difetto ecc.
+confronta ^mano stanca~ per ^mano manca~ (^Inf.~ XIX, 41).
+
+	|116.  se non fosse cive~: <se non fosse cittadino>
+(^civis~), se in Terra non vivesse in societ@a civilmente
+organizzata.
+
+	|117.~  Dante vuol dire che @e una verit@a evidente di
+per s@e.
+
+	|118-120.~  <E pu@o esservi organizzazione civile se gli
+uomini non esercitano diverse funzioni?  No, se Aristotile scrive
+rettamente>.  Si riferisce a quanto Aristotile discorre in pi@u
+luoghi dell'^Etica~ e della ^Politica.~
+
+	|123.  de' vostri effetti le radici~: <le origini dei
+vostri fatti, della vostra attivit@a>, cio@e le disposizioni, le
+tendenze ispirate dai cieli.
+
+	|124-126.  Solone~: il grande legislatore d'Atene;
+|Serse~: il grande re persiano, duce d'immensi eserciti;
+|Melchisedech~: re di Salem, primo dei grandi sacerdoti degli
+Ebrei al tempo d'Abramo; |quello che volando~ ecc.: Dedalo (cfr.
+^Inf.~ XVII, 109-111).  Questi personaggi stanno a rappresentare
+la disposizione per le leggi, le tendenze militari, la vocazione
+al sacerdozio, le abilit@a meccaniche.
+
+	|127-129.~  <La Natura circolante (cio@e i cieli) che
+imprime la sua forma alla materia degli uomini, distribuisce
+saggiamente le sue influenze, ma non distingue casa da casa>
+(famiglia da famiglia); cio@e non fa che una certa disposizione
+vada a tutta una famiglia, un'altra a un'altra.
+
+	|130-132.~  Cos@i accade che i membri d'una famiglia
+possono essere diversissimi fra loro.  Esempi: la differenza di
+|seme~ (cio@e di indole) tra |Esa@u~ cacciatore e campagnuolo, e il
+fratello Giacobbe pacifico e casalingo (^Genesi~, XXV); e Romolo,
+nato da padre cos@i nullo che la leggenda lo attribuisce a Marte.
+
+	|133-134.~  I generati sarebbero sempre simili ai
+generanti.
+
+	|136.~  Ripete l'immagine del v. 96.
+
+	|137.  di te mi giova~: costrutto latineggiante (^me
+juvat de te~), che nella sua forma eccessivamente contratta viene
+a dire: mi piace di trattenermi con te.
+
+	|138.~  Il |corollario~ (cfr. ^Purg.~ XXVIII, 136) @e un
+dono, una giunta, un di pi@u che sta alla spiegazione essenziale
+come un mantello al vestito: onde il |t'ammanti.~
+
+	|139-141.  natura~: qui sono le disposizioni date dai
+cieli.  |Fortuna~: sorte, cio@e le altre circostanze in cui viene
+a trovarsi l'individuo che ha quelle certe disposizioni. 
+|Com'ogni altra semente~ ecc.: come un seme vegetale in una
+regione che non sia adatta al suo sviluppo.
+
+	|144.  seguendo lui~: cio@e secondando quella disposizione
+naturale.  |Buona~: valente; ognuno farebbe bene quel che fa.
+
+	|145.  a la religione~: al chiostro, alla vita monastica.
+
+	|147.  da sermone~: fatto per far sermoni.  Si vuol
+vedere in questo cenno una puntata contro Roberto d'Angi@o, che si
+dilett@o assai di scrivere e recitare sermoni sacri e profani.
+
+	|148.  traccia~: schiera in cammino: <onde l'umanit@a
+batte una falsa strada>.
+
+	NOTA FINALE N. 1: DUBBI E DIFFICOLT@A SULLA TEORIA
+DEGL'INFLUSSI CELESTI.  Marco Lombardo (canto XVI del
+^Purgatorio~) ha spiegato a Dante che gl'influssi celesti non
+determinano le azioni umane.  Essi si limitano a iniziare i moti
+dell'anima; ma la parte pi@u nobile di questa, la mente (cio@e
+l'anima intellettiva) ha la facolt@a di giudicare se i moti
+impressi dal cielo sono buoni o cattivi, e ha la libert@a di
+secondare quelli e opporsi a questi, combattendo le sue battaglie
+col cielo.  Che gl'influssi celesti possano essere buoni o
+cattivi @e riconfermato dalle parole di Beatrice nel canto IV del
+^Paradiso~ (v. 58-60), l@a dov'ella ammette che ai cieli possa
+tornare ^l'onore o il biasmo~ di quegl'influssi.  E nei due cieli
+che abbiamo gi@a visti e nel terzo che ora vedremo, le anime
+discendono incontro a Dante per mostrare un grado minore di
+beatitudine che ad esse compete perch@e sono state vinte
+dagl'influssi di questi cieli: il che @e quanto dire che questi
+influssi non sono stati buoni.  Ma nel II canto Beatrice aveva
+affermato che gl'influssi celesti risalgono agli angeli (vv.
+127-129); e come pu@o agli angeli imputarsi qualche cosa di non
+buono?  Ed ecco che in questo canto VIII @e chiaramente detto che
+la virt@u dei cieli risale a Dio, ed @e uno strumento della sua
+provvidenza, e che essi sono sempre diretti al bene, e che se
+alcuni hanno cattivi effetti, ci@o dipende dagli uomini che non
+curano di secondare le indoli messe dai cieli nei vari individui. 
+Ma che cos'altro hanno fatto Piccarda e Costanza se non secondare
+gl'influssi scesi in loro dalla Luna, e Giustiniano e Romeo
+quelli di Mercurio e Carlo Martello quelli di Venere?  Eppure
+glien'@e venuto male; perch@e a ci@o debbono un grado minore nel
+regno dei cieli.  In tutto questo c'@e pi@u che un'oscillazione,
+c'@e una radicale contradizione non conciliata, che si muove tra i
+due estremi delle meritorie battaglie col cielo esaltate da Marco
+Lombardo, e la colpevole renitenza al cielo deplorata da Carlo
+Martello.  Ma la contradizione non @e tutta qui.  Gl'influssi
+celesti erano prima stati mostrati visibili solo limitatamente a
+quella parte inferiore dell'anima che l'uomo ha comune con gli
+animali.  Marco Lombardo (^Purg.~ XVI, 79-81) aveva detto che il
+cielo ^non ha in sua cura~ l'anima intellettiva.  E dalla lezione
+di Stazio nel canto XXV del ^Purgatorio~ abbiamo appreso che
+l'anima intellettiva @e creata direttamente da Dio quando gi@a
+nell'uomo sono formate, per opera della natura, cio@e dei cieli,
+l'anima vegetativa e la sensitiva, e che su quella i cieli non
+hanno potere, ma solo sulle altre.  E nel VII (139-143) del
+^Paradiso~ @e ripetuto che l'anima creata direttamente da Dio non
+soggiace agl'influssi celesti.  Ma in questo canto VIII si parla
+d'influssi in cui sarebbe assurdo trovare anche un germe di
+passione animale, e che riguardano in tutto e per tutto l'anima
+razionale: come la disposizione alla giurisprudenza, alle armi,
+al sacerdozio, alle arti meccaniche.  E anticipando un poco su
+quel che poi vedremo, nel cielo di Marte (XVII, 76-78) sar@a
+affermato che le virt@u guerriere di Can Grande della Scala furono
+impresse in lui da quel pianeta, nel cielo di Giove (XVIII,
+115-117) sar@a solennemente proclamato che la giustizia umana @e
+effetto di quel cielo; e Dante, giungendo all'ottavo cielo nella
+regione ov'@e la costellazione dei Gemelli, rivolger@a ad essa
+un'apostrofe di calda gratitudine perch@e ad essa deve ^tutto il
+suo ingegno~ (XXII, 112-114).  E rivolgendoci indietro,
+ricordiamo come Dante abbia dichiarato di aspettare dagl'influssi
+celesti colui che liberer@a il mondo dalla peste dell'avarizia,
+rigenerandolo (^Purg.~ XX, 13-15).  Insomma, queste due
+contradizioni: ^a~) influssi buoni e cattivi, influssi tutti
+buoni; ^b~) influssi solo sulle anime inferiori, influssi anche
+sull'anima superiore; io non trovo il modo di risolverle.  E
+siccome penso che qualche lettore potrebbe avvertirle e trarne
+materia di dubbio e d'imbarazzo, voglio ch'ei sappia che le
+contradizioni ci sono, anche se la critica non se ne accorga o
+non voglia accorgersene.
+
+	NOTA FINALE N. 2: I CENNI GEOGRAFICI CON CUI CARLO
+MARTELLO DESIGNA IL REGNO DI NAPOLI.  Il Tronto era confine, nel
+suo ultimo tratto verso la foce, fra la Marca e il Regno di
+Napoli, sull'Adriatico.  Il Verde @e il Liri-Garigliano.  Il quale
+per@o, come gi@a dissi nel {secondo paragrafo} della nota a ^Purg.~
+III, 132, era confine tra il Regno di Napoli e lo Stato della
+Chiesa non alla sua foce nel Tirreno, ma solo per un breve tratto
+del suo corso medio, presso Ceprano, e poi correva tutto nel
+Regno, fino a sfociare nel Tirreno sotto Minturno, a circa
+quaranta chilometri in linea d'aria da quello che era il confine
+sulla costa tirrena, presso Terracina.  Per non dover riconoscere
+che Dante ha qui errato, si @e da taluni cercato un altro Verde. 
+Commentatori antichi e moderni dicono trattarsi di un Verde
+affluente del Tronto; e qualcuno ha invece indicato l'emissario
+del lago di Fondi, che oggi si chiama Fiumarella di Canneto:
+l'uno e l'altro presso i confini.  Ma il primo @e da escludere,
+essendo evidente che Dante volle segnare i confini del Regno
+sulla costa marina cos@i dal lato dell'Adriatico come da quello
+del Tirreno, appunto come poi nominer@a fra le citt@a Bari
+sull'Adriatico e Gaeta sul Tirreno; e per di pi@u quel tale Verde
+adriatico non ^sgorga in mare~ {v. 63}, ma nel Tronto.  Quanto
+alla Fiumarella, essa @e da escludere come troppo insignificante e
+mal nota, e ignorata infatti da tutti i commentatori antichi.  Il
+vero @e che l'errore di Dante, che @e anche di altri scrittori del
+tempo, @e spiegabilissimo.  La sola strada diretta e praticabile
+fra Roma e Napoli, essendo la Via Appia ormai guasta e
+impaludata, era nel Trecento la Via Latina, che entrava nel Regno
+passando per la Ciociaria, lungo la valle del Sacco, come
+l'odierna via Casilina; e attraversava il Verde proprio presso
+Ceprano, nel non lungo tratto ove quel fiume era confine tra i
+due stati.  Questa qualit@a di confine cos@i continuamente
+sperimentata da chi percorreva quella quasi unica via, si appicc@o
+al fiume anche dove non lo era pi@u, e s'immagin@o che fosse
+confine anche alla foce.  E passiamo alla menzione delle citt@a
+del Regno.  @E discusso il significato del ^s'imborga~, nel v. 61. 
+La spiegazione pi@u comune @e che derivi da ^borgo~ nel senso di
+citt@a, e significhi <si riempie, o si popola di citt@a> o <ha per
+citt@a>.  Ma la menzione di quelle tre citt@a sia pure a guisa di
+mera esemplificazione, ha di strano che non sia ricordata proprio
+Napoli, la capitale, che per di pi@u non meno di Gaeta avrebbe
+potuto rappresentare il lido tirreno, come Bari rappresenta
+l'adriatico e Catona (presso Reggio di Calabria) il Jonio.  @E
+preferibile quindi intendere ^s'imborga~ come derivato da ^borgo~
+nel senso di parte d'una citt@a contigua ad essa ma fuori della
+cerchia muraria, periferica: che era il significato di ^borgo~
+pi@u comune nel Trecento, e che ai tempi di Dante aveva in Firenze
+col Borgo Santi Apostoli, il Borgo dei Greci, il Borgo Ognissanti
+ecc. (cfr. ^Par.~ XVI, 134).  Il poeta considererebbe dunque qui
+Bari Gaeta e Catona come luoghi periferici del Regno, quasi
+borghi attorno all parte pi@u centrale, che era Napoli e la sua
+regione.  Quanto a Catona @e da osservare che essa aveva ai tempi
+di Dante importanza assai maggiore che non ne abbia oggi, tanto
+da superare, in quella estrema punta d'Italia, quella di Reggio.

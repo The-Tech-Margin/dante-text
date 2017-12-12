@@ -1,0 +1,31 @@
+.bp 1
+.rs
+.sp 16
+.ce 100
+.sz +2
+The Dartmouth Dante Project
+.sz -2
+.sp 4
+Stephen Campbell
+.i "Dartmouth College"
+.sp 2
+and
+.sp 2
+Robert Hollander
+.i "Princeton University"
+.bp
+.rs
+.sp 6
+ABSTRACT
+.sp 2
+.ce 0
+.lp
+The Dartmouth Dante Project is collecting a substantial number of
+commentaries on Dante's DC
+and entering them into a computerized text retrieval database system.
+The design of the database, its use, and the processing of the
+commentary texts, are the subject of this paper.
+The paper assumes
+little or no knowledge of the DC and only a basic familiarity with
+computerized text manipulation.
+.bp

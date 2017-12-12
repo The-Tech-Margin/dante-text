@@ -1,0 +1,4 @@
+There are two sets of files in this directory: .e files from which
+the book edition was published, and .db files from which the
+database is loaded.  The .db files DO NOT HAVE LIGATURES!! The .e
+files HAVE LIGATURES!!

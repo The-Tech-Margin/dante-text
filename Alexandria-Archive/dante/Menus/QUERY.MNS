@@ -1,0 +1,38 @@
+{QUERY}
+
+:PRINT ~@HEADING_Available Query functions are:\n
+	 \o2L\f2  to List all outstanding queries\n
+	 \o2T\f2  to clear Top query (#MAXQUERY)\n
+	\o2ALL\f2 to clear All queries\n
+	 \o2H\f2  to display Help\n
+	 \o2S\f2  to Search\n\n~
+:GET @TMP ~Enter selection [S]: ~ "#3:A|#3:a|H|h|S|s|T|t|L|l|"
+:PARSE @TMP UPPER
+
+:COMPARE @TMP
+     TO "H"
+	:MENU ~QUERY_H~
+     TO "S|"
+	:SET @SELECTION ~S~
+	:RETURN
+     TO "ALL"
+	:SEND ~UALL~
+	:CLEAR QUERIES
+     TO "T"
+	:SEND ~U#MAXQUERY~
+	:CLEAR QUERIES COUNT ~1~
+     TO "T|ALL"
+	:SHOW BEFORE "*"
+	:SET @HAVEHITS ~No~
+	:SET @ICONTINUE ~No~
+	:SET @SINDEX ~~
+     TO "L"
+	:CLEAR STACK
+	:PRINT ~@HEADING_All outstanding queries:\n\n~
+	:SET #HEADING ~@HEADING_All outstanding queries (continued):\n\n~
+	:BRS QUERIES ~1-#MAXQUERY~
+	:PAUSE
+:DONE
+
+:SET @SELECTION ~S~
+:RETURN

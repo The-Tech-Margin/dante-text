@@ -1,0 +1,811 @@
+	|1-7.  il settentrion~: quando i sette candelabri
+(|settentrion~: lat. ^septem triones~, sette buoi aratori, che
+erano anche i nomi delle sette stelle delle due Orse)
+dell'Empireo (|primo cielo~: i candelabri, essendo simbolo dello
+spirito settemplice di Dio, appartengono all'Empireo, sede di
+Dio), il quale |settentrion~ (|che~) non fu mai soggetto a
+tramonto o nascimento (|n$e occaso mai seppe n$e orto~) e non
+conobbe altra nebbia che il velo della colpa, e che l@i (nel
+corteo del Paradiso terrestre) faceva ciascuno edotto (|accorto~)
+di quel che dovesse fare (|dover~), cio@e faceva da guida al
+corteo, come l'Orsa minore (che appartiene al cielo ottavo, |pi@u
+basso~ rispetto all'Empireo) fa (|face~) edotto della rotta chi
+(|qual~) manovra (|gira~) il timone per condurre la nave in
+porto, si arrest@o e stette fermo (|fermo s'affisse~:
+l'espressione non @e enfatica, bens@i vuol indicare i due atti del
+fermarsi e restar fermo, con una formula pi@u incisiva e
+plastica).  |velo~: soltanto la colpa dell'anima pu@o nascondere
+all'uomo i doni dello Spirito Santo.  @E un inciso che interrompe
+la trama narrativa, gi@a di per s$e complicata per questa continua
+ambivalenza tra linguaggio reale e linguaggio figurato-simbolico. 
+|s'affisse~: l'esordio di questo canto dilata e ripete, in un
+certo senso, la struttura sintattica dell'ultimo periodo del
+canto precedente: <^E quando il carro a me fu a rimpetto~>
+<|Quando il settentrion... fermo s'affisse~>.  <Ma l'impegnato
+segmento narrativo, che si rileva cos@i in limine al nuovo momento
+del racconto dantesco, se getta nella transizione un fermo ponte
+verso il momento immediatamente anteriore, e su quello fa forza,
+quasi riprendendo, insieme con la formulazione sintattica, il
+ritmo che gi@a fu proprio della dispiegantesi visione, vuole poi
+guidare il lettore, trattenuto ancora da insistenti movenze
+perifrastiche, al repentino risolversi drammatico di quella
+contemplante attesa> (Sanguineti, ^Il c. XXX del Purg.~, in
+<Lett. Dant.>, del Getto, cit. {Firenze, 1964}, 1280).  <Il largo
+respiro di questo laborioso ma compatto preludio (unico periodo
+di quattro terzine) risponde a un tempo esaltato della memoria,
+che accoglie in s$e la doppia misura dell'effimero e dell'eterno,
+e si protende verso la seconda come a sua ultima legge (^al carro
+come a sua pace~> {v. 9}) (Chiarini, ^Il c. XXX del Purg.~,
+<Lett. scal.>, 196{8}, p. 1112).
+
+	|8-9.  venuta prima~: i 24 seniori, che simboleggiano i
+libri del Vecchio Testamento, ispirati da Dio, somma verit@a
+(|gente verace~), che erano arrivati per primi (|venuta prima~)
+tra il grifone e i candelabri (|esso~: cio@e il ^settentrion~ {v.
+1}), si rivolse al carro, simbolo della Chiesa, come alla meta da
+essi attesa e annunziata e in cui riposa in pace la verit@a dei
+libri sacri (|sua pace~).
+
+	|10.  un di loro~: uno dei 24 Seniori, quello che
+personifica il ^Cantico dei Cantici~, cio@e quello in cui si
+leggono le parole <|Veni, sponsa~>, cantando grid@o tre volte...
+
+	|11-12.  Veni, sponsa~: vieni dal Libano, sposa mia,
+vieni dal Libano, vieni e sarai incoronata.  Nell'esegesi
+cattolica la Sposa @e la sapienza di Dio.  Qui comunemente si
+ritiene che l'invocazione sia rivolta a Beatrice,
+personificazione della Verit@a rivelata, che @e fondamento della
+Chiesa.  In verit@a noi aspettiamo Beatrice, ma tutto sembra che
+chiami Cristo.  Il Singleton ha felicemente notata questa
+analogia Beatrice-Cristo, poich$e qui @e Cristo che si manifesta
+incarnandosi in Beatrice (^l.c.~ {^Journey to Beatrice,~
+Cambridge, Mass., 1958}, 94-100).  E prima ancora, Auerbach aveva
+affrontato questo difficile problema, dimostrando con ampie
+citazioni di testi figurali che <tutta la scena @e composta a
+figurare l'apparizione di Cristo...  Ogni teologo medievale,
+molti laici sapevano, e all'udire queste voci avvertivano che
+l'ingresso di Cristo in Gerusalemme annuncia l'apparizione o la
+riapparizione del Salvatore quando ha inizio l'eterno giorno e la
+Gerusalemme terrena si trasforma definitivamente nella vera,
+eterna Gerusalemme....  Qualunque possa essere il significato
+simbolico di Beatrice, la sua apparizione @e qui figura
+dell'apparizione di Cristo tra gli angeli e coloro che
+risorgeranno; e il grido |veni sponsa~ @e un appello rivolto agli
+angeli e alle anime dei giusti perch$e si levino e pu@o essere
+interpretato escatologicamente come le parole che Cristo
+pronuncer@a (Salomone, quasi del ciel messo, @e figura del
+Salvatore) il giorno del giudizio, o in un senso pi@u mistico,
+come appello alla devozione del Cristo.  Infatti, il verso ^veni
+sponsa~ col ^coronaberis~ che segue @e stato sempre interpretato
+come un appello alla Chiesa o alla cristianit@a.  A provarlo
+citer@o alcuni testi, cominciando con Gregorio (^Super Cant.
+expos.~, ^Patr. lat.~, LXXIX, 511): <la santa sposa viene da
+Cristo quando opera il bene che pu@o nel mondo in cui vive; viene
+nell'ora della nostra morte; viene per la terza volta, quando nel
+giorno del giudizio finale riprende la carne ed entra con Cristo
+nel talamo celeste.  Quivi viene gloriosamente incoronata>
+(^Studi su D.~, cit. {Milano, 1963}, pp. 243-249).  Pertanto
+<|veni sponsa~> non @e un invito rivolto a Beatrice, ma @e un
+appello alla Chiesa o alla cristianit@a, che Cristo rivolger@a nel
+giorno del giudizio universale.  Qui il ^Cantico dei Cantici~ @e
+figura di Cristo.
+
+	|13-15.  Quali i beati~: come i beati all'estremo appello
+del giudizio universale (|novissimo bando~) risorgeranno pronti
+(|presti~) ciascuno dalla sua tomba (|caverna~), mentre la voce
+rivestita test$e con gli organi corporei (|rivestita voce~)
+canter@a in gloria di Dio (|alleluiando~: in ebraico,
+^hallelu-iah~ vale: lodate Dio.  Qui @e costruz. di gerundio
+assoluto).  Altri legge: ^la rivestita carne alleluiando~, ma ha
+poco fondamento critico.
+
+	|16-18.  cotali~: cio@e simili ai beati che
+glorificheranno Dio nel giorno del Giudizio finale, si levarono
+dal carro (|basterna~: carro adorno per le matrone romane)
+prezioso della Chiesa (|divina~) si levarono un gran numero
+(|cento~) di angeli, ministri e messaggeri della volont@a di Dio
+(|di vita eterna~), all'invito di un vecchio (|senis~) cos@i
+venerando (|tanti~).  Questa immagine conferma l'analogia che
+intercorre tra il modo di alzarsi di questi angeli e quello dei
+beati nel giorno del Giudizio universale o della Resurrezione; il
+che vuol dire che qui D. si trova dinanzi al giudizio divino,
+proprio nel giorno della sua Resurrezione morale dal peccato,
+dopo la sua espiazione.
+
+	|19.  Tutti dicean~: tutti dicevano: Benedetto, tu che
+vieni.  Sono le parole con cui gli Ebrei salutarono Ges@u mentre
+entrava a Gerusalemme: <Benedetto colui che viene nel nome del
+Signore> (^Matteo~, XXI, 9; ^Marco~, XI, 10; ^Luca~, XIX, 38). 
+In verit@a dopo <^Veni sponsa~>, riferito a Beatrice, quale
+persona invocata ed attesa da D., ci attendevamo <^Benedicta quae
+venis~> (che non avrebbe creato alcuna difficolt@a metrica); n$e si
+pu@o dire che D. non avrebbe potuto modificare le parole del
+Vangelo, che altrimenti sarebbero state irriconoscibili.  Meglio,
+invece, ammettere senz'altro che egli ha voluto istituire un
+rapporto analogico tra l'entrata di Ges@u a Gerusalemme, che
+signific@o la glorificazione ufficiale della sua missione e della
+sua nuova fede, e la venuta di Beatrice sul carro della Chiesa,
+quasi a glorificazione della Scienza divina.  Il Singleton, per@o,
+acutamente fa notare che <dato che la processione della Scrittura
+poteva simboleggiare il tempo stesso; e, quando giunse ad
+arrestarsi, poteva alludere al tempo venuto al termine....  La
+venuta di Beatrice ha completamente corrisposto, soddisfatto a
+quanto era richiesto dallo schema.  Come Cristo verr@a alla Sua
+seconda venuta, cos@i in effetti Beatrice qui giunge: in una nube
+di gloria, alla fine del tempo e al centro del tempo: per
+giudicare.  L'analogia @e completa.  Non @e Cristo a giungere.  @E
+Beatrice: @e Beatrice che giunge come Cristo> (^l.c.~ {^Commedia,
+Elements of Structure,~ Cambridge, Mass., 1954}, 95-96).  E il
+dantista americano richiama, a conforto della sua tesi,
+l'analogia che si stabilisce tra l'^Osanna~ cantato dagli angeli
+al momento in cui l'anima di Beatrice @e accolta in cielo (di cui
+cfr. il c. XXIII della ^Vita nuova~) e l'^Osanna~ (v. 51 c. XXIX)
+che poco prima al loro apparire avevano intonato i seniori e gli
+altri personaggi del corteo sacro.  <Nella ^Vita nuova~, al
+centro della ^Vita nuova~, Beatrice @e vista dipartirsi da questa
+vita, innalzata in compagnia di una schiera di angeli, e il grido
+che l'accompagna @e ^Osanna.~  Al centro della ^Commedia~,
+Beatrice ritorna, in compagnia di una schiera di angeli e in una
+compagnia il cui grido @e di nuovo ^Osanna.~  Ma pi@u che tutti
+questi particolari, ecco ci@o che pi@u colpisce: la morte di
+Beatrice al centro della ^Vita nuova~ @e come la morte di Cristo. 
+Abbiamo visto i segni: come la morte di Cristo e come una
+ascensione.  E al centro della ^Commedia~, il ritorno di Beatrice
+rassomiglia non ad ^una~ venuta di Cristo, ma alla ^seconda~
+venuta di Cristo: in un giorno del Giudizio....  Un poema umano
+partecipa in tal modo, per analogia, di un poema divino, e si pu@o
+veder fatto a sua immagine> (^l.c.~ {^Journey to Beatrice,~
+Cambridge, Mass., 1958}, 101-104).
+
+	|20-21.  date lilia~: spargete gigli a piene mani.  Son
+parole che Anchise pronuncia in lode del giovinetto Marcello, il
+nipote di Augusto morto immaturamente.  D. vi aggiunge soltanto
+l'esclamazione |oh~, quale inserto volgare in una citazione
+latina.  Molti commentatori hanno cercato di spiegare questo
+inserto virgiliano in mezzo ad espressioni scritturali come un
+estremo omaggio a Virgilio, come se il poeta volesse mettere la
+parola del poeta pagano sullo stesso piano di quella del Vangelo. 
+Ma @e ovvio, invece, che qui l'immagine virgiliana dei fiori e dei
+gigli ha un valore figurale, che continua il tema della
+Resurrezione nel giorno del Giudizio universale, descritto nei
+versi precedenti.  <^Flos~ (fiore) @e la carne di Cristo e
+^flores~ sono i corpi risorti dei santi: la figura della
+riapparizione e della resurrezione @e cos@i continuata dalla
+diffusione dei fiori, e si pu@o anche immaginare, leggendo la
+citazione di Bernardo (^Patr. lat.~, CLXXXIII, 1059-60: ^ego sum
+flos campi et lilium convallium~) perch$e D. si sia servito del
+bel verso virgiliano (^Aen.~, VI, 883), reso veramente opportuno
+per ragioni di rima....  Il giglio da un lato @e figura di Cristo,
+dall'altro delle anime dei giusti o delle loro virt@u....  Esso
+non ha molto a che fare, nel contesto dantesco, con la morte di
+Marcello, trattandosi di un'allusione al significato simbolico
+del giglio, originato da certi passi della Sacra Scrittura>
+(Auerbach, ^l.c.~ {^Studi su Dante~, Milano, 1963}, 246).
+
+	|22-27.  Io vidi gi@a~: io vidi gi@a al sorgere del sole la
+parte orientale del cielo tutta color rosa (|rosata~) e la
+rimanente (|l'altro~) parte del cielo di un bel colore celeste
+(|bel sereno~); e la faccia del sole sorgere leggermente velata
+dai vapori (|ombrata~), s@i che a causa dei vapori che ne
+attenuavano lo splendore (|per temperanza di vapori~), il mio
+occhio poteva sostenerne pi@u a lungo (|lunga fiata~) la vista.... 
+L'immagine che ci offre, con la freschezza rinnovatrice dell'ora,
+uno dei pi@u bei cieli di D. in un'alba d'amore, carica di
+significati figurali (dato che il sole nascente nella Scrittura @e
+l'immagine usata per Cristo), segna, indubbiamente, una pausa
+nella trama unitaria del racconto, ma questa pausa <tutta
+rapimento e silenzio, isola meglio e rende pi@u evidente
+l'aleggiare trionfale di angeli e di fiori dentro cui appare
+Beatrice.  L'incanto di Beatrice @e in quell'aurora, dove l'occhio
+pu@o contemplare a lungo il sole sorgente fra i vapori, e dove la
+bellezza di Beatrice, cos@i sfumata, appare insieme vicina e
+distante> (Momigliano, ^comm.~ 492).  |ombrata~: il sole sorgente
+@e immagine rituale per indicare l'Avvento di Cristo, come si
+legge in ^Ezechiele~, XLIII, 1: <Ed ecco la gloria del Signore
+d'Israele giungeva da oriente... e la terra risplendeva della sua
+gloria>.  Per l'immagine della nube che attenua lo splendore del
+sole sorgente, @e bene ricordare anche Bernardo nel suo sermone
+^De adventu Domini~ 8 (^Patr. lat.~, CLXXXIII, 39): <Il generoso
+Salvatore e medico delle anime discese dalle sommit@a e ^temper@o~
+per i nostri occhi infermi la sua ^luminosit@a.~  Si mun@i d'una
+lanterna, cio@e del suo gloriosissimo corpo puro da ogni macchia;
+e questa @e quella ^nube~ leggera e splendente pi@u d'ogni altra su
+cui egli sarebbe salito, secondo l'annuncio del profeta, per
+discendere in Egitto>.  Insomma Cristo in un primo tempo non si
+rivela a D. nella sua vera forma, perch$e questi non potrebbe
+sostenerne la vista; ma si rivela gradualmente, in un primo
+momento, sotto la figura di Beatrice.  Questa apparizione di
+Beatrice, quindi, deve essere intesa come ^figura~ dell'Avvento
+del Cristo che avr@a luogo alla fine del tempo, nel giorno del
+Giudizio finale.  La similitudine, bellissima di per s$e e,
+quindi, fruibile dal punto di vista estetico in modo autonomo,
+s'inserisce chiaramente e coerentemente nel contesto
+narrativo-figurale della sequenza.
+
+	|28-33.  cos@i~: cio@e velata allo stesso modo come la
+faccia del sole, dentro una nuvola di fiori, che gettati dalle
+mani degli angeli, salivano verso il cielo e poi ricadevano in
+gi@u dentro e fuori del carro, con la testa cinta da una ghirlanda
+di ramoscelli di olivo (|cinta d'uliva~) posta su di un velo
+bianco mi apparve una donna, coperta di un verde manto e, sotto
+questo, vestita di un abito rosso, come fuoco ardente.  I due
+colori rosso e bianco sono quelli con cui B., nella ^Vita nuova~,
+tre volte era apparsa a D.  Ora aggiungendosi il verde, i tre
+colori sono le tre virt@u teologali.  La corona di olivo potrebbe
+significare la sapienza o la pace dello spirito appagato dalla
+sapienza divina.  @E il momento pi@u emozionante e risolutivo di
+tutta la faticosa ascesa della montagna del Purgatorio, non solo
+perch$e Beatrice, riapparendo a D. dopo tanti anni dalla sua
+morte, apporta a D. pellegrino ansioso di perdono e di
+purificazione, la parola di Cristo, il giudizio di Cristo, ma
+anche perch$e riprende il discorso narrativo della ^Vita nuova~,
+interrotto con la promessa di <dicer di lei quello che mai fue
+detto d'alcuna>.  Tra l'operetta giovanile di D. e la ^Commedia~
+c'@e veramente continuit@a narrativa, se non addirittura
+stilistica; la Beatrice che D. incontra qui nel Paradiso
+terrestre non @e diversa da quella che egli ammir@o ed am@o nella
+^Vita nuova~ e che credette fosse ascesa in Paradiso come una
+santa.  <Sono veramente essi, D. e Beatrice, che si incontrano di
+nuovo l@i (nel Paradiso terrestre) ed @e veramente la loro propria
+storia che @e continuata> (Gilson, ^Dante et la philosophie~,
+Paris, 1939).  @E molto probabile che questo incontro fra D. e
+Beatrice sia stato il primo abbozzo della ^Commedia~, come ha
+rilevato il Walser: <forse la mistica processione con tutta la
+sua solenne simbologia rappresent@o l'esito di quello che fu il
+primo abbozzo.  A questo piuttosto sicuramente va riferito
+l'atteggiamento di inveente rampogna di Beatrice, cos@i vivace che
+gli angeli sentono per questo compassione> (^Das Werden der
+G,ottlichen Kom,odie~, in <Deutsches Dante-Jahrbuch>, 1932, p.
+133).  Quando il Sapegno afferma che <la storia di un amore
+terreno, senza perder nulla della sua sostanza materiale ed
+effimera, @e di colpo trasferita sul piano di un insegnamento
+universale ed extratemporale>, perde di vista il senso oggettivo
+della narrazione dantesca.  Non @e D. che ha sublimato Beatrice
+trasfigurandola nel divino; @e, invece Beatrice che @e ascesa al
+Paradiso per le sue virt@u.  D. si limita a narrare la storia del
+suo amore e di questo nuovo incontro, cos@i come la sua memoria
+ricorda, dopo l'itinerario della mente fino a Dio.  Il racconto
+di D. @e quello di un credente, di un cristiano che crede
+fortemente nel fatto che la sua donna, morendo, sia ascesa in
+Paradiso; pertanto era ovvio l'incontro con lei, come elemento
+essenziale della sua massima umiliazione-confessione.  Cfr. le
+obiezioni del Montano, ^l.c.~ {^La storia della poesia di Dante~,
+Napoli, 1963}, 249-50.  Su questo ampio giro sintattico il Fubini
+ha fatto un'analisi stilistica e metrica esemplare.  <Esaminiamo
+il primo periodo, uno dei pi@u pacati di D., che ci d@a il senso
+della mirabile apparizione di Beatrice e che esclude da principio
+ogni nota drammatica.  Qui la similitudine, appunto per
+sottolineare la bellezza dello spettacolo, si allarga.  Notiamo
+che ogni verso @e in s$e compiuto; nella prima terzina non c'@e
+nessuno stacco, ma un alternarsi di endecasillabi ^a minore~ e ^a
+maiore~, un'alternanza regolare; poi sentiamo il bisogno di
+continuare.... Quindi, la seconda parte della similitudine, un
+verso rapidissimo, seguito da un altro difficilmente divisibile;
+la cesura @e invece sensibilissima nel terzo verso: e |ricadeva in
+gi@u~ / |dentro e di fori~, come se effettivamente vedesse quella
+pioggia di fiori....  Con l'immagine luminosa della fiamma si
+chiude l'amplissimo periodo; il colore rosso, che d@a risalto
+maggiore alla figura della donna, @e gi@a un anticipo del periodo
+seguente, ben altrimenti ritmato... finch$e il dramma si conclude
+nell'ultima terzina> (^Metrica e poesia~, Milano, 1962, p. 211,
+la citaz. @e ridotta).
+
+	|34-39.  E lo spirito~: e la mia anima (lo spirito de la
+vita, cfr. ^Vita nuova~, II), che gi@a da circa dieci anni
+(|cotanto tempo~: @e il decennio trascorso dalla morte di
+Beatrice), non era pi@u stata affranta di stupore, tremando alla
+presenza di lei (cfr. ^Vita nuova~, XXIV, 1: <nel fine del mio
+proponimento mi parve sentire uno mirabile ^tremore~ incominciare
+nel mio petto...>), senza averne ancora dagli occhi una
+conoscenza pi@u precisa (senza bisogno di ricevere dagli occhi una
+percezione pi@u precisa), per un misterioso potere (|virt@u~), che
+s'irradi@o da lei, pat@i, avvert@i (|sent@i~) la grande efficacia,
+quasi la possibilit@a di ridestarsi (|potenza~), dell'amore di un
+tempo giovanile (|antico~), dell'antico amore per lei.  Beatrice
+continua ad essere ancora per D. la santa dell'opera giovanile,
+che ora viene a salvare l'uomo amato.  Il tremore, simile a
+quello di allora, nasce da un sentimento d'amore pi@u purificato e
+conferma che essa @e sempre la stessa donna di allora, il cui
+fascino continua a stupire il poeta.  Il contenuto morale @e pi@u
+complesso che nella ^Vita nuova~, come, del resto, pi@u concreta e
+umana ci appare la figura della donna, al cui giudizio D.
+peccatore deve umiliarsi, in un rito drammatico.
+
+	|40-45.  Tosto che~: appena che la divina e nobilitante
+(|alta~) potenza del suo amore, che mi aveva gi@a ferito prima che
+fossi uscito di puerizia, cio@e prima che compissi nove anni
+(^Vita nuova~, II, 2; XII, 7), mi trafisse (|mi percosse~), mi
+colp@i negli occhi (|ne la vista~), mi rivolsi a sinistra con lo
+sguardo ansioso e sospeso (|respitto~: sia dal lat. ^respicere~
+col senso di ^sguardo~; sia dal prov. ^respit~, ^respieit~, nel
+senso di ^attesa, speranza~) col quale il bambino (|fantolin~)
+ricorre precipitandosi verso la mamma, quando ha paura o @e
+turbato da qualche male.  |respitto~: <L'espressione di fiducia
+non @e veramente quella che ho notato nei bambini, che corrono
+stizziti o spaventati dalla mamma; ed io penso che D. abbia
+voluto piuttosto alludere all'atteggiamento e direi quasi alla
+curiosa contrazione e ai sussulti del loro volto lagrimoso, che
+suscita nella madre un intenerimento, misto di riso.  In tal caso
+sarebbe tornato al lat. ^respicere~, e |respitto~ significherebbe
+^sguardo~ o, con senso un po' pi@u generale, ^atteggiamento del
+volto~> (^Bull.~, III, 94).  |mamma~: @e termine <pi@u affettuoso e
+familiare di ^madre.~  |Corre~: si precipita.  E veramente cos@i
+lo senti precipitarsi per l'effetto dell'accento ribattuto>, cfr.
+G. De Robertis, ^Dalla Commedia~, Firenze, 1932, p. 121.
+
+	|46-48.  Men che dramma~: neppure una stilla di sangue
+(|dramma~: quantit@a minima, cfr. ^Purg.~, XXI, 99) mi @e rimasta
+che non tremi; riconosco i segni dell'antico amore.  Quest'ultimo
+@e un verso di Virg. tradotto alla lettera (^Aen.~, IV, 23); ed @e
+espressione molto adatta in quella circostanza <per dar voce alla
+commozione pi@u profonda che abbia provata; ed @e l'omaggio pi@u
+alto che potesse fare all'arte del maestro> (De Robertis, ^l.c.~
+{^Dalla Commedia~, Firenze, 1932}, 121).  L'impasto stilistico di
+frasi scritturali e latine ora denuncia un'istanza psicologica
+affettiva ed elegiaca, che rende pi@u solenne questo momento del
+distacco dal maestro, che gli fu guida paterna per tutto questo
+viaggio fino a Beatrice.  D. ha cercato fino in fondo di
+conciliare scienza umana e scienza divina, ma dove @e Cristo, non
+pu@o esservi pi@u Virgilio.  La sua funzione @e finita al momento in
+cui appare la processione che invoca la presenza di
+Cristo-Beatrice.
+
+	|49-51.  scemi~: privi.  Virgilio, andandosene, aveva
+lasciato privi di s$e e come menomati (|scemi~) noi, Stazio e me;
+Virgilio dolcissimo padre, a cui mi ero affidato per la mia
+salvezza morale.  Il nome di Virgilio, ripetuto ben tre volte, @e
+un espediente retorico che puntualizza questo momento elegiaco di
+estrema e risolutiva drammatizzazione umana, nei riguardi di D.
+personaggio.
+
+	|52-54.  quantunque~: n$e tutto ci@o che, tutte le bellezze
+che perdette Eva nel Paradiso terrestre, a causa del suo peccato,
+valsero a impedire che le mie guance, gi@a pulite con la rugiada
+da Virg. (^Purg.~, I, 121-29), non ritornassero di nuovo a
+macchiarsi (|atre~) di lacrime (|lagrimando~).  In questo
+commiato rifluisce tutta la malinconia di Virg. per il cielo
+perduto; la crisi di tutta la storia pagana, che ebbe sempre
+qualcosa di incompiuto dinanzi alla Rivelazione.  <A questo
+livello di tensione patetica, l'elegia virgiliana, gi@a emersa,
+per la parte di Virg., cos@i intensa a conclusione del c. XXVII,
+potr@a distendersi, per la parte di D., vibrante fino al segno
+delle lacrime: e saranno recuperati, ingegnosamente, i termini
+estremi dell'itinerario attraverso il secondo regno dalle |guance
+nette di rugiada~ tornate |atre~ di pianto (^le guance lacrimose~
+del ^Purg.~, I, 128), a |quantunque perdeo l'antica matre~,
+istituzionalmente irrigidito nel dato culturalmente allusivo, per
+l'evidenza sempre presente, e ora di necessit@a resa esplicita,
+della significazione dommatica del luogo drammatico> (Sanguineti,
+^l.c.~, {^Il c. XXX del Purg.~, in <Lett. Dant.>, del Getto,
+Firenze, 1964}, 1288).
+
+	|55.  Dante~: quel nome, pronunziato cos@i improvvisamente
+e imprevedibilmente, dopo tante scene di attesa e di spettacolo
+religioso, non solo interrompe il ritmo del narrato nel tono del
+dialogato, ma fissa come una nota musicale-lirica che costituisce
+il nuovo tema centrale della sequenza, tanto pi@u se si pensa che
+quel nome, che indica una persona con le sue specifiche e
+personali responsabilit@a, @e pronunciato da Beatrice.
+
+	|56-57.  non pianger~: per il fatto che Virgilio se ne
+vada, non piangere ancora (|anco~), no non devi ancora piangere,
+@e troppo presto per piangere; perch$e @e necessario che tu pianga
+per un dolore ben pi@u grande (|per altra spada~: cfr. S. Paolo,
+^Agli Ebrei~, IV, 12-13: <La parola di Dio @e viva ed efficace e
+pi@u affilata di qualunque spada a due tagli ^gladio ancipiti~;
+essa penetra fino a dividere anima e spirito, giunture e midolla,
+e a distinguere i sentimenti e i pensieri del cuore.  Nessuna
+cosa al mondo sfugge allo sguardo di Dio, ma tutto @e chiaro e
+svelato agli occhi di Colui al quale dobbiamo rendere conto>). 
+Qui l'altra spada @e allusione alla vergogna per la sua colpa. 
+Queste parole severe e drammatiche completano il quadro di
+Beatrice, che subisce profonde modifiche reali-psicologiche
+rispetto al personaggio, oggetto di puro vegheggiamento
+spirituale nella ^Vita nuova.~  Qui essa rivela pienamente la sua
+fisionomia di protagonista assoluta e drammatica della vita e
+della fantasia di D.  Gi@a nel II canto dell'^Inf.~ Beatrice ci
+era parsa pi@u sollecita, piu attiva, pi@u umanamente partecipe
+rispetto al traviamento di D.; ma ora <da idolo @e diventata
+nocchiero della vita del poeta....  Nel preannuncio della discesa
+di Beatrice e nella sua discesa c'era, sotto l'apparenza
+affascinante, il segno della potenza: l'attesa dei seniori e
+l'apparizione di Beatrice fra una nuvola di fiori assomigliata
+alla faccia del sole che nasce ombrato di vapori, gi@a dicevano
+che la fantasia di D. non era avviata per un sentiero idillico,
+ma per una strada solenne e severa> (Momigliano, ^comm.~ 495). 
+Anche l'analisi stilistica conferma questa ripresa del tema
+drammatico, secondo cui l'alunno di Virg. ora diventer@a il devoto
+di Beatrice; e questo rovesciamento @e fatalmente condotto, come
+afferma il Sanguineti, ad operare sopra il motivo di pi@u scoperto
+colore sentimentale, sopra la dialettica del duplice pianto. 
+Infatti all'iterazione del nome di Virg. corrisponde la simbolica
+iterazione, in bocca di Beatrice, del tematico |pianger~ (tre
+volte ripetuto come il nome di Virgilio), convertito da elemento
+strettamente patetico in elemento rigorosamente sacrale (^l.c.~
+{^Il c. XXX del Purg.~, in <Lett. Dant.>, del Getto, Firenze,
+1964}, p. 1289).  D. personaggio, ormai purificato e divenuto
+figura pi@u perfetta di se stesso, sar@a, ovviamente, sottoposto ad
+un'umiliazione pi@u grave, per esser pi@u degno di un approdo pi@u
+alto.  Pertanto il dolore della dipartita di Virg. @e cosa ben
+meno grave dell'altro della sua umiliazione-confessione che lo
+render@a devoto a Beatrice-Cristo.  Oltre all'importanza di
+carattere storico-autobiografico, l'incontro tra D. e Beatrice
+nel Paradiso terrestre ha implicito questo profondo motivo
+sacrale del cambiamento della guida, dalla scienza umana alla
+scienza divina, dallo stato di perfezione umana a quella celeste. 
+Per questo Beatrice qui @e altamente imperiosa, distaccata e
+implacabile.
+
+	|58-66.  Quasi ammiraglio~: come un ammiraglio che si
+aggira da poppa e prua sulla sua nave per osservare e passare in
+rivista (|veder~) gli uomini che attendono ai loro uffici
+(|ministra~) sulle altre navi, e li incita (|incora~) a compiere
+bene il loro dovere (|a ben far~); cos@i, simile ad ammiraglio
+preso da severa sollecitudine, vidi sulla sponda, sul lato
+sinistro del carro, appena mi rivolsi al suono del mio nome, che
+qui si cita per necessit@a, la donna, che prima mi era apparsa in
+modo indistinto, avvolta da un candido velo entro una nuvola di
+fiori gettati in segno di festa dagli angeli (|angelica festa~),
+fissare gli occhi verso di me al di qua del fiume, dove mi
+trovavo ancora.  Il Porena ha detto che i due termini del
+paragone hanno simile un solo dettaglio, una persona che spunta
+affacciandosi ad una sponda con un'aria di autorit@a, ma per il
+resto differiscono del tutto.  Ma @e osservazione errata, se si
+pensa che qui il poeta mira a darci un ritratto potente e
+aggressivo, oltre che solenne e imperioso, di Beatrice, di questa
+Beatrice, che miracolosamente discende dal cielo per umiliare e
+costringere alla confessione e alla purificazione definitiva il
+suo amato; di questa Beatrice che qui viene, ^come Cristo~, a
+giudicare l'uomo peccatore e colpevole, come avverr@a nel giorno
+del Giudizio universale.  |si registra~: nel ^Conv.~, I, ii, 2-3,
+D. dice che <parlare alcuno di s$e medesimo pare non licito... 
+Non si concede per li retorici alcuno di se medesimo ^sanza
+necessaria cagione~ parlare>.  Qui la necessit@a @e data dalla
+condizione di D. peccatore, chiamato per nome da Beatrice alle
+proprie responsabilit@a.
+
+	|67-72.  Tutto che~: sebbene il velo che scendeva dalla
+testa, cinto dalla corona di olivo (|fronde di Minerva~: perch$e
+sacro a Minerva) non la lasciasse apparire (|parer~) del tutto
+visibile (|manifesta~), con dignit@a di re (|regalmente~), altera
+come un re che giudica, sempre (|ancor~) distaccata e sdegnosa
+nell'atteggiamento (|proterva~), continu@o come colui che parla,
+ma che riserva per ultimo (|dietro~) le parole pi@u accese (|pi@u
+caldo parlar~), pi@u severe.  Se si tien conto del valore
+cerimoniale e rituale della sequenza, giustamente si deve
+ammettere col Sanguineti che <@e chiave dell'intiero episodio
+l'immagine dell'^ammiraglio~ che illustra il parlato di Beatrice,
+nel cominciamento (parlato drammaticamente sciolto da ogni glossa
+didascalica, parola nuda e tagliente, in repentina emergenza dal
+contesto) di Beatrice |regalmente proterva~> (^l.c.~, {^Il c. XXX
+del Purg.~, in <Lett. Dant.>, del Getto, Firenze, 1964}, 1290). 
+@E chiaro anche che tutto questo sia in funzione di un particolare
+realismo figurale che qui D. adotta, del tutto diversamente che
+nella ^Vita nuova~, dove Beatrice compariva soltanto come idolo
+religioso o, comunque, personaggio meno reale che qui.
+
+	|73.  Guardaci ben~: guarda qui (|ci~) bene!  Sono
+proprio, sono proprio (|ben~) Beatrice.  Altri leggono ^sem~:
+siamo, come ^pluralis maiestatis~ per non mortificare la
+regalit@a di Beatrice.  Ma @e preferibile la ^lectio difficilior~
+che intende |guardaci~ nel senso di ^guarda~ qui, sono proprio
+Beatrice.  Del resto contribuisce pi@u efficacemente alla
+drammaticit@a del colloquio e del rimprovero.
+
+	|74-75.  Come degnasti~: come ti sei degnato
+(ironicamente) di salire al monte del Purgatorio?  Non sapevi tu
+(anche prima d'ora) che soltanto qui l'uomo pu@o essere veramente
+felice? (come lo era prima del peccato originale).  Altri
+intende: |degnasti~ nel senso di: osasti, hai potuto, facendolo
+derivare dal prov. ^denhar~, potere (Buti-Gaspary).  Ma la prima
+spiegazione, che risale al Landino, @e pi@u coerente col testo.
+
+	|76-78.  Li occhi~: i miei occhi si abbassarono per
+vergogna nelle limpide acque del Let@e (|nel chiaro fonte~); ma io
+vedendo la mia immagine confusa riflessa in quelle, li rivolsi
+(|trassi~) subito sulle sponde piene d'erba (|a l'erba~), tanta
+fu la vergogna che mi fece abbassare (|grav@o~) la fronte.  @E il
+primo atto del pentimento di D.
+
+	|79-81.  Cos@i la madre~: cos@i spietata (|superba~:
+severa) appare (|par~) la madre al figlio (quando lo rimprovera),
+come Beatrice apparve a me; perch$e sa di amaro, riesce doloroso
+(|sente d'amaro~) il sapore dell'affetto (|pietade~) materno,
+espresso in modi aspri e severi (|acerba~).  <Ecco scoperta in
+Beatrice, dopo la similitudine dell'ammiraglio, l'immagine che
+pi@u intimamente la ritrae: in simmetria con l'altra -- e diversa
+-- immagine materna riferita in questo stesso canto a Virgilio>
+(Chiarini, ^l.c.~ {^Il c. XXX del Purg.~, <Lett. scal.>, 196[8]},
+1124).
+
+	|82-84.  Ella si tacque~: appena essa tacque, gli angeli
+immediatamente intonarono un coro, per rasserenare il pathos dei
+due protagonisti nel salmo biblico: <In te, Signore, ho sperato>,
+ma non andarono oltre il punto che dice <pedes meos>, XXX, 1-9. 
+Anche questo ^Salmo~ s'intona alla situazione drammatica in cui
+si trova D.; infatti l@i David supplica il perdono da Dio e
+manifesta la propria speranza: <In te, Signore, ho sperato, che
+io non rimanga deluso!  Deh! per la Tua giustizia salvami, e
+ascoltami benigno... nelle tue mani io rimetto il mio spirito...
+Tu vedi il mio affanno, tu conosci le angosce dell'anima mia e
+non mi hai dato in mano al nemico, ma hai fermato i miei piedi in
+un luogo sicuro>.
+
+	|85-90.  come neve~: come la neve si congela fra i rami
+degli alberi (|vive travi~: ^trabes~ negli scrittori latini sta
+per ^alberi~; qui dice |vive travi~, perch$e indica alberi ancora
+in vita sulla terra) sui gioghi (|per lo dosso~) dell'Appennino
+(|dorso dell'Italia~), spinta (|soffiata~) e indurita (|stretta~)
+dal soffio dei venti nordici (|schiavi~: perch$e provenienti dalla
+Schiavonia, da nord-est), poi, liquefacendosi per fusione,
+gocciola, penetra (|trapela~) negli strati inferiori (|in s$e
+stessa~), purch$e, allorch$e la terra, dove l'ombra dei corpi a
+mezzogiorno diminuisce fino ad annullarsi del tutto (|che perde
+ombra~: @e l'Africa), mandi i suoi venti caldi (|spiri~), s@i che
+lo sciogliersi della neve appare (|par~), rende l'immagine del
+fuoco che fonde la candela a goccia a goccia; cos@i io...  |per lo
+dosso d'Italia~: @e un ricordo ben preciso e concreto di D.
+alpinista e nato tra i monti dell'Appennino; come quello
+dell'Africa, terra che perde la sua ombra, @e un ricordo
+letterario di Lucano, ^Phars.~ IX, 528-31.
+
+	|91-93.  cos@i fui~: allo stesso modo della neve, ero
+rimasto senza lacrime e sospiri, interioramente ghiacciato, prima
+(|anzi~) che cantassero gli angeli, quelli che cantano (|notan~:
+seguono le note, i segni del canto, Buti) quel che vedono segnato
+nell'ordine fatale (|a le note~) del movimento dei cieli (|de li
+etterni giri~); cio@e che assecondano l'armonia dei cieli.
+
+	|94-99.  ma poi~: ma, dopo che intesi e compresi che
+nelle dolci modulazioni (|tempre~) del loro canto esprimevano un
+sentimento di compartecipazione del mio stato d'animo (|lor
+compartire a me~), pari (|par~) che se avessero detto, come se
+avessero detto: Donna, perch$e lo avvilisci, lo mortifichi cos@i?
+(|stempre~: gli togli la tempera, lo consumi), il gelo che mi si
+era condensato (|ristretto~) intorno al cuore, si fece (|fessi~),
+si tramut@o in sospiri e pianto (|spirito e acqua~) e con dolorosa
+fatica (|angoscia~: @e stato fisico che genera oppressione) usc@i
+dal mio petto attraverso la bocca e gli occhi.  Il Sapegno ha
+giustamente rilevato la fermezza e la maturit@a nuova di questa
+minuta analisi introspettiva che si riflette nel gusto di un
+raffinato psicologismo medievale, tipico della letteratura
+giovanile del poeta.  Il Sanguineti mette in risalto <la lucida
+proiezione realistica dello ^status~ etico; proiezione
+fisiologica, come sopra sottolineavano |spirito e acqua~ uscenti
+|de la bocca e de li occhi~; dove incontriamo lo stesso gusto
+analitico, che presiedette alla fenomenologia concretamente
+fonica del parlato dei suicidi infernali, alle ^parole e sangue~
+uscenti insieme alla ^scheggia rotta~ {^Inf.~ XIII, 43-44}:
+fenomenologia sciolta qui, s'intende bene, da ogni eticamente
+penale indicazione, ma non veramente sciolta dalla tutta
+sensibile, corporale |angoscia~, sempre eticamente inclinata, che
+traduce ^lagrime e sospiri~ {v. 91} in |spirito e acqua~> (^l.c.~
+{^Il c. XXX del Purg.~, in <Lett. Dant.>, del Getto, Firenze,
+1964}, 1294).  Si potrebbe ancora aggiungere che la corpulenza
+delle immagini al livello fisiologico, in un certo senso,
+scandisce anche la parte emotiva del tempo e dell'azione
+liturgica, cui quella minuta analisi psicologica direttamente e
+comparativamente si riferisce.  Non si dimentichi che D. @e un
+poeta medievale, legato a una tecnica specificamente oggettiva di
+rappresentazione, ed analizza qui un particolare momento del rito
+della sua confessione e della sua umiliazione.
+
+	|100-102.  Ella~: essa, continuando a star ferma (|pur
+ferma~) sul lato sinistro del carro, stando immobile, cos@i poi
+rivolse le sue parole agli angeli (|sustanze~: perch$e puri
+spiriti, da ^substantia~, essenza) pietosi (|pie~) verso di me. 
+<La terzina rende, insieme, un'immagine d'incrollabile fermezza,
+non scalfita dalla supplica degli angeli, e un colore di sovrana
+mestizia che poi troveremo effusa nelle parole> (Chiarini, ^l.
+c.~ {^Il c. XXX del Purg.~, <Lett. scal.>, 196[8]}, 1127).  Cfr.
+^Conv.~ II, iv, 2: <li movitori di quelli cieli sono ^sustanze~
+separate da materia, cio@e intelligenze, le quali la volgare gente
+chiamano Angeli>.
+
+	|103-108.  Voi vigilate~: voi vegliate nell'eterna luce
+(|die~: luce; |etterno die~ vale anche l'eterno presente) di Dio,
+contemplando l'aspetto di Dio in cui tutti i tempi son presenti,
+di modo che n$e tenebra d'ignoranza (|notte~) n$e pigrizia
+corporale (|sonno~) vi impedisce di vedere (|fura~: ruba,
+nasconde) o conoscere ogni avvenimento (|passo~) che il mondo dei
+vivi (|secol~) compia lungo le strade della vita terrena (|per
+sue vie~); per la qual cosa (|onde~) la mia risposta (la mia
+requisitoria) @e fatta pi@u con lo scopo (|cura~) che m'intenda
+colui che piange al di l@a del fiume Let@e, affinch$e il suo dolore
+(|duol~) sia della stessa misura (|una misura~), sia pari alla
+gravit@a della sua colpa.  In altri termini, Beatrice dice agli
+Angeli: le mie parole, con cui risponder@o alle vostre pietose
+premure, non sono rivolte a voi, che sapete ogni cosa umana
+(leggendo in Dio il passato, il presente e il futuro), ma
+soltanto a D., affinch$e la sua contrizione sia commisurata alla
+sua colpa.  Nella concezione dantesca il tempo @e sempre guardato
+^sub specie aeternitatis~: cos@i anche il tempo peccaminoso di D.,
+il suo errare nella selva selvaggia, era gi@a chiaro nella mente
+di Beatrice, ove tutto @e eternamente presente.  E qui Beatrice,
+oltre che essere personaggio reale e concreto, indica anche il
+riemergere della coscienza religiosa nell'animo di D. peccatore. 
+Questa nobile creatura @e alla preistoria del viaggio di D.,
+quando essa va a visitare ^l'uscio dei morti~ per salvare D., ed
+anche al compimento di esso, apparendogli qui nella divina
+foresta ^sovra candido vel cinta d'uliva.~  La riconquista di
+Beatrice significava per D. riconquistare la dimensione eterna
+della sua anima.  Pertanto la Beatrice della ^Vita nuova~ trova
+compimento, ^figura perfectior~ nella dimensione eterna di questa
+nuova creatura celeste, in modo che il tempo storico e umano di
+lei si armonizza e concorda col suo nuovo essere eterno. 
+Trasferita in D., la rappresentazione significa il rinascere
+della sua vita religiosa nella sua coscienza, e quindi il
+ricominciamento verso l'ascesa suprema.
+
+	|109-117.  Non pur~: non soltanto per l'influsso naturale
+(|per ovra~) del girare dei cieli (|de le rote magne~), che
+dispongono (|drizzan~) ciascun essere (|seme~) a un determinato
+(|alcun~) fine secondo le costellazioni (|stelle~) con cui sono
+in compagnia, che accompagnano la sua nascita, ma anche per
+l'abbondanza delle grazie divine, che hanno come cagioni della
+loro pioggia (|piova~), che traggono la loro pioggia da vapori
+cos@i alti (cio@e da Dio) che neppure la vista, la mente di noi
+beati (|nostra~) non riesce ad avvicinarsi a comprenderle (cio@e
+le grazie divine sono cos@i misteriose, che neppure i beati e gli
+angeli riescono a comprenderle), costui (Dante) nella sua et@a
+giovanile (|vita nova~) fu potenzialmente (|virtualmente~) tale,
+che ogni buona disposizione naturale (|abito destro~) avrebbe
+potuto fare in lui mirabile riuscita (|prova~), se fosse stata
+messa in atto, assecondata dalla sua volont@a.  |nova~: Si osservi
+il procedimento scolastico ben scoperto in questa requisitoria di
+Beatrice.  <Prima una sentenza generale (^Voi vigilate~) e poi
+una proposizione consecutiva (^s@i che...~), che formano il
+terzetto solenne di apertura; da questa affermazione ne rampolla
+un'altra (^onde la mia risposta~), finch$e, a chiudere il periodo
+di due terzine, giunge una sentenza solenne (^perch$e sia colpa e
+duol d'una misura~ {vv. 103-108}).  ^S@i che... perch$e~: si noti
+la forza di queste congiunzioni iniziali che danno cos@i forte
+spicco al singolo verso e alla singola terzina.  Il pensiero di
+D. @e qui veramente una cosa sola con la terzina e si snoda
+secondo le linee del ragionamento scolastico, un ragionamento
+entro cui @e pure una potente passione.  Alle prime due terzine
+segue un periodo che si sviluppa con un giro maggiore; per
+accusare D., Beatrice deve risalire molto indietro: |Non pur per
+ovra....~  Abbiamo qui il caratteristico caso della terzina che
+si sviluppa in un pi@u ampio giro: il ritmo di tre versi diviene
+il ritmo di nove versi; dopo quella prima terzina, il ritmo
+sintattico e quello metrico prendono un nuovo slancio: |ma per
+larghezza...~ e nel periodo si incastra un nuovo relativo: |che
+si alti vapori...~ con una consecutiva: |che vostre viste....~ 
+Poi un'altra terzina, e un nuovo sviluppo del ragionamento:
+|questi fu tal....~  Si fa rilevare ancora una volta la frequenza
+delle consecutive, che stringono cos@i saldamente membro a membro,
+e, dopo questo ampio giro ritmico delle terzine, la solenne
+chiusa di |mirabil prova~> (Fubini, ^l.c.~ {^Metrica e poesia~,
+Milano, 1962}, 200-201).
+
+	|118-120.  Ma tanto~: ma un terreno tanto pi@u si fa,
+diventa, cattivo (|maligno~: sterile, improduttivo) e selvatico,
+se riceve semi non buoni (^mal~) e se non @e coltivato (|non
+c@olto~), quanto pi@u dotato di buon (fecondo) vigore naturale. 
+<Il ragionamento continua: di contro alla |mirabil prova~ sono
+gli opposti effetti della condotta di D.; un'altra sentenza
+suggella il ragionamento.  Rileviamo ancora l'importanza delle
+congiunzioni in D.; |e~, ^ma, tanto, quanto~ sono come
+altrettanti saldi punti d'appoggio del discorso.  Si vede come
+qui il ragionamento scolastico sia una sola cosa col ritmo delle
+terzine, le quali si adattano bene a questa passione dantesca
+irrobustita e regolata dall'esperienza dell'uomo ^domestico della
+filosofia~> (Fubini, ^l.c.~ {^Metrica e poesia~, Milano, 1962},
+201).
+
+	|121-123.  Alcun tempo~: per un certo tempo (dal primo
+incontro del 1274 fino alla mia morte nel 1290, secondo il
+racconto della ^Vita nuova~) lo mantenni sulla retta via col mio
+volto, col mio aspetto (^Vita nuova~, XI, 1); mostrando di quando
+in quando il mio volto giovanile (|gli occhi giovanetti~) a lui,
+lo guidavo con me rivolgendolo per la via della virt@u (|in dritta
+parte~).  Qui si vede come la ^Vita nuova~ di D. sia un'opera
+complementare rispetto alla ^D.C.~; un'opera la cui storia viene
+convalidata nel compimento figurale di queste sequenze della
+^Commedia~, in cui Beatrice da idolo della fantasia di D.
+diventa, ^figura perfectior~, giudice e guida della sua vita
+spirituale, personaggio ben pi@u reale e concreto, sul piano
+dell'eternit@a, che non fosse in quell'opera giovanile, in cui era
+soltanto vagheggiata come angelo.  Ma tra le due opere non c'@e n$e
+salto n$e violenza narrativa; l'una confluisce nell'altra
+armonicamente, quasi per un disegno misterioso della Provvidenza,
+che ha guidato i passi di D. dalla lontana fanciullezza fino alla
+maturit@a, per opera del volto di Beatrice.
+
+	|124-126.  S@i tosto~: appena fui giunta sulla soglia
+della giovinezza, seconda et@a della vita (cio@e al termine dei
+venticinque anni) e passai dalla vita terrena alla vita celeste
+(|mutai vita~), come @e descritto nella ^Vita nuova~, XXIII,
+costui (Dante) si allontan@o da me e si diede ad altra donna
+(|altrui~; genericamente allude ad altre donne e altri studi,
+cfr. ^Vita nuova~, XXXV-XXXVII, in cui D. racconta che gli
+apparve, dopo la morte di Beatrice, una donna gentile, per la
+quale si sent@i subito inclinato.  Alcuni hanno identificato
+questa donna con Lisetta, ricordata da D. in un sonetto (^Rime~,
+CXVII; Barbi, ^Probl.~ II, p. 215-251; ma la ^donna gentile~,
+secondo il ^Conv.~ II, xii, @e il simbolo della filosofia, allo
+studio della quale D. si volse con intensit@a dopo la morte di
+Beatrice).
+
+	|127-129.  Quando~: il discorso di Beatrice @e tutto
+trapunto di preposizioni e avverbi di tempo ad indicare le colpe
+specifiche di D. commesse nel tempo umano, qui da Beatrice
+richiamato sul piano dell'eternit@a, essendo lei incarnazione di
+Cristo giudice in un simbolico giudizio finale.  Spiega: quando
+dalla vita corporea (|carne~) fui salita alla vita spirituale
+(|spirto~), e m'era cresciuta la bellezza e la virt@u, allora fui
+a lui meno cara e meno gradita.  Cfr. ^Vita nuova~, XXXIII, 8:
+<'l piacere de la sua beltate, Partendo s$e da la nostra veduta,
+Divenne spirital bellezza grande, Che per lo cielo spande Luce
+d'amor, che li angeli saluta>.
+
+	|130-132.  e volse~: s'incammin@o per una via erronea
+(|non vera~), seguendo false immagini di bene, piaceri terreni
+che ingannano gli uomini, che non mantengono mai interamente
+nessuna promessa di felicit@a.  Cfr. Boezio, ^De cons. phil.~ III,
+pr. 8-9: <nec perducere quemquam eo valeant, ad quod se
+perducturas esse promittunt....  Haec igitur vel imagines veri
+boni vel imperfecta quaedam bona dare mortalibus videntur>. 
+Questo spiega lo stile solenne ed elevato letterariamente della
+requisitoria di Beatrice, la cui eloquenza ha una strutturazione
+retorica secondo i canoni medievali.
+
+	|133-135.  mi valse~: n$e mi valse, mi giov@o a riportarlo
+sulla retta via il fatto che gli avevo ottenuto da Dio buone
+ispirazioni, con le quali, apparendogli in sogno (^Vita nuova~,
+XXXIX) e in altra maniera, lo richiamai, cercai di richiamarlo
+sulla retta via: tanto poco egli si cur@o (|ne calse~) dei miei
+richiami.  Cfr. ^Vita nuova~, XLII; ^Conv.~ II, vii, 6.
+
+	|136-138.  Tanto gi@u~: cadde tanto in basso, in tale
+traviamento morale e intellettuale (si allude alla vita leggera e
+vana, piena di piaceri sensuali e di contrasti con amici, di cui
+fanno eco i sonetti della tenzone con Forese e per cui l'amico
+Cavalcanti gli scriveva fieramente (son. XX), che tutti i rimedi
+(|argomenti~: Barbi, ^Probl.~ I, 232) usati per la sua salvezza
+(|salute~) spirituale erano gi@a, oramai, insufficienti (|corti~),
+fuor che quello di mostrargli il regno dei morti, suscitando in
+lui con le condizioni dei dannati l'orrore del peccato.  Il
+viaggio oltremondano di D. viene cos@i ricondotto al suo giusto
+tempo umano e in perfetta concordanza con il volere della
+Provvidenza divina.
+
+	|139-141.  Per questo~: per salvare lui, visitai la
+soglia dell'Inferno, la porta dei dannati morti alla grazia
+divina; e rivolsi le mie preghiere, piangendo, a colui che l'ha
+condotto fin qua s@u (a Virgilio).  A questo punto il racconto
+itinerale di D., partendo dalla sua preistoria, illumina meglio
+la figura svanente di Beatrice, quale era apparsa nel II
+dell'^Inf.~, dandole una consistenza spirituale di alto e
+possente rilievo umano e spirituale.
+
+	|142-145.  Alto fato~: un decreto divino (^fato~: vale
+disposizione divina, cfr. Agostino, ^De civitate Dei~, I, viii,
+9: <La stessa volont@a di Dio, o potest@a, vien chiamata col nome
+di |fato~>) cos@i profondo (|alto~) sarebbe interrotto, infranto,
+se si potesse attraversare il Let@e e la bevanda di quelle acque
+che d@anno l'oblio del peccato venisse assaggiata (|gustata~)
+senza prima pagare il prezzo (|scotto~) della penitenza che
+faccia spandere lacrime.  <Ci@o che pi@u importa nell'orazione di
+Beatrice, e che ancora non ha trovato adeguato rilievo presso gli
+interpreti, @e questa esplicazione della vita di D. nei termini,
+direttamente, della vita, terrena e celeste, di Beatrice: ch$e il
+sentimento del tempo ha la sua scansione, se bene si osserva, e
+la sua norma, entro queste pagine, in tale costante rimando, vive
+come si illustra dinanzi alle coscienze angeliche, vigilanti
+^nell'etterno die~ {^Purg.~ XXX, 103}, ogni passo che ^faccia il
+secol~ {^Purg.~ XXX, 105}: @e un tempo, insomma, coerentemente
+assunto nel cerchio della intensit@a ^figurale~ di tutto
+l'episodio (e di tutto il poema), @e un tempo che si configura
+^sub specie aeternitatis~, ma che appunto per questo, nei termini
+della cultura poetica di D., si rende, nel suo poetico palpito,
+^figurabile.~  E si pensi agli ^occhi giovanili~ {^Purg.~ XXX,
+122} di Beatrice, alla sua ^seconda etade~ {^Purg.~ XXX, 105}, a
+queste stagioni, liricamente destinate ad atteggiarsi in vita e
+in morte, che precisamente risolvono il tempo sensibile in un
+tempo morale, esposto alfine, e disposto, come tale, ad una
+assoluta misura> (Sanguineti, ^l.c.~ {^Il c. XXX del Purg.~, in
+<Lett. Dant.>, del Getto, Firenze, 1964}, 1297); per lo
+svolgimento di questo problema cfr. Giacalone, ^Tempo ed eternit@a
+nella D.C.~, Pescara, 1965.  

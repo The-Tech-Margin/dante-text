@@ -1,0 +1,52 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	98.11.01.16.26.56;	author dante;	state Exp;
+branches;
+next	;
+
+
+desc
+@read a file or files from a tape made at Brigham Young University
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@#! /bin/csh -f
+
+# read a file or files from a tape made at Brigham Young University
+#
+#	The output files will be named byuout.1001, byuout.1002, etc.
+
+if ($#argv > 0) then
+	echo Usage: $0
+	exit 1
+endif
+if (-e NDIout.1001) then
+	echo File NDIout.1001 already exists.
+	exit 1
+endif
+
+@@ NUM = 1001
+while (1)
+	set FILE = NDIout.$NUM
+	endif
+	dd if=/dev/rmt4 ibs=9008  |  tr '\377' '\012' > $FILE
+	if (-z $FILE) then
+		rm -f $FILE
+		break
+	endif
+	ls -l $FILE
+	@@ NUM = $NUM + 1
+end
+mt off
+@

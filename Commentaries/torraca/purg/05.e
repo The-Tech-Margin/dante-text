@@ -1,0 +1,718 @@
+	|1-2.~  Cfr. ^Inf.~, XXXII, 124.
+
+	|3-5.  Drizzando il dito, una grid@o~: mentre il grido
+esprime la maraviglia, |il dito~ indica la cagione di essa.  Cfr.
+la stessa locuzione, ma per un cenno diverso, in ^Inf.~, X, 129. 
+-- |Ve'~: vedi.  Chiama e dirige l'attenzione de' compagni.  |Ve'
+che non par che luca, lo raggio~: per la maraviglia, le parole
+s'affollano, s'affrettano, brevissime, rapidissime.  -- |Non
+par~: stenta a creder a ci@o, che vede.  |Luca~: cfr. ^Inf.~, IV,
+151.  -- |Da sinistra~: riprendendo la salita, i poeti avevano il
+sole a destra (cfr. ^Purg.~, IV, 57) e l'ombra del corpo di Dante
+cadeva a sinistra.  |Quel di sotto~: Dante.  Virgilio ^saliva
+innanzi~ (ivi, 136).
+
+	|6.  Come vivo, par~: continua l'incertezza.  |Pare~ che
+si comporti |come vivo~; ma sar@a, poi, veramente vivo?  Or come
+le anime non avevano osservato prima che Dante interrompeva ^lo
+raggio~ {v.5}?  Esse stavano dietro al sasso; perci@o, mentr'egli
+s'era avvicinato, non lo avevano veduto al sole; quando fu con
+esse, lo videro ^all'ombra~; ^Purg.~, IV, 101-104.
+
+	|7.  Gli occhi rivolsi~: movimento naturale, e, quando
+non si ha ragione di stare in guardia, irrefrenabile.  -- |Al
+suon di questo motto~: sentendo queste parole, cfr. ^Purg.~, IV,
+100.
+
+	|8.  Guardar, per maraviglia~: cfr. ^Inf.~, XXVIII,
+53-54.
+
+	|9.  Pur me~: solo me.  Egli solo mandava ombra, egli
+solo pareva vivo; a lui solo eran rivolti tutti gli occhi.  Ma
+no, guardavano anche l'ombra in terra; e perci@o soggiunge
+correggendosi: |pur me, e 'l lume, ch'era rotto.~  Cfr. ^Purg.~,
+III, 88 segg.
+
+	|10-12.~  Non solo aveva ^rivolto gli occhi~ {v.7},
+Dante; ma aveva allentato |l'andare~ (cfr. ^Inf.~, IV, 64); di
+ci@o Virgilio gli muove rimprovero, non senza vivacit@a: |Perch@e~? 
+|Che ti fai~...  L'|andare~ pi@u lento @e effetto di un
+|impigliarsi dell'animo~ come tra pruni, cannucce (cfr. v. 83) e
+simili: di un |impigliarsi~ per cagione, che a lui pare troppo
+piccola: |ci@o, che, quivi, si pispiglia.~  Pure, l'ombra aveva
+gridato (v. 4).  -- |Pispiglia~: bisbiglia, cfr. ^Purg.~, XI,
+111.
+
+	|13-15.~  Via via, Virgilio si accalora; alle domande fa
+seguir gli ordini -- |vien~, |lascia~, |sta~ -- con crescente
+energia.  -- |Vien dietro a me~: cfr. per la diversit@a del tono
+^Inf.~, XIX, 93, ^Purg.~, I, 112.  |E lascia dir le genti~:
+sdegnosa esortazione, cfr. ^Inf.~, III, 51.  |Le genti~: il plur.
+per il sing., non raro; cfr. ^Par.~, XVII, 79.  ^Conti morali~,
+III: <Vedendo le genti, credette che lo venissero a battere>.  --
+|Sta~, |torre~, |ferma~, |crolla~, |giammai~, |cima~, |soffiar~,
+|venti~: tutta una serie di suoni forti, ben convenienti al
+concetto nobilissimo e all'imagine stupenda.  Altre cime alte
+percosse da' |venti~ si abbassano (cfr. ^Purg.~, XXVIII, 10-13),
+non quella della torre, che solidissima, immota, pare non curarsi
+di loro.  Questi versi son divenuti popolarissimi; forse il primo
+germe, non pi@u che un germe, ne ebbe Dante dall'^En.~, VI, 554:
+<Sta, la ferrea torre, alle aure>.
+
+	|16-18.~  Prosegue severo il maestro: |sempre.~  Sempre
+da s@e allontana la meta, chi passa da un pensiero ad un altro,
+perch@e l'uno sminuisce l'impeto dell'altro.  |Pensier rampolla
+sopra pensier~: cfr. ^Inf.~, XXIII, 10.  -- |Dilunga il segno~:
+perch@e non vi coglie.  Cfr. ^Colonna~, III, 4: <Noi vedemo che il
+trarre d'un arco e d'uno balestro ad alcuno segno, se 'l segno si
+potesse muovere o cessarsi, il trarre non sarebbe gi@a s@i
+leggermente>.  |Segno~, |foga~: pi@u e pi@u volte Dante trasse
+imagini e paragoni dall'arco e dal maneggio dell'arco; cfr.
+^Purg.~, XXXI, 16-18.  ^D. Frescobaldi~: <La foga di quell'arco,
+che s'aperse Per questa donna co' le man d'Amore, Si chiuse poi,
+ond'io sento nel core Fitto un quadrello>.  -- |Insolla~: cfr.
+^Inf.~, XVI, 28 e la n. ^Colonna~, III, 19: <Il castello sia
+acconcio s@i, ch'elli non tema dificio; e questo si pu@o fare s@i
+per strati fatti di fortissime trave ed ine su posta terra e viti
+e letame e somigliante cose, che insollino pi@u il colpo>.
+
+	|19.~  Confessione di mirabile ingenuit@a.
+
+	|20-21.~  Arrossendo alquanto per la vergogna.  Per
+maggior vergogna e pi@u vivo colore, cfr. ^Inf.~, XXXI, 1-2.  Si
+noti il tono dimesso di |dissilo~, e la restrizione: |talvolta.~ 
+Virgilio ha sentenziato: ^Sempre~ {v.16}!.
+
+	|22-23.  Per la costa~ del monte (cfr. ^Purg.~, III, 52),
+|di traverso~, di fianco, mentre Dante e Virgilio salivano in
+linea retta; ^Purg.~, IV, 37-39.
+
+	|24.  Miserere~: il salmo, che invoca la misericordia
+divina sul peccatore; cfr. ^Purg.~, III, 123.  -- |A verso a
+verso~: parte di quelle ^genti~ {v.13} cantavano un versetto,
+parte un altro, per ordine.
+
+	|25-27.~  La stessa cagione, in condizioni diverse,
+produce effetti diversi.  Dante pel primo, al vedere la sola
+ombra sua, ebbe paura, e si volse ^da lato~ (^Purg.~, III,
+19-21); Manfredi e i compagni (III, 91) ristettero e si trassero
+indietro; una delle anime, che stavano ^dietro al sasso~, mise un
+alto grido, ed essa e le altre guardarono intensamente Dante ^e
+'l lume, ch'era rotto~ {v.9} (vv. 4 segg.); il canto di queste
+genti finisce subitamente in un'esclamazione di stupore, |in un
+oh! lungo e roco.~  Improvvisa e forte l'impressione provata
+dalle anime al novissimo spettacolo; istantaneo il mutamento dal
+canto all'esclamazione, dal tono alto e spiegato al tono |lungo e
+roco~; e istantanea, forte l'impressione, che il lettore riceve. 
+Il verso ritrae il fatto, come dal vero, esattamente,
+limpidamente; con la collocazione di |oh~, col suono di |oh~, di
+|lungo~, che davvero @e lungo, di |roco~, che davvero @e rauco, lo
+rappresenta.  -- |Non dava loco al trapassar~: non lasciavo
+passare.  |Per lo mio corpo~ ecc.  Cfr. ^Purg.~, III, 18; lo
+stesso fatto in altra forma.
+
+	|28.  In forma di messaggi~: quasi messaggeri degli
+altri.  Cfr. ^Purg.~, XXII, 78.  ^Tav. Rit.~, LXXIII: <Uno
+valletto... disse ch'egli era messaggio della reina>.  ^B. dello
+Scelto~: <Quando lo messaggio intese la risposta della reina,
+elli prese comiato>.
+
+	|29.  Corsero~: segno di grande premura.  --
+|Dimandarne~: ne dimandar, ci domandarono.
+
+	|30.  Fatene saggi~: fateci sapere, informateci |di
+vostra condizion~, se siete morti o vivi.  Non era sfuggito
+all'attenzione delle anime che uno solo de' due, che salivano,
+^non dava loco al trapassar de' raggi~ {vv.25-26}; ma la domanda
+de' messaggeri @e fatta con garbo e discrezione.  Cfr. ^Nov.
+Ant.~, X: <Domandoti onde se', et di che condizione.  -- Messer,
+io sono d'Italia et mercatante>.
+
+	|31-32.~  Virgilio risponde come chi ha indovnato il
+^desiderio taciuto~, ^Inf.~, X, 18.  A domanda cortese, risposta
+cortese.  -- |Ritrarre~: raccontare, riferire; cfr. ^Inf.~, II,
+6.
+
+	|33.~  Cfr. ^Purg.~, XXVI, 56-57, ^Inf.~, XII, 96.  |Vera
+carne~: non semplice apparenza di carne, come <i corpi> de'
+morti.  Cfr. ^Purg.~, III, 31-32.
+
+	|34.  Per veder~: perch@e hanno veduto.
+
+	|35.  Com'io avviso~: come m'@e avviso, mi pare.  --
+|Assai~; cfr. ^Inf.~, XXXIV, 72.
+
+	|36.~  Cortese consiglio, incoraggiante promessa. 
+|Facciangli onore~: cfr. ^Inf.~, IV, 93, 100.  -- |Esser pu@o lor
+caro~: possono averne piacere, cfr. ^Inf.~, XXXII, 91.
+
+	|37-40.~  Cfr. ^Inf.~, VIII, 13-14; XVI, 88-89; XXII, 24;
+XXIV, 100.  |Color~, i due messaggeri, |tornaron suso in meno~,
+in minor tempo, di quello che, nel mese di |agosto~, le stelle
+cadenti, al cominciar della notte, mettono a trascorrere per il
+|sereno~ del cielo; e di quello che i baleni, al tramontar del
+sole, mettono a traversar |nuvole.~  Per Dante e per i suoi
+contemporanei erano |vapori accesi~ cos@i le stelle cadenti, come
+i baleni.  ^Fra Giordano~, ^Genesi~, XXXV.  <Il luogo nell'aria
+dove s'ingenerano i vapori accesi, che paiono stelle, che
+caggiono, dicono che ci @e di lunghe ben cinquecento miglia>. 
+^Ristoro~, VII, 5: <Ponendo mente nell'aere, per istagione vedemo
+la notte correre entro per l'aere fiamme di fuoco, e dissolvere,
+e venire meno.  E alquanti non savi credono che sieno stelle, che
+caggino dal cielo e vengano meno...  Stando l'aere asciutto e
+secco, per lo calore s'infiamma lo vapore nell'aere, e corre lo
+vapore infiammato entro per l'aere>.  Cfr. ^Tesoro~, I, iii, 107. 
+Il paragone, felicissimo per s@e, perch@e, a ritrarre la velocit@a
+delle anime, richiama due de' pi@u veloci movimenti, e vorrei dire
+delle pi@u veloci apparizioni, che si conoscano, @e presentato in
+modo efficacissimo.  Non appena finite le parole di Virgilio,
+improvvisamente e gagliardamente s'impossessano della nostra
+attenzione i |vapori accesi~; dopo il brevissimo annunzio di un
+fatto insolito, raro (|non vid'io~), ecco il fatto stesso nella
+sua rapidit@a (|s@i tosto~), nell'ora sua propria (|di prima
+notte~), accompagnato da un'assai energica espressione di
+maraviglia (|mai~); eccolo mirabimente accadere (|fender
+sereno~).  E non basta; eccolo rinnovarsi assai pi@u rapidamente,
+in altra ora (|sol calando~), in altre condizioni (fender
+|nuvole~).  Ultima l'indicazione del tempo (|d'agosto~), pare
+aggiunta in fretta in fretta, come circostanza importante, non
+dimenticata, no, ma che non ha trovato prima il posto
+conveniente: le circostanze che la precedono, hanno occupato il
+posto loro, una dopo l'altra, con prontezza, con impeto, onde i
+molti incisi e le molte pause di questi vv., specialmente del
+secondo e del terzo.  -- |Di prima notte~: vive ancora. 
+^Giuliani~, ^Delizie~, I, 10: <Disse che, di prima notte, avrebbe
+fatto suonare le campane>.  Cfr. ^Par.~, XIV, 70.  -- |D'agosto~:
+concerne non solamente le nuvole, ma anche le stelle cadenti, le
+quali, direbbe ^Ristoro~, <s'infiammano stando l'aere asciutto e
+secco>.  Ristoro aggiunge: <E segno di questo si @e, che noi
+vedemo questo quando lo tempo @e secco, e specialmente l'autunno,
+e non vedemo questo lo verno, per lo tempo umido>.
+
+	|41.  A noi dier volta~: si volsero a noi, verso noi.
+
+	|42.  Scorre sanza freno~: corre sfrenatamente.  Cfr.
+^Guerra di Troia~, XV, 2: <Ettore... quinci e quindi scorrendo e
+combattendo per le schiere>.  Con questo ultimo paragone il poeta
+non vuol tanto lumeggiare la velocit@a delle anime, quanto il loro
+correre a schiera, tutte insieme.
+
+	|43.  Preme a noi~: ci vien sopra in calca.
+
+	|45.  Per@o~, per ci@o, |pur va~, prosegui senza fermarti. 
+Dante non poteva stare ad ascoltare le preghiere di tanti.  --
+|In andando, ascolta~: cfr. ^Purg.~, III, 104.
+
+	|46-48.~  Piene di maraviglia, le anime cominciano dalla
+cagione della loro maraviglia l'andata di un uomo vivo, in carne
+ed ossa, per la sede de' morti; l'andata a quella suprema
+letizia, che esse dovranno aspettare e bramare chi sa quanto
+tempo ancora: piene di desiderio, cominciano da lontano,
+gridando.  -- |Con quelle membra~ ecc.  Cfr. ^Inf.~, XXIII, 96. 
+Con grande cura, con sottile industria, Dante, costretto a
+ripeter pi@u volte la stessa cosa, la ripete ogni volta in modo
+nuovo.  -- |Un poco~: solo un poco.
+
+	|49.~  Cfr. ^Purg.~, III, 105.
+
+	|50.~  Cfr. ^Inf.~, XXXII, 111.
+
+	|51.~  E Dante non ^queta il passo~ {v.48}, non si ferma,
+anzi ^pur va~ {v.45}; e le anime lo supplicano in fretta e con
+ambascia: |deh~!... |deh~!...
+
+	|52.~  E procurano di indurlo manifestandosi.  |Per forza
+morti~: cfr. ^Inf.~, XI, 34.
+
+	|53-56.  Peccatori~ sino alla morte come Manfredi, e,
+come lui, pentiti all'ultim'ora e |pacificati con Dio~; cfr.
+^Purg.~, III, 118 segg.  Aggiungono che perdonarono ai loro
+uccisori; lo stesso dov@e fare Manfredi, ma non lo disse,
+incalzato da' ricordi e da altri pensieri.  -- |Quivi~:
+|all'ultim'ora.~  -- |Lume del ciel~: cfr. la stessa espressione
+nel son. ^Se vedi~; qui allude al <lume della grazia>,
+all'ispirazione celeste, per la quale, all'ultim'ora, queste
+anime si pentirono e perdonarono.
+
+	|57.~  <L'ultima e perfetta beatitudine non pu@o essere se
+non nella visione della divina essenza>; ^Somma t.~, I-II, 3. 
+Nel Purgatorio |il disio~ @e congiunto con la speranza (cfr.
+^Inf.~, IV, 42); perci@o non tormenta, non affligge, |accora.~
+
+	|58.  Per che~: per quanto.
+
+	|59-60.  Non riconosco alcun~: cfr. ^Inf.~, XVII, 54. 
+Non <umilmente si disdice> di aver mai visto |alcuno~ (^Purg.~,
+III, 109); ma subito, con delicato garbo, si offre a fare ci@o,
+che loro piaccia, pur con la restrizione ben naturale: |cosa, che
+io possa.~  -- |Spiriti ben nati~: cortesia per cortesia.  Cfr.
+^Inf.~, V, 7.
+
+	|61-63.  Voi dite, ed io far@o~: non potrebbe esser pi@u
+amabile: Ricorda la risposta di Eolo a Giunone, ^En.~, I, 76-77:
+<A te, regina...  Conviensi che tu scopra i tuoi disiri, Ed a me
+ch'io gli adempia>.  -- |Per quella pace~: cfr. ^Purg.~, III, 74. 
+Promette per ci@o, che pi@u gli sta a cuore; conferma che ^va per
+esser lieto~ (v. 46), ma, <con buona umilt@a>, rende alla |guida~
+l'onore, che le @e dovuto.  -- |Di mondo in mondo~: cos@i @e, ma,
+trasportate da altra cura, le anime non vi badano.  -- |Mi si
+face~: cfr. ^Inf.~, X, 61.
+
+	|64-65.~  @E una gara di gentilezza.  |Ciascun~: ognuno di
+noi.  Dante aveva detto: ^Non riconosco alcun~ {v.59}.  La voce
+batte su questo |ciascun~ e su |fida~, che segue.  -- |Del
+beneficio tuo~: del benefizio, che tu ci renderai.  |Sanza
+giurarlo~: Dante aveva promesso ^per quella pace~ {v.61} ecc.
+
+	|66.~  Pur che |nonpossa~, il non potere, non si opponga
+al volere.  Dante aveva detto: ^cosa ch'io possa~ {v.60}.  Cfr.
+^Purg.~, XXI, 105.  -- |Ricida~: cfr. ^Inf.~, VII, 100.
+
+	|67.  Solo~: prima avevan gridato tutti insieme (v. 47);
+e questi, |che parla innanzi agli altri~, ha affermato a nome di
+tutti: ^ciascun si fida~ {v.64}.
+
+	|68-69.~  Cfr. ^Inf.~, XXVIII, 74.  Il |paese~, che siede
+(cfr. ^Inf.~, V, 97) tra la |Romagna~ (^Inf.~, XXVII, 37) e |quel
+di Carlo~, il Regno di Napoli, @e la Marca d'Ancona; dalla Romagna
+lo separa il f. Foglia, dal Regno il Tronto (^Par.~, VIII, 63). 
+Era re di Napoli |Carlo~ ^II~ d'Angi@o, lo Zoppo; ^Par.~, VI, 106;
+VIII, 72.
+
+	|70-72.~  Che tu mi faccia la cortesia di pregare |in
+Fano~ (^Inf.~, XXVIII, 76), in modo che si dicano per me buone
+orazioni, le quali mi permettano d'entrare pi@u presto nel
+Purgatorio.  -- |Ben~: cfr. ^Purg.~, III, 141; IV, 133-134.  --
+|S'adori~: si preghi, frequente; cfr. ^Par.~, XVIII, 125.  -- |Le
+gravi offese~ recate a Dio, i peccati gravi; cfr. ^Purg.~, XIII,
+134.
+
+	|73.  Quindi~: di l@a, di Fano.  -- |Li profondi fori~:
+allude alle ferite, per cui mor@i, come per incidente; accenna e
+passa.
+
+	|74.  Io sedea~: parla l'anima, cfr. ^Purg.~, IV, 6.
+
+	|75.  In grembo agli Antenori~: nel territorio de'
+Padovani.  Secondo una leggenda antichissima, Antenore (^Inf.~,
+XXXII, 88) <fond@o la citt@a di Padova, e vi stabil@i i Troiani, e
+di@e il nome alla gente>; ^En.~, I, 247 segg.
+
+	|76.~  <Vedi giudicio uman come spesso erra!>.  Fu ucciso
+proprio |l@a~, dove |pi@u sicuro esser credea.~
+
+	|77-78.  Quel da Esti~: cfr. ^Inf.~, XXXII, 116.  Parla
+l'anima di Iacopo del Cassero.  Autorevole cittadino di Fano
+(cfr. ^Inf.~, XXVIII, 77), fu, nel 1288, tra quelli, che
+aiutarono i Fiorentini nella guerra contro Arezzo (cfr. v. 92;
+^Villani~, VII, 98); tenne la podesteria di Bologna nel 1296,
+quando il marchese d'Este Azzo VIII figliuolo di Obizzo (^Inf.~,
+XII, 111), con l'aiuto di Maghinardo da Susinana (^Inf.~, XXVII,
+50), invase il territorio bolognese.  Da allora, sembra, Azzo lo
+ebbe |in ira assai pi@u~ che non fosse giusto; e gi@a nel dicembre
+1296, si sapeva a Bologna che alcuni amici del marchese
+macchinavano di nuocergli quando avrebbe lasciato l'uffizio.  ^I.
+della Lana~ afferma: <Non li bastav'a costui fare de' fatti
+contro li amici del marchese, ma elli continuo usava villanie
+volgari contro di lui; ch'elli giacque con sua matrigna, e
+ch'elli erano discesi d'una lavandara di panni, e ch'elli era
+cattivo e codardo; e mai la sua lingua non saziavasi di
+villaneggiare di lui>.  Dal canto suo, se dobbiam credere a
+Benvenuto, Azzo lo chiamava <asino della Marca>.  Ma, dalle
+ingiurie al sangue, @e troppo gran tratto, sembra che sottintenda
+Iacopo, quando dice: |pi@u l@a che dritto non volea.~
+
+	|79-84.~  Eletto podest@a di Milano nel 1298, evitando le
+terre del marchese, Iacopo and@o per mare a Venezia, donde s'avvi@o
+alla volta di Padova; ma i sicari lo sopraggiunsero a |Oriaco~,
+Oriago, e l'uccisero.  Vivrebbe ancora, dice, nel 1300; sarebbe
+ancora nel mondo, l@a, |dove si spira~, (cfr. ^Inf.~, XXVIII,
+131); se fosse fuggito verso |la Mira~, il villaggio di Mira.  --
+Rapido il cenno della fuga: |corsi al palude~; pi@u lento quello
+della mala fortina toccatagli, |e le cannucce e il braco
+m'impigliar~, mette capo a un viluppo di suoni cupi, sordi,
+|ch'io caddi~; in fine, l'allusione agli ultimi momenti @e piena
+di malinconia, quasi egli si riveda boccheggiante in mezzo al
+proprio sangue, quasi compianga s@e stesso -- |vid'io, mie vene~?
+-- e veda di nuovo il sangue spandersi a |terra~, e, intorno a
+s@e, fare |un laco.~  Con questa imagine, alla quale danno rilievo
+la collocazione, l'accento, il suono largo, finisce il tragico
+racconto, come rotto dalla commozione.  Resta ancora nella chiesa
+di S. Domenico di Fano l'iscrizione posta a memoria dell'ucciso,
+sedici duri versi latini, di quelli, che si chiamavano
+concatenati-collaterali, la quale, sinora, non @e stata bene
+interpretata, forse perch@e non si @e avvertito che, con le parole
+^Cane~ e ^Cani~, allude a Mastino e ad Alberto della Scala di
+Verona (^Purg.~, XVIII, 21), di cui, secondo una chiosa antica,
+<Iacomo fue grande provixonato>.  Dopo le lodi dell'avo e del
+padre, l'iscrizione continua chiamandolo <il fiore ameno, il
+decoro e lo splendore, la rugiada e il sereno della patria>.  Il
+sole si ottenebra, l'Inferno si spalanca quando muore Iacopo del
+Cassero.  <L'infausta Atropos decret@o il lutto.  Le mura di Fano
+piangono, la virt@u fiaccata addita al Cane il suo dovere (di
+vendicare l'ucciso).  Oh se Eolo, soffiando, avesse respinto
+indietro la nave!  Andando a Padova, non sarebbe caduto su
+l'orrido confine.  Combatta Bologna, insorga Milano!  La gloria
+de' Cani si perde se essi non sperdono i delitti.  Nel 1298
+avvenne che quel valoroso duce miseramente venne alla Mira.  Qui
+giace; @e sepolto dove fu sempre col cuore.  Non gli venga dunque
+meno la madre di Dio, perch@e egli regni> (nel cielo).
+
+	|85-87.  Un altro~ spirito premette un augurio alla sua
+preghiera, che @e diversa da quella di Iacopo, perch@e non pu@o
+pregar Dante di pregar, in terra, che per lui <si adori>.  |Si
+compia~: sia soddisfatto.  -- |Con buona pietate, aiuta~ tu il
+|mio desio~ di salire |all'alto monte.~  Veramente |buona~ la
+piet@a verso uno sconosciuto, un estraneo.
+
+	|88.  Di Montefeltro~: cfr. ^Inf.~, XXVII, 29-30 n.  --
+|Bonconte~: figliuolo del conte Guido (ivi 73-75 n.), nel 1287,
+<col suo podere> aiut@o i Guelfi di Arezzo a cacciare i
+Ghibellini; nel 1288 fu con gli Aretini, che <misono> ai Senesi
+l'agguato ^al valico della pieve al Toppo~; ^Inf.~, XIII, 121,
+^Villani~, VII, 115, 120.
+
+	|89.  Giovanna~, la moglie di Buonconte, o |altri~
+congiunti non hanno |cura di lui~, non pregano n@e fanno pregar
+per lui; ecco perch@e si @e raccomandato alla ^buona pietate~
+{v.87} di Dante.
+
+	|90.~  Tutti gli altri della sua schiera avevano in terra
+chi si curava di loro; egli solo era dimenticato.  Non si
+lamenta, non rimprovera, dice solo, mestamente, come va tra gli
+altri.
+
+	|91-93.~  Cfr. ^Inf.~, V, 116 n., XXXIII, 19.  Anche una
+volta il poeta imagina quel, che nessuno |seppe mai.~  --
+|Ventura~: fortuna, caso.  -- |Campaldino~: presso Poppi nel
+Casentino.  Cfr. ^Inf.~, XXII, 5 e la n.  <Dalla parte delli
+Aretini fuorono morti molti nobilissimi e gentili valenti uomini,
+e quasi il fiore di tutta la migliore gente di Toscana in arme;
+ci@o fue messer Guiglielmino delli Ubertini vescovo di Arezzo ecc.
+e 'l conte ^Bonconte~ {v.88} da Montefeltro ecc. con altri assai
+gentili uomini, i quali per cento anni innanzi in Toscana non
+s'arebbono a uno tempo trovati>.  ^Pseudo-Brunetto.~  Questa
+battaglia raccontava Dante in una sua epistola, ora perduta, <e
+diceva esservi stato a combattere, e disegnava la forma della
+battaglia...  Esso medesimo scrive in una sua epistola: -- Dieci
+anni erano gi@a passati dopo la battaglia di Campaldino, nella
+quale la parte ghibellina fu quasi a tutto morta e disfatta, dove
+mi trovai, non fanciullo, nell'armi, e dove ebbi temenza molta,
+e, nella fine, grandissima allegrezza, per li vari casi di quella
+battaglia>, ^Bruni~, ^Vita di Dante.~ 
+
+	|94-96.~  I monti dell'|Apennino~, che chiudono il
+|Casentino~ (^Inf.~, XXX, 65), formano come un pentagono:
+dall'angolo pi@u settentrionale scende l'Arno (cfr. ^Purg.~, XIV,
+31), e lo percorre tutto, quasi per il mezzo, nella direzione di
+sud-est; dall'angolo nord-est nasce l'|Archiano~, un grosso
+torrente, che porta le sue acque all'Arno nella direzione di
+sud-ovest.  Dante dice |traversa~, con tutta esattezza.  Non
+proprio |sopra l'Ermo nasce~ l'Archiano, bens@i sopra la Badia a
+Prataglia; ma |sopra l'Ermo~ nasce un torrentello, il fosso de'
+Camaldoli, che raggiunge l'Archiano sotto Serravalle: forse, ai
+tempi di Dante, questo fosso era considerato come un tratto
+dell'Archiano.  -- L'|Ermo~, Eremo dei Gamaldoli, a 1112 m. di
+altezza, fu fondato da S. Romualdo (^Par.~, XXII, 49).  Per la
+forma, cfr. ^Garzo~, ^Proverbi~: <Ermo fa romita Laude per santa
+vita>; ^Guittone~, ^Lett.~, XXXVI: <Il mondo... molti ha, gi@a,
+de' chiostri e d'ermi tratti>.
+
+	|97.  Dove~ ecc.  Dove l'Archiano, entrando nell'Arno,
+perde il suo nome, vicino a Bibbiena.  Cfr. ^Inf.~, XVI, 99;
+^Tes. versificato~: <rivo, nome Martolese, Che corre poco e 'l
+suo nome perde Nell'Elsa>.
+
+	|98-99.  Il piano~, nel quale fu combattuta la battaglia,
+si stende a sinistra dell'Arno, <a pi@e di Poppi>.  Quasi nel
+mezzo di esso @e il convento di Certomondo, fondato dal conte
+Guido Novallo e da Simone suo fratello, dopo che i Ghibellini
+ebbero vinto all'Arbia (^Inf.~, X, 86); e proprio intorno a quel
+convento, dopo ventinove anni, i Guelfi vendicarono la loro
+grande sconfitta.  Buonconte, |fuggendo~, percorse un gran tratto
+del |piano~, per |arrivare~ al confluente dell'Archiano con
+l'Arno.  -- |Forato nella gola~ (cfr. ^Inf.~, XXVIII, 19),
+|fuggendo a piede, sanguinando il piano~, sono le circostanze pi@u
+importanti del fatto, sobriamente indicate senza rammarico, senza
+rimpianto; eppure si prova un vivo senso di compassione. 
+Uccisogli sotto il cavallo, vista perduta la battaglia fugge il
+cavaliere ferito, tutto coperto di ferro; fugge a |piede~, e il
+sangue, che gli cola dalla ferita, lascia dietro a lui la traccia
+rossa del passaggio, lunga lunga, dal luogo della mischia alla
+foce dell'Archiano.  Le impressioni del narratore trapelano dal
+tono delle sue parole, forte, ma pieno di sgomento a |forato~,
+rapido a |fuggendo~, assai largo e lento a |sanguinando~; dalla
+improvvisa sosta, ch'egli fa a quell'umile particolare: |a
+piede.~
+
+	|100-102.~  Prosegue sereno, quasi non parli di s@e, della
+propria morte; ma il racconto, tre volte interrotto in tre versi;
+@e ripreso ogni volta con un po' di sforzo, |e~... |e~... |e.~ 
+Non vide pi@u, e non pot@e pi@u parlare, e cadde, e mor@i.  |Maria~
+fu l'ultima parola, che riusc@i a pronunziare; nel supremo
+istante, il suo pensiero si rivolse a Maria, invocandola.  Dopo
+|caddi~, efficacissimo, il resto del v. si distende pian piano,
+lentissimo.  -- |La mia carne, sola~: il corpo inanimato; parla
+l'anima (cfr. v. 74) e torna a provare quel, che prov@o, quando si
+trov@o sciolta dal corpo, e vide giacere disteso per terra il ^suo
+corpo vano~ (^Inf.~, XX, 87) immobile, insensibile, la |sua
+carne~... |sola.~  Questo |sola~ par aggiunto a |carne~ e, in
+ultimo, al verso, quasi a malincuore, per effetto di riflessione;
+e come la voce dello spirito, cos@i l'attenzione nostra vi si
+trattiene.  @E una parola, ma suscita tante imagini e idee
+accessorie, malinconicamente.
+
+	|103.  Io dir@o vero~; ma questo |vero~, ^ha faccia di
+menzogna~ (^Inf.~, XVI, 124), onde l'esortazione: |e tu 'l ridi',
+tra i vivi~; ridillo sicuramente, senza dubitare, senza esitare,
+perch@e |vero~ @e.
+
+	|104-105.~  Gi@a |quel~, l'angelo |d'Inferno~, uno degli
+<angeli neri> (^Inf.~, XXIII, 131), uno de' <neri cherubini>,
+aveva conteso a S. Francesco l'anima del padre di Buonconte, e
+l'aveva guadagnata; ^Inf.~, XXVII, 113 segg.  Questa volta, egli
+era vinto, egli perdeva.  Tacque S. Francesco alle ragioni del
+diavolo; non tacque il diavolo, che si vide sottrarre la preda
+agognata, aspettata.  Non tacque, anzi |gridava~, e per poco la
+sua apostrofe non fu un'ingiuria: |O tu del ciel~!  E il
+risentimento e la rabbia gli ruppero in bocca le parole: |perch@e
+mi privi~?
+
+	|106-108.~  Ma che gli giov@o gridare?  Che gli giov@o
+invocare il suo diritto?  Mentre egli gridava e protestava,
+l'angelo se ne port@o via l'|eterno~, l'anima di Buonconte,
+immortale.  Vinto senza neppure combattere, scornato, versa tutto
+il suo dispetto in un motto, che vorrebbe essere di disprezzo, di
+dileggio: |per una lagrimetta~!  E subito si volge alla vendetta;
+far@a |dell'altro~, del corpo, |aspro governo.~  Misera vendetta,
+troppo scarsa soddisfazione!  -- |Per una lagrimetta~: cfr. ^Fra
+Giordano~, IV: <Qui, cio@e in questo mondo, solo una lagrima, che
+vegna di buon cuore, di contrizione di suoi peccati, @e di grande
+virtude; che spegne e disf@a il peccato, e quanti n'avessi, e
+scampati dalle pene dell'inferno, e merita vita eterna>.  Questa
+idea <eminentemente cattolica>, ingrandita, esaltata dalla fede,
+fu, nel M. Evo, il tema di numerosi racconti, i ^Miracoli della
+Madonna~, dai quali, come pare, ebbe Dante l'ispirazione
+dell'episodio di Buonconte.  A Maria a punto s'era rivolto il
+moribondo; ultima sua parola fu ^Maria~ {v.101}.  E ne'
+^Miracoli~ non sono infrequenti i contrasti tra angiolo o santo e
+diavolo, per l'anima del peccatore, che si salva per l'aiuto
+della Madonna.  P. e., il monaco segretario del convento, fu
+gettato dal diavolo in un fiume, di notte, mentre era in peccato
+mortale, e <subito l'anima di lui fu ghermita da una moltitudine
+di demoni, che bramavano di portarla nel baratro.  Ma, per la
+piet@a divina, accorsero gli angeli, pel caso che gli potessero
+recare qualche aiuto.  Al loro giungere, dissero i demoni,
+arrogantemente: -- A che siete venuti qui?  Nulla di quest'anima
+vi appartiene, perch@e di diritto @e concessa a noi per le sue male
+opere.  Udendo ci@o, erano molto tristi i santi angeli, perch@e non
+avevano abbastanza di bene da opporre.  Ed ecco, d'un subito,
+venne la santa genitrice di Dio, e liberamente disse a que'
+demoni: -- Perch@e, spiriti pessimi, v'impadroniste di questa
+anima?  -- Perch@e trovammo che consum@o la vita in opere malvage. 
+Ed ella, di contro: -- @E falso ci@o, che asserite.  Io so,
+infatti, che, dovunque andasse, ne chiedeva a me licenza,
+salutandomi, e lo stesso faceva al ritorno...  E mentre cos@i
+altercavano tra loro, piacque al nostro Signore, per i meriti
+della sua santissima madre, che l'anima tornasse al corpo per
+farvi la penitenza delle sue colpe>.
+
+	|109-111.~  Passa Buonconte a raccontare la vendetta del
+diavolo.  |Ben sai~: certamente Dante sapeva come il vapore, per
+freddo, ridiventa acqua; ma Buonconte gli richiama alla mente
+questa nozione elementare ed ovvia, perch@e sta per raccontargli
+di una pioggia non prodotta da cause naturali, secondo leggi
+naturali.  |Umido vapor~: il vapore acqueo, cfr. ^Inf.~, XXIV,
+4-5 n.  -- |In acqua, riede~: acqua era prima.  -- |Dove il
+freddo il coglie~: alla <tonica fredda> dell'aria.
+
+	|112-114.~  Il |fummo~, vapore acqueo, e il |vento~,
+vapore aereo (cfr. ^Inf.~, III, 135 n. e XXIV, 145 n.) sono due
+diversi <elementi> (gli altri due sono fuoco e terra): or <gli
+elementi sono contrarii l'uno all'altro, e ciascheduno ha natura
+di dilungarsi dall'altro...  Adunque, secondo la via degli
+elementi, non troveremo n@e vento, n@e pluvia, n@e grandine ecc. n@e
+nullo altro accidente se non per lo movimento e per la virt@u del
+cielo e delle sue istelle, che il muovono e mettono insieme... e
+non si possono mescolare insieme, se non li mescola lo movimento
+e la virtude del cielo e delle stelle>.  ^Ristoro~, VII, 4; cfr.
+^Conv.~, II, 5; III, 6.  Ma il demonio, |quel mal voler, che
+pur~, solo, il |mal chiede~, per fare <aspro governo> del corpo
+di Buonconte, fece quella volta ci@o, che, nell'ordine naturale,
+fanno le stelle; |giunse~, un@i, adun@o, e |mosse~ il vapore acqueo
+e il vapore aereo, |il fummo e il vento~; |giunse e mosse con lo
+'ntelletto~, sostituendo il suo intelletto alle intelligenze, che
+<conducono> le stelle (^Inf.~, VII, 74, ^Conv.~, II, 5), la
+|virt@u~ della |sua natura~ alla virt@u delle stelle. <Gli angeli
+buoni e i cattivi possono qualche cosa operare nelle cose
+corporee fuori dell'azione de' corpi celesti, condensando le nubi
+in piogge e simili>.  ^Somma t.~, I, 112.  -- |Giunse~: cfr.
+^Purg.~, XXXII, 57; ^Albertano~, 66: <Se giungerai l'uso
+all'arte>.  ^Ristoro~, VI, iv, 3: <Ciascheduno elimento torner@a
+al suo luogo, se altre virtudi non fussono... che per forza li
+adunasse>.  |Quel mal voler~: cfr. ^Inf.~, XXIII, 16 n.  -- |Pur
+mal chiede~: solo il male.  Cfr. ^Somma t.~, I, 64, 2: <La
+volont@a dei demoni @e ostinata nel male>.  -- |E mosse~ ecc. 
+^Ristoro~, VII, 4: <Potemo dire per ragione ch'egli sia virtude
+nel cielo, la quale ha in s@e di fare e di muovere e d'impulsare
+lo vento>.  -- |Per la virt@u~ ecc.  Mediante |la virt@u~ ecc. 
+Cfr. ^Somma t.~, I, 90: <Quando i demoni fanno alcuna cosa per la
+loro virt@u naturale>; <quel, che fa l'angelo o qualunque altra
+creatura per la propria virt@u>.  ^Conv.~, III, 6: <^Ogni
+'ntelletto di lass@u la mira~.... per quella virtute, la quale @e
+massimamente in quelle menti angeliche, che fabbricano col cielo
+queste cose di quaggi@u>.  Non sar@a inutile ricordare che, secondo
+^S. Agostino~ e ^S. Tommaso~ (^Somma t.~, I, 64), i demoni stanno
+parte nell'Inferno, parte <nell'aere caliginoso>.
+
+	|115-116.  Come il d@i fu spento~: cfr. ^Purg.~, VIII, 6. 
+Il ^Compagni~, I, 10, dice che il giorno della battaglia <l'aria
+era coperta di nugoli>.  -- Tutta |la valle coperse di nebbia~,
+il demonio, tutto il Casentino, perch@e |Pratomagno~ si eleva
+dalla catena, che lo separa dalla Toscana, a sud-ovest, e il
+|gran giogo~ (Poggio Scali) dalla Giogana, catena opposta a
+quella, che lo separa dalla Romanga a nord-est.
+
+	|117-120.  E, di sopra~, sopra alla valle e sopra alla
+nebbia, il demonio |fece~ cos@i |intento il cielo~, ammass@o in
+cielo tante nuvole, che |l'aer pregno~, pieno, |si converse~, si
+mut@o |in acqua.~  Uno de' significati del lat. |intento~ @e quello
+di addensare, infittire, far pi@u fitto.  -- |Il pregno aer~ ecc. 
+Cfr. ^Ristoro~, VI, 13: <Per la virtude del luogo di quella
+congiunzione di stelle potenti, parr@a che ogni cosa si converta
+in acqua... e l'aire si convertir@a in acqua, e parr@a che 'l cielo
+si faccia tutto acqua e ve gnane in terra>.  ^Pseudo-Brunetto~:
+<Essendo pregna la citt@a di Firenze di molte diverse e variate
+macule>.  -- |Ci@o, che di lei~, quella parte dell'|acqua, che la
+terra non sofferse~, non ricevette dentro di s@e, non bevve,
+|venne a' fossati.~  Cfr. ^Virgilio~, ^Georg.~, I, 322-326:
+<Spesso un immenso rovescio di acque viene dal cielo, e orribile
+tempesta ammassano in neri nembi le nuvole raccolte dall'alto;
+l'alto cielo precipita e versa un diluvio di pioggia sopra i
+campi lieti e i lavori de' buoi; le fosse si empiono e i profondi
+fiumi si gonfiano>.  Se Dante conobbe questi versi, li spogli@o di
+tutti gli aggettivi, di tutti i traslati, di tutte le imagini non
+strettamente congiunte col fenomeno naturale descritto.
+
+	|121-123.~  Con la stessa precisione di particolari, con
+cui ha mostrato come il temporale fu preparato e scoppi@o, e con
+altrettanto ordine, indica il passare del soperchi@o delle acque
+dalla terra ai <fossati> dai <fossati> ai |rivi grandi~, da
+questi al |fiume.~  Acquistando, man mano, maggior volume,
+maggior forza, la pioggia ^ai fossati venne~ {v.119}, |ai rivi
+grandi si convenne~, al |fiume si ruin@o~ velocissima e
+impetuosissima.  Ricordo che il Casentino @e tutto solcato di
+<fossi>, <rii>, torrenti; cfr. ^Inf.~, XXX, 64-66 n.  Qui la
+descrizione si fa pi@u animata, l'andamento de' versi pi@u spedito,
+il tono pi@u alto per la collocazione e pel suono di |come~,
+|ver~, |fiume~, |tanto~, |ruin@o~, |nulla.~  Con l'imagine e col
+suono, |tanto veloce si ruin@o~ (|ru-i-n@o~) rappresenta la
+precipitosa e fragorosa discesa -- delle acque; |nulla~ rileva,
+fortemente percosso dall'accento, la violenza di esse.  -- |Lo
+fiume real~: l'Arno, che porta le acque direttamente al mare. 
+Cfr. ^Villani~, I, 43: <Questa provincia di Toscana ha pi@u fiumi;
+intra gli altri, reale e maggiore si @e il nostro fiume d'Arno>.
+
+	|124-129.~  Pu@o parere che per troppo tempo Buonconte si
+sia dimenticato del suo |corpo~, e un po' troppo si trattenga a
+descrivere il temporale e la piena, ritardando la risposta alla
+domanda di Dante (vv. 91-93); ma quel temporale non fu uno dei
+soliti, e il demonio lo produsse per vendicarsi della perdita
+dell'anima di lui, e un degli effetti di esso fu che l'Archiano,
+in piena, si port@o via il |corpo.~  -- |Gelato~: dalla morte.  Da
+tutta l'espressione: lo |corpo mio gelato~ traspira un senso di
+commiserazione; |gelato~ pare aggiunto al modo stesso di ^sola~
+nel v. 102.  -- |Trov@o~: comincia una nuova serie di particolari
+esattamente colti ed ordinati, efficacemente messi in rilievo:
+|trov@o~, |sospinse~, |sciolse~, |voltommi~, |coperse~, |cinse.~ 
+A |trov@o~: semplice e solo, segue l'impeto di |sospinse~
+l'energia di |sciolse~; a un v. tutto d'un pezzo, che bisogna
+pronunziare senz'alcuna interruzione, che rappresenta anche col
+suono il moto vorticoso del fiume furibondo: |voltommi per le
+ripe e per lo fondo~; segue un v. spezzato in tre parti, che
+rappresenta il fiume quasi in atto d'accumulare in fretta e con
+rabbia, sopra e intorno a quel misero corpo, la |sua preda~,
+terra, sassi, rami: |poi, di sua preda, mi coperse e cinse.~ 
+Trova quiete, alla fine, il corpo, e tace l'anima di Buonconte,
+lasciandoci sotto l'impressione dello scatenarsi e imperversare
+degli elementi, con la violenza a cui nulla resiste.  --
+|Rubesto~: tale l'aveva fatto la piena, cfr. ^Inf.~, XXXI, 106. 
+-- |Sciolse~: pentito, col nome di Maria su le labbra, aveva
+stretto le braccia al petto, in croce, nell'atto di chi si
+confessa colpevole, e prega fervidamente e si raccomanda; contro
+le braccia, contro |la croce~ doveva con particolar cura ed ira
+adoperare le sue forze l'Archiano, strumento del demonio.  --
+|Quando il dolor mi vinse~: cfr. ^Purg.~, III, 119-120.
+
+	|130.~  Cfr. ^Inf.~, XXVIII, 74; non c'@e, qui, il dubbio
+di P. da Medicina: ^se mai torni.~  |Deh~: cos@i Buonconte, v. 84;
+cfr. v. 51.
+
+	|131.~  Alla certezza del ritorno di Dante ^al mondo~
+{v.130}, si aggiunge un pensiero delicatissimo, come quello di
+France sca, ^Inf.~, V, 91-92.  Non, forse, parla l'anima di una
+donna?  S'indugia la voce gentile a |riposato~, s'indugia a
+|lunga via.~
+
+	|132.  Secondo~ spirito quello di Buonconte, primo quello
+di Iacopo del Cassero.
+
+	|133.~  Come Buonconte, ^il terzo spirito~ {v.132} non ha
+chi si curi di lui in terra (v. 89). e perci@o si raccomanda a
+Dante (v. 87): ^quando tu sarai~ {v.130}... |ricorditi di me.~ 
+-- |Son la Pia~: l'anima di una donna @e, infatti, e, con
+femminile riserbo, si avvolge di mistero; |la Pia~, niente altro.
+
+	|134.~  N@e aggiunge molte notizie della sua vita.  Nata a
+|Siena~, mor@i in |Maremma~: semplice e breve vita, anzi quasi
+tutt'uno la nascita e la morte.  Cfr. ^Inf.~, VI, 42.
+
+	|135-136.~  Non le duole la morte, ma il modo della
+morte, che non rivela: |salsi~, se lo sa, lo sa bene |colui~, e
+basta.  -- Ma |colui~ fu quello stesso, che, |con la sua gemma,
+disposando, l'aveva innanellata~: fu il marito, e a questa
+circostanza si trattiene pi@u che a tutte le altre, pur tacendo il
+nome di |colui.~  Si trattiene, ed @e commossa, e, mentre cerca di
+dominare la commozione, le parole le escon di bocca interrotte,
+quasi ad una ad una -- |salsi colui~... |che inanellata~...
+|pria~... |disposando~... |m'avea~... -- sinch@e il segreto del
+suo accoramento, della sua mestizia, le sfugge involontariamente:
+|con la sua gemma.~  Il ricordo dolce: |inanellata disposando~, @e
+turbato dall'amarezza: |pria~!  Quello che, prima, inanellandomi,
+s'era legato a me per sempre; quello stesso, dopo, mi fece
+morire.  |Sua~ @e insieme rimprovero e lamento.  -- La Pia, la
+quale, non si dimentichi, @e tra ^i morti per forza~ (v. 52),
+ricorda espressamente l'atto, col quale il marito si era legato a
+lei per tutta la vita, perch@e egli, e in modo crudele, ruppe il
+nodo.  L'|inanellata disposando~ di Dante traduce una formola,
+che s'incontra spesso ne' documenti, negli statuti e negli
+scrittori del M. Evo.  Un documento ravennate del 1298 pubblicato
+da ^L. Muratori~ nella ^Romagna~ (1913): <Il predetto Francesco
+la prefata signora Clara quale sua moglie legittima con l'anello
+d'oro dispos@o> (^cum annulo aureo disponsavit~).  In Toscana si
+diceva <mettere> o <dare l'anello>.  Cfr. ^Barberino~, ^Regg.~,
+V, 2: <Ma non vi lascio del d@i dell'anello, Quando si dicon le
+parole, c'hanno A fare intero il matrimon tra loro.  Che qui
+conviene a lei (alla sposa) esser temente E vergognosa...  Le man
+non porga a colui, che la tiene, Quando l'anello a lei si dona;
+Ma prima aspetti che, quasi sforzata, La man sia presa..>.  Male,
+dunque, s'@e voluto leggere ^disposata~ nel v. 136, e intendere
+che la Pia fosse stata |inanellata~ da un altro |pria~ che
+^disposata~ da |colui~, del quale si lamenta: ^disposare~ e
+^inanellare~ erano atti immediatamente congiunti l'uno all'altro. 
+Oltre a ci@o, <|disposando~ @e lezione non solo della maggioranza
+de' codici; ma altres@i comune ai pi@u antichi testi a penna e ai
+commentatori trecentisti>.  ^Barbi~, nel ^Bull. d. Soc.
+dantesca~, I, 60.
+
+	La Pia Tolomei fu moglie di Nello della Pietra de'
+Pannocchieschi, un signorotto della Maremma (^Inf.~, XXV, 19;
+XXIX, 48).  Alcune chiose antiche (^Bull.~, cit.) aggiungono che
+questi, volendo sposare la contessa Margherita vedova di Guido di
+Montfort (^Inf.~, XII, 119 e la n.), con la quale aveva illecite
+relazioni, uccise di propria mano la Pia, o la fece uccidere <da
+uno, ch'ebbe nome il Magliata di Piombino>.  Il delitto pare
+avvenuto verso il 1294.  -- Nello fu capitano della <taglia>
+guelfa di Toscana nel 1285: ebbe dalla contessa Margherita un
+figliuolo, del quale resta l'epitaffio nel duomo di Massa, con la
+data del 1300.

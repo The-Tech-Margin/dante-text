@@ -1,0 +1,1317 @@
+	|Proemio.~  ^Incipit prima cantica Comedie Dantis.~  In
+ista prima cantica autor tractat de peccatoribus et peccatis, et
+in ea secundum rationem humanam penas peccatis adaptat.  Continet
+autem ista prima cantica XXXIIII+or~ cantus; cuius primi cantus
+titulus talis est:
+
+     ^Incipit primus cantus prime cantice Comedie.~
+
+	In isto primo cantu autor prohemizat ad totam
+universaliter et generaliter Comediam, et ponit in hoc cantu
+principaliter duo: Primo, quomodo ipse volens ad montem virtutum
+ascendere, fuit a tribus vitiis impeditus, scilicet a luxuria,
+superbia et avaritia; que quidem vitia figurantur et designantur
+per tres feras que sibi apparuerunt, scilicet per lonzam, leonem
+et lupam.  Secundo, ponit quomodo Virgilius, maximus poetarum, in
+auxilium suum venit, qui tenet typum et figuram rationis humane,
+qua mediante promittit sibi ostendere Infernum et Purgatorium. 
+Sed quia ad divina et celestia contemplanda humana ratio non
+potest attingere, ideo promittit ei non per se, sed per celestem
+ductorem sive ducem, ostendere Paradisum.  Viso titulo, licteram
+indagemus.  Sed nota quod non est mea intentio procedere in hoc
+opere in omni passu vel loco more sermocinalis, seu naturalis,
+seu moralis scientie, singulariter et multipliciter dividendo,
+sed insistere circa licteram cuiuslibet scilicet cantus, summam
+summarie declarando, et demonstrando per quemlibet cantum qualem
+viam autor descendendo vel ascendendo facit, quot historias, quot
+questiones ac etiam prophetias, cum occurrerint, et quot
+comparationes sive similitudines ac etiam notabilia ponit.
+
+	In isto primo cantu continentur unum vaticinium sive
+prophetia {*vv. 100-105*}, tres istorie {*vv. 106-108*}, due
+comparationes {*vv. 22-27; 55-57*} et unum notabile {*vv.
+97-99*}.
+
+	|Deductio textus de vulgari in latinum.~
+
+	Anno enim Domini MCCC+o~ quo scilicet anno fuit
+Rome generalis remissio omnium peccatorum, sedente in Sacrosancta
+Sede Romana Bonifatio papa VIII+o~, sacro autem Romano vacante
+Imperio, de mense Martii, die veneris sancti, hoc est illa die
+qua mortuus fuit Christus, in aurora iste poeta more poetico
+fingit se istam Comediam, hoc est universa que continentur in ea,
+in visione vidisse.  Unde ait in textu:
+
+     Nel mezzo del cammin di nostra vita 
+
+                        (^Inf.~ I. 1)
+
+	Medium namque vite humane, secundum Aristotilem, somnus
+est.  Quod autem in aurora suas ceperit visiones videre, patet
+per textum ibi: <Temp'era dal principio del matino>.  Quod vero
+de mense Martii fuerit istud quod dicit, patet per illud quod
+immediate subsequitur:
+
+     e 'l sol montava su con quelle stelle
+     ch'eran con lui quando l'amor divino
+     mosse da prima quelle cose belle.  
+
+                        (^Inf.~ I. 38-40)
+
+Amor enim divinus, quando in creatione mundi primum fecit celum
+et astra moveri, tunc sol erat in signo Arietis.  Et in istud
+signum semper intrat quartodecimo Kalendis Aprilis, idest
+decimonono die mensis Martii, quo die creavit Deus celum et
+terram, secundum quod Romana tenet Ecclesia.  Sed quod die
+veneris sancti, idest tali die qua Christus passus est, hanc
+habuerit visionem, demonstrat infra, cantu XXI+o~, dicens:
+
+     Ier, pi@u oltre cinque ore che quest'octa {otta}.
+     mille dugento con sesanta sei,
+     anni compi@e che qui la via fu rotta.  
+
+                        (^Inf.~ I. 112-114)
+
+Nam die veneris sancti, hora scilicet nona, qua Christus in cruce
+moriens expiravit, petre scisse sunt, ut sacra evangeliorum
+testatur ystoria.  Incipiens autem universa que vidit per ordinem
+enarrare, dicit quod in medio itineris nostre vite, hoc est in
+somno, invenit se in una silva obscura, que mundi errores et
+vitia prefigurat.  Et assignat causam quia a recto itinere
+deviarat, quod quidem rectum iter viam significat virtuosam.  Que
+autem et qualis fuerit ista silva, subiungendo declarat dicens:
+
+     Et quant'a dir qual era @e cosa dura,
+     esta selva selvagia et aspra et forte
+     che nel penser rinnuova la paura.  
+
+                        (^Inf.~ I. 4-6)
+
+	Hoc est, dicere de ista silva quanta et qualis sit, est
+arduum et difficile.  Sed tantum dico de ipsa quod adeo est
+aspra, silvestris et dura, quod quando recordor, etiam in illo
+cogitamine rennovat michi timorem pariter et pavorem.  Concludit
+autem omnia que in ista silva conspexit et sensit, que quidem
+enarrare non potest uno solo verbo, dicens:
+
+     Tant'@e amara che poco @e pi@u morte;
+     ma per tractar del ben ch'i' vi trovai
+     dir@o dell'altre cose ch'i' v'@o scorte.  
+
+                        (^Inf.~ I. 7-9)
+
+Hoc est: tantum est amara ista silva, quod ipsa mors, que est
+amarior omni amaritudine, modicum amarior esse censetur.  Sed ut
+enarraret nobis bona que elicere inde potuit, promittit se
+dicturum de aliis rebus quas ibidem esse conspexit.  Causam autem
+quare universa que vidit in ista silva narrare non potest
+assignat, dicens:
+
+     I' non so ben ridir com'i' v'entrai,
+     tant'era pien di sonno in su quel punto
+     che la verace via abandonai.  
+
+                        (^Inf.~ I. 10-12)
+
+Hoc est in illo punto in quo ego deserui viam rectam, [in] tantum
+eram gravi sopore gravatus, quod ego nescio dicere mee principia
+visionis.  Ambulans vero autor, sive potius devians atque errans
+per confusionem istius silve, tandem ad radicem unius collis
+devenit, ad quem habet terminum ista vallis, que timore horribili
+vulneraverat cor ipsius.  Et tunc oculos elevavit ad montem quem
+illius planete, qui omnem hominem per omnem callem via recta
+deducit, vidit radiis coopertum.  Unde ait in textu:
+
+     Ma po' ch'i' fu' al pi@u d'un colle giunto,
+     l@a dove terminav'a quella valle
+     che m'avea di paura il cor compunto,
+     guardai in alto et vidi le sue spalle,
+     vestite gi@a de' raggi del pianeta
+     che mena dricto altrui per ogni calle.  
+
+                        (^Inf.~ I. 13-18)
+
+	Et tunc ille timor, qui in lacu duraverat sui cordis,
+propter obscurum transitum quem de nocte fecit, que quidem nox
+nil aliud sonat quam horribiles tenebras que obscurant et
+horrificant illam silvam, quia ibi nullus dies sed perpetua nox
+est, viso monte clarissimis radiis illustrato, fuit aliquantulum
+qietatus.  Et nota quod dicit aliquantulum et non totaliter quia
+accidit sibi sicut solet accidere naviganti, qui postquam evasit
+pericula maris et ad ripam descendit, pre timore nondum digesto
+adhuc habet anelitum fatigatum, et cum tali anelitu, statim quod
+de navi descendit, se vertit ad marina pericula que evasit.  Unde
+ait in textu:
+
+     Allor fu la paura un poco queta
+     che nel lago del cor m'era durata
+     la nocte ch'i' passai con tanta pieta.
+     Et com'@e quei che con lena affannata,
+     uscito fuor del pelago a la riva,
+     si volve a l'aqua perigliosa et guata, 
+
+                        (^Inf.~ I. 19-24)
+
+	Posito exemplo nautarum, dicit quod animus suus, qui
+adhuc illa pericula silvestria fugiebat, se retro convertit ad
+revidendum passum quem nunquam evasit persona aliqua certe
+vivens.  Quasi dicat: Ego me verti {^Br.~ converti} ad
+considerandum et ymaginandum peccata et scelera que reliqui, que
+quidem nullus vivens evadere potest, quia non est qui vivat et
+non peccet.  Ideo ait in textu:
+
+     Cos@i l'animo mi' c'ancor fuggiva,
+     si vols'a dietro a rimirar lo passo
+     che non lasci@o giammai persona viva.  
+
+                        (^Inf.~ I. 25-27)
+
+	Posita autor evasione silvana, ponit quod postquam ad
+radicem montis applicuit duo fecit: primum est quod aliquantulum
+fesso corpori pausam dedit; secundum est quod, corpore recreato,
+reincipit aggredi operibus illam viam deserte ripe, quam prius
+incipere animo cogitabat.  Quem vero modum in ascendendo
+tenuerit, demonstrat dicens quod pes inferior firmior semper
+erat.  Et hoc est quod ait in textu:
+
+     Poi ch'@ei posta'un poco 'l corpo lasso,
+     ripresi via per la piaggia diserta,
+     s@i che 'l pi@e fermo sempr'era il pi@u basso.  
+
+                        (^Inf.~ I. 28-30)
+
+	Et ecce, dum sic gradiens versus illius montis se
+altitudinem autor sullevaret, in principio quasi ripe una lonza
+levis et compta multum, que tota diversis erat maculata
+coloribus, sibi apparuit a sua facie non recedens, imo tantum
+suum iter quod inceperat impedivit, quod ipse fuit pro
+retrogradiendo pluribus vicibus fere versus.  Sed quia iam noctis
+tenebre recedebant et aurora surgebat, videns illas prefulgidas
+stellas que in societatem Arietis ascendebant, cepit ex tali
+visione aliquantulum confortari, et contra illam bestiam vigore
+spiritus roborari.  Et hoc est quod intendit in textu ibi:
+
+     Et ecco, quasi al cominciar dell'erta,
+     una lonza legera et presta molto,
+     che di pel maculato era coverta;
+     et non mi si partia dinanzi al volto,
+     anz'impediva tanto il mio cammino,
+     ch'i' fui per ritornar pi@u volte volto.
+     Temp'era dal principio del mattino,
+     e 'l sol montava in su con quelle stelle
+     ch'eran con lui quando l'amor divino
+     mosse da prima quelle cose belle;
+     s@i c'a bene sperar m'era cagione
+     di quella fiera la gaietta pelle,
+     l'ora del tempo, et la dolce stagione; 
+
+                        (^Inf.~ I. 31-43)
+
+Quasi dicat: Sol qui iam ab inferiori emisperio ad nostrum
+superius emisperium ascendebat, et aurora, que ipsum preibat,
+michi contra illam feram deceptibilem et fraudulentam fiduciam
+ministrabant, sed non tantam quod timorem michi non daret etiam
+unus leo qui contra me cum capite elevato et fame rabiosa tam
+velociter veniebat, quod aer inde contremiscere videbatur.  Ideo
+in textu inmediate subsequitur:
+
+     ma non s@i che paura non mi desse
+     la vista che m'apparve d'un leone.
+     Questi parea che contra me venesse,
+     con la test'alta et con rabiosa fame,
+     s@i che parea che l'aer ne temesse.  
+
+                        (^Inf.~ I. 44-48)
+
+	Positis autor impedimentis que a lonza sustinuit et
+leone, ad enarrandum tertium manum mittit, dicens quod una lupa,
+que onerata omni aviditate et fame in sua macilentia videbatur,
+et que multas gentes fecit iam vivere luctuosas, tantum sibi
+gravaminis irrogavit, quod ipse autor spem perdidit quam habebat
+ad illam altitudinem saliendi.  Unde ait in textu:
+
+     Et una lupa, che di tutte brame
+     semblava carca ne la sua magrezza,
+     et molte genti fe gi@a viver grame,
+     questa mi porse tanto di gravezza
+     con la paura c'uscia di sua vista,
+     ch'i' perde' la speranza dell'altezza.  
+
+                        (^Inf.~ I. 49-54)
+
+	Qualiter autem ex visione illius lupe autor fuerit
+contristatus, exemplificando subiungit dicens quod, quemadmodum
+ille qui libenter lucratur, vel aliquid aliud voluntario et
+ardenti animo operatur, cum tempus sue intentioni contrarium
+appropinquat in suo corde medullitus contristatur, sic eodem modo
+fuit ipse ad visionem illius bestie contristatus; et hoc totum
+quia illa bestia sine pace, sibi obviam veniendo, paulatim
+paulatim impellebat ipsum ad illam obscuram silvam, ubi splendor
+et presentia solis tacet.  Et hoc est quod resonant verba textus:
+
+     Et qual @e quei che volontieri acquista,
+     et giugne il tempo che perder lo face,
+     che 'n tutti i suo' pensier piange et s'attrista;
+     tal mi fece la bestia senza pace,
+     che, venendomi 'ncontro, a poco a poco
+     mi ripingeva la'dove 'l sol tace.  
+
+                        (^Inf.~ I. 55-60)
+
+	Dum autem sic ruendo reverteretur ad yma, ante suos
+oculos quidam se obtulit, qui videbatur quod propter longum
+silentium esset raucus.  Quem cum vidisset autor, suspirando
+clamavit: <Miserere mei, quicumque tu es, vel umbra vel homo
+certus>.  Unde ait in textu:
+
+     Mentre ch'i' ruinava in basso loco,
+     dinanzi alli occhi mi si fu offerto
+     chi per lungo silentio parea fioco.
+     Quand'i' vidi costui nel gran diserto,
+     <Miserere di me>, gridai a lui,
+     <qual che tu sii, od ombra od omo certo>.  
+
+                        (^Inf.~ I. 61-66)
+
+	Rogatus iste qui apparuit ab autore, manifestat se esse
+Virgilium per quinque signa; sed primo respondet dubitationi
+autoris.  Dubitabat enim autor utrum iste qui sibi apparuit esset
+verus homo in corpore vivens, an esset anima a corpore separata. 
+Cui dubitationi respondens ait: <Non homo> -- subaudi sum, quia
+homo componitur ex anima et corpore -- <sed sum anima a meo olim
+corpore separata>.  Ideo sequitur: <Homo iam fui>.  Cuius autem
+anima fuerit, per quinque signa breviter manifestat: Primo, per
+locum ubi fuit genitus atque natus, quia in civitate Mantue, que
+est antiquissima et famosissima civitas in provincia Lombardie. 
+Unde ait in textu: <Ambo mei parentes fuerunt lombardi, patria
+mantuani>.  Secundo, per tempus quando natus fuit, quia tempore
+Iulii Cesaris, dicens: <Natus fui sub Iulio, quamvis tarde>;
+tarde ideo dicit, quia prope mortem ipsius Iulii.  Tertio, per
+locum ubi vixit, studuit et conversatus est, quia Rome, sub
+secundo imperatore Romano, Octaviano scilicet Augusto.  Unde ait:
+<Et vixi Rome sub bono Augusto, tempore scilicet deorum mendacium
+atque falsorum>.  Quarto, per officium quo in mundo refulxit,
+quia poeta.  Ideo ait: <Poeta fui>.  Sed quia multi poete fuerunt
+tempore illo, ideo quinto et ultimo, se manifestat per librum
+^Eneydorum~, quem de gestis Enee, Anchisis filii, composuit et
+descripsit.  Ideo ait in textu: <Cecini de illo iusto filio
+Anchisis, qui venit a Troya postquam superbum Ylion extitit
+concrematum>.  Unde [ait] in textu:
+
+     Risposemi: <Non homo, homo gi@a fui,
+     et li parenti miei furon lombardi,
+     mantuani per patria amendui.
+     Nacqui ^sub Iulio~, ancor che fosse tardi,
+     et vissi a Roma sotto 'l buono Augusto,
+     nel tempo delli d@ei falsi et bugiardi.
+     Poeta fui, et cantai di quel giusto
+     filliuol d'Anchise che venne da Troya,
+     poi che 'l superbo Ylion fu combusto.[>] 
+
+                        (^Inf.~ I. 67-75)
+
+	Postquam vero se manifestavit autori, Virgilius videns
+ipsum ex pugna ferarum ad ea que evaserat pericula remeare, ipsum
+autorem dulci locutione inducit ad duo: Nam primo incutit ei
+timorem, qui retrahit hominem a peccatis, dicens: <Sed tu quare
+reverteris ad tot et talia nocumenta de quibus> -- supple Dei
+adiutorio -- <evasisti?>  Secundo, ipsum allicit ad amorem, qui
+facit hominem scandere ad virtutes, dicens: <Quare non ascendis
+delectabilem montem, qui est causa et principium omnis boni?>  Et
+hoc est quod habetur in textu:
+
+     <Ma tu perch@e ritorni a tanta noia?
+     perch@e non sali il dilettoso monte,
+     ch'@e principio et cagion di tutta gioia?>.  
+
+                        (^Inf.~ I. 76-78)
+
+	Delectatus autor benigna visione Virgilii, et eius dulci
+colloquio confortatus, cum quadam admiratione et reverentia
+filiali incipit sibi loqui.  In qua quidem locutione breviter
+tria facit: Nam primo, captat suam benivolentiam; secundo,
+exprimit suam miseriam; tertio, implorat suum adiutorium sive
+gratiam.  Primum ibi: <Es tu nunc ille Virgilius et ille fons qui
+tam largum fluvium scientiarum expandis?>  Et ibi: <0 aliorum
+poetarum honor et lumen, tu es meus magister et meus autor; tu es
+solus ille a quo ego accepi illum pulcrum stilum qui michi fecit
+honorem>.  Secundum ibi: <Vide bestiam pro qua ego ad ea que
+reliqueram me converti>.  Tertium ibi: <Adiuva me ab illa, famose
+sapiens, que venas et pulsus contremiscere michi facit>.  Et hec
+tria patent in lictera.
+
+     <Or se' tu quel Virgilio et quella fonte
+     che spandi di parlar si largo fiume?>
+     rispuos'i' lui con vergognosa fronte.
+     <O delli altri poeti honore et lume,
+     valliami il lungo studio e 'l grand'amore
+     che m'@a fatto cercar lo tuo volume.
+     Tu se' lo mi' maestro e 'l mio autore,
+     tu se' solo colui da cu' io tolsi
+     lo bello stile che m'@a fatto onore.
+     Vedi la bestia per cu' io mi volsi;
+     aiutami da lei, famoso saggio,
+     ch'ella mi fa tremar le vene e' polsi>.  
+
+                        (^Inf.~ I. 79-90)
+
+	Postquam vero Dantes benivolentiam magistri captavit,
+suam miseriam explanavit, et dicti magistri gratiam imploravit,
+Virgilius ipsum ad sui sequelam inducit.  Et ut eum magis
+alliciat ad sequendum, duo breviter facit: Nam primo incutit ei
+timorem, exarando sibi malivolas proprietates illius tertie fere,
+scilicet lupe, dicens: <Tibi convenit tenere aliam viam, si vis
+evadere de isto loco silvestri, quia illa bestia pro qua
+vociferando tu clamas non permittit aliquem transire per suam
+viam, imo tantum eum impedit quod ipsum occidit; et habet naturam
+ita malivolam atque ream, quod nunquam implet suam avidam
+voluptatem, et post pastum habet maiorem famem quam prius.  Multa
+sunt enim animalia quibus exhibet se uxorem, et plura erunt adhuc
+quousque veniat ille velter qui eam mori faciet cum dolore.  Iste
+vero velter non cibabit -- subaudi neque alios neque se -- terra
+vel peltro, sed amore, sapientia et virtute -- subaudi cibabit --
+et hoc quia sua natio erit inter feltrum et feltrum.  Illius
+etiam humilis Ytalie erit salus, pro qua mortua fuit virgo
+speciosa Camilla, necnon et Curialus et Turnus et Nisus.  Iste
+enim velter ipsam lupam expellet de villa in villam, quousque
+ipsam in Infernum remittet, unde primo invidia ipsam traxit. 
+Secundo, postquam Virgilius autori timorem incussit, nunc eum
+allicit ad amorem, promittendo sibi ostendere secreta omnia que
+sunt in Inferno, Purgatorio, ac etiam Paradiso, dicens: Unde ego
+pro tuo meliori cogito et discerno quod tu me sequaris et ego ero
+tuus dux, et traham te hinc per locum eternum, ubi stridores
+audies desperatos, videbisque spiritus antiquos dolentes atque
+gementes, qui ad secundam mortem, hoc est ad corporum
+coniunctionem, exclamant.  Et post hec videbis eos qui in igne --
+subaudi Purgatorii -- sunt contenti.  Et causam quare
+contentantur in igne assignat dicens, quia sperant ascendere,
+purgatis offiensis, ad gaudia Paradisi, ad que si ascendere
+postea volueris, anima -- subaudi alia -- dignior ad hoc erit, et
+cum ipsa te in meo recessu dimittam.  Causam vero quare ad
+ostendenda celestia se dicit indignus assignat immediate cum
+dicit: <Quia ille imperator, qui superius ibi regnat, quia ego
+fui sue legi rebellis non vult quod in suam veniam civitatem>. 
+Et quia Dantes poterat dicere, secundum opinionem quorundam
+hereticorum, dicentium Deum in Inferno potentiam non habere: <Tu
+qui es damnatus quid habes facere cum Deo?> respondet Virgilius:
+In omnibus, inquit, partibus imperat et ibi regit.  Ibi est sua
+civitas et alta sedes.  O felicem illum quem eligit ipse ibi. 
+Istarum autem duarum partium, prima incipit ibi: <A te convien
+tener altro viaggio>; et finit ibi: <l@a onde invidia prima
+dipartilla>.  Secunda vero pars incipit ibi: <Ond'io per lo tu'
+me' penso et discerno>; et finit ibi: <o felice colui cu' ivi
+elegge>.
+
+	Allectus autor ex promissionibus sibi factis, statim se
+offert liberaliter ad eundum, et quod maius est, Virgilium
+deprecatur ut statim adimpleat que promisit, et, ut citius eum
+moveat, per Deum quem ipse Virgilius non agnovit adiurat.  Unde
+ait in textu: <O poeta, ego te requiro per illum Deum quem tu
+minime cognovisti, ad hoc ut ego fugiam istud malum et peius,
+quod tu me ducas quo modo dixisti, ita ut ego videam ianuam
+Sancti Petri, et illos quos tu facis taliter esse mestos.[>] 
+Tunc Virgilius, omni curialitate et solicitudine plenus, statim
+se movit ad iter, et Dantes, non minori solicitudine, secutus est
+eum.  Unde ait in textu:
+
+     Allor si mosse, et io li tenni retro.  
+
+                        (^Inf.~ I. 136)
+
+	|1.  Nel mezzo del cammin di nostra vita.~  Per istud
+dimidium nostre vite accipe somnum, in quo, secundum Macrobium
+super ^Somnio Scipionis~ {^Comm. in Somnio Scipionis~ I. iii. 2},
+quinque visionum speties sive genera contemplantur; hoc est:
+oraculum, visio, somnium, insomnium et fantasma.  Cuiusmodi autem
+spetiei vel generis fuerit ista visio quam habuit ipse Dantes,
+transcurrendo ista quinque genera visionum videbimus manifeste. 
+Oraculum enim, secundum eundem Macrobium, est cum in somnio
+parens, idest pater aut mater, vel alia sancta persona gravisque,
+seu sacerdos, seu angelus, seu etiam ipse Deus, aperte aliquid
+demonstrat eventurum vel non eventurum, faciendum sive vitandum. 
+Visio est cum id quod quis videt in somnio eodem modo illud
+respicit vigilando; ut cum in somnio vidi me in cathedra
+sublimatum, facto die sum electus vel factus episcopus sive
+abbas.  Somnium proprie vocatur illa visio que figuris tegitur et
+ambagibus nubilatur, et que non nisi per interpretationem potest
+intelligi vel cognosci.  Huius autem somnii V. sunt speties: aut
+enim est proprium, aut alienum, aut commune, aut publicum, aut
+generale.  Tunc enim somnium dicitur proprium quando quis aliquid
+somniat tantum modo de se ipso.  Alienum somnium est quando quis
+non circa se nec de se, sed circa alium et de alio, videt aliquid
+in quiete.  Commune tunc somnium est quando quis aliquid videt
+quod et alium et se tangat.  Publicum somnium est quando quis sue
+civitati vel foro vel teatro seu quibuslibet publicis ianuis
+menibus actibusve triste vel letum aliquid viderit evenire. 
+Generale vero somnium est cum circa solis orbem lunaremque globum
+seu sydera, sive celum, sive aerem, sive maria, sive terras, quis
+somniat innovatum.
+
+	Hec autem visio quam vidit in somnio iste autor potest
+dici: Primo oraculum, quia gravis persona, ut puta Virgilius, in
+prima cantica, sanctaque, ut puta Cato et Statius, in secunda,
+parensque, ut puta Cacciaguida, et sacerdos, ut puta sanctus
+Bernardus, angeli, et ipse Deus in tertia, clara sunt sibi
+visione monstrati.  Secundo potest dici visio, quia ipsa loca, ad
+que anime post mortem corporum vadunt, ymaginaria visione
+conspexit.  Tertio potest dici somnium: et primo proprium, quia
+multa in Inferno, Purgatorio ac etiam Paradiso de se audivit,
+vidit et sensit; secundo potest dici alienum, quia multa circa
+alienos et de alienis sibi revelata fuerunt, vel quia quem statum
+aliorum sortite sunt anime deprehendit; tertio potest dici
+commune, quia multa que sibi mixtim et aliis contingere debebant
+aspexit, vel quia eadem loca tam sibi quam ceteris eiusdem meriti
+didicit preparari; quarto potest dici publicum, quia varietates
+et mutabilitates non solum sue civitatis, sed aliarum quam
+plurium, audivit et vidit; quinto potest dici etiam generale,
+quia Infernum, Purgatorium, celum, celique cives, ipsamve
+beatissimam Trinitatem, sibi adhuc in carne viventi sunt videre
+concessa.  Alia autem duo genera visionum, insomnium scilicet et
+fantasma, a sua visione penitus excluduntur.  Sed nichilominus
+quid de ipsis idem Macrobius sentiat videamus.  Insomnium enim
+est quotiens homo, cum cura oppressi animi, sive corporis, sive
+fortune, vadit cubitum sive dormitum.  Cum cura enim animi vadit
+ille dormitum, qui vulneratus amore, cogitaminibus venereis totus
+plenus, que minime habet, somniat se habere.  Unde Hero in
+epystola ad Leandrum ait:
+
+     Me miseram brevis est hec et non vera voluptas,
+     Nam tu cum somno semper abire soles.  
+
+                        {Ovid, ^Epistulae~ 18.65-66}
+
+Et regina Dido ait ad Annam, ut scribit Virgilius in quarto libro
+^Eneydorum~: <Anna soror, que me suspensam insomnia terrent>
+{^Aeneid~ IV. 9}.  Cum cura vero corporis vadit ille cubatum, qui
+nimio cibo potuve gravatus se somniat suffocari, vel cum exuriens
+somniat manducare.  Cum cura vero fortune ille vadit dormitum qui
+se existimat vel potentia vel magistratu aut promoveri pre
+desiderio, aut exui pre timore.  Hec et his similia quantum ex
+habitu mentis, sicut prevenerant vigilando, ita turbant etiam
+dormiendo.  Et hinc est quod una cum somno veniunt, et una cum
+somno pariter evanescunt.  Falsa enim esse insomnia; nec etiam
+Maro, VI ^Eneidorum~, tacuit dicens: <Sed falsa ad celum mittunt
+insomnia manes> {^Aneid~ VI. 896}.  Amorem quoque describens,
+cuius curam semper sequuntur insomnia, ait quarto libro:
+
+                             Herent infixi pectore vultus
+     Verbaque, nec placidam membris dat anima quietem.  
+
+                        {^Aeneid~ IV. 4-5}
+
+	Fantasma autem est cum inter vigiliam et quietem in
+quadam, ut aiunt, prima somni nebula, adhuc se vigilare extimans
+qui dormire vix cepit, ex quibusdam fumositatibus cerebrum
+obnubilantibus, aspicere videtur in se irruentes vagantesque
+formas, a natura seu magnitudine seu spetie discrepantes.  Ista
+duo ultima genera visionum cura interpretationis indigna sunt. 
+Reliqua vero tria aliquid veri significant et important.
+
+	In dimidio igitur nostre vite, idest in somno, secundum
+quem nichil differt stultus a sapiente, prout Philosophus vult in
+fine primi libri ^Ethicorum,~ fingit autor suas visiones vidisse. 
+Quidam autem opinantur dimidium nostre vite etatem in qua erat
+autor, quando istam incepit condere Comediam.  Dicunt enim ipsum
+XXXV annos habuisse, vel circa; et secundum istum modum ponunt
+etatem hominis usque ad annum septuagesimum protelari.  Sed iste
+numerus sive limes humane vite a Divina videtur discrepare Pagina
+etiam et pagana.  Divina enim Pagina narrante didicimus quod
+Deus, iratus peccatis hominum, humane vite cursum post diluvium
+breviavit; sed non posuit septuagesimum annum fuisse postea
+limitem nostre vite, cum post inveniatur homo vixisse centum
+quinquaginta annis et ultra.  Nostris etiam temporibus videmus
+quod, in multis partibus, multi centesimum vigesimum annum non
+solum attingant, sed etiam excedant.  Statius etiam, primo libro
+^Thebaidos,~ humane vite terminum ponit centesimum et vigesimum
+annum esse, ubi loquitur de etate regis Adrasti, dicens:
+
+     Rex ibi tranquille, medio de limite vite
+     In senium vergens, populos Adrastus habebat.  
+
+                        {^Theb.~ I. 390-391}
+
+Ubi dicit glosa quod medius limes vite nostre est annus
+sexagesimus.  Cum hoc etiam concordat Iosephus dicens: Hunc
+terminum vite a Deo post diluvium fuisse homini constitutum. 
+Sed, re vera, cursus humane vite nullo potest termino terminari,
+quia, licet etates hominis limitentur, ultima tamen nequaquam a
+sapientibus limitatur; ut habetur infra, cantu XXVII, super illo
+verbo:
+
+     Quando mi vidi giunto in quella parte
+     di mia et@a dove ciascun dovrebbe
+     calar le vele et raccollier le sarte, 
+
+                        (^Inf.~ XXVII. 79-81)
+
+	Autor autem cursum humane vite annorum numerum esse non
+ponit, sicut patet ex textu primi cantus et penultimi ac etiam
+ultimi Comedie.  Nam in isto primo cantu dicit:
+
+     I' non so ben ridir com'i' v'entrai,
+     tant'era pien del {^Br.~ di} sonno in su quel punto
+     che la verace via abandonai.  
+
+                        (^Inf.~ I. 10-12)
+
+Et in penultimo cantu, in quo introducit beatum Bernardum sibi in
+illa visione dicentem:
+
+     Ma perch@e 'l tempo fugge che t'assonna
+     qui farem punto, etc.  
+
+                        (^Par.~ XXXII. 139-140)
+
+Deinde etiam in ultimo cantu, premissa comparatione: <Qual @e
+colui che sognando vede> (^Par.~ XXXIII. 58), rem comparatam,
+idest se ipsum, cum dicit: <cotal son io, che quasi tutta cessa /
+mia visione, etc.> (^Par.~ XXXIII. 61-62).  Unde per hoc patet
+quod autor dimidium vite nostre somnum esse prefingat.
+
+	|2.  Mi ritrovai per una selva 'scura.~  Ista silva in
+qua autor errasse se dicit, est iste mundus plenus arboribus
+peccatorum: qui dicitur silva obscura per veri ignorantiam,
+silvestris per boni carentiam, aspera per mali adherentiam, et
+fortis per detinentiam, quia fortiter et tenaciter hominem
+detinet irretitum.  Vel per istam silvam asperam et confusam
+possumus huius autoris accipere civitatem, que suo tempore plena
+fuit erroribus, divisionibus atque guerris; nam multo tempore
+bellis fuit civilibus conquassata; in qua quidem divisione et
+errore iste autor propriis laribus fuit pulsus.
+
+	|3.  Ch$e la diritta via era smarrita.~  Hoc dicit quia in
+confusione et errore vitiorum homo a recto virtutum tramite
+deviando discedit.  Nam virtus inter duo extrema, hoc est inter
+plus et minus, consistere comprobatur.  Unde Philosophus dicit
+quod virtus est medium superfluitatis et indigentie.  Per hanc
+itaque viam homo debet incedere virtuosus, ut non declinet neque
+ad dexteram superfluitatis neque ad sinistram indigentie.  Unde
+ait Moyses ad regem Edon, ut habetur in libro ^Numerorum~
+{^Numeri~ 21.22 (^adapted~)}: Via regia gradiemur, non
+declinabimus ad dexteram neque ad sinistram.  Dicitur autem
+virtus via regia quia per virtutem devenitur ad civitatem regiam
+summi regis, quam viam ideo Christus dicit in Evangelio esse
+strictam, licet sit regia, quia, secundum Tullium, virtus est
+circa arduum et difficile.
+
+	|4-7.  Et quant'a dir qual era @e cosa dura,~ usque ibi:
+|Tant'@e amara che poco @e pi@u morte,~ litera plana est.  Et ideo
+non intendo, ubi litera plana sit, diutius immorari.
+
+	|8.  Ma per tractar del ben ch'i' vi trovai.~  Queri
+potest hic, cum in mundi confusionibus et erroribus nichil boni
+valeat reperiri, que bona autor conspexerit in hac silva?  Et
+dicendum quod homo sapiens, dum mala mundi considerat et ipsum
+instabilem esse cernit, dumque in peccatis satietatem et requiem
+invenire non potest, mundus et ea que in mundo sunt sibi
+incipiunt displicere.  Et tunc, quia cor hominis sine desiderio
+esse non potest, ad virtutes incipit anelare, et sicut ait beatus
+Gregorius: Gustato spiritu, desipit omnis caro.
+
+	|10.  I' non so ben ridir com'i' v'entrai.~  Bene dicit,
+quia vere nullus scit dicere qualiter et quomodo primo ingreditur
+istam silvam, idest quomodo primum labitur in peccatum.  Istud
+enim est illud quartum quod Salomon penitus ignorasse se dicit. 
+Tria, inquit, sunt michi difficilia, et quartum penitus ignoro:
+viam aquile in celo, viam navis in medio mari, viam colubri super
+petram, et viam adolescentis in adolescentia sua {^Prov.~
+30.18-19 (^adapted~)}.
+
+	|11.  Tant'era pien del sonno in su quel punto.~  Hic
+manifeste apparet quod suas visiones in somno finxerit se
+vidisse, et sic se confirmat dictum superius positum: <Nel mezzo
+del camin di nostra vita>.
+
+	|13.  Ma po' ch'i' fui al pi@e d'un colle giunto.~  Per
+istum collem sive montem accipe altitudinem et excellentiam
+virtutum, que faciunt hominem ad alta ascendere et superna.
+
+	|16-17.~  Iste planeta, qui suis radiis montem vestit,
+est prefulgida stella Venus, que tenet typum et similitudinem
+caritatis, que est omnium virtutum fulgidum ornamentum, sicut
+humilitas stabile fundamentum.  Ad evidentiam autem predictorum
+clarius et perspicacius enodandam, est allegorice attendendum
+quod ista silva adeo tenebrosa statum peccati, mons vero
+luminosus virtutis statum, figurative tipiceque designant.  Inter
+que duo, silvam videlicet atque montem, autor, qui humane nature
+liberum arbitrium representat, se invenisse confingit.  Nam Deus,
+quando humanam naturam libero dotavit arbitrio, apposuit sibi
+bonum et malum, iuxta illud: Ignem et aquam apposui tibi ad
+quodvis extende manum tuam.  Dantes vero, volens instruere
+hominem inter premissa contraria constitutum, exemplo sui poetice
+hic inducit, ut relicta silva malorum ad montem bonorum accedat. 
+Qui quidem mons prefulgide stelle radiis illustratus dicitur et
+vestitus, quia caritas in stella Veneris, inquantum ad amorem
+disponit, hic allegorice figuratur.
+
+	|18.  che mena dricto altrui per ogni calle.~  Natura
+sancti amoris est ista, quod per omnem viam prosperam vel
+adversam hominem recte ducit, quia nec in adversis deprimitur,
+nec in prosperis elevatur.
+
+	|22-27.~  ^PRIMA COMPARATIO.~  Utraque comparatio est
+moralis et summiter: prima a nautis sive marinariis, qui dum
+evadunt pericula maris, statim quod ad terram pervenerint, ad ea
+que evaserunt pericula se revolvunt.  Sic autor, postquam evasit
+pericula silve, statim quod ad montem pervenit, ad illa pericula
+que evaserat se convertit.  Alia comparatio {*vv. 55-57*} a
+mercatoribus summi potest, qui dum libenter et solicite
+acquirunt, statim quod tempus lucrationi contrarium appropinquat,
+medullitus contristantur.  Sic fecit autor, qui dum montem
+ascenderet, postquam fuit ab illa fera tertia prepeditus, cepit
+mirabiliter contristari.
+
+	|30.  s@i che il pi@e fermo sempr'era 'l pi@u basso.~  Facit
+hic autor sicut faciunt ascendentes, qui quando aliquam viam
+arduam saliunt vel ascendunt, semper habent pedem inferiorem
+firmiorem.  Qui quidem pes, moraliter exponendo, accipitur pro
+timore; habet enim timor talem proprietatem, quod hominem firmat
+ne in peccata labatur.  Ubi nota quod duo sunt necessaria homini
+volenti ascendere ad virtutes: Primum est timor, qui firmat
+hominem ne peccet.  Unde Salomon: Per timorem Domini declinat
+omnis homo a malo {cf. ^Prov.~ 8.13}.  Et proverbium vulgare:
+Paura guarda vigna, ma non mala famillia.  Secundum est amor, qui
+movet et incitat ad agendum; operatur enim magna si est.  Unde
+beatus Gregorius, loquens de illo amore quem homo debet habere ad
+Deum et ad quem omnes alii amores debent regulariter regulari,
+ait: Amor Dei non est otiosus; operatur enim magna si est; si
+autem operari negligit, amor non est.  Per timorem itaque et
+amorem efficitur homo bonus.  Pes igitur inferior, qui stat
+firmus, timorem; pes vero superior, qui movetur, amorem
+significat et importat.
+
+	|31-32.~  Hic tangit autor, figurative loquendo, tria
+vitia que impediunt omnem hominem volentem scandere ad virtutes;
+que quidem tria vitia radices sunt omnium vitiorum et omnibus
+bonis operibus adversantur.  Prima namque fera dicitur lonza,
+diversis depicta coloribus, et signat luxuriam, que adolescentes
+maxime ad se trahit.  Secunda fera dicitur leo, qui propter suam
+audaciam et propter coleram quam habet adustam, propter quam
+dicitur pati quartanam, superbiam prefigurat, que quidem maxime
+habet iuvenes impedire; quia talis etas avida est honoris, sicut
+adolescentia est avida voluptatis.  Tertia vero fera dicitur esse
+lupa, que propter sui ingluviem et insatiabilem famem habet
+avaritiam figurare.  Que quidem senescentes habet spetialiter
+impedire, et semper ipsa cum ipsis senescentibus iuvenescit,
+nunquamque {^Br.~ quod} senescit.  Et hoc est quod resonant verba
+textus, ubi loquitur de lupa predicta:
+
+     et @a natura s@i malvagia et ria,
+     che mai non empie la bramosa vollia,
+     et dopo 'l pasto @a pi@u fame che pria.  
+
+                        (^Inf.~ I. 97-99)
+
+	Et ideo beatus Ieronimus bene ait: Cum cetera vitia in
+homine senescant, sola avaritia iuvenescit.  Legitur enim de
+naturis luporum quod quanto magis etate senescunt, tanto magis se
+vitia iuvenescunt.  Et, ut ista tria clariori luce mistice
+videamus, est notandum quod Dantes tenet in hoc loco typum et
+figuram hominis universales etates humane nature currentis.  Que
+quidem etates, licet sint septem, ad ternarium tamen numerum
+reducuntur, videlicet ad adolescentiam, iuventutem et senectutem. 
+Quas tres etates ponit a tribus principalibus vitiis, que omnia
+alia vitia intra se continent, impediri: Primo a luxuria, que sui
+delectabili venustate maxime, prout supra dicitur, allicit
+hominem in adolescentia constitutum.  Ideoque dicitur eius pellis
+variis coloribus esse picta, que pellis allegorice intellecta
+illa signa venerea prefigurat, que carnali amore hominem detinent
+irretitum, prout sunt lascivi: visus, colloquia, risus et tactus. 
+
+	|34-36.~  Et hoc est quod resonat textus: Quasi dicat;
+Licet vellem ad montem virtutum ascendere, illius fere variata
+depictio me a bono proposito revocabat. 
+
+	|37-43.~  Sic allegorice est summendum.  Licet enim autor
+ad aspectum lonze que, ut dictum est, luxuriam prefigurat,
+plurimum titubaret, tamen, ut prudens somniorum interpres,
+concepit in sue tempore visionis per illam variatam pellem, que
+delectationem et pulcritudinem in se gestat, ad meliora, hoc est
+ad summam pulcritudinem delectationemque posse transire.  Iuxta
+quod ad Romanos scribit Apostolus: Invisibilia Dei per ea que
+facta sunt intellecta conspiciuntur {^Ep. ad Romanos~ 1.20}.  Nam
+si tanta pulcritudo in creaturis ac etiam tanta delectatio
+reperitur, quorum primum est vanum reliquum vero insatiabile,
+quanta debet esse pulcritudo firma celestis et delectatio
+duratura?  Idcirco sic construe textum: |Temp'era dal principio
+del mattino~; idest matutinali tempore quo ab oriente aurora
+incipit emicare, michi apparuit illa fera.  Et ad istud tempus
+clarius declarandum, quo scilicet anni tempore istam habuit
+visionem, ait:
+
+     e 'l sol montava in s@u con quelle stelle
+     ch'eran con lui quando l'amor divino
+     mosse da prima quelle cose belle; 
+
+Hoc est, illo enim tempore atque hora sol ad nostrum emisperium
+ascendebat cum illis, scilicet stellis, que erant cum ipso quando
+amor divinus, qui, secundum Boetium, stabilis manens dat cuncta
+moveri, ipsum cum ipsis a primordio primum movit.  Et hoc fuit
+quarta die creationis mundi, iuxta beatum Ambroxium in himno
+dicentem: Quarto die qui flameam solis rotam constituens, lune
+ministrans ordinem vagosque cursus syderum, fuit autem sol
+creatus in signo Arietis; quod quidem signum intrat circa decimum
+nonum Martii.  Dicit igitur autor concludendo quod illa dulcis
+hora, quia tempore matutino, quo vera somnia et non falsa, utilia
+et non damnosa, solent plurimum apparere, sibi melioris spei
+causam intulit, ut, considerata pulcritudine pellis fere, posset
+ad meliora procedere.  Ideo sequitur in textu:
+
+     s@i c'a ben sperar m'era cagione
+     di quella fiera la gaetta pelle,
+     l'ora del tempo et la dolce stagione; 
+
+Quasi dicat: Illud dulce tempus et hora michi spem ac fiduciam
+ministrarunt, ut illius fere pellis gaetta, idest delectabilis et
+iocunda, optimum esset signum a carnalibus ad spiritualia et a
+terrenis ad celestia respirare. 
+
+	|44-45.~  Sic est intelligendum: Quamvis enim in bonam
+partem sumpserim illius fere visionem, ratione temporis matutini
+michi bonam fiduciam ministrantis, non tamen tantam quantam michi
+expediebat, quia michi apparuit unus leo, quo viso perdidi
+fiduciam iam conceptam.  Circa quem leonem, secundum licteram
+quatuor considerare debemus: Primum est quia non dicit eum
+absolute fuisse leonem, sed habuisse effigiem leoninam, ibi: <la
+vista che m'apparve d'un leone>.  Secundum, quia dicit ipsum
+contra se erecta cervice venisse, ibi: <Questi parea che contra
+me venisse>.  Tertium est quod ponit in ipso rabiosum ac
+famelicum appetitum, ibi: <et con rabiosa fame>.  Quartum est
+quod ex suo aspectu aeri timorem ingerere videbatur, ibi: <s@i che
+parea che l'aer ne temesse>.  Ista quatuor allegorice exponendo,
+peccatum superbie prefigurant; nam peccatum superbie dicitur
+habere effigiem leoninam, non tamen ipsum esse leonem.  Videtur
+enim leo, sed non est.  Nam superbia, cuius appetitus est propria
+excellentia, videtur in se habere maxime tria: Primo altam
+excellentiam et maiestatem, sed deducit ad infimum precipitium et
+immanitatem, et hoc est valde cecum appetere.  Seneca, octavo
+^Tragediarum~: <Ceca est temeritas que petit casum ducem>
+{^Agamemnon~ II. 145}.  Secundo videtur habere securitatem et
+firmitatem, et habet in se periculum et varietatem.  Rami enim
+arboris, secundum Crisostomum, qui sunt in ymo sunt in quiete et
+securitate; qui autem sunt in vertice, facile a ventis agitantur
+atque franguntur.  Unde monet Seneca dicens: Redige te ad yma a
+quibus cadere non potes.  Refert Valerius quod dum quidam rex
+coronari deberet, coronam manu tenens, ad principes suos ait
+{Valerius, ^Factorum et Dictorum Memorabilium Libri Novem.~ Lib.
+VII. ii. 6. Ext. 5 (^adapted~)}: O nobilem magis quam felicem
+coronam, quam si quis cognosceret quam multis periculis et
+solicitudinibus plena sit nec humi iacentem tollere vellet. 
+Seneca, secundo ^Tragediarum~: <Dum excelsus steti nunquam pavere
+destiti> {Seneca, ^Thyestes~ III. 446-447}.  Tertio videtur
+habere durabilitatem et habet status et vite brevitatem;
+Ecclesiastici X {^Ecclesiasticus~ 10.11}: Omnis potentatus brevis
+vita.  Seneca, nono ^Tragediarum~ {cf. ^Octavia~, Act I,
+^passim~}, loquens de Neronis imperatoris superbia ait: Licet
+extruat marmoribus atque auro tegat superbus aulam limen, ducis
+servent armate coortes, mittat immensas opes exhaustus orbis,
+supplices cruentam dexteram parthi petant.  Regna divitias
+ferant, veniet dies tempusque quo reddat animam nocentem
+sceleribus suis, iugulum hostibus desertus et destructus ac
+cunctis egens.  Et sic patet primum.  Ideo bene ait autor in
+textu: <la vista che m'apparve d'un leone>.
+
+	Circa secundum, nota quod superbia erecta cervice contra
+omnem hominem semper vadit; et non solum contra hominem, sed
+etiam contra Deum.  De primo Plautus, poeta comicus, in persona
+superbie loquens ait: Minores despicimus, maioribus invidemus, ab
+equalibus dissentimus.  De secundo, Propheta invehens in
+superbos: Ambulant, inquit, contra Deum extento collo {^Isaias~
+3.16}.  Ideo bene ait in textu: <Questi parea che contra me
+venesse / con la test'alta>.  Nam semper superbus se erigit
+contra Deum.  Psalmista: <Superbia eorum qui te oderunt ascendit
+semper> {^Ps.~ 73.23}.  Exemplum regis Capanei gigantis, de quo
+habetur infra, circulo VII, cantu XIIII {^Inf.~ XIV. 46 ff.}. 
+Circa tertium, nota quod superbia nunquam honoribus et
+dignitatibus satiatur.  Exemplum habemus in primo angelo, qui
+positus a Deo in tanto culmine dignitatis, superveniente superbia
+contentari non potuit; et ideo rabiosam dicitur pati famem. 
+Exemplum Alexandri, de quo narrat Valerius, {^Fact. et dict.~
+VIII. xiv. 6. Ext. 2 (^adapted~)} libro octavo, capitulo de
+cupiditate glorie, quod habebat tam insatiabile pectus, quod
+nullis honoribus nullisque victoriis repleri valebat.  Nam cum
+quidam suus comes, nomine Anaxarcus, sibi semel dixisset quod
+suus preceptor Democritus dicebat innumerabiles mundos esse, ait:
+<Heu me miserum, quod nec uno quidem adhuc sum potitus>.  Et
+addit Valerius: Angusta uni homini possessio fuit que deorum
+omnium domicilio suffecit.  Ideo ait in textu: <et con rabbiosa
+fame>.  Circa quartum vero et ultimum est notandum quod ipsa
+superbia molestat et infestat maxime cum in tirannidem
+convertitur.  Etiam sanctos Dei, qui per aerem figurantur quia a
+terrenis elevati, solum celestia concupiscunt.  Et licet ipsam
+infestationem diligant pro se ipsis, quia est eis, secundum
+Gregorium, sicut lima ferro et fornax auro, tamen pro timidis et
+tepidis ipsam timent.  Unde Christus in sua passione, Iudeis et
+militibus Pilati querentibus ipsum capere et tenere, ait: Si me
+vultis, ego sum; sinite hos abire {^Ioannes~ 18.82}.  Sciebat
+enim quod apostoli nondum fortes erant ad tolerantiam passionis. 
+Ideo ait in textu: <s@i che parea che l'aere ne temesse>. 
+
+	|49-51.~  Sic primo construe: Non solum illa leonina
+effigies, que superbiam prefigurat, me a bono proposito
+revocabat, sed etiam una lupa, que propter sui ingluviem
+avaritiam preostendit, tantum michi gravedinis irrogavit, quod
+ego perdidi spem ad celestia ascendendi. 
+
+	|52-54.~  Circa vero istam avaritiam, que naturam dicitur
+habere lupinam, quatuor secundum licteram considerare valemus,
+duo in se et duo extra se.  In se enim habet: primo, insatiabilem
+voluptatem; secundo, insanabilem infirmitatem.  Extra se autem:
+primo, nullam in animo securitatem; secundo, nullam de suis
+divitiis felicitatem.  Circa duo prima, est notandum quod
+avaritia habet in se ista duo periculosa: primum est insatiabilis
+voluptas; nunquam enim mens avari hominis satiatur.  Unde
+Salomon: Avarus non implebitur pecunia {^Ecclesiastes~ 5.9}.  Et
+Seneca: Avaro tam deest quod habet quam quod non habet.  Ideo ait
+in textu: <che di tutte brame>.  Secundum est insanabilis
+infirmitas, quia avarus a sua infirmitate divitiis vel
+paupertate, ut ait philosophus, curari nequit.  Nam si efficitur
+pauper, in avaritiam vergit; si vero dives, nunquam satiatur.  Et
+in hoc avarus ydropico similatur, qui quanto plus bibit, plus
+bibere concupiscit.  De quo poeta: <Quo plus sunt pote, plus
+sitiuntur aque> {Ovid, ^Fasti~ I. 216}.  Ideo ait in textu:
+<sembiava carca nella sua magrezza>.  Quasi dicat: licet avaritia
+sit onerata divitiis, nunquam efficitur inde pinguis.  Et ista
+duo intra se concludit avarus.
+
+	Extra se vero duo alia considerare debemus.  Primum est
+quod avarus nullam habet in animo securitatem; nam avarus in
+congregando habet laborem, in custodiendo habet timorem, in
+perdendo vero dolorem.  Et beatus Augustinus dicit quod avarus
+dum dormit latrones somniat.  Et hoc est quod resonant verba
+textus: <et molte genti f$e gi@a viver grame>.  Secundum est quod
+avarus nullam habet de suis divitiis felicitatem; nam, ut
+manifeste videmus, de bonis congregatis avarus gaudere vel letari
+non potest; et hoc quia divitie sunt onera animum hominis
+aggravantia.  Et in hoc felicior est pauper quam dives, qui nullo
+in animo onere pregravatur.  De quo Iuvenalis: <Cantabit vacuus
+coram latrone viator> {^Sat.~ X. 22}.  De divite autem per
+respectum ad pauperem ait Seneca, X libro ^Tragediarum~:
+
+     Cispes tyrio mollior ostro
+     Solet impavidos ducere somnos.
+     Aurea rumpunt tecta quietem
+     Vigilesque trahit purpura noctes.
+     O si pateant pectora ditum!
+     Quantos intus sublimis agit / fortuna metus!...
+     Pectora pauper secura regit.  
+
+                        {^Hercules Oetaeus~ 644-652 (^adapted~)}
+
+Ideo ait autor in textu:
+
+     questa mi porse tanto di gravezza
+     con la paura c'uscia di sua vista,
+     ch'i' perde' la speranza de l'altezza.  
+
+Timor enim qui exit de avaritia, quia semper timet homo deficere
+si terrena relinquat, solicitudinem suggerit homini de eternis. 
+Et ideo Christus in Evangelio: Non potestis Deo servire et
+Mammone {^Lucas~ 16.13}.  Est autem Mammona, ut dicit glosa,
+nomen demonis, qui de divitiis temptat hominem in hac vita.  His
+allegorice de avaritia, que prefiguratur in lupa, conspectis,
+aliqua de natura lupina secundum tres solummodo autores, Ysydorum
+videlicet, Aristotilem et Homerum, breviter sub compendio
+videamus.  Natura enim lupi, secundum Ysidorum, est rapacitas,
+crudelitas, et tolerantia famis {^Etym.~ XII. ii. 23-24}; sic
+avaritia facit hominem in alios rapacem, in suos crudelem, et in
+se inhumaniter esse parcum.  Nam, ut in libro ^De Proprietatibus
+Rerum~ scribitur: Lupus famem diutius tolerat ut possit melius et
+avidius laniare.  Sic avarus etiam non expendit, ut possit melius
+pecuniam aggregare.  Scribit etiam beatus Ambrosius quod quidam
+dives avarus dum sibi semel sua uxor ovum coctum portasset ad
+mensam, suspirans ait: Heu mulier, quid fecisti?  Ex isto ovo
+poterat oriri gallina.  Aristotiles autem dicit quod lupus quanto
+senior tanto peior.  Sic avarus, ut superius dictum est, quanto
+plus etate senescit, tanto plus avaritia iuvenescit.  Et hoc est
+valde stultum, in itinere unius diei portare cibaria ad victum
+suficientia toti anno.  Unde Seneca: Avarus quid sibi velit non
+intelligo.  Dicit etiam Aristotiles quod in India est lupus qui
+habet faciem hominis, pedes leonis, caudam scorpionis,
+velocitatem cervi, vocem tube, et duos ordines dentium in ore,
+superius et inferius ordinatos.  Istud monstrum indicum vere
+avarum hominem prefigurat.  Habet enim avarus faciem hominis,
+quia blanditur at adulatur illis a quibus intendit aliquid
+extorquere; pedes leoninos, quia semper suus affectus ad
+rapiendum intendit; caudam scorpionis, quia semper in fine
+deceptionum venena perfundit; vocem tube, quia a remotis partibus
+mercatores et mercantias faucibus hyantibus ad se vocat; duos
+ordines dentium, quia dum bona temporalia rapaciter coaccruat,
+crudeliter sepelit et occultat.  Ipsaque sic coaccruata et
+occultata aliquando a tiniis et erugine demoliuntur, et aliquando
+a furibus effodiuntur pariter et furantur, ut ait Christus in
+Evangelio, Mathei VI+am~ {^Matth.~ 6.19}.  Homerus autem dicit
+quod lupus est animal valde vigil et parum dormit; sic avarus,
+dum vigilat inquerendo quietem, perdit internam pariter et
+externam.  Fugit enim somnus ab oculis eius.  Exemplum igitur de
+quodam paupere, qui quotidianum victum labore manuum acquirebat,
+et semper letus et iocundus apparebat, et totam contratam cantu
+nimio fastidiebat.  Cuius letitiam suus convicinus admirans, et
+sciens divitias libertati fore contrarias, quandam tascam plenam
+pecunia in domum illius pauperis clam proiecit.  Qui cum illam
+invenisset, statim letitiam perdidit, tristitiam et melancoliam
+incurrit, et nec cantare nec dormire, neque requiem invenire
+valuit quamdiu apud se tenuit illam tascam.  Reddita vero domino
+suo tasca, sibi rediit leta quies.  Ideo bene ait quidam doctor:
+Thesauros invenisti, requiem perdidisti.  Ideo, his omnibus
+attente consideratis, bene in consequentibus ait Virgilius ad
+autorem ibi:
+
+     ch$e questa bestia, per la qual tu gride,
+     non lasci'altrui passar per la sua via,
+     ma tanto lo 'mpedisce che l'uccide;
+     et @a natura s@i malvagia et ria
+     che mai non empie la bramosa vollia,
+     et dopo 'l pasto @a pi@u fame che pria.  
+
+                        (^Inf.~ I. 94-99)
+
+	|55-57.~  ^SECUNDA COMPARATIO.~  Utraque comparatio est
+moralis et summiter: prima {*vv. 22-27*} a nautis sive
+marinariis, qui dum evadunt pericula maris, statim quod ad terram
+pervenerint, ad ea que evaserunt pericula se revolvunt.  Sic
+autor, postquam evasit pericula silve, statim quod ad montem
+pervenit, ad illa pericula que evaserat se convertit.  Alia
+comparatio a mercatoribus summi potest, qui dum libenter et
+solicite acquirunt, statim quod tempus lucrationi contrarium
+appropinquat, medullitus contristantur.  Sic fecit autor, qui dum
+montem ascenderet, postquam fuit ab illa fera tertia prepeditus,
+cepit mirabiliter contristari.
+
+	|61-63.~  Raucus videbatur autori Virgilius, quia multa
+per secula ipse Virgilius et alii poete, per longum silentium,
+hominibus ignoti erant.  Sed autor ipsum et alios qui per
+negligentiam et ignaviam in eis non studentium mortui videbantur,
+suo tempore suscitavit.
+
+	|91.  Ad te convien tenere altro viaggio.~  Nota quod
+autor, postquam vitia que hominem ad bene agendum impediunt
+designavit, ponit quomodo Virgilius, maximus poetarum, sibi
+apparuit, et quomodo eum ab illis tribus vitiis liberavit.  Ubi
+est notandum quod Virgilius in hoc loco tenet figuram et
+similitudinem rationis humane, qua mediante autor penas peccatis
+adaptat.  Unde si in aliquo loco vel passu videatur contra
+catholicam fidem loqui, non miretur aliquis, quia secundum
+rationem humanam poetice pertractando dirigit vias suas.  Et ego,
+simili modo exponens et glosans, non nisi itinera sua sequar. 
+Quia ubi loquitur poetice, exponam poetice; ubi vero theologice,
+exponam theologice, et sic de singulis.  Non autem intendo vel
+contra fidem vel contra Sanctam Ecclesiam aliquid dicere sive
+loqui.  Si autem aliquid inepte dicerem, volens textum autoris
+exponere, ne aliquid remaneat inexcussum, ex nunc revoco et
+annullo, et Sancte Romane Ecclesie et eius officialium correctioni
+et ferule me submitto.  Quia si in ista Comedia esset aliquod
+hereticum, quod per poesiam seu aliam viam sustineri non posset,
+non intendo illud tale defendere vel fovere, immo potius, viso
+vero, totis conatibus impugnare.  Rogo te autem, o lector, ut
+autorem non iudices sive culpes, si tibi videatur quod ipse autor
+in aliquo loco vel passu contra catholicam fidem agat, quia
+poetice loquitur et fictive.  Et ideo iste liber dicitur
+^Comedia,~ que est quoddam genus poesie ad quam spectat vera
+integumentis poeticis et propheticis ambagibus nubilare.  Unde
+iste autor, quamvis theologus et fidelis, tamen ad cognoscendum
+Deum et adscendendum ad ipsum poeticas scalas facit.  Et in hoc
+imitatus {Mss. have ^imitatis~} est non solum Platonem et
+Martialem, sed etiam Salomonem, qui more poetico condidit
+^Cantica Canticorum,~ ex quibus gentiles sibi epythalamia
+vendicarunt.  Et tanto maior poeta omnibus aliis est censendus,
+quanto magis sublime opus ipse composuit, non solum de Inferis,
+ut simplex poeta loquendo, sed ut theologus de Purgatorio ac
+etiam [de] Paradiso, quantum homo aliquis subtilius ymaginari
+potest, ad utilitatem omnium viventium venustissime pertractando.
+
+	|97-99.~  ^NOTABILE.~  Istud notabile, licet contra
+appetitum et desiderium avarorum principaliter se extendat,
+nichilominus potest extendi et dirigi contra omnem cuiuscumque
+rei insatiabilem appetitum.  Habet enim quilibet appetitus
+insatiabilis istam naturam, quod quanto plus habet, tanto appetit
+et desiderat plus habere.  Unde poeta:
+
+     Quo plus sunt pote, plus sitiuntur aque.  
+
+                        {Ovid, ^Fasti~ I. 216}
+
+	|100-105.~  ^VATICINIUM.~  Postquam Virgilius contra
+avaritiam locutus est Danti, ponit quoddam vaticinium, dicens
+quod venturus est quidam dominus qui avaritiam exterminabit e
+mundo, ipsamque in Infernum reducet, de quo loco invidia
+dyabolica concitavit, ac per totam mundi machinam seminavit. 
+Iuxta quod in ^Libro Sapientie~ {^Liber Sapientiae~ 2.24} dicitur
+secundo capitulo: Invidia dyaboli mors introivit in orbem
+terrarum.  Hoc est, per invidiam dyaboli mors, hoc est avaritia,
+que totum mundum occidit, introivit in orbem terrarum.  Sed circa
+istud vaticinium tria principaliter sunt videnda: primo, quare
+iste venturus dominus canis leporarius nominetur; secundo, quid
+vult dicere quod sua natio erit inter feltrum et feltrum; tertio,
+quare potius debet esse salus Ytalie quam aliarum provinciarum,
+cum de mundo ipsam debeat extirpare.  Circa primum nota quod iste
+venturus dominus dicitur canis leporarius propter quasdam
+laudabiles conditiones quas habet canis leporarius.  Nam canes
+leporarii, inter omnes canes, sunt magis nobiles et generosi, ut
+vult Philosophus in libro ^De Animalibus.~  Unde, propter eorum
+generositatem, duo maxime laudabilia habent: Primum est quod non
+latrant.  Unde Philosophus dicit quod canes generosi non latrant. 
+Secundum est quod captam predam non comedunt, sed venatoribus
+{^Br.~ venantibus} servant.  Per primum accipere possumus
+nobilitatem Romani Imperii, quod quidem inter omnia regna obtinet
+principatum.  Per secundum vero, personam possumus accipere
+imperantis, qui quidem ita largus erit quod nichil sibi preter
+honorem et gloriam reservabit, sed omnia rei publice et suis
+militibus assignabit.  Sicut Scipio Africanus qui, subiugata
+Affrica, que est tertia pars mundi, senatoribus et universo
+consilio Romanorum inquit: Cum totam Affricam vestre dominationi
+subiecerim, nichil ex ea preter nomen et gloriam reportavi. 
+Habent etiam canes alia duo mirabilia, propter que merito iste
+venturus dominus sub figura canis figuraliter figuratur: primum
+est quod parcunt prostratis; secundum est quod insiliunt in
+rebelles.  Et de his duabus proprietatibus dicitur in libro ^De
+Proprietatibus Rerum~: Canum mitigatur sevitia homine humi
+consedente, inflamatur autem et accenditur homine impugnante.  Et
+ista duo pertinent ad sacrum imperium, sicut prophetatum fuit
+longo ante tempore, prout scribit Virgilius libro VI ^Eneydorum.~ 
+Et beatus Augustinus etiam ponit in primo libro ^De Civitate
+Dei~: Parcere subiectis et debellare superbos.  Circa secundum
+est notandum quod iste poeta, more poetarum, futura vaticinatur;
+unde poeta idem est quod propheta.  Nam quos Sacra Scriptura
+prophetas appellat, hos pagani denominabant poetas, et aliquando
+vates.  Vates autem a ^vi mentis~ dicuntur, ut ait Varro {^De
+lingua latina~ VII. 36}.  Vaticinando igitur dicit autor istum
+venturum dominum nasciturum inter feltrum et feltrum.  Hoc est
+quia ista exterminatio quam faciet de avaritia erit virtualis et
+essentialis, non vitiosa et apparens; ideo dicit ipsam oriundam a
+corde.  Cor autem medium est inter duas subascellas.  Abscella
+autem lingua hyspana ^feltrum~ vocatur.  Dicit itaque: <la sua
+nation sar@a tra feltro et feltro>; hoc est, sua operatio, propter
+quam virtus renovabitur in hoc mundo, exiet de corde puro,
+conscientia bona, et fide non ficta, ut ait beatus Paulus
+Apostolus.  Circa tertium vero nota quod, licet ipsam avaritiam
+iste venturus dominus de toto mundo debeat effugare, nichilominus
+iste vates ponit vaticinando quod erit salus totius Ytalice
+regionis, quia in Ytalia magis avaritia viget, et in laycis [et]
+clericis [et] maxime propter symoniam prelatorum et presidum
+sacrosancte Romane Ecclesie cupidorum.  Ea propter, ubi magis
+abundat infirmitas, ibidem succurrere magis debet efficacia
+medicantis.  Veniet itaque venturus dominus qui avaritiam et
+symoniam de Ytalia ac orbe etiam universo repellet.  Vel aliter
+anagogice exponendo: Per istum leporarium accipere possumus
+Christum, qui venturus est ad iudicium, cuius natio, idest
+apparitio, erit inter feltrum et feltrum, hoc est inter bonos et
+reprobos, ibique avaritia, que secundum Apostolum ydolorum est
+servitus, cum omnibus aliis vitiis in Inferno recludet cum dicet:
+<Ite, maledicti, in ignem eternum, qui paratus est dyabolo et
+angelis eius>, ut habetur in Evangelio beati Mathei, XXV capitulo
+{^Matth.~ 25.41}.
+
+	|106-108.~  Hic tangit autor tria prelia que fuerunt
+inter montes ubi nunc est Roma et regnum Rutilorum, quod quidem
+hodie Campania nominatur.  Ista autem prelia fuerunt inter Eneam,
+venientem de Troya, et Turnum regem Rutilorum per annos CCCC et
+ultra, antequam Romulus et Remus, qui de ipsius Enee stirpe regia
+descenderunt, alme urbis fundamenta iecissent.  Pugnavit autem
+utraque pars pro Ytalia possidenda ac etiam sublimiter
+sublimanda.  Nam Eneas, ut sacrum Romanum fundaret Imperium, quia
+per artem astrorum et oracula deorum previderat illud solummodo
+in Ytalia duraturum ac etiam regnaturum, licet esset totus pius
+et dulcis, et quia cum Turno pacem habere non poterat, se ad
+bella convertit.  Turnus etiam, ut liberaret Ytaliam de manibus
+Troyanorum, et quia ab oraculis receperat in responsum quod
+quicumque Laviniam, virginem filiam regis Latini, duceret in
+uxorem, filii eius et descendentes ex ipso totius mundi imperium
+possiderent, et Eneas ad illud matrimonium totis viribus
+aspiraret, et maxime, quia dicta Lavinia sibi fuerat desponsata,
+tantum Ytaliam ferro defendit, quod ipse et Camilla, regina
+Vulscorum ex una parte et ex alia parte Eurialus et Nisus in
+diversis preliis ceciderunt.  Fuerunt autem inter ipsos plura et
+diversa prelia, et maxime tria: Primum scribit Virgilius, VIIII
+libro ^Eneydorum,~ in quo bello ceciderunt Eur[i]alus ac Nisus;
+secundum scribit libro XII+o~, in quo cecidit ipsa virgo Camilla;
+tertium vero scribit libro XII+o~, in quo mortuus fuit Turnus. 
+At ego, volens sequi ordinem Virgilii, licet autor primo ponat
+Camillam, primo ponam Eurialum et Nisum.  Eurialus enim fuit
+quidam nobilis adolescens, unus de numero principum Troyanorum;
+nam ex parte matris de stirpe regia descendit, sicut ipse ait ad
+Iulum, Enee filium, ut nono ^Eneydorum~ volumine continetur: Est
+michi genitrix Priami de gente vetusta {^Aeneid~ IX. 284-285
+(^adapted~)}.  Fuit autem tante pulcritudinis ac etiam venustatis
+quod nullus in toto exercitu Enee pulcrior poterat reperiri. 
+Unde, eodem libro, ait Virgilius:
+
+     Comes erat Nisi Eurialus, quo pulcrior alter
+     Non fuit.  Eneadum Troyana nec induit arma,
+     Ora puer prima signans intonsa invicta.  
+
+                        {^Aeneid~ IX. 179-181}
+
+Huic erat comes, ut dictum est, quidam nobilis princeps Troyanus,
+nomine Nisus.  Quorum exitus describit Virgilius in hunc modum:
+Eneas enim posuit filium suum Iulum et Nisum et Eurialum ad unius
+portae custodiam civitatis illius, scilicet quam in honore Troye
+fundaverat in ripa Tybris quando applicuit ibi primo, mandans eis
+quod, pro nulla re que accidere posset, se a dicte civitatis
+custodia absentarent.  Et ipse, navem ascendens, civitates et
+loca Tuscie adiit contra Turnum ipsarum auxilia petiturus. 
+Turnus vero, sentiens Eneam de illis partibus recessisse, totum
+navigium ipsius Enee, quod erat in litore Ardee, combussit, et ad
+expugnandam civitatem in qua erant Iulus, Eurialus et Nisus,
+viriliter se convertit.  Sed postquam vidit quod nec Troyanos ad
+pugnam poterat provocare nec menia expugnare, in circuitu castra
+locat.  Isti autem duo principes, scilicet Eurialus et Nisus,
+electi sunt a Troyanis ut irent ad querendum Eneam, et sibi
+significare qualiter Rutuli suam novam obsederant civitatem.  Sed
+ante composuerunt ad invicem aggredi castra Turni.  Erat enim
+ipsis cor unum et anima una; nam unus sine alio esse vel vivere
+non valebat.  Unde Virgilius: His amor unus erat, pariterque in
+bella ruebant {cf. ^Aeneid~ X. 756}.  Et sicut ordinaverant intra
+se, ita quadam nocte, aperientes ianuas civitatis in castra
+ipsius Turni, somno et vino sepulta, tanquam duo leones
+audacissimi irruerunt, et hic inde reges et principes trucidantes
+et sine nomine plebem, dum vellent prosequi suum iter trecentos
+milites sub Vulscente magistro ex urbe latina revertentes, ad
+Turnum obviam habuerunt.  Quos ut viderunt Eurialus et Nisus de
+itinere exeuntes per quandam silvam dempsissimam et obscuram,
+fuge presidium petierunt.  Qui, propter silvestrium arborum
+dempsitatem, unus ab alio deviavit.  Tunc Nisus, videns se
+dilecti amici societate nudatum, cepit conqueri et clamare,
+dicens: <Euriale infelix, qua te regione reliqui? Quare sequar?> 
+Et talibus querimoniis se revolvens, totum iter fallacis silve
+simul ac vestigia retro observata legit, dumisque silvestribus
+errat.  Et dum sic errando socium quereret predilectum, audit
+equos, audit strepitus, et videt milites insequi vestigia
+fugientum.  Et non post multum sibi clamor pervenit ad aures
+quomodo Rutili invenerant Eurialum.  Et tunc, quasi amens
+effectus, nescit vere
+
+     Quid faciat, qua vi iuvenem, quibus audeat armis
+     eripere? an sese medios moriturus in hostes
+     inferat, et pulcram properet per vulnera mortem? 
+
+                        {^Aeneid~ IX. 399-401}
+
+Et sic, talia in pectore volvens, lanceam iecit, que in unius
+militis confixa lateribus fuit fracta, ferro in vulnere
+remanente.  Et ecce, dum milites starent attoniti, quia non
+viderant unde hasta venisset, subito Nisus aliam hastam iecit,
+que alium militem in capite vulneravit.  Tunc Vulscens, accensus
+ira, Eurialum protinus trucidavit.  Unde Virgilius:
+
+     Transadigit costas et candida pectora rumpit.
+     Volvitur Eurialus leto pulcrosque per artus
+     It cruor inque humeros cervix collapsa recumbit.
+     Purpureus veluti cum flos succisus aratro
+     Languescit moriens, lapsove papavera collo
+     Demisere caput pluvia cum forte gravantur.  
+
+                        {^Aeneid~ IX. 432-437 (^adapted~)}
+
+	Nisus autem, cum vidisset super dilectum amicum Vulscum
+et milites devolutos, prorupit in medium, et illum qui
+interfecerat Eurialum sui furoris impetu interfecit.  Tunc Vulsci
+milites ipsum vallant, et hinc inde gladiis eum necant.  Ipse
+vero, vicinam mortem sentiens, super exanimem se proiecit amicum;
+et ibi demum placida sic morte quievit.  In secundo bello, sicut
+in XI libro ^Eneydorum~ scribit ipse Virgilius, mortua est
+Camilla, virgo nobilissima, Vulscorum regina, que in duobus
+maxime commendatur: Primo in virginitate, quam quidem dilexit
+intantum quod licet esset et pulcra et iuvenis et regina, nunquam
+tamen voluit habere maritum.  Et propter suam laudabilem
+virginitatem, decus et pulcritudo totius Ytalie dicebatur.  Unde
+beatus Ieronimus, primo libro Contra Iovinianum, {^Adversus
+Iovinianum~ I. 306} de hac regina sic ait: Reginam Vulscorum
+Camillam Virgilius insignis poeta describit.  Quam Turnus, cui
+auxilium dare venerat, laudare volens, non habuit quod amplius
+diceret nisi virginem nominaret.  O decus, inquit, Ytalie virgo
+Camilla.  Secundo commendatur in arte pugnandi.  Fuit enim adeo
+bellicosa et in armis instructa, quod contra potentiam Troyanorum
+cum multitudine virorum et mulierum in auxilium venit Turno.  Que
+postquam multas strages de Troyanis et Tuscis fecisset, et ipsos
+in multis et diversis preliis debellasset, tandem ab uno tusco
+qui vocabatur Aruns, ut XI+o~ libro {^Aeneid~ XI. 785 ff.} ponit
+ipse Virgilius, fuit lancea in pectore perforata.  Tunc
+concurrunt trepide comites sue, scilicet socie bellatrices,
+dominamque de equo ruentem suscipiunt manibus {^Br.~ manibusque}
+tremebundis.  Illa vero moriens, manu sua hastam de pectore
+traxit; sed inter costas remansit ferrea cuspis fixa.  Et sic
+inter brachia sociarum ultimum clausit diem.  Virgilius:
+
+     Labitur exsanguis, labuntur frigida leto
+     Lumina purpureus quondam color ora reliquit;
+     Vitaque cum gemitu fugit indignata sub umbras.  
+
+                        {^Aeneid~ XI. 818-819; 831}
+
+	In tertio vero bello, sicut habetur in XII+o~
+^Eneydorum,~ mortuus fuit Turnus.  Iste Turnus fuit rex
+Rutilorum, et Laviniam, regis Latini filiam, desponsaverat, sed
+nondum duxerat eam.  Eneas vero, veniens in Ytaliam et pacem
+habere desiderans cum Latinis, ipsam habere Laviniam affectabat. 
+Unde isti duo reges, Eneas et Turnus, ab invicem dissenserunt, et
+unus alium multis preliis laniavit.  Tandem, sicut scribit
+Virgilius XII+o~ ^Eneydorum,~ Eneas post multa bella Laurentum,
+civitatem Latini regis, obsedit.  Et dum ipsam instrumentis
+conaretur bellicis conquassare, regina, mater ipsius Lavinie, ne
+filiam suam Enee videret uxorem, laqueo se suspendit, sicut
+dicetur infra, secunda cantica cantu [XVII].  Tunc Turnus,
+audiens Eneam civitatem Latini ferro et igne vastare, et sentiens
+reginam propriis manibus sui amore necatam, dolore cordis
+accensus, volat cece per hostes, et velut saxum de montis vertice
+cadens, sic urbis ruit ad muros, et elevata manu ait tam
+obsidentibus quam obsessis: <Parcite iam, Rutuli, et vos tela
+inhibete, Latini; quecumque est fortuna, mea est> {^Aeneid~ XII.
+693-694}.  Quasi dicat: Pro Lavinia atque regno ista bella
+consurgunt.  Sed pugnemus nos ipsi duo, scilicet Eneas et ego, et
+cui fortuna victoriam dederit, Laviniam largiatur et regnum.  Ad
+has voces pars utraque deposuit arma, et ipsi solummodo duo
+duello pugnare ceperunt.  Virgilius XII+o~ libro ^Eneydorum~:
+
+     Procursu rapido, coniectis eminus hastis,
+     Invadunt Martem clipeis atque ere sonoro.
+     Dat gemitum tellus; tamen crebros ensibus ictus
+     Congeminant.  Sors et virtus miscetur in unum.  
+
+                        {^Aeneid~ XII. 711-714}
+
+     Concurrunt clipeis; ingens fragor ethera complet.  
+
+                        {^Aeneid~ XII. 724}
+
+	Postquam vero lanceis et gladiis fuerunt ad invicem
+preliati, Eneas ad ultimum lanceam in ipsius Turni femora figens
+ipsum regno simul et sponsa vitaque privavit.
+
+	|117.  C'a la seconda morte ciascun grida.~  Nota quod
+duplex est mors, temporalis videlicet et spiritualis.  Temporalis
+mors est illa que separat animam a corpore.  Spiritualis vero
+mors est illa que separat animam ab ipso Deo, que quidem mors nil
+aliud est quam mortale peccatum.  Et hec etiam est duplex: Prima
+in presenti, quando scilicet homo mortaliter peccat; sed ab ista
+morte potest homo per penitentiam surgere; de qua resurrectione
+dicit beatus Apostolus: Surge qui dormis et exurge a mortuis et
+illuminabit te Christus.  Secunda est in futuro, quando scilicet
+homo, cum peccato mortali decedens, eternis suppliciis
+mancipatur.  Et ista etiam duplex est: Prima est illa qua in
+Inferno sola anima cruciatur.  Et de hac habetur in Evangelio
+beati Luce XVI: Mortuus est dives, et sepultus est in inferno
+{^Lucas~ 16.22}.  Secunda est illa qua simul cum corpore anima
+post generalem omnium resurrectionem cruciabitur in Inferno.  Et
+de hac ait beatus Iohannes in Apocalipsi XX+o~ {cf. ^Apocalypsis~
+20.6}: Beatus qui habet partem in resurrectione prima; in hiis
+secunda mors non habet potestatem.  Ad hanc igitur mortem clamant
+damnati quia optant ut compleatur numerus damnatorum, quia, ex
+invidia quam habent, vellent quod omnes homines damnarentur.
+
+	|122.  Anima fia a ci@o di me pi@u degna.~  Volens
+Virgilius autorem ad sui sequelam inducere, promittit sibi
+ostendere Infernum et Purgatorium.  Sed quia ad secreta celi et
+divina humana ratio, quam prefigurat Virgilius, non attingit,
+ideo non promittit sibi ostendere Paradisum, sed dicit quod ad
+hoc demonstrandum una alia anima erit dignior eo, et ista est
+Beatrix.  Que quidem Beatrix tenet typum et figuram vite
+spiritualis; ubi nota quod Beatrix in ista Comedia accipitur
+quatuor modis: interdum enim accipitur licteraliter pro quadam
+videlicet nobili domina florentina, que sua pulcritudine et morum
+honestate mirabiliter emicuit in hac vita; aliquando accipitur
+allegorice pro sacra scilicet scientia theologie; aliquando
+accipitur moraliter, sive typice, pro vita scilicet spirituali;
+aliquando vero accipitur anagogice pro gratia scilicet divina,
+homini infusa, et vita beata homini attributa.  Que quatuor in
+lictera perspicaciter intuenti clarius apparebunt.

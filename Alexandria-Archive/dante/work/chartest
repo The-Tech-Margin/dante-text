@@ -1,0 +1,29 @@
+This file demonstrates all Dante Project escape sequences.
+
+|This is boldface.~     This is not.
+
+^This is italics.~      This is not.
+
+|^This is bold italics.~        This is not.
+
+<This line has quotes.>
+\<This line has angle brackets.\>
+
+An example of superscripting: 1+st.~
+
+This is a plus sign: 1\+4 = 5.
+
+Grave accents:
+        @A @a @E @e @I @i @O @o @U @u @Q @q
+
+Acute accents and cedillas:
+        $A $a $E $e $I $i $O $o $U $u $Q $q $C $c
+
+Carets:
+        #A #a #E #e #I #i #O #o #U #u
+
+Umlauts:
+        ,A ,a ,E ,e ,I ,i ,O ,o ,U ,u
+
+Ligatures:
+        @@ae @@AE @@oe @@OE

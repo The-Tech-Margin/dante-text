@@ -1,0 +1,38 @@
++-----------
+|From MARCUSC@ACFcluster.NYU.EDU Fri Nov  6 16:25:47 1992
+|Received: from ACFcluster.NYU.EDU by ACFcluster.NYU.EDU (PMDF #2884 ) id
+| <01GQU5HHKDCSA3IK0J@ACFcluster.NYU.EDU>; Fri, 6 Nov 1992 16:12:03 EDT
+|Date: 06 Nov 1992 16:12:03 -0400 (EDT)
+|From: LET'S GO METS <MARCUSC@ACFcluster.NYU.EDU>
+|Subject: Mistake in text in dbase?
+|To: Dante
+|Message-Id: <01GQU5HHLPKUA3IK0J@ACFcluster.NYU.EDU>
+|X-Vms-To: IN%"Dante@baker.dartmouth.edu"
+|Mime-Version: 1.0
+|Content-Transfer-Encoding: 7BIT
+|Status: R
+|
+|Just thought I would report what looks like an error in the text of
+|the Dante Data base.
+| 
+|Scanning under Boccaccio at one point the following is found:
+|Boccaccio (1373), ^Inf~. Nota.                    Doc 6 of 2077, Screen 30
+|
+|
+|Vedute le predette cose, avanti che all'ordine della lettura si vegna, pare
+|doversi rimuovere un dubbio, il quale spesse volte gi@a @e stato, e
+|massimamente da litterati uomini, mosso, il quale @e questo.  Diconoss adunque
+|questi cotali: <Secondo che ciascuno ragiona, Dante fu litteratissimo uomo; e
+|
+|The last two words of the penultimate line appear to be diconss adunque.
+|I wonder if diconoss should be dicono or diconosi or diconossi.
+|Hoping this observation may be of use
+|Clifford Marcus
++-----------
+	Asked RH for decision, 22 Nov 98.
+
+Boccaccio, Inf. Nota: 	lncomincia = incomincia
+	Fixed by stc 2 Nov 98.
+
+Boccaccio Inf. 7 Nota	Evanqelio = Evangelio
+	Fixed by stc 2 Nov 98.

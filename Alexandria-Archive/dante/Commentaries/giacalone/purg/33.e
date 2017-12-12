@@ -1,0 +1,692 @@
+	|1-3.  Deus~: le tre virt@u teologali e le quattro virt@u
+cardinali, cantando alternativamente (|alternando~) il dolce
+salmo (|salmodia~), ora un verso ora l'altro, e piangendo,
+incominciarono a intonare: o Dio, i gentili hanno invaso il tuo
+possesso, hanno profanato il tuo santo Tempio, han ridotto in
+rovina Gerusalemme...  Aiutaci, o Dio, e a gloria del tuo nome,
+liberaci... e manifesta sia tra tutte le genti e agli occhi
+nostri la vendetta>.  @E il ^Salmo~, LXXVIII, 1-3, in cui si
+lamenta la distruzione del tempio di Gerusalemme e l'asservimento
+degli Ebrei ai Babilonesi; qui @e opportunamente appropriato alla
+drammatica situazione della corruzione della Chiesa, asservita al
+re di Francia.  Il pianto delle sette ninfe rende pi@u commossa la
+preghiera e l'invocazione dell'intervento divino per colpire i
+responsabili della rovina e per restaurare la dignit@a della
+Chiesa.  Anche questo ^Salmo~ biblico ha valore figurale, in
+quanto con la sua sanzione divina, solennizza la speranza della
+^renovatio rerum~, a cui D. credeva fermamente, come molti
+francescani del suo tempo.  Dal punto di vista narrativo si
+osservi la variazione improvvisa del tono con cui si apre questo
+canto, improntato subito alla solennit@a del dolore e della
+desolazione per la Chiesa contaminata, rispetto al senso di
+disprezzo e d'ira sdegnosa con cui si era chiuso l'ultimo
+episodio del ^gigante~ con la ^puttana~ {^Purg.~ XXXII, 160}.
+
+	|4-6.  E Beatrice~: e Beatrice, sospirando e dolendosi
+dei mali della Chiesa, ascoltava le virt@u che cantavano
+piangendo, trasfigurata (|s@i fatta~) dal dolore quasi come Maria
+si sbianc@o nel volto (|si cambi@o~) ai piedi della croce, in cui
+era crocifisso Ges@u.  <Avevamo veduto una Beatrice regalmente
+proterva, ora vediamo una Beatrice |sospirosa e pia~; n$e @e
+casuale il paragone con la Vergine addolorata, cio@e con il
+massimo ^exemplum~ di ^sublime~ cristiano, dopoch$e all'inizio del
+canto le sette virt@u avevano intonato ^Deus, venerunt gentes~, il
+salmo del tempio profanato.  Tutta la scena fa l'effetto di un
+gruppo gotico di iacoponica espressivit@a: ed il segreto del suo
+fascino @e in quell'armonizzarsi solenne grave, in quel
+trascorrere dall'eterno al tempo che contrae il mistero della
+Redenzione> (Lanza, ^Il c. XXXIII del Purg.~, in <Lett. scal.>,
+Firenze, 1963, p. 1217).
+
+	|7-12.  Ma poi~: ma poi, quando le sette vergini,
+tacendo, diedero a lei la possibilit@a (|loco~) e il modo di
+parlare, essa, levandosi dritta in piedi, rispose accesa in viso
+per il santo zelo e la speranza nel risorgere della Chiesa:
+<Ancora un po' e non mi vedrete; ancora un po', e mi rivedrete di
+nuovo>.  Le parole latine, tratte dal ^Vangelo~ di S. Giovanni
+(XVI, 16), sono quelle con cui Ges@u, nell'ultima cena, annunzi@o
+ai discepoli la sua prossima morte e la sua resurrezione.  D.,
+per@o, interpretando quelle parole in senso figurale, e
+identificando Beatrice con la Chiesa, vorrebbe far dire a lei che
+anche se la Chiesa per un po' di tempo si allontaner@a e sembrer@a
+quasi distrutta, tra poco risorger@a riformata e corretta nei
+costumi, come Cristo risorse alla vita eterna.
+
+	Si osservi la perfetta concordanza tra il ^Salmo~
+biblico, cantato dalle sette virt@u, e le parole di
+Beatrice-Cristo, in cui la profezia nel rinnovamento e nella
+riforma della Chiesa, dopo la profanazione del re di Francia,
+assume il tono solenne di una ferma e fiduciosa speranza, proprio
+in virt@u con l'analogia con la resurrezione del Cristo, gi@a
+profetizzata dalla ^Bibbia~ e gi@a concretizzata come fatto
+storico figurale, da cui consegue ancora un'altra attuazione, che
+@e la ^renovatio rerum~, in cui D. e il francescanesimo del suo
+tempo sperava.  In tal senso Beatrice @e tramite tra l'eternit@a e
+il tempo, tra la trascendenza e l'immanenza della storia umana. 
+In tal senso tutte le visioni apocalittiche, che ci sono sfilate
+davanti, acquistano un significato e un valore storico, se
+riportate alla misura del tempo umano, da cui @e condizionato D.
+pellegrino e cristiano.  Questa poesia di attesa e di presagio @e
+il dramma storico e umano di Dante.
+
+	|13-15.  tutte e sette~: con un solo cenno (|solo
+accennando~) Beatrice le fece andare innanzi a s$e tutte e sette,
+e dietro di s$e (|dopo s$e~) fece muovere (|mosse~) me, Matelda e
+Stazio (il |savio~, il poeta che era rimasto con me anche quando
+Virg. se n'era andato).  <Beatrice ha ripreso qui il dominio
+della scena, prima occupata da tanti elementi dispersivi... cos@i
+si forma una nuova processione, che qualche commentatore ha
+interpretato come un ricomporsi della Chiesa nell'umilt@a e
+nell'aspettazione fiduciosa del riscatto> (Lanza, ^l.c.~ {^Il c.
+XXXIII del Purg.~, in <Lett. scal.>, Firenze, 1963}, 1218).
+
+	|16-18.  non credo~: non credo che avesse fatto dieci
+passi, quando mi colp@i col fulgore dei suoi occhi, con un
+atteggiamento ormai rasserenato e fiducioso, dopo lo sdegno.  Il
+Parodi collega con la profezia precedente di Beatrice il senso
+allegorico che vede in questi dieci passi, come se volesse dire:
+<non passeranno dieci anni dalla data della traslazione della
+sede pontificia, che si compir@a la riforma della Chiesa e il
+ritorno dei papi a Roma> (^Poesia e storia~, cit. {[Napoli, 1920]
+Vicenza, 1965}, 464-66).  Ma sembra osservazione oziosa, almeno
+finch$e non si sia precisata la data di composizione del poema, e,
+in particolare, di questi ultimi canti del ^Purg.~
+
+	|19-21.  pi@u tosto~: vieni, cammina pi@u in fretta, s@i da
+stare al mio fianco, in modo che, se io ti parlo, tu possa abbia
+la possibilit@a, possa esser in condizione (|ben disposto~) di
+ascoltarmi, di udirmi bene.
+
+	|22-24.  com'io fui~: non appena io fui al suo fianco
+(|seco~), devotamente come era mio dovere (|com'io dovea~),
+Beatrice mi disse: <Fratello, perch$e non osi (|t'attenti~)
+rivolgermi domande, ora che cammini al mio fianco (|omai venendo
+meco~)?  <Beatrice, che con bella naturalezza di motivazione
+psicologica passa dagli accorati sospiri alla calda, ma sicura
+pacatezza del suo dire e del suo agire misteriosi, e assume
+atteggiamenti di squisita femminilit@a, @e figura di un'amabile
+verit@a umana.  Ma voi perderete una parte della sua poesia, se
+dimenticherete ch'essa @e il fatto augusto della Rivelazione
+divina, non gi@a pensato come oggetto di storia, ma sentito e
+vissuto come esperienza attuale di un'anima religiosa, come
+attivit@a redentrice assiduamente operosa in quel mondo di
+cultura, di pensiero, di passione, che @e lo spirito di D. nella
+sua robusta unit@a.  Quella donna non @e una forma trovata per
+adombrare un concetto, @e precisamente uno stato d'animo intuito
+dalla fantasia nell'immagine della soave figliuola di Folco
+Portinari> (V. Rossi, ^Il c. XXXIII del Purg.~, S.E.I.,
+1921 [1965], p. 9).
+
+	|25-30.  Come~: come capita a coloro che si trovano a
+parlare con eccessiva riverenza dinanzi ai loro superiori e non
+riescono a pronunziare distintamente, a voce chiara, le parole,
+cos@i capit@o a me, che incominciai a parlare con voce non piena
+(|sanza intero sono~), dicendo: <Mia signora (|Madonna~: lat.
+^mea domina~), voi conoscete ci@o di cui ho bisogno, ci@o che
+desidero sapere (|mia bisogna~) e ci@o che @e utile (|bono~) a
+soddisfarlo, ci@o che giova al mio bene.  Il rapporto D.-
+Beatrice, anche se conserva i moduli stilistici della poesia
+medievale che metteva di fronte l'un l'altro |amante e madonna~,
+ormai @e chiaramente mutato in un senso tutto teologico che mette
+di fronte un timido discepolo e una saggia maestra; un uomo, in
+cui l'intelletto non @e pari al sentimento, e un'anima beata, in
+cui l'intelletto @e pari al sentimento (cfr. ^Par.~, XV, 73). 
+<Beatrice gli d@a sulla voce, infliggendogli un amabile rabbuffo
+per quel suo contegno, che era d'un imbarazzo fra il timore e la
+vergogna, come di uomo trasognato.  Evidentemente una piccola
+lezione di virilit@a impartita al suo discepolo dalla donna
+divina.  La quale, quasi a riscuoterlo e a richiamarlo al suo
+dovere, gli fa inaspettatamente una rivelazione> (Cian, ^Il c.
+XXXIII del Purg.~, in <Lett. dant.>, del Getto, cit. {Firenze,
+1963}, p. 1337).  Ma forse @e meglio supporre che qui il tono
+colloquiale subisce un abbassamento da commedia, per stabilire
+una pausa narrativa, onde far risaltare di pi@u la solennit@a
+misteriosa della profezia di Beatrice.
+
+	|31-33.  Da tema~: Beatrice rispose: voglio (con un
+|voglio~ imperioso, ella sgombra dall'anima di D. la paura e la
+confusione, Rossi {^Il c. XXXIII del Purg.~, {Torino, S.E.I.,
+1965 [1921]}) che tu ormai ti sciolga (|ti disviluppe~) da timore
+e vergogna (^confusione e paura~ del canto XXXI, 13), in modo che
+tu non parli con parole incerte, balbettando, come colui sta
+sognando.
+
+	|34.  Sappi~: il verbo ha una forza incisiva di gran
+rilievo, che evidenzia ancor di pi@u il contrasto tra
+l'incertezza espressiva di D. e la chiarezza e la consapevolezza
+solenne di Beatrice.
+
+	|35.  fu~: il carro (|il vaso~), cio@e la Chiesa qual era
+nella sua integrit@a, che test$e il drago (|serpente~) ruppe nel
+suo fondo, ora non c'@e pi@u (|fu e non @e~), fu Chiesa, ma ora non
+@e pi@u Chiesa.  L'espressione biblica (cfr. ^Apocalisse~, XVII, 8:
+<La bestia, che tu hai visto, fu e non @e>) conferisce solennit@a
+sacra alla profezia di Beatrice.
+
+	|36.  suppe~: ma chi @e colpevole della corruzione della
+Chiesa sappia bene che la giustizia punitiva (|vendetta~) di Dio,
+anche se tarda, non teme prescrizioni, @e inesorabile (|suppe~:
+cfr. Barbi, ^Probl.~, I, 233), ma @e interpretazione controversa,
+anche presso gli antichi.  Il Mazzoni intese come ^falsi
+giuramenti~, in quanto <Soupe significa tuttavia in Francia il
+pezzetto di pane tagliato in modo da essere comodamente immerso
+in un liquido.  Saputo ci@o, resta facile intendere che il prode
+Bertrand Dugueselin, che visse tra il 1311 e il 1380, avesse il
+costume di immaginare ^trois soupes~, pane e vino, in onore della
+SS. Trinit@a, ogni volta che uscisse a battaglia.  |Suppe~ sono
+dunque scimmiottature della Cena di Cristo e della Comunione,
+false cerimonie religiose e giuramenti> (^Studi di filologia
+italiana~, V, Firenze, 1938, ^Malae cruces dantesche~).  Il
+Guerri interpret@o come ^colpi~, ^bastonature~ (^Bull.~, XXVI,
+149).  I pi@u antichi commentatori, a cominciare da Pietro di
+Dante, parlarono di un'^abusio Florentinorum~, cio@e di una
+superstizione feudale, secondo cui un omicida, che fosse capace
+di mangiare una zuppa, entro nove giorni dal delitto, sulla tomba
+dell'ucciso, poteva esser considerato immune da qualsiasi
+vendetta dei parenti.  Il Boccaccio immagin@o perfino che Carlo
+d'Angi@o insieme ai suoi baroni era intento a mangiare zuppe sulla
+tomba di Corradino di Svevia, per garantirsi dalla vendetta di
+parte imperiale.  Altri commentatori moderni vi han voluto vedere
+un'allusione ad Arrigo VII che sarebbe stato assassinato con
+un'ostia avvelenata, quasi a conferma della polemica
+Francia-Impero.  Il Torraca, partendo dal fatto che dell'usanza
+delle zuppe non rimane alcuna traccia negli statuti comunali, n$e
+nelle cronache o in altri documenti del tempo, sostiene che <una
+specie di corazza era chiamata, nel latino del Duecento, ^iuppa~,
+nei volgari settentrionali ^zubba, subba o zuppa~, nel volgare
+toscano ^giubba~; ed io penso che, mantenendo la forma latina, D.
+scrisse qui ^iuppe~, come altrove ^iura.~  Quindi il senso
+sarebbe: si copra pure di ferro, come vuole il colpevole del
+misfatto; la vendetta di Dio lo coglier@a senza fallo, perch$e la
+spada di Dio trapassa qualunque armatura> (^Comm.~, 620). 
+Comunque interpretata, la frase ha un valore di dispregio.
+
+	|37-39.  Non sar@a~: non rimarr@a sempre (|tutto tempo~)
+senza erede (|sanza reda~) l'aquila che lasci@o le penne nel
+carro, per cui quello prima fu trasformato in mostro e poi fu
+oggetto di preda da parte del gigante.  D., infatti, considerava
+vacante l'Impero dalla morte di Federico II, poich$e nessuno era
+pi@u venuto in Italia a cingere la corona imperiale (cfr. ^Conv.~,
+IV, iii, 6).
+
+	|40-42.  veggio~: vedo con certezza profetica
+(|certamente~) in Dio, e perci@o lo rivelo a te, gi@a vicine
+stelle, influenze celesti, che non possono essere fermate da
+alcun ostacolo (|intoppo~) o sbarramento (|sbarro~), che ci
+daranno un tempo, in cui un liberatore, inviato da Dio, uccider@a
+la meretrice (|fuia~: ladra) insieme col gigante che con lei
+commette ingiustizia e violenza (|delinque~).
+
+	|43.  cinquecento~: anche nell'^Apocalisse~ (XIII, 18) il
+numero DXV, secondo l'esegesi neotestamentaria, designa un
+imperatore, Nerone o l'Anticristo.  E, indubbiamente, tale
+linguaggio avr@a esercitato una certa suggestione sulla fantasia
+dantesca, per designare qui in forma profetica e misteriosa la
+sua speranza in un imperatore, inviato da Dio per riportare il
+mondo nella sua retta via, nella via della giustizia divina.  La
+coincidenza del Veltro (I canto dell'^Inf.~) con questo
+immaginario inviato di Dio, liberatore-uccisore della meretrice e
+del gigante, fa pensare ad una fondamentale escatologia o
+profezia di rinnovamento, che @e alla base politica e morale
+dell'ispirazione della ^Commedia~; data la coincidenza (inizio e
+fine) di questa ultima sequenza, che concluderebbe il viaggio
+dalla ^selva selvaggia~ fino alla ^divina foresta.~  Gli antichi
+commentatori, anagrammando le lettere latine D.X.V., con cui si
+indicano i numeri romani, 500, 10, 5, ricavarono la parola
+D.V.X., dux, duce, condottiero; ed @e probabile che D. pensasse ad
+Arrigo VII, che nella ^Epistola~ VII, @e da lui chiamato a
+distruggere il re di Francia e a ridare libert@a ai popoli
+cristiani.
+
+	Altri ha sostenuto che qui si alluda ad un pontefice,
+spiegando la cifra come ^Domini Xristi Vicarius~, oppure ad un
+unto dal Signore, ^Domini Xristi Vertagus.~  Ma dal discorso di
+Beatrice si desume chiaramente che si tratta di un imperatore, un
+erede dell'aquila.  La cosa pi@u sicura @e che la profezia, in
+quella forma misteriosa, adombri la ferma speranza del poeta in
+un redentore del mondo, non dissimile dal Veltro.  Del resto ai
+suoi tempi queste attese escatologiche erano nell'aria e nella
+cultura cristiana pi@u avanzata, dalla ^renovatio rerum~ dei
+francescani alla terza era profetizzata da Gioacchino da Fiore.
+
+	|44.  messo~: @e participio perf. ^inviato~ da Dio. 
+Arrigo VII era nominato in un ritmo latino contemporaneo ^Dei
+missus dux~; e sono tutte queste coincidenze semantiche che fanno
+preferire a molti che qui si alluda ad un imperatore, e
+precisamente ad Arrigo VII.  Ma se viene invalidata la cronologia
+(1312, supposta data di composizione di questi canti)
+tradizionale, come son portati a fare i pi@u recenti dantisti pi@u
+proclivi a postdatare, non @e pi@u pensabile che D. sperasse in
+quell'imperatore, dopo la sua triste fine.  A meno che non si
+pensi che Beatrice vede la sua profezia dal piano dell'eternit@a,
+fuori da ogni contingenza storica, quasi da un punto di vista
+intenzionale l'impresa di Arrigo VII.  Ma allora verrebbe meno il
+rapporto tempo-eternit@a, cos@i rispettato e costante nel poema
+dantesco.
+
+	|Fuia~ @e esito popolare per ^fura~, ladra (Parodi,
+^Bull.~, III, 152).  La Chiesa sarebbe ladra perch@e ha accettato
+per s$e un potere temporale che spetta per volont@a divina
+soltanto all'imperatore, secondo le concezioni dantesche.
+
+	|46.  E forse~: forse la mia oscura profezia
+(|narrazion~: discorso), come erano gli oracoli di Temide
+(^Metam.~, I, 367) e della Sfinge (^Metam.~, VII, 759), non ti
+persuade, per il fatto che ottura, impedisce (|attuia~: forma
+dissimulata di ^attura~ da ^adtura~, come ^fuia~ da ^fura~, nel
+senso di ^otturare~, cfr. Parodi, ^Bull.~, XXIII, 49) allo stesso
+modo di Temi e della Sfinge.
+
+	|47.  Temi~: Temide, figlia del Cielo e della Terra era
+famosa per i suoi oracoli misteriosi, tra cui assai oscuro quello
+dato a Deucalione e Pirra dopo il diluvio.  La Sfinge era un
+mostro, nato da Tifone e dalla Chimera, che dopo aver proposto ai
+viandanti presso Tebe un enigma, li uccideva; ma fu poi sconfitta
+da Edipo.
+
+	|49-51.  ma tosto~: ma presto i fatti risolverranno |fier
+Naiade~: saranno rivelatori) questo difficile mistero (^enigma
+forte~), senza che ne consegua il danno che tocc@o ai Tebani per
+il loro bestiame e il loro raccolto.  Dopo che Edipo, figlio di
+Laio, ebbe risolto l'enigma della Sfinge, questa, disperata, si
+uccise.  Ma Temi ne volle vendicare la morte, inviando contro di
+loro una terribile volpe che rovin@o il loro bestiame e il loro
+raccolto.  Il testo di Ovidio, a cui D. qui si riferisce
+(^Metam.~, VII, 759), dice ^Laiades~ per indicare Edipo, figlio
+di Laio, ma nei codici medievali la lezione era errata e suonava,
+^Naiades~, cio@e le Naiadi indovine, come si pu@o leggere anche
+nel testo di D.  Con questa digressione sulla storia di Edipo e la
+Sfinge, Beatrice vuol dire che i fatti risolveranno l'enigma da
+lei proposto, non con danno, anzi con vantaggio per l'umanit@a.
+
+	|52-53.  Tu nota~: tu nota nella tua memoria e rivela
+(|segna~), cos@i come sono state dette da me queste parole, ai
+viventi nel corso della vita terrena, che @e un correre verso la
+morte.  Beatrice precisa a D. la dimensione atemporale ed eterna
+da cui essa vede la storia presente e futura dell'umanit@a,
+dichiarando che il nostro vivere, in realt@a, @e una corsa verso la
+morte; cfr. S. Agostino: <Nihil aliud tempus vitae huius, quam
+currus ad mortem>.  L'espressione gnomica, in bocca a Beatrice,
+assume un valore pi@u solenne, trasferendo le miserie e gli errori
+stessi della vita terrena in una visione ultraterrena.
+
+	|54.  morte~: <Bellissimo verso, soffuso di una dolce
+mestizia, pieno di efficacia rappresentativa per la spezzatura
+mediana, per l'energia del primo emistichio e per la rapidit@a del
+secondo> (Rossi, ^l.c.~ {^Il c. XXXIII del Purg.~, Torino,
+S.E.I., 1965 [1921]}, 20).
+
+	|55-57.  E aggi a mente~: ricordati, quando tu rivelerai
+agli uomini le mie parole (|le scrivi~), di non nascondere, di
+descrivere la quantit@a e le condizioni della pianta (|qual hai
+vista la pianta~) che qui or ora hai visto derubata per la
+seconda volta (|due volte~).  <Io, nella grande incertezza che
+circonda il v. 57, preferisco intendere che il primo dirubamento
+si debba vedere nelle persecuzioni imperiali contro i cristiani,
+e il secondo nel distacco del Carro dalla pianta per opera del
+Gigante> (Barbi, ^Con Dante e i suoi int.~ {Firenze, 1941}, pp.
+62-63); infatti tutte e due le volte la pianta, che rappresenta
+la volont@a di Dio, e quindi la sua legge, fu derubata di ci@o che
+le apparteneva.  Questa tesi, accolta e difesa dal Barbi, rimonta
+al Buti, spiega che <l'|or~ premesso al |due volte dirubata...~
+accenna a tempo presente, e del mordere di Adamo si parla dopo al
+v. 61> (Barbi, ^ivi~).  Il Lana, invece, intendeva che la pianta,
+la prima volta fu dirubata da Adamo, che peccando la spogli@o
+delle sue fronde; e la seconda volta dal Gigante che stacc@o da
+essa il carro e lo trasse seco nascondendosi nella selva.  Anche
+questa tesi @e accolta da alcuni moderni, tra cui il Montanari. 
+Una terza ipotesi moderna (sostenuta dal Pietrobono, in ^Giorn.
+dant.~ XXIV, p. 65; e dal Nardi, ^Nel mondo di Dante~ {Roma,
+1944}, pp. 153-57) vorrebbe vedere nel secondo dirubamento le
+conseguenze funeste della donazione di Costantino, che avrebbe
+recato alla Chiesa un danno non inferiore a quello del peccato
+originale di Adamo.
+
+	|58-60.  Qualunque~: chiunque ruba quella pianta della
+scienza del bene e del male, come ha fatto test$e il Gigante, o la
+lacera (|schianta~), come ha fatto l'aquila, offende Dio
+(|offende~ col lat. era uso comune, cfr. Barbi, ^Probl.~, I,
+233), perch$e commette un'empiet@a, avendo Dio creata quella pianta
+sacra e inviolabile, affinch$e servisse a lui solo (|all'uso suo~:
+altri intende, al fine a cui fu da lui destinata).
+
+	|61-63.  Per morder~: per aver morso il frutto di
+quell'albero, l'anima che fu creata per prima, cio@e Adamo, per
+pi@u di cinquemila anni attese (|bram@o~) nel dolore, per esser
+cacciato dall'Eden, e nel desiderio, cio@e dopo morto quando gi@a
+si trovava nel Limbo, la venuta di Cristo, colui che pun@i in se
+stesso, espi@o col suo sacrificio, il peccato di Adamo che aveva
+morso il frutto proibito (|'l morso in s$e punio~: riscatt@o la
+colpa del morso).
+
+	|64-66.  Dorme~: il tuo ingegno @e davvero addormentato,
+se non distingue e giudica (|estima~) che quella pianta @e tanto
+eccelsa, @e stata creata tanto alta e cos@i capovolta verso la cima
+(|stravolta ne la cima~: infatti si dilata verso l'alto, invece
+di restringersi come accade negli alberi della terra).  Pu@o darsi
+che l'altezza dell'albero significhi l'inaccessibile origine
+della giustizia divina, e che il dilatarsi dei suoi rami verso
+l'alto l'impossibilit@a all'uomo di accedervi, come credeva il
+Benvenuto.
+
+	|67-72.  acqua d'Elsa~: se i vani pensieri, un'erronea
+dottrina, non avessero steso attorno alla tua mente, non avessero
+prodotto nella tua mente un effetto, un'incrostazione simile a
+quella che l'acqua d'Elsa produce intorno agli oggetti che vi
+sono immersi; e il piacere che provavi a quei pensier vani non
+l'avvessero macchiata e offuscata, come il sangue di Piramo
+suicida tinse in vermiglio il colore del gelso, da ci@o che hai
+visto (|da tante circostanze~) avresti dovuto riconoscere
+dall'albero, dal modo di essere di quell'albero, considerandolo
+nel suo significato morale (|moralmente~), la giustizia di Dio,
+che si manifesta nel divieto (|ne l'interdetto~) di toccarlo.
+
+	La spiegazione di Beatrice qui chiarisce, in modo
+inequivocabile, il significato dell'albero edenico della scienza
+del bene e del male.
+
+	L'Elsa @e un affluente dell'Arno, le cui acque calcaree
+lasciavano un'incrostazione negli oggetti ivi sommersi.  Il
+fenomeno chimico fu osservato gi@a al tempo di D.; infatti Fazio
+degli Uberti ne parla nel ^Dittamondo~, III, viii, 85-91.
+
+	|un Piramo~: narra Ovidio (^Metam.~, IV, 55) che Piramo
+si uccise sotto un gelso e, avendone bagnato col suo sangue i
+rami, i frutti da bianchi si tramutarono in vermigli.
+
+	Tutto il discorso di Beatrice @e volutamente complesso ed
+ermetico, non solo per conferire solennit@a alla sua parola e alla
+sua profezia, bens@i anche per adeguare la sua psicologia di anima
+beata e illuminata ad un livello extratemporale e ultraterreno.
+
+	|73-78.  Ma perch'io~: ma per il fatto che io vedo te
+pietrificato dai pensier vani (|fatto di pietra~), cio@e
+incrostato da quei pensier vani al punto da diventar duro come
+una pietra (come @e indicato dalla prima similitudine dell'acqua
+d'Elsa) e poi anche oscurato, ottenebrato (|tinto~: scuro)
+nell'intelletto (come @e indicato dal secondo paragone), cos@i che
+la luce delle mie parole ti soverchia, voglio ancora (@e il
+secondo |voglio~ imperioso di B.) che tu rechi nel tuo animo, se
+non scritto chiaramente, almeno adombrato, tracciato
+sommariamente (|dipinto~), il mio discorso, come ricordo, per la
+ragione medesima per cui il bastone (|bordon~) ornato di palma
+viene recato dai pellegrini della Terrasanta come segno
+vittorioso del loro viaggio.  La parola di Beatrice, dunque, sar@a
+per D. come il segno del suo viaggio oltremondano, gi@a
+felicemente compiuto, in quanto ha precisato e fissato la
+profezia di un rinnovamento del mondo per opera di un inviato da
+Dio.
+
+	|79-81.  come cera~: cos@i come la cera conserva
+inalterata la figura impressa dal suggello, ora il mio intelletto
+@e improntato in modo indelebile (|segnato~) dalle vostre parole. 
+L'immagine dell'ingegno paragonato alla cera @e di S. Girolamo
+nell'Epistola a Paolino che precede la Bibbia: <Mollis cera, et
+ad formandum facilis, etiam si artificis et plastae cessent
+manus>; cfr. anche, ^Bull.~, IX, 42.
+
+	|82-84.  Ma perch$e~: ma come mai accade che la vostra
+parola, che io ho tanto desiderato, si leva cos@i in alto (|vola~)
+al di l@a delle mie capacit@a intellettuali (|sovra mia veduta~:
+sopra la mia capacit@a di vedere), che, quanto pi@u si sforza di
+capirla, tanto pi@u la mia intelligenza (|veduta~, sogg.) la perde
+di vista, cio@e meno la intende?
+
+	Si chiarisce qui la dialettica narrativa e dialogica del
+poema tra D. condizionato dal tempo umano, dal suo essere
+corporeo, e Beatrice condizionata dal senso dell'eterno, dalla
+sua beatitudine celeste.
+
+	|85-87.  Perch$e~: affinch$e tu comprenda (|conoschi~)
+quanto sia insufficiente alla mia la scuola filosofica che hai
+seguito finora, e possa constatare (|veggi~) da te stesso come i
+suoi insegnamenti (|dottrina~, da ^doceo~) siano capaci di
+seguire e capire la mia scienza divina (|parola~).  La prima
+ragione del difficile parlare di Beatrice @e quella di
+dimostrargli chiaramente che la filosofia umana e naturale @e da
+sola incapace e insufficiente a penetrare nei misteri della fede. 
+La colpa rimproverata da Beatrice <@e una sola: di aver amato pi@u
+i beni mondani che Dio; e la |scola~ che ha seguitato @e la povera
+sapienza del mondo, i |difettivi sillogismi~ che fanno battere in
+basso l'ali, la |veduta corta d'una spanna~: invece di levarsi
+dietro a Beatrice a conoscer ed amar |lo bene di l@a dal quale non
+@e a che s'aspiri~, s'era lasciato traviare dal ^falso piacere de
+le presenti cose~, e aveva v@olto i passi ^per via non vera...~  @E
+quella che sant'Agostino (^De Trinitate~, XII, xiii, 25) chiama
+la ^scienza~ rispetto alla ^sapienza~, e fu causa nel poeta, se
+non di vera e propria ^aversio a Deo~, certo di ^conversio ad
+temporalia~> (Barbi, ^Probl.~, I, 138 e nota).
+
+	Certamente i termini |scola~ e |dottrina~ indicano gli
+studi filosofici, dal poeta esaltati nel ^Convivio~, come se la
+sola filosofia potesse risanare il mondo; ora, egli, pentito
+avverte i limiti e gli errori di tale convincimento, che fu anche
+uno degli aspetti del suo traviamento morale.  Ma su questo
+problema bisogna evitare tanto le esagerazioni del Pietrobono che
+lo faceva quasi eretico per troppa fiducia nella ragione, o del
+Parodi che indicava nella scola la dottrina dei curialisti che
+ritenevano valida la supremazia del papa sull'imperatore.  Il
+traviamento che qui Beatrice contesta a D. @e perfettamente quello
+che lo ha fatto smarrire nella ^selva oscura.~
+
+	|88-90.  e veggi~: e affinch$e tu veda che la scienza
+umana (|vostra via~) @e tanto lontana da quella divina, cio@e dalla
+via della verit@a, quanto si allontana, dista (|discorda~) dalla
+terra il cielo che s'affretta (|festina~: lat. ^festinat~),
+compie il suo giro nella parte pi@u alta dell'universo, cio@e il
+Primo Mobile, che @e il pi@u alto e il pi@u veloce dei cieli. 
+Beatrice indica come seconda ragione del suo alto parlare, il
+fatto che la scienza umana dista da quella divina, quanto la
+terra dal Primo Mobile.  Il tempo e l'eterno, l'umano e il
+divino, la terra e l'oltremondo, che durante l'ascesa
+purgatoriale sembravano cos@i vicini, da annullare talvolta le
+distanze nella qualit@a dei sentimenti e delle passioni umane che
+caratterizzavano i personaggi storici incontrati, ora
+ridimensionano le loro caratteristiche spirituali e la loro
+abissale diversit@a: siamo vicini al Paradiso.
+
+	|91-93.  non mi ricorda~: io non mi ricordo di essermi
+mai estraniato, allontanato da voi, n$e ho di tala colpa (|honne~:
+ne ho), cio@e di averti lasciata, alcuna consapevolezza di
+rimorso, cio@e non ho coscienza che mi rimorda di ci@o.
+
+	|94-96.  E se~: e se tu non puoi pi@u ricordarti di esserti
+allontanato da me, ricordati almeno che proprio oggi (|ancoi~)
+hai bevuto l'acqua del Let@e.  <Il dialogo, cominciato alto e
+severo, finisce familiare e garbatamente ilare con la viva
+rappresentazione dell'oblio che D. ha bevuto all'acqua di Let@e. 
+Sorride Beatrice e in quell'oblio appunto riconosce la prova dei
+traviamenti di D.; perch$e Let@e cancella la memoria solo delle
+colpe; onde da quell'oblio s'argomenta la colpa della sua
+volont@a straniata da lei> (Rossi, ^l.c.~ {^Il c. XXXIII del
+Purg.~, Torino, S.E.I., 1965 [1921]}, 24).  Lo stile
+familiare e conversevole @e scandito anche dalla ripresa di
+Beatrice che ricalca (|non mi ricorda -- e se tu ricordar non
+te ne puoi~) ^ad litteram~ il verbo usato da D.
+
+	|97-99.  se dal fummo~: e se dal fumo si deduce
+(|s'argomenta~) l'indizio e la prova che ivi c'@e il fuoco,
+cotesto tuo oblio dimostra (|conclude~) chiaramente l'esistenza
+della colpa nella tua volont@a rivolta (|attenta~) ad altra
+persona (|altrove~) anzich$e a me.
+
+	|100-102.  Veramente~: ma d'ora innanzi |oramai~) le mie
+parole saranno semplici e chiare (|nude~), tanto quanto sar@a
+conveniente (|converrassi~) renderle accessibili, farle nude
+(|scovrire~: continua la metafora del |nude~), alla tua capacit@a
+d'intendere (|vista~) che @e ancora non educata, incapace (|rude~)
+a sostenerne l'intensit@a.
+
+	|103-105.  E pi@u~: il sole divenuto pi@u fiammeggiante
+(|corusco~) e procedendo pi@u lentamente (|con pi@u lenti passi~)
+di prima (in quanto si trovava nel mezzogiorno) occupava
+(|teneva~) il meridiano (|cerchio di merigge~), che si sposta
+(|fassi~) ora qua ora l@a a seconda dei punti di vista e di
+osservazione da cui uno guarda il cielo (|come li aspetti~). 
+Infatti la longitudine d@a ad ogni osservatore un meridiano
+diverso di chi non si trova al medesimo grado.  @E l'ultimo
+accenno cronologico di questo viaggio nel Purg. che precisa
+l'arrivo all'Euno@e nel pieno mezzogiorno.
+
+	|merigge~: <Il rito finale dell'abluzione nell'Euno@e
+viene preparato da una stupenda inquadratura idillica, sormontata
+da quell'incombere di dati astronomici che sono una nota costante
+del paesaggio purgatoriale... che d'altra parte il mezzogiorno
+abbia un valore ritualistico in ordine alla cerimonia che sta per
+celebrarsi, @e plausibile se poniamo mente al IV del ^Conv.~,
+xxiii, 15. -- lo mezzo die @e lor pi@u nobile e la pi@u virtuosa ora
+-- in cui la Chiesa appressa i suoi uffici> (Lanza, ^l.c.~ {^Il
+c. XXXIII del Purg.~, in <Lett. scal.>, Firenze, 1963}, 1229).
+
+	|106-108.  |quando~: quando le sette donne (le tre virt@u
+teologali e le quattro cardinali) si fermarono (|s'affiser~),
+cos@i come si ferma (|s'affigge~) chi va avanti ad una compagnia
+col compito di guidarla (|per iscorta~), se trova davanti a s$e
+nel suo cammino (|in sue vestigge~: plur. di |vestigia~ arc. |nei
+suoi passi~) qualcosa d'insolito; seguendo la lezione: |novitate
+o sue vestigge~, il senso @e: se scorge qualcosa d'insolito o
+indizi, tracce di novit@a.
+
+	|109-111.  al fin~: le sette donne, che reggevano i sette
+candelabri, si fermarono al confine, al margine (|al fine~) di
+una zona d'ombra attenuata (|smorta~: il Malagoli intende: priva
+di qualsiasi riflesso di luce e perci@o cupa, tale da dare un
+carattere smorto a tutte le cose) rispetto all'ombra cupa della
+selva, ombra simile a quella che la montagna (|Alpe~) produce e
+spande (|porta~) sui suoi freddi rivi col suo fogliame
+verdeggiante e i suoi rami oscuri.  Il tema paesaggistico della
+divina foresta riaffiora, ancora una volta, come motivo di fondo
+idilliaco, non solo per indicare lo stato dell'innocenza edenica
+dell'uomo, ma anche per evidenziare la suggestione magica
+dell'atmosfera sovrannaturale e mistica da cui il pellegrino @e
+avvolto al momento del rito finale della purificazione
+dell'Euno@e.  Cfr. Barbi, ^Probl.~, I, 285.
+
+	|112-114.  Dinanzi ad esse~: mi parve di vedere dinanzi
+alle sette donne i fiumi Tigri ed Eufrate che uscivano dalla
+medesima sorgente e allontanarsi in direzioni diverse
+(|dipartirsi~), come due amici che per il dispiacere di separarsi
+procedono lentamente (|lenti~).  Stupenda inquadratura
+psicologica del paesaggio idilliaco, che ora si anima di una vita
+e di un impulso quasi umano ed elegiaco.  Cfr. ^Genesi~, II,
+10-14, dove si racconta che questi due fiumi nascevano da
+un'unica sorgente nel Paradiso terrestre.  Ma il riferimento era
+anche in Boezio, ^De cons. phil.~ V, I: <Tigris et Euphrates uno
+se fonte resolvunt Et mox abiunctis dissociantur aquis>.
+
+	|115-117.  O luce~: o Beatrice, tu che sei luce e gloria
+dell'umanit@a, in quanto depositaria della scienza divina e
+simbolo della Rivelazione (cfr. ^Inf.~ II, 76-78) che acqua @e
+questa che scaturisce (|si dispiega~) da una stessa sorgente e si
+allontana da s$e stessa, dividendosi in due rami diversi?  D. fa
+finta di aver dimenticato quel che gli aveva detto Matelda nel
+XXVIII del ^Purg.~  Di qui la risposta di Beatrice che suona
+quasi un richiamo per Matelda, che non avrebbe ottemperato bene
+alla sua funzione.
+
+	|118-119.  Per cotal~: a causa di questa domanda, mi fu
+risposto da Beatrice: prega Matelda che te lo spieghi.  @E
+soltanto qui che viene pronunciato il nome della bella donna, la
+cui identificazione storica @e stata oggetto di particolari studi
+da parte dei dantisti.  L'unica osservazione che qui aggiungiamo
+a quanto gi@a detto prima su Matelda @e il fatto che questo nome
+viene pronunziato da Beatrice proprio nel momento in cui essa
+vien richiamata alla sua funzione specifica di aiutare D. alla
+sua purificazione nei due fiumi.
+
+	|120-123.  come fa~: Matelda rispose come fa colui che si
+giustifica (|si dislega~) da colpa: questa cosa ed altra gli
+furono gi@a spiegate da me (|per me~); e son certa che l'acqua del
+Let@e non gliene ha cancellato il ricordo (|il nascose~).
+
+	|124-126.  E Beatrice~: Beatrice risponde con lieve
+malizia.  Escluderei la tesi del Pietrobono che qui vede <una
+scena di finissima gelosia femminile che si risolve in uno
+scambievole sorriso> tra le due donne.
+
+	|spesse volte~: forse l'eccessiva attenzione allo
+spettacolo della processione e della mia apparizione, che spesso
+svuota, debilita la memoria, ha fatto oscura, ha ottenebrato la
+sua memoria (|mente~), riguardo alla vista, a ci@o che ora vede. 
+<Se |maggior cura~ non @e altro che lo spettacolo magico della
+foresta e della mistica processione, tutto si proporziona e si
+giustifica in ordine all'ancor |rude~ vista di D.; se @e invece il
+desiderio di guardare Beatrice, disbramandosi la |decenne sete~,
+allora le linee della scena acquistano una mobilit@a di sfumature
+e di echi psicologici che ne fanno un capolavoro di controcanto>
+(Lanza, ^l.c.~ {^Il c. XXXIII del Purg.~, in <Lett. scal.>,
+Firenze, 1963}, 1230).
+
+	|127-129.  Ma vedi~: ma vedi l'Euno@e che si dirama da
+quella parte (|l@a~), separandosi dal Let@e; conducilo ad esso,
+come tu sei solita fare (|se' usa~), ravviva in lui la facolt@a
+della memoria, del ricordo delle buone opere (|tramortita
+virt@u~), che il Let@e aveva in qualche modo affievolito.  Da
+queste parole sembra confermato chiaramente che la funzione di
+Matelda @e quella di immergere nel Let@e le anime e di far loro
+bere anche l'acqua dell'Euno@e.  Pu@o darsi, per@o, che D. non ha
+descritto il medesimo rito di Stazio, onde evitare una
+ripetizione della sua solenne liturgia, che pi@u direttamente
+interessava il racconto itinerale.  Cfr. Barbi, ^Probl.~ I, 285;
+e anche ^Inf.~ XIV, 136-38, in cui @e detto che le anime vanno a
+lavarsi, quando sono purificate.
+
+	|130-135.  anima gentil~: come un'anima nobile
+(|gentil~), che non adduce scuse per sottrarsi al suo dovere, ma
+fa, trasforma in sua volont@a la volont@a degli altri, appena
+questa si manifesta esteriormente (|fuor dischiusa~) con qualche
+segno (|per segno~) con parole o atti; cos@i, dopo che fui preso
+per mano da Matelda, la bella donna, cio@e lei, si mosse, e disse
+a Stazio con la grazia degna di una donna raffinata
+(|donnescamente~, da ^domina~); vien con lui.
+
+	|136.  lettor~: l'appello al lettore, in un momento di
+particolare tensione catartica, come @e questo che precede
+l'epilogo della cantica, pur ricalcando lo stile sublime della
+poesia classica, riesce a trasmetterci l'emozione finale della
+raggiunta purificazione e della conclusione liturgica, facendoci
+partecipi della sua umiliazione interiore, ma <@e anche un modo
+discreto di associare chi legge al compito profetico che il poeta
+si @e assunto, di farlo partecipe d'un messaggio che riguarda lui
+come ogni vivente.  I critici tedeschi da Auerbach a Gmelin
+studiando il catalogo delle forme e delle figure dantesche nel
+loro rapporto con la retorica antica e mediolatina, hanno
+avvertito la novit@a di questi appelli al lettore, disseminati
+lungo l'arco dei cento canti, specialmente se confrontati con
+l'apostrofe classica> (Lanza, ^l.c.~ {^Il c. XXXIII del Purg.~,
+in <Lett. scal.>, Firenze, 1963},1231).
+
+	|137-138.  'n parte~: canterei, continuerei a cantare
+(|pur canterei~) anche parzialmente, per quel che mi @e possibile
+con la mia arte, il dolce bere le acque dell'Euno@e, che mai mi
+avrebbe saziato.
+
+	|139-141.  ma perch$e~: ma perch$e ormai son ripiene tutte
+le carte predisposte (|ordite~), come l'ordito della tela, per
+questa seconda cantica (il complesso dei 33 canti, secondo la
+definizione stessa di D.) non mi consente di proseguire oltre la
+stessa disciplina tecnica della narrazione (|lo fren de l'arte~).
+
+	|142-145.  Io ritornai~: io ritornai dalla santissima
+acqua dell'Euno@e, rinnovato a nuova vita, come di primavera le
+piante giovani (|novelle~) rinnovate di nuove fronde, purificato
+del peccato e del ricordo, e disposto per la rinnovata memoria
+del bene a salire alle stelle.  L'immagine primaverile dell'anima
+rinnovellata @e coerentemente rispondente al motivo di fondo della
+divina foresta, della natura virginea che ha fatto da tema lirico
+e psicologico a tutte le sequenze di questi ultimi sei canti. 
+<D. ci fa sentire, con fine accorgimento psicologico, l'effetto e
+non il processo della purificazione: riesperimentando cos@i in s$e
+il tema di Stazio che avverte la liberazione soltanto quando essa
+@e in atto nella libera volont@a di miglior soglia.  Nella selva
+selvaggia il poeta aveva taciuto la vicenda della deviazione
+peccaminosa, qui, all'uscita da altra e diversa foresta, ma
+simmetrica e opposta a quella dell'esordio infero, tace la
+vicenda della riconquistata autonomia spirituale.  @E una di
+quelle rispondenze che chiudono in cerchio armonioso il tragitto
+dall'abisso al monte; dal buio che aveva preceduto l'apparizione
+di Virgilio alla luce del pieno meriggio; d'una in altra selva,
+da un attonito smemorarsi ad una riconquistata coscienza del
+bene, dalle stelle perdute alle stelle ritrovate, che attendono
+il nuovo pellegrino dei cieli> (Lanza, ^l.c.~ {^Il c. XXXIII del
+Purg.~, in <Lett. scal.>, Firenze, 1963}, 1233).

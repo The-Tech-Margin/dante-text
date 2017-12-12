@@ -1,0 +1,112 @@
+	|Proemio~.   |Per me si va ne la citt@a dolente~.  Auctor in hoc tertio capitulo tria principaliter
+facit: nam primo exordium suum ponit ad introitum primum ^Inferni~ usque ibi: |Et io ch'avea d'error la
+testa cinta~ {v. 31}; ibi incipit dicere de animabus captivorum, procedendo usque ibi: |E poi ch'a
+riguardar oltre mi dedi~ {v. 70}; ibi incohat dicendum de primo flumine Inferni, procedendo usque ad
+finem huius capituli.
+
+	|1-30.~  Ad primum auctor, cum Virgilio se fingit devenisse ad illam portam mistici Inferni, -- de
+qua ^Mathei~ capitulo vii+o~, dicitur ibi: ^Intrate per portam angustam, quia lata porta ducit ad
+perditionem~ {^Matth~. VII 13}, et per Virgilium in vi+o~ dicentem: ^Tres Anchisiades, faciles
+descensus Averni: / noctes atque dies patet atri ianua Ditis~ {Verg., ^Aen~. VI 126-7}, et per
+Statium dicentem: ^Trenaree limen petit inremeabile porte~ {Stat., ^Theb~. I 96},  -- et vidisse super
+eam hoc epitaphium scriptum continens hec verba: per me itur in civitatem dolentem, -- hoc est in
+collectionem hominum in hoc mundo vitiose viventium allegorice loquendo.  ^Nam~, ait Augustinus in
+xiv+o~ ^De Civitate Dei~, loquens circa talia et in tali sensu, ^in genere humano societates~, idest
+collectiones, ^tanquam civitates fecerunt amores duo: terrenam amor sui, celestem amor Dei~
+{Aug., ^Civ. Dei~ XIV 28}, -- item in ecternum dolorem: hoc referri debet ad essentialem Infernum, --
+iuxta illud Evangelicum: ^Ite maledicti in ignem eternum~ {^Matt~. XXV 41}, -- et Psalmista, etiam in
+hoc considerative dixit: ^Dolores Inferi circumdederunt me~ {^Ps~. XVII 6}, -- item in perditam gentem:
+hoc ad utrumque Infernum potest referri, ad quod ^Psalmista~: ^Ne perdas cum impiis Deus animam
+meam et cum viris sanguinum vitam meam~ {^Ps~. XXV 9}.  Item continebatur in eo epitaphio etiam
+quomodo deitas, Pater, Filius et Spiritus Sanctus illam portam fecit ante creationem mortalium et
+corruptibilium rerum, sed cum ipsis ecternis rebus instituta est, exigente iustitia pene Luciferi et suorum
+complicum ruentium immediate in ipsum Infernum facto celo et terra.  Augustinus, ^Super Genesi~ ait:
+^Non frustra putari potest ab initio temporis diabolum superbia cecidisse~ {Aug., ^Gen. Litt.~ XI xvi
+21}, et sic bene sequitur quod durabit in ecternum dicta porta, ut dicitur hic in textu, ad quod dicitur
+^Ysaie~ v+o~ capitulo: ^Propterea dilatavit animam suam Infernus et aperuit os suum~ ^absque ullo
+termino~ {^Is~. V 14}.  Ultimo dicit dictum epitaphium quod intrantes per eam portam dimictant omnes
+spem exeundi eam: hoc referas ad essentialem Infernum, ad quod respiciens, ^Iob~ capitulo x+o~ ait:
+^Antequam vadam et non revertar ad terram tenebrosam et opertam caliginem mortis~ {^Iob~ X
+21}, inducendo inde auctor Virgilium ad dicendum sibi quomodo videbit ibi gentem que perdidit bonum
+intellectum, idest Deum, in quo consistit beatitudo, que dicitur bonum predictum intellectus, secundum
+Phylosophum in iii+o~ ^De Anima~ {Arist., ^Anim~. III vi 430b 27-9}, et in vi+o~ ^Ethicorum~ dicit quod
+^Bonum intellectus est verum seu veritas~ {Thom., ^Eth. exp.~ VI iii 1143}, que secundum Thomam
+dicitur ^Adequatio intellectus ad rem~ {Thom., ^Theol~. I xvi 1}, et secundum hoc ultimum debet referri
+quod dicitur hic in textu ad gentem vitiosas in hoc mundo existentem, ut in Inferno quodam, tali lumine
+intellectus obscuratam, ut supra dictum est, faciens inde auctor operationem de revolutione pulverulenta
+illius venti, qui dicitur 'turbo' ad tumultum illius aeris infernalis sine tempore tincti nocturna nigredine.  Et
+dicit sine tempore ad differentiam aeris huius nostri mundi qui ad tempus tingitur obscuritate noctis et ad
+tempus clarescit diurnitate solis quasi includat quod semper ibi est nox et obscuritas sine tempore, idest
+sine aliquo intervallo diurni temporis, et ex hoc scribit Virgilius in vi+o~ {cf. Verg., ^Aen~. VI 253-316};
+quod Greci vocarevunt Avernum, quod interpretatur 'sine tempore', et hoc quantum ad primum. 
+
+	|34-60.~  Ad secundum veniamus premictendum iterum quod scripsi supra in prohemio huius
+comenti, quomodo scilicet iste auctor sub tipo Paradisi scribere intendit de statu viventium in hoc
+mundo virtuose continue, et sub typo Purgatorii de statu illorum qui, cognita per gratiam Dei vilitate
+humane voluptuose vite ab ea quasi se purgando deverterunt, et virtuose vite se dederunt, ac sub tipo
+Inferni de statu viventium in hoc mundo in totum actualiter vitiose.  Verum quia illi quos in hoc mundo
+captivos vocamus propter eorum ignaviam et pusillanimitatem et miseriam non possunt dici virtuosi nec,
+dimissis vitiis, virtutibus inherere; nam actualiter vitiosi merito non possunt fingi esse in celo nec in
+Purgatorio nec in Inferno; igitur auctor eos, ita separatos, ponit extra Infernum puniri et cruciari stimulis
+et acculeis vespium et muscarum, in quibus auctor allegorice demonstrare vult solum miserrimos motus
+et operationes eorum pusillanimes, contra quos dicitur in ^Ecclesiastico~ capitulo vii+o~: ^Noli esse
+pusillanimis in anima tua~ {^Eccli~. VII 9}; quos tales captivos auctor dicit etiam hic nunquam fuisse
+vivos, moraliter loquendo, de quibus ad idem ^Psalmista~ inquit: ^Deleantur de libro viventium, et cum
+iustis non scribantur~ {^Ps~. LXVIII 29}, et etiam forte Seneca ad hoc respexit, in prima ^Epistula ad
+Lucilium~, dum dicit: ^Maxima pars vite labitur male agentibus, magna nichil agentibus, tota aliud
+agentibus~ {Sen., ^Ep. Lucil.~ I 1}, pro quibus istis ultimis intellexit de huiusmodi hominibus captivis qui
+non possunt in hoc mundo vere dici non aliquid operari, ut negligentes, nec male actualiter operari sed in
+suis miseris operibus semper ut mortui vivere in hoc mundo.  Et ex hoc dicit hic auctor in persona
+Virgilii quod anime dictorum captivorum unite sunt cum illis angelis qui non fuerunt boni nec mali
+tenendo cum Deo vel cum Lucifero, quos Ugo de Sancto Victore dicit puniri etiam extra Infernum in
+loco et aere caliginoso {cf. Hug. Vict., ^Summ~. ^Sent~. II 4}, inter quos auctor fingit se vidisse umbram
+illius qui quadam pusillanimitate ut vilis renuit papatum, scilicet is fuit papa Celestinus Quintus, ut quidam
+dicunt, sive imperium, si fuit Deuclitianus qui, illud existens, etiam imperator, ut scribit Eutropius {Eutr.,
+^Brev~. ^Urb~. IX 28}, dimissit, et hec quantum ad secundum.  
+
+	|70-136.~  Venio ad tertium dictum huius auctoris fingentis ita se devenisse cum Virgilio ad hoc
+flumen Acherontis primum infernale ut Eneas cum Sibilla, de quo in tali passu ipse Virgilius in vi+o~ sui
+^Eneidos~, quem auctor hic ad licteram sequitur, ita ait: ^Hinc via Tartarei que fert Acherontis ad
+undas. / Portitor has horrendas aquas et flumina servat / terribili squalore Charon, cui plurima
+mente / canities inculta iacet, stant lumina flamme. / Ipse ratem compto subigit velisque
+ministrat / et ferruginea subvectat corpora cymba, / iam senior, sed cruda deo viridisque
+senectus. / Hunc omnis turba ad ripas effusa ruebat / quam multa in silvis autumpni frigore
+primo / lapsa cadunt folia~ etc. {Virg., ^Aen~. VI 295, 298-300, 302-5, 309-10}.  Quam
+comparationem facit etiam hic auctor, cui conformantur illa verba ^Ecclesiastici~ capitulo xiiii+o~: ^Sicut
+folia in arbore alia generantur et alia cadunt, sic generatio carnis et sanguinis~ {cf. ^Eccli~. XIV 28-9}.  Et subdit Virgilius: ^Stabant orantes primi transmictere cursum / tendebantque manus ripe
+ulterioris amore. / Nauta sed tristis nunc hos nunc accipit illos~, et subdit: ^Sic prior aggreditur
+dictis atque increpat ultro: / "quisquis es, armatus qui nostra ad flumina tendis, / fare age, quid
+nominas, iam istic et comprime gressum. / Umbrarum hic locus est, sompni noctisque sopori: /
+corpora viva nephas Stigia nactare carina". / Quem contra breviter fata est Anfrixia vates; /
+"nullo hic insidie"~ ecc., et subdit ille admirans: ^Ceruleam advertit puppim ripeque propinquat. /
+Inde alias animas, que per iuga longa sedebant, /  deturbat laxatque ferox; simul accipit alveo /
+ingentem Eneam. Gemuit sub pondere cimba / subtilis et multam accepit rimosa paludem. /
+Tandem trans fluvium incolumes vatemque virumque / informi limo glaucaque exponit in ulva~
+{Verg., ^Aen~. VI 313-5, 387-91, 398-9, 410-6}.  Que carmina pro se declarant ad licteram carmina
+satis huius tertie et ultime partis presentis capituli; quare restat allegorizare solummodo ipsa, unde
+prenotandum est quod hoc primum infernale flumen Acheron interpretatur 'sine gaudio', de quo sic ait
+Macrobius: ^Acherontem quicquid fecisse dixisseve usque ad tristitiam humane varietatis more~
+etc. {Macr., ^Somn. Scip. comm.~ I x 11}. Quidam vero dicunt Acheron interpretari 'sine gratia',
+quod in idem recidit, et allegorice hoc primum flumen infernale debet accipi hoc pro primo nostro
+inclinabili fluxu ad voluptates mondanas in adolescentia incipiente nos prius ducere ad Infernum, idest ad
+statum infimum vitiorum, immemores Dei, ad hoc ^Psalmista~ ait: ^Convertantur peccatores in
+Infernum, omnes gentes que obliviscuntur Deum~ {^Ps~. IX 18}.  De quibus talibus ita labentibus ad
+dictum statum voluptuosum per hoc tale figuratum flumen ut ad Infernum in hoc mondo tangit Seneca
+^Ad Lucilium~ dicens: ^Ceteri, eorum more que fluminibus natant, non eunt sed feruntur; ex quibus
+alia levior unda detinuit, ac molius vexit, alia vehementior rapuit, alia proxime ripe cursu
+languescente deposuit, ita dico precipiti voluptati voluntas ad dolorem vergit~ {Sen., ^Ep. Lucil~.
+XXIII 8}.  Ad quam allegoriam facit quod ait ^Psalmista~ dicens: ^Vox Domini super aquas multas~,
+super quibus verbis dicit ^Glosa~: ^Idest super illos qui in fluxu huius seculi sunt~ {^Ps~. XXVIII 3 e ^Gl~.
+rel.}.  Caron enim, nauta huius talis fluminis, interpretatur 'tempus': nam dicitur Caron 'quasi Cronum',
+quod 'tempus' interpretatur, quod quidem tempus nos vehit per discursus mundi huius ut nauta quidam
+et malorum animas tandem ad Infernum de hac vita transportat, ut resultat ex premissis Virgilii et
+auctoris versibus, et ex illis Ovidii dicentis in xv+o~: ^Ipsa quoque assiduo volvuntur tempora motu, /
+non secus ac flumen, neque enim consistere flumen, / nec levis aura potest, sed ut unda impellitur
+unda, / tempora sic fugiunt pariter pariterque sequuntur~ {Ov., ^Met~. XV 179-81, 183}, et ex illis
+verbis Senece dicentis ^Ad Lucilium~: ^Corpora nostra labuntur more fluminis, nam quicquid vides
+currit cum tempore~ {Sen., ^Ep. Lucil~. LVIII 22}, modo quia hominem in hoc mundo viventem
+corporaliter et virtuose non tempus sed potius gratia transducere habet ad cognitionem vilipendendarum
+rerum huius seculi ut ad quendam Infernum, ideo inducit auctor dictum Caronem sub dicto significatu
+conqueri de eius tali transitu ut persone viventis, subaudi virtuose, et quia ad hec talia speculative
+contemplanda venitur, fingit se de una ad aliam dicti fluminis dormiendo auctor fuisse ita translatum ibi
+per dictum Caronem.

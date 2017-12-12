@@ -1,0 +1,400 @@
+	|Proemio.~  Continua s@e l'Autore al precedente capitolo,
+nel quale ha trattato dell'anime beate, le quali furono
+contemplanti, ed elessero vita solitaria, contente di quello che
+alla natura basta; s@i come le genti che vissero sotto il governo
+di Saturno.  Il quale trattato qui perseguita.  E per@o che ivi
+furono dette parole, ed uditi suoni, cagione di stupore
+nell'animo, prima di quello stupore qui tratta; poi il trattato
+cominciato perduce a fine; ultimo, sale a maggiore grado, cio@e
+all'ottava spera.  E puotesi dividere questo capitolo in otto
+parti: nella prima riepiloga quello ch'@e detto nel precedente
+capitolo; nella seconda introduce anime di questa spera; nella
+terza parla e palesa s@e una di quelle anime, cio@e san Benedetto,
+e palesa alcune delle consorti anime; nella quarta l'Autore
+inchiede, se puote vedere per essenza l'anima di san Benedetto;
+nella quinta si risponde alla domanda, e riprende li monaci e
+pastori moderni; nella sesta parte si sale nello circolo del
+zodiaco, e ottava spera; nella settima referisce grazie a Dio;
+nell'ottava e ultima parte riepiloga tutte le spere passate, e
+loro pochezza, e la piccolezza della terra.  La seconda parte
+comincia quivi -- ^Come a lei piacque~ ec.; la terza quivi -- ^E
+la maggiore~ ec.; la quarta quivi -- ^Ed io a lui~ ec.; la quinta
+quivi -- ^Ond'elli: Frate~ ec.; la sesta quivi -- ^La dolce
+donna~ ec.; la settima quivi -- ^O gloriose stelle~ ec.; l'ultima
+quivi -- ^Tu se' s@i presso~ ec.  Ed in questo canto sono da
+notare due cose; l'una il male che genera il carnale amore de'
+parenti nelli monaci, e loro biasimevole vita circa il donare
+alli predetti quello che si dee contribuire alli poveri di Dio,
+ed in dare a cani, a cavalli, ad uccelli e simili quello che si
+dee provedere allo aff[li]tto di Cristo (la cui forma ripresenta
+il digiuno povero), allo ignudo e non albergato figliuolo di Dio
+(la cui specie rassegna il bisognoso Cristiano).  E poi, circa la
+ottava spera, il carnale amore de' parenti, e le disordinate
+spese nelli bruti animali, @e molto da riprendere nelli cherici, e
+pi@u nelli monastici; per@o che quello ch'@e di Dio prodigalizzano
+al loro sangue ed alle brute bestie.  Sei cose sono, che da
+questo prodigalizzare li dovrebbe ristrignere.  La prima @e, che
+questi beni ecclesiastici sono de' poveri, onde alli poveri si
+debbono elemosinare, s@i come puote essere manifesto per le parole
+di santo Geronimo: <Ci@o che hanno li cherici, @e de' poveri>; la
+qual cosa intendiamo de' beni ecclesiastici.  San Bernardo: <Le
+facultadi delle chiese sono patr[imo]nii de' poveri, e per
+sacrilega crudeltade @e tolto loro ci@o che li ministri e
+dispensatori (non gi@a di Dio), e posseditori ricevono per s@e,
+oltre il vivere e 'l vestire>.  Elli medesimo: <La cosa de'
+poveri non darla a' poveri, @e peccato di sagrilegio>.  Geronimo:
+<Parte di sagrilegio @e, la cosa de' poveri non darla a' poveri>. 
+Bernardo: <Gridano li nudi, gridano li affamati, e lamentansi de'
+cherici, dicendo: A noi, che miserabilmente appeniamo per fame e
+per freddo, che giovano tante veste da mutare, stese in sulle
+pertiche, o piegate nelle casse?  Elli @e nostro quello che voi
+spendete: or non @e a noi crudelmente sottratto quello che
+vanamente gittate?  Noi siamo ricomperati del sangue di Cristo; e
+voi, fratelli nostri, vedete quale sia a pascere li occhi vostri
+della parte che n'era assegnata del Cielo> ec.  La seconda cosa
+@e, che li beni de' cherici spessamente sono tolti, li quali erano
+comperati del sangue di Cristo: onde sconvenevole @e, delle
+limosine de' poveri fare grandi conviti alli ricchi.  La terza
+cosa @e, che li cherici debbono essere regola ed esemplo agli
+altri; onde sconvenevole @e, quando elli corrompono quelli con
+loro soperchi conviti, li quali elli doverieno sanare; e coloro
+maculano, li quali elli dovrebbono mondare e santificare.  La
+quarta cosa @e la moltitudine e grandezza de' peccati che
+seguitano in loro di questo vizio, perocch@e indoventano rattori,
+simoniaci, oppressori de' poveri, e scorticatori de' sudditi.  La
+quinta cosa @e che, questo vizio molto gl'impedisce dall'offizio
+divino intendere.  La sesta ed ultima cosa, e maggiore cosa, che
+dee costrignere li dispensatori de' beni ecclesiastici da
+prodigalitade, @e la considerazione dello stretto giudicio.  Dir@a
+il Signore: io ebbi fame ec.; e non solamente questi dispensatori
+non diedero mangiare al povero affamato, ma gliele tolsero. 
+Circa la ottava spera diremo, che il zodiaco @e uno circulo
+obblico, distinto da' savj in dodici parti iguali, chiamate
+dodici segnali, de' quali quattro sono cardinali, Cancro, Libra,
+Capricorno e Ariete.  Nullo luogo @e abitabile se non sotto il
+zodiaco; s@i come il gambero @e animale retrogrado, cos@i il Sole
+passando sotto quella parte del zodiaco dove @e Cancro, comincia a
+retrogradare, cio@e nell'ottavo grado di Cancro; e per@o infino a
+questo grado si leva pi@u alto il Sole verso la sommit@a della
+spera.  ^Leo~ @e animale ec. ^Virgo~ @e sterile ec.  ^Libra~ @e
+instrumento ec.  ^Scorpio~ @e animale molto pugnitivo ec. 
+Sagittario, s@i come la saetta ec. Capricorno, sempre tende al su
+ec.  Aquario, secondo le favole ec. ^Pisces~, per@o ch'@e a quel
+tempo ec. ^Aries~, per mezzo l'anno giace ec.  Tauro, per@o che
+allora @e la terra arabile ec.  Ora diremo di Gemini, del quale
+l'Autore fa qui speziale trattato, o vero festa, mostrando che
+nella sua nativitade fosse ascendente Gemini.  Secondo le favole,
+Castore e Polluce furono fratelli d'Elena (de' quali @e trattato
+di sopra, capitolo IV ^Purgatorii~, quivi -- ^Se Castore e
+Polluce~ ec.), nati ad uno parto; e dicono ch'elli furono
+convertiti in quello segnale, e che l'uno sta in Inferno per
+mezzo anno, l'altro in Cielo.  Per questa similitudine, si dice
+il Sole essere in Gemini, per@o che allora la terra per lo calore
+del Sole confortata produce frutti e foglie, o perch@e in quello
+mese si fanno molte battaglie.  Che l'uno si dica essere in
+Cielo, l'altro in Inferno, non @e altro se non che certa parte di
+quella costellazione, nella quale si poetizzano essere traslatati
+quelli due fratelli, @e nello emisperio di sopra, e l'altra nello
+emisperio di sotto.
+
+	|1-9.  Oppresso di stupor~ ec.  Qui nota l'Autore la sua
+disposizione, e dice che per lo tuono generato dal grido di
+quelle anime seguitanti uno ^amen~ al detto di Piero Damiani,
+esso era premuto di stupore; e cos@i fatto si rivolse a Beatrice,
+s@i come fa il fanciullo alla madre quando ha alcuna paura; la
+quale, s@i come madre a cotale figliuolo soccorrendo, disse --
+|Non sai tu che tu se' in Cielo~? quasi dica: tu se' in luogo
+dove nulla cosa da temere @e; ma tutto pieno di sicurt@a e di
+santitade: non puote qua su essere alterazione d'aere; s@i che
+puoi comprendere, che ci@o che ci si fa, viene da buono zelo.  E
+soggiugne:
+
+	|10-12.  Come t'avrebbe~ ec.  Le quali parole sono
+esposizione e dichiaragione del perch@e essa non rise in questa
+spera come nell'altre, e perch@e qui non fu il cantare come per li
+altri cieli.
+
+	|13-15.  Nel qual se inteso~ ec.  In questa lettera
+manifesta quello che nel grido di quelli beati si contenne; quasi
+gridassero: Iddio, fanne vendetta di coloro che commaculano li
+spirituali reggimenti in terra; la quale vendetta dice Beatrice,
+ch'elli vedr@a anzi ch'elli muoia.  Tuttod@i, chi guata con la
+mente sana, s@i vede di queste vendette e giustizie di Dio.
+
+	|16-18.  La spada~ ec.  Questo testo @e assai chiaro, nel
+quale nota due persone; l'una, cio@e l'offesa, disidera che Dio
+faccia vendetta tosto; l'altra @e l'offendente, e questa disidera
+che mai non si faccia di lei giustizia.  Or dice il testo, che la
+spada della giustizia di Dio non taglia in fretta al piacere di
+colui che il disia, per@o ch'@e offeso; n@e taglia tardi alla tema
+di colui che ha offeso, e aspetta d'essere punito con paura.
+
+	|19.  Ma rivolgiti~ ec.  Segue il poema, ed @e aperto:
+parole sono di Beatrice.
+
+	|22-24.  Come a lei piacque~ ec.  Parole sono
+dell'Autore; e dice, che poi ch'elli ebbe volti li occhi, vide
+cento piccole spere che l'una facea bella l'altra colli suoi
+raggi; ciascuna era ritonda: e dice -- |mutui rai~, cio@e che
+ciascuna gittava li suoi raggi nell'altra.
+
+	|25-27.  Io stava~ ec.  E questo testo @e chiaro, dove
+dice che la voglia del domandare che avea, chi fossero quelle
+anime, elli ristrignea in se medesimo.
+
+	|28-45.  E la maggior~... |La carit@a~ ec.  Ecco che a
+satisfare al disio dell'Autore, anzi che parli, la maggiore e la
+pi@u lucente di quelle sperule, le quali elli appella margherite,
+s'introduce, cio@e san Benedetto, il quale fu abate del monisterio
+di Monte Cassino (monte nel cominciamento del princip[ato] in
+Italia), e cacci@o la coltura degl'idoli di quella montagna, in
+sulla quale era il tempio d'Apollo consegrato con molti altri
+idoli, e convert@i li Pagani di quella montagna alla cattolica
+fede cristiana.  Dice dunque: Se tu vedessi, come io veggio, la
+caritade ch'@e tra noi di questo cielo, tu aresti gi@a manifestati
+li tuoi desiderii, e noi allora t'avremmo satisfatto.  Ma, acci@o
+che noi non volemo, che tu dimorando ritardi pi@u che non farai,
+d'andare all'alto fine, cio@e a Dio, ti satisfar@o.  -- |Quel
+monte~ ec.  Chiaro @e per quello che di sopra @e detto: san
+Benedetto fu prima eremita, poi circa li anni del Signore
+cinquecentotrenta edific@o il detto monisterio, e fu abate di
+santissima vita, del quale scrisse san Gregorio.  Fu nat@io di
+Norcia, e studi@o a Roma, e nella sua infanzia abbandon@o questo
+studio litterale, e diliber@o andarsene al diserto; e quale e
+quanta fosse poi la sua vita, e di quegli monaci, li quali
+osservarono la sua onestissima norma, appare ed @e manifesto.
+
+	|46-51.  Questi altri~ ec.  |Qui @e Maccario, qui @e
+Romualdo.~  Detto san Benedetto di s@e, per@o che ogni caritade
+comincia da se medesimo; qui manifesta e dice delli altri
+contemplanti di vita eremita, cio@e di santo Maccario e di santo
+Romoaldo.  Di santo Maccario si legge, che essendo egli abate
+discendea della sua cellola al cimiterio, lasciava il
+letticciuolo, e ven@ia a dormire al monimento; e venne al luogo
+dove erano seppelliti li corpi de' Pagani, e trassene uno corpo,
+e poseselo sotto il capo suo in luogo di guanciale.  Molte
+battaglie ebbe col diavolo, e tutte le vinse, s@i come appare
+nella sua leggenda: e 'l simigliante si legge di santo Romoaldo,
+de la cui vita e miracoli Piero Damiano scrisse largamente.
+
+	|52-60.  Ed io a lui~ ec.  In questa quarta parte
+mostrando, come il prevenire che fece san Benedetto, diede
+baldanza all'Autore di domandare; inchiede se esso puote avere
+tanta grazia, ch'egli il veggia in essenza, senza quelli raggi
+che il fasciano.
+
+	|61-63.  Ond'elli~ ec.  Questa risposta fa san Benedetto
+all'Autore; e dice, che 'l desiderio suo s'adempier@a in su
+l'ultima spera, cio@e in sul cielo impirio, dove si dice ch'@e Dio
+de' beati.  E per@o di quella perfezione dice:
+
+	|64-69.  Ivi @e perfetta~... ^In sin l@a su~ ec.  In questi
+nove versicoli parla circa la ineffabile essenza divina; e sono
+pieni di maggiori, anzi massimi intendimenti.  Onde nota, che
+nell'ordine delle spirituali creature, quella ch'@e in pi@u alto
+vede cotanto, quanto vede quella ch'@e di sotto; e cotanto pi@u,
+quanto piace al Creatore che abbia differenza in cognizione l'uno
+grado dall'altro.  E questo @e per limitato ordine.  Puote bene
+predestinare il Creatore, aggiugnendo grazia ad una di quelle di
+sotto che tanto vede, quanto fa quella ch'@e nel supremo grado; e
+per@o quando una intelligenza monta al supremo grado di ci@o che
+montare possono le creature, allora guardando in gi@u, cio@e nelli
+pi@u bassi gradi, vede tutto, e nulla li @e ascoso.  E per@o dice
+san Benedetto all'Autore: tu domandi di vedermi per essenza;
+sappia che cotale desiderio s'adempier@a quando tu sarai montato
+all'ultima spera, cio@e alla visione di Dio; cio@e a quella visione
+ch'@e possibile alla creatura d'avere del Creatore; per@o che per
+creatura non si pu@o vedere tutta l'essenza divina, ma vedesi del
+suo splendore: in la quale visione @e perfetto e compiuto ciascuno
+desiderio.  Nella quale ultima spera -- |@E ogni parte l@a, dove~
+ella |sempre era, Per@o che~ essa spera |non @e in loco~, -- |e non
+s'impola~, cio@e non ha poli, come ha l'ottava.  Onde nota, che
+questa spera non @e mobile, s@i come l'altre spere celesti; e per@o
+le parti d'essa non si muovono, ma sono dove sempre sono state. 
+Ancora |non @e in luogo~, come le celesti spere, e non ha poli
+sopra li quali si volga, s@i come l'ottava spera, che ha il polo
+artico e l'antartico: ed @e da sapere, che la cognizione naturale
+si stende insino alla nona spera, ch'@e il primo Mobile, per@o che
+la detta cognizione ha principio dalli movimenti.  E per@o che da
+indi in su non ha pi@u moto, non puote essere pi@u su neuno corpo
+naturale.  Li quali corpi sono di tre condizioni: o sono di
+quelli che naturalmente tendono gi@u, cio@e al centro, come @e la
+terra e l'acqua; o che tendono in su, come @e il fuoco e l'aere; o
+che hanno dalla loro natura moto circulare.  Di quelli che
+tendono gi@u, lor luogo naturale @e al centro del mondo, o circa
+esso; quegli che tendono in su, @e loro luogo naturale nella
+concavitade del circulo lunare; quelli che hanno moto circulare,
+sono entro la superficie estrema della nona spera; s@i che se
+alcuno corpo naturale ivi fosse, ello sarebbe violento, e nella
+ordinazione della natura non @e violenza: onde di fuori della
+predetta nona spera non @e luogo, non corpo, non vacuo, non altro
+che sia da considerazione naturale.  E per@o l'Autore, dicendo di
+quello estrinseco, dichiara che quella spera, di che menzione fa,
+non @e simile alle celesti.  Ora in tale considerazione sono stati
+gi@a molti ingannati, dicendo: se nulla v'@e, dunque dov'@e
+Paradiso?  Questi non veggiono pi@u che l'ordine naturale dea
+loro; non considerano che 'l Creatore, che fece l'ordine
+naturale, ne potea fare un altro, lo quale non si convenisse con
+quello, s@i come in molti morti resuscitati nell'eclissi che fu
+nella morte di Cristo ec.  E dice: |E nostra scala~ ec.  Cio@e la
+nostra intenzione e delli contemplanti sale a quello ^quem~, cio@e
+a quello fine della visione divina.  E dice: |Onde cos@i dal viso~
+ec.  Cio@e, tal fine @e remoto dalla vista de' mortali.  E dice:
+
+	|70-71.  In fin l@a su la vide~... |Giacob~ ec.  (Genesi,
+capitolo 28).  Quando Isaac ebbe benedetto Iacob, commiseli che
+andasse in Soria, e l@i prendesse moglie delle figliuole di suo
+avolo dal lato della madre; ed andando da Bersabe ad Haram,
+venuto ad uno luogo, e' volle in quello riposare dopo il
+tramontare del Sole; tolse delle pietre che v'erano, e miselesi
+sotto il capo, e dorm@i in quello luogo, e vide in sogno una scala
+stante sopra la terra, e la sommitade sua toccante il Cielo, e li
+Angeli di Dio salenti e discendenti per quella; ed il Signore
+appoggiantesi alla scala, e dicente a lui: Io sono Iddio d'Abramo
+e d'Isaac; io dar@o la terra, dove tu dormi, a te e al tuo seme; e
+sar@a il seme tuo quasi la polvere della terra ec.  Sicch@e
+l'Autore, in persona di san Benedetto, disse: -- |in fin l@a su~
+ec., cio@e infino a quel luogo, al quale la vide Iacob patriarca
+ec.
+
+	|73-78.  Ma per salirla~... |Le mura~ ec.  In questa
+parte riprende san Benedetto li eremiti e li monaci moderni,
+dicendo che neuno ora per contemplazione parte li piedi delle
+cose terrene per salire su per quella scala; e che la regola sua
+sta pure in scrittura, ma non in opere; e che le badie sono fatte
+spelunche di ladroni, e le cappe coperture di rei uomini.
+
+	|79-81.  Ma grave usura~ ec.  Qui minaccia cotale gente,
+dicendo: tanto non dispiace a Dio la grave usura, ch'@e peccato
+contro a natura, quanto li dispiace la vita moderna de' monaci.
+
+	|82-84.  Ch@e quantunque~ ec.  Assegna ragione, perch@e la
+detta vita cos@i dispiace a Dio, per@o che li abati e li monaci
+d'oggi, quello ch'@e dato in guardia alla Chiesa, perch@e lo
+distribuisca tra li eredi di Dio, cio@e tra li poveri, danno alli
+lor parenti e alli loro cavalli, e a cani da caccia, ed a orsi e
+simili bestie, le quali tengono come i laici.
+
+	|85-86.  La carne de' mortali~ ec.  Qui riprende li
+mortali, li quali si lasciano tanto vincere alle sensualitadi,
+che a loro non fa prode ammaestramento, n@e esempli buoni de' loro
+principi; quasi dica: n@e principio santo nullo monaco segue.
+
+	|88-90.  Pier cominci@o~ ec.  Qui mostra li buoni principj
+e li mali seguiti; dicendo: san Piero, primo papa, cominci@o senza
+oro; li successori sono tesaurizzanti in terra.  Io Benedetto con
+orazioni e con digiuno, voi neri e bianchi monaci seguitate con
+ozio e con ghiottornie, e delettazioni mondane.  San Francesco
+con umilitade, li successori con superbia: ^supra~, capitolo XI
+^Paradisi~, -- ^Ma il suo peculio~ ec.
+
+	|94-96.  Veramente Giordan~ ec.  Reca qui la Scrittura
+del Salmo, la quale dice: <E tu, fiume Giordano, se' convertito
+col diritto corso tuo indietro>.  E soggiugne, che pi@u
+maravigliosa cosa fu a vedere aprire il mare rosso dinanzi a
+Mois@e conducente il popolo di Dio, e fuggente d'Egitto dinanzi da
+Faraone, che non fia vedere il soccorso che Dio mander@a a questa
+perdente gente.  Non dice il modo; alcuno dice, vendicando;
+alcuno dice, con migliori pastori correggendo: ^ut supra~, in
+questo medesimo capitolo, quivi -- ^Nel qual se inteso avesse~
+{v.13} ec.
+
+	|97-99.  Cos@i mi disse~ ec.  Questo partimento di san
+Benedetto @e aperto.  |Collegio~, insieme eletti; |turbo~, @e uno
+avvolgimento di vento in rotunditade.
+
+	|100-105.  La dolce donna~ ec.  |Con un sol cenno~ ec. 
+Qui si monta alla ottava spera, ove per andare dietro alli
+contemplanti esso contemplante, si pu@o notare, che l'Autore non
+intese che alcune anime dimorasseno in quelle sette spere; ma per
+dimostrare gradi nella beatitudine dell'anime, introduce tale
+modo e tale dimostrazione; e dice, che 'l moto nel salire fu
+senza comparazione maggiore che qua gi@u nello scendere: ed @e la
+ragione per la virt@u attrattiva; ch@e quando l'anima @e bene
+disposta a salire, mirabilmente attrae Dio a s@e l'anima di lui
+vaga.
+
+	|112-116.  O gloriose stelle~ ec.  Qui l'Autore conlauda
+la costellazione della sua nativitade, quasi voglia intendere che
+Gemini fosse ascendente quando elli nacque, e che la influenza di
+essa stella, il cui signore @e Mercurio, [@e] induttiva li uomini a
+scienza di scrittura e sottilizzare d'ingegno; e dice --
+|gloriose stelle~, perch@e Gemini @e in plurale, ed @e costituito di
+pi@u stelle.  E dice, che con esse si leva il Sole, il quale @e
+padre delle generazioni de' corpi; e con esso segno s'ascondea,
+cio@e andava in ponente: onde mostra che nascesse del mese dal
+mezzo Maggio al mezzo Giugno.  Vuole mostrare l'Autore come le
+seconde cause, cio@e le influenze del Cielo, li conferiscono sue
+disposizioni ad essere adatto a scienza litterale, per la quale
+scienza elli allegorizzando facea tal viaggio.  Gemini, come @e
+detto, @e casa di Mercurio, che @e significatore, secondo li
+astrolaghi, di scrittura e di scienza e di cognoscibilitade: e
+cos@i dispone quelli che nascono, esso ascendente; e maggiormente
+quando il Sole vi si truova; per@o che 'l Sole conferisce alla
+vita de' mortali e alla generazione, secondo ordine naturale. 
+Sicch@e l'Autore, palesato il detto Gemini essere suo ascendente,
+secondo suo poema entra nella ottava spera per quello segno;
+quasi volendo figurare, che s@i come all'entrare nella vita tale
+segno li fu una porta, cos@i alla seconda vita la scienza (per la
+quale elli merita la seconda vita) li @e porta.  Ora @e da sapere,
+che l'Autore fa invocazione al detto segno, come appare nel
+testo: la quale, se al senso litterale si togliesse, sarebbe
+idolatria; ma @e da torre per allegoria, che intenda per quello
+segno la volont@a e grazia di Dio.
+
+	|124-132.  Tu se' s@i presso~ ec.  Queste sono parole di
+Beatrice, la quale dice all'Autore: tu se' s@i presso a Dio, che
+tu dei avere la veduta chiara ed acuta a vedere tutto; e per@o,
+prima che tu pi@u entri in Dio, guata in gi@u, e vedrai il mondo e
+le sue cose transitorie; s@i che tu d'essere cotanto salito
+t'allegri, e cotale allegrezza dimostri -- |alla turba
+triunfante~, cio@e alli cori de' beati, li quali ve[gn]ono -- |per
+questo etere~, cio@e la quinta essenza, cio@e aere purissimo, del
+quale sono fatte le otto spere.  E noi dicemmo di sopra che li
+uomini, infino che sono nelle fatiche del mondo, sono detti
+militanti; e quando hanno vinto il mondo, sono detti triunfanti,
+cio@e vittoreggianti.
+
+	|133-138.  Col viso ritornai~ ec.  Questo testo @e chiaro,
+dove dice l'Autore, ch'elli guat@o gi@u, e ricerc@o con gli occhi
+tutte e sette le spere che gli erano di sotto, cio@e quella di
+Saturno, Giove, Marte, Sole, Venus, Mercurio e Luna, e poi vide
+il globo, cio@e quello monticello della terra che noi abitiamo, la
+quale @e rispetto del tutto come uno punto.  E soggiugne, ch'elli
+appruova il consiglio di colui, che la disprezza, per migliore
+che colui che pensa, ch'ella sia d'aver cara; |@e veramente
+impr@obo~, cio@e non probo, colui che per le cose terrene dimentica
+le celestiali.
+
+	|139-140.  Vidi la figlia di Latona~ ec.  Dice, che vide
+la Luna alluminata senza quella ombra, della quale fece questione
+sopra, capitolo II ^Paradisi~; per@o che ora considerava ogni cosa
+in sua propria essenza.
+
+	|142-144.  L'aspetto del tuo nato~ ec.  Cio@e il Sole,
+figliuolo d'Iperione; e presso a lui |Maja~, cio@e Mercurio; e
+|Dione~, cio@e Venus; li quali pianeti, per la conformitade che
+alquanto hanno col corso del Sole, sempre li sono vicini: e se
+non fossono li loro epicicli, come appare nella teorica
+d'astronomia, essi sarebbono sempre congiunti con esso.
+
+	|145-146.  Quindi m'apparve~ ec.  Dice, che li apparve
+come Giove, per la bonitade della sua natura, rattemperava la
+malizia -- |tra 'l padre~, cio@e Saturno, -- |e 'l figlio~, cio@e
+Marte; per@o che Giove @e in mezzo tra Marte e Saturno per
+rattemperare col suo umido la secchezza di Marte e di Saturno; e
+con la sua caldezza rattempera la frigiditade di Saturno.
+
+	|148-149.  E tutti e sette~ ec.  Detto in speciale di
+ciascuno, ora riepiloga di tutti e sette i pianeti insieme; e
+dice, che li si mostrano in grandezza e in distanza l'uno
+dall'altro, e in complessione.
+
+	|151-153.  L'ajuola~ ec.  Cio@e il Mondo, che @e una
+piccola aia, che fa li uomini tanto superbi, volgendosi elli con
+Gemini, dice che li si mostr@o tutta quanto alle montagne, e
+quanto alli piani e alli mari.
+
+	|154.  Poscia rivolsi~ ec.  Conchiude, che si volse a
+Beatrice.  E chiude il vigesimo secondo capitolo.
+

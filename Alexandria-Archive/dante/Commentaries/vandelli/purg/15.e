@@ -1,0 +1,486 @@
+	|Proemio.~  1-39.  L'ANGELO DELLA MISERICORDIA.  Mancano
+ancora un tre ore al tramonto; e i P. hanno ormai, tra il 1+o~ e il
+2+o~ girone, girato tanto della montagna, che, pur essendo saliti
+dalla parte di levante per arrivare alla porta del Purg.,
+camminano ora col sole in faccia, che gi@a volge al tramonto. 
+D'improvviso s'accresce la luce che ferisce i loro occhi: al lume
+del sole, come V. spiega, si @e aggiunto il fulgore dell'Angelo
+che li inviter@a a salire al 3+o~ girone.  Infatti come gli sono
+giunti vicino, l'Angelo addita loro la nuova scala; e mentr'essi
+la cominciano a salire, sentono alle loro spalle cantare <^Beati
+misericordes!~>.
+
+	40-81.  IL CONSORZIO DEI BENI.  Mentre salgono dal 2+o~ al
+3+o~ girone, D. chiede a V. la soluzione di un dubbio intorno a
+certe per lui oscure parole di Guido del Duca (^Purg.~ XIV, 87)
+circa la possibilit@a o impossibilit@a della comunanza dei beni tra
+gli uomini.  V. risponde chiarendo la differenza sostanziale tra
+beni materiali e spirituali: i primi, se goduti dagli uni, restan
+vietati o scemati per gli altri, ne' quali destano perci@o
+invidia; gli spirituali, al contrario, quanti pi@u sono i
+posseditori, tanto pi@u fanno ricco di s@e ognuno di essi, e per@o
+non possono suscitare quel brutto sentimento.
+
+	82-93.  MARIA, PRIMO ESEMPIO DI MANSUETUDINE. 
+Ragionando, i P. sono arrivati nel 3o. girone.  Ivi D., rapito
+come in estasi, ha visioni di mitezza.  E prima @e quella di
+Maria, che, avendo, dopo tre lunghi giorni d'ansiose ricerche,
+trovato il fanciullo Ges@u nel tempio di Gerusalemme, non si adira
+gi@a con lui, n@e gli muove rimprovero; ma si contenta di dirgli
+con tutta materna mansuetudine: <Figlio, perch@e ci hai tu fatto
+questo?  Ecco che tuo padre ed io, addolorati, andavamo in cerca
+di te>; cfr. ^Luca~ II, 41-52.
+
+	94-105.  PISISTRATO, SECONDO ESEMPIO DI MANSUETUDINE.  D.
+ha poi la visione di Pisistrato, famoso tiranno di Atene (sec. VI
+a. C.), il quale, avendo un giovine, innamorato di sua figlia,
+baciata questa in pubblico, alla moglie che chiedeva vendetta di
+tanto oltraggio, rispose dolcemente: <Si nos, qui nos amant,
+interficimus, quid iis faciemus, quibus odio sumus?>.  Il giovine
+rest@o quindi impunito, ed ebbe in isposa la fanciulla.  D.
+traduce Valerio Massimo, ^Facta et dicta mem.~ VI, 1, quasi alla
+lettera.
+
+	106-114.  S. STEFANO, TERZO ESEMPIO DI MANSUETUDINE.  In
+una 3a visione D. contempla il protomartire S. Stefano, che fu
+lapidato dai Giudei, indignatissimi con lui che predicava contro
+di essi <et non poterant resistere Sapientiae et Spiritui qui
+loquebatur> per bocca del santo; ma egli, nonch@e adirarsi e
+inveire contro i suoi uccisori, invoca per loro, mentre lo
+martirizzano, il perdono di Dio.
+
+	115-138.  AMMAESTRAMENTO DI VIRGILIO.  Le visioni di D.
+che, in estasi com'@e, cammina barcollando, non sono ignote a V. 
+Ma questi per richiamarlo tosto alla realt@a e spiegargli la
+ragione di esse, chiede prima a D., perch@e mai cammini in quel
+modo.  D. accenna alle visioni avute, e V.: <Le conosco: le hai
+avute perch@e tu ti ricordi di aprire sempre il cuore a sentimenti
+pacifici e mansueti>.
+
+	139-145.  LE PENE DEGL'IRACONDI.  I P., proseguendo il
+loro cammino nel 3+o~ girone, si trovano a un certo punto avvolti
+in un fumo denso e pungente che s'avanza verso di loro: entro
+questo fumo stanno per loro pena gl'Iracondi.  La pena @e
+convenientissima alla colpa.  <Il fumo ch'esce dal fuoco, @e
+quella parte che il fuoco scevera da s@e per meglio scaldare e
+schiarare, @e cosa che non d@a n@e forza di calore, n@e dolcezza di
+lume, ma solo contrista ed accieca.  Onde giusto @e che in mezzo a
+densissimo fumo ripensino al proprio peccato coloro che un giorno
+dal fuoco dell'ira trassero fumo a spegnere o a illanguidire co'
+pensieri della vendetta il fuoco della carit@a, e ad annebbiare
+con fosche immagini il lume della verit@a.  Come nel secondo
+cerchio tutti erano avvolti in livida veste e sedevano sopra
+lividi seggi a ridolersi degli antichi livori, qui tutti
+s'aggirano avvolti nel fitto fumo, e si ridolgono delle cecit@a e
+delle turbolenze dell'ira antica, n@e tra il fumo possono vedere,
+ma solo parlare ed essere uditi>; Perez, ^Sette cerchi~, 151 sg. 
+<Caligavit ab indignatione oculus meus>: ^Job.~ XVII, 7.
+
+	|1-6.  Quanto~ ecc.: Il P. con questi versi indica l'ora
+del Purg. nel momento di cui egli sta parlando; e il senso
+nell'insieme @e certamente questo: `Al sole restava ormai da
+compiere del suo corso diurno, prima di giungere l@a dove sarebbe
+tramontato (|inver la sera~), tanta parte quanta esso ne compie
+nel periodo che va dal principio del d@i al fine della |terza~,
+che @e il mezzo della mattinata; ossia tanta quanta ne percorre in
+circa tre ore'.  In altri termini, l@a, nel Purgatorio, mancavano
+un tre ore al tramonto, ossia principiava il |vespero~; il che
+significa che a Gerusalemme, posta agli antipodi del Purg.,
+mancavano un tre ore al sorgere del sole (che nel periodo
+equinoziale sorge intorno alle 6 antim.); epper@o |qui~ (cio@e in
+Italia, dove sta scrivendo il P., la quale @e a 45 gradi di long.
+occidentale da Gerusal.) erano un tre ore meno che a Gerusalemme;
+dunque mezzanotte.  Ma se la 2a terzina @e di costrutto e di senso
+chiara e semplice, non cos@i @e della 1a, artificiosa nella prima
+met@a dove sarebbe stato assai pi@u naturale il dire `tra il
+principio del d@i e l'ultimare dell'ora terza', e molto oscura e,
+comunque, incerta nella seconda parte; giacch@e, o s'intenda per
+la `spera scherzante a mo' di fanciullo' il globo solare, o il
+cielo del sole, o il cielo delle stelle fisse, si va sempre
+incontro ad obbiezioni molto gravi.  Conviene perci@o appagarsi di
+afferrare il senso dell'insieme, e, per quanto a malincuore,
+rinunziare per i primi tre versi a una interpretazione letterale
+che ci sodisfi interamente.  Lo stesso paragone collo scherzare
+del fanciullo ci lascia dubbiosi; n@e il ^mutatur in horas~, che
+si suol citare, di Orazio significa ^scherzare~, che per i moti
+celesti non pare veramente la pi@u appropriata immagine.  @E questo
+forse uno dei rari luoghi della ^D. C.~ che avrebbero avuto
+bisogno di qualche ulteriore cura per riuscire perspicui, e forse
+l'avrebbero avuta, se la morte non avesse impedito al P. di
+ritornare sull'opera sua.
+
+	|7-9.  E i raggi~ ecc.: e avendo noi girato da levante a
+ponente (cfr. ^Purg.~ I, 107; III, 16) eravamo in tal luogo, che
+i raggi del sole, volgendo al tramonto, ci ferivano proprio sulla
+faccia.
+
+	|10-12.  Gravar la fronte~: essere come appesantiti e
+obbligati a chinarsi gli occhi, e quindi la fronte, per lo
+splendore ecc.; cfr. ^Purg.~ XVII, 52; XXX, 70, ecc.  |Che di
+prima~: che prima per i soli raggi del sole.  |Cose non conte~:
+le ignote ragioni di ci@o.
+
+	|13-15.  Levai le mani~ ecc.: <Opposuitque manum fronti>;
+Ovid., ^Met.~ II, 276.  <Ante oculos opposuit manum>; Ovid.,
+^Fast.~ IV, 178.  `Farsi il solecchio' vale `pararsi il sole'; e
+propriamente, come spiega il ^Buti~, |solecchio~ varrebbe
+^piccolo sole~; e la frase significherebbe <^fare lo sole~, che @e
+splendore grandissimo s@i che la vista non pu@o sostenerlo,
+^piccolo~, che la vista lo sostegna>.  |Del... lima~: toglie
+(|lima~) un po' della soverchia luce offerta alla vista.
+
+	|16-23.  Come~ ecc.: Senso: <Come quando un raggio di
+luce dall'acqua o dallo specchio salta all'opposta parte,
+torcendosi dal suo cammino, e risalendo con la stessa legge con
+cui discese, facendo cio@e l'angolo di riflessione eguale a quello
+d'incidenza; e quanto dalla perpendicolare [|cader della pietra~]
+si scosta scendendo, altrettanto se ne scosta salendo, scorso
+ch'egli abbia un tratto eguale [|in igual tratta~]; vale a dire,
+che se il raggio si supponga discendere dall'altezza, per es., di
+un miglio e salire altrettanto, le sue estremit@a saranno da una
+parte e dall'altra egualmente distanti dalla perpendicolare
+siccome dimostra artificiosa esperienza; cos@i mi parve essere
+percosso in volto da luce riflessa>; ^Torelli.~  |Salta~: <Sicut
+aquae tremulum labris ubi lumen a,enis Sole repercussum aut
+radiantis imagine lunae.  Omnia pervolitat late loca iamque sub
+auras Erigitur summique ferit laquearia tecti>; Virg., ^Aen.~
+VIII, 22-25.  |Parecchio~: pari: si us@o anticamente anche in
+prosa.  |In igual tratta~: per lunghezza uguale a quella del
+raggio incidente.  |Arte~: la scienza che spiega questi fenomeni
+della luce, propriam. la ^catottrica~, parte dell'ottica che
+tratta della riflessione della luce.  |Rifratta~: vale `riflessa'
+(cfr. ^Par.~ II, 93).  Ma che @e questa luce riflessa?  D., appena
+si sente abbagliato l'occhio dall'improvvisamente cresciuto
+splendore, si fa il solecchio, ma neppur cos@i pu@o fissare lo
+sguardo (v. 24) in quella luce straordinaria, che gli apparisce
+per altro luce riflessa davanti a lui, e incomportabilmente
+vivace come luce riflessa da acqua o da specchio.  Di certo si
+tratta della luce dell'Angelo, come (v. 28 sg.) dir@a V.; e non
+potendo essere la luce del sole che si rifletta sul P.
+dall'Angelo il quale ha il sole alle spalle, sar@a la luce divina
+che rifulge dal volto di queste celesti creature, luce che si pu@o
+dire riflessa in quanto da Dio cade su l'Angelo e dall'Angelo va
+a chi guarda questo, e luce vivida e insopportabile all'occhio
+nostro com'@e luce riflessa da acqua o da specchio.  Non ci par
+possibile intendere che il lume dell'Angelo si rifletta sul volto
+di D. dal suolo ch'@e di ^lividia petraia~: a pensar questo si @e
+stati indotti dai particolari della similitudine; ma qui come in
+altri casi il P. si sar@a compiaciuto di distendersi in tanti
+particolari solo per amore delle immagini della similitudine,
+senza che tutti abbiano esatta corrispondenza nell'altro termine
+di essa.  Il ^Torraca~ crede che D. voglia dire non gi@a che la
+luce abbagliante era anch'essa luce riflessa, ma solo che
+abbagliava come fa luce riflessa: non @e opinione da accettarsi.
+
+	|24.  A fuggir~ ecc.: gli occhi furono lesti a sottrarsi
+a quell'abbagliante splendore: infatti D. si volge a V., anche
+per avere una spiegazione.
+
+	|25-27.  Che @e~ ecc.: che luce @e questa, contro la quale
+non posso fare a' miei occhi schermo tale, che mi permetta di
+valermi di essi per fissarmici un po'?  |Pare~: non ne @e certo,
+non avendo potuto tener fermo lo sguardo.
+
+	|29-30.  Famiglia del cielo~: angeli.  |Messo~ ecc.: @e
+luce di un messo o angelo, che viene ad invitare che si salga
+(|om saglia~).
+
+	|31-33.  Tosto~: appena sarai purificato.  |Fieti~: ti
+fia, ti sar@a.  |Diletto quanto~ ecc.: ne sentirai tanto gran
+piacere quant'@e grande la tua naturale disposizione a sentire,
+quanta @e la potenza del tuo sentimento.
+
+	|34-36.  Lieta~: <Gaudium erit coram angelis Dei super
+uno peccatore poenitentiam agente>: ^Luc.~ XV, 10.  |Quinci~: per
+di qui, e alla parola si accompagna un gesto, dove @e una
+gradinata (|scaleo~) meno ripida delle altre due che avete
+salite.
+
+	|37-39.  Linci~: lat. ^illinc~ = di l@i (cio@e dal luogo
+cove l'angelo ci apparve). Il |di~, come qui a |linci~, si trova
+preposto anche a ^quinci~ e a ^quindi.~  Cfr. ^da quinci~, ^Par.~
+XXXIII, 55.  Per queste forme arcaiche di avv. di luogo cfr.
+^Bull.~ III, 133 e i ^Vocab.~  |^Beati misericordes!~: @e la
+quinta beatitudine evangelica: <Beati i misericordiosi; perch@e
+essi troveranno misericordia>; ^Matt.~ V, 7.  <Invidia opponitur
+misericordiae directe, secundum contrarietatem principalis
+obiecti; invidus enim tristatur de bono proximi; misericors autem
+tristatur de malo proximi; unde invidi non sunt misericordes, nec
+e converso>; Thom. Aq., ^Sum. theol.~ II, ii, 36, 3.  |Cantato~:
+dall'angelo rimasto indietro al suo posto.  |Godi tu che vinci!~:
+difficile ammettere che siano una libera, troppo libera,
+riduzione del `quoniam misericordiam consequentur', che compie in
+Matteo la 5a beatitud.  Meglio ritenere che D. abbia espresso qui
+il concetto che @e ultima conclusione di tutte le beatitudini:
+<Gaudete et exultate, quoniam merces vestra copiosa est in
+coelis>; ^Matt.~ V, 12.  |Vinci~: sei vittorioso dei vizii, con
+allusione qui all'invidia in particolare.
+
+	|42.  Prode~: dal lat. ^prodesse~ = giovare, si ricav@o
+|prode~ che vale `utilit@a' (cfr. ^Purg.~ XXI, 75): |prode~ si
+disse anche l'interesse del capitale.
+
+	|43-45.  Dirizza'mi~: m'indirizzai.  |Volse~: volle. 
+|Spirto~ ecc.: Guido del Duca quando accenn@o (XIV, 87) a
+|divieto~ e a |consorte.~
+
+	|46-48.  Magagna~: vizio; cfr. ^Inf.~ XXXIII, 152. 
+L'invidia fu il maggior vizio di Guido del Duca (^Purg.~ XIV, 82
+sgg.).  |Il danno~: conosce per prova i dannosi effetti
+dell'invidia; onde non faccia maraviglia, se ne fa rimprovero
+agli uomini, affinch@e se ne guardino, e meno per tal vizio
+s'abbia a piangere nel Purg.
+
+	|49-51.  Perch@e~ ecc.: pel motivo che i vostri desiderii
+hanno il loro termine (|s'appuntano~) nei beni terreni, dei quali
+se pi@u persone ne godano ad un tempo, la parte godibile per
+ciascuno diviene minore, l'invidia vi tormenta e vi fa sospirare,
+in quanto ciascuno di voi vorrebbe per s@e anche quel tanto di
+bene di cui altri gode o pu@o godere.  In antico fu comune
+|mantaco~ per `mantice': vi fa muover come mantice il petto a
+sospirare (cfr.`^l'affollar~ del casso' in ^Purg.~ XXIV, 72).
+
+	|52-54.  Ma se~ ecc.: senso: `se l'amore delle cose
+divine (|la spera suprema~ @e l'Empireo, sede di Dio, angeli e
+beati) drizzasse i vostri desiderii in alto, voi non avreste nel
+cuore la paura che l'altrui partecipazione potesse punto scemare
+il godimento vostro'.  Cfr. ^Coloss.~ III, 1.
+
+	|55-56.  Ch@e, per quanti~ ecc.: giacch@e quanti pi@u sono
+coloro che lass@u (|l@i~) godono del bene, tanto pi@u ne gode
+ciascuno di essi.  <Mistieri @e che se io voglio arricchire, che
+molti ne 'mpoveriscano, imper@o che le cose del mondo non si
+possono avere per tutti: pochi sono quelli che l'hanno, e ogni
+uomo le vuole...  Ma i beni di Paradiso i quali non ^iscemano~
+perch@e l'altro ne sia ricco, per@o che bastano e superchiano
+etternalmente e infinitamente, e' non si possono occupare n@e
+diminuire ^per quantunque~ siano quelli che ne diventano ricchi. 
+E come vedi per esempio del sole, che allumina tutti e non manca
+il lume a nullo per la veduta dell'altro>; Fra Giord., ^Pred.~,
+ediz. Manni, 315.  E in ^Pred.~, ediz. Narducci, 298 sg.: <...
+per questa ragione vorrei che ogni uomo avesse quelli diletti
+[spirituali], che quanti pi@u fossero quelli che n'avessero, pi@u
+diletto avrei, cio@e che avrei diletto di tutto il diletto degli
+altri...  Tra i Santi di Par. non pu@o esser discordia o tencione
+nulla, per@o che il bene loro @e s@i comune, che, abbiendolo io, non
+lo scemo agli altri, n@e gli altri a me, anzi ne cresce quello di
+catuno per lo bene c'hanno tutti; e per@o genera pace e d@a amore
+di carit@a al prossimo>.  <Nullo enim modo fit minor, accedente
+seu permanente ^consorte~, possessio bonitatis; imo possessio
+bonitatis tanto fit latior, quanto concordior eam individua
+sociorum possidet charitas.  Non habebit denique istam
+possessionem qui eam noluerit habere comunem, et tanto eam
+reperiet ampliorem, quanto amplius ibi poterit amare consortem>;
+S. Aug., ^Civ. Dei~ XV, 15.  Cfr. anche S. Greg., ^Moral.~ IV,
+31.  D. espone dunque concetti comuni e diffusi; ma d@a loro
+efficacia nuova con la forma serrata e immaginosa.
+
+	|57.  Chiostro~: per questo modo di designar l'Empireo
+cfr. ^Purg.~ XXVI, 128; ^Par.~ XXV, 127.
+
+	|58-63.  D'esser contento... aduno~: sono ora meno
+soddisfatto (|contento~) di prima, e un dubbio ancor maggiore @e
+entrato e sta nella mia mente (|aduno~ vale `accolgo'; cfr.
+^Inf.~ VII, 52).  |Com'esser~ ecc.: com'@e possibile che un bene,
+distribuito tra un maggior numero di posseditori, faccia costoro
+pi@u ricchi di s@e che se distribuito tra pochi?  Giacch@e, dice
+^Benv.~, <res per partitionem suscipit diminutionem>.
+
+	|64-66.  Rificchi~ ecc.: anche ora figgi la mente solo ai
+beni terreni.  |Di vera luce~: dalla luce di verit@a ch'@e nelle
+mie parole cogli frutto (|dispicchi~) di tenebre; cio@e la tua
+mente non ne @e illuminata come dovrebbe.
+
+	|67-69.  Bene~: Dio <lo quale @e nostra beatitudine somma>
+(^Conv.~ IV, xxii, 17), ed @e |ineffabile~, inesprimibile con
+parole, appunto perch@e |infinito.~  |Corre~ ecc.: concede pronto
+s@e stesso all'anima che lo ama, come i raggi del sole vengono ai
+corpi che possono ricevere e riflettere la luce.  |Raggio~:
+<Aeraque fulgent Sole lacessita et lucem sub nubila iactant>;
+Virg., ^Aen.~ VII, 526 sg.  <Arma rubent una, clypeoque
+incenditur ignis>; Stat., ^Theb.~ X, 844.
+
+	|70-72.  Tanto~: cfr. ^Par.~ XIV, 40 sgg.  |Si d@a~: si
+comunica all'anima.  |Ardore~: di carit@a.  |S@i che~ ecc.: di modo
+che Iddio, l'|eterno valore~, si comunica tanto pi@u all'anima,
+quanto pi@u @e grande la carit@a ond'essa arde.
+
+	|73-75.  S'intende~: ama; ^Tom.~, ^Andr.~, ecc. 
+^Intendersi~ signific@o nel provenzale e nell'antica lirica
+nostra, ci@o che taluni comm. non seppero o non ricordarono,
+`essere innamorato', e tal senso @e il solo che si accordi con ci@o
+che si legge nel verso sg. dov'@e detto esplicitamente |s'ama~: e
+l'oggetto dell'amore @e Dio, che, infinito, largisce del suo bene
+tanto pi@u quanti pi@u son coloro che l'appetiscono e l'amano. 
+|Come~ ecc.: Dio @e il sole delle anime; ch@e come il sole <di
+sensibile luce s@e prima e poi tutte le corpora, celestiali ed
+elementali allumina, cos@i Dio prima s@e con luce intellettuale
+allumina e poi le creature celestiali e l'altre intelligibili>;
+^Conv.~ III, xii, 7.  Ma se le anime aventi ardore di carit@a
+ricevono il Sommo Bene cos@i come ^corpo lucido~ (v. 68 sg.)
+riceve i ^raggi~ della luce, rifletteranno anche l'una sull'altra
+i raggi di bene, a mo' di lucidi specchi.  Chiaro @e dunque quel
+che a D. era (vv. 61-63) rimasto oscuro: che il numero dei
+posseditori del bene di lass@u non solo non scema il possesso di
+ciascuno, ma quanto maggiore @e il numero delle anime che di
+^quello infinito ed ineffabil bene~ dicono `^@e nostro~', tanto
+pi@u ciascuna (vv. 55-56) ne possiede e ne gode.
+
+	|76-78.  Ragion~: ragionamento.  |Disfama~: sazia,
+appaga.  Si continua la metafora dell'esser ^digiuno~, usata da
+D. (v. 58) nel chiedere.  |Vedrai~: cfr. ^Purg.~ VI, 43 sgg.;
+XVIII, 46 sgg.  |Ti torr@a~ ecc.: contenter@a ogni tuo desiderio di
+precise dichiarazioni circa questa e ogni altra cosa di lass@u,
+dove la ragione sola (^Virgilio~) non pu@o tutto vedere e
+comprendere.
+
+	|79-81.  Spente~: cancellate dalla tua fronte.  |Due~: di
+superbia ed invidia.  |Cinque~: ira, accidia, avarizia, gola e
+lussuria.  |Piaghe~: i ^P~ incisigli dall'Angelo portiere nella
+fronte; ^Purg.~ IX, 112 sgg.  |Si richiudon~ ecc.: si rimarginano
+per mezzo s@i del dolore che l'uomo, pentito e contrito, sente
+delle proprie colpe, e s@i del dolore che nel Purg. gli danno le
+pene espiatorie che deve subire.
+
+	|82-84.  Come~: Nel momento in cui.  |M'appaghe~: mi
+appaghi.  |Tacer~ ecc.: gli occhi bramosi (|luci vaghe~) di veder
+cose nuove volsero il mio pensiero tutto al nuovo girone, e non
+dissi quel che gi@a avevo pensato di dire.
+
+	|87.  Pi@u persone~: i dottori ebrei, in mezzo ai quali
+Ges@u dodicenne sedeva, ascoltandoli e interrogandoli.
+
+	|88.  Una donna~: Maria.  |In su l'entrar~: su la soglia
+del tempio.
+
+	|92-93.  E come~ ecc.: e appena Maria ebbe pronunziato
+queste parole, la visione disparve.
+
+	|94-96.  Un'altra~: la moglie di Pisistrato.  |Acque~
+ecc.: lagrime che il dolore spreme (^Inf.~ XXIII, 97 sg.; ^Purg.~
+XX, 9) quando @e nato da grande sdegno (|dispetto~).
+
+	|97-99.  Dir~: a Pisistrato.  |Sire della villa~: signore
+della citt@a d'Atene.  |Del cui... lite~: tra Nettuno e Minerva,
+ossia Atena, s'impegn@o una lite per stabilir da chi de' due si
+dovesse denominare la citt@a; rest@o vincente Atena, e la citt@a
+ebbe nome Atene; cfr. Ovid., ^Met.~ VI, 70 sgg.  |Ogni...
+disfavilla~: si diffonde ogni lume di scienza: <epper@o tu
+dovresti sentire> viene a dire la donna <e tutelare la tua alta
+dignit@a di sire di una citt@a siffatta>.
+
+	|102-103.  Il segnor~: il ^sire~, Pisistrato.  |Lei~:
+arc. per `a lei'.  |Temperato~: esprimente la calma e moderazione
+dell'animo |benigno e mite.~
+
+	|106.  Genti~: i Giudei.  |Accese in foco d'ira~: cos@i D.
+rende le parole di ^Atti~ VII, 54 e 56: <Si rodevano nei loro
+cuori, e digrignavano i denti contro di lui;... e tutti d'accordo
+gli corsero addosso con furia>.
+
+	|107.  Un giovinetto~: Stefano.  Questi non era pi@u
+|giovinetto~, quando fu lapidato; cfr. ^Atti~ VI, 5, 8, 10, 13. 
+Si potrebbe supporre che D., o per un ^lapsus~ della memoria, o
+per avere sott'occhio un testo corrotto, confondesse Stefano con
+Saulo, che fu poi Paolo, presente alla lapidazione e di cui si
+legge in ^Atti~ VII, 57: <e i testimoni posarono le loro vesti ai
+piedi di ^un giovinetto~, chiamato Saulo>.  Ma tale ipotesi @e
+inutile; ch@e, dicendo gli ^Atti~ che i presenti <viderunt faciem
+eius ^tamquam faciem angeli~>, e non potendo l'arti del disegno
+rappresentare la faccia ^angelicata~ del martire se non come
+giovanile, gi@a in tempi antichi S. Stefano fu rappresentato da
+scultori e pittori come giovinetto; e giovinetto lo pot@e pensare
+e ritrarre anche D., che avr@a certo vedute di tali
+rappresentazioni.  E gi@a sant'Agostino, forse per la prima volta,
+fece di Stefano un giovane, scrivendo ch'egli <in ipso
+^iuventutis flore decorem aetatis suae sanguine purpuravit~>;
+^Bull.~ IX, 110 sg.
+
+	|108.  Gridando a s@e pur~: dicendo e ripetendo ad alta
+voce l'uno all'altro: `|Martira!  Martira!~' cio@e: ammazza! 
+ammazza!  Di queste parole il testo biblico non fa cenno.  Sono
+una felice deduzione del P., la quale accresce drammaticit@a alla
+scena.  Quanto al |pur~, che taluno vorrebbe unire a |Martira~,
+cfr. ^Vita Nuova~, ediz. ^Barbi~, p. 61 nota.  |Pur~ vale qui
+`ripetutamente, continuatamente' come anche, per es., in ^Purg.~
+XVI, 15.
+
+	|111.  Delli occhi~ ecc.: teneva gli occhi sempre rivolti
+al cielo la cui immagine entrava per essi.  Prima d'essere
+trascinato fuori della citt@a, mentre parlava nel ^concilio~ dei
+sacerdoti fieramente, Stefano <essendo pieno di Spirito santo,
+mirando fiso il cielo, ^vide la gloria di Dio; e Ges@u stante alla
+destra di Dio~>; ^Atti~ VII, 55.
+
+	|112-114.  Alto Sire~: Dio; cfr. ^Inf.~ XXIX, 56. 
+|Che... persecutori~: <Positis autem genibus, clamavit voce magna
+dicens: ^Domine, ne statuas illis hoc peccatum~>; ^Atti~, l. c. 
+|Piet@a diserra~: sprigiona la Piet@a, s@i che vada a commuovere i
+cuori (Barbi, ^Bull.~ XVIII, 17); e cfr. ^Inf.~ XXIX, 43-44. 
+Altri, poich@e S. Stefano guardava al cielo e pregava Dio,
+intendono della piet@a divina; ma parlandosi di piet@a in genere,
+generico dev'essere il significato di tutta la frase; e la piet@a
+di Dio si muove per la preghiera del martire, non gi@a per il suo
+aspetto.
+
+	|115-117.  Torn@o~ ecc.: risvegliatosi D. dall'estasi
+durante la quale l'anima sua era stata tutta immersa nelle
+visioni interne, questa torn@o a percepire le cose reali esterne. 
+|Non falsi~: D., che durante l'estasi, aveva creduto di vedere e
+udire cose che sussistessero realmente davanti a lui, ora
+s'accorge che cos@i non @e stato, e che in ci@o ha ^errato.~ 
+D'altra parte, per@o, i suoi |errori~ non sono |falsi~, perch@e
+quelle cose ei le ha vedute e udite realmente dentro il suo
+spirito.  Sono, in altri termini, realt@a solo interne o
+soggettive, non anche esterne ed oggettive.
+
+	|119-120.  Si slega~: si scioglie.  |Tenere~: reggere
+bene.
+
+	|121-124.  Pi@u che mezza lega~: <intorno a due miglia>;
+^Antonelli.~  |Velando~ ecc.: con gli occhi chiusi o quasi e con
+le |gambe avvolte~ come chi @e sotto l'azione del vino o del
+sonno.  Con |gambe avvolte~ si allude alla irregolare andatura di
+chi, non pi@u padrone de' movimenti delle proprie gambe, butta una
+gamba davanti all'altra in modo che avvolge questa e la impaccia;
+donde quel procedere a stento o a zig-zag, caratteristico degli
+ubbriachi e di chi cammina preso dal sonno.
+
+	|126.  Furon s@i tolte~: me ne fu tolta cos@i la
+padronanza.
+
+	|127-129.  Larve~: maschere; @e il lat. ^larva~; anche in
+^Par.~ XXX, 91.  |Chiuse~: nascoste.  |Cogitazion~: lat.
+^cogitationes~, pensieri.  |Quantunque parve~: per quanto piccole
+(lat. ^parvae~).  Cfr. ^Inf.~ XVI, 118 sgg.
+
+	|130-132.  Vedesti~: in visione.  |Scuse~: ti scusi,
+ricusi.  |Acque~: l'ira @e fuoco; e come l'acqua il fuoco, cos@i i
+sentimenti miti di mansuetudine e di perdono (|l'acque della
+pace~) spengono l'ira.  Cfr. ^Ebrei~ X, 22.  |Etterno fonte~:
+Dio; immagine biblica.  Il sentimento della pace viene dal ^Fons
+pietatis~, ch'@e Dio (^Mon.~ II, v, 5; ^Epist.~ V, 7).
+
+	|133-138.  Per quel~ ecc.: per il motivo pel quale chi
+vede soltanto coll'occhio corporeo fa questa domanda quando
+scorge un compagno perdere le forze e cadere, e, appunto perch@e
+non vede se non l'occhio corporeo, non comprende il perch@e dello
+svenimento; ma io, pur vedendo la tutta interna ragione del tuo
+strano barcollare, ti feci una domanda siffatta solo per
+incorarti a riprendere il cammino con passo sicuro: in tal modo
+conviene stimolare (|frugare~, cfr. ^Purg.~ XIV, 39) i pigri che
+stentano, ritornando allo stato di veglia (|vigilia~), a far uso
+di questa, cio@e a riprendere la loro attivit@a.  |Riede~: ritorna:
+ha per soggetto |lor vigilia.~
+
+	|139-141.  Per lo vespero~: durante il vespro.  |Attenti
+oltre~: guardando in avanti con attenzione.  |Quanto~ ecc.: per
+quanto agli occhi era possibile spingersi lontano (|allungarsi~)
+avendo di fronte i vividi raggi del sole gi@a volgente all'occaso
+(|serotini~ = della sera).
+
+	|143-145.  Come la notte scuro~: cfr. ^Purg.~ XVI, 1 sg. 
+|N@e... cansarsi~: e non vi era alcuna parte tale da poterci
+scansare e cos@i evitare quel fumo, ossia il fumo si estendeva
+quant'era largo il girone.  |Questo ne~ ecc.: tale fumo ci tolse
+l'uso della vista e l'aria pura.

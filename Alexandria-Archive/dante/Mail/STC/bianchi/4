@@ -1,0 +1,56 @@
+Return-Path: steve@avalon.dartmouth.edu 
+Received: from baker.dartmouth.edu by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA11296; Wed, 3 Feb 1993 14:38:34 -0500
+Received: by baker.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA11584; Wed, 3 Feb 1993 14:38:30 -0500
+Received: from avalon.dartmouth.edu by dartvax.dartmouth.edu (5.65+D4/4.5HUB)
+	id AA15389; Wed, 3 Feb 93 14:38:12 -0500
+Received: by avalon.dartmouth.edu (5.65/DEC-Ultrix/4.3)
+	id AA11285; Wed, 3 Feb 1993 14:37:17 -0500
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9302031937.AA11285@avalon.dartmouth.edu>
+Subject: Re: speller
+To: LBIANCHI@Sol.YorkU.CA (Luigi M Bianchi)
+Date: Wed, 3 Feb 1993 14:37:16 -0500 (EST)
+Cc: bobh@baker.dartmouth.edu, dante@Dartmouth.EDU
+In-Reply-To: <01GU7G8OU7IO8Y9K7G@Sol.YorkU.CA> from "Luigi M Bianchi" at Feb 1, 93 12:00:00 pm
+Content-Type: text
+Content-Length: 1340      
+Status: OR
+
+Prof. Bianchi writes:
+
+> >                                         Steve Campbell, I think, may have
+> > ideas about how we might be able to help you w/o releasing the texts to
+> > you.
+> 
+> I understand the problem.  I know practically nothing about the subtle
+> implications of Canadian and other copyright laws.  It is clear however that
+> I would be quite happy with word lists alone.  I do not need the texts
+> themselves.
+
+It would ne a simple matter to generate word lists from any of the
+commentaries.  A possible format would be a flat file containing one word
+per line, each word perhaps followed by the number of occurances in the original
+text. Something like this:
+
+nel		374
+mezzo		329
+del		289
+cammin		210
+...
+
+The list could be sorted alphabetically or by increasing or decreasing
+occurance counts.  I would need some guidance on how to deal with
+contractions and probably some other syntactic issues.  I would be glad
+to take the time to prepare a sample word list from any few cantos of
+any commentary.
+
+I would suggest that if Prof. Bianchi has not already done so he take
+a look at the database and consider which commentaries would be appropriate
+as sources for such a word list.  I will send a description of the
+database and instructions for accessing it to Prof. Bianchi in a separate
+message.
+
+							Steve Campbell
+

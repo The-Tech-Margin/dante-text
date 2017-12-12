@@ -1,0 +1,1144 @@
+One of the principal difficulties in writing a life of Dante
+arises from the phenomenal nature of his mind.  There is no poet of the
+first rank whose writings are so full of his own personality: the
+history of Florence, of Italy, for that matter of the universe, visible
+and invisible, crystallizes round himself and his fortunes.  Our first
+thought is that this will make the writing of his life an easy task,
+but it is far otherwise.  The very structure of Dante's mind half
+reveals and half conceals the facts.  `His nature,' says Lowell, `was
+one in which, as in Swedenborg's, a clear practical understanding was
+continually streamed over by the northern lights of mysticism' [Essay
+on Dante, ^Among my Books~].  No man ever saw facts with clearer eyes,
+but also no man ever had a more tantalizing genius for concealing them
+under a veil of allegory.  The result is that while his writings are
+full to overflowing of the events of his life, it is often impossible
+to say with certainty what exactly the events are, -- how much is fact,
+how much figure.
+
+A further difficulty springs from the difference between his
+contemporaries' estimate of Dante and our own, a difference which we
+are too apt to forget.  It is scarcely an exaggeration to say that to
+us his age lives through him and through him alone.  Some obscure
+Florentine becomes immortal because Dante names him, a Council meeting
+interesting because Dante was present, a battle memorable because Dante
+fought at it.  But of all this his contemporaries knew nothing.  No
+prophetic instinct warned them that the exile, driven about like a
+battered hulk by `the dry winds of poverty,' was one concerning whom
+future generations would ransack all Italy to discover one little fact,
+and that wherever his feet had wandered would become a place of
+pilgrimage.  No one dreamed that it would be worth while to preserve
+any record of his deeds or journeyings.  When, a generation or two
+later, men began to suspect the greatness of the spirit that had walked
+amongst them, it was too late: the facts were irrecoverably gone, like
+the Sybil's leaves upon the wind, and little remained but the myths and
+legends which gather round every great name.  These, begun by the
+inveterate romancer Boccaccio, have been handed down as history from
+commentator to commentator, until now it is almost impossible to
+disentangle fact from fiction.  `A complete biography of the poet,'
+declares Scartazzini, `free from gaps and properly rounded off, cannot
+be written in the existing state of scientific research' [^A Companion
+to Dante~ (English Translation), p. 30].  On the other hand, however,
+it is quite possible to exaggerate the importance of this uncertainty. 
+The larger outlines of the life are not doubtful; and, after all, the
+real life of Dante consists far less in its external events than in the
+thoughts and emotions which they roused in his mind and soul.  It is
+only the larger outlines which can be here attempted, especially as
+these become visible, more or less dimly, through the veil of his own
+writings.
+
+Dante -- or, to give the full form, Durante -- Alighieri was
+born in Florence in the year 1265.  The month was May, but the exact
+day is uncertain.  In the ^Paradiso~ (xxii. 106-117) he tells us that
+he `first felt the Tuscan air' under the sign of Gemini, to which he
+owed all his genius, `whatsoever it may be.'  In 1265 it has been
+calculated that the sun entered this sign on May 18, and left it on
+June 17.  Dante's birthday therefore lies between these two dates; and
+the 30th of May has been suggested as being the ^festa~ of Lucia, his
+patron saint, who comes to his aid more than once in the ^Commedia~
+[^Inf.~ ii. 94-117; ^Purg.~ ix. 49-63.  St. Bernard points out her
+place in the Rose of Paradise (^Par.~ xxxii. 136-138.  See also
+{comm. to ^Inf.~ 2.124-126}].  Of his ancestors almost nothing is known
+beyond what he himself tells us.  In the Heaven of Mars he meets his
+crusading forefather, Cacciaguida, and confesses that even in Paradise he
+could not restrain a thrill of pride for `our poor nobility of blood.' 
+This Cacciaguida was his great-great-grandfather, who joined the Emperor,
+Conrad III., in the disastrous Second Crusade for which St. Bernard was
+responsible, was knighted by him for his noble deeds, and laid down his
+life for Holy Land.  He gives Dante an outline of his life:
+
+     `In your ancient Baptistery at once
+     Christian and Cacciaguida I became.
+     Moronto was my brother and Eliseo;
+     My wife came to me from Val di Pado,
+     And from her thy surname was derived.
+     I followed afterward the Emperor Conrad,
+     And he begirt me of his chivalry,
+     So much by good work came I into grace.
+     After him I went `gainst the iniquity
+     Of that law, whose people doth usurp
+     Your just possession, through the Pastor's fault.
+     There was I at the hands of that foul folk
+     Unswathed of the deceitful world,
+     The love of which full many a soul befouls,
+     And came from martyrdom unto this peace.'
+                         [^Par.~ xv. 134-148.]
+
+Cacciaguida's wife is supposed to have been one of the Alighieri of
+Ferrara, and it is interesting to know that it is from her Dante's
+surname comes.  [The derivation of Alighieri, or Aldighieri, has
+exercised the ingenuity of commentators.  Federn says confidently it is
+`a German name, and most probably derived from "Aldiger," which has
+about the same significance as the word "Shakespeare," meaning "the
+ruler of the spear."'  Others derive it from ^alga~, the sea-weed in
+which the swampy valley of the Po abounds.]  From the mention of
+Eliseo, Boccaccio asserts that he was descended from the Elisei, an
+ancient Roman family, but of this there is no proof.  When Dante asks
+for further information of his ancestors, Cacciaguida declines to
+give it:
+
+     `Suffice it of my forbears to hear this;
+     Who they were, and whence they hither came,
+     Silence is more honorable than speech.'
+                         [^Par.~ xvi. 43-45.]
+
+It is impossible to say with any certainty the reason for this strange
+reticence.  It may be a confession of Dante's own ignorance; but from
+its context it seems rather the silence of humility which befits
+Paradise.  From other passages it appears certain that Dante believed
+himself to be of the ancient Roman stock [^Inf.~ xv. 73-78, etc.]; but
+Cacciaguida refuses to encourage this pride of blood.  It is probably
+as a warning against it that he tells him how his own son, Dante's
+great-grandfather, Alighiero, has been circling the Terrace of Pride on
+Mount Purgatory for more than a hundred years [^Par.~ xv. 91-96].  The
+only other member of the house named is one of whom there was no
+temptation to be proud -- a certain Geri del Bello, a first cousin of
+Dante's father, a quarrelsome man who stirred up strife among the
+Sacchetti, and was stabbed for his pains by a member of that family. 
+In the Bolgia of the Schismatics in the Eighth Circle of Hell, Virgil
+saw him pointing threateningly at Dante for having left his death
+unavenged [^Inf.~ xxix. 1-36.  See {comm. thereto}].
+
+Of his parents Dante makes no mention whatever, except in the
+most indirect way.  His father is said to have been a notary of
+Florence.  He was twice married, and Dante was the son of his first
+wife, Bella, of whose family nothing whatever seems to be certainly
+known.  A single line in the ~Commedia~ is her only memorial [^Inf.~
+viii. 45.  Comp. ^Conv.~ i. 13, where, speaking of the benefits he had
+received from his native tongue, he says: `this my language (^Volgare~)
+was the uniter of my parents, who spoke with it,... and thus was one
+of the causes of my being'].
+
+The great and decisive event of Dante's boyhood, youth, and
+early manhood -- indeed, of his whole life -- was his love of Beatrice,
+narrated in his first work, the ^Vita Nuova~.  The title indicates,
+doubtless, the new existence into which this great passion ushered
+him.  The story is told with a peculiar ethereal and dreamlike purity
+and beauty; and indeed it is largely composed of dreams.  It consists
+of a series of poems interpreted by a prose commentary.  Norton has
+shown that the book is most symmetrically constructed, and falls into
+three divisions of ten poems each.  [See Essay `On the Structure of the
+Vita Nuova' in Charles E. Norton's Translation of ^The New Life,~ pp.
+129-134.]  The first (sections i.-xvi.) relates the beginning of
+his love and its extraordinary effects upon himself.  He saw this
+`youngest of the Angels' for the first time when she was at the
+beginning, and he at the end, of their ninth year.  In his eighteenth
+year he met her in the street, and for the first time received her
+salutation.  It threw him into a dream of terror and of joy.  Love, a
+lord of terrible aspect outwardly but full of joy within, appeared to
+him in a cloud of fire, bearing in his arms `the Lady of the
+salutation,' asleep, and covered with a blood-red cloth.  In his hand
+he held Dante's own heart which was all on fire, and, awaking the lady,
+he forced her to eat it, which she did as one in fear.  `Then, having
+waited again a space, all his joy was turned into most bitter weeping;
+and as he wept he gathered the lady into his arms, and it seemed to me
+that he went with her up towards heaven: whereby such a great anguish
+came upon me that my light slumber could not endure through it, but was
+suddenly broken' [^V. N.~ iii; the passages quoted are from Rossetti's
+translation].  It is obviously his first premonition of the early
+death of Beatrice.  The dream made him a poet: he related it in the
+first Sonnet of ^The New Life~, which he sent to the famous poets of
+the day for their interpretation.  One of the answers came in a Sonnet
+from Guido Cavalcanti, whom Dante henceforth called `the first among
+his friends' [Rossetti in ^Dante and his Circle~ translates three of
+these replies: Guido Cavalcanti's (p. 131), Cino da Pistoia's (p. 183),
+and Dante da Maiano's (p. 198).  The last tells Dante to consult a
+doctor for such delirium].  To conceal his love he tells us that he
+used several ladies as screens, and with such unhappy success that
+Beatrice, hearing rumours which `seemed to misfame him of vice,' denied
+him her salutation, and even mocked him at a marriage festivity.
+
+The second division of the ^Vita Nuova~ extends from section
+xvii. to section xxx.  The refusal by Beatrice of her salutation which
+had hitherto been his highest bliss, made him resolve to fall back upon
+another beatitude which could never fail: he begins `new matter' --
+^materia nuova~ -- `more noble than the foregoing.'  He has spoken
+sufficiently of himself and his condition; he will henceforth speak only
+of his lady's praise.  But mingling with this praise come renewed
+premonitions of her early death.  A sickness falls upon himself, and
+musing on the frail thread of his own life, the thought suddenly came:
+`Of necessity it must be that the most gentle Beatrice shall some time
+die.'  In the delirium of his sickness he has a vision of her passing
+to Paradise.  `And at the first, it seemed to me that I saw certain
+faces of women with their hair loosened, which called out to me, "Thou
+shalt surely die"; after the which, other terrible and unknown
+appearances said unto me, "Thou art dead."  At length, as my phantasy
+held on in its wanderings, I came to be I knew not where, and to behold
+a throng of dishevelled ladies wonderfully sad, who kept going hither
+and thither weeping.  Then the sun went out, so that the stars showed
+themselves, and they were of such a colour that I knew they must be
+weeping: and it seemed to me that the birds fell dead out of the sky,
+and that there were great earthquakes.  With that, while I wandered in
+my trance, and was filled with a grievous fear, I conceived that a
+certain friend came unto me and said: "Hast thou not heard?  She that
+was thine excellent lady hath been taken out of life."  Then I began to
+weep very piteously; and not only in mine imagination, but with mine
+eyes, which were wet with tears.  And I seemed to look towards Heaven,
+and to behold a multitude of angels who were returning upwards, having
+before them an exceedingly white cloud: and these angels were singing
+together gloriously, and the words of their song were these: "^Osanna
+in excelsis~"; and there was no more that I heard.  Then my heart that
+was so full of love said unto me: "It is true that our lady lieth
+dead"; and it seemed to me that I went to look upon the body wherein
+that blessed and most noble spirit had had its abiding-place.  And so
+strong was this idle imagining, that it made me to behold my lady in
+death; whose head certain ladies seemed to be covering with a white
+veil; and who was so humble of her aspect that it was as though she had
+said, "I have attained to look on the beginning of peace" [^V. N.~
+xxiii].  It was not long till the vision was fulfilled.  A canzone
+which he was writing in her praise is suddenly broken off with the
+opening words of the ^Lamentations of Jeremiah~: ^Quomodo sedet
+sola civitas plena populo! facta est quasi vidua domina gentium!~  `I
+was still occupied with this poem (having composed thereof only the
+above written stanza), when the Lord God of justice called my most
+gracious lady unto Himself, that she might be glorious under the banner
+of that blessed Queen Mary, whose name had always a deep reverence in
+the words of holy Beatrice' [^V. N.~ xxix].
+
+The final sections (xxxi.-xliii.) take up a new theme -- ^nuova
+materia~ -- the various phases of his grief, the greatest grief of all
+being a temptation to forget it: `O last regret, regret can die!'  One
+day struggling with his sorrow, and looking up in fear lest he was
+observed, `I saw,' he says, `a young and very beautiful lady, who was
+gazing upon me from a window with a gaze full of pity, so that the very
+sum of pity appeared gathered together in her.'  She reminded him of
+his own `most noble lady who was wont to be of a like paleness.'  His
+eyes began to be gladdened with her company overmuch, and he cursed
+them bitterly for their inconstancy.  The struggle was decided by
+another vision: `There rose up in me on a certain day, about the ninth
+hour, a strong visible phantasy, wherein I seemed to behold the most
+gracious Beatrice, habited in that crimson raiment which she had worn
+when I had first beheld her; also she appeared to me of the same tender
+age as then.  Whereupon I fell into a deep thought of her; and my
+memory ran back, according to the order of time, unto all those matters
+in the which she had borne a part; and my heart began painfully to
+repent of the desire by which it had so basely let itself be possessed
+during so many days, contrary to the constancy of reason.  And then,
+this evil desire being quite gone from me, all my thoughts turned again
+unto their excellent Beatrice.  And I say most truly that from that
+hour I thought constantly of her with the whole humbled and ashamed
+heart' [^V. N.~ xl].  A final vision determined him to say no more
+until he could write of her what had never been written of any woman. 
+The reference is, without doubt, to the ^Divina Commedia~ [the passage
+is quoted {in comm. to ^Inf.~ 2.103-105}].
+
+It is impossible to enter at any length into the problem of the
+identity of Beatrice; each reader will decide it according to the
+general conception which he forms of Dante and his works.  The idea,
+however, that she was a mere spiritual abstraction is quite
+inconsistent with Dante's genius.  However much he might allegorize, it
+lay in the very nature of his mind to start from some concrete and
+literal fact [Federn (^Dante and his Time~ 222 n.) points out that `if
+Beatrice were a solemn and allegoric name, Dante never would have used
+the tender abbreviation of "Bice," and spoken of her in the same breath
+with "Vanna" (Jennie), Guido's love,' as he does in Sonnet XIV. of the
+^Vita Nuova~ (section xxiv.) and in Sonnet XXXII.  See also ^Par.~ vii.
+14].  Tradition, following Boccaccio and Dante's own son, Pietro, has
+identified her with Beatrice, daughter of Folco Portinari, a wealthy
+and much esteemed citizen of Florence; and we know that in 1287 this
+lady married Simone de' Bardi, and died on June 8, 1290, at the age of
+twenty-four.  Whether it was Beatrice Portinari or another, it is plain
+that from the first Dante's intensely mystical imagination began to
+invest her with strange symbolic meanings and correspondences.  In her,
+he says, Homer's words are fulfilled: `She seemed not to be the
+daughter of mortal man, but of God.' Her salutation destroyed every
+evil passion: `When she appeared in any place, it seemed to me, by the
+hope of her excellent salutation, that there was no man mine enemy any
+longer; and such warmth of charity came upon me that most certainly in
+that moment I would have pardoned whosoever had done me an injury.' 
+`This excellent lady came at last into such favour with all men, that
+when she passed anywhere folk ran to behold her; which thing was a deep
+joy to me: and when she drew near unto any, so much truth and
+simpleness entered into his heart, that he dared neither to lift his
+eyes nor to return her salutation: and unto this many who have felt it
+can bear witness.  She went along crowned and clothed with humility,
+showing no whit of pride in all that she heard and saw: and when she
+had gone by, it was said of many, "This is not a woman, but one of the
+beautiful angels of Heaven"; and there were some that said, "This is
+surely a miracle; blessed be the Lord, who hath power to work thus
+marvellously" [^V. N.~ xi., xxvi.].  Her death completed the process of
+spiritual idealization -- she is transformed into `a miracle whose only
+root is the Holy Trinity.'  He explains why the number nine is so
+friendly to Beatrice: `I say, then, that according to the division of
+time in Italy, her most noble spirit departed from among us in the
+first hour of the ninth day of the month; and according to the division
+of time in Syria, in the ninth month of the year: seeing that Tismim,
+which with us is October, is there the first month.  Also she was taken
+from among us in that year of our reckoning (to wit, of the years of
+our Lord) in which the perfect number was nine times multiplied within
+that century wherein she was born into the world: which is to say, the
+thirteenth century of Christians.
+
+`And touching the reason why this number was so closely allied
+unto her, it may peradventure be this.  According to Ptolemy, (and also
+to the Christian verity,) the revolving heavens are nine; and according
+to the common opinion among astrologers, these nine heavens together
+have influence over the earth.  Wherefore it would appear that this
+number was thus allied unto her for the purpose of signifying that, at
+her birth, all these nine heavens were at perfect unity with each other
+as to their influence.  This is one reason that may be brought: but
+more narrowly considering, and according to the infallible truth, this
+number was her own self: that is to say, by similitude.  As thus.  The
+number three is the root of the number nine; seeing that without the
+interposition of any other number, being multiplied merely by itself,
+it produceth nine, as we manifestly perceive that three times three are
+nine.  Thus, three being of itself the efficient of nine, and the Great
+Efficient of Miracles being of Himself Three Persons (to wit: the
+Father, the Son, and the Holy Spirit), which, being Three, are also
+One: -- this lady was accompanied by the number nine to the end that
+men might clearly perceive her to be a nine, that is, a miracle, whose
+only root is the Holy Trinity.  It may be that a more subtle person
+would find for this thing a reason of greater subtlety: but such is the
+reason that I find, and that liketh me best' [^V. N.~ xxx.  For Tismin,
+or Tismim, as Rossetti has it, Moore reads Tisrin, the Syrian month
+Tixryn, as given by the Arabian astronomer, Alfraganus (see Toynbee's
+^Dante Dictionary~)].  The `more subtle person' is perhaps one of
+Dante's commentators.
+
+Those writers who regard Beatrice as a mere abstraction, say
+for Theology or the Church, appeal to the ^Convito~, Dante's second
+great work, which undoubtedly has an intimate and mysterious connection
+with the ^Vita Nuova~.  When it was written is very uncertain --
+probably at various dates during the earlier years of his exile [see,
+however, Mis Hillard's discussion of the chronology in the introduction
+to her translation of the ^Convito~ (pp.  xvii-xxxiv)].  Dante's
+original intention was to take fourteen of his canzoni and write on
+each a commentary, thus forming, as one says, a kind of treasury of
+universal knowledge in fourteen books.  The plan was never carried
+beyond the fourth, Book I, being an introduction to the whole.  It is
+called the ^Convito~ or ^Banquet~, because it was Dante's wish to
+spread a feast of wisdom, `bread of the angels,' for the multitude, the
+unlearned crowd, who else must `feed in common with the sheep.'  It is,
+in short, as Wicksteed says, `an attempt to throw into popular form the
+matter of the Aristotelian treatises of Albertus Magnus and Thomas
+Aquinas,' and is therefore of the first importance for the
+interpretation of the ^Commedia~, which cannot be fully understood
+without it.  As already said, its relation to the ^Vita Nuova~ is at
+once close and mysterious.  We saw that Dante after the death of
+Beatrice was tempted to find consolation in the ^donna pietosa~, the
+young and beautiful lady who looked at him from a window with eyes of
+pity, and that after a severe struggle with himself he turned away from
+the thought of her as a base treachery to Beatrice.  Now, had he
+written nothing more of this Lady of Pity, we should have had little
+doubt of these three things: that she was a real woman; that he
+regarded his desire for her as base; and that he abandoned her
+society.  But in the ^Convito~ he denies all three: she was not a real
+woman, but Philosophy; so far from being evil, Philosophy is Divine;
+and instead of abandoning her, he gave himself up delightedly to the
+most passionate love of her.  He tells us that what moves him to say
+this is `the fear of infamy' -- the infamy of passion and inconstancy. 
+Many having accused him of having `changed from his first love,' he
+judges that his best defence is simply to tell who this lady is who had
+so changed him.  `I say and affirm that the lady with whom I was
+enamoured, after my first love, was the most beautiful and most
+virtuous daughter of the Emperor of the Universe, to whom Pythagoras
+gives the name of ^Philosophy.~' `This Lady is Philosophy, who is truly
+a lady full of sweetness, adorned with virtue, wonderful in knowledge,
+glorious in liberty.'  `God, who comprehends all things, sees nothing
+so fair as when he looks upon the place where this Philosophy is.  For
+Philosophy is a loving use of Wisdom; which exists above all in God,
+because in Him is supreme Wisdom, and supreme Love, and supreme
+Power....  Oh, most noble and most excellent heart, that hath communion
+with the Bride of the Emperor of Heaven! and not Bride only but most
+delectable Sister and Daughter!' [^Conv.~ i. 2; ii. 16; iii. 1, etc.]. 
+How this can be in any sense a description of the Lady of Pity in ^The
+New Life~, from whom Dante tore himself away as from a temptress, it is
+impossible to say.  It is, however, argued by some writers that if
+this ^donna pietosa~ is an abstraction for Philosophy and nothing more,
+Beatrice herself is equally an abstraction for Theology and nothing
+more; and that the sin which Beatrice on the top of Mount Purgatory
+drives home so sternly on Dante's conscience, is simply that of
+abandoning Theology for the study of worldly philosophy and science
+[^Purg.~ xxx. 55-xxxi. 90; xxxiii. 85-90.  See {comms. to ^Inf.~ 1.13-18;
+30}].  Against this, however, is the fact that while Dante in the
+^Convito~ freely and explicity allegorizes the pitiful Lady of the
+window, there is not a syllable of a similar treatment of Beatrice.  It
+is likely to remain one of the many unsolved problems of Dante's life and
+character.  Perhaps, as Lowell suggests, this transformation of the
+Lady of Pity into Philosophy was an illusion of memory.  `Such
+idealizations have a very subtle retrospective action, and the new
+condition of thought and feeling is uneasy till it has half
+unconsciously brought into harmony whatever is inconsistent with it in
+the past....  Dante in his exposition of the ^Canzoni~ must have been
+subject to this subtlest and most deceitful of influences.  He would
+try to reconcile so far as he conscientiously could his present with
+his past.  This he could do by means of the allegorical
+interpretation.'  Gardner thinks that on the top of Mount Purgatory he
+dropped this delusive allegorical veil of self-justification, and at
+last confessed the naked truth [^Dante~ (Temple Primers Series), p.
+63].
+
+The education of Dante is involved in a mystery almost as
+great.  His writings are a perfect mine of mediaeval learning.  `He
+anticipated,' says Hettinger, `the most pregnant developments of
+Catholic doctrine, mastered its subtlest distinctions, and treated its
+hardest problems with almost faultless accuracy.  Were all the libraries
+in the world destroyed, and the Holy Scriptures with them, the whole
+Catholic system of doctrine and morals might be almost reconstructed
+out of the ^Divina Commedia~ [^Dante's Divina Commedia~, p. 234.  Dr.
+Hettinger writes from the Roman Catholic standpoint].  How this vast
+knowledge was acquired is virtually unknown.  Various conjectures have
+been made.  Plumptre supposes that Dante, after the custom of boys of
+the Middle Ages, went forth to see the world, wandering from university
+to university in search of knowledge.  He constructs a romance of `the
+student's ^wanderjahre~,' in which the young Florentine visits the
+universities of Bologna, Padua, Paris, and even Oxford.  The chief
+grounds for this romance are the many traces of travel scattered
+throughout the ^Commedia~, but the obvious answer is that these may
+refer to the wanderings of his exile [Plumptre's ^Dante~, I. Life,
+xlii.  `From a phrase of Boccaccio in a Latin poem addressed to
+Petrarca in which he mentions "Parisios demum extremosque Britannos"
+among the places visited by Dante, it has been assumed that Dante came
+to England; and Giovanni Serravalle, in a commentary on the ^D.C.~
+written at the beginning of Cent. xv., goes the length of stating that
+he studied at Oxford....  In the absence of more trustworthy evidence,
+the fact of this alleged visit to England must be regarded as extremely
+doubtful' (Toynbee's ^Dante Dictionary~)].  The view once almost
+universally held that his tutor was Brunetto Latini, secretary to the
+Florentine government, is now generally abandoned; although it is
+obvious from Dante's warm gratitude that he owed much to Brunetto's
+kind and fatherly guidance and encouragement [^Inf.~ xv. 79-87.  See
+{comm. thereto}].  A third view has much in its favour, namely, that
+Dante was, to all intents and purposes, a self-taught man.  In his youth
+he had received a good education, as the ^Vita Nuova~ shows; but up to
+his twenty-fifth year he had probably attended no university.  It was
+only after the death of Beatrice, partly to prepare himself for writing
+some great work in her praise, and partly to conquer his grief, that he
+threw himself seriously into the study of science and philosophy.  In
+the ^Convito~ he gives the following account of himself at this period:
+`After some time, my mind, which was struggling to regain its health,
+saw that is was necessary (as neither mine own nor others' consolation
+was of any avail) to try the plan which another disconsolate one had
+adopted to console himself.  And I set myself to read that book of
+Boethius, not known to many, wherewith, a prisoner and banished, he had
+comforted himself.  And again, hearing that Tullius had written another
+book, in which, treating of ^Friendship~, he had spoken consoling words
+to Laelius, a most excellent man, on the death of his friend Scipio, I
+set myself to read that.  And although at first it was hard for me to
+understand their meaning, I finally made out as much as what art of
+grammar I possessed, together with some little intellectual power of my
+own, enabled me to do; by the which intellectual power I had already
+beheld many things, as it were dreaming, as may be seen in the ^Vita
+Nuova~.  And just as if a man should go about looking for silver, and
+apart from his purpose should find gold (which some occult cause
+presented, perhaps not without Divine ordinance); so I, who sought to
+console myself, found not only a remedy for my tears, but sayings of
+authors, and of sciences, and of books; considering which, I soon
+decided that Philosophy, who was the sovereign lady of these authors,
+these sciences, and these books, was the supreme thing.  And I imagined
+her as a noble lady; and I could not imagine her as other than
+merciful; wherefore so willingly did my sense of Truth behold her that
+I could scarcely be diverted from her.  And on account of this
+imagination I began to go where she in truth showed herself, that is,
+in the schools of the religious and the disputations of the
+philosophers; so that, in a little while, perhaps thirty months, I
+began to be so deeply aware of her sweetness, that the love of her
+banished and destroyed every other thought' [^Conv.~ ii. 13.  The two
+books named are Boethius' ^De Consolatione Pholosophiae~ and Cicero's
+^De Amicitia.~  For connection of the passage with the Savage Wood, see
+{comm. to ^Inf.~ 1.2-3}].  In addition to this, his contemporary and
+neighbour in Florence, Giovanni Villani, says that after his banishment,
+`he went to study at Bologna, and afterwards at Paris, and in many parts
+of the world' [^Chronicle~, Bk. ix. ch. 136.]; but doubtless Scartazzini
+is not far wrong in supposing that the necessity of earning his bread
+made him frequent the universities no less as teacher than as student [^A
+Companion to Dante~, Part ii. ch. ii. -- ^Student or Teacher?~]. 
+However he gained his vast learning, he speaks of it with great
+humility: `I who do not sit at the blessed table (^i.e.~ where Wisdom,
+`the bread of the angels,' is dispensed), but fled from the pasture of
+the herd, and at the feet of them who are seated there, gather up what
+they let fall' [^Conv.~ i. 1.  Dante evidently regards himself as a
+^dilettante~, a mere `picker-up of learning's crumbs'].
+
+The death of Beatrice was obviously a critical turning-point
+in Dante's moral life.  There are passages in the ^Commedia~ to which
+it seems almost impossible to give any real meaning, except on the
+supposition that they refer to certain moral lapses of this period.  It
+may have been on this account that his friends, if Boccaccio is to be
+believed, arranged his marriage with Gemma Donati, some time between
+1291 and 1296.  Of this lady little is known beyond that she was a
+distant kinswoman of the haughty and ambitious Corso Donati, to whom
+Dante owed his banishment [Dante speaks affectionately of Corso's
+brother Forese (^Purg.~ xxiii., xxiv.), and of his sister Piccarda
+(^Purg.~ xxiv. 10; ^Par.~ iii).  Corso's death is foretold by Forese
+in ^Purg.~ xxiv. 82-87]; that she bore Dante at least four children,
+two sons, Pietro and Jacopo, and two daughters, Antonia and Beatrice;
+and that she did not join her husband in his exile.  From this last
+fact Boccaccio has given currency to the impression which has prevailed
+ever since, that the marriage was an unhappy one, and that Gemma was a
+veritable Xanthippe.  After expatiating at great length on the
+discomforts marriage ^might~ have caused the poet, he winds up: `I
+certainly do not say that all this happened in Dante's case, because I
+do not know it; but, whether that be the truth or not, Dante when once
+parted from his wife -- who, it will be remembered, had been supplied
+to him as a consolation in trouble -- would never come where she was,
+nor allow her to come to him.'  It is probable, of course, that Gemma,
+in common with the rest of the world, was unable to understand and
+appreciate her husband's genius, but there is no definite ground for
+the hostile view generally taken to her.  [It is surely unnecessary to
+suppose that when Forese Donati denounces the women of Florence for
+shamelessnes (^Purg.~ xxiii. 94-111), Dante meant to include his own
+wife in the general condemnation.]  It is true, Dante never mentions
+her in his writings, not did she join in his exile.  The homeless man
+had enough to do to maintain himself, and it was mere prudence for his
+wife to remain behind in Florence and provide for herself and their
+children out of the revenues of her dowry -- meagrely enough, as
+Boccaccio admits, for she had to betake herself to `unaccustomed
+toil.'  In this struggle surely she had the sympathy and approval of
+her husband; and if she had not, we may well spare from the
+transfigured and glorified Beatrice one pitying thought for the lonely
+wife, `unwept, unhonoured, and unsung.'
+
+Dreamer, poet, and student as he was, Dante nevertheless took
+the keenest interest in the public affairs of his time and city.  At
+the age of twenty-four, he had already borne arms for his country.  He
+belonged to a Guelph family; and one of his early biographers, Lionardo
+Bruni, says that he was present, fighting vigorousely in the very front
+rank, at the battle of Campaldino in 1289, when the Florentine Guelphs
+inflicted a crushing defeat on the Ghibellines of Arezzo.  He quotes
+from a letter now lost in which Dante speaks of `the battle of
+Campaldino in which the Ghibelline party was almost destroyed and
+undone; where I found myself,' he says, `no child in arms, and where I
+had much fear, and in the end very great joy through the varying
+chances of that battle.'  In the ^Inferno~ (xxi. 93-96) he tells us he
+was present at the taking of the castle of Caprona near Pisa in the
+same year, and saw the terror of the garrison as they marched out, lest
+the besiegers should break the terms of surrender and slay them on the
+spot.
+
+In 1295 or 1296 Dante enrolled himself as ^poeta Fiorentino~ in
+the Guild of Physicians and Apothecaries, this being the necessary
+preliminary to his taking any part in the government of the city.  In
+1300 he went as ambassador to San Gemignano near Siena, to invite its
+citizens to send representatives to an assembly about to be held for
+the purpose of electing a new Captain of the Guelph League of Tuscany. 
+In the same year he was elected one of the six Priors of Florence, his
+term of office running from June 15 to August 15.  In the letter
+already quoted by Bruni, Dante traces his subsequent misfortunes to
+this election: `All my ills and all my troubles had their beginning and
+origin from my unlucky election as Prior.  Though in respect of mature
+wisdom I was not worthy of this office, yet in loyalty I was not
+unworthy of it, nor in age, for ten years had elapsed since the battle
+of Campaldino.'
+
+At this point it becomes necessary to say a word about those
+faction-names which are of such constant recurrence in the wild and
+tangled politics of mediaeval Italy, -- Guelphs and Ghibellines.  The
+words came from Germany: Guelph from ^Welf~, the name of the powerful
+family of the Counts of Altdorf; and Ghibelline from ^Weiblingen~, a
+castle in Franconia belonging to the great Swabian house of the
+Hohenstaufen.  At the battle of Weinsberg in 1140 between these rival
+houses, `the names Welf and Weiblingen were for the first time adopted
+as war-cries, which were subsequently naturalized in Italy as ^Guelfo~
+and ^Ghibellino~, and became the distinctive appellations of the
+opposing factions of the Pope and the Emperor.'  It is, however, much
+too simple a view to say that the Guelphs were Papalists and the
+Ghibellines Imperialists.  In course of time the original principles
+were swept into the background, `the spirit of faction outlived the
+cause of faction,' and the imperial and papal titles became mere labels
+covering every kind of feud and discord -- national and local, class,
+family, and individual.  Each side cared for the cause of Pope or
+Emperor just so far as Pope or Emperor enabled them to gain their own
+ends and drive their rivals into exile.  As Dean Church says: `The
+names of Guelf and Ghibelline were the inheritance of a contest which,
+in its original meaning, had been long over.  The old struggle between
+the priesthood and the empire was still kept up traditionally, but its
+ideas and interests were changed: they were still great and important
+ones, but not those of Gregory VII.  It had passed over from the mixed
+region of the spiritual and temporal into the purely political.  The
+cause of the popes was that of the independence of Italy -- the freedom
+and alliance of the great cities of the north, and the dependence of
+the centre and south on the Roman See.  To keep the Emperor out of
+Italy -- to create a barrier of powerful cities against him south of
+the Alps -- to form behind themselves a compact territory, rich,
+removed from the first burst of invasion, and maintaining a strong body
+of interested feudatories, had now become the great object of the
+popes....  The two parties did not care to keep in view principles which
+their chiefs had lost sight of.  The Emperor and the Pope were both
+real powers, able to protect and assist; and they divided between them
+those who required protection and assistance.  Geographical position,
+the rivalry of neighbourhood, family tradition, private feuds, and
+above all private interests, were the main causes which assigned
+cities, families, and individuals to the Ghibelline or Guelf party. 
+One party called themselves the Emperor's liegemen, and their
+watch-word was authority and law; the other side were the liegemen of
+Holy Church, and their cry was liberty; and the distinction as a broad
+one is true.  But a democracy would become Ghibelline, without scruple,
+if its neighbour town was Guelf; and among the Guelf liegemen of the
+Church and liberty the pride of blood and love of power were not a whit
+inferior to that of their opponents....  The Ghibellines as a body
+reflected the worldliness, the licence, the irreligion, the reckless
+selfishness, the daring insolence, and at the same time the gaiety and
+pomp, the princely magnificence and generosity and largeness of mind of
+the house of Swabia; they were the men of the court and camp, imperious
+and haughty from ancient lineage or the Imperial cause, yet not wanting
+in the frankness and courtesy of nobility; careless of public opinion
+and public rights, but not dead to the grandeur of public objects and
+public services.  Among them were found, or to them inclined, all who,
+whether from a base or a lofty ambition, desired to place their will
+above law -- the lord of the feudal castle, the robber-knight of the
+Apennine pass, the magnificent but terrible tyrants of the cities, the
+pride and shame of Italy, the Visconti and Scaligers....  The Guelfs, on
+the other hand, were the party of the middle classes; they rose out of
+and held to the people; they were strong by their compactness, their
+organisation in cities, their commercial relations and interests, their
+command of money.  Further, they were professedly the party of
+strictness and religion, a profession which fettered them as little as
+their opponents were fettered by the respect they claimed for imperial
+law.  But though by personal unscrupulouss and selfishness, and in
+instances of public vengeance, they sinned as deeply as the Ghibellines,
+they stood far more committed as a party to a public meaning and
+purposes -- to improvement in law and the condition of the poor, to a
+protest against the insolence of the strong, to the encouragement of
+industry.  The genuine Guelf spirit was austere, frugal, independent,
+earnest, religious, fond of its home and Church, and of those
+celebrations which bound together Church and home; but withal very
+proud, very intolerant; in its higher form intolerant of evil, but
+intolerant always to whatever displeased it' [^Dante: An Essay~, pp.
+14-18.  For the connection of Guelphs and Ghibellines with the
+`struggle for the supremacy of the mercantile democracy and the Roman
+Law over the military aristocracy with its "barbarian" traditions,' see
+Wicksteed's Introduction to Selections from Villani's ^Chronicle~, and
+Prof. Villari's ^The Two First Centuries of Florentine History~].
+
+According to Villani, these factions were introduced into
+Florence in 1215 through the murder of Buondelmonte de' Buondelmonti;
+but, of course, this was only the occasion, not the cause [^Chronicle~,
+v. 38  See {comm. to ^Inf.~ 28.103-111}].  The city became a battlefield. 
+The great families built towers to fight their enemies.  `In these
+fortresses of the leading families, scattered about the city, were the
+various points of onset and recovery in civic battle; in the streets
+barricades were raised, mangonels and crossbows were plied from the
+towers, a series of separate combats raged through the city, till
+chance at length connected the attacks of one side, or some panic
+paralysed the resistance of the other, or a conflagration interposed
+itself between the combatants, burning out at once Guelf and
+Ghibelline, and laying half Florence in ashes.  Each party had their
+turn of victory; each, when vanquished, went into exile, and carried on
+the war outside the walls; each had their opportunity of remodelling
+the orders and framework of government, and each did so relentlessly at
+the cost of their opponents.  They excluded classes, they proscribed
+families, they confiscated property, they sacked and burned warehouses,
+they levelled the palaces, and outraged the pride of their antagonists'
+[Church's ^Dante~, pp. 20-21].
+
+To increase if possible the horror of this suicidal struggle, a
+new faction was added in the very year when Dante was elected Prior. 
+In the neighbouring city of Pistoja, a feud had broken out in the
+Guelph family of the Cancellieri, the two sides being distinguished as
+Bianchi and Neri, Whites and Blacks.  The leaders were arrested and
+brought to Florence, with the unhappy issue that it also was set ablaze
+with the same feud.  Corso Donati became the head of the Black Guelphs,
+his rival, Vieri de' Cerchi, of the White.  They came to blows in the
+Piazza di Santa Trinit@a on May-day 1300, and the strife grew to such a
+head that Dante and his fellow-Priors found it necessary to banish the
+leaders of both sides.  The Blacks appealed to Pope Boniface VIII., who
+summoned Charles of Valois, brother of Philip the Fair of France, and
+sent him as `peacemaker' to Florence.  Dante and the other White
+Guelphs were violently opposed to his entrance.  Dino Compagni (ii. 25)
+says that Dante was among the ambassadors whom the Whites sent to Rome
+to protest against it; and Boccaccio tells the well-known story that
+when his name was proposed Dante exclaimed, `If I go, who remains?
+and if I remain, who goes?' -- a question which made him many enemies. 
+Dante's embassy to Rome is generally regarded as very doubtful, but so
+high an authority as Prof. Villari sees no cause to question it [^The
+Two First Centuries of Florentine History~, Chap. ix. {Paragraph} vii.
+n.].  The only reply the Pope deigned to give to the embassy was the
+haughty demand, `Make humiliation to us.'  On November 1, 1301, Charles
+of Valois entered Florence with his men unarmed; and on the 5th,
+Villani, who was present on the occasion, tells us that he received the
+lordship of the city in the church of Santa Maria Novella, swearing, on
+his word `as the King's son,' to `preserve the city in peaceful and
+good state.'  `And straightway,' adds Villani, `the contrary was done
+by him and by his followers.'  He armed his horsemen, and the city saw
+that it had been betrayed.  Corso Donati and the Neri were admitted,
+threw open the prisons, and drove the Priors from their Palace.  `And',
+writes Villani, `during all this destruction of the city M. Charles of
+Valois and his people gave no counsel nor help, nor did he keep the
+oath and promise made by him.  Wherefore the tyrants and malefactors
+and banished men who were in the city took courage, and the city being
+unguarded and without government, they began to rob the shops and
+places of merchandise and the houses which pertained to the White
+party, or to any one that had not the power to resist, slaying and
+wounding many persons, good men of the White party.  And this plague
+endured in the city for five days continually, to the great ruin of the
+city.  And afterwards it continued in the country, the troopers going
+on robbing and burning houses for more than eight days, whereby a great
+number of beautiful and rich possessions were destroyed and burned. 
+And when the said destruction and burning was ended, M. Charles and his
+council reconstituted the city, and elected a government of Priors of
+the popolani of the Black party.  [For an account of the origin of the
+Black and White factions, their introduction to Florence, and the
+disastrous consequences to the city, see Villani's ^Chronicle~, viii.
+38-49.]  It was in this wild storm that Dante's fortunes went down to
+rise no more.  The Neri immediately took their revenge.  Dante, who had
+been among the most resolute of the opponents of Charles and the Pope,
+was naturally one of the victims.  On January 27, 1302, a decree of
+banishment was issued against him and four others.  They are accused of
+`barratry,' that is, corruption and malversation of public funds,
+opposition to the Pope and the entrance of Charles, and to the peace of
+Florence and the Guelph party.  Their failure to appear when summoned
+by a herald is taken as an acknowledgement of guilt.  They are
+sentenced to pay a fine of five thousand gold florins each for contempt
+of court, and to restore the money they had taken by fraud within three
+days on pain of confiscation of their property; to suffer banishment
+from Tuscany for two years; and to have their names inscribed in the
+Statutes of the People as forgers and barrators who are excluded for
+ever from holding any public office under the Commune of Florence.  On
+the 10th of March following, a further sentence condemned the five,
+along with ten others, to perpetual banishment, and, if caught on
+Florentine soil, to death by burning.
+
+`From this time,' says Lowell, `the life of Dante becomes
+semi-mythical, and for nearly every date we are reduced to the "as they
+say" of Herodotus....  During the nineteen years of his exile, it would
+be hard to say where he was not.  In certain districts of Northern
+Italy there is scarce a village that has not its tradition of him, its
+^sedia~, ^rocca~, ^spelonca~, or ^torre di Dante~; and what between the
+patriotic complaisance of some biographers overwilling to gratify as
+many provincial vanities as possible, and the pettishness of others
+anxious only to snub them, the confusion becomes hopeless.'  In a
+pathetic passage in the ^Convito~ the homeless exile reveals the
+destitute and far-wandering life he was doomed to lead: `Since it
+pleased the citizens of the fairest and most famous daughter of Rome,
+Florence, to cast me forth from her most sweet bosom (wherein I was
+born and nourished up to the climax of my life, and wherein by their
+good leave, I long with all my heart to rest my weary soul, and to end
+the days allotted to me), through almost every part where her language
+is spoken I have wandered, a pilgrim, almost a beggar, displaying
+against my will the wounds of fortune, which are often wont to be
+imputed unjustly to the wounded one himself.  Truly have I been a
+vessel without sail or rudder, borne to divers ports and straits and
+shores by the dry wind which blows from dolorous poverty; and have
+appeared vile in the eyes of many who, perhaps, through some fame of
+me, had imagined me in other guise; in whose consideration not only did
+I in person suffer abasement, but all my work became of less account,
+that already done as well as that yet to do' [^Conv.~ i. 3].  Thus
+amply was his forefather Cacciaguida's well-known prophecy fulfilled:
+
+     Thou shalt abandon everything beloved
+     Most tenderly, and this the arrow is
+     Which first the bow of exile shooteth forth.
+     Thou shalt have proof how savoureth of salt
+     The bread of others, and how hard a road
+     The going down and up another's stairs.'
+                         [^Par.~ xvii. 55-60.]
+
+It would be vain to attempt to trace his wanderings in detail.  He
+is said to have received the news of his exile in Siena on his way
+back from Rome.  With other White Guelphs he joined the banished
+Ghibellines, and made common cause with them in their efforts to effect
+their return to Florence.  Several attempts to force their way into the
+city failed, but what part Dante took in these is uncertain.  It was
+not long till he severed his connection with both Guelphs and
+Ghibellines, and formed a party by himself.  Speaking from the
+standpoint of 1300, his ancestor foretells this political detachment
+and isolation:
+
+     `And that which most shall weigh upon thy shoulders
+     Will be the company malign and stupid
+     With which thou shalt fall down into this valley,
+     For all ungrateful, all mad and impious,
+     Will they become against thee; but soon after
+     They and not thou shall have the forehead red.
+     Of their bestiality their own procedure
+     Shall make the proof, so `twill be well for thee
+     To have made thee a party by thyself.'
+                              [^Par.~ xvii. 61-69.
+
+Doubtless his fellow-exiles on their side felt the proud,
+impracticable, and visionary nature of the man, and were probably not
+unwilling to be rid of him; while Dante must quickly have discovered
+that their Ghibellinism was not his.  The truth is, it is misleading
+to call Dante a Ghibelline at all, at least in the ordinary meaning of
+the name.  He did, indeed, abandon the Guelph party, in which he was
+born and bred; but he found that the Ghibellines with whom he acted for
+a time regarded the Empire as a mere means and instrument for securing
+their supremacy as a faction, while he was dreaming of it as an ideal
+kingdom of universal justice in which the very spirit of faction must
+die.  [In ^Par.~ vi. 100-102 the Emperor Justinian denounces the Guelphs
+for opposing the Eagle, the public standard, and is equally indignant
+with the Ghibellines for making it the standard of a faction.]  `He
+became a theoretical politician, an ardent and impassioned doctrinaire,
+an inspired prophet, standing outside existing factions and clinging
+tenaciously to the dream which he had formed of a future and better
+state of things, destined by the Providence of God to supersede
+factions and restore the divine order of the world' [J. Addington
+Symonds' ^The Study of Dante~, p. 63].
+
+Dante's first refuge was with `the great Lombard,' who is
+identified with Bartolommeo della Scala of Verona, who died in 1304. 
+There he saw Can Grande, a boy of nine, to whom afterwards he dedicated
+the Paradiso [^Par.~ xvii. 70-93; see {comm. to ^Inf.~ 1.100-111}].  His
+next resting-place was probably Bologna, where he cannot have remained
+longer than 1306, in which year all Florentine exiles and Ghibellines
+were expelled from the city.  There is said to exist documentary evidence
+that in August of this year he was in Padua, and in October in Lunigiana
+as the guest of one of the Malaspina family [^Purg.~ viii. 118-139].  For
+four or five years after this, Dante disappears entirely: the Casentino,
+Forl@i, Lunigiana again are suggested, but it is pure guesswork.  It is
+in this period that the visit to Paris referred to by Villani is
+generally supposed to have taken place; and if so, it would account for
+the absence of every trace of him in Italy.  He was recalled by the
+advent in Italy of the Emperor Henry VII, in September 1310.
+
+In his Latin treatise, ^De Monarchia~, Dante discusses the
+standing problem of the relations of Church and Empire.  The date of it
+is unknown, and in the absence of definite information we may regard it
+as written in view of Henry's advent.  It is, as one says, `perhaps the
+most purely ideal of political works ever written.'  Dante took the
+Church and the Empire for granted as the necessary framework of
+society, without which, indeed, he could not conceive its existence;
+and the ^De Monarchia~ is an attempt to lay down the limits of their
+respective jurisdictions.  `It is not the work of a statesman, but of a
+philosophical thinker, steeped in the abstractions of the school, and
+not constructing his system from given conditions, but basing it on
+dogmatic hypotheses, and explaining it from general conceptions.  Dante
+does not treat of the State but of the ideal of the universal
+republic.  With scholastic method he develops three principles: that
+the universal monarchy -- that is to say, the empire -- is necessary to
+the wellbeing of human society; that the monarchial power -- the one
+indivisible imperium -- legally belongs to the Roman people, and
+through them to the emperor; lastly, that the authority of the emperor
+is derived immediately from God, and not, according to the opinion of
+the priests, from the pope, the Vicar of Christ or God' [Gregorovius,
+^Rome in the Middle Ages~, vi. 20 (English Translation)].  It follows
+that Church and Empire have distinct and separate functions and
+jurisdictions: `Therefore man had need of two guides for his life, as
+he had a twofold end in life; whereof one is the Supreme Pontiff, to
+lead mankind to eternal life, according to the things revealed to us;
+and the other is the emperor, to guide mankind to happiness in this
+world, in accordance with the teaching of philosophy' [^De Monarchia~,
+iii. 16; see {comm. to ^Inf.~ 1.2-3}].  In `the white star' of Jupiter,
+the Heaven of righteous Rulers, Dante works out this conception of
+universal monarchy on a wider scale than is possible on `this little
+plot of earth.'  The just kings of every age and land in the form of
+starry lights spell out, letter by letter, the opening words of the
+Book of Wisdom: ^Diligite justitiam qui judicatis terram~, each adding
+his contribution to the celestial empire of universal righteousness. 
+Then on the final M, the initial of Monarchia, more than a thousand
+settle and form themselves into the head and neck of the glowing
+imperial eagle [^Par.~ xviii. 70-114].  It is the apotheosis of the
+Empire of which he had dreamed on earth.  To an idealist like this,
+Henry VII. of Luxemburg may well have seemed the heaven-ordained
+fulfiller of the dream.  For he too was an idealist, the best knight in
+Europe, a lover of righteousness and peace, his imagination touched to
+chivalry by the ancient glories of the Empire, and dreaming that, once
+crowned at Rome, the factions and wars of Italy would vanish as by
+enchantment in universal love and brotherhood.  In the same generous
+delusion Dante welcomed him with a passion of religious joy which to
+our ears sounds, to say the least, irreverent.  In his Letter to Henry,
+`by divine providence King of the Romans, always august,' he says: `In
+truth, I, who write as much for myself as for others, saw you most
+gracious, as beseems imperial majesty, and heard you most clement, when
+my hands touched your feet and my lips paid their debt.  Then my spirit
+gloried in you, and silently I said within myself: "Behold the Lamb of
+God which taketh away the sin of the world!"' [^Letter~ vii. 2.  The
+references to the Letters are according to the Oxford edition of
+Dante's Works by Dr. Moore, and the translations are generally those of
+Mr. Latham -- ^Dante's Eleven Letters.~  From this quotation it appears
+that Dante was present and rendered homage when Henry was crowned with
+the iron crown at Milan in 1311].  In another Letter he summons all
+Italy to receive the new emperor as the lord and owner of the world: `I
+exhort you not only to rise up to meet him, but also to do reverence to
+his presence.  Ye who drink of his streams and navigate his seas; ye
+who tread the sands of the shores and the summits of the Alps that are
+his; ye who rejoice in any public thing whatsoever, and possess private
+goods not otherwise than by the bonds of his law; do not, as if
+ignorant, deceive yourselves as though ye dreamt in your hearts and
+said: "We have no lord."  For his garden and lake is whatever the
+heavens encompass round about, since "The sea is God's and he made it,
+and His hands formed the dry land"' [^Letter~ v. 7].
+
+The response of Florence to this summons was the repair and
+heightening of her walls in defiance of the Emperor; whereupon Dante
+wrote a violent letter to `the most infamous Florentines within the
+walls,' warning them that all their defences will be powerless to save
+them from the imperial vengeance: `In what will it profit you to have
+surrounded yourselves with ramparts and battlements, when the eagle,
+terrible in a field of gold, swoops down on you, -- the eagle who, now
+sailing over the Pyrenees, now over the Caucasus, now over Atlas, the
+more strengthened by the opposition of the host of heaven, of old
+looked down upon the vast seas as no hindrance to his flight?'
+[^Letter~ vi. 3].  To the Emperor himself he did not hesitate to
+address a letter of indignant remonstrance for wasting time at the
+siege of Cremona when he should be reducing Florence, lopping branches
+when he should be killing the root: `Do you not know, perchance, O most
+excellent of princes! (nor can you see from the height of such majesty)
+where this stinking fox lies safe from the hunters?  Forsooth the
+caitiff drinks neither in the waters of the precipitous Po, nor in
+those of your Tiber, but the streams of the Arno his jaws thus poison,
+and Florence (do you perchance know it not?) is this dire evil
+called.  This is the viper that darts at the bowels of its mother; this
+is the sick sheep that contaminates the flock of its master by
+contact....  Up then, thou noble child of Jesse, take unto thyself
+courage from the eyes of the Lord God of Sabaoth, in whose presence
+thou art to act; and overthrow this Goliath with the sling of thy
+wisdom and the stone of thy strength, for at his fall night and the
+shadow of fear will cover the camp of the Philistines, the Philistines
+will flee, and Israel will be set at liberty.  Then our heritage,
+deprived of which we weep without ceasing, will be restored to us in
+its entirety.  And as now, while exiles in Babylon, we lament in
+remembering holy Jerusalem, so then, as citizens, and breathing in
+peace, with gladness shall we call to mind the miseries of turmoil'
+[^Letter~ vii. 7, 8].  But it was not to be: in little more than two
+years Henry lay dead at Buonconvento, and Dante's political hopes were
+buried in his tomb.  Even had he lived, success was impossible; as
+Prof. Villari points out, the national idea and spirit were heaving in
+men's minds, and it was precisely the Emperor's claim to be lord of all
+men and things which roused this national instinct to opposition [^The
+Two First Centuries of Florentine History~, chap. x. {Paragraph}
+ix].
+
+How Dante took the wreck of his hopes we have no means of
+knowing.  He broke into no cry of lamentation or despair.  In the
+^Paradiso~, Beatrice points out to him in the snow-white Rose of the
+redeemed `the great seat' of `the lofty Henry who came to straighten
+Italy ere she was ready for it'; that is the only reference to the
+fading of his hopes [^Par.~ xxx. 133-144.  In 1300, the ideal date of
+the poem, the seat, of course, was vacant, but Henry's crown is set
+above it in anticipation of his advent.  In reality the passage was
+written after his death].  Florence could not forgive the violence of
+his denunciations and threats; in a decree of September 2, 1311, he is
+one of a number of exiles excluded from amnesty, and never to be
+allowed to return to the city.  After Henry's death in 1313, Dante
+disappears almost entirely from public view.  In the ^Purgatorio~ he
+himself speaks of a visit to Lucca, and it is supposed that this took
+place in 1314, when that city was in the hands of the Ghibelline leader
+Uguccione della Faggiuola [^Purg.~ xxiv. 34-48].  In November of the
+following year another sentence was launched against him, his sons for
+some reason being included in it.  Their doom as Ghibellines and rebels
+is, if captured, `to be taken to the place of justice, and there to
+have their heads struck from their shoulders, so that they die
+outright.'  In 1316 an amnesty was offered to the exiles.  Dante,
+indeed, was excluded; but private information seems to have been
+conveyed to him by friends in the city that the pardon might be
+extended to him if he would submit to the conditions -- the payment of
+a fine and the performance of a public penance in the Baptistery of St.
+John.  In the well-known ^Letter to a Florentine Friend~, Dante
+indignantly refused to return on such unjust and shameful terms: `Is
+this then the glorious recall wherewith Dante Alighieri is summoned
+back to his country after an exile patiently endured for almost fifteen
+years?  Did his innocence, manifest to whomsoever it may be, deserve
+this -- this, the sweat and increasing toil of study?  Far be the rash
+humility of a heart of earth from a man familiar with philosophy that
+like a prisoner he may suffer himself to be offered up after the manner
+of a certain Ciolo and other criminals.  Far be it from a man who
+preaches justice after having patiently endured injury to pay his money
+to those inflicting it, as though they were his benefactors.  This is
+not the way to return to my country, O my Father.  If another shall be
+found by you, or by others, that does not derogate from the fame and
+honour of Dante, that will I take with no lagging steps.  But if
+Florence is entered by no such path, then never will I enter Florence. 
+What!  Can I not look upon the face of the sun and the stars
+everywhere?  Can I not meditate anywhere under the heavens upon most
+sweet truths, unless I first render myself inglorious, nay ignominious,
+to the people and state of Florence?  Nor indeed will bread be lacking'
+[^Letter~ ix. 3, 4.  The Ciolo is supposed to be a member of the Abati
+family -- the only one of his house whose name was expressly excepted
+from the decree against the exiles, dated September 2, 1311, referred
+to above].
+
+After a short visit which he is believed to have paid to the
+Court of Can Grande of Verona, perhaps in 1316, Dante betook himself to
+his last earthly refuge.  Guido Novello da Polenta, lord of Ravenna,
+and nephew of Francesca da Rimini, invited him to become his guest; and
+there among the ruins and mosaics of the old imperial city, and near
+`the pine wood on the shore of Chiassi' [^Purg.~ xxviii. 20], he
+spent his closing years -- probably, one is glad to think, in more
+comfort than he had known during the greater part of his long exile. 
+His host honoured him for his genius.  His sons Pietro and Jacopo and
+his daughter Beatrice were with him, the last a nun in the convent of
+Santo Stefano dell'Uliva.  A number of puplis gathered round him, so
+that `he was making an independent living in the capacity of professor
+or reader of Vernacular Rhetoric at the Studio, or, as we should now
+say, University of Ravenna' [Wicksteed and Gardner's ^Dante and
+Giovanni del Virgilio -- Prolegomena~, p. 84.  It is suggested that the
+^De Vulgari Eloquentia~ was `a kind of poetical text-book for the use
+of Dante's students at Ravenna, perhaps actually the substance of his
+course of lectures at the University' (p. 86).  Scartazzini makes the
+same suggestion, and thinks the ^Convito~ was similarly used as a
+text-book].  The Exchange of playful Eclogues between him and Giovanni
+del Virgilio, a professor of Bologna, under the pastoral names of
+Tityrus and Mopsus, shows that his misfortunes had not entirely crushed
+Dante's spirits: he was able still to see the sun.  From references in
+the eclogues it is inferred that the ^Inferno~ and ^Purgatorio~ were
+already finished, and that Dante was still engaged on the ^Paradiso.~ 
+In 1321, Guido da Polenta sent him on an embassy to Venice in
+connection with a dispute which had arisen between the two cities; and
+while returning through the marshes he caught fever and died on
+September 14, in the fifty-sixth year of his age.  So passed into the
+other world the spirit that had so long been a pilgrim in it even upon
+earth; and doubtless then were fulfilled to the weary exile the words
+he himself had written, probably when his hope of ever entering the
+earthly city had grown dim: `And as to him who comes from a long
+journey, before he enters into the gate of his city, the citizens
+thereof go forth to meet him, so to meet the noble soul go forth those
+citizens of the Eternal Life.  And this they do because of her good
+works and contemplations' [^Conv.~ iv. 28].  It is the welcome
+Beatrice had already given him as he stood on the threshold of
+Paradise:
+
+     `And thou shalt be with me for evermore
+     A citizen of that Rome where Christ is Roman.'
+                         [^Purg.~ xxxii. 101-102.]
+
+Such was the life of Dante Alighieri, a man broken with every
+variety of sorrow, disappointment, and wordly failure, but never losing
+the lordship and freedom of his own soul.  `He had suffered,' says Karl
+Federn, `all ill chance that could fall to the lot of man.  He loved
+and had lost his beloved one; his family life was unhappy; he was a
+statesman, and as such was unsuccessful; he saw his party defeated and
+driven from the land, and when the Emperor, from whom he had expected
+the redemption of Italy and his own reinstatement, entered Italy with a
+victorious army, he saw him die.  He had been full of the noblest
+intentions, yet men not only gave him no thanks, but had hunted him
+out, had branded his name with foul crimes and condemned him to death. 
+He had lost his whole fortune; one of the proudest of men, he was
+forced continually to humble himself and to live on foreign alms; one
+of the greatest poets of all times, he saw himself neither understood
+nor honoured.  His whole life was devoted to his native city, he clung
+to it with all his heart, and he passed twenty-two years longing in
+vain to return to it.  A devout Catholic, full of reverence for his
+Church, he saw it degraded, governed by "New Pharisees," and at last
+fallen and dishonoured.  Italy, whose unity was dear to him, he saw
+torn by the hatred of parties and cruelly devastated by war.  A sea of
+wrong had passed over him, he saw a sea of wrong raging over the world
+in which he lived; wherever he turned his eyes everything was such as
+to drive him to despair, but he despaired not.  He believed, and in
+spite of all, recognized the high harmony of the world.  He had found
+the path for his soul, the work for his mind, by which he got rid of
+the weight which crushed him, and at the same time took his proud
+revenge on the men who had so maltreated him.  In "eternal letters of
+fire" he wrote his terrible judgment "as lightning writes its cipher
+on the rocks" to be read by all posterity, that men might one day fix
+the balance between this one man on the one side and mankind on the
+other' [^Dante and his Time~, pp. 267-268.  The `twenty-two years' is a
+slip for twenty.  The first sentence of banishment is dated January 27,
+1301/2, and the date of Dante's death is September 14, 1321.  It is to
+be remembered that the Florentine year began on March 25, and therefore
+in the foregoing mode of writing the year (1301/2) the upper figure
+represents the old method of reckoning, and the lower the modern]. 
+Nevertheless he is not to be pitied; it was this furnace of suffering
+which burnt away the dross and left the gold.  Had he never been driven
+into exile and `held heartbreak at bay', the great poem which `made him
+lean for many a year' [^Par.~ xxv. 1-3] would have remained
+unwritten.  Entangled and lost in the `dark and savage wood,' the
+paltry ambitions, quarrels, and vices of his city, he might never have
+become a pilgrim of the invisible.  The spirit of faction never did a
+nobler service to the world than when Florence, that `mother of little
+love,' disowned her son and flung him out upon the universal hopes and
+fears, sins, sorrows, and aspirations of mankind, to steer his course
+by nothing lower than the steadfast stars.  It was not Brunetto Latini,
+`dear and good and fatherly,' but his long exile, cruel and relentless,
+that taught Dante `in the world from hour to hour how man makes himself
+eternal' [^Inf.~ xv. 82-85].
+
+How it was possible in the midst of this distracted, homeless,
+wandering life to gather the stores of encyclopaedic knowledge and to
+shape them into the ordered unity and symbolism of the ^Commedia~, must
+remain a mystery and a miracle.  All interpretation of the poem must
+start from the Epistle in which Dante dedicates the ^Paradiso~ to his
+former host, Can Grande of Verona, and gives his own commentary on part
+of the first Canto.  [This statement is true whether the Letter is
+authentic or not.  Its genuineness is questioned chiefly on the grounds
+of its absence from old MSS., and the silence of Boccaccio and other
+early commentators.  If authentic -- and it is far from being proved
+that it is not -- it is pathetic to find Dante abruptly ending the
+exposition because of poverty: `In particular I will not expound it at
+present; for poverty presseth so hard upon me that I must needs abandon
+these and other matters useful for the public good.  But I hope of your
+magnificence that other means may be given me of continuing with a
+useful exposition' (par. 32).]  The title of the whole poem, he says,
+is -- `The Comedy of Dante Alighieri, a Florentine by birth, not by
+character.'  [`The title ^Divina Commedia~ is subsequent to Dante; it
+appears in some of the oldest MSS. and in Boccaccio's "Vita di Dante"'
+(Toynbee).]  He explains why it is called a Comedy.  Tragedy is in its
+beginning `admirable and quiet,' and in its ending `foul and horrible';
+whereas Comedy, reversing this, begins with some asperity and ends
+prosperously.  There is also a difference in the manner of speech,
+Tragedy using a style `lofty and sublime,' while that of Comedy is
+`weak and humble.'  `From this it is evident why the present work is
+called a comedy.  For if we consider the theme, in its beginning it is
+horrible and foul, because it is Hell; in its ending, fortunate,
+desirable, and joyful, because it is Paradise; and if we consider the
+style of language, the style is careless and humble, because it is the
+vulgar tongue, in which even housewives hold converse' [^Letter~ x. 10. 
+In ^De Vulg. Eloq.~ (ii. 4) he gives a very different account of
+Tragedy and Comedy].  He warns us that the meaning is not simple but
+manifold: `For the clearness, therefore, of what I shall say, it must
+be understood that the meaning of this work is not simple, but rather
+can be said to be of many significations (^polysemum~), that is, of
+several meanings; for there is one meaning tht is derived from the
+letter, and another that is derived from the things signified by the
+letter.  The first is called ^literal~, but the second ^allegorical~ or
+^mystical.~  That this method of expounding may be more clearly set
+forth, we may consider it in these lines: "When Israel went out of
+Egypt, the house of Jacob from a barbarous people, Judah was His
+sanctuary, and Israel His dominion."  For if we consider the ^letter~
+alone, the departure of the children of Israel from Egypt in the time
+of Moses is signified; if the ^allegory~, our redemption accomplished
+in Christ is signified; if the ^moral meaning~, the conversion of the
+soul from the sorrow and misery of sin to a state of grace is
+signified; if the ^anagogical~, the departure of the sanctified soul
+from the bondage of this corruption to the liberty of eternal glory is
+signified.  And although these mystical meanings are called by various
+names, they can in general all be said to be allegorical, since they
+differ from the literal or historic; for the word ^Allegoria~ is
+derived from the Greek (%alpha%lambda%lambda%o%iota%o%varsigma\), which
+in Latin is ^alienum~ or ^diversum~ [^Letter~ x. 7; see ^Conv.~ ii. 1,
+where he expounds the same four senses at greater length.  Also
+Aquinas, ^Summa~ i. q. l. a. 10].  At first sight this seems to make
+confusion worse confounded: how is a plain man to make his way through
+this labyrinth of manifold senses?  And doubtless `the art of
+misunderstanding Dante' is easy enough.  Nevertheless the task of
+interpretation is not so difficult as it looks.  These manifold senses
+are reducible to two with which every mind is familiar -- the ^literal~
+and the ^moral and spiritual~.  The moral and spiritual significance of
+the ^Commedia~ is not really obscure or uncertain, so far at least as
+its broad outlines are concerned.  However Dante may conceal his
+meaning `under the veil of the mysterious verses' and the embarrasing
+riches of detail, the meaning when discovered is found to be the plain
+broad highway of common morality and religion.  To this highway it is
+the duty of an expositor to keep, refusing resolutely to be tempted too
+far down any of the picturesque and interesting lanes and by-paths,
+which almost invariably end in some ^cul-de-sac~ of private
+interpretation.  In doing so, he will best fulfill the plain practical
+purposes which Dante, as the poet of Righteousness [^De Vulg. Eloq.~
+ii. 2.], expressly professes: `The subject of the whole work, taken
+according to the letter alone, is simply a consideration of the state
+of souls after death; for from and around this the action of the whole
+work turneth.  But if the work is considered according to its
+allegorical meaning, the subject is man, liable to the reward or
+punishment of Justice, according as through the freedom of the will he
+is deserving or undeserving....  Omitting all subtle investigation, it
+can be briefly stated that the aim of the whole and of the part is to
+remove those living in this life from a state of misery, and to guide
+them to a state of happiness' [^Letter~ x. 8, 15.  In his ^Dante
+Dictionary~, Toynbee says: `In the light of the fivefold
+interpretation of the ^Commedia~ indicated in his Letter to Can Grande
+(Epis. x. 7), Dante, as he appears in the poem, represents in the
+literal sense the Florentine Dante Alighieri; in the allegorical, Man
+on his earthly pilgrimage; in the moral, Man turning from vice to
+virtue; in the religious, the Sinner turning to God; in the anagogical,
+the Soul passing from a state of sin to that of glory'].
+

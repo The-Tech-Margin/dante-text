@@ -1,0 +1,57 @@
+Return-Path: bobh@phoenix.Princeton.EDU
+Received: from mailhub.dartmouth.edu (mailhub.dartmouth.edu [129.170.16.6])
+	by avalon.dartmouth.edu (8.8.4/8.8.5) with ESMTP id QAA16188
+	for <steve@avalon.dartmouth.edu>; Thu, 1 Jan 1998 16:52:02 -0500
+Received: from outbound.Princeton.EDU (outbound.Princeton.EDU [128.112.128.84])
+	by mailhub.dartmouth.edu (8.8.7+DND/8.8.7) with ESMTP id QAA17198
+	for <Steve.Campbell@dartmouth.edu>; Thu, 1 Jan 1998 16:52:03 -0500 (EST)
+Received: from IDENT-NOT-QUERIED@ponyexpress.Princeton.EDU (port 1601 [128.112.129.131]) by outbound.Princeton.EDU with ESMTP id <545842-9320>; Thu, 1 Jan 1998 16:50:56 -0500
+Received: from flagstaff.Princeton.EDU (bobh@flagstaff.Princeton.EDU [128.112.131.154]) by ponyexpress.Princeton.EDU (8.6.12/8.6.12) with ESMTP id QAA20949; Thu, 1 Jan 1998 16:50:54 -0500
+Received: (from bobh@localhost)
+	by flagstaff.Princeton.EDU (8.8.8/8.8.8) id QAA29562;
+	Thu, 1 Jan 1998 16:50:53 -0500 (EST)
+Message-Id: <199801012150.QAA29562@flagstaff.Princeton.EDU>
+From: bobh@phoenix.Princeton.EDU (Robert B. Hollander)
+Date: 	Thu, 1 Jan 1998 16:50:53 -0500
+X-Mailer: Mail User's Shell (7.2.5 10/14/92)
+To: Steve.Campbell@Dartmouth.EDU
+Subject: DDP
+Cc: bobh@phoenix.Princeton.EDU
+
+Working on the corrections for the DDP (can you believe
+I checked half of the 12,737 occurrences of "II" to
+find 26 instances where it should be "il" {"the" in
+Italian} when I could be watching football or taking a
+walk?).
+
+Wanted to remind/tell you (and remind me) of several
+things:
+
+(1) Daniello Purg. 19.9 is filled with gibberish. I am
+virtually certain I have noted this before, but wanted
+to be sure.  I think it may be more than one entry that
+was affected.
+
+(2) Nasty problem noted today: Nancy Vickers, editing
+Castelvetro, who uses much Greek, often didn't put the
+"end Greek" code into her text ("\").  How do we fix
+that?  I can't check Greek in Castelvetro by searching
+on "%".  Is there a way to do that in the raw files?
+I'd assume so.
+
+By the way, I just heard that Nancy had become
+President of Bryn Mawr.  Had you heard that?
+
+(3) Another sticky issue.  We got the text of the
+"ottimo" from a very distinguished outfit in Italy.
+It's a dicey text, with lots of strange spellings.  Up
+to now I have kept hands off that text, as it is the
+propoerty of the Academy that produced it, the most
+distinguished in Italy.  However, I now see there are a
+lot of just plain errors.  My view is that we don't
+want to get involved in editing their text, but put up
+a notice that we are indebted to them for their
+courtesy in supplying the text, which we have NOT
+edited in any way.  What do you think?
+
+All for now.  Happy New Year.  Best, Bob

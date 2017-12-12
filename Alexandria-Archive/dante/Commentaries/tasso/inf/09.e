@@ -1,0 +1,208 @@
+	|3.~ |(ed.  Rosini)~
+Virgilio, per non sbigottir Dante, ristrinse la pallidezza che avea.  
+[Da Fino]
+
+	|5.~ |(ed.  Rosini)~
+A lunga.  [richiamo marginale] [Sessa]
+
+Non potea veder di lontano.  [Da Fino]
+
+	|8.~ |(ed.  Rosini)~
+^Se non...~  ci converr@a tornare indietro.  ^Tal~, Beatrice.  [Da Fino]
+
+	|15.~ |(ed.  Rosini)~
+Dove disse, ^se non~, intese: resteremo in questo luogo.  [Da Fino]
+
+	|19.~ |(ed.  Celani)~
+Questa question fec'io: et quei, ^di rado~
+
+	|20.~ |(ed.  Rosini)~
+^Incontar~, per avviene.  [Sessa]
+
+	|(ed.  Celani)~
+^Incontra:~ mi rispose, che di nui
+
+	|25.~ |(ed.  Rosini)~
+^La carne nuda~ dell'anima.  [richiamo marginale] [Giolito]
+
+Se la carne @e veste dell'anima, come diremo la carne esser nuda 
+dell'anima?  [Sessa]
+
+Morte.  [Da Fino]
+
+	|(ed.  Celani)~
+Di poco era di me la ^carne nuda,~
+	^la carne nuda dell'anima~
+
+	|31.~ |(ed.  Celani)~
+Questa palude, che 'l ^gran puzzo~ spira,
+
+	|32.~ |(ed.  Celani)~
+Cinge d'intorno la ^citt@a dolente,~
+
+	|36.~ |(ed.  Celani)~
+Ver l'alta torre a la ^cima rovente~
+
+	|40.~ |(ed.  Rosini)~
+^Idre verdissime~, spezie di serpi.  [Da Fino]
+
+	|40-43.~ |(ed.  Rosini)~
+Bellissimo.  [Sessa]
+
+	|45.~ |(ed.  Celani)~
+Guarda, mi disse, le feroci ^Erine.~
+	^Erine,~
+
+	|48.~ |(ed.  Rosini)~
+^A tanto~, cio@e, detto ci@o.  [Sessa]
+
+	|(ed.  Celani)~
+Thesiphon'@e nel mezzo; et ^tacque a tanto.~
+
+	|50.~ |(ed.  Rosini)~
+A palme.  [richiamo marginale] [Sessa]
+
+	|52.~ |(ed.  Rosini)~
+^Lo farem di smalto~, lo convertiremo in sasso.  [Da Fino]
+
+	|54.~ |(ed.  Rosini)~
+Vengiammo.  [richiamo marginale] [Sessa]
+
+^Vengiammo~, vendicammo.  [Da Fino]
+
+	|(ed.  Celani)~
+Ma non ^vengiammo in Theseo~ l'assalto.
+
+	|56.~ |(ed.  Rosini)~
+^Gorgone~, di genere maschio.  Di qui congetturo che avesse visto 
+Omero.  [Sessa]
+
+^Se 'l Gorgon si mostra~.  Medusa e le sorelle.  [Da Fino]
+
+	|57.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|58.~ |(ed.  Rosini)~
+Egli stessi.  [richiamo marginale] [Sessa]
+
+	|(ed.  Celani)~
+Cos@i disse 'l maestro, et ^egli stessi~
+	^egli stessi,~
+
+	|60.~ |(ed.  Rosini)~
+^Chiudessi~, terza persona.  [Sessa]
+
+	|(ed.  Celani)~
+Che con le sue ancor non mi ^chiudessi.~
+
+	|61.~ |(ed.  Rosini)~
+Allegoria manifesta.  [Giolito]
+
+	|(ed.  Celani)~
+O voi, c'havete ^gl'intelletti sani,~
+
+	|61-63.~ |(ed.  Rosini)~
+Nissun poeta che io ho mai visto, fuorch@e Dante, fa professione 
+dell'allegoria, anzi sempre l'ha dissimulata.  [Sessa]
+
+	|62.~ |(ed.  Celani)~
+^Mirate la dottrina che s'asconde~
+
+	|63.~ |(ed.  Celani)~
+^Sotto 'l velame de gli versi~ strani.
+	^Allegoria manifestata~
+
+	|65.~ |(ed.  Rosini)~
+Fracasso d'un suon.  [richiamo marginale] [Sessa]
+
+	|67-72.~ |(ed.  Rosini)~
+Comparazione.  [Da Fino]
+
+	|70.~ |(ed.  Rosini)~
+E1 meno abbattere i fiori che schiantare i rami, e la comparazione 
+dovria andar crescendo.  Leggi ^fuori~.  [Sessa]
+
+	|74.~ |(ed.  Rosini)~
+^Viso~, per vista spessissimo usato da Dante.  ^Fiamma~, schiuma.  
+[Sessa]
+
+	|73-74.~ |(ed.  Rosini)~
+^Il nerbo del viso~, la virt@u visiva.  [Da Fino]
+
+	|75.~ |(ed.  Celani)~
+^Per indi~, ove quel fumo @e pi@u acerbo.
+	^per indi~
+
+	|76-78.~ |(ed.  Rosini)~
+Comparazione.  ^Abbica~, accoglie.  [Da Fino]
+
+	|77.~ |(ed.  Rosini)~
+^Dileguare~ dal latino ^deliquescere~.  [Sessa]
+
+	|78.~ |(ed.  Rosini)~
+^Abbica~.  Bica cumulo di grano.  [Sessa]
+
+	|(ed.  Celani)~
+Fin ch'a la terra ciascuna ^s'abbica:~
+	^abbica~
+
+	|87.~ |(ed.  Rosini)~
+^Inchinassi ad esso~, col terzo caso senza il ^mi~.  [Giolito]
+
+^Inchinassi ad esso~: quando inchinare @e senza la particella, ricerca 
+il quarto caso; nondimeno, qui gli d@a il terzo.  [Sessa]
+
+	|(ed.  Celani)~
+Ch'i stessi fermo, et ^inchinassi ad esso~
+	^co 'l terzo caso e senza il mi.~
+
+	|91.~ |(ed.  Celani)~
+O cacciati dal ciel, gente ^dispetta,~
+
+	|92.~ |(ed.  Celani)~
+Cominci@o, egli in su ^l'horribil soglia,~
+
+	|97.~ |(ed.  Rosini)~
+Opporsi al destino.  [Da Fino]
+
+	|(ed.  Celani)~
+Che giova ne le ^fata dar di cozzo?~
+
+	|101.~ |(ed.  Celani)~
+Et non fe motto a noi: ma ^fe sembiante~
+
+	|101-102.~ |(ed.  Rosini)~
+Elocuzione.  [Sessa]
+
+	|113.~ |(ed.  Rosini)~
+Presso del.  [richiamo marginale] [Sessa]
+
+	|115.~ |(ed.  Rosini)~
+Varo.  [richiamo marginale] [Sessa]
+
+	|120.~ |(ed.  Rosini)~
+Veruna.  [richiamo marginale] [Sessa]
+
+	|125.~ |(ed.  Rosini)~
+Dentro da.  [richiamo marginale] [Sessa]
+
+	|127.~ |(ed.  Rosini)~
+^Eresiarche~.  Bembo.  [Giolito]
+
+^Eresiarche~, ancora che il Bembo nieghi, che alcun nome mascolino nel 
+plurale termini in ^e~.  [Sessa]
+
+In che modo, essendo questo peccato gravissimo, nol mette di sotto?  
+[Da Fino]
+
+	|(ed.  Celani)~
+Et egli a me: qui son gli ^Heresiarche~
+	^Heresiarche, Bembo.~
+
+	|130.~ |(ed.  Rosini)~
+Eretici di ciascuna setta insieme.  [Da Fino]
+
+	|133.~ |(ed.  Celani)~
+Passammo tra' martiri et gli alti ^spaldi.~
+	^spaldi~
+

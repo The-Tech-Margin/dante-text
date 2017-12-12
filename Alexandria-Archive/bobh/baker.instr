@@ -1,0 +1,24 @@
+From steve@avalon.dartmouth.edu Thu Sep  5 17:58:41 1991
+Received: by avalon.dartmouth.edu (5.57/Ultrix3.0-C)
+	id AA01965; Thu, 5 Sep 91 17:58:27 -0400
+From: steve@avalon.dartmouth.edu (Steve Campbell)
+Message-Id: <9109052158.AA01965@avalon.dartmouth.edu>
+Subject: Re: HELP!
+To: bobh@baker.dartmouth.edu (Robert Hollander - DDP PI)
+Date: Thu, 5 Sep 91 17:58:26 EDT
+In-Reply-To: <9109052152.AA03959@baker.dartmouth.edu>; from "Robert Hollander - DDP PI" at Sep 5, 91 5:52 pm
+Status: R
+
+We have not moved private users' accounts to baker yet, so right now he
+can either use eleazar or he can use the ddpdemo account onbaker or he
+can use the online catalog interface to ddp.
+
+To access the online catalog, telnet to library.dartmouth.edu.  At the first
+command prompt, say CONNECT DANTE.
+
+To log onto a private account on baker, either use rlogin or else use this:
+
+	telnet library.dartmouth.edu 796
+
+The magic 796 gets you a conventional login prompt for baker.
+

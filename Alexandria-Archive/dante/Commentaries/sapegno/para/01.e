@@ -1,0 +1,763 @@
+	|1-3.  La gloria~: la magnificenza, lo splendore; |di
+colui~: di Dio; aristotelicamente inteso come primo motore
+dell'universo (cfr. ^Purg.~, XXV, 70).  La sua luce |penetra~, si
+diffonde, e |risplende~, si manifesta, in tutte le cose, perch$e
+ciascuna deriva la propria esistenza e l'essenza che l'informa da
+Lui, ma in vario modo e misura, a seconda della maggiore o minore
+disposizione di ciascuna ad accogliere in s$e l'impronta della
+virt$u divina (cfr. ^Par.~, XXXI, 22-23; e anche ^Conv.~, III,
+vii, 2; ^De vulg. eloq.~, I, xvi, 5).  -- Per questi primi versi
+del ^Paradiso~ ci assiste il commento dell'autore, nell'epistola
+a Cangrande della Scala (della cui autenticit@a non c'@e ragione di
+dubitare), e giova a stabilire con esattezza il concetto
+generale, nonch$e il significato preciso di qualche vocabolo. 
+Intanto |gloria~ sar@a da intendere nel senso di <divinum lumen>,
+<divinus radius> (^Epist.~, XIII, 61 e 64): la virt$u creatrice,
+l'<opera gloriosa> di Dio, come spiega il Buti.  Ed @e evidente il
+ricalco di idee e parole della tradizione biblica: cfr. ^Salmi~,
+XVIII, 2: <Coeli enarrant gloriam Dei>; ^Eccl.~, XLII, 16:
+<gloria Domini plenum est opus eius>; ^Sap.~, I, 7: <spiritus
+Domini replevit orbem terrarum>; ^Geremia~, XXIII, 24: <coelum et
+terram ego impleo>, ecc.  -- |penetra~ ecc.: <penetrat, quantum
+ad essentiam; resplendet, quantum ad esse> (^Epist.~, XIII, 64). 
+<Mediate vel immediate, omne quod habet esse habet esse ab eo... 
+Patet quod omnis essentia et virtus procedat a prima, et
+intelligentie inferiores recipiant quasi a radiante, et reddant
+radios superioris ad suum inferius ad modum speculorum...  Patet
+ergo quomodo ratio manifestat divinum lumen, id est divinam
+bonitatem, sapientiam et virtutem, resplendere ubique> (ivi, 56,
+60-61).
+
+	|4.  Nel ciel~ ecc.: nell'Empireo, il pi$u luminoso dei
+cieli, <pura luce> (^Par.~, XXX, 39): <in celo illo quod de
+gloria Dei, sive de luce, recipit affluentius.  Propter quod
+sciendum quod illud celum est celum supremum, continens corpora
+universa et a nullo contentum, intra quod omnia corpora moventur,
+ipso in sempiterna quiete permanente...  Et dicitur empyreum,
+quod est idem quod celum igne sui ardoris flagrans; non quod in
+eo sit ignis vel ardor materialis, sed spiritualis, quod est amor
+sanctus sive caritas> (^Epist.~, XIII, 66-68).
+
+	|5.  fu' io, e vidi~: il pronome espresso, anzich$e
+sottinteso, e collocato in posizione intensa fra i due verbi, d@a
+rilievo al soggetto in cui si compie l'esperienza privilegiata.
+
+	|6-9.  n$e sa n$e pu@o~: <nescit, quia oblitus; nequit,
+quia, si recordatur et contentum tenit, sermo tamen deficit. 
+Multa namque per intellectum videmus, quibus signa vocalia
+desunt> (^Epist.~, XIII, 83-84).  Non pu@o, insomma, perch$e la
+facolt@a espressiva dell'uomo non s'adegua alla vastit@a e
+all'altezza della visione (cfr. ^Conv.~, III, iii, 15: <la lingua
+non @e di quello che lo 'ntelletto vede compiutamente seguace>; e
+anche ^Vita nuova~, XXI, 4: ^Conv.~, Canz. II, vv. 7-13); non sa
+perch$e la memoria umana non @e in grado di tener dietro al volo
+sublime dell'intelletto: appressandosi a Dio, meta ultima del suo
+desiderio, la mente s'addentra cos$i profondamente nella
+cognizione del bene supremo che poi, cessata la visione, non @e
+pi$u capace di ricordarsene e di ritrarla compiutamente.  <Ad que
+intelligenda sciendum est quod intellectus humanus in hac vita,
+propter connaturalitatem et affinitatem quam habet ad substantiam
+intellectualem separatam, quando elevatur, in tantum elevatur, ut
+memoria post reditum deficiat propter trascendisse humanum modum>
+(^Epist.~, XIII, 78).  -- @E la condizione, esposta in termini
+rigorosamente tecnici, dell'^excessus mentis~, di cui parlano i
+mistici, in cui l'intelligenza umana trascende i modi della
+cognizione sensibile e opera a guisa di intelligenza angelica
+separata dal corpo; e per illustrarla Dante stesso (ivi, 79-81),
+rimanda, oltre che al cenno di san Paolo rapito al terzo cielo
+(^II Cor.~, XII, 2: <vidit arcana Dei, quae non licet homini
+loqui>) e alle testimonianze di visioni bibliche ed evangeliche,
+anche ai testi fondamentali per questo riguardo di sant'Agostino,
+di san Bernardo e di Riccardo da San Vittore (cfr. E. GARDNER,
+^Dante and the Mystics~, London, 1913, pp. 178-79).  Ad intendere
+la poesia del ^Paradiso~, a cominciare da quella di questo primo
+canto, giova tener presente la condizione, che qui Dante enuncia,
+di memoria imperfetta e approssimata di una esperienza mistica,
+<trasumanata>; ma al tempo stesso occorre non dimenticare mai lo
+sforzo che il poeta si propone per renderla in termini di
+concretezza intellettuale e sensibile, con mente, non di mistico,
+ma di logico e di poeta.  Tra quella condizione preliminare e
+questo sforzo tenace, funge da elemento mediante il ricorso ai
+temi fondamentali del pensiero teologico: qui, per es., il tema
+dell'ordine del creato, in cui si esplica trionfalmente
+l'onnipresenza di Dio, come fondamento, ragione e fine di tutto
+ci@o che @e.
+
+	|10-11.  Veramente~: con tutto ci@o.  Ha il valore del
+lat. ^verum~, ^verumtamen~ (cfr. ^Purg.~, VI, 43; XXXIII, 100;
+^Par.~, VII, 61; XXXII, 145).  -- |quant'io~ ecc.: quel tanto
+che, della visione paradisiaca, ha potuto essere accolto e
+tesoreggiato dalla mia memoria (|mente~: cfr. ^Inf.~, II, 6) e
+pu@o esprimersi pertanto in termini sensibili.
+
+	|12.  matera~: materia, argomento.  -- Termina qui la
+prima parte dell'^exordium~ o ^prologus~ della terza cantica, e
+cio@e la ^propositio~, cui segue, nei vv. 13-36, l'^invocatio~,
+secondo le norme della rettorica tradizionale.  La proposizione
+del tema @e espressa in parole dimesse e insieme solenni: di
+fronte al dato dell'ispirazione, sentita come una realt@a
+trascendente, sta la coscienza dell'artista consapevole della sua
+funzione strumentale, nonch$e dei limiti umani in cui gli @e
+consentito di esplicarla.  Donde il tono che oscilla di continuo
+fra l'orgoglio di esser stato prescelto ad accogliere in s$e la
+visione sublime e a comunicarla agli altri uomini, e l'umilt@a di
+chi conosce le proprie forze necessariamente inadeguate ad
+assolvere l'altissimo compito; e nel contrasto fra quell'orgoglio
+e questa umilt@a, l'emozione del ricordo di un'esperienza
+estremamente preziosa, profonda ed intensa.  Lo stesso ardore
+contenuto e consapevole, lo stesso atteggiamento tra orgoglioso e
+trepidante dell'artista, nel punto in cui raccoglie, concentra e
+tende fino all'estremo limite tutte le risorse della sua
+dottrina, della sua rettorica e della sua tecnica in uno sforzo
+supremo che lo esalta e ad un tempo l'atterrisce, si avvertono
+anche nell'ampia ed elaborata invocazione ad Apollo.  Dove,
+mentre insiste sull'impotenza dell'arte e sulla fragilit@a dei
+mezzi concessi all'uomo per padroneggiare ed esprimere una
+materia tanto ardua e complessa, ne suggerisce appunto la
+grandezza e fa sentire il coraggio di chi si accinge ad
+affrontare un'impresa non mai tentata.
+
+	|13.  buon~: valente, eccellente.  -- |all'ultimo
+lavoro~: per questa fatica che ancora mi resta; ultima, in
+rapporto all'idea e alla struttura di tutto il poema, e anche in
+quanto attinge all'estremo limite dell'arte umana.  Cfr.
+Virgilio, ^Bucol.~, X, 1: <Extremum hunc, Arethusa, mihi concede
+laborem>.  -- Nell'^Inferno~ (II, 7; XXXII, 10) e nel
+^Purgatorio~ (I, 9; XXIX, 41) aveva invocato il sostegno delle
+Muse, simbolo delle cognizioni umane e degli strumenti tecnici
+organizzati al fine della creazione poetica; ora invoca Apollo, e
+cio@e la poesia stessa, in quanto ha la sua fonte prima in Dio; e
+da Dio discende nel petto dell'artista, che umilmente si protende
+ad accogliere lo stimolo dell'ispirazione trascendente.  
+
+	|14-15.  fammi~ ecc.: fa di me un tale vaso di poesia,
+riversa in me tanta della tua virt$u poetica, quanta tu stesso ne
+richiedi perch$e l'uomo si renda degno del titolo glorioso di
+poeta.  L'alloro, |amato~ da Apollo (con allusione al mito di
+Dafne, bramata dal dio e trasformata in lauro: cfr. ^Metam.~, I,
+452 ss.), @e trasparente immagine dell'incoronazione poetica, che
+Dante si attendeva come premio soprattutto in seguito alla
+pubblicazione del ^Paradiso~ (cfr. ^Egl.~, I, 48-50).  Ma il
+proposito ambizioso @e appena accennato e attenuato dal tono
+ardente della preghiera, onde tutto il merito e la gloria
+dell'opera sono distolti dalla persona del poeta, ridotto a mero
+ricettacolo e tramite della <virt$u divina>.
+
+	|16-17.  Infino a qui~ ecc.: finora mi @e bastato il
+soccorso delle Muse, ma adesso bisogna che intervenga ad aiutarmi
+anche Apollo.  Dei due vertici del monte Parnaso (cfr. Lucano,
+^Phars.~, V, 72; Ovidio, ^Metam.~, I, 316 s.), l'uno, Cirra, era
+sacro al dio; l'altro, Nisa, @e assegnato dal poeta alle Muse; e i
+due gioghi staranno a rappresentare simbolicamente due distinti
+gradi della conoscenza e dell'arte, assistita dapprima soltanto
+dalla scienza umana e poi anche da un pi$u diretto intervento
+della grazia e sapienza divina.
+
+	|18.  intrar nell'aringo rimaso~: affrontare la
+trattazione della difficile materia che ancora mi resta da
+esporre.  |Aringo~ era propriamente il campo dove si svolge una
+gara ginnica, e, per estensione, la gara stessa.
+
+	|19.  spira tue~: ispirami tu, canta tu stesso per me. 
+Cfr. ^Purg.~, XXIV, 53.
+
+	|20-21.  s$i come~ ecc.: con quella potenza che mostrasti
+nella gara con Marsia.  Il satiro Marsia aveva osato sfidare
+Apollo nella musica; vinto, fu legato dal dio ad un albero e
+scorticato (cfr. Ovidio, ^Metam.~, VI, 382-400).  <Invocando le
+Muse (^Purg.~, I, 7 ss.), il poeta ricorda il castigo delle
+Piche; invocando Apollo, il supplizio di Marsia: punizioni
+ambedue dell'ignoranza audace e maligna> (Venturi).  -- |della
+vagina~: dalla guaina delle membra; dalla pelle.
+
+	|22.  se mi ti presti~: se ti concedi a me, se mi presti
+il tuo valore.
+
+	|23.  l'ombra~: l'immagine (cfr. ^Purg.~, XII, 65; XIII,
+7).  Ma qui @e veramente un'|ombra~ tenue e sbiadita della visione
+reale (come poi in ^Par.~, XIII, 19).
+
+	|24.  segnata~ ecc.: impressa nella mia memoria.  --
+|manifesti~: esprima.
+
+	|25.  diletto legno~: l'<amato alloro> (v. 15).
+
+	|27.  che la matera~ ecc.: delle quali mi farete degno
+tu, con il tuo aiuto, e l'altezza della materia trattata.  Il
+merito dell'eccellenza poetica si riflette sull'individuo autore
+in virt$u della forza trascendente dell'ispirazione (cfr. ^Purg.~,
+XXIV, 52-54) e della qualit@a intrinseca del tema.  Nota la
+costruzione del relativo |che~ e il verbo al singolare (|farai~)
+accordato con il secondo dei due soggetti.
+
+	|28-29.  S$i rade~ ecc.: cos$i raramente accade che si
+stacchi un ramo di quella pianta per celebrare il trionfo di un
+imperatore o di un poeta, che la fronda d'alloro, quando suscita
+brama di s$e in alcuno, dovrebbe partorire nuova letizia nel lieto
+nume di Apollo.  -- |per triunfare~: per il fatto che trionfi. 
+-- |o cesare o poeta~: cfr. Stazio, ^Theb.~, VI, 73; ^Achill.~,
+I, 15: <vatumque ducumque ... laurus> (donde anche Petrarca,
+^Rime~, CCLXIII, 2: <onor d'imperadori e di poeti>).
+
+	|30.  colpa~ ecc.: per colpa del traviamento degli umani
+appetiti, che non sanno pi$u aspirare alla gloria con azione
+meritevole; e la colpa si risolve in vergogna.
+
+	|31-32.  in sulla lieta~ ecc.: in Apollo, di cui il culto
+si celebrava particolarmente a Delfo.  Altri intende: a Delfo,
+sede di quel culto.  <La forma un po' strana |in su la lieta~,
+invece che ^nella lieta~, si pu@o spiegare per l'influenza del
+concetto che letizia si accumulerebbe su letizia> (Porena).
+
+	|33.  peneia~: di Dafne, figlia del fiume Peneo.
+
+	|34.  Poca favilla~ ecc.: talora un grande incendio tien
+dietro (|seconda~: cfr. ^Purg.~, XVI, 33) a una piccola favilla;
+il tentativo di un ingegno mediocre pu@o suscitare, col suo
+esempio, il fervore di numerosi emuli.  Il motto era assai
+comune: cfr. ^Epist. di Giacomo~, III, 5: <ecce quantus ignis
+quam magnam silvam incendit>; ^Volgarizz. di Albertano da
+Brescia~: <di piccola favilla nasce gran fuoco e piccolo
+incominciamento genera gran fatti>; Paolo da Certaldo, ^Libro~,
+n. 213: <piccola favilla fa gran fuoco>, ecc.  Cfr. anche ^Par.~,
+XXIV, 145-46.
+
+	|35.  di retro a me~: dopo di me.  -- |con miglior voci~:
+con maggior forza; da poeti meglio dotati.
+
+	|36.  si pregher@a~ ecc.: sar@a invocato il soccorso del
+dio, del maggior giogo di Parnaso (|Cirra~).
+
+	|37.  Surge~ ecc.: alla proposizione del tema e
+all'invocazione, segue, come nel I canto del ^Purgatorio~,
+l'indicazione del momento iniziale della ripresa del viaggio,
+espressa, come gi@a altre volte, con un'ampia perifrasi
+astronomica.  Secondo l'interpretazione pi$u attendibile delle
+intricate e discusse terzine dantesche, nei vv. 37-44 il poeta
+designa genericamente la stagione, accennando alla posizione del
+sole al suo sorgere nel giorno in cui egli sal$i al cielo dalla
+vetta del monte sacro; nei vv. 44-48 indica propriamente l'ora in
+cui intraprese, insieme con Beatrice, il suo volo.  La stagione @e
+quella dell'equinozio di primavera, che corrisponde a una
+condizione astrale particolarmente benigna (trovandosi il sole
+nel segno dell'Ariete, come al momento della creazione del mondo
+e della nascita di Ges$u: cfr. ^Inf.~, I, 37-43); l'ora @e quella
+di mezzogiorno, la pi$u luminosa e lieta.  -- |per diverse foci~:
+da diversi punti dell'orizzonte, secondo il variare delle
+stagioni.  Per |foci~, nel senso di "bocche, porte", cfr. ^Inf.~,
+XXIII, 129; ^Purg.~, XII, 112, ecc.
+
+	|38-39.  la lucerna del mondo~: il sole.  Cfr. Virgilio,
+^Aen.~, III, 637; IV, 6; VII, 148; anche per Ristoro d'Arezzo,
+^Composiz. del mondo~, I, 18, il sole <@e in questo mondo come la
+lucerna nella casa>.  -- |ma da quella~ ecc.: ma quando sorge da
+quella ^foce~ {v.37}, da quel punto in cui quattro cerchi
+s'incontrano formando tre croci, esce con pi$u favorevole corso e
+congiunto a costellazione pi$u benigna.  I |quattro cerchi~ sono
+(secondo la spiegazione pi$u attendibile) l'equatore (su cui il
+sole viene a trovarsi nell'equinozio), l'eclittica (che nel punto
+equinoziale taglia l'equatore), il coluro equinoziale (cio@e il
+meridiano che passa per il punto equinoziale) e l'orizzonte; i
+tre primi intersecano il quarto, dando luogo in un unico punto a
+|tre croci~, le cui braccia non si tagliano per@o ad angolo retto. 
+Il punto che Dante si propone di configurare @e il punto cardinale
+di levante, in cui il sole si leva due volte all'anno, e cio@e
+negli equinozi di primavera e d'autunno; ed @e ovvio che qui si
+riferisce esclusivamente all'equinozio primaverile.  Secondo i
+commentatori antichi, i quattro cerchi e le tre croci
+simboleggiano le virt$u cardinali e le teologali, congiunte e
+cooperanti alla salvezza dell'uomo.  -- |giugne~: congiunge
+(nelle tre croci, di cui @e uno e identico il punto di
+intersezione).
+
+	|40.  con miglior corso~: in quanto d@a avvio alla
+stagione pi$u lieta e feconda.  -- |con migliore stella~: con la
+costellazione dell'Ariete.
+
+	|41-42.  la mondana~ ecc.: plasma (|tempera~) e segna con
+la sua impronta (|suggella~) la materia del mondo (quasi |cera~
+nelle mani dell'artefice), |pi$u a suo modo~, attuando la propria
+virt$u fecondatrice in tutta la pienezza della sua efficacia.
+
+	|43-45.  Fatto avea~ ecc.: sorgendo quasi dal punto
+cardinale di levante (|tal foce~) il sole aveva |fatto~, recato,
+il mattino all'orizzonte del Purgatorio (|di l@a~) e la sera a
+quello di Gerusalemme (|di qua~); in processo di tempo tutto
+l'emisfero australe s'era illuminato della sua luce (|tutto era
+l@a bianco~), mentre quello boreale si ricopriva delle tenebre
+notturne: nel Purgatorio era insomma il meriggio, e a Gerusalemme
+notte fonda.  Nell'ora del meriggio appunto Dante era giunto alla
+sorgente comune del Let@e e dell'Euno@e e, immergendosi in quelle
+acque, s'era fatto <puro e disposto a salire alle stelle> (cfr.
+^Purg.~, XXXIII, 103-104.  Altri intende che l'ascesa del poeta
+abbia inizio all'alba del giorno seguente, e che all'alba
+appunto, e non al meriggio, alludano tutti insieme i vv. 43-45;
+senonch$e Dante mostra di voler distinguere due momenti
+successivi, passando dall'uso del piucheperfetto (|fatto avea~) a
+quello dell'imperfetto (|era~).  -- |quasi~: riferito a foce,
+allude al fatto che l'equinozio vero e proprio era ormai passato
+da qualche giorno, e il sole non si levava pi$u esattamente dal
+punto equinoziale.
+
+	|46-47.  in sul sinistro fianco~: <imper@o che, chi sta
+nell'altro emisperio verso l'oriente volto, la sfera del sole li
+viene da sinistra, come a noi nel nostro emisperio da destra>
+(Buti).  Cfr. ^Purg.~, IV, 58.  Beatrice, che teneva lo sguardo
+rivolto a levante, sull'ora del mezzogiorno ha il sole alla sua
+sinistra in alto.
+
+	|48.  aquila~ ecc.: mai aquila fiss@o cos$i fermamente gli
+occhi nel sole.  Era opinione comune che l'aquila avvezzasse i
+suoi nati a sostenere la vista del disco solare (cfr. Lucano,
+^Phars.~, IX, 902-905; B. Latini, ^Tes.~, III, 8; e ^Par.~, XX,
+31-32).  L'immagine sottolinea l'intensit@a ardente di quello
+sguardo fisso e, nell'immobilit@a di Beatrice, introduce un
+elemento di tensione e come il presagio del volo imminente.  --
+|unquanco~: cfr. ^Inf.~, XXXIII, 140; ^Purg.~, IV, 76.
+
+	|49-54.  E s$i come~ ecc.: come il raggio riflesso o di
+rifrazione si genera necessariamente (|s@ole uscir~) dal raggio
+diretto o di incidenza e ritorna in su, a guisa di falco
+pellegrino ansioso di risalire in alto, dopo essersi calato per
+afferrare la sua preda (cfr. ^Inf.~, XXII, 130-32); cos$i
+dall'atto di Beatrice, nel momento stesso in cui lo percepivo, si
+gener@o il mio; ed anch'io, come lei, fissai i miei occhi nel
+sole, al di l@a di ci@o che @e consentito in terra ad occhi umani
+(|oltre nostr'uso~).  Cfr. per l'immagine, ^Purg.~, XV, 16-24; e
+quanto all'opportunit@a di intendere qui il |pellegrino~ nel senso
+specifico del ^falco peregrinus~, di cui discorrono i trattatisti
+medievali di arte venatoria, vedi le ottime ragioni esposte dal
+CHIMENZ, ^Giorn. stor. della lett. italiana~, CXXXIII, 180-85.  I
+commentatori antichi riferivano |pellegrino~ al raggio, che,
+partito dal sole, anela a ritornarvi; il Buti (seguito da tutti i
+moderni) lo intendeva nel senso pi$u ovvio del viaggiatore ansioso
+di rivedere la sua patria.  -- |per li occhi~: attraverso gli
+occhi, per mezzo dell'organo sensitivo; |infuso~, penetrato,
+accolto; |nell'imagine mia~: nella mia facolt@a immaginativa (cfr.
+^Purg.~, XVII, 7 e 21), nella mia fantasia.  -- |oltre
+nostr'uso~: @e infatti proprio del lume del sole che <l'occhio nol
+pu@o mirare> (^Conv.~, II, xiii, 15).  L'affisarvisi ora di Dante
+@e dunque fenomeno soprannaturale; di cui la terzina che segue
+illustra la ragione.
+
+	|55.  l@a~: nel Paradiso terrestre.  -- |qui~: nel nostro
+mondo.  -- |non lece~: non @e lecito.
+
+	|56-57.  alle nostre virt$u~: alle facolt@a umane.  --
+|merc$e~ ecc.: in grazia del luogo, creato da Dio per dimora
+dell'uomo nel suo stato di perfezione originaria (cfr. ^Purg.~,
+XXVIII, 77-78).  In seguito all'avvenuta purificazione, Dante @e
+ricondotto alla condizione di Adamo prima del peccato; la quale
+comporta un'esaltazione anche delle facolt@a sensitive e degli
+organi corporei.
+
+	|58-60.  Io nol soffersi~ ecc.: non potei tollerare la
+vista del sole molto a lungo, ma neppure tanto poco che non
+avessi agio di discernere che esso mandava faville tutt'intorno
+come ferro incandescente (cfr. ^Par.~, XXVIII, 89-90).
+
+	|61-63.  giorno~ ecc.: essersi raddoppiata la luce
+diurna; come se l'Onnipotente (|quei che puote~) avesse ornato il
+cielo di un secondo sole.
+
+	|64.  nell'etterne rote~: nelle sfere celesti (gli
+<etterni giri> di ^Purg.~, XXX, 93).
+
+	|66.  le luci~: gli occhi; |di l@a su remote~: rimosse,
+distolte dal guardare il sole.  Il participio passato |remote~
+tiene il luogo, secondo l'uso latino, di una proposizione
+temporale: "dopo averle rimosse".  -- Tutta la rappresentazione @e
+interpretata allegoricamente dagli antichi commentatori: il sole
+in cui si affissa lo sguardo di Beatrice (la scienza delle cose
+divine) @e Dio; Dante si fa degno di contemplarlo attraverso la
+mediazione della teologia (guardando negli occhi di Beatrice). 
+Ma qui, meglio che allegoria, vi @e una sorta di piena
+compenetrazione fra il senso fisico e quello spirituale, per cui
+anche la lettera del racconto, la descrizione dell'ascesa con i
+fenomeni di luci e di suoni che l'accompagnano, @e intesa non
+tanto come una serie di sensazioni, quanto piuttosto come una
+progressiva esaltazione del sentimento, come un'esperienza tutta
+intima.  L'elemento narrativo e drammatico, nella
+rappresentazione del ^Paradiso~ si riduce in un ambito
+necessariamente ristretto di percezioni, quasi soltanto luminose
+e musicali, e deriva tutta la sua intensit@a dal rapporto che in
+ogni momento si istituisce fra il dato sensibile e la realt@a
+sentimentale, che quello non tanto esprime direttamente, ma
+piuttosto suggerisce e stimola ad intendere e padroneggiare.  Il
+vertice della tensione poetica si colloca, per cos$i dire, al di
+l@a della rappresentazione propriamente detta, nell'entusiasmo che
+accompagna la rievocazione di un'esperienza ineffabile e nello
+sforzo che il poeta compie per renderne partecipe il lettore. 
+Occorre pertanto sentire in modo unitario tutti gli elementi che,
+nell'intento del poeta, in misura uguale concorrono all'effetto
+totale della visione: l'immediata trascrizione di uno stato
+sensibile; le immagini, dedotte dall'esperienza concreta del
+mondo terreno o dal patrimonio culturale, onde il poeta s'adopera
+a facilitare l'apprendimento di quello stato e lo arricchisce; e
+infine le parti esplicative, in apparenza didascaliche, in cui
+veramente si completa e prende significato quell'apprendimento. 
+Che @e press'a poco quello che osserva acutamente T. S. Eliot, l@a
+dove parla della difficolt@a caratteristica della poesia del
+^Paradiso~, che @e difficolt@a da parte dell'autore <per farci
+afferrare in modo appassionato gli stati e gli stadi della sua
+beatitudine...  Dante educa i nostri sensi, mentre prosegue il
+suo viaggio.  L'accento batte dappertutto sulle condizioni
+sensibili; e il ragionamento non @e che uno strumento per guidarci
+a raggiungere quelle condizioni>.  Di qui lo schema espositivo,
+che @e proprio di tutta la cantica, e di cui questo primo canto ci
+porge subito un esempio cospicuo: dallo spunto narrativo, per lo
+pi$u esiguo, che accenna alla situazione ma non la esaurisce (vv.
+43-54, 58-66, 76-81), alle similitudini che non tanto la rendono
+evidente quanto piuttosto ne additano la complessit@a (vv. 49-51,
+60, 67-72), ai ragionamenti che la chiariscono nel suo
+significato reale (vv. 55-57, 88-141), donde infine nuovamente
+alla narrazione, che dal travaglio tecnico e intellettuale che la
+precede deriva il suo accresciuto calore e il suo slancio rapito
+(v. 142).
+
+	|67-69.  Nel suo aspetto~: nello sguardo di lei;
+guardandola.  -- |tal dentro~ ecc.: divenni dentro di me come
+Glauco, quando fu trasmutato d'uomo in dio.  Mitico pescatore
+della Beozia, Glauco, avendo visto che i pesci da lui presi
+risuscitavano al contatto di una certa erba, volle assaggiarla e
+subito fu trasformato in divinit@a marina (cfr. Ovidio, ^Metam.~,
+XIII, 898-968; Dante deve aver avuto in mente specialmente i vv.
+945-46: <subito trepidare intus praecordia sensi, Alteriusque
+rapi naturae pectus amore>).
+
+	|70.  Trasumanar~: l'innalzarsi oltre i limiti
+dell'umano.  -- |significar~ ecc.: non @e cosa che si possa
+esprimere con parole umane (|per verba~).  Cfr. Tommaso, ^Summa
+theol.~, I, xii, 6: <facultas videndi Deum non competit
+intellectui creato secundum suam naturam, sed per lumen gloriae,
+quod intellectum ^in quadam deiformitate~ constituit>.
+
+	|71-72.  per@o~ ecc.: e perci@o l'esempio allegato di
+Glauco basti a colui, al lettore cristiano, cui la grazia di Dio
+riserba la esperienza diretta di una tale trasformazione,
+allorch$e sar@a chiamato a fruire dell'eterna beatitudine.
+
+	|73-75.  S'i' era~ ecc.: se, mentre cos$i m'innalzavo
+verso i cieli, io fossi soltanto anima (quella parte di me che tu
+creasti per ultima, |novellamente~, infondendola nell'organismo
+gi@a costituito: cfr. ^Purg.~, XXV, 61-78), ovvero anima e corpo,
+tu, Dio, lo sai, che mi sollevasti col lume della tua grazia. 
+Riecheggia le parole di san Paolo, dove descrive il suo rapimento
+al terzo cielo: <sive in corpore nescio, sive extra corpus
+nescio, Deus scit> (^II Cor.~, XII, 3).  E non vuol esser dubbio,
+anzi attestazione solenne; come se dicesse: "Dio lo sa che salivo
+veramente con tutto me stesso, e non con l'anima soltanto" (cfr.
+qui v. 99 e II, 37, XXVII, 64).  Se intendessimo le parole di
+Dante come espressive di un dubbio reale, troppe cose
+diventerebbero poi incomprensibili, a cominciare dalla questione
+che in questo stesso canto (vv. 98-141) il poeta propone e
+Beatrice risolve.  Quel che permane di volutamente ambiguo e
+indeterminato nella frase di cui Dante si serve, si giustifica
+con la necessit@a di non precisare troppo il carattere di
+un'esperienza, che resta pur sempre ineffabile, e dove la
+coscienza della corporeit@a, se pur sopravvive, @e ad ogni modo
+rarefatta e sottratta in gran parte alle normali leggi del mondo
+fisico.  -- |amor~ ecc.: Dio, <coelo imperitans amor> (Boezio,
+^De cons. philos.~, II, m. VIII, 15).  -- |lume~: riflesso in
+Dante dagli occhi di Beatrice.
+
+	|76-81.  Quando~ ecc.: allorch$e il moto rotante delle
+sfere celesti, che tu fai durare in eterno infondendo in esse il
+perpetuo desiderio di ricongiungersi con te, loro principio, ebbe
+richiamata su di s$e la mia attenzione con quella musica che da
+esse promana e che tu accordi e moduli; mi apparve cos$i grande
+parte del cielo essere accesa dalla fiamma del sole che mai lago
+cos$i ampio si form@o per eccesso di piogge o straripare di fiume. 
+L'opinione pitagorica e platonica dell'armonia delle sfere
+celesti, ripudiata come assurda da Aristotele e concordemente
+respinta da tutta la tradizione aristotelica del medioevo, fino
+ad Alberto Magno e a Tommaso, @e qui accolta da Dante sulla
+traccia di quel che ne scrisse Cicerone, nel ^Somnium Scipionis~,
+e Macrobio e alcuni padri della Chiesa; ed era del resto dottrina
+comune, riecheggiata anche nei testi volgari (cfr. BARBI,
+^Probl.~, I, 285).  Anche il ^grande lume~ {v.82}, per cui in
+tutto il cielo sembra dilagare moltiplicata la luce solare, @e
+probabile che debba prendersi qui come un'allusione alla
+luminosit@a delle sfere celesti, costituite di materia lucida e
+diafana non diversa da quella degli astri.  Alla possibilit@a che
+sia l'armonia come la chiarit@a diffusa dei corpi celesti,
+inaccessibili normalmente alle facolt@a sensitive dell'uomo,
+diventino invece percepibili all'anima rapita sopra i sensi,
+accennava Simplicio, in un passo del suo commento al ^De caelo~
+di Aristotele, e la sua opera, gi@a tradotta da tempo in latino,
+poteva ben esser nota all'Alighieri (cfr. NARDI, ^Saggi di filos.
+dantesca~, pp. 81-88).  Altri intende che il lago di luce sia il
+sole, che appare alla vista tanto pi$u grande quanto pi$u il poeta
+si avvicina ad esso; ovvero il corpo della luna, al quale si
+viene innalzando; o anche la sfera del fuoco, che egli in quel
+punto attraversa; e gi@a i pi$u antichi commentatori sono discordi
+fra di loro sull'esatta interpretazione del passo dantesco.  --
+|desiderato~: participio, con valore causale; che conferisce
+un'intensa virt$u espressiva a tutto il giro estremamente denso
+della frase.  Il principio motore dei cieli @e il loro desiderio
+di unirsi a Dio.  Cfr. ^Conv.~, II, iii, 9, dove si dice che
+l'Empireo <@e cagione al Primo Mobile per avere velocissimo
+movimento>, a causa del <ferventissimo appetito ch'@e 'n ciascuna
+parte di quello nono cielo... di essere congiunta con ciascuna
+parte di quello divinissimo ciel quieto>, per cui il Primo Mobile
+si rivolve nell'Empireo <con tanto desiderio, che la sua
+velocitade @e quasi incomprensibile>.  -- |temperi~: regoli,
+accordi, armonizzi (cfr. ^Purg.~, XXXII, 33).  -- |discerni~:
+distingui, moduli (assegnando a ciascuna sfera un suono
+particolare).  Cfr. Cicerone ^Somn. Scip.~: <hic [dulcis sonus]
+est, qui intervallis coniunctis imparibus, sed tamen pro rata
+partium ratione ^distinctis~, impulsu et motu ipsorum orbium
+conficitur; qui acuta cum gravibus ^temperans~, varios
+aequabiliter concentus efficit>.
+
+	|83-84.  di lor cagion~ ecc.: suscitarono in me un
+desiderio di conoscerne la cagione, pi$u acuto di qualsiasi altro
+che io avessi mai provato.
+
+	|85.  vedea me s$i com'io~: penetrava nel mio intimo,
+intendeva anche i miei pensieri pi$u segreti.
+
+	|86.  commosso~: eccitato da quell'acuto desiderio.
+
+	|87.  apr$io~: apr$i, per rispondermi, prima che io
+l'aprissi per domandare.
+
+	|88-90.  ti fai grosso~: ti rendi inetto a comprendere,
+|col falso imaginar~, con le tue errate supposizioni; e cos$i non
+intendi quello che intenderesti da solo, se tu avessi |scosso~,
+rimosso dal tuo animo quell'errore (e cio@e la falsa credenza di
+essere ancora sulla terra).
+
+	|92-93.  folgore~ ecc.: nessun fulmine, allontanandosi
+dalla sua naturale dimora, e cio@e dalla sfera del fuoco (cfr.
+^Par.~, XXIII, 40-42), corse mai cos$i veloce come tu che ritorni
+al tuo |proprio sito~, alla tua vera patria, che @e il cielo. 
+Cfr. ^Convivio~, IV, xxviii, 2: <La nobile anima ne l'ultima
+etade... ritorna a Dio, s$i come a quello porto onde ella si
+part$io quando venne ad intrare nel mare di questa vita>.
+
+	|94.  del primo dubbio~: relativo alla novit@a del suono e
+della luce e alla loro causa.  -- |disvestito~: spogliato,
+liberato.
+
+	|95.  per le sorrise~ ecc.: <per le parole di Beatrice,
+le quali disse brevemente, sorridendo della simplicit@a e
+grossezza del falso pensiero di Dante> (Buti).  Nota l'uso
+transitivo di ^sorridere~ (come di ^ridere~ nel Boccaccio,
+^Decam.~, I, ii, 2; V, concl., 1); |parolette~ qui sta per
+"discorso breve, senza pretese di profondit@a e compiutezza
+dottrinale, n$e di eleganza formale".
+
+	|96.  ad un nuovo~: a un nuovo dubbio (che sar@a espresso
+ai vv. 98-99).  -- |inretito~: inviluppato.  Si contrappone a
+^disvestito~ {v.94}.
+
+	|97-99.  Gi@a contento~ ecc.: gi@a mi sono acquetato,
+soddisfatto rispetto alla mia grande meraviglia (|ammirazion~)
+suscitata dalla novit@a del suono e della luce; ma ora mi
+meraviglio (|ammiro~) come mai io, essendo ancor vivo e legato al
+corpo, possa salire attraverso questi |corpi lievi~ (quali sono
+la sfera dell'aria e quella del fuoco).  L'uomo <per la natura
+del simplice corpo>, cio@e per l'elemento terrestre di cui si
+compongono le sue membra <naturalmente ama l'andare in giuso; e
+per@o quando in su muove lo suo corpo, pi$u s'affatica> (^Conv.~,
+III, iii, 6).  -- |requievi~: riposai.  Latinismo.
+
+	|100.  appresso~ ecc.: dopo aver sospirato pietosamente. 
+Ed @e piet@a che si rivolge non a Dante soltanto, ma all'uomo in
+genere; come intendeva benissimo Benvenuto: <ubi primo riserat,
+nunc suspiravit ex pietate, condolens humano generi, quod videtur
+ignorare se esse aptum natum ad felicitatem, cum tamen hic sit
+finis hominis...  Volens autem ista pia mater revocare filium
+delirum, intendit ostendere pulcra ratiocinatione quod ascensus
+ad caelum est naturalis, quia homo naturaliter inclinatur ad
+summum bonum>.  Nella piet@a di Beatrice si riflette, in motivo
+poetico e drammatico, il sentimento dell'autore, consapevole
+dello sforzo immenso che la materia nuova del suo canto (e il
+modo in cui egli l'assume) impone ora al lettore: di trapassare
+cio@e da una considerazione materiale delle cose a un concetto
+metafisico, che pu@o esser espresso solo in termini allusivi e
+simbolici; dalla misura dell'ordine fisico all'idea di un ordine
+soprannaturale, in cui diventa naturale il miracolo.  Di qui il
+senso e la necessit@a della lezione di Beatrice; la quale, se ben
+si guarda, non risponde al quesito specifico mosso da Dante, e
+piuttosto sposta, ampliandoli indefinitamente, i termini
+dell'indagine: illumina la naturale tendenza dell'animo umano a
+Dio, non spiega come mai col suo peso egli ora riesca a
+trascendere i corpi lievi, o tutt'al pi$u sottintende un arcano
+processo di spiritualizzazione del suo involucro corporeo, una
+sorta di sublimazione dei sensi (gi@a preparata d'altronde di
+lunga mano nella rappresentazione del suo ascendere di balzo in
+balzo, nel ^Purgatorio~, dove il peso del corpo s'era venuto
+facendo via via pi@u leggero, e la lenta e dura fatica del cammino
+s'era a poco a poco tramutata in una corsa, anzi in un volo).  Il
+discorso di Beatrice insomma serve soprattutto a creare uno
+sfondo amplissimo alla rappresentazione nuova; non risolve i
+dubbi e le antinomie di ordine materiale e razionale del lettore,
+s$i piuttosto le elimina, coll'imporgli un modo nuovo di
+considerare le cose e di accostarsi alle forme di una poesia
+inconsueta, che @e diretta trascrizione di alcuni grandi temi
+filosofici in termini di esperienza spirituale e di personale
+sentimento.  S$i che tutti i diversi motivi e momenti della poesia
+del canto, via via accennati nel corso dell'esposizione e ora
+ricomposti in una sintesi potente, vengono a confluire in questo
+discorso; determinando da parte a parte tutta una serie di
+precise corrispondenze di pensiero e di sottili rapporti formali
+(cfr. vv. 1-3 e 103-114; 76-77 e 121-23; 91-93 e 124-26; 92 e
+133-34; 8-9 e 127-29, ecc.).
+
+	|101.  con quel sembiante~: <idest aspectu turbato ex
+affectione cara> (Benvenuto); con atteggiamento affettuoso
+insieme e preoccupato.  Una immagine simile in ^Par.~, XXII, 4-6.
+
+	|102.  deliro~: delirante per malattia.
+
+	|103-105.  Le cose~ ecc.: tutte le cose create sono
+ordinate fra loro, in modo da costituire un tutto armonico, e
+questo ordine @e la |forma~, il principio essenziale (imposto da
+Dio alle cose), che rende l'universo simile a Dio.  Cfr. Tommaso,
+^Summa theol.~, I, xlvii, 3: <mundus iste unus dicitur unitate
+ordinis, secundum quod quaedam ad alia ordinantur.  Quaecumque
+autem sunt a Deo, ordinem habent ad invicem et ad ipsum Deum>.
+
+	|106-108.  Qui veggion~ ecc.: in questo ordine
+dell'universo creato, le creature superiori (gli angeli, secondo
+il Lana, l'Ottimo e Benvenuto; i teologi e i filosofi, secondo
+Pietro di Dante; <gli angeli e li omini di alto intelletto>,
+secondo il Buti e il Landino) riconoscono il segno della potenza
+e sapienza del Creatore, il quale @e il fine ultimo da cui si
+genera e a cui tende l'ordine sopraccennato (|la toccata norma~). 
+Cfr. ^Mon.~, I, viii, 2.  -- Si noti il tono alto e commosso del
+discorso, che non @e tanto esposizione, quanto piuttosto
+celebrazione e commemorazione di un concetto metafisico, assunto
+come fondamento e norma di un'amplissima visione poetica, ed esso
+stesso tradotto in sentimento e tutto risolto in termini
+figurativi e plastici.
+
+	|109-114.  Nell'ordine~ ecc.: in questo ordine tutte le
+specie naturali (|nature~) sono inclinate (|accline~), ricevono
+un'inclinazione, che varia |per diverse sorti~, secondo le
+diverse condizioni loro assegnate, essendo esse pi$u o meno vicine
+al loro principio comune, che @e Dio; onde tutte si muovono
+nell'immensa e molteplice vita dell'universo, indirizzate a
+diversi fini (|porti~), stimolata ciascuna dal suo particolare
+istinto.  Cfr. Tommaso, ^Summa theol.~, I, lix, 1: <Cum omnia
+procedant ex voluntate divina, omnia suo modo per appetitum
+inclinantur in bonum, sed diversimode.  Quaedam enim inclinantur
+in bonum per solam naturalem habitudinem absque cognitione, sicut
+plantae et corpora inanimata; et talis inclinatio ad bonum
+vocatur ^appetitus naturalis~.  Quaedam vero ad bonum inclinantur
+cum aliqua cognitione; non quidem sic quod cognoscant ipsam
+rationem boni, sed cognoscunt aliquod bonum particulare; sicut
+sensus...  Inclinatio autem hanc cognitionem sequens dicitur
+^appetitus sensitivus~.  Quaedam vero inclinantur ad bonum cum
+cognitione qua cognoscunt ipsam boni rationem; quod est proprium
+intellectus...  Et haec inclinatio dicitur ^voluntas~>; e anche
+^Conv.~, III, vii, 2-5: <la divina bontade in tutte le cose
+discende, e altrimenti essere non potrebbero; ma avvenga che
+questa bontade si muova da simplicissimo principio, diversamente
+si riceve, secondo pi$u e meno, da le cose riceventi... cos$i la
+bont@a di Dio @e ricevuta altramenti da le sustanze separate, cio@e
+da li angeli..., e altramenti da l'anima umana..., e altramenti
+da li animali..., e altramenti da le piante, e altramenti da le
+minere>.  -- |accline~: forma di plur. femm. normale nell'ital.
+antico (PARODI, ^Bull. soc. dant.~, III, 122; cfr. ^Par.~, XV,
+9).
+
+	|115-117.  Questi~: questo ordine (che si determina, per
+ciascun essere creato, in un particolare istinto, in una certa
+inclinazione) @e quello che porta il fuoco naturalmente a salire
+verso la sua sfera, collocata <lungo lo cielo de la luna>
+(^Conv.~, III, iii, 2); esso muove e regola (|@e permotore~) le
+funzioni vitali negli esseri privi di ragione (i |cor mortali~,
+gli animali bruti); esso ancora, esplicandosi come legge di
+gravit@a tiene unita e compatta la terra.
+
+	|118-120.  n$e pur~ ecc.: questo ordine provvidenziale non
+indirizza a un determinato fine solo le creature irrazionali, s$i
+anche quelle, angeli e uomini, dotate d'intelligenza e di
+volont@a.  |Amore~ qui @e da intendere nel senso di "amore d'animo
+o di elezione", che comporta una scelta consapevole, ed @e proprio
+degli esseri ragionevoli, in cui prende nome di volont@a.  --
+|fore di~: prive di.  Cfr. ^Rime~, XLII, 10.
+
+	|121-123.  La provedenza~ ecc.: Dio, che regola e dispone
+quest'ordine universale, rende quieto e pago con la sua luce quel
+cielo, l'Empireo, dentro al quale ruota la pi$u veloce delle sfere
+celesti, il Primo Mobile (cfr. la nota al v. 77).  <Li cattolici
+pongono lo cielo Empireo... essere immobile per avere in s$e,
+secondo ciascuna parte, ci@o che la sua materia vuole...  E quieto
+e pacifico @e lo luogo di quella somma Deitade, che sola s$e
+compiutamente vede...  Questo @e lo soprano edificio del mondo,
+nel quale tutto lo mondo s'inchiude, e di fuori dal quale nulla
+@e; ed esso non @e in luogo, ma formato fu solo ne la prima Mente>
+(^Conv.~, II, iii).
+
+	|124-126.  e ora l$i~ ecc.: ed ora l$i appunto, all'Empireo,
+|come a sito decreto~, come al luogo ordinato per nostro fine, ci
+porta la potenza di quell'inclinazione, di quell'ordine
+provvidenziale, che indirizza ciascuna creatura al fine che le @e
+proprio e in cui essa trova pace e letizia.  La |corda~ continua
+l'immagine dell'arco accennata al v. 119.  -- L'Empireo, e cio@e
+la beatitudine, @e dunque il fine a cui tende naturalmente
+l'uomo; non c'@e pertanto da meravigliarsi se, rimossi gli
+ostacoli che prima l'impedivano, Dante ora si solleva ad esso,
+come a dimora prestabilita dell'uomo giusto: il suo salire non @e
+violazione di una norma, anzi obbedienza a una legge di ordine
+universale.  Si pu@o citare un luogo di sant'Agostino che svolge
+il medesimo concetto, ma in senso tutto spirituale: <In dono tuo
+requiescemus: ibi te fruemur, requies nostra, locus noster
+...Amor illuc attollit nos...  In bona voluntate pax nobis est. 
+Corpus pondere suo nititur ad locum suum...  Ignis sursum tendit,
+deorsum lapis...  Pondus meum, amor meus: eo feror, quocumque
+feror.  Dono tuo accendimur et sursum ferimur...  Ibi nos
+collocavit voluntas bona, ut nihil velimus aliud quam permanere
+illic in aeternum> (^Confess.~, XIII, 9).  Il riferimento giova a
+dar rilievo all'elemento mistico che sta alla base della
+concezione dantesca; ma pi$u ancora aiuta a stabilire la profonda
+differenza di tono e di linguaggio del poeta, che si sforza di
+tradurre quell'esperienza mistica in termini di rigorosa
+razionalit@a e di poetica evidenza.
+
+	|127-129.  come forma~ ecc.: come accade che
+all'intenzione dell'artefice non sempre s'accordi la forma
+dell'opera da lui eseguita, per colpa della materia, che non @e
+disposta a riceverla e a tradurla in atto.  Cfr. Tommaso, ^Summa
+theol.~, I, ii, iv, 4: <materia non potest consequi formam, nisi
+sit debito modo disposita ad ipsam>; e ^Conv.~, II, i, 10;
+^Mon.~, II, ii, 3.
+
+	|130-132.  cos$i~ ecc.: allo stesso modo talora
+s'allontana dalla via segnata dall'inclinazione naturale (|da
+questo corso~) la creatura, che ha potere, per quanto indirizzata
+istintivamente al bene (|cos$i pinta~), di fuorviarsi e rivolgersi
+al male.
+
+	|133-135.  e s$i come~ ecc.: come talora il fuoco, che
+tenderebbe naturalmente a salire, cade invece sulla terra in
+forma di fulmine; cos$i la primitiva inclinazione, che porterebbe
+l'uomo a salire verso il cielo, lo rivolge invece verso la terra
+(|lo atterra~), traviata da una falsa immagine di bene.  --
+|L'atterra~ leggono concordemente i codici; ^s'atterra~ @e
+correzione congetturale degli editori moderni per cui cfr.
+PARODI, ^Bull. soc. dant.~, XXVIII, 56-57; VANDELLI, ^Studi
+dant.~, X, 111-12.
+
+	|136-138.  Non dei~ ecc.: non devi dunque meravigliarti
+per il tuo salire, pi$u di quanto non ti meravigli vedendo un
+fiume scendere da monte a valle.
+
+	|139-141.  Maraviglia~ ecc.: miracolo sarebbe invece |in
+te~, nella condizione in cui ti trovi, libero ormai da ogni
+impedimento, puro da ogni scoria di peccato, se fossi rimasto gi$u
+in terra; a quel modo che sulla terra sarebbe cosa da suscitar
+meraviglia la quiete in una fiamma viva, che naturalmente <movesi
+in altura Per la sua forma ch'@e nata a salire L@a dove pi$u in sua
+matera dura> (^Purg.~, XVIII, 28-30).
+
+	|142.  Quinci~: dopo aver cos$i parlato.  -- |il viso~:
+gli occhi. 
+
+	|Conclusione.~  Vedi anche: A. CHIARI, ^Il preludio del
+Paradiso~, Milano 1947; G.F. GOFFIS, ^Il canto I del Paradiso~,
+Firenze 1965.

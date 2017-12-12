@@ -1,0 +1,3 @@
+The 01.e file contains a number of ISO 8859-1 degree characters (decimal 176).
+These should be handled properly since the database will be loaded with
+ISO 8859-1 or its Windows superset, 1252.

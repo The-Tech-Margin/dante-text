@@ -1,0 +1,26 @@
+-------------------------------------------------
+Entered on 20 Sep 1998 by dante:
+Copied all cantos from C.new/singleton/para/PAR*.DOS, renaming to *.e.  -stc
+-------------------------------------------------
+Entered on 22 Nov 1998 by dante:
+Removed all ^M and ^Z characters.  -stc
+-------------------------------------------------
+Entered on 09 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 12 Mar 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 19 Jul 1999 by dante:
+Edited all files to correct improper formatting for paragraph beginnings.
+Instead of a tab and a |, there were 5 spaces and a |. This causes
+the preload not to recognize the paragraphs. Discovered by RH 7/99.   -stc
+-------------------------------------------------
+Entered on 19 Jul 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 19 Jul 1999 by dante:
+Preloaded
+-------------------------------------------------
+Entered on 28 Apr 2004 by dante:
+Preloaded

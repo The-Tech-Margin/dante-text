@@ -1,0 +1,830 @@
+	Testo e Commento.  -- Dopo Ulisse, Guido da Montefeltro:
+due condottieri gloriosi in giovent@u e di mal finita vecchiaia. 
+L'uno, il pagano antico che naufraga in vista del porto della
+vera conoscenza, ricercato per amore di sterile scienza; l'altro, 
+il cristiano contemporaneo che naufraga nel porto gi@a raggiunto
+con spirito di umilt@a, in cui non seppe perseverare.  E a lato di
+quest'ultimo balza fuori, vero protagonista del Canto, un terzo
+vegliardo, Bonifazio VIII, pomposamente vestito del manto
+pontificale, dalla cupidigia, secondo l'opinione di Dante, 
+traviato e fatto traviatore del mondo che avrebbe dovuto guidare
+a virt@u.  Ma di fronte ai tre si disegna il profilo severo del
+Poeta, incanutito e ^fatto macro~ {v.93} dalle veglie e dalle
+fatiche durate nella composizione del Poema sacro, ^in pro del
+mondo che mal vive.~
+
+	|1-6.~  Il modo di allontanarsi degli spiriti, quando @e
+descritto, @e sempre diverso e proprio di ciascuno di loro, quasi
+ultima pennellata d'un ritratto.  In questo stesso Canto questa
+differenza appare manifesta: la fiamma dello stoico pagano, |per
+non dir pi@u~, avendo terminato il suo dire, avuta la |licenza~, 
+il commiato di Virgilio, si rif@a |dritta in su e queta~, per
+tornare alla meditazione del suo tragico destino: la fiamma di
+Guido da Montefeltro, come vedremo al termine del Canto, si
+partir@a ^torcendo e dibattendo il corno acuto~ {v.132}, ancora
+agitata dal ricordo d'un terribile inganno.
+
+	E similmente divergono i principi dei due episodi: la
+fiamma d'Ulisse, prima di parlare, ^cominci@o a crollarsi
+mormorando~ {C.XXVI, v.86}; mentre nel nuovo peccatore
+l'impazienza di aprirsi una via alla voce attraverso il suo
+ardente involucro @e maggiore, perch@e egli @e tanto ansioso di
+farsi udire, quanto timoroso di non giungere in tempo; sicch@e
+egli vuol parlare mentre ancora si muove, e manda fuori un suono
+confuso, per@o tale da richiamar subitamente l'attenzione dei due
+Poeti.
+
+	Dal primo all'ultimo verso delle due terzine il mutamento
+di tono @e compiuto e risponde al mutamento della scena.
+
+	|7-15.~  Questa favella apparente di cose inanimate, qual
+@e una fiamma, ma che in realt@a viene da un'anima, ricorda a Dante
+un'antica storia, ripetuta da Ovidio (^Tristia~, III, XI, 41): la
+storia cio@e dell'orafo greco Perillo e del toro di rame da lui
+costruito e donato all'atroce tiranno di Agrigento, Falaride, 
+perch@e se ne servisse come strumento di morte.  Quel toro infatti
+convertiva in muggiti le grida degli infelici posti al supplizio
+del fuoco entro il suo ventre capace.  Il tiranno grad@i talmente
+il dono che volle provarne l'ingegnoso meccanismo nella persona
+stessa dell'artefice; |e ci@o fu giusto~, esclama Dante, memore
+forse d'un altro passo d'Ovidio: <neque enim lex aequior ulla, 
+Quam necis artificem arte perire sua (^Art. amat.~ I, 655), 
+conforme al detto del Salmista che l'uomo ingiusto <incidit in
+foveam quam fecit> (^Salmo~ VII, 16); come @e giusto che Perillo
+sia nominato nella Bolgia dei Mali consiglieri.
+
+	@E questa l'unica similitudine del Canto nostro, tanto
+diversa da quelle che descrissero la Bolgia nel Canto precedente, 
+e lodatissima da Benvenuto, per la esatta corrispondenza fra i
+termini dei due fatti messi a confronto.  Come colui che era
+rinchiuso nel bue di rame era martoriato senza apparire, cos@i @e
+dello spirito racchiuso nella fiamma; come non erano
+intelligibili i lamenti di quello, cos@i ora le parole |grame~, 
+cio@e fioche, di questo; la voce del punito si mutava in muggito
+di toro, e cos@i le parole dello spirito, non trovando sul
+principio n@e via n@e forame nel foco, si convertivano in quel
+crepitio che ben pu@o chiamarsi il linguaggio del fuoco stesso. 
+Ed @e bella questa difficolt@a di parlare in uomini che durante la
+vita eran stati cos@i spediti nel dare funesti consigli!  Anche
+Pier de la Vigna durava fatica ad esprimersi, e la fatica era
+stata anche allora rassomigliata al sibilo ^d'un tizzo verde
+ch'arso sia.~
+
+	|16-18.~  (Terzina che fu sempre ammirata come esempio
+della magistrale esattezza ed evidenza di Dante nella
+rappresentazione di sempre nuovi fenomeni: la lingua d@a un guizzo
+alle parole, animandole ad aprirsi una via, e queste, trovata la
+via, trasmetton quel guizzo alla fiamma).
+
+	|19-21.~  Guido da Montefeltro ripete qui le proprie
+parole che doveva aver pronunciato Virgilio nell'accommiatare
+Ulisse; sia che queste parole appartenessero veramente all'antico
+dialetto lombardo, sia che anche questa volta il Poeta segua
+l'uso dei tempi suoi di chiamare lombardo tutto ci@o che
+apparteneva all'Italia superiore.
+
+	|22-30.~  Il nome di Guido da Montefeltro si ritrova ad
+ogni pagina della storia militare e politica di quei tempi
+sconvolti.  Nato, primo di tal nome, intorno al 1220
+nell'alpestre castello di Montefeltro, sui monti fra Urbino e il
+giogo del Coronaro da cui nasce il Tevere, nel 1268 fu Vicario di
+Corradino a Roma; nel 1275, divenuto capitano generale dei
+Ghibellini di Romagna, cio@e dei Lambertazzi di Bologna che l'anno
+innanzi erano stati cacciati dai Geremei e che si erano uniti con
+gli altri Ghibellini romagnoli e coi fuorusciti fiorentini e
+lombardi, risollev@o le sorti del partito contro i Guelfi, aiutati
+da Re Carlo di Napoli; nel Giugno di quello stesso anno sconfisse
+i Guelfi, capitanati da Malatesta di Rimini, al monte di San
+Procolo, tra Firenze ed Imola; nel Settembre torn@o a sconfiggerli
+a Raverzano, vicino a Cesena, cacciando i Malatesta da Cesena, 
+poi da Cervia e da Urbino.  L'anno dopo, assediato in Forl@i dove
+aveva posto il suo quartiere generale, per cinque anni difese
+questa citt@a contro i Guelfi, e due anni contro soldatesche
+italiane e francesi, comandate da Giovanni d'Appia, inviato di
+Martino IV, alle cui scomuniche rimase indifferente; finch@e
+venuto meno il coraggio ai Forlivesi, che si sottomisero al Papa
+e ingiustamente lo licenziarono, Guido si ritrasse ordinatamente
+sulle montagne, seguito da pochi fedeli, frustrando a lungo gli
+assalti e le insidie nemiche.
+
+	Pi@u tardi si riconcili@o con la Curia e accett@o di vivere
+a confine, prima a Chioggia, poi in Asti, onorato da tutti, 
+carissimo al Marchese di Monferrato.  Nel 1286 ruppe il confine, 
+essendo stato nominato Capitano del popolo e Capitano generale in
+Pisa, nella guerra contro Firenze; ed ei ben corrispose alla
+fiducia dei Pisani, impadronendosi rapidamente di tutta Val
+d'Elsa, della Val di Calci e di Caprona, che poi fu resa a patti. 
+Conchiusa la pace di Fucecchio tra Pisa e Firenze, i Pisani
+bruttamente lo licenziarono per aprire le porte a Nino Visconti;
+allora, tornato in Romagna, si mescol@o nuovamente alle contese
+delle fazioni; finch@e, riamicatosi con Bonifazio VIII che l'aveva
+chiamato alla sua presenza per pacificare quella turbatissima
+provincia, il 15 Novembre 1296 si fece frate minore e mor@i due
+anni dopo, in Assisi, il 28 Ottobre 1298.
+
+	Tutti gli storici che parlan di lui, il Compagni, il
+Villani, Salimbene da Parma ecc. son concordi nell'esaltarne le
+virt@u; e Dante stesso nel ^Convivio~ (IV, XXVIII, 8) lo chiama
+^lo nobilissimo nostro latino.~  Perch@e ora lo mette fra i
+dannati?  Perch@e nel ^Convivio~ Dante riguard@o il Montefeltrano
+in s@e, e qui lo riguarda nei suoi rapporti con Bonifazio VIII, 
+contro il quale principalmente si appuntano gli strali danteschi. 
+Quanto pi@u nobile, cio@e degna d'onore @e una natura, tanto pi@u
+perversa natura si richieder@a per corromperla: quanto pi@u nobile
+Guido, tanto pi@u ignobile Bonifazio.
+
+	Per questo Guido da Montefeltro non ci apparir@a pi@u nel
+nostro Canto quale fu, il capitano intrepido e fermo, o il frate
+ardente di fede e di carit@a, come noi ci immaginiamo quel
+ghibellino passato a vita religiosa.  Non @e pi@u tale, perch@e
+nell'ultimo momento della sua vita s'@e imbattuto in un Bonifazio, 
+e quell'incontro straordinario, come dice il Graf (^Nuova
+Antologia~, 16 Maggio 1888), ha prodotto in lui <una di quelle
+che chiamiamo alterazioni della personalit@a, uno di quei
+pervertimenti interni che non di rado in certe malattie nervose
+mutano di sana pianta il carattere>.
+
+	Questo mutamento di carattere si annunzia fino dalla
+prima domanda che rivolge ai Poeti.  Ghibellino e soldato, come
+Farinata degli Uberti, ma credente al contrario di lui, anche
+Guido serba ancor vivo nell'Inferno l'amor della patria, e noi lo
+sentiamo in ciascuna delle sue accorate parole.  Ma la domanda
+che egli rivolge a Virgilio non ha la concisione e il tono
+imperioso, appena contemperato d'urbanit@a, che subito ci fece
+alzare gli occhi su Farinata, come all'apparizione d'un colosso. 
+L'Inferno, per Guido, non @e la ^citt@a del foco~ che Farinata
+ancora mostrava d'avere ^in dispitto~, e su cui ancora risplende
+il ^sommo duce~; ma @e il |cieco mondo~, come per il padre di
+Guido Cavalcanti, l'eretico; la Romagna non @e per il
+Montefeltrano la ^nobil patria~ che esalta, come per Farinata
+Firenze, ma cagione di timori e di dubbi: tutto @e tenebra e
+dubbio ormai in quell'anima gi@a cos@i ardita!
+
+	Egli, involto nel suo foco, ha udito pur lui una voce che
+gli ha fatto ricordare la sua |dolce terra latina~, e ha pensato
+che un nuovo peccatore di l@a sia test@e sceso in quella Bolgia. 
+Un desiderio immenso l'ha preso, di conoscere al pi@u presto le
+notizie della sua Romagna; ma par che non creda ai propri sensi, 
+che abbia bisogno di ripetersi le parole udite per convincersi
+che sono veramente lombarde, e altri dubbi e incertezze
+l'assalgono: giunger@a in tempo? avr@a notizie di pace, speranza di
+frate, o di guerra, parola di capitano, che ridesta memorie
+colpose?  @E veramente colui disceso da poco all'Inferno? vorr@a
+rispondergli? a quest'ultimo sospetto si risveglia l'uomo antico, 
+ed egli pronuncia quel verso magnifico per il doppio iato finale, 
+|vedi che non incresce a me e ardo~; ma tosto si pente della
+veemenza di quest'espressione, cerca una scusa all'impazienza che
+lo ha vinto, e, nel suo amore di patria, crede di averla trovata, 
+dandosi a conoscere per italiano e romagnolo; senz'altro cenno
+alla sua persona.
+
+	|31-33.~  Guido era caduto in un doppio errore, credendo
+di rivolgersi ad una sola persona, e chiedendo notizie fresche di
+Romagna a quello dei due compagni che non era disceso test@e
+dall'Italia al ^cieco mondo~ {v.25}.  Virgilio umanamente
+rispetta l'errore, e, fatto accorto Dante con quell'atto
+famigliare di dargli una gomitatina nel fianco, a lui commette la
+risposta al Montefeltrano, |latino~, e quindi non schivo di udir
+parlare Dante, come i due greci del Canto precedente.  |Latino~
+per Dante significa italiano, ma specialmente dell'Italia
+inferiore, dal Po in gi@u, a differenza dei ^Lombardi~, che sono
+gli italiani della parte superiore della penisola.
+
+	|34-39.~  Dante che vedemmo gi@a ^chino~ {v.31} e
+^attento~ {v.31} verso il nuovo spirito, non mette tempo in
+mezzo, e, come colui che ben le conosceva, traccia un quadro
+delle condizioni politiche della Romagna del 1300, prima in
+generale, poi nei particolari.
+
+	|Romagna tua~ risponde al nostalgico affetto di Guido per
+la sua dolce terra, ma ricorda il ^Guido vostro~ del Canto di
+Farinata e del Cavalcanti, e allontana da chi parla quella
+turbolenta provincia, sempre in guerra, non per colpa dei
+cittadini, ma dei |tiranni~, sempre timorosi delle mutazioni e
+quindi covanti sospetti e rancori.  Ma nessuna guerra palese
+turba la Romagna in questo momento, aggiunge il Poeta; n@e poteva
+dir meglio.
+
+	Dal maggio del 1274, quando furono cacciati da Bologna i
+Lambertazzi, ventitre anni di guerre continue avevano dilacerato
+la Romagna, e i primi albori di pace non erano apparsi che nel
+gennaio del 1297, quando le parti avverse, cedendo agli inviti
+del Papa, e non senza intervento del Conte Guido, come gi@a
+accennammo, risolsero di nominare un arbitro delle loro contese. 
+Le pratiche non furon brevi; ma nel 1299, gi@a morto Guido, 
+condussero a quella che fu chiamata la ^pace perpetua~, 
+suggellata da vicendevoli baci il 4 aprile, in un prato presso
+Castel San Pietro.  E la pace durava ancora in apparenza
+nell'aprile del 1300; ma nel cuore dei tiranni ferveva, come
+sempre, la guerra.  <|Tiranni~ li chiama Dante nel 1300;
+|tiranni~ li chiama il rettore pontificio nel 1321.  Arditi in
+campo, magnifici ne' castelli e ne' palazzi, talora violenti, pi@u
+spesso cauti, dispregiatori di tutte le leggi, insofferenti di
+ogni autorit@a, eran discesi dalle colline e dai monti a
+disputarsi, in nome dell'Impero o della Chiesa, il dominio dei
+Comuni infiaccati nelle lotte cittadine, e avevan fondato o
+stavan per fondare gli staterelli> (Torraca), miseria e
+fiacchezza d'Italia per molti anni, per Dante ostacolo primo allo
+stabilimento dell'Impero.
+
+	Da ci@o si comprende meglio la domanda di Guido: egli era
+morto senza aver veduto la conclusione della pace, ultima fatica
+della sua vita; si era giurata la pace agognata, o continuava ad
+imperversare la guerra? egli ha chiesto; e Dante ha gi@a risposto
+a questa domanda.  Poi passa in rassegna le citt@a romagnole ad
+una ad una, nominandole spesso dai fiumi che le bagnano, o dai
+signori che le dominano, o indicando questi dalle armi che
+portavan dipinte sugli scudi.
+
+	|40-42.~  L'enumerazione comincia da Ravenna, come la pi@u
+antica citt@a di Romagna, l'erede di Roma, capitale gi@a
+dell'Impero d'Occidente e del regno gotico e sede dell'esarcato, 
+splendida di vita, d'arte e di cultura.
+
+	Fin dal 1270 sulle rovine della casa Traversara era
+divenuta potente fra tutte in Ravenna la casa dei Polenta, aquila
+vermiglia in campo giallo.  Nel 1300, signore di fatto, se non di
+nome, viveva ancora in Ravenna il capostipite dei Polenta, 
+disceso coi fratelli da Brettinoro, capitano della Taglia guelfa
+nel 1285, Podest@a di Firenze nel 1290, padre di Francesca, Guido
+detto il Vecchio o il Minore, zio di quel Guido Novello che pi@u
+tardi, nella vecchiaia di Dante, generosamente dimentico di
+questa terzina e d'un verso del ^Purgatorio~ in cui il Poeta
+rimpiange le virt@u di casa Traversara (XIV, 107), fu largo al
+Poeta di ospitalit@a e di protezione.  Salimbene da Parma dice
+Guido il Vecchio uomo di animo nobile, narrando che essendoglisi
+offerta opportunit@a di vendicar la morte del padre suo in Ruggero
+da Bagnacavallo, ultimo ed audace capo di parte Ghibellina e suo
+acerrimo nemico, non volle.  Ma Dante qui lo confonde apertamente
+con gli altri tiranni, e bench@e gli sia meno severo che agli
+altri, dipinge l'Aquila da Polenta covante gelosamente a proprio
+vantaggio Ravenna e Cervia, ricca di saline che, con quelle di
+Chioggia, alimentavano questo commercio, fiorente in Venezia.
+
+	|43-45.~  Uno dei modi danteschi di mostrar spregio o
+sdegno, verso persona o cosa, come noi sapremo da un Canto del
+^Purgatorio~, si @e quello di tacerne il nome, ^pur com'uom fa de
+l'orribili cose~ (XIV, 27), e indicarle invece con una perifrasi. 
+Di questo dispregio partecipa con altre citt@a romagnole Forl@i, 
+per odio agli Ordelaffi che ne divennero padroni verso la fine
+del secolo XIII.  Forl@i @e la citt@a che scont@o l'ira del Papa
+Martino IV con la |lunga prova~ dell'assedio, gi@a da noi
+ricordato e da cui la difese Guido da Montefeltro, per cinque
+anni contro i Guelfi collegati, e poi per due anni (1281-83)
+contro Guelfi e francesi, comandati da Giovanni d'Appia.  Molti
+francesi morirono nelle diverse scaramucce, s@i che il Poeta ben
+poteva immaginarne il |sanguinoso mucchio.~
+
+	Gli Ordelaffi, ghibellini, che portavano per insegna le
+branche verdi d'un leone in campo giallo, nel 1300 avean per capo
+della famiglia Sinibaldo.  Presso uno di loro, Scarpetta degli
+Ordelaffi, Capitano generale dei Bianchi fiorentini fuorusciti
+nella seconda guerra mugellana (1303), fu forse ospite Dante.
+
+	|46-48.~  Il verso diventa vieppi@u mordace quando il
+Poeta volge il pensiero ai Malatesta, scesi gi@a di Pennabili nel
+Montefeltro, soffermatisi per poco sul balzo di |Verrocchio~, 
+quasi a scrutare dall'alto la bella pianura e la citt@a di Rimini, 
+che poi, dopo lunghi anni di trame tenebrose, di guerre, di
+tradimenti e d'assassinii, assoggettarono alle loro brame, con
+l'aiuto dei Guelfi, nel 1295.  Malatesta, il |mastin vecchio~, 
+ebbe tre mogli: dalla prima nacque Malatesta dall'Occhio, il
+|mastin nuovo~, che succedette al padre nel 1312 e mor@i nel 1317;
+dalla seconda nacquero i due fratelli gi@a noti dalla storia di
+Francesca; dalla terza il virtuoso Pandolfo (Muratori), che poi
+succedette al fratello maggiore.  Fra i delitti dei Malatesta, 
+padre e figlio, usi a far |de' denti succhio~, cio@e a mungere e
+suggere i beni altrui, uno solo qui ne ricorda il Poeta:
+Montagna, cavaliere dei Percitati, forse cos@i nominato per la
+fiera resistenza che oppose a Niccol@o III quando questi pretese
+il dominio della Romagna, era capo dei Ghibellini di Rimini, 
+quando ne divennero padroni i Malatesta; preso da loro a
+tradimento, fu messo in orrida prigione.  Narra Benvenuto che
+ogni giorno il vecchio Malatesta chiedeva al figliuolo notizie
+del prigioniero, e che il Malatestino, guercio d'un occhio, 
+rispondeva costantemente: <Signore, egli @e s@i ben custodito, che, 
+quantunque abbia vicino il mare, non potrebbe, se volesse, 
+affogarsi>.  Ma il vecchio mastino conchiudeva: <certo tu non lo
+potrai custodire>; sicch@e il figlio un bel giorno seg@o la gola al
+Montagna.  Altre vittime dei Malatesta saran altrove ricordate
+dal Poeta: nel Canto seguente Guido del Cassero e Angiolello da
+Carignano, e nel V del Purgatorio Iacopo del Cassero.
+
+	|49-51.~  Le citt@a di Faenza e di Imola, bagnate dai
+fiumicelli Lamone e Santerno, nel 1300 erano signoreggiate da
+Maghinardo da Susinana, chiamato il leone e anche il dimonio, 
+figlio d'un Pietro Pagano, che gi@a, potente ghibellino nelle
+montagne tra cui scorre il Senno, s'era pi@u volte mescolato nelle
+contese di quelle citt@a.  Il Poeta accusa qui Maghinardo di
+|mutar parte dalla state al verno~, cio@e spesso, o meglio, dalla
+Romagna, fredda come il verno, alla Toscana che di fronte a
+quella pu@o chiamarsi estate.  Pare infatti che Maghinardo fosse
+ghibellino in Romagna, e guelfo in Toscana, per gratitudine che
+portava a Firenze, la quale, secondo il Villani (VII, 149), 
+l'aveva ricevuto in custodia, piccolo fanciullo, dal padre
+morente.  Certo si @e che nel 1289 combatt@e per Firenze alla
+battaglia di Campaldino, e che nel 1301 accompagn@o a Firenze
+Carlo di Valois.  Aveva per insegna un leone azzurro in campo
+bianco, e le storie romagnole lo dipingono ora favorevole, ora
+ribelle ai rettori pontifici, ora amico ora nemico dei Manfredi, 
+dei Calboli, dei Malatesta; ora capo dei Ghibellini, ora in campo
+coi Guelfi, benedetto, scomunicato e ribenedetto a volta a volta
+dalla Chiesa.  Mor@i nel 1302, senza eredi, e il Poeta se ne
+compiace nel ^Purgatorio~ (XIV, 118-120).
+
+	|52-54.~  Cesena, sulla riva destra del Savio, <est plana
+praeter partem quae vocatur Murata, ubi est in monte pulchra
+roca> (Benvenuto), la rocca di Federico II; e, come siede tra
+prato e monte, cos@i, dice Dante, vive ancora tra signoria e stato
+franco; ossia, apparentando ancora le forme di libero Comune, era
+gi@a anch'essa in realt@a soggetta ai suoi podest@a, cupidi di
+diventarne signori.  Nell'estate del 1300 infatti moriva in
+Cesena Galasso di Montefeltro, cugino di Guido, che per molti
+anni l'aveva retta, ora come Podest@a, ora come Capitano, 
+meritando di essere altamente lodato di liberalit@a da Dante
+(^Conv.~, IV, XI, 14).  L'anno seguente, 1301, Ciappettino degli
+Ubaldini, Podest@a, e Ugoccione della Faggiuola e Federico da
+Montefeltro, Capitani, sospetti di voler divenire signori della
+citt@a, ne furon cacciati a furore di popolo: stato franco
+insicuro adunque, fra minacce di tirannia.
+
+	|55-57.~  Soddisfatta cos@i la preghiera che gli era stata
+rivolta, Dante chiede in ricompensa di saper con chi parla, e la
+sua domanda @e rispettosa, |ti prego~, e calda |non esser duro pi@u
+che altri~, cio@e io stesso, |sia stato.~
+
+	Con queste parole, accompagnate da un augurio di fama che
+tanto finora apparve dover suonar gradito alle anime perdute, 
+termina la prima parte dell'episodio, in forma di parentesi nel
+Canto, in realt@a illustrazione storica dell'opera di Guido. 
+Dante ha parlato fingendo di saper che chi l'udiva era un
+romagnolo, ma d'ignorare che quel romagnolo era Guido di
+Montefeltro; ha, quasi inconsciamente, spiegato dinanzi
+all'invitto capitano la carta politica della Romagna, cio@e dei
+suoi gloriosi trionfi.  La pace, ultima aspirazione della vita di
+lui, era stata firmata, e almeno visibilmente durava ancora. 
+<Ravenna, egli le aveva portato fin sotto le mura, alle porte, la
+desolazione e lo spavento.  Cervia, egli l'aveva assalita e presa
+e costretti i custodi bolognesi del castello a cercare scampo nel
+mare.  Faenza, egli l'aveva fatta tremare e piangere.  Borgo di
+Faenza era Durbecco, pi@u volte assalito e largamente bagnato del
+sangue nemico da lui; poco discosto, Solarolo, tolto ai Manfredi
+da lui; presso a due miglia il ponte di San Procolo, dove per il
+valore e per l'arte sua, tremila Bolognesi, senza contare i
+prigionieri e quelli che le acque del fiume affogarono, erano
+rimasti nel campo.  Cesena, egli l'aveva sottratta ai Malatesta. 
+Pi@u di tutti gli altri doveva giungergli gradito il ricordo della
+resistenza tenace di Forl@i, della quale egli fu l'anima, e
+l'accenno alla moltitudine di Francesi, caduta sotto le spade dei
+Forlivesi per l'accortezza sua> (Torraca).  Le parole di Dante
+sono state l'inno trionfale di Guido: come risponder@a egli?
+
+	|58-60.~  Richiamato ai ricordi della sua vita virile, il
+Conte Guido non risponde col grido vittorioso di Farinata: ^ma
+fui io sol.~..; risponde a modo suo, con un mugghio doloroso, e
+con un movimento della fiamma |di qua, di l@a~, che corrisponde a
+un cenno di diniego: no! egli non desidera che il nome suo ^tegna
+fronte~ {v.57} nel mondo, non vorrebbe neppure esservi ricordato!
+
+	|61-66.~  Povero Conte! povero grande ingegno
+ottenebrato, che non pu@o neppure accorgersi di parlare ad un
+vivo, il quale torner@a in terra latina e vi propaler@a il suo
+geloso segreto!  L'esordio semplice e solenne annunzia la
+confessione d'una terribile colpa che Guido credeva ancora ignota
+nel mondo: terribile colpa invero, poich@e essa sola gli merit@o
+l'eterna dannazione e ne trasform@o talmente il carattere, che
+egli allontana ormai da s@e i ricordi della gloria militare, come
+un pensiero molesto, e tutto preso da una idea fissa, divenuto
+sospettoso di tutti e di ogni cosa che oda, non @e pi@u in grado di
+giudicare neppure s@e stesso!  E grande arte di Dante! poich@e il
+lettore trover@a pi@u d'una scusa alla colpa di Guido e sentir@a
+compassione del suo tormento; ma queste scuse e questa
+compassione aggravano il giudizio che ricade sull'istigatore del
+delitto, sul colpevole maggiore e lontano, Bonifazio VIII.
+
+	|67-72.~  Ecco il Guido dantesco!  Tutta la sua
+travagliosa vita @e raccolta in un semplice verso: |io fui uom
+d'arme e poi fui cordigliero~: i due periodi della sua vita, 
+tanto diversi e per durata e per condizione, i lunghi anni
+gloriosi del capitano ghibellino, e i due soli anni dell'umile
+vita del |cordigliero~, come si chiamavano i frati minori, si
+dividono il verso in parti uguali, e si contrappongono: quello @e
+il periodo del peccato, perch@e questo @e il periodo
+dell'|ammenda~; quello allontanava, questo avvicinava alla vera
+gloria celeste.  E |certo~ la gloria celeste, |s@i cinto~ del
+cordone francescano, Guido l'avrebbe raggiunta, se non fosse
+stato, chi? il |gran prete~, Bonifazio VIII!  Risorge ancora, a
+questo ricordo, l'uomo dagli antichi ardimenti e scaglia
+l'invettiva: |a cui mal prenda~! ma @e un lampo passeggero, e
+l'idea fissa torna a signoreggiarlo: colui che pur ora avrebbe
+preferito tacere, sveler@a tutto, |il come e il quare~, il come e
+il perch@e della sua infamia, che per Dante torna a infamia del
+|gran prete.~  Prete, non Pontefice, ma |grande~: grande agli
+occhi del Montefeltrano che ne fu vinto; grande agli occhi di
+Dante, come vedremo dalla rappresentazione che ne fa in questo
+Canto, nella Bolgia fiammeggiante degli ingegni che ^virt@u non
+guida~, ma ingegni sovrani.
+
+	|73-75.~  Qualche cosa dell'umile fraticello che fa pompa
+dei primi elementi della lingua teologica appresi nel modesto
+chiostro francescano, in contrasto col duro linguaggio militare
+dei campi, trapela dal ^quare~ {v.72} della terzina precedente, 
+come dal termine scolastico di |forma~, per indicare l'anima, 
+principio informativo del corpo.  Ma il nuovo carattere del
+personaggio si rivela tutto nell'ultimo verso: |l'opere mie non
+furon leonine, ma di volpe.~  Il peggior nemico del Conte non
+avrebbe potuto pronunciare un pi@u ingiusto e calunnioso giudizio
+di lui.  In quel verso non c'@e soltanto la rinuncia e la condanna
+di tutto ci@o che pu@o apparire vanit@a mondana, come il titolo di
+Conte taciuto, l'ammirazione dei potenti, ad esempio del Marchese
+del Monferrato, Guglielmo, pur lodato da Dante nel ^Convivio~
+(IV, XI, 14) e il terror dei nemici; ma anche la rinuncia di
+tutte le virt@u che rendono veramente insigne un uomo d'armi:
+l'amor della patria e della giustizia, il sacrificio, il valore, 
+la prontezza, l'audacia, l'amore ispirato ai soldati ed ai popoli
+amici.  Tutte queste qualit@a ebbe il Montefeltro, e la storia ci
+dice che le opere sue furono veramente |leonine~; tanto che la
+fantasia popolare gi@a le stava abbellendo dei colori della
+leggenda.  Ma Guido ripudia ora il titolo di leone, e si
+aggiudica quello di volpe; e quest'autogiudizio, egli non lo sa, 
+ma @e l'effetto del veleno che istill@o nell'animo suo una ben
+altra volpe, Bonifazio VIII, quel giorno quando gli apparve come
+il rappresentante di Cristo sulla terra, ed egli non si accorse
+che in quel momento il gran prete era il rappresentante della
+Lupa.  La convinzione d'essere una volpe glie l'aveva lasciata
+Bonifazio quel giorno, quando l'aveva richesto dell'aiuto che pu@o
+dare non l'uomo d'arme, ma l'uomo orditore d'inganni.  Che se
+soltanto i Fiorentini l'avessero chiamato volpe, come si legge
+nel Muratori, di quel soprannome egli avrebbe allora sorriso, 
+vedendoli fuggire dinanzi a lui; mentre ora su quel nomignolo
+dolorosamente ricalca nella terzina seguente.
+
+	|76-78.~  Forse a questo punto si riaffacciava alla
+memoria di Guido una delle sue gesta militari.  Quando egli
+difendeva Forl@i, il 30 aprile del 1282, parte dei Francesi
+s'impadron@i del Borgo di Schiavonia, presso al fiume Montone. 
+Giovanni d'Appia aveva commesso l'errore di dividere le sue
+forze, e Guido, che aveva presso di s@e l'astrologo Guido Bonatti, 
+seppe trarne profitto.  Uscito da una delle porte col grosso del
+suo esercito, comand@o ai cavalieri che aveva lasciato dietro di
+s@e a guardia della porta, di chiuderla dietro di lui: piomb@o alle
+spalle dei nemici che erano rimasti fuori, accampati presso una
+rovere o una Bastia detta della Rovere, e li sbaragli@o; poi, 
+tornato rapidamente in citt@a, fece macello dei francesi che vi
+erano penetrati e che trov@o sbandati, intenti al saccheggio ed
+all'orgia.  Ma fu questa astuzia di volpe, o sagacia di capitano? 
+Sagacia di capitano, rispondevano ammirando i contemporanei; ed @e
+degno di nota che il nemico del Montefeltrano, il Pontefice
+Martino IV medesimo, parlando di lui scriveva parole che paiono
+risuonare nell'ultimo di questi versi, per@o con ben altro
+significato, perch@e alludevano alla sua militare saggezza: <jam
+fere terrarum fines, orbisque anguli precurrentibus famae
+relatibus agnoverunt>.  Ma Guido ormai giudica tutte le sue
+azioni da un falso punto di vista, sicch@e rinnega anche la fama
+buona e meritata che pi@u tardi aveva offerto a Dio, e non si vede
+coperto che di macchie.
+
+	|79-84.~  Un sol ricordo gradito gli resta della sua
+vita, e su questo s'indugia tanto quanto s'era affrettato a
+trascorrere sulle sue gesta militari: quello della sua
+consacrazione; e da questo momento, dimenticando di essere un
+dannato, egli trae una massima morale per tutti: ed @e massima
+dantesca (^Conv.~, IV, XXVIII, 3).  L'accenno alla tarda et@a e
+l'espressione marinaresca ci richiamano al racconto d'Ulisse; ma
+Guido si sofferma con compiacenza sui proponimenti, sui
+sentimenti e sulle operazioni della sua conversione: tutto quello
+che era necessario alla sua salvazione eterna egli l'aveva
+compiuto; s'era pentito, confessato e fatto frate, ch@e tale
+significato aveva allora il verbo ^rendersi~ senz'altro aggiunto. 
+S'era fatto frate di San Francesco perch@e era questo l'ordine pi@u
+umile, e forse anche, dice Salimbene, perch@e in quell'Ordine
+v'erano altri parenti suoi, e perch@e a quel Santo s'era pi@u volte
+raccomandato non invano in molti pericoli e per essere liberato
+dalle catene e dal carcere dei Malatesta.
+
+	|85-93.~  Nella mirabile narrazione che incomincia, la
+figura di Bonifazio, che non @e mai nominato in questo Canto se
+non perifrasticamente, <balza fuori quasi tra sibili di scherno, 
+in una stupenda fusione di febbrile orgoglio, d'ipocrita e quasi
+comica gravit@a e d'impostura diabolica> (Sannia).  Figura tanto
+pi@u compiuta, osserva il Parodi, in quanto il Poeta che aborrisce
+ed esecra questo Pontefice, non lo abbassa per@o, n@e lo rende
+volgare; lo dipinge come un impostore, ma impostore grande: <i
+versi in cui si prepara l'entrata in scena di Bonifazio, |Lo
+principe de' nuovi Farisei.~..  |Avendo guerra presso a
+Laterano.~..  ^Ma come Costantin chiese Silvestro~ {v.94}...
+hanno, con tutto il loro significato di sarcastica invettiva, 
+squilli di tromba epica>.
+
+	L'entrata in iscena di Bonifazio @e dipinta in questo
+periodo lungo e sonante, per@o insieme pieno d'incisi, di rigiri, 
+di negazioni e d'argomentazioni: Guido parla concitato e
+fremente.  Bonifazio, colui che sorto d'umile origine era asceso
+allo sfarzo della Corte pontificia, mentre il Conte Guido dalla
+ricchezza in cui era nato e cresciuto, aveva voluto discendere
+all'umile condizione di poverello di Cristo, non @e pi@u il ^gran
+prete~ {v.70}: s'annuncia come |principe~, per@o |principe de'
+nuovi farisei~: capo e corruttore fra gli altri degeneri prelati
+della Curia romana.  Anche San Gerolamo, in un momento d'ira, 
+aveva chiamato ^phariseorum senatus~ l'alto clero di Roma. 
+Nessuna maraviglia adunque che il Sommo Pontefice, a cui spetta
+predicare la pace, sia in guerra.  Contro chi?  Contro gli
+infedeli che detenevano il Santo Sepolcro? che recentemente
+avevano riconquistato Acri?  No! contro i Cristiani.  Quali
+Cristiani? quelli forse che per libidine di guadagno vendevano
+armi e vettovaglie ai Saraceni, e che Innocenzo III nel IV
+Concilio Lateranense (1215) aveva escluso dalle indulgenze? 
+Neppure! che importa a Bonifazio di Saraceni e di Crociate? non
+pi@u che ne importasse oramai a tutta l'Europa corrotta, che nel
+1291, indifferente alle preghiere ed alle grida di soccorso dei
+lontani discendenti dei Crociati d'altri tempi, aveva lasciato
+che Acri, ultimo baluardo del piccolo e non felice dominio dei
+Latini in Siria, cadesse in potere di Al Malik Al Ascraf. 
+Bonifazio VIII @e in guerra con Cristiani, nella citt@a stessa di
+Roma, presso al Laterano, ove i Colonnesi avevano i loro palagi, 
+contro i Colonna, tradizionalmente devoti alla Santa Sede, e per
+ragioni estranee alla religione.
+
+	Correva sulle bocche una sconcia novella, riportata dal
+Buti.  Un nepote del Papa, si diceva, s'era invaghito di Donna
+Sciarra Colonna e giaceva in letto, malato d'amore.  L'addolorato
+zio invit@o ad un banchetto la giovin signora, che fu condotta
+nella stanza del nepote; essa seppe fuggire all'insidia, e coi
+suoi detti accese d'ira il marito e i congiunti.  Questa od altra
+fosse la prima cagione di disaccordo, certo sappiamo che i
+Cardinali Giacomo e Pietro Colonna si schieraron con coloro che
+negavano le legittimit@a dell'elezione di Bonifazio, e che
+ospitarono i delegati di Federico d'Aragona, nemico del Papa.
+
+	Le cose andaron tant'oltre che Bonifazio, non contento
+d'aver privato del cappello cardinalizio i due Colonna, zio e
+nepote, e non avvezzo, come scrive Pietro Fedele, a misurare le
+forze dei suoi avversari prima d'attaccarli, assedi@o i Colonna
+nella loro rocca forte di Preneste.  La rocca resisteva, e
+Bonifazio, ardendo di rabbia e di vergogna, dimentico del |sommo
+officio~ che gli era commesso, si ricord@o d'avere a s@e soggetto
+disciplinarmente un umile fraticello, che, quantunque cinto del
+|capestro~ o cordone di San Francesco, aveva gi@a riempito il
+mondo della sua fama militare col nome di Guido da Montefeltro, e
+che avrebbe potuto dargli consiglio.
+
+	Nell'ultimo dei nostri versi si osservi il sarcasmo del
+|solea~: il cinto francescano che un tempo facea |macri~ i
+seguaci del Poverello d'Assisi, oggi, dietro l'esempio d'un tal
+Capo della Chiesa, non tratteneva pi@u i Frati dal godere e
+dall'impinguare.
+
+	|94-99.  Siratte~ @e il Soratte, <nive candidus> di
+Orazio, oggi Monte Sant'Oreste, presso Roma, dove, secondo la
+leggenda, l'imperatore Costantino, malato di lebbra, s'era recato
+a visitare il Pontefice Silvestro I, colass@u rifugiatosi con
+altri fedeli per sfuggire alle persecuzioni contro i Cristiani. 
+Ma sia pure leggenda, poich@e Dante la credeva storica verit@a, 
+ognun vede quanto schiacciante per Bonifazio sia il confronto col
+suo santo predecessore che convert@i l'Imperatore guarendolo, e
+pose cos@i fine alle persecuzioni contro i fedeli.  Confronto
+indiretto, ch@e la vera similitudine qui @e tra Bonifazio e
+Costantino: come Costantino, arso di febbre per immonda malattia
+corporea, aveva asceso il monte Soratte per visitare con pia
+intenzione Silvestro, cos@i Bonifazio, arso dalla |superba febbre~
+del suo orgoglio, corso col pensiero a Guido di Montefeltro, non
+perde tempo, non manda per lui; ma egli stesso si affretta verso
+la cella del chiostro.  E appena giunto dinanzi al vecchio frate, 
+che, dimentico oramai delle passioni del secolo, @e tutto dato a
+preghiere e penitenze, e che guarda stupito e turbato l'inatteso
+visitatore, Bonifazio, insofferente d'indugi, avvezzo a veder
+sempre tutto e tutti piegar al proprio volere, senza preamboli, 
+entra in argomento e chiede a Guido il consiglio per cui @e
+venuto, quasi ordinando, senza dubbiezze o tergiversazioni.  Ma
+alle parole del Papa, tanto diverse da quelle che il frate si
+aspettava d'udire, la luce si fa tosto nella sua mente, ancora
+intera, e gli pare d'aver dinanzi a s@e non il superiore
+venerando, ma un ebbro.  Nell'ultimo verso, |perch@e le sue parole
+parver ebbre~, freme ancora l'avversione e l'aborrimento di Guido
+in quel momento.
+
+	|100-102.~  Bonifazio aveva richiesto di consiglio Guido, 
+come ^maestro~ {v.96}, parola che allora significava anche
+medico; ma questi non ha risposto.  Passa un minuto di silenzio, 
+durante il quale il Papa col suo occhio di lince scruta e legge
+nel viso del frate i suoi sentimenti, e non si sa quale dei due
+personaggi si trovi pi@u deluso.  Se non che il Papa @e il primo a
+riprendere l'impero su s@e stesso: <tosto s'accorge, all'attonito
+e sbigottito silenzio del frate che nella sua febbrile impazienza
+s'era troppo affrettato a giudicar gli altri da se medesimo, e
+che costui non era l'uomo che s'aspettava: s'aspettava un leone
+di guerra e trova un timido agnello.  Egli si ricompone; sparisce
+il guerriero che con rude franchezza parlava al guerriero;
+compare l'ecclesiastico, il Papa che scioglie un caso di
+coscienza ad un povero frate impacciato> (Parodi).  |Tuo cuor non
+sospetti~: la sua parola diviene insinuante e paterna; |finor
+t'assolvo~: @e l'argomento decisivo.  Lasciamo stare se il |finor
+t'assolvo~ significhi ^fin d'ora~, come intende Guido, ^o fin
+qui~, come forse intendeva dire Bonifazio, evitando la
+contraddizione teologica che poi rilever@a il ^diavolo loico~
+{v.123}; ma @e certo che la parola |t'assolvo~ doveva produrre una
+grande impressione nell'anima del frate.  Pentito, confessatosi, 
+datosi a vita di penitenza, che gli mancava ormai per la pace
+dell'anima? l'assoluzione; e la riceve dal Vicario di Cristo.  Il
+viso del monaco s'illumina di gioia, i suoi occhi abbassati si
+levano con gratitudine verso il volto del Papa, che sente d'aver
+vinto e ripete la sua domanda, dove la ^superba febbre~ {v.97}
+arde pi@u forte che mai: |e tu m'insegna fare s@i come Penestrino
+in terra getti.~
+
+	|103-105.~  Appena il Papa ha ripetuto la sua domanda, 
+Guido torna a turbarsi, sicch@e Bonifazio torna all'argomento
+principale e lo rinforza.  All'offerta dell'assoluzione aggiunge
+la minaccia della scomunica: io posso aprire il cielo, ma posso
+anche chiuderlo, |come tu sai~: l'inciso non @e ozioso: @e l'invito
+del superiore dotto all'inferiore modesto per invitarlo a
+ricordare la sua scienza teologica e i voti d'obbedienza.
+
+	<E qui si mostra tutto intero il Bonifazio orgoglioso e
+superbo, non meno che scettico e beffardo.  Come se
+quell'opposizione di Guido che gli pare un gioco il vincere, e la
+potenza del mezzo da lui trovato per vincerla, gli facesse sentir
+meglio l'ebbrezza e la singolarit@a del proprio sconfinato potere, 
+egli esce in quel verso portentosamente lungo e vasto, |lo ciel
+poss'io serrare e diserrare~, in cui si vanta, ecco lo scettico
+beffardo, per mezzo del cielo padrone della terra.  Con quel
+breve inciso, |come tu sai~, che @e una sorda minaccia dell'uomo
+che non ammette resistenze o dubbi, discende ancora una volta
+fino al piccolo frate, di cui ha bisogno; ma la scettica e
+orgogliosa visione della propria onnipotenza lo ha messo di buon
+umore: quel suo ultimo irrefutabile argomento delle due chiavi
+del cielo, appare a lui come una grande, ma necessaria, 
+canzonatura, e sul suo volto si allarga un sorriso di
+soddisfazione, pensando che quelle chiavi, dischiuditrici sicure, 
+se non dei tesori del cielo, certo di quelli della terra, egli le
+brandiva per l'ingenuit@a di Celestino, e che al mondo ci vogliono
+i Celestini ed i Guidi, perch@e sopra le loro spalle s'innalzino i
+Bonifazi> (Parodi).  Ed ecco un altro inganno del Pontefice che
+gioca con l'ignoranza teologica d'un principiante, perch@e nel
+linguaggio evangelico <il regno dei cieli, del quale disse Ges@u
+di dare a Pietro le chiavi, non significa il Paradiso; sibbene la
+famiglia o societ@a dei fedeli, la Chiesa, l'ufficio apostolico di
+quaggi@u> (P. Giov. Giovanozzi).
+
+	|106-111.~  Il frate @e vinto, stordito dagli |argomenti
+gravi~: gravi della doppia autorit@a, di chi li pronuncia e della
+citazione evangelica (^Matteo~, XVI, 19), perch@e il novello
+cordigliere non era s@i dotto teologo, come dicemmo, da poter
+commentare il detto evangelico con sottili distinzioni.  E qui
+sta la scusa di Guido e la cagione della compassione che ci
+spira; ma anche la condanna @e giusta, poich@e egli torna a
+confessare d'aver compreso che il consiglio era peccato, che il
+darlo l'avrebbe rimesso in istato di colpa presso Dio.  La tarda
+sua et@a, i buoni proponimenti, il voto d'ubbidienza non bastano a
+giustificarlo; ma sono altrettanti motivi di piet@a per noi e di
+sdegno verso chi lo aveva ingannato.
+
+	@E vera storia?
+
+	I fatti seguiti non la smentiscono.  Il Papa si accost@o
+ai Colonnesi con promesse di pace e d'amicizia, e nel Settembre
+del 1296, un mese prima della morte di Guido, secondo la
+narrazione del Villani (VIII, 23), i Colonnesi <cherici e laici, 
+vennero a Rieti ov'era la corte, e gittarsi a' pi@e del detto Papa
+alla misericordia, il quale perdon@o loro e assolvettegli dalla
+scomunicazione, e volle che gi rendessono la citt@a di Pilestrino;
+e cos@i fecieno, promettendo loro di restituirgli in loro stato e
+dignit@a, la qual cosa non attenne loro; ma fece disfare la detta
+c$itt@a di Pilestrino del poggio e fortezza dov'era, e fecene
+rifare una terra al piano, alla quale puose nome Civita Papale>.
+
+	Cos@i cadde Pilestrino o Palestrina, ^Castrum
+Praenestinum~, nel territorio dell'antica Preneste, bello e forte
+arnese di guerra, dalle scalee di bianco marmo, larghe ed agevoli
+s@i che vi poteva ascendere un uomo a cavallo.
+
+	Ma che il consiglio frodolento partisse da Guido da
+Montefeltro non @e accertato; l'afferma il Villani, @e vero; ma con
+s@i manifesta ripetizione delle parole di Dante, che lo storico
+sembra sospetto d'aver subito la suggestione del Poeta. 
+Salimbene da Parma apertamente lo nega: Sant'Antonino, Vescovo di
+Firenze, pi@u prudentemente, riporta il fatto come una voce
+corrente; Ludovico Muratori cred@e falso il racconto di Dante: i
+moderni pendono incerti.
+
+	Tuttavia vero o inventato che sia il consiglio di Guido, 
+certo si @e che se invenzione @e, non @e di Dante, il quale, come
+sappiamo, non si attribuisce mai altro diritto che quello di
+scegliere fra le tradizioni esistenti; e di fatti il racconto del
+consiglio dato dal Montefeltro si ritrova nella storia di Frate
+Francesco Pipino, scritta nel 1314, prima cio@e che il nostro
+Canto fosse pubblicato, come si ritrova nella storia del
+Ferretti.
+
+	Era adunque almeno una voce corrente certamente, e il
+Poeta l'accolse perch@e rispondeva a un suo fine politico, che ci
+apparir@a ancor pi@u manifesto quando commenteremo nel V del
+Purgatorio l'episodio d'un altro Montefeltrano, Buonconte.  I due
+episodi mirano a distruggere l'argomento che i Guelfi sostenevano
+per dimostrare l'autorit@a del Pontefice al di sopra di quella
+dell'Imperatore, anche nelle cose temporali, e che consisteva
+appunto nelle parole del Vangelo <quodcumque ligaveris et
+solveris>.  La facolt@a concessa a San Pietro da Cristo, mostra
+Dante con questi due episodi, non si estende alle cose temporali, 
+non ha valore quando a queste cose si frammischi.  L'arma di cui
+tanto abusavano i Papi, estendendola dal loro ufficio spirituale
+alle lotte politiche, quell'arma delle scomuniche e delle
+assoluzioni di cui tanto temevano i popoli, Dante cerca di
+spuntarla e dimostrarla vana tanto nel ^Monarchia~ per mezzo
+degli argomenti, quanto nel Poema per mezzo degli esempi.
+
+	Quanto al giudizio di Dante intorno a Bonifazio VIII, qui
+dipinto con s@i foschi colori, noi gi@a ne abbiamo parlato nel
+commentare il Canto XIX dell'Inferno, e dovremo ancora parlarne.
+
+	Torniamo al Canto nostro: il Papa @e scomparso: la cella
+del chiostro diviene scena d'un altro breve e pi@u terribile
+dramma.
+
+	|112-114.~  Sembra di leggere una di quelle pagine del
+Passavanti, dove cos@i frequentemente si descrive la lotta degli
+Angeli e dei diavoli intorno ad un recente cadavere per il
+possesso dell'anima sua.
+
+	La cella @e muta: solo, disteso nel funebre drappo @e il
+corpo del fraticello appena spirato, e la sua anima @e ancor l@a, 
+pronta a spiccare il volo per il suo eterno destino; ma vigile, 
+in attesa di guida.  Ed ecco farglisi incontro San Francesco, con
+un aspetto ben altrimenti paterno da quello del Papa: |Francesco
+venne poi.~..  Tutta la storia dello sventurato si concentra in
+due |poi.~  ^Io fui uom d'arme e~ {v.67} poi ^fui cordigliero~
+{v.67}...  |Francesco venne~ poi, |com'io fui morto, per me~!  Ma
+il Santo che egli aveva invocato nel giorno della vestizione, ed
+a cui aveva serbato fede per s@i breve tempo, fa un'apparizione
+altrettanto fugace: dietro di lui spunta l'arguto riso d'un
+diavoletto nero, che Dante ironicamente confronta coi Cherubini. 
+Formidabile |nero cherubino~ che nel momento pi@u tragico del
+dramma frammette una nota di vivacissima comicit@a.  Una sua frase
+basta, |nol portar, non mi far torto~, perch@e San Francesco
+sparisca, e la cella del frate divenga quasi l'anticamera
+dell'Inferno, dove il solo diavolo fa le sue ragioni.
+
+	|115-120.~  San Francesco @e sparito; Guido @e solo col
+terribile diavoletto che lo rimette sulla via della logica:
+terribile diavoletto che par tutto serafico anche lui e pieno di
+compassione per i |meschini~ peccatori, ma che quando @e riuscito
+ad afferrarne uno pei crini, non lo lascia pi@u.  Antitesi del
+Papa che aveva pronunciato sentenze sacre con non sante
+intenzioni, egli, il nero cherubino, le rimette in regola colla
+teologia.  |Pentere~ @e non volere il peccato, e il non volere non
+pu@o accordarsi col volere, |per la contraddizion che nol
+consente.~  Quanta differenza tra questo diavolo ^loico~ {v.123}
+di ^Dante~, che vive relegato in una Bolgia infernale, forte
+della logica, e che si vede fatalmente cadere in mano la preda da
+lungo tempo segnata, e il Mefistofele delle leggende posteriori, 
+che spazia per la terra e per l'aria, a cui tutti gli elementi
+ubbidiscono, ma che all'ultimo si vede beffato dal peccatore, 
+quando pi@u se ne sentiva padrone!
+
+	Questo nero cherubino paziente e sicuro di s@e che
+rivendica la sua preda ad un Santo, che parla famigliarmente coi
+Santi maggiori, e si sente cos@i forte della sua giustizia da
+permettersi lo scherno e lo scherzo, <questo diavolo
+giurisperito, filosofo e moralista, fornito a dovizia di sentenze
+e di sillogismi, un po' vano della sua vittoriosa argomentazione, 
+che afferra la preda dopo aver dimostrato la validit@a del
+possesso e si trastulla col peccatore nell'atto di portarselo
+via> (Torraca), non ha nulla di comune con i diavoli della
+leggenda medievale, e nemmeno con gli altri diavoli dell'Inferno
+dantesco.  @E, dice il De Sanctis, <una di quelle creazioni che
+sono le grandi scoperte dell'arte, un mondo nuovo>; @e l'uomo
+stesso, anzi @e <la sua coscienza che risponde con un'alta risata
+ai suoi sofismi e gli fa il controsillogismo, e gli dice
+beffandolo: ^tu non credevi~ {v.123}>.
+
+	|121-129.~  Il diavoletto loico non eccede per@o i limiti
+del suo ufficio: sa dove la sua potenza finisce, e porta l'anima
+a Minosse, l'infallibile giudice, e sparisce, come il Papa che
+non s'era pi@u preoccupato di Guido, dopo avergli estorto lo
+scellerato consiglio.  Il vanto comico del diavolo @e inquadrato
+tra il grido di dolore di Guido, |Ohm@e dolente~, e l'apparizione, 
+sempre spaventosa, di Minosse.  |Come mi riscossi~, dice Guido:
+ma la sua non @e riscossa: @e il principio della cecit@a seguita ai
+grandi lampi dell'ingegno, il principio della pazzia di
+quell'anima, sballottata fra l'astuzia del gran prete e la logica
+del nero cherubino.
+
+	Rapidissima @e la scena sull'anticamera dell'Inferno; ma
+tutti i particolari rimangon fissi nella pur gi@a sconvolta mente
+di Guido.  Vede Minosse che s'infuria, non sai se per la
+straordinaria nefandit@a della colpa, o per esser costretto a
+giudicare ormai una parvenza d'uomo; ne ode la sentenza breve e
+rabbiosa.  Il fuoco che veste le anime dei Consiglieri frodolenti
+@e qui detto |furo~, perch@e ladroneccio @e l'abuso del dono
+dell'intelletto oltre i limiti della morale; e l'anima di Guido
+precipita nel fondo di Malebolge, mentre Bonifazio trionfa
+nell'^alto seggio~ {v.111} del suo bel Laterano; ma anche lui
+aspetta impaziente tra altre fiamme infernali Niccol@o III.
+
+	|130-136.~  Dante tace: non un commento, non una sola di
+quelle sue parole di sdegno che sembran nuovi colpi di sferza. 
+Egli e il suo duca, puri entrambi d'astuzie, bench@e dotati di
+vivissimo ingegno, passan oltre muti; proseguon la loro via in
+senso opposto a quello del Montefeltrano, lieti della sicura
+coscienza che, contro le accuse di ingiusti nemici, grider@a la
+propria innocenza a mezzo del Canto che segue.

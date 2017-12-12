@@ -1,0 +1,38 @@
+{GOPTS_HR}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Redirect Option Help\f2\n~
+
+:PRINT ~#HEADING
+     The  REDIRECT  feature  allows  you  to  collect  output that would
+     normally  appear  on  your  screen, and transfer it to an operating
+     system file for subsequent manipulation.
+
+     This  option is very useful in creating a database from a subset of
+     another  database, since the redirected output can be used as an an
+     input  file  to  load another database. REDIRECT is also frequently
+     used to send data to a report generator.\n~
+
+:PAUSE BOTTOM
+:PRINT ~#HEADING
+     Upon  entering  "R"  for  redirect you will be asked to specify the
+     result  set  which  you  wish to redirect documents from.  Then you
+     will receive the prompt:
+
+	   Enter full pathname for file to collect data in [S]:
+
+     After  entering  the  full pathname (remember to specify the actual
+     filename,  not  merely  the directory) you will be prompted for the
+     paragraphs you wish to redirect.
+
+     After  entering  the  paragraphs  you  will  be  prompted  for  the
+     documents you wish to redirect.
+
+     The  redirect  will  then  begin  and the following message will be
+     displayed:
+
+		Collecting Data in Progress . . .
+
+		Data Collection Complete\n~
+
+:PAUSE BOTTOM
+:RETURN

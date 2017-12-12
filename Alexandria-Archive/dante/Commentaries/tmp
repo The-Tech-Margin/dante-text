@@ -1,0 +1,7 @@
+#!/bin/sh
+name="1 2 3 4 5 askfljlasj akjsdflkj ajdlfjk 12 123123 121213123"
+for i in $name
+do
+echo $i
+done
+

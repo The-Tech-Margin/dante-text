@@ -1,0 +1,127 @@
+	|Proemio.~  Canto XI+o~ nel qual tracta di tre cerchie di
+socto d'Inferno.  Et distengue di li gente chi dentro vi sono
+punite et che quive pi@u che altrove.  Et solve una questione.
+
+	Hoc undecimum capitulum sine allegoria, ut plurimum,
+procedit ac summat et dividit et subdividit totum hunc librum
+Inferni notabiliter, ut infra patebit.
+
+	|4-5.~  Modo, ut dicit Augustinus, sicut fama bona,
+scilicet bonorum hominum, odor bonus est, ita fama mala, scilicet
+hominum malorum, fetor vere potest dici.  Et ideo fingit nunc
+auctor in ingressu nunc contemplandi scilicet malitiosorum statum
+et fraudolentorum, de quibus amodo dicturus est, se passum
+intolerabilem fetorem.  Idem fingit Virgilius contigisse Enee in
+simili passu Inferni dicens: ^Inde ubi venere ad fauces grave
+olentis Averni~ etc.
+
+	|8-9.~  Tangens incidenter de papa Anastasio secundo hic
+auctor, ut dicit textus, qui communicavit Fotino, dyacono
+Thessalonicensi familiari olim Acacii, dampnati per Ecclesiam de
+heresi --  nam dicebat dictus Acacius in Christo tamen unam
+naturam, scilicet humanam, fuisse --.  Qui Anastasium in eundem
+errorem ductus per dictum Fotinum conatus fuit dictum Acacium
+restituere, sed non potuit, quoniam divino iudicio, dum ad
+secreta nature ivisset, ibi egerendo omnia intestina decessit.
+
+	|21-23.~  Inde inducit auctor Virgilium dicere quomodo
+finis malitie est iniuria. Verum quia iniuria non potest commicti
+nisi aut vi aut fraude, et si vi, tunc tripliciter, puta in
+proximum, in se ipsum et in Deum, ideo primum circulum de tribus,
+quos fingit esse intra dictam rupem, subdividit in tribus; si
+vero fraude, tunc quia alia est fraus simplex, que dicitur
+calliditas et fallacia, ut aliud agitur et aliud simulatur, et
+hanc fingit puniri in II+o~ circulo per X bulgias sive vestibula;
+et alia implicita fraus, que data fide et habita spirituali
+rumpit eius vinculum, que dicitur proditio, et hec punitur in
+III+o~ et ultimo circulo Inferni.
+
+	|76-84.~  Modo ad intelligentiam aliorum, que hic
+sequntur in textu, ita premictamus. Dicit Phylosophus in VII+o~
+^Ethicorum~ in principio: ^Quoniam contra mores fugiendorum tres
+sunt species, incontinentia, scilicet malitia et bestialitas.~
+^Incontinentia dicitur mollities pravorum et vituperabilium~, ut
+ibi inferius ait idem Phylosophus.  Et sic, ut dicit ibi
+Commentator, incontinentia est dispositio preter rectam rationem,
+et sic incontinens est qui scit se prava agere, sed propter
+passionem non consistit in ratione.  Item non est bona actio sine
+ratione pratica et appetitu recto, secundum eundem Phylosophum.
+^Si igitur perversitas sit ex parte appetitus ratione pratica
+remanente, erit incontinentia.  Malitia vero est quando ratio
+sequitur illud ad quod quis trahitur per appetitum, existimans
+illud bonum elective operando.~  Ideo dicit in VI+o Ethicorum~
+idem phylosophus: ^Est autem malitia corruptiva principii.  Quare
+necesse prudentiam habitum esse cum ratione humana operativum.~
+^Bestialitas autem erit quando temperantia humanarum affectionum
+corrumpitur adeo ut excedat terminos humanitatis.~  Unde idem
+Phylosophus in dicto principio septimi libri ^Ethicorum~ inquit:
+^Ad bestialitatem autem congruit dicere super nos virtutem
+divinam.  Quemadmodum Homerus de Ectore fecit dicentem Priamum,
+quoniam valde erat bonus, nec videbatur viri mortalis puer
+existere, sed Dei.  Si qui autem ex hominibus fiunt divini,
+propter virtutis superexcellentiam, talis quidem erit
+bestialitati oppositus habitus.~  Et subdit inferius idem
+Phylosophus: ^Dico autem bestiales homines quos dicunt pregnantes
+rescindere et pueros devorare, ut sunt quidam silvestres contra
+Ponticum.~  Et ut erant illi olim in Sicilia morantes, quos vocat
+Iuvenalis in ultima satira Lestroginas Ciclopas.  Et etiam ut
+erant illi Cinocephali, de quibus Augustinus ^De civitate Dei~
+libro XVI+o~ scribit.  Et in primo ^Ethicorum~ idem Phylosophus
+dicens: ^Multi quidem bestiales videntur esse pecudum eligentes.~
+
+	|85-90.~  Hiis premissis, patet ratio quare peccatores
+incontinentes, ut minus peccantes et ut de facili redituri ad
+bonam vitam, fingantur per auctorem hic nunc esse extra dictam
+civitatem Ditis; et malitiosi et bestiales, ut graviores
+peccatores et qui de raro non exeunt talem eorum statum in hoc
+mundo, fingantur intra muros huius dicte civitatis Ditis.
+
+	|97-111.~  Ad id quod de usura dicit, premicte quod
+dupliciter natura sumitur.  Nam quedam dicitur natura naturans,
+que est ipse Deus.  Et de tali natura loquitur Seneca in libro
+^De beneficiis~ dicens: ^Non intelligas, cum dicis, naturam te
+mutare nomen deo?  quid enim est aliud quam ipse deus?.~ Item est
+natura alia, scilicet naturata, que ab ipsa alia dicta natura,
+scilicet naturante, procedit, sive ab ipso Deo, qui, ut ait
+Boetius, mundum mente gerit, et ab eius intellectu divino, quasi
+ut filia eius nature naturantis.  Et ab ista II+a~ natura ars
+humana procedit.  Unde in II+o Physicorum~ ait Aristotiles:
+^Ars imitatur naturam in quantum potest.~  Et sic, per
+consequens, ars dici potest quasi neptis Dei, qui est ipsa natura
+naturans; ergo offendens artem offendit naturam predictam et sic,
+per consequens, etiam Deum; sed fenerator huiusmodi facit
+offensam, ergo usura offendit, idest facit offendi, bonitatem
+Dei, ut dicitur hic in textu, quia quidem phylosophica
+auctoritate ostenditur.  Dicit enim Aristotiles in primo
+^Politicorum~: ^Usuraria pecunia non secundum naturam sed ab
+invicem est; rationabiliter odio habetur obolistica, eo quod ab
+ipso numismate fit acquisitio et non superest quod acquisivimus:
+translationis enim gratia factum est: 'taches' autem seipsum
+facit amplius.  Unde et nomen istud accepit: similia enim parta
+generantibus ipsa sunt, 'taches' autem fit numisma ex numismate;
+quare et maxime preter naturam ista pecuniarum acquisitio est.~
+Et in IIII+o Ethicorum~ etiam idem Phylosophus ait:
+^Illiberales operationes et de meretricio pasti et omnes tales et
+usurarii et parva in multa.  Et unde non opportet accipiunt et
+quantum non opportet.~  Et sic non in sudore vultus sui vescitur
+pane suo fenerator, ut precipit Deus, ^Genesis~ III+o~, ut tangit
+auctor.  Item improbat ipsam usuram Moyses in ^Levitico~ capitulo
+XX+o~V+o~ dicens: ^Pecuniam tuam non dabis fratri tuo ad usuram.~
+Et Psalmista fortius dicens: ^Scrutetur fenerator omnem
+substantiam eius: / et diripiant alieni labores eius./  Non sit
+illi adiutor: / nec sit qui misereatur pupillis eius./  Fiant
+nati eius in interitum: / in generatione una deleatur nomen
+eius./  (...)/ Et persecutus est hominem pauperem, et mendicum,/
+et compunctum corde mortificare.~  Et alibi in Psalmo: ^Domine,
+quis intrabit in tabernaculo tuo?.~  Subdens: ^Qui pecuniam suam
+non dedit ad usuram,/ et munera super innocentem non accepit.~
+Et Lucas VI+o~ ait: ^Date mutuum nichil inde sperantes.~
+
+	|112-115.~  Inde auctor fingit Virgilium sollicitare eum
+ad iter per illa verba: quod pisces, idest signum Piscium, quod
+sequitur signum Arietis, ubi tunc erat sol, erat in orizonte,
+idest in circulo dividente emisperium nostrum ab alio, et
+plaustrum septentrionale iacebat super Coro, idest super illa
+parte septentrionis unde spirat ventus qui dicitur Corus, quasi
+ut breviter dicat quod iam dies appropinquabat.
+

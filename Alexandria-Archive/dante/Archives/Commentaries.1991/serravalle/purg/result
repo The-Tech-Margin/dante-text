@@ -1,0 +1,331 @@
+Using descriptive data from ../desc.
+
+So far you have:
+	Doc. type  = Commentary
+	Commentary = Serravalle
+	Language   = Latin
+	Pub. Year  = 1416
+	Cantica    = 20-Purgatorio
+
+Type y to continue, n to quit [y]: 
+Is this material copyrighted (y|n)? [n]: 
+Number of leading lines to delete or e to edit [e]: 
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 01.f into ../staging/purg/01.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32005 Apr  3 20:28 ../staging/purg/01
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 02.f into ../staging/purg/02.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32157 Apr  3 20:28 ../staging/purg/02
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 03.f into ../staging/purg/03.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       39885 Apr  3 20:29 ../staging/purg/03
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 04.f into ../staging/purg/04.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35165 Apr  3 20:29 ../staging/purg/04
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 05.f into ../staging/purg/05.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31938 Apr  3 20:29 ../staging/purg/05
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 06.f into ../staging/purg/06.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       34686 Apr  3 20:29 ../staging/purg/06
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 07.f into ../staging/purg/07.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32205 Apr  3 20:29 ../staging/purg/07
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 08.f into ../staging/purg/08.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31169 Apr  3 20:30 ../staging/purg/08
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 09.f into ../staging/purg/09.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35940 Apr  3 20:30 ../staging/purg/09
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 10.f into ../staging/purg/10.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32501 Apr  3 20:30 ../staging/purg/10
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 11.f into ../staging/purg/11.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33930 Apr  3 20:30 ../staging/purg/11
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 12.f into ../staging/purg/12.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32081 Apr  3 20:30 ../staging/purg/12
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 13.f into ../staging/purg/13.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30009 Apr  3 20:30 ../staging/purg/13
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 14.f into ../staging/purg/14.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40971 Apr  3 20:31 ../staging/purg/14
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 15.f into ../staging/purg/15.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30135 Apr  3 20:31 ../staging/purg/15
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 16.f into ../staging/purg/16.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       40051 Apr  3 20:31 ../staging/purg/16
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 17.f into ../staging/purg/17.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35343 Apr  3 20:31 ../staging/purg/17
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 18.f into ../staging/purg/18.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       35403 Apr  3 20:31 ../staging/purg/18
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 19.f into ../staging/purg/19.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31314 Apr  3 20:32 ../staging/purg/19
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 20.f into ../staging/purg/20.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       43764 Apr  3 20:32 ../staging/purg/20
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 21.f into ../staging/purg/21.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31453 Apr  3 20:32 ../staging/purg/21
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 22.f into ../staging/purg/22.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32389 Apr  3 20:32 ../staging/purg/22
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 23.f into ../staging/purg/23.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       27534 Apr  3 20:33 ../staging/purg/23
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 24.f into ../staging/purg/24.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33023 Apr  3 20:33 ../staging/purg/24
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 25.f into ../staging/purg/25.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       36956 Apr  3 20:33 ../staging/purg/25
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 27.f into ../staging/purg/27.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37853 Apr  3 20:33 ../staging/purg/27
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 28.f into ../staging/purg/28.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       47212 Apr  3 20:34 ../staging/purg/28
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 29.f into ../staging/purg/29.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       32892 Apr  3 20:34 ../staging/purg/29
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 30.f into ../staging/purg/30.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       30166 Apr  3 20:34 ../staging/purg/30
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 31.f into ../staging/purg/31.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       33539 Apr  3 20:34 ../staging/purg/31
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 32.f into ../staging/purg/32.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       37711 Apr  3 20:35 ../staging/purg/32
+
+::::::::::::::::::::::::::::::::::::::::::::
+Preloading 33.f into ../staging/purg/33.
+::::::::::::::::::::::::::::::::::::::::::::
+
+Filtering Serravalle...
+Verifying Serravalle...
+
+No Verification Errors.
+-rw-r--r--  1 dante       31492 Apr  3 20:35 ../staging/purg/33

@@ -1,0 +1,663 @@
+	|Proemio.~  L'Auttore in questo capitolo tocca nove cose. 
+La prima tocca come S. Joanni gli fece una domanda, ci@o @e
+qual'era quel punto a che sua carit@a, s@i come in segno, tendea,
+soggiugnendo come la sua visione smarrita per Beatrice sarebbe
+restituita.  La seconda cosa che tocca s@i @e la risposta che
+l'Auttore fece; e prima alla sobiunzione, secondo al quesito, vel
+domandato.  La terza cosa ch'el tocca s@i @e come S. Joanni ^in
+universali~ gli addomand@o onde gli ven$ia tale conoscimento del
+predetto verace segno; e a questa domanda risponde l'Auttore che
+per scrittura intellettiva, e filosofica nota, e per scrittura
+santa, s@i vecchia come eziand$io per lo Apocalipsi, gli @e venuto
+tale conoscimento.  La quarta tocca come S. Joanni lo domand@o:
+^D'altronde vient'ella?~  ed egli rispose: dallo avvenimento di
+Cristo, nel quale si mostr@o quanto amore Iddio ebbe all'umana
+generazione.  La quinta, seguendo suo poema, discrive come sua
+vista gli fue per Beatrice ristituita.  La sesta introduce in sua
+visione Adamo.  La settima, seguendo 'l poema, domanda Adamo che
+gli parli.  La ottava fa rispondere Adamo allo intento dello
+Auttore non palesandolo, il quale era circa a quattro cose: la
+prima, quanto tempo era ch'esso Adamo fue plasmato; la seconda,
+quanto tempo stette in istato d'innocenzia; la terza, quale fue
+la cagione del suo esilio; la quarta quale fue la sua parlatura. 
+La nona tocca come Adam gli risponde alle predette cose; e primo
+alla terza: secondo alla prima; terzio alla quarta; quarto alla
+seconda: e cos@i compie suo capitolo.  Alla prima s@i @e da sapere
+che lo Auttore introduce S. Joanni Evangelista a parlare della
+virt@u della caritade; imper@o che S. Joanni fosse condizionato
+tutto a quello modo che bisogna a perfetta carit@a; ch@e, s@i come @e
+detto nel XXV capitolo, ci@o @e povero, casto et obbediente al suo
+maestro Cristo glorioso, s@i come appare nella sua Leggenda che
+consigliava i suoi discepoli di povertade: eziand$io fue vergine,
+onde in esso fue veramente la vert@u di caritade; la quale @e, s@i
+com'@e detto, amare Iddio con tutto lo cuore, con tutta l'anima, e
+con tutta la mente, poi amare lo prossimo, s@i come s@e medesimo
+per Dio; onde tutto lo 'ntento a che tende la vert@u di caritade,
+e 'l verace segno a che dirizza sua saetta, s@i @e Iddio creatore
+glorioso.  E perch@e S. Joanni evangelista fue tale saettatore,
+per@o l'Auttore lo introduce a parlare di caritade e fallo
+domandare ^ove s'appunta tua caritade~, ci@o @e ^che cosa @e quella
+che tu ami?~  palesa quello segno a che lo tuo amore saetta, et
+hai per termine ^ad quem.~  E fae tale domanda, imper@o che, se
+l'uomo non avesse noto tale termine, vel tal segno, egli non
+sarebbe perfetto tale atto; ch'elli @e pur bisogno l@a dove dee
+esser tale virtute, ch'ello li sia quello che ama, e sievi ancora
+quello ch'@e amato.  Onde, s@i come dice S. Tommaso nella ^Prima
+secundae~, questione LXIJ ad IJ articulum: ^Objectum charitatis
+est Deus~ etc.  Onde @e bisogno che chi ha tal vertude, suo amore
+s'appunti in Dio.  Alla sobjunzione che fae della vista fallata,
+apparer@a esposizione del testo, ch'@e la cosa toccata.  Alla terza
+cosa s@i @e da sapere che naturalmente lo bene dee essere amato,
+imper@o che esso bene @e perfezione di tutte cose; onde lo
+Filosofo: ^Omne imperfectum appetit perfecto.~  Or'@e bisogno che
+tal bene sia conosciuto, imper@o che, s'egli fosse ignoto e
+nascosto, egli non potrebbe essere amato; e cos@i tanto quanto
+egli @e conosciuto pi@u buono, cotanto @e pi@u amato.  Anch'@e da
+sapere che, s@i come dice lo Filosofo in II ^Phisicorum~, egli non
+@e processo in infinito nelle cagioni, s@i che gli @e necessario
+addivenire in una cagione, la quale sia cagione di tutte le altre
+cagioni, e ^per consequens~ d'ogni cosa che ha a essere; e questo
+si @e Iddio Creatore, lo qual'@e lo sommo bene; onde si segue che,
+per la sua escellenzia di bontade, egli debbia essere summamente
+amato: e questo appar per ragione naturale, e per scrittura
+rivelata.  Appare per lo Esodo IIJ et IV quando Iddio disse a
+Moyses: <Tu vedrai ch'io sono lo sommo bene, e quello che vive e
+che non mi muto>.  Ancor appare per S. Joanni nell'Apocalipsi I:
+^Ego sum Alpha et Omega, principium et finis, dicit Dominus Deus,
+qui erat, qui est, qui venturus est~ etc.  E per@o risponde
+l'Auttore che s@i d'argomenti filosofici, come da scrittura
+rivelata gli viene tale conoscibilitade di sommo bene, lo quale
+egli ama, s@i come li s'avviene, con tutto lo core, anima e mente. 
+Alla quarta cosa s@i @e da sapere che l'uomo naturalmente, quando
+egli si sente essere amato, egli @e quasi costretto di amare tale
+amator; onde l'Auttore nell'^Inferno~ V, 103, dice: ^Amor ch'a
+nullo amato amar perdona.~  E Agostino dice in libro ^De
+cathechizandis rudibus~: ^Nihil magis provocat ad amandum quam
+praevenire amando.~  Onde l'Auttore, veggendo Iddio tanto amare
+la generazione umana, che, per liberarla dalla subiezione del
+peccato, s@i si incarn@o lo verbo suo, e fue crocifisso e morto, s@i
+@e costretto ad amare Iddio et aver esso per segno fisso, nel
+quale s'appunta sua caritade e dilezione: onde l'Apostolo V:
+^Lavit nos a peccatis nostris in sanguine suo, sanguinem autem in
+passione effudit~ etc.  E lo Apostolo ad Galatas IV: ^Misit Deus
+filium suum sub lege, ut eos qui sub lege erant redimeret~ etc. 
+E cos@i manifesta l'Auttore, come appar nel testo, la forma della
+sua carit@a; e questo si @e quanto a Dio: quanto alle creature dice
+che tanto le ama quanto esse participano di bontade; e per@o
+l'ordine della sua carit@a si @e benivolo e pio; ch@e tanto quanto
+la cosa @e pi@u buona, tanto pi@u l'ama; unde Augustinus: ^Illa sola
+sunt diligenda ex charitate, quae nobiscum societate quadam
+referuntur in Deum.~  Alla quinta cosa s@i @e da sapere che
+l'Auttore pone che la escellenzia della vertude dello Evangelista
+gli privasse la vista; et intende qui per allegor$ia che non par
+verisimile che Dio debbia tanto amare uno uomo che non sostegna
+martiro, quanto uno che 'l sostenga; imper@o che noi siamo certi,
+quando noi udiamo d'uno martire, ch'esso fosse costante e
+ottegnente perfettamente l'amor della carit@a in Dio, perch@e
+chiaro appare ch'egli abbandona tutte le esteriori cose
+dell'anima sua, come ricchezze mondane, lo corpo proprio e la
+vita, solo per piacere al suo Creatore.  E che tale certezza sia
+vera, com'@e detto, la Ecclesia, s'ello @e provato martire, sanza
+altra inquisizione lo canonizza, la quale non potrebbe fallare
+circa cosa che appartenesse ad articolo, imper@o ch'@e retta per
+Spirito Santo.  Matthei ultimo: ^Et ero vobiscum usque ad
+consumationem saeculi.~  E questi cos@i fatti argomenti, la luce
+della virt@u visiva dell'Auttore avea tenebrata, pensando: S.
+Joanni evangelista, pure non ricevette martirio: perch@e dovette
+ello esser cos@i amato da Dio, e pi@u che S. Piero e S. Jacopo, gli
+quali furono suoi discepoli, siccom'egli, e sovracci@o martiri? 
+Alla quale illuminazione, vel ristituzione di visiva vertute,
+introduce Beatrice, ci@o @e la scienzia di teolog$ia; e pone, essa
+scienzia avere quella vertude ch'ebbe la mano d'Anan$ia alla vista
+di S. Paolo in restituirla, che fu in questo modo.  Egli si legge
+negli Atti degli Apostoli IX, che S. Paolo, innanzi ch'egli fosse
+cristiano, perseguiva molto lo popolo degli cristiani; e uno d@i
+and@o al principe degli Sacerdoti, ch'era in Jerusalem, e
+addimand@o lettere di legazione in Damasco, le quali gli dessono
+ragione di poter perseguire ogni cristiano che in quelle parti si
+trovasse e s'e' gli potesse pigliare, quelli menar presi in
+Jerusalem: la quale addomandagione piacque al detto principe, e
+fecegli fare le dette lettere.  Costui, avute queste lettere, con
+decente compagn$ia si mosse a suo viaggio: com'egli fue appresso
+di Damasco, et una luce gli sopravvenne da cielo, con una boce
+che disse: ^Saule, Saule, cur me persequeris?~  ed esso Saulo
+rispose: <Chi se' tu messere?>  e la boce rispose: ^Jesus
+Nazarenus sum, quem tu persequeris: durum est contra stimulum
+calcitrare~; et allora Saulo rispose tutto tremante e stupefatto:
+^Che debbio fare?~  e la boce rispose: <Va in Damasco, et ivi ti
+sar@a detto quello che tu avrai a fare>.  Quegli ch'erano con lui,
+udendo la boce e non veggendola, n@e alcuno stavano tutti
+stupefatti similemente.  Or S. Paulo, per la boce predetta e
+escellenzia di luce, cadde in terra; quando gli fu poi detto: <Va
+nella cittade>, lev@o suso, aperse gli occhi: nulla vedea: gli
+compagni che non aveano veduta la luce, non perdettero lo vedere,
+s@i che lo condussono nella cittade cos@i avocolato; e stette in
+tale essere tre d@i e tre notti che non vide, n@e mangi@o, n@e bevve. 
+In capo terzo d@i, fu ristituito della vista, vel luce, in questo
+modo: egli era uno discepolo degli Apostoli di Cristo, nome
+Anan$ia in Damasco, et in visione gli apparve Cristo, e disse: Va
+in quello v@icol, vel contrada, di Damasco, che si chiama Via
+dritta, e domanda, in casa d'uno ch'ha nome Juda, uno Saulo, e
+pogli la tua mano agli occhi, e sar@agli ristituita la vista. 
+Allora rispuose Anan$ia: <De'!  messere, ello @e mal'homo contra
+noi cristiani, egli ci persegue: sai ch'egli postul@o lettere
+contro noi cristiani, dal principe de' sacerdoti?>.  Allor
+rispose Cristo: ^Vade, quoniam vas electionis erit mihi iste, ut
+protet nomen meum coram regibus et gentibus et filiis Jsrael~
+etc.  And@o Anan$ia e trovollo; e puosegli la mano agli occhi, e
+fugli restituita la vista.  Allora lev@o suso, e fello battezzare;
+e fecegli poi dare da mangiare: ^et sic confortatus est~ etc.  E
+cos@i, a proposito, come la mano d'Anan$ia ristitu@i la vista a S.
+Paulo, cos@i la scienzia di teolog$ia ristitu@i all'Auttore la
+vista, ch'avea spenta per gli dubbj sopra detti.  In questo modo
+la scienzia di teolog$ia s@i @e sopra ogni nostro comprendimento
+naturale, e sopra ogni nostra possanza, e, s@i come pi@u volte noi
+abbiamo detto, per nostri naturali atti noi non potremmo
+acquistare, sanza grazia del Creatore, quella ultima beatitudine
+ch'@e vita eterna.  Adunque, se alcuna creatura ha beatitudine,
+elli fa bisogno che Dio per grazia condescenda ad elevare essa; e
+se tal dono egli d@a per grazia e suo proprio movimento, e in lui
+@e la cagione e non nella creatura, quale ragione contradice
+ch'ello non possa pi$ue amare, pi@u dar gloria ad uno che a un
+altro?  certo nulla: e noi lo veggiamo nella sopradetta storia,
+ch'ello volle condescendere a fare tanta grazia a S. Paolo,
+ch'era cos@i pessimo innanzi, come le sue opere manifestano, che
+poi fue esaltato sopra tali che innanzi di lui furono cristiani,
+n@e mai non aveano offeso n@e perseguito gli cristiani; et @e
+connumerato nel numero degli Apostoli: e cos@i poteo Dio amare S.
+Joanni sanza martiro tanto e pi@u a suo piacere, che quegli
+ch'erano martirizzati; e ^per consequens~ in tanta e maggior
+gloria costituirlo nella sua corte eterna.  E perch@e la scienzia
+di teolog$ia ne 'nsegna, ne mostra e additaci tal discrezione, di
+non considerare la cagione della gloria nelle creature; la quale
+scienzia, com'@e detto, l'Auttore figura Beatrice, per allegor$ia
+l'Auttore pone ch'essa Beatrice gli ristituisse la vista, come
+appar nel testo.  La sesta e la settima chiare appariranno nel
+testo esposto.  All'ottava s@i @e da sapere che l'Auttore avea in
+cuore di domandare Adamo di quattro cose, s@i com'@e detto; e
+perch@e Adam vedea in Dio lo concetto dello Auttore, s@i come nello
+speglio a cui nulla cosa @e secreta, sopravvenne a rispondergli
+innanzi che lo Auttore lo espremesse colla lingua; le quali cose
+sono utili a nostra fede: delle quali la prima si @e: quanto tempo
+@e ch'esso Adam fue plasmato e messo nel paradiso terrestre; e
+questo contradice ad alcune ragioni di filosofi che teneano che
+'l mondo era stato ^ab aeterno~, e ^per consequens~ le specie
+degli animali e quella dell'uomo: alle quali opinioni contradice
+la Sacra scrittura.  Genesis I: ^In principio creavit Deus coelum
+et terram:... et faciamus hominem ad imaginem et similitudinem
+nostram~ etc.  La seconda cosa di che egli volea domandare, s@i
+era quanto spazio di tempo esso Adam stette in istato
+d'innocenzia, ci@o @e sanza peccato, la quale domanda si @e utile
+per due ragioni, la prima si @e per conoscere la benivolenza, vel
+benignit@a, del Creatore, lo quale cre@o l'uomo in istato di
+grazia: la seconda per conoscere la fragilitade umana, la quale
+cade di leggero.  Alla prima @e scritto Eccles. 7: ^Deus fecit
+hominem rectum,~ la quale dirittura si era che la ragione, ch'era
+nell'uomo, era suddita a Dio: le possanze dell'anima erano
+suddite alla ragione; le possanze del corpo erano suddite
+all'anima; e cos@i ordinatamente ogni possanza, vel virtude, era
+suddita alla maggiore; lo quale ordine non era nell'uomo ^a
+natura~, ma eragli per grazia, s@i come dice Agostino: ^Si essent
+naturalia, post peccatum remansissent~; s@i come rimase negli
+demonj gli suoi naturali.  Dionisius in IV ^De divinis
+nominibus~, della quale drittura per grazia nell'uomo era dotata
+quella spezia, e questa spezia, questa grazia avea da quello
+benigno Creatore, ch'@e donatore d'esse.  Alla seconda appare la
+fragilitade della umana spezia, la quale, eziand$io avendo grazia
+sopra natura, non si sostiene, e di levarsi, per se stessa non si
+pu@o levare, ma bisognagli ajutorio; la quale apparizione dee
+essere all'uomo grande freno di non esser superbo e vizioso, n@e
+eziand$io per alcuni appetiti dispartirsi n@e elongarsi da Dio,
+ch'@e solo quello che pu@o ajutare e soccorrere alle bisogne; e per
+ch@e queste due cose appajano, introduce l'Auttore nel suo poema
+la seconda domandagione.  La terza cosa di che egli volea
+addomandare si era, qual'era lo peccato d'esso, per lo quale s@i
+segu@i a lui et agli suoi discendenti esser privi di quella grazia
+che aveano sopra natura, e poi nelle naturali virtudi, disordine;
+e questo si @e utile a manifestare la justizia del Signore, la
+quale pun$io tale peccato come si conven$ia; poi a manifestare la
+misericordia e pietade in incarnarsi lo suo Verbo, e ricevere
+passione e morte per la redenzione della umana specie.  Fue la
+pena dello loro peccato, in prima, che furono cacciati del
+paradiso terrestre: Genesis III: ^Remisit eum Dominus de paradiso
+voluptatis~ etc., lo quale luogo era conservativo e sano, rimosso
+da ogni aerea vel cibaria corruzione; secondo: convenne ad Adam
+procurarsi delle cose necessarie alla sua vita, ci@o @e lavorare,
+Genesis III: ^Maledicta terra in opere tuo, in labore comedes de
+ea cunctis diebus vitae tuae~ etc.  E soggiugne poi: ^Spinas et
+tribulos germinabit terra~, e questo fue ad Adam.  Ad Eva per
+pena fue lo tedio, ansietade et angoscia ch'ella portando e
+partorendo figliuoli port@o; unde nello predetto libro e capitolo:
+^In dolore paries~ etc.  Ancora la subiezione d'essa all'uomo, la
+quale contradice alla libertade, ch'@e nell'uomo grande
+prerogativa; onde nello predetto capitolo: ^Sub viri potestate
+eris~ etc.  Ad essi due insieme si ribell@o la carne allo spirito,
+tutto contrario ordine dello stato della innocenzia, com'@e detto. 
+Onde Agostino in XIIJ ^De Civitate Dei~: ^Postea quam praecepta
+facta est transgressio, confestim gratia deferente divina, de
+corporum suorum nuditate confusi sunt: senserunt enim motum
+inobedientis carnis~ etc.; e simile in Genesis III: ^Aperti sunt
+oculi amborum, et cognoverunt se esse nudos~ etc.  Ancora, s@i
+come erano in primo stato incorruttibili et immortali, cos@i dopo
+lo peccato furono corruttibili e mortali, e per@o dice nel
+sopradetto libro e capitolo: ^Pulvis es, et in pulverem
+reverteris~ etc.  E in cotale stato si trovarono essere dopo lo
+peccato messi dalla justizia di Dio, lo quale fae tutto suo
+adoperamente diritto e giusto.  Sapientia XIJ: ^Omnia facit
+numero, pondere et mensura~ etc.  La misericordia e la pietade
+che lo Creatore ebbe della predetta specie umana appare, per le
+autoritadi dette di sopra, quanto ne fue fruttuosa la
+incarnazione del Verbo di Dio, e la sua passione e morte, s@i come
+anche nello prefatio la Ecclesia canta: ^Mortem nostram moriendo
+destruxit~ etc.  La quarta cosa, di che egli volea domandare, s@i
+era che parlatura ebbe Adam nello mondo, la quale domandagione @e
+utile per sapere che a bene essere del mondo e della umana specie
+nostra, provvide che in essa fosse locuzione; onde lo Filosofo in
+II ^de anima~ XXVJ dice: ^Locutio inest homini propter bene esse~
+etc., lo quale bene @e perfezione, primo dello individuo, secondo
+della moltitudine: dello individuo, ch@e per locuzione impara
+scienzia; onde Prisciano dice della grammatica, ch'@e scienza di
+parlatura, ^Origo et fundamentum omnium liberalium artium.~ 
+Ancora per locuzione si conserva in vita, ch@e con ci@o sia che
+l'uomo sia animale soziabile, s@i come dice lo Filosofo nello I
+della ^Politica~, s'ello non avesse locuzione ello non potrebbe
+esser soziabile; e ^per consequens~ non potrebbe egli solo
+prepararsi le cose che sono necessarie, et utili al vitto et al
+vestito, e non si conserverebbe in vita.  Or similmente ha
+bisogno che locuzione sia alla moltitudine, imper@o che, se non
+fosse, non potrebbe esser legge; se non fosser leggi non sarebbe
+ordine; se non ordine, non si potrebbe conservare; onde Dio,
+vogliendo separare e dividere la moltitudine che seguit@o Nembrot,
+e che per loro superbia voleano montare a cielo facendo la torre,
+gli divise in parlatura in tale modo che l'uno non intendea
+l'altro; e perch@e tale divisione fue privazione di locuzione, poi
+che non s'intendeano insieme, incontanente tale moltitudine fue
+rotta, e loro intento ruinato in desolazione.  E cos@i per locum
+^ab obposito~, la locuzione @e conjuntiva degli individui, e
+genera moltitudine, e @e conservativa di quella; e cos@i, vogliendo
+Cristo generare moltitudine cristiana, diede agli Apostoli suoi
+grazia che ogni linguaggio intendeano; e cos@i la loro locuzione
+era comune a tutti.  Ancora veggiamo che la locuzione conserva
+molto la moltitudine, ch@e gi@a per una bella aringar$ia egli sono
+gi@a s@i rincorati e rinfrescati gli combattenti, che non si
+dipartono da insieme, anzi prendono morte; esemplo in Lucano
+nelle battaglie che fece Cesaro, e delle sue aringar$ie ch'ello
+fece alla sua gente a Salonichi, in quelle parti, quando vinse
+Pompeo.  Veduto come la natura provvide alla spezia umana di
+locuzione, s@i @e da sapere che la differenzia nella singularitadi
+lasc@o al piacer del parlatore; unde I ^Peryhermenias~: ^Vox est
+significativa ad placitum sine tempore est nomen~ etc., e cos@i
+appare la bontade del bello, dritto e pulito parlatore; ch@e, se
+l'uomo avesse dalla natura un singular parlare, e non gli
+aggiugnesse niente, lo lodo e 'l biasimo sarebbe della natura e
+non dell'uomo.  Ma perch@e l'uomo non ha se non dalla natura
+ch'egli @e animale loquente, e la singularitade hae da s@e, s@i gli
+si segue lodo vel biasimo di sua parlatura; e per@o gli Filosofi
+antichi compuosero l'arte del parlare, ci@o @e la rettorica, fra
+gli quali fue uno facondo, nome Omerio, lo quale parlava s@i
+pulitamente che ciascuno traeva a sua opinione, onde l'Auttore
+nell'^Inferno~ IV, 88: ^Quell'@e Omero poeta sovrano.~  Vedute le
+domandagioni che 'ntendea l'Auttore, e l'autoritade di quelle,
+nella nona cosa che tocca nel suo capitolo, fae l'Auttore
+rispondere a Adam, in prima alla terza domanda.  Or, perch@e in
+prima alla terza, che alla prima, non si pu@o assegnare altra
+ragione, se non che cadde meglio in acconcio all'Auttore per le
+sue rime, avvegnach@e ^transposita indem significant~; e dice che
+non fue lo gusto del legno per s@e la cagione del suo esilio, ma
+fue lo trapassar del segno.  Circa la qual cosa s@i @e da sapere
+che Dio cre@o, vel fece, al principio tutte le creature ^in numero
+pondere vel mensura~; or, se tutte le cose ebbono sua mensura, la
+spezia umana ebbe anch'ella la sua, fuori della quale, se essa
+per suo movimento escede, vel vuole escedere tale mensura, s@i
+pecca; e cotanto quanto quello escesso @e pi@u lontano da essa
+mensura, cotanto @e maggior peccato, s@i come noi veggiamo le
+vertudi essere locate in mezzo di due vizj; e cotanto quanto
+l'atto umano si dilunga pi@u dal mezzo, cotanto @e maggior vizio, e
+quando @e tanto dilungato che non pu@o pi@ue, allora @e egli pessimo
+vizio.  Or, creato l'uomo in sua misura naturale, et aggiuntogli
+sopra grazia, com'@e detto di sopra che la ragione era obbediente
+a Dio, le minori vertudi alle maggiori, lo corpo all'anima, et
+esso volle escedere quella mensura, questo segno in che era
+creato, quando intese diventare Iddio, che 'l serpente che 'l
+tent@o disse: Se voi mangiate di questo legno ^aperientur oculi
+vestri, et eritis sicut Dii, scientes bonum et malum~: Genesis
+III: chiaro si pu@o vedere la gravezza di quello peccato, perch@e
+^infinite~ volle escedere la sua misura, che per infinita
+distanzia elonga Dio dalla mensura umana, et eziand$io da ogni
+altra creatura, imper@o che alcuna mensura non puote essere tra lo
+Creatore e la creatura, che non sono sotto uno genere.  Adunque
+per la grande remozione che fece lo suo intento dalla mensura
+umana, s@i fue lo suo peccato gravissimo: e nota che solo questo
+trapassare di mensura, vel segno, fue la propria cagione della
+gravezza del peccato: seguesi poi la inobbedienzia, in quanto
+gust@o del legno a lui vietato, la quale, s'altro non avesse
+inteso che gustare lo legno, non era di tanta gravezza.  E prova
+Tommaso nella ^Secunda secundae~, quistione LXVIJ, articolo I,
+che lo legno non fue ^circa sensibilia~, s@i come sarebbe a questo
+fine, a sapere di che sapore egli era; ma fue suo intento ^circa
+spiritualia~; e provalo per questo modo: In Adam, nello stato
+della innocenzia, s@i obbed$ia lo corpo allo spirito, vel
+all'anima, s@i com'@e detto di sopra: adunque lo primo movimento
+non fue a concupiscere, vel desiderare inordinatamente cose
+sensibili; ma per che era creato in libero arbitrio, la ragione,
+per la predetta intenzione ch'ebbe, s@i si devi@o da Dio, onde
+desider@o spirituali cose inordinatamente, e questo fue lo volere
+essere Iddio: e per@o chiaro pu@o apparere lo testo, che del
+peccato d'Adam la propria cagione fue lo volere essere Iddio, lo
+quale @e fuori di quella mensura in che lo Creatore l'avea
+costituito e posto.  E risposto Adam alla terza domanda, risponde
+poi alla prima, e dice lo numero del tempo in due parti; la prima
+si @e quant'egli stette nel limbo, ci@o @e da che egli mor$io infine
+che Cristo ne venne a trarre esso e gli altri santi padri; e
+questo dice che fue 4302 anni; l'altra parte dice ch'esso visse
+al mondo 930 anni: s@i che abbiamo che, dacch@e Adam fue plasmato,
+fino che Cristo discese allo 'nferno, s@i @e 5232 anni: se
+abbattiamo gli anni che Cristo visse al mondo che furono XXXIIJ
+anni, resta che dalla plasmazione d'Adam infino alla nativit@a di
+Cristo @e 5199 anni: e questo s'accorda colla scrittura santa,
+Genesis V: ^Et factum est omne tempus quod vixit Adam nonigenti
+et triginta annis.~  Fue dalla plasmazione d'Adam fino a No@e,
+come appare nel detto capitolo, anni 2242; fue da No@e fino ad
+Abram anni 942; da Abram fino a Nabucco Dinosor fue anni 1425; da
+Nabucco Dinosor a Cristo fue anni 590: s@i che dalla plasmazione
+d'Adam a Cristo fue anni 5199.  Risposto Adam alla terza e alla
+prima domanda, risponde poi alla quarta, e dice, che sua
+locuzione fue tutta mutata innanzi che Nembrot cogli suoi seguaci
+edificasse la Torre: Genesis XJ: ^Faciamus nobis civitatem et
+turrim~ etc.  E adduce adesso la cagione, perch@e si mut@o la
+parlatura; e dice che l'uomo ha da natura, com'@e detto, lo
+parlare, ci@o @e essere animale loquente, ma la distinzione hae da
+suo piacere; e tale piacere si muta secondo la variet@a delle
+costellazioni; e le costellazioni sempre sono diverse e in
+conjunzioni e in aspetti, e in luoghi s@i che si segue che, se le
+costellazioni sono diverse e lo piacere @e diverso, e cos@i la
+distinzione del parlare @e diversa.  E che ci@o sia, adduce per
+esemplo esser tale varietade, perch@e Iddio s'appellava nel suo
+tempo I ci@o @e prima causa; poi in processo di tempo s'appell@o
+Dio, ^Ely~, Matthei XXVJ: ^Ely Ely~ etc.  E cos@i pu@o apparere a
+senso di sufficiente considerazione, che il volgare non @e
+stabile, anzi continuo @e in moto e variazione; e per@o quello uomo
+che sa eleggere una locuzione @e da tenere per saggio, e, da
+giudicare lo suo piacere onesto e virtudioso: e non @e piccola
+virtude; ch'elli si trova molti ch'hanno lo piacere s@i perverso,
+che sua lingua non proffera mai sanza sacramento, o con villana
+locuzione e vitoperosa.  Risposto Adam alla quarta, ora risponde
+alla seconda, e dice che tanto stette in istato d'innocenzia
+quanto @e dalla prima ora alla seconda, vel tanto tempo quanto
+briga lo sole a mutare quadra in ora sesta, quasi a dire una
+minima parte di tempo; e ci@o tolle l'Auttore dal Genesis IJ et
+IIJ, l@a dove @e scritto che come Cristo ebbe posta Eva con Adam
+nel Paradiso terrestre, e fattogli precetto: <d'ogni legno
+mangiate al vostro piacere, fuori di quello>; e lasciatigli lie,
+lo demonio, per invidia, in ispezie di serpente tent@ogli e
+fecegli peccare; onde sanza intervallo di tempo fue manifesta al
+demonio la condizione d'Adam e di Eva; e cos@i sanza intervallo
+sensibile corse a fare tale tentazione.  Or fuori da questa
+ultima risponsione, nella quale l'Auttore compie suo capitolo,
+potrebbe essere dubitazione, perch@e volle Iddio che l'uomo fosse
+tentato dal demonio?  Alla quale risponde Tommaso ^Secunda
+secundae~ questione CLXV, articolo I, e dice: la natura, vel
+spezia umana, avea da Dio per grazia che nulla creatura gli potea
+nuocere: ancora avea per grazia che gli buoni angioli gli poteano
+giovare e giovavano; cos@i fue conveniente e con ragione che gli
+mali angeli la tentassono; e s@i com'@e detto, egli non gli poteano
+nuocere sanza sua volontade, ch'egli erano in libero arbitrio,
+secondo quello detto dello Ecclesiastico: ^Deus reliquit hominem
+in manibus consili sui~; vollegli credere, ed ebbe inordinato
+appetito, et ello gli pervenne s@i com'@e detto di sopra.  Detta la
+'ntenzione dello Auttore, @e da espor lo testo al modo consueto.
+
+	|1-3.  Mentre dubbiava~: Ci@o @e stava stupefatto, e quasi
+dubitava di sua vista, la quale era spenta, ci@o @e ammorzata per
+la escellenzia dello Evangelista.  |Usc@i uno spiro~: Ci@o @e una
+voce usc@i della fulgida e chiara vista dello Evangelista.
+
+	|4-6.  Dicendo intanto~: Chiaro appare.  |Risensi~: Ci@o @e
+ritornila al tuo organo visivo.  |Consunta~: Ci@o @e raccolta nella
+mia.
+
+	|7-9.  Comincia~: Chiaro appare: qual'@e lo segno della
+tua caritade.  |E fa ragione~: Qui persuade l'Evangelista
+l'Auttore per torgli lo dubbbio.  |Defunta~: Ci@o @e morta.
+
+	|10-12.  Perch@e la donna~: Ci@o @e Beatrice.  |Dia region~:
+Tanto @e come sito divino, ci@o @e paradiso, vel luogo, che riceve
+informazione da Dio.  |Ha nello sguardo~: Ci@o @e gli suoi
+argomenti tale virt@u che ti apriranno gli occhi.  |Anan$ia~: Fu
+quello discepolo che allumin@o S. Paolo in Damasco, Actus
+apostolorum IX, s@i com'@e detto.
+
+	|13-15.  Io dissi~: Chiaro appare.  |Vegna~: Ci@o @e agli
+occhi miei, gli quali furono porte.  |Quand'ella~: Ci@o @e Beatrice
+m'entr@o in cuore.  |Con quel fuoco~: Ci@o @e con quello disiderio,
+collo quale io sono sempre, vegna rimedio a suo piacere.
+
+	|16-18.  Lo ben che~: Ci@o @e Iddio creatore.  |Alpha et
+Omega~: Ci@o @e principio e fine.  |Mi legge amore~: Ci@o @e ogni
+scrittura che d'esso parla, o lieve o fortemente, mel d@a a
+conoscere, s@i come sommo bene.
+
+	|19-21.  Quella~: Ci@o @e esso Evangelista.  |Che paura~:
+Quando disse: la donna che per questa etc.  |Abbarb@aglio~: Ci@o @e
+privazione di vista.  |In cura~: Ci@o @e in essercizio.
+
+	|22-24.  Angusto vaglio~: Quasi a dire pi@u sottilmente, e
+pi@u diffusamente @e bisogno che sia tua risposta.  |Chi drizz@o
+l'arco~: ^Hoc est~ qual @e la cagione che tu conosci questo ^Alpha
+et Omega~ per lo summo bene, e in esso drizzi tuo amore. 
+|Berzaglio~: S@i @e quello luogo dove si esercita per quegli
+ch'apparano a saettare.
+
+	|25-27.  E io~: Ci@o @e che per filosof$ia s@i @e da pervenire
+in una prima causa, la quale s@i @e cagione di tutto, con ci@o sia
+che non @e processo in infinito in cagioni per lo Filosofo nel II
+della ^Fisica~ e nella ^Metafisica.~  |E per l'autoritadi~: Ci@o @e
+per revelazione ch'abbiamo dallo Spirito Santo nella vecchia e
+nuova legge.  |Cotale~: Ci@o @e queste scritture m'impressionano e
+dispongonmi a tenere che tale amore sia da dirizzare in s@i
+perfetto segno.
+
+	|28-30.  Che 'l ben~: Ci@o @e quello che s'intende, vel
+conosce, essere bene, quello s@i @e amato, e cotanto quanto ha pi@u
+bene, tanto @e pi@u amato; onde lo Filosofo, nel proemio ^De
+anima~, vogliendo rendere benivolo l'auditore, comincia: ^Bonorum
+honorabilium~, quasi dica: Io ti dir@o d'uno escellente bene tra
+gli altri.
+
+	|31-33.  Dunque alla essenzia~: Ci@o @e la essenzia divina,
+dalla quale quanto bene @e nelle altre cose, tutto discende da
+quello.  Ioannis I: ^Omnia per ipsum facta sunt~ etc.
+
+	|34-36.  Pi@u che~: Ci@o @e la mente intelligente si dee
+muovere pi@u a questo bene, ch'@e cagione degli altri, che in altra
+cosa ad amarlo.  |Di ciascun~: Ci@o @e d'ogni intelligente, com'@e
+detto, che conosca che @e Dio, e per lo qual detto s'eschiude lo
+detto di quegli insipienti da tale intendere di che disse lo
+Salmista: ^Dixit insipiens in corde suo: non est Deus.~
+
+	|37-39.  Tal vero all'intelletto~: Qui intende Aristotile
+in libro ^De causis.~  |Scerne~: Ci@o @e mostra.  Fino a qui ha
+proceduto pure con argomenti fisici; ora viene alle autoritadi
+della Santa scrittura, che sono revelazioni di Spirito Santo.
+
+	|40-42.  Scerne la voce~: S@i com'@e scritto in Exodo III
+et IV: ^Ego sum Deus patrum vestrorum, ego sum qui sum~ etc.
+
+	|43-45.  Sc@ernimel tu~: Ci@o @e tu, Evangelista, nello
+Apocalissi: ^Ego sum Alpha et Omega~ etc.  |L'arcano~: Ci@o @e lo
+secreto del cielo.  |Laggi@u sovr'ogni~: Ci@o @e in Patmos, dove lo
+Evangelista scrisse lo Apocalipsi.
+
+	|46-48.  E io udi'~: Segue il poema, mostrando come fue
+detto per S. Joanni, per intelletto umano, e per autorit@a, cio@e
+per filosof$ia e sacra scrittura, ci@o @e: Conosci Dio esser sommo
+bene.
+
+	|49-51.  Ma di' ancora~: Ci@o @e, se altra cagione muoveti
+ad amarlo, se non perch'@e summo bene.  |Sicch@e tu~: Ci@o @e, dillo
+se altro ti tira ad amarlo.
+
+	|52-54.  Non fu latente~: Qui dice l'Auttore: el non mi
+fue celato, ch'ello volea ch'io manifestassi l'amor che ebbe
+Cristo quando per noi sparse lo proprio sangue.  |Dell'aguglia~:
+Ci@o @e di S. Joanni, che si dipinge in figura d'Aguglia e dice: ha
+differenzia dalla imperiale a quella di Cristo.  |Professione~:
+Ci@o @e mio convento.
+
+	|55-57.  Per@o ricominciai~: Chiaro appare che l'Auttore
+dice che ogni cagioni che pu@o concorrere ad amare Iddio sono in
+lui concorse, le quali sono lo esser dal Creatore lo mondo, lo
+quale fue produtto da lui benivolemente.
+
+	|58-60.  L'esser mio~: Ci@o @e e' m'ha fatto animale
+ragionevole e intellettivo benevolmente.  |La morte~: Ci@o @e: egli
+volle morire per la mia vita; ch@e, s@i com'@e detto, la morte di
+Cristo fue vita della generazione umana, la quale era morta per
+lo peccato del primo parente.  |E quel che spera~: Ci@o @e anche mi
+tira ad amarlo, la seconda vita, della quale speriamo noi
+Cristiani d'esser gloriosi, la quale ello per grazia ci concede.
+
+	|61-63.  Colla predetta~: Ci@o @e queste cose colle prime
+m'hanno insegnato lo diritto amore, e disviatomi dal torto e 'l
+vano.
+
+	|64-66.  Le frondi~: Detto dell'amore ch'ello hae a Dio,
+qui dice di quello ch'egli hae al prossimo et alle altre
+creature.  |Fronde~ e |orto~: Ci@o @e creature e mondo.  |Ortolano
+eterno~: Ci@o @e lo Creatore eterno.  |Am'io cotanto~: Ci@o @e quanto
+sono buoni cotanto gli amo.
+
+	|67-69.  S@i com'io taccio~: Qui segue 'l poema.  |Santo
+Santo Santo~: Ci@o @e costui ama bene, s@i come dee, s@i ch'@e santo;
+e replica lo santo, mostrando come gli santi beati n'aveano
+piacere ^pluries repetita placebunt~ etc.
+
+	|70-72.  E come al lume~: Qui recita come Beatrice gli
+rend@e la vert@u visiva, della quale era in privazione; e adduce
+per esemplo che, s@i come uno che abbia dormito si sveglia, e in
+quello luogo abbia grande luce (come avviene d'istate a quegli
+che dormono di meriggio) perch@e la vert@u, vel pupilla, @e stata
+nel sonno coperta dalla prima covertura dell'occhio, se subito si
+discuopre, non pu@o sostenere lo lume, ma conviene richiudere et
+aprire tanto l'occhio con alcune fricazioni, che la pupilla
+s'ausi a quello lume, e riceva ajuto dalla stimativa in questo
+modo che, aprendo e serrando il ciglio, s@i si conforma a tanto
+lume; cos@i in proposito Dante, per lo lume dello Evangelista era
+privo di sua luce; soccorso esso da Beatrice, com'@e detto,
+torn@ogli ogni virt@u; vel chiarezza, nell'animo.  |Augusto~: Ci@o @e
+grande.  |Si dissonna~: Ci@o @e ^privatur a somno.~  |Gonna~: Egli
+@e da sapere che, s@i come si hae per la notom$ia degli occhi,
+l'occhio @e composto di pi@u tuniche, l'una sopra l'altra, le quali
+nel centro hanno solo quello punto nella pupilla, dove lo numero,
+che ha la virt@u visiva, si termina; e per@o appella quelle tuniche
+l'Auttor |gonna~; e dice, |di gonna in gonna~, ci@o @e che la spera
+visibile prima appare nella estrinseca, che termina coll'aiere,
+poi vae infino al centro di tonica in tonica dell'occhio, e l@i,
+s@i come appare in II ^De anima~ del Filosofo, si multiplica, e
+poi si specchia nel senso comune etc.
+
+	|73-75.  Aborre~: Ci@o @e non distingue, vel avviluppa. 
+|S@i nescio~: Ci@o @e sanza scienzia per la subita vigilia, ci@o @e
+vegghiare.  |Fin che la stimativa~: Ci@o @e che la rende sciente.
+
+	|76-78.  Cos@i degli occhi~: Chiaro appare.  |Quisquilia~:
+Tanto @e dire come copertura.  |Col raggio de' suoi~: ^Supple~
+occhi, che sono le conclusioni teologiche.  |Che rifulgeva~: Qui
+poetando mostra che sono di grande chiarezza.
+
+	|79-81.  Onde que'~: Segue 'l poema.  |D'un quarto~: Ci@o
+@e che innanzi vide S. Piero, secondo S. Jacopo, terzio S.
+Giovanni, per lo quale smarr@i la vista; ora introduce Adam, s@i
+come appare: e questo si @e quello quarto di cui egli dice.
+
+	|82-84.  E la mia donna~: Ci@o @e Beatrice.  |Il suo~: Ci@o
+@e Dio.  |L'anima prima~: Ci@o @e l'anima d'Adam, ch'@e la prima.
+
+	|85-90.  Come la fronda~: Or qui esemplifica, s@i come
+esso Auttore, odendo che quello quarto lume era Adam, prese
+alcuno stupore, vel smarrimento, poi per se medesimo si rassicur@o
+per volergli parlare; e dice che, s@i come lo $albore percosso
+dello impeto del vento si china, e s@i come pianta vegetativa,
+rimaso lo impeto, per propria virt@u s@i si ridirizza, cos@i esso,
+stupendo del quarto lume per sua ignoranzia, dichiarato da
+Beatrice, si rassicur@o, e prese baldanza di parlare.  |Sublima~:
+Cio @e rileva vel ridrizza.  |Ella dicea~: Ci@o @e Beatrice.
+
+	|91-93.  E cominciai: O pomo~: Ci@o @e, o Adam, lo quale
+fosti solo produtto maturo, ci@o @e in perfetta etade, imper@o che
+poi tutti gli altri pomi, ci@o @e uomini, sono produtti nel mondo
+per altro modo, ci@o @e per generazione e imperfetta etade.  |O
+padre antico~: Chiaro appare, come da lui @e discesa la umana
+spezia.  |Nuro~: Ci@o @e nuora.
+
+	|94-96.  Divoto quanto~: Chiaro appare lo testo.
+
+	|97-99.  Tal volta~: Qui esemplifica che, s@i come per lo
+movimento estrinseco d'uno animale si stima lo vero di suo
+appetito, cos@i per lo sfavillare e movimento di radj di quello
+quarto lume estimava la benivola voglia ch'avea l'anima che v'era
+drento di compiacere a lui.
+
+	|100-102.  L'animal primajo~: Ci@o @e Adam.  |Gaja~: Ci@o @e
+chiara e gloriosa.
+
+	|103-105.  Indi spir@o~: Qui risponde Adam al disiderio
+dell'Auttore, prevenendo a sua domanda.
+
+	|106-108.  Nel verace speglio~: Ci@o @e in Dio.  |Che fa
+dell'altre~: Ci@o @e che tutto comprende, e nulla pu@o lui
+comprendere; e nota lo modo del parlare: la popilla si fa
+pareglio della cosa veduta, in quanto quella spera visiva,
+ch'entro vi si moltiplica, @e colorita e figurata al modo della
+detta cosa veduta; cos@i in Dio si vede tutto, e per@o in quanto
+ivi si vede, ello si pareglia a quelle cose che in lui si vedono;
+e per@o dice che fa di s@e pareglie l'altre cose.  |E nulla face~:
+Ci@o @e ch'altra cosa non @e che possa comprendere Dio: in esse non
+si pu@o specchiare.
+
+	|109-111.  Tu vuogli udire~: Qui tocca la prima domanda. 
+|Escelso~: Ci@o @e nel paradiso ^dilitiarum.~  |Ove costei~: Ci@o @e
+Beatrice.  |A cos@i lunga~: Ci@o @e a montare suso per la scala del
+paradiso, che, s@i come @e mostrato poetando, ascende di cielo in
+cielo.
+
+	|112-114.  E quanto~: Qui tocca la seconda domanda.  |E
+la propria cagione~: E qui tocca la terza.  |Del grande~: Ci@o @e
+contumacia per lo peccato.  |E l'idioma~: Qui tocca la quarta
+domandagione.
+
+	|115-117.  Or, figliuol mio~: Qui risponde alla terza
+domanda.  |Esilio~: Ci@o @e bando.
+
+	|118-120.  Quindi onde~: Qui risponde alla prima.  |Tua
+Donna~: Ci@o @e nello limbo, dov'era Virgilio, quando Beatrice lo
+domand@o in soccorso all'Auttore, come appare nello I dello
+^Inferno.~  |Quattromilia~: Chiaro appare.  |Concilio~: Ci@o @e
+questa conciliazione, nella quale io sono, ci@o @e paradiso.
+
+	|121-123.  E vidi lui~: Ci@o @e lo sole.  |Tornare~: Ci@o @e
+in tutte le costellazioni che sono nel zodiaco, appellate segni. 
+|Novecento~: Chiaro appare che sono anni.  |In terra fu'mi~: Ci@o
+@e vissi al mondo.
+
+	|124-126.  La lingua~: Qui risponde alla quarta. 
+|Innanzi ch'all'opra~: Ci@o @e alla torre di Nembrot.
+
+	|127-129.  Che nullo~: Ecco le ragioni perch@e si mutarono
+le loquele, ci@o @e che 'l distinto parlare segue lo piacere umano,
+e 'l piacere non @e fermo, anzi @e mobile, s@i in etade e s@i in
+costumi, e si muta per costellazione.
+
+	|130-132.  Opera naturale~: Chiaro appare.
+
+	|133-138.  Pria ch'io~: Ci@o @e in sua vita Dio s'appellava
+I, poi fu appellato Ely.  |E ci@o conviene~: Chiaro appare.
+
+	|139-142.  Nel monte~: Qui risponde alla seconda domanda,
+e dice |nel monte~, ci@o @e nel paradiso ^delitiarum.~  |Con vita
+pura~: Ci@o @e sanza peccato.  |Dalla prima~: Ci@o @e in quello
+^nunc~ ch'@e tra la prima ora e la seconda, ch'@e simile a quello
+termine che parte lo quarto orientale dallo occidentale, nello
+supremo emisperio, ch'@e uno punto, lo quale termine passa lo sole
+compiuta l'ora sesta.  E qui compie la sentenza del XXVI
+capitolo.

@@ -1,0 +1,59 @@
+Checking file 01.e
+Checking file 02.e
+Checking file 03.e
+Checking file 04.e
+Checking file 05.e
+Checking file 06.e
+Warning: single line paragraph at line 78
+>>>	|17.  Unghiate le mani~: chiama mani i piedi del cane.
+
+Warning: single line paragraph at line 209
+>>>	|65-68.  La parte selvaggia~, la parte popolare,
+
+Warning: single line paragraph at line 211
+>>>	|66. caccier@a l'altra~, i nobili,
+
+Warning: single line paragraph at line 268
+>>>	|104.  Cresceranno ei.~  Ei per illis, cio@e a quelli.
+
+Checking file 07.e
+Checking file 08.e
+Checking file 09.e
+Checking file 10.e
+Warning: single line paragraph at line 231
+>>>	|67.  Di subito drizzato~, o in piede, o verso me.
+
+Checking file 11.e
+Checking file 12.e
+Warning: single line paragraph at line 23
+>>>	|7.  Onde si mosse~; la ruina.
+
+Checking file 13.e
+Checking file 14.e
+Warning: single line paragraph at line 6
+>>>	|5.  E dove~: nel quale terzo girone.
+
+Checking file 15.e
+Warning: single line paragraph at line 3
+>>>	|2.  Aduggia~: adombra umidamente.
+
+Checking file 16.e
+Checking file 17.e
+Checking file 18.e
+Warning: single line paragraph at line 194
+>>>	|75.  Attienti~; acciocch@e non cadi gi@u dal ponte.
+
+Checking file 19.e
+Warning: single line paragraph at line 291
+>>>	|79.  Che i pi@e mi cossi~: di fuori del foro.
+
+Checking file 20.e
+Checking file 21.e
+Checking file 22.e
+Error at line 149: First indent not five spaces
+>>>         _
+
+Checking file 23.e
+Warning: single line paragraph at line 235
+>>>	|55.  Ch@e l'alta providenza~: Dio.
+

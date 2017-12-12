@@ -1,0 +1,758 @@
+	|Proemio.~  ^Buio d'inferno~ ec.  In questo XVI canto lo nostro autore 
+seguita ancora la cominciata materia; cio@e la purgazione 
+dell'iracundi.  E principalmente si divide in due parti, perch@e prima 
+finge che montino per quella nebbia; e come vi trov@o tra li altri uno 
+Lombardo che ebbe nome Marco, e con lui incominci@o a parlare; e mosso 
+uno dubbio duplicato, come lo cominci@o a solvere.  Ne la seconda finge 
+che Marco, continuando, dichiarato lo dubbio che elli li mosse in 
+parte, li compie ne la seconda lezione di dichiarare in tutto lo ditto 
+dubbio che elli mosse, et all'ultimo li mostra la sallita al quarto 
+girone, et incominciasi quive: ^Esce di mano a Lui~ ec.  La prima 
+lezione si divide in sette parti: imper@o che prima per comparazione 
+dimostra quanto era oscura quella nebbia, e lo modo che prese ad andare 
+per essa; ne la seconda finge che elli udisse quelli spiriti dimandare 
+misericordia, e quello che cantavano, quive: ^Io sentia voci~ ec.; ne 
+la terza finge come incominci@o a parlare ad uno di quelli spiriti lo 
+quale prima avea dimandato lui, et incomincia quive: ^Or tu chi se'~ 
+ec.; ne la quarta finge com'elli li manifesta com'elli @e vivo, e come 
+elli va suso et unde viene, e dimandalo chi elli @e, quive: ^Allor io 
+cominciai~ ec.; ne la quinta finge come quello spirito li risponde e 
+manifestali chi elli @e, quive: ^Lombardo fui~ ec.; ne la sesta finge 
+Dante com'elli muove uno dubbio a quello spirito, quive: ^Et io a lui~ 
+ec.; ne la settima finge che quello spirito, che avea nome Marco, li 
+dichiara lo dubbio, quive: ^Alto sospir~ ec.  Divisa la lezione, ora @e 
+da vedere lo testo co l'esponizione litterale e morale, o vero 
+allegorica.
+
+	|1-15.~  In questi cinque ternari lo nostro autore per similitudine 
+dichiara quanto era aspra quella nebbia, e 'l modo ch'elli tenne 
+andando per entro; e dice cos@i: ^Buio d'inferno~; cio@e l'oscurit@a 
+infernale, la quale io Dante provai, ^e di notte privata D'ogni 
+pianeta~; cio@e e lo buio de la notte; contra la quale notte anco avea 
+provato Dante quando fu ne lo inferno, dove era oscurit@a come di 
+notte; e tanto peggio che quanto noi abbiamo alcuna luce de le stelle e 
+da le pianete, e quive non era n@e stella, n@e pianeta, ^sotto pover 
+cielo, Quanto esser pu@o~; allora si dice povero lo cielo quando niuna 
+luce, n@e chiarezza @a; e cos@i fatto cielo quando @a di sotto da s@e 
+notte, l'@ae pi@u oscura che quello che @ae alcuna luce, ^di nuvol 
+tenebrata~; cio@e lo buio de la notte ditta di sopra, oscura di nuvoli, 
+sicch@e in somma dice che 'l buio de lo inferno, e de la notte privata 
+d'ogni pianeta, e di notte tenebrata di nuvolo sotto povero celo quanto 
+esser pu@o d'ogni luce; la quale cosa io provai nello inferno, ^Non fe 
+al viso mio s@i grosso velo~; dice Dante che non fece s@i grosso 
+coprimento ai suoi occhi, ^Come quel fummo~; ch'era nel terzo giro del 
+purgatorio, che sostenevano coloro che si purgavano dell'ira, ^vi~; 
+cio@e lo quale in quello luogo che ditto @e, ^ci coperse~; cio@e me e 
+Virgilio, ^N@e a sentir di cos@i aspro pelo~; cio@e lo velo non 
+solamente era grosso; ma era aspro alli occhi miei; e per@o dice n@e 
+velo di cos@i aspro pelo a sentire; le quali due cose impacciano li 
+occhi; cio@e lo coprimento grosso che non lassa trapassare la vista, e 
+l'aspro pelo che non lassa aprire l'occhio, lo quale vuole le cose 
+delicate; e per@o seguita: ^Ch@e l'occhio stare aperto non sofferse~; 
+per l'aspressa del velo ch'era d'aspro pelo tanto, che l'occhio nol 
+sofferse stando aperto: imper@o che inquetava l'occhio come farebbe uno 
+pelo aspro, se toccasse l'occhio.  E per questo d@a ad intendere che la 
+turbazione dell'ira ingrossa tanto ne la mente e diventa s@i aspra, che 
+accieca l'occhio de la ragione e de lo intelletto, sicch@e niente 
+possano vedere: imper@o che stanno chiusi et assorti dall'ira; e per@o 
+ben dice l'autore che scrisse lo libricciuolo, che si legge 
+continuamente ne la scuola: ^Impedit ira animum, ne possit cernere 
+verum~; de la quale cosa, arricordandosi lo iracundo e ricognoscendo lo 
+suo errore, se ne duole et emendasi e correggesi; e per@o sotto questa 
+finzione intende l'autore la coscienzia che ebbe de la turbulenzia de 
+l'ira che gi@a avea avuta, e cos@i n'ebbe contrizione, et emend@osi, 
+arrecandosi a tranquillit@a e pace.  E qui si pu@o muovere uno dubbio 
+testuale; come dice l'autore che pi@u grosso fu e pi@u aspro lo velo 
+del fummo e de la nebbia del purgatorio, che quello de lo 'nferno: con 
+ci@o sia cosa che quello de lo inferno dovesse essere pi@u nocivo: 
+imper@o che quive non @e mai sole, come finge che sia in purgatorio?  A 
+che si d@e rispondere ch'elli @e pi@u nocivo ne lo inferno che quive; 
+ma non all'autore, lo quale per lo inferno and@o come veditore de le 
+pene de' dannati; e per lo purgatorio finge ch'elli andasse come 
+purgatore dei suoi peccati, e per@o questa nebbia lo dovea pi@u gravare 
+che quella de lo inferno che non s'appartenea a lui; ma questa del 
+purgatorio s@i.  ^Unde~; cio@e per la qual cosa, ^la Scorta mia saputa 
+e fida~; cio@e Virgilio che significa ora la ragione teorica, la quale 
+@e saputa e fida, che non inganna, n@e non si lassa ingannare, ^Mi 
+s'accost@o~; cio@e a me Dante, ^e l'umero m'offerse~; cio@e mi porse la 
+spalla e fecemi spalla, a ci@o ch'io m'appoggiasse a lui.  E per questo 
+d@a ad intendere che in tale ripensamento de la turbolenzia de l'ira 
+l'omo si d@e fermare in su la ragione: imper@o che sensa essa non ne 
+potrebbe uscire sensa offensione, e d@esi intendere qui la ragione 
+teorica: imper@o che la pratica ragione e lo intelletto pratico sta 
+chiuso et impedito: imper@o che l'ira @e naturale a l'omo; e per@o 
+dice: ^Irascimini, et nolite peccare~; unde conviene avere grande aiuto 
+da la teorica a distinguere quale ira, e quando si vuole usare, e 
+quando no.  ^S@i come cieco va dietro a sua guida~; ecco che fa una 
+similitudine, ch'elli andava attenendosi a la spalla di Virgilio, come 
+va lo cieco di rieto a chi lo guida, ^Per non smarrirsi~; de la via, ^e 
+per non dar di cozzo~; cio@e per non percuotere col capo, ^In cosa che 
+'l molesti, o forse uccida~: imper@o che l'uno e l'altro @e possibile 
+al cieco, ^N'andava io~; cio@e Dante, ^per l'aire amaro e sozzo~; s@i 
+come dichiarato @e, ^Ascoltando 'l mio Duca che diceva~; cio@e 
+Virgilio: ^Pur guarda~; cio@e tu, Dante, ^che da me tu non sia mozzo~: 
+imper@o che, secondo la lettera, arebbe potuto cadere a terra del 
+balso; e secondo l'allegoria, in tale considerazione arebbe potuto 
+errare sensa la ragione teorica.
+
+	|16-24.~  In questi tre ternari lo nostro autore finge quello che si 
+dicea per quelli spiriti, che erano ne la suddetta nebbia, dicendo 
+cos@i: ^Io~; cio@e Dante, ^sentia voci~; cio@e umane di quelle anime 
+che quive erano, ^e ciascuna~; di quelle voci, ^pareva Pregar per 
+pace~: per@o che al furore dell'ira @e contraria la pace, ^e per 
+misericordia~; la quale era loro necessaria da Dio, per avere la gloria 
+la quale aspettavano, e per potere stare ne la pace e quiete 
+dell'animo, ^l'Agnel di Dio~; cio@e Cristo, ^che le peccata leva~: 
+imper@o ch'elli @e quello agnello che fu immolato per noi a Dio Padre 
+in su legno de la croce, per liberare noi dal peccato; et ecco che 
+manifesta come, dicendo: ^Pur Agnus Dei eran le loro esordia~: imper@o 
+che cantavano li tre Agnus Dei che si cantano a la messa; cio@e ^Agnus 
+Dei, qui tollis peccata mundi, miserere nobis.  Agnus Dei, qui tollis 
+peccata mundi, miserere nobis.  Agnus Dei, qui tollis peccata mundi, 
+dona nobis pacem~; sicch@e li due primi dimandano misericordia, e lo 
+terzo pace.  ^Una parola in tutti era et un modo~: imper@o che tutti 
+cantavano quello che ditto @e, et ad uno modo, ^S@i che parea tra essi 
+ogni concordia~: imper@o che tra loro era perfetta carit@a, sicch@e non 
+si poteano se non accordare, ^Quei sono spiriti, Maestro, ch'io odo?~  
+Dimanda Dante Virgilio, se quelli ch'elli ode cos@i sono spiriti; e 
+per@o dice: ^Diss'io~; cio@e io Dante a Virgilio, ^et elli~; cio@e 
+Virgilio, ^a me~; disse, s'intende: ^Tu~; cio@e Dante, ^vero apprendi~; 
+cio@e che elli sono spiriti, ^E d'iracundia van solvendo il nodo~; 
+cio@e vannosi purgando del peccato dell'ira: ira et iracundia una 
+medesima cosa significa.
+
+	|25-36.~  In questi quattro ternari finge lo nostro autore che, quando 
+parlava cos@i con Virgilio, come ditto fu di sopra, uno di quelli 
+spiriti vedendolo, incominci@o a parlare a lui, dicendo: ^Or tu chi 
+se'~; dice quello spirito a Dante, ^che 'l nostro fummo~; nel quale noi 
+ci purghiamo, ^fendi~; andando tra esso, ^E di noi parli~; cio@e tu, 
+che vai, ^pur, come se tue Partissi ancor lo tempo per calendi~; cio@e 
+come tu fussi ancora vivo?  Chi vive nel mondo divide lo tempo per 
+anni, per mesi, per settimane, per d@i, per ore, e punti, e minuti; chi 
+@e passato di questa vita non sente discorso di tempo, e per@o quelli 
+de lo inferno, n@e del purgatorio, n@e del paradiso @anno discorso di 
+tempo; e per@o @ae detto ^come partissi lo tempo per calendi~; cio@e 
+per mesi che @anno lo primo d@i che si chiama calende, e dal calende 
+del mese si denominano nel calendario li d@i del mese che va inanti, 
+poich@e sono dinominati di po' 'l calende li d@i che si nominano da 
+^nonas~ in qual mese 6, et in qual 4; e poi li 8 d@i che si nominano da 
+^idus~ come appare nel ditto libro; lo quale modo trovonno li Romani, 
+per potere publicare li mercati che si facevano, e le fiere s@i che li 
+ladroni nol sapesseno, e questo modo soleano servare li notari pisani 
+ne' loro atti, come appare a chi n'@e pratico.  ^Cos@i per una voce 
+ditto fue~; a me Dante, come detto @e di sopra, ^Unde 'l Maestro mio 
+disse~; cio@e Virgilio a me Dante: ^Rispondi~; tu, Dante, al dimando 
+suo, ^E dimanda~; cio@e tu lui, ^se quinci si va sue~; al quarto 
+girone.  ^Et io~; cio@e Dante dissi: ^O creatura, che ti mondi~; cio@e 
+ti purghi da la colpa del peccato commesso nel mondo, ^Per tornar bella 
+a Colui che ti fece~; cio@e Iddio.  Et @e qui da notare che pare a chi 
+non guarda sottilmente che la purgazione non sia necessaria, dicendo: 
+Se l'omo lassa lo peccato, non vasta?  A che si d@e rispondere che non: 
+imper@o che l'anima non pu@o tornare al suo Fattore, se non tale quale 
+elli l'@a fatta; et Iddio produce tutte l'anime, e crea pure e nette 
+senza macula.  Cade l'anima coniunta col corpo nel peccato, e 
+bruttasene, e lo corpo ne la bruttura del peccato, come lo cavalcatore 
+quando cade elli e 'l cavallo nel loto, che n'esce lotoso, e renoso; et 
+a volere essere come di prima, conviene lavarsi nell'acqua a ci@o che 
+tornino mondi come di prima, altramente si rimarrebbeno brutti come 
+prima, come la cosa bianca, poich@e @e bruttata nel fango; e per@o 
+conviene che si lavi co la virt@u de la penitenzia l'anima, poi che @e 
+bruttata nel peccato, inansi che ritorni pura; e per@o ben dice 
+l'autore: ^O creatura, che ti mondi~ ec. ^Meravillia udirai~; tu, 
+anima, ^se mi segondi~; cio@e se tu mi seguiti.  ^Io ti seguiter@o~; 
+ecco che risponde quell'anima a Dante, dicendo: ^Io ti seguiter@o 
+quanto mi lece~; cio@e quanto m'@e licito, ^Rispuose~; cio@e la ditta 
+anima, ^e se veder fummo non lascia~; cio@e noi insieme, ^L'udir ci 
+terr@a giunti in quella vece~; cio@e in scambio del vedere ser@a 
+l'udire: imper@o che per lo fummo non si poteano vedere.
+
+	|37-45.~  In questi tre ternari lo nostro autore finge come elli 
+rispuose a la sopra ditta anima; e come li dimand@o del montamento 
+all'altro girone, dicendo cos@i: ^Allor~; cio@e allora, ^io cominciai~; 
+cio@e io Dante a parlare a la ditta anima in questa forma che seguita: 
+^Con quella fascia~; cio@e col corpo che circunda l'anima, per@o la 
+chiama ^fascia, Che la morte dissolve~; cio@e disf@a: la morte disf@a 
+la coniunzione dell'anima col corpo, ^men vo suso~; cio@e a vedere la 
+gloria de' beati, ^E venni qui~; cio@e nel purgatorio, ^per l' 
+infernale ambascia~; cio@e passando per la fatica et angoscia 
+infernale.  ^E se Dio m'@a in sua grazia richiuso~; dice Dante a la 
+ditta anima; cio@e se Dio m'@a messo ne la sua grazia, ^Tanto, che vuol 
+ch'io veggia la sua corte~; cio@e vita eterna, ^Per modo tutto fuor del 
+moderno uso~: imper@o che per questo modo non @e usato niuno a vederla 
+al presente: imper@o che al suo tempo non era nessuno, che per poes@i 
+trattasse di questa materia; sicch@e ben dice che 'l modo @e fuor 
+dell'uso moderno, ^Non mi celar chi fosti~; cio@e tu nel mondo, ^anzi 
+la morte~; cio@e mentre che vivesti nel mondo, ^Ma dilmi~; quello ch'io 
+t'@o dimandato, ^e dimmi s'io vo ben al varco~: cio@e a lo luogo da 
+montare, ^E tuoe parole fien le nostre scorte~: imper@o che anderemo 
+segondo che tu dirai.
+
+	|46-51.~  In questi due ternari lo nostro autore finge come 
+quell'anima, a la quale avea parlato, si li nomina et insegnali la 
+montata, dicendo: ^Lombardo fui~; dice lo spirito addimandato a Dante, 
+^e fui chiamato Marco~; ecco che manifesta lo suo nome.  Questo Marco 
+fu veneziano, chiamato Marco Daca, e fu omo molto saputo et ebbe molto 
+le virt@u politiche e fu cortesissimo, donando ai nobili poveri omini 
+cioe che lui guadagnava, e guadagnava molto: per@o ch'era omo di corte, 
+e per la virt@u sua era molto amato e donatoli molto dai signori; e 
+come elli dava a chi avea bisogno, cos@i prestava a chi lo richiedeva.  
+Unde venendo a morte et avendo molto a ricevere, fece testamento, e fra 
+li altri iudizi fece questo; cio@e che chiunqua avesse del suo, tenesse 
+e nessuno fusse tenuto a rendere, dicendo: Chi @a si tenga; e per@o 
+dice l'autore ch'elli li disse: ^Del mondo seppi~: imper@o che fu ben 
+pratico omo del mondo, ^e quel valore usai~; cio@e le virt@u politice, 
+e la cortesia massimamente, ^Dal qual~; cio@e valore de le virt@u e de 
+la cortesia, ^@a or ciascun disteso l'arco~; cio@e niuno vi d@a pi@u 
+entro in quel segno de le virt@u politiche e de la cortesia; cio@e 
+ciascuno n'@a levato lo desiderio e la intenzione, niuno v'intende pi@u 
+al presente.  ^Per montar su~; cio@e al quarto balso, ^dirittamente 
+vai~: imper@o che questa @e la via diritta; cio@e la via de la 
+penitenzia: imper@o ch'ella ci mena in vita eterna, ^Cos@i rispuose~; 
+cio@e Marco a me Dante, ^et aggiunse: Io ti prego~; cio@e Marco adiunse 
+al suo dire: Io ti prego Dante, ^Che per me preghi~; cio@e lo nostro 
+signore Iddio, ^quando su serai~; cio@e quando serai inanti a lui in 
+vita eterna.
+
+	|52-63.~  In questi quattro ternari lo nostro autore finge come elli 
+rispuose a Marco, promettendoli di fare quello che elli addimandava; e 
+come li mosse uno dubbio, dicendo cos@i: ^Et io a lui~; cio@e a Marco: 
+^Per fede mi ti lego~; cio@e per fede ti iuro, ^Di far ci@o che mi 
+chiedi~; cio@e di raccomandarti e pregare Iddio per te, come m'@ai 
+addimandato, ^ma io scoppio Dentro ad un dubbio~; cio@e io desidero 
+d'avere dichiaragione fortemente d'uno dubbio, e creperei s'io non 
+l'aprisse; e per@o dice: ^s'io non me ne spiego~; cio@e s'io non me ne 
+dichiaro, cio@e s'io non me ne apro e spaccio, che sono implicito in 
+esso; et @e qui colore retorico significatore per esuperatore.  ^Prima 
+era sempio~; cio@e simplice lo mio dubbio, ^et or @e fatto doppio~; lo 
+dubbio mio, ^Ne la sentenzia tua~; la quale tu dicesti di sopra; cio@e 
+^Dal qual @a or ciascun disteso l'arco~, -- che; cio@e la qual 
+sentenzia, ^mi fa certo~; cio@e quello che dici del mondo esser vero, 
+^Qui~; cio@e in questo @e lo mio secondo dubbio, ^et altrove~; cio@e in 
+uno altro luogo @e, ^quell'onde io l'accoppio~; cio@e lo primo mio 
+dubbio; unde io accosto li du' dubbi insieme dei quali l'uno era; se li 
+cieli sono cagione de la corruzione del mondo; l'altro dubbio era se ne 
+sono cagione li omini o la natura corrutta, come pare che dica Marco.  
+Et accoppiando questi due dubbi insieme, pone questa sentenzia; cio@e 
+io Dante veggo questo essere vero; cio@e che ^Lo mondo @e ben cos@i 
+tutto diserto~; cio@e abbandonato, ^D'ogni virtute~; o vero politiche, 
+o vero teologiche, ^come tu mi sone~; cio@e come tu, Marco, mi dici ne 
+la tua sentenzia, ^E di malizia gravido~; cio@e pregno @e lo mondo, 
+come tu mi dici, ^e coverto~; e di questo mi fa certo la tua sentenzia; 
+ma io vorrei esser certificato del primo dubbio, e del secondo: imper@o 
+che io abbo ora per le tuoe parole nuovo dubbio; prima n'avea uno, 
+cio@e se de la corruzione del mondo ai vizi, come detto @e e pare per 
+le cose dinansi, sia cagione lo movimento del cielo, come disse 
+Virgilio ne la prima cantica: ^infin che il veltro Verr@a~ ec.; o enne 
+cagione la natura umana per s@e corrotta, che abbia fatto lo mondo 
+corrotto e scacciato le virt@u da esso: imper@o che la tua sentenzia 
+pare dare la cagione alli omini, in quanto dicesti: ^Dal qual @a or 
+ciascun disteso l'arco~.  E questo @e lo secondo dubbio che l'autore 
+finge esser mosso per la sentenzia di Marco: imper@o che 'l primo avea 
+da s@e; cio@e che 'l mondo fusse corrotto a malizia per la influenzia 
+dal cielo; e per@o muove la questione, dicendo: ^Ma prego~; cio@e te 
+Marco, ^che m'additi~; cio@e che mi dimostri, come si dimostra col 
+dito, ^la cagione~; di questa corruzione; se @e influenzia celeste, o 
+se @e la natura umana che per s@e medesma si corrompe, ^S@i ch'io~; 
+Dante, ^la veggia~; la cagione de la corruzione, ^e ch'io la mostri 
+altrui~; cio@e ai lettori, che leggeranno questo libro.  ^Ch@e~; cio@e 
+imper@o che, ^nel Ciel @e uno~; cio@e Iddio che @e cagione prima di 
+tutte le cagione, e li cieli che sono cagioni seconde riceveno 
+movimento de la prima; sicch@e Iddio cagiona per mezzo de le seconde 
+cagioni li effetti qua gi@u nel mondo, se non se in quelle cose che 
+immediatamente procedeno pur da lui, come la creazione dell'anime, la 
+beatificazione dei santi e simili cose; e per@o dice: ^et un~; cio@e 
+Iddio, ^quaggi@u~; cio@e nel mondo, ^la pone~; cio@e la cagione.  Et in 
+queste parole pone l'opinione delli Astrologi la quale elli danna: 
+imper@o che se i cieli sono cagione d'ogni nostro atto, et Iddio @e 
+cagione del movimento de' cieli, dunqua Iddio @e cagione d'ogni nostro 
+atto, dunqua Iddio @e cagione de la nostra corruzione; la quale 
+conclusione @e falsa, e per@o l'autore dimostra come si debbia arrecare 
+a suo intendimento, di sotto quando dice: ^Lo Ciel i vostri movimenti~; 
+le quali sono parole di Marco, lo quale finge l'autore che dichiarasse 
+questi dubbi.  E questa @e bella e notabile dubitazione; cio@e chi @e 
+cagione che la virt@u sia abbandonata al tutto, e la malizia sia 
+seguitata a li omini, @e l'enfluenzia del cielo: imper@o che se Iddio 
+@e prima cagione d'ogni cosa, come pu@o essere nel mondo privamento di 
+bene et incitamento di male?  E questi due dubbi l'autore nostro 
+solver@a ne la parte che seguita, e ne l'altra.
+
+	|64-84.~  In questi sette ternari lo nostro autore finge come Marco 
+risponde ai suoi dubbi, dimostrando che la privazione de la virt@u e la 
+corruzione de la malizia, ch'@e nel mondo, procede dalli omini e non 
+dal cielo, dicendo cos@i: ^Alto sospir~; cio@e profondo che venne dal 
+cuore: lo sospiro viene dal polmone che sfiata forte, per dare 
+scialamento al cuore che @e angustiato da dolore; e per@o dice che 
+Marco, avendo dolore di quil che Dante dicea, e s@i perch@e cos@i era 
+come dicea de l'abbandonamento de la virt@u e de la corruzione de' 
+vizi, e si perch@e vedea Dante avere falsa opinione, come pieno di 
+carit@a dolsesi dell'uno e dell'altro, e per@o dice: ^che~; cio@e lo 
+quale sospiro, ^duolo strinse in hui~: imper@o che non compi@e di 
+metter fuora tutto 'l sospiro; ma finitte in questa voce ^hui~, che @e 
+^interiectio dolentis~; cio@e voce che significa dolore, ^Misse fuor 
+prima~; cio@e Marco lo ditto sospiro, ^e poi cominci@o~; a parlare a 
+Dante, dicendo: ^Frate~; questo @e vocabulo che viene da carit@a, ^Lo 
+mondo~; cio@e li omini del mondo, ^@e cieco~; perch'@e ignorante de la 
+verit@a, ^e tu vien ben da lui~; cio@e dal mondo: imper@o ch'io ti 
+veggo cieco de la verit@a, come sono li altri.  ^Voi~; cio@e omini, 
+^che vivete~; cio@e che siete nel mondo in vita, ^ogni cagion recate~; 
+cio@e del bene e del male, ^Pur suso al Cielo~; dicendo che 'l cielo co 
+le suoe influenzie sia cagione d'ogni cosa, ^s@i come se tutto Movesse 
+seco di necessitate~; lo cielo, lo movimento del quale bench@e sia 
+cagione di molte cose, non @e cagione d'ogni cosa.  E bench@e fusse 
+cagione d'ogni cosa, non sarebbe necessaria; ma cagione motiva a la 
+quale si pu@o resistere: imper@o che, bench@e i primi movimenti non 
+siano in nostra potest@a, la resistenzia pur @e in nostra potest@a, 
+come si mosterr@a di sotto; e per@o dice: ^Se cos@i fusse~; cio@e che 
+'l cielo movesse ogni cosa di necessit@a, seguitrebbe questo 
+inconveniente; cio@e che, ^in voi~; cio@e omini, che vivete nel mondo, 
+^fora destrutto Libero arbitrio~: imper@o che se fussemo necessitati da 
+le influenzie del cielo, non aremmo libero arbitrio, e se cos@i fusse 
+seguitrebbe che noi non meritassemo, n@e demeritassemo; e cos@i serebbe 
+in iustizia meritare li buoni e punire li riei; e per@o dice: ^e non 
+fora giustizia Per ben letizia, e per male aver lutto~; cio@e pianto e 
+pena, di chi @e cagione lo tormento; e cessata via questa falsa 
+opinione, adiunge la vera sentenzia sopra questa dubitazione, dicendo: 
+^Lo Ciel i vostri movimenti~; cio@e di voi omini, che siete nel mondo, 
+^inizia~; cio@e incomincia.  Qui @e da notare che li nostri movimenti o 
+sono corporali tanto, o animali tanto, o meschiati; corporali tanto, 
+cio@e moversi a mangiare per fame; spirituale o vero animali tanto, 
+moversi ad intendere la verit@a; meschiati sono muoversi a mangiare per 
+fame e per diletto.  Li corporali movimenti cagionano li cieli, et anco 
+in parte li meschiati; ma li animali alcuni immediatamente sono 
+cagionati da Dio, come lo movimento di dimandare la grazia di Dio et a 
+le virt@u teologiche, et alcuni da Dio mediatamente; cio@e per mezzo 
+dei cieli e de le seconde cagioni, come lo movimento a le virt@u 
+politiche; ma lo movimento al vizio @e cagionato da la natura corrotta. 
+ E per@o l'autore parla come seguita, correggendo lo suo ditto; ma 
+secondo li Astrologi lo cielo cagiona tutti li nostri movimenti; e 
+per@o parlando come astrologo dice tutti, e poi come teologo corregge 
+lo suo ditto; cio@e ^Non dico tutti~; li vostri movimenti di voi omini 
+che vivete, e cos@i corregge lo ditto di prima; cio@e che 'l cielo 
+incomincia li nostri movimenti; ma non tutti, ^ma, posto~; cio@e 
+conceduto, ^ch'io 'l dica~; che nol dico per@o, ^Lume v'@e dato~; cio@e 
+a voi omini; cio@e lo intelletto, lo quale @e dato immediatamente da 
+Dio, ^a bene et a milizia~: imper@o che naturalmente l'omo @a la 
+discrezione del bene e del male, ^E libero voler~; cio@e la volont@a 
+libera, ^che s'affatica Ne le prime battallie~, cio@e a combattere coi 
+primi movimenti, ^col Ciel dura~; cio@e @e sofficente a resistere ai 
+movimenti celesti che vegnano da le influenzie, che bench@e non siano 
+in nostra podest@a, la resistenzia @e pure in nostra podest@a; e cos@i 
+pur secondo la sentenzia de li Astrologi noi siamo incitati; ma non 
+necessitati e siamo abili a resistere, e non che a resistere; ma a 
+vincere; e per@o dice: ^Poi vince tutto~; cio@e ogni incitazione, ^se 
+ben si notrica~; cio@e se l'omo s'alleva addottrinato et adusato a le 
+virt@u e buoni costumi: per@o che si dice: ^Sapiens dominabitur 
+astris~.  E corretta la falsa opinione de li Astrologi, e mostrato come 
+pu@o essere vera; cio@e che le influenzie celesti muoveno; ma non 
+necessitano, adiunge la vera sentenzia de' Teologi, dicendo: ^A maggior 
+forza~; che quella de le influenzie dei cieli, ^et a millior natura~; 
+che quella dei celi; cio@e a la forza e natura di Dio, la cui forza 
+ogni cosa vince e la sua natura avanza ogni altra natura, ^Liberi 
+soggiacete~; voi omini; cio@e siete sottoposti a Dio, e niente di meno 
+siete liberi: imper@o che in tanto @e l'omo libero, in quanto @a 
+possibilit@a d'operare secondo la ragione; et intanto l'omo opera 
+secondo la ragione, in quanto si sottomette a Dio; dunqua in tanto @e 
+l'omo libero, in quanto serve Iddio, ^e quella~; cio@e forza e natura 
+divina, ^cria La mente~; cio@e l'anima ragionevile et intellettiva, ^in 
+voi~; omini, ^che 'l Ciel~; la qual mente lo cielo, ^non @a in sua 
+cura~; cio@e non @e sotto posta la mente umana ai movimenti dei celi.  
+^Per@o, se il mondo presente~; cio@e li omini, che sono al presente nel 
+mondo, ^disvia~; cio@e esceno fuor de la via et abbandonano le virt@u, 
+^In voi @e la cagione~; cio@e in voi omini, ^in voi~; cio@e omini, ^si 
+cheggia~; cio@e si cerchi, e non ne' movimenti dei cieli, ^Et io~; 
+cio@e Marco, ^te ne ser@o or vera spia~; cio@e sar@o a te Dante vero 
+trovatore de la ragione, che questo mostra e prova; cio@e che la 
+cagione @e in voi, e non in ne' celi, che le virt@u siano abbandonate: 
+imper@o ch'io mostrer@o ch'@e la cagione che li omini sono diventati 
+viziosi, e per consequente perch@e @anno abbandonato le virt@u: imper@o 
+che quive, dov'@e lo vizio, non pu@o esser la virt@u, perch@e le cose 
+contrarie non possano insieme essere in uno subietto.  E qui finisce la 
+prima lezione, bench@e non sia finita la determinazione de la 
+dubitazione, la quale si finir@a ne la seguente lezione del canto XVI.
+	^Esce di mano~ ec.  Questa @e la seconda lezione del canto XVI, ne la 
+quale l'autore finge che Marco compie di dichiarare, secondo la vera 
+sentenzia de' Teologi, lo dubbio duplicato mosso da Dante et 
+incominciato a dichiarare da Marco ne la precedente lezione; e come 
+l'insegn@o la via da montare al IV balso.  E dividesi questa lezione in 
+6 parti, perch@e prima finge che Marco dichiari la produzione 
+dell'anima umana da Dio in simplicit@a, e come s'inganna per questi 
+falsi beni; ne la seconda, come a rimedio contra lo inganno di s@i 
+fatti beni mondani funno fatte le leggi, e perch@e li signori non le 
+fanno osservare, la gente @e diventata corrotta, quive: ^Le leggi son~ 
+ec.; ne la terza specificatamente dichiara come la discordia del papa e 
+de lo imperadore @e la cagione del mondo corrotto, quive: ^Soleva Roma~ 
+ec.; ne la quarta dimostra per effetto come lo papa, per occupare lo 
+temporale e lo spirituale, @e cagione del guastamento del mondo, quive: 
+^In sul paese~ ec.; ne la quinta finge l'autore ch'elli dimandasse a 
+Marco dichiaragione d'alcuno ditto di sopra, e confessasse quello che 
+avea detto, quive: ^Marco mio~ ec.; ne la sesta finge come Marco li 
+risponde, e come l'insegna la montata, e come si diparte da lui, quive: 
+^O 'l tuo parlar~ ec.  Divisa la lezione, ora @e da vedere lo testo co 
+la esponizione litterale, allegorica, o vero morale.
+
+	|85-96.~  In questi quattro ternari lo nostro autore finge come Marco, 
+avendo in generale dichiarato che la cagione de la corruzione del mondo 
+sono li omini e non le costellazioni del cielo, dichiara ora 
+singularmente come li omini si corrumpeno ai vizi per loro cagione, 
+dicendo cos@i incominciando da la creazione dell'anima, e cos@i 
+conferma quello che ditto fu di sopra.  ^Esce l'anima~; cio@e umana, 
+^simplicetta~: imper@o che Iddio la produce simplice e pura sensa 
+malizia: imper@o che l'anima @e pura forma e simplice, ^di mano a Lui~; 
+cio@e a Dio, del quale fu ditto di sopra; e cos@i manifesta che l'anima 
+umana immediatamente @e creata di niente da Dio, ^che la vagheggia~; 
+cio@e che la vede con piacimento: imper@o che Dio @a piacere de la sua 
+operazione, ^Prima che sia~: imper@o che ab eterno Iddio ebbe notizia 
+di tutte l'anime umane che dovea creare, et a che ciascuna dovea 
+divenire, e non che Dio dell'anime; ma di tutte le cose; e dice che 
+^Esce di mano~; cio@e de la sua potenzia: imper@o che la mano di Dio @e 
+la potenzia sua, e de la potenzia del creatore viene l'atto de la 
+produzione de la creatura; e dichiara in che condizione Iddio la crea, 
+per similitudine dicendo: ^a guisa di fanciulla~; cio@e a similitudine 
+d'una fanciulla, ^Che piangendo e ridendo parguleggia~; cio@e ora 
+piange, ora ride, come fanno li fanciulli; e per questo d@a ad 
+intendere che naturalmente siamo disposti a le passioni, e con quella 
+disponizione nasciamo e siamo mutevili, come si vede ne' fanciulli; et 
+adiunge all'anima semplicetta questo, ^che sa nulla~; cio@e la 
+qual'anima niente sa; cio@e n@e bene, n@e male; cio@e in atto; ma bene 
+in potenzia: imper@o che Iddio la crea potente avere notizia del bene e 
+del male particularmente, come in generale @ae secondo natura notizia 
+di quello, e questo determina e dichiara quello adiettivo 
+^simplicetta~, et accordasi col Filosofo che dice: ^Anima humana est 
+tamquam tabula rasa, in qua nihil est pictum~; e perch@e @a ditto ^che 
+sa nulla~, fa ora una eccezione necessaria; cio@e che l'anima 
+naturalmente @a notizia del sommo bene, e per@o n'@ae desiderio.  Dice 
+Boezio nel secondo de la Filosofica Consolazione: ^Est enim mentibus 
+hominum veri boni naturaliter inserta cupiditas~; e questo @e 
+perch'ella viene quinde, unde vera prova @e che l'anima umana sia 
+creata da Dio: imper@o che naturalmente @a notizia e desiderio di lui, 
+e cos@i @ae notizia naturalmente in generale del bene e del male, et in 
+potenzia particularmente; ma attualmente l'acquista poi in particulare: 
+e per@o dice: ^Salvo che mossa~; cio@e produtta l'anima umana, ^da 
+lieto Fattore~; cio@e da Dio che @e sommo bene, e per@o dice ^lieto, 
+Volontier torna~; cio@e l'anima umana, ^a ci@o che la trastulla~; cio@e 
+che la diletta: imper@o che naturalmente @a desiderio del sommo bene, 
+che @e cosa lieta; ma intorno a questo desiderio l'anima umana @e 
+ingannata spesse volte: imper@o che, desiderando lo perfetto bene, @e 
+presa dai beni mondani imperfetti, postili inanti, li quali incomincia 
+ad assaggiare e pilliane piacere; e ponendoci pi@u amore che non d@e, 
+s'inganna: imper@o che 'l perfetto bene d@e essere perfettamente amato, 
+e lo particulare bene particularmente.  Ma per ch'ella @a 
+presenzialmente lo particulare, apprendendolo coi sentimenti e co lo 
+intelletto; e 'l perfetto apprende solamente co l'intelletto, pone pi@u 
+amore al bene particulare imperfetto che al bene perfetto, e cos@i 
+s'inganna; e per@o dice: ^Di picciol ben~; cio@e del bene mondano, 
+particulare et imperfetto, ^prima sente sapore~: imper@o che, nato 
+l'omo nel mondo, @ae bisogno dei beni mondani e cos@i li comincia a 
+gustare e paianoli buoni, e sono; ma non perfettamente s@i, che per 
+essi elli si possa perfettamente contentare; e per@o dice: ^Quivi~; 
+cio@e in quel picciol bene, ^s'inganna~; cio@e l'anima umana, 
+apprendendo quello per bene lo quale non @e, ^e dietro ad esso~; cio@e 
+di quello piccolo bene, ^corre~; ella anima umana; cio@e va con 
+sfrenato desiderio, ^Se guida~; cio@e se alcuno omo saputo che insegni 
+quello bene, a che si corre, non esser vero bene e non doversi amare 
+oltra modo, adiunta ancora la grazia illuminante di Dio, che conviene 
+essere guida de le menti umane, ^o freno~; cio@e legge e statuto, ^non 
+torce suo amore~; dell'anima; cio@e non piega lo suo amore dal bene 
+imperfetto al bene perfetto.  ^Unde~; cio@e per questo, ^convenne legge 
+per fren porre~; cio@e per la cagione preditta fu necessario che si 
+facesseno le leggi divine et umane, acci@o che fusseno freno allo 
+sfrenato appetito di s@i fatti beni.  E perch@e 'l freno non guida lo 
+cavallo, se non @e chi guidi lo freno; cos@i le leggi non 
+correggerebbeno lo sfrenato appetito, se non fusse chi guidasse le 
+leggi; e per@o dice: ^Convenne~; cio@e fu necessario, ^rege aver~; 
+cio@e rettore che facesse osservare le leggi, e che almeno in generale 
+cognoscesse lo vero bene; e per@o dice ^discernesse~; cio@e cognoscesse 
+lo ditto rettore, ^al men la torre~; cio@e la guardia e difensione, che 
+@e la iustizia in generale, ^De la vera citt@a~; cio@e de la citt@a 
+eterna, ch'@e in questa vita mondana lo vivere ragionevilmente, e di 
+po' questa vita, @e vita eterna ne la fruizione di Dio dov'@e vera 
+iustizia; cio@e che almeno sappia in generale che quella, che guarda e 
+difende la nostra razionalit@a, @e la iustizia; se non pu@o sapere 
+l'altre virt@u, n@e le specie suoe in particulari, al meno la cognosca 
+in generale.  Tutti li signori non sono filosofi, bench@e si 
+converrebbe a loro d'essere, poi che sono posti sopra li altri; ma 
+almeno avesseno lo intelletto loro disposto in verso la iustizia; e 
+cos@i si dimostra per l'autore introducente Marco a parlare che la 
+cagione, che 'l mondo @e corrotto, sono li omini.
+
+	|97-105.~  In questi tre ternari lo nostro autore, poi che @a finto 
+come Marco di sopra @ae mostrato per ragione che necessario fu trovare 
+le leggi, et avere chi governasse secondo le leggi, dimostra qui la 
+conclusione; cio@e che, perch@e non si trova chi governi lo mondo, 
+secondo iustizia, come comandano le leggi, per@o sono li omini riei e 
+lo mondo corrotto, dicendo: ^Le leggi son~: imper@o scritte sono le 
+leggi divine et umane, e la legge naturale @e scritta nel cuore di 
+ciascuno; ma non c'@e nel mondo chi guidi secondo queste leggi: imper@o 
+che la legge naturale d@e avere per sua guida la ragione, e la 
+concupiscenzia la stroppia e non la lassa guidare.  E le divine leggi 
+denno avere per guida li pastori de la Chiesa, et elli l'abbandonano; e 
+l'umane debeno avere per guida li signori temporali, et elli similmente 
+l'abbandonano; e cos@i ogni uno fa male, non essendo ben guidato; e 
+per@o dice: ^ma chi pon mano ad esse~; cio@e leggi; cio@e qual omo, 
+qual signore spirituale o temporale opera secondo le leggi?  Poner mano 
+al freno @e operare lo freno, addirissare lo cavallo ad andare come 
+d@e; ma nessuno cavalcatore diriss@o mai bene lo cavallo, se prima non 
+dirissa la intenzione sua del cavalcare; e cos@i nessuno signore 
+dirissa mai li sotto posti, se prima non dirissa s@e; e per@o lo nostro 
+vero maestro Ges@u Cristo ^primo incepit facere, quam docere~, e cos@i 
+dovrebbe fare ogni signore.  E perch@e non si trova chi questo faccia, 
+per@o risponde: ^Nullo~; s'intende, pone mano ad esse leggi; et assegna 
+la cagione, perch@e @a ditto ^Nullo~, dicendo: ^per@o che il pastor~; 
+cio@e lo papa e 'l vescovo et ogni signore, ^che precede~; cio@e che va 
+inanti, come guida: imper@o che ogni signore o spirituale, o temporale 
+@e posto per guida, sicch@e ogni uno precede, ^Ruminar pu@o~; cio@e 
+pu@o rugumare, come la pecora e 'l bu' e li altri animali che @anno 
+l'unghie fesse: li animali che @anno l'unghie fesse, non per@o tutti 
+rugumano; ma niuno ruguma che non abbia l'unghie fesse, et @e rugumare 
+rifrangere lo cibo prima preso.  @Ae ordinato la natura a s@i fatti 
+animali che la canna da lo stomaco @ae due vie, e cos@i lo stomaco du' 
+luoghi: per l'una via va l'erba quando la strappa e mandala gi@u nel 
+luogo de lo stomaco deputato a ci@o; e quando si sta poi, ritorna lo 
+cibo preso suso in bocca e rifrangelo da capo e mandalo per l'altra via 
+al luogo del nutrimento.  E d@esi notare in questa parte che l'autore 
+usa qui questa figura; nella legge di Mois@e era vietato al popolo 
+l'uso de le bestie che non rugumasseno et avesseno l'unghie fesse, et 
+era permesso che quelle usasseno per suo cibo, che avesseno le ditte 
+condizioni; cio@e che rugumasseno et avesseno l'unghie fesse.  E questo 
+figurava che non dovesseno pascere ne la nuova legge; cio@e evangelica, 
+lo spirito se non di coloro, cio@e de la dottrina di coloro, quanto a 
+le parole, che rugumasseno, cio@e ripensasseno pi@u volte, almeno due, 
+la dottrina ch'elli pilliano e ch'elli danno ad altrui; e nell'opere 
+avesseno l'unghie fesse, cio@e lo desiderio diviso parte a le cose 
+mondane; cio@e quanto la necessit@a del corpo richiede, e parte a le 
+divine quanto richiede lo spirito; e li altri rifiutasseno, cio@e li 
+stolti che non vanno con considerazione, e li mondani che @anno 
+l'unghia intera, cio@e pur lo desiderio a le cose mondane; e per@o dice 
+l'autore nel testo: ^che il pastor che precede~; o temporale, o 
+spirituale che sia, ^Ruminar pu@o~; cio@e pu@o esser che quanto a le 
+parole @ae verit@a, e diceno saviamente, ^ma non @a l'unghie fesse~; 
+cio@e all'opere che elli fa, non dimostra lo desiderio suo diviso; ma 
+pure unito a le cose del mondo.  ^Perch@e~; cio@e per questo seguita, 
+^la gente~; cio@e del mondo; cio@e li sottoposti, ^che~; cio@e la 
+quale, ^sua guida vede~; cio@e lo suo pastore, che d@e essere sua 
+guida, ^Pur a quel ben ferir~; cio@e pur dirissare lo desiderio e la 
+intenzione al ben temporale, ^ond'ella~; cio@e del quale ella, ^@e 
+ghiotta~; cio@e desiderosa e vaga, ^Di quel~; cio@e bene temporale, ^si 
+pasce~; la gente del mondo, come vede pascere la sua guida, ^e pi@u 
+oltre non chiede~; se non lo bene temporale, perch@e la guida non li 
+mostra coll'opere quello che predica co la lingua, e questo notino li 
+predicatori.  Et ora conchiude, dicendo: ^Ben puoi veder~; cio@e tu, 
+Dante, per questo che detto @e, ^che la mala condotta~; cio@e lo malo 
+guidamento, ^@E la cagion che 'l mondo @a fatto reo~; cio@e per questo 
+@e corrotto lo mondo; cio@e per lo malo esemplo, ^E non natura~; 
+s'intende, di questo @e cagione, ^che~; cio@e la quale, ^in voi sia 
+corrotta~; cio@e in voi omini.  E qui si pu@o muovere questo dubbio; 
+cio@e che pare che l'autore non dica bene che la natura corrotta non 
+sia cagione de la corruzione del mondo: con ci@o sia cosa che la natura 
+umana fusse corrotta per lo peccato del primo omo; e bench@e dal 
+peccato originale noi cristiani siamo liberati per lo battesimo nel 
+quale s'infunde la grazia, niente di meno pure rimane la cicatrice de 
+la ferita che ci fu data nel libero arbitrio, per la quale @e meno 
+abile a resistere al vizio; e cos@i pare che la corruzione de la natura 
+ancora duri in noi, e sia cagione de la corruzione del mondo: imper@o 
+che se fussemo pi@u forti, resisteremmo al vizio pi@u fortemente e non 
+ci lasseremmo s@i corrumpere.  A che si d@e rispondere che, bench@e noi 
+siamo meno abili a resistere al vizio, non siamo per@o inabili al 
+tutto; e che la grazia che c'@e data, cresce sempre secondo che cresce 
+la nostra volont@a di volerla; e com'ella cresce, cos@i cresce la 
+fortezza, unde nostro @e lo difetto dell'essere meno abili, che se noi 
+volessemo noi saremmo.  E cos@i @e soluto lo dubbio doppio di Dante; 
+cio@e perch@e li omini @anno abbandonato le virt@u, e lo mondo @e s@i 
+corrotto ai vizi; cio@e che ne siamo cagione noi medesimi; cio@e la 
+guidazione e non la natura, n@e le afluenzie de le costellazioni del 
+cielo.
+
+	|106-114.~  In questi tre ternari lo nostro autore finge che Marco, 
+per confermare quello che avea detto di sopra del pastore che ruminava; 
+ma non avea l'unghie fesse, dimostra che lo temporale, che @ae occupato 
+la Chiesa, @e cagione de la corruzione de' prelati, dicendo: ^Soleva 
+Roma~; questo dice, perch@e il papa e lo imperadore denno 
+ragionevilmente stare in Roma, perch@e il papa @e vescovo dei Romani, e 
+lo imperadore re dei Romani, ^che 'l buon mondo feo~; cio@e la quale 
+Roma fece buono lo mondo: imper@o che li Romani virtuosi, andando per 
+lo mondo subiugando li regni e le nazioni, l'insegnavano a viver 
+virtuosamente, come vivevano ellino, ^Duo Soli aver~; cio@e due luci 
+del mondo, come sono due luci in cielo; cio@e lo papa e lo imperadore; 
+ma notevilmente disse ^Soli~, per non fare l'uno minore che l'altro; e 
+perch@e ciascuno doveva illuminare lo mondo, l'uno nelle cose 
+spirituali, l'altro ne le temporali; e per@o dice, ^che~; cio@e li 
+quali soli, ^l'una e l'altra strada~; cio@e la spirituale e la 
+temporale, ^Facean veder~; alli omini che guardavano ai loro costumi et 
+obedivano li loro comandamenti, ^e del mondo e di Deo~; cio@e lo 
+imperadore mostrava la via del mondo, e 'l papa la via di Dio alli 
+omini.  ^L'un~; di questi du' soli; cio@e lo papa, ^l'altro @a spento~; 
+cio@e lo imperadore, ^et @e giunta la spada Col pastorale~; cio@e lo 
+papa s'@ae preso lo reggimento temporale insieme co lo spirituale: per 
+la spada s'intende lo temporale; la quale spada s'appartiene a lo 
+imperadore che d@e operare: la spada @e la forza contra ' ribelli e 
+disobbedienti; e per lo pastorale s'intende lo spirituale lo quale 
+s'appartiene al papa, che d@e con clemenzia correggere li sudditi, et 
+ora lo papa fa battallie e scomunica, et usa la forza temporale e 
+spirituale, ^e l'un coll'altro~: cio@e la spada col pastorale, ^insieme 
+Per viva forza~; cio@e per ragione vera, che non si pu@o infringere, 
+^mal convien che vada~; cio@e conviene che abbia mal fine: lo pastorale 
+significa lo bastone che tiene lo pastore per correggere le suoe pecore 
+con clemenzia, che ben ch'elli le percuota con esso, nolle ucide; e la 
+spada significa la severa iustizia la quale conviene usare lo 
+imperadore contra li disobbedienti.  Queste due cose contrarie; cio@e 
+severa iustizia e remissa misericordia non possano stare insieme, che 
+l'una non guasti l'altra; e per@o conviene che male finisca la 
+severit@a de la iustizia meschiata insieme co la remissione de la 
+misericordia, perch@e l'una disf@a l'altra.  Appresso, la spada 
+significa lo temporale; lo pasturale lo spirituale: lo temporale 
+meschiato co lo spirituale, va male, perch@e l'uno guasta l'altro: le 
+contrarie cose non si pateno insieme, che l'una non corrompa l'altra; 
+queste due cose sono contrarie, dunqua l'una corrompe l'altra.  Ecco la 
+ragione, perch@e si mostra che conviene che l'uno insieme coll'altro 
+vada male; et assegna la ragione l'autore diversa da quella che ditta 
+@e, perch@e convien che mal vada, la qual finge che dica Marco, 
+dicendo: ^Per@o che, giunti~; insieme lo temporale co lo spirituale, 
+^l'un l'altro non teme~; cio@e lo temporale non teme lo spirituale, e 
+lo spirituale non teme lo temporale: quando li cherici non aveano se 
+non lo spirituale, temevano di fallire e di vivere disonestamente se 
+non per l'amore di Dio, al meno per paura de' seculari che, vedendo la 
+loro mala vita, non denegasseno loro le loro elimosine; e cos@i li 
+seculari temevano di fallire e vivere male, considerando lo prelato @e 
+s@i diritto che non m'assolver@a; ora vedendo lo cherico dato a le cose 
+temporali, dice: Cos@i posso fare io, com'elli; appresso dice: Io posso 
+prestare ad usura ch'io lasser@o a la chiesa, e sar@o assoluto; et 
+adiunge: ^Se non mi credi~; dice Marco a Dante, ^pon mente a la spiga~; 
+cio@e al frutto che n'esce; disse Cristo: ^A fructibus eorum 
+cognoscetis eos~; di questo mal lavoro esce mal frutto, che ' chierici 
+sono riei per la maggior parte, e li seculari piggiori, ^Ch@e ogni 
+erba~; cio@e imper@o che ogni erba, ^si cognosce per lo seme~; cio@e 
+per lo frutto che fa, ch'@e poi seme di che nasce l'erba, quando l'omo 
+lo semina; e questo @e naturale, bench@e Marco lo dica, secondo che 
+finge l'autore, esemplarmente: se pur omo dubitasse d'una erba che non 
+la cognoscesse, aspetti di vedere lo seme e seranne certificato.
+
+	|115-129.~  In questi cinque ternari lo nostro autore finge che Marco, 
+per dichiarare mellio quello ch'@e ditto di sopra; cio@e che per 
+l'effetto si vede che iunto lo spirituale col temporale mal va insieme, 
+come l'erba si cognosce per lo frutto e seme suo, dimostra per esemplo 
+quello ch'@a ditto di sopra esser vero, dicendo: ^In sul paese, 
+ch'Adice e Po riga~; cio@e in sul paese de la Marca Trivigiana et in su 
+la Lombardia e la Romagna: imper@o che Adice @e uno fiume che imbagna 
+la Marca Trivigiana, e 'l Po @e lo fiume che esce di monte Vesulo 
+dell'alpe tra la Francia e Lombardia et entra in mare a Ravenna per una 
+bocca, e sei altre ne fa verso Venezia; e cos@i per sette uscite entra 
+nel mare Adriaco, ^Solea valor e cortesia trovarsi~; cio@e ne li 
+abitatori di quelle province valor e magnanimit@a e grandezza d'animo, 
+per la quale l'omo si mette a le grandi cose et avansare li altri in 
+virt@u: cortesia @e benigna inclinazione di carit@a che l'omo @a in 
+verso 'l prossimo, per la quale l'omo fa bene al suo prossimo; cio@e a 
+ogni omo, ^Prima che Federico~; cio@e lo imperadore Federico, ^avesse 
+briga~; cio@e co la chiesa di Roma; di questo fu ditto nel canto XIII 
+de la prima cantica.  Questi fu lo imperadore Federico secondo, 
+filliuolo dello imperadore Currado filliuolo de lo imperadore Federico 
+primo; lo quale Federico primo, nipote di Currado imperadore 
+incominci@o a regnare di po' lui, anno Domini MCLIII, e del mondo 5116 
+e tenne lo imperio anni 38 e disfece Melano e fu scismatico; ma nel 
+1178 rinonci@o a lo scisma ch'era durato 16 anni e racconciliosi con 
+papa Alessandro e poi coll'arcivescovo di Ravenna e di Pisa, e col suo 
+filliuolo duca di Savoia, e con grande gente pass@o ultra mare e molte 
+grandi cose fece di l@a, e moritte tra Nicea citt@a di Luchina et 
+Antiochia, e lass@o l'esercito al suo filliuolo Currado lo quale 
+signoreggi@o di po' lui et in breve tempo moritte.  E lo soprascritto 
+Federico secondo, nipote del primo, essendo lo imperadore Otto privato 
+dello imperio, fu eletto da' baroni de la Magna e confermato da papa 
+Innocenzio, anno D. 1241 e del mondo 5174, e dur@o ne lo imperio 34 
+anni; ma nell'anno 11 del suo imperio fu fatto rebelle de la chiesa 
+Romana da papa Onorio, e niente di meno pass@o a le parti ultre marine; 
+e tornato non arrendettesi al papa.  Nel 1245 da papa Innocenzio IV che 
+succed@e ad Onorio, nel concilio generale a Lugduno fu condannato come 
+scismatico: di quale intenda l'autore si pu@o dubitare; pu@osi credere 
+mellio del secondo che del primo, lo quale si racconcili@o.  ^Or pu@o 
+siguramente ivi~; cio@e per la Marca Trivigiana, per Lombardia, per la 
+Romagna, ^passarsi Per qualunqua~; cio@e di ciascuno che, ^lassasse, 
+per vergogna Di ragionar coi buoni~: li omini cattivi si vergognano di 
+ragionare coi buoni, ^et appressarsi~; cio@e loro: li omini viziosi si 
+vergognano d'approssimarsi ai buoni; quasi dica: Ingiummai vi potranno 
+passare che non vi si trovano pi@u dei buoni, ^Ben v'en~; cio@e bene vi 
+sono, ^tre vecchi ancora~; cio@e tre gentili omini antichi, e per@o @e 
+in loro alcuna cosa di virt@u, perch@e sanno ancora dell'antico, ^in 
+cui~; cio@e ne' quali, ^L'antica et@a rampogna~; cio@e riprende, ^la 
+nuova~; cio@e et@a: imper@o che in loro se vede qual'@e millior et@a o 
+l'antica o la novella, ^e par lor tardo~; cio@e pare loro che troppo 
+indugi, ^Che Dio a millior vita li ripogna~; cio@e nell'altra vita, che 
+@e millior che questa per coloro che muoiano in grazia: imper@o che 
+vanno a purgare li peccati loro, e poi vanno in vita eterna.  ^Currado 
+di Palazzo~; questi @e l'uno di quelli tre vecchi virtuosi: ancora 
+questo Currado da Brescia fu gentile omo, magnanimo e cortesissimo, e 
+per lui s'intende la Lombardia che riga il Po, ^e 'l buon Gherardo~; 
+questi fu messere Gherardo da Camino di Trevigi, lo quale fu ancora 
+gentile omo, magnanimo e cortesissimo, e per lui s'intende Trivigi e la 
+sua Marca, che Adice riga o bagna, ^E Guido da Castel~; cio@e messere 
+Guido da Castello di Reggio, lo quale fu ancora gentile omo cortese e 
+magnanimo, ^che~; cio@e lo quale, ^mei~; cio@e mellio, ^si noma~; cio@e 
+si nomina, ^Francescamente~; cio@e al modo di Francia, che ogni uno di 
+qua dai monti chiamano li Franceschi lombardo; e per@o dice: ^il 
+semplice lombardo~; cio@e ci tramontano ^semplice~, perch@e fu omo di 
+buona fede, e forsi cos@i era nominato in qualche cansone, o sonetto, o 
+romanso fatto in francioso.  ^Di' oggi mai~; tu, Dante; cio@e puo' dire 
+questo; cio@e ^che la Chiesa di Roma, Per confonder in s@e du' 
+reggimenti~; cio@e per meschiare in s@e lo reggimento temporale e 
+spirituale, ^Cade nel fango~; cio@e non potendo portare l'uno e l'altro 
+per la bruttura del mondo, ^Cade nel fango~; cio@e cade in nel peccato, 
+^e brutta se e la soma~; cio@e li pastori de la chiesa, cadendo in 
+peccato, bruttano s@e e la soma; cio@e l'officio loro imposto: imper@o 
+che, diventata viziosa la persona, @e vitoperato l'officio impostoli; e 
+se fusseno pur co lo spirituale, li pastori de la Chiesa manterrebbensi 
+virtuosi.
+
+	|130-135.~  In questi due ternari lo nostro autore finge com'elli 
+afferm@o la ragione di Marco; e com'elli dimand@o dichiaragione di 
+Gherardo ditto di sopra, dicendo cos@i: ^Marco mio, dissi~; io Dante, 
+^tu bene argomenti~; a mostrare che la corruzione del mondo @e 
+proceduta da mali guidatori, arrecando in esemplo la chiesa di Roma, 
+come diceno li Dialetici: esemplo @e una specie d'argomento che usa lo 
+Dialetico, la quale @ae finto l'autore che abbia usato Marco e per@o la 
+commenda; et adiunge che per questo vede la cagione, dicendo: ^Et or 
+discerno perch@e da retaggio Li figli di Levi furono esenti~; cio@e 
+perch@e ne la legge di Mois@e li filliuoli di Levi che fu uno de' 
+dodici filliuoli di Iacob funno privati d'eredit@a: imper@o ch'erano 
+sacerdoti e ministravano le cose sacre; e perch@e non avesseno a 
+meschiare lo spirituale col temporale, funno esenti dal retaggio e 
+funno date loro le decime.  Et acci@o che si dichiari mellio, dimanda 
+di qual Gherardo @a ditto di sopra, dicendo: ^Ma qual Gherardo @e quel 
+che~; cio@e lo quale, ^tu~; cio@e Marco, ^per saggio Di' ch'@e rimaso~; 
+cio@e per esemplo: lo saggio @e quello che dimostra chente d@e essere 
+la cosa, ^de la gente spenta~; cio@e de la gente antica virtuosa, la 
+quale @e venuta meno, ^In rimprovero del secol selvaggio~; cio@e 
+dell'et@a presente insalvatichita o partita dal virtuoso vivere, 
+sicch@e ben si li pu@o rimproverare li vecchi che sono virtuosi?  Finge 
+Dante non cognoscerlo, perch@e abbia materia di dire de la filliuola, 
+come appare ne la seguente parte.
+
+	|136-145.~  In questi tre ternari et uno versetto lo nostro autore 
+finge come Marco dichiara di qual Gherardo parla; e come si partitte da 
+loro, dicendo cos@i: ^O 'l tuo parlar m'inganna~; dice Marco a Dante, 
+che mi dimandi qual Gherardo @e quello; cio@e o tu m'inganni che 'l 
+sai, e fingi di non saperlo perch'io dica, ^o el mi tenta~; cio@e lo 
+tuo parlare, per vedere se io so altro di lui, ^Rispuose a me~; cio@e 
+Marco a me Dante, ^che~; cio@e lo quale, ^parlandomi tosco~; cio@e 
+toscano, ^Par che del buon Gherardo~; cio@e di quil che ditto @e di 
+sopra, ^nulla senta~; sicch@e o tu m'inganni, o tu mi tenti; ma 
+rispondendoti, io ti dico: ^Per altro soprannome io~; cio@e Marco, ^nol 
+cognosco~; cio@e lo detto Gherardo, ^S'io nol tolliesse~; cio@e lo 
+sopra nome, ^da sua fillia Gaia~; cio@e s'io non dicesse: Quel Gherardo 
+che @a una filliuola chiamata Gaia, la quale per la sua bellezza era 
+chiamata Gaia, e fu s@i onesta e virtuosa che per tutta Italia era la 
+fama de la bellessa et onest@a sua; et accumiatasi Marco da Dante e da 
+Virgilio, dicendo: ^Dio sia con voi~; cio@e con te Dante e con 
+Virgilio, ^che pi@u non vegno vosco~; cio@e con voi; cio@e non posso 
+pi@u venire ch'io non posso uscire di questo fummo, dove io faccio la 
+mia penitenzia; e per@o dice: ^Vedi l'alb@or~; cio@e del Sole, ^che~; 
+cio@e lo quale, ^raia~; cio@e raggia, cio@e risplende, ^per lo fummo~; 
+cio@e che per lo fummo gi@a biancheggiava, e per@o dice: ^Gi@a 
+biancheggiar~; cio@e l'alb@or ditto di sopra, ^e me convien partirmi~; 
+dice Marco: per@o che non posso venire a la luce, e per@o dice: ^prima 
+che 'l d@i paia~; cio@e prima che appaia la chiaressa del d@i mi 
+conviene partire, ch'io non posso, in fine a tanto che non sono 
+purgato, venire a la chiaressa; e per insegnare loro la montata, dice: 
+^L'Angel @e ivi~; che vi mosterr@a la montata vostra.  ^Cos@i torn@o~; 
+cio@e Marco indirieto nel fummo, dice Dante, ^e pi@u non volle udirmi~; 
+partitosi da me.  E questo finge l'autore, perch@e avendo assai 
+trattato di questa materia, vuole procedere all'altra.  E qui finisce 
+il canto XVI et incominciasi lo XVII.
+

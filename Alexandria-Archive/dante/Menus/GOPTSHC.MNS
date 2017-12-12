@@ -1,0 +1,13 @@
+{GOPTS_HC}
+
+:SET #HEADING ~\cDDP\t\t\t\o2Continue Option Help\f2\n~
+
+:PRINT ~#HEADING
+     You  may  temporarily suspend a search session by selecting the
+     "C" option.  This signs  you off DDP completely, yet retains all
+     current  search  statements and result sets.  When you next
+     sign-on to  DDP you are given the opportunity to continue the
+     session at the point left off via a RESTART question.\n~
+
+:PAUSE BOTTOM
+:RETURN

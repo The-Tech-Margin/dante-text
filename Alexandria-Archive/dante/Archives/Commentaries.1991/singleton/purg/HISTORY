@@ -1,0 +1,6 @@
+Wed Apr 19 20:29:44 EDT 1989 jvs deleted obsolete .s files., renamed current .t to .s.
+Mon May 1 20:40:48 EDT 1989 jvs corrected files using checknew
+Mon May 1 20:42:38 EDT 1989 jvs preloaded corrected files
+Mon May 1 20:56:33 EDT 1989 JVS READY FOR PRELOADING
+Wed Jun 7 17:14:13 EDT 1989 stc changed some 1s into ls, etc.
+Wed Dec 20 11:48:14 EST 1989 jvs fixed errors in files and repreloaded
